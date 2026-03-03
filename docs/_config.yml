@@ -55,6 +55,17 @@ defaults:
 # Open Graph
 og_image: "/assets/images/og-default.png"
 
+# Twitter Card
+twitter:
+  card: summary_large_image
+
+# SEO Tag defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-default.png
+
 # Exclude files
 exclude:
   - Gemfile
