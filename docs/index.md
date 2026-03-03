@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EuTxGNN
+title: Drug Repurposing Reports
 nav_order: 1
 description: "AI-powered drug repurposing predictions for 642 EMA-approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation."
 permalink: /

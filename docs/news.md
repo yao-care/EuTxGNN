@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Health News
-nav_order: 5
+title: 📰 Health News
+nav_order: 3
 description: "Automated health news monitoring for EuTxGNN drugs and indications"
 permalink: /news/
 ---

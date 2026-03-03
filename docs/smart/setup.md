@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Technical Setup
-parent: SMART on FHIR
+title: Technical Documentation
+parent: 🏥 SMART on FHIR
 nav_order: 2
 description: "Technical implementation guide for EuTxGNN SMART on FHIR"
 permalink: /smart/setup/
 ---
 
-# Technical Setup Guide
+# Technical Documentation
 {: .fs-9 }
 
 Implementation details for EHR integration
@@ -149,4 +149,4 @@ Use the [SMART App Launcher](https://launch.smarthealthit.org/) for testing:
 
 For implementation support:
 - [GitHub Issues](https://github.com/yao-care/EuTxGNN/issues)
-- [FHIR API Documentation](/fhir/metadata)
+- [FHIR API Documentation](/smart/fhir-api/)

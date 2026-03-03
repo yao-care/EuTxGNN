@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-nav_order: 4
+nav_order: 6
 has_children: true
 description: "Data sources, downloads, and external resources"
 permalink: /resources/
@@ -21,6 +21,7 @@ Data sources, downloads, and references
 |----------|-------------|
 | [Data Sources](/sources/) | Databases and references used |
 | [Downloads](/downloads/) | Download prediction data |
+| [Case Studies](/case-studies/) | Research examples and validation |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: SMART on FHIR
-nav_order: 4
+title: 🏥 SMART on FHIR
+nav_order: 2
 has_children: true
 description: "SMART on FHIR integration for EuTxGNN drug repurposing"
 permalink: /smart/
@@ -27,6 +27,7 @@ EuTxGNN provides a SMART on FHIR application that allows healthcare institutions
 - **Medication Query**: Automatic lookup of patient's current medications
 - **Repurposing Candidates**: Display relevant predictions for each drug
 - **Evidence Links**: Direct links to supporting evidence
+- **FHIR R4 Compliance**: Full compliance with HL7 FHIR R4 standard
 
 ---
 
@@ -40,9 +41,30 @@ EuTxGNN provides a SMART on FHIR application that allows healthcare institutions
 
 ### For Developers
 
-1. Review [FHIR API](/fhir/metadata) documentation
+1. Review [FHIR API Specification](/smart/fhir-api/)
 2. Implement SMART authorization flow
 3. Query MedicationKnowledge and ClinicalUseDefinition resources
+
+---
+
+## App Registration
+
+To register EuTxGNN with your EHR:
+
+| Field | Value |
+|-------|-------|
+| **Launch URL** | `https://eutxgnn.yao.care/smart/launch.html` |
+| **Redirect URL** | `https://eutxgnn.yao.care/smart/app.html` |
+| **App Type** | Public client |
+
+**Scopes Required**:
+- `launch`
+- `patient/Patient.read`
+- `patient/MedicationRequest.read`
+
+**Optional Scopes**:
+- `patient/Condition.read`
+- `patient/AllergyIntolerance.read`
 
 ---
 
@@ -51,23 +73,9 @@ EuTxGNN provides a SMART on FHIR application that allows healthcare institutions
 | Guide | Description |
 |-------|-------------|
 | [User Guide](/smart/guide/) | How to use the SMART app |
-| [Technical Setup](/smart/setup/) | Implementation details |
-| [FHIR API](/fhir/metadata) | API specifications |
-
----
-
-## App Registration
-
-To register EuTxGNN with your EHR:
-
-**Launch URL**: `https://eutxgnn.yao.care/smart/launch.html`
-
-**Redirect URL**: `https://eutxgnn.yao.care/smart/app.html`
-
-**Scopes Required**:
-- `patient/Patient.read`
-- `patient/MedicationRequest.read`
-- `launch`
+| [Technical Documentation](/smart/setup/) | Implementation details |
+| [Integration Resources](/smart/integration/) | Third-party integrations |
+| [FHIR API Specification](/smart/fhir-api/) | API specifications |
 
 ---
 
@@ -79,6 +87,6 @@ EuTxGNN is designed to be compatible with the [SMART App Gallery](https://apps.s
 
 ## Disclaimer
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>Research Use Only:</strong> The SMART on FHIR application provides research-level predictions that require clinical validation before therapeutic use.
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Documentation
-nav_order: 2
+nav_order: 7
 has_children: true
 description: "Technical documentation for EuTxGNN drug repurposing prediction system"
 permalink: /documentation/
@@ -25,6 +25,8 @@ This section contains technical documentation for the EuTxGNN drug repurposing p
 |----------|-------------|
 | [Methodology](/methodology/) | How predictions are generated |
 | [User Guide](/guide/) | How to use EuTxGNN reports |
+| [About](/about/) | Project overview and goals |
+| [Privacy Policy](/privacy-policy/) | Data handling practices |
 
 ---
 
@@ -32,12 +34,12 @@ This section contains technical documentation for the EuTxGNN drug repurposing p
 
 - **For Researchers**: Start with [Methodology](/methodology/) to understand the prediction approach
 - **For Clinicians**: See [User Guide](/guide/) for interpreting reports
-- **For Developers**: Check [FHIR API](/fhir/metadata) for integration
+- **For Developers**: Check [FHIR API](/smart/fhir-api/) for integration
 
 ---
 
 ## Disclaimer
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
+<div class="disclaimer">
 <strong>Research Use Only:</strong> EuTxGNN predictions are for research purposes only and should not be used for clinical decision-making without proper validation.
 </div>

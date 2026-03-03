@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drug Reports
-nav_order: 3
+nav_order: 4
 has_children: true
 description: "Drug repurposing predictions organized by evidence level"
 permalink: /drug-reports/

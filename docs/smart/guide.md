@@ -1,7 +1,7 @@
 ---
 layout: default
 title: User Guide
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 1
 description: "How to use the EuTxGNN SMART on FHIR application"
 permalink: /smart/guide/

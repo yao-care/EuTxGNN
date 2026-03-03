@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Privacy Policy
-nav_order: 99
+parent: Documentation
+nav_order: 4
 description: "EuTxGNN Privacy Policy"
 permalink: /privacy-policy/
 ---
