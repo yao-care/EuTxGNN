@@ -1,0 +1,67 @@
+{
+  "resourceType": "CapabilityStatement",
+  "id": "eutxgnn-fhir-server",
+  "url": "https://eutxgnn.yao.care/fhir/metadata",
+  "version": "1.0.0",
+  "name": "EuTxGNNFHIRServer",
+  "title": "EuTxGNN FHIR Server",
+  "status": "active",
+  "experimental": true,
+  "date": "2026-03-03",
+  "publisher": "EuTxGNN Project",
+  "description": "FHIR R4 server providing EU drug repurposing predictions from TxGNN",
+  "kind": "instance",
+  "fhirVersion": "4.0.1",
+  "format": [
+    "json"
+  ],
+  "rest": [
+    {
+      "mode": "server",
+      "resource": [
+        {
+          "type": "MedicationKnowledge",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "code",
+              "type": "token"
+            },
+            {
+              "name": "status",
+              "type": "token"
+            }
+          ]
+        },
+        {
+          "type": "ClinicalUseDefinition",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "type",
+              "type": "token"
+            },
+            {
+              "name": "subject",
+              "type": "reference"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

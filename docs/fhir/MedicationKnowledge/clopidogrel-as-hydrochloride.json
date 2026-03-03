@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "clopidogrel-as-hydrochloride",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB00758",
+        "display": "CLOPIDOGREL (AS HYDROCHLORIDE)"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "clopidogrel-as-hydrochloride",
+        "display": "Clopidogrel HCS"
+      }
+    ],
+    "text": "Clopidogrel HCS (CLOPIDOGREL (AS HYDROCHLORIDE))"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Clopidogrel HCS"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/002255"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

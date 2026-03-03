@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "caspofungin-as-acetate",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB00520",
+        "display": "CASPOFUNGIN (AS ACETATE)"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "caspofungin-as-acetate",
+        "display": "Cancidas (previously Caspofungin MSD)"
+      }
+    ],
+    "text": "Cancidas (previously Caspofungin MSD) (CASPOFUNGIN (AS ACETATE))"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Cancidas (previously Caspofungin MSD)"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/000379"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

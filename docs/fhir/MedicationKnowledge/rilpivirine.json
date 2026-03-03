@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "rilpivirine",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:23:11Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB08864",
+        "display": "RILPIVIRINE"
+      },
+      {
+        "system": "https://eutxgnn.github.io/drugs",
+        "code": "rilpivirine",
+        "display": "Rekambys"
+      }
+    ],
+    "text": "Rekambys (RILPIVIRINE)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Rekambys"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.github.io/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/005060"
+    },
+    {
+      "url": "https://eutxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

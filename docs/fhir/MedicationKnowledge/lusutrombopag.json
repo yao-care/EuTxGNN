@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "lusutrombopag",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB13125",
+        "display": "LUSUTROMBOPAG"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "lusutrombopag",
+        "display": "Mulpleo (previously Lusutrombopag Shionogi)"
+      }
+    ],
+    "text": "Mulpleo (previously Lusutrombopag Shionogi) (LUSUTROMBOPAG)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Mulpleo (previously Lusutrombopag Shionogi)"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/004720"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

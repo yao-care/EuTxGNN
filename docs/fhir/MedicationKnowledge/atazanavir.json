@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "atazanavir",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:23:11Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB01072",
+        "display": "ATAZANAVIR"
+      },
+      {
+        "system": "https://eutxgnn.github.io/drugs",
+        "code": "atazanavir",
+        "display": "Evotaz"
+      }
+    ],
+    "text": "Evotaz (ATAZANAVIR)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Evotaz"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.github.io/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/003904"
+    },
+    {
+      "url": "https://eutxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

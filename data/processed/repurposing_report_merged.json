@@ -1,0 +1,75 @@
+{
+  "generated_at": "2026-03-03T10:28:28.200765",
+  "kg_predictions": 3475,
+  "dl_predictions": 31650,
+  "dl_matched_to_eu": 28100,
+  "merged_total": 32368,
+  "unique_drugs": 638,
+  "unique_indications": 4570,
+  "source_breakdown": {
+    "TxGNN Deep Learning": 31650,
+    "TxGNN Knowledge Graph": 718
+  },
+  "top_scores": [
+    {
+      "ingredient": "TRAVOPROST",
+      "potential_indication": "visceral calciphylaxis",
+      "score": 0.9999984502792358,
+      "source": "TxGNN Deep Learning"
+    },
+    {
+      "ingredient": "CAPLACIZUMAB",
+      "potential_indication": "primary release disorder of platelets",
+      "score": 0.9999983310699464,
+      "source": "TxGNN Deep Learning"
+    },
+    {
+      "ingredient": "ROMIPLOSTIM",
+      "potential_indication": "primary release disorder of platelets",
+      "score": 0.9999983310699464,
+      "source": "TxGNN Deep Learning"
+    },
+    {
+      "ingredient": "CAPLACIZUMAB",
+      "potential_indication": "pseudo-von Willebrand disease",
+      "score": 0.9999980926513672,
+      "source": "TxGNN Deep Learning"
+    },
+    {
+      "ingredient": "AZATHIOPRINE",
+      "potential_indication": "rheumatoid arthritis",
+      "score": 0.9999979734420776,
+      "source": "TxGNN Deep Learning"
+    },
+    {
+      "ingredient": "TRAVOPROST",
+      "potential_indication": "arterial thoracic outlet syndrome",
+      "score": 0.9999979734420776,
+      "source": "TxGNN Deep Learning"
+    },
+    {
+      "ingredient": "CAPLACIZUMAB",
+      "potential_indication": "Glanzmann thrombasthenia",
+      "score": 0.9999979734420776,
+      "source": "TxGNN Deep Learning"
+    },
+    {
+      "ingredient": "TRAVOPROST",
+      "potential_indication": "venous thoracic outlet syndrome",
+      "score": 0.9999979734420776,
+      "source": "TxGNN Deep Learning"
+    },
+    {
+      "ingredient": "ROMIPLOSTIM",
+      "potential_indication": "pseudo-von Willebrand disease",
+      "score": 0.9999977350234984,
+      "source": "TxGNN Deep Learning"
+    },
+    {
+      "ingredient": "TRAVOPROST",
+      "potential_indication": "neurogenic thoracic outlet syndrome",
+      "score": 0.9999972581863404,
+      "source": "TxGNN Deep Learning"
+    }
+  ]
+}

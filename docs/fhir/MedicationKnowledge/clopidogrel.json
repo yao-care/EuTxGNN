@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "clopidogrel",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:32Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB00758",
+        "display": "CLOPIDOGREL"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "clopidogrel",
+        "display": "Clopidogrel/Acetylsalicylic acid Zentiva (previously DuoCover)"
+      }
+    ],
+    "text": "Clopidogrel/Acetylsalicylic acid Zentiva (previously DuoCover) (CLOPIDOGREL)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Clopidogrel/Acetylsalicylic acid Zentiva (previously DuoCover)"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/001144"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

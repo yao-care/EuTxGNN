@@ -1,0 +1,16 @@
+{
+  "description": "EU health news aggregated from European sources",
+  "fetched_at": "2026-03-03T10:23:36.362212",
+  "total_items": 0,
+  "relevant_items": 0,
+  "sources": [
+    "ema_news",
+    "ema_press",
+    "ecdc",
+    "who_europe",
+    "medscape_eu",
+    "reuters_health",
+    "ema_safety_updates"
+  ],
+  "items": []
+}

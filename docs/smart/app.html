@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EuTxGNN - Drug Repurposing Assistant</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5;
+            min-height: 100vh;
+        }
+        .header {
+            background: linear-gradient(135deg, #003399 0%, #004db3 100%);
+            color: white;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        .logo span {
+            color: #ffcc00;
+        }
+        .patient-info {
+            background: rgba(255,255,255,0.1);
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+        .card-header {
+            background: #f8f9fa;
+            padding: 15px 20px;
+            border-bottom: 1px solid #e9ecef;
+            font-weight: 600;
+        }
+        .card-body {
+            padding: 20px;
+        }
+        .medication-list {
+            list-style: none;
+        }
+        .medication-item {
+            padding: 15px;
+            border-bottom: 1px solid #e9ecef;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .medication-item:last-child {
+            border-bottom: none;
+        }
+        .medication-name {
+            font-weight: 600;
+            color: #333;
+        }
+        .medication-dose {
+            color: #666;
+            font-size: 0.9rem;
+        }
+        .btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: background 0.2s;
+        }
+        .btn-primary {
+            background: #003399;
+            color: white;
+        }
+        .btn-primary:hover {
+            background: #002266;
+        }
+        .btn-outline {
+            background: transparent;
+            border: 1px solid #003399;
+            color: #003399;
+        }
+        .btn-outline:hover {
+            background: #003399;
+            color: white;
+        }
+        .repurposing-results {
+            margin-top: 20px;
+        }
+        .result-item {
+            padding: 15px;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            background: #fafafa;
+        }
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .result-drug {
+            font-weight: 600;
+            color: #003399;
+        }
+        .result-score {
+            background: #28a745;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 15px;
+            font-size: 0.85rem;
+        }
+        .result-score.medium {
+            background: #ffc107;
+            color: #333;
+        }
+        .result-score.low {
+            background: #6c757d;
+        }
+        .result-indication {
+            color: #666;
+            margin-bottom: 5px;
+        }
+        .result-source {
+            font-size: 0.8rem;
+            color: #999;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid #e9ecef;
+            border-top-color: #003399;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .disclaimer {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+            color: #856404;
+        }
+        .error {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            border-radius: 5px;
+            padding: 15px;
+            color: #721c24;
+        }
+        .no-data {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">Eu<span>TxGNN</span></div>
+        <div class="patient-info" id="patient-info">Loading patient...</div>
+    </div>
+
+    <div class="container">
+        <div class="disclaimer">
+            <strong>Research Use Only:</strong> These predictions are for research purposes only and do not constitute medical advice. All candidates require clinical validation.
+        </div>
+
+        <div class="card">
+            <div class="card-header">Current Medications</div>
+            <div class="card-body" id="medications-container">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Loading medications...</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">Drug Repurposing Opportunities</div>
+            <div class="card-body" id="repurposing-container">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Analyzing repurposing candidates...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js"></script>
+    <script>
+        // Sample repurposing data (in production, this would come from API)
+        const REPURPOSING_DATA = {
+            "metformin": [
+                { indication: "Cancer prevention", score: 0.85, source: "TxGNN Deep Learning" },
+                { indication: "Anti-aging", score: 0.72, source: "TxGNN Knowledge Graph" }
+            ],
+            "atorvastatin": [
+                { indication: "Alzheimer disease", score: 0.78, source: "TxGNN Deep Learning" },
+                { indication: "Multiple sclerosis", score: 0.65, source: "TxGNN Knowledge Graph" }
+            ],
+            "lisinopril": [
+                { indication: "Diabetic nephropathy", score: 0.92, source: "TxGNN Deep Learning" }
+            ],
+            "omeprazole": [
+                { indication: "Barrett esophagus prevention", score: 0.71, source: "TxGNN Deep Learning" }
+            ]
+        };
+
+        function getScoreClass(score) {
+            if (score >= 0.8) return "";
+            if (score >= 0.6) return "medium";
+            return "low";
+        }
+
+        function renderMedications(medications) {
+            const container = document.getElementById("medications-container");
+
+            if (!medications || medications.length === 0) {
+                container.innerHTML = '<div class="no-data">No active medications found.</div>';
+                return;
+            }
+
+            let html = '<ul class="medication-list">';
+            medications.forEach(med => {
+                const name = med.medicationCodeableConcept?.text ||
+                             med.medicationCodeableConcept?.coding?.[0]?.display ||
+                             "Unknown medication";
+                const dose = med.dosageInstruction?.[0]?.text || "";
+
+                html += `
+                    <li class="medication-item">
+                        <div>
+                            <div class="medication-name">${name}</div>
+                            <div class="medication-dose">${dose}</div>
+                        </div>
+                        <button class="btn btn-outline" onclick="checkRepurposing('${name}')">
+                            Check Repurposing
+                        </button>
+                    </li>
+                `;
+            });
+            html += '</ul>';
+            container.innerHTML = html;
+        }
+
+        function renderRepurposingResults(drugName, results) {
+            const container = document.getElementById("repurposing-container");
+
+            if (!results || results.length === 0) {
+                container.innerHTML = `<div class="no-data">No repurposing candidates found for ${drugName}.</div>`;
+                return;
+            }
+
+            let html = `<h4 style="margin-bottom: 15px;">Results for ${drugName}</h4><div class="repurposing-results">`;
+            results.forEach(result => {
+                const scoreClass = getScoreClass(result.score);
+                html += `
+                    <div class="result-item">
+                        <div class="result-header">
+                            <span class="result-drug">${drugName}</span>
+                            <span class="result-score ${scoreClass}">${(result.score * 100).toFixed(0)}% confidence</span>
+                        </div>
+                        <div class="result-indication">Potential indication: <strong>${result.indication}</strong></div>
+                        <div class="result-source">Source: ${result.source}</div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        function checkRepurposing(drugName) {
+            const normalizedName = drugName.toLowerCase();
+            const results = REPURPOSING_DATA[normalizedName] || [];
+            renderRepurposingResults(drugName, results);
+        }
+
+        // Initialize SMART on FHIR
+        FHIR.oauth2.ready()
+            .then(function(client) {
+                // Update patient info
+                client.patient.read().then(function(patient) {
+                    const name = patient.name?.[0];
+                    const displayName = name ?
+                        `${name.given?.[0] || ""} ${name.family || ""}`.trim() :
+                        "Unknown Patient";
+                    document.getElementById("patient-info").textContent = `Patient: ${displayName}`;
+                }).catch(function() {
+                    document.getElementById("patient-info").textContent = "Patient: Unknown";
+                });
+
+                // Fetch medications
+                client.request("MedicationRequest?status=active", { flat: true })
+                    .then(function(medications) {
+                        renderMedications(medications);
+
+                        // Show initial repurposing analysis
+                        const container = document.getElementById("repurposing-container");
+                        container.innerHTML = '<div class="no-data">Select a medication above to check repurposing opportunities.</div>';
+                    })
+                    .catch(function(error) {
+                        document.getElementById("medications-container").innerHTML =
+                            '<div class="error">Error loading medications: ' + error.message + '</div>';
+                    });
+            })
+            .catch(function(error) {
+                // Demo mode when not launched from EHR
+                document.getElementById("patient-info").textContent = "Demo Mode";
+
+                // Show demo medications
+                const demoMeds = [
+                    { medicationCodeableConcept: { text: "Metformin 500mg" }, dosageInstruction: [{ text: "Twice daily" }] },
+                    { medicationCodeableConcept: { text: "Atorvastatin 20mg" }, dosageInstruction: [{ text: "Once daily at bedtime" }] },
+                    { medicationCodeableConcept: { text: "Lisinopril 10mg" }, dosageInstruction: [{ text: "Once daily" }] },
+                    { medicationCodeableConcept: { text: "Omeprazole 20mg" }, dosageInstruction: [{ text: "Once daily before breakfast" }] }
+                ];
+                renderMedications(demoMeds);
+
+                const container = document.getElementById("repurposing-container");
+                container.innerHTML = '<div class="no-data">Select a medication above to check repurposing opportunities.</div>';
+            });
+    </script>
+</body>
+</html>

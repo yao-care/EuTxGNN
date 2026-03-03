@@ -1,0 +1,29 @@
+{
+  "total_candidates": 3475,
+  "unique_drugs": 304,
+  "unique_diseases": 649,
+  "top_diseases": {
+    "diabetes mellitus (disease)": 75,
+    "AIDS": 74,
+    "hypertensive disorder": 52,
+    "type 2 diabetes mellitus": 36,
+    "Crohn disease": 31,
+    "spondyloarthropathy, susceptibility to": 30,
+    "Crohn's colitis": 30,
+    "psoriatic arthritis": 29,
+    "lymphosarcoma": 29,
+    "B-cell neoplasm": 29
+  },
+  "top_drugs": {
+    "DEXAMETHASONE": 144,
+    "HYDROCORTISONE": 138,
+    "CARMUSTINE": 52,
+    "THIOTEPA": 39,
+    "PACLITAXEL": 30,
+    "METHOTREXATE": 27,
+    "TOBRAMYCIN": 25,
+    "KETOCONAZOLE": 23,
+    "BEVACIZUMAB": 20,
+    "FLUTICASONE PROPIONATE": 18
+  }
+}

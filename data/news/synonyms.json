@@ -1,0 +1,274 @@
+{
+  "description": "Disease and drug synonyms for European health news monitoring",
+  "languages": ["en", "de", "fr", "es", "it"],
+  "generated": "2026-03-03",
+  "indication_synonyms": {
+    "diabetes mellitus": [
+      "diabetes",
+      "type 2 diabetes",
+      "type 1 diabetes",
+      "diabetic",
+      "Diabetes mellitus",
+      "Zuckerkrankheit",
+      "diabète",
+      "diabete"
+    ],
+    "hypertension": [
+      "high blood pressure",
+      "arterial hypertension",
+      "elevated blood pressure",
+      "Bluthochdruck",
+      "hypertension artérielle",
+      "hipertensión",
+      "ipertensione"
+    ],
+    "cancer": [
+      "carcinoma",
+      "tumor",
+      "tumour",
+      "malignancy",
+      "oncology",
+      "neoplasm",
+      "Krebs",
+      "Tumor",
+      "cancer",
+      "cancro"
+    ],
+    "heart disease": [
+      "cardiovascular disease",
+      "coronary heart disease",
+      "cardiac disease",
+      "heart failure",
+      "Herzerkrankung",
+      "maladie cardiaque",
+      "cardiopatía",
+      "malattia cardiaca"
+    ],
+    "asthma": [
+      "bronchial asthma",
+      "asthmatic",
+      "Asthma bronchiale",
+      "asthme",
+      "asma"
+    ],
+    "depression": [
+      "major depression",
+      "depressive disorder",
+      "clinical depression",
+      "Depression",
+      "dépression",
+      "depresión",
+      "depressione"
+    ],
+    "arthritis": [
+      "rheumatoid arthritis",
+      "osteoarthritis",
+      "joint inflammation",
+      "Arthritis",
+      "Gelenkentzündung",
+      "arthrite",
+      "artritis",
+      "artrite"
+    ],
+    "stroke": [
+      "cerebrovascular accident",
+      "CVA",
+      "ischemic stroke",
+      "hemorrhagic stroke",
+      "Schlaganfall",
+      "accident vasculaire cérébral",
+      "AVC",
+      "ictus",
+      "apoplessia"
+    ],
+    "obesity": [
+      "overweight",
+      "adiposity",
+      "morbid obesity",
+      "Adipositas",
+      "Fettleibigkeit",
+      "obésité",
+      "obesidad",
+      "obesità"
+    ],
+    "alzheimer disease": [
+      "Alzheimer's",
+      "Alzheimer dementia",
+      "dementia",
+      "Alzheimer-Krankheit",
+      "maladie d'Alzheimer",
+      "enfermedad de Alzheimer",
+      "malattia di Alzheimer"
+    ],
+    "multiple sclerosis": [
+      "MS",
+      "disseminated sclerosis",
+      "Multiple Sklerose",
+      "sclérose en plaques",
+      "esclerosis múltiple",
+      "sclerosi multipla"
+    ],
+    "parkinson disease": [
+      "Parkinson's",
+      "parkinsonism",
+      "Parkinson-Krankheit",
+      "maladie de Parkinson",
+      "enfermedad de Parkinson",
+      "morbo di Parkinson"
+    ],
+    "epilepsy": [
+      "seizure disorder",
+      "convulsions",
+      "Epilepsie",
+      "épilepsie",
+      "epilepsia"
+    ],
+    "migraine": [
+      "migraine headache",
+      "Migräne",
+      "migraine",
+      "migraña",
+      "emicrania"
+    ],
+    "psoriasis": [
+      "plaque psoriasis",
+      "Schuppenflechte",
+      "psoriasis",
+      "soriasi"
+    ],
+    "crohn disease": [
+      "Crohn's disease",
+      "regional enteritis",
+      "Morbus Crohn",
+      "maladie de Crohn",
+      "enfermedad de Crohn",
+      "malattia di Crohn"
+    ],
+    "ulcerative colitis": [
+      "colitis ulcerosa",
+      "Colitis ulcerosa",
+      "rectocolite hémorragique",
+      "colitis ulcerosa",
+      "colite ulcerosa"
+    ],
+    "hepatitis": [
+      "liver inflammation",
+      "viral hepatitis",
+      "hepatitis B",
+      "hepatitis C",
+      "Hepatitis",
+      "hépatite",
+      "epatite"
+    ],
+    "chronic kidney disease": [
+      "CKD",
+      "renal failure",
+      "kidney failure",
+      "chronische Nierenerkrankung",
+      "maladie rénale chronique",
+      "enfermedad renal crónica"
+    ],
+    "copd": [
+      "chronic obstructive pulmonary disease",
+      "emphysema",
+      "chronic bronchitis",
+      "COPD",
+      "BPCO",
+      "EPOC"
+    ],
+    "atrial fibrillation": [
+      "AFib",
+      "AF",
+      "irregular heartbeat",
+      "Vorhofflimmern",
+      "fibrillation auriculaire",
+      "fibrilación auricular"
+    ]
+  },
+  "drug_synonyms": {
+    "metformin": [
+      "Glucophage",
+      "Glumetza",
+      "Fortamet",
+      "Riomet"
+    ],
+    "aspirin": [
+      "acetylsalicylic acid",
+      "ASA",
+      "Aspirin",
+      "Bayer Aspirin"
+    ],
+    "ibuprofen": [
+      "Advil",
+      "Motrin",
+      "Nurofen",
+      "Brufen"
+    ],
+    "paracetamol": [
+      "acetaminophen",
+      "Tylenol",
+      "Panadol",
+      "Doliprane"
+    ],
+    "omeprazole": [
+      "Prilosec",
+      "Losec",
+      "Antra"
+    ],
+    "atorvastatin": [
+      "Lipitor",
+      "Sortis"
+    ],
+    "simvastatin": [
+      "Zocor",
+      "Simvahexal"
+    ],
+    "amlodipine": [
+      "Norvasc",
+      "Istin"
+    ],
+    "lisinopril": [
+      "Prinivil",
+      "Zestril"
+    ],
+    "losartan": [
+      "Cozaar",
+      "Lorzaar"
+    ],
+    "adalimumab": [
+      "Humira",
+      "Hadlima",
+      "Hyrimoz"
+    ],
+    "infliximab": [
+      "Remicade",
+      "Remsima",
+      "Inflectra"
+    ],
+    "rituximab": [
+      "Rituxan",
+      "MabThera",
+      "Truxima"
+    ],
+    "trastuzumab": [
+      "Herceptin",
+      "Herzuma",
+      "Ogivri"
+    ],
+    "pembrolizumab": [
+      "Keytruda"
+    ],
+    "nivolumab": [
+      "Opdivo"
+    ],
+    "semaglutide": [
+      "Ozempic",
+      "Wegovy",
+      "Rybelsus"
+    ],
+    "tirzepatide": [
+      "Mounjaro",
+      "Zepbound"
+    ]
+  }
+}
