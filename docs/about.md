@@ -1,7 +1,9 @@
 ---
 layout: default
 title: About
-nav_order: 2
+nav_order: 6
+description: "About the EuTxGNN drug repurposing prediction project"
+permalink: /about/
 ---
 
 # About EuTxGNN
