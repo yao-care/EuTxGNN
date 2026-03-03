@@ -1,7 +1,7 @@
 {
   "description": "EU health news aggregated from European sources",
-  "fetched_at": "2026-03-03T12:20:08.046941+00:00",
-  "total_items": 291,
+  "fetched_at": "2026-03-03T18:59:52.417490+00:00",
+  "total_items": 313,
   "relevant_items": 24,
   "sources": [
     "ema_news",
