@@ -8,7 +8,7 @@ permalink: /news/
 
 # Health News Monitoring
 
-Automated tracking of health news related to EuTxGNN drugs and indications
+News mentioning **both** EuTxGNN drugs and disease indications — click drug tags to view repurposing reports
 {: .fs-6 .fw-300 }
 
 ---
@@ -27,20 +27,29 @@ async function loadNews() {
     const data = await response.json();
 
     if (data.items && data.items.length > 0) {
-      let html = `<p style="color: #666; font-size: 0.9em;">Updated: ${new Date(data.fetched_at).toLocaleString()} | Total: ${data.total_items} items | Relevant: ${data.relevant_items} items</p>`;
+      // Filter: only show news with BOTH drug AND disease mentions
+      const relevantNews = data.items.filter(item =>
+        item.matched_drugs && item.matched_drugs.length > 0 &&
+        item.matched_diseases && item.matched_diseases.length > 0
+      );
+
+      let html = `<p style="color: #666; font-size: 0.9em;">Updated: ${new Date(data.fetched_at).toLocaleString()} | Drug-Disease pairs: ${relevantNews.length} items</p>`;
+
+      if (relevantNews.length === 0) {
+        html += '<p class="no-news">No news with both drug and disease mentions at this time. Check back later.</p>';
+        container.innerHTML = html;
+        return;
+      }
+
       html += '<div class="news-list">';
 
-      data.items.slice(0, 20).forEach(item => {
-        const drugs = item.matched_drugs && item.matched_drugs.length > 0
-          ? item.matched_drugs.map(drug =>
-              `<a href="/drugs/${drug.toLowerCase().replace(/\s+/g, '-')}/" class="drug-tag">${drug}</a>`
-            ).join(' ')
-          : '';
-        const diseases = item.matched_diseases && item.matched_diseases.length > 0
-          ? item.matched_diseases.map(disease =>
-              `<a href="/drugs/?q=${encodeURIComponent(disease)}" class="disease-tag">${disease}</a>`
-            ).join(' ')
-          : '';
+      relevantNews.slice(0, 20).forEach(item => {
+        const drugs = item.matched_drugs.map(drug =>
+          `<a href="/drugs/${drug.toLowerCase().replace(/\s+/g, '-')}/" class="drug-tag">${drug} →</a>`
+        ).join(' ');
+        const diseases = item.matched_diseases.map(disease =>
+          `<a href="/?q=${encodeURIComponent(disease)}" class="disease-tag">${disease}</a>`
+        ).join(' ');
 
         html += `
           <div class="news-item">
@@ -150,6 +159,13 @@ loadNews();
   color: #333;
   text-decoration: none;
 }
+.no-news {
+  text-align: center;
+  padding: 2rem;
+  color: #666;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
 </style>
 
 ---
@@ -169,9 +185,9 @@ loadNews();
 ## How It Works
 
 1. **Automated Fetching**: GitHub Actions fetches news every 6 hours from official RSS feeds
-2. **Keyword Matching**: System matches 638 EMA drugs and 21 disease categories
-3. **Relevance Filtering**: Only news mentioning tracked drugs/diseases are shown
-4. **Direct Links**: Click any headline to read the full article on the source website
+2. **Keyword Matching**: System matches 642 EMA drugs and 21 disease categories
+3. **Drug-Disease Pairs**: Only news mentioning **both** a drug AND a disease are shown
+4. **Direct Links**: Click drug tags → view repurposing report | Click headline → read original article
 
 ---
 
