@@ -2,17 +2,18 @@
 """
 Fetch health news from European sources for EuTxGNN drug monitoring.
 
+Uses keywords.json to match drugs and diseases, with drug-disease relations.
+When a disease is matched, related drugs are automatically included.
+
 Sources:
 - EMA (European Medicines Agency) RSS feeds
 - ECDC (European Centre for Disease Prevention and Control)
-- WHO Europe news
-- Reuters Health (EU focused)
 """
 
 import json
 import re
 import sys
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.request import urlopen, Request
 from urllib.error import URLError, HTTPError
@@ -32,29 +33,15 @@ RSS_FEEDS = {
     "ecdc_epidemiological": "https://www.ecdc.europa.eu/en/taxonomy/term/1310/feed",
 }
 
-def load_synonyms():
-    """Load drug and disease synonyms for matching."""
-    synonyms_path = Path(__file__).parent.parent / "data" / "news" / "synonyms.json"
-    if synonyms_path.exists():
-        with open(synonyms_path) as f:
-            return json.load(f)
-    return {"indication_synonyms": {}, "drug_synonyms": {}}
 
-def load_drug_list():
-    """Load the list of EuTxGNN drugs."""
-    drug_list_path = Path(__file__).parent.parent / "data" / "processed" / "ema_drugs_mapped.json"
-    if drug_list_path.exists():
-        with open(drug_list_path) as f:
-            data = json.load(f)
-            # Extract drug names
-            drugs = set()
-            for item in data:
-                if "brand_name" in item:
-                    drugs.add(item["brand_name"].lower())
-                if "active_substance" in item:
-                    drugs.add(item["active_substance"].lower())
-            return drugs
-    return set()
+def load_keywords():
+    """Load keywords.json with drug-disease relations."""
+    keywords_path = Path(__file__).parent.parent / "data" / "news" / "keywords.json"
+    if keywords_path.exists():
+        with open(keywords_path) as f:
+            return json.load(f)
+    return {"drugs": [], "indications": []}
+
 
 def fetch_rss(url: str, source_name: str) -> list:
     """Fetch and parse an RSS feed."""
@@ -105,6 +92,7 @@ def fetch_rss(url: str, source_name: str) -> list:
 
     return items
 
+
 def clean_html(text: str) -> str:
     """Remove HTML tags from text."""
     if not text:
@@ -115,40 +103,60 @@ def clean_html(text: str) -> str:
     clean = re.sub(r'\s+', ' ', clean).strip()
     return clean[:500]  # Limit description length
 
-def match_keywords(text: str, synonyms: dict, drugs: set) -> dict:
-    """Find matching drugs and diseases in text."""
+
+def match_keywords(text: str, keywords: dict) -> dict:
+    """
+    Find matching drugs and diseases in text.
+    When a disease matches, include its related_drugs.
+    """
     text_lower = text.lower()
-    matches = {"drugs": [], "diseases": []}
+    matches = {
+        "drugs": [],           # Directly matched drugs
+        "diseases": [],        # Matched diseases
+        "related_drugs": [],   # Drugs related to matched diseases
+    }
 
-    # Match drugs
-    for drug in drugs:
-        if len(drug) > 3 and drug in text_lower:
-            matches["drugs"].append(drug)
+    # Match drugs directly
+    for drug in keywords.get("drugs", []):
+        drug_name = drug.get("name", "")
+        drug_slug = drug.get("slug", "")
 
-    # Match drug synonyms
-    for drug, syns in synonyms.get("drug_synonyms", {}).items():
-        for syn in [drug] + syns:
-            if len(syn) > 3 and syn.lower() in text_lower:
-                if drug not in matches["drugs"]:
-                    matches["drugs"].append(drug)
+        for kw in drug.get("keywords", []):
+            if len(kw) > 3 and kw.lower() in text_lower:
+                if drug_slug not in [d["slug"] for d in matches["drugs"]]:
+                    matches["drugs"].append({
+                        "name": drug_name,
+                        "slug": drug_slug,
+                        "url": drug.get("url", f"/drugs/{drug_slug}/")
+                    })
                 break
 
-    # Match disease synonyms
-    for disease, syns in synonyms.get("indication_synonyms", {}).items():
-        for syn in [disease] + syns:
-            if len(syn) > 3 and syn.lower() in text_lower:
-                if disease not in matches["diseases"]:
-                    matches["diseases"].append(disease)
+    # Match diseases and include related drugs
+    for indication in keywords.get("indications", []):
+        ind_name = indication.get("name", "")
+
+        for kw in indication.get("keywords", []):
+            if len(kw) > 3 and kw.lower() in text_lower:
+                if ind_name not in [d["name"] for d in matches["diseases"]]:
+                    matches["diseases"].append({
+                        "name": ind_name,
+                        "keyword": kw,
+                        "related_drugs": indication.get("related_drugs", [])[:5]  # Top 5
+                    })
+                    # Add related drugs
+                    for drug_slug in indication.get("related_drugs", [])[:5]:
+                        if drug_slug not in matches["related_drugs"]:
+                            matches["related_drugs"].append(drug_slug)
                 break
 
     return matches
 
+
 def main():
     print("Fetching EU health news...")
 
-    synonyms = load_synonyms()
-    drugs = load_drug_list()
-    print(f"Loaded {len(drugs)} drugs and {len(synonyms.get('indication_synonyms', {}))} disease categories")
+    keywords = load_keywords()
+    print(f"Loaded {keywords.get('drug_count', 0)} drugs and {keywords.get('indication_count', 0)} disease categories")
 
     all_items = []
 
@@ -161,27 +169,42 @@ def main():
 
     # Match keywords and filter relevant items
     relevant_items = []
+    drug_disease_pairs = []  # News with BOTH drug and disease
+
     for item in all_items:
         search_text = f"{item['title']} {item['description']}"
-        matches = match_keywords(search_text, synonyms, drugs)
+        matches = match_keywords(search_text, keywords)
 
-        if matches["drugs"] or matches["diseases"]:
-            item["matched_drugs"] = matches["drugs"][:5]  # Limit to top 5
-            item["matched_diseases"] = matches["diseases"][:5]
+        # Check if we have drug-disease pairs
+        has_drug = len(matches["drugs"]) > 0 or len(matches["related_drugs"]) > 0
+        has_disease = len(matches["diseases"]) > 0
+
+        if has_drug or has_disease:
+            item["matched_drugs"] = matches["drugs"]
+            item["matched_diseases"] = matches["diseases"]
+            item["related_drugs"] = matches["related_drugs"]
             relevant_items.append(item)
 
-    # Sort by relevance (more matches = more relevant)
+            # Track drug-disease pairs
+            if has_drug and has_disease:
+                drug_disease_pairs.append(item)
+
+    # Sort by relevance (drug-disease pairs first, then by match count)
     relevant_items.sort(
-        key=lambda x: len(x.get("matched_drugs", [])) + len(x.get("matched_diseases", [])),
+        key=lambda x: (
+            len(x.get("matched_drugs", [])) > 0 and len(x.get("matched_diseases", [])) > 0,
+            len(x.get("matched_drugs", [])) + len(x.get("matched_diseases", [])) + len(x.get("related_drugs", []))
+        ),
         reverse=True
     )
 
     # Prepare output
     output = {
-        "description": "EU health news aggregated from European sources",
+        "description": "EU health news with drug-disease relations from EuTxGNN",
         "fetched_at": datetime.now(timezone.utc).isoformat(),
         "total_items": len(all_items),
         "relevant_items": len(relevant_items),
+        "drug_disease_pairs": len(drug_disease_pairs),
         "sources": list(RSS_FEEDS.keys()),
         "items": relevant_items[:50],  # Keep top 50 relevant items
     }
@@ -195,15 +218,22 @@ def main():
 
     print(f"\nResults saved to {output_path}")
     print(f"Total items fetched: {len(all_items)}")
-    print(f"Relevant items (matched keywords): {len(relevant_items)}")
+    print(f"Relevant items: {len(relevant_items)}")
+    print(f"Drug-disease pairs: {len(drug_disease_pairs)}")
 
-    # Print summary of top items
-    if relevant_items:
-        print("\nTop relevant news:")
-        for item in relevant_items[:5]:
-            print(f"  - {item['title'][:80]}...")
-            print(f"    Drugs: {item.get('matched_drugs', [])}")
-            print(f"    Diseases: {item.get('matched_diseases', [])}")
+    # Print summary of drug-disease pairs
+    if drug_disease_pairs:
+        print("\nDrug-disease pair news:")
+        for item in drug_disease_pairs[:5]:
+            print(f"  - {item['title'][:70]}...")
+            drugs = [d['name'] for d in item.get('matched_drugs', [])]
+            diseases = [d['name'] for d in item.get('matched_diseases', [])]
+            related = item.get('related_drugs', [])[:3]
+            print(f"    Drugs: {drugs}")
+            print(f"    Diseases: {diseases}")
+            if related:
+                print(f"    Related drugs: {related}")
+
 
 if __name__ == "__main__":
     main()

@@ -1,8 +1,9 @@
 {
-  "description": "EU health news aggregated from European sources",
-  "fetched_at": "2026-03-03T18:59:52.417490+00:00",
+  "description": "EU health news with drug-disease relations from EuTxGNN",
+  "fetched_at": "2026-03-04T01:35:49.207864+00:00",
   "total_items": 313,
-  "relevant_items": 24,
+  "relevant_items": 164,
+  "drug_disease_pairs": 3,
   "sources": [
     "ema_news",
     "ema_whats_new",
@@ -22,107 +23,25 @@
       "pub_date": "Fri, 27 Feb 2026 10:25:43 +0100",
       "matched_drugs": [],
       "matched_diseases": [
-        "cancer"
+        {
+          "name": "cancer",
+          "keyword": "tumour",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
       ]
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/herceptin",
-      "description": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 16:44:00 +0100",
-      "matched_drugs": [
-        "trastuzumab"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control",
-      "description": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 10:55:00 +0100",
-      "matched_drugs": [
-        "omeprazole"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/herceptin",
-      "description": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 16:44:00 +0100",
-      "matched_drugs": [
-        "trastuzumab"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control",
-      "description": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 10:55:00 +0100",
-      "matched_drugs": [
-        "omeprazole"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro",
-      "description": "Human medicines European public assessment report (EPAR): Mounjaro, tirzepatide, Date of authorisation: 15/09/2022, Revision: 20, Status: Authorised",
-      "pub_date": "Thu, 26 Feb 2026 16:32:00 +0100",
-      "matched_drugs": [
-        "tirzepatide"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Remsima, infliximab, Date of authorisation: 10/09/2013, Revision: 45, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/remsima",
-      "description": "Human medicines European public assessment report (EPAR): Remsima, infliximab, Date of authorisation: 10/09/2013, Revision: 45, Status: Authorised",
-      "pub_date": "Thu, 26 Feb 2026 15:15:00 +0100",
-      "matched_drugs": [
-        "infliximab"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Ogivri, trastuzumab, Date of authorisation: 12/12/2018, Revision: 13, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/ogivri",
-      "description": "Human medicines European public assessment report (EPAR): Ogivri, trastuzumab, Date of authorisation: 12/12/2018, Revision: 13, Status: Authorised",
-      "pub_date": "Mon, 23 Feb 2026 17:12:00 +0100",
-      "matched_drugs": [
-        "trastuzumab"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Hulio, adalimumab, Date of authorisation: 17/09/2018, Revision: 19, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/hulio",
-      "description": "Human medicines European public assessment report (EPAR): Hulio, adalimumab, Date of authorisation: 17/09/2018, Revision: 19, Status: Authorised",
-      "pub_date": "Thu, 19 Feb 2026 10:10:00 +0100",
-      "matched_drugs": [
-        "adalimumab"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Inflectra, infliximab, Date of authorisation: 10/09/2013, Revision: 34, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/inflectra",
-      "description": "Human medicines European public assessment report (EPAR): Inflectra, infliximab, Date of authorisation: 10/09/2013, Revision: 34, Status: Authorised",
-      "pub_date": "Tue, 17 Feb 2026 13:49:00 +0100",
-      "matched_drugs": [
-        "infliximab"
-      ],
-      "matched_diseases": []
     },
     {
       "source": "ema_human_medicines",
@@ -132,30 +51,25 @@
       "pub_date": "Mon, 16 Feb 2026 16:00:00 +0100",
       "matched_drugs": [],
       "matched_diseases": [
-        "hepatitis"
+        {
+          "name": "hepatitis",
+          "keyword": "hepatitis",
+          "related_drugs": [
+            "abacavir",
+            "baloxavir-marboxil",
+            "bictegravir",
+            "cobicistat",
+            "deferasirox"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abacavir",
+        "baloxavir-marboxil",
+        "bictegravir",
+        "cobicistat",
+        "deferasirox"
       ]
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Hefiya, adalimumab, Date of authorisation: 26/07/2018, Revision: 19, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/hefiya",
-      "description": "Human medicines European public assessment report (EPAR): Hefiya, adalimumab, Date of authorisation: 26/07/2018, Revision: 19, Status: Authorised",
-      "pub_date": "Mon, 16 Feb 2026 09:56:00 +0100",
-      "matched_drugs": [
-        "adalimumab"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Ibuprofen Gen.Orph, ibuprofen, Date of authorisation: 16/02/2024, Revision: 3, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/ibuprofen-genorph",
-      "description": "Human medicines European public assessment report (EPAR): Ibuprofen Gen.Orph, ibuprofen, Date of authorisation: 16/02/2024, Revision: 3, Status: Authorised",
-      "pub_date": "Mon, 16 Feb 2026 09:51:00 +0100",
-      "matched_drugs": [
-        "ibuprofen"
-      ],
-      "matched_diseases": []
     },
     {
       "source": "ema_human_medicines",
@@ -165,41 +79,25 @@
       "pub_date": "Thu, 12 Feb 2026 15:45:00 +0100",
       "matched_drugs": [],
       "matched_diseases": [
-        "hepatitis"
+        {
+          "name": "hepatitis",
+          "keyword": "hepatitis",
+          "related_drugs": [
+            "abacavir",
+            "baloxavir-marboxil",
+            "bictegravir",
+            "cobicistat",
+            "deferasirox"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abacavir",
+        "baloxavir-marboxil",
+        "bictegravir",
+        "cobicistat",
+        "deferasirox"
       ]
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto",
-      "description": "Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised",
-      "pub_date": "Thu, 12 Feb 2026 13:42:00 +0100",
-      "matched_drugs": [
-        "metformin"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Kyinsu, insulin icodec,semaglutide, Date of authorisation: 24/11/2025, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/kyinsu",
-      "description": "Human medicines European public assessment report (EPAR): Kyinsu, insulin icodec,semaglutide, Date of authorisation: 24/11/2025, Status: Authorised",
-      "pub_date": "Thu, 12 Feb 2026 13:16:00 +0100",
-      "matched_drugs": [
-        "semaglutide"
-      ],
-      "matched_diseases": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Tuznue, trastuzumab, Date of authorisation: 19/09/2024, Revision: 3, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/tuznue",
-      "description": "Human medicines European public assessment report (EPAR): Tuznue, trastuzumab, Date of authorisation: 19/09/2024, Revision: 3, Status: Authorised",
-      "pub_date": "Fri, 06 Feb 2026 15:52:00 +0100",
-      "matched_drugs": [
-        "trastuzumab"
-      ],
-      "matched_diseases": []
     },
     {
       "source": "ema_human_medicines",
@@ -208,9 +106,24 @@
       "description": "Human medicines European public assessment report (EPAR): Exforge HCT, amlodipine besilate,valsartan,hydrochlorothiazide, Date of authorisation: 15/10/2009, Revision: 28, Status: Authorised",
       "pub_date": "Fri, 06 Feb 2026 15:45:00 +0100",
       "matched_drugs": [
-        "amlodipine"
+        {
+          "name": "Amlodipine",
+          "slug": "amlodipine",
+          "url": "/drugs/amlodipine/"
+        },
+        {
+          "name": "Hydrochlorothiazide",
+          "slug": "hydrochlorothiazide",
+          "url": "/drugs/hydrochlorothiazide/"
+        },
+        {
+          "name": "Valsartan",
+          "slug": "valsartan",
+          "url": "/drugs/valsartan/"
+        }
       ],
-      "matched_diseases": []
+      "matched_diseases": [],
+      "related_drugs": []
     },
     {
       "source": "ema_human_medicines",
@@ -219,9 +132,24 @@
       "description": "Human medicines European public assessment report (EPAR): Dafiro HCT, amlodipine besilate,valsartan,hydrochlorothiazide, Date of authorisation: 03/11/2009, Revision: 30, Status: Authorised",
       "pub_date": "Fri, 06 Feb 2026 15:44:00 +0100",
       "matched_drugs": [
-        "amlodipine"
+        {
+          "name": "Amlodipine",
+          "slug": "amlodipine",
+          "url": "/drugs/amlodipine/"
+        },
+        {
+          "name": "Hydrochlorothiazide",
+          "slug": "hydrochlorothiazide",
+          "url": "/drugs/hydrochlorothiazide/"
+        },
+        {
+          "name": "Valsartan",
+          "slug": "valsartan",
+          "url": "/drugs/valsartan/"
+        }
       ],
-      "matched_diseases": []
+      "matched_diseases": [],
+      "related_drugs": []
     },
     {
       "source": "ema_human_medicines",
@@ -230,53 +158,798 @@
       "description": "Human medicines European public assessment report (EPAR): Copalia HCT, amlodipine,valsartan,hydrochlorothiazide, Date of authorisation: 03/11/2009, Revision: 28, Status: Authorised",
       "pub_date": "Fri, 06 Feb 2026 15:43:00 +0100",
       "matched_drugs": [
-        "amlodipine"
+        {
+          "name": "Amlodipine",
+          "slug": "amlodipine",
+          "url": "/drugs/amlodipine/"
+        },
+        {
+          "name": "Hydrochlorothiazide",
+          "slug": "hydrochlorothiazide",
+          "url": "/drugs/hydrochlorothiazide/"
+        },
+        {
+          "name": "Valsartan",
+          "slug": "valsartan",
+          "url": "/drugs/valsartan/"
+        }
       ],
-      "matched_diseases": []
+      "matched_diseases": [],
+      "related_drugs": []
     },
     {
       "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Yuflyma, adalimumab, Date of authorisation: 11/02/2021, Revision: 20, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/yuflyma",
-      "description": "Human medicines European public assessment report (EPAR): Yuflyma, adalimumab, Date of authorisation: 11/02/2021, Revision: 20, Status: Authorised",
-      "pub_date": "Thu, 05 Feb 2026 15:00:00 +0100",
+      "title": "Human medicines European public assessment report (EPAR): Nustendi, bempedoic acid,ezetimibe, Date of authorisation: 27/03/2020, Revision: 9, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nustendi",
+      "description": "Human medicines European public assessment report (EPAR): Nustendi, bempedoic acid,ezetimibe, Date of authorisation: 27/03/2020, Revision: 9, Status: Authorised",
+      "pub_date": "Fri, 27 Feb 2026 13:52:00 +0100",
       "matched_drugs": [
-        "adalimumab"
+        {
+          "name": "Bempedoic Acid",
+          "slug": "bempedoic-acid",
+          "url": "/drugs/bempedoic-acid/"
+        },
+        {
+          "name": "Ezetimibe",
+          "slug": "ezetimibe",
+          "url": "/drugs/ezetimibe/"
+        }
       ],
-      "matched_diseases": []
+      "matched_diseases": [],
+      "related_drugs": []
     },
     {
       "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 14, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy",
-      "description": "Human medicines European public assessment report (EPAR): Wegovy, semaglutide, Date of authorisation: 06/01/2022, Revision: 14, Status: Authorised",
-      "pub_date": "Thu, 05 Feb 2026 13:57:00 +0100",
+      "title": "Human medicines European public assessment report (EPAR): Vivlipeg, pegfilgrastim, Date of authorisation: 18/08/2025, Revision: 1, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/vivlipeg",
+      "description": "Human medicines European public assessment report (EPAR): Vivlipeg, pegfilgrastim, Date of authorisation: 18/08/2025, Revision: 1, Status: Authorised",
+      "pub_date": "Tue, 24 Feb 2026 17:12:00 +0100",
       "matched_drugs": [
-        "semaglutide"
+        {
+          "name": "Filgrastim",
+          "slug": "filgrastim",
+          "url": "/drugs/filgrastim/"
+        },
+        {
+          "name": "Pegfilgrastim",
+          "slug": "pegfilgrastim",
+          "url": "/drugs/pegfilgrastim/"
+        }
       ],
-      "matched_diseases": []
+      "matched_diseases": [],
+      "related_drugs": []
     },
     {
       "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Imraldi, adalimumab, Date of authorisation: 24/08/2017, Revision: 25, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/imraldi",
-      "description": "Human medicines European public assessment report (EPAR): Imraldi, adalimumab, Date of authorisation: 24/08/2017, Revision: 25, Status: Authorised",
-      "pub_date": "Wed, 04 Feb 2026 12:00:00 +0100",
+      "title": "Human medicines European public assessment report (EPAR): Emblaveo, aztreonam,avibactam, Date of authorisation: 22/04/2024, Revision: 3, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/emblaveo",
+      "description": "Human medicines European public assessment report (EPAR): Emblaveo, aztreonam,avibactam, Date of authorisation: 22/04/2024, Revision: 3, Status: Authorised",
+      "pub_date": "Mon, 23 Feb 2026 16:50:00 +0100",
       "matched_drugs": [
-        "adalimumab"
+        {
+          "name": "Avibactam",
+          "slug": "avibactam",
+          "url": "/drugs/avibactam/"
+        },
+        {
+          "name": "Aztreonam",
+          "slug": "aztreonam",
+          "url": "/drugs/aztreonam/"
+        }
       ],
-      "matched_diseases": []
+      "matched_diseases": [],
+      "related_drugs": []
     },
     {
       "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Trazimera, trastuzumab, Date of authorisation: 26/07/2018, Revision: 16, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/trazimera",
-      "description": "Human medicines European public assessment report (EPAR): Trazimera, trastuzumab, Date of authorisation: 26/07/2018, Revision: 16, Status: Authorised",
-      "pub_date": "Tue, 03 Feb 2026 10:15:00 +0100",
+      "title": "Human medicines European public assessment report (EPAR): Fulphila, pegfilgrastim, Date of authorisation: 20/11/2018, Revision: 13, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/fulphila",
+      "description": "Human medicines European public assessment report (EPAR): Fulphila, pegfilgrastim, Date of authorisation: 20/11/2018, Revision: 13, Status: Authorised",
+      "pub_date": "Thu, 19 Feb 2026 10:40:00 +0100",
       "matched_drugs": [
-        "trastuzumab"
+        {
+          "name": "Filgrastim",
+          "slug": "filgrastim",
+          "url": "/drugs/filgrastim/"
+        },
+        {
+          "name": "Pegfilgrastim",
+          "slug": "pegfilgrastim",
+          "url": "/drugs/pegfilgrastim/"
+        }
       ],
-      "matched_diseases": []
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Mysimba, naltrexone,bupropion, Date of authorisation: 26/03/2015, Revision: 31, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/mysimba",
+      "description": "Human medicines European public assessment report (EPAR): Mysimba, naltrexone,bupropion, Date of authorisation: 26/03/2015, Revision: 31, Status: Authorised",
+      "pub_date": "Thu, 19 Feb 2026 10:31:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Bupropion",
+          "slug": "bupropion",
+          "url": "/drugs/bupropion/"
+        },
+        {
+          "name": "Naltrexone",
+          "slug": "naltrexone",
+          "url": "/drugs/naltrexone/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Dovato, dolutegravir,lamivudine, Date of authorisation: 01/07/2019, Revision: 20, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/dovato",
+      "description": "Human medicines European public assessment report (EPAR): Dovato, dolutegravir,lamivudine, Date of authorisation: 01/07/2019, Revision: 20, Status: Authorised",
+      "pub_date": "Mon, 16 Feb 2026 14:42:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Dolutegravir",
+          "slug": "dolutegravir",
+          "url": "/drugs/dolutegravir/"
+        },
+        {
+          "name": "Lamivudine",
+          "slug": "lamivudine",
+          "url": "/drugs/lamivudine/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris, emtricitabine,rilpivirine,tenofovir alafenamide, Date of authorisation: 19/08/2025, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-rilpivirine-tenofovir-alafenamide-viatris",
+      "description": "Human medicines European public assessment report (EPAR): Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris, emtricitabine,rilpivirine,tenofovir alafenamide, Date of authorisation: 19/08/2025, Status: Authorised",
+      "pub_date": "Fri, 13 Feb 2026 15:20:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Emtricitabine",
+          "slug": "emtricitabine",
+          "url": "/drugs/emtricitabine/"
+        },
+        {
+          "name": "Tenofovir Alafenamide",
+          "slug": "tenofovir-alafenamide",
+          "url": "/drugs/tenofovir-alafenamide/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Glyxambi, empagliflozin,linagliptin, Date of authorisation: 11/11/2016, Revision: 22, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/glyxambi",
+      "description": "Human medicines European public assessment report (EPAR): Glyxambi, empagliflozin,linagliptin, Date of authorisation: 11/11/2016, Revision: 22, Status: Authorised",
+      "pub_date": "Thu, 12 Feb 2026 13:46:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Empagliflozin",
+          "slug": "empagliflozin",
+          "url": "/drugs/empagliflozin/"
+        },
+        {
+          "name": "Linagliptin",
+          "slug": "linagliptin",
+          "url": "/drugs/linagliptin/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto",
+      "description": "Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised",
+      "pub_date": "Thu, 12 Feb 2026 13:42:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Linagliptin",
+          "slug": "linagliptin",
+          "url": "/drugs/linagliptin/"
+        },
+        {
+          "name": "Metformin",
+          "slug": "metformin",
+          "url": "/drugs/metformin/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Plegridy, peginterferon beta-1a, Date of authorisation: 18/07/2014, Revision: 29, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/plegridy",
+      "description": "Human medicines European public assessment report (EPAR): Plegridy, peginterferon beta-1a, Date of authorisation: 18/07/2014, Revision: 29, Status: Authorised",
+      "pub_date": "Wed, 11 Feb 2026 10:55:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Interferon Beta-1A",
+          "slug": "interferon-beta-1a",
+          "url": "/drugs/interferon-beta-1a/"
+        },
+        {
+          "name": "Peginterferon Beta-1A",
+          "slug": "peginterferon-beta-1a",
+          "url": "/drugs/peginterferon-beta-1a/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Azarga, brinzolamide,timolol, Date of authorisation: 25/11/2008, Revision: 19, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/azarga",
+      "description": "Human medicines European public assessment report (EPAR): Azarga, brinzolamide,timolol, Date of authorisation: 25/11/2008, Revision: 19, Status: Authorised",
+      "pub_date": "Fri, 06 Feb 2026 09:55:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Brinzolamide",
+          "slug": "brinzolamide",
+          "url": "/drugs/brinzolamide/"
+        },
+        {
+          "name": "Timolol",
+          "slug": "timolol",
+          "url": "/drugs/timolol/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Yuvanci, macitentan,tadalafil, Date of authorisation: 27/09/2024, Revision: 1, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/yuvanci",
+      "description": "Human medicines European public assessment report (EPAR): Yuvanci, macitentan,tadalafil, Date of authorisation: 27/09/2024, Revision: 1, Status: Authorised",
+      "pub_date": "Thu, 05 Feb 2026 15:50:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Macitentan",
+          "slug": "macitentan",
+          "url": "/drugs/macitentan/"
+        },
+        {
+          "name": "Tadalafil",
+          "slug": "tadalafil",
+          "url": "/drugs/tadalafil/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): DuoTrav, travoprost,timolol, Date of authorisation: 23/04/2006, Revision: 20, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/duotrav",
+      "description": "Human medicines European public assessment report (EPAR): DuoTrav, travoprost,timolol, Date of authorisation: 23/04/2006, Revision: 20, Status: Authorised",
+      "pub_date": "Thu, 05 Feb 2026 14:30:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Timolol",
+          "slug": "timolol",
+          "url": "/drugs/timolol/"
+        },
+        {
+          "name": "Travoprost",
+          "slug": "travoprost",
+          "url": "/drugs/travoprost/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_new_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Onerji, levodopa,carbidopa, Status: Opinion",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/onerji",
+      "description": "Human medicines European public assessment report (EPAR): Onerji, levodopa,carbidopa, Status: Opinion",
+      "pub_date": "Fri, 27 Feb 2026 12:00:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Carbidopa",
+          "slug": "carbidopa",
+          "url": "/drugs/carbidopa/"
+        },
+        {
+          "name": "Levodopa",
+          "slug": "levodopa",
+          "url": "/drugs/levodopa/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Afqlir, aflibercept, Date of authorisation: 13/11/2024, Revision: 6, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/afqlir",
+      "description": "Human medicines European public assessment report (EPAR): Afqlir, aflibercept, Date of authorisation: 13/11/2024, Revision: 6, Status: Authorised",
+      "pub_date": "Tue, 03 Mar 2026 16:35:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Aflibercept",
+          "slug": "aflibercept",
+          "url": "/drugs/aflibercept/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 32, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/entyvio",
+      "description": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 32, Status: Authorised",
+      "pub_date": "Tue, 03 Mar 2026 16:00:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Vedolizumab",
+          "slug": "vedolizumab",
+          "url": "/drugs/vedolizumab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Zeposia, ozanimod, Date of authorisation: 20/05/2020, Revision: 11, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/zeposia",
+      "description": "Human medicines European public assessment report (EPAR): Zeposia, ozanimod, Date of authorisation: 20/05/2020, Revision: 11, Status: Authorised",
+      "pub_date": "Tue, 03 Mar 2026 15:50:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Ozanimod Hydrochloride",
+          "slug": "ozanimod-hydrochloride",
+          "url": "/drugs/ozanimod-hydrochloride/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Vyloy, zolbetuximab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/vyloy",
+      "description": "Human medicines European public assessment report (EPAR): Vyloy, zolbetuximab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
+      "pub_date": "Tue, 03 Mar 2026 15:25:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Zolbetuximab",
+          "slug": "zolbetuximab",
+          "url": "/drugs/zolbetuximab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Nivestim, filgrastim, Date of authorisation: 07/06/2010, Revision: 32, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nivestim",
+      "description": "Human medicines European public assessment report (EPAR): Nivestim, filgrastim, Date of authorisation: 07/06/2010, Revision: 32, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 17:15:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Filgrastim",
+          "slug": "filgrastim",
+          "url": "/drugs/filgrastim/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 11, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/fingolimod-accord",
+      "description": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 11, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 16:58:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Fingolimod",
+          "slug": "fingolimod",
+          "url": "/drugs/fingolimod/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Rasilez, aliskiren, Date of authorisation: 22/08/2007, Revision: 28, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/rasilez",
+      "description": "Human medicines European public assessment report (EPAR): Rasilez, aliskiren, Date of authorisation: 22/08/2007, Revision: 28, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 16:55:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Aliskiren",
+          "slug": "aliskiren",
+          "url": "/drugs/aliskiren/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/herceptin",
+      "description": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 16:44:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Trastuzumab",
+          "slug": "trastuzumab",
+          "url": "/drugs/trastuzumab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Neoclarityn, desloratadine, Date of authorisation: 15/01/2001, Revision: 49, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/neoclarityn",
+      "description": "Human medicines European public assessment report (EPAR): Neoclarityn, desloratadine, Date of authorisation: 15/01/2001, Revision: 49, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 12:42:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "url": "/drugs/desloratadine/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nemluvio",
+      "description": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 12:35:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Nemolizumab",
+          "slug": "nemolizumab",
+          "url": "/drugs/nemolizumab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Azomyr, desloratadine, Date of authorisation: 15/01/2001, Revision: 55, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/azomyr",
+      "description": "Human medicines European public assessment report (EPAR): Azomyr, desloratadine, Date of authorisation: 15/01/2001, Revision: 55, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 12:15:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "url": "/drugs/desloratadine/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Aerius, desloratadine, Date of authorisation: 15/01/2001, Revision: 53, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/aerius",
+      "description": "Human medicines European public assessment report (EPAR): Aerius, desloratadine, Date of authorisation: 15/01/2001, Revision: 53, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 12:14:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "url": "/drugs/desloratadine/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control",
+      "description": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 10:55:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Esomeprazole",
+          "slug": "esomeprazole",
+          "url": "/drugs/esomeprazole/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_whats_new",
+      "title": "Human medicines European public assessment report (EPAR): Xbonzy, denosumab, Date of authorisation: 17/11/2025, Revision: 1, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/xbonzy",
+      "description": "Human medicines European public assessment report (EPAR): Xbonzy, denosumab, Date of authorisation: 17/11/2025, Revision: 1, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 10:52:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Denosumab",
+          "slug": "denosumab",
+          "url": "/drugs/denosumab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Afqlir, aflibercept, Date of authorisation: 13/11/2024, Revision: 6, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/afqlir",
+      "description": "Human medicines European public assessment report (EPAR): Afqlir, aflibercept, Date of authorisation: 13/11/2024, Revision: 6, Status: Authorised",
+      "pub_date": "Tue, 03 Mar 2026 16:35:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Aflibercept",
+          "slug": "aflibercept",
+          "url": "/drugs/aflibercept/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 32, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/entyvio",
+      "description": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 32, Status: Authorised",
+      "pub_date": "Tue, 03 Mar 2026 16:00:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Vedolizumab",
+          "slug": "vedolizumab",
+          "url": "/drugs/vedolizumab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Zeposia, ozanimod, Date of authorisation: 20/05/2020, Revision: 11, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/zeposia",
+      "description": "Human medicines European public assessment report (EPAR): Zeposia, ozanimod, Date of authorisation: 20/05/2020, Revision: 11, Status: Authorised",
+      "pub_date": "Tue, 03 Mar 2026 15:50:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Ozanimod Hydrochloride",
+          "slug": "ozanimod-hydrochloride",
+          "url": "/drugs/ozanimod-hydrochloride/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Vyloy, zolbetuximab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/vyloy",
+      "description": "Human medicines European public assessment report (EPAR): Vyloy, zolbetuximab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
+      "pub_date": "Tue, 03 Mar 2026 15:25:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Zolbetuximab",
+          "slug": "zolbetuximab",
+          "url": "/drugs/zolbetuximab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Nivestim, filgrastim, Date of authorisation: 07/06/2010, Revision: 32, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nivestim",
+      "description": "Human medicines European public assessment report (EPAR): Nivestim, filgrastim, Date of authorisation: 07/06/2010, Revision: 32, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 17:15:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Filgrastim",
+          "slug": "filgrastim",
+          "url": "/drugs/filgrastim/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 11, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/fingolimod-accord",
+      "description": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 11, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 16:58:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Fingolimod",
+          "slug": "fingolimod",
+          "url": "/drugs/fingolimod/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Rasilez, aliskiren, Date of authorisation: 22/08/2007, Revision: 28, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/rasilez",
+      "description": "Human medicines European public assessment report (EPAR): Rasilez, aliskiren, Date of authorisation: 22/08/2007, Revision: 28, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 16:55:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Aliskiren",
+          "slug": "aliskiren",
+          "url": "/drugs/aliskiren/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/herceptin",
+      "description": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 16:44:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Trastuzumab",
+          "slug": "trastuzumab",
+          "url": "/drugs/trastuzumab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Neoclarityn, desloratadine, Date of authorisation: 15/01/2001, Revision: 49, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/neoclarityn",
+      "description": "Human medicines European public assessment report (EPAR): Neoclarityn, desloratadine, Date of authorisation: 15/01/2001, Revision: 49, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 12:42:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "url": "/drugs/desloratadine/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nemluvio",
+      "description": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 12:35:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Nemolizumab",
+          "slug": "nemolizumab",
+          "url": "/drugs/nemolizumab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Azomyr, desloratadine, Date of authorisation: 15/01/2001, Revision: 55, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/azomyr",
+      "description": "Human medicines European public assessment report (EPAR): Azomyr, desloratadine, Date of authorisation: 15/01/2001, Revision: 55, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 12:15:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "url": "/drugs/desloratadine/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Aerius, desloratadine, Date of authorisation: 15/01/2001, Revision: 53, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/aerius",
+      "description": "Human medicines European public assessment report (EPAR): Aerius, desloratadine, Date of authorisation: 15/01/2001, Revision: 53, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 12:14:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Desloratadine",
+          "slug": "desloratadine",
+          "url": "/drugs/desloratadine/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control",
+      "description": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 10:55:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Esomeprazole",
+          "slug": "esomeprazole",
+          "url": "/drugs/esomeprazole/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Xbonzy, denosumab, Date of authorisation: 17/11/2025, Revision: 1, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/xbonzy",
+      "description": "Human medicines European public assessment report (EPAR): Xbonzy, denosumab, Date of authorisation: 17/11/2025, Revision: 1, Status: Authorised",
+      "pub_date": "Mon, 02 Mar 2026 10:52:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Denosumab",
+          "slug": "denosumab",
+          "url": "/drugs/denosumab/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Ztalmy, ganaxolone, Date of authorisation: 26/07/2023, Revision: 6, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/ztalmy",
+      "description": "Human medicines European public assessment report (EPAR): Ztalmy, ganaxolone, Date of authorisation: 26/07/2023, Revision: 6, Status: Authorised",
+      "pub_date": "Fri, 27 Feb 2026 16:06:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Ganaxolone",
+          "slug": "ganaxolone",
+          "url": "/drugs/ganaxolone/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
+    },
+    {
+      "source": "ema_human_medicines",
+      "title": "Human medicines European public assessment report (EPAR): Epidyolex, cannabidiol, Date of authorisation: 19/09/2019, Revision: 20, Status: Authorised",
+      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/epidyolex",
+      "description": "Human medicines European public assessment report (EPAR): Epidyolex, cannabidiol, Date of authorisation: 19/09/2019, Revision: 20, Status: Authorised",
+      "pub_date": "Fri, 27 Feb 2026 15:50:00 +0100",
+      "matched_drugs": [
+        {
+          "name": "Cannabidiol",
+          "slug": "cannabidiol",
+          "url": "/drugs/cannabidiol/"
+        }
+      ],
+      "matched_diseases": [],
+      "related_drugs": []
     }
   ]
 }

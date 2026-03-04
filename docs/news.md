@@ -8,7 +8,7 @@ permalink: /news/
 
 # Health News Monitoring
 
-News mentioning **both** EuTxGNN drugs and disease indications — click drug tags to view repurposing reports
+News about diseases with **linked drug repurposing reports** — click drug tags to view predictions
 {: .fs-6 .fw-300 }
 
 ---
@@ -27,16 +27,15 @@ async function loadNews() {
     const data = await response.json();
 
     if (data.items && data.items.length > 0) {
-      // Filter: only show news with BOTH drug AND disease mentions
+      // Filter: show news with diseases (which have related_drugs)
       const relevantNews = data.items.filter(item =>
-        item.matched_drugs && item.matched_drugs.length > 0 &&
         item.matched_diseases && item.matched_diseases.length > 0
       );
 
-      let html = `<p style="color: #666; font-size: 0.9em;">Updated: ${new Date(data.fetched_at).toLocaleString()} | Drug-Disease pairs: ${relevantNews.length} items</p>`;
+      let html = `<p style="color: #666; font-size: 0.9em;">Updated: ${new Date(data.fetched_at).toLocaleString()} | Disease-related news: ${relevantNews.length} items</p>`;
 
       if (relevantNews.length === 0) {
-        html += '<p class="no-news">No news with both drug and disease mentions at this time. Check back later.</p>';
+        html += '<p class="no-news">No disease-related news at this time. Check back later.</p>';
         container.innerHTML = html;
         return;
       }
@@ -44,11 +43,23 @@ async function loadNews() {
       html += '<div class="news-list">';
 
       relevantNews.slice(0, 20).forEach(item => {
-        const drugs = item.matched_drugs.map(drug =>
-          `<a href="/drugs/${drug.toLowerCase().replace(/\s+/g, '-')}/" class="drug-tag">${drug} →</a>`
+        // Disease tags
+        const diseases = item.matched_diseases.map(d =>
+          `<span class="disease-tag">${d.name}</span>`
         ).join(' ');
-        const diseases = item.matched_diseases.map(disease =>
-          `<a href="/?q=${encodeURIComponent(disease)}" class="disease-tag">${disease}</a>`
+
+        // Related drugs from diseases (with links to reports)
+        const relatedDrugSlugs = new Set();
+        item.matched_diseases.forEach(d => {
+          (d.related_drugs || []).forEach(slug => relatedDrugSlugs.add(slug));
+        });
+        const relatedDrugs = Array.from(relatedDrugSlugs).slice(0, 5).map(slug =>
+          `<a href="/drugs/${slug}/" class="drug-tag">${slug} →</a>`
+        ).join(' ');
+
+        // Directly matched drugs (if any)
+        const directDrugs = (item.matched_drugs || []).map(d =>
+          `<a href="${d.url}" class="drug-tag direct">${d.name} →</a>`
         ).join(' ');
 
         html += `
@@ -60,8 +71,10 @@ async function loadNews() {
             </p>
             ${item.description ? `<p class="description">${item.description.substring(0, 200)}${item.description.length > 200 ? '...' : ''}</p>` : ''}
             <div class="tags">
-              ${drugs}
               ${diseases}
+            </div>
+            <div class="related-drugs">
+              <span class="related-label">Related drugs:</span> ${directDrugs} ${relatedDrugs}
             </div>
           </div>
         `;
@@ -166,6 +179,20 @@ loadNews();
   background: #f8f9fa;
   border-radius: 8px;
 }
+.related-drugs {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed #e1e4e8;
+}
+.related-label {
+  font-size: 0.8rem;
+  color: #666;
+  margin-right: 0.5rem;
+}
+.drug-tag.direct {
+  background: #28a745;
+  color: white;
+}
 </style>
 
 ---
@@ -185,8 +212,8 @@ loadNews();
 ## How It Works
 
 1. **Automated Fetching**: GitHub Actions fetches news every 6 hours from official RSS feeds
-2. **Keyword Matching**: System matches 642 EMA drugs and 21 disease categories
-3. **Drug-Disease Pairs**: Only news mentioning **both** a drug AND a disease are shown
+2. **Disease Matching**: System matches 21 disease categories (cancer, diabetes, hypertension, etc.)
+3. **Drug Relations**: Each disease links to drugs with repurposing predictions for that condition
 4. **Direct Links**: Click drug tags → view repurposing report | Click headline → read original article
 
 ---

@@ -1,0 +1,6926 @@
+{
+  "generated": "2026-03-04",
+  "drug_count": 642,
+  "indication_count": 21,
+  "drugs": [
+    {
+      "slug": "abacavir",
+      "name": "Abacavir",
+      "keywords": [
+        "abacavir",
+        "ziagen"
+      ],
+      "url": "/drugs/abacavir/"
+    },
+    {
+      "slug": "abaloparatide",
+      "name": "Abaloparatide",
+      "keywords": [
+        "abaloparatide",
+        "eladynos"
+      ],
+      "url": "/drugs/abaloparatide/"
+    },
+    {
+      "slug": "abatacept",
+      "name": "Abatacept",
+      "keywords": [
+        "abatacept",
+        "orencia"
+      ],
+      "url": "/drugs/abatacept/"
+    },
+    {
+      "slug": "abemaciclib",
+      "name": "Abemaciclib",
+      "keywords": [
+        "abemaciclib",
+        "verzenios"
+      ],
+      "url": "/drugs/abemaciclib/"
+    },
+    {
+      "slug": "abiraterone-acetate",
+      "name": "Abiraterone Acetate",
+      "keywords": [
+        "abiraterone acetate",
+        "zytiga"
+      ],
+      "url": "/drugs/abiraterone-acetate/"
+    },
+    {
+      "slug": "acalabrutinib",
+      "name": "Acalabrutinib",
+      "keywords": [
+        "acalabrutinib"
+      ],
+      "url": "/drugs/acalabrutinib/"
+    },
+    {
+      "slug": "acetylsalicylic-acid",
+      "name": "Acetylsalicylic Acid",
+      "keywords": [
+        "acetylsalicylic acid",
+        "clopidogrel/acetylsalicylic acid zentiva (previously duocover)",
+        "clopidogrel / acetylsalicylic acid viatris (previously clopidogrel / acetylsalicylic acid mylan)",
+        "duoplavin"
+      ],
+      "url": "/drugs/acetylsalicylic-acid/"
+    },
+    {
+      "slug": "aclidinium-bromide",
+      "name": "Aclidinium Bromide",
+      "keywords": [
+        "aclidinium bromide",
+        "bretaris genuair"
+      ],
+      "url": "/drugs/aclidinium-bromide/"
+    },
+    {
+      "slug": "adalimumab",
+      "name": "Adalimumab",
+      "keywords": [
+        "adalimumab",
+        "hulio",
+        "amgevita",
+        "amsparity",
+        "humira",
+        "hukyndra",
+        "yuflyma",
+        "idacio",
+        "hadlima",
+        "hyrimoz"
+      ],
+      "url": "/drugs/adalimumab/"
+    },
+    {
+      "slug": "afamelanotide",
+      "name": "Afamelanotide",
+      "keywords": [
+        "afamelanotide",
+        "scenesse"
+      ],
+      "url": "/drugs/afamelanotide/"
+    },
+    {
+      "slug": "afatinib",
+      "name": "Afatinib",
+      "keywords": [
+        "afatinib",
+        "giotrif"
+      ],
+      "url": "/drugs/afatinib/"
+    },
+    {
+      "slug": "aflibercept",
+      "name": "Aflibercept",
+      "keywords": [
+        "aflibercept",
+        "opuviz",
+        "zaltrap",
+        "eyluxvi",
+        "yesafili"
+      ],
+      "url": "/drugs/aflibercept/"
+    },
+    {
+      "slug": "agalsidase-beta",
+      "name": "Agalsidase Beta",
+      "keywords": [
+        "agalsidase beta",
+        "fabrazyme"
+      ],
+      "url": "/drugs/agalsidase-beta/"
+    },
+    {
+      "slug": "agomelatine",
+      "name": "Agomelatine",
+      "keywords": [
+        "agomelatine",
+        "valdoxan"
+      ],
+      "url": "/drugs/agomelatine/"
+    },
+    {
+      "slug": "albutrepenonacog-alfa",
+      "name": "Albutrepenonacog Alfa",
+      "keywords": [
+        "albutrepenonacog alfa",
+        "idelvion"
+      ],
+      "url": "/drugs/albutrepenonacog-alfa/"
+    },
+    {
+      "slug": "alectinib-hydrochloride",
+      "name": "Alectinib Hydrochloride",
+      "keywords": [
+        "alectinib hydrochloride",
+        "alecensa"
+      ],
+      "url": "/drugs/alectinib-hydrochloride/"
+    },
+    {
+      "slug": "alemtuzumab",
+      "name": "Alemtuzumab",
+      "keywords": [
+        "alemtuzumab",
+        "lemtrada"
+      ],
+      "url": "/drugs/alemtuzumab/"
+    },
+    {
+      "slug": "alendronic-acid",
+      "name": "Alendronic Acid",
+      "keywords": [
+        "alendronic acid"
+      ],
+      "url": "/drugs/alendronic-acid/"
+    },
+    {
+      "slug": "alglucosidase-alfa",
+      "name": "Alglucosidase Alfa",
+      "keywords": [
+        "alglucosidase alfa",
+        "myozyme"
+      ],
+      "url": "/drugs/alglucosidase-alfa/"
+    },
+    {
+      "slug": "alirocumab",
+      "name": "Alirocumab",
+      "keywords": [
+        "alirocumab",
+        "praluent"
+      ],
+      "url": "/drugs/alirocumab/"
+    },
+    {
+      "slug": "aliskiren",
+      "name": "Aliskiren",
+      "keywords": [
+        "aliskiren",
+        "rasilez"
+      ],
+      "url": "/drugs/aliskiren/"
+    },
+    {
+      "slug": "alogliptin",
+      "name": "Alogliptin",
+      "keywords": [
+        "alogliptin",
+        "incresync",
+        "vipidia"
+      ],
+      "url": "/drugs/alogliptin/"
+    },
+    {
+      "slug": "alpelisib",
+      "name": "Alpelisib",
+      "keywords": [
+        "alpelisib",
+        "piqray"
+      ],
+      "url": "/drugs/alpelisib/"
+    },
+    {
+      "slug": "ambrisentan",
+      "name": "Ambrisentan",
+      "keywords": [
+        "ambrisentan",
+        "volibris"
+      ],
+      "url": "/drugs/ambrisentan/"
+    },
+    {
+      "slug": "amifampridine-phosphate",
+      "name": "Amifampridine Phosphate",
+      "keywords": [
+        "amifampridine phosphate",
+        "amifampridine serb"
+      ],
+      "url": "/drugs/amifampridine-phosphate/"
+    },
+    {
+      "slug": "amikacin-sulfate",
+      "name": "Amikacin Sulfate",
+      "keywords": [
+        "amikacin sulfate",
+        "arikayce liposomal"
+      ],
+      "url": "/drugs/amikacin-sulfate/"
+    },
+    {
+      "slug": "amlodipine",
+      "name": "Amlodipine",
+      "keywords": [
+        "amlodipine",
+        "norvasc",
+        "istin"
+      ],
+      "url": "/drugs/amlodipine/"
+    },
+    {
+      "slug": "anagrelide",
+      "name": "Anagrelide",
+      "keywords": [
+        "anagrelide",
+        "xagrid"
+      ],
+      "url": "/drugs/anagrelide/"
+    },
+    {
+      "slug": "anakinra",
+      "name": "Anakinra",
+      "keywords": [
+        "anakinra",
+        "kineret"
+      ],
+      "url": "/drugs/anakinra/"
+    },
+    {
+      "slug": "andexanet-alfa",
+      "name": "Andexanet Alfa",
+      "keywords": [
+        "andexanet alfa",
+        "ondexxya"
+      ],
+      "url": "/drugs/andexanet-alfa/"
+    },
+    {
+      "slug": "angiotensin-ii-acetate",
+      "name": "Angiotensin Ii Acetate",
+      "keywords": [
+        "angiotensin ii acetate",
+        "giapreza"
+      ],
+      "url": "/drugs/angiotensin-ii-acetate/"
+    },
+    {
+      "slug": "anidulafungin",
+      "name": "Anidulafungin",
+      "keywords": [
+        "anidulafungin",
+        "ecalta"
+      ],
+      "url": "/drugs/anidulafungin/"
+    },
+    {
+      "slug": "anifrolumab",
+      "name": "Anifrolumab",
+      "keywords": [
+        "anifrolumab",
+        "saphnelo"
+      ],
+      "url": "/drugs/anifrolumab/"
+    },
+    {
+      "slug": "apalutamide",
+      "name": "Apalutamide",
+      "keywords": [
+        "apalutamide",
+        "erleada"
+      ],
+      "url": "/drugs/apalutamide/"
+    },
+    {
+      "slug": "apixaban",
+      "name": "Apixaban",
+      "keywords": [
+        "apixaban",
+        "eliquis"
+      ],
+      "url": "/drugs/apixaban/"
+    },
+    {
+      "slug": "apremilast",
+      "name": "Apremilast",
+      "keywords": [
+        "apremilast",
+        "apremilast accord",
+        "otezla"
+      ],
+      "url": "/drugs/apremilast/"
+    },
+    {
+      "slug": "aprepitant",
+      "name": "Aprepitant",
+      "keywords": [
+        "aprepitant",
+        "emend"
+      ],
+      "url": "/drugs/aprepitant/"
+    },
+    {
+      "slug": "aripiprazole",
+      "name": "Aripiprazole",
+      "keywords": [
+        "aripiprazole",
+        "aripiprazole accord"
+      ],
+      "url": "/drugs/aripiprazole/"
+    },
+    {
+      "slug": "arsenic-trioxide",
+      "name": "Arsenic Trioxide",
+      "keywords": [
+        "arsenic trioxide",
+        "arsenic trioxide medac",
+        "arsenic trioxide accord"
+      ],
+      "url": "/drugs/arsenic-trioxide/"
+    },
+    {
+      "slug": "artenimol",
+      "name": "Artenimol",
+      "keywords": [
+        "artenimol"
+      ],
+      "url": "/drugs/artenimol/"
+    },
+    {
+      "slug": "artesunate",
+      "name": "Artesunate",
+      "keywords": [
+        "artesunate",
+        "artesunate amivas"
+      ],
+      "url": "/drugs/artesunate/"
+    },
+    {
+      "slug": "asenapine-maleate",
+      "name": "Asenapine Maleate",
+      "keywords": [
+        "asenapine maleate",
+        "sycrest"
+      ],
+      "url": "/drugs/asenapine-maleate/"
+    },
+    {
+      "slug": "asfotase-alfa",
+      "name": "Asfotase Alfa",
+      "keywords": [
+        "asfotase alfa",
+        "strensiq"
+      ],
+      "url": "/drugs/asfotase-alfa/"
+    },
+    {
+      "slug": "atazanavir-as-sulfate",
+      "name": "Atazanavir (As Sulfate)",
+      "keywords": [
+        "atazanavir (as sulfate)",
+        "reyataz"
+      ],
+      "url": "/drugs/atazanavir-as-sulfate/"
+    },
+    {
+      "slug": "atezolizumab",
+      "name": "Atezolizumab",
+      "keywords": [
+        "atezolizumab",
+        "tecentriq"
+      ],
+      "url": "/drugs/atezolizumab/"
+    },
+    {
+      "slug": "atosiban-as-acetate",
+      "name": "Atosiban (As Acetate)",
+      "keywords": [
+        "atosiban (as acetate)",
+        "tractocile"
+      ],
+      "url": "/drugs/atosiban-as-acetate/"
+    },
+    {
+      "slug": "atropine-sulfate",
+      "name": "Atropine Sulfate",
+      "keywords": [
+        "atropine sulfate",
+        "ryjunea"
+      ],
+      "url": "/drugs/atropine-sulfate/"
+    },
+    {
+      "slug": "avanafil",
+      "name": "Avanafil",
+      "keywords": [
+        "avanafil",
+        "spedra"
+      ],
+      "url": "/drugs/avanafil/"
+    },
+    {
+      "slug": "avapritinib",
+      "name": "Avapritinib",
+      "keywords": [
+        "avapritinib",
+        "ayvakyt"
+      ],
+      "url": "/drugs/avapritinib/"
+    },
+    {
+      "slug": "avatrombopag-maleate",
+      "name": "Avatrombopag Maleate",
+      "keywords": [
+        "avatrombopag maleate",
+        "doptelet"
+      ],
+      "url": "/drugs/avatrombopag-maleate/"
+    },
+    {
+      "slug": "avelumab",
+      "name": "Avelumab",
+      "keywords": [
+        "avelumab",
+        "bavencio"
+      ],
+      "url": "/drugs/avelumab/"
+    },
+    {
+      "slug": "avibactam",
+      "name": "Avibactam",
+      "keywords": [
+        "avibactam"
+      ],
+      "url": "/drugs/avibactam/"
+    },
+    {
+      "slug": "axicabtagene-ciloleucel",
+      "name": "Axicabtagene Ciloleucel",
+      "keywords": [
+        "axicabtagene ciloleucel",
+        "yescarta"
+      ],
+      "url": "/drugs/axicabtagene-ciloleucel/"
+    },
+    {
+      "slug": "axitinib",
+      "name": "Axitinib",
+      "keywords": [
+        "axitinib",
+        "inlyta"
+      ],
+      "url": "/drugs/axitinib/"
+    },
+    {
+      "slug": "azacitidine",
+      "name": "Azacitidine",
+      "keywords": [
+        "azacitidine",
+        "azacitidine accord",
+        "azacitidine betapharm"
+      ],
+      "url": "/drugs/azacitidine/"
+    },
+    {
+      "slug": "azathioprine",
+      "name": "Azathioprine",
+      "keywords": [
+        "azathioprine",
+        "jayempi"
+      ],
+      "url": "/drugs/azathioprine/"
+    },
+    {
+      "slug": "azilsartan-medoxomil",
+      "name": "Azilsartan Medoxomil",
+      "keywords": [
+        "azilsartan medoxomil",
+        "edarbi"
+      ],
+      "url": "/drugs/azilsartan-medoxomil/"
+    },
+    {
+      "slug": "aztreonam",
+      "name": "Aztreonam",
+      "keywords": [
+        "aztreonam",
+        "emblaveo"
+      ],
+      "url": "/drugs/aztreonam/"
+    },
+    {
+      "slug": "baloxavir-marboxil",
+      "name": "Baloxavir Marboxil",
+      "keywords": [
+        "baloxavir marboxil",
+        "xofluza"
+      ],
+      "url": "/drugs/baloxavir-marboxil/"
+    },
+    {
+      "slug": "baricitinib",
+      "name": "Baricitinib",
+      "keywords": [
+        "baricitinib",
+        "olumiant"
+      ],
+      "url": "/drugs/baricitinib/"
+    },
+    {
+      "slug": "basiliximab",
+      "name": "Basiliximab",
+      "keywords": [
+        "basiliximab",
+        "simulect"
+      ],
+      "url": "/drugs/basiliximab/"
+    },
+    {
+      "slug": "bazedoxifene",
+      "name": "Bazedoxifene",
+      "keywords": [
+        "bazedoxifene",
+        "conbriza"
+      ],
+      "url": "/drugs/bazedoxifene/"
+    },
+    {
+      "slug": "bedaquiline-fumarate",
+      "name": "Bedaquiline Fumarate",
+      "keywords": [
+        "bedaquiline fumarate",
+        "sirturo"
+      ],
+      "url": "/drugs/bedaquiline-fumarate/"
+    },
+    {
+      "slug": "belatacept",
+      "name": "Belatacept",
+      "keywords": [
+        "belatacept",
+        "nulojix"
+      ],
+      "url": "/drugs/belatacept/"
+    },
+    {
+      "slug": "belimumab",
+      "name": "Belimumab",
+      "keywords": [
+        "belimumab",
+        "benlysta"
+      ],
+      "url": "/drugs/belimumab/"
+    },
+    {
+      "slug": "bempedoic-acid",
+      "name": "Bempedoic Acid",
+      "keywords": [
+        "bempedoic acid",
+        "nilemdo"
+      ],
+      "url": "/drugs/bempedoic-acid/"
+    },
+    {
+      "slug": "benralizumab",
+      "name": "Benralizumab",
+      "keywords": [
+        "benralizumab",
+        "fasenra"
+      ],
+      "url": "/drugs/benralizumab/"
+    },
+    {
+      "slug": "besilesomab",
+      "name": "Besilesomab",
+      "keywords": [
+        "besilesomab",
+        "scintimun"
+      ],
+      "url": "/drugs/besilesomab/"
+    },
+    {
+      "slug": "bevacizumab",
+      "name": "Bevacizumab",
+      "keywords": [
+        "bevacizumab",
+        "avzivi",
+        "mvasi",
+        "lytenava",
+        "avastin"
+      ],
+      "url": "/drugs/bevacizumab/"
+    },
+    {
+      "slug": "bexarotene",
+      "name": "Bexarotene",
+      "keywords": [
+        "bexarotene",
+        "targretin"
+      ],
+      "url": "/drugs/bexarotene/"
+    },
+    {
+      "slug": "bezlotoxumab",
+      "name": "Bezlotoxumab",
+      "keywords": [
+        "bezlotoxumab",
+        "zinplava"
+      ],
+      "url": "/drugs/bezlotoxumab/"
+    },
+    {
+      "slug": "bictegravir",
+      "name": "Bictegravir",
+      "keywords": [
+        "bictegravir"
+      ],
+      "url": "/drugs/bictegravir/"
+    },
+    {
+      "slug": "bimatoprost",
+      "name": "Bimatoprost",
+      "keywords": [
+        "bimatoprost",
+        "lumigan"
+      ],
+      "url": "/drugs/bimatoprost/"
+    },
+    {
+      "slug": "bimekizumab",
+      "name": "Bimekizumab",
+      "keywords": [
+        "bimekizumab",
+        "bimzelx"
+      ],
+      "url": "/drugs/bimekizumab/"
+    },
+    {
+      "slug": "binimetinib",
+      "name": "Binimetinib",
+      "keywords": [
+        "binimetinib",
+        "mektovi"
+      ],
+      "url": "/drugs/binimetinib/"
+    },
+    {
+      "slug": "blinatumomab",
+      "name": "Blinatumomab",
+      "keywords": [
+        "blinatumomab",
+        "blincyto"
+      ],
+      "url": "/drugs/blinatumomab/"
+    },
+    {
+      "slug": "bortezomib",
+      "name": "Bortezomib",
+      "keywords": [
+        "bortezomib",
+        "velcade"
+      ],
+      "url": "/drugs/bortezomib/"
+    },
+    {
+      "slug": "bosentan-as-monohydrate",
+      "name": "Bosentan (As Monohydrate)",
+      "keywords": [
+        "bosentan (as monohydrate)",
+        "stayveer"
+      ],
+      "url": "/drugs/bosentan-as-monohydrate/"
+    },
+    {
+      "slug": "bosutinib-as-monohydrate",
+      "name": "Bosutinib (As Monohydrate)",
+      "keywords": [
+        "bosutinib (as monohydrate)",
+        "bosulif"
+      ],
+      "url": "/drugs/bosutinib-as-monohydrate/"
+    },
+    {
+      "slug": "botulinum-toxin-type-a",
+      "name": "Botulinum Toxin Type A",
+      "keywords": [
+        "botulinum toxin type a",
+        "nuceiva"
+      ],
+      "url": "/drugs/botulinum-toxin-type-a/"
+    },
+    {
+      "slug": "brentuximab-vedotin",
+      "name": "Brentuximab Vedotin",
+      "keywords": [
+        "brentuximab vedotin",
+        "adcetris"
+      ],
+      "url": "/drugs/brentuximab-vedotin/"
+    },
+    {
+      "slug": "brexpiprazole",
+      "name": "Brexpiprazole",
+      "keywords": [
+        "brexpiprazole",
+        "rxulti"
+      ],
+      "url": "/drugs/brexpiprazole/"
+    },
+    {
+      "slug": "brigatinib",
+      "name": "Brigatinib",
+      "keywords": [
+        "brigatinib",
+        "alunbrig"
+      ],
+      "url": "/drugs/brigatinib/"
+    },
+    {
+      "slug": "brimonidine-tartrate",
+      "name": "Brimonidine Tartrate",
+      "keywords": [
+        "brimonidine tartrate",
+        "mirvaso"
+      ],
+      "url": "/drugs/brimonidine-tartrate/"
+    },
+    {
+      "slug": "brinzolamide",
+      "name": "Brinzolamide",
+      "keywords": [
+        "brinzolamide",
+        "azopt"
+      ],
+      "url": "/drugs/brinzolamide/"
+    },
+    {
+      "slug": "brivaracetam",
+      "name": "Brivaracetam",
+      "keywords": [
+        "brivaracetam",
+        "briviact (in italy: nubriveo)"
+      ],
+      "url": "/drugs/brivaracetam/"
+    },
+    {
+      "slug": "brodalumab",
+      "name": "Brodalumab",
+      "keywords": [
+        "brodalumab",
+        "kyntheum"
+      ],
+      "url": "/drugs/brodalumab/"
+    },
+    {
+      "slug": "brolucizumab",
+      "name": "Brolucizumab",
+      "keywords": [
+        "brolucizumab",
+        "beovu"
+      ],
+      "url": "/drugs/brolucizumab/"
+    },
+    {
+      "slug": "budesonide",
+      "name": "Budesonide",
+      "keywords": [
+        "budesonide",
+        "jorveza",
+        "goresp digihaler (previously budesonide/formoterol teva pharma b.v.)"
+      ],
+      "url": "/drugs/budesonide/"
+    },
+    {
+      "slug": "bupivacaine",
+      "name": "Bupivacaine",
+      "keywords": [
+        "bupivacaine",
+        "exparel liposomal"
+      ],
+      "url": "/drugs/bupivacaine/"
+    },
+    {
+      "slug": "buprenorphine",
+      "name": "Buprenorphine",
+      "keywords": [
+        "buprenorphine",
+        "buvidal"
+      ],
+      "url": "/drugs/buprenorphine/"
+    },
+    {
+      "slug": "bupropion",
+      "name": "Bupropion",
+      "keywords": [
+        "bupropion"
+      ],
+      "url": "/drugs/bupropion/"
+    },
+    {
+      "slug": "burosumab",
+      "name": "Burosumab",
+      "keywords": [
+        "burosumab",
+        "crysvita"
+      ],
+      "url": "/drugs/burosumab/"
+    },
+    {
+      "slug": "busulfan",
+      "name": "Busulfan",
+      "keywords": [
+        "busulfan",
+        "busulfan fresenius kabi"
+      ],
+      "url": "/drugs/busulfan/"
+    },
+    {
+      "slug": "cabazitaxel",
+      "name": "Cabazitaxel",
+      "keywords": [
+        "cabazitaxel",
+        "jevtana"
+      ],
+      "url": "/drugs/cabazitaxel/"
+    },
+    {
+      "slug": "cabotegravir",
+      "name": "Cabotegravir",
+      "keywords": [
+        "cabotegravir",
+        "apretude"
+      ],
+      "url": "/drugs/cabotegravir/"
+    },
+    {
+      "slug": "cabozantinib",
+      "name": "Cabozantinib",
+      "keywords": [
+        "cabozantinib",
+        "cometriq"
+      ],
+      "url": "/drugs/cabozantinib/"
+    },
+    {
+      "slug": "caffeine-citrate",
+      "name": "Caffeine Citrate",
+      "keywords": [
+        "caffeine citrate",
+        "peyona (previously nymusa)"
+      ],
+      "url": "/drugs/caffeine-citrate/"
+    },
+    {
+      "slug": "canagliflozin",
+      "name": "Canagliflozin",
+      "keywords": [
+        "canagliflozin",
+        "invokana"
+      ],
+      "url": "/drugs/canagliflozin/"
+    },
+    {
+      "slug": "canakinumab",
+      "name": "Canakinumab",
+      "keywords": [
+        "canakinumab",
+        "ilaris"
+      ],
+      "url": "/drugs/canakinumab/"
+    },
+    {
+      "slug": "cangrelor",
+      "name": "Cangrelor",
+      "keywords": [
+        "cangrelor",
+        "kengrexal"
+      ],
+      "url": "/drugs/cangrelor/"
+    },
+    {
+      "slug": "cannabidiol",
+      "name": "Cannabidiol",
+      "keywords": [
+        "cannabidiol",
+        "epidyolex"
+      ],
+      "url": "/drugs/cannabidiol/"
+    },
+    {
+      "slug": "capecitabine",
+      "name": "Capecitabine",
+      "keywords": [
+        "capecitabine",
+        "xeloda"
+      ],
+      "url": "/drugs/capecitabine/"
+    },
+    {
+      "slug": "caplacizumab",
+      "name": "Caplacizumab",
+      "keywords": [
+        "caplacizumab",
+        "cablivi"
+      ],
+      "url": "/drugs/caplacizumab/"
+    },
+    {
+      "slug": "capsaicin",
+      "name": "Capsaicin",
+      "keywords": [
+        "capsaicin",
+        "qutenza"
+      ],
+      "url": "/drugs/capsaicin/"
+    },
+    {
+      "slug": "carbidopa",
+      "name": "Carbidopa",
+      "keywords": [
+        "carbidopa"
+      ],
+      "url": "/drugs/carbidopa/"
+    },
+    {
+      "slug": "carfilzomib",
+      "name": "Carfilzomib",
+      "keywords": [
+        "carfilzomib",
+        "kyprolis"
+      ],
+      "url": "/drugs/carfilzomib/"
+    },
+    {
+      "slug": "carglumic-acid",
+      "name": "Carglumic Acid",
+      "keywords": [
+        "carglumic acid",
+        "ucedane"
+      ],
+      "url": "/drugs/carglumic-acid/"
+    },
+    {
+      "slug": "cariprazine-hydrochloride",
+      "name": "Cariprazine Hydrochloride",
+      "keywords": [
+        "cariprazine hydrochloride",
+        "reagila"
+      ],
+      "url": "/drugs/cariprazine-hydrochloride/"
+    },
+    {
+      "slug": "carmustine",
+      "name": "Carmustine",
+      "keywords": [
+        "carmustine",
+        "carmustine medac (previously carmustine obvius)"
+      ],
+      "url": "/drugs/carmustine/"
+    },
+    {
+      "slug": "caspofungin-as-acetate",
+      "name": "Caspofungin (As Acetate)",
+      "keywords": [
+        "caspofungin (as acetate)",
+        "cancidas (previously caspofungin msd)"
+      ],
+      "url": "/drugs/caspofungin-as-acetate/"
+    },
+    {
+      "slug": "catridecacog",
+      "name": "Catridecacog",
+      "keywords": [
+        "catridecacog",
+        "novothirteen"
+      ],
+      "url": "/drugs/catridecacog/"
+    },
+    {
+      "slug": "catumaxomab",
+      "name": "Catumaxomab",
+      "keywords": [
+        "catumaxomab",
+        "korjuny"
+      ],
+      "url": "/drugs/catumaxomab/"
+    },
+    {
+      "slug": "ceftaroline-fosamil",
+      "name": "Ceftaroline Fosamil",
+      "keywords": [
+        "ceftaroline fosamil",
+        "zinforo"
+      ],
+      "url": "/drugs/ceftaroline-fosamil/"
+    },
+    {
+      "slug": "ceftolozane",
+      "name": "Ceftolozane",
+      "keywords": [
+        "ceftolozane"
+      ],
+      "url": "/drugs/ceftolozane/"
+    },
+    {
+      "slug": "cemiplimab",
+      "name": "Cemiplimab",
+      "keywords": [
+        "cemiplimab",
+        "libtayo"
+      ],
+      "url": "/drugs/cemiplimab/"
+    },
+    {
+      "slug": "cenobamate",
+      "name": "Cenobamate",
+      "keywords": [
+        "cenobamate",
+        "ontozry"
+      ],
+      "url": "/drugs/cenobamate/"
+    },
+    {
+      "slug": "ceritinib",
+      "name": "Ceritinib",
+      "keywords": [
+        "ceritinib",
+        "zykadia"
+      ],
+      "url": "/drugs/ceritinib/"
+    },
+    {
+      "slug": "cerliponase-alfa",
+      "name": "Cerliponase Alfa",
+      "keywords": [
+        "cerliponase alfa",
+        "brineura"
+      ],
+      "url": "/drugs/cerliponase-alfa/"
+    },
+    {
+      "slug": "certolizumab-pegol",
+      "name": "Certolizumab Pegol",
+      "keywords": [
+        "certolizumab pegol",
+        "cimzia"
+      ],
+      "url": "/drugs/certolizumab-pegol/"
+    },
+    {
+      "slug": "cetrorelix-as-acetate",
+      "name": "Cetrorelix (As Acetate)",
+      "keywords": [
+        "cetrorelix (as acetate)",
+        "cetrotide"
+      ],
+      "url": "/drugs/cetrorelix-as-acetate/"
+    },
+    {
+      "slug": "cetuximab",
+      "name": "Cetuximab",
+      "keywords": [
+        "cetuximab",
+        "erbitux"
+      ],
+      "url": "/drugs/cetuximab/"
+    },
+    {
+      "slug": "chenodeoxycholic-acid",
+      "name": "Chenodeoxycholic Acid",
+      "keywords": [
+        "chenodeoxycholic acid",
+        "chenodeoxycholic acid leadiant (previously chenodeoxycholic acid sigma-tau)"
+      ],
+      "url": "/drugs/chenodeoxycholic-acid/"
+    },
+    {
+      "slug": "cholic-acid",
+      "name": "Cholic Acid",
+      "keywords": [
+        "cholic acid",
+        "orphacol"
+      ],
+      "url": "/drugs/cholic-acid/"
+    },
+    {
+      "slug": "choriogonadotropin-alfa",
+      "name": "Choriogonadotropin Alfa",
+      "keywords": [
+        "choriogonadotropin alfa",
+        "ovitrelle"
+      ],
+      "url": "/drugs/choriogonadotropin-alfa/"
+    },
+    {
+      "slug": "cilastatin",
+      "name": "Cilastatin",
+      "keywords": [
+        "cilastatin"
+      ],
+      "url": "/drugs/cilastatin/"
+    },
+    {
+      "slug": "cinacalcet-hydrochloride",
+      "name": "Cinacalcet Hydrochloride",
+      "keywords": [
+        "cinacalcet hydrochloride",
+        "mimpara"
+      ],
+      "url": "/drugs/cinacalcet-hydrochloride/"
+    },
+    {
+      "slug": "cladribine",
+      "name": "Cladribine",
+      "keywords": [
+        "cladribine",
+        "litak",
+        "mavenclad"
+      ],
+      "url": "/drugs/cladribine/"
+    },
+    {
+      "slug": "clascoterone",
+      "name": "Clascoterone",
+      "keywords": [
+        "clascoterone",
+        "winlevi"
+      ],
+      "url": "/drugs/clascoterone/"
+    },
+    {
+      "slug": "clofarabine",
+      "name": "Clofarabine",
+      "keywords": [
+        "clofarabine",
+        "evoltra"
+      ],
+      "url": "/drugs/clofarabine/"
+    },
+    {
+      "slug": "clopidogrel",
+      "name": "Clopidogrel",
+      "keywords": [
+        "clopidogrel",
+        "clopidogrel/acetylsalicylic acid zentiva (previously duocover)"
+      ],
+      "url": "/drugs/clopidogrel/"
+    },
+    {
+      "slug": "clopidogrel-as-hydrochloride",
+      "name": "Clopidogrel (As Hydrochloride)",
+      "keywords": [
+        "clopidogrel (as hydrochloride)",
+        "clopidogrel hcs"
+      ],
+      "url": "/drugs/clopidogrel-as-hydrochloride/"
+    },
+    {
+      "slug": "cobicistat",
+      "name": "Cobicistat",
+      "keywords": [
+        "cobicistat",
+        "tybost"
+      ],
+      "url": "/drugs/cobicistat/"
+    },
+    {
+      "slug": "colesevelam-as-hydrochloride",
+      "name": "Colesevelam (As Hydrochloride)",
+      "keywords": [
+        "colesevelam (as hydrochloride)",
+        "cholestagel"
+      ],
+      "url": "/drugs/colesevelam-as-hydrochloride/"
+    },
+    {
+      "slug": "colistimethate-sodium",
+      "name": "Colistimethate Sodium",
+      "keywords": [
+        "colistimethate sodium",
+        "colobreathe"
+      ],
+      "url": "/drugs/colistimethate-sodium/"
+    },
+    {
+      "slug": "concizumab",
+      "name": "Concizumab",
+      "keywords": [
+        "concizumab",
+        "alhemo"
+      ],
+      "url": "/drugs/concizumab/"
+    },
+    {
+      "slug": "corifollitropin-alfa",
+      "name": "Corifollitropin Alfa",
+      "keywords": [
+        "corifollitropin alfa",
+        "elonva"
+      ],
+      "url": "/drugs/corifollitropin-alfa/"
+    },
+    {
+      "slug": "crizotinib",
+      "name": "Crizotinib",
+      "keywords": [
+        "crizotinib",
+        "xalkori"
+      ],
+      "url": "/drugs/crizotinib/"
+    },
+    {
+      "slug": "cytarabine",
+      "name": "Cytarabine",
+      "keywords": [
+        "cytarabine",
+        "vyxeos liposomal (previously vyxeos)"
+      ],
+      "url": "/drugs/cytarabine/"
+    },
+    {
+      "slug": "dacomitinib-monohydrate",
+      "name": "Dacomitinib Monohydrate",
+      "keywords": [
+        "dacomitinib monohydrate",
+        "vizimpro"
+      ],
+      "url": "/drugs/dacomitinib-monohydrate/"
+    },
+    {
+      "slug": "dalbavancin-hydrochloride",
+      "name": "Dalbavancin Hydrochloride",
+      "keywords": [
+        "dalbavancin hydrochloride",
+        "xydalba"
+      ],
+      "url": "/drugs/dalbavancin-hydrochloride/"
+    },
+    {
+      "slug": "damoctocog-alfa-pegol",
+      "name": "Damoctocog Alfa Pegol",
+      "keywords": [
+        "damoctocog alfa pegol",
+        "jivi"
+      ],
+      "url": "/drugs/damoctocog-alfa-pegol/"
+    },
+    {
+      "slug": "dapagliflozin",
+      "name": "Dapagliflozin",
+      "keywords": [
+        "dapagliflozin",
+        "dapagliflozin viatris"
+      ],
+      "url": "/drugs/dapagliflozin/"
+    },
+    {
+      "slug": "daptomycin",
+      "name": "Daptomycin",
+      "keywords": [
+        "daptomycin",
+        "cubicin"
+      ],
+      "url": "/drugs/daptomycin/"
+    },
+    {
+      "slug": "daratumumab",
+      "name": "Daratumumab",
+      "keywords": [
+        "daratumumab",
+        "darzalex"
+      ],
+      "url": "/drugs/daratumumab/"
+    },
+    {
+      "slug": "darbepoetin-alfa",
+      "name": "Darbepoetin Alfa",
+      "keywords": [
+        "darbepoetin alfa",
+        "aranesp"
+      ],
+      "url": "/drugs/darbepoetin-alfa/"
+    },
+    {
+      "slug": "darifenacin-hydrobromide",
+      "name": "Darifenacin Hydrobromide",
+      "keywords": [
+        "darifenacin hydrobromide",
+        "emselex"
+      ],
+      "url": "/drugs/darifenacin-hydrobromide/"
+    },
+    {
+      "slug": "darolutamide",
+      "name": "Darolutamide",
+      "keywords": [
+        "darolutamide",
+        "nubeqa"
+      ],
+      "url": "/drugs/darolutamide/"
+    },
+    {
+      "slug": "darunavir",
+      "name": "Darunavir",
+      "keywords": [
+        "darunavir",
+        "prezista"
+      ],
+      "url": "/drugs/darunavir/"
+    },
+    {
+      "slug": "dasatinib-monohydrate",
+      "name": "Dasatinib Monohydrate",
+      "keywords": [
+        "dasatinib monohydrate",
+        "dasatinib accord healthcare"
+      ],
+      "url": "/drugs/dasatinib-monohydrate/"
+    },
+    {
+      "slug": "daunorubicin",
+      "name": "Daunorubicin",
+      "keywords": [
+        "daunorubicin"
+      ],
+      "url": "/drugs/daunorubicin/"
+    },
+    {
+      "slug": "decitabine",
+      "name": "Decitabine",
+      "keywords": [
+        "decitabine",
+        "dacogen",
+        "inaqovi"
+      ],
+      "url": "/drugs/decitabine/"
+    },
+    {
+      "slug": "deferasirox",
+      "name": "Deferasirox",
+      "keywords": [
+        "deferasirox",
+        "deferasirox mylan",
+        "deferasirox accord"
+      ],
+      "url": "/drugs/deferasirox/"
+    },
+    {
+      "slug": "deferiprone",
+      "name": "Deferiprone",
+      "keywords": [
+        "deferiprone",
+        "ferriprox",
+        "deferiprone lipomed"
+      ],
+      "url": "/drugs/deferiprone/"
+    },
+    {
+      "slug": "defibrotide",
+      "name": "Defibrotide",
+      "keywords": [
+        "defibrotide",
+        "defitelio"
+      ],
+      "url": "/drugs/defibrotide/"
+    },
+    {
+      "slug": "degarelix",
+      "name": "Degarelix",
+      "keywords": [
+        "degarelix",
+        "firmagon"
+      ],
+      "url": "/drugs/degarelix/"
+    },
+    {
+      "slug": "delamanid",
+      "name": "Delamanid",
+      "keywords": [
+        "delamanid",
+        "deltyba"
+      ],
+      "url": "/drugs/delamanid/"
+    },
+    {
+      "slug": "denosumab",
+      "name": "Denosumab",
+      "keywords": [
+        "denosumab",
+        "vevzuo",
+        "xbryk",
+        "degevma"
+      ],
+      "url": "/drugs/denosumab/"
+    },
+    {
+      "slug": "desloratadine",
+      "name": "Desloratadine",
+      "keywords": [
+        "desloratadine",
+        "desloratadine ratiopharm",
+        "dasselta",
+        "aerinaze"
+      ],
+      "url": "/drugs/desloratadine/"
+    },
+    {
+      "slug": "deutetrabenazine",
+      "name": "Deutetrabenazine",
+      "keywords": [
+        "deutetrabenazine",
+        "austedo"
+      ],
+      "url": "/drugs/deutetrabenazine/"
+    },
+    {
+      "slug": "dexamethasone",
+      "name": "Dexamethasone",
+      "keywords": [
+        "dexamethasone",
+        "neofordex",
+        "ozurdex"
+      ],
+      "url": "/drugs/dexamethasone/"
+    },
+    {
+      "slug": "dexmedetomidine-hydrochloride",
+      "name": "Dexmedetomidine Hydrochloride",
+      "keywords": [
+        "dexmedetomidine hydrochloride",
+        "dexdor"
+      ],
+      "url": "/drugs/dexmedetomidine-hydrochloride/"
+    },
+    {
+      "slug": "dexrazoxane-hydrochloride",
+      "name": "Dexrazoxane Hydrochloride",
+      "keywords": [
+        "dexrazoxane hydrochloride",
+        "savene"
+      ],
+      "url": "/drugs/dexrazoxane-hydrochloride/"
+    },
+    {
+      "slug": "dibotermin-alfa",
+      "name": "Dibotermin Alfa",
+      "keywords": [
+        "dibotermin alfa",
+        "inductos"
+      ],
+      "url": "/drugs/dibotermin-alfa/"
+    },
+    {
+      "slug": "diflunisal",
+      "name": "Diflunisal",
+      "keywords": [
+        "diflunisal",
+        "attrogy"
+      ],
+      "url": "/drugs/diflunisal/"
+    },
+    {
+      "slug": "dimethyl-fumarate",
+      "name": "Dimethyl Fumarate",
+      "keywords": [
+        "dimethyl fumarate",
+        "tecfidera"
+      ],
+      "url": "/drugs/dimethyl-fumarate/"
+    },
+    {
+      "slug": "diroximel-fumarate-biib098",
+      "name": "Diroximel Fumarate (Biib098)",
+      "keywords": [
+        "diroximel fumarate (biib098)",
+        "vumerity"
+      ],
+      "url": "/drugs/diroximel-fumarate-biib098/"
+    },
+    {
+      "slug": "docetaxel",
+      "name": "Docetaxel",
+      "keywords": [
+        "docetaxel",
+        "taxotere",
+        "docetaxel accord",
+        "docetaxel kabi"
+      ],
+      "url": "/drugs/docetaxel/"
+    },
+    {
+      "slug": "dolutegravir",
+      "name": "Dolutegravir",
+      "keywords": [
+        "dolutegravir",
+        "tivicay"
+      ],
+      "url": "/drugs/dolutegravir/"
+    },
+    {
+      "slug": "dopamine",
+      "name": "Dopamine",
+      "keywords": [
+        "dopamine"
+      ],
+      "url": "/drugs/dopamine/"
+    },
+    {
+      "slug": "doravirine",
+      "name": "Doravirine",
+      "keywords": [
+        "doravirine",
+        "pifeltro"
+      ],
+      "url": "/drugs/doravirine/"
+    },
+    {
+      "slug": "dostarlimab",
+      "name": "Dostarlimab",
+      "keywords": [
+        "dostarlimab",
+        "jemperli"
+      ],
+      "url": "/drugs/dostarlimab/"
+    },
+    {
+      "slug": "doxorubicin-hydrochloride",
+      "name": "Doxorubicin Hydrochloride",
+      "keywords": [
+        "doxorubicin hydrochloride",
+        "myocet liposomal (previously myocet)"
+      ],
+      "url": "/drugs/doxorubicin-hydrochloride/"
+    },
+    {
+      "slug": "dronedarone",
+      "name": "Dronedarone",
+      "keywords": [
+        "dronedarone",
+        "multaq"
+      ],
+      "url": "/drugs/dronedarone/"
+    },
+    {
+      "slug": "drospirenone",
+      "name": "Drospirenone",
+      "keywords": [
+        "drospirenone",
+        "lydisilka"
+      ],
+      "url": "/drugs/drospirenone/"
+    },
+    {
+      "slug": "dulaglutide",
+      "name": "Dulaglutide",
+      "keywords": [
+        "dulaglutide",
+        "trulicity"
+      ],
+      "url": "/drugs/dulaglutide/"
+    },
+    {
+      "slug": "duloxetine",
+      "name": "Duloxetine",
+      "keywords": [
+        "duloxetine",
+        "duloxetine zentiva"
+      ],
+      "url": "/drugs/duloxetine/"
+    },
+    {
+      "slug": "duloxetine-hydrochloride",
+      "name": "Duloxetine Hydrochloride",
+      "keywords": [
+        "duloxetine hydrochloride",
+        "yentreve"
+      ],
+      "url": "/drugs/duloxetine-hydrochloride/"
+    },
+    {
+      "slug": "dupilumab",
+      "name": "Dupilumab",
+      "keywords": [
+        "dupilumab",
+        "dupixent"
+      ],
+      "url": "/drugs/dupilumab/"
+    },
+    {
+      "slug": "durvalumab",
+      "name": "Durvalumab",
+      "keywords": [
+        "durvalumab",
+        "imfinzi"
+      ],
+      "url": "/drugs/durvalumab/"
+    },
+    {
+      "slug": "duvelisib",
+      "name": "Duvelisib",
+      "keywords": [
+        "duvelisib",
+        "copiktra"
+      ],
+      "url": "/drugs/duvelisib/"
+    },
+    {
+      "slug": "eculizumab",
+      "name": "Eculizumab",
+      "keywords": [
+        "eculizumab",
+        "bekemv",
+        "epysqli"
+      ],
+      "url": "/drugs/eculizumab/"
+    },
+    {
+      "slug": "efavirenz",
+      "name": "Efavirenz",
+      "keywords": [
+        "efavirenz",
+        "efavirenz teva"
+      ],
+      "url": "/drugs/efavirenz/"
+    },
+    {
+      "slug": "eflornithine",
+      "name": "Eflornithine",
+      "keywords": [
+        "eflornithine",
+        "vaniqa"
+      ],
+      "url": "/drugs/eflornithine/"
+    },
+    {
+      "slug": "efmoroctocog-alfa",
+      "name": "Efmoroctocog Alfa",
+      "keywords": [
+        "efmoroctocog alfa",
+        "elocta"
+      ],
+      "url": "/drugs/efmoroctocog-alfa/"
+    },
+    {
+      "slug": "eftrenonacog-alfa",
+      "name": "Eftrenonacog Alfa",
+      "keywords": [
+        "eftrenonacog alfa",
+        "alprolix"
+      ],
+      "url": "/drugs/eftrenonacog-alfa/"
+    },
+    {
+      "slug": "elacestrant",
+      "name": "Elacestrant",
+      "keywords": [
+        "elacestrant",
+        "orserdu"
+      ],
+      "url": "/drugs/elacestrant/"
+    },
+    {
+      "slug": "elafibranor",
+      "name": "Elafibranor",
+      "keywords": [
+        "elafibranor",
+        "iqirvo"
+      ],
+      "url": "/drugs/elafibranor/"
+    },
+    {
+      "slug": "elbasvir",
+      "name": "Elbasvir",
+      "keywords": [
+        "elbasvir"
+      ],
+      "url": "/drugs/elbasvir/"
+    },
+    {
+      "slug": "elexacaftor",
+      "name": "Elexacaftor",
+      "keywords": [
+        "elexacaftor"
+      ],
+      "url": "/drugs/elexacaftor/"
+    },
+    {
+      "slug": "eliglustat-tartrate",
+      "name": "Eliglustat (Tartrate)",
+      "keywords": [
+        "eliglustat (tartrate)",
+        "cerdelga"
+      ],
+      "url": "/drugs/eliglustat-tartrate/"
+    },
+    {
+      "slug": "elotuzumab",
+      "name": "Elotuzumab",
+      "keywords": [
+        "elotuzumab",
+        "empliciti"
+      ],
+      "url": "/drugs/elotuzumab/"
+    },
+    {
+      "slug": "eltrombopag",
+      "name": "Eltrombopag",
+      "keywords": [
+        "eltrombopag",
+        "revolade"
+      ],
+      "url": "/drugs/eltrombopag/"
+    },
+    {
+      "slug": "elvitegravir",
+      "name": "Elvitegravir",
+      "keywords": [
+        "elvitegravir"
+      ],
+      "url": "/drugs/elvitegravir/"
+    },
+    {
+      "slug": "emicizumab",
+      "name": "Emicizumab",
+      "keywords": [
+        "emicizumab",
+        "hemlibra"
+      ],
+      "url": "/drugs/emicizumab/"
+    },
+    {
+      "slug": "empagliflozin",
+      "name": "Empagliflozin",
+      "keywords": [
+        "empagliflozin",
+        "jardiance"
+      ],
+      "url": "/drugs/empagliflozin/"
+    },
+    {
+      "slug": "emtricitabine",
+      "name": "Emtricitabine",
+      "keywords": [
+        "emtricitabine",
+        "emtriva"
+      ],
+      "url": "/drugs/emtricitabine/"
+    },
+    {
+      "slug": "enalapril-maleate",
+      "name": "Enalapril (Maleate)",
+      "keywords": [
+        "enalapril (maleate)",
+        "aqumeldi"
+      ],
+      "url": "/drugs/enalapril-maleate/"
+    },
+    {
+      "slug": "encorafenib",
+      "name": "Encorafenib",
+      "keywords": [
+        "encorafenib",
+        "braftovi"
+      ],
+      "url": "/drugs/encorafenib/"
+    },
+    {
+      "slug": "enfortumab-vedotin",
+      "name": "Enfortumab Vedotin",
+      "keywords": [
+        "enfortumab vedotin",
+        "padcev"
+      ],
+      "url": "/drugs/enfortumab-vedotin/"
+    },
+    {
+      "slug": "enfuvirtide",
+      "name": "Enfuvirtide",
+      "keywords": [
+        "enfuvirtide",
+        "fuzeon"
+      ],
+      "url": "/drugs/enfuvirtide/"
+    },
+    {
+      "slug": "enoxaparin-sodium",
+      "name": "Enoxaparin Sodium",
+      "keywords": [
+        "enoxaparin sodium",
+        "inhixa"
+      ],
+      "url": "/drugs/enoxaparin-sodium/"
+    },
+    {
+      "slug": "entacapone",
+      "name": "Entacapone",
+      "keywords": [
+        "entacapone",
+        "entacapone teva"
+      ],
+      "url": "/drugs/entacapone/"
+    },
+    {
+      "slug": "entecavir",
+      "name": "Entecavir",
+      "keywords": [
+        "entecavir",
+        "entecavir accord"
+      ],
+      "url": "/drugs/entecavir/"
+    },
+    {
+      "slug": "entrectinib",
+      "name": "Entrectinib",
+      "keywords": [
+        "entrectinib",
+        "rozlytrek"
+      ],
+      "url": "/drugs/entrectinib/"
+    },
+    {
+      "slug": "enzalutamide",
+      "name": "Enzalutamide",
+      "keywords": [
+        "enzalutamide",
+        "enzalutamide accordpharma",
+        "xtandi"
+      ],
+      "url": "/drugs/enzalutamide/"
+    },
+    {
+      "slug": "epinephrine",
+      "name": "Epinephrine",
+      "keywords": [
+        "epinephrine",
+        "eurneffy"
+      ],
+      "url": "/drugs/epinephrine/"
+    },
+    {
+      "slug": "eptifibatide",
+      "name": "Eptifibatide",
+      "keywords": [
+        "eptifibatide",
+        "eptifibatide accord",
+        "integrilin"
+      ],
+      "url": "/drugs/eptifibatide/"
+    },
+    {
+      "slug": "eptinezumab",
+      "name": "Eptinezumab",
+      "keywords": [
+        "eptinezumab",
+        "vyepti"
+      ],
+      "url": "/drugs/eptinezumab/"
+    },
+    {
+      "slug": "eravacycline",
+      "name": "Eravacycline",
+      "keywords": [
+        "eravacycline",
+        "xerava"
+      ],
+      "url": "/drugs/eravacycline/"
+    },
+    {
+      "slug": "erdafitinib",
+      "name": "Erdafitinib",
+      "keywords": [
+        "erdafitinib",
+        "balversa"
+      ],
+      "url": "/drugs/erdafitinib/"
+    },
+    {
+      "slug": "erenumab",
+      "name": "Erenumab",
+      "keywords": [
+        "erenumab",
+        "aimovig"
+      ],
+      "url": "/drugs/erenumab/"
+    },
+    {
+      "slug": "eribulin",
+      "name": "Eribulin",
+      "keywords": [
+        "eribulin",
+        "halaven"
+      ],
+      "url": "/drugs/eribulin/"
+    },
+    {
+      "slug": "erlotinib",
+      "name": "Erlotinib",
+      "keywords": [
+        "erlotinib",
+        "tarceva"
+      ],
+      "url": "/drugs/erlotinib/"
+    },
+    {
+      "slug": "ertapenem-sodium",
+      "name": "Ertapenem Sodium",
+      "keywords": [
+        "ertapenem sodium",
+        "ertapenem sun"
+      ],
+      "url": "/drugs/ertapenem-sodium/"
+    },
+    {
+      "slug": "esketamine-hydrochloride",
+      "name": "Esketamine Hydrochloride",
+      "keywords": [
+        "esketamine hydrochloride",
+        "spravato"
+      ],
+      "url": "/drugs/esketamine-hydrochloride/"
+    },
+    {
+      "slug": "eslicarbazepine-acetate",
+      "name": "Eslicarbazepine Acetate",
+      "keywords": [
+        "eslicarbazepine acetate",
+        "zebinix"
+      ],
+      "url": "/drugs/eslicarbazepine-acetate/"
+    },
+    {
+      "slug": "esomeprazole",
+      "name": "Esomeprazole",
+      "keywords": [
+        "esomeprazole",
+        "nexium control"
+      ],
+      "url": "/drugs/esomeprazole/"
+    },
+    {
+      "slug": "estradiol",
+      "name": "Estradiol",
+      "keywords": [
+        "estradiol",
+        "zoely"
+      ],
+      "url": "/drugs/estradiol/"
+    },
+    {
+      "slug": "etanercept",
+      "name": "Etanercept",
+      "keywords": [
+        "etanercept",
+        "nepexto"
+      ],
+      "url": "/drugs/etanercept/"
+    },
+    {
+      "slug": "etelcalcetide-hydrochloride",
+      "name": "Etelcalcetide Hydrochloride",
+      "keywords": [
+        "etelcalcetide hydrochloride",
+        "parsabiv"
+      ],
+      "url": "/drugs/etelcalcetide-hydrochloride/"
+    },
+    {
+      "slug": "etravirine",
+      "name": "Etravirine",
+      "keywords": [
+        "etravirine",
+        "intelence"
+      ],
+      "url": "/drugs/etravirine/"
+    },
+    {
+      "slug": "everolimus",
+      "name": "Everolimus",
+      "keywords": [
+        "everolimus",
+        "votubia",
+        "afinitor"
+      ],
+      "url": "/drugs/everolimus/"
+    },
+    {
+      "slug": "evinacumab",
+      "name": "Evinacumab",
+      "keywords": [
+        "evinacumab",
+        "evkeeza"
+      ],
+      "url": "/drugs/evinacumab/"
+    },
+    {
+      "slug": "evolocumab",
+      "name": "Evolocumab",
+      "keywords": [
+        "evolocumab",
+        "repatha"
+      ],
+      "url": "/drugs/evolocumab/"
+    },
+    {
+      "slug": "exenatide",
+      "name": "Exenatide",
+      "keywords": [
+        "exenatide",
+        "byetta"
+      ],
+      "url": "/drugs/exenatide/"
+    },
+    {
+      "slug": "ezetimibe",
+      "name": "Ezetimibe",
+      "keywords": [
+        "ezetimibe"
+      ],
+      "url": "/drugs/ezetimibe/"
+    },
+    {
+      "slug": "faricimab",
+      "name": "Faricimab",
+      "keywords": [
+        "faricimab",
+        "vabysmo"
+      ],
+      "url": "/drugs/faricimab/"
+    },
+    {
+      "slug": "febuxostat",
+      "name": "Febuxostat",
+      "keywords": [
+        "febuxostat",
+        "febuxostat krka"
+      ],
+      "url": "/drugs/febuxostat/"
+    },
+    {
+      "slug": "fenfluramine-hydrochloride",
+      "name": "Fenfluramine Hydrochloride",
+      "keywords": [
+        "fenfluramine hydrochloride",
+        "fintepla"
+      ],
+      "url": "/drugs/fenfluramine-hydrochloride/"
+    },
+    {
+      "slug": "fenofibrate",
+      "name": "Fenofibrate",
+      "keywords": [
+        "fenofibrate",
+        "pravafenix"
+      ],
+      "url": "/drugs/fenofibrate/"
+    },
+    {
+      "slug": "fentanyl",
+      "name": "Fentanyl",
+      "keywords": [
+        "fentanyl",
+        "pecfent"
+      ],
+      "url": "/drugs/fentanyl/"
+    },
+    {
+      "slug": "ferric-maltol",
+      "name": "Ferric Maltol",
+      "keywords": [
+        "ferric maltol",
+        "feraccru"
+      ],
+      "url": "/drugs/ferric-maltol/"
+    },
+    {
+      "slug": "fesoterodine-fumarate",
+      "name": "Fesoterodine Fumarate",
+      "keywords": [
+        "fesoterodine fumarate",
+        "toviaz"
+      ],
+      "url": "/drugs/fesoterodine-fumarate/"
+    },
+    {
+      "slug": "fidaxomicin",
+      "name": "Fidaxomicin",
+      "keywords": [
+        "fidaxomicin",
+        "dificlir"
+      ],
+      "url": "/drugs/fidaxomicin/"
+    },
+    {
+      "slug": "filgotinib-maleate",
+      "name": "Filgotinib Maleate",
+      "keywords": [
+        "filgotinib maleate",
+        "jyseleca"
+      ],
+      "url": "/drugs/filgotinib-maleate/"
+    },
+    {
+      "slug": "filgrastim",
+      "name": "Filgrastim",
+      "keywords": [
+        "filgrastim",
+        "ratiograstim"
+      ],
+      "url": "/drugs/filgrastim/"
+    },
+    {
+      "slug": "fingolimod",
+      "name": "Fingolimod",
+      "keywords": [
+        "fingolimod"
+      ],
+      "url": "/drugs/fingolimod/"
+    },
+    {
+      "slug": "florbetaben-18f",
+      "name": "Florbetaben (18F)",
+      "keywords": [
+        "florbetaben (18f)",
+        "neuraceq"
+      ],
+      "url": "/drugs/florbetaben-18f/"
+    },
+    {
+      "slug": "florbetapir-18f",
+      "name": "Florbetapir (18F)",
+      "keywords": [
+        "florbetapir (18f)",
+        "amyvid"
+      ],
+      "url": "/drugs/florbetapir-18f/"
+    },
+    {
+      "slug": "fluciclovine-18f",
+      "name": "Fluciclovine (18F)",
+      "keywords": [
+        "fluciclovine (18f)",
+        "axumin"
+      ],
+      "url": "/drugs/fluciclovine-18f/"
+    },
+    {
+      "slug": "flutemetamol-18f",
+      "name": "Flutemetamol (18F)",
+      "keywords": [
+        "flutemetamol (18f)",
+        "vizamyl"
+      ],
+      "url": "/drugs/flutemetamol-18f/"
+    },
+    {
+      "slug": "fluticasone-furoate",
+      "name": "Fluticasone Furoate",
+      "keywords": [
+        "fluticasone furoate",
+        "relvar ellipta",
+        "avamys",
+        "revinty ellipta"
+      ],
+      "url": "/drugs/fluticasone-furoate/"
+    },
+    {
+      "slug": "fluticasone-propionate",
+      "name": "Fluticasone Propionate",
+      "keywords": [
+        "fluticasone propionate",
+        "seffalair spiromax"
+      ],
+      "url": "/drugs/fluticasone-propionate/"
+    },
+    {
+      "slug": "fondaparinux-sodium",
+      "name": "Fondaparinux Sodium",
+      "keywords": [
+        "fondaparinux sodium",
+        "arixtra"
+      ],
+      "url": "/drugs/fondaparinux-sodium/"
+    },
+    {
+      "slug": "fosaprepitant",
+      "name": "Fosaprepitant",
+      "keywords": [
+        "fosaprepitant",
+        "ivemend"
+      ],
+      "url": "/drugs/fosaprepitant/"
+    },
+    {
+      "slug": "fostamatinib-disodium",
+      "name": "Fostamatinib Disodium",
+      "keywords": [
+        "fostamatinib disodium",
+        "tavlesse"
+      ],
+      "url": "/drugs/fostamatinib-disodium/"
+    },
+    {
+      "slug": "fremanezumab",
+      "name": "Fremanezumab",
+      "keywords": [
+        "fremanezumab",
+        "ajovy"
+      ],
+      "url": "/drugs/fremanezumab/"
+    },
+    {
+      "slug": "fulvestrant",
+      "name": "Fulvestrant",
+      "keywords": [
+        "fulvestrant",
+        "faslodex"
+      ],
+      "url": "/drugs/fulvestrant/"
+    },
+    {
+      "slug": "galcanezumab",
+      "name": "Galcanezumab",
+      "keywords": [
+        "galcanezumab",
+        "emgality"
+      ],
+      "url": "/drugs/galcanezumab/"
+    },
+    {
+      "slug": "galsulfase",
+      "name": "Galsulfase",
+      "keywords": [
+        "galsulfase",
+        "naglazyme"
+      ],
+      "url": "/drugs/galsulfase/"
+    },
+    {
+      "slug": "ganaxolone",
+      "name": "Ganaxolone",
+      "keywords": [
+        "ganaxolone",
+        "ztalmy"
+      ],
+      "url": "/drugs/ganaxolone/"
+    },
+    {
+      "slug": "ganirelix-acetate",
+      "name": "Ganirelix Acetate",
+      "keywords": [
+        "ganirelix acetate",
+        "ganirelix gedeon richter"
+      ],
+      "url": "/drugs/ganirelix-acetate/"
+    },
+    {
+      "slug": "gefitinib",
+      "name": "Gefitinib",
+      "keywords": [
+        "gefitinib",
+        "iressa"
+      ],
+      "url": "/drugs/gefitinib/"
+    },
+    {
+      "slug": "gemtuzumab-ozogamicin",
+      "name": "Gemtuzumab Ozogamicin",
+      "keywords": [
+        "gemtuzumab ozogamicin",
+        "mylotarg"
+      ],
+      "url": "/drugs/gemtuzumab-ozogamicin/"
+    },
+    {
+      "slug": "gilteritinib-fumarate",
+      "name": "Gilteritinib Fumarate",
+      "keywords": [
+        "gilteritinib fumarate",
+        "xospata"
+      ],
+      "url": "/drugs/gilteritinib-fumarate/"
+    },
+    {
+      "slug": "gimeracil",
+      "name": "Gimeracil",
+      "keywords": [
+        "gimeracil"
+      ],
+      "url": "/drugs/gimeracil/"
+    },
+    {
+      "slug": "givosiran",
+      "name": "Givosiran",
+      "keywords": [
+        "givosiran",
+        "givlaari"
+      ],
+      "url": "/drugs/givosiran/"
+    },
+    {
+      "slug": "glasdegib-maleate",
+      "name": "Glasdegib Maleate",
+      "keywords": [
+        "glasdegib maleate",
+        "daurismo"
+      ],
+      "url": "/drugs/glasdegib-maleate/"
+    },
+    {
+      "slug": "glecaprevir",
+      "name": "Glecaprevir",
+      "keywords": [
+        "glecaprevir"
+      ],
+      "url": "/drugs/glecaprevir/"
+    },
+    {
+      "slug": "glimepiride",
+      "name": "Glimepiride",
+      "keywords": [
+        "glimepiride"
+      ],
+      "url": "/drugs/glimepiride/"
+    },
+    {
+      "slug": "glucagon",
+      "name": "Glucagon",
+      "keywords": [
+        "glucagon",
+        "baqsimi"
+      ],
+      "url": "/drugs/glucagon/"
+    },
+    {
+      "slug": "glucarpidase",
+      "name": "Glucarpidase",
+      "keywords": [
+        "glucarpidase",
+        "voraxaze"
+      ],
+      "url": "/drugs/glucarpidase/"
+    },
+    {
+      "slug": "glycerol-phenylbutyrate",
+      "name": "Glycerol Phenylbutyrate",
+      "keywords": [
+        "glycerol phenylbutyrate",
+        "ravicti"
+      ],
+      "url": "/drugs/glycerol-phenylbutyrate/"
+    },
+    {
+      "slug": "glycopyrronium",
+      "name": "Glycopyrronium",
+      "keywords": [
+        "glycopyrronium"
+      ],
+      "url": "/drugs/glycopyrronium/"
+    },
+    {
+      "slug": "golimumab",
+      "name": "Golimumab",
+      "keywords": [
+        "golimumab",
+        "gobivaz"
+      ],
+      "url": "/drugs/golimumab/"
+    },
+    {
+      "slug": "granisetron",
+      "name": "Granisetron",
+      "keywords": [
+        "granisetron",
+        "sancuso"
+      ],
+      "url": "/drugs/granisetron/"
+    },
+    {
+      "slug": "grazoprevir",
+      "name": "Grazoprevir",
+      "keywords": [
+        "grazoprevir"
+      ],
+      "url": "/drugs/grazoprevir/"
+    },
+    {
+      "slug": "guanfacine-hydrochloride",
+      "name": "Guanfacine Hydrochloride",
+      "keywords": [
+        "guanfacine hydrochloride",
+        "paxneury"
+      ],
+      "url": "/drugs/guanfacine-hydrochloride/"
+    },
+    {
+      "slug": "guselkumab",
+      "name": "Guselkumab",
+      "keywords": [
+        "guselkumab",
+        "tremfya"
+      ],
+      "url": "/drugs/guselkumab/"
+    },
+    {
+      "slug": "human-thrombin",
+      "name": "Human Thrombin",
+      "keywords": [
+        "human thrombin"
+      ],
+      "url": "/drugs/human-thrombin/"
+    },
+    {
+      "slug": "hydrochlorothiazide",
+      "name": "Hydrochlorothiazide",
+      "keywords": [
+        "hydrochlorothiazide",
+        "tolucombi"
+      ],
+      "url": "/drugs/hydrochlorothiazide/"
+    },
+    {
+      "slug": "hydrocortisone",
+      "name": "Hydrocortisone",
+      "keywords": [
+        "hydrocortisone",
+        "plenadren",
+        "alkindi",
+        "efmody"
+      ],
+      "url": "/drugs/hydrocortisone/"
+    },
+    {
+      "slug": "hydroxocobalamin",
+      "name": "Hydroxocobalamin",
+      "keywords": [
+        "hydroxocobalamin",
+        "cyanokit"
+      ],
+      "url": "/drugs/hydroxocobalamin/"
+    },
+    {
+      "slug": "ibrutinib",
+      "name": "Ibrutinib",
+      "keywords": [
+        "ibrutinib",
+        "imbruvica"
+      ],
+      "url": "/drugs/ibrutinib/"
+    },
+    {
+      "slug": "ibuprofen",
+      "name": "Ibuprofen",
+      "keywords": [
+        "ibuprofen",
+        "pedea",
+        "advil",
+        "motrin",
+        "nurofen",
+        "brufen"
+      ],
+      "url": "/drugs/ibuprofen/"
+    },
+    {
+      "slug": "icatibant-acetate",
+      "name": "Icatibant Acetate",
+      "keywords": [
+        "icatibant acetate",
+        "icatibant accord"
+      ],
+      "url": "/drugs/icatibant-acetate/"
+    },
+    {
+      "slug": "icosapent-ethyl",
+      "name": "Icosapent Ethyl",
+      "keywords": [
+        "icosapent ethyl",
+        "vazkepa"
+      ],
+      "url": "/drugs/icosapent-ethyl/"
+    },
+    {
+      "slug": "idarucizumab",
+      "name": "Idarucizumab",
+      "keywords": [
+        "idarucizumab",
+        "praxbind"
+      ],
+      "url": "/drugs/idarucizumab/"
+    },
+    {
+      "slug": "idebenone",
+      "name": "Idebenone",
+      "keywords": [
+        "idebenone",
+        "raxone"
+      ],
+      "url": "/drugs/idebenone/"
+    },
+    {
+      "slug": "idelalisib",
+      "name": "Idelalisib",
+      "keywords": [
+        "idelalisib",
+        "zydelig"
+      ],
+      "url": "/drugs/idelalisib/"
+    },
+    {
+      "slug": "idursulfase",
+      "name": "Idursulfase",
+      "keywords": [
+        "idursulfase",
+        "elaprase"
+      ],
+      "url": "/drugs/idursulfase/"
+    },
+    {
+      "slug": "iloprost",
+      "name": "Iloprost",
+      "keywords": [
+        "iloprost",
+        "ventavis"
+      ],
+      "url": "/drugs/iloprost/"
+    },
+    {
+      "slug": "imatinib",
+      "name": "Imatinib",
+      "keywords": [
+        "imatinib",
+        "glivec",
+        "imatinib accord",
+        "imatinib teva"
+      ],
+      "url": "/drugs/imatinib/"
+    },
+    {
+      "slug": "imiglucerase",
+      "name": "Imiglucerase",
+      "keywords": [
+        "imiglucerase",
+        "cerezyme"
+      ],
+      "url": "/drugs/imiglucerase/"
+    },
+    {
+      "slug": "imipenem",
+      "name": "Imipenem",
+      "keywords": [
+        "imipenem"
+      ],
+      "url": "/drugs/imipenem/"
+    },
+    {
+      "slug": "imiquimod",
+      "name": "Imiquimod",
+      "keywords": [
+        "imiquimod",
+        "zyclara",
+        "aldara"
+      ],
+      "url": "/drugs/imiquimod/"
+    },
+    {
+      "slug": "imlifidase",
+      "name": "Imlifidase",
+      "keywords": [
+        "imlifidase",
+        "idefirix"
+      ],
+      "url": "/drugs/imlifidase/"
+    },
+    {
+      "slug": "inclisiran",
+      "name": "Inclisiran",
+      "keywords": [
+        "inclisiran",
+        "leqvio"
+      ],
+      "url": "/drugs/inclisiran/"
+    },
+    {
+      "slug": "indacaterol-maleate",
+      "name": "Indacaterol Maleate",
+      "keywords": [
+        "indacaterol maleate",
+        "onbrez breezhaler"
+      ],
+      "url": "/drugs/indacaterol-maleate/"
+    },
+    {
+      "slug": "inebilizumab",
+      "name": "Inebilizumab",
+      "keywords": [
+        "inebilizumab",
+        "uplizna"
+      ],
+      "url": "/drugs/inebilizumab/"
+    },
+    {
+      "slug": "infliximab",
+      "name": "Infliximab",
+      "keywords": [
+        "infliximab",
+        "zessly",
+        "flixabi",
+        "remicade",
+        "remsima",
+        "inflectra"
+      ],
+      "url": "/drugs/infliximab/"
+    },
+    {
+      "slug": "inotersen-sodium",
+      "name": "Inotersen Sodium",
+      "keywords": [
+        "inotersen sodium",
+        "tegsedi"
+      ],
+      "url": "/drugs/inotersen-sodium/"
+    },
+    {
+      "slug": "inotuzumab-ozogamicin",
+      "name": "Inotuzumab Ozogamicin",
+      "keywords": [
+        "inotuzumab ozogamicin",
+        "besponsa"
+      ],
+      "url": "/drugs/inotuzumab-ozogamicin/"
+    },
+    {
+      "slug": "insulin-aspart",
+      "name": "Insulin Aspart",
+      "keywords": [
+        "insulin aspart",
+        "fiasp"
+      ],
+      "url": "/drugs/insulin-aspart/"
+    },
+    {
+      "slug": "insulin-degludec",
+      "name": "Insulin Degludec",
+      "keywords": [
+        "insulin degludec",
+        "tresiba"
+      ],
+      "url": "/drugs/insulin-degludec/"
+    },
+    {
+      "slug": "insulin-detemir",
+      "name": "Insulin Detemir",
+      "keywords": [
+        "insulin detemir",
+        "levemir"
+      ],
+      "url": "/drugs/insulin-detemir/"
+    },
+    {
+      "slug": "insulin-glargine",
+      "name": "Insulin Glargine",
+      "keywords": [
+        "insulin glargine",
+        "lantus"
+      ],
+      "url": "/drugs/insulin-glargine/"
+    },
+    {
+      "slug": "insulin-glulisine",
+      "name": "Insulin Glulisine",
+      "keywords": [
+        "insulin glulisine",
+        "apidra"
+      ],
+      "url": "/drugs/insulin-glulisine/"
+    },
+    {
+      "slug": "insulin-human",
+      "name": "Insulin Human",
+      "keywords": [
+        "insulin human",
+        "protaphane"
+      ],
+      "url": "/drugs/insulin-human/"
+    },
+    {
+      "slug": "insulin-lispro",
+      "name": "Insulin Lispro",
+      "keywords": [
+        "insulin lispro",
+        "lyumjev (previously liumjev)",
+        "humalog"
+      ],
+      "url": "/drugs/insulin-lispro/"
+    },
+    {
+      "slug": "interferon-beta-1a",
+      "name": "Interferon Beta-1A",
+      "keywords": [
+        "interferon beta-1a",
+        "rebif"
+      ],
+      "url": "/drugs/interferon-beta-1a/"
+    },
+    {
+      "slug": "interferon-beta-1b",
+      "name": "Interferon Beta-1B",
+      "keywords": [
+        "interferon beta-1b",
+        "betaferon"
+      ],
+      "url": "/drugs/interferon-beta-1b/"
+    },
+    {
+      "slug": "ipilimumab",
+      "name": "Ipilimumab",
+      "keywords": [
+        "ipilimumab",
+        "yervoy"
+      ],
+      "url": "/drugs/ipilimumab/"
+    },
+    {
+      "slug": "irbesartan",
+      "name": "Irbesartan",
+      "keywords": [
+        "irbesartan",
+        "irbesartan teva"
+      ],
+      "url": "/drugs/irbesartan/"
+    },
+    {
+      "slug": "isatuximab",
+      "name": "Isatuximab",
+      "keywords": [
+        "isatuximab",
+        "sarclisa"
+      ],
+      "url": "/drugs/isatuximab/"
+    },
+    {
+      "slug": "isavuconazole",
+      "name": "Isavuconazole",
+      "keywords": [
+        "isavuconazole",
+        "cresemba"
+      ],
+      "url": "/drugs/isavuconazole/"
+    },
+    {
+      "slug": "ivabradine-hydrochloride",
+      "name": "Ivabradine Hydrochloride",
+      "keywords": [
+        "ivabradine hydrochloride",
+        "ivabradine accord"
+      ],
+      "url": "/drugs/ivabradine-hydrochloride/"
+    },
+    {
+      "slug": "ivacaftor",
+      "name": "Ivacaftor",
+      "keywords": [
+        "ivacaftor",
+        "kalydeco"
+      ],
+      "url": "/drugs/ivacaftor/"
+    },
+    {
+      "slug": "ivosidenib",
+      "name": "Ivosidenib",
+      "keywords": [
+        "ivosidenib",
+        "tibsovo"
+      ],
+      "url": "/drugs/ivosidenib/"
+    },
+    {
+      "slug": "ixazomib-citrate",
+      "name": "Ixazomib Citrate",
+      "keywords": [
+        "ixazomib citrate",
+        "ninlaro"
+      ],
+      "url": "/drugs/ixazomib-citrate/"
+    },
+    {
+      "slug": "ixekizumab",
+      "name": "Ixekizumab",
+      "keywords": [
+        "ixekizumab",
+        "taltz"
+      ],
+      "url": "/drugs/ixekizumab/"
+    },
+    {
+      "slug": "ketoconazole",
+      "name": "Ketoconazole",
+      "keywords": [
+        "ketoconazole",
+        "ketoconazole esteve (previously ketoconazole hra)"
+      ],
+      "url": "/drugs/ketoconazole/"
+    },
+    {
+      "slug": "ketorolac",
+      "name": "Ketorolac",
+      "keywords": [
+        "ketorolac"
+      ],
+      "url": "/drugs/ketorolac/"
+    },
+    {
+      "slug": "l-lysine",
+      "name": "L-Lysine",
+      "keywords": [
+        "l-lysine"
+      ],
+      "url": "/drugs/l-lysine/"
+    },
+    {
+      "slug": "lacosamide",
+      "name": "Lacosamide",
+      "keywords": [
+        "lacosamide",
+        "lacosamide ucb"
+      ],
+      "url": "/drugs/lacosamide/"
+    },
+    {
+      "slug": "lamivudine",
+      "name": "Lamivudine",
+      "keywords": [
+        "lamivudine",
+        "epivir"
+      ],
+      "url": "/drugs/lamivudine/"
+    },
+    {
+      "slug": "lanadelumab",
+      "name": "Lanadelumab",
+      "keywords": [
+        "lanadelumab",
+        "takhzyro"
+      ],
+      "url": "/drugs/lanadelumab/"
+    },
+    {
+      "slug": "lapatinib",
+      "name": "Lapatinib",
+      "keywords": [
+        "lapatinib",
+        "tyverb"
+      ],
+      "url": "/drugs/lapatinib/"
+    },
+    {
+      "slug": "laronidase",
+      "name": "Laronidase",
+      "keywords": [
+        "laronidase",
+        "aldurazyme"
+      ],
+      "url": "/drugs/laronidase/"
+    },
+    {
+      "slug": "larotrectinib-sulfate",
+      "name": "Larotrectinib Sulfate",
+      "keywords": [
+        "larotrectinib sulfate",
+        "vitrakvi"
+      ],
+      "url": "/drugs/larotrectinib-sulfate/"
+    },
+    {
+      "slug": "lasmiditan-succinate",
+      "name": "Lasmiditan Succinate",
+      "keywords": [
+        "lasmiditan succinate",
+        "rayvow"
+      ],
+      "url": "/drugs/lasmiditan-succinate/"
+    },
+    {
+      "slug": "latanoprost",
+      "name": "Latanoprost",
+      "keywords": [
+        "latanoprost",
+        "catiolanze"
+      ],
+      "url": "/drugs/latanoprost/"
+    },
+    {
+      "slug": "lebrikizumab",
+      "name": "Lebrikizumab",
+      "keywords": [
+        "lebrikizumab",
+        "ebglyss"
+      ],
+      "url": "/drugs/lebrikizumab/"
+    },
+    {
+      "slug": "lecanemab",
+      "name": "Lecanemab",
+      "keywords": [
+        "lecanemab",
+        "leqembi"
+      ],
+      "url": "/drugs/lecanemab/"
+    },
+    {
+      "slug": "ledipasvir",
+      "name": "Ledipasvir",
+      "keywords": [
+        "ledipasvir"
+      ],
+      "url": "/drugs/ledipasvir/"
+    },
+    {
+      "slug": "lefamulin-acetate",
+      "name": "Lefamulin Acetate",
+      "keywords": [
+        "lefamulin acetate",
+        "xenleta"
+      ],
+      "url": "/drugs/lefamulin-acetate/"
+    },
+    {
+      "slug": "leflunomide",
+      "name": "Leflunomide",
+      "keywords": [
+        "leflunomide",
+        "leflunomide medac",
+        "arava"
+      ],
+      "url": "/drugs/leflunomide/"
+    },
+    {
+      "slug": "lenalidomide",
+      "name": "Lenalidomide",
+      "keywords": [
+        "lenalidomide",
+        "revlimid",
+        "lenalidomide mylan"
+      ],
+      "url": "/drugs/lenalidomide/"
+    },
+    {
+      "slug": "letermovir",
+      "name": "Letermovir",
+      "keywords": [
+        "letermovir",
+        "prevymis"
+      ],
+      "url": "/drugs/letermovir/"
+    },
+    {
+      "slug": "levetiracetam",
+      "name": "Levetiracetam",
+      "keywords": [
+        "levetiracetam",
+        "keppra"
+      ],
+      "url": "/drugs/levetiracetam/"
+    },
+    {
+      "slug": "levodopa",
+      "name": "Levodopa",
+      "keywords": [
+        "levodopa",
+        "inbrija"
+      ],
+      "url": "/drugs/levodopa/"
+    },
+    {
+      "slug": "levofloxacin",
+      "name": "Levofloxacin",
+      "keywords": [
+        "levofloxacin",
+        "quinsair"
+      ],
+      "url": "/drugs/levofloxacin/"
+    },
+    {
+      "slug": "lidocaine",
+      "name": "Lidocaine",
+      "keywords": [
+        "lidocaine",
+        "fortacin"
+      ],
+      "url": "/drugs/lidocaine/"
+    },
+    {
+      "slug": "linaclotide",
+      "name": "Linaclotide",
+      "keywords": [
+        "linaclotide",
+        "constella"
+      ],
+      "url": "/drugs/linaclotide/"
+    },
+    {
+      "slug": "linagliptin",
+      "name": "Linagliptin",
+      "keywords": [
+        "linagliptin",
+        "jentadueto",
+        "trajenta"
+      ],
+      "url": "/drugs/linagliptin/"
+    },
+    {
+      "slug": "lipegfilgrastim",
+      "name": "Lipegfilgrastim",
+      "keywords": [
+        "lipegfilgrastim",
+        "lonquex"
+      ],
+      "url": "/drugs/lipegfilgrastim/"
+    },
+    {
+      "slug": "liraglutide",
+      "name": "Liraglutide",
+      "keywords": [
+        "liraglutide",
+        "saxenda",
+        "xultophy"
+      ],
+      "url": "/drugs/liraglutide/"
+    },
+    {
+      "slug": "lixisenatide",
+      "name": "Lixisenatide",
+      "keywords": [
+        "lixisenatide"
+      ],
+      "url": "/drugs/lixisenatide/"
+    },
+    {
+      "slug": "lomitapide",
+      "name": "Lomitapide",
+      "keywords": [
+        "lomitapide",
+        "lojuxta"
+      ],
+      "url": "/drugs/lomitapide/"
+    },
+    {
+      "slug": "lonafarnib",
+      "name": "Lonafarnib",
+      "keywords": [
+        "lonafarnib",
+        "zokinvy"
+      ],
+      "url": "/drugs/lonafarnib/"
+    },
+    {
+      "slug": "lonoctocog-alfa",
+      "name": "Lonoctocog Alfa",
+      "keywords": [
+        "lonoctocog alfa",
+        "afstyla"
+      ],
+      "url": "/drugs/lonoctocog-alfa/"
+    },
+    {
+      "slug": "lopinavir",
+      "name": "Lopinavir",
+      "keywords": [
+        "lopinavir"
+      ],
+      "url": "/drugs/lopinavir/"
+    },
+    {
+      "slug": "lorlatinib",
+      "name": "Lorlatinib",
+      "keywords": [
+        "lorlatinib",
+        "lorviqua"
+      ],
+      "url": "/drugs/lorlatinib/"
+    },
+    {
+      "slug": "loxapine",
+      "name": "Loxapine",
+      "keywords": [
+        "loxapine",
+        "adasuve"
+      ],
+      "url": "/drugs/loxapine/"
+    },
+    {
+      "slug": "lumacaftor",
+      "name": "Lumacaftor",
+      "keywords": [
+        "lumacaftor"
+      ],
+      "url": "/drugs/lumacaftor/"
+    },
+    {
+      "slug": "lurasidone",
+      "name": "Lurasidone",
+      "keywords": [
+        "lurasidone",
+        "latuda"
+      ],
+      "url": "/drugs/lurasidone/"
+    },
+    {
+      "slug": "luspatercept",
+      "name": "Luspatercept",
+      "keywords": [
+        "luspatercept",
+        "reblozyl"
+      ],
+      "url": "/drugs/luspatercept/"
+    },
+    {
+      "slug": "lusutrombopag",
+      "name": "Lusutrombopag",
+      "keywords": [
+        "lusutrombopag",
+        "mulpleo (previously lusutrombopag shionogi)"
+      ],
+      "url": "/drugs/lusutrombopag/"
+    },
+    {
+      "slug": "lutropin-alfa",
+      "name": "Lutropin Alfa",
+      "keywords": [
+        "lutropin alfa",
+        "luveris"
+      ],
+      "url": "/drugs/lutropin-alfa/"
+    },
+    {
+      "slug": "macimorelin-acetate",
+      "name": "Macimorelin Acetate",
+      "keywords": [
+        "macimorelin acetate",
+        "ghryvelin (previously macimorelin aeterna zentaris)"
+      ],
+      "url": "/drugs/macimorelin-acetate/"
+    },
+    {
+      "slug": "macitentan",
+      "name": "Macitentan",
+      "keywords": [
+        "macitentan",
+        "opsumit"
+      ],
+      "url": "/drugs/macitentan/"
+    },
+    {
+      "slug": "mannitol",
+      "name": "Mannitol",
+      "keywords": [
+        "mannitol",
+        "bronchitol"
+      ],
+      "url": "/drugs/mannitol/"
+    },
+    {
+      "slug": "maraviroc",
+      "name": "Maraviroc",
+      "keywords": [
+        "maraviroc",
+        "celsentri"
+      ],
+      "url": "/drugs/maraviroc/"
+    },
+    {
+      "slug": "maribavir",
+      "name": "Maribavir",
+      "keywords": [
+        "maribavir",
+        "livtencity"
+      ],
+      "url": "/drugs/maribavir/"
+    },
+    {
+      "slug": "mecasermin",
+      "name": "Mecasermin",
+      "keywords": [
+        "mecasermin",
+        "increlex"
+      ],
+      "url": "/drugs/mecasermin/"
+    },
+    {
+      "slug": "melatonin",
+      "name": "Melatonin",
+      "keywords": [
+        "melatonin",
+        "melatonin neurim"
+      ],
+      "url": "/drugs/melatonin/"
+    },
+    {
+      "slug": "melphalan-hydrochloride",
+      "name": "Melphalan Hydrochloride",
+      "keywords": [
+        "melphalan hydrochloride",
+        "phelinun"
+      ],
+      "url": "/drugs/melphalan-hydrochloride/"
+    },
+    {
+      "slug": "memantine-hydrochloride",
+      "name": "Memantine Hydrochloride",
+      "keywords": [
+        "memantine hydrochloride",
+        "marixino (previously maruxa)"
+      ],
+      "url": "/drugs/memantine-hydrochloride/"
+    },
+    {
+      "slug": "mepolizumab",
+      "name": "Mepolizumab",
+      "keywords": [
+        "mepolizumab",
+        "nucala"
+      ],
+      "url": "/drugs/mepolizumab/"
+    },
+    {
+      "slug": "meropenem",
+      "name": "Meropenem",
+      "keywords": [
+        "meropenem"
+      ],
+      "url": "/drugs/meropenem/"
+    },
+    {
+      "slug": "metformin",
+      "name": "Metformin",
+      "keywords": [
+        "metformin",
+        "glucophage",
+        "glumetza",
+        "fortamet",
+        "riomet"
+      ],
+      "url": "/drugs/metformin/"
+    },
+    {
+      "slug": "methotrexate",
+      "name": "Methotrexate",
+      "keywords": [
+        "methotrexate",
+        "jylamvo",
+        "nordimet"
+      ],
+      "url": "/drugs/methotrexate/"
+    },
+    {
+      "slug": "methoxy-polyethylene-glycol-epoetin-beta",
+      "name": "Methoxy Polyethylene Glycol-Epoetin Beta",
+      "keywords": [
+        "methoxy polyethylene glycol-epoetin beta",
+        "mircera"
+      ],
+      "url": "/drugs/methoxy-polyethylene-glycol-epoetin-beta/"
+    },
+    {
+      "slug": "methylnaltrexone-bromide",
+      "name": "Methylnaltrexone Bromide",
+      "keywords": [
+        "methylnaltrexone bromide",
+        "relistor"
+      ],
+      "url": "/drugs/methylnaltrexone-bromide/"
+    },
+    {
+      "slug": "methylphenidate-hydrochloride",
+      "name": "Methylphenidate Hydrochloride",
+      "keywords": [
+        "methylphenidate hydrochloride",
+        "tuzulby"
+      ],
+      "url": "/drugs/methylphenidate-hydrochloride/"
+    },
+    {
+      "slug": "methylthioninium-chloride",
+      "name": "Methylthioninium Chloride",
+      "keywords": [
+        "methylthioninium chloride",
+        "lumeblue (previously methylthioninium chloride cosmo)"
+      ],
+      "url": "/drugs/methylthioninium-chloride/"
+    },
+    {
+      "slug": "metreleptin",
+      "name": "Metreleptin",
+      "keywords": [
+        "metreleptin",
+        "myalepta"
+      ],
+      "url": "/drugs/metreleptin/"
+    },
+    {
+      "slug": "mexiletine-hydrochloride",
+      "name": "Mexiletine Hydrochloride",
+      "keywords": [
+        "mexiletine hydrochloride",
+        "namuscla"
+      ],
+      "url": "/drugs/mexiletine-hydrochloride/"
+    },
+    {
+      "slug": "micafungin",
+      "name": "Micafungin",
+      "keywords": [
+        "micafungin",
+        "mycamine"
+      ],
+      "url": "/drugs/micafungin/"
+    },
+    {
+      "slug": "midazolam",
+      "name": "Midazolam",
+      "keywords": [
+        "midazolam",
+        "buccolam"
+      ],
+      "url": "/drugs/midazolam/"
+    },
+    {
+      "slug": "midostaurin",
+      "name": "Midostaurin",
+      "keywords": [
+        "midostaurin",
+        "rydapt"
+      ],
+      "url": "/drugs/midostaurin/"
+    },
+    {
+      "slug": "mifamurtide",
+      "name": "Mifamurtide",
+      "keywords": [
+        "mifamurtide",
+        "mepact"
+      ],
+      "url": "/drugs/mifamurtide/"
+    },
+    {
+      "slug": "migalastat-hydrochloride",
+      "name": "Migalastat Hydrochloride",
+      "keywords": [
+        "migalastat hydrochloride",
+        "galafold"
+      ],
+      "url": "/drugs/migalastat-hydrochloride/"
+    },
+    {
+      "slug": "miglustat",
+      "name": "Miglustat",
+      "keywords": [
+        "miglustat",
+        "opfolda"
+      ],
+      "url": "/drugs/miglustat/"
+    },
+    {
+      "slug": "mirabegron",
+      "name": "Mirabegron",
+      "keywords": [
+        "mirabegron",
+        "betmiga"
+      ],
+      "url": "/drugs/mirabegron/"
+    },
+    {
+      "slug": "mirvetuximab-soravtansine",
+      "name": "Mirvetuximab Soravtansine",
+      "keywords": [
+        "mirvetuximab soravtansine",
+        "elahere"
+      ],
+      "url": "/drugs/mirvetuximab-soravtansine/"
+    },
+    {
+      "slug": "mitotane",
+      "name": "Mitotane",
+      "keywords": [
+        "mitotane",
+        "lysodren"
+      ],
+      "url": "/drugs/mitotane/"
+    },
+    {
+      "slug": "mogamulizumab",
+      "name": "Mogamulizumab",
+      "keywords": [
+        "mogamulizumab",
+        "poteligeo"
+      ],
+      "url": "/drugs/mogamulizumab/"
+    },
+    {
+      "slug": "mometasone",
+      "name": "Mometasone",
+      "keywords": [
+        "mometasone"
+      ],
+      "url": "/drugs/mometasone/"
+    },
+    {
+      "slug": "mometasone-furoate",
+      "name": "Mometasone Furoate",
+      "keywords": [
+        "mometasone furoate",
+        "zimbus breezhaler",
+        "atectura breezhaler"
+      ],
+      "url": "/drugs/mometasone-furoate/"
+    },
+    {
+      "slug": "moroctocog-alfa",
+      "name": "Moroctocog Alfa",
+      "keywords": [
+        "moroctocog alfa",
+        "refacto af"
+      ],
+      "url": "/drugs/moroctocog-alfa/"
+    },
+    {
+      "slug": "mycophenolate-mofetil",
+      "name": "Mycophenolate Mofetil",
+      "keywords": [
+        "mycophenolate mofetil",
+        "myclausen"
+      ],
+      "url": "/drugs/mycophenolate-mofetil/"
+    },
+    {
+      "slug": "naloxone",
+      "name": "Naloxone",
+      "keywords": [
+        "naloxone"
+      ],
+      "url": "/drugs/naloxone/"
+    },
+    {
+      "slug": "naltrexone",
+      "name": "Naltrexone",
+      "keywords": [
+        "naltrexone"
+      ],
+      "url": "/drugs/naltrexone/"
+    },
+    {
+      "slug": "natalizumab",
+      "name": "Natalizumab",
+      "keywords": [
+        "natalizumab",
+        "tyruko"
+      ],
+      "url": "/drugs/natalizumab/"
+    },
+    {
+      "slug": "nelarabine",
+      "name": "Nelarabine",
+      "keywords": [
+        "nelarabine",
+        "atriance"
+      ],
+      "url": "/drugs/nelarabine/"
+    },
+    {
+      "slug": "nemolizumab",
+      "name": "Nemolizumab",
+      "keywords": [
+        "nemolizumab",
+        "nemluvio"
+      ],
+      "url": "/drugs/nemolizumab/"
+    },
+    {
+      "slug": "nepafenac",
+      "name": "Nepafenac",
+      "keywords": [
+        "nepafenac",
+        "nevanac"
+      ],
+      "url": "/drugs/nepafenac/"
+    },
+    {
+      "slug": "neratinib",
+      "name": "Neratinib",
+      "keywords": [
+        "neratinib",
+        "nerlynx"
+      ],
+      "url": "/drugs/neratinib/"
+    },
+    {
+      "slug": "netarsudil",
+      "name": "Netarsudil",
+      "keywords": [
+        "netarsudil",
+        "rhokiinsa"
+      ],
+      "url": "/drugs/netarsudil/"
+    },
+    {
+      "slug": "netupitant",
+      "name": "Netupitant",
+      "keywords": [
+        "netupitant"
+      ],
+      "url": "/drugs/netupitant/"
+    },
+    {
+      "slug": "nevirapine",
+      "name": "Nevirapine",
+      "keywords": [
+        "nevirapine",
+        "viramune"
+      ],
+      "url": "/drugs/nevirapine/"
+    },
+    {
+      "slug": "nilotinib",
+      "name": "Nilotinib",
+      "keywords": [
+        "nilotinib",
+        "nilotinib accord"
+      ],
+      "url": "/drugs/nilotinib/"
+    },
+    {
+      "slug": "nintedanib",
+      "name": "Nintedanib",
+      "keywords": [
+        "nintedanib",
+        "vargatef",
+        "nintedanib accord",
+        "ofev"
+      ],
+      "url": "/drugs/nintedanib/"
+    },
+    {
+      "slug": "niraparib-tosilate-monohydrate",
+      "name": "Niraparib (Tosilate Monohydrate)",
+      "keywords": [
+        "niraparib (tosilate monohydrate)",
+        "zejula"
+      ],
+      "url": "/drugs/niraparib-tosilate-monohydrate/"
+    },
+    {
+      "slug": "nitisinone",
+      "name": "Nitisinone",
+      "keywords": [
+        "nitisinone",
+        "nityr"
+      ],
+      "url": "/drugs/nitisinone/"
+    },
+    {
+      "slug": "nitric-oxide",
+      "name": "Nitric Oxide",
+      "keywords": [
+        "nitric oxide",
+        "inomax"
+      ],
+      "url": "/drugs/nitric-oxide/"
+    },
+    {
+      "slug": "nivolumab",
+      "name": "Nivolumab",
+      "keywords": [
+        "nivolumab",
+        "opdivo",
+        "opdualag"
+      ],
+      "url": "/drugs/nivolumab/"
+    },
+    {
+      "slug": "nomegestrol-acetate",
+      "name": "Nomegestrol Acetate",
+      "keywords": [
+        "nomegestrol acetate"
+      ],
+      "url": "/drugs/nomegestrol-acetate/"
+    },
+    {
+      "slug": "nonacog-beta-pegol",
+      "name": "Nonacog Beta Pegol",
+      "keywords": [
+        "nonacog beta pegol",
+        "refixia"
+      ],
+      "url": "/drugs/nonacog-beta-pegol/"
+    },
+    {
+      "slug": "norelgestromin",
+      "name": "Norelgestromin",
+      "keywords": [
+        "norelgestromin"
+      ],
+      "url": "/drugs/norelgestromin/"
+    },
+    {
+      "slug": "norethisterone",
+      "name": "Norethisterone",
+      "keywords": [
+        "norethisterone"
+      ],
+      "url": "/drugs/norethisterone/"
+    },
+    {
+      "slug": "nusinersen-sodium",
+      "name": "Nusinersen Sodium",
+      "keywords": [
+        "nusinersen sodium",
+        "spinraza"
+      ],
+      "url": "/drugs/nusinersen-sodium/"
+    },
+    {
+      "slug": "obinutuzumab",
+      "name": "Obinutuzumab",
+      "keywords": [
+        "obinutuzumab",
+        "gazyvaro"
+      ],
+      "url": "/drugs/obinutuzumab/"
+    },
+    {
+      "slug": "ocrelizumab",
+      "name": "Ocrelizumab",
+      "keywords": [
+        "ocrelizumab",
+        "ocrevus"
+      ],
+      "url": "/drugs/ocrelizumab/"
+    },
+    {
+      "slug": "octreotide-hydrochloride",
+      "name": "Octreotide Hydrochloride",
+      "keywords": [
+        "octreotide hydrochloride",
+        "oczyesa"
+      ],
+      "url": "/drugs/octreotide-hydrochloride/"
+    },
+    {
+      "slug": "ofatumumab",
+      "name": "Ofatumumab",
+      "keywords": [
+        "ofatumumab",
+        "kesimpta"
+      ],
+      "url": "/drugs/ofatumumab/"
+    },
+    {
+      "slug": "olanzapine",
+      "name": "Olanzapine",
+      "keywords": [
+        "olanzapine",
+        "olazax disperzi"
+      ],
+      "url": "/drugs/olanzapine/"
+    },
+    {
+      "slug": "olaparib",
+      "name": "Olaparib",
+      "keywords": [
+        "olaparib",
+        "lynparza"
+      ],
+      "url": "/drugs/olaparib/"
+    },
+    {
+      "slug": "olopatadine-hydrochloride",
+      "name": "Olopatadine Hydrochloride",
+      "keywords": [
+        "olopatadine hydrochloride",
+        "opatanol"
+      ],
+      "url": "/drugs/olopatadine-hydrochloride/"
+    },
+    {
+      "slug": "omalizumab",
+      "name": "Omalizumab",
+      "keywords": [
+        "omalizumab",
+        "xolair"
+      ],
+      "url": "/drugs/omalizumab/"
+    },
+    {
+      "slug": "onasemnogene-abeparvovec",
+      "name": "Onasemnogene Abeparvovec",
+      "keywords": [
+        "onasemnogene abeparvovec",
+        "zolgensma"
+      ],
+      "url": "/drugs/onasemnogene-abeparvovec/"
+    },
+    {
+      "slug": "opicapone",
+      "name": "Opicapone",
+      "keywords": [
+        "opicapone",
+        "ongentys"
+      ],
+      "url": "/drugs/opicapone/"
+    },
+    {
+      "slug": "oritavancin-diphosphate",
+      "name": "Oritavancin (Diphosphate)",
+      "keywords": [
+        "oritavancin (diphosphate)",
+        "tenkasi (previously orbactiv)"
+      ],
+      "url": "/drugs/oritavancin-diphosphate/"
+    },
+    {
+      "slug": "orlistat",
+      "name": "Orlistat",
+      "keywords": [
+        "orlistat",
+        "xenical"
+      ],
+      "url": "/drugs/orlistat/"
+    },
+    {
+      "slug": "oseltamivir",
+      "name": "Oseltamivir",
+      "keywords": [
+        "oseltamivir",
+        "tamiflu"
+      ],
+      "url": "/drugs/oseltamivir/"
+    },
+    {
+      "slug": "osilodrostat-phosphate",
+      "name": "Osilodrostat Phosphate",
+      "keywords": [
+        "osilodrostat phosphate",
+        "isturisa"
+      ],
+      "url": "/drugs/osilodrostat-phosphate/"
+    },
+    {
+      "slug": "ospemifene",
+      "name": "Ospemifene",
+      "keywords": [
+        "ospemifene",
+        "senshio"
+      ],
+      "url": "/drugs/ospemifene/"
+    },
+    {
+      "slug": "oteracil",
+      "name": "Oteracil",
+      "keywords": [
+        "oteracil"
+      ],
+      "url": "/drugs/oteracil/"
+    },
+    {
+      "slug": "oxybutynin",
+      "name": "Oxybutynin",
+      "keywords": [
+        "oxybutynin",
+        "kentera (previously oxybutynin nicobrand)"
+      ],
+      "url": "/drugs/oxybutynin/"
+    },
+    {
+      "slug": "ozanimod-hydrochloride",
+      "name": "Ozanimod Hydrochloride",
+      "keywords": [
+        "ozanimod hydrochloride",
+        "zeposia"
+      ],
+      "url": "/drugs/ozanimod-hydrochloride/"
+    },
+    {
+      "slug": "paclitaxel",
+      "name": "Paclitaxel",
+      "keywords": [
+        "paclitaxel",
+        "pazenir",
+        "naveruclif",
+        "apexelsin",
+        "abraxane"
+      ],
+      "url": "/drugs/paclitaxel/"
+    },
+    {
+      "slug": "palbociclib",
+      "name": "Palbociclib",
+      "keywords": [
+        "palbociclib",
+        "ibrance"
+      ],
+      "url": "/drugs/palbociclib/"
+    },
+    {
+      "slug": "paliperidone",
+      "name": "Paliperidone",
+      "keywords": [
+        "paliperidone",
+        "invega"
+      ],
+      "url": "/drugs/paliperidone/"
+    },
+    {
+      "slug": "palivizumab",
+      "name": "Palivizumab",
+      "keywords": [
+        "palivizumab",
+        "synagis"
+      ],
+      "url": "/drugs/palivizumab/"
+    },
+    {
+      "slug": "palonosetron-hydrochloride",
+      "name": "Palonosetron Hydrochloride",
+      "keywords": [
+        "palonosetron hydrochloride",
+        "aloxi"
+      ],
+      "url": "/drugs/palonosetron-hydrochloride/"
+    },
+    {
+      "slug": "panitumumab",
+      "name": "Panitumumab",
+      "keywords": [
+        "panitumumab",
+        "vectibix"
+      ],
+      "url": "/drugs/panitumumab/"
+    },
+    {
+      "slug": "pantoprazole",
+      "name": "Pantoprazole",
+      "keywords": [
+        "pantoprazole",
+        "somac control"
+      ],
+      "url": "/drugs/pantoprazole/"
+    },
+    {
+      "slug": "parathyroid-hormone",
+      "name": "Parathyroid Hormone",
+      "keywords": [
+        "parathyroid hormone",
+        "natpar"
+      ],
+      "url": "/drugs/parathyroid-hormone/"
+    },
+    {
+      "slug": "parecoxib-sodium",
+      "name": "Parecoxib Sodium",
+      "keywords": [
+        "parecoxib sodium",
+        "dynastat"
+      ],
+      "url": "/drugs/parecoxib-sodium/"
+    },
+    {
+      "slug": "pasireotide",
+      "name": "Pasireotide",
+      "keywords": [
+        "pasireotide",
+        "signifor"
+      ],
+      "url": "/drugs/pasireotide/"
+    },
+    {
+      "slug": "patisiran-sodium",
+      "name": "Patisiran Sodium",
+      "keywords": [
+        "patisiran sodium",
+        "onpattro"
+      ],
+      "url": "/drugs/patisiran-sodium/"
+    },
+    {
+      "slug": "pazopanib",
+      "name": "Pazopanib",
+      "keywords": [
+        "pazopanib",
+        "votrient"
+      ],
+      "url": "/drugs/pazopanib/"
+    },
+    {
+      "slug": "pegaspargase",
+      "name": "Pegaspargase",
+      "keywords": [
+        "pegaspargase",
+        "oncaspar"
+      ],
+      "url": "/drugs/pegaspargase/"
+    },
+    {
+      "slug": "pegfilgrastim",
+      "name": "Pegfilgrastim",
+      "keywords": [
+        "pegfilgrastim",
+        "stimufend"
+      ],
+      "url": "/drugs/pegfilgrastim/"
+    },
+    {
+      "slug": "peginterferon-alfa-2a",
+      "name": "Peginterferon Alfa-2A",
+      "keywords": [
+        "peginterferon alfa-2a",
+        "pegasys"
+      ],
+      "url": "/drugs/peginterferon-alfa-2a/"
+    },
+    {
+      "slug": "peginterferon-beta-1a",
+      "name": "Peginterferon Beta-1A",
+      "keywords": [
+        "peginterferon beta-1a",
+        "plegridy"
+      ],
+      "url": "/drugs/peginterferon-beta-1a/"
+    },
+    {
+      "slug": "pegvaliase",
+      "name": "Pegvaliase",
+      "keywords": [
+        "pegvaliase",
+        "palynziq"
+      ],
+      "url": "/drugs/pegvaliase/"
+    },
+    {
+      "slug": "pegvisomant",
+      "name": "Pegvisomant",
+      "keywords": [
+        "pegvisomant",
+        "somavert"
+      ],
+      "url": "/drugs/pegvisomant/"
+    },
+    {
+      "slug": "pembrolizumab",
+      "name": "Pembrolizumab",
+      "keywords": [
+        "pembrolizumab",
+        "keytruda"
+      ],
+      "url": "/drugs/pembrolizumab/"
+    },
+    {
+      "slug": "pemetrexed",
+      "name": "Pemetrexed",
+      "keywords": [
+        "pemetrexed",
+        "pemetrexed fresenius kabi"
+      ],
+      "url": "/drugs/pemetrexed/"
+    },
+    {
+      "slug": "pemigatinib",
+      "name": "Pemigatinib",
+      "keywords": [
+        "pemigatinib",
+        "pemazyre"
+      ],
+      "url": "/drugs/pemigatinib/"
+    },
+    {
+      "slug": "pentosan-polysulfate-sodium",
+      "name": "Pentosan Polysulfate Sodium",
+      "keywords": [
+        "pentosan polysulfate sodium",
+        "elmiron"
+      ],
+      "url": "/drugs/pentosan-polysulfate-sodium/"
+    },
+    {
+      "slug": "perampanel",
+      "name": "Perampanel",
+      "keywords": [
+        "perampanel",
+        "fycompa"
+      ],
+      "url": "/drugs/perampanel/"
+    },
+    {
+      "slug": "perflutren",
+      "name": "Perflutren",
+      "keywords": [
+        "perflutren",
+        "optison"
+      ],
+      "url": "/drugs/perflutren/"
+    },
+    {
+      "slug": "pertuzumab",
+      "name": "Pertuzumab",
+      "keywords": [
+        "pertuzumab",
+        "perjeta"
+      ],
+      "url": "/drugs/pertuzumab/"
+    },
+    {
+      "slug": "phenylephrine",
+      "name": "Phenylephrine",
+      "keywords": [
+        "phenylephrine",
+        "omidria"
+      ],
+      "url": "/drugs/phenylephrine/"
+    },
+    {
+      "slug": "pibrentasvir",
+      "name": "Pibrentasvir",
+      "keywords": [
+        "pibrentasvir"
+      ],
+      "url": "/drugs/pibrentasvir/"
+    },
+    {
+      "slug": "pioglitazone",
+      "name": "Pioglitazone",
+      "keywords": [
+        "pioglitazone"
+      ],
+      "url": "/drugs/pioglitazone/"
+    },
+    {
+      "slug": "pirfenidone",
+      "name": "Pirfenidone",
+      "keywords": [
+        "pirfenidone",
+        "esbriet",
+        "pirfenidone axunio (previously pirfenidone aet)"
+      ],
+      "url": "/drugs/pirfenidone/"
+    },
+    {
+      "slug": "pitolisant",
+      "name": "Pitolisant",
+      "keywords": [
+        "pitolisant",
+        "wakix"
+      ],
+      "url": "/drugs/pitolisant/"
+    },
+    {
+      "slug": "plerixafor",
+      "name": "Plerixafor",
+      "keywords": [
+        "plerixafor",
+        "plerixafor accord"
+      ],
+      "url": "/drugs/plerixafor/"
+    },
+    {
+      "slug": "polatuzumab-vedotin",
+      "name": "Polatuzumab Vedotin",
+      "keywords": [
+        "polatuzumab vedotin",
+        "polivy"
+      ],
+      "url": "/drugs/polatuzumab-vedotin/"
+    },
+    {
+      "slug": "pomalidomide",
+      "name": "Pomalidomide",
+      "keywords": [
+        "pomalidomide",
+        "pomalidomide accord"
+      ],
+      "url": "/drugs/pomalidomide/"
+    },
+    {
+      "slug": "ponatinib",
+      "name": "Ponatinib",
+      "keywords": [
+        "ponatinib",
+        "iclusig"
+      ],
+      "url": "/drugs/ponatinib/"
+    },
+    {
+      "slug": "posaconazole",
+      "name": "Posaconazole",
+      "keywords": [
+        "posaconazole",
+        "posaconazole accord",
+        "posaconazole ahcl"
+      ],
+      "url": "/drugs/posaconazole/"
+    },
+    {
+      "slug": "prasterone",
+      "name": "Prasterone",
+      "keywords": [
+        "prasterone",
+        "intrarosa"
+      ],
+      "url": "/drugs/prasterone/"
+    },
+    {
+      "slug": "prasugrel",
+      "name": "Prasugrel",
+      "keywords": [
+        "prasugrel",
+        "efient"
+      ],
+      "url": "/drugs/prasugrel/"
+    },
+    {
+      "slug": "pravastatin",
+      "name": "Pravastatin",
+      "keywords": [
+        "pravastatin",
+        "pravafenix"
+      ],
+      "url": "/drugs/pravastatin/"
+    },
+    {
+      "slug": "pregabalin",
+      "name": "Pregabalin",
+      "keywords": [
+        "pregabalin",
+        "pregabalin accord",
+        "pregabalin zentiva"
+      ],
+      "url": "/drugs/pregabalin/"
+    },
+    {
+      "slug": "pretomanid",
+      "name": "Pretomanid",
+      "keywords": [
+        "pretomanid",
+        "dovprela (previously pretomanid fgk)"
+      ],
+      "url": "/drugs/pretomanid/"
+    },
+    {
+      "slug": "prilocaine",
+      "name": "Prilocaine",
+      "keywords": [
+        "prilocaine",
+        "fortacin"
+      ],
+      "url": "/drugs/prilocaine/"
+    },
+    {
+      "slug": "propranolol-hydrochloride",
+      "name": "Propranolol Hydrochloride",
+      "keywords": [
+        "propranolol hydrochloride",
+        "hemangiol"
+      ],
+      "url": "/drugs/propranolol-hydrochloride/"
+    },
+    {
+      "slug": "prucalopride-succinate",
+      "name": "Prucalopride Succinate",
+      "keywords": [
+        "prucalopride succinate",
+        "resolor"
+      ],
+      "url": "/drugs/prucalopride-succinate/"
+    },
+    {
+      "slug": "raloxifene-hydrochloride",
+      "name": "Raloxifene Hydrochloride",
+      "keywords": [
+        "raloxifene hydrochloride",
+        "raloxifene teva"
+      ],
+      "url": "/drugs/raloxifene-hydrochloride/"
+    },
+    {
+      "slug": "raltegravir",
+      "name": "Raltegravir",
+      "keywords": [
+        "raltegravir",
+        "isentress"
+      ],
+      "url": "/drugs/raltegravir/"
+    },
+    {
+      "slug": "ramucirumab",
+      "name": "Ramucirumab",
+      "keywords": [
+        "ramucirumab",
+        "cyramza"
+      ],
+      "url": "/drugs/ramucirumab/"
+    },
+    {
+      "slug": "ranibizumab",
+      "name": "Ranibizumab",
+      "keywords": [
+        "ranibizumab",
+        "lucentis",
+        "rimmyrah",
+        "ximluci"
+      ],
+      "url": "/drugs/ranibizumab/"
+    },
+    {
+      "slug": "ranolazine",
+      "name": "Ranolazine",
+      "keywords": [
+        "ranolazine",
+        "ranexa (previously latixa)"
+      ],
+      "url": "/drugs/ranolazine/"
+    },
+    {
+      "slug": "rasagiline",
+      "name": "Rasagiline",
+      "keywords": [
+        "rasagiline",
+        "azilect"
+      ],
+      "url": "/drugs/rasagiline/"
+    },
+    {
+      "slug": "rasburicase",
+      "name": "Rasburicase",
+      "keywords": [
+        "rasburicase",
+        "fasturtec"
+      ],
+      "url": "/drugs/rasburicase/"
+    },
+    {
+      "slug": "ravulizumab",
+      "name": "Ravulizumab",
+      "keywords": [
+        "ravulizumab",
+        "ultomiris"
+      ],
+      "url": "/drugs/ravulizumab/"
+    },
+    {
+      "slug": "regadenoson",
+      "name": "Regadenoson",
+      "keywords": [
+        "regadenoson",
+        "rapiscan"
+      ],
+      "url": "/drugs/regadenoson/"
+    },
+    {
+      "slug": "regorafenib",
+      "name": "Regorafenib",
+      "keywords": [
+        "regorafenib",
+        "stivarga"
+      ],
+      "url": "/drugs/regorafenib/"
+    },
+    {
+      "slug": "relebactam",
+      "name": "Relebactam",
+      "keywords": [
+        "relebactam"
+      ],
+      "url": "/drugs/relebactam/"
+    },
+    {
+      "slug": "relugolix",
+      "name": "Relugolix",
+      "keywords": [
+        "relugolix",
+        "orgovyx"
+      ],
+      "url": "/drugs/relugolix/"
+    },
+    {
+      "slug": "remdesivir",
+      "name": "Remdesivir",
+      "keywords": [
+        "remdesivir",
+        "veklury"
+      ],
+      "url": "/drugs/remdesivir/"
+    },
+    {
+      "slug": "repaglinide",
+      "name": "Repaglinide",
+      "keywords": [
+        "repaglinide",
+        "repaglinide krka",
+        "novonorm"
+      ],
+      "url": "/drugs/repaglinide/"
+    },
+    {
+      "slug": "reslizumab",
+      "name": "Reslizumab",
+      "keywords": [
+        "reslizumab",
+        "cinqaero"
+      ],
+      "url": "/drugs/reslizumab/"
+    },
+    {
+      "slug": "reteplase",
+      "name": "Reteplase",
+      "keywords": [
+        "reteplase",
+        "rapilysin"
+      ],
+      "url": "/drugs/reteplase/"
+    },
+    {
+      "slug": "ribociclib-succinate",
+      "name": "Ribociclib Succinate",
+      "keywords": [
+        "ribociclib succinate",
+        "kisqali"
+      ],
+      "url": "/drugs/ribociclib-succinate/"
+    },
+    {
+      "slug": "rilpivirine-hydrochloride",
+      "name": "Rilpivirine Hydrochloride",
+      "keywords": [
+        "rilpivirine hydrochloride",
+        "edurant"
+      ],
+      "url": "/drugs/rilpivirine-hydrochloride/"
+    },
+    {
+      "slug": "riluzole",
+      "name": "Riluzole",
+      "keywords": [
+        "riluzole",
+        "rilutek"
+      ],
+      "url": "/drugs/riluzole/"
+    },
+    {
+      "slug": "rimegepant",
+      "name": "Rimegepant",
+      "keywords": [
+        "rimegepant",
+        "vydura"
+      ],
+      "url": "/drugs/rimegepant/"
+    },
+    {
+      "slug": "riociguat",
+      "name": "Riociguat",
+      "keywords": [
+        "riociguat",
+        "adempas"
+      ],
+      "url": "/drugs/riociguat/"
+    },
+    {
+      "slug": "ripretinib",
+      "name": "Ripretinib",
+      "keywords": [
+        "ripretinib",
+        "qinlock"
+      ],
+      "url": "/drugs/ripretinib/"
+    },
+    {
+      "slug": "risankizumab",
+      "name": "Risankizumab",
+      "keywords": [
+        "risankizumab",
+        "skyrizi"
+      ],
+      "url": "/drugs/risankizumab/"
+    },
+    {
+      "slug": "risdiplam",
+      "name": "Risdiplam",
+      "keywords": [
+        "risdiplam",
+        "evrysdi"
+      ],
+      "url": "/drugs/risdiplam/"
+    },
+    {
+      "slug": "risperidone",
+      "name": "Risperidone",
+      "keywords": [
+        "risperidone",
+        "okedi"
+      ],
+      "url": "/drugs/risperidone/"
+    },
+    {
+      "slug": "ritonavir",
+      "name": "Ritonavir",
+      "keywords": [
+        "ritonavir",
+        "ritonavir viatris (previously ritonavir mylan)"
+      ],
+      "url": "/drugs/ritonavir/"
+    },
+    {
+      "slug": "rituximab",
+      "name": "Rituximab",
+      "keywords": [
+        "rituximab",
+        "blitzima",
+        "mabthera",
+        "ituxredi",
+        "rituxan",
+        "truxima"
+      ],
+      "url": "/drugs/rituximab/"
+    },
+    {
+      "slug": "rivaroxaban",
+      "name": "Rivaroxaban",
+      "keywords": [
+        "rivaroxaban",
+        "xarelto"
+      ],
+      "url": "/drugs/rivaroxaban/"
+    },
+    {
+      "slug": "rivastigmine",
+      "name": "Rivastigmine",
+      "keywords": [
+        "rivastigmine",
+        "prometax"
+      ],
+      "url": "/drugs/rivastigmine/"
+    },
+    {
+      "slug": "roflumilast",
+      "name": "Roflumilast",
+      "keywords": [
+        "roflumilast",
+        "daxas"
+      ],
+      "url": "/drugs/roflumilast/"
+    },
+    {
+      "slug": "romiplostim",
+      "name": "Romiplostim",
+      "keywords": [
+        "romiplostim",
+        "nplate"
+      ],
+      "url": "/drugs/romiplostim/"
+    },
+    {
+      "slug": "romosozumab",
+      "name": "Romosozumab",
+      "keywords": [
+        "romosozumab",
+        "evenity"
+      ],
+      "url": "/drugs/romosozumab/"
+    },
+    {
+      "slug": "ropeginterferon-alfa-2b",
+      "name": "Ropeginterferon Alfa-2B",
+      "keywords": [
+        "ropeginterferon alfa-2b",
+        "besremi"
+      ],
+      "url": "/drugs/ropeginterferon-alfa-2b/"
+    },
+    {
+      "slug": "rotigotine",
+      "name": "Rotigotine",
+      "keywords": [
+        "rotigotine",
+        "neupro"
+      ],
+      "url": "/drugs/rotigotine/"
+    },
+    {
+      "slug": "roxadustat",
+      "name": "Roxadustat",
+      "keywords": [
+        "roxadustat",
+        "evrenzo"
+      ],
+      "url": "/drugs/roxadustat/"
+    },
+    {
+      "slug": "rozanolixizumab",
+      "name": "Rozanolixizumab",
+      "keywords": [
+        "rozanolixizumab",
+        "rystiggo"
+      ],
+      "url": "/drugs/rozanolixizumab/"
+    },
+    {
+      "slug": "rufinamide",
+      "name": "Rufinamide",
+      "keywords": [
+        "rufinamide",
+        "inovelon"
+      ],
+      "url": "/drugs/rufinamide/"
+    },
+    {
+      "slug": "ruxolitinib-phosphate",
+      "name": "Ruxolitinib Phosphate",
+      "keywords": [
+        "ruxolitinib phosphate",
+        "opzelura"
+      ],
+      "url": "/drugs/ruxolitinib-phosphate/"
+    },
+    {
+      "slug": "sacituzumab-govitecan",
+      "name": "Sacituzumab Govitecan",
+      "keywords": [
+        "sacituzumab govitecan",
+        "trodelvy"
+      ],
+      "url": "/drugs/sacituzumab-govitecan/"
+    },
+    {
+      "slug": "sacubitril",
+      "name": "Sacubitril",
+      "keywords": [
+        "sacubitril"
+      ],
+      "url": "/drugs/sacubitril/"
+    },
+    {
+      "slug": "sargramostim",
+      "name": "Sargramostim",
+      "keywords": [
+        "sargramostim",
+        "imreplys"
+      ],
+      "url": "/drugs/sargramostim/"
+    },
+    {
+      "slug": "sarilumab",
+      "name": "Sarilumab",
+      "keywords": [
+        "sarilumab",
+        "kevzara"
+      ],
+      "url": "/drugs/sarilumab/"
+    },
+    {
+      "slug": "saxagliptin",
+      "name": "Saxagliptin",
+      "keywords": [
+        "saxagliptin",
+        "onglyza"
+      ],
+      "url": "/drugs/saxagliptin/"
+    },
+    {
+      "slug": "sebelipase-alfa",
+      "name": "Sebelipase Alfa",
+      "keywords": [
+        "sebelipase alfa",
+        "kanuma"
+      ],
+      "url": "/drugs/sebelipase-alfa/"
+    },
+    {
+      "slug": "secukinumab",
+      "name": "Secukinumab",
+      "keywords": [
+        "secukinumab",
+        "cosentyx"
+      ],
+      "url": "/drugs/secukinumab/"
+    },
+    {
+      "slug": "selexipag",
+      "name": "Selexipag",
+      "keywords": [
+        "selexipag",
+        "uptravi"
+      ],
+      "url": "/drugs/selexipag/"
+    },
+    {
+      "slug": "selinexor",
+      "name": "Selinexor",
+      "keywords": [
+        "selinexor",
+        "nexpovio"
+      ],
+      "url": "/drugs/selinexor/"
+    },
+    {
+      "slug": "selpercatinib",
+      "name": "Selpercatinib",
+      "keywords": [
+        "selpercatinib",
+        "retsevmo"
+      ],
+      "url": "/drugs/selpercatinib/"
+    },
+    {
+      "slug": "selumetinib-sulfate",
+      "name": "Selumetinib Sulfate",
+      "keywords": [
+        "selumetinib sulfate",
+        "koselugo"
+      ],
+      "url": "/drugs/selumetinib-sulfate/"
+    },
+    {
+      "slug": "semaglutide",
+      "name": "Semaglutide",
+      "keywords": [
+        "semaglutide",
+        "wegovy",
+        "ozempic",
+        "rybelsus"
+      ],
+      "url": "/drugs/semaglutide/"
+    },
+    {
+      "slug": "setmelanotide",
+      "name": "Setmelanotide",
+      "keywords": [
+        "setmelanotide",
+        "imcivree"
+      ],
+      "url": "/drugs/setmelanotide/"
+    },
+    {
+      "slug": "sevelamer",
+      "name": "Sevelamer",
+      "keywords": [
+        "sevelamer",
+        "renagel"
+      ],
+      "url": "/drugs/sevelamer/"
+    },
+    {
+      "slug": "sildenafil",
+      "name": "Sildenafil",
+      "keywords": [
+        "sildenafil",
+        "mysildecard",
+        "sildenafil ratiopharm",
+        "vizarsin"
+      ],
+      "url": "/drugs/sildenafil/"
+    },
+    {
+      "slug": "silodosin",
+      "name": "Silodosin",
+      "keywords": [
+        "silodosin",
+        "silodosin recordati"
+      ],
+      "url": "/drugs/silodosin/"
+    },
+    {
+      "slug": "siltuximab",
+      "name": "Siltuximab",
+      "keywords": [
+        "siltuximab",
+        "sylvant"
+      ],
+      "url": "/drugs/siltuximab/"
+    },
+    {
+      "slug": "simoctocog-alfa",
+      "name": "Simoctocog Alfa",
+      "keywords": [
+        "simoctocog alfa",
+        "nuwiq"
+      ],
+      "url": "/drugs/simoctocog-alfa/"
+    },
+    {
+      "slug": "simvastatin",
+      "name": "Simvastatin",
+      "keywords": [
+        "simvastatin",
+        "cholib",
+        "zocor",
+        "simvahexal"
+      ],
+      "url": "/drugs/simvastatin/"
+    },
+    {
+      "slug": "sirolimus",
+      "name": "Sirolimus",
+      "keywords": [
+        "sirolimus",
+        "rapamune",
+        "hyftor"
+      ],
+      "url": "/drugs/sirolimus/"
+    },
+    {
+      "slug": "sitagliptin",
+      "name": "Sitagliptin",
+      "keywords": [
+        "sitagliptin",
+        "ristaben"
+      ],
+      "url": "/drugs/sitagliptin/"
+    },
+    {
+      "slug": "sitagliptin-hydrochloride",
+      "name": "Sitagliptin Hydrochloride",
+      "keywords": [
+        "sitagliptin hydrochloride",
+        "sitagliptin accord"
+      ],
+      "url": "/drugs/sitagliptin-hydrochloride/"
+    },
+    {
+      "slug": "sodium-oxybate",
+      "name": "Sodium Oxybate",
+      "keywords": [
+        "sodium oxybate",
+        "xyrem"
+      ],
+      "url": "/drugs/sodium-oxybate/"
+    },
+    {
+      "slug": "sodium-zirconium-cyclosilicate",
+      "name": "Sodium Zirconium Cyclosilicate",
+      "keywords": [
+        "sodium zirconium cyclosilicate",
+        "lokelma"
+      ],
+      "url": "/drugs/sodium-zirconium-cyclosilicate/"
+    },
+    {
+      "slug": "sofosbuvir",
+      "name": "Sofosbuvir",
+      "keywords": [
+        "sofosbuvir",
+        "sovaldi"
+      ],
+      "url": "/drugs/sofosbuvir/"
+    },
+    {
+      "slug": "solriamfetol-hydrochloride",
+      "name": "Solriamfetol Hydrochloride",
+      "keywords": [
+        "solriamfetol hydrochloride",
+        "sunosi"
+      ],
+      "url": "/drugs/solriamfetol-hydrochloride/"
+    },
+    {
+      "slug": "somapacitan",
+      "name": "Somapacitan",
+      "keywords": [
+        "somapacitan",
+        "sogroya"
+      ],
+      "url": "/drugs/somapacitan/"
+    },
+    {
+      "slug": "sorafenib",
+      "name": "Sorafenib",
+      "keywords": [
+        "sorafenib",
+        "nexavar"
+      ],
+      "url": "/drugs/sorafenib/"
+    },
+    {
+      "slug": "sotatercept",
+      "name": "Sotatercept",
+      "keywords": [
+        "sotatercept",
+        "winrevair"
+      ],
+      "url": "/drugs/sotatercept/"
+    },
+    {
+      "slug": "sparsentan",
+      "name": "Sparsentan",
+      "keywords": [
+        "sparsentan",
+        "filspari"
+      ],
+      "url": "/drugs/sparsentan/"
+    },
+    {
+      "slug": "spironolactone",
+      "name": "Spironolactone",
+      "keywords": [
+        "spironolactone",
+        "qaialdo"
+      ],
+      "url": "/drugs/spironolactone/"
+    },
+    {
+      "slug": "stiripentol",
+      "name": "Stiripentol",
+      "keywords": [
+        "stiripentol",
+        "diacomit"
+      ],
+      "url": "/drugs/stiripentol/"
+    },
+    {
+      "slug": "sufentanil-citrate",
+      "name": "Sufentanil Citrate",
+      "keywords": [
+        "sufentanil citrate",
+        "dzuveo"
+      ],
+      "url": "/drugs/sufentanil-citrate/"
+    },
+    {
+      "slug": "sugammadex-sodium",
+      "name": "Sugammadex Sodium",
+      "keywords": [
+        "sugammadex sodium",
+        "sugammadex fresenius kabi"
+      ],
+      "url": "/drugs/sugammadex-sodium/"
+    },
+    {
+      "slug": "sunitinib",
+      "name": "Sunitinib",
+      "keywords": [
+        "sunitinib",
+        "sutent",
+        "sunitinib accord"
+      ],
+      "url": "/drugs/sunitinib/"
+    },
+    {
+      "slug": "susoctocog-alfa",
+      "name": "Susoctocog Alfa",
+      "keywords": [
+        "susoctocog alfa",
+        "obizur"
+      ],
+      "url": "/drugs/susoctocog-alfa/"
+    },
+    {
+      "slug": "tacrolimus",
+      "name": "Tacrolimus",
+      "keywords": [
+        "tacrolimus",
+        "advagraf"
+      ],
+      "url": "/drugs/tacrolimus/"
+    },
+    {
+      "slug": "tadalafil",
+      "name": "Tadalafil",
+      "keywords": [
+        "tadalafil",
+        "adcirca (previously tadalafil lilly)",
+        "talmanco (previously tadalafil generics)"
+      ],
+      "url": "/drugs/tadalafil/"
+    },
+    {
+      "slug": "tafamidis",
+      "name": "Tafamidis",
+      "keywords": [
+        "tafamidis",
+        "vyndaqel"
+      ],
+      "url": "/drugs/tafamidis/"
+    },
+    {
+      "slug": "tafasitamab",
+      "name": "Tafasitamab",
+      "keywords": [
+        "tafasitamab",
+        "minjuvi"
+      ],
+      "url": "/drugs/tafasitamab/"
+    },
+    {
+      "slug": "tagraxofusp",
+      "name": "Tagraxofusp",
+      "keywords": [
+        "tagraxofusp",
+        "elzonris"
+      ],
+      "url": "/drugs/tagraxofusp/"
+    },
+    {
+      "slug": "talazoparib",
+      "name": "Talazoparib",
+      "keywords": [
+        "talazoparib",
+        "talzenna"
+      ],
+      "url": "/drugs/talazoparib/"
+    },
+    {
+      "slug": "talimogene-laherparepvec",
+      "name": "Talimogene Laherparepvec",
+      "keywords": [
+        "talimogene laherparepvec",
+        "imlygic"
+      ],
+      "url": "/drugs/talimogene-laherparepvec/"
+    },
+    {
+      "slug": "tasimelteon",
+      "name": "Tasimelteon",
+      "keywords": [
+        "tasimelteon",
+        "hetlioz"
+      ],
+      "url": "/drugs/tasimelteon/"
+    },
+    {
+      "slug": "tasonermin",
+      "name": "Tasonermin",
+      "keywords": [
+        "tasonermin",
+        "beromun"
+      ],
+      "url": "/drugs/tasonermin/"
+    },
+    {
+      "slug": "tazobactam",
+      "name": "Tazobactam",
+      "keywords": [
+        "tazobactam"
+      ],
+      "url": "/drugs/tazobactam/"
+    },
+    {
+      "slug": "tecovirimat",
+      "name": "Tecovirimat",
+      "keywords": [
+        "tecovirimat",
+        "tecovirimat siga"
+      ],
+      "url": "/drugs/tecovirimat/"
+    },
+    {
+      "slug": "tedizolid",
+      "name": "Tedizolid",
+      "keywords": [
+        "tedizolid",
+        "sivextro"
+      ],
+      "url": "/drugs/tedizolid/"
+    },
+    {
+      "slug": "teduglutide",
+      "name": "Teduglutide",
+      "keywords": [
+        "teduglutide",
+        "revestive"
+      ],
+      "url": "/drugs/teduglutide/"
+    },
+    {
+      "slug": "tegafur",
+      "name": "Tegafur",
+      "keywords": [
+        "tegafur"
+      ],
+      "url": "/drugs/tegafur/"
+    },
+    {
+      "slug": "telmisartan",
+      "name": "Telmisartan",
+      "keywords": [
+        "telmisartan",
+        "telmisartan teva pharma",
+        "tolucombi"
+      ],
+      "url": "/drugs/telmisartan/"
+    },
+    {
+      "slug": "temoporfin",
+      "name": "Temoporfin",
+      "keywords": [
+        "temoporfin",
+        "foscan"
+      ],
+      "url": "/drugs/temoporfin/"
+    },
+    {
+      "slug": "temozolomide",
+      "name": "Temozolomide",
+      "keywords": [
+        "temozolomide",
+        "temomedac"
+      ],
+      "url": "/drugs/temozolomide/"
+    },
+    {
+      "slug": "temsirolimus",
+      "name": "Temsirolimus",
+      "keywords": [
+        "temsirolimus",
+        "torisel"
+      ],
+      "url": "/drugs/temsirolimus/"
+    },
+    {
+      "slug": "tenecteplase",
+      "name": "Tenecteplase",
+      "keywords": [
+        "tenecteplase",
+        "metalyse"
+      ],
+      "url": "/drugs/tenecteplase/"
+    },
+    {
+      "slug": "tenofovir-alafenamide",
+      "name": "Tenofovir Alafenamide",
+      "keywords": [
+        "tenofovir alafenamide"
+      ],
+      "url": "/drugs/tenofovir-alafenamide/"
+    },
+    {
+      "slug": "tenofovir-disoproxil",
+      "name": "Tenofovir Disoproxil",
+      "keywords": [
+        "tenofovir disoproxil"
+      ],
+      "url": "/drugs/tenofovir-disoproxil/"
+    },
+    {
+      "slug": "teplizumab",
+      "name": "Teplizumab",
+      "keywords": [
+        "teplizumab",
+        "teizeild"
+      ],
+      "url": "/drugs/teplizumab/"
+    },
+    {
+      "slug": "teprotumumab",
+      "name": "Teprotumumab",
+      "keywords": [
+        "teprotumumab",
+        "tepezza"
+      ],
+      "url": "/drugs/teprotumumab/"
+    },
+    {
+      "slug": "teriflunomide",
+      "name": "Teriflunomide",
+      "keywords": [
+        "teriflunomide",
+        "aubagio"
+      ],
+      "url": "/drugs/teriflunomide/"
+    },
+    {
+      "slug": "teriparatide",
+      "name": "Teriparatide",
+      "keywords": [
+        "teriparatide",
+        "kauliv"
+      ],
+      "url": "/drugs/teriparatide/"
+    },
+    {
+      "slug": "tezacaftor",
+      "name": "Tezacaftor",
+      "keywords": [
+        "tezacaftor"
+      ],
+      "url": "/drugs/tezacaftor/"
+    },
+    {
+      "slug": "tezepelumab",
+      "name": "Tezepelumab",
+      "keywords": [
+        "tezepelumab",
+        "tezspire"
+      ],
+      "url": "/drugs/tezepelumab/"
+    },
+    {
+      "slug": "thalidomide",
+      "name": "Thalidomide",
+      "keywords": [
+        "thalidomide",
+        "thalidomide bms (previously thalidomide celgene)"
+      ],
+      "url": "/drugs/thalidomide/"
+    },
+    {
+      "slug": "thiotepa",
+      "name": "Thiotepa",
+      "keywords": [
+        "thiotepa",
+        "tepadina",
+        "thiotepa riemser"
+      ],
+      "url": "/drugs/thiotepa/"
+    },
+    {
+      "slug": "thyrotropin-alfa",
+      "name": "Thyrotropin Alfa",
+      "keywords": [
+        "thyrotropin alfa",
+        "thyrogen"
+      ],
+      "url": "/drugs/thyrotropin-alfa/"
+    },
+    {
+      "slug": "ticagrelor",
+      "name": "Ticagrelor",
+      "keywords": [
+        "ticagrelor",
+        "brilique"
+      ],
+      "url": "/drugs/ticagrelor/"
+    },
+    {
+      "slug": "tigecycline",
+      "name": "Tigecycline",
+      "keywords": [
+        "tigecycline",
+        "tigecycline accord"
+      ],
+      "url": "/drugs/tigecycline/"
+    },
+    {
+      "slug": "tildrakizumab",
+      "name": "Tildrakizumab",
+      "keywords": [
+        "tildrakizumab",
+        "ilumetri"
+      ],
+      "url": "/drugs/tildrakizumab/"
+    },
+    {
+      "slug": "timolol",
+      "name": "Timolol",
+      "keywords": [
+        "timolol"
+      ],
+      "url": "/drugs/timolol/"
+    },
+    {
+      "slug": "tipiracil",
+      "name": "Tipiracil",
+      "keywords": [
+        "tipiracil"
+      ],
+      "url": "/drugs/tipiracil/"
+    },
+    {
+      "slug": "tipranavir",
+      "name": "Tipranavir",
+      "keywords": [
+        "tipranavir",
+        "aptivus"
+      ],
+      "url": "/drugs/tipranavir/"
+    },
+    {
+      "slug": "tiratricol",
+      "name": "Tiratricol",
+      "keywords": [
+        "tiratricol",
+        "emcitate"
+      ],
+      "url": "/drugs/tiratricol/"
+    },
+    {
+      "slug": "tirzepatide",
+      "name": "Tirzepatide",
+      "keywords": [
+        "tirzepatide",
+        "mounjaro",
+        "zepbound"
+      ],
+      "url": "/drugs/tirzepatide/"
+    },
+    {
+      "slug": "tisagenlecleucel",
+      "name": "Tisagenlecleucel",
+      "keywords": [
+        "tisagenlecleucel",
+        "kymriah"
+      ],
+      "url": "/drugs/tisagenlecleucel/"
+    },
+    {
+      "slug": "tislelizumab",
+      "name": "Tislelizumab",
+      "keywords": [
+        "tislelizumab",
+        "tevimbra"
+      ],
+      "url": "/drugs/tislelizumab/"
+    },
+    {
+      "slug": "tivozanib",
+      "name": "Tivozanib",
+      "keywords": [
+        "tivozanib",
+        "fotivda"
+      ],
+      "url": "/drugs/tivozanib/"
+    },
+    {
+      "slug": "tobramycin",
+      "name": "Tobramycin",
+      "keywords": [
+        "tobramycin",
+        "vantobra (previously tobramycin pari)",
+        "tobi podhaler"
+      ],
+      "url": "/drugs/tobramycin/"
+    },
+    {
+      "slug": "tocilizumab",
+      "name": "Tocilizumab",
+      "keywords": [
+        "tocilizumab",
+        "roactemra",
+        "tocilizumab stada (previously tofidence)",
+        "tyenne",
+        "avtozma"
+      ],
+      "url": "/drugs/tocilizumab/"
+    },
+    {
+      "slug": "tocofersolan",
+      "name": "Tocofersolan",
+      "keywords": [
+        "tocofersolan",
+        "vedrop"
+      ],
+      "url": "/drugs/tocofersolan/"
+    },
+    {
+      "slug": "tofacitinib",
+      "name": "Tofacitinib",
+      "keywords": [
+        "tofacitinib",
+        "xeljanz"
+      ],
+      "url": "/drugs/tofacitinib/"
+    },
+    {
+      "slug": "tolcapone",
+      "name": "Tolcapone",
+      "keywords": [
+        "tolcapone",
+        "tasmar"
+      ],
+      "url": "/drugs/tolcapone/"
+    },
+    {
+      "slug": "tolvaptan",
+      "name": "Tolvaptan",
+      "keywords": [
+        "tolvaptan",
+        "samsca"
+      ],
+      "url": "/drugs/tolvaptan/"
+    },
+    {
+      "slug": "topotecan",
+      "name": "Topotecan",
+      "keywords": [
+        "topotecan",
+        "potactasol",
+        "hycamtin"
+      ],
+      "url": "/drugs/topotecan/"
+    },
+    {
+      "slug": "toremifene",
+      "name": "Toremifene",
+      "keywords": [
+        "toremifene",
+        "fareston"
+      ],
+      "url": "/drugs/toremifene/"
+    },
+    {
+      "slug": "toripalimab",
+      "name": "Toripalimab",
+      "keywords": [
+        "toripalimab",
+        "loqtorzi"
+      ],
+      "url": "/drugs/toripalimab/"
+    },
+    {
+      "slug": "trabectedin",
+      "name": "Trabectedin",
+      "keywords": [
+        "trabectedin",
+        "yondelis"
+      ],
+      "url": "/drugs/trabectedin/"
+    },
+    {
+      "slug": "tralokinumab",
+      "name": "Tralokinumab",
+      "keywords": [
+        "tralokinumab",
+        "adtralza"
+      ],
+      "url": "/drugs/tralokinumab/"
+    },
+    {
+      "slug": "trametinib",
+      "name": "Trametinib",
+      "keywords": [
+        "trametinib",
+        "mekinist"
+      ],
+      "url": "/drugs/trametinib/"
+    },
+    {
+      "slug": "trastuzumab",
+      "name": "Trastuzumab",
+      "keywords": [
+        "trastuzumab",
+        "kanjinti",
+        "herceptin",
+        "herzuma",
+        "ogivri"
+      ],
+      "url": "/drugs/trastuzumab/"
+    },
+    {
+      "slug": "trastuzumab-deruxtecan",
+      "name": "Trastuzumab Deruxtecan",
+      "keywords": [
+        "trastuzumab deruxtecan",
+        "enhertu"
+      ],
+      "url": "/drugs/trastuzumab-deruxtecan/"
+    },
+    {
+      "slug": "trastuzumab-emtansine",
+      "name": "Trastuzumab Emtansine",
+      "keywords": [
+        "trastuzumab emtansine",
+        "kadcyla"
+      ],
+      "url": "/drugs/trastuzumab-emtansine/"
+    },
+    {
+      "slug": "travoprost",
+      "name": "Travoprost",
+      "keywords": [
+        "travoprost",
+        "izba"
+      ],
+      "url": "/drugs/travoprost/"
+    },
+    {
+      "slug": "tremelimumab",
+      "name": "Tremelimumab",
+      "keywords": [
+        "tremelimumab",
+        "imjudo"
+      ],
+      "url": "/drugs/tremelimumab/"
+    },
+    {
+      "slug": "treosulfan",
+      "name": "Treosulfan",
+      "keywords": [
+        "treosulfan",
+        "trecondi"
+      ],
+      "url": "/drugs/treosulfan/"
+    },
+    {
+      "slug": "treprostinil-sodium",
+      "name": "Treprostinil Sodium",
+      "keywords": [
+        "treprostinil sodium",
+        "trepulmix"
+      ],
+      "url": "/drugs/treprostinil-sodium/"
+    },
+    {
+      "slug": "trifluridine",
+      "name": "Trifluridine",
+      "keywords": [
+        "trifluridine"
+      ],
+      "url": "/drugs/trifluridine/"
+    },
+    {
+      "slug": "tucatinib",
+      "name": "Tucatinib",
+      "keywords": [
+        "tucatinib",
+        "tukysa"
+      ],
+      "url": "/drugs/tucatinib/"
+    },
+    {
+      "slug": "turoctocog-alfa",
+      "name": "Turoctocog Alfa",
+      "keywords": [
+        "turoctocog alfa",
+        "novoeight"
+      ],
+      "url": "/drugs/turoctocog-alfa/"
+    },
+    {
+      "slug": "turoctocog-alfa-pegol",
+      "name": "Turoctocog Alfa Pegol",
+      "keywords": [
+        "turoctocog alfa pegol",
+        "esperoct"
+      ],
+      "url": "/drugs/turoctocog-alfa-pegol/"
+    },
+    {
+      "slug": "ublituximab",
+      "name": "Ublituximab",
+      "keywords": [
+        "ublituximab",
+        "briumvi"
+      ],
+      "url": "/drugs/ublituximab/"
+    },
+    {
+      "slug": "ulipristal",
+      "name": "Ulipristal",
+      "keywords": [
+        "ulipristal",
+        "ellaone"
+      ],
+      "url": "/drugs/ulipristal/"
+    },
+    {
+      "slug": "umeclidinium-bromide",
+      "name": "Umeclidinium Bromide",
+      "keywords": [
+        "umeclidinium bromide",
+        "rolufta ellipta (previously rolufta)"
+      ],
+      "url": "/drugs/umeclidinium-bromide/"
+    },
+    {
+      "slug": "upadacitinib",
+      "name": "Upadacitinib",
+      "keywords": [
+        "upadacitinib",
+        "rinvoq"
+      ],
+      "url": "/drugs/upadacitinib/"
+    },
+    {
+      "slug": "urea-13c",
+      "name": "Urea (13C)",
+      "keywords": [
+        "urea (13c)",
+        "pylobactell"
+      ],
+      "url": "/drugs/urea-13c/"
+    },
+    {
+      "slug": "ustekinumab",
+      "name": "Ustekinumab",
+      "keywords": [
+        "ustekinumab",
+        "stelara"
+      ],
+      "url": "/drugs/ustekinumab/"
+    },
+    {
+      "slug": "vaborbactam",
+      "name": "Vaborbactam",
+      "keywords": [
+        "vaborbactam"
+      ],
+      "url": "/drugs/vaborbactam/"
+    },
+    {
+      "slug": "valsartan",
+      "name": "Valsartan",
+      "keywords": [
+        "valsartan",
+        "neparvis"
+      ],
+      "url": "/drugs/valsartan/"
+    },
+    {
+      "slug": "vandetanib",
+      "name": "Vandetanib",
+      "keywords": [
+        "vandetanib",
+        "caprelsa"
+      ],
+      "url": "/drugs/vandetanib/"
+    },
+    {
+      "slug": "vardenafil",
+      "name": "Vardenafil",
+      "keywords": [
+        "vardenafil",
+        "levitra"
+      ],
+      "url": "/drugs/vardenafil/"
+    },
+    {
+      "slug": "varenicline",
+      "name": "Varenicline",
+      "keywords": [
+        "varenicline",
+        "champix"
+      ],
+      "url": "/drugs/varenicline/"
+    },
+    {
+      "slug": "vedolizumab",
+      "name": "Vedolizumab",
+      "keywords": [
+        "vedolizumab",
+        "entyvio"
+      ],
+      "url": "/drugs/vedolizumab/"
+    },
+    {
+      "slug": "velaglucerase-alfa",
+      "name": "Velaglucerase Alfa",
+      "keywords": [
+        "velaglucerase alfa",
+        "vpriv"
+      ],
+      "url": "/drugs/velaglucerase-alfa/"
+    },
+    {
+      "slug": "velpatasvir",
+      "name": "Velpatasvir",
+      "keywords": [
+        "velpatasvir"
+      ],
+      "url": "/drugs/velpatasvir/"
+    },
+    {
+      "slug": "vemurafenib",
+      "name": "Vemurafenib",
+      "keywords": [
+        "vemurafenib",
+        "zelboraf"
+      ],
+      "url": "/drugs/vemurafenib/"
+    },
+    {
+      "slug": "venetoclax",
+      "name": "Venetoclax",
+      "keywords": [
+        "venetoclax",
+        "venclyxto"
+      ],
+      "url": "/drugs/venetoclax/"
+    },
+    {
+      "slug": "vernakalant-hydrochloride",
+      "name": "Vernakalant Hydrochloride",
+      "keywords": [
+        "vernakalant hydrochloride",
+        "brinavess"
+      ],
+      "url": "/drugs/vernakalant-hydrochloride/"
+    },
+    {
+      "slug": "vestronidase-alfa",
+      "name": "Vestronidase Alfa",
+      "keywords": [
+        "vestronidase alfa",
+        "mepsevii"
+      ],
+      "url": "/drugs/vestronidase-alfa/"
+    },
+    {
+      "slug": "vibegron",
+      "name": "Vibegron",
+      "keywords": [
+        "vibegron",
+        "obgemsa"
+      ],
+      "url": "/drugs/vibegron/"
+    },
+    {
+      "slug": "vigabatrin",
+      "name": "Vigabatrin",
+      "keywords": [
+        "vigabatrin",
+        "kigabeq"
+      ],
+      "url": "/drugs/vigabatrin/"
+    },
+    {
+      "slug": "vilanterol",
+      "name": "Vilanterol",
+      "keywords": [
+        "vilanterol"
+      ],
+      "url": "/drugs/vilanterol/"
+    },
+    {
+      "slug": "vildagliptin",
+      "name": "Vildagliptin",
+      "keywords": [
+        "vildagliptin",
+        "galvus"
+      ],
+      "url": "/drugs/vildagliptin/"
+    },
+    {
+      "slug": "vinflunine",
+      "name": "Vinflunine",
+      "keywords": [
+        "vinflunine",
+        "javlor"
+      ],
+      "url": "/drugs/vinflunine/"
+    },
+    {
+      "slug": "vismodegib",
+      "name": "Vismodegib",
+      "keywords": [
+        "vismodegib",
+        "erivedge"
+      ],
+      "url": "/drugs/vismodegib/"
+    },
+    {
+      "slug": "voclosporin",
+      "name": "Voclosporin",
+      "keywords": [
+        "voclosporin",
+        "lupkynis"
+      ],
+      "url": "/drugs/voclosporin/"
+    },
+    {
+      "slug": "volanesorsen-sodium",
+      "name": "Volanesorsen Sodium",
+      "keywords": [
+        "volanesorsen sodium",
+        "waylivra"
+      ],
+      "url": "/drugs/volanesorsen-sodium/"
+    },
+    {
+      "slug": "vonicog-alfa",
+      "name": "Vonicog Alfa",
+      "keywords": [
+        "vonicog alfa",
+        "veyvondi"
+      ],
+      "url": "/drugs/vonicog-alfa/"
+    },
+    {
+      "slug": "voretigene-neparvovec",
+      "name": "Voretigene Neparvovec",
+      "keywords": [
+        "voretigene neparvovec",
+        "luxturna"
+      ],
+      "url": "/drugs/voretigene-neparvovec/"
+    },
+    {
+      "slug": "voriconazole",
+      "name": "Voriconazole",
+      "keywords": [
+        "voriconazole",
+        "voriconazole accord"
+      ],
+      "url": "/drugs/voriconazole/"
+    },
+    {
+      "slug": "vortioxetine",
+      "name": "Vortioxetine",
+      "keywords": [
+        "vortioxetine",
+        "brintellix"
+      ],
+      "url": "/drugs/vortioxetine/"
+    },
+    {
+      "slug": "zanamivir",
+      "name": "Zanamivir",
+      "keywords": [
+        "zanamivir",
+        "dectova"
+      ],
+      "url": "/drugs/zanamivir/"
+    },
+    {
+      "slug": "zanubrutinib",
+      "name": "Zanubrutinib",
+      "keywords": [
+        "zanubrutinib",
+        "brukinsa"
+      ],
+      "url": "/drugs/zanubrutinib/"
+    },
+    {
+      "slug": "ziconotide",
+      "name": "Ziconotide",
+      "keywords": [
+        "ziconotide",
+        "prialt"
+      ],
+      "url": "/drugs/ziconotide/"
+    },
+    {
+      "slug": "zidovudine",
+      "name": "Zidovudine",
+      "keywords": [
+        "zidovudine"
+      ],
+      "url": "/drugs/zidovudine/"
+    },
+    {
+      "slug": "zinc",
+      "name": "Zinc",
+      "keywords": [
+        "zinc",
+        "wilzin"
+      ],
+      "url": "/drugs/zinc/"
+    },
+    {
+      "slug": "zolbetuximab",
+      "name": "Zolbetuximab",
+      "keywords": [
+        "zolbetuximab",
+        "vyloy"
+      ],
+      "url": "/drugs/zolbetuximab/"
+    },
+    {
+      "slug": "zoledronic-acid",
+      "name": "Zoledronic Acid",
+      "keywords": [
+        "zoledronic acid",
+        "zometa"
+      ],
+      "url": "/drugs/zoledronic-acid/"
+    },
+    {
+      "slug": "zoledronic-acid-monohydrate",
+      "name": "Zoledronic Acid Monohydrate",
+      "keywords": [
+        "zoledronic acid monohydrate",
+        "zoledronic acid medac"
+      ],
+      "url": "/drugs/zoledronic-acid-monohydrate/"
+    },
+    {
+      "slug": "zonisamide",
+      "name": "Zonisamide",
+      "keywords": [
+        "zonisamide",
+        "zonegran"
+      ],
+      "url": "/drugs/zonisamide/"
+    }
+  ],
+  "indications": [
+    {
+      "name": "diabetes mellitus",
+      "keywords": [
+        "diabetes mellitus",
+        "diabetes",
+        "type 2 diabetes",
+        "type 1 diabetes",
+        "diabetic",
+        "Diabetes mellitus",
+        "Zuckerkrankheit",
+        "diabète",
+        "diabete"
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab",
+        "besilesomab",
+        "bimekizumab",
+        "blinatumomab",
+        "burosumab",
+        "cabotegravir",
+        "canagliflozin",
+        "catumaxomab",
+        "chenodeoxycholic-acid",
+        "colesevelam-as-hydrochloride",
+        "concizumab",
+        "damoctocog-alfa-pegol",
+        "dapagliflozin",
+        "denosumab",
+        "diroximel-fumarate-biib098",
+        "dulaglutide",
+        "empagliflozin",
+        "eravacycline",
+        "evinacumab",
+        "faricimab",
+        "ferric-maltol",
+        "glimepiride",
+        "glucarpidase",
+        "guselkumab",
+        "imlifidase",
+        "inebilizumab",
+        "inotuzumab-ozogamicin",
+        "insulin-aspart",
+        "insulin-degludec",
+        "insulin-detemir",
+        "insulin-glargine",
+        "insulin-glulisine",
+        "insulin-human",
+        "insulin-lispro",
+        "irbesartan",
+        "lebrikizumab",
+        "lecanemab",
+        "linagliptin",
+        "lipegfilgrastim",
+        "liraglutide",
+        "lixisenatide",
+        "maribavir",
+        "metformin",
+        "methoxy-polyethylene-glycol-epoetin-beta",
+        "mifamurtide",
+        "natalizumab",
+        "nemolizumab",
+        "nonacog-beta-pegol",
+        "onasemnogene-abeparvovec",
+        "panitumumab",
+        "pegfilgrastim",
+        "pegvaliase",
+        "pioglitazone",
+        "prasterone",
+        "ranibizumab",
+        "repaglinide",
+        "risankizumab",
+        "romosozumab",
+        "sacituzumab-govitecan",
+        "sacubitril",
+        "sargramostim",
+        "saxagliptin",
+        "semaglutide",
+        "sitagliptin",
+        "sitagliptin-hydrochloride",
+        "somapacitan",
+        "sotatercept",
+        "sufentanil-citrate",
+        "tafasitamab",
+        "teplizumab",
+        "tezepelumab",
+        "tildrakizumab",
+        "tralokinumab",
+        "trastuzumab-deruxtecan",
+        "tremelimumab",
+        "treosulfan",
+        "ublituximab",
+        "ustekinumab",
+        "vedolizumab",
+        "vildagliptin",
+        "voclosporin",
+        "zolbetuximab"
+      ]
+    },
+    {
+      "name": "hypertension",
+      "keywords": [
+        "hypertension",
+        "high blood pressure",
+        "arterial hypertension",
+        "elevated blood pressure",
+        "Bluthochdruck",
+        "hypertension artérielle",
+        "hipertensión",
+        "ipertensione"
+      ],
+      "related_drugs": [
+        "abiraterone-acetate",
+        "aliskiren",
+        "alpelisib",
+        "ambrisentan",
+        "amlodipine",
+        "apixaban",
+        "apremilast",
+        "aprepitant",
+        "azilsartan-medoxomil",
+        "bosentan-as-monohydrate",
+        "cinacalcet-hydrochloride",
+        "colistimethate-sodium",
+        "corifollitropin-alfa",
+        "dacomitinib-monohydrate",
+        "deferiprone",
+        "dexmedetomidine-hydrochloride",
+        "elexacaftor",
+        "enalapril-maleate",
+        "entrectinib",
+        "erdafitinib",
+        "febuxostat",
+        "florbetaben-18f",
+        "givosiran",
+        "hydrochlorothiazide",
+        "idebenone",
+        "iloprost",
+        "irbesartan",
+        "isavuconazole",
+        "ivabradine-hydrochloride",
+        "lonafarnib",
+        "lumacaftor",
+        "macitentan",
+        "memantine-hydrochloride",
+        "mexiletine-hydrochloride",
+        "migalastat-hydrochloride",
+        "netupitant",
+        "nitric-oxide",
+        "ospemifene",
+        "parecoxib-sodium",
+        "prasugrel",
+        "rasburicase",
+        "riociguat",
+        "roflumilast",
+        "selexipag",
+        "selpercatinib",
+        "spironolactone",
+        "tadalafil",
+        "telmisartan",
+        "thyrotropin-alfa",
+        "timolol",
+        "treprostinil-sodium",
+        "tucatinib",
+        "valsartan",
+        "varenicline",
+        "voretigene-neparvovec"
+      ]
+    },
+    {
+      "name": "cancer",
+      "keywords": [
+        "cancer",
+        "carcinoma",
+        "tumor",
+        "tumour",
+        "malignancy",
+        "oncology",
+        "neoplasm",
+        "Krebs",
+        "Tumor",
+        "cancer",
+        "cancro"
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride",
+        "alemtuzumab",
+        "aliskiren",
+        "amlodipine",
+        "anagrelide",
+        "anidulafungin",
+        "apalutamide",
+        "arsenic-trioxide",
+        "atazanavir-as-sulfate",
+        "atezolizumab",
+        "avanafil",
+        "avelumab",
+        "avibactam",
+        "axicabtagene-ciloleucel",
+        "axitinib",
+        "azacitidine",
+        "azilsartan-medoxomil",
+        "aztreonam",
+        "baloxavir-marboxil",
+        "baricitinib",
+        "basiliximab",
+        "belatacept",
+        "bempedoic-acid",
+        "bevacizumab",
+        "bexarotene",
+        "binimetinib",
+        "bortezomib",
+        "bosutinib-as-monohydrate",
+        "brentuximab-vedotin",
+        "brigatinib",
+        "cabazitaxel",
+        "cabozantinib",
+        "capecitabine",
+        "carfilzomib",
+        "carmustine",
+        "catumaxomab",
+        "cemiplimab",
+        "ceritinib",
+        "cetuximab",
+        "cilastatin",
+        "cinacalcet-hydrochloride",
+        "cladribine",
+        "clofarabine",
+        "crizotinib",
+        "cytarabine",
+        "damoctocog-alfa-pegol",
+        "daratumumab",
+        "darbepoetin-alfa",
+        "darolutamide",
+        "darunavir",
+        "dasatinib-monohydrate",
+        "daunorubicin",
+        "decitabine",
+        "deferasirox",
+        "dimethyl-fumarate",
+        "docetaxel",
+        "doravirine",
+        "doxorubicin-hydrochloride",
+        "durvalumab",
+        "duvelisib",
+        "efavirenz",
+        "eflornithine",
+        "elacestrant",
+        "elafibranor",
+        "eliglustat-tartrate",
+        "elotuzumab",
+        "eltrombopag",
+        "enalapril-maleate",
+        "encorafenib",
+        "enfortumab-vedotin",
+        "enfuvirtide",
+        "entrectinib",
+        "enzalutamide",
+        "eptifibatide",
+        "eravacycline",
+        "eribulin",
+        "erlotinib",
+        "etravirine",
+        "everolimus",
+        "faricimab",
+        "filgotinib-maleate",
+        "fingolimod",
+        "florbetapir-18f",
+        "gefitinib",
+        "gemtuzumab-ozogamicin",
+        "gilteritinib-fumarate",
+        "gimeracil",
+        "glasdegib-maleate",
+        "hydrochlorothiazide",
+        "ibrutinib",
+        "idelalisib",
+        "imatinib",
+        "imiglucerase",
+        "imipenem",
+        "imiquimod",
+        "inebilizumab",
+        "inotuzumab-ozogamicin",
+        "interferon-beta-1b",
+        "ipilimumab",
+        "irbesartan",
+        "isatuximab",
+        "ivosidenib",
+        "ixazomib-citrate",
+        "ixekizumab",
+        "lapatinib",
+        "larotrectinib-sulfate",
+        "lebrikizumab",
+        "lefamulin-acetate",
+        "leflunomide",
+        "lenalidomide",
+        "letermovir",
+        "levofloxacin",
+        "lorlatinib",
+        "mannitol",
+        "maraviroc",
+        "maribavir",
+        "melphalan-hydrochloride",
+        "methotrexate",
+        "methoxy-polyethylene-glycol-epoetin-beta",
+        "methylnaltrexone-bromide",
+        "metreleptin",
+        "micafungin",
+        "midostaurin",
+        "miglustat",
+        "mogamulizumab",
+        "mometasone",
+        "nelarabine",
+        "neratinib",
+        "nevirapine",
+        "nilotinib",
+        "nintedanib",
+        "niraparib-tosilate-monohydrate",
+        "nivolumab",
+        "nomegestrol-acetate",
+        "obinutuzumab",
+        "ocrelizumab",
+        "ofatumumab",
+        "olaparib",
+        "omalizumab",
+        "onasemnogene-abeparvovec",
+        "osilodrostat-phosphate",
+        "oteracil",
+        "ozanimod-hydrochloride",
+        "paclitaxel",
+        "palbociclib",
+        "palivizumab",
+        "pazopanib",
+        "pegaspargase",
+        "peginterferon-beta-1a",
+        "pegvisomant",
+        "pembrolizumab",
+        "pemetrexed",
+        "pemigatinib",
+        "pertuzumab",
+        "pirfenidone",
+        "plerixafor",
+        "polatuzumab-vedotin",
+        "pomalidomide",
+        "ponatinib",
+        "propranolol-hydrochloride",
+        "ramucirumab",
+        "regorafenib",
+        "relebactam",
+        "ribociclib-succinate",
+        "ripretinib",
+        "risdiplam",
+        "rituximab",
+        "roflumilast",
+        "roxadustat",
+        "rozanolixizumab",
+        "rufinamide",
+        "ruxolitinib-phosphate",
+        "sargramostim",
+        "secukinumab",
+        "selinexor",
+        "selumetinib-sulfate",
+        "siltuximab",
+        "sirolimus",
+        "sorafenib",
+        "sotatercept",
+        "spironolactone",
+        "stiripentol",
+        "sufentanil-citrate",
+        "sugammadex-sodium",
+        "sunitinib",
+        "tafasitamab",
+        "tagraxofusp",
+        "talazoparib",
+        "talimogene-laherparepvec",
+        "tasonermin",
+        "tecovirimat",
+        "tegafur",
+        "temoporfin",
+        "temozolomide",
+        "temsirolimus",
+        "tenofovir-disoproxil",
+        "tezacaftor",
+        "thalidomide",
+        "thiotepa",
+        "tigecycline",
+        "timolol",
+        "tipiracil",
+        "tipranavir",
+        "tisagenlecleucel",
+        "tivozanib",
+        "tocofersolan",
+        "tofacitinib",
+        "topotecan",
+        "toremifene",
+        "trabectedin",
+        "trametinib",
+        "trastuzumab",
+        "trastuzumab-deruxtecan",
+        "trastuzumab-emtansine",
+        "trifluridine",
+        "valsartan",
+        "vandetanib",
+        "vardenafil",
+        "vemurafenib",
+        "venetoclax",
+        "vilanterol",
+        "vismodegib",
+        "zanubrutinib",
+        "zidovudine",
+        "zoledronic-acid"
+      ]
+    },
+    {
+      "name": "heart disease",
+      "keywords": [
+        "heart disease",
+        "cardiovascular disease",
+        "coronary heart disease",
+        "cardiac disease",
+        "heart failure",
+        "Herzerkrankung",
+        "maladie cardiaque",
+        "cardiopatía",
+        "malattia cardiaca"
+      ],
+      "related_drugs": [
+        "abemaciclib",
+        "abiraterone-acetate",
+        "aliskiren",
+        "alpelisib",
+        "amlodipine",
+        "apixaban",
+        "apremilast",
+        "aprepitant",
+        "atosiban-as-acetate",
+        "azilsartan-medoxomil",
+        "belatacept",
+        "bosentan-as-monohydrate",
+        "cangrelor",
+        "capsaicin",
+        "clopidogrel",
+        "colesevelam-as-hydrochloride",
+        "corifollitropin-alfa",
+        "dacomitinib-monohydrate",
+        "dalbavancin-hydrochloride",
+        "enalapril-maleate",
+        "erdafitinib",
+        "florbetaben-18f",
+        "hydrochlorothiazide",
+        "icosapent-ethyl",
+        "irbesartan",
+        "isavuconazole",
+        "ivabradine-hydrochloride",
+        "laronidase",
+        "lonafarnib",
+        "lumacaftor",
+        "macimorelin-acetate",
+        "mannitol",
+        "memantine-hydrochloride",
+        "netupitant",
+        "ospemifene",
+        "palbociclib",
+        "parecoxib-sodium",
+        "perflutren",
+        "prasugrel",
+        "pretomanid",
+        "propranolol-hydrochloride",
+        "remdesivir",
+        "reteplase",
+        "rimegepant",
+        "roflumilast",
+        "selpercatinib",
+        "sugammadex-sodium",
+        "tadalafil",
+        "telmisartan",
+        "tenecteplase",
+        "thyrotropin-alfa",
+        "timolol",
+        "tobramycin",
+        "travoprost",
+        "tucatinib",
+        "valsartan",
+        "zonisamide"
+      ]
+    },
+    {
+      "name": "asthma",
+      "keywords": [
+        "asthma",
+        "bronchial asthma",
+        "asthmatic",
+        "Asthma bronchiale",
+        "asthme",
+        "asma"
+      ],
+      "related_drugs": [
+        "aztreonam",
+        "baricitinib",
+        "basiliximab",
+        "belatacept",
+        "bosutinib-as-monohydrate",
+        "budesonide",
+        "carfilzomib",
+        "ceftolozane",
+        "cetuximab",
+        "damoctocog-alfa-pegol",
+        "daratumumab",
+        "drospirenone",
+        "elotuzumab",
+        "epinephrine",
+        "faricimab",
+        "fluticasone-furoate",
+        "fluticasone-propionate",
+        "indacaterol-maleate",
+        "inebilizumab",
+        "isatuximab",
+        "ixazomib-citrate",
+        "ketoconazole",
+        "lefamulin-acetate",
+        "leflunomide",
+        "methylnaltrexone-bromide",
+        "micafungin",
+        "mirvetuximab-soravtansine",
+        "nomegestrol-acetate",
+        "norethisterone",
+        "omalizumab",
+        "onasemnogene-abeparvovec",
+        "oritavancin-diphosphate",
+        "plerixafor",
+        "pomalidomide",
+        "prilocaine",
+        "regadenoson",
+        "risdiplam",
+        "rozanolixizumab",
+        "sarilumab",
+        "somapacitan",
+        "tagraxofusp",
+        "tazobactam",
+        "thalidomide",
+        "tofacitinib",
+        "trastuzumab-deruxtecan",
+        "upadacitinib",
+        "vilanterol"
+      ]
+    },
+    {
+      "name": "depression",
+      "keywords": [
+        "depression",
+        "major depression",
+        "depressive disorder",
+        "clinical depression",
+        "Depression",
+        "dépression",
+        "depresión",
+        "depressione"
+      ],
+      "related_drugs": [
+        "agomelatine",
+        "brexpiprazole",
+        "duloxetine-hydrochloride",
+        "esketamine-hydrochloride",
+        "olanzapine",
+        "tasimelteon",
+        "vortioxetine"
+      ]
+    },
+    {
+      "name": "arthritis",
+      "keywords": [
+        "arthritis",
+        "rheumatoid arthritis",
+        "osteoarthritis",
+        "joint inflammation",
+        "Arthritis",
+        "Gelenkentzündung",
+        "arthrite",
+        "artritis",
+        "artrite"
+      ],
+      "related_drugs": [
+        "abatacept",
+        "abemaciclib",
+        "abiraterone-acetate",
+        "adalimumab",
+        "alpelisib",
+        "anagrelide",
+        "anakinra",
+        "apixaban",
+        "apremilast",
+        "artenimol",
+        "artesunate",
+        "axicabtagene-ciloleucel",
+        "azathioprine",
+        "baricitinib",
+        "bosentan-as-monohydrate",
+        "cabazitaxel",
+        "cabotegravir",
+        "ceftaroline-fosamil",
+        "certolizumab-pegol",
+        "cilastatin",
+        "clopidogrel-as-hydrochloride",
+        "colistimethate-sodium",
+        "dacomitinib-monohydrate",
+        "daptomycin",
+        "diflunisal",
+        "drospirenone",
+        "elexacaftor",
+        "eltrombopag",
+        "eptifibatide",
+        "eravacycline",
+        "erdafitinib",
+        "ertapenem-sodium",
+        "etanercept",
+        "florbetaben-18f",
+        "florbetapir-18f",
+        "fulvestrant",
+        "golimumab",
+        "ibuprofen",
+        "icosapent-ethyl",
+        "idarucizumab",
+        "imipenem",
+        "infliximab",
+        "isavuconazole",
+        "ivacaftor",
+        "ixekizumab",
+        "leflunomide",
+        "lonafarnib",
+        "lumacaftor",
+        "memantine-hydrochloride",
+        "meropenem",
+        "methotrexate",
+        "nomegestrol-acetate",
+        "ospemifene",
+        "palbociclib",
+        "parecoxib-sodium",
+        "prasugrel",
+        "pregabalin",
+        "ranolazine",
+        "rivaroxaban",
+        "sacubitril",
+        "sarilumab",
+        "tacrolimus",
+        "tazobactam",
+        "tezacaftor",
+        "thalidomide",
+        "tirzepatide",
+        "tisagenlecleucel",
+        "tocilizumab",
+        "tofacitinib",
+        "tucatinib",
+        "ulipristal",
+        "upadacitinib",
+        "vaborbactam"
+      ]
+    },
+    {
+      "name": "stroke",
+      "keywords": [
+        "stroke",
+        "cerebrovascular accident",
+        "CVA",
+        "ischemic stroke",
+        "hemorrhagic stroke",
+        "Schlaganfall",
+        "accident vasculaire cérébral",
+        "AVC",
+        "ictus",
+        "apoplessia"
+      ],
+      "related_drugs": [
+        "aliskiren",
+        "amlodipine",
+        "avanafil",
+        "azilsartan-medoxomil",
+        "dronedarone",
+        "orlistat",
+        "raloxifene-hydrochloride",
+        "simvastatin",
+        "telmisartan",
+        "vardenafil",
+        "vernakalant-hydrochloride"
+      ]
+    },
+    {
+      "name": "obesity",
+      "keywords": [
+        "obesity",
+        "overweight",
+        "adiposity",
+        "morbid obesity",
+        "Adipositas",
+        "Fettleibigkeit",
+        "obésité",
+        "obesidad",
+        "obesità"
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone",
+        "orlistat",
+        "vernakalant-hydrochloride",
+        "ziconotide"
+      ]
+    },
+    {
+      "name": "alzheimer disease",
+      "keywords": [
+        "alzheimer disease",
+        "Alzheimer's",
+        "Alzheimer dementia",
+        "dementia",
+        "Alzheimer-Krankheit",
+        "maladie d'Alzheimer",
+        "enfermedad de Alzheimer",
+        "malattia di Alzheimer"
+      ],
+      "related_drugs": [
+        "alectinib-hydrochloride",
+        "brigatinib",
+        "carbidopa",
+        "ceritinib",
+        "crizotinib",
+        "dasatinib-monohydrate",
+        "entacapone",
+        "erlotinib",
+        "gefitinib",
+        "levodopa",
+        "lorlatinib",
+        "opicapone",
+        "pembrolizumab",
+        "ponatinib",
+        "rasagiline",
+        "tolcapone"
+      ]
+    },
+    {
+      "name": "multiple sclerosis",
+      "keywords": [
+        "multiple sclerosis",
+        "MS",
+        "disseminated sclerosis",
+        "Multiple Sklerose",
+        "sclérose en plaques",
+        "esclerosis múltiple",
+        "sclerosi multipla"
+      ],
+      "related_drugs": [
+        "alemtuzumab",
+        "asenapine-maleate",
+        "belatacept",
+        "cariprazine-hydrochloride",
+        "cladribine",
+        "dimethyl-fumarate",
+        "elbasvir",
+        "fingolimod",
+        "glecaprevir",
+        "grazoprevir",
+        "interferon-beta-1a",
+        "interferon-beta-1b",
+        "ledipasvir",
+        "loxapine",
+        "lurasidone",
+        "mycophenolate-mofetil",
+        "nelarabine",
+        "ozanimod-hydrochloride",
+        "peginterferon-alfa-2a",
+        "peginterferon-beta-1a",
+        "pibrentasvir",
+        "rotigotine",
+        "rufinamide",
+        "sofosbuvir",
+        "teriflunomide",
+        "velpatasvir"
+      ]
+    },
+    {
+      "name": "parkinson disease",
+      "keywords": [
+        "parkinson disease",
+        "Parkinson's",
+        "parkinsonism",
+        "Parkinson-Krankheit",
+        "maladie de Parkinson",
+        "enfermedad de Parkinson",
+        "morbo di Parkinson"
+      ],
+      "related_drugs": [
+        "botulinum-toxin-type-a",
+        "carbidopa",
+        "entacapone",
+        "levodopa",
+        "opicapone",
+        "rasagiline",
+        "tolcapone"
+      ]
+    },
+    {
+      "name": "epilepsy",
+      "keywords": [
+        "epilepsy",
+        "seizure disorder",
+        "convulsions",
+        "Epilepsie",
+        "épilepsie",
+        "epilepsia"
+      ],
+      "related_drugs": [
+        "brivaracetam",
+        "cenobamate",
+        "cerliponase-alfa",
+        "dostarlimab",
+        "eslicarbazepine-acetate",
+        "levetiracetam",
+        "nusinersen-sodium",
+        "perampanel",
+        "rufinamide",
+        "zonisamide"
+      ]
+    },
+    {
+      "name": "migraine",
+      "keywords": [
+        "migraine",
+        "migraine headache",
+        "Migräne",
+        "migraine",
+        "migraña",
+        "emicrania"
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "abiraterone-acetate",
+        "acetylsalicylic-acid",
+        "aclidinium-bromide",
+        "alpelisib",
+        "apixaban",
+        "apremilast",
+        "atropine-sulfate",
+        "caffeine-citrate",
+        "clascoterone",
+        "clopidogrel-as-hydrochloride",
+        "corifollitropin-alfa",
+        "dexmedetomidine-hydrochloride",
+        "elexacaftor",
+        "eptinezumab",
+        "erenumab",
+        "fentanyl",
+        "florbetaben-18f",
+        "fluciclovine-18f",
+        "fremanezumab",
+        "galcanezumab",
+        "glycopyrronium",
+        "inclisiran",
+        "isavuconazole",
+        "lacosamide",
+        "lasmiditan-succinate",
+        "lumacaftor",
+        "melatonin",
+        "memantine-hydrochloride",
+        "mexiletine-hydrochloride",
+        "netupitant",
+        "ospemifene",
+        "palonosetron-hydrochloride",
+        "parathyroid-hormone",
+        "parecoxib-sodium",
+        "prasugrel",
+        "pregabalin",
+        "prilocaine",
+        "regadenoson",
+        "rimegepant",
+        "selpercatinib",
+        "setmelanotide",
+        "tadalafil",
+        "thyrotropin-alfa",
+        "tiratricol",
+        "tucatinib",
+        "umeclidinium-bromide",
+        "varenicline",
+        "ziconotide"
+      ]
+    },
+    {
+      "name": "psoriasis",
+      "keywords": [
+        "psoriasis",
+        "plaque psoriasis",
+        "Schuppenflechte",
+        "psoriasis",
+        "soriasi"
+      ],
+      "related_drugs": [
+        "blinatumomab",
+        "darbepoetin-alfa",
+        "guselkumab",
+        "inebilizumab",
+        "lebrikizumab",
+        "natalizumab",
+        "ozanimod-hydrochloride",
+        "risankizumab",
+        "tacrolimus",
+        "tafasitamab",
+        "ustekinumab"
+      ]
+    },
+    {
+      "name": "crohn disease",
+      "keywords": [
+        "crohn disease",
+        "Crohn's disease",
+        "regional enteritis",
+        "Morbus Crohn",
+        "maladie de Crohn",
+        "enfermedad de Crohn",
+        "malattia di Crohn"
+      ],
+      "related_drugs": [
+        "sarilumab"
+      ]
+    },
+    {
+      "name": "ulcerative colitis",
+      "keywords": [
+        "ulcerative colitis",
+        "colitis ulcerosa",
+        "Colitis ulcerosa",
+        "rectocolite hémorragique",
+        "colitis ulcerosa",
+        "colite ulcerosa"
+      ],
+      "related_drugs": [
+        "azathioprine",
+        "golimumab",
+        "guselkumab",
+        "inebilizumab"
+      ]
+    },
+    {
+      "name": "hepatitis",
+      "keywords": [
+        "hepatitis",
+        "liver inflammation",
+        "viral hepatitis",
+        "hepatitis B",
+        "hepatitis C",
+        "Hepatitis",
+        "hépatite",
+        "epatite"
+      ],
+      "related_drugs": [
+        "abacavir",
+        "baloxavir-marboxil",
+        "bictegravir",
+        "cobicistat",
+        "deferasirox",
+        "dolutegravir",
+        "elbasvir",
+        "elvitegravir",
+        "emtricitabine",
+        "entecavir",
+        "givosiran",
+        "glecaprevir",
+        "grazoprevir",
+        "lamivudine",
+        "ledipasvir",
+        "lopinavir",
+        "peginterferon-alfa-2a",
+        "pibrentasvir",
+        "rilpivirine-hydrochloride",
+        "ritonavir",
+        "sofosbuvir",
+        "tenofovir-alafenamide",
+        "tenofovir-disoproxil",
+        "teriflunomide",
+        "velpatasvir"
+      ]
+    },
+    {
+      "name": "chronic kidney disease",
+      "keywords": [
+        "chronic kidney disease",
+        "CKD",
+        "renal failure",
+        "kidney failure",
+        "chronische Nierenerkrankung",
+        "maladie rénale chronique",
+        "enfermedad renal crónica"
+      ],
+      "related_drugs": [
+        "alirocumab"
+      ]
+    },
+    {
+      "name": "copd",
+      "keywords": [
+        "copd",
+        "chronic obstructive pulmonary disease",
+        "emphysema",
+        "chronic bronchitis",
+        "COPD",
+        "BPCO",
+        "EPOC"
+      ],
+      "related_drugs": [
+        "basiliximab",
+        "botulinum-toxin-type-a",
+        "budesonide",
+        "cabotegravir",
+        "cilastatin",
+        "dexrazoxane-hydrochloride",
+        "dupilumab",
+        "epinephrine",
+        "eravacycline",
+        "florbetapir-18f",
+        "fluticasone-furoate",
+        "granisetron",
+        "idarucizumab",
+        "maribavir",
+        "methylthioninium-chloride",
+        "natalizumab",
+        "omalizumab",
+        "onasemnogene-abeparvovec",
+        "plerixafor",
+        "prilocaine",
+        "rozanolixizumab",
+        "sarilumab",
+        "tedizolid",
+        "trastuzumab-deruxtecan",
+        "vedolizumab",
+        "vilanterol"
+      ]
+    },
+    {
+      "name": "atrial fibrillation",
+      "keywords": [
+        "atrial fibrillation",
+        "AFib",
+        "AF",
+        "irregular heartbeat",
+        "Vorhofflimmern",
+        "fibrillation auriculaire",
+        "fibrilación auricular"
+      ],
+      "related_drugs": [
+        "aprepitant",
+        "aripiprazole",
+        "asenapine-maleate",
+        "bimatoprost",
+        "cetrorelix-as-acetate",
+        "degarelix",
+        "dostarlimab",
+        "dronedarone",
+        "eflornithine",
+        "elafibranor",
+        "eliglustat-tartrate",
+        "fentanyl",
+        "ganirelix-acetate",
+        "granisetron",
+        "guanfacine-hydrochloride",
+        "ivabradine-hydrochloride",
+        "lacosamide",
+        "loxapine",
+        "lurasidone",
+        "macimorelin-acetate",
+        "metreleptin",
+        "mexiletine-hydrochloride",
+        "mycophenolate-mofetil",
+        "nitric-oxide",
+        "olanzapine",
+        "osilodrostat-phosphate",
+        "pasireotide",
+        "posaconazole",
+        "prilocaine",
+        "riociguat",
+        "risperidone",
+        "selumetinib-sulfate",
+        "sildenafil",
+        "silodosin",
+        "tadalafil",
+        "vardenafil",
+        "vernakalant-hydrochloride",
+        "voriconazole",
+        "zonisamide"
+      ]
+    }
+  ]
+}
