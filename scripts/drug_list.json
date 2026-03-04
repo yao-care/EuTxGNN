@@ -1,0 +1,4500 @@
+{
+  "total": 642,
+  "generated_at": "2026-03-04T12:12:47.427637",
+  "drugs": [
+    {
+      "name": "Abacavir",
+      "file": "abacavir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Abaloparatide",
+      "file": "abaloparatide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "non-syndromic esophageal malformation"
+    },
+    {
+      "name": "Abatacept",
+      "file": "abatacept.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid vasculitis"
+    },
+    {
+      "name": "Abemaciclib",
+      "file": "abemaciclib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Abiraterone Acetate",
+      "file": "abiraterone-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Acalabrutinib",
+      "file": "acalabrutinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "mantle cell lymphoma"
+    },
+    {
+      "name": "Acetylsalicylic Acid",
+      "file": "acetylsalicylic-acid.md",
+      "evidence_level": "L5",
+      "indication_count": 54,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Aclidinium Bromide",
+      "file": "aclidinium-bromide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "open-angle glaucoma"
+    },
+    {
+      "name": "Adalimumab",
+      "file": "adalimumab.md",
+      "evidence_level": "L5",
+      "indication_count": 61,
+      "predicted_indication": "ankylosing spondylitis"
+    },
+    {
+      "name": "Afamelanotide",
+      "file": "afamelanotide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "X-linked erythropoietic protoporphyria"
+    },
+    {
+      "name": "Afatinib",
+      "file": "afatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HER2 positive breast carcinoma"
+    },
+    {
+      "name": "Aflibercept",
+      "file": "aflibercept.md",
+      "evidence_level": "L5",
+      "indication_count": 54,
+      "predicted_indication": "esotropia"
+    },
+    {
+      "name": "Agalsidase Beta",
+      "file": "agalsidase-beta.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "cervical neuroblastoma"
+    },
+    {
+      "name": "Agomelatine",
+      "file": "agomelatine.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "anxiety disorder"
+    },
+    {
+      "name": "Albutrepenonacog Alfa",
+      "file": "albutrepenonacog-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pseudo-von Willebrand disease"
+    },
+    {
+      "name": "Alectinib Hydrochloride",
+      "file": "alectinib-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "fibromatosis, gingival"
+    },
+    {
+      "name": "Alemtuzumab",
+      "file": "alemtuzumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "relapsing-remitting multiple sclerosis"
+    },
+    {
+      "name": "Alendronic Acid",
+      "file": "alendronic-acid.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bone Paget disease"
+    },
+    {
+      "name": "Alglucosidase Alfa",
+      "file": "alglucosidase-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "adult polyglucosan body disease"
+    },
+    {
+      "name": "Alirocumab",
+      "file": "alirocumab.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "ichthyosis, X-linked, without steroid sulfatase deficiency"
+    },
+    {
+      "name": "Aliskiren",
+      "file": "aliskiren.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "hypertensive disorder"
+    },
+    {
+      "name": "Alogliptin",
+      "file": "alogliptin.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "classic stiff person syndrome"
+    },
+    {
+      "name": "Alpelisib",
+      "file": "alpelisib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary hypertension"
+    },
+    {
+      "name": "Ambrisentan",
+      "file": "ambrisentan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary arteriovenous malformation (disease)"
+    },
+    {
+      "name": "Amifampridine Phosphate",
+      "file": "amifampridine-phosphate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "glaucoma"
+    },
+    {
+      "name": "Amikacin Sulfate",
+      "file": "amikacin-sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "paratyphoid fever"
+    },
+    {
+      "name": "Amlodipine",
+      "file": "amlodipine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "obsolete susceptibility to ischemic stroke"
+    },
+    {
+      "name": "Anagrelide",
+      "file": "anagrelide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "familial thrombocytosis"
+    },
+    {
+      "name": "Anakinra",
+      "file": "anakinra.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "extracutaneous mastocytoma"
+    },
+    {
+      "name": "Andexanet Alfa",
+      "file": "andexanet-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Glanzmann thrombasthenia"
+    },
+    {
+      "name": "Angiotensin Ii Acetate",
+      "file": "angiotensin-ii-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"
+    },
+    {
+      "name": "Anidulafungin",
+      "file": "anidulafungin.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "impetigo"
+    },
+    {
+      "name": "Anifrolumab",
+      "file": "anifrolumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Apalutamide",
+      "file": "apalutamide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "prostate cancer/brain cancer susceptibility"
+    },
+    {
+      "name": "Apixaban",
+      "file": "apixaban.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Apremilast",
+      "file": "apremilast.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Aprepitant",
+      "file": "aprepitant.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Aripiprazole",
+      "file": "aripiprazole.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "manic bipolar affective disorder"
+    },
+    {
+      "name": "Arsenic Trioxide",
+      "file": "arsenic-trioxide.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "unclassified myelodysplastic syndrome"
+    },
+    {
+      "name": "Artenimol",
+      "file": "artenimol.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "malaria"
+    },
+    {
+      "name": "Artesunate",
+      "file": "artesunate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "malaria"
+    },
+    {
+      "name": "Asenapine Maleate",
+      "file": "asenapine-maleate.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "manic bipolar affective disorder"
+    },
+    {
+      "name": "Asfotase Alfa",
+      "file": "asfotase-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"
+    },
+    {
+      "name": "Atazanavir (As Sulfate)",
+      "file": "atazanavir-as-sulfate.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Atezolizumab",
+      "file": "atezolizumab.md",
+      "evidence_level": "L3",
+      "indication_count": 50,
+      "predicted_indication": "prostatic urethra urothelial carcinoma"
+    },
+    {
+      "name": "Atosiban (As Acetate)",
+      "file": "atosiban-as-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary hereditary glaucoma"
+    },
+    {
+      "name": "Atropine Sulfate",
+      "file": "atropine-sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Avanafil",
+      "file": "avanafil.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "amenorrhea (disease)"
+    },
+    {
+      "name": "Avapritinib",
+      "file": "avapritinib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "axial spondylometaphyseal dysplasia"
+    },
+    {
+      "name": "Avatrombopag Maleate",
+      "file": "avatrombopag-maleate.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "marcothrombocytopenia with mitral valve insufficiency"
+    },
+    {
+      "name": "Avelumab",
+      "file": "avelumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "human herpesvirus 8-related tumor"
+    },
+    {
+      "name": "Avibactam",
+      "file": "avibactam.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "pyelonephritis"
+    },
+    {
+      "name": "Axicabtagene Ciloleucel",
+      "file": "axicabtagene-ciloleucel.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Crohn's colitis"
+    },
+    {
+      "name": "Axitinib",
+      "file": "axitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "clear cell renal carcinoma"
+    },
+    {
+      "name": "Azacitidine",
+      "file": "azacitidine.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "acute myeloid leukemia with t(8;21)(q22;q22) translocation"
+    },
+    {
+      "name": "Azathioprine",
+      "file": "azathioprine.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Azilsartan Medoxomil",
+      "file": "azilsartan-medoxomil.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypertensive disorder"
+    },
+    {
+      "name": "Aztreonam",
+      "file": "aztreonam.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "polyclonal hyperviscosity syndrome"
+    },
+    {
+      "name": "Baloxavir Marboxil",
+      "file": "baloxavir-marboxil.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "influenza, severe, susceptibility to"
+    },
+    {
+      "name": "Baricitinib",
+      "file": "baricitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Basiliximab",
+      "file": "basiliximab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "plasma cell myeloma"
+    },
+    {
+      "name": "Bazedoxifene",
+      "file": "bazedoxifene.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "heparin cofactor 2 deficiency"
+    },
+    {
+      "name": "Bedaquiline Fumarate",
+      "file": "bedaquiline-fumarate.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "multidrug-resistant tuberculosis"
+    },
+    {
+      "name": "Belatacept",
+      "file": "belatacept.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "plasma cell myeloma"
+    },
+    {
+      "name": "Belimumab",
+      "file": "belimumab.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Bempedoic Acid",
+      "file": "bempedoic-acid.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hyperthyroidism"
+    },
+    {
+      "name": "Benralizumab",
+      "file": "benralizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "thrombocytopenia due to immune destruction"
+    },
+    {
+      "name": "Besilesomab",
+      "file": "besilesomab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Bevacizumab",
+      "file": "bevacizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 70,
+      "predicted_indication": "epiglottis neoplasm"
+    },
+    {
+      "name": "Bexarotene",
+      "file": "bexarotene.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary cutaneous T-cell lymphoma"
+    },
+    {
+      "name": "Bezlotoxumab",
+      "file": "bezlotoxumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute female pelvic peritonitis"
+    },
+    {
+      "name": "Bictegravir",
+      "file": "bictegravir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Bimatoprost",
+      "file": "bimatoprost.md",
+      "evidence_level": "L2",
+      "indication_count": 51,
+      "predicted_indication": "hypertrichosis (disease)"
+    },
+    {
+      "name": "Bimekizumab",
+      "file": "bimekizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Binimetinib",
+      "file": "binimetinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "metastatic melanoma"
+    },
+    {
+      "name": "Blinatumomab",
+      "file": "blinatumomab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Bortezomib",
+      "file": "bortezomib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "vertebral anomalies and variable endocrine and T-cell dysfunction"
+    },
+    {
+      "name": "Bosentan (As Monohydrate)",
+      "file": "bosentan-as-monohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "scleroderma (disease)"
+    },
+    {
+      "name": "Bosutinib (As Monohydrate)",
+      "file": "bosutinib-as-monohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "myeloid leukemia"
+    },
+    {
+      "name": "Botulinum Toxin Type A",
+      "file": "botulinum-toxin-type-a.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary hereditary glaucoma"
+    },
+    {
+      "name": "Brentuximab Vedotin",
+      "file": "brentuximab-vedotin.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "follicular lymphoma"
+    },
+    {
+      "name": "Brexpiprazole",
+      "file": "brexpiprazole.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "anxiety disorder"
+    },
+    {
+      "name": "Brigatinib",
+      "file": "brigatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "fibromatosis, gingival"
+    },
+    {
+      "name": "Brimonidine Tartrate",
+      "file": "brimonidine-tartrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "papillary conjunctivitis"
+    },
+    {
+      "name": "Brinzolamide",
+      "file": "brinzolamide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary hereditary glaucoma"
+    },
+    {
+      "name": "Brivaracetam",
+      "file": "brivaracetam.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "visual epilepsy"
+    },
+    {
+      "name": "Brodalumab",
+      "file": "brodalumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "strongyloidiasis"
+    },
+    {
+      "name": "Brolucizumab",
+      "file": "brolucizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"
+    },
+    {
+      "name": "Budesonide",
+      "file": "budesonide.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "atopic eczema"
+    },
+    {
+      "name": "Bupivacaine",
+      "file": "bupivacaine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "dermatitis"
+    },
+    {
+      "name": "Buprenorphine",
+      "file": "buprenorphine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "opiate dependence"
+    },
+    {
+      "name": "Bupropion",
+      "file": "bupropion.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "attention deficit-hyperactivity disorder"
+    },
+    {
+      "name": "Burosumab",
+      "file": "burosumab.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "renal osteodystrophy"
+    },
+    {
+      "name": "Busulfan",
+      "file": "busulfan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "myelodysplastic syndrome"
+    },
+    {
+      "name": "Cabazitaxel",
+      "file": "cabazitaxel.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "female breast carcinoma"
+    },
+    {
+      "name": "Cabotegravir",
+      "file": "cabotegravir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Cabozantinib",
+      "file": "cabozantinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "liposarcoma"
+    },
+    {
+      "name": "Caffeine Citrate",
+      "file": "caffeine-citrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pharyngitis"
+    },
+    {
+      "name": "Canagliflozin",
+      "file": "canagliflozin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "classic stiff person syndrome"
+    },
+    {
+      "name": "Canakinumab",
+      "file": "canakinumab.md",
+      "evidence_level": "L5",
+      "indication_count": 56,
+      "predicted_indication": "hepatic infarction"
+    },
+    {
+      "name": "Cangrelor",
+      "file": "cangrelor.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hemoglobinopathy"
+    },
+    {
+      "name": "Cannabidiol",
+      "file": "cannabidiol.md",
+      "evidence_level": "L5",
+      "indication_count": 53,
+      "predicted_indication": "restless legs syndrome"
+    },
+    {
+      "name": "Capecitabine",
+      "file": "capecitabine.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "diffuse gastric adenocarcinoma"
+    },
+    {
+      "name": "Caplacizumab",
+      "file": "caplacizumab.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Capsaicin",
+      "file": "capsaicin.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "neuralgia"
+    },
+    {
+      "name": "Carbidopa",
+      "file": "carbidopa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hereditary late onset Parkinson disease"
+    },
+    {
+      "name": "Carfilzomib",
+      "file": "carfilzomib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "CMM7"
+    },
+    {
+      "name": "Carglumic Acid",
+      "file": "carglumic-acid.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "cystic teratoma"
+    },
+    {
+      "name": "Cariprazine Hydrochloride",
+      "file": "cariprazine-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "schizophrenia"
+    },
+    {
+      "name": "Carmustine",
+      "file": "carmustine.md",
+      "evidence_level": "L5",
+      "indication_count": 87,
+      "predicted_indication": "lymphosarcoma"
+    },
+    {
+      "name": "Caspofungin (As Acetate)",
+      "file": "caspofungin-as-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "gastrin secretion abnormality"
+    },
+    {
+      "name": "Catridecacog",
+      "file": "catridecacog.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "factor XIII, A subunit, deficiency"
+    },
+    {
+      "name": "Catumaxomab",
+      "file": "catumaxomab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "severe nonproliferative diabetic retinopathy"
+    },
+    {
+      "name": "Ceftaroline Fosamil",
+      "file": "ceftaroline-fosamil.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Ceftolozane",
+      "file": "ceftolozane.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "urinary tract infection (disease)"
+    },
+    {
+      "name": "Cemiplimab",
+      "file": "cemiplimab.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "gallbladder adenosquamous carcinoma"
+    },
+    {
+      "name": "Cenobamate",
+      "file": "cenobamate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "partial epilepsy"
+    },
+    {
+      "name": "Ceritinib",
+      "file": "ceritinib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "fibromatosis, gingival"
+    },
+    {
+      "name": "Cerliponase Alfa",
+      "file": "cerliponase-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Scheie syndrome"
+    },
+    {
+      "name": "Certolizumab Pegol",
+      "file": "certolizumab-pegol.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "ankylosing spondylitis"
+    },
+    {
+      "name": "Cetrorelix (As Acetate)",
+      "file": "cetrorelix-as-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypertrichosis (disease)"
+    },
+    {
+      "name": "Cetuximab",
+      "file": "cetuximab.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "ductal or ductular proliferation"
+    },
+    {
+      "name": "Chenodeoxycholic Acid",
+      "file": "chenodeoxycholic-acid.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "cholelithiasis"
+    },
+    {
+      "name": "Cholic Acid",
+      "file": "cholic-acid.md",
+      "evidence_level": "L5",
+      "indication_count": 56,
+      "predicted_indication": "cholelithiasis"
+    },
+    {
+      "name": "Choriogonadotropin Alfa",
+      "file": "choriogonadotropin-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "peptic esophagitis"
+    },
+    {
+      "name": "Cilastatin",
+      "file": "cilastatin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bacterial arthritis"
+    },
+    {
+      "name": "Cinacalcet Hydrochloride",
+      "file": "cinacalcet-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Cladribine",
+      "file": "cladribine.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "parameningeal embryonal rhabdomyosarcoma"
+    },
+    {
+      "name": "Clascoterone",
+      "file": "clascoterone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "candidiasis"
+    },
+    {
+      "name": "Clofarabine",
+      "file": "clofarabine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute lymphoblastic leukemia (disease)"
+    },
+    {
+      "name": "Clopidogrel (As Hydrochloride)",
+      "file": "clopidogrel-as-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine with brainstem aura"
+    },
+    {
+      "name": "Clopidogrel",
+      "file": "clopidogrel.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "acute coronary syndrome"
+    },
+    {
+      "name": "Cobicistat",
+      "file": "cobicistat.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Colesevelam (As Hydrochloride)",
+      "file": "colesevelam-as-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "gout"
+    },
+    {
+      "name": "Colistimethate Sodium",
+      "file": "colistimethate-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "osteoarthritis"
+    },
+    {
+      "name": "Concizumab",
+      "file": "concizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Corifollitropin Alfa",
+      "file": "corifollitropin-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "gastroduodenitis"
+    },
+    {
+      "name": "Crizotinib",
+      "file": "crizotinib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "fibromatosis, gingival"
+    },
+    {
+      "name": "Cytarabine",
+      "file": "cytarabine.md",
+      "evidence_level": "L5",
+      "indication_count": 55,
+      "predicted_indication": "small cell lung carcinoma"
+    },
+    {
+      "name": "Dacomitinib Monohydrate",
+      "file": "dacomitinib-monohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Dalbavancin Hydrochloride",
+      "file": "dalbavancin-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "postinfectious vasculitis"
+    },
+    {
+      "name": "Damoctocog Alfa Pegol",
+      "file": "damoctocog-alfa-pegol.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Dapagliflozin",
+      "file": "dapagliflozin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "classic stiff person syndrome"
+    },
+    {
+      "name": "Daptomycin",
+      "file": "daptomycin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "osteoarthritis"
+    },
+    {
+      "name": "Daratumumab",
+      "file": "daratumumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "indolent plasma cell myeloma"
+    },
+    {
+      "name": "Darbepoetin Alfa",
+      "file": "darbepoetin-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "amenorrhea (disease)"
+    },
+    {
+      "name": "Darifenacin Hydrobromide",
+      "file": "darifenacin-hydrobromide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "overactive bladder (disease)"
+    },
+    {
+      "name": "Darolutamide",
+      "file": "darolutamide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "homozygous familial hypercholesterolemia"
+    },
+    {
+      "name": "Darunavir",
+      "file": "darunavir.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Dasatinib Monohydrate",
+      "file": "dasatinib-monohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Ewing sarcoma"
+    },
+    {
+      "name": "Daunorubicin",
+      "file": "daunorubicin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute lymphoblastic/lymphocytic leukemia"
+    },
+    {
+      "name": "Decitabine",
+      "file": "decitabine.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "myeloid leukemia"
+    },
+    {
+      "name": "Deferasirox",
+      "file": "deferasirox.md",
+      "evidence_level": "L5",
+      "indication_count": 53,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Deferiprone",
+      "file": "deferiprone.md",
+      "evidence_level": "L5",
+      "indication_count": 56,
+      "predicted_indication": "hepatic porphyria"
+    },
+    {
+      "name": "Defibrotide",
+      "file": "defibrotide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pseudo-von Willebrand disease"
+    },
+    {
+      "name": "Degarelix",
+      "file": "degarelix.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypertrichosis (disease)"
+    },
+    {
+      "name": "Delamanid",
+      "file": "delamanid.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "multidrug-resistant tuberculosis"
+    },
+    {
+      "name": "Denosumab",
+      "file": "denosumab.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "severe nonproliferative diabetic retinopathy"
+    },
+    {
+      "name": "Desloratadine",
+      "file": "desloratadine.md",
+      "evidence_level": "L1",
+      "indication_count": 53,
+      "predicted_indication": "allergic urticaria"
+    },
+    {
+      "name": "Deutetrabenazine",
+      "file": "deutetrabenazine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "psychogenic movement disorders"
+    },
+    {
+      "name": "Dexamethasone",
+      "file": "dexamethasone.md",
+      "evidence_level": "L1",
+      "indication_count": 174,
+      "predicted_indication": "alopecia areata"
+    },
+    {
+      "name": "Dexmedetomidine Hydrochloride",
+      "file": "dexmedetomidine-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Dexrazoxane Hydrochloride",
+      "file": "dexrazoxane-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "sclerosing cholangitis"
+    },
+    {
+      "name": "Dibotermin Alfa",
+      "file": "dibotermin-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "tibia fracture"
+    },
+    {
+      "name": "Diflunisal",
+      "file": "diflunisal.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "osteoarthritis susceptibility"
+    },
+    {
+      "name": "Dimethyl Fumarate",
+      "file": "dimethyl-fumarate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "relapsing-remitting multiple sclerosis"
+    },
+    {
+      "name": "Diroximel Fumarate (Biib098)",
+      "file": "diroximel-fumarate-biib098.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Docetaxel",
+      "file": "docetaxel.md",
+      "evidence_level": "L5",
+      "indication_count": 54,
+      "predicted_indication": "female breast carcinoma"
+    },
+    {
+      "name": "Dolutegravir",
+      "file": "dolutegravir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Dopamine",
+      "file": "dopamine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypotensive disorder"
+    },
+    {
+      "name": "Doravirine",
+      "file": "doravirine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Dostarlimab",
+      "file": "dostarlimab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rod-cone dystrophy, sensorineural deafness, and Fanconi-type renal dysfunction"
+    },
+    {
+      "name": "Doxorubicin Hydrochloride",
+      "file": "doxorubicin-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Ewing sarcoma"
+    },
+    {
+      "name": "Dronedarone",
+      "file": "dronedarone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "stroke disorder"
+    },
+    {
+      "name": "Drospirenone",
+      "file": "drospirenone.md",
+      "evidence_level": "L1",
+      "indication_count": 52,
+      "predicted_indication": "acne (disease)"
+    },
+    {
+      "name": "Dulaglutide",
+      "file": "dulaglutide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "opsismodysplasia"
+    },
+    {
+      "name": "Duloxetine Hydrochloride",
+      "file": "duloxetine-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "endogenous depression"
+    },
+    {
+      "name": "Duloxetine",
+      "file": "duloxetine.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "female stress incontinence"
+    },
+    {
+      "name": "Dupilumab",
+      "file": "dupilumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Durvalumab",
+      "file": "durvalumab.md",
+      "evidence_level": "L4",
+      "indication_count": 50,
+      "predicted_indication": "prostatic urethra urothelial carcinoma"
+    },
+    {
+      "name": "Duvelisib",
+      "file": "duvelisib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Hodgkins lymphoma"
+    },
+    {
+      "name": "Eculizumab",
+      "file": "eculizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "cyclic hematopoiesis"
+    },
+    {
+      "name": "Efavirenz",
+      "file": "efavirenz.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Eflornithine",
+      "file": "eflornithine.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "esotropia"
+    },
+    {
+      "name": "Efmoroctocog Alfa",
+      "file": "efmoroctocog-alfa.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "pseudo-von Willebrand disease"
+    },
+    {
+      "name": "Eftrenonacog Alfa",
+      "file": "eftrenonacog-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pseudo-von Willebrand disease"
+    },
+    {
+      "name": "Elacestrant",
+      "file": "elacestrant.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "amenorrhea (disease)"
+    },
+    {
+      "name": "Elafibranor",
+      "file": "elafibranor.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "amenorrhea (disease)"
+    },
+    {
+      "name": "Elbasvir",
+      "file": "elbasvir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "chronic hepatitis C virus infection"
+    },
+    {
+      "name": "Elexacaftor",
+      "file": "elexacaftor.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Eliglustat (Tartrate)",
+      "file": "eliglustat-tartrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Gaucher disease"
+    },
+    {
+      "name": "Elotuzumab",
+      "file": "elotuzumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "indolent plasma cell myeloma"
+    },
+    {
+      "name": "Eltrombopag",
+      "file": "eltrombopag.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Elvitegravir",
+      "file": "elvitegravir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Emicizumab",
+      "file": "emicizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pseudo-von Willebrand disease"
+    },
+    {
+      "name": "Empagliflozin",
+      "file": "empagliflozin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "classic stiff person syndrome"
+    },
+    {
+      "name": "Emtricitabine",
+      "file": "emtricitabine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Enalapril (Maleate)",
+      "file": "enalapril-maleate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "congestive heart failure"
+    },
+    {
+      "name": "Encorafenib",
+      "file": "encorafenib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "metastatic melanoma"
+    },
+    {
+      "name": "Enfortumab Vedotin",
+      "file": "enfortumab-vedotin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "leprosy"
+    },
+    {
+      "name": "Enfuvirtide",
+      "file": "enfuvirtide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Enoxaparin Sodium",
+      "file": "enoxaparin-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "purpura fulminans"
+    },
+    {
+      "name": "Entacapone",
+      "file": "entacapone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "juvenile onset Parkinson disease 19A"
+    },
+    {
+      "name": "Entecavir",
+      "file": "entecavir.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "chronic hepatitis C virus infection"
+    },
+    {
+      "name": "Entrectinib",
+      "file": "entrectinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "multiple endocrine neoplasia"
+    },
+    {
+      "name": "Enzalutamide",
+      "file": "enzalutamide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "prostate cancer/brain cancer susceptibility"
+    },
+    {
+      "name": "Epinephrine",
+      "file": "epinephrine.md",
+      "evidence_level": "L1",
+      "indication_count": 54,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Eptifibatide",
+      "file": "eptifibatide.md",
+      "evidence_level": "L4",
+      "indication_count": 51,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Eptinezumab",
+      "file": "eptinezumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine with brainstem aura"
+    },
+    {
+      "name": "Eravacycline",
+      "file": "eravacycline.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Erdafitinib",
+      "file": "erdafitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary hypertension"
+    },
+    {
+      "name": "Erenumab",
+      "file": "erenumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine with brainstem aura"
+    },
+    {
+      "name": "Eribulin",
+      "file": "eribulin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "autosomal recessive familial Mediterranean fever"
+    },
+    {
+      "name": "Erlotinib",
+      "file": "erlotinib.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "Ewing sarcoma"
+    },
+    {
+      "name": "Ertapenem Sodium",
+      "file": "ertapenem-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bacterial arthritis"
+    },
+    {
+      "name": "Esketamine Hydrochloride",
+      "file": "esketamine-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "dysthymic disorder"
+    },
+    {
+      "name": "Eslicarbazepine Acetate",
+      "file": "eslicarbazepine-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "partial epilepsy"
+    },
+    {
+      "name": "Esomeprazole",
+      "file": "esomeprazole.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "gastrin secretion abnormality"
+    },
+    {
+      "name": "Estradiol",
+      "file": "estradiol.md",
+      "evidence_level": "L5",
+      "indication_count": 53,
+      "predicted_indication": "acne (disease)"
+    },
+    {
+      "name": "Etanercept",
+      "file": "etanercept.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "ankylosing spondylitis"
+    },
+    {
+      "name": "Etelcalcetide Hydrochloride",
+      "file": "etelcalcetide-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hyperphosphatemia (disease)"
+    },
+    {
+      "name": "Etravirine",
+      "file": "etravirine.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Everolimus",
+      "file": "everolimus.md",
+      "evidence_level": "L5",
+      "indication_count": 57,
+      "predicted_indication": "liposarcoma"
+    },
+    {
+      "name": "Evinacumab",
+      "file": "evinacumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Evolocumab",
+      "file": "evolocumab.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "symptomatic form of hemophilia in female carriers"
+    },
+    {
+      "name": "Exenatide",
+      "file": "exenatide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary hereditary glaucoma"
+    },
+    {
+      "name": "Ezetimibe",
+      "file": "ezetimibe.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "homozygous familial hypercholesterolemia"
+    },
+    {
+      "name": "Faricimab",
+      "file": "faricimab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Febuxostat",
+      "file": "febuxostat.md",
+      "evidence_level": "L4",
+      "indication_count": 50,
+      "predicted_indication": "obsolete hyperuricemia (disease)"
+    },
+    {
+      "name": "Fenfluramine Hydrochloride",
+      "file": "fenfluramine-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "obesity disorder"
+    },
+    {
+      "name": "Fenofibrate",
+      "file": "fenofibrate.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "homozygous familial hypercholesterolemia"
+    },
+    {
+      "name": "Fentanyl",
+      "file": "fentanyl.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Ferric Maltol",
+      "file": "ferric-maltol.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "iron deficiency anemia"
+    },
+    {
+      "name": "Fesoterodine Fumarate",
+      "file": "fesoterodine-fumarate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "overactive bladder (disease)"
+    },
+    {
+      "name": "Fidaxomicin",
+      "file": "fidaxomicin.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "staphylococcal scalded skin syndrome"
+    },
+    {
+      "name": "Filgotinib Maleate",
+      "file": "filgotinib-maleate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HER2 positive breast carcinoma"
+    },
+    {
+      "name": "Filgrastim",
+      "file": "filgrastim.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Fingolimod",
+      "file": "fingolimod.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "relapsing-remitting multiple sclerosis"
+    },
+    {
+      "name": "Florbetaben (18F)",
+      "file": "florbetaben-18f.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Florbetapir (18F)",
+      "file": "florbetapir-18f.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Fluciclovine (18F)",
+      "file": "fluciclovine-18f.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "trichotillomania"
+    },
+    {
+      "name": "Flutemetamol (18F)",
+      "file": "flutemetamol-18f.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "anaphylaxis"
+    },
+    {
+      "name": "Fluticasone Furoate",
+      "file": "fluticasone-furoate.md",
+      "evidence_level": "L1",
+      "indication_count": 52,
+      "predicted_indication": "atopic eczema"
+    },
+    {
+      "name": "Fluticasone Propionate",
+      "file": "fluticasone-propionate.md",
+      "evidence_level": "L5",
+      "indication_count": 57,
+      "predicted_indication": "atopic eczema"
+    },
+    {
+      "name": "Fondaparinux Sodium",
+      "file": "fondaparinux-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary embolism (disease)"
+    },
+    {
+      "name": "Fosaprepitant",
+      "file": "fosaprepitant.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Fostamatinib Disodium",
+      "file": "fostamatinib-disodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "thrombocytopenia due to immune destruction"
+    },
+    {
+      "name": "Fremanezumab",
+      "file": "fremanezumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine with brainstem aura"
+    },
+    {
+      "name": "Fulvestrant",
+      "file": "fulvestrant.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Galcanezumab",
+      "file": "galcanezumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "heparin cofactor 2 deficiency"
+    },
+    {
+      "name": "Galsulfase",
+      "file": "galsulfase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "ptosis-strabismus-ectopic pupils syndrome"
+    },
+    {
+      "name": "Ganaxolone",
+      "file": "ganaxolone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "alcohol withdrawal delirium"
+    },
+    {
+      "name": "Ganirelix Acetate",
+      "file": "ganirelix-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypertrichosis (disease)"
+    },
+    {
+      "name": "Gefitinib",
+      "file": "gefitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "fibromatosis, gingival"
+    },
+    {
+      "name": "Gemtuzumab Ozogamicin",
+      "file": "gemtuzumab-ozogamicin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute myeloid leukemia with t(8;21)(q22;q22) translocation"
+    },
+    {
+      "name": "Gilteritinib Fumarate",
+      "file": "gilteritinib-fumarate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute myeloid leukemia with t(8;21)(q22;q22) translocation"
+    },
+    {
+      "name": "Gimeracil",
+      "file": "gimeracil.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "gastric carcinoma"
+    },
+    {
+      "name": "Givosiran",
+      "file": "givosiran.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "hepatic porphyria"
+    },
+    {
+      "name": "Glasdegib Maleate",
+      "file": "glasdegib-maleate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute myeloid leukemia with t(8;21)(q22;q22) translocation"
+    },
+    {
+      "name": "Glecaprevir",
+      "file": "glecaprevir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "chronic hepatitis C virus infection"
+    },
+    {
+      "name": "Glimepiride",
+      "file": "glimepiride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetes mellitus (disease)"
+    },
+    {
+      "name": "Glucagon",
+      "file": "glucagon.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "irritable bowel syndrome"
+    },
+    {
+      "name": "Glucarpidase",
+      "file": "glucarpidase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Glycerol Phenylbutyrate",
+      "file": "glycerol-phenylbutyrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "urea cycle disorder"
+    },
+    {
+      "name": "Glycopyrronium",
+      "file": "glycopyrronium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "irritable bowel syndrome"
+    },
+    {
+      "name": "Golimumab",
+      "file": "golimumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "ankylosing spondylitis"
+    },
+    {
+      "name": "Granisetron",
+      "file": "granisetron.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "manic bipolar affective disorder"
+    },
+    {
+      "name": "Grazoprevir",
+      "file": "grazoprevir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "chronic hepatitis C virus infection"
+    },
+    {
+      "name": "Guanfacine Hydrochloride",
+      "file": "guanfacine-hydrochloride.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "attention deficit hyperactivity disorder, inattentive type"
+    },
+    {
+      "name": "Guselkumab",
+      "file": "guselkumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "drug-induced osteoporosis"
+    },
+    {
+      "name": "Human Thrombin",
+      "file": "human-thrombin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "file": "hydrochlorothiazide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "malignant hypertensive renal disease"
+    },
+    {
+      "name": "Hydrocortisone",
+      "file": "hydrocortisone.md",
+      "evidence_level": "L5",
+      "indication_count": 171,
+      "predicted_indication": "alopecia areata"
+    },
+    {
+      "name": "Hydroxocobalamin",
+      "file": "hydroxocobalamin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "esophageal varices without bleeding"
+    },
+    {
+      "name": "Ibrutinib",
+      "file": "ibrutinib.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "mantle cell lymphoma"
+    },
+    {
+      "name": "Ibuprofen",
+      "file": "ibuprofen.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "osteoarthritis susceptibility"
+    },
+    {
+      "name": "Icatibant Acetate",
+      "file": "icatibant-acetate.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "C1 inhibitor deficiency"
+    },
+    {
+      "name": "Icosapent Ethyl",
+      "file": "icosapent-ethyl.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "hemoglobinopathy"
+    },
+    {
+      "name": "Idarucizumab",
+      "file": "idarucizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hemoglobinopathy"
+    },
+    {
+      "name": "Idebenone",
+      "file": "idebenone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hepatic porphyria"
+    },
+    {
+      "name": "Idelalisib",
+      "file": "idelalisib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "follicular lymphoma"
+    },
+    {
+      "name": "Idursulfase",
+      "file": "idursulfase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "ptosis-strabismus-ectopic pupils syndrome"
+    },
+    {
+      "name": "Iloprost",
+      "file": "iloprost.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypotrichosis simplex of the scalp"
+    },
+    {
+      "name": "Imatinib",
+      "file": "imatinib.md",
+      "evidence_level": "L2",
+      "indication_count": 56,
+      "predicted_indication": "dermatofibrosarcoma protuberans"
+    },
+    {
+      "name": "Imiglucerase",
+      "file": "imiglucerase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Hurler syndrome"
+    },
+    {
+      "name": "Imipenem",
+      "file": "imipenem.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "diffuse scleroderma"
+    },
+    {
+      "name": "Imiquimod",
+      "file": "imiquimod.md",
+      "evidence_level": "L5",
+      "indication_count": 60,
+      "predicted_indication": "pre-malignant neoplasm"
+    },
+    {
+      "name": "Imlifidase",
+      "file": "imlifidase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Inclisiran",
+      "file": "inclisiran.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "potassium deficiency disease"
+    },
+    {
+      "name": "Indacaterol Maleate",
+      "file": "indacaterol-maleate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Inebilizumab",
+      "file": "inebilizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "drug-induced osteoporosis"
+    },
+    {
+      "name": "Infliximab",
+      "file": "infliximab.md",
+      "evidence_level": "L5",
+      "indication_count": 53,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Inotersen Sodium",
+      "file": "inotersen-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute intermittent porphyria"
+    },
+    {
+      "name": "Inotuzumab Ozogamicin",
+      "file": "inotuzumab-ozogamicin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "drug-induced osteoporosis"
+    },
+    {
+      "name": "Insulin Aspart",
+      "file": "insulin-aspart.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "type 1 diabetes mellitus"
+    },
+    {
+      "name": "Insulin Degludec",
+      "file": "insulin-degludec.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "type 1 diabetes mellitus"
+    },
+    {
+      "name": "Insulin Detemir",
+      "file": "insulin-detemir.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "diabetic ketoacidosis"
+    },
+    {
+      "name": "Insulin Glargine",
+      "file": "insulin-glargine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "type 1 diabetes mellitus"
+    },
+    {
+      "name": "Insulin Glulisine",
+      "file": "insulin-glulisine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "type 1 diabetes mellitus"
+    },
+    {
+      "name": "Insulin Human",
+      "file": "insulin-human.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "type 1 diabetes mellitus"
+    },
+    {
+      "name": "Insulin Lispro",
+      "file": "insulin-lispro.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "type 1 diabetes mellitus"
+    },
+    {
+      "name": "Interferon Beta-1A",
+      "file": "interferon-beta-1a.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "relapsing-remitting multiple sclerosis"
+    },
+    {
+      "name": "Interferon Beta-1B",
+      "file": "interferon-beta-1b.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "relapsing-remitting multiple sclerosis"
+    },
+    {
+      "name": "Ipilimumab",
+      "file": "ipilimumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "metastatic melanoma"
+    },
+    {
+      "name": "Irbesartan",
+      "file": "irbesartan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "malignant hypertensive renal disease"
+    },
+    {
+      "name": "Isatuximab",
+      "file": "isatuximab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "indolent plasma cell myeloma"
+    },
+    {
+      "name": "Isavuconazole",
+      "file": "isavuconazole.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Ivabradine Hydrochloride",
+      "file": "ivabradine-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypertrichosis (disease)"
+    },
+    {
+      "name": "Ivacaftor",
+      "file": "ivacaftor.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Ivosidenib",
+      "file": "ivosidenib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute myeloid leukemia with t(8;21)(q22;q22) translocation"
+    },
+    {
+      "name": "Ixazomib Citrate",
+      "file": "ixazomib-citrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "indolent plasma cell myeloma"
+    },
+    {
+      "name": "Ixekizumab",
+      "file": "ixekizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "spondyloarthropathy, susceptibility to"
+    },
+    {
+      "name": "Ketoconazole",
+      "file": "ketoconazole.md",
+      "evidence_level": "L5",
+      "indication_count": 61,
+      "predicted_indication": "cutaneous candidiasis"
+    },
+    {
+      "name": "Ketorolac",
+      "file": "ketorolac.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "papillary conjunctivitis"
+    },
+    {
+      "name": "L-Lysine",
+      "file": "l-lysine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "gastroparesis (disease)"
+    },
+    {
+      "name": "Lacosamide",
+      "file": "lacosamide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "manic bipolar affective disorder"
+    },
+    {
+      "name": "Lamivudine",
+      "file": "lamivudine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Lanadelumab",
+      "file": "lanadelumab.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "C1 inhibitor deficiency"
+    },
+    {
+      "name": "Lapatinib",
+      "file": "lapatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "dermatofibrosarcoma protuberans"
+    },
+    {
+      "name": "Laronidase",
+      "file": "laronidase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Scheie syndrome"
+    },
+    {
+      "name": "Larotrectinib Sulfate",
+      "file": "larotrectinib-sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "multiple endocrine neoplasia"
+    },
+    {
+      "name": "Lasmiditan Succinate",
+      "file": "lasmiditan-succinate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Latanoprost",
+      "file": "latanoprost.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary hereditary glaucoma"
+    },
+    {
+      "name": "Lebrikizumab",
+      "file": "lebrikizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "severe nonproliferative diabetic retinopathy"
+    },
+    {
+      "name": "Lecanemab",
+      "file": "lecanemab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Ledipasvir",
+      "file": "ledipasvir.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "chronic hepatitis C virus infection"
+    },
+    {
+      "name": "Lefamulin Acetate",
+      "file": "lefamulin-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "leishmaniasis, diffuse cutaneous"
+    },
+    {
+      "name": "Leflunomide",
+      "file": "leflunomide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Lenalidomide",
+      "file": "lenalidomide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "myeloid leukemia"
+    },
+    {
+      "name": "Letermovir",
+      "file": "letermovir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "vulvovaginal candidiasis"
+    },
+    {
+      "name": "Levetiracetam",
+      "file": "levetiracetam.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "visual epilepsy"
+    },
+    {
+      "name": "Levodopa",
+      "file": "levodopa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "juvenile onset Parkinson disease 19A"
+    },
+    {
+      "name": "Levofloxacin",
+      "file": "levofloxacin.md",
+      "evidence_level": "L5",
+      "indication_count": 60,
+      "predicted_indication": "punctate epithelial keratoconjunctivitis"
+    },
+    {
+      "name": "Lidocaine",
+      "file": "lidocaine.md",
+      "evidence_level": "L5",
+      "indication_count": 61,
+      "predicted_indication": "punctate epithelial keratoconjunctivitis"
+    },
+    {
+      "name": "Linaclotide",
+      "file": "linaclotide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "cauda equina syndrome"
+    },
+    {
+      "name": "Linagliptin",
+      "file": "linagliptin.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "opsismodysplasia"
+    },
+    {
+      "name": "Lipegfilgrastim",
+      "file": "lipegfilgrastim.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Liraglutide",
+      "file": "liraglutide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "opsismodysplasia"
+    },
+    {
+      "name": "Lixisenatide",
+      "file": "lixisenatide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "opsismodysplasia"
+    },
+    {
+      "name": "Lomitapide",
+      "file": "lomitapide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "marcothrombocytopenia with mitral valve insufficiency"
+    },
+    {
+      "name": "Lonafarnib",
+      "file": "lonafarnib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "leprosy"
+    },
+    {
+      "name": "Lonoctocog Alfa",
+      "file": "lonoctocog-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pseudo-von Willebrand disease"
+    },
+    {
+      "name": "Lopinavir",
+      "file": "lopinavir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Lorlatinib",
+      "file": "lorlatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "fibromatosis, gingival"
+    },
+    {
+      "name": "Loxapine",
+      "file": "loxapine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "manic bipolar affective disorder"
+    },
+    {
+      "name": "Lumacaftor",
+      "file": "lumacaftor.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "leprosy"
+    },
+    {
+      "name": "Lurasidone",
+      "file": "lurasidone.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "manic bipolar affective disorder"
+    },
+    {
+      "name": "Luspatercept",
+      "file": "luspatercept.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "dominant beta-thalassemia"
+    },
+    {
+      "name": "Lusutrombopag",
+      "file": "lusutrombopag.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "hereditary thrombocytopenia with normal platelets"
+    },
+    {
+      "name": "Lutropin Alfa",
+      "file": "lutropin-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "postural orthostatic tachycardia syndrome"
+    },
+    {
+      "name": "Macimorelin Acetate",
+      "file": "macimorelin-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypertrichosis (disease)"
+    },
+    {
+      "name": "Macitentan",
+      "file": "macitentan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary arteriovenous malformation (disease)"
+    },
+    {
+      "name": "Mannitol",
+      "file": "mannitol.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Maraviroc",
+      "file": "maraviroc.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "multiple endocrine neoplasia"
+    },
+    {
+      "name": "Maribavir",
+      "file": "maribavir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Mecasermin",
+      "file": "mecasermin.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "monosomy X"
+    },
+    {
+      "name": "Melatonin",
+      "file": "melatonin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "insomnia (disease)"
+    },
+    {
+      "name": "Melphalan Hydrochloride",
+      "file": "melphalan-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hereditary breast ovarian cancer syndrome"
+    },
+    {
+      "name": "Memantine Hydrochloride",
+      "file": "memantine-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary hypertension"
+    },
+    {
+      "name": "Mepolizumab",
+      "file": "mepolizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "thrombocytopenia due to immune destruction"
+    },
+    {
+      "name": "Meropenem",
+      "file": "meropenem.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bacterial arthritis"
+    },
+    {
+      "name": "Metformin",
+      "file": "metformin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "focal stiff limb syndrome"
+    },
+    {
+      "name": "Methotrexate",
+      "file": "methotrexate.md",
+      "evidence_level": "L5",
+      "indication_count": 69,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Methoxy Polyethylene Glycol-Epoetin Beta",
+      "file": "methoxy-polyethylene-glycol-epoetin-beta.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Methylnaltrexone Bromide",
+      "file": "methylnaltrexone-bromide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "congenital hypotrichosis milia"
+    },
+    {
+      "name": "Methylphenidate Hydrochloride",
+      "file": "methylphenidate-hydrochloride.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "attention deficit-hyperactivity disorder"
+    },
+    {
+      "name": "Methylthioninium Chloride",
+      "file": "methylthioninium-chloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "irritable bowel syndrome"
+    },
+    {
+      "name": "Metreleptin",
+      "file": "metreleptin.md",
+      "evidence_level": "L5",
+      "indication_count": 53,
+      "predicted_indication": "familial generalized lentiginosis"
+    },
+    {
+      "name": "Mexiletine Hydrochloride",
+      "file": "mexiletine-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypertrichosis (disease)"
+    },
+    {
+      "name": "Micafungin",
+      "file": "micafungin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "urinary tract infection (disease)"
+    },
+    {
+      "name": "Midazolam",
+      "file": "midazolam.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "insomnia (disease)"
+    },
+    {
+      "name": "Midostaurin",
+      "file": "midostaurin.md",
+      "evidence_level": "L5",
+      "indication_count": 56,
+      "predicted_indication": "familial thrombocytosis"
+    },
+    {
+      "name": "Mifamurtide",
+      "file": "mifamurtide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "filariasis"
+    },
+    {
+      "name": "Migalastat Hydrochloride",
+      "file": "migalastat-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hepatoportal sclerosis"
+    },
+    {
+      "name": "Miglustat",
+      "file": "miglustat.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "Gaucher disease"
+    },
+    {
+      "name": "Mirabegron",
+      "file": "mirabegron.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "overactive bladder (disease)"
+    },
+    {
+      "name": "Mirvetuximab Soravtansine",
+      "file": "mirvetuximab-soravtansine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "antithrombin deficiency type 2"
+    },
+    {
+      "name": "Mitotane",
+      "file": "mitotane.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "multiple endocrine neoplasia"
+    },
+    {
+      "name": "Mogamulizumab",
+      "file": "mogamulizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 58,
+      "predicted_indication": "prostatic urethra urothelial carcinoma"
+    },
+    {
+      "name": "Mometasone Furoate",
+      "file": "mometasone-furoate.md",
+      "evidence_level": "L5",
+      "indication_count": 55,
+      "predicted_indication": "atopic eczema"
+    },
+    {
+      "name": "Mometasone",
+      "file": "mometasone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary cutaneous T-cell lymphoma"
+    },
+    {
+      "name": "Moroctocog Alfa",
+      "file": "moroctocog-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Mycophenolate Mofetil",
+      "file": "mycophenolate-mofetil.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Naloxone",
+      "file": "naloxone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "opiate dependence"
+    },
+    {
+      "name": "Naltrexone",
+      "file": "naltrexone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "obesity disorder"
+    },
+    {
+      "name": "Natalizumab",
+      "file": "natalizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Nelarabine",
+      "file": "nelarabine.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "relapsing-remitting multiple sclerosis"
+    },
+    {
+      "name": "Nemolizumab",
+      "file": "nemolizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Nepafenac",
+      "file": "nepafenac.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "eye disease"
+    },
+    {
+      "name": "Neratinib",
+      "file": "neratinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HER2 positive breast carcinoma"
+    },
+    {
+      "name": "Netarsudil",
+      "file": "netarsudil.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "open-angle glaucoma"
+    },
+    {
+      "name": "Netupitant",
+      "file": "netupitant.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Nevirapine",
+      "file": "nevirapine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Nilotinib",
+      "file": "nilotinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "dermatofibrosarcoma protuberans"
+    },
+    {
+      "name": "Nintedanib",
+      "file": "nintedanib.md",
+      "evidence_level": "L5",
+      "indication_count": 55,
+      "predicted_indication": "dermatofibrosarcoma protuberans"
+    },
+    {
+      "name": "Niraparib (Tosilate Monohydrate)",
+      "file": "niraparib-tosilate-monohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "epiglottis neoplasm"
+    },
+    {
+      "name": "Nitisinone",
+      "file": "nitisinone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "renal tubular acidosis"
+    },
+    {
+      "name": "Nitric Oxide",
+      "file": "nitric-oxide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "malformation syndrome with odontal and/or periodontal component"
+    },
+    {
+      "name": "Nivolumab",
+      "file": "nivolumab.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "metastatic melanoma"
+    },
+    {
+      "name": "Nomegestrol Acetate",
+      "file": "nomegestrol-acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "candidiasis"
+    },
+    {
+      "name": "Nonacog Beta Pegol",
+      "file": "nonacog-beta-pegol.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Norelgestromin",
+      "file": "norelgestromin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "amenorrhea (disease)"
+    },
+    {
+      "name": "Norethisterone",
+      "file": "norethisterone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acne (disease)"
+    },
+    {
+      "name": "Nusinersen Sodium",
+      "file": "nusinersen-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "PRPS1 deficiency disorder"
+    },
+    {
+      "name": "Obinutuzumab",
+      "file": "obinutuzumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute lymphoblastic/lymphocytic leukemia"
+    },
+    {
+      "name": "Ocrelizumab",
+      "file": "ocrelizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HER2 positive breast carcinoma"
+    },
+    {
+      "name": "Octreotide Hydrochloride",
+      "file": "octreotide-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "vulvar inverted follicular keratosis"
+    },
+    {
+      "name": "Ofatumumab",
+      "file": "ofatumumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute lymphoblastic/lymphocytic leukemia"
+    },
+    {
+      "name": "Olanzapine",
+      "file": "olanzapine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "manic bipolar affective disorder"
+    },
+    {
+      "name": "Olaparib",
+      "file": "olaparib.md",
+      "evidence_level": "L5",
+      "indication_count": 54,
+      "predicted_indication": "borderline epithelial tumor of ovary"
+    },
+    {
+      "name": "Olopatadine Hydrochloride",
+      "file": "olopatadine-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "vernal conjunctivitis"
+    },
+    {
+      "name": "Omalizumab",
+      "file": "omalizumab.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Onasemnogene Abeparvovec",
+      "file": "onasemnogene-abeparvovec.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Opicapone",
+      "file": "opicapone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "juvenile onset Parkinson disease 19A"
+    },
+    {
+      "name": "Oritavancin (Diphosphate)",
+      "file": "oritavancin-diphosphate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Bacteroidaceae infectious disease"
+    },
+    {
+      "name": "Orlistat",
+      "file": "orlistat.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "obesity disorder"
+    },
+    {
+      "name": "Oseltamivir",
+      "file": "oseltamivir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "influenza, severe, susceptibility to"
+    },
+    {
+      "name": "Osilodrostat Phosphate",
+      "file": "osilodrostat-phosphate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "familial generalized lentiginosis"
+    },
+    {
+      "name": "Ospemifene",
+      "file": "ospemifene.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "leprosy"
+    },
+    {
+      "name": "Oteracil",
+      "file": "oteracil.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "colonic neoplasm"
+    },
+    {
+      "name": "Oxybutynin",
+      "file": "oxybutynin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "cauda equina syndrome"
+    },
+    {
+      "name": "Ozanimod Hydrochloride",
+      "file": "ozanimod-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "multiple sclerosis"
+    },
+    {
+      "name": "Paclitaxel",
+      "file": "paclitaxel.md",
+      "evidence_level": "L2",
+      "indication_count": 71,
+      "predicted_indication": "female breast carcinoma"
+    },
+    {
+      "name": "Palbociclib",
+      "file": "palbociclib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hyperthyroidism"
+    },
+    {
+      "name": "Paliperidone",
+      "file": "paliperidone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "schizophrenia"
+    },
+    {
+      "name": "Palivizumab",
+      "file": "palivizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "benign neoplasm of tongue"
+    },
+    {
+      "name": "Palonosetron Hydrochloride",
+      "file": "palonosetron-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Panitumumab",
+      "file": "panitumumab.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "drug-induced osteoporosis"
+    },
+    {
+      "name": "Pantoprazole",
+      "file": "pantoprazole.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "peptic esophagitis"
+    },
+    {
+      "name": "Parathyroid Hormone",
+      "file": "parathyroid-hormone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Parecoxib Sodium",
+      "file": "parecoxib-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Pasireotide",
+      "file": "pasireotide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "adrenal gland hyperfunction"
+    },
+    {
+      "name": "Patisiran Sodium",
+      "file": "patisiran-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "dermatitis"
+    },
+    {
+      "name": "Pazopanib",
+      "file": "pazopanib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "clear cell renal carcinoma"
+    },
+    {
+      "name": "Pegaspargase",
+      "file": "pegaspargase.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "acute lymphoblastic leukemia (disease)"
+    },
+    {
+      "name": "Pegfilgrastim",
+      "file": "pegfilgrastim.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "severe nonproliferative diabetic retinopathy"
+    },
+    {
+      "name": "Peginterferon Alfa-2A",
+      "file": "peginterferon-alfa-2a.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "chronic hepatitis C virus infection"
+    },
+    {
+      "name": "Peginterferon Beta-1A",
+      "file": "peginterferon-beta-1a.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "relapsing-remitting multiple sclerosis"
+    },
+    {
+      "name": "Pegvaliase",
+      "file": "pegvaliase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic retinopathy"
+    },
+    {
+      "name": "Pegvisomant",
+      "file": "pegvisomant.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "borderline ovarian serous tumor"
+    },
+    {
+      "name": "Pembrolizumab",
+      "file": "pembrolizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "fibromatosis, gingival"
+    },
+    {
+      "name": "Pemetrexed",
+      "file": "pemetrexed.md",
+      "evidence_level": "L1",
+      "indication_count": 51,
+      "predicted_indication": "malignant peritoneal mesothelioma"
+    },
+    {
+      "name": "Pemigatinib",
+      "file": "pemigatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "multiple endocrine neoplasia"
+    },
+    {
+      "name": "Pentosan Polysulfate Sodium",
+      "file": "pentosan-polysulfate-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Perampanel",
+      "file": "perampanel.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "visual epilepsy"
+    },
+    {
+      "name": "Perflutren",
+      "file": "perflutren.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute intermittent porphyria"
+    },
+    {
+      "name": "Pertuzumab",
+      "file": "pertuzumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HER2 positive breast carcinoma"
+    },
+    {
+      "name": "Phenylephrine",
+      "file": "phenylephrine.md",
+      "evidence_level": "L1",
+      "indication_count": 52,
+      "predicted_indication": "pharyngitis"
+    },
+    {
+      "name": "Pibrentasvir",
+      "file": "pibrentasvir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "chronic hepatitis C virus infection"
+    },
+    {
+      "name": "Pioglitazone",
+      "file": "pioglitazone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "opsismodysplasia"
+    },
+    {
+      "name": "Pirfenidone",
+      "file": "pirfenidone.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "extracutaneous mastocytoma"
+    },
+    {
+      "name": "Pitolisant",
+      "file": "pitolisant.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "insomnia (disease)"
+    },
+    {
+      "name": "Plerixafor",
+      "file": "plerixafor.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "plasma cell myeloma"
+    },
+    {
+      "name": "Polatuzumab Vedotin",
+      "file": "polatuzumab-vedotin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HER2 positive breast carcinoma"
+    },
+    {
+      "name": "Pomalidomide",
+      "file": "pomalidomide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "indolent plasma cell myeloma"
+    },
+    {
+      "name": "Ponatinib",
+      "file": "ponatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "chronic myelogenous leukemia, BCR-ABL1 positive"
+    },
+    {
+      "name": "Posaconazole",
+      "file": "posaconazole.md",
+      "evidence_level": "L5",
+      "indication_count": 56,
+      "predicted_indication": "pneumocystosis"
+    },
+    {
+      "name": "Prasterone",
+      "file": "prasterone.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "heparin cofactor 2 deficiency"
+    },
+    {
+      "name": "Prasugrel",
+      "file": "prasugrel.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary hypertension"
+    },
+    {
+      "name": "Pravastatin",
+      "file": "pravastatin.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "homozygous familial hypercholesterolemia"
+    },
+    {
+      "name": "Pregabalin",
+      "file": "pregabalin.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "tendinitis"
+    },
+    {
+      "name": "Pretomanid",
+      "file": "pretomanid.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "candidiasis"
+    },
+    {
+      "name": "Prilocaine",
+      "file": "prilocaine.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "papillary conjunctivitis"
+    },
+    {
+      "name": "Propranolol Hydrochloride",
+      "file": "propranolol-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "distal myopathy, Tateyama type"
+    },
+    {
+      "name": "Prucalopride Succinate",
+      "file": "prucalopride-succinate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hypoalphalipoproteinemia"
+    },
+    {
+      "name": "Raloxifene Hydrochloride",
+      "file": "raloxifene-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "duodenal ulcer (disease)"
+    },
+    {
+      "name": "Raltegravir",
+      "file": "raltegravir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Ramucirumab",
+      "file": "ramucirumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "uterine ligament adenocarcinoma"
+    },
+    {
+      "name": "Ranibizumab",
+      "file": "ranibizumab.md",
+      "evidence_level": "L1",
+      "indication_count": 52,
+      "predicted_indication": "severe nonproliferative diabetic retinopathy"
+    },
+    {
+      "name": "Ranolazine",
+      "file": "ranolazine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Rasagiline",
+      "file": "rasagiline.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "hereditary late onset Parkinson disease"
+    },
+    {
+      "name": "Rasburicase",
+      "file": "rasburicase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "obsolete hyperuricemia (disease)"
+    },
+    {
+      "name": "Ravulizumab",
+      "file": "ravulizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "autosomal recessive severe congenital neutropenia due to G6PC3 deficiency"
+    },
+    {
+      "name": "Regadenoson",
+      "file": "regadenoson.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "anaphylaxis"
+    },
+    {
+      "name": "Regorafenib",
+      "file": "regorafenib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "liposarcoma"
+    },
+    {
+      "name": "Relebactam",
+      "file": "relebactam.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pyelonephritis"
+    },
+    {
+      "name": "Relugolix",
+      "file": "relugolix.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Remdesivir",
+      "file": "remdesivir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "multiple endocrine neoplasia"
+    },
+    {
+      "name": "Repaglinide",
+      "file": "repaglinide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "opsismodysplasia"
+    },
+    {
+      "name": "Reslizumab",
+      "file": "reslizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "thrombocytopenia due to immune destruction"
+    },
+    {
+      "name": "Reteplase",
+      "file": "reteplase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "myocardial infarction"
+    },
+    {
+      "name": "Ribociclib Succinate",
+      "file": "ribociclib-succinate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "myeloid leukemia"
+    },
+    {
+      "name": "Rilpivirine Hydrochloride",
+      "file": "rilpivirine-hydrochloride.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Riluzole",
+      "file": "riluzole.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "bilateral parasagittal parieto-occipital polymicrogyria"
+    },
+    {
+      "name": "Rimegepant",
+      "file": "rimegepant.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Riociguat",
+      "file": "riociguat.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Ambras type hypertrichosis universalis congenita"
+    },
+    {
+      "name": "Ripretinib",
+      "file": "ripretinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "multiple endocrine neoplasia"
+    },
+    {
+      "name": "Risankizumab",
+      "file": "risankizumab.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "dermatitis"
+    },
+    {
+      "name": "Risdiplam",
+      "file": "risdiplam.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acne (disease)"
+    },
+    {
+      "name": "Risperidone",
+      "file": "risperidone.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "manic bipolar affective disorder"
+    },
+    {
+      "name": "Ritonavir",
+      "file": "ritonavir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Rituximab",
+      "file": "rituximab.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "follicular lymphoma"
+    },
+    {
+      "name": "Rivaroxaban",
+      "file": "rivaroxaban.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Rivastigmine",
+      "file": "rivastigmine.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "glaucoma"
+    },
+    {
+      "name": "Roflumilast",
+      "file": "roflumilast.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary hypertension"
+    },
+    {
+      "name": "Romiplostim",
+      "file": "romiplostim.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Romosozumab",
+      "file": "romosozumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "phosphorus metabolism disease"
+    },
+    {
+      "name": "Ropeginterferon Alfa-2B",
+      "file": "ropeginterferon-alfa-2b.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Laubry-Pezzi syndrome"
+    },
+    {
+      "name": "Rotigotine",
+      "file": "rotigotine.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "attention deficit-hyperactivity disorder"
+    },
+    {
+      "name": "Roxadustat",
+      "file": "roxadustat.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "dry eye syndrome"
+    },
+    {
+      "name": "Rozanolixizumab",
+      "file": "rozanolixizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Rufinamide",
+      "file": "rufinamide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Lennox-Gastaut syndrome"
+    },
+    {
+      "name": "Ruxolitinib Phosphate",
+      "file": "ruxolitinib-phosphate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "uterine corpus perivascular epithelioid cell tumor"
+    },
+    {
+      "name": "Sacituzumab Govitecan",
+      "file": "sacituzumab-govitecan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "drug-induced osteoporosis"
+    },
+    {
+      "name": "Sacubitril",
+      "file": "sacubitril.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "brain small vessel disease 1 with or without ocular anomalies"
+    },
+    {
+      "name": "Sargramostim",
+      "file": "sargramostim.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "drug-induced osteoporosis"
+    },
+    {
+      "name": "Sarilumab",
+      "file": "sarilumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Saxagliptin",
+      "file": "saxagliptin.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "opsismodysplasia"
+    },
+    {
+      "name": "Sebelipase Alfa",
+      "file": "sebelipase-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "Scheie syndrome"
+    },
+    {
+      "name": "Secukinumab",
+      "file": "secukinumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Selexipag",
+      "file": "selexipag.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary arterial hypertension associated with congenital heart disease"
+    },
+    {
+      "name": "Selinexor",
+      "file": "selinexor.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "drug-induced osteoporosis"
+    },
+    {
+      "name": "Selpercatinib",
+      "file": "selpercatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary hypertension"
+    },
+    {
+      "name": "Selumetinib Sulfate",
+      "file": "selumetinib-sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "familial generalized lentiginosis"
+    },
+    {
+      "name": "Semaglutide",
+      "file": "semaglutide.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "focal stiff limb syndrome"
+    },
+    {
+      "name": "Setmelanotide",
+      "file": "setmelanotide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Sevelamer",
+      "file": "sevelamer.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "breast fibrocystic disease"
+    },
+    {
+      "name": "Sildenafil",
+      "file": "sildenafil.md",
+      "evidence_level": "L5",
+      "indication_count": 53,
+      "predicted_indication": "Ambras type hypertrichosis universalis congenita"
+    },
+    {
+      "name": "Silodosin",
+      "file": "silodosin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Ambras type hypertrichosis universalis congenita"
+    },
+    {
+      "name": "Siltuximab",
+      "file": "siltuximab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Kimura disease"
+    },
+    {
+      "name": "Simoctocog Alfa",
+      "file": "simoctocog-alfa.md",
+      "evidence_level": "L4",
+      "indication_count": 50,
+      "predicted_indication": "pseudo-von Willebrand disease"
+    },
+    {
+      "name": "Simvastatin",
+      "file": "simvastatin.md",
+      "evidence_level": "L1",
+      "indication_count": 52,
+      "predicted_indication": "homozygous familial hypercholesterolemia"
+    },
+    {
+      "name": "Sirolimus",
+      "file": "sirolimus.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "liposarcoma"
+    },
+    {
+      "name": "Sitagliptin Hydrochloride",
+      "file": "sitagliptin-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "opsismodysplasia"
+    },
+    {
+      "name": "Sitagliptin",
+      "file": "sitagliptin.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "type 2 diabetes mellitus"
+    },
+    {
+      "name": "Sodium Oxybate",
+      "file": "sodium-oxybate.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "insomnia (disease)"
+    },
+    {
+      "name": "Sodium Zirconium Cyclosilicate",
+      "file": "sodium-zirconium-cyclosilicate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "breast fibrocystic disease"
+    },
+    {
+      "name": "Sofosbuvir",
+      "file": "sofosbuvir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "chronic hepatitis C virus infection"
+    },
+    {
+      "name": "Solriamfetol Hydrochloride",
+      "file": "solriamfetol-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "attention deficit-hyperactivity disorder"
+    },
+    {
+      "name": "Somapacitan",
+      "file": "somapacitan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "allergic asthma"
+    },
+    {
+      "name": "Sorafenib",
+      "file": "sorafenib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "liposarcoma"
+    },
+    {
+      "name": "Sotatercept",
+      "file": "sotatercept.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute lymphoblastic leukemia (disease)"
+    },
+    {
+      "name": "Sparsentan",
+      "file": "sparsentan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "alopecia"
+    },
+    {
+      "name": "Spironolactone",
+      "file": "spironolactone.md",
+      "evidence_level": "L5",
+      "indication_count": 53,
+      "predicted_indication": "hypotrichosis simplex of the scalp"
+    },
+    {
+      "name": "Stiripentol",
+      "file": "stiripentol.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "restless legs syndrome"
+    },
+    {
+      "name": "Sufentanil Citrate",
+      "file": "sufentanil-citrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis"
+    },
+    {
+      "name": "Sugammadex Sodium",
+      "file": "sugammadex-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "breast fibrocystic disease"
+    },
+    {
+      "name": "Sunitinib",
+      "file": "sunitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "liposarcoma"
+    },
+    {
+      "name": "Susoctocog Alfa",
+      "file": "susoctocog-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Tacrolimus",
+      "file": "tacrolimus.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "atopic eczema"
+    },
+    {
+      "name": "Tadalafil",
+      "file": "tadalafil.md",
+      "evidence_level": "L5",
+      "indication_count": 53,
+      "predicted_indication": "Ambras type hypertrichosis universalis congenita"
+    },
+    {
+      "name": "Tafamidis",
+      "file": "tafamidis.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Tafasitamab",
+      "file": "tafasitamab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "drug-induced osteoporosis"
+    },
+    {
+      "name": "Tagraxofusp",
+      "file": "tagraxofusp.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "esotropia"
+    },
+    {
+      "name": "Talazoparib",
+      "file": "talazoparib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HER2 positive breast carcinoma"
+    },
+    {
+      "name": "Talimogene Laherparepvec",
+      "file": "talimogene-laherparepvec.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "CMM7"
+    },
+    {
+      "name": "Tasimelteon",
+      "file": "tasimelteon.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "bilateral parasagittal parieto-occipital polymicrogyria"
+    },
+    {
+      "name": "Tasonermin",
+      "file": "tasonermin.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "cancer"
+    },
+    {
+      "name": "Tazobactam",
+      "file": "tazobactam.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pneumonia"
+    },
+    {
+      "name": "Tecovirimat",
+      "file": "tecovirimat.md",
+      "evidence_level": "L5",
+      "indication_count": 53,
+      "predicted_indication": "smallpox"
+    },
+    {
+      "name": "Tedizolid",
+      "file": "tedizolid.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "orofacial clefting syndrome"
+    },
+    {
+      "name": "Teduglutide",
+      "file": "teduglutide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "short bowel syndrome"
+    },
+    {
+      "name": "Tegafur",
+      "file": "tegafur.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "colonic neoplasm"
+    },
+    {
+      "name": "Telmisartan",
+      "file": "telmisartan.md",
+      "evidence_level": "L1",
+      "indication_count": 51,
+      "predicted_indication": "obsolete susceptibility to ischemic stroke"
+    },
+    {
+      "name": "Temoporfin",
+      "file": "temoporfin.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "nasopharyngeal teratoma"
+    },
+    {
+      "name": "Temozolomide",
+      "file": "temozolomide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "adult astrocytic tumour"
+    },
+    {
+      "name": "Temsirolimus",
+      "file": "temsirolimus.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "liposarcoma"
+    },
+    {
+      "name": "Tenecteplase",
+      "file": "tenecteplase.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "myocardial infarction"
+    },
+    {
+      "name": "Tenofovir Alafenamide",
+      "file": "tenofovir-alafenamide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Tenofovir Disoproxil",
+      "file": "tenofovir-disoproxil.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Teplizumab",
+      "file": "teplizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Teprotumumab",
+      "file": "teprotumumab.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "monosomy X"
+    },
+    {
+      "name": "Teriflunomide",
+      "file": "teriflunomide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "relapsing-remitting multiple sclerosis"
+    },
+    {
+      "name": "Teriparatide",
+      "file": "teriparatide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "duodenal ulcer (disease)"
+    },
+    {
+      "name": "Tezacaftor",
+      "file": "tezacaftor.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Tezepelumab",
+      "file": "tezepelumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Thalidomide",
+      "file": "thalidomide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "ganglioneuroblastoma (disease)"
+    },
+    {
+      "name": "Thiotepa",
+      "file": "thiotepa.md",
+      "evidence_level": "L5",
+      "indication_count": 75,
+      "predicted_indication": "primary non-gestational choriocarcinoma of ovary"
+    },
+    {
+      "name": "Thyrotropin Alfa",
+      "file": "thyrotropin-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Ticagrelor",
+      "file": "ticagrelor.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "intracranial arteriosclerosis"
+    },
+    {
+      "name": "Tigecycline",
+      "file": "tigecycline.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "disorder of tyrosine metabolism"
+    },
+    {
+      "name": "Tildrakizumab",
+      "file": "tildrakizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "severe nonproliferative diabetic retinopathy"
+    },
+    {
+      "name": "Timolol",
+      "file": "timolol.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary hereditary glaucoma"
+    },
+    {
+      "name": "Tipiracil",
+      "file": "tipiracil.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "colonic neoplasm"
+    },
+    {
+      "name": "Tipranavir",
+      "file": "tipranavir.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Tiratricol",
+      "file": "tiratricol.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine with brainstem aura"
+    },
+    {
+      "name": "Tirzepatide",
+      "file": "tirzepatide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "gout"
+    },
+    {
+      "name": "Tisagenlecleucel",
+      "file": "tisagenlecleucel.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Crohn's colitis"
+    },
+    {
+      "name": "Tislelizumab",
+      "file": "tislelizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "mixed-type autoimmune hemolytic anemia"
+    },
+    {
+      "name": "Tivozanib",
+      "file": "tivozanib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "endocervical carcinoma"
+    },
+    {
+      "name": "Tobramycin",
+      "file": "tobramycin.md",
+      "evidence_level": "L5",
+      "indication_count": 67,
+      "predicted_indication": "punctate epithelial keratoconjunctivitis"
+    },
+    {
+      "name": "Tocilizumab",
+      "file": "tocilizumab.md",
+      "evidence_level": "L1",
+      "indication_count": 53,
+      "predicted_indication": "ankylosing spondylitis"
+    },
+    {
+      "name": "Tocofersolan",
+      "file": "tocofersolan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "amenorrhea (disease)"
+    },
+    {
+      "name": "Tofacitinib",
+      "file": "tofacitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Tolcapone",
+      "file": "tolcapone.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "juvenile onset Parkinson disease 19A"
+    },
+    {
+      "name": "Tolvaptan",
+      "file": "tolvaptan.md",
+      "evidence_level": "L1",
+      "indication_count": 51,
+      "predicted_indication": "polycystic kidney disease 3 with or without polycystic liver disease"
+    },
+    {
+      "name": "Topotecan",
+      "file": "topotecan.md",
+      "evidence_level": "L5",
+      "indication_count": 57,
+      "predicted_indication": "female breast carcinoma"
+    },
+    {
+      "name": "Toremifene",
+      "file": "toremifene.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Toripalimab",
+      "file": "toripalimab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "mixed-type autoimmune hemolytic anemia"
+    },
+    {
+      "name": "Trabectedin",
+      "file": "trabectedin.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "female breast carcinoma"
+    },
+    {
+      "name": "Tralokinumab",
+      "file": "tralokinumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Trametinib",
+      "file": "trametinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "metastatic melanoma"
+    },
+    {
+      "name": "Trastuzumab Deruxtecan",
+      "file": "trastuzumab-deruxtecan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "drug-induced osteoporosis"
+    },
+    {
+      "name": "Trastuzumab Emtansine",
+      "file": "trastuzumab-emtansine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HER2 positive breast carcinoma"
+    },
+    {
+      "name": "Trastuzumab",
+      "file": "trastuzumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HER2 positive breast carcinoma"
+    },
+    {
+      "name": "Travoprost",
+      "file": "travoprost.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "visceral calciphylaxis"
+    },
+    {
+      "name": "Tremelimumab",
+      "file": "tremelimumab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Treosulfan",
+      "file": "treosulfan.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Treprostinil Sodium",
+      "file": "treprostinil-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pulmonary arteriovenous malformation (disease)"
+    },
+    {
+      "name": "Trifluridine",
+      "file": "trifluridine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "colonic neoplasm"
+    },
+    {
+      "name": "Tucatinib",
+      "file": "tucatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Turoctocog Alfa Pegol",
+      "file": "turoctocog-alfa-pegol.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Turoctocog Alfa",
+      "file": "turoctocog-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "symptomatic form of hemophilia in female carriers"
+    },
+    {
+      "name": "Ublituximab",
+      "file": "ublituximab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Ulipristal",
+      "file": "ulipristal.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Umeclidinium Bromide",
+      "file": "umeclidinium-bromide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Upadacitinib",
+      "file": "upadacitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "rheumatoid arthritis"
+    },
+    {
+      "name": "Urea (13C)",
+      "file": "urea-13c.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "exanthem (disease)"
+    },
+    {
+      "name": "Ustekinumab",
+      "file": "ustekinumab.md",
+      "evidence_level": "L1",
+      "indication_count": 51,
+      "predicted_indication": "dermatitis"
+    },
+    {
+      "name": "Vaborbactam",
+      "file": "vaborbactam.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "osteoarthritis"
+    },
+    {
+      "name": "Valsartan",
+      "file": "valsartan.md",
+      "evidence_level": "L5",
+      "indication_count": 51,
+      "predicted_indication": "malignant renovascular hypertension"
+    },
+    {
+      "name": "Vandetanib",
+      "file": "vandetanib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "renal cell carcinoma (disease)"
+    },
+    {
+      "name": "Vardenafil",
+      "file": "vardenafil.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "amenorrhea (disease)"
+    },
+    {
+      "name": "Varenicline",
+      "file": "varenicline.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Vedolizumab",
+      "file": "vedolizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 52,
+      "predicted_indication": "severe nonproliferative diabetic retinopathy"
+    },
+    {
+      "name": "Velaglucerase Alfa",
+      "file": "velaglucerase-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Steel syndrome"
+    },
+    {
+      "name": "Velpatasvir",
+      "file": "velpatasvir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "chronic hepatitis C virus infection"
+    },
+    {
+      "name": "Vemurafenib",
+      "file": "vemurafenib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Venetoclax",
+      "file": "venetoclax.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "acute lymphoblastic/lymphocytic leukemia"
+    },
+    {
+      "name": "Vernakalant Hydrochloride",
+      "file": "vernakalant-hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "stroke disorder"
+    },
+    {
+      "name": "Vestronidase Alfa",
+      "file": "vestronidase-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Scheie syndrome"
+    },
+    {
+      "name": "Vibegron",
+      "file": "vibegron.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "overactive bladder (disease)"
+    },
+    {
+      "name": "Vigabatrin",
+      "file": "vigabatrin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "West syndrome"
+    },
+    {
+      "name": "Vilanterol",
+      "file": "vilanterol.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "bronchitis"
+    },
+    {
+      "name": "Vildagliptin",
+      "file": "vildagliptin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "focal stiff limb syndrome"
+    },
+    {
+      "name": "Vinflunine",
+      "file": "vinflunine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "amyotrophic lateral sclerosis"
+    },
+    {
+      "name": "Vismodegib",
+      "file": "vismodegib.md",
+      "evidence_level": "L2",
+      "indication_count": 50,
+      "predicted_indication": "basal cell carcinoma"
+    },
+    {
+      "name": "Voclosporin",
+      "file": "voclosporin.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Volanesorsen Sodium",
+      "file": "volanesorsen-sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "megaloblastic anemia (disease)"
+    },
+    {
+      "name": "Vonicog Alfa",
+      "file": "vonicog-alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "primary release disorder of platelets"
+    },
+    {
+      "name": "Voretigene Neparvovec",
+      "file": "voretigene-neparvovec.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "mitral valve prolapse, myxomatous"
+    },
+    {
+      "name": "Voriconazole",
+      "file": "voriconazole.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "fusariosis"
+    },
+    {
+      "name": "Vortioxetine",
+      "file": "vortioxetine.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "endogenous depression"
+    },
+    {
+      "name": "Zanamivir",
+      "file": "zanamivir.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "pyelonephritis"
+    },
+    {
+      "name": "Zanubrutinib",
+      "file": "zanubrutinib.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "myeloid leukemia"
+    },
+    {
+      "name": "Ziconotide",
+      "file": "ziconotide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "migraine disorder"
+    },
+    {
+      "name": "Zidovudine",
+      "file": "zidovudine.md",
+      "evidence_level": "L1",
+      "indication_count": 50,
+      "predicted_indication": "HIV infectious disease"
+    },
+    {
+      "name": "Zinc",
+      "file": "zinc.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "filariasis"
+    },
+    {
+      "name": "Zolbetuximab",
+      "file": "zolbetuximab.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "diabetic cataract"
+    },
+    {
+      "name": "Zoledronic Acid Monohydrate",
+      "file": "zoledronic-acid-monohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "bone Paget disease"
+    },
+    {
+      "name": "Zoledronic Acid",
+      "file": "zoledronic-acid.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "humoral hypercalcemia of malignancy"
+    },
+    {
+      "name": "Zonisamide",
+      "file": "zonisamide.md",
+      "evidence_level": "L5",
+      "indication_count": 50,
+      "predicted_indication": "Tourette syndrome"
+    }
+  ]
+}
