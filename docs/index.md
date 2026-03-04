@@ -188,6 +188,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 | **Medium Evidence** | L3-L4, requires additional validation | [View](/evidence-medium/) |
 | **AI Predictions** | L5, research direction reference | [View 642 drugs](/evidence-low/) |
 | **Full Drug List** | All 642 drugs (searchable) | [Drug List](/drugs/) |
+| **Health News** | Automated EU health news monitoring | [View News](/news/) |
 | **Data Downloads** | CSV / JSON formats | [Downloads](/downloads/) |
 | **FHIR API** | Integration endpoints | [FHIR Metadata](/fhir/metadata) |
 

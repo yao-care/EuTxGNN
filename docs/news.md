@@ -32,15 +32,19 @@ async function loadNews() {
 
       data.items.slice(0, 20).forEach(item => {
         const drugs = item.matched_drugs && item.matched_drugs.length > 0
-          ? `<span class="drug-tag">${item.matched_drugs.join(', ')}</span>`
+          ? item.matched_drugs.map(drug =>
+              `<a href="/drugs/${drug.toLowerCase().replace(/\s+/g, '-')}/" class="drug-tag">${drug}</a>`
+            ).join(' ')
           : '';
         const diseases = item.matched_diseases && item.matched_diseases.length > 0
-          ? `<span class="disease-tag">${item.matched_diseases.join(', ')}</span>`
+          ? item.matched_diseases.map(disease =>
+              `<a href="/drugs/?q=${encodeURIComponent(disease)}" class="disease-tag">${disease}</a>`
+            ).join(' ')
           : '';
 
         html += `
           <div class="news-item">
-            <h4><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h4>
+            <h4><a href="${item.link}" target="_blank" rel="noopener">${item.title} <span class="external-icon">↗</span></a></h4>
             <p class="news-meta">
               <span class="source">${item.source}</span>
               ${item.pub_date ? `<span class="date">${item.pub_date}</span>` : ''}
@@ -90,6 +94,11 @@ loadNews();
 .news-item h4 a:hover {
   text-decoration: underline;
 }
+.external-icon {
+  font-size: 0.8em;
+  opacity: 0.6;
+  margin-left: 2px;
+}
 .news-meta {
   font-size: 0.85rem;
   color: #666;
@@ -117,6 +126,14 @@ loadNews();
   padding: 2px 8px;
   border-radius: 4px;
   font-size: 0.85rem;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+}
+.drug-tag:hover {
+  background: #28a745;
+  color: white;
+  text-decoration: none;
 }
 .disease-tag {
   background: #fff3cd;
@@ -124,6 +141,14 @@ loadNews();
   padding: 2px 8px;
   border-radius: 4px;
   font-size: 0.85rem;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+}
+.disease-tag:hover {
+  background: #ffc107;
+  color: #333;
+  text-decoration: none;
 }
 </style>
 
@@ -154,6 +179,20 @@ loadNews();
 
 - **JSON Data**: [GitHub - eu_health_news.json](https://github.com/yao-care/EuTxGNN/blob/main/data/news/eu_health_news.json)
 - **Synonyms**: [GitHub - synonyms.json](https://github.com/yao-care/EuTxGNN/blob/main/data/news/synonyms.json)
+
+---
+
+## Related Links
+
+| Resource | Description |
+|----------|-------------|
+| [Drug Reports](/drugs/) | Browse all 642 EMA drug repurposing reports |
+| [High Evidence (L1-L2)](/evidence-high/) | Predictions with clinical trial support |
+| [Data Downloads](/downloads/) | Download prediction data in CSV/JSON |
+| [Methodology](/methodology/) | Learn about TxGNN prediction model |
+| [FHIR API](/fhir/metadata) | Integration endpoints for EHR systems |
+| [EMA Website](https://www.ema.europa.eu/){:target="_blank"} | Official European Medicines Agency |
+| [ECDC Website](https://www.ecdc.europa.eu/){:target="_blank"} | European Centre for Disease Prevention and Control |
 
 ---
 
