@@ -3,6 +3,7 @@ layout: default
 title: Medium Evidence (L3-L4)
 parent: Drug Reports
 nav_order: 2
+has_children: true
 description: "L3-L4 level drug repurposing candidates with observational or preclinical evidence."
 permalink: /evidence-medium/
 ---
@@ -22,11 +23,24 @@ Candidates with preliminary evidence requiring further validation
 
 ---
 
-## Current Status
+## Drug List
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Note:</strong> Evidence level curation is in progress. Currently, all predictions are L5 (AI prediction only). Medium evidence candidates will be added as supporting evidence is identified.
-</div>
+{% assign l3_drugs = site.drugs | where: "evidence_level", "L3" | sort: "title" %}
+{% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | sort: "title" %}
+
+### L3 Level ({{ l3_drugs.size }} drugs)
+
+| Drug Name | Indications | Link |
+|-----------|-------------|------|
+{% for drug in l3_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [View Report]({{ drug.url | relative_url }}) |
+{% endfor %}
+
+### L4 Level ({{ l4_drugs.size }} drugs)
+
+| Drug Name | Indications | Link |
+|-----------|-------------|------|
+{% for drug in l4_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [View Report]({{ drug.url | relative_url }}) |
+{% endfor %}
 
 ---
 
@@ -43,26 +57,6 @@ Candidates with preliminary evidence requiring further validation
 - In vitro or animal studies showing efficacy
 - OR mechanistic rationale with supporting data
 - OR case reports (< 10 patients)
-
----
-
-## Potential L3-L4 Candidates
-
-Based on existing literature, these predictions may have supporting evidence:
-
-| Drug | Indication | Potential Evidence |
-|------|------------|-------------------|
-| *Under review* | *Under review* | *Under review* |
-
----
-
-## How to Contribute
-
-Help us identify evidence for predictions:
-
-1. Check PubMed for relevant studies
-2. Report findings via [GitHub Issues](https://github.com/yao-care/EuTxGNN/issues)
-3. Include study type and results
 
 ---
 

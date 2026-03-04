@@ -3,6 +3,7 @@ layout: default
 title: AI Predictions (L5)
 parent: Drug Reports
 nav_order: 3
+has_children: true
 description: "L5 level drug repurposing candidates with AI prediction only, no clinical evidence yet."
 permalink: /evidence-low/
 ---
@@ -25,43 +26,30 @@ TxGNN model predictions without clinical evidence - research hypotheses for expl
 
 ---
 
+## Drug List
+
+{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | sort: "title" %}
+
+### L5 Level ({{ l5_drugs.size }} drugs)
+
+| Drug Name | Indications | Link |
+|-----------|-------------|------|
+{% for drug in l5_drugs limit:100 %}| **{{ drug.title }}** | {{ drug.indication_count }} | [View Report]({{ drug.url | relative_url }}) |
+{% endfor %}
+
+{% if l5_drugs.size > 100 %}
+*Showing first 100 of {{ l5_drugs.size }} drugs. See [Full Drug List](/drugs/) for all.*
+{% endif %}
+
+---
+
 ## Statistics
 
 | Metric | Value |
 |--------|-------|
-| Total L5 Predictions | 32,368 |
-| Unique Drugs | 638 |
+| Total L5 Drugs | {{ l5_drugs.size }} |
+| Total Predictions | 32,368 |
 | Unique Indications | 4,570 |
-
----
-
-## Highest Confidence Predictions
-
-These L5 predictions have the highest TxGNN scores:
-
-| Drug | Indication | Score |
-|------|------------|-------|
-| TRAVOPROST | visceral calciphylaxis | 0.9999 |
-| CAPLACIZUMAB | primary release disorder of platelets | 0.9999 |
-| ROMIPLOSTIM | primary release disorder of platelets | 0.9999 |
-| CAPLACIZUMAB | pseudo-von Willebrand disease | 0.9999 |
-| AZATHIOPRINE | rheumatoid arthritis | 0.9999 |
-| TRAVOPROST | arterial thoracic outlet syndrome | 0.9999 |
-| CAPLACIZUMAB | Glanzmann thrombasthenia | 0.9999 |
-| INFLIXIMAB | Crohn disease | 0.9999 |
-| ADALIMUMAB | psoriatic arthritis | 0.9999 |
-| USTEKINUMAB | inflammatory bowel disease | 0.9999 |
-
----
-
-## Research Applications
-
-L5 predictions can be useful for:
-
-1. **Hypothesis Generation**: Starting points for research
-2. **Literature Review**: Prioritize which associations to investigate
-3. **Grant Writing**: Preliminary data for research proposals
-4. **Drug Discovery**: Identify candidates for preclinical testing
 
 ---
 

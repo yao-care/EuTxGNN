@@ -3,6 +3,7 @@ layout: default
 title: High Evidence (L1-L2)
 parent: Drug Reports
 nav_order: 1
+has_children: true
 description: "L1-L2 level drug repurposing candidates with strong clinical evidence support."
 permalink: /evidence-high/
 ---
@@ -22,38 +23,24 @@ Candidates with strong clinical trial evidence for priority evaluation
 
 ---
 
-## Current Status
+## Drug List
 
-<div style="background: #e3f2fd; padding: 1rem; border-left: 4px solid #1976D2; border-radius: 4px; margin: 1rem 0;">
-<strong>Note:</strong> Evidence level curation is in progress. Currently, all predictions are L5 (AI prediction only). High evidence candidates will be added as clinical evidence is validated.
-</div>
+{% assign l1_drugs = site.drugs | where: "evidence_level", "L1" | sort: "title" %}
+{% assign l2_drugs = site.drugs | where: "evidence_level", "L2" | sort: "title" %}
 
----
+### L1 Level ({{ l1_drugs.size }} drugs)
 
-## Criteria for L1-L2 Classification
+| Drug Name | Indications | Link |
+|-----------|-------------|------|
+{% for drug in l1_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [View Report]({{ drug.url | relative_url }}) |
+{% endfor %}
 
-### L1 Requirements
+### L2 Level ({{ l2_drugs.size }} drugs)
 
-- ≥2 Phase 3 randomized controlled trials
-- OR systematic review/meta-analysis
-- Consistent positive results
-- Published in peer-reviewed journals
-
-### L2 Requirements
-
-- 1 Phase 3 RCT with positive results
-- OR ≥2 Phase 2 trials
-- Published in peer-reviewed journals
-
----
-
-## How to Contribute
-
-If you have evidence for any prediction, please:
-
-1. Open an issue on [GitHub](https://github.com/yao-care/EuTxGNN/issues)
-2. Provide PubMed ID or clinical trial identifier
-3. We will review and update evidence levels
+| Drug Name | Indications | Link |
+|-----------|-------------|------|
+{% for drug in l2_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [View Report]({{ drug.url | relative_url }}) |
+{% endfor %}
 
 ---
 
