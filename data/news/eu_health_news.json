@@ -1,8 +1,8 @@
 {
   "description": "EU health news with drug-disease relations from EuTxGNN",
-  "fetched_at": "2026-03-04T01:43:24.195352+00:00",
-  "total_items": 340,
-  "relevant_items": 54,
+  "fetched_at": "2026-03-04T02:35:30.788882+00:00",
+  "total_items": 347,
+  "relevant_items": 57,
   "sources": [
     "google_uk",
     "google_de",
@@ -15,6 +15,82 @@
     "ecdc_risk"
   ],
   "items": [
+    {
+      "id": "e640c0cce236",
+      "source": "The Guardian",
+      "source_feed": "google_uk",
+      "title": "More than 220m children will be obese by 2040 without drastic action, report warns - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX09FMWNORTZURWJXMmFvSnpOXzJuS2pyVmdha3YtaVNiZnliNmt2M0JZNVFjbzFrdUhkbHpGb1dkaVdEOEd4MEstVE9VX0VJNnZ4VGRGdWlqRXlObFMwb0xJcndLNjZpMmVfUXpRM1RPSUpqX1dpSnJ5US1BZHBna3NGZTl0LWtjdkYyYWotakw2akZLRVJaQ1ZUTlNlMmJTV0NYSHNCNV9wVVk0MzVYb2t4ZFNlZ3JCYXpmTTItU0ZUb3loSVM1cg?oc=5",
+      "description": "More than 220m children will be obese by 2040 without drastic action, report warns&nbsp;&nbsp;The GuardianApollo doctor shares 5 ways to reverse obesity without extreme dieting&nbsp;&nbsp;theweek.in73 million urban Indians overweight, just 4.99 per cent aware of GLP-1: Kantar report&nbsp;&nbsp;Indian TelevisionObesity now a public health emergency in India: bariatric surgeon&nbsp;&nbsp;The HinduThe weight of a nation: India’s obesity crisis meets public policy&nbsp;&nbsp;India Today",
+      "pub_date": "2026-03-04T00:24:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "obesity",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "9f8a57b21944",
+      "source": "GB News",
+      "source_feed": "google_uk",
+      "title": "Statin side effects: Cardiologist addresses diabetes fears and dementia questions - GB News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42ZlBoTlZsYVJMb3VheFpsRS10TnQ3ZmJLTTJWeGxlXzVvc3F5TEVXRjNaenlKd19MaUVjMzRZdjFySWV0OVVNejdhcDFEbWlvS3NzekFsWjVLN29GRF9KMnRSVXRnZ29vV3ZtZnlQd2Y1anFUM2NDQ2gwYmNaV1E?oc=5",
+      "description": "Statin side effects: Cardiologist addresses diabetes fears and dementia questions&nbsp;&nbsp;GB NewsAfter Decades of Mystery, Scientists Finally Have an Answer for This Painful Statin Side Effect.&nbsp;&nbsp;Men's HealthStatins, the world's most prescribed cholesterol drugs, not responsible for most reported side effects&nbsp;&nbsp;Technology OrgWorried About Statin Side Effects? Find Out What’s Real and What’s Not&nbsp;&nbsp;Woman's WorldWhy statins cause muscle pain&nbsp;&nbsp;wddty.com",
+      "pub_date": "2026-03-03T20:08:11+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
+          "related_drugs": [
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
+          ]
+        },
+        {
+          "name": "alzheimer disease",
+          "keyword": "dementia",
+          "related_drugs": [
+            "alectinib-hydrochloride",
+            "brigatinib",
+            "carbidopa",
+            "ceritinib",
+            "crizotinib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab",
+        "alectinib-hydrochloride",
+        "brigatinib",
+        "carbidopa",
+        "ceritinib",
+        "crizotinib"
+      ]
+    },
     {
       "id": "132ba48d6d00",
       "source": "IM Farmacias",
@@ -283,7 +359,7 @@
       "source_feed": "google_it",
       "title": "Pasti pronti da microonde, danni alla salute. «Aumentano il rischio di tumori e infarti». Quali evitare nei supermercati - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFBZTnVFUEMwdHJ3V1A5ZFp0T2lwUXdLSzJFSHI1cUhoVkNWSlp1aFJtdElWUEJRYy1pcFFocGFSNVp2YTZvR1NqYk9tbG5manNxWHRRd3htQzRUMWYxS3NBbzM1NnVzRUJHV2dUODNXYTVlZFJyVDJCdndnbkZVYXUxTWdNRkhZU1VEb1lfbHBJZXdy0gGSAUFVX3lxTFBONk9xdnB5WHotejlpSU5TWHVmV1IyTTBDNGtIYzFRSTBwSHdOMjlUMG1SRGljdEtxWFRCUnRzZjFmODZVQXF0a0hFSVF1a0lDajM2OGhSN2xOb1VqTkZsaDBTZWdmbmE4Yk9NaG94TW1SVzRDZTRGNnB3UFczeDVJMG5idTUzemItVDVHQkZObHFn?oc=5",
-      "description": "Pasti pronti da microonde, danni alla salute. «Aumentano il rischio di tumori e infarti». Quali evitare nei supermercati&nbsp;&nbsp;Il MessaggeroRiscaldare cibi in contenitori di plastica può liberare microplastiche negli alimenti&nbsp;&nbsp;sanitainformazione.itMicroplastiche e contaminanti scaldando la plastica nel microonde&nbsp;&nbsp;Il Fatto AlimentarePerché non dovresti (mai) riscaldare il cibo confezionato nel microonde&nbsp;&nbsp;today.it\"Tumori e infarti\": pasti pronti per il microonde,",
+      "description": "Pasti pronti da microonde, danni alla salute. «Aumentano il rischio di tumori e infarti». Quali evitare nei supermercati&nbsp;&nbsp;Il MessaggeroRiscaldare cibi in contenitori di plastica può liberare microplastiche negli alimenti&nbsp;&nbsp;sanitainformazione.itMicroplastiche e contaminanti scaldando la plastica nel microonde&nbsp;&nbsp;Il Fatto AlimentarePerché non dovresti (mai) riscaldare il cibo confezionato nel microonde&nbsp;&nbsp;today.itPiatti pronti e microonde: quando la comodità può ",
       "pub_date": "2026-03-03T14:14:34+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -373,7 +449,7 @@
       "source_feed": "google_uk",
       "title": "One in four breast cancer deaths linked to lifestyle factors such as diet - The Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWU9TUHEzTzJPb3hrNk9kejJqcUFfWXJMUExobm5sWXpLZEJYaEtiV21yTlN2aHRtb0VfeTk3eVJRN1U4blYydVQxUG9LcjVIODg0eHNTVWZtV1BrZVFiRVVNZzVnWTFSSWxoTlE5WkFFSjB2WlBaUHB4d0hDQ1dHaGRpZzRPRHhneThJNEdsbDk2NkQ3M1E?oc=5",
-      "description": "One in four breast cancer deaths linked to lifestyle factors such as diet&nbsp;&nbsp;The TimesQuarter of healthy years lost to breast cancer are due to lifestyle factors, research finds&nbsp;&nbsp;The GuardianGlobal breast cancer cases expected to reach over 3.5 million by 2050&nbsp;&nbsp;CNNNigeria records 543% surge in breast cancer cases as Africa tops global rise- Study&nbsp;&nbsp;Premium Times NigeriaBreast cancer in young women has increased by 29% in three decades&nbsp;&nbsp;EL PAÍS Engli",
+      "description": "One in four breast cancer deaths linked to lifestyle factors such as diet&nbsp;&nbsp;The TimesQuarter of healthy years lost to breast cancer are due to lifestyle factors, research finds&nbsp;&nbsp;The GuardianGlobal breast cancer cases expected to reach over 3.5 million by 2050&nbsp;&nbsp;CNN6 Lifestyle Factors That Increase Your Risk of Breast Cancer&nbsp;&nbsp;People.comBreast cancer in young women has increased by 29% in three decades&nbsp;&nbsp;EL PAÍS English",
       "pub_date": "2026-03-03T12:25:08+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -694,7 +770,7 @@
       "title": "Can looking at this painting slow dementia? - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1weUZCWlM5RThJejlqS2VrV0tkMjcxNEZYOGNtTDJ3dm5fSDV5M0VXWFc0TXl6dkFrdGxoemV6TlVmelNSYzNRbEZkU2oyNk9wUWJ1SUVVNXZuNVlkeUtlVUFicVFFcTlITDdiYjhjc08?oc=5",
       "description": "Can looking at this painting slow dementia?&nbsp;&nbsp;Financial Times",
-      "pub_date": "2026-03-03T05:00:34+00:00",
+      "pub_date": "2026-03-03T05:00:06+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -723,7 +799,7 @@
       "source_feed": "google_es",
       "title": "Primera vacuna para 'controlar' migraña en niños \"sin años de retraso\" - Redacción Médica",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWV3RkRKOTRYaGJZU0dZVW53NXhJd3NGOWpRZW9TS200R1diNlZxYTZPMUFVY3ByUFNJRS1RTzFCRnVIdmtiZDg1ck42b0RkZWdNVDdxZG5TVXd0ZUR5S0U5RkRzNzdIZExxWXRVTkF4dGRZVk0wSnUycmVLUEhfREFfSElGYXlCaFhDVWlNdnROUHk3aURSUWloa2x1bG8xSEVIMWtwRDRiQzNYNnpCYjZpQzcwNnV5OHpVeTlRX3l0QdIBwgFBVV95cUxONnJwcm1scDF0dUZYeHhNd1kweTVsd3lVZ1pYVlJ3WEF1M3NSdjdkSGhQaGd5ZXJkZkN4UFE5UEY5dHBqazBXNU1ncFY5YkJqY0dLOVRvd1djenNvX2oyV3FXV1d2ZkhoNUJXY0hIODJYM0JfS0hpV1AyZHBmTWdsUklLWUVqLWNtTXByUTg3U2RadDU0UUdiVkl6Z1BJQ08zbk03LTlMSFdNc0JfclpTVjlyWi1xeGZhT2hmVDU1THV6QQ?oc=5",
-      "description": "Primera vacuna para 'controlar' migraña en niños \"sin años de retraso\"&nbsp;&nbsp;Redacción MédicaEspaña tendrá este año el fremanezumab, el primer fármaco contra la migraña pediátrica: una inyección una vez al mes&nbsp;&nbsp;El PeriódicoVall d’Hebron participa en el estudio que demuestra el&nbsp;&nbsp;Vall d'Hebron Barcelona Hospital CampusNuevo fármaco eficaz contra la migraña infantil y juvenil&nbsp;&nbsp;RTVE.esEl infierno de Noa con su migraña desde los 2 años puede tocar a su fin&nbsp;&nbs",
+      "description": "Primera vacuna para 'controlar' migraña en niños \"sin años de retraso\"&nbsp;&nbsp;Redacción MédicaEspaña tendrá este año el fremanezumab, el primer fármaco contra la migraña pediátrica: una inyección una vez al mes&nbsp;&nbsp;El PeriódicoVall d’Hebron participa en el estudio que demuestra el&nbsp;&nbsp;Vall d'Hebron Barcelona Hospital CampusPrimer tratamiento preventivo contra la migraña en niños y adolescentes&nbsp;&nbsp;La VanguardiaEl infierno de Noa con su migraña desde los 2 años puede toca",
       "pub_date": "2026-03-03T05:00:00+00:00",
       "matched_drugs": [
         {
@@ -781,6 +857,36 @@
         "basiliximab",
         "belatacept",
         "bosutinib-as-monohydrate"
+      ]
+    },
+    {
+      "id": "d4cb823f0874",
+      "source": "The Mirror",
+      "source_feed": "google_uk",
+      "title": "NHS says 3 bathroom red flags could be deadly cancer with ‘no symptoms for years’ - The Mirror",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45cENXdXItYUZpZ3hfQmcxcWRRNm9xcEpkOWxBeV9DNlM0V005ZW4yY3VDZHQ2U0Z5UzVZZGhpTExld2xVLWdIWTJiMUVZbU9ZZldNSGZ0S2tjQU5nbGIwcDR2dG1zX0Zib3NzVUl3RndYS2tGUkhwMtIBfkFVX3lxTE56V3lDYUVjbmFSWmVFRjVJSWxsajVtWUR2SDU4czkwUFJmR1BFM3FRemRNR2VvSlRBU19QekxpSTRpcnBjNEF6WmZwVkw5TjZUbGNEQ1hmN1ZzZ3I5X1pBRVMxQnF0WXU0R1R2cmlMNVFxYW13N2dNdHRwWXdOdw?oc=5",
+      "description": "NHS says 3 bathroom red flags could be deadly cancer with ‘no symptoms for years’&nbsp;&nbsp;The MirrorProstate cancer tour planned in East Yorkshire and Lincolnshire&nbsp;&nbsp;BBCMan, 65, urges other men to ‘trust your instincts and see your GP’&nbsp;&nbsp;Grimsby LiveMen told ‘contact GP’ over 3 cancer signs in bathroom&nbsp;&nbsp;North Wales LiveThree bathroom 'red flags' that could be sign of prostate cancer&nbsp;&nbsp;tyla.com",
+      "pub_date": "2026-03-03T03:44:08+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
       ]
     },
     {
@@ -876,13 +982,13 @@
       ]
     },
     {
-      "id": "e2944ab6409c",
-      "source": "Real Simple",
+      "id": "4b862e2c3dc4",
+      "source": "GB News",
       "source_feed": "google_uk",
-      "title": "5 Common Foods Nutrition Experts Avoid for Better Heart Health - Real Simple",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2N1bnF0YkJIZE5iY1kyeWNxWXRFRGtrVm5CVXhTdnRrS1hNYzNpM2pmQUs4QjMzclNWaGEwWEQzYWVmVHRnMmtTUTBzV2VBZEtfTURiNUN6U1loOTFxSG5lQmF0b05xTGx1clF2dzRPY1B5MDhaUDltd1pwaGtEa2JPeXU?oc=5",
-      "description": "5 Common Foods Nutrition Experts Avoid for Better Heart Health&nbsp;&nbsp;Real SimpleNutritionist names two main foods to avoid to reduce risk of cancer&nbsp;&nbsp;Daily StarThe 6 foods and drinks I would NEVER allow at home as a doctor over health fears&nbsp;&nbsp;The Irish SunCardiologist shares 6 seemingly ‘healthy’ foods that could quietly hurt your heart: Bananas, spinach and more&nbsp;&nbsp;Hindustan TimesCardiologist says three dangerous foods are 'banned' - what you need to know&nbsp;&nb",
-      "pub_date": "2026-03-03T00:00:00+00:00",
+      "title": "Almost 50% of new colon cancer cases now hit younger adults – scientists warn of three potential causes - GB News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBibmNFWGV5MVh5cE9fTUI4S2kwdUtHM0JtTjZnMTZzVWhEU1BIckVNb2NtOElKd1RMbmktWlVGS19TMEk5TzNKTnlINERuUjlNT0otTjZzMmR2dzlxdG5qYzNvakRDSnFJY1JYMWxnQQ?oc=5",
+      "description": "Almost 50% of new colon cancer cases now hit younger adults – scientists warn of three potential causes&nbsp;&nbsp;GB NewsRectal cancer rates are rising in U.S., driving an increase in illness in younger adults&nbsp;&nbsp;NBC NewsHalf of Colorectal Cancer Cases Now Occur in Those Under 65, Study Shows&nbsp;&nbsp;The New York TimesA new report reveals that a third of colon cancer cases now occur in the rectum. Take these steps to protect yourself at any age.&nbsp;&nbsp;Business InsiderHow to test",
+      "pub_date": "2026-03-02T20:54:02+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -936,36 +1042,6 @@
       ]
     },
     {
-      "id": "04c81c12d244",
-      "source": "Outre-mer la 1ère",
-      "source_feed": "google_fr",
-      "title": "« Mars Bleu », mois de sensibilisation au dépistage du cancer colorectal : 180 à 200 nouveaux cas par an en Martinique - Outre-mer la 1ère",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMHhhNWtnRzNYdVJoQW52UkFXTG8tRmpfeURzYzJRSmZwS1lENjAzb0d0bzBJWWo0UktQU3pvZlEyZFhtd1ZRZkhtUjRSTDA3Qi1aeTN1cWhWbmxFaTJ6cTBCcllvVklScExZdUpoekdBTFY3ejd6QlJPeGtTT0dPell6ZFZvMkppaV9WaGRpblZCZGk4T2FfVU1qTmtPMDgtVzk1dlNHaWtWdlVPSWhkWlFfTlNpVUlRanh5MTg0ZEo3MzZhMWFZWGxZd2RIdjRCeWRNQzYxSXZHcUgtNi12OG9FaE9QUEhMNmtLNF90YUx1cGZ0Zkk4?oc=5",
-      "description": "« Mars Bleu », mois de sensibilisation au dépistage du cancer colorectal : 180 à 200 nouveaux cas par an en Martinique&nbsp;&nbsp;Outre-mer la 1èreMars bleu : quels freins nuisent au dépistage du cancer colorectal ?&nbsp;&nbsp;Sud Ouest« Je pensais être protégé » : Sportif, végétarien et non-fumeur, Balram a quand même développé un cancer colorectal&nbsp;&nbsp;Nice-MatinL'invité de Bonjour Var du mardi 3 mars 2026 - Philippe Ah Soune&nbsp;&nbsp;BFMUne journée pour lever les tabous sur le dépista",
-      "pub_date": "2026-03-02T19:21:34+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
       "id": "dfc07e232a15",
       "source": "iSanidad",
       "source_feed": "google_es",
@@ -993,36 +1069,6 @@
         "aflibercept",
         "agalsidase-beta",
         "alectinib-hydrochloride"
-      ]
-    },
-    {
-      "id": "b81e2e364340",
-      "source": "Daily Mail",
-      "source_feed": "google_uk",
-      "title": "More than 70 health conditions that affect nearly all Americans are linked to increased risk of dementia, scientists discover - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3p5NUpwZ2kyM3IzNU1GcTY5cU1FS1VYeXVseGlPOU9TbFI5TzVGMVNvbEt0WDRESVpBUmxHd0JNSlo3WFlYVFJmUVJpdy1pNFQzdVFua09RcXFZQkpsOXJRTGpkLUdMc29UQ1Z1Vlk0cFlwbEVCWHEzZzFXcURhQ1FIUjBRS2dNQXVmWkZqSThmZVM5bEh1VXR5T1Z2dS10XzI3TV9JRlpKdGo2enh5bdIBtgFBVV95cUxNcDRJS0tpS0xtT1lEN1ZjOWVGWERyX01uVDRmeEh6bER5dDRyUlVWWEJsNEYwRFVUNmNlSmJrWENGSFZiZUJidnZvUmRDSFMyVTZMbUthendLWlp2MG5BLXNVUTZtMEhwRXpka0lOeVI3RDNGNklTMFFMMDM1N0VGejF1dU9KSXc0T0dqa3JKaVNzUFVLMXBCS2pwcG1BTjAxY3RIVVNRc1RhWWdvOC1va1Y2YTBpUQ?oc=5",
-      "description": "More than 70 health conditions that affect nearly all Americans are linked to increased risk of dementia, scientists discover&nbsp;&nbsp;Daily MailStudy identifies medical conditions that could predict future Alzheimer’s disease&nbsp;&nbsp;Vanderbilt Health NewsDementia is not inevitable, says Public Health Wales, and these are the risk factors&nbsp;&nbsp;Deeside.comIdentified Diseases Often Preceding Alzheimer’s Disease&nbsp;&nbsp;Inbox.lvVUMC Team Finds More Than 70 Conditions Linked to Later ",
-      "pub_date": "2026-03-02T18:00:19+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "alzheimer disease",
-          "keyword": "dementia",
-          "related_drugs": [
-            "alectinib-hydrochloride",
-            "brigatinib",
-            "carbidopa",
-            "ceritinib",
-            "crizotinib"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "alectinib-hydrochloride",
-        "brigatinib",
-        "carbidopa",
-        "ceritinib",
-        "crizotinib"
       ]
     },
     {
@@ -1121,7 +1167,7 @@
       "source_feed": "google_uk",
       "title": "Confounding factors and biases abound when predicting molecular biomarkers from histological images - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMkFMM1ZualEtcjNCTXdEeDQ1dllzb0JXUXFka0tPSll4VzZXZEpBd1NpU3JiZExXUUtKOFlQandNOV9xa2JOSjA2N1kzY051TkphZk90Z2plSjNKMEF3?oc=5",
-      "description": "Confounding factors and biases abound when predicting molecular biomarkers from histological images&nbsp;&nbsp;NatureDigital pathology speeds diagnostics, but tends to take shortcuts to do so&nbsp;&nbsp;BioWorld MedTechAI Cancer Tools Risk “Shortcut Learning”&nbsp;&nbsp;Technology NetworksBiases Challenge Molecular Biomarker Predictions in Histology&nbsp;&nbsp;Bioengineer.orgAI Tools for Cancer Pathology May Rely on Hidden Shortcuts That Impact on Predictive Power&nbsp;&nbsp;GEN - Genetic Engine",
+      "description": "Confounding factors and biases abound when predicting molecular biomarkers from histological images&nbsp;&nbsp;NatureDigital pathology speeds diagnostics, but tends to take shortcuts to do so&nbsp;&nbsp;bioworld.comAI Cancer Tools Risk “Shortcut Learning”&nbsp;&nbsp;Technology NetworksBiases Challenge Molecular Biomarker Predictions in Histology&nbsp;&nbsp;Bioengineer.orgAI Tools for Cancer Pathology May Rely on Hidden Shortcuts That Impact on Predictive Power&nbsp;&nbsp;GEN - Genetic Engineerin",
       "pub_date": "2026-03-02T14:59:44+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -1301,7 +1347,7 @@
       "source_feed": "google_it",
       "title": "In arrivo nuova pillola per perdere peso: \"Più efficace della semaglutide\". Lo studio su TheLancet - Fanpage",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYlBubnVVU1dlODc4QzVoZlcwOEw2Mi14VmJYWlB3N2oyVTVLM2ZIQXI1RHNwTldab05QSXJrRG9sd252bWc2NWNtWnBqNi1obkw5LTI0MERzQVZscXpzX0NXQUg5Q090T1NXd09mM0E1OXZycmI0Yk9DSkFFTjB0anhfbXg5Tmh1SV94ZXd5YWVmd1pHc2drWXQyXzhURDFCbkhoem5WU0docFdTa1VxLTh3N0J1bzhMYUxxTnd3cm0tQjNET0sxTmdlS05JTEQ1YzNsSg?oc=5",
-      "description": "In arrivo nuova pillola per perdere peso: \"Più efficace della semaglutide\". Lo studio su TheLancet&nbsp;&nbsp;FanpageDiabete, una nuova pillola sembra superare l'attuale GLP-1 orale&nbsp;&nbsp;AGILa nuova pillola per dimagrire 'fa tutto', effetti su glicemia e colesterolo&nbsp;&nbsp;AdnkronosEli Lilly alla Conferenza TD Cowen: Strategia di Lancio di Orforglipron&nbsp;&nbsp;Investing.comOrforglipron: Farmaco Orale per Diabete e Obesità&nbsp;&nbsp;Microbiologia Italia",
+      "description": "In arrivo nuova pillola per perdere peso: \"Più efficace della semaglutide\". Lo studio su TheLancet&nbsp;&nbsp;FanpageDiabete, una nuova pillola sembra superare l'attuale GLP-1 orale&nbsp;&nbsp;AGIOrforglipron: Farmaco Orale per Diabete e Obesità&nbsp;&nbsp;Microbiologia ItaliaFarmaci contro diabete e obesità, ultimi dati su orforglipron ne confermano i vantaggi&nbsp;&nbsp;RIFdayPerdere peso senza iniezioni? La nuova pillola GLP-1 promette fino all'8% di dimagrimento. Cosa sappiamo&nbsp;&nbsp;Il ",
       "pub_date": "2026-03-02T10:05:28+00:00",
       "matched_drugs": [
         {
@@ -1528,6 +1574,36 @@
       ]
     },
     {
+      "id": "093cab0185ba",
+      "source": "Nice-Matin",
+      "source_feed": "google_fr",
+      "title": "Cancer colorectal : 10 secondes pour un test gratuit qui guérit dans 9 cas sur 10 - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGRUckRraVFXTDVVYkZMM01LN09VTDVITkFiZFJMeXlMYnhMbHVxbThqTTJuVUx1c2gwYndqU2RaM0otYnpaUDVfTENVWHpkcnZudG00MktmSzh6dmJhRU5QeG5oNmgwZWp5TjdOTTlIM0ZGSHRWWW5kV1ZTNGN0ZG8zZzVIN095cXN4eXROREN0ekotRG1EVVFrRzNEM05LNG1KVkFuU2dscWpOdjNCNnNoNHZSbUJYSEJNWA?oc=5",
+      "description": "Cancer colorectal : 10 secondes pour un test gratuit qui guérit dans 9 cas sur 10&nbsp;&nbsp;Nice-MatinMars bleu : quels freins nuisent au dépistage du cancer colorectal ?&nbsp;&nbsp;Sud Ouest« Je pensais être protégé » : Sportif, végétarien et non-fumeur, Balram a quand même développé un cancer colorectal&nbsp;&nbsp;Nice-MatinUne journée pour lever les tabous sur le dépistage, au centre de soins infirmiers d’Ancenis-Saint-Géréon&nbsp;&nbsp;Ouest-FranceLa Ligue contre le cancer organise un événe",
+      "pub_date": "2026-03-02T08:00:09+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
       "id": "56077214ce35",
       "source": "AOL.co.uk",
       "source_feed": "google_uk",
@@ -1585,6 +1661,36 @@
         "duloxetine-hydrochloride",
         "esketamine-hydrochloride",
         "olanzapine"
+      ]
+    },
+    {
+      "id": "e735f4f82483",
+      "source": "AUSL Romagna",
+      "source_feed": "google_it",
+      "title": "Dal 4 al 6 marzo per i ragazzi tra gli 11 e 17 anni vaccinazioni contro il Papilloma virus a libero accesso nei distretti di Rimini e Riccione - AUSL Romagna",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTE9GSVVhalB6VzYyZGFWQnBQVnlFNTJkWnhUZXVzTmNiTXVXc2hVTDJiSUdSM29YY1VrbjUyWGdoU0U2TVBkdHJTdk4zaE9nZWYwWnRmRDJlWlBEbjdOQVhkaDY3UWdGaF9DRjB6TnpMWWZvUkg0Y1dpeFBjREdFVjNhdFZMUEZra0FqdnJ1TU9wbW1FOEFmaFFoeUZCaTZ4aEdJa3lWT3ZDY1JXUXNCTW5uTkI1Sl82a2ZxVVZ5M011VDhJTzFnLVZzMGNwY0EtVHpTcTN2WFhIY3o2Vm94WUo4azR6RlVob1M3SjNXNFE0WkdGd2ZvckNLdzV0Rl9YM2RnMDFXNTdrbVB0Z2F1ZGxCY1RTay1JWmdV?oc=5",
+      "description": "Dal 4 al 6 marzo per i ragazzi tra gli 11 e 17 anni vaccinazioni contro il Papilloma virus a libero accesso nei distretti di Rimini e Riccione&nbsp;&nbsp;AUSL RomagnaGiornata mondiale contro l'Hpv: open day gratuiti per la vaccinazione&nbsp;&nbsp;BrindisiReportCentri Impiego&nbsp;&nbsp;regione.marche.itPrevenzione: la Casa di Cura San Rossore spiega i pericoli del Papilloma virus umano&nbsp;&nbsp;PisaTodayHpv. In Italia oltre 7.000 diagnosi di tumore e 3.000 decessi all’anno. Dall’Iss 5 cose da ",
+      "pub_date": "2026-03-02T06:19:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
       ]
     },
     {
