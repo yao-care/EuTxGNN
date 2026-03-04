@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Dexamethasone
-description: "Dexamethasone drug repurposing predictions from TxGNN. Evidence level L5 with 174 predicted indications."
-parent: AI Predictions (L5)
+description: "dexamethasone drug repurposing predictions from TxGNN. Evidence level L1 with 174 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 170
-evidence_level: L5
+evidence_level: L1
 indication_count: 174
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **174**
+Evidence Level: **L1** | Predicted Indications: **174**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **174**
 | Drug Name | Dexamethasone |
 | DrugBank ID | [DB01234](https://go.drugbank.com/drugs/DB01234) |
 | Brand Names (EU) | Neofordex, Ozurdex |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 174 |
 | Top Prediction Score | 99.99% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| alopecia areata | L1 | 13 | 20 | 3 Phase 2 trial(s), 2 RCT(s), 2 review(s)/meta-ana |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

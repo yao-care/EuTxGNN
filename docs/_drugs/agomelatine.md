@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Agomelatine
-description: "Agomelatine drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "agomelatine drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 23
-evidence_level: L5
+evidence_level: L1
 indication_count: 50
 ---
 
 # Agomelatine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Agomelatine |
 | DrugBank ID | [DB06594](https://go.drugbank.com/drugs/DB06594) |
 | Brand Names (EU) | Valdoxan |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.98% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| anxiety disorder | L1 | 14 | 20 | 8 Phase 3 trial(s), 1 Phase 2 trial(s), 2 RCT(s),  |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

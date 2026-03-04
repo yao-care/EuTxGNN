@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Atezolizumab
-description: "Atezolizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "atezolizumab drug repurposing predictions from TxGNN. Evidence level L3 with 50 predicted indications."
+parent: Observational Evidence (L3)
 nav_order: 54
-evidence_level: L5
+evidence_level: L3
 indication_count: 50
 ---
 
 # Atezolizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L3** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Atezolizumab |
 | DrugBank ID | [DB11595](https://go.drugbank.com/drugs/DB11595) |
 | Brand Names (EU) | Tecentriq |
-| Evidence Level | L5 |
+| Evidence Level | L3 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.98% |
 
@@ -66,6 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| prostatic urethra urothelial carcinoma | L3 | 2 | 0 | 1 Phase 2 trial(s) |
+| renal pelvis papillary urothelial carcinoma | L4 | 1 | 0 | AI prediction only |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

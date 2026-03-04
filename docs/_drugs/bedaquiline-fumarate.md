@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Bedaquiline Fumarate
-description: "Bedaquiline Fumarate drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "bedaquiline fumarate drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 72
-evidence_level: L5
+evidence_level: L2
 indication_count: 50
 ---
 
 # Bedaquiline Fumarate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L2** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Bedaquiline Fumarate |
 | DrugBank ID | [DB08903](https://go.drugbank.com/drugs/DB08903) |
 | Brand Names (EU) | Sirturo |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.98% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| multidrug-resistant tuberculosis | L2 | 0 | 6 | 1 RCT(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

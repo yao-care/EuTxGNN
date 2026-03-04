@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Turoctocog Alfa Pegol
-description: "Turoctocog Alfa Pegol drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "turoctocog alfa pegol drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 612
-evidence_level: L5
+evidence_level: L1
 indication_count: 50
 ---
 
 # Turoctocog Alfa Pegol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Turoctocog Alfa Pegol |
 | DrugBank ID | [DB14738](https://go.drugbank.com/drugs/DB14738) |
 | Brand Names (EU) | Esperoct |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| hemophilia | L1 | 15 | 20 | 7 Phase 3 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

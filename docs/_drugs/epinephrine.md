@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Epinephrine
-description: "Epinephrine drug repurposing predictions from TxGNN. Evidence level L5 with 54 predicted indications."
-parent: AI Predictions (L5)
+description: "epinephrine drug repurposing predictions from TxGNN. Evidence level L1 with 54 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 216
-evidence_level: L5
+evidence_level: L1
 indication_count: 54
 ---
 
 # Epinephrine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **54**
+Evidence Level: **L1** | Predicted Indications: **54**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **54**
 | Drug Name | Epinephrine |
 | DrugBank ID | [DB00668](https://go.drugbank.com/drugs/DB00668) |
 | Brand Names (EU) | Eurneffy |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 54 |
 | Top Prediction Score | 99.98% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| bronchitis | L1 | 20 | 19 | 2 Phase 3 trial(s), 6 Phase 2 trial(s), 1 RCT(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

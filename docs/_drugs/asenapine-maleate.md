@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Asenapine Maleate
-description: "Asenapine Maleate drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "asenapine maleate drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 51
-evidence_level: L5
+evidence_level: L1
 indication_count: 50
 ---
 
 # Asenapine Maleate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Asenapine Maleate |
 | DrugBank ID | [DB06216](https://go.drugbank.com/drugs/DB06216) |
 | Brand Names (EU) | Sycrest |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.99% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| manic bipolar affective disorder | L1 | 13 | 0 | 9 Phase 3 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

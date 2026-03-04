@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Diflunisal
-description: "Diflunisal drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "diflunisal drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 174
-evidence_level: L5
+evidence_level: L1
 indication_count: 50
 ---
 
 # Diflunisal
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Diflunisal |
 | DrugBank ID | [DB00861](https://go.drugbank.com/drugs/DB00861) |
 | Brand Names (EU) | Attrogy |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,6 +66,17 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| rheumatoid arthritis | L1 | 0 | 20 | 11 RCT(s) |
+| osteoarthritis | L1 | 0 | 20 | 9 RCT(s), 1 review(s)/meta-analysis |
+| ankylosing spondylitis | L2 | 0 | 7 | 2 RCT(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

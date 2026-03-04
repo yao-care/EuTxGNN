@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Simoctocog Alfa
-description: "Simoctocog Alfa drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "simoctocog alfa drug repurposing predictions from TxGNN. Evidence level L4 with 50 predicted indications."
+parent: Preclinical Evidence (L4)
 nav_order: 530
-evidence_level: L5
+evidence_level: L4
 indication_count: 50
 ---
 
 # Simoctocog Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Simoctocog Alfa |
 | DrugBank ID | [DB09108](https://go.drugbank.com/drugs/DB09108) |
 | Brand Names (EU) | Nuwiq |
-| Evidence Level | L5 |
+| Evidence Level | L4 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| hemophilia | L4 | 3 | 11 | 1 Phase 3 trial(s), 1 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

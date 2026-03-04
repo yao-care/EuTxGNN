@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Eptifibatide
-description: "Eptifibatide drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
+description: "eptifibatide drug repurposing predictions from TxGNN. Evidence level L4 with 51 predicted indications."
+parent: Preclinical Evidence (L4)
 nav_order: 217
-evidence_level: L5
+evidence_level: L4
 indication_count: 51
 ---
 
 # Eptifibatide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+Evidence Level: **L4** | Predicted Indications: **51**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **51**
 | Drug Name | Eptifibatide |
 | DrugBank ID | [DB00063](https://go.drugbank.com/drugs/DB00063) |
 | Brand Names (EU) | Eptifibatide Accord, Integrilin |
-| Evidence Level | L5 |
+| Evidence Level | L4 |
 | Predicted Indications | 51 |
 | Top Prediction Score | 99.99% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| hemoglobinopathy | L4 | 1 | 0 | AI prediction only |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

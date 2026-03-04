@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Fluticasone Furoate
-description: "Fluticasone Furoate drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
+description: "fluticasone furoate drug repurposing predictions from TxGNN. Evidence level L1 with 52 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 252
-evidence_level: L5
+evidence_level: L1
 indication_count: 52
 ---
 
 # Fluticasone Furoate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+Evidence Level: **L1** | Predicted Indications: **52**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **52**
 | Drug Name | Fluticasone Furoate |
 | DrugBank ID | [DB08906](https://go.drugbank.com/drugs/DB08906) |
 | Brand Names (EU) | Avamys, Relvar Ellipta, Revinty Ellipta |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 52 |
 | Top Prediction Score | 99.98% |
 
@@ -66,6 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| allergic asthma | L1 | 20 | 2 | 8 Phase 3 trial(s), 4 Phase 2 trial(s), 1 RCT(s) |
+| atopic eczema | L1 | 11 | 0 | 1 Phase 3 trial(s), 2 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

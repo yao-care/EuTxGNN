@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Imatinib
-description: "Imatinib drug repurposing predictions from TxGNN. Evidence level L5 with 56 predicted indications."
-parent: AI Predictions (L5)
+description: "imatinib drug repurposing predictions from TxGNN. Evidence level L2 with 56 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 293
-evidence_level: L5
+evidence_level: L2
 indication_count: 56
 ---
 
 # Imatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **56**
+Evidence Level: **L2** | Predicted Indications: **56**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **56**
 | Drug Name | Imatinib |
 | DrugBank ID | [DB00619](https://go.drugbank.com/drugs/DB00619) |
 | Brand Names (EU) | Glivec, Imatinib Accord, Imatinib Teva |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | Predicted Indications | 56 |
 | Top Prediction Score | 99.99% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| dermatofibrosarcoma protuberans | L2 | 9 | 20 | 7 Phase 2 trial(s), 2 review(s)/meta-analysis |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Icatibant Acetate
-description: "Icatibant Acetate drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "icatibant acetate drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 286
-evidence_level: L5
+evidence_level: L1
 indication_count: 50
 ---
 
 # Icatibant Acetate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Icatibant Acetate |
 | DrugBank ID | [DB06196](https://go.drugbank.com/drugs/DB06196) |
 | Brand Names (EU) | Icatibant Accord |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.99% |
 
@@ -66,6 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| C1 inhibitor deficiency | L1 | 20 | 0 | 8 Phase 3 trial(s), 3 Phase 2 trial(s) |
+| hereditary angioedema with C1Inh deficiency | L1 | 5 | 0 | 2 Phase 3 trial(s), 2 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources
