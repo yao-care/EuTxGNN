@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Travoprost
-description: "Travoprost drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "travoprost drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 605
-evidence_level: L5
+evidence_level: L1
 indication_count: 50
 ---
 
 # Travoprost
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Travoprost |
 | DrugBank ID | [DB00287](https://go.drugbank.com/drugs/DB00287) |
 | Brand Names (EU) | Izba |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,6 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| open-angle glaucoma | L1 | 20 | 19 | 8 Phase 3 trial(s), 3 Phase 2 trial(s), 2 RCT(s),  |
+| vascular disease | L1 | 15 | 0 | 5 Phase 3 trial(s), 1 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

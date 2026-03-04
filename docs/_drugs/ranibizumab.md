@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Ranibizumab
-description: "Ranibizumab drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
+description: "ranibizumab drug repurposing predictions from TxGNN. Evidence level L1 with 52 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 478
-evidence_level: L5
+evidence_level: L1
 indication_count: 52
 ---
 
 # Ranibizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+Evidence Level: **L1** | Predicted Indications: **52**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **52**
 | Drug Name | Ranibizumab |
 | DrugBank ID | [DB01270](https://go.drugbank.com/drugs/DB01270) |
 | Brand Names (EU) | Lucentis, Rimmyrah, Ximluci |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 52 |
 | Top Prediction Score | 99.99% |
 
@@ -66,6 +66,17 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| diabetic retinopathy | L1 | 20 | 19 | 8 Phase 3 trial(s), 4 Phase 2 trial(s), 6 RCT(s),  |
+| diabetic cataract | L1 | 20 | 1 | 4 Phase 3 trial(s), 3 Phase 2 trial(s) |
+| severe nonproliferative diabetic retinopathy | L1 | 6 | 2 | 4 Phase 3 trial(s), 2 RCT(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

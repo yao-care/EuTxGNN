@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Filgrastim
-description: "Filgrastim drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "filgrastim drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 246
-evidence_level: L5
+evidence_level: L2
 indication_count: 50
 ---
 
 # Filgrastim
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L2** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Filgrastim |
 | DrugBank ID | [DB00099](https://go.drugbank.com/drugs/DB00099) |
 | Brand Names (EU) | Ratiograstim |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| primary release disorder of platelets | L2 | 14 | 0 | 1 Phase 3 trial(s), 10 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

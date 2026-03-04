@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Bimatoprost
-description: "Bimatoprost drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
+description: "bimatoprost drug repurposing predictions from TxGNN. Evidence level L2 with 51 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 82
-evidence_level: L5
+evidence_level: L2
 indication_count: 51
 ---
 
 # Bimatoprost
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+Evidence Level: **L2** | Predicted Indications: **51**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **51**
 | Drug Name | Bimatoprost |
 | DrugBank ID | [DB00905](https://go.drugbank.com/drugs/DB00905) |
 | Brand Names (EU) | Lumigan |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | Predicted Indications | 51 |
 | Top Prediction Score | 100.00% |
 
@@ -66,6 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| alopecia | L2 | 11 | 20 | 4 Phase 2 trial(s), 1 RCT(s), 1 review(s)/meta-ana |
+| hypertrichosis (disease) | L4 | 2 | 0 | AI prediction only |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

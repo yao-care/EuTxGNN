@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Pemetrexed
-description: "Pemetrexed drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
+description: "pemetrexed drug repurposing predictions from TxGNN. Evidence level L1 with 51 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 451
-evidence_level: L5
+evidence_level: L1
 indication_count: 51
 ---
 
 # Pemetrexed
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+Evidence Level: **L1** | Predicted Indications: **51**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **51**
 | Drug Name | Pemetrexed |
 | DrugBank ID | [DB00642](https://go.drugbank.com/drugs/DB00642) |
 | Brand Names (EU) | Pemetrexed Fresenius Kabi |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 51 |
 | Top Prediction Score | 99.99% |
 
@@ -66,6 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| pleural mesothelioma | L1 | 20 | 20 | 5 Phase 3 trial(s), 3 Phase 2 trial(s), 3 RCT(s) |
+| malignant peritoneal mesothelioma | L3 | 11 | 20 | 6 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

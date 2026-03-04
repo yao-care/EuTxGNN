@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Rotigotine
-description: "Rotigotine drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "rotigotine drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 508
-evidence_level: L5
+evidence_level: L2
 indication_count: 50
 ---
 
 # Rotigotine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L2** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Rotigotine |
 | DrugBank ID | [DB05271](https://go.drugbank.com/drugs/DB05271) |
 | Brand Names (EU) | Neupro |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| schizophrenia | L2 | 0 | 3 | 1 review(s)/meta-analysis |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

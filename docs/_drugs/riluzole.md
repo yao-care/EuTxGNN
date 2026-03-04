@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Riluzole
-description: "Riluzole drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "riluzole drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 493
-evidence_level: L5
+evidence_level: L1
 indication_count: 50
 ---
 
 # Riluzole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Riluzole |
 | DrugBank ID | [DB00740](https://go.drugbank.com/drugs/DB00740) |
 | Brand Names (EU) | Rilutek |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.99% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| amyotrophic lateral sclerosis | L1 | 20 | 20 | 1 Phase 3 trial(s), 11 Phase 2 trial(s), 2 RCT(s), |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

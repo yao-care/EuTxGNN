@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Febuxostat
-description: "Febuxostat drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "febuxostat drug repurposing predictions from TxGNN. Evidence level L4 with 50 predicted indications."
+parent: Preclinical Evidence (L4)
 nav_order: 238
-evidence_level: L5
+evidence_level: L4
 indication_count: 50
 ---
 
 # Febuxostat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Febuxostat |
 | DrugBank ID | [DB04854](https://go.drugbank.com/drugs/DB04854) |
 | Brand Names (EU) | Febuxostat Krka |
-| Evidence Level | L5 |
+| Evidence Level | L4 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| hypouricemia, renal | L4 | 1 | 0 | AI prediction only |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

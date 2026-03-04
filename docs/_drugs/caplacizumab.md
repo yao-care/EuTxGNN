@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Caplacizumab
-description: "Caplacizumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "caplacizumab drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 113
-evidence_level: L5
+evidence_level: L1
 indication_count: 50
 ---
 
 # Caplacizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Caplacizumab |
 | DrugBank ID | [DB06081](https://go.drugbank.com/drugs/DB06081) |
 | Brand Names (EU) | Cablivi |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| thrombotic thrombocytopenic purpura | L1 | 14 | 19 | 3 Phase 3 trial(s), 3 Phase 2 trial(s), 2 RCT(s),  |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources
