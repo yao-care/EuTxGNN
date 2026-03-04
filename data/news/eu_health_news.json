@@ -1,26 +1,1660 @@
 {
   "description": "EU health news with drug-disease relations from EuTxGNN",
-  "fetched_at": "2026-03-04T01:35:49.207864+00:00",
-  "total_items": 313,
-  "relevant_items": 164,
-  "drug_disease_pairs": 3,
+  "fetched_at": "2026-03-04T01:43:24.195352+00:00",
+  "total_items": 340,
+  "relevant_items": 54,
   "sources": [
+    "google_uk",
+    "google_de",
+    "google_fr",
+    "google_es",
+    "google_it",
     "ema_news",
-    "ema_whats_new",
     "ema_human_medicines",
-    "ema_new_human_medicines",
     "ecdc_news",
-    "ecdc_risk",
-    "ecdc_guidance",
-    "ecdc_epidemiological"
+    "ecdc_risk"
   ],
   "items": [
     {
-      "source": "ema_news",
+      "id": "132ba48d6d00",
+      "source": "IM Farmacias",
+      "source_feed": "google_es",
+      "title": "Nanopartículas lipídicas pueden transportar eficazmente ARNm y prevenir la diabetes tipo 1 - IM Farmacias",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXFmZHJYZFBrUUxicWhsbnpMYlFlRm85ajNHajNvRkFJM0h3QmJmSjRGZUdHZGUzVHRaRnRWNlRFVkhnR0tJUkZSaUx6NWtoOE10YW0zbWZ0MHF3eXdZVFptcUdYNnZMaHNiOTlNUkRNODQ5VXdKRHh0UkwtNHRKbFBBREVPSTVFY0RIOEc2R2U4STVBTkxTWWNWNFpuSjlOLU9TVjBleTh2eHU4TklOYkhR0gGsAUFVX3lxTE51RGNXNkk3ejhJZjRhX00yb2NKVTlPSkxJcnV3anRzWUxrQmZhUDZiUWJoaV92OUNyOHRublFTb0xBMWtIYXFZQTlmX24yNk1OZ3l4bk9oc2w0TU5NNGNLdHZ5d1NxckRGRTJCa3BIdDJSQVBtV2RGMTBrM25VRVEzZWE2SVF6WUZEbmN2MmFGYVgycXhvTzZ5bHV2WHFqaTd3NTlYTXRXeDZPUWo?oc=5",
+      "description": "Nanopartículas lipídicas pueden transportar eficazmente ARNm y prevenir la diabetes tipo 1&nbsp;&nbsp;IM Farmacias",
+      "pub_date": "2026-03-03T18:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
+          "related_drugs": [
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab"
+      ]
+    },
+    {
+      "id": "80f973dadaa9",
+      "source": "El Economista",
+      "source_feed": "google_es",
+      "title": "Si tienes obesidad, podrías estar aumentando el riesgo de enfermedades crónicas: \"Se ha convertido en un problema de salud pública\" - El Economista",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPOFRZSnJ5S0tDZWxrd1pBMW1aWU0wOUZWeHV0TUU4VEl6eFFwaUtVSmY3dExYMmY1eEZnOUdiaE5POEYtTDgyQmd3MGQwSlFpT0RMSFFhVHBqbjVqNVU5XzdkcHdtcEtLWHZRamk2ellLbEllOHFpNzExWkFfbzlLNHpmZlJkc09WQjhfaVJaWi1DX3VmWE9fYWZLQ2gxRlBaNUZSQVhhY3FXZ213Vi1MZHFLUmJGdFBjVjhFT0tOWTNUQ0lWNXFqSzd5Q01Kdm1kSnVJX3UzbmtwTWI1V3ZMMHZNYnl2QUFWdUZLX3oyckt0bjZWQVVreUVBb1d5amNKT1o3eERQa0kxcE1mUF9VOW1hSkozc2xhSTNESzd1UkJyU2s3ZlhCNGtGLXFpU1dqN0R5Tw?oc=5",
+      "description": "Si tienes obesidad, podrías estar aumentando el riesgo de enfermedades crónicas: \"Se ha convertido en un problema de salud pública\"&nbsp;&nbsp;El EconomistaNi una cuestión estética ni un problema de voluntad: la obesidad, una enfermedad crónica que ya afecta a 900 millones de personas&nbsp;&nbsp;AtresmediaObesidad, la 'epidemia' global contra la que la prevención es la clave&nbsp;&nbsp;elDiario.esTendencia clínica: Políticas clave para la obesidad&nbsp;&nbsp;MedscapeDía Mundial de la Obesidad 20",
+      "pub_date": "2026-03-03T17:13:50+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "obesidad",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "39b812d75f22",
+      "source": "IM Médico",
+      "source_feed": "google_es",
+      "title": "Una población linfocitaria define el pronóstico en dos tipos de tumores - IM Médico",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVpXX2FhRGRnSW9EcDZBVnBFYk43MmhXbE9CRk95Und5ellhajlMS3cyOVZka0tUTlAtVFhaUDZTYk90MnhTNVV5ZW91MlhrWUdFc2VacUdVQldjYlYwRnY1M0cxMG12OHZxZ1dpVlVXMERXYk9NWktiSVVDMzg3eXJmaFE0NlZWak90ZmtXeWJCNF9BOEZtNVBhendKUGRBOXNBR3VBOUlveTJuS1pjZVFtVFM1UEVyM280OGpMbXc?oc=5",
+      "description": "Una población linfocitaria define el pronóstico en dos tipos de tumores&nbsp;&nbsp;IM Médico",
+      "pub_date": "2026-03-03T17:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "7b1cf729b753",
+      "source": "Tagesspiegel",
+      "source_feed": "google_de",
+      "title": "Mach den ersten Schritt: Lilly eröffnet interaktive Adipositas-Erlebniswelt im Berliner Masumi Space - Tagesspiegel",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMHUyRF9yeEZJajRTRGtkYTRnNFF2cF9LVGtQdlpDLTVhT1BhbXJYM01FXzVMdEhJT25wcXVfVFpmbVhwdXR5R3lCYVRDVVdJYzJadldWQm5XZ2tlTGZZb0puWmdZdWV0UW5SejZLOEltUXh0RkZ0MFRRWDg0YzhRWkNZbHBmUV9KWlNaaDVJdlQyVWZmT1NNUmpGNENsZ0J6cFJzRlZMNmNVbkFPajV3bTVKaFZqbm90WkVaZ21IM1gwYmlDckctZTExSkNFVzRUbUZyTTJLWm5PRFkxNTlhRkFmY0VSTXc2ZnJZeUhKMA?oc=5",
+      "description": "Mach den ersten Schritt: Lilly eröffnet interaktive Adipositas-Erlebniswelt im Berliner Masumi Space&nbsp;&nbsp;Tagesspiegel",
+      "pub_date": "2026-03-03T16:26:56+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "Adipositas",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "93de4816ccfb",
+      "source": "Ärzte Zeitung",
+      "source_feed": "google_de",
+      "title": "Nahrungsergänzungsmittel bei Krebs: Viel hilft nicht viel – sondern kann wohl sogar schaden - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVDlTbzhRX0ZOaFN2VFNIZTVUWkQwWFNjdXRzOVFCaUNhMHdNbHF2bUN0UzJVY0xvSjc1UlN1cldLUWtIOEl4OFpQdmE3WFhFZ0xPSG9FY3B4eEpXaUF3anhobE4weG1CdFBmMFIxYzV1bUJXYkVvUFVJRlpla2lVcW9VOVBxTzJ5RUZlRnYyOU5CX0RwNkdERmRyTjZKbzU2cU14RHJKUjNxNHlzNFJqRUNrel9NQUFELUZBdWtwYkY5ZmlqQk9JUlRnQWtmb1lzMW9HbURBcw?oc=5",
+      "description": "Nahrungsergänzungsmittel bei Krebs: Viel hilft nicht viel – sondern kann wohl sogar schaden&nbsp;&nbsp;Ärzte Zeitung",
+      "pub_date": "2026-03-03T16:07:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "3ba0080038fe",
+      "source": "Social Mag",
+      "source_feed": "google_fr",
+      "title": "Cancer du côlon : combien de fibres pour réduire le risque ? - Social Mag",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ19kWHZxZUpLcDUxcUJkeVNCSzRrQzhiTVFLTVhLOFZBN0ZmWjAwa3BnZ1FkUFFIekdhY2Rkd3FPVW82dWFMTEVlTUJZc1dOTU1xYkdPNzRHUlVVMGxiWVJnUkxZTWFaZWVLcTI1UHgtVGctVlRtcnpsR25ONV8zUXVB?oc=5",
+      "description": "Cancer du côlon : combien de fibres pour réduire le risque ?&nbsp;&nbsp;Social MagVoir la couverture complète sur Google Actualités",
+      "pub_date": "2026-03-03T16:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "3ba7bb956ed3",
+      "source": "Cronache Maceratesi",
+      "source_feed": "google_it",
+      "title": "Open day sulla psoriasi, 30 visite gratis in provincia - Cronache Maceratesi",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUVtVDhyUWw4QkV2TzhDdWFSbkVXbG1VUG82d2t4dzFpS2VnbThMNTFRUWRWcGJMOVVYYmRITzFNNGZ0WUd4MndsQWJNa3l0VkVDUmtDbWlTc05FN1RPMjctanMxeFZuQ3o5b2lLRzJXMUNMOElkUFdfZkVwcGFuMFhMVEhvdl9hMjdHOFlMRnpsOE1KejZPSFVZUkR6cHZOdnVsZGU1WE0?oc=5",
+      "description": "Open day sulla psoriasi, 30 visite gratis in provincia&nbsp;&nbsp;Cronache MaceratesiA Torrette una giornata per la psoriasi, prenotabili visite gratuite l'11 marzo&nbsp;&nbsp;ANSAVisite dermatologiche gratuite per la psoriasi al Policlinico San Donato&nbsp;&nbsp;grupposandonato.itAl San Camillo Forlanini visite gratuite per la psoriasi&nbsp;&nbsp;RomaTodayPsoriasi: visite, colloqui e consulenze specialistiche gratuite all'ospedale Santa Chiara&nbsp;&nbsp;PisaToday",
+      "pub_date": "2026-03-03T15:15:01+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "psoriasis",
+          "keyword": "soriasi",
+          "related_drugs": [
+            "blinatumomab",
+            "darbepoetin-alfa",
+            "guselkumab",
+            "inebilizumab",
+            "lebrikizumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "blinatumomab",
+        "darbepoetin-alfa",
+        "guselkumab",
+        "inebilizumab",
+        "lebrikizumab"
+      ]
+    },
+    {
+      "id": "7a860794aa59",
+      "source": "Deutsches Ärzteblatt",
+      "source_feed": "google_de",
+      "title": "Planetary Health Diet: Möglicherweise geringeres Risiko für chronische Nierenerkrankung – News - Deutsches Ärzteblatt",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNE1KYmVNSWRURlJPZEVYdDdENkRBMlo4UGNKVHRnbURMS3FEVjRUaVROWk84WDdsRFVCUEVfX3RYN0JpNUFjVTJFSEJER1YxdjZyaWM4N1RROUlvTFFqZHU0R3VtMnFEZ1dwVWJJam5scmVsaUR3aEU5YXF3eXdfNXBDVk5xQjdTMEtKQ2FpVXdBYkNkS2htaVFyV3FiUjFvTTVHZnRMblAydzlTS1hFVUhhVmIxM05IWDd5SmZreU94Q0RLVlliYjBTajF4SENZVW5vM0RUdUJFRzN0V042akZIMkZEbERfM2dYdnVzSFBJR1BJSG9lX2hHOGl0bjU3Znc?oc=5",
+      "description": "Planetary Health Diet: Möglicherweise geringeres Risiko für chronische Nierenerkrankung – News&nbsp;&nbsp;Deutsches Ärzteblatt",
+      "pub_date": "2026-03-03T14:23:07+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "chronic kidney disease",
+          "keyword": "chronische Nierenerkrankung",
+          "related_drugs": [
+            "alirocumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "alirocumab"
+      ]
+    },
+    {
+      "id": "6e363500429b",
+      "source": "OP Online",
+      "source_feed": "google_de",
+      "title": "Neues Eisen-Nanomaterial zerstört Krebszellen – gesundes Gewebe bleibt verschont - OP Online",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2p4dXp4UWF3NDlRSjRUZnlzMWJCNUZZS01BMk16NlVYTWlKZ3J4eUtxM1BnNC1XaldSU0RXT3JaamRCaTAzeUNWRml3MFRlYnhXeG9XbHNNVlJIT0wyQ1REMGlJN0NkTEthUGlNdW0yWTRudDVFYkxZd3UxLU9MemI5blo2SDdQZlRid3V2d3JNUVVhODJWNXNLQkdpdGIycVR3R3VUREtIajhDYzgzeWlvYkxUNHpKdUxOLWh4TENJQkZ4?oc=5",
+      "description": "Neues Eisen-Nanomaterial zerstört Krebszellen – gesundes Gewebe bleibt verschont&nbsp;&nbsp;OP Online",
+      "pub_date": "2026-03-03T14:20:55+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "16160fe8a777",
+      "source": "Il Messaggero",
+      "source_feed": "google_it",
+      "title": "Pasti pronti da microonde, danni alla salute. «Aumentano il rischio di tumori e infarti». Quali evitare nei supermercati - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFBZTnVFUEMwdHJ3V1A5ZFp0T2lwUXdLSzJFSHI1cUhoVkNWSlp1aFJtdElWUEJRYy1pcFFocGFSNVp2YTZvR1NqYk9tbG5manNxWHRRd3htQzRUMWYxS3NBbzM1NnVzRUJHV2dUODNXYTVlZFJyVDJCdndnbkZVYXUxTWdNRkhZU1VEb1lfbHBJZXdy0gGSAUFVX3lxTFBONk9xdnB5WHotejlpSU5TWHVmV1IyTTBDNGtIYzFRSTBwSHdOMjlUMG1SRGljdEtxWFRCUnRzZjFmODZVQXF0a0hFSVF1a0lDajM2OGhSN2xOb1VqTkZsaDBTZWdmbmE4Yk9NaG94TW1SVzRDZTRGNnB3UFczeDVJMG5idTUzemItVDVHQkZObHFn?oc=5",
+      "description": "Pasti pronti da microonde, danni alla salute. «Aumentano il rischio di tumori e infarti». Quali evitare nei supermercati&nbsp;&nbsp;Il MessaggeroRiscaldare cibi in contenitori di plastica può liberare microplastiche negli alimenti&nbsp;&nbsp;sanitainformazione.itMicroplastiche e contaminanti scaldando la plastica nel microonde&nbsp;&nbsp;Il Fatto AlimentarePerché non dovresti (mai) riscaldare il cibo confezionato nel microonde&nbsp;&nbsp;today.it\"Tumori e infarti\": pasti pronti per il microonde,",
+      "pub_date": "2026-03-03T14:14:34+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "5b47af4e4e93",
+      "source": "gesundheit adhoc",
+      "source_feed": "google_de",
+      "title": "BKK Pfalz übernimmt Kosten für innovatives Adipositas-Programm Gro Health - gesundheit adhoc",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakp1WnRKU0RGNXpNckJYY1NmeVo1UTZGYTlBWkdnMDJYXzR5amlYLWR5U0FkaDBkMmREWFFCd3J5Rnp3cEplM2RwWEV4RzQzaENDcXFyWmJveTU5MTZjanZJZG4xTmp0ODJseHRpUld5NXJHX1psN25NUFRwT2MyTVBjNVJBb3BjTDY5MzlfMklsdkN6anRMbEY3NWhWckxzTDhsQ3dMTGdTa05q?oc=5",
+      "description": "BKK Pfalz übernimmt Kosten für innovatives Adipositas-Programm Gro Health&nbsp;&nbsp;gesundheit adhoc",
+      "pub_date": "2026-03-03T12:54:55+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "Adipositas",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "c732f63d26c7",
+      "source": "Onda Cero",
+      "source_feed": "google_es",
+      "title": "Migraña: por qué no es solo un dolor de cabeza y qué ocurre realmente en el cerebro - Onda Cero",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTnJKM3JUU1JVNFFwZmplN2tRbFZpel9JalVBYVp2bVNOZVFPM3VKU21aSDVPNlJqd2NrWWp6VlpjNG5XTDhUUzZ4cGN3MUhZQnpkckFEdkJFN3BSTVNhT2p6VlFqQ1gtem1Td0pZYmxfMFdmek5STWVEd2xoSnphLVRnVEVBM2w2M3JVazZDSWZLdVJwQmVFVGVYMi1iUzd5UVVjenJDVW5LTHFZVDkyWjN0LWM0RFR0NUhHU2FkNGFRZlpmd05CSExvQTlWYnZX0gHQAUFVX3lxTFBtNEtOcnVtdDhNWWpWVmxLbTdVQ0RSMUxBd1AzSXFOVy1jN3NJRDhVYTNuUnczSUdiaG9uTGJTWmtxMmZsdjV4YzJoSlZYMUlpMUtLclFPX0RHQkdiYlJpY05jZ0R6c21lcnkyNFY0RG9RbUJyazRFVGhFRk5LVk9ITTZsWFhFTlhzZW9FTDdqenNRcjdicmdFRWZQMk1DSnNxX1FmZmFCUE5xZEw1d2FqRzg0UjFiTVVFUG90UzBmbkNjSFNjX0R2ZHdtWEhpR2E?oc=5",
+      "description": "Migraña: por qué no es solo un dolor de cabeza y qué ocurre realmente en el cerebro&nbsp;&nbsp;Onda CeroMigraña, el dolor que condiciona la vida diaria y desafía a la ciencia&nbsp;&nbsp;InfobaeNo es “solo hormonal”: el papel del cerebro en la migraña femenina&nbsp;&nbsp;dolordecabeza.netLa primera causa de discapacidad en mujeres menores de 50 años: así impacta la migraña en España&nbsp;&nbsp;que.esMigraña: el reto científico tras la segunda causa de discapacidad&nbsp;&nbsp;KCH FM",
+      "pub_date": "2026-03-03T12:29:13+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "migraine",
+          "keyword": "migraña",
+          "related_drugs": [
+            "abaloparatide",
+            "abiraterone-acetate",
+            "acetylsalicylic-acid",
+            "aclidinium-bromide",
+            "alpelisib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "abiraterone-acetate",
+        "acetylsalicylic-acid",
+        "aclidinium-bromide",
+        "alpelisib"
+      ]
+    },
+    {
+      "id": "335966117311",
+      "source": "The Times",
+      "source_feed": "google_uk",
+      "title": "One in four breast cancer deaths linked to lifestyle factors such as diet - The Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWU9TUHEzTzJPb3hrNk9kejJqcUFfWXJMUExobm5sWXpLZEJYaEtiV21yTlN2aHRtb0VfeTk3eVJRN1U4blYydVQxUG9LcjVIODg0eHNTVWZtV1BrZVFiRVVNZzVnWTFSSWxoTlE5WkFFSjB2WlBaUHB4d0hDQ1dHaGRpZzRPRHhneThJNEdsbDk2NkQ3M1E?oc=5",
+      "description": "One in four breast cancer deaths linked to lifestyle factors such as diet&nbsp;&nbsp;The TimesQuarter of healthy years lost to breast cancer are due to lifestyle factors, research finds&nbsp;&nbsp;The GuardianGlobal breast cancer cases expected to reach over 3.5 million by 2050&nbsp;&nbsp;CNNNigeria records 543% surge in breast cancer cases as Africa tops global rise- Study&nbsp;&nbsp;Premium Times NigeriaBreast cancer in young women has increased by 29% in three decades&nbsp;&nbsp;EL PAÍS Engli",
+      "pub_date": "2026-03-03T12:25:08+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "e507ece97a89",
+      "source": "Fanpage",
+      "source_feed": "google_it",
+      "title": "Si innamora del suono degli Spitfire, aerei da guerra d'epoca: \"È un sintomo di demenza\". Il caso clinico - Fanpage",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdGE1TjhzeldRS1dIa1d3UlNXSDBOczViTXBCRDlnUm9SNG5sUk16N3JnM2MyYUUyMnk2MnpDUXk4NkZjZmxjQ0tuOHR2THctTXNURGJtVkxFVDZkeGZfY0xBVzRDQi04V2JNNzcyNnB1RnhRc1A3SFZWZVFjVU5uN1FON05sZGhIbENva2FEOUlTNVJQT2tjblRCcFpRU0UwX1ZYQXpkZF9XNUEtUzJreEc5emFwWlVvNS14eFYtSldIZ196OFFwLUU1RGt2Mk96dEYtcTR4RlpzSzQ?oc=5",
+      "description": "Si innamora del suono degli Spitfire, aerei da guerra d'epoca: \"È un sintomo di demenza\". Il caso clinico&nbsp;&nbsp;Fanpage",
+      "pub_date": "2026-03-03T12:05:02+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "copd",
+          "keyword": "EPOC",
+          "related_drugs": [
+            "basiliximab",
+            "botulinum-toxin-type-a",
+            "budesonide",
+            "cabotegravir",
+            "cilastatin"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "basiliximab",
+        "botulinum-toxin-type-a",
+        "budesonide",
+        "cabotegravir",
+        "cilastatin"
+      ]
+    },
+    {
+      "id": "d2c539627589",
+      "source": "Merateonline",
+      "source_feed": "google_it",
+      "title": "Mandic: cura dell’obesità. Dal 4 al 7 valutazioni gratuite bariatriche - Merateonline",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaC04T2Nwd1htQ29oS1hYSDdrSVlFTzVhd0RVeGo0cFBBNzNlNzBQRGVEQzYtZHV2LUVrZVFnZ2sycGJjQjFvTWx1WVl2Y0p4OXliVWpGTDZTUjN6YmdTNmM4dDI2UUlIcUxhMHJqWmdBbzZjUmdjUllYa2lsYTNUekVMaTNldzV0NldOakdXdTdJVDFfdzZDZEZHRWpoQ3VhNHgyTmlLNkJiNEFoeldnSGRVY0N3UTBMa2c?oc=5",
+      "description": "Mandic: cura dell’obesità. Dal 4 al 7 valutazioni gratuite bariatriche&nbsp;&nbsp;MerateonlineWorld obesity day, Aletheia: negli ultimi 25 anni il tasso di obesità in Italia è cresciuto del 39%&nbsp;&nbsp;la RepubblicaSanita': gli avvenimenti di MERCOLEDI' 4 marzo&nbsp;&nbsp;Il Sole 24 OREValutazioni bariatriche da parte della chirurgia generale dell’ospedale Mandic&nbsp;&nbsp;LeccoTodayObesità per quasi 6 milioni di italiani. Ma le cure migliorano&nbsp;&nbsp;Avvenire",
+      "pub_date": "2026-03-03T11:53:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "obesity",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "ecb833fd413f",
+      "source": "fnp.de",
+      "source_feed": "google_de",
+      "title": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann - fnp.de",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVBWZC1iV1BuY05BTlNtblR2YnpQMGd0dHBHeEZfcl92Y1ZkU25qMmpJVmJFX1JEa0hkWVQta0hEVURIcDVWUnBlZjFUTktOUV9KdWZ4UVFXVUFFYXpCUDFuOEFEZVBqeFRSdkE1c0p2cUhLREZJcjYyaVhhRGx1STc2SU9xOVVZLUVzTkpjUGFyM1hBRjY2QW1HaVE4V3NYM0J0dXVEWGhuTEVlR1hwQQ?oc=5",
+      "description": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann&nbsp;&nbsp;fnp.deNeue Leitlinien zur Schlaganfallprävention: Fokus auf Lebensstil und Bluthochdruck&nbsp;&nbsp;it boltwise20 Millionen Deutsche betroffen: 40 Prozent wissen nichts von ihrem Bluthochdruck – Arzt schlägt Alarm&nbsp;&nbsp;Merkur6 Tipps zur Senkung des Blutdrucks gemäß den neuen Richtlinien der American Heart Association.&nbsp;&nbsp;Vietnam.vnAHA / ASA stellen neue Schlaganfall-Leitlinien vor&nbsp;&nbsp;AD HOC NEWS",
+      "pub_date": "2026-03-03T11:51:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "hypertension",
+          "keyword": "Bluthochdruck",
+          "related_drugs": [
+            "abiraterone-acetate",
+            "aliskiren",
+            "alpelisib",
+            "ambrisentan",
+            "amlodipine"
+          ]
+        },
+        {
+          "name": "stroke",
+          "keyword": "Schlaganfall",
+          "related_drugs": [
+            "aliskiren",
+            "amlodipine",
+            "avanafil",
+            "azilsartan-medoxomil",
+            "dronedarone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abiraterone-acetate",
+        "aliskiren",
+        "alpelisib",
+        "ambrisentan",
+        "amlodipine",
+        "avanafil",
+        "azilsartan-medoxomil",
+        "dronedarone"
+      ]
+    },
+    {
+      "id": "c79cd9d239f4",
+      "source": "Outre-mer la 1ère",
+      "source_feed": "google_fr",
+      "title": "Ozempic : vers une plainte collective de victimes du médicament amaigrissant - Outre-mer la 1ère",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbm9aYzVtSXg1c2Y5X0d3RWtCZ29vWmFFRUwwbmxnMk1oWHFHZVMzLThGYjU5bXRFWkl3VnJhNXVHbkYzMUFKNWo0OWhvbXA1M2RjclZ0TGQta0lkOXRXTG9SU0twWEwyUDBmN1JmZTNTcWZQWkp6blB2d3ZHSUs0YURqQ2pGdUY0RndMN25IREFWZldQbXNCRU1xSHJrc2JHN0dpVXloZUw1TGZITlV5NF9sNzBKZjBJYW90TW80WTljcmxxQ0E?oc=5",
+      "description": "Ozempic : vers une plainte collective de victimes du médicament amaigrissant&nbsp;&nbsp;Outre-mer la 1èreNouveaux médicaments antiobésité : l’arrêt des injections entraîne une reprise de poids beaucoup plus rapide que prévu&nbsp;&nbsp;Sud OuestTrafic d’Ozempic dans les Alpes-Maritimes : comment le « médicament miracle » pour maigrir est revendu au prix fort au marché noir&nbsp;&nbsp;Nice-MatinMIDI SANTÉ - Certains médicaments contre l’obésité montre que la prise de poids après le traitement est ",
+      "pub_date": "2026-03-03T11:00:01+00:00",
+      "matched_drugs": [
+        {
+          "name": "Semaglutide",
+          "slug": "semaglutide",
+          "url": "/drugs/semaglutide/"
+        }
+      ],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "obésité",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "ca221bb060a0",
+      "source": "Il Sole 24 ORE",
+      "source_feed": "google_it",
+      "title": "Tumore al seno, nel mondo oltre 1 milione di casi in più entro il 2050 e +44% di morti: ecco i 6 fattori di rischio - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEtVbndRT0FQMlJmdEx0eXVYUlE3N3ZtYktkdkJEMVdmbEczYXRac2dTQlBicXA4dXd1UDZZTk1wRmJHazFpZDhiUUNWRW1waXBfMkMteUh0T2RPT1MyeUdfUlRpaEhZRWdzY3poY0NXYktXN1g2Y09DSkVoSjFjOHBsLXFIbXotenI3NkVwTjJyR1VReVUxdmZmVmFSZXhpV0g3ZXNaRThQYmpLTzJEenp0d2daTVlBbmZZd3FJMXhMb2U0QjVNbkVWcV83b1VRWnc?oc=5",
+      "description": "Tumore al seno, nel mondo oltre 1 milione di casi in più entro il 2050 e +44% di morti: ecco i 6 fattori di rischio&nbsp;&nbsp;Il Sole 24 ORETumore al seno, nel mondo un milione di casi in più entro il 2050: i fattori di rischio&nbsp;&nbsp;Sky TG24Tumore al seno: «È il più diffuso al mondo. Milioni di anni in salute persi a causa di sei fattori di rischio». Lo studio&nbsp;&nbsp;Corriere della SeraNel mondo le diagnosi di tumore al seno saliranno a 3,5 milioni entro il 2050&nbsp;&nbsp;la Repubbli",
+      "pub_date": "2026-03-03T08:54:10+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "a76ce90dbfe8",
+      "source": "Frankfurter Rundschau",
+      "source_feed": "google_de",
+      "title": "Viele haben es zu Hause: Neue Studie entdeckt fatale Wirkung von Schmerzmedikament - Frankfurter Rundschau",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcDBmem5BRFRjRE1VMU45eEFXbkNQV2NWT1c5Z3dVckI0NENPU2FhcjlkbWd4UTdBQ3dVYkVDRHJpZDFrZHk3dkswTXU5NWVGbl9oa2FxbDhCSEM0Z0VVUU92Z3RFSDlyZ0U5M0wxSzJLMG9NMDBSa2I5M25JQmU0R3M0cnRPY3E0Um9TbTVqV0lsbUFTV3ZZT2ZfYjY4ODVraEJ0SnJhbC15bG1JVkNtSlBSQkJVaE91YU10c1ZGOG9VV0ppTmc?oc=5",
+      "description": "Viele haben es zu Hause: Neue Studie entdeckt fatale Wirkung von Schmerzmedikament&nbsp;&nbsp;Frankfurter RundschauSchmerzmittel gegen Darmkrebs? Täglich Aspirin nehmen bringt wohl nichts – und kann sogar schaden&nbsp;&nbsp;TagesspiegelASS zur Darmkrebsprävention: Unklarer Nutzen, unmittelbares Risiko&nbsp;&nbsp;Pharmazeutische ZeitungStudie - Forscher raten von Aspirin als Mittel gegen Krebs ab&nbsp;&nbsp;DeutschlandfunkNeue Studie: Warum Aspirin dich nicht vor Darmkrebs schützt&nbsp;&nbsp;FIT ",
+      "pub_date": "2026-03-03T08:48:41+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "66bc2931090f",
+      "source": "Corriere della Sera",
+      "source_feed": "google_it",
+      "title": "Non mangiare animali riduce il rischio di alcuni tumori, ma non tutela da altri: il nuovo studio inglese - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZXMtdm5PRW9BRzB5U1JuVzhRdUtnaEJGTElFbnJENU03bjJ3Zll2V3NpOGU2ZTh4YjlIMXM3YWNyRS1SRTZ3dzhadDBBQ0VTMjNOMnB1MGNTR1lhM3dtYmV6TEZzRnlvVEJMTTRITERiSGVyVFpvTzlTUXZvUU1mY09GVnROSUUyUHN4SHdWMWpkdHIxZG1aSDBkQUVKY0EtakdjYWhuUndJQ0xfMjlGaE9NVGVWajBFOXd3YzVLRFJramVleWZUQVZkVlQ2dUwyV2g4TUo2NjlJS0E2Z0RNUHljblV0dWQ3OFhHRHZQVjJreEw1ZHpMLVlmVDhnaUlVMHdmajJ2amRqVlVsbENnS1JoY2ZMaUt4d1FBdUN6M21YLWc0RjhHMNIBrgJBVV95cUxOT3ZadVRnTkI5clE5YmRsa3BEd0dhcU01QjkwVDZpUHByZ2UwUW5OZ0NqYkdTTUhaV1NzY3ZyQWliYnNEUG5sNGtsYmFYNGtzaUpQdXlJamRKWV9RZGdES3NGOGt4MFA0OExycTZGLWFrMWY3RGw3NkVRMnJGWHJ5emtqSG8zczVEOWthUVROaW8xR0VlY3A1YVVhMTN4d3VYdEdOSVNZZDRmVGtCUVVYOWVrZTJ4cGdFWGJQUHBLaTNQSVU2TGphbS1LMUdfR0drV0MwS3J5eGU5TUtnVEdtSUNvbHlXUE0zUVBHRW5zZDBDRC1aN25GZ2lvLVN6WDRfb2VRQnZUdlVTZ2FMZ3VNV3dRaHhmR2NVWHdLNzJWMzlGdWY4Y2lIU25wbm9fUQ?oc=5",
+      "description": "Non mangiare animali riduce il rischio di alcuni tumori, ma non tutela da altri: il nuovo studio inglese&nbsp;&nbsp;Corriere della SeraCosa influenza il rischio di cancro: carne, pesce o dieta vegetariana?&nbsp;&nbsp;sanitainformazione.itCon la dieta vegetariana diminuisce il rischio di 5 tipi di cancro: ecco quali (e perchè)&nbsp;&nbsp;LeccoTodayDieta vegetariana: meno tumori, ma c'è un'eccezione&nbsp;&nbsp;Il Fatto AlimentareMaxi studio inglese: dieta vegetariana riduce rischio di 5 tumori&nbs",
+      "pub_date": "2026-03-03T06:44:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "935d1361a5c1",
+      "source": "BBC",
+      "source_feed": "google_uk",
+      "title": "Bristol red bench celebrates girl's heart surgery story - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcFBNdjhmYnlqbHdPSV82MWZPdC1jdEtGMTQ0QTNKZ1h4OC1ZcTIxaGdFWjhxNnNES2VQXzNsYTI5LXFEYnFBYzQ2OGFWeWo4ZXlVNTlVeVlpQkQz?oc=5",
+      "description": "Bristol red bench celebrates girl's heart surgery story&nbsp;&nbsp;BBCNottingham teen given 10% chance of survival after cardiac arrest - now he's helping to save others&nbsp;&nbsp;Yahoo News UKWales’ Hearts Need More: BHF Cymru’s call to action&nbsp;&nbsp;Institute of Welsh AffairsBillericay football fan thrilled by heart failure campaign&nbsp;&nbsp;BBCSolihull bench unveiled in 'living tribute' to local mum living with rare inherited heart condition&nbsp;&nbsp;Solihull Metropolitan Borough Cou",
+      "pub_date": "2026-03-03T06:15:39+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "heart disease",
+          "keyword": "heart failure",
+          "related_drugs": [
+            "abemaciclib",
+            "abiraterone-acetate",
+            "aliskiren",
+            "alpelisib",
+            "amlodipine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abemaciclib",
+        "abiraterone-acetate",
+        "aliskiren",
+        "alpelisib",
+        "amlodipine"
+      ]
+    },
+    {
+      "id": "2a5a0234f449",
+      "source": "AOL.co.uk",
+      "source_feed": "google_uk",
+      "title": "The free daily habit that may reduce the spread of cancer - AOL.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyWlNQdWtxdDhxcEVZT20zTFk3Xy1DLVk5aUxPbWVxOTJ6MnZDMFFKbFdRM00tYTVvalVHZVJ2ZFVZYjFBUWVabFk2U3lrTHZmN2U3NlQxR21DMTJoTUxRczR3UTB4eXRUd0xTMWR4NlJQNERIVlpodXMycHp5QQ?oc=5",
+      "description": "The free daily habit that may reduce the spread of cancer&nbsp;&nbsp;AOL.co.ukView Full coverage on Google News",
+      "pub_date": "2026-03-03T06:01:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "e2b1061a0936",
+      "source": "Financial Times",
+      "source_feed": "google_uk",
+      "title": "Can looking at this painting slow dementia? - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1weUZCWlM5RThJejlqS2VrV0tkMjcxNEZYOGNtTDJ3dm5fSDV5M0VXWFc0TXl6dkFrdGxoemV6TlVmelNSYzNRbEZkU2oyNk9wUWJ1SUVVNXZuNVlkeUtlVUFicVFFcTlITDdiYjhjc08?oc=5",
+      "description": "Can looking at this painting slow dementia?&nbsp;&nbsp;Financial Times",
+      "pub_date": "2026-03-03T05:00:34+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "alzheimer disease",
+          "keyword": "dementia",
+          "related_drugs": [
+            "alectinib-hydrochloride",
+            "brigatinib",
+            "carbidopa",
+            "ceritinib",
+            "crizotinib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "alectinib-hydrochloride",
+        "brigatinib",
+        "carbidopa",
+        "ceritinib",
+        "crizotinib"
+      ]
+    },
+    {
+      "id": "5c204b1c0216",
+      "source": "Redacción Médica",
+      "source_feed": "google_es",
+      "title": "Primera vacuna para 'controlar' migraña en niños \"sin años de retraso\" - Redacción Médica",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWV3RkRKOTRYaGJZU0dZVW53NXhJd3NGOWpRZW9TS200R1diNlZxYTZPMUFVY3ByUFNJRS1RTzFCRnVIdmtiZDg1ck42b0RkZWdNVDdxZG5TVXd0ZUR5S0U5RkRzNzdIZExxWXRVTkF4dGRZVk0wSnUycmVLUEhfREFfSElGYXlCaFhDVWlNdnROUHk3aURSUWloa2x1bG8xSEVIMWtwRDRiQzNYNnpCYjZpQzcwNnV5OHpVeTlRX3l0QdIBwgFBVV95cUxONnJwcm1scDF0dUZYeHhNd1kweTVsd3lVZ1pYVlJ3WEF1M3NSdjdkSGhQaGd5ZXJkZkN4UFE5UEY5dHBqazBXNU1ncFY5YkJqY0dLOVRvd1djenNvX2oyV3FXV1d2ZkhoNUJXY0hIODJYM0JfS0hpV1AyZHBmTWdsUklLWUVqLWNtTXByUTg3U2RadDU0UUdiVkl6Z1BJQ08zbk03LTlMSFdNc0JfclpTVjlyWi1xeGZhT2hmVDU1THV6QQ?oc=5",
+      "description": "Primera vacuna para 'controlar' migraña en niños \"sin años de retraso\"&nbsp;&nbsp;Redacción MédicaEspaña tendrá este año el fremanezumab, el primer fármaco contra la migraña pediátrica: una inyección una vez al mes&nbsp;&nbsp;El PeriódicoVall d’Hebron participa en el estudio que demuestra el&nbsp;&nbsp;Vall d'Hebron Barcelona Hospital CampusNuevo fármaco eficaz contra la migraña infantil y juvenil&nbsp;&nbsp;RTVE.esEl infierno de Noa con su migraña desde los 2 años puede tocar a su fin&nbsp;&nbs",
+      "pub_date": "2026-03-03T05:00:00+00:00",
+      "matched_drugs": [
+        {
+          "name": "Fremanezumab",
+          "slug": "fremanezumab",
+          "url": "/drugs/fremanezumab/"
+        }
+      ],
+      "matched_diseases": [
+        {
+          "name": "migraine",
+          "keyword": "migraña",
+          "related_drugs": [
+            "abaloparatide",
+            "abiraterone-acetate",
+            "acetylsalicylic-acid",
+            "aclidinium-bromide",
+            "alpelisib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "abiraterone-acetate",
+        "acetylsalicylic-acid",
+        "aclidinium-bromide",
+        "alpelisib"
+      ]
+    },
+    {
+      "id": "17643f21ff4e",
+      "source": "ZWP online",
+      "source_feed": "google_de",
+      "title": "Asthma hat keinen Einfluss auf Kariesrisiko bei Jugendlichen - ZWP online",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQajJHcEUtY2hTVXVSVXFTeUJmd0VManZ6RmZWczNMeXhQTlY0OXQ2YXJ5c2Q1eXg5WG1Yem1VZ0NsVHZlc2pOdUlXMUNLc1FhR0llUU1LMDJrRHh1WUhZaXQtejNlWDJ3dHNYb29MMDRxSXJMbnU2MHIxOEhhcDQxRVQwcU41QXI5Ymx5eUUwS1hiQmxPb1JtV3IzMVhUT1R6X0dKOU5GWnl1SDkwWDNUUEJiVExEb0l4X2hCN2F1WFkyWnFNODVWRm15YU9vLUV1?oc=5",
+      "description": "Asthma hat keinen Einfluss auf Kariesrisiko bei Jugendlichen&nbsp;&nbsp;ZWP online",
+      "pub_date": "2026-03-03T04:51:06+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "asthma",
+          "keyword": "asthma",
+          "related_drugs": [
+            "aztreonam",
+            "baricitinib",
+            "basiliximab",
+            "belatacept",
+            "bosutinib-as-monohydrate"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "aztreonam",
+        "baricitinib",
+        "basiliximab",
+        "belatacept",
+        "bosutinib-as-monohydrate"
+      ]
+    },
+    {
+      "id": "d8e61cdf8d21",
+      "source": "The Mirror",
+      "source_feed": "google_uk",
+      "title": "'Underrated Aldi snack' that could lower risk of diabetes, stroke and bowel cancer - The Mirror",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYlVZR2pwVDdYVmI1ZXFHNjRaMDQ1VGtyRGp5UTVFeEV5dHl0bGlhTlBSbFBSOTFVdkhYZG9sbXNacFJWY24zSUdBUEdBWVVPR3ltVi1UNzNPZkRjamNaNjBsdS1TUXBuR3NNUWg0anlWb2dseEFtR0ctWjNDeGd4YjBQUmxGZ9IBiwFBVV95cUxNd3lUVkVOeEZiSVZwZl9Ka3d0OGFESUNfS05VblRaN0tZMGZzQnBCZndxYWdxcmZ0UGF2Z3I3T2pORU5NVDYyUm1jMzREWkNSWHBVQnl6d0JYRVdROHNLNmhTWGJ3QVV6S0FZZGVtZGtZUGJEOE44Q0ttN09NQ18tazRRU1ZkZ05fUkVn?oc=5",
+      "description": "'Underrated Aldi snack' that could lower risk of diabetes, stroke and bowel cancer&nbsp;&nbsp;The Mirror",
+      "pub_date": "2026-03-03T01:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
+          "related_drugs": [
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
+          ]
+        },
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        },
+        {
+          "name": "stroke",
+          "keyword": "stroke",
+          "related_drugs": [
+            "aliskiren",
+            "amlodipine",
+            "avanafil",
+            "azilsartan-medoxomil",
+            "dronedarone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab",
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride",
+        "aliskiren",
+        "amlodipine",
+        "avanafil",
+        "azilsartan-medoxomil",
+        "dronedarone"
+      ]
+    },
+    {
+      "id": "43d374f3f52c",
+      "source": "The Times",
+      "source_feed": "google_uk",
+      "title": "Weight-loss drugs can prevent damage from heart attacks - The Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd3N6dVJyZ01IR3hnN1E0cnZSM0dRaDdJRjI3NlhfdUhMQ284VTZWUFE0dnhFNWdHR2tHV0NMQzE5a3J5RmJ0QWxpcF9wZl9GV0NNSkkxeHdEWUJFRy1aX3ZaNVNTNlY1UHhIenc4M3k5d1oyWmZSMlVMZVhoY1BLNE9Gel9yU1RHQXdfZEd2cTc2MFlBU0FsOU9MOA?oc=5",
+      "description": "Weight-loss drugs can prevent damage from heart attacks&nbsp;&nbsp;The TimesWeight-loss drugs could prevent fatal complications from heart attacks, UK study finds&nbsp;&nbsp;The GuardianDiabetes: GLP-1s and Healthy Lifestyle Help Lower Cardiovascular Risk&nbsp;&nbsp;HealthlineGLP-1s support heart attack recovery in rodents by relaxing tight blood vessels&nbsp;&nbsp;Fierce BiotechGLP-1 Drugs Could Cut Risk of Complications after Heart Attack&nbsp;&nbsp;Labcompare",
+      "pub_date": "2026-03-03T00:01:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
+          "related_drugs": [
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab"
+      ]
+    },
+    {
+      "id": "e2944ab6409c",
+      "source": "Real Simple",
+      "source_feed": "google_uk",
+      "title": "5 Common Foods Nutrition Experts Avoid for Better Heart Health - Real Simple",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2N1bnF0YkJIZE5iY1kyeWNxWXRFRGtrVm5CVXhTdnRrS1hNYzNpM2pmQUs4QjMzclNWaGEwWEQzYWVmVHRnMmtTUTBzV2VBZEtfTURiNUN6U1loOTFxSG5lQmF0b05xTGx1clF2dzRPY1B5MDhaUDltd1pwaGtEa2JPeXU?oc=5",
+      "description": "5 Common Foods Nutrition Experts Avoid for Better Heart Health&nbsp;&nbsp;Real SimpleNutritionist names two main foods to avoid to reduce risk of cancer&nbsp;&nbsp;Daily StarThe 6 foods and drinks I would NEVER allow at home as a doctor over health fears&nbsp;&nbsp;The Irish SunCardiologist shares 6 seemingly ‘healthy’ foods that could quietly hurt your heart: Bananas, spinach and more&nbsp;&nbsp;Hindustan TimesCardiologist says three dangerous foods are 'banned' - what you need to know&nbsp;&nb",
+      "pub_date": "2026-03-03T00:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "efcb7b45f603",
+      "source": "Sciencepost",
+      "source_feed": "google_fr",
+      "title": "Elle vit dans vos intestins… On a peut-être enfin découvert pourquoi le cancer colorectal explose chez les moins de 40 ans - Sciencepost",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX2k4cTlPX09ibEprNGhpWkFVRFJ6dDRGRnFFZTBYckQ3M2NacDhWZkNnRWNPZ0tWeVlTdlZ5V0QtbEhXNkxoOU5RRjlPeXpvcnIwMmhBLTdXQmR1WnN1VnNTU2c3ZmdNNWoySEwtSDRFdk5fTzd3WExfTkgwXzRWSXJVVC0zUUNsb2l1bXpFbTVBbW5oYkFqbGxvdG1YeTZhWnJMUS1QcGp1aVRMOXpMMGctZ0MwYXZhOGxXdUY5ZXJlUWdDNHV1QlZueC1ZNXlqQWYyeHpZOEQ4bTFwcFE?oc=5",
+      "description": "Elle vit dans vos intestins… On a peut-être enfin découvert pourquoi le cancer colorectal explose chez les moins de 40 ans&nbsp;&nbsp;SciencepostLes clés du Pr Michel Ducreux, cancérologue, pour préserver son côlon, ce pilier oublié du bien-être digestif&nbsp;&nbsp;Madame FigaroPourquoi le cancer colorectal progresse-t-il chez les jeunes ?&nbsp;&nbsp;Le SoirEndométriose : le HUB lance une campagne pour sortir de l’errance diagnostique&nbsp;&nbsp;ArtsenkrantCancer colorectal : l'alerte silencieus",
+      "pub_date": "2026-03-02T20:11:55+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "04c81c12d244",
+      "source": "Outre-mer la 1ère",
+      "source_feed": "google_fr",
+      "title": "« Mars Bleu », mois de sensibilisation au dépistage du cancer colorectal : 180 à 200 nouveaux cas par an en Martinique - Outre-mer la 1ère",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMHhhNWtnRzNYdVJoQW52UkFXTG8tRmpfeURzYzJRSmZwS1lENjAzb0d0bzBJWWo0UktQU3pvZlEyZFhtd1ZRZkhtUjRSTDA3Qi1aeTN1cWhWbmxFaTJ6cTBCcllvVklScExZdUpoekdBTFY3ejd6QlJPeGtTT0dPell6ZFZvMkppaV9WaGRpblZCZGk4T2FfVU1qTmtPMDgtVzk1dlNHaWtWdlVPSWhkWlFfTlNpVUlRanh5MTg0ZEo3MzZhMWFZWGxZd2RIdjRCeWRNQzYxSXZHcUgtNi12OG9FaE9QUEhMNmtLNF90YUx1cGZ0Zkk4?oc=5",
+      "description": "« Mars Bleu », mois de sensibilisation au dépistage du cancer colorectal : 180 à 200 nouveaux cas par an en Martinique&nbsp;&nbsp;Outre-mer la 1èreMars bleu : quels freins nuisent au dépistage du cancer colorectal ?&nbsp;&nbsp;Sud Ouest« Je pensais être protégé » : Sportif, végétarien et non-fumeur, Balram a quand même développé un cancer colorectal&nbsp;&nbsp;Nice-MatinL'invité de Bonjour Var du mardi 3 mars 2026 - Philippe Ah Soune&nbsp;&nbsp;BFMUne journée pour lever les tabous sur le dépista",
+      "pub_date": "2026-03-02T19:21:34+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "dfc07e232a15",
+      "source": "iSanidad",
+      "source_feed": "google_es",
+      "title": "El acondicionamiento isquémico remoto protege el corazón durante la quimioterapia sin perder la eficacia antitumoral en modelos preclínicos - iSanidad",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQckxHcXIzeTBuUmY1X2dyazF5QmtlYXBZQjh1SGktUWlmcm9RSVpsb3VidGhpSXREZzNKOXltQWJfZENGQkxnRUhBX1lMSGh5LVpjbkFzNE5JcS1Ub2hkTjVubHdrUk9FdWdYaG5zOGhEODZ5NVI5bmlnQXh0ejFvQ2VwUXExQUJXQmN6LTNIRVl1N2VuSjZGbVFJLWIxSnd1ZzdGYjBhVjFjUmRzSlBlbjFWMGRPOEt6OVJ0QWNwaHRXN0dVOGVZWTg1YldkVzk5dmh1Y0w4T3dtMGxwT0gwcDBva0U5R2h0eG92enhQWW9iSjRUVVJsM05helM?oc=5",
+      "description": "El acondicionamiento isquémico remoto protege el corazón durante la quimioterapia sin perder la eficacia antitumoral en modelos preclínicos&nbsp;&nbsp;iSanidadQuimio sin castigar el corazón: el estudio que abre la puerta a protegerlo sin perder efecto antitumoral&nbsp;&nbsp;El ConfidencialValidan en ratones una técnica para proteger el corazón durante la quimioterapia sin perder la eficacia antitumoral&nbsp;&nbsp;InfosalusUn estímulo a distancia protege el corazón de la quimioterapia sin restar ",
+      "pub_date": "2026-03-02T18:08:09+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "b81e2e364340",
+      "source": "Daily Mail",
+      "source_feed": "google_uk",
+      "title": "More than 70 health conditions that affect nearly all Americans are linked to increased risk of dementia, scientists discover - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3p5NUpwZ2kyM3IzNU1GcTY5cU1FS1VYeXVseGlPOU9TbFI5TzVGMVNvbEt0WDRESVpBUmxHd0JNSlo3WFlYVFJmUVJpdy1pNFQzdVFua09RcXFZQkpsOXJRTGpkLUdMc29UQ1Z1Vlk0cFlwbEVCWHEzZzFXcURhQ1FIUjBRS2dNQXVmWkZqSThmZVM5bEh1VXR5T1Z2dS10XzI3TV9JRlpKdGo2enh5bdIBtgFBVV95cUxNcDRJS0tpS0xtT1lEN1ZjOWVGWERyX01uVDRmeEh6bER5dDRyUlVWWEJsNEYwRFVUNmNlSmJrWENGSFZiZUJidnZvUmRDSFMyVTZMbUthendLWlp2MG5BLXNVUTZtMEhwRXpka0lOeVI3RDNGNklTMFFMMDM1N0VGejF1dU9KSXc0T0dqa3JKaVNzUFVLMXBCS2pwcG1BTjAxY3RIVVNRc1RhWWdvOC1va1Y2YTBpUQ?oc=5",
+      "description": "More than 70 health conditions that affect nearly all Americans are linked to increased risk of dementia, scientists discover&nbsp;&nbsp;Daily MailStudy identifies medical conditions that could predict future Alzheimer’s disease&nbsp;&nbsp;Vanderbilt Health NewsDementia is not inevitable, says Public Health Wales, and these are the risk factors&nbsp;&nbsp;Deeside.comIdentified Diseases Often Preceding Alzheimer’s Disease&nbsp;&nbsp;Inbox.lvVUMC Team Finds More Than 70 Conditions Linked to Later ",
+      "pub_date": "2026-03-02T18:00:19+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "alzheimer disease",
+          "keyword": "dementia",
+          "related_drugs": [
+            "alectinib-hydrochloride",
+            "brigatinib",
+            "carbidopa",
+            "ceritinib",
+            "crizotinib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "alectinib-hydrochloride",
+        "brigatinib",
+        "carbidopa",
+        "ceritinib",
+        "crizotinib"
+      ]
+    },
+    {
+      "id": "65361d9d992e",
+      "source": "Il Tirreno",
+      "source_feed": "google_it",
+      "title": "Empoli, “miracolosamente guarito dal cancro”: la rinascita di Fabrizio dopo l’anno più difficile - Il Tirreno",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcHVqVFBhLUFMaEE4MFFSY1NTV2xkV2FNWnREc2ZOaWhaWG1nZVJVWGRpeHB4alhfY1ZLVzV5alllNlhvSWphVmNDMmd1TzJrVTFHT2JzeG5wMFR0bTZ3bEtPN2h3TzBDRFVJVUNVTDFtR01hbmNKWHgzV0V6cmxIZUhKbFdBTE54MG1DVF9fUEs3QlNFWXdEc2ZvTkEyQlRyYTM2dFQ0NWNacl9yeVhzemEyWURETVYxOWh6ZWlBc3RCcU9HNmEtcVoxNk15c0pQNUg4WFhnYndudXJ5SUhtQmIyekdLcS1BZExJejJiY1cwTmtOZWx1NjRJeXlEZjdWM08xTC1FbmRXN1FITXcwLXpQcw?oc=5",
+      "description": "Empoli, “miracolosamente guarito dal cancro”: la rinascita di Fabrizio dopo l’anno più difficile&nbsp;&nbsp;Il Tirreno",
+      "pub_date": "2026-03-02T17:45:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancro",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "5b5aba394b99",
+      "source": "The Times",
+      "source_feed": "google_uk",
+      "title": "High blood pressure — there’s new advice for how to treat it - The Times",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObk9QT1oxZ2ZOM3pBWV9xWmlIdC1ycDJud1g2cGdLY1NvUmZWcnVWUjFDV0ZDTlJHeGVYR0o0LUxITTFKclZvV2hXYnk0dHVDUGdmbG55bXBzeUlCNnAyOGNMY2l5aFJpeEJLdXBKa0wwX3c2RjhDYnJ4dmFYblAwTkp5bTZaWWdlbm9ESWZBRVlJa21vaThPZTRuUHFTRkha?oc=5",
+      "description": "High blood pressure — there’s new advice for how to treat it&nbsp;&nbsp;The TimesCardiologist explains the crucial steps to lowering 'silent killer' blood pressure&nbsp;&nbsp;Daily RecordBreathing exercises to lower your blood pressure&nbsp;&nbsp;Harvard HealthAsk the Doctors | Take small steps to lower blood pressure&nbsp;&nbsp;Times-StandardWhat high blood pressure does to your body&nbsp;&nbsp;News India Times",
+      "pub_date": "2026-03-02T17:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "hypertension",
+          "keyword": "high blood pressure",
+          "related_drugs": [
+            "abiraterone-acetate",
+            "aliskiren",
+            "alpelisib",
+            "ambrisentan",
+            "amlodipine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abiraterone-acetate",
+        "aliskiren",
+        "alpelisib",
+        "ambrisentan",
+        "amlodipine"
+      ]
+    },
+    {
+      "id": "30f677d32787",
+      "source": "Ruvid",
+      "source_feed": "google_es",
+      "title": "Cardiología del futuro: IA y gemelos digitales para diagnosticar la fibrilación auricular - Ruvid",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYl9nYTdZM1Q4VGN3N0xUTktXeWlIWWh1cHcwVnA0V3VSOHhJbEZQV2dabnhRNVY0M3NiajFNUldITVdsaG1BNk94VTRUOUhMZWU1ZFZpT2pXVm9nRFVOWG1TRzd5dnRob1lLdFZLeEFWdG0tZ1lRd3R3MXA3V0ljdFpTYlFnSHhiaHhtX0VhRHFDa3VINXpZZEp0c0p5Qi1pdFNfeV9XckdEN2M?oc=5",
+      "description": "Cardiología del futuro: IA y gemelos digitales para diagnosticar la fibrilación auricular&nbsp;&nbsp;Ruvid",
+      "pub_date": "2026-03-02T15:51:28+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "atrial fibrillation",
+          "keyword": "fibrilación auricular",
+          "related_drugs": [
+            "aprepitant",
+            "aripiprazole",
+            "asenapine-maleate",
+            "bimatoprost",
+            "cetrorelix-as-acetate"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "aprepitant",
+        "aripiprazole",
+        "asenapine-maleate",
+        "bimatoprost",
+        "cetrorelix-as-acetate"
+      ]
+    },
+    {
+      "id": "03069779dc91",
+      "source": "Nature",
+      "source_feed": "google_uk",
+      "title": "Confounding factors and biases abound when predicting molecular biomarkers from histological images - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMkFMM1ZualEtcjNCTXdEeDQ1dllzb0JXUXFka0tPSll4VzZXZEpBd1NpU3JiZExXUUtKOFlQandNOV9xa2JOSjA2N1kzY051TkphZk90Z2plSjNKMEF3?oc=5",
+      "description": "Confounding factors and biases abound when predicting molecular biomarkers from histological images&nbsp;&nbsp;NatureDigital pathology speeds diagnostics, but tends to take shortcuts to do so&nbsp;&nbsp;BioWorld MedTechAI Cancer Tools Risk “Shortcut Learning”&nbsp;&nbsp;Technology NetworksBiases Challenge Molecular Biomarker Predictions in Histology&nbsp;&nbsp;Bioengineer.orgAI Tools for Cancer Pathology May Rely on Hidden Shortcuts That Impact on Predictive Power&nbsp;&nbsp;GEN - Genetic Engine",
+      "pub_date": "2026-03-02T14:59:44+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "2366d02f0467",
+      "source": "Linternaute.com",
+      "source_feed": "google_fr",
+      "title": "On n'en mange pas assez : voici les conseils simples d'une nutritionniste pour consommer plus de fibres - Linternaute.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQREtYRFhyZndjc3VUSjktZjZ5WTVmbzdjV3NCUThVM09HZkNWQzAybFdUU0xKYlJya0h1c2R4cFlmRlZGQkhJbHd0TjJlcE84bHZDMC0xaDRoU2FPb1RIX3pTMVIzQWM1dFRyZDNuM0F4SjdhamFTVGp2T0xQQXVTVkJkYTVEdy0zN3lQSGRn?oc=5",
+      "description": "On n'en mange pas assez : voici les conseils simples d'une nutritionniste pour consommer plus de fibres&nbsp;&nbsp;Linternaute.comSanté cardiaque : voici la quantité de fibres à consommer chaque jour pour faire chuter le taux de cholestérol, selon une diététicienne&nbsp;&nbsp;GalaVoici pourquoi, si vous travaillez de nuit, les diététiciens recommandent de manger des fibres&nbsp;&nbsp;Top SantéLa consommation de fibres peut réduire le risque de maladie cardiaque chez les travailleurs de nuit&nbsp",
+      "pub_date": "2026-03-02T14:24:02+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "heart disease",
+          "keyword": "maladie cardiaque",
+          "related_drugs": [
+            "abemaciclib",
+            "abiraterone-acetate",
+            "aliskiren",
+            "alpelisib",
+            "amlodipine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abemaciclib",
+        "abiraterone-acetate",
+        "aliskiren",
+        "alpelisib",
+        "amlodipine"
+      ]
+    },
+    {
+      "id": "b42f90fa0689",
+      "source": "aponet.de",
+      "source_feed": "google_de",
+      "title": "Insulinresistenz als Risikofaktor für Krebs: KI-Modell entdeckt Zusammenhang bei zwölf Krebsarten - aponet.de",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnpZMUt0aFVLcjVJbXBHVHNtekxJbU9JTzB0eVVCR0c1Mzd1X2RDZjFhZ2xtR2tGVW9GWGFraXVTZk0zSnlpZWRwTHBlZ1g4ekp1dEQxUkRyQzF2UWlsQlljX2V0WEgwWnNBZzl4M0ZIeUQ2X2Y2RW9kZ3RGVl9kV29MZ2hxQWp4T19qRHlCRHcxTUxjbWQwTEdEWmRreEdGeUN4UVJLdzZpR3QyazcxeThqcndzR2VWTUl6U0w3RHVJbXc1OFFnS1JacmNRbGs?oc=5",
+      "description": "Insulinresistenz als Risikofaktor für Krebs: KI-Modell entdeckt Zusammenhang bei zwölf Krebsarten&nbsp;&nbsp;aponet.de",
+      "pub_date": "2026-03-02T13:15:18+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "f74e11d84f3b",
+      "source": "Deutsches Ärzteblatt",
+      "source_feed": "google_de",
+      "title": "Biomarker könnten Menschen mit hohem Risiko für Typ-2-Diabetes erkennen – News - Deutsches Ärzteblatt",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObXZlekVkZENfU1hvMVRwcEwzZS1PYmlmR3pwZTc1R3hiTlhTbGdLVVNLMGNPTmUwNVRXRk9GZmN6dXZvMFNmTzJXemdxcWtRSzR2Ml8yYllUM2N2VHk3Q1RHcE9TMGlGRnRXU2xhbi1UejZCMC1oNnBIcjVzRHVKSXBwcHQxdDlUbG16bDZrTGZhbHhteWhDZ18wN2Q0bF8xMjNpQXR4aFZUSnhVbjhTN3lhdnd1dkU3aUJyb3F0WlhzZERoOHRSMUw2WWZLS0Fibkt4Y2pqdw?oc=5",
+      "description": "Biomarker könnten Menschen mit hohem Risiko für Typ-2-Diabetes erkennen – News&nbsp;&nbsp;Deutsches Ärzteblatt",
+      "pub_date": "2026-03-02T12:50:15+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
+          "related_drugs": [
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab"
+      ]
+    },
+    {
+      "id": "a3491fc7812e",
+      "source": "DocCheck",
+      "source_feed": "google_de",
+      "title": "KRAS(s) gesteuert: Vom Abwehrprofi zum Tumorhelfer - DocCheck",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2NEWktzY1VlcXpGN185NkpGeU8xem5nM0RPQ2FQSEQ0Smx6VHU5dnFnZWp1U0o0ZlhqY0Z2TUk0WkpaTE9rR0NGRmszekNZdFlaWlNRbU1yMUM1dG5QMkI2OUlUR2FRZUZndlNPMXFyUVJJRl9TbUJMTjlsRXVwb2gxUzVLejN5aGRycWc3OUcybVlYN29CS1hrblhVUQ?oc=5",
+      "description": "KRAS(s) gesteuert: Vom Abwehrprofi zum Tumorhelfer&nbsp;&nbsp;DocCheck",
+      "pub_date": "2026-03-02T12:07:52+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "27047c2a0e99",
+      "source": "LABO.de",
+      "source_feed": "google_de",
+      "title": "Neue Biomarker für Multiple Sklerose mit Massenspektrometrie identifiziert: 5000 Liquorproben proteomisch analysiert - LABO.de",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUXd3V3RSSVRlN0hrcDlmQ2pOSnlrOTdOc2N5R1IzTmZvSUdzMzlkaUhHem1RVEV5VFZ0TVo2eGh4S1FUY1oyUkdPai1oMTVDUlRXeDdvaW9vZEFkOVZYTmlnMnRic1dSMzV1cE8zaWE2N005Vjhtd1V5NEZTS29LQ1I1N3hMQ0YxWFNfY3JGdU9WWEp2NE5RRlF4Y3E4TVBOQUJ1WGpKZjJMWGlNMnhFejdCeVg5X213UGs3YTVCX1h4ZTViNGNzbzJIX1kteTJrMEo1OFd5VDFWVzlMY2dLdndEX1B6NU05MU9v?oc=5",
+      "description": "Neue Biomarker für Multiple Sklerose mit Massenspektrometrie identifiziert: 5000 Liquorproben proteomisch analysiert&nbsp;&nbsp;LABO.deNeue diagnostische Marker für Multiple Sklerose in Gehirn- und Rückenmarksflüssigkeiten entdeckt&nbsp;&nbsp;idw - Informationsdienst Wissenschaft",
+      "pub_date": "2026-03-02T10:11:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "multiple sclerosis",
+          "keyword": "Multiple Sklerose",
+          "related_drugs": [
+            "alemtuzumab",
+            "asenapine-maleate",
+            "belatacept",
+            "cariprazine-hydrochloride",
+            "cladribine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "alemtuzumab",
+        "asenapine-maleate",
+        "belatacept",
+        "cariprazine-hydrochloride",
+        "cladribine"
+      ]
+    },
+    {
+      "id": "71c6b420ed70",
+      "source": "Fanpage",
+      "source_feed": "google_it",
+      "title": "In arrivo nuova pillola per perdere peso: \"Più efficace della semaglutide\". Lo studio su TheLancet - Fanpage",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYlBubnVVU1dlODc4QzVoZlcwOEw2Mi14VmJYWlB3N2oyVTVLM2ZIQXI1RHNwTldab05QSXJrRG9sd252bWc2NWNtWnBqNi1obkw5LTI0MERzQVZscXpzX0NXQUg5Q090T1NXd09mM0E1OXZycmI0Yk9DSkFFTjB0anhfbXg5Tmh1SV94ZXd5YWVmd1pHc2drWXQyXzhURDFCbkhoem5WU0docFdTa1VxLTh3N0J1bzhMYUxxTnd3cm0tQjNET0sxTmdlS05JTEQ1YzNsSg?oc=5",
+      "description": "In arrivo nuova pillola per perdere peso: \"Più efficace della semaglutide\". Lo studio su TheLancet&nbsp;&nbsp;FanpageDiabete, una nuova pillola sembra superare l'attuale GLP-1 orale&nbsp;&nbsp;AGILa nuova pillola per dimagrire 'fa tutto', effetti su glicemia e colesterolo&nbsp;&nbsp;AdnkronosEli Lilly alla Conferenza TD Cowen: Strategia di Lancio di Orforglipron&nbsp;&nbsp;Investing.comOrforglipron: Farmaco Orale per Diabete e Obesità&nbsp;&nbsp;Microbiologia Italia",
+      "pub_date": "2026-03-02T10:05:28+00:00",
+      "matched_drugs": [
+        {
+          "name": "Semaglutide",
+          "slug": "semaglutide",
+          "url": "/drugs/semaglutide/"
+        }
+      ],
+      "matched_diseases": [
+        {
+          "name": "diabetes mellitus",
+          "keyword": "diabete",
+          "related_drugs": [
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
+          ]
+        },
+        {
+          "name": "obesity",
+          "keyword": "obesità",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab",
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "25d44c776214",
+      "source": "idw - Informationsdienst Wissenschaft",
+      "source_feed": "google_de",
+      "title": "Gestörte Dopamin-Verpackung treibt Parkinson-Krankheitsbild voran - idw - Informationsdienst Wissenschaft",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5JM0lISWtqeXB4LUJZMllNcHZpX0h0eXpnbVVCZzB2Y2dLZTFlcjh1YndodG45bk1BUjAyOTNMTWduME0?oc=5",
+      "description": "Gestörte Dopamin-Verpackung treibt Parkinson-Krankheitsbild voran&nbsp;&nbsp;idw - Informationsdienst Wissenschaft",
+      "pub_date": "2026-03-02T10:03:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "parkinson disease",
+          "keyword": "Parkinson-Krankheit",
+          "related_drugs": [
+            "botulinum-toxin-type-a",
+            "carbidopa",
+            "entacapone",
+            "levodopa",
+            "opicapone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "botulinum-toxin-type-a",
+        "carbidopa",
+        "entacapone",
+        "levodopa",
+        "opicapone"
+      ]
+    },
+    {
+      "id": "acfbc0ea3ad1",
+      "source": "Il Sole 24 ORE",
+      "source_feed": "google_it",
+      "title": "Tumori, ecco come agisce il batterio che uccide le cellule neoplastiche affamandole - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUlYU1JoZ2FNY0ItbHRBN1RlVWY5WXNKc010azYycjNCN3ZfYkpHY1ViRXhmMHBJdkFpMWVldzZzQkpmRnNXYWFNU2NPTk52XzhIWEJJRENUMm14NUVYVjNrTlZhTzdCdDhQQlhxM2MwV0xHRllPVkN2UnBQYjFwRWtiX2liazdaZ21fWUpjSmR1R2JYOFBXdFFORl9KdUhVWjhSUlU0Mk9fMnpmdnZ3Mk5iWFhJaFN0?oc=5",
+      "description": "Tumori, ecco come agisce il batterio che uccide le cellule neoplastiche affamandole&nbsp;&nbsp;Il Sole 24 OREBatteri programmati per divorare i tumori dall’interno&nbsp;&nbsp;RSI Radiotelevisione svizzeraTumori, il batterio «mangia cancro» che agisce dall'interno verso l'esterno: come funziona&nbsp;&nbsp;Il Messaggero",
+      "pub_date": "2026-03-02T09:53:49+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "e6d442a3b774",
+      "source": "Il Fatto Quotidiano",
+      "source_feed": "google_it",
+      "title": "\"Nelle contee Usa più vicine alle centrali nucleari tassi di mortalità per cancro più elevati rispetto a quelle più lontane\" - Il Fatto Quotidiano",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXR6WTJ5Y0lkb2syNDY1c0xKRV9WZUxpODBkb1dJUkZoYnVGa21XZzlvOFFiNEZ5R3F2Q3NaRDlYbHJ5X1B1clJ6ZGxXb1htaENCdFRxR00zSGYxMjRkQzYwOWlyS2xBNzc1dlVNX2R3Z3Y4VzVpcTVWZUMyaUpCSlM5Y2ZsWjdweHJndE9iRG5lTGRCbVMwQW1FazhLSlhtaGJBZXBna0Z6T3Ytd2x4WTZDTG4tZnhEWHR5NmtpMjFmZHl1M1BhWFBuZw?oc=5",
+      "description": "\"Nelle contee Usa più vicine alle centrali nucleari tassi di mortalità per cancro più elevati rispetto a quelle più lontane\"&nbsp;&nbsp;Il Fatto QuotidianoNucleare, un giallo: attorno alle centrali aumentano i casi di tumore&nbsp;&nbsp;VaielettricoLo studio che complica il “rinascimento nucleare”&nbsp;&nbsp;QualEnergia.itStudio Harvard: più morti per cancro vicino alle centrali nucleari&nbsp;&nbsp;HDblog.itUSA, più decessi oncologici vicino alle centrali nucleari&nbsp;&nbsp;tomshw.it",
+      "pub_date": "2026-03-02T09:15:06+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "ae8a1bc6cf61",
+      "source": "DZD - Deutsches Zentrum für Diabetesforschung",
+      "source_feed": "google_de",
+      "title": "Helmholtz Munich erhält Förderung um Frühstadien des Typ-1-Diabetes bei Erwachsenen zu erforschen - DZD - Deutsches Zentrum für Diabetesforschung",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHd6c3diTFpzQnFvSmlzZ0JYYTc0Wl84bWd3Mk5pTkRMRjh6TkdzSDNMdXhSa0RlSTBrYktpYzNacjNrdDZRRFdsN1owSXJWOXUtVmxfbUpIT3R5VWs5emJSS2l3djRnQXhXc1hHUWQ0aUthVFdBRllTVDlXY0J4WnFncW9mTDhscGplN3pWXzljVy03VWdhUmRuTmNtbzd4NVhPN3hJMktzVkJhTUVBZHpSVWRkSHBEdm8wVVczQzdYT2RfcTBRd1Fn?oc=5",
+      "description": "Helmholtz Munich erhält Förderung um Frühstadien des Typ-1-Diabetes bei Erwachsenen zu erforschen&nbsp;&nbsp;DZD - Deutsches Zentrum für Diabetesforschung",
+      "pub_date": "2026-03-02T09:11:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
+          "related_drugs": [
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab"
+      ]
+    },
+    {
+      "id": "91cbc64cc440",
+      "source": "idw - Informationsdienst Wissenschaft",
+      "source_feed": "google_de",
+      "title": "Welt-Adipositas-Tag: BVF und Deutsche Hochdruckliga zu Risiken für Frauengesundheit und Reproduktion - idw - Informationsdienst Wissenschaft",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUkw4em9SNDhXU0YwelZ4OC1KQ0RnMk5HTDNYMTBNek0xcVVMVkNUZUtzaGEyUWk1U1J2UEpNbi1JRTJQSFkyclJlUnY1bXduNlhSX25kTXRaa1VzY2xja2I2MnJqMmYwcE8zWXZzRFpYMU9laDBXU2NrMmVHQl9XMDlvQmEyVC10UVVWV09raTR3TlZyVTlLQ2hfLTc5WGZiR183X1FsZlJvWW5DekdVZzA3blFlM1dQaC05MkdKUnhrS0tPc1lfZmFZTmhEUnNxNHhjd0hXWk84SEpzbm1nRXlCcUZPbHQ2c2c1QldzUQ?oc=5",
+      "description": "Welt-Adipositas-Tag: BVF und Deutsche Hochdruckliga zu Risiken für Frauengesundheit und Reproduktion&nbsp;&nbsp;idw - Informationsdienst WissenschaftMehr zum Thema ansehen in Google News",
+      "pub_date": "2026-03-02T09:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "Adipositas",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "d76a314eb232",
+      "source": "Die Nationale Dekade gegen Krebs",
+      "source_feed": "google_de",
+      "title": "Neuer Förderschwerpunkt: NDK startet fünf neue Verbünde für Langzeit- und Spätfolgen - Die Nationale Dekade gegen Krebs",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkJTczBUdDlxd1Q1Q0dwMG9hdmhLZXpIWURyODFhcTJyb0NkSzJwYWhpVkNoSklUeHNSTndZN2JMWVk0RWJOLXJWVkVob3dzN2pJMVBYaGNGcmx1UGJSWi1ZclJvZTRVbk5GWkR3Y2pNa2R0TFVPbTNMTFNIVTFsell6RWF0OHdwZWxUUzZpZVZXbmhEU0pmZXRYVzBVZGxoQ01YWTFuZHBpbDBCcXE0UExKMG5PNUR5OW02UXFWVncyVnJFVXQxLS1jZXRPMXM?oc=5",
+      "description": "Neuer Förderschwerpunkt: NDK startet fünf neue Verbünde für Langzeit- und Spätfolgen&nbsp;&nbsp;Die Nationale Dekade gegen Krebs",
+      "pub_date": "2026-03-02T08:47:16+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "56077214ce35",
+      "source": "AOL.co.uk",
+      "source_feed": "google_uk",
+      "title": "8 foods that can help lower your blood pressure - AOL.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1leUczVU94RFRwdG01OHpxQWRCS3V1RUxfdk1rQlhuSVhzSWR2VFVsVDNsdFROdHkyMDA0TGxYS2ZYYm4zN25nSTI1Y0ZZMlI2V1NaZlJUT1Exdk1MTElWVXhRV1FWSG1BZHZVbkltWHhPRXRESHVsWHRB?oc=5",
+      "description": "8 foods that can help lower your blood pressure&nbsp;&nbsp;AOL.co.ukThese Are Hands Down the Best Foods to Lower High Blood Pressure, Cardiologist Says&nbsp;&nbsp;Men's JournalMy patient’s high BP normalised in 8 weeks with help from a simple diet swap: Why diet is the base line&nbsp;&nbsp;The Indian Express",
+      "pub_date": "2026-03-02T07:28:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "hypertension",
+          "keyword": "high blood pressure",
+          "related_drugs": [
+            "abiraterone-acetate",
+            "aliskiren",
+            "alpelisib",
+            "ambrisentan",
+            "amlodipine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abiraterone-acetate",
+        "aliskiren",
+        "alpelisib",
+        "ambrisentan",
+        "amlodipine"
+      ]
+    },
+    {
+      "id": "5683d9bd684d",
+      "source": "AD HOC NEWS",
+      "source_feed": "google_de",
+      "title": "Semaglutid-Studie: Kein höheres Depressionsrisiko bei HIV-Patienten - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0M4WHpBY3BWOThvTmxNT0ttM1JJMk9kODNzVFRLdC1nOXhvbTFxbUV4RTFoX1FvSHh2Q1lTbjgyblZubGhBOXVObnhLclEtaER4LWVwN2c4VmJxLWpzOWR0ME9SanRqSkllbTVkNlFmZ2Y5YjBuc2l0LUV5clBrT1RhM2daRkpvZEJmMFhfLXc0S19XU2pscHdrcjVialNwVjNoamNnWnczUTZ3VHRjZUhQTkkyNXk1Y2lzZkRYaXBZaUpW?oc=5",
+      "description": "Semaglutid-Studie: Kein höheres Depressionsrisiko bei HIV-Patienten&nbsp;&nbsp;AD HOC NEWS",
+      "pub_date": "2026-03-02T07:10:03+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "depression",
+          "keyword": "depression",
+          "related_drugs": [
+            "agomelatine",
+            "brexpiprazole",
+            "duloxetine-hydrochloride",
+            "esketamine-hydrochloride",
+            "olanzapine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "agomelatine",
+        "brexpiprazole",
+        "duloxetine-hydrochloride",
+        "esketamine-hydrochloride",
+        "olanzapine"
+      ]
+    },
+    {
+      "id": "82461fa99527",
+      "source": "CHIP",
+      "source_feed": "google_de",
+      "title": "Darmkrebs bei Menschen unter 50: Mediziner nennen eine zentrale Ursache - CHIP",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSW5LaEpsSDk3MFRYOFhkdXM2c1JRVmtUcE5kUU50RDlNZTl5LVA5SVpPMmRuLVE0aUtEZzBTQUZBTlpmMzdWODd3R2lyYnp4YnRTZFFmRTFSMkJRVzU0WUVXOEVZWHF1Xy1KUURKN0JONm9Ccm5EdTB4RVlCUlZ2MWVsMnVLNHpBblVoSWY0SWxHejNhTkluWXJmWThwazh0T2p5SFhkMWs0Y2J6YjdXSjA0cWVjOFE4aUU0SkYtbTdvWUExZGh6Wll3N3AyTjE4Smh5ODBEOVM1ZVR2RGprb19ZZ1hjYzl0ZWdCQQ?oc=5",
+      "description": "Darmkrebs bei Menschen unter 50: Mediziner nennen eine zentrale Ursache&nbsp;&nbsp;CHIPJunge Menschen bekommen häufiger Darmkrebs-Diagnose gestellt als früher&nbsp;&nbsp;BRF NachrichtenAnstieg von Rektumkarzinomen: Umweltfaktoren im Fokus&nbsp;&nbsp;it boltwiseTrend-Getränk erhöht Risiko: Immer mehr junge Menschen leiden an Darmkrebs&nbsp;&nbsp;Frankfurter RundschauDarmkrebs betrifft immer jüngere Menschen – ein Warnsignal des modernen Lebensstils.&nbsp;&nbsp;Vietnam.vn",
+      "pub_date": "2026-03-02T05:35:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "e517073e91b8",
+      "source": "medonline.at",
+      "source_feed": "google_de",
+      "title": "Adipositas für jeden zehnten Todesfall durch Infektionen verantwortlich - medonline.at",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEFmeG9pbkpVTEhwM010eW1ZNlhiNUtiS3J1dVlOOFFJejhmQU5sRWI1a2tVbzU4VlpNbkRJYmxiZGZsYlp6aFdPcUhPc3hUa3REeEVhTllCeGJtQkpLalk2UGRxWnpUVEJNeF9PUnlJWWdXS0ctZmktYlExN3NWRmdlU1lGcGVDSzQxLW9zQXdmTEJPSGxGOUVNSG1ySU5tdXJMZnJWbXdGWTlIVHNuY05fMmNrd3JsSWc?oc=5",
+      "description": "Adipositas für jeden zehnten Todesfall durch Infektionen verantwortlich&nbsp;&nbsp;medonline.atHöheres Risiko für schweren Infektionsverlauf bei Adipositas&nbsp;&nbsp;TARA24",
+      "pub_date": "2026-03-02T04:48:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "Adipositas",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "9a9842720b0d",
+      "source": "News and press releases",
+      "source_feed": "ema_news",
       "title": "New medicine to treat paediatric low-grade glioma",
       "link": "https://www.ema.europa.eu/en/news/new-medicine-treat-paediatric-low-grade-glioma",
       "description": "Updated on 2 March 2026:The description of the tumour in the opening paragraph has been amended.EMA has recommended granting a conditional marketing authorisation in the…",
-      "pub_date": "Fri, 27 Feb 2026 10:25:43 +0100",
+      "pub_date": "2026-02-27T10:25:43+01:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -44,11 +1678,13 @@
       ]
     },
     {
-      "source": "ema_human_medicines",
+      "id": "39fe0490e02f",
+      "source": "Human medicine and SMOPs",
+      "source_feed": "ema_human_medicines",
       "title": "Human medicines European public assessment report (EPAR): Vaxelis, diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus type b conjugate vaccine (adsorbed), Date of authorisation: 15/02/2016, Revision: 18, Status: Authorised",
       "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/vaxelis",
       "description": "Human medicines European public assessment report (EPAR): Vaxelis, diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus type b conjugate vaccine (adsorbed), Date of authorisation: 15/02/2016, Revision: 18, Status: Authorised",
-      "pub_date": "Mon, 16 Feb 2026 16:00:00 +0100",
+      "pub_date": "2026-02-16T16:00:00+01:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -70,886 +1706,6 @@
         "cobicistat",
         "deferasirox"
       ]
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Infanrix Hexa, diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed), Date of authorisation: 23/10/2000, Revision: 49, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa",
-      "description": "Human medicines European public assessment report (EPAR): Infanrix Hexa, diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae type-b (Hib) conjugate vaccine (adsorbed), Date of authorisation: 23/10/2000, Revision: 49, Status: Authorised",
-      "pub_date": "Thu, 12 Feb 2026 15:45:00 +0100",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "hepatitis",
-          "keyword": "hepatitis",
-          "related_drugs": [
-            "abacavir",
-            "baloxavir-marboxil",
-            "bictegravir",
-            "cobicistat",
-            "deferasirox"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "abacavir",
-        "baloxavir-marboxil",
-        "bictegravir",
-        "cobicistat",
-        "deferasirox"
-      ]
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Exforge HCT, amlodipine besilate,valsartan,hydrochlorothiazide, Date of authorisation: 15/10/2009, Revision: 28, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/exforge-hct",
-      "description": "Human medicines European public assessment report (EPAR): Exforge HCT, amlodipine besilate,valsartan,hydrochlorothiazide, Date of authorisation: 15/10/2009, Revision: 28, Status: Authorised",
-      "pub_date": "Fri, 06 Feb 2026 15:45:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Amlodipine",
-          "slug": "amlodipine",
-          "url": "/drugs/amlodipine/"
-        },
-        {
-          "name": "Hydrochlorothiazide",
-          "slug": "hydrochlorothiazide",
-          "url": "/drugs/hydrochlorothiazide/"
-        },
-        {
-          "name": "Valsartan",
-          "slug": "valsartan",
-          "url": "/drugs/valsartan/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Dafiro HCT, amlodipine besilate,valsartan,hydrochlorothiazide, Date of authorisation: 03/11/2009, Revision: 30, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/dafiro-hct",
-      "description": "Human medicines European public assessment report (EPAR): Dafiro HCT, amlodipine besilate,valsartan,hydrochlorothiazide, Date of authorisation: 03/11/2009, Revision: 30, Status: Authorised",
-      "pub_date": "Fri, 06 Feb 2026 15:44:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Amlodipine",
-          "slug": "amlodipine",
-          "url": "/drugs/amlodipine/"
-        },
-        {
-          "name": "Hydrochlorothiazide",
-          "slug": "hydrochlorothiazide",
-          "url": "/drugs/hydrochlorothiazide/"
-        },
-        {
-          "name": "Valsartan",
-          "slug": "valsartan",
-          "url": "/drugs/valsartan/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Copalia HCT, amlodipine,valsartan,hydrochlorothiazide, Date of authorisation: 03/11/2009, Revision: 28, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/copalia-hct",
-      "description": "Human medicines European public assessment report (EPAR): Copalia HCT, amlodipine,valsartan,hydrochlorothiazide, Date of authorisation: 03/11/2009, Revision: 28, Status: Authorised",
-      "pub_date": "Fri, 06 Feb 2026 15:43:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Amlodipine",
-          "slug": "amlodipine",
-          "url": "/drugs/amlodipine/"
-        },
-        {
-          "name": "Hydrochlorothiazide",
-          "slug": "hydrochlorothiazide",
-          "url": "/drugs/hydrochlorothiazide/"
-        },
-        {
-          "name": "Valsartan",
-          "slug": "valsartan",
-          "url": "/drugs/valsartan/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Nustendi, bempedoic acid,ezetimibe, Date of authorisation: 27/03/2020, Revision: 9, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nustendi",
-      "description": "Human medicines European public assessment report (EPAR): Nustendi, bempedoic acid,ezetimibe, Date of authorisation: 27/03/2020, Revision: 9, Status: Authorised",
-      "pub_date": "Fri, 27 Feb 2026 13:52:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Bempedoic Acid",
-          "slug": "bempedoic-acid",
-          "url": "/drugs/bempedoic-acid/"
-        },
-        {
-          "name": "Ezetimibe",
-          "slug": "ezetimibe",
-          "url": "/drugs/ezetimibe/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Vivlipeg, pegfilgrastim, Date of authorisation: 18/08/2025, Revision: 1, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/vivlipeg",
-      "description": "Human medicines European public assessment report (EPAR): Vivlipeg, pegfilgrastim, Date of authorisation: 18/08/2025, Revision: 1, Status: Authorised",
-      "pub_date": "Tue, 24 Feb 2026 17:12:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Filgrastim",
-          "slug": "filgrastim",
-          "url": "/drugs/filgrastim/"
-        },
-        {
-          "name": "Pegfilgrastim",
-          "slug": "pegfilgrastim",
-          "url": "/drugs/pegfilgrastim/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Emblaveo, aztreonam,avibactam, Date of authorisation: 22/04/2024, Revision: 3, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/emblaveo",
-      "description": "Human medicines European public assessment report (EPAR): Emblaveo, aztreonam,avibactam, Date of authorisation: 22/04/2024, Revision: 3, Status: Authorised",
-      "pub_date": "Mon, 23 Feb 2026 16:50:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Avibactam",
-          "slug": "avibactam",
-          "url": "/drugs/avibactam/"
-        },
-        {
-          "name": "Aztreonam",
-          "slug": "aztreonam",
-          "url": "/drugs/aztreonam/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Fulphila, pegfilgrastim, Date of authorisation: 20/11/2018, Revision: 13, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/fulphila",
-      "description": "Human medicines European public assessment report (EPAR): Fulphila, pegfilgrastim, Date of authorisation: 20/11/2018, Revision: 13, Status: Authorised",
-      "pub_date": "Thu, 19 Feb 2026 10:40:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Filgrastim",
-          "slug": "filgrastim",
-          "url": "/drugs/filgrastim/"
-        },
-        {
-          "name": "Pegfilgrastim",
-          "slug": "pegfilgrastim",
-          "url": "/drugs/pegfilgrastim/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Mysimba, naltrexone,bupropion, Date of authorisation: 26/03/2015, Revision: 31, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/mysimba",
-      "description": "Human medicines European public assessment report (EPAR): Mysimba, naltrexone,bupropion, Date of authorisation: 26/03/2015, Revision: 31, Status: Authorised",
-      "pub_date": "Thu, 19 Feb 2026 10:31:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Bupropion",
-          "slug": "bupropion",
-          "url": "/drugs/bupropion/"
-        },
-        {
-          "name": "Naltrexone",
-          "slug": "naltrexone",
-          "url": "/drugs/naltrexone/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Dovato, dolutegravir,lamivudine, Date of authorisation: 01/07/2019, Revision: 20, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/dovato",
-      "description": "Human medicines European public assessment report (EPAR): Dovato, dolutegravir,lamivudine, Date of authorisation: 01/07/2019, Revision: 20, Status: Authorised",
-      "pub_date": "Mon, 16 Feb 2026 14:42:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Dolutegravir",
-          "slug": "dolutegravir",
-          "url": "/drugs/dolutegravir/"
-        },
-        {
-          "name": "Lamivudine",
-          "slug": "lamivudine",
-          "url": "/drugs/lamivudine/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris, emtricitabine,rilpivirine,tenofovir alafenamide, Date of authorisation: 19/08/2025, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-rilpivirine-tenofovir-alafenamide-viatris",
-      "description": "Human medicines European public assessment report (EPAR): Emtricitabine / Rilpivirine / Tenofovir Alafenamide Viatris, emtricitabine,rilpivirine,tenofovir alafenamide, Date of authorisation: 19/08/2025, Status: Authorised",
-      "pub_date": "Fri, 13 Feb 2026 15:20:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Emtricitabine",
-          "slug": "emtricitabine",
-          "url": "/drugs/emtricitabine/"
-        },
-        {
-          "name": "Tenofovir Alafenamide",
-          "slug": "tenofovir-alafenamide",
-          "url": "/drugs/tenofovir-alafenamide/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Glyxambi, empagliflozin,linagliptin, Date of authorisation: 11/11/2016, Revision: 22, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/glyxambi",
-      "description": "Human medicines European public assessment report (EPAR): Glyxambi, empagliflozin,linagliptin, Date of authorisation: 11/11/2016, Revision: 22, Status: Authorised",
-      "pub_date": "Thu, 12 Feb 2026 13:46:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Empagliflozin",
-          "slug": "empagliflozin",
-          "url": "/drugs/empagliflozin/"
-        },
-        {
-          "name": "Linagliptin",
-          "slug": "linagliptin",
-          "url": "/drugs/linagliptin/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/jentadueto",
-      "description": "Human medicines European public assessment report (EPAR): Jentadueto, linagliptin,metformin hydrochloride, Date of authorisation: 19/07/2012, Revision: 25, Status: Authorised",
-      "pub_date": "Thu, 12 Feb 2026 13:42:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Linagliptin",
-          "slug": "linagliptin",
-          "url": "/drugs/linagliptin/"
-        },
-        {
-          "name": "Metformin",
-          "slug": "metformin",
-          "url": "/drugs/metformin/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Plegridy, peginterferon beta-1a, Date of authorisation: 18/07/2014, Revision: 29, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/plegridy",
-      "description": "Human medicines European public assessment report (EPAR): Plegridy, peginterferon beta-1a, Date of authorisation: 18/07/2014, Revision: 29, Status: Authorised",
-      "pub_date": "Wed, 11 Feb 2026 10:55:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Interferon Beta-1A",
-          "slug": "interferon-beta-1a",
-          "url": "/drugs/interferon-beta-1a/"
-        },
-        {
-          "name": "Peginterferon Beta-1A",
-          "slug": "peginterferon-beta-1a",
-          "url": "/drugs/peginterferon-beta-1a/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Azarga, brinzolamide,timolol, Date of authorisation: 25/11/2008, Revision: 19, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/azarga",
-      "description": "Human medicines European public assessment report (EPAR): Azarga, brinzolamide,timolol, Date of authorisation: 25/11/2008, Revision: 19, Status: Authorised",
-      "pub_date": "Fri, 06 Feb 2026 09:55:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Brinzolamide",
-          "slug": "brinzolamide",
-          "url": "/drugs/brinzolamide/"
-        },
-        {
-          "name": "Timolol",
-          "slug": "timolol",
-          "url": "/drugs/timolol/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Yuvanci, macitentan,tadalafil, Date of authorisation: 27/09/2024, Revision: 1, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/yuvanci",
-      "description": "Human medicines European public assessment report (EPAR): Yuvanci, macitentan,tadalafil, Date of authorisation: 27/09/2024, Revision: 1, Status: Authorised",
-      "pub_date": "Thu, 05 Feb 2026 15:50:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Macitentan",
-          "slug": "macitentan",
-          "url": "/drugs/macitentan/"
-        },
-        {
-          "name": "Tadalafil",
-          "slug": "tadalafil",
-          "url": "/drugs/tadalafil/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): DuoTrav, travoprost,timolol, Date of authorisation: 23/04/2006, Revision: 20, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/duotrav",
-      "description": "Human medicines European public assessment report (EPAR): DuoTrav, travoprost,timolol, Date of authorisation: 23/04/2006, Revision: 20, Status: Authorised",
-      "pub_date": "Thu, 05 Feb 2026 14:30:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Timolol",
-          "slug": "timolol",
-          "url": "/drugs/timolol/"
-        },
-        {
-          "name": "Travoprost",
-          "slug": "travoprost",
-          "url": "/drugs/travoprost/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_new_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Onerji, levodopa,carbidopa, Status: Opinion",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/onerji",
-      "description": "Human medicines European public assessment report (EPAR): Onerji, levodopa,carbidopa, Status: Opinion",
-      "pub_date": "Fri, 27 Feb 2026 12:00:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Carbidopa",
-          "slug": "carbidopa",
-          "url": "/drugs/carbidopa/"
-        },
-        {
-          "name": "Levodopa",
-          "slug": "levodopa",
-          "url": "/drugs/levodopa/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Afqlir, aflibercept, Date of authorisation: 13/11/2024, Revision: 6, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/afqlir",
-      "description": "Human medicines European public assessment report (EPAR): Afqlir, aflibercept, Date of authorisation: 13/11/2024, Revision: 6, Status: Authorised",
-      "pub_date": "Tue, 03 Mar 2026 16:35:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Aflibercept",
-          "slug": "aflibercept",
-          "url": "/drugs/aflibercept/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 32, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/entyvio",
-      "description": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 32, Status: Authorised",
-      "pub_date": "Tue, 03 Mar 2026 16:00:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Vedolizumab",
-          "slug": "vedolizumab",
-          "url": "/drugs/vedolizumab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Zeposia, ozanimod, Date of authorisation: 20/05/2020, Revision: 11, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/zeposia",
-      "description": "Human medicines European public assessment report (EPAR): Zeposia, ozanimod, Date of authorisation: 20/05/2020, Revision: 11, Status: Authorised",
-      "pub_date": "Tue, 03 Mar 2026 15:50:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Ozanimod Hydrochloride",
-          "slug": "ozanimod-hydrochloride",
-          "url": "/drugs/ozanimod-hydrochloride/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Vyloy, zolbetuximab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/vyloy",
-      "description": "Human medicines European public assessment report (EPAR): Vyloy, zolbetuximab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
-      "pub_date": "Tue, 03 Mar 2026 15:25:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Zolbetuximab",
-          "slug": "zolbetuximab",
-          "url": "/drugs/zolbetuximab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Nivestim, filgrastim, Date of authorisation: 07/06/2010, Revision: 32, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nivestim",
-      "description": "Human medicines European public assessment report (EPAR): Nivestim, filgrastim, Date of authorisation: 07/06/2010, Revision: 32, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 17:15:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Filgrastim",
-          "slug": "filgrastim",
-          "url": "/drugs/filgrastim/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 11, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/fingolimod-accord",
-      "description": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 11, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 16:58:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Fingolimod",
-          "slug": "fingolimod",
-          "url": "/drugs/fingolimod/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Rasilez, aliskiren, Date of authorisation: 22/08/2007, Revision: 28, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/rasilez",
-      "description": "Human medicines European public assessment report (EPAR): Rasilez, aliskiren, Date of authorisation: 22/08/2007, Revision: 28, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 16:55:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Aliskiren",
-          "slug": "aliskiren",
-          "url": "/drugs/aliskiren/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/herceptin",
-      "description": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 16:44:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Trastuzumab",
-          "slug": "trastuzumab",
-          "url": "/drugs/trastuzumab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Neoclarityn, desloratadine, Date of authorisation: 15/01/2001, Revision: 49, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/neoclarityn",
-      "description": "Human medicines European public assessment report (EPAR): Neoclarityn, desloratadine, Date of authorisation: 15/01/2001, Revision: 49, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 12:42:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Desloratadine",
-          "slug": "desloratadine",
-          "url": "/drugs/desloratadine/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nemluvio",
-      "description": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 12:35:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Nemolizumab",
-          "slug": "nemolizumab",
-          "url": "/drugs/nemolizumab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Azomyr, desloratadine, Date of authorisation: 15/01/2001, Revision: 55, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/azomyr",
-      "description": "Human medicines European public assessment report (EPAR): Azomyr, desloratadine, Date of authorisation: 15/01/2001, Revision: 55, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 12:15:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Desloratadine",
-          "slug": "desloratadine",
-          "url": "/drugs/desloratadine/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Aerius, desloratadine, Date of authorisation: 15/01/2001, Revision: 53, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/aerius",
-      "description": "Human medicines European public assessment report (EPAR): Aerius, desloratadine, Date of authorisation: 15/01/2001, Revision: 53, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 12:14:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Desloratadine",
-          "slug": "desloratadine",
-          "url": "/drugs/desloratadine/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control",
-      "description": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 10:55:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Esomeprazole",
-          "slug": "esomeprazole",
-          "url": "/drugs/esomeprazole/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_whats_new",
-      "title": "Human medicines European public assessment report (EPAR): Xbonzy, denosumab, Date of authorisation: 17/11/2025, Revision: 1, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/xbonzy",
-      "description": "Human medicines European public assessment report (EPAR): Xbonzy, denosumab, Date of authorisation: 17/11/2025, Revision: 1, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 10:52:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Denosumab",
-          "slug": "denosumab",
-          "url": "/drugs/denosumab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Afqlir, aflibercept, Date of authorisation: 13/11/2024, Revision: 6, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/afqlir",
-      "description": "Human medicines European public assessment report (EPAR): Afqlir, aflibercept, Date of authorisation: 13/11/2024, Revision: 6, Status: Authorised",
-      "pub_date": "Tue, 03 Mar 2026 16:35:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Aflibercept",
-          "slug": "aflibercept",
-          "url": "/drugs/aflibercept/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 32, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/entyvio",
-      "description": "Human medicines European public assessment report (EPAR): Entyvio, vedolizumab, Date of authorisation: 22/05/2014, Revision: 32, Status: Authorised",
-      "pub_date": "Tue, 03 Mar 2026 16:00:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Vedolizumab",
-          "slug": "vedolizumab",
-          "url": "/drugs/vedolizumab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Zeposia, ozanimod, Date of authorisation: 20/05/2020, Revision: 11, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/zeposia",
-      "description": "Human medicines European public assessment report (EPAR): Zeposia, ozanimod, Date of authorisation: 20/05/2020, Revision: 11, Status: Authorised",
-      "pub_date": "Tue, 03 Mar 2026 15:50:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Ozanimod Hydrochloride",
-          "slug": "ozanimod-hydrochloride",
-          "url": "/drugs/ozanimod-hydrochloride/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Vyloy, zolbetuximab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/vyloy",
-      "description": "Human medicines European public assessment report (EPAR): Vyloy, zolbetuximab, Date of authorisation: 19/09/2024, Revision: 4, Status: Authorised",
-      "pub_date": "Tue, 03 Mar 2026 15:25:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Zolbetuximab",
-          "slug": "zolbetuximab",
-          "url": "/drugs/zolbetuximab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Nivestim, filgrastim, Date of authorisation: 07/06/2010, Revision: 32, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nivestim",
-      "description": "Human medicines European public assessment report (EPAR): Nivestim, filgrastim, Date of authorisation: 07/06/2010, Revision: 32, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 17:15:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Filgrastim",
-          "slug": "filgrastim",
-          "url": "/drugs/filgrastim/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 11, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/fingolimod-accord",
-      "description": "Human medicines European public assessment report (EPAR): Fingolimod Accord, fingolimod, Date of authorisation: 25/06/2020, Revision: 11, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 16:58:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Fingolimod",
-          "slug": "fingolimod",
-          "url": "/drugs/fingolimod/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Rasilez, aliskiren, Date of authorisation: 22/08/2007, Revision: 28, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/rasilez",
-      "description": "Human medicines European public assessment report (EPAR): Rasilez, aliskiren, Date of authorisation: 22/08/2007, Revision: 28, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 16:55:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Aliskiren",
-          "slug": "aliskiren",
-          "url": "/drugs/aliskiren/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/herceptin",
-      "description": "Human medicines European public assessment report (EPAR): Herceptin, trastuzumab, Date of authorisation: 28/08/2000, Revision: 47, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 16:44:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Trastuzumab",
-          "slug": "trastuzumab",
-          "url": "/drugs/trastuzumab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Neoclarityn, desloratadine, Date of authorisation: 15/01/2001, Revision: 49, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/neoclarityn",
-      "description": "Human medicines European public assessment report (EPAR): Neoclarityn, desloratadine, Date of authorisation: 15/01/2001, Revision: 49, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 12:42:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Desloratadine",
-          "slug": "desloratadine",
-          "url": "/drugs/desloratadine/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nemluvio",
-      "description": "Human medicines European public assessment report (EPAR): Nemluvio, nemolizumab, Date of authorisation: 12/02/2025, Revision: 5, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 12:35:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Nemolizumab",
-          "slug": "nemolizumab",
-          "url": "/drugs/nemolizumab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Azomyr, desloratadine, Date of authorisation: 15/01/2001, Revision: 55, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/azomyr",
-      "description": "Human medicines European public assessment report (EPAR): Azomyr, desloratadine, Date of authorisation: 15/01/2001, Revision: 55, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 12:15:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Desloratadine",
-          "slug": "desloratadine",
-          "url": "/drugs/desloratadine/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Aerius, desloratadine, Date of authorisation: 15/01/2001, Revision: 53, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/aerius",
-      "description": "Human medicines European public assessment report (EPAR): Aerius, desloratadine, Date of authorisation: 15/01/2001, Revision: 53, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 12:14:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Desloratadine",
-          "slug": "desloratadine",
-          "url": "/drugs/desloratadine/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control",
-      "description": "Human medicines European public assessment report (EPAR): Nexium Control, esomeprazole, Date of authorisation: 26/08/2013, Revision: 21, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 10:55:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Esomeprazole",
-          "slug": "esomeprazole",
-          "url": "/drugs/esomeprazole/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Xbonzy, denosumab, Date of authorisation: 17/11/2025, Revision: 1, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/xbonzy",
-      "description": "Human medicines European public assessment report (EPAR): Xbonzy, denosumab, Date of authorisation: 17/11/2025, Revision: 1, Status: Authorised",
-      "pub_date": "Mon, 02 Mar 2026 10:52:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Denosumab",
-          "slug": "denosumab",
-          "url": "/drugs/denosumab/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Ztalmy, ganaxolone, Date of authorisation: 26/07/2023, Revision: 6, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/ztalmy",
-      "description": "Human medicines European public assessment report (EPAR): Ztalmy, ganaxolone, Date of authorisation: 26/07/2023, Revision: 6, Status: Authorised",
-      "pub_date": "Fri, 27 Feb 2026 16:06:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Ganaxolone",
-          "slug": "ganaxolone",
-          "url": "/drugs/ganaxolone/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
-    },
-    {
-      "source": "ema_human_medicines",
-      "title": "Human medicines European public assessment report (EPAR): Epidyolex, cannabidiol, Date of authorisation: 19/09/2019, Revision: 20, Status: Authorised",
-      "link": "https://www.ema.europa.eu/en/medicines/human/EPAR/epidyolex",
-      "description": "Human medicines European public assessment report (EPAR): Epidyolex, cannabidiol, Date of authorisation: 19/09/2019, Revision: 20, Status: Authorised",
-      "pub_date": "Fri, 27 Feb 2026 15:50:00 +0100",
-      "matched_drugs": [
-        {
-          "name": "Cannabidiol",
-          "slug": "cannabidiol",
-          "url": "/drugs/cannabidiol/"
-        }
-      ],
-      "matched_diseases": [],
-      "related_drugs": []
     }
   ]
 }

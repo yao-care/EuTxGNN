@@ -199,13 +199,16 @@ loadNews();
 
 ## News Sources
 
-| Source | Region | Update Frequency |
-|--------|--------|------------------|
-| EMA News | EU | Every 6 hours |
-| EMA Human Medicines | EU | Every 6 hours |
-| ECDC News | EU | Every 6 hours |
-| ECDC Risk Assessments | EU | Every 6 hours |
-| ECDC Guidance | EU | Every 6 hours |
+| Source | Region | Type |
+|--------|--------|------|
+| Google News UK | United Kingdom | Media health news |
+| Google News Germany | Germany | Media health news |
+| Google News France | France | Media health news |
+| Google News Spain | Spain | Media health news |
+| Google News Italy | Italy | Media health news |
+| EMA News | EU | Official agency |
+| EMA Human Medicines | EU | Drug approvals |
+| ECDC News | EU | Disease control |
 
 ---
 
