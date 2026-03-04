@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Nitisinone
-description: "Nitisinone drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "nitisinone drug repurposing predictions from TxGNN. Evidence level L4 with 50 predicted indications."
+parent: Preclinical Evidence (L4)
 nav_order: 406
-evidence_level: L5
+evidence_level: L4
 indication_count: 50
 ---
 
 # Nitisinone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Nitisinone |
 | DrugBank ID | [DB00348](https://go.drugbank.com/drugs/DB00348) |
 | Brand Names (EU) | Nityr |
-| Evidence Level | L5 |
+| Evidence Level | L4 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.96% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| galactosemia | L4 | 0 | 3 | AI prediction only |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

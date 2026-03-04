@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Belimumab
-description: "Belimumab drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
+description: "belimumab drug repurposing predictions from TxGNN. Evidence level L3 with 52 predicted indications."
+parent: Observational Evidence (L3)
 nav_order: 74
-evidence_level: L5
+evidence_level: L3
 indication_count: 52
 ---
 
 # Belimumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+Evidence Level: **L3** | Predicted Indications: **52**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **52**
 | Drug Name | Belimumab |
 | DrugBank ID | [DB08879](https://go.drugbank.com/drugs/DB08879) |
 | Brand Names (EU) | Benlysta |
-| Evidence Level | L5 |
+| Evidence Level | L3 |
 | Predicted Indications | 52 |
 | Top Prediction Score | 99.96% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| primary release disorder of platelets | L3 | 1 | 0 | 1 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

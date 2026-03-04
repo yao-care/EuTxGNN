@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Pravastatin
-description: "Pravastatin drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
+description: "pravastatin drug repurposing predictions from TxGNN. Evidence level L2 with 52 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 469
-evidence_level: L5
+evidence_level: L2
 indication_count: 52
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+Evidence Level: **L2** | Predicted Indications: **52**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **52**
 | Drug Name | Pravastatin |
 | DrugBank ID | [DB00175](https://go.drugbank.com/drugs/DB00175) |
 | Brand Names (EU) | Pravafenix, Pravastatin |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | Predicted Indications | 52 |
 | Top Prediction Score | 99.95% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| homozygous familial hypercholesterolemia | L2 | 1 | 5 | 1 Phase 3 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

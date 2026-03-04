@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Durvalumab
-description: "durvalumab drug repurposing predictions from TxGNN. Evidence level L4 with 50 predicted indications."
-parent: Preclinical Evidence (L4)
+description: "durvalumab drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 189
-evidence_level: L4
+evidence_level: L2
 indication_count: 50
 ---
 
 # Durvalumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **50**
+Evidence Level: **L2** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L4** | Predicted Indications: **50**
 | Drug Name | Durvalumab |
 | DrugBank ID | [DB11714](https://go.drugbank.com/drugs/DB11714) |
 | Brand Names (EU) | Imfinzi |
-| Evidence Level | L4 |
+| Evidence Level | L2 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.98% |
 
@@ -72,8 +72,11 @@ The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
+| transitional cell carcinoma | L2 | 20 | 1 | 1 Phase 3 trial(s), 13 Phase 2 trial(s) |
 | infiltrating bladder urothelial carcinoma sarcomatoid variant | L4 | 2 | 0 | 1 Phase 2 trial(s) |
 | kidney pelvis sarcomatoid transitional cell carcinoma | L4 | 1 | 0 | AI prediction only |
+
+---
 
 ---
 ## About TxGNN Predictions

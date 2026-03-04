@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Leflunomide
-description: "Leflunomide drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
+description: "leflunomide drug repurposing predictions from TxGNN. Evidence level L1 with 51 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 337
-evidence_level: L5
+evidence_level: L1
 indication_count: 51
 ---
 
 # Leflunomide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+Evidence Level: **L1** | Predicted Indications: **51**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **51**
 | Drug Name | Leflunomide |
 | DrugBank ID | [DB01097](https://go.drugbank.com/drugs/DB01097) |
 | Brand Names (EU) | Arava, Leflunomide medac |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 51 |
 | Top Prediction Score | 99.97% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| rheumatoid arthritis | L1 | 20 | 18 | 5 Phase 3 trial(s), 2 Phase 2 trial(s), 4 review(s |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

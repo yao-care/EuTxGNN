@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Imipenem
-description: "imipenem drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
-parent: Phase 2 Evidence (L2)
+description: "imipenem drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 295
-evidence_level: L2
+evidence_level: L1
 indication_count: 50
 ---
 
 # Imipenem
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L2** | Predicted Indications: **50**
 | Drug Name | Imipenem |
 | DrugBank ID | [DB01598](https://go.drugbank.com/drugs/DB01598) |
 | Brand Names (EU) | Imipenem |
-| Evidence Level | L2 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.99% |
 
@@ -72,8 +72,14 @@ The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
+| staphylococcus aureus infection | L1 | 13 | 10 | 2 Phase 3 trial(s), 1 Phase 2 trial(s), 1 RCT(s) |
 | bacterial arthritis | L2 | 1 | 1 | 1 Phase 3 trial(s) |
 | salmonellosis | L4 | 0 | 20 | AI prediction only |
+| sinusitis | L4 | 0 | 17 | AI prediction only |
+| typhoid fever | L4 | 0 | 14 | AI prediction only |
+| chronic rhinosinusitis | L4 | 0 | 4 | AI prediction only |
+
+---
 
 ---
 ## About TxGNN Predictions

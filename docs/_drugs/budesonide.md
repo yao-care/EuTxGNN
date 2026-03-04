@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Budesonide
-description: "Budesonide drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
+description: "budesonide drug repurposing predictions from TxGNN. Evidence level L4 with 52 predicted indications."
+parent: Preclinical Evidence (L4)
 nav_order: 98
-evidence_level: L5
+evidence_level: L4
 indication_count: 52
 ---
 
 # Budesonide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+Evidence Level: **L4** | Predicted Indications: **52**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **52**
 | Drug Name | Budesonide |
 | DrugBank ID | [DB01222](https://go.drugbank.com/drugs/DB01222) |
 | Brand Names (EU) | GoResp Digihaler (previously Budesonide/Formoterol Teva Pharma B.V.), Jorveza |
-| Evidence Level | L5 |
+| Evidence Level | L4 |
 | Predicted Indications | 52 |
 | Top Prediction Score | 99.96% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| atopic eczema | L4 | 2 | 4 | AI prediction only |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

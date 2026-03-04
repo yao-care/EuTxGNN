@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Duloxetine Hydrochloride
-description: "Duloxetine Hydrochloride drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "duloxetine hydrochloride drug repurposing predictions from TxGNN. Evidence level L4 with 50 predicted indications."
+parent: Preclinical Evidence (L4)
 nav_order: 187
-evidence_level: L5
+evidence_level: L4
 indication_count: 50
 ---
 
 # Duloxetine Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Duloxetine Hydrochloride |
 | DrugBank ID | [DB00476](https://go.drugbank.com/drugs/DB00476) |
 | Brand Names (EU) | Yentreve |
-| Evidence Level | L5 |
+| Evidence Level | L4 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.94% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| endogenous depression | L4 | 2 | 0 | 1 Phase 3 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Axitinib
-description: "Axitinib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "axitinib drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 63
-evidence_level: L5
+evidence_level: L2
 indication_count: 50
 ---
 
 # Axitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L2** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Axitinib |
 | DrugBank ID | [DB06626](https://go.drugbank.com/drugs/DB06626) |
 | Brand Names (EU) | Inlyta |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.94% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| clear cell renal carcinoma | L2 | 20 | 13 | 1 Phase 3 trial(s), 12 Phase 2 trial(s), 1 review( |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

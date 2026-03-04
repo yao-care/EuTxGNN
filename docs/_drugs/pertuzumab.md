@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Pertuzumab
-description: "Pertuzumab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "pertuzumab drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 456
-evidence_level: L5
+evidence_level: L2
 indication_count: 50
 ---
 
 # Pertuzumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L2** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Pertuzumab |
 | DrugBank ID | [DB06366](https://go.drugbank.com/drugs/DB06366) |
 | Brand Names (EU) | Perjeta |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.97% |
 
@@ -66,6 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| HER2 positive breast carcinoma | L2 | 20 | 1 | 4 Phase 3 trial(s), 10 Phase 2 trial(s) |
+| normal breast-like subtype of breast carcinoma | L3 | 6 | 0 | 5 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

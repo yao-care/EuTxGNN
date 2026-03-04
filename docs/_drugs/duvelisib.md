@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Duvelisib
-description: "Duvelisib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "duvelisib drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 190
-evidence_level: L5
+evidence_level: L2
 indication_count: 50
 ---
 
 # Duvelisib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L2** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Duvelisib |
 | DrugBank ID | [DB11952](https://go.drugbank.com/drugs/DB11952) |
 | Brand Names (EU) | Copiktra |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.94% |
 
@@ -66,6 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| Hodgkins lymphoma | L2 | 11 | 3 | 1 Phase 3 trial(s), 4 Phase 2 trial(s) |
+| myeloid leukemia | L4 | 2 | 4 | 1 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Lacosamide
-description: "Lacosamide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "lacosamide drug repurposing predictions from TxGNN. Evidence level L4 with 50 predicted indications."
+parent: Preclinical Evidence (L4)
 nav_order: 325
-evidence_level: L5
+evidence_level: L4
 indication_count: 50
 ---
 
 # Lacosamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L4** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Lacosamide |
 | DrugBank ID | [DB06218](https://go.drugbank.com/drugs/DB06218) |
 | Brand Names (EU) | Lacosamide UCB |
-| Evidence Level | L5 |
+| Evidence Level | L4 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.96% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| manic bipolar affective disorder | L4 | 1 | 0 | 1 Phase 3 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Levetiracetam
-description: "levetiracetam drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
-parent: Phase 2 Evidence (L2)
+description: "levetiracetam drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 340
-evidence_level: L2
+evidence_level: L1
 indication_count: 50
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L2** | Predicted Indications: **50**
 | Drug Name | Levetiracetam |
 | DrugBank ID | [DB01202](https://go.drugbank.com/drugs/DB01202) |
 | Brand Names (EU) | Keppra |
-| Evidence Level | L2 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.98% |
 
@@ -72,7 +72,13 @@ The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
+| thinking seizures | L1 | 10 | 0 | 3 Phase 3 trial(s) |
 | visual epilepsy | L2 | 9 | 0 | 2 Phase 3 trial(s), 3 Phase 2 trial(s) |
+| reading seizures | L2 | 7 | 0 | 4 Phase 3 trial(s), 1 Phase 2 trial(s) |
+| audiogenic seizures | L4 | 0 | 13 | AI prediction only |
+| startle epilepsy | L4 | 0 | 3 | AI prediction only |
+
+---
 
 ---
 ## About TxGNN Predictions

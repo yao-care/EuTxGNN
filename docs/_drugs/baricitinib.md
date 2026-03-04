@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Baricitinib
-description: "Baricitinib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
+description: "baricitinib drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 69
-evidence_level: L5
+evidence_level: L1
 indication_count: 50
 ---
 
 # Baricitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **50**
 | Drug Name | Baricitinib |
 | DrugBank ID | [DB11817](https://go.drugbank.com/drugs/DB11817) |
 | Brand Names (EU) | Olumiant |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.97% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| rheumatoid arthritis | L1 | 20 | 19 | 4 Phase 3 trial(s), 6 Phase 2 trial(s), 4 RCT(s),  |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

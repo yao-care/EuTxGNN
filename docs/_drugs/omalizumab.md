@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Omalizumab
-description: "omalizumab drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
-parent: Phase 2 Evidence (L2)
+description: "omalizumab drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 421
-evidence_level: L2
+evidence_level: L1
 indication_count: 50
 ---
 
 # Omalizumab
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L2** | Predicted Indications: **50**
 | Drug Name | Omalizumab |
 | DrugBank ID | [DB00043](https://go.drugbank.com/drugs/DB00043) |
 | Brand Names (EU) | Xolair |
-| Evidence Level | L2 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -72,7 +72,15 @@ The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
+| allergic asthma | L1 | 20 | 19 | 4 Phase 3 trial(s), 2 Phase 2 trial(s), 2 RCT(s) |
+| dermatitis | L1 | 19 | 20 | 3 Phase 2 trial(s), 5 review(s)/meta-analysis |
+| atopic eczema | L1 | 18 | 18 | 3 Phase 2 trial(s), 2 RCT(s), 1 review(s)/meta-ana |
+| obstructive lung disease | L1 | 20 | 1 | 5 Phase 3 trial(s), 3 Phase 2 trial(s) |
+| intrinsic asthma | L1 | 11 | 5 | 2 Phase 3 trial(s), 2 Phase 2 trial(s) |
 | bronchitis | L2 | 2 | 5 | 2 Phase 2 trial(s) |
+| bronchial neoplasm (disease) | L2 | 2 | 0 | AI prediction only |
+
+---
 
 ---
 ## About TxGNN Predictions

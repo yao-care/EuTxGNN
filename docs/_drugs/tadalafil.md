@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Tadalafil
-description: "Tadalafil drug repurposing predictions from TxGNN. Evidence level L5 with 53 predicted indications."
-parent: AI Predictions (L5)
+description: "tadalafil drug repurposing predictions from TxGNN. Evidence level L1 with 53 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 550
-evidence_level: L5
+evidence_level: L1
 indication_count: 53
 ---
 
 # Tadalafil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **53**
+Evidence Level: **L1** | Predicted Indications: **53**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **53**
 | Drug Name | Tadalafil |
 | DrugBank ID | [DB00820](https://go.drugbank.com/drugs/DB00820) |
 | Brand Names (EU) | Adcirca (previously Tadalafil Lilly), Talmanco (previously Tadalafil Generics) |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 53 |
 | Top Prediction Score | 99.98% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| benign prostatic hyperplasia (disease) | L1 | 20 | 0 | 7 Phase 3 trial(s), 5 Phase 2 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources

@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Valsartan
-description: "Valsartan drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
-parent: AI Predictions (L5)
+description: "valsartan drug repurposing predictions from TxGNN. Evidence level L1 with 51 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 620
-evidence_level: L5
+evidence_level: L1
 indication_count: 51
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **51**
+Evidence Level: **L1** | Predicted Indications: **51**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L5** | Predicted Indications: **51**
 | Drug Name | Valsartan |
 | DrugBank ID | [DB00177](https://go.drugbank.com/drugs/DB00177) |
 | Brand Names (EU) | Neparvis, Valsartan |
-| Evidence Level | L5 |
+| Evidence Level | L1 |
 | Predicted Indications | 51 |
 | Top Prediction Score | 99.97% |
 
@@ -66,6 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+## Clinical Evidence
+
+The following indications have supporting clinical evidence:
+
+| Indication | Level | Trials | Articles | Summary |
+|------------|:-----:|:------:|:--------:|---------|
+| hypertensive disorder | L1 | 20 | 0 | 10 Phase 3 trial(s) |
+
+---
 ## About TxGNN Predictions
 
 ### Prediction Sources
