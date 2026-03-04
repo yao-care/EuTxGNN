@@ -2,7 +2,7 @@
 
 ---
 
-## 📊 專案現況 (2026-03-04 更新)
+## 📊 專案現況 (2026-03-04 15:00 更新)
 
 ### 已完成功能
 
@@ -15,7 +15,7 @@
 | 健康新聞監控 | ✅ | 每小時抓取歐洲新聞 |
 | 網站部署 | ✅ | https://eutxgnn.yao.care |
 
-### 證據等級分布
+### 證據等級分布（藥物頁面）
 
 | 等級 | 數量 | 說明 |
 |------|------|------|
@@ -26,6 +26,14 @@
 | L5 | 572 | AI 預測（無臨床證據） |
 | **總計** | **642** | |
 
+### 證據收集進度
+
+| 指標 | 數值 |
+|------|------|
+| 總藥物-適應症配對 | 32,368 |
+| 已處理配對 | 505 (1.6%) |
+| 待處理配對 | 31,863 |
+
 ### 自動化排程
 
 | Workflow | 排程 | 功能 |
@@ -33,6 +41,13 @@
 | check-new-evidence | 每日 00:00, 12:00 UTC | 檢查 ClinicalTrials.gov 和 PubMed 新證據 |
 | fetch-news | 每小時 | 抓取歐洲健康新聞 |
 | pages | push 時 | 部署 Jekyll 網站 |
+
+### 快取狀態
+
+| 快取檔案 | 用途 |
+|----------|------|
+| `data/cache/clinicaltrials_cache.json` | ClinicalTrials.gov 基線（642 藥物） |
+| `data/cache/pubmed_cache.json` | PubMed 基線（642 藥物） |
 
 ### 關鍵檔案
 
@@ -43,8 +58,17 @@
 | `scripts/check_clinicaltrials.py` | 監控 ClinicalTrials.gov（自動化） |
 | `scripts/check_pubmed.py` | 監控 PubMed（自動化） |
 | `scripts/extract_drug_list.py` | 提取藥物清單 |
+| `scripts/github_utils.py` | GitHub Issue 管理工具 |
 | `data/cache/` | 快取檔案（避免重複通知） |
 | `data/evidence/` | 證據收集結果 |
+
+### 網站頁面
+
+| 頁面 | 路徑 | 說明 |
+|------|------|------|
+| High Evidence | `/evidence-high/` | L1 (49) + L2 (16) 藥物 |
+| Medium Evidence | `/evidence-medium/` | L3 (1) + L4 (4) 藥物 |
+| AI Predictions | `/evidence-low/` | L5 (572) 藥物 |
 
 ---
 
@@ -52,29 +76,50 @@
 
 ### 下次開啟 Claude CLI 時
 
-1. **查看專案狀態**
+1. **進入專案目錄**
    ```bash
    cd /Users/lightman/yao.care/EuTxGNN
-   cat CLAUDE.md  # 閱讀此檔案
    ```
 
-2. **檢查證據收集進度**
+2. **查看專案狀態**
+   ```bash
+   head -80 CLAUDE.md
+   ```
+
+3. **檢查證據收集進度**
    ```bash
    cat data/evidence/evidence_summary.json
    ```
 
-3. **繼續收集更多證據**（目前只處理了 505/32368 個配對）
+4. **檢查最近 GitHub Actions 執行狀況**
    ```bash
-   MAX_PAIRS=500 uv run python scripts/collect_evidence.py
-   uv run python scripts/update_drug_evidence.py
-   git add -A && git commit -m "Update evidence levels" && git push
-   ```
-
-4. **手動觸發 GitHub Actions 測試**
-   ```bash
-   gh workflow run "Check New Evidence" --repo yao-care/EuTxGNN
    gh run list --repo yao-care/EuTxGNN --limit 5
    ```
+
+### 繼續收集證據
+
+目前只處理了 505/32,368 個配對（1.6%），需要繼續收集：
+
+```bash
+# 收集 500 個配對的證據
+MAX_PAIRS=500 uv run python scripts/collect_evidence.py
+
+# 更新藥物檔案的證據等級
+uv run python scripts/update_drug_evidence.py
+
+# 提交變更
+git add -A && git commit -m "Update evidence levels" && git push
+```
+
+### 手動觸發 GitHub Actions
+
+```bash
+# 觸發證據檢查 workflow
+gh workflow run "Check New Evidence" --repo yao-care/EuTxGNN
+
+# 查看執行狀態
+gh run list --repo yao-care/EuTxGNN --limit 5
+```
 
 ### 待辦事項
 
