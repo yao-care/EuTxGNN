@@ -1,8 +1,8 @@
 {
   "description": "EU health news with drug-disease relations from EuTxGNN",
-  "fetched_at": "2026-03-04T02:35:30.788882+00:00",
-  "total_items": 347,
-  "relevant_items": 57,
+  "fetched_at": "2026-03-04T06:58:03.281842+00:00",
+  "total_items": 344,
+  "relevant_items": 54,
   "sources": [
     "google_uk",
     "google_de",
@@ -16,12 +16,42 @@
   ],
   "items": [
     {
+      "id": "9a7cb9b1c9a9",
+      "source": "La Vanguardia",
+      "source_feed": "google_es",
+      "title": "Obesidad: una enfermedad crónica que va más allá del peso - La Vanguardia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2FTdFpud3hvWlR2emR1TURpb085UEdrN21DYUt5dVkzYXUwc2lNME02MmFFVklxT2RXZHJXaVdnQkpFQ0xqNktNSEVCVmUyQTNoUEt2eldpc3pXT0J3a3czU3dJN2k3empVMXB4RFd2ckpENFNjOUZBTHJRV3NEYUFjc1ZwUEM3QlNvRUhlTUZtcGVQWjdHbDJOVHVGbG9OR0NKcDl30gGrAUFVX3lxTE1qWVY4WllrYzA4N3gwdm92ckVJT1VlMnhRTHB6czh2U09jMVd2OTdYdFM2UnZHVG9fdGZIblRVTXlySjYwVVJTNkUwYW1pRWJQaVVlM1VWdGZ4WDJWSFB4SlZQVjhXYlE0RklrUi1nZk55ekZURUdhdHlZeUtqaTVLYktUZlNSS2dBbE9OZk5JLXBGSkN0amlzMXFyczB3eUNJNUFEc19zeVFkRQ?oc=5",
+      "description": "Obesidad: una enfermedad crónica que va más allá del peso&nbsp;&nbsp;La VanguardiaNi una cuestión estética ni un problema de voluntad: la obesidad, una enfermedad crónica que ya afecta a 900 millones de personas&nbsp;&nbsp;AtresmediaSi tienes obesidad, podrías estar aumentando el riesgo de enfermedades crónicas: \"Se ha convertido en un problema de salud pública\"&nbsp;&nbsp;El EconomistaObesidad, la 'epidemia' global contra la que la prevención es la clave&nbsp;&nbsp;elDiario.esDía Mundial de la ",
+      "pub_date": "2026-03-04T04:55:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "obesidad",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
       "id": "e640c0cce236",
       "source": "The Guardian",
       "source_feed": "google_uk",
       "title": "More than 220m children will be obese by 2040 without drastic action, report warns - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX09FMWNORTZURWJXMmFvSnpOXzJuS2pyVmdha3YtaVNiZnliNmt2M0JZNVFjbzFrdUhkbHpGb1dkaVdEOEd4MEstVE9VX0VJNnZ4VGRGdWlqRXlObFMwb0xJcndLNjZpMmVfUXpRM1RPSUpqX1dpSnJ5US1BZHBna3NGZTl0LWtjdkYyYWotakw2akZLRVJaQ1ZUTlNlMmJTV0NYSHNCNV9wVVk0MzVYb2t4ZFNlZ3JCYXpmTTItU0ZUb3loSVM1cg?oc=5",
-      "description": "More than 220m children will be obese by 2040 without drastic action, report warns&nbsp;&nbsp;The GuardianApollo doctor shares 5 ways to reverse obesity without extreme dieting&nbsp;&nbsp;theweek.in73 million urban Indians overweight, just 4.99 per cent aware of GLP-1: Kantar report&nbsp;&nbsp;Indian TelevisionObesity now a public health emergency in India: bariatric surgeon&nbsp;&nbsp;The HinduThe weight of a nation: India’s obesity crisis meets public policy&nbsp;&nbsp;India Today",
+      "description": "More than 220m children will be obese by 2040 without drastic action, report warns&nbsp;&nbsp;The GuardianApollo doctor shares 5 ways to reverse obesity without extreme dieting&nbsp;&nbsp;theweek.inObesity now a public health emergency in India: bariatric surgeon&nbsp;&nbsp;The HinduIndia Ranks Second To China In Childhood Obesity; 12 Crore Indian Kids Risk High BP By 2040&nbsp;&nbsp;Curly TalesThe weight of a nation: India’s obesity crisis meets public policy&nbsp;&nbsp;India Today",
       "pub_date": "2026-03-04T00:24:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -46,35 +76,24 @@
       ]
     },
     {
-      "id": "9f8a57b21944",
-      "source": "GB News",
-      "source_feed": "google_uk",
-      "title": "Statin side effects: Cardiologist addresses diabetes fears and dementia questions - GB News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42ZlBoTlZsYVJMb3VheFpsRS10TnQ3ZmJLTTJWeGxlXzVvc3F5TEVXRjNaenlKd19MaUVjMzRZdjFySWV0OVVNejdhcDFEbWlvS3NzekFsWjVLN29GRF9KMnRSVXRnZ29vV3ZtZnlQd2Y1anFUM2NDQ2gwYmNaV1E?oc=5",
-      "description": "Statin side effects: Cardiologist addresses diabetes fears and dementia questions&nbsp;&nbsp;GB NewsAfter Decades of Mystery, Scientists Finally Have an Answer for This Painful Statin Side Effect.&nbsp;&nbsp;Men's HealthStatins, the world's most prescribed cholesterol drugs, not responsible for most reported side effects&nbsp;&nbsp;Technology OrgWorried About Statin Side Effects? Find Out What’s Real and What’s Not&nbsp;&nbsp;Woman's WorldWhy statins cause muscle pain&nbsp;&nbsp;wddty.com",
-      "pub_date": "2026-03-03T20:08:11+00:00",
+      "id": "b99cea06ca77",
+      "source": "Il Messaggero",
+      "source_feed": "google_it",
+      "title": "Quante ore dormire per proteggersi dal diabete? La durata ottimale del sonno per scongiurare il rischio di insulino-resistenza - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlJtamVCYmJSX1YyZHdzNUtNa3BnSElsT3daazVQVUdUZ1pOZTJieDBlbVVTcTlBUmZGcWJkSmZlOVcyYmpfZGxBREFScWUwWnFfRWk0Zk1OWE5kTTVQUTg0TlEtclYzZTQzZ2VUV3RMTVdlU2FGcmJkNmpRUmxsd21uUk9heXRtZ1F1TkgyNmdHcGV6RjVDZVNteGdJS29mOXfSAacBQVVfeXFMTld2TF9ua0lPYnlnMWxyRVZIb1VBblNseERwT203R0puOTFiMnQ4TkM3N25wV1NtMTlaNW9LTlZIYUdnTFhMdlJmU2ZTZXlGZ3RHaXBvWXFxUmoxY2hEaUtmQTZmQXE2dW5lWUhoaDlDWUk0RE1nSV9rbmJhZ3pKUnlMRGtYckU5ZnFHX2JGd0JCV2dNTkVPUWZOeE53cVhFQUxwa1FnZ2c?oc=5",
+      "description": "Quante ore dormire per proteggersi dal diabete? La durata ottimale del sonno per scongiurare il rischio di insulino-resistenza&nbsp;&nbsp;Il MessaggeroPerché le persone ricorrono al metodo 7:1 per dormire meglio (ed ecco come provarlo)&nbsp;&nbsp;cosmopolitan.comDormire bene allontana il diabete, ecco quanto deve durare il sonno: l'ora 'esatta'&nbsp;&nbsp;Adnkronos",
+      "pub_date": "2026-03-03T23:35:02+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
           "name": "diabetes mellitus",
-          "keyword": "diabetes",
+          "keyword": "diabete",
           "related_drugs": [
             "abaloparatide",
             "alogliptin",
             "angiotensin-ii-acetate",
             "anifrolumab",
             "belimumab"
-          ]
-        },
-        {
-          "name": "alzheimer disease",
-          "keyword": "dementia",
-          "related_drugs": [
-            "alectinib-hydrochloride",
-            "brigatinib",
-            "carbidopa",
-            "ceritinib",
-            "crizotinib"
           ]
         }
       ],
@@ -83,12 +102,7 @@
         "alogliptin",
         "angiotensin-ii-acetate",
         "anifrolumab",
-        "belimumab",
-        "alectinib-hydrochloride",
-        "brigatinib",
-        "carbidopa",
-        "ceritinib",
-        "crizotinib"
+        "belimumab"
       ]
     },
     {
@@ -119,36 +133,6 @@
         "angiotensin-ii-acetate",
         "anifrolumab",
         "belimumab"
-      ]
-    },
-    {
-      "id": "80f973dadaa9",
-      "source": "El Economista",
-      "source_feed": "google_es",
-      "title": "Si tienes obesidad, podrías estar aumentando el riesgo de enfermedades crónicas: \"Se ha convertido en un problema de salud pública\" - El Economista",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPOFRZSnJ5S0tDZWxrd1pBMW1aWU0wOUZWeHV0TUU4VEl6eFFwaUtVSmY3dExYMmY1eEZnOUdiaE5POEYtTDgyQmd3MGQwSlFpT0RMSFFhVHBqbjVqNVU5XzdkcHdtcEtLWHZRamk2ellLbEllOHFpNzExWkFfbzlLNHpmZlJkc09WQjhfaVJaWi1DX3VmWE9fYWZLQ2gxRlBaNUZSQVhhY3FXZ213Vi1MZHFLUmJGdFBjVjhFT0tOWTNUQ0lWNXFqSzd5Q01Kdm1kSnVJX3UzbmtwTWI1V3ZMMHZNYnl2QUFWdUZLX3oyckt0bjZWQVVreUVBb1d5amNKT1o3eERQa0kxcE1mUF9VOW1hSkozc2xhSTNESzd1UkJyU2s3ZlhCNGtGLXFpU1dqN0R5Tw?oc=5",
-      "description": "Si tienes obesidad, podrías estar aumentando el riesgo de enfermedades crónicas: \"Se ha convertido en un problema de salud pública\"&nbsp;&nbsp;El EconomistaNi una cuestión estética ni un problema de voluntad: la obesidad, una enfermedad crónica que ya afecta a 900 millones de personas&nbsp;&nbsp;AtresmediaObesidad, la 'epidemia' global contra la que la prevención es la clave&nbsp;&nbsp;elDiario.esTendencia clínica: Políticas clave para la obesidad&nbsp;&nbsp;MedscapeDía Mundial de la Obesidad 20",
-      "pub_date": "2026-03-03T17:13:50+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "obesity",
-          "keyword": "obesidad",
-          "related_drugs": [
-            "bupropion",
-            "fenfluramine-hydrochloride",
-            "lasmiditan-succinate",
-            "melatonin",
-            "naltrexone"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "bupropion",
-        "fenfluramine-hydrochloride",
-        "lasmiditan-succinate",
-        "melatonin",
-        "naltrexone"
       ]
     },
     {
@@ -277,7 +261,7 @@
       "source_feed": "google_it",
       "title": "Open day sulla psoriasi, 30 visite gratis in provincia - Cronache Maceratesi",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUVtVDhyUWw4QkV2TzhDdWFSbkVXbG1VUG82d2t4dzFpS2VnbThMNTFRUWRWcGJMOVVYYmRITzFNNGZ0WUd4MndsQWJNa3l0VkVDUmtDbWlTc05FN1RPMjctanMxeFZuQ3o5b2lLRzJXMUNMOElkUFdfZkVwcGFuMFhMVEhvdl9hMjdHOFlMRnpsOE1KejZPSFVZUkR6cHZOdnVsZGU1WE0?oc=5",
-      "description": "Open day sulla psoriasi, 30 visite gratis in provincia&nbsp;&nbsp;Cronache MaceratesiA Torrette una giornata per la psoriasi, prenotabili visite gratuite l'11 marzo&nbsp;&nbsp;ANSAVisite dermatologiche gratuite per la psoriasi al Policlinico San Donato&nbsp;&nbsp;grupposandonato.itAl San Camillo Forlanini visite gratuite per la psoriasi&nbsp;&nbsp;RomaTodayPsoriasi: visite, colloqui e consulenze specialistiche gratuite all'ospedale Santa Chiara&nbsp;&nbsp;PisaToday",
+      "description": "Open day sulla psoriasi, 30 visite gratis in provincia&nbsp;&nbsp;Cronache MaceratesiA Torrette una giornata per la psoriasi, prenotabili visite gratuite l'11 marzo&nbsp;&nbsp;ANSA'Sulla pelle delle donne. Medicina narrativa e medicina di genere nelle patologie dermatologiche': webconference promossa dall'Asl&nbsp;&nbsp;PisaTodayVisite dermatologiche gratuite per la psoriasi al Policlinico San Donato&nbsp;&nbsp;grupposandonato.itMercoledì prossimo open day sulla psoriasi. Trenta posti per i cont",
       "pub_date": "2026-03-03T15:15:01+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -302,11 +286,11 @@
       ]
     },
     {
-      "id": "7a860794aa59",
+      "id": "102fa28013c4",
       "source": "Deutsches Ärzteblatt",
       "source_feed": "google_de",
       "title": "Planetary Health Diet: Möglicherweise geringeres Risiko für chronische Nierenerkrankung – News - Deutsches Ärzteblatt",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNE1KYmVNSWRURlJPZEVYdDdENkRBMlo4UGNKVHRnbURMS3FEVjRUaVROWk84WDdsRFVCUEVfX3RYN0JpNUFjVTJFSEJER1YxdjZyaWM4N1RROUlvTFFqZHU0R3VtMnFEZ1dwVWJJam5scmVsaUR3aEU5YXF3eXdfNXBDVk5xQjdTMEtKQ2FpVXdBYkNkS2htaVFyV3FiUjFvTTVHZnRMblAydzlTS1hFVUhhVmIxM05IWDd5SmZreU94Q0RLVlliYjBTajF4SENZVW5vM0RUdUJFRzN0V042akZIMkZEbERfM2dYdnVzSFBJR1BJSG9lX2hHOGl0bjU3Znc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZVl3YUNlQTFVSmxOMUtDaHZjN0RTblU5X3pGSUo0NnRia3J1TjZJQmZqaTMwVGFmMUZiSHlTdFBYbG9laXdZUnd2cU52ekVkMXNYbmVIQUZFZFAyZk5Bam5hZ0g3TGVmcFAtODlOaWdpczJHVkRwTFVxSnQ5cUtqeGI5NjBFZWhmREpJRldGems3Q1JLbmh6REl3RFJ3VUZRMDMwdmhlY0hmbEZlaktUVzNWdzQtU3gxN1VDd21iTjV6MFBCV2JjOHVSUHRWbVp2ZnU1dEdCMmNmYzk1TEZmNklYRW9pNF9FV1Q4?oc=5",
       "description": "Planetary Health Diet: Möglicherweise geringeres Risiko für chronische Nierenerkrankung – News&nbsp;&nbsp;Deutsches Ärzteblatt",
       "pub_date": "2026-03-03T14:23:07+00:00",
       "matched_drugs": [],
@@ -449,7 +433,7 @@
       "source_feed": "google_uk",
       "title": "One in four breast cancer deaths linked to lifestyle factors such as diet - The Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWU9TUHEzTzJPb3hrNk9kejJqcUFfWXJMUExobm5sWXpLZEJYaEtiV21yTlN2aHRtb0VfeTk3eVJRN1U4blYydVQxUG9LcjVIODg0eHNTVWZtV1BrZVFiRVVNZzVnWTFSSWxoTlE5WkFFSjB2WlBaUHB4d0hDQ1dHaGRpZzRPRHhneThJNEdsbDk2NkQ3M1E?oc=5",
-      "description": "One in four breast cancer deaths linked to lifestyle factors such as diet&nbsp;&nbsp;The TimesQuarter of healthy years lost to breast cancer are due to lifestyle factors, research finds&nbsp;&nbsp;The GuardianGlobal breast cancer cases expected to reach over 3.5 million by 2050&nbsp;&nbsp;CNN6 Lifestyle Factors That Increase Your Risk of Breast Cancer&nbsp;&nbsp;People.comBreast cancer in young women has increased by 29% in three decades&nbsp;&nbsp;EL PAÍS English",
+      "description": "One in four breast cancer deaths linked to lifestyle factors such as diet&nbsp;&nbsp;The TimesQuarter of healthy years lost to breast cancer are due to lifestyle factors, research finds&nbsp;&nbsp;The GuardianGlobal breast cancer cases expected to reach over 3.5 million by 2050&nbsp;&nbsp;CNNNigeria records 543% surge in breast cancer cases as Africa tops global rise- Study&nbsp;&nbsp;Premium Times Nigeria28% of breast cancer cases linked to 6 modifiable risk factors, experts say&nbsp;&nbsp;Medi",
       "pub_date": "2026-03-03T12:25:08+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -509,7 +493,7 @@
       "source_feed": "google_it",
       "title": "Mandic: cura dell’obesità. Dal 4 al 7 valutazioni gratuite bariatriche - Merateonline",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaC04T2Nwd1htQ29oS1hYSDdrSVlFTzVhd0RVeGo0cFBBNzNlNzBQRGVEQzYtZHV2LUVrZVFnZ2sycGJjQjFvTWx1WVl2Y0p4OXliVWpGTDZTUjN6YmdTNmM4dDI2UUlIcUxhMHJqWmdBbzZjUmdjUllYa2lsYTNUekVMaTNldzV0NldOakdXdTdJVDFfdzZDZEZHRWpoQ3VhNHgyTmlLNkJiNEFoeldnSGRVY0N3UTBMa2c?oc=5",
-      "description": "Mandic: cura dell’obesità. Dal 4 al 7 valutazioni gratuite bariatriche&nbsp;&nbsp;MerateonlineWorld obesity day, Aletheia: negli ultimi 25 anni il tasso di obesità in Italia è cresciuto del 39%&nbsp;&nbsp;la RepubblicaSanita': gli avvenimenti di MERCOLEDI' 4 marzo&nbsp;&nbsp;Il Sole 24 OREValutazioni bariatriche da parte della chirurgia generale dell’ospedale Mandic&nbsp;&nbsp;LeccoTodayObesità per quasi 6 milioni di italiani. Ma le cure migliorano&nbsp;&nbsp;Avvenire",
+      "description": "Mandic: cura dell’obesità. Dal 4 al 7 valutazioni gratuite bariatriche&nbsp;&nbsp;MerateonlineWorld obesity day, Aletheia: negli ultimi 25 anni il tasso di obesità in Italia è cresciuto del 39%&nbsp;&nbsp;la RepubblicaObesità, ancora troppi i pregiudizi e le disuguaglianze nell'accesso alle cure&nbsp;&nbsp;Corriere della SeraGiornata dell'obesità, i dati: sei milioni di persone colpite in Italia e un miliardo nel mondo&nbsp;&nbsp;Sky TG24World Obesity Day, perché l'obesità è una delle principali",
       "pub_date": "2026-03-03T11:53:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -583,13 +567,18 @@
       "source_feed": "google_fr",
       "title": "Ozempic : vers une plainte collective de victimes du médicament amaigrissant - Outre-mer la 1ère",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbm9aYzVtSXg1c2Y5X0d3RWtCZ29vWmFFRUwwbmxnMk1oWHFHZVMzLThGYjU5bXRFWkl3VnJhNXVHbkYzMUFKNWo0OWhvbXA1M2RjclZ0TGQta0lkOXRXTG9SU0twWEwyUDBmN1JmZTNTcWZQWkp6blB2d3ZHSUs0YURqQ2pGdUY0RndMN25IREFWZldQbXNCRU1xSHJrc2JHN0dpVXloZUw1TGZITlV5NF9sNzBKZjBJYW90TW80WTljcmxxQ0E?oc=5",
-      "description": "Ozempic : vers une plainte collective de victimes du médicament amaigrissant&nbsp;&nbsp;Outre-mer la 1èreNouveaux médicaments antiobésité : l’arrêt des injections entraîne une reprise de poids beaucoup plus rapide que prévu&nbsp;&nbsp;Sud OuestTrafic d’Ozempic dans les Alpes-Maritimes : comment le « médicament miracle » pour maigrir est revendu au prix fort au marché noir&nbsp;&nbsp;Nice-MatinMIDI SANTÉ - Certains médicaments contre l’obésité montre que la prise de poids après le traitement est ",
+      "description": "Ozempic : vers une plainte collective de victimes du médicament amaigrissant&nbsp;&nbsp;Outre-mer la 1èreWegovy, Mounjaro : pourquoi ces traitements anti-obésité sont moins miraculeux que les régimes classiques&nbsp;&nbsp;RTL.frOzempic : Une plainte collective se prépare contre l'utilisation détournée du médicament pour maigrir&nbsp;&nbsp;Outre-mer la 1èreNouveaux médicaments antiobésité : l’arrêt des injections entraîne une reprise de poids beaucoup plus rapide que prévu&nbsp;&nbsp;Sud OuestTra",
       "pub_date": "2026-03-03T11:00:01+00:00",
       "matched_drugs": [
         {
           "name": "Semaglutide",
           "slug": "semaglutide",
           "url": "/drugs/semaglutide/"
+        },
+        {
+          "name": "Tirzepatide",
+          "slug": "tirzepatide",
+          "url": "/drugs/tirzepatide/"
         }
       ],
       "matched_diseases": [
@@ -611,36 +600,6 @@
         "lasmiditan-succinate",
         "melatonin",
         "naltrexone"
-      ]
-    },
-    {
-      "id": "ca221bb060a0",
-      "source": "Il Sole 24 ORE",
-      "source_feed": "google_it",
-      "title": "Tumore al seno, nel mondo oltre 1 milione di casi in più entro il 2050 e +44% di morti: ecco i 6 fattori di rischio - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEtVbndRT0FQMlJmdEx0eXVYUlE3N3ZtYktkdkJEMVdmbEczYXRac2dTQlBicXA4dXd1UDZZTk1wRmJHazFpZDhiUUNWRW1waXBfMkMteUh0T2RPT1MyeUdfUlRpaEhZRWdzY3poY0NXYktXN1g2Y09DSkVoSjFjOHBsLXFIbXotenI3NkVwTjJyR1VReVUxdmZmVmFSZXhpV0g3ZXNaRThQYmpLTzJEenp0d2daTVlBbmZZd3FJMXhMb2U0QjVNbkVWcV83b1VRWnc?oc=5",
-      "description": "Tumore al seno, nel mondo oltre 1 milione di casi in più entro il 2050 e +44% di morti: ecco i 6 fattori di rischio&nbsp;&nbsp;Il Sole 24 ORETumore al seno, nel mondo un milione di casi in più entro il 2050: i fattori di rischio&nbsp;&nbsp;Sky TG24Tumore al seno: «È il più diffuso al mondo. Milioni di anni in salute persi a causa di sei fattori di rischio». Lo studio&nbsp;&nbsp;Corriere della SeraNel mondo le diagnosi di tumore al seno saliranno a 3,5 milioni entro il 2050&nbsp;&nbsp;la Repubbli",
-      "pub_date": "2026-03-03T08:54:10+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "tumor",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
       ]
     },
     {
@@ -679,7 +638,7 @@
       "source_feed": "google_it",
       "title": "Non mangiare animali riduce il rischio di alcuni tumori, ma non tutela da altri: il nuovo studio inglese - Corriere della Sera",
       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZXMtdm5PRW9BRzB5U1JuVzhRdUtnaEJGTElFbnJENU03bjJ3Zll2V3NpOGU2ZTh4YjlIMXM3YWNyRS1SRTZ3dzhadDBBQ0VTMjNOMnB1MGNTR1lhM3dtYmV6TEZzRnlvVEJMTTRITERiSGVyVFpvTzlTUXZvUU1mY09GVnROSUUyUHN4SHdWMWpkdHIxZG1aSDBkQUVKY0EtakdjYWhuUndJQ0xfMjlGaE9NVGVWajBFOXd3YzVLRFJramVleWZUQVZkVlQ2dUwyV2g4TUo2NjlJS0E2Z0RNUHljblV0dWQ3OFhHRHZQVjJreEw1ZHpMLVlmVDhnaUlVMHdmajJ2amRqVlVsbENnS1JoY2ZMaUt4d1FBdUN6M21YLWc0RjhHMNIBrgJBVV95cUxOT3ZadVRnTkI5clE5YmRsa3BEd0dhcU01QjkwVDZpUHByZ2UwUW5OZ0NqYkdTTUhaV1NzY3ZyQWliYnNEUG5sNGtsYmFYNGtzaUpQdXlJamRKWV9RZGdES3NGOGt4MFA0OExycTZGLWFrMWY3RGw3NkVRMnJGWHJ5emtqSG8zczVEOWthUVROaW8xR0VlY3A1YVVhMTN4d3VYdEdOSVNZZDRmVGtCUVVYOWVrZTJ4cGdFWGJQUHBLaTNQSVU2TGphbS1LMUdfR0drV0MwS3J5eGU5TUtnVEdtSUNvbHlXUE0zUVBHRW5zZDBDRC1aN25GZ2lvLVN6WDRfb2VRQnZUdlVTZ2FMZ3VNV3dRaHhmR2NVWHdLNzJWMzlGdWY4Y2lIU25wbm9fUQ?oc=5",
-      "description": "Non mangiare animali riduce il rischio di alcuni tumori, ma non tutela da altri: il nuovo studio inglese&nbsp;&nbsp;Corriere della SeraCosa influenza il rischio di cancro: carne, pesce o dieta vegetariana?&nbsp;&nbsp;sanitainformazione.itCon la dieta vegetariana diminuisce il rischio di 5 tipi di cancro: ecco quali (e perchè)&nbsp;&nbsp;LeccoTodayDieta vegetariana: meno tumori, ma c'è un'eccezione&nbsp;&nbsp;Il Fatto AlimentareMaxi studio inglese: dieta vegetariana riduce rischio di 5 tumori&nbs",
+      "description": "Non mangiare animali riduce il rischio di alcuni tumori, ma non tutela da altri: il nuovo studio inglese&nbsp;&nbsp;Corriere della SeraCosa influenza il rischio di cancro: carne, pesce o dieta vegetariana?&nbsp;&nbsp;sanitainformazione.itLa dieta vegetariana riduce davvero i tumori? Ecco la verità che cambia tutto&nbsp;&nbsp;Pazienti.itDieta vegetariana: meno tumori, ma c'è un'eccezione&nbsp;&nbsp;Il Fatto AlimentareCon la dieta vegetariana diminuisce il rischio di 5 tipi di cancro: ecco quali (",
       "pub_date": "2026-03-03T06:44:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -764,13 +723,73 @@
       ]
     },
     {
+      "id": "1b18cfb761ec",
+      "source": "Marie France, magazine féminin",
+      "source_feed": "google_fr",
+      "title": "C’est le 2ème cancer le plus meurtrier de France mais personne n’en parle : voici les symptômes qui doivent vous alerter - Marie France, magazine féminin",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUdmeko0VWN6U1VLM1VNbEZ6VjN5U1VBaFFxaXdlU21ha1lucks3ZnptcW5CY3JhVUg1WFB2Q3o0MkNrMFBkQTA2TmlRT3A2VUVISjJWNDJjSnpNUU5FM1dLZkxRMjZtZ1FCc3lnUWJmYTJEUzdjRklCejE5VVB1ckJRa21hbDdDdnBWTzhDdndnejBEZmhubmh5ZDZ6YUZSdjdaMzMxLVZ0aDZtenJUOGN0TEszWmdTRHA3S3NIOEJodw?oc=5",
+      "description": "C’est le 2ème cancer le plus meurtrier de France mais personne n’en parle : voici les symptômes qui doivent vous alerter&nbsp;&nbsp;Marie France, magazine fémininMars bleu : quels freins nuisent au dépistage du cancer colorectal ?&nbsp;&nbsp;Sud OuestCancer colorectal : le nombre de dépistage a augmenté en Mayenne, il reste encore des progrès à faire&nbsp;&nbsp;francebleu.fr« Je pensais être protégé » : Sportif, végétarien et non-fumeur, Balram a quand même développé un cancer colorectal&nbsp;&n",
+      "pub_date": "2026-03-03T06:00:25+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "b887343e1b29",
+      "source": "Corriere della Sera",
+      "source_feed": "google_it",
+      "title": "Tumore al seno: «È il più diffuso al mondo. Milioni di anni in salute persi a causa di sei fattori di rischio». Lo studio - Corriere della Sera",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPVmZVRnE0MDQ1LXBGVFdRWVNJUXdqekJIYW5MVHp4YjJZMkJqcElRMDJqNThScFN6VHdDdmd6NHdTa29XTmQ1VkRhQzFrZnJWblBiTDhWOEw1VUZvR0twZ1lta3hLZTM1Q3FFZjI4SzhqRnBjT3NwUF9ocVVvd3FSeVdfMzNIaVBQQjctRzFmNHdjakp0RXlGTXdFX3Fhazh0NEVHbm9sUWhtU0VUT1hkQmFoNUd6Ynl1TGl1a1gtZzMzVFBONWdtRHpkQy1MU1BWY1h0Nmc2NENWc295b0V3MzZPWlVfcnd5SEZRTGtrV0trSVp3M3JaSm5CNmFmNUZRZU41RWdjeGtKUHZ2c2NVbGhkTmw3bWMwVzJDYWwwWl8zbnlpTkVvWmd0YllXWm1zVHdsZFEtbUk5RmlYUU13R9IBxgJBVV95cUxONHp5ZnNYeW1WSXZsQWYxcjgzU0g2b1hFaC1LUmdnUEdxbjEtWWJHRG45UGpJc2x3UTExcTB0SFFsYk42a2s0Rk16bDA0WnJhX2NQUXVxb0lvMVJxaUpTcUIxMHlwa2pHY1l6XzZZbzAyMGhRVUdFdW9OeGVZNEZuRHl2UHQ1SjRLS2JiRjg4QllDdUU4OVNXVVpMeUpaWnVFVGYzVkdoRjk1MXFobEktMXgtX3p5WUFEMDV0Ri0zY1RNTk5jNWxwa1RuTFc4dWlWUGMySFpGV2ZWQmpXOUt1UnNza2M2VXF3T2tEUGVsSlQ3SFFKREF3M0dNZjJjdGtmOHpvckhlMnJUWGpnTnF0UjUwU2psMWp3LXFYTTFMN3JWYmtLS0tqRGhiNUJjT3BsVmNzOFRkdmpJTmJQeU9BMXotNUtPdw?oc=5",
+      "description": "Tumore al seno: «È il più diffuso al mondo. Milioni di anni in salute persi a causa di sei fattori di rischio». Lo studio&nbsp;&nbsp;Corriere della SeraTumore al seno, nel mondo un milione di casi in più entro il 2050: i fattori di rischio&nbsp;&nbsp;Sky TG24Nel mondo le diagnosi di tumore al seno saliranno a 3,5 milioni entro il 2050&nbsp;&nbsp;la RepubblicaTumore al seno, un quarto degli anni di vita persi per lo stile di vita: ecco cosa cambiare (e cosa no)&nbsp;&nbsp;Il MessaggeroTumore al s",
+      "pub_date": "2026-03-03T05:45:05+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
       "id": "e2b1061a0936",
       "source": "Financial Times",
       "source_feed": "google_uk",
       "title": "Can looking at this painting slow dementia? - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1weUZCWlM5RThJejlqS2VrV0tkMjcxNEZYOGNtTDJ3dm5fSDV5M0VXWFc0TXl6dkFrdGxoemV6TlVmelNSYzNRbEZkU2oyNk9wUWJ1SUVVNXZuNVlkeUtlVUFicVFFcTlITDdiYjhjc08?oc=5",
       "description": "Can looking at this painting slow dementia?&nbsp;&nbsp;Financial Times",
-      "pub_date": "2026-03-03T05:00:06+00:00",
+      "pub_date": "2026-03-03T05:00:34+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -857,36 +876,6 @@
         "basiliximab",
         "belatacept",
         "bosutinib-as-monohydrate"
-      ]
-    },
-    {
-      "id": "d4cb823f0874",
-      "source": "The Mirror",
-      "source_feed": "google_uk",
-      "title": "NHS says 3 bathroom red flags could be deadly cancer with ‘no symptoms for years’ - The Mirror",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45cENXdXItYUZpZ3hfQmcxcWRRNm9xcEpkOWxBeV9DNlM0V005ZW4yY3VDZHQ2U0Z5UzVZZGhpTExld2xVLWdIWTJiMUVZbU9ZZldNSGZ0S2tjQU5nbGIwcDR2dG1zX0Zib3NzVUl3RndYS2tGUkhwMtIBfkFVX3lxTE56V3lDYUVjbmFSWmVFRjVJSWxsajVtWUR2SDU4czkwUFJmR1BFM3FRemRNR2VvSlRBU19QekxpSTRpcnBjNEF6WmZwVkw5TjZUbGNEQ1hmN1ZzZ3I5X1pBRVMxQnF0WXU0R1R2cmlMNVFxYW13N2dNdHRwWXdOdw?oc=5",
-      "description": "NHS says 3 bathroom red flags could be deadly cancer with ‘no symptoms for years’&nbsp;&nbsp;The MirrorProstate cancer tour planned in East Yorkshire and Lincolnshire&nbsp;&nbsp;BBCMan, 65, urges other men to ‘trust your instincts and see your GP’&nbsp;&nbsp;Grimsby LiveMen told ‘contact GP’ over 3 cancer signs in bathroom&nbsp;&nbsp;North Wales LiveThree bathroom 'red flags' that could be sign of prostate cancer&nbsp;&nbsp;tyla.com",
-      "pub_date": "2026-03-03T03:44:08+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
       ]
     },
     {
@@ -982,13 +971,13 @@
       ]
     },
     {
-      "id": "4b862e2c3dc4",
-      "source": "GB News",
+      "id": "e2944ab6409c",
+      "source": "Real Simple",
       "source_feed": "google_uk",
-      "title": "Almost 50% of new colon cancer cases now hit younger adults – scientists warn of three potential causes - GB News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBibmNFWGV5MVh5cE9fTUI4S2kwdUtHM0JtTjZnMTZzVWhEU1BIckVNb2NtOElKd1RMbmktWlVGS19TMEk5TzNKTnlINERuUjlNT0otTjZzMmR2dzlxdG5qYzNvakRDSnFJY1JYMWxnQQ?oc=5",
-      "description": "Almost 50% of new colon cancer cases now hit younger adults – scientists warn of three potential causes&nbsp;&nbsp;GB NewsRectal cancer rates are rising in U.S., driving an increase in illness in younger adults&nbsp;&nbsp;NBC NewsHalf of Colorectal Cancer Cases Now Occur in Those Under 65, Study Shows&nbsp;&nbsp;The New York TimesA new report reveals that a third of colon cancer cases now occur in the rectum. Take these steps to protect yourself at any age.&nbsp;&nbsp;Business InsiderHow to test",
-      "pub_date": "2026-03-02T20:54:02+00:00",
+      "title": "5 Common Foods Nutrition Experts Avoid for Better Heart Health - Real Simple",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2N1bnF0YkJIZE5iY1kyeWNxWXRFRGtrVm5CVXhTdnRrS1hNYzNpM2pmQUs4QjMzclNWaGEwWEQzYWVmVHRnMmtTUTBzV2VBZEtfTURiNUN6U1loOTFxSG5lQmF0b05xTGx1clF2dzRPY1B5MDhaUDltd1pwaGtEa2JPeXU?oc=5",
+      "description": "5 Common Foods Nutrition Experts Avoid for Better Heart Health&nbsp;&nbsp;Real SimpleNutritionist names two main foods to avoid to reduce risk of cancer&nbsp;&nbsp;Daily StarThe 6 foods and drinks I would NEVER allow at home as a doctor over health fears&nbsp;&nbsp;The Irish SunCardiologist shares 6 seemingly ‘healthy’ foods that could quietly hurt your heart: Bananas, spinach and more&nbsp;&nbsp;Hindustan TimesCardiologist says three dangerous foods are 'banned' - what you need to know&nbsp;&nb",
+      "pub_date": "2026-03-03T00:00:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -1167,7 +1156,7 @@
       "source_feed": "google_uk",
       "title": "Confounding factors and biases abound when predicting molecular biomarkers from histological images - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMkFMM1ZualEtcjNCTXdEeDQ1dllzb0JXUXFka0tPSll4VzZXZEpBd1NpU3JiZExXUUtKOFlQandNOV9xa2JOSjA2N1kzY051TkphZk90Z2plSjNKMEF3?oc=5",
-      "description": "Confounding factors and biases abound when predicting molecular biomarkers from histological images&nbsp;&nbsp;NatureDigital pathology speeds diagnostics, but tends to take shortcuts to do so&nbsp;&nbsp;bioworld.comAI Cancer Tools Risk “Shortcut Learning”&nbsp;&nbsp;Technology NetworksBiases Challenge Molecular Biomarker Predictions in Histology&nbsp;&nbsp;Bioengineer.orgAI Tools for Cancer Pathology May Rely on Hidden Shortcuts That Impact on Predictive Power&nbsp;&nbsp;GEN - Genetic Engineerin",
+      "description": "Confounding factors and biases abound when predicting molecular biomarkers from histological images&nbsp;&nbsp;NatureDigital pathology speeds diagnostics, but tends to take shortcuts to do so&nbsp;&nbsp;bioworld.comAI Cancer Tools Risk “Shortcut Learning”&nbsp;&nbsp;Technology NetworksBiases Challenge Molecular Biomarker Predictions in Histology&nbsp;&nbsp;BIOENGINEER.ORGAI Tools for Cancer Pathology May Rely on Hidden Shortcuts That Impact on Predictive Power&nbsp;&nbsp;GEN - Genetic Engineerin",
       "pub_date": "2026-03-02T14:59:44+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -1258,7 +1247,7 @@
       "title": "Biomarker könnten Menschen mit hohem Risiko für Typ-2-Diabetes erkennen – News - Deutsches Ärzteblatt",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObXZlekVkZENfU1hvMVRwcEwzZS1PYmlmR3pwZTc1R3hiTlhTbGdLVVNLMGNPTmUwNVRXRk9GZmN6dXZvMFNmTzJXemdxcWtRSzR2Ml8yYllUM2N2VHk3Q1RHcE9TMGlGRnRXU2xhbi1UejZCMC1oNnBIcjVzRHVKSXBwcHQxdDlUbG16bDZrTGZhbHhteWhDZ18wN2Q0bF8xMjNpQXR4aFZUSnhVbjhTN3lhdnd1dkU3aUJyb3F0WlhzZERoOHRSMUw2WWZLS0Fibkt4Y2pqdw?oc=5",
       "description": "Biomarker könnten Menschen mit hohem Risiko für Typ-2-Diabetes erkennen – News&nbsp;&nbsp;Deutsches Ärzteblatt",
-      "pub_date": "2026-03-02T12:50:15+00:00",
+      "pub_date": "2026-03-02T12:33:54+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -1574,42 +1563,12 @@
       ]
     },
     {
-      "id": "093cab0185ba",
-      "source": "Nice-Matin",
-      "source_feed": "google_fr",
-      "title": "Cancer colorectal : 10 secondes pour un test gratuit qui guérit dans 9 cas sur 10 - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGRUckRraVFXTDVVYkZMM01LN09VTDVITkFiZFJMeXlMYnhMbHVxbThqTTJuVUx1c2gwYndqU2RaM0otYnpaUDVfTENVWHpkcnZudG00MktmSzh6dmJhRU5QeG5oNmgwZWp5TjdOTTlIM0ZGSHRWWW5kV1ZTNGN0ZG8zZzVIN095cXN4eXROREN0ekotRG1EVVFrRzNEM05LNG1KVkFuU2dscWpOdjNCNnNoNHZSbUJYSEJNWA?oc=5",
-      "description": "Cancer colorectal : 10 secondes pour un test gratuit qui guérit dans 9 cas sur 10&nbsp;&nbsp;Nice-MatinMars bleu : quels freins nuisent au dépistage du cancer colorectal ?&nbsp;&nbsp;Sud Ouest« Je pensais être protégé » : Sportif, végétarien et non-fumeur, Balram a quand même développé un cancer colorectal&nbsp;&nbsp;Nice-MatinUne journée pour lever les tabous sur le dépistage, au centre de soins infirmiers d’Ancenis-Saint-Géréon&nbsp;&nbsp;Ouest-FranceLa Ligue contre le cancer organise un événe",
-      "pub_date": "2026-03-02T08:00:09+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
       "id": "56077214ce35",
       "source": "AOL.co.uk",
       "source_feed": "google_uk",
       "title": "8 foods that can help lower your blood pressure - AOL.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1leUczVU94RFRwdG01OHpxQWRCS3V1RUxfdk1rQlhuSVhzSWR2VFVsVDNsdFROdHkyMDA0TGxYS2ZYYm4zN25nSTI1Y0ZZMlI2V1NaZlJUT1Exdk1MTElWVXhRV1FWSG1BZHZVbkltWHhPRXRESHVsWHRB?oc=5",
-      "description": "8 foods that can help lower your blood pressure&nbsp;&nbsp;AOL.co.ukThese Are Hands Down the Best Foods to Lower High Blood Pressure, Cardiologist Says&nbsp;&nbsp;Men's JournalMy patient’s high BP normalised in 8 weeks with help from a simple diet swap: Why diet is the base line&nbsp;&nbsp;The Indian Express",
+      "description": "8 foods that can help lower your blood pressure&nbsp;&nbsp;AOL.co.ukWhat Happens to Your Blood Pressure When You Drink Black Tea&nbsp;&nbsp;EatingWellThese Are Hands Down the Best Foods to Lower High Blood Pressure, Cardiologist Says&nbsp;&nbsp;Men's JournalMy patient’s high BP normalised in 8 weeks with help from a simple diet swap: Why diet is the base line&nbsp;&nbsp;The Indian Express",
       "pub_date": "2026-03-02T07:28:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -1669,7 +1628,7 @@
       "source_feed": "google_it",
       "title": "Dal 4 al 6 marzo per i ragazzi tra gli 11 e 17 anni vaccinazioni contro il Papilloma virus a libero accesso nei distretti di Rimini e Riccione - AUSL Romagna",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTE9GSVVhalB6VzYyZGFWQnBQVnlFNTJkWnhUZXVzTmNiTXVXc2hVTDJiSUdSM29YY1VrbjUyWGdoU0U2TVBkdHJTdk4zaE9nZWYwWnRmRDJlWlBEbjdOQVhkaDY3UWdGaF9DRjB6TnpMWWZvUkg0Y1dpeFBjREdFVjNhdFZMUEZra0FqdnJ1TU9wbW1FOEFmaFFoeUZCaTZ4aEdJa3lWT3ZDY1JXUXNCTW5uTkI1Sl82a2ZxVVZ5M011VDhJTzFnLVZzMGNwY0EtVHpTcTN2WFhIY3o2Vm94WUo4azR6RlVob1M3SjNXNFE0WkdGd2ZvckNLdzV0Rl9YM2RnMDFXNTdrbVB0Z2F1ZGxCY1RTay1JWmdV?oc=5",
-      "description": "Dal 4 al 6 marzo per i ragazzi tra gli 11 e 17 anni vaccinazioni contro il Papilloma virus a libero accesso nei distretti di Rimini e Riccione&nbsp;&nbsp;AUSL RomagnaGiornata mondiale contro l'Hpv: open day gratuiti per la vaccinazione&nbsp;&nbsp;BrindisiReportCentri Impiego&nbsp;&nbsp;regione.marche.itPrevenzione: la Casa di Cura San Rossore spiega i pericoli del Papilloma virus umano&nbsp;&nbsp;PisaTodayHpv. In Italia oltre 7.000 diagnosi di tumore e 3.000 decessi all’anno. Dall’Iss 5 cose da ",
+      "description": "Dal 4 al 6 marzo per i ragazzi tra gli 11 e 17 anni vaccinazioni contro il Papilloma virus a libero accesso nei distretti di Rimini e Riccione&nbsp;&nbsp;AUSL RomagnaHpv. In Italia oltre 7.000 diagnosi di tumore e 3.000 decessi all’anno. Dall’Iss 5 cose da sapere&nbsp;&nbsp;Quotidiano SanitàLa prevenzione va alla console: l’Hiroshima diventa palco contro il papilloma virus&nbsp;&nbsp;La StampaComunicazioni e avvisi&nbsp;&nbsp;regione.marche.itGiornata mondiale contro l'Hpv: open day gratuiti per",
       "pub_date": "2026-03-02T06:19:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -1691,66 +1650,6 @@
         "aflibercept",
         "agalsidase-beta",
         "alectinib-hydrochloride"
-      ]
-    },
-    {
-      "id": "82461fa99527",
-      "source": "CHIP",
-      "source_feed": "google_de",
-      "title": "Darmkrebs bei Menschen unter 50: Mediziner nennen eine zentrale Ursache - CHIP",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSW5LaEpsSDk3MFRYOFhkdXM2c1JRVmtUcE5kUU50RDlNZTl5LVA5SVpPMmRuLVE0aUtEZzBTQUZBTlpmMzdWODd3R2lyYnp4YnRTZFFmRTFSMkJRVzU0WUVXOEVZWHF1Xy1KUURKN0JONm9Ccm5EdTB4RVlCUlZ2MWVsMnVLNHpBblVoSWY0SWxHejNhTkluWXJmWThwazh0T2p5SFhkMWs0Y2J6YjdXSjA0cWVjOFE4aUU0SkYtbTdvWUExZGh6Wll3N3AyTjE4Smh5ODBEOVM1ZVR2RGprb19ZZ1hjYzl0ZWdCQQ?oc=5",
-      "description": "Darmkrebs bei Menschen unter 50: Mediziner nennen eine zentrale Ursache&nbsp;&nbsp;CHIPJunge Menschen bekommen häufiger Darmkrebs-Diagnose gestellt als früher&nbsp;&nbsp;BRF NachrichtenAnstieg von Rektumkarzinomen: Umweltfaktoren im Fokus&nbsp;&nbsp;it boltwiseTrend-Getränk erhöht Risiko: Immer mehr junge Menschen leiden an Darmkrebs&nbsp;&nbsp;Frankfurter RundschauDarmkrebs betrifft immer jüngere Menschen – ein Warnsignal des modernen Lebensstils.&nbsp;&nbsp;Vietnam.vn",
-      "pub_date": "2026-03-02T05:35:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "Krebs",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
-      "id": "e517073e91b8",
-      "source": "medonline.at",
-      "source_feed": "google_de",
-      "title": "Adipositas für jeden zehnten Todesfall durch Infektionen verantwortlich - medonline.at",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEFmeG9pbkpVTEhwM010eW1ZNlhiNUtiS3J1dVlOOFFJejhmQU5sRWI1a2tVbzU4VlpNbkRJYmxiZGZsYlp6aFdPcUhPc3hUa3REeEVhTllCeGJtQkpLalk2UGRxWnpUVEJNeF9PUnlJWWdXS0ctZmktYlExN3NWRmdlU1lGcGVDSzQxLW9zQXdmTEJPSGxGOUVNSG1ySU5tdXJMZnJWbXdGWTlIVHNuY05fMmNrd3JsSWc?oc=5",
-      "description": "Adipositas für jeden zehnten Todesfall durch Infektionen verantwortlich&nbsp;&nbsp;medonline.atHöheres Risiko für schweren Infektionsverlauf bei Adipositas&nbsp;&nbsp;TARA24",
-      "pub_date": "2026-03-02T04:48:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "obesity",
-          "keyword": "Adipositas",
-          "related_drugs": [
-            "bupropion",
-            "fenfluramine-hydrochloride",
-            "lasmiditan-succinate",
-            "melatonin",
-            "naltrexone"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "bupropion",
-        "fenfluramine-hydrochloride",
-        "lasmiditan-succinate",
-        "melatonin",
-        "naltrexone"
       ]
     },
     {
