@@ -136,7 +136,11 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 <div class="chart-container">
   <div class="donut-chart">
     <svg viewBox="0 0 200 200">
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#9E9E9E" stroke-dasharray="502.65 502.65" stroke-dashoffset="0" onclick="location.href='{{ '/evidence-low' | relative_url }}'"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#2E7D32" stroke-dasharray="25.83 476.82" stroke-dashoffset="0" onclick="location.href='{{ '/evidence-high' | relative_url }}'" title="L1: 33 drugs"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#66BB6A" stroke-dasharray="13.32 489.33" stroke-dashoffset="-25.83" onclick="location.href='{{ '/evidence-high' | relative_url }}'" title="L2: 17 drugs"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FDD835" stroke-dasharray="0.78 501.87" stroke-dashoffset="-39.15" onclick="location.href='{{ '/evidence-medium' | relative_url }}'" title="L3: 1 drug"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FB8C00" stroke-dasharray="2.35 500.30" stroke-dashoffset="-39.93" onclick="location.href='{{ '/evidence-medium' | relative_url }}'" title="L4: 3 drugs"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#9E9E9E" stroke-dasharray="460.37 42.28" stroke-dashoffset="-42.28" onclick="location.href='{{ '/evidence-low' | relative_url }}'" title="L5: 588 drugs"/>
     </svg>
     <div class="donut-center">
       <div class="number">642</div>
@@ -147,33 +151,37 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
     <a href="{{ '/evidence-high' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #2E7D32;"></span>
       <span class="legend-text">L1 Multiple Phase 3 RCTs</span>
-      <span class="legend-count">0</span>
+      <span class="legend-count">33</span>
     </a>
     <a href="{{ '/evidence-high' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #66BB6A;"></span>
       <span class="legend-text">L2 Single RCT / Phase 2</span>
-      <span class="legend-count">0</span>
+      <span class="legend-count">17</span>
     </a>
     <a href="{{ '/evidence-medium' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #FDD835;"></span>
       <span class="legend-text">L3 Observational studies</span>
-      <span class="legend-count">0</span>
+      <span class="legend-count">1</span>
     </a>
     <a href="{{ '/evidence-medium' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #FB8C00;"></span>
       <span class="legend-text">L4 Preclinical / Mechanistic</span>
-      <span class="legend-count">0</span>
+      <span class="legend-count">3</span>
     </a>
     <a href="{{ '/evidence-low' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #9E9E9E;"></span>
       <span class="legend-text">L5 AI prediction only</span>
-      <span class="legend-count">642</span>
+      <span class="legend-count">588</span>
     </a>
   </div>
 </div>
 
 <div class="evidence-bar">
-  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 100%" title="L5: 642 drugs">L5: 642 drugs (AI prediction only)</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: 5.14%; background: #2E7D32;" title="L1: 33 drugs">L1</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: 2.65%; background: #66BB6A;" title="L2: 17 drugs">L2</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: 0.5%; min-width: 20px; background: #FDD835;" title="L3: 1 drug"></a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: 0.5%; min-width: 20px; background: #FB8C00;" title="L4: 3 drugs"></a>
+  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 91.59%; background: #9E9E9E;" title="L5: 588 drugs">L5: 588</a>
 </div>
 
 {% include d3-charts.html %}
@@ -184,9 +192,9 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 
 | Category | Description | Link |
 |----------|-------------|------|
-| **High Evidence** | L1-L2, priority for clinical evaluation | [View](/evidence-high/) |
-| **Medium Evidence** | L3-L4, requires additional validation | [View](/evidence-medium/) |
-| **AI Predictions** | L5, research direction reference | [View 642 drugs](/evidence-low/) |
+| **High Evidence** | L1-L2, priority for clinical evaluation | [View 50 drugs](/evidence-high/) |
+| **Medium Evidence** | L3-L4, requires additional validation | [View 4 drugs](/evidence-medium/) |
+| **AI Predictions** | L5, research direction reference | [View 588 drugs](/evidence-low/) |
 | **Full Drug List** | All 642 drugs (searchable) | [Drug List](/drugs/) |
 | **Health News** | Automated EU health news monitoring | [View News](/news/) |
 | **Data Downloads** | CSV / JSON formats | [Downloads](/downloads/) |
@@ -258,5 +266,5 @@ EuTxGNN uses the **TxGNN** deep learning model published by Harvard's Zitnik Lab
 <strong>Disclaimer</strong><br>
 This report is for <strong>research purposes only</strong> and does not constitute medical advice. Drug use should follow physician guidance. Any drug repurposing decisions require complete clinical validation and regulatory review.
 <br><br>
-<small>Last updated: 2026-03-03 | Maintainer: EuTxGNN Research Team</small>
+<small>Last updated: 2026-03-05 | Maintainer: EuTxGNN Research Team</small>
 </div>
