@@ -1,13 +1,33 @@
 #!/usr/bin/env python3
 """
 Extract drug list from docs/_drugs/*.md files.
-Creates a JSON file with drug names, evidence levels, and indication counts.
+Creates a JSON file with drug names, evidence levels, indication counts,
+and approved indications for filtering in evidence monitoring.
 """
 
+import csv
 import json
 import re
 from datetime import datetime
 from pathlib import Path
+
+
+def load_approved_indications(csv_path: Path) -> dict:
+    """Load approved indications from drug mapping file.
+
+    Returns:
+        dict mapping ingredient (uppercase) to approved indication text
+    """
+    approved = {}
+    if csv_path.exists():
+        with open(csv_path, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                ingredient = row.get("ingredient", "").upper()
+                indication = row.get("indication", "")
+                if ingredient and indication:
+                    approved[ingredient] = indication
+    return approved
 
 
 def parse_front_matter(content: str) -> dict:
@@ -41,8 +61,14 @@ def extract_predicted_indication(content: str) -> str:
 
 
 def main():
-    drugs_dir = Path(__file__).parent.parent / "docs" / "_drugs"
+    base_dir = Path(__file__).parent.parent
+    drugs_dir = base_dir / "docs" / "_drugs"
+    mapping_file = base_dir / "data" / "processed" / "drug_mapping.csv"
     output_file = Path(__file__).parent / "drug_list.json"
+
+    # Load approved indications for filtering
+    approved_indications = load_approved_indications(mapping_file)
+    print(f"Loaded approved indications for {len(approved_indications)} drugs")
 
     drugs = []
 
@@ -57,12 +83,16 @@ def main():
         # Extract predicted indication for search queries
         predicted_indication = extract_predicted_indication(content)
 
+        # Get approved indication for filtering
+        approved_indication = approved_indications.get(drug_name.upper(), "")
+
         drugs.append({
             "name": drug_name,
             "file": md_file.name,
             "evidence_level": evidence_level,
             "indication_count": int(indication_count) if indication_count.isdigit() else 0,
-            "predicted_indication": predicted_indication
+            "predicted_indication": predicted_indication,
+            "approved_indication": approved_indication
         })
 
     # Save to JSON
@@ -77,13 +107,17 @@ def main():
 
     # Print summary
     level_counts = {}
+    approved_count = 0
     for drug in drugs:
         level = drug["evidence_level"] or "Unknown"
         level_counts[level] = level_counts.get(level, 0) + 1
+        if drug["approved_indication"]:
+            approved_count += 1
 
     print("\nEvidence level distribution:")
     for level in sorted(level_counts.keys()):
         print(f"  {level}: {level_counts[level]}")
+    print(f"\nDrugs with approved indications: {approved_count}")
 
 
 if __name__ == "__main__":

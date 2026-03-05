@@ -2,10 +2,13 @@
 """
 Check PubMed for new publications related to our drug list.
 Creates GitHub Issues when new papers are found.
+
+NOTE: Filters out known/approved indications to focus on repurposing evidence.
 """
 
 import json
 import os
+import re
 import time
 from datetime import datetime
 from pathlib import Path
@@ -13,6 +16,88 @@ from pathlib import Path
 import requests
 
 from github_utils import create_issue, close_older_pubmed_issues
+
+
+def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
+    """Check if predicted indication overlaps with approved indication.
+
+    Uses keyword matching to detect if the predicted indication is likely
+    already approved for the drug.
+    """
+    if not approved_indication or not predicted_indication:
+        return False
+
+    approved_lower = approved_indication.lower()
+    predicted_lower = predicted_indication.lower()
+
+    # Extract meaningful keywords from predicted indication
+    cleaned = re.sub(r'\s*\(disease\)\s*', ' ', predicted_lower)
+    cleaned = re.sub(r'\s*\(disorder\)\s*', ' ', cleaned)
+    cleaned = re.sub(r'[^\w\s]', ' ', cleaned)
+
+    words = cleaned.split()
+
+    # Generic medical terms that are too broad for matching
+    generic_terms = {
+        'disease', 'disorder', 'syndrome', 'type', 'of', 'the', 'and', 'or',
+        'with', 'due', 'to', 'in', 'by', 'for', 'as', 'is', 'a', 'an',
+        'primary', 'secondary', 'chronic', 'acute', 'severe', 'mild',
+        'familial', 'hereditary', 'congenital', 'acquired', 'idiopathic',
+        'cancer', 'tumor', 'carcinoma', 'neoplasm', 'infection', 'infectious',
+        'deficiency', 'failure', 'insufficiency', 'inflammation',
+        'cell', 'cells', 'blood', 'bone', 'muscle', 'nerve', 'skin',
+    }
+
+    # Keep important acronyms even if short
+    important_acronyms = {
+        'hiv', 'aids', 'copd', 'adhd', 'als', 'ms', 'ibd', 'ibs',
+        'hcv', 'hbv', 'tb', 'ra', 'sle', 'ckd', 'chf', 'cad',
+    }
+
+    # Expanded forms for acronyms
+    expanded_terms = {
+        'hiv': 'immunodeficiency virus',
+        'aids': 'acquired immunodeficiency',
+        'copd': 'chronic obstructive pulmonary',
+        'adhd': 'attention deficit',
+        'als': 'amyotrophic lateral sclerosis',
+    }
+
+    keywords = []
+    for w in words:
+        w_lower = w.lower()
+        if w_lower in important_acronyms:
+            keywords.append(w_lower)
+        elif w_lower not in generic_terms and len(w) > 4:
+            keywords.append(w_lower)
+
+    if not keywords:
+        return False
+
+    # Check if specific keywords appear in approved indication
+    matches = 0
+    for kw in keywords:
+        pattern = r'\b' + re.escape(kw) + r'\b'
+        if re.search(pattern, approved_lower):
+            matches += 1
+        elif kw in expanded_terms:
+            if expanded_terms[kw] in approved_lower:
+                matches += 1
+
+    # Need majority of specific keywords to match
+    if len(keywords) >= 2 and matches >= len(keywords) * 0.6:
+        return True
+
+    # Single very specific keyword match
+    for kw in keywords:
+        if len(kw) > 8:
+            pattern = r'\b' + re.escape(kw) + r'\b'
+            if re.search(pattern, approved_lower):
+                return True
+        elif kw in expanded_terms and expanded_terms[kw] in approved_lower:
+            return True
+
+    return False
 
 # Configuration
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
@@ -188,6 +273,7 @@ Found **{len(new_papers)}** new publications:
 def main():
     print("=" * 60)
     print("PubMed Evidence Checker")
+    print("(Filtering out known/approved indications)")
     print(f"Started at: {datetime.now().isoformat()}")
     print(f"NCBI API Key: {'Configured' if NCBI_API_KEY else 'Not configured (slower rate limit)'}")
     print("=" * 60)
@@ -202,10 +288,18 @@ def main():
     # Check each drug
     new_findings = []
     seen_pmids = cache.get("seen_pmids", {})
+    skipped_known = 0
 
     for i, drug in enumerate(drugs):
         drug_name = drug["name"]
         indication = drug.get("predicted_indication", "")
+        approved_indication = drug.get("approved_indication", "")
+
+        # Skip if predicted indication is a known/approved indication
+        if indication and approved_indication:
+            if is_known_indication(approved_indication, indication):
+                skipped_known += 1
+                continue
 
         print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
 
@@ -250,10 +344,13 @@ def main():
 
     # Create issues for new findings
     print("\n" + "=" * 60)
-    print("Creating Issues for New Findings")
+    print("Summary")
     print("=" * 60)
+    print(f"Skipped (known indications): {skipped_known}")
 
     if new_findings:
+        print(f"New findings: {len(new_findings)}")
+        print("\nCreating Issues...")
         for finding in new_findings:
             create_github_issue(finding["drug"], finding["papers"])
     else:
