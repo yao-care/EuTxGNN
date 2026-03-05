@@ -1,8 +1,8 @@
 {
   "description": "EU health news with drug-disease relations from EuTxGNN",
-  "fetched_at": "2026-03-04T19:00:03.391630+00:00",
-  "total_items": 307,
-  "relevant_items": 44,
+  "fetched_at": "2026-03-05T02:38:50.229261+00:00",
+  "total_items": 316,
+  "relevant_items": 47,
   "sources": [
     "google_uk",
     "google_de",
@@ -16,12 +16,148 @@
   ],
   "items": [
     {
+      "id": "ff5957557546",
+      "source": "The Guardian",
+      "source_feed": "google_uk",
+      "title": "Weight loss drugs may stop people getting addicted to drugs and alcohol, study finds - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3I1SVQ2TGhWbDROMDQxWkREZzhZMjZ2cFRxVHltR3FMekxaTE51cVh6Z0FLTUhsNTRQazgyUE8tdE9YVk83QUFfTERXYUppT2JFTHpfbVJZcTJETUdiX0pGNmlDUlFuS0FSal93aGJqX1U4dU1nY2tmaEVxWk5wNW1tTmxrNkR0bVM2N3h1OHVQYVk?oc=5",
+      "description": "Weight loss drugs may stop people getting addicted to drugs and alcohol, study finds&nbsp;&nbsp;The GuardianObesity jab users show lower risk of alcohol and drug addictions&nbsp;&nbsp;Financial TimesGLP-1s could help curb substance use disorders, from alcohol to opioids, study suggest&nbsp;&nbsp;NBC NewsObesity drugs may silence the ‘drug noise’ behind all addiction&nbsp;&nbsp;statnews.comGLP-1 Drugs Tied to Fewer Addictions, Overdoses in Large Study&nbsp;&nbsp;Bloomberg.com",
+      "pub_date": "2026-03-04T23:30:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "obesity",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "ca5b39ba96c1",
+      "source": "journalMED",
+      "source_feed": "google_de",
+      "title": "Neue diagnostische Marker für MS in Liquor entdeckt - journalMED",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1hyNHBMMFlLZ1E4M1JFUnFXdlRhenhCejJEWkJXRUxsTTZUN1BYcHB6YkZrTll1TDFjWTZBNUJPeF9mZVpmd2kwZ2cybnlRVUpQU05WWU9TUzBDTHBGTU90dUZGNXRQUTVlRnRCSDJodzFsakhkUXBpQ3hmWXdsV3hWWXZuejc1cFQ2WExsdFVjUlpWaVNlWFFPZ2gzRDRPTkxPVmhLR0xnQQ?oc=5",
+      "description": "Neue diagnostische Marker für MS in Liquor entdeckt&nbsp;&nbsp;journalMEDNeue Biomarker für Multiple Sklerose mit Massenspektrometrie identifiziert: 5000 Liquorproben proteomisch analysiert&nbsp;&nbsp;LABO.deNeue diagnostische Marker für Multiple Sklerose&nbsp;&nbsp;Biermann MedizinNeue diagnostische Marker für Multiple Sklerose in Gehirn- und Rückenmarksflüssigkeiten entdeckt&nbsp;&nbsp;idw - Informationsdienst Wissenschaft",
+      "pub_date": "2026-03-04T23:05:30+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "multiple sclerosis",
+          "keyword": "Multiple Sklerose",
+          "related_drugs": [
+            "alemtuzumab",
+            "asenapine-maleate",
+            "belatacept",
+            "cariprazine-hydrochloride",
+            "cladribine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "alemtuzumab",
+        "asenapine-maleate",
+        "belatacept",
+        "cariprazine-hydrochloride",
+        "cladribine"
+      ]
+    },
+    {
+      "id": "9cacf9d49b05",
+      "source": "The Guardian",
+      "source_feed": "google_uk",
+      "title": "Scientists laud life-changing drug for children with resistant form of epilepsy - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQandPdHVKTkw0RzlGczAtaHF6dmVubW1lNkt4R29IYnBFN1JMQmVPTGFWeG9SaE9oRVQzZm53ZFEzdlJYMTZIQklnUDZLZVA0clpxeUlKUXZSc0RaM3VtRzF4LUp4Z1lQVEJ3ajNMTlh5U0lWV0tPX3VhUXhaZU15cjhiaUluS3o3Nm1kR29qaFFGbGZfaWN5ZFZ4VUhjZEhITm40?oc=5",
+      "description": "Scientists laud life-changing drug for children with resistant form of epilepsy&nbsp;&nbsp;The GuardianBreakthrough treatment could help children with rare condition ‘lead happier lives’&nbsp;&nbsp;The IndependentThe New England Journal of Medicine Publishes First Data to Demonstrate the Potential for Disease Modification in Dravet Syndrome&nbsp;&nbsp;BiogenAntisense Oligo Zorevunersen Cuts Seizures, Signals Broader Dravet Relief in Phase I/II Trials&nbsp;&nbsp;Precision Medicine OnlineFirst gen",
+      "pub_date": "2026-03-04T22:02:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "epilepsy",
+          "keyword": "epilepsy",
+          "related_drugs": [
+            "brivaracetam",
+            "cenobamate",
+            "cerliponase-alfa",
+            "dostarlimab",
+            "eslicarbazepine-acetate"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "brivaracetam",
+        "cenobamate",
+        "cerliponase-alfa",
+        "dostarlimab",
+        "eslicarbazepine-acetate"
+      ]
+    },
+    {
+      "id": "a0969651f5a8",
+      "source": "Todo Alicante",
+      "source_feed": "google_es",
+      "title": "Obesidad, la raíz de las enfermedades crónicas que afecta a uno de cada cinco menores de Alicante - Todo Alicante",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMElEWlFWbVMwVU5ydWtnejdrVGNnaUpNS2NLaDNXTnZ1VHFITzczTnJvbTVBMzFRbUx0WVhYMkZNV0c5VlpaclZielNmZDJ4VmlVb2JQRlF2TUNFWFRiZmVKcU16a1k4Ql9FU0ZXYjZyTXMyc2JXMGVOQ0E5cENLLWVXM3ZuQXFOU3ZadTVmWFBBMHF6VDVOMG1mTWFxMV9Cb2Y1cEppLTBQNzZwcHJmeW5JbFNHZ9IBuwFBVV95cUxOYlZVY3FqTi1uaG9RdGV5TjBFZXlHZG5NY2ZBWDZRWTJ6YkE5SFFLcHRCbmttTGJwOElGcEpqWm1nODhld0ZCM1BPUy1zcTNNVzYwd1otM1B3VExaLU1pWW1yLVJFcDdXLWZtcUZlMHN5VWotZkxYTzdHbzROMFJneEl1eExmaWo3cUlRMUZsT01LMWVpY0M1WWJPOXRtRjNZcVRPN2g0LTJISEI5eDF3eElKT2JwbmdBYm9V?oc=5",
+      "description": "Obesidad, la raíz de las enfermedades crónicas que afecta a uno de cada cinco menores de Alicante&nbsp;&nbsp;Todo AlicanteGontrand López-Nava, médico especialista en obesidad: \"No basta con inyecciones para adelgazar, se trata de cambiar la nutrición y contar con apoyo psicológico\"&nbsp;&nbsp;El MundoHipertensión, hígado graso... más de 2,1 millones de niños y adolescentes españoles tienen obesidad o sobrepeso&nbsp;&nbsp;El PeriódicoEl reto de la obesidad infantil: un problema estructural frente",
+      "pub_date": "2026-03-04T18:44:04+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "hypertension",
+          "keyword": "hipertensión",
+          "related_drugs": [
+            "abiraterone-acetate",
+            "aliskiren",
+            "alpelisib",
+            "ambrisentan",
+            "amlodipine"
+          ]
+        },
+        {
+          "name": "obesity",
+          "keyword": "obesidad",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abiraterone-acetate",
+        "aliskiren",
+        "alpelisib",
+        "ambrisentan",
+        "amlodipine",
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
       "id": "1c2816e69ee0",
       "source": "Corriere della Sera",
       "source_feed": "google_it",
       "title": "Tumori in Italia: meno nuovi casi del previsto. Ecco i motivi per cui bisogna preoccuparsi per le donne, il Sud e le Isole - Corriere della Sera",
       "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPZG9Ma29ieUxnY3VLdmhRNXFaNkJRQjUzYm5yNzJSSnVwNW1sNzVXYVpaM2dubXFlTHlFT045bnBVbElCZ2x4MUhLNDRzYXZuaDREbThNNExkMF9TYWlBS0p1WTBRY2dqQXRmNGFqem9vV2tULXZVcjJmV0QyVGxyUTlNTHQwZmplU1hHMFJISlY5cUhGTHVNWnNLX0ZKTkx5TFQ1WHQxX1J1dkFQQWVENnhSc01Bc1lTbnFTNEU5VVVRbnhyZE1BUjQ5d015YzhCelJEQlJUbzFqaEE3ODRMWTBFZEdSb21jNXFBNGVkWDRlUWlhMVBKdmROd3RKelJ1cWwwR1YzOUxUY2RzMXFCNUNJLXdnVHplbUNEY3NUQTBtYnlJZGdJeDFKT3dHNGdISlQxTjBkR0FEN045N29ScmwtWTc?oc=5",
-      "description": "Tumori in Italia: meno nuovi casi del previsto. Ecco i motivi per cui bisogna preoccuparsi per le donne, il Sud e le Isole&nbsp;&nbsp;Corriere della SeraTumori, nel 2025 oltre 300mila nuovi casi: i cancri più diffusi, melanoma in aumento. Le donne sopravvivono di più&nbsp;&nbsp;Il MessaggeroSchillaci, non abbassare la guardia sulla prevenzione dei tumori&nbsp;&nbsp;ANSATumori in Italia: 362mila nuovi casi nel 2025. Sopravvivenza in crescita, ma persistono divari territoriali&nbsp;&nbsp;sanitainf",
+      "description": "Tumori in Italia: meno nuovi casi del previsto. Ecco i motivi per cui bisogna preoccuparsi per le donne, il Sud e le Isole&nbsp;&nbsp;Corriere della SeraTumori, nel 2025 oltre 300mila nuovi casi: i cancri più diffusi, melanoma in aumento. Le donne sopravvivono di più&nbsp;&nbsp;Il MessaggeroSchillaci, non abbassare la guardia sulla prevenzione dei tumori&nbsp;&nbsp;ANSATumori, la mappa incompleta dell'Italia, 'i registri coprono l'80% della popolazione'&nbsp;&nbsp;www.altoadige.itTumori in Itali",
       "pub_date": "2026-03-04T17:08:04+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -76,59 +212,13 @@
       ]
     },
     {
-      "id": "a67f90c5c72d",
-      "source": "IM Médico",
-      "source_feed": "google_es",
-      "title": "El Atlas de la Obesidad Mundial 2026 proyecta un escenario preocupante para 2040 - IM Médico",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcl9pai1NeXVyM1BYVzhKV2lKR0tiREZtVlBKV1djc1c4QldXWGVUUHlCNGdRZkdmbC1saFNoV2Q4eU54X1ByWXRYUTlualI1X3podVE2NzBZT09uV3B3MDFaYnZmWWN1d2pKRGJWWW91dTYxWmYwWXdjLXJQUXVNTlNsWERDdTg3VXFsd2JSU0NyX1hMM1RNbmpPdWRFZEZYZkJaWEctTlowblpJenlBYXZQVHZmc29jRWYyeXpR0gG4AUFVX3lxTE1mdFFxYVFuaWh6dGxCb1paSnNoVkJQbExCSkdkZ25uNEFvbFFwbnkwUnZYd1RJanJ1NEZIOHk2b0Ztb2I4eldUQkppZ3JPN1JJcXl2SzNESEwzQ3VJTjZsUUFJcFd5S0pYQUlxZWZPemZPbm9ySnJVQVZpNUlrd2NzRVJqUERxUVFwNHpQck8zYjVkWXBhT3IzelNtdXZhYWtTWU9pTDE0WTd4b201eXNzSXJLUU5FT3E?oc=5",
-      "description": "El Atlas de la Obesidad Mundial 2026 proyecta un escenario preocupante para 2040&nbsp;&nbsp;IM MédicoGontrand López-Nava, médico especialista en obesidad: \"No basta con inyecciones para adelgazar, se trata de cambiar la nutrición y contar con apoyo psicológico\"&nbsp;&nbsp;El MundoLa obesidad infantil se dispara en España: afecta a 2,1M de menores con enfermedades que antes sólo sufrían los adultos&nbsp;&nbsp;El EspañolHipertensión, hígado graso... más de 2,1 millones de niños y adolescentes espa",
-      "pub_date": "2026-03-04T16:30:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "hypertension",
-          "keyword": "hipertensión",
-          "related_drugs": [
-            "abiraterone-acetate",
-            "aliskiren",
-            "alpelisib",
-            "ambrisentan",
-            "amlodipine"
-          ]
-        },
-        {
-          "name": "obesity",
-          "keyword": "obesidad",
-          "related_drugs": [
-            "bupropion",
-            "fenfluramine-hydrochloride",
-            "lasmiditan-succinate",
-            "melatonin",
-            "naltrexone"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "abiraterone-acetate",
-        "aliskiren",
-        "alpelisib",
-        "ambrisentan",
-        "amlodipine",
-        "bupropion",
-        "fenfluramine-hydrochloride",
-        "lasmiditan-succinate",
-        "melatonin",
-        "naltrexone"
-      ]
-    },
-    {
-      "id": "4bc7f9417a5d",
-      "source": "Orange",
+      "id": "5474d277905d",
+      "source": "France Info",
       "source_feed": "google_fr",
-      "title": "Journée mondiale de lutte contre l'obésité : 10 millions de personnes concernées en France - Orange",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX00zVU1uQlg4M0FNY2lNbDJvdzFKWWdFcDNmUFpzLUdtTFNZeWh4TzkyajhzN2VrMllCejZSZ3laSjRhVmFwdXNXZDZkVmd1RzJJeWRqeG56WHY2ZmU3ZV9lY21Rdi1ZS2lnSTBsTFZIdDdTWWo2QUlGQWVDVmg0Y2Y5OFhuTl9MMy1ZNjd6T1p1N3JiZHNsTkNON3YzMTNYSVAxRENqSEVjVnVxLWlnNGZBY0NrSU9jN0dLNlVYamlXSmhRdkVnb0oyRjdXbHFBZk0xS0pWWUNENXR6WnNHQUR2RDVMQQ?oc=5",
-      "description": "Journée mondiale de lutte contre l'obésité : 10 millions de personnes concernées en France&nbsp;&nbsp;OrangeObésité en France : « On commence à parler d'épidémie » alerte un spécialiste&nbsp;&nbsp;Yahoo Life FranceObésité : causes, traitements, accompagnement… Deux médecins ont répondu à vos questions&nbsp;&nbsp;Ouest-FranceJ’étais complètement difforme » : à Brest, sa vie a changé grâce au centre spécialisé de l’obésité de la Cavale-Blanche&nbsp;&nbsp;Le TélégrammeC'est la journée mondiale de l",
-      "pub_date": "2026-03-04T14:19:00+00:00",
+      "title": "Journée mondiale de lutte contre l'obésité : un parcours d'accompagnement médical, diététique et psychologique désormais remboursé pour certains adultes - France Info",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPamd1Y203SHZXa0FpaUZScEZDaWVsSEZXMHFsNE8teHZwNzNKdkgzeXBWcmdjUm82bGVaam1Bc0Q5c1VKU1l0cUl5bjFOQmxKNEpVVnlZcFUydEFKUU1zQkJvUjV4eXJqQlp6LVNWSWV6NVNHcGRuMUtqel94OS1nd2ZfaTVyU2NuSl9Pb2NRZEp6Qkh5OUl0MGNudkM2bGNybDJDdVJKS2R5LWMzTDVobUZudS0zbHV1ek0zRGxPYlMxOF90cUs4bTAyU2JmQWlrU2pteTVheWhfWDFVNUJWWTNKSWRlSmk0c1lOaS1EYU01NlFubUpJN0E5STZXOWhSeDlGZExOcDNRbzdCNXRybkk1VlNaQUxpdWJ4c0ZGZw?oc=5",
+      "description": "Journée mondiale de lutte contre l'obésité : un parcours d'accompagnement médical, diététique et psychologique désormais remboursé pour certains adultes&nbsp;&nbsp;France Info\"On commence à parler d'épidémie en France\": l'alerte du président de la Ligue contre l'obésité&nbsp;&nbsp;BFM« Des pertes de contrôle avec la nourriture », confie l'héroïne de « La vie en gros »&nbsp;&nbsp;20 MinutesJ’étais complètement difforme » : à Brest, sa vie a changé grâce au centre spécialisé de l’obésité de la Cav",
+      "pub_date": "2026-03-04T16:14:21+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -152,33 +242,33 @@
       ]
     },
     {
-      "id": "79d938f02276",
-      "source": "EFE Comunica",
-      "source_feed": "google_es",
-      "title": "Ita Salud Mental propone mirar más allá de la báscula frente a la obesidad - EFE Comunica",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ21rRUQ5VjF1dEstaFI1bHd3d2JaRXVmNlB3ZlVhMS1HaFJyVXpRSDhONXN2bE9WcU9DTDRQbWZUZjNnZVlSbjY3OGpMVGtJWWJ6WVY1akZHNjlLRHY1WkhhbUtIT25MdWlDVTc4R0xWaEdWSzQycHJwYnp1TXRrdVhJOVdidnZqczJFVHM0Q1ZkMklBOS15RHdqYXNERldxbVNj?oc=5",
-      "description": "Ita Salud Mental propone mirar más allá de la báscula frente a la obesidad&nbsp;&nbsp;EFE ComunicaEl 18% de los niños y niñas de la Comunitat Valenciana sufre obesidad&nbsp;&nbsp;Cadena SEREL AYUNTAMIENTO ABORDA LA NECESIDAD DE PROMOVER EL BIENESTAR FISICO Y MENTAL PARA QUE LAS PERSONAS CON OBESIDAD LLEVEN UNA VIDA MÁS SALUDABLE&nbsp;&nbsp;Bilbao.eusLa obesidad, una enfermedad crónica que precisa un abordaje integral y libre de falsos mitos&nbsp;&nbsp;La VanguardiaDía Mundial de la Obesidad: ya ",
-      "pub_date": "2026-03-04T13:26:25+00:00",
+      "id": "47a838cc051a",
+      "source": "Philipps-Universität Marburg",
+      "source_feed": "google_de",
+      "title": "Krebsmedizin: Neue Schwachstelle bei therapieresistentem Brustkrebs entdeckt - 2026 - Aktuelles - Philipps-Universität Marburg",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TQm41TVEtZWxnYVF1ZEhyZGJIbnU0OU1SM2R5eU1VZ3hBMXQ1U3dFUi1KNXR4Zjlua2tTa3kxNTZXZ2RuXzJBXzdrVTY4STJkY0FGc21oRnlKcHUzYkJwRkhYZVJKSERGZlE?oc=5",
+      "description": "Krebsmedizin: Neue Schwachstelle bei therapieresistentem Brustkrebs entdeckt - 2026 - Aktuelles&nbsp;&nbsp;Philipps-Universität Marburg",
+      "pub_date": "2026-03-04T14:28:38+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
-          "name": "obesity",
-          "keyword": "obesidad",
+          "name": "cancer",
+          "keyword": "Krebs",
           "related_drugs": [
-            "bupropion",
-            "fenfluramine-hydrochloride",
-            "lasmiditan-succinate",
-            "melatonin",
-            "naltrexone"
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
           ]
         }
       ],
       "related_drugs": [
-        "bupropion",
-        "fenfluramine-hydrochloride",
-        "lasmiditan-succinate",
-        "melatonin",
-        "naltrexone"
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
       ]
     },
     {
@@ -187,7 +277,7 @@
       "source_feed": "google_es",
       "title": "Incentivar hábitos saludables como solución a la obesidad, un problema que ya afecta al 18 % de los aragoneses - Aragón Noticias (CARTV)",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOXzdkQ3l4WnZjY0RhZC1QZWhrUnhaZ3h6c1JWaTZsSU9ZQm96cmNaaUljb3ZUNEFMT2gyNlNHODF5Tzd1SlRPbW5ZN1N0WjBlekR2WGZ3UlVTdlVNZWw1RmxrUkdDMWlsZkhEdFB2bHlhUGpScVBYT3kwR0ppZzVIdGRwTDZMVzNwSy1xREE3UDV6TzNVVFhsWXJPMmliTjhBRTJhMEpRM1llLWtBQ2FST25lZDQyX2RoY0ZTdUdaZEl0ZDBRenluX3B4N0lFOXlGYld3dDgycElzcmh1SHotQldpQQ?oc=5",
-      "description": "Incentivar hábitos saludables como solución a la obesidad, un problema que ya afecta al 18 % de los aragoneses&nbsp;&nbsp;Aragón Noticias (CARTV)El peso de lo invisible, Aragón planta cara a la obesidad&nbsp;&nbsp;Cadena SEREl 30% de la población de Aragón es obesa&nbsp;&nbsp;Onda CeroCirugía metabólica: perdió más de 80 kilos y cinco años después de la operación mantiene el peso estable&nbsp;&nbsp;El EconomistaCasi el 20% de la población adulta española vive con obesidad&nbsp;&nbsp;Castilla-La ",
+      "description": "Incentivar hábitos saludables como solución a la obesidad, un problema que ya afecta al 18 % de los aragoneses&nbsp;&nbsp;Aragón Noticias (CARTV)El peso de lo invisible, Aragón planta cara a la obesidad&nbsp;&nbsp;Cadena SEREl 30% de la población de Aragón es obesa&nbsp;&nbsp;Onda CeroCirugía metabólica: perdió más de 80 kilos y cinco años después de la operación mantiene el peso estable&nbsp;&nbsp;El EconomistaQuirónsalud Zaragoza advierte de que la obesidad severa aumenta entre los jóvenes&nbs",
       "pub_date": "2026-03-04T13:00:01+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -217,7 +307,7 @@
       "source_feed": "google_it",
       "title": "San Raffaele Milano e Smart Clinic Roma per prevenzione del tumore colon-retto - Il Tirreno",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdnl5ZEloMUtIaWg4VWRhWk90bG1XcFBlcnJPeHVFTEJQaTlUZU1hc0pQNHpSbERBQV95MDcwS0lWanhxYUxKUDJiUUs5WEpsR0dwX2kzNHZ0TUw2dl9Nc0ZaZ0huWU8xb0RTZkRodkN1M0QxOEU4bDJaVUN6NFhwclNwdmItMHNwOUZtX1dnRG4wWVBCanl3aEZHUFZnVHM5b0lCTm5Hcjh2Y0JocFhnRnBnUlNPNVJxdzhmWmg4ODZKUmpVcFplczBLWTY0UHNHU2NnWFNVby1TZ21iSW5MRFZNVVc?oc=5",
-      "description": "San Raffaele Milano e Smart Clinic Roma per prevenzione del tumore colon-retto&nbsp;&nbsp;Il TirrenoCampus Bio-Medico, screening gratuiti per il tumore del colon-retto: parte “Marzo Blu”&nbsp;&nbsp;la RepubblicaRoma. Policlinico Campus Bio-Medico: al via marzo blu per la prevenzione del tumore del colon-retto&nbsp;&nbsp;Quotidiano SanitàPrevenzione colon retto a Ostia, Roma e Pomezia: Open Day gratuito e colonscopia virtuale da Marilab&nbsp;&nbsp;IlFaroOnlineTumore del colon retto, al Campus Bio",
+      "description": "San Raffaele Milano e Smart Clinic Roma per prevenzione del tumore colon-retto&nbsp;&nbsp;Il TirrenoVisualizza la copertura completa su Google News",
       "pub_date": "2026-03-04T12:52:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -247,8 +337,38 @@
       "source_feed": "google_es",
       "title": "Sanidad recuerda la importancia de los hábitos saludables y el abordaje coordinado de la obesidad - Gobierno de Canarias",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTkhuZDFuLW1yRTk2TUxIT2xsMUV0YkR3RS1zVmUzOGhyMlB3a3R6WGg5NEJPWGU2cWZfODhxOEFCbUUzS1dpNnU2Q1R1cFFRcVpoZ1d5YU9iUExydzJTUllLN1JCS2c3ajNGRU43R2RXQUdrcHFLY1EzTU9lZUpuVmx0ekFHOXMyTTByVWNsRGFsNXRCQ0ktYW93NWowSkZDbFdySmdsQWV5MkpERmlyYy01N3pQUnBlejlvN1VmRUZ5MGF3eUxPWVFaTkQyNXB0NU9yS3J5NkwtaUk?oc=5",
-      "description": "Sanidad recuerda la importancia de los hábitos saludables y el abordaje coordinado de la obesidad&nbsp;&nbsp;Gobierno de Canarias",
+      "description": "Sanidad recuerda la importancia de los hábitos saludables y el abordaje coordinado de la obesidad&nbsp;&nbsp;Gobierno de CanariasVer cobertura completa en Google News",
       "pub_date": "2026-03-04T12:31:38+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "obesidad",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "2d7cdbe2ac2b",
+      "source": "Comunicae",
+      "source_feed": "google_es",
+      "title": "Ita Salud Mental propone mirar más allá de la báscula frente a la obesidad - Comunicae",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFpvZ3FLbllNbnJQU0MtdU1WaFQ2VVNNT2lzSVRNWWZWLTM3RFB5Z1pta2w1ZFp6QmhLdE5DQlRmOWNUWE5sVlZPNDI2c0RVQmIyOHVtNF9yd3pvN09UdEhXMEhPekhPQVo0S0xxTDgwRnhoTVJYQWgtNGoyMDI4MWNOTE83MTRTLUM1WmljUQ?oc=5",
+      "description": "Ita Salud Mental propone mirar más allá de la báscula frente a la obesidad&nbsp;&nbsp;ComunicaeEl 18% de los niños y niñas de la Comunitat Valenciana sufre obesidad&nbsp;&nbsp;Cadena SEREL AYUNTAMIENTO ABORDA LA NECESIDAD DE PROMOVER EL BIENESTAR FISICO Y MENTAL PARA QUE LAS PERSONAS CON OBESIDAD LLEVEN UNA VIDA MÁS SALUDABLE&nbsp;&nbsp;Bilbao.eusLa obesidad, una enfermedad crónica que precisa un abordaje integral y libre de falsos mitos&nbsp;&nbsp;La VanguardiaDía Mundial de la Obesidad: ya hay",
+      "pub_date": "2026-03-04T12:19:20+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -318,63 +438,33 @@
       ]
     },
     {
-      "id": "5ec540eccf00",
-      "source": "Nature",
+      "id": "c8a37ec8a623",
+      "source": "Daily Express",
       "source_feed": "google_uk",
-      "title": "Cancer blood tests are everywhere. Do they really work? - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MUnRVUWllQlZueVh3STJJVDEyTW1pRG5ya2Rjb0VLU1otQnZ4OGtOMS0ycnFIYktjd2JSWjIwN3E0NF9EQUtOSzRBV2Zhc2tCU3V6dWUwS1BXYXg5SDB3?oc=5",
-      "description": "Cancer blood tests are everywhere. Do they really work?&nbsp;&nbsp;NatureAre Multi-Cancer Blood Tests Ready for Prime Time?&nbsp;&nbsp;WSJFintan Steele: What is happening is no laughing matter&nbsp;&nbsp;Boulder Daily CameraNHS-Galleri MCD trial fails to meet primary endpoint of stage shift&nbsp;&nbsp;The Cancer LetterGalleri, a Blood Test to Detect Over 50 Cancers, Misses the Mark in Clinical Trial&nbsp;&nbsp;Cancer Health",
-      "pub_date": "2026-03-04T11:44:40+00:00",
+      "title": "This 48-hour oatmeal diet could slash your cholesterol and prevent diabetes - Daily Express",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQjlleUJKNVJST3NZT003ZHpwaXVtQ0h2SlROdC0tanJtQVpGU0RsdTdYUUlWUFNLVWQ0RFhVRUFUX0lZVXRMbkNnb1AzMnVFTS1BeHhpVTZNaG94YWl6RU1sVEF4dEJmdVNFWGlmMDc4R2VsMGtPMWRlVlY4MkV5SXA4SGpkOUZfcVQzQUpMenpOMmdyVy01T01EbzdaRFRmaTdmcmQxd1ZWR1FVMFF4U1FtWlkyeXJIQ3dUbnMtN21SczJIWFHSAcsBQVVfeXFMTVc4cFFaRFBiSXRDX2lyOFdZeFlIWmxaSmJSWlJVeHFHa2liUTdsdGNjaW53aWJRYW04Z3BEUkE4Y0w3NzMzN3Z2eU1MZG9GYU5yVHQwRXI0YUNGNlJBZE9kR2lTbnIwZ3NwQTF1djhYdlplOUxtZ0FJZzV6Z19mZGI4TGFCYUpFTGk2ek1TeUVncXBETU16ZVVqNFlLUWg2X2JQNFFfUmFkZ2w0RkxKU3QxQi1kQkJSYzBKQUNsUlUxb0Y3OFc2M1pIams?oc=5",
+      "description": "This 48-hour oatmeal diet could slash your cholesterol and prevent diabetes&nbsp;&nbsp;Daily Express48-Hour Oatmeal Diet Could Cut Cholesterol Levels For Weeks, Study Shows&nbsp;&nbsp;ScienceAlertEating Oats Can Reduce Bad Cholesterol in Just Two Days&nbsp;&nbsp;ZME ScienceHigh dose of oats reduces LDL cholesterol in people with metabolic syndrome&nbsp;&nbsp;diabetes.co.ukJust 2 Days Of This Meal Can Cut Your Bad Cholesterol By 10%&nbsp;&nbsp;Health and Me",
+      "pub_date": "2026-03-04T12:00:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
-          "name": "cancer",
-          "keyword": "cancer",
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
           "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
           ]
         }
       ],
       "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
-      "id": "143a0b301e99",
-      "source": "FAZ",
-      "source_feed": "google_de",
-      "title": "Neue Klinik in Frankfurt vereint Adipositas-Therapie mit Chirurgie und Psychosomatik - FAZ",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckZIQ3ZzZllnaUJMUDVDS2F5RjZrY21FQXNkUFhpUUpIVjdBNzRLMlZRRGdqNDNpdGRMNzNHckU5cDQxNG8yMDJ3bG9jVmdscWtrTHUyOHZ5WEtKV3k4UXR6MndEVWlqSFRucjRvSUNZbHZRaWF3dXNNaTlPdGxTYkQxcFJNY3VsX2p5X2NMUjR3QzJZYnlybnM1QkFhTHctUjFFRnRCdnRJME1rNEpBeEU4aFBJZlFFTXdWaUx2NTc3dUphUThOekRHOTQyby1hRWt5UXl4b2I4X19scEhGc3pkZ1BkY01U?oc=5",
-      "description": "Neue Klinik in Frankfurt vereint Adipositas-Therapie mit Chirurgie und Psychosomatik&nbsp;&nbsp;FAZKampf gegen die Kilos: Wie das Adipositas-Zentrum der Volkskrankheit den Kampf ansagt&nbsp;&nbsp;SWRNeues medizinisches Zentrum bündelt Fachwissen gegen Übergewicht&nbsp;&nbsp;Frankfurter RundschauNeues Behandlungsangebot für Adipositas im Münchner Süden - 2026 - Aktuelles&nbsp;&nbsp;hcm-magazin.deComprehensive Obesity Center Freiburg soll interdisziplinäre Adipositasversorgung stärken&nbsp;&nbsp;B",
-      "pub_date": "2026-03-04T11:16:10+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "obesity",
-          "keyword": "obesity",
-          "related_drugs": [
-            "bupropion",
-            "fenfluramine-hydrochloride",
-            "lasmiditan-succinate",
-            "melatonin",
-            "naltrexone"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "bupropion",
-        "fenfluramine-hydrochloride",
-        "lasmiditan-succinate",
-        "melatonin",
-        "naltrexone"
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab"
       ]
     },
     {
@@ -408,12 +498,42 @@
       ]
     },
     {
+      "id": "1e80a7df13a7",
+      "source": "Actu.fr",
+      "source_feed": "google_fr",
+      "title": "Santé. Ce cancer est particulièrement mortel dans les Hauts-de-France : un appel au dépistage lancé - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYWo3cVBEWEYwYlRfb05EZVpaLWdIYjRuYk1vX0xmVEdORFFCeG44bFo1aUZHQWxJMFJmZWJYaUpnY1dZODdManVQSUllRUhGSnF5NWFBVUViS3JxaVktcHRLSERBcGQyb3piYVEwcEIxdkxlSVFfSGJSOG50dmhiMnZNWkRleFFGQ1RTRmRwaG0tVHAwTVVBZ0xzMmZ0dkxjYm9HLXUyeWZqb1FWcU15MVo3c0lpZUJ4QXhDNDN4U1V3c05CSXhweEZJOEF6T0U?oc=5",
+      "description": "Santé. Ce cancer est particulièrement mortel dans les Hauts-de-France : un appel au dépistage lancé&nbsp;&nbsp;Actu.frMars bleu : un nouvel outil pour dépister le cancer du côlon&nbsp;&nbsp;Outre-mer la 1èreUne journée de sensibilisation au dépistage du cancer colorectal au centre hospitalier des Sables-d’Olonne&nbsp;&nbsp;Ouest-France\"Un test simple peut sauver des vies\" : le \"Colon Tour\" s’installe dans le Gers pour booster le dépistage du cancer colorectal&nbsp;&nbsp;ladepeche.frTignieu-Jamey",
+      "pub_date": "2026-03-04T10:50:02+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
       "id": "e640c0cce236",
       "source": "The Guardian",
       "source_feed": "google_uk",
       "title": "More than 220m children will be obese by 2040 without drastic action, report warns - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX09FMWNORTZURWJXMmFvSnpOXzJuS2pyVmdha3YtaVNiZnliNmt2M0JZNVFjbzFrdUhkbHpGb1dkaVdEOEd4MEstVE9VX0VJNnZ4VGRGdWlqRXlObFMwb0xJcndLNjZpMmVfUXpRM1RPSUpqX1dpSnJ5US1BZHBna3NGZTl0LWtjdkYyYWotakw2akZLRVJaQ1ZUTlNlMmJTV0NYSHNCNV9wVVk0MzVYb2t4ZFNlZ3JCYXpmTTItU0ZUb3loSVM1cg?oc=5",
-      "description": "More than 220m children will be obese by 2040 without drastic action, report warns&nbsp;&nbsp;The GuardianApollo doctor shares 5 ways to reverse obesity without extreme dieting&nbsp;&nbsp;theweek.inUrban India faces metabolic health crisis as 73 million are overweight or obese&nbsp;&nbsp;The Economic TimesChildhood Obesity: The Silent Crisis Reshaping Our Future Generation&nbsp;&nbsp;Asianet NewsableThe weight of a nation: India’s obesity crisis meets public policy&nbsp;&nbsp;India Today",
+      "description": "More than 220m children will be obese by 2040 without drastic action, report warns&nbsp;&nbsp;The Guardian\"Your Child is Not Their Weight: Parenting in a Size-Obsessed World\"&nbsp;&nbsp;KATUWorld obesity day: Why Indian parents must rethink rewarding kids with food and eating out&nbsp;&nbsp;The Indian ExpressIndia ranks second globally for children who are overweight and living with obesity: report&nbsp;&nbsp;The Hindu1 in every 8 children in 12-16-yr age group obese: Study in Kol schools&nbsp;&",
       "pub_date": "2026-03-04T10:47:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -435,6 +555,36 @@
         "lasmiditan-succinate",
         "melatonin",
         "naltrexone"
+      ]
+    },
+    {
+      "id": "ba29f839d303",
+      "source": "Outre-mer la 1ère",
+      "source_feed": "google_fr",
+      "title": "Cancer colorectal : pourquoi les chances de survie sont-elles plus faibles dans les Outre-mer ? - Outre-mer la 1ère",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFJKRFpITFJ1OFk1U3BNR2NHV3FIT2JkY0ZhQzdmR2NPdjA5dHk0OEdrc2RUMHR4aElaOTFIOXVQX2c2TThiYWFCZGU5ODczcGhYWWtuVWRtYUZaa1BfNDVYelRzY3E3UVdManhiUkVUbndtdWtoaWxaeERzYWdCWEgxNVgwelR4dlVuTWZMVVo5SEhRM25QOGszWlgxZFBreHhvdlNUaFlwTW5jME5vQWJZdE5iUTYxcGZfWjNZSnBYR0NVdDNnUWQ0U1VaZw?oc=5",
+      "description": "Cancer colorectal : pourquoi les chances de survie sont-elles plus faibles dans les Outre-mer ?&nbsp;&nbsp;Outre-mer la 1ère",
+      "pub_date": "2026-03-04T10:19:50+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
       ]
     },
     {
@@ -504,6 +654,36 @@
       ]
     },
     {
+      "id": "55a1dbecc843",
+      "source": "ilgallettomugello.com",
+      "source_feed": "google_it",
+      "title": "Microonde e plastica: l’allarme EFSA 2026 che riguarda tutte le cucine italiane - ilgallettomugello.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTlqMjlTQzNobU1ibFl0V05KSm5TbkxObWxXUkNLTWJxcjdtRW5qX3lGdlJjTGoxTGlxdmpGeDkxVGZaRm94bEdJV09WMzBCTUZUaWtzTjlYcnpMTXEwZlplVG1qUGl6SlBpZ2FVamZoZl9RNFNlNlFWa1pmLWI0NzNYQkFaMWJWVnpDQ0x0RU43bkFQUHFKYnA1M0xiQ3RIajhNN3NOQUJTb0ly?oc=5",
+      "description": "Microonde e plastica: l’allarme EFSA 2026 che riguarda tutte le cucine italiane&nbsp;&nbsp;ilgallettomugello.com«I pasti pronti da microonde aumentano il rischio di tumori e infarti». Quali evitare nei supermercati&nbsp;&nbsp;Il MessaggeroRiscaldare cibi in contenitori di plastica può liberare microplastiche negli alimenti&nbsp;&nbsp;sanitainformazione.itPiatti pronti e microonde: quando la comodità può nascondere rischi per la salute&nbsp;&nbsp;QuiComoMicroplastiche e contaminanti scaldando la ",
+      "pub_date": "2026-03-04T08:02:59+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
       "id": "d540a9c73a83",
       "source": "Frankfurt-Live.com",
       "source_feed": "google_de",
@@ -555,7 +735,7 @@
       "source_feed": "google_it",
       "title": "Obesity day, oltre i pregiudizi - Polesine24",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1Z0MHRxYm1XekxCc0FYaWlNNTExQ0VxX2xTOTVKekI2b00zQzMxY0gtWGYzeVJaZGVQOUVwTmZydlIzRGpuYWIxd0JScl9CMG1tTFVJLUtWS1VsZmE3aGhsODJNNUNtX3JLYmR1ZlI2UHBVOUxfMXlPRlJQb2tTVjlkYWQ2OC1razFVTEUxM2pLZw?oc=5",
-      "description": "Obesity day, oltre i pregiudizi&nbsp;&nbsp;Polesine24Obesità infantile: ecco 5 libri che insegnano ai bambini a mangiare sano&nbsp;&nbsp;Il Fatto QuotidianoIn Veneto di obesità ne soffre 12% di adulti e 6% di bambini&nbsp;&nbsp;ANSAUna nuova prospettiva nelle politiche pubbliche sull'obesità (di P. Paganini)&nbsp;&nbsp;HuffPost ItaliaObesità e sovrappeso nei bambini: 6 consigli per educarli a un rapporto positivo con il cibo&nbsp;&nbsp;Vanity Fair Italia",
+      "description": "Obesity day, oltre i pregiudizi&nbsp;&nbsp;Polesine24Longo: “L'obesità crisi sanitaria, nasce da un fallimento culturale”&nbsp;&nbsp;Sky TG24Obesità infantile: ecco 5 libri che insegnano ai bambini a mangiare sano&nbsp;&nbsp;Il Fatto QuotidianoUna nuova prospettiva nelle politiche pubbliche sull'obesità (di P. Paganini)&nbsp;&nbsp;HuffPost ItaliaIn Veneto di obesità ne soffre 12% di adulti e 6% di bambini&nbsp;&nbsp;ANSA",
       "pub_date": "2026-03-04T07:00:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -587,36 +767,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmtYT2RCbXZWc24yaEpBNWFGS0ZXRVBaQzVRaWdYbS1KQk1FQkMzWE5tWVZ5R3VaOEVON0tVMUpmdGp1RFp3V3ZlcHRtUUR0QlEybE5ZaDdKUVRtREY2ZTU3QUh4dXA3UHlmZ0ljRENxOWJtdmloQzEyMmtPM1NFX2JiWGg4Y1JtRWdlNWRIaXVoTWtmQWtOV2VBOWJyRi15NDZuWGl5Q1RhTVNkdktQQm15Y1BsdF9QdlFv0gHAAUFVX3lxTE51SVlubERJRjg1QVJYeWYzbHJyckZWaExSMnlSMGFlbzVRUzlaTEIwNzk3QnB2VGlRVUIwUzBqZ0JHd011dXJKaUVoejFiTjFXbEhJOW95OWtYZnMwSU1OQXEwdkNqcW9wb2ZsOWVmVUItZV9nUjd2RjhLanpGRVlyTFRsUlBkWWxKQmZQRGxZMDUtMWloR0ttaTk3MU1YSEp4d1lvY285OGdTc0xCQnhxa3RNaDJTdlV1cDJhRHY1aA?oc=5",
       "description": "Papillomavirus : symptômes, risques de cancer... Tout ce qu'il faut savoir sur ces virus&nbsp;&nbsp;CNewsJournée mondiale de sensibilisation au HPV : mon frottis est positif, faut-il s’inquiéter ?&nbsp;&nbsp;Yahoo Life FranceIl faut « un sursaut de prévention » contre le papillomavirus et ses dangers pour la santé : voici comment&nbsp;&nbsp;Courrier picardHPV : protéger les jeunes aujourd’hui, éviter certains cancers demain&nbsp;&nbsp;Sud OuestPapillomavirus : ce que votre ado doit absolument sa",
       "pub_date": "2026-03-04T06:03:47+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
-      "id": "70420ceaba24",
-      "source": "France 3 Régions",
-      "source_feed": "google_fr",
-      "title": "\"Le verdict est tombé quand je n'ai pas pu lever la jambe pour monter dans ma voiture\", raconte Dolores, atteinte d'un cancer du côlon - France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOOERtUnNsdDBicU1hb0RGNEt2aW5VNGRpeWpxanVjZFVXSGxhMmRSa2NUSFlXZmhEVngxVE5fNmVOVFZGMkN1WDJLNjZOV1dSZm1rR0dFams4UjdrSm5rcHAtQXRFSGhPYnZnUE40dDhZNVAzSGZ5M3JJX29ITHc2OXdaMEI5VnJrT3Y2NkxqYUFkMzJuQUlDNm5XSnhsTmVqUkdlVjBtYl9URE1rc1VIMi1qenI1bVlBVTFUZXc4cWFCUGhIR05semJ2WENjZ1VZM0IwMmdUandBdFNzZWotUUx1b2stYmhDQUZqd0lqM21nb3BIZC15ZWZ2bjJWXy1wUFVqN1p2T2ZFcU5BUGQtWVB5aTVKTWI4akRoaDFwNVBfazd6NDV6S1lmTGxqR24zZXdmZnVHY3dCVU0xRjRxQ2lyTjFwdw?oc=5",
-      "description": "\"Le verdict est tombé quand je n'ai pas pu lever la jambe pour monter dans ma voiture\", raconte Dolores, atteinte d'un cancer du côlon&nbsp;&nbsp;France 3 RégionsMars bleu : un nouvel outil pour dépister le cancer du côlon&nbsp;&nbsp;Outre-mer la 1ère\"Un test simple peut sauver des vies\" : le \"Colon Tour\" s’installe dans le Gers pour booster le dépistage du cancer colorectal&nbsp;&nbsp;ladepeche.fr\"80% des cancers du côlon se développent sans antécédents familiaux\" : prévention au CHU de Nantes&",
-      "pub_date": "2026-03-04T05:30:05+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -681,12 +831,42 @@
       ]
     },
     {
+      "id": "f2fd36dfbba8",
+      "source": "AGI",
+      "source_feed": "google_it",
+      "title": "Una dieta ricca di grassi accelera i tumori - AGI",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkNSVXlQQ3J5YlMtM3R6R0dmUTRyN0xrY21zVzVtc0MwcGZSNnpDRlBnZjk4RjliTHNHLVRFTGYxUXVfYWZEckUzcWlkUjNoVXB6clJSQWxJQnRnTEFNbllJRVVVd2UzamRZaVhRLUVHaXZyazhtQVBJOVN6STZ6ZUlGZXAyaXNS?oc=5",
+      "description": "Una dieta ricca di grassi accelera i tumori&nbsp;&nbsp;AGI",
+      "pub_date": "2026-03-04T00:33:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
       "id": "6490150bdd41",
       "source": "Adnkronos",
       "source_feed": "google_it",
       "title": "Dormire bene allontana il diabete, ecco quanto deve durare il sonno: l'ora 'esatta' - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkRTYzRHSVNQWE5RaWdfZkJTa3lXY2dJeEJ6Q1IzamRhVnQxeVNPRXlYVW1rTGwtUzQ4WWlIdVY5YjFoMTZiRjctQU1SYnJ5aGJDRTRXRWVpUm5PaWFvcDJhbUw0UE5BeklfMDY2MWtnYmdNT3pnZTY5Zl96bjRCQjQ4SjZNS0ItYU9OeUZMNGkxVkJiLWc?oc=5",
-      "description": "Dormire bene allontana il diabete, ecco quanto deve durare il sonno: l'ora 'esatta'&nbsp;&nbsp;AdnkronosQuante ore dormire per proteggersi dal diabete? La durata ottimale del sonno per scongiurare il rischio di insulino-resistenza&nbsp;&nbsp;Il MessaggeroQuante ore dormire per proteggere il metabolismo? “Sette ore e diciotto minuti”&nbsp;&nbsp;sanitainformazione.itPerché le persone ricorrono al metodo 7:1 per dormire meglio (ed ecco come provarlo)&nbsp;&nbsp;CosmopolitanIl sonno contro il diabet",
+      "description": "Dormire bene allontana il diabete, ecco quanto deve durare il sonno: l'ora 'esatta'&nbsp;&nbsp;AdnkronosQuante ore dormire per proteggersi dal diabete? La durata ottimale del sonno per scongiurare il rischio di insulino-resistenza&nbsp;&nbsp;Il MessaggeroPerché le persone ricorrono al metodo 7:1 per dormire meglio (ed ecco come provarlo)&nbsp;&nbsp;CosmopolitanQuante ore dormire per proteggere il metabolismo? “Sette ore e diciotto minuti”&nbsp;&nbsp;sanitainformazione.itIl sonno contro il diabet",
       "pub_date": "2026-03-03T23:36:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -716,7 +896,7 @@
       "source_feed": "google_uk",
       "title": "Overindulging in lie-ins ‘could cause as much damage as insomnia’ - The Times",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlF1a1pIX1BDdC1TYkZ1TmpTbFVITGJWLTc4Q0hOUFdDYW94SmJVME5uNi1IQ3FOUk9QRzlSSV83RkpLSDRZY3NWOXlDaXc0LU9DaDA1RVl5MUNmeUo4TTJ5c184S1dqbG5ab1NxUWxvSnZFYjhBUmJBN3p6SlNCWmJoZlZHeGI1aC1MWnplc045ZGxzYzlhb2g5RXNNbWVJWG1PZEFNbndaa2dJbXc3N2RNQ0VqQUZ4LW5xSw?oc=5",
-      "description": "Overindulging in lie-ins ‘could cause as much damage as insomnia’&nbsp;&nbsp;The Times7 hours 18 mins may be optimal sleep length for avoiding type 2 diabetes precursor&nbsp;&nbsp;Medical XpressThe perfect length of sleep to avoid diabetes, according to experts&nbsp;&nbsp;The IndependentJust over seven hours of sleep a night could help ward off diabetes precursor&nbsp;&nbsp;STV NewsHow Has Aiming for Better Sleep Helped With Your Type 1 Diabetes Management?&nbsp;&nbsp;HealthCentral",
+      "description": "Overindulging in lie-ins ‘could cause as much damage as insomnia’&nbsp;&nbsp;The TimesThe perfect length of sleep to avoid diabetes, according to experts&nbsp;&nbsp;The Independent7 hours 18 mins may be optimal sleep length for avoiding type 2 diabetes precursor&nbsp;&nbsp;Medical XpressJust over seven hours of sleep a night could help ward off diabetes precursor&nbsp;&nbsp;STV NewsHow Has Aiming for Better Sleep Helped With Your Type 1 Diabetes Management?&nbsp;&nbsp;HealthCentral",
       "pub_date": "2026-03-03T23:30:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -801,12 +981,12 @@
       ]
     },
     {
-      "id": "93de4816ccfb",
-      "source": "Ärzte Zeitung",
+      "id": "13065670878a",
+      "source": "AerzteZeitung.de",
       "source_feed": "google_de",
-      "title": "Nahrungsergänzungsmittel bei Krebs: Viel hilft nicht viel – sondern kann wohl sogar schaden - Ärzte Zeitung",
+      "title": "Nahrungsergänzungsmittel bei Krebs: Viel hilft nicht viel – sondern kann wohl sogar schaden - AerzteZeitung.de",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVDlTbzhRX0ZOaFN2VFNIZTVUWkQwWFNjdXRzOVFCaUNhMHdNbHF2bUN0UzJVY0xvSjc1UlN1cldLUWtIOEl4OFpQdmE3WFhFZ0xPSG9FY3B4eEpXaUF3anhobE4weG1CdFBmMFIxYzV1bUJXYkVvUFVJRlpla2lVcW9VOVBxTzJ5RUZlRnYyOU5CX0RwNkdERmRyTjZKbzU2cU14RHJKUjNxNHlzNFJqRUNrel9NQUFELUZBdWtwYkY5ZmlqQk9JUlRnQWtmb1lzMW9HbURBcw?oc=5",
-      "description": "Nahrungsergänzungsmittel bei Krebs: Viel hilft nicht viel – sondern kann wohl sogar schaden&nbsp;&nbsp;Ärzte Zeitung",
+      "description": "Nahrungsergänzungsmittel bei Krebs: Viel hilft nicht viel – sondern kann wohl sogar schaden&nbsp;&nbsp;AerzteZeitung.de",
       "pub_date": "2026-03-03T16:07:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -891,11 +1071,11 @@
       ]
     },
     {
-      "id": "7a860794aa59",
+      "id": "102fa28013c4",
       "source": "Deutsches Ärzteblatt",
       "source_feed": "google_de",
       "title": "Planetary Health Diet: Möglicherweise geringeres Risiko für chronische Nierenerkrankung – News - Deutsches Ärzteblatt",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNE1KYmVNSWRURlJPZEVYdDdENkRBMlo4UGNKVHRnbURMS3FEVjRUaVROWk84WDdsRFVCUEVfX3RYN0JpNUFjVTJFSEJER1YxdjZyaWM4N1RROUlvTFFqZHU0R3VtMnFEZ1dwVWJJam5scmVsaUR3aEU5YXF3eXdfNXBDVk5xQjdTMEtKQ2FpVXdBYkNkS2htaVFyV3FiUjFvTTVHZnRMblAydzlTS1hFVUhhVmIxM05IWDd5SmZreU94Q0RLVlliYjBTajF4SENZVW5vM0RUdUJFRzN0V042akZIMkZEbERfM2dYdnVzSFBJR1BJSG9lX2hHOGl0bjU3Znc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZVl3YUNlQTFVSmxOMUtDaHZjN0RTblU5X3pGSUo0NnRia3J1TjZJQmZqaTMwVGFmMUZiSHlTdFBYbG9laXdZUnd2cU52ekVkMXNYbmVIQUZFZFAyZk5Bam5hZ0g3TGVmcFAtODlOaWdpczJHVkRwTFVxSnQ5cUtqeGI5NjBFZWhmREpJRldGems3Q1JLbmh6REl3RFJ3VUZRMDMwdmhlY0hmbEZlaktUVzNWdzQtU3gxN1VDd21iTjV6MFBCV2JjOHVSUHRWbVp2ZnU1dEdCMmNmYzk1TEZmNklYRW9pNF9FV1Q4?oc=5",
       "description": "Planetary Health Diet: Möglicherweise geringeres Risiko für chronische Nierenerkrankung – News&nbsp;&nbsp;Deutsches Ärzteblatt",
       "pub_date": "2026-03-03T14:23:07+00:00",
       "matched_drugs": [],
@@ -913,48 +1093,18 @@
       ]
     },
     {
-      "id": "6e363500429b",
-      "source": "OP Online",
+      "id": "0c16407a5a11",
+      "source": "Frankfurter Rundschau",
       "source_feed": "google_de",
-      "title": "Neues Eisen-Nanomaterial zerstört Krebszellen – gesundes Gewebe bleibt verschont - OP Online",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2p4dXp4UWF3NDlRSjRUZnlzMWJCNUZZS01BMk16NlVYTWlKZ3J4eUtxM1BnNC1XaldSU0RXT3JaamRCaTAzeUNWRml3MFRlYnhXeG9XbHNNVlJIT0wyQ1REMGlJN0NkTEthUGlNdW0yWTRudDVFYkxZd3UxLU9MemI5blo2SDdQZlRid3V2d3JNUVVhODJWNXNLQkdpdGIycVR3R3VUREtIajhDYzgzeWlvYkxUNHpKdUxOLWh4TENJQkZ4?oc=5",
-      "description": "Neues Eisen-Nanomaterial zerstört Krebszellen – gesundes Gewebe bleibt verschont&nbsp;&nbsp;OP Online",
+      "title": "Neues Eisen-Nanomaterial zerstört Krebszellen – gesundes Gewebe bleibt verschont - Frankfurter Rundschau",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRm9EWi1qMF9MXzlhdVNvWjhMamJCLVg0VzlYMXFCSTBrbE9hQ3hUeEhVd3Z0aG5hNkFId2tleFJMalFUcncwTXhtVldRdG55MGltOThzcnBuSkN2TnhNckdLZFJwNnNPRTRDZnNkTFhRTFU5c1B3LXZuUU1XaFBab1ZiVFBoRV85ZVAzb3VtUzFtcDVnMUpySVM0T0FKM2toRXE4blVGaU85Ny1XUDA0NkJkYXJheVQ2aHNLX29n?oc=5",
+      "description": "Neues Eisen-Nanomaterial zerstört Krebszellen – gesundes Gewebe bleibt verschont&nbsp;&nbsp;Frankfurter Rundschau",
       "pub_date": "2026-03-03T14:20:55+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
           "name": "cancer",
           "keyword": "Krebs",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
-      "id": "16160fe8a777",
-      "source": "Il Messaggero",
-      "source_feed": "google_it",
-      "title": "Pasti pronti da microonde, danni alla salute. «Aumentano il rischio di tumori e infarti». Quali evitare nei supermercati - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFBZTnVFUEMwdHJ3V1A5ZFp0T2lwUXdLSzJFSHI1cUhoVkNWSlp1aFJtdElWUEJRYy1pcFFocGFSNVp2YTZvR1NqYk9tbG5manNxWHRRd3htQzRUMWYxS3NBbzM1NnVzRUJHV2dUODNXYTVlZFJyVDJCdndnbkZVYXUxTWdNRkhZU1VEb1lfbHBJZXdy0gGSAUFVX3lxTFBONk9xdnB5WHotejlpSU5TWHVmV1IyTTBDNGtIYzFRSTBwSHdOMjlUMG1SRGljdEtxWFRCUnRzZjFmODZVQXF0a0hFSVF1a0lDajM2OGhSN2xOb1VqTkZsaDBTZWdmbmE4Yk9NaG94TW1SVzRDZTRGNnB3UFczeDVJMG5idTUzemItVDVHQkZObHFn?oc=5",
-      "description": "Pasti pronti da microonde, danni alla salute. «Aumentano il rischio di tumori e infarti». Quali evitare nei supermercati&nbsp;&nbsp;Il MessaggeroRiscaldare cibi in contenitori di plastica può liberare microplastiche negli alimenti&nbsp;&nbsp;sanitainformazione.itMicroplastiche e contaminanti scaldando la plastica nel microonde&nbsp;&nbsp;Il Fatto AlimentarePerché non dovresti (mai) riscaldare il cibo confezionato nel microonde&nbsp;&nbsp;today.itPiatti pronti e microonde: quando la comodità può ",
-      "pub_date": "2026-03-03T14:14:34+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "tumor",
           "related_drugs": [
             "acalabrutinib",
             "afatinib",
@@ -1063,42 +1213,12 @@
       ]
     },
     {
-      "id": "e507ece97a89",
-      "source": "Fanpage",
-      "source_feed": "google_it",
-      "title": "Si innamora del suono degli Spitfire, aerei da guerra d'epoca: \"È un sintomo di demenza\". Il caso clinico - Fanpage",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdGE1TjhzeldRS1dIa1d3UlNXSDBOczViTXBCRDlnUm9SNG5sUk16N3JnM2MyYUUyMnk2MnpDUXk4NkZjZmxjQ0tuOHR2THctTXNURGJtVkxFVDZkeGZfY0xBVzRDQi04V2JNNzcyNnB1RnhRc1A3SFZWZVFjVU5uN1FON05sZGhIbENva2FEOUlTNVJQT2tjblRCcFpRU0UwX1ZYQXpkZF9XNUEtUzJreEc5emFwWlVvNS14eFYtSldIZ196OFFwLUU1RGt2Mk96dEYtcTR4RlpzSzQ?oc=5",
-      "description": "Si innamora del suono degli Spitfire, aerei da guerra d'epoca: \"È un sintomo di demenza\". Il caso clinico&nbsp;&nbsp;Fanpage",
-      "pub_date": "2026-03-03T12:05:02+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "copd",
-          "keyword": "EPOC",
-          "related_drugs": [
-            "basiliximab",
-            "botulinum-toxin-type-a",
-            "budesonide",
-            "cabotegravir",
-            "cilastatin"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "basiliximab",
-        "botulinum-toxin-type-a",
-        "budesonide",
-        "cabotegravir",
-        "cilastatin"
-      ]
-    },
-    {
-      "id": "ecb833fd413f",
-      "source": "fnp.de",
+      "id": "982b74f642dc",
+      "source": "24vita",
       "source_feed": "google_de",
-      "title": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann - fnp.de",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVBWZC1iV1BuY05BTlNtblR2YnpQMGd0dHBHeEZfcl92Y1ZkU25qMmpJVmJFX1JEa0hkWVQta0hEVURIcDVWUnBlZjFUTktOUV9KdWZ4UVFXVUFFYXpCUDFuOEFEZVBqeFRSdkE1c0p2cUhLREZJcjYyaVhhRGx1STc2SU9xOVVZLUVzTkpjUGFyM1hBRjY2QW1HaVE4V3NYM0J0dXVEWGhuTEVlR1hwQQ?oc=5",
-      "description": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann&nbsp;&nbsp;fnp.deNeue Leitlinien zur Schlaganfallprävention: Fokus auf Lebensstil und Bluthochdruck&nbsp;&nbsp;it boltwise20 Millionen Deutsche betroffen: 40 Prozent wissen nichts von ihrem Bluthochdruck – Arzt schlägt Alarm&nbsp;&nbsp;Merkur6 Tipps zur Senkung des Blutdrucks gemäß den neuen Richtlinien der American Heart Association.&nbsp;&nbsp;Vietnam.vnAHA / ASA stellen neue Schlaganfall-Leitlinien vor&nbsp;&nbsp;AD HOC NEWS",
+      "title": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann - 24vita",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzJ3aEd4RGhHS2VOcTFZUjZQVkQyNm9TZ2NVU3ZXc2JLaUpONzFxMXlTdVhEaFJMQ2VSdDVFR3UtSUJ3NXhBSlR2RnJ4dWpSRzFRVGstUndKY09SckR1Q1hTNEVYa3lXMjgwM1FxZTBBYXZ2NkFyVGVKLXVGUHVhcV9iMmpDazZiZXROUlM5d3oyaWVQTktzRmZzNXdLUk5FMkI3dXZtS1A?oc=5",
+      "description": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann&nbsp;&nbsp;24vita",
       "pub_date": "2026-03-03T11:51:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -1112,17 +1232,6 @@
             "ambrisentan",
             "amlodipine"
           ]
-        },
-        {
-          "name": "stroke",
-          "keyword": "Schlaganfall",
-          "related_drugs": [
-            "aliskiren",
-            "amlodipine",
-            "avanafil",
-            "azilsartan-medoxomil",
-            "dronedarone"
-          ]
         }
       ],
       "related_drugs": [
@@ -1130,10 +1239,67 @@
         "aliskiren",
         "alpelisib",
         "ambrisentan",
-        "amlodipine",
-        "avanafil",
-        "azilsartan-medoxomil",
-        "dronedarone"
+        "amlodipine"
+      ]
+    },
+    {
+      "id": "65d5d538cdd2",
+      "source": "AOL.co.uk",
+      "source_feed": "google_uk",
+      "title": "Over 65? What to eat for brain and muscle health, according to a dietitian - AOL.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5U3VKN0Zwb2RVTkktbDVDV2tZemhWNWZYYWJCekI1Vm55R1hhelhiTVZwWGUyQ25tSWVDMTV5NHpqM29QcldOMzl2TTlDcEVNRTBiOFZ4bDUtZDlpc1RKNXpmdjlpZFZBWHZPUDBFQWlhRFg0eGp4cnNn?oc=5",
+      "description": "Over 65? What to eat for brain and muscle health, according to a dietitian&nbsp;&nbsp;AOL.co.ukEverything You Want to Know About the Vegan Mediterranean Diet&nbsp;&nbsp;PETAEating This Way Could Lower Risk Of Gastric Cancer By Almost 30%, Study Finds&nbsp;&nbsp;MindBodyGreen",
+      "pub_date": "2026-03-03T10:42:48+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "ca221bb060a0",
+      "source": "Il Sole 24 ORE",
+      "source_feed": "google_it",
+      "title": "Tumore al seno, nel mondo oltre 1 milione di casi in più entro il 2050 e +44% di morti: ecco i 6 fattori di rischio - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEtVbndRT0FQMlJmdEx0eXVYUlE3N3ZtYktkdkJEMVdmbEczYXRac2dTQlBicXA4dXd1UDZZTk1wRmJHazFpZDhiUUNWRW1waXBfMkMteUh0T2RPT1MyeUdfUlRpaEhZRWdzY3poY0NXYktXN1g2Y09DSkVoSjFjOHBsLXFIbXotenI3NkVwTjJyR1VReVUxdmZmVmFSZXhpV0g3ZXNaRThQYmpLTzJEenp0d2daTVlBbmZZd3FJMXhMb2U0QjVNbkVWcV83b1VRWnc?oc=5",
+      "description": "Tumore al seno, nel mondo oltre 1 milione di casi in più entro il 2050 e +44% di morti: ecco i 6 fattori di rischio&nbsp;&nbsp;Il Sole 24 ORETumore al seno, nel mondo un milione di casi in più entro il 2050: i fattori di rischio&nbsp;&nbsp;Sky TG24Cancro al seno. Rimane il tumore più comune tra le donne in tutto il mondo. Stimati oltre 3,5 mln entro il 2050. Lo studio su The Lancet Oncology&nbsp;&nbsp;Quotidiano SanitàNel mondo le diagnosi di tumore al seno saliranno a 3,5 milioni entro il 2050&",
+      "pub_date": "2026-03-03T08:54:23+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
       ]
     },
     {
@@ -1197,36 +1363,6 @@
       ]
     },
     {
-      "id": "b887343e1b29",
-      "source": "Corriere della Sera",
-      "source_feed": "google_it",
-      "title": "Tumore al seno: «È il più diffuso al mondo. Milioni di anni in salute persi a causa di sei fattori di rischio». Lo studio - Corriere della Sera",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPVmZVRnE0MDQ1LXBGVFdRWVNJUXdqekJIYW5MVHp4YjJZMkJqcElRMDJqNThScFN6VHdDdmd6NHdTa29XTmQ1VkRhQzFrZnJWblBiTDhWOEw1VUZvR0twZ1lta3hLZTM1Q3FFZjI4SzhqRnBjT3NwUF9ocVVvd3FSeVdfMzNIaVBQQjctRzFmNHdjakp0RXlGTXdFX3Fhazh0NEVHbm9sUWhtU0VUT1hkQmFoNUd6Ynl1TGl1a1gtZzMzVFBONWdtRHpkQy1MU1BWY1h0Nmc2NENWc295b0V3MzZPWlVfcnd5SEZRTGtrV0trSVp3M3JaSm5CNmFmNUZRZU41RWdjeGtKUHZ2c2NVbGhkTmw3bWMwVzJDYWwwWl8zbnlpTkVvWmd0YllXWm1zVHdsZFEtbUk5RmlYUU13R9IBxgJBVV95cUxONHp5ZnNYeW1WSXZsQWYxcjgzU0g2b1hFaC1LUmdnUEdxbjEtWWJHRG45UGpJc2x3UTExcTB0SFFsYk42a2s0Rk16bDA0WnJhX2NQUXVxb0lvMVJxaUpTcUIxMHlwa2pHY1l6XzZZbzAyMGhRVUdFdW9OeGVZNEZuRHl2UHQ1SjRLS2JiRjg4QllDdUU4OVNXVVpMeUpaWnVFVGYzVkdoRjk1MXFobEktMXgtX3p5WUFEMDV0Ri0zY1RNTk5jNWxwa1RuTFc4dWlWUGMySFpGV2ZWQmpXOUt1UnNza2M2VXF3T2tEUGVsSlQ3SFFKREF3M0dNZjJjdGtmOHpvckhlMnJUWGpnTnF0UjUwU2psMWp3LXFYTTFMN3JWYmtLS0tqRGhiNUJjT3BsVmNzOFRkdmpJTmJQeU9BMXotNUtPdw?oc=5",
-      "description": "Tumore al seno: «È il più diffuso al mondo. Milioni di anni in salute persi a causa di sei fattori di rischio». Lo studio&nbsp;&nbsp;Corriere della SeraTumore al seno, nel mondo un milione di casi in più entro il 2050: i fattori di rischio&nbsp;&nbsp;Sky TG24Cancro al seno. Rimane il tumore più comune tra le donne in tutto il mondo. Stimati oltre 3,5 mln entro il 2050. Lo studio su The Lancet Oncology&nbsp;&nbsp;Quotidiano SanitàNel mondo le diagnosi di tumore al seno saliranno a 3,5 milioni ent",
-      "pub_date": "2026-03-03T05:45:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "tumor",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
       "id": "17643f21ff4e",
       "source": "ZWP online",
       "source_feed": "google_de",
@@ -1262,68 +1398,8 @@
       "source_feed": "google_uk",
       "title": "Quarter of healthy years lost to breast cancer are due to lifestyle factors, research finds - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGt2bk9xMThDUEhDVDFWT1ZXeE9YMWozdGRvbmFPdk5zNWY1WmliOTJIZkZJY1VmN2dZOHVBRnVrcEVLaFpGaXdBMzhyb0daYk5pVDdRZTJaVktfa3FjUXRhNzdIeWhEWWRJLW94OXJqMW5KaDZUNzJ5MEk4MWJuMVhhU2txbV94TnNTR3VOUU1aTTFtejRNNQ?oc=5",
-      "description": "Quarter of healthy years lost to breast cancer are due to lifestyle factors, research finds&nbsp;&nbsp;The GuardianOne in four breast cancer deaths linked to lifestyle factors such as diet&nbsp;&nbsp;The TimesGlobal breast cancer cases expected to reach over 3.5 million by 2050&nbsp;&nbsp;CNNGlobal breast cancer cases set to reach 3.5 million by 2050, study&nbsp;&nbsp;Euronews.com28% of breast cancer cases linked to 6 modifiable risk factors, experts say&nbsp;&nbsp;Medical News Today",
+      "description": "Quarter of healthy years lost to breast cancer are due to lifestyle factors, research finds&nbsp;&nbsp;The GuardianGlobal breast cancer cases expected to reach over 3.5 million by 2050&nbsp;&nbsp;CNNOne in four breast cancer deaths linked to lifestyle factors such as diet&nbsp;&nbsp;The Times28% of breast cancer cases linked to 6 modifiable risk factors, experts say&nbsp;&nbsp;Medical News TodayWhy Breast Cancer Is Still the Leading Malignancy in Women&nbsp;&nbsp;Inside Precision Medicine",
       "pub_date": "2026-03-03T02:30:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
-      "id": "e996e41e8269",
-      "source": "The Guardian",
-      "source_feed": "google_uk",
-      "title": "Weight-loss drugs could prevent fatal complications from heart attacks, UK study finds - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVWFOOERKUXFpR2U4OFFQb2x5bDRLZGxUNlo4X2xTeFE1RE1MR1dNaGt6WEFNQW1RaDZadm5rYkoxQzBsRVFwYzhRMEZoZDIyY2dYNm1FSmVnZlBfTXByeS1wcEs3TmJiQXJ3WGw4NlNldHFjQTJtekY1QU5WdjR4cE4tMTBlV2ZJWEZoQWp5VzJzSTluajhQX2lBek5FYzZtQ1RVODdVVDJjZFROcE1VY0hjQ2JYaVNLNGZyN01ycWZ1bG8?oc=5",
-      "description": "Weight-loss drugs could prevent fatal complications from heart attacks, UK study finds&nbsp;&nbsp;The GuardianWeight-loss drugs can prevent damage from heart attacks&nbsp;&nbsp;The TimesDiabetes: GLP-1s and Healthy Lifestyle Help Lower Cardiovascular Risk&nbsp;&nbsp;HealthlineWeight loss drugs can help heart attack recovery, study&nbsp;&nbsp;Euronews.comGLP-1s support heart attack recovery in rodents by relaxing tight blood vessels&nbsp;&nbsp;Fierce Biotech",
-      "pub_date": "2026-03-03T00:54:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "diabetes mellitus",
-          "keyword": "diabetes",
-          "related_drugs": [
-            "abaloparatide",
-            "alogliptin",
-            "angiotensin-ii-acetate",
-            "anifrolumab",
-            "belimumab"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "abaloparatide",
-        "alogliptin",
-        "angiotensin-ii-acetate",
-        "anifrolumab",
-        "belimumab"
-      ]
-    },
-    {
-      "id": "efcb7b45f603",
-      "source": "Sciencepost",
-      "source_feed": "google_fr",
-      "title": "Elle vit dans vos intestins… On a peut-être enfin découvert pourquoi le cancer colorectal explose chez les moins de 40 ans - Sciencepost",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX2k4cTlPX09ibEprNGhpWkFVRFJ6dDRGRnFFZTBYckQ3M2NacDhWZkNnRWNPZ0tWeVlTdlZ5V0QtbEhXNkxoOU5RRjlPeXpvcnIwMmhBLTdXQmR1WnN1VnNTU2c3ZmdNNWoySEwtSDRFdk5fTzd3WExfTkgwXzRWSXJVVC0zUUNsb2l1bXpFbTVBbW5oYkFqbGxvdG1YeTZhWnJMUS1QcGp1aVRMOXpMMGctZ0MwYXZhOGxXdUY5ZXJlUWdDNHV1QlZueC1ZNXlqQWYyeHpZOEQ4bTFwcFE?oc=5",
-      "description": "Elle vit dans vos intestins… On a peut-être enfin découvert pourquoi le cancer colorectal explose chez les moins de 40 ans&nbsp;&nbsp;SciencepostCancer colorectal : les signaux d’alerte à repérer quel que soit son âge&nbsp;&nbsp;Pourquoi DocteurCancer colorectal : ces signes à ne pas négliger quel que soit son âge, rappellent des médecins&nbsp;&nbsp;Femme ActuellePourquoi le cancer colorectal progresse-t-il chez les jeunes ?&nbsp;&nbsp;Le SoirEndométriose : le HUB lance une campagne pour sortir ",
-      "pub_date": "2026-03-02T20:11:55+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
