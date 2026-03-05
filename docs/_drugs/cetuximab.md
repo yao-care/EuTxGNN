@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Cetuximab
-description: "cetuximab drug repurposing predictions from TxGNN. Evidence level L1 with 52 predicted indications."
-parent: Phase 3+ Evidence (L1)
+description: "cetuximab drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 131
-evidence_level: L1
+evidence_level: L5
 indication_count: 52
 ---
 
 # Cetuximab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **52**
+Evidence Level: **L5** | Predicted Indications: **52**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L1** | Predicted Indications: **52**
 | Drug Name | Cetuximab |
 | DrugBank ID | [DB00002](https://go.drugbank.com/drugs/DB00002) |
 | Brand Names (EU) | Erbitux |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | Predicted Indications | 52 |
 | Top Prediction Score | 99.95% |
 
@@ -66,26 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| ocular cancer | L1 | 20 | 0 | 4 Phase 3 trial(s), 11 Phase 2 trial(s) |
-| neoplasm of middle ear | L1 | 4 | 0 | 2 Phase 3 trial(s), 1 Phase 2 trial(s) |
-| pre-malignant neoplasm | L2 | 20 | 0 | 10 Phase 2 trial(s) |
-| nasal cavity cancer | L2 | 20 | 0 | 1 Phase 3 trial(s), 8 Phase 2 trial(s) |
-| neoplasm of major salivary gland | L2 | 5 | 0 | 3 Phase 2 trial(s) |
-| malignant ear neoplasm | L2 | 3 | 0 | 1 Phase 3 trial(s), 1 Phase 2 trial(s) |
-| cystic neoplasm | L4 | 5 | 1 | AI prediction only |
-| cervical neuroblastoma | L4 | 4 | 0 | AI prediction only |
-| nasal cavity inverting papilloma | L4 | 4 | 0 | AI prediction only |
-| skull base neoplasm | L4 | 2 | 0 | 1 Phase 2 trial(s) |
-| benign neoplasm of floor of mouth | L4 | 1 | 0 | AI prediction only |
-| vestibulocochlear nerve neoplasm | L4 | 1 | 0 | AI prediction only |
-| benign neoplasm of oral cavity | L4 | 1 | 0 | AI prediction only |
-| benign neoplasm of ear | L4 | 1 | 0 | AI prediction only |
 
 ---
 ## About TxGNN Predictions

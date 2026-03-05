@@ -66,13 +66,14 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| open-angle glaucoma | L1 | 20 | 19 | 8 Phase 3 trial(s), 3 Phase 2 trial(s), 2 RCT(s),  |
 | vascular disease | L1 | 15 | 0 | 5 Phase 3 trial(s), 1 Phase 2 trial(s) |
 
 ---

@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| bronchitis | L1 | 20 | 19 | 2 Phase 3 trial(s), 6 Phase 2 trial(s), 1 RCT(s) |
+| bronchitis | L1 | 20 | 19 | 4 Phase 3 trial(s), 2 Phase 2 trial(s), 1 RCT(s) |
 
 ---
 ## About TxGNN Predictions

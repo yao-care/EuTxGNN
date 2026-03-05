@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Vonicog Alfa
-description: "vonicog alfa drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
-parent: Phase 3+ Evidence (L1)
+description: "vonicog alfa drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 639
-evidence_level: L1
+evidence_level: L5
 indication_count: 50
 ---
 
 # Vonicog Alfa
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L1** | Predicted Indications: **50**
 | Drug Name | Vonicog Alfa |
 | DrugBank ID | [DB12872](https://go.drugbank.com/drugs/DB12872) |
 | Brand Names (EU) | Veyvondi |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.98% |
 
@@ -66,13 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| hemophilia | L1 | 4 | 2 | 4 Phase 3 trial(s) |
 
 ---
 ## About TxGNN Predictions

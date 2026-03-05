@@ -66,6 +66,8 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
@@ -73,6 +75,7 @@ The following indications have supporting clinical evidence:
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
 | pharyngitis | L1 | 8 | 2 | 6 Phase 3 trial(s) |
+| nasal cavity disease | L1 | 8 | 0 | 1 Phase 3 trial(s), 3 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

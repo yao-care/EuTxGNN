@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Paclitaxel
-description: "paclitaxel drug repurposing predictions from TxGNN. Evidence level L2 with 71 predicted indications."
-parent: Phase 2 Evidence (L2)
+description: "paclitaxel drug repurposing predictions from TxGNN. Evidence level L1 with 71 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 432
-evidence_level: L2
+evidence_level: L1
 indication_count: 71
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **71**
+Evidence Level: **L1** | Predicted Indications: **71**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L2** | Predicted Indications: **71**
 | Drug Name | Paclitaxel |
 | DrugBank ID | [DB01229](https://go.drugbank.com/drugs/DB01229) |
 | Brand Names (EU) | Abraxane, Apexelsin, Naveruclif, Pazenir |
-| Evidence Level | L2 |
+| Evidence Level | L1 |
 | Predicted Indications | 71 |
 | Top Prediction Score | 100.00% |
 
@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| female breast carcinoma | L2 | 20 | 0 | 2 Phase 3 trial(s), 8 Phase 2 trial(s) |
+| female breast carcinoma | L1 | 20 | 0 | 5 Phase 3 trial(s), 7 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

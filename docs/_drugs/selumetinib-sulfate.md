@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Selumetinib Sulfate
-description: "selumetinib sulfate drug repurposing predictions from TxGNN. Evidence level L4 with 50 predicted indications."
-parent: Preclinical Evidence (L4)
+description: "selumetinib sulfate drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 523
-evidence_level: L4
+evidence_level: L5
 indication_count: 50
 ---
 
 # Selumetinib Sulfate
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L4** | Predicted Indications: **50**
 | Drug Name | Selumetinib Sulfate |
 | DrugBank ID | [DB11689](https://go.drugbank.com/drugs/DB11689) |
 | Brand Names (EU) | Koselugo |
-| Evidence Level | L4 |
+| Evidence Level | L5 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.96% |
 
@@ -66,13 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| rhabdoid tumor | L4 | 1 | 0 | 1 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

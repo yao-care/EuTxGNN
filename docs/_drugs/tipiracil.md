@@ -66,13 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| colonic neoplasm | L2 | 20 | 0 | 2 Phase 3 trial(s), 11 Phase 2 trial(s) |
+| colonic neoplasm | L2 | 20 | 0 | 3 Phase 3 trial(s), 12 Phase 2 trial(s) |
+| squamous cell carcinoma of colon | L4 | 2 | 0 | AI prediction only |
 
 ---
 ## About TxGNN Predictions

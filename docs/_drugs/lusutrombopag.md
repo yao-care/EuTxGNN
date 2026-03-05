@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Lusutrombopag
-description: "lusutrombopag drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
-parent: Phase 3+ Evidence (L1)
+description: "lusutrombopag drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 358
-evidence_level: L1
+evidence_level: L5
 indication_count: 50
 ---
 
 # Lusutrombopag
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L1** | Predicted Indications: **50**
 | Drug Name | Lusutrombopag |
 | DrugBank ID | [DB13125](https://go.drugbank.com/drugs/DB13125) |
 | Brand Names (EU) | Mulpleo (previously Lusutrombopag Shionogi) |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,13 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| thrombocytopenia | L1 | 6 | 17 | 1 Phase 3 trial(s), 4 Phase 2 trial(s), 2 RCT(s),  |
 
 ---
 ## About TxGNN Predictions

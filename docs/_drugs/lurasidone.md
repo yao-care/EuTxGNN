@@ -66,13 +66,14 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| schizophrenia | L1 | 20 | 18 | 10 Phase 3 trial(s), 2 Phase 2 trial(s), 9 review( |
 | manic bipolar affective disorder | L1 | 15 | 0 | 10 Phase 3 trial(s), 1 Phase 2 trial(s) |
 
 ---

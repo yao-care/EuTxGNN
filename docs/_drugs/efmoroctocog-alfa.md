@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| hemophilia | L1 | 20 | 19 | 7 Phase 3 trial(s), 1 Phase 2 trial(s) |
+| hemophilia | L1 | 20 | 19 | 6 Phase 3 trial(s), 1 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

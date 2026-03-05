@@ -66,6 +66,8 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
@@ -73,6 +75,7 @@ The following indications have supporting clinical evidence:
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
 | ankylosing spondylitis | L1 | 8 | 19 | 2 Phase 3 trial(s), 1 Phase 2 trial(s), 1 RCT(s),  |
+| inflammatory spondylopathy | L4 | 11 | 0 | 2 Phase 3 trial(s), 1 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

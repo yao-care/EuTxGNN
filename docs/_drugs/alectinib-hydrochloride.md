@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Alectinib Hydrochloride
-description: "alectinib hydrochloride drug repurposing predictions from TxGNN. Evidence level L3 with 50 predicted indications."
-parent: Observational Evidence (L3)
+description: "alectinib hydrochloride drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 25
-evidence_level: L3
+evidence_level: L5
 indication_count: 50
 ---
 
 # Alectinib Hydrochloride
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L3** | Predicted Indications: **50**
 | Drug Name | Alectinib Hydrochloride |
 | DrugBank ID | [DB11363](https://go.drugbank.com/drugs/DB11363) |
 | Brand Names (EU) | Alecensa |
-| Evidence Level | L3 |
+| Evidence Level | L5 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.97% |
 
@@ -66,13 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| lung cancer | L3 | 8 | 5 | 4 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

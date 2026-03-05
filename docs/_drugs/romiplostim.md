@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Romiplostim
-description: "romiplostim drug repurposing predictions from TxGNN. Evidence level L1 with 51 predicted indications."
-parent: Phase 3+ Evidence (L1)
+description: "romiplostim drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 505
-evidence_level: L1
+evidence_level: L5
 indication_count: 51
 ---
 
 # Romiplostim
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **51**
+Evidence Level: **L5** | Predicted Indications: **51**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L1** | Predicted Indications: **51**
 | Drug Name | Romiplostim |
 | DrugBank ID | [DB05332](https://go.drugbank.com/drugs/DB05332) |
 | Brand Names (EU) | Nplate |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | Predicted Indications | 51 |
 | Top Prediction Score | 100.00% |
 
@@ -66,13 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| platelet-type bleeding disorder | L1 | 8 | 0 | 2 Phase 3 trial(s), 2 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

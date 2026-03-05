@@ -66,15 +66,17 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| diabetic retinopathy | L1 | 20 | 19 | 8 Phase 3 trial(s), 4 Phase 2 trial(s), 6 RCT(s),  |
 | diabetic cataract | L1 | 20 | 1 | 4 Phase 3 trial(s), 3 Phase 2 trial(s) |
-| severe nonproliferative diabetic retinopathy | L1 | 6 | 2 | 4 Phase 3 trial(s), 2 RCT(s) |
+| senile cataract | L4 | 0 | 3 | AI prediction only |
+| cortical cataract | L4 | 2 | 0 | AI prediction only |
 
 ---
 ## About TxGNN Predictions

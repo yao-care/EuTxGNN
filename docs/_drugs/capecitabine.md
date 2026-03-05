@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Capecitabine
-description: "capecitabine drug repurposing predictions from TxGNN. Evidence level L1 with 51 predicted indications."
-parent: Phase 3+ Evidence (L1)
+description: "capecitabine drug repurposing predictions from TxGNN. Evidence level L5 with 51 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 112
-evidence_level: L1
+evidence_level: L5
 indication_count: 51
 ---
 
 # Capecitabine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **51**
+Evidence Level: **L5** | Predicted Indications: **51**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L1** | Predicted Indications: **51**
 | Drug Name | Capecitabine |
 | DrugBank ID | [DB01101](https://go.drugbank.com/drugs/DB01101) |
 | Brand Names (EU) | Xeloda |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | Predicted Indications | 51 |
 | Top Prediction Score | 99.97% |
 
@@ -66,16 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| gastric cancer | L1 | 20 | 20 | 4 Phase 3 trial(s), 7 Phase 2 trial(s), 4 RCT(s),  |
-| gastric carcinoma | L1 | 20 | 20 | 4 Phase 3 trial(s), 7 Phase 2 trial(s), 1 review(s |
-| signet ring cell gastric adenocarcinoma | L3 | 2 | 1 | 2 Phase 2 trial(s) |
-| diffuse gastric adenocarcinoma | L3 | 1 | 0 | 1 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

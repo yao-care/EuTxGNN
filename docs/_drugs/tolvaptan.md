@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| polycystic kidney disease | L1 | 20 | 18 | 8 Phase 3 trial(s), 5 Phase 2 trial(s), 4 RCT(s),  |
+| polycystic kidney disease | L1 | 20 | 18 | 11 Phase 3 trial(s), 4 Phase 2 trial(s), 4 RCT(s), |
 
 ---
 ## About TxGNN Predictions

@@ -66,13 +66,16 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| allergic asthma | L1 | 20 | 2 | 8 Phase 3 trial(s), 4 Phase 2 trial(s), 1 RCT(s) |
+| allergic asthma | L1 | 20 | 2 | 7 Phase 3 trial(s), 1 Phase 2 trial(s), 1 RCT(s) |
+| intrinsic asthma | L1 | 13 | 0 | 1 Phase 3 trial(s) |
 | atopic eczema | L1 | 11 | 0 | 1 Phase 3 trial(s), 2 Phase 2 trial(s) |
 
 ---

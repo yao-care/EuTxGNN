@@ -1,15 +1,18 @@
 {
-  "last_updated": "2026-03-04T23:40:19.328014+00:00",
+  "last_updated": "2026-03-05T00:15:39.523559+00:00",
   "total_pairs": 32368,
-  "processed": 1005,
-  "remaining": 31363,
+  "skipped_known_indications": 75,
+  "effective_pairs": 32293,
+  "processed": 500,
+  "remaining": 31793,
   "this_run": 500,
+  "this_run_skipped_known": 75,
   "errors": 0,
   "level_distribution": {
-    "L1": 124,
-    "L2": 48,
-    "L3": 14,
-    "L4": 41,
-    "L5": 778
+    "L1": 39,
+    "L2": 21,
+    "L3": 1,
+    "L4": 17,
+    "L5": 422
   }
 }

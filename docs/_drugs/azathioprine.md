@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| rheumatoid arthritis | L1 | 20 | 18 | 4 Phase 3 trial(s), 3 Phase 2 trial(s), 3 review(s |
+| rheumatoid arthritis | L1 | 20 | 18 | 2 Phase 3 trial(s), 3 Phase 2 trial(s), 3 review(s |
 
 ---
 ## About TxGNN Predictions

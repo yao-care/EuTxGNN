@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| hypertensive disorder | L1 | 20 | 0 | 5 Phase 3 trial(s), 3 Phase 2 trial(s) |
+| hypertensive disorder | L1 | 20 | 0 | 9 Phase 3 trial(s), 1 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

@@ -4,11 +4,15 @@
 Collects evidence from ClinicalTrials.gov and PubMed for all drug-indication
 pairs in the repurposing candidates file, evaluates evidence levels, and
 stores results for website generation.
+
+NOTE: This script filters out known/approved indications to focus on
+true drug repurposing candidates.
 """
 
 import csv
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -18,6 +22,122 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
 from eutxgnn.collectors import ClinicalTrialsCollector, PubMedCollector
+
+
+def load_approved_indications(csv_path: str) -> dict[str, str]:
+    """Load approved indications from drug mapping file.
+
+    Returns:
+        dict mapping ingredient (uppercase) to approved indication text
+    """
+    approved = {}
+    if os.path.exists(csv_path):
+        with open(csv_path, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                ingredient = row.get("ingredient", "").upper()
+                indication = row.get("indication", "")
+                if ingredient and indication:
+                    approved[ingredient] = indication.lower()
+    return approved
+
+
+def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
+    """Check if predicted indication overlaps with approved indication.
+
+    Uses keyword matching to detect if the predicted indication is likely
+    already approved for the drug.
+
+    Args:
+        approved_indication: EMA approved indication text (lowercase)
+        predicted_indication: TxGNN predicted indication name
+
+    Returns:
+        True if predicted indication appears to be already approved
+    """
+    if not approved_indication or not predicted_indication:
+        return False
+
+    predicted_lower = predicted_indication.lower()
+
+    # Extract meaningful keywords from predicted indication
+    # Remove common suffixes and split
+    cleaned = re.sub(r'\s*\(disease\)\s*', ' ', predicted_lower)
+    cleaned = re.sub(r'\s*\(disorder\)\s*', ' ', cleaned)
+    cleaned = re.sub(r'[^\w\s]', ' ', cleaned)
+
+    words = cleaned.split()
+
+    # Generic medical terms that are too broad for matching
+    generic_terms = {
+        'disease', 'disorder', 'syndrome', 'type', 'of', 'the', 'and', 'or',
+        'with', 'due', 'to', 'in', 'by', 'for', 'as', 'is', 'a', 'an',
+        'primary', 'secondary', 'chronic', 'acute', 'severe', 'mild',
+        'familial', 'hereditary', 'congenital', 'acquired', 'idiopathic',
+        # Too generic - would cause false matches
+        'cancer', 'tumor', 'carcinoma', 'neoplasm', 'infection', 'infectious',
+        'deficiency', 'failure', 'insufficiency', 'inflammation',
+        # Body parts/systems - too generic
+        'cell', 'cells', 'blood', 'bone', 'muscle', 'nerve', 'skin',
+    }
+
+    # Keep important acronyms even if short
+    important_acronyms = {
+        'hiv', 'aids', 'copd', 'adhd', 'als', 'ms', 'ibd', 'ibs',
+        'hcv', 'hbv', 'tb', 'ra', 'sle', 'ckd', 'chf', 'cad',
+    }
+
+    # Also check for expanded forms
+    expanded_terms = {
+        'hiv': 'immunodeficiency virus',
+        'aids': 'acquired immunodeficiency',
+        'copd': 'chronic obstructive pulmonary',
+        'adhd': 'attention deficit',
+        'als': 'amyotrophic lateral sclerosis',
+    }
+
+    keywords = []
+    acronyms_found = []
+    for w in words:
+        w_lower = w.lower()
+        if w_lower in important_acronyms:
+            keywords.append(w_lower)
+            acronyms_found.append(w_lower)
+        elif w_lower not in generic_terms and len(w) > 4:
+            keywords.append(w_lower)
+
+    if not keywords:
+        return False
+
+    # Check if specific keywords appear in approved indication
+    # Require exact word boundary matching for better precision
+    matches = 0
+    for kw in keywords:
+        # Use word boundary matching
+        pattern = r'\b' + re.escape(kw) + r'\b'
+        if re.search(pattern, approved_indication):
+            matches += 1
+        # Also check expanded forms for acronyms
+        elif kw in expanded_terms:
+            if expanded_terms[kw] in approved_indication:
+                matches += 1
+
+    # Need majority of specific keywords to match
+    # Or a very specific long keyword (>8 chars) to match
+    if len(keywords) >= 2 and matches >= len(keywords) * 0.6:
+        return True
+
+    # Single very specific keyword match (including acronyms with expanded form)
+    for kw in keywords:
+        if len(kw) > 8:
+            pattern = r'\b' + re.escape(kw) + r'\b'
+            if re.search(pattern, approved_indication):
+                return True
+        # Acronyms with expanded form are also specific
+        elif kw in expanded_terms and expanded_terms[kw] in approved_indication:
+            return True
+
+    return False
 
 
 def load_candidates(csv_path: str) -> list[dict]:
@@ -180,12 +300,19 @@ def main():
 
     # Paths
     candidates_csv = base_dir / "data/processed/repurposing_candidates_merged.csv"
+    drug_mapping_csv = base_dir / "data/processed/drug_mapping.csv"
     output_dir = base_dir / "data/evidence"
     output_dir.mkdir(parents=True, exist_ok=True)
 
     results_file = output_dir / "evidence_results.json"
     progress_file = output_dir / "progress.json"
     summary_file = output_dir / "evidence_summary.json"
+    skipped_file = output_dir / "skipped_known_indications.json"
+
+    # Load approved indications for filtering
+    print(f"Loading approved indications from {drug_mapping_csv}...")
+    approved_indications = load_approved_indications(drug_mapping_csv)
+    print(f"Loaded approved indications for {len(approved_indications)} drugs")
 
     # Load candidates
     print(f"Loading candidates from {candidates_csv}...")
@@ -207,13 +334,21 @@ def main():
     else:
         results = {}
 
+    # Load skipped indications
+    if skipped_file.exists():
+        with open(skipped_file, "r") as f:
+            skipped_known = set(json.load(f))
+    else:
+        skipped_known = set()
+
     # Initialize collectors
     ct_collector = ClinicalTrialsCollector(max_results=20)
     pm_collector = PubMedCollector(max_results=20)
 
     # Process pairs
     total = len(pairs)
-    skipped = 0
+    skipped_progress = 0
+    skipped_known_count = 0
     errors = 0
     new_results = 0
 
@@ -221,13 +356,25 @@ def main():
     max_per_run = int(os.environ.get("MAX_PAIRS", "100"))
 
     print(f"\nProcessing up to {max_per_run} pairs this run...")
+    print("(Filtering out known/approved indications)")
     print("-" * 60)
 
     for i, (drugbank_id, ingredient, indication) in enumerate(pairs):
         key = f"{drugbank_id}:{indication}"
 
         if key in processed:
-            skipped += 1
+            skipped_progress += 1
+            continue
+
+        if key in skipped_known:
+            continue
+
+        # Check if this is a known indication
+        approved = approved_indications.get(ingredient.upper(), "")
+        if is_known_indication(approved, indication):
+            skipped_known.add(key)
+            skipped_known_count += 1
+            print(f"[{i+1}/{total}] {ingredient} - {indication[:40]}... SKIP (known indication)")
             continue
 
         if new_results >= max_per_run:
@@ -241,6 +388,7 @@ def main():
                 ingredient, indication, ct_collector, pm_collector
             )
             result["drugbank_id"] = drugbank_id
+            result["is_repurposing"] = True  # Mark as true repurposing candidate
 
             results[key] = result
             processed.add(key)
@@ -256,6 +404,8 @@ def main():
                 save_progress(progress_file, processed)
                 with open(results_file, "w") as f:
                     json.dump(results, f, indent=2)
+                with open(skipped_file, "w") as f:
+                    json.dump(list(skipped_known), f)
 
             # Rate limiting (be nice to APIs)
             time.sleep(0.5)
@@ -269,6 +419,8 @@ def main():
     save_progress(progress_file, processed)
     with open(results_file, "w") as f:
         json.dump(results, f, indent=2)
+    with open(skipped_file, "w") as f:
+        json.dump(list(skipped_known), f)
 
     # Generate summary
     level_counts = {"L1": 0, "L2": 0, "L3": 0, "L4": 0, "L5": 0}
@@ -276,12 +428,18 @@ def main():
         level = result.get("evidence_level", "L5")
         level_counts[level] = level_counts.get(level, 0) + 1
 
+    total_skipped_known = len(skipped_known)
+    effective_total = total - total_skipped_known
+
     summary = {
         "last_updated": datetime.now(timezone.utc).isoformat(),
         "total_pairs": total,
+        "skipped_known_indications": total_skipped_known,
+        "effective_pairs": effective_total,
         "processed": len(processed),
-        "remaining": total - len(processed),
+        "remaining": effective_total - len(processed),
         "this_run": new_results,
+        "this_run_skipped_known": skipped_known_count,
         "errors": errors,
         "level_distribution": level_counts,
     }
@@ -292,11 +450,14 @@ def main():
     print("\n" + "=" * 60)
     print("Summary:")
     print(f"  Total pairs: {total}")
+    print(f"  Skipped (known indications): {total_skipped_known}")
+    print(f"  Effective pairs: {effective_total}")
     print(f"  Processed: {len(processed)}")
     print(f"  This run: {new_results}")
+    print(f"  This run skipped (known): {skipped_known_count}")
     print(f"  Errors: {errors}")
-    print(f"  Remaining: {total - len(processed)}")
-    print("\nEvidence Level Distribution:")
+    print(f"  Remaining: {effective_total - len(processed)}")
+    print("\nEvidence Level Distribution (repurposing only):")
     for level, count in sorted(level_counts.items()):
         print(f"  {level}: {count}")
     print("=" * 60)

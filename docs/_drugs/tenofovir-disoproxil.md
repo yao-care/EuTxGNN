@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| HIV infectious disease | L1 | 20 | 0 | 1 Phase 3 trial(s), 7 Phase 2 trial(s) |
+| HIV infectious disease | L1 | 20 | 0 | 5 Phase 3 trial(s), 4 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

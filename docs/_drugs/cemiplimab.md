@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| non-small cell squamous lung carcinoma | L2 | 20 | 0 | 4 Phase 3 trial(s), 7 Phase 2 trial(s) |
+| non-small cell squamous lung carcinoma | L2 | 20 | 0 | 3 Phase 3 trial(s), 8 Phase 2 trial(s) |
 | cervical adenosquamous carcinoma | L2 | 2 | 0 | 1 Phase 3 trial(s), 1 Phase 2 trial(s) |
 | liver adenosquamous carcinoma | L2 | 1 | 0 | 1 Phase 3 trial(s) |
 | carcinoma of lip | L4 | 3 | 0 | 3 Phase 2 trial(s) |

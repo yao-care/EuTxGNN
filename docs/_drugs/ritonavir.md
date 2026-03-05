@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Ritonavir
-description: "ritonavir drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
-parent: Phase 3+ Evidence (L1)
+description: "ritonavir drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 500
-evidence_level: L1
+evidence_level: L5
 indication_count: 50
 ---
 
 # Ritonavir
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L1** | Predicted Indications: **50**
 | Drug Name | Ritonavir |
 | DrugBank ID | [DB00503](https://go.drugbank.com/drugs/DB00503) |
 | Brand Names (EU) | Ritonavir Viatris (previously Ritonavir Mylan) |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.96% |
 
@@ -66,13 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| HIV infectious disease | L1 | 20 | 0 | 6 Phase 3 trial(s), 6 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

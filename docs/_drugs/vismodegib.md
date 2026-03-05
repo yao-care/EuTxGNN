@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| basal cell carcinoma | L2 | 20 | 18 | 11 Phase 2 trial(s) |
+| basal cell carcinoma | L2 | 20 | 18 | 14 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

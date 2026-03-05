@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Plerixafor
-description: "plerixafor drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
-parent: Phase 2 Evidence (L2)
+description: "plerixafor drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
+parent: Phase 3+ Evidence (L1)
 nav_order: 462
-evidence_level: L2
+evidence_level: L1
 indication_count: 50
 ---
 
 # Plerixafor
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **50**
+Evidence Level: **L1** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L2** | Predicted Indications: **50**
 | Drug Name | Plerixafor |
 | DrugBank ID | [DB06809](https://go.drugbank.com/drugs/DB06809) |
 | Brand Names (EU) | Plerixafor Accord |
-| Evidence Level | L2 |
+| Evidence Level | L1 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 99.98% |
 
@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| plasma cell myeloma | L2 | 20 | 1 | 1 Phase 3 trial(s), 9 Phase 2 trial(s) |
+| plasma cell myeloma | L1 | 20 | 1 | 3 Phase 3 trial(s), 8 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

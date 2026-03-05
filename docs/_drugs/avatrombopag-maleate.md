@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Avatrombopag Maleate
-description: "avatrombopag maleate drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
-parent: Phase 2 Evidence (L2)
+description: "avatrombopag maleate drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 59
-evidence_level: L2
+evidence_level: L5
 indication_count: 50
 ---
 
 # Avatrombopag Maleate
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **50**
+Evidence Level: **L5** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L2** | Predicted Indications: **50**
 | Drug Name | Avatrombopag Maleate |
 | DrugBank ID | [DB11995](https://go.drugbank.com/drugs/DB11995) |
 | Brand Names (EU) | Doptelet |
-| Evidence Level | L2 |
+| Evidence Level | L5 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,13 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| thrombocytopenia | L2 | 5 | 2 | 2 Phase 3 trial(s), 2 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

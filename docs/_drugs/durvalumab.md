@@ -66,6 +66,10 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
@@ -75,8 +79,6 @@ The following indications have supporting clinical evidence:
 | transitional cell carcinoma | L2 | 20 | 1 | 1 Phase 3 trial(s), 13 Phase 2 trial(s) |
 | infiltrating bladder urothelial carcinoma sarcomatoid variant | L4 | 2 | 0 | 1 Phase 2 trial(s) |
 | kidney pelvis sarcomatoid transitional cell carcinoma | L4 | 1 | 0 | AI prediction only |
-
----
 
 ---
 ## About TxGNN Predictions

@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Acetylsalicylic Acid
-description: "acetylsalicylic acid drug repurposing predictions from TxGNN. Evidence level L1 with 54 predicted indications."
-parent: Phase 3+ Evidence (L1)
+description: "acetylsalicylic acid drug repurposing predictions from TxGNN. Evidence level L5 with 54 predicted indications."
+parent: AI Predictions (L5)
 nav_order: 16
-evidence_level: L1
+evidence_level: L5
 indication_count: 54
 ---
 
 # Acetylsalicylic Acid
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **54**
+Evidence Level: **L5** | Predicted Indications: **54**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L1** | Predicted Indications: **54**
 | Drug Name | Acetylsalicylic Acid |
 | DrugBank ID | [DB00945](https://go.drugbank.com/drugs/DB00945) |
 | Brand Names (EU) | Acetylsalicylic acid, Clopidogrel / Acetylsalicylic acid Viatris (previously Clopidogrel / Acetylsalicylic acid Mylan), Clopidogrel/Acetylsalicylic acid Zentiva (previously DuoCover), DuoPlavin |
-| Evidence Level | L1 |
+| Evidence Level | L5 |
 | Predicted Indications | 54 |
 | Top Prediction Score | 99.94% |
 
@@ -66,13 +66,6 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| migraine disorder | L1 | 20 | 0 | 7 Phase 3 trial(s), 2 Phase 2 trial(s) |
 
 ---
 ## About TxGNN Predictions

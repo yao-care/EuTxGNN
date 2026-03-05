@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Vilanterol
-description: "vilanterol drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
-parent: Phase 3+ Evidence (L1)
+description: "vilanterol drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
+parent: Phase 2 Evidence (L2)
 nav_order: 633
-evidence_level: L1
+evidence_level: L2
 indication_count: 50
 ---
 
 # Vilanterol
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **50**
+Evidence Level: **L2** | Predicted Indications: **50**
 {: .fs-6 .fw-300 }
 
 ---
@@ -23,7 +23,7 @@ Evidence Level: **L1** | Predicted Indications: **50**
 | Drug Name | Vilanterol |
 | DrugBank ID | [DB09082](https://go.drugbank.com/drugs/DB09082) |
 | Brand Names (EU) | Vilanterol |
-| Evidence Level | L1 |
+| Evidence Level | L2 |
 | Predicted Indications | 50 |
 | Top Prediction Score | 100.00% |
 
@@ -66,16 +66,17 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| obstructive lung disease | L1 | 20 | 16 | 8 Phase 3 trial(s), 1 Phase 2 trial(s), 2 RCT(s) |
 | bronchitis | L2 | 6 | 5 | 1 Phase 2 trial(s), 1 RCT(s) |
-
----
 
 ---
 ## About TxGNN Predictions

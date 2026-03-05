@@ -66,13 +66,15 @@ TxGNN model predictions for potential drug repurposing:
 
 ---
 
+
+---
 ## Clinical Evidence
 
 The following indications have supporting clinical evidence:
 
 | Indication | Level | Trials | Articles | Summary |
 |------------|:-----:|:------:|:--------:|---------|
-| C1 inhibitor deficiency | L1 | 20 | 20 | 6 Phase 3 trial(s), 1 RCT(s) |
+| C1 inhibitor deficiency | L1 | 20 | 20 | 7 Phase 3 trial(s), 1 RCT(s) |
 
 ---
 ## About TxGNN Predictions
