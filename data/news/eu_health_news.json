@@ -1,8 +1,8 @@
 {
   "description": "EU health news with drug-disease relations from EuTxGNN",
-  "fetched_at": "2026-03-07T06:51:59.680113+00:00",
-  "total_items": 343,
-  "relevant_items": 49,
+  "fetched_at": "2026-03-07T13:00:47.041920+00:00",
+  "total_items": 335,
+  "relevant_items": 46,
   "sources": [
     "google_uk",
     "google_de",
@@ -16,12 +16,222 @@
   ],
   "items": [
     {
+      "id": "a075b9a31c41",
+      "source": "El Mundo Financiero",
+      "source_feed": "google_es",
+      "title": "La RICAPPS impulsa el estudio PANDORA para prevenir la ansiedad y depresión con una app - El Mundo Financiero",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeDNhNWdHVXFVSnlpTXNJY2R0WXpUOXkwcUdENXVyejBDbHhWMTdFZm1obE5jQXBSbTB0OFByVXVCcHZ5ZXVPenZUS1JaXzc4ak1sWUhmdk1TVWY1T1pxVk5mYzRGNVpFS0VzaDl3YVdScm1vMG0wT0d5RjZqb2lqRUt0eHc1TWxFcWg2Z1RxTElCRm90bkJMQXVOU3lENlFIZ2M5amsyd2cySFhSdzJlal9XUkZnaTB4X2JvcEVQelZXc0ZlYkluZThFdFhZSXJ0QUw4MEJIMmNqY21pMnAwMA?oc=5",
+      "description": "La RICAPPS impulsa el estudio PANDORA para prevenir la ansiedad y depresión con una app&nbsp;&nbsp;El Mundo Financiero",
+      "pub_date": "2026-03-07T10:23:57+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "depression",
+          "keyword": "depresión",
+          "related_drugs": [
+            "agomelatine",
+            "brexpiprazole",
+            "duloxetine-hydrochloride",
+            "esketamine-hydrochloride",
+            "olanzapine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "agomelatine",
+        "brexpiprazole",
+        "duloxetine-hydrochloride",
+        "esketamine-hydrochloride",
+        "olanzapine"
+      ]
+    },
+    {
+      "id": "29484e494002",
+      "source": "BBC",
+      "source_feed": "google_uk",
+      "title": "Cancer patient calls for NHS drug use approval - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Vazk1cXRxVG81aGRzSmxqeDR2MW1IX2tmTHhyTmh3aTFUQ2xmVjZxQi1uQU5tRVBYaHlKbXBaeWNjYzY0YlNFaHRKQWF4eWFQenMyX1Zmd0FHai1B?oc=5",
+      "description": "Cancer patient calls for NHS drug use approval&nbsp;&nbsp;BBCNHS urged to approve new treatment for aggressive cancer after tumours shrink in size&nbsp;&nbsp;The IndependentMy husband died at just 33 after health chiefs rejected revolutionary treatment for deadly bile duct cancer... he'll never see his son grow up and I don't want other families to suffer like ours&nbsp;&nbsp;Daily MailFamily urges NHS to approve new cancer treatment that could offer ‘normal life’&nbsp;&nbsp;The IndependentBerea",
+      "pub_date": "2026-03-07T09:35:45+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "5a3f1fea85ca",
+      "source": "Salud a Diario",
+      "source_feed": "google_es",
+      "title": "Descubren más de 200 enzimas del metabolismo en el núcleo de las células cancerosas - Salud a Diario",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0M2NUxNUmN2aHgtcnY0cVhSanZWVFl3aXFTbGVYYkExb0ZxbG5MOHVGTUpLU2phZXhxM3VQWlg1dllJd1IwV0tycUxwRjJNb1BQVm5RRkVxU2NKcjRNUDRjVExfUnk2NnlrSHlYUGt4WkpsSFZvMWxYNlhmZUVpbWw3cWw5SkhKLWtLOTdQZEpBUjdLbVpxRDlvTGNHbXMxU2N3VThLS3RXTkNTeTEwVkdJeWk4c1dqbGRYMjNKZUdMV0tJ?oc=5",
+      "description": "Descubren más de 200 enzimas del metabolismo en el núcleo de las células cancerosas&nbsp;&nbsp;Salud a DiarioVer cobertura completa en Google News",
+      "pub_date": "2026-03-07T09:02:14+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "9868a54360e9",
+      "source": "Il Messaggero",
+      "source_feed": "google_it",
+      "title": "Tumori, nel 2025 oltre 300mila nuovi casi: i cancri più diffusi, melanoma in aumento. Le donne sopravvivono di più - Il Messaggero",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2NEOFpsNFdpZXBhNzlDbkNvLXJDSTJ3cDZFNi00QmctbFNBUTVRazI1MWJGYWgxbzJOdGtna2N5dkRQUUVWUDJKZmlyeDdhQWFlTG9NRnItelJ0MW5nZGtIaTdCaXg3VU4xUW5WNVVFR1c0X2hpQlZXQ2s3WXpjZE5VVjF0WEdNSk9sUThqYXVDRDBpVUk1LU5FeWpzeHRqMm8zZ0NLRjlqNHR4?oc=5",
+      "description": "Tumori, nel 2025 oltre 300mila nuovi casi: i cancri più diffusi, melanoma in aumento. Le donne sopravvivono di più&nbsp;&nbsp;Il MessaggeroSchillaci, non abbassare la guardia sulla prevenzione dei tumori&nbsp;&nbsp;ANSAIN ITALIA CALA MORTALITÀ PER TUMORI: AIRTUM, \"SU REGISTRI REGIONI COME L'ABRUZZO ANCORA INDIETRO\"&nbsp;&nbsp;Abruzzo WebTumori in Italia: 362mila nuovi casi nel 2025. Sopravvivenza in crescita, ma persistono divari territoriali&nbsp;&nbsp;sanitainformazione.itTumori in Italia: men",
+      "pub_date": "2026-03-07T08:34:35+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "ef438fec4fb7",
+      "source": "mt-portal.de",
+      "source_feed": "google_de",
+      "title": "Onkologie: Brustkrebs Tumorzellen zeigen neue metabolische Schwachstelle - mt-portal.de",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGl6clI1UmlfUVY2bUxTTTZYRUIzVXc4MkxVZGxKZFhKY2RvWklxY3JBZnFDdVlGWWxHUGdVUmsybkJLWHR5T0ZNNUhvZ0lIVk5SQ2FPeTJPY0xBendLUXEwWUdmSnV0RlY1QXY5RF95bWVfMWtDRWktOWV0ek9fWndfMXUyWHFLYnpVWFJFTkNVMGJIamc?oc=5",
+      "description": "Onkologie: Brustkrebs Tumorzellen zeigen neue metabolische Schwachstelle&nbsp;&nbsp;mt-portal.de",
+      "pub_date": "2026-03-07T06:33:55+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "acda55ada21d",
+      "source": "La Voz de Galicia",
+      "source_feed": "google_es",
+      "title": "¿Una sola inyección para curar el alzhéimer? Una terapia probada en ratones revela que sería posible - La Voz de Galicia",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcEFtWUNYZmc1Z3VXUzM4SWxRUmF1bmc5VUt5ZU03X0QtX1dIZ3VGYXFnNUdZZ09OekRIOUlNbVhaZlZCeVYtaGttTWdUMWhIckUzQzFxSGJIdUdaaFhUcWtiNC1jX0tjR240MzZUaFVwUmlIenNqUnlsems2cWQxTjJoT0h3Z0RzaHRJazM0V2NPUWFpZWhzbnRRcWszcDJCemhzZ2gyVlpIVndmUUVFQzhTejRSbVFlNjRRcVBWQnpYTlYwS2pNYUNaVUtOVnRBTXJ6SlV2MnJ4YmZqQUxLOVhrNnk1eHdPRVZz0gGHAkFVX3lxTE5ybmtRMDBFc2REZzdvaFJtb1ViMmhSSGh4dVMwVVZ1YlkwNnZXOElCZHloVjdrQV9ndzc0SmRndlR5eEN5WnZDcGZyc3BYUGNOS1dQcWVMNnYwMFBMOFJrZ0lvdzgwZDN3d3RRZVJtbmVIMU1IajFBUHM1Z2o2cWlsZ2NXVTUwUm1ZV0pUZDlDZjdmNWRGZjBES3R4cGRzQ0FyRHZjcXVHTGVhbVRYUTJYMDVQcl9FdHRJTXltelNZX0loY1JIU2QtMlNIWlJXcHhaYXZUSFBXTmx0WndjYnFCX0NaUGlGQy1PdmVwaHVjMU8yN2wxVnpQM0IzTzl5a3pKNE9Eb3E0?oc=5",
+      "description": "¿Una sola inyección para curar el alzhéimer? Una terapia probada en ratones revela que sería posible&nbsp;&nbsp;La Voz de GaliciaLa terapia CAR que ya se emplea con éxito frente a algunos tumores se explora también contra el alzhéimer&nbsp;&nbsp;El MundoAvance contra el Alzheimer: prueban con éxito una inmunoterapia que frenó y revirtió la enfermedad en ratones&nbsp;&nbsp;InfobaeUn equipo de investigadores alumbra una terapia celular personalizada que reduce el alzhéimer en ratones&nbsp;&nbsp;El",
+      "pub_date": "2026-03-07T06:30:52+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "1f3656e8c0e4",
+      "source": "Medicina y Salud Pública",
+      "source_feed": "google_es",
+      "title": "Modifican células CAR-T para bloquear defensas tumorales: Eficacia en glioblastoma y cáncer de ovario - Medicina y Salud Pública",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZEQ5VGJlVld0NXZMNTRTZm9DZjlPcGxiaC1lVDVTbHMxVEFPVEdVYnc2dEZMNmFUUW9mNmlvZXNMa3ZRY1FZVWtycHZhcXRVaktNS3lmeEVudl9sTUxwWnNKNWZVeFpINjJWdU1LcjlBVDVqbjBKclY3TWVyREFfZUZ4NWZXNG9SNlhGVE5sVm5zVnhsc2M4cUtGbTk4RDY1OHB1TXBEVmd5WUR4WmN4RWJsc1RGd29DN2xxZGpPZE14UW1HeHZoMnFWN1E5Q1Z0QTJSNnd0NHJ4b1h0bmFfTXJTczVTUVFZY0UwU19JNE_SAfYBQVVfeXFMUExfRXNNQXV4RV9UMFpJQWNJYTUzMV9lVjVYaHgtakQ2ajhKNXd2WUlzckJKZGlJY2plaWQxMUQzX0pEd09kclF4NXhrN2szSWM4N0FURXZEa3lzdEQ2MVkxSVB5RDNfYlY0MlJmdkd6N2pTbldQZVpWU2lkaWhYdF8ycFQ5ZmttMS1TeGhtTW9RS2t5R1c1SW82TDhuWE9rUExidFhjYmVxLXRWSG1JLW5ZTVlyT09LUS1HaU9waE5ZZjR1akFXYzB5eDRTMDA4N0ZPQlc1aHBrbXNFSHhzZWdPWWs1QjRxUEpYTGQwMFdFNHNQUGV3?oc=5",
+      "description": "Modifican células CAR-T para bloquear defensas tumorales: Eficacia en glioblastoma y cáncer de ovario&nbsp;&nbsp;Medicina y Salud PúblicaCélulas CAR-T diseñadas para bloquear defensas tumorales muestran eficacia en modelos de glioblastoma y cáncer de ovario&nbsp;&nbsp;InfosalusBiología sintética o cómo crear vida artificial para curar&nbsp;&nbsp;Cadena SERDescubren un punto vulnerable en cánceres de órganos sólidos para atacarlos con células CAR-T&nbsp;&nbsp;La VanguardiaUn fármaco viviente logr",
+      "pub_date": "2026-03-07T05:41:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
       "id": "6b694fd45cd6",
       "source": "Pleine vie",
       "source_feed": "google_fr",
       "title": "Cancer du sein : la justice reconnaît un \"lien direct\" avec le travail de nuit de cette infirmière, elle travaillait \"140 nuits par an\" à l’hôpital - Pleine vie",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOU2ZldWF3cUNDNnl2eFVIdHp6X2ZEZ1JBOHkwYmxVUWFLWFNQVzFUR2NWZE0yazFfNTF1NlpxZ0tYaHBuTTlRLTJoRjFzNFZxUGZkYW9lUzBDYjZjU1J5c1JOSXhUUXIwNFNaVGVvUTQ1aVJDYzl2TElkbG9wLWxoeTB3REZveXNiUS1qbFRMYTF5T3RNTlJ6VUpsalZnUEFsS1ZRMDZtVGtSbmRueFV5RzdtSTIyZG12amU5amNxYVp6dURIS1hrUkFyVzBHTDZEUnBxellJOUlmam9nYjdLei13eENKTUpETk83TzRkdkxldXdvQ0QtZlZKbThGOGZ1aGVTemRydm16c0duSTBz?oc=5",
-      "description": "Cancer du sein : la justice reconnaît un \"lien direct\" avec le travail de nuit de cette infirmière, elle travaillait \"140 nuits par an\" à l’hôpital&nbsp;&nbsp;Pleine vieLa justice reconnaît un \"lien direct\" entre le cancer du sein d'une infirmière et son travail de nuit&nbsp;&nbsp;Franceinfo\"C'est un soulagement\" : à Marseille, la justice reconnaît pour la première fois un lien entre travail de nuit et cancer du sein&nbsp;&nbsp;RTL.fr\"C’est une victoire\" : à Martigues, une infirmière fait reconn",
+      "description": "Cancer du sein : la justice reconnaît un \"lien direct\" avec le travail de nuit de cette infirmière, elle travaillait \"140 nuits par an\" à l’hôpital&nbsp;&nbsp;Pleine vieLa justice reconnaît un \"lien direct\" entre le cancer du sein d'une infirmière et son travail de nuit&nbsp;&nbsp;France InfoLa justice reconnaît un lien entre le travail de nuit d'une infirmière et son cancer du sein&nbsp;&nbsp;Yahoo Life France\"C'est un soulagement\" : à Marseille, la justice reconnaît pour la première fois un li",
       "pub_date": "2026-03-07T05:00:24+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -46,13 +256,13 @@
       ]
     },
     {
-      "id": "63e5ce0535b2",
-      "source": "24vita",
+      "id": "c15bd57c2702",
+      "source": "24vita.de",
       "source_feed": "google_de",
-      "title": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann - 24vita",
+      "title": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann - 24vita.de",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3YxLV9FWmlYZl9DN1QxVVZUdi03VmpndjZjZGJla2ltbE5JMk02QzZlUlM1X1d5cTF0Mm9DMHpLVGVleGtkMUtqZTBLLVg1SV9PYnlENkc4TFBBZGozVmIwSFpfdkkwRWx5SlQ1YWhsS3hrT1kzaXZpUFU5OVFZckFJcjdFc25OWUw4V05wZEJOUkVqSzFUaWFWeUtqcHFMeVdySVl0NGQ?oc=5",
-      "description": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann&nbsp;&nbsp;24vita",
-      "pub_date": "2026-03-07T03:49:21+00:00",
+      "description": "Bluthochdruck: Warum schon 120/70 mmHg riskant sein kann&nbsp;&nbsp;24vita.de",
+      "pub_date": "2026-03-07T03:49:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
@@ -106,42 +316,12 @@
       ]
     },
     {
-      "id": "9868a54360e9",
-      "source": "Il Messaggero",
-      "source_feed": "google_it",
-      "title": "Tumori, nel 2025 oltre 300mila nuovi casi: i cancri più diffusi, melanoma in aumento. Le donne sopravvivono di più - Il Messaggero",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2NEOFpsNFdpZXBhNzlDbkNvLXJDSTJ3cDZFNi00QmctbFNBUTVRazI1MWJGYWgxbzJOdGtna2N5dkRQUUVWUDJKZmlyeDdhQWFlTG9NRnItelJ0MW5nZGtIaTdCaXg3VU4xUW5WNVVFR1c0X2hpQlZXQ2s3WXpjZE5VVjF0WEdNSk9sUThqYXVDRDBpVUk1LU5FeWpzeHRqMm8zZ0NLRjlqNHR4?oc=5",
-      "description": "Tumori, nel 2025 oltre 300mila nuovi casi: i cancri più diffusi, melanoma in aumento. Le donne sopravvivono di più&nbsp;&nbsp;Il MessaggeroSchillaci, non abbassare la guardia sulla prevenzione dei tumori&nbsp;&nbsp;ANSAIN ITALIA CALA MORTALITÀ PER TUMORI: AIRTUM, \"SU REGISTRI REGIONI COME L'ABRUZZO ANCORA INDIETRO\"&nbsp;&nbsp;Abruzzo Web\"Qui c’è un’incidenza dei tumori più alta\". Parla il presidente dell’Associazione Registri&nbsp;&nbsp;La NazioneTumori in Italia: meno nuovi casi del previsto. E",
-      "pub_date": "2026-03-07T02:33:59+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "tumor",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
       "id": "d6db2ed4ec05",
       "source": "The Guardian",
       "source_feed": "google_uk",
       "title": "Weight-loss drugs alone will not solve UK’s obesity crisis, says Chris Whitty - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnVWbGFDWXpnVVlVOXpLMEwxMWFpb0pTUVM0cC14djI4RHBQTk9ob3BNVkhUUDFnLVVxUEV2eDh4NlJtNmlsc1dwaEI2NHlKU1BKYVpSWW5UZWMtRVI0ZzVoUU43UkFPXzhzTHlrYmxxMTNzVUNpalNhak1BX0ZkbFVubkdOdUh1dXE3VlhaRzBTdHAybmplMHQ1c2J4WTlkYmZoUmVENWF1bWhMLWEySHpB?oc=5",
-      "description": "Weight-loss drugs alone will not solve UK’s obesity crisis, says Chris Whitty&nbsp;&nbsp;The GuardianRelying on drugs to stop obesity would be 'societal failure', says Chris Whitty&nbsp;&nbsp;BBCChris Whitty: Relying on weight-loss jabs is a failure of society&nbsp;&nbsp;The TelegraphWeight-loss jabs alone are ‘the wrong answer’ to obesity crisis, Chris Whitty says&nbsp;&nbsp;The IndependentDoctor's warning to anyone thinking about using weight loss jabs&nbsp;&nbsp;North Wales Live",
+      "description": "Weight-loss drugs alone will not solve UK’s obesity crisis, says Chris Whitty&nbsp;&nbsp;The GuardianRelying on drugs to stop obesity would be 'societal failure', says Chris Whitty&nbsp;&nbsp;BBCWeight-loss jabs alone are ‘the wrong answer’ to obesity crisis, Chris Whitty says&nbsp;&nbsp;The IndependentChris Whitty: Relying on weight-loss jabs is a failure of society&nbsp;&nbsp;The TelegraphPeterborough Charity Warns of The Dangers of Weight Loss Injections for Those With Eating Disorders&nbsp;&",
       "pub_date": "2026-03-06T18:15:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -196,6 +376,66 @@
       ]
     },
     {
+      "id": "a5c83a0559a3",
+      "source": "Europa Press",
+      "source_feed": "google_es",
+      "title": "Un estudio usa el líquido cefalorraquídeo para estudiar la evolución de tumores cerebrales - Europa Press",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWVlPeUk2eDVxM21SUzZCSmlIa0lhQUhTOXhKaVJOTEk0RThuakZmbVZjQ1lmVzEyZlBCNXVidnRuRzRDT3NJUjcxMkhha21fWkljeGVxeEVNaUQzS2tSSm9pVk1HN0dScThHUVNCLXBNUnRUTGltOElTYzM0WkIzYjVwNlVVdEtQUjhEVVA5aHNFWHBKVmplaGs2bGFxMXEteFJFMmJfZVhsak80dVdCUm9TNl9Ba09KYVZZd2V3UnNrS1VsX1Q3OV9UMi15YktzQklPWg?oc=5",
+      "description": "Un estudio usa el líquido cefalorraquídeo para estudiar la evolución de tumores cerebrales&nbsp;&nbsp;Europa PressDecodifican las 'tuberías del cerebro': el líquido cefalorraquídeo, clave para entender y combatir los tumores&nbsp;&nbsp;El MundoLogran descodificar fluido cerebral para combatir tumores&nbsp;&nbsp;Noticias VenevisiónUn estudio revela que el líquido cefalorraquídeo permite seguir la evolución de tumores cerebrales&nbsp;&nbsp;CatalunyaPressDecodifican el líquido cefalorraquídeo para ",
+      "pub_date": "2026-03-06T17:37:44+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "d546e3563ff8",
+      "source": "hcm-magazin.de",
+      "source_feed": "google_de",
+      "title": "Neue Optionen in der Migräneprävention - 2026 - Aktuelles - hcm-magazin.de",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQmRnTnR1OHFyWm5YWFo4ZGpjempKUWdZdjRnZUFJTE52RV9ZeDE1WGVIQXJJUG42bGxIRDhqS3lDcWlkblVZRU5xVXZnN0l1WFUzZkVNSjBJSjl0NXIyZkNYWXFpOTV4UGU2ZVljcENpUnhFcWJuLUZNOG9kLUp4VnJGbUhQdkpJTHR3Wklxb20?oc=5",
+      "description": "Neue Optionen in der Migräneprävention - 2026 - Aktuelles&nbsp;&nbsp;hcm-magazin.deFortschritte in der Migräneprävention: Neue Therapien verbessern Lebensqualität&nbsp;&nbsp;Biermann MedizinMigräne. Oder: Wenn das Nervensystem beschließt, Revolution zu spielen.&nbsp;&nbsp;SteadyGLP-1-Medikamente: Neue Hoffnung für Migränepatienten&nbsp;&nbsp;it boltwiseBei chronischen Schmerzen: Forscher entdecken neue Wirkung der Abnehmspritze&nbsp;&nbsp;T-Online",
+      "pub_date": "2026-03-06T15:56:47+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "migraine",
+          "keyword": "Migräne",
+          "related_drugs": [
+            "abaloparatide",
+            "abiraterone-acetate",
+            "acetylsalicylic-acid",
+            "aclidinium-bromide",
+            "alpelisib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "abiraterone-acetate",
+        "acetylsalicylic-acid",
+        "aclidinium-bromide",
+        "alpelisib"
+      ]
+    },
+    {
       "id": "9566e88a1fc7",
       "source": "CHIP",
       "source_feed": "google_de",
@@ -223,6 +463,36 @@
         "aflibercept",
         "agalsidase-beta",
         "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "4652fdae75d7",
+      "source": "Il Sole 24 ORE",
+      "source_feed": "google_it",
+      "title": "Mal di testa: il 75% dei casi sotto controllo grazie ai nuovi farmaci - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnlkNGc1VWo4T0RCa2FmTHNDUUZUNktXXzNNNzdzR0pERExLdGlLNTFzTGpfS2ZpdkNsamRTcnhjR1lfZVNhR3ZKWTRQcjl6ZE9nY2xIOHJFalo4YU9FUHF6bVpCdEx4dFd2OE1QRnlyaEVlc0o3UFVzNFp5Y2NqTDRGMVFCREhlaVpXQk9PT29uWG5zR2lzUVJvelRSMTZLYldpY05n?oc=5",
+      "description": "Mal di testa: il 75% dei casi sotto controllo grazie ai nuovi farmaci&nbsp;&nbsp;Il Sole 24 OREEmicrania, donne più a rischio: come affrontare le forme più difficili grazie alle nuove cure&nbsp;&nbsp;DiLeiIl ‘botox’ non serve solo ad apparire più belli: “Aiuto concreto contro l’emicrania cronica”&nbsp;&nbsp;Agenzia DireIL SOLE 24 ORE * SALUTE: «MAL DI TESTA: IL 75% DEI CASI SOTTO CONTROLLO GRAZIE AI NUOVI FARMACI&nbsp;&nbsp;agenziagiornalisticaopinione.it",
+      "pub_date": "2026-03-06T14:19:29+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "migraine",
+          "keyword": "emicrania",
+          "related_drugs": [
+            "abaloparatide",
+            "abiraterone-acetate",
+            "acetylsalicylic-acid",
+            "aclidinium-bromide",
+            "alpelisib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "abiraterone-acetate",
+        "acetylsalicylic-acid",
+        "aclidinium-bromide",
+        "alpelisib"
       ]
     },
     {
@@ -291,7 +561,7 @@
       "source_feed": "google_es",
       "title": "SEOM advierte del incremento de casos y muertes por cáncer de pulmón en mujeres - Servimedia",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVUwN2VMLVpZd0ZUQ0R5Q2dmX0d0aHpKTDJLMm9LQnBnc0FmczVhcTR0bU94SUZNR0dqc2Z5V3NtQlNTeExZZDhnMmRWRGwwV0t4RG9CS3pOQnBUSDRkQS13Mk9CY1JkVWZ3bXJBUThRaEdsaER5QzhZbmpVVUhNeEpYLTZRbER4LWwtRk05czdwUkFTcVlKTnZFUzlQcjdFUjl3dVRHN0hvUQ?oc=5",
-      "description": "SEOM advierte del incremento de casos y muertes por cáncer de pulmón en mujeres&nbsp;&nbsp;ServimediaEl cáncer de pulmón es el tumor más letal entre mujeres españolas con más de 6.800 muertes al año&nbsp;&nbsp;El PeriódicoEl cáncer de pulmón en mujeres aumenta: principal causa de muerte por tumor femenino&nbsp;&nbsp;consalud.esEl cáncer de pulmón, el tumor más mortal entre las españolas con más de 6.800 fallecimientos anuales, según la SEOM&nbsp;&nbsp;Demócrata",
+      "description": "SEOM advierte del incremento de casos y muertes por cáncer de pulmón en mujeres&nbsp;&nbsp;ServimediaEl cáncer de pulmón es el tumor más letal entre mujeres españolas con más de 6.800 muertes al año&nbsp;&nbsp;El PeriódicoEl cáncer de pulmón en mujeres aumenta: principal causa de muerte por tumor femenino&nbsp;&nbsp;consalud.esLa SEOM advierte de más casos y muertes por cáncer de pulmón en mujeres&nbsp;&nbsp;Diario Siglo XXIEl cáncer de pulmón, el tumor más mortal entre las españolas con más de ",
       "pub_date": "2026-03-06T13:03:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -433,7 +703,7 @@
       "source_feed": "google_uk",
       "title": "Ozempic-Like Drugs Linked With Lower Risk of Substance Addiction - ScienceAlert",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHFUcGtGU1doc1hTQU1DeGItMUtMT0pzY1Rqem9ORVRTT1Q4czlKUUctaHhmekoyOUJDeFhoUnNlNks0QTgzTElOODB5NGpJUW1wRjZ1dk1JMWthampVX0xFc21zSVdnSW82TkR4X3lqNXMxSl9mZnV4bmp1NW5XYUR3Zi1RUWl5a2IyLXNMWl9wb19ha2pHMw?oc=5",
-      "description": "Ozempic-Like Drugs Linked With Lower Risk of Substance Addiction&nbsp;&nbsp;ScienceAlertObesity jab users show lower risk of alcohol and drug addictions&nbsp;&nbsp;Financial TimesGLP-1 drugs may fight addiction across every major substance, according to a study of 600,000 people&nbsp;&nbsp;The ConversationWeight loss drugs may stop people getting addicted to drugs and alcohol, study finds&nbsp;&nbsp;The GuardianCould popular weight loss drugs become the new treatment for addiction? Evidence is s",
+      "description": "Ozempic-Like Drugs Linked With Lower Risk of Substance Addiction&nbsp;&nbsp;ScienceAlertGLP-1 drugs may fight addiction across every major substance, according to a study of 600,000 people&nbsp;&nbsp;The ConversationWeight loss drugs may stop people getting addicted to drugs and alcohol, study finds&nbsp;&nbsp;The GuardianObesity jab users show lower risk of alcohol and drug addictions&nbsp;&nbsp;Financial TimesCould GLP1 become a universal fix for addiction?&nbsp;&nbsp;Thred Website",
       "pub_date": "2026-03-06T12:03:08+00:00",
       "matched_drugs": [
         {
@@ -524,36 +794,6 @@
       ]
     },
     {
-      "id": "13afe618adc8",
-      "source": "CHIP",
-      "source_feed": "google_de",
-      "title": "Krebsforscherin überrascht mit Aussage: Dieses Alltagsgetränk ist riskanter als Softdrinks - CHIP",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaTJWRnRsWGJMeGxYSktsS1VFcWdqYlA1NkpWVmVmTkd5bmEwRV9jV25vRHR2eDRxeUpNVUFfY0F2VFNROHVSYTgzLV9IUkxrdE5jSEo5NUNrb01PUnNTTmlIdVdlTEtJRFlNS2tQdGtLbHd4Ry1zak1tZWxqQW5HT0hsbkxrN0k3S2Y2Z0VjYlJKeFhpXzZXYTZzcVdtMDJ2eGNNMFBmOVhhS2tMVkpDTWZ2aDdoSU8tdlAtTWRCV2phODhqa2F1NHY2djhsLTVwdU83XzJxcjhWVVFvNnhwOW9CMVF4YzVueXdkQmxNSGJPWEpfVWF2NG9ZaU03ZWJTR0lZbUpiRkI?oc=5",
-      "description": "Krebsforscherin überrascht mit Aussage: Dieses Alltagsgetränk ist riskanter als Softdrinks&nbsp;&nbsp;CHIP",
-      "pub_date": "2026-03-06T11:30:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "Krebs",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
       "id": "6c849512f0eb",
       "source": "IM Médico",
       "source_feed": "google_es",
@@ -584,6 +824,36 @@
       ]
     },
     {
+      "id": "db601ea73d66",
+      "source": "France 24",
+      "source_feed": "google_es",
+      "title": "Japón aprueba el primer tratamiento mundial con células madre para el párkinson - France 24",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc2NHeXZubUpQUHlaY041VXgwWDBnU3lnTjVMQjVfRk5LVDY3MWJ6dEhQc0VtOF8yMkJMU0duaHJhTUltYmlfZHJlNG9UUWtoNUNoWGJsbFFYZUlNbWtTSVdkYXN2RXVhU0FPQXRMMVVJcndOVTU4QUxBNWxUS1RLd3JBd0xsMzhIWjlsaVZJcG0wUk9kNlNYX3ZBanp4VEE0NXpGWGNrbFBvR3ByZGlUTmRsZGVOeEJzZzVady1HOG1xdTdnaXRPRkxfa2F5U1BRV044Zl90dE9YNnhnY1JmLQ?oc=5",
+      "description": "Japón aprueba el primer tratamiento mundial con células madre para el párkinson&nbsp;&nbsp;France 24Japón aprueba el primer tratamiento con células madre para el párkinson&nbsp;&nbsp;Redacción MédicaJapón aprueba tratamiento para la enfermedad de Parkinson&nbsp;&nbsp;DW.comLuz verde: Japón autorizó tratamiento con células madre para retrasar el Parkinson&nbsp;&nbsp;hsb noticiasJapón autoriza primeros fármacos con células iPS para párkinson y corazón&nbsp;&nbsp;Noticias Venevisión",
+      "pub_date": "2026-03-06T10:39:15+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "parkinson disease",
+          "keyword": "enfermedad de Parkinson",
+          "related_drugs": [
+            "botulinum-toxin-type-a",
+            "carbidopa",
+            "entacapone",
+            "levodopa",
+            "opicapone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "botulinum-toxin-type-a",
+        "carbidopa",
+        "entacapone",
+        "levodopa",
+        "opicapone"
+      ]
+    },
+    {
       "id": "7134d120df25",
       "source": "Deutsches Ärzteblatt",
       "source_feed": "google_de",
@@ -611,6 +881,36 @@
         "angiotensin-ii-acetate",
         "anifrolumab",
         "belimumab"
+      ]
+    },
+    {
+      "id": "15db48735d2b",
+      "source": "El Periódico",
+      "source_feed": "google_es",
+      "title": "Un nuevo anticoagulante experimental muestra resultados prometedores para prevenir la recurrencia del ictus - El Periódico",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOTk2c1ZIRVE4OURjQWJPOWFVRWswdjQtelN4RDZOMHF5eDR4a1hyN2pnSGpmeHVUYW1iX09wQU1zVThTVW94WFQtU25QQTR4RU9wX2RJTDV1WllOdXh5WjFzdVphSnJWLV84d0Y5eEphRjZqM2RGVXpRLXN0TjVwX1VNTVFJZGtDM25OeFpHZkppbW9LMzFuVWR4aW1HNDk4ZDlFdXF0RdIBpwFBVV95cUxObjhOYl9KTi1jeTZCejhlUWRlYl9Jakh5S2dHUHYtX3RkVVhXUlZYWFE5UV9XSnlfNnhDaGh2NnlRT1I0amZMUzdlNTVZcG9uT2V0bFpUREFuNUNscGpZUndhME80UVo4U0ZlSVg2bEhnVnlHbWtwOS1SaTRYbFVjWERIUTNsbFQ0NDh1b0lRcUR1Vi1rT3pXWldGOXZsWnhHX3VHY3NIUQ?oc=5",
+      "description": "Un nuevo anticoagulante experimental muestra resultados prometedores para prevenir la recurrencia del ictus&nbsp;&nbsp;El PeriódicoAsundexian reduce un 26% la recurrencia de ictus isquémico sin aumentar el riesgo de sangrado&nbsp;&nbsp;iSanidadLideran un ensayo de un fármaco para que el ictus no repita&nbsp;&nbsp;La Tribuna de Albacete",
+      "pub_date": "2026-03-06T09:55:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "stroke",
+          "keyword": "ictus",
+          "related_drugs": [
+            "aliskiren",
+            "amlodipine",
+            "avanafil",
+            "azilsartan-medoxomil",
+            "dronedarone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "aliskiren",
+        "amlodipine",
+        "avanafil",
+        "azilsartan-medoxomil",
+        "dronedarone"
       ]
     },
     {
@@ -649,7 +949,7 @@
       "source_feed": "google_es",
       "title": "Especialistas del Área de Obesidad de la Clínica Universidad de Navarra destacan la importancia del abordaje multidisciplinar de esta patología crónica - Diario de Navarra",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNa2JFUEdqNDBOdkhYVFZyZnJtT01MWm9UbmhKYkFGUjhIcklWdUx4WG5YQ2cxYVFOay1FTm1yVXQwSE1ZdmtSLV9hSTlBMEpCaFVVS1d5Umowc1FISHlEMGYwZktncWpVcEt4NWZUeV81dG5yOGRlenNBc0ZGaDFZb2V5dkswVE50TldpalhudkNBTG4zYjRkVWQ3WWVVbjk0SW5Ncmd1ci1HMEZkeWNWR2N2Q2RsejVldDdFRHBLdUd1dzhnVmtGcV9GVDVfSTZGMnNmSzQ2QWhVaExGVGJHb3l1WC1nLWpYNnBUSEVWNkhCWmx0bnl1WldHWFNYUDBMTTZVZDV6WU9rdFJZUzQ0WTlJZGp1ellBUjJGN0lvTQ?oc=5",
-      "description": "Especialistas del Área de Obesidad de la Clínica Universidad de Navarra destacan la importancia del abordaje multidisciplinar de esta patología crónica&nbsp;&nbsp;Diario de NavarraInterna analiza el riesgo de reingreso y mortalidad asociado a obesidad&nbsp;&nbsp;Redacción MédicaManuel Botana, endocrino del Hula: \"Todavía no se acepta totalmente que la obesidad es una enfermedad\"&nbsp;&nbsp;El Progreso de LugoEl sobrepreso y la obesidad: una enfermedad crónica que afecta a seis de cada diez ciuda",
+      "description": "Especialistas del Área de Obesidad de la Clínica Universidad de Navarra destacan la importancia del abordaje multidisciplinar de esta patología crónica&nbsp;&nbsp;Diario de NavarraInterna analiza el riesgo de reingreso y mortalidad asociado a obesidad&nbsp;&nbsp;Redacción MédicaManuel Botana, endocrino del Hula: \"Todavía no se acepta totalmente que la obesidad es una enfermedad\"&nbsp;&nbsp;El Progreso de LugoLos médicos rehabilitadores piden priorizar la agilidad y el dolor sobre el peso en la o",
       "pub_date": "2026-03-06T09:41:58+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -704,36 +1004,6 @@
       ]
     },
     {
-      "id": "4c2e10b70078",
-      "source": "Frankfurter Rundschau",
-      "source_feed": "google_de",
-      "title": "Therapieresistenter Brustkrebs offenbart überraschende Schwachstelle - Frankfurter Rundschau",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0tzdVBmWkFIRllJQU8zcjd0aUZGX3JIMmxxSS1fZ3Jvc3VTQ1E5aEJSTGQ0QWdrZm5HRlJickdUQ1BHUFZUMFcwal82dndJUm5aZXlYeGNkdmZYWDFteHVzWVhiT0NsWlJYaFFNM2V5NDBOeFR2eXZGY1VGUFpqTW4wT0ZQTVpnM25taUZOSXRuNHVJTU9rZjVBQkg2ZEhaVF9RZWQxUzhPWldrc0FjSw?oc=5",
-      "description": "Therapieresistenter Brustkrebs offenbart überraschende Schwachstelle&nbsp;&nbsp;Frankfurter Rundschau",
-      "pub_date": "2026-03-06T08:43:17+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "Krebs",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
       "id": "6e33767c9bd7",
       "source": "Yahoo Life France",
       "source_feed": "google_fr",
@@ -769,43 +1039,13 @@
       "source_feed": "google_uk",
       "title": "We’re cancer doctors. These are the symptoms most people overlook - The Telegraph",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzBFY3RVcUJfSnBfLTFrMkFvNk1ndS1GcDdHY3RLY3JqU183MFNXWERwUHNiTWRONWtudTJvMl8xeks1em90b0ZpX3BrY2xfQnNqSlBwZjFsSHQtallEMzdSYW12Z2RIM3pkS1owaTJDUFNFeENVM3pxVXdfNHliRjFmdnhqR0lTLUdkWDVUeW8yUQ?oc=5",
-      "description": "We’re cancer doctors. These are the symptoms most people overlook&nbsp;&nbsp;The TelegraphDoctors Reveal the Sneaky Early Cancer Symptoms Women Often Miss&nbsp;&nbsp;Woman's WorldTiredness that 'doesn't go away with rest' could signal cancer&nbsp;&nbsp;Cambridge NewsCoughs, Lumps and Fatigue: An Oncologist Explains the Cancer Symptoms You Should Never Ignore&nbsp;&nbsp;Men's HealthOncologist explains cancer symptoms under 50s must 'never ignore' - full list&nbsp;&nbsp;The Mirror",
+      "description": "We’re cancer doctors. These are the symptoms most people overlook&nbsp;&nbsp;The TelegraphDoctors Reveal the Sneaky Early Cancer Symptoms Women Often Miss&nbsp;&nbsp;Woman's WorldCancer warning as common symptom that 'doesn't go away' could be signal&nbsp;&nbsp;Cambridge NewsCoughs, Lumps and Fatigue: An Oncologist Explains the Cancer Symptoms You Should Never Ignore&nbsp;&nbsp;Men's HealthOncologist explains cancer symptoms under 50s must 'never ignore' - full list&nbsp;&nbsp;The Mirror",
       "pub_date": "2026-03-06T08:00:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
           "name": "cancer",
           "keyword": "cancer",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
-      "id": "597b4e674d19",
-      "source": "Infosalus",
-      "source_feed": "google_es",
-      "title": "Una sola inyección contra el Alzheimer: crean una terapia que elimina placas cerebrales en ratones - Infosalus",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMFAzOWxMb2NfOU44SWxSNDktY2hEaWQxUjBFcDFNcFFLZ2lPWmQ2N1RKWTlxemkxd1Zlbi1DRWR4RkJXd0dyakZ2cEptYU9PcE1lVXV6eGl4eU5sS3BpSkpjZmNuNmxVbDFRNHhTVVpOX1JDQXFyYzJ6cHhkZDNFeXhIazhuMFhxa0ZVOTVIbmg4VTRheUFkQ25yZE0yOEt1UEFBYkpsd0pPLTNzMmdwX3IzbzNwN2hhTVZmVmJrZ0V1OTNxcGlNSml4aHAwbV9LbzM5am5OajU?oc=5",
-      "description": "Una sola inyección contra el Alzheimer: crean una terapia que elimina placas cerebrales en ratones&nbsp;&nbsp;InfosalusLa terapia CAR que ya se emplea con éxito frente a algunos tumores se explora también contra el alzhéimer&nbsp;&nbsp;El MundoAvance contra el Alzheimer: prueban con éxito una inmunoterapia que frenó y revirtió la enfermedad en ratones&nbsp;&nbsp;Infobae¿Una sola inyección para curar el alzhéimer? Una terapia probada en ratones revela que sería posible&nbsp;&nbsp;La Voz de Galici",
-      "pub_date": "2026-03-06T07:13:28+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "tumor",
           "related_drugs": [
             "acalabrutinib",
             "afatinib",
@@ -854,63 +1094,25 @@
       ]
     },
     {
-      "id": "e8e025b8dddf",
-      "source": "Investing.com España",
+      "id": "5fdd213466ef",
+      "source": "labmedica.es",
       "source_feed": "google_es",
-      "title": "Japón da luz verde a la comercialización de los primeros medicamentos con células iPS Por EFE - Investing.com España",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUlpoOGNkNWIwYnBhNFZ1YVJFeDVPUEl6aElGV0pMMncwVFBOQkVCNzBkcmRVNDR6NFI3RzlsRmVFQ3BlRzdISXlVX1ZCN0o2bU5FTkxleDdudWhlOG9rT0VYSTVMSUNWT1pJZXhOLVFneXMxaU1WdE52ZjF4b1RJSFltcEhFdHN4TWJ1ZGdXbU0zLXZTYW1HTzN2Z3JkVDRRNHpqZWdpNTZ4SlRqZmJkMEFpcUFmdzFwV29FT3NaR09vb1V1eU1abmViUkQ1VG9EWi1uOF9iVDA?oc=5",
-      "description": "Japón da luz verde a la comercialización de los primeros medicamentos con células iPS Por EFE&nbsp;&nbsp;Investing.com EspañaJapón aprueba el primer tratamiento con células madre para el párkinson&nbsp;&nbsp;Redacción MédicaJapón aprueba tratamiento para la enfermedad de Parkinson&nbsp;&nbsp;DW.comJapón: Medicamentos derivados de células IPS aprobados por primera vez en el mundo&nbsp;&nbsp;Agenzia NovaLuz verde: Japón autorizó tratamiento con células madre para retrasar el Parkinson&nbsp;&nbsp;h",
-      "pub_date": "2026-03-06T01:21:00+00:00",
+      "title": "Método basado en microARN predice la enfermedad renal crónica y riesgo cardiovascular - labmedica.es",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc3hEMjZuWnQzSXNUMlpLLXUtRnFrYXE3OFdOWG1XREtGa2RWbEpydDJvR2VlNGxFZmhzWjhrenVxbHVzaTJFUW9ibWNSZzBwS2xRWko2LVFLanZWY3ozOEFScTlLR08zUmNzTHlqOS1VOWNCTlBRMjhHcWllUEZaUWdxcHJBTG1EMTZkQzBHd2dCN0kwVDQ1Yl9yLWM3MC05SjhmSnhUSWlUaW1HU3c0Z0MxWDNYbXdldUp2RkR3dmV2Y3FCeGFHY2VJN1JUWW5PVi00bFYtNFpuZjE4SGdzVnRaZ3ZCZzjSAfYBQVVfeXFMT0dUWnEzU3dlQV84NlhPQmc3ZXptM29BbzIzQ3VhT1A1UjIxdnZLR2ZObERMaG5SeUozdFdpWDFJVGxIR19CWjFmWnFZV2QxQUlqdy1tVTJDQ2ctSjNGVVV6NEo0UFN2SDN6VFhXZHlmdGZTSjExaXBUMlBiaXNZYW0zbHVUZFBUaXBEcGt0WDlOTzRmekE2c3BkTlF1U0NGUmhTNDJ6dXVhT3hPMFNneTZvT3JFTHdPN0hIZWZWUWJMMkdVS3g2aDhacHRuYkg5aFV5cU1xSkM2U3B4cHhOcU5veDhTckNVQzJpNS12Y1M4bG8yelBn?oc=5",
+      "description": "Método basado en microARN predice la enfermedad renal crónica y riesgo cardiovascular&nbsp;&nbsp;labmedica.esEl análisis que podría anticipar infartos en pacientes renales extremeños&nbsp;&nbsp;El Periódico ExtremaduraUna investigación extremeña halla la clave para predecir el riesgo cardiovascular en pacientes renales&nbsp;&nbsp;COPEInvestigadores de la UEx crean un modelo para predecir riesgo cardiovascular&nbsp;&nbsp;Radio InteriorIdentifican un nuevo biomarcador para predecir el riesgo cardi",
+      "pub_date": "2026-03-06T02:16:00+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
-          "name": "parkinson disease",
-          "keyword": "enfermedad de Parkinson",
+          "name": "chronic kidney disease",
+          "keyword": "enfermedad renal crónica",
           "related_drugs": [
-            "botulinum-toxin-type-a",
-            "carbidopa",
-            "entacapone",
-            "levodopa",
-            "opicapone"
+            "alirocumab"
           ]
         }
       ],
       "related_drugs": [
-        "botulinum-toxin-type-a",
-        "carbidopa",
-        "entacapone",
-        "levodopa",
-        "opicapone"
-      ]
-    },
-    {
-      "id": "a0cb983e4c94",
-      "source": "Daily Mail",
-      "source_feed": "google_uk",
-      "title": "My husband died at just 33 after health chiefs rejected revolutionary treatment for deadly bile duct cancer... he'll never see his son grow up and I don't want other families to suffer like ours - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWdKQjFrWXN0WDJxVUVMNVFldEhWVHBFRHRlTjdnc2wwVG0zYXBraV85enp6Q2F4RFhMZFhsbldpbTBEaURZMlptbVZ6MXQ3Rm9iVmdDVXdmck5MT2hySFJoT1ZIT1dmbFR3cUNRaEl0VjdpQ2Rxa0N1SkZLWnNpOUwxc0NwampMdWdDdHJuZC13RjB3YkdIcENHNHM3c0hWNEI2ME1UZ9IBrAFBVV95cUxPbHhBamdmT2h4TTFVZTF6Mjh2cXIxYmVSR3B3dHo2a3NrV1ZqSHRqS1ZvVUc2RUxNdmhscWRVb2JXVDVEMHhfR2d6cXFxWU9FUU1TaXV6NHBha0Zma3ozeVR0YVZQQ2ptTVBsVFN3TWN1dTRsVE1OUnNyOTFoaHVNeTRsakttNE4taUl1eDNuakZ3bXZ3em1xc3RXQkF4QzFPQkZSUm02Wi1oNENh?oc=5",
-      "description": "My husband died at just 33 after health chiefs rejected revolutionary treatment for deadly bile duct cancer... he'll never see his son grow up and I don't want other families to suffer like ours&nbsp;&nbsp;Daily MailView Full coverage on Google News",
-      "pub_date": "2026-03-06T00:01:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
+        "alirocumab"
       ]
     },
     {
@@ -1010,50 +1212,44 @@
       ]
     },
     {
-      "id": "bece4c25e6e2",
-      "source": "Le JSL",
-      "source_feed": "google_fr",
-      "title": "Paray-le-Monial. Cancer colorectal : une journée de dépistage pour tous - Le JSL",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0dJRUptWGhxOUFiNGhTeGxmRnQ2TnNfZzFEU1FoMFRlWmZna3FEUDlVV0lHR2hvZFBGMG00dWRWdk5IUVZFSTdEczFLM1Qtd0xqTkJneXVTLVpCdXRIamNRRERDN0tHTkZMN01EYjZnckFTdjVPTzROQVZDZjR3SG5MNUlaaWtyU3JNZkpwSFE1RGoxUWc?oc=5",
-      "description": "Paray-le-Monial. Cancer colorectal : une journée de dépistage pour tous&nbsp;&nbsp;Le JSL4000 personnes vont découvrir qu'elles ont un cancer colorectal dans cette région : le test à faire&nbsp;&nbsp;Journal des Femmes SantéCastelnaudary. Mars bleu : le Côlon Tour refait étape dans notre ville&nbsp;&nbsp;ladepeche.frSaint-Hélier. La commune s’est mobilisée pour Mars bleu&nbsp;&nbsp;Le Bien PublicCherbourg : une grande tombola avec 3 200 € de lots à l’occasion de Mars bleu&nbsp;&nbsp;Actu.fr",
-      "pub_date": "2026-03-05T16:59:42+00:00",
+      "id": "5d7d3d4d86eb",
+      "source": "ScienceAlert",
+      "source_feed": "google_uk",
+      "title": "Microplastics May Be Fueling Parkinson's Disease, Scientists Warn - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTBPYUc2Z1RocHM2a3FfUDdYRjBZZHd1RThuLWtqOWI3VVR2bldfU0Vlc2pLN0NKSHV2MWVvNXdpaGhrclNDMXFlMEFrR05FS3ZHLUVQNDg2U3BjMm1zOXQ4NWhNXzJjLUpVcE0tSDdTV3lJNEJqZ09qNDVqOFY3UGo3MnBNUmpGMlZUdk93MTFSWWV3MmJn?oc=5",
+      "description": "Microplastics May Be Fueling Parkinson's Disease, Scientists Warn&nbsp;&nbsp;ScienceAlertResearchers propose that Parkinson’s disease may start in the gut, not the brain&nbsp;&nbsp;News-MedicalGut Microbe Faecalibacterium prausnitzii Linked to Improved Motor Skills in Parkinson’s Patients&nbsp;&nbsp;geneonline.comNew possible cause of Parkinson's discovered as experts race to answer why rates have doubled&nbsp;&nbsp;MSNScientists warn that microplastics may be causing Parkinson's disease&nbsp;&n",
+      "pub_date": "2026-03-05T18:03:06+00:00",
       "matched_drugs": [],
       "matched_diseases": [
         {
-          "name": "cancer",
-          "keyword": "cancer",
+          "name": "parkinson disease",
+          "keyword": "Parkinson's",
           "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
+            "botulinum-toxin-type-a",
+            "carbidopa",
+            "entacapone",
+            "levodopa",
+            "opicapone"
           ]
         }
       ],
       "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
+        "botulinum-toxin-type-a",
+        "carbidopa",
+        "entacapone",
+        "levodopa",
+        "opicapone"
       ]
     },
     {
-      "id": "84adfe7bceb9",
-      "source": "Infosalus",
+      "id": "7bf3bfce930d",
+      "source": "Vértigo Político",
       "source_feed": "google_es",
-      "title": "La OMS destaca los tratamientos GLP-1 como herramienta clave frente a la obesidad global - Infosalus",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTkNaTGxWSGVpRTRGUUZzNzhxai1TdkswY1c0UGVPX21sSlJiNmZMeUVLajd3Q0FpRVNDUzVCVUdjTzhPNTBabWF1NWd1Sm93VjlTNXZOc01aQlA5UlBhTkUwdG90YWJwcWsyLUljZE1EZEJMSFZJQndKcGk4aDdMZzNFR3VQQUFqb19zSC00MnJJVW80TmZXQzZ5THVlOHJlcVJESkloOW9YMUZKMmFtNWRkSU56b2Rac09kblQyNGFGUjF6QkV3bVdRQjlxV1k?oc=5",
-      "description": "La OMS destaca los tratamientos GLP-1 como herramienta clave frente a la obesidad global&nbsp;&nbsp;InfosalusLa gran letra pequeña de los pinchazos para adelgazar: un lagarto nos dio el Ozempic, Oxford nos devuelve a la báscula&nbsp;&nbsp;El ConfidencialLos fármacos contra la obesidad son sólo una parte de la solución&nbsp;&nbsp;AtresmediaDieta y ejercicio ya no bastan: así cambia el tratamiento de la obesidad&nbsp;&nbsp;Diari de TarragonaDel yoyó a la desescalada, los nuevos retos de la obesida",
-      "pub_date": "2026-03-05T14:57:50+00:00",
-      "matched_drugs": [
-        {
-          "name": "Semaglutide",
-          "slug": "semaglutide",
-          "url": "/drugs/semaglutide/"
-        }
-      ],
+      "title": "El papel de las emociones redefine el tratamiento de la obesidad - Vértigo Político",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV3F5TEw0QXo0V01lcHpHMDdMRS12bldtNk5zQ3BDU19wdGtyTDRTZnFxU3oxbVVFdUJqd0U1THBZSHVsajNsWEhFUWM2OXZubkRiYVdjcnh4YjNuaXB0SFVJX2FsTWNSZFN4cWtEb1FyZ2VreFpjMmdPWVlxVU5KdWxrX1lYREJXcGFEbmNBY1lrRmVoVENfbE5FYVNVZEFlNlM0U2ZuV3RFUVU?oc=5",
+      "description": "El papel de las emociones redefine el tratamiento de la obesidad&nbsp;&nbsp;Vértigo PolíticoLa obesidad, una enfermedad crónica que precisa un abordaje integral y libre de falsos mitos&nbsp;&nbsp;La VanguardiaEL AYUNTAMIENTO ABORDA LA NECESIDAD DE PROMOVER EL BIENESTAR FISICO Y MENTAL PARA QUE LAS PERSONAS CON OBESIDAD LLEVEN UNA VIDA MÁS SALUDABLE&nbsp;&nbsp;Bilbao.eusEl 18% de los niños y niñas de la Comunitat Valenciana sufre obesidad&nbsp;&nbsp;Cadena SEREspecialistas alertan: obesidad eleva",
+      "pub_date": "2026-03-05T16:30:00+00:00",
+      "matched_drugs": [],
       "matched_diseases": [
         {
           "name": "obesity",
@@ -1068,52 +1264,6 @@
         }
       ],
       "related_drugs": [
-        "bupropion",
-        "fenfluramine-hydrochloride",
-        "lasmiditan-succinate",
-        "melatonin",
-        "naltrexone"
-      ]
-    },
-    {
-      "id": "8a93306c0637",
-      "source": "MARCA",
-      "source_feed": "google_es",
-      "title": "La mala alimentación infantil ya no es solo por falta de comida: también lo es por exceso de ultraprocesados - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWhIRkg3NDNFamx6TDRMakJsZTlQdEllTUFvdmt6UHE2bmExUDZmOXNYVHpwM1djeFFHNzFmc0xRc1o4d1h3X0FFbEhxelB5NnR6N29WSktHZU9nX2VKekRhVG1BdzBmbV9wLVV0YTdYNzAwTG5SWlJxYndHR3Z0bDZtcnc1aUZ0a0liYnhReUNidVRhMU8xalIta2xyOGJQS3hrUmo4T3ZMcWxNRURabHRjbWRrZThPenJQWDlKV2dqY0JYenYxV3ZUSdIBywFBVV95cUxPOXo5SWVCRkJNUFZvTmxLNFhubEJRY0tYUDNtdFZkcjV5SnVoQXZoZzlmWGZ5OGNZYkV3NS1iLTI2SEFjdkhObnZWbDAyd3dzTlFQakgzMzAyOUc2b0QtQ0FBUGdQWDJwbDVPSmh6R0NXT04zNU8zaTJxM3hJd2JmNkc5dXlPUWVJamdzeFN3UW84aktCOWM0d2hxTk5zM05hbjVFdGpJTTNUVVMyMXRpRlRQdUxvaGdCdTV0b1M1UThtVmlNUUVIMXJrSQ?oc=5",
-      "description": "La mala alimentación infantil ya no es solo por falta de comida: también lo es por exceso de ultraprocesados&nbsp;&nbsp;MARCAGontrand López-Nava, médico especialista en obesidad: \"No basta con inyecciones para adelgazar, se trata de cambiar la nutrición y contar con apoyo psicológico\"&nbsp;&nbsp;El MundoHipertensión, hígado graso... más de 2,1 millones de niños y adolescentes españoles tienen obesidad o sobrepeso&nbsp;&nbsp;El PeriódicoLa obesidad infantil se dispara en España: afecta a 2,1M de ",
-      "pub_date": "2026-03-05T14:38:39+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "hypertension",
-          "keyword": "hipertensión",
-          "related_drugs": [
-            "abiraterone-acetate",
-            "aliskiren",
-            "alpelisib",
-            "ambrisentan",
-            "amlodipine"
-          ]
-        },
-        {
-          "name": "obesity",
-          "keyword": "obesidad",
-          "related_drugs": [
-            "bupropion",
-            "fenfluramine-hydrochloride",
-            "lasmiditan-succinate",
-            "melatonin",
-            "naltrexone"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "abiraterone-acetate",
-        "aliskiren",
-        "alpelisib",
-        "ambrisentan",
-        "amlodipine",
         "bupropion",
         "fenfluramine-hydrochloride",
         "lasmiditan-succinate",
@@ -1127,7 +1277,7 @@
       "source_feed": "google_it",
       "title": "Migliora la glicemia e la salute del cuore: quante ore digiunare prima di andare a dormire - il Giornale",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMTNzcGpBbGEyVnNMSFJTSjd4Wlh4YjR2TGo5SDhfTzBRbnNZZDEzN0VhV2lMTkJuLXVHc3gtT0NEYjVaV1hUOERhT2phUVVjYUxaeks5M3lTTzRuRkU5cFF4d1hSRXBqR2RPVW5vVkozaFVTMEg0R1FtLUwyVkpQeng1d3VvYkN5YVNWdHdveGhSV3ZJcUNVdWlTU2x5ekt0YzNXQ1dLcXB3Q1VtbFNIdXhucWQ?oc=5",
-      "description": "Migliora la glicemia e la salute del cuore: quante ore digiunare prima di andare a dormire&nbsp;&nbsp;il GiornaleQuante ore dormire per proteggersi dal diabete? La durata ottimale del sonno per scongiurare il rischio di insulino-resistenza&nbsp;&nbsp;Il MessaggeroIl diabete si combatte anche con il buon sonno&nbsp;&nbsp;AGIQuante ore dormire per proteggere il metabolismo? “Sette ore e diciotto minuti”&nbsp;&nbsp;sanitainformazione.itIl sonno contro il diabete, quanto dormire secondo la “formula ",
+      "description": "Migliora la glicemia e la salute del cuore: quante ore digiunare prima di andare a dormire&nbsp;&nbsp;il GiornaleQuante ore dormire per proteggersi dal diabete? La durata ottimale del sonno per scongiurare il rischio di insulino-resistenza&nbsp;&nbsp;Il MessaggeroIl diabete si combatte anche con il buon sonno&nbsp;&nbsp;AGIDormire bene allontana il diabete, ecco quanto deve durare il sonno: l'ora 'esatta'&nbsp;&nbsp;AdnkronosQuante ore dormire per proteggere il metabolismo? “Sette ore e diciotto",
       "pub_date": "2026-03-05T14:12:41+00:00",
       "matched_drugs": [],
       "matched_diseases": [
@@ -1149,47 +1299,6 @@
         "angiotensin-ii-acetate",
         "anifrolumab",
         "belimumab"
-      ]
-    },
-    {
-      "id": "43b99fa84980",
-      "source": "Europe 1",
-      "source_feed": "google_fr",
-      "title": "Nouveaux traitements anti-obésité : une étude appuie un possible effet contre les addictions - Europe 1",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0poMHllVkNJMkVLQURucHR6RUtScFRHSXhINm9KYXd2S0RUOWliVU5mbm1ueDl4UnBoajQxay1PR0Zva29jODE5c25pYkc4MjFTUWtlbC1Ha19od3RrQjRuQmx4aXBLd2lnVHNhbFIybTVhMFRub0VwMEk5TlRjbGliXzg5dWRKTjBwdkFSekRrOWlhbWlCN3YxZUUzRlQ2ZVgzbGRDLTUzUTJCR0pKeTEtSlRMdUVHUC16ZHJQT2cxZXh60gHKAUFVX3lxTFA5TDJfUjlRZmxuNXRxWUpyazExQWVGR1I1YkRWX2VCTEl1NWJDd2dlSmFNcFNIYnBHUWEweWhPcVF0QXI3SjZqU0hOVFEzUlljM1VCT2lSbWlDOFJ0dVVfM256RlYzWmhTbjRSUHJ3aG9LdkRqQ09udnV2WG5RU3Q5YlZkTE9FU1lDRHNBWjZ3b0hYQ1c5X1I1NXFYRXF3cjFRaU80d2dkTmFIanExdUVTZENBVTF2RVFhckRSZXdxSVFndUhta1hVRGc?oc=5",
-      "description": "Nouveaux traitements anti-obésité : une étude appuie un possible effet contre les addictions&nbsp;&nbsp;Europe 1Mounjaro, Ozempic et autre Wegovy pourraient aider à lutter contre la dépendance à plusieurs drogues&nbsp;&nbsp;Yahoo Life FranceAlcool, cannabis, cocaïne, tabac… Les médicaments anti-obésité ont d’autres effets positifs, mais attention&nbsp;&nbsp;Ouest-FranceDes traitements à base de GLP-1 efficaces contre les addictions ?&nbsp;&nbsp;Courrier internationalL'Ozempic réduit aussi les ad",
-      "pub_date": "2026-03-05T13:23:00+00:00",
-      "matched_drugs": [
-        {
-          "name": "Semaglutide",
-          "slug": "semaglutide",
-          "url": "/drugs/semaglutide/"
-        },
-        {
-          "name": "Tirzepatide",
-          "slug": "tirzepatide",
-          "url": "/drugs/tirzepatide/"
-        }
-      ],
-      "matched_diseases": [
-        {
-          "name": "obesity",
-          "keyword": "obésité",
-          "related_drugs": [
-            "bupropion",
-            "fenfluramine-hydrochloride",
-            "lasmiditan-succinate",
-            "melatonin",
-            "naltrexone"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "bupropion",
-        "fenfluramine-hydrochloride",
-        "lasmiditan-succinate",
-        "melatonin",
-        "naltrexone"
       ]
     },
     {
@@ -1223,274 +1332,12 @@
       ]
     },
     {
-      "id": "4f9fded165ee",
-      "source": "Salamancahoy",
-      "source_feed": "google_es",
-      "title": "PANDORA, la aplicación que nace en Salamanca para prevenir la ansiedad y la depresión - Salamancahoy",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTG1UbGVwSml5TkpfQ1ZPaU92ZE1BVjJmTXRsSUxPTGl0ZTJ3VFZ6ZVprQVpoVnVNR250REY5NDFSTVkxLS1FOVJ2bUg5dUhIZDhPYzBUeFR0dV9naExXNTVEUU4xRWpiaS1Db0E1Tl9iVGdoVXFsLU5TOU9xS0p3Nk5JdHV2OTdBakZJZkVzLTJGSmNRMktfUGJ2SndkUllJb2FTeDlCTVA2UGJWWGdxS0dJMlNOQmpaTDZ6M3h5c9IBxAFBVV95cUxNcTladEstYXE0WmdBb1lxMjR2dzVOSUZuczBfMjRHZmg5YUxra050Yk82YWN2bzBVWm11UHZTV0lRR0pYQk43SUVKQXI2NXVONjNtc1RjLU43aDNLbWN6ZFk0UHJLODI0a0VGcnE2QTZEZm1wVFNvUlZDbDFQVlJhLU5xZURMQzZkMFRtZEtZX1o1S3dfUk4xMGU4RDZ4S0JtRG9wNHNiMXhaWTQ2WDJRcFlqOUFHcVBGeTN0c21MOE9iY1Zj?oc=5",
-      "description": "PANDORA, la aplicación que nace en Salamanca para prevenir la ansiedad y la depresión&nbsp;&nbsp;Salamancahoy",
-      "pub_date": "2026-03-05T12:12:09+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "depression",
-          "keyword": "depresión",
-          "related_drugs": [
-            "agomelatine",
-            "brexpiprazole",
-            "duloxetine-hydrochloride",
-            "esketamine-hydrochloride",
-            "olanzapine"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "agomelatine",
-        "brexpiprazole",
-        "duloxetine-hydrochloride",
-        "esketamine-hydrochloride",
-        "olanzapine"
-      ]
-    },
-    {
-      "id": "19b158488922",
-      "source": "Il Mattino",
-      "source_feed": "google_it",
-      "title": "Tumori del sangue, scoperta ad Ariano Irpino una molecola contro la resistenza alle terapie - Il Mattino",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQzItRHlwR1FyT3ZsUmd2RlRqajd3OVhSTE1nOW01VDRSY3N6Nm1DbzVRZHBBMkVoVi1qSEtKSXE5OHJVcWNrNDZyMmZTYjhNQmVBNXFiYmlpaHVlODVtV2JBenhWc3BWaDNRZHBuVkJnYUdWMTVqdExrRHRQYXlzTHFTSUlPNDFRQ3pmMFdjdlpqVDY4Nm9XenRLeXNoUi0yeW9KRERnUS13a2FxLWF2WjVoT25JZkVvWG9FMG96YVdBcl9WcGNJWm4wQTdHTm5RbjdXRGR6SWdydE9HeUFB0gHbAUFVX3lxTE1lWk0zeElnaHVRaUhkbERWYkswaGxLOGJhS3BjdzFHWkNZM3ZUdVlSQmFIdEV1Mmh2RFg3VjNaR3ZBZk9Sc0Rlc2hGTUtkLThlLUpvQnI0Qmk5bk56MXMwaHo4cThiQU9yTWcyZUZRT1YwMXF1T0RIU1dZWThlTmNGd0duNjllakh5V0FhSUdxcDJBaWFvNTNMRXNreXpodWUxVDZ1cDRtOVFaZHZmQVJ1M2hiLWtpNzd0MnduVUVXUTNjczlpNlNmS2Nyb09DTl8zTXgyVXhnMkNkTQ?oc=5",
-      "description": "Tumori del sangue, scoperta ad Ariano Irpino una molecola contro la resistenza alle terapie&nbsp;&nbsp;Il MattinoTumori del sangue, scoperta una molecola contro la resistenza alle terapie&nbsp;&nbsp;ANSALeucemia linfoblastica acuta: nuove speranze di cura da Padova&nbsp;&nbsp;panorama.itBiogem, scoperta nuova molecola per superare la resistenza alle terapie contro la leucemia linfatica cronica&nbsp;&nbsp;AvellinoTodayTumori del sangue, scoperta la molecola che vince la resistenza ai farmaci. «Sp",
-      "pub_date": "2026-03-05T12:02:20+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "tumor",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
-      "id": "e9be2fb5761f",
-      "source": "Hamburger Abendblatt",
-      "source_feed": "google_de",
-      "title": "Pharma-Firma aus dem Kreis Pinneberg: Kaltplasma statt Antibiotika bei Lungenentzündungen - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMDQyNnlXS0N5R1F4a0tQcFhoMElNcW1aOWhFSGRzRVE0TnJmbkhxZVRSc0NRQ3NQYmFucU5nRzR6QklHV2ZKV1NoeUpSbnR2TUV6VWFpd3kxOVRoeXpEaGpJQXdSWF9WcWc2dUU0T28wbTk2U2lYZ2NEdnVIaEpueDB5ZkNXZHVEckM2Z0ZOOEU4eU9GZDhsazNNQjlNd3NIQm9UakpYQ2NJT0dmTTlIa3o3aHpWZF9NYzFnR2Z1SnRRVEpOMzVaMlllTVlKWXBsZ0g1VXhqMHhQSFNoZjFmbTk4bmp4VjNmdmFjbGtHcTVLd3lIcWN6T2ZFeTZmdw?oc=5",
-      "description": "Pharma-Firma aus dem Kreis Pinneberg: Kaltplasma statt Antibiotika bei Lungenentzündungen&nbsp;&nbsp;Hamburger Abendblatt",
-      "pub_date": "2026-03-05T11:29:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "asthma",
-          "keyword": "asma",
-          "related_drugs": [
-            "aztreonam",
-            "baricitinib",
-            "basiliximab",
-            "belatacept",
-            "bosutinib-as-monohydrate"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "aztreonam",
-        "baricitinib",
-        "basiliximab",
-        "belatacept",
-        "bosutinib-as-monohydrate"
-      ]
-    },
-    {
-      "id": "f4d1349dbdd7",
-      "source": "Frankfurter Rundschau",
-      "source_feed": "google_de",
-      "title": "Bei Männern sinkt der Blutdruck um fast 7 mmHg: Was eine neue Herzstudie über Avocado und Mango herausfand - Frankfurter Rundschau",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTRtQ2tEUXRPd1NFU2JUYXVmQzFUM1EySDU0WG94bGR3VHoycUwtU194anMzUjhiZjN0azcza0FSSmpUN25mSHd0YmFGTzVqY2UxR3J6dndta2drVzFHNzM0MHZ6ZlNPaFVxdjN1dFdQREN5eGp6SGYtbEtJUGR4OV81bGJDN1FCQjJiU0RYeTlVM1hhekF2TEwwQ0txdkJpT0FGVmxqazJueGV5Smw5VmN3?oc=5",
-      "description": "Bei Männern sinkt der Blutdruck um fast 7 mmHg: Was eine neue Herzstudie über Avocado und Mango herausfand&nbsp;&nbsp;Frankfurter RundschauWie Sie mit Mangos und Avocados Ihre Gefäße trainieren&nbsp;&nbsp;FOCUS onlinePrädiabetes: Avocado + Mango täglich – hilft das wirklich dem Herzen?&nbsp;&nbsp;Kurier",
-      "pub_date": "2026-03-05T11:06:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "diabetes mellitus",
-          "keyword": "diabetes",
-          "related_drugs": [
-            "abaloparatide",
-            "alogliptin",
-            "angiotensin-ii-acetate",
-            "anifrolumab",
-            "belimumab"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "abaloparatide",
-        "alogliptin",
-        "angiotensin-ii-acetate",
-        "anifrolumab",
-        "belimumab"
-      ]
-    },
-    {
-      "id": "56349478b4e4",
-      "source": "Outre-mer la 1ère",
-      "source_feed": "google_fr",
-      "title": "Diabète : ces médicaments détournés pour maigrir inquiètent les médecins en Martinique - Outre-mer la 1ère",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbWo1NWZFaVpYQ0JMdG1fZzlhY29pUlNReE5JUktZOXdGTy1sV0xnM29IMjItZUZpR1pxcHVOdE1kaDNkS2NJTzFyLTY1c1kzLTVQNk1hQ2tCZms5YmVheGJaQXVoZk9EdFVZcnJyLUp2VVl2eGVVQV93d3RDZUhmbF9ld1l1OFVpUGFKalUxMnFfRVJhOWtrbDJxZDVRRVlPZTFDSjNlTGloUVRtLUplTXlqeldnTnQ3UkxxWnVkWUc5TVE4UUE5RW9OMWN3ZUZNakI0?oc=5",
-      "description": "Diabète : ces médicaments détournés pour maigrir inquiètent les médecins en Martinique&nbsp;&nbsp;Outre-mer la 1èreNouveaux médicaments antiobésité : l’arrêt des injections entraîne une reprise de poids beaucoup plus rapide que prévu&nbsp;&nbsp;Science et vieOzempic, Wegovy : les patients regrossissent vite après l'arrêt… mais gardent une partie du poids perdu&nbsp;&nbsp;DoctissimoRégimes, Ozempic, chirurgie : quels traitements fonctionnent vraiment pour lutter contre l'obésité&nbsp;&nbsp;DHnetC",
-      "pub_date": "2026-03-05T11:00:01+00:00",
-      "matched_drugs": [
-        {
-          "name": "Semaglutide",
-          "slug": "semaglutide",
-          "url": "/drugs/semaglutide/"
-        }
-      ],
-      "matched_diseases": [
-        {
-          "name": "diabetes mellitus",
-          "keyword": "diabète",
-          "related_drugs": [
-            "abaloparatide",
-            "alogliptin",
-            "angiotensin-ii-acetate",
-            "anifrolumab",
-            "belimumab"
-          ]
-        },
-        {
-          "name": "obesity",
-          "keyword": "obésité",
-          "related_drugs": [
-            "bupropion",
-            "fenfluramine-hydrochloride",
-            "lasmiditan-succinate",
-            "melatonin",
-            "naltrexone"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "abaloparatide",
-        "alogliptin",
-        "angiotensin-ii-acetate",
-        "anifrolumab",
-        "belimumab",
-        "bupropion",
-        "fenfluramine-hydrochloride",
-        "lasmiditan-succinate",
-        "melatonin",
-        "naltrexone"
-      ]
-    },
-    {
-      "id": "7e5cf3bc491b",
-      "source": "DiLei",
-      "source_feed": "google_it",
-      "title": "Emicrania, donne più a rischio: come affrontare le forme più difficili grazie alle nuove cure - DiLei",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wZDgyVDh3Y2lsc3JkOTkzNTNyWThicU9BQ0Q3ZS1MY2RlSm9GVHhUZHhKME5NcHFKWWsxNkJobTZ4eUlwNTQwWmFHNzRsZ2RKaUMyR3VrZlhjWUFLbld6Yktsa3I0UGVSWHJiOGZORUhLdXd1VTdTU2EyUDFFUdIBgwFBVV95cUxPa1hhcUI5ZGExcFJ3MlhPdTZ6TzhEbmNaeFJrMUtVeENjNElXNFQyd0xLdUVSaWJnZXJGanVNVjEyaFdWcnhQa18zMmVzVjhfZHIya3NJbldaOWo3NUMybWowT1Z0ZGMzT3NleEE2SzNlNUxTei1GU3Myd2UxSGo5Z1Nidw?oc=5",
-      "description": "Emicrania, donne più a rischio: come affrontare le forme più difficili grazie alle nuove cure&nbsp;&nbsp;DiLeiMal di testa: il 75% dei casi sotto controllo grazie ai nuovi farmaci&nbsp;&nbsp;Il Sole 24 OREIl ‘botox’ non serve solo ad apparire più belli: “Aiuto concreto contro l’emicrania cronica”&nbsp;&nbsp;Agenzia DireIL SOLE 24 ORE * SALUTE: «MAL DI TESTA: IL 75% DEI CASI SOTTO CONTROLLO GRAZIE AI NUOVI FARMACI&nbsp;&nbsp;agenziagiornalisticaopinione.it",
-      "pub_date": "2026-03-05T10:26:57+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "migraine",
-          "keyword": "emicrania",
-          "related_drugs": [
-            "abaloparatide",
-            "abiraterone-acetate",
-            "acetylsalicylic-acid",
-            "aclidinium-bromide",
-            "alpelisib"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "abaloparatide",
-        "abiraterone-acetate",
-        "acetylsalicylic-acid",
-        "aclidinium-bromide",
-        "alpelisib"
-      ]
-    },
-    {
-      "id": "c2774893453f",
-      "source": "Le Figaro Santé",
-      "source_feed": "google_fr",
-      "title": "Diabète : un régime riche en gras pour rendre au sport toute son efficacité - Le Figaro Santé",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2kyWUQ1Wk93TGVrWHRoc1hRMGt6U1B3d3JySWVzc01qbEg5blRUbVpodTZaajFuV3Z1cXNnSDQ4WGxKcmM0bnZUTzRacWNvNVVaZ18zTGZ0S0ZZQ1VRS3pQeEFMSjhXQTA0STAwVEJBdS1rQ1R3Rk9KcGJQLW5UZ0tKNml3YW9tblpNanpmTlBFRUFQTFVJSElDZ0xpU0hQeFEwTm83ZWtrWjhFTVBEU2g5cGwwRlcz?oc=5",
-      "description": "Diabète : un régime riche en gras pour rendre au sport toute son efficacité&nbsp;&nbsp;Le Figaro SantéDigoin. Face au diabète, une bonne alimentation, mais surtout de l’activité physique&nbsp;&nbsp;Le JSLDiabète : l’organisme réagirait mieux à l’activité physique grâce à ce régime&nbsp;&nbsp;Pourquoi DocteurVous êtes en hyperglycémie ? Ce régime gras pourrait améliorer votre santé cardiaque et rénale, découvrent les chercheurs&nbsp;&nbsp;Top Santé",
-      "pub_date": "2026-03-05T08:00:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "diabetes mellitus",
-          "keyword": "diabète",
-          "related_drugs": [
-            "abaloparatide",
-            "alogliptin",
-            "angiotensin-ii-acetate",
-            "anifrolumab",
-            "belimumab"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "abaloparatide",
-        "alogliptin",
-        "angiotensin-ii-acetate",
-        "anifrolumab",
-        "belimumab"
-      ]
-    },
-    {
-      "id": "790af4d3cb61",
-      "source": "Le Dauphiné Libéré",
-      "source_feed": "google_fr",
-      "title": "Santé. Cancer du pancréas : pourquoi est-il tant redouté ? - Le Dauphiné Libéré",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlRnc2M1MXNuRnV5N1FnQk9oVjA3b2U3ay1vV2U1QXJlTTdBaUNWeGNibXZSRFV2S3JrUGV2ekRaa1FpSVdheXFZbVpvdW5vdnAyd2VHT2c3R2d0bkVZNzA0dnhWbXJtQkttZnoyVE5qaFFTYmIzRkZNeDlPN3dXWWtGbWtfOG5MWUx0aEp6MWt6RDdNYWxGVHJTMFg0WGlmMVE?oc=5",
-      "description": "Santé. Cancer du pancréas : pourquoi est-il tant redouté ?&nbsp;&nbsp;Le Dauphiné LibéréCancer du pancréas : les 10 principaux facteurs déclencheurs d'une maladie souvent silencieuse&nbsp;&nbsp;MedscapeCancer du pancréas : une thérapie ciblée combinée montre des résultats inédits&nbsp;&nbsp;sante-sur-le-net.comCancer du pancréas : des souris donnent de l’espoir&nbsp;&nbsp;Le SoirUn espoir de guérison dans le cancer du pancréas : des chercheurs sont parvenus à éliminer la tumeur chez des souris&n",
-      "pub_date": "2026-03-05T06:00:00+00:00",
-      "matched_drugs": [],
-      "matched_diseases": [
-        {
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            "acalabrutinib",
-            "afatinib",
-            "aflibercept",
-            "agalsidase-beta",
-            "alectinib-hydrochloride"
-          ]
-        }
-      ],
-      "related_drugs": [
-        "acalabrutinib",
-        "afatinib",
-        "aflibercept",
-        "agalsidase-beta",
-        "alectinib-hydrochloride"
-      ]
-    },
-    {
       "id": "9e20fd6a5a9e",
       "source": "Il Messaggero",
       "source_feed": "google_it",
       "title": "Tumore al seno, un quarto degli anni di vita persi per lo stile di vita: ecco cosa cambiare (e cosa no) - Il Messaggero",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR092cGpUdlV0a01BVWd6T0p2Vk16MWdJY2RTOWZQUS1ROE9zRFlhc2U0am1RUkFVQ0JQcnNIb0lwTVhCMmszTWJKb2oyd25fVWI0MzV4YU5zV2dha2dSdEhCS2k3ekxkaVlvamg0clAxZ0tNM2U5ZldaYmZ6SlpQWUVCS202aUloR1JYT0k2dUdCUkFrMUJ1SWx0Z1hReml30gGWAUFVX3lxTE84ZVJvRllVTXJ0bFl0RTJpMjkxMjhSV3dUb0tQTFZlOWx3eE4zN0hhRWdfVHkwSlF6YmhqQmE5bTdFeVdYVmFJY2ZrSGZDSDJCdG1lV1pzSENoU2c5SEtmNnljVG1zNVhQdVM1VlFwb2ctMmsyQzJLS2tRb0xOUDZIZENyWnhmRS1PckJWb3VHN2dXeHhpdw?oc=5",
-      "description": "Tumore al seno, un quarto degli anni di vita persi per lo stile di vita: ecco cosa cambiare (e cosa no)&nbsp;&nbsp;Il MessaggeroTumore al seno, nel mondo un milione di casi in più entro il 2050: i fattori di rischio&nbsp;&nbsp;Sky TG24Cancro al seno. Rimane il tumore più comune tra le donne in tutto il mondo. Stimati oltre 3,5 mln entro il 2050. Lo studio su The Lancet Oncology&nbsp;&nbsp;Quotidiano SanitàNel mondo le diagnosi di tumore al seno saliranno a 3,5 milioni entro il 2050&nbsp;&nbsp;la",
+      "description": "Tumore al seno, un quarto degli anni di vita persi per lo stile di vita: ecco cosa cambiare (e cosa no)&nbsp;&nbsp;Il MessaggeroTumore al seno, nel mondo un milione di casi in più entro il 2050: i fattori di rischio&nbsp;&nbsp;Sky TG24Nel mondo le diagnosi di tumore al seno saliranno a 3,5 milioni entro il 2050&nbsp;&nbsp;la RepubblicaCancro al seno: casi in aumento del 33% entro il 2050&nbsp;&nbsp;OK Salute e BenessereTumore al seno, entro il 2050 oltre 3,5 milioni di casi nel mondo e +44% di m",
       "pub_date": "2026-03-03T12:03:24+00:00",
       "matched_drugs": [],
       "matched_diseases": [
