@@ -1,0 +1,35 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "ospemifene-allergic-asthma",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:40Z"
+  },
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/ospemifene"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "allergic asthma"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN Deep Learning"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
+      "valueString": "DB04938"
+    }
+  ]
+}

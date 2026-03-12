@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "apremilast",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:32Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB05676",
+        "display": "APREMILAST"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "apremilast",
+        "display": "Apremilast Accord"
+      }
+    ],
+    "text": "Apremilast Accord (APREMILAST)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Apremilast Accord"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/006208"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "pegvisomant-schwannoma-of-twelfth-cranial-nerve",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:39Z"
+  },
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/pegvisomant"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "schwannoma of twelfth cranial nerve"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN Deep Learning"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
+      "valueString": "DB00082"
+    }
+  ]
+}

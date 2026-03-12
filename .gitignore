@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jekyll
+docs/_site/
+docs/.jekyll-cache/
+docs/.sass-cache/
+docs/Gemfile.lock
+
+# Large data files (download from Harvard Dataverse)
+data/kg.csv
+data/node.csv
+data/edges.csv
+data/kg_directed.csv
+
+# Model checkpoints (download separately)
+model_ckpt/
+
+# Complex disease data
+data/complex_disease_42/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Large files - exclude from git
+/data/*
+!/data/cache/
+/data/cache/*
+!/data/cache/.gitkeep
+!/data/news/
+!/data/processed/
+!/data/external/
+model_ckpt/
+.venv/
+
+# Large prediction files (>100MB) - must be excluded
+data/processed/txgnn_dl_predictions.csv
+data/processed/txgnn_checkpoint.csv

@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "rotigotine",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB05271",
+        "display": "ROTIGOTINE"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "rotigotine",
+        "display": "Neupro"
+      }
+    ],
+    "text": "Neupro (ROTIGOTINE)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Neupro"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/000626"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

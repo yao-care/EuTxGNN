@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "tucatinib",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB11652",
+        "display": "TUCATINIB"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "tucatinib",
+        "display": "Tukysa"
+      }
+    ],
+    "text": "Tukysa (TUCATINIB)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Tukysa"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/005263"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

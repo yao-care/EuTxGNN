@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "mogamulizumab",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB12498",
+        "display": "MOGAMULIZUMAB"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "mogamulizumab",
+        "display": "Poteligeo"
+      }
+    ],
+    "text": "Poteligeo (MOGAMULIZUMAB)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Poteligeo"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/004232"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

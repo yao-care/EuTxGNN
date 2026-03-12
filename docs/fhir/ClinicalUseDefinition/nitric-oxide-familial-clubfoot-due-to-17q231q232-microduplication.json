@@ -1,0 +1,35 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "nitric-oxide-familial-clubfoot-due-to-17q231q232-microduplication",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:37Z"
+  },
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/nitric-oxide"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "familial clubfoot due to 17q23.1q23.2 microduplication"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN Deep Learning"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
+      "valueString": "DB00435"
+    }
+  ]
+}

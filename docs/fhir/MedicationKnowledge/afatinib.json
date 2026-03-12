@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "afatinib",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB08916",
+        "display": "AFATINIB"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "afatinib",
+        "display": "Giotrif"
+      }
+    ],
+    "text": "Giotrif (AFATINIB)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Giotrif"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/002280"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

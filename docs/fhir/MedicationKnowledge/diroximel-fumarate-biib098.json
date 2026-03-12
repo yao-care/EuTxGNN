@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "diroximel-fumarate-biib098",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB14783",
+        "display": "DIROXIMEL FUMARATE (BIIB098)"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "diroximel-fumarate-biib098",
+        "display": "Vumerity"
+      }
+    ],
+    "text": "Vumerity (DIROXIMEL FUMARATE (BIIB098))"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Vumerity"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/005437"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

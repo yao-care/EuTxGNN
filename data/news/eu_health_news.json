@@ -1,0 +1,1063 @@
+{
+  "description": "EU health news with drug-disease relations from EuTxGNN",
+  "fetched_at": "2026-03-12T07:04:56.992121+00:00",
+  "total_items": 292,
+  "relevant_items": 35,
+  "sources": [
+    "google_uk",
+    "google_de",
+    "google_fr",
+    "google_es",
+    "google_it",
+    "ema_news",
+    "ema_human_medicines",
+    "ecdc_news",
+    "ecdc_risk"
+  ],
+  "items": [
+    {
+      "id": "58b8a199550d",
+      "source": "Onda Cero",
+      "source_feed": "google_es",
+      "title": "Profesionales sanitarios y pacientes advierten del impacto de la enfermedad renal crónica en Extremadura - Onda Cero",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSmd5VndnY2FTMGF2NWMyWlJPZzlsV0g3NXA2X1JzZ3FjMzJlY2dlNWsxaEVfS2lveFFPcGVMTnN1U1NkYXEzVTVqUlJxLUJKcV9fcy1jVTdVR1p0aGttakV6cWROVWI0S1A4WXA2QTlUTGp0YXRsai05Q3FSSjFQeFd3U3FyX2I5VEkzWmNwOXRyV2ZqMTRnNlZOS1VpQVM5OGNyU2RUZWRHZEE4ODI1eGdoLVpVTm5uZlpLQnZ1YmpEWmpra1NJcEVuSURSZVlGT3dkaXFQc1VtUnNtM1NQb19ZYVU4d0FXdnR6dS1FMVhBZUFzUFVoVDJtTEZxOFg5MGpKRTE0QTlNWXVPRFHSAY4CQVVfeXFMTXBCd3lSNGxmZGFETmtPNWhpbjFnbXduYW5GVzNQVHEtUlJBOW9TV0ZaT2hBcGZSN1Zqd2pybXlsT0ZWRmpxa3VsZ1pXeFRLX2dZdVpPNERmd08tMnpsZENfWDgta04tNENuY0JiMTdMa2t3UzhmaGQzOGdjdk9mQnNMUzZ5cGE0SXZuY3dtU3E2bVFQVS1ZRTFhYzJNSWFZNGtBLTFaTkpZMjJTb0hTcTM2YmF6SHdpX2dVQXZNMTFxTDBSa1hOaEdSQlFUbF9TT0VyNWc3elhtVGJxa2JyVEFGMVk2V2ZjM0VGMENiem5DTXNDcXNSSWpEaFIzbUloeUdxWWVEUThLQ0U0akR3?oc=5",
+      "description": "Profesionales sanitarios y pacientes advierten del impacto de la enfermedad renal crónica en Extremadura&nbsp;&nbsp;Onda CeroEl imparable avance de la enfermedad renal crónica que ya padecen 7 millones de españoles: \"Es un auténtico tsunami\"&nbsp;&nbsp;El PeriódicoUnos 2.500 malagueños están en diálisis o necesitan un trasplante de riñón&nbsp;&nbsp;Cadena SERAsí es la enfermedad renal crónica, una epidemia silenciosa que aumenta en España&nbsp;&nbsp;La RazónALCER Ciudad Real se moviliza en Daimi",
+      "pub_date": "2026-03-12T02:26:03+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "chronic kidney disease",
+          "keyword": "enfermedad renal crónica",
+          "related_drugs": [
+            "alirocumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "alirocumab"
+      ]
+    },
+    {
+      "id": "4748c2911514",
+      "source": "Analytik NEWS",
+      "source_feed": "google_de",
+      "title": "Mit Bor wichtige Proteine für neue Krebstherapien herstellen - Analytik NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rdmJYekFjZS1CYnU5amhaWFFfbzBOX2xyZzNRVlI1ckYwQkY0SzZkSkZnWm9XTEVVQmUwMDdiMFB6c0piZEgtVGJ6VHZPNEVJb196aA?oc=5",
+      "description": "Mit Bor wichtige Proteine für neue Krebstherapien herstellen&nbsp;&nbsp;Analytik NEWS",
+      "pub_date": "2026-03-12T01:25:16+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "bbf21fcfdef5",
+      "source": "Daily Mail Online",
+      "source_feed": "google_uk",
+      "title": "I've been an insomniac for 30 years: Here are the best 'cures' - Daily Mail Online",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPb1Y0ZEZiVEtBZUJ0QnJuckdWV3JGOEJmakxfQ29PZVhqT0ZqN2tDV2l1cXpWbnlTbEY4WEFHbGlOaEdaZnZPeVV2NmpiU0M0aFhLZXg0a0tkZm9DNWt6YTZZeEVNNER5SDAwaEQ0U0NqMkhQQVFEeU9YQlFwSGdWQm9jVFItcDM1dGQ3M0hidGVRZl93VTlHY0QtM0ZRendQVG9JUU1tdHNseVJjaXFkNGNyNTAtaE42QU1UdTJIdkJPeTNUUG9xYnB6MFdMRFhocWlIUVRqd19zSldyWENobDN1YjJNXzFaNW12YnFFbEFiT3A5VkQ0UGplTG5QNjB5N2JNazBKMTJfLVp5em1VbG9wVjlfTGtRcXFmb3k5NmZnRGlPaW5Bc1Y0SHNiVk80TnYtVw?oc=5",
+      "description": "I've been an insomniac for 30 years: Here are the best 'cures'&nbsp;&nbsp;Daily Mail OnlineCommon Supplement Shows a Concerning Link to Heart Failure&nbsp;&nbsp;ScienceAlertResearch suggests link between heart-failure and long-term melatonin use...but don’t panic yet&nbsp;&nbsp;WBAYSlumber shorts: Over-the-counter melatonin supplements&nbsp;&nbsp;Parkview HealthMelatonin: Effectiveness, How It Works, And Why It's Not Sold OTC In The UK&nbsp;&nbsp;Yahoo News New Zealand",
+      "pub_date": "2026-03-12T00:50:00+00:00",
+      "matched_drugs": [
+        {
+          "name": "Melatonin",
+          "slug": "melatonin",
+          "url": "/drugs/melatonin/"
+        }
+      ],
+      "matched_diseases": [
+        {
+          "name": "heart disease",
+          "keyword": "heart failure",
+          "related_drugs": [
+            "abemaciclib",
+            "abiraterone-acetate",
+            "aliskiren",
+            "alpelisib",
+            "amlodipine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abemaciclib",
+        "abiraterone-acetate",
+        "aliskiren",
+        "alpelisib",
+        "amlodipine"
+      ]
+    },
+    {
+      "id": "d12aa1588b20",
+      "source": "The Sun",
+      "source_feed": "google_uk",
+      "title": "Thousands of Brits may unknowingly have ‘silent’ kidney damage after using common painkiller - are you at risk? - The Sun",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanp5ZXYxY3ZIMXAwQVkzS2NhSjFGQS1qV0lWMld5ajhUMWQ5ZVVINHdQd1NpYlRTVFpTYV9OYjkwRy0tb3QyY0FVazhWSUhOTHdfUEFZaXQxSkVCR1ZNczFtaHI4QXFYS0lFcXlHU3pzWHBoUE9Db240SUJmeHZaTmJOMXF1MGl2ckRYaVh3eFU5MjdlU3c?oc=5",
+      "description": "Thousands of Brits may unknowingly have ‘silent’ kidney damage after using common painkiller - are you at risk?&nbsp;&nbsp;The SunPeople warned to avoid reliance on drugs like ibuprofen for pain relief&nbsp;&nbsp;ITVXConsumers urged to take caution when taking common pain killers&nbsp;&nbsp;The IndependentKidney failure warning issued over ibuprofen risk&nbsp;&nbsp;lbc.co.ukWarning issued to anyone who takes ibuprofen as painkiller linked to 'very serious condition'&nbsp;&nbsp;Manchester Evening",
+      "pub_date": "2026-03-12T00:01:00+00:00",
+      "matched_drugs": [
+        {
+          "name": "Ibuprofen",
+          "slug": "ibuprofen",
+          "url": "/drugs/ibuprofen/"
+        }
+      ],
+      "matched_diseases": [
+        {
+          "name": "chronic kidney disease",
+          "keyword": "kidney failure",
+          "related_drugs": [
+            "alirocumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "alirocumab"
+      ]
+    },
+    {
+      "id": "d9b4cdeaab62",
+      "source": "LADbible",
+      "source_feed": "google_uk",
+      "title": "Signs of throat cancer caused by oral sex after Michael Douglas shared what he noticed first - LADbible",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOE9ZLWN3ZTI0bVMtc0ZuSTdfamR2cXAtNWFpS2xseXRSeTlEZVM1RElMbVg1NmdhOUIzZVNwWHFTX3hCemN0TVZ3ajZIWldXalZ3Qkt5UkY3OFlTWDFFZ2w2akVpU0Y3Z1pHRm1fbmRXYXRKN3A4RlRoU1JKc3FoSjNLZnMxMUN0eF95bmE1OFZCU21XMHowX0ttdjBmVGlWN3c?oc=5",
+      "description": "Signs of throat cancer caused by oral sex after Michael Douglas shared what he noticed first&nbsp;&nbsp;LADbibleSignificant rise in throat cancers among men related to HPV, campaigners say&nbsp;&nbsp;The Irish Times‘I hadn’t really heard of HPV, I definitely didn’t know it could exist in your throat’&nbsp;&nbsp;The Irish IndependentOral sex is now the main cause of throat cancer&nbsp;&nbsp;Joe.co.ukExperts warn HPV is quietly driving a surge in throat cancer cases among men&nbsp;&nbsp;The Eastle",
+      "pub_date": "2026-03-11T23:31:56+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "f19e0ceb7d2c",
+      "source": "AD HOC NEWS",
+      "source_feed": "google_de",
+      "title": "Depressionen beschleunigen Alzheimer-Ausbruch um Jahre - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFVtN1VRYnpnaEprOE94YzVEQmp2SGZsd0w0eU45eDIyRktCMWU5cHEtQ290d1ZFNG1mWW1WNnhkN05zRGQ4NUdKZ3hwVXdWME96UG05QjMxRzRkVkR2dmNMenlWWklSdVppYmhYWVozc1IyY1AxZDNRVlRaLUdTUzhhSmk0VkNaanl4cUVyWFF3T2dMUUg4MUtGcGFMSmwtLVVjc3JmRmpXcWdvekZ3YWFiOA?oc=5",
+      "description": "Depressionen beschleunigen Alzheimer-Ausbruch um Jahre&nbsp;&nbsp;AD HOC NEWSAussagekräftige britische Studie: Das sind sechs Warnzeichen für eine spätere Demenz&nbsp;&nbsp;RP OnlineRechtzeitig gegensteuern hilft: Sechs Symptome in der Lebensmitte weisen auf Demenz hin&nbsp;&nbsp;T-OnlineSchon Jahre vorher: Dieses Warnsignal kündigt Demenz an&nbsp;&nbsp;BlickDie Bedeutung eines ausgewogenen Schlafrhythmus für die Gehirngesundheit&nbsp;&nbsp;it boltwise",
+      "pub_date": "2026-03-11T23:00:19+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "depression",
+          "keyword": "depression",
+          "related_drugs": [
+            "agomelatine",
+            "brexpiprazole",
+            "duloxetine-hydrochloride",
+            "esketamine-hydrochloride",
+            "olanzapine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "agomelatine",
+        "brexpiprazole",
+        "duloxetine-hydrochloride",
+        "esketamine-hydrochloride",
+        "olanzapine"
+      ]
+    },
+    {
+      "id": "8e496debbbc7",
+      "source": "La Nuova Sardegna",
+      "source_feed": "google_it",
+      "title": "«Un bicchiere al giorno di vino rosso riduce il rischio di infarto e ictus»: ecco i dati del nuovo studio - La Nuova Sardegna",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONmxOTDIzaUh6TmJrWFBocjk2TjMwMnFOU1ZBMk5kZjBBd09LaHJydERvYmpxOUdaLVd5dEZLTWQwalJYbnF2amhSbFFnMmx0VWNuTEZ1dWNfYmRaSHU5N0lkUC1IN2RDUzEzOEVUODdjaGJpdnlhaXRnczNvZmNMUVZSdEdtNy15QXJ0YkUyQUxVMlJVQllqdnBvSXcxeWNTT3hqV0hmQmlPTnYtb1NIdzhzU3N0dG5hN2NQcFloY2k4cTNFaWpZYkVUNGVHNmZzT2xyR3dOckhGcFdZN195MTlBdFBLUkpFY1d2NnBkVFJiMHFJcTZXNVBsd2J3dw?oc=5",
+      "description": "«Un bicchiere al giorno di vino rosso riduce il rischio di infarto e ictus»: ecco i dati del nuovo studio&nbsp;&nbsp;La Nuova Sardegna",
+      "pub_date": "2026-03-11T19:14:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "stroke",
+          "keyword": "ictus",
+          "related_drugs": [
+            "aliskiren",
+            "amlodipine",
+            "avanafil",
+            "azilsartan-medoxomil",
+            "dronedarone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "aliskiren",
+        "amlodipine",
+        "avanafil",
+        "azilsartan-medoxomil",
+        "dronedarone"
+      ]
+    },
+    {
+      "id": "e5100dd35784",
+      "source": "BBC",
+      "source_feed": "google_uk",
+      "title": "Proton beam hope for asbestos cancer patients - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVT205RXNsRUNjMWNsSHFhWFEyYkV3SndPU29WRzBEbDlzTUVDV0o5RGctVnczbG1pRU5sbmlHQmYtYzN4TlhFZmIzSk1BTGF0cmR4M0NnLVBmbTdQ?oc=5",
+      "description": "Proton beam hope for asbestos cancer patients&nbsp;&nbsp;BBC",
+      "pub_date": "2026-03-11T17:04:41+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "a287b53be06e",
+      "source": "SPORT",
+      "source_feed": "google_es",
+      "title": "José Luis Trejo, neurocientífico del CSIC, lo tiene claro: \"Ningún antidepresivo supera al ejercicio físico\" - SPORT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMC1vdEoxdzUxcnVMRnl6dm5MSl9XaDN4YUlnUkNJQmpmcnNuaDkwckJfSWNqVm9Jb0g4OXRTRmY0bHFjajE3ZU1MZHhIcWJSZ1NQRVdoeWJObDZrZ0l4VERMNDNQNG1xakJkUGMyc0FuVHZFVHZ2SkVlaHBsa0tqTTUtbHVsTExXcVEweVBFZU9VSVd6ckJ0MXhVWTc4WHItXzdSYll1bXo3QdIBqgFBVV95cUxQYl82a3VQUGpZeEk1NGNvNVJtY0hmb3BsQkp5WU8xanRhQk5TOGdIM19ZVzg5aEJzUGJBSXFIQjd1UHRFdmRUY1lHXzFadGgzbEh6b28zSnN3QUl4eE42VFRJUjFrWTVlQjg3UWdkQUV2REpGREFTVFNONXdLbzV5Z2o0cE5PNFQzVzJTVDRPQUxuRW9NcU40Y1VfN1hGQTd6MDFDSHFyZDlfUQ?oc=5",
+      "description": "José Luis Trejo, neurocientífico del CSIC, lo tiene claro: \"Ningún antidepresivo supera al ejercicio físico\"&nbsp;&nbsp;SPORTJosé Luis Trejo, neurocientífico: «Pasar muchas horas sentado deteriora el cerebro, aunque hagas deporte»&nbsp;&nbsp;ABCJosé Luis Trejo, neurocientífico: “El ejercicio físico es gasolina para crear nuevas neuronas”&nbsp;&nbsp;EL PAÍSJosé Luis Trejo, neurocientífico: «No hay ningún antidepresivo que tenga más efecto que el ejercicio físico para la depresión y ansiedad»&nbsp",
+      "pub_date": "2026-03-11T15:45:44+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "depression",
+          "keyword": "depresión",
+          "related_drugs": [
+            "agomelatine",
+            "brexpiprazole",
+            "duloxetine-hydrochloride",
+            "esketamine-hydrochloride",
+            "olanzapine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "agomelatine",
+        "brexpiprazole",
+        "duloxetine-hydrochloride",
+        "esketamine-hydrochloride",
+        "olanzapine"
+      ]
+    },
+    {
+      "id": "e0d554d88de5",
+      "source": "Gaceta Médica",
+      "source_feed": "google_es",
+      "title": "El 12 de Octubre y el CNIO lanzan un estudio sobre nutrición de precisión y terapias oncológicas de última generación - Gaceta Médica",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWJKN3dpREt6WllxVm1fYlJGTDM2RlRJd0p1UGpyMndaMG1nek85MFBtYXA1UkhSeWhPMkRlUEpQUUxRVVBKOTYxa0JkMFNPWWVVRjBQSWFvUVZUTVlPWTROdXY1cGpUeHFYZVVUb1BYeVVfTmZRTmxfWXVSOFcwOHNLY091dmF3RlhDcG9zR3FGOWMxWENrUU4wV1N2T2hVOWRWUjNFVVRBZw?oc=5",
+      "description": "El 12 de Octubre y el CNIO lanzan un estudio sobre nutrición de precisión y terapias oncológicas de última generación&nbsp;&nbsp;Gaceta MédicaArranca un estudio sobre intervención dietética y fármacos ADCs en tumores femeninos&nbsp;&nbsp;DiariofarmaArranca un ensayo que prueba si la dieta personalizada potencia las terapias en cáncer de mama y ginecológico&nbsp;&nbsp;InfosalusComienza ensayo que evalúa si dieta personalizada mejora terapias en cáncer&nbsp;&nbsp;Córdoba Buenas NoticiasUn nuevo en",
+      "pub_date": "2026-03-11T15:31:36+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "216211a37044",
+      "source": "Deutsches Ärzteblatt",
+      "source_feed": "google_de",
+      "title": "Untersuchung von Menstruationsblut könnte zur Vorsorge von Gebärmutterhalskrebs sinnvoll sein - Deutsches Ärzteblatt",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSXNSd2xnanBRQW4xUmRtWkNqVktLWjdJUTgtSHZ0ZzBaYXdCOUNja01hbmU4aXU3eWR0R3dNc0oxeDJQMkdxTmV6UWFLQnhsSTlsQ2U0THFvQ2xyT1R5dFdTSkR4U3VDeW9EekRoN1pXdW01dGZmSzBra3lOWE4taW0xTk8zN2pKVC1waDhBNnFZdkQ4SjJCMXBESU81QUNvbnRiVkh4V1Bqcy1sQm5fUGVuSjJsMGMxOGhkSVlKLVg0RW5CX2pyNG5MOEVndDVBY1pMWkN6ckR2WXk1eG5LMU4zSmFMMFotQXNXbklSbnhDX2F0?oc=5",
+      "description": "Untersuchung von Menstruationsblut könnte zur Vorsorge von Gebärmutterhalskrebs sinnvoll sein&nbsp;&nbsp;Deutsches ÄrzteblattMehr zum Thema ansehen in Google News",
+      "pub_date": "2026-03-11T14:06:03+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "409135371e25",
+      "source": "Sud Ouest",
+      "source_feed": "google_fr",
+      "title": "Cancer colorectal : après un test positif, la coloscopie n’est presque jamais réalisée dans les délais - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcGhDNTNZNVoxNHMxeVBZMGNQQjNxclg4akx4ZUdVNlNFbzViOF9mRTlpdnpCNFJjOFBCdU9jRWx6NG5yS1hEd1Y0TnRvMTNtUGlrcl9wMEpUTFotbkRZWU5vUmZwTWtMUmdUNXk2TjFKZDVLQVQ0RTVmUE04NG1ULTM3Z0ZVbFJGYnNuSW9ZcUd3ellxUFllVHVSNjBXc29FaS1uckhReGlGRC1GT1lEaTJ4aGNYUGpQV2tva1hVMHlEVjBjd01lY0NQM3VjTVBkXzNBOVVtd2hLbnNKVTExZG80dGZER1JIM0d2eE9icV9pQQ?oc=5",
+      "description": "Cancer colorectal : après un test positif, la coloscopie n’est presque jamais réalisée dans les délais&nbsp;&nbsp;Sud OuestDépistage du cancer colorectal, même pas mal ! Ce médecin du Loiret tord le cou aux idées reçues&nbsp;&nbsp;La République du CentreTrélazé. « La Marche bleue est un moment chaleureux »&nbsp;&nbsp;Ouest-France“Occupez-vous de vos fesses” : pour Mars Bleu, le CHU de Besançon est direct…&nbsp;&nbsp;maCommune.infoToul. Mars bleu : l’hôpital Saint-Charles mobilisé contre le cance",
+      "pub_date": "2026-03-11T13:05:07+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "03583d4ef857",
+      "source": "Modes et travaux",
+      "source_feed": "google_fr",
+      "title": "Maladie de Crohn : cette prise en charge méconnue de la Sécurité Sociale qui change tout en 2026 - Modes et travaux",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUmNpVkNnWEtWYWgycnFRX3RYdHhsMXpydVJuWlEwWGpvVW5CWHFZOWljY1NwQVRzQXdFMnJDd0RsRklRVDN3aEIxbHcxRTdrSm1kZ2NxSHpjRXk1S3VTN2dBOV9yTzV3T3JpaGtDWGRnVnpEenBtei1PZFllX29aeW9YRnpDTFZua3paa3NpRkl1NHBua0FKVzM4NWhEZzNhQjVaSjJEN1k0akR0NmN6MHhIRDZubmJMbWtuQXlQVUluSzk0UE9WQkJpX3NfYWtHeVBKWHotZnh1azRHNnlnRWl1TlRTZnJoVkE4MkhRNGZES3p3ZWFkZDNCXzFkbW9ZTXFqUmY1Zw?oc=5",
+      "description": "Maladie de Crohn : cette prise en charge méconnue de la Sécurité Sociale qui change tout en 2026&nbsp;&nbsp;Modes et travaux",
+      "pub_date": "2026-03-11T10:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "crohn disease",
+          "keyword": "maladie de Crohn",
+          "related_drugs": [
+            "sarilumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "sarilumab"
+      ]
+    },
+    {
+      "id": "51310729932d",
+      "source": "RHÖN-KLINIKUM AG",
+      "source_feed": "google_de",
+      "title": "Symposium | 3. Epilepsie-Symposium - RHÖN-KLINIKUM AG",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXlYZGRUU0ZRbmhsbll5TFdqV3FXNy1CQl9DZ3REYUxXT214YkdJYmFYcU9oMERpUTQ2OEdtV2xoT2FBcTJyblVoUklERXRVdmFOWVp5Z3BMNjMwWl9naVM1ckJjOGs2WHIwLVlfcWcwV1U0UEFQU1NaN1BUUTZ1RWJzTHNFLXB4TnNkNk4zNm9CODJNM1VJdHFJWWtMSGY0TXZkU196MHRjc25PSnlFTEg4bkFrUUdaSlNpdkluMkZSQQ?oc=5",
+      "description": "Symposium | 3. Epilepsie-Symposium&nbsp;&nbsp;RHÖN-KLINIKUM AG",
+      "pub_date": "2026-03-11T09:52:39+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "epilepsy",
+          "keyword": "Epilepsie",
+          "related_drugs": [
+            "brivaracetam",
+            "cenobamate",
+            "cerliponase-alfa",
+            "dostarlimab",
+            "eslicarbazepine-acetate"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "brivaracetam",
+        "cenobamate",
+        "cerliponase-alfa",
+        "dostarlimab",
+        "eslicarbazepine-acetate"
+      ]
+    },
+    {
+      "id": "20315a9e1918",
+      "source": "OTS.at",
+      "source_feed": "google_de",
+      "title": "Einfach, sicher, wirksam – HPV-Impfung und HPV-Testung schützen vor Krebs - OTS.at",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWV5QXJMeG84N1Mwei01OEdKRVMySHZ1TjBnR25qNHBvY1FwTDItSFZSWXp6RU1NUUJXb2FFZFhHYW9HT3pNN24tNXpPS0tjazVLd1NnMVR4cXFlenZmZFZDMzZNb2tDdW9WbWRzMnFhNlQzRWI2YWlHUEhhS3JneEhWX0oxRnRULVVMcTdsZldwQ2tTajVqZmtFakVxMjR0OHlnUUljWEpQVUlPNFBYWDNqaDNBWm5PVHQtcDJwa09zQUtYTWc?oc=5",
+      "description": "Einfach, sicher, wirksam – HPV-Impfung und HPV-Testung schützen vor Krebs&nbsp;&nbsp;OTS.atÄrztinnen aus SH: Eine Impfung gegen Krebs – und viele verzichten darauf&nbsp;&nbsp;shz.deHPV-Impfung schützt Leben&nbsp;&nbsp;kiel-magazin.deKrebsprävention bei Frauen: Ärztin aus Plankstadt klärt auf&nbsp;&nbsp;Schwetzinger ZeitungWie werden Genitalwarzen übertragen und wie gefährlich sind sie?&nbsp;&nbsp;Vietnam.vn",
+      "pub_date": "2026-03-11T09:52:03+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "5f83886b59f2",
+      "source": "SpringerMedizin.de",
+      "source_feed": "google_de",
+      "title": "Personalisierte Depressionstherapie schlägt Standardversorgung - SpringerMedizin.de",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjBoaTUtYlM1bmp4R3laY0l5bm55MkNTVlhUUUh2d0JmVFJ2RFNwV1RseVp0X3BabkVWRmx3Z3Z2QkJ1VkIzZGFKeE1LTnhPSVFEMnNjMDZoS3BzZk13YkZ2dHRuN0R2bWpkeDVTYmk4aDVNVk5aUVV0YlJVTzAyWC03ODlaV3RNTDlBSl84bllGbHhhSzFILVlQNEc2em5BSU5wbktiWmo4cVMyaUo2Vjd5WG5KbTk2R0RXWEhfU1hLYXBVZ2s5cHd0T1NQSHlvRDVJaWZR?oc=5",
+      "description": "Personalisierte Depressionstherapie schlägt Standardversorgung&nbsp;&nbsp;SpringerMedizin.de",
+      "pub_date": "2026-03-11T09:34:50+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "depression",
+          "keyword": "depression",
+          "related_drugs": [
+            "agomelatine",
+            "brexpiprazole",
+            "duloxetine-hydrochloride",
+            "esketamine-hydrochloride",
+            "olanzapine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "agomelatine",
+        "brexpiprazole",
+        "duloxetine-hydrochloride",
+        "esketamine-hydrochloride",
+        "olanzapine"
+      ]
+    },
+    {
+      "id": "90641b998198",
+      "source": "Creusot Infos",
+      "source_feed": "google_fr",
+      "title": "Des tests de dépistage du diabète le 21 mars au Leclerc et à l’Intermarché - Creusot Infos",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb1RZcXJnR0VzbTc3V3VzNXRUeTVyOGJhRDlURk53RUJvT3BOX2t1RU13THNvaGFyTGN5XzdDZkRvelE1NnVtRVpUM0tONXVuSUc0dzhBbnpmcDRqWU1lSzhPZ1J6YkJ6dFdxODJwNnlsQ3JrcVFlQ0VQcXM2ZktCekhjQkxwMTNpLWZ1M0pOY3pNT0t3eGQ3WVhqMHlCQXdiOVdhQVFHekVJQjJsa3BVS3pYVmw4eEdDWlhnMVJ0ZjlEZlpJbm1zZXo0WExPNF8wQWdWNzlSYjRLS3pURXAyOA?oc=5",
+      "description": "Des tests de dépistage du diabète le 21 mars au Leclerc et à l’Intermarché&nbsp;&nbsp;Creusot InfosAire-sur-la-Lys : un dépistage du diabète gratuit, et accessible à tous&nbsp;&nbsp;Nord LittoralBollène. Succès pour le dépistage gratuit du diabète&nbsp;&nbsp;Le Dauphiné LibéréDigoin. 355 personnes dépistées du diabète&nbsp;&nbsp;Le JSLActivité physique: quels sont les bienfaits du sport sur le diabète?&nbsp;&nbsp;RFI",
+      "pub_date": "2026-03-11T09:02:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "diabetes mellitus",
+          "keyword": "diabète",
+          "related_drugs": [
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab"
+      ]
+    },
+    {
+      "id": "b6da3332fa95",
+      "source": "TARA24",
+      "source_feed": "google_de",
+      "title": "Warum große Höhen vor Diabetes schützen könnten - TARA24",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXhNeFRZQ1VFQ0lDZEItMWNSTXdqRTlpRHpoWUE1TmVXcFZ6b0pvc25OWHp0RVpRUldwd19sbVIwZFUwTnVYVlFGN0MwbTF6YnFHNENMelRLUXUtYlVWaFdPNFY3Z1gyTXdPTzJUWmNZRW5TTDNMcjRQVHhSVlFsZ0E1OEQ0V00xeUZOZVJXbmEzT0hwbUtRRG9JSlQxdw?oc=5",
+      "description": "Warum große Höhen vor Diabetes schützen könnten&nbsp;&nbsp;TARA24",
+      "pub_date": "2026-03-11T08:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "diabetes mellitus",
+          "keyword": "diabetes",
+          "related_drugs": [
+            "abaloparatide",
+            "alogliptin",
+            "angiotensin-ii-acetate",
+            "anifrolumab",
+            "belimumab"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "alogliptin",
+        "angiotensin-ii-acetate",
+        "anifrolumab",
+        "belimumab"
+      ]
+    },
+    {
+      "id": "7faf275e6411",
+      "source": "Adnkronos",
+      "source_feed": "google_it",
+      "title": "A cosa serve il botulino? Negli usi meno noti non c'entrano le rughe - Adnkronos",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iLVdzVUE1NW9tMm5yd0FxNEV3OUpQVWFaaVpoT1FlTG9oVkxsS0U0dDItbXRDUkxTeFdHaXFQZ3JSeGsyTGNpbnF4UHA2NGMybTBzUTU1VTVrM2gybXdpVThyZkZqazI1a1piaUVMSnVyd0NHTkszaUpUX2syWm8?oc=5",
+      "description": "A cosa serve il botulino? Negli usi meno noti non c'entrano le rughe&nbsp;&nbsp;AdnkronosDal mal di testa alla sudorazione eccessiva, sei usi poco conosciuti del botulino&nbsp;&nbsp;ANSABotulino, non serve solo per le rughe. Dal bruxismo al mal di testa: ecco i 6 utilizzi meno noti&nbsp;&nbsp;Quotidiano NazionaleBotulino non solo 'spiana rughe', ecco 6 usi poco noti&nbsp;&nbsp;VirgilioIl ‘botox’ non serve solo ad apparire più belli: “Aiuto concreto contro l’emicrania cronica”&nbsp;&nbsp;Agenzia ",
+      "pub_date": "2026-03-11T06:10:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "migraine",
+          "keyword": "emicrania",
+          "related_drugs": [
+            "abaloparatide",
+            "abiraterone-acetate",
+            "acetylsalicylic-acid",
+            "aclidinium-bromide",
+            "alpelisib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "abaloparatide",
+        "abiraterone-acetate",
+        "acetylsalicylic-acid",
+        "aclidinium-bromide",
+        "alpelisib"
+      ]
+    },
+    {
+      "id": "8f22d706365f",
+      "source": "BBC",
+      "source_feed": "google_uk",
+      "title": "How an AI tool is helping doctors prescribe antidepressants - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBibzFhY2c0Mjk0QWduUW4tVnRHU2E1dE9nVkFnSDd5dWk0MGp4Y3BudXJJXzc4cl84X2xfelllR0t2WjlwX0x0YXdSNDlhb19wblIyWTR1aXhsOHFz?oc=5",
+      "description": "How an AI tool is helping doctors prescribe antidepressants&nbsp;&nbsp;BBCNovel Tool Helps Guide Antidepressant Selection&nbsp;&nbsp;MedscapeAI tool personalises antidepressant treatment and improves depression outcomes&nbsp;&nbsp;Open Access GovernmentThis AI tool can prescribe antidepressants for you&nbsp;&nbsp;NewsBytesAI tool cuts antidepressant drop-out rates by 40%, trial finds&nbsp;&nbsp;Doctors.net.uk",
+      "pub_date": "2026-03-11T06:06:26+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "depression",
+          "keyword": "depression",
+          "related_drugs": [
+            "agomelatine",
+            "brexpiprazole",
+            "duloxetine-hydrochloride",
+            "esketamine-hydrochloride",
+            "olanzapine"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "agomelatine",
+        "brexpiprazole",
+        "duloxetine-hydrochloride",
+        "esketamine-hydrochloride",
+        "olanzapine"
+      ]
+    },
+    {
+      "id": "329f98827fb9",
+      "source": "Le Monde.fr",
+      "source_feed": "google_fr",
+      "title": "Certains cancers seraient moins fréquents chez les végétariens : prostate, sein, pancréas… - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOanBmdFNMSWJldnVaQkdpbHVFdUVrREpNVm9tc2dRMEduSVRkbEVKZUtnZmZwenQzdXBnWDR2aGQzcFgzUExmd09ZY0stSDRwaldwTGZjR0xieklwYWp6WVRqN1BmNU00SnNRU0Z5Y25zN0EyWHBNZXdZblE0ZGNTSmxEcEFURUZPbVQ5bDN5Z3FLRW9KMUhtd0hpMDlWOXV6OWxiUVRmai12YnY3enN0TlJCYXRsam44T0c4RkVWWWIxYlhDbXBYRkkxNTd5Qy0yWEhZZktEZ25ib3pkSTRJal9NclJIR3lr?oc=5",
+      "description": "Certains cancers seraient moins fréquents chez les végétariens : prostate, sein, pancréas…&nbsp;&nbsp;Le Monde.frSanté en Dordogne : les soins de support, pour mieux vivre avec un cancer&nbsp;&nbsp;Sud OuestLa diététique, précieuse alliée contre le cancer&nbsp;&nbsp;Nice-Matin",
+      "pub_date": "2026-03-11T05:42:56+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "4364eecc177b",
+      "source": "The Guardian",
+      "source_feed": "google_uk",
+      "title": "Wegovy users have five times greater risk of sudden sight loss than Ozempic users, study finds - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa25WTlV2VllmUDJxUFhhejRObkNxalBULVVlRVFqMFZsbGpHdHhvQTV0dWhLUTVGWDdXbXAtekVlQWJ3SHBrMmpFNmlGQTRDZnhScGQyWWtyVjlNbXY3ZVBkMGxTd2ZMcFFrTjBYNWtoZ056bFFkdHFOMzlwR2JkVXVNOTFDZFB5V2gwbkJLYjZzZGNXYzBNTnZDLTY4OFk?oc=5",
+      "description": "Wegovy users have five times greater risk of sudden sight loss than Ozempic users, study finds&nbsp;&nbsp;The GuardianWegovy may have highest 'eye stroke' and sight loss risk among semaglutide GLP-1 agonists&nbsp;&nbsp;Medical XpressWegovy jab may carry higher risk of sight loss - study&nbsp;&nbsp;RTE.iePopular fat jab linked to 'five TIMES the risk of going blind' - after UK alert&nbsp;&nbsp;The SunEye sight warning issued to Wegovy users as new study reveals terrifying side effect&nbsp;&nbsp;t",
+      "pub_date": "2026-03-11T02:30:00+00:00",
+      "matched_drugs": [
+        {
+          "name": "Semaglutide",
+          "slug": "semaglutide",
+          "url": "/drugs/semaglutide/"
+        }
+      ],
+      "matched_diseases": [
+        {
+          "name": "stroke",
+          "keyword": "stroke",
+          "related_drugs": [
+            "aliskiren",
+            "amlodipine",
+            "avanafil",
+            "azilsartan-medoxomil",
+            "dronedarone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "aliskiren",
+        "amlodipine",
+        "avanafil",
+        "azilsartan-medoxomil",
+        "dronedarone"
+      ]
+    },
+    {
+      "id": "d3177dd88dc6",
+      "source": "The Telegraph",
+      "source_feed": "google_uk",
+      "title": "Blood test detects dementia risk in women 25 years before symptoms - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR25tYjNCTWt6RWRMMVQtN3BzY0tzMlNFM0NHUXl3V2t2bFZrcGY5cmFwVnJLTmQ4VVRCT1VjX3o5amhJby1rUFpXT1J0cGQ3VHY4TjFvRi1CM2RKT3NhVU5QLW1ZN2ZMMU5NN25xWS1lMnV0NWhweFM5TEVXdEpvcW1kUkhMSlFwbWRoallqUkpkU1FCY3RFS21Bel9kNGJfbXc?oc=5",
+      "description": "Blood test detects dementia risk in women 25 years before symptoms&nbsp;&nbsp;The TelegraphBlood phosphorylated tau elevation as a biomarker in immunoglobulin light chain and transthyretin amyloidosis&nbsp;&nbsp;NatureNew Blood Test for Alzheimer’s&nbsp;&nbsp;Neuroscience NewsBlood Tests Could Provide Early Warning Of Alzheimers Disease&nbsp;&nbsp;HackadayBlood test marker p-tau217 helps detect early dementia risk in cognitively healthy older women&nbsp;&nbsp;News-Medical",
+      "pub_date": "2026-03-10T19:05:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "alzheimer disease",
+          "keyword": "dementia",
+          "related_drugs": [
+            "alectinib-hydrochloride",
+            "brigatinib",
+            "carbidopa",
+            "ceritinib",
+            "crizotinib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "alectinib-hydrochloride",
+        "brigatinib",
+        "carbidopa",
+        "ceritinib",
+        "crizotinib"
+      ]
+    },
+    {
+      "id": "2ba3aeac3086",
+      "source": "Libero Quotidiano",
+      "source_feed": "google_it",
+      "title": "Cancro al seno, la nuova arma per combattere le recidive - Libero Quotidiano",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFpOdUFrUzZtUWxxODA0ZXg0U2xMczQxNnZMUF9mZG0wUFoxRGNCQTFIeEcxWUZGS0ppaDZ3UEIxOE1qblhzV2dacWg2X0ZEMTdFV2ZQZ1loRk10clZualdnVDNmZmVxSHZwTGtFRS1mbGhRV3hrV1YxeWdWdHc0NmxlUDFpOUhPSlRKeWhMblJMLWJNWE9CeE5keWM2azVQMVZUdk9UYkZ1QXE4OUE?oc=5",
+      "description": "Cancro al seno, la nuova arma per combattere le recidive&nbsp;&nbsp;Libero QuotidianoTumore al seno in fase iniziale: Aifa approva la rimborsabilità di ribociclib per ridurre il rischio di recidiva&nbsp;&nbsp;Vanity Fair ItaliaRondena (Novartis): \"Prevenire recidive cancro seno fa bene a pazienti e Ssn\"&nbsp;&nbsp;AdnkronosCancro al seno iniziale, oncologo De Laurentiis: \"Con ribociclib più probabile guarire\"&nbsp;&nbsp;VirgilioCoco (Novartis): \"In cancro al seno in fase precoce sfida guarigione",
+      "pub_date": "2026-03-10T18:30:19+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "bb26e4a39c5b",
+      "source": "Nature",
+      "source_feed": "google_uk",
+      "title": "From cancer to Alzheimer’s: could a renewed focus on energy transform biomedicine? - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YNVc4M0M1WllteVk0WDZYd3VGVE9zejI2MDBvVDEyMWVSaEVkZUd1VkdKRnFpYkNvWWpkVEtZMU5NMmRHT2QxUzFtTUVZZ0x5NVdudWpnSlVfUDUzaURz?oc=5",
+      "description": "From cancer to Alzheimer’s: could a renewed focus on energy transform biomedicine?&nbsp;&nbsp;Nature",
+      "pub_date": "2026-03-10T15:13:39+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "3ecc2d3bdfd6",
+      "source": "Ärzte Zeitung",
+      "source_feed": "google_de",
+      "title": "Brustkrebspatientin gegen Herpes zoster impfen? - Ärzte Zeitung",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVThhM1pmMHV4QU5qRnlYd2V4YXVGN1I0WmwxZnV4QnYxMGp6YlppeWQxaGYwQ2Q2R0RtY20yV0gyRGU1aUJ5U3czWktsS1lhaEd2N00xSHBLWFFfNGYxV0xGY2VxNGZ5UjFTaWp6ZVVqU2hLMWFDUkVOdHhCOEVCcnhjTUgySU1tN0djYzdxTngyaWlQdzJibm1INA?oc=5",
+      "description": "Brustkrebspatientin gegen Herpes zoster impfen?&nbsp;&nbsp;Ärzte Zeitung",
+      "pub_date": "2026-03-10T15:10:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "9feaff662a0e",
+      "source": "Le Parisien",
+      "source_feed": "google_fr",
+      "title": "« Une nouvelle cible thérapeutique » : des chercheurs français découvrent un mécanisme méconnu dans la maladie d’Alzheimer - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQa3dqX0tXeGg0WXBWZ0Q2RGlJejRyb2N4VWlQMEdIcTRJYmlscGY4Z3I3U0F4R0RpN1dVNDdSMWtlU2hTZElmTHdCbEdiNER2eUszU1BuTHhhQXBkOU1RNGw5WDhMU29vVlJibW1hZkF0UjlyVUVSZUdNa1NoNE80N0diMEFoYi1ZNjZxTzdVVm5KdnJhOGstYmpCU1FlUWRZN2pkTjRiSF9GV2RNbHJqN1RrRXItQUtTbVRqRVpYd3VpeUlvNmFpeWhUSkkyQV81Z0lEeWZaMWhYRHNqTk9adjNxSzBrb1QwWnR1MHNmZFAySWZZT3JSWTVmdTVob0RWbVFkWWFEeFBZcFBEUTJfZ3dhQjE3VDMwMnlySDNkY3RCYjA?oc=5",
+      "description": "« Une nouvelle cible thérapeutique » : des chercheurs français découvrent un mécanisme méconnu dans la maladie d’Alzheimer&nbsp;&nbsp;Le ParisienAlzheimer : un mécanisme clé dans l’apparition et le développement de la maladie découvert par des chercheurs français&nbsp;&nbsp;Le Figaro Santé\"Une piste pleine d'espoir\" : des chercheurs français font une découverte majeure sur la maladie d'Alzheimer&nbsp;&nbsp;TF1 InfoUne découverte majeure de Français ouvre des pistes de traitement contre Alzheimer",
+      "pub_date": "2026-03-10T14:52:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "alzheimer disease",
+          "keyword": "maladie d'Alzheimer",
+          "related_drugs": [
+            "alectinib-hydrochloride",
+            "brigatinib",
+            "carbidopa",
+            "ceritinib",
+            "crizotinib"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "alectinib-hydrochloride",
+        "brigatinib",
+        "carbidopa",
+        "ceritinib",
+        "crizotinib"
+      ]
+    },
+    {
+      "id": "decc6bfa6ce9",
+      "source": "WEB.DE",
+      "source_feed": "google_de",
+      "title": "Farbenblinde übersehen entscheidendes Krebs-Warnsignal - WEB.DE",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUZzRXQ4MHRodTFaUjRZYjZGMmowZVcwbVFKTjFmV2xZWDkzY2Z3bE1oaFF4VmJmQ3FGUHBWbVJvZTNBUlFtejZ2aUJDLXFIMjlCQ21ETDByaVRvUjhrY0lhejV6TlJVdHlDTUs5Qm1BVDJ1UEtRR1o1MG1Ca1BpNHpwYWZ1dlZoS010Um1OcUhkVXBid3ZPQVp2RVFPbFh5?oc=5",
+      "description": "Farbenblinde übersehen entscheidendes Krebs-Warnsignal&nbsp;&nbsp;WEB.DE",
+      "pub_date": "2026-03-10T14:08:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "310c7580ef26",
+      "source": "ABC",
+      "source_feed": "google_es",
+      "title": "El cerebro masculino y femenino no procesan igual los fármacos de moda contra la obesidad - ABC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZVZZSmNpQmxqRjB3SG03YkZRalR2TkZEVk1nTVZ0Q2hhS2FTaldFYlVReWdYczNybHpSb0lHb19nM1hfdDhKeXJMRkNWMFpuNUg4QXhrekIybEozOVdtZEp3RHh6QTBmMFlhUTRVYnM5cEw3bHRlZGxZbnVCc1lhTW9zTXF0OEtTNHZ4WkhsRHZ6ZUhxZGNRd29fRWNoLVJwYndMeHpB0gGrAUFVX3lxTFBKNUNnTGo2VUhuV0hNRWQtRmVyX19EVHRxT0NDSFVsT2hHbWpXQmxkRnVZSU5YUFpjbzFCZUg5VmxFT1dIY3p5d2VaZjNVU3JYVnhNRzVCTkp2UVFwRTVTOXJUenM0Ujd0Z1hLWTVKQVIwc3NLWFVpcjFEd08zMGpqTVNyQVAwVktaOFJWekdwckxQZWpkeXNmaks1c1pfX0E1dFRVYkdweVNyMA?oc=5",
+      "description": "El cerebro masculino y femenino no procesan igual los fármacos de moda contra la obesidad&nbsp;&nbsp;ABCSorpresa en la ciencia: analizaron si las inyecciones para adelgazar impactan más en varones o en mujeres&nbsp;&nbsp;El DestapeUn estudio mostró que los fármacos para bajar de peso funcionan mejor en mujeres que en varones&nbsp;&nbsp;PerfilMedicamentos inyectables GLP-1 para bajar de peso: científicos compararon su eficacia en hombres y mujeres&nbsp;&nbsp;InfobaeConfirman que las inyecciones p",
+      "pub_date": "2026-03-10T12:30:57+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "obesity",
+          "keyword": "obesidad",
+          "related_drugs": [
+            "bupropion",
+            "fenfluramine-hydrochloride",
+            "lasmiditan-succinate",
+            "melatonin",
+            "naltrexone"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "bupropion",
+        "fenfluramine-hydrochloride",
+        "lasmiditan-succinate",
+        "melatonin",
+        "naltrexone"
+      ]
+    },
+    {
+      "id": "c0871e126c65",
+      "source": "DiLei",
+      "source_feed": "google_it",
+      "title": "Dieta nordica, le cinque regole per prevenire malattie cardiovascolari, tumori e mantenersi in salute - DiLei",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHNCaDYxTVB3UGo2cjM2S1ZvSF9pTVJTUHN5N21wejBpdUtyT3VReHhJZ2lqcnFKMVpDNWVtVUdjRWpKb1lndTlYVmpqZzRzWXZXVXRTWlFtSzRHTzJDMHg4N3hSdC1jdVRQZ2J6eHlXaUU3cE1fYk9QTDA1VHZfMzg0d0hKVE8xRUpQY2NYUFRSbFBSVDY4UmRSY3NhRmpnZE9wbNIBqgFBVV95cUxORGNTeTllU20wdjZSZXh6VmtPaW5jRmNjSzlMOWpaaGFsWGEyS18wSkp2anFyWlA2VDRLQkVfZHJ0VjIzWXhmSURUaFJQdTh3cllHblhucEMxUlZqejFoTGtXMEZiNE5KdHVtSmJwS21FVDl5RkdvRzFsRHRFZ0JHM25ZSkxzYkpGME0zS2tOVm51MXhqOS1HMUx3Qy1wNGtVeXEyTUQ0eUFKZw?oc=5",
+      "description": "Dieta nordica, le cinque regole per prevenire malattie cardiovascolari, tumori e mantenersi in salute&nbsp;&nbsp;DiLei",
+      "pub_date": "2026-03-10T11:08:50+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "521a60426dcc",
+      "source": "Kurier",
+      "source_feed": "google_de",
+      "title": "Mit Speichel frühe Diagnose von Parkinson und Epilepsie möglich - Kurier",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQU5PSmo1WmNyeVBVcm9YNVNHa09MQVV1cVBqdnUyRTRvYmdkTm9UNEpzVDVRREpnanB0Sjd0bnhQZDRtMWxKLXlJR09tc1NJOUluT1FNQmltR1NTcW85aG5yblZqRmdTb05kRXVwWTBuZFFjUFEzbmFUcFRhWExuc0hLVFZaUFJfTmRNdW5Od0YxaklfWEdoVmozVnJHcV9H?oc=5",
+      "description": "Mit Speichel frühe Diagnose von Parkinson und Epilepsie möglich&nbsp;&nbsp;Kurier",
+      "pub_date": "2026-03-10T10:29:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "epilepsy",
+          "keyword": "Epilepsie",
+          "related_drugs": [
+            "brivaracetam",
+            "cenobamate",
+            "cerliponase-alfa",
+            "dostarlimab",
+            "eslicarbazepine-acetate"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "brivaracetam",
+        "cenobamate",
+        "cerliponase-alfa",
+        "dostarlimab",
+        "eslicarbazepine-acetate"
+      ]
+    },
+    {
+      "id": "6e657bb08d33",
+      "source": "SWR",
+      "source_feed": "google_de",
+      "title": "Angst vor Krebs: So können wir das Krankheitsrisiko reduzieren - SWR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGZGMlR6UDh2bUZXM3BDcE5UanVjR1VnQ1U2ZGs1eG85dUUwXzlBWGJGbWJjN0pFTnlpMENOMlctYkI3UXB5MXVIc29yVU1nM2d5bVlxS3E1WEowTHFYYUJOeHZEVUE2MFA3VVAza0c0aGR6RlVZTG96eTlxTlNFd2Vtay1uaUtRQU1yNzZLU1RBaXlYTFE?oc=5",
+      "description": "Angst vor Krebs: So können wir das Krankheitsrisiko reduzieren&nbsp;&nbsp;SWR",
+      "pub_date": "2026-03-10T10:13:01+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "Krebs",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "43dec758031e",
+      "source": "Doctor33",
+      "source_feed": "google_it",
+      "title": "Carcinoma papillare tiroideo, possibile sovradiagnosi in molti casi. Lo studio - Doctor33",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2FHcHVpOVpMQjlYb3JrOUtEWWhaaGhHYXhucFNJZzcwX3l4ZXBIYnQyMGZacjFDQURQbzhGbHpuTnJIR2VIR3poclVhazVjbXNVQ3BOM1AwTTU0MzFSeTNGS09Fd1ByX283XzcxQXNMemxEREdCYXB4S1dYcW93Ym1oanVhTENPU09xWGFZZlhEZE9TWXBWSVA0azVzQkFWVmJHcUV6N2plcHJPOUl5LThXREc?oc=5",
+      "description": "Carcinoma papillare tiroideo, possibile sovradiagnosi in molti casi. Lo studio&nbsp;&nbsp;Doctor33",
+      "pub_date": "2026-03-10T09:35:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "carcinoma",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    },
+    {
+      "id": "fef2da620dd6",
+      "source": "TARA24",
+      "source_feed": "google_de",
+      "title": "Selbstzerstörung als Schutz: Wie Immunzellen Toxoplasma stoppen - TARA24",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd0QtVE5kejVoX25IUkk3MFVPRnR5NGg2cFhPVjg0R0hBNmhTY1BEOTNFT0t3T2RvdU1yZUFaWmtnZ0xXN3AxejBNTlFRUHc5T3BraVAxUTg4cExqdndfV3NsS2VtYVd2NzdneFhsdUJPYWFWdG5iVFd0U0tobzFnUXI0N0NoZEJOcTRRMHQ0QzdoWEFuMzhpLXlPSl9MSWtZRF9vRnFpbnZUbk9KSUE?oc=5",
+      "description": "Selbstzerstörung als Schutz: Wie Immunzellen Toxoplasma stoppen&nbsp;&nbsp;TARA24",
+      "pub_date": "2026-03-10T08:00:00+00:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "asthma",
+          "keyword": "asma",
+          "related_drugs": [
+            "aztreonam",
+            "baricitinib",
+            "basiliximab",
+            "belatacept",
+            "bosutinib-as-monohydrate"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "aztreonam",
+        "baricitinib",
+        "basiliximab",
+        "belatacept",
+        "bosutinib-as-monohydrate"
+      ]
+    },
+    {
+      "id": "9a9842720b0d",
+      "source": "News and press releases",
+      "source_feed": "ema_news",
+      "title": "New medicine to treat paediatric low-grade glioma",
+      "link": "https://www.ema.europa.eu/en/news/new-medicine-treat-paediatric-low-grade-glioma",
+      "description": "Updated on 2 March 2026:The description of the tumour in the opening paragraph has been amended.EMA has recommended granting a conditional marketing authorisation in the…",
+      "pub_date": "2026-02-27T10:25:43+01:00",
+      "matched_drugs": [],
+      "matched_diseases": [
+        {
+          "name": "cancer",
+          "keyword": "tumour",
+          "related_drugs": [
+            "acalabrutinib",
+            "afatinib",
+            "aflibercept",
+            "agalsidase-beta",
+            "alectinib-hydrochloride"
+          ]
+        }
+      ],
+      "related_drugs": [
+        "acalabrutinib",
+        "afatinib",
+        "aflibercept",
+        "agalsidase-beta",
+        "alectinib-hydrochloride"
+      ]
+    }
+  ]
+}

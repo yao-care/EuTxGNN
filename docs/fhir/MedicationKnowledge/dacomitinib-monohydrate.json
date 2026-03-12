@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "dacomitinib-monohydrate",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:32Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB11963",
+        "display": "DACOMITINIB MONOHYDRATE"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "dacomitinib-monohydrate",
+        "display": "Vizimpro"
+      }
+    ],
+    "text": "Vizimpro (DACOMITINIB MONOHYDRATE)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Vizimpro"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/004779"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

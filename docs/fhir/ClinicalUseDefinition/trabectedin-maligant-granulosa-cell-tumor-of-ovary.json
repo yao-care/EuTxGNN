@@ -1,0 +1,35 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "trabectedin-maligant-granulosa-cell-tumor-of-ovary",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:36Z"
+  },
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/trabectedin"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "maligant granulosa cell tumor of ovary"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN Deep Learning"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
+      "valueString": "DB05109"
+    }
+  ]
+}

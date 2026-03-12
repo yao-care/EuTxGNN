@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "deferasirox",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:32Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB01609",
+        "display": "DEFERASIROX"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "deferasirox",
+        "display": "Deferasirox Accord"
+      }
+    ],
+    "text": "Deferasirox Accord (DEFERASIROX)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Deferasirox Accord"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/005156"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

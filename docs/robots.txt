@@ -1,0 +1,11 @@
+# EuTxGNN Robots.txt
+# https://eutxgnn.yao.care/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://eutxgnn.yao.care/sitemap.xml
+
+# Crawl-delay (optional, be friendly to search engines)
+Crawl-delay: 1

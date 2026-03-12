@@ -1,0 +1,121 @@
+<!-- D3.js Interactive Charts for EuTxGNN -->
+<style>
+.d3-chart-section {
+  margin: 2rem 0;
+}
+.d3-chart-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #333;
+}
+.d3-chart-container {
+  background: #fafafa;
+  border-radius: 12px;
+  padding: 1.5rem;
+  overflow-x: auto;
+}
+.d3-scatter .dot {
+  cursor: pointer;
+  transition: r 0.2s;
+}
+.d3-scatter .dot:hover {
+  r: 10;
+}
+.chart-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.chart-tab {
+  padding: 0.5rem 1rem;
+  background: #e0e0e0;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+.chart-tab:hover {
+  background: #d0d0d0;
+}
+.chart-tab.active {
+  background: #1976D2;
+  color: white;
+}
+.d3-tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.85);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  pointer-events: none;
+  z-index: 1000;
+  max-width: 250px;
+}
+.d3-tooltip .drug-name {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.d3-tooltip .drug-info {
+  opacity: 0.9;
+  font-size: 12px;
+}
+</style>
+
+<div class="d3-chart-section">
+  <div class="d3-chart-title">Evidence Level Distribution</div>
+  <div class="chart-tabs">
+    <button class="chart-tab active" data-filter="all">All ({{ site.data.drug_stats.total_drugs }})</button>
+    <button class="chart-tab" data-filter="top">Top 100</button>
+  </div>
+  <div class="d3-chart-container">
+    <div id="evidence-scatter-chart"></div>
+  </div>
+</div>
+
+<div class="d3-tooltip" style="display: none;"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const drugData = {{ site.data.drug_stats.all_drugs | jsonify }};
+  const levelColors = { 'L1': '#2E7D32', 'L2': '#66BB6A', 'L3': '#FDD835', 'L4': '#FB8C00', 'L5': '#9E9E9E' };
+  const levelLabels = { 'L1': 'Multiple Phase 3 RCTs', 'L2': 'Single RCT', 'L3': 'Observational', 'L4': 'Preclinical', 'L5': 'AI prediction' };
+  const tooltip = d3.select('.d3-tooltip');
+  let currentFilter = 'all';
+
+  function createScatterPlot(filter) {
+    const container = d3.select('#evidence-scatter-chart');
+    container.selectAll('*').remove();
+    let filteredData = filter === 'top' ? [...drugData].sort((a, b) => b.indication_count - a.indication_count).slice(0, 100) : drugData;
+    const margin = {top: 20, right: 30, bottom: 50, left: 60};
+    const width = Math.min(800, container.node().getBoundingClientRect().width) - margin.left - margin.right;
+    const height = 300 - margin.top - margin.bottom;
+    const svg = container.append('svg').attr('class', 'd3-scatter').attr('width', width + margin.left + margin.right).attr('height', height + margin.top + margin.bottom).append('g').attr('transform', `translate(${margin.left},${margin.top})`);
+    const x = d3.scalePoint().domain(['L1', 'L2', 'L3', 'L4', 'L5']).range([30, width - 30]).padding(0.5);
+    const y = d3.scaleLinear().domain([0, d3.max(filteredData, d => d.indication_count) + 1]).nice().range([height, 0]);
+    svg.append('g').attr('class', 'grid').attr('opacity', 0.1).call(d3.axisLeft(y).tickSize(-width).tickFormat(''));
+    svg.append('g').attr('transform', `translate(0,${height})`).call(d3.axisBottom(x));
+    svg.append('text').attr('x', width / 2).attr('y', height + 40).attr('text-anchor', 'middle').style('font-size', '12px').style('fill', '#666').text('Evidence Level');
+    svg.append('g').call(d3.axisLeft(y).ticks(5));
+    svg.append('text').attr('transform', 'rotate(-90)').attr('y', -45).attr('x', -height / 2).attr('text-anchor', 'middle').style('font-size', '12px').style('fill', '#666').text('Predicted Indications');
+    const jitter = d3.randomUniform(-20, 20);
+    svg.selectAll('.dot').data(filteredData).enter().append('circle').attr('class', 'dot').attr('cx', d => x(d.level) + jitter()).attr('cy', d => y(d.indication_count)).attr('r', 5).attr('fill', d => levelColors[d.level]).attr('opacity', 0.7).attr('stroke', '#fff').attr('stroke-width', 1)
+      .on('mouseover', function(event, d) { d3.select(this).attr('opacity', 1); tooltip.style('display', 'block').html(`<div class="drug-name">${d.name}</div><div class="drug-info">Evidence: ${d.level}<br>Indications: ${d.indication_count}</div>`); })
+      .on('mousemove', function(event) { tooltip.style('left', (event.pageX + 15) + 'px').style('top', (event.pageY - 10) + 'px'); })
+      .on('mouseout', function() { d3.select(this).attr('opacity', 0.7); tooltip.style('display', 'none'); })
+      .on('click', function(event, d) { window.location.href = '/drugs/' + d.slug + '/'; });
+  }
+
+  d3.selectAll('.chart-tab').on('click', function() {
+    d3.selectAll('.chart-tab').classed('active', false);
+    d3.select(this).classed('active', true);
+    createScatterPlot(this.dataset.filter);
+  });
+
+  createScatterPlot('all');
+  window.addEventListener('resize', () => { clearTimeout(window.resizeTimer); window.resizeTimer = setTimeout(() => createScatterPlot(currentFilter), 250); });
+});
+</script>

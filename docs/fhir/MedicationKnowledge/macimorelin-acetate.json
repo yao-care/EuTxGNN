@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "macimorelin-acetate",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB13074",
+        "display": "MACIMORELIN ACETATE"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "macimorelin-acetate",
+        "display": "Ghryvelin (previously Macimorelin Aeterna Zentaris)"
+      }
+    ],
+    "text": "Ghryvelin (previously Macimorelin Aeterna Zentaris) (MACIMORELIN ACETATE)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Ghryvelin (previously Macimorelin Aeterna Zentaris)"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/004660"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

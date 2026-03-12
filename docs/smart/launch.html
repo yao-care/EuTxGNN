@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EuTxGNN - Launching SMART App...</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #003399 0%, #004db3 100%);
+            color: white;
+        }
+        .loading {
+            text-align: center;
+        }
+        .logo {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .logo span {
+            color: #ffcc00;
+        }
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(255,255,255,0.3);
+            border-radius: 50%;
+            border-top-color: #ffcc00;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .status {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        .error {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px;
+            text-align: left;
+        }
+        .error h2 {
+            margin-top: 0;
+            color: #ffcc00;
+        }
+        .error-details {
+            background: rgba(0,0,0,0.2);
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+            font-size: 0.9rem;
+            word-break: break-all;
+        }
+        .disclaimer {
+            position: fixed;
+            bottom: 20px;
+            font-size: 0.8rem;
+            opacity: 0.7;
+            text-align: center;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="loading" id="loading">
+        <div class="logo">Eu<span>TxGNN</span></div>
+        <div class="spinner"></div>
+        <p class="status">Connecting to EHR system...</p>
+    </div>
+    <div class="error" id="error" style="display: none;">
+        <h2>Launch Error</h2>
+        <p>Unable to connect to the EHR system. Please check the following:</p>
+        <ul>
+            <li>Your EHR system supports SMART on FHIR</li>
+            <li>The app is properly registered with your EHR</li>
+            <li>You have the necessary permissions</li>
+        </ul>
+        <p><strong>Error details:</strong></p>
+        <div class="error-details" id="error-message"></div>
+    </div>
+    <div class="disclaimer">
+        For research purposes only. Not intended for clinical decision-making.
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js"></script>
+    <script>
+        // EuTxGNN SMART App configuration
+        const CLIENT_ID = "eutxgnn-smart-app";
+        const REDIRECT_URI = window.location.origin + "/smart/app.html";
+
+        // SMART on FHIR authorization
+        FHIR.oauth2.authorize({
+            client_id: CLIENT_ID,
+            scope: "launch patient/MedicationRequest.read patient/MedicationStatement.read patient/Patient.read patient/Condition.read",
+            redirect_uri: REDIRECT_URI,
+            pkce: true
+        }).catch(function(error) {
+            document.getElementById("loading").style.display = "none";
+            document.getElementById("error").style.display = "block";
+            document.getElementById("error-message").textContent =
+                error.message || JSON.stringify(error) || "Unknown error occurred";
+            console.error("SMART Launch Error:", error);
+        });
+    </script>
+</body>
+</html>

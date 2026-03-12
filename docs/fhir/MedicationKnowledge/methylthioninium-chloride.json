@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "methylthioninium-chloride",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:32Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB08167",
+        "display": "METHYLTHIONINIUM CHLORIDE"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "methylthioninium-chloride",
+        "display": "Lumeblue (previously Methylthioninium chloride Cosmo)"
+      }
+    ],
+    "text": "Lumeblue (previously Methylthioninium chloride Cosmo) (METHYLTHIONINIUM CHLORIDE)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Lumeblue (previously Methylthioninium chloride Cosmo)"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/002776"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

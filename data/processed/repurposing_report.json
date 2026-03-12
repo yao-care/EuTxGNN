@@ -1,0 +1,29 @@
+{
+  "total_candidates": 1491,
+  "unique_drugs": 304,
+  "unique_diseases": 649,
+  "top_diseases": {
+    "diabetes mellitus (disease)": 23,
+    "AIDS": 22,
+    "acute lymphoblastic/lymphocytic leukemia": 14,
+    "type 2 diabetes mellitus": 14,
+    "lymphosarcoma": 12,
+    "B-cell neoplasm": 12,
+    "hypertensive disorder": 10,
+    "non-small cell lung carcinoma (disease)": 10,
+    "hemophilia": 9,
+    "symptomatic form of hemophilia in female carriers": 9
+  },
+  "top_drugs": {
+    "DEXAMETHASONE": 144,
+    "HYDROCORTISONE": 138,
+    "CARMUSTINE": 52,
+    "THIOTEPA": 39,
+    "PACLITAXEL": 30,
+    "METHOTREXATE": 27,
+    "TOBRAMYCIN": 25,
+    "KETOCONAZOLE": 23,
+    "BEVACIZUMAB": 20,
+    "FLUTICASONE PROPIONATE": 18
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "oritavancin-diphosphate",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB04911",
+        "display": "ORITAVANCIN (DIPHOSPHATE)"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "oritavancin-diphosphate",
+        "display": "Tenkasi (previously Orbactiv)"
+      }
+    ],
+    "text": "Tenkasi (previously Orbactiv) (ORITAVANCIN (DIPHOSPHATE))"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Tenkasi (previously Orbactiv)"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/003785"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

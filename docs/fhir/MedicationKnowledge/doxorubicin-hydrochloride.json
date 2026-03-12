@@ -1,0 +1,47 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "doxorubicin-hydrochloride",
+  "meta": {
+    "lastUpdated": "2026-03-03T10:40:31Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB00997",
+        "display": "DOXORUBICIN HYDROCHLORIDE"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "doxorubicin-hydrochloride",
+        "display": "Myocet liposomal (previously Myocet)"
+      }
+    ],
+    "text": "Myocet liposomal (previously Myocet) (DOXORUBICIN HYDROCHLORIDE)"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [
+    "Myocet liposomal (previously Myocet)"
+  ],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
+      "valueString": "EMEA/H/C/000297"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

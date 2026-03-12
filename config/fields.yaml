@@ -1,0 +1,52 @@
+# EMA (European Medicines Agency) 欄位映射設定
+
+# 基本設定
+country_code: "EU"
+language: "en"
+regulatory_agency: "EMA"
+
+# 資料來源
+data_source:
+  url: "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx"
+  format: "xlsx"
+  header_row: 8  # Excel 檔案的標題行位置（0-indexed）
+
+# 欄位映射
+# 將 EMA 資料的欄位名稱對應到標準欄位
+field_mapping:
+  license_id: "EMA product number"
+  brand_name_local: "Name of medicine"
+  brand_name_en: "International non-proprietary name (INN) / common name"
+  ingredients: "Active substance"
+  indication: "Therapeutic indication"
+  therapeutic_area: "Therapeutic area (MeSH)"
+  dosage_form: ""  # EMA 無此欄位
+  manufacturer: "Marketing authorisation developer / applicant / holder"
+  approval_date: "Marketing authorisation date"
+  status: "Medicine status"
+  category: "Category"
+  atc_code: "ATC code (human)"
+  pharmacotherapeutic_group: "Pharmacotherapeutic group\n(human)"
+  url: "Medicine URL"
+
+# 註銷/無效狀態值
+withdrawn_statuses:
+  - "Withdrawn"
+  - "Refused"
+  - "Suspended"
+
+# 有效狀態值
+active_statuses:
+  - "Authorised"
+
+# 類別篩選（僅處理人用藥品）
+category_filter: "Human"
+
+# 成分分隔符
+ingredient_separator: ";"
+
+# 日期格式
+date_format: "%d/%m/%Y"
+
+# 編碼
+encoding: "utf-8"
