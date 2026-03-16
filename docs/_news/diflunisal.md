@@ -14,7 +14,7 @@ permalink: /news/diflunisal/
 ---
 
 <p class="key-answer" data-question="Diflunisal 有什麼相關新聞？">
-<strong>Diflunisal</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Diflunisal</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ permalink: /news/diflunisal/
 <p><a href="{{ '/drugs/diflunisal/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Mila, madre de un adolescente con artritis idiopática: "No soportaba ni una sábana encima"](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0Q2d3Ywekk0Q21JRXhLdGNjakhmcnVXUUZIUlljZEF5ZG1reTJ6Q09rYm9zTWl0d2NyTUs1ZjBvZHJqMi0zQUUxVERWa3pMZFYyaGhXNU9HT0dhNURnUTU4bG5tckZYYjZ4VG1MNU81S2RXUFpuVU0xT0hoVUNwM0tqVjlhNEo5YkcwajdXdE9PYmRkNEJWVV9YYjZzSUtWa2gxSjUyWnhnVU9jbEhfOGltaV9GcUc0SjYxLVkwZG9NYnJiYzFqUVQxV2NhVjY1dUFkNE5HM0xUb3FjYTVr0gHkAUFVX3lxTE9NNU0zWEJBT0EzWGpMRVpFYzFXM1ZaSmZQQVVWdG5GcjRSb0ZBTURVbm1PanM3Q3RoWDcwM3hNXzNvNmw4X1JaemhMbnlnX3ZtUHFGUllDVzIwQmF5Y2lwZWYtN2todHo4b005NjI3TUJrSG9PQk5RZzdGdGZNdzVRWEVnX2J3WG93S1U2UWdmQlprYjFfUlR3ZHlNOFIzQ25keWtOUkxCRW1GMUVuRGZGS0xEV1VtbEtyRkhTODdKRVBBaG5uQWdKM0hFbEl6QlBQTm5xTm5ibWExdEhmdk1zOWVILQ?oc=5)
-
-2026-03-16 <span class="news-indication-tag">artritis</span>
-
-來源：[Galiciae](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0Q2d3Ywekk0Q21JRXhLdGNjakhmcnVXUUZIUlljZEF5ZG1reTJ6Q09rYm9zTWl0d2NyTUs1ZjBvZHJqMi0zQUUxVERWa3pMZFYyaGhXNU9HT0dhNURnUTU4bG5tckZYYjZ4VG1MNU81S2RXUFpuVU0xT0hoVUNwM0tqVjlhNEo5YkcwajdXdE9PYmRkNEJWVV9YYjZzSUtWa2gxSjUyWnhnVU9jbEhfOGltaV9GcUc0SjYxLVkwZG9NYnJiYzFqUVQxV2NhVjY1dUFkNE5HM0xUb3FjYTVr0gHkAUFVX3lxTE9NNU0zWEJBT0EzWGpMRVpFYzFXM1ZaSmZQQVVWdG5GcjRSb0ZBTURVbm1PanM3Q3RoWDcwM3hNXzNvNmw4X1JaemhMbnlnX3ZtUHFGUllDVzIwQmF5Y2lwZWYtN2todHo4b005NjI3TUJrSG9PQk5RZzdGdGZNdzVRWEVnX2J3WG93S1U2UWdmQlprYjFfUlR3ZHlNOFIzQ25keWtOUkxCRW1GMUVuRGZGS0xEV1VtbEtyRkhTODdKRVBBaG5uQWdKM0hFbEl6QlBQTm5xTm5ibWExdEhmdk1zOWVILQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

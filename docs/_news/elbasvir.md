@@ -50,6 +50,14 @@ permalink: /news/elbasvir/
 
 ---
 
+### [El 'gen de altura' de los yaks que podría ayudar a reparar el daño en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
+
+2026-03-16 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
+
+---
+
 ### [Multivitamine bremsen Alterung – doch Pillen bergen Risiken ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
 
 2026-03-16 <span class="news-indication-tag">MS</span>
@@ -58,11 +66,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [El 'gen de altura' de los yaks que podría ayudar a reparar el daño en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
+### [«Si detectamos precozmente la enfermedad renal, podemos revertirla» - La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
 
-2026-03-16 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-03-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
+來源：[La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
 
 ---
 
@@ -92,7 +100,7 @@ permalink: /news/elbasvir/
 
 ### [Alimentation : la charcuterie sans nitrite, une fausse bonne idée ?](https://news.google.com/rss/articles/CBMipgFBVV95cUxNczZ4ODU1V3hfU00waXpYZ0lUQnBfanFPaENtZG95V1pEZ0ZfRFRzWjZ3aENvWFNzYmJyV3U4Q1VFTWp2SHBkVlFzZkxiU0IxOWZlMVpkRFVVYnVsdkJ3RWtwUUVMdkF3OVl3enB4V3l5aHlhb1NkV3RRMzJROVltdDlmWkZMYTFndVhHWmRoelhVQTFXMTJ2V28xUFVwLTIyU183UWhn?oc=5)
 
-2026-03-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-03-15 <span class="news-indication-tag">MS</span>
 
 來源：[RTL.fr](https://news.google.com/rss/articles/CBMipgFBVV95cUxNczZ4ODU1V3hfU00waXpYZ0lUQnBfanFPaENtZG95V1pEZ0ZfRFRzWjZ3aENvWFNzYmJyV3U4Q1VFTWp2SHBkVlFzZkxiU0IxOWZlMVpkRFVVYnVsdkJ3RWtwUUVMdkF3OVl3enB4V3l5aHlhb1NkV3RRMzJROVltdDlmWkZMYTFndVhHWmRoelhVQTFXMTJ2V28xUFVwLTIyU183UWhn?oc=5)
 
@@ -119,14 +127,6 @@ permalink: /news/elbasvir/
 2026-03-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[CuídatePlus](https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFd5YlBpeENHSkU4SFNwRXNDNkItU3F6MFBVcktTdi13Zy1sVDNtdnp2YWpLYl9qVTZBRFhuNDdMQVJxOWptdnhmQllJS1pudjZUMnZUSFhKNGlETDZtMEV5WjFsNEZ1c05DbnRFbWo5NlBsSTJsYnRYQnduaFFwb2t6Z1FNU25sTS1HZENzaTJXYnByNUwyV0RZM0VKalhT0gGmAUFVX3lxTE1NOGE4amtyODF3WmI5SVZXVW1xTS1kYkNJd3lLeGdjZlIwTkdFVURxNDFZVzFQb21zY09MclptcnBQRVdpRUpIVzVfQzhCLTFGWGo0WUo0UjhvcVNCNjZ4NTg5dlh0eGVfRTBvRVdfT2t1MmMxcjVITXN5WXV1bkpRSFFXQlBtaW1SM3F0d3gyV2h6OUNlUHhCQUpENzN2MUVFUG53eUE?oc=5)
-
----
-
-### ['Just weeks ago I was a 23-year-old gym goer, now I need a full-time carer' - Lancs Live](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3BTLTV3YVg3OVNFamZ0dEthLU80dWpsZWF5bGlFbEY5b2dEdW5YOVA0aTBWNjQtVnptdXFUUmRyUHJjWm4xQjFjSFRTMExTc21WbXl2SmlWR1g3M1lKU1hFelRZRGVta1RRbkFwc25hT0RzdnF1VHRqc3BtOXRuWdIBhgFBVV95cUxNcUgwODVDTGN2QjJQQnlkYWt5LW5wMXBFT1dNRFgtNElNTFBZMk9hRkdmcG9EUDBKWWVsMXgtOFhWb2RZSWJvdFRQSEhsdXpKeGhvQ2xaNlR4bFdNckMxZzhzY2JJM3kyRDZyZFNUX3dqcmFsUFU1ZmIzREdrOGpLN21yNlpUZw?oc=5)
-
-2026-03-14 <span class="news-indication-tag">MS</span>
-
-來源：[Lancs Live](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3BTLTV3YVg3OVNFamZ0dEthLU80dWpsZWF5bGlFbEY5b2dEdW5YOVA0aTBWNjQtVnptdXFUUmRyUHJjWm4xQjFjSFRTMExTc21WbXl2SmlWR1g3M1lKU1hFelRZRGVta1RRbkFwc25hT0RzdnF1VHRqc3BtOXRuWdIBhgFBVV95cUxNcUgwODVDTGN2QjJQQnlkYWt5LW5wMXBFT1dNRFgtNElNTFBZMk9hRkdmcG9EUDBKWWVsMXgtOFhWb2RZSWJvdFRQSEhsdXpKeGhvQ2xaNlR4bFdNckMxZzhzY2JJM3kyRDZyZFNUX3dqcmFsUFU1ZmIzREdrOGpLN21yNlpUZw?oc=5)
 
 ---
 

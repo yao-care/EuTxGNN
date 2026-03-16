@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### ["La clave no es agredir, es regular” Arkaitz Felices, cosmetólogo, descubre la crema para tratar el melasma de forma definitiva](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
+
+2026-03-16
+
+來源：[instyle.es](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
+
+---
 
 ### [Melasma kann behandelt werden, indem Sie diese einfachen Expertentipps befolgen](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlVFU1REa0pzOUYyVXNSaUhFd3RFYzhGZUZlT2xlcmRNdEtzdmVxcjc3Mm5mUWt6c2VZQndKZm5acjJyd1dCbGtpbWg0Y1Y5ZXJVMTZfc2ZUcDBzNmhsZmg0OWNETHMyQl92QWlMUXJ5R1F5Q2lRc0pfc3puQnd4dldQR1lIVmJxb1ljOTJ1UVM0ZEhLWF9XdEtYRVFJUmtGNTNmdg?oc=5)
 

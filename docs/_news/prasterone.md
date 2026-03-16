@@ -14,7 +14,7 @@ permalink: /news/prasterone/
 ---
 
 <p class="key-answer" data-question="Prasterone 有什麼相關新聞？">
-<strong>Prasterone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Prasterone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/prasterone/
 <p><a href="{{ '/drugs/prasterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Neuigkeiten für Menschen mit Diabetes im Straßenverkehr](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTgwR3ZPYUttdnE0WUhHdkdHZEZsTDJ5UUZacTNqc19xb1ZNeWNiVVpLQlA1dXdJR2k2dkFDVzdxVW55YnhkeWRUalFzQ21yUTV6N3FmVnhZX0YwTFg2Yk9sQjJpZjFPd1NIRkVnclRMblVtdF9ud2FsT3NXTWpLZlp0NVgtS3FZN1RFdS1DOTJ5VmJJR0JnNHpiZlpfTDVjN1Jlek85bWpCZVZmTWpINTc4cGVtUWQzZXAtUk9xSHQ0UQ?oc=5)
+
+2026-03-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTgwR3ZPYUttdnE0WUhHdkdHZEZsTDJ5UUZacTNqc19xb1ZNeWNiVVpLQlA1dXdJR2k2dkFDVzdxVW55YnhkeWRUalFzQ21yUTV6N3FmVnhZX0YwTFg2Yk9sQjJpZjFPd1NIRkVnclRMblVtdF9ud2FsT3NXTWpLZlp0NVgtS3FZN1RFdS1DOTJ5VmJJR0JnNHpiZlpfTDVjN1Jlek85bWpCZVZmTWpINTc4cGVtUWQzZXAtUk9xSHQ0UQ?oc=5)
+
+---
 
 ### [Bewegung ist medizin: so schlägt sport diabetes und herzrisiko](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVSR1ZYX2QtdlNGZC1DS3UxekpsSUE1OGZCbFVBUWpjYmg1QlBaWC10Y3E3SEE2OHdjTVFLTWplREU3aHEwV3NfSGpmZWZ1R0l0MUlZS01xb0xtUXpGdUltMFlzUmRhUzFqR05OVF91Yjg3UGloQm5COWZyRzRGRnd5bkQ2by0wV2tEZDB3ZW5aM00?oc=5)
 
@@ -66,19 +74,19 @@ permalink: /news/prasterone/
 
 ---
 
+### ["Le dépistage nous permet de faire entrer les patients dans un parcours de soins afin de retarder l’évolution de la maladie" : à Carcassonne une journée pour dépister les maladies rénales au plus tôt](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
+
+2026-03-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AF</span>
+
+來源：[L'Indépendant](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
+
+---
+
 ### [Chemists issue new warning for anyone taking ibuprofen, naproxen, diclofenac - Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 
 2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
-
----
-
-### [Tecnología y datos consolidan un nuevo modelo en diabetes - La Razón](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQm1yZmo2Zm5VRmVvVW9keXBmQl9sRG5nN0EwVTIyaFl0aXVELXZ6SEZZS0t4NkhINjFMdnQxUnNWa1NKSnJBTEhNY2JJdGdLSXBTdlBGYVFQWWc2SEFPZTVWbTJWTmUwam9BdzBrWHhNc09SQTI3akVFbVZ5YXJTbkhhVTFzWkJ6R01FdWxveTI4OHpHdGNMTm41VTJVcGE2WVVEclIwajdOcWhBWl9DN2NxQlliX3dJRUlMM25n0gHSAUFVX3lxTE5KN1B1QlF5eEU1eTJsY05MZXh2SDhTaElLd2JTYTVrQ0I5aF9BTU4tdWNTc09SdFNVelFwck1ZZmREUkhBU2ttR2ZiSGd3cGVSczNqcE9xdlRWMnZZMlNjX3JoZk5LQXFsd0hTZExTbE42TWY0SjlOTVM2emZPZTc5VTFDY2RZdERrZzdhZ1lUdHUxWGdXa0ZFSUFYZ2puWGJrb0VzalUwYlhyT2hubHhxQ2YwNHJmM0NWYWw5TXUyalAyR2VZQWhZaXZaUW9tNTlUUQ?oc=5)
-
-2026-03-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQm1yZmo2Zm5VRmVvVW9keXBmQl9sRG5nN0EwVTIyaFl0aXVELXZ6SEZZS0t4NkhINjFMdnQxUnNWa1NKSnJBTEhNY2JJdGdLSXBTdlBGYVFQWWc2SEFPZTVWbTJWTmUwam9BdzBrWHhNc09SQTI3akVFbVZ5YXJTbkhhVTFzWkJ6R01FdWxveTI4OHpHdGNMTm41VTJVcGE2WVVEclIwajdOcWhBWl9DN2NxQlliX3dJRUlMM25n0gHSAUFVX3lxTE5KN1B1QlF5eEU1eTJsY05MZXh2SDhTaElLd2JTYTVrQ0I5aF9BTU4tdWNTc09SdFNVelFwck1ZZmREUkhBU2ttR2ZiSGd3cGVSczNqcE9xdlRWMnZZMlNjX3JoZk5LQXFsd0hTZExTbE42TWY0SjlOTVM2emZPZTc5VTFDY2RZdERrZzdhZ1lUdHUxWGdXa0ZFSUFYZ2puWGJrb0VzalUwYlhyT2hubHhxQ2YwNHJmM0NWYWw5TXUyalAyR2VZQWhZaXZaUW9tNTlUUQ?oc=5)
 
 ---
 

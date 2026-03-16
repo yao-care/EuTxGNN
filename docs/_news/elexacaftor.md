@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elexacaftor</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [CEFABOX 2026 muestra la hoja de ruta para frenar la migraña antes de que se cronifique - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2Z6aGZsT0ZkZlFaV0ZadjhEemQ4dTZlUXNFWEtTOVAyVm1zMWFLUVRzWnh0WC1fS2wzeGJwaloyNHdzeVlKdEowZ0lPLTE2OG11bGNTRllUclcxUXlmcVFPTThDVEdLNlRPM1lIRUllUG5CdDY4T2RrMlJFSGpkSXEteDhnV0lXVEJoa2Nrc3JlOV9zRXdyN3ZzWVdzNGNIcGpRZVNoVEtnWU9uSkdEMGxPSjhzNi1nUDdSWDRGNDTSAbsBQVVfeXFMTk9seVR1ZWlyWlhJc3BwYldCdEdGUzNUZy1sSTZrU2JnLWdBR2g5UTViWHlUaTUtYXpnaHRqLW5xOF9xaXNsNlQwWHB4cWRyWXFEajJLOWJNWUNJY0xtcXFjOEthT1h6X1N1dG4yUVVKdUpyYU5PdTU2RE51V1ViS19wb2ZJdEtVV3piMzFGQ3lNTUFNeEN0S2hzMnZVZGxZWDcxb3l1N2ZCZlRjUG5mNFo3MVVtcUljTk45TQ?oc=5)
 
 2026-03-16 <span class="news-indication-tag">migraña</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2Z6aGZsT0ZkZlFaV0ZadjhEemQ4dTZlUXNFWEtTOVAyVm1zMWFLUVRzWnh0WC1fS2wzeGJwaloyNHdzeVlKdEowZ0lPLTE2OG11bGNTRllUclcxUXlmcVFPTThDVEdLNlRPM1lIRUllUG5CdDY4T2RrMlJFSGpkSXEteDhnV0lXVEJoa2Nrc3JlOV9zRXdyN3ZzWVdzNGNIcGpRZVNoVEtnWU9uSkdEMGxPSjhzNi1nUDdSWDRGNDTSAbsBQVVfeXFMTk9seVR1ZWlyWlhJc3BwYldCdEdGUzNUZy1sSTZrU2JnLWdBR2g5UTViWHlUaTUtYXpnaHRqLW5xOF9xaXNsNlQwWHB4cWRyWXFEajJLOWJNWUNJY0xtcXFjOEthT1h6X1N1dG4yUVVKdUpyYU5PdTU2RE51V1ViS19wb2ZJdEtVV3piMzFGQ3lNTUFNeEN0S2hzMnZVZGxZWDcxb3l1N2ZCZlRjUG5mNFo3MVVtcUljTk45TQ?oc=5)
-
----
-
-### [Mila, madre de un adolescente con artritis idiopática: "No soportaba ni una sábana encima"](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0Q2d3Ywekk0Q21JRXhLdGNjakhmcnVXUUZIUlljZEF5ZG1reTJ6Q09rYm9zTWl0d2NyTUs1ZjBvZHJqMi0zQUUxVERWa3pMZFYyaGhXNU9HT0dhNURnUTU4bG5tckZYYjZ4VG1MNU81S2RXUFpuVU0xT0hoVUNwM0tqVjlhNEo5YkcwajdXdE9PYmRkNEJWVV9YYjZzSUtWa2gxSjUyWnhnVU9jbEhfOGltaV9GcUc0SjYxLVkwZG9NYnJiYzFqUVQxV2NhVjY1dUFkNE5HM0xUb3FjYTVr0gHkAUFVX3lxTE9NNU0zWEJBT0EzWGpMRVpFYzFXM1ZaSmZQQVVWdG5GcjRSb0ZBTURVbm1PanM3Q3RoWDcwM3hNXzNvNmw4X1JaemhMbnlnX3ZtUHFGUllDVzIwQmF5Y2lwZWYtN2todHo4b005NjI3TUJrSG9PQk5RZzdGdGZNdzVRWEVnX2J3WG93S1U2UWdmQlprYjFfUlR3ZHlNOFIzQ25keWtOUkxCRW1GMUVuRGZGS0xEV1VtbEtyRkhTODdKRVBBaG5uQWdKM0hFbEl6QlBQTm5xTm5ibWExdEhmdk1zOWVILQ?oc=5)
-
-2026-03-16 <span class="news-indication-tag">artritis</span>
-
-來源：[Galiciae](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0Q2d3Ywekk0Q21JRXhLdGNjakhmcnVXUUZIUlljZEF5ZG1reTJ6Q09rYm9zTWl0d2NyTUs1ZjBvZHJqMi0zQUUxVERWa3pMZFYyaGhXNU9HT0dhNURnUTU4bG5tckZYYjZ4VG1MNU81S2RXUFpuVU0xT0hoVUNwM0tqVjlhNEo5YkcwajdXdE9PYmRkNEJWVV9YYjZzSUtWa2gxSjUyWnhnVU9jbEhfOGltaV9GcUc0SjYxLVkwZG9NYnJiYzFqUVQxV2NhVjY1dUFkNE5HM0xUb3FjYTVr0gHkAUFVX3lxTE9NNU0zWEJBT0EzWGpMRVpFYzFXM1ZaSmZQQVVWdG5GcjRSb0ZBTURVbm1PanM3Q3RoWDcwM3hNXzNvNmw4X1JaemhMbnlnX3ZtUHFGUllDVzIwQmF5Y2lwZWYtN2todHo4b005NjI3TUJrSG9PQk5RZzdGdGZNdzVRWEVnX2J3WG93S1U2UWdmQlprYjFfUlR3ZHlNOFIzQ25keWtOUkxCRW1GMUVuRGZGS0xEV1VtbEtyRkhTODdKRVBBaG5uQWdKM0hFbEl6QlBQTm5xTm5ibWExdEhmdk1zOWVILQ?oc=5)
 
 ---
 
