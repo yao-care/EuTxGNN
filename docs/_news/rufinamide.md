@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rufinamide</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（30 則）
 
 ### [Ähnlich wie durch Rauchen: Schwere Grippe erhöht laut Studie Lungenkrebs-Risiko](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDl3SGhVR2Y0Z0lCRXNWUFN6R011NW1OQkkteHNyOWI4amZncUd5WTA4NlE2aTBkTml0MWl0QU5yTjBOaGQ0NWcwQ2QwTmhDMUp2RHg3SmVxRUh3RTJSMjlPS2RWY2Zlb1VGV1dSNzhEamF4bEwzbnp2OTRiTEVodEhsQUVUcXZYOFFmM2hZUWQ4ZnAxaHlnRW1NV3M?oc=5)
 
@@ -90,6 +90,14 @@ permalink: /news/rufinamide/
 
 ---
 
+### [Multivitamine bremsen Alterung – doch Pillen bergen Risiken ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
+
+2026-03-16 <span class="news-indication-tag">MS</span>
+
+來源：[Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
+
+---
+
 ### [Pourquoi les cancers du sang sont-ils en augmentation depuis 20 ans ?](https://news.google.com/rss/articles/CBMie0FVX3lxTFBWdUxYM3ZaRmRwdFIwampBc1M0X1Q1ZzgwOGwxeDJ4SEJQYmJ2OVNobHd4Y3FwdE1EQzhkWEtRM25hYkJnN3d0R01NQTFTdzk5ZDN6Y2ZWekVXUmkxY2RYbGhjazdQMkpqVlE1MmVZRndIOTc5MG5ZNlFwSQ?oc=5)
 
 2026-03-16 <span class="news-indication-tag">cancer</span>
@@ -135,6 +143,14 @@ permalink: /news/rufinamide/
 2026-03-16 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTVVjeENVUTdDQWFfRi11OVpzUWJUYi1zQWQtRlBINnFpQTlXbG9iQ2liNk1MbkxhdkhORlNRMFNSRk5xLTdJNWM0OFl4WnhkaGhXcWYwYWp5NmNG?oc=5)
+
+---
+
+### [El 'gen de altura' de los yaks que podría ayudar a reparar el daño en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
+
+2026-03-16 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
 
 ---
 
@@ -239,6 +255,14 @@ permalink: /news/rufinamide/
 2026-03-15 <span class="news-indication-tag">MS</span>
 
 來源：[PsyPost](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUhmbVp4bEZReUJVdnVyV0M1dTZOeVRzY3dvVFB2YjFzVEVCWTk0TUlKd0t2SzRkb25ITUp1N2pydUZMOElpNjhmTkRTSS0xZDNsNXhyYXllMENrbFNyRXJHTzhKcVJybXRqTzFmQ25xWF9kbHVmd3pId1REb095YmVmdmJSVzNIdTNqOEgwcWRaV2QxSWRsWG9uYnBWQQ?oc=5)
+
+---
+
+### [Tech Boss Uses AI to Create Cancer Vaccine To Save His Dog - Greek City Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOanVVOXNjZFNMZDJyQlZHa0ZrS2tIck1NV0xpVEhBV3VJZ0czV2lEZnJoeTBJRGpVdjUwdFFINHh5S3NzZzExYjNSQlZWRnk5V21IcnZNbGEyMnVwejZjS2IyQkFNTmdWeDdyNERyeTVMYjBVYWhOSGF4OHZsTVpzZGdnRk1udlExdTRuTm9UeVlqTlNOWXhRbFFpTTRSdw?oc=5)
+
+2026-03-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Greek City Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOanVVOXNjZFNMZDJyQlZHa0ZrS2tIck1NV0xpVEhBV3VJZ0czV2lEZnJoeTBJRGpVdjUwdFFINHh5S3NzZzExYjNSQlZWRnk5V21IcnZNbGEyMnVwejZjS2IyQkFNTmdWeDdyNERyeTVMYjBVYWhOSGF4OHZsTVpzZGdnRk1udlExdTRuTm9UeVlqTlNOWXhRbFFpTTRSdw?oc=5)
 
 ---
 

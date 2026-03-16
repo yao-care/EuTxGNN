@@ -14,7 +14,7 @@ permalink: /news/asenapine-maleate/
 ---
 
 <p class="key-answer" data-question="Asenapine Maleate 有什麼相關新聞？">
-<strong>Asenapine Maleate</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Asenapine Maleate</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/asenapine-maleate/
 <p><a href="{{ '/drugs/asenapine-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（31 則）
 
 ### [Kaffee bloß nicht mit Milch trinken](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYTZsb0dkckJVRFQwRnVSU0lTVjN4bzdVZHlwVmNqTDNtR0Q4ZG9zOGFoNWFseFNkVDhnV2N1ZWVENzZaNW5RamFxMXd2VnVWeTkxSjZTcW5DbUVsSGJDVGNfbGRwSHRyaG1Jc0h3eXl0bVlQOHg5RWtTQWFqQ0dESDBwZ2h5R0JUaFNqY2VZUTFvczBxQ1ZvdUw2RGdVRVRrZ25TdFJ2WF80bXFnZDRwR283ZHdlYnJsanJEdVBBamVsWVhfWW5wczVGcnlWS0M3amo2Ri1hMnZHSEVDMUpTYldvM1o?oc=5)
 
@@ -71,6 +71,14 @@ permalink: /news/asenapine-maleate/
 2026-03-16 <span class="news-indication-tag">AF</span>
 
 來源：[aschaffenburg.news](https://news.google.com/rss/articles/CBMiigFBVV95cUxPZjltNHFvb3VBcmI2eE1xejV3ZnVlc0dLOGJ6TlJLU0lWWVA5RkJFRkJJOGQ3QUZlc0JqcHZCNmVoLTlwbkdRUlpnQ1B6TDVpUUJjVWdFeHhkYlRpRV9CbnQyUU1YSjJUTEI3clVuWVEwWU9uaFZGOXNac2J3TVRoejZycGF3aUJqWFE?oc=5)
+
+---
+
+### [Multivitamine bremsen Alterung – doch Pillen bergen Risiken ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
+
+2026-03-16 <span class="news-indication-tag">MS</span>
+
+來源：[Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
 
 ---
 
@@ -111,6 +119,14 @@ permalink: /news/asenapine-maleate/
 2026-03-16 <span class="news-indication-tag">AF</span>
 
 來源：[Actualidad CEU](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1iNnRja3I1VHF1aXNuR0JzQldVbTNmdHdWZDJqWEx2RnFyZ3pIcVBCU2lRYmVMQUwtWGRwYWRlWDhqNmRqZkFnRXpQNm5JNVVDUGlpRWZqV1BSalkwTDdYWWlwQnYyYnFGR0xIVVdGQWtZa0tldjRvNlpKTHlmWVI1b2c1SktGN095QXk5VThnUjM3a1pQQm1JNWNRdG04bFpOZkJTRzZhOE1rUXFQOWo1WWh4SlA4OHlUV2l6RkhKd09aYlhJTEhxdTRPemRFS09yMHVweDA?oc=5)
+
+---
+
+### [El 'gen de altura' de los yaks que podría ayudar a reparar el daño en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
+
+2026-03-16 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/enfortumab-vedotin/
 ---
 
 <p class="key-answer" data-question="Enfortumab Vedotin 有什麼相關新聞？">
-<strong>Enfortumab Vedotin</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Enfortumab Vedotin</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/enfortumab-vedotin/
 <p><a href="{{ '/drugs/enfortumab-vedotin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
 
 ### [Ähnlich wie durch Rauchen: Schwere Grippe erhöht laut Studie Lungenkrebs-Risiko](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDl3SGhVR2Y0Z0lCRXNWUFN6R011NW1OQkkteHNyOWI4amZncUd5WTA4NlE2aTBkTml0MWl0QU5yTjBOaGQ0NWcwQ2QwTmhDMUp2RHg3SmVxRUh3RTJSMjlPS2RWY2Zlb1VGV1dSNzhEamF4bEwzbnp2OTRiTEVodEhsQUVUcXZYOFFmM2hZUWQ4ZnAxaHlnRW1NV3M?oc=5)
 
@@ -76,7 +76,7 @@ permalink: /news/enfortumab-vedotin/
 
 ### [Empresas.- Buenos datos de 'Keytruda' más 'Padcev' en cáncer de vejiga músculo-invasivo elegibles para cisplatino](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVU5HNEdqVEV0QTh6aXl5eC1SS2lzNVNWTEZobVVoNVNRV2NPb3JYR011YTdoRFh5ZW80ZTBGWjdnU1hIeW50bWs5Uy0ySlNtLUI0QVRRUzFHVVhtM0lmNHZEcFJuQWI2TWxoazVqbUh1T0hucm92TkpEY2ttcU5FVHhRRFk4NGNjUVl4N2Vqa0tRcDJpaW5VYnp1VVBiUHc4NmhLckpfRFBvQnB0YzFLTlJ1QnR1Qy1scG5XaDY4VWx4Z3Y5R2xlLWhTQ0szeEVOdFd0M28zU0Nzd2VJdDFfVlktWUlsNlBKVzFoaQ?oc=5)
 
-2026-03-16 <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-drug-tag">Sacituzumab Govitecan</span>
+2026-03-16 <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-drug-tag">Pembrolizumab</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVU5HNEdqVEV0QTh6aXl5eC1SS2lzNVNWTEZobVVoNVNRV2NPb3JYR011YTdoRFh5ZW80ZTBGWjdnU1hIeW50bWs5Uy0ySlNtLUI0QVRRUzFHVVhtM0lmNHZEcFJuQWI2TWxoazVqbUh1T0hucm92TkpEY2ttcU5FVHhRRFk4NGNjUVl4N2Vqa0tRcDJpaW5VYnp1VVBiUHc4NmhLckpfRFBvQnB0YzFLTlJ1QnR1Qy1scG5XaDY4VWx4Z3Y5R2xlLWhTQ0szeEVOdFd0M28zU0Nzd2VJdDFfVlktWUlsNlBKVzFoaQ?oc=5)
 
@@ -191,6 +191,14 @@ permalink: /news/enfortumab-vedotin/
 2026-03-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[RTL.fr](https://news.google.com/rss/articles/CBMipgFBVV95cUxNczZ4ODU1V3hfU00waXpYZ0lUQnBfanFPaENtZG95V1pEZ0ZfRFRzWjZ3aENvWFNzYmJyV3U4Q1VFTWp2SHBkVlFzZkxiU0IxOWZlMVpkRFVVYnVsdkJ3RWtwUUVMdkF3OVl3enB4V3l5aHlhb1NkV3RRMzJROVltdDlmWkZMYTFndVhHWmRoelhVQTFXMTJ2V28xUFVwLTIyU183UWhn?oc=5)
+
+---
+
+### [Tech Boss Uses AI to Create Cancer Vaccine To Save His Dog - Greek City Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOanVVOXNjZFNMZDJyQlZHa0ZrS2tIck1NV0xpVEhBV3VJZ0czV2lEZnJoeTBJRGpVdjUwdFFINHh5S3NzZzExYjNSQlZWRnk5V21IcnZNbGEyMnVwejZjS2IyQkFNTmdWeDdyNERyeTVMYjBVYWhOSGF4OHZsTVpzZGdnRk1udlExdTRuTm9UeVlqTlNOWXhRbFFpTTRSdw?oc=5)
+
+2026-03-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Greek City Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOanVVOXNjZFNMZDJyQlZHa0ZrS2tIck1NV0xpVEhBV3VJZ0czV2lEZnJoeTBJRGpVdjUwdFFINHh5S3NzZzExYjNSQlZWRnk5V21IcnZNbGEyMnVwejZjS2IyQkFNTmdWeDdyNERyeTVMYjBVYWhOSGF4OHZsTVpzZGdnRk1udlExdTRuTm9UeVlqTlNOWXhRbFFpTTRSdw?oc=5)
 
 ---
 

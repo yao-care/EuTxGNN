@@ -14,7 +14,7 @@ permalink: /news/sacituzumab-govitecan/
 ---
 
 <p class="key-answer" data-question="Sacituzumab Govitecan 有什麼相關新聞？">
-<strong>Sacituzumab Govitecan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sacituzumab Govitecan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/sacituzumab-govitecan/
 <p><a href="{{ '/drugs/sacituzumab-govitecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Bewegung ist medizin: so schlägt sport diabetes und herzrisiko](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVSR1ZYX2QtdlNGZC1DS3UxekpsSUE1OGZCbFVBUWpjYmg1QlBaWC10Y3E3SEE2OHdjTVFLTWplREU3aHEwV3NfSGpmZWZ1R0l0MUlZS01xb0xtUXpGdUltMFlzUmRhUzFqR05OVF91Yjg3UGloQm5COWZyRzRGRnd5bkQ2by0wV2tEZDB3ZW5aM00?oc=5)
 
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVSR1ZYX2QtdlNGZC1DS3UxekpsSUE1OGZCbFVBUWpjYmg1QlBaWC10Y3E3SEE2OHdjTVFLTWplREU3aHEwV3NfSGpmZWZ1R0l0MUlZS01xb0xtUXpGdUltMFlzUmRhUzFqR05OVF91Yjg3UGloQm5COWZyRzRGRnd5bkQ2by0wV2tEZDB3ZW5aM00?oc=5)
-
----
-
-### [Empresas.- Buenos datos de 'Keytruda' más 'Padcev' en cáncer de vejiga músculo-invasivo elegibles para cisplatino](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVU5HNEdqVEV0QTh6aXl5eC1SS2lzNVNWTEZobVVoNVNRV2NPb3JYR011YTdoRFh5ZW80ZTBGWjdnU1hIeW50bWs5Uy0ySlNtLUI0QVRRUzFHVVhtM0lmNHZEcFJuQWI2TWxoazVqbUh1T0hucm92TkpEY2ttcU5FVHhRRFk4NGNjUVl4N2Vqa0tRcDJpaW5VYnp1VVBiUHc4NmhLckpfRFBvQnB0YzFLTlJ1QnR1Qy1scG5XaDY4VWx4Z3Y5R2xlLWhTQ0szeEVOdFd0M28zU0Nzd2VJdDFfVlktWUlsNlBKVzFoaQ?oc=5)
-
-2026-03-16 <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-drug-tag">Sacituzumab Govitecan</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVU5HNEdqVEV0QTh6aXl5eC1SS2lzNVNWTEZobVVoNVNRV2NPb3JYR011YTdoRFh5ZW80ZTBGWjdnU1hIeW50bWs5Uy0ySlNtLUI0QVRRUzFHVVhtM0lmNHZEcFJuQWI2TWxoazVqbUh1T0hucm92TkpEY2ttcU5FVHhRRFk4NGNjUVl4N2Vqa0tRcDJpaW5VYnp1VVBiUHc4NmhLckpfRFBvQnB0YzFLTlJ1QnR1Qy1scG5XaDY4VWx4Z3Y5R2xlLWhTQ0szeEVOdFd0M28zU0Nzd2VJdDFfVlktWUlsNlBKVzFoaQ?oc=5)
 
 ---
 

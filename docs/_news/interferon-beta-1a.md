@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
 ### [Demenz: 20 Jahre später messbar – wie zwei Übungsarten das Demenzrisiko massiv senkten](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTmx5UFFDLXNSQTF6Z0RqbGhIRllLMVBpSlo1eV93YmlUdDlwN3UxSXNkbjF5UnFuekZxM0trSUJSVUdaYUJDUk0zZllvREU5WXZSeDNrWnQxcDV4TjlWRi1uMFk3S183WFl1UjA5V2s0VmhtN2NVMzl1MWRieVhjSHlKSGNScVl0Sm5GT3hnbHZmcUU2Q2otOU0xNjN4ZFF5YkxVUWVScXljbDBWWDFfQVBjWFNtTmR4SG9tMVlhaTFzd2VIVUhhQXpHTFJmanVhc0Z1S2d0XzFYTUlpaUZIeTk3OHE0NVNK?oc=5)
 
 2026-03-16 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTmx5UFFDLXNSQTF6Z0RqbGhIRllLMVBpSlo1eV93YmlUdDlwN3UxSXNkbjF5UnFuekZxM0trSUJSVUdaYUJDUk0zZllvREU5WXZSeDNrWnQxcDV4TjlWRi1uMFk3S183WFl1UjA5V2s0VmhtN2NVMzl1MWRieVhjSHlKSGNScVl0Sm5GT3hnbHZmcUU2Q2otOU0xNjN4ZFF5YkxVUWVScXljbDBWWDFfQVBjWFNtTmR4SG9tMVlhaTFzd2VIVUhhQXpHTFJmanVhc0Z1S2d0XzFYTUlpaUZIeTk3OHE0NVNK?oc=5)
+
+---
+
+### [Multivitamine bremsen Alterung – doch Pillen bergen Risiken ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
+
+2026-03-16 <span class="news-indication-tag">MS</span>
+
+來源：[Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
+
+---
+
+### [El 'gen de altura' de los yaks que podría ayudar a reparar el daño en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
+
+2026-03-16 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
 
 ---
 

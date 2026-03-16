@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="Olanzapine 有什麼相關新聞？">
-<strong>Olanzapine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Olanzapine</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/olanzapine/
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（21 則）
 
 ### [Kaffee bloß nicht mit Milch trinken](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYTZsb0dkckJVRFQwRnVSU0lTVjN4bzdVZHlwVmNqTDNtR0Q4ZG9zOGFoNWFseFNkVDhnV2N1ZWVENzZaNW5RamFxMXd2VnVWeTkxSjZTcW5DbUVsSGJDVGNfbGRwSHRyaG1Jc0h3eXl0bVlQOHg5RWtTQWFqQ0dESDBwZ2h5R0JUaFNqY2VZUTFvczBxQ1ZvdUw2RGdVRVRrZ25TdFJ2WF80bXFnZDRwR283ZHdlYnJsanJEdVBBamVsWVhfWW5wczVGcnlWS0M3amo2Ri1hMnZHSEVDMUpTYldvM1o?oc=5)
 
@@ -135,14 +135,6 @@ permalink: /news/olanzapine/
 2026-03-15 <span class="news-indication-tag">AF</span>
 
 來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ickwxdXA2cnprVE53ZlFsYzZvWWU3TWFNbzBVLXNTUjRxZWtldkd6SXpwUkZoUGtXUmFpWGZKTVF4V01OM2hoNTRnOTJ5TWZreGJJQVlNNGN6cG1ESmVzRTFsR2p3c21NdEV0Qi02MF9PRTAzZS1OelZEMTI3dw?oc=5)
-
----
-
-### [Regelmäßige Bewegung lindert Angst und Depression bei chronischer Insomnie - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlI5aEZKaEtaOTUzU3ZGNjc1MmNBVm1SdGxQOGxfMFhKUkZjTGw3WnNRVVNYRzBKLVpfbTVZUXQ4SlZKRkhEZTE1bmdxNEZ2eHFNblhyT2V3QU5LYjg1TmZ5Z2F1WjROVkJBeUdhUlVqSm9oSm51ZVBQU3ozWHRwREYyZVVsdDFERHRGMWVkT056RUhjaDdkTUhEcG9GNW84SFg3ZUR3TXJMeWc3?oc=5)
-
-2026-03-15 <span class="news-indication-tag">depression</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlI5aEZKaEtaOTUzU3ZGNjc1MmNBVm1SdGxQOGxfMFhKUkZjTGw3WnNRVVNYRzBKLVpfbTVZUXQ4SlZKRkhEZTE1bmdxNEZ2eHFNblhyT2V3QU5LYjg1TmZ5Z2F1WjROVkJBeUdhUlVqSm9oSm51ZVBQU3ozWHRwREYyZVVsdDFERHRGMWVkT056RUhjaDdkTUhEcG9GNW84SFg3ZUR3TXJMeWc3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dimethyl-fumarate/
 ---
 
 <p class="key-answer" data-question="Dimethyl Fumarate 有什麼相關新聞？">
-<strong>Dimethyl Fumarate</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dimethyl Fumarate</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/dimethyl-fumarate/
 <p><a href="{{ '/drugs/dimethyl-fumarate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（29 則）
 
 ### [Ähnlich wie durch Rauchen: Schwere Grippe erhöht laut Studie Lungenkrebs-Risiko](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDl3SGhVR2Y0Z0lCRXNWUFN6R011NW1OQkkteHNyOWI4amZncUd5WTA4NlE2aTBkTml0MWl0QU5yTjBOaGQ0NWcwQ2QwTmhDMUp2RHg3SmVxRUh3RTJSMjlPS2RWY2Zlb1VGV1dSNzhEamF4bEwzbnp2OTRiTEVodEhsQUVUcXZYOFFmM2hZUWQ4ZnAxaHlnRW1NV3M?oc=5)
 
@@ -79,6 +79,14 @@ permalink: /news/dimethyl-fumarate/
 2026-03-16 <span class="news-indication-tag">tumor</span>
 
 來源：[El Periódico](https://news.google.com/rss/articles/CBMingFBVV95cUxORDZPYjE5QnNyTEU5bVJMOEVpakJ3S25KTVBTZmExbG80X3hWenc3LS1PRlBEU0tvWm9QUHJZSDI2M3FScW84OC10SnlMT1R1OUlMVlNkTWRLbl9UTWhTN3VOQVZCWUdmTF96QmZnOUxGRTBKNnp5c29vM2ZRTmFaQWdDWjhvLUM3alkzWDhWak5hdVN4TzN1RkthNThWQdIBngFBVV95cUxONGdHemNpUmdMOElHWlgtc3M1NS1jUjFBNUJyZGI0MGgtMzN2aGV2QS04UEhORFpFTmItdlpSMnlibFhJdFlZQUdHRHREVV9ETWpyQVlDTk9FeERJNmpiQkd4N3l3Vk9vT1J3TjIxMlZfQXozazhXS01tcnNDRnpvMkJJQVNxMDAwMHR0c0hZdExGeUNXMGdRQXBpcjNKdw?oc=5)
+
+---
+
+### [Multivitamine bremsen Alterung – doch Pillen bergen Risiken ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
+
+2026-03-16 <span class="news-indication-tag">MS</span>
+
+來源：[Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
 
 ---
 
@@ -127,6 +135,14 @@ permalink: /news/dimethyl-fumarate/
 2026-03-16 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTVVjeENVUTdDQWFfRi11OVpzUWJUYi1zQWQtRlBINnFpQTlXbG9iQ2liNk1MbkxhdkhORlNRMFNSRk5xLTdJNWM0OFl4WnhkaGhXcWYwYWp5NmNG?oc=5)
+
+---
+
+### [El 'gen de altura' de los yaks que podría ayudar a reparar el daño en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
+
+2026-03-16 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbThYYkpSb1N0VGxxT1NSWXB2VjZqMkJUS0hMSUZFQ2hraHRDSjlybms1N2JHeWc4OExKaW93YzUzZmNfSVNQLUJoZFRlbkt6MDRIaklKQjNaQ2gzWWdZc1gwLTBoWGNPanNEUTFFSmN2emlrbjVwaXlFcDZUbS1KQ0diNFNzUXVfN2cxbGFqNEpLaHBOUkNNSDlOa2I3cmtSakNGcURodkVSeHBZcW0tUU1hYW04RVpTa19NaDRxZ2RCNzQ0RkZfbjBxaExITWVHaXc?oc=5)
 
 ---
 
@@ -231,6 +247,14 @@ permalink: /news/dimethyl-fumarate/
 2026-03-15 <span class="news-indication-tag">MS</span>
 
 來源：[PsyPost](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUhmbVp4bEZReUJVdnVyV0M1dTZOeVRzY3dvVFB2YjFzVEVCWTk0TUlKd0t2SzRkb25ITUp1N2pydUZMOElpNjhmTkRTSS0xZDNsNXhyYXllMENrbFNyRXJHTzhKcVJybXRqTzFmQ25xWF9kbHVmd3pId1REb095YmVmdmJSVzNIdTNqOEgwcWRaV2QxSWRsWG9uYnBWQQ?oc=5)
+
+---
+
+### [Tech Boss Uses AI to Create Cancer Vaccine To Save His Dog - Greek City Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOanVVOXNjZFNMZDJyQlZHa0ZrS2tIck1NV0xpVEhBV3VJZ0czV2lEZnJoeTBJRGpVdjUwdFFINHh5S3NzZzExYjNSQlZWRnk5V21IcnZNbGEyMnVwejZjS2IyQkFNTmdWeDdyNERyeTVMYjBVYWhOSGF4OHZsTVpzZGdnRk1udlExdTRuTm9UeVlqTlNOWXhRbFFpTTRSdw?oc=5)
+
+2026-03-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Greek City Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOanVVOXNjZFNMZDJyQlZHa0ZrS2tIck1NV0xpVEhBV3VJZ0czV2lEZnJoeTBJRGpVdjUwdFFINHh5S3NzZzExYjNSQlZWRnk5V21IcnZNbGEyMnVwejZjS2IyQkFNTmdWeDdyNERyeTVMYjBVYWhOSGF4OHZsTVpzZGdnRk1udlExdTRuTm9UeVlqTlNOWXhRbFFpTTRSdw?oc=5)
 
 ---
 

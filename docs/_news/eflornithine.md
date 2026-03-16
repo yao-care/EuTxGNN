@@ -14,7 +14,7 @@ permalink: /news/eflornithine/
 ---
 
 <p class="key-answer" data-question="Eflornithine 有什麼相關新聞？">
-<strong>Eflornithine</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Eflornithine</strong> 目前有 <strong>40 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/eflornithine/
 <p><a href="{{ '/drugs/eflornithine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（39 則）
+## 相關新聞（40 則）
 
 ### [Kaffee bloß nicht mit Milch trinken](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYTZsb0dkckJVRFQwRnVSU0lTVjN4bzdVZHlwVmNqTDNtR0Q4ZG9zOGFoNWFseFNkVDhnV2N1ZWVENzZaNW5RamFxMXd2VnVWeTkxSjZTcW5DbUVsSGJDVGNfbGRwSHRyaG1Jc0h3eXl0bVlQOHg5RWtTQWFqQ0dESDBwZ2h5R0JUaFNqY2VZUTFvczBxQ1ZvdUw2RGdVRVRrZ25TdFJ2WF80bXFnZDRwR283ZHdlYnJsanJEdVBBamVsWVhfWW5wczVGcnlWS0M3amo2Ri1hMnZHSEVDMUpTYldvM1o?oc=5)
 
@@ -319,6 +319,14 @@ permalink: /news/eflornithine/
 2026-03-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[RTL.fr](https://news.google.com/rss/articles/CBMipgFBVV95cUxNczZ4ODU1V3hfU00waXpYZ0lUQnBfanFPaENtZG95V1pEZ0ZfRFRzWjZ3aENvWFNzYmJyV3U4Q1VFTWp2SHBkVlFzZkxiU0IxOWZlMVpkRFVVYnVsdkJ3RWtwUUVMdkF3OVl3enB4V3l5aHlhb1NkV3RRMzJROVltdDlmWkZMYTFndVhHWmRoelhVQTFXMTJ2V28xUFVwLTIyU183UWhn?oc=5)
+
+---
+
+### [Tech Boss Uses AI to Create Cancer Vaccine To Save His Dog - Greek City Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOanVVOXNjZFNMZDJyQlZHa0ZrS2tIck1NV0xpVEhBV3VJZ0czV2lEZnJoeTBJRGpVdjUwdFFINHh5S3NzZzExYjNSQlZWRnk5V21IcnZNbGEyMnVwejZjS2IyQkFNTmdWeDdyNERyeTVMYjBVYWhOSGF4OHZsTVpzZGdnRk1udlExdTRuTm9UeVlqTlNOWXhRbFFpTTRSdw?oc=5)
+
+2026-03-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Greek City Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOanVVOXNjZFNMZDJyQlZHa0ZrS2tIck1NV0xpVEhBV3VJZ0czV2lEZnJoeTBJRGpVdjUwdFFINHh5S3NzZzExYjNSQlZWRnk5V21IcnZNbGEyMnVwejZjS2IyQkFNTmdWeDdyNERyeTVMYjBVYWhOSGF4OHZsTVpzZGdnRk1udlExdTRuTm9UeVlqTlNOWXhRbFFpTTRSdw?oc=5)
 
 ---
 
