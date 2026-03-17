@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Parkinson's（parkinson disease） 相關新聞"
+title: "enfermedad de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Parkinson's（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "enfermedad de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
-# Parkinson's（parkinson disease） 相關新聞
+# enfermedad de Parkinson（parkinson disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Parkinson's（parkinson disease） 有什麼相關新聞？">
-<strong>Parkinson's（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Parkinson（parkinson disease） 有什麼相關新聞？">
+<strong>enfermedad de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Parkinson's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Parkinson」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Botellas de plástico contra el Parkinson: desarrollan el primer tratamiento neurálgico a partir de residuos - Gaceta de salud](https://news.google.com/rss/articles/CBMijwJBVV95cUxQeDBOaFAtUEx6MFlHSENWRTNtREYtS1JRczRsb25zQWJLbGxUaHEyeDFLVUtZZW1ZYkhPR2JvRTQzcUdKY3QwbTV5dUY1QldRYWJ3alozOFg4bUkzQklUTmd0TjdPUVBnSV8xZTFKYTVKQkJoSDNqZFFRVTV3VVp3aHZLb3NBQ0paM1pRUklYTE1GVExEaFFfcHZJT2JiS1k1V3AwZU5oNklkTUhVMEMxdHZiTHNOdWlWTGR5bS1sa2s5OW9SUFkyOWs1MDdGb3djUjF2RW9GLW9uSlBTRUptSG83VTVwNU5LNGFrTHh0aVVTNDN4VW1kcFVtR3RKMFJpTTNqdUR0N1RFYnFROEkw?oc=5)
+
+2026-03-16
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijwJBVV95cUxQeDBOaFAtUEx6MFlHSENWRTNtREYtS1JRczRsb25zQWJLbGxUaHEyeDFLVUtZZW1ZYkhPR2JvRTQzcUdKY3QwbTV5dUY1QldRYWJ3alozOFg4bUkzQklUTmd0TjdPUVBnSV8xZTFKYTVKQkJoSDNqZFFRVTV3VVp3aHZLb3NBQ0paM1pRUklYTE1GVExEaFFfcHZJT2JiS1k1V3AwZU5oNklkTUhVMEMxdHZiTHNOdWlWTGR5bS1sa2s5OW9SUFkyOWs1MDdGb3djUjF2RW9GLW9uSlBTRUptSG83VTVwNU5LNGFrTHh0aVVTNDN4VW1kcFVtR3RKMFJpTTNqdUR0N1RFYnFROEkw?oc=5)
+
+---
 
 ### [Plastic bottles recycled to make Parkinson’s disease drug - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkxYYURTQkY4cUtmNHBGczB5QzhtM0VZOVFaZkM1SXBSaEVBcUFyTE9ZQUxhczZtOEV4dlRnV0RhTGZkYVF4ZTRERlBPVEh4UnR3MUZlTk5lYUFsdVNVVjR5MTliUko2Vm1NNXJMMlRBQ2JvSVFoSGdYei1QSGRtVldWcEo3Y21NM29kTGxR?oc=5)
 

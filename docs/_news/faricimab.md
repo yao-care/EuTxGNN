@@ -14,7 +14,7 @@ permalink: /news/faricimab/
 ---
 
 <p class="key-answer" data-question="Faricimab 有什麼相關新聞？">
-<strong>Faricimab</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Faricimab</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,53 @@ permalink: /news/faricimab/
 <p><a href="{{ '/drugs/faricimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（27 則）
+
+### [Schwere Corona-Infektionen könnten Lungenkrebsrisiko steigern](https://news.google.com/rss/articles/CBMitAFBVV95cUxPY25YZmgzQkVXRGcycy1KUldiSy1aMk0zWGN5RW1IX0ZmVTFjS25WMFVFR0dhRkhVcUM0QUNkb2F1X1VybDJtNmN2NnQ4ZGlnYThZTUlrbW9hLTktT01scUs4WFFWeHpOVkNOTldmUWk0UDBhZzlfSllDaWwwZGRaSks4UlpVZmlYdGVNdERSUW5fZzFfd2c4cFJxZzZMOFNHY0VmMHRlTTdKcVVvbjM4dU5zQ2E?oc=5)
+
+2026-03-16 <span class="news-indication-tag">Krebs</span>
+
+來源：[WEB.DE](https://news.google.com/rss/articles/CBMitAFBVV95cUxPY25YZmgzQkVXRGcycy1KUldiSy1aMk0zWGN5RW1IX0ZmVTFjS25WMFVFR0dhRkhVcUM0QUNkb2F1X1VybDJtNmN2NnQ4ZGlnYThZTUlrbW9hLTktT01scUs4WFFWeHpOVkNOTldmUWk0UDBhZzlfSllDaWwwZGRaSks4UlpVZmlYdGVNdERSUW5fZzFfd2c4cFJxZzZMOFNHY0VmMHRlTTdKcVVvbjM4dU5zQ2E?oc=5)
+
+---
+
+### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+
+2026-03-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+
+---
+
+### [Newcastle teacher 'facing death sentence' after battling cancer known as the silent killer - Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmtveThmSUg4WmRNSjhzQk43WV9YRWRWNm1EeVJaZzIxVHJ0UVQ0V0dkazItQ2c2REpRZk5RZWRMX1laRVBsTFhUWTZHcjlqTXZwX2tuclNvemh4TkdDVGFkTlhyTDRfNU12YWJPWFViNkEzaGdsa1YxeERLRmFEVGx6SXlpbFpPR2xhSlZibEpCUF85Z1BmaVBQTC1ZZUd4aWpB0gGoAUFVX3lxTE1xVDY4WDFwdzlwZVlCaFpOMmdiY0x0dFluWWlPbXlnWE05OW5tMHJuSW1MOWNOZHdudDItc3M1SjFMbHlBT2RVQkFRYU85QTQwNEtkT3pXOEQ2U0pWQjVzOW83cmYxQ0JfN01aeVM2YkE3UEtBWjdyczNRcndsaGR1c1lRUlNGUTMzRzBuVG10Wno1Nk1hTHladG0xX2RKakdmcU1vOW1DQw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmtveThmSUg4WmRNSjhzQk43WV9YRWRWNm1EeVJaZzIxVHJ0UVQ0V0dkazItQ2c2REpRZk5RZWRMX1laRVBsTFhUWTZHcjlqTXZwX2tuclNvemh4TkdDVGFkTlhyTDRfNU12YWJPWFViNkEzaGdsa1YxeERLRmFEVGx6SXlpbFpPR2xhSlZibEpCUF85Z1BmaVBQTC1ZZUd4aWpB0gGoAUFVX3lxTE1xVDY4WDFwdzlwZVlCaFpOMmdiY0x0dFluWWlPbXlnWE05OW5tMHJuSW1MOWNOZHdudDItc3M1SjFMbHlBT2RVQkFRYU85QTQwNEtkT3pXOEQ2U0pWQjVzOW83cmYxQ0JfN01aeVM2YkE3UEtBWjdyczNRcndsaGR1c1lRUlNGUTMzRzBuVG10Wno1Nk1hTHladG0xX2RKakdmcU1vOW1DQw?oc=5)
+
+---
+
+### [Los inhibidores de SGLT2 refuerzan el manejo de la diabetes con cirrosis - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2FmMjhBUEttSDVlQ2pCR2d6YkEwYVpUMzhNSG83d1JlWjhpU2I1Vjl1anplSFY2dnZJdDBJODdYc3hUb0lsMDROZkVPdHpONlo4WV9jWW1PY0Q2Wko2NzJaSzJXdEwtV0FnbGdmMkxPbGdOWTlmc0lCUERoMktlMC1Xb1NJb2NzdlFEUzFacmRpcTh5Tm5IVk1INmZGckhXRm0xOUxiSTlPbGxZNEJmMnZmRFprOWJveVltNHdsa3ctU1XSAb4BQVVfeXFMTmp1NlRhRFRmUjNMVW9vNTFrVWFnNzlvYnNRb0E4dFZIUUlSUy1ZUUxvWTJERU5kT1E2TXRicUJVdFNoekpSVmhJVUVaVkVpd2FTYkZOSzdRUnpKSEpKeDZLcjFiRU5OQXhuS2s1M3hSbHlsdFM1T2pZaHlKa2FzNjdEUzFUUzNob2tleWZ6ZjR5cmgwU0VGVWVyTTQwdGdOd3NXNE16dUZOVXBJMUxNQ1l5OEtjVm4zLXNrUXpYZw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2FmMjhBUEttSDVlQ2pCR2d6YkEwYVpUMzhNSG83d1JlWjhpU2I1Vjl1anplSFY2dnZJdDBJODdYc3hUb0lsMDROZkVPdHpONlo4WV9jWW1PY0Q2Wko2NzJaSzJXdEwtV0FnbGdmMkxPbGdOWTlmc0lCUERoMktlMC1Xb1NJb2NzdlFEUzFacmRpcTh5Tm5IVk1INmZGckhXRm0xOUxiSTlPbGxZNEJmMnZmRFprOWJveVltNHdsa3ctU1XSAb4BQVVfeXFMTmp1NlRhRFRmUjNMVW9vNTFrVWFnNzlvYnNRb0E4dFZIUUlSUy1ZUUxvWTJERU5kT1E2TXRicUJVdFNoekpSVmhJVUVaVkVpd2FTYkZOSzdRUnpKSEpKeDZLcjFiRU5OQXhuS2s1M3hSbHlsdFM1T2pZaHlKa2FzNjdEUzFUUzNob2tleWZ6ZjR5cmgwU0VGVWVyTTQwdGdOd3NXNE16dUZOVXBJMUxNQ1l5OEtjVm4zLXNrUXpYZw?oc=5)
+
+---
 
 ### ["La clave no es agredir, es regular” Arkaitz Felices, cosmetólogo, descubre la crema para tratar el melasma de forma definitiva](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
 
 2026-03-16 <span class="news-indication-tag">asma</span>
 
 來源：[instyle.es](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
+
+---
+
+### [Face à l'impasse médicale, il conçoit lui-même un vaccin pour son chien grâce à l'IA](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEd4M25xNFE4QzVOU28xSTNZX2ZCeVgySlQ4Mjc2MU81Sk9faGtsbFNzdXFkNF9xWEVxOFFtbGVucEJrZ2lFa050Ny10ZndyR1BpaUpnWmJQVzVmRkVyMUtEVjlacXdQaHN4WTVSNGQwaU1YQVVNQlZJT295WjlneU1vNGVYMWVjTVVsU1FfRUtSRDdad09TOF9zMjJrNUhlQm1jUmpnRjRycUt3Rjl4Z01WN09JVF9EXzFV?oc=5)
+
+2026-03-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Numerama](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEd4M25xNFE4QzVOU28xSTNZX2ZCeVgySlQ4Mjc2MU81Sk9faGtsbFNzdXFkNF9xWEVxOFFtbGVucEJrZ2lFa050Ny10ZndyR1BpaUpnWmJQVzVmRkVyMUtEVjlacXdQaHN4WTVSNGQwaU1YQVVNQlZJT295WjlneU1vNGVYMWVjTVVsU1FfRUtSRDdad09TOF9zMjJrNUhlQm1jUmpnRjRycUt3Rjl4Z01WN09JVF9EXzFV?oc=5)
 
 ---
 
@@ -74,27 +114,11 @@ permalink: /news/faricimab/
 
 ---
 
-### [Miguel Ángel Quintela: "No existen las dietas ni los alimentos milagro para el cáncer" - El Periódico](https://news.google.com/rss/articles/CBMingFBVV95cUxORDZPYjE5QnNyTEU5bVJMOEVpakJ3S25KTVBTZmExbG80X3hWenc3LS1PRlBEU0tvWm9QUHJZSDI2M3FScW84OC10SnlMT1R1OUlMVlNkTWRLbl9UTWhTN3VOQVZCWUdmTF96QmZnOUxGRTBKNnp5c29vM2ZRTmFaQWdDWjhvLUM3alkzWDhWak5hdVN4TzN1RkthNThWQdIBngFBVV95cUxONGdHemNpUmdMOElHWlgtc3M1NS1jUjFBNUJyZGI0MGgtMzN2aGV2QS04UEhORFpFTmItdlpSMnlibFhJdFlZQUdHRHREVV9ETWpyQVlDTk9FeERJNmpiQkd4N3l3Vk9vT1J3TjIxMlZfQXozazhXS01tcnNDRnpvMkJJQVNxMDAwMHR0c0hZdExGeUNXMGdRQXBpcjNKdw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">tumor</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMingFBVV95cUxORDZPYjE5QnNyTEU5bVJMOEVpakJ3S25KTVBTZmExbG80X3hWenc3LS1PRlBEU0tvWm9QUHJZSDI2M3FScW84OC10SnlMT1R1OUlMVlNkTWRLbl9UTWhTN3VOQVZCWUdmTF96QmZnOUxGRTBKNnp5c29vM2ZRTmFaQWdDWjhvLUM3alkzWDhWak5hdVN4TzN1RkthNThWQdIBngFBVV95cUxONGdHemNpUmdMOElHWlgtc3M1NS1jUjFBNUJyZGI0MGgtMzN2aGV2QS04UEhORFpFTmItdlpSMnlibFhJdFlZQUdHRHREVV9ETWpyQVlDTk9FeERJNmpiQkd4N3l3Vk9vT1J3TjIxMlZfQXozazhXS01tcnNDRnpvMkJJQVNxMDAwMHR0c0hZdExGeUNXMGdRQXBpcjNKdw?oc=5)
-
----
-
-### [Bewegung ist medizin: so schlägt sport diabetes und herzrisiko](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVSR1ZYX2QtdlNGZC1DS3UxekpsSUE1OGZCbFVBUWpjYmg1QlBaWC10Y3E3SEE2OHdjTVFLTWplREU3aHEwV3NfSGpmZWZ1R0l0MUlZS01xb0xtUXpGdUltMFlzUmRhUzFqR05OVF91Yjg3UGloQm5COWZyRzRGRnd5bkQ2by0wV2tEZDB3ZW5aM00?oc=5)
-
-2026-03-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVSR1ZYX2QtdlNGZC1DS3UxekpsSUE1OGZCbFVBUWpjYmg1QlBaWC10Y3E3SEE2OHdjTVFLTWplREU3aHEwV3NfSGpmZWZ1R0l0MUlZS01xb0xtUXpGdUltMFlzUmRhUzFqR05OVF91Yjg3UGloQm5COWZyRzRGRnd5bkQ2by0wV2tEZDB3ZW5aM00?oc=5)
-
----
-
-### [Severe COVID-19 linked to 24% higher risk of one killer cancer - Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
+### [Severe COVID-19 linked to 24% higher risk of one killer cancer](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">cancer</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
+來源：[Express.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
 
 ---
 
@@ -103,14 +127,6 @@ permalink: /news/faricimab/
 2026-03-16 <span class="news-indication-tag">asma</span>
 
 來源：[idowa.plus](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlVFU1REa0pzOUYyVXNSaUhFd3RFYzhGZUZlT2xlcmRNdEtzdmVxcjc3Mm5mUWt6c2VZQndKZm5acjJyd1dCbGtpbWg0Y1Y5ZXJVMTZfc2ZUcDBzNmhsZmg0OWNETHMyQl92QWlMUXJ5R1F5Q2lRc0pfc3puQnd4dldQR1lIVmJxb1ljOTJ1UVM0ZEhLWF9XdEtYRVFJUmtGNTNmdg?oc=5)
-
----
-
-### [Un hábito muy común al comer podría elevar el riesgo de diabetes un 20%, según un estudio](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnA4V0tmN0xVN0NPVlpQbjhvWHBoOVA4UTZmUWNtdEw4emhaXzRNalNJSVpIWk9yZHR0YXVPblc0ZUh0aGtCUGdXa2l2RzkycDlkcHlKTkNkQXhqSUFSVk9GR25hdlVaY0U0Q0drV1RzV1p3YVB3elBPU3loUEpQZw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[moncloa.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnA4V0tmN0xVN0NPVlpQbjhvWHBoOVA4UTZmUWNtdEw4emhaXzRNalNJSVpIWk9yZHR0YXVPblc0ZUh0aGtCUGdXa2l2RzkycDlkcHlKTkNkQXhqSUFSVk9GR25hdlVaY0U0Q0drV1RzV1p3YVB3elBPU3loUEpQZw?oc=5)
 
 ---
 
@@ -146,35 +162,11 @@ permalink: /news/faricimab/
 
 ---
 
-### [Lungenkrebs: „Entzündungszustand, der es Krebs erleichtert“ – die Folgen von Grippe und Corona](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVTJCOEVHQ1o0R3I1VG5tZWlCVGJLeVFtYWV2cVdsM3NOU0lhOXQtRVl3bTBTNk81Q3RwVzNwVDd1ODVOMEZzc3JySkpmOHIwZ2lCT0wyX19IZTc3b2NfTWNhNlA1aUlMOHMzUGIxdF9zei1HQkYyOE1MQy1BZ0ZrUFlKOU1PQ2UzU3pCSVkwVW9xTThoM0s3SkZCVjBDZF9yWUdsSnFKUldNVmVma3VTa0F3REtsZTNnT2JoXzIzdUNqMU5SVVFuekpyLUdHTExVSVlITDV5c2ZJbEgxaERiLXBOa3RIX1VXTElzdENn?oc=5)
-
-2026-03-16 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVTJCOEVHQ1o0R3I1VG5tZWlCVGJLeVFtYWV2cVdsM3NOU0lhOXQtRVl3bTBTNk81Q3RwVzNwVDd1ODVOMEZzc3JySkpmOHIwZ2lCT0wyX19IZTc3b2NfTWNhNlA1aUlMOHMzUGIxdF9zei1HQkYyOE1MQy1BZ0ZrUFlKOU1PQ2UzU3pCSVkwVW9xTThoM0s3SkZCVjBDZF9yWUdsSnFKUldNVmVma3VTa0F3REtsZTNnT2JoXzIzdUNqMU5SVVFuekpyLUdHTExVSVlITDV5c2ZJbEgxaERiLXBOa3RIX1VXTElzdENn?oc=5)
-
----
-
-### [Grâce à ChatGPT, il crée un vaccin pour son chien mourant atteint d'un cancer - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR0xVbzRKbGc0aFZfYjFSU3BXZHRTc0tFTzZLZHRIeVlFMzVzU1hsS0xseGFiNFAtWTNwYWJZWmN1Ql9FRDhPNjBOa21FaVNDM3JnRGJiNUZVZWEzdGlNdF9hWHVfMkZ0NGY4WXdpX0Qtb0NMS2Ezc3RlMUJFQUVVWkxCaXh3VUF2czNUdF9fcm5qWS1ka2ZFdTZGWHhXdFlZc24xN21lQzZnLU1pX3kxRElpQ1gwQ29GOVp0ajlXWlludw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR0xVbzRKbGc0aFZfYjFSU3BXZHRTc0tFTzZLZHRIeVlFMzVzU1hsS0xseGFiNFAtWTNwYWJZWmN1Ql9FRDhPNjBOa21FaVNDM3JnRGJiNUZVZWEzdGlNdF9hWHVfMkZ0NGY4WXdpX0Qtb0NMS2Ezc3RlMUJFQUVVWkxCaXh3VUF2czNUdF9fcm5qWS1ka2ZFdTZGWHhXdFlZc24xN21lQzZnLU1pX3kxRElpQ1gwQ29GOVp0ajlXWlludw?oc=5)
-
----
-
 ### [Nicht nur HPV kann Genitalkrebs auslösen - PULS 24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXFCSjBta3YtOWMzM2xKZHA0WENDUU5vYjF4dUptdWNaVGl0UGZoWFlJc21VeWdieUhSOE1nNm9hSnFIeVVzeFVkQkxhTk1jWU5IWTVJS0EzNVU0bzZfN2JGb28wSGpqZW5rTUs0cVBqYjhob042RmZmV2tpVUxHLUMzZVhRblZrTjhz?oc=5)
 
 2026-03-16 <span class="news-indication-tag">tumor</span>
 
 來源：[PULS 24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXFCSjBta3YtOWMzM2xKZHA0WENDUU5vYjF4dUptdWNaVGl0UGZoWFlJc21VeWdieUhSOE1nNm9hSnFIeVVzeFVkQkxhTk1jWU5IWTVJS0EzNVU0bzZfN2JGb28wSGpqZW5rTUs0cVBqYjhob042RmZmV2tpVUxHLUMzZVhRblZrTjhz?oc=5)
-
----
-
-### [New health trend sweeps UK as 96% of Brits not meeting crucial daily intake - Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXR4MkJSVjVQOEZNMkpuRUxuTGY2QkQ0b2hrVDlPdjlQWHUxT1pDa2ZYVERkRk8yTkdmbk1CcGpKR2tCcE5rWXpOVnpEYTVYZ3RVUXVSUk9pc2FzcjR2YUJJeG9CU2ZfR2hZNkpZTU9Nemg5SlN1UGt0REc1cWJqUDFqaGNITVHSAYwBQVVfeXFMTUVQUEtHVmJNZGNZdXhfelA0OFkzYzFKR00tYTdHQ3hYUXh5Y0swR0FFeFZVaUlHVi1abVl3WTlUcmF4cWNxdGNxajctVGwyVTRfbWpfWjc5VWNIdmVvbVpEd3lieFRFUlFHV00zWUNfNWZxWFRvRDRkUkVrVDRMLXJpU2JhX1ZScjl6Nzk?oc=5)
-
-2026-03-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXR4MkJSVjVQOEZNMkpuRUxuTGY2QkQ0b2hrVDlPdjlQWHUxT1pDa2ZYVERkRk8yTkdmbk1CcGpKR2tCcE5rWXpOVnpEYTVYZ3RVUXVSUk9pc2FzcjR2YUJJeG9CU2ZfR2hZNkpZTU9Nemg5SlN1UGt0REc1cWJqUDFqaGNITVHSAYwBQVVfeXFMTUVQUEtHVmJNZGNZdXhfelA0OFkzYzFKR00tYTdHQ3hYUXh5Y0swR0FFeFZVaUlHVi1abVl3WTlUcmF4cWNxdGNxajctVGwyVTRfbWpfWjc5VWNIdmVvbVpEd3lieFRFUlFHV00zWUNfNWZxWFRvRDRkUkVrVDRMLXJpU2JhX1ZScjl6Nzk?oc=5)
 
 ---
 
@@ -202,6 +194,14 @@ permalink: /news/faricimab/
 
 ---
 
+### [Arranca un ensayo clínico para saber cómo influye la dieta en el tratamiento de cánceres metastásicos de mama - El Confidencial](https://news.google.com/rss/articles/CBMiywFBVV95cUxNLVlNU0lqZ0YyaDRsMVphRmVwY0I0Y3JrZXA4ak9kN1hBaTlvTmIxQ0JCakphaWtZb3VJdXhhRXRyMTF5Zm11TVFidFBLTjRJN1loeVQyWmZDM3NMRTNZc0pZQ0J5bTF2MkVvUFBzOUdJaGxNVzZfNU52cGZDZXluck9mSU9uMTJqRTlmdGhtLVFMaDdpT3VjcHVvWE5kUldocHFQNWQyT18yUUVoSGFjZnNISU9KM1RoOUtVTTZYQTVOMUJxRV9WeWNSVQ?oc=5)
+
+2026-03-16 <span class="news-indication-tag">tumor</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMiywFBVV95cUxNLVlNU0lqZ0YyaDRsMVphRmVwY0I0Y3JrZXA4ak9kN1hBaTlvTmIxQ0JCakphaWtZb3VJdXhhRXRyMTF5Zm11TVFidFBLTjRJN1loeVQyWmZDM3NMRTNZc0pZQ0J5bTF2MkVvUFBzOUdJaGxNVzZfNU52cGZDZXluck9mSU9uMTJqRTlmdGhtLVFMaDdpT3VjcHVvWE5kUldocHFQNWQyT18yUUVoSGFjZnNISU9KM1RoOUtVTTZYQTVOMUJxRV9WeWNSVQ?oc=5)
+
+---
+
 ### [Tumore dell’ovaio, a Bergamo una rete per cure più efficaci e rapide - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMktxcFBITHMzVng2MVFNd2E3eUN5QlNLR3A5anlOSVZLemFadjdTaEh0UkNhTU9OTFdGQnFrOEdMQXZkSXh0RFR1WXctS2dnVFlHMmJBaWtCWm1LVzJ2bnpLYlNIM0JFaWVoQVpnN2lRVFBXMVNSUUhXYkhaZnpVWlU5d0VuMGtUSm9kd1ZPd2tYZkZUXzJGUGhfellRWkpqRTg3NFFQVnpkcE1FbzhQd3o5UEZOR2xvTURpS2ozQnB3WHZSblM5R0lYcDJTNzA?oc=5)
 
 2026-03-16 <span class="news-indication-tag">tumor</span>
@@ -215,14 +215,6 @@ permalink: /news/faricimab/
 2026-03-15 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmJIUWZCWWdFcklpUUZiOFYzTDRTaXh6Z1gxeVpOVWpqMDVxOTk1Q0tyelAwYldIb3RrVEc3M1dmelYta0RObDJSdXc4a0N6TmY5cFI2bzBWOFNHZ1U4cWV4bHNjRzNKbldjNFNMMjFSdWdqcjNyOXUycWZZOGs0Y1QyYzU4RXQtS29vLVV3c2J6T1k?oc=5)
-
----
-
-### ["Le dépistage nous permet de faire entrer les patients dans un parcours de soins afin de retarder l’évolution de la maladie" : à Carcassonne une journée pour dépister les maladies rénales au plus tôt](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
-
-2026-03-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AF</span>
-
-來源：[L'Indépendant](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
 
 ---
 

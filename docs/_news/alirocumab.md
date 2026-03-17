@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alirocumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,27 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Veinte farmacias de Gipuzkoa comienzan un programa para detectar precozmente la enfermedad renal - El Globalfarma](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHNoRlNQeXM4RG5kWmJfZHlEMjRxUU9rekhCWUF2b0NuSHg5ckZUWkZwbHpqS0RNdkpaYkstaWRoUUhSc05IejhpcEpnY2hLMW5DcTZ6UHRfMm1fN3NHdFdHdzBIWmlURWdScFlveUk1V053eUtoSFZZTlhyTDRQcDFjOWR0UVU?oc=5)
+
+2026-03-16 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHNoRlNQeXM4RG5kWmJfZHlEMjRxUU9rekhCWUF2b0NuSHg5ckZUWkZwbHpqS0RNdkpaYkstaWRoUUhSc05IejhpcEpnY2hLMW5DcTZ6UHRfMm1fN3NHdFdHdzBIWmlURWdScFlveUk1V053eUtoSFZZTlhyTDRQcDFjOWR0UVU?oc=5)
+
+---
+
+### [Why lockdown may have left young people vulnerable to meningitis - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFM0YWE4UGR0ajZQUzMwNFFRU2c0MU95SUtXdXpMQm1OcjNPRmlGT2FCa2JEYmZLdkxXeTN6UnAzZXp0dWpSdUExTEpZS0FYUm9icFBha01SM3NSX0VyNVZlU0FLTGRtRnhhYXRWWE1BWFI2MDl5MHdwcllXLUlxV1pkZnA3NFI4dGpyaWJOWndpM2tjUlpj?oc=5)
+
+2026-03-16 <span class="news-indication-tag">CKD</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFM0YWE4UGR0ajZQUzMwNFFRU2c0MU95SUtXdXpMQm1OcjNPRmlGT2FCa2JEYmZLdkxXeTN6UnAzZXp0dWpSdUExTEpZS0FYUm9icFBha01SM3NSX0VyNVZlU0FLTGRtRnhhYXRWWE1BWFI2MDl5MHdwcllXLUlxV1pkZnA3NFI4dGpyaWJOWndpM2tjUlpj?oc=5)
+
+---
 
 ### [«Si detectamos precozmente la enfermedad renal, podemos revertirla» - La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
 
-2026-03-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+2026-03-16 <span class="news-indication-tag">enfermedad renal crónica</span>
 
 來源：[La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
 

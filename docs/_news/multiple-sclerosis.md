@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
 ### [Demenz: 20 Jahre später messbar – wie zwei Übungsarten das Demenzrisiko massiv senkten](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTmx5UFFDLXNSQTF6Z0RqbGhIRllLMVBpSlo1eV93YmlUdDlwN3UxSXNkbjF5UnFuekZxM0trSUJSVUdaYUJDUk0zZllvREU5WXZSeDNrWnQxcDV4TjlWRi1uMFk3S183WFl1UjA5V2s0VmhtN2NVMzl1MWRieVhjSHlKSGNScVl0Sm5GT3hnbHZmcUU2Q2otOU0xNjN4ZFF5YkxVUWVScXljbDBWWDFfQVBjWFNtTmR4SG9tMVlhaTFzd2VIVUhhQXpHTFJmanVhc0Z1S2d0XzFYTUlpaUZIeTk3OHE0NVNK?oc=5)
 
@@ -80,14 +80,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [«Si detectamos precozmente la enfermedad renal, podemos revertirla» - La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
-
-2026-03-16
-
-來源：[La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
-
----
-
 ### [I brushed off symptoms as panic or being unfit for 6 weeks before a heart attack - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUExNM0lYNXlIc1BwTzRxSGllcEdrdURnc0tfcU42aFowcmFQQ1lwTGwzd3I5cVVSZ2J0dmJFY29fMmJ5U2ZUdUNRaXNGTUt0NTdyWFNjU2ZCdEt0MWgtQmxjVmw3UGt0YkoxM2txd2U4Q0QxNENVOGd2Q0IwTUpZUzl1d0ZTc3FkVVl4YUtlTTFJQQ?oc=5)
 
 2026-03-15
@@ -96,11 +88,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [CAR-T-Therapie: Ein neuer Ansatz gegen Multiple Sklerose? - it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNnbG05VWpFWWxVdHBzSkViMmhMb01ZRW1Pdm50TVNGTmdvaFRncXdyR2NxeGNuREV6cHBpZDBCZXZSaGZ6RnpEUmJqTXdVMXhUamotMEFjb3FjblYwazU4SkszSnB5eTBCTHRHbk9oMlZZV3pzc3FNTnVTdk5Oejl2MnR0RlprRTEyVHpxVVQ?oc=5)
+### [CAR-T-Therapie: Ein neuer Ansatz gegen Multiple Sklerose?](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNnbG05VWpFWWxVdHBzSkViMmhMb01ZRW1Pdm50TVNGTmdvaFRncXdyR2NxeGNuREV6cHBpZDBCZXZSaGZ6RnpEUmJqTXdVMXhUamotMEFjb3FjblYwazU4SkszSnB5eTBCTHRHbk9oMlZZV3pzc3FNTnVTdk5Oejl2MnR0RlprRTEyVHpxVVQ?oc=5)
 
 2026-03-15
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNnbG05VWpFWWxVdHBzSkViMmhMb01ZRW1Pdm50TVNGTmdvaFRncXdyR2NxeGNuREV6cHBpZDBCZXZSaGZ6RnpEUmJqTXdVMXhUamotMEFjb3FjblYwazU4SkszSnB5eTBCTHRHbk9oMlZZV3pzc3FNTnVTdk5Oejl2MnR0RlprRTEyVHpxVVQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNnbG05VWpFWWxVdHBzSkViMmhMb01ZRW1Pdm50TVNGTmdvaFRncXdyR2NxeGNuREV6cHBpZDBCZXZSaGZ6RnpEUmJqTXdVMXhUamotMEFjb3FjblYwazU4SkszSnB5eTBCTHRHbk9oMlZZV3pzc3FNTnVTdk5Oejl2MnR0RlprRTEyVHpxVVQ?oc=5)
 
 ---
 
@@ -125,14 +117,6 @@ permalink: /news/multiple-sclerosis/
 2026-03-15
 
 來源：[RomaToday](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VNkNITnhCTmhtX1p0VzNjMXBIZjc4NDNxX0tOYWlRX05vNlZhcUMxbXQwUnJxU2p1cS1EaE5YTEpZazF0cC15SWRxT0R5eWZuNDE1S1ZFblh5QjlMT3lQZGZ5cTlXS2M3cWU5QkxMWlB0S0hQWS0tXzE0SzA?oc=5)
-
----
-
-### [Childhood trauma leaves a lasting mark on biological systems, study finds](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUhmbVp4bEZReUJVdnVyV0M1dTZOeVRzY3dvVFB2YjFzVEVCWTk0TUlKd0t2SzRkb25ITUp1N2pydUZMOElpNjhmTkRTSS0xZDNsNXhyYXllMENrbFNyRXJHTzhKcVJybXRqTzFmQ25xWF9kbHVmd3pId1REb095YmVmdmJSVzNIdTNqOEgwcWRaV2QxSWRsWG9uYnBWQQ?oc=5)
-
-2026-03-15
-
-來源：[PsyPost](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUhmbVp4bEZReUJVdnVyV0M1dTZOeVRzY3dvVFB2YjFzVEVCWTk0TUlKd0t2SzRkb25ITUp1N2pydUZMOElpNjhmTkRTSS0xZDNsNXhyYXllMENrbFNyRXJHTzhKcVJybXRqTzFmQ25xWF9kbHVmd3pId1REb095YmVmdmJSVzNIdTNqOEgwcWRaV2QxSWRsWG9uYnBWQQ?oc=5)
 
 ---
 

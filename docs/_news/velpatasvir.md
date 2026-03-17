@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Velpatasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
 ### [Demenz: 20 Jahre später messbar – wie zwei Übungsarten das Demenzrisiko massiv senkten](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTmx5UFFDLXNSQTF6Z0RqbGhIRllLMVBpSlo1eV93YmlUdDlwN3UxSXNkbjF5UnFuekZxM0trSUJSVUdaYUJDUk0zZllvREU5WXZSeDNrWnQxcDV4TjlWRi1uMFk3S183WFl1UjA5V2s0VmhtN2NVMzl1MWRieVhjSHlKSGNScVl0Sm5GT3hnbHZmcUU2Q2otOU0xNjN4ZFF5YkxVUWVScXljbDBWWDFfQVBjWFNtTmR4SG9tMVlhaTFzd2VIVUhhQXpHTFJmanVhc0Z1S2d0XzFYTUlpaUZIeTk3OHE0NVNK?oc=5)
 
@@ -66,14 +66,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [«Si detectamos precozmente la enfermedad renal, podemos revertirla» - La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
-
-2026-03-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">enfermedad renal crónica</span>
-
-來源：[La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
-
----
-
 ### [I brushed off symptoms as panic or being unfit for 6 weeks before a heart attack - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUExNM0lYNXlIc1BwTzRxSGllcEdrdURnc0tfcU42aFowcmFQQ1lwTGwzd3I5cVVSZ2J0dmJFY29fMmJ5U2ZUdUNRaXNGTUt0NTdyWFNjU2ZCdEt0MWgtQmxjVmw3UGt0YkoxM2txd2U4Q0QxNENVOGd2Q0IwTUpZUzl1d0ZTc3FkVVl4YUtlTTFJQQ?oc=5)
 
 2026-03-15 <span class="news-indication-tag">MS</span>
@@ -82,11 +74,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [CAR-T-Therapie: Ein neuer Ansatz gegen Multiple Sklerose? - it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNnbG05VWpFWWxVdHBzSkViMmhMb01ZRW1Pdm50TVNGTmdvaFRncXdyR2NxeGNuREV6cHBpZDBCZXZSaGZ6RnpEUmJqTXdVMXhUamotMEFjb3FjblYwazU4SkszSnB5eTBCTHRHbk9oMlZZV3pzc3FNTnVTdk5Oejl2MnR0RlprRTEyVHpxVVQ?oc=5)
+### [CAR-T-Therapie: Ein neuer Ansatz gegen Multiple Sklerose?](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNnbG05VWpFWWxVdHBzSkViMmhMb01ZRW1Pdm50TVNGTmdvaFRncXdyR2NxeGNuREV6cHBpZDBCZXZSaGZ6RnpEUmJqTXdVMXhUamotMEFjb3FjblYwazU4SkszSnB5eTBCTHRHbk9oMlZZV3pzc3FNTnVTdk5Oejl2MnR0RlprRTEyVHpxVVQ?oc=5)
 
 2026-03-15 <span class="news-indication-tag">Multiple Sklerose</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNnbG05VWpFWWxVdHBzSkViMmhMb01ZRW1Pdm50TVNGTmdvaFRncXdyR2NxeGNuREV6cHBpZDBCZXZSaGZ6RnpEUmJqTXdVMXhUamotMEFjb3FjblYwazU4SkszSnB5eTBCTHRHbk9oMlZZV3pzc3FNTnVTdk5Oejl2MnR0RlprRTEyVHpxVVQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNnbG05VWpFWWxVdHBzSkViMmhMb01ZRW1Pdm50TVNGTmdvaFRncXdyR2NxeGNuREV6cHBpZDBCZXZSaGZ6RnpEUmJqTXdVMXhUamotMEFjb3FjblYwazU4SkszSnB5eTBCTHRHbk9oMlZZV3pzc3FNTnVTdk5Oejl2MnR0RlprRTEyVHpxVVQ?oc=5)
 
 ---
 
@@ -114,17 +106,9 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Childhood trauma leaves a lasting mark on biological systems, study finds](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUhmbVp4bEZReUJVdnVyV0M1dTZOeVRzY3dvVFB2YjFzVEVCWTk0TUlKd0t2SzRkb25ITUp1N2pydUZMOElpNjhmTkRTSS0xZDNsNXhyYXllMENrbFNyRXJHTzhKcVJybXRqTzFmQ25xWF9kbHVmd3pId1REb095YmVmdmJSVzNIdTNqOEgwcWRaV2QxSWRsWG9uYnBWQQ?oc=5)
-
-2026-03-15 <span class="news-indication-tag">MS</span>
-
-來源：[PsyPost](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUhmbVp4bEZReUJVdnVyV0M1dTZOeVRzY3dvVFB2YjFzVEVCWTk0TUlKd0t2SzRkb25ITUp1N2pydUZMOElpNjhmTkRTSS0xZDNsNXhyYXllMENrbFNyRXJHTzhKcVJybXRqTzFmQ25xWF9kbHVmd3pId1REb095YmVmdmJSVzNIdTNqOEgwcWRaV2QxSWRsWG9uYnBWQQ?oc=5)
-
----
-
 ### [Esta es la enfermedad del sueño que puede hacer que pierdas hasta 8 años de vida](https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFd5YlBpeENHSkU4SFNwRXNDNkItU3F6MFBVcktTdi13Zy1sVDNtdnp2YWpLYl9qVTZBRFhuNDdMQVJxOWptdnhmQllJS1pudjZUMnZUSFhKNGlETDZtMEV5WjFsNEZ1c05DbnRFbWo5NlBsSTJsYnRYQnduaFFwb2t6Z1FNU25sTS1HZENzaTJXYnByNUwyV0RZM0VKalhT0gGmAUFVX3lxTE1NOGE4amtyODF3WmI5SVZXVW1xTS1kYkNJd3lLeGdjZlIwTkdFVURxNDFZVzFQb21zY09MclptcnBQRVdpRUpIVzVfQzhCLTFGWGo0WUo0UjhvcVNCNjZ4NTg5dlh0eGVfRTBvRVdfT2t1MmMxcjVITXN5WXV1bkpRSFFXQlBtaW1SM3F0d3gyV2h6OUNlUHhCQUpENzN2MUVFUG53eUE?oc=5)
 
-2026-03-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-14 <span class="news-indication-tag">MS</span>
 
 來源：[CuídatePlus](https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFd5YlBpeENHSkU4SFNwRXNDNkItU3F6MFBVcktTdi13Zy1sVDNtdnp2YWpLYl9qVTZBRFhuNDdMQVJxOWptdnhmQllJS1pudjZUMnZUSFhKNGlETDZtMEV5WjFsNEZ1c05DbnRFbWo5NlBsSTJsYnRYQnduaFFwb2t6Z1FNU25sTS1HZENzaTJXYnByNUwyV0RZM0VKalhT0gGmAUFVX3lxTE1NOGE4amtyODF3WmI5SVZXVW1xTS1kYkNJd3lLeGdjZlIwTkdFVURxNDFZVzFQb21zY09MclptcnBQRVdpRUpIVzVfQzhCLTFGWGo0WUo0UjhvcVNCNjZ4NTg5dlh0eGVfRTBvRVdfT2t1MmMxcjVITXN5WXV1bkpRSFFXQlBtaW1SM3F0d3gyV2h6OUNlUHhCQUpENzN2MUVFUG53eUE?oc=5)
 

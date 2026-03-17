@@ -14,7 +14,7 @@ permalink: /news/sitagliptin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Sitagliptin Hydrochloride 有什麼相關新聞？">
-<strong>Sitagliptin Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sitagliptin Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/sitagliptin-hydrochloride/
 <p><a href="{{ '/drugs/sitagliptin-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+
+2026-03-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+
+---
+
+### [Los inhibidores de SGLT2 refuerzan el manejo de la diabetes con cirrosis - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2FmMjhBUEttSDVlQ2pCR2d6YkEwYVpUMzhNSG83d1JlWjhpU2I1Vjl1anplSFY2dnZJdDBJODdYc3hUb0lsMDROZkVPdHpONlo4WV9jWW1PY0Q2Wko2NzJaSzJXdEwtV0FnbGdmMkxPbGdOWTlmc0lCUERoMktlMC1Xb1NJb2NzdlFEUzFacmRpcTh5Tm5IVk1INmZGckhXRm0xOUxiSTlPbGxZNEJmMnZmRFprOWJveVltNHdsa3ctU1XSAb4BQVVfeXFMTmp1NlRhRFRmUjNMVW9vNTFrVWFnNzlvYnNRb0E4dFZIUUlSUy1ZUUxvWTJERU5kT1E2TXRicUJVdFNoekpSVmhJVUVaVkVpd2FTYkZOSzdRUnpKSEpKeDZLcjFiRU5OQXhuS2s1M3hSbHlsdFM1T2pZaHlKa2FzNjdEUzFUUzNob2tleWZ6ZjR5cmgwU0VGVWVyTTQwdGdOd3NXNE16dUZOVXBJMUxNQ1l5OEtjVm4zLXNrUXpYZw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2FmMjhBUEttSDVlQ2pCR2d6YkEwYVpUMzhNSG83d1JlWjhpU2I1Vjl1anplSFY2dnZJdDBJODdYc3hUb0lsMDROZkVPdHpONlo4WV9jWW1PY0Q2Wko2NzJaSzJXdEwtV0FnbGdmMkxPbGdOWTlmc0lCUERoMktlMC1Xb1NJb2NzdlFEUzFacmRpcTh5Tm5IVk1INmZGckhXRm0xOUxiSTlPbGxZNEJmMnZmRFprOWJveVltNHdsa3ctU1XSAb4BQVVfeXFMTmp1NlRhRFRmUjNMVW9vNTFrVWFnNzlvYnNRb0E4dFZIUUlSUy1ZUUxvWTJERU5kT1E2TXRicUJVdFNoekpSVmhJVUVaVkVpd2FTYkZOSzdRUnpKSEpKeDZLcjFiRU5OQXhuS2s1M3hSbHlsdFM1T2pZaHlKa2FzNjdEUzFUUzNob2tleWZ6ZjR5cmgwU0VGVWVyTTQwdGdOd3NXNE16dUZOVXBJMUxNQ1l5OEtjVm4zLXNrUXpYZw?oc=5)
+
+---
 
 ### [Neuigkeiten für Menschen mit Diabetes im Straßenverkehr](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTgwR3ZPYUttdnE0WUhHdkdHZEZsTDJ5UUZacTNqc19xb1ZNeWNiVVpLQlA1dXdJR2k2dkFDVzdxVW55YnhkeWRUalFzQ21yUTV6N3FmVnhZX0YwTFg2Yk9sQjJpZjFPd1NIRkVnclRMblVtdF9ud2FsT3NXTWpLZlp0NVgtS3FZN1RFdS1DOTJ5VmJJR0JnNHpiZlpfTDVjN1Jlek85bWpCZVZmTWpINTc4cGVtUWQzZXAtUk9xSHQ0UQ?oc=5)
 
@@ -50,35 +66,11 @@ permalink: /news/sitagliptin-hydrochloride/
 
 ---
 
-### [Bewegung ist medizin: so schlägt sport diabetes und herzrisiko](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVSR1ZYX2QtdlNGZC1DS3UxekpsSUE1OGZCbFVBUWpjYmg1QlBaWC10Y3E3SEE2OHdjTVFLTWplREU3aHEwV3NfSGpmZWZ1R0l0MUlZS01xb0xtUXpGdUltMFlzUmRhUzFqR05OVF91Yjg3UGloQm5COWZyRzRGRnd5bkQ2by0wV2tEZDB3ZW5aM00?oc=5)
-
-2026-03-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVSR1ZYX2QtdlNGZC1DS3UxekpsSUE1OGZCbFVBUWpjYmg1QlBaWC10Y3E3SEE2OHdjTVFLTWplREU3aHEwV3NfSGpmZWZ1R0l0MUlZS01xb0xtUXpGdUltMFlzUmRhUzFqR05OVF91Yjg3UGloQm5COWZyRzRGRnd5bkQ2by0wV2tEZDB3ZW5aM00?oc=5)
-
----
-
-### [Un hábito muy común al comer podría elevar el riesgo de diabetes un 20%, según un estudio](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnA4V0tmN0xVN0NPVlpQbjhvWHBoOVA4UTZmUWNtdEw4emhaXzRNalNJSVpIWk9yZHR0YXVPblc0ZUh0aGtCUGdXa2l2RzkycDlkcHlKTkNkQXhqSUFSVk9GR25hdlVaY0U0Q0drV1RzV1p3YVB3elBPU3loUEpQZw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[moncloa.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnA4V0tmN0xVN0NPVlpQbjhvWHBoOVA4UTZmUWNtdEw4emhaXzRNalNJSVpIWk9yZHR0YXVPblc0ZUh0aGtCUGdXa2l2RzkycDlkcHlKTkNkQXhqSUFSVk9GR25hdlVaY0U0Q0drV1RzV1p3YVB3elBPU3loUEpQZw?oc=5)
-
----
-
 ### [Kostenlose Experten-Webinare zu Parodontitis und Diabetes am 8. und 29. April 2026 - ZWP online](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbUljYkEtZmVOeEFCMUhzS0ZjOVpHQXF4al9iQU0xOFl0eFFIV0swWUR5WkNZN1Z0bzVZSW1LbFphOV9FTDNuNHhsOHN2U3lpdUgwdGVkY1I2OGdrUkwwZWdxWmF5ZlIyLWY5MzVwQnFKVEpnTUFyRUp0VVcyYTJLT2RJUWxtcjQ4ZjVPdGlycVVTQ3RGQnNnUmNnZS1wMDRreTNzOW1tUzJaWExZOGdtbGc5VXlLellKMVVnWDdydWk5blRGdWsyTE9tYXp3VGtkZm9PcFRHb0VqRm1tZVo4?oc=5)
 
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[ZWP online](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbUljYkEtZmVOeEFCMUhzS0ZjOVpHQXF4al9iQU0xOFl0eFFIV0swWUR5WkNZN1Z0bzVZSW1LbFphOV9FTDNuNHhsOHN2U3lpdUgwdGVkY1I2OGdrUkwwZWdxWmF5ZlIyLWY5MzVwQnFKVEpnTUFyRUp0VVcyYTJLT2RJUWxtcjQ4ZjVPdGlycVVTQ3RGQnNnUmNnZS1wMDRreTNzOW1tUzJaWExZOGdtbGc5VXlLellKMVVnWDdydWk5blRGdWsyTE9tYXp3VGtkZm9PcFRHb0VqRm1tZVo4?oc=5)
-
----
-
-### ["Le dépistage nous permet de faire entrer les patients dans un parcours de soins afin de retarder l’évolution de la maladie" : à Carcassonne une journée pour dépister les maladies rénales au plus tôt](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
-
-2026-03-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AF</span>
-
-來源：[L'Indépendant](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+
+2026-03-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+
+---
+
+### [Los inhibidores de SGLT2 refuerzan el manejo de la diabetes con cirrosis - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2FmMjhBUEttSDVlQ2pCR2d6YkEwYVpUMzhNSG83d1JlWjhpU2I1Vjl1anplSFY2dnZJdDBJODdYc3hUb0lsMDROZkVPdHpONlo4WV9jWW1PY0Q2Wko2NzJaSzJXdEwtV0FnbGdmMkxPbGdOWTlmc0lCUERoMktlMC1Xb1NJb2NzdlFEUzFacmRpcTh5Tm5IVk1INmZGckhXRm0xOUxiSTlPbGxZNEJmMnZmRFprOWJveVltNHdsa3ctU1XSAb4BQVVfeXFMTmp1NlRhRFRmUjNMVW9vNTFrVWFnNzlvYnNRb0E4dFZIUUlSUy1ZUUxvWTJERU5kT1E2TXRicUJVdFNoekpSVmhJVUVaVkVpd2FTYkZOSzdRUnpKSEpKeDZLcjFiRU5OQXhuS2s1M3hSbHlsdFM1T2pZaHlKa2FzNjdEUzFUUzNob2tleWZ6ZjR5cmgwU0VGVWVyTTQwdGdOd3NXNE16dUZOVXBJMUxNQ1l5OEtjVm4zLXNrUXpYZw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2FmMjhBUEttSDVlQ2pCR2d6YkEwYVpUMzhNSG83d1JlWjhpU2I1Vjl1anplSFY2dnZJdDBJODdYc3hUb0lsMDROZkVPdHpONlo4WV9jWW1PY0Q2Wko2NzJaSzJXdEwtV0FnbGdmMkxPbGdOWTlmc0lCUERoMktlMC1Xb1NJb2NzdlFEUzFacmRpcTh5Tm5IVk1INmZGckhXRm0xOUxiSTlPbGxZNEJmMnZmRFprOWJveVltNHdsa3ctU1XSAb4BQVVfeXFMTmp1NlRhRFRmUjNMVW9vNTFrVWFnNzlvYnNRb0E4dFZIUUlSUy1ZUUxvWTJERU5kT1E2TXRicUJVdFNoekpSVmhJVUVaVkVpd2FTYkZOSzdRUnpKSEpKeDZLcjFiRU5OQXhuS2s1M3hSbHlsdFM1T2pZaHlKa2FzNjdEUzFUUzNob2tleWZ6ZjR5cmgwU0VGVWVyTTQwdGdOd3NXNE16dUZOVXBJMUxNQ1l5OEtjVm4zLXNrUXpYZw?oc=5)
+
+---
 
 ### [SEMI denuncia inequidad en la vacunación de adultos frente al VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdk5vTERYd0RGRVFwY05OMXRUNDlLSktIVWd0M3pldTlOR1FTbXhmZ0IwOXdwdzZhdWU3c1ZHSmtCTHcxNXlFb09uVHBpYU56RkdYbjR1YUtwVGNCV3NjTllNdGY1YkJ4M0swQ2hEVEhjcnpRaFAwdWNHeFZmd0IyQ2lBVkR3NEZlUlBhcXM2X3RQQ0hFdnBQTUp3YjZyUEdSWkpxbGtPbW5HUDFfMGx1dXdTa2ZVcjZ2WDh1bExPaFo2Tk9VeGp4RtIByAFBVV95cUxOSU1RdDVBblEtdXZmYW56TFd4eUpQaVluOWRRUDFOekU0TVdYOEhQYmpJRVFYdUhJdlpUX3MzNU8tQl9ETmMtMnVlNm85MXltbG1XRm1Dd1lVTUlVM2ZfcHRsaWFQbnUxenRnYjZlZjBobjd0MHhXWnRPQXp6RlpzR1pnRVZiRlpfUWczcHlUeTM3SERVUjlEdzRsMzNqVXNpbElvZFJfN05CbGJPZ29uZVYzY3ZrNm9pTlJMWktkNVdXZm5QelhIaw?oc=5)
 
@@ -58,43 +74,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Bewegung ist medizin: so schlägt sport diabetes und herzrisiko](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVSR1ZYX2QtdlNGZC1DS3UxekpsSUE1OGZCbFVBUWpjYmg1QlBaWC10Y3E3SEE2OHdjTVFLTWplREU3aHEwV3NfSGpmZWZ1R0l0MUlZS01xb0xtUXpGdUltMFlzUmRhUzFqR05OVF91Yjg3UGloQm5COWZyRzRGRnd5bkQ2by0wV2tEZDB3ZW5aM00?oc=5)
-
-2026-03-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVVSR1ZYX2QtdlNGZC1DS3UxekpsSUE1OGZCbFVBUWpjYmg1QlBaWC10Y3E3SEE2OHdjTVFLTWplREU3aHEwV3NfSGpmZWZ1R0l0MUlZS01xb0xtUXpGdUltMFlzUmRhUzFqR05OVF91Yjg3UGloQm5COWZyRzRGRnd5bkQ2by0wV2tEZDB3ZW5aM00?oc=5)
-
----
-
-### [Un hábito muy común al comer podría elevar el riesgo de diabetes un 20%, según un estudio](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnA4V0tmN0xVN0NPVlpQbjhvWHBoOVA4UTZmUWNtdEw4emhaXzRNalNJSVpIWk9yZHR0YXVPblc0ZUh0aGtCUGdXa2l2RzkycDlkcHlKTkNkQXhqSUFSVk9GR25hdlVaY0U0Q0drV1RzV1p3YVB3elBPU3loUEpQZw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[moncloa.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnA4V0tmN0xVN0NPVlpQbjhvWHBoOVA4UTZmUWNtdEw4emhaXzRNalNJSVpIWk9yZHR0YXVPblc0ZUh0aGtCUGdXa2l2RzkycDlkcHlKTkNkQXhqSUFSVk9GR25hdlVaY0U0Q0drV1RzV1p3YVB3elBPU3loUEpQZw?oc=5)
-
----
-
-### [La EPOC, la enfermedad que se ha llevado a Gemma Cuervo: los primeros síntomas pueden pasar desapercibidos - La Razón](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPelA5dEpSSnJsMzVfVFM4QzA5Q3Jwc0p0dnRnQXJISmJOZ2FQSDVIQk1tSnFRNFBhLXRnRHpzclJIU0NFRlU0YlVrLXNPQ0FlSkFVSV93Q09xR2FpYTRaWllDWTNGaEwzMXNPRzltcHZERndtV1JlVzVkbko0N0dfVFZtdXBHMTRVUEdhSTVlUGstb0VnNkwzSzFyb3g1VTZEbnhPN05BLUs5QlQ0Q25LQWNvZmVMLXM5bXEyY2hhMFdVZWJBbXQ0UGNleF82VklsamVJeVpJalNZZ0FSUTB4RkhBT05ldUdfVElQbmFuRdIBgwJBVV95cUxNR21WdnNnRjVGVmN4ellCNGc2azhLUjBleWV4N2RickxvZTJ2dVo1MS1DeVBKeFkzX2xMczhlb19jRUVoRksyVU1ZcVhSUEExM25LRDBTM3BQeTl4dmM4R21TanF2NXhnZk5xTFRCNGw2QVZkVnlQSGxQMDNMbmFONm1hT0RhZ2lHaERKRGdtWXN3ZDNiSFhFVWxlSkhFbUJtb3lnN3JjNnI2M1ZuUkd0UHcxOHVrMU4xYmUzVTBkck9NLV85RVVYNXkzbjlqMGZ0ZjE4cThtWTlhY1N3OW9JNUJRWjJBdHJvOG9FY1RMZDY1RERVM2hMbDB1VGxLRTJGWXVV?oc=5)
-
-2026-03-16 <span class="news-indication-tag">EPOC</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPelA5dEpSSnJsMzVfVFM4QzA5Q3Jwc0p0dnRnQXJISmJOZ2FQSDVIQk1tSnFRNFBhLXRnRHpzclJIU0NFRlU0YlVrLXNPQ0FlSkFVSV93Q09xR2FpYTRaWllDWTNGaEwzMXNPRzltcHZERndtV1JlVzVkbko0N0dfVFZtdXBHMTRVUEdhSTVlUGstb0VnNkwzSzFyb3g1VTZEbnhPN05BLUs5QlQ0Q25LQWNvZmVMLXM5bXEyY2hhMFdVZWJBbXQ0UGNleF82VklsamVJeVpJalNZZ0FSUTB4RkhBT05ldUdfVElQbmFuRdIBgwJBVV95cUxNR21WdnNnRjVGVmN4ellCNGc2azhLUjBleWV4N2RickxvZTJ2dVo1MS1DeVBKeFkzX2xMczhlb19jRUVoRksyVU1ZcVhSUEExM25LRDBTM3BQeTl4dmM4R21TanF2NXhnZk5xTFRCNGw2QVZkVnlQSGxQMDNMbmFONm1hT0RhZ2lHaERKRGdtWXN3ZDNiSFhFVWxlSkhFbUJtb3lnN3JjNnI2M1ZuUkd0UHcxOHVrMU4xYmUzVTBkck9NLV85RVVYNXkzbjlqMGZ0ZjE4cThtWTlhY1N3OW9JNUJRWjJBdHJvOG9FY1RMZDY1RERVM2hMbDB1VGxLRTJGWXVV?oc=5)
-
----
-
 ### [Kostenlose Experten-Webinare zu Parodontitis und Diabetes am 8. und 29. April 2026 - ZWP online](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbUljYkEtZmVOeEFCMUhzS0ZjOVpHQXF4al9iQU0xOFl0eFFIV0swWUR5WkNZN1Z0bzVZSW1LbFphOV9FTDNuNHhsOHN2U3lpdUgwdGVkY1I2OGdrUkwwZWdxWmF5ZlIyLWY5MzVwQnFKVEpnTUFyRUp0VVcyYTJLT2RJUWxtcjQ4ZjVPdGlycVVTQ3RGQnNnUmNnZS1wMDRreTNzOW1tUzJaWExZOGdtbGc5VXlLellKMVVnWDdydWk5blRGdWsyTE9tYXp3VGtkZm9PcFRHb0VqRm1tZVo4?oc=5)
 
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[ZWP online](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbUljYkEtZmVOeEFCMUhzS0ZjOVpHQXF4al9iQU0xOFl0eFFIV0swWUR5WkNZN1Z0bzVZSW1LbFphOV9FTDNuNHhsOHN2U3lpdUgwdGVkY1I2OGdrUkwwZWdxWmF5ZlIyLWY5MzVwQnFKVEpnTUFyRUp0VVcyYTJLT2RJUWxtcjQ4ZjVPdGlycVVTQ3RGQnNnUmNnZS1wMDRreTNzOW1tUzJaWExZOGdtbGc5VXlLellKMVVnWDdydWk5blRGdWsyTE9tYXp3VGtkZm9PcFRHb0VqRm1tZVo4?oc=5)
-
----
-
-### ["Le dépistage nous permet de faire entrer les patients dans un parcours de soins afin de retarder l’évolution de la maladie" : à Carcassonne une journée pour dépister les maladies rénales au plus tôt](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
-
-2026-03-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AF</span>
-
-來源：[L'Indépendant](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
 
 ---
 

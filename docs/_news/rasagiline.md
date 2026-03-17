@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,19 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Botellas de plástico contra el Parkinson: desarrollan el primer tratamiento neurálgico a partir de residuos - Gaceta de salud](https://news.google.com/rss/articles/CBMijwJBVV95cUxQeDBOaFAtUEx6MFlHSENWRTNtREYtS1JRczRsb25zQWJLbGxUaHEyeDFLVUtZZW1ZYkhPR2JvRTQzcUdKY3QwbTV5dUY1QldRYWJ3alozOFg4bUkzQklUTmd0TjdPUVBnSV8xZTFKYTVKQkJoSDNqZFFRVTV3VVp3aHZLb3NBQ0paM1pRUklYTE1GVExEaFFfcHZJT2JiS1k1V3AwZU5oNklkTUhVMEMxdHZiTHNOdWlWTGR5bS1sa2s5OW9SUFkyOWs1MDdGb3djUjF2RW9GLW9uSlBTRUptSG83VTVwNU5LNGFrTHh0aVVTNDN4VW1kcFVtR3RKMFJpTTNqdUR0N1RFYnFROEkw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijwJBVV95cUxQeDBOaFAtUEx6MFlHSENWRTNtREYtS1JRczRsb25zQWJLbGxUaHEyeDFLVUtZZW1ZYkhPR2JvRTQzcUdKY3QwbTV5dUY1QldRYWJ3alozOFg4bUkzQklUTmd0TjdPUVBnSV8xZTFKYTVKQkJoSDNqZFFRVTV3VVp3aHZLb3NBQ0paM1pRUklYTE1GVExEaFFfcHZJT2JiS1k1V3AwZU5oNklkTUhVMEMxdHZiTHNOdWlWTGR5bS1sa2s5OW9SUFkyOWs1MDdGb3djUjF2RW9GLW9uSlBTRUptSG83VTVwNU5LNGFrTHh0aVVTNDN4VW1kcFVtR3RKMFJpTTNqdUR0N1RFYnFROEkw?oc=5)
+
+---
 
 ### [Plastic bottles recycled to make Parkinson’s disease drug - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkxYYURTQkY4cUtmNHBGczB5QzhtM0VZOVFaZkM1SXBSaEVBcUFyTE9ZQUxhczZtOEV4dlRnV0RhTGZkYVF4ZTRERlBPVEh4UnR3MUZlTk5lYUFsdVNVVjR5MTliUko2Vm1NNXJMMlRBQ2JvSVFoSGdYei1QSGRtVldWcEo3Y21NM29kTGxR?oc=5)
 
-2026-03-16 <span class="news-drug-tag">Levodopa</span> <span class="news-indication-tag">Parkinson's</span>
+2026-03-16 <span class="news-indication-tag">Parkinson's</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkxYYURTQkY4cUtmNHBGczB5QzhtM0VZOVFaZkM1SXBSaEVBcUFyTE9ZQUxhczZtOEV4dlRnV0RhTGZkYVF4ZTRERlBPVEh4UnR3MUZlTk5lYUFsdVNVVjR5MTliUko2Vm1NNXJMMlRBQ2JvSVFoSGdYei1QSGRtVldWcEo3Y21NM29kTGxR?oc=5)
 
