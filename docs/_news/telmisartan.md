@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### ['Race to stop meningitis spreading' and 'Donald's Trumped'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+
+2026-03-17 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+
+---
 
 ### [Tesis doctoral concluye programas Rehabilitación Cardíaca mejoran calidad vida pacientes - Región Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1hhODlkM2dBUVp4dmdrRlRvNS1mdE1QQzlXR0lnd0FrOEZyVF9UNVdqYkdVM0VCX25wbWhCOVk0dmU0b0ExVlFkcWJCX2RsM283OTZ1T0I4Umg1TXFDalpVTGY5SWlYLTViT2t6aW8zNjgtRG5VQmlYUURpU0ltRldvY01oMVhzbk5UOWIyc0szVFFjRDBLdHlsM2x4U1hqaXpGbnhMY3lISEVMYXdoVE1ETE40ekFFb1pKVHFKTjBsQ2FEVUZkY3JiUWxLRzVlY3htZ2JUem9ac0ZjWUxxZ0Vn0gHnAUFVX3lxTE1XZTBNbldUbVVNampHV0hPREJQWnl3WnZfN0JGVmhRY0JaeXZma2Qza0ZubHF3RDJlVXpFVXo1Qk16VXhkVmRIYjVTN3BtUi1kelMyUTRFRS1XaURrbkVRRkhrdEVFNm1vT2o5dUVhNjltT1ozVVVuTU5hQkc5emNRVTRhSnVFTHVYeFRvc0E3N0FPdWxzTm9HMzdndHpGbXZnVlRGTGdwelQ2MTlVZm84bnZjZmlheDdjOHcxcEZlQTBIYXJPLXUwV3BVVTVPUkZEaHNqc2lSaE8tZWNmV255TjVxaGtSZw?oc=5)
 
@@ -55,6 +63,14 @@ permalink: /news/telmisartan/
 2026-03-16 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">ictus</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUhMaTFCMV9lbnN6QTY3eWFvT0lGTW0zSnR0bXd4X0o5TjZPbmFSVldEQ21OZ0JyN1ZyVlBRZzBqZEFiXzhUWXNjc0VqWUxBQ2NjMmEyM1R1WXhhaUJncDliUHl4bUJGRU11Vlo2TVBBM2FLRjU0MnVwem9HX0NIclVIZXVtLVdraTRJMDBjVkdPS1JONGMxOHlFR2VPLU4tS0E4RGFQSlpabGNfczVHeDBjUXFuazJLOFZPQjJJRQ?oc=5)
+
+---
+
+### [Japan Approves the World’s First Treatments Made With Reprogrammed Human Cells - The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">heart failure</span>
+
+來源：[The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
 
 ---
 
@@ -79,14 +95,6 @@ permalink: /news/telmisartan/
 2026-03-15 <span class="news-indication-tag">ictus</span>
 
 來源：[WineNews](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm84cUpWbGdFWlhCdUhKQjR5d1lGMkQ5TC01eUJNUmN0dEl5a2hqaWZ0bWEydzBxb3BVRzF1UU93b1pEMk9PU3lXd0ZZS2JGazA2LW1pcVphVWg0eGlzLTFqMTRDQkd3SjgyQ1FJUlVoNWFwdHczWnNkSFlGaDNvSWF1V0hzRWpjUWlzejRHNTQyRTJRcXlRMGRwOGliUFZEaU8yZ21KTTJYVGYzR2NOQzBUeE5OWG5YNmsyRU1ULXVQaTBySDlEdA?oc=5)
-
----
-
-### [Chemists issue new warning for anyone taking ibuprofen, naproxen, diclofenac - Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
-
-2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 
 ---
 

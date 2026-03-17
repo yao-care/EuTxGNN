@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [SEMI denuncia inequidad en la vacunación de adultos frente al VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdk5vTERYd0RGRVFwY05OMXRUNDlLSktIVWd0M3pldTlOR1FTbXhmZ0IwOXdwdzZhdWU3c1ZHSmtCTHcxNXlFb09uVHBpYU56RkdYbjR1YUtwVGNCV3NjTllNdGY1YkJ4M0swQ2hEVEhjcnpRaFAwdWNHeFZmd0IyQ2lBVkR3NEZlUlBhcXM2X3RQQ0hFdnBQTUp3YjZyUEdSWkpxbGtPbW5HUDFfMGx1dXdTa2ZVcjZ2WDh1bExPaFo2Tk9VeGp4RtIByAFBVV95cUxOSU1RdDVBblEtdXZmYW56TFd4eUpQaVluOWRRUDFOekU0TVdYOEhQYmpJRVFYdUhJdlpUX3MzNU8tQl9ETmMtMnVlNm85MXltbG1XRm1Dd1lVTUlVM2ZfcHRsaWFQbnUxenRnYjZlZjBobjd0MHhXWnRPQXp6RlpzR1pnRVZiRlpfUWczcHlUeTM3SERVUjlEdzRsMzNqVXNpbElvZFJfN05CbGJPZ29uZVYzY3ZrNm9pTlJMWktkNVdXZm5QelhIaw?oc=5)
 
@@ -50,17 +50,9 @@ permalink: /news/botulinum-toxin-type-a/
 
 ---
 
-### [Botellas de plástico contra el Parkinson: desarrollan el primer tratamiento neurálgico a partir de residuos - Gaceta de salud](https://news.google.com/rss/articles/CBMijwJBVV95cUxQeDBOaFAtUEx6MFlHSENWRTNtREYtS1JRczRsb25zQWJLbGxUaHEyeDFLVUtZZW1ZYkhPR2JvRTQzcUdKY3QwbTV5dUY1QldRYWJ3alozOFg4bUkzQklUTmd0TjdPUVBnSV8xZTFKYTVKQkJoSDNqZFFRVTV3VVp3aHZLb3NBQ0paM1pRUklYTE1GVExEaFFfcHZJT2JiS1k1V3AwZU5oNklkTUhVMEMxdHZiTHNOdWlWTGR5bS1sa2s5OW9SUFkyOWs1MDdGb3djUjF2RW9GLW9uSlBTRUptSG83VTVwNU5LNGFrTHh0aVVTNDN4VW1kcFVtR3RKMFJpTTNqdUR0N1RFYnFROEkw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijwJBVV95cUxQeDBOaFAtUEx6MFlHSENWRTNtREYtS1JRczRsb25zQWJLbGxUaHEyeDFLVUtZZW1ZYkhPR2JvRTQzcUdKY3QwbTV5dUY1QldRYWJ3alozOFg4bUkzQklUTmd0TjdPUVBnSV8xZTFKYTVKQkJoSDNqZFFRVTV3VVp3aHZLb3NBQ0paM1pRUklYTE1GVExEaFFfcHZJT2JiS1k1V3AwZU5oNklkTUhVMEMxdHZiTHNOdWlWTGR5bS1sa2s5OW9SUFkyOWs1MDdGb3djUjF2RW9GLW9uSlBTRUptSG83VTVwNU5LNGFrTHh0aVVTNDN4VW1kcFVtR3RKMFJpTTNqdUR0N1RFYnFROEkw?oc=5)
-
----
-
 ### [Plastic bottles recycled to make Parkinson’s disease drug - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkxYYURTQkY4cUtmNHBGczB5QzhtM0VZOVFaZkM1SXBSaEVBcUFyTE9ZQUxhczZtOEV4dlRnV0RhTGZkYVF4ZTRERlBPVEh4UnR3MUZlTk5lYUFsdVNVVjR5MTliUko2Vm1NNXJMMlRBQ2JvSVFoSGdYei1QSGRtVldWcEo3Y21NM29kTGxR?oc=5)
 
-2026-03-16 <span class="news-indication-tag">Parkinson's</span>
+2026-03-16 <span class="news-drug-tag">Levodopa</span> <span class="news-indication-tag">Parkinson's</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkxYYURTQkY4cUtmNHBGczB5QzhtM0VZOVFaZkM1SXBSaEVBcUFyTE9ZQUxhczZtOEV4dlRnV0RhTGZkYVF4ZTRERlBPVEh4UnR3MUZlTk5lYUFsdVNVVjR5MTliUko2Vm1NNXJMMlRBQ2JvSVFoSGdYei1QSGRtVldWcEo3Y21NM29kTGxR?oc=5)
 

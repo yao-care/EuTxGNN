@@ -14,7 +14,7 @@ permalink: /news/chenodeoxycholic-acid/
 ---
 
 <p class="key-answer" data-question="Chenodeoxycholic Acid 有什麼相關新聞？">
-<strong>Chenodeoxycholic Acid</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Chenodeoxycholic Acid</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/chenodeoxycholic-acid/
 <p><a href="{{ '/drugs/chenodeoxycholic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [ATTD: de los datos de glucosa a los insights de IA -- una nueva dirección en el manejo de la diabetes - Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
+
+2026-03-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
+
+---
 
 ### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
 
@@ -76,7 +84,7 @@ permalink: /news/chenodeoxycholic-acid/
 
 ### [Chemists issue new warning for anyone taking ibuprofen, naproxen, diclofenac - Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 
-2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">high blood pressure</span>
+2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 

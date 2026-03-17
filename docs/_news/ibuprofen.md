@@ -44,7 +44,7 @@ permalink: /news/ibuprofen/
 
 ### [Chemists issue new warning for anyone taking ibuprofen, naproxen, diclofenac - Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 
-2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">high blood pressure</span>
+2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 

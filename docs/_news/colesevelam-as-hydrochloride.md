@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [ATTD: de los datos de glucosa a los insights de IA -- una nueva dirección en el manejo de la diabetes - Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
+
+2026-03-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
+
+---
 
 ### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
 
@@ -74,6 +82,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Japan Approves the World’s First Treatments Made With Reprogrammed Human Cells - The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">heart failure</span>
+
+來源：[The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
+
+---
+
 ### [Kostenlose Experten-Webinare zu Parodontitis und Diabetes am 8. und 29. April 2026 - ZWP online](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbUljYkEtZmVOeEFCMUhzS0ZjOVpHQXF4al9iQU0xOFl0eFFIV0swWUR5WkNZN1Z0bzVZSW1LbFphOV9FTDNuNHhsOHN2U3lpdUgwdGVkY1I2OGdrUkwwZWdxWmF5ZlIyLWY5MzVwQnFKVEpnTUFyRUp0VVcyYTJLT2RJUWxtcjQ4ZjVPdGlycVVTQ3RGQnNnUmNnZS1wMDRreTNzOW1tUzJaWExZOGdtbGc5VXlLellKMVVnWDdydWk5blRGdWsyTE9tYXp3VGtkZm9PcFRHb0VqRm1tZVo4?oc=5)
 
 2026-03-16 <span class="news-indication-tag">diabetes</span>
@@ -84,7 +100,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ### [Chemists issue new warning for anyone taking ibuprofen, naproxen, diclofenac - Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 
-2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">high blood pressure</span>
+2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 

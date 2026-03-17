@@ -42,6 +42,14 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（7 則）
 
+### [ATTD: de los datos de glucosa a los insights de IA -- una nueva dirección en el manejo de la diabetes - Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
+
+2026-03-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
+
+---
+
 ### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
 
 2026-03-16 <span class="news-indication-tag">diabetes</span>
@@ -55,14 +63,6 @@ permalink: /news/somapacitan/
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2FmMjhBUEttSDVlQ2pCR2d6YkEwYVpUMzhNSG83d1JlWjhpU2I1Vjl1anplSFY2dnZJdDBJODdYc3hUb0lsMDROZkVPdHpONlo4WV9jWW1PY0Q2Wko2NzJaSzJXdEwtV0FnbGdmMkxPbGdOWTlmc0lCUERoMktlMC1Xb1NJb2NzdlFEUzFacmRpcTh5Tm5IVk1INmZGckhXRm0xOUxiSTlPbGxZNEJmMnZmRFprOWJveVltNHdsa3ctU1XSAb4BQVVfeXFMTmp1NlRhRFRmUjNMVW9vNTFrVWFnNzlvYnNRb0E4dFZIUUlSUy1ZUUxvWTJERU5kT1E2TXRicUJVdFNoekpSVmhJVUVaVkVpd2FTYkZOSzdRUnpKSEpKeDZLcjFiRU5OQXhuS2s1M3hSbHlsdFM1T2pZaHlKa2FzNjdEUzFUUzNob2tleWZ6ZjR5cmgwU0VGVWVyTTQwdGdOd3NXNE16dUZOVXBJMUxNQ1l5OEtjVm4zLXNrUXpYZw?oc=5)
-
----
-
-### ["La clave no es agredir, es regular” Arkaitz Felices, cosmetólogo, descubre la crema para tratar el melasma de forma definitiva](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
-
-2026-03-16 <span class="news-indication-tag">asma</span>
-
-來源：[instyle.es](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
 
 ---
 
@@ -92,7 +92,7 @@ permalink: /news/somapacitan/
 
 ### [Chemists issue new warning for anyone taking ibuprofen, naproxen, diclofenac - Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 
-2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">high blood pressure</span>
+2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 

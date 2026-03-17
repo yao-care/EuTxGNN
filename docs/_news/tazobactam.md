@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tazobactam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### ["La clave no es agredir, es regular” Arkaitz Felices, cosmetólogo, descubre la crema para tratar el melasma de forma definitiva](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
-
-2026-03-16 <span class="news-indication-tag">asma</span>
-
-來源：[instyle.es](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Melasma kann behandelt werden, indem Sie diese einfachen Expertentipps befolgen](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlVFU1REa0pzOUYyVXNSaUhFd3RFYzhGZUZlT2xlcmRNdEtzdmVxcjc3Mm5mUWt6c2VZQndKZm5acjJyd1dCbGtpbWg0Y1Y5ZXJVMTZfc2ZUcDBzNmhsZmg0OWNETHMyQl92QWlMUXJ5R1F5Q2lRc0pfc3puQnd4dldQR1lIVmJxb1ljOTJ1UVM0ZEhLWF9XdEtYRVFJUmtGNTNmdg?oc=5)
 

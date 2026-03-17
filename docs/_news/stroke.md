@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "CVA（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "CVA（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# CVA（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="CVA（stroke） 有什麼相關新聞？">
+<strong>CVA（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「CVA」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### ['Race to stop meningitis spreading' and 'Donald's Trumped'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+
+2026-03-17
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+
+---
 
 ### [Los pacientes con trastornos psiquiátricos mueren más por ictus en España](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUhMaTFCMV9lbnN6QTY3eWFvT0lGTW0zSnR0bXd4X0o5TjZPbmFSVldEQ21OZ0JyN1ZyVlBRZzBqZEFiXzhUWXNjc0VqWUxBQ2NjMmEyM1R1WXhhaUJncDliUHl4bUJGRU11Vlo2TVBBM2FLRjU0MnVwem9HX0NIclVIZXVtLVdraTRJMDBjVkdPS1JONGMxOHlFR2VPLU4tS0E4RGFQSlpabGNfczVHeDBjUXFuazJLOFZPQjJJRQ?oc=5)
 

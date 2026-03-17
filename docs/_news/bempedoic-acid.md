@@ -74,19 +74,19 @@ permalink: /news/bempedoic-acid/
 
 ---
 
-### [El líquido cefalorraquídeo y su importancia ante tumores cerebrales](https://news.google.com/rss/articles/CBMijgFBVV95cUxORW9yMW9tYVRjc2F1V2FDdXprMjFsYmJPLUw4REhhYlQ3NDd4NTZpVVd5a3EwRTAzWWUwRnJrcFZaQ3FCN0YzY2RoWmlDaWZtTVlNdExUdzNRRUpwYzNMOWRScW9IZWxuSzhHZi04MkdGUkhkbk5oVkRIYWVXdFZtOEkxdkJPZkt2SENPVFF3?oc=5)
-
-2026-03-16 <span class="news-indication-tag">tumor</span>
-
-來源：[EFESalud](https://news.google.com/rss/articles/CBMijgFBVV95cUxORW9yMW9tYVRjc2F1V2FDdXprMjFsYmJPLUw4REhhYlQ3NDd4NTZpVVd5a3EwRTAzWWUwRnJrcFZaQ3FCN0YzY2RoWmlDaWZtTVlNdExUdzNRRUpwYzNMOWRScW9IZWxuSzhHZi04MkdGUkhkbk5oVkRIYWVXdFZtOEkxdkJPZkt2SENPVFF3?oc=5)
-
----
-
 ### [Severe COVID-19 linked to 24% higher risk of one killer cancer](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Express.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
+
+---
+
+### [Tech boss uses AI and ChatGPT to make his dog a cancer vaccine](https://news.google.com/rss/articles/CBMimwFBVV95cUxObWpaOGNTRDZEWkZhZ1ZOZ0o3TzdjMzFBWnJVTVlVaEozaU16QzhITEdzRlRwU0x4eFNERDBKMkVDS1daaTRqdm9Nby10Ym9NODE1cFEwNXRDRjduZmk4NG1CUGJrQmlKQTdvczlfMzJjTzE4NGZmNi1qM2hZRXV2X1EyLXJzVGE4d0lGRWdQek9fLTJNZkxabVVRQQ?oc=5)
+
+2026-03-16 <span class="news-indication-tag">cancer</span>
+
+來源：[thestreet.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxObWpaOGNTRDZEWkZhZ1ZOZ0o3TzdjMzFBWnJVTVlVaEozaU16QzhITEdzRlRwU0x4eFNERDBKMkVDS1daaTRqdm9Nby10Ym9NODE1cFEwNXRDRjduZmk4NG1CUGJrQmlKQTdvczlfMzJjTzE4NGZmNi1qM2hZRXV2X1EyLXJzVGE4d0lGRWdQek9fLTJNZkxabVVRQQ?oc=5)
 
 ---
 
@@ -108,7 +108,7 @@ permalink: /news/bempedoic-acid/
 
 ### [Hope for blood test that can detect brain tumours](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yNy0za2U3X2ktaTRmWTlFeDNoUWlFbGducUpFdEk3MTRTaXVTVTVyZ2VLNmhBcWpSYnUtSzJOYmwzREZ5R3BIM0IycUVMU0I5eGJfX0t5RU4zQjdk?oc=5)
 
-2026-03-16 <span class="news-indication-tag">cancer</span>
+2026-03-16 <span class="news-indication-tag">tumour</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yNy0za2U3X2ktaTRmWTlFeDNoUWlFbGducUpFdEk3MTRTaXVTVTVyZ2VLNmhBcWpSYnUtSzJOYmwzREZ5R3BIM0IycUVMU0I5eGJfX0t5RU4zQjdk?oc=5)
 
@@ -119,6 +119,14 @@ permalink: /news/bempedoic-acid/
 2026-03-16 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMixwJBVV95cUxPbjF5Vms2ZDc4NmJrV2lnYjhYVUdRU2w3RTFoUG5xX0Q4eGFCczBKTWk0NGhUQzlWM01sRHJIWXJhRE84Y213TEE0cFZNUEJyZjVvMkdVZFc3d2pnLW1xdS1DeGxRb3NkMkZsSUNQUGxDUXdINFNmaXg4OHJfM2pDSkc3TTdjaGd6bENYZjdEVWFDLUx0MDdoSE9WbXhuRkpzbHpEMUdHZC11aWI3bnZ2WjBHNEdzUVhXRjRFS1RmV25TS1NRdE5ZSDQ1UFl2aXA4WUliT1piVFMzVU4xRTNBZkRiak5XVnFzenFZaFkyelZ3UVpGNGRRamdvcF9yS0JxcUhoTDk4Tm80M1BhT0R1M0NHX2hfbGFvUmtuUFdoQl9FVWdzbVBpZVJRcFBKZXppeEIxWkZGcjhjX0hSYzYzRzZaZUJIbVHSAcwCQVVfeXFMTk85ekprZGU0WnhudFo3OU9kV3plNTA2bGJQODlvWFBNWERvaXNKNXpQd0VsZ2htOElrUmdrX1AzZWZmNHhzdW1pUXc2NzdGbU1uQ1RkRDk1SDhpOTdtcm10bTNlNDBjaTdwcHJvcTlDZlRnZ0V3SFJQM0F2S19WMzBiUl9CZzR5TzFIMHVnNWd0SjdhLWpQcmw5c3hVUWhOeGFkaHEzSUVHYjVlV2xVbm94THdqa09qZEZFbFB3aEJTN0lIMzhnM29IS2ppUmt5dVVrR01kWFZ1QnN3bTJzeDFTSUJNclNkdHJMWlhqMmpTeS1TdkZHWC0zczF2dEhSemVVXzdsQW8ydVFoRHM0enNVdHAzdGsyNUJNQmNqdFJmcmY5bWFRYWp5dy1MR3FabFg4SmhlNS1PS1FqRldZUHVOM0RqZjZOVlhqRW0?oc=5)
+
+---
+
+### [5 key bowel cancer signs to never ignore - Yahoo Life UK](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWmpVYW5FZklSZmkyY1FQZmlYdkZPeV9DYnhRZEROWE96WHVuMXd6MlM2bHpXRmZINTByVUpyNVRjLS03UGI3OElLTTMyMWg0bXF2RjV5N2NjRXdUbms1dFRhb2duUmFKRXdva0tpM2o5SHpk?oc=5)
+
+2026-03-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWmpVYW5FZklSZmkyY1FQZmlYdkZPeV9DYnhRZEROWE96WHVuMXd6MlM2bHpXRmZINTByVUpyNVRjLS03UGI3OElLTTMyMWg0bXF2RjV5N2NjRXdUbms1dFRhb2duUmFKRXdva0tpM2o5SHpk?oc=5)
 
 ---
 
@@ -156,7 +164,7 @@ permalink: /news/bempedoic-acid/
 
 ### [Tumore dell’ovaio, a Bergamo una rete per cure più efficaci e rapide - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMktxcFBITHMzVng2MVFNd2E3eUN5QlNLR3A5anlOSVZLemFadjdTaEh0UkNhTU9OTFdGQnFrOEdMQXZkSXh0RFR1WXctS2dnVFlHMmJBaWtCWm1LVzJ2bnpLYlNIM0JFaWVoQVpnN2lRVFBXMVNSUUhXYkhaZnpVWlU5d0VuMGtUSm9kd1ZPd2tYZkZUXzJGUGhfellRWkpqRTg3NFFQVnpkcE1FbzhQd3o5UEZOR2xvTURpS2ozQnB3WHZSblM5R0lYcDJTNzA?oc=5)
 
-2026-03-16 <span class="news-indication-tag">tumor</span>
+2026-03-16 <span class="news-indication-tag">carcinoma</span>
 
 來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMktxcFBITHMzVng2MVFNd2E3eUN5QlNLR3A5anlOSVZLemFadjdTaEh0UkNhTU9OTFdGQnFrOEdMQXZkSXh0RFR1WXctS2dnVFlHMmJBaWtCWm1LVzJ2bnpLYlNIM0JFaWVoQVpnN2lRVFBXMVNSUUhXYkhaZnpVWlU5d0VuMGtUSm9kd1ZPd2tYZkZUXzJGUGhfellRWkpqRTg3NFFQVnpkcE1FbzhQd3o5UEZOR2xvTURpS2ozQnB3WHZSblM5R0lYcDJTNzA?oc=5)
 
@@ -167,14 +175,6 @@ permalink: /news/bempedoic-acid/
 2026-03-15 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmJIUWZCWWdFcklpUUZiOFYzTDRTaXh6Z1gxeVpOVWpqMDVxOTk1Q0tyelAwYldIb3RrVEc3M1dmelYta0RObDJSdXc4a0N6TmY5cFI2bzBWOFNHZ1U4cWV4bHNjRzNKbldjNFNMMjFSdWdqcjNyOXUycWZZOGs0Y1QyYzU4RXQtS29vLVV3c2J6T1k?oc=5)
-
----
-
-### [Endoscopia avanzata, nuovi interventi d’eccellenza a Cona](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1pDcXlvOG01b2syZk04UEZXLTVteHVJQmhJLTV1ZFFNeXN6NV9QeTFtUVpLbnQ5aXdHMVc2ZXhGVWIxRGtPQWVlX0FnbHhwRi1lWS00Q1pvWjhqajgxRE1vSVNFelpKVkdkSHdjQTV3YUswaThhcnNwSG1rT0xGN1JyenlJUXEtc3Z0NFJidFFMZHYwWi1CcQ?oc=5)
-
-2026-03-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Estense.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1pDcXlvOG01b2syZk04UEZXLTVteHVJQmhJLTV1ZFFNeXN6NV9QeTFtUVpLbnQ5aXdHMVc2ZXhGVWIxRGtPQWVlX0FnbHhwRi1lWS00Q1pvWjhqajgxRE1vSVNFelpKVkdkSHdjQTV3YUswaThhcnNwSG1rT0xGN1JyenlJUXEtc3Z0NFJidFFMZHYwWi1CcQ?oc=5)
 
 ---
 

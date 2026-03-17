@@ -42,6 +42,14 @@ permalink: /news/amlodipine/
 
 ## 相關新聞（28 則）
 
+### ['Race to stop meningitis spreading' and 'Donald's Trumped'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+
+2026-03-17 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+
+---
+
 ### [Estamos evaluando combinaciones de asciminib con inhibidores de BCR::ABL1 en distintas fases de la leucemia LMC](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQndDSmNnRTRmWGw4X1RfSUhMRnNSN3BrUmU2aGxYS2E5cXc3S2hlQWRwQzBQRFFLcDk2ZWZVU2E2N01JWXk2NXZCNVk5djE4RXktUDk5TFQwajlmN205aFNpVVY0bzIzY1djOWdhbmNnOXhrQXhZWXQwLTBpemRTTVJrTzhKZV96SW9iWWZGTThwaDRhRGNiYXJOcHJaNjZEY1dsR1pNdmNic01yVEpPNnp6bUFvWnlFLVBBdl8xbkpvdEhrSm5JTkx2bGpJNWRW?oc=5)
 
 2026-03-17 <span class="news-drug-tag">Amlodipine</span>
@@ -90,14 +98,6 @@ permalink: /news/amlodipine/
 
 ---
 
-### [El líquido cefalorraquídeo y su importancia ante tumores cerebrales](https://news.google.com/rss/articles/CBMijgFBVV95cUxORW9yMW9tYVRjc2F1V2FDdXprMjFsYmJPLUw4REhhYlQ3NDd4NTZpVVd5a3EwRTAzWWUwRnJrcFZaQ3FCN0YzY2RoWmlDaWZtTVlNdExUdzNRRUpwYzNMOWRScW9IZWxuSzhHZi04MkdGUkhkbk5oVkRIYWVXdFZtOEkxdkJPZkt2SENPVFF3?oc=5)
-
-2026-03-16 <span class="news-indication-tag">tumor</span>
-
-來源：[EFESalud](https://news.google.com/rss/articles/CBMijgFBVV95cUxORW9yMW9tYVRjc2F1V2FDdXprMjFsYmJPLUw4REhhYlQ3NDd4NTZpVVd5a3EwRTAzWWUwRnJrcFZaQ3FCN0YzY2RoWmlDaWZtTVlNdExUdzNRRUpwYzNMOWRScW9IZWxuSzhHZi04MkdGUkhkbk5oVkRIYWVXdFZtOEkxdkJPZkt2SENPVFF3?oc=5)
-
----
-
 ### [Los pacientes con trastornos psiquiátricos mueren más por ictus en España](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUhMaTFCMV9lbnN6QTY3eWFvT0lGTW0zSnR0bXd4X0o5TjZPbmFSVldEQ21OZ0JyN1ZyVlBRZzBqZEFiXzhUWXNjc0VqWUxBQ2NjMmEyM1R1WXhhaUJncDliUHl4bUJGRU11Vlo2TVBBM2FLRjU0MnVwem9HX0NIclVIZXVtLVdraTRJMDBjVkdPS1JONGMxOHlFR2VPLU4tS0E4RGFQSlpabGNfczVHeDBjUXFuazJLOFZPQjJJRQ?oc=5)
 
 2026-03-16 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">ictus</span>
@@ -111,6 +111,14 @@ permalink: /news/amlodipine/
 2026-03-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Express.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
+
+---
+
+### [Tech boss uses AI and ChatGPT to make his dog a cancer vaccine](https://news.google.com/rss/articles/CBMimwFBVV95cUxObWpaOGNTRDZEWkZhZ1ZOZ0o3TzdjMzFBWnJVTVlVaEozaU16QzhITEdzRlRwU0x4eFNERDBKMkVDS1daaTRqdm9Nby10Ym9NODE1cFEwNXRDRjduZmk4NG1CUGJrQmlKQTdvczlfMzJjTzE4NGZmNi1qM2hZRXV2X1EyLXJzVGE4d0lGRWdQek9fLTJNZkxabVVRQQ?oc=5)
+
+2026-03-16 <span class="news-indication-tag">cancer</span>
+
+來源：[thestreet.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxObWpaOGNTRDZEWkZhZ1ZOZ0o3TzdjMzFBWnJVTVlVaEozaU16QzhITEdzRlRwU0x4eFNERDBKMkVDS1daaTRqdm9Nby10Ym9NODE1cFEwNXRDRjduZmk4NG1CUGJrQmlKQTdvczlfMzJjTzE4NGZmNi1qM2hZRXV2X1EyLXJzVGE4d0lGRWdQek9fLTJNZkxabVVRQQ?oc=5)
 
 ---
 
@@ -132,9 +140,17 @@ permalink: /news/amlodipine/
 
 ### [Hope for blood test that can detect brain tumours](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yNy0za2U3X2ktaTRmWTlFeDNoUWlFbGducUpFdEk3MTRTaXVTVTVyZ2VLNmhBcWpSYnUtSzJOYmwzREZ5R3BIM0IycUVMU0I5eGJfX0t5RU4zQjdk?oc=5)
 
-2026-03-16 <span class="news-indication-tag">cancer</span>
+2026-03-16 <span class="news-indication-tag">tumour</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yNy0za2U3X2ktaTRmWTlFeDNoUWlFbGducUpFdEk3MTRTaXVTVTVyZ2VLNmhBcWpSYnUtSzJOYmwzREZ5R3BIM0IycUVMU0I5eGJfX0t5RU4zQjdk?oc=5)
+
+---
+
+### [Japan Approves the World’s First Treatments Made With Reprogrammed Human Cells - The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">heart failure</span>
+
+來源：[The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
 
 ---
 
@@ -151,6 +167,14 @@ permalink: /news/amlodipine/
 2026-03-16 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbGpRQXA5QnJlN1Z4eldGb3ZBemt3M2w5NXh5VlZ2U3JQcEFBU292U3laRzdtY19Hb0VkdklLWHBQbHA5UFlLY2tZN09Sem52VXRIMFJRTWJEMXZjeGdoODBVS1lLcnppa2VRWEQ0MWxTTmxMR0JxeDhrWGhLMkpzR2dqeUxrRzNfaHdtZQ?oc=5)
+
+---
+
+### [5 key bowel cancer signs to never ignore - Yahoo Life UK](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWmpVYW5FZklSZmkyY1FQZmlYdkZPeV9DYnhRZEROWE96WHVuMXd6MlM2bHpXRmZINTByVUpyNVRjLS03UGI3OElLTTMyMWg0bXF2RjV5N2NjRXdUbms1dFRhb2duUmFKRXdva0tpM2o5SHpk?oc=5)
+
+2026-03-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWmpVYW5FZklSZmkyY1FQZmlYdkZPeV9DYnhRZEROWE96WHVuMXd6MlM2bHpXRmZINTByVUpyNVRjLS03UGI3OElLTTMyMWg0bXF2RjV5N2NjRXdUbms1dFRhb2duUmFKRXdva0tpM2o5SHpk?oc=5)
 
 ---
 
@@ -188,7 +212,7 @@ permalink: /news/amlodipine/
 
 ### [Tumore dell’ovaio, a Bergamo una rete per cure più efficaci e rapide - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMktxcFBITHMzVng2MVFNd2E3eUN5QlNLR3A5anlOSVZLemFadjdTaEh0UkNhTU9OTFdGQnFrOEdMQXZkSXh0RFR1WXctS2dnVFlHMmJBaWtCWm1LVzJ2bnpLYlNIM0JFaWVoQVpnN2lRVFBXMVNSUUhXYkhaZnpVWlU5d0VuMGtUSm9kd1ZPd2tYZkZUXzJGUGhfellRWkpqRTg3NFFQVnpkcE1FbzhQd3o5UEZOR2xvTURpS2ozQnB3WHZSblM5R0lYcDJTNzA?oc=5)
 
-2026-03-16 <span class="news-indication-tag">tumor</span>
+2026-03-16 <span class="news-indication-tag">carcinoma</span>
 
 來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMktxcFBITHMzVng2MVFNd2E3eUN5QlNLR3A5anlOSVZLemFadjdTaEh0UkNhTU9OTFdGQnFrOEdMQXZkSXh0RFR1WXctS2dnVFlHMmJBaWtCWm1LVzJ2bnpLYlNIM0JFaWVoQVpnN2lRVFBXMVNSUUhXYkhaZnpVWlU5d0VuMGtUSm9kd1ZPd2tYZkZUXzJGUGhfellRWkpqRTg3NFFQVnpkcE1FbzhQd3o5UEZOR2xvTURpS2ozQnB3WHZSblM5R0lYcDJTNzA?oc=5)
 
@@ -218,14 +242,6 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Endoscopia avanzata, nuovi interventi d’eccellenza a Cona](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1pDcXlvOG01b2syZk04UEZXLTVteHVJQmhJLTV1ZFFNeXN6NV9QeTFtUVpLbnQ5aXdHMVc2ZXhGVWIxRGtPQWVlX0FnbHhwRi1lWS00Q1pvWjhqajgxRE1vSVNFelpKVkdkSHdjQTV3YUswaThhcnNwSG1rT0xGN1JyenlJUXEtc3Z0NFJidFFMZHYwWi1CcQ?oc=5)
-
-2026-03-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Estense.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1pDcXlvOG01b2syZk04UEZXLTVteHVJQmhJLTV1ZFFNeXN6NV9QeTFtUVpLbnQ5aXdHMVc2ZXhGVWIxRGtPQWVlX0FnbHhwRi1lWS00Q1pvWjhqajgxRE1vSVNFelpKVkdkSHdjQTV3YUswaThhcnNwSG1rT0xGN1JyenlJUXEtc3Z0NFJidFFMZHYwWi1CcQ?oc=5)
-
----
-
 ### [Tumore al pancreas, oltre 13mila nuove diagnosi nel 2024: la diagnosi, le terapie, gli ultimi trattamenti - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQblFWZE1mVDhhYUxSRDhneWN1YWlod2tLcmc0djQ4TmVSc0QyUDYxelVzc0o4QzNRQ3hmcVhpN0dWVmNKMXJxTm8zS2tBSFRrcTJtTkFCTmRhc3JEb0ZlRUVBdldUZEppVmgySUNQLURPNEFKdHNyVHJJeEF0RGhRQWpWMFZhOTNuTDZ6MmtlOHY1QlNOZkJRbFd3LVZQUEszYWVHNlNnMWN4SW1rRHBlOXluOG96RnhyOGxxVEdtdEJobFJicG5NbUtQZC1GZzFHcHZyckw0dzdySjBnM2RKYUs4aTh6Tl9PUjYxR01ydEVuR2_SAfsBQVVfeXFMTUZLa3NXcU0zeDIxYzhPdFRtTXU2OXdEWDM5a3l0OVAxLXNpMnBnSVN2Qk4tUDNZS0hkV1VHRFZJMmpBSzMzU2w2Rmo3MGpkTVVyRjVhY0JiQVZ4dEE0VFAtTzZYSEU0NXlpZ1J3dXduaEV5R1dUVWRmMHpmcUN2QW56THM0UVJVaHowemxZaHZCQWotNWczdk1EazFFc2RxbmlNWVBWS1pueHZzU1FYU3ZHMWlmRVJ1TnphenhxNFRwUkhGdlZtSzFKOW03eHlXZlVSb254bUNveW9GRzJaOEtJR0J3dFZpVjlSTU1MY2szMWRrdlFLc2xTWTg?oc=5)
 
 2026-03-15 <span class="news-indication-tag">tumor</span>
@@ -242,27 +258,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Chemists issue new warning for anyone taking ibuprofen, naproxen, diclofenac - Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
-
-2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
-
----
-
 ### [La reconnaissance d'un lien entre le cancer du sein d'une infirmière et son travail peut-elle être un motif d'espoir pour d'autres malades - France Info](https://news.google.com/rss/articles/CBMimgJBVV95cUxOSGlrbHVqU2xqaERacll4dzhYWThkWm1VeFZ5REdVaG9NMkxFelBXZTNacWxweUNaMzZqWTcxVm10TlYyVkYxNzhpYkdrOUxETW1WQWRyQUVxY0JhU2lYemN6Rl9rWkhiam84cHZkWWVRVXFEbkR1UTlwYWtsRHc3Y3RZUDlEcTBYWVBzSW9yeVAtZEszbXBaZmhBYlZIMktLSXVEdHN2VlExc2tIOHB5SDVNWG0tOW9oRkxpcW42enoxbEg5emlldGpTdEpIRFlWenpaRHdqeVhXRW5hT2Q3VWxYeHU3RUFCcENoaEFINHRKVld3eDJuQ05QNVU5QndZZlFkcmREaFJqY190UFpRbkZBVDNFajNDUXc?oc=5)
 
 2026-03-15 <span class="news-indication-tag">cancer</span>
 
 來源：[France Info](https://news.google.com/rss/articles/CBMimgJBVV95cUxOSGlrbHVqU2xqaERacll4dzhYWThkWm1VeFZ5REdVaG9NMkxFelBXZTNacWxweUNaMzZqWTcxVm10TlYyVkYxNzhpYkdrOUxETW1WQWRyQUVxY0JhU2lYemN6Rl9rWkhiam84cHZkWWVRVXFEbkR1UTlwYWtsRHc3Y3RZUDlEcTBYWVBzSW9yeVAtZEszbXBaZmhBYlZIMktLSXVEdHN2VlExc2tIOHB5SDVNWG0tOW9oRkxpcW42enoxbEg5emlldGpTdEpIRFlWenpaRHdqeVhXRW5hT2Q3VWxYeHU3RUFCcENoaEFINHRKVld3eDJuQ05QNVU5QndZZlFkcmREaFJqY190UFpRbkZBVDNFajNDUXc?oc=5)
-
----
-
-### [Claudia, mamma di Giulio, che a 4 anni ha sviluppato un disturbo Arfid: «Improvvisamente ha iniziato a rifiutare in modo categorico qualunque cibo che non fossero la pasta o il riso. Pensavo fosse una fase della crescita - Vanity Fair Italia](https://news.google.com/rss/articles/CBMipAFBVV95cUxPREVNZXkxSEJKa2M2NjdWb1hFQ05BcXNZUzNuX3JObWRZQVVJWE9TMlZCLVZvNkNEdmdFeUNDcGlXT0ZRVnNxcU5ibmppS3MyWU9yTG9jeS1mZ2owcHlxeXpoTjFES2UtR25yX1d5UEw5Q1RHb3pQX2lBTl80VS14ZjFncGJaR00xM2hrODlXRHJBNVhHQkJiRzE5ZjBuOGlaRF9OMw?oc=5)
-
-2026-03-15 <span class="news-drug-tag">Amlodipine</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMipAFBVV95cUxPREVNZXkxSEJKa2M2NjdWb1hFQ05BcXNZUzNuX3JObWRZQVVJWE9TMlZCLVZvNkNEdmdFeUNDcGlXT0ZRVnNxcU5ibmppS3MyWU9yTG9jeS1mZ2owcHlxeXpoTjFES2UtR25yX1d5UEw5Q1RHb3pQX2lBTl80VS14ZjFncGJaR00xM2hrODlXRHJBNVhHQkJiRzE5ZjBuOGlaRF9OMw?oc=5)
 
 ---
 

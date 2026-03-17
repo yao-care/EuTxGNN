@@ -42,11 +42,19 @@ permalink: /news/sofosbuvir/
 
 ## 相關新聞（9 則）
 
-### [Demenz: 20 Jahre später messbar – wie zwei Übungsarten das Demenzrisiko massiv senkten](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTmx5UFFDLXNSQTF6Z0RqbGhIRllLMVBpSlo1eV93YmlUdDlwN3UxSXNkbjF5UnFuekZxM0trSUJSVUdaYUJDUk0zZllvREU5WXZSeDNrWnQxcDV4TjlWRi1uMFk3S183WFl1UjA5V2s0VmhtN2NVMzl1MWRieVhjSHlKSGNScVl0Sm5GT3hnbHZmcUU2Q2otOU0xNjN4ZFF5YkxVUWVScXljbDBWWDFfQVBjWFNtTmR4SG9tMVlhaTFzd2VIVUhhQXpHTFJmanVhc0Z1S2d0XzFYTUlpaUZIeTk3OHE0NVNK?oc=5)
+### [Los científicos de Harvard coinciden: hacer estas 8 cosas a partir de los 40 años añade 24 años de vida a los hombres y 21 a las mujeres - El HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV0tzdkQyUWpxRU42LWtTcXFDd3A0YTRxTVdCX1BPdWZhV3NEX05pOHIzcUNub1NCYk03RUNmMlB1TUhQeDlJVzV2NW5pcEFwdDByemJtZGlMdDFISkhsb0psWjFJSVhUMzRkQWVBLTZwV3prNkJCX28zai0zU1NIaGo1UmNhcHdrdGNXOE9KUHp1S1dBMndwa2E2WHJMSjZuS3dQUlNUTE9UbkNwQXZrUm9lbHRCNkszSHFfVjJTZ0tQZ08wdnE1UmE4ZEVMdnloME9lY2xVa1lpUdIB7gFBVV95cUxQQ2FpWTlTYXFxQS1lRnJDek5qY0o4MW5RcXBhMS1vX3pMMFNjcWJ5SHAzdVVEUE9kVEEwQkNmQlVzcTF1eWpHaFl0WVBDY2pfRWpoRF9oeXhnZVROSHBCVm9VeXRxdmlwRFVxM19sQmlLQzRMY0phY3lTQ3plQlBqamZ1eGRLeWtjZ19zczBmOExVaHpYS3Uya1JVd1d3SVh3Wmlrd0kwWlBwdFB0eHpldnpaeDNJMFRKT2s0THNJb01CWHlLXzh4cndGX1BZajBqUlBKWmRFQVBjZjJ4bHZWNHdTLXRudnQ5ZHlNNFd3?oc=5)
+
+2026-03-17 <span class="news-indication-tag">MS</span>
+
+來源：[El HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV0tzdkQyUWpxRU42LWtTcXFDd3A0YTRxTVdCX1BPdWZhV3NEX05pOHIzcUNub1NCYk03RUNmMlB1TUhQeDlJVzV2NW5pcEFwdDByemJtZGlMdDFISkhsb0psWjFJSVhUMzRkQWVBLTZwV3prNkJCX28zai0zU1NIaGo1UmNhcHdrdGNXOE9KUHp1S1dBMndwa2E2WHJMSjZuS3dQUlNUTE9UbkNwQXZrUm9lbHRCNkszSHFfVjJTZ0tQZ08wdnE1UmE4ZEVMdnloME9lY2xVa1lpUdIB7gFBVV95cUxQQ2FpWTlTYXFxQS1lRnJDek5qY0o4MW5RcXBhMS1vX3pMMFNjcWJ5SHAzdVVEUE9kVEEwQkNmQlVzcTF1eWpHaFl0WVBDY2pfRWpoRF9oeXhnZVROSHBCVm9VeXRxdmlwRFVxM19sQmlLQzRMY0phY3lTQ3plQlBqamZ1eGRLeWtjZ19zczBmOExVaHpYS3Uya1JVd1d3SVh3Wmlrd0kwWlBwdFB0eHpldnpaeDNJMFRKT2s0THNJb01CWHlLXzh4cndGX1BZajBqUlBKWmRFQVBjZjJ4bHZWNHdTLXRudnQ5ZHlNNFd3?oc=5)
+
+---
+
+### [Cannabis is not an effective treatment for common mental health conditions, says review - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmdsOEJZLWkwcGI4NjEtb3Z4aHpHT2tvcnZoWmZzSWpTODVQMFVXeXJBZHVhbVg4V2hIVm1NVmQxNE44R21wRlVQc0NqcmFoVThCdzJoelBEX2dxUDhGWnlLWEprcDJHbHRsZUx4blN5eWVZNG82RW5ENThYNmJwbkxfQXk2b0tZb01YYjlka1hNd2FEOVJWV1Naa1BFM3pjenRJc1hFOHZObXh1OHcxZXg5b1VwQ1AwZGJqQlRNRDl6dw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTmx5UFFDLXNSQTF6Z0RqbGhIRllLMVBpSlo1eV93YmlUdDlwN3UxSXNkbjF5UnFuekZxM0trSUJSVUdaYUJDUk0zZllvREU5WXZSeDNrWnQxcDV4TjlWRi1uMFk3S183WFl1UjA5V2s0VmhtN2NVMzl1MWRieVhjSHlKSGNScVl0Sm5GT3hnbHZmcUU2Q2otOU0xNjN4ZFF5YkxVUWVScXljbDBWWDFfQVBjWFNtTmR4SG9tMVlhaTFzd2VIVUhhQXpHTFJmanVhc0Z1S2d0XzFYTUlpaUZIeTk3OHE0NVNK?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmdsOEJZLWkwcGI4NjEtb3Z4aHpHT2tvcnZoWmZzSWpTODVQMFVXeXJBZHVhbVg4V2hIVm1NVmQxNE44R21wRlVQc0NqcmFoVThCdzJoelBEX2dxUDhGWnlLWEprcDJHbHRsZUx4blN5eWVZNG82RW5ENThYNmJwbkxfQXk2b0tZb01YYjlka1hNd2FEOVJWV1Naa1BFM3pjenRJc1hFOHZObXh1OHcxZXg5b1VwQ1AwZGJqQlRNRDl6dw?oc=5)
 
 ---
 
@@ -66,6 +74,14 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [«Si detectamos precozmente la enfermedad renal, podemos revertirla» - La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
+
+2026-03-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
+
+---
+
 ### [I brushed off symptoms as panic or being unfit for 6 weeks before a heart attack - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUExNM0lYNXlIc1BwTzRxSGllcEdrdURnc0tfcU42aFowcmFQQ1lwTGwzd3I5cVVSZ2J0dmJFY29fMmJ5U2ZUdUNRaXNGTUt0NTdyWFNjU2ZCdEt0MWgtQmxjVmw3UGt0YkoxM2txd2U4Q0QxNENVOGd2Q0IwTUpZUzl1d0ZTc3FkVVl4YUtlTTFJQQ?oc=5)
 
 2026-03-15 <span class="news-indication-tag">MS</span>
@@ -82,27 +98,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [La melatonina potrebbe non essere il miglior integratore per dormire e queste sono le alternative più efficaci da considerare - Vanity Fair Italia](https://news.google.com/rss/articles/CBMidEFVX3lxTE5EbGUwbVhabmVpamlpdGI3cncxVF85cG8wRHpFX05WVkRhUmt2b245YUZEaWZzR2lLeUlXTXhxOVZrZFpxbGhHMHhwNU85OEl4Y2IxSTJGaktKMzdYNG1uTHkzSk82bzZjN1dEZ2RfYmJmN3p1?oc=5)
-
-2026-03-15 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">MS</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMidEFVX3lxTE5EbGUwbVhabmVpamlpdGI3cncxVF85cG8wRHpFX05WVkRhUmt2b245YUZEaWZzR2lLeUlXTXhxOVZrZFpxbGhHMHhwNU85OEl4Y2IxSTJGaktKMzdYNG1uTHkzSk82bzZjN1dEZ2RfYmJmN3p1?oc=5)
-
----
-
-### [Alimentation : la charcuterie sans nitrite, une fausse bonne idée ?](https://news.google.com/rss/articles/CBMipgFBVV95cUxNczZ4ODU1V3hfU00waXpYZ0lUQnBfanFPaENtZG95V1pEZ0ZfRFRzWjZ3aENvWFNzYmJyV3U4Q1VFTWp2SHBkVlFzZkxiU0IxOWZlMVpkRFVVYnVsdkJ3RWtwUUVMdkF3OVl3enB4V3l5aHlhb1NkV3RRMzJROVltdDlmWkZMYTFndVhHWmRoelhVQTFXMTJ2V28xUFVwLTIyU183UWhn?oc=5)
+### [Scientists tested vitamin D for COVID and found an unexpected long COVID clue](https://news.google.com/rss/articles/CBMib0FVX3lxTFBCZGg4R2t4VnFVY1NlQ1RiRmFlSzFmUXVSdVBDTHhuUlFQcXB5aFFiVnZCVTU5OThiNnBHSExDRGJld25EcFZfczVmWjBBTHkxeTluaWNEZ29GZzVCNE9Yc2tOdjloZVlTd3dTZ0dEdw?oc=5)
 
 2026-03-15 <span class="news-indication-tag">MS</span>
 
-來源：[RTL.fr](https://news.google.com/rss/articles/CBMipgFBVV95cUxNczZ4ODU1V3hfU00waXpYZ0lUQnBfanFPaENtZG95V1pEZ0ZfRFRzWjZ3aENvWFNzYmJyV3U4Q1VFTWp2SHBkVlFzZkxiU0IxOWZlMVpkRFVVYnVsdkJ3RWtwUUVMdkF3OVl3enB4V3l5aHlhb1NkV3RRMzJROVltdDlmWkZMYTFndVhHWmRoelhVQTFXMTJ2V28xUFVwLTIyU183UWhn?oc=5)
-
----
-
-### [Sesso solo sotto effetto di droghe. Sempre più romani nell'abisso del chemsex](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VNkNITnhCTmhtX1p0VzNjMXBIZjc4NDNxX0tOYWlRX05vNlZhcUMxbXQwUnJxU2p1cS1EaE5YTEpZazF0cC15SWRxT0R5eWZuNDE1S1ZFblh5QjlMT3lQZGZ5cTlXS2M3cWU5QkxMWlB0S0hQWS0tXzE0SzA?oc=5)
-
-2026-03-15 <span class="news-indication-tag">MS</span>
-
-來源：[RomaToday](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VNkNITnhCTmhtX1p0VzNjMXBIZjc4NDNxX0tOYWlRX05vNlZhcUMxbXQwUnJxU2p1cS1EaE5YTEpZazF0cC15SWRxT0R5eWZuNDE1S1ZFblh5QjlMT3lQZGZ5cTlXS2M3cWU5QkxMWlB0S0hQWS0tXzE0SzA?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBCZGg4R2t4VnFVY1NlQ1RiRmFlSzFmUXVSdVBDTHhuUlFQcXB5aFFiVnZCVTU5OThiNnBHSExDRGJld25EcFZfczVmWjBBTHkxeTluaWNEZ29GZzVCNE9Yc2tOdjloZVlTd3dTZ0dEdw?oc=5)
 
 ---
 

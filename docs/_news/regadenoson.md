@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### ["La clave no es agredir, es regular” Arkaitz Felices, cosmetólogo, descubre la crema para tratar el melasma de forma definitiva](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
-
-2026-03-16 <span class="news-indication-tag">asma</span>
-
-來源：[instyle.es](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFFNa25UTTNXai1ycmlpUjh5bFRBOGtqekswTy1yU296VkxfYmdRZ1VVQ0ItUGVfU0RKWUhoUkZFRFl3SHdHYUVRd3dNa2ZoNzUteUstWi1QbzRhYUxpOE5JekxZa01jbHlOWkgwTWtXa3c4cjFRRDFuaGxIRDhpNEt3eVhYZWhBdUFGbWpJWERGaUlPWWp4cVV2ZVZuMEpUVGdn?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [CEFABOX 2026 muestra la hoja de ruta para frenar la migraña antes de que se cronifique - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2Z6aGZsT0ZkZlFaV0ZadjhEemQ4dTZlUXNFWEtTOVAyVm1zMWFLUVRzWnh0WC1fS2wzeGJwaloyNHdzeVlKdEowZ0lPLTE2OG11bGNTRllUclcxUXlmcVFPTThDVEdLNlRPM1lIRUllUG5CdDY4T2RrMlJFSGpkSXEteDhnV0lXVEJoa2Nrc3JlOV9zRXdyN3ZzWVdzNGNIcGpRZVNoVEtnWU9uSkdEMGxPSjhzNi1nUDdSWDRGNDTSAbsBQVVfeXFMTk9seVR1ZWlyWlhJc3BwYldCdEdGUzNUZy1sSTZrU2JnLWdBR2g5UTViWHlUaTUtYXpnaHRqLW5xOF9xaXNsNlQwWHB4cWRyWXFEajJLOWJNWUNJY0xtcXFjOEthT1h6X1N1dG4yUVVKdUpyYU5PdTU2RE51V1ViS19wb2ZJdEtVV3piMzFGQ3lNTUFNeEN0S2hzMnZVZGxZWDcxb3l1N2ZCZlRjUG5mNFo3MVVtcUljTk45TQ?oc=5)
 

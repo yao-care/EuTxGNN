@@ -14,7 +14,7 @@ permalink: /news/riociguat/
 ---
 
 <p class="key-answer" data-question="Riociguat 有什麼相關新聞？">
-<strong>Riociguat</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Riociguat</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,37 @@ permalink: /news/riociguat/
 <p><a href="{{ '/drugs/riociguat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
+
+### [María, bioquímica experta en nutrición: "Puedes tomar hasta tres cafés al día, incluso hay estudios que indican que más, pero siempre tueste natural; que sean más largos de agua"](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNaEhqVHZja3lQc0N3bk5Ga2tsT1hCNU5JcjE5VXhUVGVDeU1ROE5xbXRKVjllZGhrNHBScnJNQXJyVTlnU0FvMmF6MXoyU3FkOHZPX3YzU3FnZkwwdDRpakR1dXhmVFd3Qi12akEybTNHRzNsVW15MTBkU3dZa0doQk54VTJyTVFrQVU0SFVkeVRaWFV6N0M4M25vVVlBNzJWR0ZQQ2JKRmJJSW5HUE9pU1JMX1FOWHNseGFOUWhEWENwamFiamUzajUyVURZS3RQTGhOVDBLaXB5VjY0cm9BSy1qZ1pQaldQUlNXSEVSd29tYlppVmhVMnVIQ19DREJidVZTLUI4VFhzbDRUVWlFNDJjbkpTQjkyX0gyRTBFZkpsR1VtUl82MdIBrgJBVV95cUxPZHJTLThtRW01TVhMLWMteHFjMWZFa05qZVJUZ2xVbUZJSDMySTA4LUtGRUt0clQtNVdGNlJkMGprcXhUN2ZuMzFLNms4T1ZlVmVvTHVlTVlCbDM0b2dMMDBvUjh0d2thLTBHeEx5eWEwZFY3Ykdpd1Q2VGtRNG5iVVlFVFRCOXBNaGdDUy0zS1lpVi16Q3BHU3NkV1dWZS1OTE5JREJxSnUyYXYtOEpldDFXdmVReHI3ZXBmZGcxblhBOWFqVjFxUDNOUDBJeXpZSVdyTjdCbm9qci1oLTgtQVAtbVQ5Uy1kbWhHendySk9hNmJ2bEd1ck1fR0IxZ2t3Q3hvNmhya0VWR2lDY29KTnRWSlk4bjl3dmJ0Wkl6SmQ4LUt1dU02dVFBT0Izdw?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNaEhqVHZja3lQc0N3bk5Ga2tsT1hCNU5JcjE5VXhUVGVDeU1ROE5xbXRKVjllZGhrNHBScnJNQXJyVTlnU0FvMmF6MXoyU3FkOHZPX3YzU3FnZkwwdDRpakR1dXhmVFd3Qi12akEybTNHRzNsVW15MTBkU3dZa0doQk54VTJyTVFrQVU0SFVkeVRaWFV6N0M4M25vVVlBNzJWR0ZQQ2JKRmJJSW5HUE9pU1JMX1FOWHNseGFOUWhEWENwamFiamUzajUyVURZS3RQTGhOVDBLaXB5VjY0cm9BSy1qZ1pQaldQUlNXSEVSd29tYlppVmhVMnVIQ19DREJidVZTLUI4VFhzbDRUVWlFNDJjbkpTQjkyX0gyRTBFZkpsR1VtUl82MdIBrgJBVV95cUxPZHJTLThtRW01TVhMLWMteHFjMWZFa05qZVJUZ2xVbUZJSDMySTA4LUtGRUt0clQtNVdGNlJkMGprcXhUN2ZuMzFLNms4T1ZlVmVvTHVlTVlCbDM0b2dMMDBvUjh0d2thLTBHeEx5eWEwZFY3Ykdpd1Q2VGtRNG5iVVlFVFRCOXBNaGdDUy0zS1lpVi16Q3BHU3NkV1dWZS1OTE5JREJxSnUyYXYtOEpldDFXdmVReHI3ZXBmZGcxblhBOWFqVjFxUDNOUDBJeXpZSVdyTjdCbm9qci1oLTgtQVAtbVQ5Uy1kbWhHendySk9hNmJ2bEd1ck1fR0IxZ2t3Q3hvNmhya0VWR2lDY29KTnRWSlk4bjl3dmJ0Wkl6SmQ4LUt1dU02dVFBT0Izdw?oc=5)
+
+---
+
+### [¿ChatGPT Realmente Curó el Cáncer de un Perro? Es Complicado](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXBVTklkRXRVQU5vV3haVGFhSnp5amc3UXdMckxoRzVyR1pRY2I2VzJXNzlUMDZvbk9IX2xaaFcyNWR1V3lmMHoxUmRVYVc3R29aVGl4UjVQNXdPYjRNZHc1Tlg4Sm9pai1qSkRsTHJpZ2d0enRQT0JwRmJRRl90MkR5ZDRPM2JtZzhNdm8ybHjSAZgBQVVfeXFMT1RFUEJoOFlqV3ZlbEYwNEhKTGt1SU9HYk14QWc0Z19CMGNqNHJ1RDZBSzdSdEZwQTRyU2txYThqQ1VkYUg3UEplaGpITDFnZEo3eENzWkE1aGtIRC1iaTdGR1QzNU9vRlJHd1k3cHZuMTVELXJSWG5oNlVrTVpId0xaNWZIM2Z5UWNGMTdLTmVOeDZsWldkTWs?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[Decrypt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXBVTklkRXRVQU5vV3haVGFhSnp5amc3UXdMckxoRzVyR1pRY2I2VzJXNzlUMDZvbk9IX2xaaFcyNWR1V3lmMHoxUmRVYVc3R29aVGl4UjVQNXdPYjRNZHc1Tlg4Sm9pai1qSkRsTHJpZ2d0enRQT0JwRmJRRl90MkR5ZDRPM2JtZzhNdm8ybHjSAZgBQVVfeXFMT1RFUEJoOFlqV3ZlbEYwNEhKTGt1SU9HYk14QWc0Z19CMGNqNHJ1RDZBSzdSdEZwQTRyU2txYThqQ1VkYUg3UEplaGpITDFnZEo3eENzWkE1aGtIRC1iaTdGR1QzNU9vRlJHd1k3cHZuMTVELXJSWG5oNlVrTVpId0xaNWZIM2Z5UWNGMTdLTmVOeDZsWldkTWs?oc=5)
+
+---
+
+### ['Race to stop meningitis spreading' and 'Donald's Trumped'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+
+2026-03-17 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+
+---
 
 ### [Newcastle teacher 'facing death sentence' after battling cancer known as the silent killer - Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmtveThmSUg4WmRNSjhzQk43WV9YRWRWNm1EeVJaZzIxVHJ0UVQ0V0dkazItQ2c2REpRZk5RZWRMX1laRVBsTFhUWTZHcjlqTXZwX2tuclNvemh4TkdDVGFkTlhyTDRfNU12YWJPWFViNkEzaGdsa1YxeERLRmFEVGx6SXlpbFpPR2xhSlZibEpCUF85Z1BmaVBQTC1ZZUd4aWpB0gGoAUFVX3lxTE1xVDY4WDFwdzlwZVlCaFpOMmdiY0x0dFluWWlPbXlnWE05OW5tMHJuSW1MOWNOZHdudDItc3M1SjFMbHlBT2RVQkFRYU85QTQwNEtkT3pXOEQ2U0pWQjVzOW83cmYxQ0JfN01aeVM2YkE3UEtBWjdyczNRcndsaGR1c1lRUlNGUTMzRzBuVG10Wno1Nk1hTHladG0xX2RKakdmcU1vOW1DQw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmtveThmSUg4WmRNSjhzQk43WV9YRWRWNm1EeVJaZzIxVHJ0UVQ0V0dkazItQ2c2REpRZk5RZWRMX1laRVBsTFhUWTZHcjlqTXZwX2tuclNvemh4TkdDVGFkTlhyTDRfNU12YWJPWFViNkEzaGdsa1YxeERLRmFEVGx6SXlpbFpPR2xhSlZibEpCUF85Z1BmaVBQTC1ZZUd4aWpB0gGoAUFVX3lxTE1xVDY4WDFwdzlwZVlCaFpOMmdiY0x0dFluWWlPbXlnWE05OW5tMHJuSW1MOWNOZHdudDItc3M1SjFMbHlBT2RVQkFRYU85QTQwNEtkT3pXOEQ2U0pWQjVzOW83cmYxQ0JfN01aeVM2YkE3UEtBWjdyczNRcndsaGR1c1lRUlNGUTMzRzBuVG10Wno1Nk1hTHladG0xX2RKakdmcU1vOW1DQw?oc=5)
-
----
-
-### [North Wales mum, 33, fighting for life after falling ill at holiday island airport - North Wales Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWh2ZTlNb21qMHJLdUNPeTU4Z1pXbGgwaVd5M2tGSWFzTEhVQUV4aHZadlpIM0dDWTlNYzNDelZTSFBObXItVGJFNzR3WEl3ZjFkZG5lanM1MDN5TnQ2TFZORUlkbFdQYW5oZ1pwNGRmQkt2aGFUemdpdzMyYjVuWjhFa0VORjBqQ0FaajBjOA?oc=5)
-
-2026-03-16 <span class="news-indication-tag">AF</span>
-
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWh2ZTlNb21qMHJLdUNPeTU4Z1pXbGgwaVd5M2tGSWFzTEhVQUV4aHZadlpIM0dDWTlNYzNDelZTSFBObXItVGJFNzR3WEl3ZjFkZG5lanM1MDN5TnQ2TFZORUlkbFdQYW5oZ1pwNGRmQkt2aGFUemdpdzMyYjVuWjhFa0VORjBqQ0FaajBjOA?oc=5)
 
 ---
 
@@ -71,14 +87,6 @@ permalink: /news/riociguat/
 2026-03-16 <span class="news-indication-tag">AF</span>
 
 來源：[Les Numériques](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdVJOay1RcHNueHg4UXlIOU5YQXAzcDIyQS1ZZXBzamEwTDI2OHhxQ013M2ZNR2tPYkxURzR3ZzdsUmZuaFpsOUtYS29heFBha2oxTlVFS3BSTUpuVDEwRlpEakVNR0ZBdnQ3RTJhOUp0NTZ0cGI3RmhYRk11V2g5cGdQVnRPaEZtR0VJUGcyckpJVm5Da3RHM3V6U1BuT0o2VlJYZUhNYUZfanhDYUg1aEdXUk5UdDFDSG5sMGdRNTU4bDFiQ1FmUC1tRUNoV0hVRUxiX2tNTGlGVUpESWNQSXN0ZTJKYXR5Mk8tV084TTJ5UVVvVXhObmZ0WFZNX2NHZ2dZa1o3dHM?oc=5)
-
----
-
-### [La realidad tras la historia del empresario que ha "curado a su perro usando ChatGPT" - National Geographic España](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1J6cjMwSFFCcW5lQm9RaDJieER1cjM5Nmp5aERtR3pYY2ZyU0JKal9Sa2R6NV9lMXJhT2IwQWtZN2ZYaWxKUlZCcTJkTmhyRHhzQ3ZQN2YzaWxXbjRlbWtrUWtFYmc3bXYxVlp2ZGtWYnJQa0lNVERlZ1FCMUU0V0N0YUxYMHZJSjdtblpUenlTanh5aWhxY3p4X3F2X19TTnZ5NEdIT2tMaGhIa1ZjRkM2eDJLaUk?oc=5)
-
-2026-03-16 <span class="news-indication-tag">AF</span>
-
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1J6cjMwSFFCcW5lQm9RaDJieER1cjM5Nmp5aERtR3pYY2ZyU0JKal9Sa2R6NV9lMXJhT2IwQWtZN2ZYaWxKUlZCcTJkTmhyRHhzQ3ZQN2YzaWxXbjRlbWtrUWtFYmc3bXYxVlp2ZGtWYnJQa0lNVERlZ1FCMUU0V0N0YUxYMHZJSjdtblpUenlTanh5aWhxY3p4X3F2X19TTnZ5NEdIT2tMaGhIa1ZjRkM2eDJLaUk?oc=5)
 
 ---
 
@@ -106,19 +114,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [El alcohol altera la expresión de genes clave incluso tras consumos esporádicos](https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3p5Uzk1VjY0eVlJSXpvcWdtNEJSQVJDN25GZFhTWGwxRTFUSFBXRzJPT1lISHVmaWE0YzNZVUdoUmVIbTNkYV9yZWdhbXF6YWtNWTZpTWFaUzZ0QWxBaW9ld1VrTVM2a011T1A4aDd0ZV9aVTZVUkUwUWdjdnRYN1hWbnM3TzNrX0Y0dXFFYTEtVjdCTXY1SVV2c0ptSFVFU3d2VXB3?oc=5)
+### [Hochauflösende Elektronenmikroskopie zeigt, wie Zellen mit Stress umgehen - Informationsdienst Wissenschaft (idw)](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZThyaGg5V25LTGZ5OUxMZFRRTmFYVVdZQmU3bDZWTnhFNlRBQTRnN3Vic29tVXJrbzRkRklTYTFTWEJFLThQS0Zndw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">AF</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3p5Uzk1VjY0eVlJSXpvcWdtNEJSQVJDN25GZFhTWGwxRTFUSFBXRzJPT1lISHVmaWE0YzNZVUdoUmVIbTNkYV9yZWdhbXF6YWtNWTZpTWFaUzZ0QWxBaW9ld1VrTVM2a011T1A4aDd0ZV9aVTZVUkUwUWdjdnRYN1hWbnM3TzNrX0Y0dXFFYTEtVjdCTXY1SVV2c0ptSFVFU3d2VXB3?oc=5)
-
----
-
-### [Hochauflösende Elektronenmikroskopie zeigt, wie Zellen mit Stress umgehen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZThyaGg5V25LTGZ5OUxMZFRRTmFYVVdZQmU3bDZWTnhFNlRBQTRnN3Vic29tVXJrbzRkRklTYTFTWEJFLThQS0Zndw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZThyaGg5V25LTGZ5OUxMZFRRTmFYVVdZQmU3bDZWTnhFNlRBQTRnN3Vic29tVXJrbzRkRklTYTFTWEJFLThQS0Zndw?oc=5)
+來源：[Informationsdienst Wissenschaft (idw)](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZThyaGg5V25LTGZ5OUxMZFRRTmFYVVdZQmU3bDZWTnhFNlRBQTRnN3Vic29tVXJrbzRkRklTYTFTWEJFLThQS0Zndw?oc=5)
 
 ---
 
@@ -191,14 +191,6 @@ permalink: /news/riociguat/
 2026-03-15 <span class="news-indication-tag">AF</span>
 
 來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGdEYlhLeEw2Z1NUaUttRC0tZnBQVXZNZ29QU1hILWVxWU4tTEdRZjdmVnRsdTZnbXQ0Q1pmdTBtTUlGS0U2MG4wOGZoUUxPREVPYW1taXZDOWtfbTBlTTlyUVhZcDRVay1sU3JBVVFtSTRCVFdTRWNfNU4yaGJXVTJROTh5RHFSeDBla0hpVTBYYUJQdnVURnNuMmVKcjVHNm0zeWcta0RTNGJwM3hhTWJKazZKRjIt0gG8AUFVX3lxTFBicTFXakFUTWFMZTVvT1Nuc3dIaWRkN1pZcHNYYjJ6RDZfU1lMOU52WUF2Y2VWcUJIcDFVUEppZDdEd0YwbGc0Vl9lYzh3cm1WQ285VnluQURwcVFxRERxZXM3VU5HY19WUFA1UFBJYV9rRloxYl9NYW95UlBIV3RJeURmZjhGMXpaa2U5aUdOa0JpTWZteG02d1dRYkcyRTJ2XzJTR3BTYUNOb1o0WXhtWTh0bnZvUnBCLTNu?oc=5)
-
----
-
-### [Chemists issue new warning for anyone taking ibuprofen, naproxen, diclofenac - Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
-
-2026-03-15 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxObmN0OFhZS3ZMMDJRbEQydnlZbzRkZUVPYzNhN1FJcjVYc3ZnenNLVmhNV2t2WFJVeU9vVlVEWFZ6Y0N5aTJReFMwd2JtODBWRUlQWkFrMGdaWDR2aGdvSjJQN0JUWUZwUWxJWTZaMmpsbUZNQmdhRWxOeWsxQXJ6aHZxYVpIUmVvT1FYTmlIZw?oc=5)
 
 ---
 
