@@ -14,7 +14,7 @@ permalink: /news/zonisamide/
 ---
 
 <p class="key-answer" data-question="Zonisamide 有什麼相關新聞？">
-<strong>Zonisamide</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Zonisamide</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,53 @@ permalink: /news/zonisamide/
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（24 則）
 
-### [María, bioquímica experta en nutrición: "Puedes tomar hasta tres cafés al día, incluso hay estudios que indican que más, pero siempre tueste natural; que sean más largos de agua"](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNaEhqVHZja3lQc0N3bk5Ga2tsT1hCNU5JcjE5VXhUVGVDeU1ROE5xbXRKVjllZGhrNHBScnJNQXJyVTlnU0FvMmF6MXoyU3FkOHZPX3YzU3FnZkwwdDRpakR1dXhmVFd3Qi12akEybTNHRzNsVW15MTBkU3dZa0doQk54VTJyTVFrQVU0SFVkeVRaWFV6N0M4M25vVVlBNzJWR0ZQQ2JKRmJJSW5HUE9pU1JMX1FOWHNseGFOUWhEWENwamFiamUzajUyVURZS3RQTGhOVDBLaXB5VjY0cm9BSy1qZ1pQaldQUlNXSEVSd29tYlppVmhVMnVIQ19DREJidVZTLUI4VFhzbDRUVWlFNDJjbkpTQjkyX0gyRTBFZkpsR1VtUl82MdIBrgJBVV95cUxPZHJTLThtRW01TVhMLWMteHFjMWZFa05qZVJUZ2xVbUZJSDMySTA4LUtGRUt0clQtNVdGNlJkMGprcXhUN2ZuMzFLNms4T1ZlVmVvTHVlTVlCbDM0b2dMMDBvUjh0d2thLTBHeEx5eWEwZFY3Ykdpd1Q2VGtRNG5iVVlFVFRCOXBNaGdDUy0zS1lpVi16Q3BHU3NkV1dWZS1OTE5JREJxSnUyYXYtOEpldDFXdmVReHI3ZXBmZGcxblhBOWFqVjFxUDNOUDBJeXpZSVdyTjdCbm9qci1oLTgtQVAtbVQ5Uy1kbWhHendySk9hNmJ2bEd1ck1fR0IxZ2t3Q3hvNmhya0VWR2lDY29KTnRWSlk4bjl3dmJ0Wkl6SmQ4LUt1dU02dVFBT0Izdw?oc=5)
+### [Schlafmittel für Kinder im Trend: Warum Experten bei Melatonin zur Vorsicht raten - Berliner Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0JuXzFCRkNpSHhyMml0c0xna0V5ajFvUDV3MUk2c3dXXzNzUkFjZkRjcGlKZ1Z1NzBheDdodmNWOU53WXpqb3EyZ2hnd0tTYUNFTTZhVW1xd1pzMjJGVUFDTHpKQ09tRFNBMjdYOExhelpQYkpsX1NCejgxUE5oZXBZRlBBU2dHX253UUowWl9pRkxxRTVuOUtLOW1fbkd4LUNFMnhKU0oweHlFR3NrUHRBTTR0Nm45SDEtbmNRUFl2cldESFJFT25UeFlzdFJuZzA4REFSdzdncmNVQTM4?oc=5)
 
-2026-03-17 <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">AF</span>
 
-來源：[COPE](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNaEhqVHZja3lQc0N3bk5Ga2tsT1hCNU5JcjE5VXhUVGVDeU1ROE5xbXRKVjllZGhrNHBScnJNQXJyVTlnU0FvMmF6MXoyU3FkOHZPX3YzU3FnZkwwdDRpakR1dXhmVFd3Qi12akEybTNHRzNsVW15MTBkU3dZa0doQk54VTJyTVFrQVU0SFVkeVRaWFV6N0M4M25vVVlBNzJWR0ZQQ2JKRmJJSW5HUE9pU1JMX1FOWHNseGFOUWhEWENwamFiamUzajUyVURZS3RQTGhOVDBLaXB5VjY0cm9BSy1qZ1pQaldQUlNXSEVSd29tYlppVmhVMnVIQ19DREJidVZTLUI4VFhzbDRUVWlFNDJjbkpTQjkyX0gyRTBFZkpsR1VtUl82MdIBrgJBVV95cUxPZHJTLThtRW01TVhMLWMteHFjMWZFa05qZVJUZ2xVbUZJSDMySTA4LUtGRUt0clQtNVdGNlJkMGprcXhUN2ZuMzFLNms4T1ZlVmVvTHVlTVlCbDM0b2dMMDBvUjh0d2thLTBHeEx5eWEwZFY3Ykdpd1Q2VGtRNG5iVVlFVFRCOXBNaGdDUy0zS1lpVi16Q3BHU3NkV1dWZS1OTE5JREJxSnUyYXYtOEpldDFXdmVReHI3ZXBmZGcxblhBOWFqVjFxUDNOUDBJeXpZSVdyTjdCbm9qci1oLTgtQVAtbVQ5Uy1kbWhHendySk9hNmJ2bEd1ck1fR0IxZ2t3Q3hvNmhya0VWR2lDY29KTnRWSlk4bjl3dmJ0Wkl6SmQ4LUt1dU02dVFBT0Izdw?oc=5)
-
----
-
-### [¿ChatGPT Realmente Curó el Cáncer de un Perro? Es Complicado](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXBVTklkRXRVQU5vV3haVGFhSnp5amc3UXdMckxoRzVyR1pRY2I2VzJXNzlUMDZvbk9IX2xaaFcyNWR1V3lmMHoxUmRVYVc3R29aVGl4UjVQNXdPYjRNZHc1Tlg4Sm9pai1qSkRsTHJpZ2d0enRQT0JwRmJRRl90MkR5ZDRPM2JtZzhNdm8ybHjSAZgBQVVfeXFMT1RFUEJoOFlqV3ZlbEYwNEhKTGt1SU9HYk14QWc0Z19CMGNqNHJ1RDZBSzdSdEZwQTRyU2txYThqQ1VkYUg3UEplaGpITDFnZEo3eENzWkE1aGtIRC1iaTdGR1QzNU9vRlJHd1k3cHZuMTVELXJSWG5oNlVrTVpId0xaNWZIM2Z5UWNGMTdLTmVOeDZsWldkTWs?oc=5)
-
-2026-03-17 <span class="news-indication-tag">AF</span>
-
-來源：[Decrypt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXBVTklkRXRVQU5vV3haVGFhSnp5amc3UXdMckxoRzVyR1pRY2I2VzJXNzlUMDZvbk9IX2xaaFcyNWR1V3lmMHoxUmRVYVc3R29aVGl4UjVQNXdPYjRNZHc1Tlg4Sm9pai1qSkRsTHJpZ2d0enRQT0JwRmJRRl90MkR5ZDRPM2JtZzhNdm8ybHjSAZgBQVVfeXFMT1RFUEJoOFlqV3ZlbEYwNEhKTGt1SU9HYk14QWc0Z19CMGNqNHJ1RDZBSzdSdEZwQTRyU2txYThqQ1VkYUg3UEplaGpITDFnZEo3eENzWkE1aGtIRC1iaTdGR1QzNU9vRlJHd1k3cHZuMTVELXJSWG5oNlVrTVpId0xaNWZIM2Z5UWNGMTdLTmVOeDZsWldkTWs?oc=5)
+來源：[Berliner Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0JuXzFCRkNpSHhyMml0c0xna0V5ajFvUDV3MUk2c3dXXzNzUkFjZkRjcGlKZ1Z1NzBheDdodmNWOU53WXpqb3EyZ2hnd0tTYUNFTTZhVW1xd1pzMjJGVUFDTHpKQ09tRFNBMjdYOExhelpQYkpsX1NCejgxUE5oZXBZRlBBU2dHX253UUowWl9pRkxxRTVuOUtLOW1fbkd4LUNFMnhKU0oweHlFR3NrUHRBTTR0Nm45SDEtbmNRUFl2cldESFJFT25UeFlzdFJuZzA4REFSdzdncmNVQTM4?oc=5)
 
 ---
 
-### ['Race to stop meningitis spreading' and 'Donald's Trumped'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+### [Vitamine in der Schwangerschaft: Das braucht der Körper - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDdHWUZ0QnZfeU5tcUZLcGRBX013VXVBeE94SHJOd0NBTXBzVjNVX0hoT1B6MktXbnhTVkZzRjZfSWVZN3ozelh5ZHFnUEpnOUZmb0M0bDVMdEFoaGEzNGg3NHZQcjBwWXJ4WjBGYmpNZmZoa01MUkNnbHJRdWx6dHN1blRBcVRTc0Q3RXN3QnlYLUZYRHc1OTVVYTdUR1JfekxfYzRZWTJwdjVWSWJHcENIeDBKdzg4dmR2NnF4cTdiQQ?oc=5)
 
-2026-03-17 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDdHWUZ0QnZfeU5tcUZLcGRBX013VXVBeE94SHJOd0NBTXBzVjNVX0hoT1B6MktXbnhTVkZzRjZfSWVZN3ozelh5ZHFnUEpnOUZmb0M0bDVMdEFoaGEzNGg3NHZQcjBwWXJ4WjBGYmpNZmZoa01MUkNnbHJRdWx6dHN1blRBcVRTc0Q3RXN3QnlYLUZYRHc1OTVVYTdUR1JfekxfYzRZWTJwdjVWSWJHcENIeDBKdzg4dmR2NnF4cTdiQQ?oc=5)
+
+---
+
+### [Wie verbrennen wir Kalorien im Schlaf? - Schweizer Illustrierte](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzJhdDJHbnRrR09iT3lVLWRqVHRDYzdyT0ItdFNxaTV6R0NPWU93Y3ZEeXFUZ3phMTNjQW5yRDZxcjZ0N2xkZmw3WWVTbUNsbzRPNmpzTkpXU0pnSW1VSVBnVUV4VXdDVDdtS29Lei1Tc1VlTlZVblZiSjZadEtva1FpMjZiWnZsdEtnUnBaekVmYUlxTU1TamtMNGcwT3hl?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[Schweizer Illustrierte](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzJhdDJHbnRrR09iT3lVLWRqVHRDYzdyT0ItdFNxaTV6R0NPWU93Y3ZEeXFUZ3phMTNjQW5yRDZxcjZ0N2xkZmw3WWVTbUNsbzRPNmpzTkpXU0pnSW1VSVBnVUV4VXdDVDdtS29Lei1Tc1VlTlZVblZiSjZadEtva1FpMjZiWnZsdEtnUnBaekVmYUlxTU1TamtMNGcwT3hl?oc=5)
+
+---
+
+### [Una IA australiana predice el riesgo de cáncer de mama incluso tras mamografías normales](https://news.google.com/rss/articles/CBMic0FVX3lxTE1oelFPRlRSWnRtYUNPQTJLTXhHY0tMcS1QTlVxbjJpNTdXVnFZVzJKV2R2aFVSUmxvUHN3TkNfRGwxQS1welZmUkhzbU13N1pkNzFlT2tKRFJ1OGpNbi1KUXE2MGNrWHVrMHhpQjFrUk1sZkk?oc=5)
+
+2026-03-17 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[efeminista](https://news.google.com/rss/articles/CBMic0FVX3lxTE1oelFPRlRSWnRtYUNPQTJLTXhHY0tMcS1QTlVxbjJpNTdXVnFZVzJKV2R2aFVSUmxvUHN3TkNfRGwxQS1welZmUkhzbU13N1pkNzFlT2tKRFJ1OGpNbi1KUXE2MGNrWHVrMHhpQjFrUk1sZkk?oc=5)
+
+---
+
+### [Schwarze Löcher: Ein Taumeln im Weltraum zwingt die Wissenschaft zum Umdenken](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVdyb1FHS2hSa0FqWlhTcUtERHV6Ymc0eWZHb1o2OE5pOUN3RFdLemkwVG5DbXJXenhwR2VMMFBLTmQ3X3JmaTRuWWZScW1BX0FxY0NlcE1GcVViVmR6MnpFSXNheHRsM3dwbDFqUG1nQU1DaVVhNERSMmNWeTFpWHZoTEFPNld4S21ERFFwV2Q?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[t3n](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVdyb1FHS2hSa0FqWlhTcUtERHV6Ymc0eWZHb1o2OE5pOUN3RFdLemkwVG5DbXJXenhwR2VMMFBLTmQ3X3JmaTRuWWZScW1BX0FxY0NlcE1GcVViVmR6MnpFSXNheHRsM3dwbDFqUG1nQU1DaVVhNERSMmNWeTFpWHZoTEFPNld4S21ERFFwV2Q?oc=5)
+
+---
+
+### [Intelligenza artificiale e biologia: AlphaFold di DeepMind verso la mappa completa dell'«interattoma» - Corriere della Sera](https://news.google.com/rss/articles/CBMikgJBVV95cUxNMjZoOWNGSUVQcEdEbEdvQmZDUEFTcS1TNDUyc0p2TjZJd193OHlGdjJCVTFJMnpKU0k0TEJBVC0wb0pjdU53dVpNWUZyUV9xdmJwWHRPRU9jTHh0SkY4bFhnWGNNdHpCUVVLOTBxaERIVEZjR0RoeFVwZENETkRjcXZCMlBMWDUwejcyX2NhUG9BVVRqeFlVNDdwTkY1WTNidEQwbXRjVkUwMklDb2dacjVCNFE1TmlvRFJMOGRWdmpzLXNuMkFmamxQZ3AwbWFXSkE2M2NqZ25Hbmc3eTJ5MHBpNjlySG85U2pmdnRHMTVBQS1LbUJnUno5WlRJbHFETzFUdjFscmZRU2hqWHVidklB0gGXAkFVX3lxTE1oT1NFZnlUNFZUMEhWajNCcXlaM09XYU5yVWVuR0hUWEg0bW9VbTkwRWJYM0c0akxicjZ6TDFCVlpyamloVmNaOHh3eThzcGg5RFhBb29WeDRuM1g0TTBOaXE0LTV6N05UN2NfSUVyN3FnbkdYa3hRa1dBem5lVU5IZ1BrU245RWtlWTFqXzNsd1pCV3NoX1oyYm5JNVRMNUtxQU8zZlozQnY1NktaN1NEakktemhycVdpOGZqSUxfTmQ5ZW9BTjdnd0NuTllQUlFzVXNpeTNyMHJJX1VhOUJ0ekVVanhZN25va09YY3ZWam81RjVSa0J3UHFwSHlHYzRHLUdqZEpUaXJSOV90UTd6SmxHYmZ1bw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMikgJBVV95cUxNMjZoOWNGSUVQcEdEbEdvQmZDUEFTcS1TNDUyc0p2TjZJd193OHlGdjJCVTFJMnpKU0k0TEJBVC0wb0pjdU53dVpNWUZyUV9xdmJwWHRPRU9jTHh0SkY4bFhnWGNNdHpCUVVLOTBxaERIVEZjR0RoeFVwZENETkRjcXZCMlBMWDUwejcyX2NhUG9BVVRqeFlVNDdwTkY1WTNidEQwbXRjVkUwMklDb2dacjVCNFE1TmlvRFJMOGRWdmpzLXNuMkFmamxQZ3AwbWFXSkE2M2NqZ25Hbmc3eTJ5MHBpNjlySG85U2pmdnRHMTVBQS1LbUJnUno5WlRJbHFETzFUdjFscmZRU2hqWHVidklB0gGXAkFVX3lxTE1oT1NFZnlUNFZUMEhWajNCcXlaM09XYU5yVWVuR0hUWEg0bW9VbTkwRWJYM0c0akxicjZ6TDFCVlpyamloVmNaOHh3eThzcGg5RFhBb29WeDRuM1g0TTBOaXE0LTV6N05UN2NfSUVyN3FnbkdYa3hRa1dBem5lVU5IZ1BrU245RWtlWTFqXzNsd1pCV3NoX1oyYm5JNVRMNUtxQU8zZlozQnY1NktaN1NEakktemhycVdpOGZqSUxfTmQ5ZW9BTjdnd0NuTllQUlFzVXNpeTNyMHJJX1VhOUJ0ekVVanhZN25va09YY3ZWam81RjVSa0J3UHFwSHlHYzRHLUdqZEpUaXJSOV90UTd6SmxHYmZ1bw?oc=5)
 
 ---
 
@@ -71,6 +95,14 @@ permalink: /news/zonisamide/
 2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmtveThmSUg4WmRNSjhzQk43WV9YRWRWNm1EeVJaZzIxVHJ0UVQ0V0dkazItQ2c2REpRZk5RZWRMX1laRVBsTFhUWTZHcjlqTXZwX2tuclNvemh4TkdDVGFkTlhyTDRfNU12YWJPWFViNkEzaGdsa1YxeERLRmFEVGx6SXlpbFpPR2xhSlZibEpCUF85Z1BmaVBQTC1ZZUd4aWpB0gGoAUFVX3lxTE1xVDY4WDFwdzlwZVlCaFpOMmdiY0x0dFluWWlPbXlnWE05OW5tMHJuSW1MOWNOZHdudDItc3M1SjFMbHlBT2RVQkFRYU85QTQwNEtkT3pXOEQ2U0pWQjVzOW83cmYxQ0JfN01aeVM2YkE3UEtBWjdyczNRcndsaGR1c1lRUlNGUTMzRzBuVG10Wno1Nk1hTHladG0xX2RKakdmcU1vOW1DQw?oc=5)
+
+---
+
+### [North Wales mum, 33, fighting for life after falling ill at holiday island airport - North Wales Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWh2ZTlNb21qMHJLdUNPeTU4Z1pXbGgwaVd5M2tGSWFzTEhVQUV4aHZadlpIM0dDWTlNYzNDelZTSFBObXItVGJFNzR3WEl3ZjFkZG5lanM1MDN5TnQ2TFZORUlkbFdQYW5oZ1pwNGRmQkt2aGFUemdpdzMyYjVuWjhFa0VORjBqQ0FaajBjOA?oc=5)
+
+2026-03-16 <span class="news-indication-tag">AF</span>
+
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWh2ZTlNb21qMHJLdUNPeTU4Z1pXbGgwaVd5M2tGSWFzTEhVQUV4aHZadlpIM0dDWTlNYzNDelZTSFBObXItVGJFNzR3WEl3ZjFkZG5lanM1MDN5TnQ2TFZORUlkbFdQYW5oZ1pwNGRmQkt2aGFUemdpdzMyYjVuWjhFa0VORjBqQ0FaajBjOA?oc=5)
 
 ---
 
@@ -98,11 +130,11 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Multivitaminici, come guadagnare 4 mesi di vita ogni 2 anni - Libero Quotidiano](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVlVREEyamVFYml5b1AyajFOWWlSQl9IR3RlNTdvMldkQ2sxVUczRzlRSE9TYXVmSWJNOVM5QkpMN0dJMTktM19ia3ZpaXlZWW1RazJZaU9XSFpHWmVfdDkwakxYV2dGWnktcFV6aWtZRnVQU2NCVW54Y3NGcFlJNUpsVG9kWERQYU56Y0N3M29rZGVhWTRnRlUybHpPYUZ0eUtRSUVQWlp3NFN5MHg2cjlJd1YxRVpMMWdqRDlDcw?oc=5)
+### [IT Guy Goes Down In History After Using ChatGPT And His Dog’s DNA To Create A Cancer Cure For Her - Bored Panda](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SbXBNNGpMSER1V0N6QjZTbUF0eDhzeXp4TUhFTUt4MV9aQkRZMnYxUlNmczFTSWtwYlNjNTBZVWRpNTJKZnV0d3lLUWZvRUxiTHdUbXlqaF8xUnhoR0pXZw?oc=5)
 
-2026-03-16 <span class="news-indication-tag">AF</span>
+2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVlVREEyamVFYml5b1AyajFOWWlSQl9IR3RlNTdvMldkQ2sxVUczRzlRSE9TYXVmSWJNOVM5QkpMN0dJMTktM19ia3ZpaXlZWW1RazJZaU9XSFpHWmVfdDkwakxYV2dGWnktcFV6aWtZRnVQU2NCVW54Y3NGcFlJNUpsVG9kWERQYU56Y0N3M29rZGVhWTRnRlUybHpPYUZ0eUtRSUVQWlp3NFN5MHg2cjlJd1YxRVpMMWdqRDlDcw?oc=5)
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SbXBNNGpMSER1V0N6QjZTbUF0eDhzeXp4TUhFTUt4MV9aQkRZMnYxUlNmczFTSWtwYlNjNTBZVWRpNTJKZnV0d3lLUWZvRUxiTHdUbXlqaF8xUnhoR0pXZw?oc=5)
 
 ---
 
@@ -111,6 +143,14 @@ permalink: /news/zonisamide/
 2026-03-16 <span class="news-indication-tag">AF</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQclk4TzJaNmtKc0FYX3VJOW1LbkVyM3JmbHh5MlZBU0ZVdlQ2c0k2Q1BNTGp3VjBodllfaWFKeWJsejdpaXRFNXZ0bUZIMExOcWVYVlNTMWZWQi1DRldfa3hRMmxPaXpneXVsTXo0X2EwamVMLU5faDk5bUVtSzR1NzljdWQybXFJOC1EMFVETzkyWm8?oc=5)
+
+---
+
+### [Could paraxanthine replace caffeine? What we know about the new stimulant appearing in coffee and energy drinks - The Conversation](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ1FnT1lSczNyVWdTTGIydVpsTkVYNC13Y0VEc1k2N1U4UGQyRXNhaWpJdkF6ZzZ4T2VIWW9KeEpuZFljdzJyZ2w2V0dMNWxrX1ZsRlJtNW8yQ3VjWnRMM05UM2ZnV21reTU0RldSNDQ2Wk0xd29LNG9mNU5QYVlBOTdDYUp4N2k4a0FTeXl6Z0RPdVcyX184YUxBbElfYzBjenlzek5rSUJvSUhWS3Ezc19vejJEYWlmVU9qWksyN18wNmdIU2wxU2s2cUZiNm5DZXA0NGM3X1RFTDhmclE?oc=5)
+
+2026-03-16 <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ1FnT1lSczNyVWdTTGIydVpsTkVYNC13Y0VEc1k2N1U4UGQyRXNhaWpJdkF6ZzZ4T2VIWW9KeEpuZFljdzJyZ2w2V0dMNWxrX1ZsRlJtNW8yQ3VjWnRMM05UM2ZnV21reTU0RldSNDQ2Wk0xd29LNG9mNU5QYVlBOTdDYUp4N2k4a0FTeXl6Z0RPdVcyX184YUxBbElfYzBjenlzek5rSUJvSUhWS3Ezc19vejJEYWlmVU9qWksyN18wNmdIU2wxU2s2cUZiNm5DZXA0NGM3X1RFTDhmclE?oc=5)
 
 ---
 
@@ -130,11 +170,11 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Hochauflösende Elektronenmikroskopie zeigt, wie Zellen mit Stress umgehen - Informationsdienst Wissenschaft (idw)](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZThyaGg5V25LTGZ5OUxMZFRRTmFYVVdZQmU3bDZWTnhFNlRBQTRnN3Vic29tVXJrbzRkRklTYTFTWEJFLThQS0Zndw?oc=5)
+### [Hochauflösende Elektronenmikroskopie zeigt, wie Zellen mit Stress umgehen - Informationsdienst Wissenschaft (idw)](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjUmpMVUZDeUpkSVhERmhqbmY5OWxIdU5XbVgwNy1reG81T2RNS1I1TlZyeWF1R0xKTjVBaGhVNG1vYy1zNTVtQ2I0dw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft (idw)](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZThyaGg5V25LTGZ5OUxMZFRRTmFYVVdZQmU3bDZWTnhFNlRBQTRnN3Vic29tVXJrbzRkRklTYTFTWEJFLThQS0Zndw?oc=5)
+來源：[Informationsdienst Wissenschaft (idw)](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjUmpMVUZDeUpkSVhERmhqbmY5OWxIdU5XbVgwNy1reG81T2RNS1I1TlZyeWF1R0xKTjVBaGhVNG1vYy1zNTVtQ2I0dw?oc=5)
 
 ---
 
@@ -143,6 +183,22 @@ permalink: /news/zonisamide/
 2026-03-16 <span class="news-indication-tag">AF</span>
 
 來源：[Actualidad CEU](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1iNnRja3I1VHF1aXNuR0JzQldVbTNmdHdWZDJqWEx2RnFyZ3pIcVBCU2lRYmVMQUwtWGRwYWRlWDhqNmRqZkFnRXpQNm5JNVVDUGlpRWZqV1BSalkwTDdYWWlwQnYyYnFGR0xIVVdGQWtZa0tldjRvNlpKTHlmWVI1b2c1SktGN095QXk5VThnUjM3a1pQQm1JNWNRdG04bFpOZkJTRzZhOE1rUXFQOWo1WWh4SlA4OHlUV2l6RkhKd09aYlhJTEhxdTRPemRFS09yMHVweDA?oc=5)
+
+---
+
+### [Worker gets 'gift of sight' after cornea donations](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxUHB3QV9LbVJsU2NhaWZseWZxUWRJSVFCMWlEeW91M3QtYXphWDU3ajBCbE9ta0JPY09oeHlTcTRiQWVHNjV4RTBPMl9oUVBONmlNVy1fcktEcG1B?oc=5)
+
+2026-03-16 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxUHB3QV9LbVJsU2NhaWZseWZxUWRJSVFCMWlEeW91M3QtYXphWDU3ajBCbE9ta0JPY09oeHlTcTRiQWVHNjV4RTBPMl9oUVBONmlNVy1fcktEcG1B?oc=5)
+
+---
+
+### [How a ‘vacuum cleaner turned the other way’ became a popular solution to snoring disorders - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmNwQ1BFYUhRc2EtU2kxdkx1eEdfbEhVZXhGNnNiTTV5UTBsMHYtNnVUeEg5TXJLSkZvbVo5Rk5rdUdqaFd5enNVdXJyU0pWZUZyNzNLd0FhTE5oRDNKRmszMTAtaEY4Z1lIeVNmZDNKZU04VEd1NHgwaE9tal8tTk9BNU8yUjV5eVJySkFrNG5aWjh6ZnlUOGtuZ0VpbHVnaFh0MzJVYXFWUWlCRndZWWl2RHF0SVMzWVJPTDRZNjBQcEM2YTlJZU1EbDVyNHRrZG9vYTYzaGQ?oc=5)
+
+2026-03-16 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmNwQ1BFYUhRc2EtU2kxdkx1eEdfbEhVZXhGNnNiTTV5UTBsMHYtNnVUeEg5TXJLSkZvbVo5Rk5rdUdqaFd5enNVdXJyU0pWZUZyNzNLd0FhTE5oRDNKRmszMTAtaEY4Z1lIeVNmZDNKZU04VEd1NHgwaE9tal8tTk9BNU8yUjV5eVJySkFrNG5aWjh6ZnlUOGtuZ0VpbHVnaFh0MzJVYXFWUWlCRndZWWl2RHF0SVMzWVJPTDRZNjBQcEM2YTlJZU1EbDVyNHRrZG9vYTYzaGQ?oc=5)
 
 ---
 
@@ -162,30 +218,6 @@ permalink: /news/zonisamide/
 
 ---
 
-### [vdB 47 im Stier - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ickwxdXA2cnprVE53ZlFsYzZvWWU3TWFNbzBVLXNTUjRxZWtldkd6SXpwUkZoUGtXUmFpWGZKTVF4V01OM2hoNTRnOTJ5TWZreGJJQVlNNGN6cG1ESmVzRTFsR2p3c21NdEV0Qi02MF9PRTAzZS1OelZEMTI3dw?oc=5)
-
-2026-03-15 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ickwxdXA2cnprVE53ZlFsYzZvWWU3TWFNbzBVLXNTUjRxZWtldkd6SXpwUkZoUGtXUmFpWGZKTVF4V01OM2hoNTRnOTJ5TWZreGJJQVlNNGN6cG1ESmVzRTFsR2p3c21NdEV0Qi02MF9PRTAzZS1OelZEMTI3dw?oc=5)
-
----
-
-### [Messier 106 and a sea of ​​galaxies - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzMzc0l1WU5DN3JiTEZkZ0dEZE9Id1hKTzEzYU5PdEhnYlM5V2VUUVZrbXZlVGN5eG5qTUJEcTBTWldrSTJtSzBMMkNqMVl2bnBpeVlKV2ZEUTFEbmRad1F2TnpkOWlvTUtSMThWU3gwQ1pTWDM3X1FnTVFwSnZ4VTRDSWJsWWYzY05ZbA?oc=5)
-
-2026-03-15 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzMzc0l1WU5DN3JiTEZkZ0dEZE9Id1hKTzEzYU5PdEhnYlM5V2VUUVZrbXZlVGN5eG5qTUJEcTBTWldrSTJtSzBMMkNqMVl2bnBpeVlKV2ZEUTFEbmRad1F2TnpkOWlvTUtSMThWU3gwQ1pTWDM3X1FnTVFwSnZ4VTRDSWJsWWYzY05ZbA?oc=5)
-
----
-
-### [Bristol endometriosis sufferer plans to "urgently" freeze eggs](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83ZDJUaDFiWTJjb012VUlmS1NjcEo0aThmdVZzMWxCMDdEWjZYQndhMDZSOUFKd2VPT0dqWTkxdFZIZ0l3bVBvMmhmYnlYVUZXdnFodXAyTTVjRFpN?oc=5)
-
-2026-03-15 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83ZDJUaDFiWTJjb012VUlmS1NjcEo0aThmdVZzMWxCMDdEWjZYQndhMDZSOUFKd2VPT0dqWTkxdFZIZ0l3bVBvMmhmYnlYVUZXdnFodXAyTTVjRFpN?oc=5)
-
----
-
 ### ["Le dépistage nous permet de faire entrer les patients dans un parcours de soins afin de retarder l’évolution de la maladie" : à Carcassonne une journée pour dépister les maladies rénales au plus tôt](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
 
 2026-03-15 <span class="news-indication-tag">AF</span>
@@ -199,22 +231,6 @@ permalink: /news/zonisamide/
 2026-03-15 <span class="news-drug-tag">Fentanyl</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE15T0pZd0lzUDNMNTk2WHlsU2taTGZleEp1bktBbFBhSnUyMnR5Q291cTlESHBSc0pTWXZqZnl2Tmg4WHNYZzQ1ZFg0dGMxbHZNN2tHd1QzX3ZCNHNq?oc=5)
-
----
-
-### [Alzhimer, come scoprire se si verrà colpiti col 93% di affidabilità | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGdEYlhLeEw2Z1NUaUttRC0tZnBQVXZNZ29QU1hILWVxWU4tTEdRZjdmVnRsdTZnbXQ0Q1pmdTBtTUlGS0U2MG4wOGZoUUxPREVPYW1taXZDOWtfbTBlTTlyUVhZcDRVay1sU3JBVVFtSTRCVFdTRWNfNU4yaGJXVTJROTh5RHFSeDBla0hpVTBYYUJQdnVURnNuMmVKcjVHNm0zeWcta0RTNGJwM3hhTWJKazZKRjIt0gG8AUFVX3lxTFBicTFXakFUTWFMZTVvT1Nuc3dIaWRkN1pZcHNYYjJ6RDZfU1lMOU52WUF2Y2VWcUJIcDFVUEppZDdEd0YwbGc0Vl9lYzh3cm1WQ285VnluQURwcVFxRERxZXM3VU5HY19WUFA1UFBJYV9rRloxYl9NYW95UlBIV3RJeURmZjhGMXpaa2U5aUdOa0JpTWZteG02d1dRYkcyRTJ2XzJTR3BTYUNOb1o0WXhtWTh0bnZvUnBCLTNu?oc=5)
-
-2026-03-15 <span class="news-indication-tag">AF</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGdEYlhLeEw2Z1NUaUttRC0tZnBQVXZNZ29QU1hILWVxWU4tTEdRZjdmVnRsdTZnbXQ0Q1pmdTBtTUlGS0U2MG4wOGZoUUxPREVPYW1taXZDOWtfbTBlTTlyUVhZcDRVay1sU3JBVVFtSTRCVFdTRWNfNU4yaGJXVTJROTh5RHFSeDBla0hpVTBYYUJQdnVURnNuMmVKcjVHNm0zeWcta0RTNGJwM3hhTWJKazZKRjIt0gG8AUFVX3lxTFBicTFXakFUTWFMZTVvT1Nuc3dIaWRkN1pZcHNYYjJ6RDZfU1lMOU52WUF2Y2VWcUJIcDFVUEppZDdEd0YwbGc0Vl9lYzh3cm1WQ285VnluQURwcVFxRERxZXM3VU5HY19WUFA1UFBJYV9rRloxYl9NYW95UlBIV3RJeURmZjhGMXpaa2U5aUdOa0JpTWZteG02d1dRYkcyRTJ2XzJTR3BTYUNOb1o0WXhtWTh0bnZvUnBCLTNu?oc=5)
-
----
-
-### [BBC doctor gives warning update for Sertraline, Citalopram and Fluoxetine users - Glasgow Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2JMUkZFNG1nZE1Pb0ZjSnVITFUyMGFNX2FLdTRnVHVoLW04MVlXLW9jYjRzVjRNUWpFR2xURDNSUW13V3lfMmtyMHNBRjFUU1FCTzhoV0xrUXl5YVJYX1ByclpseWJ6ZDdHdzF4bXZZaTNXRjlZMExQUXpXaUd5a296M0ZCYjJmdWfSAY8BQVVfeXFMTmJGTVY3MWJuQ1R0aGZpeDRhN2d0emwzTjhkYUZBcUY2VHBMNDhSYTFYWW5ZY1NjZjN1dnpIeWNRTlNYVVVzNkNxZlV3MFlHM3FUU3RidkRnclRBUkVCOGJmN3B3dTdJTXlCam9FQWZYT3BFcVM4LVR6aHNEd2NmTDFGdFRiQkRsN01oZHFUVHM?oc=5)
-
-2026-03-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2JMUkZFNG1nZE1Pb0ZjSnVITFUyMGFNX2FLdTRnVHVoLW04MVlXLW9jYjRzVjRNUWpFR2xURDNSUW13V3lfMmtyMHNBRjFUU1FCTzhoV0xrUXl5YVJYX1ByclpseWJ6ZDdHdzF4bXZZaTNXRjlZMExQUXpXaUd5a296M0ZCYjJmdWfSAY8BQVVfeXFMTmJGTVY3MWJuQ1R0aGZpeDRhN2d0emwzTjhkYUZBcUY2VHBMNDhSYTFYWW5ZY1NjZjN1dnpIeWNRTlNYVVVzNkNxZlV3MFlHM3FUU3RidkRnclRBUkVCOGJmN3B3dTdJTXlCam9FQWZYT3BFcVM4LVR6aHNEd2NmTDFGdFRiQkRsN01oZHFUVHM?oc=5)
 
 ---
 

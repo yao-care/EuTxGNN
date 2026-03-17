@@ -3,7 +3,7 @@ layout: default
 title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<strong>migraña（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,21 +77,13 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [CEFABOX 2026 muestra la hoja de ruta para frenar la migraña antes de que se cronifique - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2Z6aGZsT0ZkZlFaV0ZadjhEemQ4dTZlUXNFWEtTOVAyVm1zMWFLUVRzWnh0WC1fS2wzeGJwaloyNHdzeVlKdEowZ0lPLTE2OG11bGNTRllUclcxUXlmcVFPTThDVEdLNlRPM1lIRUllUG5CdDY4T2RrMlJFSGpkSXEteDhnV0lXVEJoa2Nrc3JlOV9zRXdyN3ZzWVdzNGNIcGpRZVNoVEtnWU9uSkdEMGxPSjhzNi1nUDdSWDRGNDTSAbsBQVVfeXFMTk9seVR1ZWlyWlhJc3BwYldCdEdGUzNUZy1sSTZrU2JnLWdBR2g5UTViWHlUaTUtYXpnaHRqLW5xOF9xaXNsNlQwWHB4cWRyWXFEajJLOWJNWUNJY0xtcXFjOEthT1h6X1N1dG4yUVVKdUpyYU5PdTU2RE51V1ViS19wb2ZJdEtVV3piMzFGQ3lNTUFNeEN0S2hzMnZVZGxZWDcxb3l1N2ZCZlRjUG5mNFo3MVVtcUljTk45TQ?oc=5)
 
 2026-03-16
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2Z6aGZsT0ZkZlFaV0ZadjhEemQ4dTZlUXNFWEtTOVAyVm1zMWFLUVRzWnh0WC1fS2wzeGJwaloyNHdzeVlKdEowZ0lPLTE2OG11bGNTRllUclcxUXlmcVFPTThDVEdLNlRPM1lIRUllUG5CdDY4T2RrMlJFSGpkSXEteDhnV0lXVEJoa2Nrc3JlOV9zRXdyN3ZzWVdzNGNIcGpRZVNoVEtnWU9uSkdEMGxPSjhzNi1nUDdSWDRGNDTSAbsBQVVfeXFMTk9seVR1ZWlyWlhJc3BwYldCdEdGUzNUZy1sSTZrU2JnLWdBR2g5UTViWHlUaTUtYXpnaHRqLW5xOF9xaXNsNlQwWHB4cWRyWXFEajJLOWJNWUNJY0xtcXFjOEthT1h6X1N1dG4yUVVKdUpyYU5PdTU2RE51V1ViS19wb2ZJdEtVV3piMzFGQ3lNTUFNeEN0S2hzMnZVZGxZWDcxb3l1N2ZCZlRjUG5mNFo3MVVtcUljTk45TQ?oc=5)
-
----
-
-### [Untreatable migraine cases may drop to 2%, says leading doctor](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RN3BKWDVtV1V6OHVyQ1VHbkg2TGR0MVNKZVcxamdidWdMb251QkFlYUtXX1pUOVN5cmd1VTY4ZUZIS3JLMUlOMFB0NkU0RXM2VDRWMXhNRi1OU1ZL?oc=5)
-
-2026-03-15
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RN3BKWDVtV1V6OHVyQ1VHbkg2TGR0MVNKZVcxamdidWdMb251QkFlYUtXX1pUOVN5cmd1VTY4ZUZIS3JLMUlOMFB0NkU0RXM2VDRWMXhNRi1OU1ZL?oc=5)
 
 ---
 

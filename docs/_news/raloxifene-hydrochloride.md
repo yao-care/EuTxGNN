@@ -42,11 +42,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（5 則）
 
-### ['Race to stop meningitis spreading' and 'Donald's Trumped'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+### [El HUC promueve la salud cardiovascular con un libro interactivo - Canal 4 Tenerife](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2d1SUg1bkR3ZDNVbS11VWY4Y0oyZTU1QXFzd1VjbDNfOFFleS10N0U4TzVZWXRzVWR3NjBQX2dLZDNPOGRwWE5ocTZoMk1McE1GMVlNRFpmNjZYTV95QldBZjVNeDh5cFFsLVpuYmJ0TEJ0WWpOb3FvN0p3cmhwVFpiM3J5NUVzVFZSTGtKeS0yUko2dTloRUpYdw?oc=5)
 
-2026-03-17 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">AF</span>
+2026-03-16 <span class="news-indication-tag">CVA</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uT3IyQ3VpSDFBZDZ6ekRYT3ZpSDZQbWNMUGpjSk8zR182b1dKeXBYVF9xVGhBSGc5NGhFTWZHYjhISThfRHVla09Jc3ZqRlo1ZmdGUlBsV1JqbS01?oc=5)
+來源：[Canal 4 Tenerife](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2d1SUg1bkR3ZDNVbS11VWY4Y0oyZTU1QXFzd1VjbDNfOFFleS10N0U4TzVZWXRzVWR3NjBQX2dLZDNPOGRwWE5ocTZoMk1McE1GMVlNRFpmNjZYTV95QldBZjVNeDh5cFFsLVpuYmJ0TEJ0WWpOb3FvN0p3cmhwVFpiM3J5NUVzVFZSTGtKeS0yUko2dTloRUpYdw?oc=5)
 
 ---
 

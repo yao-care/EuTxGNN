@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Científicos españoles descubren el mecanismo cerebral que adelanta la pubertad en niñas con obesidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXpTWG80VUFMaU16alRZZ2EyVkRCeGpDcWpiRnJTcGk0bnNuZ0tQelppa056TkxLTktUX2M4N1lUb2tQS1p3SjNBcjZObnFLVDN4amI4MndNcnAtbGtrX1dtWjRDbUVuYkdGWUEtY051azNrTlFpZWRKR3hZWTF3V2xUNzVoV1FIVnAwX09XY25Kb3BRakxNbGV1VC13R29sUUVQMFRTTlp4dzZhaUthUElVTHhtMF8tbU42YzYwU3nSAcYBQVVfeXFMUE5KRDFGVzNQUXY2dS0tX2trZjNjMGZXOUpsc0s4cjFCYmFEMy1qOWpwcjRFNWo5VzNrdm0yRUJXVDRqbEMxTzVOS192YU9PckVqRWMzSnJvVXlmOUZsV3ZWQ29XNXhTNVFvUmswSkQzbEM3a1Q0UUJINno2UmRNQUpnYWlVdEF0M1pkWmhWcjFRdUxCYnRld2NJeEQ1YUJyVDR4QkpCakpZTHk1Z3VlbW5BRTVzUlEzWFpIajJ4M2prX1VjX193?oc=5)
 
@@ -79,14 +79,6 @@ permalink: /news/lasmiditan-succinate/
 2026-03-16 <span class="news-indication-tag">obésité</span>
 
 來源：[Le Bien Public](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDUtVmQ2QTBRbnlTbGtLZkY4aGRpbDZTSndWbkdxT2tZbEJHeElHZm00MjZBOU5nUGhmUzNQQ3BlM1dVeXMxamx6aEhlRHd4QTNBalJ5ZDQ3anl3R3Rlb1NWbHdDeDBncThhOWpYbEU3eUlyZHdkbkktYklvRFZyU2FsazIxWXI2Y1lmWGFCNUJCVWtLOGljZ1BWRjJfa1lKTDdXZTFsT3NnR2J2aVk2anJwcFlKRFRpVC1obXE5MEc5X3Z3X1E?oc=5)
-
----
-
-### [Untreatable migraine cases may drop to 2%, says leading doctor](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RN3BKWDVtV1V6OHVyQ1VHbkg2TGR0MVNKZVcxamdidWdMb251QkFlYUtXX1pUOVN5cmd1VTY4ZUZIS3JLMUlOMFB0NkU0RXM2VDRWMXhNRi1OU1ZL?oc=5)
-
-2026-03-15 <span class="news-indication-tag">migraine</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RN3BKWDVtV1V6OHVyQ1VHbkg2TGR0MVNKZVcxamdidWdMb251QkFlYUtXX1pUOVN5cmd1VTY4ZUZIS3JLMUlOMFB0NkU0RXM2VDRWMXhNRi1OU1ZL?oc=5)
 
 ---
 

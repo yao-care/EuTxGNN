@@ -31,7 +31,7 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Mayores y jóvenes ante la Enfermedad de Crohn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWHNDY0pnRUNJQnItYk1yQnNKZ3RpcjNlc2FHVXltMGVzWW1hVElkWmVwRG5kN2Y4V0lnbjJrYlJpN0I0NGFNa2p1RGYwakFPaHh0c0Q0ck1DQW54WGVWM2prcTFueHE2OUVBNTdBS1FFN1dSay01QkFPcEp5N3NYU001T2ZEc2gwLXhnSGZZRVBPNTFOU3JVWThpcWY5eUJkaEFqcHBDc3BEblIzT0Z3NElSdEFqMmQ2Z1Q5cGZZYzA?oc=5)
+### [Mayores y jóvenes presentan tasa similares de recurrencia quirúrgica por Enfermedad de Crohn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWHNDY0pnRUNJQnItYk1yQnNKZ3RpcjNlc2FHVXltMGVzWW1hVElkWmVwRG5kN2Y4V0lnbjJrYlJpN0I0NGFNa2p1RGYwakFPaHh0c0Q0ck1DQW54WGVWM2prcTFueHE2OUVBNTdBS1FFN1dSay01QkFPcEp5N3NYU001T2ZEc2gwLXhnSGZZRVBPNTFOU3JVWThpcWY5eUJkaEFqcHBDc3BEblIzT0Z3NElSdEFqMmQ2Z1Q5cGZZYzA?oc=5)
 
 2026-03-17
 

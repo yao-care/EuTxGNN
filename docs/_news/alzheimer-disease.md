@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [Dementia patients routinely restrained and sedated in NHS hospitals that treat them like prisoners, report reveals - Daily Mail](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcjNBNHVIUGctS0NyUnowRjNTMlFHYlFnQnp4YTdLUlRGWm1kbUhEVVJvNXlkZ0VvSjMzNGVaUHlWVTdwaDhuTUtXVVZuajVLczVsYXZsWWExdzZEaTBzdUxSek9WWkJ1WkIxUUlaZ0plY2daLXhneFUyOVdNZlVOa3JqRDFFYl84elRxTW1PelY3SlFaU2FQY2thbHpValI5WnpSVGc0bl9YeF84TjVTZWMwMmt6akNGeERHd014SXJqTmtGa3p4Rkd2MzVYR0dzQlZZMG01NS03ZGFwMU44UFVGWC1nRTNK0gHuAUFVX3lxTE1RdjRlZmRrUVZ2cHlYalNMeFRuWm9IRzQ2QWcwSmI1VDNEOGlxRDZPNGN6cXZnLUFXSVlfLW5WaEVvbmpyZExpNDQtcTV0dXJWZGIxUzZsc3RJM1BSWTVsMW55UjJDLTVoQTBCYm5nYnZmUEUza0QtY0lWVTdlMVJkRUdmUHR1UFlrdW1idV9wV3ZMeHdpNHJUbmFfMHIzU3hjYnktcVBMOXdFUk5VdDY0eHk2V2JjaVdIYmNxV1QzVVZuR3N3Zkp3UXk3a2E4TkYxcWlzU1BuT29UUjY2Z1NsNTAxNlRkd1JMdTVlYmc?oc=5)
-
-2026-03-16
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcjNBNHVIUGctS0NyUnowRjNTMlFHYlFnQnp4YTdLUlRGWm1kbUhEVVJvNXlkZ0VvSjMzNGVaUHlWVTdwaDhuTUtXVVZuajVLczVsYXZsWWExdzZEaTBzdUxSek9WWkJ1WkIxUUlaZ0plY2daLXhneFUyOVdNZlVOa3JqRDFFYl84elRxTW1PelY3SlFaU2FQY2thbHpValI5WnpSVGc0bl9YeF84TjVTZWMwMmt6akNGeERHd014SXJqTmtGa3p4Rkd2MzVYR0dzQlZZMG01NS03ZGFwMU44UFVGWC1nRTNK0gHuAUFVX3lxTE1RdjRlZmRrUVZ2cHlYalNMeFRuWm9IRzQ2QWcwSmI1VDNEOGlxRDZPNGN6cXZnLUFXSVlfLW5WaEVvbmpyZExpNDQtcTV0dXJWZGIxUzZsc3RJM1BSWTVsMW55UjJDLTVoQTBCYm5nYnZmUEUza0QtY0lWVTdlMVJkRUdmUHR1UFlrdW1idV9wV3ZMeHdpNHJUbmFfMHIzU3hjYnktcVBMOXdFUk5VdDY0eHk2V2JjaVdIYmNxV1QzVVZuR3N3Zkp3UXk3a2E4TkYxcWlzU1BuT29UUjY2Z1NsNTAxNlRkd1JMdTVlYmc?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [The Alzheimer's gut-brain link: How butyrate could curb amyloid-β buildup and inflammation - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRtOUlCWEVlWTZjQ0pta2hrMlNEMWR2S3lUS2dvSWhpWEdteDZESF9FbXJzdjE4b1dVY3NCaS1DV2dNa09PWEpqUUhPQm1FWi1WRElZYXNBMUNseXE4NkdDaEFsNXJnS29IMTk3YlV0dFhEZnZ0TTBNN1FVLTd4blhORQ?oc=5)
 
@@ -62,19 +54,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Experimental drug restores memory loss caused by Alzheimer's disease, defying decades of research](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkVMQUlESGhtdnZfOXJMWlFFcURBbzdRanlGUWdZMXl1SGJRN1NJMWhwT2xHQ1NReUFLR3pQYl9WekFzOGkzREs4VHBBb3A0UURKTnBmM2dYWUhyNVdyNVB1LS1MNzU4QnM3WW40MWZTYkVWLWZEN0JsdGNNUWQ0Y2pQTTl2dlBxdzVNZWV2MC03S2RKaldGRFFpVUdfZ2M?oc=5)
+### [Restraining and sedating dementia patients ‘routine’ in hospitals in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQclRpUnZ3UG1vbG53STlKTnBrM1JIU3B1NmtKSkN2Z1ZBQ2o4RjJQd1VWQ1lSeE5jMzVTQjRVRDdDZmJqWjg2M0VLRXVqbjV5Ul9LZVphT0pmSXNVZGExMzZGdURkbHp4OXZvd1l5U3Y2cWlJYkw4bFFuTGZKc3hyUjFJMmdfV3pQVnlZY3h2QnNLOHNiQ3FZTmE4ZHltT2F2U0lwWG1nOEJ1eEhRcDlBYmkzbWF4VUtJTUZuWV9PUm9wMktJMno3YUxPemR6ZWc?oc=5)
 
 2026-03-15
 
-來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkVMQUlESGhtdnZfOXJMWlFFcURBbzdRanlGUWdZMXl1SGJRN1NJMWhwT2xHQ1NReUFLR3pQYl9WekFzOGkzREs4VHBBb3A0UURKTnBmM2dYWUhyNVdyNVB1LS1MNzU4QnM3WW40MWZTYkVWLWZEN0JsdGNNUWQ0Y2pQTTl2dlBxdzVNZWV2MC03S2RKaldGRFFpVUdfZ2M?oc=5)
-
----
-
-### [BBC doctor gives warning update for Sertraline, Citalopram and Fluoxetine users - Glasgow Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2JMUkZFNG1nZE1Pb0ZjSnVITFUyMGFNX2FLdTRnVHVoLW04MVlXLW9jYjRzVjRNUWpFR2xURDNSUW13V3lfMmtyMHNBRjFUU1FCTzhoV0xrUXl5YVJYX1ByclpseWJ6ZDdHdzF4bXZZaTNXRjlZMExQUXpXaUd5a296M0ZCYjJmdWfSAY8BQVVfeXFMTmJGTVY3MWJuQ1R0aGZpeDRhN2d0emwzTjhkYUZBcUY2VHBMNDhSYTFYWW5ZY1NjZjN1dnpIeWNRTlNYVVVzNkNxZlV3MFlHM3FUU3RidkRnclRBUkVCOGJmN3B3dTdJTXlCam9FQWZYT3BFcVM4LVR6aHNEd2NmTDFGdFRiQkRsN01oZHFUVHM?oc=5)
-
-2026-03-15
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2JMUkZFNG1nZE1Pb0ZjSnVITFUyMGFNX2FLdTRnVHVoLW04MVlXLW9jYjRzVjRNUWpFR2xURDNSUW13V3lfMmtyMHNBRjFUU1FCTzhoV0xrUXl5YVJYX1ByclpseWJ6ZDdHdzF4bXZZaTNXRjlZMExQUXpXaUd5a296M0ZCYjJmdWfSAY8BQVVfeXFMTmJGTVY3MWJuQ1R0aGZpeDRhN2d0emwzTjhkYUZBcUY2VHBMNDhSYTFYWW5ZY1NjZjN1dnpIeWNRTlNYVVVzNkNxZlV3MFlHM3FUU3RidkRnclRBUkVCOGJmN3B3dTdJTXlCam9FQWZYT3BFcVM4LVR6aHNEd2NmTDFGdFRiQkRsN01oZHFUVHM?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQclRpUnZ3UG1vbG53STlKTnBrM1JIU3B1NmtKSkN2Z1ZBQ2o4RjJQd1VWQ1lSeE5jMzVTQjRVRDdDZmJqWjg2M0VLRXVqbjV5Ul9LZVphT0pmSXNVZGExMzZGdURkbHp4OXZvd1l5U3Y2cWlJYkw4bFFuTGZKc3hyUjFJMmdfV3pQVnlZY3h2QnNLOHNiQ3FZTmE4ZHltT2F2U0lwWG1nOEJ1eEhRcDlBYmkzbWF4VUtJTUZuWV9PUm9wMktJMno3YUxPemR6ZWc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ledipasvir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [Los científicos de Harvard coinciden: hacer estas 8 cosas a partir de los 40 años añade 24 años de vida a los hombres y 21 a las mujeres - El HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV0tzdkQyUWpxRU42LWtTcXFDd3A0YTRxTVdCX1BPdWZhV3NEX05pOHIzcUNub1NCYk03RUNmMlB1TUhQeDlJVzV2NW5pcEFwdDByemJtZGlMdDFISkhsb0psWjFJSVhUMzRkQWVBLTZwV3prNkJCX28zai0zU1NIaGo1UmNhcHdrdGNXOE9KUHp1S1dBMndwa2E2WHJMSjZuS3dQUlNUTE9UbkNwQXZrUm9lbHRCNkszSHFfVjJTZ0tQZ08wdnE1UmE4ZEVMdnloME9lY2xVa1lpUdIB7gFBVV95cUxQQ2FpWTlTYXFxQS1lRnJDek5qY0o4MW5RcXBhMS1vX3pMMFNjcWJ5SHAzdVVEUE9kVEEwQkNmQlVzcTF1eWpHaFl0WVBDY2pfRWpoRF9oeXhnZVROSHBCVm9VeXRxdmlwRFVxM19sQmlLQzRMY0phY3lTQ3plQlBqamZ1eGRLeWtjZ19zczBmOExVaHpYS3Uya1JVd1d3SVh3Wmlrd0kwWlBwdFB0eHpldnpaeDNJMFRKT2s0THNJb01CWHlLXzh4cndGX1BZajBqUlBKWmRFQVBjZjJ4bHZWNHdTLXRudnQ5ZHlNNFd3?oc=5)
+### [La enfermedad renal crónica en España aumenta con más de 68.000 personas en tratamiento renal sustitutivo - Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
 
-2026-03-17 <span class="news-indication-tag">MS</span>
+2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">enfermedad renal crónica</span>
 
-來源：[El HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV0tzdkQyUWpxRU42LWtTcXFDd3A0YTRxTVdCX1BPdWZhV3NEX05pOHIzcUNub1NCYk03RUNmMlB1TUhQeDlJVzV2NW5pcEFwdDByemJtZGlMdDFISkhsb0psWjFJSVhUMzRkQWVBLTZwV3prNkJCX28zai0zU1NIaGo1UmNhcHdrdGNXOE9KUHp1S1dBMndwa2E2WHJMSjZuS3dQUlNUTE9UbkNwQXZrUm9lbHRCNkszSHFfVjJTZ0tQZ08wdnE1UmE4ZEVMdnloME9lY2xVa1lpUdIB7gFBVV95cUxQQ2FpWTlTYXFxQS1lRnJDek5qY0o4MW5RcXBhMS1vX3pMMFNjcWJ5SHAzdVVEUE9kVEEwQkNmQlVzcTF1eWpHaFl0WVBDY2pfRWpoRF9oeXhnZVROSHBCVm9VeXRxdmlwRFVxM19sQmlLQzRMY0phY3lTQ3plQlBqamZ1eGRLeWtjZ19zczBmOExVaHpYS3Uya1JVd1d3SVh3Wmlrd0kwWlBwdFB0eHpldnpaeDNJMFRKT2s0THNJb01CWHlLXzh4cndGX1BZajBqUlBKWmRFQVBjZjJ4bHZWNHdTLXRudnQ5ZHlNNFd3?oc=5)
-
----
-
-### [Cannabis is not an effective treatment for common mental health conditions, says review - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmdsOEJZLWkwcGI4NjEtb3Z4aHpHT2tvcnZoWmZzSWpTODVQMFVXeXJBZHVhbVg4V2hIVm1NVmQxNE44R21wRlVQc0NqcmFoVThCdzJoelBEX2dxUDhGWnlLWEprcDJHbHRsZUx4blN5eWVZNG82RW5ENThYNmJwbkxfQXk2b0tZb01YYjlka1hNd2FEOVJWV1Naa1BFM3pjenRJc1hFOHZObXh1OHcxZXg5b1VwQ1AwZGJqQlRNRDl6dw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmdsOEJZLWkwcGI4NjEtb3Z4aHpHT2tvcnZoWmZzSWpTODVQMFVXeXJBZHVhbVg4V2hIVm1NVmQxNE44R21wRlVQc0NqcmFoVThCdzJoelBEX2dxUDhGWnlLWEprcDJHbHRsZUx4blN5eWVZNG82RW5ENThYNmJwbkxfQXk2b0tZb01YYjlka1hNd2FEOVJWV1Naa1BFM3pjenRJc1hFOHZObXh1OHcxZXg5b1VwQ1AwZGJqQlRNRDl6dw?oc=5)
+來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
 
 ---
 
@@ -74,11 +66,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [«Si detectamos precozmente la enfermedad renal, podemos revertirla» - La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
+### [‘I’ve been living under a shadow for 13 years’: life with prostate cancer - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmJIUWZCWWdFcklpUUZiOFYzTDRTaXh6Z1gxeVpOVWpqMDVxOTk1Q0tyelAwYldIb3RrVEc3M1dmelYta0RObDJSdXc4a0N6TmY5cFI2bzBWOFNHZ1U4cWV4bHNjRzNKbldjNFNMMjFSdWdqcjNyOXUycWZZOGs0Y1QyYzU4RXQtS29vLVV3c2J6T1k?oc=5)
 
-2026-03-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[La Tribuna de Talavera](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQVFxd2J6WGZ0V2VndkNHdUdwWk9nMWZiNmxOakJOc0NpNk9jWDhraFM4US1iX0ZJSkROVHF6ZjNxWm85WktaNi1pZVpUSVFWM2RfckR1NGoyZHhjRk4tSDBmYl9HNG1YQlRxc2llLVpXd0RndnllbUNnaWQ5cFdmOFdxZVk4VmVna04zVVViVTdfdEthNWU1a1ltWEFnbXgwSjJ4NTR3T2JEOXlfQ1A1a2pOcGEwbkVrSmUzX2xwRzdWS3R3ZUwyaGw3TnZHenJra1VROVRwN3lCU3hfdnJV?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmJIUWZCWWdFcklpUUZiOFYzTDRTaXh6Z1gxeVpOVWpqMDVxOTk1Q0tyelAwYldIb3RrVEc3M1dmelYta0RObDJSdXc4a0N6TmY5cFI2bzBWOFNHZ1U4cWV4bHNjRzNKbldjNFNMMjFSdWdqcjNyOXUycWZZOGs0Y1QyYzU4RXQtS29vLVV3c2J6T1k?oc=5)
 
 ---
 
@@ -95,14 +87,6 @@ permalink: /news/ledipasvir/
 2026-03-15 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmNnbG05VWpFWWxVdHBzSkViMmhMb01ZRW1Pdm50TVNGTmdvaFRncXdyR2NxeGNuREV6cHBpZDBCZXZSaGZ6RnpEUmJqTXdVMXhUamotMEFjb3FjblYwazU4SkszSnB5eTBCTHRHbk9oMlZZV3pzc3FNTnVTdk5Oejl2MnR0RlprRTEyVHpxVVQ?oc=5)
-
----
-
-### [Scientists tested vitamin D for COVID and found an unexpected long COVID clue](https://news.google.com/rss/articles/CBMib0FVX3lxTFBCZGg4R2t4VnFVY1NlQ1RiRmFlSzFmUXVSdVBDTHhuUlFQcXB5aFFiVnZCVTU5OThiNnBHSExDRGJld25EcFZfczVmWjBBTHkxeTluaWNEZ29GZzVCNE9Yc2tOdjloZVlTd3dTZ0dEdw?oc=5)
-
-2026-03-15 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBCZGg4R2t4VnFVY1NlQ1RiRmFlSzFmUXVSdVBDTHhuUlFQcXB5aFFiVnZCVTU5OThiNnBHSExDRGJld25EcFZfczVmWjBBTHkxeTluaWNEZ29GZzVCNE9Yc2tOdjloZVlTd3dTZ0dEdw?oc=5)
 
 ---
 
