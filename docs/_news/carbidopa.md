@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carbidopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,37 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [The Alzheimer's gut-brain link: How butyrate could curb amyloid-β buildup and inflammation - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRtOUlCWEVlWTZjQ0pta2hrMlNEMWR2S3lUS2dvSWhpWEdteDZESF9FbXJzdjE4b1dVY3NCaS1DV2dNa09PWEpqUUhPQm1FWi1WRElZYXNBMUNseXE4NkdDaEFsNXJnS29IMTk3YlV0dFhEZnZ0TTBNN1FVLTd4blhORQ?oc=5)
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
-2026-03-16 <span class="news-indication-tag">Alzheimer's</span>
+2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRtOUlCWEVlWTZjQ0pta2hrMlNEMWR2S3lUS2dvSWhpWEdteDZESF9FbXJzdjE4b1dVY3NCaS1DV2dNa09PWEpqUUhPQm1FWi1WRElZYXNBMUNseXE4NkdDaEFsNXJnS29IMTk3YlV0dFhEZnZ0TTBNN1FVLTd4blhORQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 ---
 
-### [Plastic bottles recycled to make Parkinson’s disease drug - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkxYYURTQkY4cUtmNHBGczB5QzhtM0VZOVFaZkM1SXBSaEVBcUFyTE9ZQUxhczZtOEV4dlRnV0RhTGZkYVF4ZTRERlBPVEh4UnR3MUZlTk5lYUFsdVNVVjR5MTliUko2Vm1NNXJMMlRBQ2JvSVFoSGdYei1QSGRtVldWcEo3Y21NM29kTGxR?oc=5)
+### [Plastic bottles transformed into Parkinson's drug using bacteria](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QM2JTYWVUU21ISEpvcmhhYWt4MGE0M0xsZjRuNk4xT3FXMWZjSWJRb0dlckxIdkFleEkxdHY4SUE3RzFNX3hIVDBEaEI0endQYVNSMVAxOW5yT2FabmZOcURuSUlvZk9fZHhrVHVuMGFSaHBNaU95MFJMT3BxcWs?oc=5)
 
 2026-03-16 <span class="news-drug-tag">Levodopa</span> <span class="news-indication-tag">Parkinson's</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkxYYURTQkY4cUtmNHBGczB5QzhtM0VZOVFaZkM1SXBSaEVBcUFyTE9ZQUxhczZtOEV4dlRnV0RhTGZkYVF4ZTRERlBPVEh4UnR3MUZlTk5lYUFsdVNVVjR5MTliUko2Vm1NNXJMMlRBQ2JvSVFoSGdYei1QSGRtVldWcEo3Y21NM29kTGxR?oc=5)
+來源：[Phys.org](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QM2JTYWVUU21ISEpvcmhhYWt4MGE0M0xsZjRuNk4xT3FXMWZjSWJRb0dlckxIdkFleEkxdHY4SUE3RzFNX3hIVDBEaEI0endQYVNSMVAxOW5yT2FabmZOcURuSUlvZk9fZHhrVHVuMGFSaHBNaU95MFJMT3BxcWs?oc=5)
 
 ---
 
-### [Restraining and sedating dementia patients ‘routine’ in hospitals in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQclRpUnZ3UG1vbG53STlKTnBrM1JIU3B1NmtKSkN2Z1ZBQ2o4RjJQd1VWQ1lSeE5jMzVTQjRVRDdDZmJqWjg2M0VLRXVqbjV5Ul9LZVphT0pmSXNVZGExMzZGdURkbHp4OXZvd1l5U3Y2cWlJYkw4bFFuTGZKc3hyUjFJMmdfV3pQVnlZY3h2QnNLOHNiQ3FZTmE4ZHltT2F2U0lwWG1nOEJ1eEhRcDlBYmkzbWF4VUtJTUZuWV9PUm9wMktJMno3YUxPemR6ZWc?oc=5)
+### [Major Parkinson's Study Reveals Symptom Differences in Men And Women](https://news.google.com/rss/articles/CBMinAFBVV95cUxOblo5WGxXV1RwVV9VTEUydVVtaXZkQVlfTnFESVdoaUJuaFU2aUdKOW1heFdnXzlOQU15WEVEX1lqLUQ5MmtpZ0tmX0Q0RnVsd2RaVkJIQmhWTUg4XzhDTW5IbGk1VlZpYzZnb0F0SlZPUDZzVmRWNFYyY2NtWlJKcnZ4QlAtQ1A4NHhkRWdIY2JLSEQ1Y0cyRzBhdGM?oc=5)
+
+2026-03-16 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxOblo5WGxXV1RwVV9VTEUydVVtaXZkQVlfTnFESVdoaUJuaFU2aUdKOW1heFdnXzlOQU15WEVEX1lqLUQ5MmtpZ0tmX0Q0RnVsd2RaVkJIQmhWTUg4XzhDTW5IbGk1VlZpYzZnb0F0SlZPUDZzVmRWNFYyY2NtWlJKcnZ4QlAtQ1A4NHhkRWdIY2JLSEQ1Y0cyRzBhdGM?oc=5)
+
+---
+
+### [‘NHS hospital secretly sedated me and wouldn't let me leave my bed for a week’ - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJaVE14SzdWYTZOdGZubjNPb0daV2VnalQ0SEk0eFRNdTNZYURnU2hlT1JkTjg4cHJzNGRzVU53N0E5eURBOWhTRUMwWEhYQW1YdXhxRi1xV2xITjBFUUN1NHlibkkyeG03QXp2Ui11MEwzVUdneEtqT1dsNmNPb1RFeUNIY0lWYV9n0gGQAUFVX3lxTE9fdFRkV3hxM0NjMFRUUWs3dW1nOVZiaW13bFRjUWJkcWlBWWRHR29uYjZ1TXJNWWYzVmhnd29yQ2kzSHVoOG8xRjR1RFR0cGRoaWF6b2poSXA3UmtqaXNwZmVBd1FIbzI2azRLbU9jVnBWQTkxUDl1cGQ0YmlJUDd6RjRrdVBtX2xReXpSc18wSA?oc=5)
 
 2026-03-15 <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQclRpUnZ3UG1vbG53STlKTnBrM1JIU3B1NmtKSkN2Z1ZBQ2o4RjJQd1VWQ1lSeE5jMzVTQjRVRDdDZmJqWjg2M0VLRXVqbjV5Ul9LZVphT0pmSXNVZGExMzZGdURkbHp4OXZvd1l5U3Y2cWlJYkw4bFFuTGZKc3hyUjFJMmdfV3pQVnlZY3h2QnNLOHNiQ3FZTmE4ZHltT2F2U0lwWG1nOEJ1eEhRcDlBYmkzbWF4VUtJTUZuWV9PUm9wMktJMno3YUxPemR6ZWc?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJaVE14SzdWYTZOdGZubjNPb0daV2VnalQ0SEk0eFRNdTNZYURnU2hlT1JkTjg4cHJzNGRzVU53N0E5eURBOWhTRUMwWEhYQW1YdXhxRi1xV2xITjBFUUN1NHlibkkyeG03QXp2Ui11MEwzVUdneEtqT1dsNmNPb1RFeUNIY0lWYV9n0gGQAUFVX3lxTE9fdFRkV3hxM0NjMFRUUWs3dW1nOVZiaW13bFRjUWJkcWlBWWRHR29uYjZ1TXJNWWYzVmhnd29yQ2kzSHVoOG8xRjR1RFR0cGRoaWF6b2poSXA3UmtqaXNwZmVBd1FIbzI2azRLbU9jVnBWQTkxUDl1cGQ0YmlJUDd6RjRrdVBtX2xReXpSc18wSA?oc=5)
 
 ---
 

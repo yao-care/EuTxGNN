@@ -14,7 +14,7 @@ permalink: /news/brigatinib/
 ---
 
 <p class="key-answer" data-question="Brigatinib 有什麼相關新聞？">
-<strong>Brigatinib</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brigatinib</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/brigatinib/
 <p><a href="{{ '/drugs/brigatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（30 則）
+
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+---
 
 ### [Grippe und Covid-19 können Risiko für Lungenkrebs erhöhen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOEJpRmczUE5KUEY2WHF2UXdTWG8zRHM3cUc2c2puSWZOcDhoSVY3bm9ZQmVreWVEOFhuWEpTWDB5bG9IQUxFc2lsY2xVTmxaWjVBSUY3dlNodXFJcEpSak1MR2w0VUxyTUJzQW5ycTV1Q2czRnp5Uk1lU1B1aWlzU3lYVS1CSFBFUWk2MW5XemZzTk5BOTY3c21jd2dWdFk2cGRRaWRjcUJSMW1JQkFBaWR0N3RoZHBwdFNDNmhYSEFzcUI3UTRSZHlhX1kzbGRwNXlFYjJGcEdzc3BocTdOY1p1ekZXR3pLS0YtNDVPWEc?oc=5)
 
@@ -50,11 +58,11 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Dopo un tumore della pelle muoversi può aiutare a vivere più a lungo? La scienza dice «sì» - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVU1amdWTEhRQXlyaHZ2VDZTSkh0TlJQUVUtRWJWLURNNWFITTVSSjVyUmlqVS1EVENGaHR4RnUtRzlMMWZaaElNdTBJOFdUYV81YU0zM2d3UzlNV3FHOHBCWmFBcGxFdHhRRjVRQUFycTQ1Ykk5dDEwTmVfa1owX05jbUJDTVVEUEFFcTVYQ2VBWkRuVnB1NnNsdEQ2THlnWjJqZUlueVZaR2liMkZXcGpR?oc=5)
+### [Un estudio propone un modelo "más complejo" del cáncer basado en los ecosistemas tumorales](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZlFIT1B0bC1xdVRkUEM0X0FNMW5FNnZ1d2lETGZnYkMtYmwxci1tUl9ZS1VSaFRxajNqOWVhclBKc19vaGNHZUpiMUxaT0NKTFZkTDVRQW1mZ3ZJLURvckctdGlJaW9OeE1kWG84WHMwMGV1a2hadVlnVjlDNVE5RVhFQmF1cU51OVhMeFJGNjBudlctNWhoRHFmSzlVcGZROTJwbVctYmRyLVRRVFlUc2ZwS29IOU9yTHNXa05HbWlCWHV0b0p2RG41M3RRLUdUVU1CWm1xUFZrR09lMHc?oc=5)
 
 2026-03-17 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVU1amdWTEhRQXlyaHZ2VDZTSkh0TlJQUVUtRWJWLURNNWFITTVSSjVyUmlqVS1EVENGaHR4RnUtRzlMMWZaaElNdTBJOFdUYV81YU0zM2d3UzlNV3FHOHBCWmFBcGxFdHhRRjVRQUFycTQ1Ykk5dDEwTmVfa1owX05jbUJDTVVEUEFFcTVYQ2VBWkRuVnB1NnNsdEQ2THlnWjJqZUlueVZaR2liMkZXcGpR?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZlFIT1B0bC1xdVRkUEM0X0FNMW5FNnZ1d2lETGZnYkMtYmwxci1tUl9ZS1VSaFRxajNqOWVhclBKc19vaGNHZUpiMUxaT0NKTFZkTDVRQW1mZ3ZJLURvckctdGlJaW9OeE1kWG84WHMwMGV1a2hadVlnVjlDNVE5RVhFQmF1cU51OVhMeFJGNjBudlctNWhoRHFmSzlVcGZROTJwbVctYmRyLVRRVFlUc2ZwS29IOU9yTHNXa05HbWlCWHV0b0p2RG41M3RRLUdUVU1CWm1xUFZrR09lMHc?oc=5)
 
 ---
 
@@ -79,14 +87,6 @@ permalink: /news/brigatinib/
 2026-03-17 <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdS1GVE9rS182anEyZFQ4UVdrT2p4RkFUVEtCb244Q2J2S3Ixd2tLVkx2Z0hGbVZLaVhSR0xIUF9qTFkxOWM2blVQMXUwaHdKN3VmeGtoT0ptWXNYX2d3TXExWVp0VnFjWk95WUFQMkNONjF6cjhoaGdYaVNaMVpoZURjQUNIem9JdWJhM2hWTElWNHM5ZGtZblM2U2JKVnc?oc=5)
-
----
-
-### [Los ecosistemas dinámicos de características tumorales, una nueva forma de entender el cáncer - Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcU91dXptZUUzTUJMemZCSDRrYU9URm1QazhKNk1aUllEVVRIX3NSRm5RajBxY21uc1liWXFsTnh6bWN3Zmt3VDgtcUhpT1VSUzVITzF0RDhWckFnbi1xVjZvSzJscVdnUzg4OHRoa25ZbzAxdFdYaTZzLTRmSHFBSjJ5TG5GdUt2bmZPckJsUV8xaG4wODN3bmpMYVlIQ3NnVVNYdXUzLXhDcXNxUWxWbWVMajdNUQ?oc=5)
-
-2026-03-17 <span class="news-indication-tag">tumor</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcU91dXptZUUzTUJMemZCSDRrYU9URm1QazhKNk1aUllEVVRIX3NSRm5RajBxY21uc1liWXFsTnh6bWN3Zmt3VDgtcUhpT1VSUzVITzF0RDhWckFnbi1xVjZvSzJscVdnUzg4OHRoa25ZbzAxdFdYaTZzLTRmSHFBSjJ5TG5GdUt2bmZPckJsUV8xaG4wODN3bmpMYVlIQ3NnVVNYdXUzLXhDcXNxUWxWbWVMajdNUQ?oc=5)
 
 ---
 
@@ -122,6 +122,14 @@ permalink: /news/brigatinib/
 
 ---
 
+### [Nanocipolle di carbonio per combattere il cancro - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTAtNmFHOFE3NjlyT241S1c5MFpQUEk4WkNFdlZzVE9jQ2E3REdrVjRJM2UzT2NCSzdVOHRxT1MtUWZIMmZTa1QxYUZVS1ZBQmcwYzdhUDd3U2VYSURVcUUybDczc0JCZGFyb211N2VreVVucDRueGZNUU5pdEMwZ0JXVEhISDVHcGl1bzYxamVOTF84V2xIbFlpUGRBbTcxcWtYYWxTX3l6ME9nSXlaZnE3bjFmcDA?oc=5)
+
+2026-03-17 <span class="news-indication-tag">cancro</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTAtNmFHOFE3NjlyT241S1c5MFpQUEk4WkNFdlZzVE9jQ2E3REdrVjRJM2UzT2NCSzdVOHRxT1MtUWZIMmZTa1QxYUZVS1ZBQmcwYzdhUDd3U2VYSURVcUUybDczc0JCZGFyb211N2VreVVucDRueGZNUU5pdEMwZ0JXVEhISDVHcGl1bzYxamVOTF84V2xIbFlpUGRBbTcxcWtYYWxTX3l6ME9nSXlaZnE3bjFmcDA?oc=5)
+
+---
+
 ### [Tumore al seno, in rete tre eccellenze del Sud: «Ora cure vicino a casa» - Il Mattino](https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2hBWlZjQnh0UmVZTzQ2c1ExZVdwTjdtQXpaZ0UtaGhPQVI5WjRFUkFiR0Q4NHI0WFNySndGU2FFSU1mOTF0bTNsMXpSaEtvVUFreGxlQzU2eG5mdGFCUUxKZ0Vybjk0ZEFhTnZZdV96a2NFd0hPbThDMktFQWh6WnVjU2dlU1NiOEJWVnFR?oc=5)
 
 2026-03-16 <span class="news-indication-tag">tumor</span>
@@ -146,11 +154,35 @@ permalink: /news/brigatinib/
 
 ---
 
+### [The shot that could stop cancer before it begins – and why getting it early matters - The Conversation](https://news.google.com/rss/articles/CBMitwFBVV95cUxORkkzYmVRcUVpcEVqcnVHT1MzcDdIbzItaVJmR1JaUTZMbDEyRGVsN19FSGozcHZQSlBlR1hlOEVfSE1kX2kxSWZXVmlUNm5BcTNNeXBVVEFlOWgtd2Q3b2d6RWVEZFZGd2NKTXZoOXdUbFl5NWFnZGozQVU4RHE4bV9Bcm1wOFhodE1oM01kWXBZSTloSV9QMXhvLXgwTDl4WFdLRUc0ZHVLaDRqNkpLYnkzeEZTM28?oc=5)
+
+2026-03-16 <span class="news-indication-tag">cancer</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMitwFBVV95cUxORkkzYmVRcUVpcEVqcnVHT1MzcDdIbzItaVJmR1JaUTZMbDEyRGVsN19FSGozcHZQSlBlR1hlOEVfSE1kX2kxSWZXVmlUNm5BcTNNeXBVVEFlOWgtd2Q3b2d6RWVEZFZGd2NKTXZoOXdUbFl5NWFnZGozQVU4RHE4bV9Bcm1wOFhodE1oM01kWXBZSTloSV9QMXhvLXgwTDl4WFdLRUc0ZHVLaDRqNkpLYnkzeEZTM28?oc=5)
+
+---
+
+### [One in 10 A&E patients with common bladder cancer symptom DIE within 3 months - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXYwcTZrWF9ySnZyeklkc0JGaE5idU1SS3dxdGVOSU5DZGZsVnZnZmhib3JpcW1QYmRodlVURWNSU3g0Mmpoc0dzTVQxbXBmRHFtdmdoWEYtT09yYjNQT1plOHFMWlcxX3pPRlJvQ2VKeGVBSDhyVHdES01LWk5ESTJJMXpTZDc5eW9hejlMNUpxRVE?oc=5)
+
+2026-03-16 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXYwcTZrWF9ySnZyeklkc0JGaE5idU1SS3dxdGVOSU5DZGZsVnZnZmhib3JpcW1QYmRodlVURWNSU3g0Mmpoc0dzTVQxbXBmRHFtdmdoWEYtT09yYjNQT1plOHFMWlcxX3pPRlJvQ2VKeGVBSDhyVHdES01LWk5ESTJJMXpTZDc5eW9hejlMNUpxRVE?oc=5)
+
+---
+
 ### [Il nemico silenzioso: la corsa contro il tumore del pancreas](https://news.google.com/rss/articles/CBMikAFBVV95cUxPajc3YzhVUkFGT2QxS21xLVhLTWo3TVFudzhOZ1Q5XzJtXy1YLXdCTzZRWXdTSzc4STFnS0xRcHI0Tjd6bGs2bGRfMkExWDVuSjFTNXVPbVhSTHJ0dGNRQVNxWlR2M2JFUmk0ZDBUZ2tLVkRHejAwNjVMWTFKSFBTZnQ4aVUtX21jcVg0bUpFMWo?oc=5)
 
 2026-03-16 <span class="news-indication-tag">tumor</span>
 
 來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMikAFBVV95cUxPajc3YzhVUkFGT2QxS21xLVhLTWo3TVFudzhOZ1Q5XzJtXy1YLXdCTzZRWXdTSzc4STFnS0xRcHI0Tjd6bGs2bGRfMkExWDVuSjFTNXVPbVhSTHJ0dGNRQVNxWlR2M2JFUmk0ZDBUZ2tLVkRHejAwNjVMWTFKSFBTZnQ4aVUtX21jcVg0bUpFMWo?oc=5)
+
+---
+
+### [Un descubrimiento científico abre nuevas vías para frenar la metástasis del cáncer de colon - Antena 3](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUdCWGc2VWl0a2l3QzZ4MnlaV2ZxMVpvRFlzc3hraVR3TmxGY1JLVllMR05Gb2RDVWtVVTIxV1d3ZTB0UC1nbV9WNVJwZFhCbnpsTVExb1F0bVFDLUFRSDQzeml3NHpCOEtHVG1WX3hyY2FKZ0F6eUIxTXIxWkxvR3FvYzQtaGxIbC1uaDROTkpjbmU0ZHJRaFh0cE9IamxBNFI0RVFURTBNa0xSTTBPdEJ2cE14cTV2bHJWNEVkQTh2S0c1RmxQYUVGZW4yc183bmRQdDZHZXFrTE0ybjViSHBMTlHSAeQBQVVfeXFMTVJacV9yRno4cEZrNnVFMU5YYi1tdTRmaURRZm41dDVRa3JmdmRVd3phODlVcVlFUDZYeFd4S1UzS2UtZDZfMC1vTDEtVWdJWnRRWFlMenhNREF0Ty1KbWdzblFxeE9WeWJERWF1MHVhZ0dOZkpldllveTZxVDhpc3FxT09aWW1GQ3VRNkJjY3JmM1NiTEhmYUVlMVJxT1FMVVo5Qk4ya3psOXpkbmZhN3NsdE9XTENrbWhxVktHVGQxUHZfaFROaWVmN2x1QUJxZkxfb2VYMy1QVWdDNE9EM1otU3hV?oc=5)
+
+2026-03-16 <span class="news-indication-tag">tumor</span>
+
+來源：[Antena 3](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUdCWGc2VWl0a2l3QzZ4MnlaV2ZxMVpvRFlzc3hraVR3TmxGY1JLVllMR05Gb2RDVWtVVTIxV1d3ZTB0UC1nbV9WNVJwZFhCbnpsTVExb1F0bVFDLUFRSDQzeml3NHpCOEtHVG1WX3hyY2FKZ0F6eUIxTXIxWkxvR3FvYzQtaGxIbC1uaDROTkpjbmU0ZHJRaFh0cE9IamxBNFI0RVFURTBNa0xSTTBPdEJ2cE14cTV2bHJWNEVkQTh2S0c1RmxQYUVGZW4yc183bmRQdDZHZXFrTE0ybjViSHBMTlHSAeQBQVVfeXFMTVJacV9yRno4cEZrNnVFMU5YYi1tdTRmaURRZm41dDVRa3JmdmRVd3phODlVcVlFUDZYeFd4S1UzS2UtZDZfMC1vTDEtVWdJWnRRWFlMenhNREF0Ty1KbWdzblFxeE9WeWJERWF1MHVhZ0dOZkpldllveTZxVDhpc3FxT09aWW1GQ3VRNkJjY3JmM1NiTEhmYUVlMVJxT1FMVVo5Qk4ya3psOXpkbmZhN3NsdE9XTENrbWhxVktHVGQxUHZfaFROaWVmN2x1QUJxZkxfb2VYMy1QVWdDNE9EM1otU3hV?oc=5)
 
 ---
 
@@ -162,11 +194,11 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Severe COVID-19 linked to 24% higher risk of one killer cancer](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
+### [Severe COVID-19 linked to 24% higher risk of one killer cancer - Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">cancer</span>
 
-來源：[Express.co.uk](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FwaGxHN3YzUFpyaVBib1hMREgzMXROR0Q1MGd1b19CSTNDekdTUGljWVpWbi1iV1A4RVhJQjhXYnRYWnFHSktFRlNzdHA5ZEhmMjJHdE5KTXlkQXNlX0NBTFVKT0lzbnVKS3daUHZLQTA1d1NCell6Q19aa2FKc3N5NzRsQV9UWDVPbTYzNTBreFZ4ZTl2d1h2VUkwUdIBowFBVV95cUxOZ0pYT3hxMkxWalFxSlIzNENiT211Z1p5NXdEWkxUekdhUjItOU00WW1fd2tEUGJVOGZmUjBqZURaTGJGdkNvOUtYdmZkS1N3eFQxSFdFVGlBSlJ6NXdZN3QyNWwwOHQtNjdFUENZNGh1X29JWEU3TXRpRERlQ1VOZ2N0Rk5sYmJIOUtfTThHd2pWZDBjLVczOEMzclZiSFAtTjQw?oc=5)
 
 ---
 
@@ -175,14 +207,6 @@ permalink: /news/brigatinib/
 2026-03-16 <span class="news-indication-tag">tumor</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVkRUYmpnRTR4Q0U3Y1VxSHA5R3F2N2QxWjFDZi1NLVZ3YTl4MHZyVkIzcm9GdTZHa0F1RW1XdndEc2pLNkluR0IzeXp4VU1xSk9uYW1WWmlfY0hWcDV6SDhxS2xKM1VfVm9hTUpOYlJwalRGaUpsdXhaNlhZaEVweThmVXdRSmJ6aGVpMVlsbWNWS1FEa3c4MWtERGZMMXFTZ2hocGQtUTBuX25xNTVCRmFndkZlQWwyX1M3akdFUG1xSmItUUpfLVBSbUJOdlpHZVNHdjFXSVhFNldNNnNkR3ZBV1NKQ1VQd0pLUThILXI?oc=5)
-
----
-
-### [The Alzheimer's gut-brain link: How butyrate could curb amyloid-β buildup and inflammation - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRtOUlCWEVlWTZjQ0pta2hrMlNEMWR2S3lUS2dvSWhpWEdteDZESF9FbXJzdjE4b1dVY3NCaS1DV2dNa09PWEpqUUhPQm1FWi1WRElZYXNBMUNseXE4NkdDaEFsNXJnS29IMTk3YlV0dFhEZnZ0TTBNN1FVLTd4blhORQ?oc=5)
-
-2026-03-16 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRtOUlCWEVlWTZjQ0pta2hrMlNEMWR2S3lUS2dvSWhpWEdteDZESF9FbXJzdjE4b1dVY3NCaS1DV2dNa09PWEpqUUhPQm1FWi1WRElZYXNBMUNseXE4NkdDaEFsNXJnS29IMTk3YlV0dFhEZnZ0TTBNN1FVLTd4blhORQ?oc=5)
 
 ---
 
@@ -220,7 +244,7 @@ permalink: /news/brigatinib/
 
 ### [5 key bowel cancer signs to never ignore - Yahoo Life UK](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWmpVYW5FZklSZmkyY1FQZmlYdkZPeV9DYnhRZEROWE96WHVuMXd6MlM2bHpXRmZINTByVUpyNVRjLS03UGI3OElLTTMyMWg0bXF2RjV5N2NjRXdUbms1dFRhb2duUmFKRXdva0tpM2o5SHpk?oc=5)
 
-2026-03-16 <span class="news-indication-tag">cancer</span>
+2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWmpVYW5FZklSZmkyY1FQZmlYdkZPeV9DYnhRZEROWE96WHVuMXd6MlM2bHpXRmZINTByVUpyNVRjLS03UGI3OElLTTMyMWg0bXF2RjV5N2NjRXdUbms1dFRhb2duUmFKRXdva0tpM2o5SHpk?oc=5)
 
@@ -234,27 +258,11 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Nicht nur HPV kann Genitalkrebs auslösen - PULS 24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXFCSjBta3YtOWMzM2xKZHA0WENDUU5vYjF4dUptdWNaVGl0UGZoWFlJc21VeWdieUhSOE1nNm9hSnFIeVVzeFVkQkxhTk1jWU5IWTVJS0EzNVU0bzZfN2JGb28wSGpqZW5rTUs0cVBqYjhob042RmZmV2tpVUxHLUMzZVhRblZrTjhz?oc=5)
-
-2026-03-16 <span class="news-indication-tag">tumor</span>
-
-來源：[PULS 24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXFCSjBta3YtOWMzM2xKZHA0WENDUU5vYjF4dUptdWNaVGl0UGZoWFlJc21VeWdieUhSOE1nNm9hSnFIeVVzeFVkQkxhTk1jWU5IWTVJS0EzNVU0bzZfN2JGb28wSGpqZW5rTUs0cVBqYjhob042RmZmV2tpVUxHLUMzZVhRblZrTjhz?oc=5)
-
----
-
 ### ['Devastated' husband issues warning about 'indiscriminate' cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTVVjeENVUTdDQWFfRi11OVpzUWJUYi1zQWQtRlBINnFpQTlXbG9iQ2liNk1MbkxhdkhORlNRMFNSRk5xLTdJNWM0OFl4WnhkaGhXcWYwYWp5NmNG?oc=5)
 
 2026-03-16 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTVVjeENVUTdDQWFfRi11OVpzUWJUYi1zQWQtRlBINnFpQTlXbG9iQ2liNk1MbkxhdkhORlNRMFNSRk5xLTdJNWM0OFl4WnhkaGhXcWYwYWp5NmNG?oc=5)
-
----
-
-### [Blood in urine can be a fatal warning sign - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkVvTDVIYjJuaDF4V3FOZU5OVm5Rbm41a0V0cVpPX3hTQmNjQ0ZNV0Q0blU1SDUtNUdjYmlORHZUSkM1ZjFyRkV6ekQ4eHNLWDJYeE5lUzFZZWFiUkhWUEtoOTlSbHQ3TEo4QmZtOXZBYy1MLUJhM21sMm1qTE5jTVNzX0k0SDJncFVzdlZoRS1McGRaSGRYQVRLSkxGbnpOSVE?oc=5)
-
-2026-03-16 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkVvTDVIYjJuaDF4V3FOZU5OVm5Rbm41a0V0cVpPX3hTQmNjQ0ZNV0Q0blU1SDUtNUdjYmlORHZUSkM1ZjFyRkV6ekQ4eHNLWDJYeE5lUzFZZWFiUkhWUEtoOTlSbHQ3TEo4QmZtOXZBYy1MLUJhM21sMm1qTE5jTVNzX0k0SDJncFVzdlZoRS1McGRaSGRYQVRLSkxGbnpOSVE?oc=5)
 
 ---
 
@@ -266,11 +274,11 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Restraining and sedating dementia patients ‘routine’ in hospitals in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQclRpUnZ3UG1vbG53STlKTnBrM1JIU3B1NmtKSkN2Z1ZBQ2o4RjJQd1VWQ1lSeE5jMzVTQjRVRDdDZmJqWjg2M0VLRXVqbjV5Ul9LZVphT0pmSXNVZGExMzZGdURkbHp4OXZvd1l5U3Y2cWlJYkw4bFFuTGZKc3hyUjFJMmdfV3pQVnlZY3h2QnNLOHNiQ3FZTmE4ZHltT2F2U0lwWG1nOEJ1eEhRcDlBYmkzbWF4VUtJTUZuWV9PUm9wMktJMno3YUxPemR6ZWc?oc=5)
+### [‘NHS hospital secretly sedated me and wouldn't let me leave my bed for a week’ - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJaVE14SzdWYTZOdGZubjNPb0daV2VnalQ0SEk0eFRNdTNZYURnU2hlT1JkTjg4cHJzNGRzVU53N0E5eURBOWhTRUMwWEhYQW1YdXhxRi1xV2xITjBFUUN1NHlibkkyeG03QXp2Ui11MEwzVUdneEtqT1dsNmNPb1RFeUNIY0lWYV9n0gGQAUFVX3lxTE9fdFRkV3hxM0NjMFRUUWs3dW1nOVZiaW13bFRjUWJkcWlBWWRHR29uYjZ1TXJNWWYzVmhnd29yQ2kzSHVoOG8xRjR1RFR0cGRoaWF6b2poSXA3UmtqaXNwZmVBd1FIbzI2azRLbU9jVnBWQTkxUDl1cGQ0YmlJUDd6RjRrdVBtX2xReXpSc18wSA?oc=5)
 
 2026-03-15 <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQclRpUnZ3UG1vbG53STlKTnBrM1JIU3B1NmtKSkN2Z1ZBQ2o4RjJQd1VWQ1lSeE5jMzVTQjRVRDdDZmJqWjg2M0VLRXVqbjV5Ul9LZVphT0pmSXNVZGExMzZGdURkbHp4OXZvd1l5U3Y2cWlJYkw4bFFuTGZKc3hyUjFJMmdfV3pQVnlZY3h2QnNLOHNiQ3FZTmE4ZHltT2F2U0lwWG1nOEJ1eEhRcDlBYmkzbWF4VUtJTUZuWV9PUm9wMktJMno3YUxPemR6ZWc?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJaVE14SzdWYTZOdGZubjNPb0daV2VnalQ0SEk0eFRNdTNZYURnU2hlT1JkTjg4cHJzNGRzVU53N0E5eURBOWhTRUMwWEhYQW1YdXhxRi1xV2xITjBFUUN1NHlibkkyeG03QXp2Ui11MEwzVUdneEtqT1dsNmNPb1RFeUNIY0lWYV9n0gGQAUFVX3lxTE9fdFRkV3hxM0NjMFRUUWs3dW1nOVZiaW13bFRjUWJkcWlBWWRHR29uYjZ1TXJNWWYzVmhnd29yQ2kzSHVoOG8xRjR1RFR0cGRoaWF6b2poSXA3UmtqaXNwZmVBd1FIbzI2azRLbU9jVnBWQTkxUDl1cGQ0YmlJUDd6RjRrdVBtX2xReXpSc18wSA?oc=5)
 
 ---
 

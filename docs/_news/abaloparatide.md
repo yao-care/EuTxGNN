@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abaloparatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [ATTD: de los datos de glucosa a los insights de IA -- una nueva dirección en el manejo de la diabetes - Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
 
@@ -50,11 +50,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+### [Data from smart watches reveal early signs of insulin resistance](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
 
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
 
 ---
 
@@ -71,14 +71,6 @@ permalink: /news/abaloparatide/
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTgwR3ZPYUttdnE0WUhHdkdHZEZsTDJ5UUZacTNqc19xb1ZNeWNiVVpLQlA1dXdJR2k2dkFDVzdxVW55YnhkeWRUalFzQ21yUTV6N3FmVnhZX0YwTFg2Yk9sQjJpZjFPd1NIRkVnclRMblVtdF9ud2FsT3NXTWpLZlp0NVgtS3FZN1RFdS1DOTJ5VmJJR0JnNHpiZlpfTDVjN1Jlek85bWpCZVZmTWpINTc4cGVtUWQzZXAtUk9xSHQ0UQ?oc=5)
-
----
-
-### [CEFABOX 2026 muestra la hoja de ruta para frenar la migraña antes de que se cronifique - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2Z6aGZsT0ZkZlFaV0ZadjhEemQ4dTZlUXNFWEtTOVAyVm1zMWFLUVRzWnh0WC1fS2wzeGJwaloyNHdzeVlKdEowZ0lPLTE2OG11bGNTRllUclcxUXlmcVFPTThDVEdLNlRPM1lIRUllUG5CdDY4T2RrMlJFSGpkSXEteDhnV0lXVEJoa2Nrc3JlOV9zRXdyN3ZzWVdzNGNIcGpRZVNoVEtnWU9uSkdEMGxPSjhzNi1nUDdSWDRGNDTSAbsBQVVfeXFMTk9seVR1ZWlyWlhJc3BwYldCdEdGUzNUZy1sSTZrU2JnLWdBR2g5UTViWHlUaTUtYXpnaHRqLW5xOF9xaXNsNlQwWHB4cWRyWXFEajJLOWJNWUNJY0xtcXFjOEthT1h6X1N1dG4yUVVKdUpyYU5PdTU2RE51V1ViS19wb2ZJdEtVV3piMzFGQ3lNTUFNeEN0S2hzMnZVZGxZWDcxb3l1N2ZCZlRjUG5mNFo3MVVtcUljTk45TQ?oc=5)
-
-2026-03-16 <span class="news-indication-tag">migraña</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2Z6aGZsT0ZkZlFaV0ZadjhEemQ4dTZlUXNFWEtTOVAyVm1zMWFLUVRzWnh0WC1fS2wzeGJwaloyNHdzeVlKdEowZ0lPLTE2OG11bGNTRllUclcxUXlmcVFPTThDVEdLNlRPM1lIRUllUG5CdDY4T2RrMlJFSGpkSXEteDhnV0lXVEJoa2Nrc3JlOV9zRXdyN3ZzWVdzNGNIcGpRZVNoVEtnWU9uSkdEMGxPSjhzNi1nUDdSWDRGNDTSAbsBQVVfeXFMTk9seVR1ZWlyWlhJc3BwYldCdEdGUzNUZy1sSTZrU2JnLWdBR2g5UTViWHlUaTUtYXpnaHRqLW5xOF9xaXNsNlQwWHB4cWRyWXFEajJLOWJNWUNJY0xtcXFjOEthT1h6X1N1dG4yUVVKdUpyYU5PdTU2RE51V1ViS19wb2ZJdEtVV3piMzFGQ3lNTUFNeEN0S2hzMnZVZGxZWDcxb3l1N2ZCZlRjUG5mNFo3MVVtcUljTk45TQ?oc=5)
 
 ---
 

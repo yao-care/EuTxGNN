@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,11 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [La enfermedad renal crónica en España aumenta con más de 68.000 personas en tratamiento renal sustitutivo - Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
 
-2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">enfermedad renal crónica</span>
+2026-03-17 <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
 
@@ -55,14 +55,6 @@ permalink: /news/alirocumab/
 2026-03-16 <span class="news-indication-tag">enfermedad renal crónica</span>
 
 來源：[El Globalfarma](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHNoRlNQeXM4RG5kWmJfZHlEMjRxUU9rekhCWUF2b0NuSHg5ckZUWkZwbHpqS0RNdkpaYkstaWRoUUhSc05IejhpcEpnY2hLMW5DcTZ6UHRfMm1fN3NHdFdHdzBIWmlURWdScFlveUk1V053eUtoSFZZTlhyTDRQcDFjOWR0UVU?oc=5)
-
----
-
-### [Why lockdown may have left young people vulnerable to meningitis - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFM0YWE4UGR0ajZQUzMwNFFRU2c0MU95SUtXdXpMQm1OcjNPRmlGT2FCa2JEYmZLdkxXeTN6UnAzZXp0dWpSdUExTEpZS0FYUm9icFBha01SM3NSX0VyNVZlU0FLTGRtRnhhYXRWWE1BWFI2MDl5MHdwcllXLUlxV1pkZnA3NFI4dGpyaWJOWndpM2tjUlpj?oc=5)
-
-2026-03-16 <span class="news-indication-tag">CKD</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFM0YWE4UGR0ajZQUzMwNFFRU2c0MU95SUtXdXpMQm1OcjNPRmlGT2FCa2JEYmZLdkxXeTN6UnAzZXp0dWpSdUExTEpZS0FYUm9icFBha01SM3NSX0VyNVZlU0FLTGRtRnhhYXRWWE1BWFI2MDl5MHdwcllXLUlxV1pkZnA3NFI4dGpyaWJOWndpM2tjUlpj?oc=5)
 
 ---
 

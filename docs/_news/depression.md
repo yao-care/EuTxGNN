@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Familienzentrum Kult in Murg bringt Menschen beim Forum zu Burnout und Depression zusammen - Badische Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWtxeWZxN2VEX3hvd1YxTXZyNFJkV21zNWFsT0VjbmNlQzJGX0VMcl9sc2tERHVOeXFrQl93ZDBDRUMwU2JPdkFBMm1za1d6eGN2ZURFRFVRam5hc2pXcFlnYnEtWXBvam15Vko1VVk4WEtBSFlPSUI0Zm11YkhBc2dvbkY2dU5USFU4WFh1cU5YQnhCakJCUE83MV9PdnRlSGpzdGtTQnpyX2JJWGJDSkk1Zko3UVlORjlOb1BEMA?oc=5)
-
-2026-03-16
-
-來源：[Badische Zeitung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWtxeWZxN2VEX3hvd1YxTXZyNFJkV21zNWFsT0VjbmNlQzJGX0VMcl9sc2tERHVOeXFrQl93ZDBDRUMwU2JPdkFBMm1za1d6eGN2ZURFRFVRam5hc2pXcFlnYnEtWXBvam15Vko1VVk4WEtBSFlPSUI0Zm11YkhBc2dvbkY2dU5USFU4WFh1cU5YQnhCakJCUE83MV9PdnRlSGpzdGtTQnpyX2JJWGJDSkk1Zko3UVlORjlOb1BEMA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Los pacientes con trastornos psiquiátricos mueren más por ictus en España](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUhMaTFCMV9lbnN6QTY3eWFvT0lGTW0zSnR0bXd4X0o5TjZPbmFSVldEQ21OZ0JyN1ZyVlBRZzBqZEFiXzhUWXNjc0VqWUxBQ2NjMmEyM1R1WXhhaUJncDliUHl4bUJGRU11Vlo2TVBBM2FLRjU0MnVwem9HX0NIclVIZXVtLVdraTRJMDBjVkdPS1JONGMxOHlFR2VPLU4tS0E4RGFQSlpabGNfczVHeDBjUXFuazJLOFZPQjJJRQ?oc=5)
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "CVA（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "CVA（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# CVA（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="CVA（stroke） 有什麼相關新聞？">
-<strong>CVA（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「CVA」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,13 +39,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [El HUC promueve la salud cardiovascular con un libro interactivo - Canal 4 Tenerife](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2d1SUg1bkR3ZDNVbS11VWY4Y0oyZTU1QXFzd1VjbDNfOFFleS10N0U4TzVZWXRzVWR3NjBQX2dLZDNPOGRwWE5ocTZoMk1McE1GMVlNRFpmNjZYTV95QldBZjVNeDh5cFFsLVpuYmJ0TEJ0WWpOb3FvN0p3cmhwVFpiM3J5NUVzVFZSTGtKeS0yUko2dTloRUpYdw?oc=5)
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
-2026-03-16
+2026-03-17
 
-來源：[Canal 4 Tenerife](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2d1SUg1bkR3ZDNVbS11VWY4Y0oyZTU1QXFzd1VjbDNfOFFleS10N0U4TzVZWXRzVWR3NjBQX2dLZDNPOGRwWE5ocTZoMk1McE1GMVlNRFpmNjZYTV95QldBZjVNeDh5cFFsLVpuYmJ0TEJ0WWpOb3FvN0p3cmhwVFpiM3J5NUVzVFZSTGtKeS0yUko2dTloRUpYdw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+---
+
+### [«Ictus e infarto, le le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza) - Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2fSAYcBQVVfeXFMTjdWUTlqbWR0MWFKdW1QYlFsYVJKcjExU3NRNkdKQjl6Y2t1bkpkcE5rWWF0RVMyOW1DSWxQa3JmZ19yUDhlMmkyTjJhVVJVZnlMNWdqVEp2M0ZENHdVN2pfVFp0cS0yNzRjX1c4UHI3a0JQOW1JWkFnTmxxT3UwWFRBY3dWUXNr?oc=5)
+
+2026-03-17
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2fSAYcBQVVfeXFMTjdWUTlqbWR0MWFKdW1QYlFsYVJKcjExU3NRNkdKQjl6Y2t1bkpkcE5rWWF0RVMyOW1DSWxQa3JmZ19yUDhlMmkyTjJhVVJVZnlMNWdqVEp2M0ZENHdVN2pfVFp0cS0yNzRjX1c4UHI3a0JQOW1JWkFnTmxxT3UwWFRBY3dWUXNr?oc=5)
 
 ---
 
@@ -57,27 +65,11 @@ permalink: /news/stroke/
 
 ---
 
-### [Risiko für Demenz und Schlaganfall durch psychische Traumata erhöht - Gelbe Liste](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbGpRQXA5QnJlN1Z4eldGb3ZBemt3M2w5NXh5VlZ2U3JQcEFBU292U3laRzdtY19Hb0VkdklLWHBQbHA5UFlLY2tZN09Sem52VXRIMFJRTWJEMXZjeGdoODBVS1lLcnppa2VRWEQ0MWxTTmxMR0JxeDhrWGhLMkpzR2dqeUxrRzNfaHdtZQ?oc=5)
-
-2026-03-16
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbGpRQXA5QnJlN1Z4eldGb3ZBemt3M2w5NXh5VlZ2U3JQcEFBU292U3laRzdtY19Hb0VkdklLWHBQbHA5UFlLY2tZN09Sem52VXRIMFJRTWJEMXZjeGdoODBVS1lLcnppa2VRWEQ0MWxTTmxMR0JxeDhrWGhLMkpzR2dqeUxrRzNfaHdtZQ?oc=5)
-
----
-
 ### [Cuore, pericolo infarto e ictus: uomini giovani a rischio di più e prima, le età critiche](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkdJU19wLW9QR2MxblUyb25nb04tQkE1VXV5Wld1NG1HSHF3bnlucFNWVGdkeDV1RUs3WWpqa3pMOWJEUmcwdGdJdENrQk9IdU5NVENnSVg2eURVR2lUdkRFR1dTOGt2dWZNTUNKU2wyVUw1NFM3U1Q1aGl2TnB1QWM3czJqaHg5MFM5ZXVNeEpiQTF3eWtrRmFRMzQ5OEhiLXc?oc=5)
 
 2026-03-15
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkdJU19wLW9QR2MxblUyb25nb04tQkE1VXV5Wld1NG1HSHF3bnlucFNWVGdkeDV1RUs3WWpqa3pMOWJEUmcwdGdJdENrQk9IdU5NVENnSVg2eURVR2lUdkRFR1dTOGt2dWZNTUNKU2wyVUw1NFM3U1Q1aGl2TnB1QWM3czJqaHg5MFM5ZXVNeEpiQTF3eWtrRmFRMzQ5OEhiLXc?oc=5)
-
----
-
-### [Il vino è un toccasana per la salute se bevuto con moderazione e associato alla Dieta Mediterranea](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm84cUpWbGdFWlhCdUhKQjR5d1lGMkQ5TC01eUJNUmN0dEl5a2hqaWZ0bWEydzBxb3BVRzF1UU93b1pEMk9PU3lXd0ZZS2JGazA2LW1pcVphVWg0eGlzLTFqMTRDQkd3SjgyQ1FJUlVoNWFwdHczWnNkSFlGaDNvSWF1V0hzRWpjUWlzejRHNTQyRTJRcXlRMGRwOGliUFZEaU8yZ21KTTJYVGYzR2NOQzBUeE5OWG5YNmsyRU1ULXVQaTBySDlEdA?oc=5)
-
-2026-03-15
-
-來源：[WineNews](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm84cUpWbGdFWlhCdUhKQjR5d1lGMkQ5TC01eUJNUmN0dEl5a2hqaWZ0bWEydzBxb3BVRzF1UU93b1pEMk9PU3lXd0ZZS2JGazA2LW1pcVphVWg0eGlzLTFqMTRDQkd3SjgyQ1FJUlVoNWFwdHczWnNkSFlGaDNvSWF1V0hzRWpjUWlzejRHNTQyRTJRcXlRMGRwOGliUFZEaU8yZ21KTTJYVGYzR2NOQzBUeE5OWG5YNmsyRU1ULXVQaTBySDlEdA?oc=5)
 
 ---
 

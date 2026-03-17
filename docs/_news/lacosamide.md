@@ -14,7 +14,7 @@ permalink: /news/lacosamide/
 ---
 
 <p class="key-answer" data-question="Lacosamide 有什麼相關新聞？">
-<strong>Lacosamide</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lacosamide</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,55 @@ permalink: /news/lacosamide/
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（27 則）
+
+### [La apnea obstructiva del sueño eleva el riesgo de cáncer, su agresividad y la mortalidad vinculada](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTRmY2xtbG1wT2g4cWhGUGJOWnhSdm5lWm45UnhkZFRWM1pRczNLa0ZrcUc4T2VuOTJ4UWZxRkVyZGREZ2V2R2ZNaWNsYjJZMmhIajdpRW50bnFJbjBHS21iZnkzMEE4dlpQc285TzIzdXdHaDZ1dl80LWJaSmpNXzBBOUZKU0hFTkdpNFBYX3p1TkRkcDE2OFVheGZCTjZJbHROMGdIZHFLRFgwUlRpU2haQmNKb2JVbVlPRnIwLUJia1NtRTdHTzlfQdIB0AFBVV95cUxQSXNIMzdOdGttNjRHZXdKVVNjMTdudFF5cVU1bEpZUl94Uk03U1NJamxHeXFpR3BTU3h0RkFDN3dBUGwxMno2ejhnamlIRG5UWFgtbklZTVdlOWJDTlpZUEFac0tJOGVEaUdpZmJJSGFYUjJoZF96LXFWMUE3RmVydnNZTHlvS0p5aEVVWV8tRVRIQTQ2alhkcjJtaDhoLXA0TGlRdGUwSldMWEFSdW9sUjlTdm9OeDZKUXB4UlZSVGw4TUxabTVDdnBvcktCREYt?oc=5)
+
+2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[democrata.es](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTRmY2xtbG1wT2g4cWhGUGJOWnhSdm5lWm45UnhkZFRWM1pRczNLa0ZrcUc4T2VuOTJ4UWZxRkVyZGREZ2V2R2ZNaWNsYjJZMmhIajdpRW50bnFJbjBHS21iZnkzMEE4dlpQc285TzIzdXdHaDZ1dl80LWJaSmpNXzBBOUZKU0hFTkdpNFBYX3p1TkRkcDE2OFVheGZCTjZJbHROMGdIZHFLRFgwUlRpU2haQmNKb2JVbVlPRnIwLUJia1NtRTdHTzlfQdIB0AFBVV95cUxQSXNIMzdOdGttNjRHZXdKVVNjMTdudFF5cVU1bEpZUl94Uk03U1NJamxHeXFpR3BTU3h0RkFDN3dBUGwxMno2ejhnamlIRG5UWFgtbklZTVdlOWJDTlpZUEFac0tJOGVEaUdpZmJJSGFYUjJoZF96LXFWMUE3RmVydnNZTHlvS0p5aEVVWV8tRVRIQTQ2alhkcjJtaDhoLXA0TGlRdGUwSldMWEFSdW9sUjlTdm9OeDZKUXB4UlZSVGw4TUxabTVDdnBvcktCREYt?oc=5)
+
+---
+
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+---
+
+### [Café et santé mentale : voici le nombre exact de tasses à boire chaque jour pour protéger votre cerveau - Les Numériques](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdVJOay1RcHNueHg4UXlIOU5YQXAzcDIyQS1ZZXBzamEwTDI2OHhxQ013M2ZNR2tPYkxURzR3ZzdsUmZuaFpsOUtYS29heFBha2oxTlVFS3BSTUpuVDEwRlpEakVNR0ZBdnQ3RTJhOUp0NTZ0cGI3RmhYRk11V2g5cGdQVnRPaEZtR0VJUGcyckpJVm5Da3RHM3V6U1BuT0o2VlJYZUhNYUZfanhDYUg1aEdXUk5UdDFDSG5sMGdRNTU4bDFiQ1FmUC1tRUNoV0hVRUxiX2tNTGlGVUpESWNQSXN0ZTJKYXR5Mk8tV084TTJ5UVVvVXhObmZ0WFZNX2NHZ2dZa1o3dHM?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[Les Numériques](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdVJOay1RcHNueHg4UXlIOU5YQXAzcDIyQS1ZZXBzamEwTDI2OHhxQ013M2ZNR2tPYkxURzR3ZzdsUmZuaFpsOUtYS29heFBha2oxTlVFS3BSTUpuVDEwRlpEakVNR0ZBdnQ3RTJhOUp0NTZ0cGI3RmhYRk11V2g5cGdQVnRPaEZtR0VJUGcyckpJVm5Da3RHM3V6U1BuT0o2VlJYZUhNYUZfanhDYUg1aEdXUk5UdDFDSG5sMGdRNTU4bDFiQ1FmUC1tRUNoV0hVRUxiX2tNTGlGVUpESWNQSXN0ZTJKYXR5Mk8tV084TTJ5UVVvVXhObmZ0WFZNX2NHZ2dZa1o3dHM?oc=5)
+
+---
+
+### [FAU Erlangen-Nürnberg: Extrem tiefgekühlte Hirnregion kann nach Auftauen wieder elektrische Lernreize verarbeiten - Der Neue Wiesentbote](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY3hfVnRQNVF4OGhzU3plcHFqTzBHWWFoNjh5dExDajdvazVkbUc0QjBGc3AxdF85cndEOXQ3NW5ISEFMRkVHVzBvLTJrRmNJd2FwcndScTFrdWZhb01fS0RDSXhpWlNMZXRXcmZuVjc5U2tZRnVaRjBrZDdTMUYxbHR3TmJwSk4wU2F5N3JHbjh5NG01ZzJDWEFJOVFsay1uWkxXMEJRTEktTXlnYWNadjluV2hsVU9mOGRLRVZMVnRrQV92dVoxMTAxWUNHcy03WFBLa3R5QVNoc3Y1YUQ5VjhMT25FM1Rp?oc=5)
+
+2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Der Neue Wiesentbote](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY3hfVnRQNVF4OGhzU3plcHFqTzBHWWFoNjh5dExDajdvazVkbUc0QjBGc3AxdF85cndEOXQ3NW5ISEFMRkVHVzBvLTJrRmNJd2FwcndScTFrdWZhb01fS0RDSXhpWlNMZXRXcmZuVjc5U2tZRnVaRjBrZDdTMUYxbHR3TmJwSk4wU2F5N3JHbjh5NG01ZzJDWEFJOVFsay1uWkxXMEJRTEktTXlnYWNadjluV2hsVU9mOGRLRVZMVnRrQV92dVoxMTAxWUNHcy03WFBLa3R5QVNoc3Y1YUQ5VjhMT25FM1Rp?oc=5)
+
+---
+
+### [Kaffee bloß nicht mit Milch trinken](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGhJdEhuZTZuX0pUUVpDTXpMS19XZWtkOHdScGNJN0R0SHZwczVDSzViY1RjX1h3NDNSNkhFT3VtZkJzQXJFT3Vxb1V5dS15d0ZtOVdsODY1cWNNMUhvSG5lZEpqOFB6T2JjQWdyeXI3M01XOWR5QlZLWEUtaldVQmpfc3ZFbUV5LTFjeVRLc1YydzBiOURTQWxvelR3TEdUMWFOVTVXc1hqdENCeFhFVFI2NVVQQkxBM2VOUEZVUWJnblBfZkM4TVNWMDRMc1A5OW1TSHFpN1lONnBjWWc?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[Ruhr24](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGhJdEhuZTZuX0pUUVpDTXpMS19XZWtkOHdScGNJN0R0SHZwczVDSzViY1RjX1h3NDNSNkhFT3VtZkJzQXJFT3Vxb1V5dS15d0ZtOVdsODY1cWNNMUhvSG5lZEpqOFB6T2JjQWdyeXI3M01XOWR5QlZLWEUtaldVQmpfc3ZFbUV5LTFjeVRLc1YydzBiOURTQWxvelR3TEdUMWFOVTVXc1hqdENCeFhFVFI2NVVQQkxBM2VOUEZVUWJnblBfZkM4TVNWMDRMc1A5OW1TSHFpN1lONnBjWWc?oc=5)
+
+---
+
+### [Rising global temperatures ‘eroding’ the world’s ability to exercise - The Telegraph](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTzdaR1Z2SEhzSWJHMjRUaUFDUGNjRk5ROHFvemt2SWRzZzlzMVhuWGRMNk12ZXZvbmdLSjVLd2pGcXU4VEZwQTZXd1IxTlBXYlJZTHpYc1JlR2pfRjVVcVU0SERLYXJtOWNzejh1Mm9rbUZteHNpSVM3TEtMd29DQ0hWSzBCMFN0azRSdUVJb2lIWE1QRXBFT1FlWV90VFZxR0NWaGRSNk1xcXhNSHhESTJqYUxqOE0?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTzdaR1Z2SEhzSWJHMjRUaUFDUGNjRk5ROHFvemt2SWRzZzlzMVhuWGRMNk12ZXZvbmdLSjVLd2pGcXU4VEZwQTZXd1IxTlBXYlJZTHpYc1JlR2pfRjVVcVU0SERLYXJtOWNzejh1Mm9rbUZteHNpSVM3TEtMd29DQ0hWSzBCMFN0azRSdUVJb2lIWE1QRXBFT1FlWV90VFZxR0NWaGRSNk1xcXhNSHhESTJqYUxqOE0?oc=5)
+
+---
 
 ### [Schlafmittel für Kinder im Trend: Warum Experten bei Melatonin zur Vorsicht raten - Berliner Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0JuXzFCRkNpSHhyMml0c0xna0V5ajFvUDV3MUk2c3dXXzNzUkFjZkRjcGlKZ1Z1NzBheDdodmNWOU53WXpqb3EyZ2hnd0tTYUNFTTZhVW1xd1pzMjJGVUFDTHpKQ09tRFNBMjdYOExhelpQYkpsX1NCejgxUE5oZXBZRlBBU2dHX253UUowWl9pRkxxRTVuOUtLOW1fbkd4LUNFMnhKU0oweHlFR3NrUHRBTTR0Nm45SDEtbmNRUFl2cldESFJFT25UeFlzdFJuZzA4REFSdzdncmNVQTM4?oc=5)
 
@@ -50,11 +98,19 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Vitamine in der Schwangerschaft: Das braucht der Körper - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDdHWUZ0QnZfeU5tcUZLcGRBX013VXVBeE94SHJOd0NBTXBzVjNVX0hoT1B6MktXbnhTVkZzRjZfSWVZN3ozelh5ZHFnUEpnOUZmb0M0bDVMdEFoaGEzNGg3NHZQcjBwWXJ4WjBGYmpNZmZoa01MUkNnbHJRdWx6dHN1blRBcVRTc0Q3RXN3QnlYLUZYRHc1OTVVYTdUR1JfekxfYzRZWTJwdjVWSWJHcENIeDBKdzg4dmR2NnF4cTdiQQ?oc=5)
+### [Neues Biomaterial fördert die Regeneration von Gewebe - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVZILTU4cU1yRER5bnNKOC1hSS1oUVJjd25mTnpCYnIxM1BFc1hDWnVHZmEwbGRRcTBLYWVVQXp0WGZnZS1xWHhqSTRWMkw4OEtsWnBfRnlQa29CVUgybmV0TlpwYUUxbUI1QzBOM1RxaW5HVTl4QV90d1ZJS1AxVVBCQ3FXOFRKWHk3TFZITjc0alY4SS1MSDhFaDVHM0Q3?oc=5)
 
 2026-03-17 <span class="news-indication-tag">AF</span>
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDdHWUZ0QnZfeU5tcUZLcGRBX013VXVBeE94SHJOd0NBTXBzVjNVX0hoT1B6MktXbnhTVkZzRjZfSWVZN3ozelh5ZHFnUEpnOUZmb0M0bDVMdEFoaGEzNGg3NHZQcjBwWXJ4WjBGYmpNZmZoa01MUkNnbHJRdWx6dHN1blRBcVRTc0Q3RXN3QnlYLUZYRHc1OTVVYTdUR1JfekxfYzRZWTJwdjVWSWJHcENIeDBKdzg4dmR2NnF4cTdiQQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVZILTU4cU1yRER5bnNKOC1hSS1oUVJjd25mTnpCYnIxM1BFc1hDWnVHZmEwbGRRcTBLYWVVQXp0WGZnZS1xWHhqSTRWMkw4OEtsWnBfRnlQa29CVUgybmV0TlpwYUUxbUI1QzBOM1RxaW5HVTl4QV90d1ZJS1AxVVBCQ3FXOFRKWHk3TFZITjc0alY4SS1MSDhFaDVHM0Q3?oc=5)
+
+---
+
+### [La enfermedad renal crónica en España aumenta con más de 68.000 personas en tratamiento renal sustitutivo - Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
+
+2026-03-17 <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
 
 ---
 
@@ -82,6 +138,14 @@ permalink: /news/lacosamide/
 
 ---
 
+### [Mangelernährung im Alter vermeiden: DGG veröffentlicht neue Info-Flyer](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnpxdnJHaDVKenFWYkxHbzdrTHcycThSUHFtVURybDdtaHVJc3h3Rjd4YjQxdFF6ekRIZlhZOGNNUTNZb3hTYThMeS1oRHdQUWotR2dnX3dFMmx2WUJBejVWeG9hcl9UQUVHU1ZNSE1VZWdHNkYtUnFGQnJHd1NZLTZfamZiWVpmT2pSWl96WkhxaWI3TFNic0FNaUhCM0FKUjd2cnNkb1A3cmc?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[Altenpflege-Online](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnpxdnJHaDVKenFWYkxHbzdrTHcycThSUHFtVURybDdtaHVJc3h3Rjd4YjQxdFF6ekRIZlhZOGNNUTNZb3hTYThMeS1oRHdQUWotR2dnX3dFMmx2WUJBejVWeG9hcl9UQUVHU1ZNSE1VZWdHNkYtUnFGQnJHd1NZLTZfamZiWVpmT2pSWl96WkhxaWI3TFNic0FNaUhCM0FKUjd2cnNkb1A3cmc?oc=5)
+
+---
+
 ### [Intelligenza artificiale e biologia: AlphaFold di DeepMind verso la mappa completa dell'«interattoma» - Corriere della Sera](https://news.google.com/rss/articles/CBMikgJBVV95cUxNMjZoOWNGSUVQcEdEbEdvQmZDUEFTcS1TNDUyc0p2TjZJd193OHlGdjJCVTFJMnpKU0k0TEJBVC0wb0pjdU53dVpNWUZyUV9xdmJwWHRPRU9jTHh0SkY4bFhnWGNNdHpCUVVLOTBxaERIVEZjR0RoeFVwZENETkRjcXZCMlBMWDUwejcyX2NhUG9BVVRqeFlVNDdwTkY1WTNidEQwbXRjVkUwMklDb2dacjVCNFE1TmlvRFJMOGRWdmpzLXNuMkFmamxQZ3AwbWFXSkE2M2NqZ25Hbmc3eTJ5MHBpNjlySG85U2pmdnRHMTVBQS1LbUJnUno5WlRJbHFETzFUdjFscmZRU2hqWHVidklB0gGXAkFVX3lxTE1oT1NFZnlUNFZUMEhWajNCcXlaM09XYU5yVWVuR0hUWEg0bW9VbTkwRWJYM0c0akxicjZ6TDFCVlpyamloVmNaOHh3eThzcGg5RFhBb29WeDRuM1g0TTBOaXE0LTV6N05UN2NfSUVyN3FnbkdYa3hRa1dBem5lVU5IZ1BrU245RWtlWTFqXzNsd1pCV3NoX1oyYm5JNVRMNUtxQU8zZlozQnY1NktaN1NEakktemhycVdpOGZqSUxfTmQ5ZW9BTjdnd0NuTllQUlFzVXNpeTNyMHJJX1VhOUJ0ekVVanhZN25va09YY3ZWam81RjVSa0J3UHFwSHlHYzRHLUdqZEpUaXJSOV90UTd6SmxHYmZ1bw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">AF</span>
@@ -106,19 +170,11 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Zellulärer Schalter macht Säugetiere tagaktiv](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUllJOGJnRFJiQ3AweURCdXg4S1Y1cVFIOHJRR0g3RnVUc0pybUR3RFZKeEpnajJlclpPQU5GZFhwMkNqc1JZVVh3ODhBdWZpZEJ1c0ZxR1l3RF9rcFRXOXdvemE2VUpldkhGY080RWZtQXpSOERsNF9CTEE0eUJTVjd1aEJFcjVFWjBFOWwxWnJuT1hLdkVYZ0J0VQ?oc=5)
+### [Emily Willis' lawsuit close to settlement after adult star left 'permanently disabled'](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbm1zb0FNVFdsNWM2cHE5Y0JOSmpoTmlZOHhuWTJUbzJscWo3empKYUJ6c0VLRzJGQUdBTmVkWS1rYzcxc29LQmF2TW83TG5wNnJQVWVITER4R1BZcDNfWHZqSjFfZ19RWm1UNG0wTWlrTTJjZlZRbjhRaURjMEFDWEJPVnd4VDRhTUlhZ1FBU0xpdnR6cUl5TE12Sy1BekdTN2ZzYlExdw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">AF</span>
 
-來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUllJOGJnRFJiQ3AweURCdXg4S1Y1cVFIOHJRR0g3RnVUc0pybUR3RFZKeEpnajJlclpPQU5GZFhwMkNqc1JZVVh3ODhBdWZpZEJ1c0ZxR1l3RF9rcFRXOXdvemE2VUpldkhGY080RWZtQXpSOERsNF9CTEE0eUJTVjd1aEJFcjVFWjBFOWwxWnJuT1hLdkVYZ0J0VQ?oc=5)
-
----
-
-### [Café : cette limite de tasses par jour protégerait vraiment votre santé mentale… si vous ne la franchissez pas - Les Numériques](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdVJOay1RcHNueHg4UXlIOU5YQXAzcDIyQS1ZZXBzamEwTDI2OHhxQ013M2ZNR2tPYkxURzR3ZzdsUmZuaFpsOUtYS29heFBha2oxTlVFS3BSTUpuVDEwRlpEakVNR0ZBdnQ3RTJhOUp0NTZ0cGI3RmhYRk11V2g5cGdQVnRPaEZtR0VJUGcyckpJVm5Da3RHM3V6U1BuT0o2VlJYZUhNYUZfanhDYUg1aEdXUk5UdDFDSG5sMGdRNTU4bDFiQ1FmUC1tRUNoV0hVRUxiX2tNTGlGVUpESWNQSXN0ZTJKYXR5Mk8tV084TTJ5UVVvVXhObmZ0WFZNX2NHZ2dZa1o3dHM?oc=5)
-
-2026-03-16 <span class="news-indication-tag">AF</span>
-
-來源：[Les Numériques](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdVJOay1RcHNueHg4UXlIOU5YQXAzcDIyQS1ZZXBzamEwTDI2OHhxQ013M2ZNR2tPYkxURzR3ZzdsUmZuaFpsOUtYS29heFBha2oxTlVFS3BSTUpuVDEwRlpEakVNR0ZBdnQ3RTJhOUp0NTZ0cGI3RmhYRk11V2g5cGdQVnRPaEZtR0VJUGcyckpJVm5Da3RHM3V6U1BuT0o2VlJYZUhNYUZfanhDYUg1aEdXUk5UdDFDSG5sMGdRNTU4bDFiQ1FmUC1tRUNoV0hVRUxiX2tNTGlGVUpESWNQSXN0ZTJKYXR5Mk8tV084TTJ5UVVvVXhObmZ0WFZNX2NHZ2dZa1o3dHM?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbm1zb0FNVFdsNWM2cHE5Y0JOSmpoTmlZOHhuWTJUbzJscWo3empKYUJ6c0VLRzJGQUdBTmVkWS1rYzcxc29LQmF2TW83TG5wNnJQVWVITER4R1BZcDNfWHZqSjFfZ19RWm1UNG0wTWlrTTJjZlZRbjhRaURjMEFDWEJPVnd4VDRhTUlhZ1FBU0xpdnR6cUl5TE12Sy1BekdTN2ZzYlExdw?oc=5)
 
 ---
 
@@ -138,11 +194,11 @@ permalink: /news/lacosamide/
 
 ---
 
-### [CEFABOX 2026 muestra la hoja de ruta para frenar la migraña antes de que se cronifique - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2Z6aGZsT0ZkZlFaV0ZadjhEemQ4dTZlUXNFWEtTOVAyVm1zMWFLUVRzWnh0WC1fS2wzeGJwaloyNHdzeVlKdEowZ0lPLTE2OG11bGNTRllUclcxUXlmcVFPTThDVEdLNlRPM1lIRUllUG5CdDY4T2RrMlJFSGpkSXEteDhnV0lXVEJoa2Nrc3JlOV9zRXdyN3ZzWVdzNGNIcGpRZVNoVEtnWU9uSkdEMGxPSjhzNi1nUDdSWDRGNDTSAbsBQVVfeXFMTk9seVR1ZWlyWlhJc3BwYldCdEdGUzNUZy1sSTZrU2JnLWdBR2g5UTViWHlUaTUtYXpnaHRqLW5xOF9xaXNsNlQwWHB4cWRyWXFEajJLOWJNWUNJY0xtcXFjOEthT1h6X1N1dG4yUVVKdUpyYU5PdTU2RE51V1ViS19wb2ZJdEtVV3piMzFGQ3lNTUFNeEN0S2hzMnZVZGxZWDcxb3l1N2ZCZlRjUG5mNFo3MVVtcUljTk45TQ?oc=5)
+### [Zucker treibt Zellen nicht nur energetisch an – Details zur Beweglichkeit von Körperzellen aufgedeckt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yR0o4Q0hsbDhqVEtTZWp2aTFMN1J3NVdjUlEteDNpN3BLUVZ4TTlqZzB1RFl3YTlSTUNNNkVydWZVeURvbzF0enp4Yw?oc=5)
 
-2026-03-16 <span class="news-indication-tag">migraña</span>
+2026-03-16 <span class="news-indication-tag">AF</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2Z6aGZsT0ZkZlFaV0ZadjhEemQ4dTZlUXNFWEtTOVAyVm1zMWFLUVRzWnh0WC1fS2wzeGJwaloyNHdzeVlKdEowZ0lPLTE2OG11bGNTRllUclcxUXlmcVFPTThDVEdLNlRPM1lIRUllUG5CdDY4T2RrMlJFSGpkSXEteDhnV0lXVEJoa2Nrc3JlOV9zRXdyN3ZzWVdzNGNIcGpRZVNoVEtnWU9uSkdEMGxPSjhzNi1nUDdSWDRGNDTSAbsBQVVfeXFMTk9seVR1ZWlyWlhJc3BwYldCdEdGUzNUZy1sSTZrU2JnLWdBR2g5UTViWHlUaTUtYXpnaHRqLW5xOF9xaXNsNlQwWHB4cWRyWXFEajJLOWJNWUNJY0xtcXFjOEthT1h6X1N1dG4yUVVKdUpyYU5PdTU2RE51V1ViS19wb2ZJdEtVV3piMzFGQ3lNTUFNeEN0S2hzMnZVZGxZWDcxb3l1N2ZCZlRjUG5mNFo3MVVtcUljTk45TQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yR0o4Q0hsbDhqVEtTZWp2aTFMN1J3NVdjUlEteDNpN3BLUVZ4TTlqZzB1RFl3YTlSTUNNNkVydWZVeURvbzF0enp4Yw?oc=5)
 
 ---
 
@@ -162,11 +218,19 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Hochauflösende Elektronenmikroskopie zeigt, wie Zellen mit Stress umgehen - Informationsdienst Wissenschaft (idw)](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjUmpMVUZDeUpkSVhERmhqbmY5OWxIdU5XbVgwNy1reG81T2RNS1I1TlZyeWF1R0xKTjVBaGhVNG1vYy1zNTVtQ2I0dw?oc=5)
+### [Hochauflösende Elektronenmikroskopie zeigt, wie Zellen mit Stress umgehen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjUmpMVUZDeUpkSVhERmhqbmY5OWxIdU5XbVgwNy1reG81T2RNS1I1TlZyeWF1R0xKTjVBaGhVNG1vYy1zNTVtQ2I0dw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft (idw)](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjUmpMVUZDeUpkSVhERmhqbmY5OWxIdU5XbVgwNy1reG81T2RNS1I1TlZyeWF1R0xKTjVBaGhVNG1vYy1zNTVtQ2I0dw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjUmpMVUZDeUpkSVhERmhqbmY5OWxIdU5XbVgwNy1reG81T2RNS1I1TlZyeWF1R0xKTjVBaGhVNG1vYy1zNTVtQ2I0dw?oc=5)
+
+---
+
+### [5 key bowel cancer signs to never ignore - Yahoo Life UK](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWmpVYW5FZklSZmkyY1FQZmlYdkZPeV9DYnhRZEROWE96WHVuMXd6MlM2bHpXRmZINTByVUpyNVRjLS03UGI3OElLTTMyMWg0bXF2RjV5N2NjRXdUbms1dFRhb2duUmFKRXdva0tpM2o5SHpk?oc=5)
+
+2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWmpVYW5FZklSZmkyY1FQZmlYdkZPeV9DYnhRZEROWE96WHVuMXd6MlM2bHpXRmZINTByVUpyNVRjLS03UGI3OElLTTMyMWg0bXF2RjV5N2NjRXdUbms1dFRhb2duUmFKRXdva0tpM2o5SHpk?oc=5)
 
 ---
 
@@ -186,43 +250,11 @@ permalink: /news/lacosamide/
 
 ---
 
-### [How a ‘vacuum cleaner turned the other way’ became a popular solution to snoring disorders - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmNwQ1BFYUhRc2EtU2kxdkx1eEdfbEhVZXhGNnNiTTV5UTBsMHYtNnVUeEg5TXJLSkZvbVo5Rk5rdUdqaFd5enNVdXJyU0pWZUZyNzNLd0FhTE5oRDNKRmszMTAtaEY4Z1lIeVNmZDNKZU04VEd1NHgwaE9tal8tTk9BNU8yUjV5eVJySkFrNG5aWjh6ZnlUOGtuZ0VpbHVnaFh0MzJVYXFWUWlCRndZWWl2RHF0SVMzWVJPTDRZNjBQcEM2YTlJZU1EbDVyNHRrZG9vYTYzaGQ?oc=5)
-
-2026-03-16 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmNwQ1BFYUhRc2EtU2kxdkx1eEdfbEhVZXhGNnNiTTV5UTBsMHYtNnVUeEg5TXJLSkZvbVo5Rk5rdUdqaFd5enNVdXJyU0pWZUZyNzNLd0FhTE5oRDNKRmszMTAtaEY4Z1lIeVNmZDNKZU04VEd1NHgwaE9tal8tTk9BNU8yUjV5eVJySkFrNG5aWjh6ZnlUOGtuZ0VpbHVnaFh0MzJVYXFWUWlCRndZWWl2RHF0SVMzWVJPTDRZNjBQcEM2YTlJZU1EbDVyNHRrZG9vYTYzaGQ?oc=5)
-
----
-
 ### [Hethersett boy with hole in the heart thriving after operation](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yRTE0RnJ0NVZhbFlnejJkVlJ0M3ZoWDVIb1d5Nl9QSWxJSkVzOG5rZmtjNjBQcS1oQkJfSFF4ekRwNzFjQXV3NkRVdFhrdkZzdnBwVmwzUl9rS0pP?oc=5)
 
 2026-03-16 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yRTE0RnJ0NVZhbFlnejJkVlJ0M3ZoWDVIb1d5Nl9QSWxJSkVzOG5rZmtjNjBQcS1oQkJfSFF4ekRwNzFjQXV3NkRVdFhrdkZzdnBwVmwzUl9rS0pP?oc=5)
-
----
-
-### [Alzheimer-Forschung: Schlafmangel treibt Demenz voran - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnRnanlqVVVKTURJZHpqMkpjeGlqbW1IejdqQ2RrMklVdHNnRjVtMTdXWF9hMzRCdk1ocnMxU1pDclFKVnZ2RVp2cmlnOF84XzdIVFdBeGhXMHhpVDFrczJ6Z3FSZHZ4Zml5NWtVd2hSenBnd0JlR0VqVWtZaUZNc0gzaE5NOXloREJaMGMtUmotZmhxdFo2N1BrSkp6OHlJMGs1RC1EWHU5eXBBU3l2Tg?oc=5)
-
-2026-03-15 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnRnanlqVVVKTURJZHpqMkpjeGlqbW1IejdqQ2RrMklVdHNnRjVtMTdXWF9hMzRCdk1ocnMxU1pDclFKVnZ2RVp2cmlnOF84XzdIVFdBeGhXMHhpVDFrczJ6Z3FSZHZ4Zml5NWtVd2hSenBnd0JlR0VqVWtZaUZNc0gzaE5NOXloREJaMGMtUmotZmhxdFo2N1BrSkp6OHlJMGs1RC1EWHU5eXBBU3l2Tg?oc=5)
-
----
-
-### ["Le dépistage nous permet de faire entrer les patients dans un parcours de soins afin de retarder l’évolution de la maladie" : à Carcassonne une journée pour dépister les maladies rénales au plus tôt](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
-
-2026-03-15 <span class="news-indication-tag">AF</span>
-
-來源：[L'Indépendant](https://news.google.com/rss/articles/CBMipgJBVV95cUxNT2xfQXdrbHd4eVEzVHM2X09mbUF3VHQ3Q1pIVTh1d1E4QVBvcWpBdHpReXlWZGFlaER2VjJ4YmlONlJTTnZtdXlqMGF3VEYtMWQ4SUlhV1ZYNnRMQldBa29qbzBCb2d2QmhEZ1Nlb1JtX0dLaS1NZktsTnJ1cF9XUU93S1hJM01ZZ1RYMWFJM3NuMTNUZnhOZlBPeDBaVDRlekEtNlFBdzB1OTdCc1ZzdmRvMnYwb2thUTNhdGM2dUt6ZXpaTFBucTl4TDFSWDBmTHJCc1VmVXZ6S0pSaThXQW12Sl92QjlZWGtsV0VERjQxdG54NjN3RUtLQTlEaUhfSmhDaU82QUJydkZpOEtWUXhkcFNEeVN5U2VXcnhMdjRFZ01TT2c?oc=5)
-
----
-
-### [Derbyshire coroner raises concern after woman's fentanyl overdose](https://news.google.com/rss/articles/CBMiXEFVX3lxTE15T0pZd0lzUDNMNTk2WHlsU2taTGZleEp1bktBbFBhSnUyMnR5Q291cTlESHBSc0pTWXZqZnl2Tmg4WHNYZzQ1ZFg0dGMxbHZNN2tHd1QzX3ZCNHNq?oc=5)
-
-2026-03-15 <span class="news-drug-tag">Fentanyl</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE15T0pZd0lzUDNMNTk2WHlsU2taTGZleEp1bktBbFBhSnUyMnR5Q291cTlESHBSc0pTWXZqZnl2Tmg4WHNYZzQ1ZFg0dGMxbHZNN2tHd1QzX3ZCNHNq?oc=5)
 
 ---
 

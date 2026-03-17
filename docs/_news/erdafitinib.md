@@ -42,19 +42,19 @@ permalink: /news/erdafitinib/
 
 ## 相關新聞（2 則）
 
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+---
+
 ### [Tesis doctoral concluye programas Rehabilitación Cardíaca mejoran calidad vida pacientes - Región Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1hhODlkM2dBUVp4dmdrRlRvNS1mdE1QQzlXR0lnd0FrOEZyVF9UNVdqYkdVM0VCX25wbWhCOVk0dmU0b0ExVlFkcWJCX2RsM283OTZ1T0I4Umg1TXFDalpVTGY5SWlYLTViT2t6aW8zNjgtRG5VQmlYUURpU0ltRldvY01oMVhzbk5UOWIyc0szVFFjRDBLdHlsM2x4U1hqaXpGbnhMY3lISEVMYXdoVE1ETE40ekFFb1pKVHFKTjBsQ2FEVUZkY3JiUWxLRzVlY3htZ2JUem9ac0ZjWUxxZ0Vn0gHnAUFVX3lxTE1XZTBNbldUbVVNampHV0hPREJQWnl3WnZfN0JGVmhRY0JaeXZma2Qza0ZubHF3RDJlVXpFVXo1Qk16VXhkVmRIYjVTN3BtUi1kelMyUTRFRS1XaURrbkVRRkhrdEVFNm1vT2o5dUVhNjltT1ozVVVuTU5hQkc5emNRVTRhSnVFTHVYeFRvc0E3N0FPdWxzTm9HMzdndHpGbXZnVlRGTGdwelQ2MTlVZm84bnZjZmlheDdjOHcxcEZlQTBIYXJPLXUwV3BVVTVPUkZEaHNqc2lSaE8tZWNmV255TjVxaGtSZw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Región Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1hhODlkM2dBUVp4dmdrRlRvNS1mdE1QQzlXR0lnd0FrOEZyVF9UNVdqYkdVM0VCX25wbWhCOVk0dmU0b0ExVlFkcWJCX2RsM283OTZ1T0I4Umg1TXFDalpVTGY5SWlYLTViT2t6aW8zNjgtRG5VQmlYUURpU0ltRldvY01oMVhzbk5UOWIyc0szVFFjRDBLdHlsM2x4U1hqaXpGbnhMY3lISEVMYXdoVE1ETE40ekFFb1pKVHFKTjBsQ2FEVUZkY3JiUWxLRzVlY3htZ2JUem9ac0ZjWUxxZ0Vn0gHnAUFVX3lxTE1XZTBNbldUbVVNampHV0hPREJQWnl3WnZfN0JGVmhRY0JaeXZma2Qza0ZubHF3RDJlVXpFVXo1Qk16VXhkVmRIYjVTN3BtUi1kelMyUTRFRS1XaURrbkVRRkhrdEVFNm1vT2o5dUVhNjltT1ozVVVuTU5hQkc5emNRVTRhSnVFTHVYeFRvc0E3N0FPdWxzTm9HMzdndHpGbXZnVlRGTGdwelQ2MTlVZm84bnZjZmlheDdjOHcxcEZlQTBIYXJPLXUwV3BVVTVPUkZEaHNqc2lSaE8tZWNmV255TjVxaGtSZw?oc=5)
-
----
-
-### [Japan Approves the World’s First Treatments Made With Reprogrammed Human Cells - The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">heart failure</span>
-
-來源：[The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
 
 ---
 

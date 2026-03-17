@@ -42,6 +42,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（7 則）
 
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+---
+
 ### [ATTD: de los datos de glucosa a los insights de IA -- una nueva dirección en el manejo de la diabetes - Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
 
 2026-03-17 <span class="news-indication-tag">diabetes</span>
@@ -50,11 +58,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+### [Data from smart watches reveal early signs of insulin resistance](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
 
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
 
 ---
 
@@ -79,14 +87,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTgwR3ZPYUttdnE0WUhHdkdHZEZsTDJ5UUZacTNqc19xb1ZNeWNiVVpLQlA1dXdJR2k2dkFDVzdxVW55YnhkeWRUalFzQ21yUTV6N3FmVnhZX0YwTFg2Yk9sQjJpZjFPd1NIRkVnclRMblVtdF9ud2FsT3NXTWpLZlp0NVgtS3FZN1RFdS1DOTJ5VmJJR0JnNHpiZlpfTDVjN1Jlek85bWpCZVZmTWpINTc4cGVtUWQzZXAtUk9xSHQ0UQ?oc=5)
-
----
-
-### [Japan Approves the World’s First Treatments Made With Reprogrammed Human Cells - The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">heart failure</span>
-
-來源：[The Daily Galaxy](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzRpQWlhdC14R0J5YnBUbkdpMFBXQjk2NVpacF9JWVdlZE5RQ3Y3ZGFiWm4yZUpQWlJVYU55VUNBajhkNTRBTFNTQTBnSHllWFdYUkdqZkN1NUpFa1RBdEd5NGh1bFh2dmdka2l6ZXhybVJMM0lqZ1VJbUgyb094b2RzWFNjT3BKbUxIS2E1NWI1dw?oc=5)
 
 ---
 

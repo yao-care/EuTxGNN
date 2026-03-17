@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（2 則）
 
-### [The Alzheimer's gut-brain link: How butyrate could curb amyloid-β buildup and inflammation - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRtOUlCWEVlWTZjQ0pta2hrMlNEMWR2S3lUS2dvSWhpWEdteDZESF9FbXJzdjE4b1dVY3NCaS1DV2dNa09PWEpqUUhPQm1FWi1WRElZYXNBMUNseXE4NkdDaEFsNXJnS29IMTk3YlV0dFhEZnZ0TTBNN1FVLTd4blhORQ?oc=5)
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
-2026-03-16
+2026-03-17
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRtOUlCWEVlWTZjQ0pta2hrMlNEMWR2S3lUS2dvSWhpWEdteDZESF9FbXJzdjE4b1dVY3NCaS1DV2dNa09PWEpqUUhPQm1FWi1WRElZYXNBMUNseXE4NkdDaEFsNXJnS29IMTk3YlV0dFhEZnZ0TTBNN1FVLTd4blhORQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 ---
 
-### [Restraining and sedating dementia patients ‘routine’ in hospitals in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQclRpUnZ3UG1vbG53STlKTnBrM1JIU3B1NmtKSkN2Z1ZBQ2o4RjJQd1VWQ1lSeE5jMzVTQjRVRDdDZmJqWjg2M0VLRXVqbjV5Ul9LZVphT0pmSXNVZGExMzZGdURkbHp4OXZvd1l5U3Y2cWlJYkw4bFFuTGZKc3hyUjFJMmdfV3pQVnlZY3h2QnNLOHNiQ3FZTmE4ZHltT2F2U0lwWG1nOEJ1eEhRcDlBYmkzbWF4VUtJTUZuWV9PUm9wMktJMno3YUxPemR6ZWc?oc=5)
+### [‘NHS hospital secretly sedated me and wouldn't let me leave my bed for a week’ - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJaVE14SzdWYTZOdGZubjNPb0daV2VnalQ0SEk0eFRNdTNZYURnU2hlT1JkTjg4cHJzNGRzVU53N0E5eURBOWhTRUMwWEhYQW1YdXhxRi1xV2xITjBFUUN1NHlibkkyeG03QXp2Ui11MEwzVUdneEtqT1dsNmNPb1RFeUNIY0lWYV9n0gGQAUFVX3lxTE9fdFRkV3hxM0NjMFRUUWs3dW1nOVZiaW13bFRjUWJkcWlBWWRHR29uYjZ1TXJNWWYzVmhnd29yQ2kzSHVoOG8xRjR1RFR0cGRoaWF6b2poSXA3UmtqaXNwZmVBd1FIbzI2azRLbU9jVnBWQTkxUDl1cGQ0YmlJUDd6RjRrdVBtX2xReXpSc18wSA?oc=5)
 
 2026-03-15
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQclRpUnZ3UG1vbG53STlKTnBrM1JIU3B1NmtKSkN2Z1ZBQ2o4RjJQd1VWQ1lSeE5jMzVTQjRVRDdDZmJqWjg2M0VLRXVqbjV5Ul9LZVphT0pmSXNVZGExMzZGdURkbHp4OXZvd1l5U3Y2cWlJYkw4bFFuTGZKc3hyUjFJMmdfV3pQVnlZY3h2QnNLOHNiQ3FZTmE4ZHltT2F2U0lwWG1nOEJ1eEhRcDlBYmkzbWF4VUtJTUZuWV9PUm9wMktJMno3YUxPemR6ZWc?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJaVE14SzdWYTZOdGZubjNPb0daV2VnalQ0SEk0eFRNdTNZYURnU2hlT1JkTjg4cHJzNGRzVU53N0E5eURBOWhTRUMwWEhYQW1YdXhxRi1xV2xITjBFUUN1NHlibkkyeG03QXp2Ui11MEwzVUdneEtqT1dsNmNPb1RFeUNIY0lWYV9n0gGQAUFVX3lxTE9fdFRkV3hxM0NjMFRUUWs3dW1nOVZiaW13bFRjUWJkcWlBWWRHR29uYjZ1TXJNWWYzVmhnd29yQ2kzSHVoOG8xRjR1RFR0cGRoaWF6b2poSXA3UmtqaXNwZmVBd1FIbzI2azRLbU9jVnBWQTkxUDl1cGQ0YmlJUDd6RjRrdVBtX2xReXpSc18wSA?oc=5)
 
 ---
 

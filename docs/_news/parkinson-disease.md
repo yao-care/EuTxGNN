@@ -3,7 +3,7 @@ layout: default
 title: "Parkinson's（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Parkinson's（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "Parkinson's（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="Parkinson's（parkinson disease） 有什麼相關新聞？">
-<strong>Parkinson's（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>Parkinson's（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Plastic bottles recycled to make Parkinson’s disease drug - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkxYYURTQkY4cUtmNHBGczB5QzhtM0VZOVFaZkM1SXBSaEVBcUFyTE9ZQUxhczZtOEV4dlRnV0RhTGZkYVF4ZTRERlBPVEh4UnR3MUZlTk5lYUFsdVNVVjR5MTliUko2Vm1NNXJMMlRBQ2JvSVFoSGdYei1QSGRtVldWcEo3Y21NM29kTGxR?oc=5)
+### [Plastic bottles transformed into Parkinson's drug using bacteria](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QM2JTYWVUU21ISEpvcmhhYWt4MGE0M0xsZjRuNk4xT3FXMWZjSWJRb0dlckxIdkFleEkxdHY4SUE3RzFNX3hIVDBEaEI0endQYVNSMVAxOW5yT2FabmZOcURuSUlvZk9fZHhrVHVuMGFSaHBNaU95MFJMT3BxcWs?oc=5)
 
 2026-03-16
 
-來源：[The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkxYYURTQkY4cUtmNHBGczB5QzhtM0VZOVFaZkM1SXBSaEVBcUFyTE9ZQUxhczZtOEV4dlRnV0RhTGZkYVF4ZTRERlBPVEh4UnR3MUZlTk5lYUFsdVNVVjR5MTliUko2Vm1NNXJMMlRBQ2JvSVFoSGdYei1QSGRtVldWcEo3Y21NM29kTGxR?oc=5)
+來源：[Phys.org](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QM2JTYWVUU21ISEpvcmhhYWt4MGE0M0xsZjRuNk4xT3FXMWZjSWJRb0dlckxIdkFleEkxdHY4SUE3RzFNX3hIVDBEaEI0endQYVNSMVAxOW5yT2FabmZOcURuSUlvZk9fZHhrVHVuMGFSaHBNaU95MFJMT3BxcWs?oc=5)
+
+---
+
+### [Major Parkinson's Study Reveals Symptom Differences in Men And Women](https://news.google.com/rss/articles/CBMinAFBVV95cUxOblo5WGxXV1RwVV9VTEUydVVtaXZkQVlfTnFESVdoaUJuaFU2aUdKOW1heFdnXzlOQU15WEVEX1lqLUQ5MmtpZ0tmX0Q0RnVsd2RaVkJIQmhWTUg4XzhDTW5IbGk1VlZpYzZnb0F0SlZPUDZzVmRWNFYyY2NtWlJKcnZ4QlAtQ1A4NHhkRWdIY2JLSEQ1Y0cyRzBhdGM?oc=5)
+
+2026-03-16
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxOblo5WGxXV1RwVV9VTEUydVVtaXZkQVlfTnFESVdoaUJuaFU2aUdKOW1heFdnXzlOQU15WEVEX1lqLUQ5MmtpZ0tmX0Q0RnVsd2RaVkJIQmhWTUg4XzhDTW5IbGk1VlZpYzZnb0F0SlZPUDZzVmRWNFYyY2NtWlJKcnZ4QlAtQ1A4NHhkRWdIY2JLSEQ1Y0cyRzBhdGM?oc=5)
 
 ---
 

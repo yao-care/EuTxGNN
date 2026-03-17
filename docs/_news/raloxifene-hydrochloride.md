@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [El HUC promueve la salud cardiovascular con un libro interactivo - Canal 4 Tenerife](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2d1SUg1bkR3ZDNVbS11VWY4Y0oyZTU1QXFzd1VjbDNfOFFleS10N0U4TzVZWXRzVWR3NjBQX2dLZDNPOGRwWE5ocTZoMk1McE1GMVlNRFpmNjZYTV95QldBZjVNeDh5cFFsLVpuYmJ0TEJ0WWpOb3FvN0p3cmhwVFpiM3J5NUVzVFZSTGtKeS0yUko2dTloRUpYdw?oc=5)
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
-2026-03-16 <span class="news-indication-tag">CVA</span>
+2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[Canal 4 Tenerife](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2d1SUg1bkR3ZDNVbS11VWY4Y0oyZTU1QXFzd1VjbDNfOFFleS10N0U4TzVZWXRzVWR3NjBQX2dLZDNPOGRwWE5ocTZoMk1McE1GMVlNRFpmNjZYTV95QldBZjVNeDh5cFFsLVpuYmJ0TEJ0WWpOb3FvN0p3cmhwVFpiM3J5NUVzVFZSTGtKeS0yUko2dTloRUpYdw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+---
+
+### [«Ictus e infarto, le le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza) - Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2fSAYcBQVVfeXFMTjdWUTlqbWR0MWFKdW1QYlFsYVJKcjExU3NRNkdKQjl6Y2t1bkpkcE5rWWF0RVMyOW1DSWxQa3JmZ19yUDhlMmkyTjJhVVJVZnlMNWdqVEp2M0ZENHdVN2pfVFp0cS0yNzRjX1c4UHI3a0JQOW1JWkFnTmxxT3UwWFRBY3dWUXNr?oc=5)
+
+2026-03-17 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2fSAYcBQVVfeXFMTjdWUTlqbWR0MWFKdW1QYlFsYVJKcjExU3NRNkdKQjl6Y2t1bkpkcE5rWWF0RVMyOW1DSWxQa3JmZ19yUDhlMmkyTjJhVVJVZnlMNWdqVEp2M0ZENHdVN2pfVFp0cS0yNzRjX1c4UHI3a0JQOW1JWkFnTmxxT3UwWFRBY3dWUXNr?oc=5)
 
 ---
 
@@ -58,27 +66,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [Risiko für Demenz und Schlaganfall durch psychische Traumata erhöht - Gelbe Liste](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbGpRQXA5QnJlN1Z4eldGb3ZBemt3M2w5NXh5VlZ2U3JQcEFBU292U3laRzdtY19Hb0VkdklLWHBQbHA5UFlLY2tZN09Sem52VXRIMFJRTWJEMXZjeGdoODBVS1lLcnppa2VRWEQ0MWxTTmxMR0JxeDhrWGhLMkpzR2dqeUxrRzNfaHdtZQ?oc=5)
-
-2026-03-16 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbGpRQXA5QnJlN1Z4eldGb3ZBemt3M2w5NXh5VlZ2U3JQcEFBU292U3laRzdtY19Hb0VkdklLWHBQbHA5UFlLY2tZN09Sem52VXRIMFJRTWJEMXZjeGdoODBVS1lLcnppa2VRWEQ0MWxTTmxMR0JxeDhrWGhLMkpzR2dqeUxrRzNfaHdtZQ?oc=5)
-
----
-
 ### [Cuore, pericolo infarto e ictus: uomini giovani a rischio di più e prima, le età critiche](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkdJU19wLW9QR2MxblUyb25nb04tQkE1VXV5Wld1NG1HSHF3bnlucFNWVGdkeDV1RUs3WWpqa3pMOWJEUmcwdGdJdENrQk9IdU5NVENnSVg2eURVR2lUdkRFR1dTOGt2dWZNTUNKU2wyVUw1NFM3U1Q1aGl2TnB1QWM3czJqaHg5MFM5ZXVNeEpiQTF3eWtrRmFRMzQ5OEhiLXc?oc=5)
 
 2026-03-15 <span class="news-indication-tag">ictus</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkdJU19wLW9QR2MxblUyb25nb04tQkE1VXV5Wld1NG1HSHF3bnlucFNWVGdkeDV1RUs3WWpqa3pMOWJEUmcwdGdJdENrQk9IdU5NVENnSVg2eURVR2lUdkRFR1dTOGt2dWZNTUNKU2wyVUw1NFM3U1Q1aGl2TnB1QWM3czJqaHg5MFM5ZXVNeEpiQTF3eWtrRmFRMzQ5OEhiLXc?oc=5)
-
----
-
-### [Il vino è un toccasana per la salute se bevuto con moderazione e associato alla Dieta Mediterranea](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm84cUpWbGdFWlhCdUhKQjR5d1lGMkQ5TC01eUJNUmN0dEl5a2hqaWZ0bWEydzBxb3BVRzF1UU93b1pEMk9PU3lXd0ZZS2JGazA2LW1pcVphVWg0eGlzLTFqMTRDQkd3SjgyQ1FJUlVoNWFwdHczWnNkSFlGaDNvSWF1V0hzRWpjUWlzejRHNTQyRTJRcXlRMGRwOGliUFZEaU8yZ21KTTJYVGYzR2NOQzBUeE5OWG5YNmsyRU1ULXVQaTBySDlEdA?oc=5)
-
-2026-03-15 <span class="news-indication-tag">ictus</span>
-
-來源：[WineNews](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm84cUpWbGdFWlhCdUhKQjR5d1lGMkQ5TC01eUJNUmN0dEl5a2hqaWZ0bWEydzBxb3BVRzF1UU93b1pEMk9PU3lXd0ZZS2JGazA2LW1pcVphVWg0eGlzLTFqMTRDQkd3SjgyQ1FJUlVoNWFwdHczWnNkSFlGaDNvSWF1V0hzRWpjUWlzejRHNTQyRTJRcXlRMGRwOGliUFZEaU8yZ21KTTJYVGYzR2NOQzBUeE5OWG5YNmsyRU1ULXVQaTBySDlEdA?oc=5)
 
 ---
 

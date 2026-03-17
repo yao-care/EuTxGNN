@@ -50,11 +50,11 @@ permalink: /news/pegvaliase/
 
 ---
 
-### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+### [Data from smart watches reveal early signs of insulin resistance](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
 
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
 
 ---
 

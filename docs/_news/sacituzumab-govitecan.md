@@ -14,7 +14,7 @@ permalink: /news/sacituzumab-govitecan/
 ---
 
 <p class="key-answer" data-question="Sacituzumab Govitecan 有什麼相關新聞？">
-<strong>Sacituzumab Govitecan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sacituzumab Govitecan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/sacituzumab-govitecan/
 <p><a href="{{ '/drugs/sacituzumab-govitecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [ATTD: de los datos de glucosa a los insights de IA -- una nueva dirección en el manejo de la diabetes - Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
 
@@ -50,11 +50,11 @@ permalink: /news/sacituzumab-govitecan/
 
 ---
 
-### [Aumentan los casos de cetoacidosis diabética - Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+### [Data from smart watches reveal early signs of insulin resistance](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
 
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMie0FVX3lxTE81M283OTVlNTVSVnJzbzBTZGh2Y1c3d3pMaFVDa1gySTZNWFNhYkw4eDQ5SW5OcEd2Vm1WSmRHTElFc1FXNXlOYVR3VkIzMDF6LWhIU1ZfakhTUW9HS3dRQy1EaVJ6TmlIZjB0ZDZDTXg0SU9hendIWXI0QQ?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
 
 ---
 
@@ -63,14 +63,6 @@ permalink: /news/sacituzumab-govitecan/
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2FmMjhBUEttSDVlQ2pCR2d6YkEwYVpUMzhNSG83d1JlWjhpU2I1Vjl1anplSFY2dnZJdDBJODdYc3hUb0lsMDROZkVPdHpONlo4WV9jWW1PY0Q2Wko2NzJaSzJXdEwtV0FnbGdmMkxPbGdOWTlmc0lCUERoMktlMC1Xb1NJb2NzdlFEUzFacmRpcTh5Tm5IVk1INmZGckhXRm0xOUxiSTlPbGxZNEJmMnZmRFprOWJveVltNHdsa3ctU1XSAb4BQVVfeXFMTmp1NlRhRFRmUjNMVW9vNTFrVWFnNzlvYnNRb0E4dFZIUUlSUy1ZUUxvWTJERU5kT1E2TXRicUJVdFNoekpSVmhJVUVaVkVpd2FTYkZOSzdRUnpKSEpKeDZLcjFiRU5OQXhuS2s1M3hSbHlsdFM1T2pZaHlKa2FzNjdEUzFUUzNob2tleWZ6ZjR5cmgwU0VGVWVyTTQwdGdOd3NXNE16dUZOVXBJMUxNQ1l5OEtjVm4zLXNrUXpYZw?oc=5)
-
----
-
-### [La combinación de pembrolizumab y enfortumab mejora la supervivencia en cáncer de vejiga - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSDBweWpXUk95UFB3N3U1VW1tRjJzV0t2LTFsbmlRWllxWDd2UGU0U1VxdGNVamxVRGlaYnl1TV9DMjF2azV4RXhRMEM2MUJBQWU3UHFENzJ5Qk9BcnctRmM4cHpSYkIyRkhfM3Eya2tORUpJLUZodlVieng5V09DOVRUa2t1ZVRUeWFnSVpaVm1xZE04MUw4RG9GMVBRT1pmM196WGx5VFFIdmllYm5GVXBXYUtGbWpXS1pONy15anHSAbsBQVVfeXFMTWlnSFdRSUhMT3BHMjMwNXUyYUZIZ2dxWmNELXB5Zl9wM29jY2hEbjBrU24wRDlOOFZlOWR1aGdSb0EtTjBWQW5xMDk2bXRqcGc3LTFEOTBJSVZ3SS1sTXlGWG53X1pDNzlTaDh2aDNRbjBtcnkyMF92dVI0UkV6ZjJQMnJtQ3pNN1dnWnRMS2FYcGkxZFEtVm5TWWFwNi1SV3QtalFkWUhxM0lmTzJaN2Y1Q2tIb0F2cXpWTQ?oc=5)
-
-2026-03-16 <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-drug-tag">Sacituzumab Govitecan</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSDBweWpXUk95UFB3N3U1VW1tRjJzV0t2LTFsbmlRWllxWDd2UGU0U1VxdGNVamxVRGlaYnl1TV9DMjF2azV4RXhRMEM2MUJBQWU3UHFENzJ5Qk9BcnctRmM4cHpSYkIyRkhfM3Eya2tORUpJLUZodlVieng5V09DOVRUa2t1ZVRUeWFnSVpaVm1xZE04MUw4RG9GMVBRT1pmM196WGx5VFFIdmllYm5GVXBXYUtGbWpXS1pONy15anHSAbsBQVVfeXFMTWlnSFdRSUhMT3BHMjMwNXUyYUZIZ2dxWmNELXB5Zl9wM29jY2hEbjBrU24wRDlOOFZlOWR1aGdSb0EtTjBWQW5xMDk2bXRqcGc3LTFEOTBJSVZ3SS1sTXlGWG53X1pDNzlTaDh2aDNRbjBtcnkyMF92dVI0UkV6ZjJQMnJtQ3pNN1dnWnRMS2FYcGkxZFEtVm5TWWFwNi1SV3QtalFkWUhxM0lmTzJaN2Y1Q2tIb0F2cXpWTQ?oc=5)
 
 ---
 
