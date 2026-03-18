@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,23 +40,7 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Demuestran que un compuesto del aceite de oliva virgen extra frena la inflamación de la artritis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOME1ZMkpZcWFKSndYVUZXaVRGSkoxbUUyeFhLRlVHWGpGMkE2VW5MTjAxM2FtM2NWNl8yUmt4aGhOM1loeTFtWXhTSlM4N0FYOGN2NFEwd2hHZnBhOTdLeVp5RnozZGRIaXN5d3YybFExLXpQeUltM0RqMTR1TWhtcHBOZGxzT3l1UVItenJEMEFpRThTazhWSEN6N0lBZDVCMlU5clM0cWpxdzhWRkxXbTh6TmQ3S0Y0NFJ6dWVYakN4R2ktTlA5eE9mY3RsZmhGODM0ZGp6V1RlSnFFVmczQUlXVjRxZw?oc=5)
-
-2026-03-18 <span class="news-indication-tag">artritis</span>
-
-來源：[Mercacei](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOME1ZMkpZcWFKSndYVUZXaVRGSkoxbUUyeFhLRlVHWGpGMkE2VW5MTjAxM2FtM2NWNl8yUmt4aGhOM1loeTFtWXhTSlM4N0FYOGN2NFEwd2hHZnBhOTdLeVp5RnozZGRIaXN5d3YybFExLXpQeUltM0RqMTR1TWhtcHBOZGxzT3l1UVItenJEMEFpRThTazhWSEN6N0lBZDVCMlU5clM0cWpxdzhWRkxXbTh6TmQ3S0Y0NFJ6dWVYakN4R2ktTlA5eE9mY3RsZmhGODM0ZGp6V1RlSnFFVmczQUlXVjRxZw?oc=5)
-
----
-
-### [EPOC, la "enfermedad silenciosa" que afecta a millones de personas en España](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHhDSmlkVzg3by15akh0VUFJcTNvbDhUcHVhVEh3c3llTTY0bEkxT19LaXJoZHZTLU4zMEozMGN5MDUtSmszRVVhU1ltZHBzUXN3QjZ1eEo2eU9OdFQxcjBhaTVnLUpnd1JWd0dOdHJPczNaSVpuSFh5YWlINXNONmQ0NTJ4VmdJTWt2cmFOSDRTOUFaenY2YUZYMlJsa19PNV83SGQ2dElKcTk5aGQ1bmIwZzRCRWxKQWdIUlk0YTI1Ync?oc=5)
-
-2026-03-18 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[CatalunyaPress](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHhDSmlkVzg3by15akh0VUFJcTNvbDhUcHVhVEh3c3llTTY0bEkxT19LaXJoZHZTLU4zMEozMGN5MDUtSmszRVVhU1ltZHBzUXN3QjZ1eEo2eU9OdFQxcjBhaTVnLUpnd1JWd0dOdHJPczNaSVpuSFh5YWlINXNONmQ0NTJ4VmdJTWt2cmFOSDRTOUFaenY2YUZYMlJsa19PNV83SGQ2dElKcTk5aGQ1bmIwZzRCRWxKQWdIUlk0YTI1Ync?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
 
@@ -66,19 +50,11 @@ permalink: /news/idarucizumab/
 
 ---
 
-### [EULAR lidera un consenso sobre el manejo de la artritis reumatoide basado en la evidencia disponible sobre eficacia seguridad y coste - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
+### [L’obesità italiana, un’altra eredità negativa degli Usa - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNl82X0tTbkJVdXh1QzdEZGp3bFZYNFZRMWNHWjBVLVZyU0ZfNUZ0TU1DNjh2eDFvV1d0eGVwU1hGcE5veWJSM1k4Q2R4ZmJ4R3FVVGRpdVFyWFQ0d3g4czk2M3ZvX09ZLVA0TzRSdjRrbFU5UEVFbjQybm1vdzlURGNteWdtTm9mQ01Ea1VyVUVPS0VYTWU1LXo0bVhBa1djR3RUUzRvNk15RUFPVVJISTVOTzNoMDFBRGNfdlBfR3BTcmM?oc=5)
 
-2026-03-17 <span class="news-indication-tag">artritis</span>
+2026-03-17 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
-
----
-
-### [SEMI denuncia inequidad en la vacunación de adultos frente al VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdk5vTERYd0RGRVFwY05OMXRUNDlLSktIVWd0M3pldTlOR1FTbXhmZ0IwOXdwdzZhdWU3c1ZHSmtCTHcxNXlFb09uVHBpYU56RkdYbjR1YUtwVGNCV3NjTllNdGY1YkJ4M0swQ2hEVEhjcnpRaFAwdWNHeFZmd0IyQ2lBVkR3NEZlUlBhcXM2X3RQQ0hFdnBQTUp3YjZyUEdSWkpxbGtPbW5HUDFfMGx1dXdTa2ZVcjZ2WDh1bExPaFo2Tk9VeGp4RtIByAFBVV95cUxOSU1RdDVBblEtdXZmYW56TFd4eUpQaVluOWRRUDFOekU0TVdYOEhQYmpJRVFYdUhJdlpUX3MzNU8tQl9ETmMtMnVlNm85MXltbG1XRm1Dd1lVTUlVM2ZfcHRsaWFQbnUxenRnYjZlZjBobjd0MHhXWnRPQXp6RlpzR1pnRVZiRlpfUWczcHlUeTM3SERVUjlEdzRsMzNqVXNpbElvZFJfN05CbGJPZ29uZVYzY3ZrNm9pTlJMWktkNVdXZm5QelhIaw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">EPOC</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdk5vTERYd0RGRVFwY05OMXRUNDlLSktIVWd0M3pldTlOR1FTbXhmZ0IwOXdwdzZhdWU3c1ZHSmtCTHcxNXlFb09uVHBpYU56RkdYbjR1YUtwVGNCV3NjTllNdGY1YkJ4M0swQ2hEVEhjcnpRaFAwdWNHeFZmd0IyQ2lBVkR3NEZlUlBhcXM2X3RQQ0hFdnBQTUp3YjZyUEdSWkpxbGtPbW5HUDFfMGx1dXdTa2ZVcjZ2WDh1bExPaFo2Tk9VeGp4RtIByAFBVV95cUxOSU1RdDVBblEtdXZmYW56TFd4eUpQaVluOWRRUDFOekU0TVdYOEhQYmpJRVFYdUhJdlpUX3MzNU8tQl9ETmMtMnVlNm85MXltbG1XRm1Dd1lVTUlVM2ZfcHRsaWFQbnUxenRnYjZlZjBobjd0MHhXWnRPQXp6RlpzR1pnRVZiRlpfUWczcHlUeTM3SERVUjlEdzRsMzNqVXNpbElvZFJfN05CbGJPZ29uZVYzY3ZrNm9pTlJMWktkNVdXZm5QelhIaw?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNl82X0tTbkJVdXh1QzdEZGp3bFZYNFZRMWNHWjBVLVZyU0ZfNUZ0TU1DNjh2eDFvV1d0eGVwU1hGcE5veWJSM1k4Q2R4ZmJ4R3FVVGRpdVFyWFQ0d3g4czk2M3ZvX09ZLVA0TzRSdjRrbFU5UEVFbjQybm1vdzlURGNteWdtTm9mQ01Ea1VyVUVPS0VYTWU1LXo0bVhBa1djR3RUUzRvNk15RUFPVVJISTVOTzNoMDFBRGNfdlBfR3BTcmM?oc=5)
 
 ---
 

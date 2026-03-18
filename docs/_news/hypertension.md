@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Samsung destaca la detección de la apnea del sueño en el Día Mundial del Sueño 2026 - Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
+### [Gesund im Alter: Diabetes, Cholesterin, Bluthochdruck, Adipositas – wie Sie das „tödliche Quartett“ besiegen](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUjl1MFNpc3c4REo3em9Ua016SDRKLVZ3QmpEM2xnV0FQZ0pkeVZTTDhheXVsZ3d3emVoMUdkcFNLMkh3OEFJd0lZSkZxSXBtWHZoRnNMbUwzS0JuWWlDc0xNZTItRzFtVVFiV1BZUjZBS0E3R3gwamNMVFA4Wmx0Z2wzLXhwM282UWtFU0oyY2J1WTFiTEZXTTFOUGFXVkpJeUVnM20xZl9feENiTUJUOHBPbGdBSC1HWHR1NzBjcmJFdXFtSmhzZkZJUU5iRjIzZ2F5SE1mbUNyM2FMTTd2US1IN2V2VG84LVFtVmlobFFTaTJod0trUHBB?oc=5)
 
-2026-03-17
+2026-03-18
 
-來源：[Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
-
----
-
-### [Cambios en los patrones de respiración pueden desencadenar hipertensión - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWdTa0c0V1g4eVRSZ2w4V2EtQU9yREVycDVNM0hjLTYtSk9mWWZKOU5iNHUzUXM1ZEZPSFJMSl84Tmw4Vm9OX2E1dEN6blBzdW9jX2hzMm1Fal9QSUl4OGcwbHhYWWtnWll6SmNKdU5KTk1JM2h4dTVtaHlMdVNEU1dxQTFlaVVJS1FmVXVNcl9BZVRBMzFxd2tlQTFXVEQ4MFA4V2o2Vy1ZMkh2Y05LbXd4b29zUUZaYmNUc2tTVW15QdIBvAFBVV95cUxNTTRJV1Nlb0hNRk16NjRoOWRKR2Q2M1RWQTRKMTQwMGxGT0RnY0lWWjN1cm8tbmtDLVB2OWJqbV9BMzFGamVmX3JUZWpLX0dwRDdKY1Vaby1EWE9tSkJoV2g2RWo2YTdySkNENWZueXdacGxYVGoxRmtENGZfVWxIckJ3NkJDbi1Ma1Vlb3NYdkRyekJLNkJNaEZUQjI4VWl5b2JJVmU2dnMzZERFb0xzTEFhaTI4dHZacnI4bA?oc=5)
-
-2026-03-17
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWdTa0c0V1g4eVRSZ2w4V2EtQU9yREVycDVNM0hjLTYtSk9mWWZKOU5iNHUzUXM1ZEZPSFJMSl84Tmw4Vm9OX2E1dEN6blBzdW9jX2hzMm1Fal9QSUl4OGcwbHhYWWtnWll6SmNKdU5KTk1JM2h4dTVtaHlMdVNEU1dxQTFlaVVJS1FmVXVNcl9BZVRBMzFxd2tlQTFXVEQ4MFA4V2o2Vy1ZMkh2Y05LbXd4b29zUUZaYmNUc2tTVW15QdIBvAFBVV95cUxNTTRJV1Nlb0hNRk16NjRoOWRKR2Q2M1RWQTRKMTQwMGxGT0RnY0lWWjN1cm8tbmtDLVB2OWJqbV9BMzFGamVmX3JUZWpLX0dwRDdKY1Vaby1EWE9tSkJoV2g2RWo2YTdySkNENWZueXdacGxYVGoxRmtENGZfVWxIckJ3NkJDbi1Ma1Vlb3NYdkRyekJLNkJNaEZUQjI4VWl5b2JJVmU2dnMzZERFb0xzTEFhaTI4dHZacnI4bA?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUjl1MFNpc3c4REo3em9Ua016SDRKLVZ3QmpEM2xnV0FQZ0pkeVZTTDhheXVsZ3d3emVoMUdkcFNLMkh3OEFJd0lZSkZxSXBtWHZoRnNMbUwzS0JuWWlDc0xNZTItRzFtVVFiV1BZUjZBS0E3R3gwamNMVFA4Wmx0Z2wzLXhwM282UWtFU0oyY2J1WTFiTEZXTTFOUGFXVkpJeUVnM20xZl9feENiTUJUOHBPbGdBSC1HWHR1NzBjcmJFdXFtSmhzZkZJUU5iRjIzZ2F5SE1mbUNyM2FMTTd2US1IN2V2VG84LVFtVmlobFFTaTJod0trUHBB?oc=5)
 
 ---
 

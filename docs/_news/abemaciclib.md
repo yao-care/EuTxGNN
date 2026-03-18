@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 cardiopatía</span></li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart failure</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -40,15 +40,7 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Demuestran que un compuesto del aceite de oliva virgen extra frena la inflamación de la artritis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOME1ZMkpZcWFKSndYVUZXaVRGSkoxbUUyeFhLRlVHWGpGMkE2VW5MTjAxM2FtM2NWNl8yUmt4aGhOM1loeTFtWXhTSlM4N0FYOGN2NFEwd2hHZnBhOTdLeVp5RnozZGRIaXN5d3YybFExLXpQeUltM0RqMTR1TWhtcHBOZGxzT3l1UVItenJEMEFpRThTazhWSEN6N0lBZDVCMlU5clM0cWpxdzhWRkxXbTh6TmQ3S0Y0NFJ6dWVYakN4R2ktTlA5eE9mY3RsZmhGODM0ZGp6V1RlSnFFVmczQUlXVjRxZw?oc=5)
-
-2026-03-18 <span class="news-indication-tag">artritis</span>
-
-來源：[Mercacei](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOME1ZMkpZcWFKSndYVUZXaVRGSkoxbUUyeFhLRlVHWGpGMkE2VW5MTjAxM2FtM2NWNl8yUmt4aGhOM1loeTFtWXhTSlM4N0FYOGN2NFEwd2hHZnBhOTdLeVp5RnozZGRIaXN5d3YybFExLXpQeUltM0RqMTR1TWhtcHBOZGxzT3l1UVItenJEMEFpRThTazhWSEN6N0lBZDVCMlU5clM0cWpxdzhWRkxXbTh6TmQ3S0Y0NFJ6dWVYakN4R2ktTlA5eE9mY3RsZmhGODM0ZGp6V1RlSnFFVmczQUlXVjRxZw?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
 
@@ -58,27 +50,11 @@ permalink: /news/abemaciclib/
 
 ---
 
-### [EULAR lidera un consenso sobre el manejo de la artritis reumatoide basado en la evidencia disponible sobre eficacia seguridad y coste - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
-
-2026-03-17 <span class="news-indication-tag">artritis</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
-
----
-
 ### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 2026-03-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
-
----
-
-### [Tesis doctoral concluye programas Rehabilitación Cardíaca mejoran calidad vida pacientes - Región Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1hhODlkM2dBUVp4dmdrRlRvNS1mdE1QQzlXR0lnd0FrOEZyVF9UNVdqYkdVM0VCX25wbWhCOVk0dmU0b0ExVlFkcWJCX2RsM283OTZ1T0I4Umg1TXFDalpVTGY5SWlYLTViT2t6aW8zNjgtRG5VQmlYUURpU0ltRldvY01oMVhzbk5UOWIyc0szVFFjRDBLdHlsM2x4U1hqaXpGbnhMY3lISEVMYXdoVE1ETE40ekFFb1pKVHFKTjBsQ2FEVUZkY3JiUWxLRzVlY3htZ2JUem9ac0ZjWUxxZ0Vn0gHnAUFVX3lxTE1XZTBNbldUbVVNampHV0hPREJQWnl3WnZfN0JGVmhRY0JaeXZma2Qza0ZubHF3RDJlVXpFVXo1Qk16VXhkVmRIYjVTN3BtUi1kelMyUTRFRS1XaURrbkVRRkhrdEVFNm1vT2o5dUVhNjltT1ozVVVuTU5hQkc5emNRVTRhSnVFTHVYeFRvc0E3N0FPdWxzTm9HMzdndHpGbXZnVlRGTGdwelQ2MTlVZm84bnZjZmlheDdjOHcxcEZlQTBIYXJPLXUwV3BVVTVPUkZEaHNqc2lSaE8tZWNmV255TjVxaGtSZw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Región Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1hhODlkM2dBUVp4dmdrRlRvNS1mdE1QQzlXR0lnd0FrOEZyVF9UNVdqYkdVM0VCX25wbWhCOVk0dmU0b0ExVlFkcWJCX2RsM283OTZ1T0I4Umg1TXFDalpVTGY5SWlYLTViT2t6aW8zNjgtRG5VQmlYUURpU0ltRldvY01oMVhzbk5UOWIyc0szVFFjRDBLdHlsM2x4U1hqaXpGbnhMY3lISEVMYXdoVE1ETE40ekFFb1pKVHFKTjBsQ2FEVUZkY3JiUWxLRzVlY3htZ2JUem9ac0ZjWUxxZ0Vn0gHnAUFVX3lxTE1XZTBNbldUbVVNampHV0hPREJQWnl3WnZfN0JGVmhRY0JaeXZma2Qza0ZubHF3RDJlVXpFVXo1Qk16VXhkVmRIYjVTN3BtUi1kelMyUTRFRS1XaURrbkVRRkhrdEVFNm1vT2o5dUVhNjltT1ozVVVuTU5hQkc5emNRVTRhSnVFTHVYeFRvc0E3N0FPdWxzTm9HMzdndHpGbXZnVlRGTGdwelQ2MTlVZm84bnZjZmlheDdjOHcxcEZlQTBIYXJPLXUwV3BVVTVPUkZEaHNqc2lSaE8tZWNmV255TjVxaGtSZw?oc=5)
 
 ---
 

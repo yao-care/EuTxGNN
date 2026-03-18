@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。8 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。15 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>8 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>15 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,77 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（15 則）
+
+### [All doctors in England warned to watch for meningitis symptoms after Kent outbreak](https://news.google.com/rss/articles/CBMiV0FVX3lxTE96bk00YS1mQURyUk1Qc2pwLVlfaEozVkF6Yll4U0NWQ2NIMXhoV040WUNab3k3cC05OU1NUlY5OHA4NVB6OWR3YzlhTnNMQXM4OEU1U3Q1RQ?oc=5)
+
+2026-03-18
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE96bk00YS1mQURyUk1Qc2pwLVlfaEozVkF6Yll4U0NWQ2NIMXhoV040WUNab3k3cC05OU1NUlY5OHA4NVB6OWR3YzlhTnNMQXM4OEU1U3Q1RQ?oc=5)
+
+---
+
+### [La OMS advierte que la tuberculosis mata a 3.300 personas al día y reclama ampliar el acceso a nuevos diagnósticos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFgxZzJUaS1ETF81THVfTkhHMlczU19vMy1WMVRFRURURkdfeXdqVzdicHFZQW5WTWRQWVc5Z0RnYUNNZkhzc0k1dVZBTG9qbTdGRzFVZjk5UndwRVRmMXNxNS0xd3lMY21nWF9QTU44aG50T2hYaVZiNzQ4SmE4RDVvUzJ1cFJINWRpazJTZDJ5MElFbVk3ODZabzJZOG1oY3Y3SWxCSFh6bkF3ZVlISzJMaktxWmhMemJ5enA2MEFuU0VtOVlpdFJIM2tqRk9FQmcxYjF6b1RtTDAwS3ZRUUpqdFp2N2xPcGgwbUtObw?oc=5)
+
+2026-03-18
+
+來源：[medicosypacientes.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFgxZzJUaS1ETF81THVfTkhHMlczU19vMy1WMVRFRURURkdfeXdqVzdicHFZQW5WTWRQWVc5Z0RnYUNNZkhzc0k1dVZBTG9qbTdGRzFVZjk5UndwRVRmMXNxNS0xd3lMY21nWF9QTU44aG50T2hYaVZiNzQ4SmE4RDVvUzJ1cFJINWRpazJTZDJ5MElFbVk3ODZabzJZOG1oY3Y3SWxCSFh6bkF3ZVlISzJMaktxWmhMemJ5enA2MEFuU0VtOVlpdFJIM2tqRk9FQmcxYjF6b1RtTDAwS3ZRUUpqdFp2N2xPcGgwbUtObw?oc=5)
+
+---
+
+### [La OMS pide optimizar los calendarios de vacunación nacionales ante el inicio de una etapa "desafiante"](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkMtR0NqZkIwYVhEYjduNFppVXJTN2psZlJKdUhtOGNuMjRhWkZxMGZWSkcwbnZxYWRzdjQ1RW5UdTBUS1JKZnVBcXdwRU15ZkNCUlFwcE1iSnpHQ3lqT0RmdDRpSHVvOXdhWHBJS0ZodnZuZTdJa2NVWjhmMTRTZzNKemlDUnpYV3VIUjR3SWY1Zm9ROU5DekU0eVJRT2tPNlBYTGhxYVpjZ2pYd3ctOUQ1azNoUXRDT3Bsc3JfMjRKM29DbmNGTml0LXQyb1A2S0xIU0k3aw?oc=5)
+
+2026-03-18
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkMtR0NqZkIwYVhEYjduNFppVXJTN2psZlJKdUhtOGNuMjRhWkZxMGZWSkcwbnZxYWRzdjQ1RW5UdTBUS1JKZnVBcXdwRU15ZkNCUlFwcE1iSnpHQ3lqT0RmdDRpSHVvOXdhWHBJS0ZodnZuZTdJa2NVWjhmMTRTZzNKemlDUnpYV3VIUjR3SWY1Zm9ROU5DekU0eVJRT2tPNlBYTGhxYVpjZ2pYd3ctOUQ1azNoUXRDT3Bsc3JfMjRKM29DbmNGTml0LXQyb1A2S0xIU0k3aw?oc=5)
+
+---
+
+### ['Friends thought daughter's meningitis symptoms were heatstroke'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hSE9oRVEyU3U2TFdMRGJ1UmRlTWJPMEwyaWpkWUhLdGxvLWJqSVdaSEZPWS1pQjFrVEtSSWFNTXJscUt1d1FCT0otV0NTeEx1WGRFaTduaUM4d3JY?oc=5)
+
+2026-03-18
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hSE9oRVEyU3U2TFdMRGJ1UmRlTWJPMEwyaWpkWUhLdGxvLWJqSVdaSEZPWS1pQjFrVEtSSWFNTXJscUt1d1FCT0otV0NTeEx1WGRFaTduaUM4d3JY?oc=5)
+
+---
+
+### [Sanidad publica la nueva Guía de Manejo Clínico de las Enfermedades Transmitidas por Garrapatas en España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDhvZnR1VmhLQXlsX253OVI3QkRha2xiT3drUWxELVRKSUlwRDJBUk9PY3VqdFl4RnZ5R3B1UGFkZTVaWW9jV0FpdDE3T2xwMVdkcE84dml1bE54Rktjb09pWl9jTDRjOXZnYkJQcmRQaWpMYVlRa3dDdENicmpTUERFeGJTQU9RTlczQk9GQkNpVXVLWXNWYThQeFlUMmdjdENIaWdJYmNMeE1WUTZzVFFSNGs5Q0VfNGJPMV8wMElQS1NjVEh0bkE5aVB0Um9GNVZZblhDTkprZjQ?oc=5)
+
+2026-03-18
+
+來源：[medicosypacientes.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDhvZnR1VmhLQXlsX253OVI3QkRha2xiT3drUWxELVRKSUlwRDJBUk9PY3VqdFl4RnZ5R3B1UGFkZTVaWW9jV0FpdDE3T2xwMVdkcE84dml1bE54Rktjb09pWl9jTDRjOXZnYkJQcmRQaWpMYVlRa3dDdENicmpTUERFeGJTQU9RTlczQk9GQkNpVXVLWXNWYThQeFlUMmdjdENIaWdJYmNMeE1WUTZzVFFSNGs5Q0VfNGJPMV8wMElQS1NjVEh0bkE5aVB0Um9GNVZZblhDTkprZjQ?oc=5)
+
+---
+
+### [‘Serious’ warning issued to millions taking Omeprazole over problems drug causes](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+
+2026-03-18
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+
+---
 
 ### [#BochumErkenntSepsis: Eine Stadt klärt auf - Stadt Bochum](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZE41dU1MMkhiSjZ4SWEwWjBHWi1KbzFESXl1LV9qNW9wRGNqb1RDczFzZVNlWUlMLVd3VU9KUkhZY3IzMUZoSWd0SkxPZTV6TTlvT2RIVnhlaUFmRUdQakFydnQ5a3NlaG5WdF9Na0dDbFZJeFBDTXJ1TmI5NzJIRlFBSU1mRV9JUXc3QWNoZnZfT0pkbkMzNA?oc=5)
 
 2026-03-18
 
 來源：[Stadt Bochum](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZE41dU1MMkhiSjZ4SWEwWjBHWi1KbzFESXl1LV9qNW9wRGNqb1RDczFzZVNlWUlMLVd3VU9KUkhZY3IzMUZoSWd0SkxPZTV6TTlvT2RIVnhlaUFmRUdQakFydnQ5a3NlaG5WdF9Na0dDbFZJeFBDTXJ1TmI5NzJIRlFBSU1mRV9JUXc3QWNoZnZfT0pkbkMzNA?oc=5)
+
+---
+
+### [Vergütung für Alzheimer-Therapie geregelt - KV Nordrhein](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFRDZEJHcG5XdUx6Q05YdzVrb2JERktqQS16ckxOQlFZek1tcjVFbURVMVB3QlVKNlJBUTRjZGdZRDJtMk9KeG5KQTFmOGNkaE1kYjZTcVFVTlRZd0cxV25pNzFmV19sX25YM3RHcVFNRll3V3JKaXMwVllvb1MyODFhc1hNZDBMcGlaOUlZa3dfWE9zTWlPalJVVERIZXdzanc?oc=5)
+
+2026-03-18
+
+來源：[KV Nordrhein](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFRDZEJHcG5XdUx6Q05YdzVrb2JERktqQS16ckxOQlFZek1tcjVFbURVMVB3QlVKNlJBUTRjZGdZRDJtMk9KeG5KQTFmOGNkaE1kYjZTcVFVTlRZd0cxV25pNzFmV19sX25YM3RHcVFNRll3V3JKaXMwVllvb1MyODFhc1hNZDBMcGlaOUlZa3dfWE9zTWlPalJVVERIZXdzanc?oc=5)
+
+---
+
+### ['I kept falling over on lads' holiday before learning the devastating reason why' - Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJhblhUYlAxd2ZRbTlJRmFyR3FaWnZoZjZROVJOck0xNnJNcGxZalg4SXBuVGxGWTJnU2JWcklvNC1hc1BsN2VJWjQ5bU1vUkhkYnZxZFdBblB3S0lrNkswUkt1WHBXdnprLWd0STZOWFZ6ZkMxczFGVWptMjY0bVd1NnFkZ9IBiwFBVV95cUxQYzZTZlVCUGJRT2xPQW9CUzk1cU1ET3FCQnJLbHduUUpndmNtUmJxYVV2YXBiWEdfVTM5NjB3bFAwWXFJaDVxMXBQMjRfakt4eWpaOVRSMHJhdTdtREZPX2djVmVGNGZGSnh4UXRSZzVLUThOMHc3SHZPX29FckUtQkFwemxVN3FnQzd3?oc=5)
+
+2026-03-18
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJhblhUYlAxd2ZRbTlJRmFyR3FaWnZoZjZROVJOck0xNnJNcGxZalg4SXBuVGxGWTJnU2JWcklvNC1hc1BsN2VJWjQ5bU1vUkhkYnZxZFdBblB3S0lrNkswUkt1WHBXdnprLWd0STZOWFZ6ZkMxczFGVWptMjY0bVd1NnFkZ9IBiwFBVV95cUxQYzZTZlVCUGJRT2xPQW9CUzk1cU1ET3FCQnJLbHduUUpndmNtUmJxYVV2YXBiWEdfVTM5NjB3bFAwWXFJaDVxMXBQMjRfakt4eWpaOVRSMHJhdTdtREZPX2djVmVGNGZGSnh4UXRSZzVLUThOMHc3SHZPX29FckUtQkFwemxVN3FnQzd3?oc=5)
 
 ---
 
@@ -72,14 +136,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Samsung destaca la detección de la apnea del sueño en el Día Mundial del Sueño 2026 - Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
-
-2026-03-17
-
-來源：[Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
-
----
-
 ### [FAU Erlangen-Nürnberg: Extrem tiefgekühlte Hirnregion kann nach Auftauen wieder elektrische Lernreize verarbeiten - Der Neue Wiesentbote](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY3hfVnRQNVF4OGhzU3plcHFqTzBHWWFoNjh5dExDajdvazVkbUc0QjBGc3AxdF85cndEOXQ3NW5ISEFMRkVHVzBvLTJrRmNJd2FwcndScTFrdWZhb01fS0RDSXhpWlNMZXRXcmZuVjc5U2tZRnVaRjBrZDdTMUYxbHR3TmJwSk4wU2F5N3JHbjh5NG01ZzJDWEFJOVFsay1uWkxXMEJRTEktTXlnYWNadjluV2hsVU9mOGRLRVZMVnRrQV92dVoxMTAxWUNHcy03WFBLa3R5QVNoc3Y1YUQ5VjhMT25FM1Rp?oc=5)
 
 2026-03-17
@@ -88,19 +144,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [People on omeprazole for acid reflux told 'two problems' the longer you take it - Daily Express](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWFIS1psRktJckRGNjAwcEtSbkhLbUdPZjRieHp2ekduVzYzcm5GS1Y3TC1fZVlnNThZdENEakp4RmdwWkhDb0FJZWdUUkN6TUNuRkk0UGV4TExYb1FNeExJZXA0dUt0RDduMEhrVlV0OV95WTgycWNWcGZhX0YzRVFkNTZoZXZKZDU1VkdGbXBTX1VqMnNveUMtN3NMcG56ckhBb3M2NE5tRW5lQmowbkFaU1d3Z9IBuwFBVV95cUxOWHBoQWZHaDlCdS1kSHZ5OE9ZdVdFVU1WaXhMaUhqSy05TEhBVEdoVTRVRnZnSXNDWFpLanI1cmlRRTRDY0pvd3diM0RwNktVRmt0ekdRVkd3eUpoWE9aa01CRlVvUTFKQ0UyUUpTTWRpcHc0MFMxZ0s4SkJZSWZCcnZXMVJMVE8ybm9VRXdjV2J4TEU3amdnd0cwXzVRSHByRFdNVnlBWHlrbGlwZkEteEhjR05VOHk0a0FZ?oc=5)
+### [Inhalatives Medikament gegen Lungenfibrose - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MN3VXZklFbllCLUVfWWRCZVNYQ1c2OFlnbWF6MFhKZ3BTcnA3eHROWk1zQkdScHJfQnpFR2ZYZi13S2NjRThJZEdjYw?oc=5)
 
 2026-03-17
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWFIS1psRktJckRGNjAwcEtSbkhLbUdPZjRieHp2ekduVzYzcm5GS1Y3TC1fZVlnNThZdENEakp4RmdwWkhDb0FJZWdUUkN6TUNuRkk0UGV4TExYb1FNeExJZXA0dUt0RDduMEhrVlV0OV95WTgycWNWcGZhX0YzRVFkNTZoZXZKZDU1VkdGbXBTX1VqMnNveUMtN3NMcG56ckhBb3M2NE5tRW5lQmowbkFaU1d3Z9IBuwFBVV95cUxOWHBoQWZHaDlCdS1kSHZ5OE9ZdVdFVU1WaXhMaUhqSy05TEhBVEdoVTRVRnZnSXNDWFpLanI1cmlRRTRDY0pvd3diM0RwNktVRmt0ekdRVkd3eUpoWE9aa01CRlVvUTFKQ0UyUUpTTWRpcHc0MFMxZ0s4SkJZSWZCcnZXMVJMVE8ybm9VRXdjV2J4TEU3amdnd0cwXzVRSHByRFdNVnlBWHlrbGlwZkEteEhjR05VOHk0a0FZ?oc=5)
-
----
-
-### [«L'intelligenza artificiale può prevedere l'Alzheimer con una precisione del 93%». Lo studio sui nuovi sintomi - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmZsbW9iV1JORG0ySlVKTTdEQzN1MDBhMUgxU1RWVU1tOU9FQnZhS1RscUlGWFpPbjBLTFhHOVZZVWdEQVV3SGpyVGlYRi1QNHhKY2RXellodlZwY1pTYjViX1JpMEc2Y3Q1Z0lJTTRkRlFsc0k3QjJ5Ynh4QTBxd1RqY2lnNUNPVklqd2tsUEV4ZURXdEw1OQ?oc=5)
-
-2026-03-17
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmZsbW9iV1JORG0ySlVKTTdEQzN1MDBhMUgxU1RWVU1tOU9FQnZhS1RscUlGWFpPbjBLTFhHOVZZVWdEQVV3SGpyVGlYRi1QNHhKY2RXellodlZwY1pTYjViX1JpMEc2Y3Q1Z0lJTTRkRlFsc0k3QjJ5Ynh4QTBxd1RqY2lnNUNPVklqd2tsUEV4ZURXdEw1OQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MN3VXZklFbllCLUVfWWRCZVNYQ1c2OFlnbWF6MFhKZ3BTcnA3eHROWk1zQkdScHJfQnpFR2ZYZi13S2NjRThJZEdjYw?oc=5)
 
 ---
 
@@ -117,6 +165,14 @@ permalink: /news/multiple-sclerosis/
 2026-03-16
 
 來源：[Spiked](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXNSTlBrank0enJJY3JkSVJfRy1NNzJGUW5IRnZTZjNubzQybEctQURrcW5qa1hjMC1JQ1pOZTFFT2wyZ05GQUtPcDFHdG1tU0tXTHVJaVRMcmxaTUQzRHUxNmZZeXk3ZGlEemJ4dEZiSFhnWFB6VjBuVTBNNmtPM2trSm8xakVxdHBvVzJB?oc=5)
+
+---
+
+### ['My daughter caught meningitis from sharing a vape on a night out' - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3JIYUZHdGhGanlORkIzeFNHbFV6azJMdkpqVXlyTklSZ2tjclpPSG5FRm55djZoLU1Jd3gxaXhXMDl6eTcxVDcxS2NxOXRJbmxMdF9KQjJSZ09KRW1YRHFjQ252S0FZZXY1eEpZc1VBNFhfUkt5S3lFaXA2V2xnaGV2LVhTeWxZekM3WtIBkgFBVV95cUxNOWI5WEFLLUtMaG9PY3JvYmJXQkFmUWJxcC1vaHRWMW5ybXBSQjREcC1Wa0tnVmlOLUMzODkybm1DeEp1aS0tbEc5T1N5cVV4QmJQUjhHb1dmRnIxbDYxeTl1QzBhV040SHpVaTNwVGlucUtTeGI2T1lyaDlSMzA5YTJDcDJ3TTBKdXBtLXF4OXdOUQ?oc=5)
+
+2026-03-16
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3JIYUZHdGhGanlORkIzeFNHbFV6azJMdkpqVXlyTklSZ2tjclpPSG5FRm55djZoLU1Jd3gxaXhXMDl6eTcxVDcxS2NxOXRJbmxMdF9KQjJSZ09KRW1YRHFjQ252S0FZZXY1eEpZc1VBNFhfUkt5S3lFaXA2V2xnaGV2LVhTeWxZekM3WtIBkgFBVV95cUxNOWI5WEFLLUtMaG9PY3JvYmJXQkFmUWJxcC1vaHRWMW5ybXBSQjREcC1Wa0tnVmlOLUMzODkybm1DeEp1aS0tbEc5T1N5cVV4QmJQUjhHb1dmRnIxbDYxeTl1QzBhV040SHpVaTNwVGlucUtTeGI2T1lyaDlSMzA5YTJDcDJ3TTBKdXBtLXF4OXdOUQ?oc=5)
 
 ---
 

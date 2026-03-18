@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Sant Pau previene epilepsias en Down y alzhéimer: "Somos pioneros en la UE" - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2R2UWE5X1FRSXl2ZEN5cTRWS3FNYWVHMDBwVzBJdjRkOGNGM1N0ZjlldERmRjQxZ1pzN0tVVmsyeFVWR1pJS2hVRXFoNVkzZmNvRHdpdVJGT1cwN21Kd2s5c1pkelBYZlh1YnhORHdZNlRHS0E4NXVXVWRoaUpXbmpPWHI3d2dnQzZQeWtMbVRNZXVfY3c3SGp5Uk9PUS11WHB1M0ZabEUyLTZxdXhJM1pEY0V6UmhETXNDMUpCanFmamFrUnFlR3ljNNIBywFBVV95cUxPWmdqWTNhQzY0c2tLMmFKdW5WSmJfZTlmSmsteDRGSDdGMnowNjJvU21jZmJtWVdkTy1VUmhZNTl0UjZndVMwRjZGVHltamQ2TGVYaHZLVVRkMlA3OXkxbFZjZnFzT0Y5NFhMQjJ6WUN3U3FqYjI0REhpM2k0TS1QQkgtSlpFMnJoYWdTZXBROHBmN1VCYURkS1J1RFRsTTVvbnJjVXBXTmFDWlhENXdYM3hKY3RqdVlDRDZtU0ZKb0RzRTdROVpuYVg0NA?oc=5)
+
+2026-03-18 <span class="news-indication-tag">epilepsia</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2R2UWE5X1FRSXl2ZEN5cTRWS3FNYWVHMDBwVzBJdjRkOGNGM1N0ZjlldERmRjQxZ1pzN0tVVmsyeFVWR1pJS2hVRXFoNVkzZmNvRHdpdVJGT1cwN21Kd2s5c1pkelBYZlh1YnhORHdZNlRHS0E4NXVXVWRoaUpXbmpPWHI3d2dnQzZQeWtMbVRNZXVfY3c3SGp5Uk9PUS11WHB1M0ZabEUyLTZxdXhJM1pEY0V6UmhETXNDMUpCanFmamFrUnFlR3ljNNIBywFBVV95cUxPWmdqWTNhQzY0c2tLMmFKdW5WSmJfZTlmSmsteDRGSDdGMnowNjJvU21jZmJtWVdkTy1VUmhZNTl0UjZndVMwRjZGVHltamQ2TGVYaHZLVVRkMlA3OXkxbFZjZnFzT0Y5NFhMQjJ6WUN3U3FqYjI0REhpM2k0TS1QQkgtSlpFMnJoYWdTZXBROHBmN1VCYURkS1J1RFRsTTVvbnJjVXBXTmFDWlhENXdYM3hKY3RqdVlDRDZtU0ZKb0RzRTdROVpuYVg0NA?oc=5)
+
+---
 
 
 <div class="disclaimer">

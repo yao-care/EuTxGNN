@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hépatite（hepatitis） 相關新聞"
+title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hépatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# hépatite（hepatitis） 相關新聞
+# epatite（hepatitis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hépatite（hepatitis） 有什麼相關新聞？">
-<strong>hépatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
+<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hépatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -55,19 +55,19 @@ permalink: /news/hepatitis/
 
 ## 相關新聞（2 則）
 
+### [Napoli, emergenza epatite A: al Cotugno oltre quaranta ricoveri in meno di due settimane - Corriere Del Mezzogiorno](https://news.google.com/rss/articles/CBMikgJBVV95cUxQNHJZWUVYSHNJTXg4TTlYdnhQUUl5bkY0Mm5XSFpCOU5jXzBGOWc5QW1Bd2Y4WTJobnRpQkdfcVFRMVZNLXBwenlXeGVqLU9ZM05NbXZwQmRUdkZpZUNmbGtfdU5pUTFGVW14Uy1TN1NjZnZVVWZwYVk2N0d3aXRJWk9ER1ZsTkswaVpaTkhLX1dWeUJpaWZrR21FanAya0tHTl8wV21saVRvbTFsUVNUcm5WaVZXY3VMcmFwWEpodDA5bXpZU0pMWTVBc3lCeW82N3ByS2wzYzQyVkJDWUNaV1lTZHRNcVJnNlNNd0xzZ0d4MHFXaTZvT25YUF9PMWM4ZDJnYmVmRGFMcF82dF9hQnF30gGXAkFVX3lxTE52YWpLUDVTeVlqRC1lY3Y2NDEySTBUVDFleTNpSFNwazE2NjNkT2FPbnR0ZmVsazEwcEg4cHRNY3haeEQzeDlMTGlMV2tra0g4WmRsNWdFaXFMZVZqXzZBb1hmcXJuaFpzMlNRb1FEYTlwZnB0S25ZTHd5OHM4dkJaajhsSDhHdW91Z3BWV3A3RFlhZHdVNXRuOUl0TTJTeGRFdEwwMHluOWxwUnl0TlVQeWdGMEQwTUloNExCeTBuS0hzcl9yS2FwMjl3SmpRamRXNGtxc0o4NE5mY2I0emcxbmhpUmE0OElUX3FyMHpoZlpjNjA2c2hFbDlfSnJvcXBQRVNzUTlBUjZyMmdzZWFKYVRyR08zMA?oc=5)
+
+2026-03-18
+
+來源：[Corriere Del Mezzogiorno](https://news.google.com/rss/articles/CBMikgJBVV95cUxQNHJZWUVYSHNJTXg4TTlYdnhQUUl5bkY0Mm5XSFpCOU5jXzBGOWc5QW1Bd2Y4WTJobnRpQkdfcVFRMVZNLXBwenlXeGVqLU9ZM05NbXZwQmRUdkZpZUNmbGtfdU5pUTFGVW14Uy1TN1NjZnZVVWZwYVk2N0d3aXRJWk9ER1ZsTkswaVpaTkhLX1dWeUJpaWZrR21FanAya0tHTl8wV21saVRvbTFsUVNUcm5WaVZXY3VMcmFwWEpodDA5bXpZU0pMWTVBc3lCeW82N3ByS2wzYzQyVkJDWUNaV1lTZHRNcVJnNlNNd0xzZ0d4MHFXaTZvT25YUF9PMWM4ZDJnYmVmRGFMcF82dF9hQnF30gGXAkFVX3lxTE52YWpLUDVTeVlqRC1lY3Y2NDEySTBUVDFleTNpSFNwazE2NjNkT2FPbnR0ZmVsazEwcEg4cHRNY3haeEQzeDlMTGlMV2tra0g4WmRsNWdFaXFMZVZqXzZBb1hmcXJuaFpzMlNRb1FEYTlwZnB0S25ZTHd5OHM4dkJaajhsSDhHdW91Z3BWV3A3RFlhZHdVNXRuOUl0TTJTeGRFdEwwMHluOWxwUnl0TlVQeWdGMEQwTUloNExCeTBuS0hzcl9yS2FwMjl3SmpRamRXNGtxc0o4NE5mY2I0emcxbmhpUmE0OElUX3FyMHpoZlpjNjA2c2hFbDlfSnJvcXBQRVNzUTlBUjZyMmdzZWFKYVRyR08zMA?oc=5)
+
+---
+
 ### [El hospital de Guadalajara logra la Excelencia en la lucha contra la hepatitis C](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkY0U2hHb0Y1d0FZTWtFbzZRekpZZFdvTV9oaUdHT3djNURsZHpYa1BOVHlqLS1fRUNzeEhUU3o5WHNoWVRGeVotdlBfaGh0dWIzNUpqSDN0N2I4U3NLU0w1RERxY3VRMlFSbGpFSWlqNjB1MWZfUnFYUTBrUTdxY2tkdWZaNXRjQ3RveUpDcDNwbUxmUXdFRnl0MEsyZzdEdFdvbkZNYjNvX0tfU0phUkZqeENRVGZDNVJEemFR?oc=5)
 
 2026-03-18
 
 來源：[ABC](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkY0U2hHb0Y1d0FZTWtFbzZRekpZZFdvTV9oaUdHT3djNURsZHpYa1BOVHlqLS1fRUNzeEhUU3o5WHNoWVRGeVotdlBfaGh0dWIzNUpqSDN0N2I4U3NLU0w1RERxY3VRMlFSbGpFSWlqNjB1MWZfUnFYUTBrUTdxY2tkdWZaNXRjQ3RveUpDcDNwbUxmUXdFRnl0MEsyZzdEdFdvbkZNYjNvX0tfU0phUkZqeENRVGZDNVJEemFR?oc=5)
-
----
-
-### [REPORTAGE. « J’aime pas les piqûres » : comment se déroule la vaccination contre les papillomavirus dans les collèges ?](https://news.google.com/rss/articles/CBMilgJBVV95cUxOaWpNMmlQSDRPRlF4c1d3cHBhSTJya1A5SXRReTBZVU5CQ2tuX0dWZzJ4RU9LVGZpanlmSksyWlI0cnJLTEV4dFZBNU5EWG9WVnpqMkV5U1pPREE1cmptWXVHY3dPZFZ4RmJGWDh5Mk0wQU82NmRhdmFlbmlyS0lJYUFIU2xiMWNXVkNDcURJT09xblZoZXRkQ0JPeENTLWNrbW9VZWs0bFBLc3lXcTEwMkI1cTE3TzdBeVAtT1owM3RSM19JdHBDbmUtbTRXM1lFQjJ0S2xCTVB0b3RiUHVDTW81OFo2TjVERk5FZ3BqNUx1SVNBa3BBR1FfX2dCUl9qcHhSUXBmQWg4QVVpNnJ1SEZqSnNadw?oc=5)
-
-2026-03-18
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMilgJBVV95cUxOaWpNMmlQSDRPRlF4c1d3cHBhSTJya1A5SXRReTBZVU5CQ2tuX0dWZzJ4RU9LVGZpanlmSksyWlI0cnJLTEV4dFZBNU5EWG9WVnpqMkV5U1pPREE1cmptWXVHY3dPZFZ4RmJGWDh5Mk0wQU82NmRhdmFlbmlyS0lJYUFIU2xiMWNXVkNDcURJT09xblZoZXRkQ0JPeENTLWNrbW9VZWs0bFBLc3lXcTEwMkI1cTE3TzdBeVAtT1owM3RSM19JdHBDbmUtbTRXM1lFQjJ0S2xCTVB0b3RiUHVDTW81OFo2TjVERk5FZ3BqNUx1SVNBa3BBR1FfX2dCUl9qcHhSUXBmQWg4QVVpNnJ1SEZqSnNadw?oc=5)
 
 ---
 

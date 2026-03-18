@@ -42,11 +42,35 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（9 則）
 
+### ['Friends thought daughter's meningitis symptoms were heatstroke'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hSE9oRVEyU3U2TFdMRGJ1UmRlTWJPMEwyaWpkWUhLdGxvLWJqSVdaSEZPWS1pQjFrVEtSSWFNTXJscUt1d1FCT0otV0NTeEx1WGRFaTduaUM4d3JY?oc=5)
+
+2026-03-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hSE9oRVEyU3U2TFdMRGJ1UmRlTWJPMEwyaWpkWUhLdGxvLWJqSVdaSEZPWS1pQjFrVEtSSWFNTXJscUt1d1FCT0otV0NTeEx1WGRFaTduaUM4d3JY?oc=5)
+
+---
+
+### [Valeria Caso, neuróloga: «La duración de la siesta revela el porcentaje de riesgo de ictus» - El Diario Vasco](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTXdfUFRFdlA2aGpSM2xDY3NYbDlLc2V1VEZwd1pYWlRadGplUHk5TmVqY3I2UTZtVG8tTmlkV2lUUm1ZRmkxYmJlSXJteDI2R1Q0WlB5d3NmQmFrbHF5YnFhV2RPN1UzY3Q0Qk9CRWZUOW5tZ2xXeGMzQ3ZwSE5iX2JqVFBIaElsZWtBU0pFQU5CTlBDb1diVVRNR2p4SWt3SnM2U3NHNjFMMFR0cUppdVFsSnBOOEhXWF9fdFVoYjluVzFuTVlOSdIBzgFBVV95cUxNSGpWSUVVa051NGZmVTlTbEVRak52MzJibUJCMFE5cC1GaVJhUUY5N0UwQzE4MVBmdnRocmdhNlJ4MnRmdTdxZTI1a3ZoQWFucVBMOFBrUnJlX0VYdEtpQ1JtVEpQcVdFdHpZM2hRSGltZ3V2aXZaNkxPSzZQQ3YtMXFsQTJRQjdyd3ZzV3ljNG5RX25MTE9pQ2taRkg4VmRNclZSZm1sbEJOZTZ5aE9MM2sxSWF4bEludkN1WVcyeXRTcVdSTGpNSmZSV1d1UQ?oc=5)
+
+2026-03-18 <span class="news-indication-tag">ictus</span>
+
+來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTXdfUFRFdlA2aGpSM2xDY3NYbDlLc2V1VEZwd1pYWlRadGplUHk5TmVqY3I2UTZtVG8tTmlkV2lUUm1ZRmkxYmJlSXJteDI2R1Q0WlB5d3NmQmFrbHF5YnFhV2RPN1UzY3Q0Qk9CRWZUOW5tZ2xXeGMzQ3ZwSE5iX2JqVFBIaElsZWtBU0pFQU5CTlBDb1diVVRNR2p4SWt3SnM2U3NHNjFMMFR0cUppdVFsSnBOOEhXWF9fdFVoYjluVzFuTVlOSdIBzgFBVV95cUxNSGpWSUVVa051NGZmVTlTbEVRak52MzJibUJCMFE5cC1GaVJhUUY5N0UwQzE4MVBmdnRocmdhNlJ4MnRmdTdxZTI1a3ZoQWFucVBMOFBrUnJlX0VYdEtpQ1JtVEpQcVdFdHpZM2hRSGltZ3V2aXZaNkxPSzZQQ3YtMXFsQTJRQjdyd3ZzV3ljNG5RX25MTE9pQ2taRkg4VmRNclZSZm1sbEJOZTZ5aE9MM2sxSWF4bEludkN1WVcyeXRTcVdSTGpNSmZSV1d1UQ?oc=5)
+
+---
+
 ### [Los factores de riesgo modificables marcan la diferencia en patologías como la demencia y el ictus - Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcllmUF9Za1JGNzhXRnZZZW1NdkVMdjVpYnItVk9JQXlvLXdzckV2d3pFSWpRNFVzNVNTRGlEcElZTF9RS2s1cWhqc0VkSU5aT3FEOXBEcnRKWlotbmozeDJlalhwb3lsblNxOU9Wd09WeWd1M3JDUWtNelZTekZTOVQyT0QyT2txcXpxQlpLemxHOUMwZ1VmQk9BUEdpZ21K?oc=5)
 
 2026-03-18 <span class="news-indication-tag">ictus</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcllmUF9Za1JGNzhXRnZZZW1NdkVMdjVpYnItVk9JQXlvLXdzckV2d3pFSWpRNFVzNVNTRGlEcElZTF9RS2s1cWhqc0VkSU5aT3FEOXBEcnRKWlotbmozeDJlalhwb3lsblNxOU9Wd09WeWd1M3JDUWtNelZTekZTOVQyT0QyT2txcXpxQlpLemxHOUMwZ1VmQk9BUEdpZ21K?oc=5)
+
+---
+
+### [Biologisches Alter senken: Schützt das Gehirn und beugt Schlaganfall vor](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUh4TGVBU2lobnFxM0tKbTYyQndFWXF5OU1rcTliX05ZdTlPUHY0SUMxbUpwcGxBbURfdkdaczU4bWlOc2c4c2dBd2lPNGRXNXZEVVI0UHl5WUdKakJpZlFLWVc1RzVHVUExeFpDOTNxZEhsTnBseXRTRk1ENXp0SlBZNUFLRWNoTjBabG44aXFkNjhYN090UnB6d3ZFeWRJQ0doUmNrSUMxdm5V?oc=5)
+
+2026-03-18 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUh4TGVBU2lobnFxM0tKbTYyQndFWXF5OU1rcTliX05ZdTlPUHY0SUMxbUpwcGxBbURfdkdaczU4bWlOc2c4c2dBd2lPNGRXNXZEVVI0UHl5WUdKakJpZlFLWVc1RzVHVUExeFpDOTNxZEhsTnBseXRTRk1ENXp0SlBZNUFLRWNoTjBabG44aXFkNjhYN090UnB6d3ZFeWRJQ0doUmNrSUMxdm5V?oc=5)
 
 ---
 
@@ -66,14 +90,6 @@ permalink: /news/simvastatin/
 
 ---
 
-### [Samsung destaca la detección de la apnea del sueño en el Día Mundial del Sueño 2026 - Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
-
-2026-03-17 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
-
----
-
 ### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 2026-03-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
@@ -82,27 +98,11 @@ permalink: /news/simvastatin/
 
 ---
 
-### [«Le 7 cose da non fare dopo le 8 di sera per ridurre il rischio infarto», i consigli del cardiologo - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
+### [«Ictus e infarto, le le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza) - Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2c?oc=5)
 
 2026-03-17 <span class="news-indication-tag">ictus</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
-
----
-
-### [El ictus es más mortal en pacientes con depresión, esquizofrenia o bipolaridad - La Razón](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFVaM3lMY3haU0xDdWU2d0JDcUxtU29vNUZYMjNHRFl4VGE0cHlLM3RUVS1kR05MMzl0YlIxRG0yNVp1cVdETG1yN25zUTZWakFDWkdCQXpMV3pLVUkwZDMwcE9PZ25rOXBoVDVMSXJscGg0MC1YZWpWN3RyajlSQ2k5eXFxMjhqUkRXLURUOE44cm04WGFrbmZlWm5reHJ3b2ZWaE9qTU00cmJvTVo5VHY0bm5QLXB4cTgxYUk3UXVGR2F2ZWJoV9IB3AFBVV95cUxNS2xhbG1pNWxvNHVnNFVPUEZPTWZhUlJtMGg5clJqUF9DTTh4aHpMR2RJXzAyNWtyMm41RW1QbnlSeEp1NVI0ZldWcjJROHhqTEJmZFRwcWFCakxKMUV6cm1RallmTFU2bkZ5T0hyUFhLbmhGamRxdU1ma1ZMcmp4a2ZicFJud1pKRnBDbHZWejMtc01tejdSZHRnSnpEeWdIMzNNU09pZUtXMU1tNWtZcEMwYmdhMl9pVFp3T3VwX2hUaHJRdGM4NXFFTmJJVXZabzd0cXlnejB2dVlw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">ictus</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFVaM3lMY3haU0xDdWU2d0JDcUxtU29vNUZYMjNHRFl4VGE0cHlLM3RUVS1kR05MMzl0YlIxRG0yNVp1cVdETG1yN25zUTZWakFDWkdCQXpMV3pLVUkwZDMwcE9PZ25rOXBoVDVMSXJscGg0MC1YZWpWN3RyajlSQ2k5eXFxMjhqUkRXLURUOE44cm04WGFrbmZlWm5reHJ3b2ZWaE9qTU00cmJvTVo5VHY0bm5QLXB4cTgxYUk3UXVGR2F2ZWJoV9IB3AFBVV95cUxNS2xhbG1pNWxvNHVnNFVPUEZPTWZhUlJtMGg5clJqUF9DTTh4aHpMR2RJXzAyNWtyMm41RW1QbnlSeEp1NVI0ZldWcjJROHhqTEJmZFRwcWFCakxKMUV6cm1RallmTFU2bkZ5T0hyUFhLbmhGamRxdU1ma1ZMcmp4a2ZicFJud1pKRnBDbHZWejMtc01tejdSZHRnSnpEeWdIMzNNU09pZUtXMU1tNWtZcEMwYmdhMl9pVFp3T3VwX2hUaHJRdGM4NXFFTmJJVXZabzd0cXlnejB2dVlw?oc=5)
-
----
-
-### [El HUC promueve la salud cardiovascular con un libro interactivo - Canal 4 Tenerife](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2d1SUg1bkR3ZDNVbS11VWY4Y0oyZTU1QXFzd1VjbDNfOFFleS10N0U4TzVZWXRzVWR3NjBQX2dLZDNPOGRwWE5ocTZoMk1McE1GMVlNRFpmNjZYTV95QldBZjVNeDh5cFFsLVpuYmJ0TEJ0WWpOb3FvN0p3cmhwVFpiM3J5NUVzVFZSTGtKeS0yUko2dTloRUpYdw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">CVA</span>
-
-來源：[Canal 4 Tenerife](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2d1SUg1bkR3ZDNVbS11VWY4Y0oyZTU1QXFzd1VjbDNfOFFleS10N0U4TzVZWXRzVWR3NjBQX2dLZDNPOGRwWE5ocTZoMk1McE1GMVlNRFpmNjZYTV95QldBZjVNeDh5cFFsLVpuYmJ0TEJ0WWpOb3FvN0p3cmhwVFpiM3J5NUVzVFZSTGtKeS0yUko2dTloRUpYdw?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2c?oc=5)
 
 ---
 

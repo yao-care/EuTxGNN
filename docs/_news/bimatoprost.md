@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="Bimatoprost 有什麼相關新聞？">
-<strong>Bimatoprost</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bimatoprost</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,45 +40,53 @@ permalink: /news/bimatoprost/
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（25 則）
 
-### [La IA mejora la detección de cáncer de mama en cribados de doble lectura y arbitraje - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMk5ZZVZiT2hMVFV1VzhvWHBlWFFxdkg3bFNmTVY3Z1BSMmIzUmNtVUpGdER3eDM1dkUxNUFYQXNWdGc4RG5VUE1QaFppUUQtS2hFTUhZUDlhbUdsVXo2bUpjVGpLNXl0SzNyQUtXZlo3Z2FNZ1VIVWlvdnEyYk5XNkk2blY2SVN5RnkzSTdOVE5CNFZOdFh2eFdJMVdUMEd2aEU1ZzR2dnFUV185ekdHN0d5VmVHVUVm?oc=5)
+### [All doctors in England warned to watch for meningitis symptoms after Kent outbreak](https://news.google.com/rss/articles/CBMiV0FVX3lxTE96bk00YS1mQURyUk1Qc2pwLVlfaEozVkF6Yll4U0NWQ2NIMXhoV040WUNab3k3cC05OU1NUlY5OHA4NVB6OWR3YzlhTnNMQXM4OEU1U3Q1RQ?oc=5)
 
-2026-03-18 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMk5ZZVZiT2hMVFV1VzhvWHBlWFFxdkg3bFNmTVY3Z1BSMmIzUmNtVUpGdER3eDM1dkUxNUFYQXNWdGc4RG5VUE1QaFppUUQtS2hFTUhZUDlhbUdsVXo2bUpjVGpLNXl0SzNyQUtXZlo3Z2FNZ1VIVWlvdnEyYk5XNkk2blY2SVN5RnkzSTdOVE5CNFZOdFh2eFdJMVdUMEd2aEU1ZzR2dnFUV185ekdHN0d5VmVHVUVm?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE96bk00YS1mQURyUk1Qc2pwLVlfaEozVkF6Yll4U0NWQ2NIMXhoV040WUNab3k3cC05OU1NUlY5OHA4NVB6OWR3YzlhTnNMQXM4OEU1U3Q1RQ?oc=5)
 
 ---
 
-### [Programa de detección precoz de VIH y otras ITS en Getafe - Vivir Ediciones](https://news.google.com/rss/articles/CBMilgFBVV95cUxNREUycFRrR0M3RDBNdDQ4ZzlqQ2NQODd6X2prNjNfWVhjeGhVTU5pcEU5bzJrVFNES1RXUWp5MjdubmhQdVVqODdTUHdkbHFWWk5hSVo3TzlxTnR6LXVTd0Rla296aUZaNkFwSzNoVjNMdDF0ZjdWdDBhVDdrUUpFNUlGWkdBWmhUOHZDdzU3a01IOHpSMXc?oc=5)
+### [Getafe lanza un programa de detección precoz de VIH e ITS: Pruebas gratis - El Diario de Madrid](https://news.google.com/rss/articles/CBMi0AFBVV95cUxORkJWbXZMNmgtS1VBVkh5Q1lCSUxkbjVHSWM0MTUwVzJIS3dyclhJNDB1eDFCMTAzdDJTbEREOGIwVmZHdGw4eGJJRXBaQkdtV2RRekMxSHlRLWtad0ZTTGxQREhQUmNlenh1OW1WYXZKeE1QME1JS1BZV2ZBc1pud1dESFhMNEFyX19JT1lpTklrMWUybDZ3QjBPcHN4TEN4UzhLSzgzUkZ2akVBRmw3X2cwZUM5TldXS0pYZGNpMW9naGN5MW83V1JTZl8wdU430gHWAUFVX3lxTE1RbnV1aXpEVTNrMkc3VFZUXzNsMjdGbnoyeFExaDl1RHBLYzZZQ2xoRVA4aFRaWVE2S2pWMVItRXlWU09rU25XUFgzTHdwUUJFMF9xNkVxNnBrbzBtbjBjQm5sUVYwT3lHdlJrZWRwbnc4Q3dGaFdSaF9nR21ET0tkZ3NzQ3BKUERrMTRTRC1SbVU1a09hNHRDRXRrLXhFaHJLaGtPcG9jS1lDd0FKbE8xVDh6TVMtYTU3YVVvSHZZdXliN2QwdzhOdDJhWFFjZjFXS1l3dVE?oc=5)
 
 2026-03-18 <span class="news-indication-tag">AF</span>
 
-來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMilgFBVV95cUxNREUycFRrR0M3RDBNdDQ4ZzlqQ2NQODd6X2prNjNfWVhjeGhVTU5pcEU5bzJrVFNES1RXUWp5MjdubmhQdVVqODdTUHdkbHFWWk5hSVo3TzlxTnR6LXVTd0Rla296aUZaNkFwSzNoVjNMdDF0ZjdWdDBhVDdrUUpFNUlGWkdBWmhUOHZDdzU3a01IOHpSMXc?oc=5)
+來源：[El Diario de Madrid](https://news.google.com/rss/articles/CBMi0AFBVV95cUxORkJWbXZMNmgtS1VBVkh5Q1lCSUxkbjVHSWM0MTUwVzJIS3dyclhJNDB1eDFCMTAzdDJTbEREOGIwVmZHdGw4eGJJRXBaQkdtV2RRekMxSHlRLWtad0ZTTGxQREhQUmNlenh1OW1WYXZKeE1QME1JS1BZV2ZBc1pud1dESFhMNEFyX19JT1lpTklrMWUybDZ3QjBPcHN4TEN4UzhLSzgzUkZ2akVBRmw3X2cwZUM5TldXS0pYZGNpMW9naGN5MW83V1JTZl8wdU430gHWAUFVX3lxTE1RbnV1aXpEVTNrMkc3VFZUXzNsMjdGbnoyeFExaDl1RHBLYzZZQ2xoRVA4aFRaWVE2S2pWMVItRXlWU09rU25XUFgzTHdwUUJFMF9xNkVxNnBrbzBtbjBjQm5sUVYwT3lHdlJrZWRwbnc4Q3dGaFdSaF9nR21ET0tkZ3NzQ3BKUERrMTRTRC1SbVU1a09hNHRDRXRrLXhFaHJLaGtPcG9jS1lDd0FKbE8xVDh6TVMtYTU3YVVvSHZZdXliN2QwdzhOdDJhWFFjZjFXS1l3dVE?oc=5)
 
 ---
 
-### [EPOC, la "enfermedad silenciosa" que afecta a millones de personas en España](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHhDSmlkVzg3by15akh0VUFJcTNvbDhUcHVhVEh3c3llTTY0bEkxT19LaXJoZHZTLU4zMEozMGN5MDUtSmszRVVhU1ltZHBzUXN3QjZ1eEo2eU9OdFQxcjBhaTVnLUpnd1JWd0dOdHJPczNaSVpuSFh5YWlINXNONmQ0NTJ4VmdJTWt2cmFOSDRTOUFaenY2YUZYMlJsa19PNV83SGQ2dElKcTk5aGQ1bmIwZzRCRWxKQWdIUlk0YTI1Ync?oc=5)
-
-2026-03-18 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[CatalunyaPress](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHhDSmlkVzg3by15akh0VUFJcTNvbDhUcHVhVEh3c3llTTY0bEkxT19LaXJoZHZTLU4zMEozMGN5MDUtSmszRVVhU1ltZHBzUXN3QjZ1eEo2eU9OdFQxcjBhaTVnLUpnd1JWd0dOdHJPczNaSVpuSFh5YWlINXNONmQ0NTJ4VmdJTWt2cmFOSDRTOUFaenY2YUZYMlJsa19PNV83SGQ2dElKcTk5aGQ1bmIwZzRCRWxKQWdIUlk0YTI1Ync?oc=5)
-
----
-
-### [We can't miss this vital chance for national prostate cancer screening, says Rishi Sunak - as he urges men to get checked THIS week - Daily Mail](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd0FpcU5DeEd3UU91SmY1TXR5U2JId25rZEN3Mk1KMlhQUTJJZU9wMUFlbzVJTXBMcXZ3WV9iYjNOLXlGSWxOeTJJNjJLUVlUVEQtcWk4S0kzYS1jejd1Tm1jT0hxZUJUVFJhXzNOWks5bWoxRmdndGtrQWd1a090Z2VFWkJmUEhGdXlrclBELVVETFdCcW16cm5KQUQ4MllYdWJlN3dyc0YxOEUtb0ZKR0RTNnFnZUZ4a2I4ZVI5RW9HYXRINDZLRzFXUHBwdXFCTW1JdDVpSG9Dd2ZDQkdyckN0ZWPSAeoBQVVfeXFMT0U5Ylh6a3BtbWtsMFBwQTFNeHZ1NExtUUkwYkdWNlVtNlBBaWVlWUdxQlFuV2kzNjVMRzl3Wkt0NDNJVWJDWVJkenhrSE5RdHE2S3FMS3VCV0RzMmFvZXFDQUkxV0tHZlJLRktuNlRMb3hieloyWVRsYnJPbGJNQ2ZaYUd2eFdESTlOS2pzY3A4WVhsbjBDQ1JMTEstemJFVUw4LTFCdzZwM3BjR0hZeUJRbGZoUXd6U0pXVVZHNktzVTc1eU5oLXhrZ0Jjc0ltdDJRS0tMU3FrOHdwODgyRnVnUUIwUlJYU2Nn?oc=5)
-
-2026-03-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd0FpcU5DeEd3UU91SmY1TXR5U2JId25rZEN3Mk1KMlhQUTJJZU9wMUFlbzVJTXBMcXZ3WV9iYjNOLXlGSWxOeTJJNjJLUVlUVEQtcWk4S0kzYS1jejd1Tm1jT0hxZUJUVFJhXzNOWks5bWoxRmdndGtrQWd1a090Z2VFWkJmUEhGdXlrclBELVVETFdCcW16cm5KQUQ4MllYdWJlN3dyc0YxOEUtb0ZKR0RTNnFnZUZ4a2I4ZVI5RW9HYXRINDZLRzFXUHBwdXFCTW1JdDVpSG9Dd2ZDQkdyckN0ZWPSAeoBQVVfeXFMT0U5Ylh6a3BtbWtsMFBwQTFNeHZ1NExtUUkwYkdWNlVtNlBBaWVlWUdxQlFuV2kzNjVMRzl3Wkt0NDNJVWJDWVJkenhrSE5RdHE2S3FMS3VCV0RzMmFvZXFDQUkxV0tHZlJLRktuNlRMb3hieloyWVRsYnJPbGJNQ2ZaYUd2eFdESTlOS2pzY3A4WVhsbjBDQ1JMTEstemJFVUw4LTFCdzZwM3BjR0hZeUJRbGZoUXd6U0pXVVZHNktzVTc1eU5oLXhrZ0Jjc0ltdDJRS0tMU3FrOHdwODgyRnVnUUIwUlJYU2Nn?oc=5)
-
----
-
-### [WebMedX: Digitale Vernetzung gegen die Herzschwäche - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMirgFBVV95cUxNR19lNW8wYXR1TWNmeTFkNFpZbWVsRHctZTdPdjd2OFE5LTd5MXBaeDRqN1FzVUlDbkgtSEFXbnZTajRjbFRVNEZTX3Vtbl9LM2hTQk5rN0trck4tcXgyVl9MUzZFeTVfX3Z2Wk54S1QxaDZic3Rta1dzNGsxUUdxNzBsY25mb3lSRlltRGNFNDRqZEYzcFJqWTVoX2NvVzJPd3pfS0FvT3RHQkJhcXc?oc=5)
+### [Aftex Pediatrics: un gel para las aftas, la lesión oral más frecuente en la infancia - El Globalfarma](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGtldEx6aDU3WVJCWVdGSDl4S2Z5YkJvcW5pMW12V2xOQmpPdHlIOWNUS011QXlrTDBnYWFOR2twMG5UbEFUcGU3YTBnOEhTOEpKOFJxUVZmV2VURURVRXJsS3ZGU2l6NkQ0alpHdVBndDAyZmdtbm1VVHkxVllvLWpYUEUwOF9xZHlyUTgtV3VERU1DdVpYQjZZdkU2aHI2dFE?oc=5)
 
 2026-03-18 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMirgFBVV95cUxNR19lNW8wYXR1TWNmeTFkNFpZbWVsRHctZTdPdjd2OFE5LTd5MXBaeDRqN1FzVUlDbkgtSEFXbnZTajRjbFRVNEZTX3Vtbl9LM2hTQk5rN0trck4tcXgyVl9MUzZFeTVfX3Z2Wk54S1QxaDZic3Rta1dzNGsxUUdxNzBsY25mb3lSRlltRGNFNDRqZEYzcFJqWTVoX2NvVzJPd3pfS0FvT3RHQkJhcXc?oc=5)
+來源：[El Globalfarma](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGtldEx6aDU3WVJCWVdGSDl4S2Z5YkJvcW5pMW12V2xOQmpPdHlIOWNUS011QXlrTDBnYWFOR2twMG5UbEFUcGU3YTBnOEhTOEpKOFJxUVZmV2VURURVRXJsS3ZGU2l6NkQ0alpHdVBndDAyZmdtbm1VVHkxVllvLWpYUEUwOF9xZHlyUTgtV3VERU1DdVpYQjZZdkU2aHI2dFE?oc=5)
+
+---
+
+### [La OMS pide optimizar los calendarios de vacunación nacionales ante el inicio de una etapa "desafiante"](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkMtR0NqZkIwYVhEYjduNFppVXJTN2psZlJKdUhtOGNuMjRhWkZxMGZWSkcwbnZxYWRzdjQ1RW5UdTBUS1JKZnVBcXdwRU15ZkNCUlFwcE1iSnpHQ3lqT0RmdDRpSHVvOXdhWHBJS0ZodnZuZTdJa2NVWjhmMTRTZzNKemlDUnpYV3VIUjR3SWY1Zm9ROU5DekU0eVJRT2tPNlBYTGhxYVpjZ2pYd3ctOUQ1azNoUXRDT3Bsc3JfMjRKM29DbmNGTml0LXQyb1A2S0xIU0k3aw?oc=5)
+
+2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkMtR0NqZkIwYVhEYjduNFppVXJTN2psZlJKdUhtOGNuMjRhWkZxMGZWSkcwbnZxYWRzdjQ1RW5UdTBUS1JKZnVBcXdwRU15ZkNCUlFwcE1iSnpHQ3lqT0RmdDRpSHVvOXdhWHBJS0ZodnZuZTdJa2NVWjhmMTRTZzNKemlDUnpYV3VIUjR3SWY1Zm9ROU5DekU0eVJRT2tPNlBYTGhxYVpjZ2pYd3ctOUQ1azNoUXRDT3Bsc3JfMjRKM29DbmNGTml0LXQyb1A2S0xIU0k3aw?oc=5)
+
+---
+
+### [Kein Witz: Kaffee besser nicht mit Milch trinken](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXUwVEpLTk5QaFVIZEwwOGNsNzROZmJidEw1Y0txVDBfZHIycUpfYnY0SklEaHJIMFd3Tk10QldEdWxaNjRHYWhfQlAyN0E5aXBGck5LaUVpMldCV05kUmhlWWVvelhNaWRCdVEybDBUWGFDVDZYWERGMGNSUkpOR3ZBWS1KZ0FsN2JyN1FYX3h6RGUtTzYyTUFaOC05dHEwWmhPY0FhMGVuS3pDNU42V0xFSndFb3ctOG5kcVZ4TXY0SFExaTNRS01iakkzc3FRYy1zUDBEN1BpRm4wUktr?oc=5)
+
+2026-03-18 <span class="news-indication-tag">AF</span>
+
+來源：[Ruhr24](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXUwVEpLTk5QaFVIZEwwOGNsNzROZmJidEw1Y0txVDBfZHIycUpfYnY0SklEaHJIMFd3Tk10QldEdWxaNjRHYWhfQlAyN0E5aXBGck5LaUVpMldCV05kUmhlWWVvelhNaWRCdVEybDBUWGFDVDZYWERGMGNSUkpOR3ZBWS1KZ0FsN2JyN1FYX3h6RGUtTzYyTUFaOC05dHEwWmhPY0FhMGVuS3pDNU42V0xFSndFb3ctOG5kcVZ4TXY0SFExaTNRS01iakkzc3FRYy1zUDBEN1BpRm4wUktr?oc=5)
+
+---
+
+### [Fondazione Cariparma, fiducia in crescita: numeri, bisogni e la sfida delle 3 S - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3lpcENBLUVnOHFwaVR0RTRGWHVZWHpTMVpVd2dXY0xBb2hRbDAzaTMyWmdfdlhQZFFtTUxUYVNobjNsNDRrekpJQlB1NnRpV2hDRmI1WmxBUHRUNVlldC1TQ3lpeEtDY1c4dngzV2hwTkhscHhPNHIzSEhhd1FGb2xqT2hBbGR2TlVRZzFFeE5tYlR5by1zVUVkRXJPU2txTEZsRjgzV0U3a0xnU2FtUXRDUUhTQjBHbmZFVEFEX0JxVlNRSUpyUGRtYTVWZmNGcTBZ?oc=5)
+
+2026-03-18 <span class="news-indication-tag">AF</span>
+
+來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3lpcENBLUVnOHFwaVR0RTRGWHVZWHpTMVpVd2dXY0xBb2hRbDAzaTMyWmdfdlhQZFFtTUxUYVNobjNsNDRrekpJQlB1NnRpV2hDRmI1WmxBUHRUNVlldC1TQ3lpeEtDY1c4dngzV2hwTkhscHhPNHIzSEhhd1FGb2xqT2hBbGR2TlVRZzFFeE5tYlR5by1zVUVkRXJPU2txTEZsRjgzV0U3a0xnU2FtUXRDUUhTQjBHbmZFVEFEX0JxVlNRSUpyUGRtYTVWZmNGcTBZ?oc=5)
 
 ---
 
@@ -87,6 +95,22 @@ permalink: /news/bimatoprost/
 2026-03-18 <span class="news-indication-tag">AF</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkVxM3pST21GbWVCTW5kS1R1NHZNcTQ3QklZQ2RrMnExaENURWY0TjRScE5xclNpWjlIdlhzQk01Y3JsdWkxSEtxMjNyUGZuS0VXN1lEdFB6ejhLZ3ZhTkNVT05WaVNQckpabUVCNVFCUGJvdU5NV2JONGxwaUJ4UmRFMU1ETEp2OUIzUVh30gGTAUFVX3lxTE8zQXQ0Ymo0aEtoVU1tTXp1WHBXc3A3a2pPc28xaS1OS3kyV0RpY1JOdmR3TmxMZW9vUlQyVWMtaTBTWW9TZ2lpdUpYNllUMl8ycktJRERFVlJsOE5qVS1NM0FwVGZHUjhvdGdiOUhXWGZlUFAycXpTQ2h0MWg0VTdJQ1RNb3YteEZUdVhVTE4yMUJVUQ?oc=5)
+
+---
+
+### ['Talented' student, 20, died from sepsis after 'inadequate' hygiene at Christie Hospital - Manchester Evening News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHp6UzBYT1FlVWsxdE9wTHhOVEl1NmVlenFiSXM0d1dzWUxkTzZra2pVV0ZqME91UVpGYnhlLVdJdzhvYmFSVkpvVGU3Z3QyWFZsdTlPYnhJcVZVN21iNzMwWWtPdEIyN0wzYmVPQVV5ckpKaUtRc1J5czREUEhZRDRTQXhhejltSEpCR0c2YlBEeVXSAZgBQVVfeXFMT1ZqaTNncFlzNE9JUVFKTFN0dWJra3NBb2Y5RzhhcDJIZ0lKa3lEOEh5b0xUelB1S0ZCVWZXa1g0cmJWQWJmM1FJZFZOSEU4SjU5RjlmTXdsOEZCQlhlRU03SXJhMnF3eEtpdUJmV1o5cEVZdWpMVHZhYjl3UnpJRUszaGRERjAtbE4tZjlLVUhkSUFFX0hXbDU?oc=5)
+
+2026-03-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHp6UzBYT1FlVWsxdE9wTHhOVEl1NmVlenFiSXM0d1dzWUxkTzZra2pVV0ZqME91UVpGYnhlLVdJdzhvYmFSVkpvVGU3Z3QyWFZsdTlPYnhJcVZVN21iNzMwWWtPdEIyN0wzYmVPQVV5ckpKaUtRc1J5czREUEhZRDRTQXhhejltSEpCR0c2YlBEeVXSAZgBQVVfeXFMT1ZqaTNncFlzNE9JUVFKTFN0dWJra3NBb2Y5RzhhcDJIZ0lKa3lEOEh5b0xUelB1S0ZCVWZXa1g0cmJWQWJmM1FJZFZOSEU4SjU5RjlmTXdsOEZCQlhlRU03SXJhMnF3eEtpdUJmV1o5cEVZdWpMVHZhYjl3UnpJRUszaGRERjAtbE4tZjlLVUhkSUFFX0hXbDU?oc=5)
+
+---
+
+### ['I kept falling over on lads' holiday before learning the devastating reason why' - Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJhblhUYlAxd2ZRbTlJRmFyR3FaWnZoZjZROVJOck0xNnJNcGxZalg4SXBuVGxGWTJnU2JWcklvNC1hc1BsN2VJWjQ5bU1vUkhkYnZxZFdBblB3S0lrNkswUkt1WHBXdnprLWd0STZOWFZ6ZkMxczFGVWptMjY0bVd1NnFkZ9IBiwFBVV95cUxQYzZTZlVCUGJRT2xPQW9CUzk1cU1ET3FCQnJLbHduUUpndmNtUmJxYVV2YXBiWEdfVTM5NjB3bFAwWXFJaDVxMXBQMjRfakt4eWpaOVRSMHJhdTdtREZPX2djVmVGNGZGSnh4UXRSZzVLUThOMHc3SHZPX29FckUtQkFwemxVN3FnQzd3?oc=5)
+
+2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJhblhUYlAxd2ZRbTlJRmFyR3FaWnZoZjZROVJOck0xNnJNcGxZalg4SXBuVGxGWTJnU2JWcklvNC1hc1BsN2VJWjQ5bU1vUkhkYnZxZFdBblB3S0lrNkswUkt1WHBXdnprLWd0STZOWFZ6ZkMxczFGVWptMjY0bVd1NnFkZ9IBiwFBVV95cUxQYzZTZlVCUGJRT2xPQW9CUzk1cU1ET3FCQnJLbHduUUpndmNtUmJxYVV2YXBiWEdfVTM5NjB3bFAwWXFJaDVxMXBQMjRfakt4eWpaOVRSMHJhdTdtREZPX2djVmVGNGZGSnh4UXRSZzVLUThOMHc3SHZPX29FckUtQkFwemxVN3FnQzd3?oc=5)
 
 ---
 
@@ -103,22 +127,6 @@ permalink: /news/bimatoprost/
 2026-03-18 <span class="news-indication-tag">AF</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSWJTZDVudGlub2tUMHFlVnduQU5qNEdkQlRUQy0zR2Z6NjZXbUZqaHNjOEVzUHRNQ3laeXFyWW5XM1FkbV9HYy02RVR2T3NwTGtId0V6bjZsUmpha1lsMXVwWUVfdFFCb282anNBRG5OVkVzNW1lOGVGN3dkYm01c3NFVmhxUm9FWVFpTVc4WURBMGFiaWpYUFlIRmJRcnQ1S3dmZDRhNWFzVzlGa2RHdXFtTldnYVAzRjg4d3A0WVVaaE8wM1M0cDE5OUtPb3ZNb2RKRVJjeEVHTkw4U3l2YkZfd0JPSlBz?oc=5)
-
----
-
-### [Ernährung: Mit Mittelmeerkost bleibt das Gehirn länger jung - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFNNMGFnOWF0UFJxZi0wSlo0a3dQSUF5OGl5Y0VPLUNMbkhMYkxpVk5aOU9XZ3R0SmtHWVV3OS1JLWQ1YWRHWVRRR19tSWpGa0JrQkZwMmlKVXNRQ2MtN1o4MWJPY09EenFKem4xRmpla3MtaFF0dnNKWElyY0ZIMkQzcEU4dFpUSlFjd1lDeU4zVWVqUFBKMDZYTFg0UHZj?oc=5)
-
-2026-03-17 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFNNMGFnOWF0UFJxZi0wSlo0a3dQSUF5OGl5Y0VPLUNMbkhMYkxpVk5aOU9XZ3R0SmtHWVV3OS1JLWQ1YWRHWVRRR19tSWpGa0JrQkZwMmlKVXNRQ2MtN1o4MWJPY09EenFKem4xRmpla3MtaFF0dnNKWElyY0ZIMkQzcEU4dFpUSlFjd1lDeU4zVWVqUFBKMDZYTFg0UHZj?oc=5)
-
----
-
-### [Samsung destaca la detección de la apnea del sueño en el Día Mundial del Sueño 2026 - Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
-
-2026-03-17 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
 
 ---
 
@@ -188,17 +196,9 @@ permalink: /news/bimatoprost/
 
 ### [Inhalatives Medikament gegen Lungenfibrose - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MN3VXZklFbllCLUVfWWRCZVNYQ1c2OFlnbWF6MFhKZ3BTcnA3eHROWk1zQkdScHJfQnpFR2ZYZi13S2NjRThJZEdjYw?oc=5)
 
-2026-03-17 <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MN3VXZklFbllCLUVfWWRCZVNYQ1c2OFlnbWF6MFhKZ3BTcnA3eHROWk1zQkdScHJfQnpFR2ZYZi13S2NjRThJZEdjYw?oc=5)
-
----
-
-### [Schlafmittel für Kinder im Trend: Warum Experten bei Melatonin zur Vorsicht raten - Berliner Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0JuXzFCRkNpSHhyMml0c0xna0V5ajFvUDV3MUk2c3dXXzNzUkFjZkRjcGlKZ1Z1NzBheDdodmNWOU53WXpqb3EyZ2hnd0tTYUNFTTZhVW1xd1pzMjJGVUFDTHpKQ09tRFNBMjdYOExhelpQYkpsX1NCejgxUE5oZXBZRlBBU2dHX253UUowWl9pRkxxRTVuOUtLOW1fbkd4LUNFMnhKU0oweHlFR3NrUHRBTTR0Nm45SDEtbmNRUFl2cldESFJFT25UeFlzdFJuZzA4REFSdzdncmNVQTM4?oc=5)
-
-2026-03-17 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">AF</span>
-
-來源：[Berliner Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0JuXzFCRkNpSHhyMml0c0xna0V5ajFvUDV3MUk2c3dXXzNzUkFjZkRjcGlKZ1Z1NzBheDdodmNWOU53WXpqb3EyZ2hnd0tTYUNFTTZhVW1xd1pzMjJGVUFDTHpKQ09tRFNBMjdYOExhelpQYkpsX1NCejgxUE5oZXBZRlBBU2dHX253UUowWl9pRkxxRTVuOUtLOW1fbkd4LUNFMnhKU0oweHlFR3NrUHRBTTR0Nm45SDEtbmNRUFl2cldESFJFT25UeFlzdFJuZzA4REFSdzdncmNVQTM4?oc=5)
 
 ---
 
@@ -218,11 +218,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Mangelernährung im Alter vermeiden: DGG veröffentlicht neue Info-Flyer](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnpxdnJHaDVKenFWYkxHbzdrTHcycThSUHFtVURybDdtaHVJc3h3Rjd4YjQxdFF6ekRIZlhZOGNNUTNZb3hTYThMeS1oRHdQUWotR2dnX3dFMmx2WUJBejVWeG9hcl9UQUVHU1ZNSE1VZWdHNkYtUnFGQnJHd1NZLTZfamZiWVpmT2pSWl96WkhxaWI3TFNic0FNaUhCM0FKUjd2cnNkb1A3cmc?oc=5)
+### [Reduced physical activity due to global heating will lead to rise in health issues, study says - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3l5bFh5a2NDWDd5YWRJUTNzUWtnX3R0S1ZBSm1GTEY4RHRhQkc1R25fX25oQW9HS3BUWmlOcVVpd0plVGdwbFpaaUxFTHhIU0ZEZUxOWktMdlVhUXY2UFcyOEc5UFBmLS1LQUhIbTE0N1FDeDNPZi1zUGNyTmQ0eko3MENWX083UWtYbGhORHo1ZUlEN3lUaEJYTE95eTd2aHllOUUzV1JtVnlDYjltZWxzNXZVSXpJVTVIczQ4MC1UUQ?oc=5)
 
-2026-03-17 <span class="news-indication-tag">AF</span>
+2026-03-16 <span class="news-indication-tag">AF</span>
 
-來源：[Altenpflege-Online](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnpxdnJHaDVKenFWYkxHbzdrTHcycThSUHFtVURybDdtaHVJc3h3Rjd4YjQxdFF6ekRIZlhZOGNNUTNZb3hTYThMeS1oRHdQUWotR2dnX3dFMmx2WUJBejVWeG9hcl9UQUVHU1ZNSE1VZWdHNkYtUnFGQnJHd1NZLTZfamZiWVpmT2pSWl96WkhxaWI3TFNic0FNaUhCM0FKUjd2cnNkb1A3cmc?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3l5bFh5a2NDWDd5YWRJUTNzUWtnX3R0S1ZBSm1GTEY4RHRhQkc1R25fX25oQW9HS3BUWmlOcVVpd0plVGdwbFpaaUxFTHhIU0ZEZUxOWktMdlVhUXY2UFcyOEc5UFBmLS1LQUhIbTE0N1FDeDNPZi1zUGNyTmQ0eko3MENWX083UWtYbGhORHo1ZUlEN3lUaEJYTE95eTd2aHllOUUzV1JtVnlDYjltZWxzNXZVSXpJVTVIczQ4MC1UUQ?oc=5)
 
 ---
 
@@ -231,22 +231,6 @@ permalink: /news/bimatoprost/
 2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmtveThmSUg4WmRNSjhzQk43WV9YRWRWNm1EeVJaZzIxVHJ0UVQ0V0dkazItQ2c2REpRZk5RZWRMX1laRVBsTFhUWTZHcjlqTXZwX2tuclNvemh4TkdDVGFkTlhyTDRfNU12YWJPWFViNkEzaGdsa1YxeERLRmFEVGx6SXlpbFpPR2xhSlZibEpCUF85Z1BmaVBQTC1ZZUd4aWpB0gGoAUFVX3lxTE1xVDY4WDFwdzlwZVlCaFpOMmdiY0x0dFluWWlPbXlnWE05OW5tMHJuSW1MOWNOZHdudDItc3M1SjFMbHlBT2RVQkFRYU85QTQwNEtkT3pXOEQ2U0pWQjVzOW83cmYxQ0JfN01aeVM2YkE3UEtBWjdyczNRcndsaGR1c1lRUlNGUTMzRzBuVG10Wno1Nk1hTHladG0xX2RKakdmcU1vOW1DQw?oc=5)
-
----
-
-### [IT Guy Goes Down In History After Using ChatGPT And His Dog’s DNA To Create A Cancer Cure For Her - Bored Panda](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SbXBNNGpMSER1V0N6QjZTbUF0eDhzeXp4TUhFTUt4MV9aQkRZMnYxUlNmczFTSWtwYlNjNTBZVWRpNTJKZnV0d3lLUWZvRUxiTHdUbXlqaF8xUnhoR0pXZw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SbXBNNGpMSER1V0N6QjZTbUF0eDhzeXp4TUhFTUt4MV9aQkRZMnYxUlNmczFTSWtwYlNjNTBZVWRpNTJKZnV0d3lLUWZvRUxiTHdUbXlqaF8xUnhoR0pXZw?oc=5)
-
----
-
-### [Sultiam: Gibt es bald ein Medikament gegen Schlafapnoe?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQclk4TzJaNmtKc0FYX3VJOW1LbkVyM3JmbHh5MlZBU0ZVdlQ2c0k2Q1BNTGp3VjBodllfaWFKeWJsejdpaXRFNXZ0bUZIMExOcWVYVlNTMWZWQi1DRldfa3hRMmxPaXpneXVsTXo0X2EwamVMLU5faDk5bUVtSzR1NzljdWQybXFJOC1EMFVETzkyWm8?oc=5)
-
-2026-03-16 <span class="news-indication-tag">AF</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQclk4TzJaNmtKc0FYX3VJOW1LbkVyM3JmbHh5MlZBU0ZVdlQ2c0k2Q1BNTGp3VjBodllfaWFKeWJsejdpaXRFNXZ0bUZIMExOcWVYVlNTMWZWQi1DRldfa3hRMmxPaXpneXVsTXo0X2EwamVMLU5faDk5bUVtSzR1NzljdWQybXFJOC1EMFVETzkyWm8?oc=5)
 
 ---
 
