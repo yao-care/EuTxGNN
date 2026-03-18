@@ -3,7 +3,7 @@ layout: default
 title: "enfermedad renal crónica（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad renal crónica（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "enfermedad renal crónica（chronic kidney disease） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chronic-kidney-disease/
 ---
 
 <p class="key-answer" data-question="enfermedad renal crónica（chronic kidney disease） 有什麼相關新聞？">
-<strong>enfermedad renal crónica（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>enfermedad renal crónica（chronic kidney disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Dr. Alberto Ortiz: «Ahora la enfermedad renal crónica se diagnostica de forma tardía» - La Razón](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUZjTzhaUWVvZUVrS3ZrWi1NOEF4NzhLRjBLZTRFOUdQbXppWlgzUHhJSlZYSl9UMkNRbzl2N2RJakIwMlRycTlGbGhwS2JQZ1RIWF9lbWxhMjBFeGRlWjZRRDRwU3B4SjZDZUtzMk14aExNcVhTLVRtVVRieFJSdUZ6ekZPcXVIS1lnRUZlSUJEY19NUk0zWEdFWjI3NzE2Wkt5WlhhdzBFcmMxOUZ5VVh4SjdaOTJGYS1mclBBSVliOEEzaWduZ1VFQ2oyTkdNNFHSAeYBQVVfeXFMTWNZWFN4c0ROT0hZZkJEd2lFOG5DQmZ2VWJ2S2hoQkg0NjdoYUpndEg4V3E2V0ZnRWdJV1RhYTdKajVwWkRBbTJkWDY2bWRucTduTmJLdTJHR2dEa1ROaFIwdm91QVAteW1TUkRZTmtvLXd0SVY5X05EekluRnp2TE4wSHZjUWpfN0txc2UyZ0dDZFljZDFnd05CcHh3U282TzFjTGV6UFJKTDFMUHVHQlRScGpUZ2ZSRDJZdzhiM2w3QVZUOUlfMlpCOWtQVlNERWozWGs2LWFkWnl2Ni1TN0p5LUMwNHc?oc=5)
+
+2026-03-18
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUZjTzhaUWVvZUVrS3ZrWi1NOEF4NzhLRjBLZTRFOUdQbXppWlgzUHhJSlZYSl9UMkNRbzl2N2RJakIwMlRycTlGbGhwS2JQZ1RIWF9lbWxhMjBFeGRlWjZRRDRwU3B4SjZDZUtzMk14aExNcVhTLVRtVVRieFJSdUZ6ekZPcXVIS1lnRUZlSUJEY19NUk0zWEdFWjI3NzE2Wkt5WlhhdzBFcmMxOUZ5VVh4SjdaOTJGYS1mclBBSVliOEEzaWduZ1VFQ2oyTkdNNFHSAeYBQVVfeXFMTWNZWFN4c0ROT0hZZkJEd2lFOG5DQmZ2VWJ2S2hoQkg0NjdoYUpndEg4V3E2V0ZnRWdJV1RhYTdKajVwWkRBbTJkWDY2bWRucTduTmJLdTJHR2dEa1ROaFIwdm91QVAteW1TUkRZTmtvLXd0SVY5X05EekluRnp2TE4wSHZjUWpfN0txc2UyZ0dDZFljZDFnd05CcHh3U282TzFjTGV6UFJKTDFMUHVHQlRScGpUZ2ZSRDJZdzhiM2w3QVZUOUlfMlpCOWtQVlNERWozWGs2LWFkWnl2Ni1TN0p5LUMwNHc?oc=5)
+
+---
 
 ### [Las farmacias, primera puerta para detectar la enfermedad renal - El Diario Vasco](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzVYSWJMS3dSLV9qMXN0dnNWZHF1RTVwS1B2XzlwNW1iTWhqZVVOOW5XZlpOUGVDbFNZU3lMQTQ1VzRXS0p4cEoyS1R5dlBDWmxYSG11bkUyNTlkanU3ME5JMDVQVGtxT2RwaWM1WFNLWDNFRlRLdlBrNnhEbVVDZm0wZFhkTXE5V1I4TlJmQ0pyQURZNDNoWFdRYWx2YzVrZkF5RmEwZnducWgzYUtyVEdlRzI1NDDSAbwBQVVfeXFMUDFLWVZreFBPSXNQRm5ibk10RFhDdWg2bEdXQXEtRkJZT3BfTnd3ZW44QWJ0WTRadElqX2QxT3c2QUVpMGcwTU05aTRKSkJRdklPaXVRc3lBVHJnSDZyMVVNcDVZSENMM3hNUkVsdnZVQUhPeGUwUHd3ZDF5SG9Ga2VGc3Q2UzhmczJTODkwNzl0aWFqbGdFV3JtZ0hYd2JiTTVXWHpPMDZRQTBDMkRscmpmbEhUaUMyNmEyRzY?oc=5)
 
@@ -39,11 +47,11 @@ permalink: /news/chronic-kidney-disease/
 
 ---
 
-### [La enfermedad renal crónica en España aumenta con más de 68.000 personas en tratamiento renal sustitutivo - Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
+### [Multivitamine bremsen Alterung – doch Pillen bergen Risiken ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
 
-2026-03-17
+2026-03-16
 
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
+來源：[Börse Social](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGhyZVhNQ3lmVHJMT2trZWRFRE5OLTUtaG56cjhTSjM4TFFDQkJxOGdrZjd3R3Q1ZnkwZHNRWnhzM0dEZ2loNUVGVEEyXzA3Q0FjSjQ3OWpJZXVzRDk0Z2FDb1dFc1l4NzJtV2J5RzZzMWk4cGp0ZEk0ZEJ3VjFVTS1ocVJhT3RleUhJcFF2Nml3WHlqS2RrcVhFcXQ2cVFyZ3Zmc0JIdldudnpIbGZrRXVn?oc=5)
 
 ---
 
