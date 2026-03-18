@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [“Los avances en tecnología, detección precoz y terapias modificadoras pueden cambiar el curso de la diabetes tipo 1”](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1NybHNyT3p0QVNKR1JYSUVtZkJnRXU3MzFCUVQ5NVlMV0JWV1FXdkZXeW9PcnZTcHdhTTNsbHhPS1ExVzY0b2tTUXBtZHB5YTBOaGJTVDdSNzdPeWNTSVc3dzFRb2FJNlMxUTVBYTNmYTRZMm93aTlYMHNUbHpkOHE5bnhNUGgzRFRlRkNOU1BVeUJsbkQtVUszV0pRX1lkOGZmaEVDSVRGR2tmc1doOTJLeWlPSVdoNlU3MFVLZm5ERjZ4QlZtWUlIOE16cGpZNnJmNjNLQmdOQQ?oc=5)
 
 2026-03-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1NybHNyT3p0QVNKR1JYSUVtZkJnRXU3MzFCUVQ5NVlMV0JWV1FXdkZXeW9PcnZTcHdhTTNsbHhPS1ExVzY0b2tTUXBtZHB5YTBOaGJTVDdSNzdPeWNTSVc3dzFRb2FJNlMxUTVBYTNmYTRZMm93aTlYMHNUbHpkOHE5bnhNUGgzRFRlRkNOU1BVeUJsbkQtVUszV0pRX1lkOGZmaEVDSVRGR2tmc1doOTJLeWlPSVdoNlU3MFVLZm5ERjZ4QlZtWUlIOE16cGpZNnJmNjNLQmdOQQ?oc=5)
+
+---
+
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+2026-03-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 ---
 

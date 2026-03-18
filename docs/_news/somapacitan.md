@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Somapacitan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [“Los avances en tecnología, detección precoz y terapias modificadoras pueden cambiar el curso de la diabetes tipo 1”](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1NybHNyT3p0QVNKR1JYSUVtZkJnRXU3MzFCUVQ5NVlMV0JWV1FXdkZXeW9PcnZTcHdhTTNsbHhPS1ExVzY0b2tTUXBtZHB5YTBOaGJTVDdSNzdPeWNTSVc3dzFRb2FJNlMxUTVBYTNmYTRZMm93aTlYMHNUbHpkOHE5bnhNUGgzRFRlRkNOU1BVeUJsbkQtVUszV0pRX1lkOGZmaEVDSVRGR2tmc1doOTJLeWlPSVdoNlU3MFVLZm5ERjZ4QlZtWUlIOE16cGpZNnJmNjNLQmdOQQ?oc=5)
 
@@ -71,14 +71,6 @@ permalink: /news/somapacitan/
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTgwR3ZPYUttdnE0WUhHdkdHZEZsTDJ5UUZacTNqc19xb1ZNeWNiVVpLQlA1dXdJR2k2dkFDVzdxVW55YnhkeWRUalFzQ21yUTV6N3FmVnhZX0YwTFg2Yk9sQjJpZjFPd1NIRkVnclRMblVtdF9ud2FsT3NXTWpLZlp0NVgtS3FZN1RFdS1DOTJ5VmJJR0JnNHpiZlpfTDVjN1Jlek85bWpCZVZmTWpINTc4cGVtUWQzZXAtUk9xSHQ0UQ?oc=5)
-
----
-
-### [Melasma kann behandelt werden, indem Sie diese einfachen Expertentipps befolgen](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlVFU1REa0pzOUYyVXNSaUhFd3RFYzhGZUZlT2xlcmRNdEtzdmVxcjc3Mm5mUWt6c2VZQndKZm5acjJyd1dCbGtpbWg0Y1Y5ZXJVMTZfc2ZUcDBzNmhsZmg0OWNETHMyQl92QWlMUXJ5R1F5Q2lRc0pfc3puQnd4dldQR1lIVmJxb1ljOTJ1UVM0ZEhLWF9XdEtYRVFJUmtGNTNmdg?oc=5)
-
-2026-03-16 <span class="news-indication-tag">asma</span>
-
-來源：[idowa.plus](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlVFU1REa0pzOUYyVXNSaUhFd3RFYzhGZUZlT2xlcmRNdEtzdmVxcjc3Mm5mUWt6c2VZQndKZm5acjJyd1dCbGtpbWg0Y1Y5ZXJVMTZfc2ZUcDBzNmhsZmg0OWNETHMyQl92QWlMUXJ5R1F5Q2lRc0pfc3puQnd4dldQR1lIVmJxb1ljOTJ1UVM0ZEhLWF9XdEtYRVFJUmtGNTNmdg?oc=5)
 
 ---
 

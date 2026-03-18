@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Medical cannabis does ‘more harm than good’ to mental health - The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWVlZFB6VHEzbFZWUms5VzBvRERLT3V3QWV6TXpIbzAzR29BZktPeU1jd0h5eEI3djU5WjdiTnF3LXhTTm1nSGg2Nmp1MXZfUUw5bUNYNHhmUEdJOEd4aDdhZ3VkZmlNRGh0MnkyN2YwZ3dVNmhtaUJGTzdtaDExT1NiRHRXSTBRNEx6eUhTSDJLTm5yaFFiTWh2QUVsdzlTeEE?oc=5)
-
-2026-03-16
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWVlZFB6VHEzbFZWUms5VzBvRERLT3V3QWV6TXpIbzAzR29BZktPeU1jd0h5eEI3djU5WjdiTnF3LXhTTm1nSGg2Nmp1MXZfUUw5bUNYNHhmUEdJOEd4aDdhZ3VkZmlNRGh0MnkyN2YwZ3dVNmhtaUJGTzdtaDExT1NiRHRXSTBRNEx6eUhTSDJLTm5yaFFiTWh2QUVsdzlTeEE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [El ictus es más mortal en pacientes con depresión, esquizofrenia o bipolaridad - La Razón](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFVaM3lMY3haU0xDdWU2d0JDcUxtU29vNUZYMjNHRFl4VGE0cHlLM3RUVS1kR05MMzl0YlIxRG0yNVp1cVdETG1yN25zUTZWakFDWkdCQXpMV3pLVUkwZDMwcE9PZ25rOXBoVDVMSXJscGg0MC1YZWpWN3RyajlSQ2k5eXFxMjhqUkRXLURUOE44cm04WGFrbmZlWm5reHJ3b2ZWaE9qTU00cmJvTVo5VHY0bm5QLXB4cTgxYUk3UXVGR2F2ZWJoV9IB3AFBVV95cUxNS2xhbG1pNWxvNHVnNFVPUEZPTWZhUlJtMGg5clJqUF9DTTh4aHpMR2RJXzAyNWtyMm41RW1QbnlSeEp1NVI0ZldWcjJROHhqTEJmZFRwcWFCakxKMUV6cm1RallmTFU2bkZ5T0hyUFhLbmhGamRxdU1ma1ZMcmp4a2ZicFJud1pKRnBDbHZWejMtc01tejdSZHRnSnpEeWdIMzNNU09pZUtXMU1tNWtZcEMwYmdhMl9pVFp3T3VwX2hUaHJRdGM4NXFFTmJJVXZabzd0cXlnejB2dVlw?oc=5)
 

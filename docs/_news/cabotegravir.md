@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [Demuestran que un compuesto del aceite de oliva virgen extra frena la inflamación de la artritis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOME1ZMkpZcWFKSndYVUZXaVRGSkoxbUUyeFhLRlVHWGpGMkE2VW5MTjAxM2FtM2NWNl8yUmt4aGhOM1loeTFtWXhTSlM4N0FYOGN2NFEwd2hHZnBhOTdLeVp5RnozZGRIaXN5d3YybFExLXpQeUltM0RqMTR1TWhtcHBOZGxzT3l1UVItenJEMEFpRThTazhWSEN6N0lBZDVCMlU5clM0cWpxdzhWRkxXbTh6TmQ3S0Y0NFJ6dWVYakN4R2ktTlA5eE9mY3RsZmhGODM0ZGp6V1RlSnFFVmczQUlXVjRxZw?oc=5)
+
+2026-03-18 <span class="news-indication-tag">artritis</span>
+
+來源：[Mercacei](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOME1ZMkpZcWFKSndYVUZXaVRGSkoxbUUyeFhLRlVHWGpGMkE2VW5MTjAxM2FtM2NWNl8yUmt4aGhOM1loeTFtWXhTSlM4N0FYOGN2NFEwd2hHZnBhOTdLeVp5RnozZGRIaXN5d3YybFExLXpQeUltM0RqMTR1TWhtcHBOZGxzT3l1UVItenJEMEFpRThTazhWSEN6N0lBZDVCMlU5clM0cWpxdzhWRkxXbTh6TmQ3S0Y0NFJ6dWVYakN4R2ktTlA5eE9mY3RsZmhGODM0ZGp6V1RlSnFFVmczQUlXVjRxZw?oc=5)
+
+---
+
+### [EPOC, la "enfermedad silenciosa" que afecta a millones de personas en España](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHhDSmlkVzg3by15akh0VUFJcTNvbDhUcHVhVEh3c3llTTY0bEkxT19LaXJoZHZTLU4zMEozMGN5MDUtSmszRVVhU1ltZHBzUXN3QjZ1eEo2eU9OdFQxcjBhaTVnLUpnd1JWd0dOdHJPczNaSVpuSFh5YWlINXNONmQ0NTJ4VmdJTWt2cmFOSDRTOUFaenY2YUZYMlJsa19PNV83SGQ2dElKcTk5aGQ1bmIwZzRCRWxKQWdIUlk0YTI1Ync?oc=5)
+
+2026-03-18 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[CatalunyaPress](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHhDSmlkVzg3by15akh0VUFJcTNvbDhUcHVhVEh3c3llTTY0bEkxT19LaXJoZHZTLU4zMEozMGN5MDUtSmszRVVhU1ltZHBzUXN3QjZ1eEo2eU9OdFQxcjBhaTVnLUpnd1JWd0dOdHJPczNaSVpuSFh5YWlINXNONmQ0NTJ4VmdJTWt2cmFOSDRTOUFaenY2YUZYMlJsa19PNV83SGQ2dElKcTk5aGQ1bmIwZzRCRWxKQWdIUlk0YTI1Ync?oc=5)
+
+---
+
+### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
+
+2026-03-18 <span class="news-indication-tag">arthritis</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
+
+---
 
 ### [“Los avances en tecnología, detección precoz y terapias modificadoras pueden cambiar el curso de la diabetes tipo 1”](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1NybHNyT3p0QVNKR1JYSUVtZkJnRXU3MzFCUVQ5NVlMV0JWV1FXdkZXeW9PcnZTcHdhTTNsbHhPS1ExVzY0b2tTUXBtZHB5YTBOaGJTVDdSNzdPeWNTSVc3dzFRb2FJNlMxUTVBYTNmYTRZMm93aTlYMHNUbHpkOHE5bnhNUGgzRFRlRkNOU1BVeUJsbkQtVUszV0pRX1lkOGZmaEVDSVRGR2tmc1doOTJLeWlPSVdoNlU3MFVLZm5ERjZ4QlZtWUlIOE16cGpZNnJmNjNLQmdOQQ?oc=5)
 

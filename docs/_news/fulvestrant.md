@@ -14,7 +14,7 @@ permalink: /news/fulvestrant/
 ---
 
 <p class="key-answer" data-question="Fulvestrant 有什麼相關新聞？">
-<strong>Fulvestrant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fulvestrant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/fulvestrant/
 <p><a href="{{ '/drugs/fulvestrant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Demuestran que un compuesto del aceite de oliva virgen extra frena la inflamación de la artritis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOME1ZMkpZcWFKSndYVUZXaVRGSkoxbUUyeFhLRlVHWGpGMkE2VW5MTjAxM2FtM2NWNl8yUmt4aGhOM1loeTFtWXhTSlM4N0FYOGN2NFEwd2hHZnBhOTdLeVp5RnozZGRIaXN5d3YybFExLXpQeUltM0RqMTR1TWhtcHBOZGxzT3l1UVItenJEMEFpRThTazhWSEN6N0lBZDVCMlU5clM0cWpxdzhWRkxXbTh6TmQ3S0Y0NFJ6dWVYakN4R2ktTlA5eE9mY3RsZmhGODM0ZGp6V1RlSnFFVmczQUlXVjRxZw?oc=5)
+
+2026-03-18 <span class="news-indication-tag">artritis</span>
+
+來源：[Mercacei](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOME1ZMkpZcWFKSndYVUZXaVRGSkoxbUUyeFhLRlVHWGpGMkE2VW5MTjAxM2FtM2NWNl8yUmt4aGhOM1loeTFtWXhTSlM4N0FYOGN2NFEwd2hHZnBhOTdLeVp5RnozZGRIaXN5d3YybFExLXpQeUltM0RqMTR1TWhtcHBOZGxzT3l1UVItenJEMEFpRThTazhWSEN6N0lBZDVCMlU5clM0cWpxdzhWRkxXbTh6TmQ3S0Y0NFJ6dWVYakN4R2ktTlA5eE9mY3RsZmhGODM0ZGp6V1RlSnFFVmczQUlXVjRxZw?oc=5)
+
+---
+
+### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
+
+2026-03-18 <span class="news-indication-tag">arthritis</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
+
+---
 
 ### [EULAR lidera un consenso sobre el manejo de la artritis reumatoide basado en la evidencia disponible sobre eficacia seguridad y coste - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
 

@@ -29,7 +29,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asma</span></li>
+<li>asthma（99.9%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -42,19 +42,19 @@ permalink: /news/fluticasone-furoate/
 
 ## 相關新聞（2 則）
 
+### [EPOC, la "enfermedad silenciosa" que afecta a millones de personas en España](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHhDSmlkVzg3by15akh0VUFJcTNvbDhUcHVhVEh3c3llTTY0bEkxT19LaXJoZHZTLU4zMEozMGN5MDUtSmszRVVhU1ltZHBzUXN3QjZ1eEo2eU9OdFQxcjBhaTVnLUpnd1JWd0dOdHJPczNaSVpuSFh5YWlINXNONmQ0NTJ4VmdJTWt2cmFOSDRTOUFaenY2YUZYMlJsa19PNV83SGQ2dElKcTk5aGQ1bmIwZzRCRWxKQWdIUlk0YTI1Ync?oc=5)
+
+2026-03-18 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[CatalunyaPress](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHhDSmlkVzg3by15akh0VUFJcTNvbDhUcHVhVEh3c3llTTY0bEkxT19LaXJoZHZTLU4zMEozMGN5MDUtSmszRVVhU1ltZHBzUXN3QjZ1eEo2eU9OdFQxcjBhaTVnLUpnd1JWd0dOdHJPczNaSVpuSFh5YWlINXNONmQ0NTJ4VmdJTWt2cmFOSDRTOUFaenY2YUZYMlJsa19PNV83SGQ2dElKcTk5aGQ1bmIwZzRCRWxKQWdIUlk0YTI1Ync?oc=5)
+
+---
+
 ### [SEMI denuncia inequidad en la vacunación de adultos frente al VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdk5vTERYd0RGRVFwY05OMXRUNDlLSktIVWd0M3pldTlOR1FTbXhmZ0IwOXdwdzZhdWU3c1ZHSmtCTHcxNXlFb09uVHBpYU56RkdYbjR1YUtwVGNCV3NjTllNdGY1YkJ4M0swQ2hEVEhjcnpRaFAwdWNHeFZmd0IyQ2lBVkR3NEZlUlBhcXM2X3RQQ0hFdnBQTUp3YjZyUEdSWkpxbGtPbW5HUDFfMGx1dXdTa2ZVcjZ2WDh1bExPaFo2Tk9VeGp4RtIByAFBVV95cUxOSU1RdDVBblEtdXZmYW56TFd4eUpQaVluOWRRUDFOekU0TVdYOEhQYmpJRVFYdUhJdlpUX3MzNU8tQl9ETmMtMnVlNm85MXltbG1XRm1Dd1lVTUlVM2ZfcHRsaWFQbnUxenRnYjZlZjBobjd0MHhXWnRPQXp6RlpzR1pnRVZiRlpfUWczcHlUeTM3SERVUjlEdzRsMzNqVXNpbElvZFJfN05CbGJPZ29uZVYzY3ZrNm9pTlJMWktkNVdXZm5QelhIaw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">EPOC</span>
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdk5vTERYd0RGRVFwY05OMXRUNDlLSktIVWd0M3pldTlOR1FTbXhmZ0IwOXdwdzZhdWU3c1ZHSmtCTHcxNXlFb09uVHBpYU56RkdYbjR1YUtwVGNCV3NjTllNdGY1YkJ4M0swQ2hEVEhjcnpRaFAwdWNHeFZmd0IyQ2lBVkR3NEZlUlBhcXM2X3RQQ0hFdnBQTUp3YjZyUEdSWkpxbGtPbW5HUDFfMGx1dXdTa2ZVcjZ2WDh1bExPaFo2Tk9VeGp4RtIByAFBVV95cUxOSU1RdDVBblEtdXZmYW56TFd4eUpQaVluOWRRUDFOekU0TVdYOEhQYmpJRVFYdUhJdlpUX3MzNU8tQl9ETmMtMnVlNm85MXltbG1XRm1Dd1lVTUlVM2ZfcHRsaWFQbnUxenRnYjZlZjBobjd0MHhXWnRPQXp6RlpzR1pnRVZiRlpfUWczcHlUeTM3SERVUjlEdzRsMzNqVXNpbElvZFJfN05CbGJPZ29uZVYzY3ZrNm9pTlJMWktkNVdXZm5QelhIaw?oc=5)
-
----
-
-### [Melasma kann behandelt werden, indem Sie diese einfachen Expertentipps befolgen](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlVFU1REa0pzOUYyVXNSaUhFd3RFYzhGZUZlT2xlcmRNdEtzdmVxcjc3Mm5mUWt6c2VZQndKZm5acjJyd1dCbGtpbWg0Y1Y5ZXJVMTZfc2ZUcDBzNmhsZmg0OWNETHMyQl92QWlMUXJ5R1F5Q2lRc0pfc3puQnd4dldQR1lIVmJxb1ljOTJ1UVM0ZEhLWF9XdEtYRVFJUmtGNTNmdg?oc=5)
-
-2026-03-16 <span class="news-indication-tag">asma</span>
-
-來源：[idowa.plus](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlVFU1REa0pzOUYyVXNSaUhFd3RFYzhGZUZlT2xlcmRNdEtzdmVxcjc3Mm5mUWt6c2VZQndKZm5acjJyd1dCbGtpbWg0Y1Y5ZXJVMTZfc2ZUcDBzNmhsZmg0OWNETHMyQl92QWlMUXJ5R1F5Q2lRc0pfc3puQnd4dldQR1lIVmJxb1ljOTJ1UVM0ZEhLWF9XdEtYRVFJUmtGNTNmdg?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,37 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
+
+### [The number of times you should brush your teeth per day to ward off dementia - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2N6cUdaMTUzN01KRVpzU2ptb25Nejl5VXE0QkQ0R0FGSDZFUUxWYm1Rd1huYVVIc3NDdGk2S3Q3aWRQMHNacGFUZERDWVFnWFJJN2tOM0JqU1RobjNzaE1fLWcxTWVUbzdVcUM1ekw0Q3BWcHBNUWFfU2lVOVN0Y01oMEF1UFA4SWFUZkFQbVprZ1JLMEhhRld4S3FYZ00?oc=5)
+
+2026-03-18
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2N6cUdaMTUzN01KRVpzU2ptb25Nejl5VXE0QkQ0R0FGSDZFUUxWYm1Rd1huYVVIc3NDdGk2S3Q3aWRQMHNacGFUZERDWVFnWFJJN2tOM0JqU1RobjNzaE1fLWcxTWVUbzdVcUM1ekw0Q3BWcHBNUWFfU2lVOVN0Y01oMEF1UFA4SWFUZkFQbVprZ1JLMEhhRld4S3FYZ00?oc=5)
+
+---
+
+### ['I created device to help people with dementia stay safe'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUm40a0s3aWxaVVNpakNITlhzd2dTdXVDSmN0MWNOLXlQczA2SmwxTndZTVlJRGo3aE5sWEVVdGxZUk1xd1V1Z2RNUmdOZFlaUzVXZUtiZVZWUTY0?oc=5)
+
+2026-03-18
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUm40a0s3aWxaVVNpakNITlhzd2dTdXVDSmN0MWNOLXlQczA2SmwxTndZTVlJRGo3aE5sWEVVdGxZUk1xd1V1Z2RNUmdOZFlaUzVXZUtiZVZWUTY0?oc=5)
+
+---
 
 ### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 2026-03-17
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+---
+
+### [A Psychiatrist Reveals 6 Personality Changes That Could Warn You About Dementia Years Before You Notice Anything Else - Indian Defence Review](https://news.google.com/rss/articles/CBMid0FVX3lxTFB5Z3RJbDZtbXRndy1PSFAxcXVyMFZfaHVvR1ZnSzNEZzRXQ2dUTDJnRWVlQUhSeXVDWHNuUkN2Y0VHU2dDenFZRjNFenVtNl9WcEVUMkN0YUVscS1uNHZrM1JnYXNzTV9aYmhJQ2IteHk0R2dfaHAw?oc=5)
+
+2026-03-17
+
+來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMid0FVX3lxTFB5Z3RJbDZtbXRndy1PSFAxcXVyMFZfaHVvR1ZnSzNEZzRXQ2dUTDJnRWVlQUhSeXVDWHNuUkN2Y0VHU2dDenFZRjNFenVtNl9WcEVUMkN0YUVscS1uNHZrM1JnYXNzTV9aYmhJQ2IteHk0R2dfaHAw?oc=5)
 
 ---
 

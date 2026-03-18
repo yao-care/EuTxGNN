@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,23 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Heute live um 20 Uhr: Webinar zur Entstigmatisierung von Adipositas - PTA IN LOVE](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjlqN0JaQ1E4N0Y2eGoxSUQ3SXd2RmRJQzJiZkZkUnZzSFpPS2d3LWNSS2E0Vl9PTjdseUxqSlZvSklmQk5jR1pBakRoVFhzdlAwdkZiWGd3VmVPMFA2dlVsUi0zWmMxcFRwcXlDN3oxeVB5eFFuSnNpLWZ3bzJqNkJRMEdYZUU0cmhTV2VNU19IUVNSd0RINndR?oc=5)
+
+2026-03-18
+
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjlqN0JaQ1E4N0Y2eGoxSUQ3SXd2RmRJQzJiZkZkUnZzSFpPS2d3LWNSS2E0Vl9PTjdseUxqSlZvSklmQk5jR1pBakRoVFhzdlAwdkZiWGd3VmVPMFA2dlVsUi0zWmMxcFRwcXlDN3oxeVB5eFFuSnNpLWZ3bzJqNkJRMEdYZUU0cmhTV2VNU19IUVNSd0RINndR?oc=5)
+
+---
+
+### ["Non, ce n’est pas 8 heures" : selon une étude, voici la durée de sommeil idéale pour réguler la glycémie - Biba Magazine](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZm9fSEhuZV82X0V1Z0RGUUF3LVdGckhtRGxvYzM0c2xyUmJsNnlWbjQzdVJxdmlCUXJvM0J1RXlIVjJCaS0zUzV0azlJVFBoU0VnX2xqNjJrRVNUSmZoNFlISkhXUnlxWHB1SmM3QjBpdnJvRW92VFQ5M09YNjJDMkdLbGpGMHRTOGsybzdiWnYzc0hDX29OZnFMc3MwM0tWcC1zVkdpd1NmdlVSSzh1NFVKTGdQanZoMERQd084NG1tblN5STFTN3U4SEFKUU14RHp2WE9qU0ZVclpYWDRla1RlUVU3NXJlN3c?oc=5)
+
+2026-03-18
+
+來源：[Biba Magazine](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZm9fSEhuZV82X0V1Z0RGUUF3LVdGckhtRGxvYzM0c2xyUmJsNnlWbjQzdVJxdmlCUXJvM0J1RXlIVjJCaS0zUzV0azlJVFBoU0VnX2xqNjJrRVNUSmZoNFlISkhXUnlxWHB1SmM3QjBpdnJvRW92VFQ5M09YNjJDMkdLbGpGMHRTOGsybzdiWnYzc0hDX29OZnFMc3MwM0tWcC1zVkdpd1NmdlVSSzh1NFVKTGdQanZoMERQd084NG1tblN5STFTN3U4SEFKUU14RHp2WE9qU0ZVclpYWDRla1RlUVU3NXJlN3c?oc=5)
+
+---
 
 ### [Trabajar más de 55 horas a la semana, junto a una mala alimentación, eleva la tasa de obesidad hasta un 61% - IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVRwcnllbGxMUXpLb1hYbkFyaHlTWVJ4WlBBMFozVVZDUmJvUXg5Tm04UVJGSE85c18xaTZkSnhoeTF1ejBTcWtUX2xOWGRYb3FZTVlKQkJKVm9kcDFzc3BzN1pNeGhZSUYwdVloUjdLdkhDYmVLY1IxcDZyZkNITmR1M2xLNEsxSG1UYnExMnJlMEZvOFBxNkY3ZGxyaVJSeXBpclh1LWtreG5PWmRXUmhn0gGsAUFVX3lxTE4yRWpOTUM2VEFZUnRCUmJNS2NEVHNqLXlZSmwwWXBBd280aTlIVE52aUVYWHoySWZhMWt4V0xDM2dTVkh6UGxicVlVUGxMUlo4ZEg3X01wRjZFdEN6OVM0dmdTdEx6Z3R6WmJUMlJzSFVMWGZfanFVeUNISVFXcGctSjRnZkJ5RnZMeVQ5WVNFZXhmM0VvbVFxdlRMakdjVElEOHcyQk9IbW5hQUs?oc=5)
 

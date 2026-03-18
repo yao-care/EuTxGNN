@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（11 則）
+
+### [Los factores de riesgo modificables marcan la diferencia en patologías como la demencia y el ictus - Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcllmUF9Za1JGNzhXRnZZZW1NdkVMdjVpYnItVk9JQXlvLXdzckV2d3pFSWpRNFVzNVNTRGlEcElZTF9RS2s1cWhqc0VkSU5aT3FEOXBEcnRKWlotbmozeDJlalhwb3lsblNxOU9Wd09WeWd1M3JDUWtNelZTekZTOVQyT0QyT2txcXpxQlpLemxHOUMwZ1VmQk9BUEdpZ21K?oc=5)
+
+2026-03-18 <span class="news-indication-tag">ictus</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcllmUF9Za1JGNzhXRnZZZW1NdkVMdjVpYnItVk9JQXlvLXdzckV2d3pFSWpRNFVzNVNTRGlEcElZTF9RS2s1cWhqc0VkSU5aT3FEOXBEcnRKWlotbmozeDJlalhwb3lsblNxOU9Wd09WeWd1M3JDUWtNelZTekZTOVQyT0QyT2txcXpxQlpLemxHOUMwZ1VmQk9BUEdpZ21K?oc=5)
+
+---
+
+### [Kardiologe warnt: Jeder fünfte Schlaganfall geht auf Herzrhythmusstörungen zurück - Giessener Anzeiger](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXJ1NmxVYXF1RUhWUnZSVmJmbmRVNHYxeEJQTGF5RUJmYWd5R2xvbGZSV2x1LTZfWVVmaTl4ZWNtTzdDZFRmZzRGNnJfMENINEh3TVhQT2tyLVNWT25fQlJ1RzdOY0U5d3NQcGN4dUE5T2ltRUd1Ml9EMndnYWhCMm1mQ3pPeTM3R0o1VWJZaUNaWjdtd2RQWTVpb0I5WVRCdUpTd2ZFRUc4TG5BaWxvV3kxSG94YlFXZDE0WEZGWU10R2owUWRjcHAzQ3d5RzFpcDZRT1dzSW9kemtVNlE?oc=5)
+
+2026-03-18 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Giessener Anzeiger](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXJ1NmxVYXF1RUhWUnZSVmJmbmRVNHYxeEJQTGF5RUJmYWd5R2xvbGZSV2x1LTZfWVVmaTl4ZWNtTzdDZFRmZzRGNnJfMENINEh3TVhQT2tyLVNWT25fQlJ1RzdOY0U5d3NQcGN4dUE5T2ltRUd1Ml9EMndnYWhCMm1mQ3pPeTM3R0o1VWJZaUNaWjdtd2RQWTVpb0I5WVRCdUpTd2ZFRUc4TG5BaWxvV3kxSG94YlFXZDE0WEZGWU10R2owUWRjcHAzQ3d5RzFpcDZRT1dzSW9kemtVNlE?oc=5)
+
+---
 
 ### [Ictus, la durata della siesta pomeridiana rivela la percentuale di rischio: ecco tutti i campanelli d'allarme - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN0gGwAUFVX3lxTE9WMmlGUDFjYlhiLUN5Z3FzVzJUc1lKck1taVFmLVd4T1pzTjNWNGtZdUxtWlNRLV9ORFd6anVnTjNCWGZFcVZhUGdOdEQzeC1GZjZ1ODdVVGxlLUZTNmRtNW92ZjZaRzFzNVNQeHh4MWN2V0tDTmJ2dXBDYkxOS0QyYUdhUUI1WG1DdDN5N2JnTXhod0ttV3FEdUFOVVBDdWNSeG1tNzNqcnFRT29RRkdr?oc=5)
 
@@ -50,19 +66,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+### [Samsung destaca la detección de la apnea del sueño en el Día Mundial del Sueño 2026 - Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
 
-2026-03-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+來源：[Agencia de noticias La Octava](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTdtU0ZfMEFVSTVCSUtkQy1vUzNrUFVhUUhtS2JzYm5UM21pRzROME9pUVkxZ3RFZ0t5RDlReGh6TkFLWi1CLUtTV2JfN3U3OC11c2k0bEhwaHFBb0xZZmtUUVpDS1NDaHBuYVRpWF9pdktaWjBsQzlMSVgyQXhkSzVIdmFTc0Z0OUp6NHZWZlFub29PSmR3WkYwTll0OVhkT09ENlpOaG5mSnR4SjFkYjBqUTlEZ00waEHSAboBQVVfeXFMTVk3bVNGXzBBVUk1QklLZEMtb1Mza1BVYVFIbUtic2JuVDNtaUc0TjBPaVFZMWd0RWdLeUQ5UXhoek5BS1otQi1LU1diXzd1NzgtdXNpNGxIcGhxQW9MWWZrVFFaQ0tTQ2hwbmFUaVhfaXZLWlowbEM5TElYMkF4ZEs1SHZhU3NGdDlKejR2VmZRbm9vT0pkd1pGME5ZdDlYZE9PRDZaTmhuZkp0eEoxZGIwalE5RGdNMGhB?oc=5)
 
 ---
 
-### [«Ictus e infarto, le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
-2026-03-17 <span class="news-indication-tag">ictus</span>
+2026-03-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 ---
 
@@ -71,6 +87,14 @@ permalink: /news/telmisartan/
 2026-03-17 <span class="news-indication-tag">hipertensión</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWdTa0c0V1g4eVRSZ2w4V2EtQU9yREVycDVNM0hjLTYtSk9mWWZKOU5iNHUzUXM1ZEZPSFJMSl84Tmw4Vm9OX2E1dEN6blBzdW9jX2hzMm1Fal9QSUl4OGcwbHhYWWtnWll6SmNKdU5KTk1JM2h4dTVtaHlMdVNEU1dxQTFlaVVJS1FmVXVNcl9BZVRBMzFxd2tlQTFXVEQ4MFA4V2o2Vy1ZMkh2Y05LbXd4b29zUUZaYmNUc2tTVW15QdIBvAFBVV95cUxNTTRJV1Nlb0hNRk16NjRoOWRKR2Q2M1RWQTRKMTQwMGxGT0RnY0lWWjN1cm8tbmtDLVB2OWJqbV9BMzFGamVmX3JUZWpLX0dwRDdKY1Vaby1EWE9tSkJoV2g2RWo2YTdySkNENWZueXdacGxYVGoxRmtENGZfVWxIckJ3NkJDbi1Ma1Vlb3NYdkRyekJLNkJNaEZUQjI4VWl5b2JJVmU2dnMzZERFb0xzTEFhaTI4dHZacnI4bA?oc=5)
+
+---
+
+### [«Le 7 cose da non fare dopo le 8 di sera per ridurre il rischio infarto», i consigli del cardiologo - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
+
+2026-03-17 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
 
 ---
 
@@ -95,6 +119,14 @@ permalink: /news/telmisartan/
 2026-03-16 <span class="news-indication-tag">CVA</span>
 
 來源：[Canal 4 Tenerife](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2d1SUg1bkR3ZDNVbS11VWY4Y0oyZTU1QXFzd1VjbDNfOFFleS10N0U4TzVZWXRzVWR3NjBQX2dLZDNPOGRwWE5ocTZoMk1McE1GMVlNRFpmNjZYTV95QldBZjVNeDh5cFFsLVpuYmJ0TEJ0WWpOb3FvN0p3cmhwVFpiM3J5NUVzVFZSTGtKeS0yUko2dTloRUpYdw?oc=5)
+
+---
+
+### [«Un calice di vino riduce il rischio di ictus e infarti». Il nuovo studio spagnolo sulla dieta mediterranea - Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm9JOFNWcmItcy1EWUJ2Z1F2Q19kVlRoWHJOVl9OOTNzWmtaaGV4YnFzSWRicDJBeFpHT2xQR0Q4aWNRbmlQS0QxX3daY1lMUUhybmNZeTUtV3g0SnJoa0tnRVNMLV8xQVd5OEd0X3FhdFhtNzdCN29mdEplV1gyd1RQamhDQkJ1RGFFZ3d3TFZwSkXSAZABQVVfeXFMUGxrRDJjcFJGQXoyLVVhQWU4WWcyZVVWTmhiV0VFeWhNUEpSaDRxcVFTN2MzeFd1MlVoRVhLNVowMnB4VWlkSWQ5NnJGQ1BIRERlc1Z5bnVUbXpQazVtak1tQ21fOEktcUF4VU1ONFV6RFVzU1M2MTlZR2FUcGo0UDBGUHAzSWxFdEZmRHd0TVhh?oc=5)
+
+2026-03-11 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm9JOFNWcmItcy1EWUJ2Z1F2Q19kVlRoWHJOVl9OOTNzWmtaaGV4YnFzSWRicDJBeFpHT2xQR0Q4aWNRbmlQS0QxX3daY1lMUUhybmNZeTUtV3g0SnJoa0tnRVNMLV8xQVd5OEd0X3FhdFhtNzdCN29mdEplV1gyd1RQamhDQkJ1RGFFZ3d3TFZwSkXSAZABQVVfeXFMUGxrRDJjcFJGQXoyLVVhQWU4WWcyZVVWTmhiV0VFeWhNUEpSaDRxcVFTN2MzeFd1MlVoRVhLNVowMnB4VWlkSWQ5NnJGQ1BIRERlc1Z5bnVUbXpQazVtak1tQ21fOEktcUF4VU1ONFV6RFVzU1M2MTlZR2FUcGo0UDBGUHAzSWxFdEZmRHd0TVhh?oc=5)
 
 ---
 

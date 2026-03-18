@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Heute live um 20 Uhr: Webinar zur Entstigmatisierung von Adipositas - PTA IN LOVE](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjlqN0JaQ1E4N0Y2eGoxSUQ3SXd2RmRJQzJiZkZkUnZzSFpPS2d3LWNSS2E0Vl9PTjdseUxqSlZvSklmQk5jR1pBakRoVFhzdlAwdkZiWGd3VmVPMFA2dlVsUi0zWmMxcFRwcXlDN3oxeVB5eFFuSnNpLWZ3bzJqNkJRMEdYZUU0cmhTV2VNU19IUVNSd0RINndR?oc=5)
+
+2026-03-18 <span class="news-indication-tag">Adipositas</span>
+
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjlqN0JaQ1E4N0Y2eGoxSUQ3SXd2RmRJQzJiZkZkUnZzSFpPS2d3LWNSS2E0Vl9PTjdseUxqSlZvSklmQk5jR1pBakRoVFhzdlAwdkZiWGd3VmVPMFA2dlVsUi0zWmMxcFRwcXlDN3oxeVB5eFFuSnNpLWZ3bzJqNkJRMEdYZUU0cmhTV2VNU19IUVNSd0RINndR?oc=5)
+
+---
+
+### ["Non, ce n’est pas 8 heures" : selon une étude, voici la durée de sommeil idéale pour réguler la glycémie - Biba Magazine](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZm9fSEhuZV82X0V1Z0RGUUF3LVdGckhtRGxvYzM0c2xyUmJsNnlWbjQzdVJxdmlCUXJvM0J1RXlIVjJCaS0zUzV0azlJVFBoU0VnX2xqNjJrRVNUSmZoNFlISkhXUnlxWHB1SmM3QjBpdnJvRW92VFQ5M09YNjJDMkdLbGpGMHRTOGsybzdiWnYzc0hDX29OZnFMc3MwM0tWcC1zVkdpd1NmdlVSSzh1NFVKTGdQanZoMERQd084NG1tblN5STFTN3U4SEFKUU14RHp2WE9qU0ZVclpYWDRla1RlUVU3NXJlN3c?oc=5)
+
+2026-03-18 <span class="news-indication-tag">obésité</span>
+
+來源：[Biba Magazine](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZm9fSEhuZV82X0V1Z0RGUUF3LVdGckhtRGxvYzM0c2xyUmJsNnlWbjQzdVJxdmlCUXJvM0J1RXlIVjJCaS0zUzV0azlJVFBoU0VnX2xqNjJrRVNUSmZoNFlISkhXUnlxWHB1SmM3QjBpdnJvRW92VFQ5M09YNjJDMkdLbGpGMHRTOGsybzdiWnYzc0hDX29OZnFMc3MwM0tWcC1zVkdpd1NmdlVSSzh1NFVKTGdQanZoMERQd084NG1tblN5STFTN3U4SEFKUU14RHp2WE9qU0ZVclpYWDRla1RlUVU3NXJlN3c?oc=5)
+
+---
 
 ### [Trabajar más de 55 horas a la semana, junto a una mala alimentación, eleva la tasa de obesidad hasta un 61% - IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVRwcnllbGxMUXpLb1hYbkFyaHlTWVJ4WlBBMFozVVZDUmJvUXg5Tm04UVJGSE85c18xaTZkSnhoeTF1ejBTcWtUX2xOWGRYb3FZTVlKQkJKVm9kcDFzc3BzN1pNeGhZSUYwdVloUjdLdkhDYmVLY1IxcDZyZkNITmR1M2xLNEsxSG1UYnExMnJlMEZvOFBxNkY3ZGxyaVJSeXBpclh1LWtreG5PWmRXUmhn0gGsAUFVX3lxTE4yRWpOTUM2VEFZUnRCUmJNS2NEVHNqLXlZSmwwWXBBd280aTlIVE52aUVYWHoySWZhMWt4V0xDM2dTVkh6UGxicVlVUGxMUlo4ZEg3X01wRjZFdEN6OVM0dmdTdEx6Z3R6WmJUMlJzSFVMWGZfanFVeUNISVFXcGctSjRnZkJ5RnZMeVQ5WVNFZXhmM0VvbVFxdlRMakdjVElEOHcyQk9IbW5hQUs?oc=5)
 
