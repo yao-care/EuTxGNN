@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+### [EULAR lidera un consenso sobre el manejo de la artritis reumatoide basado en la evidencia disponible sobre eficacia seguridad y coste - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
 
-2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">artritis</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
+
+---
+
+### [Cambios en los patrones de respiración pueden desencadenar hipertensión - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWdTa0c0V1g4eVRSZ2w4V2EtQU9yREVycDVNM0hjLTYtSk9mWWZKOU5iNHUzUXM1ZEZPSFJMSl84Tmw4Vm9OX2E1dEN6blBzdW9jX2hzMm1Fal9QSUl4OGcwbHhYWWtnWll6SmNKdU5KTk1JM2h4dTVtaHlMdVNEU1dxQTFlaVVJS1FmVXVNcl9BZVRBMzFxd2tlQTFXVEQ4MFA4V2o2Vy1ZMkh2Y05LbXd4b29zUUZaYmNUc2tTVW15QdIBvAFBVV95cUxNTTRJV1Nlb0hNRk16NjRoOWRKR2Q2M1RWQTRKMTQwMGxGT0RnY0lWWjN1cm8tbmtDLVB2OWJqbV9BMzFGamVmX3JUZWpLX0dwRDdKY1Vaby1EWE9tSkJoV2g2RWo2YTdySkNENWZueXdacGxYVGoxRmtENGZfVWxIckJ3NkJDbi1Ma1Vlb3NYdkRyekJLNkJNaEZUQjI4VWl5b2JJVmU2dnMzZERFb0xzTEFhaTI4dHZacnI4bA?oc=5)
+
+2026-03-17 <span class="news-indication-tag">hipertensión</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWdTa0c0V1g4eVRSZ2w4V2EtQU9yREVycDVNM0hjLTYtSk9mWWZKOU5iNHUzUXM1ZEZPSFJMSl84Tmw4Vm9OX2E1dEN6blBzdW9jX2hzMm1Fal9QSUl4OGcwbHhYWWtnWll6SmNKdU5KTk1JM2h4dTVtaHlMdVNEU1dxQTFlaVVJS1FmVXVNcl9BZVRBMzFxd2tlQTFXVEQ4MFA4V2o2Vy1ZMkh2Y05LbXd4b29zUUZaYmNUc2tTVW15QdIBvAFBVV95cUxNTTRJV1Nlb0hNRk16NjRoOWRKR2Q2M1RWQTRKMTQwMGxGT0RnY0lWWjN1cm8tbmtDLVB2OWJqbV9BMzFGamVmX3JUZWpLX0dwRDdKY1Vaby1EWE9tSkJoV2g2RWo2YTdySkNENWZueXdacGxYVGoxRmtENGZfVWxIckJ3NkJDbi1Ma1Vlb3NYdkRyekJLNkJNaEZUQjI4VWl5b2JJVmU2dnMzZERFb0xzTEFhaTI4dHZacnI4bA?oc=5)
 
 ---
 

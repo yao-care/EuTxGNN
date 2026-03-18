@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
-2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+---
+
+### [Dementia patients routinely restrained and sedated in NHS hospitals that treat them like prisoners, report reveals - Daily Mail](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcjNBNHVIUGctS0NyUnowRjNTMlFHYlFnQnp4YTdLUlRGWm1kbUhEVVJvNXlkZ0VvSjMzNGVaUHlWVTdwaDhuTUtXVVZuajVLczVsYXZsWWExdzZEaTBzdUxSek9WWkJ1WkIxUUlaZ0plY2daLXhneFUyOVdNZlVOa3JqRDFFYl84elRxTW1PelY3SlFaU2FQY2thbHpValI5WnpSVGc0bl9YeF84TjVTZWMwMmt6akNGeERHd014SXJqTmtGa3p4Rkd2MzVYR0dzQlZZMG01NS03ZGFwMU44UFVGWC1nRTNK0gHuAUFVX3lxTE1RdjRlZmRrUVZ2cHlYalNMeFRuWm9IRzQ2QWcwSmI1VDNEOGlxRDZPNGN6cXZnLUFXSVlfLW5WaEVvbmpyZExpNDQtcTV0dXJWZGIxUzZsc3RJM1BSWTVsMW55UjJDLTVoQTBCYm5nYnZmUEUza0QtY0lWVTdlMVJkRUdmUHR1UFlrdW1idV9wV3ZMeHdpNHJUbmFfMHIzU3hjYnktcVBMOXdFUk5VdDY0eHk2V2JjaVdIYmNxV1QzVVZuR3N3Zkp3UXk3a2E4TkYxcWlzU1BuT29UUjY2Z1NsNTAxNlRkd1JMdTVlYmc?oc=5)
+
+2026-03-16 <span class="news-indication-tag">dementia</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcjNBNHVIUGctS0NyUnowRjNTMlFHYlFnQnp4YTdLUlRGWm1kbUhEVVJvNXlkZ0VvSjMzNGVaUHlWVTdwaDhuTUtXVVZuajVLczVsYXZsWWExdzZEaTBzdUxSek9WWkJ1WkIxUUlaZ0plY2daLXhneFUyOVdNZlVOa3JqRDFFYl84elRxTW1PelY3SlFaU2FQY2thbHpValI5WnpSVGc0bl9YeF84TjVTZWMwMmt6akNGeERHd014SXJqTmtGa3p4Rkd2MzVYR0dzQlZZMG01NS03ZGFwMU44UFVGWC1nRTNK0gHuAUFVX3lxTE1RdjRlZmRrUVZ2cHlYalNMeFRuWm9IRzQ2QWcwSmI1VDNEOGlxRDZPNGN6cXZnLUFXSVlfLW5WaEVvbmpyZExpNDQtcTV0dXJWZGIxUzZsc3RJM1BSWTVsMW55UjJDLTVoQTBCYm5nYnZmUEUza0QtY0lWVTdlMVJkRUdmUHR1UFlrdW1idV9wV3ZMeHdpNHJUbmFfMHIzU3hjYnktcVBMOXdFUk5VdDY0eHk2V2JjaVdIYmNxV1QzVVZuR3N3Zkp3UXk3a2E4TkYxcWlzU1BuT29UUjY2Z1NsNTAxNlRkd1JMdTVlYmc?oc=5)
 
 ---
 
@@ -55,22 +63,6 @@ permalink: /news/rasagiline/
 2026-03-16 <span class="news-drug-tag">Levodopa</span> <span class="news-indication-tag">Parkinson's</span>
 
 來源：[Phys.org](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QM2JTYWVUU21ISEpvcmhhYWt4MGE0M0xsZjRuNk4xT3FXMWZjSWJRb0dlckxIdkFleEkxdHY4SUE3RzFNX3hIVDBEaEI0endQYVNSMVAxOW5yT2FabmZOcURuSUlvZk9fZHhrVHVuMGFSaHBNaU95MFJMT3BxcWs?oc=5)
-
----
-
-### [Major Parkinson's Study Reveals Symptom Differences in Men And Women](https://news.google.com/rss/articles/CBMinAFBVV95cUxOblo5WGxXV1RwVV9VTEUydVVtaXZkQVlfTnFESVdoaUJuaFU2aUdKOW1heFdnXzlOQU15WEVEX1lqLUQ5MmtpZ0tmX0Q0RnVsd2RaVkJIQmhWTUg4XzhDTW5IbGk1VlZpYzZnb0F0SlZPUDZzVmRWNFYyY2NtWlJKcnZ4QlAtQ1A4NHhkRWdIY2JLSEQ1Y0cyRzBhdGM?oc=5)
-
-2026-03-16 <span class="news-indication-tag">Parkinson's</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxOblo5WGxXV1RwVV9VTEUydVVtaXZkQVlfTnFESVdoaUJuaFU2aUdKOW1heFdnXzlOQU15WEVEX1lqLUQ5MmtpZ0tmX0Q0RnVsd2RaVkJIQmhWTUg4XzhDTW5IbGk1VlZpYzZnb0F0SlZPUDZzVmRWNFYyY2NtWlJKcnZ4QlAtQ1A4NHhkRWdIY2JLSEQ1Y0cyRzBhdGM?oc=5)
-
----
-
-### [‘NHS hospital secretly sedated me and wouldn't let me leave my bed for a week’ - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJaVE14SzdWYTZOdGZubjNPb0daV2VnalQ0SEk0eFRNdTNZYURnU2hlT1JkTjg4cHJzNGRzVU53N0E5eURBOWhTRUMwWEhYQW1YdXhxRi1xV2xITjBFUUN1NHlibkkyeG03QXp2Ui11MEwzVUdneEtqT1dsNmNPb1RFeUNIY0lWYV9n0gGQAUFVX3lxTE9fdFRkV3hxM0NjMFRUUWs3dW1nOVZiaW13bFRjUWJkcWlBWWRHR29uYjZ1TXJNWWYzVmhnd29yQ2kzSHVoOG8xRjR1RFR0cGRoaWF6b2poSXA3UmtqaXNwZmVBd1FIbzI2azRLbU9jVnBWQTkxUDl1cGQ0YmlJUDd6RjRrdVBtX2xReXpSc18wSA?oc=5)
-
-2026-03-15 <span class="news-indication-tag">dementia</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJaVE14SzdWYTZOdGZubjNPb0daV2VnalQ0SEk0eFRNdTNZYURnU2hlT1JkTjg4cHJzNGRzVU53N0E5eURBOWhTRUMwWEhYQW1YdXhxRi1xV2xITjBFUUN1NHlibkkyeG03QXp2Ui11MEwzVUdneEtqT1dsNmNPb1RFeUNIY0lWYV9n0gGQAUFVX3lxTE9fdFRkV3hxM0NjMFRUUWs3dW1nOVZiaW13bFRjUWJkcWlBWWRHR29uYjZ1TXJNWWYzVmhnd29yQ2kzSHVoOG8xRjR1RFR0cGRoaWF6b2poSXA3UmtqaXNwZmVBd1FIbzI2azRLbU9jVnBWQTkxUDl1cGQ0YmlJUDd6RjRrdVBtX2xReXpSc18wSA?oc=5)
 
 ---
 

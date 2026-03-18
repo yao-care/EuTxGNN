@@ -42,11 +42,11 @@ permalink: /news/abemaciclib/
 
 ## 相關新聞（2 則）
 
-### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+### [EULAR lidera un consenso sobre el manejo de la artritis reumatoide basado en la evidencia disponible sobre eficacia seguridad y coste - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
 
-2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">artritis</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
 
 ---
 

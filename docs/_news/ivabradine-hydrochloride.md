@@ -14,7 +14,7 @@ permalink: /news/ivabradine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ivabradine Hydrochloride 有什麼相關新聞？">
-<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,37 @@ permalink: /news/ivabradine-hydrochloride/
 <p><a href="{{ '/drugs/ivabradine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
-
-### [La apnea obstructiva del sueño eleva el riesgo de cáncer, su agresividad y la mortalidad vinculada](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTRmY2xtbG1wT2g4cWhGUGJOWnhSdm5lWm45UnhkZFRWM1pRczNLa0ZrcUc4T2VuOTJ4UWZxRkVyZGREZ2V2R2ZNaWNsYjJZMmhIajdpRW50bnFJbjBHS21iZnkzMEE4dlpQc285TzIzdXdHaDZ1dl80LWJaSmpNXzBBOUZKU0hFTkdpNFBYX3p1TkRkcDE2OFVheGZCTjZJbHROMGdIZHFLRFgwUlRpU2haQmNKb2JVbVlPRnIwLUJia1NtRTdHTzlfQdIB0AFBVV95cUxQSXNIMzdOdGttNjRHZXdKVVNjMTdudFF5cVU1bEpZUl94Uk03U1NJamxHeXFpR3BTU3h0RkFDN3dBUGwxMno2ejhnamlIRG5UWFgtbklZTVdlOWJDTlpZUEFac0tJOGVEaUdpZmJJSGFYUjJoZF96LXFWMUE3RmVydnNZTHlvS0p5aEVVWV8tRVRIQTQ2alhkcjJtaDhoLXA0TGlRdGUwSldMWEFSdW9sUjlTdm9OeDZKUXB4UlZSVGw4TUxabTVDdnBvcktCREYt?oc=5)
-
-2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[democrata.es](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTRmY2xtbG1wT2g4cWhGUGJOWnhSdm5lWm45UnhkZFRWM1pRczNLa0ZrcUc4T2VuOTJ4UWZxRkVyZGREZ2V2R2ZNaWNsYjJZMmhIajdpRW50bnFJbjBHS21iZnkzMEE4dlpQc285TzIzdXdHaDZ1dl80LWJaSmpNXzBBOUZKU0hFTkdpNFBYX3p1TkRkcDE2OFVheGZCTjZJbHROMGdIZHFLRFgwUlRpU2haQmNKb2JVbVlPRnIwLUJia1NtRTdHTzlfQdIB0AFBVV95cUxQSXNIMzdOdGttNjRHZXdKVVNjMTdudFF5cVU1bEpZUl94Uk03U1NJamxHeXFpR3BTU3h0RkFDN3dBUGwxMno2ejhnamlIRG5UWFgtbklZTVdlOWJDTlpZUEFac0tJOGVEaUdpZmJJSGFYUjJoZF96LXFWMUE3RmVydnNZTHlvS0p5aEVVWV8tRVRIQTQ2alhkcjJtaDhoLXA0TGlRdGUwSldMWEFSdW9sUjlTdm9OeDZKUXB4UlZSVGw4TUxabTVDdnBvcktCREYt?oc=5)
-
----
+## 相關新聞（29 則）
 
 ### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
-2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+
+---
+
+### [Cytokinetics Aktie: Wissenschaftlicher Prüfstand](https://news.google.com/rss/articles/CBMijgFBVV95cUxPazZNRTdYRHVoUjZoN25OUTVVTXNJZVRuc3dhQlp0djV4WWRPMHRLNEtpbUlfT01hRGtXaTZSbnBYUnV4QXIxOUZtMnp6b183X2RWSURUMWQ4RUtibmRWcTZRWHJmUXl6TzRZSGUwSzVYSE85RF9tZjFpTVg3czlzNF96OVZveTZmX19ZV2JB?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[kapitalmarktexperten.de](https://news.google.com/rss/articles/CBMijgFBVV95cUxPazZNRTdYRHVoUjZoN25OUTVVTXNJZVRuc3dhQlp0djV4WWRPMHRLNEtpbUlfT01hRGtXaTZSbnBYUnV4QXIxOUZtMnp6b183X2RWSURUMWQ4RUtibmRWcTZRWHJmUXl6TzRZSGUwSzVYSE85RF9tZjFpTVg3czlzNF96OVZveTZmX19ZV2JB?oc=5)
+
+---
+
+### [Impfen in der Schwangerschaft: Was ist nötig, was ist möglich – und was nicht? - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMilwFBVV95cUxORDgzQThhbHlNbUxEalJrX2w1bElRU2hBTlVnOElrdWdLSzlOeDR3WGt4UHB1dGdyR29jZ013UXlCUFllUTloUWdkOUtQUW9RUVp5aE0xS3A1RW11b1FuRHJ6ZHVNQnhjOWQ0LV9XQzlyUEdoUmdtMXNla0thMjYySlFubjBQeW93UzFkOV9lckZoYWtERmp3?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMilwFBVV95cUxORDgzQThhbHlNbUxEalJrX2w1bElRU2hBTlVnOElrdWdLSzlOeDR3WGt4UHB1dGdyR29jZ013UXlCUFllUTloUWdkOUtQUW9RUVp5aE0xS3A1RW11b1FuRHJ6ZHVNQnhjOWQ0LV9XQzlyUEdoUmdtMXNla0thMjYySlFubjBQeW93UzFkOV9lckZoYWtERmp3?oc=5)
+
+---
+
+### [Cambios en los patrones de respiración pueden desencadenar hipertensión - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWdTa0c0V1g4eVRSZ2w4V2EtQU9yREVycDVNM0hjLTYtSk9mWWZKOU5iNHUzUXM1ZEZPSFJMSl84Tmw4Vm9OX2E1dEN6blBzdW9jX2hzMm1Fal9QSUl4OGcwbHhYWWtnWll6SmNKdU5KTk1JM2h4dTVtaHlMdVNEU1dxQTFlaVVJS1FmVXVNcl9BZVRBMzFxd2tlQTFXVEQ4MFA4V2o2Vy1ZMkh2Y05LbXd4b29zUUZaYmNUc2tTVW15QdIBvAFBVV95cUxNTTRJV1Nlb0hNRk16NjRoOWRKR2Q2M1RWQTRKMTQwMGxGT0RnY0lWWjN1cm8tbmtDLVB2OWJqbV9BMzFGamVmX3JUZWpLX0dwRDdKY1Vaby1EWE9tSkJoV2g2RWo2YTdySkNENWZueXdacGxYVGoxRmtENGZfVWxIckJ3NkJDbi1Ma1Vlb3NYdkRyekJLNkJNaEZUQjI4VWl5b2JJVmU2dnMzZERFb0xzTEFhaTI4dHZacnI4bA?oc=5)
+
+2026-03-17 <span class="news-indication-tag">hipertensión</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWdTa0c0V1g4eVRSZ2w4V2EtQU9yREVycDVNM0hjLTYtSk9mWWZKOU5iNHUzUXM1ZEZPSFJMSl84Tmw4Vm9OX2E1dEN6blBzdW9jX2hzMm1Fal9QSUl4OGcwbHhYWWtnWll6SmNKdU5KTk1JM2h4dTVtaHlMdVNEU1dxQTFlaVVJS1FmVXVNcl9BZVRBMzFxd2tlQTFXVEQ4MFA4V2o2Vy1ZMkh2Y05LbXd4b29zUUZaYmNUc2tTVW15QdIBvAFBVV95cUxNTTRJV1Nlb0hNRk16NjRoOWRKR2Q2M1RWQTRKMTQwMGxGT0RnY0lWWjN1cm8tbmtDLVB2OWJqbV9BMzFGamVmX3JUZWpLX0dwRDdKY1Vaby1EWE9tSkJoV2g2RWo2YTdySkNENWZueXdacGxYVGoxRmtENGZfVWxIckJ3NkJDbi1Ma1Vlb3NYdkRyekJLNkJNaEZUQjI4VWl5b2JJVmU2dnMzZERFb0xzTEFhaTI4dHZacnI4bA?oc=5)
 
 ---
 
@@ -66,6 +82,14 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
+### [Tre nuovi neurologi al Parini, rafforzata l’assistenza ai pazienti - AostaSera -](https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWNNeHZRRXpkcWYwUThnTlY0bGhPNXFkYk9wU1cxWDNoTTVrUC1VZW1lUHhtZWtmNFd0dWZ2eGE0NXVVRnRKUHV2cFgtcEVEZlh2WXV4Ml9mSlU3R0hzUHFldmVfdzdFa1dKRHRGdzc0ZE1MTUZtN0pzODlfcFNZaW05UDlldC1XeDRsclgxSkNhQ0lvTm9BQ2g2aE1QbVZGRzh3WFdENjZzX084UkE?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[AostaSera -](https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWNNeHZRRXpkcWYwUThnTlY0bGhPNXFkYk9wU1cxWDNoTTVrUC1VZW1lUHhtZWtmNFd0dWZ2eGE0NXVVRnRKUHV2cFgtcEVEZlh2WXV4Ml9mSlU3R0hzUHFldmVfdzdFa1dKRHRGdzc0ZE1MTUZtN0pzODlfcFNZaW05UDlldC1XeDRsclgxSkNhQ0lvTm9BQ2g2aE1QbVZGRzh3WFdENjZzX084UkE?oc=5)
+
+---
+
 ### [FAU Erlangen-Nürnberg: Extrem tiefgekühlte Hirnregion kann nach Auftauen wieder elektrische Lernreize verarbeiten - Der Neue Wiesentbote](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY3hfVnRQNVF4OGhzU3plcHFqTzBHWWFoNjh5dExDajdvazVkbUc0QjBGc3AxdF85cndEOXQ3NW5ISEFMRkVHVzBvLTJrRmNJd2FwcndScTFrdWZhb01fS0RDSXhpWlNMZXRXcmZuVjc5U2tZRnVaRjBrZDdTMUYxbHR3TmJwSk4wU2F5N3JHbjh5NG01ZzJDWEFJOVFsay1uWkxXMEJRTEktTXlnYWNadjluV2hsVU9mOGRLRVZMVnRrQV92dVoxMTAxWUNHcy03WFBLa3R5QVNoc3Y1YUQ5VjhMT25FM1Rp?oc=5)
 
 2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -74,11 +98,19 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Kaffee bloß nicht mit Milch trinken](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGhJdEhuZTZuX0pUUVpDTXpMS19XZWtkOHdScGNJN0R0SHZwczVDSzViY1RjX1h3NDNSNkhFT3VtZkJzQXJFT3Vxb1V5dS15d0ZtOVdsODY1cWNNMUhvSG5lZEpqOFB6T2JjQWdyeXI3M01XOWR5QlZLWEUtaldVQmpfc3ZFbUV5LTFjeVRLc1YydzBiOURTQWxvelR3TEdUMWFOVTVXc1hqdENCeFhFVFI2NVVQQkxBM2VOUEZVUWJnblBfZkM4TVNWMDRMc1A5OW1TSHFpN1lONnBjWWc?oc=5)
+### [Getafe pone en marcha un programa de detección precoz de VIH y otras ITS - Ayuntamiento de Getafe](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZS11b3VVb01LbnhzaUl2VWd5MWVCRlBJR3VJQkFDTnd4TXFiYjVjUzNHckwwMjluTnM3bjdDdHdnSFc3R0c5RVVDRnpDb2s3a0lMY1A3Ukc1Z2E2Y01rZ3JvTUhqOUlFekVyZTUySmxGQWdhcUpyQld4amFmWm1NQm9URXhLV0s5aV9oS3BHdUpYVnBZZkE?oc=5)
 
 2026-03-17 <span class="news-indication-tag">AF</span>
 
-來源：[Ruhr24](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUGhJdEhuZTZuX0pUUVpDTXpMS19XZWtkOHdScGNJN0R0SHZwczVDSzViY1RjX1h3NDNSNkhFT3VtZkJzQXJFT3Vxb1V5dS15d0ZtOVdsODY1cWNNMUhvSG5lZEpqOFB6T2JjQWdyeXI3M01XOWR5QlZLWEUtaldVQmpfc3ZFbUV5LTFjeVRLc1YydzBiOURTQWxvelR3TEdUMWFOVTVXc1hqdENCeFhFVFI2NVVQQkxBM2VOUEZVUWJnblBfZkM4TVNWMDRMc1A5OW1TSHFpN1lONnBjWWc?oc=5)
+來源：[Ayuntamiento de Getafe](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZS11b3VVb01LbnhzaUl2VWd5MWVCRlBJR3VJQkFDTnd4TXFiYjVjUzNHckwwMjluTnM3bjdDdHdnSFc3R0c5RVVDRnpDb2s3a0lMY1A3Ukc1Z2E2Y01rZ3JvTUhqOUlFekVyZTUySmxGQWdhcUpyQld4amFmWm1NQm9URXhLV0s5aV9oS3BHdUpYVnBZZkE?oc=5)
+
+---
+
+### [Inhalatives Medikament gegen Lungenfibrose - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MN3VXZklFbllCLUVfWWRCZVNYQ1c2OFlnbWF6MFhKZ3BTcnA3eHROWk1zQkdScHJfQnpFR2ZYZi13S2NjRThJZEdjYw?oc=5)
+
+2026-03-17 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MN3VXZklFbllCLUVfWWRCZVNYQ1c2OFlnbWF6MFhKZ3BTcnA3eHROWk1zQkdScHJfQnpFR2ZYZi13S2NjRThJZEdjYw?oc=5)
 
 ---
 
@@ -106,25 +138,17 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [La enfermedad renal crónica en España aumenta con más de 68.000 personas en tratamiento renal sustitutivo - Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
-
-2026-03-17 <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZBUzhMNEM4LWF5U2R3eXJvcF9MZlNzUWZ6Nlc4d2lsNThEZ0FpWUNqZjY5Ump0Yk9hVUc3QUVEb1hYd3BTdHdwbl8zZlp3U1VuWlZvbGVwM0hrYno1bTl6Mkc2RWdkWWdBNEZyV3NDRVRJMGdoSWZsSWVXUVFGcVlKclpnVERPeHBpaWpfb3RfOHVfM25uX1FZVU1BS254czRaNk53ZjfSAa4BQVVfeXFMTU05SXhvdjRwbmJGWVlYTjBWMF94Y3ZrMDRNV1EydmdQZFBoRHQwZl9MVEx0RkZWR2wyQl9fcGpxM3Q4ZXNOZVVXYlBzNU8wbU9Ld3RYRkc4R0NwQkFMTkJFRG0yUGVTd1c4LXBYVC1MQUlUcTVGTUJmR0RjQUw3QVZLT0s5UTZ0emlaMUVrcjBjN2U3VFE5SlpBV2xFcTFScERFSF9tWU03czQwMEZR?oc=5)
-
----
-
-### [Wie verbrennen wir Kalorien im Schlaf? - Schweizer Illustrierte](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzJhdDJHbnRrR09iT3lVLWRqVHRDYzdyT0ItdFNxaTV6R0NPWU93Y3ZEeXFUZ3phMTNjQW5yRDZxcjZ0N2xkZmw3WWVTbUNsbzRPNmpzTkpXU0pnSW1VSVBnVUV4VXdDVDdtS29Lei1Tc1VlTlZVblZiSjZadEtva1FpMjZiWnZsdEtnUnBaekVmYUlxTU1TamtMNGcwT3hl?oc=5)
+### [Brit mum, 33, fighting for her life in Tenerife after she's rushed to hospital from airport - Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxONFJrYklwOGhhZVBiRDM4LVNwdlhyWGVIYkFxaWc3b1Z5OS1NWHJya2t6ZUU0UUlaSlkyODFKbE5uZ2NYS014NThrTWZEbXU2THUwaVp3TDd4RlVIRlJmYjUtV2xtdzBlel9FVDAtd011UUV6NnJZWGhXZHViODlOYVBYMzNDeGRjMXlWVloxV0vSAZYBQVVfeXFMT2Znc3RCZUkzRTFEY0Z1WjlZZGdBY3JjWGxkOVFrUW1jWk9MamMyWEJpUVl4bW4zYkVqUDYtelRZYWVxUWRfank4ajY2RUJhMUtFaFRiTUlTVFQ4TlFOSTBiNjY2WXY0S091WkpPQVl0OUNCSnFrWWprQkdFWVlEMGdTeFBvRFF2dFhnOFZmdW54QXlMUnVB?oc=5)
 
 2026-03-17 <span class="news-indication-tag">AF</span>
 
-來源：[Schweizer Illustrierte](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzJhdDJHbnRrR09iT3lVLWRqVHRDYzdyT0ItdFNxaTV6R0NPWU93Y3ZEeXFUZ3phMTNjQW5yRDZxcjZ0N2xkZmw3WWVTbUNsbzRPNmpzTkpXU0pnSW1VSVBnVUV4VXdDVDdtS29Lei1Tc1VlTlZVblZiSjZadEtva1FpMjZiWnZsdEtnUnBaekVmYUlxTU1TamtMNGcwT3hl?oc=5)
+來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxONFJrYklwOGhhZVBiRDM4LVNwdlhyWGVIYkFxaWc3b1Z5OS1NWHJya2t6ZUU0UUlaSlkyODFKbE5uZ2NYS014NThrTWZEbXU2THUwaVp3TDd4RlVIRlJmYjUtV2xtdzBlel9FVDAtd011UUV6NnJZWGhXZHViODlOYVBYMzNDeGRjMXlWVloxV0vSAZYBQVVfeXFMT2Znc3RCZUkzRTFEY0Z1WjlZZGdBY3JjWGxkOVFrUW1jWk9MamMyWEJpUVl4bW4zYkVqUDYtelRZYWVxUWRfank4ajY2RUJhMUtFaFRiTUlTVFQ4TlFOSTBiNjY2WXY0S091WkpPQVl0OUNCSnFrWWprQkdFWVlEMGdTeFBvRFF2dFhnOFZmdW54QXlMUnVB?oc=5)
 
 ---
 
 ### [Una IA australiana predice el riesgo de cáncer de mama incluso tras mamografías normales](https://news.google.com/rss/articles/CBMic0FVX3lxTE1oelFPRlRSWnRtYUNPQTJLTXhHY0tMcS1QTlVxbjJpNTdXVnFZVzJKV2R2aFVSUmxvUHN3TkNfRGwxQS1welZmUkhzbU13N1pkNzFlT2tKRFJ1OGpNbi1KUXE2MGNrWHVrMHhpQjFrUk1sZkk?oc=5)
 
-2026-03-17 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[efeminista](https://news.google.com/rss/articles/CBMic0FVX3lxTE1oelFPRlRSWnRtYUNPQTJLTXhHY0tMcS1QTlVxbjJpNTdXVnFZVzJKV2R2aFVSUmxvUHN3TkNfRGwxQS1welZmUkhzbU13N1pkNzFlT2tKRFJ1OGpNbi1KUXE2MGNrWHVrMHhpQjFrUk1sZkk?oc=5)
 
@@ -162,14 +186,6 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [North Wales mum, 33, fighting for life after falling ill at holiday island airport - North Wales Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWh2ZTlNb21qMHJLdUNPeTU4Z1pXbGgwaVd5M2tGSWFzTEhVQUV4aHZadlpIM0dDWTlNYzNDelZTSFBObXItVGJFNzR3WEl3ZjFkZG5lanM1MDN5TnQ2TFZORUlkbFdQYW5oZ1pwNGRmQkt2aGFUemdpdzMyYjVuWjhFa0VORjBqQ0FaajBjOA?oc=5)
-
-2026-03-16 <span class="news-indication-tag">AF</span>
-
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWh2ZTlNb21qMHJLdUNPeTU4Z1pXbGgwaVd5M2tGSWFzTEhVQUV4aHZadlpIM0dDWTlNYzNDelZTSFBObXItVGJFNzR3WEl3ZjFkZG5lanM1MDN5TnQ2TFZORUlkbFdQYW5oZ1pwNGRmQkt2aGFUemdpdzMyYjVuWjhFa0VORjBqQ0FaajBjOA?oc=5)
-
----
-
 ### [Tesis doctoral concluye programas Rehabilitación Cardíaca mejoran calidad vida pacientes - Región Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1hhODlkM2dBUVp4dmdrRlRvNS1mdE1QQzlXR0lnd0FrOEZyVF9UNVdqYkdVM0VCX25wbWhCOVk0dmU0b0ExVlFkcWJCX2RsM283OTZ1T0I4Umg1TXFDalpVTGY5SWlYLTViT2t6aW8zNjgtRG5VQmlYUURpU0ltRldvY01oMVhzbk5UOWIyc0szVFFjRDBLdHlsM2x4U1hqaXpGbnhMY3lISEVMYXdoVE1ETE40ekFFb1pKVHFKTjBsQ2FEVUZkY3JiUWxLRzVlY3htZ2JUem9ac0ZjWUxxZ0Vn0gHnAUFVX3lxTE1XZTBNbldUbVVNampHV0hPREJQWnl3WnZfN0JGVmhRY0JaeXZma2Qza0ZubHF3RDJlVXpFVXo1Qk16VXhkVmRIYjVTN3BtUi1kelMyUTRFRS1XaURrbkVRRkhrdEVFNm1vT2o5dUVhNjltT1ozVVVuTU5hQkc5emNRVTRhSnVFTHVYeFRvc0E3N0FPdWxzTm9HMzdndHpGbXZnVlRGTGdwelQ2MTlVZm84bnZjZmlheDdjOHcxcEZlQTBIYXJPLXUwV3BVVTVPUkZEaHNqc2lSaE8tZWNmV255TjVxaGtSZw?oc=5)
 
 2026-03-16 <span class="news-indication-tag">cardiopatía</span>
@@ -202,14 +218,6 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Zucker treibt Zellen nicht nur energetisch an – Details zur Beweglichkeit von Körperzellen aufgedeckt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yR0o4Q0hsbDhqVEtTZWp2aTFMN1J3NVdjUlEteDNpN3BLUVZ4TTlqZzB1RFl3YTlSTUNNNkVydWZVeURvbzF0enp4Yw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yR0o4Q0hsbDhqVEtTZWp2aTFMN1J3NVdjUlEteDNpN3BLUVZ4TTlqZzB1RFl3YTlSTUNNNkVydWZVeURvbzF0enp4Yw?oc=5)
-
----
-
 ### [Could paraxanthine replace caffeine? What we know about the new stimulant appearing in coffee and energy drinks - The Conversation](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ1FnT1lSczNyVWdTTGIydVpsTkVYNC13Y0VEc1k2N1U4UGQyRXNhaWpJdkF6ZzZ4T2VIWW9KeEpuZFljdzJyZ2w2V0dMNWxrX1ZsRlJtNW8yQ3VjWnRMM05UM2ZnV21reTU0RldSNDQ2Wk0xd29LNG9mNU5QYVlBOTdDYUp4N2k4a0FTeXl6Z0RPdVcyX184YUxBbElfYzBjenlzek5rSUJvSUhWS3Ezc19vejJEYWlmVU9qWksyN18wNmdIU2wxU2s2cUZiNm5DZXA0NGM3X1RFTDhmclE?oc=5)
 
 2026-03-16 <span class="news-indication-tag">AF</span>
@@ -222,7 +230,7 @@ permalink: /news/ivabradine-hydrochloride/
 
 2026-03-16 <span class="news-indication-tag">AF</span>
 
-來源：[Pferde.de](https://news.google.com/rss/articles/CBMiekFVX3lxTFBjT3FXSVRUWGIzbjFtUXgxS1hkcWJqSk1CeXNhOEtoRW0wbVdaTkRETGw0dnpIQlJXYm1qOVBiRXNod0VqU1ZkYXpKX0QyWThjM2VFNF91MEZKUWVvQ0EzdmdvYXBDMmg1UTdrLWNGUHlkdk5hQ2hvUm9n?oc=5)
+來源：[pferde.de](https://news.google.com/rss/articles/CBMiekFVX3lxTFBjT3FXSVRUWGIzbjFtUXgxS1hkcWJqSk1CeXNhOEtoRW0wbVdaTkRETGw0dnpIQlJXYm1qOVBiRXNod0VqU1ZkYXpKX0QyWThjM2VFNF91MEZKUWVvQ0EzdmdvYXBDMmg1UTdrLWNGUHlkdk5hQ2hvUm9n?oc=5)
 
 ---
 
@@ -250,11 +258,11 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Worker gets 'gift of sight' after cornea donations](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxUHB3QV9LbVJsU2NhaWZseWZxUWRJSVFCMWlEeW91M3QtYXphWDU3ajBCbE9ta0JPY09oeHlTcTRiQWVHNjV4RTBPMl9oUVBONmlNVy1fcktEcG1B?oc=5)
+### [How a ‘vacuum cleaner turned the other way’ became a popular solution to snoring disorders - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmNwQ1BFYUhRc2EtU2kxdkx1eEdfbEhVZXhGNnNiTTV5UTBsMHYtNnVUeEg5TXJLSkZvbVo5Rk5rdUdqaFd5enNVdXJyU0pWZUZyNzNLd0FhTE5oRDNKRmszMTAtaEY4Z1lIeVNmZDNKZU04VEd1NHgwaE9tal8tTk9BNU8yUjV5eVJySkFrNG5aWjh6ZnlUOGtuZ0VpbHVnaFh0MzJVYXFWUWlCRndZWWl2RHF0SVMzWVJPTDRZNjBQcEM2YTlJZU1EbDVyNHRrZG9vYTYzaGQ?oc=5)
 
 2026-03-16 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxUHB3QV9LbVJsU2NhaWZseWZxUWRJSVFCMWlEeW91M3QtYXphWDU3ajBCbE9ta0JPY09oeHlTcTRiQWVHNjV4RTBPMl9oUVBONmlNVy1fcktEcG1B?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmNwQ1BFYUhRc2EtU2kxdkx1eEdfbEhVZXhGNnNiTTV5UTBsMHYtNnVUeEg5TXJLSkZvbVo5Rk5rdUdqaFd5enNVdXJyU0pWZUZyNzNLd0FhTE5oRDNKRmszMTAtaEY4Z1lIeVNmZDNKZU04VEd1NHgwaE9tal8tTk9BNU8yUjV5eVJySkFrNG5aWjh6ZnlUOGtuZ0VpbHVnaFh0MzJVYXFWUWlCRndZWWl2RHF0SVMzWVJPTDRZNjBQcEM2YTlJZU1EbDVyNHRrZG9vYTYzaGQ?oc=5)
 
 ---
 

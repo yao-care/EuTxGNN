@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [EULAR lidera un consenso sobre el manejo de la artritis reumatoide basado en la evidencia disponible sobre eficacia seguridad y coste - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
+
+2026-03-17 <span class="news-indication-tag">artritis</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
+
+---
 
 ### [Mayores y jóvenes presentan tasa similares de recurrencia quirúrgica por Enfermedad de Crohn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWHNDY0pnRUNJQnItYk1yQnNKZ3RpcjNlc2FHVXltMGVzWW1hVElkWmVwRG5kN2Y4V0lnbjJrYlJpN0I0NGFNa2p1RGYwakFPaHh0c0Q0ck1DQW54WGVWM2prcTFueHE2OUVBNTdBS1FFN1dSay01QkFPcEp5N3NYU001T2ZEc2gwLXhnSGZZRVBPNTFOU3JVWThpcWY5eUJkaEFqcHBDc3BEblIzT0Z3NElSdEFqMmQ2Z1Q5cGZZYzA?oc=5)
 

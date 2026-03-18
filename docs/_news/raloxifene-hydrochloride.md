@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,21 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
-2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 ---
 
-### [«Ictus e infarto, le le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza) - Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2fSAYcBQVVfeXFMTjdWUTlqbWR0MWFKdW1QYlFsYVJKcjExU3NRNkdKQjl6Y2t1bkpkcE5rWWF0RVMyOW1DSWxQa3JmZ19yUDhlMmkyTjJhVVJVZnlMNWdqVEp2M0ZENHdVN2pfVFp0cS0yNzRjX1c4UHI3a0JQOW1JWkFnTmxxT3UwWFRBY3dWUXNr?oc=5)
+### [«Ictus e infarto, le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
 
 2026-03-17 <span class="news-indication-tag">ictus</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2fSAYcBQVVfeXFMTjdWUTlqbWR0MWFKdW1QYlFsYVJKcjExU3NRNkdKQjl6Y2t1bkpkcE5rWWF0RVMyOW1DSWxQa3JmZ19yUDhlMmkyTjJhVVJVZnlMNWdqVEp2M0ZENHdVN2pfVFp0cS0yNzRjX1c4UHI3a0JQOW1JWkFnTmxxT3UwWFRBY3dWUXNr?oc=5)
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
 
 ---
 
@@ -63,14 +63,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-03-16 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">ictus</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUhMaTFCMV9lbnN6QTY3eWFvT0lGTW0zSnR0bXd4X0o5TjZPbmFSVldEQ21OZ0JyN1ZyVlBRZzBqZEFiXzhUWXNjc0VqWUxBQ2NjMmEyM1R1WXhhaUJncDliUHl4bUJGRU11Vlo2TVBBM2FLRjU0MnVwem9HX0NIclVIZXVtLVdraTRJMDBjVkdPS1JONGMxOHlFR2VPLU4tS0E4RGFQSlpabGNfczVHeDBjUXFuazJLOFZPQjJJRQ?oc=5)
-
----
-
-### [Cuore, pericolo infarto e ictus: uomini giovani a rischio di più e prima, le età critiche](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkdJU19wLW9QR2MxblUyb25nb04tQkE1VXV5Wld1NG1HSHF3bnlucFNWVGdkeDV1RUs3WWpqa3pMOWJEUmcwdGdJdENrQk9IdU5NVENnSVg2eURVR2lUdkRFR1dTOGt2dWZNTUNKU2wyVUw1NFM3U1Q1aGl2TnB1QWM3czJqaHg5MFM5ZXVNeEpiQTF3eWtrRmFRMzQ5OEhiLXc?oc=5)
-
-2026-03-15 <span class="news-indication-tag">ictus</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkdJU19wLW9QR2MxblUyb25nb04tQkE1VXV5Wld1NG1HSHF3bnlucFNWVGdkeDV1RUs3WWpqa3pMOWJEUmcwdGdJdENrQk9IdU5NVENnSVg2eURVR2lUdkRFR1dTOGt2dWZNTUNKU2wyVUw1NFM3U1Q1aGl2TnB1QWM3czJqaHg5MFM5ZXVNeEpiQTF3eWtrRmFRMzQ5OEhiLXc?oc=5)
 
 ---
 

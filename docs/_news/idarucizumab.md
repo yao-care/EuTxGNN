@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [EULAR lidera un consenso sobre el manejo de la artritis reumatoide basado en la evidencia disponible sobre eficacia seguridad y coste - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
+
+2026-03-17 <span class="news-indication-tag">artritis</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi02VC1PQnRkdTEzczVlNWdpOVFGaklpTmR4WnF3dGtfQ3lSWUFVcW03VGRaaF8yMTFjMzlEMXNzY19SOG5RaU9fMGZtOTJHV2dyN09hY0dmcHM2S1RyUEtwRHdEX2t4RDMwSWNYY3kwWmtXaU1FcDRrNDBuQkMtOVY0Y1JRalNocVFIYmQ4T0xUWFZrbDRtWUktQkx2Ym5NRDNMWXNlZkZTSDhNNEJreHFOemx0QjZHUFAzenJTcEdFeVk?oc=5)
+
+---
 
 ### [SEMI denuncia inequidad en la vacunación de adultos frente al VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdk5vTERYd0RGRVFwY05OMXRUNDlLSktIVWd0M3pldTlOR1FTbXhmZ0IwOXdwdzZhdWU3c1ZHSmtCTHcxNXlFb09uVHBpYU56RkdYbjR1YUtwVGNCV3NjTllNdGY1YkJ4M0swQ2hEVEhjcnpRaFAwdWNHeFZmd0IyQ2lBVkR3NEZlUlBhcXM2X3RQQ0hFdnBQTUp3YjZyUEdSWkpxbGtPbW5HUDFfMGx1dXdTa2ZVcjZ2WDh1bExPaFo2Tk9VeGp4RtIByAFBVV95cUxOSU1RdDVBblEtdXZmYW56TFd4eUpQaVluOWRRUDFOekU0TVdYOEhQYmpJRVFYdUhJdlpUX3MzNU8tQl9ETmMtMnVlNm85MXltbG1XRm1Dd1lVTUlVM2ZfcHRsaWFQbnUxenRnYjZlZjBobjd0MHhXWnRPQXp6RlpzR1pnRVZiRlpfUWczcHlUeTM3SERVUjlEdzRsMzNqVXNpbElvZFJfN05CbGJPZ29uZVYzY3ZrNm9pTlJMWktkNVdXZm5QelhIaw?oc=5)
 

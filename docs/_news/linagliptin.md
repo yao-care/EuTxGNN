@@ -14,7 +14,7 @@ permalink: /news/linagliptin/
 ---
 
 <p class="key-answer" data-question="Linagliptin 有什麼相關新聞？">
-<strong>Linagliptin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Linagliptin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ permalink: /news/linagliptin/
 <p><a href="{{ '/drugs/linagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [ATTD: de los datos de glucosa a los insights de IA -- una nueva dirección en el manejo de la diabetes - Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
+### [“Tecnología, detección precoz y terapias modificadoras pueden cambiar el curso de la diabetes tipo 1”](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1NybHNyT3p0QVNKR1JYSUVtZkJnRXU3MzFCUVQ5NVlMV0JWV1FXdkZXeW9PcnZTcHdhTTNsbHhPS1ExVzY0b2tTUXBtZHB5YTBOaGJTVDdSNzdPeWNTSVc3dzFRb2FJNlMxUTVBYTNmYTRZMm93aTlYMHNUbHpkOHE5bnhNUGgzRFRlRkNOU1BVeUJsbkQtVUszV0pRX1lkOGZmaEVDSVRGR2tmc1doOTJLeWlPSVdoNlU3MFVLZm5ERjZ4QlZtWUlIOE16cGpZNnJmNjNLQmdOQQ?oc=5)
 
 2026-03-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRy1fbkdlODI3Q0lSYUFsN3ZjOEpVOEdYWlNzUV81WnZHdjdpOHBCMDJ2S0k0VmFILVpVcGNrZWdEeWVIX1VmaWdlZ0xwS0VVYjFCUGNHMGItZjhCMWtqWWI0ZkM4LVFQcUVOX0E3NExsdnUyZEhEUldJV1JtVHFzUFZJQ1NQQ1ZmaWJ5c1JVVldKa05CdXVTSS1mVlRnS3NTQ0ZmUkJwbGxTNnNuS2JlQUdVOGlrTS1pemQ0NzEzU1ZnWmpFUkdCanRCMGRLU0xTRjd5cTZCZG9UMEdjODRTTFhoOE1aLW4zQzF1V1R5N1hWUQ?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1NybHNyT3p0QVNKR1JYSUVtZkJnRXU3MzFCUVQ5NVlMV0JWV1FXdkZXeW9PcnZTcHdhTTNsbHhPS1ExVzY0b2tTUXBtZHB5YTBOaGJTVDdSNzdPeWNTSVc3dzFRb2FJNlMxUTVBYTNmYTRZMm93aTlYMHNUbHpkOHE5bnhNUGgzRFRlRkNOU1BVeUJsbkQtVUszV0pRX1lkOGZmaEVDSVRGR2tmc1doOTJLeWlPSVdoNlU3MFVLZm5ERjZ4QlZtWUlIOE16cGpZNnJmNjNLQmdOQQ?oc=5)
 
 ---
 
@@ -71,14 +71,6 @@ permalink: /news/linagliptin/
 2026-03-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[diabetes-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTgwR3ZPYUttdnE0WUhHdkdHZEZsTDJ5UUZacTNqc19xb1ZNeWNiVVpLQlA1dXdJR2k2dkFDVzdxVW55YnhkeWRUalFzQ21yUTV6N3FmVnhZX0YwTFg2Yk9sQjJpZjFPd1NIRkVnclRMblVtdF9ud2FsT3NXTWpLZlp0NVgtS3FZN1RFdS1DOTJ5VmJJR0JnNHpiZlpfTDVjN1Jlek85bWpCZVZmTWpINTc4cGVtUWQzZXAtUk9xSHQ0UQ?oc=5)
-
----
-
-### [Kostenlose Experten-Webinare zu Parodontitis und Diabetes am 8. und 29. April 2026 - ZWP online](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbUljYkEtZmVOeEFCMUhzS0ZjOVpHQXF4al9iQU0xOFl0eFFIV0swWUR5WkNZN1Z0bzVZSW1LbFphOV9FTDNuNHhsOHN2U3lpdUgwdGVkY1I2OGdrUkwwZWdxWmF5ZlIyLWY5MzVwQnFKVEpnTUFyRUp0VVcyYTJLT2RJUWxtcjQ4ZjVPdGlycVVTQ3RGQnNnUmNnZS1wMDRreTNzOW1tUzJaWExZOGdtbGc5VXlLellKMVVnWDdydWk5blRGdWsyTE9tYXp3VGtkZm9PcFRHb0VqRm1tZVo4?oc=5)
-
-2026-03-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[ZWP online](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbUljYkEtZmVOeEFCMUhzS0ZjOVpHQXF4al9iQU0xOFl0eFFIV0swWUR5WkNZN1Z0bzVZSW1LbFphOV9FTDNuNHhsOHN2U3lpdUgwdGVkY1I2OGdrUkwwZWdxWmF5ZlIyLWY5MzVwQnFKVEpnTUFyRUp0VVcyYTJLT2RJUWxtcjQ4ZjVPdGlycVVTQ3RGQnNnUmNnZS1wMDRreTNzOW1tUzJaWExZOGdtbGc5VXlLellKMVVnWDdydWk5blRGdWsyTE9tYXp3VGtkZm9PcFRHb0VqRm1tZVo4?oc=5)
 
 ---
 
