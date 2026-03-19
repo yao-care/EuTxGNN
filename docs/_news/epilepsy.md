@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epilepsia（epilepsy） 相關新聞"
+title: "convulsions（epilepsy） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epilepsia（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
+description: "convulsions（epilepsy） 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
-# epilepsia（epilepsy） 相關新聞
+# convulsions（epilepsy） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epilepsia（epilepsy） 有什麼相關新聞？">
-<strong>epilepsia（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
+<p class="key-answer" data-question="convulsions（epilepsy） 有什麼相關新聞？">
+<strong>convulsions（epilepsy）</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epilepsia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「convulsions」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,15 +38,7 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Sant Pau previene epilepsias en Down y alzhéimer: "Somos pioneros en la UE" - Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2R2UWE5X1FRSXl2ZEN5cTRWS3FNYWVHMDBwVzBJdjRkOGNGM1N0ZjlldERmRjQxZ1pzN0tVVmsyeFVWR1pJS2hVRXFoNVkzZmNvRHdpdVJGT1cwN21Kd2s5c1pkelBYZlh1YnhORHdZNlRHS0E4NXVXVWRoaUpXbmpPWHI3d2dnQzZQeWtMbVRNZXVfY3c3SGp5Uk9PUS11WHB1M0ZabEUyLTZxdXhJM1pEY0V6UmhETXNDMUpCanFmamFrUnFlR3ljNNIBywFBVV95cUxPWmdqWTNhQzY0c2tLMmFKdW5WSmJfZTlmSmsteDRGSDdGMnowNjJvU21jZmJtWVdkTy1VUmhZNTl0UjZndVMwRjZGVHltamQ2TGVYaHZLVVRkMlA3OXkxbFZjZnFzT0Y5NFhMQjJ6WUN3U3FqYjI0REhpM2k0TS1QQkgtSlpFMnJoYWdTZXBROHBmN1VCYURkS1J1RFRsTTVvbnJjVXBXTmFDWlhENXdYM3hKY3RqdVlDRDZtU0ZKb0RzRTdROVpuYVg0NA?oc=5)
-
-2026-03-18
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2R2UWE5X1FRSXl2ZEN5cTRWS3FNYWVHMDBwVzBJdjRkOGNGM1N0ZjlldERmRjQxZ1pzN0tVVmsyeFVWR1pJS2hVRXFoNVkzZmNvRHdpdVJGT1cwN21Kd2s5c1pkelBYZlh1YnhORHdZNlRHS0E4NXVXVWRoaUpXbmpPWHI3d2dnQzZQeWtMbVRNZXVfY3c3SGp5Uk9PUS11WHB1M0ZabEUyLTZxdXhJM1pEY0V6UmhETXNDMUpCanFmamFrUnFlR3ljNNIBywFBVV95cUxPWmdqWTNhQzY0c2tLMmFKdW5WSmJfZTlmSmsteDRGSDdGMnowNjJvU21jZmJtWVdkTy1VUmhZNTl0UjZndVMwRjZGVHltamQ2TGVYaHZLVVRkMlA3OXkxbFZjZnFzT0Y5NFhMQjJ6WUN3U3FqYjI0REhpM2k0TS1QQkgtSlpFMnJoYWdTZXBROHBmN1VCYURkS1J1RFRsTTVvbnJjVXBXTmFDWlhENXdYM3hKY3RqdVlDRDZtU0ZKb0RzRTdROVpuYVg0NA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Vous utilisez peut-être ce produit : il peut provoquer convulsions et coma chez votre chat - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTVZZk1LV0ZmdFgxN2dFMm1wRER2cDZEcEVDdHJEVzZNblZMb1NEVW13RzUxQVhkRndFdmptcU1rRWxfcG5FUzNHcXZIb0ZwUmpuSlVTc3BOOU9lRnhMSUZMam5WSGJVVDVJenR5WmlfTi1SWVFCLVhJV0E5b3RzMVBtc2NOY3lNYnp1OS02eHNabXFSZkhOeDBtZDdyT1ltM3RVeGVGcVlNZEotTGQwNVRyZjVYQk16TDBWemVIVDFrTksyR0RNMkZHZHBxOV8xaFY1eUVxeFRHV1pQVkMzQnp1MHpCaUJLV0E?oc=5)
 

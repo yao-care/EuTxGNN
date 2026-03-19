@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,23 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [AI software for smart glasses wins £1m prize for technology to help people with dementia - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGplOGdldGV0ZUx1ZUFhVE01MmNwRndsd1hNdk5RX0hXZ2FMdjJCdG1CckxXWThNY01HdXRFRkRNNGpfT3ZTaVNlakE1X0pwVnZub0lnNGZDcUhvUzNKUFcwdWMtaEl1NWlVaFdoMTJEM0RyYXM5R0JjamhlWHRzWGRqOEZSOFlsRlo2cFo2U0JxRGxsVmVIZA?oc=5)
+
+2026-03-19
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGplOGdldGV0ZUx1ZUFhVE01MmNwRndsd1hNdk5RX0hXZ2FMdjJCdG1CckxXWThNY01HdXRFRkRNNGpfT3ZTaVNlakE1X0pwVnZub0lnNGZDcUhvUzNKUFcwdWMtaEl1NWlVaFdoMTJEM0RyYXM5R0JjamhlWHRzWGRqOEZSOFlsRlo2cFo2U0JxRGxsVmVIZA?oc=5)
+
+---
+
+### [Quick nasal swab could detect early signs of Alzheimer’s disease - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZlVvckcyVl9NRlRGRUZYeTQ4bFRaaGtlZHM0X0FZR1U1alB2T2poMU9qcm01X3hyckIwQXJZLXlUeWNyRU9KUUdITnBycjU0T3V0Z2lieW5RYmtkcFRidURlNnJVSFkwSzVZQVJVZUl6Q18ybEZhd2dmNWVIODl4RVBRaTNPNjNtc2d3UktNLUlpZ2d1YWIzOGhnVQ?oc=5)
+
+2026-03-18
+
+來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZlVvckcyVl9NRlRGRUZYeTQ4bFRaaGtlZHM0X0FZR1U1alB2T2poMU9qcm01X3hyckIwQXJZLXlUeWNyRU9KUUdITnBycjU0T3V0Z2lieW5RYmtkcFRidURlNnJVSFkwSzVZQVJVZUl6Q18ybEZhd2dmNWVIODl4RVBRaTNPNjNtc2d3UktNLUlpZ2d1YWIzOGhnVQ?oc=5)
+
+---
 
 ### [The number of times you should brush your teeth per day to ward off dementia - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2N6cUdaMTUzN01KRVpzU2ptb25Nejl5VXE0QkQ0R0FGSDZFUUxWYm1Rd1huYVVIc3NDdGk2S3Q3aWRQMHNacGFUZERDWVFnWFJJN2tOM0JqU1RobjNzaE1fLWcxTWVUbzdVcUM1ekw0Q3BWcHBNUWFfU2lVOVN0Y01oMEF1UFA4SWFUZkFQbVprZ1JLMEhhRld4S3FYZ00?oc=5)
 
@@ -59,14 +75,6 @@ permalink: /news/alzheimer-disease/
 2026-03-18
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUm40a0s3aWxaVVNpakNITlhzd2dTdXVDSmN0MWNOLXlQczA2SmwxTndZTVlJRGo3aE5sWEVVdGxZUk1xd1V1Z2RNUmdOZFlaUzVXZUtiZVZWUTY0?oc=5)
-
----
-
-### [The positive impact a Mediterranean diet could have on brain health - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmZKWmJaTFc5SktrMDVpTGhnbW93cTZFUU8xb0UxTE15V0VhaHg2Z0ZCbUZvV3c0LWJNVjlWbDdyb1hzdklLTHV0SXBHS1ZxMXU3LUNLQllnUC1pUmZnRTVIaU9lLXI0S3F1WWRIS3h1dnJCcjI0dWR4RlBjLW4yRm1iZmdLTzNUWEZqRnVCLXRTQXlfQkpGVUViYW9FSThHNmY4MlBGcXVSUQ?oc=5)
-
-2026-03-17
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmZKWmJaTFc5SktrMDVpTGhnbW93cTZFUU8xb0UxTE15V0VhaHg2Z0ZCbUZvV3c0LWJNVjlWbDdyb1hzdklLTHV0SXBHS1ZxMXU3LUNLQllnUC1pUmZnRTVIaU9lLXI0S3F1WWRIS3h1dnJCcjI0dWR4RlBjLW4yRm1iZmdLTzNUWEZqRnVCLXRTQXlfQkpGVUViYW9FSThHNmY4MlBGcXVSUQ?oc=5)
 
 ---
 

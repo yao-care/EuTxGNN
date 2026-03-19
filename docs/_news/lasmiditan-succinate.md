@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Dad’s rare tumour diagnosis after being told for decade headaches were migraines - Warrington Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVVDb1A3bVU1aGFmcmVyYkhlb3RFeEZhWTN3UjY1djlEWnZSbnVmdGJhOHB3ZjVfdDFYMm9BNlljaHFxMHdpNjdMLWJrSmh6UlBjMy1lMHNueDFaZjN2dlpJUTV0eVpEcWV3TjJVTUZRcFNoUVNyY2taTXRERk9zbmxJOWxwVnZTNW01MUhkZmZia0c1LWxJeEYwRlI3Xzgxdjl3S0NFOFVlT2tV?oc=5)
+
+2026-03-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVVDb1A3bVU1aGFmcmVyYkhlb3RFeEZhWTN3UjY1djlEWnZSbnVmdGJhOHB3ZjVfdDFYMm9BNlljaHFxMHdpNjdMLWJrSmh6UlBjMy1lMHNueDFaZjN2dlpJUTV0eVpEcWV3TjJVTUZRcFNoUVNyY2taTXRERk9zbmxJOWxwVnZTNW01MUhkZmZia0c1LWxJeEYwRlI3Xzgxdjl3S0NFOFVlT2tV?oc=5)
+
+---
 
 ### [Gesund im Alter: Diabetes, Cholesterin, Bluthochdruck, Adipositas – wie Sie das „tödliche Quartett“ besiegen](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUjl1MFNpc3c4REo3em9Ua016SDRKLVZ3QmpEM2xnV0FQZ0pkeVZTTDhheXVsZ3d3emVoMUdkcFNLMkh3OEFJd0lZSkZxSXBtWHZoRnNMbUwzS0JuWWlDc0xNZTItRzFtVVFiV1BZUjZBS0E3R3gwamNMVFA4Wmx0Z2wzLXhwM282UWtFU0oyY2J1WTFiTEZXTTFOUGFXVkpJeUVnM20xZl9feENiTUJUOHBPbGdBSC1HWHR1NzBjcmJFdXFtSmhzZkZJUU5iRjIzZ2F5SE1mbUNyM2FMTTd2US1IN2V2VG84LVFtVmlobFFTaTJod0trUHBB?oc=5)
 
@@ -63,22 +71,6 @@ permalink: /news/lasmiditan-succinate/
 2026-03-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
-
----
-
-### ["Non, ce n’est pas 8 heures" : selon une étude, voici la durée de sommeil idéale pour réguler la glycémie - Biba Magazine](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZm9fSEhuZV82X0V1Z0RGUUF3LVdGckhtRGxvYzM0c2xyUmJsNnlWbjQzdVJxdmlCUXJvM0J1RXlIVjJCaS0zUzV0azlJVFBoU0VnX2xqNjJrRVNUSmZoNFlISkhXUnlxWHB1SmM3QjBpdnJvRW92VFQ5M09YNjJDMkdLbGpGMHRTOGsybzdiWnYzc0hDX29OZnFMc3MwM0tWcC1zVkdpd1NmdlVSSzh1NFVKTGdQanZoMERQd084NG1tblN5STFTN3U4SEFKUU14RHp2WE9qU0ZVclpYWDRla1RlUVU3NXJlN3c?oc=5)
-
-2026-03-18 <span class="news-indication-tag">obésité</span>
-
-來源：[Biba Magazine](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZm9fSEhuZV82X0V1Z0RGUUF3LVdGckhtRGxvYzM0c2xyUmJsNnlWbjQzdVJxdmlCUXJvM0J1RXlIVjJCaS0zUzV0azlJVFBoU0VnX2xqNjJrRVNUSmZoNFlISkhXUnlxWHB1SmM3QjBpdnJvRW92VFQ5M09YNjJDMkdLbGpGMHRTOGsybzdiWnYzc0hDX29OZnFMc3MwM0tWcC1zVkdpd1NmdlVSSzh1NFVKTGdQanZoMERQd084NG1tblN5STFTN3U4SEFKUU14RHp2WE9qU0ZVclpYWDRla1RlUVU3NXJlN3c?oc=5)
-
----
-
-### [L’obesità italiana, un’altra eredità negativa degli Usa - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNl82X0tTbkJVdXh1QzdEZGp3bFZYNFZRMWNHWjBVLVZyU0ZfNUZ0TU1DNjh2eDFvV1d0eGVwU1hGcE5veWJSM1k4Q2R4ZmJ4R3FVVGRpdVFyWFQ0d3g4czk2M3ZvX09ZLVA0TzRSdjRrbFU5UEVFbjQybm1vdzlURGNteWdtTm9mQ01Ea1VyVUVPS0VYTWU1LXo0bVhBa1djR3RUUzRvNk15RUFPVVJISTVOTzNoMDFBRGNfdlBfR3BTcmM?oc=5)
-
-2026-03-17 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNl82X0tTbkJVdXh1QzdEZGp3bFZYNFZRMWNHWjBVLVZyU0ZfNUZ0TU1DNjh2eDFvV1d0eGVwU1hGcE5veWJSM1k4Q2R4ZmJ4R3FVVGRpdVFyWFQ0d3g4czk2M3ZvX09ZLVA0TzRSdjRrbFU5UEVFbjQybm1vdzlURGNteWdtTm9mQ01Ea1VyVUVPS0VYTWU1LXo0bVhBa1djR3RUUzRvNk15RUFPVVJISTVOTzNoMDFBRGNfdlBfR3BTcmM?oc=5)
 
 ---
 

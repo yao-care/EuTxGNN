@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
 
 2026-03-18 <span class="news-indication-tag">arthritis</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
-
----
-
-### [L’obesità italiana, un’altra eredità negativa degli Usa - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNl82X0tTbkJVdXh1QzdEZGp3bFZYNFZRMWNHWjBVLVZyU0ZfNUZ0TU1DNjh2eDFvV1d0eGVwU1hGcE5veWJSM1k4Q2R4ZmJ4R3FVVGRpdVFyWFQ0d3g4czk2M3ZvX09ZLVA0TzRSdjRrbFU5UEVFbjQybm1vdzlURGNteWdtTm9mQ01Ea1VyVUVPS0VYTWU1LXo0bVhBa1djR3RUUzRvNk15RUFPVVJISTVOTzNoMDFBRGNfdlBfR3BTcmM?oc=5)
-
-2026-03-17 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNl82X0tTbkJVdXh1QzdEZGp3bFZYNFZRMWNHWjBVLVZyU0ZfNUZ0TU1DNjh2eDFvV1d0eGVwU1hGcE5veWJSM1k4Q2R4ZmJ4R3FVVGRpdVFyWFQ0d3g4czk2M3ZvX09ZLVA0TzRSdjRrbFU5UEVFbjQybm1vdzlURGNteWdtTm9mQ01Ea1VyVUVPS0VYTWU1LXo0bVhBa1djR3RUUzRvNk15RUFPVVJISTVOTzNoMDFBRGNfdlBfR3BTcmM?oc=5)
 
 ---
 

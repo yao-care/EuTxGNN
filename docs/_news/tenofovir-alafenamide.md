@@ -42,11 +42,11 @@ permalink: /news/tenofovir-alafenamide/
 
 ## 相關新聞（2 則）
 
-### [Epatite A, a Napoli boom di casi: 43 ricoverati al Cotugno - Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2dFF5VjBtclJTMmhHRFBxcTIzSjgwSFNTWURQbE1FRUhhbUFyNDdqdnBtdXdhMEc3Y2k5RjAyamVIRDBDZjhhT0o3eS16TkF1UF9Hb0N1dHpjZUR3a2w3Y0RTZTNqdDQ?oc=5)
+### [Napoli, al Cotugno 51 ricoveri per epatite A: scatta l’allarme sui frutti di mare - la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUV4OTNSUlpoZVdVcXJYM2kzRGNnUS1BcEtkUFlQSmMzRm5qN2dBOUlYSWRpbmhfZWRWQUUxS0ZZU25rUHNRSm52M2VhMnBsYkhDQXBlWGlMYUtnUmplcEU0TFhYN3Q5YnY2SThZSTVvQ09RLWZkRzd0Z1JKMVZYNTRzVlhQUEJQZ1I1ZlViWGljaXZWNUtITXZtRUFMcXhlNzhoWVJXaVpqOERHS1VlVlp0Y3dRd3QyTTFfc0xXZGlTWXMwdXkwOFJhbUNzd0ZfZndoZkpQNA?oc=5)
 
-2026-03-18 <span class="news-indication-tag">epatite</span>
+2026-03-19 <span class="news-indication-tag">epatite</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2dFF5VjBtclJTMmhHRFBxcTIzSjgwSFNTWURQbE1FRUhhbUFyNDdqdnBtdXdhMEc3Y2k5RjAyamVIRDBDZjhhT0o3eS16TkF1UF9Hb0N1dHpjZUR3a2w3Y0RTZTNqdDQ?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUV4OTNSUlpoZVdVcXJYM2kzRGNnUS1BcEtkUFlQSmMzRm5qN2dBOUlYSWRpbmhfZWRWQUUxS0ZZU25rUHNRSm52M2VhMnBsYkhDQXBlWGlMYUtnUmplcEU0TFhYN3Q5YnY2SThZSTVvQ09RLWZkRzd0Z1JKMVZYNTRzVlhQUEJQZ1I1ZlViWGljaXZWNUtITXZtRUFMcXhlNzhoWVJXaVpqOERHS1VlVlp0Y3dRd3QyTTFfc0xXZGlTWXMwdXkwOFJhbUNzd0ZfZndoZkpQNA?oc=5)
 
 ---
 

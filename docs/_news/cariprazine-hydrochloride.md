@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（13 則）
+
+### [PMS: Kombi aus Vitamin D und E zur Linderung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
+
+2026-03-19 <span class="news-indication-tag">MS</span>
+
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
+
+---
+
+### [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+
+2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+
+---
 
 ### ['I kept falling over on Ibiza lads holiday - it turned out to be MS'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eVJKZ1NFUVdMdXFRZ3J0SDZVY2JVTWxnYWhXSmdnN0dQWl9QYlVLNU5JcEJxVjc5T2NFV2ZPQkFLamtXY0VMMk1xRTdISHRaNG54VHdaSHluX1FU?oc=5)
 
@@ -66,19 +82,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [El coste de las pruebas de detección de tuberculosis puede reducirse "en un 50% o más" con el nuevo plan de la OMS](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYThHQXg3OGd0amZzbndhQ0NmNDBEaTBnY1VrRURGWW9QbFRjX3hHZS1sdl9QVnpTcHRWSFYtb1JyamN5b0V1c2ZqR0g2Y1UtSGRfX2JrNTJ6TzdTYmlySnd4MzRyM0xwTDJFZ3NGTlZybEloeUcwREFWaEp4ODhzVGN2eWJOaDB0Ym0zcGtCejFSR0ZWdVVPZXpXOHIyaTYzVWFreFdBMjhBZS1oRWVYSi03aGFyMVBQeGJ2dTF0YS1ybmJwN3g4ZnlpcVhQVk9PWHdxMjhR?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYThHQXg3OGd0amZzbndhQ0NmNDBEaTBnY1VrRURGWW9QbFRjX3hHZS1sdl9QVnpTcHRWSFYtb1JyamN5b0V1c2ZqR0g2Y1UtSGRfX2JrNTJ6TzdTYmlySnd4MzRyM0xwTDJFZ3NGTlZybEloeUcwREFWaEp4ODhzVGN2eWJOaDB0Ym0zcGtCejFSR0ZWdVVPZXpXOHIyaTYzVWFreFdBMjhBZS1oRWVYSi03aGFyMVBQeGJ2dTF0YS1ybmJwN3g4ZnlpcVhQVk9PWHdxMjhR?oc=5)
-
----
-
 ### ['Friends thought daughter's meningitis symptoms were heatstroke'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hSE9oRVEyU3U2TFdMRGJ1UmRlTWJPMEwyaWpkWUhLdGxvLWJqSVdaSEZPWS1pQjFrVEtSSWFNTXJscUt1d1FCT0otV0NTeEx1WGRFaTduaUM4d3JY?oc=5)
 
 2026-03-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hSE9oRVEyU3U2TFdMRGJ1UmRlTWJPMEwyaWpkWUhLdGxvLWJqSVdaSEZPWS1pQjFrVEtSSWFNTXJscUt1d1FCT0otV0NTeEx1WGRFaTduaUM4d3JY?oc=5)
+
+---
+
+### [Lungenfibrose: Inhalatives Treprostinil bremst Lungenfunktionsverlust - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDRKR3BMa0lZdWhjVDk5V1VCWF9nVVpjamozTkc0X2pydjV1aDdZT1JscHJGT0dlMzhBZ2FCbnVubS0waHlHZ296U2wxS3JzWUZReW1pR2lVZFVPY25HWUtMblg2aWZORk16RllhQUlJLUZXYW9HNG1OZ2J6SGlzc2Rsa2Nqd1VNRXhncHRPSklqTFZldXE5MTlzVGtNbWMtTkM0?oc=5)
+
+2026-03-18 <span class="news-indication-tag">MS</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDRKR3BMa0lZdWhjVDk5V1VCWF9nVVpjamozTkc0X2pydjV1aDdZT1JscHJGT0dlMzhBZ2FCbnVubS0waHlHZ296U2wxS3JzWUZReW1pR2lVZFVPY25HWUtMblg2aWZORk16RllhQUlJLUZXYW9HNG1OZ2J6SGlzc2Rsa2Nqd1VNRXhncHRPSklqTFZldXE5MTlzVGtNbWMtTkM0?oc=5)
 
 ---
 
@@ -90,11 +106,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [#BochumErkenntSepsis: Eine Stadt klärt auf - Stadt Bochum](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZE41dU1MMkhiSjZ4SWEwWjBHWi1KbzFESXl1LV9qNW9wRGNqb1RDczFzZVNlWUlMLVd3VU9KUkhZY3IzMUZoSWd0SkxPZTV6TTlvT2RIVnhlaUFmRUdQakFydnQ5a3NlaG5WdF9Na0dDbFZJeFBDTXJ1TmI5NzJIRlFBSU1mRV9JUXc3QWNoZnZfT0pkbkMzNA?oc=5)
+### ["Antò, fa caldo" - il Giornale](https://news.google.com/rss/articles/CBMid0FVX3lxTFBieFUybGxIMld1OExndURmRnR0eUpPTFg3eC1sLWZHV2pIRVVzMGwtN2gwU0lrYS03TWx5M21MN1JodmhRNHlWN2Z4cGFGWm0yaGhOTzZucjBTT2staVFiekdJSV9mNFluQmVjTV91QW5xWkpxdFBZ?oc=5)
 
 2026-03-18 <span class="news-indication-tag">MS</span>
 
-來源：[Stadt Bochum](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZE41dU1MMkhiSjZ4SWEwWjBHWi1KbzFESXl1LV9qNW9wRGNqb1RDczFzZVNlWUlMLVd3VU9KUkhZY3IzMUZoSWd0SkxPZTV6TTlvT2RIVnhlaUFmRUdQakFydnQ5a3NlaG5WdF9Na0dDbFZJeFBDTXJ1TmI5NzJIRlFBSU1mRV9JUXc3QWNoZnZfT0pkbkMzNA?oc=5)
+來源：[il Giornale](https://news.google.com/rss/articles/CBMid0FVX3lxTFBieFUybGxIMld1OExndURmRnR0eUpPTFg3eC1sLWZHV2pIRVVzMGwtN2gwU0lrYS03TWx5M21MN1JodmhRNHlWN2Z4cGFGWm0yaGhOTzZucjBTT2staVFiekdJSV9mNFluQmVjTV91QW5xWkpxdFBZ?oc=5)
 
 ---
 
@@ -106,38 +122,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Vergütung für Alzheimer-Therapie geregelt - KV Nordrhein](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFRDZEJHcG5XdUx6Q05YdzVrb2JERktqQS16ckxOQlFZek1tcjVFbURVMVB3QlVKNlJBUTRjZGdZRDJtMk9KeG5KQTFmOGNkaE1kYjZTcVFVTlRZd0cxV25pNzFmV19sX25YM3RHcVFNRll3V3JKaXMwVllvb1MyODFhc1hNZDBMcGlaOUlZa3dfWE9zTWlPalJVVERIZXdzanc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[KV Nordrhein](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFRDZEJHcG5XdUx6Q05YdzVrb2JERktqQS16ckxOQlFZek1tcjVFbURVMVB3QlVKNlJBUTRjZGdZRDJtMk9KeG5KQTFmOGNkaE1kYjZTcVFVTlRZd0cxV25pNzFmV19sX25YM3RHcVFNRll3V3JKaXMwVllvb1MyODFhc1hNZDBMcGlaOUlZa3dfWE9zTWlPalJVVERIZXdzanc?oc=5)
-
----
-
-### [Meningitis outbreak: Our beautiful daughter was just weeks into university but never came home again - Wales Online](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3dzMlI0QW1kRkpBRm1wbTl0c0JocFg1TkttNk9PNnl6dTlVLUNLeUpZUDFsZjdyZkwxaFpVT2VLYUNTTzUtSWdqQmN4WUtBWUp4aThIaVpPNG4xTnhjNHVmOVE1LWJQeUQxcVNhdmhrSEpLT0oxbnZ0U2lhcFp1M2FXS29qbUZwMmI1d0h6UU1DcmpFRkNsNExIUXFsdGvSAaQBQVVfeXFMT2VkcUFhY2hoRHJscC1XUFQwMWNScjlkUVc1aHRTdU5iMFRxSkg0LWVDc1dIamt4d2lwUmhyRDQ0SWtCUVpPQnhFY3JLSVhkY2UzZm5feGpUc2pWZ0FxcTBSUTduR1h0MWNMTmJIaHZFTDNPS2hlN0hFMFhMNnBMV3lCZER0NkJNVmhXNWZYWkdoeWxUX0tlczBqcmhkblhPbUxGRUg?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3dzMlI0QW1kRkpBRm1wbTl0c0JocFg1TkttNk9PNnl6dTlVLUNLeUpZUDFsZjdyZkwxaFpVT2VLYUNTTzUtSWdqQmN4WUtBWUp4aThIaVpPNG4xTnhjNHVmOVE1LWJQeUQxcVNhdmhrSEpLT0oxbnZ0U2lhcFp1M2FXS29qbUZwMmI1d0h6UU1DcmpFRkNsNExIUXFsdGvSAaQBQVVfeXFMT2VkcUFhY2hoRHJscC1XUFQwMWNScjlkUVc1aHRTdU5iMFRxSkg0LWVDc1dIamt4d2lwUmhyRDQ0SWtCUVpPQnhFY3JLSVhkY2UzZm5feGpUc2pWZ0FxcTBSUTduR1h0MWNMTmJIaHZFTDNPS2hlN0hFMFhMNnBMV3lCZER0NkJNVmhXNWZYWkdoeWxUX0tlczBqcmhkblhPbUxGRUg?oc=5)
-
----
-
-### [Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
-
----
-
-### [«Ictus e infarto, le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
-
-2026-03-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
-
----
-
 ### [FAU Erlangen-Nürnberg: Extrem tiefgekühlte Hirnregion kann nach Auftauen wieder elektrische Lernreize verarbeiten - Der Neue Wiesentbote](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY3hfVnRQNVF4OGhzU3plcHFqTzBHWWFoNjh5dExDajdvazVkbUc0QjBGc3AxdF85cndEOXQ3NW5ISEFMRkVHVzBvLTJrRmNJd2FwcndScTFrdWZhb01fS0RDSXhpWlNMZXRXcmZuVjc5U2tZRnVaRjBrZDdTMUYxbHR3TmJwSk4wU2F5N3JHbjh5NG01ZzJDWEFJOVFsay1uWkxXMEJRTEktTXlnYWNadjluV2hsVU9mOGRLRVZMVnRrQV92dVoxMTAxWUNHcy03WFBLa3R5QVNoc3Y1YUQ5VjhMT25FM1Rp?oc=5)
 
 2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -146,19 +130,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Inhalatives Medikament gegen Lungenfibrose - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MN3VXZklFbllCLUVfWWRCZVNYQ1c2OFlnbWF6MFhKZ3BTcnA3eHROWk1zQkdScHJfQnpFR2ZYZi13S2NjRThJZEdjYw?oc=5)
+### [Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
 
-2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-17 <span class="news-indication-tag">MS</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MN3VXZklFbllCLUVfWWRCZVNYQ1c2OFlnbWF6MFhKZ3BTcnA3eHROWk1zQkdScHJfQnpFR2ZYZi13S2NjRThJZEdjYw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
 
 ---
 
-### [Sclérose en plaques : le lien avec le virus Epstein-Barr se précise - Pour la Science](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVJ0VEg5WFpHRUpwYTFjcEVObTZMQVRnTnowUUd5Um5uamRlNG5wT0RncURBd0ZKcmpNeXB2d3pSbERtTmc0TGs4bXc1NTZubDZ0RjNIMDNoRy1GejR4V0lHWnRUYVZUem9PdTVOQlJjdzFUOTVNWV9sY3NqMjRfYmRvX3pFdXJKZWVIWG0waUE0WjZ1SFhxYTFKeTFqdThVQWNxR3hLTVlwOFVoNGJZRWt4UjdrTnJlcWhBQzBB?oc=5)
+### [«Le 7 cose da non fare dopo le 8 di sera per ridurre il rischio infarto», i consigli del cardiologo - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
 
-2026-03-17 <span class="news-indication-tag">sclérose en plaques</span>
+2026-03-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
 
-來源：[Pour la Science](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVJ0VEg5WFpHRUpwYTFjcEVObTZMQVRnTnowUUd5Um5uamRlNG5wT0RncURBd0ZKcmpNeXB2d3pSbERtTmc0TGs4bXc1NTZubDZ0RjNIMDNoRy1GejR4V0lHWnRUYVZUem9PdTVOQlJjdzFUOTVNWV9sY3NqMjRfYmRvX3pFdXJKZWVIWG0waUE0WjZ1SFhxYTFKeTFqdThVQWNxR3hLTVlwOFVoNGJZRWt4UjdrTnJlcWhBQzBB?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
 
 ---
 

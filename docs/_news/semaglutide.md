@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [La semaglutida del Ozempic no frena el Alzhéimer](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHhkWFBoek53S1M2NndLQlp5bmVxMl9IcHlJa1EtTHlhVFlGWmpnYUN2VTdZb2Z0NVRWXzZjaUN1TC14bkw4ZDZuQmFNN1g2bDRVT2pTUVZYcUtMbUFmenJyX19fN056ZFd2cDdlU2ktZ3RwNEVJZkdOYTVyYmVIMnZ3X0g0cGJqenRPTm9FNFlNNWdjRkdyenN5Y9IBmwFBVV95cUxOSXFHN2kzT0xZTE5rV1lUYmJoS1h0NFNISzZfRnpfdGJEZFVrbXJvOW1uT3RFQ2NocWNhenJnczdxT3pWeTdGdmRNZUlWMGpJZUFIZWZjbTlwYllWYU5BcnF3N1ItVzZvT2NBYlNGcWtFSk5oVXVpX2VwVFk2U1lXXzB5NXpZa3BkdG9IYlBOWjczUU0tRS1fd0lRZw?oc=5)
+
+2026-03-19 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHhkWFBoek53S1M2NndLQlp5bmVxMl9IcHlJa1EtTHlhVFlGWmpnYUN2VTdZb2Z0NVRWXzZjaUN1TC14bkw4ZDZuQmFNN1g2bDRVT2pTUVZYcUtMbUFmenJyX19fN056ZFd2cDdlU2ktZ3RwNEVJZkdOYTVyYmVIMnZ3X0g0cGJqenRPTm9FNFlNNWdjRkdyenN5Y9IBmwFBVV95cUxOSXFHN2kzT0xZTE5rV1lUYmJoS1h0NFNISzZfRnpfdGJEZFVrbXJvOW1uT3RFQ2NocWNhenJnczdxT3pWeTdGdmRNZUlWMGpJZUFIZWZjbTlwYllWYU5BcnF3N1ItVzZvT2NBYlNGcWtFSk5oVXVpX2VwVFk2U1lXXzB5NXpZa3BkdG9IYlBOWjczUU0tRS1fd0lRZw?oc=5)
+
+---
 
 ### [„Als hätten sie kein Diabetes“: Ist diese Ernährung die Lösung für Erkrankte? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
 
@@ -50,27 +58,35 @@ permalink: /news/semaglutide/
 
 ---
 
+### [What Is 'Eye Stroke'? Expert Explains The Rare Wegovy Risk](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
+
+2026-03-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
+
+---
+
 ### [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
 
-2026-03-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
 
 ---
 
-### [The $1 superfood that slashes weight like Ozempic, improves heart health and lowers cancer risk - Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXl1bGU1RUFyMWV2UGE5aEc0elVFdnlhZ2swVDA2NUhEOGU2UHBwYUROVGhEbHhpY1ZPSDdkc3d6NGc4VDE1Y1hKb0MxMUdvZTI0b1l5SFhJME1SN1RrWVpXejYwNm9TRkZ2X3NWcmMzVVZ3QWNfLXhpT2Y0NlE3VTJWOUxadFRkengwVTZRaU1HNWVOaUNxUTd2eHdtekFNYTZvSEhmbFd3QkRtN3lIT1E2d9IBuAFBVV95cUxQOExmTTlJTE15REEtejZQNDRxbDR3UGl1aF9yc05JQ1VlMS01OWJxcThCV3N6aEZVZy1VYjZyTUJxWU5fV05pTG8zdDlQbS0xMC0wSjRCT0JEcUdCYXA2cXp3Z3hINGdnOHlkcFRzSUtraFNCRVR5eXhVeEZYVFAwV0hsTlFqcVZReXQyXzdqbUZyU2E0cUJwaEt4OWpMQ3FOSnpWQnhia0xJTjM5UWVSRGlLTmJfUnZL?oc=5)
+### [The $1 superfood that slashes weight like Ozempic, improves heart health and lowers cancer risk - Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXl1bGU1RUFyMWV2UGE5aEc0elVFdnlhZ2swVDA2NUhEOGU2UHBwYUROVGhEbHhpY1ZPSDdkc3d6NGc4VDE1Y1hKb0MxMUdvZTI0b1l5SFhJME1SN1RrWVpXejYwNm9TRkZ2X3NWcmMzVVZ3QWNfLXhpT2Y0NlE3VTJWOUxadFRkengwVTZRaU1HNWVOaUNxUTd2eHdtekFNYTZvSEhmbFd3QkRtN3lIT1E2dw?oc=5)
 
 2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXl1bGU1RUFyMWV2UGE5aEc0elVFdnlhZ2swVDA2NUhEOGU2UHBwYUROVGhEbHhpY1ZPSDdkc3d6NGc4VDE1Y1hKb0MxMUdvZTI0b1l5SFhJME1SN1RrWVpXejYwNm9TRkZ2X3NWcmMzVVZ3QWNfLXhpT2Y0NlE3VTJWOUxadFRkengwVTZRaU1HNWVOaUNxUTd2eHdtekFNYTZvSEhmbFd3QkRtN3lIT1E2d9IBuAFBVV95cUxQOExmTTlJTE15REEtejZQNDRxbDR3UGl1aF9yc05JQ1VlMS01OWJxcThCV3N6aEZVZy1VYjZyTUJxWU5fV05pTG8zdDlQbS0xMC0wSjRCT0JEcUdCYXA2cXp3Z3hINGdnOHlkcFRzSUtraFNCRVR5eXhVeEZYVFAwV0hsTlFqcVZReXQyXzdqbUZyU2E0cUJwaEt4OWpMQ3FOSnpWQnhia0xJTjM5UWVSRGlLTmJfUnZL?oc=5)
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXl1bGU1RUFyMWV2UGE5aEc0elVFdnlhZ2swVDA2NUhEOGU2UHBwYUROVGhEbHhpY1ZPSDdkc3d6NGc4VDE1Y1hKb0MxMUdvZTI0b1l5SFhJME1SN1RrWVpXejYwNm9TRkZ2X3NWcmMzVVZ3QWNfLXhpT2Y0NlE3VTJWOUxadFRkengwVTZRaU1HNWVOaUNxUTd2eHdtekFNYTZvSEhmbFd3QkRtN3lIT1E2dw?oc=5)
 
 ---
 
-### [Se abren nuevas vías para mejorar el pronóstico del ictus en afectados con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
+### [La santé des hommes pourrait influencer de manière significative l’issue des grossesses de leurs partenaires, selon une étude](https://news.google.com/rss/articles/CBMitgFBVV95cUxONjZ6VFZtc3d2cEgtNThGMkZsdnhZLVJXZVRJcjJGUkxBVk4zQ09jN2czLWIxcmZ3NjdNWTdkZzY1cEJrWjhtdHhrRHhpbGQxSU9Hc2tra2RKdEtleDgzLXprN3JodDJRaDFVN3JOenlQRVVjY1pLd00yM1BZdC1Jb1RtSHFfTl9EbzRUNzE4dUlldkhXaWVqZ00zOW51QkVsT1Jta0dPVDNURkpwQXd1SmtmenN5UdIBuwFBVV95cUxNa0RvY3k5N1ZBTmFHZEo4b2NRRGgtX19tM3d6bXl0RlFBSWp4WThfbUJDVjNISmMtQTJFSjBjUlFYaTVFV0JTaU1fR3dVNzhKSF84SnJ0TXVzUUpOc3o2Mkh1emlHZnlsZGRBbE5TenBialJyZjk3dF94ZUhIVVVoSUxxbkUtd2Z1Zjh1Y2lEeFRURHZkLU5kTDUtQjhDVjJkd1V2VzdVZDZVNksxWnE4STZGTDhLeDdLdFZ3?oc=5)
 
-2026-03-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-03-18 <span class="news-indication-tag">diabète</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxONjZ6VFZtc3d2cEgtNThGMkZsdnhZLVJXZVRJcjJGUkxBVk4zQ09jN2czLWIxcmZ3NjdNWTdkZzY1cEJrWjhtdHhrRHhpbGQxSU9Hc2tra2RKdEtleDgzLXprN3JodDJRaDFVN3JOenlQRVVjY1pLd00yM1BZdC1Jb1RtSHFfTl9EbzRUNzE4dUlldkhXaWVqZ00zOW51QkVsT1Jta0dPVDNURkpwQXd1SmtmenN5UdIBuwFBVV95cUxNa0RvY3k5N1ZBTmFHZEo4b2NRRGgtX19tM3d6bXl0RlFBSWp4WThfbUJDVjNISmMtQTJFSjBjUlFYaTVFV0JTaU1fR3dVNzhKSF84SnJ0TXVzUUpOc3o2Mkh1emlHZnlsZGRBbE5TenBialJyZjk3dF94ZUhIVVVoSUxxbkUtd2Z1Zjh1Y2lEeFRURHZkLU5kTDUtQjhDVjJkd1V2VzdVZDZVNksxWnE4STZGTDhLeDdLdFZ3?oc=5)
 
 ---
 
