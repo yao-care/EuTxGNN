@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Drospirenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [La Jiménez Díaz pone el foco en el impacto del asma en las mujeres - Redacción Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2pyZVJfakVKTkNuOEdfMEtBRzE1SmppZ1J0YkRXdFMwNmRIUHFaTGNCdTlUQXZSV3FGVUh4M0t5c1pabVQzbGNlUi1HVkFGdThra2Y1UndOWGFHNlUwcmxuNXFfMlNqRmM0OE80VXdhUUR1eWxlTnQtWXJzVTBzUTBNLUtJSUFaa1JfZnVKMFgxMGNSd3NlNlRKUXo1STBScElybElFeGVuR0lVZHRzc2FzUGFPZHhObVRVQkV30gG-AUFVX3lxTE9XbGVWbDJDQkl6M0thbkJGT2Y4SllldDBuN3VxVmtFSnFLYmM1Y2RpUk5BMTI2VG16S3VuM19jcUVnSElfUTVJZV9XZGFjb2hIRHVSS2loSmdWT1otcDh4Zm1xZmVDSFdGV2NCd0RPdGgydThhcDc3VkRvRm8tUzk1OFFDNGhjNWg5RVF4ekpGSFVJc01zM1Y1YW1Vdk1jM0UwU1FxY0VwVVpPbl9Ib19IWWo0OVJXWFRBOFRGNVE?oc=5)
+
+2026-03-19 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2pyZVJfakVKTkNuOEdfMEtBRzE1SmppZ1J0YkRXdFMwNmRIUHFaTGNCdTlUQXZSV3FGVUh4M0t5c1pabVQzbGNlUi1HVkFGdThra2Y1UndOWGFHNlUwcmxuNXFfMlNqRmM0OE80VXdhUUR1eWxlTnQtWXJzVTBzUTBNLUtJSUFaa1JfZnVKMFgxMGNSd3NlNlRKUXo1STBScElybElFeGVuR0lVZHRzc2FzUGFPZHhObVRVQkV30gG-AUFVX3lxTE9XbGVWbDJDQkl6M0thbkJGT2Y4SllldDBuN3VxVmtFSnFLYmM1Y2RpUk5BMTI2VG16S3VuM19jcUVnSElfUTVJZV9XZGFjb2hIRHVSS2loSmdWT1otcDh4Zm1xZmVDSFdGV2NCd0RPdGgydThhcDc3VkRvRm8tUzk1OFFDNGhjNWg5RVF4ekpGSFVJc01zM1Y1YW1Vdk1jM0UwU1FxY0VwVVpPbl9Ib19IWWo0OVJXWFRBOFRGNVE?oc=5)
+
+---
 
 ### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
 

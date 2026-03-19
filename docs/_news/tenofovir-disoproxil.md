@@ -14,7 +14,7 @@ permalink: /news/tenofovir-disoproxil/
 ---
 
 <p class="key-answer" data-question="Tenofovir Disoproxil 有什麼相關新聞？">
-<strong>Tenofovir Disoproxil</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tenofovir Disoproxil</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,39 @@ permalink: /news/tenofovir-disoproxil/
 <p><a href="{{ '/drugs/tenofovir-disoproxil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（32 則）
+
+### [Unas células inmunitarias reforzadas con un ‘anzuelo’ logran cazar mejor el cáncer - EL PAÍS](https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2hDZEdZWWJoNm9TcGFQNUVKYklTdnBqSlg4TXhKbWFlaEdBNzA4RlhKQ2tyVjJObWdRTVUyNFBFM3h6QXc2TkFMWjFobUp5djdQYUx2VGdYZ2ZVYlFKUHk5eE5EZ0ZUcU00UnRMWmxpWUFJVmFDYlBEU1BMME9TNmxxR0tlTm5xc3lQeFN4bmFtSTlPZVZnb0dJTlB5T0YzdWItc3VTVVFrdmJPazlMSHIyd3BxQjlMRHFIVWdVNkdpd2VJXzNjVWpBaTNyZ9IB4gFBVV95cUxOTEo5Sjh2OXB1c1J2ck9KbFAxMDA3VjBiSmtSVGVIUmRfeW8xd2hseUtnOHlENWdjOWZiTmNILU5jWWdfY05uVGM3RFJhc0NadzlydDNVRGFFQ29YMWw5TE1Ic1VpOWxOU2ZtRVdMOTFPVUFYVHFNcmhoRVZBR1ZUZ0lOZFVtcnpiZFpJVVhkODFsN0dWRksyQTd5d3JZLVIzWjRBaWhEOXg5UkdEN1lSeWc4ZGtOaEZZeVMwNjhFUVlvVnU5bDAxVFlNLWtVSjctX0VCVXpkU2Rwa09qeGlHcjBn?oc=5)
+
+2026-03-19 <span class="news-indication-tag">tumor</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2hDZEdZWWJoNm9TcGFQNUVKYklTdnBqSlg4TXhKbWFlaEdBNzA4RlhKQ2tyVjJObWdRTVUyNFBFM3h6QXc2TkFMWjFobUp5djdQYUx2VGdYZ2ZVYlFKUHk5eE5EZ0ZUcU00UnRMWmxpWUFJVmFDYlBEU1BMME9TNmxxR0tlTm5xc3lQeFN4bmFtSTlPZVZnb0dJTlB5T0YzdWItc3VTVVFrdmJPazlMSHIyd3BxQjlMRHFIVWdVNkdpd2VJXzNjVWpBaTNyZ9IB4gFBVV95cUxOTEo5Sjh2OXB1c1J2ck9KbFAxMDA3VjBiSmtSVGVIUmRfeW8xd2hseUtnOHlENWdjOWZiTmNILU5jWWdfY05uVGM3RFJhc0NadzlydDNVRGFFQ29YMWw5TE1Ic1VpOWxOU2ZtRVdMOTFPVUFYVHFNcmhoRVZBR1ZUZ0lOZFVtcnpiZFpJVVhkODFsN0dWRksyQTd5d3JZLVIzWjRBaWhEOXg5UkdEN1lSeWc4ZGtOaEZZeVMwNjhFUVlvVnU5bDAxVFlNLWtVSjctX0VCVXpkU2Rwa09qeGlHcjBn?oc=5)
+
+---
+
+### [Allarme epatite A a Napoli, 43 ricoverati al Cotugno: "Barelle in pronto soccorso"](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdEtBTWlzREYxZ0hqczVGbFRxeVM2LWt3NGFzTk9KR1BWQUhDamhpbVJkX2JNb0tNRElNX1U0YmhUUXFjRjQ0Vmd1RWJ0V2dhMllEMUlRZGtjUzVDeXJJR0lsYURBWmxTRnRBbzV0TGRINkxEN2FqMDE2TENKZXRZV0lNU0RMNVZkUDJUQjF3LWxWRDJpN2tpMWN3TE1Tb1B6S1dzNzhZS0J3allEOGdUWWlRck9rN0tkYWZXTlRwTEVwN3BESzhpYXNkOEtQQkNuRTRTOTJ0LVV3dXJCR1liOE9RazlhMlhBNTBwUVE0Nng2blRya3lYcmVmNFjSAYICQVVfeXFMTVR6VVFKWmc1cDdiREJSU2ktMnJDX1hVcllKZlkxSUt0VkVvZjZPNkdEck9pSWJHTUZNZC1aSmdsT0hlWndTNHhLMFRjNVY3QWpxMkNyblFfZ3REcVlvQVpXU0dJN0FXSVI5Tk5pYldPQVVzdlhEcnBxTG50bzV4U09pQWloVW5QcFB2czRLbm14Z0VBU0dtZHA3eUpPQzVBMGdBMkdkLVBpbE9xZV9VUk1INDJJMndfeXpuXzlJeXJ4eW4tdWpUZ1h5MHRkTlVldGhYSy1IZllkeWhoVnZDUXUwRUJPVk8wRTNyY2gtNjNUZWtkSUJyRWVEUTJ6SXZyVUtR?oc=5)
+
+2026-03-19 <span class="news-indication-tag">epatite</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdEtBTWlzREYxZ0hqczVGbFRxeVM2LWt3NGFzTk9KR1BWQUhDamhpbVJkX2JNb0tNRElNX1U0YmhUUXFjRjQ0Vmd1RWJ0V2dhMllEMUlRZGtjUzVDeXJJR0lsYURBWmxTRnRBbzV0TGRINkxEN2FqMDE2TENKZXRZV0lNU0RMNVZkUDJUQjF3LWxWRDJpN2tpMWN3TE1Tb1B6S1dzNzhZS0J3allEOGdUWWlRck9rN0tkYWZXTlRwTEVwN3BESzhpYXNkOEtQQkNuRTRTOTJ0LVV3dXJCR1liOE9RazlhMlhBNTBwUVE0Nng2blRya3lYcmVmNFjSAYICQVVfeXFMTVR6VVFKWmc1cDdiREJSU2ktMnJDX1hVcllKZlkxSUt0VkVvZjZPNkdEck9pSWJHTUZNZC1aSmdsT0hlWndTNHhLMFRjNVY3QWpxMkNyblFfZ3REcVlvQVpXU0dJN0FXSVI5Tk5pYldPQVVzdlhEcnBxTG50bzV4U09pQWloVW5QcFB2czRLbm14Z0VBU0dtZHA3eUpPQzVBMGdBMkdkLVBpbE9xZV9VUk1INDJJMndfeXpuXzlJeXJ4eW4tdWpUZ1h5MHRkTlVldGhYSy1IZllkeWhoVnZDUXUwRUJPVk8wRTNyY2gtNjNUZWtkSUJyRWVEUTJ6SXZyVUtR?oc=5)
+
+---
+
+### [Ciertos antioxidantes pueden ser un arma de doble filo en el microambiente tumoral - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUduakxCMHZFV1NzY2cwSkpCTmhibFhFWjNITUx4YWM3aWNmRHNEazJDaW9nVTJacVFOMXVfeEZFb1pvbk10cnBnNWZyMGVqajNjbkpXSjVtWTlkb09qVXVjQUZ4TFQ0Wklkb3NhN3dvOTNHOVlYdkJzVTRBQWZfUTlwSjlJLVpicHRucDBVemVWY0ducWdJeEU2eTMtZjQ1ZnFBMGRlYzJoRlBhVVQ1Qzh1UkRXV2prNm85Rk1La3REMm_SAb4BQVVfeXFMTVpNT0VqSDNIZ2E3SGpzaDVCWU9LREVZVllLS01VVTZyaGt6Ti1HaG1NMFZPUzJud1IxWUZpbWcwUm9ycFBwb1lHUXJ3NWVTeVQwRkN3RF8yU3pwVjJMc1NqZS15UGQyQy1QLU9JSEhYUXdibTZQQ0o1VkNiZUNyUTlJaDBFRXNRWEQ2Y09yemhucHFuOTd3aGpPVEdTNnQtUmJibGp6cTJZcjBkazFOMS05X2hlb2luZWFCSFJSQQ?oc=5)
+
+2026-03-19 <span class="news-indication-tag">cancer</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUduakxCMHZFV1NzY2cwSkpCTmhibFhFWjNITUx4YWM3aWNmRHNEazJDaW9nVTJacVFOMXVfeEZFb1pvbk10cnBnNWZyMGVqajNjbkpXSjVtWTlkb09qVXVjQUZ4TFQ0Wklkb3NhN3dvOTNHOVlYdkJzVTRBQWZfUTlwSjlJLVpicHRucDBVemVWY0ducWdJeEU2eTMtZjQ1ZnFBMGRlYzJoRlBhVVQ1Qzh1UkRXV2prNm85Rk1La3REMm_SAb4BQVVfeXFMTVpNT0VqSDNIZ2E3SGpzaDVCWU9LREVZVllLS01VVTZyaGt6Ti1HaG1NMFZPUzJud1IxWUZpbWcwUm9ycFBwb1lHUXJ3NWVTeVQwRkN3RF8yU3pwVjJMc1NqZS15UGQyQy1QLU9JSEhYUXdibTZQQ0o1VkNiZUNyUTlJaDBFRXNRWEQ2Y09yemhucHFuOTd3aGpPVEdTNnQtUmJibGp6cTJZcjBkazFOMS05X2hlb2luZWFCSFJSQQ?oc=5)
+
+---
+
+### [Vitamin B2 macht Krebszellen anfälliger für kontrollierten Zelltod - Forschung und Wissen](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQkRXa2IzQWJHQTF1dldGVG1YeUhBSnZIemF0UUdjTUpqUHVONVJZZEhCSGlzQ0o1YlUwUWxRMC15WVNQRnota3doaWZCellfTnFDRlZnMWpEN0JLY3R5bXUteDQ2aGhqRk93Z1FMc0dHbnBsVlFRLVhGTzhUcmNTM2VZQVVRQmJwS2d0OHpuaFVvRWFINXJQWTR2eUpIbnc5X2tIS0lPWEg3RElqNHczWXJ6Q0xDdjJqaTRjeUJkdGhmUXRsTEZEd1luWnQ0WE0?oc=5)
+
+2026-03-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQkRXa2IzQWJHQTF1dldGVG1YeUhBSnZIemF0UUdjTUpqUHVONVJZZEhCSGlzQ0o1YlUwUWxRMC15WVNQRnota3doaWZCellfTnFDRlZnMWpEN0JLY3R5bXUteDQ2aGhqRk93Z1FMc0dHbnBsVlFRLVhGTzhUcmNTM2VZQVVRQmJwS2d0OHpuaFVvRWFINXJQWTR2eUpIbnc5X2tIS0lPWEg3RElqNHczWXJ6Q0xDdjJqaTRjeUJkdGhmUXRsTEZEd1luWnQ0WE0?oc=5)
+
+---
 
 ### ["Vergessenes" Organ: Welche Rolle es für Langlebigkeit und Krebsrisiko spielt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVJYbmpLbmxNMXBOMERNMGE2eHhUUi1lV3lXRFRHNXE2blJLQjkzbHFia1hYNXRsZm9HeEJISDZuY2xuTm5mTVBkdTY2QndoZlJoTndZVE5uQzhxUnE1T3U3OWR4UzNWbUc1RmVPWlZ6YXpvM2c1cVotZnp3VG5vZHBMVW8wY0otb19xSDFIT1paT1VIY3FZQXJ1N1M1QXluVTdBVndkLUdFWUJKVVY5X0xsLWZrUTNadkZyM0trYXo5SE14bjVGdw?oc=5)
 
@@ -50,11 +82,27 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [« Les potentialités sont énormes » : la piste prometteuse des cellules anticancer fabriquées directement dans l’organisme - Le Figaro Santé](https://news.google.com/rss/articles/CBMi8AFBVV95cUxORU1kVlFSRnhkRl9kZHU1YUtCNHJFVW50UHVRbHdvWDI5RlBveWJqd1dMT2g2Si15SEtsN01EZjZkSUROdkFST2VfVUFrOU9UMk1yeGtpMXE1d3Z6dFZqVERfTXZWMkVnNXFYc0U5XzE5NE9uZDN5NGQ4dE5POXF2SmsxVXktdkFKcVZuYTZfbUpFX2duYXlnWlZQQ25iNk5oeEw3SHY1WldRWmRyc29ZMXotOHVmUXpTSDF3OUszajA4THFRZTlBek1UOUxhc0kybGZVTFc3dGpmRVFwQjM0ZGxpSXVJR1MwY3RIaElEcy0?oc=5)
+### [Tierärzte gaben sie auf – dann berechnet KI einen Krebsimpfstoff - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUVY5WmlTdXNPb2xjaG1mY2sxWExScm5qeHJMUVh2cXBZWFMyUXctbFNqU1ZyMVRXQmxGSFhYWG9meG10d082Ml9qcWdZTWVXZE5IUjVRSWw1UE9Cc0E4YzJTeF9CVDdQX2dHYXRDakVxbVRRQWNkRGNfNF9lVlN2X19Wc0ZZdksyQ0JGMlBPd3BxUjVLcnFSOC1LX29xTThaR1FfVVp4VFBEYkstSTV0aVd3eXhkZUpNQ3lublF5U0lVWm9xbndyREFaR1lrS2FEbzFrUGVFZkJaRUE?oc=5)
+
+2026-03-19 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUVY5WmlTdXNPb2xjaG1mY2sxWExScm5qeHJMUVh2cXBZWFMyUXctbFNqU1ZyMVRXQmxGSFhYWG9meG10d082Ml9qcWdZTWVXZE5IUjVRSWw1UE9Cc0E4YzJTeF9CVDdQX2dHYXRDakVxbVRRQWNkRGNfNF9lVlN2X19Wc0ZZdksyQ0JGMlBPd3BxUjVLcnFSOC1LX29xTThaR1FfVVp4VFBEYkstSTV0aVd3eXhkZUpNQ3lublF5U0lVWm9xbndyREFaR1lrS2FEbzFrUGVFZkJaRUE?oc=5)
+
+---
+
+### [Cellule anticancro generate nel corpo, tumore eliminato in due settimane - Tiscali Notizie](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzVpdVhJbS12ekItQjB3eWZnX2REUE5UNFlJR0NueGo1NUtJT0t0aGdLZW1ncEYxY2sxNEFGa0VfcF8zbWVSQ3BkQVI0UVlIUzJnaVBJbTZBQ3B4R2ZWXzFLaVljU2F0Uk03UFBtNkpWWXVxVmFwS0FuOXhVOWF3eTV0Zng5QXBWdXfSAY8BQVVfeXFMTTFEb1U2WElLdjhJVmhYcUJ1NWFhejRwdUxYR2dEZU00RkNtMVBUV0VCSjlNdWNWWTcycEFLZ084OXp2V0RaOE1BaVdWUE5Tanc1eE1yUjNlQW5Rb2R6WEZSOTVTZy00cDZMbWJLc0oxYTZOVFJhcmF5YTF1eXozSnAxLVBYSEJwWExEWTl4M1E?oc=5)
+
+2026-03-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Tiscali Notizie](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzVpdVhJbS12ekItQjB3eWZnX2REUE5UNFlJR0NueGo1NUtJT0t0aGdLZW1ncEYxY2sxNEFGa0VfcF8zbWVSQ3BkQVI0UVlIUzJnaVBJbTZBQ3B4R2ZWXzFLaVljU2F0Uk03UFBtNkpWWXVxVmFwS0FuOXhVOWF3eTV0Zng5QXBWdXfSAY8BQVVfeXFMTTFEb1U2WElLdjhJVmhYcUJ1NWFhejRwdUxYR2dEZU00RkNtMVBUV0VCSjlNdWNWWTcycEFLZ084OXp2V0RaOE1BaVdWUE5Tanc1eE1yUjNlQW5Rb2R6WEZSOTVTZy00cDZMbWJLc0oxYTZOVFJhcmF5YTF1eXozSnAxLVBYSEJwWExEWTl4M1E?oc=5)
+
+---
+
+### [Téléphone portable et cancer : le verdict de l’ANSES - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWROZ3JaZjhHWUlZa01rMFl1bFRBei1HTVZRb1M3QnJweWpkajJ3LVFNVFk2cmlxNFJma3N0SHR5LXV5WGtnNmYxaER4UUpNNGU5RFNGN1lLVkUxeDI5c2Q0LWRLZ2JyakVib0xIX2hWOE12dlU4NW5JYUVzOGRfUTc2Y1J5R2p4NXdVbmEzZHZWbHV2YmZ6cGhwOENhelVqX1ExbURsb0s2VHc?oc=5)
 
 2026-03-19 <span class="news-indication-tag">cancer</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi8AFBVV95cUxORU1kVlFSRnhkRl9kZHU1YUtCNHJFVW50UHVRbHdvWDI5RlBveWJqd1dMT2g2Si15SEtsN01EZjZkSUROdkFST2VfVUFrOU9UMk1yeGtpMXE1d3Z6dFZqVERfTXZWMkVnNXFYc0U5XzE5NE9uZDN5NGQ4dE5POXF2SmsxVXktdkFKcVZuYTZfbUpFX2duYXlnWlZQQ25iNk5oeEw3SHY1WldRWmRyc29ZMXotOHVmUXpTSDF3OUszajA4THFRZTlBek1UOUxhc0kybGZVTFc3dGpmRVFwQjM0ZGxpSXVJR1MwY3RIaElEcy0?oc=5)
+來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWROZ3JaZjhHWUlZa01rMFl1bFRBei1HTVZRb1M3QnJweWpkajJ3LVFNVFk2cmlxNFJma3N0SHR5LXV5WGtnNmYxaER4UUpNNGU5RFNGN1lLVkUxeDI5c2Q0LWRLZ2JyakVib0xIX2hWOE12dlU4NW5JYUVzOGRfUTc2Y1J5R2p4NXdVbmEzZHZWbHV2YmZ6cGhwOENhelVqX1ExbURsb0s2VHc?oc=5)
 
 ---
 
@@ -66,11 +114,11 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [Napoli, al Cotugno 51 ricoveri per epatite A: scatta l’allarme sui frutti di mare - la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUV4OTNSUlpoZVdVcXJYM2kzRGNnUS1BcEtkUFlQSmMzRm5qN2dBOUlYSWRpbmhfZWRWQUUxS0ZZU25rUHNRSm52M2VhMnBsYkhDQXBlWGlMYUtnUmplcEU0TFhYN3Q5YnY2SThZSTVvQ09RLWZkRzd0Z1JKMVZYNTRzVlhQUEJQZ1I1ZlViWGljaXZWNUtITXZtRUFMcXhlNzhoWVJXaVpqOERHS1VlVlp0Y3dRd3QyTTFfc0xXZGlTWXMwdXkwOFJhbUNzd0ZfZndoZkpQNA?oc=5)
+### [« Les potentialités sont énormes » : la piste prometteuse des cellules anticancer fabriquées directement dans l’organisme - Le Figaro Santé](https://news.google.com/rss/articles/CBMi8AFBVV95cUxORU1kVlFSRnhkRl9kZHU1YUtCNHJFVW50UHVRbHdvWDI5RlBveWJqd1dMT2g2Si15SEtsN01EZjZkSUROdkFST2VfVUFrOU9UMk1yeGtpMXE1d3Z6dFZqVERfTXZWMkVnNXFYc0U5XzE5NE9uZDN5NGQ4dE5POXF2SmsxVXktdkFKcVZuYTZfbUpFX2duYXlnWlZQQ25iNk5oeEw3SHY1WldRWmRyc29ZMXotOHVmUXpTSDF3OUszajA4THFRZTlBek1UOUxhc0kybGZVTFc3dGpmRVFwQjM0ZGxpSXVJR1MwY3RIaElEcy0?oc=5)
 
-2026-03-19 <span class="news-indication-tag">epatite</span>
+2026-03-19 <span class="news-indication-tag">cancer</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUV4OTNSUlpoZVdVcXJYM2kzRGNnUS1BcEtkUFlQSmMzRm5qN2dBOUlYSWRpbmhfZWRWQUUxS0ZZU25rUHNRSm52M2VhMnBsYkhDQXBlWGlMYUtnUmplcEU0TFhYN3Q5YnY2SThZSTVvQ09RLWZkRzd0Z1JKMVZYNTRzVlhQUEJQZ1I1ZlViWGljaXZWNUtITXZtRUFMcXhlNzhoWVJXaVpqOERHS1VlVlp0Y3dRd3QyTTFfc0xXZGlTWXMwdXkwOFJhbUNzd0ZfZndoZkpQNA?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi8AFBVV95cUxORU1kVlFSRnhkRl9kZHU1YUtCNHJFVW50UHVRbHdvWDI5RlBveWJqd1dMT2g2Si15SEtsN01EZjZkSUROdkFST2VfVUFrOU9UMk1yeGtpMXE1d3Z6dFZqVERfTXZWMkVnNXFYc0U5XzE5NE9uZDN5NGQ4dE5POXF2SmsxVXktdkFKcVZuYTZfbUpFX2duYXlnWlZQQ25iNk5oeEw3SHY1WldRWmRyc29ZMXotOHVmUXpTSDF3OUszajA4THFRZTlBek1UOUxhc0kybGZVTFc3dGpmRVFwQjM0ZGxpSXVJR1MwY3RIaElEcy0?oc=5)
 
 ---
 
@@ -122,19 +170,19 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [Salute orale, non solo carie: in Italia circa 9.750 nuove diagnosi di tumori testa e collo - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnVuTDh2YVY5ZWlyS0NQalRrcEtmSkNabkkzWFFoZFpEZVVtLUp0YzczR01vdFYxTDZGRmZFNER2SmJ4NkpTT2VxMUdiVEJhci1NNHFnQlVrMXFPX2tvOU5MaFN6RWtBTTR5Ni0yOGhHcTFJRnhsREZIUzZLbWlPNjVIdXpQR2FQY293aEdLbVYyOFRZRnNnak9Ual8tX3lRNWw2U1NlVUl6TE5WMkttVkczZ256VXFkSmFpWjFMWQ?oc=5)
-
-2026-03-18 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnVuTDh2YVY5ZWlyS0NQalRrcEtmSkNabkkzWFFoZFpEZVVtLUp0YzczR01vdFYxTDZGRmZFNER2SmJ4NkpTT2VxMUdiVEJhci1NNHFnQlVrMXFPX2tvOU5MaFN6RWtBTTR5Ni0yOGhHcTFJRnhsREZIUzZLbWlPNjVIdXpQR2FQY293aEdLbVYyOFRZRnNnak9Ual8tX3lRNWw2U1NlVUl6TE5WMkttVkczZ256VXFkSmFpWjFMWQ?oc=5)
-
----
-
-### [Un estudio en ratones y tejido humano muestra que el antioxidante glutatión nutre a las células cancerosas - Science Media Centre España](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3RFVkI2UjBDcVdSXzFlN0JhUXc4OEsySlBMbkVhWlc1dkFLU0FKakRBaGY1S0lIV2dGVUdxeGloWWIyRFRmZnc5U2tVeW5pUHozaHRESFBnaldwNlFZTWk0OTNOVE9SRC04Y29vbUxGbkpwcVpteW0xbmhwdlIyZGFXS05ta21CX0p4dGx0QUFGYkU4eEpKbW1GZ1pOVkJYYzEwck1jMEZkcHhFdmtHdmE0QWpDU3V4LU45dmw4dHY?oc=5)
+### [Cancer colorectal : après un test positif, ces délais de coloscopie qui peuvent augmenter le risque de décès](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTDR5ZG1UZTRKWXpOYkp1UHU4UWFQRWJGUl9CdkdZT0taMXI3RWl0NmxDclFfTEh1dmx0eC1ySkpNTEswVE1paERNOGJMUFdoRnh6bkN5aS0tcWZkOW1MRGhrel9mbE1PdHJ0dG5DVVNpMkluQ1Y5OUtfX18tUDRfbEF3cmxJbTFzMG1LYnNnMFBUNlFDNFZxNjZHamRYRFdUdkJrQ1ZrLXprREd2UkhOYUR6bDNYT2xfRWhTMWN0OXF2ZnhRRklHamp3M3lVMTFlSGh6bXAyYkgwSVk?oc=5)
 
 2026-03-18 <span class="news-indication-tag">cancer</span>
 
-來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3RFVkI2UjBDcVdSXzFlN0JhUXc4OEsySlBMbkVhWlc1dkFLU0FKakRBaGY1S0lIV2dGVUdxeGloWWIyRFRmZnc5U2tVeW5pUHozaHRESFBnaldwNlFZTWk0OTNOVE9SRC04Y29vbUxGbkpwcVpteW0xbmhwdlIyZGFXS05ta21CX0p4dGx0QUFGYkU4eEpKbW1GZ1pOVkJYYzEwck1jMEZkcHhFdmtHdmE0QWpDU3V4LU45dmw4dHY?oc=5)
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTDR5ZG1UZTRKWXpOYkp1UHU4UWFQRWJGUl9CdkdZT0taMXI3RWl0NmxDclFfTEh1dmx0eC1ySkpNTEswVE1paERNOGJMUFdoRnh6bkN5aS0tcWZkOW1MRGhrel9mbE1PdHJ0dG5DVVNpMkluQ1Y5OUtfX18tUDRfbEF3cmxJbTFzMG1LYnNnMFBUNlFDNFZxNjZHamRYRFdUdkJrQ1ZrLXprREd2UkhOYUR6bDNYT2xfRWhTMWN0OXF2ZnhRRklHamp3M3lVMTFlSGh6bXAyYkgwSVk?oc=5)
+
+---
+
+### [Long dismissed in adult health, the thymus may be critical for longevity and cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQS01TSXBIaDg1Ynh3SmxDRlN2SllrZ0o3dEMyN3M2RGN1ZVkweE1RZS1VTUcxRXptcVNhSEVJT2dQZHdtZWZETGJVM3FmaDZJaGxnajE1RDNab0QwTFhONjBsLU1xdlVwbXlkbmlYNjNRNmFvTEo4NExGOElVaGphNlNQd2JWMFlUQnc?oc=5)
+
+2026-03-18 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQS01TSXBIaDg1Ynh3SmxDRlN2SllrZ0o3dEMyN3M2RGN1ZVkweE1RZS1VTUcxRXptcVNhSEVJT2dQZHdtZWZETGJVM3FmaDZJaGxnajE1RDNab0QwTFhONjBsLU1xdlVwbXlkbmlYNjNRNmFvTEo4NExGOElVaGphNlNQd2JWMFlUQnc?oc=5)
 
 ---
 
@@ -210,14 +258,6 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [El Hospital Universitario de Guadalajara recibe el reconocimiento de Excelencia en la implementación del Decálogo para la Eliminación de la Hepatitis C - Gobierno de Castilla-La Mancha](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVVlkdlNGTWF2OF9Ibk9pcUMyLS1BTmg1dl8wTDNubVhXWHZzODdDTWtIU01hdXZwYUliVHYzZFdUdVZ4TndrWlkxRjJmNlhfb3B2Mk56WUFRYzAycUxYeGM2U0JRczJDUk5KM3ZqYS1YbVVmZEtzQzdtcTVSQjloSFZoYnhsRU92aC1jV2pSc2t4dlZ1bmxMRjRlaml5RVBvTmE1S2JZWTRjc18yVU5oU3NGbUhmTHA5czRTVTNyN1picVlFMjVVNlVabkRyM1BqXzBzTmJhZFo2WmxEendZdnF5X3NhWUN4QVU4aHdsTUhtMVY5?oc=5)
-
-2026-03-18 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Gobierno de Castilla-La Mancha](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVVlkdlNGTWF2OF9Ibk9pcUMyLS1BTmg1dl8wTDNubVhXWHZzODdDTWtIU01hdXZwYUliVHYzZFdUdVZ4TndrWlkxRjJmNlhfb3B2Mk56WUFRYzAycUxYeGM2U0JRczJDUk5KM3ZqYS1YbVVmZEtzQzdtcTVSQjloSFZoYnhsRU92aC1jV2pSc2t4dlZ1bmxMRjRlaml5RVBvTmE1S2JZWTRjc18yVU5oU3NGbUhmTHA5czRTVTNyN1picVlFMjVVNlVabkRyM1BqXzBzTmJhZFo2WmxEendZdnF5X3NhWUN4QVU4aHdsTUhtMVY5?oc=5)
-
----
-
 ### [Dieta vegetariana e tumori: il maxi studio Oxford su 1,8 milioni di persone cambia il quadro del rischio - Tiscali Notizie](https://news.google.com/rss/articles/CBMigAFBVV95cUxPa193QkJiZTktc1FjcVBrcXZJSGlWSlRlSmh3dVhQdEpZdzJYQmdrbjQwbmxNZkZpY2pSNDNYVTlXYTlrMUo0STl5RDZmbld5bENRWkFhWGNzeURhcXRtUTNOVk5CS2hsQTFtbloyb1RvTnREengwZUpWRDBSd0M1a9IBhgFBVV95cUxOT3F4dUgxWkJqaTlCNGFpNml2Y2Y2MlpMSlRNVG5qbkRON1hjZEhaT20xVm5DdGk4UmZESTVKVWU1MTlwQk9XNFZnb3pqdlF5Rjhyejl5WS01VW16RWpIdDEza2dDYW9lTi1IaVNMenpyU1pLUFY3Y2NTdjlQRG4zY0UtQXZ2UQ?oc=5)
 
 2026-03-18 <span class="news-indication-tag">tumor</span>
@@ -242,14 +282,6 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [Si fa asportare seni e ovaie per prevenire il tumore: “Rischiavo troppo coi miei geni” - la Repubblica](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcERuRnRjTk9iUVhRelRfVHB1ZWRzamEzTGNmQ3dQb3FoM0EyV1oxWnRLb1VjNnhqV2dsa3dtXzhmSGFmYVVuYUExX2VxMTFPR2RfRFphMnZIQVN2Q0RUS1RWSEFRcjdhOGttbkxncGFWX21LcTBNT2Vmal9QYXduRHF5c01IUlVkUk5hU0JxcGpadjBNN3pUTWZ1MmllVTNKdzZSR3JkSHJERmI5bEEwcU5teDRseXBjUmtKeF9ucVdjQWNhUGlIem5oYkFVakZBMGhFbURKNXVmN0hqdmlTTjd3?oc=5)
-
-2026-03-18 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcERuRnRjTk9iUVhRelRfVHB1ZWRzamEzTGNmQ3dQb3FoM0EyV1oxWnRLb1VjNnhqV2dsa3dtXzhmSGFmYVVuYUExX2VxMTFPR2RfRFphMnZIQVN2Q0RUS1RWSEFRcjdhOGttbkxncGFWX21LcTBNT2Vmal9QYXduRHF5c01IUlVkUk5hU0JxcGpadjBNN3pUTWZ1MmllVTNKdzZSR3JkSHJERmI5bEEwcU5teDRseXBjUmtKeF9ucVdjQWNhUGlIem5oYkFVakZBMGhFbURKNXVmN0hqdmlTTjd3?oc=5)
-
----
-
 ### [Wie die vegetarische Ernährung das Krebsrisiko beeinflusst - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1czanZXd3Nwa3BaU3FKNW11SGVRMlJKVm1lQUM3ZmVwYVUxWUhhcnYwNFB5Tm9yYl8zQ2JWVVMxNFl3SnhRRmJYYmJENU12NDdDRGwyVjNtSjNwWmZnTUxvWGtkMzAyLWNjbTg1bW5RbHhCNDNyWFJlOWpjckpQeTA0anpLbkctalM0ckQwdkstcnRENWNibTF4b1ZFdWFkWDFEVzR5OC1CN3lTQnhMUjYyZ0ZnVGktRXo2a2xqV2JCdEVP?oc=5)
 
 2026-03-18 <span class="news-indication-tag">Krebs</span>
@@ -258,35 +290,11 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [Wie Vitamin B2 den Weg zu neuen Krebstherapien eröffnen kann - JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmYwYXhkOFEzWE9iWUdwcmszR083bkZMMkVpT0pPa1pBWnVtVW40bk9VX0J1SkJPTGpRMFNSV3VLYkFfd3NCOXVGdWxITlVmZWIwVmtIc1FqNmszMjgtdDM1MEoxc3E1c1ZPOGMwR1ZGbENITU9OSnBMTTFTUFpmc2hQYVlOS3gyeXV5RFgxMTdZNWFPU3pnYV9SeXF5LTFXejZrajZTVQ?oc=5)
+### [Tumore al seno, un nuovo farmaco riduce il rischio di recidive e metastasi che possono verificarsi anche dopo 20 anni - Il Messaggero](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFhBUUNRYXhRNGZaQU1sMHFiNlB4UEVUUU1tZVVGb2RvTlJ0UkZMcGgzNmk2Y1BlQ2xfeFNZcUlVVG1RSXhfeDNyR1c4T1Q2YXhuVkgxV0tKRUxmcGtZMjZtY3QyTEZZOHk0QTBHSE9OZlR6V1hjUGJZSEF0aUJiVzhBc0ZkOEVPOWZWcG1yMVBZNzdTd0syaUJaR0fSAZoBQVVfeXFMTUhPeFhlcUFZQzZXSEtmcWF4OHlyeFlWRWRNX2RyN0VjTzR5ZFJPN1Q0a2hMdWl2Qzg1WkxrLWhrZGFFYVMwMkVIZVBfVmhVc3NTVGxOMmNkUGhJVTVwSmlQVm10QW9MejMtc3h1RHJuUW5pbGc5N09RWVpJeHF3dERTcnFxelpaMXVsVV82cGpjRHBDcmhWRTFDUQ?oc=5)
 
-2026-03-18 <span class="news-indication-tag">Krebs</span>
+2026-03-16 <span class="news-indication-tag">tumor</span>
 
-來源：[JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmYwYXhkOFEzWE9iWUdwcmszR083bkZMMkVpT0pPa1pBWnVtVW40bk9VX0J1SkJPTGpRMFNSV3VLYkFfd3NCOXVGdWxITlVmZWIwVmtIc1FqNmszMjgtdDM1MEoxc3E1c1ZPOGMwR1ZGbENITU9OSnBMTTFTUFpmc2hQYVlOS3gyeXV5RFgxMTdZNWFPU3pnYV9SeXF5LTFXejZrajZTVQ?oc=5)
-
----
-
-### [Medical student Alex Warwick dies after brain tumour battle](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSXF4T1MyNG8teVEzNXo1Zmk0M3hYRk9YY05qQmppSkQ1Mk5jTUtlTjk0dVpTVnpFaXA5S0liTHEzRGVjUWFQN00xZEV6MEU0TnJRY1M1c0dxbEtj?oc=5)
-
-2026-03-17 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSXF4T1MyNG8teVEzNXo1Zmk0M3hYRk9YY05qQmppSkQ1Mk5jTUtlTjk0dVpTVnpFaXA5S0liTHEzRGVjUWFQN00xZEV6MEU0TnJRY1M1c0dxbEtj?oc=5)
-
----
-
-### [Prostata-tumor: laser schaltet krebszellen aus – ohne organ zu ve...](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMk8tSjY4SldDaGxMY2tfWjlDdm42bXZwODRhUHRaS1B5aU1QUWhvR3VuejJDOUFnWmsweHNncTB0cjcwOVR3SlN4THNCQnlEeFNsMDloVlo2eEV1T2UxVFN6b19TbzFGbU9qWHExaWYwOFlrelVBZzNMSDlvR3BUSi0ta21yR0VqQ2dYN0RsdVRYVnVZVVN5MjRabVRtSHJBOWtj?oc=5)
-
-2026-03-17 <span class="news-indication-tag">tumor</span>
-
-來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMk8tSjY4SldDaGxMY2tfWjlDdm42bXZwODRhUHRaS1B5aU1QUWhvR3VuejJDOUFnWmsweHNncTB0cjcwOVR3SlN4THNCQnlEeFNsMDloVlo2eEV1T2UxVFN6b19TbzFGbU9qWHExaWYwOFlrelVBZzNMSDlvR3BUSi0ta21yR0VqQ2dYN0RsdVRYVnVZVVN5MjRabVRtSHJBOWtj?oc=5)
-
----
-
-### [Colorectal cancer is now the most common cause of cancer deaths in the US for people under 50 - Live Science](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWdBX19mVVN4Y3U0bjR3Mm95VnhpQUZPUFQyT1BrQm5fbEpYV3dVNXl5TlIySFljbkRKZGpRTk5lMXN5N3FXX1gySmdMZmNDUHB0WjlHT3JOeVNybTlweTYxdE1ScnU5YzJQRERRVE84TGtoOWk4Nkk1QzRKaXhaQ19ud0MwbmVUOGtYVW5KRXNpb21QODNMcVVBQ3Q2TjhlRFo4aW5sQ3loWGVtZWZWeGxNZzloWDg4NkE2UHdpOGpnb0JrLWJWbHVZYUo4TFNW?oc=5)
-
-2026-03-17 <span class="news-indication-tag">cancer</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWdBX19mVVN4Y3U0bjR3Mm95VnhpQUZPUFQyT1BrQm5fbEpYV3dVNXl5TlIySFljbkRKZGpRTk5lMXN5N3FXX1gySmdMZmNDUHB0WjlHT3JOeVNybTlweTYxdE1ScnU5YzJQRERRVE84TGtoOWk4Nkk1QzRKaXhaQ19ud0MwbmVUOGtYVW5KRXNpb21QODNMcVVBQ3Q2TjhlRFo4aW5sQ3loWGVtZWZWeGxNZzloWDg4NkE2UHdpOGpnb0JrLWJWbHVZYUo4TFNW?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFhBUUNRYXhRNGZaQU1sMHFiNlB4UEVUUU1tZVVGb2RvTlJ0UkZMcGgzNmk2Y1BlQ2xfeFNZcUlVVG1RSXhfeDNyR1c4T1Q2YXhuVkgxV0tKRUxmcGtZMjZtY3QyTEZZOHk0QTBHSE9OZlR6V1hjUGJZSEF0aUJiVzhBc0ZkOEVPOWZWcG1yMVBZNzdTd0syaUJaR0fSAZoBQVVfeXFMTUhPeFhlcUFZQzZXSEtmcWF4OHlyeFlWRWRNX2RyN0VjTzR5ZFJPN1Q0a2hMdWl2Qzg1WkxrLWhrZGFFYVMwMkVIZVBfVmhVc3NTVGxOMmNkUGhJVTVwSmlQVm10QW9MejMtc3h1RHJuUW5pbGc5N09RWVpJeHF3dERTcnFxelpaMXVsVV82cGpjRHBDcmhWRTFDUQ?oc=5)
 
 ---
 

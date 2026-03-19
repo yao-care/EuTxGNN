@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression（depression） 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# dépression（depression） 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,29 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+### [¿Por qué el dolor crónico provoca depresión en algunas personas y en otras no?](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmpjY2RfS3FhWFNzU2ZCSDFYa0VBLTgyZ1NFQk1BYTRlM1ZIWFZ3UEZNdmluajUxajBKVHlOeFlJQlpoQ05GUmdHY0NRWHZ3M1J3Q1BZS2hzV2ZNaE9tYmRmaWY2SDF2RkZmX3h6RE9IRVV3ZUhpUG1iM0ZwRU8zRHVNOEE5dDU0NWk3UEFseU9zUGZpLVRNTV83MDFvMXJBTHViRXJpc0NVemtEdG9SS193?oc=5)
+
+2026-03-19
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmpjY2RfS3FhWFNzU2ZCSDFYa0VBLTgyZ1NFQk1BYTRlM1ZIWFZ3UEZNdmluajUxajBKVHlOeFlJQlpoQ05GUmdHY0NRWHZ3M1J3Q1BZS2hzV2ZNaE9tYmRmaWY2SDF2RkZmX3h6RE9IRVV3ZUhpUG1iM0ZwRU8zRHVNOEE5dDU0NWk3UEFseU9zUGZpLVRNTV83MDFvMXJBTHViRXJpc0NVemtEdG9SS193?oc=5)
+
+---
+
+### [Weight-loss drugs linked to lower depression and anxiety risk, study](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
+
+2026-03-19
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
+
+---
+
+### [Softdrinks & Psyche: Zuckerhaltige Getränke erhöhen Risiko für Angst und Depression](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXY5bFJqczYxQTZTNkJyMFY0Qk1IQ0pKUGdHb3BCU2FWTVJpanRJbHg0dG8ydFQxdlhadjMtUGREUVJLSFZWSlRYVElIenBzbVNFMmg3WjJkQmR6SWFBSkhydTNxSlNVVE12Zk1XTFZFVmVXQzhZc0p2QmRqTVRCLV9uS2dnZFkzdy1ubjNTdWpiZjhnNnNrbFJ2dEpWY2VBeVdPM2JYQ0c5cjZ3dkdYTHpSOG94UTd4UDJHTzlOaDJHV0U3Ymw1UXZGaUI4UHFrcXfSAdIBQVVfeXFMUHl3R0RudHZDVVhjS0ZhTExRYVlXTjBEVk5IS1FtYUpPbm5NUmctRExXMW1OY1JPZTY5enVuc2ZJYk16TEQ5NFIxamkzaUQyZW50c0hzNzdRLXRlWUVRVHdYMy1USk1Bc2YtSFBySy1WdFlXbHZIOEI3b3FZMHZ6dFdTMWRxdmxoaTRVUHU4ZUxjVF96a0kyMjZSVUw5anNvLVBZQXIxVk9kOGZldlZMdmt0MllZVGJkRVNza2E4cGdkdjZpZmVPdFphV3Z5LUVLWVpB?oc=5)
 
 2026-03-18
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+來源：[inFranken.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXY5bFJqczYxQTZTNkJyMFY0Qk1IQ0pKUGdHb3BCU2FWTVJpanRJbHg0dG8ydFQxdlhadjMtUGREUVJLSFZWSlRYVElIenBzbVNFMmg3WjJkQmR6SWFBSkhydTNxSlNVVE12Zk1XTFZFVmVXQzhZc0p2QmRqTVRCLV9uS2dnZFkzdy1ubjNTdWpiZjhnNnNrbFJ2dEpWY2VBeVdPM2JYQ0c5cjZ3dkdYTHpSOG94UTd4UDJHTzlOaDJHV0U3Ymw1UXZGaUI4UHFrcXfSAdIBQVVfeXFMUHl3R0RudHZDVVhjS0ZhTExRYVlXTjBEVk5IS1FtYUpPbm5NUmctRExXMW1OY1JPZTY5enVuc2ZJYk16TEQ5NFIxamkzaUQyZW50c0hzNzdRLXRlWUVRVHdYMy1USk1Bc2YtSFBySy1WdFlXbHZIOEI3b3FZMHZ6dFdTMWRxdmxoaTRVUHU4ZUxjVF96a0kyMjZSVUw5anNvLVBZQXIxVk9kOGZldlZMdmt0MllZVGJkRVNza2E4cGdkdjZpZmVPdFphV3Z5LUVLWVpB?oc=5)
 
 ---
 

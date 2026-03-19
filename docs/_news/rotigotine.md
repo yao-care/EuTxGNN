@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（16 則）
+
+### [Fruktose Nieren: Wie Fruchtzucker den Nieren schadet | DIE PTA](https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXdNOHdLaU9ZRjFxa25HSkg5cE9wZjI0SjE0eVVwM0FBTnZ1bWsxOTFFdTY5M3F6NW5TUk5fdHVsNnBRVjVrYllTYi1uamJ3OFNOQ0FVOWtxMTR1c0Q3OTB1WTNOZ1lnLUZtNXRIZHZZWk5URTNnaDRvTGRVY0dUcDVSM3h6Mm5UU3Fkd2tsQU16Qnp5cHJLTmJuT0JyV2ozX0Fv?oc=5)
+
+2026-03-19 <span class="news-indication-tag">MS</span>
+
+來源：[diepta.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXdNOHdLaU9ZRjFxa25HSkg5cE9wZjI0SjE0eVVwM0FBTnZ1bWsxOTFFdTY5M3F6NW5TUk5fdHVsNnBRVjVrYllTYi1uamJ3OFNOQ0FVOWtxMTR1c0Q3OTB1WTNOZ1lnLUZtNXRIZHZZWk5URTNnaDRvTGRVY0dUcDVSM3h6Mm5UU3Fkd2tsQU16Qnp5cHJLTmJuT0JyV2ozX0Fv?oc=5)
+
+---
+
+### [Dr Jonathan White: A life-changing discovery about my MS - Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHNQT1B0M0QtS2Q0M0hQS0oxYXFIcVB1WFphNEZ1TEE1a3pQcmpObkpNcXY3MUpjNUJBNkJ6MktsZk1ZcEZvUHhENFBLMDY3MTB3aTZDNVhYYU1Nd2l5Z0tmWDZUa3hUSmhvbEI5OXRkeXRiRGVhQl9idkxSc2FwTEk1TVFpLURaaWZYRXVzX1lPSXRNLWFxTEQxWDMtbzRLSVNfSjJicVVVdzlXdFpSTw?oc=5)
+
+2026-03-19 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHNQT1B0M0QtS2Q0M0hQS0oxYXFIcVB1WFphNEZ1TEE1a3pQcmpObkpNcXY3MUpjNUJBNkJ6MktsZk1ZcEZvUHhENFBLMDY3MTB3aTZDNVhYYU1Nd2l5Z0tmWDZUa3hUSmhvbEI5OXRkeXRiRGVhQl9idkxSc2FwTEk1TVFpLURaaWZYRXVzX1lPSXRNLWFxTEQxWDMtbzRLSVNfSjJicVVVdzlXdFpSTw?oc=5)
+
+---
+
+### [El dolor en la boca “no siempre viene del diente”: expertos piden afinar el diagnóstico del dolor orofacial](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEhPRF9mV3V6bEdyN05hblpPTkcwZzZUa3lRZER1eHdRcFpJc1FsUHctNTJxVnNDUGFSUkpZX0hWM3VoMTh0S1kwd3p2SHM5UVJjZUlMZ3ZtVFg5U1lPSC1ORkw2cnJlNlJvWVF5NVcyYW13WDZzQkh0YmxjWVJuRExqTzJqLUhjMDZoOWw3NjNCVEJCMk5CTGIwYWJpM1dmM2FsUHJyWXEtRjlmamVKS3o1UFlDV01zQm1ZMGFaS09FTm53N3hRV2RNVmFGcmRQRmlaU0RmMTlKczB3TWthd0JIN3lXNm0zNUFrUDR3dw?oc=5)
+
+2026-03-19 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEhPRF9mV3V6bEdyN05hblpPTkcwZzZUa3lRZER1eHdRcFpJc1FsUHctNTJxVnNDUGFSUkpZX0hWM3VoMTh0S1kwd3p2SHM5UVJjZUlMZ3ZtVFg5U1lPSC1ORkw2cnJlNlJvWVF5NVcyYW13WDZzQkh0YmxjWVJuRExqTzJqLUhjMDZoOWw3NjNCVEJCMk5CTGIwYWJpM1dmM2FsUHJyWXEtRjlmamVKS3o1UFlDV01zQm1ZMGFaS09FTm53N3hRV2RNVmFGcmRQRmlaU0RmMTlKczB3TWthd0JIN3lXNm0zNUFrUDR3dw?oc=5)
+
+---
 
 ### [PMS: Kombi aus Vitamin D und E zur Linderung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
 
@@ -50,11 +74,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+### [A ‘nail in the coffin’ for the lab-leak theory? - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjJKbElZaHJ1WGgwczZtSXJ3Y0lIWFozaHliS2JfZWdlOVJKTDFzVG9DR0EtcHNmb0lxU3hlbjM4QjJTcDVZbzR3RDUzc0JkLTZZUVJsaFpHMlk0bkgtZ1BDSEdmWVpmX2F0dWhDSGtpbDd0ZXZTLVM2VVVndGZHOFhFa2VjMDVCbHNQTEMzOUdVV1hrRlpOaWpuZjQtNnU5b0VaMVNLWmFCTHc?oc=5)
 
-2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-03-19 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjJKbElZaHJ1WGgwczZtSXJ3Y0lIWFozaHliS2JfZWdlOVJKTDFzVG9DR0EtcHNmb0lxU3hlbjM4QjJTcDVZbzR3RDUzc0JkLTZZUVJsaFpHMlk0bkgtZ1BDSEdmWVpmX2F0dWhDSGtpbDd0ZXZTLVM2VVVndGZHOFhFa2VjMDVCbHNQTEMzOUdVV1hrRlpOaWpuZjQtNnU5b0VaMVNLWmFCTHc?oc=5)
 
 ---
 
@@ -68,7 +92,7 @@ permalink: /news/rotigotine/
 
 ### [‘Terrified’ woman, 22, struck by meningitis as boyfriend, 20, fights in ICU - Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU1oRFpYZEJuMlZlV0ZQdkdmaU1IcjlrcVQtZGFxaXdIMFYzSHFZcHk1OXhrWTUtZFhDei1YeTRqdVRVQTB0YW9wWUdwbU9hMU95bHhFU1RVTVk4aExNOXVOYXctSXBKNlVOOC1ZblZSVDN1MXYyWDVvcFF6X1d6WW5rZjIxdlpQYmx6YzY3dnU1cGY3WEhHVHlReHRiQ2J6TmVjLVVQaVFRb295?oc=5)
 
-2026-03-18 <span class="news-indication-tag">MS</span>
+2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU1oRFpYZEJuMlZlV0ZQdkdmaU1IcjlrcVQtZGFxaXdIMFYzSHFZcHk1OXhrWTUtZFhDei1YeTRqdVRVQTB0YW9wWUdwbU9hMU95bHhFU1RVTVk4aExNOXVOYXctSXBKNlVOOC1ZblZSVDN1MXYyWDVvcFF6X1d6WW5rZjIxdlpQYmx6YzY3dnU1cGY3WEhHVHlReHRiQ2J6TmVjLVVQaVFRb295?oc=5)
 
@@ -122,17 +146,17 @@ permalink: /news/rotigotine/
 
 ---
 
-### [FAU Erlangen-Nürnberg: Extrem tiefgekühlte Hirnregion kann nach Auftauen wieder elektrische Lernreize verarbeiten - Der Neue Wiesentbote](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY3hfVnRQNVF4OGhzU3plcHFqTzBHWWFoNjh5dExDajdvazVkbUc0QjBGc3AxdF85cndEOXQ3NW5ISEFMRkVHVzBvLTJrRmNJd2FwcndScTFrdWZhb01fS0RDSXhpWlNMZXRXcmZuVjc5U2tZRnVaRjBrZDdTMUYxbHR3TmJwSk4wU2F5N3JHbjh5NG01ZzJDWEFJOVFsay1uWkxXMEJRTEktTXlnYWNadjluV2hsVU9mOGRLRVZMVnRrQV92dVoxMTAxWUNHcy03WFBLa3R5QVNoc3Y1YUQ5VjhMT25FM1Rp?oc=5)
+### [Länger leben mit Multivitaminen – stimmt das?](https://news.google.com/rss/articles/CBMinAFBVV95cUxORFB5MWtyaHJNb19EZUZpaDhBbDBHRTc0cWxubXI0S19RLUt5Q0RWVTNpN185UnBkOVJxLXdFTzlyUjV3ellTZ0x6aVpPZ2Z6cFJUMU96MG9pVG9uY2pfMjlfQmYyV1ZqRjk4dTczWDhSX3lPNWJzSjNmZk5sYl80WEg0UFg3Z1NDaWpNWHJoSWw1dmtnbnZaSUExNVY?oc=5)
 
-2026-03-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-18 <span class="news-indication-tag">MS</span>
 
-來源：[Der Neue Wiesentbote](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY3hfVnRQNVF4OGhzU3plcHFqTzBHWWFoNjh5dExDajdvazVkbUc0QjBGc3AxdF85cndEOXQ3NW5ISEFMRkVHVzBvLTJrRmNJd2FwcndScTFrdWZhb01fS0RDSXhpWlNMZXRXcmZuVjc5U2tZRnVaRjBrZDdTMUYxbHR3TmJwSk4wU2F5N3JHbjh5NG01ZzJDWEFJOVFsay1uWkxXMEJRTEktTXlnYWNadjluV2hsVU9mOGRLRVZMVnRrQV92dVoxMTAxWUNHcy03WFBLa3R5QVNoc3Y1YUQ5VjhMT25FM1Rp?oc=5)
+來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMinAFBVV95cUxORFB5MWtyaHJNb19EZUZpaDhBbDBHRTc0cWxubXI0S19RLUt5Q0RWVTNpN185UnBkOVJxLXdFTzlyUjV3ellTZ0x6aVpPZ2Z6cFJUMU96MG9pVG9uY2pfMjlfQmYyV1ZqRjk4dTczWDhSX3lPNWJzSjNmZk5sYl80WEg0UFg3Z1NDaWpNWHJoSWw1dmtnbnZaSUExNVY?oc=5)
 
 ---
 
 ### [Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
 
-2026-03-17 <span class="news-indication-tag">MS</span>
+2026-03-18 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
 

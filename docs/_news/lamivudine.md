@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lamivudine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/lamivudine/
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Napoli, al Cotugno 51 ricoveri per epatite A: scatta l’allarme sui frutti di mare - la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUV4OTNSUlpoZVdVcXJYM2kzRGNnUS1BcEtkUFlQSmMzRm5qN2dBOUlYSWRpbmhfZWRWQUUxS0ZZU25rUHNRSm52M2VhMnBsYkhDQXBlWGlMYUtnUmplcEU0TFhYN3Q5YnY2SThZSTVvQ09RLWZkRzd0Z1JKMVZYNTRzVlhQUEJQZ1I1ZlViWGljaXZWNUtITXZtRUFMcXhlNzhoWVJXaVpqOERHS1VlVlp0Y3dRd3QyTTFfc0xXZGlTWXMwdXkwOFJhbUNzd0ZfZndoZkpQNA?oc=5)
+### [Allarme epatite A a Napoli, 43 ricoverati al Cotugno: "Barelle in pronto soccorso"](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdEtBTWlzREYxZ0hqczVGbFRxeVM2LWt3NGFzTk9KR1BWQUhDamhpbVJkX2JNb0tNRElNX1U0YmhUUXFjRjQ0Vmd1RWJ0V2dhMllEMUlRZGtjUzVDeXJJR0lsYURBWmxTRnRBbzV0TGRINkxEN2FqMDE2TENKZXRZV0lNU0RMNVZkUDJUQjF3LWxWRDJpN2tpMWN3TE1Tb1B6S1dzNzhZS0J3allEOGdUWWlRck9rN0tkYWZXTlRwTEVwN3BESzhpYXNkOEtQQkNuRTRTOTJ0LVV3dXJCR1liOE9RazlhMlhBNTBwUVE0Nng2blRya3lYcmVmNFjSAYICQVVfeXFMTVR6VVFKWmc1cDdiREJSU2ktMnJDX1hVcllKZlkxSUt0VkVvZjZPNkdEck9pSWJHTUZNZC1aSmdsT0hlWndTNHhLMFRjNVY3QWpxMkNyblFfZ3REcVlvQVpXU0dJN0FXSVI5Tk5pYldPQVVzdlhEcnBxTG50bzV4U09pQWloVW5QcFB2czRLbm14Z0VBU0dtZHA3eUpPQzVBMGdBMkdkLVBpbE9xZV9VUk1INDJJMndfeXpuXzlJeXJ4eW4tdWpUZ1h5MHRkTlVldGhYSy1IZllkeWhoVnZDUXUwRUJPVk8wRTNyY2gtNjNUZWtkSUJyRWVEUTJ6SXZyVUtR?oc=5)
 
 2026-03-19 <span class="news-indication-tag">epatite</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUV4OTNSUlpoZVdVcXJYM2kzRGNnUS1BcEtkUFlQSmMzRm5qN2dBOUlYSWRpbmhfZWRWQUUxS0ZZU25rUHNRSm52M2VhMnBsYkhDQXBlWGlMYUtnUmplcEU0TFhYN3Q5YnY2SThZSTVvQ09RLWZkRzd0Z1JKMVZYNTRzVlhQUEJQZ1I1ZlViWGljaXZWNUtITXZtRUFMcXhlNzhoWVJXaVpqOERHS1VlVlp0Y3dRd3QyTTFfc0xXZGlTWXMwdXkwOFJhbUNzd0ZfZndoZkpQNA?oc=5)
-
----
-
-### [El Hospital Universitario de Guadalajara recibe el reconocimiento de Excelencia en la implementación del Decálogo para la Eliminación de la Hepatitis C - Gobierno de Castilla-La Mancha](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVVlkdlNGTWF2OF9Ibk9pcUMyLS1BTmg1dl8wTDNubVhXWHZzODdDTWtIU01hdXZwYUliVHYzZFdUdVZ4TndrWlkxRjJmNlhfb3B2Mk56WUFRYzAycUxYeGM2U0JRczJDUk5KM3ZqYS1YbVVmZEtzQzdtcTVSQjloSFZoYnhsRU92aC1jV2pSc2t4dlZ1bmxMRjRlaml5RVBvTmE1S2JZWTRjc18yVU5oU3NGbUhmTHA5czRTVTNyN1picVlFMjVVNlVabkRyM1BqXzBzTmJhZFo2WmxEendZdnF5X3NhWUN4QVU4aHdsTUhtMVY5?oc=5)
-
-2026-03-18 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Gobierno de Castilla-La Mancha](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVVlkdlNGTWF2OF9Ibk9pcUMyLS1BTmg1dl8wTDNubVhXWHZzODdDTWtIU01hdXZwYUliVHYzZFdUdVZ4TndrWlkxRjJmNlhfb3B2Mk56WUFRYzAycUxYeGM2U0JRczJDUk5KM3ZqYS1YbVVmZEtzQzdtcTVSQjloSFZoYnhsRU92aC1jV2pSc2t4dlZ1bmxMRjRlaml5RVBvTmE1S2JZWTRjc18yVU5oU3NGbUhmTHA5czRTVTNyN1picVlFMjVVNlVabkRyM1BqXzBzTmJhZFo2WmxEendZdnF5X3NhWUN4QVU4aHdsTUhtMVY5?oc=5)
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdEtBTWlzREYxZ0hqczVGbFRxeVM2LWt3NGFzTk9KR1BWQUhDamhpbVJkX2JNb0tNRElNX1U0YmhUUXFjRjQ0Vmd1RWJ0V2dhMllEMUlRZGtjUzVDeXJJR0lsYURBWmxTRnRBbzV0TGRINkxEN2FqMDE2TENKZXRZV0lNU0RMNVZkUDJUQjF3LWxWRDJpN2tpMWN3TE1Tb1B6S1dzNzhZS0J3allEOGdUWWlRck9rN0tkYWZXTlRwTEVwN3BESzhpYXNkOEtQQkNuRTRTOTJ0LVV3dXJCR1liOE9RazlhMlhBNTBwUVE0Nng2blRya3lYcmVmNFjSAYICQVVfeXFMTVR6VVFKWmc1cDdiREJSU2ktMnJDX1hVcllKZlkxSUt0VkVvZjZPNkdEck9pSWJHTUZNZC1aSmdsT0hlWndTNHhLMFRjNVY3QWpxMkNyblFfZ3REcVlvQVpXU0dJN0FXSVI5Tk5pYldPQVVzdlhEcnBxTG50bzV4U09pQWloVW5QcFB2czRLbm14Z0VBU0dtZHA3eUpPQzVBMGdBMkdkLVBpbE9xZV9VUk1INDJJMndfeXpuXzlJeXJ4eW4tdWpUZ1h5MHRkTlVldGhYSy1IZllkeWhoVnZDUXUwRUJPVk8wRTNyY2gtNjNUZWtkSUJyRWVEUTJ6SXZyVUtR?oc=5)
 
 ---
 

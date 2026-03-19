@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="Mirvetuximab Soravtansine 有什麼相關新聞？">
-<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ permalink: /news/mirvetuximab-soravtansine/
 <p><a href="{{ '/drugs/mirvetuximab-soravtansine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La Jiménez Díaz pone el foco en el impacto del asma en las mujeres - Redacción Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2pyZVJfakVKTkNuOEdfMEtBRzE1SmppZ1J0YkRXdFMwNmRIUHFaTGNCdTlUQXZSV3FGVUh4M0t5c1pabVQzbGNlUi1HVkFGdThra2Y1UndOWGFHNlUwcmxuNXFfMlNqRmM0OE80VXdhUUR1eWxlTnQtWXJzVTBzUTBNLUtJSUFaa1JfZnVKMFgxMGNSd3NlNlRKUXo1STBScElybElFeGVuR0lVZHRzc2FzUGFPZHhObVRVQkV30gG-AUFVX3lxTE9XbGVWbDJDQkl6M0thbkJGT2Y4SllldDBuN3VxVmtFSnFLYmM1Y2RpUk5BMTI2VG16S3VuM19jcUVnSElfUTVJZV9XZGFjb2hIRHVSS2loSmdWT1otcDh4Zm1xZmVDSFdGV2NCd0RPdGgydThhcDc3VkRvRm8tUzk1OFFDNGhjNWg5RVF4ekpGSFVJc01zM1Y1YW1Vdk1jM0UwU1FxY0VwVVpPbl9Ib19IWWo0OVJXWFRBOFRGNVE?oc=5)
+
+2026-03-19 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2pyZVJfakVKTkNuOEdfMEtBRzE1SmppZ1J0YkRXdFMwNmRIUHFaTGNCdTlUQXZSV3FGVUh4M0t5c1pabVQzbGNlUi1HVkFGdThra2Y1UndOWGFHNlUwcmxuNXFfMlNqRmM0OE80VXdhUUR1eWxlTnQtWXJzVTBzUTBNLUtJSUFaa1JfZnVKMFgxMGNSd3NlNlRKUXo1STBScElybElFeGVuR0lVZHRzc2FzUGFPZHhObVRVQkV30gG-AUFVX3lxTE9XbGVWbDJDQkl6M0thbkJGT2Y4SllldDBuN3VxVmtFSnFLYmM1Y2RpUk5BMTI2VG16S3VuM19jcUVnSElfUTVJZV9XZGFjb2hIRHVSS2loSmdWT1otcDh4Zm1xZmVDSFdGV2NCd0RPdGgydThhcDc3VkRvRm8tUzk1OFFDNGhjNWg5RVF4ekpGSFVJc01zM1Y1YW1Vdk1jM0UwU1FxY0VwVVpPbl9Ib19IWWo0OVJXWFRBOFRGNVE?oc=5)
+
+---
 
 
 <div class="disclaimer">

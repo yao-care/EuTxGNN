@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
 
 2026-03-18 <span class="news-indication-tag">arthritis</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
-
----
-
-### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination | Well actually - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
-
-2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 ---
 

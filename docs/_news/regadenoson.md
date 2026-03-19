@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [La Jiménez Díaz pone el foco en el impacto del asma en las mujeres - Redacción Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2pyZVJfakVKTkNuOEdfMEtBRzE1SmppZ1J0YkRXdFMwNmRIUHFaTGNCdTlUQXZSV3FGVUh4M0t5c1pabVQzbGNlUi1HVkFGdThra2Y1UndOWGFHNlUwcmxuNXFfMlNqRmM0OE80VXdhUUR1eWxlTnQtWXJzVTBzUTBNLUtJSUFaa1JfZnVKMFgxMGNSd3NlNlRKUXo1STBScElybElFeGVuR0lVZHRzc2FzUGFPZHhObVRVQkV30gG-AUFVX3lxTE9XbGVWbDJDQkl6M0thbkJGT2Y4SllldDBuN3VxVmtFSnFLYmM1Y2RpUk5BMTI2VG16S3VuM19jcUVnSElfUTVJZV9XZGFjb2hIRHVSS2loSmdWT1otcDh4Zm1xZmVDSFdGV2NCd0RPdGgydThhcDc3VkRvRm8tUzk1OFFDNGhjNWg5RVF4ekpGSFVJc01zM1Y1YW1Vdk1jM0UwU1FxY0VwVVpPbl9Ib19IWWo0OVJXWFRBOFRGNVE?oc=5)
+
+2026-03-19 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2pyZVJfakVKTkNuOEdfMEtBRzE1SmppZ1J0YkRXdFMwNmRIUHFaTGNCdTlUQXZSV3FGVUh4M0t5c1pabVQzbGNlUi1HVkFGdThra2Y1UndOWGFHNlUwcmxuNXFfMlNqRmM0OE80VXdhUUR1eWxlTnQtWXJzVTBzUTBNLUtJSUFaa1JfZnVKMFgxMGNSd3NlNlRKUXo1STBScElybElFeGVuR0lVZHRzc2FzUGFPZHhObVRVQkV30gG-AUFVX3lxTE9XbGVWbDJDQkl6M0thbkJGT2Y4SllldDBuN3VxVmtFSnFLYmM1Y2RpUk5BMTI2VG16S3VuM19jcUVnSElfUTVJZV9XZGFjb2hIRHVSS2loSmdWT1otcDh4Zm1xZmVDSFdGV2NCd0RPdGgydThhcDc3VkRvRm8tUzk1OFFDNGhjNWg5RVF4ekpGSFVJc01zM1Y1YW1Vdk1jM0UwU1FxY0VwVVpPbl9Ib19IWWo0OVJXWFRBOFRGNVE?oc=5)
+
+---
 
 ### [Dad’s rare tumour diagnosis after being told for decade headaches were migraines - Warrington Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVVDb1A3bVU1aGFmcmVyYkhlb3RFeEZhWTN3UjY1djlEWnZSbnVmdGJhOHB3ZjVfdDFYMm9BNlljaHFxMHdpNjdMLWJrSmh6UlBjMy1lMHNueDFaZjN2dlpJUTV0eVpEcWV3TjJVTUZRcFNoUVNyY2taTXRERk9zbmxJOWxwVnZTNW01MUhkZmZia0c1LWxJeEYwRlI3Xzgxdjl3S0NFOFVlT2tV?oc=5)
 

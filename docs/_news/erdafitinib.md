@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Erdafitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Gesund im Alter: Diabetes, Cholesterin, Bluthochdruck, Adipositas – wie Sie das „tödliche Quartett“ besiegen](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUjl1MFNpc3c4REo3em9Ua016SDRKLVZ3QmpEM2xnV0FQZ0pkeVZTTDhheXVsZ3d3emVoMUdkcFNLMkh3OEFJd0lZSkZxSXBtWHZoRnNMbUwzS0JuWWlDc0xNZTItRzFtVVFiV1BZUjZBS0E3R3gwamNMVFA4Wmx0Z2wzLXhwM282UWtFU0oyY2J1WTFiTEZXTTFOUGFXVkpJeUVnM20xZl9feENiTUJUOHBPbGdBSC1HWHR1NzBjcmJFdXFtSmhzZkZJUU5iRjIzZ2F5SE1mbUNyM2FMTTd2US1IN2V2VG84LVFtVmlobFFTaTJod0trUHBB?oc=5)
 
@@ -55,14 +55,6 @@ permalink: /news/erdafitinib/
 2026-03-18 <span class="news-indication-tag">arthritis</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
-
----
-
-### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination | Well actually - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
-
-2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 ---
 

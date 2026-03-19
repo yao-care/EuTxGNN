@@ -14,7 +14,7 @@ permalink: /news/pioglitazone/
 ---
 
 <p class="key-answer" data-question="Pioglitazone 有什麼相關新聞？">
-<strong>Pioglitazone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pioglitazone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,21 @@ permalink: /news/pioglitazone/
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Weight-loss drugs linked to lower depression and anxiety risk, study](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
+
+2026-03-19 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
+
+---
 
 ### [„Als hätten sie kein Diabetes“: Ist diese Ernährung die Lösung für Erkrankte? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
 
 2026-03-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
-
----
-
-### [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
-
-2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
 
 ---
 
@@ -79,14 +79,6 @@ permalink: /news/pioglitazone/
 2026-03-18 <span class="news-indication-tag">diabetic</span>
 
 來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeW9zVi15LVZlMTBhaFJaSXEzMk9HR2E1cXRFRDFuYndfYVpQc2NYcGNNNGtIZlZOQi1aYTFXVE8yQXFXQlJ5OWM3MDMwZFFxR09zbmNkaC01eVZLR2FDRzE4TWVSWXl6R056LVJ2RUxsaHR3M2ZOSFpSbDV3MXlvR3JYZm5HTlNFbVZvZVhiYUktbU5MWV9YcnlneWFTSF9EMDBwRkpNWUxlU1RvM3g0ek9TOFZaNlpjc2F4Q3B2em10anE3cklZVWZqZ2VrWjE5WW15aVRUQVNwMmw2YThhOExfT3poWDRz0gHwAUFVX3lxTFBUOEZ6d0JUWXpmUE9tZmJ0WE05RV80NTNYZzMwMG85Z1lERXgybEdQcVBVaS1CWTRDNVEtajBoYVVMY2IzSjB6clVNeWR2WDg1bDVKZ2NqM3VHYV9UeU9pQ3RLcDZLU0huZ24wc05XWWItVUlfLTBDLXVyN1cyVk1wYmt2Y3dEZWZrR3FtRjA5RDVLSFRqT1FGeUhYMHBLcElNa1ZocnRiYzQxX19UY3Yyd0xWSTZTWmdlTXZhb1plaXRNSUhnMkc1T3dIekhvZXBrOEFxczdSUEhoZ0ZCbl9ta1pZRlVHM2V2dDBRaGVYMA?oc=5)
-
----
-
-### [Alcool, tabac, cocaïne... Comment les médicaments antiobésité pourraient limiter les addictions - Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
-
-2026-03-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
 
 ---
 

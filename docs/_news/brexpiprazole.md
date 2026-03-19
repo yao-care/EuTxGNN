@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,19 +40,35 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+### [¿Por qué el dolor crónico provoca depresión en algunas personas y en otras no?](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmpjY2RfS3FhWFNzU2ZCSDFYa0VBLTgyZ1NFQk1BYTRlM1ZIWFZ3UEZNdmluajUxajBKVHlOeFlJQlpoQ05GUmdHY0NRWHZ3M1J3Q1BZS2hzV2ZNaE9tYmRmaWY2SDF2RkZmX3h6RE9IRVV3ZUhpUG1iM0ZwRU8zRHVNOEE5dDU0NWk3UEFseU9zUGZpLVRNTV83MDFvMXJBTHViRXJpc0NVemtEdG9SS193?oc=5)
 
-2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-03-19 <span class="news-indication-tag">depresión</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+來源：[Sinc](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmpjY2RfS3FhWFNzU2ZCSDFYa0VBLTgyZ1NFQk1BYTRlM1ZIWFZ3UEZNdmluajUxajBKVHlOeFlJQlpoQ05GUmdHY0NRWHZ3M1J3Q1BZS2hzV2ZNaE9tYmRmaWY2SDF2RkZmX3h6RE9IRVV3ZUhpUG1iM0ZwRU8zRHVNOEE5dDU0NWk3UEFseU9zUGZpLVRNTV83MDFvMXJBTHViRXJpc0NVemtEdG9SS193?oc=5)
+
+---
+
+### [Weight-loss drugs linked to lower depression and anxiety risk, study](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
+
+2026-03-19 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
+
+---
+
+### [Softdrinks & Psyche: Zuckerhaltige Getränke erhöhen Risiko für Angst und Depression](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXY5bFJqczYxQTZTNkJyMFY0Qk1IQ0pKUGdHb3BCU2FWTVJpanRJbHg0dG8ydFQxdlhadjMtUGREUVJLSFZWSlRYVElIenBzbVNFMmg3WjJkQmR6SWFBSkhydTNxSlNVVE12Zk1XTFZFVmVXQzhZc0p2QmRqTVRCLV9uS2dnZFkzdy1ubjNTdWpiZjhnNnNrbFJ2dEpWY2VBeVdPM2JYQ0c5cjZ3dkdYTHpSOG94UTd4UDJHTzlOaDJHV0U3Ymw1UXZGaUI4UHFrcXfSAdIBQVVfeXFMUHl3R0RudHZDVVhjS0ZhTExRYVlXTjBEVk5IS1FtYUpPbm5NUmctRExXMW1OY1JPZTY5enVuc2ZJYk16TEQ5NFIxamkzaUQyZW50c0hzNzdRLXRlWUVRVHdYMy1USk1Bc2YtSFBySy1WdFlXbHZIOEI3b3FZMHZ6dFdTMWRxdmxoaTRVUHU4ZUxjVF96a0kyMjZSVUw5anNvLVBZQXIxVk9kOGZldlZMdmt0MllZVGJkRVNza2E4cGdkdjZpZmVPdFphV3Z5LUVLWVpB?oc=5)
+
+2026-03-18 <span class="news-indication-tag">depression</span>
+
+來源：[inFranken.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXY5bFJqczYxQTZTNkJyMFY0Qk1IQ0pKUGdHb3BCU2FWTVJpanRJbHg0dG8ydFQxdlhadjMtUGREUVJLSFZWSlRYVElIenBzbVNFMmg3WjJkQmR6SWFBSkhydTNxSlNVVE12Zk1XTFZFVmVXQzhZc0p2QmRqTVRCLV9uS2dnZFkzdy1ubjNTdWpiZjhnNnNrbFJ2dEpWY2VBeVdPM2JYQ0c5cjZ3dkdYTHpSOG94UTd4UDJHTzlOaDJHV0U3Ymw1UXZGaUI4UHFrcXfSAdIBQVVfeXFMUHl3R0RudHZDVVhjS0ZhTExRYVlXTjBEVk5IS1FtYUpPbm5NUmctRExXMW1OY1JPZTY5enVuc2ZJYk16TEQ5NFIxamkzaUQyZW50c0hzNzdRLXRlWUVRVHdYMy1USk1Bc2YtSFBySy1WdFlXbHZIOEI3b3FZMHZ6dFdTMWRxdmxoaTRVUHU4ZUxjVF96a0kyMjZSVUw5anNvLVBZQXIxVk9kOGZldlZMdmt0MllZVGJkRVNza2E4cGdkdjZpZmVPdFphV3Z5LUVLWVpB?oc=5)
 
 ---
 
 ### [Alcool, tabac, cocaïne... Comment les médicaments antiobésité pourraient limiter les addictions - Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
 
-2026-03-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">obésité</span>
+2026-03-18 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
 

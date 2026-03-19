@@ -42,6 +42,22 @@ permalink: /news/orlistat/
 
 ## 相關新聞（11 則）
 
+### [Molecule in python blood could pave way for new obesity drugs, scientists say - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkFCdXVKd2w1QTI0TTNaNzQxdzRwbk5vZEloU25TWWQ5M0hpMU1JYXFvSWNVN0xCTXBrQ1dKWXhhM3JSOUJwSG93cDRVcmhDS3k1WWlKSWtNMmxuOUtKZGNoNWY0NHFhNW9SR1V0dlBvdjR4THlfMHlYYnZUQUxjSnl2SmEtQ3RsVkZUR1pxVFF1S3V0dFpzbjZ5alV6OHFwQzNhdkJjcERDclFaMTlyaDVmYVRSUQ?oc=5)
+
+2026-03-19 <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkFCdXVKd2w1QTI0TTNaNzQxdzRwbk5vZEloU25TWWQ5M0hpMU1JYXFvSWNVN0xCTXBrQ1dKWXhhM3JSOUJwSG93cDRVcmhDS3k1WWlKSWtNMmxuOUtKZGNoNWY0NHFhNW9SR1V0dlBvdjR4THlfMHlYYnZUQUxjSnl2SmEtQ3RsVkZUR1pxVFF1S3V0dFpzbjZ5alV6OHFwQzNhdkJjcERDclFaMTlyaDVmYVRSUQ?oc=5)
+
+---
+
+### [La ablación por catéter no reduce el riesgo de ictus recurrente en pacientes con fibrilación auricular - El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSGZpMkZOdXFkb2xOQWJ0ZEhLU3RSWUxNR1doY0JPR0ZoSmQwT1FxMms1dXNyNXc0ZGlrVWdXYTBCemRNY0FUWEhqTDBOb29uWXUzZmFfOW1XRWNqc1FiMG5DRE11ejE1SkE2S0MtSlBxR1o0OFd5YndoNmltOGFRcTRRYWFaRkxOMUY3a2c1RGhuQ0huNWtCWDFMcjlmS0ZBaWM3Si0tQ04taXpzWV81aE81cjBXNTlWV1I4ajZ4WjIzNVBvM1ZlejhiNGlSYTNG?oc=5)
+
+2026-03-19 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">fibrilación auricular</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSGZpMkZOdXFkb2xOQWJ0ZEhLU3RSWUxNR1doY0JPR0ZoSmQwT1FxMms1dXNyNXc0ZGlrVWdXYTBCemRNY0FUWEhqTDBOb29uWXUzZmFfOW1XRWNqc1FiMG5DRE11ejE1SkE2S0MtSlBxR1o0OFd5YndoNmltOGFRcTRRYWFaRkxOMUY3a2c1RGhuQ0huNWtCWDFMcjlmS0ZBaWM3Si0tQ04taXpzWV81aE81cjBXNTlWV1I4ajZ4WjIzNVBvM1ZlejhiNGlSYTNG?oc=5)
+
+---
+
 ### [What Is 'Eye Stroke'? Expert Explains The Rare Wegovy Risk](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
 
 2026-03-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span>
@@ -66,22 +82,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Valeria Caso, neuróloga: «La duración de la siesta revela el porcentaje de riesgo de ictus» - El Diario Vasco](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTXdfUFRFdlA2aGpSM2xDY3NYbDlLc2V1VEZwd1pYWlRadGplUHk5TmVqY3I2UTZtVG8tTmlkV2lUUm1ZRmkxYmJlSXJteDI2R1Q0WlB5d3NmQmFrbHF5YnFhV2RPN1UzY3Q0Qk9CRWZUOW5tZ2xXeGMzQ3ZwSE5iX2JqVFBIaElsZWtBU0pFQU5CTlBDb1diVVRNR2p4SWt3SnM2U3NHNjFMMFR0cUppdVFsSnBOOEhXWF9fdFVoYjluVzFuTVlOSdIBzgFBVV95cUxNSGpWSUVVa051NGZmVTlTbEVRak52MzJibUJCMFE5cC1GaVJhUUY5N0UwQzE4MVBmdnRocmdhNlJ4MnRmdTdxZTI1a3ZoQWFucVBMOFBrUnJlX0VYdEtpQ1JtVEpQcVdFdHpZM2hRSGltZ3V2aXZaNkxPSzZQQ3YtMXFsQTJRQjdyd3ZzV3ljNG5RX25MTE9pQ2taRkg4VmRNclZSZm1sbEJOZTZ5aE9MM2sxSWF4bEludkN1WVcyeXRTcVdSTGpNSmZSV1d1UQ?oc=5)
-
-2026-03-18 <span class="news-indication-tag">ictus</span>
-
-來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTXdfUFRFdlA2aGpSM2xDY3NYbDlLc2V1VEZwd1pYWlRadGplUHk5TmVqY3I2UTZtVG8tTmlkV2lUUm1ZRmkxYmJlSXJteDI2R1Q0WlB5d3NmQmFrbHF5YnFhV2RPN1UzY3Q0Qk9CRWZUOW5tZ2xXeGMzQ3ZwSE5iX2JqVFBIaElsZWtBU0pFQU5CTlBDb1diVVRNR2p4SWt3SnM2U3NHNjFMMFR0cUppdVFsSnBOOEhXWF9fdFVoYjluVzFuTVlOSdIBzgFBVV95cUxNSGpWSUVVa051NGZmVTlTbEVRak52MzJibUJCMFE5cC1GaVJhUUY5N0UwQzE4MVBmdnRocmdhNlJ4MnRmdTdxZTI1a3ZoQWFucVBMOFBrUnJlX0VYdEtpQ1JtVEpQcVdFdHpZM2hRSGltZ3V2aXZaNkxPSzZQQ3YtMXFsQTJRQjdyd3ZzV3ljNG5RX25MTE9pQ2taRkg4VmRNclZSZm1sbEJOZTZ5aE9MM2sxSWF4bEludkN1WVcyeXRTcVdSTGpNSmZSV1d1UQ?oc=5)
-
----
-
-### [Obesidad: más voces, más dignidad, más acciones](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0x4NTdPMEVxa2NyM2tfVjRJUnRJRmtLZUp3ejE5NVNkdW9tb2IyWU1rcFRxanZaWE9KSHRUcTI2bkpHYUNmQjVkWHpfcXQwMkIxR3JnaWRMTHVacE52QWhoZGZyZVFuX2o3QjA2ODdMbDlWRnBKUDBFeVJUUTZ6d0F2SWE3Y0xobi1NSTlueGhzV085c1lOaFZ1MW9MeXdzUG1aQ1BDTjXSAa4BQVVfeXFMTWR1emVLQmtqWG9mVUN2ZDVSS1V0TE5XVVdzaUxaTDVLdExCM0syWHY1UFd4aEpQd3NxYW1jVEFMVzloZUxQaTVaTWtMcEstYUMyRlBXUmVkZWF2N0xPZFhZQVVaRkt5N1FKLVFpNmlYZnVpOVh2TndzT25icENFV3NiQ29RZGVLcXVMWHkxOE05XzQwZVdzRHJNV3RXTEJKbS0ydDR4V0dtS1I3Uk13?oc=5)
-
-2026-03-18 <span class="news-indication-tag">obesidad</span>
-
-來源：[democrata.es](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0x4NTdPMEVxa2NyM2tfVjRJUnRJRmtLZUp3ejE5NVNkdW9tb2IyWU1rcFRxanZaWE9KSHRUcTI2bkpHYUNmQjVkWHpfcXQwMkIxR3JnaWRMTHVacE52QWhoZGZyZVFuX2o3QjA2ODdMbDlWRnBKUDBFeVJUUTZ6d0F2SWE3Y0xobi1NSTlueGhzV085c1lOaFZ1MW9MeXdzUG1aQ1BDTjXSAa4BQVVfeXFMTWR1emVLQmtqWG9mVUN2ZDVSS1V0TE5XVVdzaUxaTDVLdExCM0syWHY1UFd4aEpQd3NxYW1jVEFMVzloZUxQaTVaTWtMcEstYUMyRlBXUmVkZWF2N0xPZFhZQVVaRkt5N1FKLVFpNmlYZnVpOVh2TndzT25icENFV3NiQ29RZGVLcXVMWHkxOE05XzQwZVdzRHJNV3RXTEJKbS0ydDR4V0dtS1I3Uk13?oc=5)
-
----
-
 ### [Ictus e sonno, attenzione ai riposini pomeridiani lunghi e inattesi](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHByVFlud0ZRdWtuNnVXdnBQdHlpN1BhVWh3Y0NvbFJpMzZUUHB6WElXWU50NjY1UGVlWWdyUG9oLTRocVZraUNLTWlHTURmUzBhZzV6djN1Nm12T2FETnNKMU9GVm8zbU9rc0pCZk5tR3FkQ2hGVkh3SlFmYTEzdURBTnE5RzN4Rm54alR1amtGMVFrWVJxdEYxVGNBampISnBMQnBtN2ZFV1FzMnVvWmt2bw?oc=5)
 
 2026-03-18 <span class="news-indication-tag">ictus</span>
@@ -100,17 +100,17 @@ permalink: /news/orlistat/
 
 ### [Alcool, tabac, cocaïne... Comment les médicaments antiobésité pourraient limiter les addictions - Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
 
-2026-03-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">obésité</span>
+2026-03-18 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
 
 ---
 
-### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination | Well actually - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+### [Kardiologe warnt: Jeder fünfte Schlaganfall geht auf Herzrhythmusstörungen zurück - Giessener Anzeiger](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXJ1NmxVYXF1RUhWUnZSVmJmbmRVNHYxeEJQTGF5RUJmYWd5R2xvbGZSV2x1LTZfWVVmaTl4ZWNtTzdDZFRmZzRGNnJfMENINEh3TVhQT2tyLVNWT25fQlJ1RzdOY0U5d3NQcGN4dUE5T2ltRUd1Ml9EMndnYWhCMm1mQ3pPeTM3R0o1VWJZaUNaWjdtd2RQWTVpb0I5WVRCdUpTd2ZFRUc4TG5BaWxvV3kxSG94YlFXZDE0WEZGWU10R2owUWRjcHAzQ3d5RzFpcDZRT1dzSW9kemtVNlE?oc=5)
 
-2026-03-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-03-18 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+來源：[Giessener Anzeiger](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXJ1NmxVYXF1RUhWUnZSVmJmbmRVNHYxeEJQTGF5RUJmYWd5R2xvbGZSV2x1LTZfWVVmaTl4ZWNtTzdDZFRmZzRGNnJfMENINEh3TVhQT2tyLVNWT25fQlJ1RzdOY0U5d3NQcGN4dUE5T2ltRUd1Ml9EMndnYWhCMm1mQ3pPeTM3R0o1VWJZaUNaWjdtd2RQWTVpb0I5WVRCdUpTd2ZFRUc4TG5BaWxvV3kxSG94YlFXZDE0WEZGWU10R2owUWRjcHAzQ3d5RzFpcDZRT1dzSW9kemtVNlE?oc=5)
 
 ---
 
