@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
 ### [Se abren nuevas vías para mejorar el pronóstico del ictus en afectados con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
 
@@ -63,14 +63,6 @@ permalink: /news/simvastatin/
 2026-03-18 <span class="news-indication-tag">ictus</span>
 
 來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTXdfUFRFdlA2aGpSM2xDY3NYbDlLc2V1VEZwd1pYWlRadGplUHk5TmVqY3I2UTZtVG8tTmlkV2lUUm1ZRmkxYmJlSXJteDI2R1Q0WlB5d3NmQmFrbHF5YnFhV2RPN1UzY3Q0Qk9CRWZUOW5tZ2xXeGMzQ3ZwSE5iX2JqVFBIaElsZWtBU0pFQU5CTlBDb1diVVRNR2p4SWt3SnM2U3NHNjFMMFR0cUppdVFsSnBOOEhXWF9fdFVoYjluVzFuTVlOSdIBzgFBVV95cUxNSGpWSUVVa051NGZmVTlTbEVRak52MzJibUJCMFE5cC1GaVJhUUY5N0UwQzE4MVBmdnRocmdhNlJ4MnRmdTdxZTI1a3ZoQWFucVBMOFBrUnJlX0VYdEtpQ1JtVEpQcVdFdHpZM2hRSGltZ3V2aXZaNkxPSzZQQ3YtMXFsQTJRQjdyd3ZzV3ljNG5RX25MTE9pQ2taRkg4VmRNclZSZm1sbEJOZTZ5aE9MM2sxSWF4bEludkN1WVcyeXRTcVdSTGpNSmZSV1d1UQ?oc=5)
-
----
-
-### [Los factores de riesgo modificables marcan la diferencia en patologías como la demencia y el ictus - Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcllmUF9Za1JGNzhXRnZZZW1NdkVMdjVpYnItVk9JQXlvLXdzckV2d3pFSWpRNFVzNVNTRGlEcElZTF9RS2s1cWhqc0VkSU5aT3FEOXBEcnRKWlotbmozeDJlalhwb3lsblNxOU9Wd09WeWd1M3JDUWtNelZTekZTOVQyT0QyT2txcXpxQlpLemxHOUMwZ1VmQk9BUEdpZ21K?oc=5)
-
-2026-03-18 <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcllmUF9Za1JGNzhXRnZZZW1NdkVMdjVpYnItVk9JQXlvLXdzckV2d3pFSWpRNFVzNVNTRGlEcElZTF9RS2s1cWhqc0VkSU5aT3FEOXBEcnRKWlotbmozeDJlalhwb3lsblNxOU9Wd09WeWd1M3JDUWtNelZTekZTOVQyT0QyT2txcXpxQlpLemxHOUMwZ1VmQk9BUEdpZ21K?oc=5)
 
 ---
 
@@ -98,19 +90,19 @@ permalink: /news/simvastatin/
 
 ---
 
-### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
+### [«Ictus e infarto, le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
+
+2026-03-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
+
+---
+
+### [‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination | Well actually - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
 
 2026-03-17 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkZXOFFtdUE1dlZUcUVSeDhjeGhqcEpnM2NKS3RKWFo4WW81dHlYN01rSHVWaV9zZ2F6RVR1N0hha3pYX09nYzJTOGpRbWdEYlUwdmNkSUhWOWNheENlcDRFVU9TZHhSbWJzbmd1WW1JZzlCcm5oa015R0pweGgzbFVyM2U4VUNGOHBYdVUza2J2M29I?oc=5)
-
----
-
-### [«Ictus e infarto, le le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza) - Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2c?oc=5)
-
-2026-03-17 <span class="news-indication-tag">ictus</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2c?oc=5)
 
 ---
 

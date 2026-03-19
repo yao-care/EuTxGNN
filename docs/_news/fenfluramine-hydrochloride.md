@@ -50,9 +50,17 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
+### [Obesidad: más voces, más dignidad, más acciones](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0x4NTdPMEVxa2NyM2tfVjRJUnRJRmtLZUp3ejE5NVNkdW9tb2IyWU1rcFRxanZaWE9KSHRUcTI2bkpHYUNmQjVkWHpfcXQwMkIxR3JnaWRMTHVacE52QWhoZGZyZVFuX2o3QjA2ODdMbDlWRnBKUDBFeVJUUTZ6d0F2SWE3Y0xobi1NSTlueGhzV085c1lOaFZ1MW9MeXdzUG1aQ1BDTjXSAa4BQVVfeXFMTWR1emVLQmtqWG9mVUN2ZDVSS1V0TE5XVVdzaUxaTDVLdExCM0syWHY1UFd4aEpQd3NxYW1jVEFMVzloZUxQaTVaTWtMcEstYUMyRlBXUmVkZWF2N0xPZFhZQVVaRkt5N1FKLVFpNmlYZnVpOVh2TndzT25icENFV3NiQ29RZGVLcXVMWHkxOE05XzQwZVdzRHJNV3RXTEJKbS0ydDR4V0dtS1I3Uk13?oc=5)
+
+2026-03-18 <span class="news-indication-tag">obesidad</span>
+
+來源：[democrata.es](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0x4NTdPMEVxa2NyM2tfVjRJUnRJRmtLZUp3ejE5NVNkdW9tb2IyWU1rcFRxanZaWE9KSHRUcTI2bkpHYUNmQjVkWHpfcXQwMkIxR3JnaWRMTHVacE52QWhoZGZyZVFuX2o3QjA2ODdMbDlWRnBKUDBFeVJUUTZ6d0F2SWE3Y0xobi1NSTlueGhzV085c1lOaFZ1MW9MeXdzUG1aQ1BDTjXSAa4BQVVfeXFMTWR1emVLQmtqWG9mVUN2ZDVSS1V0TE5XVVdzaUxaTDVLdExCM0syWHY1UFd4aEpQd3NxYW1jVEFMVzloZUxQaTVaTWtMcEstYUMyRlBXUmVkZWF2N0xPZFhZQVVaRkt5N1FKLVFpNmlYZnVpOVh2TndzT25icENFV3NiQ29RZGVLcXVMWHkxOE05XzQwZVdzRHJNV3RXTEJKbS0ydDR4V0dtS1I3Uk13?oc=5)
+
+---
+
 ### [Alcool, tabac, cocaïne... Comment les médicaments antiobésité pourraient limiter les addictions - Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
 
-2026-03-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+2026-03-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
 
@@ -71,14 +79,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-03-17 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNl82X0tTbkJVdXh1QzdEZGp3bFZYNFZRMWNHWjBVLVZyU0ZfNUZ0TU1DNjh2eDFvV1d0eGVwU1hGcE5veWJSM1k4Q2R4ZmJ4R3FVVGRpdVFyWFQ0d3g4czk2M3ZvX09ZLVA0TzRSdjRrbFU5UEVFbjQybm1vdzlURGNteWdtTm9mQ01Ea1VyVUVPS0VYTWU1LXo0bVhBa1djR3RUUzRvNk15RUFPVVJISTVOTzNoMDFBRGNfdlBfR3BTcmM?oc=5)
-
----
-
-### [Ofensiva contra la obesidad en dos tiempos: Sanidad diseña una estrategia integral y los médicos urgen a financiar los medicamentos ya disponibles - Gaceta de salud](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTXpEY0J4OUgzOFZ3SW15RFBSVk83Vm5QNGRZd1VPM1BtbmQ5XzlVVThzR20xcG5Za3JRM1I4REIwdWY0SEtiU1BWeGpMeDgwTXlMNWduNWVxcVV6ZWNHNlJpZVQ1Nk41b2owd0xzZ3plckk0X3owSUdGVXYyTmdNMGluNENxMlc2VnlWTG42M2k0V0VTZmV1am1JcjZXWVpraF9jUGlRV1gzaVF3RFhDSlFxTm5kNjYwaW5ySC1hRXR2ZDdFaldiVjRBRnY3WlpLbHN1djJuUnV1b01WVlFVQlBoM2NsWEJFSWk4WHlfWjNZSEZ2bWJQQ2s0ZVkyeWNhWUhMUURwUThQZ3prVDZwZGJyR201YTJrenVQRkUxMmo4Tm1UOUZFRE9tZFVCT1dOZ0N4bTFFTmJRNUd4T2ZSOQ?oc=5)
-
-2026-03-17 <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTXpEY0J4OUgzOFZ3SW15RFBSVk83Vm5QNGRZd1VPM1BtbmQ5XzlVVThzR20xcG5Za3JRM1I4REIwdWY0SEtiU1BWeGpMeDgwTXlMNWduNWVxcVV6ZWNHNlJpZVQ1Nk41b2owd0xzZ3plckk0X3owSUdGVXYyTmdNMGluNENxMlc2VnlWTG42M2k0V0VTZmV1am1JcjZXWVpraF9jUGlRV1gzaVF3RFhDSlFxTm5kNjYwaW5ySC1hRXR2ZDdFaldiVjRBRnY3WlpLbHN1djJuUnV1b01WVlFVQlBoM2NsWEJFSWk4WHlfWjNZSEZ2bWJQQ2s0ZVkyeWNhWUhMUURwUThQZ3prVDZwZGJyR201YTJrenVQRkUxMmo4Tm1UOUZFRE9tZFVCT1dOZ0N4bTFFTmJRNUd4T2ZSOQ?oc=5)
 
 ---
 

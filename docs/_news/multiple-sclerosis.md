@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。15 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>15 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
 
 ### ['I kept falling over on Ibiza lads holiday - it turned out to be MS'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eVJKZ1NFUVdMdXFRZ3J0SDZVY2JVTWxnYWhXSmdnN0dQWl9QYlVLNU5JcEJxVjc5T2NFV2ZPQkFLamtXY0VMMk1xRTdISHRaNG54VHdaSHluX1FU?oc=5)
 
 2026-03-18
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eVJKZ1NFUVdMdXFRZ3J0SDZVY2JVTWxnYWhXSmdnN0dQWl9QYlVLNU5JcEJxVjc5T2NFV2ZPQkFLamtXY0VMMk1xRTdISHRaNG54VHdaSHluX1FU?oc=5)
-
----
-
-### [Kent meningitis outbreak has been contained, health officials believe - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkZuNHJMVU1oeFRzc0JFQ05YZ3lMcWk4d25oTUZ1WFJfMVZ2dXdMNlVkM0RIdXpFaTAxM0p3X3gya0hIeHRaTXNILVUwWTR6N05kVkU1TjNzV1dvRGZuMUUwQzhNNFgwampXa0hoekhsVE1zZ2JoeFljbVJEdmVYZTBQZmVRRk05ZXd1emM0ZEEtTzdUSTBrWWE1Y3piOWJPVUlHdUpfVVhpaDVwb2h3NnRnTUtOZW8?oc=5)
-
-2026-03-18
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkZuNHJMVU1oeFRzc0JFQ05YZ3lMcWk4d25oTUZ1WFJfMVZ2dXdMNlVkM0RIdXpFaTAxM0p3X3gya0hIeHRaTXNILVUwWTR6N05kVkU1TjNzV1dvRGZuMUUwQzhNNFgwampXa0hoekhsVE1zZ2JoeFljbVJEdmVYZTBQZmVRRk05ZXd1emM0ZEEtTzdUSTBrWWE1Y3piOWJPVUlHdUpfVVhpaDVwb2h3NnRnTUtOZW8?oc=5)
 
 ---
 
@@ -80,19 +72,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [‘Serious’ warning issued to millions taking Omeprazole over problems drug causes](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+### [Scientists call for 'urgent' action as microplastics become a major risk to human health on multiple fronts](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHVuUFRCN1g3MDRwTzM0RjVqMG1EU1NucVFfcEh0eWVkazF1c0pJRGlHUUFiQW5MTVdycVJFV0VOdTZNTE5rQ3NYaHNEOFVRd0pFRjB5MjRHckFnaWJ1cmFHVVhXMjM5Qy1kYzRtclExTWdxUHBHZGpLZ2ZzU0N3Y25iZTBUOG5pSEFiRlNaX2JzWEQ4M2FxSWJOUFZqQzQ3c3k2QnRhS0t4Y0JB?oc=5)
 
 2026-03-18
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+來源：[Earth.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHVuUFRCN1g3MDRwTzM0RjVqMG1EU1NucVFfcEh0eWVkazF1c0pJRGlHUUFiQW5MTVdycVJFV0VOdTZNTE5rQ3NYaHNEOFVRd0pFRjB5MjRHckFnaWJ1cmFHVVhXMjM5Qy1kYzRtclExTWdxUHBHZGpLZ2ZzU0N3Y25iZTBUOG5pSEFiRlNaX2JzWEQ4M2FxSWJOUFZqQzQ3c3k2QnRhS0t4Y0JB?oc=5)
 
 ---
 
-### [El coste de las pruebas de detección de tuberculosis puede reducirse "en un 50% o más" con el nuevo plan de la OMS](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdzg2U0FOdjE2eHhRaVdzMnhYZE9rS0NHQ3VrUUdrVWRPRVNvVTVVa0YxNG5TMWpjYUNra3dsY3hYZjB1ZlJycmNLYWF4dWpRRzBDVG9DdnVoUXNkVU9xM2V0YXU2RmY4dksydTBCTy1GYWFTWjE1REx6dHg0dU12dUc1bndXVm8tQTA1azZ0Y2NHdXQ0V3FKQ1hHN3JfQlR0cnJaX0RpbTFrNzN6QVQ2bDYxQmZjSDA3ZVFEdXV6aGVHajlVLWJoUWdqMThQS2M?oc=5)
+### [El coste de las pruebas de detección de tuberculosis puede reducirse "en un 50% o más" con el nuevo plan de la OMS](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYThHQXg3OGd0amZzbndhQ0NmNDBEaTBnY1VrRURGWW9QbFRjX3hHZS1sdl9QVnpTcHRWSFYtb1JyamN5b0V1c2ZqR0g2Y1UtSGRfX2JrNTJ6TzdTYmlySnd4MzRyM0xwTDJFZ3NGTlZybEloeUcwREFWaEp4ODhzVGN2eWJOaDB0Ym0zcGtCejFSR0ZWdVVPZXpXOHIyaTYzVWFreFdBMjhBZS1oRWVYSi03aGFyMVBQeGJ2dTF0YS1ybmJwN3g4ZnlpcVhQVk9PWHdxMjhR?oc=5)
 
 2026-03-18
 
-來源：[Notimérica](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdzg2U0FOdjE2eHhRaVdzMnhYZE9rS0NHQ3VrUUdrVWRPRVNvVTVVa0YxNG5TMWpjYUNra3dsY3hYZjB1ZlJycmNLYWF4dWpRRzBDVG9DdnVoUXNkVU9xM2V0YXU2RmY4dksydTBCTy1GYWFTWjE1REx6dHg0dU12dUc1bndXVm8tQTA1azZ0Y2NHdXQ0V3FKQ1hHN3JfQlR0cnJaX0RpbTFrNzN6QVQ2bDYxQmZjSDA3ZVFEdXV6aGVHajlVLWJoUWdqMThQS2M?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYThHQXg3OGd0amZzbndhQ0NmNDBEaTBnY1VrRURGWW9QbFRjX3hHZS1sdl9QVnpTcHRWSFYtb1JyamN5b0V1c2ZqR0g2Y1UtSGRfX2JrNTJ6TzdTYmlySnd4MzRyM0xwTDJFZ3NGTlZybEloeUcwREFWaEp4ODhzVGN2eWJOaDB0Ym0zcGtCejFSR0ZWdVVPZXpXOHIyaTYzVWFreFdBMjhBZS1oRWVYSi03aGFyMVBQeGJ2dTF0YS1ybmJwN3g4ZnlpcVhQVk9PWHdxMjhR?oc=5)
 
 ---
 
@@ -120,11 +112,43 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [‘Serious’ warning issued to millions taking Omeprazole over problems drug causes](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+
+2026-03-18
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+
+---
+
 ### [Vergütung für Alzheimer-Therapie geregelt - KV Nordrhein](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFRDZEJHcG5XdUx6Q05YdzVrb2JERktqQS16ckxOQlFZek1tcjVFbURVMVB3QlVKNlJBUTRjZGdZRDJtMk9KeG5KQTFmOGNkaE1kYjZTcVFVTlRZd0cxV25pNzFmV19sX25YM3RHcVFNRll3V3JKaXMwVllvb1MyODFhc1hNZDBMcGlaOUlZa3dfWE9zTWlPalJVVERIZXdzanc?oc=5)
 
 2026-03-18
 
 來源：[KV Nordrhein](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFRDZEJHcG5XdUx6Q05YdzVrb2JERktqQS16ckxOQlFZek1tcjVFbURVMVB3QlVKNlJBUTRjZGdZRDJtMk9KeG5KQTFmOGNkaE1kYjZTcVFVTlRZd0cxV25pNzFmV19sX25YM3RHcVFNRll3V3JKaXMwVllvb1MyODFhc1hNZDBMcGlaOUlZa3dfWE9zTWlPalJVVERIZXdzanc?oc=5)
+
+---
+
+### [Meningitis outbreak: Our beautiful daughter was just weeks into university but never came home again - Wales Online](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3dzMlI0QW1kRkpBRm1wbTl0c0JocFg1TkttNk9PNnl6dTlVLUNLeUpZUDFsZjdyZkwxaFpVT2VLYUNTTzUtSWdqQmN4WUtBWUp4aThIaVpPNG4xTnhjNHVmOVE1LWJQeUQxcVNhdmhrSEpLT0oxbnZ0U2lhcFp1M2FXS29qbUZwMmI1d0h6UU1DcmpFRkNsNExIUXFsdGvSAaQBQVVfeXFMT2VkcUFhY2hoRHJscC1XUFQwMWNScjlkUVc1aHRTdU5iMFRxSkg0LWVDc1dIamt4d2lwUmhyRDQ0SWtCUVpPQnhFY3JLSVhkY2UzZm5feGpUc2pWZ0FxcTBSUTduR1h0MWNMTmJIaHZFTDNPS2hlN0hFMFhMNnBMV3lCZER0NkJNVmhXNWZYWkdoeWxUX0tlczBqcmhkblhPbUxGRUg?oc=5)
+
+2026-03-18
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3dzMlI0QW1kRkpBRm1wbTl0c0JocFg1TkttNk9PNnl6dTlVLUNLeUpZUDFsZjdyZkwxaFpVT2VLYUNTTzUtSWdqQmN4WUtBWUp4aThIaVpPNG4xTnhjNHVmOVE1LWJQeUQxcVNhdmhrSEpLT0oxbnZ0U2lhcFp1M2FXS29qbUZwMmI1d0h6UU1DcmpFRkNsNExIUXFsdGvSAaQBQVVfeXFMT2VkcUFhY2hoRHJscC1XUFQwMWNScjlkUVc1aHRTdU5iMFRxSkg0LWVDc1dIamt4d2lwUmhyRDQ0SWtCUVpPQnhFY3JLSVhkY2UzZm5feGpUc2pWZ0FxcTBSUTduR1h0MWNMTmJIaHZFTDNPS2hlN0hFMFhMNnBMV3lCZER0NkJNVmhXNWZYWkdoeWxUX0tlczBqcmhkblhPbUxGRUg?oc=5)
+
+---
+
+### [Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
+
+2026-03-18
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
+
+---
+
+### [«Ictus e infarto, le 7 cose da non fare mai dopo le 19». I consigli del cardiologo (con 20 anni di esperienza)](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
+
+2026-03-17
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPX204cWVmOG1IZzRWdUk2M1J4NGl1ZDdIcWpHNnFRbFNSOFZsdHBqb0xKVXZfeFFjSXg0UFdWTWdvRURYRGpxSGhZeVAwVkg0NnkxS1U1UkZia20yN3BKVGFZN0htOGZSZUdBS1VtbkstZDFhRXlLRkVvaVd0R2FHOFN0WmEzWEZzeFBVaXBwbkh2Z2JDc3lCSzhwb2ZYWHZl0gGTAUFVX3lxTE1rZGVTb2hMNElNZElxZW11dHlHMjNYM1U4QjE4UVdHaGdNUnhFYVhCRzZmWlBKdEpsX1hXTEVmOWRZbGFBUFFWTHkzMF9HVFpkQzdOQ09ZS0tXbTJfRG9FYl9RanlqY1Z0YjVLRllYcEZETUhzdndMRkJ0cGlGVFQzLTAtcVlVb2NZT3gxQlllaFJBUQ?oc=5)
 
 ---
 

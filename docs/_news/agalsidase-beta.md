@@ -14,7 +14,7 @@ permalink: /news/agalsidase-beta/
 ---
 
 <p class="key-answer" data-question="Agalsidase Beta 有什麼相關新聞？">
-<strong>Agalsidase Beta</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Agalsidase Beta</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ permalink: /news/agalsidase-beta/
 <p><a href="{{ '/drugs/agalsidase-beta/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（28 則）
+
+### [mRNA-Krebsimpfstoffe: Chancen und Herausforderungen durch Fehlinformationen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWFlZk5xaUdkWmN0SkFrUkE5cl9oNVhKUjRfaXh4NlNudFNSaHVDS0RVZXpiLUJ0eEp4WVFhNDQ1YlVQVWEyaTdwXy1fMXNVQU5SaHI2a2JYNnhUSVFXdHdRVVZNYlpXLWJqQ1lObkpvTlhXaFhCZktJYUItZjFkNVROZ3o4SENGanJSSnlFbktKTkhTUUluVHZIZENvVll6bFpBZnhuU1dkQQ?oc=5)
+
+2026-03-19 <span class="news-indication-tag">tumor</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWFlZk5xaUdkWmN0SkFrUkE5cl9oNVhKUjRfaXh4NlNudFNSaHVDS0RVZXpiLUJ0eEp4WVFhNDQ1YlVQVWEyaTdwXy1fMXNVQU5SaHI2a2JYNnhUSVFXdHdRVVZNYlpXLWJqQ1lObkpvTlhXaFhCZktJYUItZjFkNVROZ3o4SENGanJSSnlFbktKTkhTUUluVHZIZENvVll6bFpBZnhuU1dkQQ?oc=5)
+
+---
+
+### [I'm in agony six years after treatment for anal cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1SzBMcEswR3hwWkdNY0x4aGFCRjU4SkdDUmlSRzE3TnctaVBHMGRfLTlraEgzNkxkTmNETmJjUXQzY0JFUE1jY0lPeVJoa0R2NlRacThuRmxFSUl3?oc=5)
+
+2026-03-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1SzBMcEswR3hwWkdNY0x4aGFCRjU4SkdDUmlSRzE3TnctaVBHMGRfLTlraEgzNkxkTmNETmJjUXQzY0JFUE1jY0lPeVJoa0R2NlRacThuRmxFSUl3?oc=5)
+
+---
+
+### [The $1 superfood that slashes weight like Ozempic, improves heart health and lowers cancer risk - Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXl1bGU1RUFyMWV2UGE5aEc0elVFdnlhZ2swVDA2NUhEOGU2UHBwYUROVGhEbHhpY1ZPSDdkc3d6NGc4VDE1Y1hKb0MxMUdvZTI0b1l5SFhJME1SN1RrWVpXejYwNm9TRkZ2X3NWcmMzVVZ3QWNfLXhpT2Y0NlE3VTJWOUxadFRkengwVTZRaU1HNWVOaUNxUTd2eHdtekFNYTZvSEhmbFd3QkRtN3lIT1E2d9IBuAFBVV95cUxQOExmTTlJTE15REEtejZQNDRxbDR3UGl1aF9yc05JQ1VlMS01OWJxcThCV3N6aEZVZy1VYjZyTUJxWU5fV05pTG8zdDlQbS0xMC0wSjRCT0JEcUdCYXA2cXp3Z3hINGdnOHlkcFRzSUtraFNCRVR5eXhVeEZYVFAwV0hsTlFqcVZReXQyXzdqbUZyU2E0cUJwaEt4OWpMQ3FOSnpWQnhia0xJTjM5UWVSRGlLTmJfUnZL?oc=5)
+
+2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXl1bGU1RUFyMWV2UGE5aEc0elVFdnlhZ2swVDA2NUhEOGU2UHBwYUROVGhEbHhpY1ZPSDdkc3d6NGc4VDE1Y1hKb0MxMUdvZTI0b1l5SFhJME1SN1RrWVpXejYwNm9TRkZ2X3NWcmMzVVZ3QWNfLXhpT2Y0NlE3VTJWOUxadFRkengwVTZRaU1HNWVOaUNxUTd2eHdtekFNYTZvSEhmbFd3QkRtN3lIT1E2d9IBuAFBVV95cUxQOExmTTlJTE15REEtejZQNDRxbDR3UGl1aF9yc05JQ1VlMS01OWJxcThCV3N6aEZVZy1VYjZyTUJxWU5fV05pTG8zdDlQbS0xMC0wSjRCT0JEcUdCYXA2cXp3Z3hINGdnOHlkcFRzSUtraFNCRVR5eXhVeEZYVFAwV0hsTlFqcVZReXQyXzdqbUZyU2E0cUJwaEt4OWpMQ3FOSnpWQnhia0xJTjM5UWVSRGlLTmJfUnZL?oc=5)
+
+---
 
 ### [ChatGPT did not cure a dog’s cancer - The Verge](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclEtZ2Y2S3lsWHBhUXROREdGN2ZJS1F2d1pGZFhNQzZPS0lLYnloS2ZOc2NWaDd5YU05QmVQOG9MTnVqT3huRFlUR3g0dkNxblhNa29BaHZfc3Z2a2xBbENVY1pHbkpJalJuX3JJUU9ya0tVVVdnbThGb05sVFRSaW1iUVRnb244UGJZQ252clFwV0t6RkE?oc=5)
 
@@ -90,17 +114,17 @@ permalink: /news/agalsidase-beta/
 
 ---
 
-### [I was pregnant when tumour was found… now I write goodbye letters to my girl, 4](https://news.google.com/rss/articles/CBMilAFBVV95cUxNME9wSjRISzlKYTRJWVltcUtLTFFvcENZbkRoSGNvSjM2VnhLc01uV0ZKVHhxeS1aRU1wVF8ycjF6SGFJa05UUUJBai1SWUhPeFdRb3BleW52VGVWMVVnWnF5ekZ6ckowd1lteFppTW81X3lZYzRXZ1lVS3dNbHh2QTI2Tkl4eTRKYlBCYXdzeEZtSGEx?oc=5)
+### [I was pregnant when tumour was found… now I write goodbye letters to my girl, 4 - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNME9wSjRISzlKYTRJWVltcUtLTFFvcENZbkRoSGNvSjM2VnhLc01uV0ZKVHhxeS1aRU1wVF8ycjF6SGFJa05UUUJBai1SWUhPeFdRb3BleW52VGVWMVVnWnF5ekZ6ckowd1lteFppTW81X3lZYzRXZ1lVS3dNbHh2QTI2Tkl4eTRKYlBCYXdzeEZtSGEx?oc=5)
 
 2026-03-18 <span class="news-indication-tag">tumour</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxNME9wSjRISzlKYTRJWVltcUtLTFFvcENZbkRoSGNvSjM2VnhLc01uV0ZKVHhxeS1aRU1wVF8ycjF6SGFJa05UUUJBai1SWUhPeFdRb3BleW52VGVWMVVnWnF5ekZ6ckowd1lteFppTW81X3lZYzRXZ1lVS3dNbHh2QTI2Tkl4eTRKYlBCYXdzeEZtSGEx?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNME9wSjRISzlKYTRJWVltcUtLTFFvcENZbkRoSGNvSjM2VnhLc01uV0ZKVHhxeS1aRU1wVF8ycjF6SGFJa05UUUJBai1SWUhPeFdRb3BleW52VGVWMVVnWnF5ekZ6ckowd1lteFppTW81X3lZYzRXZ1lVS3dNbHh2QTI2Tkl4eTRKYlBCYXdzeEZtSGEx?oc=5)
 
 ---
 
 ### [Ensayo internacional muestra que un nuevo medicamento reduce un 30% el riesgo de avance de tumores neuroendocrinos](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmRvVHFtUG1KcTBhY2lRd3VMOUNfQVdzc3pPUHdoaHNsTWRmV2RRWUJ6ZmE4b0sxd2hkQ2JWenQ2S1p6YXBSVWlmQTRLR0NyRTZmUTBzX1VRaEFYdFJHMllNd0ozVjVhVEFoeHhHTGRFd1FLcnpIcXUteEpnSUlhYkZTVS1MNHJJT1hLMVVVNlFJMmNpelZPUkt1X3JudEZLUEcweDVic05IZmpYclA0dllGbXR5R3lYaGV5SlVCTXVOUTRZcWJfUHNPSS1lVzRldHJiLUVENDBPa3p5dV95Rm85elVEemQ0bDBTbGhB?oc=5)
 
-2026-03-18 <span class="news-indication-tag">tumor</span>
+2026-03-18 <span class="news-drug-tag">Axitinib</span> <span class="news-indication-tag">tumor</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmRvVHFtUG1KcTBhY2lRd3VMOUNfQVdzc3pPUHdoaHNsTWRmV2RRWUJ6ZmE4b0sxd2hkQ2JWenQ2S1p6YXBSVWlmQTRLR0NyRTZmUTBzX1VRaEFYdFJHMllNd0ozVjVhVEFoeHhHTGRFd1FLcnpIcXUteEpnSUlhYkZTVS1MNHJJT1hLMVVVNlFJMmNpelZPUkt1X3JudEZLUEcweDVic05IZmpYclA0dllGbXR5R3lYaGV5SlVCTXVOUTRZcWJfUHNPSS1lVzRldHJiLUVENDBPa3p5dV95Rm85elVEemQ0bDBTbGhB?oc=5)
 
@@ -114,11 +138,19 @@ permalink: /news/agalsidase-beta/
 
 ---
 
-### [Tumori, a Pesaro cure d’avanguardia con la tecnica Hipec, sinergia tra chirurgia e chemioterapia - Vivere Pesaro](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQelB4Q19pbk5GRUlTZFdJa3lyMFh4czNydERjZW5tT2wxbmxqOGd3bFA1WEJmUlZhdmtFd3czaFI5U0s2Y3Uxd1QtdmN5TWhfUE5DNlFyTFktdHJUNzM5bW5JcTNmcm5ZN29JSVJkR19kMlRsb3pxTGRva2xocHIyaER0MmxkNDFqLXdSeU1ZRXJMbk1QbGRuemlHX1FMbXVYdnJmOWVNck5yaTd1MFFUQTFmOUxTNGhVdmdSaUNkMjRUTGVEWWZsU2hSMHZlZ3RmNzVtY1Jn?oc=5)
+### [Tumori, a Pesaro cure d’avanguardia con la tecnica Hipec, sinergia tra chirurgia e chemioterapia - Vivere Pesaro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZnk5VGZFVWxtUGU2NzVBQUdINzNPU25waFZ5ZkhwZkl1N29yejNQVVFWOTRDemhFWVZObE5XUTVSUzdNTGhJZFJhY0NpaU01eDdiRmhRbW4xNk1XczNCNjZIVVVIV2NtVUdCUnBRS2c0aXh4ZDZmZmxGYVl6SHV0eVZLVGJEWGpvMnYweng2bGI1ZnpSRWxnMlVuRGN2WTQ1T2poTEY1YldKNWllTmFMdHZDSWR6ZlQ2TUhxcGJkbVdQN3V6OEFYcXNpZ2t6RUsxUV9FZw?oc=5)
 
 2026-03-18 <span class="news-indication-tag">tumor</span>
 
-來源：[Vivere Pesaro](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQelB4Q19pbk5GRUlTZFdJa3lyMFh4czNydERjZW5tT2wxbmxqOGd3bFA1WEJmUlZhdmtFd3czaFI5U0s2Y3Uxd1QtdmN5TWhfUE5DNlFyTFktdHJUNzM5bW5JcTNmcm5ZN29JSVJkR19kMlRsb3pxTGRva2xocHIyaER0MmxkNDFqLXdSeU1ZRXJMbk1QbGRuemlHX1FMbXVYdnJmOWVNck5yaTd1MFFUQTFmOUxTNGhVdmdSaUNkMjRUTGVEWWZsU2hSMHZlZ3RmNzVtY1Jn?oc=5)
+來源：[Vivere Pesaro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZnk5VGZFVWxtUGU2NzVBQUdINzNPU25waFZ5ZkhwZkl1N29yejNQVVFWOTRDemhFWVZObE5XUTVSUzdNTGhJZFJhY0NpaU01eDdiRmhRbW4xNk1XczNCNjZIVVVIV2NtVUdCUnBRS2c0aXh4ZDZmZmxGYVl6SHV0eVZLVGJEWGpvMnYweng2bGI1ZnpSRWxnMlVuRGN2WTQ1T2poTEY1YldKNWllTmFMdHZDSWR6ZlQ2TUhxcGJkbVdQN3V6OEFYcXNpZ2t6RUsxUV9FZw?oc=5)
+
+---
+
+### [Prodrug lipid nanoparticle could unlock universal immunotherapy for solid cancers](https://news.google.com/rss/articles/CBMijgFBVV95cUxNeXJHZDEtTDJPVUJuVENHQXZpeEx6MVozTC1uampZUTRSTkxqS1VhNG5FUFE3a1d2NnZLd3FwTWlyTDBoN1NvZWNjN0NmSlNJYUpyVlJTV2NMMFpoc3JxYXg4NXdkMUZGeFRwXzNnSkdfckFXR3RlOU8tZ0RVem1taThJaDRWNVctdTMxSDV3?oc=5)
+
+2026-03-18 <span class="news-indication-tag">cancer</span>
+
+來源：[Phys.org](https://news.google.com/rss/articles/CBMijgFBVV95cUxNeXJHZDEtTDJPVUJuVENHQXZpeEx6MVozTC1uampZUTRSTkxqS1VhNG5FUFE3a1d2NnZLd3FwTWlyTDBoN1NvZWNjN0NmSlNJYUpyVlJTV2NMMFpoc3JxYXg4NXdkMUZGeFRwXzNnSkdfckFXR3RlOU8tZ0RVem1taThJaDRWNVctdTMxSDV3?oc=5)
 
 ---
 
@@ -130,27 +162,11 @@ permalink: /news/agalsidase-beta/
 
 ---
 
-### [Nerven und Tumorzellen: Die Biohacker in meinem Leib](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeEg2cXY1NGpqRHBVWVlMOVZtbVNudVl3UEhPYXpnbkdRVlhiU1NaWVRlT21IUUdyOXA0V09RM3JRX0lnZ0hmZmN6a3E5dDRMU0NMM29hcmpMSDFWSHpDdEM5SVBnRHIwVHRJd0JtUkdhYzBLNVI0SzlpRTN3dGtrTENjU1pTWlk3UXdHSXNEajZMa3lKazVVME0xMm1SQ0I0d1pXaHBud3lZYVNFU1FFNFVQLVo5Q1BsdnhYNXJMRDk3WlU?oc=5)
-
-2026-03-18 <span class="news-indication-tag">tumor</span>
-
-來源：[FAZ](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeEg2cXY1NGpqRHBVWVlMOVZtbVNudVl3UEhPYXpnbkdRVlhiU1NaWVRlT21IUUdyOXA0V09RM3JRX0lnZ0hmZmN6a3E5dDRMU0NMM29hcmpMSDFWSHpDdEM5SVBnRHIwVHRJd0JtUkdhYzBLNVI0SzlpRTN3dGtrTENjU1pTWlk3UXdHSXNEajZMa3lKazVVME0xMm1SQ0I0d1pXaHBud3lZYVNFU1FFNFVQLVo5Q1BsdnhYNXJMRDk3WlU?oc=5)
-
----
-
 ### [Cancer de la prostate : les ultrasons focalisés désormais remboursés - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjN3dWxQckRfNFZhWUo3WGhISHRtYkE5Z0gxLWl2U1h5REI2OWNQbmRWb2tQYWYyNDJrVTVkdFE2a0RESmY1WThnYl8xWExMZExtVTBmNVVZd2phYlpMZ2p2bGg5cTktb0tLbHE3WGxBMF9yNjBWYS13VXoyNGp6dmlQcy1hSFVVNU9DNXRvWkdZOGxlVFc4Ulk4LWZWSUxId1FvQUtjbVduZ3laOXRDTS1LY1VhODhYZU1z?oc=5)
 
 2026-03-18 <span class="news-indication-tag">cancer</span>
 
 來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjN3dWxQckRfNFZhWUo3WGhISHRtYkE5Z0gxLWl2U1h5REI2OWNQbmRWb2tQYWYyNDJrVTVkdFE2a0RESmY1WThnYl8xWExMZExtVTBmNVVZd2phYlpMZ2p2bGg5cTktb0tLbHE3WGxBMF9yNjBWYS13VXoyNGp6dmlQcy1hSFVVNU9DNXRvWkdZOGxlVFc4Ulk4LWZWSUxId1FvQUtjbVduZ3laOXRDTS1LY1VhODhYZU1z?oc=5)
-
----
-
-### ['Talented & fit' student, 20, died after he contracted sepsis in hospital](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXhPNHJHdi1SWDQ5enFBYWFBZWc0M1dhMklGWEl6d3B3VklxZ3BDeTRLRG15NGtGTGd2OXh5eXJ1TG5WRWdCNTdyczAydTAydFUyRzdtNkZ3dG9IcTBJQ0ctM2o0bUhtcm95dVUyOVdHN3N1TW9TQzc3UlpaMm5PV2VpR0ZkRHhUYmk1MVUtMFY?oc=5)
-
-2026-03-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXhPNHJHdi1SWDQ5enFBYWFBZWc0M1dhMklGWEl6d3B3VklxZ3BDeTRLRG15NGtGTGd2OXh5eXJ1TG5WRWdCNTdyczAydTAydFUyRzdtNkZ3dG9IcTBJQ0ctM2o0bUhtcm95dVUyOVdHN3N1TW9TQzc3UlpaMm5PV2VpR0ZkRHhUYmk1MVUtMFY?oc=5)
 
 ---
 
@@ -167,6 +183,14 @@ permalink: /news/agalsidase-beta/
 2026-03-18 <span class="news-indication-tag">cancer</span>
 
 來源：[Social Mag](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGZDRm1qc2wwSFhncVkzSWZJcjV1ck5LbmFjc1AwYzRvV0M4ZThxYUt4T3lXZHZERHZRVFNNeVo0dGNKRWJ1dy1ERUFJZ1FuZnBUUFdibEtXeFFGaWJkWUVlQ3BlX0J0R2JsaGVNcUxBeEtLUkRQZVkweDAtU0Iyd3E5RXZqM2NPZldERzJ0bkwzVWowTVdRSG43cUVVeVVSd0h6TlJGMUJsZTlYLTYyNFppeS1hQQ?oc=5)
+
+---
+
+### [Sunak urges men to have prostate cancer tests after Telegraph campaign - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3JabFBKR1NLeEtCejdsU3dhampaaUJWSk8xWHpmYU5FS1A3c3BWeEFzQXZPZzdQT05kVnE2QmJIZnF4anRPc0g0aU5Lb3hSdkVUTEl1QnNXOHJmeDQ5LTZtY0c4YTlMUXNlMlJXOWNqQ1RhQ2E4VWR0b3MxZjRWRVB5TEE5QXh2ZjllSFo2UDFsQ3Zocl9vSlNrajZ4NF90WXc4?oc=5)
+
+2026-03-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3JabFBKR1NLeEtCejdsU3dhampaaUJWSk8xWHpmYU5FS1A3c3BWeEFzQXZPZzdQT05kVnE2QmJIZnF4anRPc0g0aU5Lb3hSdkVUTEl1QnNXOHJmeDQ5LTZtY0c4YTlMUXNlMlJXOWNqQ1RhQ2E4VWR0b3MxZjRWRVB5TEE5QXh2ZjllSFo2UDFsQ3Zocl9vSlNrajZ4NF90WXc4?oc=5)
 
 ---
 
@@ -210,14 +234,6 @@ permalink: /news/agalsidase-beta/
 
 ---
 
-### [Man 'prescribed omeprazole' and 'reassured' later diagnosed with stage four cancer - Wales Online](https://news.google.com/rss/articles/CBMilwFBVV95cUxNN05heVc4V01KM29OTnl5cWV0QldvdU92czRaWjdVd3dPOHd5WUtTRldfb01MSWZpSG9lRnAzc0RlZFg4WTZWUV94VkltRUpWWmhRX2lEVHZKaVhJZWhKdVVPYTB0NnJ2OHNqOTVhRGlOUFBPS1gwRWp3Y0JMYXlmYktjd1BkcVlwWm1Tb3JaWGF5M2F0WGZr0gGcAUFVX3lxTE9McmJ4LUhLOC02ZTA1MDFCSnpuZWkxWGYxNlI3MEstM0JtUmZNbW0xV25leHZVZzdoXzdLLUU3NDRNaU5EZkIwQTdpSzNqb2hGQ09WUDBnR1R5b0JQZVYzNXJYb1dYWUxBNEQ4dXd0MUNrb2R6RUM2MlhBT2h4THhabHMwVTRTcHBLWjhPUUI0SURqNXNHRXNyRE45RA?oc=5)
-
-2026-03-17 <span class="news-indication-tag">cancer</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMilwFBVV95cUxNN05heVc4V01KM29OTnl5cWV0QldvdU92czRaWjdVd3dPOHd5WUtTRldfb01MSWZpSG9lRnAzc0RlZFg4WTZWUV94VkltRUpWWmhRX2lEVHZKaVhJZWhKdVVPYTB0NnJ2OHNqOTVhRGlOUFBPS1gwRWp3Y0JMYXlmYktjd1BkcVlwWm1Tb3JaWGF5M2F0WGZr0gGcAUFVX3lxTE9McmJ4LUhLOC02ZTA1MDFCSnpuZWkxWGYxNlI3MEstM0JtUmZNbW0xV25leHZVZzdoXzdLLUU3NDRNaU5EZkIwQTdpSzNqb2hGQ09WUDBnR1R5b0JQZVYzNXJYb1dYWUxBNEQ4dXd0MUNrb2R6RUM2MlhBT2h4THhabHMwVTRTcHBLWjhPUUI0SURqNXNHRXNyRE45RA?oc=5)
-
----
-
 ### [Prostata-tumor: laser schaltet krebszellen aus – ohne organ zu ve...](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMk8tSjY4SldDaGxMY2tfWjlDdm42bXZwODRhUHRaS1B5aU1QUWhvR3VuejJDOUFnWmsweHNncTB0cjcwOVR3SlN4THNCQnlEeFNsMDloVlo2eEV1T2UxVFN6b19TbzFGbU9qWHExaWYwOFlrelVBZzNMSDlvR3BUSi0ta21yR0VqQ2dYN0RsdVRYVnVZVVN5MjRabVRtSHJBOWtj?oc=5)
 
 2026-03-17 <span class="news-indication-tag">tumor</span>
@@ -247,14 +263,6 @@ permalink: /news/agalsidase-beta/
 2026-03-17 <span class="news-indication-tag">Krebs</span>
 
 來源：[WinFuture](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xR1dnUjhBamVpbjkxbWhlVDZ4WF85TVNydjlCaVVib1JpYXJqc1lBbnRpOU55QVROb2k5VkVLMm04bVVidlZJY2pzWEkyUQ?oc=5)
-
----
-
-### [Troubling truth behind the rise of testicular cancer in young men - Daily Mail](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdS1GVE9rS182anEyZFQ4UVdrT2p4RkFUVEtCb244Q2J2S3Ixd2tLVkx2Z0hGbVZLaVhSR0xIUF9qTFkxOWM2blVQMXUwaHdKN3VmeGtoT0ptWXNYX2d3TXExWVp0VnFjWk95WUFQMkNONjF6cjhoaGdYaVNaMVpoZURjQUNIem9JdWJhM2hWTElWNHM5ZGtZblM2U2JKVnc?oc=5)
-
-2026-03-17 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdS1GVE9rS182anEyZFQ4UVdrT2p4RkFUVEtCb244Q2J2S3Ixd2tLVkx2Z0hGbVZLaVhSR0xIUF9qTFkxOWM2blVQMXUwaHdKN3VmeGtoT0ptWXNYX2d3TXExWVp0VnFjWk95WUFQMkNONjF6cjhoaGdYaVNaMVpoZURjQUNIem9JdWJhM2hWTElWNHM5ZGtZblM2U2JKVnc?oc=5)
 
 ---
 

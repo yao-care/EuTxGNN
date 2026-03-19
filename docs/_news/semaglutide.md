@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [„Als hätten sie kein Diabetes“: Ist diese Ernährung die Lösung für Erkrankte? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
+
+2026-03-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
+
+---
+
+### [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+
+2026-03-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
+
+---
+
+### [The $1 superfood that slashes weight like Ozempic, improves heart health and lowers cancer risk - Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXl1bGU1RUFyMWV2UGE5aEc0elVFdnlhZ2swVDA2NUhEOGU2UHBwYUROVGhEbHhpY1ZPSDdkc3d6NGc4VDE1Y1hKb0MxMUdvZTI0b1l5SFhJME1SN1RrWVpXejYwNm9TRkZ2X3NWcmMzVVZ3QWNfLXhpT2Y0NlE3VTJWOUxadFRkengwVTZRaU1HNWVOaUNxUTd2eHdtekFNYTZvSEhmbFd3QkRtN3lIT1E2d9IBuAFBVV95cUxQOExmTTlJTE15REEtejZQNDRxbDR3UGl1aF9yc05JQ1VlMS01OWJxcThCV3N6aEZVZy1VYjZyTUJxWU5fV05pTG8zdDlQbS0xMC0wSjRCT0JEcUdCYXA2cXp3Z3hINGdnOHlkcFRzSUtraFNCRVR5eXhVeEZYVFAwV0hsTlFqcVZReXQyXzdqbUZyU2E0cUJwaEt4OWpMQ3FOSnpWQnhia0xJTjM5UWVSRGlLTmJfUnZL?oc=5)
+
+2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXl1bGU1RUFyMWV2UGE5aEc0elVFdnlhZ2swVDA2NUhEOGU2UHBwYUROVGhEbHhpY1ZPSDdkc3d6NGc4VDE1Y1hKb0MxMUdvZTI0b1l5SFhJME1SN1RrWVpXejYwNm9TRkZ2X3NWcmMzVVZ3QWNfLXhpT2Y0NlE3VTJWOUxadFRkengwVTZRaU1HNWVOaUNxUTd2eHdtekFNYTZvSEhmbFd3QkRtN3lIT1E2d9IBuAFBVV95cUxQOExmTTlJTE15REEtejZQNDRxbDR3UGl1aF9yc05JQ1VlMS01OWJxcThCV3N6aEZVZy1VYjZyTUJxWU5fV05pTG8zdDlQbS0xMC0wSjRCT0JEcUdCYXA2cXp3Z3hINGdnOHlkcFRzSUtraFNCRVR5eXhVeEZYVFAwV0hsTlFqcVZReXQyXzdqbUZyU2E0cUJwaEt4OWpMQ3FOSnpWQnhia0xJTjM5UWVSRGlLTmJfUnZL?oc=5)
+
+---
 
 ### [Se abren nuevas vías para mejorar el pronóstico del ictus en afectados con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
 
@@ -68,7 +92,7 @@ permalink: /news/semaglutide/
 
 ### [Alcool, tabac, cocaïne... Comment les médicaments antiobésité pourraient limiter les addictions - Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
 
-2026-03-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+2026-03-18 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFowaGdYLTJCdzBPMy1MdmxpUDVaZVpGN0ItT3NzNjZmNHg2Zy1ldy1kQ3prRkR5TldNbWsteXNHRGx6U0NXT0F1VW44R2dQWGExaHZudGU5TUNuaXJNYVRtQ3pXZ09sbW5BMTRUT2NMZ3lROE51NUliMHFLMWNMR2JOd0tTYVE3aFJIQnF4S2xFcklsaHlBd0lMSXFLMF9wWVNyOWRhVUFuOXdUYm81UnFFNzctSFBSNk0zdWF6LWRCbjdkZGtEUEFSUFRadTA?oc=5)
 
