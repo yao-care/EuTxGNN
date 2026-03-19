@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Guselkumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Se abren nuevas vías para mejorar el pronóstico del ictus en afectados con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
+
+2026-03-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
+
+---
 
 ### [Gesund im Alter: Diabetes, Cholesterin, Bluthochdruck, Adipositas – wie Sie das „tödliche Quartett“ besiegen](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUjl1MFNpc3c4REo3em9Ua016SDRKLVZ3QmpEM2xnV0FQZ0pkeVZTTDhheXVsZ3d3emVoMUdkcFNLMkh3OEFJd0lZSkZxSXBtWHZoRnNMbUwzS0JuWWlDc0xNZTItRzFtVVFiV1BZUjZBS0E3R3gwamNMVFA4Wmx0Z2wzLXhwM282UWtFU0oyY2J1WTFiTEZXTTFOUGFXVkpJeUVnM20xZl9feENiTUJUOHBPbGdBSC1HWHR1NzBjcmJFdXFtSmhzZkZJUU5iRjIzZ2F5SE1mbUNyM2FMTTd2US1IN2V2VG84LVFtVmlobFFTaTJod0trUHBB?oc=5)
 
@@ -66,11 +74,11 @@ permalink: /news/guselkumab/
 
 ---
 
-### [Data from smart watches reveal early signs of insulin resistance](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
+### [Malattie infiammatorie intestinali, al Mici dell'ospedale Cervello un premio per la cura di colite ulcerosa e Crohn](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUR5SU9qU0U1YTRicHZZYzU4X3l3b2xUZ1lhcUxwY2tVMlZ4S1lHaU1JaXp4dnN4c1p4bnpuSnJRVW42UDltbF9pY3cxY1Y5ZGhtaTJiY2o1dmJBZlJLaGNFTEFOcUpMYnJldmNRaUdxUkRoYkViMXJCNXR1bnZrck0zU3NyV3J5YW9HUV9yQUhQNWVaa1E?oc=5)
 
-2026-03-16 <span class="news-indication-tag">diabetes</span>
+2026-03-17 <span class="news-indication-tag">colite ulcerosa</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LdEhsa0dqX090NGxKemZINEoxbk1YRF90NHhObHRieDNKM3NDd1doRUl0QUlFVTNodlZKUnpyR1JxV2g3bGN1ZTdtWTFWbTNGN3VFcVBXRnY0Y1pFUlVN?oc=5)
+來源：[PalermoToday](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUR5SU9qU0U1YTRicHZZYzU4X3l3b2xUZ1lhcUxwY2tVMlZ4S1lHaU1JaXp4dnN4c1p4bnpuSnJRVW42UDltbF9pY3cxY1Y5ZGhtaTJiY2o1dmJBZlJLaGNFTEFOcUpMYnJldmNRaUdxUkRoYkViMXJCNXR1bnZrck0zU3NyV3J5YW9HUV9yQUhQNWVaa1E?oc=5)
 
 ---
 

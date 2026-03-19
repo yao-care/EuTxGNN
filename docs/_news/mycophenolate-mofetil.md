@@ -14,7 +14,7 @@ permalink: /news/mycophenolate-mofetil/
 ---
 
 <p class="key-answer" data-question="Mycophenolate Mofetil 有什麼相關新聞？">
-<strong>Mycophenolate Mofetil</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mycophenolate Mofetil</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/mycophenolate-mofetil/
 <li>bone Paget disease（99.7%）</li>
 <li>feline acquired immunodeficiency syndrome（99.7%）</li>
 <li>simian immunodeficiency virus infection（99.7%）</li>
-<li class="indication-matched">multiple sclerosis（99.5%）<span class="indication-tag">📰 MS</span></li>
+<li class="indication-matched">multiple sclerosis（99.5%）<span class="indication-tag">📰 sclérose en plaques</span></li>
 <li>hemosiderosis（99.5%）</li>
 <li>Heiner syndrome（99.5%）</li>
 <li>African iron overload（99.4%）</li>
@@ -40,21 +40,61 @@ permalink: /news/mycophenolate-mofetil/
 <p><a href="{{ '/drugs/mycophenolate-mofetil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（32 則）
 
-### [All doctors in England warned to watch for meningitis symptoms after Kent outbreak](https://news.google.com/rss/articles/CBMiV0FVX3lxTE96bk00YS1mQURyUk1Qc2pwLVlfaEozVkF6Yll4U0NWQ2NIMXhoV040WUNab3k3cC05OU1NUlY5OHA4NVB6OWR3YzlhTnNMQXM4OEU1U3Q1RQ?oc=5)
+### [Universität Bielefeld: Forscher finden Kontrollmechanismus gegen Zellstress](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFk1Q3cxMlhWRHpIb0lVR1pldXBYMExQX01FRHBWa0RiYjkyc2lCMzZpWUlMZFR2RlNIc1lKMGMwZ0g0LW5SWlpEN1FDYTg2RjM0a1Z1Y0NhWUk4X3VNdmpQZnA2REhVSVQtcU1KMk5jMlRsRFluN1FoellaSGRqZGw5RTZCdzM1NkdhWGRkZmxqaWMzdGw4OVBnamlJdkYwU1NqRnR6dFJNMktaZHNsWHVJR0Ftc1NjUGc?oc=5)
 
-2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-18 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE96bk00YS1mQURyUk1Qc2pwLVlfaEozVkF6Yll4U0NWQ2NIMXhoV040WUNab3k3cC05OU1NUlY5OHA4NVB6OWR3YzlhTnNMQXM4OEU1U3Q1RQ?oc=5)
+來源：[guetsel.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFk1Q3cxMlhWRHpIb0lVR1pldXBYMExQX01FRHBWa0RiYjkyc2lCMzZpWUlMZFR2RlNIc1lKMGMwZ0g0LW5SWlpEN1FDYTg2RjM0a1Z1Y0NhWUk4X3VNdmpQZnA2REhVSVQtcU1KMk5jMlRsRFluN1FoellaSGRqZGw5RTZCdzM1NkdhWGRkZmxqaWMzdGw4OVBnamlJdkYwU1NqRnR6dFJNMktaZHNsWHVJR0Ftc1NjUGc?oc=5)
 
 ---
 
-### [La OMS advierte que la tuberculosis mata a 3.300 personas al día y reclama ampliar el acceso a nuevos diagnósticos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFgxZzJUaS1ETF81THVfTkhHMlczU19vMy1WMVRFRURURkdfeXdqVzdicHFZQW5WTWRQWVc5Z0RnYUNNZkhzc0k1dVZBTG9qbTdGRzFVZjk5UndwRVRmMXNxNS0xd3lMY21nWF9QTU44aG50T2hYaVZiNzQ4SmE4RDVvUzJ1cFJINWRpazJTZDJ5MElFbVk3ODZabzJZOG1oY3Y3SWxCSFh6bkF3ZVlISzJMaktxWmhMemJ5enA2MEFuU0VtOVlpdFJIM2tqRk9FQmcxYjF6b1RtTDAwS3ZRUUpqdFp2N2xPcGgwbUtObw?oc=5)
+### ['I kept falling over on Ibiza lads holiday - it turned out to be MS'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eVJKZ1NFUVdMdXFRZ3J0SDZVY2JVTWxnYWhXSmdnN0dQWl9QYlVLNU5JcEJxVjc5T2NFV2ZPQkFLamtXY0VMMk1xRTdISHRaNG54VHdaSHluX1FU?oc=5)
 
 2026-03-18 <span class="news-indication-tag">MS</span>
 
-來源：[medicosypacientes.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFgxZzJUaS1ETF81THVfTkhHMlczU19vMy1WMVRFRURURkdfeXdqVzdicHFZQW5WTWRQWVc5Z0RnYUNNZkhzc0k1dVZBTG9qbTdGRzFVZjk5UndwRVRmMXNxNS0xd3lMY21nWF9QTU44aG50T2hYaVZiNzQ4SmE4RDVvUzJ1cFJINWRpazJTZDJ5MElFbVk3ODZabzJZOG1oY3Y3SWxCSFh6bkF3ZVlISzJMaktxWmhMemJ5enA2MEFuU0VtOVlpdFJIM2tqRk9FQmcxYjF6b1RtTDAwS3ZRUUpqdFp2N2xPcGgwbUtObw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eVJKZ1NFUVdMdXFRZ3J0SDZVY2JVTWxnYWhXSmdnN0dQWl9QYlVLNU5JcEJxVjc5T2NFV2ZPQkFLamtXY0VMMk1xRTdISHRaNG54VHdaSHluX1FU?oc=5)
+
+---
+
+### [Kent meningitis outbreak has been contained, health officials believe - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkZuNHJMVU1oeFRzc0JFQ05YZ3lMcWk4d25oTUZ1WFJfMVZ2dXdMNlVkM0RIdXpFaTAxM0p3X3gya0hIeHRaTXNILVUwWTR6N05kVkU1TjNzV1dvRGZuMUUwQzhNNFgwampXa0hoekhsVE1zZ2JoeFljbVJEdmVYZTBQZmVRRk05ZXd1emM0ZEEtTzdUSTBrWWE1Y3piOWJPVUlHdUpfVVhpaDVwb2h3NnRnTUtOZW8?oc=5)
+
+2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkZuNHJMVU1oeFRzc0JFQ05YZ3lMcWk4d25oTUZ1WFJfMVZ2dXdMNlVkM0RIdXpFaTAxM0p3X3gya0hIeHRaTXNILVUwWTR6N05kVkU1TjNzV1dvRGZuMUUwQzhNNFgwampXa0hoekhsVE1zZ2JoeFljbVJEdmVYZTBQZmVRRk05ZXd1emM0ZEEtTzdUSTBrWWE1Y3piOWJPVUlHdUpfVVhpaDVwb2h3NnRnTUtOZW8?oc=5)
+
+---
+
+### [‘Terrified’ woman, 22, struck by meningitis as boyfriend, 20, fights in ICU - Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU1oRFpYZEJuMlZlV0ZQdkdmaU1IcjlrcVQtZGFxaXdIMFYzSHFZcHk1OXhrWTUtZFhDei1YeTRqdVRVQTB0YW9wWUdwbU9hMU95bHhFU1RVTVk4aExNOXVOYXctSXBKNlVOOC1ZblZSVDN1MXYyWDVvcFF6X1d6WW5rZjIxdlpQYmx6YzY3dnU1cGY3WEhHVHlReHRiQ2J6TmVjLVVQaVFRb295?oc=5)
+
+2026-03-18 <span class="news-indication-tag">MS</span>
+
+來源：[Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU1oRFpYZEJuMlZlV0ZQdkdmaU1IcjlrcVQtZGFxaXdIMFYzSHFZcHk1OXhrWTUtZFhDei1YeTRqdVRVQTB0YW9wWUdwbU9hMU95bHhFU1RVTVk4aExNOXVOYXctSXBKNlVOOC1ZblZSVDN1MXYyWDVvcFF6X1d6WW5rZjIxdlpQYmx6YzY3dnU1cGY3WEhHVHlReHRiQ2J6TmVjLVVQaVFRb295?oc=5)
+
+---
+
+### [‘Serious’ warning issued to millions taking Omeprazole over problems drug causes](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+
+2026-03-18 <span class="news-indication-tag">MS</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+
+---
+
+### [ChatGPT did not cure a dog’s cancer - The Verge](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclEtZ2Y2S3lsWHBhUXROREdGN2ZJS1F2d1pGZFhNQzZPS0lLYnloS2ZOc2NWaDd5YU05QmVQOG9MTnVqT3huRFlUR3g0dkNxblhNa29BaHZfc3Z2a2xBbENVY1pHbkpJalJuX3JJUU9ya0tVVVdnbThGb05sVFRSaW1iUVRnb244UGJZQ252clFwV0t6RkE?oc=5)
+
+2026-03-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Verge](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclEtZ2Y2S3lsWHBhUXROREdGN2ZJS1F2d1pGZFhNQzZPS0lLYnloS2ZOc2NWaDd5YU05QmVQOG9MTnVqT3huRFlUR3g0dkNxblhNa29BaHZfc3Z2a2xBbENVY1pHbkpJalJuX3JJUU9ya0tVVVdnbThGb05sVFRSaW1iUVRnb244UGJZQ252clFwV0t6RkE?oc=5)
+
+---
+
+### [Se abren nuevas vías para mejorar el pronóstico del ictus en afectados con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
+
+2026-03-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
 
 ---
 
@@ -74,11 +114,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [La OMS pide optimizar los calendarios de vacunación nacionales ante el inicio de una etapa "desafiante"](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkMtR0NqZkIwYVhEYjduNFppVXJTN2psZlJKdUhtOGNuMjRhWkZxMGZWSkcwbnZxYWRzdjQ1RW5UdTBUS1JKZnVBcXdwRU15ZkNCUlFwcE1iSnpHQ3lqT0RmdDRpSHVvOXdhWHBJS0ZodnZuZTdJa2NVWjhmMTRTZzNKemlDUnpYV3VIUjR3SWY1Zm9ROU5DekU0eVJRT2tPNlBYTGhxYVpjZ2pYd3ctOUQ1azNoUXRDT3Bsc3JfMjRKM29DbmNGTml0LXQyb1A2S0xIU0k3aw?oc=5)
+### [El coste de las pruebas de detección de tuberculosis puede reducirse "en un 50% o más" con el nuevo plan de la OMS](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdzg2U0FOdjE2eHhRaVdzMnhYZE9rS0NHQ3VrUUdrVWRPRVNvVTVVa0YxNG5TMWpjYUNra3dsY3hYZjB1ZlJycmNLYWF4dWpRRzBDVG9DdnVoUXNkVU9xM2V0YXU2RmY4dksydTBCTy1GYWFTWjE1REx6dHg0dU12dUc1bndXVm8tQTA1azZ0Y2NHdXQ0V3FKQ1hHN3JfQlR0cnJaX0RpbTFrNzN6QVQ2bDYxQmZjSDA3ZVFEdXV6aGVHajlVLWJoUWdqMThQS2M?oc=5)
 
-2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-18 <span class="news-indication-tag">MS</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkMtR0NqZkIwYVhEYjduNFppVXJTN2psZlJKdUhtOGNuMjRhWkZxMGZWSkcwbnZxYWRzdjQ1RW5UdTBUS1JKZnVBcXdwRU15ZkNCUlFwcE1iSnpHQ3lqT0RmdDRpSHVvOXdhWHBJS0ZodnZuZTdJa2NVWjhmMTRTZzNKemlDUnpYV3VIUjR3SWY1Zm9ROU5DekU0eVJRT2tPNlBYTGhxYVpjZ2pYd3ctOUQ1azNoUXRDT3Bsc3JfMjRKM29DbmNGTml0LXQyb1A2S0xIU0k3aw?oc=5)
+來源：[Notimérica](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdzg2U0FOdjE2eHhRaVdzMnhYZE9rS0NHQ3VrUUdrVWRPRVNvVTVVa0YxNG5TMWpjYUNra3dsY3hYZjB1ZlJycmNLYWF4dWpRRzBDVG9DdnVoUXNkVU9xM2V0YXU2RmY4dksydTBCTy1GYWFTWjE1REx6dHg0dU12dUc1bndXVm8tQTA1azZ0Y2NHdXQ0V3FKQ1hHN3JfQlR0cnJaX0RpbTFrNzN6QVQ2bDYxQmZjSDA3ZVFEdXV6aGVHajlVLWJoUWdqMThQS2M?oc=5)
 
 ---
 
@@ -90,27 +130,19 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Kein Witz: Kaffee besser nicht mit Milch trinken](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXUwVEpLTk5QaFVIZEwwOGNsNzROZmJidEw1Y0txVDBfZHIycUpfYnY0SklEaHJIMFd3Tk10QldEdWxaNjRHYWhfQlAyN0E5aXBGck5LaUVpMldCV05kUmhlWWVvelhNaWRCdVEybDBUWGFDVDZYWERGMGNSUkpOR3ZBWS1KZ0FsN2JyN1FYX3h6RGUtTzYyTUFaOC05dHEwWmhPY0FhMGVuS3pDNU42V0xFSndFb3ctOG5kcVZ4TXY0SFExaTNRS01iakkzc3FRYy1zUDBEN1BpRm4wUktr?oc=5)
+### [Nuove indicazioni dell'Oms sui vaccini: due richiami Covid l'anno per i fragili e booster anti-tifo a 5 anni - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxPRnJPaTBCY2lSUW9sTlI0MkhweXNzT1Q5MkFjX2hnZ2tid0ZOMWNLTVJKVnowUzMzdV95aFYzdkg1ZVhqLU9MVTM4cVhjU3BJeU5PQy1uZ0RZdG5xNGtkSUZuNXpPeHdTOEEzblZWOGd5OVUzYThEVkFmUmhoOWVXTHBzMXQzVW9qV3NfWDZWS0NOTi05aUg2clRhdjZIaF96U3UwNmdsTVBTZGpXMFZKeklGNmJoblpKeVNXZ3RObUlIeGFNS0Z5Qk9aOUJLY0hCLVAwTUZpMTkzMGxlNEhiYUU3NFFXbkpuTl80Z3pmQ3FUSGVxRGczdXpuTHFhaGFIQUVIOTN0MXlFNmdPVDlIV18xdi1hVkM2R19rVnlwMDN0ZFJzdGltSEtwVlF6dVNsN1ZlcWZmUdIBvAJBVV95cUxOSnZPS2ZIV0RtRFlDbkJnbWRnWmNGQk9JRTl6blZLREo0N2NleUVPTDI4SHNmR3Z1eGhjUF9hMkRKNE9ZT0JxVFlYeXZMRXppaEN3T2QyTkIzMUpVOWFDbkQxc0pyM1FBSDVYNEtiYU5yQkRHM1NyWjNubGp6cDBqUGEtWFdmclNxMFB1aEdPdm9IUlBZRDJMYVpfakUzLVVDUjFSZnN4cjBvcjNhSUNpRGYtTUswS0lYTFZZZ3VuRVlCTFYxdHRmOUttekp1OEdEcTI4TVd3eWNkbnlNdmdrTkU4SndyS1dwcmxHOWYxUkNJZXZpSVFlVDA4Nm9Qb211VVNDYldqVlp4eXhfNGk4OVYxcWhiU01aWHdaYWN3NVlxU29HSVY2Q2ZIWVVTazVpN0FFVTkxTlZiLVhC?oc=5)
+
+2026-03-18 <span class="news-indication-tag">MS</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxPRnJPaTBCY2lSUW9sTlI0MkhweXNzT1Q5MkFjX2hnZ2tid0ZOMWNLTVJKVnowUzMzdV95aFYzdkg1ZVhqLU9MVTM4cVhjU3BJeU5PQy1uZ0RZdG5xNGtkSUZuNXpPeHdTOEEzblZWOGd5OVUzYThEVkFmUmhoOWVXTHBzMXQzVW9qV3NfWDZWS0NOTi05aUg2clRhdjZIaF96U3UwNmdsTVBTZGpXMFZKeklGNmJoblpKeVNXZ3RObUlIeGFNS0Z5Qk9aOUJLY0hCLVAwTUZpMTkzMGxlNEhiYUU3NFFXbkpuTl80Z3pmQ3FUSGVxRGczdXpuTHFhaGFIQUVIOTN0MXlFNmdPVDlIV18xdi1hVkM2R19rVnlwMDN0ZFJzdGltSEtwVlF6dVNsN1ZlcWZmUdIBvAJBVV95cUxOSnZPS2ZIV0RtRFlDbkJnbWRnWmNGQk9JRTl6blZLREo0N2NleUVPTDI4SHNmR3Z1eGhjUF9hMkRKNE9ZT0JxVFlYeXZMRXppaEN3T2QyTkIzMUpVOWFDbkQxc0pyM1FBSDVYNEtiYU5yQkRHM1NyWjNubGp6cDBqUGEtWFdmclNxMFB1aEdPdm9IUlBZRDJMYVpfakUzLVVDUjFSZnN4cjBvcjNhSUNpRGYtTUswS0lYTFZZZ3VuRVlCTFYxdHRmOUttekp1OEdEcTI4TVd3eWNkbnlNdmdrTkU4SndyS1dwcmxHOWYxUkNJZXZpSVFlVDA4Nm9Qb211VVNDYldqVlp4eXhfNGk4OVYxcWhiU01aWHdaYWN3NVlxU29HSVY2Q2ZIWVVTazVpN0FFVTkxTlZiLVhC?oc=5)
+
+---
+
+### [Meningite, l'allarme nel Regno Unito. Cause, sintomi e tutto quello che c’è da sapere su una malattia rara, ma potenzialmente fulminante - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOFAzeWtqUDU3eDRMRmtVX0dnWEREY2p3cktDX0g4V1BFVGppSElnNmppSkFHYmE1MnRJQVc2VUFGZlM3dGt4Snk4MGdFSXhWNGFhZ1J1RC1wdWRPQ21udnhmRmRJN0J4cVFFR0tnbzV3NVJpNk9NZHp3Zlp0bUJHZ0dXSEN4YkFvOUZWRy1XSXpMZDNKVE9WdEYzdnNFR3VGZzZVNmNBTk9NZ0ZueUNSSnVYR242WHFYQ2Y3Q3hhNXhFMFo2MWZxdGJlelMxRVJzdHRhbjdaWDFCZThDLUE?oc=5)
 
 2026-03-18 <span class="news-indication-tag">AF</span>
 
-來源：[Ruhr24](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXUwVEpLTk5QaFVIZEwwOGNsNzROZmJidEw1Y0txVDBfZHIycUpfYnY0SklEaHJIMFd3Tk10QldEdWxaNjRHYWhfQlAyN0E5aXBGck5LaUVpMldCV05kUmhlWWVvelhNaWRCdVEybDBUWGFDVDZYWERGMGNSUkpOR3ZBWS1KZ0FsN2JyN1FYX3h6RGUtTzYyTUFaOC05dHEwWmhPY0FhMGVuS3pDNU42V0xFSndFb3ctOG5kcVZ4TXY0SFExaTNRS01iakkzc3FRYy1zUDBEN1BpRm4wUktr?oc=5)
-
----
-
-### [Sanidad publica la nueva Guía de Manejo Clínico de las Enfermedades Transmitidas por Garrapatas en España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDhvZnR1VmhLQXlsX253OVI3QkRha2xiT3drUWxELVRKSUlwRDJBUk9PY3VqdFl4RnZ5R3B1UGFkZTVaWW9jV0FpdDE3T2xwMVdkcE84dml1bE54Rktjb09pWl9jTDRjOXZnYkJQcmRQaWpMYVlRa3dDdENicmpTUERFeGJTQU9RTlczQk9GQkNpVXVLWXNWYThQeFlUMmdjdENIaWdJYmNMeE1WUTZzVFFSNGs5Q0VfNGJPMV8wMElQS1NjVEh0bkE5aVB0Um9GNVZZblhDTkprZjQ?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[medicosypacientes.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDhvZnR1VmhLQXlsX253OVI3QkRha2xiT3drUWxELVRKSUlwRDJBUk9PY3VqdFl4RnZ5R3B1UGFkZTVaWW9jV0FpdDE3T2xwMVdkcE84dml1bE54Rktjb09pWl9jTDRjOXZnYkJQcmRQaWpMYVlRa3dDdENicmpTUERFeGJTQU9RTlczQk9GQkNpVXVLWXNWYThQeFlUMmdjdENIaWdJYmNMeE1WUTZzVFFSNGs5Q0VfNGJPMV8wMElQS1NjVEh0bkE5aVB0Um9GNVZZblhDTkprZjQ?oc=5)
-
----
-
-### [‘Serious’ warning issued to millions taking Omeprazole over problems drug causes](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOFAzeWtqUDU3eDRMRmtVX0dnWEREY2p3cktDX0g4V1BFVGppSElnNmppSkFHYmE1MnRJQVc2VUFGZlM3dGt4Snk4MGdFSXhWNGFhZ1J1RC1wdWRPQ21udnhmRmRJN0J4cVFFR0tnbzV3NVJpNk9NZHp3Zlp0bUJHZ0dXSEN4YkFvOUZWRy1XSXpMZDNKVE9WdEYzdnNFR3VGZzZVNmNBTk9NZ0ZueUNSSnVYR242WHFYQ2Y3Q3hhNXhFMFo2MWZxdGJlelMxRVJzdHRhbjdaWDFCZThDLUE?oc=5)
 
 ---
 
@@ -119,6 +151,14 @@ permalink: /news/mycophenolate-mofetil/
 2026-03-18 <span class="news-indication-tag">MS</span>
 
 來源：[Stadt Bochum](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZE41dU1MMkhiSjZ4SWEwWjBHWi1KbzFESXl1LV9qNW9wRGNqb1RDczFzZVNlWUlMLVd3VU9KUkhZY3IzMUZoSWd0SkxPZTV6TTlvT2RIVnhlaUFmRUdQakFydnQ5a3NlaG5WdF9Na0dDbFZJeFBDTXJ1TmI5NzJIRlFBSU1mRV9JUXc3QWNoZnZfT0pkbkMzNA?oc=5)
+
+---
+
+### [Patients put at risk of HIV after hospital sterilisation error - South Wales Argus](https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0VteTM2WFRRc3ZDY3Fpd3EzNUUyTDI3RnB5endoZFFEcmVPNmlwRFhjTFlnVkF5TTBRd3JXZG9uN2NyOVNwN3JuQkNvb2VOTU9LZ016WjNqdlRSY1ZMOGh6VTJDdmZMRF9PWGlfT0NTZzNuZy1pc3htTjFvMW5aSHpVbmhrWXF6aDgtVTdPOFFBT3ltcHhReQ?oc=5)
+
+2026-03-18 <span class="news-indication-tag">AF</span>
+
+來源：[South Wales Argus](https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0VteTM2WFRRc3ZDY3Fpd3EzNUUyTDI3RnB5endoZFFEcmVPNmlwRFhjTFlnVkF5TTBRd3JXZG9uN2NyOVNwN3JuQkNvb2VOTU9LZ016WjNqdlRSY1ZMOGh6VTJDdmZMRF9PWGlfT0NTZzNuZy1pc3htTjFvMW5aSHpVbmhrWXF6aDgtVTdPOFFBT3ltcHhReQ?oc=5)
 
 ---
 
@@ -138,11 +178,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### ['Talented' student, 20, died from sepsis after 'inadequate' hygiene at Christie Hospital - Manchester Evening News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHp6UzBYT1FlVWsxdE9wTHhOVEl1NmVlenFiSXM0d1dzWUxkTzZra2pVV0ZqME91UVpGYnhlLVdJdzhvYmFSVkpvVGU3Z3QyWFZsdTlPYnhJcVZVN21iNzMwWWtPdEIyN0wzYmVPQVV5ckpKaUtRc1J5czREUEhZRDRTQXhhejltSEpCR0c2YlBEeVXSAZgBQVVfeXFMT1ZqaTNncFlzNE9JUVFKTFN0dWJra3NBb2Y5RzhhcDJIZ0lKa3lEOEh5b0xUelB1S0ZCVWZXa1g0cmJWQWJmM1FJZFZOSEU4SjU5RjlmTXdsOEZCQlhlRU03SXJhMnF3eEtpdUJmV1o5cEVZdWpMVHZhYjl3UnpJRUszaGRERjAtbE4tZjlLVUhkSUFFX0hXbDU?oc=5)
+### ['Talented & fit' student, 20, died after he contracted sepsis in hospital](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXhPNHJHdi1SWDQ5enFBYWFBZWc0M1dhMklGWEl6d3B3VklxZ3BDeTRLRG15NGtGTGd2OXh5eXJ1TG5WRWdCNTdyczAydTAydFUyRzdtNkZ3dG9IcTBJQ0ctM2o0bUhtcm95dVUyOVdHN3N1TW9TQzc3UlpaMm5PV2VpR0ZkRHhUYmk1MVUtMFY?oc=5)
 
 2026-03-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHp6UzBYT1FlVWsxdE9wTHhOVEl1NmVlenFiSXM0d1dzWUxkTzZra2pVV0ZqME91UVpGYnhlLVdJdzhvYmFSVkpvVGU3Z3QyWFZsdTlPYnhJcVZVN21iNzMwWWtPdEIyN0wzYmVPQVV5ckpKaUtRc1J5czREUEhZRDRTQXhhejltSEpCR0c2YlBEeVXSAZgBQVVfeXFMT1ZqaTNncFlzNE9JUVFKTFN0dWJra3NBb2Y5RzhhcDJIZ0lKa3lEOEh5b0xUelB1S0ZCVWZXa1g0cmJWQWJmM1FJZFZOSEU4SjU5RjlmTXdsOEZCQlhlRU03SXJhMnF3eEtpdUJmV1o5cEVZdWpMVHZhYjl3UnpJRUszaGRERjAtbE4tZjlLVUhkSUFFX0hXbDU?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXhPNHJHdi1SWDQ5enFBYWFBZWc0M1dhMklGWEl6d3B3VklxZ3BDeTRLRG15NGtGTGd2OXh5eXJ1TG5WRWdCNTdyczAydTAydFUyRzdtNkZ3dG9IcTBJQ0ctM2o0bUhtcm95dVUyOVdHN3N1TW9TQzc3UlpaMm5PV2VpR0ZkRHhUYmk1MVUtMFY?oc=5)
 
 ---
 
@@ -154,11 +194,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### ['I kept falling over on lads' holiday before learning the devastating reason why' - Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJhblhUYlAxd2ZRbTlJRmFyR3FaWnZoZjZROVJOck0xNnJNcGxZalg4SXBuVGxGWTJnU2JWcklvNC1hc1BsN2VJWjQ5bU1vUkhkYnZxZFdBblB3S0lrNkswUkt1WHBXdnprLWd0STZOWFZ6ZkMxczFGVWptMjY0bVd1NnFkZ9IBiwFBVV95cUxQYzZTZlVCUGJRT2xPQW9CUzk1cU1ET3FCQnJLbHduUUpndmNtUmJxYVV2YXBiWEdfVTM5NjB3bFAwWXFJaDVxMXBQMjRfakt4eWpaOVRSMHJhdTdtREZPX2djVmVGNGZGSnh4UXRSZzVLUThOMHc3SHZPX29FckUtQkFwemxVN3FnQzd3?oc=5)
+### [Dal farmacista i suggerimenti per affrontare al meglio il cambio di stagione](https://news.google.com/rss/articles/CBMirwFBVV95cUxQS2s5TVlKZTlJRUdJaU1sRmFwNFNZVlI3MHFoUHU3Ymc3b1M3eWhrRVpCaWZtN2pzMTVFWUw2bm1OOHpyQUVIdlk4QnltSm1hVHdUa0p5WERJMzJiT1V6QjYzMXBGX20zSWxpc2EtYW1ScEszZWFaeHdxalBMandjc0R3SkJFblRuMHBZVVBXQ3J4ZlIzSnFCd3p6Wmh3VzMyTXlBbHlxX2liVXR6UjFn?oc=5)
 
-2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-18 <span class="news-indication-tag">AF</span>
 
-來源：[Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJhblhUYlAxd2ZRbTlJRmFyR3FaWnZoZjZROVJOck0xNnJNcGxZalg4SXBuVGxGWTJnU2JWcklvNC1hc1BsN2VJWjQ5bU1vUkhkYnZxZFdBblB3S0lrNkswUkt1WHBXdnprLWd0STZOWFZ6ZkMxczFGVWptMjY0bVd1NnFkZ9IBiwFBVV95cUxQYzZTZlVCUGJRT2xPQW9CUzk1cU1ET3FCQnJLbHduUUpndmNtUmJxYVV2YXBiWEdfVTM5NjB3bFAwWXFJaDVxMXBQMjRfakt4eWpaOVRSMHJhdTdtREZPX2djVmVGNGZGSnh4UXRSZzVLUThOMHc3SHZPX29FckUtQkFwemxVN3FnQzd3?oc=5)
+來源：[CoratoLive.it](https://news.google.com/rss/articles/CBMirwFBVV95cUxQS2s5TVlKZTlJRUdJaU1sRmFwNFNZVlI3MHFoUHU3Ymc3b1M3eWhrRVpCaWZtN2pzMTVFWUw2bm1OOHpyQUVIdlk4QnltSm1hVHdUa0p5WERJMzJiT1V6QjYzMXBGX20zSWxpc2EtYW1ScEszZWFaeHdxalBMandjc0R3SkJFblRuMHBZVVBXQ3J4ZlIzSnFCd3p6Wmh3VzMyTXlBbHlxX2liVXR6UjFn?oc=5)
 
 ---
 
@@ -175,30 +215,6 @@ permalink: /news/mycophenolate-mofetil/
 2026-03-18 <span class="news-indication-tag">AF</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSWJTZDVudGlub2tUMHFlVnduQU5qNEdkQlRUQy0zR2Z6NjZXbUZqaHNjOEVzUHRNQ3laeXFyWW5XM1FkbV9HYy02RVR2T3NwTGtId0V6bjZsUmpha1lsMXVwWUVfdFFCb282anNBRG5OVkVzNW1lOGVGN3dkYm01c3NFVmhxUm9FWVFpTVc4WURBMGFiaWpYUFlIRmJRcnQ1S3dmZDRhNWFzVzlGa2RHdXFtTldnYVAzRjg4d3A0WVVaaE8wM1M0cDE5OUtPb3ZNb2RKRVJjeEVHTkw4U3l2YkZfd0JPSlBz?oc=5)
-
----
-
-### [Dr. Alberto Ortiz: «Ahora la enfermedad renal crónica se diagnostica de forma tardía» - La Razón](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUZjTzhaUWVvZUVrS3ZrWi1NOEF4NzhLRjBLZTRFOUdQbXppWlgzUHhJSlZYSl9UMkNRbzl2N2RJakIwMlRycTlGbGhwS2JQZ1RIWF9lbWxhMjBFeGRlWjZRRDRwU3B4SjZDZUtzMk14aExNcVhTLVRtVVRieFJSdUZ6ekZPcXVIS1lnRUZlSUJEY19NUk0zWEdFWjI3NzE2Wkt5WlhhdzBFcmMxOUZ5VVh4SjdaOTJGYS1mclBBSVliOEEzaWduZ1VFQ2oyTkdNNFHSAeYBQVVfeXFMTWNZWFN4c0ROT0hZZkJEd2lFOG5DQmZ2VWJ2S2hoQkg0NjdoYUpndEg4V3E2V0ZnRWdJV1RhYTdKajVwWkRBbTJkWDY2bWRucTduTmJLdTJHR2dEa1ROaFIwdm91QVAteW1TUkRZTmtvLXd0SVY5X05EekluRnp2TE4wSHZjUWpfN0txc2UyZ0dDZFljZDFnd05CcHh3U282TzFjTGV6UFJKTDFMUHVHQlRScGpUZ2ZSRDJZdzhiM2w3QVZUOUlfMlpCOWtQVlNERWozWGs2LWFkWnl2Ni1TN0p5LUMwNHc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">enfermedad renal crónica</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUZjTzhaUWVvZUVrS3ZrWi1NOEF4NzhLRjBLZTRFOUdQbXppWlgzUHhJSlZYSl9UMkNRbzl2N2RJakIwMlRycTlGbGhwS2JQZ1RIWF9lbWxhMjBFeGRlWjZRRDRwU3B4SjZDZUtzMk14aExNcVhTLVRtVVRieFJSdUZ6ekZPcXVIS1lnRUZlSUJEY19NUk0zWEdFWjI3NzE2Wkt5WlhhdzBFcmMxOUZ5VVh4SjdaOTJGYS1mclBBSVliOEEzaWduZ1VFQ2oyTkdNNFHSAeYBQVVfeXFMTWNZWFN4c0ROT0hZZkJEd2lFOG5DQmZ2VWJ2S2hoQkg0NjdoYUpndEg4V3E2V0ZnRWdJV1RhYTdKajVwWkRBbTJkWDY2bWRucTduTmJLdTJHR2dEa1ROaFIwdm91QVAteW1TUkRZTmtvLXd0SVY5X05EekluRnp2TE4wSHZjUWpfN0txc2UyZ0dDZFljZDFnd05CcHh3U282TzFjTGV6UFJKTDFMUHVHQlRScGpUZ2ZSRDJZdzhiM2w3QVZUOUlfMlpCOWtQVlNERWozWGs2LWFkWnl2Ni1TN0p5LUMwNHc?oc=5)
-
----
-
-### [Brit mum, 33, fighting for her life in Tenerife after she's rushed to hospital from airport - Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxONFJrYklwOGhhZVBiRDM4LVNwdlhyWGVIYkFxaWc3b1Z5OS1NWHJya2t6ZUU0UUlaSlkyODFKbE5uZ2NYS014NThrTWZEbXU2THUwaVp3TDd4RlVIRlJmYjUtV2xtdzBlel9FVDAtd011UUV6NnJZWGhXZHViODlOYVBYMzNDeGRjMXlWVloxV0vSAZYBQVVfeXFMT2Znc3RCZUkzRTFEY0Z1WjlZZGdBY3JjWGxkOVFrUW1jWk9MamMyWEJpUVl4bW4zYkVqUDYtelRZYWVxUWRfank4ajY2RUJhMUtFaFRiTUlTVFQ4TlFOSTBiNjY2WXY0S091WkpPQVl0OUNCSnFrWWprQkdFWVlEMGdTeFBvRFF2dFhnOFZmdW54QXlMUnVB?oc=5)
-
-2026-03-17 <span class="news-indication-tag">AF</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxONFJrYklwOGhhZVBiRDM4LVNwdlhyWGVIYkFxaWc3b1Z5OS1NWHJya2t6ZUU0UUlaSlkyODFKbE5uZ2NYS014NThrTWZEbXU2THUwaVp3TDd4RlVIRlJmYjUtV2xtdzBlel9FVDAtd011UUV6NnJZWGhXZHViODlOYVBYMzNDeGRjMXlWVloxV0vSAZYBQVVfeXFMT2Znc3RCZUkzRTFEY0Z1WjlZZGdBY3JjWGxkOVFrUW1jWk9MamMyWEJpUVl4bW4zYkVqUDYtelRZYWVxUWRfank4ajY2RUJhMUtFaFRiTUlTVFQ4TlFOSTBiNjY2WXY0S091WkpPQVl0OUNCSnFrWWprQkdFWVlEMGdTeFBvRFF2dFhnOFZmdW54QXlMUnVB?oc=5)
-
----
-
-### [Hospital in stunning blunder as 21 patients operated on with unsterilised instruments - Wales Online](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkRzSWZzdG90MU4yWTF1U0tNSGs5S3NUT2JXSnhyUF9YTS1xU1J2OWdmOHBkSjRlc1NpUkVSUDIzSEp6clc0UGpGSW1lb2Rkd3hSWlJ1bTFJYVUxVWFGbV9vdjEya3VYajh2ZWtJejdmeVl3eUZRSDdieDRSVG5EVWl5MkFhMnRlSkgwZTdzUmFiS2RMTWhV0gGcAUFVX3lxTFA2MkVscEQwSEQ0YVBlakVnbHNDdm1VS3pTbkh5OExNMEZObmFxV3B0UmxmTHpuQ2tZRnh0aEhpdTY3SEtYZDgwbFV4SWNFa0lHOVR0OHI0YVpRbURXM2xjelZIMmgteG5sUThMTl95aXkwUDc4WUNRX0xaclJpYWY0d0JPb0hNa25rcFFocHV4a19vdGhxcDNGVk51aQ?oc=5)
-
-2026-03-17 <span class="news-indication-tag">AF</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkRzSWZzdG90MU4yWTF1U0tNSGs5S3NUT2JXSnhyUF9YTS1xU1J2OWdmOHBkSjRlc1NpUkVSUDIzSEp6clc0UGpGSW1lb2Rkd3hSWlJ1bTFJYVUxVWFGbV9vdjEya3VYajh2ZWtJejdmeVl3eUZRSDdieDRSVG5EVWl5MkFhMnRlSkgwZTdzUmFiS2RMTWhV0gGcAUFVX3lxTFA2MkVscEQwSEQ0YVBlakVnbHNDdm1VS3pTbkh5OExNMEZObmFxV3B0UmxmTHpuQ2tZRnh0aEhpdTY3SEtYZDgwbFV4SWNFa0lHOVR0OHI0YVpRbURXM2xjelZIMmgteG5sUThMTl95aXkwUDc4WUNRX0xaclJpYWY0d0JPb0hNa25rcFFocHV4a19vdGhxcDNGVk51aQ?oc=5)
 
 ---
 
@@ -234,7 +250,7 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Medical student dies after brain tumour battle](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSXF4T1MyNG8teVEzNXo1Zmk0M3hYRk9YY05qQmppSkQ1Mk5jTUtlTjk0dVpTVnpFaXA5S0liTHEzRGVjUWFQN00xZEV6MEU0TnJRY1M1c0dxbEtj?oc=5)
+### [Medical student Alex Warwick dies after brain tumour battle](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSXF4T1MyNG8teVEzNXo1Zmk0M3hYRk9YY05qQmppSkQ1Mk5jTUtlTjk0dVpTVnpFaXA5S0liTHEzRGVjUWFQN00xZEV6MEU0TnJRY1M1c0dxbEtj?oc=5)
 
 2026-03-17 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
 
@@ -279,46 +295,6 @@ permalink: /news/mycophenolate-mofetil/
 2026-03-17 <span class="news-indication-tag">sclérose en plaques</span>
 
 來源：[Pour la Science](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVJ0VEg5WFpHRUpwYTFjcEVObTZMQVRnTnowUUd5Um5uamRlNG5wT0RncURBd0ZKcmpNeXB2d3pSbERtTmc0TGs4bXc1NTZubDZ0RjNIMDNoRy1GejR4V0lHWnRUYVZUem9PdTVOQlJjdzFUOTVNWV9sY3NqMjRfYmRvX3pFdXJKZWVIWG0waUE0WjZ1SFhxYTFKeTFqdThVQWNxR3hLTVlwOFVoNGJZRWt4UjdrTnJlcWhBQzBB?oc=5)
-
----
-
-### [There’s no such thing as the autism ‘spectrum’](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXNSTlBrank0enJJY3JkSVJfRy1NNzJGUW5IRnZTZjNubzQybEctQURrcW5qa1hjMC1JQ1pOZTFFT2wyZ05GQUtPcDFHdG1tU0tXTHVJaVRMcmxaTUQzRHUxNmZZeXk3ZGlEemJ4dEZiSFhnWFB6VjBuVTBNNmtPM2trSm8xakVxdHBvVzJB?oc=5)
-
-2026-03-16 <span class="news-indication-tag">MS</span>
-
-來源：[Spiked](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXNSTlBrank0enJJY3JkSVJfRy1NNzJGUW5IRnZTZjNubzQybEctQURrcW5qa1hjMC1JQ1pOZTFFT2wyZ05GQUtPcDFHdG1tU0tXTHVJaVRMcmxaTUQzRHUxNmZZeXk3ZGlEemJ4dEZiSFhnWFB6VjBuVTBNNmtPM2trSm8xakVxdHBvVzJB?oc=5)
-
----
-
-### [Reduced physical activity due to global heating will lead to rise in health issues, study says - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3l5bFh5a2NDWDd5YWRJUTNzUWtnX3R0S1ZBSm1GTEY4RHRhQkc1R25fX25oQW9HS3BUWmlOcVVpd0plVGdwbFpaaUxFTHhIU0ZEZUxOWktMdlVhUXY2UFcyOEc5UFBmLS1LQUhIbTE0N1FDeDNPZi1zUGNyTmQ0eko3MENWX083UWtYbGhORHo1ZUlEN3lUaEJYTE95eTd2aHllOUUzV1JtVnlDYjltZWxzNXZVSXpJVTVIczQ4MC1UUQ?oc=5)
-
-2026-03-16 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3l5bFh5a2NDWDd5YWRJUTNzUWtnX3R0S1ZBSm1GTEY4RHRhQkc1R25fX25oQW9HS3BUWmlOcVVpd0plVGdwbFpaaUxFTHhIU0ZEZUxOWktMdlVhUXY2UFcyOEc5UFBmLS1LQUhIbTE0N1FDeDNPZi1zUGNyTmQ0eko3MENWX083UWtYbGhORHo1ZUlEN3lUaEJYTE95eTd2aHllOUUzV1JtVnlDYjltZWxzNXZVSXpJVTVIczQ4MC1UUQ?oc=5)
-
----
-
-### ['My daughter caught meningitis from sharing a vape on a night out' - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3JIYUZHdGhGanlORkIzeFNHbFV6azJMdkpqVXlyTklSZ2tjclpPSG5FRm55djZoLU1Jd3gxaXhXMDl6eTcxVDcxS2NxOXRJbmxMdF9KQjJSZ09KRW1YRHFjQ252S0FZZXY1eEpZc1VBNFhfUkt5S3lFaXA2V2xnaGV2LVhTeWxZekM3WtIBkgFBVV95cUxNOWI5WEFLLUtMaG9PY3JvYmJXQkFmUWJxcC1vaHRWMW5ybXBSQjREcC1Wa0tnVmlOLUMzODkybm1DeEp1aS0tbEc5T1N5cVV4QmJQUjhHb1dmRnIxbDYxeTl1QzBhV040SHpVaTNwVGlucUtTeGI2T1lyaDlSMzA5YTJDcDJ3TTBKdXBtLXF4OXdOUQ?oc=5)
-
-2026-03-16 <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3JIYUZHdGhGanlORkIzeFNHbFV6azJMdkpqVXlyTklSZ2tjclpPSG5FRm55djZoLU1Jd3gxaXhXMDl6eTcxVDcxS2NxOXRJbmxMdF9KQjJSZ09KRW1YRHFjQ252S0FZZXY1eEpZc1VBNFhfUkt5S3lFaXA2V2xnaGV2LVhTeWxZekM3WtIBkgFBVV95cUxNOWI5WEFLLUtMaG9PY3JvYmJXQkFmUWJxcC1vaHRWMW5ybXBSQjREcC1Wa0tnVmlOLUMzODkybm1DeEp1aS0tbEc5T1N5cVV4QmJQUjhHb1dmRnIxbDYxeTl1QzBhV040SHpVaTNwVGlucUtTeGI2T1lyaDlSMzA5YTJDcDJ3TTBKdXBtLXF4OXdOUQ?oc=5)
-
----
-
-### [Newcastle teacher 'facing death sentence' after battling cancer known as the silent killer - Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmtveThmSUg4WmRNSjhzQk43WV9YRWRWNm1EeVJaZzIxVHJ0UVQ0V0dkazItQ2c2REpRZk5RZWRMX1laRVBsTFhUWTZHcjlqTXZwX2tuclNvemh4TkdDVGFkTlhyTDRfNU12YWJPWFViNkEzaGdsa1YxeERLRmFEVGx6SXlpbFpPR2xhSlZibEpCUF85Z1BmaVBQTC1ZZUd4aWpB0gGoAUFVX3lxTE1xVDY4WDFwdzlwZVlCaFpOMmdiY0x0dFluWWlPbXlnWE05OW5tMHJuSW1MOWNOZHdudDItc3M1SjFMbHlBT2RVQkFRYU85QTQwNEtkT3pXOEQ2U0pWQjVzOW83cmYxQ0JfN01aeVM2YkE3UEtBWjdyczNRcndsaGR1c1lRUlNGUTMzRzBuVG10Wno1Nk1hTHladG0xX2RKakdmcU1vOW1DQw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmtveThmSUg4WmRNSjhzQk43WV9YRWRWNm1EeVJaZzIxVHJ0UVQ0V0dkazItQ2c2REpRZk5RZWRMX1laRVBsTFhUWTZHcjlqTXZwX2tuclNvemh4TkdDVGFkTlhyTDRfNU12YWJPWFViNkEzaGdsa1YxeERLRmFEVGx6SXlpbFpPR2xhSlZibEpCUF85Z1BmaVBQTC1ZZUd4aWpB0gGoAUFVX3lxTE1xVDY4WDFwdzlwZVlCaFpOMmdiY0x0dFluWWlPbXlnWE05OW5tMHJuSW1MOWNOZHdudDItc3M1SjFMbHlBT2RVQkFRYU85QTQwNEtkT3pXOEQ2U0pWQjVzOW83cmYxQ0JfN01aeVM2YkE3UEtBWjdyczNRcndsaGR1c1lRUlNGUTMzRzBuVG10Wno1Nk1hTHladG0xX2RKakdmcU1vOW1DQw?oc=5)
-
----
-
-### [Scientists Revive Brain Activity for the First Time After Seven Days in a Frozen Suspended State - The Daily Galaxy](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWlnOE1VWTRqVlNtbHhzNFRDUGNoRWtabldWZ1prLUJZTmFScFdjejBLbE1sc1FOcGdXZ0J6aUhnNFh3dnhhTy0zVk51RWhiNzF3SldiZVhSR1ozUGR4c3dBckkxZVp0RVhWLTNocmFqbVVBU3l4WGZHaEVCUkstUmhNSG14eVF1YjEwRFJsSnBVUWNzcHFnMUVB?oc=5)
-
-2026-03-14 <span class="news-indication-tag">AF</span>
-
-來源：[The Daily Galaxy](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWlnOE1VWTRqVlNtbHhzNFRDUGNoRWtabldWZ1prLUJZTmFScFdjejBLbE1sc1FOcGdXZ0J6aUhnNFh3dnhhTy0zVk51RWhiNzF3SldiZVhSR1ozUGR4c3dBckkxZVp0RVhWLTNocmFqbVVBU3l4WGZHaEVCUkstUmhNSG14eVF1YjEwRFJsSnBVUWNzcHFnMUVB?oc=5)
 
 ---
 

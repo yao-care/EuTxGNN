@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Golimumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
 
 2026-03-18 <span class="news-indication-tag">arthritis</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
+
+---
+
+### [Malattie infiammatorie intestinali, al Mici dell'ospedale Cervello un premio per la cura di colite ulcerosa e Crohn](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUR5SU9qU0U1YTRicHZZYzU4X3l3b2xUZ1lhcUxwY2tVMlZ4S1lHaU1JaXp4dnN4c1p4bnpuSnJRVW42UDltbF9pY3cxY1Y5ZGhtaTJiY2o1dmJBZlJLaGNFTEFOcUpMYnJldmNRaUdxUkRoYkViMXJCNXR1bnZrck0zU3NyV3J5YW9HUV9yQUhQNWVaa1E?oc=5)
+
+2026-03-17 <span class="news-indication-tag">colite ulcerosa</span>
+
+來源：[PalermoToday](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUR5SU9qU0U1YTRicHZZYzU4X3l3b2xUZ1lhcUxwY2tVMlZ4S1lHaU1JaXp4dnN4c1p4bnpuSnJRVW42UDltbF9pY3cxY1Y5ZGhtaTJiY2o1dmJBZlJLaGNFTEFOcUpMYnJldmNRaUdxUkRoYkViMXJCNXR1bnZrck0zU3NyV3J5YW9HUV9yQUhQNWVaa1E?oc=5)
 
 ---
 

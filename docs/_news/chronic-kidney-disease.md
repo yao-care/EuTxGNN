@@ -3,7 +3,7 @@ layout: default
 title: "CKD（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "CKD（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "CKD（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chronic-kidney-disease/
 ---
 
 <p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
-<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Länger leben mit Multivitaminen – stimmt das?](https://news.google.com/rss/articles/CBMinAFBVV95cUxORFB5MWtyaHJNb19EZUZpaDhBbDBHRTc0cWxubXI0S19RLUt5Q0RWVTNpN185UnBkOVJxLXdFTzlyUjV3ellTZ0x6aVpPZ2Z6cFJUMU96MG9pVG9uY2pfMjlfQmYyV1ZqRjk4dTczWDhSX3lPNWJzSjNmZk5sYl80WEg0UFg3Z1NDaWpNWHJoSWw1dmtnbnZaSUExNVY?oc=5)
 
 2026-03-18
 
 來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMinAFBVV95cUxORFB5MWtyaHJNb19EZUZpaDhBbDBHRTc0cWxubXI0S19RLUt5Q0RWVTNpN185UnBkOVJxLXdFTzlyUjV3ellTZ0x6aVpPZ2Z6cFJUMU96MG9pVG9uY2pfMjlfQmYyV1ZqRjk4dTczWDhSX3lPNWJzSjNmZk5sYl80WEg0UFg3Z1NDaWpNWHJoSWw1dmtnbnZaSUExNVY?oc=5)
-
----
-
-### [Dr. Alberto Ortiz: «Ahora la enfermedad renal crónica se diagnostica de forma tardía» - La Razón](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUZjTzhaUWVvZUVrS3ZrWi1NOEF4NzhLRjBLZTRFOUdQbXppWlgzUHhJSlZYSl9UMkNRbzl2N2RJakIwMlRycTlGbGhwS2JQZ1RIWF9lbWxhMjBFeGRlWjZRRDRwU3B4SjZDZUtzMk14aExNcVhTLVRtVVRieFJSdUZ6ekZPcXVIS1lnRUZlSUJEY19NUk0zWEdFWjI3NzE2Wkt5WlhhdzBFcmMxOUZ5VVh4SjdaOTJGYS1mclBBSVliOEEzaWduZ1VFQ2oyTkdNNFHSAeYBQVVfeXFMTWNZWFN4c0ROT0hZZkJEd2lFOG5DQmZ2VWJ2S2hoQkg0NjdoYUpndEg4V3E2V0ZnRWdJV1RhYTdKajVwWkRBbTJkWDY2bWRucTduTmJLdTJHR2dEa1ROaFIwdm91QVAteW1TUkRZTmtvLXd0SVY5X05EekluRnp2TE4wSHZjUWpfN0txc2UyZ0dDZFljZDFnd05CcHh3U282TzFjTGV6UFJKTDFMUHVHQlRScGpUZ2ZSRDJZdzhiM2w3QVZUOUlfMlpCOWtQVlNERWozWGs2LWFkWnl2Ni1TN0p5LUMwNHc?oc=5)
-
-2026-03-18
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUZjTzhaUWVvZUVrS3ZrWi1NOEF4NzhLRjBLZTRFOUdQbXppWlgzUHhJSlZYSl9UMkNRbzl2N2RJakIwMlRycTlGbGhwS2JQZ1RIWF9lbWxhMjBFeGRlWjZRRDRwU3B4SjZDZUtzMk14aExNcVhTLVRtVVRieFJSdUZ6ekZPcXVIS1lnRUZlSUJEY19NUk0zWEdFWjI3NzE2Wkt5WlhhdzBFcmMxOUZ5VVh4SjdaOTJGYS1mclBBSVliOEEzaWduZ1VFQ2oyTkdNNFHSAeYBQVVfeXFMTWNZWFN4c0ROT0hZZkJEd2lFOG5DQmZ2VWJ2S2hoQkg0NjdoYUpndEg4V3E2V0ZnRWdJV1RhYTdKajVwWkRBbTJkWDY2bWRucTduTmJLdTJHR2dEa1ROaFIwdm91QVAteW1TUkRZTmtvLXd0SVY5X05EekluRnp2TE4wSHZjUWpfN0txc2UyZ0dDZFljZDFnd05CcHh3U282TzFjTGV6UFJKTDFMUHVHQlRScGpUZ2ZSRDJZdzhiM2w3QVZUOUlfMlpCOWtQVlNERWozWGs2LWFkWnl2Ni1TN0p5LUMwNHc?oc=5)
 
 ---
 

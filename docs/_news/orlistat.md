@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
+
+### [Se abren nuevas vías para mejorar el pronóstico del ictus en afectados con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
+
+2026-03-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFGbmJZODhqSjBtdTN5RFBCRGdHY09VUzFMbXBIU09kejF0enJ2Y3BORzNRWk9jTTVqTkRwbDBPWXZ4LXRQclBrMUJ1NGZKdkpCQ1BKN3ZOZ1pLSzF6WUhvbE93ZkwwRXRxQnFBSlZiYUMzUXZOeENDdUV1SVBjUWFOQmJFZ05mTk9abjdMRWRSa2NXaWtGMXU0eXdNRVhTdzEtMmYxQzRIS2t2VTdpWWZnSVBwN1B0SFNNbUV30gG4AUFVX3lxTE5MTnhTVmpBcmRZTkFtbzczdDVoOF9mOTV2dHIyS3NiUXE2aDdmTHdxNHN6YnZ0ajVna05aSkhrdzV3ZmJ4QWJMTUtGUXRUcEVmbG9LeGdjLUhlSWVmbUJmT2k2UnRSdDhCMVlPWWprMlQzRXF0YlF3eGVtek53Q1FDcmdaSlNzTXZjamVKZ2VEQUttWHY4bVlBX08wYWtSY1pDUHVfRjdvdFhQUVFIc2oxZ2hIVG9oN3I?oc=5)
+
+---
 
 ### ['Friends thought daughter's meningitis symptoms were heatstroke'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hSE9oRVEyU3U2TFdMRGJ1UmRlTWJPMEwyaWpkWUhLdGxvLWJqSVdaSEZPWS1pQjFrVEtSSWFNTXJscUt1d1FCT0otV0NTeEx1WGRFaTduaUM4d3JY?oc=5)
 
@@ -63,14 +71,6 @@ permalink: /news/orlistat/
 2026-03-18 <span class="news-indication-tag">ictus</span>
 
 來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTXdfUFRFdlA2aGpSM2xDY3NYbDlLc2V1VEZwd1pYWlRadGplUHk5TmVqY3I2UTZtVG8tTmlkV2lUUm1ZRmkxYmJlSXJteDI2R1Q0WlB5d3NmQmFrbHF5YnFhV2RPN1UzY3Q0Qk9CRWZUOW5tZ2xXeGMzQ3ZwSE5iX2JqVFBIaElsZWtBU0pFQU5CTlBDb1diVVRNR2p4SWt3SnM2U3NHNjFMMFR0cUppdVFsSnBOOEhXWF9fdFVoYjluVzFuTVlOSdIBzgFBVV95cUxNSGpWSUVVa051NGZmVTlTbEVRak52MzJibUJCMFE5cC1GaVJhUUY5N0UwQzE4MVBmdnRocmdhNlJ4MnRmdTdxZTI1a3ZoQWFucVBMOFBrUnJlX0VYdEtpQ1JtVEpQcVdFdHpZM2hRSGltZ3V2aXZaNkxPSzZQQ3YtMXFsQTJRQjdyd3ZzV3ljNG5RX25MTE9pQ2taRkg4VmRNclZSZm1sbEJOZTZ5aE9MM2sxSWF4bEludkN1WVcyeXRTcVdSTGpNSmZSV1d1UQ?oc=5)
-
----
-
-### [Obesidad: más voces, más dignidad, más acciones](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0x4NTdPMEVxa2NyM2tfVjRJUnRJRmtLZUp3ejE5NVNkdW9tb2IyWU1rcFRxanZaWE9KSHRUcTI2bkpHYUNmQjVkWHpfcXQwMkIxR3JnaWRMTHVacE52QWhoZGZyZVFuX2o3QjA2ODdMbDlWRnBKUDBFeVJUUTZ6d0F2SWE3Y0xobi1NSTlueGhzV085c1lOaFZ1MW9MeXdzUG1aQ1BDTjXSAa4BQVVfeXFMTWR1emVLQmtqWG9mVUN2ZDVSS1V0TE5XVVdzaUxaTDVLdExCM0syWHY1UFd4aEpQd3NxYW1jVEFMVzloZUxQaTVaTWtMcEstYUMyRlBXUmVkZWF2N0xPZFhZQVVaRkt5N1FKLVFpNmlYZnVpOVh2TndzT25icENFV3NiQ29RZGVLcXVMWHkxOE05XzQwZVdzRHJNV3RXTEJKbS0ydDR4V0dtS1I3Uk13?oc=5)
-
-2026-03-18 <span class="news-indication-tag">obesidad</span>
-
-來源：[democrata.es](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0x4NTdPMEVxa2NyM2tfVjRJUnRJRmtLZUp3ejE5NVNkdW9tb2IyWU1rcFRxanZaWE9KSHRUcTI2bkpHYUNmQjVkWHpfcXQwMkIxR3JnaWRMTHVacE52QWhoZGZyZVFuX2o3QjA2ODdMbDlWRnBKUDBFeVJUUTZ6d0F2SWE3Y0xobi1NSTlueGhzV085c1lOaFZ1MW9MeXdzUG1aQ1BDTjXSAa4BQVVfeXFMTWR1emVLQmtqWG9mVUN2ZDVSS1V0TE5XVVdzaUxaTDVLdExCM0syWHY1UFd4aEpQd3NxYW1jVEFMVzloZUxQaTVaTWtMcEstYUMyRlBXUmVkZWF2N0xPZFhZQVVaRkt5N1FKLVFpNmlYZnVpOVh2TndzT25icENFV3NiQ29RZGVLcXVMWHkxOE05XzQwZVdzRHJNV3RXTEJKbS0ydDR4V0dtS1I3Uk13?oc=5)
 
 ---
 
@@ -143,6 +143,14 @@ permalink: /news/orlistat/
 2026-03-17 <span class="news-indication-tag">ictus</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlESDdNYWdzZ0hfaE12LS1rWVdZRTV6d01ZR01lS3UzbHp1TFRZWXhnZ2dla1ptbEdySlRBcERMX0V2dXhZTWt0S20xOFRBekJobEM4UWZmSzdsLXNHNVVxQXE5RmR0WnR0NmUyYzRSMEJmdmZjdG1VbWd4R3M4YmF0bm9oWW9nd2c?oc=5)
+
+---
+
+### [Ofensiva contra la obesidad en dos tiempos: Sanidad diseña una estrategia integral y los médicos urgen a financiar los medicamentos ya disponibles - Gaceta de salud](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTXpEY0J4OUgzOFZ3SW15RFBSVk83Vm5QNGRZd1VPM1BtbmQ5XzlVVThzR20xcG5Za3JRM1I4REIwdWY0SEtiU1BWeGpMeDgwTXlMNWduNWVxcVV6ZWNHNlJpZVQ1Nk41b2owd0xzZ3plckk0X3owSUdGVXYyTmdNMGluNENxMlc2VnlWTG42M2k0V0VTZmV1am1JcjZXWVpraF9jUGlRV1gzaVF3RFhDSlFxTm5kNjYwaW5ySC1hRXR2ZDdFaldiVjRBRnY3WlpLbHN1djJuUnV1b01WVlFVQlBoM2NsWEJFSWk4WHlfWjNZSEZ2bWJQQ2s0ZVkyeWNhWUhMUURwUThQZ3prVDZwZGJyR201YTJrenVQRkUxMmo4Tm1UOUZFRE9tZFVCT1dOZ0N4bTFFTmJRNUd4T2ZSOQ?oc=5)
+
+2026-03-17 <span class="news-indication-tag">obesidad</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTXpEY0J4OUgzOFZ3SW15RFBSVk83Vm5QNGRZd1VPM1BtbmQ5XzlVVThzR20xcG5Za3JRM1I4REIwdWY0SEtiU1BWeGpMeDgwTXlMNWduNWVxcVV6ZWNHNlJpZVQ1Nk41b2owd0xzZ3plckk0X3owSUdGVXYyTmdNMGluNENxMlc2VnlWTG42M2k0V0VTZmV1am1JcjZXWVpraF9jUGlRV1gzaVF3RFhDSlFxTm5kNjYwaW5ySC1hRXR2ZDdFaldiVjRBRnY3WlpLbHN1djJuUnV1b01WVlFVQlBoM2NsWEJFSWk4WHlfWjNZSEZ2bWJQQ2s0ZVkyeWNhWUhMUURwUThQZ3prVDZwZGJyR201YTJrenVQRkUxMmo4Tm1UOUZFRE9tZFVCT1dOZ0N4bTFFTmJRNUd4T2ZSOQ?oc=5)
 
 ---
 
