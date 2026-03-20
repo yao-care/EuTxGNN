@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="Indacaterol Maleate 有什麼相關新聞？">
-<strong>Indacaterol Maleate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Indacaterol Maleate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ permalink: /news/indacaterol-maleate/
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Warning to anyone in UK with asthma over Middle East War consequence - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkhJRF9ES1F3bTJrOGdaRWZfZ2tRVXdCV2xyVEZ1SXcxNGlzTGhrRFBCcVVwNmtjdm9wemtuNTBFWWVzdTJ0NGhfS21OQVF0bFRWUzlzR2lxQW1YQXctdUhSSkUwZG0yTmpCUDhsNmdxbUliNE5IMnhUQXVfOUNkMtIBhgFBVV95cUxNM3o2b1JpZU1hM3diMGI4ckx6WGpTTlJLZXotdlVGYWRqMkZ3cTgtN1NNRlU1ZkFaVlpYamt6MTkxem5QcFR4VFdjUjVEZHdwd3o3SDU0SUxvcDFrRlNjbHE3eTl5RUZrRmJVR2N3MXFSYVZtMWlicmJqeUtyWmd0czlhcVVndw?oc=5)
-
-2026-03-19 <span class="news-indication-tag">asthma</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkhJRF9ES1F3bTJrOGdaRWZfZ2tRVXdCV2xyVEZ1SXcxNGlzTGhrRFBCcVVwNmtjdm9wemtuNTBFWWVzdTJ0NGhfS21OQVF0bFRWUzlzR2lxQW1YQXctdUhSSkUwZG0yTmpCUDhsNmdxbUliNE5IMnhUQXVfOUNkMtIBhgFBVV95cUxNM3o2b1JpZU1hM3diMGI4ckx6WGpTTlJLZXotdlVGYWRqMkZ3cTgtN1NNRlU1ZkFaVlpYamt6MTkxem5QcFR4VFdjUjVEZHdwd3o3SDU0SUxvcDFrRlNjbHE3eTl5RUZrRmJVR2N3MXFSYVZtMWlicmJqeUtyWmd0czlhcVVndw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

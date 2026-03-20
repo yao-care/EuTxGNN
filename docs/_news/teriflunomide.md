@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teriflunomide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（13 則）
 
-### [Epatite A a Napoli, Manfredi firma l'ordinanza: vietato il consumo di frutti di mare crudi nei ristoranti - Il Mattino](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREdfWk16bllyOEhrNnVGbEhMWENhdWZ0dnVXUDhIOXVYZUhxNFFHbl9GejFoSHVOSTY3a2FxWFlWdkpKb2RkbkpMTU9YbTNmMmNfdUhDNnk5WFdfeEs2TzJkS0dWM0pWaUpXR0IwOTIybDZEdlBjMWF4WmdteGc1X0JaTnV2WnlHWEVzSl9BbDBSa21Zb1BESEFPUTVOLXhrTy1WcDBTSUo3VjNKMkFZaml6NFZydmpnM3drb01PMGMzaVE4d1R1ZmVUUXFJb0120gHWAUFVX3lxTE5Kb2dWNW1wa0NGeDNhNVJpR1RYZWtMa0U4QjRZdWs2UmNTekU3dGNRdUJnUFdMd0k0TzNTd2lqMHlVVGc4OGgtQ1NTZUJQTGNUcDMtbkx3dDQ3dlFfREZYa3NvVEZWMzZhX3hFSWF1ZW92Y1llbmVwOXJFTlJXVVdqZ04yeUU4VFNmLWhwZU1iVFY5NUp6aWtpaXlBVXBWcUpxQjVhVkViNkxqbk0yd2pocFV6Zy1WMEtqcHhyajBFNGFfZGNKaU04M282TlhVVmRHd3YxckE?oc=5)
+### [Epatite A, il Comune di Napoli vieta il consumo di frutti di mare crudi - la Repubblica](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQURQRkpQOFRLOThmdUo2aTFJM3NTSEJ2cmU0YTVkeElON1ZOUkN6dldLaFBHVkZ5TzhMOTdwUW1id0ZBWlFKUkR2VmpBaUFHU1d4WTZIVjMwWFByNU9KY2RWbndZX0pNcTlaMjZRRHJ1WTlQVG5oX3dqSFJaYVpKLUlJNEE4VEMzajg5LVJOd2ZkOFNmaEdZMC1XcGg2SEFRMWw5Z3NSeGRWNF9kcU5lOXBqUGZNVjRGbjFBdmEyTHJvenM5Q3JwRlZDSmlqM2fSAdQBQVVfeXFMUHc2OEdHT3JkX1YxbjFJclk2WUc5dlN2Umc2LVZrTzJLMV9wVjlXU3FNUVFkaDluWGhGbWtMTXZLalg2MHprUkFYcVc5OU5nQ1Nuc0d3eGt6cXZhWmxuejFYc2ZQOHpEWFE0dXJzSnJRQ3R1ZVkyVHBKaXpKTEVId0xjVHZXUWZBVmZROTBKWTZ2RTRTS3d4czRXRm02SkFTaHBZWDVCdWJ1YXVUd2xCTlMxQ0lhRHBOSzFPN3ZGQTRsbjJnSExKMkVJOW5vdEQyWEJoZVU?oc=5)
 
 2026-03-19 <span class="news-indication-tag">epatite</span>
 
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREdfWk16bllyOEhrNnVGbEhMWENhdWZ0dnVXUDhIOXVYZUhxNFFHbl9GejFoSHVOSTY3a2FxWFlWdkpKb2RkbkpMTU9YbTNmMmNfdUhDNnk5WFdfeEs2TzJkS0dWM0pWaUpXR0IwOTIybDZEdlBjMWF4WmdteGc1X0JaTnV2WnlHWEVzSl9BbDBSa21Zb1BESEFPUTVOLXhrTy1WcDBTSUo3VjNKMkFZaml6NFZydmpnM3drb01PMGMzaVE4d1R1ZmVUUXFJb0120gHWAUFVX3lxTE5Kb2dWNW1wa0NGeDNhNVJpR1RYZWtMa0U4QjRZdWs2UmNTekU3dGNRdUJnUFdMd0k0TzNTd2lqMHlVVGc4OGgtQ1NTZUJQTGNUcDMtbkx3dDQ3dlFfREZYa3NvVEZWMzZhX3hFSWF1ZW92Y1llbmVwOXJFTlJXVVdqZ04yeUU4VFNmLWhwZU1iVFY5NUp6aWtpaXlBVXBWcUpxQjVhVkViNkxqbk0yd2pocFV6Zy1WMEtqcHhyajBFNGFfZGNKaU04M282TlhVVmRHd3YxckE?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQURQRkpQOFRLOThmdUo2aTFJM3NTSEJ2cmU0YTVkeElON1ZOUkN6dldLaFBHVkZ5TzhMOTdwUW1id0ZBWlFKUkR2VmpBaUFHU1d4WTZIVjMwWFByNU9KY2RWbndZX0pNcTlaMjZRRHJ1WTlQVG5oX3dqSFJaYVpKLUlJNEE4VEMzajg5LVJOd2ZkOFNmaEdZMC1XcGg2SEFRMWw5Z3NSeGRWNF9kcU5lOXBqUGZNVjRGbjFBdmEyTHJvenM5Q3JwRlZDSmlqM2fSAdQBQVVfeXFMUHc2OEdHT3JkX1YxbjFJclk2WUc5dlN2Umc2LVZrTzJLMV9wVjlXU3FNUVFkaDluWGhGbWtMTXZLalg2MHprUkFYcVc5OU5nQ1Nuc0d3eGt6cXZhWmxuejFYc2ZQOHpEWFE0dXJzSnJRQ3R1ZVkyVHBKaXpKTEVId0xjVHZXUWZBVmZROTBKWTZ2RTRTS3d4czRXRm02SkFTaHBZWDVCdWJ1YXVUd2xCTlMxQ0lhRHBOSzFPN3ZGQTRsbjJnSExKMkVJOW5vdEQyWEJoZVU?oc=5)
 
 ---
 
@@ -71,14 +71,6 @@ permalink: /news/teriflunomide/
 2026-03-19 <span class="news-indication-tag">MS</span>
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
-
----
-
-### [Man put headache down to 'sleeping funny' – four days later he was dead from meningitis - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGxLUUZwN2ZEZE5XOWhYVjBlRjhKeXE1MzNKWnpMUTNsVmRFMlhqUW1ZTVNFMTZ1OGpJR1g5TkZCdm9QLWFqSk9zU2dLcnBzUXlnWXpyTmdMWmZxZE5qRFphdmF6TG9SSmlTaDNKUl9jRXIwMlI5dUdXRkdPWk9iWXhhSdIBiAFBVV95cUxQVTRJT3NOZzBOeVZNVWk3YlFYdWozVnUwMFBUQzhfemZWZ2FibHpFX3YzQnhEeDltVFhhVV9WY2VXVndVaTgxUmZVUjhhMU9ZOFFNNVNwdk1kaVFDYkttZUtqT3FtcXBJaUZhUTgyMHBjamswdXpJSjgzbThyekxLTENwUnlWUFRl?oc=5)
-
-2026-03-19 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGxLUUZwN2ZEZE5XOWhYVjBlRjhKeXE1MzNKWnpMUTNsVmRFMlhqUW1ZTVNFMTZ1OGpJR1g5TkZCdm9QLWFqSk9zU2dLcnBzUXlnWXpyTmdMWmZxZE5qRFphdmF6TG9SSmlTaDNKUl9jRXIwMlI5dUdXRkdPWk9iWXhhSdIBiAFBVV95cUxQVTRJT3NOZzBOeVZNVWk3YlFYdWozVnUwMFBUQzhfemZWZ2FibHpFX3YzQnhEeDltVFhhVV9WY2VXVndVaTgxUmZVUjhhMU9ZOFFNNVNwdk1kaVFDYkttZUtqT3FtcXBJaUZhUTgyMHBjamswdXpJSjgzbThyekxLTENwUnlWUFRl?oc=5)
 
 ---
 
@@ -143,14 +135,6 @@ permalink: /news/teriflunomide/
 2026-03-18 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFY1cDJ3U0s4UjYtQ2tjUEJfeWZXMU44Zmk2bEt4bWx4TlYyazJMOXRkYkxTQ3JRVDVEWU92bTV4RWdoeldqbDBvT0xqdVo0ZnExU3daVFRJZ3VNNDdTbGR1alBtV3lDV3dWREh3T0twMDRrVkRkTWRKNENFN1FVUWpBTkpfeFMxTGktaTJQMNIBlAFBVV95cUxQaFVEcGg4QWE3M24tb2ExRE1kajVMT2RXVGhoQndUN3ZuMFR1c0dQSDQzTHNoZVpTbDlad3BaYzFmb2tQazczeGhUTmxSbHB4NHNEd2oxTTh5cExMNm50U1ltU2lSczFfMDVZbWJHTkcwOHVYT2lKMFhOUndnbktBNkp5clBkOFpCbVBod21uSW1zbHRt?oc=5)
-
----
-
-### [Länger leben mit Multivitaminen – stimmt das?](https://news.google.com/rss/articles/CBMinAFBVV95cUxORFB5MWtyaHJNb19EZUZpaDhBbDBHRTc0cWxubXI0S19RLUt5Q0RWVTNpN185UnBkOVJxLXdFTzlyUjV3ellTZ0x6aVpPZ2Z6cFJUMU96MG9pVG9uY2pfMjlfQmYyV1ZqRjk4dTczWDhSX3lPNWJzSjNmZk5sYl80WEg0UFg3Z1NDaWpNWHJoSWw1dmtnbnZaSUExNVY?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMinAFBVV95cUxORFB5MWtyaHJNb19EZUZpaDhBbDBHRTc0cWxubXI0S19RLUt5Q0RWVTNpN185UnBkOVJxLXdFTzlyUjV3ellTZ0x6aVpPZ2Z6cFJUMU96MG9pVG9uY2pfMjlfQmYyV1ZqRjk4dTczWDhSX3lPNWJzSjNmZk5sYl80WEg0UFg3Z1NDaWpNWHJoSWw1dmtnbnZaSUExNVY?oc=5)
 
 ---
 

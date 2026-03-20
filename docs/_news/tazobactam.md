@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tazobactam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Warning to anyone in UK with asthma over Middle East War consequence - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkhJRF9ES1F3bTJrOGdaRWZfZ2tRVXdCV2xyVEZ1SXcxNGlzTGhrRFBCcVVwNmtjdm9wemtuNTBFWWVzdTJ0NGhfS21OQVF0bFRWUzlzR2lxQW1YQXctdUhSSkUwZG0yTmpCUDhsNmdxbUliNE5IMnhUQXVfOUNkMtIBhgFBVV95cUxNM3o2b1JpZU1hM3diMGI4ckx6WGpTTlJLZXotdlVGYWRqMkZ3cTgtN1NNRlU1ZkFaVlpYamt6MTkxem5QcFR4VFdjUjVEZHdwd3o3SDU0SUxvcDFrRlNjbHE3eTl5RUZrRmJVR2N3MXFSYVZtMWlicmJqeUtyWmd0czlhcVVndw?oc=5)
-
-2026-03-19 <span class="news-indication-tag">asthma</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkhJRF9ES1F3bTJrOGdaRWZfZ2tRVXdCV2xyVEZ1SXcxNGlzTGhrRFBCcVVwNmtjdm9wemtuNTBFWWVzdTJ0NGhfS21OQVF0bFRWUzlzR2lxQW1YQXctdUhSSkUwZG0yTmpCUDhsNmdxbUliNE5IMnhUQXVfOUNkMtIBhgFBVV95cUxNM3o2b1JpZU1hM3diMGI4ckx6WGpTTlJLZXotdlVGYWRqMkZ3cTgtN1NNRlU1ZkFaVlpYamt6MTkxem5QcFR4VFdjUjVEZHdwd3o3SDU0SUxvcDFrRlNjbHE3eTl5RUZrRmJVR2N3MXFSYVZtMWlicmJqeUtyWmd0czlhcVVndw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,11 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Molecule in python blood could pave way for new obesity drugs, scientists say - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkFCdXVKd2w1QTI0TTNaNzQxdzRwbk5vZEloU25TWWQ5M0hpMU1JYXFvSWNVN0xCTXBrQ1dKWXhhM3JSOUJwSG93cDRVcmhDS3k1WWlKSWtNMmxuOUtKZGNoNWY0NHFhNW9SR1V0dlBvdjR4THlfMHlYYnZUQUxjSnl2SmEtQ3RsVkZUR1pxVFF1S3V0dFpzbjZ5alV6OHFwQzNhdkJjcERDclFaMTlyaDVmYVRSUQ?oc=5)
 
-2026-03-19 <span class="news-indication-tag">obesity</span>
+2026-03-20 <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkFCdXVKd2w1QTI0TTNaNzQxdzRwbk5vZEloU25TWWQ5M0hpMU1JYXFvSWNVN0xCTXBrQ1dKWXhhM3JSOUJwSG93cDRVcmhDS3k1WWlKSWtNMmxuOUtKZGNoNWY0NHFhNW9SR1V0dlBvdjR4THlfMHlYYnZUQUxjSnl2SmEtQ3RsVkZUR1pxVFF1S3V0dFpzbjZ5alV6OHFwQzNhdkJjcERDclFaMTlyaDVmYVRSUQ?oc=5)
 
@@ -95,14 +95,6 @@ permalink: /news/orlistat/
 2026-03-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
-
----
-
-### [«Un calice di vino riduce il rischio di ictus e infarti». Il nuovo studio spagnolo sulla dieta mediterranea - Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm9JOFNWcmItcy1EWUJ2Z1F2Q19kVlRoWHJOVl9OOTNzWmtaaGV4YnFzSWRicDJBeFpHT2xQR0Q4aWNRbmlQS0QxX3daY1lMUUhybmNZeTUtV3g0SnJoa0tnRVNMLV8xQVd5OEd0X3FhdFhtNzdCN29mdEplV1gyd1RQamhDQkJ1RGFFZ3d3TFZwSkXSAZABQVVfeXFMUGxrRDJjcFJGQXoyLVVhQWU4WWcyZVVWTmhiV0VFeWhNUEpSaDRxcVFTN2MzeFd1MlVoRVhLNVowMnB4VWlkSWQ5NnJGQ1BIRERlc1Z5bnVUbXpQazVtak1tQ21fOEktcUF4VU1ONFV6RFVzU1M2MTlZR2FUcGo0UDBGUHAzSWxFdEZmRHd0TVhh?oc=5)
-
-2026-03-11 <span class="news-indication-tag">ictus</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm9JOFNWcmItcy1EWUJ2Z1F2Q19kVlRoWHJOVl9OOTNzWmtaaGV4YnFzSWRicDJBeFpHT2xQR0Q4aWNRbmlQS0QxX3daY1lMUUhybmNZeTUtV3g0SnJoa0tnRVNMLV8xQVd5OEd0X3FhdFhtNzdCN29mdEplV1gyd1RQamhDQkJ1RGFFZ3d3TFZwSkXSAZABQVVfeXFMUGxrRDJjcFJGQXoyLVVhQWU4WWcyZVVWTmhiV0VFeWhNUEpSaDRxcVFTN2MzeFd1MlVoRVhLNVowMnB4VWlkSWQ5NnJGQ1BIRERlc1Z5bnVUbXpQazVtak1tQ21fOEktcUF4VU1ONFV6RFVzU1M2MTlZR2FUcGo0UDBGUHAzSWxFdEZmRHd0TVhh?oc=5)
 
 ---
 

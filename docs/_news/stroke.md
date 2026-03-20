@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [What Is 'Eye Stroke'? Expert Explains The Rare Wegovy Risk](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
 
@@ -78,14 +78,6 @@ permalink: /news/stroke/
 2026-03-17
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
-
----
-
-### [«Un calice di vino riduce il rischio di ictus e infarti». Il nuovo studio spagnolo sulla dieta mediterranea - Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm9JOFNWcmItcy1EWUJ2Z1F2Q19kVlRoWHJOVl9OOTNzWmtaaGV4YnFzSWRicDJBeFpHT2xQR0Q4aWNRbmlQS0QxX3daY1lMUUhybmNZeTUtV3g0SnJoa0tnRVNMLV8xQVd5OEd0X3FhdFhtNzdCN29mdEplV1gyd1RQamhDQkJ1RGFFZ3d3TFZwSkXSAZABQVVfeXFMUGxrRDJjcFJGQXoyLVVhQWU4WWcyZVVWTmhiV0VFeWhNUEpSaDRxcVFTN2MzeFd1MlVoRVhLNVowMnB4VWlkSWQ5NnJGQ1BIRERlc1Z5bnVUbXpQazVtak1tQ21fOEktcUF4VU1ONFV6RFVzU1M2MTlZR2FUcGo0UDBGUHAzSWxFdEZmRHd0TVhh?oc=5)
-
-2026-03-11
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm9JOFNWcmItcy1EWUJ2Z1F2Q19kVlRoWHJOVl9OOTNzWmtaaGV4YnFzSWRicDJBeFpHT2xQR0Q4aWNRbmlQS0QxX3daY1lMUUhybmNZeTUtV3g0SnJoa0tnRVNMLV8xQVd5OEd0X3FhdFhtNzdCN29mdEplV1gyd1RQamhDQkJ1RGFFZ3d3TFZwSkXSAZABQVVfeXFMUGxrRDJjcFJGQXoyLVVhQWU4WWcyZVVWTmhiV0VFeWhNUEpSaDRxcVFTN2MzeFd1MlVoRVhLNVowMnB4VWlkSWQ5NnJGQ1BIRERlc1Z5bnVUbXpQazVtak1tQ21fOEktcUF4VU1ONFV6RFVzU1M2MTlZR2FUcGo0UDBGUHAzSWxFdEZmRHd0TVhh?oc=5)
 
 ---
 

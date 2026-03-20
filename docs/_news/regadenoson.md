@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Warning to anyone in UK with asthma over Middle East War consequence - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkhJRF9ES1F3bTJrOGdaRWZfZ2tRVXdCV2xyVEZ1SXcxNGlzTGhrRFBCcVVwNmtjdm9wemtuNTBFWWVzdTJ0NGhfS21OQVF0bFRWUzlzR2lxQW1YQXctdUhSSkUwZG0yTmpCUDhsNmdxbUliNE5IMnhUQXVfOUNkMtIBhgFBVV95cUxNM3o2b1JpZU1hM3diMGI4ckx6WGpTTlJLZXotdlVGYWRqMkZ3cTgtN1NNRlU1ZkFaVlpYamt6MTkxem5QcFR4VFdjUjVEZHdwd3o3SDU0SUxvcDFrRlNjbHE3eTl5RUZrRmJVR2N3MXFSYVZtMWlicmJqeUtyWmd0czlhcVVndw?oc=5)
-
-2026-03-19 <span class="news-indication-tag">asthma</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkhJRF9ES1F3bTJrOGdaRWZfZ2tRVXdCV2xyVEZ1SXcxNGlzTGhrRFBCcVVwNmtjdm9wemtuNTBFWWVzdTJ0NGhfS21OQVF0bFRWUzlzR2lxQW1YQXctdUhSSkUwZG0yTmpCUDhsNmdxbUliNE5IMnhUQXVfOUNkMtIBhgFBVV95cUxNM3o2b1JpZU1hM3diMGI4ckx6WGpTTlJLZXotdlVGYWRqMkZ3cTgtN1NNRlU1ZkFaVlpYamt6MTkxem5QcFR4VFdjUjVEZHdwd3o3SDU0SUxvcDFrRlNjbHE3eTl5RUZrRmJVR2N3MXFSYVZtMWlicmJqeUtyWmd0czlhcVVndw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Dad’s rare tumour diagnosis after being told for decade headaches were migraines - Warrington Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVVDb1A3bVU1aGFmcmVyYkhlb3RFeEZhWTN3UjY1djlEWnZSbnVmdGJhOHB3ZjVfdDFYMm9BNlljaHFxMHdpNjdMLWJrSmh6UlBjMy1lMHNueDFaZjN2dlpJUTV0eVpEcWV3TjJVTUZRcFNoUVNyY2taTXRERk9zbmxJOWxwVnZTNW01MUhkZmZia0c1LWxJeEYwRlI3Xzgxdjl3S0NFOFVlT2tV?oc=5)
 

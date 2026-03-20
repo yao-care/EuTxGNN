@@ -44,7 +44,7 @@ permalink: /news/lasmiditan-succinate/
 
 ### [Molecule in python blood could pave way for new obesity drugs, scientists say - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkFCdXVKd2w1QTI0TTNaNzQxdzRwbk5vZEloU25TWWQ5M0hpMU1JYXFvSWNVN0xCTXBrQ1dKWXhhM3JSOUJwSG93cDRVcmhDS3k1WWlKSWtNMmxuOUtKZGNoNWY0NHFhNW9SR1V0dlBvdjR4THlfMHlYYnZUQUxjSnl2SmEtQ3RsVkZUR1pxVFF1S3V0dFpzbjZ5alV6OHFwQzNhdkJjcERDclFaMTlyaDVmYVRSUQ?oc=5)
 
-2026-03-19 <span class="news-indication-tag">obesity</span>
+2026-03-20 <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkFCdXVKd2w1QTI0TTNaNzQxdzRwbk5vZEloU25TWWQ5M0hpMU1JYXFvSWNVN0xCTXBrQ1dKWXhhM3JSOUJwSG93cDRVcmhDS3k1WWlKSWtNMmxuOUtKZGNoNWY0NHFhNW9SR1V0dlBvdjR4THlfMHlYYnZUQUxjSnl2SmEtQ3RsVkZUR1pxVFF1S3V0dFpzbjZ5alV6OHFwQzNhdkJjcERDclFaMTlyaDVmYVRSUQ?oc=5)
 

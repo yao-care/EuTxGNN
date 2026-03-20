@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="Brivaracetam 有什麼相關新聞？">
-<strong>Brivaracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brivaracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ permalink: /news/brivaracetam/
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Tucidinostat muestra potencial contra la epilepsia en modelos experimentales - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOG94Wnpta0xGSXZhbGtJLWMzR0x1TGc0dmxfcG9tbE5UV3hHYWZCeVZXbmRDUDNFU3RHczJPTUt4NkNadjh6SENfbFB5bXJaa1l5aDRKa0RqYWpleklXdnFCTFpYVnZTS2ZhV0JvQjB3Y2JVQ3FwQW5YNnJJX1hXRERWTTlrcDZmM1loWXpBeVUza0FTNnVmN3BuM016dmtMb2NzV25TeE9rUUlRWHF4Vm8wWHlTQU5tQzRKa3hsM3ZSMmPSAb4BQVVfeXFMT1B0SEktcUdFUldfbWFBSHRGME1Yd3plckpsY0FNNUlnMmkzajV4ZlktSm43N2lSY2ZTZW5STmdMLU1lS25ieEd6OE5RNng0YndkWmhudjdmd1NCdUJTOVQyaG00eHhDZE9PQ0pvcG9fSGxkWHdyX0swTkQxdXlrQ1NxZzVodlo5Yy1ybTFyVEY4VGtyTzFkNjlEd053UWo4Rk91VXJvN0dVQVg5QkRndHJwT2FYWUJSanZQazNBQQ?oc=5)
-
-2026-03-19 <span class="news-indication-tag">epilepsia</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOG94Wnpta0xGSXZhbGtJLWMzR0x1TGc0dmxfcG9tbE5UV3hHYWZCeVZXbmRDUDNFU3RHczJPTUt4NkNadjh6SENfbFB5bXJaa1l5aDRKa0RqYWpleklXdnFCTFpYVnZTS2ZhV0JvQjB3Y2JVQ3FwQW5YNnJJX1hXRERWTTlrcDZmM1loWXpBeVUza0FTNnVmN3BuM016dmtMb2NzV25TeE9rUUlRWHF4Vm8wWHlTQU5tQzRKa3hsM3ZSMmPSAb4BQVVfeXFMT1B0SEktcUdFUldfbWFBSHRGME1Yd3plckpsY0FNNUlnMmkzajV4ZlktSm43N2lSY2ZTZW5STmdMLU1lS25ieEd6OE5RNng0YndkWmhudjdmd1NCdUJTOVQyaG00eHhDZE9PQ0pvcG9fSGxkWHdyX0swTkQxdXlrQ1NxZzVodlo5Yy1ybTFyVEY4VGtyTzFkNjlEd053UWo4Rk91VXJvN0dVQVg5QkRndHJwT2FYWUJSanZQazNBQQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

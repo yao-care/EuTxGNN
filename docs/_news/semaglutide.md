@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Weight-loss drugs linked to lower depression and anxiety risk, study](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
 
@@ -71,14 +71,6 @@ permalink: /news/semaglutide/
 2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXl1bGU1RUFyMWV2UGE5aEc0elVFdnlhZ2swVDA2NUhEOGU2UHBwYUROVGhEbHhpY1ZPSDdkc3d6NGc4VDE1Y1hKb0MxMUdvZTI0b1l5SFhJME1SN1RrWVpXejYwNm9TRkZ2X3NWcmMzVVZ3QWNfLXhpT2Y0NlE3VTJWOUxadFRkengwVTZRaU1HNWVOaUNxUTd2eHdtekFNYTZvSEhmbFd3QkRtN3lIT1E2dw?oc=5)
-
----
-
-### [La santé des hommes pourrait influencer de manière significative l’issue des grossesses de leurs partenaires, selon une étude](https://news.google.com/rss/articles/CBMitgFBVV95cUxONjZ6VFZtc3d2cEgtNThGMkZsdnhZLVJXZVRJcjJGUkxBVk4zQ09jN2czLWIxcmZ3NjdNWTdkZzY1cEJrWjhtdHhrRHhpbGQxSU9Hc2tra2RKdEtleDgzLXprN3JodDJRaDFVN3JOenlQRVVjY1pLd00yM1BZdC1Jb1RtSHFfTl9EbzRUNzE4dUlldkhXaWVqZ00zOW51QkVsT1Jta0dPVDNURkpwQXd1SmtmenN5UdIBuwFBVV95cUxNa0RvY3k5N1ZBTmFHZEo4b2NRRGgtX19tM3d6bXl0RlFBSWp4WThfbUJDVjNISmMtQTJFSjBjUlFYaTVFV0JTaU1fR3dVNzhKSF84SnJ0TXVzUUpOc3o2Mkh1emlHZnlsZGRBbE5TenBialJyZjk3dF94ZUhIVVVoSUxxbkUtd2Z1Zjh1Y2lEeFRURHZkLU5kTDUtQjhDVjJkd1V2VzdVZDZVNksxWnE4STZGTDhLeDdLdFZ3?oc=5)
-
-2026-03-18 <span class="news-indication-tag">diabète</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxONjZ6VFZtc3d2cEgtNThGMkZsdnhZLVJXZVRJcjJGUkxBVk4zQ09jN2czLWIxcmZ3NjdNWTdkZzY1cEJrWjhtdHhrRHhpbGQxSU9Hc2tra2RKdEtleDgzLXprN3JodDJRaDFVN3JOenlQRVVjY1pLd00yM1BZdC1Jb1RtSHFfTl9EbzRUNzE4dUlldkhXaWVqZ00zOW51QkVsT1Jta0dPVDNURkpwQXd1SmtmenN5UdIBuwFBVV95cUxNa0RvY3k5N1ZBTmFHZEo4b2NRRGgtX19tM3d6bXl0RlFBSWp4WThfbUJDVjNISmMtQTJFSjBjUlFYaTVFV0JTaU1fR3dVNzhKSF84SnJ0TXVzUUpOc3o2Mkh1emlHZnlsZGRBbE5TenBialJyZjk3dF94ZUhIVVVoSUxxbkUtd2Z1Zjh1Y2lEeFRURHZkLU5kTDUtQjhDVjJkd1V2VzdVZDZVNksxWnE4STZGTDhLeDdLdFZ3?oc=5)
 
 ---
 
