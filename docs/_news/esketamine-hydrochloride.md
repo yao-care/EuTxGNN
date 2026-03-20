@@ -50,11 +50,11 @@ permalink: /news/esketamine-hydrochloride/
 
 ---
 
-### [Weight-loss drugs linked to lower depression and anxiety risk, study](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
+### [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
 
-2026-03-19 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
 
 ---
 

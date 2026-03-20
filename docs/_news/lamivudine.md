@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lamivudine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,17 +40,17 @@ permalink: /news/lamivudine/
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Pediatras piden adelantar la vacunación infantil ante el repunte de sarampión, hepatitis A y meningococo B](https://news.google.com/rss/articles/CBMizgFBVV95cUxOekRVWVl1QkwtSTdqY1F6YUhhMnYzenVMcEphbFZfNTg0ajJGT0VTYVdWcmhWWkJUS2d0eFEweFBrY2ZsR0JpQWhUV1hzbzZ5Y3lfTUxxUGlwUDJSem5MYTlMdEJGZm93X0NkdGQxb2JoaTRtSUZsWDZxRXBVSDRUcGJSOTJRLVAxd3B4R1ozdnc4QlM1LUo3eV9ad20yMEF2VWVfWlVENXJoSnBCY1E0cldGZnllNzZ3YUwyamZJRGJTQ3NXQTVvRmdETDc2QQ?oc=5)
+### [Pediatras piden adelantar la vacunación infantil ante el repunte de sarampión, hepatitis A y meningococo B](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFd0MUNzbUwtbnlaXzdzNmFLdjNDa2FIcDlwOElIY2JOaEY4aTMwU2Y4WGVFOUdfYWVxSXMzTnEtSmNoMFZFVHNjNC1zWm1DN1AxS3Z0blY2VEV1RGFKck1hNzhiUzVsb3B6OEtVRVZYYmJzMUpfOEsyVnFZSzZJTk5JXzR3NHVCdF9qSnMwN1RaNkhwQVc4am1yeXVNQVdQV0R6bHlsc3pMZGdOV3IzRTNPWDBwMi1Eb3RiZTJIV2NJWGp0aVpndFhTOFgyM3RENVNqMy1mNjJ5TE5oUm1iYlpFaw?oc=5)
 
 2026-03-20 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMizgFBVV95cUxOekRVWVl1QkwtSTdqY1F6YUhhMnYzenVMcEphbFZfNTg0ajJGT0VTYVdWcmhWWkJUS2d0eFEweFBrY2ZsR0JpQWhUV1hzbzZ5Y3lfTUxxUGlwUDJSem5MYTlMdEJGZm93X0NkdGQxb2JoaTRtSUZsWDZxRXBVSDRUcGJSOTJRLVAxd3B4R1ozdnc4QlM1LUo3eV9ad20yMEF2VWVfWlVENXJoSnBCY1E0cldGZnllNzZ3YUwyamZJRGJTQ3NXQTVvRmdETDc2QQ?oc=5)
+來源：[medicosypacientes.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFd0MUNzbUwtbnlaXzdzNmFLdjNDa2FIcDlwOElIY2JOaEY4aTMwU2Y4WGVFOUdfYWVxSXMzTnEtSmNoMFZFVHNjNC1zWm1DN1AxS3Z0blY2VEV1RGFKck1hNzhiUzVsb3B6OEtVRVZYYmJzMUpfOEsyVnFZSzZJTk5JXzR3NHVCdF9qSnMwN1RaNkhwQVc4am1yeXVNQVdQV0R6bHlsc3pMZGdOV3IzRTNPWDBwMi1Eb3RiZTJIV2NJWGp0aVpndFhTOFgyM3RENVNqMy1mNjJ5TE5oUm1iYlpFaw?oc=5)
 
 ---
 
-### [Epatite A, il Comune di Napoli vieta il consumo di frutti di mare crudi - Sky TG24](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1A0YTdSTmJTU3BHOTJoZWs0V014SUVaaHRnYUJHWVFnbTZyM0VMcDVQVlpWZ3h0NGFXUGFoTUI1TjNlUVQ2X1liMThyYXZqay1HYzVjMXo5RVllVnVqRlIwb1JGd1RlNEpVYzZiTG1iZUR6Ujh4TzlzMy1DTzkyNFJ4VFA0TUZZ?oc=5)
+### [Epatite A, casi anche a Ischia. Comune di Napoli vieta il consumo di frutti di mare crudi - Sky TG24](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1A0YTdSTmJTU3BHOTJoZWs0V014SUVaaHRnYUJHWVFnbTZyM0VMcDVQVlpWZ3h0NGFXUGFoTUI1TjNlUVQ2X1liMThyYXZqay1HYzVjMXo5RVllVnVqRlIwb1JGd1RlNEpVYzZiTG1iZUR6Ujh4TzlzMy1DTzkyNFJ4VFA0TUZZ?oc=5)
 
 2026-03-20 <span class="news-indication-tag">epatite</span>
 
@@ -60,7 +60,7 @@ permalink: /news/lamivudine/
 
 ### [Wegen Hepatitis-A: Keine rohen Meeresfrüchte in Neapel - PULS 24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFJKTnhVXzJOR2hHbklZc3VMWmJrTGFURDVoLXpubkx0dlhaS3hiVFJVZHM3Q3pYSElCRmVmZEhWZnNGREd1N3VjanQyc0U0YWkwd2MtbWJRU1JjMjhvb282WXl3cnB3TkNlOXQzZEQ1WmhVNWd6MDlaS2U5Y2dhY0F0QS1Pbk1FVFFENmlpQ3ZIT2pubDhmMFlrQXk?oc=5)
 
-2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[PULS 24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFJKTnhVXzJOR2hHbklZc3VMWmJrTGFURDVoLXpubkx0dlhaS3hiVFJVZHM3Q3pYSElCRmVmZEhWZnNGREd1N3VjanQyc0U0YWkwd2MtbWJRU1JjMjhvb282WXl3cnB3TkNlOXQzZEQ1WmhVNWd6MDlaS2U5Y2dhY0F0QS1Pbk1FVFFENmlpQ3ZIT2pubDhmMFlrQXk?oc=5)
 
@@ -71,6 +71,14 @@ permalink: /news/lamivudine/
 2026-03-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">epatite</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
+
+---
+
+### [Casi di epatite A a Catanzaro, un paziente trasferito a Roma - Catanzaro Informa](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2c5Rk1KVFU1cVNSMy1LWFFocVphRkxUNVNHc0JaUG9jb001NzJsNkxad3JVWklTTkFNOGxXUmdMV1diN0x5R2o5MjkxV0FvbjViRFZaMmZyNUhkRWVsRUpORHhlaUdNbGRQeVU3OU1PUVoyRE5GSGJvY2lTeTVJT1VfcEEta29TWTdCVkNpUklrZHhGU1pkTXl4X05VRTNHbVRHc3VYNV9rRlZCYnY0bWktNHVuazhrekIzcjhjVWcxbWJq0gHKAUFVX3lxTE1nWjlZb0x1UUk3d0dSY091bEV0c0FNcE5zMkNNVV8zZEEwdkdjSkZGOG1iTTFaU0RRSWNuQlcyVGl2b0p5R213SXE1elluR2daRnhCaXl4aTl5TVliRjUtWFlOcTRPTUp5QXkyVDRmc01HajhMQ3Bzd2Q2eS13NlhPTlJOZDhXZnRRX3lZU3lGeGllVVYxa3hJUUhVTXlRaTNMcnhXYlIwSjJjUTlHNHpXVWN5SnBDLTNEUk9vMFVaYWdnRGVxdHU2bmc?oc=5)
+
+2026-03-19 <span class="news-indication-tag">epatite</span>
+
+來源：[Catanzaro Informa](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2c5Rk1KVFU1cVNSMy1LWFFocVphRkxUNVNHc0JaUG9jb001NzJsNkxad3JVWklTTkFNOGxXUmdMV1diN0x5R2o5MjkxV0FvbjViRFZaMmZyNUhkRWVsRUpORHhlaUdNbGRQeVU3OU1PUVoyRE5GSGJvY2lTeTVJT1VfcEEta29TWTdCVkNpUklrZHhGU1pkTXl4X05VRTNHbVRHc3VYNV9rRlZCYnY0bWktNHVuazhrekIzcjhjVWcxbWJq0gHKAUFVX3lxTE1nWjlZb0x1UUk3d0dSY091bEV0c0FNcE5zMkNNVV8zZEEwdkdjSkZGOG1iTTFaU0RRSWNuQlcyVGl2b0p5R213SXE1elluR2daRnhCaXl4aTl5TVliRjUtWFlOcTRPTUp5QXkyVDRmc01HajhMQ3Bzd2Q2eS13NlhPTlJOZDhXZnRRX3lZU3lGeGllVVYxa3hJUUhVTXlRaTNMcnhXYlIwSjJjUTlHNHpXVWN5SnBDLTNEUk9vMFVaYWdnRGVxdHU2bmc?oc=5)
 
 ---
 
