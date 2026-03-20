@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（14 則）
 
 ### [Fruktose Nieren: Wie Fruchtzucker den Nieren schadet | DIE PTA](https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXdNOHdLaU9ZRjFxa25HSkg5cE9wZjI0SjE0eVVwM0FBTnZ1bWsxOTFFdTY5M3F6NW5TUk5fdHVsNnBRVjVrYllTYi1uamJ3OFNOQ0FVOWtxMTR1c0Q3OTB1WTNOZ1lnLUZtNXRIZHZZWk5URTNnaDRvTGRVY0dUcDVSM3h6Mm5UU3Fkd2tsQU16Qnp5cHJLTmJuT0JyV2ozX0Fv?oc=5)
 
@@ -58,19 +58,19 @@ permalink: /news/rotigotine/
 
 ---
 
-### [El dolor en la boca “no siempre viene del diente”: expertos piden afinar el diagnóstico del dolor orofacial](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEhPRF9mV3V6bEdyN05hblpPTkcwZzZUa3lRZER1eHdRcFpJc1FsUHctNTJxVnNDUGFSUkpZX0hWM3VoMTh0S1kwd3p2SHM5UVJjZUlMZ3ZtVFg5U1lPSC1ORkw2cnJlNlJvWVF5NVcyYW13WDZzQkh0YmxjWVJuRExqTzJqLUhjMDZoOWw3NjNCVEJCMk5CTGIwYWJpM1dmM2FsUHJyWXEtRjlmamVKS3o1UFlDV01zQm1ZMGFaS09FTm53N3hRV2RNVmFGcmRQRmlaU0RmMTlKczB3TWthd0JIN3lXNm0zNUFrUDR3dw?oc=5)
-
-2026-03-19 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEhPRF9mV3V6bEdyN05hblpPTkcwZzZUa3lRZER1eHdRcFpJc1FsUHctNTJxVnNDUGFSUkpZX0hWM3VoMTh0S1kwd3p2SHM5UVJjZUlMZ3ZtVFg5U1lPSC1ORkw2cnJlNlJvWVF5NVcyYW13WDZzQkh0YmxjWVJuRExqTzJqLUhjMDZoOWw3NjNCVEJCMk5CTGIwYWJpM1dmM2FsUHJyWXEtRjlmamVKS3o1UFlDV01zQm1ZMGFaS09FTm53N3hRV2RNVmFGcmRQRmlaU0RmMTlKczB3TWthd0JIN3lXNm0zNUFrUDR3dw?oc=5)
-
----
-
 ### [PMS: Kombi aus Vitamin D und E zur Linderung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
 
 2026-03-19 <span class="news-indication-tag">MS</span>
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
+
+---
+
+### [Man put headache down to 'sleeping funny' – four days later he was dead from meningitis - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGxLUUZwN2ZEZE5XOWhYVjBlRjhKeXE1MzNKWnpMUTNsVmRFMlhqUW1ZTVNFMTZ1OGpJR1g5TkZCdm9QLWFqSk9zU2dLcnBzUXlnWXpyTmdMWmZxZE5qRFphdmF6TG9SSmlTaDNKUl9jRXIwMlI5dUdXRkdPWk9iWXhhSdIBiAFBVV95cUxQVTRJT3NOZzBOeVZNVWk3YlFYdWozVnUwMFBUQzhfemZWZ2FibHpFX3YzQnhEeDltVFhhVV9WY2VXVndVaTgxUmZVUjhhMU9ZOFFNNVNwdk1kaVFDYkttZUtqT3FtcXBJaUZhUTgyMHBjamswdXpJSjgzbThyekxLTENwUnlWUFRl?oc=5)
+
+2026-03-19 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGxLUUZwN2ZEZE5XOWhYVjBlRjhKeXE1MzNKWnpMUTNsVmRFMlhqUW1ZTVNFMTZ1OGpJR1g5TkZCdm9QLWFqSk9zU2dLcnBzUXlnWXpyTmdMWmZxZE5qRFphdmF6TG9SSmlTaDNKUl9jRXIwMlI5dUdXRkdPWk9iWXhhSdIBiAFBVV95cUxQVTRJT3NOZzBOeVZNVWk3YlFYdWozVnUwMFBUQzhfemZWZ2FibHpFX3YzQnhEeDltVFhhVV9WY2VXVndVaTgxUmZVUjhhMU9ZOFFNNVNwdk1kaVFDYkttZUtqT3FtcXBJaUZhUTgyMHBjamswdXpJSjgzbThyekxLTENwUnlWUFRl?oc=5)
 
 ---
 
@@ -95,14 +95,6 @@ permalink: /news/rotigotine/
 2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU1oRFpYZEJuMlZlV0ZQdkdmaU1IcjlrcVQtZGFxaXdIMFYzSHFZcHk1OXhrWTUtZFhDei1YeTRqdVRVQTB0YW9wWUdwbU9hMU95bHhFU1RVTVk4aExNOXVOYXctSXBKNlVOOC1ZblZSVDN1MXYyWDVvcFF6X1d6WW5rZjIxdlpQYmx6YzY3dnU1cGY3WEhHVHlReHRiQ2J6TmVjLVVQaVFRb295?oc=5)
-
----
-
-### [Scientists call for 'urgent' action as microplastics become a major risk to human health on multiple fronts](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHVuUFRCN1g3MDRwTzM0RjVqMG1EU1NucVFfcEh0eWVkazF1c0pJRGlHUUFiQW5MTVdycVJFV0VOdTZNTE5rQ3NYaHNEOFVRd0pFRjB5MjRHckFnaWJ1cmFHVVhXMjM5Qy1kYzRtclExTWdxUHBHZGpLZ2ZzU0N3Y25iZTBUOG5pSEFiRlNaX2JzWEQ4M2FxSWJOUFZqQzQ3c3k2QnRhS0t4Y0JB?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHVuUFRCN1g3MDRwTzM0RjVqMG1EU1NucVFfcEh0eWVkazF1c0pJRGlHUUFiQW5MTVdycVJFV0VOdTZNTE5rQ3NYaHNEOFVRd0pFRjB5MjRHckFnaWJ1cmFHVVhXMjM5Qy1kYzRtclExTWdxUHBHZGpLZ2ZzU0N3Y25iZTBUOG5pSEFiRlNaX2JzWEQ4M2FxSWJOUFZqQzQ3c3k2QnRhS0t4Y0JB?oc=5)
 
 ---
 
@@ -138,11 +130,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [‘Serious’ warning issued to millions taking Omeprazole over problems drug causes](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+### ['Two problems' people on omeprazole for acid reflux are being made aware of - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFY1cDJ3U0s4UjYtQ2tjUEJfeWZXMU44Zmk2bEt4bWx4TlYyazJMOXRkYkxTQ3JRVDVEWU92bTV4RWdoeldqbDBvT0xqdVo0ZnExU3daVFRJZ3VNNDdTbGR1alBtV3lDV3dWREh3T0twMDRrVkRkTWRKNENFN1FVUWpBTkpfeFMxTGktaTJQMNIBlAFBVV95cUxQaFVEcGg4QWE3M24tb2ExRE1kajVMT2RXVGhoQndUN3ZuMFR1c0dQSDQzTHNoZVpTbDlad3BaYzFmb2tQazczeGhUTmxSbHB4NHNEd2oxTTh5cExMNm50U1ltU2lSczFfMDVZbWJHTkcwOHVYT2lKMFhOUndnbktBNkp5clBkOFpCbVBod21uSW1zbHRt?oc=5)
 
 2026-03-18 <span class="news-indication-tag">MS</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFY1cDJ3U0s4UjYtQ2tjUEJfeWZXMU44Zmk2bEt4bWx4TlYyazJMOXRkYkxTQ3JRVDVEWU92bTV4RWdoeldqbDBvT0xqdVo0ZnExU3daVFRJZ3VNNDdTbGR1alBtV3lDV3dWREh3T0twMDRrVkRkTWRKNENFN1FVUWpBTkpfeFMxTGktaTJQMNIBlAFBVV95cUxQaFVEcGg4QWE3M24tb2ExRE1kajVMT2RXVGhoQndUN3ZuMFR1c0dQSDQzTHNoZVpTbDlad3BaYzFmb2tQazczeGhUTmxSbHB4NHNEd2oxTTh5cExMNm50U1ltU2lSczFfMDVZbWJHTkcwOHVYT2lKMFhOUndnbktBNkp5clBkOFpCbVBod21uSW1zbHRt?oc=5)
 
 ---
 
@@ -151,14 +143,6 @@ permalink: /news/rotigotine/
 2026-03-18 <span class="news-indication-tag">MS</span>
 
 來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMinAFBVV95cUxORFB5MWtyaHJNb19EZUZpaDhBbDBHRTc0cWxubXI0S19RLUt5Q0RWVTNpN185UnBkOVJxLXdFTzlyUjV3ellTZ0x6aVpPZ2Z6cFJUMU96MG9pVG9uY2pfMjlfQmYyV1ZqRjk4dTczWDhSX3lPNWJzSjNmZk5sYl80WEg0UFg3Z1NDaWpNWHJoSWw1dmtnbnZaSUExNVY?oc=5)
-
----
-
-### [Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
 
 ---
 

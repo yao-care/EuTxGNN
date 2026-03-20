@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthma 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthma 有什麼相關新聞？">
+<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,11 +77,11 @@ permalink: /news/asthma/
 
 ## 相關新聞（1 則）
 
-### [La Jiménez Díaz pone el foco en el impacto del asma en las mujeres - Redacción Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2pyZVJfakVKTkNuOEdfMEtBRzE1SmppZ1J0YkRXdFMwNmRIUHFaTGNCdTlUQXZSV3FGVUh4M0t5c1pabVQzbGNlUi1HVkFGdThra2Y1UndOWGFHNlUwcmxuNXFfMlNqRmM0OE80VXdhUUR1eWxlTnQtWXJzVTBzUTBNLUtJSUFaa1JfZnVKMFgxMGNSd3NlNlRKUXo1STBScElybElFeGVuR0lVZHRzc2FzUGFPZHhObVRVQkV30gG-AUFVX3lxTE9XbGVWbDJDQkl6M0thbkJGT2Y4SllldDBuN3VxVmtFSnFLYmM1Y2RpUk5BMTI2VG16S3VuM19jcUVnSElfUTVJZV9XZGFjb2hIRHVSS2loSmdWT1otcDh4Zm1xZmVDSFdGV2NCd0RPdGgydThhcDc3VkRvRm8tUzk1OFFDNGhjNWg5RVF4ekpGSFVJc01zM1Y1YW1Vdk1jM0UwU1FxY0VwVVpPbl9Ib19IWWo0OVJXWFRBOFRGNVE?oc=5)
+### [Warning to anyone in UK with asthma over Middle East War consequence - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkhJRF9ES1F3bTJrOGdaRWZfZ2tRVXdCV2xyVEZ1SXcxNGlzTGhrRFBCcVVwNmtjdm9wemtuNTBFWWVzdTJ0NGhfS21OQVF0bFRWUzlzR2lxQW1YQXctdUhSSkUwZG0yTmpCUDhsNmdxbUliNE5IMnhUQXVfOUNkMtIBhgFBVV95cUxNM3o2b1JpZU1hM3diMGI4ckx6WGpTTlJLZXotdlVGYWRqMkZ3cTgtN1NNRlU1ZkFaVlpYamt6MTkxem5QcFR4VFdjUjVEZHdwd3o3SDU0SUxvcDFrRlNjbHE3eTl5RUZrRmJVR2N3MXFSYVZtMWlicmJqeUtyWmd0czlhcVVndw?oc=5)
 
 2026-03-19
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2pyZVJfakVKTkNuOEdfMEtBRzE1SmppZ1J0YkRXdFMwNmRIUHFaTGNCdTlUQXZSV3FGVUh4M0t5c1pabVQzbGNlUi1HVkFGdThra2Y1UndOWGFHNlUwcmxuNXFfMlNqRmM0OE80VXdhUUR1eWxlTnQtWXJzVTBzUTBNLUtJSUFaa1JfZnVKMFgxMGNSd3NlNlRKUXo1STBScElybElFeGVuR0lVZHRzc2FzUGFPZHhObVRVQkV30gG-AUFVX3lxTE9XbGVWbDJDQkl6M0thbkJGT2Y4SllldDBuN3VxVmtFSnFLYmM1Y2RpUk5BMTI2VG16S3VuM19jcUVnSElfUTVJZV9XZGFjb2hIRHVSS2loSmdWT1otcDh4Zm1xZmVDSFdGV2NCd0RPdGgydThhcDc3VkRvRm8tUzk1OFFDNGhjNWg5RVF4ekpGSFVJc01zM1Y1YW1Vdk1jM0UwU1FxY0VwVVpPbl9Ib19IWWo0OVJXWFRBOFRGNVE?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkhJRF9ES1F3bTJrOGdaRWZfZ2tRVXdCV2xyVEZ1SXcxNGlzTGhrRFBCcVVwNmtjdm9wemtuNTBFWWVzdTJ0NGhfS21OQVF0bFRWUzlzR2lxQW1YQXctdUhSSkUwZG0yTmpCUDhsNmdxbUliNE5IMnhUQXVfOUNkMtIBhgFBVV95cUxNM3o2b1JpZU1hM3diMGI4ckx6WGpTTlJLZXotdlVGYWRqMkZ3cTgtN1NNRlU1ZkFaVlpYamt6MTkxem5QcFR4VFdjUjVEZHdwd3o3SDU0SUxvcDFrRlNjbHE3eTl5RUZrRmJVR2N3MXFSYVZtMWlicmJqeUtyWmd0czlhcVVndw?oc=5)
 
 ---
 

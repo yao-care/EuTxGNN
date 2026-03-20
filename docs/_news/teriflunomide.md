@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teriflunomide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（15 則）
 
-### [Allarme epatite A a Napoli, 43 ricoverati al Cotugno: "Barelle in pronto soccorso"](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdEtBTWlzREYxZ0hqczVGbFRxeVM2LWt3NGFzTk9KR1BWQUhDamhpbVJkX2JNb0tNRElNX1U0YmhUUXFjRjQ0Vmd1RWJ0V2dhMllEMUlRZGtjUzVDeXJJR0lsYURBWmxTRnRBbzV0TGRINkxEN2FqMDE2TENKZXRZV0lNU0RMNVZkUDJUQjF3LWxWRDJpN2tpMWN3TE1Tb1B6S1dzNzhZS0J3allEOGdUWWlRck9rN0tkYWZXTlRwTEVwN3BESzhpYXNkOEtQQkNuRTRTOTJ0LVV3dXJCR1liOE9RazlhMlhBNTBwUVE0Nng2blRya3lYcmVmNFjSAYICQVVfeXFMTVR6VVFKWmc1cDdiREJSU2ktMnJDX1hVcllKZlkxSUt0VkVvZjZPNkdEck9pSWJHTUZNZC1aSmdsT0hlWndTNHhLMFRjNVY3QWpxMkNyblFfZ3REcVlvQVpXU0dJN0FXSVI5Tk5pYldPQVVzdlhEcnBxTG50bzV4U09pQWloVW5QcFB2czRLbm14Z0VBU0dtZHA3eUpPQzVBMGdBMkdkLVBpbE9xZV9VUk1INDJJMndfeXpuXzlJeXJ4eW4tdWpUZ1h5MHRkTlVldGhYSy1IZllkeWhoVnZDUXUwRUJPVk8wRTNyY2gtNjNUZWtkSUJyRWVEUTJ6SXZyVUtR?oc=5)
+### [Epatite A a Napoli, Manfredi firma l'ordinanza: vietato il consumo di frutti di mare crudi nei ristoranti - Il Mattino](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREdfWk16bllyOEhrNnVGbEhMWENhdWZ0dnVXUDhIOXVYZUhxNFFHbl9GejFoSHVOSTY3a2FxWFlWdkpKb2RkbkpMTU9YbTNmMmNfdUhDNnk5WFdfeEs2TzJkS0dWM0pWaUpXR0IwOTIybDZEdlBjMWF4WmdteGc1X0JaTnV2WnlHWEVzSl9BbDBSa21Zb1BESEFPUTVOLXhrTy1WcDBTSUo3VjNKMkFZaml6NFZydmpnM3drb01PMGMzaVE4d1R1ZmVUUXFJb0120gHWAUFVX3lxTE5Kb2dWNW1wa0NGeDNhNVJpR1RYZWtMa0U4QjRZdWs2UmNTekU3dGNRdUJnUFdMd0k0TzNTd2lqMHlVVGc4OGgtQ1NTZUJQTGNUcDMtbkx3dDQ3dlFfREZYa3NvVEZWMzZhX3hFSWF1ZW92Y1llbmVwOXJFTlJXVVdqZ04yeUU4VFNmLWhwZU1iVFY5NUp6aWtpaXlBVXBWcUpxQjVhVkViNkxqbk0yd2pocFV6Zy1WMEtqcHhyajBFNGFfZGNKaU04M282TlhVVmRHd3YxckE?oc=5)
 
 2026-03-19 <span class="news-indication-tag">epatite</span>
 
-來源：[RaiNews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdEtBTWlzREYxZ0hqczVGbFRxeVM2LWt3NGFzTk9KR1BWQUhDamhpbVJkX2JNb0tNRElNX1U0YmhUUXFjRjQ0Vmd1RWJ0V2dhMllEMUlRZGtjUzVDeXJJR0lsYURBWmxTRnRBbzV0TGRINkxEN2FqMDE2TENKZXRZV0lNU0RMNVZkUDJUQjF3LWxWRDJpN2tpMWN3TE1Tb1B6S1dzNzhZS0J3allEOGdUWWlRck9rN0tkYWZXTlRwTEVwN3BESzhpYXNkOEtQQkNuRTRTOTJ0LVV3dXJCR1liOE9RazlhMlhBNTBwUVE0Nng2blRya3lYcmVmNFjSAYICQVVfeXFMTVR6VVFKWmc1cDdiREJSU2ktMnJDX1hVcllKZlkxSUt0VkVvZjZPNkdEck9pSWJHTUZNZC1aSmdsT0hlWndTNHhLMFRjNVY3QWpxMkNyblFfZ3REcVlvQVpXU0dJN0FXSVI5Tk5pYldPQVVzdlhEcnBxTG50bzV4U09pQWloVW5QcFB2czRLbm14Z0VBU0dtZHA3eUpPQzVBMGdBMkdkLVBpbE9xZV9VUk1INDJJMndfeXpuXzlJeXJ4eW4tdWpUZ1h5MHRkTlVldGhYSy1IZllkeWhoVnZDUXUwRUJPVk8wRTNyY2gtNjNUZWtkSUJyRWVEUTJ6SXZyVUtR?oc=5)
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPREdfWk16bllyOEhrNnVGbEhMWENhdWZ0dnVXUDhIOXVYZUhxNFFHbl9GejFoSHVOSTY3a2FxWFlWdkpKb2RkbkpMTU9YbTNmMmNfdUhDNnk5WFdfeEs2TzJkS0dWM0pWaUpXR0IwOTIybDZEdlBjMWF4WmdteGc1X0JaTnV2WnlHWEVzSl9BbDBSa21Zb1BESEFPUTVOLXhrTy1WcDBTSUo3VjNKMkFZaml6NFZydmpnM3drb01PMGMzaVE4d1R1ZmVUUXFJb0120gHWAUFVX3lxTE5Kb2dWNW1wa0NGeDNhNVJpR1RYZWtMa0U4QjRZdWs2UmNTekU3dGNRdUJnUFdMd0k0TzNTd2lqMHlVVGc4OGgtQ1NTZUJQTGNUcDMtbkx3dDQ3dlFfREZYa3NvVEZWMzZhX3hFSWF1ZW92Y1llbmVwOXJFTlJXVVdqZ04yeUU4VFNmLWhwZU1iVFY5NUp6aWtpaXlBVXBWcUpxQjVhVkViNkxqbk0yd2pocFV6Zy1WMEtqcHhyajBFNGFfZGNKaU04M282TlhVVmRHd3YxckE?oc=5)
 
 ---
 
@@ -66,19 +66,19 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [El dolor en la boca “no siempre viene del diente”: expertos piden afinar el diagnóstico del dolor orofacial](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEhPRF9mV3V6bEdyN05hblpPTkcwZzZUa3lRZER1eHdRcFpJc1FsUHctNTJxVnNDUGFSUkpZX0hWM3VoMTh0S1kwd3p2SHM5UVJjZUlMZ3ZtVFg5U1lPSC1ORkw2cnJlNlJvWVF5NVcyYW13WDZzQkh0YmxjWVJuRExqTzJqLUhjMDZoOWw3NjNCVEJCMk5CTGIwYWJpM1dmM2FsUHJyWXEtRjlmamVKS3o1UFlDV01zQm1ZMGFaS09FTm53N3hRV2RNVmFGcmRQRmlaU0RmMTlKczB3TWthd0JIN3lXNm0zNUFrUDR3dw?oc=5)
-
-2026-03-19 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbEhPRF9mV3V6bEdyN05hblpPTkcwZzZUa3lRZER1eHdRcFpJc1FsUHctNTJxVnNDUGFSUkpZX0hWM3VoMTh0S1kwd3p2SHM5UVJjZUlMZ3ZtVFg5U1lPSC1ORkw2cnJlNlJvWVF5NVcyYW13WDZzQkh0YmxjWVJuRExqTzJqLUhjMDZoOWw3NjNCVEJCMk5CTGIwYWJpM1dmM2FsUHJyWXEtRjlmamVKS3o1UFlDV01zQm1ZMGFaS09FTm53N3hRV2RNVmFGcmRQRmlaU0RmMTlKczB3TWthd0JIN3lXNm0zNUFrUDR3dw?oc=5)
-
----
-
 ### [PMS: Kombi aus Vitamin D und E zur Linderung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
 
 2026-03-19 <span class="news-indication-tag">MS</span>
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
+
+---
+
+### [Man put headache down to 'sleeping funny' – four days later he was dead from meningitis - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGxLUUZwN2ZEZE5XOWhYVjBlRjhKeXE1MzNKWnpMUTNsVmRFMlhqUW1ZTVNFMTZ1OGpJR1g5TkZCdm9QLWFqSk9zU2dLcnBzUXlnWXpyTmdMWmZxZE5qRFphdmF6TG9SSmlTaDNKUl9jRXIwMlI5dUdXRkdPWk9iWXhhSdIBiAFBVV95cUxQVTRJT3NOZzBOeVZNVWk3YlFYdWozVnUwMFBUQzhfemZWZ2FibHpFX3YzQnhEeDltVFhhVV9WY2VXVndVaTgxUmZVUjhhMU9ZOFFNNVNwdk1kaVFDYkttZUtqT3FtcXBJaUZhUTgyMHBjamswdXpJSjgzbThyekxLTENwUnlWUFRl?oc=5)
+
+2026-03-19 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGxLUUZwN2ZEZE5XOWhYVjBlRjhKeXE1MzNKWnpMUTNsVmRFMlhqUW1ZTVNFMTZ1OGpJR1g5TkZCdm9QLWFqSk9zU2dLcnBzUXlnWXpyTmdMWmZxZE5qRFphdmF6TG9SSmlTaDNKUl9jRXIwMlI5dUdXRkdPWk9iWXhhSdIBiAFBVV95cUxQVTRJT3NOZzBOeVZNVWk3YlFYdWozVnUwMFBUQzhfemZWZ2FibHpFX3YzQnhEeDltVFhhVV9WY2VXVndVaTgxUmZVUjhhMU9ZOFFNNVNwdk1kaVFDYkttZUtqT3FtcXBJaUZhUTgyMHBjamswdXpJSjgzbThyekxLTENwUnlWUFRl?oc=5)
 
 ---
 
@@ -103,14 +103,6 @@ permalink: /news/teriflunomide/
 2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU1oRFpYZEJuMlZlV0ZQdkdmaU1IcjlrcVQtZGFxaXdIMFYzSHFZcHk1OXhrWTUtZFhDei1YeTRqdVRVQTB0YW9wWUdwbU9hMU95bHhFU1RVTVk4aExNOXVOYXctSXBKNlVOOC1ZblZSVDN1MXYyWDVvcFF6X1d6WW5rZjIxdlpQYmx6YzY3dnU1cGY3WEhHVHlReHRiQ2J6TmVjLVVQaVFRb295?oc=5)
-
----
-
-### [Scientists call for 'urgent' action as microplastics become a major risk to human health on multiple fronts](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHVuUFRCN1g3MDRwTzM0RjVqMG1EU1NucVFfcEh0eWVkazF1c0pJRGlHUUFiQW5MTVdycVJFV0VOdTZNTE5rQ3NYaHNEOFVRd0pFRjB5MjRHckFnaWJ1cmFHVVhXMjM5Qy1kYzRtclExTWdxUHBHZGpLZ2ZzU0N3Y25iZTBUOG5pSEFiRlNaX2JzWEQ4M2FxSWJOUFZqQzQ3c3k2QnRhS0t4Y0JB?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHVuUFRCN1g3MDRwTzM0RjVqMG1EU1NucVFfcEh0eWVkazF1c0pJRGlHUUFiQW5MTVdycVJFV0VOdTZNTE5rQ3NYaHNEOFVRd0pFRjB5MjRHckFnaWJ1cmFHVVhXMjM5Qy1kYzRtclExTWdxUHBHZGpLZ2ZzU0N3Y25iZTBUOG5pSEFiRlNaX2JzWEQ4M2FxSWJOUFZqQzQ3c3k2QnRhS0t4Y0JB?oc=5)
 
 ---
 
@@ -146,11 +138,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [‘Serious’ warning issued to millions taking Omeprazole over problems drug causes](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+### ['Two problems' people on omeprazole for acid reflux are being made aware of - Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFY1cDJ3U0s4UjYtQ2tjUEJfeWZXMU44Zmk2bEt4bWx4TlYyazJMOXRkYkxTQ3JRVDVEWU92bTV4RWdoeldqbDBvT0xqdVo0ZnExU3daVFRJZ3VNNDdTbGR1alBtV3lDV3dWREh3T0twMDRrVkRkTWRKNENFN1FVUWpBTkpfeFMxTGktaTJQMNIBlAFBVV95cUxQaFVEcGg4QWE3M24tb2ExRE1kajVMT2RXVGhoQndUN3ZuMFR1c0dQSDQzTHNoZVpTbDlad3BaYzFmb2tQazczeGhUTmxSbHB4NHNEd2oxTTh5cExMNm50U1ltU2lSczFfMDVZbWJHTkcwOHVYT2lKMFhOUndnbktBNkp5clBkOFpCbVBod21uSW1zbHRt?oc=5)
 
 2026-03-18 <span class="news-indication-tag">MS</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxOUGZRcUNzZm1GY3ZvMWxiT2FhejNvTjdaanVEVjdYektQV0ZJQ0FCaDVZT3BENXJFWXJ6eWhQOURyaXRob2hzSlR0TFkxX0E3UkloX2tYc3FDa24tZ2RXUUc3NjJ6UXNGYlN6UGt4ZkZDbXQ0TmQzOXJETnRfSGtvcldWUEdRdnJKekJmWTBTa21BaS02TGRfcDc2NDhmZw?oc=5)
+來源：[Daily Record](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFY1cDJ3U0s4UjYtQ2tjUEJfeWZXMU44Zmk2bEt4bWx4TlYyazJMOXRkYkxTQ3JRVDVEWU92bTV4RWdoeldqbDBvT0xqdVo0ZnExU3daVFRJZ3VNNDdTbGR1alBtV3lDV3dWREh3T0twMDRrVkRkTWRKNENFN1FVUWpBTkpfeFMxTGktaTJQMNIBlAFBVV95cUxQaFVEcGg4QWE3M24tb2ExRE1kajVMT2RXVGhoQndUN3ZuMFR1c0dQSDQzTHNoZVpTbDlad3BaYzFmb2tQazczeGhUTmxSbHB4NHNEd2oxTTh5cExMNm50U1ltU2lSczFfMDVZbWJHTkcwOHVYT2lKMFhOUndnbktBNkp5clBkOFpCbVBod21uSW1zbHRt?oc=5)
 
 ---
 
@@ -159,14 +151,6 @@ permalink: /news/teriflunomide/
 2026-03-18 <span class="news-indication-tag">MS</span>
 
 來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMinAFBVV95cUxORFB5MWtyaHJNb19EZUZpaDhBbDBHRTc0cWxubXI0S19RLUt5Q0RWVTNpN185UnBkOVJxLXdFTzlyUjV3ellTZ0x6aVpPZ2Z6cFJUMU96MG9pVG9uY2pfMjlfQmYyV1ZqRjk4dTczWDhSX3lPNWJzSjNmZk5sYl80WEg0UFg3Z1NDaWpNWHJoSWw1dmtnbnZaSUExNVY?oc=5)
-
----
-
-### [Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2M0b0trTlpMRmF1MEI0dkxxMG1XQl9GNGl4RWpvWUhGVnpkMlpDcjJZY21Dd3pJSzNiRUo5cjNUNllIRzZBek1tN2xUWmpFQzEwaDUxeFBwd0tfU0xseEZNSlExT2lMcklMcVR3dDJCU0I4eUdlcDIzXzRtcWpBU3h1d1EtOVU4d01ZTWdYbEhCTk5yUkdwRW4wMWZEbEpvSnZMaThkUk5HcHFKVE1JSkZkYXdmNWc?oc=5)
 
 ---
 

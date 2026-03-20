@@ -14,7 +14,7 @@ permalink: /news/imiquimod/
 ---
 
 <p class="key-answer" data-question="Imiquimod 有什麼相關新聞？">
-<strong>Imiquimod</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Imiquimod</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/imiquimod/
 <p><a href="{{ '/drugs/imiquimod/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（30 則）
 
 ### [Unas células inmunitarias reforzadas con un ‘anzuelo’ logran cazar mejor el cáncer - EL PAÍS](https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2hDZEdZWWJoNm9TcGFQNUVKYklTdnBqSlg4TXhKbWFlaEdBNzA4RlhKQ2tyVjJObWdRTVUyNFBFM3h6QXc2TkFMWjFobUp5djdQYUx2VGdYZ2ZVYlFKUHk5eE5EZ0ZUcU00UnRMWmxpWUFJVmFDYlBEU1BMME9TNmxxR0tlTm5xc3lQeFN4bmFtSTlPZVZnb0dJTlB5T0YzdWItc3VTVVFrdmJPazlMSHIyd3BxQjlMRHFIVWdVNkdpd2VJXzNjVWpBaTNyZ9IB4gFBVV95cUxOTEo5Sjh2OXB1c1J2ck9KbFAxMDA3VjBiSmtSVGVIUmRfeW8xd2hseUtnOHlENWdjOWZiTmNILU5jWWdfY05uVGM3RFJhc0NadzlydDNVRGFFQ29YMWw5TE1Ic1VpOWxOU2ZtRVdMOTFPVUFYVHFNcmhoRVZBR1ZUZ0lOZFVtcnpiZFpJVVhkODFsN0dWRksyQTd5d3JZLVIzWjRBaWhEOXg5UkdEN1lSeWc4ZGtOaEZZeVMwNjhFUVlvVnU5bDAxVFlNLWtVSjctX0VCVXpkU2Rwa09qeGlHcjBn?oc=5)
 
@@ -50,11 +50,11 @@ permalink: /news/imiquimod/
 
 ---
 
-### [Ciertos antioxidantes pueden ser un arma de doble filo en el microambiente tumoral - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUduakxCMHZFV1NzY2cwSkpCTmhibFhFWjNITUx4YWM3aWNmRHNEazJDaW9nVTJacVFOMXVfeEZFb1pvbk10cnBnNWZyMGVqajNjbkpXSjVtWTlkb09qVXVjQUZ4TFQ0Wklkb3NhN3dvOTNHOVlYdkJzVTRBQWZfUTlwSjlJLVpicHRucDBVemVWY0ducWdJeEU2eTMtZjQ1ZnFBMGRlYzJoRlBhVVQ1Qzh1UkRXV2prNm85Rk1La3REMm_SAb4BQVVfeXFMTVpNT0VqSDNIZ2E3SGpzaDVCWU9LREVZVllLS01VVTZyaGt6Ti1HaG1NMFZPUzJud1IxWUZpbWcwUm9ycFBwb1lHUXJ3NWVTeVQwRkN3RF8yU3pwVjJMc1NqZS15UGQyQy1QLU9JSEhYUXdibTZQQ0o1VkNiZUNyUTlJaDBFRXNRWEQ2Y09yemhucHFuOTd3aGpPVEdTNnQtUmJibGp6cTJZcjBkazFOMS05X2hlb2luZWFCSFJSQQ?oc=5)
+### [East Yorkshire dietician suspended after lime water cancer claim](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YaWRkY3hCM3MxNGMwRzJab1NkczBHZE1zdVE0Nm9QQUFqc1JfRTl6ZEJVQ2ZDcFNpQjdRRGRuMDY4emtKa2NjUDVQUjQyX0NfNW9TaUdIRHdmbjVX?oc=5)
 
-2026-03-19 <span class="news-indication-tag">cancer</span>
+2026-03-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUduakxCMHZFV1NzY2cwSkpCTmhibFhFWjNITUx4YWM3aWNmRHNEazJDaW9nVTJacVFOMXVfeEZFb1pvbk10cnBnNWZyMGVqajNjbkpXSjVtWTlkb09qVXVjQUZ4TFQ0Wklkb3NhN3dvOTNHOVlYdkJzVTRBQWZfUTlwSjlJLVpicHRucDBVemVWY0ducWdJeEU2eTMtZjQ1ZnFBMGRlYzJoRlBhVVQ1Qzh1UkRXV2prNm85Rk1La3REMm_SAb4BQVVfeXFMTVpNT0VqSDNIZ2E3SGpzaDVCWU9LREVZVllLS01VVTZyaGt6Ti1HaG1NMFZPUzJud1IxWUZpbWcwUm9ycFBwb1lHUXJ3NWVTeVQwRkN3RF8yU3pwVjJMc1NqZS15UGQyQy1QLU9JSEhYUXdibTZQQ0o1VkNiZUNyUTlJaDBFRXNRWEQ2Y09yemhucHFuOTd3aGpPVEdTNnQtUmJibGp6cTJZcjBkazFOMS05X2hlb2luZWFCSFJSQQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YaWRkY3hCM3MxNGMwRzJab1NkczBHZE1zdVE0Nm9QQUFqc1JfRTl6ZEJVQ2ZDcFNpQjdRRGRuMDY4emtKa2NjUDVQUjQyX0NfNW9TaUdIRHdmbjVX?oc=5)
 
 ---
 
@@ -66,19 +66,11 @@ permalink: /news/imiquimod/
 
 ---
 
-### ["Vergessenes" Organ: Welche Rolle es für Langlebigkeit und Krebsrisiko spielt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVJYbmpLbmxNMXBOMERNMGE2eHhUUi1lV3lXRFRHNXE2blJLQjkzbHFia1hYNXRsZm9HeEJISDZuY2xuTm5mTVBkdTY2QndoZlJoTndZVE5uQzhxUnE1T3U3OWR4UzNWbUc1RmVPWlZ6YXpvM2c1cVotZnp3VG5vZHBMVW8wY0otb19xSDFIT1paT1VIY3FZQXJ1N1M1QXluVTdBVndkLUdFWUJKVVY5X0xsLWZrUTNadkZyM0trYXo5SE14bjVGdw?oc=5)
+### [Stop a melanomi e tumori al seno: la Lilt offre 56 visite gratuite - Cronache Maceratesi](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLTQtSUtQdDRjQnViMWVYUzVDYV9NRGhyWmE3amRyeDRucDhqcFBMVlZvYzJpMGV0cVFHZ3VfZm1Kam41X1ZVWlVmejFyRGxzVG9qaGk4YjhwaE9RUEVPaElHTXdjTlJ1SFo4NjBkTXpYd3lXenByYkx2bzEzcW9Hd1ZUQ3ZUT3RLemwxWUhpbGktMV81alhOLWlaSE52OURIYU5wS0p3ODNlYlBQQU01d3F2TENUUkZx?oc=5)
 
-2026-03-19 <span class="news-indication-tag">Krebs</span>
+2026-03-19 <span class="news-indication-tag">tumor</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVJYbmpLbmxNMXBOMERNMGE2eHhUUi1lV3lXRFRHNXE2blJLQjkzbHFia1hYNXRsZm9HeEJISDZuY2xuTm5mTVBkdTY2QndoZlJoTndZVE5uQzhxUnE1T3U3OWR4UzNWbUc1RmVPWlZ6YXpvM2c1cVotZnp3VG5vZHBMVW8wY0otb19xSDFIT1paT1VIY3FZQXJ1N1M1QXluVTdBVndkLUdFWUJKVVY5X0xsLWZrUTNadkZyM0trYXo5SE14bjVGdw?oc=5)
-
----
-
-### [Tierärzte gaben sie auf – dann berechnet KI einen Krebsimpfstoff - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUVY5WmlTdXNPb2xjaG1mY2sxWExScm5qeHJMUVh2cXBZWFMyUXctbFNqU1ZyMVRXQmxGSFhYWG9meG10d082Ml9qcWdZTWVXZE5IUjVRSWw1UE9Cc0E4YzJTeF9CVDdQX2dHYXRDakVxbVRRQWNkRGNfNF9lVlN2X19Wc0ZZdksyQ0JGMlBPd3BxUjVLcnFSOC1LX29xTThaR1FfVVp4VFBEYkstSTV0aVd3eXhkZUpNQ3lublF5U0lVWm9xbndyREFaR1lrS2FEbzFrUGVFZkJaRUE?oc=5)
-
-2026-03-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUVY5WmlTdXNPb2xjaG1mY2sxWExScm5qeHJMUVh2cXBZWFMyUXctbFNqU1ZyMVRXQmxGSFhYWG9meG10d082Ml9qcWdZTWVXZE5IUjVRSWw1UE9Cc0E4YzJTeF9CVDdQX2dHYXRDakVxbVRRQWNkRGNfNF9lVlN2X19Wc0ZZdksyQ0JGMlBPd3BxUjVLcnFSOC1LX29xTThaR1FfVVp4VFBEYkstSTV0aVd3eXhkZUpNQ3lublF5U0lVWm9xbndyREFaR1lrS2FEbzFrUGVFZkJaRUE?oc=5)
+來源：[Cronache Maceratesi](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLTQtSUtQdDRjQnViMWVYUzVDYV9NRGhyWmE3amRyeDRucDhqcFBMVlZvYzJpMGV0cVFHZ3VfZm1Kam41X1ZVWlVmejFyRGxzVG9qaGk4YjhwaE9RUEVPaElHTXdjTlJ1SFo4NjBkTXpYd3lXenByYkx2bzEzcW9Hd1ZUQ3ZUT3RLemwxWUhpbGktMV81alhOLWlaSE52OURIYU5wS0p3ODNlYlBQQU01d3F2TENUUkZx?oc=5)
 
 ---
 
@@ -95,14 +87,6 @@ permalink: /news/imiquimod/
 2026-03-19 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWROZ3JaZjhHWUlZa01rMFl1bFRBei1HTVZRb1M3QnJweWpkajJ3LVFNVFk2cmlxNFJma3N0SHR5LXV5WGtnNmYxaER4UUpNNGU5RFNGN1lLVkUxeDI5c2Q0LWRLZ2JyakVib0xIX2hWOE12dlU4NW5JYUVzOGRfUTc2Y1J5R2p4NXdVbmEzZHZWbHV2YmZ6cGhwOENhelVqX1ExbURsb0s2VHc?oc=5)
-
----
-
-### [La combinación de axitinib y octreótido frena la progresión de tumores neuroendocrinos - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmNrYjh2WU9CRVAtNWxUTDlSa21NeEhSQ3VLLWxabDZlYjdxbk9xY1dQTkRZaXIwbm1wYlRDUDJRQ2V2N25hZlpESTZqempUbjM0ZlJXY3lSOHJsc2Q0aUZNODQ5VTJuaFpQMVJBSzIwS0xBXzJ5X0tZbVVCeXd2SkVBVXY1SUtfRGpFb1Foc0tCb25YLVhMMmxacC1OYk9CcVYzR0NGXzJzNHRCcEJ5b2tuNE1OZFd5ZDBsVF9lb9IBugFBVV95cUxPU1JZTnJ2NEUteHZzYTZNX3RRNTdTWC1ja0ZaZW16WVRnRmdUY3FVYVgtMjNFU0NvM29yeUZnbWg3OGVZWkt0ZDRzbGozREViZDdkR1JnVmZBUV9OakxfWWttX09LQXM3VGlLNE9mYktUeHVvUmRucUo4Q2ZtVzJXbGZmdUtvQWRrWkV4Yjc0UlItTHFNWGFhY0Rpc016SjU5bW4yM20xcS1ZZWEtVURfNE1aQ0VodlBodkE?oc=5)
-
-2026-03-19 <span class="news-drug-tag">Axitinib</span> <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmNrYjh2WU9CRVAtNWxUTDlSa21NeEhSQ3VLLWxabDZlYjdxbk9xY1dQTkRZaXIwbm1wYlRDUDJRQ2V2N25hZlpESTZqempUbjM0ZlJXY3lSOHJsc2Q0aUZNODQ5VTJuaFpQMVJBSzIwS0xBXzJ5X0tZbVVCeXd2SkVBVXY1SUtfRGpFb1Foc0tCb25YLVhMMmxacC1OYk9CcVYzR0NGXzJzNHRCcEJ5b2tuNE1OZFd5ZDBsVF9lb9IBugFBVV95cUxPU1JZTnJ2NEUteHZzYTZNX3RRNTdTWC1ja0ZaZW16WVRnRmdUY3FVYVgtMjNFU0NvM29yeUZnbWg3OGVZWkt0ZDRzbGozREViZDdkR1JnVmZBUV9OakxfWWttX09LQXM3VGlLNE9mYktUeHVvUmRucUo4Q2ZtVzJXbGZmdUtvQWRrWkV4Yjc0UlItTHFNWGFhY0Rpc016SjU5bW4yM20xcS1ZZWEtVURfNE1aQ0VodlBodkE?oc=5)
 
 ---
 
@@ -138,6 +122,14 @@ permalink: /news/imiquimod/
 
 ---
 
+### [Avance en cáncer: un ensayo del 12 de Octubre reduce un 30% la progresión de tumores neuroendocrinos](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1EzU3FOc3FjTUJNNkwyS3BqSExjREVqQk44cm1GdFBmYmZEZ0tWbWZfSEktZnlacjZhNF80OFY3M2MybFVkdkpjd1piVnZJd0tHZ3ZaTVo0UVlhZThNX3p6SW9sdVA3SnRIdzZJY2lfbGM5WlRKQm1LOUk1TlJ1R2hHdWYzSkZzOGxfelJqTnJUUHI5MG52VGs2QnNhUHBvLUtiWFpHX21OblJOYjNxUmM0WXZGWTTSAbwBQVVfeXFMT1FQaUNOUXh6TEphUDYtY2JGTDBBQ0VvSlpnTDVnYWo0WUJGZEVXZGNoU2QxaDhlSk1OMEVEeEhSem9xcGJqQ0ZGNEJTNWxYSGoyR21ORnM2aGpTTHFoNUZZekR4cHFRS3B5NWQ3MnRiWHlpY3BtNTZ5VUtzNEY3b0VQZ3J3QjZUaVExMU05V0RmdWRmdGkwYzNFajVZcFhTamQzT3NfVG03V0xyWjVZZ1p1R1Q5TDNRYWtnOXM?oc=5)
+
+2026-03-19 <span class="news-drug-tag">Axitinib</span> <span class="news-indication-tag">tumor</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1EzU3FOc3FjTUJNNkwyS3BqSExjREVqQk44cm1GdFBmYmZEZ0tWbWZfSEktZnlacjZhNF80OFY3M2MybFVkdkpjd1piVnZJd0tHZ3ZaTVo0UVlhZThNX3p6SW9sdVA3SnRIdzZJY2lfbGM5WlRKQm1LOUk1TlJ1R2hHdWYzSkZzOGxfelJqTnJUUHI5MG52VGs2QnNhUHBvLUtiWFpHX21OblJOYjNxUmM0WXZGWTTSAbwBQVVfeXFMT1FQaUNOUXh6TEphUDYtY2JGTDBBQ0VvSlpnTDVnYWo0WUJGZEVXZGNoU2QxaDhlSk1OMEVEeEhSem9xcGJqQ0ZGNEJTNWxYSGoyR21ORnM2aGpTTHFoNUZZekR4cHFRS3B5NWQ3MnRiWHlpY3BtNTZ5VUtzNEY3b0VQZ3J3QjZUaVExMU05V0RmdWRmdGkwYzNFajVZcFhTamQzT3NfVG03V0xyWjVZZ1p1R1Q5TDNRYWtnOXM?oc=5)
+
+---
+
 ### [mRNA-Krebsimpfstoffe: Chancen und Herausforderungen durch Fehlinformationen - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWFlZk5xaUdkWmN0SkFrUkE5cl9oNVhKUjRfaXh4NlNudFNSaHVDS0RVZXpiLUJ0eEp4WVFhNDQ1YlVQVWEyaTdwXy1fMXNVQU5SaHI2a2JYNnhUSVFXdHdRVVZNYlpXLWJqQ1lObkpvTlhXaFhCZktJYUItZjFkNVROZ3o4SENGanJSSnlFbktKTkhTUUluVHZIZENvVll6bFpBZnhuU1dkQQ?oc=5)
 
 2026-03-19 <span class="news-indication-tag">tumor</span>
@@ -162,11 +154,27 @@ permalink: /news/imiquimod/
 
 ---
 
+### [Salute orale, non solo carie: in Italia circa 9.750 nuove diagnosi di tumori testa e collo - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnVuTDh2YVY5ZWlyS0NQalRrcEtmSkNabkkzWFFoZFpEZVVtLUp0YzczR01vdFYxTDZGRmZFNER2SmJ4NkpTT2VxMUdiVEJhci1NNHFnQlVrMXFPX2tvOU5MaFN6RWtBTTR5Ni0yOGhHcTFJRnhsREZIUzZLbWlPNjVIdXpQR2FQY293aEdLbVYyOFRZRnNnak9Ual8tX3lRNWw2U1NlVUl6TE5WMkttVkczZ256VXFkSmFpWjFMWQ?oc=5)
+
+2026-03-18 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnVuTDh2YVY5ZWlyS0NQalRrcEtmSkNabkkzWFFoZFpEZVVtLUp0YzczR01vdFYxTDZGRmZFNER2SmJ4NkpTT2VxMUdiVEJhci1NNHFnQlVrMXFPX2tvOU5MaFN6RWtBTTR5Ni0yOGhHcTFJRnhsREZIUzZLbWlPNjVIdXpQR2FQY293aEdLbVYyOFRZRnNnak9Ual8tX3lRNWw2U1NlVUl6TE5WMkttVkczZ256VXFkSmFpWjFMWQ?oc=5)
+
+---
+
 ### [Cancer colorectal : après un test positif, ces délais de coloscopie qui peuvent augmenter le risque de décès](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTDR5ZG1UZTRKWXpOYkp1UHU4UWFQRWJGUl9CdkdZT0taMXI3RWl0NmxDclFfTEh1dmx0eC1ySkpNTEswVE1paERNOGJMUFdoRnh6bkN5aS0tcWZkOW1MRGhrel9mbE1PdHJ0dG5DVVNpMkluQ1Y5OUtfX18tUDRfbEF3cmxJbTFzMG1LYnNnMFBUNlFDNFZxNjZHamRYRFdUdkJrQ1ZrLXprREd2UkhOYUR6bDNYT2xfRWhTMWN0OXF2ZnhRRklHamp3M3lVMTFlSGh6bXAyYkgwSVk?oc=5)
 
 2026-03-18 <span class="news-indication-tag">cancer</span>
 
 來源：[Actu.fr](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTDR5ZG1UZTRKWXpOYkp1UHU4UWFQRWJGUl9CdkdZT0taMXI3RWl0NmxDclFfTEh1dmx0eC1ySkpNTEswVE1paERNOGJMUFdoRnh6bkN5aS0tcWZkOW1MRGhrel9mbE1PdHJ0dG5DVVNpMkluQ1Y5OUtfX18tUDRfbEF3cmxJbTFzMG1LYnNnMFBUNlFDNFZxNjZHamRYRFdUdkJrQ1ZrLXprREd2UkhOYUR6bDNYT2xfRWhTMWN0OXF2ZnhRRklHamp3M3lVMTFlSGh6bXAyYkgwSVk?oc=5)
+
+---
+
+### [La farmacia consolida su capilaridad en los 15 años del cribado de colon en Barcelona](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaEUxRDN4WFU2UU8zbWtuNUJKZDV2UURUbE5MQlg5d1JYaVpLTTNBcUNrVVdSMjd0ay1CNTFlUlp5Mm9Ccncza01Qb3A0UlZWaHcxZDEzTXJBaWRCamhFOWsyT3c4bGl2YXJaSzNMOEQ2X0Jxdld5NXBnemRJeWtHN05SYk9jNGJrNmFTRy01SFZxaVYxbG4zQThVUV96TXJ0TUVidkhIMjh4akprZ2RpX2dHYmhCM3ZOUWgzOQ?oc=5)
+
+2026-03-18 <span class="news-indication-tag">tumor</span>
+
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaEUxRDN4WFU2UU8zbWtuNUJKZDV2UURUbE5MQlg5d1JYaVpLTTNBcUNrVVdSMjd0ay1CNTFlUlp5Mm9Ccncza01Qb3A0UlZWaHcxZDEzTXJBaWRCamhFOWsyT3c4bGl2YXJaSzNMOEQ2X0Jxdld5NXBnemRJeWtHN05SYk9jNGJrNmFTRy01SFZxaVYxbG4zQThVUV96TXJ0TUVidkhIMjh4akprZ2RpX2dHYmhCM3ZOUWgzOQ?oc=5)
 
 ---
 
@@ -202,14 +210,6 @@ permalink: /news/imiquimod/
 
 ---
 
-### [Des chercheurs détournent une bactérie alimentaire courante pour combattre le cancer colorectal et ça marche ! - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUmllblYzZjM4MVFfMHZDSVNST3c0c2ZBdHlHY1RSa2JRM2h3bEhWb0JqdERtQUlDd3NLRDg2aTdfemNYelRIWkdMN05BN1lZc0VucmF4a0tlbHRHQUlFNURUZUdZVEtPUmoyX2FUa19ZOFBYSmxHWWRBbVY3ZXJaU0lCT0dRQVdUZllLX1ZfY2tvZE1TaEhUaGlIUVoteUJZanJwZ2JBbEdneWY3bEk1WFV5amNnNnhvZzFBS1NlempXcGlxQXh4X1VxZmhydndrSjRmckc1ODdLblg0TGJDQTBFTUFqdEgyajl2WHZJS18yN0ZoVHlj?oc=5)
-
-2026-03-18 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUmllblYzZjM4MVFfMHZDSVNST3c0c2ZBdHlHY1RSa2JRM2h3bEhWb0JqdERtQUlDd3NLRDg2aTdfemNYelRIWkdMN05BN1lZc0VucmF4a0tlbHRHQUlFNURUZUdZVEtPUmoyX2FUa19ZOFBYSmxHWWRBbVY3ZXJaU0lCT0dRQVdUZllLX1ZfY2tvZE1TaEhUaGlIUVoteUJZanJwZ2JBbEdneWY3bEk1WFV5amNnNnhvZzFBS1NlempXcGlxQXh4X1VxZmhydndrSjRmckc1ODdLblg0TGJDQTBFTUFqdEgyajl2WHZJS18yN0ZoVHlj?oc=5)
-
----
-
 ### [I was pregnant when tumour was found… now I write goodbye letters to my girl, 4 - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNME9wSjRISzlKYTRJWVltcUtLTFFvcENZbkRoSGNvSjM2VnhLc01uV0ZKVHhxeS1aRU1wVF8ycjF6SGFJa05UUUJBai1SWUhPeFdRb3BleW52VGVWMVVnWnF5ekZ6ckowd1lteFppTW81X3lZYzRXZ1lVS3dNbHh2QTI2Tkl4eTRKYlBCYXdzeEZtSGEx?oc=5)
 
 2026-03-18 <span class="news-indication-tag">tumour</span>
@@ -239,14 +239,6 @@ permalink: /news/imiquimod/
 2026-03-18 <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWhORXhaZE9Bel9fYk1adGFhckVVZWZjQlV0WHcwODJPdGJOZGxMSEZHQWpkejRkVmJOaUxBSXd0WVNSWGpLSEZueEFaS05YVjQwTm9hOGFzZnNDUk5MaWF6cV8xLU9FbVVPRDhGVEJLMzJQM19tS24ydWJ3YmFidHZRNWVwM3c?oc=5)
-
----
-
-### [Cancer de la prostate : les ultrasons focalisés désormais remboursés - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjN3dWxQckRfNFZhWUo3WGhISHRtYkE5Z0gxLWl2U1h5REI2OWNQbmRWb2tQYWYyNDJrVTVkdFE2a0RESmY1WThnYl8xWExMZExtVTBmNVVZd2phYlpMZ2p2bGg5cTktb0tLbHE3WGxBMF9yNjBWYS13VXoyNGp6dmlQcy1hSFVVNU9DNXRvWkdZOGxlVFc4Ulk4LWZWSUxId1FvQUtjbVduZ3laOXRDTS1LY1VhODhYZU1z?oc=5)
-
-2026-03-18 <span class="news-indication-tag">cancer</span>
-
-來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjN3dWxQckRfNFZhWUo3WGhISHRtYkE5Z0gxLWl2U1h5REI2OWNQbmRWb2tQYWYyNDJrVTVkdFE2a0RESmY1WThnYl8xWExMZExtVTBmNVVZd2phYlpMZ2p2bGg5cTktb0tLbHE3WGxBMF9yNjBWYS13VXoyNGp6dmlQcy1hSFVVNU9DNXRvWkdZOGxlVFc4Ulk4LWZWSUxId1FvQUtjbVduZ3laOXRDTS1LY1VhODhYZU1z?oc=5)
 
 ---
 
