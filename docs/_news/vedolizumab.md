@@ -44,7 +44,7 @@ permalink: /news/vedolizumab/
 
 ### [Weight-loss drugs linked to lower depression and anxiety risk, study](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
 
-2026-03-19 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+2026-03-19 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3c0R2xHd2N1ZTBFOHNQeUlrbnFvOU5ybTVZTG84THhPYUVlTzFITGhyd2RYZ3RSTTVEOEZjMkNKcFRER3QxOExKcXZjam5CMTJHSEgyazZPWU1JNkZYTG1PZDdvMl9KN1NsN3ZYNjY0em1hM1JvTDAyeFZqc2tXQ3RRek9nWVY5S0hFaTVwc2VMOTVTVHpFTk1yMHVNZFRuRlhiU19GdnpCVHBDYUdiOHF5Q0V2RWVkeEs5M1R5ZFhGLXNBa2c?oc=5)
 
@@ -58,19 +58,19 @@ permalink: /news/vedolizumab/
 
 ---
 
+### [La chaleur est-elle en train de vous rendre moins sportif ?](https://news.google.com/rss/articles/CBMifkFVX3lxTFBlVWpIS3VnVHJ5NlBObERMX2k1TGVzNzNFS19HWVlNU2JhM01kU1FUSmlZa0F3cmRTcE1pNTRUT0JSeGtsLXJscmF2X0JiWWZhQ3ZOR0RmbTRwUGZLcmsyOFpUN0dLMTBwbk5JM3lERU9yaGR5R3lrbW5EZlAzUQ?oc=5)
+
+2026-03-18 <span class="news-indication-tag">diabète</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMifkFVX3lxTFBlVWpIS3VnVHJ5NlBObERMX2k1TGVzNzNFS19HWVlNU2JhM01kU1FUSmlZa0F3cmRTcE1pNTRUT0JSeGtsLXJscmF2X0JiWWZhQ3ZOR0RmbTRwUGZLcmsyOFpUN0dLMTBwbk5JM3lERU9yaGR5R3lrbW5EZlAzUQ?oc=5)
+
+---
+
 ### [Gesund im Alter: Diabetes, Cholesterin, Bluthochdruck, Adipositas – wie Sie das „tödliche Quartett“ besiegen](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUjl1MFNpc3c4REo3em9Ua016SDRKLVZ3QmpEM2xnV0FQZ0pkeVZTTDhheXVsZ3d3emVoMUdkcFNLMkh3OEFJd0lZSkZxSXBtWHZoRnNMbUwzS0JuWWlDc0xNZTItRzFtVVFiV1BZUjZBS0E3R3gwamNMVFA4Wmx0Z2wzLXhwM282UWtFU0oyY2J1WTFiTEZXTTFOUGFXVkpJeUVnM20xZl9feENiTUJUOHBPbGdBSC1HWHR1NzBjcmJFdXFtSmhzZkZJUU5iRjIzZ2F5SE1mbUNyM2FMTTd2US1IN2V2VG84LVFtVmlobFFTaTJod0trUHBB?oc=5)
 
 2026-03-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUjl1MFNpc3c4REo3em9Ua016SDRKLVZ3QmpEM2xnV0FQZ0pkeVZTTDhheXVsZ3d3emVoMUdkcFNLMkh3OEFJd0lZSkZxSXBtWHZoRnNMbUwzS0JuWWlDc0xNZTItRzFtVVFiV1BZUjZBS0E3R3gwamNMVFA4Wmx0Z2wzLXhwM282UWtFU0oyY2J1WTFiTEZXTTFOUGFXVkpJeUVnM20xZl9feENiTUJUOHBPbGdBSC1HWHR1NzBjcmJFdXFtSmhzZkZJUU5iRjIzZ2F5SE1mbUNyM2FMTTd2US1IN2V2VG84LVFtVmlobFFTaTJod0trUHBB?oc=5)
-
----
-
-### [«Sensori glicemici negati a migliaia di sardi per colpa della Regione»: l’accusa dell’associazione diabetici - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeW9zVi15LVZlMTBhaFJaSXEzMk9HR2E1cXRFRDFuYndfYVpQc2NYcGNNNGtIZlZOQi1aYTFXVE8yQXFXQlJ5OWM3MDMwZFFxR09zbmNkaC01eVZLR2FDRzE4TWVSWXl6R056LVJ2RUxsaHR3M2ZOSFpSbDV3MXlvR3JYZm5HTlNFbVZvZVhiYUktbU5MWV9YcnlneWFTSF9EMDBwRkpNWUxlU1RvM3g0ek9TOFZaNlpjc2F4Q3B2em10anE3cklZVWZqZ2VrWjE5WW15aVRUQVNwMmw2YThhOExfT3poWDRz0gHwAUFVX3lxTFBUOEZ6d0JUWXpmUE9tZmJ0WE05RV80NTNYZzMwMG85Z1lERXgybEdQcVBVaS1CWTRDNVEtajBoYVVMY2IzSjB6clVNeWR2WDg1bDVKZ2NqM3VHYV9UeU9pQ3RLcDZLU0huZ24wc05XWWItVUlfLTBDLXVyN1cyVk1wYmt2Y3dEZWZrR3FtRjA5RDVLSFRqT1FGeUhYMHBLcElNa1ZocnRiYzQxX19UY3Yyd0xWSTZTWmdlTXZhb1plaXRNSUhnMkc1T3dIekhvZXBrOEFxczdSUEhoZ0ZCbl9ta1pZRlVHM2V2dDBRaGVYMA?oc=5)
-
-2026-03-18 <span class="news-indication-tag">diabetic</span>
-
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeW9zVi15LVZlMTBhaFJaSXEzMk9HR2E1cXRFRDFuYndfYVpQc2NYcGNNNGtIZlZOQi1aYTFXVE8yQXFXQlJ5OWM3MDMwZFFxR09zbmNkaC01eVZLR2FDRzE4TWVSWXl6R056LVJ2RUxsaHR3M2ZOSFpSbDV3MXlvR3JYZm5HTlNFbVZvZVhiYUktbU5MWV9YcnlneWFTSF9EMDBwRkpNWUxlU1RvM3g0ek9TOFZaNlpjc2F4Q3B2em10anE3cklZVWZqZ2VrWjE5WW15aVRUQVNwMmw2YThhOExfT3poWDRz0gHwAUFVX3lxTFBUOEZ6d0JUWXpmUE9tZmJ0WE05RV80NTNYZzMwMG85Z1lERXgybEdQcVBVaS1CWTRDNVEtajBoYVVMY2IzSjB6clVNeWR2WDg1bDVKZ2NqM3VHYV9UeU9pQ3RLcDZLU0huZ24wc05XWWItVUlfLTBDLXVyN1cyVk1wYmt2Y3dEZWZrR3FtRjA5RDVLSFRqT1FGeUhYMHBLcElNa1ZocnRiYzQxX19UY3Yyd0xWSTZTWmdlTXZhb1plaXRNSUhnMkc1T3dIekhvZXBrOEFxczdSUEhoZ0ZCbl9ta1pZRlVHM2V2dDBRaGVYMA?oc=5)
 
 ---
 

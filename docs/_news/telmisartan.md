@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Experts probe mystery explosion in young women dying from high blood pressure-linked disease: 'Urgent need for prevention strategies' - Daily Mail](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZ2lMaXQ1NG1JdHRlYTVXZG1XejU5OHE2X29BeGZlcW5DRUI5dDV4N1RLc0tJd2RTbWFnMUpoamQyZUV0VFdkMUhSTkoybFlqeUZKQnRCLTZKaGxLWnIycU5QZW1yWkNCUVpHOEdsVV81UlJQLWlhcDY5dmR1WWU4RVJGUnMyaFEyN3hwaFBxZEgxWG5HQ3FDSnBZb3RmTWdOYW5OWml5SjlZV0ljeS1sOGtNUGRZZzNILU1NenZGVW1PemNrUWJoN1ZkVUhqV2NxTW4wMEVFMGdQRVl3TGFjTU5tV0JpNUVzMzNFTVhYS2lRWkJyLWhtLW5WNjZ3TXltR2IzMy130gGLAkFVX3lxTE1kYUlEbGtiN3RNR2F5Z1Qxc3hZaUVJbl9xR1VxbjFsVVlLU2dWT1g5ZWFyY1JDRFQ2ekhpdXg3eVdWaUZxVnl0NDN4R2g5ZkFBZEtDcXNDU0VvXzlCWS1yQUxOcDg4V0x3S0M2bjNaTEgxOTdPNjR2WmJaLXdWR0tzOHNOMDA1YUltYzFqOUtRYmwzVFpiNE5oeUdlWnFfSXBUOVVKQTdDcG5NMG1jd3lWa0JnUHJWUDFFWmZFZjFkMDZ2SnotTnFzaC1FdmlkbXpaMFpIUERZZG55RUNhMmxNeHcxNFJqeXBwbEJ3Mnd5bi1uN00xUFhkaDY2R1hRa185NUhGdnNqelJFYw?oc=5)
+
+2026-03-19 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZ2lMaXQ1NG1JdHRlYTVXZG1XejU5OHE2X29BeGZlcW5DRUI5dDV4N1RLc0tJd2RTbWFnMUpoamQyZUV0VFdkMUhSTkoybFlqeUZKQnRCLTZKaGxLWnIycU5QZW1yWkNCUVpHOEdsVV81UlJQLWlhcDY5dmR1WWU4RVJGUnMyaFEyN3hwaFBxZEgxWG5HQ3FDSnBZb3RmTWdOYW5OWml5SjlZV0ljeS1sOGtNUGRZZzNILU1NenZGVW1PemNrUWJoN1ZkVUhqV2NxTW4wMEVFMGdQRVl3TGFjTU5tV0JpNUVzMzNFTVhYS2lRWkJyLWhtLW5WNjZ3TXltR2IzMy130gGLAkFVX3lxTE1kYUlEbGtiN3RNR2F5Z1Qxc3hZaUVJbl9xR1VxbjFsVVlLU2dWT1g5ZWFyY1JDRFQ2ekhpdXg3eVdWaUZxVnl0NDN4R2g5ZkFBZEtDcXNDU0VvXzlCWS1yQUxOcDg4V0x3S0M2bjNaTEgxOTdPNjR2WmJaLXdWR0tzOHNOMDA1YUltYzFqOUtRYmwzVFpiNE5oeUdlWnFfSXBUOVVKQTdDcG5NMG1jd3lWa0JnUHJWUDFFWmZFZjFkMDZ2SnotTnFzaC1FdmlkbXpaMFpIUERZZG55RUNhMmxNeHcxNFJqeXBwbEJ3Mnd5bi1uN00xUFhkaDY2R1hRa185NUhGdnNqelJFYw?oc=5)
+
+---
+
+### [Nuove linee guida anticipano la terapia anti-colesterolo e ampliano la prevenzione cardiovascolare primaria - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGRhdlNmMEh6eWw4R3g4TlJpUDJPVkVnVUdUalhrbVZvWU1KM04xWW4yM3VBNEdvR1ZickprN004Yk5rekR0TFhJOXBrdzVXcG9NMTJRQlNiMVBvN194N0c5MXhSem1EMXQ4R25XckFYajA1WlNTQkNYdmQ0TFJHc2dqejV5b3doRFB2c2N4QlpUNmZSR2JQU21lSVhfT2tpMGtzYjhpYw?oc=5)
+
+2026-03-19 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGRhdlNmMEh6eWw4R3g4TlJpUDJPVkVnVUdUalhrbVZvWU1KM04xWW4yM3VBNEdvR1ZickprN004Yk5rekR0TFhJOXBrdzVXcG9NMTJRQlNiMVBvN194N0c5MXhSem1EMXQ4R25XckFYajA1WlNTQkNYdmQ0TFJHc2dqejV5b3doRFB2c2N4QlpUNmZSR2JQU21lSVhfT2tpMGtzYjhpYw?oc=5)
+
+---
 
 ### [What Is 'Eye Stroke'? Expert Explains The Rare Wegovy Risk](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
 
@@ -66,19 +82,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Ictus e sonno, attenzione ai riposini pomeridiani lunghi e inattesi](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHByVFlud0ZRdWtuNnVXdnBQdHlpN1BhVWh3Y0NvbFJpMzZUUHB6WElXWU50NjY1UGVlWWdyUG9oLTRocVZraUNLTWlHTURmUzBhZzV6djN1Nm12T2FETnNKMU9GVm8zbU9rc0pCZk5tR3FkQ2hGVkh3SlFmYTEzdURBTnE5RzN4Rm54alR1amtGMVFrWVJxdEYxVGNBampISnBMQnBtN2ZFV1FzMnVvWmt2bw?oc=5)
+### [Ictus, la durata della siesta pomeridiana rivela la percentuale di rischio: ecco tutti i campanelli d'allarme - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
 
 2026-03-18 <span class="news-indication-tag">ictus</span>
 
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHByVFlud0ZRdWtuNnVXdnBQdHlpN1BhVWh3Y0NvbFJpMzZUUHB6WElXWU50NjY1UGVlWWdyUG9oLTRocVZraUNLTWlHTURmUzBhZzV6djN1Nm12T2FETnNKMU9GVm8zbU9rc0pCZk5tR3FkQ2hGVkh3SlFmYTEzdURBTnE5RzN4Rm54alR1amtGMVFrWVJxdEYxVGNBampISnBMQnBtN2ZFV1FzMnVvWmt2bw?oc=5)
-
----
-
-### [Biologisches Alter senkt Schlaganfallrisiko deutlich ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHNNUExGNjFQRXl6cmJUYmVTOHlfOEdDSnRMa3VYaGd1MExfOWw5Uk1FR1ZmT2pWTjFwamh6bHdfUzQ0SEZpZ053ZzBIRHFxaEl3VnRYM2RHV05FUGhCcXF6WHA4SkQ5WURmT012LW5SamtGdHJHQVVMMkhOLWxtVjR0M2lxeGhvR0pyLW9RdzRKQ1ZRVHlRdlliZmJyd0NIeHExY3BXS1M?oc=5)
-
-2026-03-18 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Börse Social](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHNNUExGNjFQRXl6cmJUYmVTOHlfOEdDSnRMa3VYaGd1MExfOWw5Uk1FR1ZmT2pWTjFwamh6bHdfUzQ0SEZpZ053ZzBIRHFxaEl3VnRYM2RHV05FUGhCcXF6WHA4SkQ5WURmT012LW5SamtGdHJHQVVMMkhOLWxtVjR0M2lxeGhvR0pyLW9RdzRKQ1ZRVHlRdlliZmJyd0NIeHExY3BXS1M?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
 
 ---
 

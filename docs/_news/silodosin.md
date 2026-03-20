@@ -14,7 +14,7 @@ permalink: /news/silodosin/
 ---
 
 <p class="key-answer" data-question="Silodosin 有什麼相關新聞？">
-<strong>Silodosin</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Silodosin</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,45 @@ permalink: /news/silodosin/
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（28 則）
 
-### [Father of meningitis victim, 18, tells of family’s ‘immeasurable’ devastation - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnhPQ05mbHhlM0FKNWs3VmFQSS15cHFhMU9ZMThmTzlQUk1UMHkybjFOZnV2Yk85TW8yZ2VHeV9ubEpQQzc0NnFXVFBjRjVsVUh6RUpXdFpDV3RSV2gxRnoxcHNXZWxDYWo2bHZ5RTVib19CblFxbzlSQzIwbU4weEQ1ZjVaTW1TTmZiVDJ0STRXUmJfbUEwQVVyYjVoSEEzZ251blljYWFUd1RJc3ZwZHNFVUVFV3hjazBmNQ?oc=5)
+### [Meningitis cases linked to Kent outbreak rise to 29 as students queue for vaccine](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IN1EteExmakJEdTNBek5VM0hsdHl5RERNRVJoX1RjNzVjcDhEZm16eFhscjdRN3lCLUhxTjFpakZhNXlZSlFOSFc4V1Z3QkZFcEo2MWgzTQ?oc=5)
 
 2026-03-20 <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnhPQ05mbHhlM0FKNWs3VmFQSS15cHFhMU9ZMThmTzlQUk1UMHkybjFOZnV2Yk85TW8yZ2VHeV9ubEpQQzc0NnFXVFBjRjVsVUh6RUpXdFpDV3RSV2gxRnoxcHNXZWxDYWo2bHZ5RTVib19CblFxbzlSQzIwbU4weEQ1ZjVaTW1TTmZiVDJ0STRXUmJfbUEwQVVyYjVoSEEzZ251blljYWFUd1RJc3ZwZHNFVUVFV3hjazBmNQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IN1EteExmakJEdTNBek5VM0hsdHl5RERNRVJoX1RjNzVjcDhEZm16eFhscjdRN3lCLUhxTjFpakZhNXlZSlFOSFc4V1Z3QkZFcEo2MWgzTQ?oc=5)
+
+---
+
+### [Vom Gewebeschnitt zur Datenquelle: KI-Werkzeug eröffnet neue Möglichkeiten für Klinik und Forschung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE82bVV1NU8tYW5WMTZScl9hN3ZmUWI3MXBDM2lTQ1lseDN6U1pJanRNOWZ3Zi1ldkp6TEdKcEkwRzFMeEwyVW1GV1I5UQ?oc=5)
+
+2026-03-20 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE82bVV1NU8tYW5WMTZScl9hN3ZmUWI3MXBDM2lTQ1lseDN6U1pJanRNOWZ3Zi1ldkp6TEdKcEkwRzFMeEwyVW1GV1I5UQ?oc=5)
+
+---
+
+### [«La colpa è tutta dell’ambrosia», le allergie a Roma raddoppiano. Cos'è e da dove arriva - Il Messaggero](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdk1qQTh6UkFicWo0dmhGSGxRWWdXOHUzenI3bE54eFV6LWdOQnFhNThrc09SNXFJd3RiNDE3MWZRdUtsMFBiOFN5V1JwX2Ffa0k1YjFqMmEybXhoQjVnNTh0ZkNMbGxacnZEQ0szUEJYR3FyWGFfUzJ2R3lqTGFEcVBXNmhYV1dwVEJvWkNtSHBpZmZBcDJN0gGUAUFVX3lxTE5qZW9jZ2FJM2N0aWdOazJ3cEZRYkFtQXpJeVlKeTdoOW5nWjNqYXIzT0dtd3UwNHd6a2t3THF6MXdfMDdFWUE2NmIxaFVKYWhOWmlTS1VOQmxjOUowdjBCTFdicklDcVBZb09TSlNYMjJUalF1YVM2YWQ3Z0U2aE5vZXJsMnJ1YUhMTXlkQnBuRlZlR2s?oc=5)
+
+2026-03-20 <span class="news-indication-tag">AF</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdk1qQTh6UkFicWo0dmhGSGxRWWdXOHUzenI3bE54eFV6LWdOQnFhNThrc09SNXFJd3RiNDE3MWZRdUtsMFBiOFN5V1JwX2Ffa0k1YjFqMmEybXhoQjVnNTh0ZkNMbGxacnZEQ0szUEJYR3FyWGFfUzJ2R3lqTGFEcVBXNmhYV1dwVEJvWkNtSHBpZmZBcDJN0gGUAUFVX3lxTE5qZW9jZ2FJM2N0aWdOazJ3cEZRYkFtQXpJeVlKeTdoOW5nWjNqYXIzT0dtd3UwNHd6a2t3THF6MXdfMDdFWUE2NmIxaFVKYWhOWmlTS1VOQmxjOUowdjBCTFdicklDcVBZb09TSlNYMjJUalF1YVM2YWQ3Z0U2aE5vZXJsMnJ1YUhMTXlkQnBuRlZlR2s?oc=5)
+
+---
+
+### [Digitale Schlafanalytiker - Forum - Das Wochenmagazin](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xMklsZ2tOSm1ZUFBrd1diNGNRaXZ4UUpNNE1ESFVHempOYk80MWRQVHlMcTFrdEpSZWxhR1FrbE91UDhoQUR5UHRQVm5zd0pqMC1fa0F0RGpVTU14anlHWWpkXy1tU2Ju?oc=5)
+
+2026-03-20 <span class="news-indication-tag">AF</span>
+
+來源：[Forum - Das Wochenmagazin](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xMklsZ2tOSm1ZUFBrd1diNGNRaXZ4UUpNNE1ESFVHempOYk80MWRQVHlMcTFrdEpSZWxhR1FrbE91UDhoQUR5UHRQVm5zd0pqMC1fa0F0RGpVTU14anlHWWpkXy1tU2Ju?oc=5)
+
+---
+
+### [I caught meningitis at university - we were lucky there was no outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UNkN5UjdVeFVCYndiMEt1V25JVDZnWkR1Y3ZMS19xVEY0dlNlS3BEVEpMek8yVGdGeUFYeUE3N1RlUWV1SVpCTXZEbm9IUEJObnJnTzBNSnllc0M0?oc=5)
+
+2026-03-19 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UNkN5UjdVeFVCYndiMEt1V25JVDZnWkR1Y3ZMS19xVEY0dlNlS3BEVEpMek8yVGdGeUFYeUE3N1RlUWV1SVpCTXZEbm9IUEJObnJnTzBNSnllc0M0?oc=5)
 
 ---
 
@@ -55,6 +87,14 @@ permalink: /news/silodosin/
 2026-03-19 <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Zentrum für Herz-Kreislauf-Forschung (DZHK)](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3VQZVRDd0lJUVEyX2dLc2g0Z01zNFpHZE44VnNjVkQzUGtZXzNTa0Y0MHlnUnc1XzJRNG9VUmt1QkJxT1JER3RGdnNmNGpFQlVZQ1BzWDE4eGw1Y2VZQWlXNTFWdF9VdnpfdVVxQXNrM1dGTzl0WTZXbVJmOEV5NFFvU1ctTzlwZEVzR21VQWhTTXBDVHJ0MEsyeEhaQ1o4MC1fRk1Ed3RRN1poSDR5dm9OUVJ2MXZkblE?oc=5)
+
+---
+
+### [Study Reveals a Turning Point When Your Body's Aging Accelerates](https://news.google.com/rss/articles/CBMilwFBVV95cUxQR1JiTXVqR1BOUVV3c2ItMENIMDlBNU1MSTFEcDdlUHJHUFE0bUVsdll5RS0tTGhlNm5NUEx6aWtWc3phZUlSTEE2Z2JaQVlscmpoSXUxZHJFNWdpa0lZOEE3eTRoUUM0SDdrRFZsMjI0WTdvQVU2d0t3N21RRUJDa2dCRk9KNEdVeEp0bUZLWERoaVVDVi1F?oc=5)
+
+2026-03-19 <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilwFBVV95cUxQR1JiTXVqR1BOUVV3c2ItMENIMDlBNU1MSTFEcDdlUHJHUFE0bUVsdll5RS0tTGhlNm5NUEx6aWtWc3phZUlSTEE2Z2JaQVlscmpoSXUxZHJFNWdpa0lZOEE3eTRoUUM0SDdrRFZsMjI0WTdvQVU2d0t3N21RRUJDa2dCRk9KNEdVeEp0bUZLWERoaVVDVi1F?oc=5)
 
 ---
 
@@ -82,14 +122,6 @@ permalink: /news/silodosin/
 
 ---
 
-### [Constatan cómo el envejecimiento del timo disminuye la eficacia de la respuesta inmunitaria - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSTFlT01EdXBzMmtKazdPRWNkNDY4ZHZXbjRET1Z6UG5sZVJIcG8yZmhfcHJPQ0M0bTlrVTNFODdLeUQyUFJMcVBKTEVXR0Q4TEY2cVhCZnhRSnZPV2JKNUNuSjV2ZmdRUlBRWkZIRW9icWlYdGJTUWJoSkIxREhuNExBUW5vV3NGdG9TMUVBci01U3doaTNTUExacENWZlpvRW5OY044Q0NGdW5CbFNFb0hHbTVLcXhBYklmQ3o0MWVXZ9IBvAFBVV95cUxNQ1hyV3NDN0NwX2t6dlhndzZ2QVVvZEhFb0dUYzBQU2NxemphS3pIR3BCRTYzR2lyRGdrWUN0V1FsbXU2V3hqTXdwX3Y5Z3A4Y2F3SlpxV2VDWFJ0Z2Y4VERKcmMyS3pOenkwUldBbklNbFIyN3ZITk1rZzlPc2JYMmx3OVlnNDFOX2RJSG1zUzMwSnFydzFiNjlYUnN4Zm0xZlRuUmtDS09yTGswTHFNNGpJSnJyb0E5Sld5MQ?oc=5)
-
-2026-03-19 <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSTFlT01EdXBzMmtKazdPRWNkNDY4ZHZXbjRET1Z6UG5sZVJIcG8yZmhfcHJPQ0M0bTlrVTNFODdLeUQyUFJMcVBKTEVXR0Q4TEY2cVhCZnhRSnZPV2JKNUNuSjV2ZmdRUlBRWkZIRW9icWlYdGJTUWJoSkIxREhuNExBUW5vV3NGdG9TMUVBci01U3doaTNTUExacENWZlpvRW5OY044Q0NGdW5CbFNFb0hHbTVLcXhBYklmQ3o0MWVXZ9IBvAFBVV95cUxNQ1hyV3NDN0NwX2t6dlhndzZ2QVVvZEhFb0dUYzBQU2NxemphS3pIR3BCRTYzR2lyRGdrWUN0V1FsbXU2V3hqTXdwX3Y5Z3A4Y2F3SlpxV2VDWFJ0Z2Y4VERKcmMyS3pOenkwUldBbklNbFIyN3ZITk1rZzlPc2JYMmx3OVlnNDFOX2RJSG1zUzMwSnFydzFiNjlYUnN4Zm0xZlRuUmtDS09yTGswTHFNNGpJSnJyb0E5Sld5MQ?oc=5)
-
----
-
 ### [Family of mum battling meningitis in Tenerife make statement on travel insurance - North Wales Live](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZV8tclVlSElhZUhXWXRxRm9aVFhjY0w4c3YybDNYRXcxaURlSUVSWGpFb3dmbl9aLXpxd1BxR0pkMHo1RFBXSjNDNHA1S0dQOHFnYmdHbGt4OVNPMGt1dFh4VEZWb0VLVnRQR0RoVGRPYm5pcldtUTlzY2FzRmE2bnlBOHlIMVBnQkNqdDhRUWdTZTNqd1VJUE1mVjBULVnSAaQBQVVfeXFMT3k2WjhySm1qTzFsLU5NYmVaOC1UVVh2b0VXX0FEdDh1REd1ZE9YcU8yQjlEMEZRbGRHSjdZNENYNGtGbnprMXNKQmJHeWZFQy1YMXlTUHhVcjJXX1lBdWlFV2hieXkzZ3ZuT2w5cFhndG9IcVdNZXAwTFBOdHBQVTZZUG9FeGwwbmF2TUdNOTRmenpGR3dtbFQxeUNEQWFUMFdQNWM?oc=5)
 
 2026-03-19 <span class="news-indication-tag">AF</span>
@@ -102,7 +134,7 @@ permalink: /news/silodosin/
 
 2026-03-19 <span class="news-indication-tag">AF</span>
 
-來源：[CHIP](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOW5fQzFpSDR3Z1NURmdoTVI4Q3dWM0gwYUR4VWdjR01xbDMtY0hhVWZMaHdhdUIwczVCd3Bzd3FBelBwR2xkT21OaWJnSENtVXVnUWYwUnFUaDQ0bXFIMF9HT1hwUFRJQXA3YTQzRXlzRDRNVmJmT0VKd0RaQWxvYVN1TlBBSGo4bkVhR3I2XzJuY0dud2diV3FtVzd1empTc2Uyazg4RzFrTFQzSXpaVTJhMkFIdmw1YkJ2emxFVWJWNEhTSWJ5VnhCdXNvajBWR2JLbHJNM3dha3NHdk9wS1dxRQ?oc=5)
+來源：[chip.de](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOW5fQzFpSDR3Z1NURmdoTVI4Q3dWM0gwYUR4VWdjR01xbDMtY0hhVWZMaHdhdUIwczVCd3Bzd3FBelBwR2xkT21OaWJnSENtVXVnUWYwUnFUaDQ0bXFIMF9HT1hwUFRJQXA3YTQzRXlzRDRNVmJmT0VKd0RaQWxvYVN1TlBBSGo4bkVhR3I2XzJuY0dud2diV3FtVzd1empTc2Uyazg4RzFrTFQzSXpaVTJhMkFIdmw1YkJ2emxFVWJWNEhTSWJ5VnhCdXNvajBWR2JLbHJNM3dha3NHdk9wS1dxRQ?oc=5)
 
 ---
 
@@ -122,6 +154,14 @@ permalink: /news/silodosin/
 
 ---
 
+### [Experts Warn Travelers After a Fast-Spreading Virus Is Found Circulating in Two European Countries - Indian Defence Review](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2QweGt6N1VvSGh5U1gyN3RhMDFOaWFaTWF0eHFOcmdoVnV5QWZCWlJ3NkUwR00zcEJldVRuSDUyNlJKWlhZMHZLT2ZySHE4Y1pjbUFjMV9KcmZ6ZVdrRWNHZkI0RFhValBISTVBR0FqMm5aWS02RVBwSk52Sk1pN1FPVmZNUzZ3WEtuLUVrQnpXcXlrLW5IZjRDYzZnOVBFNGJLbFo5cndLQVlQZ194M1pMV3E2UWsw?oc=5)
+
+2026-03-19 <span class="news-indication-tag">AF</span>
+
+來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2QweGt6N1VvSGh5U1gyN3RhMDFOaWFaTWF0eHFOcmdoVnV5QWZCWlJ3NkUwR00zcEJldVRuSDUyNlJKWlhZMHZLT2ZySHE4Y1pjbUFjMV9KcmZ6ZVdrRWNHZkI0RFhValBISTVBR0FqMm5aWS02RVBwSk52Sk1pN1FPVmZNUzZ3WEtuLUVrQnpXcXlrLW5IZjRDYzZnOVBFNGJLbFo5cndLQVlQZ194M1pMV3E2UWsw?oc=5)
+
+---
+
 ### [Mondalpen - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMidkFVX3lxTE9hYWVWRm9TSFJrbExnN19TMTR3a25va1JpVTVSQ0UtcjVBWWJpa0t4QWFxQ2lJWFRBMktldXZOVmFKWWYxUWstcXRsbE1Waml1Ti1hQ2tqdnJSdEFhNWdfZ1QzVmRGN2drQUZJSFAweHBkZF8zcFE?oc=5)
 
 2026-03-19 <span class="news-indication-tag">AF</span>
@@ -130,11 +170,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Meningite B in Inghilterra, l'allarme di Matteo Bassetti: «Tra i focolai più esplosivi mai visti, ha rapida diffusione». I 5 sintomi - Il Mattino](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVdXalhGWFFlNlpoTWlqSkpJMjh3VU8yMEdOWXVyZnlVOVdXUmNOd3JRblhLdlU2Tl9zWEpBMF8xb1R2Z19keVc2V2xkdHpHeVdoLU9vSzJkcUkxZzMzQktHUHFpQ01tZGJCQXpHVFE4eXd3QXZqaERxOGx3X2lMenV6MGh3aVNzZVljVW1SaGs5MDFadmdZT0hTZTZVb21CY2VTTUgyR0hLd9IBpAFBVV95cUxNUWs5cGIxdkRmYlZrNXBqSmNLN25Td2ExRGFBSHowcngtaEFNSGRmQ0hzWXNFZ01rYmZRREVvX2c2WFFBWUZybFltNkpiYkszeEg1RXpWdjVtdlNCUkNFUU9DT0NQTVp0SkpZZDcwdVVvVjhFWDNpa1NUYjJtN0xWVE4tN1BYd1RRVUJVNVI0eVQzaWVjcWlKM3hEMXNSOEYyeUpTMQ?oc=5)
+### [Coroner warning after sepsis patient was sent home](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83VHAwN2tMelJUbi1kQllTQS1UaDlyazUzOGZ3c3IwUWVsLXFoSUtkdTNoX3lTdTRGU1VUR2hFcmZvZXNkV29zSTVqTFNEZTFqWG9tMG1iTUZ0amlp?oc=5)
 
 2026-03-19 <span class="news-indication-tag">AF</span>
 
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVdXalhGWFFlNlpoTWlqSkpJMjh3VU8yMEdOWXVyZnlVOVdXUmNOd3JRblhLdlU2Tl9zWEpBMF8xb1R2Z19keVc2V2xkdHpHeVdoLU9vSzJkcUkxZzMzQktHUHFpQ01tZGJCQXpHVFE4eXd3QXZqaERxOGx3X2lMenV6MGh3aVNzZVljVW1SaGs5MDFadmdZT0hTZTZVb21CY2VTTUgyR0hLd9IBpAFBVV95cUxNUWs5cGIxdkRmYlZrNXBqSmNLN25Td2ExRGFBSHowcngtaEFNSGRmQ0hzWXNFZ01rYmZRREVvX2c2WFFBWUZybFltNkpiYkszeEg1RXpWdjVtdlNCUkNFUU9DT0NQTVp0SkpZZDcwdVVvVjhFWDNpa1NUYjJtN0xWVE4tN1BYd1RRVUJVNVI0eVQzaWVjcWlKM3hEMXNSOEYyeUpTMQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83VHAwN2tMelJUbi1kQllTQS1UaDlyazUzOGZ3c3IwUWVsLXFoSUtkdTNoX3lTdTRGU1VUR2hFcmZvZXNkV29zSTVqTFNEZTFqWG9tMG1iTUZ0amlp?oc=5)
 
 ---
 
@@ -172,7 +212,7 @@ permalink: /news/silodosin/
 
 ### [Belfast GP urges calm as schoolgirl in city is confirmed to have meningitis - Belfast Telegraph](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGlOdDRNMV8ybThoYzkxV2E2SlpUeHk5SnBodHN3M0dtZVNEZHBrNkhZYVRrRlpNcHVfNS0tYmVmQ2hGMWNYd1BybUF0b2llX1FwR0FlcHhuZlNXRjZSUHM2NDM0THhoU2VJWnZ1YnZsMDRTamJidG5ydDZtUmhkQzJfLUdLRERyc2o5ODVvS095SW90RWJHOFRlZkFPU1NmNWtRbi01bTN3aVowVjRqQzBoNmZzUl9ZV0hqNDdiU2VJMHRnSExCNk9BcGN1bFRUU1FQY2hn?oc=5)
 
-2026-03-19 <span class="news-indication-tag">AF</span>
+2026-03-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGlOdDRNMV8ybThoYzkxV2E2SlpUeHk5SnBodHN3M0dtZVNEZHBrNkhZYVRrRlpNcHVfNS0tYmVmQ2hGMWNYd1BybUF0b2llX1FwR0FlcHhuZlNXRjZSUHM2NDM0THhoU2VJWnZ1YnZsMDRTamJidG5ydDZtUmhkQzJfLUdLRERyc2o5ODVvS095SW90RWJHOFRlZkFPU1NmNWtRbi01bTN3aVowVjRqQzBoNmZzUl9ZV0hqNDdiU2VJMHRnSExCNk9BcGN1bFRUU1FQY2hn?oc=5)
 
@@ -183,22 +223,6 @@ permalink: /news/silodosin/
 2026-03-19 <span class="news-indication-tag">AF</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeE9TYW5iQnhmYWVMbzMyU0VhdGR4UnUxal80UVZ3VkNxZjVQY2FLUkhxYU5wZHRCZ0xuN1NXcjU2Mk9VRVJJZHhvSjZUdFE5WFVaNDdBdHE3dTQyOUZFdWxFOEEtNThYQ29sbEhxMmUyem1TVXcxNzBmV1Y4TjVuWkxJdUItS0o2aFJMZk0wNEJPOVVJZ200Y0dxOFBaZXV0MDlpTjVUQkk2TVp2Nk1IMWNGZ0NaNGRIMVQ0a2lXWnFtWmRQdkdnSndTTFhta0htSkxvUjNEZkJoeWlwUzlCbHJ3?oc=5)
-
----
-
-### [The first time he went to The Christie they saved his life, the second time they didn't - Manchester Evening News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXdiQzhCUjVSZUs2ZW1kemhwanczTlNraFhRM0VIUzI1WmRsWHhCbnlqcm5FeVJSNEhoQzhSRWRGWEprOXphSTRIWXBaRUxfYWhvblIyNURXb2gxWmF2aFJLeDJPdkRqZ2l4bmcwaTFINWZqYWJDZHNpTnRUU3RKQ3U4UjJ4YlM4NjZnVNIBkgFBVV95cUxPY0xnTEpoZ20wakdVM2NZcnVPZG5SSzh4UG5VdTJzRWQwQlg0SEx5ZmJhN2VkMEc0R1ZIMkVXcTRZUllUNC0yOUdwRWdjZ0tGYTVNQ2lmOEpVUVNub3VnTmpKQ3JwUVVMci1CNmRzQk41UVlBdjlIa2hMd1V3b3hiTjZDNzZsSGF4RkdTQjdHYW1JZw?oc=5)
-
-2026-03-19 <span class="news-indication-tag">AF</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXdiQzhCUjVSZUs2ZW1kemhwanczTlNraFhRM0VIUzI1WmRsWHhCbnlqcm5FeVJSNEhoQzhSRWRGWEprOXphSTRIWXBaRUxfYWhvblIyNURXb2gxWmF2aFJLeDJPdkRqZ2l4bmcwaTFINWZqYWJDZHNpTnRUU3RKQ3U4UjJ4YlM4NjZnVNIBkgFBVV95cUxPY0xnTEpoZ20wakdVM2NZcnVPZG5SSzh4UG5VdTJzRWQwQlg0SEx5ZmJhN2VkMEc0R1ZIMkVXcTRZUllUNC0yOUdwRWdjZ0tGYTVNQ2lmOEpVUVNub3VnTmpKQ3JwUVVMci1CNmRzQk41UVlBdjlIa2hMd1V3b3hiTjZDNzZsSGF4RkdTQjdHYW1JZw?oc=5)
-
----
-
-### [Dad’s rare tumour diagnosis after being told for decade headaches were migraines - Warrington Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVVDb1A3bVU1aGFmcmVyYkhlb3RFeEZhWTN3UjY1djlEWnZSbnVmdGJhOHB3ZjVfdDFYMm9BNlljaHFxMHdpNjdMLWJrSmh6UlBjMy1lMHNueDFaZjN2dlpJUTV0eVpEcWV3TjJVTUZRcFNoUVNyY2taTXRERk9zbmxJOWxwVnZTNW01MUhkZmZia0c1LWxJeEYwRlI3Xzgxdjl3S0NFOFVlT2tV?oc=5)
-
-2026-03-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVVDb1A3bVU1aGFmcmVyYkhlb3RFeEZhWTN3UjY1djlEWnZSbnVmdGJhOHB3ZjVfdDFYMm9BNlljaHFxMHdpNjdMLWJrSmh6UlBjMy1lMHNueDFaZjN2dlpJUTV0eVpEcWV3TjJVTUZRcFNoUVNyY2taTXRERk9zbmxJOWxwVnZTNW01MUhkZmZia0c1LWxJeEYwRlI3Xzgxdjl3S0NFOFVlT2tV?oc=5)
 
 ---
 
@@ -234,51 +258,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [‘Terrified’ woman, 22, struck by meningitis as boyfriend, 20, fights in ICU - Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU1oRFpYZEJuMlZlV0ZQdkdmaU1IcjlrcVQtZGFxaXdIMFYzSHFZcHk1OXhrWTUtZFhDei1YeTRqdVRVQTB0YW9wWUdwbU9hMU95bHhFU1RVTVk4aExNOXVOYXctSXBKNlVOOC1ZblZSVDN1MXYyWDVvcFF6X1d6WW5rZjIxdlpQYmx6YzY3dnU1cGY3WEhHVHlReHRiQ2J6TmVjLVVQaVFRb295?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSU1oRFpYZEJuMlZlV0ZQdkdmaU1IcjlrcVQtZGFxaXdIMFYzSHFZcHk1OXhrWTUtZFhDei1YeTRqdVRVQTB0YW9wWUdwbU9hMU95bHhFU1RVTVk4aExNOXVOYXctSXBKNlVOOC1ZblZSVDN1MXYyWDVvcFF6X1d6WW5rZjIxdlpQYmx6YzY3dnU1cGY3WEhHVHlReHRiQ2J6TmVjLVVQaVFRb295?oc=5)
-
----
-
-### [Failings at Welsh hospital where patients were exposed to HIV risk dubbed 'terrifying' - Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxPaXFPSTRzWWtHQmZ3aERsZDlqMm8zQ2R5eXRQSFFQOUhmOUNLNGFoaFp0cWw2RFFNQWpCbHZKNXFpdWJwclJwMTk4a2RLamJ5TzBxaHZpMjRpSkZLWmNkNmZPMjFNYW5WaWVHalNrb0poQVRGdlZnR05CWVZwb0g3YjlTZ09OSWxrNHljc3Q2SFQ3aGFZUUxvZUdXRQ?oc=5)
+### [Royal Gwent patients operated on with unsterilised instruments](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TR0t0Wm9FXzFzM1ZjZE1WYW1US1NkWk5jTFBmT0h4OER2LVBPRXVmOE1vUnhXaTZsc3ZjOGVLaGduM3RFamhhbkRVR2IyMDA4ZGxtcFJaZDhOOHhR?oc=5)
 
 2026-03-18 <span class="news-indication-tag">AF</span>
 
-來源：[Wales Online](https://news.google.com/rss/articles/CBMimwFBVV95cUxPaXFPSTRzWWtHQmZ3aERsZDlqMm8zQ2R5eXRQSFFQOUhmOUNLNGFoaFp0cWw2RFFNQWpCbHZKNXFpdWJwclJwMTk4a2RLamJ5TzBxaHZpMjRpSkZLWmNkNmZPMjFNYW5WaWVHalNrb0poQVRGdlZnR05CWVZwb0g3YjlTZ09OSWxrNHljc3Q2SFQ3aGFZUUxvZUdXRQ?oc=5)
-
----
-
-### [Delay treating patient more than likely advanced his prostate cancer, report says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iRkZmV3E2S29iYTN5eW9rWlBuMmtOWlVfeU9iNjJPM2FCTG1sNW41NWZ1bXJQM281LWV5SEdLSUF6RWpKUTVUTTRIZ1dzVGhFQTJ3cURCOUY3VHFu?oc=5)
-
-2026-03-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iRkZmV3E2S29iYTN5eW9rWlBuMmtOWlVfeU9iNjJPM2FCTG1sNW41NWZ1bXJQM281LWV5SEdLSUF6RWpKUTVUTTRIZ1dzVGhFQTJ3cURCOUY3VHFu?oc=5)
-
----
-
-### [El estrés laboral se dispara en Zamora: el burnout pasa a considerarse un trastorno de salud mental](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3BNLUxMbkEtWTFySTFTZXB5aVJEenUzWG9wYU5hbExjTTlpbDhtV0x1MHdvc2NlT0VuWDJFRVhVQTkzNDF2SWJfX0RkbzBoS19vc0Vuel9sTmFvSE91eHYtVzkxWnV6QmZZeXpZTXZOaFk1bFUtU1JXbHE2VFlvQWZqOHU4SkVuYzd5YkNHUlpYMEVSY0dEdDNubk56YnJFRjBDalhwalZxemdlTHFVV084VFphaFY0Slp1OQ?oc=5)
-
-2026-03-18 <span class="news-indication-tag">AF</span>
-
-來源：[ZA49](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3BNLUxMbkEtWTFySTFTZXB5aVJEenUzWG9wYU5hbExjTTlpbDhtV0x1MHdvc2NlT0VuWDJFRVhVQTkzNDF2SWJfX0RkbzBoS19vc0Vuel9sTmFvSE91eHYtVzkxWnV6QmZZeXpZTXZOaFk1bFUtU1JXbHE2VFlvQWZqOHU4SkVuYzd5YkNHUlpYMEVSY0dEdDNubk56YnJFRjBDalhwalZxemdlTHFVV084VFphaFY0Slp1OQ?oc=5)
-
----
-
-### [Fondazione Cariparma, fiducia in crescita: numeri, bisogni e la sfida delle 3 S - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3lpcENBLUVnOHFwaVR0RTRGWHVZWHpTMVpVd2dXY0xBb2hRbDAzaTMyWmdfdlhQZFFtTUxUYVNobjNsNDRrekpJQlB1NnRpV2hDRmI1WmxBUHRUNVlldC1TQ3lpeEtDY1c4dngzV2hwTkhscHhPNHIzSEhhd1FGb2xqT2hBbGR2TlVRZzFFeE5tYlR5by1zVUVkRXJPU2txTEZsRjgzV0U3a0xnU2FtUXRDUUhTQjBHbmZFVEFEX0JxVlNRSUpyUGRtYTVWZmNGcTBZ?oc=5)
-
-2026-03-18 <span class="news-indication-tag">AF</span>
-
-來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3lpcENBLUVnOHFwaVR0RTRGWHVZWHpTMVpVd2dXY0xBb2hRbDAzaTMyWmdfdlhQZFFtTUxUYVNobjNsNDRrekpJQlB1NnRpV2hDRmI1WmxBUHRUNVlldC1TQ3lpeEtDY1c4dngzV2hwTkhscHhPNHIzSEhhd1FGb2xqT2hBbGR2TlVRZzFFeE5tYlR5by1zVUVkRXJPU2txTEZsRjgzV0U3a0xnU2FtUXRDUUhTQjBHbmZFVEFEX0JxVlNRSUpyUGRtYTVWZmNGcTBZ?oc=5)
-
----
-
-### [Sunak urges men to have prostate cancer tests after Telegraph campaign - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3JabFBKR1NLeEtCejdsU3dhampaaUJWSk8xWHpmYU5FS1A3c3BWeEFzQXZPZzdQT05kVnE2QmJIZnF4anRPc0g0aU5Lb3hSdkVUTEl1QnNXOHJmeDQ5LTZtY0c4YTlMUXNlMlJXOWNqQ1RhQ2E4VWR0b3MxZjRWRVB5TEE5QXh2ZjllSFo2UDFsQ3Zocl9vSlNrajZ4NF90WXc4?oc=5)
-
-2026-03-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3JabFBKR1NLeEtCejdsU3dhampaaUJWSk8xWHpmYU5FS1A3c3BWeEFzQXZPZzdQT05kVnE2QmJIZnF4anRPc0g0aU5Lb3hSdkVUTEl1QnNXOHJmeDQ5LTZtY0c4YTlMUXNlMlJXOWNqQ1RhQ2E4VWR0b3MxZjRWRVB5TEE5QXh2ZjllSFo2UDFsQ3Zocl9vSlNrajZ4NF90WXc4?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TR0t0Wm9FXzFzM1ZjZE1WYW1US1NkWk5jTFBmT0h4OER2LVBPRXVmOE1vUnhXaTZsc3ZjOGVLaGduM3RFamhhbkRVR2IyMDA4ZGxtcFJaZDhOOHhR?oc=5)
 
 ---
 

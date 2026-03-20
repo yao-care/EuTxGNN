@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Dad’s rare tumour diagnosis after being told for decade headaches were migraines - Warrington Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVVDb1A3bVU1aGFmcmVyYkhlb3RFeEZhWTN3UjY1djlEWnZSbnVmdGJhOHB3ZjVfdDFYMm9BNlljaHFxMHdpNjdMLWJrSmh6UlBjMy1lMHNueDFaZjN2dlpJUTV0eVpEcWV3TjJVTUZRcFNoUVNyY2taTXRERk9zbmxJOWxwVnZTNW01MUhkZmZia0c1LWxJeEYwRlI3Xzgxdjl3S0NFOFVlT2tV?oc=5)
+### [Experts probe mystery explosion in young women dying from high blood pressure-linked disease: 'Urgent need for prevention strategies' - Daily Mail](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZ2lMaXQ1NG1JdHRlYTVXZG1XejU5OHE2X29BeGZlcW5DRUI5dDV4N1RLc0tJd2RTbWFnMUpoamQyZUV0VFdkMUhSTkoybFlqeUZKQnRCLTZKaGxLWnIycU5QZW1yWkNCUVpHOEdsVV81UlJQLWlhcDY5dmR1WWU4RVJGUnMyaFEyN3hwaFBxZEgxWG5HQ3FDSnBZb3RmTWdOYW5OWml5SjlZV0ljeS1sOGtNUGRZZzNILU1NenZGVW1PemNrUWJoN1ZkVUhqV2NxTW4wMEVFMGdQRVl3TGFjTU5tV0JpNUVzMzNFTVhYS2lRWkJyLWhtLW5WNjZ3TXltR2IzMy130gGLAkFVX3lxTE1kYUlEbGtiN3RNR2F5Z1Qxc3hZaUVJbl9xR1VxbjFsVVlLU2dWT1g5ZWFyY1JDRFQ2ekhpdXg3eVdWaUZxVnl0NDN4R2g5ZkFBZEtDcXNDU0VvXzlCWS1yQUxOcDg4V0x3S0M2bjNaTEgxOTdPNjR2WmJaLXdWR0tzOHNOMDA1YUltYzFqOUtRYmwzVFpiNE5oeUdlWnFfSXBUOVVKQTdDcG5NMG1jd3lWa0JnUHJWUDFFWmZFZjFkMDZ2SnotTnFzaC1FdmlkbXpaMFpIUERZZG55RUNhMmxNeHcxNFJqeXBwbEJ3Mnd5bi1uN00xUFhkaDY2R1hRa185NUhGdnNqelJFYw?oc=5)
 
-2026-03-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-03-19 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVVDb1A3bVU1aGFmcmVyYkhlb3RFeEZhWTN3UjY1djlEWnZSbnVmdGJhOHB3ZjVfdDFYMm9BNlljaHFxMHdpNjdMLWJrSmh6UlBjMy1lMHNueDFaZjN2dlpJUTV0eVpEcWV3TjJVTUZRcFNoUVNyY2taTXRERk9zbmxJOWxwVnZTNW01MUhkZmZia0c1LWxJeEYwRlI3Xzgxdjl3S0NFOFVlT2tV?oc=5)
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZ2lMaXQ1NG1JdHRlYTVXZG1XejU5OHE2X29BeGZlcW5DRUI5dDV4N1RLc0tJd2RTbWFnMUpoamQyZUV0VFdkMUhSTkoybFlqeUZKQnRCLTZKaGxLWnIycU5QZW1yWkNCUVpHOEdsVV81UlJQLWlhcDY5dmR1WWU4RVJGUnMyaFEyN3hwaFBxZEgxWG5HQ3FDSnBZb3RmTWdOYW5OWml5SjlZV0ljeS1sOGtNUGRZZzNILU1NenZGVW1PemNrUWJoN1ZkVUhqV2NxTW4wMEVFMGdQRVl3TGFjTU5tV0JpNUVzMzNFTVhYS2lRWkJyLWhtLW5WNjZ3TXltR2IzMy130gGLAkFVX3lxTE1kYUlEbGtiN3RNR2F5Z1Qxc3hZaUVJbl9xR1VxbjFsVVlLU2dWT1g5ZWFyY1JDRFQ2ekhpdXg3eVdWaUZxVnl0NDN4R2g5ZkFBZEtDcXNDU0VvXzlCWS1yQUxOcDg4V0x3S0M2bjNaTEgxOTdPNjR2WmJaLXdWR0tzOHNOMDA1YUltYzFqOUtRYmwzVFpiNE5oeUdlWnFfSXBUOVVKQTdDcG5NMG1jd3lWa0JnUHJWUDFFWmZFZjFkMDZ2SnotTnFzaC1FdmlkbXpaMFpIUERZZG55RUNhMmxNeHcxNFJqeXBwbEJ3Mnd5bi1uN00xUFhkaDY2R1hRa185NUhGdnNqelJFYw?oc=5)
 
 ---
 
@@ -55,14 +55,6 @@ permalink: /news/memantine-hydrochloride/
 2026-03-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUjl1MFNpc3c4REo3em9Ua016SDRKLVZ3QmpEM2xnV0FQZ0pkeVZTTDhheXVsZ3d3emVoMUdkcFNLMkh3OEFJd0lZSkZxSXBtWHZoRnNMbUwzS0JuWWlDc0xNZTItRzFtVVFiV1BZUjZBS0E3R3gwamNMVFA4Wmx0Z2wzLXhwM282UWtFU0oyY2J1WTFiTEZXTTFOUGFXVkpJeUVnM20xZl9feENiTUJUOHBPbGdBSC1HWHR1NzBjcmJFdXFtSmhzZkZJUU5iRjIzZ2F5SE1mbUNyM2FMTTd2US1IN2V2VG84LVFtVmlobFFTaTJod0trUHBB?oc=5)
-
----
-
-### ['I didn't know kids could get arthritis until my daughter was diagnosed'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
-
-2026-03-18 <span class="news-indication-tag">arthritis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meGYycUlpNllJQ1JMRUtoQmwwakV0UEg2WlZkeVBuekZxVDQybjZsbk5CWHFzTng3LWNNdkVUSTl6V0VYUWZRUmdHQk56VUJNQzRmSVpBRWRhUXdI?oc=5)
 
 ---
 
