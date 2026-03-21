@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [E' italiano il paziente uno della stimolazione cerebrale profonda a Pittsburg contro l’ictus - la Repubblica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9jS3ZlLVA4ZW1HT0laRzdNQUNZUFV5VHRNWGxqLThqS0lfTTJla1VRbFVrclhjdksyaklhX3lHSzRoTFk5UXNrZlhpTExIYVVLaktxUmhHdE9JYzBoQXhiVFQzMHFkU2FiOU1vOW9DU0xQVHFXMzlQMmp5WFJNdUFvUmI4MXBRTXRrN19Ea2FIaElPMVdqdVkwUW4wZ3I2ODQtQ3dkU2J3LWgzMUZ0WtIBtgFBVV95cUxOcjNFZFJJdGdKcUhkOVFfeWJ2RUd1ZkpDdXdoVEViU05xOGJFX1h6NnY2NDVCaTFWd2NrRm5xMkdsZkVLazh4djFOaE5qY09xTjJ5Y2piQmo0R0hhNldSWndialVzRFJKdERWWExlSHZYeXF1NDY1X2N6RDNXSDI3RUVVV3BxazRld1U3T3NPSUZEQ3dYOGp2M2xzV1ZvSzFZbjhBeFg2MXUtdHg2VnVzQ25FTjJ4UQ?oc=5)
 
@@ -71,14 +71,6 @@ permalink: /news/orlistat/
 2026-03-19 <span class="news-indication-tag">ictus</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGRhdlNmMEh6eWw4R3g4TlJpUDJPVkVnVUdUalhrbVZvWU1KM04xWW4yM3VBNEdvR1ZickprN004Yk5rekR0TFhJOXBrdzVXcG9NMTJRQlNiMVBvN194N0c5MXhSem1EMXQ4R25XckFYajA1WlNTQkNYdmQ0TFJHc2dqejV5b3doRFB2c2N4QlpUNmZSR2JQU21lSVhfT2tpMGtzYjhpYw?oc=5)
-
----
-
-### [What Is 'Eye Stroke'? Expert Explains The Rare Wegovy Risk](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
-
-2026-03-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
 
 ---
 

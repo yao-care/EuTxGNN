@@ -14,7 +14,7 @@ permalink: /news/sildenafil/
 ---
 
 <p class="key-answer" data-question="Sildenafil 有什麼相關新聞？">
-<strong>Sildenafil</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sildenafil</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/sildenafil/
 <p><a href="{{ '/drugs/sildenafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
 
 ### [Zwanghaft gesund: Sie wollte alles richtig essen – und verlernte zu leben](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhaeWRHbU9pSDZ0emM4QmVYRmtYU2RMcndzZ3VlZU9kdmludm5Ja0hNd2VXQzhJM19mbGg2NlgybE5wZy1UNW1xMG83VUtTZjBWTkJhcWFkNlNUQXk3OWtWRzZhUzJyeVdvLVJjLTdJWElQVUpMdjFtX1ZWMDFta3ZTVE1WVnhHUVNmd1BBUmxDMkR3WGJrWFlSMzQwMFkyaUJYT2JBTUVxYmVlc19ZMHFkOHpfcXFYYU9Pc0hsZHpTR1ZKemdlMnVnamRzTFZQ?oc=5)
 
@@ -50,11 +50,27 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Il raffreddore non guarisce, va in ospedale a Fano e scopre che era liquido cerebrale. Paziente operata d'urgenza e salvata a Fano - Corriere Adriatico](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVjVSYVZLVjBqT1RzQXVsblZpWm1hWkxXRlljbnNCUExxMkRVRk0xOHVfRkJsYllhQm5OTlNsV2FsRUEtR2lwMUhMOUlVNWZBOG1Vc1Jvd1lzSXJMLWI2TXdQOExUa2E3OXctTlItazBLZmswRXM5OEUyRWNhRjhESXY3Qm15bExCNGN3OVNZclRla180VFAtbVlUeURpY3YwUmJUeDNZdnljaWVXblAwWFY4cU1tU3BuWVdzRk5nX3ltWWRWWjROTVJtQVBtcUIyMEdnMWV30gHbAUFVX3lxTFBZamljbHBGdTEtcWl0UGQza3VuNjZQdXBFZURDQnd1UXN6RVh1a3FTV0tGbjRQcEJ5OUZOaFVLR3RSRGhQTFV0SXpNRkl0TVZMSk1oT2ZMekxkNDR2T2VvWHpob3dkMk91QVZlRjhFVkZJa1dsaGlQV0VxblF1UVpMcGhrREJrVkFJSHM4MHVpcGZCNmlwdlFHOF9nQkQtUVM1bXZuSzd6cHBscE5GdnB1bzZsXzFBLWI1TTBlOTlZa3FuRGpOY1lacUt3UFNZQk42MXQ2aDRpSXhuNA?oc=5)
+### [Fano, perdeva liquido cerebrale dal naso, il raffreddore avrebbe causato una meningite mortale. Intuizione del medico Pandolfini,... - Corriere Adriatico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDE1UTAxeWx0Y2FLd1BZeGNENVlOT2Z2YWdZaTRtcnlhemY4UkZfYndIT3JxNENoRDVIMVRjcDh1cVZiVGd0UHA4LXQ0cktiSHVNQlFKTnVTVjQ3czdXT3E1WEJuNTkwTlRFdFFucllpTXNHQUdRcHBnWDl3ZTlrOGRyUUEtUmVUTFczZnUwSU1fXzZST0c2MnNEdEJBZFM5ZVFGM1NDZFNmaGczQmZaSTRLWVFyd0ZH0gG-AUFVX3lxTFBxY2R4RHFVaHlWN2dPT0FMQXhmcGV4dUJEcUdOcHNJNU9aczJZb2xDOTJObGNRNGw3U29oVVhRNEh2OVpFRDYwR2NzdGZHaDgwRDkwd015YlVtc09qa0piNW56eFZzUG4wZGVlcUphZHhzLUxObW5rRXRzOHp1OUY3U0F6cXR4ZUo5SFJXS0hXdlVDTkxtWTEtZFp6ZEM5SHdOMmZMOUhnSlc2NnlBNGs0ckFIV2RrLWJHTTUyemc?oc=5)
+
+2026-03-21 <span class="news-indication-tag">AF</span>
+
+來源：[Corriere Adriatico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDE1UTAxeWx0Y2FLd1BZeGNENVlOT2Z2YWdZaTRtcnlhemY4UkZfYndIT3JxNENoRDVIMVRjcDh1cVZiVGd0UHA4LXQ0cktiSHVNQlFKTnVTVjQ3czdXT3E1WEJuNTkwTlRFdFFucllpTXNHQUdRcHBnWDl3ZTlrOGRyUUEtUmVUTFczZnUwSU1fXzZST0c2MnNEdEJBZFM5ZVFGM1NDZFNmaGczQmZaSTRLWVFyd0ZH0gG-AUFVX3lxTFBxY2R4RHFVaHlWN2dPT0FMQXhmcGV4dUJEcUdOcHNJNU9aczJZb2xDOTJObGNRNGw3U29oVVhRNEh2OVpFRDYwR2NzdGZHaDgwRDkwd015YlVtc09qa0piNW56eFZzUG4wZGVlcUphZHhzLUxObW5rRXRzOHp1OUY3U0F6cXR4ZUo5SFJXS0hXdlVDTkxtWTEtZFp6ZEM5SHdOMmZMOUhnSlc2NnlBNGs0ckFIV2RrLWJHTTUyemc?oc=5)
+
+---
+
+### [Sommeil en couple : cette habitude venue du Nord affole TikTok et promet de sauver vos nuits... mais à une condition clé - Pleine vie](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRzNMc1J1YTd0bVNkMG15MVkzMkxURS1rdTlacDdPQ0lCYW1SN2o3aVNraTV3Z2dmYm5iNUZTZHA0dTBJcWpXWEc0dXhzTzVmQ3lyZmNpelZ5UThIdWJIWE5FYll4alhqWTFEV0xUMlJvSVBWZTd2bEsyZ3Z2LWpxVzhGNWVQbkdxWlJ6T0M0RFZINzU3eUtVa3plVWdxbkpjQ2cxdVRGTnR2OXJlSUd3a3pfcVJnbExTcUtIZFZpRHpVR0NjVTFDVlRkbnFLS2ppWkRpdXRrUG9STTlPR3hNejM4blF1aF9jZ0d4QkRZMmhScWNRYkhCeUdFdlY?oc=5)
+
+2026-03-21 <span class="news-indication-tag">AF</span>
+
+來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRzNMc1J1YTd0bVNkMG15MVkzMkxURS1rdTlacDdPQ0lCYW1SN2o3aVNraTV3Z2dmYm5iNUZTZHA0dTBJcWpXWEc0dXhzTzVmQ3lyZmNpelZ5UThIdWJIWE5FYll4alhqWTFEV0xUMlJvSVBWZTd2bEsyZ3Z2LWpxVzhGNWVQbkdxWlJ6T0M0RFZINzU3eUtVa3plVWdxbkpjQ2cxdVRGTnR2OXJlSUd3a3pfcVJnbExTcUtIZFZpRHpVR0NjVTFDVlRkbnFLS2ppWkRpdXRrUG9STTlPR3hNejM4blF1aF9jZ0d4QkRZMmhScWNRYkhCeUdFdlY?oc=5)
+
+---
+
+### [La cifra de afectados por un brote de meningitis en el Reino Unido sube a 29 y se agotan las vacunas - El Correo](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTN3ejI4MWR5MGhPT0FyZ096bTF1SlNCaTVuU0dBMjJod1BLbmZhY2szMEhfcWNXLVFTandKa3VNcXlIZG9URGo2eklpS3BhbUEwVjl3MWg4b01uOWJIY1VxQThhYzhiaGNLZmdpUHpLRUI0MUtpVzBuZWtTdXhadUdGQmtNZHFnemJKTmFTbEpuYWNYSmdodkZHMnA4ZVAtTmFrNFoyTmZHRHkxZkVxTEl3WTNwUXdrTkZ0YtIBwgFBVV95cUxQbHpvWFEwbDg4c0djYXlEMHoyUUp5NnNVRlVzMGd0ZnRySG4wd1U2ZzBkdEdOeXhfb1lUUXdYZ016cWZBbnNKSXJhNTlsYzZjUUJTQmM2M1E1eW5lbjVTYVE3Vk8wQVk1WURYcjlNWUZWaWVEbk5uNGdyQ0VNb3FPWnVNTFlja2ozdzlXc3h4TmhlaUJrRGQ1dUdxQm9nVmp4RDVETkdHeDU0NFZwU1o3SzA5RHZVQ0hFN010VkxQMmJXdw?oc=5)
 
 2026-03-20 <span class="news-indication-tag">AF</span>
 
-來源：[Corriere Adriatico](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVjVSYVZLVjBqT1RzQXVsblZpWm1hWkxXRlljbnNCUExxMkRVRk0xOHVfRkJsYllhQm5OTlNsV2FsRUEtR2lwMUhMOUlVNWZBOG1Vc1Jvd1lzSXJMLWI2TXdQOExUa2E3OXctTlItazBLZmswRXM5OEUyRWNhRjhESXY3Qm15bExCNGN3OVNZclRla180VFAtbVlUeURpY3YwUmJUeDNZdnljaWVXblAwWFY4cU1tU3BuWVdzRk5nX3ltWWRWWjROTVJtQVBtcUIyMEdnMWV30gHbAUFVX3lxTFBZamljbHBGdTEtcWl0UGQza3VuNjZQdXBFZURDQnd1UXN6RVh1a3FTV0tGbjRQcEJ5OUZOaFVLR3RSRGhQTFV0SXpNRkl0TVZMSk1oT2ZMekxkNDR2T2VvWHpob3dkMk91QVZlRjhFVkZJa1dsaGlQV0VxblF1UVpMcGhrREJrVkFJSHM4MHVpcGZCNmlwdlFHOF9nQkQtUVM1bXZuSzd6cHBscE5GdnB1bzZsXzFBLWI1TTBlOTlZa3FuRGpOY1lacUt3UFNZQk42MXQ2aDRpSXhuNA?oc=5)
+來源：[El Correo](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTN3ejI4MWR5MGhPT0FyZ096bTF1SlNCaTVuU0dBMjJod1BLbmZhY2szMEhfcWNXLVFTandKa3VNcXlIZG9URGo2eklpS3BhbUEwVjl3MWg4b01uOWJIY1VxQThhYzhiaGNLZmdpUHpLRUI0MUtpVzBuZWtTdXhadUdGQmtNZHFnemJKTmFTbEpuYWNYSmdodkZHMnA4ZVAtTmFrNFoyTmZHRHkxZkVxTEl3WTNwUXdrTkZ0YtIBwgFBVV95cUxQbHpvWFEwbDg4c0djYXlEMHoyUUp5NnNVRlVzMGd0ZnRySG4wd1U2ZzBkdEdOeXhfb1lUUXdYZ016cWZBbnNKSXJhNTlsYzZjUUJTQmM2M1E1eW5lbjVTYVE3Vk8wQVk1WURYcjlNWUZWaWVEbk5uNGdyQ0VNb3FPWnVNTFlja2ozdzlXc3h4TmhlaUJrRGQ1dUdxQm9nVmp4RDVETkdHeDU0NFZwU1o3SzA5RHZVQ0hFN010VkxQMmJXdw?oc=5)
 
 ---
 
@@ -74,14 +90,6 @@ permalink: /news/sildenafil/
 
 ---
 
-### [The Kent meningitis outbreak: what is happening and why? - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGN3NjNIRzZDd1l5d1hoUXdnT0xKYkE5RURqNDhDekZ6YWhwdDRPZ2JiQzktV0ZMYkxEZUFIVVk2ODVDa1R1MTQ0OTY0X0kyVHNpOVYya2l4MFR3dHBqVE9PZmdEWjhndk5EX2tLWHkwNlFjcE5RcjMwYkROdVpsUFhpZFctb2JqM29hU2tKb2F6Wjd4T3pJd0ZpWmUwZVBpWmtLUw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGN3NjNIRzZDd1l5d1hoUXdnT0xKYkE5RURqNDhDekZ6YWhwdDRPZ2JiQzktV0ZMYkxEZUFIVVk2ODVDa1R1MTQ0OTY0X0kyVHNpOVYya2l4MFR3dHBqVE9PZmdEWjhndk5EX2tLWHkwNlFjcE5RcjMwYkROdVpsUFhpZFctb2JqM29hU2tKb2F6Wjd4T3pJd0ZpWmUwZVBpWmtLUw?oc=5)
-
----
-
 ### [Sabbern im Schlaf: Was es bedeuten kann, wenn Ihr Kissen morgens nass ist](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUlIyVHJHT25FY2V3XzNESXRTa3FjSmpHbTh3MFczQl9DVnBvN2djZ2RrWnZJdzRaaVBjckUwQUs1emM4THdOcDJ1NjV2bUxMdktGMHJ2bkhac256aHlLWlN4ZnlHNl9xc291Mi1ka29kQVRwRGtaQm5NR1MtdUtuT0JiZ3RHeUJkaGptQ3BocDZ5b29YT1BaWm1SUUszajVWNXNQVzc4U0N6TmxYd3BCeE9jTVF3QnRMelpYM0gzR3R3dWhCRzkxclJ4ZDROQ29HZDRSNUVaWF9aN2VZWUMzNncxaktWYWtWX08zeV9R?oc=5)
 
 2026-03-20 <span class="news-indication-tag">AF</span>
@@ -98,11 +106,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [El hábito diario que destroza tu cuerpo igual que el consumo de alcohol - Libertad Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWlh4TlZCVl9xTmNLQkFUWEtwNEowWXVQU0tlOEo0aUZtd1dWczBSNHJjMmlmcHRXcF8tLTNzV3lyVmxaWUwybnRDaUVVRlJaLXhFY0hBYTRJSjhNQ2FqSWc3MlctWHNrVm9qTHlPT05lRUVwZ0lrVWNHWm0xWnloWlhyVmRncUV3Z3hZMHdOZU1OZ3FWWGZoS0s0a2NHeHNKSzdNNHNZTmVJN1F5MFlpeF9UREJUSU51OWIwR2tqUzVWcHZyRThtbjVFb242azduVlRuTDh5UEphTXk3VHN6aC1R0gHsAUFVX3lxTE5DTFloY2hXNmtxR283c1JfMWxNckg3NXUwS1BmRWNMek93ekJfWm5wOWZsdEpMSktXNWotSTZUaEw5bDBTckxpTHppaHdueUVjTXFwWG1UVGwwUjNRRC1JeEl1N2FoT0EzX1RMTVEyRjc0dFBFNHRqNHR6bFh6TXEzU29DMXAyZ1dieEtfRXl2cU5WcC03aGg4bHFleEwxLURJVUpuV3VMREVIZndveE1KSWd3ZGlSa1FQMWdNT3drR29WOWdYb2UtU1ZUWHFpZEJDMmFRa2pKdFFpMGJ2WGdjdi1pQkFjOWZzdHlV?oc=5)
+### [Meningitis outbreak - Blackburn mum urges symptom awareness after baby son's death - Lancashire Telegraph](https://news.google.com/rss/articles/CBMisAFBVV95cUxOT001UGxWMi1faDdfSEJLajZFNHdjOVdqOTJQZHJ3RmxFWmRxUVlHX05Wd3NBSV9tSDZFREl4VjA5ZzZXSDhES0NPT3dZeHIwNnJNY0dSTk12UWdNY2VWbnN6YjJUVndfWXpMR19sSGFQRjF1dVJfNjlvT25BdkVrX21tYVVfcW5vUV9LSi1mLUNvMEgxTGt3ZVlqYm81UDg4NjZadjhfR2RTYjRIdFBBRg?oc=5)
 
 2026-03-20 <span class="news-indication-tag">AF</span>
 
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWlh4TlZCVl9xTmNLQkFUWEtwNEowWXVQU0tlOEo0aUZtd1dWczBSNHJjMmlmcHRXcF8tLTNzV3lyVmxaWUwybnRDaUVVRlJaLXhFY0hBYTRJSjhNQ2FqSWc3MlctWHNrVm9qTHlPT05lRUVwZ0lrVWNHWm0xWnloWlhyVmRncUV3Z3hZMHdOZU1OZ3FWWGZoS0s0a2NHeHNKSzdNNHNZTmVJN1F5MFlpeF9UREJUSU51OWIwR2tqUzVWcHZyRThtbjVFb242azduVlRuTDh5UEphTXk3VHN6aC1R0gHsAUFVX3lxTE5DTFloY2hXNmtxR283c1JfMWxNckg3NXUwS1BmRWNMek93ekJfWm5wOWZsdEpMSktXNWotSTZUaEw5bDBTckxpTHppaHdueUVjTXFwWG1UVGwwUjNRRC1JeEl1N2FoT0EzX1RMTVEyRjc0dFBFNHRqNHR6bFh6TXEzU29DMXAyZ1dieEtfRXl2cU5WcC03aGg4bHFleEwxLURJVUpuV3VMREVIZndveE1KSWd3ZGlSa1FQMWdNT3drR29WOWdYb2UtU1ZUWHFpZEJDMmFRa2pKdFFpMGJ2WGdjdi1pQkFjOWZzdHlV?oc=5)
+來源：[Lancashire Telegraph](https://news.google.com/rss/articles/CBMisAFBVV95cUxOT001UGxWMi1faDdfSEJLajZFNHdjOVdqOTJQZHJ3RmxFWmRxUVlHX05Wd3NBSV9tSDZFREl4VjA5ZzZXSDhES0NPT3dZeHIwNnJNY0dSTk12UWdNY2VWbnN6YjJUVndfWXpMR19sSGFQRjF1dVJfNjlvT25BdkVrX21tYVVfcW5vUV9LSi1mLUNvMEgxTGt3ZVlqYm81UDg4NjZadjhfR2RTYjRIdFBBRg?oc=5)
 
 ---
 
@@ -122,14 +130,6 @@ permalink: /news/sildenafil/
 
 ---
 
-### [East Yorkshire dietician suspended after lime water cancer claim](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YaWRkY3hCM3MxNGMwRzJab1NkczBHZE1zdVE0Nm9QQUFqc1JfRTl6ZEJVQ2ZDcFNpQjdRRGRuMDY4emtKa2NjUDVQUjQyX0NfNW9TaUdIRHdmbjVX?oc=5)
-
-2026-03-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YaWRkY3hCM3MxNGMwRzJab1NkczBHZE1zdVE0Nm9QQUFqc1JfRTl6ZEJVQ2ZDcFNpQjdRRGRuMDY4emtKa2NjUDVQUjQyX0NfNW9TaUdIRHdmbjVX?oc=5)
-
----
-
 ### [Family of mum battling meningitis in Tenerife make statement on travel insurance - North Wales Live](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZV8tclVlSElhZUhXWXRxRm9aVFhjY0w4c3YybDNYRXcxaURlSUVSWGpFb3dmbl9aLXpxd1BxR0pkMHo1RFBXSjNDNHA1S0dQOHFnYmdHbGt4OVNPMGt1dFh4VEZWb0VLVnRQR0RoVGRPYm5pcldtUTlzY2FzRmE2bnlBOHlIMVBnQkNqdDhRUWdTZTNqd1VJUE1mVjBULVnSAaQBQVVfeXFMT3k2WjhySm1qTzFsLU5NYmVaOC1UVVh2b0VXX0FEdDh1REd1ZE9YcU8yQjlEMEZRbGRHSjdZNENYNGtGbnprMXNKQmJHeWZFQy1YMXlTUHhVcjJXX1lBdWlFV2hieXkzZ3ZuT2w5cFhndG9IcVdNZXAwTFBOdHBQVTZZUG9FeGwwbmF2TUdNOTRmenpGR3dtbFQxeUNEQWFUMFdQNWM?oc=5)
 
 2026-03-19 <span class="news-indication-tag">AF</span>
@@ -143,14 +143,6 @@ permalink: /news/sildenafil/
 2026-03-19 <span class="news-indication-tag">AF</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcVIxbEVYVGNlUVJXeHNsYnpKZU9qQ3pxOXpBMkF5NlFaa1pZNjMtb1d6ZllIMlJTQ1FkdHBHdDBVTWhrT2piS00tN1daQ1ctckVBSGt6WTdlWjl6ZVVQc0pzSGsxZlZSTFdPZFZ2blJCa21rXzFvRF8wRGpIa2hBRkdHUUxrZ0Zoang3TzM0NlUxU3g0NGk5RA?oc=5)
-
----
-
-### [Update on meningococcal disease at school as rumours circulate - Dorset Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3N2dmhiZ3cxeE5wY3FVclFDUWdINGhqNWRfUXh5ZGVGVVZnYVdpZ1B3R1NmZjNXRmpfS2ZhV29WOFdmRWJ5TWNEa2pvTm4yTVh6ZzBwLTJoRFQ1dzNVTHRwdnJBUDljYWZjVktMZ1VGZmdhSndPWFg1Zkk4c1dOWHN2MTdFbTdaWTZV?oc=5)
-
-2026-03-19 <span class="news-indication-tag">AF</span>
-
-來源：[Dorset Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3N2dmhiZ3cxeE5wY3FVclFDUWdINGhqNWRfUXh5ZGVGVVZnYVdpZ1B3R1NmZjNXRmpfS2ZhV29WOFdmRWJ5TWNEa2pvTm4yTVh6ZzBwLTJoRFQ1dzNVTHRwdnJBUDljYWZjVktMZ1VGZmdhSndPWFg1Zkk4c1dOWHN2MTdFbTdaWTZV?oc=5)
 
 ---
 

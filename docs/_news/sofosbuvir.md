@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
 ### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
@@ -63,6 +63,22 @@ permalink: /news/sofosbuvir/
 2026-03-20 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNZ0pjQlFKdWxGN2lEb3lybnFSNFVOdy1ocDJ6Rk9nMGpDNldkLWZweElPaWVDU3pzSGIyak1JMWpHRGNQbHhfWkVBN2JEdzhfZjJGMUxBcm1DTXh3?oc=5)
+
+---
+
+### [Is playing music good for the brain? - The Economist](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjRoS3ZNYkZ4NG9KaUxMLXZHcFFQWHU5NklFenNZQ2tTUUp0U08wdDFaeElQQ3hfNW9JS29mS0RHMGJUNWRqcWttcW9ocl9hckFiU25vcThrZmJqYVp6eGhWSDVrTlNFR3lVaHVCREJ1aTdKMzdyM3RFNXF1ejZtT0V6aHR0MVpveGxfU2w5WUJmLWlNU0l1Tkxrbw?oc=5)
+
+2026-03-20 <span class="news-indication-tag">MS</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjRoS3ZNYkZ4NG9KaUxMLXZHcFFQWHU5NklFenNZQ2tTUUp0U08wdDFaeElQQ3hfNW9JS29mS0RHMGJUNWRqcWttcW9ocl9hckFiU25vcThrZmJqYVp6eGhWSDVrTlNFR3lVaHVCREJ1aTdKMzdyM3RFNXF1ejZtT0V6aHR0MVpveGxfU2w5WUJmLWlNU0l1Tkxrbw?oc=5)
+
+---
+
+### [Neue Studie erforscht 100-Jährige: Das Geheimnis der ältesten Schweizer und Schweizerinnen | blue News - blue News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2xTaXVVTU9fVnVHUnBMUlpNU0NvVG1tM3hBTV9qN2xVMDBySWI4RG53RWxQZ19tYmFLdnpQZU5aZmdoQi1DUGNIUUJKdUNqQWZjVHdVeWw3WFBuOXNvNVliN0tZQ25Mb01XUXNObldSX2lBdjJoWXcyc2FNWWt4dW5YNXUxbFJmdVpRNTBJcTlrNlJKeEdoUmVUZGdNNTJZSTh2OUNsWUNBemFvOW10Q2dR?oc=5)
+
+2026-03-20 <span class="news-indication-tag">MS</span>
+
+來源：[blue News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2xTaXVVTU9fVnVHUnBMUlpNU0NvVG1tM3hBTV9qN2xVMDBySWI4RG53RWxQZ19tYmFLdnpQZU5aZmdoQi1DUGNIUUJKdUNqQWZjVHdVeWw3WFBuOXNvNVliN0tZQ25Mb01XUXNObldSX2lBdjJoWXcyc2FNWWt4dW5YNXUxbFJmdVpRNTBJcTlrNlJKeEdoUmVUZGdNNTJZSTh2OUNsWUNBemFvOW10Q2dR?oc=5)
 
 ---
 
@@ -135,14 +151,6 @@ permalink: /news/sofosbuvir/
 2026-03-19 <span class="news-indication-tag">MS</span>
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
-
----
-
-### [What Is 'Eye Stroke'? Expert Explains The Rare Wegovy Risk](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
-
-2026-03-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
 
 ---
 

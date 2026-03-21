@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lecanemab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Diabetes: Metformin zum Schutz vor Erblindung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE54OF9hVnlCT0tadVZGSHZUa1ZfUmFvdzhWMXRnNTA4QzRFU2NKSzMtTzNFUGpSOVc5NWZpQlZTTnBXbjNzSWlBZDdldHNER253Nk9EMWhsNlBtR1hBbjJMbE1icnNNOWlFd3RDc2t5WTh0UlBPZzRZcWhObEM?oc=5)
 
@@ -55,22 +55,6 @@ permalink: /news/lecanemab/
 2026-03-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
-
----
-
-### [„Als hätten sie kein Diabetes“: Ist diese Ernährung die Lösung für Erkrankte? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
-
-2026-03-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
-
----
-
-### [Alzheimer, da Aifa parere negativo alla rimborsabilità di due farmaci - la Repubblica](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSUhhbTJiNl9mRjRGdHNDZk9CYTFUMHpsclJEdGROc3lpeExVQVQ1QUhhRGExdm9DNExrY2FHcjI2TlJDQVF5dXJUNks2Y2M3bkpfYmxPYjZBX3J2N2kzQk1yMWFfQW1LaTBBNHNoY3RuTlVSNnhXZHk2ZC04LTRZZHNWTklNWmNnNmsyVzZGenkyVlJ3V2EtVWliWFViMGNIUDFLNnBJVHVxMmZLQzJMUklJWXlkTlhtMGVBdnZaaUFaaWR6OGtR0gHMAUFVX3lxTE1sMFhSQ3VJMV9sSHhVMWQwVlc5RXl4eHJyRzNvSnVUanNvZ3hIWF8yVlBQRkNZZHBRTXpkWmRTWWhWTE9uQVdMQmIyajVELXlYU0c5OTJsMFgzaGhoWmV6clBQX2hlMGdCZ3VUQS1HUzVsNm5wMjhUcjJoTzVzS1BmSm5lQUJYS2JyR1g2T1NZRXQwZDVsVGIwSEZaQ0gyUGx1RUF0MVhiRXpfYkRTSkk3YXllQmRCa1o4Z0h0TjhlX2Nqb0JDbEk2NnNvcA?oc=5)
-
-2026-03-19 <span class="news-drug-tag">Lecanemab</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSUhhbTJiNl9mRjRGdHNDZk9CYTFUMHpsclJEdGROc3lpeExVQVQ1QUhhRGExdm9DNExrY2FHcjI2TlJDQVF5dXJUNks2Y2M3bkpfYmxPYjZBX3J2N2kzQk1yMWFfQW1LaTBBNHNoY3RuTlVSNnhXZHk2ZC04LTRZZHNWTklNWmNnNmsyVzZGenkyVlJ3V2EtVWliWFViMGNIUDFLNnBJVHVxMmZLQzJMUklJWXlkTlhtMGVBdnZaaUFaaWR6OGtR0gHMAUFVX3lxTE1sMFhSQ3VJMV9sSHhVMWQwVlc5RXl4eHJyRzNvSnVUanNvZ3hIWF8yVlBQRkNZZHBRTXpkWmRTWWhWTE9uQVdMQmIyajVELXlYU0c5OTJsMFgzaGhoWmV6clBQX2hlMGdCZ3VUQS1HUzVsNm5wMjhUcjJoTzVzS1BmSm5lQUJYS2JyR1g2T1NZRXQwZDVsVGIwSEZaQ0gyUGx1RUF0MVhiRXpfYkRTSkk3YXllQmRCa1o4Z0h0TjhlX2Nqb0JDbEk2NnNvcA?oc=5)
 
 ---
 

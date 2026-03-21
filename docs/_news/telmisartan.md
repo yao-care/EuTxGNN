@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Hypertension artérielle : ce trait de caractère qui se dérègle en secret et trahit un risque pour votre cœur - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm9VM2xrRVJzcld1RmM0eTVNTnJILTZlemtBSXJBZVg0anVMM2dsZ3Rlb2ZUQlVycVE3Vl9sbUNyRXhUUjR0a3FxcURDYnY2Sm5JemJVSVJzaEprMHRwRjlRcmFvQmJPbnNTUE5wSVE3M0NhcDVJb01QQVdWYnpfR0haSTh5TGEtXy10bVd4Yy1NazhVTHZGdlhUMk9tZTlGb2hYOVlTYTVXdDJmdlp4OFVNQUt5Z3JVdUlNMzNyRlN3cXRkVDhuU0FsTms0NklTa3RnOTZmUGVVSkFZVzJfUTBKcVNua0g1TlNqYnFB?oc=5)
+
+2026-03-21 <span class="news-indication-tag">hypertension</span>
+
+來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm9VM2xrRVJzcld1RmM0eTVNTnJILTZlemtBSXJBZVg0anVMM2dsZ3Rlb2ZUQlVycVE3Vl9sbUNyRXhUUjR0a3FxcURDYnY2Sm5JemJVSVJzaEprMHRwRjlRcmFvQmJPbnNTUE5wSVE3M0NhcDVJb01QQVdWYnpfR0haSTh5TGEtXy10bVd4Yy1NazhVTHZGdlhUMk9tZTlGb2hYOVlTYTVXdDJmdlp4OFVNQUt5Z3JVdUlNMzNyRlN3cXRkVDhuU0FsTms0NklTa3RnOTZmUGVVSkFZVzJfUTBKcVNua0g1TlNqYnFB?oc=5)
+
+---
 
 ### [E' italiano il paziente uno della stimolazione cerebrale profonda a Pittsburg contro l’ictus - la Repubblica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9jS3ZlLVA4ZW1HT0laRzdNQUNZUFV5VHRNWGxqLThqS0lfTTJla1VRbFVrclhjdksyaklhX3lHSzRoTFk5UXNrZlhpTExIYVVLaktxUmhHdE9JYzBoQXhiVFQzMHFkU2FiOU1vOW9DU0xQVHFXMzlQMmp5WFJNdUFvUmI4MXBRTXRrN19Ea2FIaElPMVdqdVkwUW4wZ3I2ODQtQ3dkU2J3LWgzMUZ0WtIBtgFBVV95cUxOcjNFZFJJdGdKcUhkOVFfeWJ2RUd1ZkpDdXdoVEViU05xOGJFX1h6NnY2NDVCaTFWd2NrRm5xMkdsZkVLazh4djFOaE5qY09xTjJ5Y2piQmo0R0hhNldSWndialVzRFJKdERWWExlSHZYeXF1NDY1X2N6RDNXSDI3RUVVV3BxazRld1U3T3NPSUZEQ3dYOGp2M2xzV1ZvSzFZbjhBeFg2MXUtdHg2VnVzQ25FTjJ4UQ?oc=5)
 
@@ -50,27 +58,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Experts probe mystery explosion in young women dying from high blood pressure-linked disease: 'Urgent need for prevention strategies' - Daily Mail](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZ2lMaXQ1NG1JdHRlYTVXZG1XejU5OHE2X29BeGZlcW5DRUI5dDV4N1RLc0tJd2RTbWFnMUpoamQyZUV0VFdkMUhSTkoybFlqeUZKQnRCLTZKaGxLWnIycU5QZW1yWkNCUVpHOEdsVV81UlJQLWlhcDY5dmR1WWU4RVJGUnMyaFEyN3hwaFBxZEgxWG5HQ3FDSnBZb3RmTWdOYW5OWml5SjlZV0ljeS1sOGtNUGRZZzNILU1NenZGVW1PemNrUWJoN1ZkVUhqV2NxTW4wMEVFMGdQRVl3TGFjTU5tV0JpNUVzMzNFTVhYS2lRWkJyLWhtLW5WNjZ3TXltR2IzMy130gGLAkFVX3lxTE1kYUlEbGtiN3RNR2F5Z1Qxc3hZaUVJbl9xR1VxbjFsVVlLU2dWT1g5ZWFyY1JDRFQ2ekhpdXg3eVdWaUZxVnl0NDN4R2g5ZkFBZEtDcXNDU0VvXzlCWS1yQUxOcDg4V0x3S0M2bjNaTEgxOTdPNjR2WmJaLXdWR0tzOHNOMDA1YUltYzFqOUtRYmwzVFpiNE5oeUdlWnFfSXBUOVVKQTdDcG5NMG1jd3lWa0JnUHJWUDFFWmZFZjFkMDZ2SnotTnFzaC1FdmlkbXpaMFpIUERZZG55RUNhMmxNeHcxNFJqeXBwbEJ3Mnd5bi1uN00xUFhkaDY2R1hRa185NUhGdnNqelJFYw?oc=5)
-
-2026-03-19 <span class="news-indication-tag">hypertension</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMihgJBVV95cUxPZ2lMaXQ1NG1JdHRlYTVXZG1XejU5OHE2X29BeGZlcW5DRUI5dDV4N1RLc0tJd2RTbWFnMUpoamQyZUV0VFdkMUhSTkoybFlqeUZKQnRCLTZKaGxLWnIycU5QZW1yWkNCUVpHOEdsVV81UlJQLWlhcDY5dmR1WWU4RVJGUnMyaFEyN3hwaFBxZEgxWG5HQ3FDSnBZb3RmTWdOYW5OWml5SjlZV0ljeS1sOGtNUGRZZzNILU1NenZGVW1PemNrUWJoN1ZkVUhqV2NxTW4wMEVFMGdQRVl3TGFjTU5tV0JpNUVzMzNFTVhYS2lRWkJyLWhtLW5WNjZ3TXltR2IzMy130gGLAkFVX3lxTE1kYUlEbGtiN3RNR2F5Z1Qxc3hZaUVJbl9xR1VxbjFsVVlLU2dWT1g5ZWFyY1JDRFQ2ekhpdXg3eVdWaUZxVnl0NDN4R2g5ZkFBZEtDcXNDU0VvXzlCWS1yQUxOcDg4V0x3S0M2bjNaTEgxOTdPNjR2WmJaLXdWR0tzOHNOMDA1YUltYzFqOUtRYmwzVFpiNE5oeUdlWnFfSXBUOVVKQTdDcG5NMG1jd3lWa0JnUHJWUDFFWmZFZjFkMDZ2SnotTnFzaC1FdmlkbXpaMFpIUERZZG55RUNhMmxNeHcxNFJqeXBwbEJ3Mnd5bi1uN00xUFhkaDY2R1hRa185NUhGdnNqelJFYw?oc=5)
-
----
-
 ### [Nuove linee guida anticipano la terapia anti-colesterolo e ampliano la prevenzione cardiovascolare primaria - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGRhdlNmMEh6eWw4R3g4TlJpUDJPVkVnVUdUalhrbVZvWU1KM04xWW4yM3VBNEdvR1ZickprN004Yk5rekR0TFhJOXBrdzVXcG9NMTJRQlNiMVBvN194N0c5MXhSem1EMXQ4R25XckFYajA1WlNTQkNYdmQ0TFJHc2dqejV5b3doRFB2c2N4QlpUNmZSR2JQU21lSVhfT2tpMGtzYjhpYw?oc=5)
 
 2026-03-19 <span class="news-indication-tag">ictus</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGRhdlNmMEh6eWw4R3g4TlJpUDJPVkVnVUdUalhrbVZvWU1KM04xWW4yM3VBNEdvR1ZickprN004Yk5rekR0TFhJOXBrdzVXcG9NMTJRQlNiMVBvN194N0c5MXhSem1EMXQ4R25XckFYajA1WlNTQkNYdmQ0TFJHc2dqejV5b3doRFB2c2N4QlpUNmZSR2JQU21lSVhfT2tpMGtzYjhpYw?oc=5)
-
----
-
-### [What Is 'Eye Stroke'? Expert Explains The Rare Wegovy Risk](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
-
-2026-03-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
 
 ---
 

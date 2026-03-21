@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Diabetes: Metformin zum Schutz vor Erblindung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE54OF9hVnlCT0tadVZGSHZUa1ZfUmFvdzhWMXRnNTA4QzRFU2NKSzMtTzNFUGpSOVc5NWZpQlZTTnBXbjNzSWlBZDdldHNER253Nk9EMWhsNlBtR1hBbjJMbE1icnNNOWlFd3RDc2t5WTh0UlBPZzRZcWhObEM?oc=5)
 
@@ -129,14 +129,6 @@ permalink: /news/diabetes-mellitus/
 2026-03-20
 
 來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
-
----
-
-### [„Als hätten sie kein Diabetes“: Ist diese Ernährung die Lösung für Erkrankte? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
-
-2026-03-19
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
 
 ---
 

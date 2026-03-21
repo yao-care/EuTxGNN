@@ -14,7 +14,7 @@ permalink: /news/tralokinumab/
 ---
 
 <p class="key-answer" data-question="Tralokinumab 有什麼相關新聞？">
-<strong>Tralokinumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tralokinumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/tralokinumab/
 <p><a href="{{ '/drugs/tralokinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Diabetes: Metformin zum Schutz vor Erblindung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE54OF9hVnlCT0tadVZGSHZUa1ZfUmFvdzhWMXRnNTA4QzRFU2NKSzMtTzNFUGpSOVc5NWZpQlZTTnBXbjNzSWlBZDdldHNER253Nk9EMWhsNlBtR1hBbjJMbE1icnNNOWlFd3RDc2t5WTh0UlBPZzRZcWhObEM?oc=5)
 
@@ -55,14 +55,6 @@ permalink: /news/tralokinumab/
 2026-03-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
-
----
-
-### [„Als hätten sie kein Diabetes“: Ist diese Ernährung die Lösung für Erkrankte? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
-
-2026-03-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1g5dmNBTnlkTTRCYVdGUEI0OEtHZTJQckNHLWtMUWx3TW03X2hRNGJYZkVsN0VtRHdFdWJQeTl0SUxSbFoxenYwbVZERDEzNFZsdGhNSl94MXVlU1FwcHFYRXRiSTZpcmdyZWNySi1CeVhGTGJFMGRGeFFVUEUwWWtuTzMyeUVWaXR0eDItbWdKbHhYYnlFVmdiaENXWUZ5NWNOZEIxbW5KUGhZSjZicTc0R1VCSUpRYmRscVc4d3hsMGR5Ri1xRVlLRHllajZ6M2oyMUYtMnk?oc=5)
 
 ---
 
