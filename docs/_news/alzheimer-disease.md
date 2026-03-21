@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Alzheimer-Krankheit: Anti-Amyloid-Therapie jetzt leitliniengestützt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3hDXzRlYmJIbzhSRE1DWC0yMFdLVE5jVlEydXJEV3M0Sk12LVNRT0U1QTFLZ3BOVmVPRWNFbFR4bnNEd3R4Y2YxcHhDb0haeUdiWXA2cnU2STVzcG1KNzcwMEpSRHBZZ05vaEJBMTRmbmZxRkp3MGc1dG4ta3pPQmx6aC1XaEtYMGNYTTh6SXhDOFdHbUxJRnAwaG5wTzZMZGxlSHdSNy0zaVBmOWhPRVR4ZzJpNGRILWFlOUI3dlVtUmpGMC1JdS1HY3VRZTFP?oc=5)
 
 2026-03-20
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3hDXzRlYmJIbzhSRE1DWC0yMFdLVE5jVlEydXJEV3M0Sk12LVNRT0U1QTFLZ3BOVmVPRWNFbFR4bnNEd3R4Y2YxcHhDb0haeUdiWXA2cnU2STVzcG1KNzcwMEpSRHBZZ05vaEJBMTRmbmZxRkp3MGc1dG4ta3pPQmx6aC1XaEtYMGNYTTh6SXhDOFdHbUxJRnAwaG5wTzZMZGxlSHdSNy0zaVBmOWhPRVR4ZzJpNGRILWFlOUI3dlVtUmpGMC1JdS1HY3VRZTFP?oc=5)
-
----
-
-### [AI software for smart glasses wins £1m prize for technology to help people with dementia - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGplOGdldGV0ZUx1ZUFhVE01MmNwRndsd1hNdk5RX0hXZ2FMdjJCdG1CckxXWThNY01HdXRFRkRNNGpfT3ZTaVNlakE1X0pwVnZub0lnNGZDcUhvUzNKUFcwdWMtaEl1NWlVaFdoMTJEM0RyYXM5R0JjamhlWHRzWGRqOEZSOFlsRlo2cFo2U0JxRGxsVmVIZA?oc=5)
-
-2026-03-19
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGplOGdldGV0ZUx1ZUFhVE01MmNwRndsd1hNdk5RX0hXZ2FMdjJCdG1CckxXWThNY01HdXRFRkRNNGpfT3ZTaVNlakE1X0pwVnZub0lnNGZDcUhvUzNKUFcwdWMtaEl1NWlVaFdoMTJEM0RyYXM5R0JjamhlWHRzWGRqOEZSOFlsRlo2cFo2U0JxRGxsVmVIZA?oc=5)
 
 ---
 

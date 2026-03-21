@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Velpatasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（13 則）
 
 ### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
-2026-03-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-03-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
+
+---
+
+### [Pediatría en España propone cambios en el calendario vacunal ante el repunte de sarampión, hepatitis A y meningococo B - La Web de la Salud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM25VRnplMWZNOFFnMk9WQTRrNFk2dmVQWmg0SThYaFBSZ0tYaFFsMzkwMndmNHlSVHFkSFlkcjdOZmhINWQwQkRwWHBaYWJnTURIWWJKdU8yQVVYNm1hQUZCRm5MLVc2YVJRd29BTjliUk9FUnVmcWdydHJOVDFCZURmT1UxMUhiOUtvTko5bkZtZ1l6ZC0wWG80OU1pa2JNeTF3RU02YTRWTF9ULTRGb2Ntc0NCUWw4VGk3bjN0aFhBRXRyY2FtSWFHLXlxVWtzeW1WbWdDdTVXQmRpMWc?oc=5)
+
+2026-03-20 <span class="news-indication-tag">hepatitis</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM25VRnplMWZNOFFnMk9WQTRrNFk2dmVQWmg0SThYaFBSZ0tYaFFsMzkwMndmNHlSVHFkSFlkcjdOZmhINWQwQkRwWHBaYWJnTURIWWJKdU8yQVVYNm1hQUZCRm5MLVc2YVJRd29BTjliUk9FUnVmcWdydHJOVDFCZURmT1UxMUhiOUtvTko5bkZtZ1l6ZC0wWG80OU1pa2JNeTF3RU02YTRWTF9ULTRGb2Ntc0NCUWw4VGk3bjN0aFhBRXRyY2FtSWFHLXlxVWtzeW1WbWdDdTVXQmRpMWc?oc=5)
+
+---
+
+### ['I hid my symptoms out of embarrassment - then needed life-saving surgery'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNZ0pjQlFKdWxGN2lEb3lybnFSNFVOdy1ocDJ6Rk9nMGpDNldkLWZweElPaWVDU3pzSGIyak1JMWpHRGNQbHhfWkVBN2JEdzhfZjJGMUxBcm1DTXh3?oc=5)
+
+2026-03-20 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNZ0pjQlFKdWxGN2lEb3lybnFSNFVOdy1ocDJ6Rk9nMGpDNldkLWZweElPaWVDU3pzSGIyak1JMWpHRGNQbHhfWkVBN2JEdzhfZjJGMUxBcm1DTXh3?oc=5)
+
+---
+
+### [Hepatitis-A-Ausbruch in Neapel: Stadt verbietet rohe Meeresfrüchte – drastische Strafen drohen](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkdkYS1yQU10M3hvWnNXVWhlT0NhUU1odVkzWUxPX3J2M0JsTFhmTnhTcXR1dHc2aDBxcFNTejl2ZTY4cy1ObnJkeGVfQTNWYTRhMUxsbzltb25pdEwtVUVIZ01qNmRDZlN6S2JDLXdkYmhCRmhSRDVxMUhsaGFKZmw0Y3dQV1VaZW9fX2MwRDgwWEladlJsZ2taOGZTdTdDdzZReGNuMkQ4eml2dS1WZkp6YzhFM09MUi0wczVhaXR6QVVZY0Q0cklGVmxwb3BtSWdHcVRwS3E2S284cnhGSnlyYw?oc=5)
+
+2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[verbraucherschutzforum.berlin](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkdkYS1yQU10M3hvWnNXVWhlT0NhUU1odVkzWUxPX3J2M0JsTFhmTnhTcXR1dHc2aDBxcFNTejl2ZTY4cy1ObnJkeGVfQTNWYTRhMUxsbzltb25pdEwtVUVIZ01qNmRDZlN6S2JDLXdkYmhCRmhSRDVxMUhsaGFKZmw0Y3dQV1VaZW9fX2MwRDgwWEladlJsZ2taOGZTdTdDdzZReGNuMkQ4eml2dS1WZkp6YzhFM09MUi0wczVhaXR6QVVZY0Q0cklGVmxwb3BtSWdHcVRwS3E2S284cnhGSnlyYw?oc=5)
 
 ---
 
@@ -66,27 +90,19 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Pediatras piden adelantar la vacunación infantil ante el repunte de sarampión, hepatitis A y meningococo B](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFd0MUNzbUwtbnlaXzdzNmFLdjNDa2FIcDlwOElIY2JOaEY4aTMwU2Y4WGVFOUdfYWVxSXMzTnEtSmNoMFZFVHNjNC1zWm1DN1AxS3Z0blY2VEV1RGFKck1hNzhiUzVsb3B6OEtVRVZYYmJzMUpfOEsyVnFZSzZJTk5JXzR3NHVCdF9qSnMwN1RaNkhwQVc4am1yeXVNQVdQV0R6bHlsc3pMZGdOV3IzRTNPWDBwMi1Eb3RiZTJIV2NJWGp0aVpndFhTOFgyM3RENVNqMy1mNjJ5TE5oUm1iYlpFaw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">hepatitis</span>
-
-來源：[medicosypacientes.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFd0MUNzbUwtbnlaXzdzNmFLdjNDa2FIcDlwOElIY2JOaEY4aTMwU2Y4WGVFOUdfYWVxSXMzTnEtSmNoMFZFVHNjNC1zWm1DN1AxS3Z0blY2VEV1RGFKck1hNzhiUzVsb3B6OEtVRVZYYmJzMUpfOEsyVnFZSzZJTk5JXzR3NHVCdF9qSnMwN1RaNkhwQVc4am1yeXVNQVdQV0R6bHlsc3pMZGdOV3IzRTNPWDBwMi1Eb3RiZTJIV2NJWGp0aVpndFhTOFgyM3RENVNqMy1mNjJ5TE5oUm1iYlpFaw?oc=5)
-
----
-
-### [Epatite A, casi anche a Ischia. Comune di Napoli vieta il consumo di frutti di mare crudi - Sky TG24](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1A0YTdSTmJTU3BHOTJoZWs0V014SUVaaHRnYUJHWVFnbTZyM0VMcDVQVlpWZ3h0NGFXUGFoTUI1TjNlUVQ2X1liMThyYXZqay1HYzVjMXo5RVllVnVqRlIwb1JGd1RlNEpVYzZiTG1iZUR6Ujh4TzlzMy1DTzkyNFJ4VFA0TUZZ?oc=5)
+### [Napoli, aumento dei casi di epatite A: vietato il pesce crudo](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd290dHFNUGN3TGkxS0NIN2ZXdTdlS05tbzRyUVFPeE1zZkx1NmplbmJMWjZwZlBQSTJrSXhfRndFRkNPLXNOSGplZG42V0VpWnpxREdjMklwVEk0Yy1aWDZ4eXdHS0tIYUZJQ2swRlJ0b3FCNHg3Q3ZIWFJEckxhYXNtcy0xdjNsMWZ6dHFwdkhUUQ?oc=5)
 
 2026-03-20 <span class="news-indication-tag">epatite</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1A0YTdSTmJTU3BHOTJoZWs0V014SUVaaHRnYUJHWVFnbTZyM0VMcDVQVlpWZ3h0NGFXUGFoTUI1TjNlUVQ2X1liMThyYXZqay1HYzVjMXo5RVllVnVqRlIwb1JGd1RlNEpVYzZiTG1iZUR6Ujh4TzlzMy1DTzkyNFJ4VFA0TUZZ?oc=5)
+來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd290dHFNUGN3TGkxS0NIN2ZXdTdlS05tbzRyUVFPeE1zZkx1NmplbmJMWjZwZlBQSTJrSXhfRndFRkNPLXNOSGplZG42V0VpWnpxREdjMklwVEk0Yy1aWDZ4eXdHS0tIYUZJQ2swRlJ0b3FCNHg3Q3ZIWFJEckxhYXNtcy0xdjNsMWZ6dHFwdkhUUQ?oc=5)
 
 ---
 
-### [Wegen Hepatitis-A: Keine rohen Meeresfrüchte in Neapel - PULS 24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFJKTnhVXzJOR2hHbklZc3VMWmJrTGFURDVoLXpubkx0dlhaS3hiVFJVZHM3Q3pYSElCRmVmZEhWZnNGREd1N3VjanQyc0U0YWkwd2MtbWJRU1JjMjhvb282WXl3cnB3TkNlOXQzZEQ1WmhVNWd6MDlaS2U5Y2dhY0F0QS1Pbk1FVFFENmlpQ3ZIT2pubDhmMFlrQXk?oc=5)
+### [Ringworm is rife in UK gyms and barbershops — but many don't spot it](https://news.google.com/rss/articles/CBMinAFBVV95cUxONmNvWG84U010aHYwVExxamFHWmM0eXd0dzVUcVlpNmNvWkhMMFliZXpuMXJCYWgtWk1TbjJJM3BGWGtxYll2Sjk4cm16WVJoVmJQVmwtejM4SXpzLW1QMDJsZ3pNWU15ajNQWWpETkNOc09tUm1xM2t2LXMteVQ5MUMxTktTbnlxSGJ6YXpkdGFaOExlSTFFVkJTckk?oc=5)
 
-2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-03-20 <span class="news-indication-tag">MS</span>
 
-來源：[PULS 24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFJKTnhVXzJOR2hHbklZc3VMWmJrTGFURDVoLXpubkx0dlhaS3hiVFJVZHM3Q3pYSElCRmVmZEhWZnNGREd1N3VjanQyc0U0YWkwd2MtbWJRU1JjMjhvb282WXl3cnB3TkNlOXQzZEQ1WmhVNWd6MDlaS2U5Y2dhY0F0QS1Pbk1FVFFENmlpQ3ZIT2pubDhmMFlrQXk?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxONmNvWG84U010aHYwVExxamFHWmM0eXd0dzVUcVlpNmNvWkhMMFliZXpuMXJCYWgtWk1TbjJJM3BGWGtxYll2Sjk4cm16WVJoVmJQVmwtejM4SXpzLW1QMDJsZ3pNWU15ajNQWWpETkNOc09tUm1xM2t2LXMteVQ5MUMxTktTbnlxSGJ6YXpkdGFaOExlSTFFVkJTckk?oc=5)
 
 ---
 
@@ -95,22 +111,6 @@ permalink: /news/velpatasvir/
 2026-03-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">epatite</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
-
----
-
-### [Casi di epatite A a Catanzaro, un paziente trasferito a Roma - Catanzaro Informa](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2c5Rk1KVFU1cVNSMy1LWFFocVphRkxUNVNHc0JaUG9jb001NzJsNkxad3JVWklTTkFNOGxXUmdMV1diN0x5R2o5MjkxV0FvbjViRFZaMmZyNUhkRWVsRUpORHhlaUdNbGRQeVU3OU1PUVoyRE5GSGJvY2lTeTVJT1VfcEEta29TWTdCVkNpUklrZHhGU1pkTXl4X05VRTNHbVRHc3VYNV9rRlZCYnY0bWktNHVuazhrekIzcjhjVWcxbWJq0gHKAUFVX3lxTE1nWjlZb0x1UUk3d0dSY091bEV0c0FNcE5zMkNNVV8zZEEwdkdjSkZGOG1iTTFaU0RRSWNuQlcyVGl2b0p5R213SXE1elluR2daRnhCaXl4aTl5TVliRjUtWFlOcTRPTUp5QXkyVDRmc01HajhMQ3Bzd2Q2eS13NlhPTlJOZDhXZnRRX3lZU3lGeGllVVYxa3hJUUhVTXlRaTNMcnhXYlIwSjJjUTlHNHpXVWN5SnBDLTNEUk9vMFVaYWdnRGVxdHU2bmc?oc=5)
-
-2026-03-19 <span class="news-indication-tag">epatite</span>
-
-來源：[Catanzaro Informa](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2c5Rk1KVFU1cVNSMy1LWFFocVphRkxUNVNHc0JaUG9jb001NzJsNkxad3JVWklTTkFNOGxXUmdMV1diN0x5R2o5MjkxV0FvbjViRFZaMmZyNUhkRWVsRUpORHhlaUdNbGRQeVU3OU1PUVoyRE5GSGJvY2lTeTVJT1VfcEEta29TWTdCVkNpUklrZHhGU1pkTXl4X05VRTNHbVRHc3VYNV9rRlZCYnY0bWktNHVuazhrekIzcjhjVWcxbWJq0gHKAUFVX3lxTE1nWjlZb0x1UUk3d0dSY091bEV0c0FNcE5zMkNNVV8zZEEwdkdjSkZGOG1iTTFaU0RRSWNuQlcyVGl2b0p5R213SXE1elluR2daRnhCaXl4aTl5TVliRjUtWFlOcTRPTUp5QXkyVDRmc01HajhMQ3Bzd2Q2eS13NlhPTlJOZDhXZnRRX3lZU3lGeGllVVYxa3hJUUhVTXlRaTNMcnhXYlIwSjJjUTlHNHpXVWN5SnBDLTNEUk9vMFVaYWdnRGVxdHU2bmc?oc=5)
-
----
-
-### [Could a gut microbe influence muscle strength? - The Conversation](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXZMdmhDalpvS0YtWVFnNDFCX1FtU29LRDRwR0V6aDhXNkZuNUVkR2tMYkl3ZUtrLTNobC1OcldNcUJHeUpBcHU1a3BoNWNJRnJ1TV9hLVNvbkgzU2NMSnI4WDFpQjJ5LU8xQk83M2FNU2xQWDdJb2VvOUIyRE1fNURhTUNOZTg?oc=5)
-
-2026-03-19 <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXZMdmhDalpvS0YtWVFnNDFCX1FtU29LRDRwR0V6aDhXNkZuNUVkR2tMYkl3ZUtrLTNobC1OcldNcUJHeUpBcHU1a3BoNWNJRnJ1TV9hLVNvbkgzU2NMSnI4WDFpQjJ5LU8xQk83M2FNU2xQWDdJb2VvOUIyRE1fNURhTUNOZTg?oc=5)
 
 ---
 
@@ -130,14 +130,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Scots uni student left on life support from catching meningitis ‘at house party’ - The Scottish Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUdOOGtCYlpxWVRHNkhlVXVaRmotU2ZfQnp5cmloMk9MdWtKdGtuYXZhSjRyMUlmRC1UVVRiMFhFNkNCLU5Fc3FiMVFvYVk5QjM4UVY2aktLd2pBVy11S0ZuSlFnTVo1bV83SVlxUVI4MjIyZjk0Ql9HVEh2TkZYRGFmVWg0Y2FmLXVXSG02dFkwQ3NGWjBkMDQ0RnBFN09Dc0JQMndYVnA?oc=5)
-
-2026-03-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUdOOGtCYlpxWVRHNkhlVXVaRmotU2ZfQnp5cmloMk9MdWtKdGtuYXZhSjRyMUlmRC1UVVRiMFhFNkNCLU5Fc3FiMVFvYVk5QjM4UVY2aktLd2pBVy11S0ZuSlFnTVo1bV83SVlxUVI4MjIyZjk0Ql9HVEh2TkZYRGFmVWg0Y2FmLXVXSG02dFkwQ3NGWjBkMDQ0RnBFN09Dc0JQMndYVnA?oc=5)
-
----
-
 ### [PMS: Kombi aus Vitamin D und E zur Linderung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
 
 2026-03-19 <span class="news-indication-tag">MS</span>
@@ -151,30 +143,6 @@ permalink: /news/velpatasvir/
 2026-03-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1oeWROMVZIdmo0X2RicmR3bkkyRFpSV3hHT2psNGR1REhJVXJKMUMzbk5LYnVscDVWNFdnVkVKS1NzYWNQUXF5UGhkd014R1BoUmc5ek1CdlhEbU1qRjN1TkVQWFB6R2tUSDVwWVZnRHhqZDRaaEVnZXpKelpwSDkxZW5pdFRCS0VPOA?oc=5)
-
----
-
-### [GLP-1 diabetes drugs could stop anxiety and depression worsening, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
-
-2026-03-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDhlOTY3N19wYzJ3a2ZaOVRCWmZiZGg2TnhOVWcxckNqM3NZeXdRbXNDaTBGc3NGamx4bk1oRkJnaDF4eWt0Y1N6di1uMzNsX01ZMDN6WFNHaGdZb1dUeXNrbDYxZkJOQzZOMUJDdW04c215RmJ1b0lCRk5HRlpCa1R6M2ttdEkweDBzY1VKT0JzS2hYYjdkNEZiNzdVRmxENk9OSHVVYkI5QQ?oc=5)
-
----
-
-### ['I kept falling over on Ibiza lads holiday - it turned out to be MS'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eVJKZ1NFUVdMdXFRZ3J0SDZVY2JVTWxnYWhXSmdnN0dQWl9QYlVLNU5JcEJxVjc5T2NFV2ZPQkFLamtXY0VMMk1xRTdISHRaNG54VHdaSHluX1FU?oc=5)
-
-2026-03-18 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eVJKZ1NFUVdMdXFRZ3J0SDZVY2JVTWxnYWhXSmdnN0dQWl9QYlVLNU5JcEJxVjc5T2NFV2ZPQkFLamtXY0VMMk1xRTdISHRaNG54VHdaSHluX1FU?oc=5)
-
----
-
-### [«Le 7 cose da non fare dopo le 8 di sera per ridurre il rischio infarto», i consigli del cardiologo - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
-
-2026-03-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cetrorelix-as-acetate/
 ---
 
 <p class="key-answer" data-question="Cetrorelix (As Acetate) 有什麼相關新聞？">
-<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,45 @@ permalink: /news/cetrorelix-as-acetate/
 <p><a href="{{ '/drugs/cetrorelix-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
-
-### [Meningitis outbreak latest: Health officials reveal 'worst case scenario' - but stress it's 'unlikely' - Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd25vRmRVUjhrNmdKOW5scHpRbThWUXUtaXA2RTMzbFFEZzlra3Q2Q2RMNlVQR3JaMGZReDVrcEdSTENxVzNSbkpia0hqQTMyZ21uVmdSR2VxLXc5ckJzaTMtaXhCenZuejRhbVFGSXRBbjV2aUtqLVlwRkhyVnVVLVcyVlhlTFVwY1MtLVgxRU1EV21sRWdkeWNGeUpsaXpEdGI0UXptSTcxVUJRUjJ4cWRJVm53OUhPeUdLeU1MVQ?oc=5)
-
-2026-03-20 <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOd25vRmRVUjhrNmdKOW5scHpRbThWUXUtaXA2RTMzbFFEZzlra3Q2Q2RMNlVQR3JaMGZReDVrcEdSTENxVzNSbkpia0hqQTMyZ21uVmdSR2VxLXc5ckJzaTMtaXhCenZuejRhbVFGSXRBbjV2aUtqLVlwRkhyVnVVLVcyVlhlTFVwY1MtLVgxRU1EV21sRWdkeWNGeUpsaXpEdGI0UXptSTcxVUJRUjJ4cWRJVm53OUhPeUdLeU1MVQ?oc=5)
-
----
-
-### [Los afectados por meningitis en Reino Unido llegan a 29 mientras las vacunas se agotan](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnZVcmtnc1lFU25uU2dCNElNUmNpazF0ODVuREVsYzhscjlhbTAtcGpLb3NzYVpLR09fa1dWVE5iSkR4VU95dmhPN3ptekJJaXhjLU80QU9mSUs3a3JpWURWdW56cHBrZ3pBbmpWczUzdFhWcVVRUmplbzJxQmNWeWFFd2xEeHhXTEdOZ201ZFNkV1BtZkNFbWp6UDlaS0llU3dKWEhkU0rSAa4BQVVfeXFMUHplMUVNU3ZJMmVRdU03X2JzMVBXQy1qOXhBWXVkRGk1QjFibWI3SFRHS0dEM2JUZDkwR0lhRGlycUdzd29VVm1hOVluS1poN2VCUUFSbnVYRklWN1RiV3c3ZUNBNjNjLWdJckJhcWtSV2U5RFExNnJXT2N6XzdfcDlmaXVRWE5pVkpXT1NPU3JmWnpOUExaWUhPbWVMWXZGQlJXMTBKN3lwcjhCWVhB?oc=5)
-
-2026-03-20 <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnZVcmtnc1lFU25uU2dCNElNUmNpazF0ODVuREVsYzhscjlhbTAtcGpLb3NzYVpLR09fa1dWVE5iSkR4VU95dmhPN3ptekJJaXhjLU80QU9mSUs3a3JpWURWdW56cHBrZ3pBbmpWczUzdFhWcVVRUmplbzJxQmNWeWFFd2xEeHhXTEdOZ201ZFNkV1BtZkNFbWp6UDlaS0llU3dKWEhkU0rSAa4BQVVfeXFMUHplMUVNU3ZJMmVRdU03X2JzMVBXQy1qOXhBWXVkRGk1QjFibWI3SFRHS0dEM2JUZDkwR0lhRGlycUdzd29VVm1hOVluS1poN2VCUUFSbnVYRklWN1RiV3c3ZUNBNjNjLWdJckJhcWtSV2U5RFExNnJXT2N6XzdfcDlmaXVRWE5pVkpXT1NPU3JmWnpOUExaWUhPbWVMWXZGQlJXMTBKN3lwcjhCWVhB?oc=5)
-
----
+## 相關新聞（21 則）
 
 ### [Zwanghaft gesund: Sie wollte alles richtig essen – und verlernte zu leben](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhaeWRHbU9pSDZ0emM4QmVYRmtYU2RMcndzZ3VlZU9kdmludm5Ja0hNd2VXQzhJM19mbGg2NlgybE5wZy1UNW1xMG83VUtTZjBWTkJhcWFkNlNUQXk3OWtWRzZhUzJyeVdvLVJjLTdJWElQVUpMdjFtX1ZWMDFta3ZTVE1WVnhHUVNmd1BBUmxDMkR3WGJrWFlSMzQwMFkyaUJYT2JBTUVxYmVlc19ZMHFkOHpfcXFYYU9Pc0hsZHpTR1ZKemdlMnVnamRzTFZQ?oc=5)
 
-2026-03-20 <span class="news-indication-tag">AF</span>
+2026-03-21 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhaeWRHbU9pSDZ0emM4QmVYRmtYU2RMcndzZ3VlZU9kdmludm5Ja0hNd2VXQzhJM19mbGg2NlgybE5wZy1UNW1xMG83VUtTZjBWTkJhcWFkNlNUQXk3OWtWRzZhUzJyeVdvLVJjLTdJWElQVUpMdjFtX1ZWMDFta3ZTVE1WVnhHUVNmd1BBUmxDMkR3WGJrWFlSMzQwMFkyaUJYT2JBTUVxYmVlc19ZMHFkOHpfcXFYYU9Pc0hsZHpTR1ZKemdlMnVnamRzTFZQ?oc=5)
+
+---
+
+### [Il raffreddore non guarisce, va in ospedale a Fano e scopre che era liquido cerebrale. Paziente operata d'urgenza e salvata a Fano - Corriere Adriatico](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVjVSYVZLVjBqT1RzQXVsblZpWm1hWkxXRlljbnNCUExxMkRVRk0xOHVfRkJsYllhQm5OTlNsV2FsRUEtR2lwMUhMOUlVNWZBOG1Vc1Jvd1lzSXJMLWI2TXdQOExUa2E3OXctTlItazBLZmswRXM5OEUyRWNhRjhESXY3Qm15bExCNGN3OVNZclRla180VFAtbVlUeURpY3YwUmJUeDNZdnljaWVXblAwWFY4cU1tU3BuWVdzRk5nX3ltWWRWWjROTVJtQVBtcUIyMEdnMWV30gHbAUFVX3lxTFBZamljbHBGdTEtcWl0UGQza3VuNjZQdXBFZURDQnd1UXN6RVh1a3FTV0tGbjRQcEJ5OUZOaFVLR3RSRGhQTFV0SXpNRkl0TVZMSk1oT2ZMekxkNDR2T2VvWHpob3dkMk91QVZlRjhFVkZJa1dsaGlQV0VxblF1UVpMcGhrREJrVkFJSHM4MHVpcGZCNmlwdlFHOF9nQkQtUVM1bXZuSzd6cHBscE5GdnB1bzZsXzFBLWI1TTBlOTlZa3FuRGpOY1lacUt3UFNZQk42MXQ2aDRpSXhuNA?oc=5)
+
+2026-03-20 <span class="news-indication-tag">AF</span>
+
+來源：[Corriere Adriatico](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVjVSYVZLVjBqT1RzQXVsblZpWm1hWkxXRlljbnNCUExxMkRVRk0xOHVfRkJsYllhQm5OTlNsV2FsRUEtR2lwMUhMOUlVNWZBOG1Vc1Jvd1lzSXJMLWI2TXdQOExUa2E3OXctTlItazBLZmswRXM5OEUyRWNhRjhESXY3Qm15bExCNGN3OVNZclRla180VFAtbVlUeURpY3YwUmJUeDNZdnljaWVXblAwWFY4cU1tU3BuWVdzRk5nX3ltWWRWWjROTVJtQVBtcUIyMEdnMWV30gHbAUFVX3lxTFBZamljbHBGdTEtcWl0UGQza3VuNjZQdXBFZURDQnd1UXN6RVh1a3FTV0tGbjRQcEJ5OUZOaFVLR3RSRGhQTFV0SXpNRkl0TVZMSk1oT2ZMekxkNDR2T2VvWHpob3dkMk91QVZlRjhFVkZJa1dsaGlQV0VxblF1UVpMcGhrREJrVkFJSHM4MHVpcGZCNmlwdlFHOF9nQkQtUVM1bXZuSzd6cHBscE5GdnB1bzZsXzFBLWI1TTBlOTlZa3FuRGpOY1lacUt3UFNZQk42MXQ2aDRpSXhuNA?oc=5)
+
+---
+
+### [Hepatitis-A-Ausbruch in Neapel: Stadt verbietet rohe Meeresfrüchte – drastische Strafen drohen](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkdkYS1yQU10M3hvWnNXVWhlT0NhUU1odVkzWUxPX3J2M0JsTFhmTnhTcXR1dHc2aDBxcFNTejl2ZTY4cy1ObnJkeGVfQTNWYTRhMUxsbzltb25pdEwtVUVIZ01qNmRDZlN6S2JDLXdkYmhCRmhSRDVxMUhsaGFKZmw0Y3dQV1VaZW9fX2MwRDgwWEladlJsZ2taOGZTdTdDdzZReGNuMkQ4eml2dS1WZkp6YzhFM09MUi0wczVhaXR6QVVZY0Q0cklGVmxwb3BtSWdHcVRwS3E2S284cnhGSnlyYw?oc=5)
+
+2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[verbraucherschutzforum.berlin](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkdkYS1yQU10M3hvWnNXVWhlT0NhUU1odVkzWUxPX3J2M0JsTFhmTnhTcXR1dHc2aDBxcFNTejl2ZTY4cy1ObnJkeGVfQTNWYTRhMUxsbzltb25pdEwtVUVIZ01qNmRDZlN6S2JDLXdkYmhCRmhSRDVxMUhsaGFKZmw0Y3dQV1VaZW9fX2MwRDgwWEladlJsZ2taOGZTdTdDdzZReGNuMkQ4eml2dS1WZkp6YzhFM09MUi0wczVhaXR6QVVZY0Q0cklGVmxwb3BtSWdHcVRwS3E2S284cnhGSnlyYw?oc=5)
+
+---
+
+### [E' italiano il paziente uno della stimolazione cerebrale profonda a Pittsburg contro l’ictus - la Repubblica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9jS3ZlLVA4ZW1HT0laRzdNQUNZUFV5VHRNWGxqLThqS0lfTTJla1VRbFVrclhjdksyaklhX3lHSzRoTFk5UXNrZlhpTExIYVVLaktxUmhHdE9JYzBoQXhiVFQzMHFkU2FiOU1vOW9DU0xQVHFXMzlQMmp5WFJNdUFvUmI4MXBRTXRrN19Ea2FIaElPMVdqdVkwUW4wZ3I2ODQtQ3dkU2J3LWgzMUZ0WtIBtgFBVV95cUxOcjNFZFJJdGdKcUhkOVFfeWJ2RUd1ZkpDdXdoVEViU05xOGJFX1h6NnY2NDVCaTFWd2NrRm5xMkdsZkVLazh4djFOaE5qY09xTjJ5Y2piQmo0R0hhNldSWndialVzRFJKdERWWExlSHZYeXF1NDY1X2N6RDNXSDI3RUVVV3BxazRld1U3T3NPSUZEQ3dYOGp2M2xzV1ZvSzFZbjhBeFg2MXUtdHg2VnVzQ25FTjJ4UQ?oc=5)
+
+2026-03-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9jS3ZlLVA4ZW1HT0laRzdNQUNZUFV5VHRNWGxqLThqS0lfTTJla1VRbFVrclhjdksyaklhX3lHSzRoTFk5UXNrZlhpTExIYVVLaktxUmhHdE9JYzBoQXhiVFQzMHFkU2FiOU1vOW9DU0xQVHFXMzlQMmp5WFJNdUFvUmI4MXBRTXRrN19Ea2FIaElPMVdqdVkwUW4wZ3I2ODQtQ3dkU2J3LWgzMUZ0WtIBtgFBVV95cUxOcjNFZFJJdGdKcUhkOVFfeWJ2RUd1ZkpDdXdoVEViU05xOGJFX1h6NnY2NDVCaTFWd2NrRm5xMkdsZkVLazh4djFOaE5qY09xTjJ5Y2piQmo0R0hhNldSWndialVzRFJKdERWWExlSHZYeXF1NDY1X2N6RDNXSDI3RUVVV3BxazRld1U3T3NPSUZEQ3dYOGp2M2xzV1ZvSzFZbjhBeFg2MXUtdHg2VnVzQ25FTjJ4UQ?oc=5)
+
+---
+
+### [The Kent meningitis outbreak: what is happening and why? - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGN3NjNIRzZDd1l5d1hoUXdnT0xKYkE5RURqNDhDekZ6YWhwdDRPZ2JiQzktV0ZMYkxEZUFIVVk2ODVDa1R1MTQ0OTY0X0kyVHNpOVYya2l4MFR3dHBqVE9PZmdEWjhndk5EX2tLWHkwNlFjcE5RcjMwYkROdVpsUFhpZFctb2JqM29hU2tKb2F6Wjd4T3pJd0ZpWmUwZVBpWmtLUw?oc=5)
+
+2026-03-20 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGN3NjNIRzZDd1l5d1hoUXdnT0xKYkE5RURqNDhDekZ6YWhwdDRPZ2JiQzktV0ZMYkxEZUFIVVk2ODVDa1R1MTQ0OTY0X0kyVHNpOVYya2l4MFR3dHBqVE9PZmdEWjhndk5EX2tLWHkwNlFjcE5RcjMwYkROdVpsUFhpZFctb2JqM29hU2tKb2F6Wjd4T3pJd0ZpWmUwZVBpWmtLUw?oc=5)
 
 ---
 
@@ -79,30 +95,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-03-20 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE82bVV1NU8tYW5WMTZScl9hN3ZmUWI3MXBDM2lTQ1lseDN6U1pJanRNOWZ3Zi1ldkp6TEdKcEkwRzFMeEwyVW1GV1I5UQ?oc=5)
-
----
-
-### [Sabato 21 marzo l’appuntamento messinese con la Giornata per le Malattie Neuromuscolari 2026](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbllLMVAzZW5nSVpXSXJaR1FiQUdsbHJFOWtmMzBmSEtlaVlLYTRPV0Q2cGRDRDhMeW1jQnZUdHh3ekFsa3NRUGRlN2N0Q1RzVFphOF80TmV4UU1iTWFBcEVjcVVidVQ5czFaSjQtNVl6d3NxdVh2LVhhRW04Wm1UVlJ1YXdPUTV2anprMWg0SXNIV0R0V2hkSi1aN2t6SHVCRlBEQ0FQbks4RXZLQ2k0YXVrczQ3a3BVVUlnOHZxTEdoR2s2V0dxMA?oc=5)
-
-2026-03-20 <span class="news-indication-tag">AF</span>
-
-來源：[Tempostretto](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbllLMVAzZW5nSVpXSXJaR1FiQUdsbHJFOWtmMzBmSEtlaVlLYTRPV0Q2cGRDRDhMeW1jQnZUdHh3ekFsa3NRUGRlN2N0Q1RzVFphOF80TmV4UU1iTWFBcEVjcVVidVQ5czFaSjQtNVl6d3NxdVh2LVhhRW04Wm1UVlJ1YXdPUTV2anprMWg0SXNIV0R0V2hkSi1aN2t6SHVCRlBEQ0FQbks4RXZLQ2k0YXVrczQ3a3BVVUlnOHZxTEdoR2s2V0dxMA?oc=5)
-
----
-
-### [Wegen Hepatitis-A: Keine rohen Meeresfrüchte in Neapel - PULS 24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFJKTnhVXzJOR2hHbklZc3VMWmJrTGFURDVoLXpubkx0dlhaS3hiVFJVZHM3Q3pYSElCRmVmZEhWZnNGREd1N3VjanQyc0U0YWkwd2MtbWJRU1JjMjhvb282WXl3cnB3TkNlOXQzZEQ1WmhVNWd6MDlaS2U5Y2dhY0F0QS1Pbk1FVFFENmlpQ3ZIT2pubDhmMFlrQXk?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[PULS 24](https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFJKTnhVXzJOR2hHbklZc3VMWmJrTGFURDVoLXpubkx0dlhaS3hiVFJVZHM3Q3pYSElCRmVmZEhWZnNGREd1N3VjanQyc0U0YWkwd2MtbWJRU1JjMjhvb282WXl3cnB3TkNlOXQzZEQ1WmhVNWd6MDlaS2U5Y2dhY0F0QS1Pbk1FVFFENmlpQ3ZIT2pubDhmMFlrQXk?oc=5)
-
----
-
-### [Santé. Maladie de Charcot : pourquoi certaines communes sont-elles plus touchées que d’autres ? - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTBzdmJFN0dLZHlRQ3NYcWF1RW94ZXRORTBKaEItRjFfWmJtRVo0NVBJbjNHVW5famZfZkxwc2dJQllxS092VTA0WVhUTkY3MHRsMlVLbWJWbk5pbFRYeGowVU5DQl9sV0RZdHR5QWVOOWdrWUNXR1czdVpzc0VYZFJTeXNsQTZ5ZzNaQlg2enVidlYtRVQ3dTE5ZGRBQ2pCUHlHbHdaSkZvZDRxTDlralhvaWIwNlM1dFFIZ0NBTTR2OFNoYmJVMmtQTS10d3J3?oc=5)
-
-2026-03-20 <span class="news-indication-tag">AF</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeTBzdmJFN0dLZHlRQ3NYcWF1RW94ZXRORTBKaEItRjFfWmJtRVo0NVBJbjNHVW5famZfZkxwc2dJQllxS092VTA0WVhUTkY3MHRsMlVLbWJWbk5pbFRYeGowVU5DQl9sV0RZdHR5QWVOOWdrWUNXR1czdVpzc0VYZFJTeXNsQTZ5ZzNaQlg2enVidlYtRVQ3dTE5ZGRBQ2pCUHlHbHdaSkZvZDRxTDlralhvaWIwNlM1dFFIZ0NBTTR2OFNoYmJVMmtQTS10d3J3?oc=5)
 
 ---
 
@@ -135,14 +127,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-03-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YaWRkY3hCM3MxNGMwRzJab1NkczBHZE1zdVE0Nm9QQUFqc1JfRTl6ZEJVQ2ZDcFNpQjdRRGRuMDY4emtKa2NjUDVQUjQyX0NfNW9TaUdIRHdmbjVX?oc=5)
-
----
-
-### [Ce dessert au chocolat inspiré des zones bleues réduit les maladies après 50 ans selon des experts](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWHkzVUJ5M3BjOVhHa2FGUXBnUFJFMzNzb0ZxbUJtcDFUT2VnTVdOalZkZV9mbHhsc2g5ODNGb2NaVjk2WjQ4Unh2Qnk1REJRYmM0TUNfa1JERjhRLXpSSFExVVNPcERaektSSnlUTWF4dTVnUWZURmMzRzhjbUluRUo2VDhxZGh2SlVfTkJ3Rkl0bGN1LVVnaVFkTE1sV0hZalV5ZlFDaHFzNy1uNjJtVEdwZGZDYTFGS0k5QXRZQ3NLaDNNWGRMbXM3SEY0azhlS1UxUERCaGwxeDhLaVdqUThyOGU?oc=5)
-
-2026-03-19 <span class="news-indication-tag">AF</span>
-
-來源：[peaches.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWHkzVUJ5M3BjOVhHa2FGUXBnUFJFMzNzb0ZxbUJtcDFUT2VnTVdOalZkZV9mbHhsc2g5ODNGb2NaVjk2WjQ4Unh2Qnk1REJRYmM0TUNfa1JERjhRLXpSSFExVVNPcERaektSSnlUTWF4dTVnUWZURmMzRzhjbUluRUo2VDhxZGh2SlVfTkJ3Rkl0bGN1LVVnaVFkTE1sV0hZalV5ZlFDaHFzNy1uNjJtVEdwZGZDYTFGS0k5QXRZQ3NLaDNNWGRMbXM3SEY0azhlS1UxUERCaGwxeDhLaVdqUThyOGU?oc=5)
 
 ---
 
@@ -194,38 +178,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Scots uni student left on life support from catching meningitis ‘at house party’ - The Scottish Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUdOOGtCYlpxWVRHNkhlVXVaRmotU2ZfQnp5cmloMk9MdWtKdGtuYXZhSjRyMUlmRC1UVVRiMFhFNkNCLU5Fc3FiMVFvYVk5QjM4UVY2aktLd2pBVy11S0ZuSlFnTVo1bV83SVlxUVI4MjIyZjk0Ql9HVEh2TkZYRGFmVWg0Y2FmLXVXSG02dFkwQ3NGWjBkMDQ0RnBFN09Dc0JQMndYVnA?oc=5)
-
-2026-03-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUdOOGtCYlpxWVRHNkhlVXVaRmotU2ZfQnp5cmloMk9MdWtKdGtuYXZhSjRyMUlmRC1UVVRiMFhFNkNCLU5Fc3FiMVFvYVk5QjM4UVY2aktLd2pBVy11S0ZuSlFnTVo1bV83SVlxUVI4MjIyZjk0Ql9HVEh2TkZYRGFmVWg0Y2FmLXVXSG02dFkwQ3NGWjBkMDQ0RnBFN09Dc0JQMndYVnA?oc=5)
-
----
-
-### [Übergewicht treibt Diabetes bei Frauen und Männern unterschiedlich an - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYeFZaTUh5ajlKbEo5RjJkczA0TTBGOFBnSjc3Z2gzNHB5aFdOeG11Y3NpSFFROUpyNEJfY1RrdmlLSkRuR2FNTG1zRQ?oc=5)
-
-2026-03-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYeFZaTUh5ajlKbEo5RjJkczA0TTBGOFBnSjc3Z2gzNHB5aFdOeG11Y3NpSFFROUpyNEJfY1RrdmlLSkRuR2FNTG1zRQ?oc=5)
-
----
-
-### [Cellule anticancro generate nel corpo, tumore eliminato in due settimane](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzVpdVhJbS12ekItQjB3eWZnX2REUE5UNFlJR0NueGo1NUtJT0t0aGdLZW1ncEYxY2sxNEFGa0VfcF8zbWVSQ3BkQVI0UVlIUzJnaVBJbTZBQ3B4R2ZWXzFLaVljU2F0Uk03UFBtNkpWWXVxVmFwS0FuOXhVOWF3eTV0Zng5QXBWdXfSAY8BQVVfeXFMTTFEb1U2WElLdjhJVmhYcUJ1NWFhejRwdUxYR2dEZU00RkNtMVBUV0VCSjlNdWNWWTcycEFLZ084OXp2V0RaOE1BaVdWUE5Tanc1eE1yUjNlQW5Rb2R6WEZSOTVTZy00cDZMbWJLc0oxYTZOVFJhcmF5YTF1eXozSnAxLVBYSEJwWExEWTl4M1E?oc=5)
-
-2026-03-19 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[notizie.tiscali.it](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzVpdVhJbS12ekItQjB3eWZnX2REUE5UNFlJR0NueGo1NUtJT0t0aGdLZW1ncEYxY2sxNEFGa0VfcF8zbWVSQ3BkQVI0UVlIUzJnaVBJbTZBQ3B4R2ZWXzFLaVljU2F0Uk03UFBtNkpWWXVxVmFwS0FuOXhVOWF3eTV0Zng5QXBWdXfSAY8BQVVfeXFMTTFEb1U2WElLdjhJVmhYcUJ1NWFhejRwdUxYR2dEZU00RkNtMVBUV0VCSjlNdWNWWTcycEFLZ084OXp2V0RaOE1BaVdWUE5Tanc1eE1yUjNlQW5Rb2R6WEZSOTVTZy00cDZMbWJLc0oxYTZOVFJhcmF5YTF1eXozSnAxLVBYSEJwWExEWTl4M1E?oc=5)
-
----
-
-### [Geschützt ab Geburt: Maternale Impfung gegen Pertussis](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3dDOXhTZzEwQnpORVRVRjZaUzhMNkE0bjZacTFtTlZodXJQamUyV3plNmRyYlowWW04Mjh0dUdhTmhzVHlFODFHQ3V0YXNvUk1tSmIya3pjMEdkYmxoUVFzTURVYzI4U21qcnpqT21aT2hIcGpQbTV3WjJKa0t6UmltMzE4SThwbjJyVEFlcWxEUHp0TmJTWnN3?oc=5)
-
-2026-03-19 <span class="news-indication-tag">AF</span>
-
-來源：[journalMED](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3dDOXhTZzEwQnpORVRVRjZaUzhMNkE0bjZacTFtTlZodXJQamUyV3plNmRyYlowWW04Mjh0dUdhTmhzVHlFODFHQ3V0YXNvUk1tSmIya3pjMEdkYmxoUVFzTURVYzI4U21qcnpqT21aT2hIcGpQbTV3WjJKa0t6UmltMzE4SThwbjJyVEFlcWxEUHp0TmJTWnN3?oc=5)
-
----
-
 ### [Vorhofflimmern: Multizentrische Studie im New England Journal of Medicine relativiert Nutzen des Vorhofohrverschlusses - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhMDNhcmhIYjg4ZDg4WXplRGNoREFxdmo2MFUtXzB3X0FkY2Jsd292cHZ2aEVZYUU0cDVjZVJRUEJTa1FVTW92N2RhZw?oc=5)
 
 2026-03-19 <span class="news-indication-tag">AF</span>
@@ -242,43 +194,19 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [France faces fury after 'disgracefully' withholding information on meningitis outbreak for 48 hours - GB News](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUjZjdUFpUGpROGkyemw0MDl3OC16eWt6R3ZpbE1GekVQeTFaU1hMN2RaU3YtTWpvT2dNa2dKb2w3MkZ2c3dlcEJkZ0dBeW1sZmgzUWRoeGM4UXpJLVduLU9UZTRDTDdvckRPaW5kM1lpVkxqR3R2SnZfYlJvakhJN0VDQW4yQQ?oc=5)
+### [Impfungen in der Schwangerschaft: Was wird empfohlen?](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUxzS0tReGtqTHpTT0lWVzdzRWY3VUtHaVhaNE9NdXFrRUhWTm9KTjNyV2hOTXM2c0prS1Y5Q3VOd3F1RjBiSjRETFhsTmZoWTZNNTlkeVBXN3hZZ0VMVGFJVlhKdzJ2WlhDSlMzRWY3bUpjMEc5RU9sTUloN0pzSHNQMHBIaFVud296Nmt4b0c?oc=5)
 
 2026-03-19 <span class="news-indication-tag">AF</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUjZjdUFpUGpROGkyemw0MDl3OC16eWt6R3ZpbE1GekVQeTFaU1hMN2RaU3YtTWpvT2dNa2dKb2w3MkZ2c3dlcEJkZ0dBeW1sZmgzUWRoeGM4UXpJLVduLU9UZTRDTDdvckRPaW5kM1lpVkxqR3R2SnZfYlJvakhJN0VDQW4yQQ?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUxzS0tReGtqTHpTT0lWVzdzRWY3VUtHaVhaNE9NdXFrRUhWTm9KTjNyV2hOTXM2c0prS1Y5Q3VOd3F1RjBiSjRETFhsTmZoWTZNNTlkeVBXN3hZZ0VMVGFJVlhKdzJ2WlhDSlMzRWY3bUpjMEc5RU9sTUloN0pzSHNQMHBIaFVud296Nmt4b0c?oc=5)
 
 ---
 
-### [Anal cancer: Woman left in pain six years after radiotherapy treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1SzBMcEswR3hwWkdNY0x4aGFCRjU4SkdDUmlSRzE3TnctaVBHMGRfLTlraEgzNkxkTmNETmJjUXQzY0JFUE1jY0lPeVJoa0R2NlRacThuRmxFSUl3?oc=5)
+### ['I thought I was dying after catching meningitis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45NXZ6NURSMEhVRnZ1SUlZMVQ5TU9pU0JvNzNERUhHSW9VZ0RCWjFNR2QzeE9Cdlg2bWYyaVdLSkdrc3p5US0yUHlBMnppd2w1bVVBMXpSbVlJZ2NF?oc=5)
 
-2026-03-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-03-19 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1SzBMcEswR3hwWkdNY0x4aGFCRjU4SkdDUmlSRzE3TnctaVBHMGRfLTlraEgzNkxkTmNETmJjUXQzY0JFUE1jY0lPeVJoa0R2NlRacThuRmxFSUl3?oc=5)
-
----
-
-### [Hirnfunktionen wiederhergestellt: Forscher reaktivieren tiefgefrorene Mäusehirne - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXFTLXJ4Wldtd3dFc2ZpblQwb2NyckVxNFhVVGlfczZYTk9DcHBRSGkwT1BhZVlEaVJtNUMwTjNzME14U1RvaEVmS05UTVpYd3g0XzAydnh0U2xQZmtXQ1BCS21TTWZ1U0dWQXRuVjBVTGdxVmZqZ2N5SVZWVjZ1QTE3dmQ1QTBBZEg5VnpUZ0FmZjJ1UHlVeWlIZEotMXM?oc=5)
-
-2026-03-18 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXFTLXJ4Wldtd3dFc2ZpblQwb2NyckVxNFhVVGlfczZYTk9DcHBRSGkwT1BhZVlEaVJtNUMwTjNzME14U1RvaEVmS05UTVpYd3g0XzAydnh0U2xQZmtXQ1BCS21TTWZ1U0dWQXRuVjBVTGdxVmZqZ2N5SVZWVjZ1QTE3dmQ1QTBBZEg5VnpUZ0FmZjJ1UHlVeWlIZEotMXM?oc=5)
-
----
-
-### [Magellansche Wolken: Ein Trümmerfeld im galaktischen Hinterhof - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkZEdVZEcHowYXN3bmhvWXFyYi1aTnAyb0NsS3NqRGlWUUY4RWdkeXk4M1VPUFBJVndoNXB6dnlxNlNnWElLNTUyNENNVkstZGRkSzl1anBSZFFsVnYycmtqSnFHWmtWS2xiQlJZcnJBdFItLW1tM1Rfd09NQ21pLS12UWJwdGctUDY4Z013Tjhfd0FaTGg1N1F5MndUdDA1?oc=5)
-
-2026-03-18 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkZEdVZEcHowYXN3bmhvWXFyYi1aTnAyb0NsS3NqRGlWUUY4RWdkeXk4M1VPUFBJVndoNXB6dnlxNlNnWElLNTUyNENNVkstZGRkSzl1anBSZFFsVnYycmtqSnFHWmtWS2xiQlJZcnJBdFItLW1tM1Rfd09NQ21pLS12UWJwdGctUDY4Z013Tjhfd0FaTGg1N1F5MndUdDA1?oc=5)
-
----
-
-### [ChatGPT did not cure a dog’s cancer - The Verge](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclEtZ2Y2S3lsWHBhUXROREdGN2ZJS1F2d1pGZFhNQzZPS0lLYnloS2ZOc2NWaDd5YU05QmVQOG9MTnVqT3huRFlUR3g0dkNxblhNa29BaHZfc3Z2a2xBbENVY1pHbkpJalJuX3JJUU9ya0tVVVdnbThGb05sVFRSaW1iUVRnb244UGJZQ252clFwV0t6RkE?oc=5)
-
-2026-03-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Verge](https://news.google.com/rss/articles/CBMilgFBVV95cUxQclEtZ2Y2S3lsWHBhUXROREdGN2ZJS1F2d1pGZFhNQzZPS0lLYnloS2ZOc2NWaDd5YU05QmVQOG9MTnVqT3huRFlUR3g0dkNxblhNa29BaHZfc3Z2a2xBbENVY1pHbkpJalJuX3JJUU9ya0tVVVdnbThGb05sVFRSaW1iUVRnb244UGJZQ252clFwV0t6RkE?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45NXZ6NURSMEhVRnZ1SUlZMVQ5TU9pU0JvNzNERUhHSW9VZ0RCWjFNR2QzeE9Cdlg2bWYyaVdLSkdrc3p5US0yUHlBMnppd2w1bVVBMXpSbVlJZ2NF?oc=5)
 
 ---
 
