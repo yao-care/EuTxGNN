@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Hypertension artérielle : ce trait de caractère qui se dérègle en secret et trahit un risque pour votre cœur - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm9VM2xrRVJzcld1RmM0eTVNTnJILTZlemtBSXJBZVg0anVMM2dsZ3Rlb2ZUQlVycVE3Vl9sbUNyRXhUUjR0a3FxcURDYnY2Sm5JemJVSVJzaEprMHRwRjlRcmFvQmJPbnNTUE5wSVE3M0NhcDVJb01QQVdWYnpfR0haSTh5TGEtXy10bVd4Yy1NazhVTHZGdlhUMk9tZTlGb2hYOVlTYTVXdDJmdlp4OFVNQUt5Z3JVdUlNMzNyRlN3cXRkVDhuU0FsTms0NklTa3RnOTZmUGVVSkFZVzJfUTBKcVNua0g1TlNqYnFB?oc=5)
 
@@ -55,14 +55,6 @@ permalink: /news/telmisartan/
 2026-03-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9jS3ZlLVA4ZW1HT0laRzdNQUNZUFV5VHRNWGxqLThqS0lfTTJla1VRbFVrclhjdksyaklhX3lHSzRoTFk5UXNrZlhpTExIYVVLaktxUmhHdE9JYzBoQXhiVFQzMHFkU2FiOU1vOW9DU0xQVHFXMzlQMmp5WFJNdUFvUmI4MXBRTXRrN19Ea2FIaElPMVdqdVkwUW4wZ3I2ODQtQ3dkU2J3LWgzMUZ0WtIBtgFBVV95cUxOcjNFZFJJdGdKcUhkOVFfeWJ2RUd1ZkpDdXdoVEViU05xOGJFX1h6NnY2NDVCaTFWd2NrRm5xMkdsZkVLazh4djFOaE5qY09xTjJ5Y2piQmo0R0hhNldSWndialVzRFJKdERWWExlSHZYeXF1NDY1X2N6RDNXSDI3RUVVV3BxazRld1U3T3NPSUZEQ3dYOGp2M2xzV1ZvSzFZbjhBeFg2MXUtdHg2VnVzQ25FTjJ4UQ?oc=5)
-
----
-
-### [Nuove linee guida anticipano la terapia anti-colesterolo e ampliano la prevenzione cardiovascolare primaria - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGRhdlNmMEh6eWw4R3g4TlJpUDJPVkVnVUdUalhrbVZvWU1KM04xWW4yM3VBNEdvR1ZickprN004Yk5rekR0TFhJOXBrdzVXcG9NMTJRQlNiMVBvN194N0c5MXhSem1EMXQ4R25XckFYajA1WlNTQkNYdmQ0TFJHc2dqejV5b3doRFB2c2N4QlpUNmZSR2JQU21lSVhfT2tpMGtzYjhpYw?oc=5)
-
-2026-03-19 <span class="news-indication-tag">ictus</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGRhdlNmMEh6eWw4R3g4TlJpUDJPVkVnVUdUalhrbVZvWU1KM04xWW4yM3VBNEdvR1ZickprN004Yk5rekR0TFhJOXBrdzVXcG9NMTJRQlNiMVBvN194N0c5MXhSem1EMXQ4R25XckFYajA1WlNTQkNYdmQ0TFJHc2dqejV5b3doRFB2c2N4QlpUNmZSR2JQU21lSVhfT2tpMGtzYjhpYw?oc=5)
 
 ---
 

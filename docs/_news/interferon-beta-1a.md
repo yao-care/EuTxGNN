@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（16 則）
+
+### [Neapel meldet Anstieg von Hepatitis-A-Fällen](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWVHREFZVnVSaHdiT1BoQTZ4b0s1VlRhNXJnSF8xR1ZHT2Vja3RrRlhJcjRZNGxONGxfaUVDWHdGMm9UUU9GNFhTaGpkaFQtem1OU01SOF9KWkdiUEljajVfMkI3eW92S2E5UmlmYjR4OGtZLU5jUnhWd21LX3lPOWxvY1FCMDZlZS1XckR2a1l4U2JGdGJka3FNc0VXdEZrUmc?oc=5)
+
+2026-03-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[BR](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWVHREFZVnVSaHdiT1BoQTZ4b0s1VlRhNXJnSF8xR1ZHT2Vja3RrRlhJcjRZNGxONGxfaUVDWHdGMm9UUU9GNFhTaGpkaFQtem1OU01SOF9KWkdiUEljajVfMkI3eW92S2E5UmlmYjR4OGtZLU5jUnhWd21LX3lPOWxvY1FCMDZlZS1XckR2a1l4U2JGdGJka3FNc0VXdEZrUmc?oc=5)
+
+---
+
+### [Die tödliche Arithmetik: Wie Mario der Droge Heroin entkam – und was Gmünd damit zu tun hat](https://news.google.com/rss/articles/CBMilwJBVV95cUxNREI0cW5pQ0ZMLU9MdURmbkJ5Tllhc3dCMVpHem5IOTBlM3ZDX0xrZUVRNW0yRHZhTVdYZXVfdmVnbW1rMkIzMVBGc01hb1ZkMF94UGxpT3B2NXFOWXEwa0ZaZ2x1MG1HLW15SXBVUDdhN1BhbDRQQXFCMGFSVGRYbmEwelNrbXJJSTF6NHoxX1RidGNuQ0h6clZRVk4tLS05VXRRV0JVa2dJUlFtNUdjMWtDYU5vR093TFBVWTRaWS04SmYwUVg1Z2l0YlNYWUlSRUdBbHdmY0hwNW9jRUlLR1AtNVBsbWVicWJWazZUa19uOVBMT3JJZUN1R3JxRkhBM0Z4Z0tRX3FoVU10TUdtYkdydzhYSEXSAbMCQVVfeXFMTUdWTFQ5Q2NYUjBnMTI1OGxRTG9UcWZOeGV3cVNyOE1HWG82VzFfYWpyQXJXaUVIVTJlN1ZndUtBb1JQZVFudDFvVHJrUU5SVzZMTllTSm5lSTJvd1VTd3lSUW4zV0laLTR2eHpFOTY0WGhNTk51NWZ2a0RvNlZKdExCQkFDMUxfd1JDOUhvTTJpOG5uTlpTLWhBOE9RZDAzRlF5bFdER2hPRnVIYk1DVUdUbnE3Ym81Z3czTmxOX0hGUldMSFZ6bjlkdkNIZGRpLVFUNGswamdKVGM2Vk5mb0pnaUNjUDJXQlN5YTNiS0hPWW1IQk5EYnh5aVVaaW54Q19zaWN5Ym9VZHczUlEtMXFFVF9NeF9XRW9xLV9yT3R5R1d2cktFb01EeU1FY01oQVhkYw?oc=5)
+
+2026-03-21 <span class="news-indication-tag">MS</span>
+
+來源：[Rems-Zeitung](https://news.google.com/rss/articles/CBMilwJBVV95cUxNREI0cW5pQ0ZMLU9MdURmbkJ5Tllhc3dCMVpHem5IOTBlM3ZDX0xrZUVRNW0yRHZhTVdYZXVfdmVnbW1rMkIzMVBGc01hb1ZkMF94UGxpT3B2NXFOWXEwa0ZaZ2x1MG1HLW15SXBVUDdhN1BhbDRQQXFCMGFSVGRYbmEwelNrbXJJSTF6NHoxX1RidGNuQ0h6clZRVk4tLS05VXRRV0JVa2dJUlFtNUdjMWtDYU5vR093TFBVWTRaWS04SmYwUVg1Z2l0YlNYWUlSRUdBbHdmY0hwNW9jRUlLR1AtNVBsbWVicWJWazZUa19uOVBMT3JJZUN1R3JxRkhBM0Z4Z0tRX3FoVU10TUdtYkdydzhYSEXSAbMCQVVfeXFMTUdWTFQ5Q2NYUjBnMTI1OGxRTG9UcWZOeGV3cVNyOE1HWG82VzFfYWpyQXJXaUVIVTJlN1ZndUtBb1JQZVFudDFvVHJrUU5SVzZMTllTSm5lSTJvd1VTd3lSUW4zV0laLTR2eHpFOTY0WGhNTk51NWZ2a0RvNlZKdExCQkFDMUxfd1JDOUhvTTJpOG5uTlpTLWhBOE9RZDAzRlF5bFdER2hPRnVIYk1DVUdUbnE3Ym81Z3czTmxOX0hGUldMSFZ6bjlkdkNIZGRpLVFUNGswamdKVGM2Vk5mb0pnaUNjUDJXQlN5YTNiS0hPWW1IQk5EYnh5aVVaaW54Q19zaWN5Ym9VZHczUlEtMXFFVF9NeF9XRW9xLV9yT3R5R1d2cktFb01EeU1FY01oQVhkYw?oc=5)
+
+---
 
 ### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
@@ -50,11 +66,35 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Fruktose kann die Nieren dauerhaft belasten - Forschung und Wissen](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUU9KMERMRnRmeGVLeUp3c3FkTkoyS2EtMGJhME9RVXZTUG5YdEZ3ZktZYkpvWXNfY2FQU0dKU0pkTFcwWFVfeFFfcTY3TFNzdU9UQWRPRkxIZHhJbHlySGt1MEt3c2J5QUN2V3pTM09OcXd4MXAzeG14bVlRYk4wZE81c043alhyaTZ6UDRvWHFFS19TMWpoRl9HcVhJeVBNcDUwQ2VxVTVsc2pENFE?oc=5)
+
+2026-03-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUU9KMERMRnRmeGVLeUp3c3FkTkoyS2EtMGJhME9RVXZTUG5YdEZ3ZktZYkpvWXNfY2FQU0dKU0pkTFcwWFVfeFFfcTY3TFNzdU9UQWRPRkxIZHhJbHlySGt1MEt3c2J5QUN2V3pTM09OcXd4MXAzeG14bVlRYk4wZE81c043alhyaTZ6UDRvWHFFS19TMWpoRl9HcVhJeVBNcDUwQ2VxVTVsc2pENFE?oc=5)
+
+---
+
 ### ['I hid my symptoms out of embarrassment - then needed life-saving surgery'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNZ0pjQlFKdWxGN2lEb3lybnFSNFVOdy1ocDJ6Rk9nMGpDNldkLWZweElPaWVDU3pzSGIyak1JMWpHRGNQbHhfWkVBN2JEdzhfZjJGMUxBcm1DTXh3?oc=5)
 
 2026-03-20 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNZ0pjQlFKdWxGN2lEb3lybnFSNFVOdy1ocDJ6Rk9nMGpDNldkLWZweElPaWVDU3pzSGIyak1JMWpHRGNQbHhfWkVBN2JEdzhfZjJGMUxBcm1DTXh3?oc=5)
+
+---
+
+### [Chemsex : six morts identifiés par l’Institut médical de Tours en 2025](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2lEQzFZakp6cnVOcDdsSkNtc1M4SkJRLU9lekFSaVFFcjJtd1lVUVZZS1kxbi1BdmNBLTF5SFJpT2hOU2haUkIzdlN6YTJDeERyckFZZ2RRS0VqM3h1SFFFejJrSlhQWkhhb3d1UjRBVEtfUEVPY3ZlWGRacE04Rm8yZWNUUmFyZ0s1ZmJ0N0d2MzlaU3FsMXg3NVNXa1E3Qm9keW1XUmdYTFZmX3ZsODZ4TEVMdUpIVU1ZMUtR?oc=5)
+
+2026-03-20 <span class="news-indication-tag">MS</span>
+
+來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2lEQzFZakp6cnVOcDdsSkNtc1M4SkJRLU9lekFSaVFFcjJtd1lVUVZZS1kxbi1BdmNBLTF5SFJpT2hOU2haUkIzdlN6YTJDeERyckFZZ2RRS0VqM3h1SFFFejJrSlhQWkhhb3d1UjRBVEtfUEVPY3ZlWGRacE04Rm8yZWNUUmFyZ0s1ZmJ0N0d2MzlaU3FsMXg3NVNXa1E3Qm9keW1XUmdYTFZmX3ZsODZ4TEVMdUpIVU1ZMUtR?oc=5)
+
+---
+
+### [BBC Sport presenter reveals meningitis battle left her in coma after mum spotted crucial symptom - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzRNdW1TNXJMWjUwYmszUTBMcWk4V1NiZGIyTkVFTXhsMlhpMGVnUEtDZzEtUHN4UlpZcWhkNy1PN0VwY0NTV2ZzQjRET2YtNlpoa2xuWHJtZ2tPTmNPX1BQSUx6QUNRUWZVWmUwTHFOcU1mdHlKRUlWX04xUkd3clRDNWstZw?oc=5)
+
+2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzRNdW1TNXJMWjUwYmszUTBMcWk4V1NiZGIyTkVFTXhsMlhpMGVnUEtDZzEtUHN4UlpZcWhkNy1PN0VwY0NTV2ZzQjRET2YtNlpoa2xuWHJtZ2tPTmNPX1BQSUx6QUNRUWZVWmUwTHFOcU1mdHlKRUlWX04xUkd3clRDNWstZw?oc=5)
 
 ---
 
@@ -74,14 +114,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Hepatitis-A-Ausbruch in Neapel: Stadt verbietet rohe Meeresfrüchte – drastische Strafen drohen](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkdkYS1yQU10M3hvWnNXVWhlT0NhUU1odVkzWUxPX3J2M0JsTFhmTnhTcXR1dHc2aDBxcFNTejl2ZTY4cy1ObnJkeGVfQTNWYTRhMUxsbzltb25pdEwtVUVIZ01qNmRDZlN6S2JDLXdkYmhCRmhSRDVxMUhsaGFKZmw0Y3dQV1VaZW9fX2MwRDgwWEladlJsZ2taOGZTdTdDdzZReGNuMkQ4eml2dS1WZkp6YzhFM09MUi0wczVhaXR6QVVZY0Q0cklGVmxwb3BtSWdHcVRwS3E2S284cnhGSnlyYw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[verbraucherschutzforum.berlin](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkdkYS1yQU10M3hvWnNXVWhlT0NhUU1odVkzWUxPX3J2M0JsTFhmTnhTcXR1dHc2aDBxcFNTejl2ZTY4cy1ObnJkeGVfQTNWYTRhMUxsbzltb25pdEwtVUVIZ01qNmRDZlN6S2JDLXdkYmhCRmhSRDVxMUhsaGFKZmw0Y3dQV1VaZW9fX2MwRDgwWEladlJsZ2taOGZTdTdDdzZReGNuMkQ4eml2dS1WZkp6YzhFM09MUi0wczVhaXR6QVVZY0Q0cklGVmxwb3BtSWdHcVRwS3E2S284cnhGSnlyYw?oc=5)
-
----
-
 ### [Hormontherapie in Wechseljahren offenbar nicht mit erhöhtem Sterberisiko verbunden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY2YxbGh1SU83RTRYaXNzeE5RUHFxZ3lueENhUU1DUVlpMHFEbEZvU0wtZEVULWhPb3hKRmR3QVZrQlFrZXZtd0Nwc0lxdFh2ck1pbWQxTG1FT2ozQ2ltR0ZLNFhfQ1NSQnJLYXhpRWNuOFdDTExZUktoeUc3TXI5dDdoRzNjRE5KdXh0SmxudUFTeUViemVNTTVLOUxMeWYya080YTlQRVZPUzdFSzZUd1dVTlVDUUgteUdGVXJNVXFRUmdYZHZLSzJiT1FmQnJnRF9fSXNJY0JqSHFfZkg3czlmS2ljdw?oc=5)
 
 2026-03-20 <span class="news-indication-tag">MS</span>
@@ -95,6 +127,14 @@ permalink: /news/interferon-beta-1a/
 2026-03-20 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3hDXzRlYmJIbzhSRE1DWC0yMFdLVE5jVlEydXJEV3M0Sk12LVNRT0U1QTFLZ3BOVmVPRWNFbFR4bnNEd3R4Y2YxcHhDb0haeUdiWXA2cnU2STVzcG1KNzcwMEpSRHBZZ05vaEJBMTRmbmZxRkp3MGc1dG4ta3pPQmx6aC1XaEtYMGNYTTh6SXhDOFdHbUxJRnAwaG5wTzZMZGxlSHdSNy0zaVBmOWhPRVR4ZzJpNGRILWFlOUI3dlVtUmpGMC1JdS1HY3VRZTFP?oc=5)
+
+---
+
+### [A man used AI to help make a cancer vaccine for his dog – an oncologist urges caution - The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdVLWNaM1AxSTJUdHdOS3hQMVJ6Nmx5TGNkZEFtbEZRbmI0VGpPUWN0Zmtjb2V2Y2tWZGZrZ0xZQ2ZTV1NBU0VyNlZhd2x3bnNwbWo4Y1cwNWN1ZTBVVE1IUWhSVUhiMGVPU1RJN0RjZFlQWHhHcGpWeVdIcHp0UEdzWDNfMHFWM3RCakpQUmNOSTlOWVdQMzQ4Y09zTjVfRmgwTm1MeGpqWXIyeldkbU9KeDJjN3N1eGc?oc=5)
+
+2026-03-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdVLWNaM1AxSTJUdHdOS3hQMVJ6Nmx5TGNkZEFtbEZRbmI0VGpPUWN0Zmtjb2V2Y2tWZGZrZ0xZQ2ZTV1NBU0VyNlZhd2x3bnNwbWo4Y1cwNWN1ZTBVVE1IUWhSVUhiMGVPU1RJN0RjZFlQWHhHcGpWeVdIcHp0UEdzWDNfMHFWM3RCakpQUmNOSTlOWVdQMzQ4Y09zTjVfRmgwTm1MeGpqWXIyeldkbU9KeDJjN3N1eGc?oc=5)
 
 ---
 
@@ -114,19 +154,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Gut microbiome thrives on fiber—tapeworms confirm it - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qN0J1aWNMcEc5ajlEbmFxcnplODc4QnZlVm1ZMTlqZjlWVnpyb3F3eTNVeHZNX052blFBZzVRVXFwWFM0OGJ1bXdCbFp1SEVCMUlteGcycjVndTNPUjk1UGJfTThrU0dJM2RESjZ2LW1UTTR5UGhiei1fWUdCbHM?oc=5)
+
+2026-03-19 <span class="news-indication-tag">MS</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5qN0J1aWNMcEc5ajlEbmFxcnplODc4QnZlVm1ZMTlqZjlWVnpyb3F3eTNVeHZNX052blFBZzVRVXFwWFM0OGJ1bXdCbFp1SEVCMUlteGcycjVndTNPUjk1UGJfTThrU0dJM2RESjZ2LW1UTTR5UGhiei1fWUdCbHM?oc=5)
+
+---
+
 ### [Dr Jonathan White: A life-changing discovery about my MS - Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHNQT1B0M0QtS2Q0M0hQS0oxYXFIcVB1WFphNEZ1TEE1a3pQcmpObkpNcXY3MUpjNUJBNkJ6MktsZk1ZcEZvUHhENFBLMDY3MTB3aTZDNVhYYU1Nd2l5Z0tmWDZUa3hUSmhvbEI5OXRkeXRiRGVhQl9idkxSc2FwTEk1TVFpLURaaWZYRXVzX1lPSXRNLWFxTEQxWDMtbzRLSVNfSjJicVVVdzlXdFpSTw?oc=5)
 
 2026-03-19 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHNQT1B0M0QtS2Q0M0hQS0oxYXFIcVB1WFphNEZ1TEE1a3pQcmpObkpNcXY3MUpjNUJBNkJ6MktsZk1ZcEZvUHhENFBLMDY3MTB3aTZDNVhYYU1Nd2l5Z0tmWDZUa3hUSmhvbEI5OXRkeXRiRGVhQl9idkxSc2FwTEk1TVFpLURaaWZYRXVzX1lPSXRNLWFxTEQxWDMtbzRLSVNfSjJicVVVdzlXdFpSTw?oc=5)
-
----
-
-### [PMS: Kombi aus Vitamin D und E zur Linderung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
-
-2026-03-19 <span class="news-indication-tag">MS</span>
-
-來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMie0FVX3lxTE54c0NQWGxHVm5ZazAzVTRKWE9HeHNwWEcxZTJadkNCUzZPY19pbTk5NzhSbEZfUWtjRFYzTE9TQ1RMNHBPY3NXM2dMQ3FFNWFJRXFZaGdKbF95TGh1SVJTdmZUSWhCMVZ3a1lnVDdBLUJYX01ycjVWbXpDcw?oc=5)
 
 ---
 

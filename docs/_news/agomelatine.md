@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [AAH et retraite : cette condition peut tout changer pour vos revenus en 2026 - Modes et travaux](https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFNTVHBDMHhCXzVMaVhibHd3S2lhVmVFS2xkS05CX1dENmJhSHBISEltenNsNEtoeGdNc1JReTFQQndUa1BYTUFLbDFZMTFoN0hmTVk2N2c1YmhrQzYzaFByWi03TmhFelY1aGUyc0FsbHZ1U2ltNGlDWUh1NGt1V2hHRTk4bnRSV0lHaWZfcE9WaEZnV3B3SUg2Z1NhWG1neVQ4YmcwVXFKUDlENl8td2NyTnBLTDFTZTExZVBONnZGQnBNa2FjSnc5ZlJrdw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
-
-來源：[Modes et travaux](https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFNTVHBDMHhCXzVMaVhibHd3S2lhVmVFS2xkS05CX1dENmJhSHBISEltenNsNEtoeGdNc1JReTFQQndUa1BYTUFLbDFZMTFoN0hmTVk2N2c1YmhrQzYzaFByWi03TmhFelY1aGUyc0FsbHZ1U2ltNGlDWUh1NGt1V2hHRTk4bnRSV0lHaWZfcE9WaEZnV3B3SUg2Z1NhWG1neVQ4YmcwVXFKUDlENl8td2NyTnBLTDFTZTExZVBONnZGQnBNa2FjSnc5ZlJrdw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Lo dice la ciencia y es ley, este es el alimento que produce la felicidad: "Consumirlo de forma regular disminuye el riesgo de depresión y produce las hormonas del bienestar" - Men's Health](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcW1MTFpBNVZ2NkR6ejlvZ1lHRVpwVWZmYnBDRktsNlotZ1h6RENiWFo2alFzUURyY3hmc2FWaTZNbENvZDE4czExZW9jbGhYa21iNWZydzJ2ZTZ3djlaZlVTSGtLODJDYkpHVnBKWTE4X3ZZSHY5bzVvUFFJSlZtb2I1YUlUNktGbTVweGdULS1rQkRjcmRmdUFGcmVxNVBrZGtQTUNMZG9adw?oc=5)
 

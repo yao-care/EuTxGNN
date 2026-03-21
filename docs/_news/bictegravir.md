@@ -42,27 +42,27 @@ permalink: /news/bictegravir/
 
 ## 相關新聞（4 則）
 
+### [Neapel meldet Anstieg von Hepatitis-A-Fällen](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWVHREFZVnVSaHdiT1BoQTZ4b0s1VlRhNXJnSF8xR1ZHT2Vja3RrRlhJcjRZNGxONGxfaUVDWHdGMm9UUU9GNFhTaGpkaFQtem1OU01SOF9KWkdiUEljajVfMkI3eW92S2E5UmlmYjR4OGtZLU5jUnhWd21LX3lPOWxvY1FCMDZlZS1XckR2a1l4U2JGdGJka3FNc0VXdEZrUmc?oc=5)
+
+2026-03-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[BR](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWVHREFZVnVSaHdiT1BoQTZ4b0s1VlRhNXJnSF8xR1ZHT2Vja3RrRlhJcjRZNGxONGxfaUVDWHdGMm9UUU9GNFhTaGpkaFQtem1OU01SOF9KWkdiUEljajVfMkI3eW92S2E5UmlmYjR4OGtZLU5jUnhWd21LX3lPOWxvY1FCMDZlZS1XckR2a1l4U2JGdGJka3FNc0VXdEZrUmc?oc=5)
+
+---
+
+### [Epatite A, cosa fare per prevenirla. L'esperto: “Con le giuste precauzioni, il virus si può evitare” - la Repubblica](https://news.google.com/rss/articles/CBMingFBVV95cUxPVjRMUzB2ejhhVGRUUmNpM0ljQndJVGtSQmhEVHRvdlZlUnZfcHRfUkJ2eWFvZ0p3NWFDNlh1WmNpUE9Gb2VYbWpKaTdsdHVBZmE1TUJkdnZwQTVqMWVLUnR1R2xxWUJzQzJFNDlDMUdFSkpmVG4tSllVZkg4Q0p3anhYYjBpeE5BQ1hEVWhfMms0alQ4UVlBWTJBQVZ5d9IBowFBVV95cUxQSGFkNktqcV9WV0ppdUVLUEkxWHZjMmtqalJtMFFvS1NDUnRYOXdJRzhPaWFaVEtsS190RmZQTzhIbE1mdEhZdGFneUwxQklLaWRPeGhjbEt4Y3ZfRWFQY3FsQ3lUYjI0VkRObGpidU1iU1ZST3lvUl9EaEpvcm1qLUVPX2NkRHlWcXgtTFR3QXU5N05mYkV4RW55eE9FMFo3S1M0?oc=5)
+
+2026-03-21 <span class="news-indication-tag">epatite</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMingFBVV95cUxPVjRMUzB2ejhhVGRUUmNpM0ljQndJVGtSQmhEVHRvdlZlUnZfcHRfUkJ2eWFvZ0p3NWFDNlh1WmNpUE9Gb2VYbWpKaTdsdHVBZmE1TUJkdnZwQTVqMWVLUnR1R2xxWUJzQzJFNDlDMUdFSkpmVG4tSllVZkg4Q0p3anhYYjBpeE5BQ1hEVWhfMms0alQ4UVlBWTJBQVZ5d9IBowFBVV95cUxQSGFkNktqcV9WV0ppdUVLUEkxWHZjMmtqalJtMFFvS1NDUnRYOXdJRzhPaWFaVEtsS190RmZQTzhIbE1mdEhZdGFneUwxQklLaWRPeGhjbEt4Y3ZfRWFQY3FsQ3lUYjI0VkRObGpidU1iU1ZST3lvUl9EaEpvcm1qLUVPX2NkRHlWcXgtTFR3QXU5N05mYkV4RW55eE9FMFo3S1M0?oc=5)
+
+---
+
 ### [Pediatría en España propone cambios en el calendario vacunal ante el repunte de sarampión, hepatitis A y meningococo B - La Web de la Salud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM25VRnplMWZNOFFnMk9WQTRrNFk2dmVQWmg0SThYaFBSZ0tYaFFsMzkwMndmNHlSVHFkSFlkcjdOZmhINWQwQkRwWHBaYWJnTURIWWJKdU8yQVVYNm1hQUZCRm5MLVc2YVJRd29BTjliUk9FUnVmcWdydHJOVDFCZURmT1UxMUhiOUtvTko5bkZtZ1l6ZC0wWG80OU1pa2JNeTF3RU02YTRWTF9ULTRGb2Ntc0NCUWw4VGk3bjN0aFhBRXRyY2FtSWFHLXlxVWtzeW1WbWdDdTVXQmRpMWc?oc=5)
 
 2026-03-20 <span class="news-indication-tag">hepatitis</span>
 
 來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM25VRnplMWZNOFFnMk9WQTRrNFk2dmVQWmg0SThYaFBSZ0tYaFFsMzkwMndmNHlSVHFkSFlkcjdOZmhINWQwQkRwWHBaYWJnTURIWWJKdU8yQVVYNm1hQUZCRm5MLVc2YVJRd29BTjliUk9FUnVmcWdydHJOVDFCZURmT1UxMUhiOUtvTko5bkZtZ1l6ZC0wWG80OU1pa2JNeTF3RU02YTRWTF9ULTRGb2Ntc0NCUWw4VGk3bjN0aFhBRXRyY2FtSWFHLXlxVWtzeW1WbWdDdTVXQmRpMWc?oc=5)
-
----
-
-### [Hepatitis-A-Ausbruch in Neapel: Stadt verbietet rohe Meeresfrüchte – drastische Strafen drohen](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkdkYS1yQU10M3hvWnNXVWhlT0NhUU1odVkzWUxPX3J2M0JsTFhmTnhTcXR1dHc2aDBxcFNTejl2ZTY4cy1ObnJkeGVfQTNWYTRhMUxsbzltb25pdEwtVUVIZ01qNmRDZlN6S2JDLXdkYmhCRmhSRDVxMUhsaGFKZmw0Y3dQV1VaZW9fX2MwRDgwWEladlJsZ2taOGZTdTdDdzZReGNuMkQ4eml2dS1WZkp6YzhFM09MUi0wczVhaXR6QVVZY0Q0cklGVmxwb3BtSWdHcVRwS3E2S284cnhGSnlyYw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[verbraucherschutzforum.berlin](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkdkYS1yQU10M3hvWnNXVWhlT0NhUU1odVkzWUxPX3J2M0JsTFhmTnhTcXR1dHc2aDBxcFNTejl2ZTY4cy1ObnJkeGVfQTNWYTRhMUxsbzltb25pdEwtVUVIZ01qNmRDZlN6S2JDLXdkYmhCRmhSRDVxMUhsaGFKZmw0Y3dQV1VaZW9fX2MwRDgwWEladlJsZ2taOGZTdTdDdzZReGNuMkQ4eml2dS1WZkp6YzhFM09MUi0wczVhaXR6QVVZY0Q0cklGVmxwb3BtSWdHcVRwS3E2S284cnhGSnlyYw?oc=5)
-
----
-
-### [Napoli, aumento dei casi di epatite A: vietato il pesce crudo](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd290dHFNUGN3TGkxS0NIN2ZXdTdlS05tbzRyUVFPeE1zZkx1NmplbmJMWjZwZlBQSTJrSXhfRndFRkNPLXNOSGplZG42V0VpWnpxREdjMklwVEk0Yy1aWDZ4eXdHS0tIYUZJQ2swRlJ0b3FCNHg3Q3ZIWFJEckxhYXNtcy0xdjNsMWZ6dHFwdkhUUQ?oc=5)
-
-2026-03-20 <span class="news-indication-tag">epatite</span>
-
-來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd290dHFNUGN3TGkxS0NIN2ZXdTdlS05tbzRyUVFPeE1zZkx1NmplbmJMWjZwZlBQSTJrSXhfRndFRkNPLXNOSGplZG42V0VpWnpxREdjMklwVEk0Yy1aWDZ4eXdHS0tIYUZJQ2swRlJ0b3FCNHg3Q3ZIWFJEckxhYXNtcy0xdjNsMWZ6dHFwdkhUUQ?oc=5)
 
 ---
 
