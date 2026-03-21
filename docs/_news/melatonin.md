@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Something in Python Blood Could Be The Future of Weight Loss](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcndhTHlQNjgyMzBNSjZTejVUWHdzamwwbUp6RlNkVGIxMi1YY0pVZktHT0U4Q1NYdk9jYmh3V25IZlA5UTZMSUZuR0xjeUtSb2xQNzBwRk1yTlNHRTJtbWtmOXhVV1lLMkh4VXlNb1JFX1FYc3FkOHJaMEdnWkhoOU5EZXdpMkViZ1pqOTMzcnozUTQ?oc=5)
 
@@ -55,14 +55,6 @@ permalink: /news/melatonin/
 2026-03-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">epatite</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
-
----
-
-### [La sanidad privada refuerza su papel frente a la cronicidad causada por la obesidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjdMZEEtemNubVZnb0tuNFgyQUlFcXFMTUQ0bjExRkdSdDhsdURkajFvMVllOUQyUnBqQi1Zal9CTV9sVGpFeC0zajZjZldIenptaEpGcTgxa2NaTUJ3NmhUTzJ5S1RsaVRhLXNpVXlLUFk3Rm1KdmJfckZISHlGblliWUM0dlRvYmRVTTFLU3c1aGhNVUdZUUpkNFpPUjZtWWx5VlRWQ1ptdkloZFplc2YtaElqTEkwMmRVUEJhLXDSAbsBQVVfeXFMTldzNVUtRXpVVzRLQzdXMzF5NlRsdWdlMHAzSkdwZkswa2l1WlMwNjJZUS1fRlN3MGRVZnBOZHhYc1Q0MjNXZnBlbkNoV3ZyMm5xNG02a1c1VTU1M1NrSDVMU25VOEF3MG8zUDRpV3BKaEk2ODhJVjRqQUM3WUcxdFRUUEotRUdTSXNtczdINkRtVGhzWGdLT1k2QU1EcldEX3piWkNNNHlmWTNDS1NzYlN0OWNNQmNEcVM3QQ?oc=5)
-
-2026-03-19 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjdMZEEtemNubVZnb0tuNFgyQUlFcXFMTUQ0bjExRkdSdDhsdURkajFvMVllOUQyUnBqQi1Zal9CTV9sVGpFeC0zajZjZldIenptaEpGcTgxa2NaTUJ3NmhUTzJ5S1RsaVRhLXNpVXlLUFk3Rm1KdmJfckZISHlGblliWUM0dlRvYmRVTTFLU3c1aGhNVUdZUUpkNFpPUjZtWWx5VlRWQ1ptdkloZFplc2YtaElqTEkwMmRVUEJhLXDSAbsBQVVfeXFMTldzNVUtRXpVVzRLQzdXMzF5NlRsdWdlMHAzSkdwZkswa2l1WlMwNjJZUS1fRlN3MGRVZnBOZHhYc1Q0MjNXZnBlbkNoV3ZyMm5xNG02a1c1VTU1M1NrSDVMU25VOEF3MG8zUDRpV3BKaEk2ODhJVjRqQUM3WUcxdFRUUEotRUdTSXNtczdINkRtVGhzWGdLT1k2QU1EcldEX3piWkNNNHlmWTNDS1NzYlN0OWNNQmNEcVM3QQ?oc=5)
 
 ---
 

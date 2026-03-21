@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [El error "que muchos cometen con el ibuprofeno" del que alerta un agente de emergencias - Noticias de Navarra](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQlc2QlZzcGdIcm11WHo3ek9uMTZ6cmR2WGFIXzJPT2pfemhfeHlSNjRfemhpMENsTGJmbV95WWpBbHBrdTFQQVJ3QjVUUzI5MzNTSklFeDQ3TGh1SzBKZ3M1VGU2MTFlbTdmbkxxZzBKUjFjbFBLQXZKT2xKM3NfdFFUbFpqRVZQRTRHeThCMlB3TXJNQWF6ZVQ1amd5RDZSTnp1Qy1QcGRvYm4zMkVxLVRDRWVrUkJLWGU4VFlIZ9IBxAFBVV95cUxPNTFaNmptRjdzdjIwU01PVlpfSkxwODF6bFFydWtOWEVKVVItaFhVU0JGUTVHaFlJQmFyajFsWVhJQWxpbFE2S2xHZlpDR3c0YVM5WWJEYXA3amdRZ2M4b2VKbEktWWFwQUx3a1FzY0JuaF9JVnFtbmxnNzdreUNSQXBPQXNnU1NpQThWQ2M3TE1hd1JQYTdlOFZKWVVNemRDSjVna2JYRkNUcjRzRmpYLUpGNERWWjY5V3dvWHNLRDlrMlRK?oc=5)
+
+2026-03-21 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQlc2QlZzcGdIcm11WHo3ek9uMTZ6cmR2WGFIXzJPT2pfemhfeHlSNjRfemhpMENsTGJmbV95WWpBbHBrdTFQQVJ3QjVUUzI5MzNTSklFeDQ3TGh1SzBKZ3M1VGU2MTFlbTdmbkxxZzBKUjFjbFBLQXZKT2xKM3NfdFFUbFpqRVZQRTRHeThCMlB3TXJNQWF6ZVQ1amd5RDZSTnp1Qy1QcGRvYm4zMkVxLVRDRWVrUkJLWGU4VFlIZ9IBxAFBVV95cUxPNTFaNmptRjdzdjIwU01PVlpfSkxwODF6bFFydWtOWEVKVVItaFhVU0JGUTVHaFlJQmFyajFsWVhJQWxpbFE2S2xHZlpDR3c0YVM5WWJEYXA3amdRZ2M4b2VKbEktWWFwQUx3a1FzY0JuaF9JVnFtbmxnNzdreUNSQXBPQXNnU1NpQThWQ2M3TE1hd1JQYTdlOFZKWVVNemRDSjVna2JYRkNUcjRzRmpYLUpGNERWWjY5V3dvWHNLRDlrMlRK?oc=5)
+
+---
 
 
 <div class="disclaimer">

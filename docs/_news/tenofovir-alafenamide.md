@@ -42,11 +42,19 @@ permalink: /news/tenofovir-alafenamide/
 
 ## 相關新聞（4 則）
 
-### [Neapel meldet Anstieg von Hepatitis-A-Fällen](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWVHREFZVnVSaHdiT1BoQTZ4b0s1VlRhNXJnSF8xR1ZHT2Vja3RrRlhJcjRZNGxONGxfaUVDWHdGMm9UUU9GNFhTaGpkaFQtem1OU01SOF9KWkdiUEljajVfMkI3eW92S2E5UmlmYjR4OGtZLU5jUnhWd21LX3lPOWxvY1FCMDZlZS1XckR2a1l4U2JGdGJka3FNc0VXdEZrUmc?oc=5)
+### [Los pediatras recomiendan adelantar algunas vacunas por el repunte de casos - Canal Sur](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE1KMGdrV0ZkNW5NVUY2Nl84dWRwVzR2R3dLbEVBSC1udEVHRDdjQ2syc2hwem1OdVY3QTYxRy1wd0Z5N3M1MHVvOHhVdWNJQkhxWTFQdUNuSks1alY2TGpUWUV6NGxGTFNEQ3gxMHljcGkxXzRaWEg1c3RhVktfbWFTTE1jUmR4cnE4ZWh0QnZtdW81SjNZaHU5WkRCWEhhcDVnQkRjbU5yc2o2cHR0Q2dPVUFMTDhIQzlrd1BCbkFqY1NNRjlHTExuaw?oc=5)
 
-2026-03-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-03-21 <span class="news-indication-tag">hepatitis</span>
 
-來源：[BR](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWVHREFZVnVSaHdiT1BoQTZ4b0s1VlRhNXJnSF8xR1ZHT2Vja3RrRlhJcjRZNGxONGxfaUVDWHdGMm9UUU9GNFhTaGpkaFQtem1OU01SOF9KWkdiUEljajVfMkI3eW92S2E5UmlmYjR4OGtZLU5jUnhWd21LX3lPOWxvY1FCMDZlZS1XckR2a1l4U2JGdGJka3FNc0VXdEZrUmc?oc=5)
+來源：[Canal Sur](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE1KMGdrV0ZkNW5NVUY2Nl84dWRwVzR2R3dLbEVBSC1udEVHRDdjQ2syc2hwem1OdVY3QTYxRy1wd0Z5N3M1MHVvOHhVdWNJQkhxWTFQdUNuSks1alY2TGpUWUV6NGxGTFNEQ3gxMHljcGkxXzRaWEg1c3RhVktfbWFTTE1jUmR4cnE4ZWh0QnZtdW81SjNZaHU5WkRCWEhhcDVnQkRjbU5yc2o2cHR0Q2dPVUFMTDhIQzlrd1BCbkFqY1NNRjlHTExuaw?oc=5)
+
+---
+
+### [Italien: Wegen Hepatitis-A – Neapel verbietet Verzehr roher Meeresfrüchte - Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
+
+2026-03-21 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
 
 ---
 
@@ -55,14 +63,6 @@ permalink: /news/tenofovir-alafenamide/
 2026-03-21 <span class="news-indication-tag">epatite</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMingFBVV95cUxPVjRMUzB2ejhhVGRUUmNpM0ljQndJVGtSQmhEVHRvdlZlUnZfcHRfUkJ2eWFvZ0p3NWFDNlh1WmNpUE9Gb2VYbWpKaTdsdHVBZmE1TUJkdnZwQTVqMWVLUnR1R2xxWUJzQzJFNDlDMUdFSkpmVG4tSllVZkg4Q0p3anhYYjBpeE5BQ1hEVWhfMms0alQ4UVlBWTJBQVZ5d9IBowFBVV95cUxQSGFkNktqcV9WV0ppdUVLUEkxWHZjMmtqalJtMFFvS1NDUnRYOXdJRzhPaWFaVEtsS190RmZQTzhIbE1mdEhZdGFneUwxQklLaWRPeGhjbEt4Y3ZfRWFQY3FsQ3lUYjI0VkRObGpidU1iU1ZST3lvUl9EaEpvcm1qLUVPX2NkRHlWcXgtTFR3QXU5N05mYkV4RW55eE9FMFo3S1M0?oc=5)
-
----
-
-### [Pediatría en España propone cambios en el calendario vacunal ante el repunte de sarampión, hepatitis A y meningococo B - La Web de la Salud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM25VRnplMWZNOFFnMk9WQTRrNFk2dmVQWmg0SThYaFBSZ0tYaFFsMzkwMndmNHlSVHFkSFlkcjdOZmhINWQwQkRwWHBaYWJnTURIWWJKdU8yQVVYNm1hQUZCRm5MLVc2YVJRd29BTjliUk9FUnVmcWdydHJOVDFCZURmT1UxMUhiOUtvTko5bkZtZ1l6ZC0wWG80OU1pa2JNeTF3RU02YTRWTF9ULTRGb2Ntc0NCUWw4VGk3bjN0aFhBRXRyY2FtSWFHLXlxVWtzeW1WbWdDdTVXQmRpMWc?oc=5)
-
-2026-03-20 <span class="news-indication-tag">hepatitis</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM25VRnplMWZNOFFnMk9WQTRrNFk2dmVQWmg0SThYaFBSZ0tYaFFsMzkwMndmNHlSVHFkSFlkcjdOZmhINWQwQkRwWHBaYWJnTURIWWJKdU8yQVVYNm1hQUZCRm5MLVc2YVJRd29BTjliUk9FUnVmcWdydHJOVDFCZURmT1UxMUhiOUtvTko5bkZtZ1l6ZC0wWG80OU1pa2JNeTF3RU02YTRWTF9ULTRGb2Ntc0NCUWw4VGk3bjN0aFhBRXRyY2FtSWFHLXlxVWtzeW1WbWdDdTVXQmRpMWc?oc=5)
 
 ---
 

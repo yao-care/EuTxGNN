@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [E' italiano il paziente uno della stimolazione cerebrale profonda a Pittsburg contro l’ictus - la Repubblica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9jS3ZlLVA4ZW1HT0laRzdNQUNZUFV5VHRNWGxqLThqS0lfTTJla1VRbFVrclhjdksyaklhX3lHSzRoTFk5UXNrZlhpTExIYVVLaktxUmhHdE9JYzBoQXhiVFQzMHFkU2FiOU1vOW9DU0xQVHFXMzlQMmp5WFJNdUFvUmI4MXBRTXRrN19Ea2FIaElPMVdqdVkwUW4wZ3I2ODQtQ3dkU2J3LWgzMUZ0WtIBtgFBVV95cUxOcjNFZFJJdGdKcUhkOVFfeWJ2RUd1ZkpDdXdoVEViU05xOGJFX1h6NnY2NDVCaTFWd2NrRm5xMkdsZkVLazh4djFOaE5qY09xTjJ5Y2piQmo0R0hhNldSWndialVzRFJKdERWWExlSHZYeXF1NDY1X2N6RDNXSDI3RUVVV3BxazRld1U3T3NPSUZEQ3dYOGp2M2xzV1ZvSzFZbjhBeFg2MXUtdHg2VnVzQ25FTjJ4UQ?oc=5)
 
@@ -63,14 +63,6 @@ permalink: /news/orlistat/
 2026-03-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">epatite</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
-
----
-
-### [La sanidad privada refuerza su papel frente a la cronicidad causada por la obesidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjdMZEEtemNubVZnb0tuNFgyQUlFcXFMTUQ0bjExRkdSdDhsdURkajFvMVllOUQyUnBqQi1Zal9CTV9sVGpFeC0zajZjZldIenptaEpGcTgxa2NaTUJ3NmhUTzJ5S1RsaVRhLXNpVXlLUFk3Rm1KdmJfckZISHlGblliWUM0dlRvYmRVTTFLU3c1aGhNVUdZUUpkNFpPUjZtWWx5VlRWQ1ptdkloZFplc2YtaElqTEkwMmRVUEJhLXDSAbsBQVVfeXFMTldzNVUtRXpVVzRLQzdXMzF5NlRsdWdlMHAzSkdwZkswa2l1WlMwNjJZUS1fRlN3MGRVZnBOZHhYc1Q0MjNXZnBlbkNoV3ZyMm5xNG02a1c1VTU1M1NrSDVMU25VOEF3MG8zUDRpV3BKaEk2ODhJVjRqQUM3WUcxdFRUUEotRUdTSXNtczdINkRtVGhzWGdLT1k2QU1EcldEX3piWkNNNHlmWTNDS1NzYlN0OWNNQmNEcVM3QQ?oc=5)
-
-2026-03-19 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjdMZEEtemNubVZnb0tuNFgyQUlFcXFMTUQ0bjExRkdSdDhsdURkajFvMVllOUQyUnBqQi1Zal9CTV9sVGpFeC0zajZjZldIenptaEpGcTgxa2NaTUJ3NmhUTzJ5S1RsaVRhLXNpVXlLUFk3Rm1KdmJfckZISHlGblliWUM0dlRvYmRVTTFLU3c1aGhNVUdZUUpkNFpPUjZtWWx5VlRWQ1ptdkloZFplc2YtaElqTEkwMmRVUEJhLXDSAbsBQVVfeXFMTldzNVUtRXpVVzRLQzdXMzF5NlRsdWdlMHAzSkdwZkswa2l1WlMwNjJZUS1fRlN3MGRVZnBOZHhYc1Q0MjNXZnBlbkNoV3ZyMm5xNG02a1c1VTU1M1NrSDVMU25VOEF3MG8zUDRpV3BKaEk2ODhJVjRqQUM3WUcxdFRUUEotRUdTSXNtczdINkRtVGhzWGdLT1k2QU1EcldEX3piWkNNNHlmWTNDS1NzYlN0OWNNQmNEcVM3QQ?oc=5)
 
 ---
 
