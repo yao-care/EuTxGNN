@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Epatite A, la Regione alza l’allerta: acquistati 25.000 vaccini. “Dose gratis a chi è a rischio” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU0VUcU5GZE5Qc0FnSXFJamRqZGRhUnR2SW94VlhzQ2ttbXg1OHRpZUlWc2YwV0pQb19aYXphS05tOUxjUDN2ZC00Y0tVSFBPd3Bvd1Nlb0lSZV9vWURZSUZvTi11TjYydXI5REVheE1fd2paZUtWRS1NVnFTQkJldGpqbDExa0htTVpzaG1FbDJ3VWxzUl9zeWg1Wkw2b2VQMGthc0E4RWRfS1l1cVhFV3VjUXdKa2ZOcjlLRHBvb1hVSmdWbGdtSExYcG1OWW94dXpNaEJfWlpqYmNR?oc=5)
 
@@ -63,6 +63,14 @@ permalink: /news/givosiran/
 2026-03-21 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUdFc0V0N0FldVhBX1dsbHlFbGVXdGFlaVpUTVh5TE5ZU1V0T2pUQXBnb2RrYlBzbXZjTjFCYndvY0JYbTIyYm9JNEh0NVVYaUNSTjVpUmtQVGFvMVJTMWRUQ00tWjA0Ty1EemxrNS15OWsxLTY0bHFGSGhBNURTc3BlWV80cmZZa21wWFE5T1RreVd3SEY4NW5LY0wxRFdaM3h3RGg5ZUExX1A5cDNMeDZJVFJiTVFOS0s3YQ?oc=5)
+
+---
+
+### [Las muertes por hipertensión se cuadruplican entre las mujeres jóvenes, según un estudio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzhwUm1DbDBjN0NYMXhtd0dzRzFQdXhiTEVrRzR6RnlMeVkyOThpSXRnTFFWdGtPMTRaTHR6aUhva2V0S09mbks3WjNvS044S0NCN3BYbWVseENKbUVBaTI4WFlHX1hDalNsdXNYVUlhYktueDc2X1JaVktIS3lmSGZJdUZJYzlXS21FbFhlRjhXRVlWZTBsenZFRFlRSUJKVWtTLVhnYnd0X3ZTdnJpMGU3eW1vZTN2RjVrRVJnM25mTDlPUEk0SNIB4wFBVV95cUxPa0xhYlJrZGhQODlDcWQxVWoyWHpubnVObWdLc3RrZkNad2V2SlpCZkwzekROLWsxOS0xbjZMZUhUcXdxZHdFRnlNQXhGamhZVWFrOG8wRjJCWFFVckNMUnZDRS1FZnktRmNmQjJiUG5FXzZ6ejA4R1Y5UThDT2Vma1hxdkFuNHpKRjhSWDAtRW5nRDdIV2ZtdnpUanJMMFI0aWVvVENja0gydnBzMk1IdEVZVUNIa3BTbVptUzhnUFc0c0c1dm1IalF6dUFEaU56Wkkxd2RsUk5xcmhycGotWlMwVQ?oc=5)
+
+2026-03-21 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzhwUm1DbDBjN0NYMXhtd0dzRzFQdXhiTEVrRzR6RnlMeVkyOThpSXRnTFFWdGtPMTRaTHR6aUhva2V0S09mbks3WjNvS044S0NCN3BYbWVseENKbUVBaTI4WFlHX1hDalNsdXNYVUlhYktueDc2X1JaVktIS3lmSGZJdUZJYzlXS21FbFhlRjhXRVlWZTBsenZFRFlRSUJKVWtTLVhnYnd0X3ZTdnJpMGU3eW1vZTN2RjVrRVJnM25mTDlPUEk0SNIB4wFBVV95cUxPa0xhYlJrZGhQODlDcWQxVWoyWHpubnVObWdLc3RrZkNad2V2SlpCZkwzekROLWsxOS0xbjZMZUhUcXdxZHdFRnlNQXhGamhZVWFrOG8wRjJCWFFVckNMUnZDRS1FZnktRmNmQjJiUG5FXzZ6ejA4R1Y5UThDT2Vma1hxdkFuNHpKRjhSWDAtRW5nRDdIV2ZtdnpUanJMMFI0aWVvVENja0gydnBzMk1IdEVZVUNIa3BTbVptUzhnUFc0c0c1dm1IalF6dUFEaU56Wkkxd2RsUk5xcmhycGotWlMwVQ?oc=5)
 
 ---
 

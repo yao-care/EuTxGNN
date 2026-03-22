@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,11 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Eating Meat Linked to Lower Dementia Risk in Key Genetic Group](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDNub2NlNVdMRzljMjdYR19NRUpWVTIxbU5CcVZKajR3Q181eWNGVTZHX25OQXQ1QU9nVDR3UTF6Z253TUpPUWhPT2FNR1JrSFVTVTk0b2pmMjV6dlJYOTctcENTSm12R1k1OHNJckFodjlmMlk1U1B2MTR4b2ZyZXhmZXlMTFkyZGJFTVR3SE9tUQ?oc=5)
 
-2026-03-21 <span class="news-indication-tag">dementia</span>
+2026-03-21 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDNub2NlNVdMRzljMjdYR19NRUpWVTIxbU5CcVZKajR3Q181eWNGVTZHX25OQXQ1QU9nVDR3UTF6Z253TUpPUWhPT2FNR1JrSFVTVTk0b2pmMjV6dlJYOTctcENTSm12R1k1OHNJckFodjlmMlk1U1B2MTR4b2ZyZXhmZXlMTFkyZGJFTVR3SE9tUQ?oc=5)
 
@@ -52,17 +52,9 @@ permalink: /news/tolcapone/
 
 ### [Turns out your coffee addiction may be doing your brain a favor](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
 
-2026-03-21 <span class="news-indication-tag">dementia</span>
+2026-03-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[theregister.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
-
----
-
-### [Alzheimer-Krankheit: Anti-Amyloid-Therapie jetzt leitliniengestützt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3hDXzRlYmJIbzhSRE1DWC0yMFdLVE5jVlEydXJEV3M0Sk12LVNRT0U1QTFLZ3BOVmVPRWNFbFR4bnNEd3R4Y2YxcHhDb0haeUdiWXA2cnU2STVzcG1KNzcwMEpSRHBZZ05vaEJBMTRmbmZxRkp3MGc1dG4ta3pPQmx6aC1XaEtYMGNYTTh6SXhDOFdHbUxJRnAwaG5wTzZMZGxlSHdSNy0zaVBmOWhPRVR4ZzJpNGRILWFlOUI3dlVtUmpGMC1JdS1HY3VRZTFP?oc=5)
-
-2026-03-20 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3hDXzRlYmJIbzhSRE1DWC0yMFdLVE5jVlEydXJEV3M0Sk12LVNRT0U1QTFLZ3BOVmVPRWNFbFR4bnNEd3R4Y2YxcHhDb0haeUdiWXA2cnU2STVzcG1KNzcwMEpSRHBZZ05vaEJBMTRmbmZxRkp3MGc1dG4ta3pPQmx6aC1XaEtYMGNYTTh6SXhDOFdHbUxJRnAwaG5wTzZMZGxlSHdSNy0zaVBmOWhPRVR4ZzJpNGRILWFlOUI3dlVtUmpGMC1JdS1HY3VRZTFP?oc=5)
 
 ---
 

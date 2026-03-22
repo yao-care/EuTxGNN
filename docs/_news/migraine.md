@@ -3,7 +3,7 @@ layout: default
 title: "migraine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraine 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "migraine 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="migraine 有什麼相關新聞？">
-<strong>migraine</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<strong>migraine</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,7 +77,15 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Migraine du week-end : 5 conseils pour y échapper et éviter les fins de semaines difficiles](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVTBCa29KZTNLdVpfNk5MRE9QN3lqZGdOWTl4QVpiS2NjcUtGV0p5VjJONDd6WkV4aDdmbWZjSWFOTU5ZWjZGb3hrQzJVbEEyU05qQnU4WHhob1dpTjlWdDNrY0JqTWxHb0pndHRrbVVOOWZrbTNfM0JLY3NqUTR5Nk0xbzlFSGhBczdyWS0xMFhrUllpN3plcHhDdUkwQ1lRZWM2YzJaek9pbXBMRzJYbXN2VWpMTGhjeWpiR1JhQjM4ZEhJUUdKV3lfWWZzRU14czh3bg?oc=5)
+
+2026-03-22
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVTBCa29KZTNLdVpfNk5MRE9QN3lqZGdOWTl4QVpiS2NjcUtGV0p5VjJONDd6WkV4aDdmbWZjSWFOTU5ZWjZGb3hrQzJVbEEyU05qQnU4WHhob1dpTjlWdDNrY0JqTWxHb0pndHRrbVVOOWZrbTNfM0JLY3NqUTR5Nk0xbzlFSGhBczdyWS0xMFhrUllpN3plcHhDdUkwQ1lRZWM2YzJaek9pbXBMRzJYbXN2VWpMTGhjeWpiR1JhQjM4ZEhJUUdKV3lfWWZzRU14czh3bg?oc=5)
+
+---
 
 ### [Coleraine woman shares agonising reality of migraine during pregnancy and labour - Belfast Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkZJZXlFaENUcHVyZlIwak8zbXF0ZHFoZ05DdzdwODljdnhQUGpYaVU2UGlzV1dMVl9rdXMxYTVtdzFnZUpLVlFrZFFYWVJwQ1lnamJwRmo4Nm5rOGdXczdBd2IyM0xtRWhtWmFtdzFiQjhnclVLb09wc1plSWpsTTJtNDQzakhKSHNJU3VxZUhSOGYxYVBJcWJrNGdmNUxKa2FJ0gGoAUFVX3lxTFBiNW5yckJ0aGsxNkZRb0VJaTZvZTE3RG1iMF9LMklpZ0I3eDdFYV9jdENUUElBbzBWNzlYUHBXRmlFVnJGUVhBT29IRFZXUnlTbXcxVW1VUmtOUFU1WjN2NGtsaFczYzFFWDNIM3Bnd2puZlZwNFNINTN2N2pydzlNSTRiSEpfMk5ueXp3alpxWnZGS2lLc1h2cU5jTFJfV2xFYWFnR1ljUw?oc=5)
 

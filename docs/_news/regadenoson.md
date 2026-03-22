@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Darm saniert, Asthma weg: Dank dieser Ernährung kommt Theresa ohne Spray aus - Berliner Morgenpost](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmw4aW42TjVvR0Q2T0FwYngyc3VmNUxiTHQyM3FmVFlJTDJyQXJGbTlNdTQtd2d1eGJDNVRJRTlMVTFyWEtPcDZncDBSODRJa2syY1lJVHR0NDE5VGMyMV8xM25MdU5RSHVoRndYZkZpVktvNXcwaDBBSUN1WmVkZ3dSZ2wwVkNoMGp6THd5cDdvSHJjUjlBbkpJYXB5T294RFhpWHJwUQ?oc=5)
+
+2026-03-22 <span class="news-indication-tag">asthma</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmw4aW42TjVvR0Q2T0FwYngyc3VmNUxiTHQyM3FmVFlJTDJyQXJGbTlNdTQtd2d1eGJDNVRJRTlMVTFyWEtPcDZncDBSODRJa2syY1lJVHR0NDE5VGMyMV8xM25MdU5RSHVoRndYZkZpVktvNXcwaDBBSUN1WmVkZ3dSZ2wwVkNoMGp6THd5cDdvSHJjUjlBbkpJYXB5T294RFhpWHJwUQ?oc=5)
+
+---
+
+### [Migraine du week-end : 5 conseils pour y échapper et éviter les fins de semaines difficiles](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVTBCa29KZTNLdVpfNk5MRE9QN3lqZGdOWTl4QVpiS2NjcUtGV0p5VjJONDd6WkV4aDdmbWZjSWFOTU5ZWjZGb3hrQzJVbEEyU05qQnU4WHhob1dpTjlWdDNrY0JqTWxHb0pndHRrbVVOOWZrbTNfM0JLY3NqUTR5Nk0xbzlFSGhBczdyWS0xMFhrUllpN3plcHhDdUkwQ1lRZWM2YzJaek9pbXBMRzJYbXN2VWpMTGhjeWpiR1JhQjM4ZEhJUUdKV3lfWWZzRU14czh3bg?oc=5)
+
+2026-03-22 <span class="news-indication-tag">migraine</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVTBCa29KZTNLdVpfNk5MRE9QN3lqZGdOWTl4QVpiS2NjcUtGV0p5VjJONDd6WkV4aDdmbWZjSWFOTU5ZWjZGb3hrQzJVbEEyU05qQnU4WHhob1dpTjlWdDNrY0JqTWxHb0pndHRrbVVOOWZrbTNfM0JLY3NqUTR5Nk0xbzlFSGhBczdyWS0xMFhrUllpN3plcHhDdUkwQ1lRZWM2YzJaek9pbXBMRzJYbXN2VWpMTGhjeWpiR1JhQjM4ZEhJUUdKV3lfWWZzRU14czh3bg?oc=5)
+
+---
 
 ### [Coleraine woman shares agonising reality of migraine during pregnancy and labour - Belfast Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkZJZXlFaENUcHVyZlIwak8zbXF0ZHFoZ05DdzdwODljdnhQUGpYaVU2UGlzV1dMVl9rdXMxYTVtdzFnZUpLVlFrZFFYWVJwQ1lnamJwRmo4Nm5rOGdXczdBd2IyM0xtRWhtWmFtdzFiQjhnclVLb09wc1plSWpsTTJtNDQzakhKSHNJU3VxZUhSOGYxYVBJcWJrNGdmNUxKa2FJ0gGoAUFVX3lxTFBiNW5yckJ0aGsxNkZRb0VJaTZvZTE3RG1iMF9LMklpZ0I3eDdFYV9jdENUUElBbzBWNzlYUHBXRmlFVnJGUVhBT29IRFZXUnlTbXcxVW1VUmtOUFU1WjN2NGtsaFczYzFFWDNIM3Bnd2puZlZwNFNINTN2N2pydzlNSTRiSEpfMk5ueXp3alpxWnZGS2lLc1h2cU5jTFJfV2xFYWFnR1ljUw?oc=5)
 

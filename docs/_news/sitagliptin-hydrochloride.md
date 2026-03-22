@@ -42,6 +42,14 @@ permalink: /news/sitagliptin-hydrochloride/
 
 ## 相關新聞（4 則）
 
+### [Tim Spector, experto en microbiota: “Los bebedores de café tienen un microbioma intestinal más diverso que los no bebedores”](https://news.google.com/rss/articles/CBMiigJBVV95cUxNMDFzZV9pLU14NlFDSEtGS09mSVlOeFJxNWxubmFwT2cxbUtnOFZyWEd5SXlHcUxsZmRJRldSNDM4M2NjU3RiUUN2dnF6OGxXSklldUdLY1Z5bTVuT3BZMjV6THN4X21mLV9LUk85RzJyaUNXUllOTTh6QW1Vb2Y4MW9NcUNfWW5kcXVsMzB5Vmt4V2VSUElCTC1jYlNFUVZsMTYyTEdyUzYyeGxQdUR0ejQzSTNUVUVLQjhrYk92enpSWUhEdHE3VEFGOFgwQmtWZWRZc19JUGFvTHpRRGhNbkpuNjQ0UFZpUWRRdTUtZWNZME0zTGZzRTFjX3plYnZrYUxYZmxNc1Z6Z9IBjwJBVV95cUxPOFVKTktjZXc2UHhMYWMyY1BtVGpUSmJxY0dDQXU2NWRTOV9IOEo2bzA5NFA4OWpzMFRUcWwwOUdLUDROdnZYNU16eUxtLUdvNExXNjVLMTBpeUtCVzk2WjZQSmFnMUJabkFtM3l0OU5KaWxCODB5bEhGSFZNY285S2Z6ZkdCbkF6bGxqRFF0RFpOSGhQcTUyN282ZV9KMTl4dl9BUmlVSGEwR0tuQU5mQmhuUF93S01rclFTWGpaek9YUnlIbGlSQnBFTmlSRm54YklFRmtGWU1rbkpqLW1IWjBSVGh2dDI2dEhjNTN3R0VKOXVIZkVUWDF0LXFmV3p1bVNkVVhrcEtWWjJlV01r?oc=5)
+
+2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Noticiastrabajo](https://news.google.com/rss/articles/CBMiigJBVV95cUxNMDFzZV9pLU14NlFDSEtGS09mSVlOeFJxNWxubmFwT2cxbUtnOFZyWEd5SXlHcUxsZmRJRldSNDM4M2NjU3RiUUN2dnF6OGxXSklldUdLY1Z5bTVuT3BZMjV6THN4X21mLV9LUk85RzJyaUNXUllOTTh6QW1Vb2Y4MW9NcUNfWW5kcXVsMzB5Vmt4V2VSUElCTC1jYlNFUVZsMTYyTEdyUzYyeGxQdUR0ejQzSTNUVUVLQjhrYk92enpSWUhEdHE3VEFGOFgwQmtWZWRZc19JUGFvTHpRRGhNbkpuNjQ0UFZpUWRRdTUtZWNZME0zTGZzRTFjX3plYnZrYUxYZmxNc1Z6Z9IBjwJBVV95cUxPOFVKTktjZXc2UHhMYWMyY1BtVGpUSmJxY0dDQXU2NWRTOV9IOEo2bzA5NFA4OWpzMFRUcWwwOUdLUDROdnZYNU16eUxtLUdvNExXNjVLMTBpeUtCVzk2WjZQSmFnMUJabkFtM3l0OU5KaWxCODB5bEhGSFZNY285S2Z6ZkdCbkF6bGxqRFF0RFpOSGhQcTUyN282ZV9KMTl4dl9BUmlVSGEwR0tuQU5mQmhuUF93S01rclFTWGpaek9YUnlIbGlSQnBFTmlSRm54YklFRmtGWU1rbkpqLW1IWjBSVGh2dDI2dEhjNTN3R0VKOXVIZkVUWDF0LXFmV3p1bVNkVVhrcEtWWjJlV01r?oc=5)
+
+---
+
 ### [Complet, seigle ou levain, le pain le plus sain selon les nutritionnistes pourrait vous surprendre](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYzJKejkySUVwTXQzX0FlU2p1VUNkb2dwM0gyTWhpSjdQc29ILUZRVWJPVHkwZmpVRDNvT3F4Rk02R183T3FiMlJIbkh6WVpzTnZoNXVKSGdjTFJOQmxLWnp3ZjdSU3dMa2ZYSjJvUjlkTUVkXy1Sa1JGdzhHcEVOcjZiRVZGLVF0T1hfMGdLemlBal9yQnJhVlNRa3p6a0pLWGVFc1lsbE5aeXJjRUdfanQ5dTVsamVjZTFDdUwzZmJoS01QbGpYYzNodk9icVNCZksw?oc=5)
 
 2026-03-22 <span class="news-indication-tag">diabète</span>
@@ -63,14 +71,6 @@ permalink: /news/sitagliptin-hydrochloride/
 2026-03-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span>
 
 來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
-
----
-
-### [Diabetes: Metformin zum Schutz vor Erblindung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE54OF9hVnlCT0tadVZGSHZUa1ZfUmFvdzhWMXRnNTA4QzRFU2NKSzMtTzNFUGpSOVc5NWZpQlZTTnBXbjNzSWlBZDdldHNER253Nk9EMWhsNlBtR1hBbjJMbE1icnNNOWlFd3RDc2t5WTh0UlBPZzRZcWhObEM?oc=5)
-
-2026-03-20 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE54OF9hVnlCT0tadVZGSHZUa1ZfUmFvdzhWMXRnNTA4QzRFU2NKSzMtTzNFUGpSOVc5NWZpQlZTTnBXbjNzSWlBZDdldHNER253Nk9EMWhsNlBtR1hBbjJMbE1icnNNOWlFd3RDc2t5WTh0UlBPZzRZcWhObEM?oc=5)
 
 ---
 

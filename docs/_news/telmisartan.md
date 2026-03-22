@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Early Menopause Linked to 40% Higher Risk of Cardiovascular Disease](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
 
@@ -50,19 +50,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Ozempic: Heart Health Benefits Fade After Stopping GLP-1 Drugs](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
+### [Las muertes por hipertensión se cuadruplican entre las mujeres jóvenes, según un estudio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzhwUm1DbDBjN0NYMXhtd0dzRzFQdXhiTEVrRzR6RnlMeVkyOThpSXRnTFFWdGtPMTRaTHR6aUhva2V0S09mbks3WjNvS044S0NCN3BYbWVseENKbUVBaTI4WFlHX1hDalNsdXNYVUlhYktueDc2X1JaVktIS3lmSGZJdUZJYzlXS21FbFhlRjhXRVlWZTBsenZFRFlRSUJKVWtTLVhnYnd0X3ZTdnJpMGU3eW1vZTN2RjVrRVJnM25mTDlPUEk0SNIB4wFBVV95cUxPa0xhYlJrZGhQODlDcWQxVWoyWHpubnVObWdLc3RrZkNad2V2SlpCZkwzekROLWsxOS0xbjZMZUhUcXdxZHdFRnlNQXhGamhZVWFrOG8wRjJCWFFVckNMUnZDRS1FZnktRmNmQjJiUG5FXzZ6ejA4R1Y5UThDT2Vma1hxdkFuNHpKRjhSWDAtRW5nRDdIV2ZtdnpUanJMMFI0aWVvVENja0gydnBzMk1IdEVZVUNIa3BTbVptUzhnUFc0c0c1dm1IalF6dUFEaU56Wkkxd2RsUk5xcmhycGotWlMwVQ?oc=5)
 
-2026-03-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-03-21 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
-
----
-
-### [E' italiano il paziente uno della stimolazione cerebrale profonda a Pittsburg contro l’ictus - la Repubblica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9jS3ZlLVA4ZW1HT0laRzdNQUNZUFV5VHRNWGxqLThqS0lfTTJla1VRbFVrclhjdksyaklhX3lHSzRoTFk5UXNrZlhpTExIYVVLaktxUmhHdE9JYzBoQXhiVFQzMHFkU2FiOU1vOW9DU0xQVHFXMzlQMmp5WFJNdUFvUmI4MXBRTXRrN19Ea2FIaElPMVdqdVkwUW4wZ3I2ODQtQ3dkU2J3LWgzMUZ0WtIBtgFBVV95cUxOcjNFZFJJdGdKcUhkOVFfeWJ2RUd1ZkpDdXdoVEViU05xOGJFX1h6NnY2NDVCaTFWd2NrRm5xMkdsZkVLazh4djFOaE5qY09xTjJ5Y2piQmo0R0hhNldSWndialVzRFJKdERWWExlSHZYeXF1NDY1X2N6RDNXSDI3RUVVV3BxazRld1U3T3NPSUZEQ3dYOGp2M2xzV1ZvSzFZbjhBeFg2MXUtdHg2VnVzQ25FTjJ4UQ?oc=5)
-
-2026-03-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9jS3ZlLVA4ZW1HT0laRzdNQUNZUFV5VHRNWGxqLThqS0lfTTJla1VRbFVrclhjdksyaklhX3lHSzRoTFk5UXNrZlhpTExIYVVLaktxUmhHdE9JYzBoQXhiVFQzMHFkU2FiOU1vOW9DU0xQVHFXMzlQMmp5WFJNdUFvUmI4MXBRTXRrN19Ea2FIaElPMVdqdVkwUW4wZ3I2ODQtQ3dkU2J3LWgzMUZ0WtIBtgFBVV95cUxOcjNFZFJJdGdKcUhkOVFfeWJ2RUd1ZkpDdXdoVEViU05xOGJFX1h6NnY2NDVCaTFWd2NrRm5xMkdsZkVLazh4djFOaE5qY09xTjJ5Y2piQmo0R0hhNldSWndialVzRFJKdERWWExlSHZYeXF1NDY1X2N6RDNXSDI3RUVVV3BxazRld1U3T3NPSUZEQ3dYOGp2M2xzV1ZvSzFZbjhBeFg2MXUtdHg2VnVzQ25FTjJ4UQ?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzhwUm1DbDBjN0NYMXhtd0dzRzFQdXhiTEVrRzR6RnlMeVkyOThpSXRnTFFWdGtPMTRaTHR6aUhva2V0S09mbks3WjNvS044S0NCN3BYbWVseENKbUVBaTI4WFlHX1hDalNsdXNYVUlhYktueDc2X1JaVktIS3lmSGZJdUZJYzlXS21FbFhlRjhXRVlWZTBsenZFRFlRSUJKVWtTLVhnYnd0X3ZTdnJpMGU3eW1vZTN2RjVrRVJnM25mTDlPUEk0SNIB4wFBVV95cUxPa0xhYlJrZGhQODlDcWQxVWoyWHpubnVObWdLc3RrZkNad2V2SlpCZkwzekROLWsxOS0xbjZMZUhUcXdxZHdFRnlNQXhGamhZVWFrOG8wRjJCWFFVckNMUnZDRS1FZnktRmNmQjJiUG5FXzZ6ejA4R1Y5UThDT2Vma1hxdkFuNHpKRjhSWDAtRW5nRDdIV2ZtdnpUanJMMFI0aWVvVENja0gydnBzMk1IdEVZVUNIa3BTbVptUzhnUFc0c0c1dm1IalF6dUFEaU56Wkkxd2RsUk5xcmhycGotWlMwVQ?oc=5)
 
 ---
 

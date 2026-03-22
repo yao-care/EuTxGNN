@@ -42,19 +42,19 @@ permalink: /news/lasmiditan-succinate/
 
 ## 相關新聞（2 則）
 
+### [Migraine du week-end : 5 conseils pour y échapper et éviter les fins de semaines difficiles](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVTBCa29KZTNLdVpfNk5MRE9QN3lqZGdOWTl4QVpiS2NjcUtGV0p5VjJONDd6WkV4aDdmbWZjSWFOTU5ZWjZGb3hrQzJVbEEyU05qQnU4WHhob1dpTjlWdDNrY0JqTWxHb0pndHRrbVVOOWZrbTNfM0JLY3NqUTR5Nk0xbzlFSGhBczdyWS0xMFhrUllpN3plcHhDdUkwQ1lRZWM2YzJaek9pbXBMRzJYbXN2VWpMTGhjeWpiR1JhQjM4ZEhJUUdKV3lfWWZzRU14czh3bg?oc=5)
+
+2026-03-22 <span class="news-indication-tag">migraine</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVTBCa29KZTNLdVpfNk5MRE9QN3lqZGdOWTl4QVpiS2NjcUtGV0p5VjJONDd6WkV4aDdmbWZjSWFOTU5ZWjZGb3hrQzJVbEEyU05qQnU4WHhob1dpTjlWdDNrY0JqTWxHb0pndHRrbVVOOWZrbTNfM0JLY3NqUTR5Nk0xbzlFSGhBczdyWS0xMFhrUllpN3plcHhDdUkwQ1lRZWM2YzJaek9pbXBMRzJYbXN2VWpMTGhjeWpiR1JhQjM4ZEhJUUdKV3lfWWZzRU14czh3bg?oc=5)
+
+---
+
 ### [Coleraine woman shares agonising reality of migraine during pregnancy and labour - Belfast Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkZJZXlFaENUcHVyZlIwak8zbXF0ZHFoZ05DdzdwODljdnhQUGpYaVU2UGlzV1dMVl9rdXMxYTVtdzFnZUpLVlFrZFFYWVJwQ1lnamJwRmo4Nm5rOGdXczdBd2IyM0xtRWhtWmFtdzFiQjhnclVLb09wc1plSWpsTTJtNDQzakhKSHNJU3VxZUhSOGYxYVBJcWJrNGdmNUxKa2FJ0gGoAUFVX3lxTFBiNW5yckJ0aGsxNkZRb0VJaTZvZTE3RG1iMF9LMklpZ0I3eDdFYV9jdENUUElBbzBWNzlYUHBXRmlFVnJGUVhBT29IRFZXUnlTbXcxVW1VUmtOUFU1WjN2NGtsaFczYzFFWDNIM3Bnd2puZlZwNFNINTN2N2pydzlNSTRiSEpfMk5ueXp3alpxWnZGS2lLc1h2cU5jTFJfV2xFYWFnR1ljUw?oc=5)
 
 2026-03-21 <span class="news-indication-tag">migraine</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkZJZXlFaENUcHVyZlIwak8zbXF0ZHFoZ05DdzdwODljdnhQUGpYaVU2UGlzV1dMVl9rdXMxYTVtdzFnZUpLVlFrZFFYWVJwQ1lnamJwRmo4Nm5rOGdXczdBd2IyM0xtRWhtWmFtdzFiQjhnclVLb09wc1plSWpsTTJtNDQzakhKSHNJU3VxZUhSOGYxYVBJcWJrNGdmNUxKa2FJ0gGoAUFVX3lxTFBiNW5yckJ0aGsxNkZRb0VJaTZvZTE3RG1iMF9LMklpZ0I3eDdFYV9jdENUUElBbzBWNzlYUHBXRmlFVnJGUVhBT29IRFZXUnlTbXcxVW1VUmtOUFU1WjN2NGtsaFczYzFFWDNIM3Bnd2puZlZwNFNINTN2N2pydzlNSTRiSEpfMk5ueXp3alpxWnZGS2lLc1h2cU5jTFJfV2xFYWFnR1ljUw?oc=5)
-
----
-
-### [Something in Python Blood Could Be The Future of Weight Loss](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcndhTHlQNjgyMzBNSjZTejVUWHdzamwwbUp6RlNkVGIxMi1YY0pVZktHT0U4Q1NYdk9jYmh3V25IZlA5UTZMSUZuR0xjeUtSb2xQNzBwRk1yTlNHRTJtbWtmOXhVV1lLMkh4VXlNb1JFX1FYc3FkOHJaMEdnWkhoOU5EZXdpMkViZ1pqOTMzcnozUTQ?oc=5)
-
-2026-03-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcndhTHlQNjgyMzBNSjZTejVUWHdzamwwbUp6RlNkVGIxMi1YY0pVZktHT0U4Q1NYdk9jYmh3V25IZlA5UTZMSUZuR0xjeUtSb2xQNzBwRk1yTlNHRTJtbWtmOXhVV1lLMkh4VXlNb1JFX1FYc3FkOHJaMEdnWkhoOU5EZXdpMkViZ1pqOTMzcnozUTQ?oc=5)
 
 ---
 
