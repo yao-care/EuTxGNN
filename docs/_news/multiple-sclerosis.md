@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（12 則）
 
 ### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
@@ -64,19 +64,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [BBC Sport star left in coma and nearly dies in meningitis battle as symptoms shared - The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
+### [I spent five months in a mother and baby mental health unit - here's what I want mums to know](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
 
 2026-03-21
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
 
 ---
 
-### [Die tödliche Arithmetik: Wie Mario der Droge Heroin entkam – und was Gmünd damit zu tun hat](https://news.google.com/rss/articles/CBMilwJBVV95cUxNREI0cW5pQ0ZMLU9MdURmbkJ5Tllhc3dCMVpHem5IOTBlM3ZDX0xrZUVRNW0yRHZhTVdYZXVfdmVnbW1rMkIzMVBGc01hb1ZkMF94UGxpT3B2NXFOWXEwa0ZaZ2x1MG1HLW15SXBVUDdhN1BhbDRQQXFCMGFSVGRYbmEwelNrbXJJSTF6NHoxX1RidGNuQ0h6clZRVk4tLS05VXRRV0JVa2dJUlFtNUdjMWtDYU5vR093TFBVWTRaWS04SmYwUVg1Z2l0YlNYWUlSRUdBbHdmY0hwNW9jRUlLR1AtNVBsbWVicWJWazZUa19uOVBMT3JJZUN1R3JxRkhBM0Z4Z0tRX3FoVU10TUdtYkdydzhYSEXSAbMCQVVfeXFMTUdWTFQ5Q2NYUjBnMTI1OGxRTG9UcWZOeGV3cVNyOE1HWG82VzFfYWpyQXJXaUVIVTJlN1ZndUtBb1JQZVFudDFvVHJrUU5SVzZMTllTSm5lSTJvd1VTd3lSUW4zV0laLTR2eHpFOTY0WGhNTk51NWZ2a0RvNlZKdExCQkFDMUxfd1JDOUhvTTJpOG5uTlpTLWhBOE9RZDAzRlF5bFdER2hPRnVIYk1DVUdUbnE3Ym81Z3czTmxOX0hGUldMSFZ6bjlkdkNIZGRpLVFUNGswamdKVGM2Vk5mb0pnaUNjUDJXQlN5YTNiS0hPWW1IQk5EYnh5aVVaaW54Q19zaWN5Ym9VZHczUlEtMXFFVF9NeF9XRW9xLV9yT3R5R1d2cktFb01EeU1FY01oQVhkYw?oc=5)
+### [Cardiologist warning to anyone taking Omeprazole, ibuprofen, diclofenac and naproxen - The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
 
 2026-03-21
 
-來源：[Rems-Zeitung](https://news.google.com/rss/articles/CBMilwJBVV95cUxNREI0cW5pQ0ZMLU9MdURmbkJ5Tllhc3dCMVpHem5IOTBlM3ZDX0xrZUVRNW0yRHZhTVdYZXVfdmVnbW1rMkIzMVBGc01hb1ZkMF94UGxpT3B2NXFOWXEwa0ZaZ2x1MG1HLW15SXBVUDdhN1BhbDRQQXFCMGFSVGRYbmEwelNrbXJJSTF6NHoxX1RidGNuQ0h6clZRVk4tLS05VXRRV0JVa2dJUlFtNUdjMWtDYU5vR093TFBVWTRaWS04SmYwUVg1Z2l0YlNYWUlSRUdBbHdmY0hwNW9jRUlLR1AtNVBsbWVicWJWazZUa19uOVBMT3JJZUN1R3JxRkhBM0Z4Z0tRX3FoVU10TUdtYkdydzhYSEXSAbMCQVVfeXFMTUdWTFQ5Q2NYUjBnMTI1OGxRTG9UcWZOeGV3cVNyOE1HWG82VzFfYWpyQXJXaUVIVTJlN1ZndUtBb1JQZVFudDFvVHJrUU5SVzZMTllTSm5lSTJvd1VTd3lSUW4zV0laLTR2eHpFOTY0WGhNTk51NWZ2a0RvNlZKdExCQkFDMUxfd1JDOUhvTTJpOG5uTlpTLWhBOE9RZDAzRlF5bFdER2hPRnVIYk1DVUdUbnE3Ym81Z3czTmxOX0hGUldMSFZ6bjlkdkNIZGRpLVFUNGswamdKVGM2Vk5mb0pnaUNjUDJXQlN5YTNiS0hPWW1IQk5EYnh5aVVaaW54Q19zaWN5Ym9VZHczUlEtMXFFVF9NeF9XRW9xLV9yT3R5R1d2cktFb01EeU1FY01oQVhkYw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
 
 ---
 
@@ -96,11 +96,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Chemsex : six morts identifiés par l’Institut médical de Tours en 2025](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2lEQzFZakp6cnVOcDdsSkNtc1M4SkJRLU9lekFSaVFFcjJtd1lVUVZZS1kxbi1BdmNBLTF5SFJpT2hOU2haUkIzdlN6YTJDeERyckFZZ2RRS0VqM3h1SFFFejJrSlhQWkhhb3d1UjRBVEtfUEVPY3ZlWGRacE04Rm8yZWNUUmFyZ0s1ZmJ0N0d2MzlaU3FsMXg3NVNXa1E3Qm9keW1XUmdYTFZmX3ZsODZ4TEVMdUpIVU1ZMUtR?oc=5)
+### [BBC Sport presenter reveals meningitis battle left her in coma after mum spotted crucial symptom - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzRNdW1TNXJMWjUwYmszUTBMcWk4V1NiZGIyTkVFTXhsMlhpMGVnUEtDZzEtUHN4UlpZcWhkNy1PN0VwY0NTV2ZzQjRET2YtNlpoa2xuWHJtZ2tPTmNPX1BQSUx6QUNRUWZVWmUwTHFOcU1mdHlKRUlWX04xUkd3clRDNWstZw?oc=5)
 
 2026-03-20
 
-來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMivgFBVV95cUxNS2lEQzFZakp6cnVOcDdsSkNtc1M4SkJRLU9lekFSaVFFcjJtd1lVUVZZS1kxbi1BdmNBLTF5SFJpT2hOU2haUkIzdlN6YTJDeERyckFZZ2RRS0VqM3h1SFFFejJrSlhQWkhhb3d1UjRBVEtfUEVPY3ZlWGRacE04Rm8yZWNUUmFyZ0s1ZmJ0N0d2MzlaU3FsMXg3NVNXa1E3Qm9keW1XUmdYTFZmX3ZsODZ4TEVMdUpIVU1ZMUtR?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzRNdW1TNXJMWjUwYmszUTBMcWk4V1NiZGIyTkVFTXhsMlhpMGVnUEtDZzEtUHN4UlpZcWhkNy1PN0VwY0NTV2ZzQjRET2YtNlpoa2xuWHJtZ2tPTmNPX1BQSUx6QUNRUWZVWmUwTHFOcU1mdHlKRUlWX04xUkd3clRDNWstZw?oc=5)
 
 ---
 
@@ -109,14 +109,6 @@ permalink: /news/multiple-sclerosis/
 2026-03-20
 
 來源：[The Economist](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjRoS3ZNYkZ4NG9KaUxMLXZHcFFQWHU5NklFenNZQ2tTUUp0U08wdDFaeElQQ3hfNW9JS29mS0RHMGJUNWRqcWttcW9ocl9hckFiU25vcThrZmJqYVp6eGhWSDVrTlNFR3lVaHVCREJ1aTdKMzdyM3RFNXF1ejZtT0V6aHR0MVpveGxfU2w5WUJmLWlNU0l1Tkxrbw?oc=5)
-
----
-
-### [Neue Studie erforscht 100-Jährige: Das Geheimnis der ältesten Schweizer und Schweizerinnen | blue News - blue News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2xTaXVVTU9fVnVHUnBMUlpNU0NvVG1tM3hBTV9qN2xVMDBySWI4RG53RWxQZ19tYmFLdnpQZU5aZmdoQi1DUGNIUUJKdUNqQWZjVHdVeWw3WFBuOXNvNVliN0tZQ25Mb01XUXNObldSX2lBdjJoWXcyc2FNWWt4dW5YNXUxbFJmdVpRNTBJcTlrNlJKeEdoUmVUZGdNNTJZSTh2OUNsWUNBemFvOW10Q2dR?oc=5)
-
-2026-03-20
-
-來源：[blue News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2xTaXVVTU9fVnVHUnBMUlpNU0NvVG1tM3hBTV9qN2xVMDBySWI4RG53RWxQZ19tYmFLdnpQZU5aZmdoQi1DUGNIUUJKdUNqQWZjVHdVeWw3WFBuOXNvNVliN0tZQ25Mb01XUXNObldSX2lBdjJoWXcyc2FNWWt4dW5YNXUxbFJmdVpRNTBJcTlrNlJKeEdoUmVUZGdNNTJZSTh2OUNsWUNBemFvOW10Q2dR?oc=5)
 
 ---
 
@@ -156,15 +148,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-03-20
 
-來源：[metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxONmNvWG84U010aHYwVExxamFHWmM0eXd0dzVUcVlpNmNvWkhMMFliZXpuMXJCYWgtWk1TbjJJM3BGWGtxYll2Sjk4cm16WVJoVmJQVmwtejM4SXpzLW1QMDJsZ3pNWU15ajNQWWpETkNOc09tUm1xM2t2LXMteVQ5MUMxTktTbnlxSGJ6YXpkdGFaOExlSTFFVkJTckk?oc=5)
-
----
-
-### [I caught meningitis at university - we were lucky there was no outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UNkN5UjdVeFVCYndiMEt1V25JVDZnWkR1Y3ZMS19xVEY0dlNlS3BEVEpMek8yVGdGeUFYeUE3N1RlUWV1SVpCTXZEbm9IUEJObnJnTzBNSnllc0M0?oc=5)
-
-2026-03-19
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UNkN5UjdVeFVCYndiMEt1V25JVDZnWkR1Y3ZMS19xVEY0dlNlS3BEVEpMek8yVGdGeUFYeUE3N1RlUWV1SVpCTXZEbm9IUEJObnJnTzBNSnllc0M0?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxONmNvWG84U010aHYwVExxamFHWmM0eXd0dzVUcVlpNmNvWkhMMFliZXpuMXJCYWgtWk1TbjJJM3BGWGtxYll2Sjk4cm16WVJoVmJQVmwtejM4SXpzLW1QMDJsZ3pNWU15ajNQWWpETkNOc09tUm1xM2t2LXMteVQ5MUMxTktTbnlxSGJ6YXpkdGFaOExlSTFFVkJTckk?oc=5)
 
 ---
 

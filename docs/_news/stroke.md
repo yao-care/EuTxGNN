@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Ozempic: Heart Health Benefits Fade After Stopping GLP-1 Drugs](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
+
+2026-03-20
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
+
+---
 
 ### [E' italiano il paziente uno della stimolazione cerebrale profonda a Pittsburg contro l’ictus - la Repubblica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeF9jS3ZlLVA4ZW1HT0laRzdNQUNZUFV5VHRNWGxqLThqS0lfTTJla1VRbFVrclhjdksyaklhX3lHSzRoTFk5UXNrZlhpTExIYVVLaktxUmhHdE9JYzBoQXhiVFQzMHFkU2FiOU1vOW9DU0xQVHFXMzlQMmp5WFJNdUFvUmI4MXBRTXRrN19Ea2FIaElPMVdqdVkwUW4wZ3I2ODQtQ3dkU2J3LWgzMUZ0WtIBtgFBVV95cUxOcjNFZFJJdGdKcUhkOVFfeWJ2RUd1ZkpDdXdoVEViU05xOGJFX1h6NnY2NDVCaTFWd2NrRm5xMkdsZkVLazh4djFOaE5qY09xTjJ5Y2piQmo0R0hhNldSWndialVzRFJKdERWWExlSHZYeXF1NDY1X2N6RDNXSDI3RUVVV3BxazRld1U3T3NPSUZEQ3dYOGp2M2xzV1ZvSzFZbjhBeFg2MXUtdHg2VnVzQ25FTjJ4UQ?oc=5)
 

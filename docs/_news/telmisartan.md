@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Hypertension artérielle : ce trait de caractère qui se dérègle en secret et trahit un risque pour votre cœur - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm9VM2xrRVJzcld1RmM0eTVNTnJILTZlemtBSXJBZVg0anVMM2dsZ3Rlb2ZUQlVycVE3Vl9sbUNyRXhUUjR0a3FxcURDYnY2Sm5JemJVSVJzaEprMHRwRjlRcmFvQmJPbnNTUE5wSVE3M0NhcDVJb01QQVdWYnpfR0haSTh5TGEtXy10bVd4Yy1NazhVTHZGdlhUMk9tZTlGb2hYOVlTYTVXdDJmdlp4OFVNQUt5Z3JVdUlNMzNyRlN3cXRkVDhuU0FsTms0NklTa3RnOTZmUGVVSkFZVzJfUTBKcVNua0g1TlNqYnFB?oc=5)
 
 2026-03-21 <span class="news-indication-tag">hypertension</span>
 
 來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm9VM2xrRVJzcld1RmM0eTVNTnJILTZlemtBSXJBZVg0anVMM2dsZ3Rlb2ZUQlVycVE3Vl9sbUNyRXhUUjR0a3FxcURDYnY2Sm5JemJVSVJzaEprMHRwRjlRcmFvQmJPbnNTUE5wSVE3M0NhcDVJb01QQVdWYnpfR0haSTh5TGEtXy10bVd4Yy1NazhVTHZGdlhUMk9tZTlGb2hYOVlTYTVXdDJmdlp4OFVNQUt5Z3JVdUlNMzNyRlN3cXRkVDhuU0FsTms0NklTa3RnOTZmUGVVSkFZVzJfUTBKcVNua0g1TlNqYnFB?oc=5)
+
+---
+
+### [Ozempic: Heart Health Benefits Fade After Stopping GLP-1 Drugs](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
+
+2026-03-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
 
 ---
 

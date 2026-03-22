@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [I farmaci a base di semaglutide potrebbero aiutare a combattere i problemi di salute mentale nei malati di diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
+
+2026-03-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span>
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
+
+---
+
+### [Ozempic: Heart Health Benefits Fade After Stopping GLP-1 Drugs](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
+
+2026-03-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
+
+---
 
 ### [Diabetes: Metformin zum Schutz vor Erblindung? - PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE54OF9hVnlCT0tadVZGSHZUa1ZfUmFvdzhWMXRnNTA4QzRFU2NKSzMtTzNFUGpSOVc5NWZpQlZTTnBXbjNzSWlBZDdldHNER253Nk9EMWhsNlBtR1hBbjJMbE1icnNNOWlFd3RDc2t5WTh0UlBPZzRZcWhObEM?oc=5)
 

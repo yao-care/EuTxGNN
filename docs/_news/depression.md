@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# depression 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depression 有什麼相關新聞？">
+<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ permalink: /news/depression/
 
 ## 相關新聞（1 則）
 
-### [Lo dice la ciencia y es ley, este es el alimento que produce la felicidad: "Consumirlo de forma regular disminuye el riesgo de depresión y produce las hormonas del bienestar" - Men's Health](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcW1MTFpBNVZ2NkR6ejlvZ1lHRVpwVWZmYnBDRktsNlotZ1h6RENiWFo2alFzUURyY3hmc2FWaTZNbENvZDE4czExZW9jbGhYa21iNWZydzJ2ZTZ3djlaZlVTSGtLODJDYkpHVnBKWTE4X3ZZSHY5bzVvUFFJSlZtb2I1YUlUNktGbTVweGdULS1rQkRjcmRmdUFGcmVxNVBrZGtQTUNMZG9adw?oc=5)
+### [I farmaci a base di semaglutide potrebbero aiutare a combattere i problemi di salute mentale nei malati di diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
 
-2026-03-20
+2026-03-21
 
-來源：[Men's Health](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcW1MTFpBNVZ2NkR6ejlvZ1lHRVpwVWZmYnBDRktsNlotZ1h6RENiWFo2alFzUURyY3hmc2FWaTZNbENvZDE4czExZW9jbGhYa21iNWZydzJ2ZTZ3djlaZlVTSGtLODJDYkpHVnBKWTE4X3ZZSHY5bzVvUFFJSlZtb2I1YUlUNktGbTVweGdULS1rQkRjcmRmdUFGcmVxNVBrZGtQTUNMZG9adw?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
 
 ---
 

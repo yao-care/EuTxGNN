@@ -42,11 +42,11 @@ permalink: /news/duloxetine-hydrochloride/
 
 ## 相關新聞（1 則）
 
-### [Lo dice la ciencia y es ley, este es el alimento que produce la felicidad: "Consumirlo de forma regular disminuye el riesgo de depresión y produce las hormonas del bienestar" - Men's Health](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcW1MTFpBNVZ2NkR6ejlvZ1lHRVpwVWZmYnBDRktsNlotZ1h6RENiWFo2alFzUURyY3hmc2FWaTZNbENvZDE4czExZW9jbGhYa21iNWZydzJ2ZTZ3djlaZlVTSGtLODJDYkpHVnBKWTE4X3ZZSHY5bzVvUFFJSlZtb2I1YUlUNktGbTVweGdULS1rQkRjcmRmdUFGcmVxNVBrZGtQTUNMZG9adw?oc=5)
+### [I farmaci a base di semaglutide potrebbero aiutare a combattere i problemi di salute mentale nei malati di diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
 
-2026-03-20 <span class="news-indication-tag">depresión</span>
+2026-03-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span>
 
-來源：[Men's Health](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcW1MTFpBNVZ2NkR6ejlvZ1lHRVpwVWZmYnBDRktsNlotZ1h6RENiWFo2alFzUURyY3hmc2FWaTZNbENvZDE4czExZW9jbGhYa21iNWZydzJ2ZTZ3djlaZlVTSGtLODJDYkpHVnBKWTE4X3ZZSHY5bzVvUFFJSlZtb2I1YUlUNktGbTVweGdULS1rQkRjcmRmdUFGcmVxNVBrZGtQTUNMZG9adw?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
 
 ---
 

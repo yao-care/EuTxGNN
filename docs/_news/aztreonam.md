@@ -14,7 +14,7 @@ permalink: /news/aztreonam/
 ---
 
 <p class="key-answer" data-question="Aztreonam 有什麼相關新聞？">
-<strong>Aztreonam</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aztreonam</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/aztreonam/
 <p><a href="{{ '/drugs/aztreonam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（23 則）
 
 ### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
@@ -50,11 +50,19 @@ permalink: /news/aztreonam/
 
 ---
 
-### [Impfstoff gegen Krebs: Den Krebs wegimpfen? - DIE ZEIT](https://news.google.com/rss/articles/CBMiekFVX3lxTE1fZk5qY2tuajdTdndLVFo0Tk92YkhEZjFJcnhCMmJWM1ptU1FtMFo4WVNpZDI4TFFFRzdmRDlDYWdvQ3NJWl9Ua3RWZm5qbmlTZl9aRGIzWnNmZk05U1pYUzNyUnNocnpzVm5hbzhHRVJHc1hMVjBMYmtR?oc=5)
+### [La fin des cancers approche ? La science découvre un vaccin "prêt à l'emploi" efficace sur presque toutes les tumeurs (et voici comment il fonctionne)](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU0VWRzc0NUFQbjFaUmZiREtRcS14WUpBVVNXZHNiS3RjdVcyWTFUQ19TVTUzc3hzY3ZpU1hVLWpuajM3VjR1cExYVjlWVWdPcEd4QTdBS0E4Q2tPQ0FIdk9HNXVmQ3ZGVU1RR3dmRFAzVm9WVVdFQlRKaV9Fb2s2cThDVzJvNURjcExfY1hnU1FkZi1UbWYyQVh0Z0hLVGhpcWVvUGZrOWxwV3NOLUsycUNGMmJ2VGNVdHVEOXFwVDFDTVNZNFdOMWVZc29MM2E2N3BMRVRnUVdlazdRUjRJMWlTOEhFbkl0b2dORmpoQ0pRM1lhWTJpcVlERQ?oc=5)
 
-2026-03-21 <span class="news-indication-tag">tumor</span>
+2026-03-21 <span class="news-indication-tag">cancer</span>
 
-來源：[DIE ZEIT](https://news.google.com/rss/articles/CBMiekFVX3lxTE1fZk5qY2tuajdTdndLVFo0Tk92YkhEZjFJcnhCMmJWM1ptU1FtMFo4WVNpZDI4TFFFRzdmRDlDYWdvQ3NJWl9Ua3RWZm5qbmlTZl9aRGIzWnNmZk05U1pYUzNyUnNocnpzVm5hbzhHRVJHc1hMVjBMYmtR?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU0VWRzc0NUFQbjFaUmZiREtRcS14WUpBVVNXZHNiS3RjdVcyWTFUQ19TVTUzc3hzY3ZpU1hVLWpuajM3VjR1cExYVjlWVWdPcEd4QTdBS0E4Q2tPQ0FIdk9HNXVmQ3ZGVU1RR3dmRFAzVm9WVVdFQlRKaV9Fb2s2cThDVzJvNURjcExfY1hnU1FkZi1UbWYyQVh0Z0hLVGhpcWVvUGZrOWxwV3NOLUsycUNGMmJ2VGNVdHVEOXFwVDFDTVNZNFdOMWVZc29MM2E2N3BMRVRnUVdlazdRUjRJMWlTOEhFbkl0b2dORmpoQ0pRM1lhWTJpcVlERQ?oc=5)
+
+---
+
+### [New Experimental Drug Shrinks Tumors in Prostate Cancer Clinical Trial](https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3lvTHNKd01HTEExTmZrQWpMSU1CbFpJX0RJcVlqZms3RFpvMWNMUTVRb2d2Q18taXNVbk5rOUpMYjVvX2pMRlZUb2tKbVZlVzlFSDBKNnBDU0lwZERKSWMxYUZfV2pXSHptUU5aOE83VEk0cWdJcDVmQ2liR1VhZlhVY3djQVc2MUFYUEZvNEdaZlNXYkRzTFlnS0E3dzhU?oc=5)
+
+2026-03-21 <span class="news-indication-tag">cancer</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3lvTHNKd01HTEExTmZrQWpMSU1CbFpJX0RJcVlqZms3RFpvMWNMUTVRb2d2Q18taXNVbk5rOUpMYjVvX2pMRlZUb2tKbVZlVzlFSDBKNnBDU0lwZERKSWMxYUZfV2pXSHptUU5aOE83VEk0cWdJcDVmQ2liR1VhZlhVY3djQVc2MUFYUEZvNEdaZlNXYkRzTFlnS0E3dzhU?oc=5)
 
 ---
 
@@ -122,6 +130,14 @@ permalink: /news/aztreonam/
 
 ---
 
+### [Prevenzione del tumore del colon retto: la Regione Marche mette in campo iniziative di sensibilizzazione, Palazzo Raffaello si illumina di blu](https://news.google.com/rss/articles/CBMiowJBVV95cUxQeUZ4SHIwODRLUHZfS0dmX2RTY18zSlRmUVBWTFVjNFk4SHBROFR2UXdZQmcxcTFXYko2ZUY0bXlCNjJCVlJIS0V1U25XWXhlcXNWcy14RGNkbVJNZ2xyaTZYX2ZRdkthMTA1a1BMMm1raGV5VHNjRWpEemc4NGVaVVRBMVhzZFQzUGFBRHdJZHhiaEp1ajdSYjY4b2JZNHdsZ1hOWUVwUDdCam1KTXRsM2JfTjJRcFgyTWxqRXVBS0FhdGlPdnpSX2UwcF9FSWE0WU10d1d6blpPeEF6c1JtczJuM1JLUzYzQnE2TXdoR3lLMGQ0eF9wUDhmSHF0Z3JVZWpCeHI4c0d4WTBvRXBiaGxPZnkyOVFtYmZoZVljTW5uSXM?oc=5)
+
+2026-03-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[regione.marche.it](https://news.google.com/rss/articles/CBMiowJBVV95cUxQeUZ4SHIwODRLUHZfS0dmX2RTY18zSlRmUVBWTFVjNFk4SHBROFR2UXdZQmcxcTFXYko2ZUY0bXlCNjJCVlJIS0V1U25XWXhlcXNWcy14RGNkbVJNZ2xyaTZYX2ZRdkthMTA1a1BMMm1raGV5VHNjRWpEemc4NGVaVVRBMVhzZFQzUGFBRHdJZHhiaEp1ajdSYjY4b2JZNHdsZ1hOWUVwUDdCam1KTXRsM2JfTjJRcFgyTWxqRXVBS0FhdGlPdnpSX2UwcF9FSWE0WU10d1d6blpPeEF6c1JtczJuM1JLUzYzQnE2TXdoR3lLMGQ0eF9wUDhmSHF0Z3JVZWpCeHI4c0d4WTBvRXBiaGxPZnkyOVFtYmZoZVljTW5uSXM?oc=5)
+
+---
+
 ### [MarBiNa-Förderpreis für Niklas Gremke im Kampf gegen resistente Krebszellen - das Marburger.](https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0xSLWdMRnJ5dDg5dFV4RnlHLXZrSzItSy1wTE13Y1BpMzFhdExDSTBZNS15bTFOY3g5ZlJzSjRxUkVFank5bkI5T3hERm9BaGYxdDJiUVpsbk9xTUh1LUlfN05nWTJQdW0yZ1hrc3B6ZUdvT0Jid0U3bUlhVlgyZEF1dndXWUNPSmx5Vko1dmU4YjUwRG14QUdZZW5YcjRqdFV5eWxySk1sX2ZnemV4dURiaDZaMmdubkE?oc=5)
 
 2026-03-20 <span class="news-indication-tag">Krebs</span>
@@ -142,7 +158,7 @@ permalink: /news/aztreonam/
 
 2026-03-20 <span class="news-indication-tag">Krebs</span>
 
-來源：[fitbook.de](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdGo3VFZiRUdoeUxVcC15NTR1N2p1d3NRRDI5bmp2dkVpSnVIOVMzV3pjUmtTaE9TWGx5XzF2V0NhbUt0djBRSkFIVmFybWM3WS1wUGlibUhPbWlESU5WYw?oc=5)
+來源：[FITBOOK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdGo3VFZiRUdoeUxVcC15NTR1N2p1d3NRRDI5bmp2dkVpSnVIOVMzV3pjUmtTaE9TWGx5XzF2V0NhbUt0djBRSkFIVmFybWM3WS1wUGlibUhPbWlESU5WYw?oc=5)
 
 ---
 
@@ -154,19 +170,19 @@ permalink: /news/aztreonam/
 
 ---
 
-### [Tumore del colon in aumento: come deve proteggersi chi ha familiari con la malattia? - Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxNUThLNGFHR3BHeFFtdlhKdzhxcUNaTjVKU0Jjd2IzOGU0Q2pEOTJfQ1pXMFQzZm4ya0FlMDU2RWdVN202V0ItWlBLWXNQYjhXYUtxZ0N4SVRSQXpKWXZkRjBydmtuTjBRcjdobUllb0JZUkx0Z3VwUW9MOS1lRlMydUVvY0kzU1ZSZjcxckRaUkpjMnhQblIydUpDQ2x2OEdPMGxReWlZLTBYVFFmWjVtdFhIcENWR1pFVlV4M19tdnFBX2pVSkZXZnowbkk4Z2I4LXZjT2txLUZOSEJGYTUwbkxtSk5wM0VvTG1IcVBJTUhMdTk0UVFmZ29JZUtlVGlJWjEyQXU3NE9xWTMyeWtXdTFzb9IBmAJBVV95cUxPVjU5T1NPR2Q0enhaYnRja3l5YlkwS0JjWFBsZ2JRRkRfWC1PNjJJSVhrc3JkdWJUYjJIZXdRaC1PTjNIdjFyejltbUJkaXYwRDFtMWNGaHdWY2ZTZExQOE5vQmdyWWJXa19PRko4QjZXanNFSnMxM3JFYllRWS1vWGtZdENZZFoybF8zMnZFa1NlcXVlSW1kcjBKVHlXMnZ2NExGNDFXUG5SWHVwRGdPallnU01MalJKS01tM3U2U2N5OTl4YmpBdXJWemJVTkQ3RFhHcDlKcHlRczJTYkMtV3FQMGNic1lCWGhfSFBQUGVnbk1rOTl3U3JJSlpfUDBPVFFaQllKRy1aX0Y0Z1dSUFJjOThXcnhM?oc=5)
-
-2026-03-20 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMikwJBVV95cUxNUThLNGFHR3BHeFFtdlhKdzhxcUNaTjVKU0Jjd2IzOGU0Q2pEOTJfQ1pXMFQzZm4ya0FlMDU2RWdVN202V0ItWlBLWXNQYjhXYUtxZ0N4SVRSQXpKWXZkRjBydmtuTjBRcjdobUllb0JZUkx0Z3VwUW9MOS1lRlMydUVvY0kzU1ZSZjcxckRaUkpjMnhQblIydUpDQ2x2OEdPMGxReWlZLTBYVFFmWjVtdFhIcENWR1pFVlV4M19tdnFBX2pVSkZXZnowbkk4Z2I4LXZjT2txLUZOSEJGYTUwbkxtSk5wM0VvTG1IcVBJTUhMdTk0UVFmZ29JZUtlVGlJWjEyQXU3NE9xWTMyeWtXdTFzb9IBmAJBVV95cUxPVjU5T1NPR2Q0enhaYnRja3l5YlkwS0JjWFBsZ2JRRkRfWC1PNjJJSVhrc3JkdWJUYjJIZXdRaC1PTjNIdjFyejltbUJkaXYwRDFtMWNGaHdWY2ZTZExQOE5vQmdyWWJXa19PRko4QjZXanNFSnMxM3JFYllRWS1vWGtZdENZZFoybF8zMnZFa1NlcXVlSW1kcjBKVHlXMnZ2NExGNDFXUG5SWHVwRGdPallnU01MalJKS01tM3U2U2N5OTl4YmpBdXJWemJVTkQ3RFhHcDlKcHlRczJTYkMtV3FQMGNic1lCWGhfSFBQUGVnbk1rOTl3U3JJSlpfUDBPVFFaQllKRy1aX0Y0Z1dSUFJjOThXcnhM?oc=5)
-
----
-
 ### [Cancer deaths fall to historic low in UK – this is probably why - Positive News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2tiUXZUcEdkMzlzTVZhb2dEeUVJNGtjYWNNVmJtcVUzUW9MVTRDUXNzY1JsYllnd0l4VkRrNVpSUVRBUVZLSzNEUmZrcmx4ekxrcDhLSmxrMnhMLUVCTTAxalNBMS1GYkRBU19qVHVubXhmWEFPeC03dEEtZkFqY2pGUGlJclZGcjVwQVcwaktsaUtQZFVBenZsWURubjVHb2FaSEh3d24?oc=5)
 
 2026-03-20 <span class="news-indication-tag">cancer</span>
 
 來源：[Positive News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2tiUXZUcEdkMzlzTVZhb2dEeUVJNGtjYWNNVmJtcVUzUW9MVTRDUXNzY1JsYllnd0l4VkRrNVpSUVRBUVZLSzNEUmZrcmx4ekxrcDhLSmxrMnhMLUVCTTAxalNBMS1GYkRBU19qVHVubXhmWEFPeC03dEEtZkFqY2pGUGlJclZGcjVwQVcwaktsaUtQZFVBenZsWURubjVHb2FaSEh3d24?oc=5)
+
+---
+
+### [Científicos internacionales descubren que el axitinib aumenta un 70% el tiempo que los pacientes con tumor neuroendocrino extrapancreático metastásico viven sin que la enfermedad progrese - El Economista](https://news.google.com/rss/articles/CBMihwNBVV95cUxPaU1qdnp1Z1N5M2tkTEhlekdFWG0xTHRFQmRyZTFXN0ZOZWxQMVdvcHhTTE1sYTNtMDQzdHpwbGp3UmlyS1F6d0xyS0U0bzFaTUc4WnFMTlgtdVdReXJwRTZQTlVwRzhUQ2l0d3U5Y3RVVUd4MVJyYV9UdUM5alhmemhmc0lyM2pNUXhtOHZWMGgtM2JQUlluZ3NFQmhXUUg2TGw3NndYYW4tQURnVmV0T1Z4NlV3V2dQY2NoSTN2dnByUDVzem5jZEFKUDVuX2N4N0hCUHBNU1ZhU1VINjNBZ255RUNhQ2tSUm4yUzFWb3hsTHh5aEMzSDNhaFVJbmV4SWpGRFVHZHduYnZhSlVrbEVXUTJCd2llS1VWaEdfWFMwVnRaZTBWU0htRmh0OVFlVDVFaERHQzBZRlRQTTFoUDhlNUE2d2JqcWh0RGVHaHBtLUZYQm4yeDBPc1JuQ29hcDluZVZ4M2lxZnlKTVM2ZnNkSnVkOWFHM3lBaHFyVXZCWEpfM3dJ0gHyAkFVX3lxTE1yOXlOU212YUNhek9WS1JxNzNTVnRNU3hHRndnaWFNamJnU1ZtZDNXR01XdUVxOEJ5MEdsN1BsRmd6M3BHc28zMjh4YXlRUmFFN3FhcVo1MHpFRnY1SXpZcnNhbm5DaG5tSVllNUZJaUE4MVpwMjlKc3BYQThQZUZMMWJGeE5BVGZsSVcweE9lSmRha1kybjdmYWJ6emRBY1J1Zk5odlJqQjdwT1NTQ0M4eWsxN2d5RThsck1wTlJadFZMazcwN0tRRTVkbFJ5bjNsUXNsdDNtc05JRVVWOUlUbUFrbzltY3BlRkpVWTFmSkNVYTl3dzFnZ1VJMFlaX1A3TXVQMm1DdnRsREIyNV9vc2wzOWZFLTdzX0FILS05bW9OREIwOWtwcnNWRmxjaVQ3cEQwOFF6bFU2ekgzc2tRLWJRd3J2ZHQyM1lsdTIyaXZpLUZHTDd1d1pFdGZoLV9Zb1ZOXzNhNlhTYXc0a3JLSWc?oc=5)
+
+2026-03-20 <span class="news-drug-tag">Axitinib</span> <span class="news-indication-tag">tumor</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMihwNBVV95cUxPaU1qdnp1Z1N5M2tkTEhlekdFWG0xTHRFQmRyZTFXN0ZOZWxQMVdvcHhTTE1sYTNtMDQzdHpwbGp3UmlyS1F6d0xyS0U0bzFaTUc4WnFMTlgtdVdReXJwRTZQTlVwRzhUQ2l0d3U5Y3RVVUd4MVJyYV9UdUM5alhmemhmc0lyM2pNUXhtOHZWMGgtM2JQUlluZ3NFQmhXUUg2TGw3NndYYW4tQURnVmV0T1Z4NlV3V2dQY2NoSTN2dnByUDVzem5jZEFKUDVuX2N4N0hCUHBNU1ZhU1VINjNBZ255RUNhQ2tSUm4yUzFWb3hsTHh5aEMzSDNhaFVJbmV4SWpGRFVHZHduYnZhSlVrbEVXUTJCd2llS1VWaEdfWFMwVnRaZTBWU0htRmh0OVFlVDVFaERHQzBZRlRQTTFoUDhlNUE2d2JqcWh0RGVHaHBtLUZYQm4yeDBPc1JuQ29hcDluZVZ4M2lxZnlKTVM2ZnNkSnVkOWFHM3lBaHFyVXZCWEpfM3dJ0gHyAkFVX3lxTE1yOXlOU212YUNhek9WS1JxNzNTVnRNU3hHRndnaWFNamJnU1ZtZDNXR01XdUVxOEJ5MEdsN1BsRmd6M3BHc28zMjh4YXlRUmFFN3FhcVo1MHpFRnY1SXpZcnNhbm5DaG5tSVllNUZJaUE4MVpwMjlKc3BYQThQZUZMMWJGeE5BVGZsSVcweE9lSmRha1kybjdmYWJ6emRBY1J1Zk5odlJqQjdwT1NTQ0M4eWsxN2d5RThsck1wTlJadFZMazcwN0tRRTVkbFJ5bjNsUXNsdDNtc05JRVVWOUlUbUFrbzltY3BlRkpVWTFmSkNVYTl3dzFnZ1VJMFlaX1A3TXVQMm1DdnRsREIyNV9vc2wzOWZFLTdzX0FILS05bW9OREIwOWtwcnNWRmxjaVQ3cEQwOFF6bFU2ekgzc2tRLWJRd3J2ZHQyM1lsdTIyaXZpLUZHTDd1d1pFdGZoLV9Zb1ZOXzNhNlhTYXc0a3JLSWc?oc=5)
 
 ---
 
@@ -207,14 +223,6 @@ permalink: /news/aztreonam/
 2026-03-20 <span class="news-indication-tag">Krebs</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnFLSG1RVTRQSk9Yd2x1T0FsbTVBMXBwTk51TlFLdFJlSWdMTUVyMHB2WUxDQjZCUmxqNWNBdEFZRGZHdGY1cUNhQ1cwRDItbEFCcG9TT2lNOG52TW9vZFRSMXNLeVdXRlZfVF9oYVFUYmcxU0RvbWc1Vl9ib0RpUmtGNTRGVHZMdVlKTWZn?oc=5)
-
----
-
-### [Prevenzione contro il tumore al seno: 56 visite gratis in collaborazione con Lilt. L’oncologo Battelli: «Individuare il melanoma in fase... - Corriere Adriatico](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdTlWYUFPRUkwcGx0d210TlJNcTVPTVozYk9ZeXByQjBPT3B1SVptN3dkY1ZJMkl1czFsYlQwdWEtRDZ4N2JUVWRHOFhwWGtFR3RSWEZoRzJLSkNGZC1hSnJXTjZhWlBSdENuTjJzbGFPVUF1TXNucXN6VjhZT3R0TjdUckFCVzg3Z24zSHhSdnY4YlhSZ1IxMkcwRXg0ckF4VnBHaWN5bkNLaUoyMUprMmxpaXJ2eGNnQ2I3QTdTTkFHdTBiU1hVOURfYlZrZDFGa1RMbG9zMA?oc=5)
-
-2026-03-20 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere Adriatico](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdTlWYUFPRUkwcGx0d210TlJNcTVPTVozYk9ZeXByQjBPT3B1SVptN3dkY1ZJMkl1czFsYlQwdWEtRDZ4N2JUVWRHOFhwWGtFR3RSWEZoRzJLSkNGZC1hSnJXTjZhWlBSdENuTjJzbGFPVUF1TXNucXN6VjhZT3R0TjdUckFCVzg3Z24zSHhSdnY4YlhSZ1IxMkcwRXg0ckF4VnBHaWN5bkNLaUoyMUprMmxpaXJ2eGNnQ2I3QTdTTkFHdTBiU1hVOURfYlZrZDFGa1RMbG9zMA?oc=5)
 
 ---
 
