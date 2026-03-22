@@ -14,7 +14,7 @@ permalink: /news/lurasidone/
 ---
 
 <p class="key-answer" data-question="Lurasidone 有什麼相關新聞？">
-<strong>Lurasidone</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lurasidone</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ permalink: /news/lurasidone/
 <p><a href="{{ '/drugs/lurasidone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（26 則）
 
 ### [Zwanghaft gesund: Sie wollte alles richtig essen – und verlernte zu leben](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhaeWRHbU9pSDZ0emM4QmVYRmtYU2RMcndzZ3VlZU9kdmludm5Ja0hNd2VXQzhJM19mbGg2NlgybE5wZy1UNW1xMG83VUtTZjBWTkJhcWFkNlNUQXk3OWtWRzZhUzJyeVdvLVJjLTdJWElQVUpMdjFtX1ZWMDFta3ZTVE1WVnhHUVNmd1BBUmxDMkR3WGJrWFlSMzQwMFkyaUJYT2JBTUVxYmVlc19ZMHFkOHpfcXFYYU9Pc0hsZHpTR1ZKemdlMnVnamRzTFZQ?oc=5)
 
 2026-03-22 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhaeWRHbU9pSDZ0emM4QmVYRmtYU2RMcndzZ3VlZU9kdmludm5Ja0hNd2VXQzhJM19mbGg2NlgybE5wZy1UNW1xMG83VUtTZjBWTkJhcWFkNlNUQXk3OWtWRzZhUzJyeVdvLVJjLTdJWElQVUpMdjFtX1ZWMDFta3ZTVE1WVnhHUVNmd1BBUmxDMkR3WGJrWFlSMzQwMFkyaUJYT2JBTUVxYmVlc19ZMHFkOHpfcXFYYU9Pc0hsZHpTR1ZKemdlMnVnamRzTFZQ?oc=5)
+
+---
+
+### [Schlaf-EEG verrät Demenzrisiko Jahre im Voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0ZXeERNdHRTeUZFdy1lNDZpV1hlVmRaSzg5RnNSc01FQUhMSlVjNDRqczFMRFNwbklvaklmRE5jaG9qREZDZG5LNVF3ekRQSnpoV1NlSHRaYUFTekJOV1NDQXk4VzRTQ2RFM0RSaFEyVWZwdl9uYVVXSWl3RVYzVlZrWWswUEVuOXloTmdFS3dYblBkbVR5SlZZMXpBNktTZE1EVW1vWmRkdw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0ZXeERNdHRTeUZFdy1lNDZpV1hlVmRaSzg5RnNSc01FQUhMSlVjNDRqczFMRFNwbklvaklmRE5jaG9qREZDZG5LNVF3ekRQSnpoV1NlSHRaYUFTekJOV1NDQXk4VzRTQ2RFM0RSaFEyVWZwdl9uYVVXSWl3RVYzVlZrWWswUEVuOXloTmdFS3dYblBkbVR5SlZZMXpBNktTZE1EVW1vWmRkdw?oc=5)
+
+---
+
+### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
+
+2026-03-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
 ---
 
@@ -58,14 +74,6 @@ permalink: /news/lurasidone/
 
 ---
 
-### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
-
-2026-03-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
-
----
-
 ### [I spent five months in a mother and baby mental health unit - here's what I want mums to know](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
 
 2026-03-21 <span class="news-indication-tag">MS</span>
@@ -74,27 +82,11 @@ permalink: /news/lurasidone/
 
 ---
 
-### [Cardiologist warning to anyone taking Omeprazole, ibuprofen, diclofenac and naproxen - The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
-
-2026-03-21 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
-
----
-
 ### [Scambiata per malata psichiatrica, ora rischia la vita: il dramma di Rebecca e la corsa contro il tempo - La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTE5GR0VtRDBuYUNlR1Q5QTFISTNrRWE0aUlYNk9Db1JNWldnUHlaZEFkVjdjM3duVUpmdTVLWkhWVXRKNUdDdkVIX29qMV9GcUhsVVJ4N3N4aVRYektHcDROODR4Rko2Uk8xYml0RUc5RG5aaDRuNEJSZEFFZkFMTjVvb0dlbTAyY0dYcE9RMUt0dzBDcm5IalVFWk9sU0lXWjhZclFadEVhaVFHdzloQW5mMWhPUdIBuwFBVV95cUxQVk5Tdy1BUmQwSEVXUGEwdldFMGhvLWs1RkxBUDhlQ18xRGZTLVlBYl9jQnFIdVVXODNXbTVIUE85NmtyYlJrOWtnSTdGRUptbnFUUk91TGxaU3FueVZ4ZkhyY2t5bE4yaU5vcnBEMjdLdGRyX3ZsV2FYc1ZWeFlTMW1ZRVNRMmVobU1LWEVpRVg5MlFnc2UwamdyQ2doZ0x0ZnBITFBQU2l6UVN2cHN3ZlFuTkNIOG85VFZN?oc=5)
 
 2026-03-21 <span class="news-indication-tag">AF</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTE5GR0VtRDBuYUNlR1Q5QTFISTNrRWE0aUlYNk9Db1JNWldnUHlaZEFkVjdjM3duVUpmdTVLWkhWVXRKNUdDdkVIX29qMV9GcUhsVVJ4N3N4aVRYektHcDROODR4Rko2Uk8xYml0RUc5RG5aaDRuNEJSZEFFZkFMTjVvb0dlbTAyY0dYcE9RMUt0dzBDcm5IalVFWk9sU0lXWjhZclFadEVhaVFHdzloQW5mMWhPUdIBuwFBVV95cUxQVk5Tdy1BUmQwSEVXUGEwdldFMGhvLWs1RkxBUDhlQ18xRGZTLVlBYl9jQnFIdVVXODNXbTVIUE85NmtyYlJrOWtnSTdGRUptbnFUUk91TGxaU3FueVZ4ZkhyY2t5bE4yaU5vcnBEMjdLdGRyX3ZsV2FYc1ZWeFlTMW1ZRVNRMmVobU1LWEVpRVg5MlFnc2UwamdyQ2doZ0x0ZnBITFBQU2l6UVN2cHN3ZlFuTkNIOG85VFZN?oc=5)
-
----
-
-### [Un Erasmus español en el epicentro de meningitis de Kent: «Ha sido un poco apocalíptico» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbTNoMXBWc09vQ0lYNzNkYVFkY01BYlo2emlneTlRNjlnanRlUHFpNnNoN3FFa0pTeUk1TE1EeXlhQjZ6VmxQTFFGUGViSjQ5Vmd3a1ExQzcwUWJfVG1NNXNWQ1liLUN2LUhKNm1HNzNfY2RxSU5wMEctZEZ0NnJnRzNVczZpZzJoLUdZNGh3ZjN6R2VaS0l6NFVmN3lZYi1XeHdMNDdaTTBQZld3alVHUGg4Mzd5MVVhd2dXcGlzOFJZdjBfQWFEVmM2SlhIcWFQcGtnWDlRODhYTlVz?oc=5)
-
-2026-03-21 <span class="news-indication-tag">AF</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbTNoMXBWc09vQ0lYNzNkYVFkY01BYlo2emlneTlRNjlnanRlUHFpNnNoN3FFa0pTeUk1TE1EeXlhQjZ6VmxQTFFGUGViSjQ5Vmd3a1ExQzcwUWJfVG1NNXNWQ1liLUN2LUhKNm1HNzNfY2RxSU5wMEctZEZ0NnJnRzNVczZpZzJoLUdZNGh3ZjN6R2VaS0l6NFVmN3lZYi1XeHdMNDdaTTBQZld3alVHUGg4Mzd5MVVhd2dXcGlzOFJZdjBfQWFEVmM2SlhIcWFQcGtnWDlRODhYTlVz?oc=5)
 
 ---
 
@@ -114,6 +106,14 @@ permalink: /news/lurasidone/
 
 ---
 
+### [Un español, en el epicentro del brote de meningitis B en Kent: "Ha sido un poco apocalíptico" - La Razón](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHpEZXlIdU53U2NSSmI3aXkwUGtRa3Y4MmtqOUVHLUhIZ1JqSU44c3hmeWF3R1RPWlh2VVBQU0tsSVV6aEkxYkEzVkxVWUZIWVRDUW5XakVsOG5nTnFKbE9kcVpxQmNqdGpwNHRSOFpKTzF4blloV1RsaDQyWjdDbXFteEdpZHpMLXhMUmZudzRRejVXT2VDZ3E1TzVjMFUyMEZCM2RLMDdGZEY5NERUdjJnWFZtRFRrUVR2RFBqRnN4dnBPLVd2NVY0MmbSAeABQVVfeXFMTnlvVnBhd2gxU3kxdzg2UG5YbmdOZy1XY2NnQjRKdFVlOFZwVy1kNU5PNjd0UnhFSmFKdHhrRVFSQ3Z1dFYwaVZzTUNwaUlIVzdka1RuTWZDczZMRlprUXBKd25GdGZXalJfcUJjSFZiSUU2SlZJdHMyc09Ga2xlYmJ6T1ZtMHBKM1VfekJtRHk0dHBxcXk5V0VzMHVKUFllMWdsUE10RmE3OG5jbWIzZUgtOU9Xel9Ba19PQzVUS09PV1ZRZkxnVEZzeWFjdktBT1JNd2QyQy1rN1A2SkNMV28?oc=5)
+
+2026-03-21 <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHpEZXlIdU53U2NSSmI3aXkwUGtRa3Y4MmtqOUVHLUhIZ1JqSU44c3hmeWF3R1RPWlh2VVBQU0tsSVV6aEkxYkEzVkxVWUZIWVRDUW5XakVsOG5nTnFKbE9kcVpxQmNqdGpwNHRSOFpKTzF4blloV1RsaDQyWjdDbXFteEdpZHpMLXhMUmZudzRRejVXT2VDZ3E1TzVjMFUyMEZCM2RLMDdGZEY5NERUdjJnWFZtRFRrUVR2RFBqRnN4dnBPLVd2NVY0MmbSAeABQVVfeXFMTnlvVnBhd2gxU3kxdzg2UG5YbmdOZy1XY2NnQjRKdFVlOFZwVy1kNU5PNjd0UnhFSmFKdHhrRVFSQ3Z1dFYwaVZzTUNwaUlIVzdka1RuTWZDczZMRlprUXBKd25GdGZXalJfcUJjSFZiSUU2SlZJdHMyc09Ga2xlYmJ6T1ZtMHBKM1VfekJtRHk0dHBxcXk5V0VzMHVKUFllMWdsUE10RmE3OG5jbWIzZUgtOU9Xel9Ba19PQzVUS09PV1ZRZkxnVEZzeWFjdktBT1JNd2QyQy1rN1A2SkNMV28?oc=5)
+
+---
+
 ### [Alternativa alla caffeina "senza effetti collaterali": esperto fa chiarezza sulla paraxantina](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdTFaTktIRVRiTG9QOUJ0d0xHbnVMTlRMekhVbzlmOXpZSnBUZTB1QlZpMHdWWE9EM1R4a3FtaTRRTk9PVm45dm1jT2JBVXNpTzFodGdURnI2UXdEQ09LVFJuM3h0dVBMS0gzTVpBVVREYktYdERUTjBQTTQ1UTR0cUtTTUtSdURPSVRUamQxMjBrYnVOREs4dm44TmhBUy1rdG5aOE5EdzlLN1BtUFhlVW0ydmJYdEZuYjd4el95VVJvN01UMnBwSTE5ZTJ2blBrbERqandOdldxckhkVkNqbXdvVHNMQQ?oc=5)
 
 2026-03-21 <span class="news-indication-tag">AF</span>
@@ -127,14 +127,6 @@ permalink: /news/lurasidone/
 2026-03-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUU9KMERMRnRmeGVLeUp3c3FkTkoyS2EtMGJhME9RVXZTUG5YdEZ3ZktZYkpvWXNfY2FQU0dKU0pkTFcwWFVfeFFfcTY3TFNzdU9UQWRPRkxIZHhJbHlySGt1MEt3c2J5QUN2V3pTM09OcXd4MXAzeG14bVlRYk4wZE81c043alhyaTZ6UDRvWHFFS19TMWpoRl9HcVhJeVBNcDUwQ2VxVTVsc2pENFE?oc=5)
-
----
-
-### ['I was told I was making it up' - woman’s 22-year battle to be believed - Warrington Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWpGNlZoVk9vYTRSLWhVdDBYYjJDOUQzbEFBMEpGUVA5SWJvS3ZjSktQNUluT0dRak5aS2FXQ2Jabzhzd19BbXV6aXRXNjRCV2JVVWdFMDRwMmhnRG1qRW9fTHpYX2VDLTI4OERkVlR3eG1mUlMwWmNUMzBMYTg5X0NfZzV2VXN0azhPTEhwQ0VmX1N3dV8tdnRuZmYtMXRwemh4QTd6a1pOb0NOZFJFRjB3?oc=5)
-
-2026-03-21 <span class="news-indication-tag">AF</span>
-
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWpGNlZoVk9vYTRSLWhVdDBYYjJDOUQzbEFBMEpGUVA5SWJvS3ZjSktQNUluT0dRak5aS2FXQ2Jabzhzd19BbXV6aXRXNjRCV2JVVWdFMDRwMmhnRG1qRW9fTHpYX2VDLTI4OERkVlR3eG1mUlMwWmNUMzBMYTg5X0NfZzV2VXN0azhPTEhwQ0VmX1N3dV8tdnRuZmYtMXRwemh4QTd6a1pOb0NOZFJFRjB3?oc=5)
 
 ---
 
@@ -226,14 +218,6 @@ permalink: /news/lurasidone/
 
 ---
 
-### [A man used AI to help make a cancer vaccine for his dog – an oncologist urges caution - The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdVLWNaM1AxSTJUdHdOS3hQMVJ6Nmx5TGNkZEFtbEZRbmI0VGpPUWN0Zmtjb2V2Y2tWZGZrZ0xZQ2ZTV1NBU0VyNlZhd2x3bnNwbWo4Y1cwNWN1ZTBVVE1IUWhSVUhiMGVPU1RJN0RjZFlQWHhHcGpWeVdIcHp0UEdzWDNfMHFWM3RCakpQUmNOSTlOWVdQMzQ4Y09zTjVfRmgwTm1MeGpqWXIyeldkbU9KeDJjN3N1eGc?oc=5)
-
-2026-03-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdVLWNaM1AxSTJUdHdOS3hQMVJ6Nmx5TGNkZEFtbEZRbmI0VGpPUWN0Zmtjb2V2Y2tWZGZrZ0xZQ2ZTV1NBU0VyNlZhd2x3bnNwbWo4Y1cwNWN1ZTBVVE1IUWhSVUhiMGVPU1RJN0RjZFlQWHhHcGpWeVdIcHp0UEdzWDNfMHFWM3RCakpQUmNOSTlOWVdQMzQ4Y09zTjVfRmgwTm1MeGpqWXIyeldkbU9KeDJjN3N1eGc?oc=5)
-
----
-
 ### [Vaccini Covid, nuove indicazioni OMS: dosi semestrali ai fragili e lotta alla "disinformazione"](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTmJOd1FZVURheXI5WjJIYUQxQkk0TTVkUmFDSUdLaWN1cVd5ZDBDSzl1MmJxTnhWekhBazAyWTFWM0xGZURRRXVOVnBJbnl0YzFXUGd1M0htWUphNkl2RGl0cm5MdFg3QkQ3S09jWW1fbTBsc21Cbi1wN0E3allDS1g5aXNnQTRxOWVSRk9sS3Rwczdoc2VjbFl6UVNxdHZCazQtWjJEZFB1WjZaRUxnUlc2YmtnZ0JjeFBfTVRuNExxak5lcjZEblM2ZzRPNzZmd3c?oc=5)
 
 2026-03-20 <span class="news-indication-tag">MS</span>
@@ -250,11 +234,11 @@ permalink: /news/lurasidone/
 
 ---
 
-### [Vom Gewebeschnitt zur Datenquelle: KI-Werkzeug eröffnet neue Möglichkeiten für Klinik und Forschung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hNXZ2TlpBVWhqWFBiSTBMLWRjcGtzUXZUZEZuVnN0SGwwM3MzUmZTZ0h1c1p1eFJZZ0xnMzNsd29qelRpMGpOVVY0WQ?oc=5)
+### [Vom Gewebeschnitt zur Datenquelle: KI-Werkzeug eröffnet neue Möglichkeiten für Klinik und Forschung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcjF2SlFWVll1TmgxX3d3d3pQUTdhMzZXOG5nX3FQMU15RW5wN2JTa1p2LTVIa2RJWUo4ZlNrMUsyaTRjcERGbmtaTV9xVWNLRGNScWcwcUtYSU9yeGVGZDZPNFlGVmt6STFSWldMX2t6WDhQZXhBQmxheEZZSUtzQzZ2dDdRZFh0aVI3N0JxZm1vdVk4cU1oc3Y0Q3JydlZ4STJLcnlJczdLLTFwaGlvbUc0NWhXVWRTdzF1YjhiZmEzRkI0S1RHR0k1NkJqX1dkdG83SHQxcjhXQ3E1UFdr?oc=5)
 
 2026-03-20 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hNXZ2TlpBVWhqWFBiSTBMLWRjcGtzUXZUZEZuVnN0SGwwM3MzUmZTZ0h1c1p1eFJZZ0xnMzNsd29qelRpMGpOVVY0WQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcjF2SlFWVll1TmgxX3d3d3pQUTdhMzZXOG5nX3FQMU15RW5wN2JTa1p2LTVIa2RJWUo4ZlNrMUsyaTRjcERGbmtaTV9xVWNLRGNScWcwcUtYSU9yeGVGZDZPNFlGVmt6STFSWldMX2t6WDhQZXhBQmxheEZZSUtzQzZ2dDdRZFh0aVI3N0JxZm1vdVk4cU1oc3Y0Q3JydlZ4STJLcnlJczdLLTFwaGlvbUc0NWhXVWRTdzF1YjhiZmEzRkI0S1RHR0k1NkJqX1dkdG83SHQxcjhXQ3E1UFdr?oc=5)
 
 ---
 

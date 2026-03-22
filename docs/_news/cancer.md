@@ -3,7 +3,7 @@ layout: default
 title: "Krebs（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Krebs（cancer） 的相關健康新聞報導。23 則新聞、229 個相關藥物。"
+description: "Krebs（cancer） 的相關健康新聞報導。20 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="Krebs（cancer） 有什麼相關新聞？">
-<strong>Krebs（cancer）</strong> 目前有 <strong>23 則</strong>相關新聞報導，229 個相關藥物。
+<strong>Krebs（cancer）</strong> 目前有 <strong>20 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -257,11 +257,19 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（20 則）
+
+### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivAFBVV95cUxQV3ZLNlpZYjBuYy1FeVQ0U1hPZVRLOFcyMmZCWVByYnBnMUJSSldjQ21pUzYwMm8tV0t4M0FzX2M2amw5bm1nZHFBT0Y2Z0lnbVVBMTg1aHhtVFNCeVpGc2l5UWNQTmNuQzhzWEtMc1NMLVVVVnBoT0FBdnZDOGRUUHVsSi1rRHMwN2ttNUJDMnJoWVhveHFRUnJJdGNSQnI4bEQ0SmM0RHA0ei1QcHowalBpTmxQR0dURnFObQ?oc=5)
+
+2026-03-22
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivAFBVV95cUxQV3ZLNlpZYjBuYy1FeVQ0U1hPZVRLOFcyMmZCWVByYnBnMUJSSldjQ21pUzYwMm8tV0t4M0FzX2M2amw5bm1nZHFBT0Y2Z0lnbVVBMTg1aHhtVFNCeVpGc2l5UWNQTmNuQzhzWEtMc1NMLVVVVnBoT0FBdnZDOGRUUHVsSi1rRHMwN2ttNUJDMnJoWVhveHFRUnJJdGNSQnI4bEQ0SmM0RHA0ei1QcHowalBpTmxQR0dURnFObQ?oc=5)
+
+---
 
 ### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
-2026-03-21
+2026-03-22
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
@@ -272,14 +280,6 @@ permalink: /news/cancer/
 2026-03-21
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU0VWRzc0NUFQbjFaUmZiREtRcS14WUpBVVNXZHNiS3RjdVcyWTFUQ19TVTUzc3hzY3ZpU1hVLWpuajM3VjR1cExYVjlWVWdPcEd4QTdBS0E4Q2tPQ0FIdk9HNXVmQ3ZGVU1RR3dmRFAzVm9WVVdFQlRKaV9Fb2s2cThDVzJvNURjcExfY1hnU1FkZi1UbWYyQVh0Z0hLVGhpcWVvUGZrOWxwV3NOLUsycUNGMmJ2VGNVdHVEOXFwVDFDTVNZNFdOMWVZc29MM2E2N3BMRVRnUVdlazdRUjRJMWlTOEhFbkl0b2dORmpoQ0pRM1lhWTJpcVlERQ?oc=5)
-
----
-
-### [New Experimental Drug Shrinks Tumors in Prostate Cancer Clinical Trial](https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3lvTHNKd01HTEExTmZrQWpMSU1CbFpJX0RJcVlqZms3RFpvMWNMUTVRb2d2Q18taXNVbk5rOUpMYjVvX2pMRlZUb2tKbVZlVzlFSDBKNnBDU0lwZERKSWMxYUZfV2pXSHptUU5aOE83VEk0cWdJcDVmQ2liR1VhZlhVY3djQVc2MUFYUEZvNEdaZlNXYkRzTFlnS0E3dzhU?oc=5)
-
-2026-03-21
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3lvTHNKd01HTEExTmZrQWpMSU1CbFpJX0RJcVlqZms3RFpvMWNMUTVRb2d2Q18taXNVbk5rOUpMYjVvX2pMRlZUb2tKbVZlVzlFSDBKNnBDU0lwZERKSWMxYUZfV2pXSHptUU5aOE83VEk0cWdJcDVmQ2liR1VhZlhVY3djQVc2MUFYUEZvNEdaZlNXYkRzTFlnS0E3dzhU?oc=5)
 
 ---
 
@@ -312,6 +312,14 @@ permalink: /news/cancer/
 2026-03-21
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQXhZYmktM1BFRFUtWW5MUUJFZjhiS3lCX2o3NXk2ZGpERWtTejFvX2kxMTY0N1BER0FkVkdIeWZOV1A3d2RKcW1YcjZMN1VPejZIbXZKVTJsZk5LNWpERF9UNkdNQWt1VGdjd1ZBanpjdTJwS0lMaHpwbXRfRHViMDE1U05FUkdZYTBBbGc1Mk9zVUxEV19nMGxrT29jN2pqbnB4WmVDdFVHeW9GdF94UjJYeEVBY0k0WERhdEFQb2ZxUzZ0WWx2MG1Rc1o3VktscGN1Q0RmajFBeEstSW9ZOTFVWU95bGw4LVUyc2FHYmNvVEVWeHJR?oc=5)
+
+---
+
+### [Il tumore al pancreas si nasconde: ecco i sintomi da non sottovalutare secondo Bassetti - Everyeye Lifestyle](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0JJd1pCZjB3WGFxZWdWUUxvU09nQlVsSEVRQ2tXeFEwUkg3aWFyNkNDYndjZWROb3hRQXJ6X1hLUGlIS3BRMVhfdjQ0eFBYbTRlYkp4aWtnNDNTYjBqWFYxRmpIUGhia1ktQzF1NXBBNFV1WTA1bGNZcDNvVHlfdE9aelRiTjJWZDBtbVpHMEpxSXJySDNfeVhGT1NiYjZiNXVuYWJHQmZoNnlENGlZQ2pCZWRzZXpI?oc=5)
+
+2026-03-20
+
+來源：[Everyeye Lifestyle](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0JJd1pCZjB3WGFxZWdWUUxvU09nQlVsSEVRQ2tXeFEwUkg3aWFyNkNDYndjZWROb3hRQXJ6X1hLUGlIS3BRMVhfdjQ0eFBYbTRlYkp4aWtnNDNTYjBqWFYxRmpIUGhia1ktQzF1NXBBNFV1WTA1bGNZcDNvVHlfdE9aelRiTjJWZDBtbVpHMEpxSXJySDNfeVhGT1NiYjZiNXVuYWJHQmZoNnlENGlZQ2pCZWRzZXpI?oc=5)
 
 ---
 
@@ -355,22 +363,6 @@ permalink: /news/cancer/
 
 ---
 
-### [MarBiNa-Förderpreis für Niklas Gremke im Kampf gegen resistente Krebszellen - das Marburger.](https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0xSLWdMRnJ5dDg5dFV4RnlHLXZrSzItSy1wTE13Y1BpMzFhdExDSTBZNS15bTFOY3g5ZlJzSjRxUkVFank5bkI5T3hERm9BaGYxdDJiUVpsbk9xTUh1LUlfN05nWTJQdW0yZ1hrc3B6ZUdvT0Jid0U3bUlhVlgyZEF1dndXWUNPSmx5Vko1dmU4YjUwRG14QUdZZW5YcjRqdFV5eWxySk1sX2ZnemV4dURiaDZaMmdubkE?oc=5)
-
-2026-03-20
-
-來源：[das Marburger.](https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0xSLWdMRnJ5dDg5dFV4RnlHLXZrSzItSy1wTE13Y1BpMzFhdExDSTBZNS15bTFOY3g5ZlJzSjRxUkVFank5bkI5T3hERm9BaGYxdDJiUVpsbk9xTUh1LUlfN05nWTJQdW0yZ1hrc3B6ZUdvT0Jid0U3bUlhVlgyZEF1dndXWUNPSmx5Vko1dmU4YjUwRG14QUdZZW5YcjRqdFV5eWxySk1sX2ZnemV4dURiaDZaMmdubkE?oc=5)
-
----
-
-### [A man used AI to help make a cancer vaccine for his dog – an oncologist urges caution - The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdVLWNaM1AxSTJUdHdOS3hQMVJ6Nmx5TGNkZEFtbEZRbmI0VGpPUWN0Zmtjb2V2Y2tWZGZrZ0xZQ2ZTV1NBU0VyNlZhd2x3bnNwbWo4Y1cwNWN1ZTBVVE1IUWhSVUhiMGVPU1RJN0RjZFlQWHhHcGpWeVdIcHp0UEdzWDNfMHFWM3RCakpQUmNOSTlOWVdQMzQ4Y09zTjVfRmgwTm1MeGpqWXIyeldkbU9KeDJjN3N1eGc?oc=5)
-
-2026-03-20
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdVLWNaM1AxSTJUdHdOS3hQMVJ6Nmx5TGNkZEFtbEZRbmI0VGpPUWN0Zmtjb2V2Y2tWZGZrZ0xZQ2ZTV1NBU0VyNlZhd2x3bnNwbWo4Y1cwNWN1ZTBVVE1IUWhSVUhiMGVPU1RJN0RjZFlQWHhHcGpWeVdIcHp0UEdzWDNfMHFWM3RCakpQUmNOSTlOWVdQMzQ4Y09zTjVfRmgwTm1MeGpqWXIyeldkbU9KeDJjN3N1eGc?oc=5)
-
----
-
 ### [Dieses unterschätzte Organ könnte vor Krebs schützen](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdGo3VFZiRUdoeUxVcC15NTR1N2p1d3NRRDI5bmp2dkVpSnVIOVMzV3pjUmtTaE9TWGx5XzF2V0NhbUt0djBRSkFIVmFybWM3WS1wUGlibUhPbWlESU5WYw?oc=5)
 
 2026-03-20
@@ -403,6 +395,14 @@ permalink: /news/cancer/
 
 ---
 
+### [Hoffnungsschimmer im Kampf gegen resistente Krebszellen - Universitätsstadt Marburg](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZm5WcUVwX2VqYlZRUW1GV2Jnc3V3cEsxeUdfTDMtTGpNZDVJNzBGcXg5NEZ4U3JxRVNFWW5kblZvY1BFaDhLdy1WRnRzM3N0c1NRRkhXZktfbl9iVkNTT054UTRxcXkzbjEzVEpOekFKSlZoeEpsTTFTa0hkNmRob3BPWjdSWUxZS09hT3lzMXAzZUFRQWZUREFUYndlOEg4RDJzTHhkOXo3ZlNzbnR3ZlloLTVfcXppaG50TlNicEhndkdBVWFqUHVqcHJ4UQ?oc=5)
+
+2026-03-20
+
+來源：[Universitätsstadt Marburg](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZm5WcUVwX2VqYlZRUW1GV2Jnc3V3cEsxeUdfTDMtTGpNZDVJNzBGcXg5NEZ4U3JxRVNFWW5kblZvY1BFaDhLdy1WRnRzM3N0c1NRRkhXZktfbl9iVkNTT054UTRxcXkzbjEzVEpOekFKSlZoeEpsTTFTa0hkNmRob3BPWjdSWUxZS09hT3lzMXAzZUFRQWZUREFUYndlOEg4RDJzTHhkOXo3ZlNzbnR3ZlloLTVfcXppaG50TlNicEhndkdBVWFqUHVqcHJ4UQ?oc=5)
+
+---
+
 ### [I’m a prostate cancer expert. This is the treatment that won’t ruin your sex life - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHhOSVQ4di1PMTM0Vmo3ZVp3R2VTQkF5RzRLWDdVcUpBNlBPWVM1Z3BYT3ZYdG9idV9ZbU9CVVV2Wl9yWFNoV2NVSmNwemt5V1hhMkdSU0VGNFBrYkNpMGx1ZDJaVVMzNVhldEtvM2p4anY0ZkcxOC1vd2pKNTZ0TlRvWGtsY09rTU1MdFRsQVFPUnJERFFPci03UHdVQmZWSEI4?oc=5)
 
 2026-03-20
@@ -416,30 +416,6 @@ permalink: /news/cancer/
 2026-03-20
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi8AFBVV95cUxORU1kVlFSRnhkRl9kZHU1YUtCNHJFVW50UHVRbHdvWDI5RlBveWJqd1dMT2g2Si15SEtsN01EZjZkSUROdkFST2VfVUFrOU9UMk1yeGtpMXE1d3Z6dFZqVERfTXZWMkVnNXFYc0U5XzE5NE9uZDN5NGQ4dE5POXF2SmsxVXktdkFKcVZuYTZfbUpFX2duYXlnWlZQQ25iNk5oeEw3SHY1WldRWmRyc29ZMXotOHVmUXpTSDF3OUszajA4THFRZTlBek1UOUxhc0kybGZVTFc3dGpmRVFwQjM0ZGxpSXVJR1MwY3RIaElEcy0?oc=5)
-
----
-
-### [Steatosi epatica, perché è importante sapere se il fegato è «grasso» - Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
-
-2026-03-20
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
-
----
-
-### [Dépister des cancers ORL… grâce à une simple photo de la bouche avec un smartphone - Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR1o5U2gzNVVtaDVxb0dDMzdhaktaQlZuaDBWSUpvWE5sZk5IR0lzZTFrMjlQY0xrWjhLdmF0RmhZeEMxLURMRVQwbnhPRjk2cHBMRzE0MGtmTzFhSUdfbXZCYkVaamNrU3FXZ29xem41SjVRYWtQdUs0WkNaRHoxWkFpRXVTa0c1cUprV1hCMlAxVHdhV0RzVlZWbVFLYURtS0RMUEJudEhmSF91cDJ5eERKN2MzLWZHNmhmTDE4VHZ6LVpiWXRWeTVYeUd3eUp6dHRZNEQ1N0dEZmE5dEo2YWNJZ0ZFZ0VR?oc=5)
-
-2026-03-20
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR1o5U2gzNVVtaDVxb0dDMzdhaktaQlZuaDBWSUpvWE5sZk5IR0lzZTFrMjlQY0xrWjhLdmF0RmhZeEMxLURMRVQwbnhPRjk2cHBMRzE0MGtmTzFhSUdfbXZCYkVaamNrU3FXZ29xem41SjVRYWtQdUs0WkNaRHoxWkFpRXVTa0c1cUprV1hCMlAxVHdhV0RzVlZWbVFLYURtS0RMUEJudEhmSF91cDJ5eERKN2MzLWZHNmhmTDE4VHZ6LVpiWXRWeTVYeUd3eUp6dHRZNEQ1N0dEZmE5dEo2YWNJZ0ZFZ0VR?oc=5)
-
----
-
-### [Telecare bei Angst nach Krebserkrankung](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnFLSG1RVTRQSk9Yd2x1T0FsbTVBMXBwTk51TlFLdFJlSWdMTUVyMHB2WUxDQjZCUmxqNWNBdEFZRGZHdGY1cUNhQ1cwRDItbEFCcG9TT2lNOG52TW9vZFRSMXNLeVdXRlZfVF9oYVFUYmcxU0RvbWc1Vl9ib0RpUmtGNTRGVHZMdVlKTWZn?oc=5)
-
-2026-03-20
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnFLSG1RVTRQSk9Yd2x1T0FsbTVBMXBwTk51TlFLdFJlSWdMTUVyMHB2WUxDQjZCUmxqNWNBdEFZRGZHdGY1cUNhQ1cwRDItbEFCcG9TT2lNOG52TW9vZFRSMXNLeVdXRlZfVF9oYVFUYmcxU0RvbWc1Vl9ib0RpUmtGNTRGVHZMdVlKTWZn?oc=5)
 
 ---
 

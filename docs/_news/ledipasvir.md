@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ledipasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,11 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（14 則）
 
 ### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
-2026-03-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-03-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
@@ -63,14 +63,6 @@ permalink: /news/ledipasvir/
 2026-03-21 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Mattino](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzE5YXpKRVctal9oZ3lubXFtY3R1S2VJU05aM2VxM3FQaXQyNzJVWV82VmN2OU1ESFRhejVkckNZNXZhdzg0MVhXcnhqYm1RRnl2ek5iRm0zRXV6Vjd3dWtGNE91YUVQejdCNWpkS2puNl94Mk1zc2t1TkhpUS0zOG5hQWFnWDVITlhSeXZvc3RIb3UtTmxR0gGcAUFVX3lxTE11ZkJia0dDRVVuR2xhTTJZcl92Y2REY0dGN0gtT3dlWVE3OGlORkRxSHBYNkpONFZtMGI2bWZsbWJ0TWRsUlNGMTVEM1NGR3FBRG5mT0VDUXNLVzcxNTJyZFpRLUQ0M1M3cERTaFU2ZWpzRzdSU0huWkJRd3Q0RWlmaE5VUk15clh2TFRSMXJZaU1mbHV0TFc0S3VQaA?oc=5)
-
----
-
-### [Cardiologist warning to anyone taking Omeprazole, ibuprofen, diclofenac and naproxen - The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
-
-2026-03-21 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
 
 ---
 
@@ -159,14 +151,6 @@ permalink: /news/ledipasvir/
 2026-03-20 <span class="news-indication-tag">MS</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxONmNvWG84U010aHYwVExxamFHWmM0eXd0dzVUcVlpNmNvWkhMMFliZXpuMXJCYWgtWk1TbjJJM3BGWGtxYll2Sjk4cm16WVJoVmJQVmwtejM4SXpzLW1QMDJsZ3pNWU15ajNQWWpETkNOc09tUm1xM2t2LXMteVQ5MUMxTktTbnlxSGJ6YXpkdGFaOExlSTFFVkJTckk?oc=5)
-
----
-
-### [Steatosi epatica, perché è importante sapere se il fegato è «grasso» - Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
-
-2026-03-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">epatite</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
 
 ---
 

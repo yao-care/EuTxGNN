@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,11 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
 ### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
-2026-03-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-03-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
 
@@ -55,14 +55,6 @@ permalink: /news/interferon-beta-1a/
 2026-03-21 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
-
----
-
-### [Cardiologist warning to anyone taking Omeprazole, ibuprofen, diclofenac and naproxen - The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
-
-2026-03-21 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
 
 ---
 

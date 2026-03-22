@@ -14,7 +14,7 @@ permalink: /news/aprepitant/
 ---
 
 <p class="key-answer" data-question="Aprepitant 有什麼相關新聞？">
-<strong>Aprepitant</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aprepitant</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/aprepitant/
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（18 則）
 
 ### [Zwanghaft gesund: Sie wollte alles richtig essen – und verlernte zu leben](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhaeWRHbU9pSDZ0emM4QmVYRmtYU2RMcndzZ3VlZU9kdmludm5Ja0hNd2VXQzhJM19mbGg2NlgybE5wZy1UNW1xMG83VUtTZjBWTkJhcWFkNlNUQXk3OWtWRzZhUzJyeVdvLVJjLTdJWElQVUpMdjFtX1ZWMDFta3ZTVE1WVnhHUVNmd1BBUmxDMkR3WGJrWFlSMzQwMFkyaUJYT2JBTUVxYmVlc19ZMHFkOHpfcXFYYU9Pc0hsZHpTR1ZKemdlMnVnamRzTFZQ?oc=5)
 
 2026-03-22 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhaeWRHbU9pSDZ0emM4QmVYRmtYU2RMcndzZ3VlZU9kdmludm5Ja0hNd2VXQzhJM19mbGg2NlgybE5wZy1UNW1xMG83VUtTZjBWTkJhcWFkNlNUQXk3OWtWRzZhUzJyeVdvLVJjLTdJWElQVUpMdjFtX1ZWMDFta3ZTVE1WVnhHUVNmd1BBUmxDMkR3WGJrWFlSMzQwMFkyaUJYT2JBTUVxYmVlc19ZMHFkOHpfcXFYYU9Pc0hsZHpTR1ZKemdlMnVnamRzTFZQ?oc=5)
+
+---
+
+### [Schlaf-EEG verrät Demenzrisiko Jahre im Voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0ZXeERNdHRTeUZFdy1lNDZpV1hlVmRaSzg5RnNSc01FQUhMSlVjNDRqczFMRFNwbklvaklmRE5jaG9qREZDZG5LNVF3ekRQSnpoV1NlSHRaYUFTekJOV1NDQXk4VzRTQ2RFM0RSaFEyVWZwdl9uYVVXSWl3RVYzVlZrWWswUEVuOXloTmdFS3dYblBkbVR5SlZZMXpBNktTZE1EVW1vWmRkdw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0ZXeERNdHRTeUZFdy1lNDZpV1hlVmRaSzg5RnNSc01FQUhMSlVjNDRqczFMRFNwbklvaklmRE5jaG9qREZDZG5LNVF3ekRQSnpoV1NlSHRaYUFTekJOV1NDQXk4VzRTQ2RFM0RSaFEyVWZwdl9uYVVXSWl3RVYzVlZrWWswUEVuOXloTmdFS3dYblBkbVR5SlZZMXpBNktTZE1EVW1vWmRkdw?oc=5)
 
 ---
 
@@ -66,14 +74,6 @@ permalink: /news/aprepitant/
 
 ---
 
-### [Un Erasmus español en el epicentro de meningitis de Kent: «Ha sido un poco apocalíptico» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbTNoMXBWc09vQ0lYNzNkYVFkY01BYlo2emlneTlRNjlnanRlUHFpNnNoN3FFa0pTeUk1TE1EeXlhQjZ6VmxQTFFGUGViSjQ5Vmd3a1ExQzcwUWJfVG1NNXNWQ1liLUN2LUhKNm1HNzNfY2RxSU5wMEctZEZ0NnJnRzNVczZpZzJoLUdZNGh3ZjN6R2VaS0l6NFVmN3lZYi1XeHdMNDdaTTBQZld3alVHUGg4Mzd5MVVhd2dXcGlzOFJZdjBfQWFEVmM2SlhIcWFQcGtnWDlRODhYTlVz?oc=5)
-
-2026-03-21 <span class="news-indication-tag">AF</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbTNoMXBWc09vQ0lYNzNkYVFkY01BYlo2emlneTlRNjlnanRlUHFpNnNoN3FFa0pTeUk1TE1EeXlhQjZ6VmxQTFFGUGViSjQ5Vmd3a1ExQzcwUWJfVG1NNXNWQ1liLUN2LUhKNm1HNzNfY2RxSU5wMEctZEZ0NnJnRzNVczZpZzJoLUdZNGh3ZjN6R2VaS0l6NFVmN3lZYi1XeHdMNDdaTTBQZld3alVHUGg4Mzd5MVVhd2dXcGlzOFJZdjBfQWFEVmM2SlhIcWFQcGtnWDlRODhYTlVz?oc=5)
-
----
-
 ### [College student has suspected meningitis but the risk to others is 'very low' | ITV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2x5Qnl1UUZiN2NsQUR6RVZ4eGpVNWlJdDhvYld5bkVSV2dVTUdUZHFfMS05aENpNzRNTzZFVU50QnMyWVY0REtBNEp2d0hFQ2pKZDYyVUhwQkhWUWlLVkZJdUM3TTI0dVZzcTRha0R2TDRxQ3VyX2h5LWxSX2xXME5TbnprRnBHMnZtZS03cnNUNjRwRG10Q0hfVlBtWHc2c3V3Mk1oTDEyYVdDaFZFcUFaME1tSWVFWVJn?oc=5)
 
 2026-03-21 <span class="news-indication-tag">AF</span>
@@ -87,6 +87,14 @@ permalink: /news/aprepitant/
 2026-03-21 <span class="news-indication-tag">AF</span>
 
 來源：[Il Piccolo](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSEJDMHhfU2JNOVc4dE1OMXFUZTNzX21KbWpjcm13ZE1OZk5aaVptUThQQnh2ZlFxOVdwZkRxaDNsYTF6SU52MllUSTlfSWhkSzc5QXE5eXJjeGtZQ2N2T082dzMzN1IwUHJUOHZkWnZ3Z29aM2hZU0VTUXdiVGY3OEVyV0hCdXVfSHNvaUVUbjE1QkR0MHFxQUdFZ1kwc2l1MUZ5ekVR?oc=5)
+
+---
+
+### [Un español, en el epicentro del brote de meningitis B en Kent: "Ha sido un poco apocalíptico" - La Razón](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHpEZXlIdU53U2NSSmI3aXkwUGtRa3Y4MmtqOUVHLUhIZ1JqSU44c3hmeWF3R1RPWlh2VVBQU0tsSVV6aEkxYkEzVkxVWUZIWVRDUW5XakVsOG5nTnFKbE9kcVpxQmNqdGpwNHRSOFpKTzF4blloV1RsaDQyWjdDbXFteEdpZHpMLXhMUmZudzRRejVXT2VDZ3E1TzVjMFUyMEZCM2RLMDdGZEY5NERUdjJnWFZtRFRrUVR2RFBqRnN4dnBPLVd2NVY0MmbSAeABQVVfeXFMTnlvVnBhd2gxU3kxdzg2UG5YbmdOZy1XY2NnQjRKdFVlOFZwVy1kNU5PNjd0UnhFSmFKdHhrRVFSQ3Z1dFYwaVZzTUNwaUlIVzdka1RuTWZDczZMRlprUXBKd25GdGZXalJfcUJjSFZiSUU2SlZJdHMyc09Ga2xlYmJ6T1ZtMHBKM1VfekJtRHk0dHBxcXk5V0VzMHVKUFllMWdsUE10RmE3OG5jbWIzZUgtOU9Xel9Ba19PQzVUS09PV1ZRZkxnVEZzeWFjdktBT1JNd2QyQy1rN1A2SkNMV28?oc=5)
+
+2026-03-21 <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHpEZXlIdU53U2NSSmI3aXkwUGtRa3Y4MmtqOUVHLUhIZ1JqSU44c3hmeWF3R1RPWlh2VVBQU0tsSVV6aEkxYkEzVkxVWUZIWVRDUW5XakVsOG5nTnFKbE9kcVpxQmNqdGpwNHRSOFpKTzF4blloV1RsaDQyWjdDbXFteEdpZHpMLXhMUmZudzRRejVXT2VDZ3E1TzVjMFUyMEZCM2RLMDdGZEY5NERUdjJnWFZtRFRrUVR2RFBqRnN4dnBPLVd2NVY0MmbSAeABQVVfeXFMTnlvVnBhd2gxU3kxdzg2UG5YbmdOZy1XY2NnQjRKdFVlOFZwVy1kNU5PNjd0UnhFSmFKdHhrRVFSQ3Z1dFYwaVZzTUNwaUlIVzdka1RuTWZDczZMRlprUXBKd25GdGZXalJfcUJjSFZiSUU2SlZJdHMyc09Ga2xlYmJ6T1ZtMHBKM1VfekJtRHk0dHBxcXk5V0VzMHVKUFllMWdsUE10RmE3OG5jbWIzZUgtOU9Xel9Ba19PQzVUS09PV1ZRZkxnVEZzeWFjdktBT1JNd2QyQy1rN1A2SkNMV28?oc=5)
 
 ---
 
@@ -111,14 +119,6 @@ permalink: /news/aprepitant/
 2026-03-21 <span class="news-indication-tag">hypertension</span>
 
 來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm9VM2xrRVJzcld1RmM0eTVNTnJILTZlemtBSXJBZVg0anVMM2dsZ3Rlb2ZUQlVycVE3Vl9sbUNyRXhUUjR0a3FxcURDYnY2Sm5JemJVSVJzaEprMHRwRjlRcmFvQmJPbnNTUE5wSVE3M0NhcDVJb01QQVdWYnpfR0haSTh5TGEtXy10bVd4Yy1NazhVTHZGdlhUMk9tZTlGb2hYOVlTYTVXdDJmdlp4OFVNQUt5Z3JVdUlNMzNyRlN3cXRkVDhuU0FsTms0NklTa3RnOTZmUGVVSkFZVzJfUTBKcVNua0g1TlNqYnFB?oc=5)
-
----
-
-### ['I was told I was making it up' - woman’s 22-year battle to be believed - Warrington Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWpGNlZoVk9vYTRSLWhVdDBYYjJDOUQzbEFBMEpGUVA5SWJvS3ZjSktQNUluT0dRak5aS2FXQ2Jabzhzd19BbXV6aXRXNjRCV2JVVWdFMDRwMmhnRG1qRW9fTHpYX2VDLTI4OERkVlR3eG1mUlMwWmNUMzBMYTg5X0NfZzV2VXN0azhPTEhwQ0VmX1N3dV8tdnRuZmYtMXRwemh4QTd6a1pOb0NOZFJFRjB3?oc=5)
-
-2026-03-21 <span class="news-indication-tag">AF</span>
-
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWpGNlZoVk9vYTRSLWhVdDBYYjJDOUQzbEFBMEpGUVA5SWJvS3ZjSktQNUluT0dRak5aS2FXQ2Jabzhzd19BbXV6aXRXNjRCV2JVVWdFMDRwMmhnRG1qRW9fTHpYX2VDLTI4OERkVlR3eG1mUlMwWmNUMzBMYTg5X0NfZzV2VXN0azhPTEhwQ0VmX1N3dV8tdnRuZmYtMXRwemh4QTd6a1pOb0NOZFJFRjB3?oc=5)
 
 ---
 
@@ -170,14 +170,6 @@ permalink: /news/aprepitant/
 
 ---
 
-### [A man used AI to help make a cancer vaccine for his dog – an oncologist urges caution - The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdVLWNaM1AxSTJUdHdOS3hQMVJ6Nmx5TGNkZEFtbEZRbmI0VGpPUWN0Zmtjb2V2Y2tWZGZrZ0xZQ2ZTV1NBU0VyNlZhd2x3bnNwbWo4Y1cwNWN1ZTBVVE1IUWhSVUhiMGVPU1RJN0RjZFlQWHhHcGpWeVdIcHp0UEdzWDNfMHFWM3RCakpQUmNOSTlOWVdQMzQ4Y09zTjVfRmgwTm1MeGpqWXIyeldkbU9KeDJjN3N1eGc?oc=5)
-
-2026-03-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUdVLWNaM1AxSTJUdHdOS3hQMVJ6Nmx5TGNkZEFtbEZRbmI0VGpPUWN0Zmtjb2V2Y2tWZGZrZ0xZQ2ZTV1NBU0VyNlZhd2x3bnNwbWo4Y1cwNWN1ZTBVVE1IUWhSVUhiMGVPU1RJN0RjZFlQWHhHcGpWeVdIcHp0UEdzWDNfMHFWM3RCakpQUmNOSTlOWVdQMzQ4Y09zTjVfRmgwTm1MeGpqWXIyeldkbU9KeDJjN3N1eGc?oc=5)
-
----
-
 ### [Sabbern im Schlaf: Was es bedeuten kann, wenn Ihr Kissen morgens nass ist](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUlIyVHJHT25FY2V3XzNESXRTa3FjSmpHbTh3MFczQl9DVnBvN2djZ2RrWnZJdzRaaVBjckUwQUs1emM4THdOcDJ1NjV2bUxMdktGMHJ2bkhac256aHlLWlN4ZnlHNl9xc291Mi1ka29kQVRwRGtaQm5NR1MtdUtuT0JiZ3RHeUJkaGptQ3BocDZ5b29YT1BaWm1SUUszajVWNXNQVzc4U0N6TmxYd3BCeE9jTVF3QnRMelpYM0gzR3R3dWhCRzkxclJ4ZDROQ29HZDRSNUVaWF9aN2VZWUMzNncxaktWYWtWX08zeV9R?oc=5)
 
 2026-03-20 <span class="news-indication-tag">AF</span>
@@ -186,11 +178,11 @@ permalink: /news/aprepitant/
 
 ---
 
-### [Vom Gewebeschnitt zur Datenquelle: KI-Werkzeug eröffnet neue Möglichkeiten für Klinik und Forschung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hNXZ2TlpBVWhqWFBiSTBMLWRjcGtzUXZUZEZuVnN0SGwwM3MzUmZTZ0h1c1p1eFJZZ0xnMzNsd29qelRpMGpOVVY0WQ?oc=5)
+### [Vom Gewebeschnitt zur Datenquelle: KI-Werkzeug eröffnet neue Möglichkeiten für Klinik und Forschung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcjF2SlFWVll1TmgxX3d3d3pQUTdhMzZXOG5nX3FQMU15RW5wN2JTa1p2LTVIa2RJWUo4ZlNrMUsyaTRjcERGbmtaTV9xVWNLRGNScWcwcUtYSU9yeGVGZDZPNFlGVmt6STFSWldMX2t6WDhQZXhBQmxheEZZSUtzQzZ2dDdRZFh0aVI3N0JxZm1vdVk4cU1oc3Y0Q3JydlZ4STJLcnlJczdLLTFwaGlvbUc0NWhXVWRTdzF1YjhiZmEzRkI0S1RHR0k1NkJqX1dkdG83SHQxcjhXQ3E1UFdr?oc=5)
 
 2026-03-20 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hNXZ2TlpBVWhqWFBiSTBMLWRjcGtzUXZUZEZuVnN0SGwwM3MzUmZTZ0h1c1p1eFJZZ0xnMzNsd29qelRpMGpOVVY0WQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcjF2SlFWVll1TmgxX3d3d3pQUTdhMzZXOG5nX3FQMU15RW5wN2JTa1p2LTVIa2RJWUo4ZlNrMUsyaTRjcERGbmtaTV9xVWNLRGNScWcwcUtYSU9yeGVGZDZPNFlGVmt6STFSWldMX2t6WDhQZXhBQmxheEZZSUtzQzZ2dDdRZFh0aVI3N0JxZm1vdVk4cU1oc3Y0Q3JydlZ4STJLcnlJczdLLTFwaGlvbUc0NWhXVWRTdzF1YjhiZmEzRkI0S1RHR0k1NkJqX1dkdG83SHQxcjhXQ3E1UFdr?oc=5)
 
 ---
 

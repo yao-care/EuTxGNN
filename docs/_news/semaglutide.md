@@ -42,6 +42,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（5 則）
 
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
+
+---
+
 ### [I farmaci a base di semaglutide potrebbero aiutare a combattere i problemi di salute mentale nei malati di diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
 
 2026-03-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span>
@@ -63,14 +71,6 @@ permalink: /news/semaglutide/
 2026-03-20 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE54OF9hVnlCT0tadVZGSHZUa1ZfUmFvdzhWMXRnNTA4QzRFU2NKSzMtTzNFUGpSOVc5NWZpQlZTTnBXbjNzSWlBZDdldHNER253Nk9EMWhsNlBtR1hBbjJMbE1icnNNOWlFd3RDc2t5WTh0UlBPZzRZcWhObEM?oc=5)
-
----
-
-### [Something in Python Blood Could Be The Future of Weight Loss](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcndhTHlQNjgyMzBNSjZTejVUWHdzamwwbUp6RlNkVGIxMi1YY0pVZktHT0U4Q1NYdk9jYmh3V25IZlA5UTZMSUZuR0xjeUtSb2xQNzBwRk1yTlNHRTJtbWtmOXhVV1lLMkh4VXlNb1JFX1FYc3FkOHJaMEdnWkhoOU5EZXdpMkViZ1pqOTMzcnozUTQ?oc=5)
-
-2026-03-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcndhTHlQNjgyMzBNSjZTejVUWHdzamwwbUp6RlNkVGIxMi1YY0pVZktHT0U4Q1NYdk9jYmh3V25IZlA5UTZMSUZuR0xjeUtSb2xQNzBwRk1yTlNHRTJtbWtmOXhVV1lLMkh4VXlNb1JFX1FYc3FkOHJaMEdnWkhoOU5EZXdpMkViZ1pqOTMzcnozUTQ?oc=5)
 
 ---
 

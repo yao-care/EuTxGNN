@@ -14,7 +14,7 @@ permalink: /news/insulin-aspart/
 ---
 
 <p class="key-answer" data-question="Insulin Aspart 有什麼相關新聞？">
-<strong>Insulin Aspart</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Insulin Aspart</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/insulin-aspart/
 <p><a href="{{ '/drugs/insulin-aspart/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
+
+---
 
 ### [I farmaci a base di semaglutide potrebbero aiutare a combattere i problemi di salute mentale nei malati di diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
 

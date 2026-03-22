@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabete（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabete（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabete（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
+
+2026-03-22
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
+
+---
 
 ### [I farmaci a base di semaglutide potrebbero aiutare a combattere i problemi di salute mentale nei malati di diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
 

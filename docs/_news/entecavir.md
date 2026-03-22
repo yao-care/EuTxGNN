@@ -14,7 +14,7 @@ permalink: /news/entecavir/
 ---
 
 <p class="key-answer" data-question="Entecavir 有什麼相關新聞？">
-<strong>Entecavir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Entecavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/entecavir/
 <p><a href="{{ '/drugs/entecavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [​Epatite, viaggio nei laboratori Abc: «L’acqua di Napoli è controllata, nessun rischio» - Il Mattino](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzE5YXpKRVctal9oZ3lubXFtY3R1S2VJU05aM2VxM3FQaXQyNzJVWV82VmN2OU1ESFRhejVkckNZNXZhdzg0MVhXcnhqYm1RRnl2ek5iRm0zRXV6Vjd3dWtGNE91YUVQejdCNWpkS2puNl94Mk1zc2t1TkhpUS0zOG5hQWFnWDVITlhSeXZvc3RIb3UtTmxR0gGcAUFVX3lxTE11ZkJia0dDRVVuR2xhTTJZcl92Y2REY0dGN0gtT3dlWVE3OGlORkRxSHBYNkpONFZtMGI2bWZsbWJ0TWRsUlNGMTVEM1NGR3FBRG5mT0VDUXNLVzcxNTJyZFpRLUQ0M1M3cERTaFU2ZWpzRzdSU0huWkJRd3Q0RWlmaE5VUk15clh2TFRSMXJZaU1mbHV0TFc0S3VQaA?oc=5)
 
@@ -63,14 +63,6 @@ permalink: /news/entecavir/
 2026-03-21 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
-
----
-
-### [Steatosi epatica, perché è importante sapere se il fegato è «grasso» - Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
-
-2026-03-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">epatite</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzZQNlJoR1dvaDdOXzBSX2lsb0dZeThjbHRDSEFMREVQNExDSWcwVXdBSjlxbzRjRHJaV05tMDdjOUVYMlk3eFJRQWJRVTdJSllxdWdWdjFMVHhXLWRFVWVJM2hkbGZCX2pzSkJLdzlHb2VjZWRUM1RmQUlYd0dvUm1tcXV0eHgxYWx0NjdPclR4Z1FqamMxTktvQWJOc1Nkbk5fUFFSdWpJbGVmQmhMT3hoR3d0V29HTHBaRl9wRlBtVGlsdnhoX1VyQ3YwdzVKbTViUl9LeGNFeVI2Tl91SG4yUVBBZ9IB6wFBVV95cUxOTTZ3S0pmS2R1blF4SE9wOHhaMHg0MHVVaEdDTTFmb0lFQzF5ZG5Lb3B4anRib0NPYmpvWGlEVFc1b0NIejFRTFhiY3hSOC1JNkFZSTd1djJxME5uRGpyaUgyTTMtRW1Ka1ZJVmhmcFJIbTU1YVpHbzNaclBqSWhqUFNHTTBTLVdzN1lUbWdwTGNLeUZTQTh4VE1QaUUtR21WQ0NQb0dQWXN6aDNVX1ViU0R0eV96WERVaWdkRW8zSGF4S3dCZGFaUVh0dnpxdjY0S1ZEYVFlQV9NbVlkVFR0cjVZRjJmNXk1MU1F?oc=5)
 
 ---
 
