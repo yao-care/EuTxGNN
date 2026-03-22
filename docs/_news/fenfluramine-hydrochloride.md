@@ -44,7 +44,7 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ### [Something in Python Blood Could Be The Future of Weight Loss](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcndhTHlQNjgyMzBNSjZTejVUWHdzamwwbUp6RlNkVGIxMi1YY0pVZktHT0U4Q1NYdk9jYmh3V25IZlA5UTZMSUZuR0xjeUtSb2xQNzBwRk1yTlNHRTJtbWtmOXhVV1lLMkh4VXlNb1JFX1FYc3FkOHJaMEdnWkhoOU5EZXdpMkViZ1pqOTMzcnozUTQ?oc=5)
 
-2026-03-20 <span class="news-indication-tag">obesity</span>
+2026-03-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcndhTHlQNjgyMzBNSjZTejVUWHdzamwwbUp6RlNkVGIxMi1YY0pVZktHT0U4Q1NYdk9jYmh3V25IZlA5UTZMSUZuR0xjeUtSb2xQNzBwRk1yTlNHRTJtbWtmOXhVV1lLMkh4VXlNb1JFX1FYc3FkOHJaMEdnWkhoOU5EZXdpMkViZ1pqOTMzcnozUTQ?oc=5)
 

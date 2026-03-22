@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,23 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Coleraine woman shares agonising reality of migraine during pregnancy and labour - Belfast Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkZJZXlFaENUcHVyZlIwak8zbXF0ZHFoZ05DdzdwODljdnhQUGpYaVU2UGlzV1dMVl9rdXMxYTVtdzFnZUpLVlFrZFFYWVJwQ1lnamJwRmo4Nm5rOGdXczdBd2IyM0xtRWhtWmFtdzFiQjhnclVLb09wc1plSWpsTTJtNDQzakhKSHNJU3VxZUhSOGYxYVBJcWJrNGdmNUxKa2FJ0gGoAUFVX3lxTFBiNW5yckJ0aGsxNkZRb0VJaTZvZTE3RG1iMF9LMklpZ0I3eDdFYV9jdENUUElBbzBWNzlYUHBXRmlFVnJGUVhBT29IRFZXUnlTbXcxVW1VUmtOUFU1WjN2NGtsaFczYzFFWDNIM3Bnd2puZlZwNFNINTN2N2pydzlNSTRiSEpfMk5ueXp3alpxWnZGS2lLc1h2cU5jTFJfV2xFYWFnR1ljUw?oc=5)
+
+2026-03-21 <span class="news-indication-tag">migraine</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkZJZXlFaENUcHVyZlIwak8zbXF0ZHFoZ05DdzdwODljdnhQUGpYaVU2UGlzV1dMVl9rdXMxYTVtdzFnZUpLVlFrZFFYWVJwQ1lnamJwRmo4Nm5rOGdXczdBd2IyM0xtRWhtWmFtdzFiQjhnclVLb09wc1plSWpsTTJtNDQzakhKSHNJU3VxZUhSOGYxYVBJcWJrNGdmNUxKa2FJ0gGoAUFVX3lxTFBiNW5yckJ0aGsxNkZRb0VJaTZvZTE3RG1iMF9LMklpZ0I3eDdFYV9jdENUUElBbzBWNzlYUHBXRmlFVnJGUVhBT29IRFZXUnlTbXcxVW1VUmtOUFU1WjN2NGtsaFczYzFFWDNIM3Bnd2puZlZwNFNINTN2N2pydzlNSTRiSEpfMk5ueXp3alpxWnZGS2lLc1h2cU5jTFJfV2xFYWFnR1ljUw?oc=5)
+
+---
+
+### [Early Menopause Linked to 40% Higher Risk of Cardiovascular Disease](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
+
+2026-03-21 <span class="news-indication-tag">heart disease</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
+
+---
 
 
 <div class="disclaimer">

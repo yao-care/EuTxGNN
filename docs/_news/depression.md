@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [La depresión no es inevitable: así influye el cerebro en el impacto del dolor crónico](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaENuMm1OWVh3SWlET1cyT0hza3dsZEpaak1rdG9QeEZZTXViNjI4dzhVR3B6UDB3b2pCTWRQM2o5cDY1QlF4Z1Y0c3BiTldxajNjeUZRdDJKUjctQ1plc0hTLUlBcVY5VnJPM2lveXdBT0V0N0otaTJUSW90Q1dHREdnbG05TmJScHBYVWdUNlZ0ZzhVZXNxbUk0LWFFamxoN0RFMFI1WVDSAa4BQVVfeXFMT19xZzlVLXpkOEotX1BWMEFZZUxhTFpvRnVkaDJqRTM0S09icGd0aHpVekdyWjZrMVY4N25pRzlIc0tvWlpmYlJRNWdDa290THh3dzhKWm1lVFZpVDlndVZNSWJsNXh0MU9TTndLR1VjQlcwcUlHQXZzRHgwRnoxV3kzZVJocXR5Rjd1ZDRYMkRPUDV3T1FNekZOdklFRU40T2YxN1hBN1ZleXZmZXVB?oc=5)
+
+2026-03-22
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaENuMm1OWVh3SWlET1cyT0hza3dsZEpaak1rdG9QeEZZTXViNjI4dzhVR3B6UDB3b2pCTWRQM2o5cDY1QlF4Z1Y0c3BiTldxajNjeUZRdDJKUjctQ1plc0hTLUlBcVY5VnJPM2lveXdBT0V0N0otaTJUSW90Q1dHREdnbG05TmJScHBYVWdUNlZ0ZzhVZXNxbUk0LWFFamxoN0RFMFI1WVDSAa4BQVVfeXFMT19xZzlVLXpkOEotX1BWMEFZZUxhTFpvRnVkaDJqRTM0S09icGd0aHpVekdyWjZrMVY4N25pRzlIc0tvWlpmYlJRNWdDa290THh3dzhKWm1lVFZpVDlndVZNSWJsNXh0MU9TTndLR1VjQlcwcUlHQXZzRHgwRnoxV3kzZVJocXR5Rjd1ZDRYMkRPUDV3T1FNekZOdklFRU40T2YxN1hBN1ZleXZmZXVB?oc=5)
+
+---
 
 ### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
 

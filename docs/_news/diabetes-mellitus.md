@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabète（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
+description: "diabète（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabète（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,6 +116,14 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（4 則）
 
+### [Complet, seigle ou levain, le pain le plus sain selon les nutritionnistes pourrait vous surprendre](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYzJKejkySUVwTXQzX0FlU2p1VUNkb2dwM0gyTWhpSjdQc29ILUZRVWJPVHkwZmpVRDNvT3F4Rk02R183T3FiMlJIbkh6WVpzTnZoNXVKSGdjTFJOQmxLWnp3ZjdSU3dMa2ZYSjJvUjlkTUVkXy1Sa1JGdzhHcEVOcjZiRVZGLVF0T1hfMGdLemlBal9yQnJhVlNRa3p6a0pLWGVFc1lsbE5aeXJjRUdfanQ5dTVsamVjZTFDdUwzZmJoS01QbGpYYzNodk9icVNCZksw?oc=5)
+
+2026-03-22
+
+來源：[melty.fr](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYzJKejkySUVwTXQzX0FlU2p1VUNkb2dwM0gyTWhpSjdQc29ILUZRVWJPVHkwZmpVRDNvT3F4Rk02R183T3FiMlJIbkh6WVpzTnZoNXVKSGdjTFJOQmxLWnp3ZjdSU3dMa2ZYSjJvUjlkTUVkXy1Sa1JGdzhHcEVOcjZiRVZGLVF0T1hfMGdLemlBal9yQnJhVlNRa3p6a0pLWGVFc1lsbE5aeXJjRUdfanQ5dTVsamVjZTFDdUwzZmJoS01QbGpYYzNodk9icVNCZksw?oc=5)
+
+---
+
 ### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
 
 2026-03-22
@@ -137,14 +145,6 @@ permalink: /news/diabetes-mellitus/
 2026-03-20
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE54OF9hVnlCT0tadVZGSHZUa1ZfUmFvdzhWMXRnNTA4QzRFU2NKSzMtTzNFUGpSOVc5NWZpQlZTTnBXbjNzSWlBZDdldHNER253Nk9EMWhsNlBtR1hBbjJMbE1icnNNOWlFd3RDc2t5WTh0UlBPZzRZcWhObEM?oc=5)
-
----
-
-### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
-
-2026-03-20
-
-來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
 
 ---
 

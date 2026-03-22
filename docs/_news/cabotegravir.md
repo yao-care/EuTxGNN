@@ -42,6 +42,14 @@ permalink: /news/cabotegravir/
 
 ## 相關新聞（5 則）
 
+### [Complet, seigle ou levain, le pain le plus sain selon les nutritionnistes pourrait vous surprendre](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYzJKejkySUVwTXQzX0FlU2p1VUNkb2dwM0gyTWhpSjdQc29ILUZRVWJPVHkwZmpVRDNvT3F4Rk02R183T3FiMlJIbkh6WVpzTnZoNXVKSGdjTFJOQmxLWnp3ZjdSU3dMa2ZYSjJvUjlkTUVkXy1Sa1JGdzhHcEVOcjZiRVZGLVF0T1hfMGdLemlBal9yQnJhVlNRa3p6a0pLWGVFc1lsbE5aeXJjRUdfanQ5dTVsamVjZTFDdUwzZmJoS01QbGpYYzNodk9icVNCZksw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">diabète</span>
+
+來源：[melty.fr](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYzJKejkySUVwTXQzX0FlU2p1VUNkb2dwM0gyTWhpSjdQc29ILUZRVWJPVHkwZmpVRDNvT3F4Rk02R183T3FiMlJIbkh6WVpzTnZoNXVKSGdjTFJOQmxLWnp3ZjdSU3dMa2ZYSjJvUjlkTUVkXy1Sa1JGdzhHcEVOcjZiRVZGLVF0T1hfMGdLemlBal9yQnJhVlNRa3p6a0pLWGVFc1lsbE5aeXJjRUdfanQ5dTVsamVjZTFDdUwzZmJoS01QbGpYYzNodk9icVNCZksw?oc=5)
+
+---
+
 ### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
 
 2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
@@ -71,14 +79,6 @@ permalink: /news/cabotegravir/
 2026-03-20 <span class="news-drug-tag">Cabotegravir</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV3ozNFJQSHhPVVY3VXl0SHZ3cTJnTm9ldHVHRmdIN1JhWFN2N2c1aU9MUnp5MWRvWjV4RWF3V0xuTDhJTFhmaFpYTUZseTYwR19yU01jZ0JFNmRTeEJvRzJXcGc2bnJFZlYzMFBBZ2F5cVM3UE55N2h1NXdBeVdXTnlMYk9UeVpqVXc1WDV1b0NiQVp1VnFXTUxJN3FXR2x6X1pHNU9JajE0RjdmSHFyVW1fRlZJNXZHbU5OMTN6V1kwM1FCWDhvUzIwVlJYcTVrMDZGT0J2anJnVnlNaWJzby1CenlDR243?oc=5)
-
----
-
-### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
-
-2026-03-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
 
 ---
 

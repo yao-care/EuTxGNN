@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [​Epatite, viaggio nei laboratori Abc: «L’acqua di Napoli è controllata, nessun rischio» - Il Mattino](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzE5YXpKRVctal9oZ3lubXFtY3R1S2VJU05aM2VxM3FQaXQyNzJVWV82VmN2OU1ESFRhejVkckNZNXZhdzg0MVhXcnhqYm1RRnl2ek5iRm0zRXV6Vjd3dWtGNE91YUVQejdCNWpkS2puNl94Mk1zc2t1TkhpUS0zOG5hQWFnWDVITlhSeXZvc3RIb3UtTmxR0gGcAUFVX3lxTE11ZkJia0dDRVVuR2xhTTJZcl92Y2REY0dGN0gtT3dlWVE3OGlORkRxSHBYNkpONFZtMGI2bWZsbWJ0TWRsUlNGMTVEM1NGR3FBRG5mT0VDUXNLVzcxNTJyZFpRLUQ0M1M3cERTaFU2ZWpzRzdSU0huWkJRd3Q0RWlmaE5VUk15clh2TFRSMXJZaU1mbHV0TFc0S3VQaA?oc=5)
+### [Epatite A, la Regione alza l’allerta: acquistati 25.000 vaccini. “Dose gratis a chi è a rischio” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU0VUcU5GZE5Qc0FnSXFJamRqZGRhUnR2SW94VlhzQ2ttbXg1OHRpZUlWc2YwV0pQb19aYXphS05tOUxjUDN2ZC00Y0tVSFBPd3Bvd1Nlb0lSZV9vWURZSUZvTi11TjYydXI5REVheE1fd2paZUtWRS1NVnFTQkJldGpqbDExa0htTVpzaG1FbDJ3VWxzUl9zeWg1Wkw2b2VQMGthc0E4RWRfS1l1cVhFV3VjUXdKa2ZOcjlLRHBvb1hVSmdWbGdtSExYcG1OWW94dXpNaEJfWlpqYmNR?oc=5)
 
-2026-03-21 <span class="news-indication-tag">epatite</span>
+2026-03-22 <span class="news-indication-tag">epatite</span>
 
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzE5YXpKRVctal9oZ3lubXFtY3R1S2VJU05aM2VxM3FQaXQyNzJVWV82VmN2OU1ESFRhejVkckNZNXZhdzg0MVhXcnhqYm1RRnl2ek5iRm0zRXV6Vjd3dWtGNE91YUVQejdCNWpkS2puNl94Mk1zc2t1TkhpUS0zOG5hQWFnWDVITlhSeXZvc3RIb3UtTmxR0gGcAUFVX3lxTE11ZkJia0dDRVVuR2xhTTJZcl92Y2REY0dGN0gtT3dlWVE3OGlORkRxSHBYNkpONFZtMGI2bWZsbWJ0TWRsUlNGMTVEM1NGR3FBRG5mT0VDUXNLVzcxNTJyZFpRLUQ0M1M3cERTaFU2ZWpzRzdSU0huWkJRd3Q0RWlmaE5VUk15clh2TFRSMXJZaU1mbHV0TFc0S3VQaA?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU0VUcU5GZE5Qc0FnSXFJamRqZGRhUnR2SW94VlhzQ2ttbXg1OHRpZUlWc2YwV0pQb19aYXphS05tOUxjUDN2ZC00Y0tVSFBPd3Bvd1Nlb0lSZV9vWURZSUZvTi11TjYydXI5REVheE1fd2paZUtWRS1NVnFTQkJldGpqbDExa0htTVpzaG1FbDJ3VWxzUl9zeWg1Wkw2b2VQMGthc0E4RWRfS1l1cVhFV3VjUXdKa2ZOcjlLRHBvb1hVSmdWbGdtSExYcG1OWW94dXpNaEJfWlpqYmNR?oc=5)
 
 ---
 
@@ -58,19 +58,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Italien: Wegen Hepatitis-A – Neapel verbietet Verzehr roher Meeresfrüchte - Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
+### [Italien: Wegen Hepatitis-A – Neapel verbietet Verzehr roher Meeresfrüchte - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUdFc0V0N0FldVhBX1dsbHlFbGVXdGFlaVpUTVh5TE5ZU1V0T2pUQXBnb2RrYlBzbXZjTjFCYndvY0JYbTIyYm9JNEh0NVVYaUNSTjVpUmtQVGFvMVJTMWRUQ00tWjA0Ty1EemxrNS15OWsxLTY0bHFGSGhBNURTc3BlWV80cmZZa21wWFE5T1RreVd3SEY4NW5LY0wxRFdaM3h3RGg5ZUExX1A5cDNMeDZJVFJiTVFOS0s3YQ?oc=5)
 
 2026-03-21 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
-
----
-
-### [Hypertension artérielle : ce trait de caractère qui se dérègle en secret et trahit un risque pour votre cœur - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm9VM2xrRVJzcld1RmM0eTVNTnJILTZlemtBSXJBZVg0anVMM2dsZ3Rlb2ZUQlVycVE3Vl9sbUNyRXhUUjR0a3FxcURDYnY2Sm5JemJVSVJzaEprMHRwRjlRcmFvQmJPbnNTUE5wSVE3M0NhcDVJb01QQVdWYnpfR0haSTh5TGEtXy10bVd4Yy1NazhVTHZGdlhUMk9tZTlGb2hYOVlTYTVXdDJmdlp4OFVNQUt5Z3JVdUlNMzNyRlN3cXRkVDhuU0FsTms0NklTa3RnOTZmUGVVSkFZVzJfUTBKcVNua0g1TlNqYnFB?oc=5)
-
-2026-03-21 <span class="news-indication-tag">hypertension</span>
-
-來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm9VM2xrRVJzcld1RmM0eTVNTnJILTZlemtBSXJBZVg0anVMM2dsZ3Rlb2ZUQlVycVE3Vl9sbUNyRXhUUjR0a3FxcURDYnY2Sm5JemJVSVJzaEprMHRwRjlRcmFvQmJPbnNTUE5wSVE3M0NhcDVJb01QQVdWYnpfR0haSTh5TGEtXy10bVd4Yy1NazhVTHZGdlhUMk9tZTlGb2hYOVlTYTVXdDJmdlp4OFVNQUt5Z3JVdUlNMzNyRlN3cXRkVDhuU0FsTms0NklTa3RnOTZmUGVVSkFZVzJfUTBKcVNua0g1TlNqYnFB?oc=5)
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUdFc0V0N0FldVhBX1dsbHlFbGVXdGFlaVpUTVh5TE5ZU1V0T2pUQXBnb2RrYlBzbXZjTjFCYndvY0JYbTIyYm9JNEh0NVVYaUNSTjVpUmtQVGFvMVJTMWRUQ00tWjA0Ty1EemxrNS15OWsxLTY0bHFGSGhBNURTc3BlWV80cmZZa21wWFE5T1RreVd3SEY4NW5LY0wxRFdaM3h3RGg5ZUExX1A5cDNMeDZJVFJiTVFOS0s3YQ?oc=5)
 
 ---
 

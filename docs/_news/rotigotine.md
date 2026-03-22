@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,29 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
-
-### [Vegetarier und Veganer weisen bei zwei Krebsarten ein deutlich höheres Risiko auf](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
-
-2026-03-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc05BVVk5X19Wd1dReTNJRFFNV3kxLWppWlJKd3lhb1hTMXFMenc1WGZSTVIwSWdVNTN2b1Z6bkRpWFp3d2VKYmtET09tdHRyZExfcGh2TnIyZV9xOWlUa1BzOUg5SnhVMDdvQjVGdk96VFZSQzhMNkNXNktZMldMVEMyU3g0Q0VMcDJaeE83NlNFLVJvMkxOc0ZQSGIzWGpUT2IwQk5uTjFHQ2k2aFc1QXp6Uk96VmtHaTdKM0toQmtaeU16N0FWeGdaeGZpaWcwTkVqUDZTSnZ3UURLY0YwNmF4b0c?oc=5)
-
----
+## 相關新聞（8 則）
 
 ### [I spent five months in a mother and baby mental health unit - here's what I want mums to know](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
 
 2026-03-21 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
+
+---
+
+### [Doctor's warning to people taking Omeprazole or nasal decongestants - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2N4VTIwMTRUa0tqMV8xMjNFX3FDQmtlUGVuT0t2Zk45dTIxMUZMRU1XWXd2T2haMkM4Y2NVRXV2RlEwVTdLV1JFRXp1SkZpZVNMd1BkY3dXUDVLX3lRbUhoSHR2cnBXeDJwZVhKQUZOcDZ0M2VqWG1mUjZLcXR0Y0JTV2VkZEJJN1l6bFF0Z2tFOXF0cmc?oc=5)
+
+2026-03-21 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2N4VTIwMTRUa0tqMV8xMjNFX3FDQmtlUGVuT0t2Zk45dTIxMUZMRU1XWXd2T2haMkM4Y2NVRXV2RlEwVTdLV1JFRXp1SkZpZVNMd1BkY3dXUDVLX3lRbUhoSHR2cnBXeDJwZVhKQUZOcDZ0M2VqWG1mUjZLcXR0Y0JTV2VkZEJJN1l6bFF0Z2tFOXF0cmc?oc=5)
+
+---
+
+### [BBC Sport star left in coma and nearly dies in meningitis battle as symptoms shared - The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
+
+2026-03-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
 
 ---
 
@@ -74,35 +82,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [BBC Sport presenter reveals meningitis battle left her in coma after mum spotted crucial symptom - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzRNdW1TNXJMWjUwYmszUTBMcWk4V1NiZGIyTkVFTXhsMlhpMGVnUEtDZzEtUHN4UlpZcWhkNy1PN0VwY0NTV2ZzQjRET2YtNlpoa2xuWHJtZ2tPTmNPX1BQSUx6QUNRUWZVWmUwTHFOcU1mdHlKRUlWX04xUkd3clRDNWstZw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzRNdW1TNXJMWjUwYmszUTBMcWk4V1NiZGIyTkVFTXhsMlhpMGVnUEtDZzEtUHN4UlpZcWhkNy1PN0VwY0NTV2ZzQjRET2YtNlpoa2xuWHJtZ2tPTmNPX1BQSUx6QUNRUWZVWmUwTHFOcU1mdHlKRUlWX04xUkd3clRDNWstZw?oc=5)
-
----
-
 ### [Is playing music good for the brain? - The Economist](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjRoS3ZNYkZ4NG9KaUxMLXZHcFFQWHU5NklFenNZQ2tTUUp0U08wdDFaeElQQ3hfNW9JS29mS0RHMGJUNWRqcWttcW9ocl9hckFiU25vcThrZmJqYVp6eGhWSDVrTlNFR3lVaHVCREJ1aTdKMzdyM3RFNXF1ejZtT0V6aHR0MVpveGxfU2w5WUJmLWlNU0l1Tkxrbw?oc=5)
 
 2026-03-20 <span class="news-indication-tag">MS</span>
 
 來源：[The Economist](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjRoS3ZNYkZ4NG9KaUxMLXZHcFFQWHU5NklFenNZQ2tTUUp0U08wdDFaeElQQ3hfNW9JS29mS0RHMGJUNWRqcWttcW9ocl9hckFiU25vcThrZmJqYVp6eGhWSDVrTlNFR3lVaHVCREJ1aTdKMzdyM3RFNXF1ejZtT0V6aHR0MVpveGxfU2w5WUJmLWlNU0l1Tkxrbw?oc=5)
-
----
-
-### [Trial scheme will offer vaccinations for children in their own homes - Grimsby Live](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjNWN0NDN19jbXVoOV9GR2tFZGFaRkRFY2tveF82cEdnVmFxV2p0bExUUm1najIxUWJrSVBvNWFRQ0s4VWQ2M2Qyamd1YzJQR21NWXNxRkZDQm8tMHI3V21wbzRSUUtBaUxLWGE1NENmd2pSYTRSdmpPZkZZTnkzMVhsa3hYaWc4MGpLZGlwX0JsUk00eTVDcEVNcEJibnNVVzROTtIBqgFBVV95cUxNTUVsdHpocW91U0RaNk1QSjAtYzJTajF0Q3dGS3F2V2Y3U2tmWXo2NEFBNzFHcXh6RURzVzl6OXpwQWg1bmRJcVBYSDNKNTBlY2NBZjVIUUJOZUlab1FrVmFZOVM1UW1NSmtWOUkyV1EtQi1jejBub1RXMmdKV2l4cks1cWFiSFJhV1BzYTg2S21yWGUzdDh3VmdwTnNhaXJ5dnlGMzZoMkxjdw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span>
-
-來源：[Grimsby Live](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjNWN0NDN19jbXVoOV9GR2tFZGFaRkRFY2tveF82cEdnVmFxV2p0bExUUm1najIxUWJrSVBvNWFRQ0s4VWQ2M2Qyamd1YzJQR21NWXNxRkZDQm8tMHI3V21wbzRSUUtBaUxLWGE1NENmd2pSYTRSdmpPZkZZTnkzMVhsa3hYaWc4MGpLZGlwX0JsUk00eTVDcEVNcEJibnNVVzROTtIBqgFBVV95cUxNTUVsdHpocW91U0RaNk1QSjAtYzJTajF0Q3dGS3F2V2Y3U2tmWXo2NEFBNzFHcXh6RURzVzl6OXpwQWg1bmRJcVBYSDNKNTBlY2NBZjVIUUJOZUlab1FrVmFZOVM1UW1NSmtWOUkyV1EtQi1jejBub1RXMmdKV2l4cks1cWFiSFJhV1BzYTg2S21yWGUzdDh3VmdwTnNhaXJ5dnlGMzZoMkxjdw?oc=5)
-
----
-
-### [Hormontherapie in Wechseljahren offenbar nicht mit erhöhtem Sterberisiko verbunden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY2YxbGh1SU83RTRYaXNzeE5RUHFxZ3lueENhUU1DUVlpMHFEbEZvU0wtZEVULWhPb3hKRmR3QVZrQlFrZXZtd0Nwc0lxdFh2ck1pbWQxTG1FT2ozQ2ltR0ZLNFhfQ1NSQnJLYXhpRWNuOFdDTExZUktoeUc3TXI5dDdoRzNjRE5KdXh0SmxudUFTeUViemVNTTVLOUxMeWYya080YTlQRVZPUzdFSzZUd1dVTlVDUUgteUdGVXJNVXFRUmdYZHZLSzJiT1FmQnJnRF9fSXNJY0JqSHFfZkg3czlmS2ljdw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY2YxbGh1SU83RTRYaXNzeE5RUHFxZ3lueENhUU1DUVlpMHFEbEZvU0wtZEVULWhPb3hKRmR3QVZrQlFrZXZtd0Nwc0lxdFh2ck1pbWQxTG1FT2ozQ2ltR0ZLNFhfQ1NSQnJLYXhpRWNuOFdDTExZUktoeUc3TXI5dDdoRzNjRE5KdXh0SmxudUFTeUViemVNTTVLOUxMeWYya080YTlQRVZPUzdFSzZUd1dVTlVDUUgteUdGVXJNVXFRUmdYZHZLSzJiT1FmQnJnRF9fSXNJY0JqSHFfZkg3czlmS2ljdw?oc=5)
 
 ---
 
@@ -119,14 +103,6 @@ permalink: /news/rotigotine/
 2026-03-20 <span class="news-indication-tag">MS</span>
 
 來源：[L'INDIPENDENTE](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTmJOd1FZVURheXI5WjJIYUQxQkk0TTVkUmFDSUdLaWN1cVd5ZDBDSzl1MmJxTnhWekhBazAyWTFWM0xGZURRRXVOVnBJbnl0YzFXUGd1M0htWUphNkl2RGl0cm5MdFg3QkQ3S09jWW1fbTBsc21Cbi1wN0E3allDS1g5aXNnQTRxOWVSRk9sS3Rwczdoc2VjbFl6UVNxdHZCazQtWjJEZFB1WjZaRUxnUlc2YmtnZ0JjeFBfTVRuNExxak5lcjZEblM2ZzRPNzZmd3c?oc=5)
-
----
-
-### [Ringworm is rife in UK gyms and barbershops — but many don't spot it](https://news.google.com/rss/articles/CBMinAFBVV95cUxONmNvWG84U010aHYwVExxamFHWmM0eXd0dzVUcVlpNmNvWkhMMFliZXpuMXJCYWgtWk1TbjJJM3BGWGtxYll2Sjk4cm16WVJoVmJQVmwtejM4SXpzLW1QMDJsZ3pNWU15ajNQWWpETkNOc09tUm1xM2t2LXMteVQ5MUMxTktTbnlxSGJ6YXpkdGFaOExlSTFFVkJTckk?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxONmNvWG84U010aHYwVExxamFHWmM0eXd0dzVUcVlpNmNvWkhMMFliZXpuMXJCYWgtWk1TbjJJM3BGWGtxYll2Sjk4cm16WVJoVmJQVmwtejM4SXpzLW1QMDJsZ3pNWU15ajNQWWpETkNOc09tUm1xM2t2LXMteVQ5MUMxTktTbnlxSGJ6YXpkdGFaOExlSTFFVkJTckk?oc=5)
 
 ---
 
