@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="Emtricitabine 有什麼相關新聞？">
-<strong>Emtricitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Emtricitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/emtricitabine/
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Epatite A, 8 nuovi casi al Cotugno: in totale sono 54 i ricoverati in ospedale - Il Mattino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW9FWlRWR2h6RmpoM1FIWUxrYkYzbjBFbUZ3ZkY0UjhkZVE1RE9pemdVU2Y1bm9GTFFFYTlvaV9zUVpTVXVjaG9IdGZxRlFDLTVOVkpvbGtIdmRYZDNKQUI1NXk1bmZxTVpwcFpaNzE3Uk5ndDdWUWNZNVNvYml6NFBsNUFqTHI3UTQtN3ZDU3RTeFV2NXNHa01yaGtCaF9keS1rUFJ1MUZVOUR4Ym1DQ3ZJdGJtSjB4eU02aGU3QV9NVEk3bmNsddIBwwFBVV95cUxQamt5U1JiSEk4amFIZVp2NVB5MVNIS3hvaTIxV3NlNnFBVG1idEtDd1pCTWhWdHJTVV9pSDQ2NTFHQ3k4REVXSjJIUlY4Mkk1OUM5YnZhU2VtTTNfaFdRV2VlaE1fVnlUNnlYd3hyQXlrYnRkcEFEQ0dvT0VnM01xWXVYZWFaR1E1aVAxZEJtdWZLaFBOQ2FENkFyejRxRU9nRFdQRFRNeGR1U2ZFM3Y1dlRyN3B5ZGd2QnZxWDVIZFU4Tnc?oc=5)
 
 2026-03-22 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Mattino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW9FWlRWR2h6RmpoM1FIWUxrYkYzbjBFbUZ3ZkY0UjhkZVE1RE9pemdVU2Y1bm9GTFFFYTlvaV9zUVpTVXVjaG9IdGZxRlFDLTVOVkpvbGtIdmRYZDNKQUI1NXk1bmZxTVpwcFpaNzE3Uk5ndDdWUWNZNVNvYml6NFBsNUFqTHI3UTQtN3ZDU3RTeFV2NXNHa01yaGtCaF9keS1rUFJ1MUZVOUR4Ym1DQ3ZJdGJtSjB4eU02aGU3QV9NVEk3bmNsddIBwwFBVV95cUxQamt5U1JiSEk4amFIZVp2NVB5MVNIS3hvaTIxV3NlNnFBVG1idEtDd1pCTWhWdHJTVV9pSDQ2NTFHQ3k4REVXSjJIUlY4Mkk1OUM5YnZhU2VtTTNfaFdRV2VlaE1fVnlUNnlYd3hyQXlrYnRkcEFEQ0dvT0VnM01xWXVYZWFaR1E1aVAxZEJtdWZLaFBOQ2FENkFyejRxRU9nRFdQRFRNeGR1U2ZFM3Y1dlRyN3B5ZGd2QnZxWDVIZFU4Tnc?oc=5)
+
+---
+
+### [Schoolboy among 21 patients at risk of serious infection in Welsh hospital scandal - Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
+
+2026-03-22 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
 
 ---
 
@@ -58,11 +66,11 @@ permalink: /news/emtricitabine/
 
 ---
 
-### [Italien: Wegen Hepatitis-A – Neapel verbietet Verzehr roher Meeresfrüchte - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUdFc0V0N0FldVhBX1dsbHlFbGVXdGFlaVpUTVh5TE5ZU1V0T2pUQXBnb2RrYlBzbXZjTjFCYndvY0JYbTIyYm9JNEh0NVVYaUNSTjVpUmtQVGFvMVJTMWRUQ00tWjA0Ty1EemxrNS15OWsxLTY0bHFGSGhBNURTc3BlWV80cmZZa21wWFE5T1RreVd3SEY4NW5LY0wxRFdaM3h3RGg5ZUExX1A5cDNMeDZJVFJiTVFOS0s3YQ?oc=5)
+### [Italien: Wegen Hepatitis-A – Neapel verbietet Verzehr roher Meeresfrüchte - Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
 
 2026-03-21 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUdFc0V0N0FldVhBX1dsbHlFbGVXdGFlaVpUTVh5TE5ZU1V0T2pUQXBnb2RrYlBzbXZjTjFCYndvY0JYbTIyYm9JNEh0NVVYaUNSTjVpUmtQVGFvMVJTMWRUQ00tWjA0Ty1EemxrNS15OWsxLTY0bHFGSGhBNURTc3BlWV80cmZZa21wWFE5T1RreVd3SEY4NW5LY0wxRFdaM3h3RGg5ZUExX1A5cDNMeDZJVFJiTVFOS0s3YQ?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,15 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（7 則）
-
-### [A qué hora es mejor desayunar lleva años provocando debates: la ciencia de la "crononutrición" los está resolviendo](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5IcnhuYlgyRjRlRi14dEZpUC1QaVFnZTQ5Y2ZUZ182ZkYyMUVtb1ozUHFKSG9uajdKSm5FWmxHbFNSc2lQbWJEQXdJT3RLeXVMRWlrMEFQLUlQV29MRmhjb0N3eW9rMElPRTF0b1dhRXR5ellkcW1QaVFRbVFsU2tydlBnOW9tX1Zfa2VmeWlVSEZRNkJkWUN4Unl0YllsRUFMLUw5ODdTSkFkeXRVYzRGWXdrQk1kSzU1SHg5WjA0NUVKTkR3dlc4TlhaOWfSAdQBQVVfeXFMTnpaU0RVajNKWllTc1ZfZVl0SV96aXFLRTVaQTBUdXFkYTI3Q0dWOTFKVGlCeFpnRENrVGJ5NTRrem92VURCckFwSlBZYlE4eHRvdHZaVHdEMG12RXlBa19TRWZ2MDByTXBWa3hLdHlKT2wtNGhQRERHLUtXdl82SktlVDBlb01SNHIxVHV2VUhIT3kxeE5FX3ZUdDcyM0ZPNFRGdmxkZzhKZzJ2SXd1cXAydzRJY1ltaTV2WmxfbzRXSWRfVU0yVWhKYzVHczVqQ09xbEc?oc=5)
-
-2026-03-22
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5IcnhuYlgyRjRlRi14dEZpUC1QaVFnZTQ5Y2ZUZ182ZkYyMUVtb1ozUHFKSG9uajdKSm5FWmxHbFNSc2lQbWJEQXdJT3RLeXVMRWlrMEFQLUlQV29MRmhjb0N3eW9rMElPRTF0b1dhRXR5ellkcW1QaVFRbVFsU2tydlBnOW9tX1Zfa2VmeWlVSEZRNkJkWUN4Unl0YllsRUFMLUw5ODdTSkFkeXRVYzRGWXdrQk1kSzU1SHg5WjA0NUVKTkR3dlc4TlhaOWfSAdQBQVVfeXFMTnpaU0RVajNKWllTc1ZfZVl0SV96aXFLRTVaQTBUdXFkYTI3Q0dWOTFKVGlCeFpnRENrVGJ5NTRrem92VURCckFwSlBZYlE4eHRvdHZaVHdEMG12RXlBa19TRWZ2MDByTXBWa3hLdHlKT2wtNGhQRERHLUtXdl82SktlVDBlb01SNHIxVHV2VUhIT3kxeE5FX3ZUdDcyM0ZPNFRGdmxkZzhKZzJ2SXd1cXAydzRJY1ltaTV2WmxfbzRXSWRfVU0yVWhKYzVHczVqQ09xbEc?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
 
@@ -161,14 +153,6 @@ permalink: /news/diabetes-mellitus/
 2026-03-22
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
-
----
-
-### [I farmaci a base di semaglutide potrebbero aiutare a combattere i problemi di salute mentale nei malati di diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
-
-2026-03-21
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
 
 ---
 

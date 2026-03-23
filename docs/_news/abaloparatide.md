@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
-
-### [A qué hora es mejor desayunar lleva años provocando debates: la ciencia de la "crononutrición" los está resolviendo](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5IcnhuYlgyRjRlRi14dEZpUC1QaVFnZTQ5Y2ZUZ182ZkYyMUVtb1ozUHFKSG9uajdKSm5FWmxHbFNSc2lQbWJEQXdJT3RLeXVMRWlrMEFQLUlQV29MRmhjb0N3eW9rMElPRTF0b1dhRXR5ellkcW1QaVFRbVFsU2tydlBnOW9tX1Zfa2VmeWlVSEZRNkJkWUN4Unl0YllsRUFMLUw5ODdTSkFkeXRVYzRGWXdrQk1kSzU1SHg5WjA0NUVKTkR3dlc4TlhaOWfSAdQBQVVfeXFMTnpaU0RVajNKWllTc1ZfZVl0SV96aXFLRTVaQTBUdXFkYTI3Q0dWOTFKVGlCeFpnRENrVGJ5NTRrem92VURCckFwSlBZYlE4eHRvdHZaVHdEMG12RXlBa19TRWZ2MDByTXBWa3hLdHlKT2wtNGhQRERHLUtXdl82SktlVDBlb01SNHIxVHV2VUhIT3kxeE5FX3ZUdDcyM0ZPNFRGdmxkZzhKZzJ2SXd1cXAydzRJY1ltaTV2WmxfbzRXSWRfVU0yVWhKYzVHczVqQ09xbEc?oc=5)
-
-2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5IcnhuYlgyRjRlRi14dEZpUC1QaVFnZTQ5Y2ZUZ182ZkYyMUVtb1ozUHFKSG9uajdKSm5FWmxHbFNSc2lQbWJEQXdJT3RLeXVMRWlrMEFQLUlQV29MRmhjb0N3eW9rMElPRTF0b1dhRXR5ellkcW1QaVFRbVFsU2tydlBnOW9tX1Zfa2VmeWlVSEZRNkJkWUN4Unl0YllsRUFMLUw5ODdTSkFkeXRVYzRGWXdrQk1kSzU1SHg5WjA0NUVKTkR3dlc4TlhaOWfSAdQBQVVfeXFMTnpaU0RVajNKWllTc1ZfZVl0SV96aXFLRTVaQTBUdXFkYTI3Q0dWOTFKVGlCeFpnRENrVGJ5NTRrem92VURCckFwSlBZYlE4eHRvdHZaVHdEMG12RXlBa19TRWZ2MDByTXBWa3hLdHlKT2wtNGhQRERHLUtXdl82SktlVDBlb01SNHIxVHV2VUhIT3kxeE5FX3ZUdDcyM0ZPNFRGdmxkZzhKZzJ2SXd1cXAydzRJY1ltaTV2WmxfbzRXSWRfVU0yVWhKYzVHczVqQ09xbEc?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
 
@@ -103,14 +95,6 @@ permalink: /news/abaloparatide/
 2026-03-21 <span class="news-indication-tag">migraine</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkZJZXlFaENUcHVyZlIwak8zbXF0ZHFoZ05DdzdwODljdnhQUGpYaVU2UGlzV1dMVl9rdXMxYTVtdzFnZUpLVlFrZFFYWVJwQ1lnamJwRmo4Nm5rOGdXczdBd2IyM0xtRWhtWmFtdzFiQjhnclVLb09wc1plSWpsTTJtNDQzakhKSHNJU3VxZUhSOGYxYVBJcWJrNGdmNUxKa2FJ0gGoAUFVX3lxTFBiNW5yckJ0aGsxNkZRb0VJaTZvZTE3RG1iMF9LMklpZ0I3eDdFYV9jdENUUElBbzBWNzlYUHBXRmlFVnJGUVhBT29IRFZXUnlTbXcxVW1VUmtOUFU1WjN2NGtsaFczYzFFWDNIM3Bnd2puZlZwNFNINTN2N2pydzlNSTRiSEpfMk5ueXp3alpxWnZGS2lLc1h2cU5jTFJfV2xFYWFnR1ljUw?oc=5)
-
----
-
-### [I farmaci a base di semaglutide potrebbero aiutare a combattere i problemi di salute mentale nei malati di diabete - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
-
-2026-03-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUnRiT1JKcWZLOWtrRHJaNzhIMVlxS2U4NmlHZi1leU8xM05PTWJYVXZabm1HRnZBcmpEQjdQclhWMnFIVGJxZEVHZWJEVk85ekEweFFvZ2JYSlI0d19SRkN2aGhmNWVtb2V2NEhmMEI4cEZPSWU5d1lwMTRjUUdwUlBEWlN2M2VDMGFnVFh4RkFoZGxmWUJscGZvVnV1WTV3d0g5cUVWeTQzdWtGdjZnVTBPSjRzWlVXNV9uSUVNU2RIWm5OWDNtNTVlMVotZkJObVpGa09YMkc2NnVyWndOdE93?oc=5)
 
 ---
 

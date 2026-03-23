@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="Bimatoprost 有什麼相關新聞？">
-<strong>Bimatoprost</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bimatoprost</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/bimatoprost/
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（15 則）
+
+### [Una nueva técnica de imagen 3D promete superar las limitaciones de la resonancia, el TAC y la ecografía](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdmVhd2gtcmg4U0lfdnU2Tm8tZGR0cTAzMjVUcTFRX29EM1NzTC1iTjdiOFVDMW5sMzhBZ1JVQ0xsMjBJa1JENzNud3BxTG0yYTNsM3ZGaTVHdTZ0d2NHSVFfZVloU05sQWJjTnk5aUZNMS02V2ctQ1Fhel9XWml0enF2QVo4bi1PSmNhNGdPQlB1dWdrc3NrRHdPMlUySnp3Vm0zcG44YWxJNnQ4VFQxZzVPaWZzbVZGZUNlZ0psRUNCTVNDQlNPbTFYWXdfaHMwYTJHT0hkWUZTNnVLVlNoMXFiSU15bEhjRjF4eHhSLTVZYW1hSEM4b1FB?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdmVhd2gtcmg4U0lfdnU2Tm8tZGR0cTAzMjVUcTFRX29EM1NzTC1iTjdiOFVDMW5sMzhBZ1JVQ0xsMjBJa1JENzNud3BxTG0yYTNsM3ZGaTVHdTZ0d2NHSVFfZVloU05sQWJjTnk5aUZNMS02V2ctQ1Fhel9XWml0enF2QVo4bi1PSmNhNGdPQlB1dWdrc3NrRHdPMlUySnp3Vm0zcG44YWxJNnQ4VFQxZzVPaWZzbVZGZUNlZ0psRUNCTVNDQlNPbTFYWXdfaHMwYTJHT0hkWUZTNnVLVlNoMXFiSU15bEhjRjF4eHhSLTVZYW1hSEM4b1FB?oc=5)
+
+---
+
+### [Psychology says people who keep their phone on silent all the time aren't being rude or antisocial - they've learned that constant availability is a form of psychological labor they can no longer afford](https://news.google.com/rss/articles/CBMiywJBVV95cUxQdE1LRG5SbDJkRGZkOTNpclJHUUQ4QWs0MExRSnpkYnNfN0ZKNzhzM2hVcTc5MGl1MEZCMVZVMGFlaWp1NWt3MW4tSVpLZE5YYk52SkRjNmVXby05T1ZUTEZlNUItQUZxeHlvYWc3cEJNWVFKYmUyVWQwcFJDMlNET0dGZGNfWXNjNlVDMnVjOEI1azlIdjdoTG5Lb2pfMGxGMDN2UGROLURMaGN3djBuZnhMbm9iVkdZcVVTcnBBMWNfMlBMVGlZbDJiZzdmZUNpdUhkWDRlS3lBSi1tVmdZbXNrTlNDOWVlbTR5TWhWWTN4eWs1S2Y1Wkt4VE1OV25YUlUwaEdYZUlwQ0xTU3M1YXFqbHhJUDhwU2EybVhBU240dHVjYjBtVV9uSDdXVEJ4dTQ4dHdBcG5oNkQ4bzhBLU1RbVQyTTFEbFRv?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[VegOut](https://news.google.com/rss/articles/CBMiywJBVV95cUxQdE1LRG5SbDJkRGZkOTNpclJHUUQ4QWs0MExRSnpkYnNfN0ZKNzhzM2hVcTc5MGl1MEZCMVZVMGFlaWp1NWt3MW4tSVpLZE5YYk52SkRjNmVXby05T1ZUTEZlNUItQUZxeHlvYWc3cEJNWVFKYmUyVWQwcFJDMlNET0dGZGNfWXNjNlVDMnVjOEI1azlIdjdoTG5Lb2pfMGxGMDN2UGROLURMaGN3djBuZnhMbm9iVkdZcVVTcnBBMWNfMlBMVGlZbDJiZzdmZUNpdUhkWDRlS3lBSi1tVmdZbXNrTlNDOWVlbTR5TWhWWTN4eWs1S2Y1Wkt4VE1OV25YUlUwaEdYZUlwQ0xTU3M1YXFqbHhJUDhwU2EybVhBU240dHVjYjBtVV9uSDdXVEJ4dTQ4dHdBcG5oNkQ4bzhBLU1RbVQyTTFEbFRv?oc=5)
+
+---
 
 ### [Vorhofohrverschluss bei Vorhofflimmern unter Kritik](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmR1aWx2Q2l6SXlFOHFYdE5fQmRyMHN3aUNjZ09XLWFXcHBaRDRiNGdSZlppOUpLQlVxa1BieUE0MzdXdE55ZUdyYjZSSTlfNEJ2QktSbFdwdmhicUVjVDB1dkx4RF9QTHNQUm5PempOclVabHBlN0F2TER5TDYtYTBVejVYWUQ4Z2trdk0wUENzbW8wSTJYTVByNk5NeW8wTnVocm54OTZUakNWQzk4NERSekdLd0JYMUxzbkVpRHR2NzR4TFo4WA?oc=5)
 
@@ -50,27 +66,19 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Psychology says people who keep their phone on silent all the time aren't being rude or antisocial - they've learned that constant availability is a form of psychological labor they can no longer afford](https://news.google.com/rss/articles/CBMiywJBVV95cUxQdE1LRG5SbDJkRGZkOTNpclJHUUQ4QWs0MExRSnpkYnNfN0ZKNzhzM2hVcTc5MGl1MEZCMVZVMGFlaWp1NWt3MW4tSVpLZE5YYk52SkRjNmVXby05T1ZUTEZlNUItQUZxeHlvYWc3cEJNWVFKYmUyVWQwcFJDMlNET0dGZGNfWXNjNlVDMnVjOEI1azlIdjdoTG5Lb2pfMGxGMDN2UGROLURMaGN3djBuZnhMbm9iVkdZcVVTcnBBMWNfMlBMVGlZbDJiZzdmZUNpdUhkWDRlS3lBSi1tVmdZbXNrTlNDOWVlbTR5TWhWWTN4eWs1S2Y1Wkt4VE1OV25YUlUwaEdYZUlwQ0xTU3M1YXFqbHhJUDhwU2EybVhBU240dHVjYjBtVV9uSDdXVEJ4dTQ4dHdBcG5oNkQ4bzhBLU1RbVQyTTFEbFRv?oc=5)
+### [Dad misses daughter's birth in 'screaming agony' after using 5 day cream for a year - Birmingham Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEJqdDRxa2pkcVNMVng1T0dZRVVuampFUWt0RzhxVXhqVlNHeUhsMzlSWFJvdnd4NjlFcjhLLU1YSzJFbUxyQjRUNGRQbjVLYlQzSG5pc0ZnRHp4QVRCQ2tmdWd2NzZLTE5yTTBTeFo1eEpHczU3aFpKaGFhM2JiVldoZFJpR042Rmt2dkxWVk56QXlJUHfSAZsBQVVfeXFMT3VSaUZnWlZPUlZ6N0QxV0puSUhIbThlQlUwQjd0TF92V2drWDROMVhvWVFaTURudVgya29sbkpyZTBWWlBhUmR5bnRBaFBwTFRDeTNJWWVWQVhPU2U2M3ZFTUhFN2trODJTYldjOGg3bDk2Q1pldEkyYkZkejFyY3lYejlNNjBzQS1rWjhlek5rZjVYVGVWUjFRY3M?oc=5)
 
 2026-03-22 <span class="news-indication-tag">AF</span>
 
-來源：[VegOut](https://news.google.com/rss/articles/CBMiywJBVV95cUxQdE1LRG5SbDJkRGZkOTNpclJHUUQ4QWs0MExRSnpkYnNfN0ZKNzhzM2hVcTc5MGl1MEZCMVZVMGFlaWp1NWt3MW4tSVpLZE5YYk52SkRjNmVXby05T1ZUTEZlNUItQUZxeHlvYWc3cEJNWVFKYmUyVWQwcFJDMlNET0dGZGNfWXNjNlVDMnVjOEI1azlIdjdoTG5Lb2pfMGxGMDN2UGROLURMaGN3djBuZnhMbm9iVkdZcVVTcnBBMWNfMlBMVGlZbDJiZzdmZUNpdUhkWDRlS3lBSi1tVmdZbXNrTlNDOWVlbTR5TWhWWTN4eWs1S2Y1Wkt4VE1OV25YUlUwaEdYZUlwQ0xTU3M1YXFqbHhJUDhwU2EybVhBU240dHVjYjBtVV9uSDdXVEJ4dTQ4dHdBcG5oNkQ4bzhBLU1RbVQyTTFEbFRv?oc=5)
+來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEJqdDRxa2pkcVNMVng1T0dZRVVuampFUWt0RzhxVXhqVlNHeUhsMzlSWFJvdnd4NjlFcjhLLU1YSzJFbUxyQjRUNGRQbjVLYlQzSG5pc0ZnRHp4QVRCQ2tmdWd2NzZLTE5yTTBTeFo1eEpHczU3aFpKaGFhM2JiVldoZFJpR042Rmt2dkxWVk56QXlJUHfSAZsBQVVfeXFMT3VSaUZnWlZPUlZ6N0QxV0puSUhIbThlQlUwQjd0TF92V2drWDROMVhvWVFaTURudVgya29sbkpyZTBWWlBhUmR5bnRBaFBwTFRDeTNJWWVWQVhPU2U2M3ZFTUhFN2trODJTYldjOGg3bDk2Q1pldEkyYkZkejFyY3lYejlNNjBzQS1rWjhlek5rZjVYVGVWUjFRY3M?oc=5)
 
 ---
 
-### [Zwanghaft gesund: Sie wollte alles richtig essen – und verlernte zu leben](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhaeWRHbU9pSDZ0emM4QmVYRmtYU2RMcndzZ3VlZU9kdmludm5Ja0hNd2VXQzhJM19mbGg2NlgybE5wZy1UNW1xMG83VUtTZjBWTkJhcWFkNlNUQXk3OWtWRzZhUzJyeVdvLVJjLTdJWElQVUpMdjFtX1ZWMDFta3ZTVE1WVnhHUVNmd1BBUmxDMkR3WGJrWFlSMzQwMFkyaUJYT2JBTUVxYmVlc19ZMHFkOHpfcXFYYU9Pc0hsZHpTR1ZKemdlMnVnamRzTFZQ?oc=5)
+### [Second UK site reports student ill with suspected meningitis 'not linked to Kent outbreak' - London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
 
-2026-03-22 <span class="news-indication-tag">AF</span>
+2026-03-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmhaeWRHbU9pSDZ0emM4QmVYRmtYU2RMcndzZ3VlZU9kdmludm5Ja0hNd2VXQzhJM19mbGg2NlgybE5wZy1UNW1xMG83VUtTZjBWTkJhcWFkNlNUQXk3OWtWRzZhUzJyeVdvLVJjLTdJWElQVUpMdjFtX1ZWMDFta3ZTVE1WVnhHUVNmd1BBUmxDMkR3WGJrWFlSMzQwMFkyaUJYT2JBTUVxYmVlc19ZMHFkOHpfcXFYYU9Pc0hsZHpTR1ZKemdlMnVnamRzTFZQ?oc=5)
-
----
-
-### [Inma Sentenero, nutricionista: "Así es como la microbiota intestinal influye en nuestra salud emocional"](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGZ3NHBmM19DYktWYTZjNFpqajhFNUI2Nk8tRnYwUC1ybWVrOWNvd2lOXzk5QVlUdlljamR3dEVNcTFlX1RYWlFYS3RJY2dmT0o3SzJVSEdVdFo1cXZINDdmQzZfeVlNR1ZVUWppd2VGSXRHR0huMW9hdks5dXBOOUpkNURJN19PWlQwVWc5NWUyZ0gweGt1dHAtVHpJZUxNRmJWWEZld2EtQUY4dlliZmNjR3FsczIyTzlR?oc=5)
-
-2026-03-22 <span class="news-indication-tag">AF</span>
-
-來源：[HOLA](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGZ3NHBmM19DYktWYTZjNFpqajhFNUI2Nk8tRnYwUC1ybWVrOWNvd2lOXzk5QVlUdlljamR3dEVNcTFlX1RYWlFYS3RJY2dmT0o3SzJVSEdVdFo1cXZINDdmQzZfeVlNR1ZVUWppd2VGSXRHR0huMW9hdks5dXBOOUpkNURJN19PWlQwVWc5NWUyZ0gweGt1dHAtVHpJZUxNRmJWWEZld2EtQUY4dlliZmNjR3FsczIyTzlR?oc=5)
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
 
 ---
 
@@ -87,22 +95,6 @@ permalink: /news/bimatoprost/
 2026-03-22 <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWVCVDRYOUp3R1pta0JtbWtvVXpLYWNxRVJIVHl0eEdLUnBDSkR2d2NhY2dhd1ZpQzlXdS1VMm5rS2N2TTFvT1dHR3dTWGw0bFV2YjBpVnlHRTNrdGZEa2tuNk1jYllISDdDOWJsVGJReW92aTJzUHpHS0hGeERucXI2SlNOMUR2WUpXN2pUOHY0QVM2MU93YjFKX0JYQ2xZRWxxUlB3ZWtCamZGRFZTSktJLWpFUVlESUpSWHFzYVM?oc=5)
-
----
-
-### [Greater Manchester college issues statement as student has suspected meningitis - Manchester Evening News](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdTZWVXhXNXlzZG1ESzIwLVNEWXQwckhvbEViY1dDQ2xoU1QxY2FlX29teXQwOWFfR0huU3NJaGFjejNybjhZTXdqUHJGZmdKY2M4TTFweldyMkdJZ2YzOFh1WGl0MTZ5YnVNWjhxQTdHN0wyRUtIdmFhcndqU3V0ejB2NUZJLVE1Z3ZCeXZZbFQtVF9rM01IMGMyU3JabVBiSjVXSFQyQmhoRGxjS1hFUjB5bUVWbTYzUjF1dGNB?oc=5)
-
-2026-03-22 <span class="news-indication-tag">AF</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdTZWVXhXNXlzZG1ESzIwLVNEWXQwckhvbEViY1dDQ2xoU1QxY2FlX29teXQwOWFfR0huU3NJaGFjejNybjhZTXdqUHJGZmdKY2M4TTFweldyMkdJZ2YzOFh1WGl0MTZ5YnVNWjhxQTdHN0wyRUtIdmFhcndqU3V0ejB2NUZJLVE1Z3ZCeXZZbFQtVF9rM01IMGMyU3JabVBiSjVXSFQyQmhoRGxjS1hFUjB5bUVWbTYzUjF1dGNB?oc=5)
-
----
-
-### [¿Qué tanto puedes ‘desintoxicarte’ del plástico? - The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkkzczRsRTBsaGhDUDBsMk5aUDdJbWtTYTMtVDBqYU94dV80N3d5WFhyUDVsVnI1ZmRweFJWZEtvRE83dFVteXhXU3BCY2Qyb3hQRHFvcEZJTHV2Z2Q0UGVRbTdaZTRMUlhEUjR4X2xNT2RLUDhQQjFPWmxDWHd1cWhqSQ?oc=5)
-
-2026-03-22 <span class="news-indication-tag">AF</span>
-
-來源：[The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkkzczRsRTBsaGhDUDBsMk5aUDdJbWtTYTMtVDBqYU94dV80N3d5WFhyUDVsVnI1ZmRweFJWZEtvRE83dFVteXhXU3BCY2Qyb3hQRHFvcEZJTHV2Z2Q0UGVRbTdaZTRMUlhEUjR4X2xNT2RLUDhQQjFPWmxDWHd1cWhqSQ?oc=5)
 
 ---
 
@@ -130,11 +122,27 @@ permalink: /news/bimatoprost/
 
 ---
 
+### [Schoolboy among 21 patients at risk of serious infection in Welsh hospital scandal - Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
+
+2026-03-22 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
+
+---
+
 ### [La depresión no es inevitable: así influye el cerebro en el impacto del dolor crónico](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaENuMm1OWVh3SWlET1cyT0hza3dsZEpaak1rdG9QeEZZTXViNjI4dzhVR3B6UDB3b2pCTWRQM2o5cDY1QlF4Z1Y0c3BiTldxajNjeUZRdDJKUjctQ1plc0hTLUlBcVY5VnJPM2lveXdBT0V0N0otaTJUSW90Q1dHREdnbG05TmJScHBYVWdUNlZ0ZzhVZXNxbUk0LWFFamxoN0RFMFI1WVDSAa4BQVVfeXFMT19xZzlVLXpkOEotX1BWMEFZZUxhTFpvRnVkaDJqRTM0S09icGd0aHpVekdyWjZrMVY4N25pRzlIc0tvWlpmYlJRNWdDa290THh3dzhKWm1lVFZpVDlndVZNSWJsNXh0MU9TTndLR1VjQlcwcUlHQXZzRHgwRnoxV3kzZVJocXR5Rjd1ZDRYMkRPUDV3T1FNekZOdklFRU40T2YxN1hBN1ZleXZmZXVB?oc=5)
 
 2026-03-22 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaENuMm1OWVh3SWlET1cyT0hza3dsZEpaak1rdG9QeEZZTXViNjI4dzhVR3B6UDB3b2pCTWRQM2o5cDY1QlF4Z1Y0c3BiTldxajNjeUZRdDJKUjctQ1plc0hTLUlBcVY5VnJPM2lveXdBT0V0N0otaTJUSW90Q1dHREdnbG05TmJScHBYVWdUNlZ0ZzhVZXNxbUk0LWFFamxoN0RFMFI1WVDSAa4BQVVfeXFMT19xZzlVLXpkOEotX1BWMEFZZUxhTFpvRnVkaDJqRTM0S09icGd0aHpVekdyWjZrMVY4N25pRzlIc0tvWlpmYlJRNWdDa290THh3dzhKWm1lVFZpVDlndVZNSWJsNXh0MU9TTndLR1VjQlcwcUlHQXZzRHgwRnoxV3kzZVJocXR5Rjd1ZDRYMkRPUDV3T1FNekZOdklFRU40T2YxN1hBN1ZleXZmZXVB?oc=5)
+
+---
+
+### [Meningite Uk, ipotesi 'super ceppo' per "evento senza precedenti": cosa dicono gli esperti](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTU0S2hVOTZ4N1RQZmZuSHhSUmxzR1lXVFAxNHJDMGt1YW0tZG9HaEdxME1VV0JxalhlT3l5ZzhJNVpqZE01a1pXazAtRy1Kblp4d3lZRnhIZnQ3R1d4M0l4TExmUU9jMjF6Q1psM3BuSlAxWlpZNi1OcGV2SllfMmVpcENfVUJiMDdFZHBSWWJhWHVaQVIzMmpGVmUtRUYteXYzY1IybVhuVnJZY1FxTnNVT2NndUVoZnZxUzRQRjl6SDJUYmc?oc=5)
+
+2026-03-21 <span class="news-indication-tag">AF</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTU0S2hVOTZ4N1RQZmZuSHhSUmxzR1lXVFAxNHJDMGt1YW0tZG9HaEdxME1VV0JxalhlT3l5ZzhJNVpqZE01a1pXazAtRy1Kblp4d3lZRnhIZnQ3R1d4M0l4TExmUU9jMjF6Q1psM3BuSlAxWlpZNi1OcGV2SllfMmVpcENfVUJiMDdFZHBSWWJhWHVaQVIzMmpGVmUtRUYteXYzY1IybVhuVnJZY1FxTnNVT2NndUVoZnZxUzRQRjl6SDJUYmc?oc=5)
 
 ---
 
@@ -151,46 +159,6 @@ permalink: /news/bimatoprost/
 2026-03-21 <span class="news-indication-tag">AF</span>
 
 來源：[Corriere Torino](https://news.google.com/rss/articles/CBMixgJBVV95cUxQZmZGMmxRaGRuWUlONE5rUkdCV29zUUlCUVZCTU5XMm52NlJvQXFYZDJmWlRaVThlbEgxSlEtWXZiTjI5dndjRThWdW9tVWtpcm9xMWVveHhNSjZRaHNtT1hJSi15VUFFb0dlZzVhUngzeVY5dS1QeHN3SXI2NndxREQtN1NGLXg4a3hRSFRkQ3R6X2E5N3R6cDBSQ0ZibE9LS2JtWFpKUjE1VVJSaVgyTmhRSGxpU2dFaFV3LWIwRmxDUi1xaThNTGItbl84QUJ4ZzNtVHV4eG1sdmZEbzRobWJfMUs5MWM0Zm5xeGljM2RrOHlkbEJWQ0tBdklrUm9keTRwOFpqYkZmeWdKTU54M2pkLWJTZ3pxakdHNFVpTFU5U1FLeV83aEk0VjNaTDFtRHZQcDVadHlLTGVVMXlrQ2g3anJHQdIBywJBVV95cUxPY0FjNEhEckdFZ3RLYjAxWURnVmdodmlwNmVvQzFiT2pHOXFad3g0WFFJMjA4dHFDUFZPYU9hODFJUHdWNVMydnJZYm02UEo4NGVTTEt6Zk1qZ2tVbzl3aHdaWnljY2tzTHNnZTdaNWxWQ21IMF8ydU9oMjZTX1RYQnduLVVPTkZ4ZmEyRVh2aUllZ2IxRDRfaDlUaWRYOTlSRWtXV0NEOVd2S1FPZERoR0R0MjFFbS1uN0d6YmVfNTZ5dDRtdFRHZG0zUmRPbTl6TDlaN2gxc21FTXB4QU1JbjB1SFZCT21zOXlpY0Qwc1QxQW5DZmpFU3QxRlZuQ0ZWaE9UX2tpQWR0UmgyX2hMRXo1M1FURHB4Nm1qc2Jlb1ZrazY1Y2NkMk52d2tSWmJiRG03NTJsNVRuOU1od0FDUkpKTmZzNXl0QkpV?oc=5)
-
----
-
-### [Un possibile super ceppo dietro l'epidemia di Meningite B nel Kent: il caso senza precedenti - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2lJbzhVRHBFM1ZNVFpMRTd2eldfck9zeVNEaW1DajQ0Q29zMVNYSDQ3NUU2dUVIN0RZOXlRVG9SSUw2NGpZU0JEU2E3TmstYzJrdHVvMFBDZ080RERNN2JaLWFJbTdHNUFyNEhXR3RwWmtwZEJOc2hZQWN6d3dKS2lHZUlCdk42YnpQTnYzdnM5Q1NWOXhJVg?oc=5)
-
-2026-03-21 <span class="news-indication-tag">AF</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2lJbzhVRHBFM1ZNVFpMRTd2eldfck9zeVNEaW1DajQ0Q29zMVNYSDQ3NUU2dUVIN0RZOXlRVG9SSUw2NGpZU0JEU2E3TmstYzJrdHVvMFBDZ080RERNN2JaLWFJbTdHNUFyNEhXR3RwWmtwZEJOc2hZQWN6d3dKS2lHZUlCdk42YnpQTnYzdnM5Q1NWOXhJVg?oc=5)
-
----
-
-### [BBC Sport star left in coma and nearly dies in meningitis battle as symptoms shared - The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
-
----
-
-### [Fruktose kann die Nieren dauerhaft belasten - Forschung und Wissen](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUU9KMERMRnRmeGVLeUp3c3FkTkoyS2EtMGJhME9RVXZTUG5YdEZ3ZktZYkpvWXNfY2FQU0dKU0pkTFcwWFVfeFFfcTY3TFNzdU9UQWRPRkxIZHhJbHlySGt1MEt3c2J5QUN2V3pTM09OcXd4MXAzeG14bVlRYk4wZE81c043alhyaTZ6UDRvWHFFS19TMWpoRl9HcVhJeVBNcDUwQ2VxVTVsc2pENFE?oc=5)
-
-2026-03-21 <span class="news-indication-tag">AF</span>
-
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUU9KMERMRnRmeGVLeUp3c3FkTkoyS2EtMGJhME9RVXZTUG5YdEZ3ZktZYkpvWXNfY2FQU0dKU0pkTFcwWFVfeFFfcTY3TFNzdU9UQWRPRkxIZHhJbHlySGt1MEt3c2J5QUN2V3pTM09OcXd4MXAzeG14bVlRYk4wZE81c043alhyaTZ6UDRvWHFFS19TMWpoRl9HcVhJeVBNcDUwQ2VxVTVsc2pENFE?oc=5)
-
----
-
-### [Schlechter Schlaf beeinträchtigt kognitive Fähigkeiten älterer Menschen - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMG5zRjQ0eUM2YnJhb2pXLVNvLWppeVQzeHp4X2pQY3Rpa2hKc2VJaGtZQXo5a0xfeTlWcFZEdXNsZEMyVER0UnpBUzRfLXpEa0diMlh4Y011aTRPNE43WXRvb25zT2RoWFIzVFdHV19kRnIya2tlODFmRTM5Mjh0S21paUV5UDU1dl82c2QzeklYQzc3TkhDMFF2eDlrVGRlbWxHTEY3Qy1GUQ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMG5zRjQ0eUM2YnJhb2pXLVNvLWppeVQzeHp4X2pQY3Rpa2hKc2VJaGtZQXo5a0xfeTlWcFZEdXNsZEMyVER0UnpBUzRfLXpEa0diMlh4Y011aTRPNE43WXRvb25zT2RoWFIzVFdHV19kRnIya2tlODFmRTM5Mjh0S21paUV5UDU1dl82c2QzeklYQzc3TkhDMFF2eDlrVGRlbWxHTEY3Qy1GUQ?oc=5)
-
----
-
-### [Fano, perdeva liquido cerebrale dal naso, il raffreddore avrebbe causato una meningite mortale. Intuizione del medico Pandolfini,... - Corriere Adriatico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDE1UTAxeWx0Y2FLd1BZeGNENVlOT2Z2YWdZaTRtcnlhemY4UkZfYndIT3JxNENoRDVIMVRjcDh1cVZiVGd0UHA4LXQ0cktiSHVNQlFKTnVTVjQ3czdXT3E1WEJuNTkwTlRFdFFucllpTXNHQUdRcHBnWDl3ZTlrOGRyUUEtUmVUTFczZnUwSU1fXzZST0c2MnNEdEJBZFM5ZVFGM1NDZFNmaGczQmZaSTRLWVFyd0ZH?oc=5)
-
-2026-03-21 <span class="news-indication-tag">AF</span>
-
-來源：[Corriere Adriatico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDE1UTAxeWx0Y2FLd1BZeGNENVlOT2Z2YWdZaTRtcnlhemY4UkZfYndIT3JxNENoRDVIMVRjcDh1cVZiVGd0UHA4LXQ0cktiSHVNQlFKTnVTVjQ3czdXT3E1WEJuNTkwTlRFdFFucllpTXNHQUdRcHBnWDl3ZTlrOGRyUUEtUmVUTFczZnUwSU1fXzZST0c2MnNEdEJBZFM5ZVFGM1NDZFNmaGczQmZaSTRLWVFyd0ZH?oc=5)
 
 ---
 

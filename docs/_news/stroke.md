@@ -41,19 +41,19 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [José Soto (SEDISA) sobre el Código Shock: "Es clave porque elimina la improvisación y podría replicar el éxito del Código Ictus o Código Infarto" - Gaceta de salud](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRGU4S1R4d3V1eF83eWdwWnZrLVBCel8tUzlUOXVhbnAtTVpZXzB6VFNwRmhLQ01Velg3QTU4Ry1PRlMyV0Z4SVAySDhoY24xV1U5cWFNQVZzZ3Vnd3UxYjhMSGhRYS1qcHVQc01CeDlEUEt5NzluakRyNVplQlV3c3dYdVpaWEpuS3dSZk4tdEN0MWlnQm1XT0xhYnJRTTByOTBZM01XTktGS2xVLW1Ga2hVb1FCNWFDRHA4NW5PX0owZTYtOVB3VW9tcTl3MkFGRXZuRVdFNDV5WDQyQ1R0TmNzaXVmNVZQSTNHYnNZZkRLQzNEZXllMzVWSFB5cFJNX19IUkVmckQwYTFxalpDYTVVb2Z2eWNGWU15elpOV3VZWGtLcm9KVHRoQURFSVhFelhya0pzMWs?oc=5)
-
-2026-03-22
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRGU4S1R4d3V1eF83eWdwWnZrLVBCel8tUzlUOXVhbnAtTVpZXzB6VFNwRmhLQ01Velg3QTU4Ry1PRlMyV0Z4SVAySDhoY24xV1U5cWFNQVZzZ3Vnd3UxYjhMSGhRYS1qcHVQc01CeDlEUEt5NzluakRyNVplQlV3c3dYdVpaWEpuS3dSZk4tdEN0MWlnQm1XT0xhYnJRTTByOTBZM01XTktGS2xVLW1Ga2hVb1FCNWFDRHA4NW5PX0owZTYtOVB3VW9tcTl3MkFGRXZuRVdFNDV5WDQyQ1R0TmNzaXVmNVZQSTNHYnNZZkRLQzNEZXllMzVWSFB5cFJNX19IUkVmckQwYTFxalpDYTVVb2Z2eWNGWU15elpOV3VZWGtLcm9KVHRoQURFSVhFelhya0pzMWs?oc=5)
-
----
-
 ### [Ictus, la durata della siesta pomeridiana rivela la percentuale di rischio: ecco tutti i campanelli d'allarme - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
 
 2026-03-18
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
+
+---
+
+### [«Le 7 cose da non fare dopo le 8 di sera per ridurre il rischio infarto», i consigli del cardiologo - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
+
+2026-03-17
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
 
 ---
 

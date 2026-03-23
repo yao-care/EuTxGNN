@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avanafil</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
+
+### [¿Un caballo de Troya contra el tumor cerebral pediátrico más agresivo? - La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0NVZlBlSzFweVlqUXpNbHdaY2VvVWNKRDJ2M3ctNkNtNkJqQnRXZ1FENFY0RFZ6ZERrWWpGal8zcmJqdmlqcmFtaEVBQ0VLNXB3NndNR1kwRWhHUmFvRXNjVzRFQUxlajRFMmZYcExNNE5EcmdRQ3BWOG8xV3Nob29pN1JzTW9hSzliZ3d2UEpVZHdDTy1teWlNMHFKTkdTOWNHeFpwcEpBWV8yVVFVZHFB0gG3AUFVX3lxTE9RY251cDYyZC1LbUVCR3pJay1NTUxuZlFsU0VOV0kxdzZOa2dBYVZ4QlViMy11allrcHNWMkg5NlpwcXFiQW1tUVlXWDVWaEh5S0J3el93cEFhdFpZYXBWVUtoUWRmdEdmV1dHWDladmtVOGV1YjZGTVl3ZFNLamFPOGhSVUJjdzFZSXUxRzVuRzY1VXR6dXdpWkRRalItMi13WmFNTDNGSU5rMVp0NDI0eGZMUmFXWQ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">tumor</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0NVZlBlSzFweVlqUXpNbHdaY2VvVWNKRDJ2M3ctNkNtNkJqQnRXZ1FENFY0RFZ6ZERrWWpGal8zcmJqdmlqcmFtaEVBQ0VLNXB3NndNR1kwRWhHUmFvRXNjVzRFQUxlajRFMmZYcExNNE5EcmdRQ3BWOG8xV3Nob29pN1JzTW9hSzliZ3d2UEpVZHdDTy1teWlNMHFKTkdTOWNHeFpwcEpBWV8yVVFVZHFB0gG3AUFVX3lxTE9RY251cDYyZC1LbUVCR3pJay1NTUxuZlFsU0VOV0kxdzZOa2dBYVZ4QlViMy11allrcHNWMkg5NlpwcXFiQW1tUVlXWDVWaEh5S0J3el93cEFhdFpZYXBWVUtoUWRmdEdmV1dHWDladmtVOGV1YjZGTVl3ZFNLamFPOGhSVUJjdzFZSXUxRzVuRzY1VXR6dXdpWkRRalItMi13WmFNTDNGSU5rMVp0NDI0eGZMUmFXWQ?oc=5)
+
+---
+
+### [Un ensayo liderado por españoles revela que un nuevo medicamento logra frenar el avance de tumores neuroendocrinos - El Confidencial](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2NvdnVBZkZGVjZjYnlxeXRxc21qaEFOSnZrVlFqclBMeW5IZlg0d0VxdVgwVkxaNjlkZnJLNW9JcFhEZ1NBWG9NbmZOejI5aERDV1FRNngyUk9XWkZ5ZHI2SWxsRTFQOHczRWxWRzVGV3NDWmxuMFV6dk1yaE50ZXZuMk9wbmltLVhIMDducWJla3NzNjdmVl9UZWlfSFZaeVVPX3lhdGlzZ2JUeFhBVlBhWlhaN1ljaVQwcWNVYTNldw?oc=5)
+
+2026-03-23 <span class="news-drug-tag">Axitinib</span> <span class="news-indication-tag">tumor</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2NvdnVBZkZGVjZjYnlxeXRxc21qaEFOSnZrVlFqclBMeW5IZlg0d0VxdVgwVkxaNjlkZnJLNW9JcFhEZ1NBWG9NbmZOejI5aERDV1FRNngyUk9XWkZ5ZHI2SWxsRTFQOHczRWxWRzVGV3NDWmxuMFV6dk1yaE50ZXZuMk9wbmltLVhIMDducWJla3NzNjdmVl9UZWlfSFZaeVVPX3lhdGlzZ2JUeFhBVlBhWlhaN1ljaVQwcWNVYTNldw?oc=5)
+
+---
+
+### [El hallazgo que cambia la visión del cáncer: un potente antioxidante alimenta las células cancerosas - El Debate](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNHNCMGZiMl8zT2NqOVdaOTJfM3RrTVEyalpYSUQzMnFfNXI5Q3k2YVE0cE9tZG9OWlNaNHcwQmMyaEZjemFCYkRldnJjbWhja2VWdXF1M3E3RnFsNEZtbFFhSkdrRUl5VmgyUjRaZmw3RlFhQnRyQ3B1aW5qaTBVMGJrNGl4T3habloxNmNyN0Vyd3VXbDJSalVpa2JZSjhRWWxoS1NCbXMyNXRIUUJTZWozemZlaVJBN3NwSkVCeDA1Nzg1Y3F0TjJLZTc0LWgxNVhPakFOV1NTYzhGeGVnMmVR0gHnAUFVX3lxTE5LbldocVlSYkJPa0g1WDRpaW5sRC1menRqTkptTXJ5VnhJMDM0Qm9fd2l4LWtQcGpNSWFBZHEwRVpKOWtpTlJNZ1BzWFBzZlBWcHZETmxEa0VFbzQ1VlpoOHRlbm5KZHI3akFBUGpuSkhhcl94UTQzRy1vRnY3MkdwbUl0VGVneklWWWJueG9tX2hVd2g4RFZLdWJ5bnh5eHJObFdPdmFMZmFWaUhOODVYY1piTGlPSUo5RVBfbHJBN1FKeGhDcVpXX3dJRDJ0YmxULVl6UzNxcnVsc2ItTnFaN2RZemhjUQ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">cancer</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNHNCMGZiMl8zT2NqOVdaOTJfM3RrTVEyalpYSUQzMnFfNXI5Q3k2YVE0cE9tZG9OWlNaNHcwQmMyaEZjemFCYkRldnJjbWhja2VWdXF1M3E3RnFsNEZtbFFhSkdrRUl5VmgyUjRaZmw3RlFhQnRyQ3B1aW5qaTBVMGJrNGl4T3habloxNmNyN0Vyd3VXbDJSalVpa2JZSjhRWWxoS1NCbXMyNXRIUUJTZWozemZlaVJBN3NwSkVCeDA1Nzg1Y3F0TjJLZTc0LWgxNVhPakFOV1NTYzhGeGVnMmVR0gHnAUFVX3lxTE5LbldocVlSYkJPa0g1WDRpaW5sRC1menRqTkptTXJ5VnhJMDM0Qm9fd2l4LWtQcGpNSWFBZHEwRVpKOWtpTlJNZ1BzWFBzZlBWcHZETmxEa0VFbzQ1VlpoOHRlbm5KZHI3akFBUGpuSkhhcl94UTQzRy1vRnY3MkdwbUl0VGVneklWWWJueG9tX2hVd2g4RFZLdWJ5bnh5eHJObFdPdmFMZmFWaUhOODVYY1piTGlPSUo5RVBfbHJBN1FKeGhDcVpXX3dJRDJ0YmxULVl6UzNxcnVsc2ItTnFaN2RZemhjUQ?oc=5)
+
+---
 
 ### [Avance científico: Editan las células inmunes dentro del cuerpo para que ataquen tumores](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRTZwN1dBNU1uQTVRbG8wbFoyS1J4S2VOTGozUmx1a2dtMUxvTzNPRDZIemo4Z3BGLWhqaklHVWVETEhVX1c3YjVzXzlvbkNmQldSYlNtWjlxQ2Z5d3hOcW9FR1dLZHhTLU1mS2tPSXh0Y3dYVnR3ckg3ZEV1azczQXhkejFKejlsdGstTDUxMUJiVVFaa2FYLXhHXzEwR2Q2dDFqc3VFWlJWcFlsbnYwQ1ZreGVXTGF6ejU1ZUQya2psN1Z3aWdkTHZ2TnBMd9IB0wFBVV95cUxNclpRYzhQakZZbzhTTk10QUtHS3M2VzRjcVpXdzNNU3dQZ0xYaWlRZDdpNllhTXlxdnBNRHloX1I3MmgzR2VFY1ZkNXV0SWktbndFMlotZlhYMjVzM0F3SU5DZS0ydERrbFBTZVdzczBWV3lSX2t5UXRYWENwSXVQOUJ0NDRhUmJ1MTJ6dW9RY2o0OXRUQmZoMmo5XzVqM0RXT0JRc1ZqVlNOSHItdXlWdjhrTmxsaEZyRTBDdXhRbHN3RmpraVBUR3JWc19WLXcybXFR?oc=5)
 
@@ -50,11 +74,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [«Ho un tumore ai polmoni al quarto stadio, ma sono ancora viva. Per i dottori ne avevo per 11 mesi» - Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWRrb0xYRkwycjVpLVlZY0VLZTdWdE45RVEwd2Z4eUNfeml6ZHNZdWRRb081VV8zb0Z3NjV3M2FMR3paYzBQR1RMRWJsaXhfeS16ZGkzRTN1bkJMSkNsRDFYVHFNNkFRTmRjN2hXVjc5SlpzNlZsNjhrMzg3VlZzMFp0LTdyZzNRcTNpU0ZjZVQ3R1Z4dE1QMzZybUtoNFRwWUlhcERnejduYmZUcE9qWVdDNNIBrwFBVV95cUxNNE9ObjlXRHRMUXNiN1NuMXJtcVFRZm1vMFhTQjRhbmp0VGJkWGdLSWZ3dW5ER1ZFU3RwTFJJY3BRQjFIMF9jS3dGVnZXcEpEbWlURnIxTXI4RlNGdnN5YVJILXlka2V1enZBMlZHY0NEcXlTcmU1NjJFZkRDbElON3NFLS0tMWluLWlEdEpHZlFvenZ5UDFLYnNnVUtNc3h1TGFOcnZvd3ZZVGxiWTRr?oc=5)
+### [«Ho un tumore ai polmoni al quarto stadio, ma sono ancora viva. Per i dottori ne avevo per 11 mesi» - Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWRrb0xYRkwycjVpLVlZY0VLZTdWdE45RVEwd2Z4eUNfeml6ZHNZdWRRb081VV8zb0Z3NjV3M2FMR3paYzBQR1RMRWJsaXhfeS16ZGkzRTN1bkJMSkNsRDFYVHFNNkFRTmRjN2hXVjc5SlpzNlZsNjhrMzg3VlZzMFp0LTdyZzNRcTNpU0ZjZVQ3R1Z4dE1QMzZybUtoNFRwWUlhcERnejduYmZUcE9qWVdDNA?oc=5)
 
 2026-03-22 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWRrb0xYRkwycjVpLVlZY0VLZTdWdE45RVEwd2Z4eUNfeml6ZHNZdWRRb081VV8zb0Z3NjV3M2FMR3paYzBQR1RMRWJsaXhfeS16ZGkzRTN1bkJMSkNsRDFYVHFNNkFRTmRjN2hXVjc5SlpzNlZsNjhrMzg3VlZzMFp0LTdyZzNRcTNpU0ZjZVQ3R1Z4dE1QMzZybUtoNFRwWUlhcERnejduYmZUcE9qWVdDNNIBrwFBVV95cUxNNE9ObjlXRHRMUXNiN1NuMXJtcVFRZm1vMFhTQjRhbmp0VGJkWGdLSWZ3dW5ER1ZFU3RwTFJJY3BRQjFIMF9jS3dGVnZXcEpEbWlURnIxTXI4RlNGdnN5YVJILXlka2V1enZBMlZHY0NEcXlTcmU1NjJFZkRDbElON3NFLS0tMWluLWlEdEpHZlFvenZ5UDFLYnNnVUtNc3h1TGFOcnZvd3ZZVGxiWTRr?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWRrb0xYRkwycjVpLVlZY0VLZTdWdE45RVEwd2Z4eUNfeml6ZHNZdWRRb081VV8zb0Z3NjV3M2FMR3paYzBQR1RMRWJsaXhfeS16ZGkzRTN1bkJMSkNsRDFYVHFNNkFRTmRjN2hXVjc5SlpzNlZsNjhrMzg3VlZzMFp0LTdyZzNRcTNpU0ZjZVQ3R1Z4dE1QMzZybUtoNFRwWUlhcERnejduYmZUcE9qWVdDNA?oc=5)
 
 ---
 
@@ -82,14 +106,6 @@ permalink: /news/avanafil/
 
 ---
 
-### [José Soto (SEDISA) sobre el Código Shock: "Es clave porque elimina la improvisación y podría replicar el éxito del Código Ictus o Código Infarto" - Gaceta de salud](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRGU4S1R4d3V1eF83eWdwWnZrLVBCel8tUzlUOXVhbnAtTVpZXzB6VFNwRmhLQ01Velg3QTU4Ry1PRlMyV0Z4SVAySDhoY24xV1U5cWFNQVZzZ3Vnd3UxYjhMSGhRYS1qcHVQc01CeDlEUEt5NzluakRyNVplQlV3c3dYdVpaWEpuS3dSZk4tdEN0MWlnQm1XT0xhYnJRTTByOTBZM01XTktGS2xVLW1Ga2hVb1FCNWFDRHA4NW5PX0owZTYtOVB3VW9tcTl3MkFGRXZuRVdFNDV5WDQyQ1R0TmNzaXVmNVZQSTNHYnNZZkRLQzNEZXllMzVWSFB5cFJNX19IUkVmckQwYTFxalpDYTVVb2Z2eWNGWU15elpOV3VZWGtLcm9KVHRoQURFSVhFelhya0pzMWs?oc=5)
-
-2026-03-22 <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRGU4S1R4d3V1eF83eWdwWnZrLVBCel8tUzlUOXVhbnAtTVpZXzB6VFNwRmhLQ01Velg3QTU4Ry1PRlMyV0Z4SVAySDhoY24xV1U5cWFNQVZzZ3Vnd3UxYjhMSGhRYS1qcHVQc01CeDlEUEt5NzluakRyNVplQlV3c3dYdVpaWEpuS3dSZk4tdEN0MWlnQm1XT0xhYnJRTTByOTBZM01XTktGS2xVLW1Ga2hVb1FCNWFDRHA4NW5PX0owZTYtOVB3VW9tcTl3MkFGRXZuRVdFNDV5WDQyQ1R0TmNzaXVmNVZQSTNHYnNZZkRLQzNEZXllMzVWSFB5cFJNX19IUkVmckQwYTFxalpDYTVVb2Z2eWNGWU15elpOV3VZWGtLcm9KVHRoQURFSVhFelhya0pzMWs?oc=5)
-
----
-
 ### [Macmillan cancer charity to prioritise welfare support for LGBT and ethnic minorities - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWh2NlUxWi1LdmlZNDBBTWZPcFVmMF9zanlFeTVuUVVBb1hxbXZJRHhpTHJ4bmNjWTU1Z2JnbmlIWlpzdXBPVUZCdm44bFdVZUtVbnd0MTB2ODNFM3Z5SUdwXzhfUjdGR1F6YnRqQ2pITEZjb0hYclNVeVlYUzBYZzdRaEZzcXFzb2kxQmxtOEFBbk81ZENENEZ3Qy0yU1k5c3c?oc=5)
 
 2026-03-22 <span class="news-indication-tag">cancer</span>
@@ -103,14 +119,6 @@ permalink: /news/avanafil/
 2026-03-22 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORHBLam9IMkRBbUt5NkVUS2lwWUZrdkV1QlhGU2wxMHFWOHhIM1I1dm9hclpaWi1QVElxdHRxZzctMVM5N21uOFVKMktmOGpPbURTclQ5MUVhQjVaZ0VxYmdXNVZuNDljVnJTemlmMXFtWFZmNXhTZ2FXYU42T3hIdWgwWXF6MXJmOFF1MlQ4a19wZnFlTFhtNURPaVJTV0kwN0pHSG5IN2d5MGtxazVPcmdlQTZnd1F3ZUxsOEZ4dGtKRHFnZTVITlVNYW51SjV5M0xKNS1fZVFQcVQxMk1QQkJn?oc=5)
-
----
-
-### [Glutatión: el antioxidante que actúa como combustible para las células cancerígenas - La Razón](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3FEWnNia21jQmlNMHFEQVNfMlF2Z2FEZlgwQVphcjJLWG1yWFBxeEpTMExIMDEtbXlGM2hhaFE2bHpBeTdhQzdrODAzWmkzUTZsRFlPQWNuTjVPc2FiTXB4UXhTZXRfbEZrdG1hQUdaV3VSU0tYNVc0ajczZ0MyUGt1N21VbDROZXU4REdKUDVsal9HZzZ1alJvaDhHR2tGRldDWTRYQkg2OUlpTVdVZkU1UlBpTVFscXFUeVp2R1BZTm1jbWRjMDJYMExMNUlZeDV2d3oxY9IB6wFBVV95cUxOcWxWUHZ3RENiNG9LVWxKWFVzczgxdW5raGlBWGt1bzIwRVlCeWh0ZjNjdS1RM1p2WlNqam9yYURZbm5BQy11N2U2eVFGenREZkt4WGlKRnl0eHlCY2FCLU5qRi1yUHZOOHNTMl9VZG5tNFBJekxjektha2NuWmhlVDJSdUh0b3hjNnY4SVVIR0MwQjd6ZE1ScUM5Sk9FVkE1SGF3eDBmVzlldTdUeFd4WTVBTDJMa245RVNCYTVBMHNUQkZQTjRRMHNLZFpuMHRSLWh4WnFKSXdsYWd6cnVIV2ZTZThnTDN4Y3FV?oc=5)
-
-2026-03-22 <span class="news-indication-tag">cancer</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3FEWnNia21jQmlNMHFEQVNfMlF2Z2FEZlgwQVphcjJLWG1yWFBxeEpTMExIMDEtbXlGM2hhaFE2bHpBeTdhQzdrODAzWmkzUTZsRFlPQWNuTjVPc2FiTXB4UXhTZXRfbEZrdG1hQUdaV3VSU0tYNVc0ajczZ0MyUGt1N21VbDROZXU4REdKUDVsal9HZzZ1alJvaDhHR2tGRldDWTRYQkg2OUlpTVdVZkU1UlBpTVFscXFUeVp2R1BZTm1jbWRjMDJYMExMNUlZeDV2d3oxY9IB6wFBVV95cUxOcWxWUHZ3RENiNG9LVWxKWFVzczgxdW5raGlBWGt1bzIwRVlCeWh0ZjNjdS1RM1p2WlNqam9yYURZbm5BQy11N2U2eVFGenREZkt4WGlKRnl0eHlCY2FCLU5qRi1yUHZOOHNTMl9VZG5tNFBJekxjektha2NuWmhlVDJSdUh0b3hjNnY4SVVIR0MwQjd6ZE1ScUM5Sk9FVkE1SGF3eDBmVzlldTdUeFd4WTVBTDJMa245RVNCYTVBMHNUQkZQTjRRMHNLZFpuMHRSLWh4WnFKSXdsYWd6cnVIV2ZTZThnTDN4Y3FV?oc=5)
 
 ---
 
@@ -154,14 +162,6 @@ permalink: /news/avanafil/
 
 ---
 
-### [Et si vos cheveux gris étaient le signe que votre corps se protège du cancer ? - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSG1RYW1iZ2VJMld1VWFEek54ajVoZmM4dTZBQUhjLTFWOGVfcVdqcUtqREltR3QwUENJcW8tenFxa3lreURFLWRST3NHS2wzRmc0aUVCN0xCMHl3Ylg5LUVkSDZRdjhad1RYUV9Md3NLYmtOclVRQ2tEdERUelA2aTVfNXprRHFTS3dxdmFSNzFtTUpHWmg2Y2ZmZHJod3VPTW5KT2dDYVFNWTk3VTl5RFJDekpwYm1oYVdEbGFfTXo2WW5yN0dYQTNjNG1kSTRYTk1pNQ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSG1RYW1iZ2VJMld1VWFEek54ajVoZmM4dTZBQUhjLTFWOGVfcVdqcUtqREltR3QwUENJcW8tenFxa3lreURFLWRST3NHS2wzRmc0aUVCN0xCMHl3Ylg5LUVkSDZRdjhad1RYUV9Md3NLYmtOclVRQ2tEdERUelA2aTVfNXprRHFTS3dxdmFSNzFtTUpHWmg2Y2ZmZHJod3VPTW5KT2dDYVFNWTk3VTl5RFJDekpwYm1oYVdEbGFfTXo2WW5yN0dYQTNjNG1kSTRYTk1pNQ?oc=5)
-
----
-
 ### [Community Brain tumour campaign for Bryan raises over £69k in 24 hours - Shetland News](https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVk1sbXdIblE1TXBPLWRySFRQMWlNY01SSi1ldnFjRkxKTlV6Y2VTSDFEZmxoRExFSnlENnU2Nlc4NV83bV9MTl9XeHpxQ1FGVXZtaHNzU2MyOWNfNENQNk04TFBLaDU4cUVrSGQ5Z00wYmtKNEJHZk9sLVhGQQ?oc=5)
 
 2026-03-21 <span class="news-indication-tag">tumour</span>
@@ -199,6 +199,14 @@ permalink: /news/avanafil/
 2026-03-18 <span class="news-indication-tag">ictus</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
+
+---
+
+### [«Le 7 cose da non fare dopo le 8 di sera per ridurre il rischio infarto», i consigli del cardiologo - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
+
+2026-03-17 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
 
 ---
 

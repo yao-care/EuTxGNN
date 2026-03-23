@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
 
-### [Las bacterias intestinales pueden llegar al cerebro; un estudio con ratones encuentra cómo](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkhzRnIzcGRiWWwwalNBVzN5MHY2TVZuOWZwbzhqb2daNHQxczU5cExVRmlmN1dPaW1Kd0ZxaFF6cHVNTTdUYUxObDc5ZXp1SHpuY0FGWmhIS29CVTdXWXUyQVZvZXl4cG5WRTZBbWVkM2lqMW9xQlRGUjh3by1lUi1uLWZoTlZLTkdJenpWdHRQbFgzQWx0S2pITV9yVkVBa05xWjhPS0R4SDA4U2JXalk3ZlA0MTJHS0NqWg?oc=5)
+### [Number of confirmed meningitis cases linked to fatal Kent outbreak drops to 20 - The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm9XaFNITWJpVV9udDhOcW95Uk5LdVRWdVNBNU1kcGdvcDZWek1FdGhrSS1RYXpqeUJnWWpwTGM4WUR0ZlNwRzY4Z3JFOHB0R0dvUHhWQWdLSzB5YlVaZ2ZJd2RRb2I2N0M1TE5MblViWG5rZGNLaXM2aDdRWUpPZVBfSDczbFQ2ZFRQTg?oc=5)
 
-2026-03-22 <span class="news-indication-tag">MS</span>
+2026-03-23 <span class="news-indication-tag">MS</span>
 
-來源：[WIRED](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkhzRnIzcGRiWWwwalNBVzN5MHY2TVZuOWZwbzhqb2daNHQxczU5cExVRmlmN1dPaW1Kd0ZxaFF6cHVNTTdUYUxObDc5ZXp1SHpuY0FGWmhIS29CVTdXWXUyQVZvZXl4cG5WRTZBbWVkM2lqMW9xQlRGUjh3by1lUi1uLWZoTlZLTkdJenpWdHRQbFgzQWx0S2pITV9yVkVBa05xWjhPS0R4SDA4U2JXalk3ZlA0MTJHS0NqWg?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm9XaFNITWJpVV9udDhOcW95Uk5LdVRWdVNBNU1kcGdvcDZWek1FdGhrSS1RYXpqeUJnWWpwTGM4WUR0ZlNwRzY4Z3JFOHB0R0dvUHhWQWdLSzB5YlVaZ2ZJd2RRb2I2N0M1TE5MblViWG5rZGNLaXM2aDdRWUpPZVBfSDczbFQ2ZFRQTg?oc=5)
+
+---
+
+### [Second UK site reports student ill with suspected meningitis 'not linked to Kent outbreak' - London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
+
+2026-03-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
 
 ---
 
@@ -82,11 +90,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [¿Por qué el cerebro de los superancianos no envejece? Nuevas claves para comprender el secreto de su longevidad - La Vanguardia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0FnMlBvMHpXUzh0Z3BEVVlfdVF0ZjQ3clRVSnNmdFBfZm5PZHBoWkFaU183NXdnblJVUTRaeXZXdTFPR016dWE0WHExUGFheUp3T2tIYm16TERrbGNWRmpKSmxaM0VkcnhmSXp2bDRhdDEtZV92WmtZSG53cFl5MnJMbnRPejk4dXlyUjl3N0NMemxvalFWT0tJdy1JRWFGN0JCOVd1SWtFbEV3WUpEWEE1RzFNc1dYc2hiQk9lRlZNaHllSDFOTDVidFRBOGV1U3ZTUWhwdk3SAd4BQVVfeXFMTmp4MlNfVEkzZzRWV1Q3cnUzemNSUVJjZTJuT1NvSUwtdHRnNHQ1eVVTWl9xUl9RRnpmbW9JalNJLW5VTFBoOUM0aG5FZ0F0RW04dV9QWjZxTUwtdjdBSnUxRld1TGJuQmlFdjAyWU1BX0pjZUtvT0hXc0wtX01KZWVjdlZybjVFTlY5amRwZ1NSdnU0dFlTWFZac3Y0R09WQ01mSjQ1MVdrTnhGZUJIR2g5ejVqS3VwcW4zek1lZzJrVXZSVEtva1dzWFdkdW1aUnRuM0VxRThCSVdieWVR?oc=5)
+### [Schoolboy among 21 patients at risk of serious infection in Welsh hospital scandal - Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
 
-2026-03-22 <span class="news-indication-tag">MS</span>
+2026-03-22 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0FnMlBvMHpXUzh0Z3BEVVlfdVF0ZjQ3clRVSnNmdFBfZm5PZHBoWkFaU183NXdnblJVUTRaeXZXdTFPR016dWE0WHExUGFheUp3T2tIYm16TERrbGNWRmpKSmxaM0VkcnhmSXp2bDRhdDEtZV92WmtZSG53cFl5MnJMbnRPejk4dXlyUjl3N0NMemxvalFWT0tJdy1JRWFGN0JCOVd1SWtFbEV3WUpEWEE1RzFNc1dYc2hiQk9lRlZNaHllSDFOTDVidFRBOGV1U3ZTUWhwdk3SAd4BQVVfeXFMTmp4MlNfVEkzZzRWV1Q3cnUzemNSUVJjZTJuT1NvSUwtdHRnNHQ1eVVTWl9xUl9RRnpmbW9JalNJLW5VTFBoOUM0aG5FZ0F0RW04dV9QWjZxTUwtdjdBSnUxRld1TGJuQmlFdjAyWU1BX0pjZUtvT0hXc0wtX01KZWVjdlZybjVFTlY5amRwZ1NSdnU0dFlTWFZac3Y0R09WQ01mSjQ1MVdrTnhGZUJIR2g5ejVqS3VwcW4zek1lZzJrVXZSVEtva1dzWFdkdW1aUnRuM0VxRThCSVdieWVR?oc=5)
+來源：[Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
 
 ---
 
@@ -98,14 +106,6 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Eating Meat Linked to Lower Dementia Risk in Key Genetic Group](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDNub2NlNVdMRzljMjdYR19NRUpWVTIxbU5CcVZKajR3Q181eWNGVTZHX25OQXQ1QU9nVDR3UTF6Z253TUpPUWhPT2FNR1JrSFVTVTk0b2pmMjV6dlJYOTctcENTSm12R1k1OHNJckFodjlmMlk1U1B2MTR4b2ZyZXhmZXlMTFkyZGJFTVR3SE9tUQ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDNub2NlNVdMRzljMjdYR19NRUpWVTIxbU5CcVZKajR3Q181eWNGVTZHX25OQXQ1QU9nVDR3UTF6Z253TUpPUWhPT2FNR1JrSFVTVTk0b2pmMjV6dlJYOTctcENTSm12R1k1OHNJckFodjlmMlk1U1B2MTR4b2ZyZXhmZXlMTFkyZGJFTVR3SE9tUQ?oc=5)
-
----
-
 ### [Los pediatras recomiendan adelantar algunas vacunas por el repunte de casos - Canal Sur](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE1KMGdrV0ZkNW5NVUY2Nl84dWRwVzR2R3dLbEVBSC1udEVHRDdjQ2syc2hwem1OdVY3QTYxRy1wd0Z5N3M1MHVvOHhVdWNJQkhxWTFQdUNuSks1alY2TGpUWUV6NGxGTFNEQ3gxMHljcGkxXzRaWEg1c3RhVktfbWFTTE1jUmR4cnE4ZWh0QnZtdW81SjNZaHU5WkRCWEhhcDVnQkRjbU5yc2o2cHR0Q2dPVUFMTDhIQzlrd1BCbkFqY1NNRjlHTExuaw?oc=5)
 
 2026-03-21 <span class="news-indication-tag">hepatitis</span>
@@ -114,11 +114,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Italien: Wegen Hepatitis-A – Neapel verbietet Verzehr roher Meeresfrüchte - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUdFc0V0N0FldVhBX1dsbHlFbGVXdGFlaVpUTVh5TE5ZU1V0T2pUQXBnb2RrYlBzbXZjTjFCYndvY0JYbTIyYm9JNEh0NVVYaUNSTjVpUmtQVGFvMVJTMWRUQ00tWjA0Ty1EemxrNS15OWsxLTY0bHFGSGhBNURTc3BlWV80cmZZa21wWFE5T1RreVd3SEY4NW5LY0wxRFdaM3h3RGg5ZUExX1A5cDNMeDZJVFJiTVFOS0s3YQ?oc=5)
+### [Italien: Wegen Hepatitis-A – Neapel verbietet Verzehr roher Meeresfrüchte - Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
 
 2026-03-21 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUdFc0V0N0FldVhBX1dsbHlFbGVXdGFlaVpUTVh5TE5ZU1V0T2pUQXBnb2RrYlBzbXZjTjFCYndvY0JYbTIyYm9JNEh0NVVYaUNSTjVpUmtQVGFvMVJTMWRUQ00tWjA0Ty1EemxrNS15OWsxLTY0bHFGSGhBNURTc3BlWV80cmZZa21wWFE5T1RreVd3SEY4NW5LY0wxRFdaM3h3RGg5ZUExX1A5cDNMeDZJVFJiTVFOS0s3YQ?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
 
 ---
 
@@ -127,22 +127,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-03-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[theregister.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
-
----
-
-### [BBC Sport star left in coma and nearly dies in meningitis battle as symptoms shared - The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
-
----
-
-### [Descubren por qué el estrés en los primeros años de vida provoca enfermedades intestinales - Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNU3VrNlJkVnRUU2NuRU82WjF2bzRpMWY5UDJSRWgxTG5kSTRZbmZOWHRzZWJNLVFaUkFNTml6UTV1alBuVWpZYkZ2bFVxUENkYm4yS2FsVEZsQnRwMlpWQUZZT2JhcmhVZEtDNUhmSG1tdzgyeHhIcURmT1plaE9KVFBoQ2tlZGNNbjVNczRKRHRQTGZCMjR6TzFJNElNd3VfQ2xTMEFfSXFDQW4yMXJ2eF9sSzBYd3B1aGc4NzZOcXZsNG9FSnpDa29seldHN2djSjJtSnN6OEtZWTg3THJrUXdkN25uRjhoMTAyZ0J0WVlwUjlWXzJZUV9WVUYwd9IBiAJBVV95cUxNeVAzeXJsRnpDYUJsQ0NzOVJyMU1laTJLLUwxSERDYXVfQjJxSGhVeUVxc1h5QnVLOTZ1eDVvMGdaSlo4VmZYT3IyMWg2YnVYUW91NkVPMDg0MU9tdkZnZmQwZ3FkZlNYSnF4SWlsY3hWdmtCUmR1QmlNQks2Mk1DZzRRODFxZmlhaW9mSFNmeXFqNEF0SkZOS0oxMWdURFdvNnlaT1JnNTVQaHdaWkEzRlBLQ3RnRTFMcTIxX1E0cjhVNEhVWmI3QTVqQkxUQWFTT0RubXhnNHFBeEROVDU0a0JFdUNQcUdodk5rdVZWYWtIdDNxcFhhbmxSblVzMVFzSE9kZXJRZ0I?oc=5)
-
-2026-03-21 <span class="news-indication-tag">MS</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNU3VrNlJkVnRUU2NuRU82WjF2bzRpMWY5UDJSRWgxTG5kSTRZbmZOWHRzZWJNLVFaUkFNTml6UTV1alBuVWpZYkZ2bFVxUENkYm4yS2FsVEZsQnRwMlpWQUZZT2JhcmhVZEtDNUhmSG1tdzgyeHhIcURmT1plaE9KVFBoQ2tlZGNNbjVNczRKRHRQTGZCMjR6TzFJNElNd3VfQ2xTMEFfSXFDQW4yMXJ2eF9sSzBYd3B1aGc4NzZOcXZsNG9FSnpDa29seldHN2djSjJtSnN6OEtZWTg3THJrUXdkN25uRjhoMTAyZ0J0WVlwUjlWXzJZUV9WVUYwd9IBiAJBVV95cUxNeVAzeXJsRnpDYUJsQ0NzOVJyMU1laTJLLUwxSERDYXVfQjJxSGhVeUVxc1h5QnVLOTZ1eDVvMGdaSlo4VmZYT3IyMWg2YnVYUW91NkVPMDg0MU9tdkZnZmQwZ3FkZlNYSnF4SWlsY3hWdmtCUmR1QmlNQks2Mk1DZzRRODFxZmlhaW9mSFNmeXFqNEF0SkZOS0oxMWdURFdvNnlaT1JnNTVQaHdaWkEzRlBLQ3RnRTFMcTIxX1E0cjhVNEhVWmI3QTVqQkxUQWFTT0RubXhnNHFBeEROVDU0a0JFdUNQcUdodk5rdVZWYWtIdDNxcFhhbmxSblVzMVFzSE9kZXJRZ0I?oc=5)
 
 ---
 

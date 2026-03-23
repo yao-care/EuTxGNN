@@ -42,14 +42,6 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（3 則）
 
-### [José Soto (SEDISA) sobre el Código Shock: "Es clave porque elimina la improvisación y podría replicar el éxito del Código Ictus o Código Infarto" - Gaceta de salud](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRGU4S1R4d3V1eF83eWdwWnZrLVBCel8tUzlUOXVhbnAtTVpZXzB6VFNwRmhLQ01Velg3QTU4Ry1PRlMyV0Z4SVAySDhoY24xV1U5cWFNQVZzZ3Vnd3UxYjhMSGhRYS1qcHVQc01CeDlEUEt5NzluakRyNVplQlV3c3dYdVpaWEpuS3dSZk4tdEN0MWlnQm1XT0xhYnJRTTByOTBZM01XTktGS2xVLW1Ga2hVb1FCNWFDRHA4NW5PX0owZTYtOVB3VW9tcTl3MkFGRXZuRVdFNDV5WDQyQ1R0TmNzaXVmNVZQSTNHYnNZZkRLQzNEZXllMzVWSFB5cFJNX19IUkVmckQwYTFxalpDYTVVb2Z2eWNGWU15elpOV3VZWGtLcm9KVHRoQURFSVhFelhya0pzMWs?oc=5)
-
-2026-03-22 <span class="news-indication-tag">ictus</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRGU4S1R4d3V1eF83eWdwWnZrLVBCel8tUzlUOXVhbnAtTVpZXzB6VFNwRmhLQ01Velg3QTU4Ry1PRlMyV0Z4SVAySDhoY24xV1U5cWFNQVZzZ3Vnd3UxYjhMSGhRYS1qcHVQc01CeDlEUEt5NzluakRyNVplQlV3c3dYdVpaWEpuS3dSZk4tdEN0MWlnQm1XT0xhYnJRTTByOTBZM01XTktGS2xVLW1Ga2hVb1FCNWFDRHA4NW5PX0owZTYtOVB3VW9tcTl3MkFGRXZuRVdFNDV5WDQyQ1R0TmNzaXVmNVZQSTNHYnNZZkRLQzNEZXllMzVWSFB5cFJNX19IUkVmckQwYTFxalpDYTVVb2Z2eWNGWU15elpOV3VZWGtLcm9KVHRoQURFSVhFelhya0pzMWs?oc=5)
-
----
-
 ### [Early Menopause Linked to 40% Higher Risk of Cardiovascular Disease](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
 
 2026-03-21 <span class="news-indication-tag">heart disease</span>
@@ -63,6 +55,14 @@ permalink: /news/telmisartan/
 2026-03-18 <span class="news-indication-tag">ictus</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
+
+---
+
+### [«Le 7 cose da non fare dopo le 8 di sera per ridurre il rischio infarto», i consigli del cardiologo - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
+
+2026-03-17 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
 
 ---
 

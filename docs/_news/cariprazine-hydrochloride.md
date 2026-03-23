@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（7 則）
 
-### [Las bacterias intestinales pueden llegar al cerebro; un estudio con ratones encuentra cómo](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkhzRnIzcGRiWWwwalNBVzN5MHY2TVZuOWZwbzhqb2daNHQxczU5cExVRmlmN1dPaW1Kd0ZxaFF6cHVNTTdUYUxObDc5ZXp1SHpuY0FGWmhIS29CVTdXWXUyQVZvZXl4cG5WRTZBbWVkM2lqMW9xQlRGUjh3by1lUi1uLWZoTlZLTkdJenpWdHRQbFgzQWx0S2pITV9yVkVBa05xWjhPS0R4SDA4U2JXalk3ZlA0MTJHS0NqWg?oc=5)
+### [Number of confirmed meningitis cases linked to fatal Kent outbreak drops to 20 - The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm9XaFNITWJpVV9udDhOcW95Uk5LdVRWdVNBNU1kcGdvcDZWek1FdGhrSS1RYXpqeUJnWWpwTGM4WUR0ZlNwRzY4Z3JFOHB0R0dvUHhWQWdLSzB5YlVaZ2ZJd2RRb2I2N0M1TE5MblViWG5rZGNLaXM2aDdRWUpPZVBfSDczbFQ2ZFRQTg?oc=5)
 
-2026-03-22 <span class="news-indication-tag">MS</span>
+2026-03-23 <span class="news-indication-tag">MS</span>
 
-來源：[WIRED](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkhzRnIzcGRiWWwwalNBVzN5MHY2TVZuOWZwbzhqb2daNHQxczU5cExVRmlmN1dPaW1Kd0ZxaFF6cHVNTTdUYUxObDc5ZXp1SHpuY0FGWmhIS29CVTdXWXUyQVZvZXl4cG5WRTZBbWVkM2lqMW9xQlRGUjh3by1lUi1uLWZoTlZLTkdJenpWdHRQbFgzQWx0S2pITV9yVkVBa05xWjhPS0R4SDA4U2JXalk3ZlA0MTJHS0NqWg?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm9XaFNITWJpVV9udDhOcW95Uk5LdVRWdVNBNU1kcGdvcDZWek1FdGhrSS1RYXpqeUJnWWpwTGM4WUR0ZlNwRzY4Z3JFOHB0R0dvUHhWQWdLSzB5YlVaZ2ZJd2RRb2I2N0M1TE5MblViWG5rZGNLaXM2aDdRWUpPZVBfSDczbFQ2ZFRQTg?oc=5)
+
+---
+
+### [Second UK site reports student ill with suspected meningitis 'not linked to Kent outbreak' - London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
+
+2026-03-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
 
 ---
 
@@ -74,14 +82,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [¿Por qué el cerebro de los superancianos no envejece? Nuevas claves para comprender el secreto de su longevidad - La Vanguardia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0FnMlBvMHpXUzh0Z3BEVVlfdVF0ZjQ3clRVSnNmdFBfZm5PZHBoWkFaU183NXdnblJVUTRaeXZXdTFPR016dWE0WHExUGFheUp3T2tIYm16TERrbGNWRmpKSmxaM0VkcnhmSXp2bDRhdDEtZV92WmtZSG53cFl5MnJMbnRPejk4dXlyUjl3N0NMemxvalFWT0tJdy1JRWFGN0JCOVd1SWtFbEV3WUpEWEE1RzFNc1dYc2hiQk9lRlZNaHllSDFOTDVidFRBOGV1U3ZTUWhwdk3SAd4BQVVfeXFMTmp4MlNfVEkzZzRWV1Q3cnUzemNSUVJjZTJuT1NvSUwtdHRnNHQ1eVVTWl9xUl9RRnpmbW9JalNJLW5VTFBoOUM0aG5FZ0F0RW04dV9QWjZxTUwtdjdBSnUxRld1TGJuQmlFdjAyWU1BX0pjZUtvT0hXc0wtX01KZWVjdlZybjVFTlY5amRwZ1NSdnU0dFlTWFZac3Y0R09WQ01mSjQ1MVdrTnhGZUJIR2g5ejVqS3VwcW4zek1lZzJrVXZSVEtva1dzWFdkdW1aUnRuM0VxRThCSVdieWVR?oc=5)
-
-2026-03-22 <span class="news-indication-tag">MS</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0FnMlBvMHpXUzh0Z3BEVVlfdVF0ZjQ3clRVSnNmdFBfZm5PZHBoWkFaU183NXdnblJVUTRaeXZXdTFPR016dWE0WHExUGFheUp3T2tIYm16TERrbGNWRmpKSmxaM0VkcnhmSXp2bDRhdDEtZV92WmtZSG53cFl5MnJMbnRPejk4dXlyUjl3N0NMemxvalFWT0tJdy1JRWFGN0JCOVd1SWtFbEV3WUpEWEE1RzFNc1dYc2hiQk9lRlZNaHllSDFOTDVidFRBOGV1U3ZTUWhwdk3SAd4BQVVfeXFMTmp4MlNfVEkzZzRWV1Q3cnUzemNSUVJjZTJuT1NvSUwtdHRnNHQ1eVVTWl9xUl9RRnpmbW9JalNJLW5VTFBoOUM0aG5FZ0F0RW04dV9QWjZxTUwtdjdBSnUxRld1TGJuQmlFdjAyWU1BX0pjZUtvT0hXc0wtX01KZWVjdlZybjVFTlY5amRwZ1NSdnU0dFlTWFZac3Y0R09WQ01mSjQ1MVdrTnhGZUJIR2g5ejVqS3VwcW4zek1lZzJrVXZSVEtva1dzWFdkdW1aUnRuM0VxRThCSVdieWVR?oc=5)
-
----
-
 ### [I spent five months in a mother and baby mental health unit - here's what I want mums to know](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
 
 2026-03-21 <span class="news-indication-tag">MS</span>
@@ -90,35 +90,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Eating Meat Linked to Lower Dementia Risk in Key Genetic Group](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDNub2NlNVdMRzljMjdYR19NRUpWVTIxbU5CcVZKajR3Q181eWNGVTZHX25OQXQ1QU9nVDR3UTF6Z253TUpPUWhPT2FNR1JrSFVTVTk0b2pmMjV6dlJYOTctcENTSm12R1k1OHNJckFodjlmMlk1U1B2MTR4b2ZyZXhmZXlMTFkyZGJFTVR3SE9tUQ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDNub2NlNVdMRzljMjdYR19NRUpWVTIxbU5CcVZKajR3Q181eWNGVTZHX25OQXQ1QU9nVDR3UTF6Z253TUpPUWhPT2FNR1JrSFVTVTk0b2pmMjV6dlJYOTctcENTSm12R1k1OHNJckFodjlmMlk1U1B2MTR4b2ZyZXhmZXlMTFkyZGJFTVR3SE9tUQ?oc=5)
-
----
-
 ### [Turns out your coffee addiction may be doing your brain a favor](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
 
 2026-03-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[theregister.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
-
----
-
-### [BBC Sport star left in coma and nearly dies in meningitis battle as symptoms shared - The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxNeHZWRF9teXFSQ1FnUnJyZGY4aWxFRkN3MmpEcVNMZkFoODRRZkpLWmVVYTNJcWZLWm14WDBMRjB2RVlUSzEza2JqMlRfQUZFVHNub19RVXZVc2E1bWY3WWtwQnJVTmRWaDM3eTZ3dnhZTkRLWW1wM2ZMYXNfM0RGMGRoNU52RnNyNG1HYVB2Y2ZfN1pTdVJhMVZuZnFwd9IBowFBVV95cUxQaEhfdjM0ZVhBVnl6LW92RW9YNlQ0S1BUcHhEVkRJM1J1cXJaNFIySHA5X040RUtLbXdzOE0zMC1za3lmVjZZa1ZfRmp4R2hneDFZVVlGQl8zUFBIRnFiZmd3Tmt6QnlJdGFOTlpob1ExODFFSW9SUVdwOGZ6RkpyRUdnRlR3TTF6b0RUdTZ3TndKZzFvTzVWVGZrTG9TQkQwYXpZ?oc=5)
-
----
-
-### [Descubren por qué el estrés en los primeros años de vida provoca enfermedades intestinales - Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNU3VrNlJkVnRUU2NuRU82WjF2bzRpMWY5UDJSRWgxTG5kSTRZbmZOWHRzZWJNLVFaUkFNTml6UTV1alBuVWpZYkZ2bFVxUENkYm4yS2FsVEZsQnRwMlpWQUZZT2JhcmhVZEtDNUhmSG1tdzgyeHhIcURmT1plaE9KVFBoQ2tlZGNNbjVNczRKRHRQTGZCMjR6TzFJNElNd3VfQ2xTMEFfSXFDQW4yMXJ2eF9sSzBYd3B1aGc4NzZOcXZsNG9FSnpDa29seldHN2djSjJtSnN6OEtZWTg3THJrUXdkN25uRjhoMTAyZ0J0WVlwUjlWXzJZUV9WVUYwd9IBiAJBVV95cUxNeVAzeXJsRnpDYUJsQ0NzOVJyMU1laTJLLUwxSERDYXVfQjJxSGhVeUVxc1h5QnVLOTZ1eDVvMGdaSlo4VmZYT3IyMWg2YnVYUW91NkVPMDg0MU9tdkZnZmQwZ3FkZlNYSnF4SWlsY3hWdmtCUmR1QmlNQks2Mk1DZzRRODFxZmlhaW9mSFNmeXFqNEF0SkZOS0oxMWdURFdvNnlaT1JnNTVQaHdaWkEzRlBLQ3RnRTFMcTIxX1E0cjhVNEhVWmI3QTVqQkxUQWFTT0RubXhnNHFBeEROVDU0a0JFdUNQcUdodk5rdVZWYWtIdDNxcFhhbmxSblVzMVFzSE9kZXJRZ0I?oc=5)
-
-2026-03-21 <span class="news-indication-tag">MS</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNU3VrNlJkVnRUU2NuRU82WjF2bzRpMWY5UDJSRWgxTG5kSTRZbmZOWHRzZWJNLVFaUkFNTml6UTV1alBuVWpZYkZ2bFVxUENkYm4yS2FsVEZsQnRwMlpWQUZZT2JhcmhVZEtDNUhmSG1tdzgyeHhIcURmT1plaE9KVFBoQ2tlZGNNbjVNczRKRHRQTGZCMjR6TzFJNElNd3VfQ2xTMEFfSXFDQW4yMXJ2eF9sSzBYd3B1aGc4NzZOcXZsNG9FSnpDa29seldHN2djSjJtSnN6OEtZWTg3THJrUXdkN25uRjhoMTAyZ0J0WVlwUjlWXzJZUV9WVUYwd9IBiAJBVV95cUxNeVAzeXJsRnpDYUJsQ0NzOVJyMU1laTJLLUwxSERDYXVfQjJxSGhVeUVxc1h5QnVLOTZ1eDVvMGdaSlo4VmZYT3IyMWg2YnVYUW91NkVPMDg0MU9tdkZnZmQwZ3FkZlNYSnF4SWlsY3hWdmtCUmR1QmlNQks2Mk1DZzRRODFxZmlhaW9mSFNmeXFqNEF0SkZOS0oxMWdURFdvNnlaT1JnNTVQaHdaWkEzRlBLQ3RnRTFMcTIxX1E0cjhVNEhVWmI3QTVqQkxUQWFTT0RubXhnNHFBeEROVDU0a0JFdUNQcUdodk5rdVZWYWtIdDNxcFhhbmxSblVzMVFzSE9kZXJRZ0I?oc=5)
 
 ---
 
