@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,19 +40,35 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
 
-### [Number of confirmed meningitis cases linked to fatal Kent outbreak drops to 20 - The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm9XaFNITWJpVV9udDhOcW95Uk5LdVRWdVNBNU1kcGdvcDZWek1FdGhrSS1RYXpqeUJnWWpwTGM4WUR0ZlNwRzY4Z3JFOHB0R0dvUHhWQWdLSzB5YlVaZ2ZJd2RRb2I2N0M1TE5MblViWG5rZGNLaXM2aDdRWUpPZVBfSDczbFQ2ZFRQTg?oc=5)
+### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak - The Telegraph](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmJIcGlkRVB6akJ1Z3RXeHg5aG5Tck1xaC03Z3U4ckNURVpmSjB4SnZXZ1ZNYzgxb3hmUlNPODlNY1RuSUZpXzdZb0dzcC1WdHFpUEZ4WmV3UU5zMmVEclNlY2FaWDAzOXVlV3BTZ0k0Z3N4c2FUakdKa185TDRfajlkeTN3NndCc1FVcm85bFFYMDlYNEVvMy1oU2p0MWRsMkNyaUV3c3BoNllwTDU3TTd2bU9mM1FuMkladWxaMzgzS3pQ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmJIcGlkRVB6akJ1Z3RXeHg5aG5Tck1xaC03Z3U4ckNURVpmSjB4SnZXZ1ZNYzgxb3hmUlNPODlNY1RuSUZpXzdZb0dzcC1WdHFpUEZ4WmV3UU5zMmVEclNlY2FaWDAzOXVlV3BTZ0k0Z3N4c2FUakdKa185TDRfajlkeTN3NndCc1FVcm85bFFYMDlYNEVvMy1oU2p0MWRsMkNyaUV3c3BoNllwTDU3TTd2bU9mM1FuMkladWxaMzgzS3pQ?oc=5)
+
+---
+
+### [Is it true that … you need to work out if you want to lose weight? - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTN2eWR5V014QnV6SllFeWlNTklUR2ZDMlJwdk9VUl9IVkRGejVuVU16R2lsTFRIVXlsZkNSTlRBZ3J0M0xnN19kclFLTDB5RXhxc29vdmpsRmI1d3NtV0NsUDZnandFZGVYZGl4SDFDQ1c2X0RTRmYtY3RNS2kzd3ZDeG9Ccm83MXdmZzA5TTV3eHkxZ0V1Q21IY3lZZWhfMTEwaTUtNjhJVkc2MlpjNnRKa1lud1k?oc=5)
 
 2026-03-23 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm9XaFNITWJpVV9udDhOcW95Uk5LdVRWdVNBNU1kcGdvcDZWek1FdGhrSS1RYXpqeUJnWWpwTGM4WUR0ZlNwRzY4Z3JFOHB0R0dvUHhWQWdLSzB5YlVaZ2ZJd2RRb2I2N0M1TE5MblViWG5rZGNLaXM2aDdRWUpPZVBfSDczbFQ2ZFRQTg?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTN2eWR5V014QnV6SllFeWlNTklUR2ZDMlJwdk9VUl9IVkRGejVuVU16R2lsTFRIVXlsZkNSTlRBZ3J0M0xnN19kclFLTDB5RXhxc29vdmpsRmI1d3NtV0NsUDZnandFZGVYZGl4SDFDQ1c2X0RTRmYtY3RNS2kzd3ZDeG9Ccm83MXdmZzA5TTV3eHkxZ0V1Q21IY3lZZWhfMTEwaTUtNjhJVkc2MlpjNnRKa1lud1k?oc=5)
+
+---
+
+### [Mehr Vitamine, langsameres Altern?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEY0R0V3Q1NPYmN4Q3A4aG10bFk1UVFMUlZjenRZTnBCZnI3bm9jOEJtVVJSaDVfLU1BMElGZjVHQnl5ZWtDV21wYXRpc0FqczNkQnRVWTZWS1hYMzBVaGx0N2ZiYi1XdTZ1UGk0LVpWVlJlMHdLdGwwdTR3aEhfaWZwWmtuaHo3Qjd0T0dOdXlsTUZhbHZtdzZTUXFvX0dHd19YVllQbUR6RjQ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">MS</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEY0R0V3Q1NPYmN4Q3A4aG10bFk1UVFMUlZjenRZTnBCZnI3bm9jOEJtVVJSaDVfLU1BMElGZjVHQnl5ZWtDV21wYXRpc0FqczNkQnRVWTZWS1hYMzBVaGx0N2ZiYi1XdTZ1UGk0LVpWVlJlMHdLdGwwdTR3aEhfaWZwWmtuaHo3Qjd0T0dOdXlsTUZhbHZtdzZTUXFvX0dHd19YVllQbUR6RjQ?oc=5)
 
 ---
 
 ### [Second UK site reports student ill with suspected meningitis 'not linked to Kent outbreak' - London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
 
-2026-03-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-23 <span class="news-indication-tag">MS</span>
 
 來源：[London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
 
@@ -74,19 +90,27 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Un gen de los yaks que les permite vivir en altura podría abrir una nueva vía para reparar el daño de la esclerosis múltiple - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTUwxdzVZUzBCSHZfWklURHYwTEdfOUEtbU1GSklwcjFIRFJydUFBU2ZjbjFSbENXREtKVElZb0Q3NDZlRHhsdzdiazZzQ0RzSGg3OHZzTGc5Yk95eFlpVENjeTlNVzVOdGVTZHlqR21ycWRRd00wUWNSZVJfb0pydUpadWVKV3Z4X1JIU3RBYUZOaS1FV0ktNUt5ODhVc0IyN1VfOTdya0xkc3oxeHF2Z3NJM0NQUUxIcFlodFA0ZDB3a1plS0Jtazh0RUp2RVJQMXpKaDNvQjA0MEdCMjBFMWltU3pKcEc1Q1ZRdWhnMFE?oc=5)
-
-2026-03-22 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTUwxdzVZUzBCSHZfWklURHYwTEdfOUEtbU1GSklwcjFIRFJydUFBU2ZjbjFSbENXREtKVElZb0Q3NDZlRHhsdzdiazZzQ0RzSGg3OHZzTGc5Yk95eFlpVENjeTlNVzVOdGVTZHlqR21ycWRRd00wUWNSZVJfb0pydUpadWVKV3Z4X1JIU3RBYUZOaS1FV0ktNUt5ODhVc0IyN1VfOTdya0xkc3oxeHF2Z3NJM0NQUUxIcFlodFA0ZDB3a1plS0Jtazh0RUp2RVJQMXpKaDNvQjA0MEdCMjBFMWltU3pKcEc1Q1ZRdWhnMFE?oc=5)
-
----
-
 ### [I spent five months in a mother and baby mental health unit - here's what I want mums to know](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
 
 2026-03-21 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
+
+---
+
+### [The 5 weapons to build your hay fever defences NOW - from the fastest-acting antihistamine to drug-free hack - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcC00bWtUVEVXQy1hODk2dHhwR2praXpRNDM4UnU4cW91TjROTWJkZDhKaC1ubXZ3WmU3SG9jOWstZlVyOS1MbDRmRDIyY2ZJNF9iNC1OR2RnYkk3VmtZd0g3NnJtM1kxbTlSMXI3OTh2ZW12UjFLcndEQkRYOWE2bVg0V1VJN0JhSXk1dk4yWDFWeUE?oc=5)
+
+2026-03-21 <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcC00bWtUVEVXQy1hODk2dHhwR2praXpRNDM4UnU4cW91TjROTWJkZDhKaC1ubXZ3WmU3SG9jOWstZlVyOS1MbDRmRDIyY2ZJNF9iNC1OR2RnYkk3VmtZd0g3NnJtM1kxbTlSMXI3OTh2ZW12UjFLcndEQkRYOWE2bVg0V1VJN0JhSXk1dk4yWDFWeUE?oc=5)
+
+---
+
+### [Doctor's warning to people taking Omeprazole or nasal decongestants - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2N4VTIwMTRUa0tqMV8xMjNFX3FDQmtlUGVuT0t2Zk45dTIxMUZMRU1XWXd2T2haMkM4Y2NVRXV2RlEwVTdLV1JFRXp1SkZpZVNMd1BkY3dXUDVLX3lRbUhoSHR2cnBXeDJwZVhKQUZOcDZ0M2VqWG1mUjZLcXR0Y0JTV2VkZEJJN1l6bFF0Z2tFOXF0cmc?oc=5)
+
+2026-03-21 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2N4VTIwMTRUa0tqMV8xMjNFX3FDQmtlUGVuT0t2Zk45dTIxMUZMRU1XWXd2T2haMkM4Y2NVRXV2RlEwVTdLV1JFRXp1SkZpZVNMd1BkY3dXUDVLX3lRbUhoSHR2cnBXeDJwZVhKQUZOcDZ0M2VqWG1mUjZLcXR0Y0JTV2VkZEJJN1l6bFF0Z2tFOXF0cmc?oc=5)
 
 ---
 

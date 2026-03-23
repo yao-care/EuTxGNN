@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Parents in 'race against time' to save two-year-old girl diagnosed with dementia](https://news.google.com/rss/articles/CBMitAFBVV95cUxONkN1R1k0OFM3WndKMW5iSTFUSjdQYXpBUFRVZ3piZEstQXJGUi03YWF1N3djbk1RX2NtWWNPWFpibU1oNmhIRXluOEVqbW9sOVBQeG96ZXdoOUcxUDFiYUhEU0hxc3pDOFVKRDRyckU4YTV6c0RoQ1VTVjdZZndvd3ZXLVBXb01oNHNxcloyenZjOHN2ZDQ2MWRNa3FJTWlmelFtZC1DbnI5eHZDcm1kcDVQckM?oc=5)
+
+2026-03-23
+
+來源：[ITVX](https://news.google.com/rss/articles/CBMitAFBVV95cUxONkN1R1k0OFM3WndKMW5iSTFUSjdQYXpBUFRVZ3piZEstQXJGUi03YWF1N3djbk1RX2NtWWNPWFpibU1oNmhIRXluOEVqbW9sOVBQeG96ZXdoOUcxUDFiYUhEU0hxc3pDOFVKRDRyckU4YTV6c0RoQ1VTVjdZZndvd3ZXLVBXb01oNHNxcloyenZjOHN2ZDQ2MWRNa3FJTWlmelFtZC1DbnI5eHZDcm1kcDVQckM?oc=5)
+
+---
 
 ### [Turns out your coffee addiction may be doing your brain a favor](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
 

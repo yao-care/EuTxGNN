@@ -42,6 +42,14 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（3 則）
 
+### [Ein neuer Anfang nach dem Schlaganfall](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
+
+2026-03-23 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Evangelisch.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
+
+---
+
 ### [Early Menopause Linked to 40% Higher Risk of Cardiovascular Disease](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
 
 2026-03-21 <span class="news-indication-tag">heart disease</span>
@@ -55,14 +63,6 @@ permalink: /news/telmisartan/
 2026-03-18 <span class="news-indication-tag">ictus</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
-
----
-
-### [«Le 7 cose da non fare dopo le 8 di sera per ridurre il rischio infarto», i consigli del cardiologo - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
-
-2026-03-17 <span class="news-indication-tag">ictus</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
 
 ---
 

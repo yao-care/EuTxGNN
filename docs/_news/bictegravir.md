@@ -14,7 +14,7 @@ permalink: /news/bictegravir/
 ---
 
 <p class="key-answer" data-question="Bictegravir 有什麼相關新聞？">
-<strong>Bictegravir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bictegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,45 @@ permalink: /news/bictegravir/
 <p><a href="{{ '/drugs/bictegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Epatite A, 8 nuovi casi al Cotugno: in totale sono 54 i ricoverati in ospedale - Il Mattino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW9FWlRWR2h6RmpoM1FIWUxrYkYzbjBFbUZ3ZkY0UjhkZVE1RE9pemdVU2Y1bm9GTFFFYTlvaV9zUVpTVXVjaG9IdGZxRlFDLTVOVkpvbGtIdmRYZDNKQUI1NXk1bmZxTVpwcFpaNzE3Uk5ndDdWUWNZNVNvYml6NFBsNUFqTHI3UTQtN3ZDU3RTeFV2NXNHa01yaGtCaF9keS1rUFJ1MUZVOUR4Ym1DQ3ZJdGJtSjB4eU02aGU3QV9NVEk3bmNsddIBwwFBVV95cUxQamt5U1JiSEk4amFIZVp2NVB5MVNIS3hvaTIxV3NlNnFBVG1idEtDd1pCTWhWdHJTVV9pSDQ2NTFHQ3k4REVXSjJIUlY4Mkk1OUM5YnZhU2VtTTNfaFdRV2VlaE1fVnlUNnlYd3hyQXlrYnRkcEFEQ0dvT0VnM01xWXVYZWFaR1E1aVAxZEJtdWZLaFBOQ2FENkFyejRxRU9nRFdQRFRNeGR1U2ZFM3Y1dlRyN3B5ZGd2QnZxWDVIZFU4Tnc?oc=5)
+### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes - IPac Acuicultura](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcC1BNDN5ajN3REJPbzdhb0VsUnFWQ2EtZmF0RnF6ZEc3aWNNcUdzeENDNlV2V1NSNjRHNXpzTU9Kam5fYjlWN3BWVkJURGFjMFBxSU1KWl9Fc3k1dkZuMnlRRlk1OU1xMi05S0VzQzFXWG9kOUtudGZrZ0IxcWNtVw?oc=5)
 
-2026-03-22 <span class="news-indication-tag">epatite</span>
+2026-03-23 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW9FWlRWR2h6RmpoM1FIWUxrYkYzbjBFbUZ3ZkY0UjhkZVE1RE9pemdVU2Y1bm9GTFFFYTlvaV9zUVpTVXVjaG9IdGZxRlFDLTVOVkpvbGtIdmRYZDNKQUI1NXk1bmZxTVpwcFpaNzE3Uk5ndDdWUWNZNVNvYml6NFBsNUFqTHI3UTQtN3ZDU3RTeFV2NXNHa01yaGtCaF9keS1rUFJ1MUZVOUR4Ym1DQ3ZJdGJtSjB4eU02aGU3QV9NVEk3bmNsddIBwwFBVV95cUxQamt5U1JiSEk4amFIZVp2NVB5MVNIS3hvaTIxV3NlNnFBVG1idEtDd1pCTWhWdHJTVV9pSDQ2NTFHQ3k4REVXSjJIUlY4Mkk1OUM5YnZhU2VtTTNfaFdRV2VlaE1fVnlUNnlYd3hyQXlrYnRkcEFEQ0dvT0VnM01xWXVYZWFaR1E1aVAxZEJtdWZLaFBOQ2FENkFyejRxRU9nRFdQRFRNeGR1U2ZFM3Y1dlRyN3B5ZGd2QnZxWDVIZFU4Tnc?oc=5)
+來源：[IPac Acuicultura](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcC1BNDN5ajN3REJPbzdhb0VsUnFWQ2EtZmF0RnF6ZEc3aWNNcUdzeENDNlV2V1NSNjRHNXpzTU9Kam5fYjlWN3BWVkJURGFjMFBxSU1KWl9Fc3k1dkZuMnlRRlk1OU1xMi05S0VzQzFXWG9kOUtudGZrZ0IxcWNtVw?oc=5)
 
 ---
 
-### [Schoolboy among 21 patients at risk of serious infection in Welsh hospital scandal - Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
+### [Teen among patients at risk of HIV and Hepatitis after NHS hospital fitted braces with unsterilised equipment - GB News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUi13OXJDbk9RYWFqWlhIZmk2cEZJRHdTSmxjRzY4ZHh2SWp5aWtBZ1NEYVdINkZ5SW5hLTBqUW1lX25xUklEbkNzYldzb2FiTEhyME8yeWozdlI3RWxTV1lxdGJpMG1IczlGQWxveWVzQUFPTmZYcmZWV1NvU29SZzJqTElOTGF1a3UyaU5Lc2lVaGZwdmxvaXVkVFR6X1VpelZQYnNjc05LUXVIbTVMdjRxSXhfUWM2X3ZCclRLX2xpeWFfTTBjYnNn?oc=5)
 
 2026-03-22 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUi13OXJDbk9RYWFqWlhIZmk2cEZJRHdTSmxjRzY4ZHh2SWp5aWtBZ1NEYVdINkZ5SW5hLTBqUW1lX25xUklEbkNzYldzb2FiTEhyME8yeWozdlI3RWxTV1lxdGJpMG1IczlGQWxveWVzQUFPTmZYcmZWV1NvU29SZzJqTElOTGF1a3UyaU5Lc2lVaGZwdmxvaXVkVFR6X1VpelZQYnNjc05LUXVIbTVMdjRxSXhfUWM2X3ZCclRLX2xpeWFfTTBjYnNn?oc=5)
+
+---
+
+### [Sanità, casi sospetti Epatite A a Cosenza: cozze sotto accusa - il Lametino.it](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHRkXy1aZHVWc0ZlVVVUdlpQTXlIbGJQUURtcDR1QTdlUkxPMlp1b1NNeWRNQjJ0REVmaTFOX3dnLU1ndi04NDNRWEliNkpVNWlBUXNXcVp5NXJXOVZ1Uy10ZnRXTXhSMnFjdFo5MEJqVDJIYlluNmxuWmJOSThybGk2OHZKN2R3TkJUVHhndzM5YVExNF9jdlVyWHo?oc=5)
+
+2026-03-22 <span class="news-indication-tag">epatite</span>
+
+來源：[il Lametino.it](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHRkXy1aZHVWc0ZlVVVUdlpQTXlIbGJQUURtcDR1QTdlUkxPMlp1b1NNeWRNQjJ0REVmaTFOX3dnLU1ndi04NDNRWEliNkpVNWlBUXNXcVp5NXJXOVZ1Uy10ZnRXTXhSMnFjdFo5MEJqVDJIYlluNmxuWmJOSThybGk2OHZKN2R3TkJUVHhndzM5YVExNF9jdlVyWHo?oc=5)
+
+---
+
+### [Epatite A, denunciato un 73enne a Torre del Greco: in auto 25 kg di vongole veraci senza tracciabilità - Il Mattino](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXdfTTVTQUF6SEIzWEZmaU9XVF9XTnNFaFVUV1R1dnBHUy04RDFmaVU0cTNIS3M4Tmc5Szd6MjlWOTFEM3dVaG1vcm91TWZUczF6cnIxRnhfbzRKN0E5alpqQnRtTjJqM0xwQURjemIyUUViRkpKdlo3QXdjLTRaR3ZQbTFVSHNKNk1UMzhWeXh5QzhSSllkVmdReWlkRjc2NlJmRlNJdThtWHpTdW5pYy1RTzFNeWsyN3pES0w1WjBrVXFrTmRKbTRBeklTcnU1a0F5Q0ZTQmFHRHJEdEEtSUI0S1J5Z0xSSjVUVVRfYlA2VWtsZHdr0gHjAUFVX3lxTE9ndU5TUWlWQmVCVkdza1RnUnA4STVEakdoRkpSUmZVaUdNN3NFR2VIRnhfeGQ0dEtjWndNbUowVC1CZDc1WUlxOW5XVVZfUzV1cmIyM0dkSXZ6bVA2SDZ2b1ZqZHVsdjNPRE1XakZxNXlzZ1JMeURfQ0ljOHJSa21zVUgyS0RSRm92N2U5eDNwajlXLWFRYzZnZFEyUzZ1a2lzUWIwOW5oVVVYSE1ISUJKcW1KY1k4MlNpeXI0SzljWGJwS1lSWXl5bm1hS2VMN2RHVkRsN2JQZTE4dEFubkJVbEpr?oc=5)
+
+2026-03-22 <span class="news-indication-tag">epatite</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXdfTTVTQUF6SEIzWEZmaU9XVF9XTnNFaFVUV1R1dnBHUy04RDFmaVU0cTNIS3M4Tmc5Szd6MjlWOTFEM3dVaG1vcm91TWZUczF6cnIxRnhfbzRKN0E5alpqQnRtTjJqM0xwQURjemIyUUViRkpKdlo3QXdjLTRaR3ZQbTFVSHNKNk1UMzhWeXh5QzhSSllkVmdReWlkRjc2NlJmRlNJdThtWHpTdW5pYy1RTzFNeWsyN3pES0w1WjBrVXFrTmRKbTRBeklTcnU1a0F5Q0ZTQmFHRHJEdEEtSUI0S1J5Z0xSSjVUVVRfYlA2VWtsZHdr0gHjAUFVX3lxTE9ndU5TUWlWQmVCVkdza1RnUnA4STVEakdoRkpSUmZVaUdNN3NFR2VIRnhfeGQ0dEtjWndNbUowVC1CZDc1WUlxOW5XVVZfUzV1cmIyM0dkSXZ6bVA2SDZ2b1ZqZHVsdjNPRE1XakZxNXlzZ1JMeURfQ0ljOHJSa21zVUgyS0RSRm92N2U5eDNwajlXLWFRYzZnZFEyUzZ1a2lzUWIwOW5oVVVYSE1ISUJKcW1KY1k4MlNpeXI0SzljWGJwS1lSWXl5bm1hS2VMN2RHVkRsN2JQZTE4dEFubkJVbEpr?oc=5)
+
+---
+
+### [Hepatitis-a explodiert in neapel: 180 fälle in tagen – austern-v...](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3VhMHprZ3FJVkZNY1hSazV6NTNPVWJLRlc5ODEtazJrZ3RfUDB3RTB2bnE2UkYwU1RPdWZ4dHdQVFVDWURhdW5McUpGRHZJRzd0NGphU01pSmJGOVRSV0pXWlpQMkRiY0dvX29zbGhBV1FIckhDRHpvNk9hMk0yc29yVTFtYXFPNUJIRXVuQjFET2NBUDl6dnBCOGJWQmRFN3JVTnVFNVhtamFSbGlNUlRrWVdkWnc?oc=5)
+
+2026-03-21 <span class="news-indication-tag">hepatitis</span>
+
+來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3VhMHprZ3FJVkZNY1hSazV6NTNPVWJLRlc5ODEtazJrZ3RfUDB3RTB2bnE2UkYwU1RPdWZ4dHdQVFVDWURhdW5McUpGRHZJRzd0NGphU01pSmJGOVRSV0pXWlpQMkRiY0dvX29zbGhBV1FIckhDRHpvNk9hMk0yc29yVTFtYXFPNUJIRXVuQjFET2NBUDl6dnBCOGJWQmRFN3JVTnVFNVhtamFSbGlNUlRrWVdkWnc?oc=5)
 
 ---
 
@@ -63,14 +87,6 @@ permalink: /news/bictegravir/
 2026-03-21 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Canal Sur](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE1KMGdrV0ZkNW5NVUY2Nl84dWRwVzR2R3dLbEVBSC1udEVHRDdjQ2syc2hwem1OdVY3QTYxRy1wd0Z5N3M1MHVvOHhVdWNJQkhxWTFQdUNuSks1alY2TGpUWUV6NGxGTFNEQ3gxMHljcGkxXzRaWEg1c3RhVktfbWFTTE1jUmR4cnE4ZWh0QnZtdW81SjNZaHU5WkRCWEhhcDVnQkRjbU5yc2o2cHR0Q2dPVUFMTDhIQzlrd1BCbkFqY1NNRjlHTExuaw?oc=5)
-
----
-
-### [Italien: Wegen Hepatitis-A – Neapel verbietet Verzehr roher Meeresfrüchte - Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
 
 ---
 

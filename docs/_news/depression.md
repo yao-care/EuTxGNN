@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [La depresión no es inevitable: así influye el cerebro en el impacto del dolor crónico](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaENuMm1OWVh3SWlET1cyT0hza3dsZEpaak1rdG9QeEZZTXViNjI4dzhVR3B6UDB3b2pCTWRQM2o5cDY1QlF4Z1Y0c3BiTldxajNjeUZRdDJKUjctQ1plc0hTLUlBcVY5VnJPM2lveXdBT0V0N0otaTJUSW90Q1dHREdnbG05TmJScHBYVWdUNlZ0ZzhVZXNxbUk0LWFFamxoN0RFMFI1WVDSAa4BQVVfeXFMT19xZzlVLXpkOEotX1BWMEFZZUxhTFpvRnVkaDJqRTM0S09icGd0aHpVekdyWjZrMVY4N25pRzlIc0tvWlpmYlJRNWdDa290THh3dzhKWm1lVFZpVDlndVZNSWJsNXh0MU9TTndLR1VjQlcwcUlHQXZzRHgwRnoxV3kzZVJocXR5Rjd1ZDRYMkRPUDV3T1FNekZOdklFRU40T2YxN1hBN1ZleXZmZXVB?oc=5)
+### [La microbiota intestinal puede actuar como mediador entre la dieta y la depresión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVExPT0dhd3dNa0tkSnBTb24xaEdPemFCc3ZQeDk4QnVQWE1Ec2NWdE9fYzRqT1hVNGlnSkhLQUFkbnhyaUd3ZW5yQzZ3TFkyLUVOMmVJNG5GOUVPNGhTcjNDWENLLWV1S3RISUJsY3cwdEhhNWVXYTVGQWF4UHgzV2pYQV80R1JNOHNtN20ybkhxU1RyVEVrYm9nWdIBmwFBVV95cUxOS0I0S3lZX1U4dndzUlhSd2JBY19JZVM1LXFKWjRTUC1LVGhHd1gtY1A0YUhwTDNZYnJZakM5alZPVEVlTGlzSXB1cmN4MjFRRTl1a1FzeWdxTy1ZWjlSRHkyblRySnpDajlXMkFXR3pUM2Z2SmlITVRwYXBoTWNyeGVkeEZ4YkRWTDhYM1Y2SGFfLS1MM3hhRm1sYw?oc=5)
 
-2026-03-22
+2026-03-23
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaENuMm1OWVh3SWlET1cyT0hza3dsZEpaak1rdG9QeEZZTXViNjI4dzhVR3B6UDB3b2pCTWRQM2o5cDY1QlF4Z1Y0c3BiTldxajNjeUZRdDJKUjctQ1plc0hTLUlBcVY5VnJPM2lveXdBT0V0N0otaTJUSW90Q1dHREdnbG05TmJScHBYVWdUNlZ0ZzhVZXNxbUk0LWFFamxoN0RFMFI1WVDSAa4BQVVfeXFMT19xZzlVLXpkOEotX1BWMEFZZUxhTFpvRnVkaDJqRTM0S09icGd0aHpVekdyWjZrMVY4N25pRzlIc0tvWlpmYlJRNWdDa290THh3dzhKWm1lVFZpVDlndVZNSWJsNXh0MU9TTndLR1VjQlcwcUlHQXZzRHgwRnoxV3kzZVJocXR5Rjd1ZDRYMkRPUDV3T1FNekZOdklFRU40T2YxN1hBN1ZleXZmZXVB?oc=5)
+來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVExPT0dhd3dNa0tkSnBTb24xaEdPemFCc3ZQeDk4QnVQWE1Ec2NWdE9fYzRqT1hVNGlnSkhLQUFkbnhyaUd3ZW5yQzZ3TFkyLUVOMmVJNG5GOUVPNGhTcjNDWENLLWV1S3RISUJsY3cwdEhhNWVXYTVGQWF4UHgzV2pYQV80R1JNOHNtN20ybkhxU1RyVEVrYm9nWdIBmwFBVV95cUxOS0I0S3lZX1U4dndzUlhSd2JBY19JZVM1LXFKWjRTUC1LVGhHd1gtY1A0YUhwTDNZYnJZakM5alZPVEVlTGlzSXB1cmN4MjFRRTl1a1FzeWdxTy1ZWjlSRHkyblRySnpDajlXMkFXR3pUM2Z2SmlITVRwYXBoTWNyeGVkeEZ4YkRWTDhYM1Y2SGFfLS1MM3hhRm1sYw?oc=5)
+
+---
+
+### [Nach einer Depression bleibt die Handkraft schwach - smart up news](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDc2VjdHcmwwaWhOT2VhV0pJY3FJdnV1MG55ZjJqZmZDbmxCMHZxRXd5UFFKYVRBdUNxR2xWMkxLQ0E0emdEdWJPMk1qMWttR2RLSG5nODlNOTcwaDdtbHZKZW42YWxJcEhTaXpjUWctLUFGeHFCdWw3TncybmNfd1hmUUlHRGFIZGVaVkNWYw?oc=5)
+
+2026-03-23
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDc2VjdHcmwwaWhOT2VhV0pJY3FJdnV1MG55ZjJqZmZDbmxCMHZxRXd5UFFKYVRBdUNxR2xWMkxLQ0E0emdEdWJPMk1qMWttR2RLSG5nODlNOTcwaDdtbHZKZW42YWxJcEhTaXpjUWctLUFGeHFCdWw3TncybmNfd1hmUUlHRGFIZGVaVkNWYw?oc=5)
 
 ---
 

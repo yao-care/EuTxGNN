@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="Glimepiride 有什麼相關新聞？">
-<strong>Glimepiride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Glimepiride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/glimepiride/
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Diabetes: fraudes glucómetros no invasivos - Somos Pacientes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFhYZWNRRjBPYlBmVHFoQy1HdnRPWEVQamsxd3F6TjRBdzlEaEs4RDRqZFZyVWk1dGU3bWlvNV9QV1JiUTA0SFZEMHFyaFBFc0JDNGhPZVBXbWlyVmY3cWVOZU1BVUF6cU5fVzcza1RFbkZaRlFHaDY0by1XbC1UOEVidzFlUXlZLWQ1WkdSSFJ0QUk0MV9UbWtmQmVqQlctYTR5UU1YQWxWQTQ5LTZ5WVM2VVc3Zw?oc=5)
+
+2026-03-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFhYZWNRRjBPYlBmVHFoQy1HdnRPWEVQamsxd3F6TjRBdzlEaEs4RDRqZFZyVWk1dGU3bWlvNV9QV1JiUTA0SFZEMHFyaFBFc0JDNGhPZVBXbWlyVmY3cWVOZU1BVUF6cU5fVzcza1RFbkZaRlFHaDY0by1XbC1UOEVidzFlUXlZLWQ1WkdSSFJ0QUk0MV9UbWtmQmVqQlctYTR5UU1YQWxWQTQ5LTZ5WVM2VVc3Zw?oc=5)
+
+---
 
 ### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
 
@@ -50,27 +58,11 @@ permalink: /news/glimepiride/
 
 ---
 
-### [Tim Spector, experto en microbiota: “Los bebedores de café tienen un microbioma intestinal más diverso que los no bebedores”](https://news.google.com/rss/articles/CBMiigJBVV95cUxNMDFzZV9pLU14NlFDSEtGS09mSVlOeFJxNWxubmFwT2cxbUtnOFZyWEd5SXlHcUxsZmRJRldSNDM4M2NjU3RiUUN2dnF6OGxXSklldUdLY1Z5bTVuT3BZMjV6THN4X21mLV9LUk85RzJyaUNXUllOTTh6QW1Vb2Y4MW9NcUNfWW5kcXVsMzB5Vmt4V2VSUElCTC1jYlNFUVZsMTYyTEdyUzYyeGxQdUR0ejQzSTNUVUVLQjhrYk92enpSWUhEdHE3VEFGOFgwQmtWZWRZc19JUGFvTHpRRGhNbkpuNjQ0UFZpUWRRdTUtZWNZME0zTGZzRTFjX3plYnZrYUxYZmxNc1Z6Zw?oc=5)
-
-2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Noticiastrabajo](https://news.google.com/rss/articles/CBMiigJBVV95cUxNMDFzZV9pLU14NlFDSEtGS09mSVlOeFJxNWxubmFwT2cxbUtnOFZyWEd5SXlHcUxsZmRJRldSNDM4M2NjU3RiUUN2dnF6OGxXSklldUdLY1Z5bTVuT3BZMjV6THN4X21mLV9LUk85RzJyaUNXUllOTTh6QW1Vb2Y4MW9NcUNfWW5kcXVsMzB5Vmt4V2VSUElCTC1jYlNFUVZsMTYyTEdyUzYyeGxQdUR0ejQzSTNUVUVLQjhrYk92enpSWUhEdHE3VEFGOFgwQmtWZWRZc19JUGFvTHpRRGhNbkpuNjQ0UFZpUWRRdTUtZWNZME0zTGZzRTFjX3plYnZrYUxYZmxNc1Z6Zw?oc=5)
-
----
-
 ### [L'indice glycémique, l'atout pour se remettre en forme et s'alléger ce printemps](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOejlfR213SVNiT0JYSmxKM3o1THk0cDgweS1fQnFQaFA4RWVtWHRCMHJieUpBMUlTNThfbjE2ZHF2UjZjekhvM1N5Ni1jeEo4cml2Q2tkSEVUbEhnbVBIUWlVMFUwMnVmamZBd1pMMEpNd2p5andvcDBVSDVVczI5N19xMUhlOVliRFJseGxnOUF0Yy0zQ1NodkFjd0oydjVIcE45MVl5bDliNzRBeDlPcmlIa01jb1VYM3lNd3U0OEpOblNnU0NmWjVXWl9wT1I0enFqaW1zT05VS3VJVURuNzlmNVk5NnNWR3BLcQ?oc=5)
 
 2026-03-22 <span class="news-indication-tag">diabète</span>
 
 來源：[parismatch.be](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOejlfR213SVNiT0JYSmxKM3o1THk0cDgweS1fQnFQaFA4RWVtWHRCMHJieUpBMUlTNThfbjE2ZHF2UjZjekhvM1N5Ni1jeEo4cml2Q2tkSEVUbEhnbVBIUWlVMFUwMnVmamZBd1pMMEpNd2p5andvcDBVSDVVczI5N19xMUhlOVliRFJseGxnOUF0Yy0zQ1NodkFjd0oydjVIcE45MVl5bDliNzRBeDlPcmlIa01jb1VYM3lNd3U0OEpOblNnU0NmWjVXWl9wT1I0enFqaW1zT05VS3VJVURuNzlmNVk5NnNWR3BLcQ?oc=5)
-
----
-
-### [Complet, seigle ou levain, le pain le plus sain selon les nutritionnistes pourrait vous surprendre](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYzJKejkySUVwTXQzX0FlU2p1VUNkb2dwM0gyTWhpSjdQc29ILUZRVWJPVHkwZmpVRDNvT3F4Rk02R183T3FiMlJIbkh6WVpzTnZoNXVKSGdjTFJOQmxLWnp3ZjdSU3dMa2ZYSjJvUjlkTUVkXy1Sa1JGdzhHcEVOcjZiRVZGLVF0T1hfMGdLemlBal9yQnJhVlNRa3p6a0pLWGVFc1lsbE5aeXJjRUdfanQ5dTVsamVjZTFDdUwzZmJoS01QbGpYYzNodk9icVNCZksw?oc=5)
-
-2026-03-22 <span class="news-indication-tag">diabète</span>
-
-來源：[melty.fr](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYzJKejkySUVwTXQzX0FlU2p1VUNkb2dwM0gyTWhpSjdQc29ILUZRVWJPVHkwZmpVRDNvT3F4Rk02R183T3FiMlJIbkh6WVpzTnZoNXVKSGdjTFJOQmxLWnp3ZjdSU3dMa2ZYSjJvUjlkTUVkXy1Sa1JGdzhHcEVOcjZiRVZGLVF0T1hfMGdLemlBal9yQnJhVlNRa3p6a0pLWGVFc1lsbE5aeXJjRUdfanQ5dTVsamVjZTFDdUwzZmJoS01QbGpYYzNodk9icVNCZksw?oc=5)
 
 ---
 

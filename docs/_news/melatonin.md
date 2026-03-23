@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [El abordaje precoz de la migraña puede condicionar su evolución - Diario de Sevilla](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVExDUUhHU2NibDBic1RkejhFeXo2UDRydm1vQkcwLU9VNExFcWEtLW1uUEVQQWt5X3ppNDFOWXJfZ0Y3STNIOGlfZHV1SHZBcHhveTYtc3hrNWVnejY5SlJ2VUF1NVdPak02Tjhsc09FR3R1dGJYRDlKMHdBa0lHZHRFVTJJc0h4WWpZTTRaUjlUcTR3SEEwVjVOdXdSdTNRWnJjeXdqSEtRTWxyT0NCMNIBtgFBVV95cUxNbEdpZExYR2d3enZ2YnRNSHVDdml1N0dPYl9Qd1BfRVRsM05QM2h6MU8xVDRvVnNmNWVJdDFmcDA4TXpsUFFXbjh3QkExbWpBcms3M01ybDBGeGowSWw1bWkyQS1xZkpNWjY3aXJRWWpjbER2Z2pyalc3Q1BHWldBY05oLTNzeWNmZFBSNDFyd0hpWGIzVmQzcFJjakFyZkQ4Qk1WMkttOHNFSi15S3dOaGt2ZWRJUQ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">migraña</span>
+
+來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVExDUUhHU2NibDBic1RkejhFeXo2UDRydm1vQkcwLU9VNExFcWEtLW1uUEVQQWt5X3ppNDFOWXJfZ0Y3STNIOGlfZHV1SHZBcHhveTYtc3hrNWVnejY5SlJ2VUF1NVdPak02Tjhsc09FR3R1dGJYRDlKMHdBa0lHZHRFVTJJc0h4WWpZTTRaUjlUcTR3SEEwVjVOdXdSdTNRWnJjeXdqSEtRTWxyT0NCMNIBtgFBVV95cUxNbEdpZExYR2d3enZ2YnRNSHVDdml1N0dPYl9Qd1BfRVRsM05QM2h6MU8xVDRvVnNmNWVJdDFmcDA4TXpsUFFXbjh3QkExbWpBcms3M01ybDBGeGowSWw1bWkyQS1xZkpNWjY3aXJRWWpjbER2Z2pyalc3Q1BHWldBY05oLTNzeWNmZFBSNDFyd0hpWGIzVmQzcFJjakFyZkQ4Qk1WMkttOHNFSi15S3dOaGt2ZWRJUQ?oc=5)
+
+---
 
 ### [Obesidad y su conexión crítica con el riesgo de cáncer](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm40enhIODNfRXNQME5fajhLelBiUFpZQ1VFOXVmUk1mUmkyZWNuZkktREJjMlRaQkktNVItWUU2NVE4TnRiakI3bHFUMlpwTDBqWE1ORXNKb1Zjc3E3QTVJemxQTG1vYTRDSjg4eUxKZm1YbndxeEl1VHZhVDAtaTZ6NWlmM0p5Z2Y1T2dBMmc4b0VOQnpoYm82MUJRX0QtenYxQTF5SmUyZm5Gc2Uxcw?oc=5)
 

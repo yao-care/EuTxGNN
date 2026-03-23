@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ledipasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,61 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（16 則）
 
-### [Number of confirmed meningitis cases linked to fatal Kent outbreak drops to 20 - The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm9XaFNITWJpVV9udDhOcW95Uk5LdVRWdVNBNU1kcGdvcDZWek1FdGhrSS1RYXpqeUJnWWpwTGM4WUR0ZlNwRzY4Z3JFOHB0R0dvUHhWQWdLSzB5YlVaZ2ZJd2RRb2I2N0M1TE5MblViWG5rZGNLaXM2aDdRWUpPZVBfSDczbFQ2ZFRQTg?oc=5)
+### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes - IPac Acuicultura](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcC1BNDN5ajN3REJPbzdhb0VsUnFWQ2EtZmF0RnF6ZEc3aWNNcUdzeENDNlV2V1NSNjRHNXpzTU9Kam5fYjlWN3BWVkJURGFjMFBxSU1KWl9Fc3k1dkZuMnlRRlk1OU1xMi05S0VzQzFXWG9kOUtudGZrZ0IxcWNtVw?oc=5)
+
+2026-03-23 <span class="news-indication-tag">hepatitis</span>
+
+來源：[IPac Acuicultura](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcC1BNDN5ajN3REJPbzdhb0VsUnFWQ2EtZmF0RnF6ZEc3aWNNcUdzeENDNlV2V1NSNjRHNXpzTU9Kam5fYjlWN3BWVkJURGFjMFBxSU1KWl9Fc3k1dkZuMnlRRlk1OU1xMi05S0VzQzFXWG9kOUtudGZrZ0IxcWNtVw?oc=5)
+
+---
+
+### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak - The Telegraph](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmJIcGlkRVB6akJ1Z3RXeHg5aG5Tck1xaC03Z3U4ckNURVpmSjB4SnZXZ1ZNYzgxb3hmUlNPODlNY1RuSUZpXzdZb0dzcC1WdHFpUEZ4WmV3UU5zMmVEclNlY2FaWDAzOXVlV3BTZ0k0Z3N4c2FUakdKa185TDRfajlkeTN3NndCc1FVcm85bFFYMDlYNEVvMy1oU2p0MWRsMkNyaUV3c3BoNllwTDU3TTd2bU9mM1FuMkladWxaMzgzS3pQ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmJIcGlkRVB6akJ1Z3RXeHg5aG5Tck1xaC03Z3U4ckNURVpmSjB4SnZXZ1ZNYzgxb3hmUlNPODlNY1RuSUZpXzdZb0dzcC1WdHFpUEZ4WmV3UU5zMmVEclNlY2FaWDAzOXVlV3BTZ0k0Z3N4c2FUakdKa185TDRfajlkeTN3NndCc1FVcm85bFFYMDlYNEVvMy1oU2p0MWRsMkNyaUV3c3BoNllwTDU3TTd2bU9mM1FuMkladWxaMzgzS3pQ?oc=5)
+
+---
+
+### [Is it true that … you need to work out if you want to lose weight? - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTN2eWR5V014QnV6SllFeWlNTklUR2ZDMlJwdk9VUl9IVkRGejVuVU16R2lsTFRIVXlsZkNSTlRBZ3J0M0xnN19kclFLTDB5RXhxc29vdmpsRmI1d3NtV0NsUDZnandFZGVYZGl4SDFDQ1c2X0RTRmYtY3RNS2kzd3ZDeG9Ccm83MXdmZzA5TTV3eHkxZ0V1Q21IY3lZZWhfMTEwaTUtNjhJVkc2MlpjNnRKa1lud1k?oc=5)
 
 2026-03-23 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcm9XaFNITWJpVV9udDhOcW95Uk5LdVRWdVNBNU1kcGdvcDZWek1FdGhrSS1RYXpqeUJnWWpwTGM4WUR0ZlNwRzY4Z3JFOHB0R0dvUHhWQWdLSzB5YlVaZ2ZJd2RRb2I2N0M1TE5MblViWG5rZGNLaXM2aDdRWUpPZVBfSDczbFQ2ZFRQTg?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTN2eWR5V014QnV6SllFeWlNTklUR2ZDMlJwdk9VUl9IVkRGejVuVU16R2lsTFRIVXlsZkNSTlRBZ3J0M0xnN19kclFLTDB5RXhxc29vdmpsRmI1d3NtV0NsUDZnandFZGVYZGl4SDFDQ1c2X0RTRmYtY3RNS2kzd3ZDeG9Ccm83MXdmZzA5TTV3eHkxZ0V1Q21IY3lZZWhfMTEwaTUtNjhJVkc2MlpjNnRKa1lud1k?oc=5)
+
+---
+
+### [Mehr Vitamine, langsameres Altern?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEY0R0V3Q1NPYmN4Q3A4aG10bFk1UVFMUlZjenRZTnBCZnI3bm9jOEJtVVJSaDVfLU1BMElGZjVHQnl5ZWtDV21wYXRpc0FqczNkQnRVWTZWS1hYMzBVaGx0N2ZiYi1XdTZ1UGk0LVpWVlJlMHdLdGwwdTR3aEhfaWZwWmtuaHo3Qjd0T0dOdXlsTUZhbHZtdzZTUXFvX0dHd19YVllQbUR6RjQ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">MS</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEY0R0V3Q1NPYmN4Q3A4aG10bFk1UVFMUlZjenRZTnBCZnI3bm9jOEJtVVJSaDVfLU1BMElGZjVHQnl5ZWtDV21wYXRpc0FqczNkQnRVWTZWS1hYMzBVaGx0N2ZiYi1XdTZ1UGk0LVpWVlJlMHdLdGwwdTR3aEhfaWZwWmtuaHo3Qjd0T0dOdXlsTUZhbHZtdzZTUXFvX0dHd19YVllQbUR6RjQ?oc=5)
 
 ---
 
 ### [Second UK site reports student ill with suspected meningitis 'not linked to Kent outbreak' - London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
 
-2026-03-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-23 <span class="news-indication-tag">MS</span>
 
 來源：[London Evening Standard](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXZFWWU4a2FWcENDQ0luNTAyWmt1RFdpQnZUX21lODNZdlEyNzRuSlhLbnVTYmRWaVZPbFRGYzkzdl9HLTRxdEV0OUd1N215LVhVR3loc0xUTnFUdHVTcnlXcUJuU0V0aExLaUVpc3R4WWozQ0d4c1lMNXVrd1VpSlJLbmZweHdrSXlNSkt5NA?oc=5)
+
+---
+
+### [Teen among patients at risk of HIV and Hepatitis after NHS hospital fitted braces with unsterilised equipment - GB News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUi13OXJDbk9RYWFqWlhIZmk2cEZJRHdTSmxjRzY4ZHh2SWp5aWtBZ1NEYVdINkZ5SW5hLTBqUW1lX25xUklEbkNzYldzb2FiTEhyME8yeWozdlI3RWxTV1lxdGJpMG1IczlGQWxveWVzQUFPTmZYcmZWV1NvU29SZzJqTElOTGF1a3UyaU5Lc2lVaGZwdmxvaXVkVFR6X1VpelZQYnNjc05LUXVIbTVMdjRxSXhfUWM2X3ZCclRLX2xpeWFfTTBjYnNn?oc=5)
+
+2026-03-22 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUi13OXJDbk9RYWFqWlhIZmk2cEZJRHdTSmxjRzY4ZHh2SWp5aWtBZ1NEYVdINkZ5SW5hLTBqUW1lX25xUklEbkNzYldzb2FiTEhyME8yeWozdlI3RWxTV1lxdGJpMG1IczlGQWxveWVzQUFPTmZYcmZWV1NvU29SZzJqTElOTGF1a3UyaU5Lc2lVaGZwdmxvaXVkVFR6X1VpelZQYnNjc05LUXVIbTVMdjRxSXhfUWM2X3ZCclRLX2xpeWFfTTBjYnNn?oc=5)
+
+---
+
+### [Sanità, casi sospetti Epatite A a Cosenza: cozze sotto accusa - il Lametino.it](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHRkXy1aZHVWc0ZlVVVUdlpQTXlIbGJQUURtcDR1QTdlUkxPMlp1b1NNeWRNQjJ0REVmaTFOX3dnLU1ndi04NDNRWEliNkpVNWlBUXNXcVp5NXJXOVZ1Uy10ZnRXTXhSMnFjdFo5MEJqVDJIYlluNmxuWmJOSThybGk2OHZKN2R3TkJUVHhndzM5YVExNF9jdlVyWHo?oc=5)
+
+2026-03-22 <span class="news-indication-tag">epatite</span>
+
+來源：[il Lametino.it](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHRkXy1aZHVWc0ZlVVVUdlpQTXlIbGJQUURtcDR1QTdlUkxPMlp1b1NNeWRNQjJ0REVmaTFOX3dnLU1ndi04NDNRWEliNkpVNWlBUXNXcVp5NXJXOVZ1Uy10ZnRXTXhSMnFjdFo5MEJqVDJIYlluNmxuWmJOSThybGk2OHZKN2R3TkJUVHhndzM5YVExNF9jdlVyWHo?oc=5)
 
 ---
 
@@ -66,14 +106,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Epatite A, 8 nuovi casi al Cotugno: in totale sono 54 i ricoverati in ospedale - Il Mattino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW9FWlRWR2h6RmpoM1FIWUxrYkYzbjBFbUZ3ZkY0UjhkZVE1RE9pemdVU2Y1bm9GTFFFYTlvaV9zUVpTVXVjaG9IdGZxRlFDLTVOVkpvbGtIdmRYZDNKQUI1NXk1bmZxTVpwcFpaNzE3Uk5ndDdWUWNZNVNvYml6NFBsNUFqTHI3UTQtN3ZDU3RTeFV2NXNHa01yaGtCaF9keS1rUFJ1MUZVOUR4Ym1DQ3ZJdGJtSjB4eU02aGU3QV9NVEk3bmNsddIBwwFBVV95cUxQamt5U1JiSEk4amFIZVp2NVB5MVNIS3hvaTIxV3NlNnFBVG1idEtDd1pCTWhWdHJTVV9pSDQ2NTFHQ3k4REVXSjJIUlY4Mkk1OUM5YnZhU2VtTTNfaFdRV2VlaE1fVnlUNnlYd3hyQXlrYnRkcEFEQ0dvT0VnM01xWXVYZWFaR1E1aVAxZEJtdWZLaFBOQ2FENkFyejRxRU9nRFdQRFRNeGR1U2ZFM3Y1dlRyN3B5ZGd2QnZxWDVIZFU4Tnc?oc=5)
-
-2026-03-22 <span class="news-indication-tag">epatite</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW9FWlRWR2h6RmpoM1FIWUxrYkYzbjBFbUZ3ZkY0UjhkZVE1RE9pemdVU2Y1bm9GTFFFYTlvaV9zUVpTVXVjaG9IdGZxRlFDLTVOVkpvbGtIdmRYZDNKQUI1NXk1bmZxTVpwcFpaNzE3Uk5ndDdWUWNZNVNvYml6NFBsNUFqTHI3UTQtN3ZDU3RTeFV2NXNHa01yaGtCaF9keS1rUFJ1MUZVOUR4Ym1DQ3ZJdGJtSjB4eU02aGU3QV9NVEk3bmNsddIBwwFBVV95cUxQamt5U1JiSEk4amFIZVp2NVB5MVNIS3hvaTIxV3NlNnFBVG1idEtDd1pCTWhWdHJTVV9pSDQ2NTFHQ3k4REVXSjJIUlY4Mkk1OUM5YnZhU2VtTTNfaFdRV2VlaE1fVnlUNnlYd3hyQXlrYnRkcEFEQ0dvT0VnM01xWXVYZWFaR1E1aVAxZEJtdWZLaFBOQ2FENkFyejRxRU9nRFdQRFRNeGR1U2ZFM3Y1dlRyN3B5ZGd2QnZxWDVIZFU4Tnc?oc=5)
-
----
-
 ### [DR MAX PEMBERTON: Why over 50s are at risk from meningitis outbreak - Daily Mail](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW5ZUlI3YVBIeW1BSU5CblVoNmc1SFliRVhRa0I2MDRTYWh1OTNEelNrbkJ5cWNHdERqSmRHell0THczVVBkb0pKeWVrb0JaUDVaX2IzZXlidy1HeEdzaUU2RGNVVXE3a1Z4T3ByZFlpd3JXeldJa0NZVS1QMHRNa2l0bFotRnVpN3h3bmQzMnM2cUVtaE1NTG5UOERXN2ZUS0VwUFFrSQ?oc=5)
 
 2026-03-22 <span class="news-indication-tag">MS</span>
@@ -82,19 +114,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Un gen de los yaks que les permite vivir en altura podría abrir una nueva vía para reparar el daño de la esclerosis múltiple - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTUwxdzVZUzBCSHZfWklURHYwTEdfOUEtbU1GSklwcjFIRFJydUFBU2ZjbjFSbENXREtKVElZb0Q3NDZlRHhsdzdiazZzQ0RzSGg3OHZzTGc5Yk95eFlpVENjeTlNVzVOdGVTZHlqR21ycWRRd00wUWNSZVJfb0pydUpadWVKV3Z4X1JIU3RBYUZOaS1FV0ktNUt5ODhVc0IyN1VfOTdya0xkc3oxeHF2Z3NJM0NQUUxIcFlodFA0ZDB3a1plS0Jtazh0RUp2RVJQMXpKaDNvQjA0MEdCMjBFMWltU3pKcEc1Q1ZRdWhnMFE?oc=5)
+### [Epatite A, denunciato un 73enne a Torre del Greco: in auto 25 kg di vongole veraci senza tracciabilità - Il Mattino](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXdfTTVTQUF6SEIzWEZmaU9XVF9XTnNFaFVUV1R1dnBHUy04RDFmaVU0cTNIS3M4Tmc5Szd6MjlWOTFEM3dVaG1vcm91TWZUczF6cnIxRnhfbzRKN0E5alpqQnRtTjJqM0xwQURjemIyUUViRkpKdlo3QXdjLTRaR3ZQbTFVSHNKNk1UMzhWeXh5QzhSSllkVmdReWlkRjc2NlJmRlNJdThtWHpTdW5pYy1RTzFNeWsyN3pES0w1WjBrVXFrTmRKbTRBeklTcnU1a0F5Q0ZTQmFHRHJEdEEtSUI0S1J5Z0xSSjVUVVRfYlA2VWtsZHdr0gHjAUFVX3lxTE9ndU5TUWlWQmVCVkdza1RnUnA4STVEakdoRkpSUmZVaUdNN3NFR2VIRnhfeGQ0dEtjWndNbUowVC1CZDc1WUlxOW5XVVZfUzV1cmIyM0dkSXZ6bVA2SDZ2b1ZqZHVsdjNPRE1XakZxNXlzZ1JMeURfQ0ljOHJSa21zVUgyS0RSRm92N2U5eDNwajlXLWFRYzZnZFEyUzZ1a2lzUWIwOW5oVVVYSE1ISUJKcW1KY1k4MlNpeXI0SzljWGJwS1lSWXl5bm1hS2VMN2RHVkRsN2JQZTE4dEFubkJVbEpr?oc=5)
 
-2026-03-22 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-03-22 <span class="news-indication-tag">epatite</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTUwxdzVZUzBCSHZfWklURHYwTEdfOUEtbU1GSklwcjFIRFJydUFBU2ZjbjFSbENXREtKVElZb0Q3NDZlRHhsdzdiazZzQ0RzSGg3OHZzTGc5Yk95eFlpVENjeTlNVzVOdGVTZHlqR21ycWRRd00wUWNSZVJfb0pydUpadWVKV3Z4X1JIU3RBYUZOaS1FV0ktNUt5ODhVc0IyN1VfOTdya0xkc3oxeHF2Z3NJM0NQUUxIcFlodFA0ZDB3a1plS0Jtazh0RUp2RVJQMXpKaDNvQjA0MEdCMjBFMWltU3pKcEc1Q1ZRdWhnMFE?oc=5)
-
----
-
-### [Schoolboy among 21 patients at risk of serious infection in Welsh hospital scandal - Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
-
-2026-03-22 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQnE3cG93WXNxbzdMaERYOFhSelhqSG1QN2N4cUVoeW56N3BRbnlGNDNaVUREU2xHS0YxTS1COW1nMGtDMmVTeTgxOHlIUlpuaGEwYmt3d1dKQ0QxeDR5UmFpN1UxWWtHTktBYkxzN1hYWVdhVVp1bVFhMVRsSjdUN3NqdTVqVzdjb3duWWNTRdIBlAFBVV95cUxNOGowNkp4Zy1Ud1kxMjZIc1AxVEdvN1hxSUg3eWZoRUYxMXhVRU1jMDA2c1o0U2pBMmQwcWlHdlg0UXFiSjlnSGhOTzlaRzZBS3VsdzJaaWI4cDdxTk93SWhxODFZVmFFNWNpZEdPR2FqUVhZUGczc05iWWdUaW9HUFZqTUlRMWw3SjdjYzZNUG44dXlh?oc=5)
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXdfTTVTQUF6SEIzWEZmaU9XVF9XTnNFaFVUV1R1dnBHUy04RDFmaVU0cTNIS3M4Tmc5Szd6MjlWOTFEM3dVaG1vcm91TWZUczF6cnIxRnhfbzRKN0E5alpqQnRtTjJqM0xwQURjemIyUUViRkpKdlo3QXdjLTRaR3ZQbTFVSHNKNk1UMzhWeXh5QzhSSllkVmdReWlkRjc2NlJmRlNJdThtWHpTdW5pYy1RTzFNeWsyN3pES0w1WjBrVXFrTmRKbTRBeklTcnU1a0F5Q0ZTQmFHRHJEdEEtSUI0S1J5Z0xSSjVUVVRfYlA2VWtsZHdr0gHjAUFVX3lxTE9ndU5TUWlWQmVCVkdza1RnUnA4STVEakdoRkpSUmZVaUdNN3NFR2VIRnhfeGQ0dEtjWndNbUowVC1CZDc1WUlxOW5XVVZfUzV1cmIyM0dkSXZ6bVA2SDZ2b1ZqZHVsdjNPRE1XakZxNXlzZ1JMeURfQ0ljOHJSa21zVUgyS0RSRm92N2U5eDNwajlXLWFRYzZnZFEyUzZ1a2lzUWIwOW5oVVVYSE1ISUJKcW1KY1k4MlNpeXI0SzljWGJwS1lSWXl5bm1hS2VMN2RHVkRsN2JQZTE4dEFubkJVbEpr?oc=5)
 
 ---
 
@@ -106,19 +130,35 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [The 5 weapons to build your hay fever defences NOW - from the fastest-acting antihistamine to drug-free hack - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcC00bWtUVEVXQy1hODk2dHhwR2praXpRNDM4UnU4cW91TjROTWJkZDhKaC1ubXZ3WmU3SG9jOWstZlVyOS1MbDRmRDIyY2ZJNF9iNC1OR2RnYkk3VmtZd0g3NnJtM1kxbTlSMXI3OTh2ZW12UjFLcndEQkRYOWE2bVg0V1VJN0JhSXk1dk4yWDFWeUE?oc=5)
+
+2026-03-21 <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcC00bWtUVEVXQy1hODk2dHhwR2praXpRNDM4UnU4cW91TjROTWJkZDhKaC1ubXZ3WmU3SG9jOWstZlVyOS1MbDRmRDIyY2ZJNF9iNC1OR2RnYkk3VmtZd0g3NnJtM1kxbTlSMXI3OTh2ZW12UjFLcndEQkRYOWE2bVg0V1VJN0JhSXk1dk4yWDFWeUE?oc=5)
+
+---
+
+### [Hepatitis-a explodiert in neapel: 180 fälle in tagen – austern-v...](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3VhMHprZ3FJVkZNY1hSazV6NTNPVWJLRlc5ODEtazJrZ3RfUDB3RTB2bnE2UkYwU1RPdWZ4dHdQVFVDWURhdW5McUpGRHZJRzd0NGphU01pSmJGOVRSV0pXWlpQMkRiY0dvX29zbGhBV1FIckhDRHpvNk9hMk0yc29yVTFtYXFPNUJIRXVuQjFET2NBUDl6dnBCOGJWQmRFN3JVTnVFNVhtamFSbGlNUlRrWVdkWnc?oc=5)
+
+2026-03-21 <span class="news-indication-tag">hepatitis</span>
+
+來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3VhMHprZ3FJVkZNY1hSazV6NTNPVWJLRlc5ODEtazJrZ3RfUDB3RTB2bnE2UkYwU1RPdWZ4dHdQVFVDWURhdW5McUpGRHZJRzd0NGphU01pSmJGOVRSV0pXWlpQMkRiY0dvX29zbGhBV1FIckhDRHpvNk9hMk0yc29yVTFtYXFPNUJIRXVuQjFET2NBUDl6dnBCOGJWQmRFN3JVTnVFNVhtamFSbGlNUlRrWVdkWnc?oc=5)
+
+---
+
+### [Doctor's warning to people taking Omeprazole or nasal decongestants - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2N4VTIwMTRUa0tqMV8xMjNFX3FDQmtlUGVuT0t2Zk45dTIxMUZMRU1XWXd2T2haMkM4Y2NVRXV2RlEwVTdLV1JFRXp1SkZpZVNMd1BkY3dXUDVLX3lRbUhoSHR2cnBXeDJwZVhKQUZOcDZ0M2VqWG1mUjZLcXR0Y0JTV2VkZEJJN1l6bFF0Z2tFOXF0cmc?oc=5)
+
+2026-03-21 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2N4VTIwMTRUa0tqMV8xMjNFX3FDQmtlUGVuT0t2Zk45dTIxMUZMRU1XWXd2T2haMkM4Y2NVRXV2RlEwVTdLV1JFRXp1SkZpZVNMd1BkY3dXUDVLX3lRbUhoSHR2cnBXeDJwZVhKQUZOcDZ0M2VqWG1mUjZLcXR0Y0JTV2VkZEJJN1l6bFF0Z2tFOXF0cmc?oc=5)
+
+---
+
 ### [Los pediatras recomiendan adelantar algunas vacunas por el repunte de casos - Canal Sur](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE1KMGdrV0ZkNW5NVUY2Nl84dWRwVzR2R3dLbEVBSC1udEVHRDdjQ2syc2hwem1OdVY3QTYxRy1wd0Z5N3M1MHVvOHhVdWNJQkhxWTFQdUNuSks1alY2TGpUWUV6NGxGTFNEQ3gxMHljcGkxXzRaWEg1c3RhVktfbWFTTE1jUmR4cnE4ZWh0QnZtdW81SjNZaHU5WkRCWEhhcDVnQkRjbU5yc2o2cHR0Q2dPVUFMTDhIQzlrd1BCbkFqY1NNRjlHTExuaw?oc=5)
 
 2026-03-21 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Canal Sur](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE1KMGdrV0ZkNW5NVUY2Nl84dWRwVzR2R3dLbEVBSC1udEVHRDdjQ2syc2hwem1OdVY3QTYxRy1wd0Z5N3M1MHVvOHhVdWNJQkhxWTFQdUNuSks1alY2TGpUWUV6NGxGTFNEQ3gxMHljcGkxXzRaWEg1c3RhVktfbWFTTE1jUmR4cnE4ZWh0QnZtdW81SjNZaHU5WkRCWEhhcDVnQkRjbU5yc2o2cHR0Q2dPVUFMTDhIQzlrd1BCbkFqY1NNRjlHTExuaw?oc=5)
-
----
-
-### [Italien: Wegen Hepatitis-A – Neapel verbietet Verzehr roher Meeresfrüchte - Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUU4S3FtY1dYWmEtdG90ZG1yNXM2ekJrbmJPWS11bmpRMTZ3LUhKQjBJT2dsZF96OW9rcEJVYkF3YkJPYmh0R3Z2RHFibFpQT3M4LUgxb0pDcVZZdFJ5WDVtaVAzb0JOOGlqbEd5SloyUG1uaDZ4cDhKTHFuT1VLSnlGOERhOWd5eFpacjRVa0xsSS16amNzemxPLUhKU25Kam13a25vekFjT1VNTGFOSmhyai1nZjVJa1JaWQ?oc=5)
 
 ---
 

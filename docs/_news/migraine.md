@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraine 相關新聞"
+title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraine 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。3 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# migraine 相關新聞
+# migraña（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="migraine 有什麼相關新聞？">
-<strong>migraine</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
+<strong>migraña（migraine）</strong> 目前有 <strong>3 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「migraine」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,15 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [El abordaje precoz de la migraña puede condicionar su evolución - Diario de Sevilla](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVExDUUhHU2NibDBic1RkejhFeXo2UDRydm1vQkcwLU9VNExFcWEtLW1uUEVQQWt5X3ppNDFOWXJfZ0Y3STNIOGlfZHV1SHZBcHhveTYtc3hrNWVnejY5SlJ2VUF1NVdPak02Tjhsc09FR3R1dGJYRDlKMHdBa0lHZHRFVTJJc0h4WWpZTTRaUjlUcTR3SEEwVjVOdXdSdTNRWnJjeXdqSEtRTWxyT0NCMNIBtgFBVV95cUxNbEdpZExYR2d3enZ2YnRNSHVDdml1N0dPYl9Qd1BfRVRsM05QM2h6MU8xVDRvVnNmNWVJdDFmcDA4TXpsUFFXbjh3QkExbWpBcms3M01ybDBGeGowSWw1bWkyQS1xZkpNWjY3aXJRWWpjbER2Z2pyalc3Q1BHWldBY05oLTNzeWNmZFBSNDFyd0hpWGIzVmQzcFJjakFyZkQ4Qk1WMkttOHNFSi15S3dOaGt2ZWRJUQ?oc=5)
+
+2026-03-23
+
+來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVExDUUhHU2NibDBic1RkejhFeXo2UDRydm1vQkcwLU9VNExFcWEtLW1uUEVQQWt5X3ppNDFOWXJfZ0Y3STNIOGlfZHV1SHZBcHhveTYtc3hrNWVnejY5SlJ2VUF1NVdPak02Tjhsc09FR3R1dGJYRDlKMHdBa0lHZHRFVTJJc0h4WWpZTTRaUjlUcTR3SEEwVjVOdXdSdTNRWnJjeXdqSEtRTWxyT0NCMNIBtgFBVV95cUxNbEdpZExYR2d3enZ2YnRNSHVDdml1N0dPYl9Qd1BfRVRsM05QM2h6MU8xVDRvVnNmNWVJdDFmcDA4TXpsUFFXbjh3QkExbWpBcms3M01ybDBGeGowSWw1bWkyQS1xZkpNWjY3aXJRWWpjbER2Z2pyalc3Q1BHWldBY05oLTNzeWNmZFBSNDFyd0hpWGIzVmQzcFJjakFyZkQ4Qk1WMkttOHNFSi15S3dOaGt2ZWRJUQ?oc=5)
+
+---
 
 ### [Migraine du week-end : 5 conseils pour y échapper et éviter les fins de semaines difficiles](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVTBCa29KZTNLdVpfNk5MRE9QN3lqZGdOWTl4QVpiS2NjcUtGV0p5VjJONDd6WkV4aDdmbWZjSWFOTU5ZWjZGb3hrQzJVbEEyU05qQnU4WHhob1dpTjlWdDNrY0JqTWxHb0pndHRrbVVOOWZrbTNfM0JLY3NqUTR5Nk0xbzlFSGhBczdyWS0xMFhrUllpN3plcHhDdUkwQ1lRZWM2YzJaek9pbXBMRzJYbXN2VWpMTGhjeWpiR1JhQjM4ZEhJUUdKV3lfWWZzRU14czh3bg?oc=5)
 

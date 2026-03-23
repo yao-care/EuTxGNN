@@ -42,19 +42,19 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（2 則）
 
+### [Ein neuer Anfang nach dem Schlaganfall](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
+
+2026-03-23 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Evangelisch.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
+
+---
+
 ### [Ictus, la durata della siesta pomeridiana rivela la percentuale di rischio: ecco tutti i campanelli d'allarme - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
 
 2026-03-18 <span class="news-indication-tag">ictus</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
-
----
-
-### [«Le 7 cose da non fare dopo le 8 di sera per ridurre il rischio infarto», i consigli del cardiologo - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
-
-2026-03-17 <span class="news-indication-tag">ictus</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2VaeHQxT0VGRllFbmR6NHpQR3EyU1otRElYbFFZLVJLbG9LRzV1bEpHUUZRSDhQVDJYU2F6Wk12ZzdjZ3I2UmROcXhuX2Fmai14Y2NIb3FkM3JvamxhMFRJdEQ1NWwzai1xaXhCUVFWLWdjbWxCNU5WMTlFQkF5OThhSENHVGljLWNHd1JmYjdDMVd6N0lSTFJ3?oc=5)
 
 ---
 
