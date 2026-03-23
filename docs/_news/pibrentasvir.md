@@ -42,11 +42,35 @@ permalink: /news/pibrentasvir/
 
 ## 相關新聞（13 則）
 
-### [College student has suspected meningitis but the risk to others is 'very low' | ITV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2x5Qnl1UUZiN2NsQUR6RVZ4eGpVNWlJdDhvYld5bkVSV2dVTUdUZHFfMS05aENpNzRNTzZFVU50QnMyWVY0REtBNEp2d0hFQ2pKZDYyVUhwQkhWUWlLVkZJdUM3TTI0dVZzcTRha0R2TDRxQ3VyX2h5LWxSX2xXME5TbnprRnBHMnZtZS03cnNUNjRwRG10Q0hfVlBtWHc2c3V3Mk1oTDEyYVdDaFZFcUFaME1tSWVFWVJn?oc=5)
+### [Las bacterias intestinales pueden llegar al cerebro; un estudio con ratones encuentra cómo](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkhzRnIzcGRiWWwwalNBVzN5MHY2TVZuOWZwbzhqb2daNHQxczU5cExVRmlmN1dPaW1Kd0ZxaFF6cHVNTTdUYUxObDc5ZXp1SHpuY0FGWmhIS29CVTdXWXUyQVZvZXl4cG5WRTZBbWVkM2lqMW9xQlRGUjh3by1lUi1uLWZoTlZLTkdJenpWdHRQbFgzQWx0S2pITV9yVkVBa05xWjhPS0R4SDA4U2JXalk3ZlA0MTJHS0NqWg?oc=5)
 
-2026-03-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-22 <span class="news-indication-tag">MS</span>
 
-來源：[ITVX](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2x5Qnl1UUZiN2NsQUR6RVZ4eGpVNWlJdDhvYld5bkVSV2dVTUdUZHFfMS05aENpNzRNTzZFVU50QnMyWVY0REtBNEp2d0hFQ2pKZDYyVUhwQkhWUWlLVkZJdUM3TTI0dVZzcTRha0R2TDRxQ3VyX2h5LWxSX2xXME5TbnprRnBHMnZtZS03cnNUNjRwRG10Q0hfVlBtWHc2c3V3Mk1oTDEyYVdDaFZFcUFaME1tSWVFWVJn?oc=5)
+來源：[WIRED](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkhzRnIzcGRiWWwwalNBVzN5MHY2TVZuOWZwbzhqb2daNHQxczU5cExVRmlmN1dPaW1Kd0ZxaFF6cHVNTTdUYUxObDc5ZXp1SHpuY0FGWmhIS29CVTdXWXUyQVZvZXl4cG5WRTZBbWVkM2lqMW9xQlRGUjh3by1lUi1uLWZoTlZLTkdJenpWdHRQbFgzQWx0S2pITV9yVkVBa05xWjhPS0R4SDA4U2JXalk3ZlA0MTJHS0NqWg?oc=5)
+
+---
+
+### [Antibiotika gefährlich? Forscher finden gefährliche Wirkung im Darm - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeGp2bXFldk00eThQcm05eDZSSEhGM2FwMjRqNUNqVjlwdTFPbnR6QTVLTWlsUGFKQzRhLVdrVlVsSHhKU2x1MWd6U3Z0bklLUmxsLXoyTHl0RnNoSld2LXVLS1E2ZmtRbk90YkxtNzMtYmh1UU80ZkpFRXhHYy15cDZMLVhkRkhDQWNBN3ZLVUUtVVFXcnlUZElYNXNQTXhwWE1pRFh4aU5CTkNkWk93RW5wMHhpYW8yLU1za1k3N3g5LUFjZHZxdGdWbw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeGp2bXFldk00eThQcm05eDZSSEhGM2FwMjRqNUNqVjlwdTFPbnR6QTVLTWlsUGFKQzRhLVdrVlVsSHhKU2x1MWd6U3Z0bklLUmxsLXoyTHl0RnNoSld2LXVLS1E2ZmtRbk90YkxtNzMtYmh1UU80ZkpFRXhHYy15cDZMLVhkRkhDQWNBN3ZLVUUtVVFXcnlUZElYNXNQTXhwWE1pRFh4aU5CTkNkWk93RW5wMHhpYW8yLU1za1k3N3g5LUFjZHZxdGdWbw?oc=5)
+
+---
+
+### [Epatite A, 8 nuovi casi al Cotugno: in totale sono 54 i ricoverati in ospedale - Il Mattino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW9FWlRWR2h6RmpoM1FIWUxrYkYzbjBFbUZ3ZkY0UjhkZVE1RE9pemdVU2Y1bm9GTFFFYTlvaV9zUVpTVXVjaG9IdGZxRlFDLTVOVkpvbGtIdmRYZDNKQUI1NXk1bmZxTVpwcFpaNzE3Uk5ndDdWUWNZNVNvYml6NFBsNUFqTHI3UTQtN3ZDU3RTeFV2NXNHa01yaGtCaF9keS1rUFJ1MUZVOUR4Ym1DQ3ZJdGJtSjB4eU02aGU3QV9NVEk3bmNsddIBwwFBVV95cUxQamt5U1JiSEk4amFIZVp2NVB5MVNIS3hvaTIxV3NlNnFBVG1idEtDd1pCTWhWdHJTVV9pSDQ2NTFHQ3k4REVXSjJIUlY4Mkk1OUM5YnZhU2VtTTNfaFdRV2VlaE1fVnlUNnlYd3hyQXlrYnRkcEFEQ0dvT0VnM01xWXVYZWFaR1E1aVAxZEJtdWZLaFBOQ2FENkFyejRxRU9nRFdQRFRNeGR1U2ZFM3Y1dlRyN3B5ZGd2QnZxWDVIZFU4Tnc?oc=5)
+
+2026-03-22 <span class="news-indication-tag">epatite</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW9FWlRWR2h6RmpoM1FIWUxrYkYzbjBFbUZ3ZkY0UjhkZVE1RE9pemdVU2Y1bm9GTFFFYTlvaV9zUVpTVXVjaG9IdGZxRlFDLTVOVkpvbGtIdmRYZDNKQUI1NXk1bmZxTVpwcFpaNzE3Uk5ndDdWUWNZNVNvYml6NFBsNUFqTHI3UTQtN3ZDU3RTeFV2NXNHa01yaGtCaF9keS1rUFJ1MUZVOUR4Ym1DQ3ZJdGJtSjB4eU02aGU3QV9NVEk3bmNsddIBwwFBVV95cUxQamt5U1JiSEk4amFIZVp2NVB5MVNIS3hvaTIxV3NlNnFBVG1idEtDd1pCTWhWdHJTVV9pSDQ2NTFHQ3k4REVXSjJIUlY4Mkk1OUM5YnZhU2VtTTNfaFdRV2VlaE1fVnlUNnlYd3hyQXlrYnRkcEFEQ0dvT0VnM01xWXVYZWFaR1E1aVAxZEJtdWZLaFBOQ2FENkFyejRxRU9nRFdQRFRNeGR1U2ZFM3Y1dlRyN3B5ZGd2QnZxWDVIZFU4Tnc?oc=5)
+
+---
+
+### [DR MAX PEMBERTON: Why over 50s are at risk from meningitis outbreak - Daily Mail](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW5ZUlI3YVBIeW1BSU5CblVoNmc1SFliRVhRa0I2MDRTYWh1OTNEelNrbkJ5cWNHdERqSmRHell0THczVVBkb0pKeWVrb0JaUDVaX2IzZXlidy1HeEdzaUU2RGNVVXE3a1Z4T3ByZFlpd3JXeldJa0NZVS1QMHRNa2l0bFotRnVpN3h3bmQzMnM2cUVtaE1NTG5UOERXN2ZUS0VwUFFrSQ?oc=5)
+
+2026-03-22 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW5ZUlI3YVBIeW1BSU5CblVoNmc1SFliRVhRa0I2MDRTYWh1OTNEelNrbkJ5cWNHdERqSmRHell0THczVVBkb0pKeWVrb0JaUDVaX2IzZXlidy1HeEdzaUU2RGNVVXE3a1Z4T3ByZFlpd3JXeldJa0NZVS1QMHRNa2l0bFotRnVpN3h3bmQzMnM2cUVtaE1NTG5UOERXN2ZUS0VwUFFrSQ?oc=5)
 
 ---
 
@@ -58,11 +82,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Epatite A, la Regione alza l’allerta: acquistati 25.000 vaccini. “Dose gratis a chi è a rischio” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU0VUcU5GZE5Qc0FnSXFJamRqZGRhUnR2SW94VlhzQ2ttbXg1OHRpZUlWc2YwV0pQb19aYXphS05tOUxjUDN2ZC00Y0tVSFBPd3Bvd1Nlb0lSZV9vWURZSUZvTi11TjYydXI5REVheE1fd2paZUtWRS1NVnFTQkJldGpqbDExa0htTVpzaG1FbDJ3VWxzUl9zeWg1Wkw2b2VQMGthc0E4RWRfS1l1cVhFV3VjUXdKa2ZOcjlLRHBvb1hVSmdWbGdtSExYcG1OWW94dXpNaEJfWlpqYmNR?oc=5)
+### [¿Por qué el cerebro de los superancianos no envejece? Nuevas claves para comprender el secreto de su longevidad - La Vanguardia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0FnMlBvMHpXUzh0Z3BEVVlfdVF0ZjQ3clRVSnNmdFBfZm5PZHBoWkFaU183NXdnblJVUTRaeXZXdTFPR016dWE0WHExUGFheUp3T2tIYm16TERrbGNWRmpKSmxaM0VkcnhmSXp2bDRhdDEtZV92WmtZSG53cFl5MnJMbnRPejk4dXlyUjl3N0NMemxvalFWT0tJdy1JRWFGN0JCOVd1SWtFbEV3WUpEWEE1RzFNc1dYc2hiQk9lRlZNaHllSDFOTDVidFRBOGV1U3ZTUWhwdk3SAd4BQVVfeXFMTmp4MlNfVEkzZzRWV1Q3cnUzemNSUVJjZTJuT1NvSUwtdHRnNHQ1eVVTWl9xUl9RRnpmbW9JalNJLW5VTFBoOUM0aG5FZ0F0RW04dV9QWjZxTUwtdjdBSnUxRld1TGJuQmlFdjAyWU1BX0pjZUtvT0hXc0wtX01KZWVjdlZybjVFTlY5amRwZ1NSdnU0dFlTWFZac3Y0R09WQ01mSjQ1MVdrTnhGZUJIR2g5ejVqS3VwcW4zek1lZzJrVXZSVEtva1dzWFdkdW1aUnRuM0VxRThCSVdieWVR?oc=5)
 
-2026-03-22 <span class="news-indication-tag">epatite</span>
+2026-03-22 <span class="news-indication-tag">MS</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU0VUcU5GZE5Qc0FnSXFJamRqZGRhUnR2SW94VlhzQ2ttbXg1OHRpZUlWc2YwV0pQb19aYXphS05tOUxjUDN2ZC00Y0tVSFBPd3Bvd1Nlb0lSZV9vWURZSUZvTi11TjYydXI5REVheE1fd2paZUtWRS1NVnFTQkJldGpqbDExa0htTVpzaG1FbDJ3VWxzUl9zeWg1Wkw2b2VQMGthc0E4RWRfS1l1cVhFV3VjUXdKa2ZOcjlLRHBvb1hVSmdWbGdtSExYcG1OWW94dXpNaEJfWlpqYmNR?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0FnMlBvMHpXUzh0Z3BEVVlfdVF0ZjQ3clRVSnNmdFBfZm5PZHBoWkFaU183NXdnblJVUTRaeXZXdTFPR016dWE0WHExUGFheUp3T2tIYm16TERrbGNWRmpKSmxaM0VkcnhmSXp2bDRhdDEtZV92WmtZSG53cFl5MnJMbnRPejk4dXlyUjl3N0NMemxvalFWT0tJdy1JRWFGN0JCOVd1SWtFbEV3WUpEWEE1RzFNc1dYc2hiQk9lRlZNaHllSDFOTDVidFRBOGV1U3ZTUWhwdk3SAd4BQVVfeXFMTmp4MlNfVEkzZzRWV1Q3cnUzemNSUVJjZTJuT1NvSUwtdHRnNHQ1eVVTWl9xUl9RRnpmbW9JalNJLW5VTFBoOUM0aG5FZ0F0RW04dV9QWjZxTUwtdjdBSnUxRld1TGJuQmlFdjAyWU1BX0pjZUtvT0hXc0wtX01KZWVjdlZybjVFTlY5amRwZ1NSdnU0dFlTWFZac3Y0R09WQ01mSjQ1MVdrTnhGZUJIR2g5ejVqS3VwcW4zek1lZzJrVXZSVEtva1dzWFdkdW1aUnRuM0VxRThCSVdieWVR?oc=5)
 
 ---
 
@@ -100,7 +124,7 @@ permalink: /news/pibrentasvir/
 
 ### [Turns out your coffee addiction may be doing your brain a favor](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
 
-2026-03-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[theregister.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
 
@@ -119,30 +143,6 @@ permalink: /news/pibrentasvir/
 2026-03-21 <span class="news-indication-tag">MS</span>
 
 來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNU3VrNlJkVnRUU2NuRU82WjF2bzRpMWY5UDJSRWgxTG5kSTRZbmZOWHRzZWJNLVFaUkFNTml6UTV1alBuVWpZYkZ2bFVxUENkYm4yS2FsVEZsQnRwMlpWQUZZT2JhcmhVZEtDNUhmSG1tdzgyeHhIcURmT1plaE9KVFBoQ2tlZGNNbjVNczRKRHRQTGZCMjR6TzFJNElNd3VfQ2xTMEFfSXFDQW4yMXJ2eF9sSzBYd3B1aGc4NzZOcXZsNG9FSnpDa29seldHN2djSjJtSnN6OEtZWTg3THJrUXdkN25uRjhoMTAyZ0J0WVlwUjlWXzJZUV9WVUYwd9IBiAJBVV95cUxNeVAzeXJsRnpDYUJsQ0NzOVJyMU1laTJLLUwxSERDYXVfQjJxSGhVeUVxc1h5QnVLOTZ1eDVvMGdaSlo4VmZYT3IyMWg2YnVYUW91NkVPMDg0MU9tdkZnZmQwZ3FkZlNYSnF4SWlsY3hWdmtCUmR1QmlNQks2Mk1DZzRRODFxZmlhaW9mSFNmeXFqNEF0SkZOS0oxMWdURFdvNnlaT1JnNTVQaHdaWkEzRlBLQ3RnRTFMcTIxX1E0cjhVNEhVWmI3QTVqQkxUQWFTT0RubXhnNHFBeEROVDU0a0JFdUNQcUdodk5rdVZWYWtIdDNxcFhhbmxSblVzMVFzSE9kZXJRZ0I?oc=5)
-
----
-
-### ['I hid my symptoms out of embarrassment - then needed life-saving surgery'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNZ0pjQlFKdWxGN2lEb3lybnFSNFVOdy1ocDJ6Rk9nMGpDNldkLWZweElPaWVDU3pzSGIyak1JMWpHRGNQbHhfWkVBN2JEdzhfZjJGMUxBcm1DTXh3?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNZ0pjQlFKdWxGN2lEb3lybnFSNFVOdy1ocDJ6Rk9nMGpDNldkLWZweElPaWVDU3pzSGIyak1JMWpHRGNQbHhfWkVBN2JEdzhfZjJGMUxBcm1DTXh3?oc=5)
-
----
-
-### [Ozempic: Heart Health Benefits Fade After Stopping GLP-1 Drugs](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
-
-2026-03-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
-
----
-
-### [Is playing music good for the brain? - The Economist](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjRoS3ZNYkZ4NG9KaUxMLXZHcFFQWHU5NklFenNZQ2tTUUp0U08wdDFaeElQQ3hfNW9JS29mS0RHMGJUNWRqcWttcW9ocl9hckFiU25vcThrZmJqYVp6eGhWSDVrTlNFR3lVaHVCREJ1aTdKMzdyM3RFNXF1ejZtT0V6aHR0MVpveGxfU2w5WUJmLWlNU0l1Tkxrbw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span>
-
-來源：[The Economist](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjRoS3ZNYkZ4NG9KaUxMLXZHcFFQWHU5NklFenNZQ2tTUUp0U08wdDFaeElQQ3hfNW9JS29mS0RHMGJUNWRqcWttcW9ocl9hckFiU25vcThrZmJqYVp6eGhWSDVrTlNFR3lVaHVCREJ1aTdKMzdyM3RFNXF1ejZtT0V6aHR0MVpveGxfU2w5WUJmLWlNU0l1Tkxrbw?oc=5)
 
 ---
 

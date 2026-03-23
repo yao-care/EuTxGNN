@@ -14,7 +14,7 @@ permalink: /news/parecoxib-sodium/
 ---
 
 <p class="key-answer" data-question="Parecoxib Sodium 有什麼相關新聞？">
-<strong>Parecoxib Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Parecoxib Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/parecoxib-sodium/
 <p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Migraine du week-end : 5 conseils pour y échapper et éviter les fins de semaines difficiles](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVTBCa29KZTNLdVpfNk5MRE9QN3lqZGdOWTl4QVpiS2NjcUtGV0p5VjJONDd6WkV4aDdmbWZjSWFOTU5ZWjZGb3hrQzJVbEEyU05qQnU4WHhob1dpTjlWdDNrY0JqTWxHb0pndHRrbVVOOWZrbTNfM0JLY3NqUTR5Nk0xbzlFSGhBczdyWS0xMFhrUllpN3plcHhDdUkwQ1lRZWM2YzJaek9pbXBMRzJYbXN2VWpMTGhjeWpiR1JhQjM4ZEhJUUdKV3lfWWZzRU14czh3bg?oc=5)
 
@@ -63,14 +63,6 @@ permalink: /news/parecoxib-sodium/
 2026-03-21 <span class="news-indication-tag">heart disease</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
-
----
-
-### [Las muertes por hipertensión se cuadruplican entre las mujeres jóvenes, según un estudio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzhwUm1DbDBjN0NYMXhtd0dzRzFQdXhiTEVrRzR6RnlMeVkyOThpSXRnTFFWdGtPMTRaTHR6aUhva2V0S09mbks3WjNvS044S0NCN3BYbWVseENKbUVBaTI4WFlHX1hDalNsdXNYVUlhYktueDc2X1JaVktIS3lmSGZJdUZJYzlXS21FbFhlRjhXRVlWZTBsenZFRFlRSUJKVWtTLVhnYnd0X3ZTdnJpMGU3eW1vZTN2RjVrRVJnM25mTDlPUEk0SNIB4wFBVV95cUxPa0xhYlJrZGhQODlDcWQxVWoyWHpubnVObWdLc3RrZkNad2V2SlpCZkwzekROLWsxOS0xbjZMZUhUcXdxZHdFRnlNQXhGamhZVWFrOG8wRjJCWFFVckNMUnZDRS1FZnktRmNmQjJiUG5FXzZ6ejA4R1Y5UThDT2Vma1hxdkFuNHpKRjhSWDAtRW5nRDdIV2ZtdnpUanJMMFI0aWVvVENja0gydnBzMk1IdEVZVUNIa3BTbVptUzhnUFc0c0c1dm1IalF6dUFEaU56Wkkxd2RsUk5xcmhycGotWlMwVQ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzhwUm1DbDBjN0NYMXhtd0dzRzFQdXhiTEVrRzR6RnlMeVkyOThpSXRnTFFWdGtPMTRaTHR6aUhva2V0S09mbks3WjNvS044S0NCN3BYbWVseENKbUVBaTI4WFlHX1hDalNsdXNYVUlhYktueDc2X1JaVktIS3lmSGZJdUZJYzlXS21FbFhlRjhXRVlWZTBsenZFRFlRSUJKVWtTLVhnYnd0X3ZTdnJpMGU3eW1vZTN2RjVrRVJnM25mTDlPUEk0SNIB4wFBVV95cUxPa0xhYlJrZGhQODlDcWQxVWoyWHpubnVObWdLc3RrZkNad2V2SlpCZkwzekROLWsxOS0xbjZMZUhUcXdxZHdFRnlNQXhGamhZVWFrOG8wRjJCWFFVckNMUnZDRS1FZnktRmNmQjJiUG5FXzZ6ejA4R1Y5UThDT2Vma1hxdkFuNHpKRjhSWDAtRW5nRDdIV2ZtdnpUanJMMFI0aWVvVENja0gydnBzMk1IdEVZVUNIa3BTbVptUzhnUFc0c0c1dm1IalF6dUFEaU56Wkkxd2RsUk5xcmhycGotWlMwVQ?oc=5)
 
 ---
 

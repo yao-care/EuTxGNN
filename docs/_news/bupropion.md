@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bupropion</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [A qué hora es mejor desayunar lleva años provocando debates: la ciencia de la "crononutrición" los está resolviendo](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5IcnhuYlgyRjRlRi14dEZpUC1QaVFnZTQ5Y2ZUZ182ZkYyMUVtb1ozUHFKSG9uajdKSm5FWmxHbFNSc2lQbWJEQXdJT3RLeXVMRWlrMEFQLUlQV29MRmhjb0N3eW9rMElPRTF0b1dhRXR5ellkcW1QaVFRbVFsU2tydlBnOW9tX1Zfa2VmeWlVSEZRNkJkWUN4Unl0YllsRUFMLUw5ODdTSkFkeXRVYzRGWXdrQk1kSzU1SHg5WjA0NUVKTkR3dlc4TlhaOWfSAdQBQVVfeXFMTnpaU0RVajNKWllTc1ZfZVl0SV96aXFLRTVaQTBUdXFkYTI3Q0dWOTFKVGlCeFpnRENrVGJ5NTRrem92VURCckFwSlBZYlE4eHRvdHZaVHdEMG12RXlBa19TRWZ2MDByTXBWa3hLdHlKT2wtNGhQRERHLUtXdl82SktlVDBlb01SNHIxVHV2VUhIT3kxeE5FX3ZUdDcyM0ZPNFRGdmxkZzhKZzJ2SXd1cXAydzRJY1ltaTV2WmxfbzRXSWRfVU0yVWhKYzVHczVqQ09xbEc?oc=5)
+
+2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5IcnhuYlgyRjRlRi14dEZpUC1QaVFnZTQ5Y2ZUZ182ZkYyMUVtb1ozUHFKSG9uajdKSm5FWmxHbFNSc2lQbWJEQXdJT3RLeXVMRWlrMEFQLUlQV29MRmhjb0N3eW9rMElPRTF0b1dhRXR5ellkcW1QaVFRbVFsU2tydlBnOW9tX1Zfa2VmeWlVSEZRNkJkWUN4Unl0YllsRUFMLUw5ODdTSkFkeXRVYzRGWXdrQk1kSzU1SHg5WjA0NUVKTkR3dlc4TlhaOWfSAdQBQVVfeXFMTnpaU0RVajNKWllTc1ZfZVl0SV96aXFLRTVaQTBUdXFkYTI3Q0dWOTFKVGlCeFpnRENrVGJ5NTRrem92VURCckFwSlBZYlE4eHRvdHZaVHdEMG12RXlBa19TRWZ2MDByTXBWa3hLdHlKT2wtNGhQRERHLUtXdl82SktlVDBlb01SNHIxVHV2VUhIT3kxeE5FX3ZUdDcyM0ZPNFRGdmxkZzhKZzJ2SXd1cXAydzRJY1ltaTV2WmxfbzRXSWRfVU0yVWhKYzVHczVqQ09xbEc?oc=5)
+
+---
 
 
 <div class="disclaimer">

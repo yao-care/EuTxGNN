@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [A qué hora es mejor desayunar lleva años provocando debates: la ciencia de la "crononutrición" los está resolviendo](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5IcnhuYlgyRjRlRi14dEZpUC1QaVFnZTQ5Y2ZUZ182ZkYyMUVtb1ozUHFKSG9uajdKSm5FWmxHbFNSc2lQbWJEQXdJT3RLeXVMRWlrMEFQLUlQV29MRmhjb0N3eW9rMElPRTF0b1dhRXR5ellkcW1QaVFRbVFsU2tydlBnOW9tX1Zfa2VmeWlVSEZRNkJkWUN4Unl0YllsRUFMLUw5ODdTSkFkeXRVYzRGWXdrQk1kSzU1SHg5WjA0NUVKTkR3dlc4TlhaOWfSAdQBQVVfeXFMTnpaU0RVajNKWllTc1ZfZVl0SV96aXFLRTVaQTBUdXFkYTI3Q0dWOTFKVGlCeFpnRENrVGJ5NTRrem92VURCckFwSlBZYlE4eHRvdHZaVHdEMG12RXlBa19TRWZ2MDByTXBWa3hLdHlKT2wtNGhQRERHLUtXdl82SktlVDBlb01SNHIxVHV2VUhIT3kxeE5FX3ZUdDcyM0ZPNFRGdmxkZzhKZzJ2SXd1cXAydzRJY1ltaTV2WmxfbzRXSWRfVU0yVWhKYzVHczVqQ09xbEc?oc=5)
+
+2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5IcnhuYlgyRjRlRi14dEZpUC1QaVFnZTQ5Y2ZUZ182ZkYyMUVtb1ozUHFKSG9uajdKSm5FWmxHbFNSc2lQbWJEQXdJT3RLeXVMRWlrMEFQLUlQV29MRmhjb0N3eW9rMElPRTF0b1dhRXR5ellkcW1QaVFRbVFsU2tydlBnOW9tX1Zfa2VmeWlVSEZRNkJkWUN4Unl0YllsRUFMLUw5ODdTSkFkeXRVYzRGWXdrQk1kSzU1SHg5WjA0NUVKTkR3dlc4TlhaOWfSAdQBQVVfeXFMTnpaU0RVajNKWllTc1ZfZVl0SV96aXFLRTVaQTBUdXFkYTI3Q0dWOTFKVGlCeFpnRENrVGJ5NTRrem92VURCckFwSlBZYlE4eHRvdHZaVHdEMG12RXlBa19TRWZ2MDByTXBWa3hLdHlKT2wtNGhQRERHLUtXdl82SktlVDBlb01SNHIxVHV2VUhIT3kxeE5FX3ZUdDcyM0ZPNFRGdmxkZzhKZzJ2SXd1cXAydzRJY1ltaTV2WmxfbzRXSWRfVU0yVWhKYzVHczVqQ09xbEc?oc=5)
+
+---
 
 ### [Migraine du week-end : 5 conseils pour y échapper et éviter les fins de semaines difficiles](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVTBCa29KZTNLdVpfNk5MRE9QN3lqZGdOWTl4QVpiS2NjcUtGV0p5VjJONDd6WkV4aDdmbWZjSWFOTU5ZWjZGb3hrQzJVbEEyU05qQnU4WHhob1dpTjlWdDNrY0JqTWxHb0pndHRrbVVOOWZrbTNfM0JLY3NqUTR5Nk0xbzlFSGhBczdyWS0xMFhrUllpN3plcHhDdUkwQ1lRZWM2YzJaek9pbXBMRzJYbXN2VWpMTGhjeWpiR1JhQjM4ZEhJUUdKV3lfWWZzRU14czh3bg?oc=5)
 

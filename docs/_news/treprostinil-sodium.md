@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ permalink: /news/treprostinil-sodium/
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Las muertes por hipertensión se cuadruplican entre las mujeres jóvenes, según un estudio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzhwUm1DbDBjN0NYMXhtd0dzRzFQdXhiTEVrRzR6RnlMeVkyOThpSXRnTFFWdGtPMTRaTHR6aUhva2V0S09mbks3WjNvS044S0NCN3BYbWVseENKbUVBaTI4WFlHX1hDalNsdXNYVUlhYktueDc2X1JaVktIS3lmSGZJdUZJYzlXS21FbFhlRjhXRVlWZTBsenZFRFlRSUJKVWtTLVhnYnd0X3ZTdnJpMGU3eW1vZTN2RjVrRVJnM25mTDlPUEk0SNIB4wFBVV95cUxPa0xhYlJrZGhQODlDcWQxVWoyWHpubnVObWdLc3RrZkNad2V2SlpCZkwzekROLWsxOS0xbjZMZUhUcXdxZHdFRnlNQXhGamhZVWFrOG8wRjJCWFFVckNMUnZDRS1FZnktRmNmQjJiUG5FXzZ6ejA4R1Y5UThDT2Vma1hxdkFuNHpKRjhSWDAtRW5nRDdIV2ZtdnpUanJMMFI0aWVvVENja0gydnBzMk1IdEVZVUNIa3BTbVptUzhnUFc0c0c1dm1IalF6dUFEaU56Wkkxd2RsUk5xcmhycGotWlMwVQ?oc=5)
-
-2026-03-21 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzhwUm1DbDBjN0NYMXhtd0dzRzFQdXhiTEVrRzR6RnlMeVkyOThpSXRnTFFWdGtPMTRaTHR6aUhva2V0S09mbks3WjNvS044S0NCN3BYbWVseENKbUVBaTI4WFlHX1hDalNsdXNYVUlhYktueDc2X1JaVktIS3lmSGZJdUZJYzlXS21FbFhlRjhXRVlWZTBsenZFRFlRSUJKVWtTLVhnYnd0X3ZTdnJpMGU3eW1vZTN2RjVrRVJnM25mTDlPUEk0SNIB4wFBVV95cUxPa0xhYlJrZGhQODlDcWQxVWoyWHpubnVObWdLc3RrZkNad2V2SlpCZkwzekROLWsxOS0xbjZMZUhUcXdxZHdFRnlNQXhGamhZVWFrOG8wRjJCWFFVckNMUnZDRS1FZnktRmNmQjJiUG5FXzZ6ejA4R1Y5UThDT2Vma1hxdkFuNHpKRjhSWDAtRW5nRDdIV2ZtdnpUanJMMFI0aWVvVENja0gydnBzMk1IdEVZVUNIa3BTbVptUzhnUFc0c0c1dm1IalF6dUFEaU56Wkkxd2RsUk5xcmhycGotWlMwVQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

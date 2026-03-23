@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [José Soto (SEDISA) sobre el Código Shock: "Es clave porque elimina la improvisación y podría replicar el éxito del Código Ictus o Código Infarto" - Gaceta de salud](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRGU4S1R4d3V1eF83eWdwWnZrLVBCel8tUzlUOXVhbnAtTVpZXzB6VFNwRmhLQ01Velg3QTU4Ry1PRlMyV0Z4SVAySDhoY24xV1U5cWFNQVZzZ3Vnd3UxYjhMSGhRYS1qcHVQc01CeDlEUEt5NzluakRyNVplQlV3c3dYdVpaWEpuS3dSZk4tdEN0MWlnQm1XT0xhYnJRTTByOTBZM01XTktGS2xVLW1Ga2hVb1FCNWFDRHA4NW5PX0owZTYtOVB3VW9tcTl3MkFGRXZuRVdFNDV5WDQyQ1R0TmNzaXVmNVZQSTNHYnNZZkRLQzNEZXllMzVWSFB5cFJNX19IUkVmckQwYTFxalpDYTVVb2Z2eWNGWU15elpOV3VZWGtLcm9KVHRoQURFSVhFelhya0pzMWs?oc=5)
+
+2026-03-22 <span class="news-indication-tag">ictus</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRGU4S1R4d3V1eF83eWdwWnZrLVBCel8tUzlUOXVhbnAtTVpZXzB6VFNwRmhLQ01Velg3QTU4Ry1PRlMyV0Z4SVAySDhoY24xV1U5cWFNQVZzZ3Vnd3UxYjhMSGhRYS1qcHVQc01CeDlEUEt5NzluakRyNVplQlV3c3dYdVpaWEpuS3dSZk4tdEN0MWlnQm1XT0xhYnJRTTByOTBZM01XTktGS2xVLW1Ga2hVb1FCNWFDRHA4NW5PX0owZTYtOVB3VW9tcTl3MkFGRXZuRVdFNDV5WDQyQ1R0TmNzaXVmNVZQSTNHYnNZZkRLQzNEZXllMzVWSFB5cFJNX19IUkVmckQwYTFxalpDYTVVb2Z2eWNGWU15elpOV3VZWGtLcm9KVHRoQURFSVhFelhya0pzMWs?oc=5)
+
+---
 
 ### [Ictus, la durata della siesta pomeridiana rivela la percentuale di rischio: ecco tutti i campanelli d'allarme - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
 

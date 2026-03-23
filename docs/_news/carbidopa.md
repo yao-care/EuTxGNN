@@ -52,7 +52,7 @@ permalink: /news/carbidopa/
 
 ### [Turns out your coffee addiction may be doing your brain a favor](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
 
-2026-03-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[theregister.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
 

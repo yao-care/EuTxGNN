@@ -14,7 +14,7 @@ permalink: /news/belatacept/
 ---
 
 <p class="key-answer" data-question="Belatacept 有什麼相關新聞？">
-<strong>Belatacept</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Belatacept</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ permalink: /news/belatacept/
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（30 則）
 
-### [College student has suspected meningitis but the risk to others is 'very low' | ITV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2x5Qnl1UUZiN2NsQUR6RVZ4eGpVNWlJdDhvYld5bkVSV2dVTUdUZHFfMS05aENpNzRNTzZFVU50QnMyWVY0REtBNEp2d0hFQ2pKZDYyVUhwQkhWUWlLVkZJdUM3TTI0dVZzcTRha0R2TDRxQ3VyX2h5LWxSX2xXME5TbnprRnBHMnZtZS03cnNUNjRwRG10Q0hfVlBtWHc2c3V3Mk1oTDEyYVdDaFZFcUFaME1tSWVFWVJn?oc=5)
+### [Las bacterias intestinales pueden llegar al cerebro; un estudio con ratones encuentra cómo](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkhzRnIzcGRiWWwwalNBVzN5MHY2TVZuOWZwbzhqb2daNHQxczU5cExVRmlmN1dPaW1Kd0ZxaFF6cHVNTTdUYUxObDc5ZXp1SHpuY0FGWmhIS29CVTdXWXUyQVZvZXl4cG5WRTZBbWVkM2lqMW9xQlRGUjh3by1lUi1uLWZoTlZLTkdJenpWdHRQbFgzQWx0S2pITV9yVkVBa05xWjhPS0R4SDA4U2JXalk3ZlA0MTJHS0NqWg?oc=5)
 
-2026-03-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-22 <span class="news-indication-tag">MS</span>
 
-來源：[ITVX](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2x5Qnl1UUZiN2NsQUR6RVZ4eGpVNWlJdDhvYld5bkVSV2dVTUdUZHFfMS05aENpNzRNTzZFVU50QnMyWVY0REtBNEp2d0hFQ2pKZDYyVUhwQkhWUWlLVkZJdUM3TTI0dVZzcTRha0R2TDRxQ3VyX2h5LWxSX2xXME5TbnprRnBHMnZtZS03cnNUNjRwRG10Q0hfVlBtWHc2c3V3Mk1oTDEyYVdDaFZFcUFaME1tSWVFWVJn?oc=5)
+來源：[WIRED](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkhzRnIzcGRiWWwwalNBVzN5MHY2TVZuOWZwbzhqb2daNHQxczU5cExVRmlmN1dPaW1Kd0ZxaFF6cHVNTTdUYUxObDc5ZXp1SHpuY0FGWmhIS29CVTdXWXUyQVZvZXl4cG5WRTZBbWVkM2lqMW9xQlRGUjh3by1lUi1uLWZoTlZLTkdJenpWdHRQbFgzQWx0S2pITV9yVkVBa05xWjhPS0R4SDA4U2JXalk3ZlA0MTJHS0NqWg?oc=5)
+
+---
+
+### [Avance científico: Editan las células inmunes dentro del cuerpo para que ataquen tumores](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRTZwN1dBNU1uQTVRbG8wbFoyS1J4S2VOTGozUmx1a2dtMUxvTzNPRDZIemo4Z3BGLWhqaklHVWVETEhVX1c3YjVzXzlvbkNmQldSYlNtWjlxQ2Z5d3hOcW9FR1dLZHhTLU1mS2tPSXh0Y3dYVnR3ckg3ZEV1azczQXhkejFKejlsdGstTDUxMUJiVVFaa2FYLXhHXzEwR2Q2dDFqc3VFWlJWcFlsbnYwQ1ZreGVXTGF6ejU1ZUQya2psN1Z3aWdkTHZ2TnBMd9IB0wFBVV95cUxNclpRYzhQakZZbzhTTk10QUtHS3M2VzRjcVpXdzNNU3dQZ0xYaWlRZDdpNllhTXlxdnBNRHloX1I3MmgzR2VFY1ZkNXV0SWktbndFMlotZlhYMjVzM0F3SU5DZS0ydERrbFBTZVdzczBWV3lSX2t5UXRYWENwSXVQOUJ0NDRhUmJ1MTJ6dW9RY2o0OXRUQmZoMmo5XzVqM0RXT0JRc1ZqVlNOSHItdXlWdjhrTmxsaEZyRTBDdXhRbHN3RmpraVBUR3JWc19WLXcybXFR?oc=5)
+
+2026-03-22 <span class="news-indication-tag">tumor</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRTZwN1dBNU1uQTVRbG8wbFoyS1J4S2VOTGozUmx1a2dtMUxvTzNPRDZIemo4Z3BGLWhqaklHVWVETEhVX1c3YjVzXzlvbkNmQldSYlNtWjlxQ2Z5d3hOcW9FR1dLZHhTLU1mS2tPSXh0Y3dYVnR3ckg3ZEV1azczQXhkejFKejlsdGstTDUxMUJiVVFaa2FYLXhHXzEwR2Q2dDFqc3VFWlJWcFlsbnYwQ1ZreGVXTGF6ejU1ZUQya2psN1Z3aWdkTHZ2TnBMd9IB0wFBVV95cUxNclpRYzhQakZZbzhTTk10QUtHS3M2VzRjcVpXdzNNU3dQZ0xYaWlRZDdpNllhTXlxdnBNRHloX1I3MmgzR2VFY1ZkNXV0SWktbndFMlotZlhYMjVzM0F3SU5DZS0ydERrbFBTZVdzczBWV3lSX2t5UXRYWENwSXVQOUJ0NDRhUmJ1MTJ6dW9RY2o0OXRUQmZoMmo5XzVqM0RXT0JRc1ZqVlNOSHItdXlWdjhrTmxsaEZyRTBDdXhRbHN3RmpraVBUR3JWc19WLXcybXFR?oc=5)
+
+---
+
+### [«Ho un tumore ai polmoni al quarto stadio, ma sono ancora viva. Per i dottori ne avevo per 11 mesi» - Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWRrb0xYRkwycjVpLVlZY0VLZTdWdE45RVEwd2Z4eUNfeml6ZHNZdWRRb081VV8zb0Z3NjV3M2FMR3paYzBQR1RMRWJsaXhfeS16ZGkzRTN1bkJMSkNsRDFYVHFNNkFRTmRjN2hXVjc5SlpzNlZsNjhrMzg3VlZzMFp0LTdyZzNRcTNpU0ZjZVQ3R1Z4dE1QMzZybUtoNFRwWUlhcERnejduYmZUcE9qWVdDNNIBrwFBVV95cUxNNE9ObjlXRHRMUXNiN1NuMXJtcVFRZm1vMFhTQjRhbmp0VGJkWGdLSWZ3dW5ER1ZFU3RwTFJJY3BRQjFIMF9jS3dGVnZXcEpEbWlURnIxTXI4RlNGdnN5YVJILXlka2V1enZBMlZHY0NEcXlTcmU1NjJFZkRDbElON3NFLS0tMWluLWlEdEpHZlFvenZ5UDFLYnNnVUtNc3h1TGFOcnZvd3ZZVGxiWTRr?oc=5)
+
+2026-03-22 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWRrb0xYRkwycjVpLVlZY0VLZTdWdE45RVEwd2Z4eUNfeml6ZHNZdWRRb081VV8zb0Z3NjV3M2FMR3paYzBQR1RMRWJsaXhfeS16ZGkzRTN1bkJMSkNsRDFYVHFNNkFRTmRjN2hXVjc5SlpzNlZsNjhrMzg3VlZzMFp0LTdyZzNRcTNpU0ZjZVQ3R1Z4dE1QMzZybUtoNFRwWUlhcERnejduYmZUcE9qWVdDNNIBrwFBVV95cUxNNE9ObjlXRHRMUXNiN1NuMXJtcVFRZm1vMFhTQjRhbmp0VGJkWGdLSWZ3dW5ER1ZFU3RwTFJJY3BRQjFIMF9jS3dGVnZXcEpEbWlURnIxTXI4RlNGdnN5YVJILXlka2V1enZBMlZHY0NEcXlTcmU1NjJFZkRDbElON3NFLS0tMWluLWlEdEpHZlFvenZ5UDFLYnNnVUtNc3h1TGFOcnZvd3ZZVGxiWTRr?oc=5)
+
+---
+
+### [Ha una pulsazione all’orecchio: i medici scoprono quattro tumori al cervello - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenRWTjlmZXZvWnRZYU41NjFKY2s2Y1I1bVV6VVRIN2RsNVBnUzA4b3RXM21yQkdJZGlpeFRhdmZRVnd0VEt3UGpUWWZSRTdaSnpGR0FIWFF2Mndzb1ladUxMSWMyaG1kUTJTb3Jwa3BPYU92YUg0eXZGV1F1bmU3MFpKWUtfMHR5MXQwUS1JbERfSTRPa0hWTC1FVzJ3ckZTbzhwOWtaNmk1dTBRQmxYdWl3TWlaTlh4MTBQMlpqLXdabndXVlE0MWFfR1p6dTZ1RlVIclJmOEFiZw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">tumor</span>
+
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenRWTjlmZXZvWnRZYU41NjFKY2s2Y1I1bVV6VVRIN2RsNVBnUzA4b3RXM21yQkdJZGlpeFRhdmZRVnd0VEt3UGpUWWZSRTdaSnpGR0FIWFF2Mndzb1ladUxMSWMyaG1kUTJTb3Jwa3BPYU92YUg0eXZGV1F1bmU3MFpKWUtfMHR5MXQwUS1JbERfSTRPa0hWTC1FVzJ3ckZTbzhwOWtaNmk1dTBRQmxYdWl3TWlaTlh4MTBQMlpqLXdabndXVlE0MWFfR1p6dTZ1RlVIclJmOEFiZw?oc=5)
 
 ---
 
@@ -66,14 +90,6 @@ permalink: /news/belatacept/
 
 ---
 
-### [Descubren que el glutatión es un combustible para las células tumorales](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHE5NzVvaU5LaDNCenREaEVSdzlYMV9VWkNrSmxJdm1DVGhNSU9PUllxRnc5amhscURfN2t3eGIxZUp3M3R3TXA0LVphSVQ5b3ZaWWZ4a3JpYi01REtkUkhMVHE2anJmZlJLWXBtZ2xOSGpvMW1yRkRVVlJDOHk2aHRONGpacXJDbkZpT05uMGFkdS1IQ2ljdnVyMTc2RFZ1RU5FSEF4VV9DVmRadjd5bTQ3d1TSAboBQVVfeXFMTVZFZ0xBZGZxanV0Vl9ocWN0eVMtRXFwZGdoeWx5a2x0cFZOb0hPU1RoV2g4TWJ1Q1NrQ29hem5fSUVDMlBQbHA3cmJNaVJhcE42RTBMc3RVUVlFbXIzNnFuUWlITnR0VWdzemJZUm1ZelNwWjVvTkFBR25vdDJDdkw1QXJkb1RVS1VjTWpEYkRZNUtPMENWZ1lwc010LWoyR2UyQzhNQ0FZYkQ1YUk3eW9ubklKa0VSNk1R?oc=5)
-
-2026-03-22 <span class="news-indication-tag">tumor</span>
-
-來源：[Canarias7](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHE5NzVvaU5LaDNCenREaEVSdzlYMV9VWkNrSmxJdm1DVGhNSU9PUllxRnc5amhscURfN2t3eGIxZUp3M3R3TXA0LVphSVQ5b3ZaWWZ4a3JpYi01REtkUkhMVHE2anJmZlJLWXBtZ2xOSGpvMW1yRkRVVlJDOHk2aHRONGpacXJDbkZpT05uMGFkdS1IQ2ljdnVyMTc2RFZ1RU5FSEF4VV9DVmRadjd5bTQ3d1TSAboBQVVfeXFMTVZFZ0xBZGZxanV0Vl9ocWN0eVMtRXFwZGdoeWx5a2x0cFZOb0hPU1RoV2g4TWJ1Q1NrQ29hem5fSUVDMlBQbHA3cmJNaVJhcE42RTBMc3RVUVlFbXIzNnFuUWlITnR0VWdzemJZUm1ZelNwWjVvTkFBR25vdDJDdkw1QXJkb1RVS1VjTWpEYkRZNUtPMENWZ1lwc010LWoyR2UyQzhNQ0FZYkQ1YUk3eW9ubklKa0VSNk1R?oc=5)
-
----
-
 ### [Die Rolle des Thymus in der Krebsbehandlung neu bewertet - it boltwise](https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0E2V3VwMFVCcHF2WjR1X0tqVEYzcXV1WWtWZlhKWWplZkhhZGZOUjBCclFTTi0zSHdUckpTV3hBWmZkS2wzdWFBZ2RyR29Qa0FyYTFVbXVvUEJScW5hdU9VZUpCUDNTSExEeV9ISjBtLTYyRDdCcTdHeVBmWUxpU1g5UUFRRVJtZzRnU3F1UXFtUQ?oc=5)
 
 2026-03-22 <span class="news-indication-tag">Krebs</span>
@@ -82,11 +98,35 @@ permalink: /news/belatacept/
 
 ---
 
+### [Antibiotika gefährlich? Forscher finden gefährliche Wirkung im Darm - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeGp2bXFldk00eThQcm05eDZSSEhGM2FwMjRqNUNqVjlwdTFPbnR6QTVLTWlsUGFKQzRhLVdrVlVsSHhKU2x1MWd6U3Z0bklLUmxsLXoyTHl0RnNoSld2LXVLS1E2ZmtRbk90YkxtNzMtYmh1UU80ZkpFRXhHYy15cDZMLVhkRkhDQWNBN3ZLVUUtVVFXcnlUZElYNXNQTXhwWE1pRFh4aU5CTkNkWk93RW5wMHhpYW8yLU1za1k3N3g5LUFjZHZxdGdWbw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxOeGp2bXFldk00eThQcm05eDZSSEhGM2FwMjRqNUNqVjlwdTFPbnR6QTVLTWlsUGFKQzRhLVdrVlVsSHhKU2x1MWd6U3Z0bklLUmxsLXoyTHl0RnNoSld2LXVLS1E2ZmtRbk90YkxtNzMtYmh1UU80ZkpFRXhHYy15cDZMLVhkRkhDQWNBN3ZLVUUtVVFXcnlUZElYNXNQTXhwWE1pRFh4aU5CTkNkWk93RW5wMHhpYW8yLU1za1k3N3g5LUFjZHZxdGdWbw?oc=5)
+
+---
+
+### [DR MAX PEMBERTON: Why over 50s are at risk from meningitis outbreak - Daily Mail](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW5ZUlI3YVBIeW1BSU5CblVoNmc1SFliRVhRa0I2MDRTYWh1OTNEelNrbkJ5cWNHdERqSmRHell0THczVVBkb0pKeWVrb0JaUDVaX2IzZXlidy1HeEdzaUU2RGNVVXE3a1Z4T3ByZFlpd3JXeldJa0NZVS1QMHRNa2l0bFotRnVpN3h3bmQzMnM2cUVtaE1NTG5UOERXN2ZUS0VwUFFrSQ?oc=5)
+
+2026-03-22 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW5ZUlI3YVBIeW1BSU5CblVoNmc1SFliRVhRa0I2MDRTYWh1OTNEelNrbkJ5cWNHdERqSmRHell0THczVVBkb0pKeWVrb0JaUDVaX2IzZXlidy1HeEdzaUU2RGNVVXE3a1Z4T3ByZFlpd3JXeldJa0NZVS1QMHRNa2l0bFotRnVpN3h3bmQzMnM2cUVtaE1NTG5UOERXN2ZUS0VwUFFrSQ?oc=5)
+
+---
+
 ### [Un gen de los yaks que les permite vivir en altura podría abrir una nueva vía para reparar el daño de la esclerosis múltiple - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTUwxdzVZUzBCSHZfWklURHYwTEdfOUEtbU1GSklwcjFIRFJydUFBU2ZjbjFSbENXREtKVElZb0Q3NDZlRHhsdzdiazZzQ0RzSGg3OHZzTGc5Yk95eFlpVENjeTlNVzVOdGVTZHlqR21ycWRRd00wUWNSZVJfb0pydUpadWVKV3Z4X1JIU3RBYUZOaS1FV0ktNUt5ODhVc0IyN1VfOTdya0xkc3oxeHF2Z3NJM0NQUUxIcFlodFA0ZDB3a1plS0Jtazh0RUp2RVJQMXpKaDNvQjA0MEdCMjBFMWltU3pKcEc1Q1ZRdWhnMFE?oc=5)
 
 2026-03-22 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTUwxdzVZUzBCSHZfWklURHYwTEdfOUEtbU1GSklwcjFIRFJydUFBU2ZjbjFSbENXREtKVElZb0Q3NDZlRHhsdzdiazZzQ0RzSGg3OHZzTGc5Yk95eFlpVENjeTlNVzVOdGVTZHlqR21ycWRRd00wUWNSZVJfb0pydUpadWVKV3Z4X1JIU3RBYUZOaS1FV0ktNUt5ODhVc0IyN1VfOTdya0xkc3oxeHF2Z3NJM0NQUUxIcFlodFA0ZDB3a1plS0Jtazh0RUp2RVJQMXpKaDNvQjA0MEdCMjBFMWltU3pKcEc1Q1ZRdWhnMFE?oc=5)
+
+---
+
+### [¿Por qué el cerebro de los superancianos no envejece? Nuevas claves para comprender el secreto de su longevidad - La Vanguardia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0FnMlBvMHpXUzh0Z3BEVVlfdVF0ZjQ3clRVSnNmdFBfZm5PZHBoWkFaU183NXdnblJVUTRaeXZXdTFPR016dWE0WHExUGFheUp3T2tIYm16TERrbGNWRmpKSmxaM0VkcnhmSXp2bDRhdDEtZV92WmtZSG53cFl5MnJMbnRPejk4dXlyUjl3N0NMemxvalFWT0tJdy1JRWFGN0JCOVd1SWtFbEV3WUpEWEE1RzFNc1dYc2hiQk9lRlZNaHllSDFOTDVidFRBOGV1U3ZTUWhwdk3SAd4BQVVfeXFMTmp4MlNfVEkzZzRWV1Q3cnUzemNSUVJjZTJuT1NvSUwtdHRnNHQ1eVVTWl9xUl9RRnpmbW9JalNJLW5VTFBoOUM0aG5FZ0F0RW04dV9QWjZxTUwtdjdBSnUxRld1TGJuQmlFdjAyWU1BX0pjZUtvT0hXc0wtX01KZWVjdlZybjVFTlY5amRwZ1NSdnU0dFlTWFZac3Y0R09WQ01mSjQ1MVdrTnhGZUJIR2g5ejVqS3VwcW4zek1lZzJrVXZSVEtva1dzWFdkdW1aUnRuM0VxRThCSVdieWVR?oc=5)
+
+2026-03-22 <span class="news-indication-tag">MS</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0FnMlBvMHpXUzh0Z3BEVVlfdVF0ZjQ3clRVSnNmdFBfZm5PZHBoWkFaU183NXdnblJVUTRaeXZXdTFPR016dWE0WHExUGFheUp3T2tIYm16TERrbGNWRmpKSmxaM0VkcnhmSXp2bDRhdDEtZV92WmtZSG53cFl5MnJMbnRPejk4dXlyUjl3N0NMemxvalFWT0tJdy1JRWFGN0JCOVd1SWtFbEV3WUpEWEE1RzFNc1dYc2hiQk9lRlZNaHllSDFOTDVidFRBOGV1U3ZTUWhwdk3SAd4BQVVfeXFMTmp4MlNfVEkzZzRWV1Q3cnUzemNSUVJjZTJuT1NvSUwtdHRnNHQ1eVVTWl9xUl9RRnpmbW9JalNJLW5VTFBoOUM0aG5FZ0F0RW04dV9QWjZxTUwtdjdBSnUxRld1TGJuQmlFdjAyWU1BX0pjZUtvT0hXc0wtX01KZWVjdlZybjVFTlY5amRwZ1NSdnU0dFlTWFZac3Y0R09WQ01mSjQ1MVdrTnhGZUJIR2g5ejVqS3VwcW4zek1lZzJrVXZSVEtva1dzWFdkdW1aUnRuM0VxRThCSVdieWVR?oc=5)
 
 ---
 
@@ -103,6 +143,22 @@ permalink: /news/belatacept/
 2026-03-22 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORHBLam9IMkRBbUt5NkVUS2lwWUZrdkV1QlhGU2wxMHFWOHhIM1I1dm9hclpaWi1QVElxdHRxZzctMVM5N21uOFVKMktmOGpPbURTclQ5MUVhQjVaZ0VxYmdXNVZuNDljVnJTemlmMXFtWFZmNXhTZ2FXYU42T3hIdWgwWXF6MXJmOFF1MlQ4a19wZnFlTFhtNURPaVJTV0kwN0pHSG5IN2d5MGtxazVPcmdlQTZnd1F3ZUxsOEZ4dGtKRHFnZTVITlVNYW51SjV5M0xKNS1fZVFQcVQxMk1QQkJn?oc=5)
+
+---
+
+### [Glutatión: el antioxidante que actúa como combustible para las células cancerígenas - La Razón](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3FEWnNia21jQmlNMHFEQVNfMlF2Z2FEZlgwQVphcjJLWG1yWFBxeEpTMExIMDEtbXlGM2hhaFE2bHpBeTdhQzdrODAzWmkzUTZsRFlPQWNuTjVPc2FiTXB4UXhTZXRfbEZrdG1hQUdaV3VSU0tYNVc0ajczZ0MyUGt1N21VbDROZXU4REdKUDVsal9HZzZ1alJvaDhHR2tGRldDWTRYQkg2OUlpTVdVZkU1UlBpTVFscXFUeVp2R1BZTm1jbWRjMDJYMExMNUlZeDV2d3oxY9IB6wFBVV95cUxOcWxWUHZ3RENiNG9LVWxKWFVzczgxdW5raGlBWGt1bzIwRVlCeWh0ZjNjdS1RM1p2WlNqam9yYURZbm5BQy11N2U2eVFGenREZkt4WGlKRnl0eHlCY2FCLU5qRi1yUHZOOHNTMl9VZG5tNFBJekxjektha2NuWmhlVDJSdUh0b3hjNnY4SVVIR0MwQjd6ZE1ScUM5Sk9FVkE1SGF3eDBmVzlldTdUeFd4WTVBTDJMa245RVNCYTVBMHNUQkZQTjRRMHNLZFpuMHRSLWh4WnFKSXdsYWd6cnVIV2ZTZThnTDN4Y3FV?oc=5)
+
+2026-03-22 <span class="news-indication-tag">cancer</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3FEWnNia21jQmlNMHFEQVNfMlF2Z2FEZlgwQVphcjJLWG1yWFBxeEpTMExIMDEtbXlGM2hhaFE2bHpBeTdhQzdrODAzWmkzUTZsRFlPQWNuTjVPc2FiTXB4UXhTZXRfbEZrdG1hQUdaV3VSU0tYNVc0ajczZ0MyUGt1N21VbDROZXU4REdKUDVsal9HZzZ1alJvaDhHR2tGRldDWTRYQkg2OUlpTVdVZkU1UlBpTVFscXFUeVp2R1BZTm1jbWRjMDJYMExMNUlZeDV2d3oxY9IB6wFBVV95cUxOcWxWUHZ3RENiNG9LVWxKWFVzczgxdW5raGlBWGt1bzIwRVlCeWh0ZjNjdS1RM1p2WlNqam9yYURZbm5BQy11N2U2eVFGenREZkt4WGlKRnl0eHlCY2FCLU5qRi1yUHZOOHNTMl9VZG5tNFBJekxjektha2NuWmhlVDJSdUh0b3hjNnY4SVVIR0MwQjd6ZE1ScUM5Sk9FVkE1SGF3eDBmVzlldTdUeFd4WTVBTDJMa245RVNCYTVBMHNUQkZQTjRRMHNLZFpuMHRSLWh4WnFKSXdsYWd6cnVIV2ZTZThnTDN4Y3FV?oc=5)
+
+---
+
+### [Julia Bradbury shares update on health condition with 'no cure' after cancer battle - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSmE0akVyTHFGQU00eUwtclJIWFEwWlN4V2I1Q1N2cUxZMVNnTWsyb2Z4V2cxekhOS2pGVk9RMnZXc2pOc1ZiSG5LclY3WldvS015Zzh3R1JpSnAtMGNNTGY4WmRBZ09zVE9wZ0FEQzNYcHpnSDd3MGROSElwMXYxNDQ0UXlXZUx0YVFMSmF5LXlFMlMtLXfSAZsBQVVfeXFMT2lzSXAzU0ZnMGlxZTJuQjB2RG5hRERLVWNmZkYwalcxZFhENG8zT19rTnZxMy1nWk9sOFlNTGduR2FkMWFvT0s1TklMZ29sVUZ0UV9wWkJ6TUxMem5kT2VfblFQYXdncFRmRTFmYmtzWElWOU1YWTVaN2wtdGRZUW9IU1l1OGlNZUJNdldBaFg4WVNBU0x0Nk9EWU0?oc=5)
+
+2026-03-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSmE0akVyTHFGQU00eUwtclJIWFEwWlN4V2I1Q1N2cUxZMVNnTWsyb2Z4V2cxekhOS2pGVk9RMnZXc2pOc1ZiSG5LclY3WldvS015Zzh3R1JpSnAtMGNNTGY4WmRBZ09zVE9wZ0FEQzNYcHpnSDd3MGROSElwMXYxNDQ0UXlXZUx0YVFMSmF5LXlFMlMtLXfSAZsBQVVfeXFMT2lzSXAzU0ZnMGlxZTJuQjB2RG5hRERLVWNmZkYwalcxZFhENG8zT19rTnZxMy1nWk9sOFlNTGduR2FkMWFvT0s1TklMZ29sVUZ0UV9wWkJ6TUxMem5kT2VfblFQYXdncFRmRTFmYmtzWElWOU1YWTVaN2wtdGRZUW9IU1l1OGlNZUJNdldBaFg4WVNBU0x0Nk9EWU0?oc=5)
 
 ---
 
@@ -180,7 +236,7 @@ permalink: /news/belatacept/
 
 ### [Turns out your coffee addiction may be doing your brain a favor](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
 
-2026-03-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[theregister.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOXNfR3JSbXdkX1ZGakQtVENMWUxuVFIxQ1FIWkJCRkxoenJpQWpWR3NzalBFTmtnSzRCUEpwZnh4TU95WkFnQ2hWa1J4UUFPLUhrMGlhVE9FWTVYd0l2cHJ2bFNPUXNvOTREdnNNNFZjdDZQVFZvZ05sRQ?oc=5)
 
@@ -223,30 +279,6 @@ permalink: /news/belatacept/
 2026-03-21 <span class="news-indication-tag">MS</span>
 
 來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNU3VrNlJkVnRUU2NuRU82WjF2bzRpMWY5UDJSRWgxTG5kSTRZbmZOWHRzZWJNLVFaUkFNTml6UTV1alBuVWpZYkZ2bFVxUENkYm4yS2FsVEZsQnRwMlpWQUZZT2JhcmhVZEtDNUhmSG1tdzgyeHhIcURmT1plaE9KVFBoQ2tlZGNNbjVNczRKRHRQTGZCMjR6TzFJNElNd3VfQ2xTMEFfSXFDQW4yMXJ2eF9sSzBYd3B1aGc4NzZOcXZsNG9FSnpDa29seldHN2djSjJtSnN6OEtZWTg3THJrUXdkN25uRjhoMTAyZ0J0WVlwUjlWXzJZUV9WVUYwd9IBiAJBVV95cUxNeVAzeXJsRnpDYUJsQ0NzOVJyMU1laTJLLUwxSERDYXVfQjJxSGhVeUVxc1h5QnVLOTZ1eDVvMGdaSlo4VmZYT3IyMWg2YnVYUW91NkVPMDg0MU9tdkZnZmQwZ3FkZlNYSnF4SWlsY3hWdmtCUmR1QmlNQks2Mk1DZzRRODFxZmlhaW9mSFNmeXFqNEF0SkZOS0oxMWdURFdvNnlaT1JnNTVQaHdaWkEzRlBLQ3RnRTFMcTIxX1E0cjhVNEhVWmI3QTVqQkxUQWFTT0RubXhnNHFBeEROVDU0a0JFdUNQcUdodk5rdVZWYWtIdDNxcFhhbmxSblVzMVFzSE9kZXJRZ0I?oc=5)
-
----
-
-### ['I hid my symptoms out of embarrassment - then needed life-saving surgery'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNZ0pjQlFKdWxGN2lEb3lybnFSNFVOdy1ocDJ6Rk9nMGpDNldkLWZweElPaWVDU3pzSGIyak1JMWpHRGNQbHhfWkVBN2JEdzhfZjJGMUxBcm1DTXh3?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNZ0pjQlFKdWxGN2lEb3lybnFSNFVOdy1ocDJ6Rk9nMGpDNldkLWZweElPaWVDU3pzSGIyak1JMWpHRGNQbHhfWkVBN2JEdzhfZjJGMUxBcm1DTXh3?oc=5)
-
----
-
-### [Ozempic: Heart Health Benefits Fade After Stopping GLP-1 Drugs](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
-
-2026-03-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBnNXZzYnEwY25tR2tUMFJrR254RXZaSUJsUkxQSHRSaXphZ1J5TzNRaWY1S1pLU21OSEJ6SGxFSzBGUmhRYlJwS3YxWG9KMXJoRUhyYUd0MVRRN0VGb2IzWjRyOFB1VldMLUpNVnhlYWFJbldBeFJ1MzhMc2FVSXNpWU85WnBXUkk3OUJCd1lRSDBOeEE?oc=5)
-
----
-
-### [Is playing music good for the brain? - The Economist](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjRoS3ZNYkZ4NG9KaUxMLXZHcFFQWHU5NklFenNZQ2tTUUp0U08wdDFaeElQQ3hfNW9JS29mS0RHMGJUNWRqcWttcW9ocl9hckFiU25vcThrZmJqYVp6eGhWSDVrTlNFR3lVaHVCREJ1aTdKMzdyM3RFNXF1ejZtT0V6aHR0MVpveGxfU2w5WUJmLWlNU0l1Tkxrbw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">MS</span>
-
-來源：[The Economist](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjRoS3ZNYkZ4NG9KaUxMLXZHcFFQWHU5NklFenNZQ2tTUUp0U08wdDFaeElQQ3hfNW9JS29mS0RHMGJUNWRqcWttcW9ocl9hckFiU25vcThrZmJqYVp6eGhWSDVrTlNFR3lVaHVCREJ1aTdKMzdyM3RFNXF1ejZtT0V6aHR0MVpveGxfU2w5WUJmLWlNU0l1Tkxrbw?oc=5)
 
 ---
 
