@@ -14,7 +14,7 @@ permalink: /news/tafasitamab/
 ---
 
 <p class="key-answer" data-question="Tafasitamab 有什麼相關新聞？">
-<strong>Tafasitamab</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tafasitamab</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,69 @@ permalink: /news/tafasitamab/
 <p><a href="{{ '/drugs/tafasitamab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（30 則）
+
+### [Safran: Mehr als nur ein Gewürz - Superfood bei ADHS und Krebs?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjlmRk1PVVZnamFJWDVYczRTenZYWDA3RWVQSV9pOUNOTXVzckdTMFdvQkFhX2dEWW1GaE1oZ2J4NkJ0LWhBOXQwTmlRRFQ0MTVodXFlZUFWc19DVm9Oa2RqRXl5Vjl5TURsQkR0T2hYbkZhMzJfU2FJaTd5alBMc2JJSklYTV9CeF9DQi1BNERnVjliQmlLT2FvM0ljN1c0dFNGMExEa1oyQWVjOEZ2QXI3MXRaRzdPOXlDQ2pIUGNhM1VtVmdMUkFGNUJlQTMx?oc=5)
+
+2026-03-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjlmRk1PVVZnamFJWDVYczRTenZYWDA3RWVQSV9pOUNOTXVzckdTMFdvQkFhX2dEWW1GaE1oZ2J4NkJ0LWhBOXQwTmlRRFQ0MTVodXFlZUFWc19DVm9Oa2RqRXl5Vjl5TURsQkR0T2hYbkZhMzJfU2FJaTd5alBMc2JJSklYTV9CeF9DQi1BNERnVjliQmlLT2FvM0ljN1c0dFNGMExEa1oyQWVjOEZ2QXI3MXRaRzdPOXlDQ2pIUGNhM1VtVmdMUkFGNUJlQTMx?oc=5)
+
+---
+
+### [Antioxidante popular podría estar "alimentando" al cáncer](https://news.google.com/rss/articles/CBMizAFBVV95cUxQai1oUENUTEE0ekgtdkxLUUZyQ2VjUDFoUElZdHJya1pUWE5FQU5yYTd5by1tUnhsdGNqQkpLdTdKcHJSZ2J3eTROYlpGUWhkOUR4NTgwU2xlY19vTUZqYVdtSVJmQ0lSdkFiM2Y5c0JZTWdDbVR1dlh3N0xQSHJZbGEtQnhxQWRjVEZtYmFRNmFKUGV1WE5DbmxOV043Ykh2OXJoYUkyUmJYLTJwTnBqY3QxMWpQY2FxT1NMblBOUzF5bXJYVUVaanBGZzTSAcwBQVVfeXFMUHk2WjVFa1R1ZnNtRF82NWJsTDVnbjlxSjZRelJlTjlIZGl3RXA4a1gwbEhiZFk1UWhLaTBvcFFBeVJHTzdfaW5yRXU1X3QtVW0xQkYyY1pfNU9oRWRwVld6d19tdDFqeFJocUxLLUM3c3hLN1d5cU9Uc19aX3RWdEVWMWZFejhtcWxkVVRaUjc1elZjMVNmUDVwTFRudW55R19NZlI5ZzQ5ZUN3Z3RmTGZrRFNuZXZTU1JrZWNNTzJNcjNIT2lSY05jR1Z0?oc=5)
+
+2026-03-23 <span class="news-indication-tag">cancer</span>
+
+來源：[DW.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxQai1oUENUTEE0ekgtdkxLUUZyQ2VjUDFoUElZdHJya1pUWE5FQU5yYTd5by1tUnhsdGNqQkpLdTdKcHJSZ2J3eTROYlpGUWhkOUR4NTgwU2xlY19vTUZqYVdtSVJmQ0lSdkFiM2Y5c0JZTWdDbVR1dlh3N0xQSHJZbGEtQnhxQWRjVEZtYmFRNmFKUGV1WE5DbmxOV043Ykh2OXJoYUkyUmJYLTJwTnBqY3QxMWpQY2FxT1NMblBOUzF5bXJYVUVaanBGZzTSAcwBQVVfeXFMUHk2WjVFa1R1ZnNtRF82NWJsTDVnbjlxSjZRelJlTjlIZGl3RXA4a1gwbEhiZFk1UWhLaTBvcFFBeVJHTzdfaW5yRXU1X3QtVW0xQkYyY1pfNU9oRWRwVld6d19tdDFqeFJocUxLLUM3c3hLN1d5cU9Uc19aX3RWdEVWMWZFejhtcWxkVVRaUjc1elZjMVNmUDVwTFRudW55R19NZlI5ZzQ5ZUN3Z3RmTGZrRFNuZXZTU1JrZWNNTzJNcjNIT2lSY05jR1Z0?oc=5)
+
+---
+
+### [“La detección precoz es clave en el manejo de la diabetes tipo 1; permite intervenir antes del debut clínico y las complicaciones asociadas”](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZEtCNEZfbzdmS0d6dkJ2eXZ1eFI4THA4OV9FU2w3bl9WOURuUjNLZ3NRY3Zqa1IxZ1ZuR3d3NDBmSnVEVlZhcDNjMWZjR240SmtwNFVWd2piY0pDLV9qYURSdEpYTFM1Nl8zSXN2aU1hV0ltMzdXQ0VoUGVNa19lTVR4T1dzWVVFelhyX0d5RlQ1Rm5BX3dRS2ZMb2tDVEJxZ19YQlJGWUszeHR2QVhpTmwya3Qyb2ZSMGFMNmo1Vlo1bTJtZlE1RTRSWGpCUUhvRlpETmRZeHRVQmFHb0JPWDBBUm1QZkFsWU04M1ZCVUYwZzE4QjVseGZR?oc=5)
+
+2026-03-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZEtCNEZfbzdmS0d6dkJ2eXZ1eFI4THA4OV9FU2w3bl9WOURuUjNLZ3NRY3Zqa1IxZ1ZuR3d3NDBmSnVEVlZhcDNjMWZjR240SmtwNFVWd2piY0pDLV9qYURSdEpYTFM1Nl8zSXN2aU1hV0ltMzdXQ0VoUGVNa19lTVR4T1dzWVVFelhyX0d5RlQ1Rm5BX3dRS2ZMb2tDVEJxZ19YQlJGWUszeHR2QVhpTmwya3Qyb2ZSMGFMNmo1Vlo1bTJtZlE1RTRSWGpCUUhvRlpETmRZeHRVQmFHb0JPWDBBUm1QZkFsWU04M1ZCVUYwZzE4QjVseGZR?oc=5)
+
+---
+
+### [Cuál es el horario ideal para entrenar que se asocia a menor riesgo de obesidad y diabetes](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
+
+2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
+
+---
+
+### [Diseñan una nueva clase de células T con un mayor potencial antitumoral - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXhsZ19ZZHdUTHoyX0FVdU5BWVQ0aG5ManZiYTByTDd0UkJISHdSNDE5MFVSTkVabXVQdExQaFNpRFJYQy1tVi1JZE9mWDR2d3Y3Ty03bFphckcxcWE1V2VKZElFUXV6SWpxbjMxTEVpUHpYb05kNzl4cWIxMHBrUm1XRzZ6UnFLd2VZUkdKc3BteDlwNDBkMlBfMnJQdTlJT0hRQWVNZHpGY3RFTFkxcnhOcmVaN2tOVXk40gG2AUFVX3lxTE10aDlWbmtDNnpyd3NSa2lYekNWNzAzZDV0ekNaSEliZFpRblhjdE05eC1CVVVyQm43dWtOSmRRVHI0R2hKS3dxbHlBNGZJa1hoSzYxaXdnMWNLaWJwTF9KVHk2WG5BT0RtNWNSbElldXJ3alp1MHhhcEh4NGNOdnhrQUNIWkpDWWZlS0FzUmJqN25sTE5xdEUtaXZ2Z2wwdHdGQ3hIcXJKY21Ua2VwWjJJMFVkbWJ3?oc=5)
+
+2026-03-23 <span class="news-indication-tag">tumor</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXhsZ19ZZHdUTHoyX0FVdU5BWVQ0aG5ManZiYTByTDd0UkJISHdSNDE5MFVSTkVabXVQdExQaFNpRFJYQy1tVi1JZE9mWDR2d3Y3Ty03bFphckcxcWE1V2VKZElFUXV6SWpxbjMxTEVpUHpYb05kNzl4cWIxMHBrUm1XRzZ6UnFLd2VZUkdKc3BteDlwNDBkMlBfMnJQdTlJT0hRQWVNZHpGY3RFTFkxcnhOcmVaN2tOVXk40gG2AUFVX3lxTE10aDlWbmtDNnpyd3NSa2lYekNWNzAzZDV0ekNaSEliZFpRblhjdE05eC1CVVVyQm43dWtOSmRRVHI0R2hKS3dxbHlBNGZJa1hoSzYxaXdnMWNLaWJwTF9KVHk2WG5BT0RtNWNSbElldXJ3alp1MHhhcEh4NGNOdnhrQUNIWkpDWWZlS0FzUmJqN25sTE5xdEUtaXZ2Z2wwdHdGQ3hIcXJKY21Ua2VwWjJJMFVkbWJ3?oc=5)
+
+---
+
+### [Neuer Wirkstoff 60-mal effektiver gegen auslösendes Magenkrebs-Bakterium](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2lrektNbVBVenp5RGJwNDI1aXhUUEN6SHdFQTZncktCTURyTm5ObG4taGtvRWcxejU2MFNJMVA5NkQzeHVNVXVxS2ZJRVZfbU5tS002UTFlVEIzdk0ya0Q2SVNETV84QXNobDR5QVJyTEE1VVlVSDFQUDhUc2FMajZvTGpUSUpzWS1meWpieVlKZWN6RnVCMVdwbG1qU3pjUmZJaWxYWVBoRkF5MXN0ZUYtVWloNmpwVFR0X2NmcWlsT0FtRUJtNXBsaWYyY3M?oc=5)
+
+2026-03-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2lrektNbVBVenp5RGJwNDI1aXhUUEN6SHdFQTZncktCTURyTm5ObG4taGtvRWcxejU2MFNJMVA5NkQzeHVNVXVxS2ZJRVZfbU5tS002UTFlVEIzdk0ya0Q2SVNETV84QXNobDR5QVJyTEE1VVlVSDFQUDhUc2FMajZvTGpUSUpzWS1meWpieVlKZWN6RnVCMVdwbG1qU3pjUmZJaWxYWVBoRkF5MXN0ZUYtVWloNmpwVFR0X2NmcWlsT0FtRUJtNXBsaWYyY3M?oc=5)
+
+---
 
 ### [Rückfall auch nach 20 Jahren noch möglich: Neues Medikament senkt Risiko für tückischen Krebs deutlich - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVJBa1daUEdBcV9obkZkRlVzR3pGUHpVNDhXdUpqeWdxZ0QxWjlxcTBlbzRBSmwtZnozSlV0UktZQjBWSTFXcFVpRHJLeUlJZ002VjVGdkhkV0YwSDB0eFRaMlNuWDNzOTN2U1d6dUVySHVJSXVrcDdLS0d5WnBQTEFaYUNNYUE5R1p3OHQwMDlvYTVJVkZ1cFpRRWdUNHJ5RjRWckFB?oc=5)
 
 2026-03-23 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVJBa1daUEdBcV9obkZkRlVzR3pGUHpVNDhXdUpqeWdxZ0QxWjlxcTBlbzRBSmwtZnozSlV0UktZQjBWSTFXcFVpRHJLeUlJZ002VjVGdkhkV0YwSDB0eFRaMlNuWDNzOTN2U1d6dUVySHVJSXVrcDdLS0d5WnBQTEFaYUNNYUE5R1p3OHQwMDlvYTVJVkZ1cFpRRWdUNHJ5RjRWckFB?oc=5)
+
+---
+
+### [How POTATOES can make your bowel healthier: DR MICHAEL MOSLEY - Daily Mail](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjRDQXFqeHZRS0ZNTWU5UEx4aUZicHZqSmRjOVQwT25JN25JVzBkbWdLX2o4X1lzY0V6X0E3ZDFzMkNtWTEtcEp4SmhxZlc0SkNfUDBqWWRraGlCLW43NkVIWHU0LUViYlVYM1ZkZzlxSHV4Qk1iTThkald0aF9tTGlfMTdYUHE1a1NkRnFQcUVSelRSUTdGLU43Y3pnRzZVWnVXSDNfcFFFY1BhY3lOSE04S25jUm9EYnc?oc=5)
+
+2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjRDQXFqeHZRS0ZNTWU5UEx4aUZicHZqSmRjOVQwT25JN25JVzBkbWdLX2o4X1lzY0V6X0E3ZDFzMkNtWTEtcEp4SmhxZlc0SkNfUDBqWWRraGlCLW43NkVIWHU0LUViYlVYM1ZkZzlxSHV4Qk1iTThkald0aF9tTGlfMTdYUHE1a1NkRnFQcUVSelRSUTdGLU43Y3pnRzZVWnVXSDNfcFFFY1BhY3lOSE04S25jUm9EYnc?oc=5)
 
 ---
 
@@ -58,19 +114,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Studie zeigt langfristigen Schutz durch HPV Impfung](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJDNzJzMFRJQlFReWJMQ004M2R5cS1VS25INXMzMnhPczlhcUxuZE9zMTRHck1iUHY4cXU0UXp0MDlWOHRFalVpVHlHTnQtUUgyQjZkQ0JwZGFxWDZ6d18tbVJpcmhibnpIbTViVE1FeFcxbHVEWXpIN0Q2QVY5UjNjbmNkU2VLWUNidW0xU21MUWN1eTdLOHdmVQ?oc=5)
+### [Gelockerte Zähne aufgrund von Parodontitis – Schienung oder Extraktion? - ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
 
-2026-03-23 <span class="news-indication-tag">Krebs</span>
+2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[dortmund-app.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVJDNzJzMFRJQlFReWJMQ004M2R5cS1VS25INXMzMnhPczlhcUxuZE9zMTRHck1iUHY4cXU0UXp0MDlWOHRFalVpVHlHTnQtUUgyQjZkQ0JwZGFxWDZ6d18tbVJpcmhibnpIbTViVE1FeFcxbHVEWXpIN0Q2QVY5UjNjbmNkU2VLWUNidW0xU21MUWN1eTdLOHdmVQ?oc=5)
-
----
-
-### [Diabetes: fraudes glucómetros no invasivos - Somos Pacientes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFhYZWNRRjBPYlBmVHFoQy1HdnRPWEVQamsxd3F6TjRBdzlEaEs4RDRqZFZyVWk1dGU3bWlvNV9QV1JiUTA0SFZEMHFyaFBFc0JDNGhPZVBXbWlyVmY3cWVOZU1BVUF6cU5fVzcza1RFbkZaRlFHaDY0by1XbC1UOEVidzFlUXlZLWQ1WkdSSFJ0QUk0MV9UbWtmQmVqQlctYTR5UU1YQWxWQTQ5LTZ5WVM2VVc3Zw?oc=5)
-
-2026-03-23 <span class="news-indication-tag">diabetes</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFhYZWNRRjBPYlBmVHFoQy1HdnRPWEVQamsxd3F6TjRBdzlEaEs4RDRqZFZyVWk1dGU3bWlvNV9QV1JiUTA0SFZEMHFyaFBFc0JDNGhPZVBXbWlyVmY3cWVOZU1BVUF6cU5fVzcza1RFbkZaRlFHaDY0by1XbC1UOEVidzFlUXlZLWQ1WkdSSFJ0QUk0MV9UbWtmQmVqQlctYTR5UU1YQWxWQTQ5LTZ5WVM2VVc3Zw?oc=5)
+來源：[ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
 
 ---
 
@@ -90,6 +138,14 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Dépistage du cancer du sein lundi - Midi Libre](https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3U4TjJGbjlYc1lKOE0wT2xWRkszdy1ReE1kQVkzZ3JjcGw5Q0otaW9PcVdmTnV3c2Z3bnBoYmlKLVhnOVVVVGtZZkw5ZHZGRV9UUlBXd2stMXpPY0sySXFVaXYyR3lDc01pZVdNZXNMQ1VDWkZHbXNoUllJMnhGQ29DeVJ2R2d3YVE?oc=5)
+
+2026-03-23 <span class="news-indication-tag">cancer</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3U4TjJGbjlYc1lKOE0wT2xWRkszdy1ReE1kQVkzZ3JjcGw5Q0otaW9PcVdmTnV3c2Z3bnBoYmlKLVhnOVVVVGtZZkw5ZHZGRV9UUlBXd2stMXpPY0sySXFVaXYyR3lDc01pZVdNZXNMQ1VDWkZHbXNoUllJMnhGQ29DeVJ2R2d3YVE?oc=5)
+
+---
+
 ### [Un ensayo liderado por españoles revela que un nuevo medicamento logra frenar el avance de tumores neuroendocrinos - El Confidencial](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2NvdnVBZkZGVjZjYnlxeXRxc21qaEFOSnZrVlFqclBMeW5IZlg0d0VxdVgwVkxaNjlkZnJLNW9JcFhEZ1NBWG9NbmZOejI5aERDV1FRNngyUk9XWkZ5ZHI2SWxsRTFQOHczRWxWRzVGV3NDWmxuMFV6dk1yaE50ZXZuMk9wbmltLVhIMDducWJla3NzNjdmVl9UZWlfSFZaeVVPX3lhdGlzZ2JUeFhBVlBhWlhaN1ljaVQwcWNVYTNldw?oc=5)
 
 2026-03-23 <span class="news-drug-tag">Axitinib</span> <span class="news-indication-tag">tumor</span>
@@ -98,19 +154,19 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [El hallazgo que cambia la visión del cáncer: un potente antioxidante alimenta las células cancerosas - El Debate](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNHNCMGZiMl8zT2NqOVdaOTJfM3RrTVEyalpYSUQzMnFfNXI5Q3k2YVE0cE9tZG9OWlNaNHcwQmMyaEZjemFCYkRldnJjbWhja2VWdXF1M3E3RnFsNEZtbFFhSkdrRUl5VmgyUjRaZmw3RlFhQnRyQ3B1aW5qaTBVMGJrNGl4T3habloxNmNyN0Vyd3VXbDJSalVpa2JZSjhRWWxoS1NCbXMyNXRIUUJTZWozemZlaVJBN3NwSkVCeDA1Nzg1Y3F0TjJLZTc0LWgxNVhPakFOV1NTYzhGeGVnMmVR0gHnAUFVX3lxTE5LbldocVlSYkJPa0g1WDRpaW5sRC1menRqTkptTXJ5VnhJMDM0Qm9fd2l4LWtQcGpNSWFBZHEwRVpKOWtpTlJNZ1BzWFBzZlBWcHZETmxEa0VFbzQ1VlpoOHRlbm5KZHI3akFBUGpuSkhhcl94UTQzRy1vRnY3MkdwbUl0VGVneklWWWJueG9tX2hVd2g4RFZLdWJ5bnh5eHJObFdPdmFMZmFWaUhOODVYY1piTGlPSUo5RVBfbHJBN1FKeGhDcVpXX3dJRDJ0YmxULVl6UzNxcnVsc2ItTnFaN2RZemhjUQ?oc=5)
-
-2026-03-23 <span class="news-indication-tag">cancer</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNHNCMGZiMl8zT2NqOVdaOTJfM3RrTVEyalpYSUQzMnFfNXI5Q3k2YVE0cE9tZG9OWlNaNHcwQmMyaEZjemFCYkRldnJjbWhja2VWdXF1M3E3RnFsNEZtbFFhSkdrRUl5VmgyUjRaZmw3RlFhQnRyQ3B1aW5qaTBVMGJrNGl4T3habloxNmNyN0Vyd3VXbDJSalVpa2JZSjhRWWxoS1NCbXMyNXRIUUJTZWozemZlaVJBN3NwSkVCeDA1Nzg1Y3F0TjJLZTc0LWgxNVhPakFOV1NTYzhGeGVnMmVR0gHnAUFVX3lxTE5LbldocVlSYkJPa0g1WDRpaW5sRC1menRqTkptTXJ5VnhJMDM0Qm9fd2l4LWtQcGpNSWFBZHEwRVpKOWtpTlJNZ1BzWFBzZlBWcHZETmxEa0VFbzQ1VlpoOHRlbm5KZHI3akFBUGpuSkhhcl94UTQzRy1vRnY3MkdwbUl0VGVneklWWWJueG9tX2hVd2g4RFZLdWJ5bnh5eHJObFdPdmFMZmFWaUhOODVYY1piTGlPSUo5RVBfbHJBN1FKeGhDcVpXX3dJRDJ0YmxULVl6UzNxcnVsc2ItTnFaN2RZemhjUQ?oc=5)
-
----
-
 ### [A lysosome switch could reshape research on cancer and neurodegenerative disease](https://news.google.com/rss/articles/CBMijAFBVV95cUxPa01FVjlmVnZZVzAyMnZaazdyRUpPRFFjem1fZGlrakxCTVRWajR5MkNqZjdjVjhJZDRnOUMwcFpEaDJVU0l3X2JNSmYxYXhYdUpaNDR2UjRzTVJDTXozRVpDQzVkanFwbG16SFN2Z1Fia3pSaTNSSkxKaDU5Wl9KU1F1cXUwYlVfR3dXLQ?oc=5)
 
 2026-03-22 <span class="news-indication-tag">cancer</span>
 
 來源：[Phys.org](https://news.google.com/rss/articles/CBMijAFBVV95cUxPa01FVjlmVnZZVzAyMnZaazdyRUpPRFFjem1fZGlrakxCTVRWajR5MkNqZjdjVjhJZDRnOUMwcFpEaDJVU0l3X2JNSmYxYXhYdUpaNDR2UjRzTVJDTXozRVpDQzVkanFwbG16SFN2Z1Fia3pSaTNSSkxKaDU5Wl9KU1F1cXUwYlVfR3dXLQ?oc=5)
+
+---
+
+### [Avance científico: Editan las células inmunes dentro del cuerpo para que ataquen tumores](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRTZwN1dBNU1uQTVRbG8wbFoyS1J4S2VOTGozUmx1a2dtMUxvTzNPRDZIemo4Z3BGLWhqaklHVWVETEhVX1c3YjVzXzlvbkNmQldSYlNtWjlxQ2Z5d3hOcW9FR1dLZHhTLU1mS2tPSXh0Y3dYVnR3ckg3ZEV1azczQXhkejFKejlsdGstTDUxMUJiVVFaa2FYLXhHXzEwR2Q2dDFqc3VFWlJWcFlsbnYwQ1ZreGVXTGF6ejU1ZUQya2psN1Z3aWdkTHZ2TnBMd9IB0wFBVV95cUxNclpRYzhQakZZbzhTTk10QUtHS3M2VzRjcVpXdzNNU3dQZ0xYaWlRZDdpNllhTXlxdnBNRHloX1I3MmgzR2VFY1ZkNXV0SWktbndFMlotZlhYMjVzM0F3SU5DZS0ydERrbFBTZVdzczBWV3lSX2t5UXRYWENwSXVQOUJ0NDRhUmJ1MTJ6dW9RY2o0OXRUQmZoMmo5XzVqM0RXT0JRc1ZqVlNOSHItdXlWdjhrTmxsaEZyRTBDdXhRbHN3RmpraVBUR3JWc19WLXcybXFR?oc=5)
+
+2026-03-22 <span class="news-indication-tag">tumor</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRTZwN1dBNU1uQTVRbG8wbFoyS1J4S2VOTGozUmx1a2dtMUxvTzNPRDZIemo4Z3BGLWhqaklHVWVETEhVX1c3YjVzXzlvbkNmQldSYlNtWjlxQ2Z5d3hOcW9FR1dLZHhTLU1mS2tPSXh0Y3dYVnR3ckg3ZEV1azczQXhkejFKejlsdGstTDUxMUJiVVFaa2FYLXhHXzEwR2Q2dDFqc3VFWlJWcFlsbnYwQ1ZreGVXTGF6ejU1ZUQya2psN1Z3aWdkTHZ2TnBMd9IB0wFBVV95cUxNclpRYzhQakZZbzhTTk10QUtHS3M2VzRjcVpXdzNNU3dQZ0xYaWlRZDdpNllhTXlxdnBNRHloX1I3MmgzR2VFY1ZkNXV0SWktbndFMlotZlhYMjVzM0F3SU5DZS0ydERrbFBTZVdzczBWV3lSX2t5UXRYWENwSXVQOUJ0NDRhUmJ1MTJ6dW9RY2o0OXRUQmZoMmo5XzVqM0RXT0JRc1ZqVlNOSHItdXlWdjhrTmxsaEZyRTBDdXhRbHN3RmpraVBUR3JWc19WLXcybXFR?oc=5)
 
 ---
 
@@ -127,14 +183,6 @@ permalink: /news/tafasitamab/
 2026-03-22 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
-
----
-
-### [Ha una pulsazione all’orecchio: i medici scoprono quattro tumori al cervello - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenRWTjlmZXZvWnRZYU41NjFKY2s2Y1I1bVV6VVRIN2RsNVBnUzA4b3RXM21yQkdJZGlpeFRhdmZRVnd0VEt3UGpUWWZSRTdaSnpGR0FIWFF2Mndzb1ladUxMSWMyaG1kUTJTb3Jwa3BPYU92YUg0eXZGV1F1bmU3MFpKWUtfMHR5MXQwUS1JbERfSTRPa0hWTC1FVzJ3ckZTbzhwOWtaNmk1dTBRQmxYdWl3TWlaTlh4MTBQMlpqLXdabndXVlE0MWFfR1p6dTZ1RlVIclJmOEFiZw?oc=5)
-
-2026-03-22 <span class="news-indication-tag">tumor</span>
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenRWTjlmZXZvWnRZYU41NjFKY2s2Y1I1bVV6VVRIN2RsNVBnUzA4b3RXM21yQkdJZGlpeFRhdmZRVnd0VEt3UGpUWWZSRTdaSnpGR0FIWFF2Mndzb1ladUxMSWMyaG1kUTJTb3Jwa3BPYU92YUg0eXZGV1F1bmU3MFpKWUtfMHR5MXQwUS1JbERfSTRPa0hWTC1FVzJ3ckZTbzhwOWtaNmk1dTBRQmxYdWl3TWlaTlh4MTBQMlpqLXdabndXVlE0MWFfR1p6dTZ1RlVIclJmOEFiZw?oc=5)
 
 ---
 
@@ -162,11 +210,27 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Macmillan cancer charity to prioritise welfare support for LGBT and ethnic minorities - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWh2NlUxWi1LdmlZNDBBTWZPcFVmMF9zanlFeTVuUVVBb1hxbXZJRHhpTHJ4bmNjWTU1Z2JnbmlIWlpzdXBPVUZCdm44bFdVZUtVbnd0MTB2ODNFM3Z5SUdwXzhfUjdGR1F6YnRqQ2pITEZjb0hYclNVeVlYUzBYZzdRaEZzcXFzb2kxQmxtOEFBbk81ZENENEZ3Qy0yU1k5c3c?oc=5)
+
+2026-03-22 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWh2NlUxWi1LdmlZNDBBTWZPcFVmMF9zanlFeTVuUVVBb1hxbXZJRHhpTHJ4bmNjWTU1Z2JnbmlIWlpzdXBPVUZCdm44bFdVZUtVbnd0MTB2ODNFM3Z5SUdwXzhfUjdGR1F6YnRqQ2pITEZjb0hYclNVeVlYUzBYZzdRaEZzcXFzb2kxQmxtOEFBbk81ZENENEZ3Qy0yU1k5c3c?oc=5)
+
+---
+
 ### [Ni génétique, ni malchance : voici ce qui explique vraiment la majorité des cancers colorectaux - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORHBLam9IMkRBbUt5NkVUS2lwWUZrdkV1QlhGU2wxMHFWOHhIM1I1dm9hclpaWi1QVElxdHRxZzctMVM5N21uOFVKMktmOGpPbURTclQ5MUVhQjVaZ0VxYmdXNVZuNDljVnJTemlmMXFtWFZmNXhTZ2FXYU42T3hIdWgwWXF6MXJmOFF1MlQ4a19wZnFlTFhtNURPaVJTV0kwN0pHSG5IN2d5MGtxazVPcmdlQTZnd1F3ZUxsOEZ4dGtKRHFnZTVITlVNYW51SjV5M0xKNS1fZVFQcVQxMk1QQkJn?oc=5)
 
 2026-03-22 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORHBLam9IMkRBbUt5NkVUS2lwWUZrdkV1QlhGU2wxMHFWOHhIM1I1dm9hclpaWi1QVElxdHRxZzctMVM5N21uOFVKMktmOGpPbURTclQ5MUVhQjVaZ0VxYmdXNVZuNDljVnJTemlmMXFtWFZmNXhTZ2FXYU42T3hIdWgwWXF6MXJmOFF1MlQ4a19wZnFlTFhtNURPaVJTV0kwN0pHSG5IN2d5MGtxazVPcmdlQTZnd1F3ZUxsOEZ4dGtKRHFnZTVITlVNYW51SjV5M0xKNS1fZVFQcVQxMk1QQkJn?oc=5)
+
+---
+
+### [Milano, al Niguarda due nuovi dispositivi per testare il rischio di diabete - Il Gazzettino Metropolitano](https://news.google.com/rss/articles/CBMie0FVX3lxTE43cnd5VlZoZW5vNlNSTnB1eThWZ2JCLWFxR2JHMWxicUJEZXFoSFpvOGZfeWZtUTd0ZHZ5dnVPeGF5LWNiREE1SXp2SDdiWVVLaVJwd3Q4OVZCWW5Bdm45UGQtdnBtTDlyR21uXzBBZ21WZ25uNDZHNV9zOA?oc=5)
+
+2026-03-22 <span class="news-indication-tag">diabete</span>
+
+來源：[Il Gazzettino Metropolitano](https://news.google.com/rss/articles/CBMie0FVX3lxTE43cnd5VlZoZW5vNlNSTnB1eThWZ2JCLWFxR2JHMWxicUJEZXFoSFpvOGZfeWZtUTd0ZHZ5dnVPeGF5LWNiREE1SXp2SDdiWVVLaVJwd3Q4OVZCWW5Bdm45UGQtdnBtTDlyR21uXzBBZ21WZ25uNDZHNV9zOA?oc=5)
 
 ---
 

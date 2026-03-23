@@ -14,7 +14,7 @@ permalink: /news/atosiban-as-acetate/
 ---
 
 <p class="key-answer" data-question="Atosiban (As Acetate) 有什麼相關新聞？">
-<strong>Atosiban (As Acetate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Atosiban (As Acetate)</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ permalink: /news/atosiban-as-acetate/
 <p><a href="{{ '/drugs/atosiban-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Early Menopause Linked to 40% Higher Risk of Cardiovascular Disease](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
-
-2026-03-21 <span class="news-indication-tag">heart disease</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/repaglinide/
 ---
 
 <p class="key-answer" data-question="Repaglinide 有什麼相關新聞？">
-<strong>Repaglinide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Repaglinide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ permalink: /news/repaglinide/
 <p><a href="{{ '/drugs/repaglinide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（8 則）
 
-### [Diabetes: fraudes glucómetros no invasivos - Somos Pacientes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFhYZWNRRjBPYlBmVHFoQy1HdnRPWEVQamsxd3F6TjRBdzlEaEs4RDRqZFZyVWk1dGU3bWlvNV9QV1JiUTA0SFZEMHFyaFBFc0JDNGhPZVBXbWlyVmY3cWVOZU1BVUF6cU5fVzcza1RFbkZaRlFHaDY0by1XbC1UOEVidzFlUXlZLWQ1WkdSSFJ0QUk0MV9UbWtmQmVqQlctYTR5UU1YQWxWQTQ5LTZ5WVM2VVc3Zw?oc=5)
+### [“La detección precoz es clave en el manejo de la diabetes tipo 1; permite intervenir antes del debut clínico y las complicaciones asociadas”](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZEtCNEZfbzdmS0d6dkJ2eXZ1eFI4THA4OV9FU2w3bl9WOURuUjNLZ3NRY3Zqa1IxZ1ZuR3d3NDBmSnVEVlZhcDNjMWZjR240SmtwNFVWd2piY0pDLV9qYURSdEpYTFM1Nl8zSXN2aU1hV0ltMzdXQ0VoUGVNa19lTVR4T1dzWVVFelhyX0d5RlQ1Rm5BX3dRS2ZMb2tDVEJxZ19YQlJGWUszeHR2QVhpTmwya3Qyb2ZSMGFMNmo1Vlo1bTJtZlE1RTRSWGpCUUhvRlpETmRZeHRVQmFHb0JPWDBBUm1QZkFsWU04M1ZCVUYwZzE4QjVseGZR?oc=5)
 
 2026-03-23 <span class="news-indication-tag">diabetes</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFhYZWNRRjBPYlBmVHFoQy1HdnRPWEVQamsxd3F6TjRBdzlEaEs4RDRqZFZyVWk1dGU3bWlvNV9QV1JiUTA0SFZEMHFyaFBFc0JDNGhPZVBXbWlyVmY3cWVOZU1BVUF6cU5fVzcza1RFbkZaRlFHaDY0by1XbC1UOEVidzFlUXlZLWQ1WkdSSFJ0QUk0MV9UbWtmQmVqQlctYTR5UU1YQWxWQTQ5LTZ5WVM2VVc3Zw?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZEtCNEZfbzdmS0d6dkJ2eXZ1eFI4THA4OV9FU2w3bl9WOURuUjNLZ3NRY3Zqa1IxZ1ZuR3d3NDBmSnVEVlZhcDNjMWZjR240SmtwNFVWd2piY0pDLV9qYURSdEpYTFM1Nl8zSXN2aU1hV0ltMzdXQ0VoUGVNa19lTVR4T1dzWVVFelhyX0d5RlQ1Rm5BX3dRS2ZMb2tDVEJxZ19YQlJGWUszeHR2QVhpTmwya3Qyb2ZSMGFMNmo1Vlo1bTJtZlE1RTRSWGpCUUhvRlpETmRZeHRVQmFHb0JPWDBBUm1QZkFsWU04M1ZCVUYwZzE4QjVseGZR?oc=5)
+
+---
+
+### [Cuál es el horario ideal para entrenar que se asocia a menor riesgo de obesidad y diabetes](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
+
+2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
+
+---
+
+### [How POTATOES can make your bowel healthier: DR MICHAEL MOSLEY - Daily Mail](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjRDQXFqeHZRS0ZNTWU5UEx4aUZicHZqSmRjOVQwT25JN25JVzBkbWdLX2o4X1lzY0V6X0E3ZDFzMkNtWTEtcEp4SmhxZlc0SkNfUDBqWWRraGlCLW43NkVIWHU0LUViYlVYM1ZkZzlxSHV4Qk1iTThkald0aF9tTGlfMTdYUHE1a1NkRnFQcUVSelRSUTdGLU43Y3pnRzZVWnVXSDNfcFFFY1BhY3lOSE04S25jUm9EYnc?oc=5)
+
+2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjRDQXFqeHZRS0ZNTWU5UEx4aUZicHZqSmRjOVQwT25JN25JVzBkbWdLX2o4X1lzY0V6X0E3ZDFzMkNtWTEtcEp4SmhxZlc0SkNfUDBqWWRraGlCLW43NkVIWHU0LUViYlVYM1ZkZzlxSHV4Qk1iTThkald0aF9tTGlfMTdYUHE1a1NkRnFQcUVSelRSUTdGLU43Y3pnRzZVWnVXSDNfcFFFY1BhY3lOSE04S25jUm9EYnc?oc=5)
+
+---
+
+### [Gelockerte Zähne aufgrund von Parodontitis – Schienung oder Extraktion? - ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
+
+2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
 
 ---
 
@@ -63,6 +87,14 @@ permalink: /news/repaglinide/
 2026-03-22 <span class="news-indication-tag">diabète</span>
 
 來源：[parismatch.be](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOejlfR213SVNiT0JYSmxKM3o1THk0cDgweS1fQnFQaFA4RWVtWHRCMHJieUpBMUlTNThfbjE2ZHF2UjZjekhvM1N5Ni1jeEo4cml2Q2tkSEVUbEhnbVBIUWlVMFUwMnVmamZBd1pMMEpNd2p5andvcDBVSDVVczI5N19xMUhlOVliRFJseGxnOUF0Yy0zQ1NodkFjd0oydjVIcE45MVl5bDliNzRBeDlPcmlIa01jb1VYM3lNd3U0OEpOblNnU0NmWjVXWl9wT1I0enFqaW1zT05VS3VJVURuNzlmNVk5NnNWR3BLcQ?oc=5)
+
+---
+
+### [Milano, al Niguarda due nuovi dispositivi per testare il rischio di diabete - Il Gazzettino Metropolitano](https://news.google.com/rss/articles/CBMie0FVX3lxTE43cnd5VlZoZW5vNlNSTnB1eThWZ2JCLWFxR2JHMWxicUJEZXFoSFpvOGZfeWZtUTd0ZHZ5dnVPeGF5LWNiREE1SXp2SDdiWVVLaVJwd3Q4OVZCWW5Bdm45UGQtdnBtTDlyR21uXzBBZ21WZ25uNDZHNV9zOA?oc=5)
+
+2026-03-22 <span class="news-indication-tag">diabete</span>
+
+來源：[Il Gazzettino Metropolitano](https://news.google.com/rss/articles/CBMie0FVX3lxTE43cnd5VlZoZW5vNlNSTnB1eThWZ2JCLWFxR2JHMWxicUJEZXFoSFpvOGZfeWZtUTd0ZHZ5dnVPeGF5LWNiREE1SXp2SDdiWVVLaVJwd3Q4OVZCWW5Bdm45UGQtdnBtTDlyR21uXzBBZ21WZ25uNDZHNV9zOA?oc=5)
 
 ---
 

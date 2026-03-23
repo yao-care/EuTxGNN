@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [La microbiota intestinal puede actuar como mediador entre la dieta y la depresión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVExPT0dhd3dNa0tkSnBTb24xaEdPemFCc3ZQeDk4QnVQWE1Ec2NWdE9fYzRqT1hVNGlnSkhLQUFkbnhyaUd3ZW5yQzZ3TFkyLUVOMmVJNG5GOUVPNGhTcjNDWENLLWV1S3RISUJsY3cwdEhhNWVXYTVGQWF4UHgzV2pYQV80R1JNOHNtN20ybkhxU1RyVEVrYm9nWdIBmwFBVV95cUxOS0I0S3lZX1U4dndzUlhSd2JBY19JZVM1LXFKWjRTUC1LVGhHd1gtY1A0YUhwTDNZYnJZakM5alZPVEVlTGlzSXB1cmN4MjFRRTl1a1FzeWdxTy1ZWjlSRHkyblRySnpDajlXMkFXR3pUM2Z2SmlITVRwYXBoTWNyeGVkeEZ4YkRWTDhYM1Y2SGFfLS1MM3hhRm1sYw?oc=5)
 
@@ -55,6 +55,14 @@ permalink: /news/esketamine-hydrochloride/
 2026-03-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDc2VjdHcmwwaWhOT2VhV0pJY3FJdnV1MG55ZjJqZmZDbmxCMHZxRXd5UFFKYVRBdUNxR2xWMkxLQ0E0emdEdWJPMk1qMWttR2RLSG5nODlNOTcwaDdtbHZKZW42YWxJcEhTaXpjUWctLUFGeHFCdWw3TncybmNfd1hmUUlHRGFIZGVaVkNWYw?oc=5)
+
+---
+
+### [Por qué el dolor crónico deprime a unos y a otros no: la ciencia por fin tiene respuesta](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTRiRnV6UTJ1Vk4wV0FxeFliTzRIZTRPSG1VczVkdWNUV3Q0MnF1a24wTVRxMGozUXpDWlpxdlJvVl9nSThXcHZfbnJYWWVZR2UyQlVDb2tCWHpUeWlBVDRhSW45M013UERnSzlUN1NMYlNnc0tIYTlxemJ3Y0x6eXVEZ0Y2M1NKTmFCU2FjUEhieWo3elN4RXNmc1lIWTBuZ1B0WU9GZTNEZGExNWVPbkM0M1BMcXFLblF5TzVDanFPSE5mc1E1NXAtNko?oc=5)
+
+2026-03-23 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTRiRnV6UTJ1Vk4wV0FxeFliTzRIZTRPSG1VczVkdWNUV3Q0MnF1a24wTVRxMGozUXpDWlpxdlJvVl9nSThXcHZfbnJYWWVZR2UyQlVDb2tCWHpUeWlBVDRhSW45M013UERnSzlUN1NMYlNnc0tIYTlxemJ3Y0x6eXVEZ0Y2M1NKTmFCU2FjUEhieWo3elN4RXNmc1lIWTBuZ1B0WU9GZTNEZGExNWVPbkM0M1BMcXFLblF5TzVDanFPSE5mc1E1NXAtNko?oc=5)
 
 ---
 

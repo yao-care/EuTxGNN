@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
+
+### [Doctor issues warning over food ‘worse than smoking’ that is leading cause of ‘early death’](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
+
+2026-03-23 <span class="news-indication-tag">stroke</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
+
+---
+
+### [Cuál es el horario ideal para entrenar que se asocia a menor riesgo de obesidad y diabetes](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
+
+2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
+
+---
 
 ### [Ein neuer Anfang nach dem Schlaganfall](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
 
 2026-03-23 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Evangelisch.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
+
+---
+
+### [Farmaci anti-obesità, aumenta il consumo in Trentino e si spende fino a 400 euro al mese. L'esperta: “Attenzione agli effetti collaterali. Senza terapia difficile mantenere il peso” - il Dolomiti](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWi1OejdPdHVBYi1iS0h6SlFtNWNhQXdNY28xREFqNl8wUzFrZldVUU0zQTg2OGdyNWRELXNqVGo0VmRIMVJqZHhNdUQtRlhpNm5DSlZTYUpvc2dWbGRIMTByTFNpWndPWGg1ZDlwSVlvMzcwbV9Gd0xoZ0kzdlNmOWdUQWpUYWpMN0xseUsyNDB6TTNBN1pmUXNwcnN5V0tYWG85RXVFQWtXWUZrdi1MQTYwNHlqZUxsVTZuRFM4Qlczd29aS1V3ZzZHNkZXSmxuWm9ua0I4NmxrWjg3dXZuOXhnWWNsZFlGc0dYbGtsT3UtZkZ3cEFZSXRJQndZcldxNUU5U2RzT0hUZE9DVF9iY0VEZ3EwdThSRWFOa0pTb2pjNEpaa2NHMkZ1SlJnNVVfYVhlR2dWM0c?oc=5)
+
+2026-03-23 <span class="news-indication-tag">obesità</span>
+
+來源：[il Dolomiti](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWi1OejdPdHVBYi1iS0h6SlFtNWNhQXdNY28xREFqNl8wUzFrZldVUU0zQTg2OGdyNWRELXNqVGo0VmRIMVJqZHhNdUQtRlhpNm5DSlZTYUpvc2dWbGRIMTByTFNpWndPWGg1ZDlwSVlvMzcwbV9Gd0xoZ0kzdlNmOWdUQWpUYWpMN0xseUsyNDB6TTNBN1pmUXNwcnN5V0tYWG85RXVFQWtXWUZrdi1MQTYwNHlqZUxsVTZuRFM4Qlczd29aS1V3ZzZHNkZXSmxuWm9ua0I4NmxrWjg3dXZuOXhnWWNsZFlGc0dYbGtsT3UtZkZ3cEFZSXRJQndZcldxNUU5U2RzT0hUZE9DVF9iY0VEZ3EwdThSRWFOa0pTb2pjNEpaa2NHMkZ1SlJnNVVfYVhlR2dWM0c?oc=5)
 
 ---
 

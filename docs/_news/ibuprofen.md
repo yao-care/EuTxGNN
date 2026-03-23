@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Doctor's warning to people taking Omeprazole or nasal decongestants - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2N4VTIwMTRUa0tqMV8xMjNFX3FDQmtlUGVuT0t2Zk45dTIxMUZMRU1XWXd2T2haMkM4Y2NVRXV2RlEwVTdLV1JFRXp1SkZpZVNMd1BkY3dXUDVLX3lRbUhoSHR2cnBXeDJwZVhKQUZOcDZ0M2VqWG1mUjZLcXR0Y0JTV2VkZEJJN1l6bFF0Z2tFOXF0cmc?oc=5)
-
-2026-03-21 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2N4VTIwMTRUa0tqMV8xMjNFX3FDQmtlUGVuT0t2Zk45dTIxMUZMRU1XWXd2T2haMkM4Y2NVRXV2RlEwVTdLV1JFRXp1SkZpZVNMd1BkY3dXUDVLX3lRbUhoSHR2cnBXeDJwZVhKQUZOcDZ0M2VqWG1mUjZLcXR0Y0JTV2VkZEJJN1l6bFF0Z2tFOXF0cmc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

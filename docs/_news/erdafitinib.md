@@ -42,11 +42,11 @@ permalink: /news/erdafitinib/
 
 ## 相關新聞（1 則）
 
-### [Early Menopause Linked to 40% Higher Risk of Cardiovascular Disease](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
+### [¿Qué tan bajo se puede llegar? Las cambiantes guías para el control de la presión arterial - KFF Health News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNlNFhqZm9EdFVHTUt2bjcxM0VWVDJsbl83ZGpZUDJBaUU3djNsT1B2ZG53bVBLcy1JeXFOdnROQ1FtMWl6emNuczZXWFctNW5DOWhId2I1R1M4QkV6ZHZGREg0ZEhxYU9yeWU2cG5McXp4Uk03bXJuZXUyS3h3Wkp3UVV3X3I5MFVsT1MtRE95STdjb0RHM3FVQk0zaVZGYjVwNlQxZThNejJPQTZyRnVMOU1QdWY1eDdESEgxQ2ZlbXllNk93?oc=5)
 
-2026-03-21 <span class="news-indication-tag">heart disease</span>
+2026-03-23 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVUpLVDd3OEtIR2ViWlk5bGVQUlR2c2l5STBCMFNKZXFpSm1tNTh4czNCemI3UmpTbE45dW03VWpjc2xidWdsZHYwYllrcTlSNTVPdWl3UldxSmx4UXNWbFlQbVpEeG5NdDZ2eXRaclVGVG0tWmFRNWxNZHlHT3FMT2RObERYT3JxQjdFTWN1NTN5aGs?oc=5)
+來源：[KFF Health News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNlNFhqZm9EdFVHTUt2bjcxM0VWVDJsbl83ZGpZUDJBaUU3djNsT1B2ZG53bVBLcy1JeXFOdnROQ1FtMWl6emNuczZXWFctNW5DOWhId2I1R1M4QkV6ZHZGREg0ZEhxYU9yeWU2cG5McXp4Uk03bXJuZXUyS3h3Wkp3UVV3X3I5MFVsT1MtRE95STdjb0RHM3FVQk0zaVZGYjVwNlQxZThNejJPQTZyRnVMOU1QdWY1eDdESEgxQ2ZlbXllNk93?oc=5)
 
 ---
 

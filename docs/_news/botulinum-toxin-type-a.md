@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,23 +40,9 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Un amplio estudio de imágenes cambia la comprensión de los orígenes del temblor de reposo en la enfermedad de Parkinson - Adamed TV](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaE0zYnBJT3FGTGJDNXlCYll4b084N3lWRzd3MEdFam51NXNsb1Ewem1hYlZfSWREQ2ZFVEphZUFyV29nN0Zsc0xPQi04QWh3Nl9xemROWGZ6V19MVHBTQWlndTVFbUxMemJsQ2NobDBvQ3lucDZYM3pZWTVUTnFCcTRfQ2Fqa3djVy05YnZXMkM5amFrVnBsS2hkOTdiNlNHUVF1NDczR24zQnVQa0x2NWZsVkE5VkdIWWhhMy1MUGUxSkdnQmp0djUta3hVeklXbzh6cnQwbG5UbExuYjhfY2pGV1QwSFh4Q1E?oc=5)
-
-2026-03-23 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Adamed TV](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaE0zYnBJT3FGTGJDNXlCYll4b084N3lWRzd3MEdFam51NXNsb1Ewem1hYlZfSWREQ2ZFVEphZUFyV29nN0Zsc0xPQi04QWh3Nl9xemROWGZ6V19MVHBTQWlndTVFbUxMemJsQ2NobDBvQ3lucDZYM3pZWTVUTnFCcTRfQ2Fqa3djVy05YnZXMkM5amFrVnBsS2hkOTdiNlNHUVF1NDczR24zQnVQa0x2NWZsVkE5VkdIWWhhMy1MUGUxSkdnQmp0djUta3hVeklXbzh6cnQwbG5UbExuYjhfY2pGV1QwSFh4Q1E?oc=5)
-
----
-
-### [Mejorar la comunicación médico-paciente para reconocer antes los síntomas del Parkinson - Revista Pharma Market](https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3JKbXVST0RtckZEM24tRzh0bW1uVWlXOFA2Rm43UWlfdGE0ZU1tZ2s1dkJ2LVE2aUpTLUtzWXBDUnhUMEg0bF84aHNkbkVkZ1hxY1dmcU1WeklWcUliMV9IbGE0ZEdwN2J1cXJmRk96STkyb2tzcEI1blkyUktzMFVWenlvZWQ3bU96ZjZUV09HRXA2NTBlZjk4dEtSZWVuSDhLYlVVN2FXaV90aEFMVQ?oc=5)
-
-2026-03-23 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3JKbXVST0RtckZEM24tRzh0bW1uVWlXOFA2Rm43UWlfdGE0ZU1tZ2s1dkJ2LVE2aUpTLUtzWXBDUnhUMEg0bF84aHNkbkVkZ1hxY1dmcU1WeklWcUliMV9IbGE0ZEdwN2J1cXJmRk96STkyb2tzcEI1blkyUktzMFVWenlvZWQ3bU96ZjZUV09HRXA2NTBlZjk4dEtSZWVuSDhLYlVVN2FXaV90aEFMVQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

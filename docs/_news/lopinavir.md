@@ -42,6 +42,14 @@ permalink: /news/lopinavir/
 
 ## 相關新聞（6 則）
 
+### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery - The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+
+2026-03-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+
+---
+
 ### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes - IPac Acuicultura](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcC1BNDN5ajN3REJPbzdhb0VsUnFWQ2EtZmF0RnF6ZEc3aWNNcUdzeENDNlV2V1NSNjRHNXpzTU9Kam5fYjlWN3BWVkJURGFjMFBxSU1KWl9Fc3k1dkZuMnlRRlk1OU1xMi05S0VzQzFXWG9kOUtudGZrZ0IxcWNtVw?oc=5)
 
 2026-03-23 <span class="news-indication-tag">hepatitis</span>
@@ -50,11 +58,11 @@ permalink: /news/lopinavir/
 
 ---
 
-### [Teen among patients at risk of HIV and Hepatitis after NHS hospital fitted braces with unsterilised equipment - GB News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUi13OXJDbk9RYWFqWlhIZmk2cEZJRHdTSmxjRzY4ZHh2SWp5aWtBZ1NEYVdINkZ5SW5hLTBqUW1lX25xUklEbkNzYldzb2FiTEhyME8yeWozdlI3RWxTV1lxdGJpMG1IczlGQWxveWVzQUFPTmZYcmZWV1NvU29SZzJqTElOTGF1a3UyaU5Lc2lVaGZwdmxvaXVkVFR6X1VpelZQYnNjc05LUXVIbTVMdjRxSXhfUWM2X3ZCclRLX2xpeWFfTTBjYnNn?oc=5)
+### [Pediatría propone tres cambios en el calendario vacunal ante el repunte de sarampión, hepatitis A y meningococo B - Gaceta de salud](https://news.google.com/rss/articles/CBMikwJBVV95cUxPeW5zSGFVanNiRGF5TUZMdXdVZXd3cTB2d1QzU0JHVlZNc3h3SG1qRHQwUjN3cl9MdGdaU1haTnpTNDNidEswWkVWMTR4NTNGRU1qSUd5akM5ZUFib0FzbUJxWkh5WEQyb0pXb3ZYYXJhX3FnMnItOG5EQWFvcXNwcG5CMUxCVTcwd012dnhTY1lfOXFUMmh2Y25WVjRLQ0hfb2JOajY2VFpqSFFsWmNrWllOeUxkcTFOejI0TGRsa2ttc0VCLXpSN3hVeEU4Q2dncTVQdk9SSFdLWE1jR192dVJnM2hqdENJTkJvaWhreFQyZmZweEF6R1dvdGFHeGQtaUE3MXMzaEFNbGdITDRmRjVDTQ?oc=5)
 
-2026-03-22 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-03-23 <span class="news-indication-tag">hepatitis</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUi13OXJDbk9RYWFqWlhIZmk2cEZJRHdTSmxjRzY4ZHh2SWp5aWtBZ1NEYVdINkZ5SW5hLTBqUW1lX25xUklEbkNzYldzb2FiTEhyME8yeWozdlI3RWxTV1lxdGJpMG1IczlGQWxveWVzQUFPTmZYcmZWV1NvU29SZzJqTElOTGF1a3UyaU5Lc2lVaGZwdmxvaXVkVFR6X1VpelZQYnNjc05LUXVIbTVMdjRxSXhfUWM2X3ZCclRLX2xpeWFfTTBjYnNn?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMikwJBVV95cUxPeW5zSGFVanNiRGF5TUZMdXdVZXd3cTB2d1QzU0JHVlZNc3h3SG1qRHQwUjN3cl9MdGdaU1haTnpTNDNidEswWkVWMTR4NTNGRU1qSUd5akM5ZUFib0FzbUJxWkh5WEQyb0pXb3ZYYXJhX3FnMnItOG5EQWFvcXNwcG5CMUxCVTcwd012dnhTY1lfOXFUMmh2Y25WVjRLQ0hfb2JOajY2VFpqSFFsWmNrWllOeUxkcTFOejI0TGRsa2ttc0VCLXpSN3hVeEU4Q2dncTVQdk9SSFdLWE1jR192dVJnM2hqdENJTkJvaWhreFQyZmZweEF6R1dvdGFHeGQtaUE3MXMzaEFNbGdITDRmRjVDTQ?oc=5)
 
 ---
 
@@ -66,27 +74,19 @@ permalink: /news/lopinavir/
 
 ---
 
+### [Bereits 150 Hepatitis-A-Fälle in Neapel - PULS 24](https://news.google.com/rss/articles/CBMiigFBVV95cUxPanRzNVVZRklRMWVPaFVtV21BTHlyLXlmVEJlS0FBb2hDSy1GMTFzTjUyUDFJQXJXNFhKU0xFdnhtYXJzeVA1S3lMLXZINkRUYm5GTS00bUhxRWRhaTdhZGNZMHFnZFk4aFBLMGVZVFd1RDdwbUdudk9uaV9HMHNpbVFOcTlBbjJRWlE?oc=5)
+
+2026-03-22 <span class="news-indication-tag">hepatitis</span>
+
+來源：[PULS 24](https://news.google.com/rss/articles/CBMiigFBVV95cUxPanRzNVVZRklRMWVPaFVtV21BTHlyLXlmVEJlS0FBb2hDSy1GMTFzTjUyUDFJQXJXNFhKU0xFdnhtYXJzeVA1S3lMLXZINkRUYm5GTS00bUhxRWRhaTdhZGNZMHFnZFk4aFBLMGVZVFd1RDdwbUdudk9uaV9HMHNpbVFOcTlBbjJRWlE?oc=5)
+
+---
+
 ### [Epatite A, denunciato un 73enne a Torre del Greco: in auto 25 kg di vongole veraci senza tracciabilità - Il Mattino](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXdfTTVTQUF6SEIzWEZmaU9XVF9XTnNFaFVUV1R1dnBHUy04RDFmaVU0cTNIS3M4Tmc5Szd6MjlWOTFEM3dVaG1vcm91TWZUczF6cnIxRnhfbzRKN0E5alpqQnRtTjJqM0xwQURjemIyUUViRkpKdlo3QXdjLTRaR3ZQbTFVSHNKNk1UMzhWeXh5QzhSSllkVmdReWlkRjc2NlJmRlNJdThtWHpTdW5pYy1RTzFNeWsyN3pES0w1WjBrVXFrTmRKbTRBeklTcnU1a0F5Q0ZTQmFHRHJEdEEtSUI0S1J5Z0xSSjVUVVRfYlA2VWtsZHdr0gHjAUFVX3lxTE9ndU5TUWlWQmVCVkdza1RnUnA4STVEakdoRkpSUmZVaUdNN3NFR2VIRnhfeGQ0dEtjWndNbUowVC1CZDc1WUlxOW5XVVZfUzV1cmIyM0dkSXZ6bVA2SDZ2b1ZqZHVsdjNPRE1XakZxNXlzZ1JMeURfQ0ljOHJSa21zVUgyS0RSRm92N2U5eDNwajlXLWFRYzZnZFEyUzZ1a2lzUWIwOW5oVVVYSE1ISUJKcW1KY1k4MlNpeXI0SzljWGJwS1lSWXl5bm1hS2VMN2RHVkRsN2JQZTE4dEFubkJVbEpr?oc=5)
 
 2026-03-22 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Mattino](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXdfTTVTQUF6SEIzWEZmaU9XVF9XTnNFaFVUV1R1dnBHUy04RDFmaVU0cTNIS3M4Tmc5Szd6MjlWOTFEM3dVaG1vcm91TWZUczF6cnIxRnhfbzRKN0E5alpqQnRtTjJqM0xwQURjemIyUUViRkpKdlo3QXdjLTRaR3ZQbTFVSHNKNk1UMzhWeXh5QzhSSllkVmdReWlkRjc2NlJmRlNJdThtWHpTdW5pYy1RTzFNeWsyN3pES0w1WjBrVXFrTmRKbTRBeklTcnU1a0F5Q0ZTQmFHRHJEdEEtSUI0S1J5Z0xSSjVUVVRfYlA2VWtsZHdr0gHjAUFVX3lxTE9ndU5TUWlWQmVCVkdza1RnUnA4STVEakdoRkpSUmZVaUdNN3NFR2VIRnhfeGQ0dEtjWndNbUowVC1CZDc1WUlxOW5XVVZfUzV1cmIyM0dkSXZ6bVA2SDZ2b1ZqZHVsdjNPRE1XakZxNXlzZ1JMeURfQ0ljOHJSa21zVUgyS0RSRm92N2U5eDNwajlXLWFRYzZnZFEyUzZ1a2lzUWIwOW5oVVVYSE1ISUJKcW1KY1k4MlNpeXI0SzljWGJwS1lSWXl5bm1hS2VMN2RHVkRsN2JQZTE4dEFubkJVbEpr?oc=5)
-
----
-
-### [Hepatitis-a explodiert in neapel: 180 fälle in tagen – austern-v...](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3VhMHprZ3FJVkZNY1hSazV6NTNPVWJLRlc5ODEtazJrZ3RfUDB3RTB2bnE2UkYwU1RPdWZ4dHdQVFVDWURhdW5McUpGRHZJRzd0NGphU01pSmJGOVRSV0pXWlpQMkRiY0dvX29zbGhBV1FIckhDRHpvNk9hMk0yc29yVTFtYXFPNUJIRXVuQjFET2NBUDl6dnBCOGJWQmRFN3JVTnVFNVhtamFSbGlNUlRrWVdkWnc?oc=5)
-
-2026-03-21 <span class="news-indication-tag">hepatitis</span>
-
-來源：[tsv-pelkum.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3VhMHprZ3FJVkZNY1hSazV6NTNPVWJLRlc5ODEtazJrZ3RfUDB3RTB2bnE2UkYwU1RPdWZ4dHdQVFVDWURhdW5McUpGRHZJRzd0NGphU01pSmJGOVRSV0pXWlpQMkRiY0dvX29zbGhBV1FIckhDRHpvNk9hMk0yc29yVTFtYXFPNUJIRXVuQjFET2NBUDl6dnBCOGJWQmRFN3JVTnVFNVhtamFSbGlNUlRrWVdkWnc?oc=5)
-
----
-
-### [Los pediatras recomiendan adelantar algunas vacunas por el repunte de casos - Canal Sur](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE1KMGdrV0ZkNW5NVUY2Nl84dWRwVzR2R3dLbEVBSC1udEVHRDdjQ2syc2hwem1OdVY3QTYxRy1wd0Z5N3M1MHVvOHhVdWNJQkhxWTFQdUNuSks1alY2TGpUWUV6NGxGTFNEQ3gxMHljcGkxXzRaWEg1c3RhVktfbWFTTE1jUmR4cnE4ZWh0QnZtdW81SjNZaHU5WkRCWEhhcDVnQkRjbU5yc2o2cHR0Q2dPVUFMTDhIQzlrd1BCbkFqY1NNRjlHTExuaw?oc=5)
-
-2026-03-21 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Canal Sur](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE1KMGdrV0ZkNW5NVUY2Nl84dWRwVzR2R3dLbEVBSC1udEVHRDdjQ2syc2hwem1OdVY3QTYxRy1wd0Z5N3M1MHVvOHhVdWNJQkhxWTFQdUNuSks1alY2TGpUWUV6NGxGTFNEQ3gxMHljcGkxXzRaWEg1c3RhVktfbWFTTE1jUmR4cnE4ZWh0QnZtdW81SjNZaHU5WkRCWEhhcDVnQkRjbU5yc2o2cHR0Q2dPVUFMTDhIQzlrd1BCbkFqY1NNRjlHTExuaw?oc=5)
 
 ---
 
