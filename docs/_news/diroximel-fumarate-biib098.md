@@ -14,7 +14,7 @@ permalink: /news/diroximel-fumarate-biib098/
 ---
 
 <p class="key-answer" data-question="Diroximel Fumarate (Biib098) 有什麼相關新聞？">
-<strong>Diroximel Fumarate (Biib098)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Diroximel Fumarate (Biib098)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/diroximel-fumarate-biib098/
 <p><a href="{{ '/drugs/diroximel-fumarate-biib098/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
 ### [Un estudio español muestra que la IA puede predecir resultados en edema macular diabético tras el tratamiento - Andalucía Información](https://news.google.com/rss/articles/CBMigAJBVV95cUxNcEJ6SVVyS0FZMTREdVUzZmoxUll2a1BtQTdVQkRZYnpMTTFLLU8yLXJXamw0V3Q0ZUUyc3p0T010R2ZDYW5pZnlQYWNXdUs1eDRxWW9DMDBBeFZNREg0Y2x1Wk5iMlE5bXM2UHJDSTV5SnVPeUQwTzZ5RnVmX0FISEFlWWRIOGE2ZnNuS1A2dms2S1VEdlNmWTEyZG1XMzI5dWxyQmVOVER5bWp0UEw0LW00YVNYenM3Y1VfTmVCRE85cUx0RlB4cUM1dlBXWDZ2WnZTNjFQUnRuNmZBbFpQQWNjbDV2MHBDOWlNR0dHYklMbnUySzNJenZ4NkpIR3RZ0gGGAkFVX3lxTE5IamJ3dVNqdDBseDZOcTdSWHVvYVViSzJVV2RDdzAzbDVRZV91eEozYTRUWWJFYTJVMERkbWc3WmNjT3lKMTl6aUJXTV9BZUlrNVpfTXFIbnlNSFNJYUplYTNWa1JPV1l6UTBQaFZLd0ZIQVR2X0ZVaHJTMm9LLTdDX3k0NjRnYTNYc01hQmpXdktlYV9PdTNMNlNYZk44QUFBUDRibVlPYXE0YU9tSjNLMTdrT1M1OW1jaVRMRHRzZ194Rkw2OHRBa2V5dzNGRzdXanNjTlZqREtNdmpVeVF6MUFVTjNFNl9JMDFpbEVkaUVWU3Y4cUViTjQzcDNrTTVobHFCTWc?oc=5)
 
@@ -55,14 +55,6 @@ permalink: /news/diroximel-fumarate-biib098/
 2026-03-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZEtCNEZfbzdmS0d6dkJ2eXZ1eFI4THA4OV9FU2w3bl9WOURuUjNLZ3NRY3Zqa1IxZ1ZuR3d3NDBmSnVEVlZhcDNjMWZjR240SmtwNFVWd2piY0pDLV9qYURSdEpYTFM1Nl8zSXN2aU1hV0ltMzdXQ0VoUGVNa19lTVR4T1dzWVVFelhyX0d5RlQ1Rm5BX3dRS2ZMb2tDVEJxZ19YQlJGWUszeHR2QVhpTmwya3Qyb2ZSMGFMNmo1Vlo1bTJtZlE1RTRSWGpCUUhvRlpETmRZeHRVQmFHb0JPWDBBUm1QZkFsWU04M1ZCVUYwZzE4QjVseGZR?oc=5)
-
----
-
-### [Cuál es el horario ideal para entrenar que se asocia a menor riesgo de obesidad y diabetes](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
-
-2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
 
 ---
 
@@ -95,14 +87,6 @@ permalink: /news/diroximel-fumarate-biib098/
 2026-03-22 <span class="news-indication-tag">diabete</span>
 
 來源：[Il Gazzettino Metropolitano](https://news.google.com/rss/articles/CBMie0FVX3lxTE43cnd5VlZoZW5vNlNSTnB1eThWZ2JCLWFxR2JHMWxicUJEZXFoSFpvOGZfeWZtUTd0ZHZ5dnVPeGF5LWNiREE1SXp2SDdiWVVLaVJwd3Q4OVZCWW5Bdm45UGQtdnBtTDlyR21uXzBBZ21WZ25uNDZHNV9zOA?oc=5)
-
----
-
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
-
-2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
 
 ---
 

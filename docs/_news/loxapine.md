@@ -52,7 +52,7 @@ permalink: /news/loxapine/
 
 ### ['I binged on cocaine and food 10 times a day, only one thing helped me kick my addictions' - Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
 
-2026-03-23 <span class="news-indication-tag">MS</span>
+2026-03-23 <span class="news-indication-tag">AF</span>
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
 
@@ -66,22 +66,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [Alerta por presencia de sildenafilo en complemento alimenticio. (Ref. ES2026/148)](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOF9pREFUT3RROGtteU8xZDZwa0xGRklrT2FaRV9PSWx1ZHBwV3hxaXRaVzNHMU9HM3FqcVo5QkM0bXdSSHYxTHQ2SmtYTFQtdXR0emZGdjQ5MjFDOUJnRWRXUi1XMjhLX0RJVTdWZ3l0U0dXZkpzcDhlV1hVcjhjbTRJWTZIbHloWU02NEdhN0dnNHBzcEE?oc=5)
-
-2026-03-23 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">AF</span>
-
-來源：[aesan.gob.es](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOF9pREFUT3RROGtteU8xZDZwa0xGRklrT2FaRV9PSWx1ZHBwV3hxaXRaVzNHMU9HM3FqcVo5QkM0bXdSSHYxTHQ2SmtYTFQtdXR0emZGdjQ5MjFDOUJnRWRXUi1XMjhLX0RJVTdWZ3l0U0dXZkpzcDhlV1hVcjhjbTRJWTZIbHloWU02NEdhN0dnNHBzcEE?oc=5)
-
----
-
-### [El tétanos regresa a Cataluña: un menor no vacunado, en estado crítico en la UCI](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSHA2NDFobE92eEhPajRuSmhxeWxvOHp0ZEM0YnN6ZkpaT1pEVXdRZzhXWGN3VUVnWnBCVDFGU3NTRTl5SGhKWFhuYVVhUHNNN290aWI0OVpRNkNHdzJtOHFMd0ZhNFBlWjlYeVJEbHRCcFBkLWlDeUF3M0VWb0NhR2lpV1AwNXhoWmJlSFZ0Wk1jMFVmMUhlZjFlVzJERnNLcUdTclhfRllIaUNnYUFvWFhaWFYtSGpzb1dvaXhPeGxuQdIBxwFBVV95cUxORVNqN3VicjJZY002YnhRaEM3U3luZ3QwUWpCX2RsZHpuVEFmMGJUNWlETVBsTDZTZDI4Z05lUHdKWUZVUmswR3FnZDZjcFdsUHlGUjhycWctbERVeTFIUEk5Q2Q0VnJiS2dxeU9TdzBIeUhfNElHdC1oQU42UklSdUR0UDR4blkxOFVNaVNvMU12bHlUdmxLVGhhS2sxbFYtSkNrVVNJMjYtc3NUMFlFbzItdkRFRy1KVnpYcXRKSDJMamItTU5v?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSHA2NDFobE92eEhPajRuSmhxeWxvOHp0ZEM0YnN6ZkpaT1pEVXdRZzhXWGN3VUVnWnBCVDFGU3NTRTl5SGhKWFhuYVVhUHNNN290aWI0OVpRNkNHdzJtOHFMd0ZhNFBlWjlYeVJEbHRCcFBkLWlDeUF3M0VWb0NhR2lpV1AwNXhoWmJlSFZ0Wk1jMFVmMUhlZjFlVzJERnNLcUdTclhfRllIaUNnYUFvWFhaWFYtSGpzb1dvaXhPeGxuQdIBxwFBVV95cUxORVNqN3VicjJZY002YnhRaEM3U3luZ3QwUWpCX2RsZHpuVEFmMGJUNWlETVBsTDZTZDI4Z05lUHdKWUZVUmswR3FnZDZjcFdsUHlGUjhycWctbERVeTFIUEk5Q2Q0VnJiS2dxeU9TdzBIeUhfNElHdC1oQU42UklSdUR0UDR4blkxOFVNaVNvMU12bHlUdmxLVGhhS2sxbFYtSkNrVVNJMjYtc3NUMFlFbzItdkRFRy1KVnpYcXRKSDJMamItTU5v?oc=5)
-
----
-
 ### [Die neue Fleckengruppe AR 14401 und AR 14402 am 23. März 2026 - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzZMbGh0WGRTWkZURENsVFNJVEFCdHh2Vmk4NmVxOWFiNUxINVJ6cUVkS2tValp5NE5YX0xVTUhaRGRHY0NvZnZaR21GN2dLN0MxTE5FRk03SEdwRmtXcGpYbUZhczViQW5lUUVrT2t5bkhLUHdxTUpoQk1ySlJNNk9hQXFLdnMtMk9PTzBNemlfcllSQk5PejdCbWpJOGE2Z3dCZnNxRG9NbEJ0TlJabDdpZTdrYWNqY1Fr?oc=5)
 
 2026-03-23 <span class="news-indication-tag">AF</span>
@@ -90,11 +74,27 @@ permalink: /news/loxapine/
 
 ---
 
-### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery - The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+### [GP surgery placed in special measures after patients 'at risk' - Swindon Advertiser](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0RvOXdaVWFoV1BoWUs5LWpEblh0YzJDcERiMG5OZkVsOVFVOXI2ejRZSFpnMEdJSmptbUFhSDRBN3phazI4UURVd3I4Q3pUT3g1azBCemotN3RhTXAwZkw4QWZfWHFlOHp1SjlxYWdJYVo4eDZYV09LLUJ3SlhZclRJNFhRLWhGOHQzYjktWHQwSlBzUExpYldJRG42WXpmVWVTTA?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[Swindon Advertiser](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0RvOXdaVWFoV1BoWUs5LWpEblh0YzJDcERiMG5OZkVsOVFVOXI2ejRZSFpnMEdJSmptbUFhSDRBN3phazI4UURVd3I4Q3pUT3g1azBCemotN3RhTXAwZkw4QWZfWHFlOHp1SjlxYWdJYVo4eDZYV09LLUJ3SlhZclRJNFhRLWhGOHQzYjktWHQwSlBzUExpYldJRG42WXpmVWVTTA?oc=5)
+
+---
+
+### [Urgent warning issued to dog owners after confirmed case of killer disease - Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSklNTjJPWVJqSklHUGIySmpPZ1dLVllycFdNcXZpNEdDTExYRHdnVTRILXFTN1dRbFp2R2FYRldGRzJabUpRU1JkZzRoT2ltQ2lUT01BaG9tQTV2M1RYemoxazh1XzNWci1Eb05Wb2dqbi1zc1NuNmhFLVo3anNRWnFiTkI0cWZNM3JQQmV5YXDSAZYBQVVfeXFMUFpvSnBiLXJWajFkbDBnZTZlR1BxNmtnUnhHS0JXeWllWVlDb2NKNFh5UXhDR1F1VjhUQkVJUWFWeU9kUWVvR2tLUmpORElTTXdhNVFGRVk3VjhrSkoySFd0QjkzczlnRFdBSWhJRllrSXBHbHBaS2VIR0p3Y1BNd3ZBdjllcGNsN1BOVWVoM1d3Y3VDeWh3?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSklNTjJPWVJqSklHUGIySmpPZ1dLVllycFdNcXZpNEdDTExYRHdnVTRILXFTN1dRbFp2R2FYRldGRzJabUpRU1JkZzRoT2ltQ2lUT01BaG9tQTV2M1RYemoxazh1XzNWci1Eb05Wb2dqbi1zc1NuNmhFLVo3anNRWnFiTkI0cWZNM3JQQmV5YXDSAZYBQVVfeXFMUFpvSnBiLXJWajFkbDBnZTZlR1BxNmtnUnhHS0JXeWllWVlDb2NKNFh5UXhDR1F1VjhUQkVJUWFWeU9kUWVvR2tLUmpORElTTXdhNVFGRVk3VjhrSkoySFd0QjkzczlnRFdBSWhJRllrSXBHbHBaS2VIR0p3Y1BNd3ZBdjllcGNsN1BOVWVoM1d3Y3VDeWh3?oc=5)
+
+---
+
+### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
 
 2026-03-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
 
 ---
 
@@ -106,14 +106,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [¿Qué tan bajo se puede llegar? Las cambiantes guías para el control de la presión arterial - KFF Health News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNlNFhqZm9EdFVHTUt2bjcxM0VWVDJsbl83ZGpZUDJBaUU3djNsT1B2ZG53bVBLcy1JeXFOdnROQ1FtMWl6emNuczZXWFctNW5DOWhId2I1R1M4QkV6ZHZGREg0ZEhxYU9yeWU2cG5McXp4Uk03bXJuZXUyS3h3Wkp3UVV3X3I5MFVsT1MtRE95STdjb0RHM3FVQk0zaVZGYjVwNlQxZThNejJPQTZyRnVMOU1QdWY1eDdESEgxQ2ZlbXllNk93?oc=5)
-
-2026-03-23 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
-
-來源：[KFF Health News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNlNFhqZm9EdFVHTUt2bjcxM0VWVDJsbl83ZGpZUDJBaUU3djNsT1B2ZG53bVBLcy1JeXFOdnROQ1FtMWl6emNuczZXWFctNW5DOWhId2I1R1M4QkV6ZHZGREg0ZEhxYU9yeWU2cG5McXp4Uk03bXJuZXUyS3h3Wkp3UVV3X3I5MFVsT1MtRE95STdjb0RHM3FVQk0zaVZGYjVwNlQxZThNejJPQTZyRnVMOU1QdWY1eDdESEgxQ2ZlbXllNk93?oc=5)
-
----
-
 ### [No new meningitis cases linked to Kent outbreak found, health agency says - The Guardian](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzBhdTNFa0JXaWV6M01JTkdXOHo2cWp2VWRKbzRBWEthT3FhbUxHMWtSVlAxb0lRTzNKYm5QV3NhbGVHdmp0cDlYSDdKbmNzX3BWa29kRDFEQ0xpWi1aOFlTMVFUMFpYa2pTb1JXN1RzVnBKejBlNGZHRVNzQ0JLZHhfbWcxRzN2WnJSdmZ6ZW5qbWlxY096Tm4zUjhZZWJ3YkF4eVZTOA?oc=5)
 
 2026-03-23 <span class="news-indication-tag">AF</span>
@@ -122,11 +114,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Girl, 2, diagnosed with DEMENTIA as mum & dad race against time to save her - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
+### [Girl, 2, diagnosed with DEMENTIA as mum & dad race against time to save her](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
 
 2026-03-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
 
 ---
 
@@ -135,6 +127,14 @@ permalink: /news/loxapine/
 2026-03-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDc2VjdHcmwwaWhOT2VhV0pJY3FJdnV1MG55ZjJqZmZDbmxCMHZxRXd5UFFKYVRBdUNxR2xWMkxLQ0E0emdEdWJPMk1qMWttR2RLSG5nODlNOTcwaDdtbHZKZW42YWxJcEhTaXpjUWctLUFGeHFCdWw3TncybmNfd1hmUUlHRGFIZGVaVkNWYw?oc=5)
+
+---
+
+### [Couples share 30% of their gut bacteria. Here’s how that may affect health - The Conversation](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU9ROGR0dW5rczVDM2pXZ3RDaTd0UnhGVVRMQm93Rk95dFRrcmlfdkMtbEFRQzB2ZDh6Q01DVFc5ZjZGNV9ENzhCNXdyN3RJUE1mXzJfeTh2U0k3NFB0WGs2SWVmM2F6WU5FbnBSUlZYbVVnMUlIejl4S1EwdFVmaW5oaGUzeVFiSmYweDdIaVJtalZreE9HLWo4eW12LXptS3JHelVmTk93dw?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU9ROGR0dW5rczVDM2pXZ3RDaTd0UnhGVVRMQm93Rk95dFRrcmlfdkMtbEFRQzB2ZDh6Q01DVFc5ZjZGNV9ENzhCNXdyN3RJUE1mXzJfeTh2U0k3NFB0WGs2SWVmM2F6WU5FbnBSUlZYbVVnMUlIejl4S1EwdFVmaW5oaGUzeVFiSmYweDdIaVJtalZreE9HLWo4eW12LXptS3JHelVmTk93dw?oc=5)
 
 ---
 
@@ -210,11 +210,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [TB in Ghana: Key figures and statistics revealed](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDIxYTVTRmszYmNWbUpUNF9uMXZTY2hKLWs0ZHQyODZ0VVVHZEs3d0JzLUk4dl8yZG1TY1MxSF9MZV82LWpBbnNTNlcydURrTVN2TDJ3cGZETjlIWkV4SlFvRFcyN0lGQ2ZSOEVaaENTZzdGMmJRdFE1dDdaWEZsR3dBYTNNb0NQeDBVMERScC1DLVBrTk1CeGYwZVRMa194N3JrTDhVS0s3QQ?oc=5)
+### [The mind-controlling zombie that makes our closest cousins seek out their own killers… and it could affect humans too - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTVtQmlDYkNYRDI1TlM1cERINDNDTFFNRHZMWHVxenhnd2JQWmFncmtTdG1EaGJqdjJ5YzlOeDU0Zzc2NVdkSnZ2dWxzU05WdXBON0tJRnkyUElkeVNUMjdaSUlyY1NTYVFNYUdFRmFiQmp2LVZfYjgzRm5IRGtuVjJOczBEZ1ozc3N3?oc=5)
 
 2026-03-22 <span class="news-indication-tag">AF</span>
 
-來源：[GhanaWeb](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDIxYTVTRmszYmNWbUpUNF9uMXZTY2hKLWs0ZHQyODZ0VVVHZEs3d0JzLUk4dl8yZG1TY1MxSF9MZV82LWpBbnNTNlcydURrTVN2TDJ3cGZETjlIWkV4SlFvRFcyN0lGQ2ZSOEVaaENTZzdGMmJRdFE1dDdaWEZsR3dBYTNNb0NQeDBVMERScC1DLVBrTk1CeGYwZVRMa194N3JrTDhVS0s3QQ?oc=5)
+來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTVtQmlDYkNYRDI1TlM1cERINDNDTFFNRHZMWHVxenhnd2JQWmFncmtTdG1EaGJqdjJ5YzlOeDU0Zzc2NVdkSnZ2dWxzU05WdXBON0tJRnkyUElkeVNUMjdaSUlyY1NTYVFNYUdFRmFiQmp2LVZfYjgzRm5IRGtuVjJOczBEZ1ozc3N3?oc=5)
 
 ---
 

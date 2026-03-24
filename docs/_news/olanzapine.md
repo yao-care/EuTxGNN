@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="Olanzapine 有什麼相關新聞？">
-<strong>Olanzapine</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Olanzapine</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,21 @@ permalink: /news/olanzapine/
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
+
+### ['I binged on cocaine and food 10 times a day, only one thing helped me kick my addictions' - Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
+
+---
 
 ### [Safran: Mehr als nur ein Gewürz - Superfood bei ADHS und Krebs?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjlmRk1PVVZnamFJWDVYczRTenZYWDA3RWVQSV9pOUNOTXVzckdTMFdvQkFhX2dEWW1GaE1oZ2J4NkJ0LWhBOXQwTmlRRFQ0MTVodXFlZUFWc19DVm9Oa2RqRXl5Vjl5TURsQkR0T2hYbkZhMzJfU2FJaTd5alBMc2JJSklYTV9CeF9DQi1BNERnVjliQmlLT2FvM0ljN1c0dFNGMExEa1oyQWVjOEZ2QXI3MXRaRzdPOXlDQ2pIUGNhM1VtVmdMUkFGNUJlQTMx?oc=5)
 
 2026-03-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjlmRk1PVVZnamFJWDVYczRTenZYWDA3RWVQSV9pOUNOTXVzckdTMFdvQkFhX2dEWW1GaE1oZ2J4NkJ0LWhBOXQwTmlRRFQ0MTVodXFlZUFWc19DVm9Oa2RqRXl5Vjl5TURsQkR0T2hYbkZhMzJfU2FJaTd5alBMc2JJSklYTV9CeF9DQi1BNERnVjliQmlLT2FvM0ljN1c0dFNGMExEa1oyQWVjOEZ2QXI3MXRaRzdPOXlDQ2pIUGNhM1VtVmdMUkFGNUJlQTMx?oc=5)
-
----
-
-### [Alerta por presencia de sildenafilo en complemento alimenticio. (Ref. ES2026/148)](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOF9pREFUT3RROGtteU8xZDZwa0xGRklrT2FaRV9PSWx1ZHBwV3hxaXRaVzNHMU9HM3FqcVo5QkM0bXdSSHYxTHQ2SmtYTFQtdXR0emZGdjQ5MjFDOUJnRWRXUi1XMjhLX0RJVTdWZ3l0U0dXZkpzcDhlV1hVcjhjbTRJWTZIbHloWU02NEdhN0dnNHBzcEE?oc=5)
-
-2026-03-23 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">AF</span>
-
-來源：[aesan.gob.es](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOF9pREFUT3RROGtteU8xZDZwa0xGRklrT2FaRV9PSWx1ZHBwV3hxaXRaVzNHMU9HM3FqcVo5QkM0bXdSSHYxTHQ2SmtYTFQtdXR0emZGdjQ5MjFDOUJnRWRXUi1XMjhLX0RJVTdWZ3l0U0dXZkpzcDhlV1hVcjhjbTRJWTZIbHloWU02NEdhN0dnNHBzcEE?oc=5)
 
 ---
 
@@ -66,11 +66,27 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery - The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+### [GP surgery placed in special measures after patients 'at risk' - Swindon Advertiser](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0RvOXdaVWFoV1BoWUs5LWpEblh0YzJDcERiMG5OZkVsOVFVOXI2ejRZSFpnMEdJSmptbUFhSDRBN3phazI4UURVd3I4Q3pUT3g1azBCemotN3RhTXAwZkw4QWZfWHFlOHp1SjlxYWdJYVo4eDZYV09LLUJ3SlhZclRJNFhRLWhGOHQzYjktWHQwSlBzUExpYldJRG42WXpmVWVTTA?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[Swindon Advertiser](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0RvOXdaVWFoV1BoWUs5LWpEblh0YzJDcERiMG5OZkVsOVFVOXI2ejRZSFpnMEdJSmptbUFhSDRBN3phazI4UURVd3I4Q3pUT3g1azBCemotN3RhTXAwZkw4QWZfWHFlOHp1SjlxYWdJYVo4eDZYV09LLUJ3SlhZclRJNFhRLWhGOHQzYjktWHQwSlBzUExpYldJRG42WXpmVWVTTA?oc=5)
+
+---
+
+### [Urgent warning issued to dog owners after confirmed case of killer disease - Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSklNTjJPWVJqSklHUGIySmpPZ1dLVllycFdNcXZpNEdDTExYRHdnVTRILXFTN1dRbFp2R2FYRldGRzJabUpRU1JkZzRoT2ltQ2lUT01BaG9tQTV2M1RYemoxazh1XzNWci1Eb05Wb2dqbi1zc1NuNmhFLVo3anNRWnFiTkI0cWZNM3JQQmV5YXDSAZYBQVVfeXFMUFpvSnBiLXJWajFkbDBnZTZlR1BxNmtnUnhHS0JXeWllWVlDb2NKNFh5UXhDR1F1VjhUQkVJUWFWeU9kUWVvR2tLUmpORElTTXdhNVFGRVk3VjhrSkoySFd0QjkzczlnRFdBSWhJRllrSXBHbHBaS2VIR0p3Y1BNd3ZBdjllcGNsN1BOVWVoM1d3Y3VDeWh3?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSklNTjJPWVJqSklHUGIySmpPZ1dLVllycFdNcXZpNEdDTExYRHdnVTRILXFTN1dRbFp2R2FYRldGRzJabUpRU1JkZzRoT2ltQ2lUT01BaG9tQTV2M1RYemoxazh1XzNWci1Eb05Wb2dqbi1zc1NuNmhFLVo3anNRWnFiTkI0cWZNM3JQQmV5YXDSAZYBQVVfeXFMUFpvSnBiLXJWajFkbDBnZTZlR1BxNmtnUnhHS0JXeWllWVlDb2NKNFh5UXhDR1F1VjhUQkVJUWFWeU9kUWVvR2tLUmpORElTTXdhNVFGRVk3VjhrSkoySFd0QjkzczlnRFdBSWhJRllrSXBHbHBaS2VIR0p3Y1BNd3ZBdjllcGNsN1BOVWVoM1d3Y3VDeWh3?oc=5)
+
+---
+
+### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
 
 2026-03-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
 
 ---
 
@@ -79,14 +95,6 @@ permalink: /news/olanzapine/
 2026-03-23 <span class="news-indication-tag">AF</span>
 
 來源：[Our World in Data](https://news.google.com/rss/articles/CBMibkFVX3lxTFBpRTlISk1RQlBpV0EyU2R3aDZra3Jpa0RKbjlMbzhrLUpLT3JCQUwwbS1MZjZVd3dCdzlqZjdUSkstZ3JEbU9EZlZvbW5qVWFmc25Cdlc4dG10d1k0VUxPUXhBRXBxdnh5ME5TdGhB?oc=5)
-
----
-
-### [¿Qué tan bajo se puede llegar? Las cambiantes guías para el control de la presión arterial - KFF Health News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNlNFhqZm9EdFVHTUt2bjcxM0VWVDJsbl83ZGpZUDJBaUU3djNsT1B2ZG53bVBLcy1JeXFOdnROQ1FtMWl6emNuczZXWFctNW5DOWhId2I1R1M4QkV6ZHZGREg0ZEhxYU9yeWU2cG5McXp4Uk03bXJuZXUyS3h3Wkp3UVV3X3I5MFVsT1MtRE95STdjb0RHM3FVQk0zaVZGYjVwNlQxZThNejJPQTZyRnVMOU1QdWY1eDdESEgxQ2ZlbXllNk93?oc=5)
-
-2026-03-23 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
-
-來源：[KFF Health News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNlNFhqZm9EdFVHTUt2bjcxM0VWVDJsbl83ZGpZUDJBaUU3djNsT1B2ZG53bVBLcy1JeXFOdnROQ1FtMWl6emNuczZXWFctNW5DOWhId2I1R1M4QkV6ZHZGREg0ZEhxYU9yeWU2cG5McXp4Uk03bXJuZXUyS3h3Wkp3UVV3X3I5MFVsT1MtRE95STdjb0RHM3FVQk0zaVZGYjVwNlQxZThNejJPQTZyRnVMOU1QdWY1eDdESEgxQ2ZlbXllNk93?oc=5)
 
 ---
 
@@ -106,11 +114,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Girl, 2, diagnosed with DEMENTIA as mum & dad race against time to save her - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
+### [Girl, 2, diagnosed with DEMENTIA as mum & dad race against time to save her](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
 
 2026-03-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
 
 ---
 
@@ -119,6 +127,14 @@ permalink: /news/olanzapine/
 2026-03-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDc2VjdHcmwwaWhOT2VhV0pJY3FJdnV1MG55ZjJqZmZDbmxCMHZxRXd5UFFKYVRBdUNxR2xWMkxLQ0E0emdEdWJPMk1qMWttR2RLSG5nODlNOTcwaDdtbHZKZW42YWxJcEhTaXpjUWctLUFGeHFCdWw3TncybmNfd1hmUUlHRGFIZGVaVkNWYw?oc=5)
+
+---
+
+### [Couples share 30% of their gut bacteria. Here’s how that may affect health - The Conversation](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU9ROGR0dW5rczVDM2pXZ3RDaTd0UnhGVVRMQm93Rk95dFRrcmlfdkMtbEFRQzB2ZDh6Q01DVFc5ZjZGNV9ENzhCNXdyN3RJUE1mXzJfeTh2U0k3NFB0WGs2SWVmM2F6WU5FbnBSUlZYbVVnMUlIejl4S1EwdFVmaW5oaGUzeVFiSmYweDdIaVJtalZreE9HLWo4eW12LXptS3JHelVmTk93dw?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU9ROGR0dW5rczVDM2pXZ3RDaTd0UnhGVVRMQm93Rk95dFRrcmlfdkMtbEFRQzB2ZDh6Q01DVFc5ZjZGNV9ENzhCNXdyN3RJUE1mXzJfeTh2U0k3NFB0WGs2SWVmM2F6WU5FbnBSUlZYbVVnMUlIejl4S1EwdFVmaW5oaGUzeVFiSmYweDdIaVJtalZreE9HLWo4eW12LXptS3JHelVmTk93dw?oc=5)
 
 ---
 
@@ -162,11 +178,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [TB in Ghana: Key figures and statistics revealed](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDIxYTVTRmszYmNWbUpUNF9uMXZTY2hKLWs0ZHQyODZ0VVVHZEs3d0JzLUk4dl8yZG1TY1MxSF9MZV82LWpBbnNTNlcydURrTVN2TDJ3cGZETjlIWkV4SlFvRFcyN0lGQ2ZSOEVaaENTZzdGMmJRdFE1dDdaWEZsR3dBYTNNb0NQeDBVMERScC1DLVBrTk1CeGYwZVRMa194N3JrTDhVS0s3QQ?oc=5)
+### [The mind-controlling zombie that makes our closest cousins seek out their own killers… and it could affect humans too - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTVtQmlDYkNYRDI1TlM1cERINDNDTFFNRHZMWHVxenhnd2JQWmFncmtTdG1EaGJqdjJ5YzlOeDU0Zzc2NVdkSnZ2dWxzU05WdXBON0tJRnkyUElkeVNUMjdaSUlyY1NTYVFNYUdFRmFiQmp2LVZfYjgzRm5IRGtuVjJOczBEZ1ozc3N3?oc=5)
 
 2026-03-22 <span class="news-indication-tag">AF</span>
 
-來源：[GhanaWeb](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDIxYTVTRmszYmNWbUpUNF9uMXZTY2hKLWs0ZHQyODZ0VVVHZEs3d0JzLUk4dl8yZG1TY1MxSF9MZV82LWpBbnNTNlcydURrTVN2TDJ3cGZETjlIWkV4SlFvRFcyN0lGQ2ZSOEVaaENTZzdGMmJRdFE1dDdaWEZsR3dBYTNNb0NQeDBVMERScC1DLVBrTk1CeGYwZVRMa194N3JrTDhVS0s3QQ?oc=5)
+來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTVtQmlDYkNYRDI1TlM1cERINDNDTFFNRHZMWHVxenhnd2JQWmFncmtTdG1EaGJqdjJ5YzlOeDU0Zzc2NVdkSnZ2dWxzU05WdXBON0tJRnkyUElkeVNUMjdaSUlyY1NTYVFNYUdFRmFiQmp2LVZfYjgzRm5IRGtuVjJOczBEZ1ozc3N3?oc=5)
 
 ---
 
@@ -191,14 +207,6 @@ permalink: /news/olanzapine/
 2026-03-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSmE0akVyTHFGQU00eUwtclJIWFEwWlN4V2I1Q1N2cUxZMVNnTWsyb2Z4V2cxekhOS2pGVk9RMnZXc2pOc1ZiSG5LclY3WldvS015Zzh3R1JpSnAtMGNNTGY4WmRBZ09zVE9wZ0FEQzNYcHpnSDd3MGROSElwMXYxNDQ0UXlXZUx0YVFMSmF5LXlFMlMtLXfSAZsBQVVfeXFMT2lzSXAzU0ZnMGlxZTJuQjB2RG5hRERLVWNmZkYwalcxZFhENG8zT19rTnZxMy1nWk9sOFlNTGduR2FkMWFvT0s1TklMZ29sVUZ0UV9wWkJ6TUxMem5kT2VfblFQYXdncFRmRTFmYmtzWElWOU1YWTVaN2wtdGRZUW9IU1l1OGlNZUJNdldBaFg4WVNBU0x0Nk9EWU0?oc=5)
-
----
-
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
-
-2026-03-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOamxINGVmNzhJUkV0WURzMnNKVUtydXNpWGRidEhWdGNSSENibllDYVpLSDVVX1RoN0QzX3VCQkVSSERORlAzOWEzbHRFU09WZG5qQjVRSTZXaG9TRzl5QkZBUXVPQ2RHY1pDWWNsT1dHTndpMXFmbjNpUjhrblNHbGNPSUxqamtaYXgxZjJPQ2FOZVZONlYxVGN6QmFSMG9tbjgyOUtkbGNjTElZMTlKb25qY1d4NmFRdXR4NHZuai1rQUw3RTZiekRWR2Vndw?oc=5)
 
 ---
 

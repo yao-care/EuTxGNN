@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Capsaicin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/capsaicin/
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Neuropathische Schmerzen: Topisches Capsaicin ist mehr als 2. Wahl](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2JFdzF3U0VmN05ZNERfbHhsLWlZRjZTSktVZnpqZzhMblJvS0ZBcWRYdVlzcU1LYmw0MkJlWkNfNUl0OE5OeElDT1lmaC01VDU0cmZ3S3NZQTR5dndBVVQwZUF0SUJSU3NxbExZVEJLWmpBV05VTks4cG5zLU0yeUQ0ZXJPSXI1Ym0xX3NGQVNXUkRreWVzR095VnBFd2o1aFZxOUNiWDBUTXFRQXV4ellScw?oc=5)
+
+2026-03-24 <span class="news-drug-tag">Capsaicin</span>
+
+來源：[journalMED](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2JFdzF3U0VmN05ZNERfbHhsLWlZRjZTSktVZnpqZzhMblJvS0ZBcWRYdVlzcU1LYmw0MkJlWkNfNUl0OE5OeElDT1lmaC01VDU0cmZ3S3NZQTR5dndBVVQwZUF0SUJSU3NxbExZVEJLWmpBV05VTks4cG5zLU0yeUQ0ZXJPSXI1Ym0xX3NGQVNXUkRreWVzR095VnBFd2o1aFZxOUNiWDBUTXFRQXV4ellScw?oc=5)
+
+---
 
 ### [Una presión arterial diastólica elevada durante la juventud conlleva un riesgo de más de un 20% de padecer cardiopatías - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
 

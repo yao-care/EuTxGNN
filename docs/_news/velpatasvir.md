@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Velpatasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（13 則）
+
+### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes - IPac Acuicultura](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
+
+2026-03-24 <span class="news-indication-tag">hepatitis</span>
+
+來源：[IPac Acuicultura](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
+
+---
 
 ### [La encefalitis transmitida por garrapatas, enfermedad con potencial emergente en España](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDVaeWtCM296OVpiQ1FjLWt3dndDTS1CakQ0eW5Va2NSX1VWNTdQYm94R1hLZEQzVEJocmdEN24tUElseTFOMmRZVGhRM1dvN29XUmlvem1CREFYT2NYOVhmeU1LT3pPU2pxa1N1eTZtVl9hZC1QNWI0SFZOSXhyaXdlN0oySElwaDZ2VERxRTdlN1pKdkZFU3JEbFNkdEhxOXZQS0tmNEE1cWlDTktRSFJn?oc=5)
 
@@ -50,19 +58,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### ['I binged on cocaine and food 10 times a day, only one thing helped me kick my addictions' - Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
-
----
-
-### [L'epatite A arriva a Latina, scatta l'allerta nel Lazio: 6 persone ricoverate e 24 contagiate - Il Messaggero](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wWnVXOWVnMUVsbFBUMkI4TnhjWVdSVnRrTU1uZ0lIY2xHQ2NCUE1jbTRnaHR0YzlJUzA0SGwta01ocmpVTWhBZzhMY1dMcE9NRHFkQmUyUEYweC0xaWpJSkhEREFwRjVRWmc1dVV6OUM4aU9QTE9ab1pZRFBxZ9IBgwFBVV95cUxOSG5sc2ZRMlJxTHdjRE04WDAzRTdDWUNTV0dvTGhIcVRJenhEMFY5VjVMOUU4R1otWHpJLUdEYW5WMnA3ZENTLUhoNzI0Z0dXak1uOWI2azUwZUkxSWRhTzJtOU1yanlwT0RPekVvMy1hUV9xSE5sVmxsVGxQNXpiNnppVQ?oc=5)
+### [Epatite A, 24 casi in provincia di Latina: attivata task force della Asl](https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2FnSXpMQTRGUks5MEU3aHdJeEZWbEczWVBCS0ZPYklQRHhnMlZ1VU5qWDkybDNhamVhSVpNX0pjMmQ4QjVXcmxpN0dFLU1yNGxLRW9yVFZIUlNtQlRlcDIwdUNMLW5vZU9tSXNfS0hfVEg3ODA3dzhnSE1oWkNwd1Q3TjgzR2lTWVd4dWZJOWlLMktr?oc=5)
 
 2026-03-23 <span class="news-indication-tag">epatite</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wWnVXOWVnMUVsbFBUMkI4TnhjWVdSVnRrTU1uZ0lIY2xHQ2NCUE1jbTRnaHR0YzlJUzA0SGwta01ocmpVTWhBZzhMY1dMcE9NRHFkQmUyUEYweC0xaWpJSkhEREFwRjVRWmc1dVV6OUM4aU9QTE9ab1pZRFBxZ9IBgwFBVV95cUxOSG5sc2ZRMlJxTHdjRE04WDAzRTdDWUNTV0dvTGhIcVRJenhEMFY5VjVMOUU4R1otWHpJLUdEYW5WMnA3ZENTLUhoNzI0Z0dXak1uOWI2azUwZUkxSWRhTzJtOU1yanlwT0RPekVvMy1hUV9xSE5sVmxsVGxQNXpiNnppVQ?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2FnSXpMQTRGUks5MEU3aHdJeEZWbEczWVBCS0ZPYklQRHhnMlZ1VU5qWDkybDNhamVhSVpNX0pjMmQ4QjVXcmxpN0dFLU1yNGxLRW9yVFZIUlNtQlRlcDIwdUNMLW5vZU9tSXNfS0hfVEg3ODA3dzhnSE1oWkNwd1Q3TjgzR2lTWVd4dWZJOWlLMktr?oc=5)
 
 ---
 
@@ -82,27 +82,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [El tétanos regresa a Cataluña: un menor no vacunado, en estado crítico en la UCI](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSHA2NDFobE92eEhPajRuSmhxeWxvOHp0ZEM0YnN6ZkpaT1pEVXdRZzhXWGN3VUVnWnBCVDFGU3NTRTl5SGhKWFhuYVVhUHNNN290aWI0OVpRNkNHdzJtOHFMd0ZhNFBlWjlYeVJEbHRCcFBkLWlDeUF3M0VWb0NhR2lpV1AwNXhoWmJlSFZ0Wk1jMFVmMUhlZjFlVzJERnNLcUdTclhfRllIaUNnYUFvWFhaWFYtSGpzb1dvaXhPeGxuQdIBxwFBVV95cUxORVNqN3VicjJZY002YnhRaEM3U3luZ3QwUWpCX2RsZHpuVEFmMGJUNWlETVBsTDZTZDI4Z05lUHdKWUZVUmswR3FnZDZjcFdsUHlGUjhycWctbERVeTFIUEk5Q2Q0VnJiS2dxeU9TdzBIeUhfNElHdC1oQU42UklSdUR0UDR4blkxOFVNaVNvMU12bHlUdmxLVGhhS2sxbFYtSkNrVVNJMjYtc3NUMFlFbzItdkRFRy1KVnpYcXRKSDJMamItTU5v?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSHA2NDFobE92eEhPajRuSmhxeWxvOHp0ZEM0YnN6ZkpaT1pEVXdRZzhXWGN3VUVnWnBCVDFGU3NTRTl5SGhKWFhuYVVhUHNNN290aWI0OVpRNkNHdzJtOHFMd0ZhNFBlWjlYeVJEbHRCcFBkLWlDeUF3M0VWb0NhR2lpV1AwNXhoWmJlSFZ0Wk1jMFVmMUhlZjFlVzJERnNLcUdTclhfRllIaUNnYUFvWFhaWFYtSGpzb1dvaXhPeGxuQdIBxwFBVV95cUxORVNqN3VicjJZY002YnhRaEM3U3luZ3QwUWpCX2RsZHpuVEFmMGJUNWlETVBsTDZTZDI4Z05lUHdKWUZVUmswR3FnZDZjcFdsUHlGUjhycWctbERVeTFIUEk5Q2Q0VnJiS2dxeU9TdzBIeUhfNElHdC1oQU42UklSdUR0UDR4blkxOFVNaVNvMU12bHlUdmxLVGhhS2sxbFYtSkNrVVNJMjYtc3NUMFlFbzItdkRFRy1KVnpYcXRKSDJMamItTU5v?oc=5)
-
----
-
-### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery - The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
 
 2026-03-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
-
----
-
-### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes - IPac Acuicultura](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcC1BNDN5ajN3REJPbzdhb0VsUnFWQ2EtZmF0RnF6ZEc3aWNNcUdzeENDNlV2V1NSNjRHNXpzTU9Kam5fYjlWN3BWVkJURGFjMFBxSU1KWl9Fc3k1dkZuMnlRRlk1OU1xMi05S0VzQzFXWG9kOUtudGZrZ0IxcWNtVw?oc=5)
-
-2026-03-23 <span class="news-indication-tag">hepatitis</span>
-
-來源：[IPac Acuicultura](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcC1BNDN5ajN3REJPbzdhb0VsUnFWQ2EtZmF0RnF6ZEc3aWNNcUdzeENDNlV2V1NSNjRHNXpzTU9Kam5fYjlWN3BWVkJURGFjMFBxSU1KWl9Fc3k1dkZuMnlRRlk1OU1xMi05S0VzQzFXWG9kOUtudGZrZ0IxcWNtVw?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
 
 ---
 
@@ -151,14 +135,6 @@ permalink: /news/velpatasvir/
 2026-03-22 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW5ZUlI3YVBIeW1BSU5CblVoNmc1SFliRVhRa0I2MDRTYWh1OTNEelNrbkJ5cWNHdERqSmRHell0THczVVBkb0pKeWVrb0JaUDVaX2IzZXlidy1HeEdzaUU2RGNVVXE3a1Z4T3ByZFlpd3JXeldJa0NZVS1QMHRNa2l0bFotRnVpN3h3bmQzMnM2cUVtaE1NTG5UOERXN2ZUS0VwUFFrSQ?oc=5)
-
----
-
-### [Epatite A, denunciato un 73enne a Torre del Greco: in auto 25 kg di vongole veraci senza tracciabilità - Il Mattino](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXdfTTVTQUF6SEIzWEZmaU9XVF9XTnNFaFVUV1R1dnBHUy04RDFmaVU0cTNIS3M4Tmc5Szd6MjlWOTFEM3dVaG1vcm91TWZUczF6cnIxRnhfbzRKN0E5alpqQnRtTjJqM0xwQURjemIyUUViRkpKdlo3QXdjLTRaR3ZQbTFVSHNKNk1UMzhWeXh5QzhSSllkVmdReWlkRjc2NlJmRlNJdThtWHpTdW5pYy1RTzFNeWsyN3pES0w1WjBrVXFrTmRKbTRBeklTcnU1a0F5Q0ZTQmFHRHJEdEEtSUI0S1J5Z0xSSjVUVVRfYlA2VWtsZHdr0gHjAUFVX3lxTE9ndU5TUWlWQmVCVkdza1RnUnA4STVEakdoRkpSUmZVaUdNN3NFR2VIRnhfeGQ0dEtjWndNbUowVC1CZDc1WUlxOW5XVVZfUzV1cmIyM0dkSXZ6bVA2SDZ2b1ZqZHVsdjNPRE1XakZxNXlzZ1JMeURfQ0ljOHJSa21zVUgyS0RSRm92N2U5eDNwajlXLWFRYzZnZFEyUzZ1a2lzUWIwOW5oVVVYSE1ISUJKcW1KY1k4MlNpeXI0SzljWGJwS1lSWXl5bm1hS2VMN2RHVkRsN2JQZTE4dEFubkJVbEpr?oc=5)
-
-2026-03-22 <span class="news-indication-tag">epatite</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXdfTTVTQUF6SEIzWEZmaU9XVF9XTnNFaFVUV1R1dnBHUy04RDFmaVU0cTNIS3M4Tmc5Szd6MjlWOTFEM3dVaG1vcm91TWZUczF6cnIxRnhfbzRKN0E5alpqQnRtTjJqM0xwQURjemIyUUViRkpKdlo3QXdjLTRaR3ZQbTFVSHNKNk1UMzhWeXh5QzhSSllkVmdReWlkRjc2NlJmRlNJdThtWHpTdW5pYy1RTzFNeWsyN3pES0w1WjBrVXFrTmRKbTRBeklTcnU1a0F5Q0ZTQmFHRHJEdEEtSUI0S1J5Z0xSSjVUVVRfYlA2VWtsZHdr0gHjAUFVX3lxTE9ndU5TUWlWQmVCVkdza1RnUnA4STVEakdoRkpSUmZVaUdNN3NFR2VIRnhfeGQ0dEtjWndNbUowVC1CZDc1WUlxOW5XVVZfUzV1cmIyM0dkSXZ6bVA2SDZ2b1ZqZHVsdjNPRE1XakZxNXlzZ1JMeURfQ0ljOHJSa21zVUgyS0RSRm92N2U5eDNwajlXLWFRYzZnZFEyUzZ1a2lzUWIwOW5oVVVYSE1ISUJKcW1KY1k4MlNpeXI0SzljWGJwS1lSWXl5bm1hS2VMN2RHVkRsN2JQZTE4dEFubkJVbEpr?oc=5)
 
 ---
 

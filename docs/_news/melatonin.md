@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Cuál es el horario ideal para entrenar que se asocia a menor riesgo de obesidad y diabetes](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
-
-2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZmVWTGw2STY3WGRjNnF3bnVMV0hURGhuMEJmRGg3VVp3UDdzRTJzTm82SGpPeEp0N3E1enRfVlFGNE5GcGxWYnZlSGkzdEs3Z2V6eV8wS016dnZSQ1ZaQnI2S0hMZlItYUtSYi1QS00yQXhSN096Rjd4WnpXRDJwcVZLRW5OYnZrZFo2amNZOGswWlE1bUE1ZG0xM3FfWUQtMXpjTGZtNXhXSjZ5TG1LOFVLQjNvODdMVVk2dTNnMWtBZU1WTGpZam4ybFZvZUlnakJqX2NmVnhvSGx6N2stQ1J6NDLSAf8BQVVfeXFMTWNlNHZQeVh5UU9LdTFaajl0Qm90ck9yRkNxTlNiejZtajdxT3ZpSTY3WDVBV0lyMjRnMEViVWt2ejJnUTdDNjl3N010aVB0QktpUTF2alEwVFBnN19YeURwZ04wcjlVX3ZqR3FkMUdobDZJLXBZVjVnYUYyN2V4ZjJNdVNCTmZHdFhPUnBEUW5LaE5XRnJCUFd4TURpcEJRNDRkX1YxR2l2QlNQOTl3ZEhsT2FHWTFZZEdKRVUzMjR6enZqT2J3Uk0xRmVPZFkwWHNweWpxTlM2cE1yLWhya3RVSExCWDU0ZzRDMmswRUFIM1VYUUFlVnNXbVFMUGVj?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [El abordaje precoz de la migraña puede condicionar su evolución - Diario de Sevilla](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVExDUUhHU2NibDBic1RkejhFeXo2UDRydm1vQkcwLU9VNExFcWEtLW1uUEVQQWt5X3ppNDFOWXJfZ0Y3STNIOGlfZHV1SHZBcHhveTYtc3hrNWVnejY5SlJ2VUF1NVdPak02Tjhsc09FR3R1dGJYRDlKMHdBa0lHZHRFVTJJc0h4WWpZTTRaUjlUcTR3SEEwVjVOdXdSdTNRWnJjeXdqSEtRTWxyT0NCMNIBtgFBVV95cUxNbEdpZExYR2d3enZ2YnRNSHVDdml1N0dPYl9Qd1BfRVRsM05QM2h6MU8xVDRvVnNmNWVJdDFmcDA4TXpsUFFXbjh3QkExbWpBcms3M01ybDBGeGowSWw1bWkyQS1xZkpNWjY3aXJRWWpjbER2Z2pyalc3Q1BHWldBY05oLTNzeWNmZFBSNDFyd0hpWGIzVmQzcFJjakFyZkQ4Qk1WMkttOHNFSi15S3dOaGt2ZWRJUQ?oc=5)
 

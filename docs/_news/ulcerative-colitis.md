@@ -1,0 +1,48 @@
+---
+layout: default
+title: "colitis ulcerosa（ulcerative colitis） 相關新聞"
+parent: 健康新聞
+nav_exclude: true
+description: "colitis ulcerosa（ulcerative colitis） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+permalink: /news/ulcerative-colitis/
+---
+
+# colitis ulcerosa（ulcerative colitis） 相關新聞
+
+[← 返回新聞總覽]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="colitis ulcerosa（ulcerative colitis） 有什麼相關新聞？">
+<strong>colitis ulcerosa（ulcerative colitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+</p>
+
+<div class="key-takeaway">
+本頁整合「colitis ulcerosa」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+</div>
+
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<ul>
+<li><a href="{{ '/drugs/azathioprine/' | relative_url }}">Azathioprine</a></li>
+<li><a href="{{ '/drugs/golimumab/' | relative_url }}">Golimumab</a></li>
+<li><a href="{{ '/drugs/guselkumab/' | relative_url }}">Guselkumab</a></li>
+<li><a href="{{ '/drugs/inebilizumab/' | relative_url }}">Inebilizumab</a></li>
+</ul>
+</div>
+
+## 相關新聞（1 則）
+
+### [Morbus Crohn und Colitis ulcerosa: Wie stark ADHS und Autismus die Krankheitsaktivität beeinflussen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjhXNzhwOTVuZ21idVVkU3ZtMTNBcFZtU1QtaWRvUUY3dnFTVlJ0TUV6czdfTGNLTFF1dVJfb0tfTmZmeU9NTld3YTBTbHRMYVNueV9jZFU3Qm9XSXBScGJORXJXQ2NlUnZlMjJ5RnZNdHowTDEtYWtXbzFwVGQ0ZTkyQzdTQ1M3dzF6cmJNQnM1aXpURm9hb082TV8wVEVlS3RsVElZbDl4SUF0M3h5OV9IR1dpZ29yd1FBd0F2ZENTMHRYd1VoX1d4Y1RXbWs3QjAtV3lMako4emxoNXc?oc=5)
+
+2026-03-24
+
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjhXNzhwOTVuZ21idVVkU3ZtMTNBcFZtU1QtaWRvUUY3dnFTVlJ0TUV6czdfTGNLTFF1dVJfb0tfTmZmeU9NTld3YTBTbHRMYVNueV9jZFU3Qm9XSXBScGJORXJXQ2NlUnZlMjJ5RnZNdHowTDEtYWtXbzFwVGQ0ZTkyQzdTQ1M3dzF6cmJNQnM1aXpURm9hb082TV8wVEVlS3RsVElZbDl4SUF0M3h5OV9IR1dpZ29yd1FBd0F2ZENTMHRYd1VoX1d4Y1RXbWs3QjAtV3lMako4emxoNXc?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+</div>
