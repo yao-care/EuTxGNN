@@ -37,6 +37,14 @@ permalink: /news/depression/
 
 ## 相關新聞（4 則）
 
+### [GLP-1-Agonisten dämpfen bei Diabetes womöglich Depressionen und Angststörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
+
+2026-03-24
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
+
+---
+
 ### [La microbiota intestinal podría explicar la relación entre dieta y depresión: "es un paso importante"](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHJaUDdNVFNCZDBSVlZ6YzMxODM1UngxZURROVhBbGpvX3lpZWpKTHg4YzROenBfUnU0NmFqV09WM1F0VzZMclRJZ0hfRmk1RDVVNzN1V01IUlk0bEFIcXM2Y1dTd0Vac0lBSTdoUGdVSDFrZzNtWDZGS0FuZy1OSTBkSjJoVWEtV1Q5Q0cxX0FBYXUyZkJoNzdJa0Y3bEp3YXgyNG5weFBqYnhqZlFiWm8xTzVIX3NfVjN2a1h4VURlOUpyNU9wdEk1SnR3SEpMd0dLbVFYcjR0MDJpd3R4U1MwVGIzSmc?oc=5)
 
 2026-03-24
@@ -58,14 +66,6 @@ permalink: /news/depression/
 2026-03-23
 
 來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWEdHTEc2QkNFVlZrQ1BpWFBKc3llc0lheF9CazRtbmtiY21xTTNhTERmWXI5ei1GTEdkemxkSkZad3diczA0S2w5emgzNVNRb2I2cFBudWNObDQyeDQyaUhRcnNpbzMxZTQ5TkVfX0xWRDFKbWJJenFmbDVBcG9NREdaRHdsaDl4bkd4cGJSMzI2ME40RXc0amRzN2FSd0Noelg5WUVWSFVqcUxVWS1NVjhjdHU1bnE0RmJ3RlJsb0U2UlIwR2V3ano0STJTdTE5QVlrTWo5LXdxS3dKSVJr?oc=5)
-
----
-
-### [Nach einer Depression bleibt die Handkraft schwach - smart up news](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDc2VjdHcmwwaWhOT2VhV0pJY3FJdnV1MG55ZjJqZmZDbmxCMHZxRXd5UFFKYVRBdUNxR2xWMkxLQ0E0emdEdWJPMk1qMWttR2RLSG5nODlNOTcwaDdtbHZKZW42YWxJcEhTaXpjUWctLUFGeHFCdWw3TncybmNfd1hmUUlHRGFIZGVaVkNWYw?oc=5)
-
-2026-03-23
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDc2VjdHcmwwaWhOT2VhV0pJY3FJdnV1MG55ZjJqZmZDbmxCMHZxRXd5UFFKYVRBdUNxR2xWMkxLQ0E0emdEdWJPMk1qMWttR2RLSG5nODlNOTcwaDdtbHZKZW42YWxJcEhTaXpjUWctLUFGeHFCdWw3TncybmNfd1hmUUlHRGFIZGVaVkNWYw?oc=5)
 
 ---
 

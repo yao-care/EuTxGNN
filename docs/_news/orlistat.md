@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [List of foods ‘worse for you than smoking’ as doctor issues serious warning](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
+
+2026-03-24 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
+
+---
 
 ### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
 
@@ -50,19 +58,27 @@ permalink: /news/orlistat/
 
 ---
 
-### [Doctor issues warning over food ‘worse than smoking’ that is leading cause of ‘early death’](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
+### [« La prévention permet d’éviter près de 80 % des maladies cardio-vasculaires » - Le Monde.fr](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzB5d0p1a1FVVVpaUjBkeVRBdU54VW80ZW5oMi1BTGpTUEFTZmNqemQ5bC16Ynd5SFRQMHE3ZDdfZ1RsRVNWU1o4Z2RTWjRBN2RyajJidVdvMG9ETnFlNkdQSGNDYUhOX2gzRFdyWW1tb0lRS0YzNHpMZmdoRzdDcFdaRWRXdWcwZ2lydzh5VFZJMkYyeUNuN1dXNGdwTk80TzhGNWVyU3A3RmwyQ3JNXzE2a3VnNFh1Wng2Umtyby1PT2V2cEFMd0N1ZHcyRFhta1JKQ2RtVjNENkVX?oc=5)
 
-2026-03-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-03-24 <span class="news-indication-tag">AVC</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzB5d0p1a1FVVVpaUjBkeVRBdU54VW80ZW5oMi1BTGpTUEFTZmNqemQ5bC16Ynd5SFRQMHE3ZDdfZ1RsRVNWU1o4Z2RTWjRBN2RyajJidVdvMG9ETnFlNkdQSGNDYUhOX2gzRFdyWW1tb0lRS0YzNHpMZmdoRzdDcFdaRWRXdWcwZ2lydzh5VFZJMkYyeUNuN1dXNGdwTk80TzhGNWVyU3A3RmwyQ3JNXzE2a3VnNFh1Wng2Umtyby1PT2V2cEFMd0N1ZHcyRFhta1JKQ2RtVjNENkVX?oc=5)
 
 ---
 
-### [Infosalus.- SEMERGEN presenta nuevas recomendaciones para abordar la obesidad en personas con diabetes tipo 2 en Atención Primaria](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWRSbF9pNlpMWG5sbjRFWno3S0FzTUhKeUMzWHVrcWx6SklZSDluTXBNMWY1aXdhYmJHYVR5UlZxZGMyV1RxSG1KQUh1NzdaRUtpZmhwWUJESXc4SVp4WWxlV3pYM005SFdKeGhraGdTU3k5Uk96Y1ZFYjNLa1ZUS1QyMFR1ZF9ldUdTQ2VpaGpvU2FWNUtGWTVFMTRzc2FjMXVDQ0JQUDIyQ3RuemowRjFpdGxIdURLbTA3anRuazdnWU40cFJsOTV2aEVsT05seDF4T0ZJMFNtOWdLWnpYalh5TFY4Nkc1TWN1UXhia3hmYy1ER3M3LTZYWHY?oc=5)
+### [SEMERGEN propone tratar obesidad y diabetes tipo 2 de forma conjunta - Canal Diabetes](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUzhOTElXUmsxVm9tXzJiUjJ1SXlKN3YwY1BOU1BQQjdiVk5LTlQyRTk2cHdHc1NIR0hUOC1odXhrZG10ODJOVy1UcE9iWE0zVDZNdVlHVDU3ZUgwd28tWEtaM1lBVVRTZjhNeVU3RQ?oc=5)
 
-2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWRSbF9pNlpMWG5sbjRFWno3S0FzTUhKeUMzWHVrcWx6SklZSDluTXBNMWY1aXdhYmJHYVR5UlZxZGMyV1RxSG1KQUh1NzdaRUtpZmhwWUJESXc4SVp4WWxlV3pYM005SFdKeGhraGdTU3k5Uk96Y1ZFYjNLa1ZUS1QyMFR1ZF9ldUdTQ2VpaGpvU2FWNUtGWTVFMTRzc2FjMXVDQ0JQUDIyQ3RuemowRjFpdGxIdURLbTA3anRuazdnWU40cFJsOTV2aEVsT05seDF4T0ZJMFNtOWdLWnpYalh5TFY4Nkc1TWN1UXhia3hmYy1ER3M3LTZYWHY?oc=5)
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUzhOTElXUmsxVm9tXzJiUjJ1SXlKN3YwY1BOU1BQQjdiVk5LTlQyRTk2cHdHc1NIR0hUOC1odXhrZG10ODJOVy1UcE9iWE0zVDZNdVlHVDU3ZUgwd28tWEtaM1lBVVRTZjhNeVU3RQ?oc=5)
+
+---
+
+### [Vino o birra, lo studio a sorpresa: quale bicchiere riduce del 21% rischi per cuore](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTgyTnJMY1FJVWprYU9Xb1BOYzdCOHowSTItMllCZW1iNE5vekFSeTE1TGhCMmx0TUtrNHpmOExUeTN2VWZmeFBnZmhSUDNWdGt4UUU0Sk10VXY0S2l5bmR0ZTJyZTNCWlZ1TUhiRnF4eVVranlrS21sZTJmVERCb0g1cnlLQm9UY2w3ajl5N3VsQXlncUZTN2QtYw?oc=5)
+
+2026-03-24 <span class="news-indication-tag">ictus</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTgyTnJMY1FJVWprYU9Xb1BOYzdCOHowSTItMllCZW1iNE5vekFSeTE1TGhCMmx0TUtrNHpmOExUeTN2VWZmeFBnZmhSUDNWdGt4UUU0Sk10VXY0S2l5bmR0ZTJyZTNCWlZ1TUhiRnF4eVVranlrS21sZTJmVERCb0g1cnlLQm9UY2w3ajl5N3VsQXlncUZTN2QtYw?oc=5)
 
 ---
 

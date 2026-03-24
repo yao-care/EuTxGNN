@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Morbus Crohn und Colitis ulcerosa: Wie stark ADHS und Autismus die Krankheitsaktivität beeinflussen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjhXNzhwOTVuZ21idVVkU3ZtMTNBcFZtU1QtaWRvUUY3dnFTVlJ0TUV6czdfTGNLTFF1dVJfb0tfTmZmeU9NTld3YTBTbHRMYVNueV9jZFU3Qm9XSXBScGJORXJXQ2NlUnZlMjJ5RnZNdHowTDEtYWtXbzFwVGQ0ZTkyQzdTQ1M3dzF6cmJNQnM1aXpURm9hb082TV8wVEVlS3RsVElZbDl4SUF0M3h5OV9IR1dpZ29yd1FBd0F2ZENTMHRYd1VoX1d4Y1RXbWs3QjAtV3lMako4emxoNXc?oc=5)
 
 2026-03-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjhXNzhwOTVuZ21idVVkU3ZtMTNBcFZtU1QtaWRvUUY3dnFTVlJ0TUV6czdfTGNLTFF1dVJfb0tfTmZmeU9NTld3YTBTbHRMYVNueV9jZFU3Qm9XSXBScGJORXJXQ2NlUnZlMjJ5RnZNdHowTDEtYWtXbzFwVGQ0ZTkyQzdTQ1M3dzF6cmJNQnM1aXpURm9hb082TV8wVEVlS3RsVElZbDl4SUF0M3h5OV9IR1dpZ29yd1FBd0F2ZENTMHRYd1VoX1d4Y1RXbWs3QjAtV3lMako4emxoNXc?oc=5)
-
----
-
-### [Darm saniert, Asthma weg: Dank dieser Ernährung kommt Theresa ohne Spray aus - Berliner Morgenpost](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmw4aW42TjVvR0Q2T0FwYngyc3VmNUxiTHQyM3FmVFlJTDJyQXJGbTlNdTQtd2d1eGJDNVRJRTlMVTFyWEtPcDZncDBSODRJa2syY1lJVHR0NDE5VGMyMV8xM25MdU5RSHVoRndYZkZpVktvNXcwaDBBSUN1WmVkZ3dSZ2wwVkNoMGp6THd5cDdvSHJjUjlBbkpJYXB5T294RFhpWHJwUQ?oc=5)
-
-2026-03-22 <span class="news-indication-tag">asthma</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmw4aW42TjVvR0Q2T0FwYngyc3VmNUxiTHQyM3FmVFlJTDJyQXJGbTlNdTQtd2d1eGJDNVRJRTlMVTFyWEtPcDZncDBSODRJa2syY1lJVHR0NDE5VGMyMV8xM25MdU5RSHVoRndYZkZpVktvNXcwaDBBSUN1WmVkZ3dSZ2wwVkNoMGp6THd5cDdvSHJjUjlBbkpJYXB5T294RFhpWHJwUQ?oc=5)
 
 ---
 

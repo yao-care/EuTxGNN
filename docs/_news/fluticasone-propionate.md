@@ -14,7 +14,7 @@ permalink: /news/fluticasone-propionate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Propionate 有什麼相關新聞？">
-<strong>Fluticasone Propionate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fluticasone Propionate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ permalink: /news/fluticasone-propionate/
 <p><a href="{{ '/drugs/fluticasone-propionate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Darm saniert, Asthma weg: Dank dieser Ernährung kommt Theresa ohne Spray aus - Berliner Morgenpost](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmw4aW42TjVvR0Q2T0FwYngyc3VmNUxiTHQyM3FmVFlJTDJyQXJGbTlNdTQtd2d1eGJDNVRJRTlMVTFyWEtPcDZncDBSODRJa2syY1lJVHR0NDE5VGMyMV8xM25MdU5RSHVoRndYZkZpVktvNXcwaDBBSUN1WmVkZ3dSZ2wwVkNoMGp6THd5cDdvSHJjUjlBbkpJYXB5T294RFhpWHJwUQ?oc=5)
-
-2026-03-22 <span class="news-indication-tag">asthma</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmw4aW42TjVvR0Q2T0FwYngyc3VmNUxiTHQyM3FmVFlJTDJyQXJGbTlNdTQtd2d1eGJDNVRJRTlMVTFyWEtPcDZncDBSODRJa2syY1lJVHR0NDE5VGMyMV8xM25MdU5RSHVoRndYZkZpVktvNXcwaDBBSUN1WmVkZ3dSZ2wwVkNoMGp6THd5cDdvSHJjUjlBbkpJYXB5T294RFhpWHJwUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

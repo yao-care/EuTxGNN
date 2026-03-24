@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
 
 ### [Antibiotika: „Hinterlässt Spuren“ – Noch Jahre nach der Einnahme ist das Mikrobiom verändert](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb3FDQVZpbE04Q0VBUkpmeUtOWHJlUElndXdZeUE4SThaRlZQT0t2R2RTcktVczNNZlBtWjFoRkNwMGNWZVRjQjBHcFlGSENlbVhEMzF0ek9mZUdmWklMSDNsdDhNNU1TZEVQalVPRXM2bmNIQ0prNU5UV0FsSm5kM2FMeEt4d18tVWFROF91aVZKN05GSGprQ19GY0lJOHlVc05xUVpzdDhMQ0tPZ0RwLWUzMDNoTUdQWTlwTUQxMDdVRVM3UVpvUk1BZmR1d1NMbUFKTWxFVUJ2aVdJMS00aUFxTmpFWmlQWjJRM0NWaGw?oc=5)
 
 2026-03-24 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb3FDQVZpbE04Q0VBUkpmeUtOWHJlUElndXdZeUE4SThaRlZQT0t2R2RTcktVczNNZlBtWjFoRkNwMGNWZVRjQjBHcFlGSENlbVhEMzF0ek9mZUdmWklMSDNsdDhNNU1TZEVQalVPRXM2bmNIQ0prNU5UV0FsSm5kM2FMeEt4d18tVWFROF91aVZKN05GSGprQ19GY0lJOHlVc05xUVpzdDhMQ0tPZ0RwLWUzMDNoTUdQWTlwTUQxMDdVRVM3UVpvUk1BZmR1d1NMbUFKTWxFVUJ2aVdJMS00aUFxTmpFWmlQWjJRM0NWaGw?oc=5)
+
+---
+
+### [Día Mundial de la Tuberculosis 2026: OMS recomienda nuevas herramientas de diagnóstico - La Web de la Salud](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ2kwcDZ5ZWZrckdqaThvVDR6RktQWE1BdEVqdElReDV3bVU2R2x0MWJhcng3Q3VEbjJwajdMN0U3b2NRQ0dOVk5vNWdtdWwtblBUdDRJeTRhZDc2MC0xNFI0c3VUbTlaejcwUVc5U0ZJNUJUaUswRUpyT19Jb3IwUUcxd3JsaUc3dWhRcGpYbkhuSU9HaEhWZ2dNM2Fhd08wLXp0UDdTcmRIbFBnMVNoTk1DTQ?oc=5)
+
+2026-03-24 <span class="news-indication-tag">MS</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ2kwcDZ5ZWZrckdqaThvVDR6RktQWE1BdEVqdElReDV3bVU2R2x0MWJhcng3Q3VEbjJwajdMN0U3b2NRQ0dOVk5vNWdtdWwtblBUdDRJeTRhZDc2MC0xNFI0c3VUbTlaejcwUVc5U0ZJNUJUaUswRUpyT19Jb3IwUUcxd3JsaUc3dWhRcGpYbkhuSU9HaEhWZ2dNM2Fhd08wLXp0UDdTcmRIbFBnMVNoTk1DTQ?oc=5)
 
 ---
 
@@ -71,6 +79,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-03-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[VegOut](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMFgxa3h1dDVxNm4xTkhYQmRsVGxkb1RfMWdmQjVNd21WUllURjI2N0FHeXRUN3FZZElKZnNUVnliTTZxcS0yTkxacWQ5WDhZUjB6RWxRbjJYVFZhcWI4ZVR1MXRlRjI2TmxfOFBDcm5CUm9FRjhuM1hnUXBWZU82MG1fcG5YbGFlSEIwMUFHc3lfUEkyT2tHYWxDaEZxSGhQZDV0X2MzaTlYUS16MVBvcEFGTUl3VTJGQWFCZnEtdEYtejQtMXVLNS1RV1d2WWlzczVqckJsZ3M3ZjNWWTlTR3JtRk5OYVJzVTREWDRtcElHaG5XQ3hMTzFWeW44ZEFCbUhDMFhiY0VZZ0pnTXkzX0dNdFNIQldqZjJ3dVdmR3RxZnJuZ2lHVE81RnpRTE5JeE5EaXVsckVqUnFCWVRBOXFraTJfR0FR?oc=5)
+
+---
+
+### [Scientists Identify Protein That Slows Key Effects of Aging](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3J0TFY3NzlOZkM0YU1IWDhWV2syWjBHUlM4NFZ1ZjAtczZ0dk9uYW1GMDFFNkRWekdqMGRjR1dORkZMOGRMaVgtZ2pTVVZBbzB6U1VDZ0lvai1TQ2dDLU5xNDBUdks4ZHI2ZDZVeS1DNzNFNzkzOVZjbmVzV3RyMDFOeHo4dXczancyT0VB?oc=5)
+
+2026-03-24 <span class="news-indication-tag">MS</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3J0TFY3NzlOZkM0YU1IWDhWV2syWjBHUlM4NFZ1ZjAtczZ0dk9uYW1GMDFFNkRWekdqMGRjR1dORkZMOGRMaVgtZ2pTVVZBbzB6U1VDZ0lvai1TQ2dDLU5xNDBUdks4ZHI2ZDZVeS1DNzNFNzkzOVZjbmVzV3RyMDFOeHo4dXczancyT0VB?oc=5)
 
 ---
 
@@ -103,6 +119,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-03-23 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTN2eWR5V014QnV6SllFeWlNTklUR2ZDMlJwdk9VUl9IVkRGejVuVU16R2lsTFRIVXlsZkNSTlRBZ3J0M0xnN19kclFLTDB5RXhxc29vdmpsRmI1d3NtV0NsUDZnandFZGVYZGl4SDFDQ1c2X0RTRmYtY3RNS2kzd3ZDeG9Ccm83MXdmZzA5TTV3eHkxZ0V1Q21IY3lZZWhfMTEwaTUtNjhJVkc2MlpjNnRKa1lud1k?oc=5)
+
+---
+
+### [Our nursery called 8 times in 10 weeks — it's the hidden plight of working parents](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjZXcHQ5aVFMQmY2LUhxcGRJZ2VDMUp0Y1hyeFpFY0NtWGhORjJtYTJkZzRnSjg1OE9WMEFmV0RqOEk4Y2FLYjlUcEJ5RHZLNkJvS2NtVTloa2pBcjN4ZWZTdjh1UmZCYmZsOHBGTC1fV0F6OE01WmdOUEVKUEVONVQtTk5NZ2syNy00QS1ycEZaN2p0OUEwWV85RFZCa0FBZ0U4UtIBqgFBVV95cUxPUUNwX2dwT2w1OHFxS3VxdHVIN0ltd3ZWN3RWVlVLdFozR1djQkN5eEZUempXSm9xaFpJVFFNbnkxUnVyelc0bkxDcVl2Mk5YOHJKRXJaQkJvWmpDZ3RUSTNwQWlFMDBHNS1pTWpIa2RHRUlvOTJrYllRTllUbW11NEdac1o4UU9OQXZJTGRZZFVqWmdJbnloMFFvMWtWWEM4QXhROUxVZHhxdw?oc=5)
+
+2026-03-23 <span class="news-indication-tag">MS</span>
+
+來源：[metro.co.uk](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjZXcHQ5aVFMQmY2LUhxcGRJZ2VDMUp0Y1hyeFpFY0NtWGhORjJtYTJkZzRnSjg1OE9WMEFmV0RqOEk4Y2FLYjlUcEJ5RHZLNkJvS2NtVTloa2pBcjN4ZWZTdjh1UmZCYmZsOHBGTC1fV0F6OE01WmdOUEVKUEVONVQtTk5NZ2syNy00QS1ycEZaN2p0OUEwWV85RFZCa0FBZ0U4UtIBqgFBVV95cUxPUUNwX2dwT2w1OHFxS3VxdHVIN0ltd3ZWN3RWVlVLdFozR1djQkN5eEZUempXSm9xaFpJVFFNbnkxUnVyelc0bkxDcVl2Mk5YOHJKRXJaQkJvWmpDZ3RUSTNwQWlFMDBHNS1pTWpIa2RHRUlvOTJrYllRTllUbW11NEdac1o4UU9OQXZJTGRZZFVqWmdJbnloMFFvMWtWWEM4QXhROUxVZHhxdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lixisenatide/
 ---
 
 <p class="key-answer" data-question="Lixisenatide 有什麼相關新聞？">
-<strong>Lixisenatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lixisenatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,37 @@ permalink: /news/lixisenatide/
 <p><a href="{{ '/drugs/lixisenatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [La IA irrumpe en la retina: Diadema anticipa la evolución del edema macular diabético](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcm00MUg1UGotSEY4ek1id29sczZaVVRwbjBUbXo0VXJDYzlxbEFnYTZsUTN5QW5MeXJHOEktNGhDQm5iVzlQWFQ1THNWQmhDX2w0TVJRUk9Rd0FKMmxZZTJEbEZKVVJWTng0akx6M1hoYVRVTy1OaVRIZHdvOTJGOVpuaW9uWTRCZk9EaUlyUnpmYjR3M0RjYmJXLUgxa3NVcW9haUZGTG15YVNS?oc=5)
+### [GLP-1-Agonisten dämpfen bei Diabetes womöglich Depressionen und Angststörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
 
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
 
-來源：[Modaengafas.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcm00MUg1UGotSEY4ek1id29sczZaVVRwbjBUbXo0VXJDYzlxbEFnYTZsUTN5QW5MeXJHOEktNGhDQm5iVzlQWFQ1THNWQmhDX2w0TVJRUk9Rd0FKMmxZZTJEbEZKVVJWTng0akx6M1hoYVRVTy1OaVRIZHdvOTJGOVpuaW9uWTRCZk9EaUlyUnpmYjR3M0RjYmJXLUgxa3NVcW9haUZGTG15YVNS?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
 
 ---
 
-### [Juckreiz und Rötungen: Diese Hautprobleme können auf Diabetes hinweisen](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEddIB_gFBVV95cUxOMVJzZHRmT05YSEZ5SDI4d1JpWjVob1BmMWdaRGhPOXpxbGI1NHdMbUxIbnlkbVRLeER0VElxTFR2R1U4UFBYY1lIR3RTSnNtVFNGODRPU0Nmay1vMzc5NnhFTlp0dTZXaVlFV1pVNTRwaF9xUldmVm1wSWw1aG5KSnJmM3ZIQXRra0dxeng2MHFvQ2s5YVhjeWxua0swNjZCejlYOERRTG1uYzc2WG5mM1QzbG5mYlZlNFVoc01OcXQtU0xRbjU2Nm1BOGVBRVFwSUxyRkZRWlJRVnlyVjFTOVc3WmdSZ3ZveUpsUDJBRnVSWnRGVlBWYjFxcnRfdw?oc=5)
+### [Stoffwechsel: Diabetes Risiko steigt durch Übergewicht je nach Geschlecht](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
 2026-03-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[News.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEddIB_gFBVV95cUxOMVJzZHRmT05YSEZ5SDI4d1JpWjVob1BmMWdaRGhPOXpxbGI1NHdMbUxIbnlkbVRLeER0VElxTFR2R1U4UFBYY1lIR3RTSnNtVFNGODRPU0Nmay1vMzc5NnhFTlp0dTZXaVlFV1pVNTRwaF9xUldmVm1wSWw1aG5KSnJmM3ZIQXRra0dxeng2MHFvQ2s5YVhjeWxua0swNjZCejlYOERRTG1uYzc2WG5mM1QzbG5mYlZlNFVoc01OcXQtU0xRbjU2Nm1BOGVBRVFwSUxyRkZRWlJRVnlyVjFTOVc3WmdSZ3ZveUpsUDJBRnVSWnRGVlBWYjFxcnRfdw?oc=5)
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
+
+---
+
+### [SEMERGEN propone tratar obesidad y diabetes tipo 2 de forma conjunta - Canal Diabetes](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUzhOTElXUmsxVm9tXzJiUjJ1SXlKN3YwY1BOU1BQQjdiVk5LTlQyRTk2cHdHc1NIR0hUOC1odXhrZG10ODJOVy1UcE9iWE0zVDZNdVlHVDU3ZUgwd28tWEtaM1lBVVRTZjhNeVU3RQ?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUzhOTElXUmsxVm9tXzJiUjJ1SXlKN3YwY1BOU1BQQjdiVk5LTlQyRTk2cHdHc1NIR0hUOC1odXhrZG10ODJOVy1UcE9iWE0zVDZNdVlHVDU3ZUgwd28tWEtaM1lBVVRTZjhNeVU3RQ?oc=5)
+
+---
+
+### [Juckreiz und Rötungen: Diese Hautprobleme können auf Diabetes hinweisen](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[News.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
 
 ---
 
@@ -66,35 +82,11 @@ permalink: /news/lixisenatide/
 
 ---
 
-### [Infosalus.- SEMERGEN presenta nuevas recomendaciones para abordar la obesidad en personas con diabetes tipo 2 en Atención Primaria](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWRSbF9pNlpMWG5sbjRFWno3S0FzTUhKeUMzWHVrcWx6SklZSDluTXBNMWY1aXdhYmJHYVR5UlZxZGMyV1RxSG1KQUh1NzdaRUtpZmhwWUJESXc4SVp4WWxlV3pYM005SFdKeGhraGdTU3k5Uk96Y1ZFYjNLa1ZUS1QyMFR1ZF9ldUdTQ2VpaGpvU2FWNUtGWTVFMTRzc2FjMXVDQ0JQUDIyQ3RuemowRjFpdGxIdURLbTA3anRuazdnWU40cFJsOTV2aEVsT05seDF4T0ZJMFNtOWdLWnpYalh5TFY4Nkc1TWN1UXhia3hmYy1ER3M3LTZYWHY?oc=5)
-
-2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWRSbF9pNlpMWG5sbjRFWno3S0FzTUhKeUMzWHVrcWx6SklZSDluTXBNMWY1aXdhYmJHYVR5UlZxZGMyV1RxSG1KQUh1NzdaRUtpZmhwWUJESXc4SVp4WWxlV3pYM005SFdKeGhraGdTU3k5Uk96Y1ZFYjNLa1ZUS1QyMFR1ZF9ldUdTQ2VpaGpvU2FWNUtGWTVFMTRzc2FjMXVDQ0JQUDIyQ3RuemowRjFpdGxIdURLbTA3anRuazdnWU40cFJsOTV2aEVsT05seDF4T0ZJMFNtOWdLWnpYalh5TFY4Nkc1TWN1UXhia3hmYy1ER3M3LTZYWHY?oc=5)
-
----
-
 ### [Gelockerte Zähne aufgrund von Parodontitis – Schienung oder Extraktion? - ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
 
 2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
-
----
-
-### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
-
-2026-03-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
-
----
-
-### [L'indice glycémique, l'atout pour se remettre en forme et s'alléger ce printemps](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOejlfR213SVNiT0JYSmxKM3o1THk0cDgweS1fQnFQaFA4RWVtWHRCMHJieUpBMUlTNThfbjE2ZHF2UjZjekhvM1N5Ni1jeEo4cml2Q2tkSEVUbEhnbVBIUWlVMFUwMnVmamZBd1pMMEpNd2p5andvcDBVSDVVczI5N19xMUhlOVliRFJseGxnOUF0Yy0zQ1NodkFjd0oydjVIcE45MVl5bDliNzRBeDlPcmlIa01jb1VYM3lNd3U0OEpOblNnU0NmWjVXWl9wT1I0enFqaW1zT05VS3VJVURuNzlmNVk5NnNWR3BLcQ?oc=5)
-
-2026-03-22 <span class="news-indication-tag">diabète</span>
-
-來源：[parismatch.be](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOejlfR213SVNiT0JYSmxKM3o1THk0cDgweS1fQnFQaFA4RWVtWHRCMHJieUpBMUlTNThfbjE2ZHF2UjZjekhvM1N5Ni1jeEo4cml2Q2tkSEVUbEhnbVBIUWlVMFUwMnVmamZBd1pMMEpNd2p5andvcDBVSDVVczI5N19xMUhlOVliRFJseGxnOUF0Yy0zQ1NodkFjd0oydjVIcE45MVl5bDliNzRBeDlPcmlIa01jb1VYM3lNd3U0OEpOblNnU0NmWjVXWl9wT1I0enFqaW1zT05VS3VJVURuNzlmNVk5NnNWR3BLcQ?oc=5)
 
 ---
 

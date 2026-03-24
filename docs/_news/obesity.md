@@ -38,11 +38,11 @@ permalink: /news/obesity/
 
 ## 相關新聞（2 則）
 
-### [Infosalus.- SEMERGEN presenta nuevas recomendaciones para abordar la obesidad en personas con diabetes tipo 2 en Atención Primaria](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWRSbF9pNlpMWG5sbjRFWno3S0FzTUhKeUMzWHVrcWx6SklZSDluTXBNMWY1aXdhYmJHYVR5UlZxZGMyV1RxSG1KQUh1NzdaRUtpZmhwWUJESXc4SVp4WWxlV3pYM005SFdKeGhraGdTU3k5Uk96Y1ZFYjNLa1ZUS1QyMFR1ZF9ldUdTQ2VpaGpvU2FWNUtGWTVFMTRzc2FjMXVDQ0JQUDIyQ3RuemowRjFpdGxIdURLbTA3anRuazdnWU40cFJsOTV2aEVsT05seDF4T0ZJMFNtOWdLWnpYalh5TFY4Nkc1TWN1UXhia3hmYy1ER3M3LTZYWHY?oc=5)
+### [SEMERGEN propone tratar obesidad y diabetes tipo 2 de forma conjunta - Canal Diabetes](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUzhOTElXUmsxVm9tXzJiUjJ1SXlKN3YwY1BOU1BQQjdiVk5LTlQyRTk2cHdHc1NIR0hUOC1odXhrZG10ODJOVy1UcE9iWE0zVDZNdVlHVDU3ZUgwd28tWEtaM1lBVVRTZjhNeVU3RQ?oc=5)
 
-2026-03-23
+2026-03-24
 
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWRSbF9pNlpMWG5sbjRFWno3S0FzTUhKeUMzWHVrcWx6SklZSDluTXBNMWY1aXdhYmJHYVR5UlZxZGMyV1RxSG1KQUh1NzdaRUtpZmhwWUJESXc4SVp4WWxlV3pYM005SFdKeGhraGdTU3k5Uk96Y1ZFYjNLa1ZUS1QyMFR1ZF9ldUdTQ2VpaGpvU2FWNUtGWTVFMTRzc2FjMXVDQ0JQUDIyQ3RuemowRjFpdGxIdURLbTA3anRuazdnWU40cFJsOTV2aEVsT05seDF4T0ZJMFNtOWdLWnpYalh5TFY4Nkc1TWN1UXhia3hmYy1ER3M3LTZYWHY?oc=5)
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUzhOTElXUmsxVm9tXzJiUjJ1SXlKN3YwY1BOU1BQQjdiVk5LTlQyRTk2cHdHc1NIR0hUOC1odXhrZG10ODJOVy1UcE9iWE0zVDZNdVlHVDU3ZUgwd28tWEtaM1lBVVRTZjhNeVU3RQ?oc=5)
 
 ---
 

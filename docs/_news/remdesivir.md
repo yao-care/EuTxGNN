@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Doctor issues warning over food ‘worse than smoking’ that is leading cause of ‘early death’](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
+### [List of foods ‘worse for you than smoking’ as doctor issues serious warning](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
 
-2026-03-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-03-24 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
-
----
-
-### [Una presión arterial diastólica elevada durante la juventud conlleva un riesgo de más de un 20% de padecer cardiopatías - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
-
-2026-03-23 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
 
 ---
 
