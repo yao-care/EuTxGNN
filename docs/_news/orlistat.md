@@ -42,6 +42,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（4 則）
 
+### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
+
+2026-03-24 <span class="news-indication-tag">stroke</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
+
+---
+
 ### [Doctor issues warning over food ‘worse than smoking’ that is leading cause of ‘early death’](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
 
 2026-03-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
@@ -50,27 +58,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Ein neuer Anfang nach dem Schlaganfall](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
+### [Infosalus.- SEMERGEN presenta nuevas recomendaciones para abordar la obesidad en personas con diabetes tipo 2 en Atención Primaria](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWRSbF9pNlpMWG5sbjRFWno3S0FzTUhKeUMzWHVrcWx6SklZSDluTXBNMWY1aXdhYmJHYVR5UlZxZGMyV1RxSG1KQUh1NzdaRUtpZmhwWUJESXc4SVp4WWxlV3pYM005SFdKeGhraGdTU3k5Uk96Y1ZFYjNLa1ZUS1QyMFR1ZF9ldUdTQ2VpaGpvU2FWNUtGWTVFMTRzc2FjMXVDQ0JQUDIyQ3RuemowRjFpdGxIdURLbTA3anRuazdnWU40cFJsOTV2aEVsT05seDF4T0ZJMFNtOWdLWnpYalh5TFY4Nkc1TWN1UXhia3hmYy1ER3M3LTZYWHY?oc=5)
 
-2026-03-23 <span class="news-indication-tag">Schlaganfall</span>
+2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Evangelisch.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMWRSbF9pNlpMWG5sbjRFWno3S0FzTUhKeUMzWHVrcWx6SklZSDluTXBNMWY1aXdhYmJHYVR5UlZxZGMyV1RxSG1KQUh1NzdaRUtpZmhwWUJESXc4SVp4WWxlV3pYM005SFdKeGhraGdTU3k5Uk96Y1ZFYjNLa1ZUS1QyMFR1ZF9ldUdTQ2VpaGpvU2FWNUtGWTVFMTRzc2FjMXVDQ0JQUDIyQ3RuemowRjFpdGxIdURLbTA3anRuazdnWU40cFJsOTV2aEVsT05seDF4T0ZJMFNtOWdLWnpYalh5TFY4Nkc1TWN1UXhia3hmYy1ER3M3LTZYWHY?oc=5)
 
 ---
 
 ### [Farmaci anti-obesità, aumenta il consumo in Trentino e si spende fino a 400 euro al mese. L'esperta: “Attenzione agli effetti collaterali. Senza terapia difficile mantenere il peso” - il Dolomiti](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWi1OejdPdHVBYi1iS0h6SlFtNWNhQXdNY28xREFqNl8wUzFrZldVUU0zQTg2OGdyNWRELXNqVGo0VmRIMVJqZHhNdUQtRlhpNm5DSlZTYUpvc2dWbGRIMTByTFNpWndPWGg1ZDlwSVlvMzcwbV9Gd0xoZ0kzdlNmOWdUQWpUYWpMN0xseUsyNDB6TTNBN1pmUXNwcnN5V0tYWG85RXVFQWtXWUZrdi1MQTYwNHlqZUxsVTZuRFM4Qlczd29aS1V3ZzZHNkZXSmxuWm9ua0I4NmxrWjg3dXZuOXhnWWNsZFlGc0dYbGtsT3UtZkZ3cEFZSXRJQndZcldxNUU5U2RzT0hUZE9DVF9iY0VEZ3EwdThSRWFOa0pTb2pjNEpaa2NHMkZ1SlJnNVVfYVhlR2dWM0c?oc=5)
 
-2026-03-23 <span class="news-indication-tag">obesità</span>
+2026-03-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 來源：[il Dolomiti](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWi1OejdPdHVBYi1iS0h6SlFtNWNhQXdNY28xREFqNl8wUzFrZldVUU0zQTg2OGdyNWRELXNqVGo0VmRIMVJqZHhNdUQtRlhpNm5DSlZTYUpvc2dWbGRIMTByTFNpWndPWGg1ZDlwSVlvMzcwbV9Gd0xoZ0kzdlNmOWdUQWpUYWpMN0xseUsyNDB6TTNBN1pmUXNwcnN5V0tYWG85RXVFQWtXWUZrdi1MQTYwNHlqZUxsVTZuRFM4Qlczd29aS1V3ZzZHNkZXSmxuWm9ua0I4NmxrWjg3dXZuOXhnWWNsZFlGc0dYbGtsT3UtZkZ3cEFZSXRJQndZcldxNUU5U2RzT0hUZE9DVF9iY0VEZ3EwdThSRWFOa0pTb2pjNEpaa2NHMkZ1SlJnNVVfYVhlR2dWM0c?oc=5)
-
----
-
-### [Ictus, la durata della siesta pomeridiana rivela la percentuale di rischio: ecco tutti i campanelli d'allarme - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
-
-2026-03-18 <span class="news-indication-tag">ictus</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
+
+### [Antibiotika: „Hinterlässt Spuren“ – Noch Jahre nach der Einnahme ist das Mikrobiom verändert](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb3FDQVZpbE04Q0VBUkpmeUtOWHJlUElndXdZeUE4SThaRlZQT0t2R2RTcktVczNNZlBtWjFoRkNwMGNWZVRjQjBHcFlGSENlbVhEMzF0ek9mZUdmWklMSDNsdDhNNU1TZEVQalVPRXM2bmNIQ0prNU5UV0FsSm5kM2FMeEt4d18tVWFROF91aVZKN05GSGprQ19GY0lJOHlVc05xUVpzdDhMQ0tPZ0RwLWUzMDNoTUdQWTlwTUQxMDdVRVM3UVpvUk1BZmR1d1NMbUFKTWxFVUJ2aVdJMS00aUFxTmpFWmlQWjJRM0NWaGw?oc=5)
+
+2026-03-24 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb3FDQVZpbE04Q0VBUkpmeUtOWHJlUElndXdZeUE4SThaRlZQT0t2R2RTcktVczNNZlBtWjFoRkNwMGNWZVRjQjBHcFlGSENlbVhEMzF0ek9mZUdmWklMSDNsdDhNNU1TZEVQalVPRXM2bmNIQ0prNU5UV0FsSm5kM2FMeEt4d18tVWFROF91aVZKN05GSGprQ19GY0lJOHlVc05xUVpzdDhMQ0tPZ0RwLWUzMDNoTUdQWTlwTUQxMDdVRVM3UVpvUk1BZmR1d1NMbUFKTWxFVUJ2aVdJMS00aUFxTmpFWmlQWjJRM0NWaGw?oc=5)
+
+---
+
+### [Hepatitis-Ausbruch in Italien: Stadt verbietet beliebtes Gericht in Restaurants](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa0dPUDJ4MEpXcGtfemh6aUZXdjZRQ0F6cUNiZWpyZDdPSWZwZlhHUU1ObWVmYS1mRFdZVkpEay1LNG45cmdUUFV6NUZBbXljNHFfOG5VdVNxb0VJRk84TXVDM3RuR2JpbnNEUkpZX1g5RXZMYW9PXzV4MXhiTl8xaWkwTGdwbGVITFlxUWxmY1piRWZEbjU1STlWRjR0NVJPRDVCdEJjSWdvU1NCRnp2VlVOckttQ0pmTE81blloRGdHMGp2QWpIYzFtXzBLQV9yQXl3?oc=5)
+
+2026-03-24 <span class="news-indication-tag">hepatitis</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa0dPUDJ4MEpXcGtfemh6aUZXdjZRQ0F6cUNiZWpyZDdPSWZwZlhHUU1ObWVmYS1mRFdZVkpEay1LNG45cmdUUFV6NUZBbXljNHFfOG5VdVNxb0VJRk84TXVDM3RuR2JpbnNEUkpZX1g5RXZMYW9PXzV4MXhiTl8xaWkwTGdwbGVITFlxUWxmY1piRWZEbjU1STlWRjR0NVJPRDVCdEJjSWdvU1NCRnp2VlVOckttQ0pmTE81blloRGdHMGp2QWpIYzFtXzBLQV9yQXl3?oc=5)
+
+---
+
+### [Investigadores del Hospital público Clínico San Carlos desarrollan un hidrogel que favorece la recuperación de mielina en ratones con esclerosis múltiple - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLUM0Q2VkRjhGeUVyZmpFeHhiMUYyUGdrRGltYkFDTlJ3LTBWdi1YTVM5emhjdTBqYmZLREtlVzJtYnpvQ3JFeDdqR250OEhXZGg1c3BFUGZpUUIxZ05KX0tLWjFpUU14cFNfenlVTExmM09sNFNOSUNOV1FTWFdGaHJNRnY1RTFYZkxFUlB3SXZ4UGlKbEdiQ1U0M2Z1SDVDaXlJMzR0Vy11U21nVTFNOHpsbmNaUHY0bEMtbHRudFNzNmk1MTJKQk45YzNPLWZObUdyM3ZoR2s2RkJIYVUzYmo3eTZGZkIwQXpNcg?oc=5)
+
+2026-03-24 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLUM0Q2VkRjhGeUVyZmpFeHhiMUYyUGdrRGltYkFDTlJ3LTBWdi1YTVM5emhjdTBqYmZLREtlVzJtYnpvQ3JFeDdqR250OEhXZGg1c3BFUGZpUUIxZ05KX0tLWjFpUU14cFNfenlVTExmM09sNFNOSUNOV1FTWFdGaHJNRnY1RTFYZkxFUlB3SXZ4UGlKbEdiQ1U0M2Z1SDVDaXlJMzR0Vy11U21nVTFNOHpsbmNaUHY0bEMtbHRudFNzNmk1MTJKQk45YzNPLWZObUdyM3ZoR2s2RkJIYVUzYmo3eTZGZkIwQXpNcg?oc=5)
+
+---
 
 ### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes - IPac Acuicultura](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
 
@@ -50,11 +74,27 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [La encefalitis transmitida por garrapatas, enfermedad con potencial emergente en España](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDVaeWtCM296OVpiQ1FjLWt3dndDTS1CakQ0eW5Va2NSX1VWNTdQYm94R1hLZEQzVEJocmdEN24tUElseTFOMmRZVGhRM1dvN29XUmlvem1CREFYT2NYOVhmeU1LT3pPU2pxa1N1eTZtVl9hZC1QNWI0SFZOSXhyaXdlN0oySElwaDZ2VERxRTdlN1pKdkZFU3JEbFNkdEhxOXZQS0tmNEE1cWlDTktRSFJn?oc=5)
+### [Giornata mondiale della tubercolosi, in Europa 200mila casi in un anno - Sky TG24](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEwwMmFTMHhZdDZHbmp3cW93MlUzOU1RMVd0ZTJWMmZFTVNMeWNMUk1TZERUYWpvcS1VemhWUzVZUW9XSk0yMV9iTVJna2c5UzFZNU1qVGNlNTBmN3ZXbEpTMHpjRUpSX2UxMkFSVEhMRlRDZnRneTUtbGVwVlpDNWNfVnpGMHZIeF9aS1NUYmhqUlR0TUE?oc=5)
 
 2026-03-24 <span class="news-indication-tag">MS</span>
 
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDVaeWtCM296OVpiQ1FjLWt3dndDTS1CakQ0eW5Va2NSX1VWNTdQYm94R1hLZEQzVEJocmdEN24tUElseTFOMmRZVGhRM1dvN29XUmlvem1CREFYT2NYOVhmeU1LT3pPU2pxa1N1eTZtVl9hZC1QNWI0SFZOSXhyaXdlN0oySElwaDZ2VERxRTdlN1pKdkZFU3JEbFNkdEhxOXZQS0tmNEE1cWlDTktRSFJn?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEwwMmFTMHhZdDZHbmp3cW93MlUzOU1RMVd0ZTJWMmZFTVNMeWNMUk1TZERUYWpvcS1VemhWUzVZUW9XSk0yMV9iTVJna2c5UzFZNU1qVGNlNTBmN3ZXbEpTMHpjRUpSX2UxMkFSVEhMRlRDZnRneTUtbGVwVlpDNWNfVnpGMHZIeF9aS1NUYmhqUlR0TUE?oc=5)
+
+---
+
+### [Psychology says people who describe themselves as joyful after 50 didn't suddenly become optimistic — they stopped treating happiness like a reward for perfect behavior and started treating it like a practice](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMFgxa3h1dDVxNm4xTkhYQmRsVGxkb1RfMWdmQjVNd21WUllURjI2N0FHeXRUN3FZZElKZnNUVnliTTZxcS0yTkxacWQ5WDhZUjB6RWxRbjJYVFZhcWI4ZVR1MXRlRjI2TmxfOFBDcm5CUm9FRjhuM1hnUXBWZU82MG1fcG5YbGFlSEIwMUFHc3lfUEkyT2tHYWxDaEZxSGhQZDV0X2MzaTlYUS16MVBvcEFGTUl3VTJGQWFCZnEtdEYtejQtMXVLNS1RV1d2WWlzczVqckJsZ3M3ZjNWWTlTR3JtRk5OYVJzVTREWDRtcElHaG5XQ3hMTzFWeW44ZEFCbUhDMFhiY0VZZ0pnTXkzX0dNdFNIQldqZjJ3dVdmR3RxZnJuZ2lHVE81RnpRTE5JeE5EaXVsckVqUnFCWVRBOXFraTJfR0FR?oc=5)
+
+2026-03-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[VegOut](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMFgxa3h1dDVxNm4xTkhYQmRsVGxkb1RfMWdmQjVNd21WUllURjI2N0FHeXRUN3FZZElKZnNUVnliTTZxcS0yTkxacWQ5WDhZUjB6RWxRbjJYVFZhcWI4ZVR1MXRlRjI2TmxfOFBDcm5CUm9FRjhuM1hnUXBWZU82MG1fcG5YbGFlSEIwMUFHc3lfUEkyT2tHYWxDaEZxSGhQZDV0X2MzaTlYUS16MVBvcEFGTUl3VTJGQWFCZnEtdEYtejQtMXVLNS1RV1d2WWlzczVqckJsZ3M3ZjNWWTlTR3JtRk5OYVJzVTREWDRtcElHaG5XQ3hMTzFWeW44ZEFCbUhDMFhiY0VZZ0pnTXkzX0dNdFNIQldqZjJ3dVdmR3RxZnJuZ2lHVE81RnpRTE5JeE5EaXVsckVqUnFCWVRBOXFraTJfR0FR?oc=5)
+
+---
+
+### [Verdopplung der MS-Fälle in England: Fortschritte und Herausforderungen - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFNxTVVUNjBncnBIYjdnOXlPS0JydGpSNDA1REFSRk5CQUh4MkJUWHZDOGZTNjhfTEtFdjFYQ3d5c19sa2NGN29zM3o5bnRudUlzNFdCeWdYWXpWbm5aZnl5U3JKcjZoa2czdXFIOGFocWlvMmdsVmIyeDltN2R0QnFrTmVpc0o3ajJnRDd5bzEzWE9vb2ZTMzVHdnNSQzhLb1RrWGJB?oc=5)
+
+2026-03-23 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFNxTVVUNjBncnBIYjdnOXlPS0JydGpSNDA1REFSRk5CQUh4MkJUWHZDOGZTNjhfTEtFdjFYQ3d5c19sa2NGN29zM3o5bnRudUlzNFdCeWdYWXpWbm5aZnl5U3JKcjZoa2czdXFIOGFocWlvMmdsVmIyeDltN2R0QnFrTmVpc0o3ajJnRDd5bzEzWE9vb2ZTMzVHdnNSQzhLb1RrWGJB?oc=5)
 
 ---
 
@@ -79,6 +119,14 @@ permalink: /news/sofosbuvir/
 2026-03-23 <span class="news-indication-tag">hepatitis</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNW81SEk4Znk4LUxPbUV5TUdGak9LNzNaQ2FKb0VTQ1lTMFNncm56SWFpdG1SYUFaaFF0VDgwR2RZR3d5MGwxX09sdWVVNnRHcWo4cXE0NV9rR3ExYUVLTldjZ0FoQkgzU2VJMGpiejJ0M0ZaSV9JVHpzSlVNS3p1ZU9mS2VwOXFvdXdicXlUUzlTSHJpTGZTbGowR0E5UktBVnhXYmRNakxVS0Fwc2ZLMl9hbjVsTEYta1BudDhXZXDSAbsBQVVfeXFMTmZpdnhFbmxJYW84Y1VVRFJuVlBpU08xOU9ydWVIX0w1SHJDLTlsLVFJWllJUlNBQVZTT1ZRYVFzbUxBQjFQYmVSZnp4V2tfcTVJTjFnUG1Vc2dwYXdRTmhVamlWZXdzeTJxenQ3bGJGSTYtclVmV21fZFBRc25JMF9IRUtOcUtaX05VZVdaWEZ5QUZyMUlOSGpFMlRXVG5XQVgyV05pVGJ4TVJwNWxrR1JOcktXNlRCb0VvVQ?oc=5)
+
+---
+
+### [Alzheimer, scoperto un “interruttore” che alimenta la perdita di memoria: coinvolte due proteine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcG90QlB5NFVQekVKYXdVYzViYUo3cldWSzlXdU9lUkJUN3BUZFVHeS0tUmRDaGVmdUNRcUN3a2RlV0RDSS1pZUZBYVctWkNoN0Y5U2VPbVhjUFg1R0dSMkFIRXZDTTdaaTJXVFVqWWNrdGlpUVQ0VnFfXzZBVENPYkhlZ0FiXzVWQXhaTkFFOXhxVWVKcnp5QXNpVFJGbW4yZ1k4S3ZMaEJHd3BXRnp4N0REMU1GQUlqUXQxMUhqd1JZWVhseTNYQ3dWMVVVRndGc0E?oc=5)
+
+2026-03-23 <span class="news-indication-tag">MS</span>
+
+來源：[fanpage.it](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcG90QlB5NFVQekVKYXdVYzViYUo3cldWSzlXdU9lUkJUN3BUZFVHeS0tUmRDaGVmdUNRcUN3a2RlV0RDSS1pZUZBYVctWkNoN0Y5U2VPbVhjUFg1R0dSMkFIRXZDTTdaaTJXVFVqWWNrdGlpUVQ0VnFfXzZBVENPYkhlZ0FiXzVWQXhaTkFFOXhxVWVKcnp5QXNpVFJGbW4yZ1k4S3ZMaEJHd3BXRnp4N0REMU1GQUlqUXQxMUhqd1JZWVhseTNYQ3dWMVVVRndGc0E?oc=5)
 
 ---
 
@@ -111,38 +159,6 @@ permalink: /news/sofosbuvir/
 2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
-
----
-
-### [Neue Studien: Ernährung schützt Nieren und Leber ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VqdDJrZVNRNW8wX19ObllYaGdZTDZ2MHZieDF2NE1XQWdpRmpmbERobW5tQW9KNkhJZWx3d1VfdWtvY2tMMnZDRVVIWWJFNTh6Y0tVemRGaDFjX0h3Z0tHdDR2RWk1OVI0SVNpeGxGLUFoNXpoVTlhMUtDRHhMSndDOHI3T0RidVh2c2UxN0FuYmlUYnlfckpJNExBQUh0UmNVVzVtaw?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span>
-
-來源：[Börse Social](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VqdDJrZVNRNW8wX19ObllYaGdZTDZ2MHZieDF2NE1XQWdpRmpmbERobW5tQW9KNkhJZWx3d1VfdWtvY2tMMnZDRVVIWWJFNTh6Y0tVemRGaDFjX0h3Z0tHdDR2RWk1OVI0SVNpeGxGLUFoNXpoVTlhMUtDRHhMSndDOHI3T0RidVh2c2UxN0FuYmlUYnlfckpJNExBQUh0UmNVVzVtaw?oc=5)
-
----
-
-### [Bereits 150 Hepatitis-A-Fälle in Neapel - PULS 24](https://news.google.com/rss/articles/CBMiigFBVV95cUxPanRzNVVZRklRMWVPaFVtV21BTHlyLXlmVEJlS0FBb2hDSy1GMTFzTjUyUDFJQXJXNFhKU0xFdnhtYXJzeVA1S3lMLXZINkRUYm5GTS00bUhxRWRhaTdhZGNZMHFnZFk4aFBLMGVZVFd1RDdwbUdudk9uaV9HMHNpbVFOcTlBbjJRWlE?oc=5)
-
-2026-03-22 <span class="news-indication-tag">hepatitis</span>
-
-來源：[PULS 24](https://news.google.com/rss/articles/CBMiigFBVV95cUxPanRzNVVZRklRMWVPaFVtV21BTHlyLXlmVEJlS0FBb2hDSy1GMTFzTjUyUDFJQXJXNFhKU0xFdnhtYXJzeVA1S3lMLXZINkRUYm5GTS00bUhxRWRhaTdhZGNZMHFnZFk4aFBLMGVZVFd1RDdwbUdudk9uaV9HMHNpbVFOcTlBbjJRWlE?oc=5)
-
----
-
-### [DR MAX PEMBERTON: Why over 50s are at risk from meningitis outbreak - Daily Mail](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW5ZUlI3YVBIeW1BSU5CblVoNmc1SFliRVhRa0I2MDRTYWh1OTNEelNrbkJ5cWNHdERqSmRHell0THczVVBkb0pKeWVrb0JaUDVaX2IzZXlidy1HeEdzaUU2RGNVVXE3a1Z4T3ByZFlpd3JXeldJa0NZVS1QMHRNa2l0bFotRnVpN3h3bmQzMnM2cUVtaE1NTG5UOERXN2ZUS0VwUFFrSQ?oc=5)
-
-2026-03-22 <span class="news-indication-tag">MS</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW5ZUlI3YVBIeW1BSU5CblVoNmc1SFliRVhRa0I2MDRTYWh1OTNEelNrbkJ5cWNHdERqSmRHell0THczVVBkb0pKeWVrb0JaUDVaX2IzZXlidy1HeEdzaUU2RGNVVXE3a1Z4T3ByZFlpd3JXeldJa0NZVS1QMHRNa2l0bFotRnVpN3h3bmQzMnM2cUVtaE1NTG5UOERXN2ZUS0VwUFFrSQ?oc=5)
-
----
-
-### [Suspected new case of meningitis in Manchester after number of Kent cases falls](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUVtUHpsOVgwMkUzbWR5MG9IVjNpaGVlaVA5RFNKUVFGQUVnaVhOMlhfQVdtRkJDX2d0UVdkU1JydFRodEdGVnRUNGxMa0VGeTczNWtjejVSbzBBRDlQS05MUkVNTU92V3lGaTFYOTlmUEpyTURaQ2ZtVHRzWW1landmTWtYT1BQN1JBSdIBkgFBVV95cUxOMHc5Y0xscUlWcWg4S1dWaW1hQTltcER2Mjd6NTBXTWM1djJhZC1aODdNWEJJOFBPUWFCbzZhUHFydmx3Y2JMWGp4bVIwcEdhSzFWX0VXNWFuTEVPd1IzSFFZLU1XV2luZU9rUlhLQk4tXzgxMmZlSVhBZXZWVTZCdmNlTHYtcC1kQzdRUmNZQ1RpZw?oc=5)
-
-2026-03-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUVtUHpsOVgwMkUzbWR5MG9IVjNpaGVlaVA5RFNKUVFGQUVnaVhOMlhfQVdtRkJDX2d0UVdkU1JydFRodEdGVnRUNGxMa0VGeTczNWtjejVSbzBBRDlQS05MUkVNTU92V3lGaTFYOTlmUEpyTURaQ2ZtVHRzWW1landmTWtYT1BQN1JBSdIBkgFBVV95cUxOMHc5Y0xscUlWcWg4S1dWaW1hQTltcER2Mjd6NTBXTWM1djJhZC1aODdNWEJJOFBPUWFCbzZhUHFydmx3Y2JMWGp4bVIwcEdhSzFWX0VXNWFuTEVPd1IzSFFZLU1XV2luZU9rUlhLQk4tXzgxMmZlSVhBZXZWVTZCdmNlTHYtcC1kQzdRUmNZQ1RpZw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [La microbiota intestinal puede actuar como mediador entre la dieta y la depresión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVExPT0dhd3dNa0tkSnBTb24xaEdPemFCc3ZQeDk4QnVQWE1Ec2NWdE9fYzRqT1hVNGlnSkhLQUFkbnhyaUd3ZW5yQzZ3TFkyLUVOMmVJNG5GOUVPNGhTcjNDWENLLWV1S3RISUJsY3cwdEhhNWVXYTVGQWF4UHgzV2pYQV80R1JNOHNtN20ybkhxU1RyVEVrYm9nWdIBmwFBVV95cUxOS0I0S3lZX1U4dndzUlhSd2JBY19JZVM1LXFKWjRTUC1LVGhHd1gtY1A0YUhwTDNZYnJZakM5alZPVEVlTGlzSXB1cmN4MjFRRTl1a1FzeWdxTy1ZWjlSRHkyblRySnpDajlXMkFXR3pUM2Z2SmlITVRwYXBoTWNyeGVkeEZ4YkRWTDhYM1Y2SGFfLS1MM3hhRm1sYw?oc=5)
+### [La microbiota intestinal podría explicar la relación entre dieta y depresión: "es un paso importante"](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHJaUDdNVFNCZDBSVlZ6YzMxODM1UngxZURROVhBbGpvX3lpZWpKTHg4YzROenBfUnU0NmFqV09WM1F0VzZMclRJZ0hfRmk1RDVVNzN1V01IUlk0bEFIcXM2Y1dTd0Vac0lBSTdoUGdVSDFrZzNtWDZGS0FuZy1OSTBkSjJoVWEtV1Q5Q0cxX0FBYXUyZkJoNzdJa0Y3bEp3YXgyNG5weFBqYnhqZlFiWm8xTzVIX3NfVjN2a1h4VURlOUpyNU9wdEk1SnR3SEpMd0dLbVFYcjR0MDJpd3R4U1MwVGIzSmc?oc=5)
+
+2026-03-24
+
+來源：[Segre.com](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHJaUDdNVFNCZDBSVlZ6YzMxODM1UngxZURROVhBbGpvX3lpZWpKTHg4YzROenBfUnU0NmFqV09WM1F0VzZMclRJZ0hfRmk1RDVVNzN1V01IUlk0bEFIcXM2Y1dTd0Vac0lBSTdoUGdVSDFrZzNtWDZGS0FuZy1OSTBkSjJoVWEtV1Q5Q0cxX0FBYXUyZkJoNzdJa0Y3bEp3YXgyNG5weFBqYnhqZlFiWm8xTzVIX3NfVjN2a1h4VURlOUpyNU9wdEk1SnR3SEpMd0dLbVFYcjR0MDJpd3R4U1MwVGIzSmc?oc=5)
+
+---
+
+### [Diese Rolle spielen Vitamine bei Depressionen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU50ZURabEEzcEx2NEhJUjJnNks2a0tPZGJVZGdHNWNiVkt4OHY1TGVYVDdCOEMwOWZSRktFV2VOeERoR0s5TUlXOWhpQ0I0Y2luZ2tmbVhPVHdYel9zQVlmM1BSbWV2c1JLR3ZuWnhHdTBDb2dRVUM5VjYzYmthRTdRMnp3b0IyT0l5VTlWREtWdWU1QXFzdHYwa0RKdVNvUm5HeGRzaDc5ODRjMzU4VA?oc=5)
+
+2026-03-24
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU50ZURabEEzcEx2NEhJUjJnNks2a0tPZGJVZGdHNWNiVkt4OHY1TGVYVDdCOEMwOWZSRktFV2VOeERoR0s5TUlXOWhpQ0I0Y2luZ2tmbVhPVHdYel9zQVlmM1BSbWV2c1JLR3ZuWnhHdTBDb2dRVUM5VjYzYmthRTdRMnp3b0IyT0l5VTlWREtWdWU1QXFzdHYwa0RKdVNvUm5HeGRzaDc5ODRjMzU4VA?oc=5)
+
+---
+
+### [30 ans de dépression : cette stimulation cérébrale provoque un tournant inattendu - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWEdHTEc2QkNFVlZrQ1BpWFBKc3llc0lheF9CazRtbmtiY21xTTNhTERmWXI5ei1GTEdkemxkSkZad3diczA0S2w5emgzNVNRb2I2cFBudWNObDQyeDQyaUhRcnNpbzMxZTQ5TkVfX0xWRDFKbWJJenFmbDVBcG9NREdaRHdsaDl4bkd4cGJSMzI2ME40RXc0amRzN2FSd0Noelg5WUVWSFVqcUxVWS1NVjhjdHU1bnE0RmJ3RlJsb0U2UlIwR2V3ano0STJTdTE5QVlrTWo5LXdxS3dKSVJr?oc=5)
 
 2026-03-23
 
-來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVExPT0dhd3dNa0tkSnBTb24xaEdPemFCc3ZQeDk4QnVQWE1Ec2NWdE9fYzRqT1hVNGlnSkhLQUFkbnhyaUd3ZW5yQzZ3TFkyLUVOMmVJNG5GOUVPNGhTcjNDWENLLWV1S3RISUJsY3cwdEhhNWVXYTVGQWF4UHgzV2pYQV80R1JNOHNtN20ybkhxU1RyVEVrYm9nWdIBmwFBVV95cUxOS0I0S3lZX1U4dndzUlhSd2JBY19JZVM1LXFKWjRTUC1LVGhHd1gtY1A0YUhwTDNZYnJZakM5alZPVEVlTGlzSXB1cmN4MjFRRTl1a1FzeWdxTy1ZWjlSRHkyblRySnpDajlXMkFXR3pUM2Z2SmlITVRwYXBoTWNyeGVkeEZ4YkRWTDhYM1Y2SGFfLS1MM3hhRm1sYw?oc=5)
+來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWEdHTEc2QkNFVlZrQ1BpWFBKc3llc0lheF9CazRtbmtiY21xTTNhTERmWXI5ei1GTEdkemxkSkZad3diczA0S2w5emgzNVNRb2I2cFBudWNObDQyeDQyaUhRcnNpbzMxZTQ5TkVfX0xWRDFKbWJJenFmbDVBcG9NREdaRHdsaDl4bkd4cGJSMzI2ME40RXc0amRzN2FSd0Noelg5WUVWSFVqcUxVWS1NVjhjdHU1bnE0RmJ3RlJsb0U2UlIwR2V3ano0STJTdTE5QVlrTWo5LXdxS3dKSVJr?oc=5)
 
 ---
 
@@ -50,14 +66,6 @@ permalink: /news/depression/
 2026-03-23
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDc2VjdHcmwwaWhOT2VhV0pJY3FJdnV1MG55ZjJqZmZDbmxCMHZxRXd5UFFKYVRBdUNxR2xWMkxLQ0E0emdEdWJPMk1qMWttR2RLSG5nODlNOTcwaDdtbHZKZW42YWxJcEhTaXpjUWctLUFGeHFCdWw3TncybmNfd1hmUUlHRGFIZGVaVkNWYw?oc=5)
-
----
-
-### [Por qué el dolor crónico deprime a unos y a otros no: la ciencia por fin tiene respuesta](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTRiRnV6UTJ1Vk4wV0FxeFliTzRIZTRPSG1VczVkdWNUV3Q0MnF1a24wTVRxMGozUXpDWlpxdlJvVl9nSThXcHZfbnJYWWVZR2UyQlVDb2tCWHpUeWlBVDRhSW45M013UERnSzlUN1NMYlNnc0tIYTlxemJ3Y0x6eXVEZ0Y2M1NKTmFCU2FjUEhieWo3elN4RXNmc1lIWTBuZ1B0WU9GZTNEZGExNWVPbkM0M1BMcXFLblF5TzVDanFPSE5mc1E1NXAtNko?oc=5)
-
-2026-03-23
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTRiRnV6UTJ1Vk4wV0FxeFliTzRIZTRPSG1VczVkdWNUV3Q0MnF1a24wTVRxMGozUXpDWlpxdlJvVl9nSThXcHZfbnJYWWVZR2UyQlVDb2tCWHpUeWlBVDRhSW45M013UERnSzlUN1NMYlNnc0tIYTlxemJ3Y0x6eXVEZ0Y2M1NKTmFCU2FjUEhieWo3elN4RXNmc1lIWTBuZ1B0WU9GZTNEZGExNWVPbkM0M1BMcXFLblF5TzVDanFPSE5mc1E1NXAtNko?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Una presión arterial diastólica elevada durante la juventud conlleva un riesgo de más de un 20% de padecer cardiopatías - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
+### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
 
-2026-03-23 <span class="news-indication-tag">cardiopatía</span>
+2026-03-24 <span class="news-indication-tag">stroke</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
 
 ---
 
@@ -58,19 +58,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Ein neuer Anfang nach dem Schlaganfall](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
+### [Una presión arterial diastólica elevada durante la juventud conlleva un riesgo de más de un 20% de padecer cardiopatías - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
 
-2026-03-23 <span class="news-indication-tag">Schlaganfall</span>
+2026-03-23 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Evangelisch.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUowT0I4LVdLZWlzNUM4TjVXeWhsWXExSFVac0ZUVjFBTlMyVmk3ai1XNDJQanNYb2ZtZWs1SGJhcGl3MGhBaHIzZFBTRHQ2SUMycGJXZlk4MXQ3bUcwY3htTE5NZkd2bmNpZ2kwQjdGR09SaFp2SUxVQXo0VXdjOFpzdnkxUDltN0lqZDROVVBlUVR4eGc?oc=5)
-
----
-
-### [Ictus, la durata della siesta pomeridiana rivela la percentuale di rischio: ecco tutti i campanelli d'allarme - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
-
-2026-03-18 <span class="news-indication-tag">ictus</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzVNYVBfaDdKMWh5emNxR05yMWJsdXFUSHZKU1dXVUxTRlFBSTg5bUx4a1NSbWpzQ2xrQ0hUZk1LXzlsaTBDa0lnMnBVR1h5enNhNWFtRkoxVjM5U085WjE0NEVGRV9yT3Flc2hZVFlwdG1vaFI2SXJ4endkZjFzS0Z3QlZJNnZfRzlyU2xYeEwxVlFTNURKZDc3Sm15SW5wak5EcE55SWxQcVZfTG9YdmxHMl9jWXREOVZN?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
 
 ---
 

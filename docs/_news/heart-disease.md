@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiopatía（heart disease） 相關新聞"
+title: "cardiovascular disease（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "cardiopatía（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "cardiovascular disease（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# cardiopatía（heart disease） 相關新聞
+# cardiovascular disease（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
-<strong>cardiopatía（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiovascular disease（heart disease） 有什麼相關新聞？">
+<strong>cardiovascular disease（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiovascular disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -87,19 +87,19 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（2 則）
 
-### [Una presión arterial diastólica elevada durante la juventud conlleva un riesgo de más de un 20% de padecer cardiopatías - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
-
-2026-03-23
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
-
----
-
 ### [Doctor issues warning over food ‘worse than smoking’ that is leading cause of ‘early death’](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
 
 2026-03-23
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
+
+---
+
+### [Una presión arterial diastólica elevada durante la juventud conlleva un riesgo de más de un 20% de padecer cardiopatías - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
+
+2026-03-23
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEd2MHBzSW94M05GYUFCMUNHb1BnT0ZKVkNvbXpxUjRpWGNiYnBDSnpzOUo5c2tIa2pVbHVuRVRJc0JzRXg3MHhlR1NhWldzSnUyVTJDTmpUZWNMSy1XVmZQUEhicWJmMzA1NFBsN05XV0RNVWlMZ3FtbmZLX0M5eUNlZTl2d2FQaHZEc3cxRGZudEFVQldhc0VmTHowaXBEcHFmWXdGRGw5ZGNUazMxVDI2RjRrVWhyWGVnUEM1aUjSAbsBQVVfeXFMTkt3eW1DOEVSUnRSYVlkNmo4YlVsb3dHMnJGTm9fWl90RTVXRlN1RVNybVZHLWtFU3pQa0k5U3YyZjN4UFhaUnhSNDh6N0NhWWVSOGlMTC1wNWVaOGR5VWxDNUk0MGVULUROc1NpMjQ1VzFfa0RkazE4NEVZcWhUMzFHcXZ1b0RQcWthVUN3Rm5Ua3JIMFJ6aWV3anZ3aGN5NkpWRzRDNmhmYVhqd1BEdVVjdE1veWZkR25HUQ?oc=5)
 
 ---
 

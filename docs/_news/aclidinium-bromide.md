@@ -14,7 +14,7 @@ permalink: /news/aclidinium-bromide/
 ---
 
 <p class="key-answer" data-question="Aclidinium Bromide 有什麼相關新聞？">
-<strong>Aclidinium Bromide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aclidinium Bromide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ permalink: /news/aclidinium-bromide/
 <p><a href="{{ '/drugs/aclidinium-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El abordaje precoz de la migraña puede condicionar su evolución - Diario de Sevilla](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVExDUUhHU2NibDBic1RkejhFeXo2UDRydm1vQkcwLU9VNExFcWEtLW1uUEVQQWt5X3ppNDFOWXJfZ0Y3STNIOGlfZHV1SHZBcHhveTYtc3hrNWVnejY5SlJ2VUF1NVdPak02Tjhsc09FR3R1dGJYRDlKMHdBa0lHZHRFVTJJc0h4WWpZTTRaUjlUcTR3SEEwVjVOdXdSdTNRWnJjeXdqSEtRTWxyT0NCMNIBtgFBVV95cUxNbEdpZExYR2d3enZ2YnRNSHVDdml1N0dPYl9Qd1BfRVRsM05QM2h6MU8xVDRvVnNmNWVJdDFmcDA4TXpsUFFXbjh3QkExbWpBcms3M01ybDBGeGowSWw1bWkyQS1xZkpNWjY3aXJRWWpjbER2Z2pyalc3Q1BHWldBY05oLTNzeWNmZFBSNDFyd0hpWGIzVmQzcFJjakFyZkQ4Qk1WMkttOHNFSi15S3dOaGt2ZWRJUQ?oc=5)
-
-2026-03-23 <span class="news-indication-tag">migraña</span>
-
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVExDUUhHU2NibDBic1RkejhFeXo2UDRydm1vQkcwLU9VNExFcWEtLW1uUEVQQWt5X3ppNDFOWXJfZ0Y3STNIOGlfZHV1SHZBcHhveTYtc3hrNWVnejY5SlJ2VUF1NVdPak02Tjhsc09FR3R1dGJYRDlKMHdBa0lHZHRFVTJJc0h4WWpZTTRaUjlUcTR3SEEwVjVOdXdSdTNRWnJjeXdqSEtRTWxyT0NCMNIBtgFBVV95cUxNbEdpZExYR2d3enZ2YnRNSHVDdml1N0dPYl9Qd1BfRVRsM05QM2h6MU8xVDRvVnNmNWVJdDFmcDA4TXpsUFFXbjh3QkExbWpBcms3M01ybDBGeGowSWw1bWkyQS1xZkpNWjY3aXJRWWpjbER2Z2pyalc3Q1BHWldBY05oLTNzeWNmZFBSNDFyd0hpWGIzVmQzcFJjakFyZkQ4Qk1WMkttOHNFSi15S3dOaGt2ZWRJUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

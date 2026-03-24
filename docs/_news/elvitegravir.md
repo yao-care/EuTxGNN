@@ -42,6 +42,14 @@ permalink: /news/elvitegravir/
 
 ## 相關新聞（6 則）
 
+### [Hepatitis-Ausbruch in Italien: Stadt verbietet beliebtes Gericht in Restaurants](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa0dPUDJ4MEpXcGtfemh6aUZXdjZRQ0F6cUNiZWpyZDdPSWZwZlhHUU1ObWVmYS1mRFdZVkpEay1LNG45cmdUUFV6NUZBbXljNHFfOG5VdVNxb0VJRk84TXVDM3RuR2JpbnNEUkpZX1g5RXZMYW9PXzV4MXhiTl8xaWkwTGdwbGVITFlxUWxmY1piRWZEbjU1STlWRjR0NVJPRDVCdEJjSWdvU1NCRnp2VlVOckttQ0pmTE81blloRGdHMGp2QWpIYzFtXzBLQV9yQXl3?oc=5)
+
+2026-03-24 <span class="news-indication-tag">hepatitis</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa0dPUDJ4MEpXcGtfemh6aUZXdjZRQ0F6cUNiZWpyZDdPSWZwZlhHUU1ObWVmYS1mRFdZVkpEay1LNG45cmdUUFV6NUZBbXljNHFfOG5VdVNxb0VJRk84TXVDM3RuR2JpbnNEUkpZX1g5RXZMYW9PXzV4MXhiTl8xaWkwTGdwbGVITFlxUWxmY1piRWZEbjU1STlWRjR0NVJPRDVCdEJjSWdvU1NCRnp2VlVOckttQ0pmTE81blloRGdHMGp2QWpIYzFtXzBLQV9yQXl3?oc=5)
+
+---
+
 ### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes - IPac Acuicultura](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
 
 2026-03-24 <span class="news-indication-tag">hepatitis</span>
@@ -79,14 +87,6 @@ permalink: /news/elvitegravir/
 2026-03-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
-
----
-
-### [Bereits 150 Hepatitis-A-Fälle in Neapel - PULS 24](https://news.google.com/rss/articles/CBMiigFBVV95cUxPanRzNVVZRklRMWVPaFVtV21BTHlyLXlmVEJlS0FBb2hDSy1GMTFzTjUyUDFJQXJXNFhKU0xFdnhtYXJzeVA1S3lMLXZINkRUYm5GTS00bUhxRWRhaTdhZGNZMHFnZFk4aFBLMGVZVFd1RDdwbUdudk9uaV9HMHNpbVFOcTlBbjJRWlE?oc=5)
-
-2026-03-22 <span class="news-indication-tag">hepatitis</span>
-
-來源：[PULS 24](https://news.google.com/rss/articles/CBMiigFBVV95cUxPanRzNVVZRklRMWVPaFVtV21BTHlyLXlmVEJlS0FBb2hDSy1GMTFzTjUyUDFJQXJXNFhKU0xFdnhtYXJzeVA1S3lMLXZINkRUYm5GTS00bUhxRWRhaTdhZGNZMHFnZFk4aFBLMGVZVFd1RDdwbUdudk9uaV9HMHNpbVFOcTlBbjJRWlE?oc=5)
 
 ---
 

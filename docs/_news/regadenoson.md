@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [El abordaje precoz de la migraña puede condicionar su evolución - Diario de Sevilla](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVExDUUhHU2NibDBic1RkejhFeXo2UDRydm1vQkcwLU9VNExFcWEtLW1uUEVQQWt5X3ppNDFOWXJfZ0Y3STNIOGlfZHV1SHZBcHhveTYtc3hrNWVnejY5SlJ2VUF1NVdPak02Tjhsc09FR3R1dGJYRDlKMHdBa0lHZHRFVTJJc0h4WWpZTTRaUjlUcTR3SEEwVjVOdXdSdTNRWnJjeXdqSEtRTWxyT0NCMNIBtgFBVV95cUxNbEdpZExYR2d3enZ2YnRNSHVDdml1N0dPYl9Qd1BfRVRsM05QM2h6MU8xVDRvVnNmNWVJdDFmcDA4TXpsUFFXbjh3QkExbWpBcms3M01ybDBGeGowSWw1bWkyQS1xZkpNWjY3aXJRWWpjbER2Z2pyalc3Q1BHWldBY05oLTNzeWNmZFBSNDFyd0hpWGIzVmQzcFJjakFyZkQ4Qk1WMkttOHNFSi15S3dOaGt2ZWRJUQ?oc=5)
-
-2026-03-23 <span class="news-indication-tag">migraña</span>
-
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVExDUUhHU2NibDBic1RkejhFeXo2UDRydm1vQkcwLU9VNExFcWEtLW1uUEVQQWt5X3ppNDFOWXJfZ0Y3STNIOGlfZHV1SHZBcHhveTYtc3hrNWVnejY5SlJ2VUF1NVdPak02Tjhsc09FR3R1dGJYRDlKMHdBa0lHZHRFVTJJc0h4WWpZTTRaUjlUcTR3SEEwVjVOdXdSdTNRWnJjeXdqSEtRTWxyT0NCMNIBtgFBVV95cUxNbEdpZExYR2d3enZ2YnRNSHVDdml1N0dPYl9Qd1BfRVRsM05QM2h6MU8xVDRvVnNmNWVJdDFmcDA4TXpsUFFXbjh3QkExbWpBcms3M01ybDBGeGowSWw1bWkyQS1xZkpNWjY3aXJRWWpjbER2Z2pyalc3Q1BHWldBY05oLTNzeWNmZFBSNDFyd0hpWGIzVmQzcFJjakFyZkQ4Qk1WMkttOHNFSi15S3dOaGt2ZWRJUQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Darm saniert, Asthma weg: Dank dieser Ernährung kommt Theresa ohne Spray aus - Berliner Morgenpost](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmw4aW42TjVvR0Q2T0FwYngyc3VmNUxiTHQyM3FmVFlJTDJyQXJGbTlNdTQtd2d1eGJDNVRJRTlMVTFyWEtPcDZncDBSODRJa2syY1lJVHR0NDE5VGMyMV8xM25MdU5RSHVoRndYZkZpVktvNXcwaDBBSUN1WmVkZ3dSZ2wwVkNoMGp6THd5cDdvSHJjUjlBbkpJYXB5T294RFhpWHJwUQ?oc=5)
 
