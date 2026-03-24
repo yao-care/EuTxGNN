@@ -20,7 +20,7 @@ def normalize_slug(name: str) -> str:
 
 def load_predictions():
     """Load prediction data"""
-    predictions_file = Path("data/processed/repurposing_candidates.csv")
+    predictions_file = Path("data/processed/repurposing_candidates.csv.gz")
     drugs = defaultdict(lambda: {
         'indications': [],
         'brands': set(),

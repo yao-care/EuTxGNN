@@ -118,7 +118,7 @@ def main():
 
     # 7. 儲存結果
     print("\n7. 儲存結果...")
-    candidates_output = output_dir / "repurposing_candidates.csv"
+    candidates_output = output_dir / "repurposing_candidates.csv.gz"
     candidates.to_csv(candidates_output, index=False)
     print(f"   已儲存: {candidates_output}")
 

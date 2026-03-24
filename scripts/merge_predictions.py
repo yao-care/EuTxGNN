@@ -67,7 +67,7 @@ def main():
 
     # 1. Load existing KG predictions
     print("1. Loading KG predictions...")
-    kg_path = processed_dir / "repurposing_candidates.csv"
+    kg_path = processed_dir / "repurposing_candidates.csv.gz"
     kg_df = pd.read_csv(kg_path)
     print(f"   KG predictions: {len(kg_df)} rows")
 
@@ -170,7 +170,7 @@ def main():
     print(f"   Saved: {output_path}")
 
     # Also update the main file
-    main_output = processed_dir / "repurposing_candidates.csv"
+    main_output = processed_dir / "repurposing_candidates.csv.gz"
     merged_df.to_csv(main_output, index=False)
     print(f"   Updated: {main_output}")
 

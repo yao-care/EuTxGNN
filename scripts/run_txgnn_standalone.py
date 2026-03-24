@@ -231,7 +231,7 @@ def main():
         result_df["rank"] = range(1, len(result_df) + 1)
         result_df["source"] = "TxGNN Deep Learning Model"
 
-        output_path = base_dir / "data" / "processed" / "txgnn_dl_predictions.csv"
+        output_path = base_dir / "data" / "processed" / "txgnn_dl_predictions.csv.gz"
         result_df.to_csv(output_path, index=False)
         print(f"   已儲存: {output_path}")
 

@@ -66,9 +66,12 @@ def main():
             rows.append({
                 "license_id": license_id,
                 "brand_name": brand_name,
-                "ingredient": ingredient,
+                "original_ingredient": ingredient,
+                "normalized_ingredient": ingredient,
+                "synonyms": "",
                 "drugbank_id": drugbank_id,
-                "indication": str(indication)[:500] if indication else "",
+                "mapping_success": drugbank_id is not None,
+                "mapping_source": "drugbank" if drugbank_id else "failed",
             })
 
     drug_mapping_df = pd.DataFrame(rows)

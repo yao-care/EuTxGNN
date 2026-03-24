@@ -153,7 +153,7 @@ def main():
     # 6. 儲存結果
     print("\n5. 儲存結果...")
     output_dir = base_dir / "data" / "processed"
-    output_path = output_dir / "txgnn_dl_predictions.csv"
+    output_path = output_dir / "txgnn_dl_predictions.csv.gz"
 
     if len(predictions) > 0:
         # 重新命名欄位

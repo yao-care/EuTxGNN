@@ -58,7 +58,7 @@ def load_drug_mapping():
 
 def load_predictions():
     """Load and group predictions by drug"""
-    predictions_file = Path("data/processed/repurposing_candidates.csv")
+    predictions_file = Path("data/processed/repurposing_candidates.csv.gz")
     drugs = defaultdict(lambda: {
         'predictions': [],
         'license_ids': set(),
