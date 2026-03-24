@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,11 +40,11 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Doctor issues warning over food ‘worse than smoking’ that is leading cause of ‘early death’](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
 
-2026-03-23 <span class="news-indication-tag">stroke</span>
+2026-03-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
 
@@ -71,14 +71,6 @@ permalink: /news/orlistat/
 2026-03-23 <span class="news-indication-tag">obesità</span>
 
 來源：[il Dolomiti](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWi1OejdPdHVBYi1iS0h6SlFtNWNhQXdNY28xREFqNl8wUzFrZldVUU0zQTg2OGdyNWRELXNqVGo0VmRIMVJqZHhNdUQtRlhpNm5DSlZTYUpvc2dWbGRIMTByTFNpWndPWGg1ZDlwSVlvMzcwbV9Gd0xoZ0kzdlNmOWdUQWpUYWpMN0xseUsyNDB6TTNBN1pmUXNwcnN5V0tYWG85RXVFQWtXWUZrdi1MQTYwNHlqZUxsVTZuRFM4Qlczd29aS1V3ZzZHNkZXSmxuWm9ua0I4NmxrWjg3dXZuOXhnWWNsZFlGc0dYbGtsT3UtZkZ3cEFZSXRJQndZcldxNUU5U2RzT0hUZE9DVF9iY0VEZ3EwdThSRWFOa0pTb2pjNEpaa2NHMkZ1SlJnNVVfYVhlR2dWM0c?oc=5)
-
----
-
-### [Obesidad y su conexión crítica con el riesgo de cáncer](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm40enhIODNfRXNQME5fajhLelBiUFpZQ1VFOXVmUk1mUmkyZWNuZkktREJjMlRaQkktNVItWUU2NVE4TnRiakI3bHFUMlpwTDBqWE1ORXNKb1Zjc3E3QTVJemxQTG1vYTRDSjg4eUxKZm1YbndxeEl1VHZhVDAtaTZ6NWlmM0p5Z2Y1T2dBMmc4b0VOQnpoYm82MUJRX0QtenYxQTF5SmUyZm5Gc2Uxcw?oc=5)
-
-2026-03-23 <span class="news-indication-tag">obesidad</span>
-
-來源：[saval.cl](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm40enhIODNfRXNQME5fajhLelBiUFpZQ1VFOXVmUk1mUmkyZWNuZkktREJjMlRaQkktNVItWUU2NVE4TnRiakI3bHFUMlpwTDBqWE1ORXNKb1Zjc3E3QTVJemxQTG1vYTRDSjg4eUxKZm1YbndxeEl1VHZhVDAtaTZ6NWlmM0p5Z2Y1T2dBMmc4b0VOQnpoYm82MUJRX0QtenYxQTF5SmUyZm5Gc2Uxcw?oc=5)
 
 ---
 

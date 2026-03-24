@@ -14,7 +14,7 @@ permalink: /news/rilpivirine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Rilpivirine Hydrochloride 有什麼相關新聞？">
-<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ permalink: /news/rilpivirine-hydrochloride/
 <p><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [L'epatite A arriva a Latina, scatta l'allerta nel Lazio: 6 persone ricoverate e 24 contagiate - Il Messaggero](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wWnVXOWVnMUVsbFBUMkI4TnhjWVdSVnRrTU1uZ0lIY2xHQ2NCUE1jbTRnaHR0YzlJUzA0SGwta01ocmpVTWhBZzhMY1dMcE9NRHFkQmUyUEYweC0xaWpJSkhEREFwRjVRWmc1dVV6OUM4aU9QTE9ab1pZRFBxZ9IBgwFBVV95cUxOSG5sc2ZRMlJxTHdjRE04WDAzRTdDWUNTV0dvTGhIcVRJenhEMFY5VjVMOUU4R1otWHpJLUdEYW5WMnA3ZENTLUhoNzI0Z0dXak1uOWI2azUwZUkxSWRhTzJtOU1yanlwT0RPekVvMy1hUV9xSE5sVmxsVGxQNXpiNnppVQ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">epatite</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wWnVXOWVnMUVsbFBUMkI4TnhjWVdSVnRrTU1uZ0lIY2xHQ2NCUE1jbTRnaHR0YzlJUzA0SGwta01ocmpVTWhBZzhMY1dMcE9NRHFkQmUyUEYweC0xaWpJSkhEREFwRjVRWmc1dVV6OUM4aU9QTE9ab1pZRFBxZ9IBgwFBVV95cUxOSG5sc2ZRMlJxTHdjRE04WDAzRTdDWUNTV0dvTGhIcVRJenhEMFY5VjVMOUU4R1otWHpJLUdEYW5WMnA3ZENTLUhoNzI0Z0dXak1uOWI2azUwZUkxSWRhTzJtOU1yanlwT0RPekVvMy1hUV9xSE5sVmxsVGxQNXpiNnppVQ?oc=5)
+
+---
+
+### [Estas son las tres enfermedades que repuntan en España y que preocupan a los expertos](https://news.google.com/rss/articles/CBMivwFBVV95cUxOREFxd3o5VFlCeDBmamJvSHBFU2NQcXVtcVFMaTlvbE40Q3BxclZta0ZvWldnd0dxSHJicExSbTJvLUtia25ITEc5QUtaSXBTRWVxWHQydnBaMGREd1pGUDhyRnZ1S1JMUi11ZkVGdm9FOVB5aF8tMVFpUXFIcm95blFmZFlnazlmcXk5SWw0LUcxdjlFNUlTU1kxamZBMTBscVF2Z09HdTNsc2NoUnVoWV9VVWU3NTd3TU9zU1diTdIBxAFBVV95cUxORnp1U1gwUEVPaHpjY3FySjFWVkpiWjEyMFJSV0NXdV84VjA1RGtyWFJQeTFDaXoxeUp5dUVjNHhPVmgxc2hHZ2VBQm9BV0hHbmJyb3NYdFB4dXBuc092U1pQMGNxdnFobnFFUnNrSDFiQUJHR0JUanFYd2YzVkhBbXliWU5sQkhCazhmdDVSTEJkdWJMeUd1MjhFUk5tTXdfV0xFUGZhU2FHYV9HbUhjcVc3Q2g3OXByck1ac2JScXlzU3NS?oc=5)
+
+2026-03-23 <span class="news-indication-tag">hepatitis</span>
+
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMivwFBVV95cUxOREFxd3o5VFlCeDBmamJvSHBFU2NQcXVtcVFMaTlvbE40Q3BxclZta0ZvWldnd0dxSHJicExSbTJvLUtia25ITEc5QUtaSXBTRWVxWHQydnBaMGREd1pGUDhyRnZ1S1JMUi11ZkVGdm9FOVB5aF8tMVFpUXFIcm95blFmZFlnazlmcXk5SWw0LUcxdjlFNUlTU1kxamZBMTBscVF2Z09HdTNsc2NoUnVoWV9VVWU3NTd3TU9zU1diTdIBxAFBVV95cUxORnp1U1gwUEVPaHpjY3FySjFWVkpiWjEyMFJSV0NXdV84VjA1RGtyWFJQeTFDaXoxeUp5dUVjNHhPVmgxc2hHZ2VBQm9BV0hHbmJyb3NYdFB4dXBuc092U1pQMGNxdnFobnFFUnNrSDFiQUJHR0JUanFYd2YzVkhBbXliWU5sQkhCazhmdDVSTEJkdWJMeUd1MjhFUk5tTXdfV0xFUGZhU2FHYV9HbUhjcVc3Q2g3OXByck1ac2JScXlzU3NS?oc=5)
+
+---
+
+### [Identifican una sustancia activa posiblemente eficaz contra la hepatitis E - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNW81SEk4Znk4LUxPbUV5TUdGak9LNzNaQ2FKb0VTQ1lTMFNncm56SWFpdG1SYUFaaFF0VDgwR2RZR3d5MGwxX09sdWVVNnRHcWo4cXE0NV9rR3ExYUVLTldjZ0FoQkgzU2VJMGpiejJ0M0ZaSV9JVHpzSlVNS3p1ZU9mS2VwOXFvdXdicXlUUzlTSHJpTGZTbGowR0E5UktBVnhXYmRNakxVS0Fwc2ZLMl9hbjVsTEYta1BudDhXZXDSAbsBQVVfeXFMTmZpdnhFbmxJYW84Y1VVRFJuVlBpU08xOU9ydWVIX0w1SHJDLTlsLVFJWllJUlNBQVZTT1ZRYVFzbUxBQjFQYmVSZnp4V2tfcTVJTjFnUG1Vc2dwYXdRTmhVamlWZXdzeTJxenQ3bGJGSTYtclVmV21fZFBRc25JMF9IRUtOcUtaX05VZVdaWEZ5QUZyMUlOSGpFMlRXVG5XQVgyV05pVGJ4TVJwNWxrR1JOcktXNlRCb0VvVQ?oc=5)
+
+2026-03-23 <span class="news-indication-tag">hepatitis</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNW81SEk4Znk4LUxPbUV5TUdGak9LNzNaQ2FKb0VTQ1lTMFNncm56SWFpdG1SYUFaaFF0VDgwR2RZR3d5MGwxX09sdWVVNnRHcWo4cXE0NV9rR3ExYUVLTldjZ0FoQkgzU2VJMGpiejJ0M0ZaSV9JVHpzSlVNS3p1ZU9mS2VwOXFvdXdicXlUUzlTSHJpTGZTbGowR0E5UktBVnhXYmRNakxVS0Fwc2ZLMl9hbjVsTEYta1BudDhXZXDSAbsBQVVfeXFMTmZpdnhFbmxJYW84Y1VVRFJuVlBpU08xOU9ydWVIX0w1SHJDLTlsLVFJWllJUlNBQVZTT1ZRYVFzbUxBQjFQYmVSZnp4V2tfcTVJTjFnUG1Vc2dwYXdRTmhVamlWZXdzeTJxenQ3bGJGSTYtclVmV21fZFBRc25JMF9IRUtOcUtaX05VZVdaWEZ5QUZyMUlOSGpFMlRXVG5XQVgyV05pVGJ4TVJwNWxrR1JOcktXNlRCb0VvVQ?oc=5)
+
+---
 
 ### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery - The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
 
@@ -55,22 +79,6 @@ permalink: /news/rilpivirine-hydrochloride/
 2026-03-23 <span class="news-indication-tag">hepatitis</span>
 
 來源：[IPac Acuicultura](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcC1BNDN5ajN3REJPbzdhb0VsUnFWQ2EtZmF0RnF6ZEc3aWNNcUdzeENDNlV2V1NSNjRHNXpzTU9Kam5fYjlWN3BWVkJURGFjMFBxSU1KWl9Fc3k1dkZuMnlRRlk1OU1xMi05S0VzQzFXWG9kOUtudGZrZ0IxcWNtVw?oc=5)
-
----
-
-### [Pediatría propone tres cambios en el calendario vacunal ante el repunte de sarampión, hepatitis A y meningococo B - Gaceta de salud](https://news.google.com/rss/articles/CBMikwJBVV95cUxPeW5zSGFVanNiRGF5TUZMdXdVZXd3cTB2d1QzU0JHVlZNc3h3SG1qRHQwUjN3cl9MdGdaU1haTnpTNDNidEswWkVWMTR4NTNGRU1qSUd5akM5ZUFib0FzbUJxWkh5WEQyb0pXb3ZYYXJhX3FnMnItOG5EQWFvcXNwcG5CMUxCVTcwd012dnhTY1lfOXFUMmh2Y25WVjRLQ0hfb2JOajY2VFpqSFFsWmNrWllOeUxkcTFOejI0TGRsa2ttc0VCLXpSN3hVeEU4Q2dncTVQdk9SSFdLWE1jR192dVJnM2hqdENJTkJvaWhreFQyZmZweEF6R1dvdGFHeGQtaUE3MXMzaEFNbGdITDRmRjVDTQ?oc=5)
-
-2026-03-23 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMikwJBVV95cUxPeW5zSGFVanNiRGF5TUZMdXdVZXd3cTB2d1QzU0JHVlZNc3h3SG1qRHQwUjN3cl9MdGdaU1haTnpTNDNidEswWkVWMTR4NTNGRU1qSUd5akM5ZUFib0FzbUJxWkh5WEQyb0pXb3ZYYXJhX3FnMnItOG5EQWFvcXNwcG5CMUxCVTcwd012dnhTY1lfOXFUMmh2Y25WVjRLQ0hfb2JOajY2VFpqSFFsWmNrWllOeUxkcTFOejI0TGRsa2ttc0VCLXpSN3hVeEU4Q2dncTVQdk9SSFdLWE1jR192dVJnM2hqdENJTkJvaWhreFQyZmZweEF6R1dvdGFHeGQtaUE3MXMzaEFNbGdITDRmRjVDTQ?oc=5)
-
----
-
-### [Sanità, casi sospetti Epatite A a Cosenza: cozze sotto accusa - il Lametino.it](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHRkXy1aZHVWc0ZlVVVUdlpQTXlIbGJQUURtcDR1QTdlUkxPMlp1b1NNeWRNQjJ0REVmaTFOX3dnLU1ndi04NDNRWEliNkpVNWlBUXNXcVp5NXJXOVZ1Uy10ZnRXTXhSMnFjdFo5MEJqVDJIYlluNmxuWmJOSThybGk2OHZKN2R3TkJUVHhndzM5YVExNF9jdlVyWHo?oc=5)
-
-2026-03-22 <span class="news-indication-tag">epatite</span>
-
-來源：[il Lametino.it](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHRkXy1aZHVWc0ZlVVVUdlpQTXlIbGJQUURtcDR1QTdlUkxPMlp1b1NNeWRNQjJ0REVmaTFOX3dnLU1ndi04NDNRWEliNkpVNWlBUXNXcVp5NXJXOVZ1Uy10ZnRXTXhSMnFjdFo5MEJqVDJIYlluNmxuWmJOSThybGk2OHZKN2R3TkJUVHhndzM5YVExNF9jdlVyWHo?oc=5)
 
 ---
 

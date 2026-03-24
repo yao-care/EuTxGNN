@@ -44,7 +44,7 @@ permalink: /news/raloxifene-hydrochloride/
 
 ### [Doctor issues warning over food ‘worse than smoking’ that is leading cause of ‘early death’](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
 
-2026-03-23 <span class="news-indication-tag">stroke</span>
+2026-03-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
 

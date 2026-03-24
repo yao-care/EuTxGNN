@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（23 則）
 
 ### [Safran: Mehr als nur ein Gewürz - Superfood bei ADHS und Krebs?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjlmRk1PVVZnamFJWDVYczRTenZYWDA3RWVQSV9pOUNOTXVzckdTMFdvQkFhX2dEWW1GaE1oZ2J4NkJ0LWhBOXQwTmlRRFQ0MTVodXFlZUFWc19DVm9Oa2RqRXl5Vjl5TURsQkR0T2hYbkZhMzJfU2FJaTd5alBMc2JJSklYTV9CeF9DQi1BNERnVjliQmlLT2FvM0ljN1c0dFNGMExEa1oyQWVjOEZ2QXI3MXRaRzdPOXlDQ2pIUGNhM1VtVmdMUkFGNUJlQTMx?oc=5)
 
@@ -50,17 +50,17 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Alerta de la AEMPS: Retiran del mercado 'La Pepa Negra' y 'Royal Honey' por contener fármacos no declarados](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGQ4Nm5xT3c4RElEalFCSlp4X2huRWFzV2xKd3EtMEdRTXROb0VYczBQeEtwMFozczVJUVBiTXBaQjNsUjNPbXpyS1FZanVGVlpfY2p1RmRJaW04aWZFNlN0R2hUMEhxRkZjZXVZcjNQckk1M3FveWxOdk9zMGRCMlpjQU1yXzBpQXpsZHYtSGdHb28xblU5SnVNSEotUTR4TE1yVUotWXdqQm5kNFU4UVdoZmlGRWs2eE9QUG1hTjRDQ2tNZUJ6UHRwVW9vNkhCbWd3WTRieHk?oc=5)
+### [Alerta por presencia de sildenafilo en complemento alimenticio. (Ref. ES2026/148)](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOF9pREFUT3RROGtteU8xZDZwa0xGRklrT2FaRV9PSWx1ZHBwV3hxaXRaVzNHMU9HM3FqcVo5QkM0bXdSSHYxTHQ2SmtYTFQtdXR0emZGdjQ5MjFDOUJnRWRXUi1XMjhLX0RJVTdWZ3l0U0dXZkpzcDhlV1hVcjhjbTRJWTZIbHloWU02NEdhN0dnNHBzcEE?oc=5)
 
 2026-03-23 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">AF</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGQ4Nm5xT3c4RElEalFCSlp4X2huRWFzV2xKd3EtMEdRTXROb0VYczBQeEtwMFozczVJUVBiTXBaQjNsUjNPbXpyS1FZanVGVlpfY2p1RmRJaW04aWZFNlN0R2hUMEhxRkZjZXVZcjNQckk1M3FveWxOdk9zMGRCMlpjQU1yXzBpQXpsZHYtSGdHb28xblU5SnVNSEotUTR4TE1yVUotWXdqQm5kNFU4UVdoZmlGRWs2eE9QUG1hTjRDQ2tNZUJ6UHRwVW9vNkhCbWd3WTRieHk?oc=5)
+來源：[aesan.gob.es](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOF9pREFUT3RROGtteU8xZDZwa0xGRklrT2FaRV9PSWx1ZHBwV3hxaXRaVzNHMU9HM3FqcVo5QkM0bXdSSHYxTHQ2SmtYTFQtdXR0emZGdjQ5MjFDOUJnRWRXUi1XMjhLX0RJVTdWZ3l0U0dXZkpzcDhlV1hVcjhjbTRJWTZIbHloWU02NEdhN0dnNHBzcEE?oc=5)
 
 ---
 
 ### [Doctor issues warning over food ‘worse than smoking’ that is leading cause of ‘early death’](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
 
-2026-03-23 <span class="news-indication-tag">stroke</span>
+2026-03-23 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHRFMElPTy1VM1RCcG9IOVd5Y0gzTGloUjB4MTBpZFpDTFQxbXVNYjhZb3ljT1lXa0s1R2dvUHh3NTZSTjdJdUlZVUJ1TW0xTjJick5kMDVFa255ZU5OT1FBNm14SDdJRVoxaGtqR0piUl8zX292TktSQWhfNjVxNHRPOTR1TTNSdnppaUlhaFV5M01kaENFeUFNR0V1Szg?oc=5)
 
@@ -82,14 +82,6 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Meningitis outbreak passes peak, says health agency](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2ODYxeTE0UGZ1Tk9pbHFqcU1jRXNlaF9leVRJQXBTNVF2YTVBaklhaEFWdDVRMXRES2FPQTZwTG9BekwyNVYxb2NfOVpEcW9zX2U4NkNseDRCZw?oc=5)
-
-2026-03-23 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2ODYxeTE0UGZ1Tk9pbHFqcU1jRXNlaF9leVRJQXBTNVF2YTVBaklhaEFWdDVRMXRES2FPQTZwTG9BekwyNVYxb2NfOVpEcW9zX2U4NkNseDRCZw?oc=5)
-
----
-
 ### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery - The Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
 
 2026-03-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
@@ -98,11 +90,35 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [The human cost of unsafe abortions - Our World in Data](https://news.google.com/rss/articles/CBMibkFVX3lxTFBpRTlISk1RQlBpV0EyU2R3aDZra3Jpa0RKbjlMbzhrLUpLT3JCQUwwbS1MZjZVd3dCdzlqZjdUSkstZ3JEbU9EZlZvbW5qVWFmc25Cdlc4dG10d1k0VUxPUXhBRXBxdnh5ME5TdGhB?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[Our World in Data](https://news.google.com/rss/articles/CBMibkFVX3lxTFBpRTlISk1RQlBpV0EyU2R3aDZra3Jpa0RKbjlMbzhrLUpLT3JCQUwwbS1MZjZVd3dCdzlqZjdUSkstZ3JEbU9EZlZvbW5qVWFmc25Cdlc4dG10d1k0VUxPUXhBRXBxdnh5ME5TdGhB?oc=5)
+
+---
+
 ### [¿Qué tan bajo se puede llegar? Las cambiantes guías para el control de la presión arterial - KFF Health News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNlNFhqZm9EdFVHTUt2bjcxM0VWVDJsbl83ZGpZUDJBaUU3djNsT1B2ZG53bVBLcy1JeXFOdnROQ1FtMWl6emNuczZXWFctNW5DOWhId2I1R1M4QkV6ZHZGREg0ZEhxYU9yeWU2cG5McXp4Uk03bXJuZXUyS3h3Wkp3UVV3X3I5MFVsT1MtRE95STdjb0RHM3FVQk0zaVZGYjVwNlQxZThNejJPQTZyRnVMOU1QdWY1eDdESEgxQ2ZlbXllNk93?oc=5)
 
 2026-03-23 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[KFF Health News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNlNFhqZm9EdFVHTUt2bjcxM0VWVDJsbl83ZGpZUDJBaUU3djNsT1B2ZG53bVBLcy1JeXFOdnROQ1FtMWl6emNuczZXWFctNW5DOWhId2I1R1M4QkV6ZHZGREg0ZEhxYU9yeWU2cG5McXp4Uk03bXJuZXUyS3h3Wkp3UVV3X3I5MFVsT1MtRE95STdjb0RHM3FVQk0zaVZGYjVwNlQxZThNejJPQTZyRnVMOU1QdWY1eDdESEgxQ2ZlbXllNk93?oc=5)
+
+---
+
+### [No new meningitis cases linked to Kent outbreak found, health agency says - The Guardian](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzBhdTNFa0JXaWV6M01JTkdXOHo2cWp2VWRKbzRBWEthT3FhbUxHMWtSVlAxb0lRTzNKYm5QV3NhbGVHdmp0cDlYSDdKbmNzX3BWa29kRDFEQ0xpWi1aOFlTMVFUMFpYa2pTb1JXN1RzVnBKejBlNGZHRVNzQ0JLZHhfbWcxRzN2WnJSdmZ6ZW5qbWlxY096Tm4zUjhZZWJ3YkF4eVZTOA?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzBhdTNFa0JXaWV6M01JTkdXOHo2cWp2VWRKbzRBWEthT3FhbUxHMWtSVlAxb0lRTzNKYm5QV3NhbGVHdmp0cDlYSDdKbmNzX3BWa29kRDFEQ0xpWi1aOFlTMVFUMFpYa2pTb1JXN1RzVnBKejBlNGZHRVNzQ0JLZHhfbWcxRzN2WnJSdmZ6ZW5qbWlxY096Tm4zUjhZZWJ3YkF4eVZTOA?oc=5)
+
+---
+
+### [Girl, 2, diagnosed with DEMENTIA as mum & dad race against time to save her - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
+
+2026-03-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
 
 ---
 
@@ -146,11 +162,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Obesidad y su conexión crítica con el riesgo de cáncer](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm40enhIODNfRXNQME5fajhLelBiUFpZQ1VFOXVmUk1mUmkyZWNuZkktREJjMlRaQkktNVItWUU2NVE4TnRiakI3bHFUMlpwTDBqWE1ORXNKb1Zjc3E3QTVJemxQTG1vYTRDSjg4eUxKZm1YbndxeEl1VHZhVDAtaTZ6NWlmM0p5Z2Y1T2dBMmc4b0VOQnpoYm82MUJRX0QtenYxQTF5SmUyZm5Gc2Uxcw?oc=5)
+### [Meningitis outbreak - Blackburn mum's plea after baby was left fighting for life - Lancashire Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWdiTzgyQ19LNDFpenc1ZjZlNE52S0dSQkVMRl9VNnpIcmQzVS1rT2RBVTlPVDR6LXptejNuVElBX2NJQ1lodlJJblE5eklrbWpydktkY0ZsekVXTjZ3YXNDeU96ckVnZWxlOWgtRGpUNWR1Y1lqNEIySmpuZ3otclJVcnE1ZWd5MmpPVGtkaTFTcHVwX3RlVzNvbVdqRDVrOVN4SzQ3SHktNU5UMzNQUnNB?oc=5)
 
-2026-03-23 <span class="news-indication-tag">obesidad</span>
+2026-03-23 <span class="news-indication-tag">AF</span>
 
-來源：[saval.cl](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm40enhIODNfRXNQME5fajhLelBiUFpZQ1VFOXVmUk1mUmkyZWNuZkktREJjMlRaQkktNVItWUU2NVE4TnRiakI3bHFUMlpwTDBqWE1ORXNKb1Zjc3E3QTVJemxQTG1vYTRDSjg4eUxKZm1YbndxeEl1VHZhVDAtaTZ6NWlmM0p5Z2Y1T2dBMmc4b0VOQnpoYm82MUJRX0QtenYxQTF5SmUyZm5Gc2Uxcw?oc=5)
+來源：[Lancashire Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWdiTzgyQ19LNDFpenc1ZjZlNE52S0dSQkVMRl9VNnpIcmQzVS1rT2RBVTlPVDR6LXptejNuVElBX2NJQ1lodlJJblE5eklrbWpydktkY0ZsekVXTjZ3YXNDeU96ckVnZWxlOWgtRGpUNWR1Y1lqNEIySmpuZ3otclJVcnE1ZWd5MmpPVGtkaTFTcHVwX3RlVzNvbVdqRDVrOVN4SzQ3SHktNU5UMzNQUnNB?oc=5)
 
 ---
 
@@ -170,11 +186,27 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [TB in Ghana: Key figures and statistics revealed](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDIxYTVTRmszYmNWbUpUNF9uMXZTY2hKLWs0ZHQyODZ0VVVHZEs3d0JzLUk4dl8yZG1TY1MxSF9MZV82LWpBbnNTNlcydURrTVN2TDJ3cGZETjlIWkV4SlFvRFcyN0lGQ2ZSOEVaaENTZzdGMmJRdFE1dDdaWEZsR3dBYTNNb0NQeDBVMERScC1DLVBrTk1CeGYwZVRMa194N3JrTDhVS0s3QQ?oc=5)
+
+2026-03-22 <span class="news-indication-tag">AF</span>
+
+來源：[GhanaWeb](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDIxYTVTRmszYmNWbUpUNF9uMXZTY2hKLWs0ZHQyODZ0VVVHZEs3d0JzLUk4dl8yZG1TY1MxSF9MZV82LWpBbnNTNlcydURrTVN2TDJ3cGZETjlIWkV4SlFvRFcyN0lGQ2ZSOEVaaENTZzdGMmJRdFE1dDdaWEZsR3dBYTNNb0NQeDBVMERScC1DLVBrTk1CeGYwZVRMa194N3JrTDhVS0s3QQ?oc=5)
+
+---
+
 ### [Ernährung: Studie zeigt – diese Diät lässt das Gehirn langsamer altern - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWVCVDRYOUp3R1pta0JtbWtvVXpLYWNxRVJIVHl0eEdLUnBDSkR2d2NhY2dhd1ZpQzlXdS1VMm5rS2N2TTFvT1dHR3dTWGw0bFV2YjBpVnlHRTNrdGZEa2tuNk1jYllISDdDOWJsVGJReW92aTJzUHpHS0hGeERucXI2SlNOMUR2WUpXN2pUOHY0QVM2MU93YjFKX0JYQ2xZRWxxUlB3ZWtCamZGRFZTSktJLWpFUVlESUpSWHFzYVM?oc=5)
 
 2026-03-22 <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWVCVDRYOUp3R1pta0JtbWtvVXpLYWNxRVJIVHl0eEdLUnBDSkR2d2NhY2dhd1ZpQzlXdS1VMm5rS2N2TTFvT1dHR3dTWGw0bFV2YjBpVnlHRTNrdGZEa2tuNk1jYllISDdDOWJsVGJReW92aTJzUHpHS0hGeERucXI2SlNOMUR2WUpXN2pUOHY0QVM2MU93YjFKX0JYQ2xZRWxxUlB3ZWtCamZGRFZTSktJLWpFUVlESUpSWHFzYVM?oc=5)
+
+---
+
+### [Suspected new case of meningitis in Manchester after number of Kent cases falls](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUVtUHpsOVgwMkUzbWR5MG9IVjNpaGVlaVA5RFNKUVFGQUVnaVhOMlhfQVdtRkJDX2d0UVdkU1JydFRodEdGVnRUNGxMa0VGeTczNWtjejVSbzBBRDlQS05MUkVNTU92V3lGaTFYOTlmUEpyTURaQ2ZtVHRzWW1landmTWtYT1BQN1JBSdIBkgFBVV95cUxOMHc5Y0xscUlWcWg4S1dWaW1hQTltcER2Mjd6NTBXTWM1djJhZC1aODdNWEJJOFBPUWFCbzZhUHFydmx3Y2JMWGp4bVIwcEdhSzFWX0VXNWFuTEVPd1IzSFFZLU1XV2luZU9rUlhLQk4tXzgxMmZlSVhBZXZWVTZCdmNlTHYtcC1kQzdRUmNZQ1RpZw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUVtUHpsOVgwMkUzbWR5MG9IVjNpaGVlaVA5RFNKUVFGQUVnaVhOMlhfQVdtRkJDX2d0UVdkU1JydFRodEdGVnRUNGxMa0VGeTczNWtjejVSbzBBRDlQS05MUkVNTU92V3lGaTFYOTlmUEpyTURaQ2ZtVHRzWW1landmTWtYT1BQN1JBSdIBkgFBVV95cUxOMHc5Y0xscUlWcWg4S1dWaW1hQTltcER2Mjd6NTBXTWM1djJhZC1aODdNWEJJOFBPUWFCbzZhUHFydmx3Y2JMWGp4bVIwcEdhSzFWX0VXNWFuTEVPd1IzSFFZLU1XV2luZU9rUlhLQk4tXzgxMmZlSVhBZXZWVTZCdmNlTHYtcC1kQzdRUmNZQ1RpZw?oc=5)
 
 ---
 

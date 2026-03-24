@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,23 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [La encefalitis transmitida por garrapatas, enfermedad con potencial emergente en España](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDVaeWtCM296OVpiQ1FjLWt3dndDTS1CakQ0eW5Va2NSX1VWNTdQYm94R1hLZEQzVEJocmdEN24tUElseTFOMmRZVGhRM1dvN29XUmlvem1CREFYT2NYOVhmeU1LT3pPU2pxa1N1eTZtVl9hZC1QNWI0SFZOSXhyaXdlN0oySElwaDZ2VERxRTdlN1pKdkZFU3JEbFNkdEhxOXZQS0tmNEE1cWlDTktRSFJn?oc=5)
+
+2026-03-24
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDVaeWtCM296OVpiQ1FjLWt3dndDTS1CakQ0eW5Va2NSX1VWNTdQYm94R1hLZEQzVEJocmdEN24tUElseTFOMmRZVGhRM1dvN29XUmlvem1CREFYT2NYOVhmeU1LT3pPU2pxa1N1eTZtVl9hZC1QNWI0SFZOSXhyaXdlN0oySElwaDZ2VERxRTdlN1pKdkZFU3JEbFNkdEhxOXZQS0tmNEE1cWlDTktRSFJn?oc=5)
+
+---
+
+### ['I binged on cocaine and food 10 times a day, only one thing helped me kick my addictions' - Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
+
+2026-03-23
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
+
+---
 
 ### [El tétanos regresa a Cataluña: un menor no vacunado, en estado crítico en la UCI](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSHA2NDFobE92eEhPajRuSmhxeWxvOHp0ZEM0YnN6ZkpaT1pEVXdRZzhXWGN3VUVnWnBCVDFGU3NTRTl5SGhKWFhuYVVhUHNNN290aWI0OVpRNkNHdzJtOHFMd0ZhNFBlWjlYeVJEbHRCcFBkLWlDeUF3M0VWb0NhR2lpV1AwNXhoWmJlSFZ0Wk1jMFVmMUhlZjFlVzJERnNLcUdTclhfRllIaUNnYUFvWFhaWFYtSGpzb1dvaXhPeGxuQdIBxwFBVV95cUxORVNqN3VicjJZY002YnhRaEM3U3luZ3QwUWpCX2RsZHpuVEFmMGJUNWlETVBsTDZTZDI4Z05lUHdKWUZVUmswR3FnZDZjcFdsUHlGUjhycWctbERVeTFIUEk5Q2Q0VnJiS2dxeU9TdzBIeUhfNElHdC1oQU42UklSdUR0UDR4blkxOFVNaVNvMU12bHlUdmxLVGhhS2sxbFYtSkNrVVNJMjYtc3NUMFlFbzItdkRFRy1KVnpYcXRKSDJMamItTU5v?oc=5)
 
@@ -64,19 +80,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [How POTATOES can make your bowel healthier: DR MICHAEL MOSLEY - Daily Mail](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjRDQXFqeHZRS0ZNTWU5UEx4aUZicHZqSmRjOVQwT25JN25JVzBkbWdLX2o4X1lzY0V6X0E3ZDFzMkNtWTEtcEp4SmhxZlc0SkNfUDBqWWRraGlCLW43NkVIWHU0LUViYlVYM1ZkZzlxSHV4Qk1iTThkald0aF9tTGlfMTdYUHE1a1NkRnFQcUVSelRSUTdGLU43Y3pnRzZVWnVXSDNfcFFFY1BhY3lOSE04S25jUm9EYnc?oc=5)
+### [Multivitamine bremsen die biologische Uhr - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTlHVVpRa0dXQ21oQVJTck85ek5QMEFLUFA1dU45c2djU1oybjFDWHRiZmtxYi1teEpaRDNpSjN6bF9jU2hqYS1XbWNrMFV2RTltWEVjdkVOQzh1N3NWa29tc2ZMNDVja1dqVm5FSS1oRlpHcHEyVHpfRUluVWNHbmt4VGlYMG5yX0UyX2FVcWNKX2VWb3pfd1gyRmdDOEVWT3c?oc=5)
 
 2026-03-23
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjRDQXFqeHZRS0ZNTWU5UEx4aUZicHZqSmRjOVQwT25JN25JVzBkbWdLX2o4X1lzY0V6X0E3ZDFzMkNtWTEtcEp4SmhxZlc0SkNfUDBqWWRraGlCLW43NkVIWHU0LUViYlVYM1ZkZzlxSHV4Qk1iTThkald0aF9tTGlfMTdYUHE1a1NkRnFQcUVSelRSUTdGLU43Y3pnRzZVWnVXSDNfcFFFY1BhY3lOSE04S25jUm9EYnc?oc=5)
-
----
-
-### [Multivitamine bremsen die biologische Uhr](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTlHVVpRa0dXQ21oQVJTck85ek5QMEFLUFA1dU45c2djU1oybjFDWHRiZmtxYi1teEpaRDNpSjN6bF9jU2hqYS1XbWNrMFV2RTltWEVjdkVOQzh1N3NWa29tc2ZMNDVja1dqVm5FSS1oRlpHcHEyVHpfRUluVWNHbmt4VGlYMG5yX0UyX2FVcWNKX2VWb3pfd1gyRmdDOEVWT3c?oc=5)
-
-2026-03-23
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTlHVVpRa0dXQ21oQVJTck85ek5QMEFLUFA1dU45c2djU1oybjFDWHRiZmtxYi1teEpaRDNpSjN6bF9jU2hqYS1XbWNrMFV2RTltWEVjdkVOQzh1N3NWa29tc2ZMNDVja1dqVm5FSS1oRlpHcHEyVHpfRUluVWNHbmt4VGlYMG5yX0UyX2FVcWNKX2VWb3pfd1gyRmdDOEVWT3c?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTlHVVpRa0dXQ21oQVJTck85ek5QMEFLUFA1dU45c2djU1oybjFDWHRiZmtxYi1teEpaRDNpSjN6bF9jU2hqYS1XbWNrMFV2RTltWEVjdkVOQzh1N3NWa29tc2ZMNDVja1dqVm5FSS1oRlpHcHEyVHpfRUluVWNHbmt4VGlYMG5yX0UyX2FVcWNKX2VWb3pfd1gyRmdDOEVWT3c?oc=5)
 
 ---
 
@@ -96,6 +104,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Neue Studien: Ernährung schützt Nieren und Leber ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VqdDJrZVNRNW8wX19ObllYaGdZTDZ2MHZieDF2NE1XQWdpRmpmbERobW5tQW9KNkhJZWx3d1VfdWtvY2tMMnZDRVVIWWJFNTh6Y0tVemRGaDFjX0h3Z0tHdDR2RWk1OVI0SVNpeGxGLUFoNXpoVTlhMUtDRHhMSndDOHI3T0RidVh2c2UxN0FuYmlUYnlfckpJNExBQUh0UmNVVzVtaw?oc=5)
+
+2026-03-23
+
+來源：[Börse Social](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3VqdDJrZVNRNW8wX19ObllYaGdZTDZ2MHZieDF2NE1XQWdpRmpmbERobW5tQW9KNkhJZWx3d1VfdWtvY2tMMnZDRVVIWWJFNTh6Y0tVemRGaDFjX0h3Z0tHdDR2RWk1OVI0SVNpeGxGLUFoNXpoVTlhMUtDRHhMSndDOHI3T0RidVh2c2UxN0FuYmlUYnlfckpJNExBQUh0UmNVVzVtaw?oc=5)
+
+---
+
 ### [DR MAX PEMBERTON: Why over 50s are at risk from meningitis outbreak - Daily Mail](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW5ZUlI3YVBIeW1BSU5CblVoNmc1SFliRVhRa0I2MDRTYWh1OTNEelNrbkJ5cWNHdERqSmRHell0THczVVBkb0pKeWVrb0JaUDVaX2IzZXlidy1HeEdzaUU2RGNVVXE3a1Z4T3ByZFlpd3JXeldJa0NZVS1QMHRNa2l0bFotRnVpN3h3bmQzMnM2cUVtaE1NTG5UOERXN2ZUS0VwUFFrSQ?oc=5)
 
 2026-03-22
@@ -104,35 +120,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Un gen de los yaks que les permite vivir en altura podría abrir una nueva vía para reparar el daño de la esclerosis múltiple - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTUwxdzVZUzBCSHZfWklURHYwTEdfOUEtbU1GSklwcjFIRFJydUFBU2ZjbjFSbENXREtKVElZb0Q3NDZlRHhsdzdiazZzQ0RzSGg3OHZzTGc5Yk95eFlpVENjeTlNVzVOdGVTZHlqR21ycWRRd00wUWNSZVJfb0pydUpadWVKV3Z4X1JIU3RBYUZOaS1FV0ktNUt5ODhVc0IyN1VfOTdya0xkc3oxeHF2Z3NJM0NQUUxIcFlodFA0ZDB3a1plS0Jtazh0RUp2RVJQMXpKaDNvQjA0MEdCMjBFMWltU3pKcEc1Q1ZRdWhnMFE?oc=5)
+### [Suspected new case of meningitis in Manchester after number of Kent cases falls](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUVtUHpsOVgwMkUzbWR5MG9IVjNpaGVlaVA5RFNKUVFGQUVnaVhOMlhfQVdtRkJDX2d0UVdkU1JydFRodEdGVnRUNGxMa0VGeTczNWtjejVSbzBBRDlQS05MUkVNTU92V3lGaTFYOTlmUEpyTURaQ2ZtVHRzWW1landmTWtYT1BQN1JBSdIBkgFBVV95cUxOMHc5Y0xscUlWcWg4S1dWaW1hQTltcER2Mjd6NTBXTWM1djJhZC1aODdNWEJJOFBPUWFCbzZhUHFydmx3Y2JMWGp4bVIwcEdhSzFWX0VXNWFuTEVPd1IzSFFZLU1XV2luZU9rUlhLQk4tXzgxMmZlSVhBZXZWVTZCdmNlTHYtcC1kQzdRUmNZQ1RpZw?oc=5)
 
 2026-03-22
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTUwxdzVZUzBCSHZfWklURHYwTEdfOUEtbU1GSklwcjFIRFJydUFBU2ZjbjFSbENXREtKVElZb0Q3NDZlRHhsdzdiazZzQ0RzSGg3OHZzTGc5Yk95eFlpVENjeTlNVzVOdGVTZHlqR21ycWRRd00wUWNSZVJfb0pydUpadWVKV3Z4X1JIU3RBYUZOaS1FV0ktNUt5ODhVc0IyN1VfOTdya0xkc3oxeHF2Z3NJM0NQUUxIcFlodFA0ZDB3a1plS0Jtazh0RUp2RVJQMXpKaDNvQjA0MEdCMjBFMWltU3pKcEc1Q1ZRdWhnMFE?oc=5)
-
----
-
-### [Greater Manchester college issues statement as student has suspected meningitis - Manchester Evening News](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdTZWVXhXNXlzZG1ESzIwLVNEWXQwckhvbEViY1dDQ2xoU1QxY2FlX29teXQwOWFfR0huU3NJaGFjejNybjhZTXdqUHJGZmdKY2M4TTFweldyMkdJZ2YzOFh1WGl0MTZ5YnVNWjhxQTdHN0wyRUtIdmFhcndqU3V0ejB2NUZJLVE1Z3ZCeXZZbFQtVF9rM01IMGMyU3JabVBiSjVXSFQyQmhoRGxjS1hFUjB5bUVWbTYzUjF1dGNB?oc=5)
-
-2026-03-22
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdTZWVXhXNXlzZG1ESzIwLVNEWXQwckhvbEViY1dDQ2xoU1QxY2FlX29teXQwOWFfR0huU3NJaGFjejNybjhZTXdqUHJGZmdKY2M4TTFweldyMkdJZ2YzOFh1WGl0MTZ5YnVNWjhxQTdHN0wyRUtIdmFhcndqU3V0ejB2NUZJLVE1Z3ZCeXZZbFQtVF9rM01IMGMyU3JabVBiSjVXSFQyQmhoRGxjS1hFUjB5bUVWbTYzUjF1dGNB?oc=5)
-
----
-
-### [A million teenagers missed meningitis vaccine at schools - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3FQQy1ZNkFWaFFEbUs5Z0I2V2xQc09QRlQ4eU1mRXJxZWFiUENCek9rMzQtZ0Y2cDh6TWFUemFfMkUxaFRnWnBMdVo2U0FMRnRzV3Fza3RVTEtqTFdsbnh6SVhLV1dWZmhSMFJjdlBLZ2I4aHVPLWNnbXFQVnNLaXdtVnkxZHhHbHRFR3RHRVR0RkNvWjNMeFRaTk1RQ0lrMXZHQw?oc=5)
-
-2026-03-21
-
-來源：[The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3FQQy1ZNkFWaFFEbUs5Z0I2V2xQc09QRlQ4eU1mRXJxZWFiUENCek9rMzQtZ0Y2cDh6TWFUemFfMkUxaFRnWnBMdVo2U0FMRnRzV3Fza3RVTEtqTFdsbnh6SVhLV1dWZmhSMFJjdlBLZ2I4aHVPLWNnbXFQVnNLaXdtVnkxZHhHbHRFR3RHRVR0RkNvWjNMeFRaTk1RQ0lrMXZHQw?oc=5)
-
----
-
-### [I spent five months in a mother and baby mental health unit - here's what I want mums to know](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
-
-2026-03-21
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fazlUTTVDaWhkOTgwZXlDTDVJcmZoRjBYdlR4QjNZRnJxZUltYzFkcnlwZ2YtTjRvU1N3WXFRWks2UVFhZE9vTllNaTRRSXp0MV8taWprcHRiVmNt?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUVtUHpsOVgwMkUzbWR5MG9IVjNpaGVlaVA5RFNKUVFGQUVnaVhOMlhfQVdtRkJDX2d0UVdkU1JydFRodEdGVnRUNGxMa0VGeTczNWtjejVSbzBBRDlQS05MUkVNTU92V3lGaTFYOTlmUEpyTURaQ2ZtVHRzWW1landmTWtYT1BQN1JBSdIBkgFBVV95cUxOMHc5Y0xscUlWcWg4S1dWaW1hQTltcER2Mjd6NTBXTWM1djJhZC1aODdNWEJJOFBPUWFCbzZhUHFydmx3Y2JMWGp4bVIwcEdhSzFWX0VXNWFuTEVPd1IzSFFZLU1XV2luZU9rUlhLQk4tXzgxMmZlSVhBZXZWVTZCdmNlTHYtcC1kQzdRUmNZQ1RpZw?oc=5)
 
 ---
 
