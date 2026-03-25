@@ -42,27 +42,67 @@ permalink: /news/elbasvir/
 
 ## 相關新聞（16 則）
 
-### [Psychology says people who describe themselves as joyful after 50 didn't suddenly become optimistic — they stopped treating happiness like a reward for perfect behavior and started treating it like a practice](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMFgxa3h1dDVxNm4xTkhYQmRsVGxkb1RfMWdmQjVNd21WUllURjI2N0FHeXRUN3FZZElKZnNUVnliTTZxcS0yTkxacWQ5WDhZUjB6RWxRbjJYVFZhcWI4ZVR1MXRlRjI2TmxfOFBDcm5CUm9FRjhuM1hnUXBWZU82MG1fcG5YbGFlSEIwMUFHc3lfUEkyT2tHYWxDaEZxSGhQZDV0X2MzaTlYUS16MVBvcEFGTUl3VTJGQWFCZnEtdEYtejQtMXVLNS1RV1d2WWlzczVqckJsZ3M3ZjNWWTlTR3JtRk5OYVJzVTREWDRtcElHaG5XQ3hMTzFWeW44ZEFCbUhDMFhiY0VZZ0pnTXkzX0dNdFNIQldqZjJ3dVdmR3RxZnJuZ2lHVE81RnpRTE5JeE5EaXVsckVqUnFCWVRBOXFraTJfR0FR?oc=5)
-
-2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[VegOut](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMFgxa3h1dDVxNm4xTkhYQmRsVGxkb1RfMWdmQjVNd21WUllURjI2N0FHeXRUN3FZZElKZnNUVnliTTZxcS0yTkxacWQ5WDhZUjB6RWxRbjJYVFZhcWI4ZVR1MXRlRjI2TmxfOFBDcm5CUm9FRjhuM1hnUXBWZU82MG1fcG5YbGFlSEIwMUFHc3lfUEkyT2tHYWxDaEZxSGhQZDV0X2MzaTlYUS16MVBvcEFGTUl3VTJGQWFCZnEtdEYtejQtMXVLNS1RV1d2WWlzczVqckJsZ3M3ZjNWWTlTR3JtRk5OYVJzVTREWDRtcElHaG5XQ3hMTzFWeW44ZEFCbUhDMFhiY0VZZ0pnTXkzX0dNdFNIQldqZjJ3dVdmR3RxZnJuZ2lHVE81RnpRTE5JeE5EaXVsckVqUnFCWVRBOXFraTJfR0FR?oc=5)
-
----
-
-### [EBM-Änderungen: Anpassungen für die Arzneimittel Leqembi® und Itovebi® - KV RLP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk5tNEtoZFAtQ0xxSjYxTncxbzNGSGdoUFVFZUhQT1pjc1FyR1VQR0FrOElQZ0I4QS1iNFY3dUhBTFRVTW9iZkcxcHJyaXA0TzNlS2dOdm1Uc0tFQ3p3VVFYdW1pNVVWcDVRRUd0Z2dHNGZqREgzUERZRWwzZTRJNG5nOXFFSEJuQl9CYWFlOW4zTjM1VXBRMEg2N3dtV0VOaXJZSGtn?oc=5)
-
-2026-03-25 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">MS</span>
-
-來源：[KV RLP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk5tNEtoZFAtQ0xxSjYxTncxbzNGSGdoUFVFZUhQT1pjc1FyR1VQR0FrOElQZ0I4QS1iNFY3dUhBTFRVTW9iZkcxcHJyaXA0TzNlS2dOdm1Uc0tFQ3p3VVFYdW1pNVVWcDVRRUd0Z2dHNGZqREgzUERZRWwzZTRJNG5nOXFFSEJuQl9CYWFlOW4zTjM1VXBRMEg2N3dtV0VOaXJZSGtn?oc=5)
-
----
-
-### [La OMS insta a acelerar la implantación de las nuevas pruebas de diagnóstico para acabar con la tuberculosis](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXNpQm9OMlgzcV9fLThGZTI2OC1oNXhDLS10bGZIOG9oVTVfbXBzTktzTi1tbTFWWnNieWlZeXRqUHMwOHNTUnpQenE5M1RaV1V4bFNKZDZRV1NhTjV6bjN3cVl4dWNUTl9UZ1JfeVNLT3hCSFpuaTkyX1FDVUpOUV9JdktWWmoyMWJOOHByUXh5Q0FHdkRaVEFLakJ0akZzLXFoOVN1WV9uSnFtVWFSaWJuN2VBRm94czdWd1Q4NTd4YkxfYi1Fc0RVcDNCNksyd0FtdlhNTEo0LVdyamppWg?oc=5)
+### [La OMS insta a acelerar el diagnóstico de tuberculosis con nuevas pruebas rápidas](https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3h4VG5lc0xheHF2d1Vxem1JUnhJWlBMYjU5cUN5VHhWQXFjc2lqaWQ2NlQyTlJpYWZhWnhybXBhQWt1eHE2dm1zQU1fcVJDZkZtSlJtUHJlcEZVWnZrX2lDOVV6eXNiXzhqejlhY1EySUM4UmFoTnR6X1d4UUNmZ3dCSzV1SW9GdUYtU0dSM0x3V3lkbjVteldCYjNOQ1U1M09BdEhnNHI2MWhyU040?oc=5)
 
 2026-03-25 <span class="news-indication-tag">MS</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXNpQm9OMlgzcV9fLThGZTI2OC1oNXhDLS10bGZIOG9oVTVfbXBzTktzTi1tbTFWWnNieWlZeXRqUHMwOHNTUnpQenE5M1RaV1V4bFNKZDZRV1NhTjV6bjN3cVl4dWNUTl9UZ1JfeVNLT3hCSFpuaTkyX1FDVUpOUV9JdktWWmoyMWJOOHByUXh5Q0FHdkRaVEFLakJ0akZzLXFoOVN1WV9uSnFtVWFSaWJuN2VBRm94czdWd1Q4NTd4YkxfYi1Fc0RVcDNCNksyd0FtdlhNTEo0LVdyamppWg?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3h4VG5lc0xheHF2d1Vxem1JUnhJWlBMYjU5cUN5VHhWQXFjc2lqaWQ2NlQyTlJpYWZhWnhybXBhQWt1eHE2dm1zQU1fcVJDZkZtSlJtUHJlcEZVWnZrX2lDOVV6eXNiXzhqejlhY1EySUM4UmFoTnR6X1d4UUNmZ3dCSzV1SW9GdUYtU0dSM0x3V3lkbjVteldCYjNOQ1U1M09BdEhnNHI2MWhyU040?oc=5)
+
+---
+
+### [Auslöser wohl Lokalspezialität: Hepatitis-Ausbruch erschüttert beliebte Urlaubsregion in Italien](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnF2U25pVld6SWFHWlkxQUlLSHhLR1NpNEI4YUpCNU00Nm5lMWpVNVhGbkxsX1p0VHkweUlweDFPSWluWFNObUwwMXhnRFViSG81MWhuQndJQXVSTEVGaWg1cmladTJMOE1JN3dsMjh1cVliZW9pRVE3SkU2SW1PSFRDalM1RmtadVVhRWhmU0pOalRNT1lLMzlzTE9rdGdVczJtMER3cEY3TUJN?oc=5)
+
+2026-03-25 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Ntv](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnF2U25pVld6SWFHWlkxQUlLSHhLR1NpNEI4YUpCNU00Nm5lMWpVNVhGbkxsX1p0VHkweUlweDFPSWluWFNObUwwMXhnRFViSG81MWhuQndJQXVSTEVGaWg1cmladTJMOE1JN3dsMjh1cVliZW9pRVE3SkU2SW1PSFRDalM1RmtadVVhRWhmU0pOalRNT1lLMzlzTE9rdGdVczJtMER3cEY3TUJN?oc=5)
+
+---
+
+### [Studie: Um diese Uhrzeit solltest du am besten Sport machen](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+
+來源：[Blick](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
+
+---
+
+### [Junger Paderborner kämpft gegen MS – spezielle Therapie macht ihm Hoffnung - Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
+
+2026-03-25 <span class="news-indication-tag">MS</span>
+
+來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
+
+---
+
+### [Al via campagna ‘Aria di vita’, musica dà voce a ipertensione polmonare - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1dEaXBTb1NjaHRNem9HcUFGM2ZSTVlpZloxQ2kyRzNkMmJFNjdZdk4zbVNUdHU2ZzNRbDE1U3R0Y3ZJZUlGYWlkVENHaXk1RzVsaVpsc1NXejVoZU5JWVUxWnlYd1ZVbmZkSHVEbElnMHQ2R1JWeGhVcVk1LU9VVGF1dE5ta3RfVmFGa2huX0pyNUNHZDk2ZHExVFN4d2VpTlo0cHlEcFlGb3hienhraS1tOFNES1hnV3R4VkdWYWxhNll5MVdRaGMtaHdDeGlrakVvU0JOcw?oc=5)
+
+2026-03-25 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1dEaXBTb1NjaHRNem9HcUFGM2ZSTVlpZloxQ2kyRzNkMmJFNjdZdk4zbVNUdHU2ZzNRbDE1U3R0Y3ZJZUlGYWlkVENHaXk1RzVsaVpsc1NXejVoZU5JWVUxWnlYd1ZVbmZkSHVEbElnMHQ2R1JWeGhVcVk1LU9VVGF1dE5ta3RfVmFGa2huX0pyNUNHZDk2ZHExVFN4d2VpTlo0cHlEcFlGb3hienhraS1tOFNES1hnV3R4VkdWYWxhNll5MVdRaGMtaHdDeGlrakVvU0JOcw?oc=5)
+
+---
+
+### [Epatite A, 50 casi registrati a Roma. La Regione: "Situazione monitorata". Cosa è e come si trasmette](https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQ0Q2NW9kMm1neHY3X2dkY2QxdlBaSWNJUmFaM2ZmeWNxYVpscEtpNnFkQmdhY3NscWNDZ1VIdGNLRFpOOG14eEwwYklzbjdYVnhTTHZqd3MtZDRQYlQ1R0RzbDB0TGlZbldGeU5kUXlBbGtJa1dXMFM0VQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">epatite</span>
+
+來源：[RomaToday](https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQ0Q2NW9kMm1neHY3X2dkY2QxdlBaSWNJUmFaM2ZmeWNxYVpscEtpNnFkQmdhY3NscWNDZ1VIdGNLRFpOOG14eEwwYklzbjdYVnhTTHZqd3MtZDRQYlQ1R0RzbDB0TGlZbldGeU5kUXlBbGtJa1dXMFM0VQ?oc=5)
+
+---
+
+### [Five food supplement ads banned over women's health claims - Sky News](https://news.google.com/rss/articles/CBMimAFBVV95cUxORHljVEQ5bTVaMWpNdFMta1NEa2FLTFlGcEhqaEtPSE5aTDA5WHNrcHpKOTM3elBWejQyUmY3RG9QUnotZ3l5czFXeE9WY1VmeXhyU1hmMVc2SVoycFRUMmJ4RUZOd2NzM3h3ZFNlNS1jUWU1Y2Q2VUpzZ3dNcG9KSDROQTNfMW4zRXZKN1NPNjVySEJjLWk0Qg?oc=5)
+
+2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMimAFBVV95cUxORHljVEQ5bTVaMWpNdFMta1NEa2FLTFlGcEhqaEtPSE5aTDA5WHNrcHpKOTM3elBWejQyUmY3RG9QUnotZ3l5czFXeE9WY1VmeXhyU1hmMVc2SVoycFRUMmJ4RUZOd2NzM3h3ZFNlNS1jUWU1Y2Q2VUpzZ3dNcG9KSDROQTNfMW4zRXZKN1NPNjVySEJjLWk0Qg?oc=5)
+
+---
+
+### [Scientists create blood test that predicts dementia 25 years before symptoms appear](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
+
+2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
 
 ---
 
@@ -74,27 +114,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Großer Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkg5N3lTbWlBdlM4VFV0dUptQmlUQzdPSW51T2s3Nlo3ZHJBNmYybDBTbzc5NzRSbmJsX0FONE04ekd2enUyMThPdDVtcTZHeEJYZjBIVHdQZkpWTjlJQ1duSVFwbEpzcEFKYzg3RGU1dlJ3UTZ3RS1Mam9uZlBfUlZoVnVZZkVuZVhMMnBfS3VNSTlvcUJWWnV0dXo0RU9nUHBjS21xeG5raF9reW1LVHJuM01tQ01qd0w3bW53cFhibjA?oc=5)
+### [Alzheimer-Vortragsreihe startet mit Fokus auf Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHQyVzdBMFQ0YzJKMXpkYmstOTZLcXkyYUJCZll5NFlYUloyb05EaVpNd2VrTjI2ajJxdG1zWmFjMWRGOWlLNF9temRKTTRjZlNVY3hPd1BYT1h4QTgzdUdjNGNSQVlnTndjdjJBYkVzZjB1RnlJbDc5RHBvczBtRmI2Y01aTElDMFpvb1FYNHBvOTNpMlU0Rmt2dktCSEhpLU9XWDI2NmREVTdxT3BqTGM0dGRTU00?oc=5)
 
-2026-03-25 <span class="news-indication-tag">hepatitis</span>
+2026-03-25 <span class="news-indication-tag">MS</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkg5N3lTbWlBdlM4VFV0dUptQmlUQzdPSW51T2s3Nlo3ZHJBNmYybDBTbzc5NzRSbmJsX0FONE04ekd2enUyMThPdDVtcTZHeEJYZjBIVHdQZkpWTjlJQ1duSVFwbEpzcEFKYzg3RGU1dlJ3UTZ3RS1Mam9uZlBfUlZoVnVZZkVuZVhMMnBfS3VNSTlvcUJWWnV0dXo0RU9nUHBjS21xeG5raF9reW1LVHJuM01tQ01qd0w3bW53cFhibjA?oc=5)
-
----
-
-### [Epatite A, Marinoni: "Dipende soprattutto da cosa si mangia e dall’uso di acqua contaminata”](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVVDQm95QzA0dEhWemFxckJxNmVndThEb0t1eTRTTGhUdHFvanFjbF9SX3E0VEpYTXNNRGQ3X1haYUU2RnJ0WHZIamtKQzB6Z1ZqNTB4aDQwWUM0Z3FIN0lfYkVBckVtdlJBSjh1ZEN1XzlZUUg1Y0V1bkliS3BuaG9rYlFkaXVaSjUxYkkyWDFPa0E3VDhxUEI4QzZNbUFGVzVmOUxtdDEwM0Z0aHNjLVN4ZllnODRGdVN3Tk9tVTVCcndzUk5HRjItNWVGS0FxekNqUE9mdjI?oc=5)
-
-2026-03-25 <span class="news-indication-tag">epatite</span>
-
-來源：[Bergamonews](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVVDQm95QzA0dEhWemFxckJxNmVndThEb0t1eTRTTGhUdHFvanFjbF9SX3E0VEpYTXNNRGQ3X1haYUU2RnJ0WHZIamtKQzB6Z1ZqNTB4aDQwWUM0Z3FIN0lfYkVBckVtdlJBSjh1ZEN1XzlZUUg1Y0V1bkliS3BuaG9rYlFkaXVaSjUxYkkyWDFPa0E3VDhxUEI4QzZNbUFGVzVmOUxtdDEwM0Z0aHNjLVN4ZllnODRGdVN3Tk9tVTVCcndzUk5HRjItNWVGS0FxekNqUE9mdjI?oc=5)
-
----
-
-### [Junger Paderborner kämpft gegen Multiple Sklerose – Spenden machen ihm Hoffnung - Neue Westfälische](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHNtcjBhNTgtVlVLNWgwbWNVZDlaMVVfWmZNYjgzcTFfN3hSeHRsUVg0bk1adERHR1VXYW56RVFLQWZzRTV6SERDYnR3dVBrdXpuWVVhWGRiYUpYdHhqRnBUSUNmSU5hcG5TZEx1VWhPSG5pYmcxamtKSXFDbzVKclhwUC04MkFjN2lrLVZHVzNCN1RtRmFscGQzN0JxZTBfYXdMYnQzQS14aHBKb0ZBVjdzT05KdzBUNEpJTWpUVFJQcXlYZ0JCZzhEdjJyUHF3Tnp3V3did20tdw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHNtcjBhNTgtVlVLNWgwbWNVZDlaMVVfWmZNYjgzcTFfN3hSeHRsUVg0bk1adERHR1VXYW56RVFLQWZzRTV6SERDYnR3dVBrdXpuWVVhWGRiYUpYdHhqRnBUSUNmSU5hcG5TZEx1VWhPSG5pYmcxamtKSXFDbzVKclhwUC04MkFjN2lrLVZHVzNCN1RtRmFscGQzN0JxZTBfYXdMYnQzQS14aHBKb0ZBVjdzT05KdzBUNEpJTWpUVFJQcXlYZ0JCZzhEdjJyUHF3Tnp3V3did20tdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHQyVzdBMFQ0YzJKMXpkYmstOTZLcXkyYUJCZll5NFlYUloyb05EaVpNd2VrTjI2ajJxdG1zWmFjMWRGOWlLNF9temRKTTRjZlNVY3hPd1BYT1h4QTgzdUdjNGNSQVlnTndjdjJBYkVzZjB1RnlJbDc5RHBvczBtRmI2Y01aTElDMFpvb1FYNHBvOTNpMlU0Rmt2dktCSEhpLU9XWDI2NmREVTdxT3BqTGM0dGRTU00?oc=5)
 
 ---
 
@@ -114,6 +138,14 @@ permalink: /news/elbasvir/
 
 ---
 
+### [GLP-1-Agonisten dämpfen bei Diabetes womöglich Depressionen und Angststörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
+
+---
+
 ### [La tubercolosi esiste ancora, focus su una malattia dimenticata - La Provincia di Cremona](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2JxajVraTlZUXl3NGJPMTJvT3ZUaWdMVWdxNTRuVEdxQko3UjlZUEJQMEM0QkZNTEg4ZHF5ZGlVMFdsNmtLckpVRk5yWnE3QmdZb3BpckppZ0dBZFhtU2pXSVU4R2ItTXpjLWxYRlczQ3FJT0pHM3dfMWdoRXVyUFJKNFhMemhkME51WTllcms0d1FZWkRMeHpmNERVOHZnUGhyRUFFNnhsZE4zQzNpNzduVEUxdjA?oc=5)
 
 2026-03-24 <span class="news-indication-tag">MS</span>
@@ -130,43 +162,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGticGhkcFdCS2MtdS1wc1RyNGE5VktkUy1YdV9jWW1xMHRxd2tvenEzSmNFQUFKNEVoSW41ZTdmZnUxaWlqSEpRUmd2ZTgyR01kU1NtMllsX3FwWXdZZ01OV2xGWmxPRTM3Qzh0aEFpSG5uTDFJVWFWTkpXSWxPMHlkRGNidk9UQnlwWWZFcVdSRFZwZmVsNzdHdHBmXzNjV3ZmZGJHWG5mV3U3bEs1QU0yaGVOeTg0Tk1yZzN2WnlOSUh3SUpOdG8xSzZRdw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGticGhkcFdCS2MtdS1wc1RyNGE5VktkUy1YdV9jWW1xMHRxd2tvenEzSmNFQUFKNEVoSW41ZTdmZnUxaWlqSEpRUmd2ZTgyR01kU1NtMllsX3FwWXdZZ01OV2xGWmxPRTM3Qzh0aEFpSG5uTDFJVWFWTkpXSWxPMHlkRGNidk9UQnlwWWZFcVdSRFZwZmVsNzdHdHBmXzNjV3ZmZGJHWG5mV3U3bEs1QU0yaGVOeTg0Tk1yZzN2WnlOSUh3SUpOdG8xSzZRdw?oc=5)
-
----
-
 ### [Verdopplung der MS-Fälle in England: Fortschritte und Herausforderungen - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFNxTVVUNjBncnBIYjdnOXlPS0JydGpSNDA1REFSRk5CQUh4MkJUWHZDOGZTNjhfTEtFdjFYQ3d5c19sa2NGN29zM3o5bnRudUlzNFdCeWdYWXpWbm5aZnl5U3JKcjZoa2czdXFIOGFocWlvMmdsVmIyeDltN2R0QnFrTmVpc0o3ajJnRDd5bzEzWE9vb2ZTMzVHdnNSQzhLb1RrWGJB?oc=5)
 
 2026-03-23 <span class="news-indication-tag">MS</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFNxTVVUNjBncnBIYjdnOXlPS0JydGpSNDA1REFSRk5CQUh4MkJUWHZDOGZTNjhfTEtFdjFYQ3d5c19sa2NGN29zM3o5bnRudUlzNFdCeWdYWXpWbm5aZnl5U3JKcjZoa2czdXFIOGFocWlvMmdsVmIyeDltN2R0QnFrTmVpc0o3ajJnRDd5bzEzWE9vb2ZTMzVHdnNSQzhLb1RrWGJB?oc=5)
-
----
-
-### [Alzheimer, scoperto un “interruttore” che alimenta la perdita di memoria: coinvolte due proteine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcG90QlB5NFVQekVKYXdVYzViYUo3cldWSzlXdU9lUkJUN3BUZFVHeS0tUmRDaGVmdUNRcUN3a2RlV0RDSS1pZUZBYVctWkNoN0Y5U2VPbVhjUFg1R0dSMkFIRXZDTTdaaTJXVFVqWWNrdGlpUVQ0VnFfXzZBVENPYkhlZ0FiXzVWQXhaTkFFOXhxVWVKcnp5QXNpVFJGbW4yZ1k4S3ZMaEJHd3BXRnp4N0REMU1GQUlqUXQxMUhqd1JZWVhseTNYQ3dWMVVVRndGc0E?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span>
-
-來源：[fanpage.it](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcG90QlB5NFVQekVKYXdVYzViYUo3cldWSzlXdU9lUkJUN3BUZFVHeS0tUmRDaGVmdUNRcUN3a2RlV0RDSS1pZUZBYVctWkNoN0Y5U2VPbVhjUFg1R0dSMkFIRXZDTTdaaTJXVFVqWWNrdGlpUVQ0VnFfXzZBVENPYkhlZ0FiXzVWQXhaTkFFOXhxVWVKcnp5QXNpVFJGbW4yZ1k4S3ZMaEJHd3BXRnp4N0REMU1GQUlqUXQxMUhqd1JZWVhseTNYQ3dWMVVVRndGc0E?oc=5)
-
----
-
-### [Matteo Bassetti: «Tornano pertosse, epatite e meningite? Una strana coincidenza, ringraziamo no-vax»](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0x3SWpFZFRHZkhHNlhDUDRhRUpRQTVudzluWFdQUFVYd291aHgzQ2JzV29kcXlPM3o1REJ6cnJ1OVloemp5UnowYkFIWndxdFI5cHozVURWdHJfMm9XZ0JLWm9XenZUWjZyRUZKM05pMkR5NDlUMEVEQzRjWTZnWmNOZ2lqV3Y2NnA2R29iNVA4aU1oS3BaNURVeXAxTnhLT3RTbmk2UdIBmgFBVV95cUxPU2FuZVpCdkJUdDBySEo3RGZsdkZORVJOcklFb2dOZmpVZHhhQ0lINTF5Ny1wM3VSTG9aX0JzRmpBMTVNcXBYQnJkOGlxSUR5MXZlMG9VOV9sR0FwQ05sZ0d0MlJqbkZDZ1FUQzJESXJJMW1UUFY5OEdLVzV0dlhySEozbmxMNldIV0xPTW1mWlpaVHBzakZ5RlFB?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epatite</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0x3SWpFZFRHZkhHNlhDUDRhRUpRQTVudzluWFdQUFVYd291aHgzQ2JzV29kcXlPM3o1REJ6cnJ1OVloemp5UnowYkFIWndxdFI5cHozVURWdHJfMm9XZ0JLWm9XenZUWjZyRUZKM05pMkR5NDlUMEVEQzRjWTZnWmNOZ2lqV3Y2NnA2R29iNVA4aU1oS3BaNURVeXAxTnhLT3RTbmk2UdIBmgFBVV95cUxPU2FuZVpCdkJUdDBySEo3RGZsdkZORVJOcklFb2dOZmpVZHhhQ0lINTF5Ny1wM3VSTG9aX0JzRmpBMTVNcXBYQnJkOGlxSUR5MXZlMG9VOV9sR0FwQ05sZ0d0MlJqbkZDZ1FUQzJESXJJMW1UUFY5OEdLVzV0dlhySEozbmxMNldIV0xPTW1mWlpaVHBzakZ5RlFB?oc=5)
-
----
-
-### [Over 60? Try these 5 at-home strength moves to add years to your life - Tom's Guide](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMTBPU0M0VXUxNzhlUjVrNFE0cndURzN3bUo0enUtanctSkgyQXh2X3FaWnpYSFZvbDkzUEk3THFXTktYYmVldVctV3dadm5pbXk1dGJtcEhzSWFUdGZCS1JjSE9kaVVQa2xYajduTW1kVUZ0aEVXQTFkejZmNFVvM05lejdiREFDWGVvblhqalFxNERKRkhxNlpxMEpfZXpDNWQ4OHM0WnRnd0tRQ3NFSmJUUVJUY1VDU2puT016eW1wMk1VZzZjTXB5aV9QaWJqanRoNzBjRG03ZEtEYmFoUUh6ZzUzc3pFaTFvUEdn?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Tom's Guide](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMTBPU0M0VXUxNzhlUjVrNFE0cndURzN3bUo0enUtanctSkgyQXh2X3FaWnpYSFZvbDkzUEk3THFXTktYYmVldVctV3dadm5pbXk1dGJtcEhzSWFUdGZCS1JjSE9kaVVQa2xYajduTW1kVUZ0aEVXQTFkejZmNFVvM05lejdiREFDWGVvblhqalFxNERKRkhxNlpxMEpfZXpDNWQ4OHM0WnRnd0tRQ3NFSmJUUVJUY1VDU2puT016eW1wMk1VZzZjTXB5aV9QaWJqanRoNzBjRG03ZEtEYmFoUUh6ZzUzc3pFaTFvUEdn?oc=5)
 
 ---
 

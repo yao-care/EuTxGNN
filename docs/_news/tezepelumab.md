@@ -14,7 +14,7 @@ permalink: /news/tezepelumab/
 ---
 
 <p class="key-answer" data-question="Tezepelumab 有什麼相關新聞？">
-<strong>Tezepelumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tezepelumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,45 @@ permalink: /news/tezepelumab/
 <p><a href="{{ '/drugs/tezepelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
+
+2026-03-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
+
+---
+
+### [Doc Fischer heute (25.03.2026): Themen der Sendung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjgwOHpMMExJQjBCWXBHNEhXcXI0LWVQUXpYZUc1RG5Sb1E0RXljd2ZWdmVxU2NjSTZRc2xFN1VsNkdqNVUxZ1kzNVdkN1U2OVBHY2o5bWdqRXNyWDRkSGhYbFF4YzNXNG1RS2hVckFXeVpDbHI3R2YwNzlDeHRtdUZYWWwweDcydHEwbHFHX3g5dnFRVEFCOVpDQXRBUDhoNzhUWElQZXBtVHBXMDhoRUtmbw?oc=5)
+
+2026-03-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[stuttgarter-nachrichten.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjgwOHpMMExJQjBCWXBHNEhXcXI0LWVQUXpYZUc1RG5Sb1E0RXljd2ZWdmVxU2NjSTZRc2xFN1VsNkdqNVUxZ1kzNVdkN1U2OVBHY2o5bWdqRXNyWDRkSGhYbFF4YzNXNG1RS2hVckFXeVpDbHI3R2YwNzlDeHRtdUZYWWwweDcydHEwbHFHX3g5dnFRVEFCOVpDQXRBUDhoNzhUWElQZXBtVHBXMDhoRUtmbw?oc=5)
+
+---
+
+### [GLP-1-Agonisten dämpfen bei Diabetes womöglich Depressionen und Angststörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
+
+---
 
 ### [Stoffwechsel: Diabetes Risiko steigt durch Übergewicht je nach Geschlecht](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
 2026-03-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
+
+---
+
+### [Una buena dieta puede prevenir hasta un 30% el riesgo de padecer diabetes o colesterol - Onda Cero](https://news.google.com/rss/articles/CBMilwJBVV95cUxNZ01hSzF6RFdYMXF2aU9WQ3E2UXNvU00yU1dCd3UtM01aV1hDU3dUZEhoU1VJNHRNUTlfN1FlbGwxTGVuZmIxMFBXVGNxcG5Zdmp6eTEza2wxTWNCMDc2RlRSQnEyYjUweUhYeDlNcUJTY2d5TzBsSkZQUEMtbHpwNmlhY1pXNk1GeE9nQlNLeWl0TDdqcy14ZUtDWHVZX2ktZVVYQTYxTnl4a05OczltbXBJSXJ4TXotbGh5SnpHYjRCaFRyUUVQMThIdHZtX1pZSVB5ZVp3d1JwSjZwcVE3VFRLREpTc252NENXbUlOQ2ZpdEVkbXV4U2NmVGZmUTF1eG9Jbkp6X2dnS1dwWjdxMTRpQ013ZUnSAZcCQVVfeXFMT0lxWG4yUGsydzc1eXZIdVBBRjg1TDRoYTB3S3B5UEI2bXdxSjF3blJXU3ZkZDRJbXd4YzRkbFBtaEZTVjVjcXhfTmxKbHMxakpJMkVzdFJLQ1RUV3N6NVpoTHozMkNNTmxuenZTOGl0M3RJTWg1Z3dvWmpHNmw1ZnpzZ1dod3BZeXJhanlqNVJERnAzcFV5YUFvM3dHSWpmdVNJYW1Lc3JtVTh2dUFCeGVJMHhHc3ZnSnEyX0RBOVlMckdUbEdqX3I4VjFRSDVINy1rMF9yWlBBaGVVVWNtOXlJQ09RRnV6NkhxYXlJWFRrSkIxNDBIQU9ILXJtYjNqOUUyaUtiNnJMeVNxNXZKSlU3QzBEVXJ3?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMilwJBVV95cUxNZ01hSzF6RFdYMXF2aU9WQ3E2UXNvU00yU1dCd3UtM01aV1hDU3dUZEhoU1VJNHRNUTlfN1FlbGwxTGVuZmIxMFBXVGNxcG5Zdmp6eTEza2wxTWNCMDc2RlRSQnEyYjUweUhYeDlNcUJTY2d5TzBsSkZQUEMtbHpwNmlhY1pXNk1GeE9nQlNLeWl0TDdqcy14ZUtDWHVZX2ktZVVYQTYxTnl4a05OczltbXBJSXJ4TXotbGh5SnpHYjRCaFRyUUVQMThIdHZtX1pZSVB5ZVp3d1JwSjZwcVE3VFRLREpTc252NENXbUlOQ2ZpdEVkbXV4U2NmVGZmUTF1eG9Jbkp6X2dnS1dwWjdxMTRpQ013ZUnSAZcCQVVfeXFMT0lxWG4yUGsydzc1eXZIdVBBRjg1TDRoYTB3S3B5UEI2bXdxSjF3blJXU3ZkZDRJbXd4YzRkbFBtaEZTVjVjcXhfTmxKbHMxakpJMkVzdFJLQ1RUV3N6NVpoTHozMkNNTmxuenZTOGl0M3RJTWg1Z3dvWmpHNmw1ZnpzZ1dod3BZeXJhanlqNVJERnAzcFV5YUFvM3dHSWpmdVNJYW1Lc3JtVTh2dUFCeGVJMHhHc3ZnSnEyX0RBOVlMckdUbEdqX3I4VjFRSDVINy1rMF9yWlBBaGVVVWNtOXlJQ09RRnV6NkhxYXlJWFRrSkIxNDBIQU9ILXJtYjNqOUUyaUtiNnJMeVNxNXZKSlU3QzBEVXJ3?oc=5)
 
 ---
 
@@ -62,23 +94,7 @@ permalink: /news/tezepelumab/
 
 2026-03-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[news.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
-
----
-
-### ["Il a d'énormes bienfaits" : à seulement 2€ chez Lidl, ce pain est considéré comme le meilleur pour la santé par les experts - Biba Magazine](https://news.google.com/rss/articles/CBMihAJBVV95cUxNTnhvT2ZBcFRqMTJRaWx3T1BhRFdSY3JzelU4bWxpaFAtb2llUEN1NDNBTVl5cWl2STV3N2JncFg3eS1vY3VmeHo3U0lIek5PVkM4Z3JWOENROUEtcHdIZjJZS0RnNERrZXphZnJiYUc1cGFBeXEycjVMSmRhcTdQX0RweWdTTVNpRnl2M3ZoNnBPa0RhNFlJNmZMLVl4cTRtcDUyLTNvaTlESGlKWDUyNTQzb19NdDlqMDhrSzZRZHdTN3JSTmcyU2NXc3VaN21aYlVab0xUaGhhNFNlY1NORFNBRGRCTVpiaUE5bUwtZkhmRWN6QmRvRVpuWTBFQ0FZN3RzWA?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabète</span>
-
-來源：[Biba Magazine](https://news.google.com/rss/articles/CBMihAJBVV95cUxNTnhvT2ZBcFRqMTJRaWx3T1BhRFdSY3JzelU4bWxpaFAtb2llUEN1NDNBTVl5cWl2STV3N2JncFg3eS1vY3VmeHo3U0lIek5PVkM4Z3JWOENROUEtcHdIZjJZS0RnNERrZXphZnJiYUc1cGFBeXEycjVMSmRhcTdQX0RweWdTTVNpRnl2M3ZoNnBPa0RhNFlJNmZMLVl4cTRtcDUyLTNvaTlESGlKWDUyNTQzb19NdDlqMDhrSzZRZHdTN3JSTmcyU2NXc3VaN21aYlVab0xUaGhhNFNlY1NORFNBRGRCTVpiaUE5bUwtZkhmRWN6QmRvRVpuWTBFQ0FZN3RzWA?oc=5)
-
----
-
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGticGhkcFdCS2MtdS1wc1RyNGE5VktkUy1YdV9jWW1xMHRxd2tvenEzSmNFQUFKNEVoSW41ZTdmZnUxaWlqSEpRUmd2ZTgyR01kU1NtMllsX3FwWXdZZ01OV2xGWmxPRTM3Qzh0aEFpSG5uTDFJVWFWTkpXSWxPMHlkRGNidk9UQnlwWWZFcVdSRFZwZmVsNzdHdHBmXzNjV3ZmZGJHWG5mV3U3bEs1QU0yaGVOeTg0Tk1yZzN2WnlOSUh3SUpOdG8xSzZRdw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGticGhkcFdCS2MtdS1wc1RyNGE5VktkUy1YdV9jWW1xMHRxd2tvenEzSmNFQUFKNEVoSW41ZTdmZnUxaWlqSEpRUmd2ZTgyR01kU1NtMllsX3FwWXdZZ01OV2xGWmxPRTM3Qzh0aEFpSG5uTDFJVWFWTkpXSWxPMHlkRGNidk9UQnlwWWZFcVdSRFZwZmVsNzdHdHBmXzNjV3ZmZGJHWG5mV3U3bEs1QU0yaGVOeTg0Tk1yZzN2WnlOSUh3SUpOdG8xSzZRdw?oc=5)
+來源：[News.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
 
 ---
 

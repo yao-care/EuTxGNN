@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [La gripe ha provocado veinte muertes en La Rioja desde octubre de 2025 - La Rioja](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGlwTEx1dFBhci1mVTBzWVE1R0dtZGVKOENGN0ZjaTNBNzZGVFZzcE5iV3pzR3JNWng5dWFXbkZKNGM4ZldBOVRzWlZxMG9waDdRWmh5dVctQzZuT3p1QTUzRFNkLWthZW42cUozRjVrd3ROOWdabXFKOFBWeWhpaG1RS3JGcTc1RXA4NGJLd00zbGVrVGZNOHY1MTg3N0VoR1dxNEtkZ3nSAa4BQVVfeXFMUEhvYmkyWE82T2JaNzZQd2dIZnVfdFJrT0RZR0R0SlM1dVdYZVlfTDUxUFY3UFRwcjUtZWxBYXl0aGdlamtTa19RS2RXSkZlUm9NcG96d1ItLXlaenM3WjE5RGctd0ItRVFHX1NmNWZhY3BxZXl3dVVlR2V0aDdyNzRUd01TTldGS1JMTDFZVzBodkdsZFNnMUI0UXNVcE9fSHA1bFYyOUUzeWh3OUNn?oc=5)
+### [El CNIO revela cómo las células tumorales modifican el cerebro para impulsar la metástasis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFdYOXFvc3ZGUFg0Z296WFRJeF9LMFlLb1phaWluZ0RqZGdsbndXVkEtTHVNQWFwaWxOMVE4Mk15SW5Md3ZxeDAzTExEQ2lBUjUyd2FScnUtcE9kTUpqWGVKU21kRFNpN1pFQlFlNUZOSEE2TVRyMjdsdFZmOUN2SXpNZncwaUxMTEg5ak45bjQ5QlpGVWdwX01vUWFzYjFVTHJSLUZFZExvdVFNZ1lzZ1pWbG5zRW9odVc2S2Ewa19RZ9IBxwFBVV95cUxQUTVadDlUZDhzb3pVUFlPZlp6WWhRTEt4VDlIZWc3ejJRUExlT0NwbVktdDYyT1BYWkdXdmRBcUVJWm5INHRqZzRqazVSY2NGMU81X0h3OUpUZ2NVTUpnUnNHZFpIcEVEeVRYaUpFbDc4Vlo1QzNhTVlTSkhCb0FPeFpKZ3JEQUZqUGVmN2VzZTlaM0dQU1c4U1Y1a0NHbzlxTzBXZHluWWVVa0JobzZNbjdhOGl5bFFNaVJ6dnB4SlBwem5nMEdF?oc=5)
+
+2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+
+來源：[democrata.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFdYOXFvc3ZGUFg0Z296WFRJeF9LMFlLb1phaWluZ0RqZGdsbndXVkEtTHVNQWFwaWxOMVE4Mk15SW5Md3ZxeDAzTExEQ2lBUjUyd2FScnUtcE9kTUpqWGVKU21kRFNpN1pFQlFlNUZOSEE2TVRyMjdsdFZmOUN2SXpNZncwaUxMTEg5ak45bjQ5QlpGVWdwX01vUWFzYjFVTHJSLUZFZExvdVFNZ1lzZ1pWbG5zRW9odVc2S2Ewa19RZ9IBxwFBVV95cUxQUTVadDlUZDhzb3pVUFlPZlp6WWhRTEt4VDlIZWc3ejJRUExlT0NwbVktdDYyT1BYWkdXdmRBcUVJWm5INHRqZzRqazVSY2NGMU81X0h3OUpUZ2NVTUpnUnNHZFpIcEVEeVRYaUpFbDc4Vlo1QzNhTVlTSkhCb0FPeFpKZ3JEQUZqUGVmN2VzZTlaM0dQU1c4U1Y1a0NHbzlxTzBXZHluWWVVa0JobzZNbjdhOGl5bFFNaVJ6dnB4SlBwem5nMEdF?oc=5)
+
+---
+
+### [Passé 50 ans, ce symptôme discret au réveil indique que vos poumons fatiguent - Modes et travaux](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklzYldBZkpwNzRXQmo1ekJiOVQteG9nSjRoZjVWSXF3TGxxRnFOQjJEVzQ2LTNLQnlZblkyZ2tRS0hWMjJEVHdvdXJ2b1F2VHRrQ0hOalZzaVZSVXA1NXVlR0pkbEVtazNRNzluS1NLdTVuYWtka3Y2Q2ZSQ3Y3ZXBObXdCQU5DZW1ZYThjVUMyVXZ5Z3RMeGJ0UG1hSXdPTUJuUmhkZzlEWDlYNXJfdHgzMFJUak1LUDBSYUdvbVNPUHpFQXhraWs1dkJfc2pFZnRPd2dnZGVNMVl4dC0tdXo3TDgzRHhGQlp1WWRPWQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">BPCO</span>
+
+來源：[Modes et travaux](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklzYldBZkpwNzRXQmo1ekJiOVQteG9nSjRoZjVWSXF3TGxxRnFOQjJEVzQ2LTNLQnlZblkyZ2tRS0hWMjJEVHdvdXJ2b1F2VHRrQ0hOalZzaVZSVXA1NXVlR0pkbEVtazNRNzluS1NLdTVuYWtka3Y2Q2ZSQ3Y3ZXBObXdCQU5DZW1ZYThjVUMyVXZ5Z3RMeGJ0UG1hSXdPTUJuUmhkZzlEWDlYNXJfdHgzMFJUak1LUDBSYUdvbVNPUHpFQXhraWs1dkJfc2pFZnRPd2dnZGVNMVl4dC0tdXo3TDgzRHhGQlp1WWRPWQ?oc=5)
+
+---
+
+### [La Rioja cierra la campaña de gripe con menos casos y alta vacunación](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTJ0N1pRZmVRbU5obG44cEozTmJrQXdZLUpFY25RVV91RThMQWswT29raUJTTmlZeHdPTm56dS0yTzlnWnctTEl3M0hSWG40S0pTakNvTTdqRkJyMzBVRTBzck1FM0Y3NWhrcGZka3RpZFhzOVVoMm05Z2lXbXBHTWJ5WXRsMDVHUHc?oc=5)
 
 2026-03-24 <span class="news-indication-tag">asma</span>
 
-來源：[La Rioja](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGlwTEx1dFBhci1mVTBzWVE1R0dtZGVKOENGN0ZjaTNBNzZGVFZzcE5iV3pzR3JNWng5dWFXbkZKNGM4ZldBOVRzWlZxMG9waDdRWmh5dVctQzZuT3p1QTUzRFNkLWthZW42cUozRjVrd3ROOWdabXFKOFBWeWhpaG1RS3JGcTc1RXA4NGJLd00zbGVrVGZNOHY1MTg3N0VoR1dxNEtkZ3nSAa4BQVVfeXFMUEhvYmkyWE82T2JaNzZQd2dIZnVfdFJrT0RZR0R0SlM1dVdYZVlfTDUxUFY3UFRwcjUtZWxBYXl0aGdlamtTa19RS2RXSkZlUm9NcG96d1ItLXlaenM3WjE5RGctd0ItRVFHX1NmNWZhY3BxZXl3dVVlR2V0aDdyNzRUd01TTldGS1JMTDFZVzBodkdsZFNnMUI0UXNVcE9fSHA1bFYyOUUzeWh3OUNn?oc=5)
+來源：[NueveCuatroUno](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTJ0N1pRZmVRbU5obG44cEozTmJrQXdZLUpFY25RVV91RThMQWswT29raUJTTmlZeHdPTm56dS0yTzlnWnctTEl3M0hSWG40S0pTakNvTTdqRkJyMzBVRTBzck1FM0Y3NWhrcGZka3RpZFhzOVVoMm05Z2lXbXBHTWJ5WXRsMDVHUHc?oc=5)
 
 ---
 

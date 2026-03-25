@@ -14,7 +14,7 @@ permalink: /news/tedizolid/
 ---
 
 <p class="key-answer" data-question="Tedizolid 有什麼相關新聞？">
-<strong>Tedizolid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tedizolid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,9 +40,15 @@ permalink: /news/tedizolid/
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Passé 50 ans, ce symptôme discret au réveil indique que vos poumons fatiguent - Modes et travaux](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklzYldBZkpwNzRXQmo1ekJiOVQteG9nSjRoZjVWSXF3TGxxRnFOQjJEVzQ2LTNLQnlZblkyZ2tRS0hWMjJEVHdvdXJ2b1F2VHRrQ0hOalZzaVZSVXA1NXVlR0pkbEVtazNRNzluS1NLdTVuYWtka3Y2Q2ZSQ3Y3ZXBObXdCQU5DZW1ZYThjVUMyVXZ5Z3RMeGJ0UG1hSXdPTUJuUmhkZzlEWDlYNXJfdHgzMFJUak1LUDBSYUdvbVNPUHpFQXhraWs1dkJfc2pFZnRPd2dnZGVNMVl4dC0tdXo3TDgzRHhGQlp1WWRPWQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">BPCO</span>
+
+來源：[Modes et travaux](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklzYldBZkpwNzRXQmo1ekJiOVQteG9nSjRoZjVWSXF3TGxxRnFOQjJEVzQ2LTNLQnlZblkyZ2tRS0hWMjJEVHdvdXJ2b1F2VHRrQ0hOalZzaVZSVXA1NXVlR0pkbEVtazNRNzluS1NLdTVuYWtka3Y2Q2ZSQ3Y3ZXBObXdCQU5DZW1ZYThjVUMyVXZ5Z3RMeGJ0UG1hSXdPTUJuUmhkZzlEWDlYNXJfdHgzMFJUak1LUDBSYUdvbVNPUHpFQXhraWs1dkJfc2pFZnRPd2dnZGVNMVl4dC0tdXo3TDgzRHhGQlp1WWRPWQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

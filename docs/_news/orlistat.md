@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Malattie del fegato: è allarme giovani (ma non solo). Sempre più esposti al rischio a causa di binge drinking e obesità - Corriere della Sera](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVFBPdHJTZEYzOVlwMldkNHNrWUhDQVZpU3htSlhROWdISTR1c1EtcDdIRnZmWEdTV1hyNGZuNm1FdXVWdjZpaFJ4SEdndmdnVmNBYjQyblpGc3lXTUU3b2JZZVZDY1BDMWRpdVBYT2thLVMtUklZa1FYcVdRMUpGN1FEcVpsZFpob1ZaREZlMTVtenJkcFRCVXQ2YThyVEFEYzUwdzJ2VmFPekgwb0RJbTVpNUQ0Njg0N1E4ZnJTNng2elluVWhqdllJY3dXTHpQTWQ5empVYXZGakNXdkltNmNDZS11ZXhTQl9WaVVaN0o5NGFId1llZXFFYWZKUHNld05kWl9pbTBPWHVYOFVUT1A5X0NOZ19PRG5ueEFUVXRqU3hWMkQ3QtIBrgJBVV95cUxNN242UExsS045Rk9zTnF3aVRPZndVOU5aakZQNTBaZ0tSdkxwc1BYaUtlZlloUDBkUGNSaVFVRDhCMnR6anh6RlZaT05pTDlkMEZIeHNNSXltRDJjdE9ZRFM2TDlfbUNqMHo4aGplN3BLd1BSWE5NY0tDZGQzMUFsUHYzVmlpUzB3WW0zV1J6SnNad3lKWFFTVlExRmpmQUR1MWdpZmZaNF9iY2t6UTI1VjNvWm52V3YzU1BRS3RGS3YzeDROek03LUlXcU03Yi1pV0NmbVNlYktKTUxOcGhKalFxVk9fS0JEYWxJYWlKaDNPeEdlc3kwcUNLV0pOMkV3YlZUU0lyN25saVk5Ry03a1VHeC0tTHZoZURQR25aaDBUbHBkeU82N0xLd0xPUQ?oc=5)
 
@@ -71,14 +71,6 @@ permalink: /news/orlistat/
 2026-03-24 <span class="news-indication-tag">Adipositas</span>
 
 來源：[leinetal24](https://news.google.com/rss/articles/CBMitgJBVV95cUxPLWF6UEdUMHlJUnhKVHVybUczQWpwUXJBaWNXemdQZUtheWZHTFl3SDFRNVc4RFNSLThGNEtyeVJaQnM0QjNlS2RUck9ueFF3cVZ1OHlwTVhnaWcxa2VxaW8wRlJxZXNFUEhaMHNMTXAwb2h0bnB2Y0dzV1JHbjV2Mkd0SElLdG9EMzA2YjZJOWpQY0FhLV93TWJIZlZpeEhfYjU3MWVRZjFxX0VkV1R1WVAwVTFFNTBFbkhSSTJCeW9FWUN3di03REZkREhzR21lck5hajZRUVJoM2VmSW5BWG5UZE5iTXBFajZPRzdwUkkwcWpXRnRhZlpEREFXa2xRUE5yeTFsalZlSW9SZkNnbDB2Sjl5U004Z0JIQjlXOEF1MzFUYWtjUE9pTGFDeVdpcUtIcHdR?oc=5)
-
----
-
-### [List of foods ‘worse for you than smoking’ as doctor issues serious warning](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
 
 ---
 

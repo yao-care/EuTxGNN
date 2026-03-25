@@ -14,7 +14,7 @@ permalink: /news/bictegravir/
 ---
 
 <p class="key-answer" data-question="Bictegravir 有什麼相關新聞？">
-<strong>Bictegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bictegravir</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,29 @@ permalink: /news/bictegravir/
 <p><a href="{{ '/drugs/bictegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Auslöser wohl Lokalspezialität: Hepatitis-Ausbruch erschüttert beliebte Urlaubsregion in Italien](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnF2U25pVld6SWFHWlkxQUlLSHhLR1NpNEI4YUpCNU00Nm5lMWpVNVhGbkxsX1p0VHkweUlweDFPSWluWFNObUwwMXhnRFViSG81MWhuQndJQXVSTEVGaWg1cmladTJMOE1JN3dsMjh1cVliZW9pRVE3SkU2SW1PSFRDalM1RmtadVVhRWhmU0pOalRNT1lLMzlzTE9rdGdVczJtMER3cEY3TUJN?oc=5)
+
+2026-03-25 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Ntv](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnF2U25pVld6SWFHWlkxQUlLSHhLR1NpNEI4YUpCNU00Nm5lMWpVNVhGbkxsX1p0VHkweUlweDFPSWluWFNObUwwMXhnRFViSG81MWhuQndJQXVSTEVGaWg1cmladTJMOE1JN3dsMjh1cVliZW9pRVE3SkU2SW1PSFRDalM1RmtadVVhRWhmU0pOalRNT1lLMzlzTE9rdGdVczJtMER3cEY3TUJN?oc=5)
+
+---
+
+### [Epatite A, 50 casi registrati a Roma. La Regione: "Situazione monitorata". Cosa è e come si trasmette](https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQ0Q2NW9kMm1neHY3X2dkY2QxdlBaSWNJUmFaM2ZmeWNxYVpscEtpNnFkQmdhY3NscWNDZ1VIdGNLRFpOOG14eEwwYklzbjdYVnhTTHZqd3MtZDRQYlQ1R0RzbDB0TGlZbldGeU5kUXlBbGtJa1dXMFM0VQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">epatite</span>
+
+來源：[RomaToday](https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQ0Q2NW9kMm1neHY3X2dkY2QxdlBaSWNJUmFaM2ZmeWNxYVpscEtpNnFkQmdhY3NscWNDZ1VIdGNLRFpOOG14eEwwYklzbjdYVnhTTHZqd3MtZDRQYlQ1R0RzbDB0TGlZbldGeU5kUXlBbGtJa1dXMFM0VQ?oc=5)
+
+---
 
 ### [Sarampión, meningitis y hepatitis A: el repunte de enfermedades prevenibles hace saltar las alarmas en España](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXV4dkVpSzhkeWFfQWNidVZObDFkYkdjNll5NVZBTnNKMEtXMGJYbl8zd0dqMm0tMTVBeEVsMmNZNnFYZEl1WVAxTEJlcTdrNS1KdGszZGF3MElVOWptMUpreGltNnRJd2xCRkZkSVhrMVIwc09lSUZsZDhGTmxfajZZYU1oQlc1WS13NkJvcmhzdXdNMkVfNDFNLXpOX1ZEUDhTR2pWS0xDTTVGbWFoSVNfNXN1NVp1V1ZjWVcwY3N6Um1ENGfSAcYBQVVfeXFMT0VKYUVoNk92ZXNfNVhUVGlGODZnRk9Yc0VCS0RnX3RYOGlwQ1Vyd2lVcEtza1I1TlliTGxKSVlZV19QcEZiVjFVekJXdnNwZmE1TXhGZEVuYjh2Y2lLQ3JQS0sxVkJTeDFyZktEN3ltUENxWmhpV2wxMW9XT2o5Qi1NWVhSUXY3RndRUnlTZWlXcGx3MEl3MEpIOWVLS1p6SkxReEJnSFI3VGtpbHhwZHozdGVtRW1ubnQwRkJBSWVvQWtJSVVn?oc=5)
 
 2026-03-25 <span class="news-indication-tag">hepatitis</span>
 
 來源：[RTVE.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXV4dkVpSzhkeWFfQWNidVZObDFkYkdjNll5NVZBTnNKMEtXMGJYbl8zd0dqMm0tMTVBeEVsMmNZNnFYZEl1WVAxTEJlcTdrNS1KdGszZGF3MElVOWptMUpreGltNnRJd2xCRkZkSVhrMVIwc09lSUZsZDhGTmxfajZZYU1oQlc1WS13NkJvcmhzdXdNMkVfNDFNLXpOX1ZEUDhTR2pWS0xDTTVGbWFoSVNfNXN1NVp1V1ZjWVcwY3N6Um1ENGfSAcYBQVVfeXFMT0VKYUVoNk92ZXNfNVhUVGlGODZnRk9Yc0VCS0RnX3RYOGlwQ1Vyd2lVcEtza1I1TlliTGxKSVlZV19QcEZiVjFVekJXdnNwZmE1TXhGZEVuYjh2Y2lLQ3JQS0sxVkJTeDFyZktEN3ltUENxWmhpV2wxMW9XT2o5Qi1NWVhSUXY3RndRUnlTZWlXcGx3MEl3MEpIOWVLS1p6SkxReEJnSFI3VGtpbHhwZHozdGVtRW1ubnQwRkJBSWVvQWtJSVVn?oc=5)
-
----
-
-### [Großer Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkg5N3lTbWlBdlM4VFV0dUptQmlUQzdPSW51T2s3Nlo3ZHJBNmYybDBTbzc5NzRSbmJsX0FONE04ekd2enUyMThPdDVtcTZHeEJYZjBIVHdQZkpWTjlJQ1duSVFwbEpzcEFKYzg3RGU1dlJ3UTZ3RS1Mam9uZlBfUlZoVnVZZkVuZVhMMnBfS3VNSTlvcUJWWnV0dXo0RU9nUHBjS21xeG5raF9reW1LVHJuM01tQ01qd0w3bW53cFhibjA?oc=5)
-
-2026-03-25 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkg5N3lTbWlBdlM4VFV0dUptQmlUQzdPSW51T2s3Nlo3ZHJBNmYybDBTbzc5NzRSbmJsX0FONE04ekd2enUyMThPdDVtcTZHeEJYZjBIVHdQZkpWTjlJQ1duSVFwbEpzcEFKYzg3RGU1dlJ3UTZ3RS1Mam9uZlBfUlZoVnVZZkVuZVhMMnBfS3VNSTlvcUJWWnV0dXo0RU9nUHBjS21xeG5raF9reW1LVHJuM01tQ01qd0w3bW53cFhibjA?oc=5)
-
----
-
-### [Epatite A, Marinoni: "Dipende soprattutto da cosa si mangia e dall’uso di acqua contaminata”](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVVDQm95QzA0dEhWemFxckJxNmVndThEb0t1eTRTTGhUdHFvanFjbF9SX3E0VEpYTXNNRGQ3X1haYUU2RnJ0WHZIamtKQzB6Z1ZqNTB4aDQwWUM0Z3FIN0lfYkVBckVtdlJBSjh1ZEN1XzlZUUg1Y0V1bkliS3BuaG9rYlFkaXVaSjUxYkkyWDFPa0E3VDhxUEI4QzZNbUFGVzVmOUxtdDEwM0Z0aHNjLVN4ZllnODRGdVN3Tk9tVTVCcndzUk5HRjItNWVGS0FxekNqUE9mdjI?oc=5)
-
-2026-03-25 <span class="news-indication-tag">epatite</span>
-
-來源：[Bergamonews](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVVDQm95QzA0dEhWemFxckJxNmVndThEb0t1eTRTTGhUdHFvanFjbF9SX3E0VEpYTXNNRGQ3X1haYUU2RnJ0WHZIamtKQzB6Z1ZqNTB4aDQwWUM0Z3FIN0lfYkVBckVtdlJBSjh1ZEN1XzlZUUg1Y0V1bkliS3BuaG9rYlFkaXVaSjUxYkkyWDFPa0E3VDhxUEI4QzZNbUFGVzVmOUxtdDEwM0Z0aHNjLVN4ZllnODRGdVN3Tk9tVTVCcndzUk5HRjItNWVGS0FxekNqUE9mdjI?oc=5)
 
 ---
 
@@ -79,14 +79,6 @@ permalink: /news/bictegravir/
 2026-03-24 <span class="news-indication-tag">hepatitis</span>
 
 來源：[IPac Acuicultura](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
-
----
-
-### [Matteo Bassetti: «Tornano pertosse, epatite e meningite? Una strana coincidenza, ringraziamo no-vax»](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0x3SWpFZFRHZkhHNlhDUDRhRUpRQTVudzluWFdQUFVYd291aHgzQ2JzV29kcXlPM3o1REJ6cnJ1OVloemp5UnowYkFIWndxdFI5cHozVURWdHJfMm9XZ0JLWm9XenZUWjZyRUZKM05pMkR5NDlUMEVEQzRjWTZnWmNOZ2lqV3Y2NnA2R29iNVA4aU1oS3BaNURVeXAxTnhLT3RTbmk2UdIBmgFBVV95cUxPU2FuZVpCdkJUdDBySEo3RGZsdkZORVJOcklFb2dOZmpVZHhhQ0lINTF5Ny1wM3VSTG9aX0JzRmpBMTVNcXBYQnJkOGlxSUR5MXZlMG9VOV9sR0FwQ05sZ0d0MlJqbkZDZ1FUQzJESXJJMW1UUFY5OEdLVzV0dlhySEozbmxMNldIV0xPTW1mWlpaVHBzakZ5RlFB?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epatite</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0x3SWpFZFRHZkhHNlhDUDRhRUpRQTVudzluWFdQUFVYd291aHgzQ2JzV29kcXlPM3o1REJ6cnJ1OVloemp5UnowYkFIWndxdFI5cHozVURWdHJfMm9XZ0JLWm9XenZUWjZyRUZKM05pMkR5NDlUMEVEQzRjWTZnWmNOZ2lqV3Y2NnA2R29iNVA4aU1oS3BaNURVeXAxTnhLT3RTbmk2UdIBmgFBVV95cUxPU2FuZVpCdkJUdDBySEo3RGZsdkZORVJOcklFb2dOZmpVZHhhQ0lINTF5Ny1wM3VSTG9aX0JzRmpBMTVNcXBYQnJkOGlxSUR5MXZlMG9VOV9sR0FwQ05sZ0d0MlJqbkZDZ1FUQzJESXJJMW1UUFY5OEdLVzV0dlhySEozbmxMNldIV0xPTW1mWlpaVHBzakZ5RlFB?oc=5)
 
 ---
 

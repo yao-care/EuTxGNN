@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer-Krankheit（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer-Krankheit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,21 +44,45 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
 
-### [EBM-Änderungen: Anpassungen für die Arzneimittel Leqembi® und Itovebi® - KV RLP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk5tNEtoZFAtQ0xxSjYxTncxbzNGSGdoUFVFZUhQT1pjc1FyR1VQR0FrOElQZ0I4QS1iNFY3dUhBTFRVTW9iZkcxcHJyaXA0TzNlS2dOdm1Uc0tFQ3p3VVFYdW1pNVVWcDVRRUd0Z2dHNGZqREgzUERZRWwzZTRJNG5nOXFFSEJuQl9CYWFlOW4zTjM1VXBRMEg2N3dtV0VOaXJZSGtn?oc=5)
+### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
 
 2026-03-25
 
-來源：[KV RLP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk5tNEtoZFAtQ0xxSjYxTncxbzNGSGdoUFVFZUhQT1pjc1FyR1VQR0FrOElQZ0I4QS1iNFY3dUhBTFRVTW9iZkcxcHJyaXA0TzNlS2dOdm1Uc0tFQ3p3VVFYdW1pNVVWcDVRRUd0Z2dHNGZqREgzUERZRWwzZTRJNG5nOXFFSEJuQl9CYWFlOW4zTjM1VXBRMEg2N3dtV0VOaXJZSGtn?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
 
 ---
 
-### [Cooking a meal at home may keep a lid on dementia risk - The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnJiWWp0enB0ZnEydE5aeXZZb2I3c3B6Q09VcUcwSjF5Mm9YSnM0S1pnRXRtLV9qRkdVbkN1c00weTcxazIzYmVkX05SRUtuUXU5blV3b2o0bjFEWXV1a1QtTG0zZkhrMmhnZEV1SE96VFY5MHkxS1NaUnh2VEI0OXZuNWR3ZTRFY0JBcWpTbzhscEk5NE5uNVdyVnc?oc=5)
+### [Scientists create blood test that predicts dementia 25 years before symptoms appear](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
 
-2026-03-23
+2026-03-25
 
-來源：[The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnJiWWp0enB0ZnEydE5aeXZZb2I3c3B6Q09VcUcwSjF5Mm9YSnM0S1pnRXRtLV9qRkdVbkN1c00weTcxazIzYmVkX05SRUtuUXU5blV3b2o0bjFEWXV1a1QtTG0zZkhrMmhnZEV1SE96VFY5MHkxS1NaUnh2VEI0OXZuNWR3ZTRFY0JBcWpTbzhscEk5NE5uNVdyVnc?oc=5)
+來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
+
+---
+
+### [Making home-cooked meals ‘cuts risk of dementia’ - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
+
+2026-03-25
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
+
+---
+
+### [Scientists Call for a Complete Rethink of Alzheimer’s Treatment](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1N4VGRBX3Z0dFZHcU55cWhsZ3YtT2lzUzc5Vk1wanVfeWk1WDVGWlB2U2hMUmtDZko0SllfazA1ekc1a1B0czFxc1dEazQ5N2E0NGk3Rll1ckVsOC1sSXhTSlZfMnZZNmoxeE5yMW1td0RCUE1EWmJwTmFRQWY5aXRuUDZfLXlrX29PR1VaelppUQ?oc=5)
+
+2026-03-25
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1N4VGRBX3Z0dFZHcU55cWhsZ3YtT2lzUzc5Vk1wanVfeWk1WDVGWlB2U2hMUmtDZko0SllfazA1ekc1a1B0czFxc1dEazQ5N2E0NGk3Rll1ckVsOC1sSXhTSlZfMnZZNmoxeE5yMW1td0RCUE1EWmJwTmFRQWY5aXRuUDZfLXlrX29PR1VaelppUQ?oc=5)
+
+---
+
+### [Severe UTIs May Be an Overlooked Dementia Risk Factor](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1haWdQTFQxb3RMbnBsVTBXckZPYXJ6ZEVBYlZXVUpqWEI3MTRCVXRTYkhQQXZwQ1dkcmY1ZTh0MXdWc2hOVTNzb3o5OVFwM1ljMHRKYTNhUHU0Ny1fM1lIS2NMZGJJUG9uM2JKNUVZMWJqNDU4RDRtS1FtbWk0Wkd0R3kzcXNnOGc?oc=5)
+
+2026-03-24
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1haWdQTFQxb3RMbnBsVTBXckZPYXJ6ZEVBYlZXVUpqWEI3MTRCVXRTYkhQQXZwQ1dkcmY1ZTh0MXdWc2hOVTNzb3o5OVFwM1ljMHRKYTNhUHU0Ny1fM1lIS2NMZGJJUG9uM2JKNUVZMWJqNDU4RDRtS1FtbWk0Wkd0R3kzcXNnOGc?oc=5)
 
 ---
 
