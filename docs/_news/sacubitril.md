@@ -42,14 +42,6 @@ permalink: /news/sacubitril/
 
 ## 相關新聞（5 則）
 
-### [GLP-1-Agonisten dämpfen bei Diabetes womöglich Depressionen und Angststörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
-
----
-
 ### [Stoffwechsel: Diabetes Risiko steigt durch Übergewicht je nach Geschlecht](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
 2026-03-24 <span class="news-indication-tag">diabetes</span>
@@ -74,11 +66,19 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Can turmeric supplements ease the agony of my hip arthritis?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVhLOVdWLW05NW9lb3EyTXBNZ0lwN21UQ3ZieXBhbUdHYmh5Mk40SThSTnJadFgzUkxxcDlmcU8wOGxUTGZKQS1SeWtoeG9RTlhpYVh0UFE1MXYzNDVQSHV4UXFqNklnZHE5SVpUV2VpNzRpeFNNbVdXMWlJM0lMX0RURzZmY1JSXzlJ?oc=5)
+### ["Il a d'énormes bienfaits" : à seulement 2€ chez Lidl, ce pain est considéré comme le meilleur pour la santé par les experts - Biba Magazine](https://news.google.com/rss/articles/CBMihAJBVV95cUxNTnhvT2ZBcFRqMTJRaWx3T1BhRFdSY3JzelU4bWxpaFAtb2llUEN1NDNBTVl5cWl2STV3N2JncFg3eS1vY3VmeHo3U0lIek5PVkM4Z3JWOENROUEtcHdIZjJZS0RnNERrZXphZnJiYUc1cGFBeXEycjVMSmRhcTdQX0RweWdTTVNpRnl2M3ZoNnBPa0RhNFlJNmZMLVl4cTRtcDUyLTNvaTlESGlKWDUyNTQzb19NdDlqMDhrSzZRZHdTN3JSTmcyU2NXc3VaN21aYlVab0xUaGhhNFNlY1NORFNBRGRCTVpiaUE5bUwtZkhmRWN6QmRvRVpuWTBFQ0FZN3RzWA?oc=5)
 
-2026-03-24 <span class="news-indication-tag">arthritis</span>
+2026-03-24 <span class="news-indication-tag">diabète</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVhLOVdWLW05NW9lb3EyTXBNZ0lwN21UQ3ZieXBhbUdHYmh5Mk40SThSTnJadFgzUkxxcDlmcU8wOGxUTGZKQS1SeWtoeG9RTlhpYVh0UFE1MXYzNDVQSHV4UXFqNklnZHE5SVpUV2VpNzRpeFNNbVdXMWlJM0lMX0RURzZmY1JSXzlJ?oc=5)
+來源：[Biba Magazine](https://news.google.com/rss/articles/CBMihAJBVV95cUxNTnhvT2ZBcFRqMTJRaWx3T1BhRFdSY3JzelU4bWxpaFAtb2llUEN1NDNBTVl5cWl2STV3N2JncFg3eS1vY3VmeHo3U0lIek5PVkM4Z3JWOENROUEtcHdIZjJZS0RnNERrZXphZnJiYUc1cGFBeXEycjVMSmRhcTdQX0RweWdTTVNpRnl2M3ZoNnBPa0RhNFlJNmZMLVl4cTRtcDUyLTNvaTlESGlKWDUyNTQzb19NdDlqMDhrSzZRZHdTN3JSTmcyU2NXc3VaN21aYlVab0xUaGhhNFNlY1NORFNBRGRCTVpiaUE5bUwtZkhmRWN6QmRvRVpuWTBFQ0FZN3RzWA?oc=5)
+
+---
+
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGticGhkcFdCS2MtdS1wc1RyNGE5VktkUy1YdV9jWW1xMHRxd2tvenEzSmNFQUFKNEVoSW41ZTdmZnUxaWlqSEpRUmd2ZTgyR01kU1NtMllsX3FwWXdZZ01OV2xGWmxPRTM3Qzh0aEFpSG5uTDFJVWFWTkpXSWxPMHlkRGNidk9UQnlwWWZFcVdSRFZwZmVsNzdHdHBmXzNjV3ZmZGJHWG5mV3U3bEs1QU0yaGVOeTg0Tk1yZzN2WnlOSUh3SUpOdG8xSzZRdw?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGticGhkcFdCS2MtdS1wc1RyNGE5VktkUy1YdV9jWW1xMHRxd2tvenEzSmNFQUFKNEVoSW41ZTdmZnUxaWlqSEpRUmd2ZTgyR01kU1NtMllsX3FwWXdZZ01OV2xGWmxPRTM3Qzh0aEFpSG5uTDFJVWFWTkpXSWxPMHlkRGNidk9UQnlwWWZFcVdSRFZwZmVsNzdHdHBmXzNjV3ZmZGJHWG5mV3U3bEs1QU0yaGVOeTg0Tk1yZzN2WnlOSUh3SUpOdG8xSzZRdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### ['It's like I'm still living in a Covid lockdown'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VeThsU3lHVFZOY1ZzeTloVEhicHBNRmJxVTRRTlIzYXMzeFR5VDQ3Xy1ENlJaODl1WFZFZXV5OGQxUkNlNjZZcXFMNmh5bnpMa3hTVlZuTEZzRzdL?oc=5)
-
-2026-03-23 <span class="news-indication-tag">CKD</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VeThsU3lHVFZOY1ZzeTloVEhicHBNRmJxVTRRTlIzYXMzeFR5VDQ3Xy1ENlJaODl1WFZFZXV5OGQxUkNlNjZZcXFMNmh5bnpMa3hTVlZuTEZzRzdL?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -42,11 +42,11 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（1 則）
 
-### [Can turmeric supplements ease the agony of my hip arthritis?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVhLOVdWLW05NW9lb3EyTXBNZ0lwN21UQ3ZieXBhbUdHYmh5Mk40SThSTnJadFgzUkxxcDlmcU8wOGxUTGZKQS1SeWtoeG9RTlhpYVh0UFE1MXYzNDVQSHV4UXFqNklnZHE5SVpUV2VpNzRpeFNNbVdXMWlJM0lMX0RURzZmY1JSXzlJ?oc=5)
+### [Cardiologists say one 250ml glass lowers high blood pressure back to 'normal' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
 
-2026-03-24 <span class="news-indication-tag">arthritis</span>
+2026-03-24 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVhLOVdWLW05NW9lb3EyTXBNZ0lwN21UQ3ZieXBhbUdHYmh5Mk40SThSTnJadFgzUkxxcDlmcU8wOGxUTGZKQS1SeWtoeG9RTlhpYVh0UFE1MXYzNDVQSHV4UXFqNklnZHE5SVpUV2VpNzRpeFNNbVdXMWlJM0lMX0RURzZmY1JSXzlJ?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
 
 ---
 

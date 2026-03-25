@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Rotlicht-Therapie nach einem Schlaganfall - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzE5YWpuUWYwWTI4aWx1WUYyeTlVVllmR2Z3YmtLbVFDTDVPR0VBMDZFRjh6UkxwdnEwZXdwd0hFSm85Y1VqYVBIbDdIVVRTZHdScUxvQ3ZhOHdTQ3NMaDFMSnFINmtsZmtaVk5zdUJCTm1BbUV1Nl90Y0dGcUhabDVfcEt3dEdfREl3MWNZSVVoSTMyOHBpRlY5TDRldkdvNEpKVVdxN2c2T2ZQVkJQNjJKaWl0YnRyeVVGQ19Send3aHRNN2tZ?oc=5)
 
@@ -50,27 +50,11 @@ permalink: /news/simvastatin/
 
 ---
 
-### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
-
-2026-03-24 <span class="news-indication-tag">stroke</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
-
----
-
 ### [List of foods ‘worse for you than smoking’ as doctor issues serious warning](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
 
 2026-03-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
-
----
-
-### [Vino o birra, lo studio a sorpresa: quale bicchiere riduce del 21% rischi per cuore](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTgyTnJMY1FJVWprYU9Xb1BOYzdCOHowSTItMllCZW1iNE5vekFSeTE1TGhCMmx0TUtrNHpmOExUeTN2VWZmeFBnZmhSUDNWdGt4UUU0Sk10VXY0S2l5bmR0ZTJyZTNCWlZ1TUhiRnF4eVVranlrS21sZTJmVERCb0g1cnlLQm9UY2w3ajl5N3VsQXlncUZTN2QtYw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">ictus</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTgyTnJMY1FJVWprYU9Xb1BOYzdCOHowSTItMllCZW1iNE5vekFSeTE1TGhCMmx0TUtrNHpmOExUeTN2VWZmeFBnZmhSUDNWdGt4UUU0Sk10VXY0S2l5bmR0ZTJyZTNCWlZ1TUhiRnF4eVVranlrS21sZTJmVERCb0g1cnlLQm9UY2w3ajl5N3VsQXlncUZTN2QtYw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/riociguat/
 ---
 
 <p class="key-answer" data-question="Riociguat 有什麼相關新聞？">
-<strong>Riociguat</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Riociguat</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,45 @@ permalink: /news/riociguat/
 <p><a href="{{ '/drugs/riociguat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
 
-### [Wissen und ärztliche Empfehlung prägen HPV-Impfbereitschaft bei Erwachsenen - UZH News](https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVWhwQk5xbEpQbnMzSXNCcTIyOWxySm5NNWQxUjZQck1kTjltWEdOU0hzemswVHc2Y1U3VzhjNE5sczRtdVVEa1dTT3ZEMy1jMlFXd19MdEoxb3JkOHIxZWItQXdTVEY1SUczd2JOd3JPcjB2cmxieFNEOHlqaGM?oc=5)
+### [„Gehirnwäsche“ im Schlaf – das glymphatische System als neues Therapie-Ziel? - Deutsche Gesellschaft für Parkinson und Bewegungsstörungen](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ2FkZzZ4RjdjelZxamlfZW05ZzJ0dG9WN0hMY0I4aGlZMVRicU1lcl9VRFJCWEI0ZzRpX0NLdUJiWFRxVGpXLTB2MVdXcm1ETkp4QUY0MktpdHJ1eWJCWTFNcXY5ZG1UcDJxODdWeXNhTzFPMlVmeDBEYnBNbnc1OGdZdWdyMkdxTGZBbExrN180ZS1CcmpScldTU0JHR3hXM05rZnRxZUprVDk3dDFTNlJGLXdmcUs2UnlQR0hMUml2NjJVbVpsNHd3UWdjbHFFeUNobFkwSnNSZGd6U1pr?oc=5)
 
 2026-03-25 <span class="news-indication-tag">AF</span>
 
-來源：[UZH News](https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVWhwQk5xbEpQbnMzSXNCcTIyOWxySm5NNWQxUjZQck1kTjltWEdOU0hzemswVHc2Y1U3VzhjNE5sczRtdVVEa1dTT3ZEMy1jMlFXd19MdEoxb3JkOHIxZWItQXdTVEY1SUczd2JOd3JPcjB2cmxieFNEOHlqaGM?oc=5)
+來源：[Deutsche Gesellschaft für Parkinson und Bewegungsstörungen](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ2FkZzZ4RjdjelZxamlfZW05ZzJ0dG9WN0hMY0I4aGlZMVRicU1lcl9VRFJCWEI0ZzRpX0NLdUJiWFRxVGpXLTB2MVdXcm1ETkp4QUY0MktpdHJ1eWJCWTFNcXY5ZG1UcDJxODdWeXNhTzFPMlVmeDBEYnBNbnc1OGdZdWdyMkdxTGZBbExrN180ZS1CcmpScldTU0JHR3hXM05rZnRxZUprVDk3dDFTNlJGLXdmcUs2UnlQR0hMUml2NjJVbVpsNHd3UWdjbHFFeUNobFkwSnNSZGd6U1pr?oc=5)
+
+---
+
+### [Psychology says people who describe themselves as joyful after 50 didn't suddenly become optimistic — they stopped treating happiness like a reward for perfect behavior and started treating it like a practice](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMFgxa3h1dDVxNm4xTkhYQmRsVGxkb1RfMWdmQjVNd21WUllURjI2N0FHeXRUN3FZZElKZnNUVnliTTZxcS0yTkxacWQ5WDhZUjB6RWxRbjJYVFZhcWI4ZVR1MXRlRjI2TmxfOFBDcm5CUm9FRjhuM1hnUXBWZU82MG1fcG5YbGFlSEIwMUFHc3lfUEkyT2tHYWxDaEZxSGhQZDV0X2MzaTlYUS16MVBvcEFGTUl3VTJGQWFCZnEtdEYtejQtMXVLNS1RV1d2WWlzczVqckJsZ3M3ZjNWWTlTR3JtRk5OYVJzVTREWDRtcElHaG5XQ3hMTzFWeW44ZEFCbUhDMFhiY0VZZ0pnTXkzX0dNdFNIQldqZjJ3dVdmR3RxZnJuZ2lHVE81RnpRTE5JeE5EaXVsckVqUnFCWVRBOXFraTJfR0FR?oc=5)
+
+2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[VegOut](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMFgxa3h1dDVxNm4xTkhYQmRsVGxkb1RfMWdmQjVNd21WUllURjI2N0FHeXRUN3FZZElKZnNUVnliTTZxcS0yTkxacWQ5WDhZUjB6RWxRbjJYVFZhcWI4ZVR1MXRlRjI2TmxfOFBDcm5CUm9FRjhuM1hnUXBWZU82MG1fcG5YbGFlSEIwMUFHc3lfUEkyT2tHYWxDaEZxSGhQZDV0X2MzaTlYUS16MVBvcEFGTUl3VTJGQWFCZnEtdEYtejQtMXVLNS1RV1d2WWlzczVqckJsZ3M3ZjNWWTlTR3JtRk5OYVJzVTREWDRtcElHaG5XQ3hMTzFWeW44ZEFCbUhDMFhiY0VZZ0pnTXkzX0dNdFNIQldqZjJ3dVdmR3RxZnJuZ2lHVE81RnpRTE5JeE5EaXVsckVqUnFCWVRBOXFraTJfR0FR?oc=5)
+
+---
+
+### [Neue Studie: Das macht die (zweite) Schwangerschaft wirklich mit deinem Gehirn](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLXZEeE1rWTk5WEZULXlnY1BrRDlyZE9RZ3R6Y0MwMXhvTGtINTZSeXgyR0M0SGFuR0otbHdHc0tidUlQLXlKMDZmNXBUNGJSWFFVeXpNZnJBamY0Tm9Ca2diRS1jYzZMemFXTnBuYzNVVFNvenp5dkppTlJsblpFTXhrNGxOdHhfSnk5Y0FEeVNSU0c0U0Nhd1hxdmtZSjNEQWFjckZkclhGT2NkZTdvRXBKWTJ3ZV8xRENla2ZZZkVpd0FPU0dqQXBvYXN2QU9sRUNFR3UxaUJvQQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">AF</span>
+
+來源：[familie.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLXZEeE1rWTk5WEZULXlnY1BrRDlyZE9RZ3R6Y0MwMXhvTGtINTZSeXgyR0M0SGFuR0otbHdHc0tidUlQLXlKMDZmNXBUNGJSWFFVeXpNZnJBamY0Tm9Ca2diRS1jYzZMemFXTnBuYzNVVFNvenp5dkppTlJsblpFTXhrNGxOdHhfSnk5Y0FEeVNSU0c0U0Nhd1hxdmtZSjNEQWFjckZkclhGT2NkZTdvRXBKWTJ3ZV8xRENla2ZZZkVpd0FPU0dqQXBvYXN2QU9sRUNFR3UxaUJvQQ?oc=5)
+
+---
+
+### ['Nobody can afford to have meningitis', mum says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE50bXR4Tk9jamJmRUJSeTBSRl9RdjQ0Q25vaDB3Y3kyTFRuaXhXUmNSeXhMYkVlNU1WLXh1dGFYYzFFekI3X2dZaERiek5pSDFWUTJ2OUtneUl5Nmo0?oc=5)
+
+2026-03-25 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE50bXR4Tk9jamJmRUJSeTBSRl9RdjQ0Q25vaDB3Y3kyTFRuaXhXUmNSeXhMYkVlNU1WLXh1dGFYYzFFekI3X2dZaERiek5pSDFWUTJ2OUtneUl5Nmo0?oc=5)
+
+---
+
+### [Mum's warning after Bristol teen died suddenly of Meningitis B in 2010 - Bristol Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2RoQUhsZ2JkUUJwbHljZEJYeS04UXctd2lNNEtPTXdlMU5uYUcwUXE4UldQUHNaUS0wWjRkVWczSG9EVEdaRkt0Zl9DMnpYTE9xTU1YTHBIOHhIQl9UbFdha2ZUWHh1dkpkSnliVGo0UDdRLVc4cW9tY0c0VHlfRGlKNXlzelBpdzlSOE5QTWNMZw?oc=5)
+
+2026-03-25 <span class="news-indication-tag">AF</span>
+
+來源：[Bristol Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2RoQUhsZ2JkUUJwbHljZEJYeS04UXctd2lNNEtPTXdlMU5uYUcwUXE4UldQUHNaUS0wWjRkVWczSG9EVEdaRkt0Zl9DMnpYTE9xTU1YTHBIOHhIQl9UbFdha2ZUWHh1dkpkSnliVGo0UDdRLVc4cW9tY0c0VHlfRGlKNXlzelBpdzlSOE5QTWNMZw?oc=5)
 
 ---
 
@@ -58,19 +90,35 @@ permalink: /news/riociguat/
 
 ---
 
-### [Doctolib-Daten: 63 Prozent der Deutschen leiden unter Schlafproblemen - AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTU5Q2lLMmZjMVVXektHdktUSl9FOHdhSnZ6Zm1KTHAyQkFoUUpmTmtPck9ORnNuTkpWLWNRSDlWZ3JCVDZReS1kUlJTUHZEOW11YXE1aDVhME9DMFl1Rm5pdl82alpoYjVBaW8ydzEtZHMxRThKWnF4V2pKZE9DSmMtT20yV0cwLXN1WDhqMXpmSEUtVTVLR014aW5SSFpWeFgzTF9ORHBrMVhPRlhuVUtpSUR2NUEyUTdyTDZ6OXZSSFpoalE?oc=5)
+### [School brings back class bubbles and cancels events after cases of infectious illness - The Bolton News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3FsS1BDMmhualBYNGktN3A5TXg4OWs2VWlGcUFsUWMtYlpvZVhhWkxvQmJVX2pvSEE0Tk9GVG9MUDFza1VhXzdQRWtWZVZadTNDaXpHekpUcWNuVnp0ZDVaQzFVWUY3R0diZXppdmM2clQzQnVKdi1KekVreXE1QVBydFItRmx5N2FxcmxoZnA0QXdBU0E?oc=5)
 
-2026-03-24 <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTU5Q2lLMmZjMVVXektHdktUSl9FOHdhSnZ6Zm1KTHAyQkFoUUpmTmtPck9ORnNuTkpWLWNRSDlWZ3JCVDZReS1kUlJTUHZEOW11YXE1aDVhME9DMFl1Rm5pdl82alpoYjVBaW8ydzEtZHMxRThKWnF4V2pKZE9DSmMtT20yV0cwLXN1WDhqMXpmSEUtVTVLR014aW5SSFpWeFgzTF9ORHBrMVhPRlhuVUtpSUR2NUEyUTdyTDZ6OXZSSFpoalE?oc=5)
+來源：[The Bolton News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3FsS1BDMmhualBYNGktN3A5TXg4OWs2VWlGcUFsUWMtYlpvZVhhWkxvQmJVX2pvSEE0Tk9GVG9MUDFza1VhXzdQRWtWZVZadTNDaXpHekpUcWNuVnp0ZDVaQzFVWUY3R0diZXppdmM2clQzQnVKdi1KekVreXE1QVBydFItRmx5N2FxcmxoZnA0QXdBU0E?oc=5)
 
 ---
 
-### [Alimentos ultraprocesados podrían afectar la fertilidad y el desarrollo embrionario - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkxqY0hSZm8tLUZEYlZiR0VVMWVtVUhaRHFvUi0tUDZIOV9VbThjSDBHd2hFUGcyNm5NMnI3ZXBjMVRQUGM3S251Vms5MnNYU01hUVBQTWVDNjhRdHVQOWJVSHdySERfNWQtUUR0QTZKYnh4Y3hzcHpTR005VUxRVHhWOGdULU1wQVVaTDRoVG5qR0J1TGZqa0hoQkluZjlfMjc3U051Y2laV25fTFB2eHRGSGZ3MUt2MThKaFJkdVZiSmhydUNtLUxxTmc4SFUydHkxVzFNNlU4UzdudzFZ0gHkAUFVX3lxTE9qVWtIcG14U0xnN3ZBVHJkWHJnZWZ4RGRHbFlPUUFhVVoyQUVBLTVsWG5leUR0UTdrRmZzeTMtTDlCVmxTRGlCTDFROXdGRFpaa0lMTTg1UHZIbGNpZmpWbzJwQUhwWmIwNUxWUHVrTVIzSXJwRmJuTWdBTkVmajBYUWVNRXozS29HdGtKZURGdkxOb3lEbXpVZFNHNXFRMXg2N2J6NE10Nnd2Mk1DUnNOYXdLYkJWS0lDWlNFUjBNekNrdWNjekVtaGVMTkMtMjhUMjFmc1pIYTlQaXhRbFNvZXJoMA?oc=5)
+### [Polyurethane coating reduces implant complications after mastectomy, cancer study finds - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3d0V2p1aDF5SkJtc2VzRmU5QndKOWZjNFdiUXU5NjBtNzNQTjJtNE5wWFFoRkc1U3ZFYkNRZm9GN3RPbFlIdDRIZTZPV0xqZUhXaE9uQ1BjaGNFZ215cFBFbWNzczYxd0luZEhHWnVqSkxwMk9HV1BTcjlNcFd0ZTA2bjMxZk95VVU3dEtIZG1MME9xbXNyTVZvNUdIOGFNbmx1aTdydWV2TXFmMk1fYzJVRDNlTWxMUjBLSG1ReFNpX3B1dFRLeF80Y3ozVk0?oc=5)
+
+2026-03-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3d0V2p1aDF5SkJtc2VzRmU5QndKOWZjNFdiUXU5NjBtNzNQTjJtNE5wWFFoRkc1U3ZFYkNRZm9GN3RPbFlIdDRIZTZPV0xqZUhXaE9uQ1BjaGNFZ215cFBFbWNzczYxd0luZEhHWnVqSkxwMk9HV1BTcjlNcFd0ZTA2bjMxZk95VVU3dEtIZG1MME9xbXNyTVZvNUdIOGFNbmx1aTdydWV2TXFmMk1fYzJVRDNlTWxMUjBLSG1ReFNpX3B1dFRLeF80Y3ozVk0?oc=5)
+
+---
+
+### [More frequent ejaculations may boost men’s fertility, research suggests - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOZTdhWlpmVnVkMTQ1aEZuZGVwZFNSWjBJU2d0eWtBbmc5ZTBEcDhndEc4cjRwMUp0Y0d3TE9iUjRnTUNRMnk1TDB6b08wVVRiaTJrOWI1dFNMU041bmU3SUIxLVhycmRnX0F3Ql9JYmRSZlo5SkRHNXI4WlB4R2N2NGpOMFRTUURUWnUyRHFmbGFYbUhMbnBhYjMteDNEUQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOZTdhWlpmVnVkMTQ1aEZuZGVwZFNSWjBJU2d0eWtBbmc5ZTBEcDhndEc4cjRwMUp0Y0d3TE9iUjRnTUNRMnk1TDB6b08wVVRiaTJrOWI1dFNMU041bmU3SUIxLVhycmRnX0F3Ql9JYmRSZlo5SkRHNXI4WlB4R2N2NGpOMFRTUURUWnUyRHFmbGFYbUhMbnBhYjMteDNEUQ?oc=5)
+
+---
+
+### [TOMARES CONMEMORA LOS 14 AÑOS DE AFAeN TRABAJANDO POR LOS ENFERMOS DE ALZHEIMER Y LA PREVENCIÓN - Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2VHbnlJdXBnb25ZUGE5NXdXNTBCQlRWQ2VPVWstVWRZR0xOS29KX2pReEdKUGlrR3F6RzBPZ0l0enU3TEtRR3VsREw4emNvbEZyZ3IwTWJnQ21SQmlqRTUzc0V0c09WRFVkV3hwZlFSTTRBbEM1bG8xdjY1Nk5UYUNtSV95V2JHdmg3Z2NKQXE5M1pYZU8yTFBBLVNCSTZHLVBwRkp4MlJOOXdjZUstT01ycXU?oc=5)
 
 2026-03-24 <span class="news-indication-tag">AF</span>
 
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkxqY0hSZm8tLUZEYlZiR0VVMWVtVUhaRHFvUi0tUDZIOV9VbThjSDBHd2hFUGcyNm5NMnI3ZXBjMVRQUGM3S251Vms5MnNYU01hUVBQTWVDNjhRdHVQOWJVSHdySERfNWQtUUR0QTZKYnh4Y3hzcHpTR005VUxRVHhWOGdULU1wQVVaTDRoVG5qR0J1TGZqa0hoQkluZjlfMjc3U051Y2laV25fTFB2eHRGSGZ3MUt2MThKaFJkdVZiSmhydUNtLUxxTmc4SFUydHkxVzFNNlU4UzdudzFZ0gHkAUFVX3lxTE9qVWtIcG14U0xnN3ZBVHJkWHJnZWZ4RGRHbFlPUUFhVVoyQUVBLTVsWG5leUR0UTdrRmZzeTMtTDlCVmxTRGlCTDFROXdGRFpaa0lMTTg1UHZIbGNpZmpWbzJwQUhwWmIwNUxWUHVrTVIzSXJwRmJuTWdBTkVmajBYUWVNRXozS29HdGtKZURGdkxOb3lEbXpVZFNHNXFRMXg2N2J6NE10Nnd2Mk1DUnNOYXdLYkJWS0lDWlNFUjBNekNrdWNjekVtaGVMTkMtMjhUMjFmc1pIYTlQaXhRbFNvZXJoMA?oc=5)
+來源：[Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2VHbnlJdXBnb25ZUGE5NXdXNTBCQlRWQ2VPVWstVWRZR0xOS29KX2pReEdKUGlrR3F6RzBPZ0l0enU3TEtRR3VsREw4emNvbEZyZ3IwTWJnQ21SQmlqRTUzc0V0c09WRFVkV3hwZlFSTTRBbEM1bG8xdjY1Nk5UYUNtSV95V2JHdmg3Z2NKQXE5M1pYZU8yTFBBLVNCSTZHLVBwRkp4MlJOOXdjZUstT01ycXU?oc=5)
 
 ---
 
@@ -82,14 +130,6 @@ permalink: /news/riociguat/
 
 ---
 
-### [Inside the ‘miracle’ drug rollout that could end Aids - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRV90VkNzQ3ViUmtrOVo2aUlCcnpaLUFSNGN5ZE00NHZ1YVFkWENQT0VqcTJSVVk4eEtJc3BaMzE1SUM0U1FsTEtmelkxalRJNzFCMHFJdFdWbVE0OWxTTFJKb2Q2QnVzR2hiRkZLeHFEVnMtbFN5Z3VQbnA3LVdoMFpRMXR6ZDBtRllDQm9GUlRwaXMwRHo2TWNoSUpmQ0xZMFE?oc=5)
-
-2026-03-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRV90VkNzQ3ViUmtrOVo2aUlCcnpaLUFSNGN5ZE00NHZ1YVFkWENQT0VqcTJSVVk4eEtJc3BaMzE1SUM0U1FsTEtmelkxalRJNzFCMHFJdFdWbVE0OWxTTFJKb2Q2QnVzR2hiRkZLeHFEVnMtbFN5Z3VQbnA3LVdoMFpRMXR6ZDBtRllDQm9GUlRwaXMwRHo2TWNoSUpmQ0xZMFE?oc=5)
-
----
-
 ### [Canarias da por finalizado el brote de sarampión tras 56 casos y refuerza el llamamiento a la vacunación](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYnZwaHlJRmliaXRLU0JiR0VkRUNxTFV6eHZHSm5NcEpXeFYyRlVXb0NPbDQwTjV0N2NHeTRIUXlsUi1GdnY5RWpuYWxFNWtocDg1RDJ1Q3hLY1BETjdxcmIxMkpLRzYzTEQtemlOcU1pRDgtQTlsZHQ3LV9ITll2SHpZMWpORTlmTFY1QnFPT28zbEFTb2RiTnZQcDY0MDZsM1NGRDlSdmM2dldsWFI5bE1UQnZPRHFvYUtXVzEzbVRsZEdGaXM0MXFjVVF6UlRwOUdDUy1LMkw4RTRKcjZaSjVRSlI?oc=5)
 
 2026-03-24 <span class="news-indication-tag">AF</span>
@@ -98,27 +138,27 @@ permalink: /news/riociguat/
 
 ---
 
-### [Rientra l'allarme meningite in Inghilterra - Corriere del Ticino](https://news.google.com/rss/articles/CBMifEFVX3lxTE1lNDNlU2pXWGRpVEFvZ2QxMkxGYlRPWkFYYjlVa29sSGs5b3RIS3diYU5uRmREVE10Y2hBTjVHcVp1eS1INWZGWGhNbFRwbTdXa3Baa25LVFpwcXFrMnJSYTdGc3UzNEtfX0RraEJCdHRscEhJblpyS2FsSjg?oc=5)
+### [Mum diagnosed with ovarian cancer shortly after son’s second birthday urges others to be aware of symptoms - The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
 
-2026-03-24 <span class="news-indication-tag">AF</span>
+2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Corriere del Ticino](https://news.google.com/rss/articles/CBMifEFVX3lxTE1lNDNlU2pXWGRpVEFvZ2QxMkxGYlRPWkFYYjlVa29sSGs5b3RIS3diYU5uRmREVE10Y2hBTjVHcVp1eS1INWZGWGhNbFRwbTdXa3Baa25LVFpwcXFrMnJSYTdGc3UzNEtfX0RraEJCdHRscEhJblpyS2FsSjg?oc=5)
-
----
-
-### [Organi coltivati in laboratorio, riuscito il primo trapianto di esofago: test sui maiali](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUJvNUxzZWNaUnVOYm9UMDlHbU1vSERQcGRwRFNHOFIydlhiZmZwS001Q3BWTlR6TE9FR0xmallKOWc5MDI5ZjJkM01qTHJmRUVjTU1uYzVxX1lJSlF2NUpkUlhfWFJOemVJcU5ZdDZfQXF0eEh0V0ljYTVMVjBuSEVKclBUMEs3MnA1Z3BlQ1p6ZDBGY1VwdWVRRGY3YWFtS2RtbdIBaEFVX3lxTE0ycE8yaDBKNkZsS0YxUW0yTjhoVW1FOUUtMFd1NWRyQ2dfWHJWaERkYXBydldNYXdkaWxxZE91dFM3M181Zml0SFk3b0l0OFI3YzZnUGpseThaVUc0dUpVTm81azczQzUw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">AF</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUJvNUxzZWNaUnVOYm9UMDlHbU1vSERQcGRwRFNHOFIydlhiZmZwS001Q3BWTlR6TE9FR0xmallKOWc5MDI5ZjJkM01qTHJmRUVjTU1uYzVxX1lJSlF2NUpkUlhfWFJOemVJcU5ZdDZfQXF0eEh0V0ljYTVMVjBuSEVKclBUMEs3MnA1Z3BlQ1p6ZDBGY1VwdWVRRGY3YWFtS2RtbdIBaEFVX3lxTE0ycE8yaDBKNkZsS0YxUW0yTjhoVW1FOUUtMFd1NWRyQ2dfWHJWaERkYXBydldNYXdkaWxxZE91dFM3M181Zml0SFk3b0l0OFI3YzZnUGpseThaVUc0dUpVTm81azczQzUw?oc=5)
+來源：[The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
 
 ---
 
-### [Wie die Lunge ihre Immunabwehr lokal organisiert - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBvaFBUaTFBS3Bpd0tqRU5jZkctOVdvUGk5dmVlbnl4OW1PTkZPR2ZDOWZuVWs5OC0xNC1ZdjBYVHdTNUU?oc=5)
+### [My baby's eye was removed after gunk was dismissed as 'normal' - it was the first sign of cancer - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1aOXhsLTJha3JxcHRJQ0s4RXE0SkhaM3dYSnktZlVDekc4Rlo3YXJpNk5LSXRvc1JJbjBjU3NMYkNma2dxLW5hdV9WbTFyRDFLcmFkTGJtVG1VRFZYUUNWakd5YWtna3hWVURBU2ZDdUFTNUZ2NmQ5WDgyclU1RlJ6amF3eXM0SXVrTkQ1SDdHdjk1bjh4UVln?oc=5)
 
-2026-03-24 <span class="news-indication-tag">AF</span>
+2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBvaFBUaTFBS3Bpd0tqRU5jZkctOVdvUGk5dmVlbnl4OW1PTkZPR2ZDOWZuVWs5OC0xNC1ZdjBYVHdTNUU?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1aOXhsLTJha3JxcHRJQ0s4RXE0SkhaM3dYSnktZlVDekc4Rlo3YXJpNk5LSXRvc1JJbjBjU3NMYkNma2dxLW5hdV9WbTFyRDFLcmFkTGJtVG1VRFZYUUNWakd5YWtna3hWVURBU2ZDdUFTNUZ2NmQ5WDgyclU1RlJ6amF3eXM0SXVrTkQ1SDdHdjk1bjh4UVln?oc=5)
+
+---
+
+### [Cardiologists say one 250ml glass lowers high blood pressure back to 'normal' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
+
+2026-03-24 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
 
 ---
 
@@ -130,19 +170,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Psychology says people who describe themselves as joyful after 50 didn't suddenly become optimistic — they stopped treating happiness like a reward for perfect behavior and started treating it like a practice](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMFgxa3h1dDVxNm4xTkhYQmRsVGxkb1RfMWdmQjVNd21WUllURjI2N0FHeXRUN3FZZElKZnNUVnliTTZxcS0yTkxacWQ5WDhZUjB6RWxRbjJYVFZhcWI4ZVR1MXRlRjI2TmxfOFBDcm5CUm9FRjhuM1hnUXBWZU82MG1fcG5YbGFlSEIwMUFHc3lfUEkyT2tHYWxDaEZxSGhQZDV0X2MzaTlYUS16MVBvcEFGTUl3VTJGQWFCZnEtdEYtejQtMXVLNS1RV1d2WWlzczVqckJsZ3M3ZjNWWTlTR3JtRk5OYVJzVTREWDRtcElHaG5XQ3hMTzFWeW44ZEFCbUhDMFhiY0VZZ0pnTXkzX0dNdFNIQldqZjJ3dVdmR3RxZnJuZ2lHVE81RnpRTE5JeE5EaXVsckVqUnFCWVRBOXFraTJfR0FR?oc=5)
+### [Un esofago coltivato in laboratorio, per la prima volta impiantato con successo su modelli animali - Corriere della Sera](https://news.google.com/rss/articles/CBMipAJBVV95cUxOUUlOSENURDBJSDR3aTRZQkM0eDN1cXllMmZ1MlhYV2hVQ0NOcDQtNWp1T1puUTZ4dFBtQ3lxNGpIWVh0UkFWN2JSLVNEaTExckd2SXFvTkVaVE4wWGoyRE5ycnJGT085VXNLOEdxQzVWMHc5Y0dwSjJ0NTZ0WFZDOUV5SVk4WmhiYWw1cXZwRkZjN0ltRlFkSE1LWVdjMnhyaFNpSXFpaFZLaW5iSm5jbExoWWhXQ1dwbDVhdmR6VVNuQ2VWaE5BWnFxZE96UzZwTFJCNW0yeHYtNW92bWxURWt6UFR1SWRvUDc5ZzI4TW1pUDNTSHJJYWVQOWxHS09ET29Pb3k4MnFjVjZHZE1NenZLczJGZ0lLckxMMGZJdWVOV3pN0gGqAkFVX3lxTE1fYnQ1UzdqaFVsVDNZZkZyZklVWThNeUxPQndBY3VGaWx1dFpLNVdSTUpGNUQ1ek1BcWNCbUpNb0Jlc2dPcl9QSll5VHM2MFRjNnRTVUg4YkdySmkwNVkxUHl0RTJlRGhtUkNZMmp5clM2Q283c3Q0VmFqVy1QdUZYNHppTHFoWUl3cGpZVE9GZ0wtV2Jyd3RmZ1owTldhSjFlQnJOUmxnR01LZ2lSd1Fkc0VwemN0czlRLWNOQmduUjQ5anBYSDBaNW5KOHZBcnFQakVyUUJpbGw2VFBQejRiSUFNX0lTMXhNaWFZRlkzTEg3MWtoZWNlNUVDUmtaenc4a0EtTmNncDBYcHFzQlJDdGFmWWQzbzg4TkRTMG8wTVJXQ3ppc25qTmc?oc=5)
 
-2026-03-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-24 <span class="news-indication-tag">AF</span>
 
-來源：[VegOut](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMFgxa3h1dDVxNm4xTkhYQmRsVGxkb1RfMWdmQjVNd21WUllURjI2N0FHeXRUN3FZZElKZnNUVnliTTZxcS0yTkxacWQ5WDhZUjB6RWxRbjJYVFZhcWI4ZVR1MXRlRjI2TmxfOFBDcm5CUm9FRjhuM1hnUXBWZU82MG1fcG5YbGFlSEIwMUFHc3lfUEkyT2tHYWxDaEZxSGhQZDV0X2MzaTlYUS16MVBvcEFGTUl3VTJGQWFCZnEtdEYtejQtMXVLNS1RV1d2WWlzczVqckJsZ3M3ZjNWWTlTR3JtRk5OYVJzVTREWDRtcElHaG5XQ3hMTzFWeW44ZEFCbUhDMFhiY0VZZ0pnTXkzX0dNdFNIQldqZjJ3dVdmR3RxZnJuZ2lHVE81RnpRTE5JeE5EaXVsckVqUnFCWVRBOXFraTJfR0FR?oc=5)
-
----
-
-### ['I binged on cocaine and food 10 times a day, only one thing helped me kick my addictions' - Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
-
-2026-03-23 <span class="news-indication-tag">AF</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDlZLVN5bzl4bWs5S1V5QU5zR0lObmNQOEhRUlp4Q2RxRUtGYjhWMnB4bmVZT1pQcllBajUwMzAtWjc1c2lCRFpTeWg5LVVqN21xUzdCc1pqSVVyX2NGR3BVUFd2UGMwOTB4TkU3Xzh3dGVfREF4c1pOTzBxQUFJN01SNjF4QdIBiwFBVV95cUxPVFBMc2ZGdzV3MVd4ZkFjNHZuSEppTllnVGo1bzI3aDhZa0plam1vejhkZUN4blJubDRFM3dOWGo3YW1VQ3BHUFJGeVFnMjNsV1czSGNYQk9qTk5GalQ0bkJsTlhURU9ZU0R1QUFTRWQ5SEE4TldJeS1POUk3UDVYV1U4TXFYMTRYY1hJ?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMipAJBVV95cUxOUUlOSENURDBJSDR3aTRZQkM0eDN1cXllMmZ1MlhYV2hVQ0NOcDQtNWp1T1puUTZ4dFBtQ3lxNGpIWVh0UkFWN2JSLVNEaTExckd2SXFvTkVaVE4wWGoyRE5ycnJGT085VXNLOEdxQzVWMHc5Y0dwSjJ0NTZ0WFZDOUV5SVk4WmhiYWw1cXZwRkZjN0ltRlFkSE1LWVdjMnhyaFNpSXFpaFZLaW5iSm5jbExoWWhXQ1dwbDVhdmR6VVNuQ2VWaE5BWnFxZE96UzZwTFJCNW0yeHYtNW92bWxURWt6UFR1SWRvUDc5ZzI4TW1pUDNTSHJJYWVQOWxHS09ET29Pb3k4MnFjVjZHZE1NenZLczJGZ0lLckxMMGZJdWVOV3pN0gGqAkFVX3lxTE1fYnQ1UzdqaFVsVDNZZkZyZklVWThNeUxPQndBY3VGaWx1dFpLNVdSTUpGNUQ1ek1BcWNCbUpNb0Jlc2dPcl9QSll5VHM2MFRjNnRTVUg4YkdySmkwNVkxUHl0RTJlRGhtUkNZMmp5clM2Q283c3Q0VmFqVy1QdUZYNHppTHFoWUl3cGpZVE9GZ0wtV2Jyd3RmZ1owTldhSjFlQnJOUmxnR01LZ2lSd1Fkc0VwemN0czlRLWNOQmduUjQ5anBYSDBaNW5KOHZBcnFQakVyUUJpbGw2VFBQejRiSUFNX0lTMXhNaWFZRlkzTEg3MWtoZWNlNUVDUmtaenc4a0EtTmNncDBYcHFzQlJDdGFmWWQzbzg4TkRTMG8wTVJXQ3ppc25qTmc?oc=5)
 
 ---
 
@@ -154,14 +186,6 @@ permalink: /news/riociguat/
 
 ---
 
-### [I became addicted to painkillers after whiplash from fairground ride - it almost killed me before shocking wake-up call](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdERTOE52Z1NDSks1WTM1NWNsYVljM0lWMlBSdHR4QlB4dFZtQkJCOGNOS1o1NWdidVVZMTlzN3EtZGVHSUtYMmVWUkVJeDFzUXd5WlIxbG9EX1U4MHZDVjl4dUNVd2xZQzFfTnJaaFI2SG85dktrVFN5THFMWXk5d21uZzRGQ0FjVmc?oc=5)
-
-2026-03-23 <span class="news-indication-tag">AF</span>
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdERTOE52Z1NDSks1WTM1NWNsYVljM0lWMlBSdHR4QlB4dFZtQkJCOGNOS1o1NWdidVVZMTlzN3EtZGVHSUtYMmVWUkVJeDFzUXd5WlIxbG9EX1U4MHZDVjl4dUNVd2xZQzFfTnJaaFI2SG85dktrVFN5THFMWXk5d21uZzRGQ0FjVmc?oc=5)
-
----
-
 ### [Die neue Fleckengruppe AR 14401 und AR 14402 am 23. März 2026 - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzZMbGh0WGRTWkZURENsVFNJVEFCdHh2Vmk4NmVxOWFiNUxINVJ6cUVkS2tValp5NE5YX0xVTUhaRGRHY0NvZnZaR21GN2dLN0MxTE5FRk03SEdwRmtXcGpYbUZhczViQW5lUUVrT2t5bkhLUHdxTUpoQk1ySlJNNk9hQXFLdnMtMk9PTzBNemlfcllSQk5PejdCbWpJOGE2Z3dCZnNxRG9NbEJ0TlJabDdpZTdrYWNqY1Fr?oc=5)
 
 2026-03-23 <span class="news-indication-tag">AF</span>
@@ -170,19 +194,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Urgent warning issued to dog owners after confirmed case of killer disease - Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSklNTjJPWVJqSklHUGIySmpPZ1dLVllycFdNcXZpNEdDTExYRHdnVTRILXFTN1dRbFp2R2FYRldGRzJabUpRU1JkZzRoT2ltQ2lUT01BaG9tQTV2M1RYemoxazh1XzNWci1Eb05Wb2dqbi1zc1NuNmhFLVo3anNRWnFiTkI0cWZNM3JQQmV5YXDSAZYBQVVfeXFMUFpvSnBiLXJWajFkbDBnZTZlR1BxNmtnUnhHS0JXeWllWVlDb2NKNFh5UXhDR1F1VjhUQkVJUWFWeU9kUWVvR2tLUmpORElTTXdhNVFGRVk3VjhrSkoySFd0QjkzczlnRFdBSWhJRllrSXBHbHBaS2VIR0p3Y1BNd3ZBdjllcGNsN1BOVWVoM1d3Y3VDeWh3?oc=5)
+### [Over 60? Try these 5 at-home strength moves to add years to your life - Tom's Guide](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMTBPU0M0VXUxNzhlUjVrNFE0cndURzN3bUo0enUtanctSkgyQXh2X3FaWnpYSFZvbDkzUEk3THFXTktYYmVldVctV3dadm5pbXk1dGJtcEhzSWFUdGZCS1JjSE9kaVVQa2xYajduTW1kVUZ0aEVXQTFkejZmNFVvM05lejdiREFDWGVvblhqalFxNERKRkhxNlpxMEpfZXpDNWQ4OHM0WnRnd0tRQ3NFSmJUUVJUY1VDU2puT016eW1wMk1VZzZjTXB5aV9QaWJqanRoNzBjRG03ZEtEYmFoUUh6ZzUzc3pFaTFvUEdn?oc=5)
 
-2026-03-23 <span class="news-indication-tag">AF</span>
+2026-03-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSklNTjJPWVJqSklHUGIySmpPZ1dLVllycFdNcXZpNEdDTExYRHdnVTRILXFTN1dRbFp2R2FYRldGRzJabUpRU1JkZzRoT2ltQ2lUT01BaG9tQTV2M1RYemoxazh1XzNWci1Eb05Wb2dqbi1zc1NuNmhFLVo3anNRWnFiTkI0cWZNM3JQQmV5YXDSAZYBQVVfeXFMUFpvSnBiLXJWajFkbDBnZTZlR1BxNmtnUnhHS0JXeWllWVlDb2NKNFh5UXhDR1F1VjhUQkVJUWFWeU9kUWVvR2tLUmpORElTTXdhNVFGRVk3VjhrSkoySFd0QjkzczlnRFdBSWhJRllrSXBHbHBaS2VIR0p3Y1BNd3ZBdjllcGNsN1BOVWVoM1d3Y3VDeWh3?oc=5)
-
----
-
-### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
-
-2026-03-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+來源：[Tom's Guide](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMTBPU0M0VXUxNzhlUjVrNFE0cndURzN3bUo0enUtanctSkgyQXh2X3FaWnpYSFZvbDkzUEk3THFXTktYYmVldVctV3dadm5pbXk1dGJtcEhzSWFUdGZCS1JjSE9kaVVQa2xYajduTW1kVUZ0aEVXQTFkejZmNFVvM05lejdiREFDWGVvblhqalFxNERKRkhxNlpxMEpfZXpDNWQ4OHM0WnRnd0tRQ3NFSmJUUVJUY1VDU2puT016eW1wMk1VZzZjTXB5aV9QaWJqanRoNzBjRG03ZEtEYmFoUUh6ZzUzc3pFaTFvUEdn?oc=5)
 
 ---
 
@@ -191,14 +207,6 @@ permalink: /news/riociguat/
 2026-03-23 <span class="news-indication-tag">AF</span>
 
 來源：[Our World in Data](https://news.google.com/rss/articles/CBMibkFVX3lxTFBpRTlISk1RQlBpV0EyU2R3aDZra3Jpa0RKbjlMbzhrLUpLT3JCQUwwbS1MZjZVd3dCdzlqZjdUSkstZ3JEbU9EZlZvbW5qVWFmc25Cdlc4dG10d1k0VUxPUXhBRXBxdnh5ME5TdGhB?oc=5)
-
----
-
-### [Couples share 30% of their gut bacteria. Here’s how that may affect health - The Conversation](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU9ROGR0dW5rczVDM2pXZ3RDaTd0UnhGVVRMQm93Rk95dFRrcmlfdkMtbEFRQzB2ZDh6Q01DVFc5ZjZGNV9ENzhCNXdyN3RJUE1mXzJfeTh2U0k3NFB0WGs2SWVmM2F6WU5FbnBSUlZYbVVnMUlIejl4S1EwdFVmaW5oaGUzeVFiSmYweDdIaVJtalZreE9HLWo4eW12LXptS3JHelVmTk93dw?oc=5)
-
-2026-03-23 <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU9ROGR0dW5rczVDM2pXZ3RDaTd0UnhGVVRMQm93Rk95dFRrcmlfdkMtbEFRQzB2ZDh6Q01DVFc5ZjZGNV9ENzhCNXdyN3RJUE1mXzJfeTh2U0k3NFB0WGs2SWVmM2F6WU5FbnBSUlZYbVVnMUlIejl4S1EwdFVmaW5oaGUzeVFiSmYweDdIaVJtalZreE9HLWo4eW12LXptS3JHelVmTk93dw?oc=5)
 
 ---
 

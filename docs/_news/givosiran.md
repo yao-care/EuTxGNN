@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [Sarampión, meningitis y hepatitis A: el repunte de enfermedades prevenibles hace saltar las alarmas en España](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXV4dkVpSzhkeWFfQWNidVZObDFkYkdjNll5NVZBTnNKMEtXMGJYbl8zd0dqMm0tMTVBeEVsMmNZNnFYZEl1WVAxTEJlcTdrNS1KdGszZGF3MElVOWptMUpreGltNnRJd2xCRkZkSVhrMVIwc09lSUZsZDhGTmxfajZZYU1oQlc1WS13NkJvcmhzdXdNMkVfNDFNLXpOX1ZEUDhTR2pWS0xDTTVGbWFoSVNfNXN1NVp1V1ZjWVcwY3N6Um1ENGfSAcYBQVVfeXFMT0VKYUVoNk92ZXNfNVhUVGlGODZnRk9Yc0VCS0RnX3RYOGlwQ1Vyd2lVcEtza1I1TlliTGxKSVlZV19QcEZiVjFVekJXdnNwZmE1TXhGZEVuYjh2Y2lLQ3JQS0sxVkJTeDFyZktEN3ltUENxWmhpV2wxMW9XT2o5Qi1NWVhSUXY3RndRUnlTZWlXcGx3MEl3MEpIOWVLS1p6SkxReEJnSFI3VGtpbHhwZHozdGVtRW1ubnQwRkJBSWVvQWtJSVVn?oc=5)
 
@@ -50,11 +50,19 @@ permalink: /news/givosiran/
 
 ---
 
-### [Hepatitis-A-Fälle in Neapel steigen – jetzt schreiten die Behörden ein](https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTBtSE5IeW03VU81ZGRCb2lzUHBwenB5Q0xuWnBOT2EzaXVyS0FMSTlsUzN1ZDNuaTFVZXlYd2RYOEdmVFd3MldhMld2X0xuYnk1a3pTcTRfT0JZRldkUE16b05zUXN0VUxzbmRPOGg3NkR1bk1KMWNwTFRIVkF3eExYZmgyck1wblZVWjMzVjltV050N3lZN2R4SVQ5dzA5SEExNVFEOA?oc=5)
+### [Großer Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkg5N3lTbWlBdlM4VFV0dUptQmlUQzdPSW51T2s3Nlo3ZHJBNmYybDBTbzc5NzRSbmJsX0FONE04ekd2enUyMThPdDVtcTZHeEJYZjBIVHdQZkpWTjlJQ1duSVFwbEpzcEFKYzg3RGU1dlJ3UTZ3RS1Mam9uZlBfUlZoVnVZZkVuZVhMMnBfS3VNSTlvcUJWWnV0dXo0RU9nUHBjS21xeG5raF9reW1LVHJuM01tQ01qd0w3bW53cFhibjA?oc=5)
 
-2026-03-24 <span class="news-indication-tag">hepatitis</span>
+2026-03-25 <span class="news-indication-tag">hepatitis</span>
 
-來源：[STERN.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTBtSE5IeW03VU81ZGRCb2lzUHBwenB5Q0xuWnBOT2EzaXVyS0FMSTlsUzN1ZDNuaTFVZXlYd2RYOEdmVFd3MldhMld2X0xuYnk1a3pTcTRfT0JZRldkUE16b05zUXN0VUxzbmRPOGg3NkR1bk1KMWNwTFRIVkF3eExYZmgyck1wblZVWjMzVjltV050N3lZN2R4SVQ5dzA5SEExNVFEOA?oc=5)
+來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkg5N3lTbWlBdlM4VFV0dUptQmlUQzdPSW51T2s3Nlo3ZHJBNmYybDBTbzc5NzRSbmJsX0FONE04ekd2enUyMThPdDVtcTZHeEJYZjBIVHdQZkpWTjlJQ1duSVFwbEpzcEFKYzg3RGU1dlJ3UTZ3RS1Mam9uZlBfUlZoVnVZZkVuZVhMMnBfS3VNSTlvcUJWWnV0dXo0RU9nUHBjS21xeG5raF9reW1LVHJuM01tQ01qd0w3bW53cFhibjA?oc=5)
+
+---
+
+### [Epatite A, Marinoni: "Dipende soprattutto da cosa si mangia e dall’uso di acqua contaminata”](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVVDQm95QzA0dEhWemFxckJxNmVndThEb0t1eTRTTGhUdHFvanFjbF9SX3E0VEpYTXNNRGQ3X1haYUU2RnJ0WHZIamtKQzB6Z1ZqNTB4aDQwWUM0Z3FIN0lfYkVBckVtdlJBSjh1ZEN1XzlZUUg1Y0V1bkliS3BuaG9rYlFkaXVaSjUxYkkyWDFPa0E3VDhxUEI4QzZNbUFGVzVmOUxtdDEwM0Z0aHNjLVN4ZllnODRGdVN3Tk9tVTVCcndzUk5HRjItNWVGS0FxekNqUE9mdjI?oc=5)
+
+2026-03-25 <span class="news-indication-tag">epatite</span>
+
+來源：[Bergamonews](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVVDQm95QzA0dEhWemFxckJxNmVndThEb0t1eTRTTGhUdHFvanFjbF9SX3E0VEpYTXNNRGQ3X1haYUU2RnJ0WHZIamtKQzB6Z1ZqNTB4aDQwWUM0Z3FIN0lfYkVBckVtdlJBSjh1ZEN1XzlZUUg1Y0V1bkliS3BuaG9rYlFkaXVaSjUxYkkyWDFPa0E3VDhxUEI4QzZNbUFGVzVmOUxtdDEwM0Z0aHNjLVN4ZllnODRGdVN3Tk9tVTVCcndzUk5HRjItNWVGS0FxekNqUE9mdjI?oc=5)
 
 ---
 
@@ -66,11 +74,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Epatite A, 24 casi in provincia di Latina. Controlli nei ristoranti: sei pazienti ricoverati - la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1QtaFBlY3Rab2QtOTZucGVEem9XdWZVOWxtTm1rb0l1N2R4OHRoNGc5eG5CclpuNnFUNHhNSVo2R2JjUURzNDJJbzJPZHdNZm1iUlRzQ181SlBnbWdZMW1IRlFoUDV6bFRQZ3NnWXVqcDJHS2FaTnczd2VPeW5PRnZ2VVptbWZUVzh2RE9HUjZSNGJLU0VuSlZWcTB6QVB3OHfSAacBQVVfeXFMTkgxaFJWdVNObld2aUw1OHNQc1ZUaDJIVmh3UW83d2VPTlF2SWdFaHFuZlJrd3ZWdUJFSUVud2hsdHRWaThqbjFIQW5ILUpETWNvcEpMTTJiSVNDbkxlRGdBZXB5VGlKZE1KU1U2X2VyNmkwYUppVDI5REljamVYX1ZUOVhOZDNCUWNfSkFnMUlNNXhSYVluNmYyeUQ5TU94M1VaYk1YczA?oc=5)
+### [Cardiologists say one 250ml glass lowers high blood pressure back to 'normal' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
 
-2026-03-24 <span class="news-indication-tag">epatite</span>
+2026-03-24 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1QtaFBlY3Rab2QtOTZucGVEem9XdWZVOWxtTm1rb0l1N2R4OHRoNGc5eG5CclpuNnFUNHhNSVo2R2JjUURzNDJJbzJPZHdNZm1iUlRzQ181SlBnbWdZMW1IRlFoUDV6bFRQZ3NnWXVqcDJHS2FaTnczd2VPeW5PRnZ2VVptbWZUVzh2RE9HUjZSNGJLU0VuSlZWcTB6QVB3OHfSAacBQVVfeXFMTkgxaFJWdVNObld2aUw1OHNQc1ZUaDJIVmh3UW83d2VPTlF2SWdFaHFuZlJrd3ZWdUJFSUVud2hsdHRWaThqbjFIQW5ILUpETWNvcEpMTTJiSVNDbkxlRGdBZXB5VGlKZE1KU1U2X2VyNmkwYUppVDI5REljamVYX1ZUOVhOZDNCUWNfSkFnMUlNNXhSYVluNmYyeUQ5TU94M1VaYk1YczA?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
 
 ---
 
@@ -82,11 +90,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Patients at risk of HIV and hepatitis after unsterile tools used in NHS surgery](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+### [Matteo Bassetti: «Tornano pertosse, epatite e meningite? Una strana coincidenza, ringraziamo no-vax»](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0x3SWpFZFRHZkhHNlhDUDRhRUpRQTVudzluWFdQUFVYd291aHgzQ2JzV29kcXlPM3o1REJ6cnJ1OVloemp5UnowYkFIWndxdFI5cHozVURWdHJfMm9XZ0JLWm9XenZUWjZyRUZKM05pMkR5NDlUMEVEQzRjWTZnWmNOZ2lqV3Y2NnA2R29iNVA4aU1oS3BaNURVeXAxTnhLT3RTbmk2UdIBmgFBVV95cUxPU2FuZVpCdkJUdDBySEo3RGZsdkZORVJOcklFb2dOZmpVZHhhQ0lINTF5Ny1wM3VSTG9aX0JzRmpBMTVNcXBYQnJkOGlxSUR5MXZlMG9VOV9sR0FwQ05sZ0d0MlJqbkZDZ1FUQzJESXJJMW1UUFY5OEdLVzV0dlhySEozbmxMNldIV0xPTW1mWlpaVHBzakZ5RlFB?oc=5)
 
-2026-03-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-03-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epatite</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm1aU2NkWHBxMmhvQWxPMU1vdlAwNE1wdS1SMS1aVG4wNHo2T1Aya3dadjJiSzUxQzN2cHU0TW5xX3R5NURkRTAyNDdWcVV3V0ExQ1JTcXhMWmJJUzZreE5lNVhvazd2enB5dVFhaGxmX0h6NU9lT1lUTkJFUnlWVkRVNGJpWWRkaXZSeHpjS0dQdURBM2F5dGQ1OEtWZVJFb3Q3RDJjbGk?oc=5)
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0x3SWpFZFRHZkhHNlhDUDRhRUpRQTVudzluWFdQUFVYd291aHgzQ2JzV29kcXlPM3o1REJ6cnJ1OVloemp5UnowYkFIWndxdFI5cHozVURWdHJfMm9XZ0JLWm9XenZUWjZyRUZKM05pMkR5NDlUMEVEQzRjWTZnWmNOZ2lqV3Y2NnA2R29iNVA4aU1oS3BaNURVeXAxTnhLT3RTbmk2UdIBmgFBVV95cUxPU2FuZVpCdkJUdDBySEo3RGZsdkZORVJOcklFb2dOZmpVZHhhQ0lINTF5Ny1wM3VSTG9aX0JzRmpBMTVNcXBYQnJkOGlxSUR5MXZlMG9VOV9sR0FwQ05sZ0d0MlJqbkZDZ1FUQzJESXJJMW1UUFY5OEdLVzV0dlhySEozbmxMNldIV0xPTW1mWlpaVHBzakZ5RlFB?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer-Krankheit（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer-Krankheit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Parents describe 'worst nightmare' as two-year-old daughter is diagnosed with dementia - GB News](https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2thR2s4TlViTFF2WW4wcjVxTElZLTlNdmROTzQyNWQ3cm4xcXR3U2JRcF9DNlJWbnQzT1ZBNFI4YkM1NGhXeW81aktfX2xfMXk4cENtOVpNSDJYejZsRXFrYjFuT3NvXzZ3VUNxYUFDQUxEMVF3VVNUU3pSd24yelVCdkVXTnN6Yks3M2ZDRnM?oc=5)
+### [EBM-Änderungen: Anpassungen für die Arzneimittel Leqembi® und Itovebi® - KV RLP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk5tNEtoZFAtQ0xxSjYxTncxbzNGSGdoUFVFZUhQT1pjc1FyR1VQR0FrOElQZ0I4QS1iNFY3dUhBTFRVTW9iZkcxcHJyaXA0TzNlS2dOdm1Uc0tFQ3p3VVFYdW1pNVVWcDVRRUd0Z2dHNGZqREgzUERZRWwzZTRJNG5nOXFFSEJuQl9CYWFlOW4zTjM1VXBRMEg2N3dtV0VOaXJZSGtn?oc=5)
 
-2026-03-24
+2026-03-25
 
-來源：[GB News](https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2thR2s4TlViTFF2WW4wcjVxTElZLTlNdmROTzQyNWQ3cm4xcXR3U2JRcF9DNlJWbnQzT1ZBNFI4YkM1NGhXeW81aktfX2xfMXk4cENtOVpNSDJYejZsRXFrYjFuT3NvXzZ3VUNxYUFDQUxEMVF3VVNUU3pSd24yelVCdkVXTnN6Yks3M2ZDRnM?oc=5)
+來源：[KV RLP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk5tNEtoZFAtQ0xxSjYxTncxbzNGSGdoUFVFZUhQT1pjc1FyR1VQR0FrOElQZ0I4QS1iNFY3dUhBTFRVTW9iZkcxcHJyaXA0TzNlS2dOdm1Uc0tFQ3p3VVFYdW1pNVVWcDVRRUd0Z2dHNGZqREgzUERZRWwzZTRJNG5nOXFFSEJuQl9CYWFlOW4zTjM1VXBRMEg2N3dtV0VOaXJZSGtn?oc=5)
+
+---
+
+### [Cooking a meal at home may keep a lid on dementia risk - The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnJiWWp0enB0ZnEydE5aeXZZb2I3c3B6Q09VcUcwSjF5Mm9YSnM0S1pnRXRtLV9qRkdVbkN1c00weTcxazIzYmVkX05SRUtuUXU5blV3b2o0bjFEWXV1a1QtTG0zZkhrMmhnZEV1SE96VFY5MHkxS1NaUnh2VEI0OXZuNWR3ZTRFY0JBcWpTbzhscEk5NE5uNVdyVnc?oc=5)
+
+2026-03-23
+
+來源：[The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnJiWWp0enB0ZnEydE5aeXZZb2I3c3B6Q09VcUcwSjF5Mm9YSnM0S1pnRXRtLV9qRkdVbkN1c00weTcxazIzYmVkX05SRUtuUXU5blV3b2o0bjFEWXV1a1QtTG0zZkhrMmhnZEV1SE96VFY5MHkxS1NaUnh2VEI0OXZuNWR3ZTRFY0JBcWpTbzhscEk5NE5uNVdyVnc?oc=5)
 
 ---
 

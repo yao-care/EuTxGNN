@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Parents describe 'worst nightmare' as two-year-old daughter is diagnosed with dementia - GB News](https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2thR2s4TlViTFF2WW4wcjVxTElZLTlNdmROTzQyNWQ3cm4xcXR3U2JRcF9DNlJWbnQzT1ZBNFI4YkM1NGhXeW81aktfX2xfMXk4cENtOVpNSDJYejZsRXFrYjFuT3NvXzZ3VUNxYUFDQUxEMVF3VVNUU3pSd24yelVCdkVXTnN6Yks3M2ZDRnM?oc=5)
+### [EBM-Änderungen: Anpassungen für die Arzneimittel Leqembi® und Itovebi® - KV RLP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk5tNEtoZFAtQ0xxSjYxTncxbzNGSGdoUFVFZUhQT1pjc1FyR1VQR0FrOElQZ0I4QS1iNFY3dUhBTFRVTW9iZkcxcHJyaXA0TzNlS2dOdm1Uc0tFQ3p3VVFYdW1pNVVWcDVRRUd0Z2dHNGZqREgzUERZRWwzZTRJNG5nOXFFSEJuQl9CYWFlOW4zTjM1VXBRMEg2N3dtV0VOaXJZSGtn?oc=5)
 
-2026-03-24 <span class="news-indication-tag">dementia</span>
+2026-03-25 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">MS</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2thR2s4TlViTFF2WW4wcjVxTElZLTlNdmROTzQyNWQ3cm4xcXR3U2JRcF9DNlJWbnQzT1ZBNFI4YkM1NGhXeW81aktfX2xfMXk4cENtOVpNSDJYejZsRXFrYjFuT3NvXzZ3VUNxYUFDQUxEMVF3VVNUU3pSd24yelVCdkVXTnN6Yks3M2ZDRnM?oc=5)
+來源：[KV RLP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk5tNEtoZFAtQ0xxSjYxTncxbzNGSGdoUFVFZUhQT1pjc1FyR1VQR0FrOElQZ0I4QS1iNFY3dUhBTFRVTW9iZkcxcHJyaXA0TzNlS2dOdm1Uc0tFQ3p3VVFYdW1pNVVWcDVRRUd0Z2dHNGZqREgzUERZRWwzZTRJNG5nOXFFSEJuQl9CYWFlOW4zTjM1VXBRMEg2N3dtV0VOaXJZSGtn?oc=5)
+
+---
+
+### [Cooking a meal at home may keep a lid on dementia risk - The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnJiWWp0enB0ZnEydE5aeXZZb2I3c3B6Q09VcUcwSjF5Mm9YSnM0S1pnRXRtLV9qRkdVbkN1c00weTcxazIzYmVkX05SRUtuUXU5blV3b2o0bjFEWXV1a1QtTG0zZkhrMmhnZEV1SE96VFY5MHkxS1NaUnh2VEI0OXZuNWR3ZTRFY0JBcWpTbzhscEk5NE5uNVdyVnc?oc=5)
+
+2026-03-23 <span class="news-indication-tag">dementia</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnJiWWp0enB0ZnEydE5aeXZZb2I3c3B6Q09VcUcwSjF5Mm9YSnM0S1pnRXRtLV9qRkdVbkN1c00weTcxazIzYmVkX05SRUtuUXU5blV3b2o0bjFEWXV1a1QtTG0zZkhrMmhnZEV1SE96VFY5MHkxS1NaUnh2VEI0OXZuNWR3ZTRFY0JBcWpTbzhscEk5NE5uNVdyVnc?oc=5)
 
 ---
 
