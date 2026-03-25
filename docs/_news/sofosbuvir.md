@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（22 則）
+
+### [Sarampión, meningitis y hepatitis A: el repunte de enfermedades prevenibles hace saltar las alarmas en España](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXV4dkVpSzhkeWFfQWNidVZObDFkYkdjNll5NVZBTnNKMEtXMGJYbl8zd0dqMm0tMTVBeEVsMmNZNnFYZEl1WVAxTEJlcTdrNS1KdGszZGF3MElVOWptMUpreGltNnRJd2xCRkZkSVhrMVIwc09lSUZsZDhGTmxfajZZYU1oQlc1WS13NkJvcmhzdXdNMkVfNDFNLXpOX1ZEUDhTR2pWS0xDTTVGbWFoSVNfNXN1NVp1V1ZjWVcwY3N6Um1ENGfSAcYBQVVfeXFMT0VKYUVoNk92ZXNfNVhUVGlGODZnRk9Yc0VCS0RnX3RYOGlwQ1Vyd2lVcEtza1I1TlliTGxKSVlZV19QcEZiVjFVekJXdnNwZmE1TXhGZEVuYjh2Y2lLQ3JQS0sxVkJTeDFyZktEN3ltUENxWmhpV2wxMW9XT2o5Qi1NWVhSUXY3RndRUnlTZWlXcGx3MEl3MEpIOWVLS1p6SkxReEJnSFI3VGtpbHhwZHozdGVtRW1ubnQwRkJBSWVvQWtJSVVn?oc=5)
+
+2026-03-25 <span class="news-indication-tag">hepatitis</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXV4dkVpSzhkeWFfQWNidVZObDFkYkdjNll5NVZBTnNKMEtXMGJYbl8zd0dqMm0tMTVBeEVsMmNZNnFYZEl1WVAxTEJlcTdrNS1KdGszZGF3MElVOWptMUpreGltNnRJd2xCRkZkSVhrMVIwc09lSUZsZDhGTmxfajZZYU1oQlc1WS13NkJvcmhzdXdNMkVfNDFNLXpOX1ZEUDhTR2pWS0xDTTVGbWFoSVNfNXN1NVp1V1ZjWVcwY3N6Um1ENGfSAcYBQVVfeXFMT0VKYUVoNk92ZXNfNVhUVGlGODZnRk9Yc0VCS0RnX3RYOGlwQ1Vyd2lVcEtza1I1TlliTGxKSVlZV19QcEZiVjFVekJXdnNwZmE1TXhGZEVuYjh2Y2lLQ3JQS0sxVkJTeDFyZktEN3ltUENxWmhpV2wxMW9XT2o5Qi1NWVhSUXY3RndRUnlTZWlXcGx3MEl3MEpIOWVLS1p6SkxReEJnSFI3VGtpbHhwZHozdGVtRW1ubnQwRkJBSWVvQWtJSVVn?oc=5)
+
+---
 
 ### [Antibiotika: „Hinterlässt Spuren“ – Noch Jahre nach der Einnahme ist das Mikrobiom verändert](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb3FDQVZpbE04Q0VBUkpmeUtOWHJlUElndXdZeUE4SThaRlZQT0t2R2RTcktVczNNZlBtWjFoRkNwMGNWZVRjQjBHcFlGSENlbVhEMzF0ek9mZUdmWklMSDNsdDhNNU1TZEVQalVPRXM2bmNIQ0prNU5UV0FsSm5kM2FMeEt4d18tVWFROF91aVZKN05GSGprQ19GY0lJOHlVc05xUVpzdDhMQ0tPZ0RwLWUzMDNoTUdQWTlwTUQxMDdVRVM3UVpvUk1BZmR1d1NMbUFKTWxFVUJ2aVdJMS00aUFxTmpFWmlQWjJRM0NWaGw?oc=5)
 
@@ -50,27 +58,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [I was asked if there was an ‘everything’ test for cancer. Despite bold claims, no such thing exists | Ranjana Srivastava - The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
-
----
-
 ### [Junger Paderborner kämpft gegen Multiple Sklerose – Spenden machen ihm Hoffnung - Neue Westfälische](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHNtcjBhNTgtVlVLNWgwbWNVZDlaMVVfWmZNYjgzcTFfN3hSeHRsUVg0bk1adERHR1VXYW56RVFLQWZzRTV6SERDYnR3dVBrdXpuWVVhWGRiYUpYdHhqRnBUSUNmSU5hcG5TZEx1VWhPSG5pYmcxamtKSXFDbzVKclhwUC04MkFjN2lrLVZHVzNCN1RtRmFscGQzN0JxZTBfYXdMYnQzQS14aHBKb0ZBVjdzT05KdzBUNEpJTWpUVFJQcXlYZ0JCZzhEdjJyUHF3Tnp3V3did20tdw?oc=5)
 
 2026-03-24 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHNtcjBhNTgtVlVLNWgwbWNVZDlaMVVfWmZNYjgzcTFfN3hSeHRsUVg0bk1adERHR1VXYW56RVFLQWZzRTV6SERDYnR3dVBrdXpuWVVhWGRiYUpYdHhqRnBUSUNmSU5hcG5TZEx1VWhPSG5pYmcxamtKSXFDbzVKclhwUC04MkFjN2lrLVZHVzNCN1RtRmFscGQzN0JxZTBfYXdMYnQzQS14aHBKb0ZBVjdzT05KdzBUNEpJTWpUVFJQcXlYZ0JCZzhEdjJyUHF3Tnp3V3did20tdw?oc=5)
-
----
-
-### [El brote de meningitis B de Reino Unido pone en guardia a los padres españoles: la Asociación Española de Pediatría propone extender la vacunación a los adolescentes - El HuffPost](https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVvV2FNdXVPOWRBNXc3NGpVWEhyanRUbExuaTR5NFpmV3BpOWFKSVhWOGdSakZhUTA2TXV3UllYRTI2Wk9uTFVWLWJ4eXRqUGNLMjBRazVyYVFNQlpOWDNJVmRqYzlQT1lTaHFqZEdKNEFlaXVQRDcyRUNTdmRRUWczcGZ5VWE4RlVHWWFYVnRDZkU5cklKc0FxYjg?oc=5)
-
-2026-03-24 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El HuffPost](https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVvV2FNdXVPOWRBNXc3NGpVWEhyanRUbExuaTR5NFpmV3BpOWFKSVhWOGdSakZhUTA2TXV3UllYRTI2Wk9uTFVWLWJ4eXRqUGNLMjBRazVyYVFNQlpOWDNJVmRqYzlQT1lTaHFqZEdKNEFlaXVQRDcyRUNTdmRRUWczcGZ5VWE4RlVHWWFYVnRDZkU5cklKc0FxYjg?oc=5)
 
 ---
 
@@ -90,6 +82,14 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Inside the ‘miracle’ drug rollout that could end Aids - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRV90VkNzQ3ViUmtrOVo2aUlCcnpaLUFSNGN5ZE00NHZ1YVFkWENQT0VqcTJSVVk4eEtJc3BaMzE1SUM0U1FsTEtmelkxalRJNzFCMHFJdFdWbVE0OWxTTFJKb2Q2QnVzR2hiRkZLeHFEVnMtbFN5Z3VQbnA3LVdoMFpRMXR6ZDBtRllDQm9GUlRwaXMwRHo2TWNoSUpmQ0xZMFE?oc=5)
+
+2026-03-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRV90VkNzQ3ViUmtrOVo2aUlCcnpaLUFSNGN5ZE00NHZ1YVFkWENQT0VqcTJSVVk4eEtJc3BaMzE1SUM0U1FsTEtmelkxalRJNzFCMHFJdFdWbVE0OWxTTFJKb2Q2QnVzR2hiRkZLeHFEVnMtbFN5Z3VQbnA3LVdoMFpRMXR6ZDBtRllDQm9GUlRwaXMwRHo2TWNoSUpmQ0xZMFE?oc=5)
+
+---
+
 ### [Massa, muore per epatite C dopo una trasfusione con sangue infetto: ministero della Salute condannato a maxi-risarcimento](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGltd3lNeV84WTB1T3RTT2VpRVZ0TF94YkgtZE1uTWZaMm5sMzhTT1U5UVl6cjkyRkt5aHlQeTVORWItYnVMdGtUbjdQTGZtb1Z1QXFXTGF2UnNueVJnUjlsWnhsU3d5ZG1CQmNuZlAtWmhZOU9LcERCV3BNVW5xd3NhX0ZEY0xRVUl6ZFpJbWNNYlFITjhDbmFkTGFQMkcwNk9ES2N4WlJzdFJvVnAzRk0tRmZUU1Rkbm9j0gFoQVVfeXFMTkxmQ0xHWm44ejhITkRSbWYybmd0Sk44WlZqRWFvS2p4U0NwQ1BqWWdnZFJqZzM0WmRuWjNWRG1mT0J6cGtKYmx1WXlzME0xZGlUSG42Tm9RSUZsZWlJbE9LTjJmdkljSnE?oc=5)
 
 2026-03-24 <span class="news-indication-tag">epatite</span>
@@ -98,11 +98,27 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [El Clínico San Carlos desarrolla un hidrogel que favorece la recuperación de mielina en ratones con esclerosis múltiple](https://news.google.com/rss/articles/CBMihwJBVV95cUxPZ2ItQTl3cURhQTJPeFlVSXBlZVJUcU84R1NtenBRTXNPU1NUZmFfMG8yQjg2UFJuQm00S0JaZ1hQZHJSUlBKSzRRcFVpUEMzNXVGY0Zwc19DVk4zbnR0bERYWHpxZWJfMnltQlNTNFotWm9HdGo4a0VQQVV3WmNZbDVIU0plN0dfSU9Kd054VERNT3dvcHNfMXJuVC00YW5vaXVfdUtxblpmLXF0THp0SmczUjVBWEpKZFZhWGd4cEVYVFpjZmdidkhMNDNhSWpKUHFrWFBqR25RTkR5Y2txWXZqdGxidXczYmdCN0xkOExhTnFyREFydHBWZ0I1Z2VHcS1OLWRLTQ?oc=5)
+### [I was asked if there was an ‘everything’ test for cancer. Despite bold claims, no such thing exists | Ranjana Srivastava - The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
+
+2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
+
+---
+
+### [Huyton woman ignored symptoms - until people at work noticed something alarming - Liverpool Echo](https://news.google.com/rss/articles/CBMinAFBVV95cUxPSlVPQTRWYWNRNmg5bGZnX1luaVh0VzBVbUpybFczc25KQUlYdm5EdndXQWlQU1g1WjhCaUZ3anQ5SGVYS2xoalpRZ3RRM1BRSkVBWEcyTzJCQmtLUVg2TVpuTUdWbnB0bVVJbl9PQm1XdGNSblIzSE5yUXAyRWV0S3NuYlBkREhzcGZzdGJKb29jMUdVWVFDaVhuMULSAaIBQVVfeXFMTmU3QjhpZnFsdG1ieVEtU2c3Q0F0TzN3VVZQU0hyNWEzd0owOFVCQ1g5RGtwUXNkUkViTXo3Sk1MVzYxLWlLekc1ZTlXaDNwal9lcTJEUUJuUW5KX3dXUU56eXlyYXFiTmxSYmY4ZERpTllxck5TOFIzV2p6NURTM0c3Y0RZVnhJcDZ3bW4tX2MyQ0hJX0tKUUNUVDRWa05rekd3?oc=5)
+
+2026-03-24 <span class="news-indication-tag">MS</span>
+
+來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMinAFBVV95cUxPSlVPQTRWYWNRNmg5bGZnX1luaVh0VzBVbUpybFczc25KQUlYdm5EdndXQWlQU1g1WjhCaUZ3anQ5SGVYS2xoalpRZ3RRM1BRSkVBWEcyTzJCQmtLUVg2TVpuTUdWbnB0bVVJbl9PQm1XdGNSblIzSE5yUXAyRWV0S3NuYlBkREhzcGZzdGJKb29jMUdVWVFDaVhuMULSAaIBQVVfeXFMTmU3QjhpZnFsdG1ieVEtU2c3Q0F0TzN3VVZQU0hyNWEzd0owOFVCQ1g5RGtwUXNkUkViTXo3Sk1MVzYxLWlLekc1ZTlXaDNwal9lcTJEUUJuUW5KX3dXUU56eXlyYXFiTmxSYmY4ZERpTllxck5TOFIzV2p6NURTM0c3Y0RZVnhJcDZ3bW4tX2MyQ0hJX0tKUUNUVDRWa05rekd3?oc=5)
+
+---
+
+### [Investigadores españoles crean un hidrogel que logra recuperar la mielina en esclerosis múltiple - La Razón](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR21rSmM4X0I5a2FSNXFyUUowZjNOS01uWDl3Vjl0TEM2M09OLTAwV0Q1ZGdXUmNfeGZKWThzVjhLVm5rNVp6M1hpc0FLWG5wRXBPN3VrWlB6cTlsQzV5ZmUyU0o4WFlkbkFscHdDNjdPaGR0OG13OXR6Ql9qSHg0d1FqXy1oU29MVlRpTkZKNXFPX244bE5FS01qRGxpNWIyQXBTMVEyWXFPekNNNEt3OUpOMGJaZnBNNHVqblFkeDI3Q29pTW90cVNPcjJqV0tBVGhzNU5lYldIaGhDSXdXREt0M1FDNUtRVkHSAf4BQVVfeXFMTkQ0RDBKUEp1NUs3NlcySkZha2lEMldXVmx6M1piMkFiMGY1TDc5MTBlNVYzdnRPMzVtbXUwaG45dlkzOVB3RmNsN0IzT1pBb0ljOUVzVDdYb0poeEJKRTFfNC0yWi1FUTFIUUVfWXR4X2QyZE9xbHIwbVhSaUV3aDFvbEhSclpLU1dGWklaWV92VmpNM21HbDQza2gzbHhacld1VlJpWlhybGpGekExNzI1cXAxU0VjTDFnMkpfZ2trc1lESlBDbHZMbk0zelpIQXhFYno0NlZ5eXFDU1ZXeVd0eHRLbUVqcDMzNUpkdHhtZnM1Nk0ta05GNDdLRmc?oc=5)
 
 2026-03-24 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMihwJBVV95cUxPZ2ItQTl3cURhQTJPeFlVSXBlZVJUcU84R1NtenBRTXNPU1NUZmFfMG8yQjg2UFJuQm00S0JaZ1hQZHJSUlBKSzRRcFVpUEMzNXVGY0Zwc19DVk4zbnR0bERYWHpxZWJfMnltQlNTNFotWm9HdGo4a0VQQVV3WmNZbDVIU0plN0dfSU9Kd054VERNT3dvcHNfMXJuVC00YW5vaXVfdUtxblpmLXF0THp0SmczUjVBWEpKZFZhWGd4cEVYVFpjZmdidkhMNDNhSWpKUHFrWFBqR25RTkR5Y2txWXZqdGxidXczYmdCN0xkOExhTnFyREFydHBWZ0I1Z2VHcS1OLWRLTQ?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR21rSmM4X0I5a2FSNXFyUUowZjNOS01uWDl3Vjl0TEM2M09OLTAwV0Q1ZGdXUmNfeGZKWThzVjhLVm5rNVp6M1hpc0FLWG5wRXBPN3VrWlB6cTlsQzV5ZmUyU0o4WFlkbkFscHdDNjdPaGR0OG13OXR6Ql9qSHg0d1FqXy1oU29MVlRpTkZKNXFPX244bE5FS01qRGxpNWIyQXBTMVEyWXFPekNNNEt3OUpOMGJaZnBNNHVqblFkeDI3Q29pTW90cVNPcjJqV0tBVGhzNU5lYldIaGhDSXdXREt0M1FDNUtRVkHSAf4BQVVfeXFMTkQ0RDBKUEp1NUs3NlcySkZha2lEMldXVmx6M1piMkFiMGY1TDc5MTBlNVYzdnRPMzVtbXUwaG45dlkzOVB3RmNsN0IzT1pBb0ljOUVzVDdYb0poeEJKRTFfNC0yWi1FUTFIUUVfWXR4X2QyZE9xbHIwbVhSaUV3aDFvbEhSclpLU1dGWklaWV92VmpNM21HbDQza2gzbHhacld1VlJpWlhybGpGekExNzI1cXAxU0VjTDFnMkpfZ2trc1lESlBDbHZMbk0zelpIQXhFYno0NlZ5eXFDU1ZXeVd0eHRLbUVqcDMzNUpkdHhtZnM1Nk0ta05GNDdLRmc?oc=5)
 
 ---
 
@@ -170,6 +186,22 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Cardiologist warning to anyone taking Omeprazole, ibuprofen, diclofenac and naproxen - The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
+
+2026-03-23 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnAtNVB3VXNjeU5Oa201eEpTOUtqU2xUYXdpckE5OHpjTnZIY3JKMXNKU2FkbldESWFKRDdYdU91Uml4Rm5SbTBtSFV1YjdCU2tXZ2NpWHRvOEZiLWUyRTY5MHMzczBlYzJaT1AwUEdvU2Z1QTFoUzZzbXh3UFh6V29LS1dmMWRJTEdpYTc4WjNVMzcxNEHSAZsBQVVfeXFMTjFOZTZsdGhJQ2YzQ3FuVVdubGdRTEdqamJZNU5jRkRUY2JvTy15YXNXcGh1M0U1dUxTeDR0MjByOXBPTnVXR2Z1bzhBcVBjNWRPUjg3aDBFcWRMWHIyZWcwcmQtUlpxNkxoM0hXQm1ENjQxdmdqR0NpamI5bHJGeFZkZWpJblVkbkJ0MjJoX1IwSUVkaXAzZm9sMVE?oc=5)
+
+---
+
+### [Multivitamine bremsen die biologische Uhr - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTlHVVpRa0dXQ21oQVJTck85ek5QMEFLUFA1dU45c2djU1oybjFDWHRiZmtxYi1teEpaRDNpSjN6bF9jU2hqYS1XbWNrMFV2RTltWEVjdkVOQzh1N3NWa29tc2ZMNDVja1dqVm5FSS1oRlpHcHEyVHpfRUluVWNHbmt4VGlYMG5yX0UyX2FVcWNKX2VWb3pfd1gyRmdDOEVWT3c?oc=5)
+
+2026-03-23 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTlHVVpRa0dXQ21oQVJTck85ek5QMEFLUFA1dU45c2djU1oybjFDWHRiZmtxYi1teEpaRDNpSjN6bF9jU2hqYS1XbWNrMFV2RTltWEVjdkVOQzh1N3NWa29tc2ZMNDVja1dqVm5FSS1oRlpHcHEyVHpfRUluVWNHbmt4VGlYMG5yX0UyX2FVcWNKX2VWb3pfd1gyRmdDOEVWT3c?oc=5)
+
+---
+
 ### [Is it true that … you need to work out if you want to lose weight? - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTN2eWR5V014QnV6SllFeWlNTklUR2ZDMlJwdk9VUl9IVkRGejVuVU16R2lsTFRIVXlsZkNSTlRBZ3J0M0xnN19kclFLTDB5RXhxc29vdmpsRmI1d3NtV0NsUDZnandFZGVYZGl4SDFDQ1c2X0RTRmYtY3RNS2kzd3ZDeG9Ccm83MXdmZzA5TTV3eHkxZ0V1Q21IY3lZZWhfMTEwaTUtNjhJVkc2MlpjNnRKa1lud1k?oc=5)
 
 2026-03-23 <span class="news-indication-tag">MS</span>
@@ -183,22 +215,6 @@ permalink: /news/sofosbuvir/
 2026-03-23 <span class="news-indication-tag">MS</span>
 
 來源：[metro.co.uk](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjZXcHQ5aVFMQmY2LUhxcGRJZ2VDMUp0Y1hyeFpFY0NtWGhORjJtYTJkZzRnSjg1OE9WMEFmV0RqOEk4Y2FLYjlUcEJ5RHZLNkJvS2NtVTloa2pBcjN4ZWZTdjh1UmZCYmZsOHBGTC1fV0F6OE01WmdOUEVKUEVONVQtTk5NZ2syNy00QS1ycEZaN2p0OUEwWV85RFZCa0FBZ0U4UtIBqgFBVV95cUxPUUNwX2dwT2w1OHFxS3VxdHVIN0ltd3ZWN3RWVlVLdFozR1djQkN5eEZUempXSm9xaFpJVFFNbnkxUnVyelc0bkxDcVl2Mk5YOHJKRXJaQkJvWmpDZ3RUSTNwQWlFMDBHNS1pTWpIa2RHRUlvOTJrYllRTllUbW11NEdac1o4UU9OQXZJTGRZZFVqWmdJbnloMFFvMWtWWEM4QXhROUxVZHhxdw?oc=5)
-
----
-
-### [Mehr Vitamine, langsameres Altern?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEY0R0V3Q1NPYmN4Q3A4aG10bFk1UVFMUlZjenRZTnBCZnI3bm9jOEJtVVJSaDVfLU1BMElGZjVHQnl5ZWtDV21wYXRpc0FqczNkQnRVWTZWS1hYMzBVaGx0N2ZiYi1XdTZ1UGk0LVpWVlJlMHdLdGwwdTR3aEhfaWZwWmtuaHo3Qjd0T0dOdXlsTUZhbHZtdzZTUXFvX0dHd19YVllQbUR6RjQ?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEY0R0V3Q1NPYmN4Q3A4aG10bFk1UVFMUlZjenRZTnBCZnI3bm9jOEJtVVJSaDVfLU1BMElGZjVHQnl5ZWtDV21wYXRpc0FqczNkQnRVWTZWS1hYMzBVaGx0N2ZiYi1XdTZ1UGk0LVpWVlJlMHdLdGwwdTR3aEhfaWZwWmtuaHo3Qjd0T0dOdXlsTUZhbHZtdzZTUXFvX0dHd19YVllQbUR6RjQ?oc=5)
-
----
-
-### [Lesetipp Heft 3/2026: Essstörungen verstehen und behandeln - ernährungs umschau](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1azNrNmtQaG1wcDhjNUhwb3plZkp6VmVTM1hoUHJFWS1WSmNUOFdWaEVzVU43aVAycnY1X1k4UDlmZ2hCYVc2VzM4VVBoOWV5YkU4TnNlUUFUVEVVUV9STGNMbmJSeUdJOUk0QXdKaHRqb0VvdFBqMXBVSkJkZVk?oc=5)
-
-2026-03-23 <span class="news-indication-tag">MS</span>
-
-來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1azNrNmtQaG1wcDhjNUhwb3plZkp6VmVTM1hoUHJFWS1WSmNUOFdWaEVzVU43aVAycnY1X1k4UDlmZ2hCYVc2VzM4VVBoOWV5YkU4TnNlUUFUVEVVUV9STGNMbmJSeUdJOUk0QXdKaHRqb0VvdFBqMXBVSkJkZVk?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Rotlicht-Therapie nach einem Schlaganfall - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzE5YWpuUWYwWTI4aWx1WUYyeTlVVllmR2Z3YmtLbVFDTDVPR0VBMDZFRjh6UkxwdnEwZXdwd0hFSm85Y1VqYVBIbDdIVVRTZHdScUxvQ3ZhOHdTQ3NMaDFMSnFINmtsZmtaVk5zdUJCTm1BbUV1Nl90Y0dGcUhabDVfcEt3dEdfREl3MWNZSVVoSTMyOHBpRlY5TDRldkdvNEpKVVdxN2c2T2ZQVkJQNjJKaWl0YnRyeVVGQ19Send3aHRNN2tZ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzE5YWpuUWYwWTI4aWx1WUYyeTlVVllmR2Z3YmtLbVFDTDVPR0VBMDZFRjh6UkxwdnEwZXdwd0hFSm85Y1VqYVBIbDdIVVRTZHdScUxvQ3ZhOHdTQ3NMaDFMSnFINmtsZmtaVk5zdUJCTm1BbUV1Nl90Y0dGcUhabDVfcEt3dEdfREl3MWNZSVVoSTMyOHBpRlY5TDRldkdvNEpKVVdxN2c2T2ZQVkJQNjJKaWl0YnRyeVVGQ19Send3aHRNN2tZ?oc=5)
+
+---
 
 ### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
 
@@ -50,11 +58,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Blickwechsel Stoffwechsel - Gemeinsame Lösungen für Prävention & Versorgung in NRW ...](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
+### [Blickwechsel Stoffwechsel - Gemeinsame Lösungen für Prävention & Versorgung in NRW / Versorgungslücken bei Adipositas schließen, gesetzliche Hürden abbauen - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQdHdWVnlzUWZSeU1JT1Q4dnpuT000eW1ORGlrTXpBYzNCODNKSUs4RTFfTC0yX0NVZ1l0MnRuZ1l2NktWdDc3dUN2b0t4SEVzWDlKQmIyRlhfaFFFLWMxN2RNSG5IeEdwSzU0blR5eHNPMm9OUmFic2VvY3BIcy1wZ2lsbURDcmR4SFotLWNQY0ZZLWJDdDB5aUR2UWcyb3Z4TS1WT1ZidEo4YnFNczBoSC1qdjZraVlTQ2FvVGtMQ0Y5a1dkaHVWaGlJalFQd19nRzI2MVEtOXd2Y3dJNEpTTGNrYnR2a3dJVnhIV1UxTHhoTUtRS29iY0V0MVNyaUE1N28zMDRwQmcyR08xaTR0QjJQSE9xMV85MGNLRTJ3eUFMMkdwVGtOYUluR0tkNFFOdk9UVUhwdTRNMzlra3NPUlRrY1ZycmZLUkFxVEZKcFdBSUh1WFloODN3?oc=5)
 
 2026-03-24 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Presseportal](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
+來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQdHdWVnlzUWZSeU1JT1Q4dnpuT000eW1ORGlrTXpBYzNCODNKSUs4RTFfTC0yX0NVZ1l0MnRuZ1l2NktWdDc3dUN2b0t4SEVzWDlKQmIyRlhfaFFFLWMxN2RNSG5IeEdwSzU0blR5eHNPMm9OUmFic2VvY3BIcy1wZ2lsbURDcmR4SFotLWNQY0ZZLWJDdDB5aUR2UWcyb3Z4TS1WT1ZidEo4YnFNczBoSC1qdjZraVlTQ2FvVGtMQ0Y5a1dkaHVWaGlJalFQd19nRzI2MVEtOXd2Y3dJNEpTTGNrYnR2a3dJVnhIV1UxTHhoTUtRS29iY0V0MVNyaUE1N28zMDRwQmcyR08xaTR0QjJQSE9xMV85MGNLRTJ3eUFMMkdwVGtOYUluR0tkNFFOdk9UVUhwdTRNMzlra3NPUlRrY1ZycmZLUkFxVEZKcFdBSUh1WFloODN3?oc=5)
 
 ---
 
@@ -74,7 +82,7 @@ permalink: /news/orlistat/
 
 ---
 
-### [Vino o birra, lo studio a sorpresa: quale bicchiere riduce del 21% i rischi per cuore?](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTgyTnJMY1FJVWprYU9Xb1BOYzdCOHowSTItMllCZW1iNE5vekFSeTE1TGhCMmx0TUtrNHpmOExUeTN2VWZmeFBnZmhSUDNWdGt4UUU0Sk10VXY0S2l5bmR0ZTJyZTNCWlZ1TUhiRnF4eVVranlrS21sZTJmVERCb0g1cnlLQm9UY2w3ajl5N3VsQXlncUZTN2QtYw?oc=5)
+### [Vino o birra, lo studio a sorpresa: quale bicchiere riduce del 21% rischi per cuore](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTgyTnJMY1FJVWprYU9Xb1BOYzdCOHowSTItMllCZW1iNE5vekFSeTE1TGhCMmx0TUtrNHpmOExUeTN2VWZmeFBnZmhSUDNWdGt4UUU0Sk10VXY0S2l5bmR0ZTJyZTNCWlZ1TUhiRnF4eVVranlrS21sZTJmVERCb0g1cnlLQm9UY2w3ajl5N3VsQXlncUZTN2QtYw?oc=5)
 
 2026-03-24 <span class="news-indication-tag">ictus</span>
 

@@ -14,7 +14,7 @@ permalink: /news/ofatumumab/
 ---
 
 <p class="key-answer" data-question="Ofatumumab 有什麼相關新聞？">
-<strong>Ofatumumab</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ofatumumab</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/ofatumumab/
 <p><a href="{{ '/drugs/ofatumumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（17 則）
 
-### [I was asked if there was an ‘everything’ test for cancer. Despite bold claims, no such thing exists | Ranjana Srivastava - The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
+### [Radiotherapie bei Krebs: Diese Maßnahmen schützen den Darm - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxlTEU3ckEtZklPMWdha3NUaXFuQ0VsODhOLWY4Z0VsOVJzSjlDdi1xeWEzakxYeHJybkhyU2hkeEVycEtsZC1VYWVENkdaQk0yX0N1c0VsdEZ2VjdLb1JNWmZSS2M1VFJ2cFBlZE55cmxoUHVobUVIZ1AzZ2J1TVFOMXBRcXVoLWE1MlJ4QWpNUHlYWHhxVVBDNWVZZnYyZzBENXNzOWV3UVdFUnc?oc=5)
 
-2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-03-25 <span class="news-indication-tag">Krebs</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxlTEU3ckEtZklPMWdha3NUaXFuQ0VsODhOLWY4Z0VsOVJzSjlDdi1xeWEzakxYeHJybkhyU2hkeEVycEtsZC1VYWVENkdaQk0yX0N1c0VsdEZ2VjdLb1JNWmZSS2M1VFJ2cFBlZE55cmxoUHVobUVIZ1AzZ2J1TVFOMXBRcXVoLWE1MlJ4QWpNUHlYWHhxVVBDNWVZZnYyZzBENXNzOWV3UVdFUnc?oc=5)
+
+---
+
+### [Fears prostate cancer screening could be narrowed - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BQeHh6VUF3R252T05DcERQVUJHS3RrTnhhbEFkb08zOFZ3NzJiLXJwNVdzWTllRXgza3ROOExwRktHeUdxNHF1azZHU2oxMmNvRmRuOU4xem8zY0duV0M3MjV3Z252QlVod1Q2aUNiS2dmVGZnQUhTYlVVT1lvRmx2cjNqWGVHeDRBand0X3lhWElEQ0lyc0ZB?oc=5)
+
+2026-03-24 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BQeHh6VUF3R252T05DcERQVUJHS3RrTnhhbEFkb08zOFZ3NzJiLXJwNVdzWTllRXgza3ROOExwRktHeUdxNHF1azZHU2oxMmNvRmRuOU4xem8zY0duV0M3MjV3Z252QlVod1Q2aUNiS2dmVGZnQUhTYlVVT1lvRmx2cjNqWGVHeDRBand0X3lhWElEQ0lyc0ZB?oc=5)
 
 ---
 
@@ -66,11 +74,11 @@ permalink: /news/ofatumumab/
 
 ---
 
-### [Magenkrebs: Neuer Wirkstoff ist 60-mal effektiver gegen Risikobakterium - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1N1VEdrVWtnV2Nfbzd3Z1duWnUydUVTdHM2V1RBRlpId0FzM0MxMENoaEZPY0FiSUtqNmhUS19QRm54ZTFDcXQtb3VQRHVHcmdkTzlCb2pLMS1rUW91UkRNNUxKUW5iMS1pM28wQTNYNktiOUlxSVVZRXVQVHBXS1JWX0l2cVZXcWxIR2RtQ1pvMUhsREhRMzJCNnZyQ0ZySXFMMGhYalJqOGtVRDJuQ2FB?oc=5)
+### [I was asked if there was an ‘everything’ test for cancer. Despite bold claims, no such thing exists | Ranjana Srivastava - The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
 
-2026-03-24 <span class="news-indication-tag">Krebs</span>
+2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1N1VEdrVWtnV2Nfbzd3Z1duWnUydUVTdHM2V1RBRlpId0FzM0MxMENoaEZPY0FiSUtqNmhUS19QRm54ZTFDcXQtb3VQRHVHcmdkTzlCb2pLMS1rUW91UkRNNUxKUW5iMS1pM28wQTNYNktiOUlxSVVZRXVQVHBXS1JWX0l2cVZXcWxIR2RtQ1pvMUhsREhRMzJCNnZyQ0ZySXFMMGhYalJqOGtVRDJuQ2FB?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
 
 ---
 
@@ -82,11 +90,11 @@ permalink: /news/ofatumumab/
 
 ---
 
-### [Una nueva estrategia frente al cáncer consigue in vitro mayor muerte celular con menos quimioterapia - Consejo Superior de Investigaciones Científicas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0RvaWJIRDEtTFlhQ2diX2R4Y0V6Y3FWQXFNekF4aW5nU3VzeDg2czlYWVZCaV9qTzdUak1abjRma1NMdHFEQzJjVm9zNUM1YlF3S3p0VjN2VmctUjAwaXgzYWVMTThiVzNPcUxHWlpHR0dNdlhDQ1o0QlZOZUFaOGY3Um9HdXFmbHktYjZLY3psY1hjSGU1em5zeGFzcEhuY2ZuNzJ5azlxZ0FTRE14aFNNYkctb1lZSk1fb21abm5WN3lBZkhTc0NMZ0EwaGJkeXRVYVJB?oc=5)
+### [Los pétalos de rosa podrían servir para tratar el cáncer de mama triple negativo](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcDZuZk1rRkxLSVBoLVRVTlM1Ti1jQlFmVFh0bVoyQnN5NjhpZ2dzVnNaVHhieXlNbUhuSmg1Z3hhMW5Cbk4xV3A4OE5ILXA4UGpqMUE2S25CTXAwTlBhekNPVEVMX0JDODhMQ3drbkR3NEl4b3A1ZnBiSVVfeC03dWRxOFU0SEpCTW0yeUxVbkhfVEVNS0UwR1lJclJBTmFycUZ5T0d6Y2lkbktJeWQ4MlhXd25BM0J2R0NNTHJOeUpSTzFGRi1NZlNRd21RNDNqY1F2Yzk4eW9BSEpUOXJUZk80ZDkyOC0xcTBB0gHrAUFVX3lxTE5NVTljd0tsOUFBOEVfUkFfemFKaU5DRDhwUnN0NWhuS0Z2a0xrS0xzbl9kenJjS2REQVd4VXBpdldRSWVQMlYwcS1iTU1iXzhLWWQxWDJDQThMQkFvNFVlY29ndlMwaUNjUTA2cFJRdkhpaG5FYTJ4dXRYR2lDWU9HcWlFUGFRZkt0V3VaaEotMG92TUhPa3VCWnFJZGlPamNLTWxnZXNKZWxBbFExLVhwM3lfM1J4ekhXdlBnQXJYZF94NFllMlJrdDQtOF94ZklDblRQS0YxQy05TTlmMjlWTE5FX1YxbmE4Wms?oc=5)
 
-2026-03-24 <span class="news-indication-tag">tumor</span>
+2026-03-24 <span class="news-indication-tag">cancer</span>
 
-來源：[Consejo Superior de Investigaciones Científicas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0RvaWJIRDEtTFlhQ2diX2R4Y0V6Y3FWQXFNekF4aW5nU3VzeDg2czlYWVZCaV9qTzdUak1abjRma1NMdHFEQzJjVm9zNUM1YlF3S3p0VjN2VmctUjAwaXgzYWVMTThiVzNPcUxHWlpHR0dNdlhDQ1o0QlZOZUFaOGY3Um9HdXFmbHktYjZLY3psY1hjSGU1em5zeGFzcEhuY2ZuNzJ5azlxZ0FTRE14aFNNYkctb1lZSk1fb21abm5WN3lBZkhTc0NMZ0EwaGJkeXRVYVJB?oc=5)
+來源：[LaSexta](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcDZuZk1rRkxLSVBoLVRVTlM1Ti1jQlFmVFh0bVoyQnN5NjhpZ2dzVnNaVHhieXlNbUhuSmg1Z3hhMW5Cbk4xV3A4OE5ILXA4UGpqMUE2S25CTXAwTlBhekNPVEVMX0JDODhMQ3drbkR3NEl4b3A1ZnBiSVVfeC03dWRxOFU0SEpCTW0yeUxVbkhfVEVNS0UwR1lJclJBTmFycUZ5T0d6Y2lkbktJeWQ4MlhXd25BM0J2R0NNTHJOeUpSTzFGRi1NZlNRd21RNDNqY1F2Yzk4eW9BSEpUOXJUZk80ZDkyOC0xcTBB0gHrAUFVX3lxTE5NVTljd0tsOUFBOEVfUkFfemFKaU5DRDhwUnN0NWhuS0Z2a0xrS0xzbl9kenJjS2REQVd4VXBpdldRSWVQMlYwcS1iTU1iXzhLWWQxWDJDQThMQkFvNFVlY29ndlMwaUNjUTA2cFJRdkhpaG5FYTJ4dXRYR2lDWU9HcWlFUGFRZkt0V3VaaEotMG92TUhPa3VCWnFJZGlPamNLTWxnZXNKZWxBbFExLVhwM3lfM1J4ekhXdlBnQXJYZF94NFllMlJrdDQtOF94ZklDblRQS0YxQy05TTlmMjlWTE5FX1YxbmE4Wms?oc=5)
 
 ---
 
@@ -146,22 +154,6 @@ permalink: /news/ofatumumab/
 
 ---
 
-### [Superfoods that slash weight, boost heart health and lower cancer risk - Daily Mail](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTA0WHBpcll2YUVoQXc0VU51ZnZDTHgtQ0p5ZUpKSkZnVVg3aVh1Z2JvWHl0TWdlbzRSRzcySWJqb3poZ202eVg0dERNaDdtak9sR3pZV0RZRUl6clpreTBEa2JkV3JRSVVtbmljazlNWVRPcklVSGg0SnZwemE2ZTdZTmxFb2xRdW5nZzllTlZyWjd4X0NvTWduemJwMm9lTWZtRzEzSG9RTlhULXJR?oc=5)
-
-2026-03-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTA0WHBpcll2YUVoQXc0VU51ZnZDTHgtQ0p5ZUpKSkZnVVg3aVh1Z2JvWHl0TWdlbzRSRzcySWJqb3poZ202eVg0dERNaDdtak9sR3pZV0RZRUl6clpreTBEa2JkV3JRSVVtbmljazlNWVRPcklVSGg0SnZwemE2ZTdZTmxFb2xRdW5nZzllTlZyWjd4X0NvTWduemJwMm9lTWZtRzEzSG9RTlhULXJR?oc=5)
-
----
-
-### [Prostate cancer screening trial to prioritise black men - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVM2OVprbVdiRmdqZ3pPZFVNb3ZyVmNqdE56YzJBamJXbzVneW1CTUgwOFgtODBkenJ5M2xWd0NJREE5TW5mR0gtNlBhOGlkNXlmOWZwelFDaXpkbnM3Q0VzakNaclA4R0VValMwX3pZbHZyd2x0YTM4WFk0ckd2Umt4czN0a3RwX2dHRUlCRmJMQWwzOVhodlc1cmhEeVBHNDRNRV9Qcw?oc=5)
-
-2026-03-23 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVM2OVprbVdiRmdqZ3pPZFVNb3ZyVmNqdE56YzJBamJXbzVneW1CTUgwOFgtODBkenJ5M2xWd0NJREE5TW5mR0gtNlBhOGlkNXlmOWZwelFDaXpkbnM3Q0VzakNaclA4R0VValMwX3pZbHZyd2x0YTM4WFk0ckd2Umt4czN0a3RwX2dHRUlCRmJMQWwzOVhodlc1cmhEeVBHNDRNRV9Qcw?oc=5)
-
----
-
 ### [Safran: Mehr als nur ein Gewürz - Superfood bei ADHS und Krebs?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjlmRk1PVVZnamFJWDVYczRTenZYWDA3RWVQSV9pOUNOTXVzckdTMFdvQkFhX2dEWW1GaE1oZ2J4NkJ0LWhBOXQwTmlRRFQ0MTVodXFlZUFWc19DVm9Oa2RqRXl5Vjl5TURsQkR0T2hYbkZhMzJfU2FJaTd5alBMc2JJSklYTV9CeF9DQi1BNERnVjliQmlLT2FvM0ljN1c0dFNGMExEa1oyQWVjOEZ2QXI3MXRaRzdPOXlDQ2pIUGNhM1VtVmdMUkFGNUJlQTMx?oc=5)
 
 2026-03-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
@@ -183,14 +175,6 @@ permalink: /news/ofatumumab/
 2026-03-23 <span class="news-indication-tag">cancer</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMilAJBVV95cUxORUk1Y1VyU1RtNUIweUNzZnZRVGptd1NIUloyRFRhMlgwUUFCVzd5UDlSVHpRVFBsTjVKcWtRb2RDOHZYbGtTajZqSFNCS3NwSkJaMzlIcWdwb2lfYWViVlVhSzI0VHg2LUtwQzZJSjkxc1hYWUFnU2MzQWM0enZyOE5XWE5wMGlfR0FGNC1CUFJsVnVqY3pKcG5DWUstZlIwVm8zakFuOFNsTjZXRzhvdnpEUWF1M0FwdkEzYlJ6WHVoWWd5R3pmUXNjalFsY252c2FEUUluTDJKVC1tOXRFV2ljXzdDdS1fSlZsZE5hXzhoakFtVHczSHN1X2Z0dDRuNm9SczBfTWxPYlNjeFVObWtJRDM?oc=5)
-
----
-
-### [Gelockerte Zähne aufgrund von Parodontitis – Schienung oder Extraktion? - ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
-
-2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">tumor</span>
-
-來源：[ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
 
 ---
 

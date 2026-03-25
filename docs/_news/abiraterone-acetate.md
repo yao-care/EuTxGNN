@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="Abiraterone Acetate 有什麼相關新聞？">
-<strong>Abiraterone Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abiraterone Acetate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/abiraterone-acetate/
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [List of foods ‘worse for you than smoking’ as doctor issues serious warning](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
 
 2026-03-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
+
+---
+
+### [Can turmeric supplements ease the agony of my hip arthritis?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVhLOVdWLW05NW9lb3EyTXBNZ0lwN21UQ3ZieXBhbUdHYmh5Mk40SThSTnJadFgzUkxxcDlmcU8wOGxUTGZKQS1SeWtoeG9RTlhpYVh0UFE1MXYzNDVQSHV4UXFqNklnZHE5SVpUV2VpNzRpeFNNbVdXMWlJM0lMX0RURzZmY1JSXzlJ?oc=5)
+
+2026-03-24 <span class="news-indication-tag">arthritis</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVhLOVdWLW05NW9lb3EyTXBNZ0lwN21UQ3ZieXBhbUdHYmh5Mk40SThSTnJadFgzUkxxcDlmcU8wOGxUTGZKQS1SeWtoeG9RTlhpYVh0UFE1MXYzNDVQSHV4UXFqNklnZHE5SVpUV2VpNzRpeFNNbVdXMWlJM0lMX0RURzZmY1JSXzlJ?oc=5)
 
 ---
 

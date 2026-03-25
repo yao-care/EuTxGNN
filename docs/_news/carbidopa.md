@@ -42,11 +42,11 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（1 則）
 
-### [Girl, 2, diagnosed with DEMENTIA as mum & dad race against time to save her](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
+### [Parents describe 'worst nightmare' as two-year-old daughter is diagnosed with dementia - GB News](https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2thR2s4TlViTFF2WW4wcjVxTElZLTlNdmROTzQyNWQ3cm4xcXR3U2JRcF9DNlJWbnQzT1ZBNFI4YkM1NGhXeW81aktfX2xfMXk4cENtOVpNSDJYejZsRXFrYjFuT3NvXzZ3VUNxYUFDQUxEMVF3VVNUU3pSd24yelVCdkVXTnN6Yks3M2ZDRnM?oc=5)
 
-2026-03-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-24 <span class="news-indication-tag">dementia</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZd2RxdXZvdlFUUWU5d3RJcGFrV2h1eWR2dUU5NHJpcFR6aVVwYnFUYzRVVHoyb3RNZ25mVmxNZTVLWWpkaVVHQXpTdkZVMkdNNEhaenphb3E3NTc4M0lTODBUazVpa3VMVXd0bU0zWlZvNWVLZ1RwMk9FVjQzZw?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2thR2s4TlViTFF2WW4wcjVxTElZLTlNdmROTzQyNWQ3cm4xcXR3U2JRcF9DNlJWbnQzT1ZBNFI4YkM1NGhXeW81aktfX2xfMXk4cENtOVpNSDJYejZsRXFrYjFuT3NvXzZ3VUNxYUFDQUxEMVF3VVNUU3pSd24yelVCdkVXTnN6Yks3M2ZDRnM?oc=5)
 
 ---
 

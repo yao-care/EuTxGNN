@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="Azathioprine 有什麼相關新聞？">
-<strong>Azathioprine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Azathioprine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/azathioprine/
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Morbus Crohn und Colitis ulcerosa: Wie stark ADHS und Autismus die Krankheitsaktivität beeinflussen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjhXNzhwOTVuZ21idVVkU3ZtMTNBcFZtU1QtaWRvUUY3dnFTVlJ0TUV6czdfTGNLTFF1dVJfb0tfTmZmeU9NTld3YTBTbHRMYVNueV9jZFU3Qm9XSXBScGJORXJXQ2NlUnZlMjJ5RnZNdHowTDEtYWtXbzFwVGQ0ZTkyQzdTQ1M3dzF6cmJNQnM1aXpURm9hb082TV8wVEVlS3RsVElZbDl4SUF0M3h5OV9IR1dpZ29yd1FBd0F2ZENTMHRYd1VoX1d4Y1RXbWs3QjAtV3lMako4emxoNXc?oc=5)
 
 2026-03-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjhXNzhwOTVuZ21idVVkU3ZtMTNBcFZtU1QtaWRvUUY3dnFTVlJ0TUV6czdfTGNLTFF1dVJfb0tfTmZmeU9NTld3YTBTbHRMYVNueV9jZFU3Qm9XSXBScGJORXJXQ2NlUnZlMjJ5RnZNdHowTDEtYWtXbzFwVGQ0ZTkyQzdTQ1M3dzF6cmJNQnM1aXpURm9hb082TV8wVEVlS3RsVElZbDl4SUF0M3h5OV9IR1dpZ29yd1FBd0F2ZENTMHRYd1VoX1d4Y1RXbWs3QjAtV3lMako4emxoNXc?oc=5)
+
+---
+
+### [Can turmeric supplements ease the agony of my hip arthritis?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVhLOVdWLW05NW9lb3EyTXBNZ0lwN21UQ3ZieXBhbUdHYmh5Mk40SThSTnJadFgzUkxxcDlmcU8wOGxUTGZKQS1SeWtoeG9RTlhpYVh0UFE1MXYzNDVQSHV4UXFqNklnZHE5SVpUV2VpNzRpeFNNbVdXMWlJM0lMX0RURzZmY1JSXzlJ?oc=5)
+
+2026-03-24 <span class="news-indication-tag">arthritis</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVhLOVdWLW05NW9lb3EyTXBNZ0lwN21UQ3ZieXBhbUdHYmh5Mk40SThSTnJadFgzUkxxcDlmcU8wOGxUTGZKQS1SeWtoeG9RTlhpYVh0UFE1MXYzNDVQSHV4UXFqNklnZHE5SVpUV2VpNzRpeFNNbVdXMWlJM0lMX0RURzZmY1JSXzlJ?oc=5)
 
 ---
 
