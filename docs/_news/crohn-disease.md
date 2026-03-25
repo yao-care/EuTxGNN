@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Morbus Crohn（crohn disease） 相關新聞"
+title: "maladie de Crohn（crohn disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "maladie de Crohn（crohn disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/crohn-disease/
 ---
 
-# Morbus Crohn（crohn disease） 相關新聞
+# maladie de Crohn（crohn disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Morbus Crohn（crohn disease） 有什麼相關新聞？">
-<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="maladie de Crohn（crohn disease） 有什麼相關新聞？">
+<strong>maladie de Crohn（crohn disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Morbus Crohn」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie de Crohn」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/crohn-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Maladie de Crohn : une signature virale dans le sang ouvre de nouvelles pistes de diagnostic - Pour la Science](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0hqcDNLOHNWLWRtcjR3YzI2d056emhxWEd1QnBFYVhKWjhxcEFDRzNoOVVvR0VWVVZMRmc4SzVRTkpkMXVBQVpIRUJSUnlLWThlSUJRQVUzUVA0MHA5aFFxNXAtX2otMnp1MFB6SkpYeXBCVFp2NENKb1NnUUxRT3B6blRQRVdlTUtUYnBlcjNCdXVfZFJQV05HVDlMYVZZeC1qRmY2aHlTeDRMMVh4VVh0bVEtbXZDOTMwaWhkNmR1ZjJxRTF2clRsUDNWMFVyY0Z6SVU4S3Y?oc=5)
+
+2026-03-24
+
+來源：[Pour la Science](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0hqcDNLOHNWLWRtcjR3YzI2d056emhxWEd1QnBFYVhKWjhxcEFDRzNoOVVvR0VWVVZMRmc4SzVRTkpkMXVBQVpIRUJSUnlLWThlSUJRQVUzUVA0MHA5aFFxNXAtX2otMnp1MFB6SkpYeXBCVFp2NENKb1NnUUxRT3B6blRQRVdlTUtUYnBlcjNCdXVfZFJQV05HVDlMYVZZeC1qRmY2aHlTeDRMMVh4VVh0bVEtbXZDOTMwaWhkNmR1ZjJxRTF2clRsUDNWMFVyY0Z6SVU4S3Y?oc=5)
+
+---
 
 ### [Morbus Crohn und Colitis ulcerosa: Wie stark ADHS und Autismus die Krankheitsaktivität beeinflussen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjhXNzhwOTVuZ21idVVkU3ZtMTNBcFZtU1QtaWRvUUY3dnFTVlJ0TUV6czdfTGNLTFF1dVJfb0tfTmZmeU9NTld3YTBTbHRMYVNueV9jZFU3Qm9XSXBScGJORXJXQ2NlUnZlMjJ5RnZNdHowTDEtYWtXbzFwVGQ0ZTkyQzdTQ1M3dzF6cmJNQnM1aXpURm9hb082TV8wVEVlS3RsVElZbDl4SUF0M3h5OV9IR1dpZ29yd1FBd0F2ZENTMHRYd1VoX1d4Y1RXbWs3QjAtV3lMako4emxoNXc?oc=5)
 

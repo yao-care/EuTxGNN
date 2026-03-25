@@ -42,19 +42,19 @@ permalink: /news/melatonin/
 
 ## 相關新聞（2 則）
 
+### [Blickwechsel Stoffwechsel - Gemeinsame Lösungen für Prävention & Versorgung in NRW ...](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
+
+2026-03-24 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Presseportal](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
+
+---
+
 ### [SEMERGEN propone tratar obesidad y diabetes tipo 2 de forma conjunta - Canal Diabetes](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUzhOTElXUmsxVm9tXzJiUjJ1SXlKN3YwY1BOU1BQQjdiVk5LTlQyRTk2cHdHc1NIR0hUOC1odXhrZG10ODJOVy1UcE9iWE0zVDZNdVlHVDU3ZUgwd28tWEtaM1lBVVRTZjhNeVU3RQ?oc=5)
 
 2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUzhOTElXUmsxVm9tXzJiUjJ1SXlKN3YwY1BOU1BQQjdiVk5LTlQyRTk2cHdHc1NIR0hUOC1odXhrZG10ODJOVy1UcE9iWE0zVDZNdVlHVDU3ZUgwd28tWEtaM1lBVVRTZjhNeVU3RQ?oc=5)
-
----
-
-### [Farmaci anti-obesità, aumenta il consumo in Trentino e si spende fino a 400 euro al mese. L'esperta: “Attenzione agli effetti collaterali. Senza terapia difficile mantenere il peso” - il Dolomiti](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWi1OejdPdHVBYi1iS0h6SlFtNWNhQXdNY28xREFqNl8wUzFrZldVUU0zQTg2OGdyNWRELXNqVGo0VmRIMVJqZHhNdUQtRlhpNm5DSlZTYUpvc2dWbGRIMTByTFNpWndPWGg1ZDlwSVlvMzcwbV9Gd0xoZ0kzdlNmOWdUQWpUYWpMN0xseUsyNDB6TTNBN1pmUXNwcnN5V0tYWG85RXVFQWtXWUZrdi1MQTYwNHlqZUxsVTZuRFM4Qlczd29aS1V3ZzZHNkZXSmxuWm9ua0I4NmxrWjg3dXZuOXhnWWNsZFlGc0dYbGtsT3UtZkZ3cEFZSXRJQndZcldxNUU5U2RzT0hUZE9DVF9iY0VEZ3EwdThSRWFOa0pTb2pjNEpaa2NHMkZ1SlJnNVVfYVhlR2dWM0c?oc=5)
-
-2026-03-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-來源：[il Dolomiti](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWi1OejdPdHVBYi1iS0h6SlFtNWNhQXdNY28xREFqNl8wUzFrZldVUU0zQTg2OGdyNWRELXNqVGo0VmRIMVJqZHhNdUQtRlhpNm5DSlZTYUpvc2dWbGRIMTByTFNpWndPWGg1ZDlwSVlvMzcwbV9Gd0xoZ0kzdlNmOWdUQWpUYWpMN0xseUsyNDB6TTNBN1pmUXNwcnN5V0tYWG85RXVFQWtXWUZrdi1MQTYwNHlqZUxsVTZuRFM4Qlczd29aS1V3ZzZHNkZXSmxuWm9ua0I4NmxrWjg3dXZuOXhnWWNsZFlGc0dYbGtsT3UtZkZ3cEFZSXRJQndZcldxNUU5U2RzT0hUZE9DVF9iY0VEZ3EwdThSRWFOa0pTb2pjNEpaa2NHMkZ1SlJnNVVfYVhlR2dWM0c?oc=5)
 
 ---
 

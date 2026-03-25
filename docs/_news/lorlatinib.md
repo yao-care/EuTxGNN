@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="Lorlatinib 有什麼相關新聞？">
-<strong>Lorlatinib</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lorlatinib</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ permalink: /news/lorlatinib/
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
 
-### [El Ayuntamiento de València y la Generalitat impulsan la nueva IA de Quibim contra el cáncer de mama - Valencia Plaza](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVGxZWWFBeWpOSms3NWdPcVh1aWxLRnNMeXVjallVU24wQ0lfdmZtdG1xR05lQk43OXQ4djBhWUlhaEw1Qy1Qb0JlTGJPSDhQUEViVDQteV9zaHlyRW96eDhaOFBYTGJoaTUwWHNSQXFlQmQ4cXVjNDFFcW5EMDJJY2FxTEFvTGxDRERMd18yOGRLejN6RHlzQ0doMWtnMVFadlpTTVhQUGI1VWJnWkdBUktmcGRxalNsejQyWGg3dzY3eDhiN05uNUNyZ2Utcm1idjg4WDV1T0h5SnpySFpnemdYRQ?oc=5)
+### [I was asked if there was an ‘everything’ test for cancer. Despite bold claims, no such thing exists | Ranjana Srivastava - The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
 
-2026-03-24 <span class="news-indication-tag">tumor</span>
+2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVGxZWWFBeWpOSms3NWdPcVh1aWxLRnNMeXVjallVU24wQ0lfdmZtdG1xR05lQk43OXQ4djBhWUlhaEw1Qy1Qb0JlTGJPSDhQUEViVDQteV9zaHlyRW96eDhaOFBYTGJoaTUwWHNSQXFlQmQ4cXVjNDFFcW5EMDJJY2FxTEFvTGxDRERMd18yOGRLejN6RHlzQ0doMWtnMVFadlpTTVhQUGI1VWJnWkdBUktmcGRxalNsejQyWGg3dzY3eDhiN05uNUNyZ2Utcm1idjg4WDV1T0h5SnpySFpnemdYRQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaHVNMUhLVzhpQWttbktjcHBvRG56djV2cmNudU5NYjhLeUNmUXlFeE5wY0IyZDdweDVMSHFGMGRCSGNwZ0NTamo4dmFzOGE2dlB0ZWE4X05UcWx2MGZVZE9EVS11NE1tcVlTQmg0aS1JOTNSdjl2UVI2SmtRTWhOOEhMTDlHRC04aGRVNXBRQUZaajdOYUk0Z1M3VV9CcDlvVEhvZC1aYURvMm9VTnBNbWJKTHVJLTlzWWc0dHNya1pCc1dESzNYSjkzWGZXdkpZVjJxVWxZRWlXY1lHR1JuZTZmQjk4bS1ZZFhLckEtNm11V0MxMHgw?oc=5)
 
 ---
 
@@ -74,14 +74,6 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [Infosalus.- Una nueva estrategia frente al cáncer consigue 'in vitro' mayor muerte celular con menos quimioterapia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZElSZHdJQXBSUVZfbGl0TkV4NXNMbFdTbjJtRGVQR1FLUlZqY1Nib24zTy10RHBvQV9jdlY4dF9TUm52WWxwbG45VFp5OG1ELVYteTVIZHo5ck5lWTFYaVIxWldFdnFRTnBvOE4zbjhuMG5rWTRRYjMtWng4RXVQcXFVNlRfeFU1cmJmejBQZkl4blYxemtDQjNzUVFvWTJMMW42Z29MSzJvLVV2UTl2SHJLdEtPLV9STGdGbDNZSk1wRkluZHBiQkxXY0VHNVpPM1pVdUh2SElLMkZFcXo4enYza1MtaUU3bVI2bU90cmQ?oc=5)
-
-2026-03-24 <span class="news-indication-tag">tumor</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZElSZHdJQXBSUVZfbGl0TkV4NXNMbFdTbjJtRGVQR1FLUlZqY1Nib24zTy10RHBvQV9jdlY4dF9TUm52WWxwbG45VFp5OG1ELVYteTVIZHo5ck5lWTFYaVIxWldFdnFRTnBvOE4zbjhuMG5rWTRRYjMtWng4RXVQcXFVNlRfeFU1cmJmejBQZkl4blYxemtDQjNzUVFvWTJMMW42Z29MSzJvLVV2UTl2SHJLdEtPLV9STGdGbDNZSk1wRkluZHBiQkxXY0VHNVpPM1pVdUh2SElLMkZFcXo4enYza1MtaUU3bVI2bU90cmQ?oc=5)
-
----
-
 ### [Cancer du pancréas : ce signe discret apparaît souvent en premier alerte ce médecin - Modes et travaux](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWldONXVWdUFHX3p5aXJrd0VHWWZINndfTXFrbGUwbWFMWkxsT083MmE1RnRpems2WHF3NFZYRGNnU1gtNERjTzRWMUs1QVBsU2ctRnluTUJUTjljWHp4c1BYcmxkc0k5QWlMdWhQUXgwMjBzV2lqTndkZUhVVFp3STFJaWNvM1hjYlpzTFg2WU92ODNGdGJjY3BpYmNMQWhVRTliTjFYQXp3bjFOa08yeXM2ZjlpY2hhVDkxMG1iSm5rcW5ySXNSWFhXUk9oZjJjcHNfREVPQmg0VEZ0cEpGeE5EVFoxWGttS05UVTNaTk5MSmV6QlE?oc=5)
 
 2026-03-24 <span class="news-indication-tag">cancer</span>
@@ -90,11 +82,11 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [Los pétalos de rosa podrían servir para tratar el cáncer de mama triple negativo](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcDZuZk1rRkxLSVBoLVRVTlM1Ti1jQlFmVFh0bVoyQnN5NjhpZ2dzVnNaVHhieXlNbUhuSmg1Z3hhMW5Cbk4xV3A4OE5ILXA4UGpqMUE2S25CTXAwTlBhekNPVEVMX0JDODhMQ3drbkR3NEl4b3A1ZnBiSVVfeC03dWRxOFU0SEpCTW0yeUxVbkhfVEVNS0UwR1lJclJBTmFycUZ5T0d6Y2lkbktJeWQ4MlhXd25BM0J2R0NNTHJOeUpSTzFGRi1NZlNRd21RNDNqY1F2Yzk4eW9BSEpUOXJUZk80ZDkyOC0xcTBB0gHrAUFVX3lxTE5NVTljd0tsOUFBOEVfUkFfemFKaU5DRDhwUnN0NWhuS0Z2a0xrS0xzbl9kenJjS2REQVd4VXBpdldRSWVQMlYwcS1iTU1iXzhLWWQxWDJDQThMQkFvNFVlY29ndlMwaUNjUTA2cFJRdkhpaG5FYTJ4dXRYR2lDWU9HcWlFUGFRZkt0V3VaaEotMG92TUhPa3VCWnFJZGlPamNLTWxnZXNKZWxBbFExLVhwM3lfM1J4ekhXdlBnQXJYZF94NFllMlJrdDQtOF94ZklDblRQS0YxQy05TTlmMjlWTE5FX1YxbmE4Wms?oc=5)
+### [Una nueva estrategia frente al cáncer consigue in vitro mayor muerte celular con menos quimioterapia - Consejo Superior de Investigaciones Científicas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0RvaWJIRDEtTFlhQ2diX2R4Y0V6Y3FWQXFNekF4aW5nU3VzeDg2czlYWVZCaV9qTzdUak1abjRma1NMdHFEQzJjVm9zNUM1YlF3S3p0VjN2VmctUjAwaXgzYWVMTThiVzNPcUxHWlpHR0dNdlhDQ1o0QlZOZUFaOGY3Um9HdXFmbHktYjZLY3psY1hjSGU1em5zeGFzcEhuY2ZuNzJ5azlxZ0FTRE14aFNNYkctb1lZSk1fb21abm5WN3lBZkhTc0NMZ0EwaGJkeXRVYVJB?oc=5)
 
-2026-03-24 <span class="news-indication-tag">cancer</span>
+2026-03-24 <span class="news-indication-tag">tumor</span>
 
-來源：[LaSexta](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcDZuZk1rRkxLSVBoLVRVTlM1Ti1jQlFmVFh0bVoyQnN5NjhpZ2dzVnNaVHhieXlNbUhuSmg1Z3hhMW5Cbk4xV3A4OE5ILXA4UGpqMUE2S25CTXAwTlBhekNPVEVMX0JDODhMQ3drbkR3NEl4b3A1ZnBiSVVfeC03dWRxOFU0SEpCTW0yeUxVbkhfVEVNS0UwR1lJclJBTmFycUZ5T0d6Y2lkbktJeWQ4MlhXd25BM0J2R0NNTHJOeUpSTzFGRi1NZlNRd21RNDNqY1F2Yzk4eW9BSEpUOXJUZk80ZDkyOC0xcTBB0gHrAUFVX3lxTE5NVTljd0tsOUFBOEVfUkFfemFKaU5DRDhwUnN0NWhuS0Z2a0xrS0xzbl9kenJjS2REQVd4VXBpdldRSWVQMlYwcS1iTU1iXzhLWWQxWDJDQThMQkFvNFVlY29ndlMwaUNjUTA2cFJRdkhpaG5FYTJ4dXRYR2lDWU9HcWlFUGFRZkt0V3VaaEotMG92TUhPa3VCWnFJZGlPamNLTWxnZXNKZWxBbFExLVhwM3lfM1J4ekhXdlBnQXJYZF94NFllMlJrdDQtOF94ZklDblRQS0YxQy05TTlmMjlWTE5FX1YxbmE4Wms?oc=5)
+來源：[Consejo Superior de Investigaciones Científicas](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0RvaWJIRDEtTFlhQ2diX2R4Y0V6Y3FWQXFNekF4aW5nU3VzeDg2czlYWVZCaV9qTzdUak1abjRma1NMdHFEQzJjVm9zNUM1YlF3S3p0VjN2VmctUjAwaXgzYWVMTThiVzNPcUxHWlpHR0dNdlhDQ1o0QlZOZUFaOGY3Um9HdXFmbHktYjZLY3psY1hjSGU1em5zeGFzcEhuY2ZuNzJ5azlxZ0FTRE14aFNNYkctb1lZSk1fb21abm5WN3lBZkhTc0NMZ0EwaGJkeXRVYVJB?oc=5)
 
 ---
 
@@ -127,6 +119,14 @@ permalink: /news/lorlatinib/
 2026-03-24 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MdFhxZUZBUUMxZEJxY1hPTWRpaW5xUWxlUkk2anNSLTRWY0p6ajQ2aXRPRThROW5DNVhvbUxzbW5HeWFiSEtvay1IV0JmMURwNWhRdEh6T2VwbElM?oc=5)
+
+---
+
+### [VIDÉO. Dépistage du cancer colorectal : enjeux et initiatives choc pour encourager à faire un test simple mais trop souvent ignoré - France 3 Régions](https://news.google.com/rss/articles/CBMingJBVV95cUxNVmcxSUJMOVJPZ3dOYW0yM1ljWGdxOVRXc3ZvdjFmaDJLeW5hZHVRb2hxWjdfMDdmNjVBaDJZYkdmYkFYRFVobHJzVFlGMWFRamFaSVZmalpKVkJDQzNfMjkydzJuYS1BYWFQTXU5Q3N1Zm1PakhkVlRIci1TWVNZc3FxeElZUmRwaHctbC15Z19NQ0FHbklPbUFQa3IwTjE1QXpjLTFIVDlGSUFKVWZpVmx1T3dYeWd1b3dYRmt3WXBHeTZtbFBwbHBiLXdmNEI2SURicjN5WjFPNV9SenNRN2pEZ0Y1MXlKLTRoZ09ZQWFZMkFJZlpwSnk4WkpzbUhaZzhacVdnaDdQZVNYN2ZZZmFWbU1ycGJvemlqUWp3?oc=5)
+
+2026-03-24 <span class="news-indication-tag">cancer</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMingJBVV95cUxNVmcxSUJMOVJPZ3dOYW0yM1ljWGdxOVRXc3ZvdjFmaDJLeW5hZHVRb2hxWjdfMDdmNjVBaDJZYkdmYkFYRFVobHJzVFlGMWFRamFaSVZmalpKVkJDQzNfMjkydzJuYS1BYWFQTXU5Q3N1Zm1PakhkVlRIci1TWVNZc3FxeElZUmRwaHctbC15Z19NQ0FHbklPbUFQa3IwTjE1QXpjLTFIVDlGSUFKVWZpVmx1T3dYeWd1b3dYRmt3WXBHeTZtbFBwbHBiLXdmNEI2SURicjN5WjFPNV9SenNRN2pEZ0Y1MXlKLTRoZ09ZQWFZMkFJZlpwSnk4WkpzbUhaZzhacVdnaDdQZVNYN2ZZZmFWbU1ycGJvemlqUWp3?oc=5)
 
 ---
 
@@ -194,17 +194,9 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [«Ho un tumore ai polmoni al quarto stadio, ma sono ancora viva». La storia della 50enne a cui avevano dato 11 mesi di vita - Il Mattino](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWdXSjNSS3ZpMHBGRktnalk4VmRPb3FzZmUtNndianJKdjdKdXFkTEpyWDc0UHhJUy1PY0lsa1d0OFBZUGtiREotUnRVbkFkYlJfVzVkMWtFTmQ0eDdiS3ZDdzR6WHBYazBFOFQ0U2p3UTBkRXA5VzRuLTIzc2hlazhYZTR1UVFKMVNyUG5kellvTGFsSmR6NVFFQ1FNZE03cE1xQnhuTU9vaFlkX2JkZW9WYTltOUV4VVNrUHAtTdIBugFBVV95cUxNNEdDNHB5dUZybllWU0ktTF9wd1V2MGtSdTBhSW43cExBWFZBazdvcEdLc3R1YmtkdFVXQnNtM0ppLUJiVFV1NFZqTzRlUzBuQjdKZG1HY0xnOUMyTHJiZmV3MTc1LTZoTkxlTkpDMVdFX19tR2ZKbHJRVmI1WFZQR3Bodk9zalBlNXJyVlRxS1kyblZ4SmhFVTI3MU8xUjdaczVNVEdOa3hSQWpYZTN0MXItcjlaTFlOX3c?oc=5)
-
-2026-03-23 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWdXSjNSS3ZpMHBGRktnalk4VmRPb3FzZmUtNndianJKdjdKdXFkTEpyWDc0UHhJUy1PY0lsa1d0OFBZUGtiREotUnRVbkFkYlJfVzVkMWtFTmQ0eDdiS3ZDdzR6WHBYazBFOFQ0U2p3UTBkRXA5VzRuLTIzc2hlazhYZTR1UVFKMVNyUG5kellvTGFsSmR6NVFFQ1FNZE03cE1xQnhuTU9vaFlkX2JkZW9WYTltOUV4VVNrUHAtTdIBugFBVV95cUxNNEdDNHB5dUZybllWU0ktTF9wd1V2MGtSdTBhSW43cExBWFZBazdvcEdLc3R1YmtkdFVXQnNtM0ppLUJiVFV1NFZqTzRlUzBuQjdKZG1HY0xnOUMyTHJiZmV3MTc1LTZoTkxlTkpDMVdFX19tR2ZKbHJRVmI1WFZQR3Bodk9zalBlNXJyVlRxS1kyblZ4SmhFVTI3MU8xUjdaczVNVEdOa3hSQWpYZTN0MXItcjlaTFlOX3c?oc=5)
-
----
-
 ### [Gelockerte Zähne aufgrund von Parodontitis – Schienung oder Extraktion? - ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
 
-2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+2026-03-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">tumor</span>
 
 來源：[ZWP online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQanFGcmpLaUhEZWJhbTdlU0o0dFhQVURtVGNPdy1tV2FZcXhmVERyRndmbXZ5OVUwVjExQlNfb0VpNWs1Z3lnaFlCUVBSc1dHY3B5NV80QkF3WnpkRnE4RFpEc1RPel9tNnFPYzJpREZ3MHhnQTZFc0hBVE9aQWdtRjFJU3ZyMFlsTHZrd2xTOEdpUnJMUlIyNF81bktUcWZXNGhURXdsR0pRTS1JZDJiTkl3anR0Q0swV2VUSE1FUi1LSktyUVVsdWVPYjk?oc=5)
 

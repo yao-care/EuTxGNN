@@ -42,14 +42,6 @@ permalink: /news/orlistat/
 
 ## 相關新聞（6 則）
 
-### [List of foods ‘worse for you than smoking’ as doctor issues serious warning](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
-
----
-
 ### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
 
 2026-03-24 <span class="news-indication-tag">stroke</span>
@@ -58,11 +50,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [« La prévention permet d’éviter près de 80 % des maladies cardio-vasculaires » - Le Monde.fr](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzB5d0p1a1FVVVpaUjBkeVRBdU54VW80ZW5oMi1BTGpTUEFTZmNqemQ5bC16Ynd5SFRQMHE3ZDdfZ1RsRVNWU1o4Z2RTWjRBN2RyajJidVdvMG9ETnFlNkdQSGNDYUhOX2gzRFdyWW1tb0lRS0YzNHpMZmdoRzdDcFdaRWRXdWcwZ2lydzh5VFZJMkYyeUNuN1dXNGdwTk80TzhGNWVyU3A3RmwyQ3JNXzE2a3VnNFh1Wng2Umtyby1PT2V2cEFMd0N1ZHcyRFhta1JKQ2RtVjNENkVX?oc=5)
+### [Blickwechsel Stoffwechsel - Gemeinsame Lösungen für Prävention & Versorgung in NRW ...](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
 
-2026-03-24 <span class="news-indication-tag">AVC</span>
+2026-03-24 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzB5d0p1a1FVVVpaUjBkeVRBdU54VW80ZW5oMi1BTGpTUEFTZmNqemQ5bC16Ynd5SFRQMHE3ZDdfZ1RsRVNWU1o4Z2RTWjRBN2RyajJidVdvMG9ETnFlNkdQSGNDYUhOX2gzRFdyWW1tb0lRS0YzNHpMZmdoRzdDcFdaRWRXdWcwZ2lydzh5VFZJMkYyeUNuN1dXNGdwTk80TzhGNWVyU3A3RmwyQ3JNXzE2a3VnNFh1Wng2Umtyby1PT2V2cEFMd0N1ZHcyRFhta1JKQ2RtVjNENkVX?oc=5)
+來源：[Presseportal](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
+
+---
+
+### [List of foods ‘worse for you than smoking’ as doctor issues serious warning](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
+
+2026-03-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1UybHhFbFJYUm5HSC1LdGJ2MnZxamcxcjFjdk1ZV3lMOFBPMm5tOTZESjJBeFZKdGNBbmg4NlA5aXR3bDlMUmFfR1VuNHNhYzRuZGRiZkh0dlNScVZWSm9UN29uRW43cVp2Uk1wNVN0c0hCemRUbWFzZGo0YXhRNWZSN1pSM19FejVBemJ4WjdXSlVVS2xRc2dQR1NZdWdhVjBkNjlXYw?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ permalink: /news/orlistat/
 
 ---
 
-### [Vino o birra, lo studio a sorpresa: quale bicchiere riduce del 21% rischi per cuore](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTgyTnJMY1FJVWprYU9Xb1BOYzdCOHowSTItMllCZW1iNE5vekFSeTE1TGhCMmx0TUtrNHpmOExUeTN2VWZmeFBnZmhSUDNWdGt4UUU0Sk10VXY0S2l5bmR0ZTJyZTNCWlZ1TUhiRnF4eVVranlrS21sZTJmVERCb0g1cnlLQm9UY2w3ajl5N3VsQXlncUZTN2QtYw?oc=5)
+### [Vino o birra, lo studio a sorpresa: quale bicchiere riduce del 21% i rischi per cuore?](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTgyTnJMY1FJVWprYU9Xb1BOYzdCOHowSTItMllCZW1iNE5vekFSeTE1TGhCMmx0TUtrNHpmOExUeTN2VWZmeFBnZmhSUDNWdGt4UUU0Sk10VXY0S2l5bmR0ZTJyZTNCWlZ1TUhiRnF4eVVranlrS21sZTJmVERCb0g1cnlLQm9UY2w3ajl5N3VsQXlncUZTN2QtYw?oc=5)
 
 2026-03-24 <span class="news-indication-tag">ictus</span>
 
@@ -82,11 +82,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Farmaci anti-obesità, aumenta il consumo in Trentino e si spende fino a 400 euro al mese. L'esperta: “Attenzione agli effetti collaterali. Senza terapia difficile mantenere il peso” - il Dolomiti](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWi1OejdPdHVBYi1iS0h6SlFtNWNhQXdNY28xREFqNl8wUzFrZldVUU0zQTg2OGdyNWRELXNqVGo0VmRIMVJqZHhNdUQtRlhpNm5DSlZTYUpvc2dWbGRIMTByTFNpWndPWGg1ZDlwSVlvMzcwbV9Gd0xoZ0kzdlNmOWdUQWpUYWpMN0xseUsyNDB6TTNBN1pmUXNwcnN5V0tYWG85RXVFQWtXWUZrdi1MQTYwNHlqZUxsVTZuRFM4Qlczd29aS1V3ZzZHNkZXSmxuWm9ua0I4NmxrWjg3dXZuOXhnWWNsZFlGc0dYbGtsT3UtZkZ3cEFZSXRJQndZcldxNUU5U2RzT0hUZE9DVF9iY0VEZ3EwdThSRWFOa0pTb2pjNEpaa2NHMkZ1SlJnNVVfYVhlR2dWM0c?oc=5)
+### [« La prévention permet d’éviter près de 80 % des maladies cardio-vasculaires » - Le Monde.fr](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzB5d0p1a1FVVVpaUjBkeVRBdU54VW80ZW5oMi1BTGpTUEFTZmNqemQ5bC16Ynd5SFRQMHE3ZDdfZ1RsRVNWU1o4Z2RTWjRBN2RyajJidVdvMG9ETnFlNkdQSGNDYUhOX2gzRFdyWW1tb0lRS0YzNHpMZmdoRzdDcFdaRWRXdWcwZ2lydzh5VFZJMkYyeUNuN1dXNGdwTk80TzhGNWVyU3A3RmwyQ3JNXzE2a3VnNFh1Wng2Umtyby1PT2V2cEFMd0N1ZHcyRFhta1JKQ2RtVjNENkVX?oc=5)
 
-2026-03-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+2026-03-24 <span class="news-indication-tag">AVC</span>
 
-來源：[il Dolomiti](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWi1OejdPdHVBYi1iS0h6SlFtNWNhQXdNY28xREFqNl8wUzFrZldVUU0zQTg2OGdyNWRELXNqVGo0VmRIMVJqZHhNdUQtRlhpNm5DSlZTYUpvc2dWbGRIMTByTFNpWndPWGg1ZDlwSVlvMzcwbV9Gd0xoZ0kzdlNmOWdUQWpUYWpMN0xseUsyNDB6TTNBN1pmUXNwcnN5V0tYWG85RXVFQWtXWUZrdi1MQTYwNHlqZUxsVTZuRFM4Qlczd29aS1V3ZzZHNkZXSmxuWm9ua0I4NmxrWjg3dXZuOXhnWWNsZFlGc0dYbGtsT3UtZkZ3cEFZSXRJQndZcldxNUU5U2RzT0hUZE9DVF9iY0VEZ3EwdThSRWFOa0pTb2pjNEpaa2NHMkZ1SlJnNVVfYVhlR2dWM0c?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzB5d0p1a1FVVVpaUjBkeVRBdU54VW80ZW5oMi1BTGpTUEFTZmNqemQ5bC16Ynd5SFRQMHE3ZDdfZ1RsRVNWU1o4Z2RTWjRBN2RyajJidVdvMG9ETnFlNkdQSGNDYUhOX2gzRFdyWW1tb0lRS0YzNHpMZmdoRzdDcFdaRWRXdWcwZ2lydzh5VFZJMkYyeUNuN1dXNGdwTk80TzhGNWVyU3A3RmwyQ3JNXzE2a3VnNFh1Wng2Umtyby1PT2V2cEFMd0N1ZHcyRFhta1JKQ2RtVjNENkVX?oc=5)
 
 ---
 

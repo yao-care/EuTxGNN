@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [GLP-1-Agonisten dämpfen bei Diabetes womöglich Depressionen und Angststörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
 
@@ -63,14 +63,6 @@ permalink: /news/tasimelteon/
 2026-03-24 <span class="news-indication-tag">depression</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU50ZURabEEzcEx2NEhJUjJnNks2a0tPZGJVZGdHNWNiVkt4OHY1TGVYVDdCOEMwOWZSRktFV2VOeERoR0s5TUlXOWhpQ0I0Y2luZ2tmbVhPVHdYel9zQVlmM1BSbWV2c1JLR3ZuWnhHdTBDb2dRVUM5VjYzYmthRTdRMnp3b0IyT0l5VTlWREtWdWU1QXFzdHYwa0RKdVNvUm5HeGRzaDc5ODRjMzU4VA?oc=5)
-
----
-
-### [30 ans de dépression : cette stimulation cérébrale provoque un tournant inattendu - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWEdHTEc2QkNFVlZrQ1BpWFBKc3llc0lheF9CazRtbmtiY21xTTNhTERmWXI5ei1GTEdkemxkSkZad3diczA0S2w5emgzNVNRb2I2cFBudWNObDQyeDQyaUhRcnNpbzMxZTQ5TkVfX0xWRDFKbWJJenFmbDVBcG9NREdaRHdsaDl4bkd4cGJSMzI2ME40RXc0amRzN2FSd0Noelg5WUVWSFVqcUxVWS1NVjhjdHU1bnE0RmJ3RlJsb0U2UlIwR2V3ano0STJTdTE5QVlrTWo5LXdxS3dKSVJr?oc=5)
-
-2026-03-23 <span class="news-indication-tag">dépression</span>
-
-來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWEdHTEc2QkNFVlZrQ1BpWFBKc3llc0lheF9CazRtbmtiY21xTTNhTERmWXI5ei1GTEdkemxkSkZad3diczA0S2w5emgzNVNRb2I2cFBudWNObDQyeDQyaUhRcnNpbzMxZTQ5TkVfX0xWRDFKbWJJenFmbDVBcG9NREdaRHdsaDl4bkd4cGJSMzI2ME40RXc0amRzN2FSd0Noelg5WUVWSFVqcUxVWS1NVjhjdHU1bnE0RmJ3RlJsb0U2UlIwR2V3ano0STJTdTE5QVlrTWo5LXdxS3dKSVJr?oc=5)
 
 ---
 

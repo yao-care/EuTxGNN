@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="Ritonavir 有什麼相關新聞？">
-<strong>Ritonavir</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ritonavir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ permalink: /news/ritonavir/
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [El brote de meningitis B de Reino Unido pone en guardia a los padres españoles: la Asociación Española de Pediatría propone extender la vacunación a los adolescentes - El HuffPost](https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVvV2FNdXVPOWRBNXc3NGpVWEhyanRUbExuaTR5NFpmV3BpOWFKSVhWOGdSakZhUTA2TXV3UllYRTI2Wk9uTFVWLWJ4eXRqUGNLMjBRazVyYVFNQlpOWDNJVmRqYzlQT1lTaHFqZEdKNEFlaXVQRDcyRUNTdmRRUWczcGZ5VWE4RlVHWWFYVnRDZkU5cklKc0FxYjjSAbABQVVfeXFMUEo1UURSeU9rX1R3dy1jLXlVZjdMWFR4SWdXdVIzSGljX0Q5YktNV0lnMzg1N0JVakFOMUl5V3JLV2R2R0pPX0hILXF4dWIxdGNGWF81QTJoR3cxT09qTFN5YWtqNmdpSHdBMXNfaEJrVVBFWFNwMHlKakFuUlJPdXJDejAwVUJrbGxwN0lsaDE3X09jYUo3b1BXcmNBck91NE5zc1dVTUhodEloSHZqbzM?oc=5)
+### [El brote de meningitis B de Reino Unido pone en guardia a los padres españoles: la Asociación Española de Pediatría propone extender la vacunación a los adolescentes - El HuffPost](https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVvV2FNdXVPOWRBNXc3NGpVWEhyanRUbExuaTR5NFpmV3BpOWFKSVhWOGdSakZhUTA2TXV3UllYRTI2Wk9uTFVWLWJ4eXRqUGNLMjBRazVyYVFNQlpOWDNJVmRqYzlQT1lTaHFqZEdKNEFlaXVQRDcyRUNTdmRRUWczcGZ5VWE4RlVHWWFYVnRDZkU5cklKc0FxYjg?oc=5)
 
 2026-03-24 <span class="news-indication-tag">hepatitis</span>
 
-來源：[El HuffPost](https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVvV2FNdXVPOWRBNXc3NGpVWEhyanRUbExuaTR5NFpmV3BpOWFKSVhWOGdSakZhUTA2TXV3UllYRTI2Wk9uTFVWLWJ4eXRqUGNLMjBRazVyYVFNQlpOWDNJVmRqYzlQT1lTaHFqZEdKNEFlaXVQRDcyRUNTdmRRUWczcGZ5VWE4RlVHWWFYVnRDZkU5cklKc0FxYjjSAbABQVVfeXFMUEo1UURSeU9rX1R3dy1jLXlVZjdMWFR4SWdXdVIzSGljX0Q5YktNV0lnMzg1N0JVakFOMUl5V3JLV2R2R0pPX0hILXF4dWIxdGNGWF81QTJoR3cxT09qTFN5YWtqNmdpSHdBMXNfaEJrVVBFWFNwMHlKakFuUlJPdXJDejAwVUJrbGxwN0lsaDE3X09jYUo3b1BXcmNBck91NE5zc1dVTUhodEloSHZqbzM?oc=5)
+來源：[El HuffPost](https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVvV2FNdXVPOWRBNXc3NGpVWEhyanRUbExuaTR5NFpmV3BpOWFKSVhWOGdSakZhUTA2TXV3UllYRTI2Wk9uTFVWLWJ4eXRqUGNLMjBRazVyYVFNQlpOWDNJVmRqYzlQT1lTaHFqZEdKNEFlaXVQRDcyRUNTdmRRUWczcGZ5VWE4RlVHWWFYVnRDZkU5cklKc0FxYjg?oc=5)
 
 ---
 
@@ -58,19 +58,27 @@ permalink: /news/ritonavir/
 
 ---
 
+### [Massa, muore per epatite C dopo una trasfusione con sangue infetto: ministero della Salute condannato a maxi-risarcimento](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGltd3lNeV84WTB1T3RTT2VpRVZ0TF94YkgtZE1uTWZaMm5sMzhTT1U5UVl6cjkyRkt5aHlQeTVORWItYnVMdGtUbjdQTGZtb1Z1QXFXTGF2UnNueVJnUjlsWnhsU3d5ZG1CQmNuZlAtWmhZOU9LcERCV3BNVW5xd3NhX0ZEY0xRVUl6ZFpJbWNNYlFITjhDbmFkTGFQMkcwNk9ES2N4WlJzdFJvVnAzRk0tRmZUU1Rkbm9j0gFoQVVfeXFMTkxmQ0xHWm44ejhITkRSbWYybmd0Sk44WlZqRWFvS2p4U0NwQ1BqWWdnZFJqZzM0WmRuWjNWRG1mT0J6cGtKYmx1WXlzME0xZGlUSG42Tm9RSUZsZWlJbE9LTjJmdkljSnE?oc=5)
+
+2026-03-24 <span class="news-indication-tag">epatite</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGltd3lNeV84WTB1T3RTT2VpRVZ0TF94YkgtZE1uTWZaMm5sMzhTT1U5UVl6cjkyRkt5aHlQeTVORWItYnVMdGtUbjdQTGZtb1Z1QXFXTGF2UnNueVJnUjlsWnhsU3d5ZG1CQmNuZlAtWmhZOU9LcERCV3BNVW5xd3NhX0ZEY0xRVUl6ZFpJbWNNYlFITjhDbmFkTGFQMkcwNk9ES2N4WlJzdFJvVnAzRk0tRmZUU1Rkbm9j0gFoQVVfeXFMTkxmQ0xHWm44ejhITkRSbWYybmd0Sk44WlZqRWFvS2p4U0NwQ1BqWWdnZFJqZzM0WmRuWjNWRG1mT0J6cGtKYmx1WXlzME0xZGlUSG42Tm9RSUZsZWlJbE9LTjJmdkljSnE?oc=5)
+
+---
+
+### [Epatite A, 24 casi in provincia di Latina. Controlli nei ristoranti: sei pazienti ricoverati - la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1QtaFBlY3Rab2QtOTZucGVEem9XdWZVOWxtTm1rb0l1N2R4OHRoNGc5eG5CclpuNnFUNHhNSVo2R2JjUURzNDJJbzJPZHdNZm1iUlRzQ181SlBnbWdZMW1IRlFoUDV6bFRQZ3NnWXVqcDJHS2FaTnczd2VPeW5PRnZ2VVptbWZUVzh2RE9HUjZSNGJLU0VuSlZWcTB6QVB3OHfSAacBQVVfeXFMTkgxaFJWdVNObld2aUw1OHNQc1ZUaDJIVmh3UW83d2VPTlF2SWdFaHFuZlJrd3ZWdUJFSUVud2hsdHRWaThqbjFIQW5ILUpETWNvcEpMTTJiSVNDbkxlRGdBZXB5VGlKZE1KU1U2X2VyNmkwYUppVDI5REljamVYX1ZUOVhOZDNCUWNfSkFnMUlNNXhSYVluNmYyeUQ5TU94M1VaYk1YczA?oc=5)
+
+2026-03-24 <span class="news-indication-tag">epatite</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1QtaFBlY3Rab2QtOTZucGVEem9XdWZVOWxtTm1rb0l1N2R4OHRoNGc5eG5CclpuNnFUNHhNSVo2R2JjUURzNDJJbzJPZHdNZm1iUlRzQ181SlBnbWdZMW1IRlFoUDV6bFRQZ3NnWXVqcDJHS2FaTnczd2VPeW5PRnZ2VVptbWZUVzh2RE9HUjZSNGJLU0VuSlZWcTB6QVB3OHfSAacBQVVfeXFMTkgxaFJWdVNObld2aUw1OHNQc1ZUaDJIVmh3UW83d2VPTlF2SWdFaHFuZlJrd3ZWdUJFSUVud2hsdHRWaThqbjFIQW5ILUpETWNvcEpMTTJiSVNDbkxlRGdBZXB5VGlKZE1KU1U2X2VyNmkwYUppVDI5REljamVYX1ZUOVhOZDNCUWNfSkFnMUlNNXhSYVluNmYyeUQ5TU94M1VaYk1YczA?oc=5)
+
+---
+
 ### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes - IPac Acuicultura](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
 
 2026-03-24 <span class="news-indication-tag">hepatitis</span>
 
 來源：[IPac Acuicultura](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
-
----
-
-### [Epatite A, allarme in Campania, ma Lopalco rassicura la Puglia: «Non è colpa del crudo di mare, godetevelo» - La Gazzetta del Mezzogiorno](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMWxQRjJSWTczaWotR2lBNkp2alRKMXhSS01uUFVHdU5NalhaVGVJQUhnX2wwTzdfaFNmYzY5WTdsQ2lpXzduMWdWYVc4YzRQblVsc1VQUGdnT0U2NE9NVW0tRFlLTWhGOXVLTU9tNDdzRmZRM0RjbkNqcXN2eGZOUzVYQ3BWWnBHM1Bjc3FlaHZUajNvRkk2dzhkcVJsYnpCay1FT0dVdXp6cFNxa29zNVlqTjlBQXlvVkRpY19leVhIY3pjOER6dVkySGpzR0U1aHpENWxlcnVDMHAxWUlRODFXczBnTjZ1QWFURWtWa2MwNFJyMExXSVF30gH4AUFVX3lxTFBJREctNHkwRXFqLVM4c014WXR0cWRFX0NUeGNnX0REaF91Ty1rbjVFX3NTNjkyS3h0d0F3MmpUdU5XODBKQnVhMEI3bVVScUhQV1pLQnZaRjFOaXc1SGd1aXlTQ0dqNEJDaFc0N2RyMHRYSE9zcVU5cnZGcXpESWQ0a3JXZXRtcGhtc1NCQXJEM0dCSU4tdENmMzJ0SXhLdUE2ZzY3N0ZUS3RuZnZmVDlkSEs4eDlxWDZoakFadTZObzR1RE9XRTBCZGozOF9rdV9OSTJfTllPdHp3QXdzdzhid1NNQ2E0ZEs0RGNVaUQzV2FyNkkzLWJh?oc=5)
-
-2026-03-23 <span class="news-indication-tag">epatite</span>
-
-來源：[La Gazzetta del Mezzogiorno](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMWxQRjJSWTczaWotR2lBNkp2alRKMXhSS01uUFVHdU5NalhaVGVJQUhnX2wwTzdfaFNmYzY5WTdsQ2lpXzduMWdWYVc4YzRQblVsc1VQUGdnT0U2NE9NVW0tRFlLTWhGOXVLTU9tNDdzRmZRM0RjbkNqcXN2eGZOUzVYQ3BWWnBHM1Bjc3FlaHZUajNvRkk2dzhkcVJsYnpCay1FT0dVdXp6cFNxa29zNVlqTjlBQXlvVkRpY19leVhIY3pjOER6dVkySGpzR0U1aHpENWxlcnVDMHAxWUlRODFXczBnTjZ1QWFURWtWa2MwNFJyMExXSVF30gH4AUFVX3lxTFBJREctNHkwRXFqLVM4c014WXR0cWRFX0NUeGNnX0REaF91Ty1rbjVFX3NTNjkyS3h0d0F3MmpUdU5XODBKQnVhMEI3bVVScUhQV1pLQnZaRjFOaXc1SGd1aXlTQ0dqNEJDaFc0N2RyMHRYSE9zcVU5cnZGcXpESWQ0a3JXZXRtcGhtc1NCQXJEM0dCSU4tdENmMzJ0SXhLdUE2ZzY3N0ZUS3RuZnZmVDlkSEs4eDlxWDZoakFadTZObzR1RE9XRTBCZGozOF9rdV9OSTJfTllPdHp3QXdzdzhid1NNQ2E0ZEs0RGNVaUQzV2FyNkkzLWJh?oc=5)
 
 ---
 
