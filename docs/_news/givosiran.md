@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,37 +40,29 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [Auslöser wohl Lokalspezialität: Hepatitis-Ausbruch erschüttert beliebte Urlaubsregion in Italien](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnF2U25pVld6SWFHWlkxQUlLSHhLR1NpNEI4YUpCNU00Nm5lMWpVNVhGbkxsX1p0VHkweUlweDFPSWluWFNObUwwMXhnRFViSG81MWhuQndJQXVSTEVGaWg1cmladTJMOE1JN3dsMjh1cVliZW9pRVE3SkU2SW1PSFRDalM1RmtadVVhRWhmU0pOalRNT1lLMzlzTE9rdGdVczJtMER3cEY3TUJN?oc=5)
+### [Meeresfrüchte unter Verdacht: Hepatitis-Ausbruch in Italien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhHdWUxR2Y5WVRJSFFHWmRSemlMZ1RGYUZXb1loYVFBbHZ2czVMa2xjR0Q1RGRLekIyOHhCNjlBUDRjd0NVUEpnb1ZiX2xyNTk4dnJSbV9qX1dJS2E3cXA4YkZiM0prREZ0b3BEQUVOM1FQX3I5ckRqcmhucGEtMWpSUkpzMUNIREhyTVdBTzh0bVc1YTM2UTlxVHlzTEZEZ0k2UWxFYnZqSy1vSnhRNmZxeUR4OTBQ?oc=5)
 
-2026-03-25 <span class="news-indication-tag">hepatitis</span>
+2026-03-25 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ntv](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnF2U25pVld6SWFHWlkxQUlLSHhLR1NpNEI4YUpCNU00Nm5lMWpVNVhGbkxsX1p0VHkweUlweDFPSWluWFNObUwwMXhnRFViSG81MWhuQndJQXVSTEVGaWg1cmladTJMOE1JN3dsMjh1cVliZW9pRVE3SkU2SW1PSFRDalM1RmtadVVhRWhmU0pOalRNT1lLMzlzTE9rdGdVczJtMER3cEY3TUJN?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhHdWUxR2Y5WVRJSFFHWmRSemlMZ1RGYUZXb1loYVFBbHZ2czVMa2xjR0Q1RGRLekIyOHhCNjlBUDRjd0NVUEpnb1ZiX2xyNTk4dnJSbV9qX1dJS2E3cXA4YkZiM0prREZ0b3BEQUVOM1FQX3I5ckRqcmhucGEtMWpSUkpzMUNIREhyTVdBTzh0bVc1YTM2UTlxVHlzTEZEZ0k2UWxFYnZqSy1vSnhRNmZxeUR4OTBQ?oc=5)
 
 ---
 
 ### [Studie: Um diese Uhrzeit solltest du am besten Sport machen](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
 
-2026-03-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">CKD</span>
+2026-03-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
 來源：[Blick](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
 
 ---
 
-### [Al via campagna ‘Aria di vita’, musica dà voce a ipertensione polmonare - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1dEaXBTb1NjaHRNem9HcUFGM2ZSTVlpZloxQ2kyRzNkMmJFNjdZdk4zbVNUdHU2ZzNRbDE1U3R0Y3ZJZUlGYWlkVENHaXk1RzVsaVpsc1NXejVoZU5JWVUxWnlYd1ZVbmZkSHVEbElnMHQ2R1JWeGhVcVk1LU9VVGF1dE5ta3RfVmFGa2huX0pyNUNHZDk2ZHExVFN4d2VpTlo0cHlEcFlGb3hienhraS1tOFNES1hnV3R4VkdWYWxhNll5MVdRaGMtaHdDeGlrakVvU0JOcw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1dEaXBTb1NjaHRNem9HcUFGM2ZSTVlpZloxQ2kyRzNkMmJFNjdZdk4zbVNUdHU2ZzNRbDE1U3R0Y3ZJZUlGYWlkVENHaXk1RzVsaVpsc1NXejVoZU5JWVUxWnlYd1ZVbmZkSHVEbElnMHQ2R1JWeGhVcVk1LU9VVGF1dE5ta3RfVmFGa2huX0pyNUNHZDk2ZHExVFN4d2VpTlo0cHlEcFlGb3hienhraS1tOFNES1hnV3R4VkdWYWxhNll5MVdRaGMtaHdDeGlrakVvU0JOcw?oc=5)
-
----
-
-### [Epatite A, 50 casi registrati a Roma. La Regione: "Situazione monitorata". Cosa è e come si trasmette](https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQ0Q2NW9kMm1neHY3X2dkY2QxdlBaSWNJUmFaM2ZmeWNxYVpscEtpNnFkQmdhY3NscWNDZ1VIdGNLRFpOOG14eEwwYklzbjdYVnhTTHZqd3MtZDRQYlQ1R0RzbDB0TGlZbldGeU5kUXlBbGtJa1dXMFM0VQ?oc=5)
+### [Allarme Epatite A nel Lazio: oltre 120 casi collegati alle cozze contaminate - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUl9RQkxscllLRExxclNkLUFmT3dZSEwzd0lkUGR4RWhXU19qOUsxeVZEMFRtd2Y1cHFQY1ZuWDFLTkNoMnczcW9MZHNJU2o3ekE4aEtGUjFUQy1qRkhCVGFxQXE3MGhrQlRDTWJVRmhqbG9TTjhsZTNObHo5UUN0b2tQLVRQbndYNnJmdkxESnpBT0cyMlF4TA?oc=5)
 
 2026-03-25 <span class="news-indication-tag">epatite</span>
 
-來源：[RomaToday](https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQ0Q2NW9kMm1neHY3X2dkY2QxdlBaSWNJUmFaM2ZmeWNxYVpscEtpNnFkQmdhY3NscWNDZ1VIdGNLRFpOOG14eEwwYklzbjdYVnhTTHZqd3MtZDRQYlQ1R0RzbDB0TGlZbldGeU5kUXlBbGtJa1dXMFM0VQ?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUl9RQkxscllLRExxclNkLUFmT3dZSEwzd0lkUGR4RWhXU19qOUsxeVZEMFRtd2Y1cHFQY1ZuWDFLTkNoMnczcW9MZHNJU2o3ekE4aEtGUjFUQy1qRkhCVGFxQXE3MGhrQlRDTWJVRmhqbG9TTjhsZTNObHo5UUN0b2tQLVRQbndYNnJmdkxESnpBT0cyMlF4TA?oc=5)
 
 ---
 
@@ -82,14 +74,6 @@ permalink: /news/givosiran/
 
 ---
 
-### [Kleine Änderungen im Alltag können Herzinfarktrisiko senken - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZFU1YWdmUGNreXpKVm1HTm5hWUUtMmJhaW9vb25wbzdDZ3hKWnRZWktGc05nQ21XQzl4WDlpbzk1dm5ld0w3UHNTZFJESkZwRVpyUFc3Y2g3WkRiWjRVNjRQMERjV2R1VkhHdmZJMWpzNlVnTFcxVnJMM3N2QWd0R2R0SVhFUG1aMFd6bC1ITkw1N0hYeUVVSg?oc=5)
-
-2026-03-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZFU1YWdmUGNreXpKVm1HTm5hWUUtMmJhaW9vb25wbzdDZ3hKWnRZWktGc05nQ21XQzl4WDlpbzk1dm5ld0w3UHNTZFJESkZwRVpyUFc3Y2g3WkRiWjRVNjRQMERjV2R1VkhHdmZJMWpzNlVnTFcxVnJMM3N2QWd0R2R0SVhFUG1aMFd6bC1ITkw1N0hYeUVVSg?oc=5)
-
----
-
 ### [Massa, muore per epatite C dopo una trasfusione con sangue infetto: ministero della Salute condannato a maxi-risarcimento](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGltd3lNeV84WTB1T3RTT2VpRVZ0TF94YkgtZE1uTWZaMm5sMzhTT1U5UVl6cjkyRkt5aHlQeTVORWItYnVMdGtUbjdQTGZtb1Z1QXFXTGF2UnNueVJnUjlsWnhsU3d5ZG1CQmNuZlAtWmhZOU9LcERCV3BNVW5xd3NhX0ZEY0xRVUl6ZFpJbWNNYlFITjhDbmFkTGFQMkcwNk9ES2N4WlJzdFJvVnAzRk0tRmZUU1Rkbm9j0gFoQVVfeXFMTkxmQ0xHWm44ejhITkRSbWYybmd0Sk44WlZqRWFvS2p4U0NwQ1BqWWdnZFJqZzM0WmRuWjNWRG1mT0J6cGtKYmx1WXlzME0xZGlUSG42Tm9RSUZsZWlJbE9LTjJmdkljSnE?oc=5)
 
 2026-03-24 <span class="news-indication-tag">epatite</span>
@@ -98,11 +82,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Cardiologists say one 250ml glass lowers high blood pressure back to 'normal'](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
+### [Cardiologists say one 250ml glass lowers high blood pressure back to 'normal' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
 
 2026-03-24 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEd4b1JBOWYyUmlrZTE2ekpjUEJmM1VrZXpjVmh1ZjctQVZqZ2lZQ1U3VUV0TjlkT2JvN2NZVW15MWxwcVp2QTBuRWQ5YWVnTFBFdlk2UktXNTJXQkpNb2FYTHIzbU9lTTBqcDZPTUZWbXZvaDhURzZXVC1TZi1NZGM4eTI0QdIBiwFBVV95cUxPd3d6S1loSEtNM01oZkVxMkdOcWg4Zjc5bVNnWjF0MTJaLXhkdy1CejdCQjZ5aTVsNVJYRkt4Q3oyRGJqNFE2Uk1VN25fQnhWSVV5SVU1UlNyR2pWNHhobFZPbE04VjI5WWo2a01HdXVSd2JlWGxzV1RGem9IZFByMTNEODFHVUFHZXZN?oc=5)
 
 ---
 

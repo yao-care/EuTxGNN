@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（14 則）
 
 ### [La OMS insta a acelerar el diagnóstico de tuberculosis con nuevas pruebas rápidas](https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3h4VG5lc0xheHF2d1Vxem1JUnhJWlBMYjU5cUN5VHhWQXFjc2lqaWQ2NlQyTlJpYWZhWnhybXBhQWt1eHE2dm1zQU1fcVJDZkZtSlJtUHJlcEZVWnZrX2lDOVV6eXNiXzhqejlhY1EySUM4UmFoTnR6X1d4UUNmZ3dCSzV1SW9GdUYtU0dSM0x3V3lkbjVteldCYjNOQ1U1M09BdEhnNHI2MWhyU040?oc=5)
 
@@ -64,11 +64,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Studie: Um diese Uhrzeit solltest du am besten Sport machen](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
+### ['Endometriosis left me in constant agony and doubly incontinent'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2U9IBngFBVV95cUxPeGo2RUw3NFlfMVJyZEpaNHFJNmk3VTlONU5YcktRcS1taUJTd3QtMWNQcVdfbGk5aDRTSmVrQVpNMnNmNGhmOFBIUHdzWXZveFdQNmxCWFQ2Zmt4a0dIQ1ZLN1ZBdVExMDRrV0poMnl1R29ja3l2ajY0RkVpaFlibzFHRWgwc2lqcWRIUXU4dHhwZXFqbVlXa281ZW9IQQ?oc=5)
 
 2026-03-25
 
-來源：[Blick](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2U9IBngFBVV95cUxPeGo2RUw3NFlfMVJyZEpaNHFJNmk3VTlONU5YcktRcS1taUJTd3QtMWNQcVdfbGk5aDRTSmVrQVpNMnNmNGhmOFBIUHdzWXZveFdQNmxCWFQ2Zmt4a0dIQ1ZLN1ZBdVExMDRrV0poMnl1R29ja3l2ajY0RkVpaFlibzFHRWgwc2lqcWRIUXU4dHhwZXFqbVlXa281ZW9IQQ?oc=5)
 
 ---
 
@@ -77,14 +77,6 @@ permalink: /news/multiple-sclerosis/
 2026-03-25
 
 來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
-
----
-
-### [Al via campagna ‘Aria di vita’, musica dà voce a ipertensione polmonare - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1dEaXBTb1NjaHRNem9HcUFGM2ZSTVlpZloxQ2kyRzNkMmJFNjdZdk4zbVNUdHU2ZzNRbDE1U3R0Y3ZJZUlGYWlkVENHaXk1RzVsaVpsc1NXejVoZU5JWVUxWnlYd1ZVbmZkSHVEbElnMHQ2R1JWeGhVcVk1LU9VVGF1dE5ta3RfVmFGa2huX0pyNUNHZDk2ZHExVFN4d2VpTlo0cHlEcFlGb3hienhraS1tOFNES1hnV3R4VkdWYWxhNll5MVdRaGMtaHdDeGlrakVvU0JOcw?oc=5)
-
-2026-03-25
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1dEaXBTb1NjaHRNem9HcUFGM2ZSTVlpZloxQ2kyRzNkMmJFNjdZdk4zbVNUdHU2ZzNRbDE1U3R0Y3ZJZUlGYWlkVENHaXk1RzVsaVpsc1NXejVoZU5JWVUxWnlYd1ZVbmZkSHVEbElnMHQ2R1JWeGhVcVk1LU9VVGF1dE5ta3RfVmFGa2huX0pyNUNHZDk2ZHExVFN4d2VpTlo0cHlEcFlGb3hienhraS1tOFNES1hnV3R4VkdWYWxhNll5MVdRaGMtaHdDeGlrakVvU0JOcw?oc=5)
 
 ---
 
@@ -104,11 +96,43 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Mum's warning after Bristol teen died suddenly of Meningitis B in 2010 - Bristol Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2RoQUhsZ2JkUUJwbHljZEJYeS04UXctd2lNNEtPTXdlMU5uYUcwUXE4UldQUHNaUS0wWjRkVWczSG9EVEdaRkt0Zl9DMnpYTE9xTU1YTHBIOHhIQl9UbFdha2ZUWHh1dkpkSnliVGo0UDdRLVc4cW9tY0c0VHlfRGlKNXlzelBpdzlSOE5QTWNMZw?oc=5)
+
+2026-03-25
+
+來源：[Bristol Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2RoQUhsZ2JkUUJwbHljZEJYeS04UXctd2lNNEtPTXdlMU5uYUcwUXE4UldQUHNaUS0wWjRkVWczSG9EVEdaRkt0Zl9DMnpYTE9xTU1YTHBIOHhIQl9UbFdha2ZUWHh1dkpkSnliVGo0UDdRLVc4cW9tY0c0VHlfRGlKNXlzelBpdzlSOE5QTWNMZw?oc=5)
+
+---
+
+### [Making home-cooked meals ‘cuts risk of dementia’ - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
+
+2026-03-25
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
+
+---
+
 ### [Alzheimer-Vortragsreihe startet mit Fokus auf Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHQyVzdBMFQ0YzJKMXpkYmstOTZLcXkyYUJCZll5NFlYUloyb05EaVpNd2VrTjI2ajJxdG1zWmFjMWRGOWlLNF9temRKTTRjZlNVY3hPd1BYT1h4QTgzdUdjNGNSQVlnTndjdjJBYkVzZjB1RnlJbDc5RHBvczBtRmI2Y01aTElDMFpvb1FYNHBvOTNpMlU0Rmt2dktCSEhpLU9XWDI2NmREVTdxT3BqTGM0dGRTU00?oc=5)
 
 2026-03-25
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHQyVzdBMFQ0YzJKMXpkYmstOTZLcXkyYUJCZll5NFlYUloyb05EaVpNd2VrTjI2ajJxdG1zWmFjMWRGOWlLNF9temRKTTRjZlNVY3hPd1BYT1h4QTgzdUdjNGNSQVlnTndjdjJBYkVzZjB1RnlJbDc5RHBvczBtRmI2Y01aTElDMFpvb1FYNHBvOTNpMlU0Rmt2dktCSEhpLU9XWDI2NmREVTdxT3BqTGM0dGRTU00?oc=5)
+
+---
+
+### [Teen girl dies of meningitis in Spanish hols hotspot before Easter getaways - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTNZS0pOalpiY2YtZndLWHpKZmFTcVRRZk5IbWk5djlBLWlxT3ZZalZQalRZOTBiRDV4QzFnNUM5VWlaQmJrb1AzUkwzTGM3OXQzZDZwUldrZktCY2U5LTRXdXV2NGtKU1IyQjY4SU9tc1ZLQS1kN25jQ1J6YTJHMThBVnJCRm1lQkNRWnZtVzBZcnNqd3NtWnQ5eWtCMmM0bmt3?oc=5)
+
+2026-03-25
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTNZS0pOalpiY2YtZndLWHpKZmFTcVRRZk5IbWk5djlBLWlxT3ZZalZQalRZOTBiRDV4QzFnNUM5VWlaQmJrb1AzUkwzTGM3OXQzZDZwUldrZktCY2U5LTRXdXV2NGtKU1IyQjY4SU9tc1ZLQS1kN25jQ1J6YTJHMThBVnJCRm1lQkNRWnZtVzBZcnNqd3NtWnQ5eWtCMmM0bmt3?oc=5)
+
+---
+
+### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds | Health - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
+
+2026-03-24
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
 
 ---
 
@@ -128,19 +152,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [La tubercolosi esiste ancora, focus su una malattia dimenticata - La Provincia di Cremona](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2JxajVraTlZUXl3NGJPMTJvT3ZUaWdMVWdxNTRuVEdxQko3UjlZUEJQMEM0QkZNTEg4ZHF5ZGlVMFdsNmtLckpVRk5yWnE3QmdZb3BpckppZ0dBZFhtU2pXSVU4R2ItTXpjLWxYRlczQ3FJT0pHM3dfMWdoRXVyUFJKNFhMemhkME51WTllcms0d1FZWkRMeHpmNERVOHZnUGhyRUFFNnhsZE4zQzNpNzduVEUxdjA?oc=5)
+### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak - The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 2026-03-24
 
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2JxajVraTlZUXl3NGJPMTJvT3ZUaWdMVWdxNTRuVEdxQko3UjlZUEJQMEM0QkZNTEg4ZHF5ZGlVMFdsNmtLckpVRk5yWnE3QmdZb3BpckppZ0dBZFhtU2pXSVU4R2ItTXpjLWxYRlczQ3FJT0pHM3dfMWdoRXVyUFJKNFhMemhkME51WTllcms0d1FZWkRMeHpmNERVOHZnUGhyRUFFNnhsZE4zQzNpNzduVEUxdjA?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 ---
 
-### [Verdopplung der MS-Fälle in England: Fortschritte und Herausforderungen - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFNxTVVUNjBncnBIYjdnOXlPS0JydGpSNDA1REFSRk5CQUh4MkJUWHZDOGZTNjhfTEtFdjFYQ3d5c19sa2NGN29zM3o5bnRudUlzNFdCeWdYWXpWbm5aZnl5U3JKcjZoa2czdXFIOGFocWlvMmdsVmIyeDltN2R0QnFrTmVpc0o3ajJnRDd5bzEzWE9vb2ZTMzVHdnNSQzhLb1RrWGJB?oc=5)
+### [Giornata mondiale della tubercolosi, in Europa 200mila casi in un anno - Sky TG24](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEwwMmFTMHhZdDZHbmp3cW93MlUzOU1RMVd0ZTJWMmZFTVNMeWNMUk1TZERUYWpvcS1VemhWUzVZUW9XSk0yMV9iTVJna2c5UzFZNU1qVGNlNTBmN3ZXbEpTMHpjRUpSX2UxMkFSVEhMRlRDZnRneTUtbGVwVlpDNWNfVnpGMHZIeF9aS1NUYmhqUlR0TUE?oc=5)
 
-2026-03-23
+2026-03-24
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFNxTVVUNjBncnBIYjdnOXlPS0JydGpSNDA1REFSRk5CQUh4MkJUWHZDOGZTNjhfTEtFdjFYQ3d5c19sa2NGN29zM3o5bnRudUlzNFdCeWdYWXpWbm5aZnl5U3JKcjZoa2czdXFIOGFocWlvMmdsVmIyeDltN2R0QnFrTmVpc0o3ajJnRDd5bzEzWE9vb2ZTMzVHdnNSQzhLb1RrWGJB?oc=5)
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEwwMmFTMHhZdDZHbmp3cW93MlUzOU1RMVd0ZTJWMmZFTVNMeWNMUk1TZERUYWpvcS1VemhWUzVZUW9XSk0yMV9iTVJna2c5UzFZNU1qVGNlNTBmN3ZXbEpTMHpjRUpSX2UxMkFSVEhMRlRDZnRneTUtbGVwVlpDNWNfVnpGMHZIeF9aS1NUYmhqUlR0TUE?oc=5)
 
 ---
 

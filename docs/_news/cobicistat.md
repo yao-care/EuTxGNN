@@ -42,19 +42,19 @@ permalink: /news/cobicistat/
 
 ## 相關新聞（5 則）
 
-### [Auslöser wohl Lokalspezialität: Hepatitis-Ausbruch erschüttert beliebte Urlaubsregion in Italien](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnF2U25pVld6SWFHWlkxQUlLSHhLR1NpNEI4YUpCNU00Nm5lMWpVNVhGbkxsX1p0VHkweUlweDFPSWluWFNObUwwMXhnRFViSG81MWhuQndJQXVSTEVGaWg1cmladTJMOE1JN3dsMjh1cVliZW9pRVE3SkU2SW1PSFRDalM1RmtadVVhRWhmU0pOalRNT1lLMzlzTE9rdGdVczJtMER3cEY3TUJN?oc=5)
+### [Meeresfrüchte unter Verdacht: Hepatitis-Ausbruch in Italien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhHdWUxR2Y5WVRJSFFHWmRSemlMZ1RGYUZXb1loYVFBbHZ2czVMa2xjR0Q1RGRLekIyOHhCNjlBUDRjd0NVUEpnb1ZiX2xyNTk4dnJSbV9qX1dJS2E3cXA4YkZiM0prREZ0b3BEQUVOM1FQX3I5ckRqcmhucGEtMWpSUkpzMUNIREhyTVdBTzh0bVc1YTM2UTlxVHlzTEZEZ0k2UWxFYnZqSy1vSnhRNmZxeUR4OTBQ?oc=5)
 
-2026-03-25 <span class="news-indication-tag">hepatitis</span>
+2026-03-25 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ntv](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnF2U25pVld6SWFHWlkxQUlLSHhLR1NpNEI4YUpCNU00Nm5lMWpVNVhGbkxsX1p0VHkweUlweDFPSWluWFNObUwwMXhnRFViSG81MWhuQndJQXVSTEVGaWg1cmladTJMOE1JN3dsMjh1cVliZW9pRVE3SkU2SW1PSFRDalM1RmtadVVhRWhmU0pOalRNT1lLMzlzTE9rdGdVczJtMER3cEY3TUJN?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhHdWUxR2Y5WVRJSFFHWmRSemlMZ1RGYUZXb1loYVFBbHZ2czVMa2xjR0Q1RGRLekIyOHhCNjlBUDRjd0NVUEpnb1ZiX2xyNTk4dnJSbV9qX1dJS2E3cXA4YkZiM0prREZ0b3BEQUVOM1FQX3I5ckRqcmhucGEtMWpSUkpzMUNIREhyTVdBTzh0bVc1YTM2UTlxVHlzTEZEZ0k2UWxFYnZqSy1vSnhRNmZxeUR4OTBQ?oc=5)
 
 ---
 
-### [Epatite A, 50 casi registrati a Roma. La Regione: "Situazione monitorata". Cosa è e come si trasmette](https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQ0Q2NW9kMm1neHY3X2dkY2QxdlBaSWNJUmFaM2ZmeWNxYVpscEtpNnFkQmdhY3NscWNDZ1VIdGNLRFpOOG14eEwwYklzbjdYVnhTTHZqd3MtZDRQYlQ1R0RzbDB0TGlZbldGeU5kUXlBbGtJa1dXMFM0VQ?oc=5)
+### [Allarme Epatite A nel Lazio: oltre 120 casi collegati alle cozze contaminate - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUl9RQkxscllLRExxclNkLUFmT3dZSEwzd0lkUGR4RWhXU19qOUsxeVZEMFRtd2Y1cHFQY1ZuWDFLTkNoMnczcW9MZHNJU2o3ekE4aEtGUjFUQy1qRkhCVGFxQXE3MGhrQlRDTWJVRmhqbG9TTjhsZTNObHo5UUN0b2tQLVRQbndYNnJmdkxESnpBT0cyMlF4TA?oc=5)
 
 2026-03-25 <span class="news-indication-tag">epatite</span>
 
-來源：[RomaToday](https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQ0Q2NW9kMm1neHY3X2dkY2QxdlBaSWNJUmFaM2ZmeWNxYVpscEtpNnFkQmdhY3NscWNDZ1VIdGNLRFpOOG14eEwwYklzbjdYVnhTTHZqd3MtZDRQYlQ1R0RzbDB0TGlZbldGeU5kUXlBbGtJa1dXMFM0VQ?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUl9RQkxscllLRExxclNkLUFmT3dZSEwzd0lkUGR4RWhXU19qOUsxeVZEMFRtd2Y1cHFQY1ZuWDFLTkNoMnczcW9MZHNJU2o3ekE4aEtGUjFUQy1qRkhCVGFxQXE3MGhrQlRDTWJVRmhqbG9TTjhsZTNObHo5UUN0b2tQLVRQbndYNnJmdkxESnpBT0cyMlF4TA?oc=5)
 
 ---
 

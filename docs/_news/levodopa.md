@@ -52,7 +52,7 @@ permalink: /news/levodopa/
 
 ### [Scientists create blood test that predicts dementia 25 years before symptoms appear](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
 
-2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-03-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
 
@@ -60,7 +60,7 @@ permalink: /news/levodopa/
 
 ### [Making home-cooked meals ‘cuts risk of dementia’ - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
 
-2026-03-25 <span class="news-indication-tag">dementia</span>
+2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
 
@@ -76,7 +76,7 @@ permalink: /news/levodopa/
 
 ### [Severe UTIs May Be an Overlooked Dementia Risk Factor](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1haWdQTFQxb3RMbnBsVTBXckZPYXJ6ZEVBYlZXVUpqWEI3MTRCVXRTYkhQQXZwQ1dkcmY1ZTh0MXdWc2hOVTNzb3o5OVFwM1ljMHRKYTNhUHU0Ny1fM1lIS2NMZGJJUG9uM2JKNUVZMWJqNDU4RDRtS1FtbWk0Wkd0R3kzcXNnOGc?oc=5)
 
-2026-03-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-24 <span class="news-indication-tag">dementia</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1haWdQTFQxb3RMbnBsVTBXckZPYXJ6ZEVBYlZXVUpqWEI3MTRCVXRTYkhQQXZwQ1dkcmY1ZTh0MXdWc2hOVTNzb3o5OVFwM1ljMHRKYTNhUHU0Ny1fM1lIS2NMZGJJUG9uM2JKNUVZMWJqNDU4RDRtS1FtbWk0Wkd0R3kzcXNnOGc?oc=5)
 

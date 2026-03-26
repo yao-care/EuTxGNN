@@ -14,7 +14,7 @@ permalink: /news/brigatinib/
 ---
 
 <p class="key-answer" data-question="Brigatinib 有什麼相關新聞？">
-<strong>Brigatinib</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brigatinib</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ permalink: /news/brigatinib/
 <p><a href="{{ '/drugs/brigatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（25 則）
+
+### [HRT patches can help treat prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0NPTlFwdks1WDdPdWEtNzZjZUw3ZlNtNG05UHE4ZnFGRllCNDVVX0FWcHoxNTE5OXJwcWhTNU8tMlp6dGtVQlRxaVBiMFlaN3g2REpBb0F6dWNpZkU1RzFRY3oyVVhVUmgxejRRV3FmUmhNcTNEQ195eTlWUk92SFVoSlhJY2JPeFpiQjFYajJSQmxYa1N1TUd5M2N0amJuVUEzSGdR?oc=5)
+
+2026-03-25 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0NPTlFwdks1WDdPdWEtNzZjZUw3ZlNtNG05UHE4ZnFGRllCNDVVX0FWcHoxNTE5OXJwcWhTNU8tMlp6dGtVQlRxaVBiMFlaN3g2REpBb0F6dWNpZkU1RzFRY3oyVVhVUmgxejRRV3FmUmhNcTNEQ195eTlWUk92SFVoSlhJY2JPeFpiQjFYajJSQmxYa1N1TUd5M2N0amJuVUEzSGdR?oc=5)
+
+---
 
 ### [El CNIO revela cómo las células tumorales modifican el cerebro para impulsar la metástasis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFdYOXFvc3ZGUFg0Z296WFRJeF9LMFlLb1phaWluZ0RqZGdsbndXVkEtTHVNQWFwaWxOMVE4Mk15SW5Md3ZxeDAzTExEQ2lBUjUyd2FScnUtcE9kTUpqWGVKU21kRFNpN1pFQlFlNUZOSEE2TVRyMjdsdFZmOUN2SXpNZncwaUxMTEg5ak45bjQ5QlpGVWdwX01vUWFzYjFVTHJSLUZFZExvdVFNZ1lzZ1pWbG5zRW9odVc2S2Ewa19RZ9IBxwFBVV95cUxQUTVadDlUZDhzb3pVUFlPZlp6WWhRTEt4VDlIZWc3ejJRUExlT0NwbVktdDYyT1BYWkdXdmRBcUVJWm5INHRqZzRqazVSY2NGMU81X0h3OUpUZ2NVTUpnUnNHZFpIcEVEeVRYaUpFbDc4Vlo1QzNhTVlTSkhCb0FPeFpKZ3JEQUZqUGVmN2VzZTlaM0dQU1c4U1Y1a0NHbzlxTzBXZHluWWVVa0JobzZNbjdhOGl5bFFNaVJ6dnB4SlBwem5nMEdF?oc=5)
 
@@ -50,27 +58,27 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Breites Bündnis für Krebsprävention bei HPV-Impfgipfel in München - radio schwaben](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ1FjamhfR1pkVFk2ZTBxcU1HQUpOelNIaW5rczhVUVlHMWhITmk1YUdHaEpsQnQ5bWdpSFRZMHUzeXVOLUpjbDZhbUNGN3RKTW5MNXhfM1kzYnFIbU9IZG1KeVdCaVV6M0I2eFBNdjJKMDE5ZkFzWEE5cGVHUzJrelV5NzNXa2NQcWtWTjFfRVZtUkxoVlJrblJmRkhlMXJfMmdEcGNLVGhiQQ?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[radio schwaben](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ1FjamhfR1pkVFk2ZTBxcU1HQUpOelNIaW5rczhVUVlHMWhITmk1YUdHaEpsQnQ5bWdpSFRZMHUzeXVOLUpjbDZhbUNGN3RKTW5MNXhfM1kzYnFIbU9IZG1KeVdCaVV6M0I2eFBNdjJKMDE5ZkFzWEE5cGVHUzJrelV5NzNXa2NQcWtWTjFfRVZtUkxoVlJrblJmRkhlMXJfMmdEcGNLVGhiQQ?oc=5)
-
----
-
-### [Chaos im Lymphknoten begünstigt den Krebs - Berlin Institute of Health](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUVzQ2pYcnJFVmVaN3BhV0RTaGxQSWphWjFjZXlzb1JNbUxSbjBrOHdET3A5REtZM0szOW50OWZnSHFsMlpHdXYxMkhxcnJJRTNyQ3FHclVXUkpBVWFDZDFzUjN6V1hoM0VMMmpxWGlSOVM0V19YYjhwaFBEd0sxYlBEU0s?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[Berlin Institute of Health](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUVzQ2pYcnJFVmVaN3BhV0RTaGxQSWphWjFjZXlzb1JNbUxSbjBrOHdET3A5REtZM0szOW50OWZnSHFsMlpHdXYxMkhxcnJJRTNyQ3FHclVXUkpBVWFDZDFzUjN6V1hoM0VMMmpxWGlSOVM0V19YYjhwaFBEd0sxYlBEU0s?oc=5)
-
----
-
-### [Come allenare il sistema immunitario: vaccini e stili di vita - Corriere della Sera](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0FqcmM2UFdoTEJVZ2d3SndoRnhHNUUzREtnTURUUXNrakJ1dmsyN0FOS2pTSjhHb3FCU1F1N1NZLXVOcWpYOE9rNTJEV2hEbnNZZlc0YjJQYnJUU0Z6VnQ0SE9zRjlURkxkc212QnlCUHhwUk5ZUlNDOENULXBQWFVVel9RUUVGX2NlaFZaTE8tS21JaXlGOEd3MDRmM0pFV19qSXJMeUZiNEdxTU5nbXFMcTJYaW5zYWY1N2dUaw?oc=5)
+### [Dolore cronico e crisi acute per i malati di cancro (e non solo): quali farmaci oppiacei servono e come si sceglie la terapia - Corriere della Sera](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNb1gwdVptelVxUzhqUFpxaUxKUm9lbEQ3cnZxZmlreHUzbUdBcXk5eGhYZEl4OV8yQkwyaTlGWUhHRVNUQjRXTlNDQ1l2U2hBMzlzcEJxTERHYVUtQzBYQ2VsdmVwV210T3ZtVWhmczhOSjNPcFJPV0dkekhvMURvSDQzWTZFdjh6a0x3Z1B6LWdZdEg2OVA3dFBMb0lWVjg5STVRTlU5d2lpOVpwSVd0ZlZKNGRHU1NnZk1OTXBCNzlNcUJoY1FUNEpjUjBEZjJXeWVTdnluWUNWX3ZvLUNtVlRMUnhtWVVscDJvM1JkY1Etc1lqQTJtWnl4aFduTHJDbTlmRUM1b2FPYVZKSzVkNFdxYzAxbUdlTmtURDdpY3NxQkJ5NlR4WkpnR1FnV281aXd0b2JFbDRpUEhfWUlCbjdCaXM5QWtV0gHOAkFVX3lxTE9GVEUzcHZQa2lvTTVUOFNxZzMzQWJ6ZmRjMERUOGlwcEx6bk5LVlBkWnQyaXFVT2pUM3NpV2o1MFFZTkhqX3Z4d3JheG0td1ozczZ1R2EyVFJDZnpiYlMxZDl6ZG4tSE9QVlRKc3ZaSlBPOHlpeTEyblRqSTByV19BY08zbUkxa0ttNzh0YTFWclNvYmlSVUc5NExSY0xyMlRzQzNMSHU4SVM1VnVQZkJsOWdiNEozczVsWlFoMENFR3NkZERNTG9yVlJvOXAzTVQzY294dml2YjlLdXFsV19PNC11RnlfbkoyUXBuZUFuV0ZOdHQyZHFtMjVrR2RucnVrb21IZkViZE91cDI0bnkwTFJjaXZZMmNoWXIzMjY0Rzc0dDktY1piVmZ0Z1hQMWpRYy1BbFZua3VlRTZrUzh6Q2JxZ21ZR0hsNm5fdGc?oc=5)
 
 2026-03-25 <span class="news-indication-tag">cancro</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0FqcmM2UFdoTEJVZ2d3SndoRnhHNUUzREtnTURUUXNrakJ1dmsyN0FOS2pTSjhHb3FCU1F1N1NZLXVOcWpYOE9rNTJEV2hEbnNZZlc0YjJQYnJUU0Z6VnQ0SE9zRjlURkxkc212QnlCUHhwUk5ZUlNDOENULXBQWFVVel9RUUVGX2NlaFZaTE8tS21JaXlGOEd3MDRmM0pFV19qSXJMeUZiNEdxTU5nbXFMcTJYaW5zYWY1N2dUaw?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNb1gwdVptelVxUzhqUFpxaUxKUm9lbEQ3cnZxZmlreHUzbUdBcXk5eGhYZEl4OV8yQkwyaTlGWUhHRVNUQjRXTlNDQ1l2U2hBMzlzcEJxTERHYVUtQzBYQ2VsdmVwV210T3ZtVWhmczhOSjNPcFJPV0dkekhvMURvSDQzWTZFdjh6a0x3Z1B6LWdZdEg2OVA3dFBMb0lWVjg5STVRTlU5d2lpOVpwSVd0ZlZKNGRHU1NnZk1OTXBCNzlNcUJoY1FUNEpjUjBEZjJXeWVTdnluWUNWX3ZvLUNtVlRMUnhtWVVscDJvM1JkY1Etc1lqQTJtWnl4aFduTHJDbTlmRUM1b2FPYVZKSzVkNFdxYzAxbUdlTmtURDdpY3NxQkJ5NlR4WkpnR1FnV281aXd0b2JFbDRpUEhfWUlCbjdCaXM5QWtV0gHOAkFVX3lxTE9GVEUzcHZQa2lvTTVUOFNxZzMzQWJ6ZmRjMERUOGlwcEx6bk5LVlBkWnQyaXFVT2pUM3NpV2o1MFFZTkhqX3Z4d3JheG0td1ozczZ1R2EyVFJDZnpiYlMxZDl6ZG4tSE9QVlRKc3ZaSlBPOHlpeTEyblRqSTByV19BY08zbUkxa0ttNzh0YTFWclNvYmlSVUc5NExSY0xyMlRzQzNMSHU4SVM1VnVQZkJsOWdiNEozczVsWlFoMENFR3NkZERNTG9yVlJvOXAzTVQzY294dml2YjlLdXFsV19PNC11RnlfbkoyUXBuZUFuV0ZOdHQyZHFtMjVrR2RucnVrb21IZkViZE91cDI0bnkwTFJjaXZZMmNoWXIzMjY0Rzc0dDktY1piVmZ0Z1hQMWpRYy1BbFZua3VlRTZrUzh6Q2JxZ21ZR0hsNm5fdGc?oc=5)
+
+---
+
+### [Vimentina e metastasi, colpa di una proteina se alcuni tumori si diffondono di più - Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0JJb1Z6dWFLblEyZ0tvcU9sMmpkTjdfS0pjWHNrSEkzVUR6X1lUNHIwblJfQnQwendjRVNKZHo1V3k0SmZ5QkwyRUFpRDdIbVdhN1V4VW9LTVpOZW5SVmsybUpCTUlWdkJlSXoyQjdldEVUZHFpTVY1ZkdaWFZzdTNfVHB1bmxha0o5WjBlcElzM3R3cUdNSWdqQTRXaUhXZ3hnV09XQjTSAaIBQVVfeXFMT3kySjZaN24zbnVuUVo3aUpfMTk2S2ZGaTVHdmg0S0p1eEtpZHdNWXlOSWlLamhCMnVvd1llTVNaM0hmb1pRQ2dLdm0zRC1aOGlpdTJKRlMzQngtZ0ZaVnBMZEhhOVJNclRJcGpNRFZqMFFOeUhnY0taNDZSWGRGbzB5LXh5R2ktSHQ3cDFrbl80RmJMaXdSdDA4MGV0czFtTEV3?oc=5)
+
+2026-03-25 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0JJb1Z6dWFLblEyZ0tvcU9sMmpkTjdfS0pjWHNrSEkzVUR6X1lUNHIwblJfQnQwendjRVNKZHo1V3k0SmZ5QkwyRUFpRDdIbVdhN1V4VW9LTVpOZW5SVmsybUpCTUlWdkJlSXoyQjdldEVUZHFpTVY1ZkdaWFZzdTNfVHB1bmxha0o5WjBlcElzM3R3cUdNSWdqQTRXaUhXZ3hnV09XQjTSAaIBQVVfeXFMT3kySjZaN24zbnVuUVo3aUpfMTk2S2ZGaTVHdmg0S0p1eEtpZHdNWXlOSWlLamhCMnVvd1llTVNaM0hmb1pRQ2dLdm0zRC1aOGlpdTJKRlMzQngtZ0ZaVnBMZEhhOVJNclRJcGpNRFZqMFFOeUhnY0taNDZSWGRGbzB5LXh5R2ktSHQ3cDFrbl80RmJMaXdSdDA4MGV0czFtTEV3?oc=5)
+
+---
+
+### [La vacunación frente al VPH y el cribado consolidan el descenso del cáncer de cuello uterino en España - Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxOMktkNk9VbXRwb1U2SWlsR2tYdktqVHBHdWdaN1phbFlqS0xmN1lSeGZNai03TXVZOGxuRExCYmpOeHZhVG5jN2xtYkFxQ1oxOHN6bUxab1c1UkppdVBralRsai1VZ3Z5YmhGMkV4X3FBREtzblpHVW4wd3dWS2dXNFJUZGFMMDFONF9TdVNMWElYWXBXZ1d3RjhQWlhUYm5sUnB3cWQwUmpCdXY5b1Q1UG5XbkJ1QXFhaGVNckdPZUhWRnJ1ZHc3MG4wd0FYVUVrVElDdFVTbnRnS2tPRVRVc1MxZDZvQU5Fb0ZWODdEQVl3SHlYNTdIMnVvazZ3dWxaQlBhSDMtOA?oc=5)
+
+2026-03-25 <span class="news-indication-tag">tumor</span>
+
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxOMktkNk9VbXRwb1U2SWlsR2tYdktqVHBHdWdaN1phbFlqS0xmN1lSeGZNai03TXVZOGxuRExCYmpOeHZhVG5jN2xtYkFxQ1oxOHN6bUxab1c1UkppdVBralRsai1VZ3Z5YmhGMkV4X3FBREtzblpHVW4wd3dWS2dXNFJUZGFMMDFONF9TdVNMWElYWXBXZ1d3RjhQWlhUYm5sUnB3cWQwUmpCdXY5b1Q1UG5XbkJ1QXFhaGVNckdPZUhWRnJ1ZHc3MG4wd0FYVUVrVElDdFVTbnRnS2tPRVRVc1MxZDZvQU5Fb0ZWODdEQVl3SHlYNTdIMnVvazZ3dWxaQlBhSDMtOA?oc=5)
 
 ---
 
@@ -92,7 +100,7 @@ permalink: /news/brigatinib/
 
 ### [Scientists create blood test that predicts dementia 25 years before symptoms appear](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
 
-2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-03-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
 
@@ -108,7 +116,7 @@ permalink: /news/brigatinib/
 
 ### [Making home-cooked meals ‘cuts risk of dementia’ - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
 
-2026-03-25 <span class="news-indication-tag">dementia</span>
+2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
 
@@ -146,6 +154,14 @@ permalink: /news/brigatinib/
 
 ---
 
+### [Radiotherapie bei Krebs: Diese Maßnahmen schützen den Darm - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxlTEU3ckEtZklPMWdha3NUaXFuQ0VsODhOLWY4Z0VsOVJzSjlDdi1xeWEzakxYeHJybkhyU2hkeEVycEtsZC1VYWVENkdaQk0yX0N1c0VsdEZ2VjdLb1JNWmZSS2M1VFJ2cFBlZE55cmxoUHVobUVIZ1AzZ2J1TVFOMXBRcXVoLWE1MlJ4QWpNUHlYWHhxVVBDNWVZZnYyZzBENXNzOWV3UVdFUnc?oc=5)
+
+2026-03-25 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxlTEU3ckEtZklPMWdha3NUaXFuQ0VsODhOLWY4Z0VsOVJzSjlDdi1xeWEzakxYeHJybkhyU2hkeEVycEtsZC1VYWVENkdaQk0yX0N1c0VsdEZ2VjdLb1JNWmZSS2M1VFJ2cFBlZE55cmxoUHVobUVIZ1AzZ2J1TVFOMXBRcXVoLWE1MlJ4QWpNUHlYWHhxVVBDNWVZZnYyZzBENXNzOWV3UVdFUnc?oc=5)
+
+---
+
 ### [Polyurethane coating reduces implant complications after mastectomy, cancer study finds - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3d0V2p1aDF5SkJtc2VzRmU5QndKOWZjNFdiUXU5NjBtNzNQTjJtNE5wWFFoRkc1U3ZFYkNRZm9GN3RPbFlIdDRIZTZPV0xqZUhXaE9uQ1BjaGNFZ215cFBFbWNzczYxd0luZEhHWnVqSkxwMk9HV1BTcjlNcFd0ZTA2bjMxZk95VVU3dEtIZG1MME9xbXNyTVZvNUdIOGFNbmx1aTdydWV2TXFmMk1fYzJVRDNlTWxMUjBLSG1ReFNpX3B1dFRLeF80Y3ozVk0?oc=5)
 
 2026-03-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -164,7 +180,7 @@ permalink: /news/brigatinib/
 
 ### [Severe UTIs May Be an Overlooked Dementia Risk Factor](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1haWdQTFQxb3RMbnBsVTBXckZPYXJ6ZEVBYlZXVUpqWEI3MTRCVXRTYkhQQXZwQ1dkcmY1ZTh0MXdWc2hOVTNzb3o5OVFwM1ljMHRKYTNhUHU0Ny1fM1lIS2NMZGJJUG9uM2JKNUVZMWJqNDU4RDRtS1FtbWk0Wkd0R3kzcXNnOGc?oc=5)
 
-2026-03-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-24 <span class="news-indication-tag">dementia</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1haWdQTFQxb3RMbnBsVTBXckZPYXJ6ZEVBYlZXVUpqWEI3MTRCVXRTYkhQQXZwQ1dkcmY1ZTh0MXdWc2hOVTNzb3o5OVFwM1ljMHRKYTNhUHU0Ny1fM1lIS2NMZGJJUG9uM2JKNUVZMWJqNDU4RDRtS1FtbWk0Wkd0R3kzcXNnOGc?oc=5)
 
@@ -223,14 +239,6 @@ permalink: /news/brigatinib/
 2026-03-24 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVlEwb3JidWVUMlh3VUVORlAzUE40SWtKb0dHTUFVLXdqQUVjZVNiQjNiVUt3bzU1TUFrNTR0U0Y4dF9VRF9hQmlreG9ERDIwQ0lSZXRwNnhGc3Mwb1QzSl9xUk9RT1NfUXdDTnU1M1NrOHlDVnNZYkhOYnJMM2s1Z0ZzUzBDVnp0Q2xkRTdDLTJEMEtGLUZFOUhnaGtTU3BlNmp1Mi1zWXZQSFpNd0FoUlRuM3JfVlZ4d0YwLVRteWFMdjN0Vm9mLXpNZ0JtTkFkZkVLOWtla1VYVk5pWGRGZ1BleDk2d0txUDdNWC03TE5PdS1ybXM4ajBEbFZHUDk4OTRTNUJHejZGWkdRdU9vcktPLUNvNzhra1VUa0gxRXh4bEhHV0ltLXFONDJ3Rkc5WDZ0czVFcnl3Umd4Ni0tMtIBxgJBVV95cUxOVDc4TUxXa0I1QlFnZHBwNDR2ZlZGbmZ2NGhJUFVEUFBkZmw4QkprdTBHRmkySTUxaFphMmtEOW1uUHFMR05GTlJLWUx0b18wNExzWXhBRjFHX0V2dUg5V2R2V181QmRURENuVC1HdlNzUGFjckJUU3hURUZvOTZFc3RXb2JwY2pmZWxoRDljWmxnWVkwYUtmNjl3emlLaHJkRVlrNHBhSDhBRkkwUjlXNFJsNGFrWlA2cDZLSGF1amVURkdHcmFQdThQS0xRSVV6LU9xLUhUQXFJeGYzdGp3R0NVODhtM044enhyZ0JBQVhpdHlYSG1wYU9pVHVrcmNxaDBOTGt1V2VDelpNcE94UU1nSlduZTRpR0JYVWQ2NkU5M1hHWnpaY2NCd240NDg5Xzh4enAycFc3Wkw2UlJLNllpMEpJZw?oc=5)
-
----
-
-### [Safran: Mehr als nur ein Gewürz - Superfood bei ADHS und Krebs?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjlmRk1PVVZnamFJWDVYczRTenZYWDA3RWVQSV9pOUNOTXVzckdTMFdvQkFhX2dEWW1GaE1oZ2J4NkJ0LWhBOXQwTmlRRFQ0MTVodXFlZUFWc19DVm9Oa2RqRXl5Vjl5TURsQkR0T2hYbkZhMzJfU2FJaTd5alBMc2JJSklYTV9CeF9DQi1BNERnVjliQmlLT2FvM0ljN1c0dFNGMExEa1oyQWVjOEZ2QXI3MXRaRzdPOXlDQ2pIUGNhM1VtVmdMUkFGNUJlQTMx?oc=5)
-
-2026-03-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjlmRk1PVVZnamFJWDVYczRTenZYWDA3RWVQSV9pOUNOTXVzckdTMFdvQkFhX2dEWW1GaE1oZ2J4NkJ0LWhBOXQwTmlRRFQ0MTVodXFlZUFWc19DVm9Oa2RqRXl5Vjl5TURsQkR0T2hYbkZhMzJfU2FJaTd5alBMc2JJSklYTV9CeF9DQi1BNERnVjliQmlLT2FvM0ljN1c0dFNGMExEa1oyQWVjOEZ2QXI3MXRaRzdPOXlDQ2pIUGNhM1VtVmdMUkFGNUJlQTMx?oc=5)
 
 ---
 

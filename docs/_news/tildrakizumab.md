@@ -68,7 +68,7 @@ permalink: /news/tildrakizumab/
 
 ### [Stoffwechsel: Diabetes Risiko steigt durch Übergewicht je nach Geschlecht](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
-2026-03-24 <span class="news-indication-tag">diabetes</span>
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
@@ -94,7 +94,7 @@ permalink: /news/tildrakizumab/
 
 2026-03-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[News.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
+來源：[news.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
 
 ---
 

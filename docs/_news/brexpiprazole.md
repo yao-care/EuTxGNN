@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [La intervención sobre la microbiota intestinal ofrece potencial en la depresión adolescente - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEE1clBteGtQWHJUVmdnNFpFR21BN2pMQUR1QlVKQ1lKVks5Q3ZoQXNWbURoSmlhZUJlaUpxWU9SWXBTbUFxT3RhdzEzZk1hZW1uZHBSTGZxV2o3bTlyV3JEWE53SDJfUmktUC1lTlhwVXJEeW1PVEI4N1pYTDFDWmNXUXBZSnhPSkJEQ2Q2cWZObkxYZ3o2LU80MWxwWDJodTBsNFItamRQd3RaS3lWcWpJX2NHR1NXSDdyT25QZ2psd9IBvAFBVV95cUxQRTZScC02ZlVYSlJzTVVEUElSZElPb0VOdTZ5UXpqM1BpTEZnZUdWd0tndGhqQnhlNVRfYzh0b0pPcXAxVjN6aG5UUFVDWWtXWjFTVVN4VXh3a1pScXo4V1hoanpQYUh1YWJZOXg3S3F4ODJMQWxUV0lVb1VMR1ZwR3FFRVM2REI0dl9sYnFZakZnZnlpbFE1ZnVad3FGY0FiU3dEc0stXzFWY3loOXFvRWYtQ3dDNGxDSGUzWA?oc=5)
 
@@ -63,14 +63,6 @@ permalink: /news/brexpiprazole/
 2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
-
----
-
-### [Diese Rolle spielen Vitamine bei Depressionen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU50ZURabEEzcEx2NEhJUjJnNks2a0tPZGJVZGdHNWNiVkt4OHY1TGVYVDdCOEMwOWZSRktFV2VOeERoR0s5TUlXOWhpQ0I0Y2luZ2tmbVhPVHdYel9zQVlmM1BSbWV2c1JLR3ZuWnhHdTBDb2dRVUM5VjYzYmthRTdRMnp3b0IyT0l5VTlWREtWdWU1QXFzdHYwa0RKdVNvUm5HeGRzaDc5ODRjMzU4VA?oc=5)
-
-2026-03-24 <span class="news-indication-tag">depression</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU50ZURabEEzcEx2NEhJUjJnNks2a0tPZGJVZGdHNWNiVkt4OHY1TGVYVDdCOEMwOWZSRktFV2VOeERoR0s5TUlXOWhpQ0I0Y2luZ2tmbVhPVHdYel9zQVlmM1BSbWV2c1JLR3ZuWnhHdTBDb2dRVUM5VjYzYmthRTdRMnp3b0IyT0l5VTlWREtWdWU1QXFzdHYwa0RKdVNvUm5HeGRzaDc5ODRjMzU4VA?oc=5)
 
 ---
 

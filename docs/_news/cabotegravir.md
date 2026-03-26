@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
 
 2026-03-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
+
+---
+
+### [Gut leben mit COPD: DAAB stärkt Betroffene mit neuen Informations- und Unterstützungsangeboten - gesundheit adhoc](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGlaUG9WdGV1eFhqQnBiRUVCeWZLV2ZUSDFYRV81RXpFeExHLXBoMmN1aDA1Rlk1Tm1oRm1pSXdTbDlBT0lCdUdBRC1MOHFadk9HR3FmNGtBQWhkSXZ1ZXY3VjJ6UDlJUDFMUVU2UC1CQ2ZiVVBkVERmUmhxU0FTcHFiMkJ5dk45VGJrQ2loNVRCcFBGZjZDVEt1QWdvbzIzZjBXZTl2OVdIVEZtMUdHcHEtblJqZEI2alM1Sk5SODhaSmdfOGc?oc=5)
+
+2026-03-25 <span class="news-indication-tag">copd</span>
+
+來源：[gesundheit adhoc](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGlaUG9WdGV1eFhqQnBiRUVCeWZLV2ZUSDFYRV81RXpFeExHLXBoMmN1aDA1Rlk1Tm1oRm1pSXdTbDlBT0lCdUdBRC1MOHFadk9HR3FmNGtBQWhkSXZ1ZXY3VjJ6UDlJUDFMUVU2UC1CQ2ZiVVBkVERmUmhxU0FTcHFiMkJ5dk45VGJrQ2loNVRCcFBGZjZDVEt1QWdvbzIzZjBXZTl2OVdIVEZtMUdHcHEtblJqZEI2alM1Sk5SODhaSmdfOGc?oc=5)
 
 ---
 
@@ -76,7 +84,7 @@ permalink: /news/cabotegravir/
 
 ### [Stoffwechsel: Diabetes Risiko steigt durch Übergewicht je nach Geschlecht](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
-2026-03-24 <span class="news-indication-tag">diabetes</span>
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
@@ -102,7 +110,7 @@ permalink: /news/cabotegravir/
 
 2026-03-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[News.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
+來源：[news.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
 
 ---
 

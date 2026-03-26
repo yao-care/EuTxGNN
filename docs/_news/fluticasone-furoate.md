@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [El CNIO revela cómo las células tumorales modifican el cerebro para impulsar la metástasis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFdYOXFvc3ZGUFg0Z296WFRJeF9LMFlLb1phaWluZ0RqZGdsbndXVkEtTHVNQWFwaWxOMVE4Mk15SW5Md3ZxeDAzTExEQ2lBUjUyd2FScnUtcE9kTUpqWGVKU21kRFNpN1pFQlFlNUZOSEE2TVRyMjdsdFZmOUN2SXpNZncwaUxMTEg5ak45bjQ5QlpGVWdwX01vUWFzYjFVTHJSLUZFZExvdVFNZ1lzZ1pWbG5zRW9odVc2S2Ewa19RZ9IBxwFBVV95cUxQUTVadDlUZDhzb3pVUFlPZlp6WWhRTEt4VDlIZWc3ejJRUExlT0NwbVktdDYyT1BYWkdXdmRBcUVJWm5INHRqZzRqazVSY2NGMU81X0h3OUpUZ2NVTUpnUnNHZFpIcEVEeVRYaUpFbDc4Vlo1QzNhTVlTSkhCb0FPeFpKZ3JEQUZqUGVmN2VzZTlaM0dQU1c4U1Y1a0NHbzlxTzBXZHluWWVVa0JobzZNbjdhOGl5bFFNaVJ6dnB4SlBwem5nMEdF?oc=5)
 
 2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
 來源：[democrata.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFdYOXFvc3ZGUFg0Z296WFRJeF9LMFlLb1phaWluZ0RqZGdsbndXVkEtTHVNQWFwaWxOMVE4Mk15SW5Md3ZxeDAzTExEQ2lBUjUyd2FScnUtcE9kTUpqWGVKU21kRFNpN1pFQlFlNUZOSEE2TVRyMjdsdFZmOUN2SXpNZncwaUxMTEg5ak45bjQ5QlpGVWdwX01vUWFzYjFVTHJSLUZFZExvdVFNZ1lzZ1pWbG5zRW9odVc2S2Ewa19RZ9IBxwFBVV95cUxQUTVadDlUZDhzb3pVUFlPZlp6WWhRTEt4VDlIZWc3ejJRUExlT0NwbVktdDYyT1BYWkdXdmRBcUVJWm5INHRqZzRqazVSY2NGMU81X0h3OUpUZ2NVTUpnUnNHZFpIcEVEeVRYaUpFbDc4Vlo1QzNhTVlTSkhCb0FPeFpKZ3JEQUZqUGVmN2VzZTlaM0dQU1c4U1Y1a0NHbzlxTzBXZHluWWVVa0JobzZNbjdhOGl5bFFNaVJ6dnB4SlBwem5nMEdF?oc=5)
+
+---
+
+### [Gut leben mit COPD: DAAB stärkt Betroffene mit neuen Informations- und Unterstützungsangeboten - gesundheit adhoc](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGlaUG9WdGV1eFhqQnBiRUVCeWZLV2ZUSDFYRV81RXpFeExHLXBoMmN1aDA1Rlk1Tm1oRm1pSXdTbDlBT0lCdUdBRC1MOHFadk9HR3FmNGtBQWhkSXZ1ZXY3VjJ6UDlJUDFMUVU2UC1CQ2ZiVVBkVERmUmhxU0FTcHFiMkJ5dk45VGJrQ2loNVRCcFBGZjZDVEt1QWdvbzIzZjBXZTl2OVdIVEZtMUdHcHEtblJqZEI2alM1Sk5SODhaSmdfOGc?oc=5)
+
+2026-03-25 <span class="news-indication-tag">copd</span>
+
+來源：[gesundheit adhoc](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGlaUG9WdGV1eFhqQnBiRUVCeWZLV2ZUSDFYRV81RXpFeExHLXBoMmN1aDA1Rlk1Tm1oRm1pSXdTbDlBT0lCdUdBRC1MOHFadk9HR3FmNGtBQWhkSXZ1ZXY3VjJ6UDlJUDFMUVU2UC1CQ2ZiVVBkVERmUmhxU0FTcHFiMkJ5dk45VGJrQ2loNVRCcFBGZjZDVEt1QWdvbzIzZjBXZTl2OVdIVEZtMUdHcHEtblJqZEI2alM1Sk5SODhaSmdfOGc?oc=5)
 
 ---
 
