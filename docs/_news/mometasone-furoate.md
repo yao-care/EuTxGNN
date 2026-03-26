@@ -3,7 +3,7 @@ layout: default
 title: "Mometasone Furoate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Mometasone Furoate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Mometasone Furoate 的相關健康新聞報導。原適應症：Bemrist Breezhaler is indicated as a maintenance  ...。預測適應症 10 個。"
 permalink: /news/mometasone-furoate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/mometasone-furoate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Bemrist Breezhaler is indicated as a maintenance   treatment of asthma in adults and adolescents 12 years of age and older not adequately controlled with inhaled corticosteroids and inhaled short...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>atopic eczema（99.7%）</li>
 <li>dermatitis, atopic（99.3%）</li>

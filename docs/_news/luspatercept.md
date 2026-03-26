@@ -3,7 +3,7 @@ layout: default
 title: "Luspatercept 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Luspatercept 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Luspatercept 的相關健康新聞報導。原適應症：Reblozyl is indicated in adults for the treatment ...。預測適應症 10 個。"
 permalink: /news/luspatercept/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/luspatercept/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Reblozyl is indicated in adults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).Reblozyl is indicated in adults for the...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>dominant beta-thalassemia（96.3%）</li>
 <li>monosomy X（96.0%）</li>

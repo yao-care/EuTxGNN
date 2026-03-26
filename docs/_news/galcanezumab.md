@@ -3,7 +3,7 @@ layout: default
 title: "Galcanezumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Galcanezumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Galcanezumab 的相關健康新聞報導。原適應症：Emgality is indicated for the prophylaxis of migra...。預測適應症 10 個。"
 permalink: /news/galcanezumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/galcanezumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Emgality is indicated for the prophylaxis of migraine in adults who have at least 4 migraine days per month.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>heparin cofactor 2 deficiency（99.5%）</li>
 <li>antithrombin deficiency type 2（99.4%）</li>

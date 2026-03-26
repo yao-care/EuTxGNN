@@ -3,7 +3,7 @@ layout: default
 title: "Eravacycline 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Eravacycline 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Eravacycline 的相關健康新聞報導。原適應症：Xerava is indicated in adolescents from the age of...。預測適應症 10 個。"
 permalink: /news/eravacycline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eravacycline/
 ---
 
 <p class="key-answer" data-question="Eravacycline 有什麼相關新聞？">
-<strong>Eravacycline</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Eravacycline</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/eravacycline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Xerava is indicated in adolescents from the age of 12 years weighing at least 50 kg, and in adults, for the treatment of complicated intra-abdominal infections (cIAI). Consideration should be given...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>bronchitis（96.8%）</li>
 <li>laryngotracheitis（86.5%）</li>
@@ -40,7 +42,15 @@ permalink: /news/eravacycline/
 <p><a href="{{ '/drugs/eravacycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（26 則）
+
+### [El cáncer colorrectal será el tumor más diagnosticado en España en 2026](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRNaG1IbW1OX0t0c0ZJUXZzQVdGN1oxUDY0bUNiYmtGT0lINXdqenh5VFg2cUlkeHJfcDFCTW9LR19QVWYzUHZwYVZ6T21scnNiblNkYWx2azlLMlNDeG9iOUdlWURIaHBsMU5LZ0V2Sjdqd3p6QzBtVF96RW9Ld2VrTUtiTHl5N0xYY1VZVXlDM0xoVnJNalk3czlzUlpvU19Rb3B4MWFLSjItdzd6NVM4YjVBVGp2bTRnSzU3QznSAcYBQVVfeXFMTnJpY0VEQTBkdXlYOGhUeXR0cDJCSzZrdThIcWtFVFEtSlkzYnU4MzlNRVdPbjU1NWlINVdGVUsyUnZCdnFacUdrRjR4aWl0Q1BIZ0J2a1MzWWp0LTBjUUgyTVhzR2lNdXZ3MUNkMXE4cFFQb09nY0drOFhiZlRTcU1qR0VKYnJBZnpMRFJKYjRDdnB1cFhIV1N4T3BLb0FJZG5lNzNfTjBRVjA0OE9pMkNEaFR5dnpBZDJKRkhaTTdBOExiUk1n?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span>
+
+來源：[democrata.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRNaG1IbW1OX0t0c0ZJUXZzQVdGN1oxUDY0bUNiYmtGT0lINXdqenh5VFg2cUlkeHJfcDFCTW9LR19QVWYzUHZwYVZ6T21scnNiblNkYWx2azlLMlNDeG9iOUdlWURIaHBsMU5LZ0V2Sjdqd3p6QzBtVF96RW9Ld2VrTUtiTHl5N0xYY1VZVXlDM0xoVnJNalk3czlzUlpvU19Rb3B4MWFLSjItdzd6NVM4YjVBVGp2bTRnSzU3QznSAcYBQVVfeXFMTnJpY0VEQTBkdXlYOGhUeXR0cDJCSzZrdThIcWtFVFEtSlkzYnU4MzlNRVdPbjU1NWlINVdGVUsyUnZCdnFacUdrRjR4aWl0Q1BIZ0J2a1MzWWp0LTBjUUgyTVhzR2lNdXZ3MUNkMXE4cFFQb09nY0drOFhiZlRTcU1qR0VKYnJBZnpMRFJKYjRDdnB1cFhIV1N4T3BLb0FJZG5lNzNfTjBRVjA0OE9pMkNEaFR5dnpBZDJKRkhaTTdBOExiUk1n?oc=5)
+
+---
 
 ### [Umfrage: Große Wissenslücke zu Herzrisiken – dabei können moderne Diabetes-Therapien gleich dreifach wirken - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYVJQWVBzenJqZF9Keld2V2MtLXM2SWpQS0tvY2dSU3dDbXFQQVBlNkkwMEtJQkZHZExFNmVBejRNa2t2dkpYLTJSenJuR2tFbUZyRW9QV3huTUhnX2h5Rk8tTUtzaEY3WnU2VnFTeUY4V3pvSXBtY0xEanlwZ0tnOHJaQXJ5eklBcDM3c1lrVG9va1JFaEhFMHlCSjZQblhOdWVsZ2FtUlBvbURYQzYtZEVJNWVYLXNJSHloamxhb1N3QzhQdkx0bzBfbkd0NklTXzRzYzBKV0VQTVlCLUkzZ2hIUTVrektJWElUZERB?oc=5)
 
@@ -62,11 +72,11 @@ permalink: /news/eravacycline/
 
 2026-03-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[news.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFSWWlaWVVWazRtQ2paczZJNHFLaUR4TmpwQVhvdFJNNk4yYjZMWnNYcXpHOW5pdGZnX29jbzFEZlV1dzE3aFFPVlBUdzBlbjh6SUhZQ2ZDNkFRdEdXQTVCbm94SlZ1QTdLUlJGTWtySngxME5acDRUMzhoVjFJaEU1elNHa0oxMnY1NnJTbVc2aEdhZHlKOVlzRS1ZNUp5VHY5aEY1ZU9tRVREOUhyQVh3aUhNQjRzdWptelZYRUJEYWxHOWlJRmMzZTFkQ1o2TmszSzJUQ3FzNGM0cTYxaGU1RzdPQzNncHpzd29XbGJMQUXSAfgBQVVfeXFMUHRFLUNIUUF4ZjhlQjlESDBCcU1VYVdNWEVrRXhUemUycGRzUWlEWldZY1lpb1JIenEtdjVQUFRMd05VT3lPS3dINC0tY01oUElzalkxQWg4RDJZN0FfbGxHSk92LTg2bFlkQjhjbVJkQVprMnc3dUlHY083Tmx0VUJRY2FLeklNdVp6WXpSYzNnYnRfX3hibkw1WGV2dEo0NWgtYXRVekcyZ3FSTzhSN1E2V2s5d1U2N1pieTNLQzUtN3hVQ2hVb2lxcVJHTm9pUU45WTlnNkpKWlBxRXAwNXRoSjVuSkpvcDBEVnJNY1VRYWZCcDVPdWY?oc=5)
+來源：[News.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFSWWlaWVVWazRtQ2paczZJNHFLaUR4TmpwQVhvdFJNNk4yYjZMWnNYcXpHOW5pdGZnX29jbzFEZlV1dzE3aFFPVlBUdzBlbjh6SUhZQ2ZDNkFRdEdXQTVCbm94SlZ1QTdLUlJGTWtySngxME5acDRUMzhoVjFJaEU1elNHa0oxMnY1NnJTbVc2aEdhZHlKOVlzRS1ZNUp5VHY5aEY1ZU9tRVREOUhyQVh3aUhNQjRzdWptelZYRUJEYWxHOWlJRmMzZTFkQ1o2TmszSzJUQ3FzNGM0cTYxaGU1RzdPQzNncHpzd29XbGJMQUXSAfgBQVVfeXFMUHRFLUNIUUF4ZjhlQjlESDBCcU1VYVdNWEVrRXhUemUycGRzUWlEWldZY1lpb1JIenEtdjVQUFRMd05VT3lPS3dINC0tY01oUElzalkxQWg4RDJZN0FfbGxHSk92LTg2bFlkQjhjbVJkQVprMnc3dUlHY083Tmx0VUJRY2FLeklNdVp6WXpSYzNnYnRfX3hibkw1WGV2dEo0NWgtYXRVekcyZ3FSTzhSN1E2V2s5d1U2N1pieTNLQzUtN3hVQ2hVb2lxcVJHTm9pUU45WTlnNkpKWlBxRXAwNXRoSjVuSkpvcDBEVnJNY1VRYWZCcDVPdWY?oc=5)
 
 ---
 
-### [Wie Entzündungen den Darm Jahre später anfälliger für Krebs machen können](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnJ3SkQxWVNBVHhEZUxycW5GMUF4QURkY3BMbGZ4c1kyck9TOURZRTRrYWsweHJEUlUtM1I3ekJTcGw5SGFTNmVNZkQtWGhYMTNNOWFuY3BNOGtfTkpXVUJMY0ZWcnItVVNPMFdVY0c4TFlqU2IxY0xpZUtxY1U0Q1ZuNWFLdDdiVDZXRWM3WlpaLVZqcjBVU25lZmFYdmo3TzVsWWxKc3dJMWtRNnFiMUh0b01FMm1RWlFDUFpXb3RyODB0M1JydTNmSi1zTWcxZ0pUTnJhZ2RBUWUwWE9Pd0VqZ09pbUJmSF9KUHlFSlBvX1VPclE?oc=5)
+### [Krebs: Forscher entdecken, wie Entzündungen den Darm Jahre später anfälliger für Krebs machen](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnJ3SkQxWVNBVHhEZUxycW5GMUF4QURkY3BMbGZ4c1kyck9TOURZRTRrYWsweHJEUlUtM1I3ekJTcGw5SGFTNmVNZkQtWGhYMTNNOWFuY3BNOGtfTkpXVUJMY0ZWcnItVVNPMFdVY0c4TFlqU2IxY0xpZUtxY1U0Q1ZuNWFLdDdiVDZXRWM3WlpaLVZqcjBVU25lZmFYdmo3TzVsWWxKc3dJMWtRNnFiMUh0b01FMm1RWlFDUFpXb3RyODB0M1JydTNmSi1zTWcxZ0pUTnJhZ2RBUWUwWE9Pd0VqZ09pbUJmSF9KUHlFSlBvX1VPclE?oc=5)
 
 2026-03-26 <span class="news-indication-tag">Krebs</span>
 
@@ -98,6 +108,14 @@ permalink: /news/eravacycline/
 
 ---
 
+### [Ectopic NMDAR expression in cancer unmasks germline-encoded autoimmunity](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfanpOazI0bm00bDNlUkQ1Ym1sWl9wT3cyUlN1ZjhKa1JWaWFOaEJUeTNYTGgzOF9jVkRzWlB3eWlzM2NMQWphazBrS0lrWjI1emlEX0pxNXl5QkNGbnlz?oc=5)
+
+2026-03-25 <span class="news-indication-tag">cancer</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfanpOazI0bm00bDNlUkQ1Ym1sWl9wT3cyUlN1ZjhKa1JWaWFOaEJUeTNYTGgzOF9jVkRzWlB3eWlzM2NMQWphazBrS0lrWjI1emlEX0pxNXl5QkNGbnlz?oc=5)
+
+---
+
 ### [HRT patches can help treat prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0NPTlFwdks1WDdPdWEtNzZjZUw3ZlNtNG05UHE4ZnFGRllCNDVVX0FWcHoxNTE5OXJwcWhTNU8tMlp6dGtVQlRxaVBiMFlaN3g2REpBb0F6dWNpZkU1RzFRY3oyVVhVUmgxejRRV3FmUmhNcTNEQ195eTlWUk92SFVoSlhJY2JPeFpiQjFYajJSQmxYa1N1TUd5M2N0amJuVUEzSGdR?oc=5)
 
 2026-03-25 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">cancer</span>
@@ -114,19 +132,27 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Un nuevo hallazgo contra la metástasis cerebral muestra cómo el tumor secuestra células defensivas para usarlas en su favor - Centro Nacional de Investigaciones Oncológicas](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
+### [Common blood pressure drug can boost cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUNYVHhYVDNKTzRHa21HU1FBcDRlb1g3MkRxUUdMOFgtMGptT3NDbDgwNU11S29PMG5xZDVhakVwOTh0UGl1d2NNcHVWZE9yT1dkM1M5ZXdoRGNWejNjQ3d6ZkgzV3VDamx0OE1nN05ZWWYyTVRzSmYzd3RsR2JNWlN3?oc=5)
 
-2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+2026-03-25 <span class="news-indication-tag">cancer</span>
 
-來源：[Centro Nacional de Investigaciones Oncológicas - CNIO](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUNYVHhYVDNKTzRHa21HU1FBcDRlb1g3MkRxUUdMOFgtMGptT3NDbDgwNU11S29PMG5xZDVhakVwOTh0UGl1d2NNcHVWZE9yT1dkM1M5ZXdoRGNWejNjQ3d6ZkgzV3VDamx0OE1nN05ZWWYyTVRzSmYzd3RsR2JNWlN3?oc=5)
 
 ---
 
-### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
+### [Investigadores del CNIO identifican un fármaco para el asma que podría reducir el riesgo de metástasis - La Razón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhFUHdOb2V2VlU5eUNZZjhCT3ItbXRBSHE1UE9MeDFYVGpjb0JkOEt1UmV3NlJKM2N1QWR3LV8wVWdhNVlid2drQkp6SFE2WUlSYjVQQ1ZqQ0JmOTdFeDFMMmtoSU1DTEUzTHlrTVY3eUZOeURrV05FSC01STh0TUZNa011Y2xDSnpJV2tOQ29IR1I2b2s1LXFVZVpJZXM5dWtmdVNMaF9Wa3hacTVSeS1NcHZyZTdHc1VjSkluZW5seGx5RUtLZkN4SHA0YUsyOWVrWjNzdFRtT3VMTy04aklJVGFGemFpTld1N2dB0gGCAkFVX3lxTFBWWnkzclkxdHlIYjV1VGtBcWxWYXNTZXNGYlBYclhZZFZrV0ZyUzlPYTdnWFBvNDY0NHFYTnYtemhTZGs2a1hOSWJiajFwOEQzVnI1VEV6UGI4Qnc5d0tJSnBGLTB0N0lmaTZNQ2Noc2Z3dnZRTHoyVGJGclVkY2tJNGw5YnlKSGdBRGtUNUFnaTdqWFFXdzYta2U3SW95Z1VGdmhRRHd0Yk5QZTRibzU4WlQ2RDZhY2o1VFpxbFNyTXc0SWtLQUt0OWs5REZ4SmhfVldXbG4zZEJLSG1CZERvT2hIeGJWRnFrVS1VOTFpR0lTa25RQXljcXpTZmU2NlZBUQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhFUHdOb2V2VlU5eUNZZjhCT3ItbXRBSHE1UE9MeDFYVGpjb0JkOEt1UmV3NlJKM2N1QWR3LV8wVWdhNVlid2drQkp6SFE2WUlSYjVQQ1ZqQ0JmOTdFeDFMMmtoSU1DTEUzTHlrTVY3eUZOeURrV05FSC01STh0TUZNa011Y2xDSnpJV2tOQ29IR1I2b2s1LXFVZVpJZXM5dWtmdVNMaF9Wa3hacTVSeS1NcHZyZTdHc1VjSkluZW5seGx5RUtLZkN4SHA0YUsyOWVrWjNzdFRtT3VMTy04aklJVGFGemFpTld1N2dB0gGCAkFVX3lxTFBWWnkzclkxdHlIYjV1VGtBcWxWYXNTZXNGYlBYclhZZFZrV0ZyUzlPYTdnWFBvNDY0NHFYTnYtemhTZGs2a1hOSWJiajFwOEQzVnI1VEV6UGI4Qnc5d0tJSnBGLTB0N0lmaTZNQ2Noc2Z3dnZRTHoyVGJGclVkY2tJNGw5YnlKSGdBRGtUNUFnaTdqWFFXdzYta2U3SW95Z1VGdmhRRHd0Yk5QZTRibzU4WlQ2RDZhY2o1VFpxbFNyTXc0SWtLQUt0OWs5REZ4SmhfVldXbG4zZEJLSG1CZERvT2hIeGJWRnFrVS1VOTFpR0lTa25RQXljcXpTZmU2NlZBUQ?oc=5)
+
+---
+
+### [Elche reúne a expertos para abordar las enfermedades crónicas con el foco puesto en la Nutrición - Cadena SER](https://news.google.com/rss/articles/CBMi9gFBVV95cUxONXNheTdSS0tnSlZHWkFqaTZLbW5oQ19fQkV2bGlSX25Rd0hUbHRXdFp4YTVXR1lZTHRTREtaZlhBWFI5ano3Q0dPZFFJMVRVTGx1NGZoal9UVk16bktDVEJ4Mkt2MmFTRW9ja3dkUmxka0s3ODhCdUFmTTJOQW9lQlZwcXpPYUFZck9MV21WTGFDV3NPcU9kMnZIQVlmUlkySm1xMW8tZFlMOVh5YnczMmVTUXFRbTFkVWFUU19RZGV3cEtwbEZmNzE5WnNKcXlhYjdUaXRGbnFqUzYwbUlvRDRQWHJWM0pMT2M1MWt5clRYVzEtZEHSAYoCQVVfeXFMUE96ajk2Q3JRRXF1S0xvR3BpNEx4SUZLeDZjQjdMbTJHUUh5ckZnRVZrMm5UUURheTF5U1BPRC1zM1htZTlIaXpyTlFmT1VkYWRhM3BmODVhZTNUbDF1YnVVMnh3ZVRxei1SVEFZV1c0WDZCaS1CTlRXVDZqU1VKMVJMMHhVbndvZmIwUWhzY3FPX0tZUGhWUy1yVUN5SU9zR2pENG9CUzlqLUZsQ1dIWnZtZXAwZGJ6eUd2cERjRExiMjlYYkJOTVJNbmpDZi1FS0VJcEctczFHSjVtdklPdzVLNF9EM2d1dXpPTjh2OW5TY1ZnOXZ1bEpzWm9oYW9IS3kyeDBVZ1poVXc?oc=5)
 
 2026-03-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi9gFBVV95cUxONXNheTdSS0tnSlZHWkFqaTZLbW5oQ19fQkV2bGlSX25Rd0hUbHRXdFp4YTVXR1lZTHRTREtaZlhBWFI5ano3Q0dPZFFJMVRVTGx1NGZoal9UVk16bktDVEJ4Mkt2MmFTRW9ja3dkUmxka0s3ODhCdUFmTTJOQW9lQlZwcXpPYUFZck9MV21WTGFDV3NPcU9kMnZIQVlmUlkySm1xMW8tZFlMOVh5YnczMmVTUXFRbTFkVWFUU19RZGV3cEtwbEZmNzE5WnNKcXlhYjdUaXRGbnFqUzYwbUlvRDRQWHJWM0pMT2M1MWt5clRYVzEtZEHSAYoCQVVfeXFMUE96ajk2Q3JRRXF1S0xvR3BpNEx4SUZLeDZjQjdMbTJHUUh5ckZnRVZrMm5UUURheTF5U1BPRC1zM1htZTlIaXpyTlFmT1VkYWRhM3BmODVhZTNUbDF1YnVVMnh3ZVRxei1SVEFZV1c0WDZCaS1CTlRXVDZqU1VKMVJMMHhVbndvZmIwUWhzY3FPX0tZUGhWUy1yVUN5SU9zR2pENG9CUzlqLUZsQ1dIWnZtZXAwZGJ6eUd2cERjRExiMjlYYkJOTVJNbmpDZi1FS0VJcEctczFHSjVtdklPdzVLNF9EM2d1dXpPTjh2OW5TY1ZnOXZ1bEpzWm9oYW9IS3kyeDBVZ1poVXc?oc=5)
 
 ---
 
@@ -154,27 +180,11 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Was ein gesunder Thymus über Herz-Krankheiten und Lungenkrebs verrät](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZFM3R2EwQ1pvaFl6UUZOOEFVN1ZTRzVqdUZzVkxnQUozN2xjY285SGRQbGtLcnNhbUVVN3QwSnJGVnptTkMwVDQtU1RhR1cxNzAtU2QtWFhBNktiMlpXYlJCdnpUZHdobXQ5SmllSkt6WDdlcnRydk9Ca1NuaW1pSVFmUGlKeUxGb1YySjllWE5iTGxfYXdwSzcwd0M0Ukh2Z3lXOEVrV3hZcTBseXlIOXRZYnQ5Ujc1OS1XRVlhdVprOS1faWExZzFkNU1hcXA2SDBRT1JoSDBSOGI5a3h4b2lQcw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZFM3R2EwQ1pvaFl6UUZOOEFVN1ZTRzVqdUZzVkxnQUozN2xjY285SGRQbGtLcnNhbUVVN3QwSnJGVnptTkMwVDQtU1RhR1cxNzAtU2QtWFhBNktiMlpXYlJCdnpUZHdobXQ5SmllSkt6WDdlcnRydk9Ca1NuaW1pSVFmUGlKeUxGb1YySjllWE5iTGxfYXdwSzcwd0M0Ukh2Z3lXOEVrV3hZcTBseXlIOXRZYnQ5Ujc1OS1XRVlhdVprOS1faWExZzFkNU1hcXA2SDBRT1JoSDBSOGI5a3h4b2lQcw?oc=5)
-
----
-
 ### [Gut leben mit COPD: DAAB stärkt Betroffene mit neuen Informations- und Unterstützungsangeboten - gesundheit adhoc](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGlaUG9WdGV1eFhqQnBiRUVCeWZLV2ZUSDFYRV81RXpFeExHLXBoMmN1aDA1Rlk1Tm1oRm1pSXdTbDlBT0lCdUdBRC1MOHFadk9HR3FmNGtBQWhkSXZ1ZXY3VjJ6UDlJUDFMUVU2UC1CQ2ZiVVBkVERmUmhxU0FTcHFiMkJ5dk45VGJrQ2loNVRCcFBGZjZDVEt1QWdvbzIzZjBXZTl2OVdIVEZtMUdHcHEtblJqZEI2alM1Sk5SODhaSmdfOGc?oc=5)
 
 2026-03-25 <span class="news-indication-tag">copd</span>
 
 來源：[gesundheit adhoc](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGlaUG9WdGV1eFhqQnBiRUVCeWZLV2ZUSDFYRV81RXpFeExHLXBoMmN1aDA1Rlk1Tm1oRm1pSXdTbDlBT0lCdUdBRC1MOHFadk9HR3FmNGtBQWhkSXZ1ZXY3VjJ6UDlJUDFMUVU2UC1CQ2ZiVVBkVERmUmhxU0FTcHFiMkJ5dk45VGJrQ2loNVRCcFBGZjZDVEt1QWdvbzIzZjBXZTl2OVdIVEZtMUdHcHEtblJqZEI2alM1Sk5SODhaSmdfOGc?oc=5)
-
----
-
-### [Doc Fischer heute (25.03.2026): Themen der Sendung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjgwOHpMMExJQjBCWXBHNEhXcXI0LWVQUXpYZUc1RG5Sb1E0RXljd2ZWdmVxU2NjSTZRc2xFN1VsNkdqNVUxZ1kzNVdkN1U2OVBHY2o5bWdqRXNyWDRkSGhYbFF4YzNXNG1RS2hVckFXeVpDbHI3R2YwNzlDeHRtdUZYWWwweDcydHEwbHFHX3g5dnFRVEFCOVpDQXRBUDhoNzhUWElQZXBtVHBXMDhoRUtmbw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[stuttgarter-nachrichten.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjgwOHpMMExJQjBCWXBHNEhXcXI0LWVQUXpYZUc1RG5Sb1E0RXljd2ZWdmVxU2NjSTZRc2xFN1VsNkdqNVUxZ1kzNVdkN1U2OVBHY2o5bWdqRXNyWDRkSGhYbFF4YzNXNG1RS2hVckFXeVpDbHI3R2YwNzlDeHRtdUZYWWwweDcydHEwbHFHX3g5dnFRVEFCOVpDQXRBUDhoNzhUWElQZXBtVHBXMDhoRUtmbw?oc=5)
 
 ---
 
@@ -239,22 +249,6 @@ permalink: /news/eravacycline/
 2026-03-24 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BQeHh6VUF3R252T05DcERQVUJHS3RrTnhhbEFkb08zOFZ3NzJiLXJwNVdzWTllRXgza3ROOExwRktHeUdxNHF1azZHU2oxMmNvRmRuOU4xem8zY0duV0M3MjV3Z252QlVod1Q2aUNiS2dmVGZnQUhTYlVVT1lvRmx2cjNqWGVHeDRBand0X3lhWElEQ0lyc0ZB?oc=5)
-
----
-
-### [Mum diagnosed with ovarian cancer shortly after son’s second birthday urges others to be aware of symptoms - The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
-
----
-
-### [Stoffwechsel: Diabetes Risiko steigt durch Übergewicht je nach Geschlecht](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
 ---
 

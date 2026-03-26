@@ -3,7 +3,7 @@ layout: default
 title: "Dexmedetomidine Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dexmedetomidine Hydrochloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Dexmedetomidine Hydrochloride 的相關健康新聞報導。原適應症：For sedation of adult intensive care unit patients...。預測適應症 10 個。"
 permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：For sedation of adult intensive care unit patients requiring a sedation level not deeper than arousal in response to verbal stimulation (corresponding to Richmond Agitation-Sedation Scale (RASS) 0 to...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis（99.6%）</li>
 <li>migraine disorder（99.5%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Andexanet Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Andexanet Alfa 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Andexanet Alfa 的相關健康新聞報導。原適應症：For adult patients treated with a direct factor Xa...。預測適應症 10 個。"
 permalink: /news/andexanet-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/andexanet-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：For adult patients treated with a direct factor Xa (FXa) inhibitor (apixaban or rivaroxaban) when reversal of anticoagulation is needed due to life-threatening or uncontrolled bleeding.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Glanzmann thrombasthenia（99.8%）</li>
 <li>primary release disorder of platelets（99.8%）</li>

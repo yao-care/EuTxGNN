@@ -3,7 +3,7 @@ layout: default
 title: "Sevelamer 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sevelamer 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Sevelamer 的相關健康新聞報導。原適應症：Renagel is indicated for the control of hyperphosp...。預測適應症 10 個。"
 permalink: /news/sevelamer/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/sevelamer/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Renagel is indicated for the control of hyperphosphataemia in adult patients receiving  haemodialysis or peritoneal dialysis. Renagel should be used within the context of a multiple therapeutic...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>breast fibrocystic disease（92.5%）</li>
 <li>blunt duct adenosis of breast（89.9%）</li>

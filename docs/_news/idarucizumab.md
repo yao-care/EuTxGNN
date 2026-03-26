@@ -3,7 +3,7 @@ layout: default
 title: "Idarucizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Idarucizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Idarucizumab 的相關健康新聞報導。原適應症：Praxbind is a specific reversal agent for dabigatr...。預測適應症 10 個。"
 permalink: /news/idarucizumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/idarucizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Praxbind is a specific reversal agent for dabigatran and is indicated in adult patients treated with Pradaxa (dabigatran etexilate) when rapid reversal of its anticoagulant effects is required:  for...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>hemoglobinopathy（95.7%）</li>
 <li>rheumatoid arthritis（95.5%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Vibegron 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vibegron 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Vibegron 的相關健康新聞報導。原適應症：Obgemsa is indicated in symptomatic treatment of a...。預測適應症 10 個。"
 permalink: /news/vibegron/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/vibegron/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Obgemsa is indicated in symptomatic treatment of adult patients with overactive bladder (OAB) syndrome.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>overactive bladder (disease)（95.9%）</li>
 <li>polycystic kidney disease 3 with or without polycystic liver disease（94.5%）</li>

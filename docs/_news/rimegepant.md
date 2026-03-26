@@ -3,7 +3,7 @@ layout: default
 title: "Rimegepant 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Rimegepant 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Rimegepant 的相關健康新聞報導。原適應症：Vydura is indicated for the  Acute treatment of mi...。預測適應症 10 個。"
 permalink: /news/rimegepant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rimegepant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/rimegepant/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Vydura is indicated for the  Acute treatment of migraine with or without aura in adults; Preventative treatment of episodic migraine in adults who have at least 4 migraine attacks per month.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>migraine disorder（100.0%）</li>
 <li>migraine with brainstem aura（99.9%）</li>
@@ -40,15 +42,9 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds | Health - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
-
-2026-03-24 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

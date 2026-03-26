@@ -3,7 +3,7 @@ layout: default
 title: "Cannabidiol 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Cannabidiol 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Cannabidiol 的相關健康新聞報導。原適應症：Epidyolex is indicated for use as adjunctive thera...。預測適應症 10 個。"
 permalink: /news/cannabidiol/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/cannabidiol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Epidyolex is indicated for use as adjunctive therapy of seizures associated with Lennox Gastaut syndrome (LGS) or Dravet syndrome (DS), in conjunction with clobazam, for patients 2 years of age and...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>restless legs syndrome（96.2%）</li>
 <li>bilateral parasagittal parieto-occipital polymicrogyria（96.0%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Flutemetamol (18F) 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Flutemetamol (18F) 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Flutemetamol (18F) 的相關健康新聞報導。原適應症：This medicinal product is for diagnostic use only....。預測適應症 10 個。"
 permalink: /news/flutemetamol-18f/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/flutemetamol-18f/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：This medicinal product is for diagnostic use only. Vizamyl is a radiopharmaceutical medicinal product indicated for Positron Emission Tomography (PET) imaging of ? amyloid neuritic plaque density in...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>anaphylaxis（98.8%）</li>
 <li>food-dependent exercise-induced anaphylaxis（98.4%）</li>

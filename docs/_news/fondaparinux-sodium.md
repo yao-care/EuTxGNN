@@ -24,6 +24,7 @@ permalink: /news/fondaparinux-sodium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>pulmonary embolism (disease)（96.4%）</li>
 <li>primary release disorder of platelets（93.1%）</li>

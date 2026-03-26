@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,29 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [The subtle signs of Alzheimer’s disease everyone should be aware of - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
-
-2026-03-25
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
 
 2026-03-25
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
-
----
-
-### [Scientists create blood test that predicts dementia 25 years before symptoms appear](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
-
-2026-03-25
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
 
 ---
 

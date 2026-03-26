@@ -3,7 +3,7 @@ layout: default
 title: "Vonicog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vonicog Alfa 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Vonicog Alfa 的相關健康新聞報導。原適應症：Prevention and treatment of haemorrhage or surgica...。預測適應症 10 個。"
 permalink: /news/vonicog-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/vonicog-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Prevention and treatment of haemorrhage or surgical bleeding in adults (age 18 years and older) with von Willebrand disease (VWD), when desmopressin (DDAVP) treatment alone is ineffective or...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary release disorder of platelets（100.0%）</li>
 <li>Glanzmann thrombasthenia（100.0%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Fluticasone Furoate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fluticasone Furoate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Fluticasone Furoate 的相關健康新聞報導。原適應症：Asthma Indication Revinty Ellipta is indicated in ...。預測適應症 10 個。"
 permalink: /news/fluticasone-furoate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/fluticasone-furoate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Asthma Indication Revinty Ellipta is indicated in the regular treatment of asthma in adults and adolescents aged 12 years and older, where use of a combination product (long-acting beta2-agonist and...</li>
+<li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>atopic eczema（100.0%）</li>
 <li>allergic asthma（100.0%）</li>
@@ -42,11 +44,11 @@ permalink: /news/fluticasone-furoate/
 
 ## 相關新聞（3 則）
 
-### [Un nuevo hallazgo contra la metástasis cerebral muestra cómo el tumor secuestra células defensivas para usarlas en su favor - Centro Nacional de Investigaciones Oncológicas](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
+### [Investigadores del CNIO identifican un fármaco para el asma que podría reducir el riesgo de metástasis - La Razón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhFUHdOb2V2VlU5eUNZZjhCT3ItbXRBSHE1UE9MeDFYVGpjb0JkOEt1UmV3NlJKM2N1QWR3LV8wVWdhNVlid2drQkp6SFE2WUlSYjVQQ1ZqQ0JmOTdFeDFMMmtoSU1DTEUzTHlrTVY3eUZOeURrV05FSC01STh0TUZNa011Y2xDSnpJV2tOQ29IR1I2b2s1LXFVZVpJZXM5dWtmdVNMaF9Wa3hacTVSeS1NcHZyZTdHc1VjSkluZW5seGx5RUtLZkN4SHA0YUsyOWVrWjNzdFRtT3VMTy04aklJVGFGemFpTld1N2dB0gGCAkFVX3lxTFBWWnkzclkxdHlIYjV1VGtBcWxWYXNTZXNGYlBYclhZZFZrV0ZyUzlPYTdnWFBvNDY0NHFYTnYtemhTZGs2a1hOSWJiajFwOEQzVnI1VEV6UGI4Qnc5d0tJSnBGLTB0N0lmaTZNQ2Noc2Z3dnZRTHoyVGJGclVkY2tJNGw5YnlKSGdBRGtUNUFnaTdqWFFXdzYta2U3SW95Z1VGdmhRRHd0Yk5QZTRibzU4WlQ2RDZhY2o1VFpxbFNyTXc0SWtLQUt0OWs5REZ4SmhfVldXbG4zZEJLSG1CZERvT2hIeGJWRnFrVS1VOTFpR0lTa25RQXljcXpTZmU2NlZBUQ?oc=5)
 
 2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
-來源：[Centro Nacional de Investigaciones Oncológicas - CNIO](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhFUHdOb2V2VlU5eUNZZjhCT3ItbXRBSHE1UE9MeDFYVGpjb0JkOEt1UmV3NlJKM2N1QWR3LV8wVWdhNVlid2drQkp6SFE2WUlSYjVQQ1ZqQ0JmOTdFeDFMMmtoSU1DTEUzTHlrTVY3eUZOeURrV05FSC01STh0TUZNa011Y2xDSnpJV2tOQ29IR1I2b2s1LXFVZVpJZXM5dWtmdVNMaF9Wa3hacTVSeS1NcHZyZTdHc1VjSkluZW5seGx5RUtLZkN4SHA0YUsyOWVrWjNzdFRtT3VMTy04aklJVGFGemFpTld1N2dB0gGCAkFVX3lxTFBWWnkzclkxdHlIYjV1VGtBcWxWYXNTZXNGYlBYclhZZFZrV0ZyUzlPYTdnWFBvNDY0NHFYTnYtemhTZGs2a1hOSWJiajFwOEQzVnI1VEV6UGI4Qnc5d0tJSnBGLTB0N0lmaTZNQ2Noc2Z3dnZRTHoyVGJGclVkY2tJNGw5YnlKSGdBRGtUNUFnaTdqWFFXdzYta2U3SW95Z1VGdmhRRHd0Yk5QZTRibzU4WlQ2RDZhY2o1VFpxbFNyTXc0SWtLQUt0OWs5REZ4SmhfVldXbG4zZEJLSG1CZERvT2hIeGJWRnFrVS1VOTFpR0lTa25RQXljcXpTZmU2NlZBUQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Alendronic Acid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alendronic Acid 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Alendronic Acid 的相關健康新聞報導。原適應症：Treatment of postmenopausal osteoporosis in patien...。預測適應症 10 個。"
 permalink: /news/alendronic-acid/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/alendronic-acid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Fosavance reduces the risk of vertebral and hip fractures.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>bone Paget disease（99.3%）</li>
 <li>HIV infectious disease（96.8%）</li>

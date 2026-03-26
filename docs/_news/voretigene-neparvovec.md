@@ -3,7 +3,7 @@ layout: default
 title: "Voretigene Neparvovec 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Voretigene Neparvovec 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Voretigene Neparvovec 的相關健康新聞報導。原適應症：Luxturna is indicated for the treatment of adult a...。預測適應症 10 個。"
 permalink: /news/voretigene-neparvovec/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/voretigene-neparvovec/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Luxturna is indicated for the treatment of adult and paediatric patients with vision loss due to inherited retinal dystrophy caused by confirmed biallelic RPE65 mutations and who have sufficient...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>mitral valve prolapse, myxomatous（56.4%）</li>
 <li>pituitary dwarfism（56.3%）</li>

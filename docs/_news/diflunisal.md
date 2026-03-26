@@ -3,7 +3,7 @@ layout: default
 title: "Diflunisal 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Diflunisal 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Diflunisal 的相關健康新聞報導。原適應症：Attrogy is indicated for the treatment of heredita...。預測適應症 10 個。"
 permalink: /news/diflunisal/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/diflunisal/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Attrogy is indicated for the treatment of hereditary transthyretin-mediated amyloidosis (ATTRv) in adult patients with stage 1 or stage 2 polyneuropathy.</li>
+<li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>osteoarthritis susceptibility（100.0%）</li>
 <li>acromesomelic dysplasia, Hunter-Thompson type（100.0%）</li>

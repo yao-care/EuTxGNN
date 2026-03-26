@@ -3,7 +3,7 @@ layout: default
 title: "Eptinezumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Eptinezumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Eptinezumab 的相關健康新聞報導。原適應症：Vyepti is indicated for the prophylaxis of migrain...。預測適應症 10 個。"
 permalink: /news/eptinezumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/eptinezumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Vyepti is indicated for the prophylaxis of migraine in adults who have at least 4 migraine days per month.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>migraine with brainstem aura（99.9%）</li>
 <li>migraine disorder（99.9%）</li>

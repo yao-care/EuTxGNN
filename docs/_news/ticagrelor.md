@@ -3,7 +3,7 @@ layout: default
 title: "Ticagrelor 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ticagrelor 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ticagrelor 的相關健康新聞報導。原適應症：Brilique, co administered with acetylsalicylic aci...。預測適應症 10 個。"
 permalink: /news/ticagrelor/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ticagrelor/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Brilique, co administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with  acute coronary syndromes (ACS) or a history of myocardial...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>intracranial arteriosclerosis（100.0%）</li>
 <li>intermittent vascular claudication（100.0%）</li>

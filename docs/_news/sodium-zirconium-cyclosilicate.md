@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Zirconium Cyclosilicate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sodium Zirconium Cyclosilicate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Sodium Zirconium Cyclosilicate 的相關健康新聞報導。原適應症：Lokelma is indicated for the treatment of hyperkal...。預測適應症 10 個。"
 permalink: /news/sodium-zirconium-cyclosilicate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/sodium-zirconium-cyclosilicate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Lokelma is indicated for the treatment of hyperkalaemia in adult patients.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>breast fibrocystic disease（93.4%）</li>
 <li>benign mammary dysplasia（92.3%）</li>

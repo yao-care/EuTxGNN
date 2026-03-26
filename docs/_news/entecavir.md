@@ -3,7 +3,7 @@ layout: default
 title: "Entecavir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Entecavir 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Entecavir 的相關健康新聞報導。原適應症：Entecavir Accord is indicated for the treatment of...。預測適應症 10 個。"
 permalink: /news/entecavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/entecavir/
 ---
 
 <p class="key-answer" data-question="Entecavir 有什麼相關新聞？">
-<strong>Entecavir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Entecavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/entecavir/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Entecavir Accord is indicated for the treatment of chronic hepatitis B virus (HBV) infection in adults with:  compensated liver disease and evidence of active viral replication, persistently elevated...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>chronic hepatitis C virus infection（100.0%）</li>
 <li>hepatitis B virus infection（99.8%）</li>
@@ -40,21 +42,13 @@ permalink: /news/entecavir/
 <p><a href="{{ '/drugs/entecavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Hepatitis-Fälle erschüttern italienische Urlaubsregionen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxTLXg0TXJkMW5wY0t5QUJfN0hSUXpPazVWblAwelJjekc0VkpuYTBUazFhdjNvYkdZaVJtNkFmRFc5LUp0WDV4Mktmem84ZXVwa3dUR0ZJMFhwTlNjbXJaQlFCbzRUcjdIOERhaTZfaGFEVy1ITVVncE9QRi05MmlZcUdBOThZdTlyUjZpcnBsSGd6cl9EbGVyTTFQSzAtNm1STjZxLW1WZw?oc=5)
 
-2026-03-26 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-03-26 <span class="news-indication-tag">hepatitis</span>
 
 來源：[STERN.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxTLXg0TXJkMW5wY0t5QUJfN0hSUXpPazVWblAwelJjekc0VkpuYTBUazFhdjNvYkdZaVJtNkFmRFc5LUp0WDV4Mktmem84ZXVwa3dUR0ZJMFhwTlNjbXJaQlFCbzRUcjdIOERhaTZfaGFEVy1ITVVncE9QRi05MmlZcUdBOThZdTlyUjZpcnBsSGd6cl9EbGVyTTFQSzAtNm1STjZxLW1WZw?oc=5)
-
----
-
-### [Focolaio di Epatite A a Roma, dopo l'emergenza in Campania: il focolaio nel Lazio in linea con i dati dello scorso anno - Corriere Roma](https://news.google.com/rss/articles/CBMinwJBVV95cUxQQTlTdmFleU1qdjRCM2U3RXlqMkU0VF9fZ0Rkek9OR1VQN1pydkF6QlVwNUt3dTM1ck5YQm1kdzFxaWhuUzNKRDBtTGxFa1FXTHNSWXpRZDM2Zm1aaXpyTHVXZnh3OUFDelMwMm8zcUtVcDlyTkItUUVjbm0xTWxrQWhlaXdTa0oxME53OFJjbUphWlc5NTNEREtfN2lfeGE5U3FzZW1MNzJLOE8xc3ZhaFdpZTRMTnRNM3VlaUhZcEtOWnh5MFoyMDFZVW55dzV1bXgycHAtbGU2aW8tM3pNUWdla1dYNUZFOWF6ZGhBSU9jaGRMUUtCWm5pVmdVclkzd0M1aUxJQVVFNktvOXVMclFUYlQxZnVRVHhWS2p0NNIBpAJBVV95cUxPWE1VcHJCUTc2bU5DZlM3NXdCcTZscThYUUhITXF2cG1QRHVYX04wVFVLdktYcUcxN0JMMTROVGUzQ1RUVGc5WWFIYVhvVjh0bmhRWXFibGNoYmVMVUNfbVhfZnJybE0tVTRWTmdpY3BOWF9TQ0tQV0tadG05R3hGNnhMbFdCemQ1X0JsOTFUNndySWx4Ym5IV28yWHBrUWpzdnY1U2R5Ql9vRlA2VDhyUm1RNWNOa1pLWVlxVkFuaTRUTTNLdnQxN3JwVS04WWljUlU1dV9jQ1BQel83cWxOdDhMRExBQTRRdHJFZjJHSWh1NkdIUnRrRGhFQldPVmJLbzBVWlRZdnhtUFVnLVdFQ09xRXp2N0IwRmdYa2hkaWliRFBv?oc=5)
-
-2026-03-26 <span class="news-indication-tag">epatite</span>
-
-來源：[Corriere Roma](https://news.google.com/rss/articles/CBMinwJBVV95cUxQQTlTdmFleU1qdjRCM2U3RXlqMkU0VF9fZ0Rkek9OR1VQN1pydkF6QlVwNUt3dTM1ck5YQm1kdzFxaWhuUzNKRDBtTGxFa1FXTHNSWXpRZDM2Zm1aaXpyTHVXZnh3OUFDelMwMm8zcUtVcDlyTkItUUVjbm0xTWxrQWhlaXdTa0oxME53OFJjbUphWlc5NTNEREtfN2lfeGE5U3FzZW1MNzJLOE8xc3ZhaFdpZTRMTnRNM3VlaUhZcEtOWnh5MFoyMDFZVW55dzV1bXgycHAtbGU2aW8tM3pNUWdla1dYNUZFOWF6ZGhBSU9jaGRMUUtCWm5pVmdVclkzd0M1aUxJQVVFNktvOXVMclFUYlQxZnVRVHhWS2p0NNIBpAJBVV95cUxPWE1VcHJCUTc2bU5DZlM3NXdCcTZscThYUUhITXF2cG1QRHVYX04wVFVLdktYcUcxN0JMMTROVGUzQ1RUVGc5WWFIYVhvVjh0bmhRWXFibGNoYmVMVUNfbVhfZnJybE0tVTRWTmdpY3BOWF9TQ0tQV0tadG05R3hGNnhMbFdCemQ1X0JsOTFUNndySWx4Ym5IV28yWHBrUWpzdnY1U2R5Ql9vRlA2VDhyUm1RNWNOa1pLWVlxVkFuaTRUTTNLdnQxN3JwVS04WWljUlU1dV9jQ1BQel83cWxOdDhMRExBQTRRdHJFZjJHSWh1NkdIUnRrRGhFQldPVmJLbzBVWlRZdnhtUFVnLVdFQ09xRXp2N0IwRmdYa2hkaWliRFBv?oc=5)
 
 ---
 
@@ -66,11 +60,11 @@ permalink: /news/entecavir/
 
 ---
 
-### [Massa, muore per epatite C dopo una trasfusione con sangue infetto: ministero della Salute condannato a maxi-risarcimento](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGltd3lNeV84WTB1T3RTT2VpRVZ0TF94YkgtZE1uTWZaMm5sMzhTT1U5UVl6cjkyRkt5aHlQeTVORWItYnVMdGtUbjdQTGZtb1Z1QXFXTGF2UnNueVJnUjlsWnhsU3d5ZG1CQmNuZlAtWmhZOU9LcERCV3BNVW5xd3NhX0ZEY0xRVUl6ZFpJbWNNYlFITjhDbmFkTGFQMkcwNk9ES2N4WlJzdFJvVnAzRk0tRmZUU1Rkbm9j0gFoQVVfeXFMTkxmQ0xHWm44ejhITkRSbWYybmd0Sk44WlZqRWFvS2p4U0NwQ1BqWWdnZFJqZzM0WmRuWjNWRG1mT0J6cGtKYmx1WXlzME0xZGlUSG42Tm9RSUZsZWlJbE9LTjJmdkljSnE?oc=5)
+### [Epatite A a Napoli, all’ospedale Cotugno 60 ricoverati. L’infettivologa: “Meglio evitare anche il sushi” - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0NxWTNDWHlsUTgzYUxFWHJNUlZPaUJQYWV1WjA4Q3dsQTdPeTVxbTRJSnNfemdLa0lkUDA3ZTVJa0ZnQ1pJS1pnMWE0WjlpdFdBemRZNUNyM21wUVdIZk04QTFCd3AweUFkYldhSDdWQzA5Sl9VS0hTNmEwSGU1VVdnd25nekpTUG9IVFNXUHFPYlJkTTZMYmoxNEUzdw?oc=5)
 
-2026-03-24 <span class="news-indication-tag">epatite</span>
+2026-03-26 <span class="news-indication-tag">epatite</span>
 
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGltd3lNeV84WTB1T3RTT2VpRVZ0TF94YkgtZE1uTWZaMm5sMzhTT1U5UVl6cjkyRkt5aHlQeTVORWItYnVMdGtUbjdQTGZtb1Z1QXFXTGF2UnNueVJnUjlsWnhsU3d5ZG1CQmNuZlAtWmhZOU9LcERCV3BNVW5xd3NhX0ZEY0xRVUl6ZFpJbWNNYlFITjhDbmFkTGFQMkcwNk9ES2N4WlJzdFJvVnAzRk0tRmZUU1Rkbm9j0gFoQVVfeXFMTkxmQ0xHWm44ejhITkRSbWYybmd0Sk44WlZqRWFvS2p4U0NwQ1BqWWdnZFJqZzM0WmRuWjNWRG1mT0J6cGtKYmx1WXlzME0xZGlUSG42Tm9RSUZsZWlJbE9LTjJmdkljSnE?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0NxWTNDWHlsUTgzYUxFWHJNUlZPaUJQYWV1WjA4Q3dsQTdPeTVxbTRJSnNfemdLa0lkUDA3ZTVJa0ZnQ1pJS1pnMWE0WjlpdFdBemRZNUNyM21wUVdIZk04QTFCd3AweUFkYldhSDdWQzA5Sl9VS0hTNmEwSGU1VVdnd25nekpTUG9IVFNXUHFPYlJkTTZMYmoxNEUzdw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Pregabalin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Pregabalin 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Pregabalin 的相關健康新聞報導。原適應症：Epilepsy  Pregabalin Accord is indicated as adjunc...。預測適應症 10 個。"
 permalink: /news/pregabalin/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/pregabalin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Epilepsy  Pregabalin Accord is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation.  Generalised Anxiety Disorder  Pregabalin Accord is indicated...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>tendinitis（99.7%）</li>
 <li>idiopathic granulomatous myositis（99.7%）</li>

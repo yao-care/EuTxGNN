@@ -3,7 +3,7 @@ layout: default
 title: "Susoctocog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Susoctocog Alfa 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Susoctocog Alfa 的相關健康新聞報導。原適應症：Treatment of bleeding episodes in patients with ac...。預測適應症 10 個。"
 permalink: /news/susoctocog-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/susoctocog-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of bleeding episodes in patients with acquired haemophilia caused by antibodies to Factor VIII. Obizur is indicated in adults.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary release disorder of platelets（99.9%）</li>
 <li>pseudo-von Willebrand disease（99.9%）</li>

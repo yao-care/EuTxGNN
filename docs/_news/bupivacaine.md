@@ -3,7 +3,7 @@ layout: default
 title: "Bupivacaine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bupivacaine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Bupivacaine 的相關健康新聞報導。原適應症：Exparel&nbsp;liposomal is indicated:  in adults as...。預測適應症 10 個。"
 permalink: /news/bupivacaine/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/bupivacaine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Exparel&nbsp;liposomal is indicated:  in adults as a brachial plexus block or femoral nerve block for treatment of post-operative pain. in adults and children aged 6 years or older as a field block...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>dermatitis（99.5%）</li>
 <li>acrodermatitis chronica atrophicans（99.2%）</li>

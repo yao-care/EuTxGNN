@@ -3,7 +3,7 @@ layout: default
 title: "Avapritinib 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Avapritinib 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Avapritinib 的相關健康新聞報導。原適應症：Unresectable or metastatic gastrointestinal stroma...。預測適應症 10 個。"
 permalink: /news/avapritinib/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/avapritinib/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Unresectable or metastatic gastrointestinal stromal tumour (GIST) AYVAKYT is indicated as monotherapy for the treatment of adult patients with unresectable or metastatic gastrointestinal stromal...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>axial spondylometaphyseal dysplasia（99.9%）</li>
 <li>bilateral parasagittal parieto-occipital polymicrogyria（99.9%）</li>

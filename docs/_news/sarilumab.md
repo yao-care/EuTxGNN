@@ -3,7 +3,7 @@ layout: default
 title: "Sarilumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sarilumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Sarilumab 的相關健康新聞報導。原適應症：Rheumatoid arthritisKevzara in combination with me...。預測適應症 10 個。"
 permalink: /news/sarilumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/sarilumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Rheumatoid arthritisKevzara in combination with methotrexate (MTX) is indicated for the treatment of moderately to severely active rheumatoid arthritis (RA) in adult patients who have responded...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>rheumatoid arthritis（99.2%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.5%）</li>
@@ -40,13 +42,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Un nuevo hallazgo contra la metástasis cerebral muestra cómo el tumor secuestra células defensivas para usarlas en su favor - Centro Nacional de Investigaciones Oncológicas](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
+### [Investigadores del CNIO identifican un fármaco para el asma que podría reducir el riesgo de metástasis - La Razón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhFUHdOb2V2VlU5eUNZZjhCT3ItbXRBSHE1UE9MeDFYVGpjb0JkOEt1UmV3NlJKM2N1QWR3LV8wVWdhNVlid2drQkp6SFE2WUlSYjVQQ1ZqQ0JmOTdFeDFMMmtoSU1DTEUzTHlrTVY3eUZOeURrV05FSC01STh0TUZNa011Y2xDSnpJV2tOQ29IR1I2b2s1LXFVZVpJZXM5dWtmdVNMaF9Wa3hacTVSeS1NcHZyZTdHc1VjSkluZW5seGx5RUtLZkN4SHA0YUsyOWVrWjNzdFRtT3VMTy04aklJVGFGemFpTld1N2dB0gGCAkFVX3lxTFBWWnkzclkxdHlIYjV1VGtBcWxWYXNTZXNGYlBYclhZZFZrV0ZyUzlPYTdnWFBvNDY0NHFYTnYtemhTZGs2a1hOSWJiajFwOEQzVnI1VEV6UGI4Qnc5d0tJSnBGLTB0N0lmaTZNQ2Noc2Z3dnZRTHoyVGJGclVkY2tJNGw5YnlKSGdBRGtUNUFnaTdqWFFXdzYta2U3SW95Z1VGdmhRRHd0Yk5QZTRibzU4WlQ2RDZhY2o1VFpxbFNyTXc0SWtLQUt0OWs5REZ4SmhfVldXbG4zZEJLSG1CZERvT2hIeGJWRnFrVS1VOTFpR0lTa25RQXljcXpTZmU2NlZBUQ?oc=5)
 
 2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
-來源：[Centro Nacional de Investigaciones Oncológicas - CNIO](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhFUHdOb2V2VlU5eUNZZjhCT3ItbXRBSHE1UE9MeDFYVGpjb0JkOEt1UmV3NlJKM2N1QWR3LV8wVWdhNVlid2drQkp6SFE2WUlSYjVQQ1ZqQ0JmOTdFeDFMMmtoSU1DTEUzTHlrTVY3eUZOeURrV05FSC01STh0TUZNa011Y2xDSnpJV2tOQ29IR1I2b2s1LXFVZVpJZXM5dWtmdVNMaF9Wa3hacTVSeS1NcHZyZTdHc1VjSkluZW5seGx5RUtLZkN4SHA0YUsyOWVrWjNzdFRtT3VMTy04aklJVGFGemFpTld1N2dB0gGCAkFVX3lxTFBWWnkzclkxdHlIYjV1VGtBcWxWYXNTZXNGYlBYclhZZFZrV0ZyUzlPYTdnWFBvNDY0NHFYTnYtemhTZGs2a1hOSWJiajFwOEQzVnI1VEV6UGI4Qnc5d0tJSnBGLTB0N0lmaTZNQ2Noc2Z3dnZRTHoyVGJGclVkY2tJNGw5YnlKSGdBRGtUNUFnaTdqWFFXdzYta2U3SW95Z1VGdmhRRHd0Yk5QZTRibzU4WlQ2RDZhY2o1VFpxbFNyTXc0SWtLQUt0OWs5REZ4SmhfVldXbG4zZEJLSG1CZERvT2hIeGJWRnFrVS1VOTFpR0lTa25RQXljcXpTZmU2NlZBUQ?oc=5)
 
 ---
 
@@ -63,14 +65,6 @@ permalink: /news/sarilumab/
 2026-03-25 <span class="news-indication-tag">BPCO</span>
 
 來源：[Modes et travaux](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklzYldBZkpwNzRXQmo1ekJiOVQteG9nSjRoZjVWSXF3TGxxRnFOQjJEVzQ2LTNLQnlZblkyZ2tRS0hWMjJEVHdvdXJ2b1F2VHRrQ0hOalZzaVZSVXA1NXVlR0pkbEVtazNRNzluS1NLdTVuYWtka3Y2Q2ZSQ3Y3ZXBObXdCQU5DZW1ZYThjVUMyVXZ5Z3RMeGJ0UG1hSXdPTUJuUmhkZzlEWDlYNXJfdHgzMFJUak1LUDBSYUdvbVNPUHpFQXhraWs1dkJfc2pFZnRPd2dnZGVNMVl4dC0tdXo3TDgzRHhGQlp1WWRPWQ?oc=5)
-
----
-
-### [Darmmikrobiom-Forschung erlebt entscheidende Wende - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
 
 ---
 

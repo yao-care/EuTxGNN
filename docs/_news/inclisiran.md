@@ -3,7 +3,7 @@ layout: default
 title: "Inclisiran 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Inclisiran 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Inclisiran 的相關健康新聞報導。原適應症：Leqvio is indicated in adults with primary hyperch...。預測適應症 10 個。"
 permalink: /news/inclisiran/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/inclisiran/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:  in combination with a statin or statin with...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>potassium deficiency disease（99.9%）</li>
 <li>esophageal disease（99.9%）</li>

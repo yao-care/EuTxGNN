@@ -3,7 +3,7 @@ layout: default
 title: "Febuxostat 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Febuxostat 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Febuxostat 的相關健康新聞報導。原適應症：Febuxostat Krka is indicated for the treatment of ...。預測適應症 10 個。"
 permalink: /news/febuxostat/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/febuxostat/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Febuxostat Krka is indicated for the treatment of chronic hyperuricaemia in conditions where urate deposition has already occurred (including a history, or presence of, tophus and/or gouty...</li>
+<li><strong>證據等級</strong>：L4</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>obsolete hyperuricemia (disease)（100.0%）</li>
 <li>hypouricemia, renal（100.0%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Etanercept 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Etanercept 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Etanercept 的相關健康新聞報導。原適應症：Rheumatoid arthritis Nepexto in combination with m...。預測適應症 10 個。"
 permalink: /news/etanercept/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/etanercept/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Rheumatoid arthritis Nepexto in combination with methotrexate is indicated for the treatment of moderate to severe active rheumatoid arthritis in adults when the response to disease-modifying...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>ankylosing spondylitis（99.7%）</li>
 <li>rheumatoid vasculitis（99.7%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Erlotinib 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Erlotinib 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Erlotinib 的相關健康新聞報導。原適應症：Non-small cell lung cancer (NSCLC) Tarceva is also...。預測適應症 10 個。"
 permalink: /news/erlotinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/erlotinib/
 ---
 
 <p class="key-answer" data-question="Erlotinib 有什麼相關新聞？">
-<strong>Erlotinib</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Erlotinib</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/erlotinib/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Non-small cell lung cancer (NSCLC) Tarceva is also indicated for switch maintenance treatment in patients with locally advanced or metastatic non-small cell lung cancer with EGFR activating mutations...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Ewing sarcoma（95.8%）</li>
 <li>fibromatosis, gingival（95.3%）</li>
@@ -40,7 +42,15 @@ permalink: /news/erlotinib/
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（23 則）
+
+### [El cáncer colorrectal será el tumor más diagnosticado en España en 2026](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRNaG1IbW1OX0t0c0ZJUXZzQVdGN1oxUDY0bUNiYmtGT0lINXdqenh5VFg2cUlkeHJfcDFCTW9LR19QVWYzUHZwYVZ6T21scnNiblNkYWx2azlLMlNDeG9iOUdlWURIaHBsMU5LZ0V2Sjdqd3p6QzBtVF96RW9Ld2VrTUtiTHl5N0xYY1VZVXlDM0xoVnJNalk3czlzUlpvU19Rb3B4MWFLSjItdzd6NVM4YjVBVGp2bTRnSzU3QznSAcYBQVVfeXFMTnJpY0VEQTBkdXlYOGhUeXR0cDJCSzZrdThIcWtFVFEtSlkzYnU4MzlNRVdPbjU1NWlINVdGVUsyUnZCdnFacUdrRjR4aWl0Q1BIZ0J2a1MzWWp0LTBjUUgyTVhzR2lNdXZ3MUNkMXE4cFFQb09nY0drOFhiZlRTcU1qR0VKYnJBZnpMRFJKYjRDdnB1cFhIV1N4T3BLb0FJZG5lNzNfTjBRVjA0OE9pMkNEaFR5dnpBZDJKRkhaTTdBOExiUk1n?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span>
+
+來源：[democrata.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRNaG1IbW1OX0t0c0ZJUXZzQVdGN1oxUDY0bUNiYmtGT0lINXdqenh5VFg2cUlkeHJfcDFCTW9LR19QVWYzUHZwYVZ6T21scnNiblNkYWx2azlLMlNDeG9iOUdlWURIaHBsMU5LZ0V2Sjdqd3p6QzBtVF96RW9Ld2VrTUtiTHl5N0xYY1VZVXlDM0xoVnJNalk3czlzUlpvU19Rb3B4MWFLSjItdzd6NVM4YjVBVGp2bTRnSzU3QznSAcYBQVVfeXFMTnJpY0VEQTBkdXlYOGhUeXR0cDJCSzZrdThIcWtFVFEtSlkzYnU4MzlNRVdPbjU1NWlINVdGVUsyUnZCdnFacUdrRjR4aWl0Q1BIZ0J2a1MzWWp0LTBjUUgyTVhzR2lNdXZ3MUNkMXE4cFFQb09nY0drOFhiZlRTcU1qR0VKYnJBZnpMRFJKYjRDdnB1cFhIV1N4T3BLb0FJZG5lNzNfTjBRVjA0OE9pMkNEaFR5dnpBZDJKRkhaTTdBOExiUk1n?oc=5)
+
+---
 
 ### [El virus del papiloma, detrás de casi todos los cánceres de cuello de útero - Cadena SER](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVprU21aRW9tQzBVNjlYbzJCZWNFLWp2eWw2MW5GVUhiX3BuLW1jMDRDWUlndzd1ZVA0cjhIYkdBS21BVjduMUFPWDVCWVNwSGJ3RV83dkVmLXhrcC1fZFVfZkJndFhOLWpUN1lGSnBicko3NkFfMk43ZFFPdEpQSVZEdHYyM0pycW84TXpiTzk2enMzWjFSSVgyWlFTcHNNNkhIY0tCZW9nT2xWamlFUUlFTUxPVzEzVlpwazUwT2tDZU5nQ0RuadIB3AFBVV95cUxOQm5qaVBqbVhYa1JvNnpFalZ1YTYwT3k3WmMtczAzRXVrSG9idm9FVWc0MGdhLUlTVkVqbm5CWUxEd011NHpOdERDbmNpbFlrUHVLTXlMbVFERWdQTDQxYVduY1Q5bzR0dnR6OC1vRVo2ODZrZGlTdW5USW9HN09raUp5aU01X0tTTkppbXo0RjJfVEdwVVNrX2ZnOUE5UFo4MnZjYU9SaHVUWm80anlvTm9KcVlJY0U5NTJVb0doRUtfZVJYT1dpelFfRTZjcFcxalZveUd4YlFDSEti?oc=5)
 
@@ -50,7 +60,7 @@ permalink: /news/erlotinib/
 
 ---
 
-### [Wie Entzündungen den Darm Jahre später anfälliger für Krebs machen können](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnJ3SkQxWVNBVHhEZUxycW5GMUF4QURkY3BMbGZ4c1kyck9TOURZRTRrYWsweHJEUlUtM1I3ekJTcGw5SGFTNmVNZkQtWGhYMTNNOWFuY3BNOGtfTkpXVUJMY0ZWcnItVVNPMFdVY0c4TFlqU2IxY0xpZUtxY1U0Q1ZuNWFLdDdiVDZXRWM3WlpaLVZqcjBVU25lZmFYdmo3TzVsWWxKc3dJMWtRNnFiMUh0b01FMm1RWlFDUFpXb3RyODB0M1JydTNmSi1zTWcxZ0pUTnJhZ2RBUWUwWE9Pd0VqZ09pbUJmSF9KUHlFSlBvX1VPclE?oc=5)
+### [Krebs: Forscher entdecken, wie Entzündungen den Darm Jahre später anfälliger für Krebs machen](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnJ3SkQxWVNBVHhEZUxycW5GMUF4QURkY3BMbGZ4c1kyck9TOURZRTRrYWsweHJEUlUtM1I3ekJTcGw5SGFTNmVNZkQtWGhYMTNNOWFuY3BNOGtfTkpXVUJMY0ZWcnItVVNPMFdVY0c4TFlqU2IxY0xpZUtxY1U0Q1ZuNWFLdDdiVDZXRWM3WlpaLVZqcjBVU25lZmFYdmo3TzVsWWxKc3dJMWtRNnFiMUh0b01FMm1RWlFDUFpXb3RyODB0M1JydTNmSi1zTWcxZ0pUTnJhZ2RBUWUwWE9Pd0VqZ09pbUJmSF9KUHlFSlBvX1VPclE?oc=5)
 
 2026-03-26 <span class="news-indication-tag">Krebs</span>
 
@@ -74,6 +84,14 @@ permalink: /news/erlotinib/
 
 ---
 
+### [Ectopic NMDAR expression in cancer unmasks germline-encoded autoimmunity](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfanpOazI0bm00bDNlUkQ1Ym1sWl9wT3cyUlN1ZjhKa1JWaWFOaEJUeTNYTGgzOF9jVkRzWlB3eWlzM2NMQWphazBrS0lrWjI1emlEX0pxNXl5QkNGbnlz?oc=5)
+
+2026-03-25 <span class="news-indication-tag">cancer</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfanpOazI0bm00bDNlUkQ1Ym1sWl9wT3cyUlN1ZjhKa1JWaWFOaEJUeTNYTGgzOF9jVkRzWlB3eWlzM2NMQWphazBrS0lrWjI1emlEX0pxNXl5QkNGbnlz?oc=5)
+
+---
+
 ### [HRT patches can help treat prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0NPTlFwdks1WDdPdWEtNzZjZUw3ZlNtNG05UHE4ZnFGRllCNDVVX0FWcHoxNTE5OXJwcWhTNU8tMlp6dGtVQlRxaVBiMFlaN3g2REpBb0F6dWNpZkU1RzFRY3oyVVhVUmgxejRRV3FmUmhNcTNEQ195eTlWUk92SFVoSlhJY2JPeFpiQjFYajJSQmxYa1N1TUd5M2N0amJuVUEzSGdR?oc=5)
 
 2026-03-25 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">cancer</span>
@@ -90,19 +108,19 @@ permalink: /news/erlotinib/
 
 ---
 
-### [Un nuevo hallazgo contra la metástasis cerebral muestra cómo el tumor secuestra células defensivas para usarlas en su favor - Centro Nacional de Investigaciones Oncológicas](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
+### [Common blood pressure drug can boost cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUNYVHhYVDNKTzRHa21HU1FBcDRlb1g3MkRxUUdMOFgtMGptT3NDbDgwNU11S29PMG5xZDVhakVwOTh0UGl1d2NNcHVWZE9yT1dkM1M5ZXdoRGNWejNjQ3d6ZkgzV3VDamx0OE1nN05ZWWYyTVRzSmYzd3RsR2JNWlN3?oc=5)
 
-2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+2026-03-25 <span class="news-indication-tag">cancer</span>
 
-來源：[Centro Nacional de Investigaciones Oncológicas - CNIO](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUNYVHhYVDNKTzRHa21HU1FBcDRlb1g3MkRxUUdMOFgtMGptT3NDbDgwNU11S29PMG5xZDVhakVwOTh0UGl1d2NNcHVWZE9yT1dkM1M5ZXdoRGNWejNjQ3d6ZkgzV3VDamx0OE1nN05ZWWYyTVRzSmYzd3RsR2JNWlN3?oc=5)
 
 ---
 
-### [The subtle signs of Alzheimer’s disease everyone should be aware of - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
+### [Investigadores del CNIO identifican un fármaco para el asma que podría reducir el riesgo de metástasis - La Razón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhFUHdOb2V2VlU5eUNZZjhCT3ItbXRBSHE1UE9MeDFYVGpjb0JkOEt1UmV3NlJKM2N1QWR3LV8wVWdhNVlid2drQkp6SFE2WUlSYjVQQ1ZqQ0JmOTdFeDFMMmtoSU1DTEUzTHlrTVY3eUZOeURrV05FSC01STh0TUZNa011Y2xDSnpJV2tOQ29IR1I2b2s1LXFVZVpJZXM5dWtmdVNMaF9Wa3hacTVSeS1NcHZyZTdHc1VjSkluZW5seGx5RUtLZkN4SHA0YUsyOWVrWjNzdFRtT3VMTy04aklJVGFGemFpTld1N2dB0gGCAkFVX3lxTFBWWnkzclkxdHlIYjV1VGtBcWxWYXNTZXNGYlBYclhZZFZrV0ZyUzlPYTdnWFBvNDY0NHFYTnYtemhTZGs2a1hOSWJiajFwOEQzVnI1VEV6UGI4Qnc5d0tJSnBGLTB0N0lmaTZNQ2Noc2Z3dnZRTHoyVGJGclVkY2tJNGw5YnlKSGdBRGtUNUFnaTdqWFFXdzYta2U3SW95Z1VGdmhRRHd0Yk5QZTRibzU4WlQ2RDZhY2o1VFpxbFNyTXc0SWtLQUt0OWs5REZ4SmhfVldXbG4zZEJLSG1CZERvT2hIeGJWRnFrVS1VOTFpR0lTa25RQXljcXpTZmU2NlZBUQ?oc=5)
 
-2026-03-25 <span class="news-indication-tag">Alzheimer's</span>
+2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhFUHdOb2V2VlU5eUNZZjhCT3ItbXRBSHE1UE9MeDFYVGpjb0JkOEt1UmV3NlJKM2N1QWR3LV8wVWdhNVlid2drQkp6SFE2WUlSYjVQQ1ZqQ0JmOTdFeDFMMmtoSU1DTEUzTHlrTVY3eUZOeURrV05FSC01STh0TUZNa011Y2xDSnpJV2tOQ29IR1I2b2s1LXFVZVpJZXM5dWtmdVNMaF9Wa3hacTVSeS1NcHZyZTdHc1VjSkluZW5seGx5RUtLZkN4SHA0YUsyOWVrWjNzdFRtT3VMTy04aklJVGFGemFpTld1N2dB0gGCAkFVX3lxTFBWWnkzclkxdHlIYjV1VGtBcWxWYXNTZXNGYlBYclhZZFZrV0ZyUzlPYTdnWFBvNDY0NHFYTnYtemhTZGs2a1hOSWJiajFwOEQzVnI1VEV6UGI4Qnc5d0tJSnBGLTB0N0lmaTZNQ2Noc2Z3dnZRTHoyVGJGclVkY2tJNGw5YnlKSGdBRGtUNUFnaTdqWFFXdzYta2U3SW95Z1VGdmhRRHd0Yk5QZTRibzU4WlQ2RDZhY2o1VFpxbFNyTXc0SWtLQUt0OWs5REZ4SmhfVldXbG4zZEJLSG1CZERvT2hIeGJWRnFrVS1VOTFpR0lTa25RQXljcXpTZmU2NlZBUQ?oc=5)
 
 ---
 
@@ -130,27 +148,11 @@ permalink: /news/erlotinib/
 
 ---
 
-### [Was ein gesunder Thymus über Herz-Krankheiten und Lungenkrebs verrät](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZFM3R2EwQ1pvaFl6UUZOOEFVN1ZTRzVqdUZzVkxnQUozN2xjY285SGRQbGtLcnNhbUVVN3QwSnJGVnptTkMwVDQtU1RhR1cxNzAtU2QtWFhBNktiMlpXYlJCdnpUZHdobXQ5SmllSkt6WDdlcnRydk9Ca1NuaW1pSVFmUGlKeUxGb1YySjllWE5iTGxfYXdwSzcwd0M0Ukh2Z3lXOEVrV3hZcTBseXlIOXRZYnQ5Ujc1OS1XRVlhdVprOS1faWExZzFkNU1hcXA2SDBRT1JoSDBSOGI5a3h4b2lQcw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZFM3R2EwQ1pvaFl6UUZOOEFVN1ZTRzVqdUZzVkxnQUozN2xjY285SGRQbGtLcnNhbUVVN3QwSnJGVnptTkMwVDQtU1RhR1cxNzAtU2QtWFhBNktiMlpXYlJCdnpUZHdobXQ5SmllSkt6WDdlcnRydk9Ca1NuaW1pSVFmUGlKeUxGb1YySjllWE5iTGxfYXdwSzcwd0M0Ukh2Z3lXOEVrV3hZcTBseXlIOXRZYnQ5Ujc1OS1XRVlhdVprOS1faWExZzFkNU1hcXA2SDBRT1JoSDBSOGI5a3h4b2lQcw?oc=5)
-
----
-
 ### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
 
 2026-03-25 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
-
----
-
-### [Scientists create blood test that predicts dementia 25 years before symptoms appear](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
 
 ---
 
@@ -223,14 +225,6 @@ permalink: /news/erlotinib/
 2026-03-24 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BQeHh6VUF3R252T05DcERQVUJHS3RrTnhhbEFkb08zOFZ3NzJiLXJwNVdzWTllRXgza3ROOExwRktHeUdxNHF1azZHU2oxMmNvRmRuOU4xem8zY0duV0M3MjV3Z252QlVod1Q2aUNiS2dmVGZnQUhTYlVVT1lvRmx2cjNqWGVHeDRBand0X3lhWElEQ0lyc0ZB?oc=5)
-
----
-
-### [Mum diagnosed with ovarian cancer shortly after son’s second birthday urges others to be aware of symptoms - The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
 
 ---
 

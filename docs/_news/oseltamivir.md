@@ -3,7 +3,7 @@ layout: default
 title: "Oseltamivir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Oseltamivir 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Oseltamivir 的相關健康新聞報導。原適應症：Treatment of influenza Tamiflu is indicated in adu...。預測適應症 10 個。"
 permalink: /news/oseltamivir/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/oseltamivir/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of influenza Tamiflu is indicated in adults and children including full term neonates who present with symptoms typical of influenza, when influenza virus is circulating in the community....</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>influenza, severe, susceptibility to（98.7%）</li>
 <li>pyelonephritis（97.8%）</li>

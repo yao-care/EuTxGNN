@@ -3,7 +3,7 @@ layout: default
 title: "Vinflunine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vinflunine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Vinflunine 的相關健康新聞報導。原適應症：Javlor is indicated in monotherapy for the treatme...。預測適應症 10 個。"
 permalink: /news/vinflunine/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/vinflunine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Javlor is indicated in monotherapy for the treatment of adult patients with advanced or metastatic transitional-cell carcinoma of the urothelial tract after failure of a prior platinum-containing...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>amyotrophic lateral sclerosis（99.0%）</li>
 <li>bilateral parasagittal parieto-occipital polymicrogyria（98.7%）</li>

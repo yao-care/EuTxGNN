@@ -3,7 +3,7 @@ layout: default
 title: "Ertapenem Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ertapenem Sodium 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ertapenem Sodium 的相關健康新聞報導。原適應症：Treatment Ertapenem SUN is indicated in paediatric...。預測適應症 10 個。"
 permalink: /news/ertapenem-sodium/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ertapenem-sodium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment Ertapenem SUN is indicated in paediatric patients (3 months to 17 years of age) and in adults for the treatment of the following infections when caused by bacteria known or very likely to...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>bacterial arthritis（99.7%）</li>
 <li>staphylococcus aureus infection（99.3%）</li>

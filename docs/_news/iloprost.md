@@ -3,7 +3,7 @@ layout: default
 title: "Iloprost 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Iloprost 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Iloprost 的相關健康新聞報導。原適應症：Treatment of patients with primary pulmonary hyper...。預測適應症 10 個。"
 permalink: /news/iloprost/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/iloprost/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of patients with primary pulmonary hypertension, classified as New York Heart Association functional class III, to improve exercise capacity and symptoms.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>hypotrichosis simplex of the scalp（99.5%）</li>
 <li>congenital hypotrichosis milia（99.3%）</li>

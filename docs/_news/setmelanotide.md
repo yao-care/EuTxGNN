@@ -3,7 +3,7 @@ layout: default
 title: "Setmelanotide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Setmelanotide 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Setmelanotide 的相關健康新聞報導。原適應症：IMCIVREE is indicated for the treatment of obesity...。預測適應症 10 個。"
 permalink: /news/setmelanotide/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/setmelanotide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：IMCIVREE is indicated for the treatment of obesity and the control of hunger associated with genetically confirmed Bardet Biedl syndrome (BBS), loss-of-function biallelic pro-opiomelanocortin (POMC),...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>migraine disorder（92.2%）</li>
 <li>migraine with brainstem aura（91.7%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Atropine Sulfate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Atropine Sulfate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Atropine Sulfate 的相關健康新聞報導。原適應症：Ryjunea is indicated for slowing the progression o...。預測適應症 10 個。"
 permalink: /news/atropine-sulfate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/atropine-sulfate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Ryjunea is indicated for slowing the progression of myopia in paediatric patients. Treatment may be initiated in children aged 3-14 years with a progression rate of 0.5 D or more per year and a...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>migraine disorder（99.6%）</li>
 <li>migraine with brainstem aura（99.4%）</li>

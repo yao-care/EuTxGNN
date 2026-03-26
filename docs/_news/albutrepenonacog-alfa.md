@@ -3,7 +3,7 @@ layout: default
 title: "Albutrepenonacog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Albutrepenonacog Alfa 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Albutrepenonacog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 10 個。"
 permalink: /news/albutrepenonacog-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/albutrepenonacog-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>pseudo-von Willebrand disease（99.9%）</li>
 <li>primary release disorder of platelets（99.9%）</li>

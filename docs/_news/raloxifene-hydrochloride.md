@@ -3,7 +3,7 @@ layout: default
 title: "Raloxifene Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Raloxifene Hydrochloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Raloxifene Hydrochloride 的相關健康新聞報導。原適應症：Raloxifene is indicated for the treatment and prev...。預測適應症 10 個。"
 permalink: /news/raloxifene-hydrochloride/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/raloxifene-hydrochloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Raloxifene is indicated for the treatment and prevention of osteoporosis in postmenopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated....</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>duodenal ulcer (disease)（99.7%）</li>
 <li>obsolete susceptibility to ischemic stroke（99.7%）</li>
@@ -46,7 +48,7 @@ permalink: /news/raloxifene-hydrochloride/
 
 2026-03-26 <span class="news-indication-tag">ictus</span>
 
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdiUXVVdkZ0OUVwU2xpa29KSTBWR0VZLTlhUnJyLV9OenluZzc4dlpTS1llbHJ3cG02YkNQVHRHV0JkYXpnLVFaV1NqMml3SFdpWV9BRWJTUzdXNHJLaGhnV1JRNXVqclhSM3I5Z0tvM1E4RnZGdU5hZGtpRHNyNU5qMTVINFFOTlBaNzFaQmhmLW1oVFhzM2d30gGMAUFVX3lxTE85TUVzQXJaOHJwbUpXdEhRaXE4U2hkUnVzb2NKR0lRc3JiRzVYVjJTNlkzbGFaZ0dON055ZEJCamNhZTd5amtOQmNUZ3p1bE41VU4yRl9zb1RWSjF1d1FqcldCMW1tODR0Nmgyakhabl9pZ0NNMXZaYXZYUEh2eGdYYldnOTVXRFV2cTBs?oc=5)
+來源：[leggo.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdiUXVVdkZ0OUVwU2xpa29KSTBWR0VZLTlhUnJyLV9OenluZzc4dlpTS1llbHJ3cG02YkNQVHRHV0JkYXpnLVFaV1NqMml3SFdpWV9BRWJTUzdXNHJLaGhnV1JRNXVqclhSM3I5Z0tvM1E4RnZGdU5hZGtpRHNyNU5qMTVINFFOTlBaNzFaQmhmLW1oVFhzM2d30gGMAUFVX3lxTE85TUVzQXJaOHJwbUpXdEhRaXE4U2hkUnVzb2NKR0lRc3JiRzVYVjJTNlkzbGFaZ0dON055ZEJCamNhZTd5amtOQmNUZ3p1bE41VU4yRl9zb1RWSjF1d1FqcldCMW1tODR0Nmgyakhabl9pZ0NNMXZaYXZYUEh2eGdYYldnOTVXRFV2cTBs?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Methylphenidate Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Methylphenidate Hydrochloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Methylphenidate Hydrochloride 的相關健康新聞報導。原適應症：Tuzulby is indicated as part of a comprehensive tr...。預測適應症 10 個。"
 permalink: /news/methylphenidate-hydrochloride/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/methylphenidate-hydrochloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Tuzulby is indicated as part of a comprehensive treatment programme for attention-deficit / hyperactivity disorder (ADHD) in children and adolescents 6-17 years old when remedial measures alone prove...</li>
+<li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>attention deficit-hyperactivity disorder（100.0%）</li>
 <li>faciodigitogenital syndrome（100.0%）</li>

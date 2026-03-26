@@ -3,7 +3,7 @@ layout: default
 title: "Idursulfase 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Idursulfase 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Idursulfase 的相關健康新聞報導。原適應症：Elaprase is indicated for the long-term treatment ...。預測適應症 10 個。"
 permalink: /news/idursulfase/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/idursulfase/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Elaprase is indicated for the long-term treatment of patients with Hunter syndrome (mucopolysaccharidosis II, MPS II). Heterozygous females were not studied in the clinical trials.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>ptosis-strabismus-ectopic pupils syndrome（97.9%）</li>
 <li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye（97.9%）</li>

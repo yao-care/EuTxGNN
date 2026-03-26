@@ -3,7 +3,7 @@ layout: default
 title: "Infliximab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Infliximab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Infliximab 的相關健康新聞報導。原適應症：Treatment of rheumatoid arthritis, Crohn’s disease...。預測適應症 10 個。"
 permalink: /news/infliximab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/infliximab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of rheumatoid arthritis, Crohn’s disease, ulcerative colitis, ankylosing spondylitis, psoriatic arthritis and psoriasis.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>rheumatoid arthritis（93.4%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（90.2%）</li>

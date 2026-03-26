@@ -3,7 +3,7 @@ layout: default
 title: "Anakinra 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Anakinra 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Anakinra 的相關健康新聞報導。原適應症：Rheumatoid Arthritis (RA) Kineret is indicated in ...。預測適應症 10 個。"
 permalink: /news/anakinra/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/anakinra/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Rheumatoid Arthritis (RA) Kineret is indicated in adults for the treatment of the signs and symptoms of RA in combination with methotrexate, with an inadequate response to methotrexate alone....</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>extracutaneous mastocytoma（99.9%）</li>
 <li>hepatic infarction（99.9%）</li>

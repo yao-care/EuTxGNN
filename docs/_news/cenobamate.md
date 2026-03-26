@@ -3,7 +3,7 @@ layout: default
 title: "Cenobamate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Cenobamate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Cenobamate 的相關健康新聞報導。原適應症：Adjunctive treatment of focal-onset seizures with ...。預測適應症 10 個。"
 permalink: /news/cenobamate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/cenobamate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Adjunctive treatment of focal-onset seizures with or without secondary generalisation in adult patients with epilepsy who have not been adequately controlled despite a history of treatment with at...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>partial epilepsy（98.3%）</li>
 <li>guanidinoacetate methyltransferase deficiency（97.8%）</li>

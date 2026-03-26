@@ -3,7 +3,7 @@ layout: default
 title: "Tiratricol 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tiratricol 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Tiratricol 的相關健康新聞報導。原適應症：Emcitate is indicated for the treatment of periphe...。預測適應症 10 個。"
 permalink: /news/tiratricol/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/tiratricol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Emcitate is indicated for the treatment of peripheral thyrotoxicosis in patients with monocarboxylate transporter 8 (MCT8) deficiency (Allan-Herndon-Dudley Syndrome), from birth.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>migraine with brainstem aura（93.3%）</li>
 <li>migraine disorder（92.3%）</li>

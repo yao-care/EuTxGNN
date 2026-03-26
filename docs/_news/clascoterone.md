@@ -3,7 +3,7 @@ layout: default
 title: "Clascoterone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Clascoterone 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Clascoterone 的相關健康新聞報導。原適應症：Adults&nbsp;Winlevi is indicated for the treatment...。預測適應症 10 個。"
 permalink: /news/clascoterone/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/clascoterone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Adults&nbsp;Winlevi is indicated for the treatment of acne vulgaris. Adolescents (from 12 to &lt;&nbsp;18&nbsp;years of age)&nbsp;Winlevi is indicated for the treatment of facial acne vulgaris.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>candidiasis（94.8%）</li>
 <li>migraine disorder（92.1%）</li>

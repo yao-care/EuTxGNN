@@ -3,7 +3,7 @@ layout: default
 title: "Mitotane 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Mitotane 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Mitotane 的相關健康新聞報導。原適應症：Symptomatic treatment of advanced (unresectable, m...。預測適應症 10 個。"
 permalink: /news/mitotane/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/mitotane/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Symptomatic treatment of advanced (unresectable, metastatic or relapsed) adrenal cortical carcinoma. The effect of Lysodren on non-functional adrenal cortical carcinoma is not established.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>multiple endocrine neoplasia（98.0%）</li>
 <li>acne (disease)（97.8%）</li>

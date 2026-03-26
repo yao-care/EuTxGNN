@@ -3,7 +3,7 @@ layout: default
 title: "Avatrombopag Maleate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Avatrombopag Maleate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Avatrombopag Maleate 的相關健康新聞報導。原適應症：Doptelet is indicated for the treatment of severe ...。預測適應症 10 個。"
 permalink: /news/avatrombopag-maleate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/avatrombopag-maleate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Doptelet is indicated for the treatment of severe thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo an invasive procedure. Doptelet is indicated for the...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>marcothrombocytopenia with mitral valve insufficiency（100.0%）</li>
 <li>hereditary thrombocytopenia with normal platelets（100.0%）</li>

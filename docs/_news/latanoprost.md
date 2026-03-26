@@ -3,7 +3,7 @@ layout: default
 title: "Latanoprost 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Latanoprost 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Latanoprost 的相關健康新聞報導。原適應症：Catiolanze is indicated for the reduction of eleva...。預測適應症 10 個。"
 permalink: /news/latanoprost/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/latanoprost/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Catiolanze is indicated for the reduction of elevated intraocular pressure (IOP) in adult patients with open angle glaucoma or ocular hypertension. Catiolanze is indicated for the reduction of...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary hereditary glaucoma（99.9%）</li>
 <li>open-angle glaucoma（99.9%）</li>

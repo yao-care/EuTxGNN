@@ -3,7 +3,7 @@ layout: default
 title: "Afamelanotide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Afamelanotide 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Afamelanotide 的相關健康新聞報導。原適應症：Prevention of phototoxicity in adult patients with...。預測適應症 10 個。"
 permalink: /news/afamelanotide/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/afamelanotide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Prevention of phototoxicity in adult patients with erythropoietic protoporphyria (EPP).</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>X-linked erythropoietic protoporphyria（98.9%）</li>
 <li>autosomal erythropoietic protoporphyria（98.7%）</li>

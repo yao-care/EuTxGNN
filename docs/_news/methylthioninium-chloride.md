@@ -3,7 +3,7 @@ layout: default
 title: "Methylthioninium Chloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Methylthioninium Chloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Methylthioninium Chloride 的相關健康新聞報導。原適應症：Lumeblue is indicated as a diagnostic agent enhanc...。預測適應症 10 個。"
 permalink: /news/methylthioninium-chloride/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/methylthioninium-chloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Lumeblue is indicated as a diagnostic agent enhancing visualisation of colorectal lesions in adult patients undergoing screening or surveillance colonoscopy.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>irritable bowel syndrome（90.4%）</li>
 <li>dysthymic disorder（88.5%）</li>

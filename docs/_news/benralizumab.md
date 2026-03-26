@@ -3,7 +3,7 @@ layout: default
 title: "Benralizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Benralizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Benralizumab 的相關健康新聞報導。原適應症：AsthmaFasenra is indicated as an add on maintenanc...。預測適應症 10 個。"
 permalink: /news/benralizumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/benralizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：AsthmaFasenra is indicated as an add on maintenance treatment in adult patients with severe eosinophilic asthma inadequately controlled despite high-dose inhaled corticosteroids plus long acting β...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>thrombocytopenia due to immune destruction（99.3%）</li>
 <li>dermatitis（99.2%）</li>

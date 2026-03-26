@@ -3,7 +3,7 @@ layout: default
 title: "Tirzepatide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tirzepatide 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Tirzepatide 的相關健康新聞報導。原適應症：Type 2 diabetes mellitus Mounjaro is indicated for...。預測適應症 10 個。"
 permalink: /news/tirzepatide/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/tirzepatide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Type 2 diabetes mellitus Mounjaro is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise  as monotherapy when metformin is...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>gout（96.8%）</li>
 <li>osteoarthritis（95.9%）</li>

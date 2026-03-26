@@ -3,7 +3,7 @@ layout: default
 title: "Teriparatide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Teriparatide 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Teriparatide 的相關健康新聞報導。原適應症：Kauliv is indicated in adults. Treatment of osteop...。預測適應症 10 個。"
 permalink: /news/teriparatide/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/teriparatide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Kauliv is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at increased risk of fracture (see section 5.1). In postmenopausal women, a significant reduction in the...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>duodenal ulcer (disease)（99.9%）</li>
 <li>non-syndromic esophageal malformation（99.8%）</li>

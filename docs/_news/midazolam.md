@@ -3,7 +3,7 @@ layout: default
 title: "Midazolam 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Midazolam 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Midazolam 的相關健康新聞報導。原適應症：Treatment of prolonged, acute, convulsive seizures...。預測適應症 10 個。"
 permalink: /news/midazolam/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/midazolam/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of prolonged, acute, convulsive seizures in infants from 3 months to adults.BUCCOLAM must only be used by parents/carers where the patient has been diagnosed to have epilepsy.For infants...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>insomnia (disease)（99.7%）</li>
 <li>anxiety（99.3%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Lanadelumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lanadelumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Lanadelumab 的相關健康新聞報導。原適應症：Takhzyro is indicated for routine prevention of re...。預測適應症 10 個。"
 permalink: /news/lanadelumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/lanadelumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Takhzyro is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in patients aged 2 years and older.</li>
+<li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>C1 inhibitor deficiency（100.0%）</li>
 <li>hereditary angioedema with C1Inh deficiency（100.0%）</li>

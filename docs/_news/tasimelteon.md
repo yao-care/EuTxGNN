@@ -3,7 +3,7 @@ layout: default
 title: "Tasimelteon 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tasimelteon 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Tasimelteon 的相關健康新聞報導。原適應症：Hetlioz is indicated for the treatment of Non-24-H...。預測適應症 10 個。"
 permalink: /news/tasimelteon/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/tasimelteon/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Hetlioz is indicated for the treatment of Non-24-Hour Sleep-Wake Disorder (Non-24) in totally blind adults.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>bilateral parasagittal parieto-occipital polymicrogyria（99.5%）</li>
 <li>insomnia (disease)（99.5%）</li>
@@ -40,29 +42,21 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Le lien entre douleur chronique et dépression enfin élucidé - Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
+
+2026-03-26 <span class="news-indication-tag">dépression</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
+
+---
 
 ### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
----
-
-### [Le lien entre douleur chronique et dépression enfin élucidé - Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
-
-2026-03-25 <span class="news-indication-tag">dépression</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
-
----
-
-### [La dieta mediterránea puede ser una aliada contra la depresión, y la clave está en la microbiota](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGstcmFKYTFMYXlSOUZ3eUhBZDFNUGtCTzItZEQwUnE4SWNRenpidWhPRzV2cHMzVVBsZXhJeUY5eWxYNnVzOXRzS1NVNkNCbEVOSEVJWWxzcC1lMjlpaVRRVnVfYkU4RUd0MndyZmpIRmFOTXVxanl2N2VzZndlZjc3RDFBSVFXaEZWeU9RNTF5c2dnR3pKS082NUtYMEdsQ1UzdWNtWEhyR2RSVkHSAbMBQVVfeXFMTWNoQ1Y5TUhuS05vOTliMFY0bnJmenVTSHhnSWpvNWRNekFUYnA2ZUptSGozYUQxaDk0QWRFRmY4TmQ3TS15TlBSSU9Zb01HNXlFTzlhN3ZfR0FWRGEtbUZEZ0JvTW1ZbU1xRHItQXJUNmplcEFKMGtGMDBHMnZJMVpISjYwNkw1X3JjRWtHV3NvQ09OYUoxajZUQUV0S25odlE4OVVFaDFwX2tEbmF1d2lYMzQ?oc=5)
-
-2026-03-25 <span class="news-indication-tag">depresión</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGstcmFKYTFMYXlSOUZ3eUhBZDFNUGtCTzItZEQwUnE4SWNRenpidWhPRzV2cHMzVVBsZXhJeUY5eWxYNnVzOXRzS1NVNkNCbEVOSEVJWWxzcC1lMjlpaVRRVnVfYkU4RUd0MndyZmpIRmFOTXVxanl2N2VzZndlZjc3RDFBSVFXaEZWeU9RNTF5c2dnR3pKS082NUtYMEdsQ1UzdWNtWEhyR2RSVkHSAbMBQVVfeXFMTWNoQ1Y5TUhuS05vOTliMFY0bnJmenVTSHhnSWpvNWRNekFUYnA2ZUptSGozYUQxaDk0QWRFRmY4TmQ3TS15TlBSSU9Zb01HNXlFTzlhN3ZfR0FWRGEtbUZEZ0JvTW1ZbU1xRHItQXJUNmplcEFKMGtGMDBHMnZJMVpISjYwNkw1X3JjRWtHV3NvQ09OYUoxajZUQUV0S25odlE4OVVFaDFwX2tEbmF1d2lYMzQ?oc=5)
 
 ---
 

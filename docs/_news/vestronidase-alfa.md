@@ -3,7 +3,7 @@ layout: default
 title: "Vestronidase Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vestronidase Alfa 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Vestronidase Alfa 的相關健康新聞報導。原適應症：Mepsevii is indicated for the treatment of non-neu...。預測適應症 10 個。"
 permalink: /news/vestronidase-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/vestronidase-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Mepsevii is indicated for the treatment of non-neurological manifestations of Mucopolysaccharidosis VII (MPS VII; Sly syndrome).</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Scheie syndrome（99.9%）</li>
 <li>lysosomal storage disease with skeletal involvement（99.6%）</li>

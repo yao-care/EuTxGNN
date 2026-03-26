@@ -3,7 +3,7 @@ layout: default
 title: "Carglumic Acid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Carglumic Acid 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Carglumic Acid 的相關健康新聞報導。原適應症：Ucedane is indicated in treatment of:  hyperammona...。預測適應症 10 個。"
 permalink: /news/carglumic-acid/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/carglumic-acid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Ucedane is indicated in treatment of:  hyperammonaemia due to N-acetylglutamate synthase primary deficiency; Hyperammonaemia due to isovaleric acidaemia; Hyperammonaemia due to methymalonic...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>cystic teratoma（86.6%）</li>
 <li>spinal cord dermoid cyst（86.5%）</li>

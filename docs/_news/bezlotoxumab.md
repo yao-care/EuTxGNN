@@ -3,7 +3,7 @@ layout: default
 title: "Bezlotoxumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bezlotoxumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Bezlotoxumab 的相關健康新聞報導。原適應症：Zinplava is indicated for the prevention of recurr...。預測適應症 10 個。"
 permalink: /news/bezlotoxumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/bezlotoxumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Zinplava is indicated for the prevention of recurrence of Clostridium difficile infection (CDI) in adults at high risk for recurrence of CDI.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>acute female pelvic peritonitis（99.9%）</li>
 <li>embryonic cyst of fallopian tube（99.9%）</li>

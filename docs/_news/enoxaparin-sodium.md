@@ -3,7 +3,7 @@ layout: default
 title: "Enoxaparin Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Enoxaparin Sodium 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Enoxaparin Sodium 的相關健康新聞報導。原適應症：Inhixa is indicated for adults for:  Prophylaxis o...。預測適應症 10 個。"
 permalink: /news/enoxaparin-sodium/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/enoxaparin-sodium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Inhixa is indicated for adults for:  Prophylaxis of venous thromboembolism, particularly in patients undergoing orthopaedic, general or oncological surgery. Prophylaxis of venous thromboembolism in...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>purpura fulminans（99.8%）</li>
 <li>pulmonary embolism (disease)（99.6%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Norelgestromin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Norelgestromin 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Norelgestromin 的相關健康新聞報導。原適應症：Female contraception. Evra is intended for women o...。預測適應症 10 個。"
 permalink: /news/norelgestromin/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/norelgestromin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Female contraception. Evra is intended for women of fertile age. The safety and efficacy has been established in women aged 18 to 45 years.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>amenorrhea (disease)（99.5%）</li>
 <li>acne (disease)（98.5%）</li>

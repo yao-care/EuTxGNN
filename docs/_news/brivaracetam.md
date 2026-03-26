@@ -3,7 +3,7 @@ layout: default
 title: "Brivaracetam 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Brivaracetam 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Brivaracetam 的相關健康新聞報導。原適應症：Briviact is indicated as adjunctive therapy in the...。預測適應症 10 個。"
 permalink: /news/brivaracetam/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/brivaracetam/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Briviact is indicated as adjunctive therapy in the treatment of partial-onset seizures with or without secondary generalisation in adult and adolescent patients from 16 years of age with epilepsy.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>visual epilepsy（99.5%）</li>
 <li>status epilepticus（99.4%）</li>

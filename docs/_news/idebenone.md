@@ -3,7 +3,7 @@ layout: default
 title: "Idebenone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Idebenone 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Idebenone 的相關健康新聞報導。原適應症：Raxone is indicated for the treatment of visual im...。預測適應症 10 個。"
 permalink: /news/idebenone/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/idebenone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Raxone is indicated for the treatment of visual impairment in adolescent and adult patients with Leber’s Hereditary Optic Neuropathy (LHON).</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>hepatic porphyria（99.9%）</li>
 <li>hepatoportal sclerosis（99.9%）</li>

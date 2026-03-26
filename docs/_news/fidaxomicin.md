@@ -3,7 +3,7 @@ layout: default
 title: "Fidaxomicin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fidaxomicin 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Fidaxomicin 的相關健康新聞報導。原適應症：Dificlir film-coated tablets is indicated for the ...。預測適應症 10 個。"
 permalink: /news/fidaxomicin/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/fidaxomicin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Dificlir film-coated tablets is indicated for the treatment of Clostridioides difficile infections (CDI) also known as C. difficile-associated diarrhoea (CDAD) in adult and paediatric patients with a...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>staphylococcal scalded skin syndrome（99.7%）</li>
 <li>Clostridium infectious disease（99.7%）</li>

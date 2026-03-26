@@ -3,7 +3,7 @@ layout: default
 title: "Nitisinone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Nitisinone 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Nitisinone 的相關健康新聞報導。原適應症：Treatment of adult and paediatric patients with co...。預測適應症 10 個。"
 permalink: /news/nitisinone/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/nitisinone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of adult and paediatric patients with confirmed diagnosis of hereditary tyrosinemia type 1 (HT-1) in combination with dietary restriction of tyrosine and phenylalanine.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>renal tubular acidosis（100.0%）</li>
 <li>galactosemia（100.0%）</li>

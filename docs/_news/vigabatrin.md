@@ -3,7 +3,7 @@ layout: default
 title: "Vigabatrin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vigabatrin 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Vigabatrin 的相關健康新聞報導。原適應症：Kigabeq is indicated in infants and children from ...。預測適應症 10 個。"
 permalink: /news/vigabatrin/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/vigabatrin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Kigabeq is indicated in infants and children from 1 month to less than 7 years of age for:  Treatment in monotherapy of infantile spasms (West's syndrome). Treatment in combination with other...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>West syndrome（99.1%）</li>
 <li>intellectual disability, X-linked, with or without seizures, arx-related（98.7%）</li>

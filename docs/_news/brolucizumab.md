@@ -3,7 +3,7 @@ layout: default
 title: "Brolucizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Brolucizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Brolucizumab 的相關健康新聞報導。原適應症：Beovu is indicated in adults for the treatment of ...。預測適應症 10 個。"
 permalink: /news/brolucizumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/brolucizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Beovu is indicated in adults for the treatment of neovascular (wet) age-related macular degeneration (AMD).</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies（99.7%）</li>
 <li>esophageal varices without bleeding（99.1%）</li>

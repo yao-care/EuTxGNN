@@ -3,7 +3,7 @@ layout: default
 title: "Palonosetron Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Palonosetron Hydrochloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Palonosetron Hydrochloride 的相關健康新聞報導。原適應症：Aloxi is indicated in adults for:  the prevention ...。預測適應症 10 個。"
 permalink: /news/palonosetron-hydrochloride/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/palonosetron-hydrochloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Aloxi is indicated in adults for:  the prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy, the prevention of nausea and vomiting associated with moderately...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>migraine disorder（99.7%）</li>
 <li>migraine with brainstem aura（99.7%）</li>

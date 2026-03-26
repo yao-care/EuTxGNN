@@ -3,7 +3,7 @@ layout: default
 title: "Mepolizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Mepolizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Mepolizumab 的相關健康新聞報導。原適應症：Severe eosinophilic asthmaNucala is indicated as a...。預測適應症 10 個。"
 permalink: /news/mepolizumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/mepolizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Severe eosinophilic asthmaNucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older . Chronic rhinosinusitis with...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>thrombocytopenia due to immune destruction（99.7%）</li>
 <li>primary release disorder of platelets（99.6%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Ceftaroline Fosamil 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ceftaroline Fosamil 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ceftaroline Fosamil 的相關健康新聞報導。原適應症：Zinforo is indicated for the treatment of the foll...。預測適應症 10 個。"
 permalink: /news/ceftaroline-fosamil/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ceftaroline-fosamil/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Zinforo is indicated for the treatment of the following infections in neonates, infants, children, adolescents and adults:  Complicated skin and soft tissue infections (cSSTI) Community-acquired...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>rheumatoid arthritis（98.2%）</li>
 <li>osteoarthritis（98.2%）</li>

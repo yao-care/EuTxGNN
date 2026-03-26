@@ -3,7 +3,7 @@ layout: default
 title: "Cariprazine Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Cariprazine Hydrochloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Cariprazine Hydrochloride 的相關健康新聞報導。原適應症：Reagila is indicated for the treatment of schizoph...。預測適應症 10 個。"
 permalink: /news/cariprazine-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/cariprazine-hydrochloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Reagila is indicated for the treatment of schizophrenia in adult patients.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>schizophrenia（99.1%）</li>
 <li>retinal dystrophy with or without extraocular anomalies（98.7%）</li>
@@ -40,7 +42,7 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
 ### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
 
@@ -82,19 +84,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Five food supplement ads banned over women's health claims - Sky News](https://news.google.com/rss/articles/CBMimAFBVV95cUxORHljVEQ5bTVaMWpNdFMta1NEa2FLTFlGcEhqaEtPSE5aTDA5WHNrcHpKOTM3elBWejQyUmY3RG9QUnotZ3l5czFXeE9WY1VmeXhyU1hmMVc2SVoycFRUMmJ4RUZOd2NzM3h3ZFNlNS1jUWU1Y2Q2VUpzZ3dNcG9KSDROQTNfMW4zRXZKN1NPNjVySEJjLWk0Qg?oc=5)
+### ['I was left doubly incontinent by a condition that affects 1 million UK women'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2U9IBngFBVV95cUxPeGo2RUw3NFlfMVJyZEpaNHFJNmk3VTlONU5YcktRcS1taUJTd3QtMWNQcVdfbGk5aDRTSmVrQVpNMnNmNGhmOFBIUHdzWXZveFdQNmxCWFQ2Zmt4a0dIQ1ZLN1ZBdVExMDRrV0poMnl1R29ja3l2ajY0RkVpaFlibzFHRWgwc2lqcWRIUXU4dHhwZXFqbVlXa281ZW9IQQ?oc=5)
 
 2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMimAFBVV95cUxORHljVEQ5bTVaMWpNdFMta1NEa2FLTFlGcEhqaEtPSE5aTDA5WHNrcHpKOTM3elBWejQyUmY3RG9QUnotZ3l5czFXeE9WY1VmeXhyU1hmMVc2SVoycFRUMmJ4RUZOd2NzM3h3ZFNlNS1jUWU1Y2Q2VUpzZ3dNcG9KSDROQTNfMW4zRXZKN1NPNjVySEJjLWk0Qg?oc=5)
+來源：[metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2U9IBngFBVV95cUxPeGo2RUw3NFlfMVJyZEpaNHFJNmk3VTlONU5YcktRcS1taUJTd3QtMWNQcVdfbGk5aDRTSmVrQVpNMnNmNGhmOFBIUHdzWXZveFdQNmxCWFQ2Zmt4a0dIQ1ZLN1ZBdVExMDRrV0poMnl1R29ja3l2ajY0RkVpaFlibzFHRWgwc2lqcWRIUXU4dHhwZXFqbVlXa281ZW9IQQ?oc=5)
 
 ---
 
-### [Scientists create blood test that predicts dementia 25 years before symptoms appear](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
+### [Junger Paderborner kämpft gegen MS – spezielle Therapie macht ihm Hoffnung - Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
 
-2026-03-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-03-25 <span class="news-indication-tag">MS</span>
 
-來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
+來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
 
 ---
 
@@ -103,22 +105,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-03-24 <span class="news-indication-tag">MS</span>
 
 來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWVBSZHJFS1JlQWhPbURHYnllVmFfaGhwNFNVOHNvdXNWSXBzWEZOaVYxUUp2bjVDWkxpc01MTU5VcHR2SS1TZ2JBYUhZWGpnak1zb3RDOXRkR29jSHBNYXFGa2xBcmJiUEFWSjE4a1RTQmhCWmFVa2pVZW1YZE1ndW5XclI4NWxwYUp3eHBYOEVWZk50eVpBNHFqS0J6Q0xFMTZ1aUY2LUtpUmh5SUF2MFNrLUtkR1hvclIzenRESVBiZ2Qwd0NqRW5jUk9tdXNwT0FvcFZPdGJGQVB5Y0I0Z3lacHFhcW9XUTk0UTFfYTZISUdxeU8yYUxqQQ?oc=5)
-
----
-
-### [Junger Paderborner kämpft gegen Multiple Sklerose – Spenden machen ihm Hoffnung - Neue Westfälische](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHNtcjBhNTgtVlVLNWgwbWNVZDlaMVVfWmZNYjgzcTFfN3hSeHRsUVg0bk1adERHR1VXYW56RVFLQWZzRTV6SERDYnR3dVBrdXpuWVVhWGRiYUpYdHhqRnBUSUNmSU5hcG5TZEx1VWhPSG5pYmcxamtKSXFDbzVKclhwUC04MkFjN2lrLVZHVzNCN1RtRmFscGQzN0JxZTBfYXdMYnQzQS14aHBKb0ZBVjdzT05KdzBUNEpJTWpUVFJQcXlYZ0JCZzhEdjJyUHF3Tnp3V3did20tdw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHNtcjBhNTgtVlVLNWgwbWNVZDlaMVVfWmZNYjgzcTFfN3hSeHRsUVg0bk1adERHR1VXYW56RVFLQWZzRTV6SERDYnR3dVBrdXpuWVVhWGRiYUpYdHhqRnBUSUNmSU5hcG5TZEx1VWhPSG5pYmcxamtKSXFDbzVKclhwUC04MkFjN2lrLVZHVzNCN1RtRmFscGQzN0JxZTBfYXdMYnQzQS14aHBKb0ZBVjdzT05KdzBUNEpJTWpUVFJQcXlYZ0JCZzhEdjJyUHF3Tnp3V3did20tdw?oc=5)
-
----
-
-### [Mum diagnosed with ovarian cancer shortly after son’s second birthday urges others to be aware of symptoms - The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
 
 ---
 

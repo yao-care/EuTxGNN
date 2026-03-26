@@ -3,7 +3,7 @@ layout: default
 title: "Ulipristal 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ulipristal 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ulipristal 的相關健康新聞報導。原適應症：Emergency contraception within 120 hours (five day...。預測適應症 10 個。"
 permalink: /news/ulipristal/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ulipristal/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Emergency contraception within 120 hours (five days) of unprotected sexual intercourse or contraceptive failure.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>rheumatoid arthritis（90.3%）</li>
 <li>primary release disorder of platelets（89.7%）</li>

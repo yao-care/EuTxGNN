@@ -24,6 +24,7 @@ permalink: /news/bedaquiline-fumarate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>multidrug-resistant tuberculosis（100.0%）</li>
 <li>tuberculosis, bovine（100.0%）</li>

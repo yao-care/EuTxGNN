@@ -3,7 +3,7 @@ layout: default
 title: "Sparsentan 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sparsentan 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Sparsentan 的相關健康新聞報導。原適應症：Filspari is indicated for the treatment of adults ...。預測適應症 10 個。"
 permalink: /news/sparsentan/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/sparsentan/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Filspari is indicated for the treatment of adults with primary immunoglobulin A nephropathy (IgAN) with a urine protein excretion &gt; 1.0 g/day (or urine protein-to-creatinine ratio &gt; 0.75 g/g,...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>alopecia（94.5%）</li>
 <li>congenital hypotrichosis milia（94.5%）</li>

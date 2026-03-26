@@ -3,7 +3,7 @@ layout: default
 title: "Telmisartan 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Telmisartan 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Telmisartan 的相關健康新聞報導。原適應症：Treatment of essential hypertension in adults.。預測適應症 10 個。"
 permalink: /news/telmisartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/telmisartan/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of essential hypertension in adults.</li>
+<li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>obsolete susceptibility to ischemic stroke（100.0%）</li>
 <li>Prinzmetal angina（100.0%）</li>
@@ -40,13 +42,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Infarto, come ridurre il rischio: le regole salva vita, dalle ore di sonno corrette agli alimenti irrinunciabili nella dieta](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdiUXVVdkZ0OUVwU2xpa29KSTBWR0VZLTlhUnJyLV9OenluZzc4dlpTS1llbHJ3cG02YkNQVHRHV0JkYXpnLVFaV1NqMml3SFdpWV9BRWJTUzdXNHJLaGhnV1JRNXVqclhSM3I5Z0tvM1E4RnZGdU5hZGtpRHNyNU5qMTVINFFOTlBaNzFaQmhmLW1oVFhzM2d30gGMAUFVX3lxTE85TUVzQXJaOHJwbUpXdEhRaXE4U2hkUnVzb2NKR0lRc3JiRzVYVjJTNlkzbGFaZ0dON055ZEJCamNhZTd5amtOQmNUZ3p1bE41VU4yRl9zb1RWSjF1d1FqcldCMW1tODR0Nmgyakhabl9pZ0NNMXZaYXZYUEh2eGdYYldnOTVXRFV2cTBs?oc=5)
 
 2026-03-26 <span class="news-indication-tag">ictus</span>
 
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdiUXVVdkZ0OUVwU2xpa29KSTBWR0VZLTlhUnJyLV9OenluZzc4dlpTS1llbHJ3cG02YkNQVHRHV0JkYXpnLVFaV1NqMml3SFdpWV9BRWJTUzdXNHJLaGhnV1JRNXVqclhSM3I5Z0tvM1E4RnZGdU5hZGtpRHNyNU5qMTVINFFOTlBaNzFaQmhmLW1oVFhzM2d30gGMAUFVX3lxTE85TUVzQXJaOHJwbUpXdEhRaXE4U2hkUnVzb2NKR0lRc3JiRzVYVjJTNlkzbGFaZ0dON055ZEJCamNhZTd5amtOQmNUZ3p1bE41VU4yRl9zb1RWSjF1d1FqcldCMW1tODR0Nmgyakhabl9pZ0NNMXZaYXZYUEh2eGdYYldnOTVXRFV2cTBs?oc=5)
+來源：[leggo.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdiUXVVdkZ0OUVwU2xpa29KSTBWR0VZLTlhUnJyLV9OenluZzc4dlpTS1llbHJ3cG02YkNQVHRHV0JkYXpnLVFaV1NqMml3SFdpWV9BRWJTUzdXNHJLaGhnV1JRNXVqclhSM3I5Z0tvM1E4RnZGdU5hZGtpRHNyNU5qMTVINFFOTlBaNzFaQmhmLW1oVFhzM2d30gGMAUFVX3lxTE85TUVzQXJaOHJwbUpXdEhRaXE4U2hkUnVzb2NKR0lRc3JiRzVYVjJTNlkzbGFaZ0dON055ZEJCamNhZTd5amtOQmNUZ3p1bE41VU4yRl9zb1RWSjF1d1FqcldCMW1tODR0Nmgyakhabl9pZ0NNMXZaYXZYUEh2eGdYYldnOTVXRFV2cTBs?oc=5)
 
 ---
 
@@ -63,14 +65,6 @@ permalink: /news/telmisartan/
 2026-03-25 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzE5YWpuUWYwWTI4aWx1WUYyeTlVVllmR2Z3YmtLbVFDTDVPR0VBMDZFRjh6UkxwdnEwZXdwd0hFSm85Y1VqYVBIbDdIVVRTZHdScUxvQ3ZhOHdTQ3NMaDFMSnFINmtsZmtaVk5zdUJCTm1BbUV1Nl90Y0dGcUhabDVfcEt3dEdfREl3MWNZSVVoSTMyOHBpRlY5TDRldkdvNEpKVVdxN2c2T2ZQVkJQNjJKaWl0YnRyeVVGQ19Send3aHRNN2tZ?oc=5)
-
----
-
-### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds | Health - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
-
-2026-03-24 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
 
 ---
 

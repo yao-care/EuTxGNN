@@ -3,7 +3,7 @@ layout: default
 title: "Delamanid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Delamanid 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Delamanid 的相關健康新聞報導。原適應症：Deltyba is indicated for use as part of an appropr...。預測適應症 10 個。"
 permalink: /news/delamanid/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/delamanid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, children and infants with a body weight of...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>multidrug-resistant tuberculosis（99.9%）</li>
 <li>tuberculosis, bovine（99.9%）</li>

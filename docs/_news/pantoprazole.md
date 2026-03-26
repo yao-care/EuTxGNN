@@ -3,7 +3,7 @@ layout: default
 title: "Pantoprazole 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Pantoprazole 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Pantoprazole 的相關健康新聞報導。原適應症：Short-term treatment of reflux symptoms (e.g. hear...。預測適應症 10 個。"
 permalink: /news/pantoprazole/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/pantoprazole/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>peptic esophagitis（99.9%）</li>
 <li>multiple endocrine neoplasia（99.8%）</li>

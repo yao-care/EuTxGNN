@@ -3,7 +3,7 @@ layout: default
 title: "Ketorolac 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ketorolac 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ketorolac 的相關健康新聞報導。原適應症：Omidria is indicated in adults for maintenance of ...。預測適應症 10 個。"
 permalink: /news/ketorolac/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ketorolac/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>papillary conjunctivitis（99.9%）</li>
 <li>headache disorder（99.4%）</li>

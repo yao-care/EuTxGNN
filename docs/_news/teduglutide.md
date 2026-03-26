@@ -3,7 +3,7 @@ layout: default
 title: "Teduglutide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Teduglutide 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Teduglutide 的相關健康新聞報導。原適應症：Revestive is indicated for the treatment of patien...。預測適應症 10 個。"
 permalink: /news/teduglutide/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/teduglutide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Revestive is indicated for the treatment of patients aged 1 year and above with Short Bowel Syndrome (SBS). Patients should be stable following a period of intestinal adaptation after surgery....</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>short bowel syndrome（99.1%）</li>
 <li>papillary conjunctivitis（98.5%）</li>

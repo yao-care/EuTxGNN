@@ -3,7 +3,7 @@ layout: default
 title: "Ivacaftor 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ivacaftor 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ivacaftor 的相關健康新聞報導。原適應症：Kalydeco tablets are indicated:&nbsp;&nbsp;- As mo...。預測適應症 10 個。"
 permalink: /news/ivacaftor/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ivacaftor/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Kalydeco tablets are indicated:&nbsp;&nbsp;- As monotherapy for the treatment of adults, adolescents, and children aged 6 years and older and weighing 25 kg or more with cystic fibrosis (CF) who have...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>rheumatoid arthritis（97.0%）</li>
 <li>HIV infectious disease（96.7%）</li>

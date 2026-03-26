@@ -3,7 +3,7 @@ layout: default
 title: "Artenimol 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Artenimol 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Artenimol 的相關健康新聞報導。原適應症：Eurartesim is indicated for the treatment of uncom...。預測適應症 10 個。"
 permalink: /news/artenimol/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/artenimol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Eurartesim is indicated for the treatment of uncomplicated Plasmodium falciparum malaria in adults, children and infants 6 months and over and weighing 5 kg or more. Consideration should be given to...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>malaria（99.9%）</li>
 <li>Smouldering systemic mastocytosis（98.7%）</li>

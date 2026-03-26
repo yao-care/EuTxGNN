@@ -3,7 +3,7 @@ layout: default
 title: "Brimonidine Tartrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Brimonidine Tartrate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Brimonidine Tartrate 的相關健康新聞報導。原適應症：Mirvaso is indicated for the symptomatic treatment...。預測適應症 10 個。"
 permalink: /news/brimonidine-tartrate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/brimonidine-tartrate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Mirvaso is indicated for the symptomatic treatment of facial erythema of rosacea in adult patients.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>papillary conjunctivitis（98.5%）</li>
 <li>primary hereditary glaucoma（96.9%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Mecasermin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Mecasermin 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Mecasermin 的相關健康新聞報導。原適應症：For the long-term treatment of growth failure in c...。預測適應症 10 個。"
 permalink: /news/mecasermin/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/mecasermin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：For the long-term treatment of growth failure in children and adolescents with severe primary insulin-like-growth-factor-1 deficiency (primary IGFD). Severe primary IGFD is defined by:  height...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>monosomy X（99.6%）</li>
 <li>Wolman disease with hypolipoproteinemia and acanthocytosis（99.1%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Fenofibrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fenofibrate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Fenofibrate 的相關健康新聞報導。原適應症：Pravafenix is indicated as an adjunct to diet and ...。預測適應症 10 個。"
 permalink: /news/fenofibrate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/fenofibrate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Pravafenix is indicated as an adjunct to diet and other non-pharmacological treatment (e.g. exercise, weight reduction) for the treatment of mixed hyperlipidaemia in adult patients at high...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>homozygous familial hypercholesterolemia（99.9%）</li>
 <li>obsolete familial combined hyperlipidemia（99.8%）</li>

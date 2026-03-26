@@ -3,7 +3,7 @@ layout: default
 title: "Icatibant Acetate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Icatibant Acetate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Icatibant Acetate 的相關健康新聞報導。原適應症：Icatibant Accord is indicated for symptomatic trea...。預測適應症 10 個。"
 permalink: /news/icatibant-acetate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/icatibant-acetate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Icatibant Accord is indicated for symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults, adolescents and children aged 2 years and older, with C1 esterase inhibitor...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>C1 inhibitor deficiency（100.0%）</li>
 <li>hereditary angioedema with C1Inh deficiency（100.0%）</li>

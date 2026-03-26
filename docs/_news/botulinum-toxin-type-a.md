@@ -3,7 +3,7 @@ layout: default
 title: "Botulinum Toxin Type A 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Botulinum Toxin Type A 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Botulinum Toxin Type A 的相關健康新聞報導。原適應症：Temporary improvement in the appearance of moderat...。預測適應症 10 個。"
 permalink: /news/botulinum-toxin-type-a/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/botulinum-toxin-type-a/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Temporary improvement in the appearance of moderate to severe vertical lines between the eyebrows seen at maximum frown (glabellar lines), when the severity of the above facial lines has an important...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary hereditary glaucoma（89.4%）</li>
 <li>parkinsonian disorder（88.8%）</li>

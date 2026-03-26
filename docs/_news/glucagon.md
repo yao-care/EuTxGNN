@@ -3,7 +3,7 @@ layout: default
 title: "Glucagon 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Glucagon 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Glucagon 的相關健康新聞報導。原適應症：Baqsimi is indicated for the treatment of severe h...。預測適應症 10 個。"
 permalink: /news/glucagon/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/glucagon/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Baqsimi is indicated for the treatment of severe hypoglycaemia in adults, adolescents, and children aged 4 years and over with diabetes mellitus.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>irritable bowel syndrome（99.2%）</li>
 <li>cauda equina syndrome（98.8%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Adalimumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adalimumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Adalimumab 的相關健康新聞報導。原適應症：Rheumatoid arthritis  Amgevita in combination with...。預測適應症 10 個。"
 permalink: /news/adalimumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/adalimumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Rheumatoid arthritis  Amgevita in combination with methotrexate, is indicated for:  the treatment of moderate to severe, active rheumatoid arthritis in adult patients when the response to...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>ankylosing spondylitis（99.8%）</li>
 <li>rheumatoid vasculitis（99.8%）</li>

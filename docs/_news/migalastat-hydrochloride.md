@@ -3,7 +3,7 @@ layout: default
 title: "Migalastat Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migalastat Hydrochloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Migalastat Hydrochloride 的相關健康新聞報導。原適應症：Galafold is indicated for long-term treatment of a...。預測適應症 10 個。"
 permalink: /news/migalastat-hydrochloride/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/migalastat-hydrochloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Galafold is indicated for long-term treatment of adults and adolescents aged 16 years and older with a confirmed diagnosis of Fabry disease (?-galactosidase A deficiency) and who have an amenable...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>hepatoportal sclerosis（98.8%）</li>
 <li>hepatopulmonary syndrome（98.8%）</li>

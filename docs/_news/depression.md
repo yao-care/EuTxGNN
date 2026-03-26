@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,29 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Le lien entre douleur chronique et dépression enfin élucidé - Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
+
+2026-03-26
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
+
+---
 
 ### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
 
 2026-03-26
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
----
-
-### [Le lien entre douleur chronique et dépression enfin élucidé - Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
-
-2026-03-25
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
-
----
-
-### [La dieta mediterránea puede ser una aliada contra la depresión, y la clave está en la microbiota](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGstcmFKYTFMYXlSOUZ3eUhBZDFNUGtCTzItZEQwUnE4SWNRenpidWhPRzV2cHMzVVBsZXhJeUY5eWxYNnVzOXRzS1NVNkNCbEVOSEVJWWxzcC1lMjlpaVRRVnVfYkU4RUd0MndyZmpIRmFOTXVxanl2N2VzZndlZjc3RDFBSVFXaEZWeU9RNTF5c2dnR3pKS082NUtYMEdsQ1UzdWNtWEhyR2RSVkHSAbMBQVVfeXFMTWNoQ1Y5TUhuS05vOTliMFY0bnJmenVTSHhnSWpvNWRNekFUYnA2ZUptSGozYUQxaDk0QWRFRmY4TmQ3TS15TlBSSU9Zb01HNXlFTzlhN3ZfR0FWRGEtbUZEZ0JvTW1ZbU1xRHItQXJUNmplcEFKMGtGMDBHMnZJMVpISjYwNkw1X3JjRWtHV3NvQ09OYUoxajZUQUV0S25odlE4OVVFaDFwX2tEbmF1d2lYMzQ?oc=5)
-
-2026-03-25
-
-來源：[ABC](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGstcmFKYTFMYXlSOUZ3eUhBZDFNUGtCTzItZEQwUnE4SWNRenpidWhPRzV2cHMzVVBsZXhJeUY5eWxYNnVzOXRzS1NVNkNCbEVOSEVJWWxzcC1lMjlpaVRRVnVfYkU4RUd0MndyZmpIRmFOTXVxanl2N2VzZndlZjc3RDFBSVFXaEZWeU9RNTF5c2dnR3pKS082NUtYMEdsQ1UzdWNtWEhyR2RSVkHSAbMBQVVfeXFMTWNoQ1Y5TUhuS05vOTliMFY0bnJmenVTSHhnSWpvNWRNekFUYnA2ZUptSGozYUQxaDk0QWRFRmY4TmQ3TS15TlBSSU9Zb01HNXlFTzlhN3ZfR0FWRGEtbUZEZ0JvTW1ZbU1xRHItQXJUNmplcEFKMGtGMDBHMnZJMVpISjYwNkw1X3JjRWtHV3NvQ09OYUoxajZUQUV0S25odlE4OVVFaDFwX2tEbmF1d2lYMzQ?oc=5)
 
 ---
 

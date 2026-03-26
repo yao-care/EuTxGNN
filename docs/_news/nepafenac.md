@@ -3,7 +3,7 @@ layout: default
 title: "Nepafenac 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Nepafenac 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Nepafenac 的相關健康新聞報導。原適應症：Nevanac is indicated for:  prevention and treatmen...。預測適應症 10 個。"
 permalink: /news/nepafenac/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/nepafenac/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Nevanac is indicated for:  prevention and treatment of postoperative pain and inflammation associated with cataract surgery; reduction in the risk of postoperative macular oedema associated with...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>eye disease（99.8%）</li>
 <li>optic papillitis（99.8%）</li>

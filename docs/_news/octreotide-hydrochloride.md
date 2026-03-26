@@ -3,7 +3,7 @@ layout: default
 title: "Octreotide Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Octreotide Hydrochloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Octreotide Hydrochloride 的相關健康新聞報導。原適應症：Oczyesa is indicated for maintenance treatment in ...。預測適應症 10 個。"
 permalink: /news/octreotide-hydrochloride/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/octreotide-hydrochloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Oczyesa is indicated for maintenance treatment in adult patients with acromegaly who have responded to and tolerated treatment with somatostatin analogues.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>vulvar inverted follicular keratosis（99.6%）</li>
 <li>seborrheic keratosis（99.5%）</li>

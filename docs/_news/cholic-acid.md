@@ -3,7 +3,7 @@ layout: default
 title: "Cholic Acid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Cholic Acid 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Cholic Acid 的相關健康新聞報導。原適應症：Orphacol is indicated for the treatment of inborn ...。預測適應症 10 個。"
 permalink: /news/cholic-acid/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/cholic-acid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Orphacol is indicated for the treatment of inborn errors in primary bile acid synthesis due to3β-Hydroxy-Δ5-C27-steroid oxidoreductase deficiency or Δ4-3-Oxosteroid-5β-reductase deficiency ininfants,...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>cholelithiasis（99.9%）</li>
 <li>HIV infectious disease（99.8%）</li>

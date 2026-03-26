@@ -3,7 +3,7 @@ layout: default
 title: "Urea (13C) 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Urea (13C) 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Urea (13C) 的相關健康新聞報導。原適應症：This medicinal product is for diagnostic use only....。預測適應症 10 個。"
 permalink: /news/urea-13c/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/urea-13c/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：This medicinal product is for diagnostic use only. For in vivo diagnosis of gastroduodenal Helicobacter pylori (H. pylori) infection.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>exanthem (disease)（99.6%）</li>
 <li>dermatitis（98.2%）</li>

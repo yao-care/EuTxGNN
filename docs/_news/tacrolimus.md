@@ -3,7 +3,7 @@ layout: default
 title: "Tacrolimus 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tacrolimus 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Tacrolimus 的相關健康新聞報導。原適應症：Prophylaxis of transplant rejection in adult kidne...。預測適應症 10 個。"
 permalink: /news/tacrolimus/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/tacrolimus/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Prophylaxis of transplant rejection in adult kidney or liver allograft recipients. Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products in adult...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>atopic eczema（99.6%）</li>
 <li>seborrheic dermatitis（99.3%）</li>

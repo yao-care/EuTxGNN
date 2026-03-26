@@ -3,7 +3,7 @@ layout: default
 title: "Fesoterodine Fumarate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fesoterodine Fumarate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Fesoterodine Fumarate 的相關健康新聞報導。原適應症：Treatment of the symptoms (increased urinary frequ...。預測適應症 10 個。"
 permalink: /news/fesoterodine-fumarate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/fesoterodine-fumarate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of the symptoms (increased urinary frequency and / or urgency and / or urgency incontinence) that may occur in patients with overactive-bladder syndrome.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>overactive bladder (disease)（98.9%）</li>
 <li>polycystic kidney disease 3 with or without polycystic liver disease（91.1%）</li>

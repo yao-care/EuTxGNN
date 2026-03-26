@@ -3,7 +3,7 @@ layout: default
 title: "Bazedoxifene 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bazedoxifene 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Bazedoxifene 的相關健康新聞報導。原適應症：Conbriza is indicated for the treatment of postmen...。預測適應症 10 個。"
 permalink: /news/bazedoxifene/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/bazedoxifene/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Conbriza is indicated for the treatment of postmenopausal osteoporosis in women at increased risk of fracture. A significant reduction in the incidence of vertebral fractures has been demonstrated;...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>heparin cofactor 2 deficiency（99.0%）</li>
 <li>postmenopausal osteoporosis（98.8%）</li>

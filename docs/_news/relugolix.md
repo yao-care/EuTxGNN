@@ -3,7 +3,7 @@ layout: default
 title: "Relugolix 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Relugolix 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Relugolix 的相關健康新聞報導。原適應症：Ryeqo is indicated in adult women of reproductive ...。預測適應症 10 個。"
 permalink: /news/relugolix/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/relugolix/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Ryeqo is indicated in adult women of reproductive age for: - treatment of moderate to severe symptoms of uterine fibroids, - symptomatic treatment of endometriosis in women with a history of previous...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis（96.1%）</li>
 <li>Smouldering systemic mastocytosis（96.1%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Naloxone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Naloxone 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Naloxone 的相關健康新聞報導。原適應症：Substitution treatment for opioid-drug dependence,...。預測適應症 10 個。"
 permalink: /news/naloxone/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/naloxone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Substitution treatment for opioid-drug dependence, within a framework of medical, social and psychological treatment. The intention of the naloxone component is to deter intravenous misuse. Treatment...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>opiate dependence（97.4%）</li>
 <li>morphine dependence（96.7%）</li>

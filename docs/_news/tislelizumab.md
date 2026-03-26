@@ -3,7 +3,7 @@ layout: default
 title: "Tislelizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tislelizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Tislelizumab 的相關健康新聞報導。原適應症：Non-small cell lung cancer (NSCLC) Tevimbra, in co...。預測適應症 10 個。"
 permalink: /news/tislelizumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/tislelizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Non-small cell lung cancer (NSCLC) Tevimbra, in combination with platinum-containing chemotherapy as neoadjuvant treatment and then continued as monotherapy as adjuvant treatment, is indicated for...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>mixed-type autoimmune hemolytic anemia（93.8%）</li>
 <li>idiopathic aplastic anemia（93.8%）</li>

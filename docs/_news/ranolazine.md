@@ -3,7 +3,7 @@ layout: default
 title: "Ranolazine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ranolazine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ranolazine 的相關健康新聞報導。原適應症：Ranexa is indicated as add-on therapy for the symp...。預測適應症 10 個。"
 permalink: /news/ranolazine/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ranolazine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Ranexa is indicated as add-on therapy for the symptomatic treatment of patients with stable angina pectoris who are inadequately controlled or intolerant to first-line anti-anginal therapies (such as...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis（99.7%）</li>
 <li>rheumatoid arthritis（99.0%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Evolocumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Evolocumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Evolocumab 的相關健康新聞報導。原適應症：Hypercholesterolaemia and mixed dyslipidaemia Repa...。預測適應症 10 個。"
 permalink: /news/evolocumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/evolocumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Hypercholesterolaemia and mixed dyslipidaemia Repatha is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>symptomatic form of hemophilia in female carriers（99.8%）</li>
 <li>familial apolipoprotein C-II deficiency（99.5%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "L-Lysine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "L-Lysine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "L-Lysine 的相關健康新聞報導。原適應症：See EMA product information。預測適應症 10 個。"
 permalink: /news/l-lysine/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/l-lysine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：See EMA product information</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>gastroparesis (disease)（99.8%）</li>
 <li>congenital prothrombin deficiency（99.1%）</li>

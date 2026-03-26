@@ -3,7 +3,7 @@ layout: default
 title: "Fluciclovine (18F) 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fluciclovine (18F) 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Fluciclovine (18F) 的相關健康新聞報導。原適應症：This medicinal product is for diagnostic use only....。預測適應症 10 個。"
 permalink: /news/fluciclovine-18f/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/fluciclovine-18f/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：This medicinal product is for diagnostic use only. Axumin is indicated for Positron Emission Tomography (PET) imaging to detect recurrence of prostate cancer in adult men with a suspected recurrence...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>trichotillomania（97.9%）</li>
 <li>Tourette syndrome（97.7%）</li>

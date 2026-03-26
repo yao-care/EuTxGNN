@@ -3,7 +3,7 @@ layout: default
 title: "Ezetimibe 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ezetimibe 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ezetimibe 的相關健康新聞報導。原適應症：Hypercholesterolaemia and mixed dyslipidaemiaNuste...。預測適應症 10 個。"
 permalink: /news/ezetimibe/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ezetimibe/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Hypercholesterolaemia and mixed dyslipidaemiaNustendi is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>homozygous familial hypercholesterolemia（99.9%）</li>
 <li>obsolete familial combined hyperlipidemia（99.7%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Duloxetine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Duloxetine 的相關健康新聞報導。原適應症：。預測適應症 1 個。"
+description: "Duloxetine 的相關健康新聞報導。原適應症：Treatment of major depressive disorder. Treatment ...。預測適應症 1 個。"
 permalink: /news/duloxetine/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/duloxetine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of major depressive disorder. Treatment of diabetic peripheral neuropathic pain. Treatment of generalised anxiety disorder. Cymbalta is indicated in adults.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（1 個）：<ul>
 <li>female stress incontinence（50.0%）</li>
 </ul></li>

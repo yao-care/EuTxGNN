@@ -3,7 +3,7 @@ layout: default
 title: "Rivastigmine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Rivastigmine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Rivastigmine 的相關健康新聞報導。原適應症：Symptomatic treatment of mild to moderately severe...。預測適應症 10 個。"
 permalink: /news/rivastigmine/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/rivastigmine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>glaucoma（99.3%）</li>
 <li>acute intermittent porphyria（98.2%）</li>

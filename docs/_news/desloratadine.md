@@ -3,7 +3,7 @@ layout: default
 title: "Desloratadine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Desloratadine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Desloratadine 的相關健康新聞報導。原適應症：Dasselta is indicated for the relief of symptoms a...。預測適應症 10 個。"
 permalink: /news/desloratadine/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/desloratadine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Dasselta is indicated for the relief of symptoms associated with:  allergic rhinitis; urticaria.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>allergic urticaria（100.0%）</li>
 <li>papillary conjunctivitis（100.0%）</li>

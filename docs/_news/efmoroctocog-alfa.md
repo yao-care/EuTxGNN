@@ -3,7 +3,7 @@ layout: default
 title: "Efmoroctocog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Efmoroctocog Alfa 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Efmoroctocog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 10 個。"
 permalink: /news/efmoroctocog-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/efmoroctocog-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Elocta can be used for all age groups.</li>
+<li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>pseudo-von Willebrand disease（100.0%）</li>
 <li>primary release disorder of platelets（100.0%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Oxybutynin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Oxybutynin 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Oxybutynin 的相關健康新聞報導。原適應症：Symptomatic treatment of urge incontinence and/or ...。預測適應症 10 個。"
 permalink: /news/oxybutynin/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/oxybutynin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in adult patients with unstable bladder.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>cauda equina syndrome（99.9%）</li>
 <li>overactive bladder (disease)（99.8%）</li>

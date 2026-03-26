@@ -3,7 +3,7 @@ layout: default
 title: "Paliperidone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Paliperidone 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Paliperidone 的相關健康新聞報導。原適應症：Invega is indicated for the treatment of schizophr...。預測適應症 10 個。"
 permalink: /news/paliperidone/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/paliperidone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Invega is indicated for the treatment of schizophrenia in adults and in adolescents 15 years and older. Invega is indicated for the treatment of schizoaffective disorder in adults.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>schizophrenia（100.0%）</li>
 <li>retinal dystrophy with or without extraocular anomalies（99.9%）</li>

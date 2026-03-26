@@ -3,7 +3,7 @@ layout: default
 title: "Varenicline 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Varenicline 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Varenicline 的相關健康新聞報導。原適應症：Champix is indicated for smoking cessation in adul...。預測適應症 10 個。"
 permalink: /news/varenicline/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/varenicline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Champix is indicated for smoking cessation in adults.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>migraine disorder（99.9%）</li>
 <li>migraine with brainstem aura（99.9%）</li>

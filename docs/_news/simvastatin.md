@@ -3,7 +3,7 @@ layout: default
 title: "Simvastatin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Simvastatin 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Simvastatin 的相關健康新聞報導。原適應症：Cholib is indicated as adjunctive therapy to diet ...。預測適應症 10 個。"
 permalink: /news/simvastatin/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/simvastatin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Cholib is indicated as adjunctive therapy to diet and exercise in high cardiovascular risk adult patients with mixed dyslipidaemia to reduce triglycerides and increase HDL C levels when LDL C levels...</li>
+<li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>homozygous familial hypercholesterolemia（100.0%）</li>
 <li>obsolete familial combined hyperlipidemia（99.9%）</li>
@@ -46,7 +48,7 @@ permalink: /news/simvastatin/
 
 2026-03-26 <span class="news-indication-tag">ictus</span>
 
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdiUXVVdkZ0OUVwU2xpa29KSTBWR0VZLTlhUnJyLV9OenluZzc4dlpTS1llbHJ3cG02YkNQVHRHV0JkYXpnLVFaV1NqMml3SFdpWV9BRWJTUzdXNHJLaGhnV1JRNXVqclhSM3I5Z0tvM1E4RnZGdU5hZGtpRHNyNU5qMTVINFFOTlBaNzFaQmhmLW1oVFhzM2d30gGMAUFVX3lxTE85TUVzQXJaOHJwbUpXdEhRaXE4U2hkUnVzb2NKR0lRc3JiRzVYVjJTNlkzbGFaZ0dON055ZEJCamNhZTd5amtOQmNUZ3p1bE41VU4yRl9zb1RWSjF1d1FqcldCMW1tODR0Nmgyakhabl9pZ0NNMXZaYXZYUEh2eGdYYldnOTVXRFV2cTBs?oc=5)
+來源：[leggo.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdiUXVVdkZ0OUVwU2xpa29KSTBWR0VZLTlhUnJyLV9OenluZzc4dlpTS1llbHJ3cG02YkNQVHRHV0JkYXpnLVFaV1NqMml3SFdpWV9BRWJTUzdXNHJLaGhnV1JRNXVqclhSM3I5Z0tvM1E4RnZGdU5hZGtpRHNyNU5qMTVINFFOTlBaNzFaQmhmLW1oVFhzM2d30gGMAUFVX3lxTE85TUVzQXJaOHJwbUpXdEhRaXE4U2hkUnVzb2NKR0lRc3JiRzVYVjJTNlkzbGFaZ0dON055ZEJCamNhZTd5amtOQmNUZ3p1bE41VU4yRl9zb1RWSjF1d1FqcldCMW1tODR0Nmgyakhabl9pZ0NNMXZaYXZYUEh2eGdYYldnOTVXRFV2cTBs?oc=5)
 
 ---
 

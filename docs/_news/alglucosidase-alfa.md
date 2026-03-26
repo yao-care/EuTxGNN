@@ -3,7 +3,7 @@ layout: default
 title: "Alglucosidase Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alglucosidase Alfa 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Alglucosidase Alfa 的相關健康新聞報導。原適應症：Myozyme is indicated for long-term enzyme-replacem...。預測適應症 10 個。"
 permalink: /news/alglucosidase-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/alglucosidase-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Myozyme is indicated for long-term enzyme-replacement therapy (ERT) in patients with a confirmed diagnosis of Pompe disease (acid-?-glucosidase deficiency). In patients with late-onset Pompe disease...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>adult polyglucosan body disease（99.5%）</li>
 <li>glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form（99.3%）</li>

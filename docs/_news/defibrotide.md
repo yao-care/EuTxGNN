@@ -3,7 +3,7 @@ layout: default
 title: "Defibrotide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Defibrotide 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Defibrotide 的相關健康新聞報導。原適應症：Defitelio is indicated for the treatment of severe...。預測適應症 10 個。"
 permalink: /news/defibrotide/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/defibrotide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Defitelio is indicated for the treatment of severe hepatic veno-occlusive disease (VOD) also known as sinusoidal obstructive syndrome (SOS) in haematopoietic stem-cell transplantation (HSCT) therapy....</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>pseudo-von Willebrand disease（99.9%）</li>
 <li>primary release disorder of platelets（99.9%）</li>

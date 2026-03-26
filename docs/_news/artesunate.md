@@ -3,7 +3,7 @@ layout: default
 title: "Artesunate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Artesunate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Artesunate 的相關健康新聞報導。原適應症：Artesunate Amivas is indicated for the initial tre...。預測適應症 10 個。"
 permalink: /news/artesunate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/artesunate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Artesunate Amivas is indicated for the initial treatment of severe malaria in adults and children. Consideration should be given to official guidance on the appropriate use of antimalarial agents.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>malaria（85.7%）</li>
 <li>acne (disease)（79.2%）</li>

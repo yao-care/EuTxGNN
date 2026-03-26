@@ -3,7 +3,7 @@ layout: default
 title: "Ganaxolone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ganaxolone 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ganaxolone 的相關健康新聞報導。原適應症：Ztalmy is indicated for the adjunctive treatment o...。預測適應症 10 個。"
 permalink: /news/ganaxolone/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ganaxolone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Ztalmy is indicated for the adjunctive treatment of epileptic seizures associated with cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) in patients 2 to 17 years of age. Ztalmy may be...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>alcohol withdrawal delirium（94.8%）</li>
 <li>hallucinogen abuse（93.1%）</li>

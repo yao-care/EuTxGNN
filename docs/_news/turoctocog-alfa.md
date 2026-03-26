@@ -3,7 +3,7 @@ layout: default
 title: "Turoctocog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Turoctocog Alfa 的相關健康新聞報導。原適應症：。預測適應症 2 個。"
+description: "Turoctocog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 2 個。"
 permalink: /news/turoctocog-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/turoctocog-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Novoeight can be used for all age groups.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（2 個）：<ul>
 <li>symptomatic form of hemophilia in female carriers（50.0%）</li>
 <li>hemophilia（50.0%）</li>

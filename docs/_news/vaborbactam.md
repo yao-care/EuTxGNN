@@ -3,7 +3,7 @@ layout: default
 title: "Vaborbactam 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vaborbactam 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Vaborbactam 的相關健康新聞報導。原適應症：Vaborem is indicated for the treatment of the foll...。預測適應症 10 個。"
 permalink: /news/vaborbactam/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/vaborbactam/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Vaborem is indicated for the treatment of the following infections in adults:  Complicated urinary tract infection (cUTI), including pyelonephritis Complicated intra-abdominal infection (cIAI)...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>osteoarthritis（98.5%）</li>
 <li>osteoarthritis susceptibility（98.3%）</li>

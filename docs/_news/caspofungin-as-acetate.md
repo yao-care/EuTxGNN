@@ -3,7 +3,7 @@ layout: default
 title: "Caspofungin (As Acetate) 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Caspofungin (As Acetate) 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Caspofungin (As Acetate) 的相關健康新聞報導。原適應症：Treatment of invasive candidiasis in adult or paed...。預測適應症 10 個。"
 permalink: /news/caspofungin-as-acetate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/caspofungin-as-acetate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of invasive candidiasis in adult or paediatric patients; treatment of invasive aspergillosis in adult or paediatric patients who are refractory to or intolerant of amphotericin B, lipid...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>gastrin secretion abnormality（99.4%）</li>
 <li>punctate epithelial keratoconjunctivitis（98.9%）</li>

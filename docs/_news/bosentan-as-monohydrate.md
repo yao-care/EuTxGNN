@@ -3,7 +3,7 @@ layout: default
 title: "Bosentan (As Monohydrate) 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bosentan (As Monohydrate) 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Bosentan (As Monohydrate) 的相關健康新聞報導。原適應症：Treatment of pulmonary arterial hypertension (PAH)...。預測適應症 10 個。"
 permalink: /news/bosentan-as-monohydrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bosentan-as-monohydrate/
 ---
 
 <p class="key-answer" data-question="Bosentan (As Monohydrate) 有什麼相關新聞？">
-<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/bosentan-as-monohydrate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with World Health Organization (WHO) functional class III. Efficacy has been shown in: ...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>scleroderma (disease)（100.0%）</li>
 <li>rheumatoid arthritis（99.8%）</li>
@@ -40,21 +42,13 @@ permalink: /news/bosentan-as-monohydrate/
 <p><a href="{{ '/drugs/bosentan-as-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Studie: Um diese Uhrzeit solltest du am besten Sport machen](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
 
 2026-03-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
 來源：[Blick](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
-
----
-
-### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds | Health - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
-
-2026-03-24 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
 
 ---
 

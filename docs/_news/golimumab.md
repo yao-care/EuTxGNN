@@ -3,7 +3,7 @@ layout: default
 title: "Golimumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Golimumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Golimumab 的相關健康新聞報導。原適應症：Rheumatoid arthritis (RA) Gobivaz, in combination ...。預測適應症 10 個。"
 permalink: /news/golimumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Golimumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/golimumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Rheumatoid arthritis (RA) Gobivaz, in combination with methotrexate (MTX), is indicated for:  the treatment of moderate to severe, active rheumatoid arthritis in adults when the response to...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>ankylosing spondylitis（99.8%）</li>
 <li>rheumatoid vasculitis（99.7%）</li>
@@ -40,15 +42,9 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Darmmikrobiom-Forschung erlebt entscheidende Wende - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

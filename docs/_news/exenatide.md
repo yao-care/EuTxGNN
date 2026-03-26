@@ -3,7 +3,7 @@ layout: default
 title: "Exenatide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Exenatide 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Exenatide 的相關健康新聞報導。原適應症：Byetta is indicated for treatment of type-2 diabet...。預測適應症 10 個。"
 permalink: /news/exenatide/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/exenatide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Byetta is indicated for treatment of type-2 diabetes mellitus in combination with:  metformin; sulphonylureas; thiazolidinediones; metformin and a sulphonylurea; metformin and a thiazolidinedione; ...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary hereditary glaucoma（96.2%）</li>
 <li>open-angle glaucoma（95.4%）</li>

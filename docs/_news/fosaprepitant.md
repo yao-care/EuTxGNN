@@ -3,7 +3,7 @@ layout: default
 title: "Fosaprepitant 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fosaprepitant 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Fosaprepitant 的相關健康新聞報導。原適應症：Prevention of nausea and vomiting associated with ...。預測適應症 10 個。"
 permalink: /news/fosaprepitant/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/fosaprepitant/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Prevention of nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults and paediatric patients aged 6 months and older. Ivemend 150 mg is given as part of a...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis（99.9%）</li>
 <li>pneumocystosis（99.9%）</li>

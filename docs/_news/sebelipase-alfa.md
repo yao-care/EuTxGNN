@@ -3,7 +3,7 @@ layout: default
 title: "Sebelipase Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sebelipase Alfa 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Sebelipase Alfa 的相關健康新聞報導。原適應症：Kanuma is indicated for long-term enzyme replaceme...。預測適應症 10 個。"
 permalink: /news/sebelipase-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/sebelipase-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Kanuma is indicated for long-term enzyme replacement therapy (ERT) in patients of all ages with lysosomal acid lipase (LAL) deficiency.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Scheie syndrome（99.8%）</li>
 <li>Hurler syndrome（99.8%）</li>

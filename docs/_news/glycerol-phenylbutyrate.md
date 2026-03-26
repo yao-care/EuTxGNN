@@ -3,7 +3,7 @@ layout: default
 title: "Glycerol Phenylbutyrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Glycerol Phenylbutyrate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Glycerol Phenylbutyrate 的相關健康新聞報導。原適應症：Ravicti is indicated for use as adjunctive therapy...。預測適應症 10 個。"
 permalink: /news/glycerol-phenylbutyrate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/glycerol-phenylbutyrate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Ravicti is indicated for use as adjunctive therapy for chronic management of patients&nbsp;with urea cycle disorders (UCDs) including deficiencies of carbamoyl phosphate-synthase-I (CPS), ornithine...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>urea cycle disorder（98.7%）</li>
 <li>argininosuccinic aciduria（98.2%）</li>

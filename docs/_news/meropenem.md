@@ -3,7 +3,7 @@ layout: default
 title: "Meropenem 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Meropenem 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Meropenem 的相關健康新聞報導。原適應症：See EMA product information。預測適應症 10 個。"
 permalink: /news/meropenem/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/meropenem/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：See EMA product information</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>bacterial arthritis（99.9%）</li>
 <li>epiglottitis（99.9%）</li>

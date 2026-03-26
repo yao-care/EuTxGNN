@@ -3,7 +3,7 @@ layout: default
 title: "Brodalumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Brodalumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Brodalumab 的相關健康新聞報導。原適應症：Kyntheum is indicated for the treatment of moderat...。預測適應症 10 個。"
 permalink: /news/brodalumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/brodalumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Kyntheum is indicated for the treatment of moderate to severe plaque psoriasis in adult patients who are candidates for systemic therapy.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>strongyloidiasis（99.8%）</li>
 <li>eye disease（99.8%）</li>

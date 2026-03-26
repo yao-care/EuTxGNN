@@ -3,7 +3,7 @@ layout: default
 title: "Tocilizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tocilizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Tocilizumab 的相關健康新聞報導。原適應症：RoActemra, in combination with methotrexate (MTX),...。預測適應症 10 個。"
 permalink: /news/tocilizumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/tocilizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：RoActemra, in combination with methotrexate (MTX), is indicated for  the treatment of severe, active and progressive rheumatoid arthritis (RA) in adults not previously treated with MTX. the treatment...</li>
+<li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>ankylosing spondylitis（100.0%）</li>
 <li>rheumatoid vasculitis（100.0%）</li>

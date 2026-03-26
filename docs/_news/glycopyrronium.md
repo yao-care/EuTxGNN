@@ -3,7 +3,7 @@ layout: default
 title: "Glycopyrronium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Glycopyrronium 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Glycopyrronium 的相關健康新聞報導。原適應症：Bevespi Aerosphere is indicated as a maintenance b...。預測適應症 10 個。"
 permalink: /news/glycopyrronium/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/glycopyrronium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Bevespi Aerosphere is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>irritable bowel syndrome（98.8%）</li>
 <li>cauda equina syndrome（98.5%）</li>

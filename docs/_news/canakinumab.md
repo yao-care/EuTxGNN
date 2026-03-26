@@ -3,7 +3,7 @@ layout: default
 title: "Canakinumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Canakinumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Canakinumab 的相關健康新聞報導。原適應症：Periodic fever syndromes Ilaris is indicated for t...。預測適應症 10 個。"
 permalink: /news/canakinumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/canakinumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Periodic fever syndromes Ilaris is indicated for the treatment of the following autoinflammatory periodic fever syndromes in adults, adolescents and children aged 2 years and older:...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>hepatic infarction（99.9%）</li>
 <li>hepatic veno-occlusive disease（99.8%）</li>

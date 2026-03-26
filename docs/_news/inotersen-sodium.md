@@ -3,7 +3,7 @@ layout: default
 title: "Inotersen Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Inotersen Sodium 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Inotersen Sodium 的相關健康新聞報導。原適應症：Treatment of stage 1 or Stage 2 polyneuropathy in ...。預測適應症 10 個。"
 permalink: /news/inotersen-sodium/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/inotersen-sodium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of stage 1 or Stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR).</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>acute intermittent porphyria（99.9%）</li>
 <li>appendicitis（99.9%）</li>

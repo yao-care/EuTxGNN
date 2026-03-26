@@ -3,7 +3,7 @@ layout: default
 title: "Caplacizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Caplacizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Caplacizumab 的相關健康新聞報導。原適應症：Cablivi is indicated for the treatment of adults e...。預測適應症 10 個。"
 permalink: /news/caplacizumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/caplacizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Cablivi is indicated for the treatment of adults experiencing an episode of acquired thrombotic thrombocytopenic purpura (aTTP), in conjunction with plasma exchange and immunosuppression.</li>
+<li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary release disorder of platelets（100.0%）</li>
 <li>pseudo-von Willebrand disease（100.0%）</li>

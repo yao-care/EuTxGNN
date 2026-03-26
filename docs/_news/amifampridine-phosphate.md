@@ -3,7 +3,7 @@ layout: default
 title: "Amifampridine Phosphate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Amifampridine Phosphate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Amifampridine Phosphate 的相關健康新聞報導。原適應症：Symptomatic treatment of Lambert-Eaton myasthenic ...。預測適應症 10 個。"
 permalink: /news/amifampridine-phosphate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/amifampridine-phosphate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>glaucoma（99.7%）</li>
 <li>acute intermittent porphyria（99.3%）</li>

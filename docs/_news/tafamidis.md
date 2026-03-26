@@ -3,7 +3,7 @@ layout: default
 title: "Tafamidis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tafamidis 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Tafamidis 的相關健康新聞報導。原適應症：Vyndaqel is indicated for the treatment of transth...。預測適應症 10 個。"
 permalink: /news/tafamidis/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/tafamidis/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Vyndaqel is indicated for the treatment of transthyretin amyloidosis in adult patients with stage-1 symptomatic polyneuropathy to delay peripheral neurologic impairment.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary release disorder of platelets（89.3%）</li>
 <li>thrombocytopenic purpura（88.7%）</li>

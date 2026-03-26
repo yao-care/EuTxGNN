@@ -3,7 +3,7 @@ layout: default
 title: "Catridecacog 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Catridecacog 的相關健康新聞報導。原適應症：。預測適應症 1 個。"
+description: "Catridecacog 的相關健康新聞報導。原適應症：Long-term prophylactic treatment of bleeding in ad...。預測適應症 1 個。"
 permalink: /news/catridecacog/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/catridecacog/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Long-term prophylactic treatment of bleeding in adult and paediatric patients 6 years and above with congenital factor-XIII-A-subunit deficiency.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（1 個）：<ul>
 <li>factor XIII, A subunit, deficiency（50.0%）</li>
 </ul></li>

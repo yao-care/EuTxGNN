@@ -3,7 +3,7 @@ layout: default
 title: "Dupilumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dupilumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Dupilumab 的相關健康新聞報導。原適應症：Atopic dermatitis Adults and adolescentsDupixent i...。預測適應症 10 個。"
 permalink: /news/dupilumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/dupilumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Atopic dermatitis Adults and adolescentsDupixent is indicated for the treatment of moderate-to-severe atopic dermatitis in adults and adolescents 12 years and older who are candidates for systemic...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>bronchitis（99.9%）</li>
 <li>dermatitis（99.7%）</li>

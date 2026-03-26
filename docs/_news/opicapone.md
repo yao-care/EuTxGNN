@@ -3,7 +3,7 @@ layout: default
 title: "Opicapone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Opicapone 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Opicapone 的相關健康新聞報導。原適應症：Ongentys is indicated as adjunctive therapy to pre...。預測適應症 10 個。"
 permalink: /news/opicapone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/opicapone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Ongentys is indicated as adjunctive therapy to preparations of levodopa/ DOPA decarboxylase inhibitors (DDCI) in adult patients with Parkinson’s disease and end-of-dose motor fluctuations who cannot...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>juvenile onset Parkinson disease 19A（99.6%）</li>
 <li>hereditary late onset Parkinson disease（98.9%）</li>
@@ -40,29 +42,13 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [The subtle signs of Alzheimer’s disease everyone should be aware of - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
 
 2026-03-25 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
-
----
-
-### [Scientists create blood test that predicts dementia 25 years before symptoms appear](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
 
 ---
 

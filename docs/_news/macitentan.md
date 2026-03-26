@@ -3,7 +3,7 @@ layout: default
 title: "Macitentan 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Macitentan 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Macitentan 的相關健康新聞報導。原適應症：Adults&nbsp;Opsumit, as monotherapy or in combinat...。預測適應症 10 個。"
 permalink: /news/macitentan/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/macitentan/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Adults&nbsp;Opsumit, as monotherapy or in combination, is indicated for the long-term treatment of pulmonary arterial hypertension (PAH) in adult patients of WHO Functional Class (FC) II to III....</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>pulmonary arteriovenous malformation (disease)（98.9%）</li>
 <li>pulmonary arterial hypertension associated with congenital heart disease（98.8%）</li>

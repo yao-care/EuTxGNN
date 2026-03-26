@@ -3,7 +3,7 @@ layout: default
 title: "Deferiprone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Deferiprone 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Deferiprone 的相關健康新聞報導。原適應症：Deferiprone Lipomed monotherapy is indicated for t...。預測適應症 10 個。"
 permalink: /news/deferiprone/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/deferiprone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Deferiprone Lipomed monotherapy is indicated for the treatment of iron overload in patients with thalassaemia major when current chelation therapy is contraindicated or inadequate. Deferiprone...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>hepatic porphyria（99.2%）</li>
 <li>hepatopulmonary syndrome（99.2%）</li>

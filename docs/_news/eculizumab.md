@@ -3,7 +3,7 @@ layout: default
 title: "Eculizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Eculizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Eculizumab 的相關健康新聞報導。原適應症：Bekemv is indicated in adults and children for the...。預測適應症 10 個。"
 permalink: /news/eculizumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/eculizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Bekemv is indicated in adults and children for the treatment of paroxysmal nocturnal haemoglobinuria (PNH). Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>cyclic hematopoiesis（100.0%）</li>
 <li>autosomal recessive severe congenital neutropenia due to JAGN1 deficiency（100.0%）</li>

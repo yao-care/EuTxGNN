@@ -3,7 +3,7 @@ layout: default
 title: "Treprostinil Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Treprostinil Sodium 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Treprostinil Sodium 的相關健康新聞報導。原適應症：Treatment of adult patients with WHO Functional Cl...。預測適應症 10 個。"
 permalink: /news/treprostinil-sodium/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/treprostinil-sodium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of adult patients with WHO Functional Class (FC) III or IV and:  inoperable chronic thromboembolic pulmonary hypertension (CTEPH), or persistent or recurrent CTEPH after surgical treatment ...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>pulmonary arteriovenous malformation (disease)（99.7%）</li>
 <li>pulmonary arterial hypertension（99.6%）</li>

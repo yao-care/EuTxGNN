@@ -3,7 +3,7 @@ layout: default
 title: "Etelcalcetide Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Etelcalcetide Hydrochloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Etelcalcetide Hydrochloride 的相關健康新聞報導。原適應症：Parsabiv is indicated for the treatment of seconda...。預測適應症 10 個。"
 permalink: /news/etelcalcetide-hydrochloride/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/etelcalcetide-hydrochloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Parsabiv is indicated for the treatment of secondary hyperparathyroidism (SHPT) in adult patients with chronic kidney disease (CKD) on haemodialysis therapy.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>hyperphosphatemia (disease)（99.4%）</li>
 <li>esophageal varices with bleeding（99.3%）</li>

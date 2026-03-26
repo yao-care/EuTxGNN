@@ -3,7 +3,7 @@ layout: default
 title: "Perampanel 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Perampanel 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Perampanel 的相關健康新聞報導。原適應症：Fycompa is indicated for the adjunctive treatment ...。預測適應症 10 個。"
 permalink: /news/perampanel/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/perampanel/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Fycompa is indicated for the adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in adult and adolescent patients from 12 years of age with epilepsy....</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>visual epilepsy（99.9%）</li>
 <li>orgasm-induced seizures（99.9%）</li>

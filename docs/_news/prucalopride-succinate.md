@@ -3,7 +3,7 @@ layout: default
 title: "Prucalopride Succinate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Prucalopride Succinate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Prucalopride Succinate 的相關健康新聞報導。原適應症：Resolor is indicated for symptomatic treatment of ...。預測適應症 10 個。"
 permalink: /news/prucalopride-succinate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/prucalopride-succinate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Resolor is indicated for symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>hypoalphalipoproteinemia（99.8%）</li>
 <li>homozygous familial hypercholesterolemia（99.7%）</li>

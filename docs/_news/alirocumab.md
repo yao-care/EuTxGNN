@@ -3,7 +3,7 @@ layout: default
 title: "Alirocumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alirocumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Alirocumab 的相關健康新聞報導。原適應症：Primary hypercholesterolaemia and mixed dyslipidae...。預測適應症 10 個。"
 permalink: /news/alirocumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/alirocumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Primary hypercholesterolaemia and mixed dyslipidaemia Praluent is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, and in...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>ichthyosis, X-linked, without steroid sulfatase deficiency（99.4%）</li>
 <li>disorder of other vitamins and cofactors metabolism and transport（99.4%）</li>

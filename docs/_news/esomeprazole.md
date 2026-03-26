@@ -3,7 +3,7 @@ layout: default
 title: "Esomeprazole 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Esomeprazole 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Esomeprazole 的相關健康新聞報導。原適應症：Nexium Control is indicated for the short-term tre...。預測適應症 10 個。"
 permalink: /news/esomeprazole/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/esomeprazole/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Nexium Control is indicated for the short-term treatment of reflux symptoms (e.g. heartburn and acid regurgitation) in adults.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>gastrin secretion abnormality（99.8%）</li>
 <li>peptic esophagitis（99.6%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Solriamfetol Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Solriamfetol Hydrochloride 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Solriamfetol Hydrochloride 的相關健康新聞報導。原適應症：Sunosi is indicated to improve wakefulness and red...。預測適應症 10 個。"
 permalink: /news/solriamfetol-hydrochloride/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/solriamfetol-hydrochloride/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Sunosi is indicated to improve wakefulness and reduce excessive daytime sleepiness in adult patients with narcolepsy (with or without cataplexy). Sunosi is indicated to improve wakefulness and reduce...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>attention deficit-hyperactivity disorder（100.0%）</li>
 <li>faciodigitogenital syndrome（100.0%）</li>

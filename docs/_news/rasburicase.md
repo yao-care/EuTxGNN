@@ -3,7 +3,7 @@ layout: default
 title: "Rasburicase 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Rasburicase 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Rasburicase 的相關健康新聞報導。原適應症：Treatment and prophylaxis of acute hyperuricaemia,...。預測適應症 10 個。"
 permalink: /news/rasburicase/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/rasburicase/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment and prophylaxis of acute hyperuricaemia, in order to prevent acute renal failure, in adults, children and adolescents (aged 0 to 17 years) with haematological malignancy with a high tumour...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>obsolete hyperuricemia (disease)（100.0%）</li>
 <li>hypouricemia, renal（100.0%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Zoledronic Acid Monohydrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Zoledronic Acid Monohydrate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Zoledronic Acid Monohydrate 的相關健康新聞報導。原適應症：Prevention of skeletal related events (pathologica...。預測適應症 10 個。"
 permalink: /news/zoledronic-acid-monohydrate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/zoledronic-acid-monohydrate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>bone Paget disease（99.6%）</li>
 <li>HIV infectious disease（94.0%）</li>

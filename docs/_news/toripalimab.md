@@ -3,7 +3,7 @@ layout: default
 title: "Toripalimab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Toripalimab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Toripalimab 的相關健康新聞報導。原適應症：Loqtorzi, in combination with cisplatin and gemcit...。預測適應症 10 個。"
 permalink: /news/toripalimab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/toripalimab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Loqtorzi, in combination with cisplatin and gemcitabine, is indicated for the first-line treatment of adult patients with recurrent, not amenable to surgery or radiotherapy, or metastatic...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>mixed-type autoimmune hemolytic anemia（93.8%）</li>
 <li>idiopathic aplastic anemia（93.8%）</li>

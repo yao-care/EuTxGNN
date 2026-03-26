@@ -3,7 +3,7 @@ layout: default
 title: "Elbasvir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Elbasvir 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Elbasvir 的相關健康新聞報導。原適應症：ZEPATIER is indicated for the treatment of chronic...。預測適應症 10 個。"
 permalink: /news/elbasvir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elbasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/elbasvir/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：ZEPATIER is indicated for the treatment of chronic hepatitis C (CHC) in adult and paediatric patients 12 years of age and older who weigh at least 30 kg (see sections 4.2, 4.4 and 5.1). For hepatitis...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>chronic hepatitis C virus infection（99.9%）</li>
 <li>hepatitis C virus infection（99.8%）</li>
@@ -40,21 +42,13 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（12 則）
 
 ### [Hepatitis-Fälle erschüttern italienische Urlaubsregionen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxTLXg0TXJkMW5wY0t5QUJfN0hSUXpPazVWblAwelJjekc0VkpuYTBUazFhdjNvYkdZaVJtNkFmRFc5LUp0WDV4Mktmem84ZXVwa3dUR0ZJMFhwTlNjbXJaQlFCbzRUcjdIOERhaTZfaGFEVy1ITVVncE9QRi05MmlZcUdBOThZdTlyUjZpcnBsSGd6cl9EbGVyTTFQSzAtNm1STjZxLW1WZw?oc=5)
 
-2026-03-26 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-03-26 <span class="news-indication-tag">hepatitis</span>
 
 來源：[STERN.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxTLXg0TXJkMW5wY0t5QUJfN0hSUXpPazVWblAwelJjekc0VkpuYTBUazFhdjNvYkdZaVJtNkFmRFc5LUp0WDV4Mktmem84ZXVwa3dUR0ZJMFhwTlNjbXJaQlFCbzRUcjdIOERhaTZfaGFEVy1ITVVncE9QRi05MmlZcUdBOThZdTlyUjZpcnBsSGd6cl9EbGVyTTFQSzAtNm1STjZxLW1WZw?oc=5)
-
----
-
-### [Focolaio di Epatite A a Roma, dopo l'emergenza in Campania: il focolaio nel Lazio in linea con i dati dello scorso anno - Corriere Roma](https://news.google.com/rss/articles/CBMinwJBVV95cUxQQTlTdmFleU1qdjRCM2U3RXlqMkU0VF9fZ0Rkek9OR1VQN1pydkF6QlVwNUt3dTM1ck5YQm1kdzFxaWhuUzNKRDBtTGxFa1FXTHNSWXpRZDM2Zm1aaXpyTHVXZnh3OUFDelMwMm8zcUtVcDlyTkItUUVjbm0xTWxrQWhlaXdTa0oxME53OFJjbUphWlc5NTNEREtfN2lfeGE5U3FzZW1MNzJLOE8xc3ZhaFdpZTRMTnRNM3VlaUhZcEtOWnh5MFoyMDFZVW55dzV1bXgycHAtbGU2aW8tM3pNUWdla1dYNUZFOWF6ZGhBSU9jaGRMUUtCWm5pVmdVclkzd0M1aUxJQVVFNktvOXVMclFUYlQxZnVRVHhWS2p0NNIBpAJBVV95cUxPWE1VcHJCUTc2bU5DZlM3NXdCcTZscThYUUhITXF2cG1QRHVYX04wVFVLdktYcUcxN0JMMTROVGUzQ1RUVGc5WWFIYVhvVjh0bmhRWXFibGNoYmVMVUNfbVhfZnJybE0tVTRWTmdpY3BOWF9TQ0tQV0tadG05R3hGNnhMbFdCemQ1X0JsOTFUNndySWx4Ym5IV28yWHBrUWpzdnY1U2R5Ql9vRlA2VDhyUm1RNWNOa1pLWVlxVkFuaTRUTTNLdnQxN3JwVS04WWljUlU1dV9jQ1BQel83cWxOdDhMRExBQTRRdHJFZjJHSWh1NkdIUnRrRGhFQldPVmJLbzBVWlRZdnhtUFVnLVdFQ09xRXp2N0IwRmdYa2hkaWliRFBv?oc=5)
-
-2026-03-26 <span class="news-indication-tag">epatite</span>
-
-來源：[Corriere Roma](https://news.google.com/rss/articles/CBMinwJBVV95cUxQQTlTdmFleU1qdjRCM2U3RXlqMkU0VF9fZ0Rkek9OR1VQN1pydkF6QlVwNUt3dTM1ck5YQm1kdzFxaWhuUzNKRDBtTGxFa1FXTHNSWXpRZDM2Zm1aaXpyTHVXZnh3OUFDelMwMm8zcUtVcDlyTkItUUVjbm0xTWxrQWhlaXdTa0oxME53OFJjbUphWlc5NTNEREtfN2lfeGE5U3FzZW1MNzJLOE8xc3ZhaFdpZTRMTnRNM3VlaUhZcEtOWnh5MFoyMDFZVW55dzV1bXgycHAtbGU2aW8tM3pNUWdla1dYNUZFOWF6ZGhBSU9jaGRMUUtCWm5pVmdVclkzd0M1aUxJQVVFNktvOXVMclFUYlQxZnVRVHhWS2p0NNIBpAJBVV95cUxPWE1VcHJCUTc2bU5DZlM3NXdCcTZscThYUUhITXF2cG1QRHVYX04wVFVLdktYcUcxN0JMMTROVGUzQ1RUVGc5WWFIYVhvVjh0bmhRWXFibGNoYmVMVUNfbVhfZnJybE0tVTRWTmdpY3BOWF9TQ0tQV0tadG05R3hGNnhMbFdCemQ1X0JsOTFUNndySWx4Ym5IV28yWHBrUWpzdnY1U2R5Ql9vRlA2VDhyUm1RNWNOa1pLWVlxVkFuaTRUTTNLdnQxN3JwVS04WWljUlU1dV9jQ1BQel83cWxOdDhMRExBQTRRdHJFZjJHSWh1NkdIUnRrRGhFQldPVmJLbzBVWlRZdnhtUFVnLVdFQ09xRXp2N0IwRmdYa2hkaWliRFBv?oc=5)
 
 ---
 
@@ -71,6 +65,14 @@ permalink: /news/elbasvir/
 2026-03-26 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Comunicae](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
+
+---
+
+### [Epatite A a Napoli, all’ospedale Cotugno 60 ricoverati. L’infettivologa: “Meglio evitare anche il sushi” - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0NxWTNDWHlsUTgzYUxFWHJNUlZPaUJQYWV1WjA4Q3dsQTdPeTVxbTRJSnNfemdLa0lkUDA3ZTVJa0ZnQ1pJS1pnMWE0WjlpdFdBemRZNUNyM21wUVdIZk04QTFCd3AweUFkYldhSDdWQzA5Sl9VS0hTNmEwSGU1VVdnd25nekpTUG9IVFNXUHFPYlJkTTZMYmoxNEUzdw?oc=5)
+
+2026-03-26 <span class="news-indication-tag">epatite</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0NxWTNDWHlsUTgzYUxFWHJNUlZPaUJQYWV1WjA4Q3dsQTdPeTVxbTRJSnNfemdLa0lkUDA3ZTVJa0ZnQ1pJS1pnMWE0WjlpdFdBemRZNUNyM21wUVdIZk04QTFCd3AweUFkYldhSDdWQzA5Sl9VS0hTNmEwSGU1VVdnd25nekpTUG9IVFNXUHFPYlJkTTZMYmoxNEUzdw?oc=5)
 
 ---
 
@@ -106,19 +108,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Five food supplement ads banned over women's health claims - Sky News](https://news.google.com/rss/articles/CBMimAFBVV95cUxORHljVEQ5bTVaMWpNdFMta1NEa2FLTFlGcEhqaEtPSE5aTDA5WHNrcHpKOTM3elBWejQyUmY3RG9QUnotZ3l5czFXeE9WY1VmeXhyU1hmMVc2SVoycFRUMmJ4RUZOd2NzM3h3ZFNlNS1jUWU1Y2Q2VUpzZ3dNcG9KSDROQTNfMW4zRXZKN1NPNjVySEJjLWk0Qg?oc=5)
+### ['I was left doubly incontinent by a condition that affects 1 million UK women'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2U9IBngFBVV95cUxPeGo2RUw3NFlfMVJyZEpaNHFJNmk3VTlONU5YcktRcS1taUJTd3QtMWNQcVdfbGk5aDRTSmVrQVpNMnNmNGhmOFBIUHdzWXZveFdQNmxCWFQ2Zmt4a0dIQ1ZLN1ZBdVExMDRrV0poMnl1R29ja3l2ajY0RkVpaFlibzFHRWgwc2lqcWRIUXU4dHhwZXFqbVlXa281ZW9IQQ?oc=5)
 
 2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMimAFBVV95cUxORHljVEQ5bTVaMWpNdFMta1NEa2FLTFlGcEhqaEtPSE5aTDA5WHNrcHpKOTM3elBWejQyUmY3RG9QUnotZ3l5czFXeE9WY1VmeXhyU1hmMVc2SVoycFRUMmJ4RUZOd2NzM3h3ZFNlNS1jUWU1Y2Q2VUpzZ3dNcG9KSDROQTNfMW4zRXZKN1NPNjVySEJjLWk0Qg?oc=5)
+來源：[metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2U9IBngFBVV95cUxPeGo2RUw3NFlfMVJyZEpaNHFJNmk3VTlONU5YcktRcS1taUJTd3QtMWNQcVdfbGk5aDRTSmVrQVpNMnNmNGhmOFBIUHdzWXZveFdQNmxCWFQ2Zmt4a0dIQ1ZLN1ZBdVExMDRrV0poMnl1R29ja3l2ajY0RkVpaFlibzFHRWgwc2lqcWRIUXU4dHhwZXFqbVlXa281ZW9IQQ?oc=5)
 
 ---
 
-### [Scientists create blood test that predicts dementia 25 years before symptoms appear](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
+### [Junger Paderborner kämpft gegen MS – spezielle Therapie macht ihm Hoffnung - Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
 
-2026-03-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-03-25 <span class="news-indication-tag">MS</span>
 
-來源：[Earth.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JVY1dZS3ZDd3BoWGxGdm1LcGEtZWRMdFNZWHVIWjVNR2liOV85aWM2T0ZFMTRCRkE1dWtGNVg2ME42Ymp5bS1USFJGWWtSbFl1TEpMS3VXZHM1bjByOUJTZGRXZHN4dWhiZWZoY0VPN19mbnBaaG5ackdhSjJodlo3ZHM4aE5CMGVHbUVjR3NaN1B4M2tzR0lya05scmM?oc=5)
+來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
 
 ---
 
@@ -127,30 +129,6 @@ permalink: /news/elbasvir/
 2026-03-24 <span class="news-indication-tag">MS</span>
 
 來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWVBSZHJFS1JlQWhPbURHYnllVmFfaGhwNFNVOHNvdXNWSXBzWEZOaVYxUUp2bjVDWkxpc01MTU5VcHR2SS1TZ2JBYUhZWGpnak1zb3RDOXRkR29jSHBNYXFGa2xBcmJiUEFWSjE4a1RTQmhCWmFVa2pVZW1YZE1ndW5XclI4NWxwYUp3eHBYOEVWZk50eVpBNHFqS0J6Q0xFMTZ1aUY2LUtpUmh5SUF2MFNrLUtkR1hvclIzenRESVBiZ2Qwd0NqRW5jUk9tdXNwT0FvcFZPdGJGQVB5Y0I0Z3lacHFhcW9XUTk0UTFfYTZISUdxeU8yYUxqQQ?oc=5)
-
----
-
-### [Junger Paderborner kämpft gegen Multiple Sklerose – Spenden machen ihm Hoffnung - Neue Westfälische](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHNtcjBhNTgtVlVLNWgwbWNVZDlaMVVfWmZNYjgzcTFfN3hSeHRsUVg0bk1adERHR1VXYW56RVFLQWZzRTV6SERDYnR3dVBrdXpuWVVhWGRiYUpYdHhqRnBUSUNmSU5hcG5TZEx1VWhPSG5pYmcxamtKSXFDbzVKclhwUC04MkFjN2lrLVZHVzNCN1RtRmFscGQzN0JxZTBfYXdMYnQzQS14aHBKb0ZBVjdzT05KdzBUNEpJTWpUVFJQcXlYZ0JCZzhEdjJyUHF3Tnp3V3did20tdw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNHNtcjBhNTgtVlVLNWgwbWNVZDlaMVVfWmZNYjgzcTFfN3hSeHRsUVg0bk1adERHR1VXYW56RVFLQWZzRTV6SERDYnR3dVBrdXpuWVVhWGRiYUpYdHhqRnBUSUNmSU5hcG5TZEx1VWhPSG5pYmcxamtKSXFDbzVKclhwUC04MkFjN2lrLVZHVzNCN1RtRmFscGQzN0JxZTBfYXdMYnQzQS14aHBKb0ZBVjdzT05KdzBUNEpJTWpUVFJQcXlYZ0JCZzhEdjJyUHF3Tnp3V3did20tdw?oc=5)
-
----
-
-### [Massa, muore per epatite C dopo una trasfusione con sangue infetto: ministero della Salute condannato a maxi-risarcimento](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGltd3lNeV84WTB1T3RTT2VpRVZ0TF94YkgtZE1uTWZaMm5sMzhTT1U5UVl6cjkyRkt5aHlQeTVORWItYnVMdGtUbjdQTGZtb1Z1QXFXTGF2UnNueVJnUjlsWnhsU3d5ZG1CQmNuZlAtWmhZOU9LcERCV3BNVW5xd3NhX0ZEY0xRVUl6ZFpJbWNNYlFITjhDbmFkTGFQMkcwNk9ES2N4WlJzdFJvVnAzRk0tRmZUU1Rkbm9j0gFoQVVfeXFMTkxmQ0xHWm44ejhITkRSbWYybmd0Sk44WlZqRWFvS2p4U0NwQ1BqWWdnZFJqZzM0WmRuWjNWRG1mT0J6cGtKYmx1WXlzME0xZGlUSG42Tm9RSUZsZWlJbE9LTjJmdkljSnE?oc=5)
-
-2026-03-24 <span class="news-indication-tag">epatite</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGltd3lNeV84WTB1T3RTT2VpRVZ0TF94YkgtZE1uTWZaMm5sMzhTT1U5UVl6cjkyRkt5aHlQeTVORWItYnVMdGtUbjdQTGZtb1Z1QXFXTGF2UnNueVJnUjlsWnhsU3d5ZG1CQmNuZlAtWmhZOU9LcERCV3BNVW5xd3NhX0ZEY0xRVUl6ZFpJbWNNYlFITjhDbmFkTGFQMkcwNk9ES2N4WlJzdFJvVnAzRk0tRmZUU1Rkbm9j0gFoQVVfeXFMTkxmQ0xHWm44ejhITkRSbWYybmd0Sk44WlZqRWFvS2p4U0NwQ1BqWWdnZFJqZzM0WmRuWjNWRG1mT0J6cGtKYmx1WXlzME0xZGlUSG42Tm9RSUZsZWlJbE9LTjJmdkljSnE?oc=5)
-
----
-
-### [Mum diagnosed with ovarian cancer shortly after son’s second birthday urges others to be aware of symptoms - The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
 
 ---
 

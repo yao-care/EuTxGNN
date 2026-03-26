@@ -3,7 +3,7 @@ layout: default
 title: "Ambrisentan 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ambrisentan 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ambrisentan 的相關健康新聞報導。原適應症：Volibris is indicated for treatment of pulmonary a...。預測適應症 10 個。"
 permalink: /news/ambrisentan/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/ambrisentan/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Volibris is indicated for treatment of pulmonary arterial hypertension (PAH) in adult patients of WHO Functional Class (FC) II to III, including use in combination treatment (see section 5.1)....</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>pulmonary arteriovenous malformation (disease)（99.4%）</li>
 <li>pulmonary arterial hypertension associated with congenital heart disease（99.4%）</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Lutropin Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lutropin Alfa 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Lutropin Alfa 的相關健康新聞報導。原適應症：Luveris in association with a follicle-stimulating...。預測適應症 10 個。"
 permalink: /news/lutropin-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/lutropin-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Luveris in association with a follicle-stimulating-hormone (FSH) preparation is recommended for the stimulation of follicular development in women with severe luteinising-hormone (LH) and FSH...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>postural orthostatic tachycardia syndrome（97.0%）</li>
 <li>peptic esophagitis（97.0%）</li>

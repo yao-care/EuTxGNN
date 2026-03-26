@@ -3,7 +3,7 @@ layout: default
 title: "Rivaroxaban 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Rivaroxaban 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Rivaroxaban 的相關健康新聞報導。原適應症：Xarelto, co-administered with acetylsalicylic acid...。預測適應症 10 個。"
 permalink: /news/rivaroxaban/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/rivaroxaban/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Xarelto, co-administered with acetylsalicylic acid (ASA) alone or with ASA plus clopidogrel or ticlopidine, is indicated for the prevention of atherothrombotic events in adult patients after an acute...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>rheumatoid arthritis（99.6%）</li>
 <li>gout（99.5%）</li>

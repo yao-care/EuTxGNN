@@ -3,7 +3,7 @@ layout: default
 title: "Pitolisant 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Pitolisant 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Pitolisant 的相關健康新聞報導。原適應症：Wakix is indicated in adults, adolescents and chil...。預測適應症 10 個。"
 permalink: /news/pitolisant/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/pitolisant/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Wakix is indicated in adults, adolescents and children from the age of 6 years for the treatment of narcolepsy with or without cataplexy (see also section 5.1).</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>insomnia (disease)（99.7%）</li>
 <li>attention deficit-hyperactivity disorder（99.4%）</li>

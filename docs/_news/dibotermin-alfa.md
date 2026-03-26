@@ -3,7 +3,7 @@ layout: default
 title: "Dibotermin Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dibotermin Alfa 的相關健康新聞報導。原適應症：。預測適應症 2 個。"
+description: "Dibotermin Alfa 的相關健康新聞報導。原適應症：Inductos is indicated for single level lumbar inte...。預測適應症 2 個。"
 permalink: /news/dibotermin-alfa/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/dibotermin-alfa/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Inductos is indicated for single level lumbar interbody spine fusion as a substitute for autogenous bone graft in adults with degenerative disc disease who have had at least 6 months of non operative...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（2 個）：<ul>
 <li>tibia fracture（50.0%）</li>
 <li>intervertebral disc degenerative disorder（50.0%）</li>

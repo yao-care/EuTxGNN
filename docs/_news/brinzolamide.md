@@ -3,7 +3,7 @@ layout: default
 title: "Brinzolamide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Brinzolamide 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Brinzolamide 的相關健康新聞報導。原適應症：Decrease of elevated intraocular pressure (IOP) in...。預測適應症 10 個。"
 permalink: /news/brinzolamide/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/brinzolamide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Decrease of elevated intraocular pressure (IOP) in adult patients with open-angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary hereditary glaucoma（99.5%）</li>
 <li>open-angle glaucoma（99.5%）</li>

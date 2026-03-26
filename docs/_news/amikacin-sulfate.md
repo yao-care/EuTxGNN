@@ -3,7 +3,7 @@ layout: default
 title: "Amikacin Sulfate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Amikacin Sulfate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Amikacin Sulfate 的相關健康新聞報導。原適應症：Arikayce liposomal is indicated for the treatment ...。預測適應症 10 個。"
 permalink: /news/amikacin-sulfate/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/amikacin-sulfate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Arikayce liposomal is indicated for the treatment of non-tuberculous mycobacterial (NTM) lung infections caused by Mycobacterium avium Complex (MAC) in adults with limited treatment options who do...</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>paratyphoid fever（99.8%）</li>
 <li>diffuse scleroderma（99.8%）</li>

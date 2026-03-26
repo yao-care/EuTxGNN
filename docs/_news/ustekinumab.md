@@ -3,7 +3,7 @@ layout: default
 title: "Ustekinumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ustekinumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Ustekinumab 的相關健康新聞報導。原適應症：Adult Crohn’s DiseaseSTELARA is indicated for the ...。預測適應症 10 個。"
 permalink: /news/ustekinumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ustekinumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,8 @@ permalink: /news/ustekinumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Adult Crohn’s DiseaseSTELARA is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were...</li>
+<li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>dermatitis（100.0%）</li>
 <li>neonatal dermatomyositis（100.0%）</li>
@@ -40,7 +42,7 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Umfrage: Große Wissenslücke zu Herzrisiken – dabei können moderne Diabetes-Therapien gleich dreifach wirken - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYVJQWVBzenJqZF9Keld2V2MtLXM2SWpQS0tvY2dSU3dDbXFQQVBlNkkwMEtJQkZHZExFNmVBejRNa2t2dkpYLTJSenJuR2tFbUZyRW9QV3huTUhnX2h5Rk8tTUtzaEY3WnU2VnFTeUY4V3pvSXBtY0xEanlwZ0tnOHJaQXJ5eklBcDM3c1lrVG9va1JFaEhFMHlCSjZQblhOdWVsZ2FtUlBvbURYQzYtZEVJNWVYLXNJSHloamxhb1N3QzhQdkx0bzBfbkd0NklTXzRzYzBKV0VQTVlCLUkzZ2hIUTVrektJWElUZERB?oc=5)
 
@@ -54,7 +56,7 @@ permalink: /news/ustekinumab/
 
 2026-03-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[news.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFSWWlaWVVWazRtQ2paczZJNHFLaUR4TmpwQVhvdFJNNk4yYjZMWnNYcXpHOW5pdGZnX29jbzFEZlV1dzE3aFFPVlBUdzBlbjh6SUhZQ2ZDNkFRdEdXQTVCbm94SlZ1QTdLUlJGTWtySngxME5acDRUMzhoVjFJaEU1elNHa0oxMnY1NnJTbVc2aEdhZHlKOVlzRS1ZNUp5VHY5aEY1ZU9tRVREOUhyQVh3aUhNQjRzdWptelZYRUJEYWxHOWlJRmMzZTFkQ1o2TmszSzJUQ3FzNGM0cTYxaGU1RzdPQzNncHpzd29XbGJMQUXSAfgBQVVfeXFMUHRFLUNIUUF4ZjhlQjlESDBCcU1VYVdNWEVrRXhUemUycGRzUWlEWldZY1lpb1JIenEtdjVQUFRMd05VT3lPS3dINC0tY01oUElzalkxQWg4RDJZN0FfbGxHSk92LTg2bFlkQjhjbVJkQVprMnc3dUlHY083Tmx0VUJRY2FLeklNdVp6WXpSYzNnYnRfX3hibkw1WGV2dEo0NWgtYXRVekcyZ3FSTzhSN1E2V2s5d1U2N1pieTNLQzUtN3hVQ2hVb2lxcVJHTm9pUU45WTlnNkpKWlBxRXAwNXRoSjVuSkpvcDBEVnJNY1VRYWZCcDVPdWY?oc=5)
+來源：[News.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFSWWlaWVVWazRtQ2paczZJNHFLaUR4TmpwQVhvdFJNNk4yYjZMWnNYcXpHOW5pdGZnX29jbzFEZlV1dzE3aFFPVlBUdzBlbjh6SUhZQ2ZDNkFRdEdXQTVCbm94SlZ1QTdLUlJGTWtySngxME5acDRUMzhoVjFJaEU1elNHa0oxMnY1NnJTbVc2aEdhZHlKOVlzRS1ZNUp5VHY5aEY1ZU9tRVREOUhyQVh3aUhNQjRzdWptelZYRUJEYWxHOWlJRmMzZTFkQ1o2TmszSzJUQ3FzNGM0cTYxaGU1RzdPQzNncHpzd29XbGJMQUXSAfgBQVVfeXFMUHRFLUNIUUF4ZjhlQjlESDBCcU1VYVdNWEVrRXhUemUycGRzUWlEWldZY1lpb1JIenEtdjVQUFRMd05VT3lPS3dINC0tY01oUElzalkxQWg4RDJZN0FfbGxHSk92LTg2bFlkQjhjbVJkQVprMnc3dUlHY083Tmx0VUJRY2FLeklNdVp6WXpSYzNnYnRfX3hibkw1WGV2dEo0NWgtYXRVekcyZ3FSTzhSN1E2V2s5d1U2N1pieTNLQzUtN3hVQ2hVb2lxcVJHTm9pUU45WTlnNkpKWlBxRXAwNXRoSjVuSkpvcDBEVnJNY1VRYWZCcDVPdWY?oc=5)
 
 ---
 
@@ -66,27 +68,11 @@ permalink: /news/ustekinumab/
 
 ---
 
-### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
+### [Elche reúne a expertos para abordar las enfermedades crónicas con el foco puesto en la Nutrición - Cadena SER](https://news.google.com/rss/articles/CBMi9gFBVV95cUxONXNheTdSS0tnSlZHWkFqaTZLbW5oQ19fQkV2bGlSX25Rd0hUbHRXdFp4YTVXR1lZTHRTREtaZlhBWFI5ano3Q0dPZFFJMVRVTGx1NGZoal9UVk16bktDVEJ4Mkt2MmFTRW9ja3dkUmxka0s3ODhCdUFmTTJOQW9lQlZwcXpPYUFZck9MV21WTGFDV3NPcU9kMnZIQVlmUlkySm1xMW8tZFlMOVh5YnczMmVTUXFRbTFkVWFUU19RZGV3cEtwbEZmNzE5WnNKcXlhYjdUaXRGbnFqUzYwbUlvRDRQWHJWM0pMT2M1MWt5clRYVzEtZEHSAYoCQVVfeXFMUE96ajk2Q3JRRXF1S0xvR3BpNEx4SUZLeDZjQjdMbTJHUUh5ckZnRVZrMm5UUURheTF5U1BPRC1zM1htZTlIaXpyTlFmT1VkYWRhM3BmODVhZTNUbDF1YnVVMnh3ZVRxei1SVEFZV1c0WDZCaS1CTlRXVDZqU1VKMVJMMHhVbndvZmIwUWhzY3FPX0tZUGhWUy1yVUN5SU9zR2pENG9CUzlqLUZsQ1dIWnZtZXAwZGJ6eUd2cERjRExiMjlYYkJOTVJNbmpDZi1FS0VJcEctczFHSjVtdklPdzVLNF9EM2d1dXpPTjh2OW5TY1ZnOXZ1bEpzWm9oYW9IS3kyeDBVZ1poVXc?oc=5)
 
 2026-03-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
-
----
-
-### [Doc Fischer heute (25.03.2026): Themen der Sendung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjgwOHpMMExJQjBCWXBHNEhXcXI0LWVQUXpYZUc1RG5Sb1E0RXljd2ZWdmVxU2NjSTZRc2xFN1VsNkdqNVUxZ1kzNVdkN1U2OVBHY2o5bWdqRXNyWDRkSGhYbFF4YzNXNG1RS2hVckFXeVpDbHI3R2YwNzlDeHRtdUZYWWwweDcydHEwbHFHX3g5dnFRVEFCOVpDQXRBUDhoNzhUWElQZXBtVHBXMDhoRUtmbw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[stuttgarter-nachrichten.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjgwOHpMMExJQjBCWXBHNEhXcXI0LWVQUXpYZUc1RG5Sb1E0RXljd2ZWdmVxU2NjSTZRc2xFN1VsNkdqNVUxZ1kzNVdkN1U2OVBHY2o5bWdqRXNyWDRkSGhYbFF4YzNXNG1RS2hVckFXeVpDbHI3R2YwNzlDeHRtdUZYWWwweDcydHEwbHFHX3g5dnFRVEFCOVpDQXRBUDhoNzhUWElQZXBtVHBXMDhoRUtmbw?oc=5)
-
----
-
-### [Stoffwechsel: Diabetes Risiko steigt durch Übergewicht je nach Geschlecht](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi9gFBVV95cUxONXNheTdSS0tnSlZHWkFqaTZLbW5oQ19fQkV2bGlSX25Rd0hUbHRXdFp4YTVXR1lZTHRTREtaZlhBWFI5ano3Q0dPZFFJMVRVTGx1NGZoal9UVk16bktDVEJ4Mkt2MmFTRW9ja3dkUmxka0s3ODhCdUFmTTJOQW9lQlZwcXpPYUFZck9MV21WTGFDV3NPcU9kMnZIQVlmUlkySm1xMW8tZFlMOVh5YnczMmVTUXFRbTFkVWFUU19RZGV3cEtwbEZmNzE5WnNKcXlhYjdUaXRGbnFqUzYwbUlvRDRQWHJWM0pMT2M1MWt5clRYVzEtZEHSAYoCQVVfeXFMUE96ajk2Q3JRRXF1S0xvR3BpNEx4SUZLeDZjQjdMbTJHUUh5ckZnRVZrMm5UUURheTF5U1BPRC1zM1htZTlIaXpyTlFmT1VkYWRhM3BmODVhZTNUbDF1YnVVMnh3ZVRxei1SVEFZV1c0WDZCaS1CTlRXVDZqU1VKMVJMMHhVbndvZmIwUWhzY3FPX0tZUGhWUy1yVUN5SU9zR2pENG9CUzlqLUZsQ1dIWnZtZXAwZGJ6eUd2cERjRExiMjlYYkJOTVJNbmpDZi1FS0VJcEctczFHSjVtdklPdzVLNF9EM2d1dXpPTjh2OW5TY1ZnOXZ1bEpzWm9oYW9IS3kyeDBVZ1poVXc?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Teprotumumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Teprotumumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Teprotumumab 的相關健康新聞報導。原適應症：Treatment of moderate to severe thyroid eye diseas...。預測適應症 10 個。"
 permalink: /news/teprotumumab/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/teprotumumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Treatment of moderate to severe thyroid eye disease (TED).</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>monosomy X（99.8%）</li>
 <li>esophageal varices with bleeding（99.6%）</li>

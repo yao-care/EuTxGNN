@@ -3,7 +3,7 @@ layout: default
 title: "Fostamatinib Disodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fostamatinib Disodium 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Fostamatinib Disodium 的相關健康新聞報導。原適應症：Tavlesse is indicated for the treatment of chronic...。預測適應症 10 個。"
 permalink: /news/fostamatinib-disodium/
 ---
 
@@ -24,6 +24,8 @@ permalink: /news/fostamatinib-disodium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>：Tavlesse is indicated for the treatment of chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments.</li>
+<li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>thrombocytopenia due to immune destruction（99.8%）</li>
 <li>autosomal thrombocytopenia with normal platelets（99.5%）</li>
