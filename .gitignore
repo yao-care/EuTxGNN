@@ -68,11 +68,5 @@ htmlcov/
 /data/cache/*
 !/data/cache/.gitkeep
 !/data/news/
-!/data/processed/
-!/data/external/
 model_ckpt/
 .venv/
-
-# Large prediction files (>100MB) - must be excluded
-data/processed/txgnn_dl_predictions.csv
-data/processed/txgnn_checkpoint.csv

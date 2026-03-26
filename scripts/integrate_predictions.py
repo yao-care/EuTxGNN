@@ -51,7 +51,7 @@ DL_COLS = {
 MAPPING_COLS = {
     "license_id": "license_id",
     "brand_name": "brand_name",
-    "ingredient": "ingredient",
+    "ingredient": "normalized_ingredient",
     "drugbank_id": "drugbank_id",
 }
 
@@ -157,6 +157,7 @@ def integrate_predictions(
             right_on=MAPPING_COLS["drugbank_id"],
             how="inner"
         )
+        dl_mapped = dl_mapped.rename(columns={MAPPING_COLS["ingredient"]: "ingredient"})
         dl_mapped["kg_prediction"] = False
         dl_mapped["dl_prediction"] = True
         dl_mapped["source"] = "TxGNN Deep Learning Model"
