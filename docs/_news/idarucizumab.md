@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Gut leben mit COPD: DAAB stärkt Betroffene mit neuen Informations- und Unterstützungsangeboten - gesundheit adhoc](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGlaUG9WdGV1eFhqQnBiRUVCeWZLV2ZUSDFYRV81RXpFeExHLXBoMmN1aDA1Rlk1Tm1oRm1pSXdTbDlBT0lCdUdBRC1MOHFadk9HR3FmNGtBQWhkSXZ1ZXY3VjJ6UDlJUDFMUVU2UC1CQ2ZiVVBkVERmUmhxU0FTcHFiMkJ5dk45VGJrQ2loNVRCcFBGZjZDVEt1QWdvbzIzZjBXZTl2OVdIVEZtMUdHcHEtblJqZEI2alM1Sk5SODhaSmdfOGc?oc=5)
 
 2026-03-25 <span class="news-indication-tag">copd</span>
 
 來源：[gesundheit adhoc](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGlaUG9WdGV1eFhqQnBiRUVCeWZLV2ZUSDFYRV81RXpFeExHLXBoMmN1aDA1Rlk1Tm1oRm1pSXdTbDlBT0lCdUdBRC1MOHFadk9HR3FmNGtBQWhkSXZ1ZXY3VjJ6UDlJUDFMUVU2UC1CQ2ZiVVBkVERmUmhxU0FTcHFiMkJ5dk45VGJrQ2loNVRCcFBGZjZDVEt1QWdvbzIzZjBXZTl2OVdIVEZtMUdHcHEtblJqZEI2alM1Sk5SODhaSmdfOGc?oc=5)
-
----
-
-### [Passé 50 ans, ce symptôme discret au réveil indique que vos poumons fatiguent - Modes et travaux](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklzYldBZkpwNzRXQmo1ekJiOVQteG9nSjRoZjVWSXF3TGxxRnFOQjJEVzQ2LTNLQnlZblkyZ2tRS0hWMjJEVHdvdXJ2b1F2VHRrQ0hOalZzaVZSVXA1NXVlR0pkbEVtazNRNzluS1NLdTVuYWtka3Y2Q2ZSQ3Y3ZXBObXdCQU5DZW1ZYThjVUMyVXZ5Z3RMeGJ0UG1hSXdPTUJuUmhkZzlEWDlYNXJfdHgzMFJUak1LUDBSYUdvbVNPUHpFQXhraWs1dkJfc2pFZnRPd2dnZGVNMVl4dC0tdXo3TDgzRHhGQlp1WWRPWQ?oc=5)
-
-2026-03-25 <span class="news-indication-tag">BPCO</span>
-
-來源：[Modes et travaux](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklzYldBZkpwNzRXQmo1ekJiOVQteG9nSjRoZjVWSXF3TGxxRnFOQjJEVzQ2LTNLQnlZblkyZ2tRS0hWMjJEVHdvdXJ2b1F2VHRrQ0hOalZzaVZSVXA1NXVlR0pkbEVtazNRNzluS1NLdTVuYWtka3Y2Q2ZSQ3Y3ZXBObXdCQU5DZW1ZYThjVUMyVXZ5Z3RMeGJ0UG1hSXdPTUJuUmhkZzlEWDlYNXJfdHgzMFJUak1LUDBSYUdvbVNPUHpFQXhraWs1dkJfc2pFZnRPd2dnZGVNMVl4dC0tdXo3TDgzRHhGQlp1WWRPWQ?oc=5)
 
 ---
 

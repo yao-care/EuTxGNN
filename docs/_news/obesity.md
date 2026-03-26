@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesità（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesità（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,23 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Obesidad y cáncer: por qué un panel internacional pide ya un ensayo con semaglutida y tirzepatida para prevenir tumores](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+
+2026-03-26
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+
+---
+
+### [KI und DMP Adipositas revolutionieren die Diätbegleitung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
+
+2026-03-26
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
+
+---
 
 ### [Malattie del fegato: è allarme giovani (ma non solo). Sempre più esposti al rischio a causa di binge drinking e obesità - Corriere della Sera](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVFBPdHJTZEYzOVlwMldkNHNrWUhDQVZpU3htSlhROWdISTR1c1EtcDdIRnZmWEdTV1hyNGZuNm1FdXVWdjZpaFJ4SEdndmdnVmNBYjQyblpGc3lXTUU3b2JZZVZDY1BDMWRpdVBYT2thLVMtUklZa1FYcVdRMUpGN1FEcVpsZFpob1ZaREZlMTVtenJkcFRCVXQ2YThyVEFEYzUwdzJ2VmFPekgwb0RJbTVpNUQ0Njg0N1E4ZnJTNng2elluVWhqdllJY3dXTHpQTWQ5empVYXZGakNXdkltNmNDZS11ZXhTQl9WaVVaN0o5NGFId1llZXFFYWZKUHNld05kWl9pbTBPWHVYOFVUT1A5X0NOZ19PRG5ueEFUVXRqU3hWMkQ3QtIBrgJBVV95cUxNN242UExsS045Rk9zTnF3aVRPZndVOU5aakZQNTBaZ0tSdkxwc1BYaUtlZlloUDBkUGNSaVFVRDhCMnR6anh6RlZaT05pTDlkMEZIeHNNSXltRDJjdE9ZRFM2TDlfbUNqMHo4aGplN3BLd1BSWE5NY0tDZGQzMUFsUHYzVmlpUzB3WW0zV1J6SnNad3lKWFFTVlExRmpmQUR1MWdpZmZaNF9iY2t6UTI1VjNvWm52V3YzU1BRS3RGS3YzeDROek03LUlXcU03Yi1pV0NmbVNlYktKTUxOcGhKalFxVk9fS0JEYWxJYWlKaDNPeEdlc3kwcUNLV0pOMkV3YlZUU0lyN25saVk5Ry03a1VHeC0tTHZoZURQR25aaDBUbHBkeU82N0xLd0xPUQ?oc=5)
 
@@ -51,14 +67,6 @@ permalink: /news/obesity/
 2026-03-25
 
 來源：[leparisien.fr](https://news.google.com/rss/articles/CBMinwJBVV95cUxOUW1CckY2MVNWR2RMSG9Cb0tiV2lSTVpKeXNBQjczUHNCQWFDQVNpRk1rZE5iWGlOSnJfY3pLanRVMjZibGFRSnl1VEVqclpGTVEyd09RWWEzMm9YVkxCLThBNFR2bUQ4cDlOOTFYUWdSWG9WamhKZ2xVSnIyRVRlUGw3ekh4TEV5Um5jaU5DaFJETmtlN1lLU0R3cUQ4eThKMlQySk5ObE1wX0cxTGxOUk8ta2pRajRuaXpsZzNnT3RkWUNKTUFuQ1hkd1Q0eks0OV9mdlpmb3oyRTlfb2dNcTlUZXhVYm1lcVlwSjR0emxwUjJjV2NRaTZzR2hNSWtEdnV3eWpnVHNJSGhGZi1jLWliY1RQaEhObmhJb1ROcw?oc=5)
-
----
-
-### [Blickwechsel Stoffwechsel - Gemeinsame Lösungen für Prävention & Versorgung in NRW ...](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
-
-2026-03-24
-
-來源：[Presseportal](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
 
 ---
 

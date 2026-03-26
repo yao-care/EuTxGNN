@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（17 則）
 
-### [Meeresfrüchte unter Verdacht: Hepatitis-Ausbruch in Italien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhHdWUxR2Y5WVRJSFFHWmRSemlMZ1RGYUZXb1loYVFBbHZ2czVMa2xjR0Q1RGRLekIyOHhCNjlBUDRjd0NVUEpnb1ZiX2xyNTk4dnJSbV9qX1dJS2E3cXA4YkZiM0prREZ0b3BEQUVOM1FQX3I5ckRqcmhucGEtMWpSUkpzMUNIREhyTVdBTzh0bVc1YTM2UTlxVHlzTEZEZ0k2UWxFYnZqSy1vSnhRNmZxeUR4OTBQ?oc=5)
+### [Los expertos llaman a reforzar la vacunación contra la meningitis en adolescentes: "Ojalá en un año sea una realidad en todo el país"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPenItbGdzSnAtd2ZkbTFyRXhjeEQ3S1BONVVjLUpqaFFoWlYyQU1uVmxpTjFMeVoyTW9nZ2h2QXdqc2wwU25CQU9LbTM3T0pRN1IyMDhuNC02djduX282SzlRNkdzNks3WmtCb1dvLXpNVGtNT2ZGYktzSU1HOFRic3Q1QjlKQ3hDS1o5ajQ1a1pvT25lNjkwRElOZlNhT3ByTUpLTlY1UFdVTVR6WnlxRnZabTdncnNWSnpDTUJHRmlHNHBlQjIxSWNiYjMyaTJJQzNDcm11eFNQZGczc0t6U2FQZll4d2FmLUZSMlE0SUXSAfYBQVVfeXFMUHJhVk9QdllMVWQzVVVUUEVZaTRZWG9uXzNibl8tNk9udGwyd1RoOVpaZmRIYndtWFhIRE50dUh3YWZPUDJZVXFaMlgzRzlpVEhLbEJ0UXduMGpEZHpzTkVyU3gzdHA1RzViMGZJa2ZpSTlIcklVb2tzbENlOU52eExtNUxIOV9wRWlENFZDZi1IMWppYjMwTEFjWUFiSV9yNEdYN05BdkpHNl81UUhJMWNZM0k0MDQ5aUFBMEFZQ0JBbnpoMG5hU0tGT1hxbUpJZFRsWGxvajNncVJpa1U0dzhTM2ZUTkVOSzFaS092RWd1RlA3aExR?oc=5)
 
-2026-03-25 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-03-26 <span class="news-indication-tag">hepatitis</span>
 
-來源：[BILD](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhHdWUxR2Y5WVRJSFFHWmRSemlMZ1RGYUZXb1loYVFBbHZ2czVMa2xjR0Q1RGRLekIyOHhCNjlBUDRjd0NVUEpnb1ZiX2xyNTk4dnJSbV9qX1dJS2E3cXA4YkZiM0prREZ0b3BEQUVOM1FQX3I5ckRqcmhucGEtMWpSUkpzMUNIREhyTVdBTzh0bVc1YTM2UTlxVHlzTEZEZ0k2UWxFYnZqSy1vSnhRNmZxeUR4OTBQ?oc=5)
+來源：[20Minutos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPenItbGdzSnAtd2ZkbTFyRXhjeEQ3S1BONVVjLUpqaFFoWlYyQU1uVmxpTjFMeVoyTW9nZ2h2QXdqc2wwU25CQU9LbTM3T0pRN1IyMDhuNC02djduX282SzlRNkdzNks3WmtCb1dvLXpNVGtNT2ZGYktzSU1HOFRic3Q1QjlKQ3hDS1o5ajQ1a1pvT25lNjkwRElOZlNhT3ByTUpLTlY1UFdVTVR6WnlxRnZabTdncnNWSnpDTUJHRmlHNHBlQjIxSWNiYjMyaTJJQzNDcm11eFNQZGczc0t6U2FQZll4d2FmLUZSMlE0SUXSAfYBQVVfeXFMUHJhVk9QdllMVWQzVVVUUEVZaTRZWG9uXzNibl8tNk9udGwyd1RoOVpaZmRIYndtWFhIRE50dUh3YWZPUDJZVXFaMlgzRzlpVEhLbEJ0UXduMGpEZHpzTkVyU3gzdHA1RzViMGZJa2ZpSTlIcklVb2tzbENlOU52eExtNUxIOV9wRWlENFZDZi1IMWppYjMwTEFjWUFiSV9yNEdYN05BdkpHNl81UUhJMWNZM0k0MDQ5aUFBMEFZQ0JBbnpoMG5hU0tGT1hxbUpJZFRsWGxvajNncVJpa1U0dzhTM2ZUTkVOSzFaS092RWd1RlA3aExR?oc=5)
+
+---
+
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
+
+---
+
+### [Großer Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHpKVktJcnJhemZDSFE1RG5xc1ZkUGVCRW5OZjJ3RGQ4OUhwc0RVTEJINUFtYzRwajR1ZXdkVXd4S1B1VHVSem01ak0tR3JId1ZjM0RFOHhLdlA3VzREazBTV0tVREZQN3lXaVRlQTZBSlh2cUR4dHBCTE5kaDBpYUx2R1A1RTNDUVlHakVhWUwtUFpwSHRSNUVqWUNHTkZIeWJkWmNLTlo4RXRuaWw5bmpDRFIzMG1TZ0R3TG9kelpHd3c?oc=5)
+
+2026-03-26 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHpKVktJcnJhemZDSFE1RG5xc1ZkUGVCRW5OZjJ3RGQ4OUhwc0RVTEJINUFtYzRwajR1ZXdkVXd4S1B1VHVSem01ak0tR3JId1ZjM0RFOHhLdlA3VzREazBTV0tVREZQN3lXaVRlQTZBSlh2cUR4dHBCTE5kaDBpYUx2R1A1RTNDUVlHakVhWUwtUFpwSHRSNUVqWUNHTkZIeWJkWmNLTlo4RXRuaWw5bmpDRFIzMG1TZ0R3TG9kelpHd3c?oc=5)
+
+---
+
+### [Al Cotugno di Napoli 60 ricoverati con l'epatite A, a marzo 89 casi. L'esperta: attenti al menu di Pasqua, ai mitili e al sushi - Corriere Del Mezzogiorno](https://news.google.com/rss/articles/CBMigAJBVV95cUxNNm9kaS1UdFM4ZVNJbVJWOVNmdDFLVG9wWWxfUUMweFZLRmlwYjdqMDRSbVZhR0Y2a3liN1dkb3dXTktIUEljbjVsQkJuSWpCcVRjOWZKcERoR1dzR1NqSVB2VVZ5TkVERkVQd0IyaDBUQzJhSmRrY2Q5RG9Bc3NXTGhkVXQ2MjJ3NnNweV9oR1RiX3BwQXZpZlRsVXM3T3FldzdBcXoxcFo2ZHJGYVZ0d3owS2VVOHpwUWczWE96bXhCaTNGX3RVeFVuV2xiVVQ5NTVCN1BIRi1NWDFqbGJqU2o5anRLRXdRcmIxazlydy1TVmdzWXdDdjlkV2tlYTJt0gGGAkFVX3lxTE50OVVKTEVEQ0lxdGhkVzloMkNhTS1Ecy1janlleUwwcFg2bHRJVXJlSzZBZXVLREpjeHowdC05M210eTdXX0NpUkJUeExvYlpzQ1NhTDJCa1VaYVJUNFdOblVfOHFGNWlSeEVfNG96U3JTZ3RndHpQMEZXZ1BoY0NoaXBpdUF3c0xhcXR1aE5hRVJNb2VlcTNfd0JvekxBRThxSGpxby1mQ1hYVmNSVTNlMDdqVXNES2NQTjIwQ3ZDeUNlb0F1YlVrMHplS0o5ZHdZWGw2RWdCMVV4aFJlOGV1TTdkZ3JfUkVva3V4ZExybURlT2ozcjg5WFdBMUJBZmM3d1hOcnc?oc=5)
+
+2026-03-25 <span class="news-indication-tag">epatite</span>
+
+來源：[Corriere Del Mezzogiorno](https://news.google.com/rss/articles/CBMigAJBVV95cUxNNm9kaS1UdFM4ZVNJbVJWOVNmdDFLVG9wWWxfUUMweFZLRmlwYjdqMDRSbVZhR0Y2a3liN1dkb3dXTktIUEljbjVsQkJuSWpCcVRjOWZKcERoR1dzR1NqSVB2VVZ5TkVERkVQd0IyaDBUQzJhSmRrY2Q5RG9Bc3NXTGhkVXQ2MjJ3NnNweV9oR1RiX3BwQXZpZlRsVXM3T3FldzdBcXoxcFo2ZHJGYVZ0d3owS2VVOHpwUWczWE96bXhCaTNGX3RVeFVuV2xiVVQ5NTVCN1BIRi1NWDFqbGJqU2o5anRLRXdRcmIxazlydy1TVmdzWXdDdjlkV2tlYTJt0gGGAkFVX3lxTE50OVVKTEVEQ0lxdGhkVzloMkNhTS1Ecy1janlleUwwcFg2bHRJVXJlSzZBZXVLREpjeHowdC05M210eTdXX0NpUkJUeExvYlpzQ1NhTDJCa1VaYVJUNFdOblVfOHFGNWlSeEVfNG96U3JTZ3RndHpQMEZXZ1BoY0NoaXBpdUF3c0xhcXR1aE5hRVJNb2VlcTNfd0JvekxBRThxSGpxby1mQ1hYVmNSVTNlMDdqVXNES2NQTjIwQ3ZDeUNlb0F1YlVrMHplS0o5ZHdZWGw2RWdCMVV4aFJlOGV1TTdkZ3JfUkVva3V4ZExybURlT2ozcjg5WFdBMUJBZmM3d1hOcnc?oc=5)
 
 ---
 
@@ -74,14 +98,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Allarme Epatite A nel Lazio: oltre 120 casi collegati alle cozze contaminate - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUl9RQkxscllLRExxclNkLUFmT3dZSEwzd0lkUGR4RWhXU19qOUsxeVZEMFRtd2Y1cHFQY1ZuWDFLTkNoMnczcW9MZHNJU2o3ekE4aEtGUjFUQy1qRkhCVGFxQXE3MGhrQlRDTWJVRmhqbG9TTjhsZTNObHo5UUN0b2tQLVRQbndYNnJmdkxESnpBT0cyMlF4TA?oc=5)
-
-2026-03-25 <span class="news-indication-tag">epatite</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUl9RQkxscllLRExxclNkLUFmT3dZSEwzd0lkUGR4RWhXU19qOUsxeVZEMFRtd2Y1cHFQY1ZuWDFLTkNoMnczcW9MZHNJU2o3ekE4aEtGUjFUQy1qRkhCVGFxQXE3MGhrQlRDTWJVRmhqbG9TTjhsZTNObHo5UUN0b2tQLVRQbndYNnJmdkxESnpBT0cyMlF4TA?oc=5)
-
----
-
 ### [Five food supplement ads banned over women's health claims - Sky News](https://news.google.com/rss/articles/CBMimAFBVV95cUxORHljVEQ5bTVaMWpNdFMta1NEa2FLTFlGcEhqaEtPSE5aTDA5WHNrcHpKOTM3elBWejQyUmY3RG9QUnotZ3l5czFXeE9WY1VmeXhyU1hmMVc2SVoycFRUMmJ4RUZOd2NzM3h3ZFNlNS1jUWU1Y2Q2VUpzZ3dNcG9KSDROQTNfMW4zRXZKN1NPNjVySEJjLWk0Qg?oc=5)
 
 2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -98,11 +114,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Sarampión, meningitis y hepatitis A: el repunte de enfermedades prevenibles hace saltar las alarmas en España](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXV4dkVpSzhkeWFfQWNidVZObDFkYkdjNll5NVZBTnNKMEtXMGJYbl8zd0dqMm0tMTVBeEVsMmNZNnFYZEl1WVAxTEJlcTdrNS1KdGszZGF3MElVOWptMUpreGltNnRJd2xCRkZkSVhrMVIwc09lSUZsZDhGTmxfajZZYU1oQlc1WS13NkJvcmhzdXdNMkVfNDFNLXpOX1ZEUDhTR2pWS0xDTTVGbWFoSVNfNXN1NVp1V1ZjWVcwY3N6Um1ENGfSAcYBQVVfeXFMT0VKYUVoNk92ZXNfNVhUVGlGODZnRk9Yc0VCS0RnX3RYOGlwQ1Vyd2lVcEtza1I1TlliTGxKSVlZV19QcEZiVjFVekJXdnNwZmE1TXhGZEVuYjh2Y2lLQ3JQS0sxVkJTeDFyZktEN3ltUENxWmhpV2wxMW9XT2o5Qi1NWVhSUXY3RndRUnlTZWlXcGx3MEl3MEpIOWVLS1p6SkxReEJnSFI3VGtpbHhwZHozdGVtRW1ubnQwRkJBSWVvQWtJSVVn?oc=5)
+### [Teen girl dies of meningitis in Spanish hols hotspot before Easter getaways - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTNZS0pOalpiY2YtZndLWHpKZmFTcVRRZk5IbWk5djlBLWlxT3ZZalZQalRZOTBiRDV4QzFnNUM5VWlaQmJrb1AzUkwzTGM3OXQzZDZwUldrZktCY2U5LTRXdXV2NGtKU1IyQjY4SU9tc1ZLQS1kN25jQ1J6YTJHMThBVnJCRm1lQkNRWnZtVzBZcnNqd3NtWnQ5eWtCMmM0bmt3?oc=5)
 
-2026-03-25 <span class="news-indication-tag">hepatitis</span>
+2026-03-25 <span class="news-indication-tag">MS</span>
 
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXV4dkVpSzhkeWFfQWNidVZObDFkYkdjNll5NVZBTnNKMEtXMGJYbl8zd0dqMm0tMTVBeEVsMmNZNnFYZEl1WVAxTEJlcTdrNS1KdGszZGF3MElVOWptMUpreGltNnRJd2xCRkZkSVhrMVIwc09lSUZsZDhGTmxfajZZYU1oQlc1WS13NkJvcmhzdXdNMkVfNDFNLXpOX1ZEUDhTR2pWS0xDTTVGbWFoSVNfNXN1NVp1V1ZjWVcwY3N6Um1ENGfSAcYBQVVfeXFMT0VKYUVoNk92ZXNfNVhUVGlGODZnRk9Yc0VCS0RnX3RYOGlwQ1Vyd2lVcEtza1I1TlliTGxKSVlZV19QcEZiVjFVekJXdnNwZmE1TXhGZEVuYjh2Y2lLQ3JQS0sxVkJTeDFyZktEN3ltUENxWmhpV2wxMW9XT2o5Qi1NWVhSUXY3RndRUnlTZWlXcGx3MEl3MEpIOWVLS1p6SkxReEJnSFI3VGtpbHhwZHozdGVtRW1ubnQwRkJBSWVvQWtJSVVn?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTNZS0pOalpiY2YtZndLWHpKZmFTcVRRZk5IbWk5djlBLWlxT3ZZalZQalRZOTBiRDV4QzFnNUM5VWlaQmJrb1AzUkwzTGM3OXQzZDZwUldrZktCY2U5LTRXdXV2NGtKU1IyQjY4SU9tc1ZLQS1kN25jQ1J6YTJHMThBVnJCRm1lQkNRWnZtVzBZcnNqd3NtWnQ5eWtCMmM0bmt3?oc=5)
 
 ---
 
@@ -111,30 +127,6 @@ permalink: /news/pibrentasvir/
 2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Bristol Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2RoQUhsZ2JkUUJwbHljZEJYeS04UXctd2lNNEtPTXdlMU5uYUcwUXE4UldQUHNaUS0wWjRkVWczSG9EVEdaRkt0Zl9DMnpYTE9xTU1YTHBIOHhIQl9UbFdha2ZUWHh1dkpkSnliVGo0UDdRLVc4cW9tY0c0VHlfRGlKNXlzelBpdzlSOE5QTWNMZw?oc=5)
-
----
-
-### [Making home-cooked meals ‘cuts risk of dementia’ - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
-
-2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
-
----
-
-### [Alzheimer-Vortragsreihe startet mit Fokus auf Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHQyVzdBMFQ0YzJKMXpkYmstOTZLcXkyYUJCZll5NFlYUloyb05EaVpNd2VrTjI2ajJxdG1zWmFjMWRGOWlLNF9temRKTTRjZlNVY3hPd1BYT1h4QTgzdUdjNGNSQVlnTndjdjJBYkVzZjB1RnlJbDc5RHBvczBtRmI2Y01aTElDMFpvb1FYNHBvOTNpMlU0Rmt2dktCSEhpLU9XWDI2NmREVTdxT3BqTGM0dGRTU00?oc=5)
-
-2026-03-25 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHQyVzdBMFQ0YzJKMXpkYmstOTZLcXkyYUJCZll5NFlYUloyb05EaVpNd2VrTjI2ajJxdG1zWmFjMWRGOWlLNF9temRKTTRjZlNVY3hPd1BYT1h4QTgzdUdjNGNSQVlnTndjdjJBYkVzZjB1RnlJbDc5RHBvczBtRmI2Y01aTElDMFpvb1FYNHBvOTNpMlU0Rmt2dktCSEhpLU9XWDI2NmREVTdxT3BqTGM0dGRTU00?oc=5)
-
----
-
-### [Teen girl dies of meningitis in Spanish hols hotspot before Easter getaways - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTNZS0pOalpiY2YtZndLWHpKZmFTcVRRZk5IbWk5djlBLWlxT3ZZalZQalRZOTBiRDV4QzFnNUM5VWlaQmJrb1AzUkwzTGM3OXQzZDZwUldrZktCY2U5LTRXdXV2NGtKU1IyQjY4SU9tc1ZLQS1kN25jQ1J6YTJHMThBVnJCRm1lQkNRWnZtVzBZcnNqd3NtWnQ5eWtCMmM0bmt3?oc=5)
-
-2026-03-25 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTNZS0pOalpiY2YtZndLWHpKZmFTcVRRZk5IbWk5djlBLWlxT3ZZalZQalRZOTBiRDV4QzFnNUM5VWlaQmJrb1AzUkwzTGM3OXQzZDZwUldrZktCY2U5LTRXdXV2NGtKU1IyQjY4SU9tc1ZLQS1kN25jQ1J6YTJHMThBVnJCRm1lQkNRWnZtVzBZcnNqd3NtWnQ5eWtCMmM0bmt3?oc=5)
 
 ---
 
@@ -162,14 +154,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [GLP-1-Agonisten dämpfen bei Diabetes womöglich Depressionen und Angststörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
-
----
-
 ### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak - The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 2026-03-24 <span class="news-indication-tag">MS</span>
@@ -178,11 +162,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes - IPac Acuicultura](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
+### [Blood sugar spikes can damage your brain, heart and kidneys. Here’s how to avoid them - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
 
-2026-03-24 <span class="news-indication-tag">hepatitis</span>
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[IPac Acuicultura](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
 
 ---
 

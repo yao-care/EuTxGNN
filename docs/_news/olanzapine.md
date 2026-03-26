@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="Olanzapine 有什麼相關新聞？">
-<strong>Olanzapine</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Olanzapine</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,37 @@ permalink: /news/olanzapine/
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（25 則）
+
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
+
+---
+
+### [Großer Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHpKVktJcnJhemZDSFE1RG5xc1ZkUGVCRW5OZjJ3RGQ4OUhwc0RVTEJINUFtYzRwajR1ZXdkVXd4S1B1VHVSem01ak0tR3JId1ZjM0RFOHhLdlA3VzREazBTV0tVREZQN3lXaVRlQTZBSlh2cUR4dHBCTE5kaDBpYUx2R1A1RTNDUVlHakVhWUwtUFpwSHRSNUVqWUNHTkZIeWJkWmNLTlo4RXRuaWw5bmpDRFIzMG1TZ0R3TG9kelpHd3c?oc=5)
+
+2026-03-26 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHpKVktJcnJhemZDSFE1RG5xc1ZkUGVCRW5OZjJ3RGQ4OUhwc0RVTEJINUFtYzRwajR1ZXdkVXd4S1B1VHVSem01ak0tR3JId1ZjM0RFOHhLdlA3VzREazBTV0tVREZQN3lXaVRlQTZBSlh2cUR4dHBCTE5kaDBpYUx2R1A1RTNDUVlHakVhWUwtUFpwSHRSNUVqWUNHTkZIeWJkWmNLTlo4RXRuaWw5bmpDRFIzMG1TZ0R3TG9kelpHd3c?oc=5)
+
+---
+
+### [Elisabete Weiderpass: «El aumento del cáncer de colon en jóvenes está relacionado con la dieta o infeccione...](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWGlaRmNLSV9vYV9rNzVRZTBpeXpJMF9kZEZBZnJtTk41RzVWcWNmNmREUzI3WkNDRno1bWhRNTJHYnN6dTloZTRfWklORTJfSjZkdHBrMHZEZHQ4OElPVG9uZzk2cXRRNDNJTDZBWnVVRFpjeXE4NlRpcnN4dXpzRFhKNGdPMkhFS2U2ZExYVzVYUkQwQmlkTVFmclhYczNPSWREMU5DcV9hLVdyQzJucGxGU0tCV3Q0aVZGVGNfcFJTd9IBxwFBVV95cUxNMjZwZlNrVFF2ZXJOVkRwRVZXRko1MWVaZjhIZDJ4OC1Xc2JfZGx0SndfUkFhZzdvblJxSHRhTHJBeGsyTjFjY1phMEdtV0h2YU9iYjdzckgxZjZoOFlrdXk5WjgtQ25qendDcVluZDBKRmY4TWVXekhfeU4welVyVlFhM0lIUkQ2M3ZBTHdwbmFqVURJZGFyeVZEbmJDWl90UjBWMEhCWTRCY2xBSmtLY250Zl9majNfNWRuR2E1NmNBTGViMDZj?oc=5)
+
+2026-03-26 <span class="news-indication-tag">AF</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWGlaRmNLSV9vYV9rNzVRZTBpeXpJMF9kZEZBZnJtTk41RzVWcWNmNmREUzI3WkNDRno1bWhRNTJHYnN6dTloZTRfWklORTJfSjZkdHBrMHZEZHQ4OElPVG9uZzk2cXRRNDNJTDZBWnVVRFpjeXE4NlRpcnN4dXpzRFhKNGdPMkhFS2U2ZExYVzVYUkQwQmlkTVFmclhYczNPSWREMU5DcV9hLVdyQzJucGxGU0tCV3Q0aVZGVGNfcFJTd9IBxwFBVV95cUxNMjZwZlNrVFF2ZXJOVkRwRVZXRko1MWVaZjhIZDJ4OC1Xc2JfZGx0SndfUkFhZzdvblJxSHRhTHJBeGsyTjFjY1phMEdtV0h2YU9iYjdzckgxZjZoOFlrdXk5WjgtQ25qendDcVluZDBKRmY4TWVXekhfeU4welVyVlFhM0lIUkQ2M3ZBTHdwbmFqVURJZGFyeVZEbmJDWl90UjBWMEhCWTRCY2xBSmtLY250Zl9majNfNWRuR2E1NmNBTGViMDZj?oc=5)
+
+---
 
 ### [Brit mum, 33, fighting for life with meningitis after falling ill in Spain - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2NFLVRialhiZ2RxZDNySHZudFJBQlVXRk1vRVU1T2Q2WjhRcTFoM2tHeUVYdUtBeUlwT3JvZFJYREcycUliRlB0cTBULXRKdnV0X2kyTkRsUVZUeUd0MDhDR2psVmJCQXlodGJLNUdqbTd6eUMzMGliRXBBNjRlY1FZY2JNYnFTamY1YWZiakVtQmNGdDUw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2NFLVRialhiZ2RxZDNySHZudFJBQlVXRk1vRVU1T2Q2WjhRcTFoM2tHeUVYdUtBeUlwT3JvZFJYREcycUliRlB0cTBULXRKdnV0X2kyTkRsUVZUeUd0MDhDR2psVmJCQXlodGJLNUdqbTd6eUMzMGliRXBBNjRlY1FZY2JNYnFTamY1YWZiakVtQmNGdDUw?oc=5)
-
----
-
-### [Meeresfrüchte unter Verdacht: Hepatitis-Ausbruch in Italien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhHdWUxR2Y5WVRJSFFHWmRSemlMZ1RGYUZXb1loYVFBbHZ2czVMa2xjR0Q1RGRLekIyOHhCNjlBUDRjd0NVUEpnb1ZiX2xyNTk4dnJSbV9qX1dJS2E3cXA4YkZiM0prREZ0b3BEQUVOM1FQX3I5ckRqcmhucGEtMWpSUkpzMUNIREhyTVdBTzh0bVc1YTM2UTlxVHlzTEZEZ0k2UWxFYnZqSy1vSnhRNmZxeUR4OTBQ?oc=5)
-
-2026-03-25 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXhHdWUxR2Y5WVRJSFFHWmRSemlMZ1RGYUZXb1loYVFBbHZ2czVMa2xjR0Q1RGRLekIyOHhCNjlBUDRjd0NVUEpnb1ZiX2xyNTk4dnJSbV9qX1dJS2E3cXA4YkZiM0prREZ0b3BEQUVOM1FQX3I5ckRqcmhucGEtMWpSUkpzMUNIREhyTVdBTzh0bVc1YTM2UTlxVHlzTEZEZ0k2UWxFYnZqSy1vSnhRNmZxeUR4OTBQ?oc=5)
-
----
-
-### [Los alimentos que afectan al sueño y nos impiden dormir bien a partir de los 50 años](https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0d1dnpNc2ZuNU9QcG9VVDBLN0luQ1F3WXRxZXJNRG5nTDRTbmFjYnhDNWREcV9BSl9wdmhSSTMxNi03elVyZjdhWmFZdzd0ZjV5aTNTRzEtSFhvbGFjRjN3Z0tMLWpaS3hHQXBDMUNkeERkWHU1OWpJSHduWFN1eE1iMk5YcVg2Skwxc0c5YmRyRTZTcWlCbnpHLXFmamxjZ255b1hLc2swemxvNEU2eUt1b0owLWw1SmM2MWtMclNGYXM?oc=5)
-
-2026-03-25 <span class="news-indication-tag">AF</span>
-
-來源：[vozpopuli.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0d1dnpNc2ZuNU9QcG9VVDBLN0luQ1F3WXRxZXJNRG5nTDRTbmFjYnhDNWREcV9BSl9wdmhSSTMxNi03elVyZjdhWmFZdzd0ZjV5aTNTRzEtSFhvbGFjRjN3Z0tMLWpaS3hHQXBDMUNkeERkWHU1OWpJSHduWFN1eE1iMk5YcVg2Skwxc0c5YmRyRTZTcWlCbnpHLXFmamxjZ255b1hLc2swemxvNEU2eUt1b0owLWw1SmM2MWtMclNGYXM?oc=5)
 
 ---
 
@@ -90,11 +98,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [La intervención sobre la microbiota intestinal ofrece potencial en la depresión adolescente - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEE1clBteGtQWHJUVmdnNFpFR21BN2pMQUR1QlVKQ1lKVks5Q3ZoQXNWbURoSmlhZUJlaUpxWU9SWXBTbUFxT3RhdzEzZk1hZW1uZHBSTGZxV2o3bTlyV3JEWE53SDJfUmktUC1lTlhwVXJEeW1PVEI4N1pYTDFDWmNXUXBZSnhPSkJEQ2Q2cWZObkxYZ3o2LU80MWxwWDJodTBsNFItamRQd3RaS3lWcWpJX2NHR1NXSDdyT25QZ2psd9IBvAFBVV95cUxQRTZScC02ZlVYSlJzTVVEUElSZElPb0VOdTZ5UXpqM1BpTEZnZUdWd0tndGhqQnhlNVRfYzh0b0pPcXAxVjN6aG5UUFVDWWtXWjFTVVN4VXh3a1pScXo4V1hoanpQYUh1YWJZOXg3S3F4ODJMQWxUV0lVb1VMR1ZwR3FFRVM2REI0dl9sYnFZakZnZnlpbFE1ZnVad3FGY0FiU3dEc0stXzFWY3loOXFvRWYtQ3dDNGxDSGUzWA?oc=5)
+### [Aviaria, in Lombardia primo caso umano in Europa «rientrato dall’Africa»: ecco cosa sapere - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnlUa2RwVmtmYS1ORHVHdG5JVkpUS3hRTnU3UlU2V0dlMUJBYU5DNHVkREtPMDVuUTBxSTNMMTFIalVlWDlXUWUySUpqT0Q1SEJMc3BzS25raENERHAyRlpGVGdBclUzdEVCWTdUOXJBa3hqNDB4NUk0TV9nUGxOdGJHdWxFd09zbnBCUE4yWThvT2ViR3RMMnVFcVFmSlNBMEhhUjg3TEZBRk1CT2xPcktVOXRQaGM?oc=5)
 
-2026-03-25 <span class="news-indication-tag">depresión</span>
+2026-03-25 <span class="news-indication-tag">AF</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEE1clBteGtQWHJUVmdnNFpFR21BN2pMQUR1QlVKQ1lKVks5Q3ZoQXNWbURoSmlhZUJlaUpxWU9SWXBTbUFxT3RhdzEzZk1hZW1uZHBSTGZxV2o3bTlyV3JEWE53SDJfUmktUC1lTlhwVXJEeW1PVEI4N1pYTDFDWmNXUXBZSnhPSkJEQ2Q2cWZObkxYZ3o2LU80MWxwWDJodTBsNFItamRQd3RaS3lWcWpJX2NHR1NXSDdyT25QZ2psd9IBvAFBVV95cUxQRTZScC02ZlVYSlJzTVVEUElSZElPb0VOdTZ5UXpqM1BpTEZnZUdWd0tndGhqQnhlNVRfYzh0b0pPcXAxVjN6aG5UUFVDWWtXWjFTVVN4VXh3a1pScXo4V1hoanpQYUh1YWJZOXg3S3F4ODJMQWxUV0lVb1VMR1ZwR3FFRVM2REI0dl9sYnFZakZnZnlpbFE1ZnVad3FGY0FiU3dEc0stXzFWY3loOXFvRWYtQ3dDNGxDSGUzWA?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnlUa2RwVmtmYS1ORHVHdG5JVkpUS3hRTnU3UlU2V0dlMUJBYU5DNHVkREtPMDVuUTBxSTNMMTFIalVlWDlXUWUySUpqT0Q1SEJMc3BzS25raENERHAyRlpGVGdBclUzdEVCWTdUOXJBa3hqNDB4NUk0TV9nUGxOdGJHdWxFd09zbnBCUE4yWThvT2ViR3RMMnVFcVFmSlNBMEhhUjg3TEZBRk1CT2xPcktVOXRQaGM?oc=5)
 
 ---
 
@@ -130,14 +138,6 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Doctoras nutricionistas subrayan cómo debe ajustarse la alimentación de la mujer según la edad - Saber Vivir](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQemw3aEFJbkZnRHFGREdtdDYxTTlwOE5vVkFaQWtZbkV1TGgxT0tXdHhra2o2c3B1OTZCQjFqb0JCQXBCbmhfVXVCSkJfRllNdEJPX2IzN0xkOWJGYklKaGxTWFBxUmk5SlBiYjJDRkJtb3hXQTdVay1TTWhUaVltNktTWTlGUXlaOUVyOEh2TmV1d1hGbUw0b2h1RHF4MmpCYnBibExXcS0wRExqNjllNXhTc3pjT25BUUlVbEVPVU1fbGFIM0IwcEtJMzhzZzFDTjFpdnltdFZhaVNIY0E?oc=5)
-
-2026-03-25 <span class="news-indication-tag">AF</span>
-
-來源：[Saber Vivir](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQemw3aEFJbkZnRHFGREdtdDYxTTlwOE5vVkFaQWtZbkV1TGgxT0tXdHhra2o2c3B1OTZCQjFqb0JCQXBCbmhfVXVCSkJfRllNdEJPX2IzN0xkOWJGYklKaGxTWFBxUmk5SlBiYjJDRkJtb3hXQTdVay1TTWhUaVltNktTWTlGUXlaOUVyOEh2TmV1d1hGbUw0b2h1RHF4MmpCYnBibExXcS0wRExqNjllNXhTc3pjT25BUUlVbEVPVU1fbGFIM0IwcEtJMzhzZzFDTjFpdnltdFZhaVNIY0E?oc=5)
-
----
-
 ### [Mum's warning after Bristol teen died suddenly of Meningitis B in 2010 - Bristol Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2RoQUhsZ2JkUUJwbHljZEJYeS04UXctd2lNNEtPTXdlMU5uYUcwUXE4UldQUHNaUS0wWjRkVWczSG9EVEdaRkt0Zl9DMnpYTE9xTU1YTHBIOHhIQl9UbFdha2ZUWHh1dkpkSnliVGo0UDdRLVc4cW9tY0c0VHlfRGlKNXlzelBpdzlSOE5QTWNMZw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -162,11 +162,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Polyurethane coating reduces implant complications after mastectomy, cancer study finds - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3d0V2p1aDF5SkJtc2VzRmU5QndKOWZjNFdiUXU5NjBtNzNQTjJtNE5wWFFoRkc1U3ZFYkNRZm9GN3RPbFlIdDRIZTZPV0xqZUhXaE9uQ1BjaGNFZ215cFBFbWNzczYxd0luZEhHWnVqSkxwMk9HV1BTcjlNcFd0ZTA2bjMxZk95VVU3dEtIZG1MME9xbXNyTVZvNUdIOGFNbmx1aTdydWV2TXFmMk1fYzJVRDNlTWxMUjBLSG1ReFNpX3B1dFRLeF80Y3ozVk0?oc=5)
+### [La dieta mediterránea puede ser una aliada contra la depresión, y la clave está en la microbiota](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGstcmFKYTFMYXlSOUZ3eUhBZDFNUGtCTzItZEQwUnE4SWNRenpidWhPRzV2cHMzVVBsZXhJeUY5eWxYNnVzOXRzS1NVNkNCbEVOSEVJWWxzcC1lMjlpaVRRVnVfYkU4RUd0MndyZmpIRmFOTXVxanl2N2VzZndlZjc3RDFBSVFXaEZWeU9RNTF5c2dnR3pKS082NUtYMEdsQ1UzdWNtWEhyR2RSVkHSAbMBQVVfeXFMTWNoQ1Y5TUhuS05vOTliMFY0bnJmenVTSHhnSWpvNWRNekFUYnA2ZUptSGozYUQxaDk0QWRFRmY4TmQ3TS15TlBSSU9Zb01HNXlFTzlhN3ZfR0FWRGEtbUZEZ0JvTW1ZbU1xRHItQXJUNmplcEFKMGtGMDBHMnZJMVpISjYwNkw1X3JjRWtHV3NvQ09OYUoxajZUQUV0S25odlE4OVVFaDFwX2tEbmF1d2lYMzQ?oc=5)
 
-2026-03-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">depresión</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3d0V2p1aDF5SkJtc2VzRmU5QndKOWZjNFdiUXU5NjBtNzNQTjJtNE5wWFFoRkc1U3ZFYkNRZm9GN3RPbFlIdDRIZTZPV0xqZUhXaE9uQ1BjaGNFZ215cFBFbWNzczYxd0luZEhHWnVqSkxwMk9HV1BTcjlNcFd0ZTA2bjMxZk95VVU3dEtIZG1MME9xbXNyTVZvNUdIOGFNbmx1aTdydWV2TXFmMk1fYzJVRDNlTWxMUjBLSG1ReFNpX3B1dFRLeF80Y3ozVk0?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGstcmFKYTFMYXlSOUZ3eUhBZDFNUGtCTzItZEQwUnE4SWNRenpidWhPRzV2cHMzVVBsZXhJeUY5eWxYNnVzOXRzS1NVNkNCbEVOSEVJWWxzcC1lMjlpaVRRVnVfYkU4RUd0MndyZmpIRmFOTXVxanl2N2VzZndlZjc3RDFBSVFXaEZWeU9RNTF5c2dnR3pKS082NUtYMEdsQ1UzdWNtWEhyR2RSVkHSAbMBQVVfeXFMTWNoQ1Y5TUhuS05vOTliMFY0bnJmenVTSHhnSWpvNWRNekFUYnA2ZUptSGozYUQxaDk0QWRFRmY4TmQ3TS15TlBSSU9Zb01HNXlFTzlhN3ZfR0FWRGEtbUZEZ0JvTW1ZbU1xRHItQXJUNmplcEFKMGtGMDBHMnZJMVpISjYwNkw1X3JjRWtHV3NvQ09OYUoxajZUQUV0S25odlE4OVVFaDFwX2tEbmF1d2lYMzQ?oc=5)
 
 ---
 
@@ -194,22 +194,6 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Kleine Änderungen im Alltag können Herzinfarktrisiko senken - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZFU1YWdmUGNreXpKVm1HTm5hWUUtMmJhaW9vb25wbzdDZ3hKWnRZWktGc05nQ21XQzl4WDlpbzk1dm5ld0w3UHNTZFJESkZwRVpyUFc3Y2g3WkRiWjRVNjRQMERjV2R1VkhHdmZJMWpzNlVnTFcxVnJMM3N2QWd0R2R0SVhFUG1aMFd6bC1ITkw1N0hYeUVVSg?oc=5)
-
-2026-03-24 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZFU1YWdmUGNreXpKVm1HTm5hWUUtMmJhaW9vb25wbzdDZ3hKWnRZWktGc05nQ21XQzl4WDlpbzk1dm5ld0w3UHNTZFJESkZwRVpyUFc3Y2g3WkRiWjRVNjRQMERjV2R1VkhHdmZJMWpzNlVnTFcxVnJMM3N2QWd0R2R0SVhFUG1aMFd6bC1ITkw1N0hYeUVVSg?oc=5)
-
----
-
-### [Canarias da por finalizado el brote de sarampión tras 56 casos y refuerza el llamamiento a la vacunación](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYnZwaHlJRmliaXRLU0JiR0VkRUNxTFV6eHZHSm5NcEpXeFYyRlVXb0NPbDQwTjV0N2NHeTRIUXlsUi1GdnY5RWpuYWxFNWtocDg1RDJ1Q3hLY1BETjdxcmIxMkpLRzYzTEQtemlOcU1pRDgtQTlsZHQ3LV9ITll2SHpZMWpORTlmTFY1QnFPT28zbEFTb2RiTnZQcDY0MDZsM1NGRDlSdmM2dldsWFI5bE1UQnZPRHFvYUtXVzEzbVRsZEdGaXM0MXFjVVF6UlRwOUdDUy1LMkw4RTRKcjZaSjVRSlI?oc=5)
-
-2026-03-24 <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYnZwaHlJRmliaXRLU0JiR0VkRUNxTFV6eHZHSm5NcEpXeFYyRlVXb0NPbDQwTjV0N2NHeTRIUXlsUi1GdnY5RWpuYWxFNWtocDg1RDJ1Q3hLY1BETjdxcmIxMkpLRzYzTEQtemlOcU1pRDgtQTlsZHQ3LV9ITll2SHpZMWpORTlmTFY1QnFPT28zbEFTb2RiTnZQcDY0MDZsM1NGRDlSdmM2dldsWFI5bE1UQnZPRHFvYUtXVzEzbVRsZEdGaXM0MXFjVVF6UlRwOUdDUy1LMkw4RTRKcjZaSjVRSlI?oc=5)
-
----
-
 ### [Mum diagnosed with ovarian cancer shortly after son’s second birthday urges others to be aware of symptoms - The Isle of Thanet News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbVo2bFE0RXNsd3BRbm52cnpPRXdKSThpNTJCTXoyN3FNYVc4SHZSbUVfRjkydXZmeEpsMWQtN2ZScmtqMVd0MTdMeU16d3hLbE9scjBUWnp6dXlsZUJLVE9PbGxZaGQwYUVENGpsQ09fZkEzZTlob1h5ZGdLME1wb19EbktGS1puZzlWMmE5MVJtSi1CdGlLZ21kWlVtMjBKYjAtdzNBbVhZRUhWdnozLVpfZ3RKYXJEUTVqVFZzdG9lNVBhcm9NTktQVmVyLVNSck5TOVVHc3pXODdLcEI1dVJ4Zw?oc=5)
 
 2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -218,27 +202,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [GLP-1-Agonisten dämpfen bei Diabetes womöglich Depressionen und Angststörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
-
----
-
 ### [Stoffwechsel: Diabetes Risiko steigt durch Übergewicht je nach Geschlecht](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
 2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
-
----
-
-### [My baby's eye was removed after gunk was dismissed as 'normal' - it was the first sign of cancer - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1aOXhsLTJha3JxcHRJQ0s4RXE0SkhaM3dYSnktZlVDekc4Rlo3YXJpNk5LSXRvc1JJbjBjU3NMYkNma2dxLW5hdV9WbTFyRDFLcmFkTGJtVG1VRFZYUUNWakd5YWtna3hWVURBU2ZDdUFTNUZ2NmQ5WDgyclU1RlJ6amF3eXM0SXVrTkQ1SDdHdjk1bjh4UVln?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1aOXhsLTJha3JxcHRJQ0s4RXE0SkhaM3dYSnktZlVDekc4Rlo3YXJpNk5LSXRvc1JJbjBjU3NMYkNma2dxLW5hdV9WbTFyRDFLcmFkTGJtVG1VRFZYUUNWakd5YWtna3hWVURBU2ZDdUFTNUZ2NmQ5WDgyclU1RlJ6amF3eXM0SXVrTkQ1SDdHdjk1bjh4UVln?oc=5)
 
 ---
 
@@ -263,6 +231,14 @@ permalink: /news/olanzapine/
 2026-03-24 <span class="news-indication-tag">AF</span>
 
 來源：[Presseportal](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHMTJHdFNoQkhWQ2x0TGVQT19SdXU4M2dkeUxjbVpyX1ZOSWdGbEhlajlDSjY0anNIb3ZmelVMV18xbkloSnZ5SW80UUxsMldLUDNyOU5oMUE?oc=5)
+
+---
+
+### [Blood sugar spikes can damage your brain, heart and kidneys. Here’s how to avoid them - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
 
 ---
 

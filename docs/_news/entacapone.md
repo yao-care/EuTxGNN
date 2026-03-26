@@ -60,17 +60,9 @@ permalink: /news/entacapone/
 
 ### [Making home-cooked meals ‘cuts risk of dementia’ - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
 
-2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-03-25 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
-
----
-
-### [Scientists Call for a Complete Rethink of Alzheimer’s Treatment](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1N4VGRBX3Z0dFZHcU55cWhsZ3YtT2lzUzc5Vk1wanVfeWk1WDVGWlB2U2hMUmtDZko0SllfazA1ekc1a1B0czFxc1dEazQ5N2E0NGk3Rll1ckVsOC1sSXhTSlZfMnZZNmoxeE5yMW1td0RCUE1EWmJwTmFRQWY5aXRuUDZfLXlrX29PR1VaelppUQ?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1N4VGRBX3Z0dFZHcU55cWhsZ3YtT2lzUzc5Vk1wanVfeWk1WDVGWlB2U2hMUmtDZko0SllfazA1ekc1a1B0czFxc1dEazQ5N2E0NGk3Rll1ckVsOC1sSXhTSlZfMnZZNmoxeE5yMW1td0RCUE1EWmJwTmFRQWY5aXRuUDZfLXlrX29PR1VaelppUQ?oc=5)
 
 ---
 
@@ -79,6 +71,14 @@ permalink: /news/entacapone/
 2026-03-24 <span class="news-indication-tag">dementia</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1haWdQTFQxb3RMbnBsVTBXckZPYXJ6ZEVBYlZXVUpqWEI3MTRCVXRTYkhQQXZwQ1dkcmY1ZTh0MXdWc2hOVTNzb3o5OVFwM1ljMHRKYTNhUHU0Ny1fM1lIS2NMZGJJUG9uM2JKNUVZMWJqNDU4RDRtS1FtbWk0Wkd0R3kzcXNnOGc?oc=5)
+
+---
+
+### [Blood sugar spikes can damage your brain, heart and kidneys. Here’s how to avoid them - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
 
 ---
 

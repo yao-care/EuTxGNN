@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Obesidad y cáncer: por qué un panel internacional pide ya un ensayo con semaglutida y tirzepatida para prevenir tumores](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+
+---
+
+### [KI und DMP Adipositas revolutionieren die Diätbegleitung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
+
+2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
+
+---
 
 ### [Malattie del fegato: è allarme giovani (ma non solo). Sempre più esposti al rischio a causa di binge drinking e obesità - Corriere della Sera](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVFBPdHJTZEYzOVlwMldkNHNrWUhDQVZpU3htSlhROWdISTR1c1EtcDdIRnZmWEdTV1hyNGZuNm1FdXVWdjZpaFJ4SEdndmdnVmNBYjQyblpGc3lXTUU3b2JZZVZDY1BDMWRpdVBYT2thLVMtUklZa1FYcVdRMUpGN1FEcVpsZFpob1ZaREZlMTVtenJkcFRCVXQ2YThyVEFEYzUwdzJ2VmFPekgwb0RJbTVpNUQ0Njg0N1E4ZnJTNng2elluVWhqdllJY3dXTHpQTWQ5empVYXZGakNXdkltNmNDZS11ZXhTQl9WaVVaN0o5NGFId1llZXFFYWZKUHNld05kWl9pbTBPWHVYOFVUT1A5X0NOZ19PRG5ueEFUVXRqU3hWMkQ3QtIBrgJBVV95cUxNN242UExsS045Rk9zTnF3aVRPZndVOU5aakZQNTBaZ0tSdkxwc1BYaUtlZlloUDBkUGNSaVFVRDhCMnR6anh6RlZaT05pTDlkMEZIeHNNSXltRDJjdE9ZRFM2TDlfbUNqMHo4aGplN3BLd1BSWE5NY0tDZGQzMUFsUHYzVmlpUzB3WW0zV1J6SnNad3lKWFFTVlExRmpmQUR1MWdpZmZaNF9iY2t6UTI1VjNvWm52V3YzU1BRS3RGS3YzeDROek03LUlXcU03Yi1pV0NmbVNlYktKTUxOcGhKalFxVk9fS0JEYWxJYWlKaDNPeEdlc3kwcUNLV0pOMkV3YlZUU0lyN25saVk5Ry03a1VHeC0tTHZoZURQR25aaDBUbHBkeU82N0xLd0xPUQ?oc=5)
 
@@ -63,14 +79,6 @@ permalink: /news/orlistat/
 2026-03-25 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzE5YWpuUWYwWTI4aWx1WUYyeTlVVllmR2Z3YmtLbVFDTDVPR0VBMDZFRjh6UkxwdnEwZXdwd0hFSm85Y1VqYVBIbDdIVVRTZHdScUxvQ3ZhOHdTQ3NMaDFMSnFINmtsZmtaVk5zdUJCTm1BbUV1Nl90Y0dGcUhabDVfcEt3dEdfREl3MWNZSVVoSTMyOHBpRlY5TDRldkdvNEpKVVdxN2c2T2ZQVkJQNjJKaWl0YnRyeVVGQ19Send3aHRNN2tZ?oc=5)
-
----
-
-### [Blickwechsel Stoffwechsel - Gemeinsame Lösungen für Prävention & Versorgung in NRW ...](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
-
-2026-03-24 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Presseportal](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HZjJ6a1NhakxPQVlleG1uczdrOXZmaHJ1RkJxOFpqSk1LNlJGYkJQWHRPMHFET1YtOTE4b1U2Yk9saWdYeEpjSzVsQ3ZfdkRVT0VMQXR6SQ?oc=5)
 
 ---
 

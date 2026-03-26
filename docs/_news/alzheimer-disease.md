@@ -70,19 +70,19 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Scientists Call for a Complete Rethink of Alzheimer’s Treatment](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1N4VGRBX3Z0dFZHcU55cWhsZ3YtT2lzUzc5Vk1wanVfeWk1WDVGWlB2U2hMUmtDZko0SllfazA1ekc1a1B0czFxc1dEazQ5N2E0NGk3Rll1ckVsOC1sSXhTSlZfMnZZNmoxeE5yMW1td0RCUE1EWmJwTmFRQWY5aXRuUDZfLXlrX29PR1VaelppUQ?oc=5)
-
-2026-03-25
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1N4VGRBX3Z0dFZHcU55cWhsZ3YtT2lzUzc5Vk1wanVfeWk1WDVGWlB2U2hMUmtDZko0SllfazA1ekc1a1B0czFxc1dEazQ5N2E0NGk3Rll1ckVsOC1sSXhTSlZfMnZZNmoxeE5yMW1td0RCUE1EWmJwTmFRQWY5aXRuUDZfLXlrX29PR1VaelppUQ?oc=5)
-
----
-
 ### [Severe UTIs May Be an Overlooked Dementia Risk Factor](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1haWdQTFQxb3RMbnBsVTBXckZPYXJ6ZEVBYlZXVUpqWEI3MTRCVXRTYkhQQXZwQ1dkcmY1ZTh0MXdWc2hOVTNzb3o5OVFwM1ljMHRKYTNhUHU0Ny1fM1lIS2NMZGJJUG9uM2JKNUVZMWJqNDU4RDRtS1FtbWk0Wkd0R3kzcXNnOGc?oc=5)
 
 2026-03-24
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcE1haWdQTFQxb3RMbnBsVTBXckZPYXJ6ZEVBYlZXVUpqWEI3MTRCVXRTYkhQQXZwQ1dkcmY1ZTh0MXdWc2hOVTNzb3o5OVFwM1ljMHRKYTNhUHU0Ny1fM1lIS2NMZGJJUG9uM2JKNUVZMWJqNDU4RDRtS1FtbWk0Wkd0R3kzcXNnOGc?oc=5)
+
+---
+
+### [Blood sugar spikes can damage your brain, heart and kidneys. Here’s how to avoid them - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
+
+2026-03-24
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
 
 ---
 

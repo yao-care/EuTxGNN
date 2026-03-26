@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Capsaicin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,13 @@ permalink: /news/capsaicin/
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Extra 11 minutes’ sleep each night can reduce heart attack risk, study finds | Health - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
 
 2026-03-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU1ubnZyN2Z3d1hwQ2JGZUtnRV9pMHhEYUtXeEZQSEs3MjBMZTFUdFJubE9uYVhIdV85QmQtUGt0ZmcxUlRka1l4dy1rdTVwbF9mV1B6TlpyMTJKbC05bXpLclVvMzFDVWVuRmk2X2l0b3psTWNMbjRqOXV1TkVzYmwtTmx0YWlURUlYaDA3aUptMEJ5SkM2TG94M0ZCcDNOU1lydjBVQjJjRjg?oc=5)
-
----
-
-### [Neuropathische Schmerzen: Topisches Capsaicin ist mehr als 2. Wahl](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2JFdzF3U0VmN05ZNERfbHhsLWlZRjZTSktVZnpqZzhMblJvS0ZBcWRYdVlzcU1LYmw0MkJlWkNfNUl0OE5OeElDT1lmaC01VDU0cmZ3S3NZQTR5dndBVVQwZUF0SUJSU3NxbExZVEJLWmpBV05VTks4cG5zLU0yeUQ0ZXJPSXI1Ym0xX3NGQVNXUkRreWVzR095VnBFd2o1aFZxOUNiWDBUTXFRQXV4ellScw?oc=5)
-
-2026-03-24 <span class="news-drug-tag">Capsaicin</span>
-
-來源：[journalMED](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2JFdzF3U0VmN05ZNERfbHhsLWlZRjZTSktVZnpqZzhMblJvS0ZBcWRYdVlzcU1LYmw0MkJlWkNfNUl0OE5OeElDT1lmaC01VDU0cmZ3S3NZQTR5dndBVVQwZUF0SUJSU3NxbExZVEJLWmpBV05VTks4cG5zLU0yeUQ0ZXJPSXI1Ym0xX3NGQVNXUkRreWVzR095VnBFd2o1aFZxOUNiWDBUTXFRQXV4ellScw?oc=5)
 
 ---
 

@@ -42,11 +42,11 @@ permalink: /news/azathioprine/
 
 ## 相關新聞（1 則）
 
-### [Morbus Crohn und Colitis ulcerosa: Wie stark ADHS und Autismus die Krankheitsaktivität beeinflussen - Ärzte Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjhXNzhwOTVuZ21idVVkU3ZtMTNBcFZtU1QtaWRvUUY3dnFTVlJ0TUV6czdfTGNLTFF1dVJfb0tfTmZmeU9NTld3YTBTbHRMYVNueV9jZFU3Qm9XSXBScGJORXJXQ2NlUnZlMjJ5RnZNdHowTDEtYWtXbzFwVGQ0ZTkyQzdTQ1M3dzF6cmJNQnM1aXpURm9hb082TV8wVEVlS3RsVElZbDl4SUF0M3h5OV9IR1dpZ29yd1FBd0F2ZENTMHRYd1VoX1d4Y1RXbWs3QjAtV3lMako4emxoNXc?oc=5)
+### [Darmmikrobiom-Forschung erlebt entscheidende Wende - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
 
-2026-03-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+2026-03-25 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjhXNzhwOTVuZ21idVVkU3ZtMTNBcFZtU1QtaWRvUUY3dnFTVlJ0TUV6czdfTGNLTFF1dVJfb0tfTmZmeU9NTld3YTBTbHRMYVNueV9jZFU3Qm9XSXBScGJORXJXQ2NlUnZlMjJ5RnZNdHowTDEtYWtXbzFwVGQ0ZTkyQzdTQ1M3dzF6cmJNQnM1aXpURm9hb082TV8wVEVlS3RsVElZbDl4SUF0M3h5OV9IR1dpZ29yd1FBd0F2ZENTMHRYd1VoX1d4Y1RXbWs3QjAtV3lMako4emxoNXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
 
 ---
 

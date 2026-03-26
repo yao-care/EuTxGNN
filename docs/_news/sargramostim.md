@@ -14,7 +14,7 @@ permalink: /news/sargramostim/
 ---
 
 <p class="key-answer" data-question="Sargramostim 有什麼相關新聞？">
-<strong>Sargramostim</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sargramostim</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,53 @@ permalink: /news/sargramostim/
 <p><a href="{{ '/drugs/sargramostim/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（28 則）
 
-### [HRT patches can help treat prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0NPTlFwdks1WDdPdWEtNzZjZUw3ZlNtNG05UHE4ZnFGRllCNDVVX0FWcHoxNTE5OXJwcWhTNU8tMlp6dGtVQlRxaVBiMFlaN3g2REpBb0F6dWNpZkU1RzFRY3oyVVhVUmgxejRRV3FmUmhNcTNEQ195eTlWUk92SFVoSlhJY2JPeFpiQjFYajJSQmxYa1N1TUd5M2N0amJuVUEzSGdR?oc=5)
+### [Obesidad y cáncer: por qué un panel internacional pide ya un ensayo con semaglutida y tirzepatida para prevenir tumores](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+
+---
+
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
+
+---
+
+### [KI und DMP Adipositas revolutionieren die Diätbegleitung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
+
+2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
+
+---
+
+### [El virus del papiloma humano es responsable del 5% de todos los cánceres y está asociado hasta con seis tipos de tumores - Diario Sur](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjFTd2NSSldRRWNzNmY3aHluZnZLZDRxSjgyODU0QzloZzdkMHpxMDhGQTVFLVdKa3k2ekFQTFNCVnVqcWlqanZ4WE9TTU40N3dLUDJ3T01TbFZvRS1WWnJFcnlaVy1DOTV2M3lpMUhJUFpuMG5JSElaRnUxRFVpa29JTkVBYXR4VG5nbmtqVW9kd3hmV0hya3VvV03SAaIBQVVfeXFMT01Kc29IeEZyQmN5NUpKelBmckRkbk5jNGE3VkVyc2g1akZaZDZ3dlA1LWRrZzY1TTdxb3JraXFzSF9lcWRPVk9wS0dxRXdOV3A5NW94dmRVQUtrcEt3OGRpcHBYTlBnWGhsWE4zZy1HVzhaUC1YVEVVR3JPbHBhQzNkUWlRWjJ3T25XLUZXWERpaFVsWFQ1QWg5R0NvU1FHdHdR?oc=5)
+
+2026-03-25 <span class="news-indication-tag">tumor</span>
+
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjFTd2NSSldRRWNzNmY3aHluZnZLZDRxSjgyODU0QzloZzdkMHpxMDhGQTVFLVdKa3k2ekFQTFNCVnVqcWlqanZ4WE9TTU40N3dLUDJ3T01TbFZvRS1WWnJFcnlaVy1DOTV2M3lpMUhJUFpuMG5JSElaRnUxRFVpa29JTkVBYXR4VG5nbmtqVW9kd3hmV0hya3VvV03SAaIBQVVfeXFMT01Kc29IeEZyQmN5NUpKelBmckRkbk5jNGE3VkVyc2g1akZaZDZ3dlA1LWRrZzY1TTdxb3JraXFzSF9lcWRPVk9wS0dxRXdOV3A5NW94dmRVQUtrcEt3OGRpcHBYTlBnWGhsWE4zZy1HVzhaUC1YVEVVR3JPbHBhQzNkUWlRWjJ3T25XLUZXWERpaFVsWFQ1QWg5R0NvU1FHdHdR?oc=5)
+
+---
+
+### [HRT patches can tackle prostate cancer too - The Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDVCbkQwMUVPQ3FSVnpZOVVWdjZ3MEo1d2FEd3hiajR4V1M3OEFkajV5ZkRBUlF0SXBETkREcXlsZmRBaW9rb2pyY3o1LV96NktrMHVMam1pejI4S0pCSVFjT0tfX2wyQlAtbXJRTzZIRktETmlsN3E4d1V3N210WWN2QndlMzdQaFJ1Rk9xR2hQSE9YSmh1UWp3?oc=5)
 
 2026-03-25 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">cancer</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0NPTlFwdks1WDdPdWEtNzZjZUw3ZlNtNG05UHE4ZnFGRllCNDVVX0FWcHoxNTE5OXJwcWhTNU8tMlp6dGtVQlRxaVBiMFlaN3g2REpBb0F6dWNpZkU1RzFRY3oyVVhVUmgxejRRV3FmUmhNcTNEQ195eTlWUk92SFVoSlhJY2JPeFpiQjFYajJSQmxYa1N1TUd5M2N0amJuVUEzSGdR?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDVCbkQwMUVPQ3FSVnpZOVVWdjZ3MEo1d2FEd3hiajR4V1M3OEFkajV5ZkRBUlF0SXBETkREcXlsZmRBaW9rb2pyY3o1LV96NktrMHVMam1pejI4S0pCSVFjT0tfX2wyQlAtbXJRTzZIRktETmlsN3E4d1V3N210WWN2QndlMzdQaFJ1Rk9xR2hQSE9YSmh1UWp3?oc=5)
+
+---
+
+### [Rötungen und Juckreiz: Diese Hautprobleme können auf Diabetes hinweisen](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRWZpV0lraDNNejNkTzVUVE1GQXFxb0RBYXRUaV9xUEtfOF9ibnY1NnpWTDZmejdwRjNYWE1GcG0wOXdFX3dLOGs4cmw1bTVZUkNDaDlLNDJHLURxaXppNVVsNmxRN1FGVHZNdEpwdWswOXdtaDl1WllvaHpLWTUyUmRTczFYUi1oU2dtNGRTRjNoaE1KMl9yXzJydWxtalhVRlJMUVhCMWpJLXpfSFBWYmgwNGxoUi1wYlNzbklJWW9TVnF2a2wzUXE2R3dSZ1IxTGdBbWZ5dnc4ZzJrcUI4c010bzZ2UUFiZ0s2RFgwdlN0bnfSAfgBQVVfeXFMTV9SSlc2V0ZPVUpkbElSR1JnUTliR20wOWxVN2Zsc2NiM2N1MUZZaFg4TE5UTU9rRV96WjczVkJqTUhCdzB3aEpiS2Y4bTAzVFpZYU43QWE0TjJKbnk2anJlYk5Mb3I4WUZiZERYdldoTXNUa3lPSnYxX3NfV2I1Sl9JTnZDMGFMMXpnR3I0TlBkSWt0VVZ2MmRfQ0hxU2ZsRk1WY2RoSlBGeVNNcEpsMkxJaEQ3U1dkWEZYUFU2c0RINHJ2SXdaX2R0SHotVFNfVHNiaTdHdWVrNW9GaHhPQzFFWE5LMUFMZlpMSW1BQWV0LXBfV183by0?oc=5)
+
+2026-03-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[news.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRWZpV0lraDNNejNkTzVUVE1GQXFxb0RBYXRUaV9xUEtfOF9ibnY1NnpWTDZmejdwRjNYWE1GcG0wOXdFX3dLOGs4cmw1bTVZUkNDaDlLNDJHLURxaXppNVVsNmxRN1FGVHZNdEpwdWswOXdtaDl1WllvaHpLWTUyUmRTczFYUi1oU2dtNGRTRjNoaE1KMl9yXzJydWxtalhVRlJMUVhCMWpJLXpfSFBWYmgwNGxoUi1wYlNzbklJWW9TVnF2a2wzUXE2R3dSZ1IxTGdBbWZ5dnc4ZzJrcUI4c010bzZ2UUFiZ0s2RFgwdlN0bnfSAfgBQVVfeXFMTV9SSlc2V0ZPVUpkbElSR1JnUTliR20wOWxVN2Zsc2NiM2N1MUZZaFg4TE5UTU9rRV96WjczVkJqTUhCdzB3aEpiS2Y4bTAzVFpZYU43QWE0TjJKbnk2anJlYk5Mb3I4WUZiZERYdldoTXNUa3lPSnYxX3NfV2I1Sl9JTnZDMGFMMXpnR3I0TlBkSWt0VVZ2MmRfQ0hxU2ZsRk1WY2RoSlBGeVNNcEpsMkxJaEQ3U1dkWEZYUFU2c0RINHJ2SXdaX2R0SHotVFNfVHNiaTdHdWVrNW9GaHhPQzFFWE5LMUFMZlpMSW1BQWV0LXBfV183by0?oc=5)
 
 ---
 
@@ -82,14 +122,6 @@ permalink: /news/sargramostim/
 
 ---
 
-### [La vacunación frente al VPH y el cribado consolidan el descenso del cáncer de cuello uterino en España - Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxOMktkNk9VbXRwb1U2SWlsR2tYdktqVHBHdWdaN1phbFlqS0xmN1lSeGZNai03TXVZOGxuRExCYmpOeHZhVG5jN2xtYkFxQ1oxOHN6bUxab1c1UkppdVBralRsai1VZ3Z5YmhGMkV4X3FBREtzblpHVW4wd3dWS2dXNFJUZGFMMDFONF9TdVNMWElYWXBXZ1d3RjhQWlhUYm5sUnB3cWQwUmpCdXY5b1Q1UG5XbkJ1QXFhaGVNckdPZUhWRnJ1ZHc3MG4wd0FYVUVrVElDdFVTbnRnS2tPRVRVc1MxZDZvQU5Fb0ZWODdEQVl3SHlYNTdIMnVvazZ3dWxaQlBhSDMtOA?oc=5)
-
-2026-03-25 <span class="news-indication-tag">tumor</span>
-
-來源：[Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxOMktkNk9VbXRwb1U2SWlsR2tYdktqVHBHdWdaN1phbFlqS0xmN1lSeGZNai03TXVZOGxuRExCYmpOeHZhVG5jN2xtYkFxQ1oxOHN6bUxab1c1UkppdVBralRsai1VZ3Z5YmhGMkV4X3FBREtzblpHVW4wd3dWS2dXNFJUZGFMMDFONF9TdVNMWElYWXBXZ1d3RjhQWlhUYm5sUnB3cWQwUmpCdXY5b1Q1UG5XbkJ1QXFhaGVNckdPZUhWRnJ1ZHc3MG4wd0FYVUVrVElDdFVTbnRnS2tPRVRVc1MxZDZvQU5Fb0ZWODdEQVl3SHlYNTdIMnVvazZ3dWxaQlBhSDMtOA?oc=5)
-
----
-
 ### [Was ein gesunder Thymus über Herz-Krankheiten und Lungenkrebs verrät](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZFM3R2EwQ1pvaFl6UUZOOEFVN1ZTRzVqdUZzVkxnQUozN2xjY285SGRQbGtLcnNhbUVVN3QwSnJGVnptTkMwVDQtU1RhR1cxNzAtU2QtWFhBNktiMlpXYlJCdnpUZHdobXQ5SmllSkt6WDdlcnRydk9Ca1NuaW1pSVFmUGlKeUxGb1YySjllWE5iTGxfYXdwSzcwd0M0Ukh2Z3lXOEVrV3hZcTBseXlIOXRZYnQ5Ujc1OS1XRVlhdVprOS1faWExZzFkNU1hcXA2SDBRT1JoSDBSOGI5a3h4b2lQcw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">Krebs</span>
@@ -103,6 +135,14 @@ permalink: /news/sargramostim/
 2026-03-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[stuttgarter-nachrichten.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjgwOHpMMExJQjBCWXBHNEhXcXI0LWVQUXpYZUc1RG5Sb1E0RXljd2ZWdmVxU2NjSTZRc2xFN1VsNkdqNVUxZ1kzNVdkN1U2OVBHY2o5bWdqRXNyWDRkSGhYbFF4YzNXNG1RS2hVckFXeVpDbHI3R2YwNzlDeHRtdUZYWWwweDcydHEwbHFHX3g5dnFRVEFCOVpDQXRBUDhoNzhUWElQZXBtVHBXMDhoRUtmbw?oc=5)
+
+---
+
+### [Un nuevo sistema de nanopartículas logra reducir la toxicidad asociada a la quimioterapia - El médico interactivo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0ktVThUNTJfWDNUb21oc1ZyOGswRTdQOHRnTlZOM0Jnd3I3LTRIcHlUSjJSNlRQc3dqX2xQbVRRbXVLdTA4aV9RMW5sOWxhd01YVk5JUmg3VktXejY1d2JydWdJRENoWWVaajBtUTFOeUQxUHZJTzFzQWVRVnlxZEVIUDFjUVFiOU0zX3NXT0I1ZS03SDItU2IxaGpVSWg3dVRTWA?oc=5)
+
+2026-03-25 <span class="news-indication-tag">tumor</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0ktVThUNTJfWDNUb21oc1ZyOGswRTdQOHRnTlZOM0Jnd3I3LTRIcHlUSjJSNlRQc3dqX2xQbVRRbXVLdTA4aV9RMW5sOWxhd01YVk5JUmg3VktXejY1d2JydWdJRENoWWVaajBtUTFOeUQxUHZJTzFzQWVRVnlxZEVIUDFjUVFiOU0zX3NXT0I1ZS03SDItU2IxaGpVSWg3dVRTWA?oc=5)
 
 ---
 
@@ -146,11 +186,11 @@ permalink: /news/sargramostim/
 
 ---
 
-### [Polyurethane coating reduces implant complications after mastectomy, cancer study finds - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3d0V2p1aDF5SkJtc2VzRmU5QndKOWZjNFdiUXU5NjBtNzNQTjJtNE5wWFFoRkc1U3ZFYkNRZm9GN3RPbFlIdDRIZTZPV0xqZUhXaE9uQ1BjaGNFZ215cFBFbWNzczYxd0luZEhHWnVqSkxwMk9HV1BTcjlNcFd0ZTA2bjMxZk95VVU3dEtIZG1MME9xbXNyTVZvNUdIOGFNbmx1aTdydWV2TXFmMk1fYzJVRDNlTWxMUjBLSG1ReFNpX3B1dFRLeF80Y3ozVk0?oc=5)
+### [Ballaststoffe revolutionieren Krebstherapie und Hirngesundheit ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpJaE1nUnpOYVloemlFVllLclh1WjU2bzRxNm9BZC04RHNfWUNxbTJYQjlvWkVWV25OZHNDRkw5SGpyR0k4Z1l2dy1YUlB1RzhDUk9UX0l4Tk55SzYyYXZkNGxsTFlBR2Nkc25ITmozQi1oRkNkaEVoM2lsWUNUY0RwQWY0R0haSWgzS3hlTFRheEFEYUtkaTVJTUU0bTBQTTBhLWdLWUJjUU02cDhXdkZUOFc0NEk?oc=5)
 
-2026-03-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">Krebs</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3d0V2p1aDF5SkJtc2VzRmU5QndKOWZjNFdiUXU5NjBtNzNQTjJtNE5wWFFoRkc1U3ZFYkNRZm9GN3RPbFlIdDRIZTZPV0xqZUhXaE9uQ1BjaGNFZ215cFBFbWNzczYxd0luZEhHWnVqSkxwMk9HV1BTcjlNcFd0ZTA2bjMxZk95VVU3dEtIZG1MME9xbXNyTVZvNUdIOGFNbmx1aTdydWV2TXFmMk1fYzJVRDNlTWxMUjBLSG1ReFNpX3B1dFRLeF80Y3ozVk0?oc=5)
+來源：[Börse Social](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpJaE1nUnpOYVloemlFVllLclh1WjU2bzRxNm9BZC04RHNfWUNxbTJYQjlvWkVWV25OZHNDRkw5SGpyR0k4Z1l2dy1YUlB1RzhDUk9UX0l4Tk55SzYyYXZkNGxsTFlBR2Nkc25ITmozQi1oRkNkaEVoM2lsWUNUY0RwQWY0R0haSWgzS3hlTFRheEFEYUtkaTVJTUU0bTBQTTBhLWdLWUJjUU02cDhXdkZUOFc0NEk?oc=5)
 
 ---
 
@@ -178,35 +218,11 @@ permalink: /news/sargramostim/
 
 ---
 
-### [GLP-1-Agonisten dämpfen bei Diabetes womöglich Depressionen und Angststörungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndSV2prRFU5YkpJSkhUU3hpZ2hjRHpHd3RyOVJnTGhSTHQ1OVhyVDBzYzFrcUhlTDRCNUd0QjZ6R2Zwd3BqMWFPWlZrcTR3V01EZWh3YjdwMDUxTlo3Mk1Ncnh1b1JlSzM0NF9MbkZDYmJrOFlHNnBnUWNmYXQtRWwwUmVnbm1Hdmg4NXljZlVSNnJ6R0xHQ21YY0pPTU1fVXZmUkl1RS1LSzRaUFdiRFBTY2U3a0NHZTEzaUM2TXdrNG8xYU95aC1nQnpWRHB6dFFMZWdlTGhLNUZWTGZMMA?oc=5)
-
----
-
-### [Glutatión: el antioxidante que protege las células sanas pero también puede alimentar células cancerígenas - El Economista](https://news.google.com/rss/articles/CBMioAJBVV95cUxQZ24yTFFXcjRYQ0xNQldmQmtvLTk4eG1tcFpVRlE2LUxLcUtkMkhjWFhSdHY1QWJYVnMxR3dyUTg1V1Y4WHpvRGx6T2xob2RycGZ5bnNjMmtBNWVER3Ruakh2ekI5blRLQ0xRZnNQc3MzcGplam9rclNfTU9tbzNsaEI2RnlRbG5lYkJfZ0kyRndiekJIOWc3SkVjVmd6NEt5ZnpGUmZCdm9DZnFJR2ZTbnNJMmdKOEtfaHdHQ2JXWlVSdTJWQWJXSlQ2Nk1fMjlPa2lWNTk2ak1xOUhrNDhGZGR0NjZPdFZIbnhtMy1hUWxkMk1qcjFlbWJUN21CdWcyMmxtM3pMeFhWS3lwWVhvYjlJWVM1eHp1QTBHa2llMmQ?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMioAJBVV95cUxQZ24yTFFXcjRYQ0xNQldmQmtvLTk4eG1tcFpVRlE2LUxLcUtkMkhjWFhSdHY1QWJYVnMxR3dyUTg1V1Y4WHpvRGx6T2xob2RycGZ5bnNjMmtBNWVER3Ruakh2ekI5blRLQ0xRZnNQc3MzcGplam9rclNfTU9tbzNsaEI2RnlRbG5lYkJfZ0kyRndiekJIOWc3SkVjVmd6NEt5ZnpGUmZCdm9DZnFJR2ZTbnNJMmdKOEtfaHdHQ2JXWlVSdTJWQWJXSlQ2Nk1fMjlPa2lWNTk2ak1xOUhrNDhGZGR0NjZPdFZIbnhtMy1hUWxkMk1qcjFlbWJUN21CdWcyMmxtM3pMeFhWS3lwWVhvYjlJWVM1eHp1QTBHa2llMmQ?oc=5)
-
----
-
 ### [Stoffwechsel: Diabetes Risiko steigt durch Übergewicht je nach Geschlecht](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
 
 2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxNekg5N09WZENrM1lXVUI3Z2hRcFZBZnBZYmRDOFFSZ3BlcTRXQV9CZGNsTEhWVHlSYTJlNjlCVjBhZ2ZHMDl4TzZrZkZwZW1yMUk5ekpYeDJCVlBzd2xyQ1VvRW55V3I4MkRrcm1US1VlUTN4a3RUd0xSaTJNTnNhMFl5OVVCcGtPWmVucFVQSkUxTThm?oc=5)
-
----
-
-### [My baby's eye was removed after gunk was dismissed as 'normal' - it was the first sign of cancer - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1aOXhsLTJha3JxcHRJQ0s4RXE0SkhaM3dYSnktZlVDekc4Rlo3YXJpNk5LSXRvc1JJbjBjU3NMYkNma2dxLW5hdV9WbTFyRDFLcmFkTGJtVG1VRFZYUUNWakd5YWtna3hWVURBU2ZDdUFTNUZ2NmQ5WDgyclU1RlJ6amF3eXM0SXVrTkQ1SDdHdjk1bjh4UVln?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1aOXhsLTJha3JxcHRJQ0s4RXE0SkhaM3dYSnktZlVDekc4Rlo3YXJpNk5LSXRvc1JJbjBjU3NMYkNma2dxLW5hdV9WbTFyRDFLcmFkTGJtVG1VRFZYUUNWakd5YWtna3hWVURBU2ZDdUFTNUZ2NmQ5WDgyclU1RlJ6amF3eXM0SXVrTkQ1SDdHdjk1bjh4UVln?oc=5)
 
 ---
 
@@ -234,11 +250,11 @@ permalink: /news/sargramostim/
 
 ---
 
-### [Juckreiz und Rötungen: Diese Hautprobleme können auf Diabetes hinweisen](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
+### [Blood sugar spikes can damage your brain, heart and kidneys. Here’s how to avoid them - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
 
-2026-03-24 <span class="news-indication-tag">diabetes</span>
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[news.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dFMUhVWWZpM0xYNGtNWkJrWmF6Uy1qQkJwLUdlcGhQQ1VsNmlGSWI3Qm5HcmZFMDZsUWVrYTdHanZyOS15VzFweS15SmRNYnVfQjVYRmR1NFlLZ0JGTTNmdlhQRlZ0c2p4NGxvQ05rWXphY256Sm5mcUMxN1hXdTcwd0dEMkJVY1J5Tm15TFNtdThFaVN2ZFNuYVdWUFBCQ0JBV0hoV2VGTC1IOG5NTF9hUF8ydGNkcTl6YkJSZGtaQnBBT19WTGIyRDR6X0NRbTdGMjd5SlJsSWxZYzl4V3E3VEV1UzRDd0dpYUxnR0hHNElKdTNEdQ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNl9PR0ZFeXBxSmdfUndSUFFXWjhzZmR0eV9QbWQxclVoWXFWbjRpN2VXR1UtS3M1anN0dThsTldmSV8yM1g1N1psV0I1TGNiaFJEbll0Y0N3YnhVbm96MDFqa0daSDk0cl9uVHRGZUpacUtjOUR6TzlDODVDcGRkY0FXbWVxd3RFMVNHWmJ5WFdTX2xmdjNkZ25XZGpBYTNIemhfdA?oc=5)
 
 ---
 
@@ -247,14 +263,6 @@ permalink: /news/sargramostim/
 2026-03-24 <span class="news-indication-tag">Krebs</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOQXl5UmVrczFyckNucTc3TllpU3ZqQWoyVlVjaS1Ya0tkU05QTzZrR2NjZUNJTHlLT0RxeU1YcVgzM3RKVXBBWFcxM1dqNUFWMXVodWtEeV9VNWVpS20xTUNzQ2FEcDBNT3hNbmdXQW40TU5rQi1NRE5WN21Za3d2bUlsSkRoR09VZUdkMDFkSUJUVl9RUXJuZW1aVFd4YUpkUUUzNUNBWm9wdy1MNU9HT1I5dDhjRG1hRy1qOHJpTE0zOG11dVgwS2k3NERMSTA?oc=5)
-
----
-
-### [Cos'è il melanoma uveale: come riconoscere i segni di un tumore agli occhi, che di solito compare tra i 55 e i 65 anni - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVlEwb3JidWVUMlh3VUVORlAzUE40SWtKb0dHTUFVLXdqQUVjZVNiQjNiVUt3bzU1TUFrNTR0U0Y4dF9VRF9hQmlreG9ERDIwQ0lSZXRwNnhGc3Mwb1QzSl9xUk9RT1NfUXdDTnU1M1NrOHlDVnNZYkhOYnJMM2s1Z0ZzUzBDVnp0Q2xkRTdDLTJEMEtGLUZFOUhnaGtTU3BlNmp1Mi1zWXZQSFpNd0FoUlRuM3JfVlZ4d0YwLVRteWFMdjN0Vm9mLXpNZ0JtTkFkZkVLOWtla1VYVk5pWGRGZ1BleDk2d0txUDdNWC03TE5PdS1ybXM4ajBEbFZHUDk4OTRTNUJHejZGWkdRdU9vcktPLUNvNzhra1VUa0gxRXh4bEhHV0ltLXFONDJ3Rkc5WDZ0czVFcnl3Umd4Ni0tMtIBxgJBVV95cUxOVDc4TUxXa0I1QlFnZHBwNDR2ZlZGbmZ2NGhJUFVEUFBkZmw4QkprdTBHRmkySTUxaFphMmtEOW1uUHFMR05GTlJLWUx0b18wNExzWXhBRjFHX0V2dUg5V2R2V181QmRURENuVC1HdlNzUGFjckJUU3hURUZvOTZFc3RXb2JwY2pmZWxoRDljWmxnWVkwYUtmNjl3emlLaHJkRVlrNHBhSDhBRkkwUjlXNFJsNGFrWlA2cDZLSGF1amVURkdHcmFQdThQS0xRSVV6LU9xLUhUQXFJeGYzdGp3R0NVODhtM044enhyZ0JBQVhpdHlYSG1wYU9pVHVrcmNxaDBOTGt1V2VDelpNcE94UU1nSlduZTRpR0JYVWQ2NkU5M1hHWnpaY2NCd240NDg5Xzh4enAycFc3Wkw2UlJLNllpMEpJZw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVlEwb3JidWVUMlh3VUVORlAzUE40SWtKb0dHTUFVLXdqQUVjZVNiQjNiVUt3bzU1TUFrNTR0U0Y4dF9VRF9hQmlreG9ERDIwQ0lSZXRwNnhGc3Mwb1QzSl9xUk9RT1NfUXdDTnU1M1NrOHlDVnNZYkhOYnJMM2s1Z0ZzUzBDVnp0Q2xkRTdDLTJEMEtGLUZFOUhnaGtTU3BlNmp1Mi1zWXZQSFpNd0FoUlRuM3JfVlZ4d0YwLVRteWFMdjN0Vm9mLXpNZ0JtTkFkZkVLOWtla1VYVk5pWGRGZ1BleDk2d0txUDdNWC03TE5PdS1ybXM4ajBEbFZHUDk4OTRTNUJHejZGWkdRdU9vcktPLUNvNzhra1VUa0gxRXh4bEhHV0ltLXFONDJ3Rkc5WDZ0czVFcnl3Umd4Ni0tMtIBxgJBVV95cUxOVDc4TUxXa0I1QlFnZHBwNDR2ZlZGbmZ2NGhJUFVEUFBkZmw4QkprdTBHRmkySTUxaFphMmtEOW1uUHFMR05GTlJLWUx0b18wNExzWXhBRjFHX0V2dUg5V2R2V181QmRURENuVC1HdlNzUGFjckJUU3hURUZvOTZFc3RXb2JwY2pmZWxoRDljWmxnWVkwYUtmNjl3emlLaHJkRVlrNHBhSDhBRkkwUjlXNFJsNGFrWlA2cDZLSGF1amVURkdHcmFQdThQS0xRSVV6LU9xLUhUQXFJeGYzdGp3R0NVODhtM044enhyZ0JBQVhpdHlYSG1wYU9pVHVrcmNxaDBOTGt1V2VDelpNcE94UU1nSlduZTRpR0JYVWQ2NkU5M1hHWnpaY2NCd240NDg5Xzh4enAycFc3Wkw2UlJLNllpMEpJZw?oc=5)
 
 ---
 
