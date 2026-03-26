@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [El CNIO revela cómo las células tumorales modifican el cerebro para impulsar la metástasis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFdYOXFvc3ZGUFg0Z296WFRJeF9LMFlLb1phaWluZ0RqZGdsbndXVkEtTHVNQWFwaWxOMVE4Mk15SW5Md3ZxeDAzTExEQ2lBUjUyd2FScnUtcE9kTUpqWGVKU21kRFNpN1pFQlFlNUZOSEE2TVRyMjdsdFZmOUN2SXpNZncwaUxMTEg5ak45bjQ5QlpGVWdwX01vUWFzYjFVTHJSLUZFZExvdVFNZ1lzZ1pWbG5zRW9odVc2S2Ewa19RZ9IBxwFBVV95cUxQUTVadDlUZDhzb3pVUFlPZlp6WWhRTEt4VDlIZWc3ejJRUExlT0NwbVktdDYyT1BYWkdXdmRBcUVJWm5INHRqZzRqazVSY2NGMU81X0h3OUpUZ2NVTUpnUnNHZFpIcEVEeVRYaUpFbDc4Vlo1QzNhTVlTSkhCb0FPeFpKZ3JEQUZqUGVmN2VzZTlaM0dQU1c4U1Y1a0NHbzlxTzBXZHluWWVVa0JobzZNbjdhOGl5bFFNaVJ6dnB4SlBwem5nMEdF?oc=5)
+### [Un nuevo hallazgo contra la metástasis cerebral muestra cómo el tumor secuestra células defensivas para usarlas en su favor - Centro Nacional de Investigaciones Oncológicas](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
 
 2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
-來源：[democrata.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFdYOXFvc3ZGUFg0Z296WFRJeF9LMFlLb1phaWluZ0RqZGdsbndXVkEtTHVNQWFwaWxOMVE4Mk15SW5Md3ZxeDAzTExEQ2lBUjUyd2FScnUtcE9kTUpqWGVKU21kRFNpN1pFQlFlNUZOSEE2TVRyMjdsdFZmOUN2SXpNZncwaUxMTEg5ak45bjQ5QlpGVWdwX01vUWFzYjFVTHJSLUZFZExvdVFNZ1lzZ1pWbG5zRW9odVc2S2Ewa19RZ9IBxwFBVV95cUxQUTVadDlUZDhzb3pVUFlPZlp6WWhRTEt4VDlIZWc3ejJRUExlT0NwbVktdDYyT1BYWkdXdmRBcUVJWm5INHRqZzRqazVSY2NGMU81X0h3OUpUZ2NVTUpnUnNHZFpIcEVEeVRYaUpFbDc4Vlo1QzNhTVlTSkhCb0FPeFpKZ3JEQUZqUGVmN2VzZTlaM0dQU1c4U1Y1a0NHbzlxTzBXZHluWWVVa0JobzZNbjdhOGl5bFFNaVJ6dnB4SlBwem5nMEdF?oc=5)
+來源：[Centro Nacional de Investigaciones Oncológicas - CNIO](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVhqX1ZIQ3RiUkhvM015UEhrOXpHZlR5SkhvbDVqZ1c0NUpRS0NVdmpuTUJPUFBuS1V5WkRpclpwS1RNdE5vS2RZWHdMRUdQT1RIWnY3c2lCYkhwUU1TelJEd2x5dmZ1V0llMDNnZUp4MzNxcHFsd3VxenpKSDlRMkJUSUVJRHZMOGhTSFA3RW0wYVNDVjdkYkpPbXNvbURBVExRQm5XOWxJOWZ3Qm9nUHoxa1NreDV5c1otVkpNRzE1RGRtUzFTeVFRVnZ2NEFmZWdsTm9OTF9qVkxmMG9CR1RLSW9QcFZ5?oc=5)
 
 ---
 
@@ -58,27 +58,19 @@ permalink: /news/sarilumab/
 
 ---
 
+### [Passé 50 ans, ce symptôme discret au réveil indique que vos poumons fatiguent - Modes et travaux](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklzYldBZkpwNzRXQmo1ekJiOVQteG9nSjRoZjVWSXF3TGxxRnFOQjJEVzQ2LTNLQnlZblkyZ2tRS0hWMjJEVHdvdXJ2b1F2VHRrQ0hOalZzaVZSVXA1NXVlR0pkbEVtazNRNzluS1NLdTVuYWtka3Y2Q2ZSQ3Y3ZXBObXdCQU5DZW1ZYThjVUMyVXZ5Z3RMeGJ0UG1hSXdPTUJuUmhkZzlEWDlYNXJfdHgzMFJUak1LUDBSYUdvbVNPUHpFQXhraWs1dkJfc2pFZnRPd2dnZGVNMVl4dC0tdXo3TDgzRHhGQlp1WWRPWQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">BPCO</span>
+
+來源：[Modes et travaux](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklzYldBZkpwNzRXQmo1ekJiOVQteG9nSjRoZjVWSXF3TGxxRnFOQjJEVzQ2LTNLQnlZblkyZ2tRS0hWMjJEVHdvdXJ2b1F2VHRrQ0hOalZzaVZSVXA1NXVlR0pkbEVtazNRNzluS1NLdTVuYWtka3Y2Q2ZSQ3Y3ZXBObXdCQU5DZW1ZYThjVUMyVXZ5Z3RMeGJ0UG1hSXdPTUJuUmhkZzlEWDlYNXJfdHgzMFJUak1LUDBSYUdvbVNPUHpFQXhraWs1dkJfc2pFZnRPd2dnZGVNMVl4dC0tdXo3TDgzRHhGQlp1WWRPWQ?oc=5)
+
+---
+
 ### [Darmmikrobiom-Forschung erlebt entscheidende Wende - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
 
 2026-03-25 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
-
----
-
-### [La Rioja cierra la campaña de gripe con menos casos y alta vacunación](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTJ0N1pRZmVRbU5obG44cEozTmJrQXdZLUpFY25RVV91RThMQWswT29raUJTTmlZeHdPTm56dS0yTzlnWnctTEl3M0hSWG40S0pTakNvTTdqRkJyMzBVRTBzck1FM0Y3NWhrcGZka3RpZFhzOVVoMm05Z2lXbXBHTWJ5WXRsMDVHUHc?oc=5)
-
-2026-03-24 <span class="news-indication-tag">asma</span>
-
-來源：[NueveCuatroUno](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTJ0N1pRZmVRbU5obG44cEozTmJrQXdZLUpFY25RVV91RThMQWswT29raUJTTmlZeHdPTm56dS0yTzlnWnctTEl3M0hSWG40S0pTakNvTTdqRkJyMzBVRTBzck1FM0Y3NWhrcGZka3RpZFhzOVVoMm05Z2lXbXBHTWJ5WXRsMDVHUHc?oc=5)
-
----
-
-### [Maladie de Crohn : une signature virale dans le sang ouvre de nouvelles pistes de diagnostic - Pour la Science](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0hqcDNLOHNWLWRtcjR3YzI2d056emhxWEd1QnBFYVhKWjhxcEFDRzNoOVVvR0VWVVZMRmc4SzVRTkpkMXVBQVpIRUJSUnlLWThlSUJRQVUzUVA0MHA5aFFxNXAtX2otMnp1MFB6SkpYeXBCVFp2NENKb1NnUUxRT3B6blRQRVdlTUtUYnBlcjNCdXVfZFJQV05HVDlMYVZZeC1qRmY2aHlTeDRMMVh4VVh0bVEtbXZDOTMwaWhkNmR1ZjJxRTF2clRsUDNWMFVyY0Z6SVU4S3Y?oc=5)
-
-2026-03-24 <span class="news-indication-tag">maladie de Crohn</span>
-
-來源：[Pour la Science](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0hqcDNLOHNWLWRtcjR3YzI2d056emhxWEd1QnBFYVhKWjhxcEFDRzNoOVVvR0VWVVZMRmc4SzVRTkpkMXVBQVpIRUJSUnlLWThlSUJRQVUzUVA0MHA5aFFxNXAtX2otMnp1MFB6SkpYeXBCVFp2NENKb1NnUUxRT3B6blRQRVdlTUtUYnBlcjNCdXVfZFJQV05HVDlMYVZZeC1qRmY2aHlTeDRMMVh4VVh0bVEtbXZDOTMwaWhkNmR1ZjJxRTF2clRsUDNWMFVyY0Z6SVU4S3Y?oc=5)
 
 ---
 

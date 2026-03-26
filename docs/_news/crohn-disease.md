@@ -3,7 +3,7 @@ layout: default
 title: "Morbus Crohn（crohn disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/crohn-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/crohn-disease/
 ---
 
 <p class="key-answer" data-question="Morbus Crohn（crohn disease） 有什麼相關新聞？">
-<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/crohn-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Darmmikrobiom-Forschung erlebt entscheidende Wende - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
 
 2026-03-25
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVp4Nkk3S2ZrdzRrYndfYklMSl84eWE1ZUh4am01SmNjbXIxTFZvN0VjQjlmSC1HOC1aVndHQWMtWmdhLUVmekdQVDFIUFVJb1NydnA4eXJNcV9vcndra2haWFFFVUgyczQ2N3R6UmhEMFFFRUxjeEFfZGhRaS04Wm5reExXZVhpQ1hxU01EN0lveDItV3o0aFhtdGVDdllSNVZrU3pCSjhOQXQ4emc?oc=5)
-
----
-
-### [Maladie de Crohn : une signature virale dans le sang ouvre de nouvelles pistes de diagnostic - Pour la Science](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0hqcDNLOHNWLWRtcjR3YzI2d056emhxWEd1QnBFYVhKWjhxcEFDRzNoOVVvR0VWVVZMRmc4SzVRTkpkMXVBQVpIRUJSUnlLWThlSUJRQVUzUVA0MHA5aFFxNXAtX2otMnp1MFB6SkpYeXBCVFp2NENKb1NnUUxRT3B6blRQRVdlTUtUYnBlcjNCdXVfZFJQV05HVDlMYVZZeC1qRmY2aHlTeDRMMVh4VVh0bVEtbXZDOTMwaWhkNmR1ZjJxRTF2clRsUDNWMFVyY0Z6SVU4S3Y?oc=5)
-
-2026-03-24
-
-來源：[Pour la Science](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0hqcDNLOHNWLWRtcjR3YzI2d056emhxWEd1QnBFYVhKWjhxcEFDRzNoOVVvR0VWVVZMRmc4SzVRTkpkMXVBQVpIRUJSUnlLWThlSUJRQVUzUVA0MHA5aFFxNXAtX2otMnp1MFB6SkpYeXBCVFp2NENKb1NnUUxRT3B6blRQRVdlTUtUYnBlcjNCdXVfZFJQV05HVDlMYVZZeC1qRmY2aHlTeDRMMVh4VVh0bVEtbXZDOTMwaWhkNmR1ZjJxRTF2clRsUDNWMFVyY0Z6SVU4S3Y?oc=5)
 
 ---
 

@@ -42,11 +42,11 @@ permalink: /news/estradiol/
 
 ## 相關新聞（1 則）
 
-### [HRT patches can tackle prostate cancer too - The Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDVCbkQwMUVPQ3FSVnpZOVVWdjZ3MEo1d2FEd3hiajR4V1M3OEFkajV5ZkRBUlF0SXBETkREcXlsZmRBaW9rb2pyY3o1LV96NktrMHVMam1pejI4S0pCSVFjT0tfX2wyQlAtbXJRTzZIRktETmlsN3E4d1V3N210WWN2QndlMzdQaFJ1Rk9xR2hQSE9YSmh1UWp3?oc=5)
+### [HRT patches can help treat prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0NPTlFwdks1WDdPdWEtNzZjZUw3ZlNtNG05UHE4ZnFGRllCNDVVX0FWcHoxNTE5OXJwcWhTNU8tMlp6dGtVQlRxaVBiMFlaN3g2REpBb0F6dWNpZkU1RzFRY3oyVVhVUmgxejRRV3FmUmhNcTNEQ195eTlWUk92SFVoSlhJY2JPeFpiQjFYajJSQmxYa1N1TUd5M2N0amJuVUEzSGdR?oc=5)
 
 2026-03-25 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">cancer</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDVCbkQwMUVPQ3FSVnpZOVVWdjZ3MEo1d2FEd3hiajR4V1M3OEFkajV5ZkRBUlF0SXBETkREcXlsZmRBaW9rb2pyY3o1LV96NktrMHVMam1pejI4S0pCSVFjT0tfX2wyQlAtbXJRTzZIRktETmlsN3E4d1V3N210WWN2QndlMzdQaFJ1Rk9xR2hQSE9YSmh1UWp3?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0NPTlFwdks1WDdPdWEtNzZjZUw3ZlNtNG05UHE4ZnFGRllCNDVVX0FWcHoxNTE5OXJwcWhTNU8tMlp6dGtVQlRxaVBiMFlaN3g2REpBb0F6dWNpZkU1RzFRY3oyVVhVUmgxejRRV3FmUmhNcTNEQ195eTlWUk92SFVoSlhJY2JPeFpiQjFYajJSQmxYa1N1TUd5M2N0amJuVUEzSGdR?oc=5)
 
 ---
 
