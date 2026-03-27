@@ -14,7 +14,7 @@ permalink: /news/lurasidone/
 ---
 
 <p class="key-answer" data-question="Lurasidone 有什麼相關新聞？">
-<strong>Lurasidone</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lurasidone</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/lurasidone/
 <p><a href="{{ '/drugs/lurasidone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（25 則）
 
 ### [Demenzprävention setzt neue Maßstäbe mit Millionen-Förderung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNldld19XQjJLZnFLSXktNHVaY005QVZKcjhHNER0bVNfNjRtWDFob01ILWx6NDFBLVlKU2M3OEF1VVZaRUFFSzVDeDFsb0dhbHk3ZTVWVk5BSmZfdjc3aG4zaS0yN0l3SUxsOWY3X0ctaWR3SGxyMVc3Sk9vd0RWUWI0VHNES3ZIekJFaTZzbjJzZTI5S2I3MEU3amxXZjRVQV80ZjVUNHJfYXhUTGVtVlc5VF9ZSldBSXF3WUpWeXk?oc=5)
 
@@ -52,19 +52,19 @@ permalink: /news/lurasidone/
 
 ---
 
-### ['My son will never be the same again after sexual abuse by a friend'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0VURPY0diUVdzcTZwX1hSOVUxUm9YdEpvOWZVZWUzTXo0RnFrNEk4Rk1TaE5RbVdRMFFTZjcxY1FtdW1tVl8zQzFHaEZ3LVZZdGJ3czJfRjk4ZUFE?oc=5)
-
-2026-03-27 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0VURPY0diUVdzcTZwX1hSOVUxUm9YdEpvOWZVZWUzTXo0RnFrNEk4Rk1TaE5RbVdRMFFTZjcxY1FtdW1tVl8zQzFHaEZ3LVZZdGJ3czJfRjk4ZUFE?oc=5)
-
----
-
 ### [Kingston Park lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
 
 2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
+
+---
+
+### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
 ---
 
@@ -148,11 +148,27 @@ permalink: /news/lurasidone/
 
 ---
 
+### [After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+2026-03-25 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+---
+
 ### [Brit mum, 33, fighting for life with meningitis after falling ill in Spain - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2NFLVRialhiZ2RxZDNySHZudFJBQlVXRk1vRVU1T2Q2WjhRcTFoM2tHeUVYdUtBeUlwT3JvZFJYREcycUliRlB0cTBULXRKdnV0X2kyTkRsUVZUeUd0MDhDR2psVmJCQXlodGJLNUdqbTd6eUMzMGliRXBBNjRlY1FZY2JNYnFTamY1YWZiakVtQmNGdDUw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2NFLVRialhiZ2RxZDNySHZudFJBQlVXRk1vRVU1T2Q2WjhRcTFoM2tHeUVYdUtBeUlwT3JvZFJYREcycUliRlB0cTBULXRKdnV0X2kyTkRsUVZUeUd0MDhDR2psVmJCQXlodGJLNUdqbTd6eUMzMGliRXBBNjRlY1FZY2JNYnFTamY1YWZiakVtQmNGdDUw?oc=5)
+
+---
+
+### [Des scientifiques ont suivi des consommateurs de bière, de vin et de spiritueux — l'un d'entre eux s'en est beaucoup mieux sorti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFFFVnh3ZjZaVW9ROUx2bXBPSnRmTS1kTFc4cXFtVXo0aU1vc2hMYXFXZWp6NTBLV1RDN3FsWUw3T0U4MVlpY2tZNEIyWjhUaFYtWVd2NHdjZG9TczNxRktUOWFCTi03NzUwTzFjNEhBQW9hSmxiQ04waHdENlRHNXFGUEZyMHVNOW9hbTcxYmcwVnpjY3pCQVNzREhyUWtfWWZBVDUzLVc4c2NuaTZPdXR3dldERTViT3hwd0xrZUNwZmZic2tjSWpmOE43MnVZc0Y0dXR3ejFSRmtWVm9B?oc=5)
+
+2026-03-25 <span class="news-indication-tag">AF</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFFFVnh3ZjZaVW9ROUx2bXBPSnRmTS1kTFc4cXFtVXo0aU1vc2hMYXFXZWp6NTBLV1RDN3FsWUw3T0U4MVlpY2tZNEIyWjhUaFYtWVd2NHdjZG9TczNxRktUOWFCTi03NzUwTzFjNEhBQW9hSmxiQ04waHdENlRHNXFGUEZyMHVNOW9hbTcxYmcwVnpjY3pCQVNzREhyUWtfWWZBVDUzLVc4c2NuaTZPdXR3dldERTViT3hwd0xrZUNwZmZic2tjSWpmOE43MnVZc0Y0dXR3ejFSRmtWVm9B?oc=5)
 
 ---
 
@@ -174,7 +190,7 @@ permalink: /news/lurasidone/
 
 ### ['I was left doubly incontinent by a condition that affects 1 million UK women'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
-2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">AF</span>
 
 來源：[metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
@@ -182,7 +198,7 @@ permalink: /news/lurasidone/
 
 ### [Five Habits A GP Says Separates People Who Age Well From Those Who Don't - HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 
-2026-03-25 <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 
@@ -209,14 +225,6 @@ permalink: /news/lurasidone/
 2026-03-25 <span class="news-indication-tag">AF</span>
 
 來源：[Le HuffPost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXFKWmk4VWZCSmRNSElJWVlDcXhDWEQ3TjlSNnBiczhsMGRJN091TkpaTFdwUkpRQVFQMFlPYzNyOW5QWlJDaTdGUlQ3YXpEbGdWUFUwRW9KRzhHT3dfUXU4TVU1MFRVWVViREtIeGpxYjFjR0QtdTUyS0ppcHFjVEpMSHlrTVVwQ0NKckxfWE9JM2lJbkF0azVySTJyNjlOal9kMTc1anBsVEJVQWxXNWhuLW0xX3gtMWVIS2JnVGx1U1hpR181V2hvVGg3MlIwMGlUNkxkbjlwZUE?oc=5)
-
----
-
-### [Fertilité : pour avoir plus de chance d'avoir un enfant, une étude scientifique contredit ce que l'on croyait sur la fréquence de l'éjaculation](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2FTRnQ5YkVNbXREeHlSUU1SdmZNa2ZUb1RhWGpEbi1XbEw0Tng3VV9jSkNBcDBDWmMwZXFiVWdYbk5veTd0bWtDSkVadTUtd1FSUEJOa2lkSnowdmVJa1ZqdXE2ZWYxVEpzWnBTWWpfVjhnaVVTdmN2QVM3WUhnV2pnTzZKT3piZjNVb2NEVUJVbjVfVUZNY0FwZUxoY3lwdG5pRFh5Wnpvd1FSa2NEdXliRVpQUdIBuwFBVV95cUxPLVFLZ29nS0ZTc1FkYmZTSmtHcFA5Z3kta19RYk9NV1lHRzlHREF3QnlNMFNJeVExdkw5bVI3dEFIc2ZCVk1qMG5MX2plaHFLclM2U0hpeGVfUVZWdmYtdEJ3REZ0VGI1QmpqQk9tWVF6d2lZMnNWZ25YZTJQN254QmJsbzlUTVd6cm9iM3BzbTJoc2Y4QTVvUkpsbkplbDFXVnQ4UGRWa3Z2blpYQ3k4cVBNZW56X3IzUk1n?oc=5)
-
-2026-03-25 <span class="news-indication-tag">MS</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2FTRnQ5YkVNbXREeHlSUU1SdmZNa2ZUb1RhWGpEbi1XbEw0Tng3VV9jSkNBcDBDWmMwZXFiVWdYbk5veTd0bWtDSkVadTUtd1FSUEJOa2lkSnowdmVJa1ZqdXE2ZWYxVEpzWnBTWWpfVjhnaVVTdmN2QVM3WUhnV2pnTzZKT3piZjNVb2NEVUJVbjVfVUZNY0FwZUxoY3lwdG5pRFh5Wnpvd1FSa2NEdXliRVpQUdIBuwFBVV95cUxPLVFLZ29nS0ZTc1FkYmZTSmtHcFA5Z3kta19RYk9NV1lHRzlHREF3QnlNMFNJeVExdkw5bVI3dEFIc2ZCVk1qMG5MX2plaHFLclM2U0hpeGVfUVZWdmYtdEJ3REZ0VGI1QmpqQk9tWVF6d2lZMnNWZ25YZTJQN254QmJsbzlUTVd6cm9iM3BzbTJoc2Y4QTVvUkpsbkplbDFXVnQ4UGRWa3Z2blpYQ3k4cVBNZW56X3IzUk1n?oc=5)
 
 ---
 

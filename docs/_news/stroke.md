@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Infarto, la regola degli "11 minuti": come far precipitare il rischio](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
 2026-03-26
 
-來源：[liberoquotidiano.it](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
-
----
-
-### [Rotlicht-Therapie nach einem Schlaganfall - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzE5YWpuUWYwWTI4aWx1WUYyeTlVVllmR2Z3YmtLbVFDTDVPR0VBMDZFRjh6UkxwdnEwZXdwd0hFSm85Y1VqYVBIbDdIVVRTZHdScUxvQ3ZhOHdTQ3NMaDFMSnFINmtsZmtaVk5zdUJCTm1BbUV1Nl90Y0dGcUhabDVfcEt3dEdfREl3MWNZSVVoSTMyOHBpRlY5TDRldkdvNEpKVVdxN2c2T2ZQVkJQNjJKaWl0YnRyeVVGQ19Send3aHRNN2tZ?oc=5)
-
-2026-03-25
-
-來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzE5YWpuUWYwWTI4aWx1WUYyeTlVVllmR2Z3YmtLbVFDTDVPR0VBMDZFRjh6UkxwdnEwZXdwd0hFSm85Y1VqYVBIbDdIVVRTZHdScUxvQ3ZhOHdTQ3NMaDFMSnFINmtsZmtaVk5zdUJCTm1BbUV1Nl90Y0dGcUhabDVfcEt3dEdfREl3MWNZSVVoSTMyOHBpRlY5TDRldkdvNEpKVVdxN2c2T2ZQVkJQNjJKaWl0YnRyeVVGQ19Send3aHRNN2tZ?oc=5)
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
 ---
 

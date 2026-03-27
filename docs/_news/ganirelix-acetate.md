@@ -14,7 +14,7 @@ permalink: /news/ganirelix-acetate/
 ---
 
 <p class="key-answer" data-question="Ganirelix Acetate 有什麼相關新聞？">
-<strong>Ganirelix Acetate</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ganirelix Acetate</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/ganirelix-acetate/
 <p><a href="{{ '/drugs/ganirelix-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（16 則）
 
 ### [Demenzprävention setzt neue Maßstäbe mit Millionen-Förderung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNldld19XQjJLZnFLSXktNHVaY005QVZKcjhHNER0bVNfNjRtWDFob01ILWx6NDFBLVlKU2M3OEF1VVZaRUFFSzVDeDFsb0dhbHk3ZTVWVk5BSmZfdjc3aG4zaS0yN0l3SUxsOWY3X0ctaWR3SGxyMVc3Sk9vd0RWUWI0VHNES3ZIekJFaTZzbjJzZTI5S2I3MEU3amxXZjRVQV80ZjVUNHJfYXhUTGVtVlc5VF9ZSldBSXF3WUpWeXk?oc=5)
 
 2026-03-27 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNldld19XQjJLZnFLSXktNHVaY005QVZKcjhHNER0bVNfNjRtWDFob01ILWx6NDFBLVlKU2M3OEF1VVZaRUFFSzVDeDFsb0dhbHk3ZTVWVk5BSmZfdjc3aG4zaS0yN0l3SUxsOWY3X0ctaWR3SGxyMVc3Sk9vd0RWUWI0VHNES3ZIekJFaTZzbjJzZTI5S2I3MEU3amxXZjRVQV80ZjVUNHJfYXhUTGVtVlc5VF9ZSldBSXF3WUpWeXk?oc=5)
-
----
-
-### ['My son will never be the same again after sexual abuse by a friend'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0VURPY0diUVdzcTZwX1hSOVUxUm9YdEpvOWZVZWUzTXo0RnFrNEk4Rk1TaE5RbVdRMFFTZjcxY1FtdW1tVl8zQzFHaEZ3LVZZdGJ3czJfRjk4ZUFE?oc=5)
-
-2026-03-27 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0VURPY0diUVdzcTZwX1hSOVUxUm9YdEpvOWZVZWUzTXo0RnFrNEk4Rk1TaE5RbVdRMFFTZjcxY1FtdW1tVl8zQzFHaEZ3LVZZdGJ3czJfRjk4ZUFE?oc=5)
 
 ---
 
@@ -124,6 +116,14 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
+### [After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+2026-03-25 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+---
+
 ### [Brit mum, 33, fighting for life with meningitis after falling ill in Spain - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2NFLVRialhiZ2RxZDNySHZudFJBQlVXRk1vRVU1T2Q2WjhRcTFoM2tHeUVYdUtBeUlwT3JvZFJYREcycUliRlB0cTBULXRKdnV0X2kyTkRsUVZUeUd0MDhDR2psVmJCQXlodGJLNUdqbTd6eUMzMGliRXBBNjRlY1FZY2JNYnFTamY1YWZiakVtQmNGdDUw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">AF</span>
@@ -132,9 +132,17 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
+### [Des scientifiques ont suivi des consommateurs de bière, de vin et de spiritueux — l'un d'entre eux s'en est beaucoup mieux sorti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFFFVnh3ZjZaVW9ROUx2bXBPSnRmTS1kTFc4cXFtVXo0aU1vc2hMYXFXZWp6NTBLV1RDN3FsWUw3T0U4MVlpY2tZNEIyWjhUaFYtWVd2NHdjZG9TczNxRktUOWFCTi03NzUwTzFjNEhBQW9hSmxiQ04waHdENlRHNXFGUEZyMHVNOW9hbTcxYmcwVnpjY3pCQVNzREhyUWtfWWZBVDUzLVc4c2NuaTZPdXR3dldERTViT3hwd0xrZUNwZmZic2tjSWpmOE43MnVZc0Y0dXR3ejFSRmtWVm9B?oc=5)
+
+2026-03-25 <span class="news-indication-tag">AF</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFFFVnh3ZjZaVW9ROUx2bXBPSnRmTS1kTFc4cXFtVXo0aU1vc2hMYXFXZWp6NTBLV1RDN3FsWUw3T0U4MVlpY2tZNEIyWjhUaFYtWVd2NHdjZG9TczNxRktUOWFCTi03NzUwTzFjNEhBQW9hSmxiQ04waHdENlRHNXFGUEZyMHVNOW9hbTcxYmcwVnpjY3pCQVNzREhyUWtfWWZBVDUzLVc4c2NuaTZPdXR3dldERTViT3hwd0xrZUNwZmZic2tjSWpmOE43MnVZc0Y0dXR3ejFSRmtWVm9B?oc=5)
+
+---
+
 ### ['I was left doubly incontinent by a condition that affects 1 million UK women'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
-2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">AF</span>
 
 來源：[metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
@@ -142,7 +150,7 @@ permalink: /news/ganirelix-acetate/
 
 ### [Five Habits A GP Says Separates People Who Age Well From Those Who Don't - HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 
-2026-03-25 <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 

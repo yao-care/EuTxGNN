@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（23 則）
 
 ### [Demenzprävention setzt neue Maßstäbe mit Millionen-Förderung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNldld19XQjJLZnFLSXktNHVaY005QVZKcjhHNER0bVNfNjRtWDFob01ILWx6NDFBLVlKU2M3OEF1VVZaRUFFSzVDeDFsb0dhbHk3ZTVWVk5BSmZfdjc3aG4zaS0yN0l3SUxsOWY3X0ctaWR3SGxyMVc3Sk9vd0RWUWI0VHNES3ZIekJFaTZzbjJzZTI5S2I3MEU3amxXZjRVQV80ZjVUNHJfYXhUTGVtVlc5VF9ZSldBSXF3WUpWeXk?oc=5)
 
 2026-03-27 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNldld19XQjJLZnFLSXktNHVaY005QVZKcjhHNER0bVNfNjRtWDFob01ILWx6NDFBLVlKU2M3OEF1VVZaRUFFSzVDeDFsb0dhbHk3ZTVWVk5BSmZfdjc3aG4zaS0yN0l3SUxsOWY3X0ctaWR3SGxyMVc3Sk9vd0RWUWI0VHNES3ZIekJFaTZzbjJzZTI5S2I3MEU3amxXZjRVQV80ZjVUNHJfYXhUTGVtVlc5VF9ZSldBSXF3WUpWeXk?oc=5)
-
----
-
-### ['My son will never be the same again after sexual abuse by a friend'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0VURPY0diUVdzcTZwX1hSOVUxUm9YdEpvOWZVZWUzTXo0RnFrNEk4Rk1TaE5RbVdRMFFTZjcxY1FtdW1tVl8zQzFHaEZ3LVZZdGJ3czJfRjk4ZUFE?oc=5)
-
-2026-03-27 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0VURPY0diUVdzcTZwX1hSOVUxUm9YdEpvOWZVZWUzTXo0RnFrNEk4Rk1TaE5RbVdRMFFTZjcxY1FtdW1tVl8zQzFHaEZ3LVZZdGJ3czJfRjk4ZUFE?oc=5)
 
 ---
 
@@ -68,6 +60,14 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [Farmaci anti-obesità: efficaci, ma non alla portata di tutti. Ma presto potrebbe cambiare - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">obesità</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
+
+---
+
 ### [Kingston Park lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
 
 2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -76,11 +76,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Infarto, la regola degli "11 minuti": come far precipitare il rischio](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
-2026-03-26 <span class="news-indication-tag">ictus</span>
+2026-03-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
 
-來源：[liberoquotidiano.it](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
 ---
 
@@ -156,6 +156,14 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+2026-03-25 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+---
+
 ### [Brit mum, 33, fighting for life with meningitis after falling ill in Spain - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2NFLVRialhiZ2RxZDNySHZudFJBQlVXRk1vRVU1T2Q2WjhRcTFoM2tHeUVYdUtBeUlwT3JvZFJYREcycUliRlB0cTBULXRKdnV0X2kyTkRsUVZUeUd0MDhDR2psVmJCQXlodGJLNUdqbTd6eUMzMGliRXBBNjRlY1FZY2JNYnFTamY1YWZiakVtQmNGdDUw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">AF</span>
@@ -164,17 +172,33 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [Des scientifiques ont suivi des consommateurs de bière, de vin et de spiritueux — l'un d'entre eux s'en est beaucoup mieux sorti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFFFVnh3ZjZaVW9ROUx2bXBPSnRmTS1kTFc4cXFtVXo0aU1vc2hMYXFXZWp6NTBLV1RDN3FsWUw3T0U4MVlpY2tZNEIyWjhUaFYtWVd2NHdjZG9TczNxRktUOWFCTi03NzUwTzFjNEhBQW9hSmxiQ04waHdENlRHNXFGUEZyMHVNOW9hbTcxYmcwVnpjY3pCQVNzREhyUWtfWWZBVDUzLVc4c2NuaTZPdXR3dldERTViT3hwd0xrZUNwZmZic2tjSWpmOE43MnVZc0Y0dXR3ejFSRmtWVm9B?oc=5)
+
+2026-03-25 <span class="news-indication-tag">AF</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFFFVnh3ZjZaVW9ROUx2bXBPSnRmTS1kTFc4cXFtVXo0aU1vc2hMYXFXZWp6NTBLV1RDN3FsWUw3T0U4MVlpY2tZNEIyWjhUaFYtWVd2NHdjZG9TczNxRktUOWFCTi03NzUwTzFjNEhBQW9hSmxiQ04waHdENlRHNXFGUEZyMHVNOW9hbTcxYmcwVnpjY3pCQVNzREhyUWtfWWZBVDUzLVc4c2NuaTZPdXR3dldERTViT3hwd0xrZUNwZmZic2tjSWpmOE43MnVZc0Y0dXR3ejFSRmtWVm9B?oc=5)
+
+---
+
 ### ['I was left doubly incontinent by a condition that affects 1 million UK women'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
-2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">AF</span>
 
 來源：[metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
 ---
 
+### [Menos estrés parental, menos obesidad infantil](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlqX2lEUmRDNlVTN3BzdUdfeFZnTGdKeVAtRkppTXEtZnhCMGRNTHJlT1hqUmxSYmFlM3JIRDZucHZUZlMyNl9QYnNGOUs4WGxxRThERGswY0NFQklWZlJjSWZHYVhRSU5nOGJiN0JOOVFoWTZJNnA1akI1NlhNX3E5cGFOcktxendrcVhXMmRhbU9l?oc=5)
+
+2026-03-25 <span class="news-indication-tag">obesidad</span>
+
+來源：[consumer.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlqX2lEUmRDNlVTN3BzdUdfeFZnTGdKeVAtRkppTXEtZnhCMGRNTHJlT1hqUmxSYmFlM3JIRDZucHZUZlMyNl9QYnNGOUs4WGxxRThERGswY0NFQklWZlJjSWZHYVhRSU5nOGJiN0JOOVFoWTZJNnA1akI1NlhNX3E5cGFOcktxendrcVhXMmRhbU9l?oc=5)
+
+---
+
 ### [Five Habits A GP Says Separates People Who Age Well From Those Who Don't - HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 
-2026-03-25 <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 
@@ -201,14 +225,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-03-25 <span class="news-indication-tag">obésité</span>
 
 來源：[Le Parisien](https://news.google.com/rss/articles/CBMinwJBVV95cUxOUW1CckY2MVNWR2RMSG9Cb0tiV2lSTVpKeXNBQjczUHNCQWFDQVNpRk1rZE5iWGlOSnJfY3pLanRVMjZibGFRSnl1VEVqclpGTVEyd09RWWEzMm9YVkxCLThBNFR2bUQ4cDlOOTFYUWdSWG9WamhKZ2xVSnIyRVRlUGw3ekh4TEV5Um5jaU5DaFJETmtlN1lLU0R3cUQ4eThKMlQySk5ObE1wX0cxTGxOUk8ta2pRajRuaXpsZzNnT3RkWUNKTUFuQ1hkd1Q0eks0OV9mdlpmb3oyRTlfb2dNcTlUZXhVYm1lcVlwSjR0emxwUjJjV2NRaTZzR2hNSWtEdnV3eWpnVHNJSGhGZi1jLWliY1RQaEhObmhJb1ROcw?oc=5)
-
----
-
-### [Rotlicht-Therapie nach einem Schlaganfall - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzE5YWpuUWYwWTI4aWx1WUYyeTlVVllmR2Z3YmtLbVFDTDVPR0VBMDZFRjh6UkxwdnEwZXdwd0hFSm85Y1VqYVBIbDdIVVRTZHdScUxvQ3ZhOHdTQ3NMaDFMSnFINmtsZmtaVk5zdUJCTm1BbUV1Nl90Y0dGcUhabDVfcEt3dEdfREl3MWNZSVVoSTMyOHBpRlY5TDRldkdvNEpKVVdxN2c2T2ZQVkJQNjJKaWl0YnRyeVVGQ19Send3aHRNN2tZ?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzE5YWpuUWYwWTI4aWx1WUYyeTlVVllmR2Z3YmtLbVFDTDVPR0VBMDZFRjh6UkxwdnEwZXdwd0hFSm85Y1VqYVBIbDdIVVRTZHdScUxvQ3ZhOHdTQ3NMaDFMSnFINmtsZmtaVk5zdUJCTm1BbUV1Nl90Y0dGcUhabDVfcEt3dEdfREl3MWNZSVVoSTMyOHBpRlY5TDRldkdvNEpKVVdxN2c2T2ZQVkJQNjJKaWl0YnRyeVVGQ19Send3aHRNN2tZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vedolizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [Umfrage: Große Wissenslücke zu Herzrisiken – dabei können moderne Diabetes-Therapien gleich dreifach wirken - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYVJQWVBzenJqZF9Keld2V2MtLXM2SWpQS0tvY2dSU3dDbXFQQVBlNkkwMEtJQkZHZExFNmVBejRNa2t2dkpYLTJSenJuR2tFbUZyRW9QV3huTUhnX2h5Rk8tTUtzaEY3WnU2VnFTeUY4V3pvSXBtY0xEanlwZ0tnOHJaQXJ5eklBcDM3c1lrVG9va1JFaEhFMHlCSjZQblhOdWVsZ2FtUlBvbURYQzYtZEVJNWVYLXNJSHloamxhb1N3QzhQdkx0bzBfbkd0NklTXzRzYzBKV0VQTVlCLUkzZ2hIUTVrektJWElUZERB?oc=5)
 
@@ -56,7 +56,7 @@ permalink: /news/vedolizumab/
 
 2026-03-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[news.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFSWWlaWVVWazRtQ2paczZJNHFLaUR4TmpwQVhvdFJNNk4yYjZMWnNYcXpHOW5pdGZnX29jbzFEZlV1dzE3aFFPVlBUdzBlbjh6SUhZQ2ZDNkFRdEdXQTVCbm94SlZ1QTdLUlJGTWtySngxME5acDRUMzhoVjFJaEU1elNHa0oxMnY1NnJTbVc2aEdhZHlKOVlzRS1ZNUp5VHY5aEY1ZU9tRVREOUhyQVh3aUhNQjRzdWptelZYRUJEYWxHOWlJRmMzZTFkQ1o2TmszSzJUQ3FzNGM0cTYxaGU1RzdPQzNncHpzd29XbGJMQUXSAfgBQVVfeXFMUHRFLUNIUUF4ZjhlQjlESDBCcU1VYVdNWEVrRXhUemUycGRzUWlEWldZY1lpb1JIenEtdjVQUFRMd05VT3lPS3dINC0tY01oUElzalkxQWg4RDJZN0FfbGxHSk92LTg2bFlkQjhjbVJkQVprMnc3dUlHY083Tmx0VUJRY2FLeklNdVp6WXpSYzNnYnRfX3hibkw1WGV2dEo0NWgtYXRVekcyZ3FSTzhSN1E2V2s5d1U2N1pieTNLQzUtN3hVQ2hVb2lxcVJHTm9pUU45WTlnNkpKWlBxRXAwNXRoSjVuSkpvcDBEVnJNY1VRYWZCcDVPdWY?oc=5)
+來源：[News.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFSWWlaWVVWazRtQ2paczZJNHFLaUR4TmpwQVhvdFJNNk4yYjZMWnNYcXpHOW5pdGZnX29jbzFEZlV1dzE3aFFPVlBUdzBlbjh6SUhZQ2ZDNkFRdEdXQTVCbm94SlZ1QTdLUlJGTWtySngxME5acDRUMzhoVjFJaEU1elNHa0oxMnY1NnJTbVc2aEdhZHlKOVlzRS1ZNUp5VHY5aEY1ZU9tRVREOUhyQVh3aUhNQjRzdWptelZYRUJEYWxHOWlJRmMzZTFkQ1o2TmszSzJUQ3FzNGM0cTYxaGU1RzdPQzNncHpzd29XbGJMQUXSAfgBQVVfeXFMUHRFLUNIUUF4ZjhlQjlESDBCcU1VYVdNWEVrRXhUemUycGRzUWlEWldZY1lpb1JIenEtdjVQUFRMd05VT3lPS3dINC0tY01oUElzalkxQWg4RDJZN0FfbGxHSk92LTg2bFlkQjhjbVJkQVprMnc3dUlHY083Tmx0VUJRY2FLeklNdVp6WXpSYzNnYnRfX3hibkw1WGV2dEo0NWgtYXRVekcyZ3FSTzhSN1E2V2s5d1U2N1pieTNLQzUtN3hVQ2hVb2lxcVJHTm9pUU45WTlnNkpKWlBxRXAwNXRoSjVuSkpvcDBEVnJNY1VRYWZCcDVPdWY?oc=5)
 
 ---
 
@@ -65,6 +65,14 @@ permalink: /news/vedolizumab/
 2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
+
+---
+
+### [After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+2026-03-25 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
 
 ---
 

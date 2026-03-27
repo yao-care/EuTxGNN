@@ -14,7 +14,7 @@ permalink: /news/baloxavir-marboxil/
 ---
 
 <p class="key-answer" data-question="Baloxavir Marboxil 有什麼相關新聞？">
-<strong>Baloxavir Marboxil</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Baloxavir Marboxil</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/baloxavir-marboxil/
 <p><a href="{{ '/drugs/baloxavir-marboxil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
+
+### [Una vacuna personalizada contra el cáncer diseñada con IA reduce los tumores de una perra: por qué el caso exige cautela](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZnk5LWR4d2pwcXNVV3h6czUwZHRuR1h6a2E0U3ZIbHlCVl9FdTl0QXZjcWNQYllTaTZvOEVpdTlCdlhvbDJwblVhR0NReHZwVE1hcGhuZTR5YzdPZW5CSUJfejNvaEFkbmpsYzdUM3lMU1hhT25WMW8zZVEtUEF3THlqMEQ5OXdUVkZKZkp0WkJjb2p3dGE4SkdMc3FhVFhXN2FYdWtObWVMcXRVMjROUU53cEM3MFN6N2dUNDBsdVQxSVZIUVdDbVNXRDdsS2NNZk1iZEZqZWw5YlFCZFF6SE9LRklYRDF5cVVRd3VLa2RDMlHSAfgBQVVfeXFMT3piaDd6R192djVYSHdCQ1BKSUxVZnRsYVlEdkdoQ1NUNGR6Qi1tX2ZXOXlSQ2sxZWZFaWZteDByYzlpQ0hZOXRQS29TYWN3TlBsVjZOaUdabEhmOS1JajJqMHhCUWMyd2ktQlo2YW1QZXF1UHNZR1UzRHhpSzF0cGxxcEJhTDVmamZVN1k2WnI4U3M5dUZDUDBiSDJxbU54TlU1Ui1zMVRBc2NTU3ZHSGIzX05RNi1jbjVuR2NjY2g3eWhJWlpDWXZnRUtlaW9wQjgtU0xpTWg1djNvc1loZDFhX1NLMVUyc2ViZXZKV0d3ZmJQbG1uVGY?oc=5)
+
+2026-03-27 <span class="news-indication-tag">tumor</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZnk5LWR4d2pwcXNVV3h6czUwZHRuR1h6a2E0U3ZIbHlCVl9FdTl0QXZjcWNQYllTaTZvOEVpdTlCdlhvbDJwblVhR0NReHZwVE1hcGhuZTR5YzdPZW5CSUJfejNvaEFkbmpsYzdUM3lMU1hhT25WMW8zZVEtUEF3THlqMEQ5OXdUVkZKZkp0WkJjb2p3dGE4SkdMc3FhVFhXN2FYdWtObWVMcXRVMjROUU53cEM3MFN6N2dUNDBsdVQxSVZIUVdDbVNXRDdsS2NNZk1iZEZqZWw5YlFCZFF6SE9LRklYRDF5cVVRd3VLa2RDMlHSAfgBQVVfeXFMT3piaDd6R192djVYSHdCQ1BKSUxVZnRsYVlEdkdoQ1NUNGR6Qi1tX2ZXOXlSQ2sxZWZFaWZteDByYzlpQ0hZOXRQS29TYWN3TlBsVjZOaUdabEhmOS1JajJqMHhCUWMyd2ktQlo2YW1QZXF1UHNZR1UzRHhpSzF0cGxxcEJhTDVmamZVN1k2WnI4U3M5dUZDUDBiSDJxbU54TlU1Ui1zMVRBc2NTU3ZHSGIzX05RNi1jbjVuR2NjY2g3eWhJWlpDWXZnRUtlaW9wQjgtU0xpTWg1djNvc1loZDFhX1NLMVUyc2ViZXZKV0d3ZmJQbG1uVGY?oc=5)
+
+---
+
+### [Großer Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVTVHUjZxY2M0Y2hJYTQ3akUwTEp0Ql9VcW9iUnpCT2FEeFJOVWtIZzN6UnE5UE1QTG1pajg0MTJUaGFtaE5xajRVS2tmcW5uWmo5ZlNQVElVdGVzYUhMTHNWQVZBb1R6ajBGRGpoZEczVHZnRWhUSENqOFg5ejdkd0RRQlJpNGhOcjR6UGVFSmQ4SXJjY05sTzdua2hLQXRrdG1Jalprb041SndIOHhqcTdWaWdXSXZJd1hCWXBuUmlEOFk?oc=5)
+
+2026-03-27 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVTVHUjZxY2M0Y2hJYTQ3akUwTEp0Ql9VcW9iUnpCT2FEeFJOVWtIZzN6UnE5UE1QTG1pajg0MTJUaGFtaE5xajRVS2tmcW5uWmo5ZlNQVElVdGVzYUhMTHNWQVZBb1R6ajBGRGpoZEczVHZnRWhUSENqOFg5ejdkd0RRQlJpNGhOcjR6UGVFSmQ4SXJjY05sTzdua2hLQXRrdG1Jalprb041SndIOHhqcTdWaWdXSXZJd1hCWXBuUmlEOFk?oc=5)
+
+---
 
 ### [El cáncer colorrectal será el tumor más diagnosticado en España en 2026](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDYwbFluOVJwbnluMEl0NHJRamxRWU9VVFpfbVhvQ1g5WmlOeEVCa0hWeFlCVUp3RVQwZGRtTkRCdC1VOFdxamZneUJGek1la1VfWFppZ2k4SXlqN3pJc0RZVjAtUEhkbTM0ZkoyemhudEhqZWtLWDNpZjdGV2xnTFpR?oc=5)
 
@@ -68,22 +84,6 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [Hepatitis-Fälle erschüttern italienische Urlaubsregionen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxTLXg0TXJkMW5wY0t5QUJfN0hSUXpPazVWblAwelJjekc0VkpuYTBUazFhdjNvYkdZaVJtNkFmRFc5LUp0WDV4Mktmem84ZXVwa3dUR0ZJMFhwTlNjbXJaQlFCbzRUcjdIOERhaTZfaGFEVy1ITVVncE9QRi05MmlZcUdBOThZdTlyUjZpcnBsSGd6cl9EbGVyTTFQSzAtNm1STjZxLW1WZw?oc=5)
-
-2026-03-26 <span class="news-indication-tag">hepatitis</span>
-
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxTLXg0TXJkMW5wY0t5QUJfN0hSUXpPazVWblAwelJjekc0VkpuYTBUazFhdjNvYkdZaVJtNkFmRFc5LUp0WDV4Mktmem84ZXVwa3dUR0ZJMFhwTlNjbXJaQlFCbzRUcjdIOERhaTZfaGFEVy1ITVVncE9QRi05MmlZcUdBOThZdTlyUjZpcnBsSGd6cl9EbGVyTTFQSzAtNm1STjZxLW1WZw?oc=5)
-
----
-
-### [El virus del papiloma, detrás de casi todos los cánceres de cuello de útero - Cadena SER](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVprU21aRW9tQzBVNjlYbzJCZWNFLWp2eWw2MW5GVUhiX3BuLW1jMDRDWUlndzd1ZVA0cjhIYkdBS21BVjduMUFPWDVCWVNwSGJ3RV83dkVmLXhrcC1fZFVfZkJndFhOLWpUN1lGSnBicko3NkFfMk43ZFFPdEpQSVZEdHYyM0pycW84TXpiTzk2enMzWjFSSVgyWlFTcHNNNkhIY0tCZW9nT2xWamlFUUlFTUxPVzEzVlpwazUwT2tDZU5nQ0RuadIB3AFBVV95cUxOQm5qaVBqbVhYa1JvNnpFalZ1YTYwT3k3WmMtczAzRXVrSG9idm9FVWc0MGdhLUlTVkVqbm5CWUxEd011NHpOdERDbmNpbFlrUHVLTXlMbVFERWdQTDQxYVduY1Q5bzR0dnR6OC1vRVo2ODZrZGlTdW5USW9HN09raUp5aU01X0tTTkppbXo0RjJfVEdwVVNrX2ZnOUE5UFo4MnZjYU9SaHVUWm80anlvTm9KcVlJY0U5NTJVb0doRUtfZVJYT1dpelFfRTZjcFcxalZveUd4YlFDSEti?oc=5)
-
-2026-03-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVprU21aRW9tQzBVNjlYbzJCZWNFLWp2eWw2MW5GVUhiX3BuLW1jMDRDWUlndzd1ZVA0cjhIYkdBS21BVjduMUFPWDVCWVNwSGJ3RV83dkVmLXhrcC1fZFVfZkJndFhOLWpUN1lGSnBicko3NkFfMk43ZFFPdEpQSVZEdHYyM0pycW84TXpiTzk2enMzWjFSSVgyWlFTcHNNNkhIY0tCZW9nT2xWamlFUUlFTUxPVzEzVlpwazUwT2tDZU5nQ0RuadIB3AFBVV95cUxOQm5qaVBqbVhYa1JvNnpFalZ1YTYwT3k3WmMtczAzRXVrSG9idm9FVWc0MGdhLUlTVkVqbm5CWUxEd011NHpOdERDbmNpbFlrUHVLTXlMbVFERWdQTDQxYVduY1Q5bzR0dnR6OC1vRVo2ODZrZGlTdW5USW9HN09raUp5aU01X0tTTkppbXo0RjJfVEdwVVNrX2ZnOUE5UFo4MnZjYU9SaHVUWm80anlvTm9KcVlJY0U5NTJVb0doRUtfZVJYT1dpelFfRTZjcFcxalZveUd4YlFDSEti?oc=5)
-
----
-
 ### [Repunte de sarampión: “Es vital mantener actualizado el calendario vacunal para evitar la propagación”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
 
 2026-03-26 <span class="news-indication-tag">hepatitis</span>
@@ -92,11 +92,27 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
+### [La vacunación frente al VPH y el cribado consolidan el descenso del cáncer de cuello uterino en España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDV6eGx1MGJ6T1M5SGVBamFPZXBrRG5LV2FHemJNbDNtMFlMaG5NalZHSS00Z0NabUFTWFlLMmtGVFJWRF9IeUNoRGF6U2pxdVVlRnVfSzNOVHAzOEJlaVRiRU83UEFsWEQ1YVc1Y0NxY3pPV2RYeklBcm5jVjRCeUxPUnkwVTdsdC1iUkpVZEc0WFl0M1lTN0xPdVFiVDBKUHM5cXZCVXg3Y3pnRndDdUpLbVBXZXRFTUlpSHFrTkxULTVFWjA3VWdobXNkVFhaWEZsQ3hKOVRfRzQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDV6eGx1MGJ6T1M5SGVBamFPZXBrRG5LV2FHemJNbDNtMFlMaG5NalZHSS00Z0NabUFTWFlLMmtGVFJWRF9IeUNoRGF6U2pxdVVlRnVfSzNOVHAzOEJlaVRiRU83UEFsWEQ1YVc1Y0NxY3pPV2RYeklBcm5jVjRCeUxPUnkwVTdsdC1iUkpVZEc0WFl0M1lTN0xPdVFiVDBKUHM5cXZCVXg3Y3pnRndDdUpLbVBXZXRFTUlpSHFrTkxULTVFWjA3VWdobXNkVFhaWEZsQ3hKOVRfRzQ?oc=5)
+
+---
+
 ### [Epatite A a Napoli, all’ospedale Cotugno 60 ricoverati. L’infettivologa: “Meglio evitare anche il sushi” - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0NxWTNDWHlsUTgzYUxFWHJNUlZPaUJQYWV1WjA4Q3dsQTdPeTVxbTRJSnNfemdLa0lkUDA3ZTVJa0ZnQ1pJS1pnMWE0WjlpdFdBemRZNUNyM21wUVdIZk04QTFCd3AweUFkYldhSDdWQzA5Sl9VS0hTNmEwSGU1VVdnd25nekpTUG9IVFNXUHFPYlJkTTZMYmoxNEUzdw?oc=5)
 
 2026-03-26 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0NxWTNDWHlsUTgzYUxFWHJNUlZPaUJQYWV1WjA4Q3dsQTdPeTVxbTRJSnNfemdLa0lkUDA3ZTVJa0ZnQ1pJS1pnMWE0WjlpdFdBemRZNUNyM21wUVdIZk04QTFCd3AweUFkYldhSDdWQzA5Sl9VS0hTNmEwSGU1VVdnd25nekpTUG9IVFNXUHFPYlJkTTZMYmoxNEUzdw?oc=5)
+
+---
+
+### [Microbiota intestinale: cos’è e perché è così importante - Giornale di Brescia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmdYSEJvYjJYRFljQlBacld0Mm8weDVFbWZNaG5oTHIzcjhXZ3E4aklERHlnWUVMMWRWSlVjMVUtYWgtSUk3TVlQSGZqTGZkXy1oQ2U2V2EyOFlJZF9yVjNfR1ZSLThGQlJTSDJWUWxUR1RSdzJRSzhxc0Y1WVNhRkd2ekdUVjhrLUFzc2E1NWFVYThjVmdCeUZONGtfNmRJVE1kQjE3aXg3Rko1VEtSVnFZMA?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmdYSEJvYjJYRFljQlBacld0Mm8weDVFbWZNaG5oTHIzcjhXZ3E4aklERHlnWUVMMWRWSlVjMVUtYWgtSUk3TVlQSGZqTGZkXy1oQ2U2V2EyOFlJZF9yVjNfR1ZSLThGQlJTSDJWUWxUR1RSdzJRSzhxc0Y1WVNhRkd2ekdUVjhrLUFzc2E1NWFVYThjVmdCeUZONGtfNmRJVE1kQjE3aXg3Rko1VEtSVnFZMA?oc=5)
 
 ---
 
@@ -185,30 +201,6 @@ permalink: /news/baloxavir-marboxil/
 2026-03-25 <span class="news-indication-tag">cancer</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3QtRWo0RXpGdGUtVUQzWnJubVVscTcwS0RxT1ZQQ0RVRE1lSnBBXzVkSjcwWXNHNlFVSkRtNUZHdHhCSk1nQTMwYkhsWjc2ZGs0WFdiUnVCemFiZTdLRTN1dktsZnV2YjRVWVVpSldOX1JoX0VQUmRtOUdjLUE5NXhaQ0ZoZF9mWGRNN0tNVWFBT1NqYjJwMDlJbGI1b2JmdEViZzFpOEg?oc=5)
-
----
-
-### [Altes Antibiotikum deutlich verbessert - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUdxOVRFa1NzMERlWTJfS1Vnb05BUGZUYnBGMXU2Vm1ucXQ4YjVXcVU0S0t6MHRKQ1p0bmZmRVhtYUNuTWZKejJYRHNYS0ZuWThUSnNOMWFZS2k4amdXUDJyd0Fxd0UwR0NadnNCUFJWTTNFN182bGxGUVE3U2NsQ1hSRXNpVDNjbktmdTlHM2hJTVdy?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUdxOVRFa1NzMERlWTJfS1Vnb05BUGZUYnBGMXU2Vm1ucXQ4YjVXcVU0S0t6MHRKQ1p0bmZmRVhtYUNuTWZKejJYRHNYS0ZuWThUSnNOMWFZS2k4amdXUDJyd0Fxd0UwR0NadnNCUFJWTTNFN182bGxGUVE3U2NsQ1hSRXNpVDNjbktmdTlHM2hJTVdy?oc=5)
-
----
-
-### [Radiotherapie bei Krebs: Diese Maßnahmen schützen den Darm - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxlTEU3ckEtZklPMWdha3NUaXFuQ0VsODhOLWY4Z0VsOVJzSjlDdi1xeWEzakxYeHJybkhyU2hkeEVycEtsZC1VYWVENkdaQk0yX0N1c0VsdEZ2VjdLb1JNWmZSS2M1VFJ2cFBlZE55cmxoUHVobUVIZ1AzZ2J1TVFOMXBRcXVoLWE1MlJ4QWpNUHlYWHhxVVBDNWVZZnYyZzBENXNzOWV3UVdFUnc?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxlTEU3ckEtZklPMWdha3NUaXFuQ0VsODhOLWY4Z0VsOVJzSjlDdi1xeWEzakxYeHJybkhyU2hkeEVycEtsZC1VYWVENkdaQk0yX0N1c0VsdEZ2VjdLb1JNWmZSS2M1VFJ2cFBlZE55cmxoUHVobUVIZ1AzZ2J1TVFOMXBRcXVoLWE1MlJ4QWpNUHlYWHhxVVBDNWVZZnYyZzBENXNzOWV3UVdFUnc?oc=5)
-
----
-
-### [Ballaststoffe revolutionieren Krebstherapie und Hirngesundheit ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpJaE1nUnpOYVloemlFVllLclh1WjU2bzRxNm9BZC04RHNfWUNxbTJYQjlvWkVWV25OZHNDRkw5SGpyR0k4Z1l2dy1YUlB1RzhDUk9UX0l4Tk55SzYyYXZkNGxsTFlBR2Nkc25ITmozQi1oRkNkaEVoM2lsWUNUY0RwQWY0R0haSWgzS3hlTFRheEFEYUtkaTVJTUU0bTBQTTBhLWdLWUJjUU02cDhXdkZUOFc0NEk?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[Börse Social](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpJaE1nUnpOYVloemlFVllLclh1WjU2bzRxNm9BZC04RHNfWUNxbTJYQjlvWkVWV25OZHNDRkw5SGpyR0k4Z1l2dy1YUlB1RzhDUk9UX0l4Tk55SzYyYXZkNGxsTFlBR2Nkc25ITmozQi1oRkNkaEVoM2lsWUNUY0RwQWY0R0haSWgzS3hlTFRheEFEYUtkaTVJTUU0bTBQTTBhLWdLWUJjUU02cDhXdkZUOFc0NEk?oc=5)
 
 ---
 

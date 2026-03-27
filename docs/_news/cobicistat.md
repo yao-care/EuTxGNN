@@ -44,19 +44,19 @@ permalink: /news/cobicistat/
 
 ## 相關新聞（4 則）
 
+### [Großer Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVTVHUjZxY2M0Y2hJYTQ3akUwTEp0Ql9VcW9iUnpCT2FEeFJOVWtIZzN6UnE5UE1QTG1pajg0MTJUaGFtaE5xajRVS2tmcW5uWmo5ZlNQVElVdGVzYUhMTHNWQVZBb1R6ajBGRGpoZEczVHZnRWhUSENqOFg5ejdkd0RRQlJpNGhOcjR6UGVFSmQ4SXJjY05sTzdua2hLQXRrdG1Jalprb041SndIOHhqcTdWaWdXSXZJd1hCWXBuUmlEOFk?oc=5)
+
+2026-03-27 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVTVHUjZxY2M0Y2hJYTQ3akUwTEp0Ql9VcW9iUnpCT2FEeFJOVWtIZzN6UnE5UE1QTG1pajg0MTJUaGFtaE5xajRVS2tmcW5uWmo5ZlNQVElVdGVzYUhMTHNWQVZBb1R6ajBGRGpoZEczVHZnRWhUSENqOFg5ejdkd0RRQlJpNGhOcjR6UGVFSmQ4SXJjY05sTzdua2hLQXRrdG1Jalprb041SndIOHhqcTdWaWdXSXZJd1hCWXBuUmlEOFk?oc=5)
+
+---
+
 ### [Epatite A in una scuola, scatta l’allerta sanitaria: vaccinazioni immediate e famiglie informate](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">epatite</span>
 
 來源：[MaremmaOggi](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
-
----
-
-### [Hepatitis-Fälle erschüttern italienische Urlaubsregionen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxTLXg0TXJkMW5wY0t5QUJfN0hSUXpPazVWblAwelJjekc0VkpuYTBUazFhdjNvYkdZaVJtNkFmRFc5LUp0WDV4Mktmem84ZXVwa3dUR0ZJMFhwTlNjbXJaQlFCbzRUcjdIOERhaTZfaGFEVy1ITVVncE9QRi05MmlZcUdBOThZdTlyUjZpcnBsSGd6cl9EbGVyTTFQSzAtNm1STjZxLW1WZw?oc=5)
-
-2026-03-26 <span class="news-indication-tag">hepatitis</span>
-
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxTLXg0TXJkMW5wY0t5QUJfN0hSUXpPazVWblAwelJjekc0VkpuYTBUazFhdjNvYkdZaVJtNkFmRFc5LUp0WDV4Mktmem84ZXVwa3dUR0ZJMFhwTlNjbXJaQlFCbzRUcjdIOERhaTZfaGFEVy1ITVVncE9QRi05MmlZcUdBOThZdTlyUjZpcnBsSGd6cl9EbGVyTTFQSzAtNm1STjZxLW1WZw?oc=5)
 
 ---
 

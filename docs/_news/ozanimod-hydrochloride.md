@@ -14,7 +14,7 @@ permalink: /news/ozanimod-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ozanimod Hydrochloride 有什麼相關新聞？">
-<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/ozanimod-hydrochloride/
 <p><a href="{{ '/drugs/ozanimod-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（28 則）
+
+### [Una vacuna personalizada contra el cáncer diseñada con IA reduce los tumores de una perra: por qué el caso exige cautela](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZnk5LWR4d2pwcXNVV3h6czUwZHRuR1h6a2E0U3ZIbHlCVl9FdTl0QXZjcWNQYllTaTZvOEVpdTlCdlhvbDJwblVhR0NReHZwVE1hcGhuZTR5YzdPZW5CSUJfejNvaEFkbmpsYzdUM3lMU1hhT25WMW8zZVEtUEF3THlqMEQ5OXdUVkZKZkp0WkJjb2p3dGE4SkdMc3FhVFhXN2FYdWtObWVMcXRVMjROUU53cEM3MFN6N2dUNDBsdVQxSVZIUVdDbVNXRDdsS2NNZk1iZEZqZWw5YlFCZFF6SE9LRklYRDF5cVVRd3VLa2RDMlHSAfgBQVVfeXFMT3piaDd6R192djVYSHdCQ1BKSUxVZnRsYVlEdkdoQ1NUNGR6Qi1tX2ZXOXlSQ2sxZWZFaWZteDByYzlpQ0hZOXRQS29TYWN3TlBsVjZOaUdabEhmOS1JajJqMHhCUWMyd2ktQlo2YW1QZXF1UHNZR1UzRHhpSzF0cGxxcEJhTDVmamZVN1k2WnI4U3M5dUZDUDBiSDJxbU54TlU1Ui1zMVRBc2NTU3ZHSGIzX05RNi1jbjVuR2NjY2g3eWhJWlpDWXZnRUtlaW9wQjgtU0xpTWg1djNvc1loZDFhX1NLMVUyc2ViZXZKV0d3ZmJQbG1uVGY?oc=5)
+
+2026-03-27 <span class="news-indication-tag">tumor</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZnk5LWR4d2pwcXNVV3h6czUwZHRuR1h6a2E0U3ZIbHlCVl9FdTl0QXZjcWNQYllTaTZvOEVpdTlCdlhvbDJwblVhR0NReHZwVE1hcGhuZTR5YzdPZW5CSUJfejNvaEFkbmpsYzdUM3lMU1hhT25WMW8zZVEtUEF3THlqMEQ5OXdUVkZKZkp0WkJjb2p3dGE4SkdMc3FhVFhXN2FYdWtObWVMcXRVMjROUU53cEM3MFN6N2dUNDBsdVQxSVZIUVdDbVNXRDdsS2NNZk1iZEZqZWw5YlFCZFF6SE9LRklYRDF5cVVRd3VLa2RDMlHSAfgBQVVfeXFMT3piaDd6R192djVYSHdCQ1BKSUxVZnRsYVlEdkdoQ1NUNGR6Qi1tX2ZXOXlSQ2sxZWZFaWZteDByYzlpQ0hZOXRQS29TYWN3TlBsVjZOaUdabEhmOS1JajJqMHhCUWMyd2ktQlo2YW1QZXF1UHNZR1UzRHhpSzF0cGxxcEJhTDVmamZVN1k2WnI4U3M5dUZDUDBiSDJxbU54TlU1Ui1zMVRBc2NTU3ZHSGIzX05RNi1jbjVuR2NjY2g3eWhJWlpDWXZnRUtlaW9wQjgtU0xpTWg1djNvc1loZDFhX1NLMVUyc2ViZXZKV0d3ZmJQbG1uVGY?oc=5)
+
+---
 
 ### [El cáncer colorrectal será el tumor más diagnosticado en España en 2026](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDYwbFluOVJwbnluMEl0NHJRamxRWU9VVFpfbVhvQ1g5WmlOeEVCa0hWeFlCVUp3RVQwZGRtTkRCdC1VOFdxamZneUJGek1la1VfWFppZ2k4SXlqN3pJc0RZVjAtUEhkbTM0ZkoyemhudEhqZWtLWDNpZjdGV2xnTFpR?oc=5)
 
@@ -57,6 +65,14 @@ permalink: /news/ozanimod-hydrochloride/
 2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
+
+---
+
+### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
 ---
 
@@ -76,19 +92,27 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [El virus del papiloma, detrás de casi todos los cánceres de cuello de útero - Cadena SER](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVprU21aRW9tQzBVNjlYbzJCZWNFLWp2eWw2MW5GVUhiX3BuLW1jMDRDWUlndzd1ZVA0cjhIYkdBS21BVjduMUFPWDVCWVNwSGJ3RV83dkVmLXhrcC1fZFVfZkJndFhOLWpUN1lGSnBicko3NkFfMk43ZFFPdEpQSVZEdHYyM0pycW84TXpiTzk2enMzWjFSSVgyWlFTcHNNNkhIY0tCZW9nT2xWamlFUUlFTUxPVzEzVlpwazUwT2tDZU5nQ0RuadIB3AFBVV95cUxOQm5qaVBqbVhYa1JvNnpFalZ1YTYwT3k3WmMtczAzRXVrSG9idm9FVWc0MGdhLUlTVkVqbm5CWUxEd011NHpOdERDbmNpbFlrUHVLTXlMbVFERWdQTDQxYVduY1Q5bzR0dnR6OC1vRVo2ODZrZGlTdW5USW9HN09raUp5aU01X0tTTkppbXo0RjJfVEdwVVNrX2ZnOUE5UFo4MnZjYU9SaHVUWm80anlvTm9KcVlJY0U5NTJVb0doRUtfZVJYT1dpelFfRTZjcFcxalZveUd4YlFDSEti?oc=5)
-
-2026-03-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZVprU21aRW9tQzBVNjlYbzJCZWNFLWp2eWw2MW5GVUhiX3BuLW1jMDRDWUlndzd1ZVA0cjhIYkdBS21BVjduMUFPWDVCWVNwSGJ3RV83dkVmLXhrcC1fZFVfZkJndFhOLWpUN1lGSnBicko3NkFfMk43ZFFPdEpQSVZEdHYyM0pycW84TXpiTzk2enMzWjFSSVgyWlFTcHNNNkhIY0tCZW9nT2xWamlFUUlFTUxPVzEzVlpwazUwT2tDZU5nQ0RuadIB3AFBVV95cUxOQm5qaVBqbVhYa1JvNnpFalZ1YTYwT3k3WmMtczAzRXVrSG9idm9FVWc0MGdhLUlTVkVqbm5CWUxEd011NHpOdERDbmNpbFlrUHVLTXlMbVFERWdQTDQxYVduY1Q5bzR0dnR6OC1vRVo2ODZrZGlTdW5USW9HN09raUp5aU01X0tTTkppbXo0RjJfVEdwVVNrX2ZnOUE5UFo4MnZjYU9SaHVUWm80anlvTm9KcVlJY0U5NTJVb0doRUtfZVJYT1dpelFfRTZjcFcxalZveUd4YlFDSEti?oc=5)
-
----
-
 ### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
 
 2026-03-26 <span class="news-indication-tag">MS</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
+
+---
+
+### [La vacunación frente al VPH y el cribado consolidan el descenso del cáncer de cuello uterino en España](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDV6eGx1MGJ6T1M5SGVBamFPZXBrRG5LV2FHemJNbDNtMFlMaG5NalZHSS00Z0NabUFTWFlLMmtGVFJWRF9IeUNoRGF6U2pxdVVlRnVfSzNOVHAzOEJlaVRiRU83UEFsWEQ1YVc1Y0NxY3pPV2RYeklBcm5jVjRCeUxPUnkwVTdsdC1iUkpVZEc0WFl0M1lTN0xPdVFiVDBKUHM5cXZCVXg3Y3pnRndDdUpLbVBXZXRFTUlpSHFrTkxULTVFWjA3VWdobXNkVFhaWEZsQ3hKOVRfRzQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDV6eGx1MGJ6T1M5SGVBamFPZXBrRG5LV2FHemJNbDNtMFlMaG5NalZHSS00Z0NabUFTWFlLMmtGVFJWRF9IeUNoRGF6U2pxdVVlRnVfSzNOVHAzOEJlaVRiRU83UEFsWEQ1YVc1Y0NxY3pPV2RYeklBcm5jVjRCeUxPUnkwVTdsdC1iUkpVZEc0WFl0M1lTN0xPdVFiVDBKUHM5cXZCVXg3Y3pnRndDdUpLbVBXZXRFTUlpSHFrTkxULTVFWjA3VWdobXNkVFhaWEZsQ3hKOVRfRzQ?oc=5)
+
+---
+
+### [Microbiota intestinale: cos’è e perché è così importante - Giornale di Brescia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmdYSEJvYjJYRFljQlBacld0Mm8weDVFbWZNaG5oTHIzcjhXZ3E4aklERHlnWUVMMWRWSlVjMVUtYWgtSUk3TVlQSGZqTGZkXy1oQ2U2V2EyOFlJZF9yVjNfR1ZSLThGQlJTSDJWUWxUR1RSdzJRSzhxc0Y1WVNhRkd2ekdUVjhrLUFzc2E1NWFVYThjVmdCeUZONGtfNmRJVE1kQjE3aXg3Rko1VEtSVnFZMA?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmdYSEJvYjJYRFljQlBacld0Mm8weDVFbWZNaG5oTHIzcjhXZ3E4aklERHlnWUVMMWRWSlVjMVUtYWgtSUk3TVlQSGZqTGZkXy1oQ2U2V2EyOFlJZF9yVjNfR1ZSLThGQlJTSDJWUWxUR1RSdzJRSzhxc0Y1WVNhRkd2ekdUVjhrLUFzc2E1NWFVYThjVmdCeUZONGtfNmRJVE1kQjE3aXg3Rko1VEtSVnFZMA?oc=5)
 
 ---
 
@@ -180,11 +204,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### ['I was left doubly incontinent by a condition that affects 1 million UK women'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
+### [Five Habits A GP Says Separates People Who Age Well From Those Who Don't - HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
+來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 
 ---
 
@@ -228,43 +252,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Fertilité : pour avoir plus de chance d'avoir un enfant, une étude scientifique contredit ce que l'on croyait sur la fréquence de l'éjaculation](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2FTRnQ5YkVNbXREeHlSUU1SdmZNa2ZUb1RhWGpEbi1XbEw0Tng3VV9jSkNBcDBDWmMwZXFiVWdYbk5veTd0bWtDSkVadTUtd1FSUEJOa2lkSnowdmVJa1ZqdXE2ZWYxVEpzWnBTWWpfVjhnaVVTdmN2QVM3WUhnV2pnTzZKT3piZjNVb2NEVUJVbjVfVUZNY0FwZUxoY3lwdG5pRFh5Wnpvd1FSa2NEdXliRVpQUdIBuwFBVV95cUxPLVFLZ29nS0ZTc1FkYmZTSmtHcFA5Z3kta19RYk9NV1lHRzlHREF3QnlNMFNJeVExdkw5bVI3dEFIc2ZCVk1qMG5MX2plaHFLclM2U0hpeGVfUVZWdmYtdEJ3REZ0VGI1QmpqQk9tWVF6d2lZMnNWZ25YZTJQN254QmJsbzlUTVd6cm9iM3BzbTJoc2Y4QTVvUkpsbkplbDFXVnQ4UGRWa3Z2blpYQ3k4cVBNZW56X3IzUk1n?oc=5)
-
-2026-03-25 <span class="news-indication-tag">MS</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2FTRnQ5YkVNbXREeHlSUU1SdmZNa2ZUb1RhWGpEbi1XbEw0Tng3VV9jSkNBcDBDWmMwZXFiVWdYbk5veTd0bWtDSkVadTUtd1FSUEJOa2lkSnowdmVJa1ZqdXE2ZWYxVEpzWnBTWWpfVjhnaVVTdmN2QVM3WUhnV2pnTzZKT3piZjNVb2NEVUJVbjVfVUZNY0FwZUxoY3lwdG5pRFh5Wnpvd1FSa2NEdXliRVpQUdIBuwFBVV95cUxPLVFLZ29nS0ZTc1FkYmZTSmtHcFA5Z3kta19RYk9NV1lHRzlHREF3QnlNMFNJeVExdkw5bVI3dEFIc2ZCVk1qMG5MX2plaHFLclM2U0hpeGVfUVZWdmYtdEJ3REZ0VGI1QmpqQk9tWVF6d2lZMnNWZ25YZTJQN254QmJsbzlUTVd6cm9iM3BzbTJoc2Y4QTVvUkpsbkplbDFXVnQ4UGRWa3Z2blpYQ3k4cVBNZW56X3IzUk1n?oc=5)
-
----
-
 ### [Cancer almost killed me. We’re treating this disease all wrong - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3QtRWo0RXpGdGUtVUQzWnJubVVscTcwS0RxT1ZQQ0RVRE1lSnBBXzVkSjcwWXNHNlFVSkRtNUZHdHhCSk1nQTMwYkhsWjc2ZGs0WFdiUnVCemFiZTdLRTN1dktsZnV2YjRVWVVpSldOX1JoX0VQUmRtOUdjLUE5NXhaQ0ZoZF9mWGRNN0tNVWFBT1NqYjJwMDlJbGI1b2JmdEViZzFpOEg?oc=5)
 
 2026-03-25 <span class="news-indication-tag">cancer</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3QtRWo0RXpGdGUtVUQzWnJubVVscTcwS0RxT1ZQQ0RVRE1lSnBBXzVkSjcwWXNHNlFVSkRtNUZHdHhCSk1nQTMwYkhsWjc2ZGs0WFdiUnVCemFiZTdLRTN1dktsZnV2YjRVWVVpSldOX1JoX0VQUmRtOUdjLUE5NXhaQ0ZoZF9mWGRNN0tNVWFBT1NqYjJwMDlJbGI1b2JmdEViZzFpOEg?oc=5)
-
----
-
-### [Altes Antibiotikum deutlich verbessert - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUdxOVRFa1NzMERlWTJfS1Vnb05BUGZUYnBGMXU2Vm1ucXQ4YjVXcVU0S0t6MHRKQ1p0bmZmRVhtYUNuTWZKejJYRHNYS0ZuWThUSnNOMWFZS2k4amdXUDJyd0Fxd0UwR0NadnNCUFJWTTNFN182bGxGUVE3U2NsQ1hSRXNpVDNjbktmdTlHM2hJTVdy?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUdxOVRFa1NzMERlWTJfS1Vnb05BUGZUYnBGMXU2Vm1ucXQ4YjVXcVU0S0t6MHRKQ1p0bmZmRVhtYUNuTWZKejJYRHNYS0ZuWThUSnNOMWFZS2k4amdXUDJyd0Fxd0UwR0NadnNCUFJWTTNFN182bGxGUVE3U2NsQ1hSRXNpVDNjbktmdTlHM2hJTVdy?oc=5)
-
----
-
-### [Radiotherapie bei Krebs: Diese Maßnahmen schützen den Darm - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxlTEU3ckEtZklPMWdha3NUaXFuQ0VsODhOLWY4Z0VsOVJzSjlDdi1xeWEzakxYeHJybkhyU2hkeEVycEtsZC1VYWVENkdaQk0yX0N1c0VsdEZ2VjdLb1JNWmZSS2M1VFJ2cFBlZE55cmxoUHVobUVIZ1AzZ2J1TVFOMXBRcXVoLWE1MlJ4QWpNUHlYWHhxVVBDNWVZZnYyZzBENXNzOWV3UVdFUnc?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkxlTEU3ckEtZklPMWdha3NUaXFuQ0VsODhOLWY4Z0VsOVJzSjlDdi1xeWEzakxYeHJybkhyU2hkeEVycEtsZC1VYWVENkdaQk0yX0N1c0VsdEZ2VjdLb1JNWmZSS2M1VFJ2cFBlZE55cmxoUHVobUVIZ1AzZ2J1TVFOMXBRcXVoLWE1MlJ4QWpNUHlYWHhxVVBDNWVZZnYyZzBENXNzOWV3UVdFUnc?oc=5)
-
----
-
-### [Ballaststoffe revolutionieren Krebstherapie und Hirngesundheit ( Finanztrends) - Börse Social](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpJaE1nUnpOYVloemlFVllLclh1WjU2bzRxNm9BZC04RHNfWUNxbTJYQjlvWkVWV25OZHNDRkw5SGpyR0k4Z1l2dy1YUlB1RzhDUk9UX0l4Tk55SzYyYXZkNGxsTFlBR2Nkc25ITmozQi1oRkNkaEVoM2lsWUNUY0RwQWY0R0haSWgzS3hlTFRheEFEYUtkaTVJTUU0bTBQTTBhLWdLWUJjUU02cDhXdkZUOFc0NEk?oc=5)
-
-2026-03-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[Börse Social](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpJaE1nUnpOYVloemlFVllLclh1WjU2bzRxNm9BZC04RHNfWUNxbTJYQjlvWkVWV25OZHNDRkw5SGpyR0k4Z1l2dy1YUlB1RzhDUk9UX0l4Tk55SzYyYXZkNGxsTFlBR2Nkc25ITmozQi1oRkNkaEVoM2lsWUNUY0RwQWY0R0haSWgzS3hlTFRheEFEYUtkaTVJTUU0bTBQTTBhLWdLWUJjUU02cDhXdkZUOFc0NEk?oc=5)
 
 ---
 
