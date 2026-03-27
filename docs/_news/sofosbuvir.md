@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（16 則）
+
+### [Kingston Park lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
+
+2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
+
+---
+
+### [Epatite A in una scuola, scatta l’allerta sanitaria: vaccinazioni immediate e famiglie informate](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">epatite</span>
+
+來源：[MaremmaOggi](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
+
+---
+
+### [Residents left 'shocked' and 'upset' after 'beautiful' Sherwood tree felled amid safety concerns - Nottinghamshire Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm11RnpvekxyaXEwM00tUG5naDBKUzVUaFVvY0lqa21sWXJEZ0JWM0JmRktZVVJMbzkyZ2JSZm5JNll0eG1xNElBVjdHT3lzWkNZODJ0aVlpcWItNmhEb0I4SFRucWQwNm9ab0g5MUFWU0FoaWVRLWw1UzZwSmNvY0ZORVBDUmtBWUpPQ2ZJVVFFWVVMMzk0bTRNTQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm11RnpvekxyaXEwM00tUG5naDBKUzVUaFVvY0lqa21sWXJEZ0JWM0JmRktZVVJMbzkyZ2JSZm5JNll0eG1xNElBVjdHT3lzWkNZODJ0aVlpcWItNmhEb0I4SFRucWQwNm9ab0g5MUFWU0FoaWVRLWw1UzZwSmNvY0ZORVBDUmtBWUpPQ2ZJVVFFWVVMMzk0bTRNTQ?oc=5)
+
+---
 
 ### [Hepatitis-Fälle erschüttern italienische Urlaubsregionen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUxTLXg0TXJkMW5wY0t5QUJfN0hSUXpPazVWblAwelJjekc0VkpuYTBUazFhdjNvYkdZaVJtNkFmRFc5LUp0WDV4Mktmem84ZXVwa3dUR0ZJMFhwTlNjbXJaQlFCbzRUcjdIOERhaTZfaGFEVy1ITVVncE9QRi05MmlZcUdBOThZdTlyUjZpcnBsSGd6cl9EbGVyTTFQSzAtNm1STjZxLW1WZw?oc=5)
 
@@ -60,11 +84,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### ["Es vital mantener actualizado el calendario vacunal para evitar la propagación del sarampión"](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
+### [Repunte de sarampión: “Es vital mantener actualizado el calendario vacunal para evitar la propagación”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
 
 2026-03-26 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Comunicae](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
 
 ---
 
@@ -108,11 +132,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### ['I was left doubly incontinent by a condition that affects 1 million UK women'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2U9IBngFBVV95cUxPeGo2RUw3NFlfMVJyZEpaNHFJNmk3VTlONU5YcktRcS1taUJTd3QtMWNQcVdfbGk5aDRTSmVrQVpNMnNmNGhmOFBIUHdzWXZveFdQNmxCWFQ2Zmt4a0dIQ1ZLN1ZBdVExMDRrV0poMnl1R29ja3l2ajY0RkVpaFlibzFHRWgwc2lqcWRIUXU4dHhwZXFqbVlXa281ZW9IQQ?oc=5)
+### ['I was left doubly incontinent by a condition that affects 1 million UK women'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2U9IBngFBVV95cUxPeGo2RUw3NFlfMVJyZEpaNHFJNmk3VTlONU5YcktRcS1taUJTd3QtMWNQcVdfbGk5aDRTSmVrQVpNMnNmNGhmOFBIUHdzWXZveFdQNmxCWFQ2Zmt4a0dIQ1ZLN1ZBdVExMDRrV0poMnl1R29ja3l2ajY0RkVpaFlibzFHRWgwc2lqcWRIUXU4dHhwZXFqbVlXa281ZW9IQQ?oc=5)
+來源：[metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
 ---
 
@@ -124,11 +148,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Tipp: Schlüsselrolle Vitamin D - Gesund ins Frühjahr starten und Speicher auffüllen - Lebensmittel enthalten nur wenig Vitamin D - Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWVBSZHJFS1JlQWhPbURHYnllVmFfaGhwNFNVOHNvdXNWSXBzWEZOaVYxUUp2bjVDWkxpc01MTU5VcHR2SS1TZ2JBYUhZWGpnak1zb3RDOXRkR29jSHBNYXFGa2xBcmJiUEFWSjE4a1RTQmhCWmFVa2pVZW1YZE1ndW5XclI4NWxwYUp3eHBYOEVWZk50eVpBNHFqS0J6Q0xFMTZ1aUY2LUtpUmh5SUF2MFNrLUtkR1hvclIzenRESVBiZ2Qwd0NqRW5jUk9tdXNwT0FvcFZPdGJGQVB5Y0I0Z3lacHFhcW9XUTk0UTFfYTZISUdxeU8yYUxqQQ?oc=5)
+### [The subtle signs of Alzheimer’s disease everyone should be aware of - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
 
-2026-03-24 <span class="news-indication-tag">MS</span>
+2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWVBSZHJFS1JlQWhPbURHYnllVmFfaGhwNFNVOHNvdXNWSXBzWEZOaVYxUUp2bjVDWkxpc01MTU5VcHR2SS1TZ2JBYUhZWGpnak1zb3RDOXRkR29jSHBNYXFGa2xBcmJiUEFWSjE4a1RTQmhCWmFVa2pVZW1YZE1ndW5XclI4NWxwYUp3eHBYOEVWZk50eVpBNHFqS0J6Q0xFMTZ1aUY2LUtpUmh5SUF2MFNrLUtkR1hvclIzenRESVBiZ2Qwd0NqRW5jUk9tdXNwT0FvcFZPdGJGQVB5Y0I0Z3lacHFhcW9XUTk0UTFfYTZISUdxeU8yYUxqQQ?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
+
+---
+
+### [Fertilité : pour avoir plus de chance d'avoir un enfant, une étude scientifique contredit ce que l'on croyait sur la fréquence de l'éjaculation](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2FTRnQ5YkVNbXREeHlSUU1SdmZNa2ZUb1RhWGpEbi1XbEw0Tng3VV9jSkNBcDBDWmMwZXFiVWdYbk5veTd0bWtDSkVadTUtd1FSUEJOa2lkSnowdmVJa1ZqdXE2ZWYxVEpzWnBTWWpfVjhnaVVTdmN2QVM3WUhnV2pnTzZKT3piZjNVb2NEVUJVbjVfVUZNY0FwZUxoY3lwdG5pRFh5Wnpvd1FSa2NEdXliRVpQUdIBuwFBVV95cUxPLVFLZ29nS0ZTc1FkYmZTSmtHcFA5Z3kta19RYk9NV1lHRzlHREF3QnlNMFNJeVExdkw5bVI3dEFIc2ZCVk1qMG5MX2plaHFLclM2U0hpeGVfUVZWdmYtdEJ3REZ0VGI1QmpqQk9tWVF6d2lZMnNWZ25YZTJQN254QmJsbzlUTVd6cm9iM3BzbTJoc2Y4QTVvUkpsbkplbDFXVnQ4UGRWa3Z2blpYQ3k4cVBNZW56X3IzUk1n?oc=5)
+
+2026-03-25 <span class="news-indication-tag">MS</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2FTRnQ5YkVNbXREeHlSUU1SdmZNa2ZUb1RhWGpEbi1XbEw0Tng3VV9jSkNBcDBDWmMwZXFiVWdYbk5veTd0bWtDSkVadTUtd1FSUEJOa2lkSnowdmVJa1ZqdXE2ZWYxVEpzWnBTWWpfVjhnaVVTdmN2QVM3WUhnV2pnTzZKT3piZjNVb2NEVUJVbjVfVUZNY0FwZUxoY3lwdG5pRFh5Wnpvd1FSa2NEdXliRVpQUdIBuwFBVV95cUxPLVFLZ29nS0ZTc1FkYmZTSmtHcFA5Z3kta19RYk9NV1lHRzlHREF3QnlNMFNJeVExdkw5bVI3dEFIc2ZCVk1qMG5MX2plaHFLclM2U0hpeGVfUVZWdmYtdEJ3REZ0VGI1QmpqQk9tWVF6d2lZMnNWZ25YZTJQN254QmJsbzlUTVd6cm9iM3BzbTJoc2Y4QTVvUkpsbkplbDFXVnQ4UGRWa3Z2blpYQ3k4cVBNZW56X3IzUk1n?oc=5)
 
 ---
 

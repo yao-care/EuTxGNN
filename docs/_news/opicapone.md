@@ -44,27 +44,27 @@ permalink: /news/opicapone/
 
 ## 相關新聞（3 則）
 
+### [People with Alzheimer's gene may lower their risk by eating more meat: Why? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNEYVNlc1p6T2tMZ2tCV09wck0ybGZMUV9Uc2VrMlhLUGRCcEVNTzc0YkdpZVo0dnladU01eVV0UXVpdTIwcklRTVlGa3dGVFRyb21qM3M4TUZoUUVwZWFpYzMyaEZCYlR3UFNlU09pblJBd25EdlJTVTBScGRhUjZKMzlUUGRPSi1HRUhKZ1JtVVZ6ckU3cExNWXlGMk9KVURoejg5ZzVUbW5MbFJJbQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNEYVNlc1p6T2tMZ2tCV09wck0ybGZMUV9Uc2VrMlhLUGRCcEVNTzc0YkdpZVo0dnladU01eVV0UXVpdTIwcklRTVlGa3dGVFRyb21qM3M4TUZoUUVwZWFpYzMyaEZCYlR3UFNlU09pblJBd25EdlJTVTBScGRhUjZKMzlUUGRPSi1HRUhKZ1JtVVZ6ckU3cExNWXlGMk9KVURoejg5ZzVUbW5MbFJJbQ?oc=5)
+
+---
+
+### [The subtle signs of Alzheimer’s disease everyone should be aware of - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
+
+2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
+
+---
+
 ### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
 
 2026-03-25 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
-
----
-
-### [Making home-cooked meals ‘cuts risk of dementia’ - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
-
-2026-03-25 <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
-
----
-
-### [Bacterial Infections Accelerate Brain Aging, Dementia Risk - Neuroscience News](https://news.google.com/rss/articles/CBMidEFVX3lxTE1CNzE3cjhvWFZvYl9kazRVenpVUFJZMGYzekZhakw4Rk1MdnJaMzZNeDBYdUJVa0F4MG01cjlsSmRGVkZmbUFkLWhnUVhtZlZYUlpJeExfazcyd0t6Z3JPUEZDNGI2VlJCbGNtUDlEcHpiSTls?oc=5)
-
-2026-03-24 <span class="news-indication-tag">dementia</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMidEFVX3lxTE1CNzE3cjhvWFZvYl9kazRVenpVUFJZMGYzekZhakw4Rk1MdnJaMzZNeDBYdUJVa0F4MG01cjlsSmRGVkZmbUFkLWhnUVhtZlZYUlpJeExfazcyd0t6Z3JPUEZDNGI2VlJCbGNtUDlEcHpiSTls?oc=5)
 
 ---
 

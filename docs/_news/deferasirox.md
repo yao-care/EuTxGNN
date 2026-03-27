@@ -14,7 +14,7 @@ permalink: /news/deferasirox/
 ---
 
 <p class="key-answer" data-question="Deferasirox 有什麼相關新聞？">
-<strong>Deferasirox</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Deferasirox</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/deferasirox/
 <p><a href="{{ '/drugs/deferasirox/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（21 則）
 
-### [El cáncer colorrectal será el tumor más diagnosticado en España en 2026](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRNaG1IbW1OX0t0c0ZJUXZzQVdGN1oxUDY0bUNiYmtGT0lINXdqenh5VFg2cUlkeHJfcDFCTW9LR19QVWYzUHZwYVZ6T21scnNiblNkYWx2azlLMlNDeG9iOUdlWURIaHBsMU5LZ0V2Sjdqd3p6QzBtVF96RW9Ld2VrTUtiTHl5N0xYY1VZVXlDM0xoVnJNalk3czlzUlpvU19Rb3B4MWFLSjItdzd6NVM4YjVBVGp2bTRnSzU3QznSAcYBQVVfeXFMTnJpY0VEQTBkdXlYOGhUeXR0cDJCSzZrdThIcWtFVFEtSlkzYnU4MzlNRVdPbjU1NWlINVdGVUsyUnZCdnFacUdrRjR4aWl0Q1BIZ0J2a1MzWWp0LTBjUUgyTVhzR2lNdXZ3MUNkMXE4cFFQb09nY0drOFhiZlRTcU1qR0VKYnJBZnpMRFJKYjRDdnB1cFhIV1N4T3BLb0FJZG5lNzNfTjBRVjA0OE9pMkNEaFR5dnpBZDJKRkhaTTdBOExiUk1n?oc=5)
+### [El cáncer colorrectal será el tumor más diagnosticado en España en 2026](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDYwbFluOVJwbnluMEl0NHJRamxRWU9VVFpfbVhvQ1g5WmlOeEVCa0hWeFlCVUp3RVQwZGRtTkRCdC1VOFdxamZneUJGek1la1VfWFppZ2k4SXlqN3pJc0RZVjAtUEhkbTM0ZkoyemhudEhqZWtLWDNpZjdGV2xnTFpR?oc=5)
 
 2026-03-26 <span class="news-indication-tag">tumor</span>
 
-來源：[democrata.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRNaG1IbW1OX0t0c0ZJUXZzQVdGN1oxUDY0bUNiYmtGT0lINXdqenh5VFg2cUlkeHJfcDFCTW9LR19QVWYzUHZwYVZ6T21scnNiblNkYWx2azlLMlNDeG9iOUdlWURIaHBsMU5LZ0V2Sjdqd3p6QzBtVF96RW9Ld2VrTUtiTHl5N0xYY1VZVXlDM0xoVnJNalk3czlzUlpvU19Rb3B4MWFLSjItdzd6NVM4YjVBVGp2bTRnSzU3QznSAcYBQVVfeXFMTnJpY0VEQTBkdXlYOGhUeXR0cDJCSzZrdThIcWtFVFEtSlkzYnU4MzlNRVdPbjU1NWlINVdGVUsyUnZCdnFacUdrRjR4aWl0Q1BIZ0J2a1MzWWp0LTBjUUgyTVhzR2lNdXZ3MUNkMXE4cFFQb09nY0drOFhiZlRTcU1qR0VKYnJBZnpMRFJKYjRDdnB1cFhIV1N4T3BLb0FJZG5lNzNfTjBRVjA0OE9pMkNEaFR5dnpBZDJKRkhaTTdBOExiUk1n?oc=5)
+來源：[Comunicae](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDYwbFluOVJwbnluMEl0NHJRamxRWU9VVFpfbVhvQ1g5WmlOeEVCa0hWeFlCVUp3RVQwZGRtTkRCdC1VOFdxamZneUJGek1la1VfWFppZ2k4SXlqN3pJc0RZVjAtUEhkbTM0ZkoyemhudEhqZWtLWDNpZjdGV2xnTFpR?oc=5)
+
+---
+
+### [Descubren el potencial de un compuesto de la granada en el cáncer de mama más letal - La Razón](https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2JiUThIZGpGWVo3ejFXYThValBEdjdpczZQMHc0ZnZnWV9lWXd1TXU5amFLNUpBbUQ1SV9jaVppQ1h4bUVlUkE3LVExdGxqNUdjcGl3Z0hKd1FNY295OFlhallyYklhdDZiZWEtRGd3akR2b3R3TXgxOHpLU25FLXlPWGRKcnRaTFo0VmtwS1YwcUtwNy1zd3N3cWtXc2dhdGkyeUpNS3RpZDE4d3F6RzFBTk10UW1hVnZfa2Z2d2pPekot0gHYAUFVX3lxTFBEaG52Y29rMnBoNUV4MGUxRGxsYW90MnBDTUw5QjFJdi12TmloZ21IWVVYREJraFBtQkFRaUtXc2pxUmFJUXRFT3V6U3hmcW1lLWwteW85eE1ZaEVOam03ay00RnA2U0F3LXljRjB6TU53eVRXOVJTbnFDOGhXVWMyLWhkR0o2NU1TQUtQTDVoVnlLNmNhMF9UTW5vUktPYm50alhOWWQ5aEJSdHZoVzc5UlVTa3JYMzJuUk5wMTRUWEpncmp2QndHM2c3bWl1M0FVNjJrc3J4aA?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2JiUThIZGpGWVo3ejFXYThValBEdjdpczZQMHc0ZnZnWV9lWXd1TXU5amFLNUpBbUQ1SV9jaVppQ1h4bUVlUkE3LVExdGxqNUdjcGl3Z0hKd1FNY295OFlhallyYklhdDZiZWEtRGd3akR2b3R3TXgxOHpLU25FLXlPWGRKcnRaTFo0VmtwS1YwcUtwNy1zd3N3cWtXc2dhdGkyeUpNS3RpZDE4d3F6RzFBTk10UW1hVnZfa2Z2d2pPekot0gHYAUFVX3lxTFBEaG52Y29rMnBoNUV4MGUxRGxsYW90MnBDTUw5QjFJdi12TmloZ21IWVVYREJraFBtQkFRaUtXc2pxUmFJUXRFT3V6U3hmcW1lLWwteW85eE1ZaEVOam03ay00RnA2U0F3LXljRjB6TU53eVRXOVJTbnFDOGhXVWMyLWhkR0o2NU1TQUtQTDVoVnlLNmNhMF9UTW5vUktPYm50alhOWWQ5aEJSdHZoVzc5UlVTa3JYMzJuUk5wMTRUWEpncmp2QndHM2c3bWl1M0FVNjJrc3J4aA?oc=5)
+
+---
+
+### [Epatite A in una scuola, scatta l’allerta sanitaria: vaccinazioni immediate e famiglie informate](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">epatite</span>
+
+來源：[MaremmaOggi](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
 
 ---
 
@@ -68,11 +84,11 @@ permalink: /news/deferasirox/
 
 ---
 
-### ["Es vital mantener actualizado el calendario vacunal para evitar la propagación del sarampión"](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
+### [Repunte de sarampión: “Es vital mantener actualizado el calendario vacunal para evitar la propagación”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
 
 2026-03-26 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Comunicae](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
 
 ---
 
@@ -84,7 +100,7 @@ permalink: /news/deferasirox/
 
 ---
 
-### [Krebs: Forscher entdecken, wie Entzündungen den Darm Jahre später anfälliger für Krebs machen](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnJ3SkQxWVNBVHhEZUxycW5GMUF4QURkY3BMbGZ4c1kyck9TOURZRTRrYWsweHJEUlUtM1I3ekJTcGw5SGFTNmVNZkQtWGhYMTNNOWFuY3BNOGtfTkpXVUJMY0ZWcnItVVNPMFdVY0c4TFlqU2IxY0xpZUtxY1U0Q1ZuNWFLdDdiVDZXRWM3WlpaLVZqcjBVU25lZmFYdmo3TzVsWWxKc3dJMWtRNnFiMUh0b01FMm1RWlFDUFpXb3RyODB0M1JydTNmSi1zTWcxZ0pUTnJhZ2RBUWUwWE9Pd0VqZ09pbUJmSF9KUHlFSlBvX1VPclE?oc=5)
+### [Wie Entzündungen den Darm Jahre später anfälliger für Krebs machen können](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnJ3SkQxWVNBVHhEZUxycW5GMUF4QURkY3BMbGZ4c1kyck9TOURZRTRrYWsweHJEUlUtM1I3ekJTcGw5SGFTNmVNZkQtWGhYMTNNOWFuY3BNOGtfTkpXVUJMY0ZWcnItVVNPMFdVY0c4TFlqU2IxY0xpZUtxY1U0Q1ZuNWFLdDdiVDZXRWM3WlpaLVZqcjBVU25lZmFYdmo3TzVsWWxKc3dJMWtRNnFiMUh0b01FMm1RWlFDUFpXb3RyODB0M1JydTNmSi1zTWcxZ0pUTnJhZ2RBUWUwWE9Pd0VqZ09pbUJmSF9KUHlFSlBvX1VPclE?oc=5)
 
 2026-03-26 <span class="news-indication-tag">Krebs</span>
 
@@ -121,14 +137,6 @@ permalink: /news/deferasirox/
 2026-03-25 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0NPTlFwdks1WDdPdWEtNzZjZUw3ZlNtNG05UHE4ZnFGRllCNDVVX0FWcHoxNTE5OXJwcWhTNU8tMlp6dGtVQlRxaVBiMFlaN3g2REpBb0F6dWNpZkU1RzFRY3oyVVhVUmgxejRRV3FmUmhNcTNEQ195eTlWUk92SFVoSlhJY2JPeFpiQjFYajJSQmxYa1N1TUd5M2N0amJuVUEzSGdR?oc=5)
-
----
-
-### [Un virus banal tapi sur votre peau : une anomalie indétectable l'a transformé en un cancer redoutable (et les chercheurs n'avaient jamais vu ça)](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU2NiMmxFMDhNd2ZzS2l1M05fWC1JTmpGa3hINktSTVJFb0dJQTBMZWZUUzh6OFhmR01UeEQwNlZnNmg2c2Vqdmx6Umo1TlNwUDNILWJoX2NkNjlDYlhiSVhLN3RlVURiSGFrSXVMTU82T0d3aUplN2VjTjhoeXJ4czBQMmo5TGd4blRlVThBeldlcEZHWWV4TnhPZlkwT2tHS2hZYkltOGVXVFlOd1ZrakZ6UHlGTGtta0Z1TVI3cTIzU2ZadmRwTWNMSHlLZG56a0pfMkdvZWJMZEJ6S2U0cEFvOVVldkpWa3QzUHlMU1V0MnRR?oc=5)
-
-2026-03-25 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU2NiMmxFMDhNd2ZzS2l1M05fWC1JTmpGa3hINktSTVJFb0dJQTBMZWZUUzh6OFhmR01UeEQwNlZnNmg2c2Vqdmx6Umo1TlNwUDNILWJoX2NkNjlDYlhiSVhLN3RlVURiSGFrSXVMTU82T0d3aUplN2VjTjhoeXJ4czBQMmo5TGd4blRlVThBeldlcEZHWWV4TnhPZlkwT2tHS2hZYkltOGVXVFlOd1ZrakZ6UHlGTGtta0Z1TVI3cTIzU2ZadmRwTWNMSHlLZG56a0pfMkdvZWJMZEJ6S2U0cEFvOVVldkpWa3QzUHlMU1V0MnRR?oc=5)
 
 ---
 
@@ -172,14 +180,6 @@ permalink: /news/deferasirox/
 
 ---
 
-### [Michael Bishop, microbiologist who shared the Nobel Prize for work on cancer-causing ‘oncogenes’ - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNell3NTRsa0ZtVVZMVWd0NXZmODlHWEE1RkhpaDZyM3l0UFByb3hkd1JvdkJiMVhzNmdUdm1QWjRQU1JlYmRQTnJBVzFOcGE3bGEwc0JHMTA2elpoajdQOTZuYWVQOVowMmRjejVTRGxkOWQ1SGxkUkkwaElmd3Ntcjh0eG44Q3ZZdWJuMUNZODcydy1CVTY5bElXMHBVMWUzT3NTNFJBaw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNell3NTRsa0ZtVVZMVWd0NXZmODlHWEE1RkhpaDZyM3l0UFByb3hkd1JvdkJiMVhzNmdUdm1QWjRQU1JlYmRQTnJBVzFOcGE3bGEwc0JHMTA2elpoajdQOTZuYWVQOVowMmRjejVTRGxkOWQ1SGxkUkkwaElmd3Ntcjh0eG44Q3ZZdWJuMUNZODcydy1CVTY5bElXMHBVMWUzT3NTNFJBaw?oc=5)
-
----
-
 ### [Cancer almost killed me. We’re treating this disease all wrong - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3QtRWo0RXpGdGUtVUQzWnJubVVscTcwS0RxT1ZQQ0RVRE1lSnBBXzVkSjcwWXNHNlFVSkRtNUZHdHhCSk1nQTMwYkhsWjc2ZGs0WFdiUnVCemFiZTdLRTN1dktsZnV2YjRVWVVpSldOX1JoX0VQUmRtOUdjLUE5NXhaQ0ZoZF9mWGRNN0tNVWFBT1NqYjJwMDlJbGI1b2JmdEViZzFpOEg?oc=5)
 
 2026-03-25 <span class="news-indication-tag">cancer</span>
@@ -209,22 +209,6 @@ permalink: /news/deferasirox/
 2026-03-25 <span class="news-indication-tag">Krebs</span>
 
 來源：[Börse Social](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpJaE1nUnpOYVloemlFVllLclh1WjU2bzRxNm9BZC04RHNfWUNxbTJYQjlvWkVWV25OZHNDRkw5SGpyR0k4Z1l2dy1YUlB1RzhDUk9UX0l4Tk55SzYyYXZkNGxsTFlBR2Nkc25ITmozQi1oRkNkaEVoM2lsWUNUY0RwQWY0R0haSWgzS3hlTFRheEFEYUtkaTVJTUU0bTBQTTBhLWdLWUJjUU02cDhXdkZUOFc0NEk?oc=5)
-
----
-
-### [Previously unrecognized immune response could enhance defense against cancer - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHdKODBnNHRpclRKejdTelpPdjZxaE9QZ3R2X01MVjZVZmZfbk4tN3MxeVRjV1pQenFUVzhUY3R3Rm9jVTFxY1M0elZ3LXFZWGlrWmpHbHItd3N0akE3cWpPTnhRYTRmaXNmOEFEWTdLUDBTeTRZRUsycEo4V1RPMmR0MVRuQ1k1blUwMURsLXNYRk56anc?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHdKODBnNHRpclRKejdTelpPdjZxaE9QZ3R2X01MVjZVZmZfbk4tN3MxeVRjV1pQenFUVzhUY3R3Rm9jVTFxY1M0elZ3LXFZWGlrWmpHbHItd3N0akE3cWpPTnhRYTRmaXNmOEFEWTdLUDBTeTRZRUsycEo4V1RPMmR0MVRuQ1k1blUwMURsLXNYRk56anc?oc=5)
-
----
-
-### [Fears prostate cancer screening could be narrowed - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BQeHh6VUF3R252T05DcERQVUJHS3RrTnhhbEFkb08zOFZ3NzJiLXJwNVdzWTllRXgza3ROOExwRktHeUdxNHF1azZHU2oxMmNvRmRuOU4xem8zY0duV0M3MjV3Z252QlVod1Q2aUNiS2dmVGZnQUhTYlVVT1lvRmx2cjNqWGVHeDRBand0X3lhWElEQ0lyc0ZB?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BQeHh6VUF3R252T05DcERQVUJHS3RrTnhhbEFkb08zOFZ3NzJiLXJwNVdzWTllRXgza3ROOExwRktHeUdxNHF1azZHU2oxMmNvRmRuOU4xem8zY0duV0M3MjV3Z252QlVod1Q2aUNiS2dmVGZnQUhTYlVVT1lvRmx2cjNqWGVHeDRBand0X3lhWElEQ0lyc0ZB?oc=5)
 
 ---
 

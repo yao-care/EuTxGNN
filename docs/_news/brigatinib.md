@@ -14,7 +14,7 @@ permalink: /news/brigatinib/
 ---
 
 <p class="key-answer" data-question="Brigatinib 有什麼相關新聞？">
-<strong>Brigatinib</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brigatinib</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/brigatinib/
 <p><a href="{{ '/drugs/brigatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（20 則）
 
-### [El cáncer colorrectal será el tumor más diagnosticado en España en 2026](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRNaG1IbW1OX0t0c0ZJUXZzQVdGN1oxUDY0bUNiYmtGT0lINXdqenh5VFg2cUlkeHJfcDFCTW9LR19QVWYzUHZwYVZ6T21scnNiblNkYWx2azlLMlNDeG9iOUdlWURIaHBsMU5LZ0V2Sjdqd3p6QzBtVF96RW9Ld2VrTUtiTHl5N0xYY1VZVXlDM0xoVnJNalk3czlzUlpvU19Rb3B4MWFLSjItdzd6NVM4YjVBVGp2bTRnSzU3QznSAcYBQVVfeXFMTnJpY0VEQTBkdXlYOGhUeXR0cDJCSzZrdThIcWtFVFEtSlkzYnU4MzlNRVdPbjU1NWlINVdGVUsyUnZCdnFacUdrRjR4aWl0Q1BIZ0J2a1MzWWp0LTBjUUgyTVhzR2lNdXZ3MUNkMXE4cFFQb09nY0drOFhiZlRTcU1qR0VKYnJBZnpMRFJKYjRDdnB1cFhIV1N4T3BLb0FJZG5lNzNfTjBRVjA0OE9pMkNEaFR5dnpBZDJKRkhaTTdBOExiUk1n?oc=5)
+### [El cáncer colorrectal será el tumor más diagnosticado en España en 2026](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDYwbFluOVJwbnluMEl0NHJRamxRWU9VVFpfbVhvQ1g5WmlOeEVCa0hWeFlCVUp3RVQwZGRtTkRCdC1VOFdxamZneUJGek1la1VfWFppZ2k4SXlqN3pJc0RZVjAtUEhkbTM0ZkoyemhudEhqZWtLWDNpZjdGV2xnTFpR?oc=5)
 
 2026-03-26 <span class="news-indication-tag">tumor</span>
 
-來源：[democrata.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRNaG1IbW1OX0t0c0ZJUXZzQVdGN1oxUDY0bUNiYmtGT0lINXdqenh5VFg2cUlkeHJfcDFCTW9LR19QVWYzUHZwYVZ6T21scnNiblNkYWx2azlLMlNDeG9iOUdlWURIaHBsMU5LZ0V2Sjdqd3p6QzBtVF96RW9Ld2VrTUtiTHl5N0xYY1VZVXlDM0xoVnJNalk3czlzUlpvU19Rb3B4MWFLSjItdzd6NVM4YjVBVGp2bTRnSzU3QznSAcYBQVVfeXFMTnJpY0VEQTBkdXlYOGhUeXR0cDJCSzZrdThIcWtFVFEtSlkzYnU4MzlNRVdPbjU1NWlINVdGVUsyUnZCdnFacUdrRjR4aWl0Q1BIZ0J2a1MzWWp0LTBjUUgyTVhzR2lNdXZ3MUNkMXE4cFFQb09nY0drOFhiZlRTcU1qR0VKYnJBZnpMRFJKYjRDdnB1cFhIV1N4T3BLb0FJZG5lNzNfTjBRVjA0OE9pMkNEaFR5dnpBZDJKRkhaTTdBOExiUk1n?oc=5)
+來源：[Comunicae](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDYwbFluOVJwbnluMEl0NHJRamxRWU9VVFpfbVhvQ1g5WmlOeEVCa0hWeFlCVUp3RVQwZGRtTkRCdC1VOFdxamZneUJGek1la1VfWFppZ2k4SXlqN3pJc0RZVjAtUEhkbTM0ZkoyemhudEhqZWtLWDNpZjdGV2xnTFpR?oc=5)
+
+---
+
+### [Descubren el potencial de un compuesto de la granada en el cáncer de mama más letal - La Razón](https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2JiUThIZGpGWVo3ejFXYThValBEdjdpczZQMHc0ZnZnWV9lWXd1TXU5amFLNUpBbUQ1SV9jaVppQ1h4bUVlUkE3LVExdGxqNUdjcGl3Z0hKd1FNY295OFlhallyYklhdDZiZWEtRGd3akR2b3R3TXgxOHpLU25FLXlPWGRKcnRaTFo0VmtwS1YwcUtwNy1zd3N3cWtXc2dhdGkyeUpNS3RpZDE4d3F6RzFBTk10UW1hVnZfa2Z2d2pPekot0gHYAUFVX3lxTFBEaG52Y29rMnBoNUV4MGUxRGxsYW90MnBDTUw5QjFJdi12TmloZ21IWVVYREJraFBtQkFRaUtXc2pxUmFJUXRFT3V6U3hmcW1lLWwteW85eE1ZaEVOam03ay00RnA2U0F3LXljRjB6TU53eVRXOVJTbnFDOGhXVWMyLWhkR0o2NU1TQUtQTDVoVnlLNmNhMF9UTW5vUktPYm50alhOWWQ5aEJSdHZoVzc5UlVTa3JYMzJuUk5wMTRUWEpncmp2QndHM2c3bWl1M0FVNjJrc3J4aA?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2JiUThIZGpGWVo3ejFXYThValBEdjdpczZQMHc0ZnZnWV9lWXd1TXU5amFLNUpBbUQ1SV9jaVppQ1h4bUVlUkE3LVExdGxqNUdjcGl3Z0hKd1FNY295OFlhallyYklhdDZiZWEtRGd3akR2b3R3TXgxOHpLU25FLXlPWGRKcnRaTFo0VmtwS1YwcUtwNy1zd3N3cWtXc2dhdGkyeUpNS3RpZDE4d3F6RzFBTk10UW1hVnZfa2Z2d2pPekot0gHYAUFVX3lxTFBEaG52Y29rMnBoNUV4MGUxRGxsYW90MnBDTUw5QjFJdi12TmloZ21IWVVYREJraFBtQkFRaUtXc2pxUmFJUXRFT3V6U3hmcW1lLWwteW85eE1ZaEVOam03ay00RnA2U0F3LXljRjB6TU53eVRXOVJTbnFDOGhXVWMyLWhkR0o2NU1TQUtQTDVoVnlLNmNhMF9UTW5vUktPYm50alhOWWQ5aEJSdHZoVzc5UlVTa3JYMzJuUk5wMTRUWEpncmp2QndHM2c3bWl1M0FVNjJrc3J4aA?oc=5)
 
 ---
 
@@ -60,11 +68,19 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Krebs: Forscher entdecken, wie Entzündungen den Darm Jahre später anfälliger für Krebs machen](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnJ3SkQxWVNBVHhEZUxycW5GMUF4QURkY3BMbGZ4c1kyck9TOURZRTRrYWsweHJEUlUtM1I3ekJTcGw5SGFTNmVNZkQtWGhYMTNNOWFuY3BNOGtfTkpXVUJMY0ZWcnItVVNPMFdVY0c4TFlqU2IxY0xpZUtxY1U0Q1ZuNWFLdDdiVDZXRWM3WlpaLVZqcjBVU25lZmFYdmo3TzVsWWxKc3dJMWtRNnFiMUh0b01FMm1RWlFDUFpXb3RyODB0M1JydTNmSi1zTWcxZ0pUTnJhZ2RBUWUwWE9Pd0VqZ09pbUJmSF9KUHlFSlBvX1VPclE?oc=5)
+### [Wie Entzündungen den Darm Jahre später anfälliger für Krebs machen können](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnJ3SkQxWVNBVHhEZUxycW5GMUF4QURkY3BMbGZ4c1kyck9TOURZRTRrYWsweHJEUlUtM1I3ekJTcGw5SGFTNmVNZkQtWGhYMTNNOWFuY3BNOGtfTkpXVUJMY0ZWcnItVVNPMFdVY0c4TFlqU2IxY0xpZUtxY1U0Q1ZuNWFLdDdiVDZXRWM3WlpaLVZqcjBVU25lZmFYdmo3TzVsWWxKc3dJMWtRNnFiMUh0b01FMm1RWlFDUFpXb3RyODB0M1JydTNmSi1zTWcxZ0pUTnJhZ2RBUWUwWE9Pd0VqZ09pbUJmSF9KUHlFSlBvX1VPclE?oc=5)
 
 2026-03-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnJ3SkQxWVNBVHhEZUxycW5GMUF4QURkY3BMbGZ4c1kyck9TOURZRTRrYWsweHJEUlUtM1I3ekJTcGw5SGFTNmVNZkQtWGhYMTNNOWFuY3BNOGtfTkpXVUJMY0ZWcnItVVNPMFdVY0c4TFlqU2IxY0xpZUtxY1U0Q1ZuNWFLdDdiVDZXRWM3WlpaLVZqcjBVU25lZmFYdmo3TzVsWWxKc3dJMWtRNnFiMUh0b01FMm1RWlFDUFpXb3RyODB0M1JydTNmSi1zTWcxZ0pUTnJhZ2RBUWUwWE9Pd0VqZ09pbUJmSF9KUHlFSlBvX1VPclE?oc=5)
+
+---
+
+### [People with Alzheimer's gene may lower their risk by eating more meat: Why? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNEYVNlc1p6T2tMZ2tCV09wck0ybGZMUV9Uc2VrMlhLUGRCcEVNTzc0YkdpZVo0dnladU01eVV0UXVpdTIwcklRTVlGa3dGVFRyb21qM3M4TUZoUUVwZWFpYzMyaEZCYlR3UFNlU09pblJBd25EdlJTVTBScGRhUjZKMzlUUGRPSi1HRUhKZ1JtVVZ6ckU3cExNWXlGMk9KVURoejg5ZzVUbW5MbFJJbQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNEYVNlc1p6T2tMZ2tCV09wck0ybGZMUV9Uc2VrMlhLUGRCcEVNTzc0YkdpZVo0dnladU01eVV0UXVpdTIwcklRTVlGa3dGVFRyb21qM3M4TUZoUUVwZWFpYzMyaEZCYlR3UFNlU09pblJBd25EdlJTVTBScGRhUjZKMzlUUGRPSi1HRUhKZ1JtVVZ6ckU3cExNWXlGMk9KVURoejg5ZzVUbW5MbFJJbQ?oc=5)
 
 ---
 
@@ -100,14 +116,6 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Un virus banal tapi sur votre peau : une anomalie indétectable l'a transformé en un cancer redoutable (et les chercheurs n'avaient jamais vu ça)](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU2NiMmxFMDhNd2ZzS2l1M05fWC1JTmpGa3hINktSTVJFb0dJQTBMZWZUUzh6OFhmR01UeEQwNlZnNmg2c2Vqdmx6Umo1TlNwUDNILWJoX2NkNjlDYlhiSVhLN3RlVURiSGFrSXVMTU82T0d3aUplN2VjTjhoeXJ4czBQMmo5TGd4blRlVThBeldlcEZHWWV4TnhPZlkwT2tHS2hZYkltOGVXVFlOd1ZrakZ6UHlGTGtta0Z1TVI3cTIzU2ZadmRwTWNMSHlLZG56a0pfMkdvZWJMZEJ6S2U0cEFvOVVldkpWa3QzUHlMU1V0MnRR?oc=5)
-
-2026-03-25 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU2NiMmxFMDhNd2ZzS2l1M05fWC1JTmpGa3hINktSTVJFb0dJQTBMZWZUUzh6OFhmR01UeEQwNlZnNmg2c2Vqdmx6Umo1TlNwUDNILWJoX2NkNjlDYlhiSVhLN3RlVURiSGFrSXVMTU82T0d3aUplN2VjTjhoeXJ4czBQMmo5TGd4blRlVThBeldlcEZHWWV4TnhPZlkwT2tHS2hZYkltOGVXVFlOd1ZrakZ6UHlGTGtta0Z1TVI3cTIzU2ZadmRwTWNMSHlLZG56a0pfMkdvZWJMZEJ6S2U0cEFvOVVldkpWa3QzUHlMU1V0MnRR?oc=5)
-
----
-
 ### [Common blood pressure drug can boost cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUNYVHhYVDNKTzRHa21HU1FBcDRlb1g3MkRxUUdMOFgtMGptT3NDbDgwNU11S29PMG5xZDVhakVwOTh0UGl1d2NNcHVWZE9yT1dkM1M5ZXdoRGNWejNjQ3d6ZkgzV3VDamx0OE1nN05ZWWYyTVRzSmYzd3RsR2JNWlN3?oc=5)
 
 2026-03-25 <span class="news-indication-tag">cancer</span>
@@ -121,6 +129,14 @@ permalink: /news/brigatinib/
 2026-03-25 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhFUHdOb2V2VlU5eUNZZjhCT3ItbXRBSHE1UE9MeDFYVGpjb0JkOEt1UmV3NlJKM2N1QWR3LV8wVWdhNVlid2drQkp6SFE2WUlSYjVQQ1ZqQ0JmOTdFeDFMMmtoSU1DTEUzTHlrTVY3eUZOeURrV05FSC01STh0TUZNa011Y2xDSnpJV2tOQ29IR1I2b2s1LXFVZVpJZXM5dWtmdVNMaF9Wa3hacTVSeS1NcHZyZTdHc1VjSkluZW5seGx5RUtLZkN4SHA0YUsyOWVrWjNzdFRtT3VMTy04aklJVGFGemFpTld1N2dB0gGCAkFVX3lxTFBWWnkzclkxdHlIYjV1VGtBcWxWYXNTZXNGYlBYclhZZFZrV0ZyUzlPYTdnWFBvNDY0NHFYTnYtemhTZGs2a1hOSWJiajFwOEQzVnI1VEV6UGI4Qnc5d0tJSnBGLTB0N0lmaTZNQ2Noc2Z3dnZRTHoyVGJGclVkY2tJNGw5YnlKSGdBRGtUNUFnaTdqWFFXdzYta2U3SW95Z1VGdmhRRHd0Yk5QZTRibzU4WlQ2RDZhY2o1VFpxbFNyTXc0SWtLQUt0OWs5REZ4SmhfVldXbG4zZEJLSG1CZERvT2hIeGJWRnFrVS1VOTFpR0lTa25RQXljcXpTZmU2NlZBUQ?oc=5)
+
+---
+
+### [The subtle signs of Alzheimer’s disease everyone should be aware of - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
+
+2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
 
 ---
 
@@ -156,22 +172,6 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Michael Bishop, microbiologist who shared the Nobel Prize for work on cancer-causing ‘oncogenes’ - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNell3NTRsa0ZtVVZMVWd0NXZmODlHWEE1RkhpaDZyM3l0UFByb3hkd1JvdkJiMVhzNmdUdm1QWjRQU1JlYmRQTnJBVzFOcGE3bGEwc0JHMTA2elpoajdQOTZuYWVQOVowMmRjejVTRGxkOWQ1SGxkUkkwaElmd3Ntcjh0eG44Q3ZZdWJuMUNZODcydy1CVTY5bElXMHBVMWUzT3NTNFJBaw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNell3NTRsa0ZtVVZMVWd0NXZmODlHWEE1RkhpaDZyM3l0UFByb3hkd1JvdkJiMVhzNmdUdm1QWjRQU1JlYmRQTnJBVzFOcGE3bGEwc0JHMTA2elpoajdQOTZuYWVQOVowMmRjejVTRGxkOWQ1SGxkUkkwaElmd3Ntcjh0eG44Q3ZZdWJuMUNZODcydy1CVTY5bElXMHBVMWUzT3NTNFJBaw?oc=5)
-
----
-
-### [Making home-cooked meals ‘cuts risk of dementia’ - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
-
-2026-03-25 <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnQyNkZmWG5aSm9DSlFlRzMtMkhuXzR6M2lPV3F5Ni1iaGdQR3M1ckxnb2tvNUlBSjJOaV8xbTRVV2ZneTE5bmRZV1FTMnozbGx4SDNoTmprZ0dPcnJ4R3Y5dnBPOHhpVTdiU3dvdVBob1h5T0lLR2x6OGRKQWg4bzRud2Z0SnRPVklfT0JsdU1SOEpTdm1rQU0zY2dWdWtmV0E?oc=5)
-
----
-
 ### [Cancer almost killed me. We’re treating this disease all wrong - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3QtRWo0RXpGdGUtVUQzWnJubVVscTcwS0RxT1ZQQ0RVRE1lSnBBXzVkSjcwWXNHNlFVSkRtNUZHdHhCSk1nQTMwYkhsWjc2ZGs0WFdiUnVCemFiZTdLRTN1dktsZnV2YjRVWVVpSldOX1JoX0VQUmRtOUdjLUE5NXhaQ0ZoZF9mWGRNN0tNVWFBT1NqYjJwMDlJbGI1b2JmdEViZzFpOEg?oc=5)
 
 2026-03-25 <span class="news-indication-tag">cancer</span>
@@ -201,30 +201,6 @@ permalink: /news/brigatinib/
 2026-03-25 <span class="news-indication-tag">Krebs</span>
 
 來源：[Börse Social](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpJaE1nUnpOYVloemlFVllLclh1WjU2bzRxNm9BZC04RHNfWUNxbTJYQjlvWkVWV25OZHNDRkw5SGpyR0k4Z1l2dy1YUlB1RzhDUk9UX0l4Tk55SzYyYXZkNGxsTFlBR2Nkc25ITmozQi1oRkNkaEVoM2lsWUNUY0RwQWY0R0haSWgzS3hlTFRheEFEYUtkaTVJTUU0bTBQTTBhLWdLWUJjUU02cDhXdkZUOFc0NEk?oc=5)
-
----
-
-### [Previously unrecognized immune response could enhance defense against cancer - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHdKODBnNHRpclRKejdTelpPdjZxaE9QZ3R2X01MVjZVZmZfbk4tN3MxeVRjV1pQenFUVzhUY3R3Rm9jVTFxY1M0elZ3LXFZWGlrWmpHbHItd3N0akE3cWpPTnhRYTRmaXNmOEFEWTdLUDBTeTRZRUsycEo4V1RPMmR0MVRuQ1k1blUwMURsLXNYRk56anc?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHdKODBnNHRpclRKejdTelpPdjZxaE9QZ3R2X01MVjZVZmZfbk4tN3MxeVRjV1pQenFUVzhUY3R3Rm9jVTFxY1M0elZ3LXFZWGlrWmpHbHItd3N0akE3cWpPTnhRYTRmaXNmOEFEWTdLUDBTeTRZRUsycEo4V1RPMmR0MVRuQ1k1blUwMURsLXNYRk56anc?oc=5)
-
----
-
-### [Bacterial Infections Accelerate Brain Aging, Dementia Risk - Neuroscience News](https://news.google.com/rss/articles/CBMidEFVX3lxTE1CNzE3cjhvWFZvYl9kazRVenpVUFJZMGYzekZhakw4Rk1MdnJaMzZNeDBYdUJVa0F4MG01cjlsSmRGVkZmbUFkLWhnUVhtZlZYUlpJeExfazcyd0t6Z3JPUEZDNGI2VlJCbGNtUDlEcHpiSTls?oc=5)
-
-2026-03-24 <span class="news-indication-tag">dementia</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMidEFVX3lxTE1CNzE3cjhvWFZvYl9kazRVenpVUFJZMGYzekZhakw4Rk1MdnJaMzZNeDBYdUJVa0F4MG01cjlsSmRGVkZmbUFkLWhnUVhtZlZYUlpJeExfazcyd0t6Z3JPUEZDNGI2VlJCbGNtUDlEcHpiSTls?oc=5)
-
----
-
-### [Fears prostate cancer screening could be narrowed - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BQeHh6VUF3R252T05DcERQVUJHS3RrTnhhbEFkb08zOFZ3NzJiLXJwNVdzWTllRXgza3ROOExwRktHeUdxNHF1azZHU2oxMmNvRmRuOU4xem8zY0duV0M3MjV3Z252QlVod1Q2aUNiS2dmVGZnQUhTYlVVT1lvRmx2cjNqWGVHeDRBand0X3lhWElEQ0lyc0ZB?oc=5)
-
-2026-03-24 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BQeHh6VUF3R252T05DcERQVUJHS3RrTnhhbEFkb08zOFZ3NzJiLXJwNVdzWTllRXgza3ROOExwRktHeUdxNHF1azZHU2oxMmNvRmRuOU4xem8zY0duV0M3MjV3Z252QlVod1Q2aUNiS2dmVGZnQUhTYlVVT1lvRmx2cjNqWGVHeDRBand0X3lhWElEQ0lyc0ZB?oc=5)
 
 ---
 

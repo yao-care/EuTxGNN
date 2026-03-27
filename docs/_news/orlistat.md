@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Adipositas-Behandlung steht vor historischem Umbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObWQyQ0xhck95bXhtOC1YWHNtc1hPdXNxbDVXbG5jNWNsTmR1eGkzNkFFYjlfNzhUTnZQUnhaOXNCSVN6WEhRZjd1dzVBRWRDejNqdXF4Q0drbnNPRk9kRnRWNE4wR1YyUVFWWGhIMV84WTJBSk9VZ0RrdjYxQkRIcXJ1RTRhbkVXM0JUcmVOUENVY3RkSk5WRTM2UHJ6VEc3Q1BiN3dUSzg4aXV2WmFCNw?oc=5)
+
+2026-03-26 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObWQyQ0xhck95bXhtOC1YWHNtc1hPdXNxbDVXbG5jNWNsTmR1eGkzNkFFYjlfNzhUTnZQUnhaOXNCSVN6WEhRZjd1dzVBRWRDejNqdXF4Q0drbnNPRk9kRnRWNE4wR1YyUVFWWGhIMV84WTJBSk9VZ0RrdjYxQkRIcXJ1RTRhbkVXM0JUcmVOUENVY3RkSk5WRTM2UHJ6VEc3Q1BiN3dUSzg4aXV2WmFCNw?oc=5)
+
+---
+
+### [Infarto, la regola degli "11 minuti": come far precipitare il rischio](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+
+2026-03-26 <span class="news-indication-tag">ictus</span>
+
+來源：[liberoquotidiano.it](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+
+---
 
 ### [Obesidad y cáncer: por qué un panel internacional pide ya un ensayo con semaglutida y tirzepatida para prevenir tumores](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
 
@@ -52,35 +68,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Infarto, come ridurre il rischio: le regole salva vita, dalle ore di sonno corrette agli alimenti irrinunciabili nella dieta](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdiUXVVdkZ0OUVwU2xpa29KSTBWR0VZLTlhUnJyLV9OenluZzc4dlpTS1llbHJ3cG02YkNQVHRHV0JkYXpnLVFaV1NqMml3SFdpWV9BRWJTUzdXNHJLaGhnV1JRNXVqclhSM3I5Z0tvM1E4RnZGdU5hZGtpRHNyNU5qMTVINFFOTlBaNzFaQmhmLW1oVFhzM2d30gGMAUFVX3lxTE85TUVzQXJaOHJwbUpXdEhRaXE4U2hkUnVzb2NKR0lRc3JiRzVYVjJTNlkzbGFaZ0dON055ZEJCamNhZTd5amtOQmNUZ3p1bE41VU4yRl9zb1RWSjF1d1FqcldCMW1tODR0Nmgyakhabl9pZ0NNMXZaYXZYUEh2eGdYYldnOTVXRFV2cTBs?oc=5)
-
-2026-03-26 <span class="news-indication-tag">ictus</span>
-
-來源：[leggo.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdiUXVVdkZ0OUVwU2xpa29KSTBWR0VZLTlhUnJyLV9OenluZzc4dlpTS1llbHJ3cG02YkNQVHRHV0JkYXpnLVFaV1NqMml3SFdpWV9BRWJTUzdXNHJLaGhnV1JRNXVqclhSM3I5Z0tvM1E4RnZGdU5hZGtpRHNyNU5qMTVINFFOTlBaNzFaQmhmLW1oVFhzM2d30gGMAUFVX3lxTE85TUVzQXJaOHJwbUpXdEhRaXE4U2hkUnVzb2NKR0lRc3JiRzVYVjJTNlkzbGFaZ0dON055ZEJCamNhZTd5amtOQmNUZ3p1bE41VU4yRl9zb1RWSjF1d1FqcldCMW1tODR0Nmgyakhabl9pZ0NNMXZaYXZYUEh2eGdYYldnOTVXRFV2cTBs?oc=5)
-
----
-
 ### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
----
-
-### [KI und DMP Adipositas revolutionieren die Diätbegleitung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
-
-2026-03-26 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
-
----
-
-### [Menos estrés parental, menos obesidad infantil](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlqX2lEUmRDNlVTN3BzdUdfeFZnTGdKeVAtRkppTXEtZnhCMGRNTHJlT1hqUmxSYmFlM3JIRDZucHZUZlMyNl9QYnNGOUs4WGxxRThERGswY0NFQklWZlJjSWZHYVhRSU5nOGJiN0JOOVFoWTZJNnA1akI1NlhNX3E5cGFOcktxendrcVhXMmRhbU9l?oc=5)
-
-2026-03-25 <span class="news-indication-tag">obesidad</span>
-
-來源：[consumer.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlqX2lEUmRDNlVTN3BzdUdfeFZnTGdKeVAtRkppTXEtZnhCMGRNTHJlT1hqUmxSYmFlM3JIRDZucHZUZlMyNl9QYnNGOUs4WGxxRThERGswY0NFQklWZlJjSWZHYVhRSU5nOGJiN0JOOVFoWTZJNnA1akI1NlhNX3E5cGFOcktxendrcVhXMmRhbU9l?oc=5)
 
 ---
 

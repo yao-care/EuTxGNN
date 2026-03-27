@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Adipositas-Behandlung steht vor historischem Umbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObWQyQ0xhck95bXhtOC1YWHNtc1hPdXNxbDVXbG5jNWNsTmR1eGkzNkFFYjlfNzhUTnZQUnhaOXNCSVN6WEhRZjd1dzVBRWRDejNqdXF4Q0drbnNPRk9kRnRWNE4wR1YyUVFWWGhIMV84WTJBSk9VZ0RrdjYxQkRIcXJ1RTRhbkVXM0JUcmVOUENVY3RkSk5WRTM2UHJ6VEc3Q1BiN3dUSzg4aXV2WmFCNw?oc=5)
+
+2026-03-26
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObWQyQ0xhck95bXhtOC1YWHNtc1hPdXNxbDVXbG5jNWNsTmR1eGkzNkFFYjlfNzhUTnZQUnhaOXNCSVN6WEhRZjd1dzVBRWRDejNqdXF4Q0drbnNPRk9kRnRWNE4wR1YyUVFWWGhIMV84WTJBSk9VZ0RrdjYxQkRIcXJ1RTRhbkVXM0JUcmVOUENVY3RkSk5WRTM2UHJ6VEc3Q1BiN3dUSzg4aXV2WmFCNw?oc=5)
+
+---
 
 ### [Obesidad y cáncer: por qué un panel internacional pide ya un ensayo con semaglutida y tirzepatida para prevenir tumores](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
 
@@ -51,22 +59,6 @@ permalink: /news/obesity/
 2026-03-26
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
----
-
-### [KI und DMP Adipositas revolutionieren die Diätbegleitung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
-
-2026-03-26
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VUQnl4LWpxSFM4R0Jad1V4WFNoakNOb1ZrNWpvM0dmY1pOR29vaFVoSjV1SFpDVi0xbERxT2NfSUt3YjI5dGhjVWdYVi1hb3p6aHhNYlF1cy0zOVJXcDVhWGZmdXg1MWxyaU5jYXpJMVRqcVlJNWc3RUhkM3FKaEh2UmUydFl0aElsa2toTUZickJRbmN1Z0VVU0tXTkxSakplSl9EZG9IZ1I4RXBsYWlrVk9hN3M?oc=5)
-
----
-
-### [Menos estrés parental, menos obesidad infantil](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlqX2lEUmRDNlVTN3BzdUdfeFZnTGdKeVAtRkppTXEtZnhCMGRNTHJlT1hqUmxSYmFlM3JIRDZucHZUZlMyNl9QYnNGOUs4WGxxRThERGswY0NFQklWZlJjSWZHYVhRSU5nOGJiN0JOOVFoWTZJNnA1akI1NlhNX3E5cGFOcktxendrcVhXMmRhbU9l?oc=5)
-
-2026-03-25
-
-來源：[consumer.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlqX2lEUmRDNlVTN3BzdUdfeFZnTGdKeVAtRkppTXEtZnhCMGRNTHJlT1hqUmxSYmFlM3JIRDZucHZUZlMyNl9QYnNGOUs4WGxxRThERGswY0NFQklWZlJjSWZHYVhRSU5nOGJiN0JOOVFoWTZJNnA1akI1NlhNX3E5cGFOcktxendrcVhXMmRhbU9l?oc=5)
 
 ---
 
