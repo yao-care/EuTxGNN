@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（11 則）
 
 ### [Verdacht auf Lokalspezialität: Hepatitis-Ausbruch in beliebter Urlaubsregion – Klinik überlastet - Kölner Stadt](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbE9IWHVTVVg0U3E4X2pOQ01ualo3UFFZUFlPeTExclRTSnpzZy1vbjJOck5UczdnSVAxSHYzcVkzM1RFcVZQTms5OV9uaHcyblVTeHd3QXVmWEFFajkxZFhWMld6OGFiWXBjM3FEbjAzTkNwZWVPc0V1WlliX2EzTXNCd2t0bHlodVZFbWpSNDBIZ3BteGZDOA?oc=5)
 
@@ -60,6 +60,14 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [Epatite A, raffica di controlli dei carabinieri: sequestri in tre pescherie](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFBzSkxpTW1kVkxaV1loUjNydE5tV0MxT3dwSWVweTF1aGVhemxQVHlaMENQbkZmam9MeWRHRlcwYmRlclY5NG9lUU5QU1c5eDhPekZZX0g3OGNUYm9NUEpMTnVPVmtEY1E4Mk5HUGx0UFVrWHNySlhOVDFralJRT0xB?oc=5)
+
+2026-03-27 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[NapoliToday](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFBzSkxpTW1kVkxaV1loUjNydE5tV0MxT3dwSWVweTF1aGVhemxQVHlaMENQbkZmam9MeWRHRlcwYmRlclY5NG9lUU5QU1c5eDhPekZZX0g3OGNUYm9NUEpMTnVPVmtEY1E4Mk5HUGx0UFVrWHNySlhOVDFralJRT0xB?oc=5)
+
+---
+
 ### [Girlguiding group creates new fundraising challenge badge in memory of Tetney dad-of-four - Grimsby Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXcwMHplaEx2TEpacFRPTHQ5UVRjSnp6MFZPcXQ1Vjgyall4TVAxQVh5OVFaRDlrTW4wN3ctSGJpRzg1aUdWcExja0ZFNW5zTHAyd2ViNGJMZHd3by1xLXhxMUxLVEJzUUhORHRSYjJMNW1YSjBUQnQ5RGRDVTljaW1TNFlfMmZjZkRUMlA0bk9SS2Zya0lYcFluc2x1MHpRVWVOOFJB0gGrAUFVX3lxTFA0eXh6bkVrMWw3Vmw0bDlNY1dXa0RzdDZjQzVxTUw2RHJHcHhoRzJpQm9pYVd1MzVDdGFjckZGWjU3MFhfYjBkOHh2cmFrVl81V0NNM0p4bjlYakk5MzlYek1FMTRkaGkyNFc2QkRYZmNHYXAzZ0x0YUJxOE5jQ0FCb3dqRk04aFlLdTFwV2pQcEtkQlFwVWRJb0o4MUstRDU0bzJxZE1SRVVMZw?oc=5)
 
 2026-03-27 <span class="news-indication-tag">MS</span>
@@ -70,33 +78,17 @@ permalink: /news/peginterferon-alfa-2a/
 
 ### [Kingston Park lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
 
-2026-03-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
 
 ---
 
-### [Epatite A tra Campania e Lazio, indagano Procura e Nas di Napoli - la Repubblica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDRYQVo4U1BzZkZRQ1RUSEVSRE5mc2hCX0pZQmJkY2pHdHFlLVFrdmNHMW9Nb2x4b0t5dzFWVWIxbDhicTQxQlJyNE83NTlVRTJ5R1k2MHJ5SS14Wk9KX2FPV0lFV2pPQkx5YlM4N08zQnRuS003VlZkNlYtUzhQX2ppN05zOTFraTluV09CSXNVZE5QWkh0U2RrRmtwOWNBVDdCTjBXN0NyT01KdHNKXzNhWGE1ckVtSkZUSE1iNnhILUFEVWfSAcsBQVVfeXFMTkdjQkNDY1h2TFlWWTB0UmFYdUNDQS1JOWlpZEtVM2R2YXU4aDRhQTl3dC1aVjhWQnJJU2hObnFkRVVsc1U4MVpNazRXQzE0TmdBVTJmWU9mdVFqUWY3ZEVNV1JVSGQzMGUxU1V5cjhOOVJ2bUw4cDF5SEd2Y3M1Rm9BdU8taUhDSE9RWnh6MXVBeURCY3hKSnQyQS1EcWdNODJiR2loOHpYTFlhYWVxR3BzUHoxZnVKYVVTVlFpMzBoRWNGV1JFNGZnMjA?oc=5)
+### [Caso di Epatite A in Toscana in una scuola a Grosseto: i chiarimenti e i consigli di ASL per la profilassi - Il Tirreno](https://news.google.com/rss/articles/CBMisgFBVV95cUxPejBBZTF6amtoTFkySWp4TUpVRnRlbkdpdWl1UXpiYUJpcThGNGFEN1V4VDI4OFo0SWxkSWRVVjN6NlNJNFROVUpQWmtNeFBkOFJQcDB5MEI4bkVUYWpKS3piVWdpODVXNW9rX3F5bUtWQmp3QWpiZUs1eEQyU3ZjNWdFellVYjlRNXQyUGhoTGhDVTdacnRyM3IzYThvS2VjRTdwZHI2RDdkcXlvWEdPekNR?oc=5)
 
 2026-03-26 <span class="news-indication-tag">epatite</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDRYQVo4U1BzZkZRQ1RUSEVSRE5mc2hCX0pZQmJkY2pHdHFlLVFrdmNHMW9Nb2x4b0t5dzFWVWIxbDhicTQxQlJyNE83NTlVRTJ5R1k2MHJ5SS14Wk9KX2FPV0lFV2pPQkx5YlM4N08zQnRuS003VlZkNlYtUzhQX2ppN05zOTFraTluV09CSXNVZE5QWkh0U2RrRmtwOWNBVDdCTjBXN0NyT01KdHNKXzNhWGE1ckVtSkZUSE1iNnhILUFEVWfSAcsBQVVfeXFMTkdjQkNDY1h2TFlWWTB0UmFYdUNDQS1JOWlpZEtVM2R2YXU4aDRhQTl3dC1aVjhWQnJJU2hObnFkRVVsc1U4MVpNazRXQzE0TmdBVTJmWU9mdVFqUWY3ZEVNV1JVSGQzMGUxU1V5cjhOOVJ2bUw4cDF5SEd2Y3M1Rm9BdU8taUhDSE9RWnh6MXVBeURCY3hKSnQyQS1EcWdNODJiR2loOHpYTFlhYWVxR3BzUHoxZnVKYVVTVlFpMzBoRWNGV1JFNGZnMjA?oc=5)
-
----
-
-### [More frequent ejaculations may boost men’s fertility, research suggests - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOZTdhWlpmVnVkMTQ1aEZuZGVwZFNSWjBJU2d0eWtBbmc5ZTBEcDhndEc4cjRwMUp0Y0d3TE9iUjRnTUNRMnk1TDB6b08wVVRiaTJrOWI1dFNMU041bmU3SUIxLVhycmRnX0F3Ql9JYmRSZlo5SkRHNXI4WlB4R2N2NGpOMFRTUURUWnUyRHFmbGFYbUhMbnBhYjMteDNEUQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOZTdhWlpmVnVkMTQ1aEZuZGVwZFNSWjBJU2d0eWtBbmc5ZTBEcDhndEc4cjRwMUp0Y0d3TE9iUjRnTUNRMnk1TDB6b08wVVRiaTJrOWI1dFNMU041bmU3SUIxLVhycmRnX0F3Ql9JYmRSZlo5SkRHNXI4WlB4R2N2NGpOMFRTUURUWnUyRHFmbGFYbUhMbnBhYjMteDNEUQ?oc=5)
-
----
-
-### [Epatite A in una scuola, scatta l’allerta sanitaria: vaccinazioni immediate e famiglie informate](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">epatite</span>
-
-來源：[MaremmaOggi](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMisgFBVV95cUxPejBBZTF6amtoTFkySWp4TUpVRnRlbkdpdWl1UXpiYUJpcThGNGFEN1V4VDI4OFo0SWxkSWRVVjN6NlNJNFROVUpQWmtNeFBkOFJQcDB5MEI4bkVUYWpKS3piVWdpODVXNW9rX3F5bUtWQmp3QWpiZUs1eEQyU3ZjNWdFellVYjlRNXQyUGhoTGhDVTdacnRyM3IzYThvS2VjRTdwZHI2RDdkcXlvWEdPekNR?oc=5)
 
 ---
 
@@ -108,14 +100,6 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Major new health warning for anyone going on holiday - full list of countries - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
-
-2026-03-26 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
-
----
-
 ### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
 
 2026-03-26 <span class="news-indication-tag">MS</span>
@@ -124,11 +108,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### ["Es vital mantener actualizado el calendario vacunal para evitar la propagación del sarampión"](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
+### [Repunte de sarampión: “Es vital mantener actualizado el calendario vacunal para evitar la propagación”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
 
 2026-03-26 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Comunicae](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
 
 ---
 
@@ -137,30 +121,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
----
-
-### [La OMS insta a acelerar el diagnóstico de tuberculosis con nuevas pruebas rápidas](https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3h4VG5lc0xheHF2d1Vxem1JUnhJWlBMYjU5cUN5VHhWQXFjc2lqaWQ2NlQyTlJpYWZhWnhybXBhQWt1eHE2dm1zQU1fcVJDZkZtSlJtUHJlcEZVWnZrX2lDOVV6eXNiXzhqejlhY1EySUM4UmFoTnR6X1d4UUNmZ3dCSzV1SW9GdUYtU0dSM0x3V3lkbjVteldCYjNOQ1U1M09BdEhnNHI2MWhyU040?oc=5)
-
-2026-03-25 <span class="news-indication-tag">MS</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3h4VG5lc0xheHF2d1Vxem1JUnhJWlBMYjU5cUN5VHhWQXFjc2lqaWQ2NlQyTlJpYWZhWnhybXBhQWt1eHE2dm1zQU1fcVJDZkZtSlJtUHJlcEZVWnZrX2lDOVV6eXNiXzhqejlhY1EySUM4UmFoTnR6X1d4UUNmZ3dCSzV1SW9GdUYtU0dSM0x3V3lkbjVteldCYjNOQ1U1M09BdEhnNHI2MWhyU040?oc=5)
-
----
-
-### [Five Habits A GP Says Separates People Who Age Well From Those Who Don't - HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
-
----
-
-### [Junger Paderborner kämpft gegen MS – spezielle Therapie macht ihm Hoffnung - Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
-
-2026-03-25 <span class="news-indication-tag">MS</span>
-
-來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
 
 ---
 

@@ -44,11 +44,11 @@ permalink: /news/rivaroxaban/
 
 ## 相關新聞（1 則）
 
-### [Rappel de 95 000 boîtes de médicaments contaminés : "Contactez les patients par tous les moyens" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDhwRFhkWm5XdXpuUkh3WjgtMkRFMXR1d0ZyaUVXSGtMbHMwNjQ4SFZIcGZfUkpPakNRN1lKcnNaZy0tU0R4M0NfYW5WN0tGZFl5R3p1Rkt5dEpzNzVKdGVTOU00X29hVmdaajdhU3FQbkdHOE1mZmJOUlFDNVhJNkU3cFNKQzRONk9lZFFQeXFMVmRJS3lIMnFIWTU4VDBCS3I5WmM3RVQ4T245MUdjVHhmcV90U2lxbnZDODRtd2ZkOUlFZGlR?oc=5)
+### [Rappel d’un médicament contaminé : voici les lots à vérifier dès maintenant](https://news.google.com/rss/articles/CBMic0FVX3lxTE5JOEFGdGhXU2Zqd2ZQTzVnbTFEU1RKcTRZZEhjV3BPaDZDRWhXQThldFdIaXIwYS1ac1JrcTItUHNFV2o4RXVDem50bDNmdGFDdExMUDNGYUY4QlR2Z2M3eDl6UkxidHRfaVlPQjgtcm81WFk?oc=5)
 
-2026-03-26 <span class="news-drug-tag">Rivaroxaban</span>
+2026-03-27 <span class="news-drug-tag">Rivaroxaban</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDhwRFhkWm5XdXpuUkh3WjgtMkRFMXR1d0ZyaUVXSGtMbHMwNjQ4SFZIcGZfUkpPakNRN1lKcnNaZy0tU0R4M0NfYW5WN0tGZFl5R3p1Rkt5dEpzNzVKdGVTOU00X29hVmdaajdhU3FQbkdHOE1mZmJOUlFDNVhJNkU3cFNKQzRONk9lZFFQeXFMVmRJS3lIMnFIWTU4VDBCS3I5WmM3RVQ4T245MUdjVHhmcV90U2lxbnZDODRtd2ZkOUlFZGlR?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMic0FVX3lxTE5JOEFGdGhXU2Zqd2ZQTzVnbTFEU1RKcTRZZEhjV3BPaDZDRWhXQThldFdIaXIwYS1ac1JrcTItUHNFV2o4RXVDem50bDNmdGFDdExMUDNGYUY4QlR2Z2M3eDl6UkxidHRfaVlPQjgtcm81WFk?oc=5)
 
 ---
 

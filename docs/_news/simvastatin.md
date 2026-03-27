@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Dormir 11 minutes de plus réduit le risque de crise cardiaque : à condition d'ajouter ce réflexe - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VDQ1pRT0lVMUhxS3pCZ1RyVklMblNVZDE3dHF0NFVJRk1RdjRCaUw4N3VrZlNWelpaM0x3dzJQRTdaTnlKdlNCczFNQmpVT3VfMFY1OXBWRFVrU1lHcklTemFpUl8zUHBTd3RNdFdzbjA1NGNzNmZPWks4dm92bWw2bjh6Y2t3aHlYNmhUb3dHbUMwNzFreWpVT2VZdE5qTk5jYVhjQmhHQnNjR1BhUW5ZcWRtRVFRUU1ReG83dnk?oc=5)
-
-2026-03-27 <span class="news-indication-tag">AVC</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VDQ1pRT0lVMUhxS3pCZ1RyVklMblNVZDE3dHF0NFVJRk1RdjRCaUw4N3VrZlNWelpaM0x3dzJQRTdaTnlKdlNCczFNQmpVT3VfMFY1OXBWRFVrU1lHcklTemFpUl8zUHBTd3RNdFdzbjA1NGNzNmZPWks4dm92bWw2bjh6Y2t3aHlYNmhUb3dHbUMwNzFreWpVT2VZdE5qTk5jYVhjQmhHQnNjR1BhUW5ZcWRtRVFRUU1ReG83dnk?oc=5)
-
----
-
-### [Kingston Park lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
-
-2026-03-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
-
----
-
-### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+### [Infarto, la regola degli "11 minuti": come far precipitare il rischio](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">ictus</span>
 
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+來源：[liberoquotidiano.it](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+
+---
+
+### [Ictus, anche pennichelle lunghe e stress cronico tra spie precoci - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU9udmExTmc0S09FUEIxa0d3eEFEal9obW4xbzNIQUREenBSWTZpWmszd3RMdHBBdDJhRzlkblVDc3ZnNHBiRjVFUU9lNVBuVURNTE1rbnZsbE5oQnBtcU5CVFFkTXAxMnVOck9qazNLdjVrSWtDMmhNX09Mb0JCaWo2MnJtQUg4bmlzdjdQQXNsR2RrcjBtTG0zcTY?oc=5)
+
+2026-03-26 <span class="news-indication-tag">ictus</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU9udmExTmc0S09FUEIxa0d3eEFEal9obW4xbzNIQUREenBSWTZpWmszd3RMdHBBdDJhRzlkblVDc3ZnNHBiRjVFUU9lNVBuVURNTE1rbnZsbE5oQnBtcU5CVFFkTXAxMnVOck9qazNLdjVrSWtDMmhNX09Mb0JCaWo2MnJtQUg4bmlzdjdQQXNsR2RrcjBtTG0zcTY?oc=5)
 
 ---
 
