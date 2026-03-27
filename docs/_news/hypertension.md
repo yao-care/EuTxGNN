@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Studie: Um diese Uhrzeit solltest du am besten Sport machen](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
 
 2026-03-25
 
 來源：[Blick](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
+
+---
+
+### [L’huile d’olive est-elle si bonne que ça pour la santé ? - Le HuffPost](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWQtMVFPX3kwal9hWGFrbFpNaUtSanQ0WGh0WU1UeExfWS03NFBzZXNLRFhqb3VfWFc2eHJYeDNhZmhhNS1lcTc1SVBhbTB3MWtaQ2dNWldmSmxQeW1VM3labnZUcGxCZHl0VEZoQ0tQUDk3NlNCV01lNzV5RkhPYko0aVRkclIzanM4ckhhdS0xd1FJbTRCd2I4aUh3Wm9tN1lpVjNFel9OenVEUUE?oc=5)
+
+2026-03-25
+
+來源：[Le HuffPost](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWQtMVFPX3kwal9hWGFrbFpNaUtSanQ0WGh0WU1UeExfWS03NFBzZXNLRFhqb3VfWFc2eHJYeDNhZmhhNS1lcTc1SVBhbTB3MWtaQ2dNWldmSmxQeW1VM3labnZUcGxCZHl0VEZoQ0tQUDk3NlNCV01lNzV5RkhPYko0aVRkclIzanM4ckhhdS0xd1FJbTRCd2I4aUh3Wm9tN1lpVjNFel9OenVEUUE?oc=5)
 
 ---
 

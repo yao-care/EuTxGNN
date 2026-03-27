@@ -14,7 +14,7 @@ permalink: /news/dalbavancin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dalbavancin Hydrochloride 有什麼相關新聞？">
-<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dalbavancin-hydrochloride/
 <p><a href="{{ '/drugs/dalbavancin-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Love fruit smoothies and kimchi? They may not be as healthy as you think - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHkwcnJxT2p6eE5TZ1EtZk5LYlNHaDFYcHZWSmotSlp5TjJsaEl3ODViRWY1cVVYVzdDRm9VZnhqQno4c2I5UjJhTEZWRHNPYm16MmJQdlgxVk9aS1VCcU1DNkFfV3N1cVR4WE4yb0ZZTlRjOXpHRGNsUGNWQUtjN0VCVHV0UmlIZ2pSZVNQLVRCVDFQV0pySUljSQ?oc=5)
+
+2026-03-27 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHkwcnJxT2p6eE5TZ1EtZk5LYlNHaDFYcHZWSmotSlp5TjJsaEl3ODViRWY1cVVYVzdDRm9VZnhqQno4c2I5UjJhTEZWRHNPYm16MmJQdlgxVk9aS1VCcU1DNkFfV3N1cVR4WE4yb0ZZTlRjOXpHRGNsUGNWQUtjN0VCVHV0UmlIZ2pSZVNQLVRCVDFQV0pySUljSQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

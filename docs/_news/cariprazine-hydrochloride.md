@@ -44,27 +44,51 @@ permalink: /news/cariprazine-hydrochloride/
 
 ## 相關新聞（12 則）
 
+### [So zeigt sich ein Vitamin-D-Mangel: Diese Symptome müssen Sie erkennen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzFoRENHNnNGMDVSa2FITUczMG1hbjVyOG92Y20xdGVUb1JBZWJFbXRfRFJVTVMtUlZXbHo1OUV0cThlZmRnWng0ZHRqRll1NllvZXZ3YlphS3gxVjRrZXVvTGowaVo5SXNiTjB6TVlIcWdXcFNwalo5SU8zemloaVc5dDVXamRBTndZNTE4dFk5WUMtZk04SWtaSmFyZ1RqNFpHQjBSdU1mZ1RqcHBEMnIzaWZ2akQwb3UtUVBkdzRhZw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzFoRENHNnNGMDVSa2FITUczMG1hbjVyOG92Y20xdGVUb1JBZWJFbXRfRFJVTVMtUlZXbHo1OUV0cThlZmRnWng0ZHRqRll1NllvZXZ3YlphS3gxVjRrZXVvTGowaVo5SXNiTjB6TVlIcWdXcFNwalo5SU8zemloaVc5dDVXamRBTndZNTE4dFk5WUMtZk04SWtaSmFyZ1RqNFpHQjBSdU1mZ1RqcHBEMnIzaWZ2akQwb3UtUVBkdzRhZw?oc=5)
+
+---
+
+### [Girlguiding group creates new fundraising challenge badge in memory of Tetney dad-of-four - Grimsby Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXcwMHplaEx2TEpacFRPTHQ5UVRjSnp6MFZPcXQ1Vjgyall4TVAxQVh5OVFaRDlrTW4wN3ctSGJpRzg1aUdWcExja0ZFNW5zTHAyd2ViNGJMZHd3by1xLXhxMUxLVEJzUUhORHRSYjJMNW1YSjBUQnQ5RGRDVTljaW1TNFlfMmZjZkRUMlA0bk9SS2Zya0lYcFluc2x1MHpRVWVOOFJB0gGrAUFVX3lxTFA0eXh6bkVrMWw3Vmw0bDlNY1dXa0RzdDZjQzVxTUw2RHJHcHhoRzJpQm9pYVd1MzVDdGFjckZGWjU3MFhfYjBkOHh2cmFrVl81V0NNM0p4bjlYakk5MzlYek1FMTRkaGkyNFc2QkRYZmNHYXAzZ0x0YUJxOE5jQ0FCb3dqRk04aFlLdTFwV2pQcEtkQlFwVWRJb0o4MUstRDU0bzJxZE1SRVVMZw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span>
+
+來源：[Grimsby Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXcwMHplaEx2TEpacFRPTHQ5UVRjSnp6MFZPcXQ1Vjgyall4TVAxQVh5OVFaRDlrTW4wN3ctSGJpRzg1aUdWcExja0ZFNW5zTHAyd2ViNGJMZHd3by1xLXhxMUxLVEJzUUhORHRSYjJMNW1YSjBUQnQ5RGRDVTljaW1TNFlfMmZjZkRUMlA0bk9SS2Zya0lYcFluc2x1MHpRVWVOOFJB0gGrAUFVX3lxTFA0eXh6bkVrMWw3Vmw0bDlNY1dXa0RzdDZjQzVxTUw2RHJHcHhoRzJpQm9pYVd1MzVDdGFjckZGWjU3MFhfYjBkOHh2cmFrVl81V0NNM0p4bjlYakk5MzlYek1FMTRkaGkyNFc2QkRYZmNHYXAzZ0x0YUJxOE5jQ0FCb3dqRk04aFlLdTFwV2pQcEtkQlFwVWRJb0o4MUstRDU0bzJxZE1SRVVMZw?oc=5)
+
+---
+
 ### [Kingston Park lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
 
-2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
 
 ---
 
-### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+### [More frequent ejaculations may boost men’s fertility, research suggests - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOZTdhWlpmVnVkMTQ1aEZuZGVwZFNSWjBJU2d0eWtBbmc5ZTBEcDhndEc4cjRwMUp0Y0d3TE9iUjRnTUNRMnk1TDB6b08wVVRiaTJrOWI1dFNMU041bmU3SUIxLVhycmRnX0F3Ql9JYmRSZlo5SkRHNXI4WlB4R2N2NGpOMFRTUURUWnUyRHFmbGFYbUhMbnBhYjMteDNEUQ?oc=5)
 
-2026-03-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+2026-03-26 <span class="news-indication-tag">MS</span>
 
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOZTdhWlpmVnVkMTQ1aEZuZGVwZFNSWjBJU2d0eWtBbmc5ZTBEcDhndEc4cjRwMUp0Y0d3TE9iUjRnTUNRMnk1TDB6b08wVVRiaTJrOWI1dFNMU041bmU3SUIxLVhycmRnX0F3Ql9JYmRSZlo5SkRHNXI4WlB4R2N2NGpOMFRTUURUWnUyRHFmbGFYbUhMbnBhYjMteDNEUQ?oc=5)
 
 ---
 
-### [Residents left 'shocked' and 'upset' after 'beautiful' Sherwood tree felled amid safety concerns - Nottinghamshire Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm11RnpvekxyaXEwM00tUG5naDBKUzVUaFVvY0lqa21sWXJEZ0JWM0JmRktZVVJMbzkyZ2JSZm5JNll0eG1xNElBVjdHT3lzWkNZODJ0aVlpcWItNmhEb0I4SFRucWQwNm9ab0g5MUFWU0FoaWVRLWw1UzZwSmNvY0ZORVBDUmtBWUpPQ2ZJVVFFWVVMMzk0bTRNTQ?oc=5)
+### [Italy confirms first European human H9N2 avian flu case](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHJPVktLa3JlTEhDdEE5eUlucXhQWEY3UFhjZ19OaE9sRlVVRVpxNmZyRnppNXU1WjEwQmNLTFh5V1RTR0s3T09PRmlqZW8yYi1PRTFKeGtBYTJyTHpHNmdfb1ZvNVo2QWJLN0lDZTJmOXUxeVdjZVZGaGxtbW9pd1FZOTBJZTFjd2wxZkx6MnFJMEZrdnlGc0hZcEpVTk0?oc=5)
 
-2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-26 <span class="news-indication-tag">MS</span>
 
-來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm11RnpvekxyaXEwM00tUG5naDBKUzVUaFVvY0lqa21sWXJEZ0JWM0JmRktZVVJMbzkyZ2JSZm5JNll0eG1xNElBVjdHT3lzWkNZODJ0aVlpcWItNmhEb0I4SFRucWQwNm9ab0g5MUFWU0FoaWVRLWw1UzZwSmNvY0ZORVBDUmtBWUpPQ2ZJVVFFWVVMMzk0bTRNTQ?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHJPVktLa3JlTEhDdEE5eUlucXhQWEY3UFhjZ19OaE9sRlVVRVpxNmZyRnppNXU1WjEwQmNLTFh5V1RTR0s3T09PRmlqZW8yYi1PRTFKeGtBYTJyTHpHNmdfb1ZvNVo2QWJLN0lDZTJmOXUxeVdjZVZGaGxtbW9pd1FZOTBJZTFjd2wxZkx6MnFJMEZrdnlGc0hZcEpVTk0?oc=5)
+
+---
+
+### [Major new health warning for anyone going on holiday - full list of countries - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
+
+2026-03-26 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
 
 ---
 
@@ -73,14 +97,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-03-26 <span class="news-indication-tag">MS</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
-
----
-
-### [Contaminated blood scandal victim says memorial 'means so much'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiQUplSFlMN0pWQ1BzbEFNOTI5ZmJDUUdURXhlWl8weWZhN1h3ZUFBWElfeEU3dERtU203UFZGMEI2NnhXVk5YSjJzZjJUUFNHOXctQ0JSQ0d1SWY3?oc=5)
-
-2026-03-26 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiQUplSFlMN0pWQ1BzbEFNOTI5ZmJDUUdURXhlWl8weWZhN1h3ZUFBWElfeEU3dERtU203UFZGMEI2NnhXVk5YSjJzZjJUUFNHOXctQ0JSQ0d1SWY3?oc=5)
 
 ---
 
@@ -100,14 +116,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Teen girl dies of meningitis in Spanish hols hotspot before Easter getaways - The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTNZS0pOalpiY2YtZndLWHpKZmFTcVRRZk5IbWk5djlBLWlxT3ZZalZQalRZOTBiRDV4QzFnNUM5VWlaQmJrb1AzUkwzTGM3OXQzZDZwUldrZktCY2U5LTRXdXV2NGtKU1IyQjY4SU9tc1ZLQS1kN25jQ1J6YTJHMThBVnJCRm1lQkNRWnZtVzBZcnNqd3NtWnQ5eWtCMmM0bmt3?oc=5)
-
-2026-03-25 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTNZS0pOalpiY2YtZndLWHpKZmFTcVRRZk5IbWk5djlBLWlxT3ZZalZQalRZOTBiRDV4QzFnNUM5VWlaQmJrb1AzUkwzTGM3OXQzZDZwUldrZktCY2U5LTRXdXV2NGtKU1IyQjY4SU9tc1ZLQS1kN25jQ1J6YTJHMThBVnJCRm1lQkNRWnZtVzBZcnNqd3NtWnQ5eWtCMmM0bmt3?oc=5)
-
----
-
 ### [Five Habits A GP Says Separates People Who Age Well From Those Who Don't - HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -121,14 +129,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-03-25 <span class="news-indication-tag">MS</span>
 
 來源：[Neue Westfälische](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXVhaTczM3RJdWk0clRsN3ZoQVo1QkZIN1dpM0ZzVzRiR1RQTE52RWhPQ015NFVlWTNoRWNCajR2WWc2VmF3X1ptTUc2bUV6amJENjlXWTI1VkRsM1ZnQXZYS0xacTlHZEVqY3h2MGFyb2l4cXBkV3g2UHFFMTdvQzJ4MlVhZmJJaVdlWHNhdzhpQ2FodDZKTjZkQUlGZ01EbDlCYTh5Ml80Wkd2LTlMSEt1eFgwU25JYlZhWlBFTlk5NnNZLUNvYkIzWVlGaWxzN0pF?oc=5)
-
----
-
-### [The subtle signs of Alzheimer’s disease everyone should be aware of - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
-
-2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
 
 ---
 

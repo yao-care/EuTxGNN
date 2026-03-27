@@ -44,6 +44,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（7 則）
 
+### [Dormir 11 minutes de plus réduit le risque de crise cardiaque : à condition d'ajouter ce réflexe - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VDQ1pRT0lVMUhxS3pCZ1RyVklMblNVZDE3dHF0NFVJRk1RdjRCaUw4N3VrZlNWelpaM0x3dzJQRTdaTnlKdlNCczFNQmpVT3VfMFY1OXBWRFVrU1lHcklTemFpUl8zUHBTd3RNdFdzbjA1NGNzNmZPWks4dm92bWw2bjh6Y2t3aHlYNmhUb3dHbUMwNzFreWpVT2VZdE5qTk5jYVhjQmhHQnNjR1BhUW5ZcWRtRVFRUU1ReG83dnk?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AVC</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VDQ1pRT0lVMUhxS3pCZ1RyVklMblNVZDE3dHF0NFVJRk1RdjRCaUw4N3VrZlNWelpaM0x3dzJQRTdaTnlKdlNCczFNQmpVT3VfMFY1OXBWRFVrU1lHcklTemFpUl8zUHBTd3RNdFdzbjA1NGNzNmZPWks4dm92bWw2bjh6Y2t3aHlYNmhUb3dHbUMwNzFreWpVT2VZdE5qTk5jYVhjQmhHQnNjR1BhUW5ZcWRtRVFRUU1ReG83dnk?oc=5)
+
+---
+
 ### [Adipositas-Behandlung steht vor historischem Umbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObWQyQ0xhck95bXhtOC1YWHNtc1hPdXNxbDVXbG5jNWNsTmR1eGkzNkFFYjlfNzhUTnZQUnhaOXNCSVN6WEhRZjd1dzVBRWRDejNqdXF4Q0drbnNPRk9kRnRWNE4wR1YyUVFWWGhIMV84WTJBSk9VZ0RrdjYxQkRIcXJ1RTRhbkVXM0JUcmVOUENVY3RkSk5WRTM2UHJ6VEc3Q1BiN3dUSzg4aXV2WmFCNw?oc=5)
 
 2026-03-26 <span class="news-indication-tag">Adipositas</span>
@@ -52,7 +60,7 @@ permalink: /news/orlistat/
 
 ---
 
-### [Farmaci anti-obesità: efficaci, ma non alla portata di tutti. Ma presto potrebbe cambiare - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
+### [Farmaci anti-obesità: efficaci, ma non alla portata di tutti. Presto potrebbe cambiare - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">obesità</span>
 
@@ -60,9 +68,17 @@ permalink: /news/orlistat/
 
 ---
 
+### [Kingston Park lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
+
+2026-03-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
+
+---
+
 ### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
-2026-03-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+2026-03-26 <span class="news-indication-tag">ictus</span>
 
 來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
@@ -81,22 +97,6 @@ permalink: /news/orlistat/
 2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
----
-
-### [Menos estrés parental, menos obesidad infantil](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlqX2lEUmRDNlVTN3BzdUdfeFZnTGdKeVAtRkppTXEtZnhCMGRNTHJlT1hqUmxSYmFlM3JIRDZucHZUZlMyNl9QYnNGOUs4WGxxRThERGswY0NFQklWZlJjSWZHYVhRSU5nOGJiN0JOOVFoWTZJNnA1akI1NlhNX3E5cGFOcktxendrcVhXMmRhbU9l?oc=5)
-
-2026-03-25 <span class="news-indication-tag">obesidad</span>
-
-來源：[consumer.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHlqX2lEUmRDNlVTN3BzdUdfeFZnTGdKeVAtRkppTXEtZnhCMGRNTHJlT1hqUmxSYmFlM3JIRDZucHZUZlMyNl9QYnNGOUs4WGxxRThERGswY0NFQklWZlJjSWZHYVhRSU5nOGJiN0JOOVFoWTZJNnA1akI1NlhNX3E5cGFOcktxendrcVhXMmRhbU9l?oc=5)
-
----
-
-### [« Comment peut-on penser que ce n’est pas une maladie ? » : la détresse de Laetitia, privée de son médicament anti-obésité - Le Parisien](https://news.google.com/rss/articles/CBMinwJBVV95cUxOUW1CckY2MVNWR2RMSG9Cb0tiV2lSTVpKeXNBQjczUHNCQWFDQVNpRk1rZE5iWGlOSnJfY3pLanRVMjZibGFRSnl1VEVqclpGTVEyd09RWWEzMm9YVkxCLThBNFR2bUQ4cDlOOTFYUWdSWG9WamhKZ2xVSnIyRVRlUGw3ekh4TEV5Um5jaU5DaFJETmtlN1lLU0R3cUQ4eThKMlQySk5ObE1wX0cxTGxOUk8ta2pRajRuaXpsZzNnT3RkWUNKTUFuQ1hkd1Q0eks0OV9mdlpmb3oyRTlfb2dNcTlUZXhVYm1lcVlwSjR0emxwUjJjV2NRaTZzR2hNSWtEdnV3eWpnVHNJSGhGZi1jLWliY1RQaEhObmhJb1ROcw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">obésité</span>
-
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMinwJBVV95cUxOUW1CckY2MVNWR2RMSG9Cb0tiV2lSTVpKeXNBQjczUHNCQWFDQVNpRk1rZE5iWGlOSnJfY3pLanRVMjZibGFRSnl1VEVqclpGTVEyd09RWWEzMm9YVkxCLThBNFR2bUQ4cDlOOTFYUWdSWG9WamhKZ2xVSnIyRVRlUGw3ekh4TEV5Um5jaU5DaFJETmtlN1lLU0R3cUQ4eThKMlQySk5ObE1wX0cxTGxOUk8ta2pRajRuaXpsZzNnT3RkWUNKTUFuQ1hkd1Q0eks0OV9mdlpmb3oyRTlfb2dNcTlUZXhVYm1lcVlwSjR0emxwUjJjV2NRaTZzR2hNSWtEdnV3eWpnVHNJSGhGZi1jLWliY1RQaEhObmhJb1ROcw?oc=5)
 
 ---
 

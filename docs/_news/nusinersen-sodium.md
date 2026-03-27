@@ -44,11 +44,11 @@ permalink: /news/nusinersen-sodium/
 
 ## 相關新聞（1 則）
 
-### [Osakidetza diagnostica en 2025 más de 2.000 nuevos casos de epilepsia, enfermedad con la que conviven casi 28.000 vascos - Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ3NiNTdSbWdxOXhFMzB0YThpVlJKVGdMQVBwdzlDaXNXWlhHMUxqVjhvWXVuZjR2Y0RxTVJ1TDJEc2hIU2RfYUhZaDRDbVNvbFZpUURjakhKSC1tODBVNWg0LTNkWEJ6aE5MbWVoWldrRkk5NjdJYjdJWTFhS3FTMllzVW9KY2FyNTltM2RPVTk3dWNJT0pIQkl4WUFUcDFGbE95U1Z3YzBQN29vZjNrOG1uRUxQRTFXZXU0M291UlBXRzlaMFlEOVl0b000QWRfaW5vZDI5Y0dDV1hsd1JrRDdvOGF6M0JIRElYeklMZlU4Zw?oc=5)
+### [Three children in same family secure €3.6m after settling cases over epilepsy drug - The Irish Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RpN3NzSll3bC1zajgyTko4QmFTVkFNbFNISjNJR1UyVjEzRDZqVWh4LUQ4bHlqWFBLTEZxT21aQ0NvVWNuMDY0dDRqZ3FFMTNJOGNvUEltTVdmTUdKUlBOZF84N3l5R0VreThDMXdoQU5BNnNva01PRHVDQWxnYXplTThJcFpVdTNDS3k1SGpZV1VhOFhPeTBMZ2YyejZHTzlLcFFoZGFQM3VMNlptdG8xU0JVVFBDYUZ2Z0ppVzczVGNUSWp4WEI3MUJUR0VUQ0E?oc=5)
 
-2026-03-25 <span class="news-indication-tag">epilepsia</span>
+2026-03-26 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
 
-來源：[Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ3NiNTdSbWdxOXhFMzB0YThpVlJKVGdMQVBwdzlDaXNXWlhHMUxqVjhvWXVuZjR2Y0RxTVJ1TDJEc2hIU2RfYUhZaDRDbVNvbFZpUURjakhKSC1tODBVNWg0LTNkWEJ6aE5MbWVoWldrRkk5NjdJYjdJWTFhS3FTMllzVW9KY2FyNTltM2RPVTk3dWNJT0pIQkl4WUFUcDFGbE95U1Z3YzBQN29vZjNrOG1uRUxQRTFXZXU0M291UlBXRzlaMFlEOVl0b000QWRfaW5vZDI5Y0dDV1hsd1JrRDdvOGF6M0JIRElYeklMZlU4Zw?oc=5)
+來源：[The Irish Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RpN3NzSll3bC1zajgyTko4QmFTVkFNbFNISjNJR1UyVjEzRDZqVWh4LUQ4bHlqWFBLTEZxT21aQ0NvVWNuMDY0dDRqZ3FFMTNJOGNvUEltTVdmTUdKUlBOZF84N3l5R0VreThDMXdoQU5BNnNva01PRHVDQWxnYXplTThJcFpVdTNDS3k1SGpZV1VhOFhPeTBMZ2YyejZHTzlLcFFoZGFQM3VMNlptdG8xU0JVVFBDYUZ2Z0ppVzczVGNUSWp4WEI3MUJUR0VUQ0E?oc=5)
 
 ---
 

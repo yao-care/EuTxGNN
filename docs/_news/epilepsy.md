@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epilepsia（epilepsy） 相關新聞"
+title: "epilepsy 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epilepsia（epilepsy） 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
+description: "epilepsy 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
-# epilepsia（epilepsy） 相關新聞
+# epilepsy 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epilepsia（epilepsy） 有什麼相關新聞？">
-<strong>epilepsia（epilepsy）</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
+<p class="key-answer" data-question="epilepsy 有什麼相關新聞？">
+<strong>epilepsy</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epilepsia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「epilepsy」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -40,11 +40,11 @@ permalink: /news/epilepsy/
 
 ## 相關新聞（1 則）
 
-### [Osakidetza diagnostica en 2025 más de 2.000 nuevos casos de epilepsia, enfermedad con la que conviven casi 28.000 vascos - Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ3NiNTdSbWdxOXhFMzB0YThpVlJKVGdMQVBwdzlDaXNXWlhHMUxqVjhvWXVuZjR2Y0RxTVJ1TDJEc2hIU2RfYUhZaDRDbVNvbFZpUURjakhKSC1tODBVNWg0LTNkWEJ6aE5MbWVoWldrRkk5NjdJYjdJWTFhS3FTMllzVW9KY2FyNTltM2RPVTk3dWNJT0pIQkl4WUFUcDFGbE95U1Z3YzBQN29vZjNrOG1uRUxQRTFXZXU0M291UlBXRzlaMFlEOVl0b000QWRfaW5vZDI5Y0dDV1hsd1JrRDdvOGF6M0JIRElYeklMZlU4Zw?oc=5)
+### [Three children in same family secure €3.6m after settling cases over epilepsy drug - The Irish Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RpN3NzSll3bC1zajgyTko4QmFTVkFNbFNISjNJR1UyVjEzRDZqVWh4LUQ4bHlqWFBLTEZxT21aQ0NvVWNuMDY0dDRqZ3FFMTNJOGNvUEltTVdmTUdKUlBOZF84N3l5R0VreThDMXdoQU5BNnNva01PRHVDQWxnYXplTThJcFpVdTNDS3k1SGpZV1VhOFhPeTBMZ2YyejZHTzlLcFFoZGFQM3VMNlptdG8xU0JVVFBDYUZ2Z0ppVzczVGNUSWp4WEI3MUJUR0VUQ0E?oc=5)
 
-2026-03-25
+2026-03-26
 
-來源：[Europa Press](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ3NiNTdSbWdxOXhFMzB0YThpVlJKVGdMQVBwdzlDaXNXWlhHMUxqVjhvWXVuZjR2Y0RxTVJ1TDJEc2hIU2RfYUhZaDRDbVNvbFZpUURjakhKSC1tODBVNWg0LTNkWEJ6aE5MbWVoWldrRkk5NjdJYjdJWTFhS3FTMllzVW9KY2FyNTltM2RPVTk3dWNJT0pIQkl4WUFUcDFGbE95U1Z3YzBQN29vZjNrOG1uRUxQRTFXZXU0M291UlBXRzlaMFlEOVl0b000QWRfaW5vZDI5Y0dDV1hsd1JrRDdvOGF6M0JIRElYeklMZlU4Zw?oc=5)
+來源：[The Irish Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RpN3NzSll3bC1zajgyTko4QmFTVkFNbFNISjNJR1UyVjEzRDZqVWh4LUQ4bHlqWFBLTEZxT21aQ0NvVWNuMDY0dDRqZ3FFMTNJOGNvUEltTVdmTUdKUlBOZF84N3l5R0VreThDMXdoQU5BNnNva01PRHVDQWxnYXplTThJcFpVdTNDS3k1SGpZV1VhOFhPeTBMZ2YyejZHTzlLcFFoZGFQM3VMNlptdG8xU0JVVFBDYUZ2Z0ppVzczVGNUSWp4WEI3MUJUR0VUQ0E?oc=5)
 
 ---
 

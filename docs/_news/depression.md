@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### ["Un minimum de respect" : cette campagne pour la préménopause de l'Assurance Maladie choque et scandalise - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
+
+2026-03-26
+
+來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
+
+---
 
 ### [Le lien entre douleur chronique et dépression enfin élucidé - Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
 

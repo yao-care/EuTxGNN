@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### ["Un minimum de respect" : cette campagne pour la préménopause de l'Assurance Maladie choque et scandalise - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
+
+2026-03-26 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
+
+---
 
 ### [Le lien entre douleur chronique et dépression enfin élucidé - Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
 

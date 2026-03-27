@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carbidopa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,31 +42,9 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [People with Alzheimer's gene may lower their risk by eating more meat: Why? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNEYVNlc1p6T2tMZ2tCV09wck0ybGZMUV9Uc2VrMlhLUGRCcEVNTzc0YkdpZVo0dnladU01eVV0UXVpdTIwcklRTVlGa3dGVFRyb21qM3M4TUZoUUVwZWFpYzMyaEZCYlR3UFNlU09pblJBd25EdlJTVTBScGRhUjZKMzlUUGRPSi1HRUhKZ1JtVVZ6ckU3cExNWXlGMk9KVURoejg5ZzVUbW5MbFJJbQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNEYVNlc1p6T2tMZ2tCV09wck0ybGZMUV9Uc2VrMlhLUGRCcEVNTzc0YkdpZVo0dnladU01eVV0UXVpdTIwcklRTVlGa3dGVFRyb21qM3M4TUZoUUVwZWFpYzMyaEZCYlR3UFNlU09pblJBd25EdlJTVTBScGRhUjZKMzlUUGRPSi1HRUhKZ1JtVVZ6ckU3cExNWXlGMk9KVURoejg5ZzVUbW5MbFJJbQ?oc=5)
-
----
-
-### [The subtle signs of Alzheimer’s disease everyone should be aware of - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
-
-2026-03-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcmt0eXhZbkJGVXBSWW95WDhSNUpqUkFCekxFRkhnNlIzSW9TTThPM1FjdUw4NkJMdkJjdEllQnpwbU1IZ2phNXQ1OWs4alRTZTFCSUJXWHpUQWswaUxuRm9mczVhTXRPQWdDRDV1T2J6UFlqdHkxWmxIMkVGUUhlZnhfdDFkY2t3NHBlYVA1QlBjZERUeVFBaXlvVmlOYWt1Qk5JVmpvOTIxZmx2b090eS1CSXk1UjBt?oc=5)
-
----
-
-### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
-
-2026-03-25 <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

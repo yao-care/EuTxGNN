@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [Großer Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVTVHUjZxY2M0Y2hJYTQ3akUwTEp0Ql9VcW9iUnpCT2FEeFJOVWtIZzN6UnE5UE1QTG1pajg0MTJUaGFtaE5xajRVS2tmcW5uWmo5ZlNQVElVdGVzYUhMTHNWQVZBb1R6ajBGRGpoZEczVHZnRWhUSENqOFg5ejdkd0RRQlJpNGhOcjR6UGVFSmQ4SXJjY05sTzdua2hLQXRrdG1Jalprb041SndIOHhqcTdWaWdXSXZJd1hCWXBuUmlEOFk?oc=5)
+### [Verdacht auf Lokalspezialität: Hepatitis-Ausbruch in beliebter Urlaubsregion – Klinik überlastet - Kölner Stadt](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbE9IWHVTVVg0U3E4X2pOQ01ualo3UFFZUFlPeTExclRTSnpzZy1vbjJOck5UczdnSVAxSHYzcVkzM1RFcVZQTms5OV9uaHcyblVTeHd3QXVmWEFFajkxZFhWMld6OGFiWXBjM3FEbjAzTkNwZWVPc0V1WlliX2EzTXNCd2t0bHlodVZFbWpSNDBIZ3BteGZDOA?oc=5)
 
 2026-03-27 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVTVHUjZxY2M0Y2hJYTQ3akUwTEp0Ql9VcW9iUnpCT2FEeFJOVWtIZzN6UnE5UE1QTG1pajg0MTJUaGFtaE5xajRVS2tmcW5uWmo5ZlNQVElVdGVzYUhMTHNWQVZBb1R6ajBGRGpoZEczVHZnRWhUSENqOFg5ejdkd0RRQlJpNGhOcjR6UGVFSmQ4SXJjY05sTzdua2hLQXRrdG1Jalprb041SndIOHhqcTdWaWdXSXZJd1hCWXBuUmlEOFk?oc=5)
+來源：[Kölner Stadt-Anzeiger](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbE9IWHVTVVg0U3E4X2pOQ01ualo3UFFZUFlPeTExclRTSnpzZy1vbjJOck5UczdnSVAxSHYzcVkzM1RFcVZQTms5OV9uaHcyblVTeHd3QXVmWEFFajkxZFhWMld6OGFiWXBjM3FEbjAzTkNwZWVPc0V1WlliX2EzTXNCd2t0bHlodVZFbWpSNDBIZ3BteGZDOA?oc=5)
+
+---
+
+### [Epatite A tra Campania e Lazio, indagano Procura e Nas di Napoli - la Repubblica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDRYQVo4U1BzZkZRQ1RUSEVSRE5mc2hCX0pZQmJkY2pHdHFlLVFrdmNHMW9Nb2x4b0t5dzFWVWIxbDhicTQxQlJyNE83NTlVRTJ5R1k2MHJ5SS14Wk9KX2FPV0lFV2pPQkx5YlM4N08zQnRuS003VlZkNlYtUzhQX2ppN05zOTFraTluV09CSXNVZE5QWkh0U2RrRmtwOWNBVDdCTjBXN0NyT01KdHNKXzNhWGE1ckVtSkZUSE1iNnhILUFEVWfSAcsBQVVfeXFMTkdjQkNDY1h2TFlWWTB0UmFYdUNDQS1JOWlpZEtVM2R2YXU4aDRhQTl3dC1aVjhWQnJJU2hObnFkRVVsc1U4MVpNazRXQzE0TmdBVTJmWU9mdVFqUWY3ZEVNV1JVSGQzMGUxU1V5cjhOOVJ2bUw4cDF5SEd2Y3M1Rm9BdU8taUhDSE9RWnh6MXVBeURCY3hKSnQyQS1EcWdNODJiR2loOHpYTFlhYWVxR3BzUHoxZnVKYVVTVlFpMzBoRWNGV1JFNGZnMjA?oc=5)
+
+2026-03-26 <span class="news-indication-tag">epatite</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNDRYQVo4U1BzZkZRQ1RUSEVSRE5mc2hCX0pZQmJkY2pHdHFlLVFrdmNHMW9Nb2x4b0t5dzFWVWIxbDhicTQxQlJyNE83NTlVRTJ5R1k2MHJ5SS14Wk9KX2FPV0lFV2pPQkx5YlM4N08zQnRuS003VlZkNlYtUzhQX2ppN05zOTFraTluV09CSXNVZE5QWkh0U2RrRmtwOWNBVDdCTjBXN0NyT01KdHNKXzNhWGE1ckVtSkZUSE1iNnhILUFEVWfSAcsBQVVfeXFMTkdjQkNDY1h2TFlWWTB0UmFYdUNDQS1JOWlpZEtVM2R2YXU4aDRhQTl3dC1aVjhWQnJJU2hObnFkRVVsc1U4MVpNazRXQzE0TmdBVTJmWU9mdVFqUWY3ZEVNV1JVSGQzMGUxU1V5cjhOOVJ2bUw4cDF5SEd2Y3M1Rm9BdU8taUhDSE9RWnh6MXVBeURCY3hKSnQyQS1EcWdNODJiR2loOHpYTFlhYWVxR3BzUHoxZnVKYVVTVlFpMzBoRWNGV1JFNGZnMjA?oc=5)
 
 ---
 
@@ -60,19 +68,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Repunte de sarampión: “Es vital mantener actualizado el calendario vacunal para evitar la propagación”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
+### ["Es vital mantener actualizado el calendario vacunal para evitar la propagación del sarampión"](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
 
 2026-03-26 <span class="news-indication-tag">hepatitis</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
-
----
-
-### [Epatite A a Napoli, all’ospedale Cotugno 60 ricoverati. L’infettivologa: “Meglio evitare anche il sushi” - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0NxWTNDWHlsUTgzYUxFWHJNUlZPaUJQYWV1WjA4Q3dsQTdPeTVxbTRJSnNfemdLa0lkUDA3ZTVJa0ZnQ1pJS1pnMWE0WjlpdFdBemRZNUNyM21wUVdIZk04QTFCd3AweUFkYldhSDdWQzA5Sl9VS0hTNmEwSGU1VVdnd25nekpTUG9IVFNXUHFPYlJkTTZMYmoxNEUzdw?oc=5)
-
-2026-03-26 <span class="news-indication-tag">epatite</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0NxWTNDWHlsUTgzYUxFWHJNUlZPaUJQYWV1WjA4Q3dsQTdPeTVxbTRJSnNfemdLa0lkUDA3ZTVJa0ZnQ1pJS1pnMWE0WjlpdFdBemRZNUNyM21wUVdIZk04QTFCd3AweUFkYldhSDdWQzA5Sl9VS0hTNmEwSGU1VVdnd25nekpTUG9IVFNXUHFPYlJkTTZMYmoxNEUzdw?oc=5)
+來源：[Comunicae](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
 
 ---
 
@@ -81,6 +81,14 @@ permalink: /news/givosiran/
 2026-03-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
 來源：[Blick](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmNwWG0yQVRPQzRjbUVENVdUWVR3V3pMa1d2cDJPZFJtcEdLOF9NTGlqNi1qVmpsRm9sOU5DODdBbWNWN3pzSUFpN1U3dEl6QXZiWFJ2ajIwWGxhdlhwZ00tYW5sUnkyRXZRZXZfbFZvdHBzbFJaMFAyc0JlTE91YU5TWmk3WHc0NWxZd0Rrazl1anlPbFpzLURMMndzanptc3BmNEpWNXVMVzIyOWZxT09IVDE2M2xVT1NmZWVmalRLY1k2eW9RaDUzdEZOZ2s5T29CNHh4dXlCWGhYN3J4amNRQQ?oc=5)
+
+---
+
+### [L’huile d’olive est-elle si bonne que ça pour la santé ? - Le HuffPost](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWQtMVFPX3kwal9hWGFrbFpNaUtSanQ0WGh0WU1UeExfWS03NFBzZXNLRFhqb3VfWFc2eHJYeDNhZmhhNS1lcTc1SVBhbTB3MWtaQ2dNWldmSmxQeW1VM3labnZUcGxCZHl0VEZoQ0tQUDk3NlNCV01lNzV5RkhPYko0aVRkclIzanM4ckhhdS0xd1FJbTRCd2I4aUh3Wm9tN1lpVjNFel9OenVEUUE?oc=5)
+
+2026-03-25 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le HuffPost](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWQtMVFPX3kwal9hWGFrbFpNaUtSanQ0WGh0WU1UeExfWS03NFBzZXNLRFhqb3VfWFc2eHJYeDNhZmhhNS1lcTc1SVBhbTB3MWtaQ2dNWldmSmxQeW1VM3labnZUcGxCZHl0VEZoQ0tQUDk3NlNCV01lNzV5RkhPYko0aVRkclIzanM4ckhhdS0xd1FJbTRCd2I4aUh3Wm9tN1lpVjNFel9OenVEUUE?oc=5)
 
 ---
 

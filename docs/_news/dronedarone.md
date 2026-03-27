@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,19 +42,83 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（21 則）
 
-### [Demenzprävention setzt neue Maßstäbe mit Millionen-Förderung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNldld19XQjJLZnFLSXktNHVaY005QVZKcjhHNER0bVNfNjRtWDFob01ILWx6NDFBLVlKU2M3OEF1VVZaRUFFSzVDeDFsb0dhbHk3ZTVWVk5BSmZfdjc3aG4zaS0yN0l3SUxsOWY3X0ctaWR3SGxyMVc3Sk9vd0RWUWI0VHNES3ZIekJFaTZzbjJzZTI5S2I3MEU3amxXZjRVQV80ZjVUNHJfYXhUTGVtVlc5VF9ZSldBSXF3WUpWeXk?oc=5)
+### [Sanidad transforma la app GVA+Salut: llega la tarjeta SIP virtual y el acceso a radiografías desde el móvil](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQakxkWDBDaVJLbVh1dVV1aHdMVGlxZFVMd1hvRjRJTHEzckhnXzJFLUxWa0lhT01ScmQ4enNaa00yOGJ2TXEyclVoUmxROE9yZmZueHZpZzNXTE14S2IzT3E1Q0hiZmFleW0zQ2Y2ZHZ0WHZwN0ZYeVpiLVNzVWpJeGhaUzVpUDIyei1Ea2F2LVlaYW5vMGh3dmU5NUVLRHpiOHV4ZlZDMVdENXRVRDZ3bUlEb3FFUS1hTzZNZWNrQ3o1MlNxU3RNSlJEUGFqOTJfaEpMeVJraUl6T3FVQUVpNg?oc=5)
 
 2026-03-27 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNldld19XQjJLZnFLSXktNHVaY005QVZKcjhHNER0bVNfNjRtWDFob01ILWx6NDFBLVlKU2M3OEF1VVZaRUFFSzVDeDFsb0dhbHk3ZTVWVk5BSmZfdjc3aG4zaS0yN0l3SUxsOWY3X0ctaWR3SGxyMVc3Sk9vd0RWUWI0VHNES3ZIekJFaTZzbjJzZTI5S2I3MEU3amxXZjRVQV80ZjVUNHJfYXhUTGVtVlc5VF9ZSldBSXF3WUpWeXk?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQakxkWDBDaVJLbVh1dVV1aHdMVGlxZFVMd1hvRjRJTHEzckhnXzJFLUxWa0lhT01ScmQ4enNaa00yOGJ2TXEyclVoUmxROE9yZmZueHZpZzNXTE14S2IzT3E1Q0hiZmFleW0zQ2Y2ZHZ0WHZwN0ZYeVpiLVNzVWpJeGhaUzVpUDIyei1Ea2F2LVlaYW5vMGh3dmU5NUVLRHpiOHV4ZlZDMVdENXRVRDZ3bUlEb3FFUS1hTzZNZWNrQ3o1MlNxU3RNSlJEUGFqOTJfaEpMeVJraUl6T3FVQUVpNg?oc=5)
+
+---
+
+### [Immunsystem des Gehirns funktioniert einfacher als gedacht - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TazhZMGRaLTVTaFpuZ3dLQ3lqTURiY0pta1hzX29oRkRxRWtxZzZOX25FQmp5cF9yXzZqckFNSFhsVmlDTVJzMmVVdw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TazhZMGRaLTVTaFpuZ3dLQ3lqTURiY0pta1hzX29oRkRxRWtxZzZOX25FQmp5cF9yXzZqckFNSFhsVmlDTVJzMmVVdw?oc=5)
+
+---
+
+### [Lecker und mehr als gesund – 10 Superfoods mit erstaunlichen Eigenschaften](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDRsb1pfM3ptMER3UTFWLTU3LWN3S25UWktxVE14U21femkzbk41bUlrVmQxWXBRbGpqWk5KNF96Z1FybTdad3gyWDN1QVg2SG1iSmZ2azZFaEpxSUtLZWp4RURSaU9IUUw4NFJVNEp5WE5tbW15QmhZQ1VIaGNRNlRGaVAzZXZWZGFLWENEbkFPMTY3d0hseUEtLTdHdW04cUFsM1VEUlo2V2dCYUN5U0RrN1Q3SVNtaWJYNQ?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AF</span>
+
+來源：[Heidelberg24](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDRsb1pfM3ptMER3UTFWLTU3LWN3S25UWktxVE14U21femkzbk41bUlrVmQxWXBRbGpqWk5KNF96Z1FybTdad3gyWDN1QVg2SG1iSmZ2azZFaEpxSUtLZWp4RURSaU9IUUw4NFJVNEp5WE5tbW15QmhZQ1VIaGNRNlRGaVAzZXZWZGFLWENEbkFPMTY3d0hseUEtLTdHdW04cUFsM1VEUlo2V2dCYUN5U0RrN1Q3SVNtaWJYNQ?oc=5)
+
+---
+
+### [Demenz vorbeugen, Datenlücken schließen: Wissenschaftsakademien stellen sechs Handlungsansätze vor - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMzY2TFJuR0dKeWY4a0tEWk9xaGpYZzE1UjA2ODF4VnE0cl9CUTk2QjM0emVtME9jd0FIcFMzclI5cGhjeUJTUklvdVllM0NkZGRZZkU3WkdWZXhmY3JBdXlRc0RzaU03dFFMbXBlQlY1U3o2cXZ2b1hDdVlYcTVuMWZGVzhIR0dvVklVMG5DY0Rtb1RmYi16TFVsLTdocGtEa3hkRDZLdmZXbGR4MFc3dGloZUhZTHJwMkFiYjlsdklaaGhwa0xTRTlkUGlVTmg2R2labzNtaTJ0ZS03MlNMMjVQWG5jYjFEWWR4NXln?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMzY2TFJuR0dKeWY4a0tEWk9xaGpYZzE1UjA2ODF4VnE0cl9CUTk2QjM0emVtME9jd0FIcFMzclI5cGhjeUJTUklvdVllM0NkZGRZZkU3WkdWZXhmY3JBdXlRc0RzaU03dFFMbXBlQlY1U3o2cXZ2b1hDdVlYcTVuMWZGVzhIR0dvVklVMG5DY0Rtb1RmYi16TFVsLTdocGtEa3hkRDZLdmZXbGR4MFc3dGloZUhZTHJwMkFiYjlsdklaaGhwa0xTRTlkUGlVTmg2R2labzNtaTJ0ZS03MlNMMjVQWG5jYjFEWWR4NXln?oc=5)
+
+---
+
+### [Dormir 11 minutes de plus réduit le risque de crise cardiaque : à condition d'ajouter ce réflexe - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VDQ1pRT0lVMUhxS3pCZ1RyVklMblNVZDE3dHF0NFVJRk1RdjRCaUw4N3VrZlNWelpaM0x3dzJQRTdaTnlKdlNCczFNQmpVT3VfMFY1OXBWRFVrU1lHcklTemFpUl8zUHBTd3RNdFdzbjA1NGNzNmZPWks4dm92bWw2bjh6Y2t3aHlYNmhUb3dHbUMwNzFreWpVT2VZdE5qTk5jYVhjQmhHQnNjR1BhUW5ZcWRtRVFRUU1ReG83dnk?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AVC</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VDQ1pRT0lVMUhxS3pCZ1RyVklMblNVZDE3dHF0NFVJRk1RdjRCaUw4N3VrZlNWelpaM0x3dzJQRTdaTnlKdlNCczFNQmpVT3VfMFY1OXBWRFVrU1lHcklTemFpUl8zUHBTd3RNdFdzbjA1NGNzNmZPWks4dm92bWw2bjh6Y2t3aHlYNmhUb3dHbUMwNzFreWpVT2VZdE5qTk5jYVhjQmhHQnNjR1BhUW5ZcWRtRVFRUU1ReG83dnk?oc=5)
+
+---
+
+### [The person in your life who always remembers your preferences, your allergies, your coffee order, and your parking spot isn't just thoughtful. They grew up in a house where noticing details was how you stayed safe. - Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxPUU5SZzFtQ0JoZ2VScnJKUXE0YkJPcFFnTWpwSVA5SHBpRHhTN3ktTDFMTmpBUU00b0xieXVlamh5Tzc3TGlDZXFkMlRubEhSc0J6ZmVhekdvSGkzR0FvZVNIM3JuZnlEYlpDRVRaLWVaT2lZd3ZPOEhnRTV2bkctNmwtUW42V0dUaWVpREJpeU9qVVJhYjgzaXNTNGNBdEZ1eWcwLVhlbUxCc0xsZy0wME5Nd0RMN3RoSVMyVXluUktGT1FCMmowNVpkVUhzYnBiSmlic0huZU80c3l6ZjRzREZRU2VsLXNTNTdBOHFCb3BoV1RFZ1B5NzM3ZENlLTFlMUF4UGhQOXFrNDdqWXhvaG1WSndSc3NFU1RYbWQ2Nmo0UTZUdXlzZDdkQ3lGT1h3WGR6LXM3ZFE4WlRUSDFVVlpxQVFkNWZpZmE4?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AF</span>
+
+來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxPUU5SZzFtQ0JoZ2VScnJKUXE0YkJPcFFnTWpwSVA5SHBpRHhTN3ktTDFMTmpBUU00b0xieXVlamh5Tzc3TGlDZXFkMlRubEhSc0J6ZmVhekdvSGkzR0FvZVNIM3JuZnlEYlpDRVRaLWVaT2lZd3ZPOEhnRTV2bkctNmwtUW42V0dUaWVpREJpeU9qVVJhYjgzaXNTNGNBdEZ1eWcwLVhlbUxCc0xsZy0wME5Nd0RMN3RoSVMyVXluUktGT1FCMmowNVpkVUhzYnBiSmlic0huZU80c3l6ZjRzREZRU2VsLXNTNTdBOHFCb3BoV1RFZ1B5NzM3ZENlLTFlMUF4UGhQOXFrNDdqWXhvaG1WSndSc3NFU1RYbWQ2Nmo0UTZUdXlzZDdkQ3lGT1h3WGR6LXM3ZFE4WlRUSDFVVlpxQVFkNWZpZmE4?oc=5)
+
+---
+
+### [Metformin drug prescribed to 120 million worldwide found to have surprise impact on brain](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
+
+2026-03-26 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
+
+---
+
+### ["Un minimum de respect" : cette campagne pour la préménopause de l'Assurance Maladie choque et scandalise - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
+
+2026-03-26 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
+
+---
+
+### [Three children in same family secure €3.6m after settling cases over epilepsy drug - The Irish Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RpN3NzSll3bC1zajgyTko4QmFTVkFNbFNISjNJR1UyVjEzRDZqVWh4LUQ4bHlqWFBLTEZxT21aQ0NvVWNuMDY0dDRqZ3FFMTNJOGNvUEltTVdmTUdKUlBOZF84N3l5R0VreThDMXdoQU5BNnNva01PRHVDQWxnYXplTThJcFpVdTNDS3k1SGpZV1VhOFhPeTBMZ2YyejZHTzlLcFFoZGFQM3VMNlptdG8xU0JVVFBDYUZ2Z0ppVzczVGNUSWp4WEI3MUJUR0VUQ0E?oc=5)
+
+2026-03-26 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Irish Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RpN3NzSll3bC1zajgyTko4QmFTVkFNbFNISjNJR1UyVjEzRDZqVWh4LUQ4bHlqWFBLTEZxT21aQ0NvVWNuMDY0dDRqZ3FFMTNJOGNvUEltTVdmTUdKUlBOZF84N3l5R0VreThDMXdoQU5BNnNva01PRHVDQWxnYXplTThJcFpVdTNDS3k1SGpZV1VhOFhPeTBMZ2YyejZHTzlLcFFoZGFQM3VMNlptdG8xU0JVVFBDYUZ2Z0ppVzczVGNUSWp4WEI3MUJUR0VUQ0E?oc=5)
 
 ---
 
 ### [Kingston Park lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
 
-2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
 
@@ -62,7 +126,7 @@ permalink: /news/dronedarone/
 
 ### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
-2026-03-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+2026-03-26 <span class="news-indication-tag">ictus</span>
 
 來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
@@ -86,17 +150,9 @@ permalink: /news/dronedarone/
 
 ### [Der unterschätzte Thymus: Neue Studien zeigen Relevanz für gesundes Altern - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TdUcwRFhfMWlIQjZBQVNfdHkzRHJrcWdTeHV2bnFLWG9FeDVzUFMyRmg5VTBzTlByeDJfSHl4RElDcVJ3Nnd6Z3BmZw?oc=5)
 
-2026-03-26 <span class="news-indication-tag">AF</span>
+2026-03-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TdUcwRFhfMWlIQjZBQVNfdHkzRHJrcWdTeHV2bnFLWG9FeDVzUFMyRmg5VTBzTlByeDJfSHl4RElDcVJ3Nnd6Z3BmZw?oc=5)
-
----
-
-### [Residents left 'shocked' and 'upset' after 'beautiful' Sherwood tree felled amid safety concerns - Nottinghamshire Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm11RnpvekxyaXEwM00tUG5naDBKUzVUaFVvY0lqa21sWXJEZ0JWM0JmRktZVVJMbzkyZ2JSZm5JNll0eG1xNElBVjdHT3lzWkNZODJ0aVlpcWItNmhEb0I4SFRucWQwNm9ab0g5MUFWU0FoaWVRLWw1UzZwSmNvY0ZORVBDUmtBWUpPQ2ZJVVFFWVVMMzk0bTRNTQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm11RnpvekxyaXEwM00tUG5naDBKUzVUaFVvY0lqa21sWXJEZ0JWM0JmRktZVVJMbzkyZ2JSZm5JNll0eG1xNElBVjdHT3lzWkNZODJ0aVlpcWItNmhEb0I4SFRucWQwNm9ab0g5MUFWU0FoaWVRLWw1UzZwSmNvY0ZORVBDUmtBWUpPQ2ZJVVFFWVVMMzk0bTRNTQ?oc=5)
 
 ---
 
@@ -124,14 +180,6 @@ permalink: /news/dronedarone/
 
 ---
 
-### [After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
-
-2026-03-25 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
-
----
-
 ### [Brit mum, 33, fighting for life with meningitis after falling ill in Spain - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2NFLVRialhiZ2RxZDNySHZudFJBQlVXRk1vRVU1T2Q2WjhRcTFoM2tHeUVYdUtBeUlwT3JvZFJYREcycUliRlB0cTBULXRKdnV0X2kyTkRsUVZUeUd0MDhDR2psVmJCQXlodGJLNUdqbTd6eUMzMGliRXBBNjRlY1FZY2JNYnFTamY1YWZiakVtQmNGdDUw?oc=5)
 
 2026-03-25 <span class="news-indication-tag">AF</span>
@@ -140,11 +188,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Des scientifiques ont suivi des consommateurs de bière, de vin et de spiritueux — l'un d'entre eux s'en est beaucoup mieux sorti](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFFFVnh3ZjZaVW9ROUx2bXBPSnRmTS1kTFc4cXFtVXo0aU1vc2hMYXFXZWp6NTBLV1RDN3FsWUw3T0U4MVlpY2tZNEIyWjhUaFYtWVd2NHdjZG9TczNxRktUOWFCTi03NzUwTzFjNEhBQW9hSmxiQ04waHdENlRHNXFGUEZyMHVNOW9hbTcxYmcwVnpjY3pCQVNzREhyUWtfWWZBVDUzLVc4c2NuaTZPdXR3dldERTViT3hwd0xrZUNwZmZic2tjSWpmOE43MnVZc0Y0dXR3ejFSRmtWVm9B?oc=5)
+### [Los alimentos que afectan al sueño y nos impiden dormir bien a partir de los 50 años](https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0d1dnpNc2ZuNU9QcG9VVDBLN0luQ1F3WXRxZXJNRG5nTDRTbmFjYnhDNWREcV9BSl9wdmhSSTMxNi03elVyZjdhWmFZdzd0ZjV5aTNTRzEtSFhvbGFjRjN3Z0tMLWpaS3hHQXBDMUNkeERkWHU1OWpJSHduWFN1eE1iMk5YcVg2Skwxc0c5YmRyRTZTcWlCbnpHLXFmamxjZ255b1hLc2swemxvNEU2eUt1b0owLWw1SmM2MWtMclNGYXM?oc=5)
 
 2026-03-25 <span class="news-indication-tag">AF</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFFFVnh3ZjZaVW9ROUx2bXBPSnRmTS1kTFc4cXFtVXo0aU1vc2hMYXFXZWp6NTBLV1RDN3FsWUw3T0U4MVlpY2tZNEIyWjhUaFYtWVd2NHdjZG9TczNxRktUOWFCTi03NzUwTzFjNEhBQW9hSmxiQ04waHdENlRHNXFGUEZyMHVNOW9hbTcxYmcwVnpjY3pCQVNzREhyUWtfWWZBVDUzLVc4c2NuaTZPdXR3dldERTViT3hwd0xrZUNwZmZic2tjSWpmOE43MnVZc0Y0dXR3ejFSRmtWVm9B?oc=5)
+來源：[vozpopuli.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0d1dnpNc2ZuNU9QcG9VVDBLN0luQ1F3WXRxZXJNRG5nTDRTbmFjYnhDNWREcV9BSl9wdmhSSTMxNi03elVyZjdhWmFZdzd0ZjV5aTNTRzEtSFhvbGFjRjN3Z0tMLWpaS3hHQXBDMUNkeERkWHU1OWpJSHduWFN1eE1iMk5YcVg2Skwxc0c5YmRyRTZTcWlCbnpHLXFmamxjZ255b1hLc2swemxvNEU2eUt1b0owLWw1SmM2MWtMclNGYXM?oc=5)
 
 ---
 
@@ -161,22 +209,6 @@ permalink: /news/dronedarone/
 2026-03-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
-
----
-
-### [Cette étude va vous donner une bonne raison de savourer votre café ou votre thé du matin - Le HuffPost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXFKWmk4VWZCSmRNSElJWVlDcXhDWEQ3TjlSNnBiczhsMGRJN091TkpaTFdwUkpRQVFQMFlPYzNyOW5QWlJDaTdGUlQ3YXpEbGdWUFUwRW9KRzhHT3dfUXU4TVU1MFRVWVViREtIeGpxYjFjR0QtdTUyS0ppcHFjVEpMSHlrTVVwQ0NKckxfWE9JM2lJbkF0azVySTJyNjlOal9kMTc1anBsVEJVQWxXNWhuLW0xX3gtMWVIS2JnVGx1U1hpR181V2hvVGg3MlIwMGlUNkxkbjlwZUE?oc=5)
-
-2026-03-25 <span class="news-indication-tag">AF</span>
-
-來源：[Le HuffPost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXFKWmk4VWZCSmRNSElJWVlDcXhDWEQ3TjlSNnBiczhsMGRJN091TkpaTFdwUkpRQVFQMFlPYzNyOW5QWlJDaTdGUlQ3YXpEbGdWUFUwRW9KRzhHT3dfUXU4TVU1MFRVWVViREtIeGpxYjFjR0QtdTUyS0ppcHFjVEpMSHlrTVVwQ0NKckxfWE9JM2lJbkF0azVySTJyNjlOal9kMTc1anBsVEJVQWxXNWhuLW0xX3gtMWVIS2JnVGx1U1hpR181V2hvVGg3MlIwMGlUNkxkbjlwZUE?oc=5)
-
----
-
-### [Neue Studie: Das macht die (zweite) Schwangerschaft wirklich mit deinem Gehirn](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLXZEeE1rWTk5WEZULXlnY1BrRDlyZE9RZ3R6Y0MwMXhvTGtINTZSeXgyR0M0SGFuR0otbHdHc0tidUlQLXlKMDZmNXBUNGJSWFFVeXpNZnJBamY0Tm9Ca2diRS1jYzZMemFXTnBuYzNVVFNvenp5dkppTlJsblpFTXhrNGxOdHhfSnk5Y0FEeVNSU0c0U0Nhd1hxdmtZSjNEQWFjckZkclhGT2NkZTdvRXBKWTJ3ZV8xRENla2ZZZkVpd0FPU0dqQXBvYXN2QU9sRUNFR3UxaUJvQQ?oc=5)
-
-2026-03-25 <span class="news-indication-tag">AF</span>
-
-來源：[familie.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLXZEeE1rWTk5WEZULXlnY1BrRDlyZE9RZ3R6Y0MwMXhvTGtINTZSeXgyR0M0SGFuR0otbHdHc0tidUlQLXlKMDZmNXBUNGJSWFFVeXpNZnJBamY0Tm9Ca2diRS1jYzZMemFXTnBuYzNVVFNvenp5dkppTlJsblpFTXhrNGxOdHhfSnk5Y0FEeVNSU0c0U0Nhd1hxdmtZSjNEQWFjckZkclhGT2NkZTdvRXBKWTJ3ZV8xRENla2ZZZkVpd0FPU0dqQXBvYXN2QU9sRUNFR3UxaUJvQQ?oc=5)
 
 ---
 
