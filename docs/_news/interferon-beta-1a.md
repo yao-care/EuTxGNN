@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,45 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（12 則）
+
+### [Primo caso umano di virus influenzale Aviaria (H9N2) in Europa, identificato in Lombardia. Ministero della Salute: “Situazione sotto controllo” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTG9xMkJrU1kxcnp5RUo0Z0RudmZNX1hXOXE2TllkQ0l1Qy0yVElhLWJObHVKRzFBdGFHTVVmM1Z0T29KRXBYVHBlYjFFd2JrM00yZjluU1F1UDM4N1JIQ0pVeTJnNi1DZGF6YWRUeGZFSHRQQzFxNTRrQ1NVaHpnemlybGQ2MHJPU3hzRUpzbDRMRmxlUXJRcE5DeTBQeWhYbEZpa2lIa2lnX1VWUTNDdy1GT0xhVnNpRkdvbGxRN0dLNERnbGlKWDdIRC1kNHYxTTlWekhzNk9takJITktKd3kyTmZ0NkVTbVB3S0g0VFVSQVcwUk1wM0dkZzYxelk3NXphZ3ZKRjNqYkxRWTJrbUFRRW9jcW5VWkE?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTG9xMkJrU1kxcnp5RUo0Z0RudmZNX1hXOXE2TllkQ0l1Qy0yVElhLWJObHVKRzFBdGFHTVVmM1Z0T29KRXBYVHBlYjFFd2JrM00yZjluU1F1UDM4N1JIQ0pVeTJnNi1DZGF6YWRUeGZFSHRQQzFxNTRrQ1NVaHpnemlybGQ2MHJPU3hzRUpzbDRMRmxlUXJRcE5DeTBQeWhYbEZpa2lIa2lnX1VWUTNDdy1GT0xhVnNpRkdvbGxRN0dLNERnbGlKWDdIRC1kNHYxTTlWekhzNk9takJITktKd3kyTmZ0NkVTbVB3S0g0VFVSQVcwUk1wM0dkZzYxelk3NXphZ3ZKRjNqYkxRWTJrbUFRRW9jcW5VWkE?oc=5)
+
+---
+
+### [Alzheimer-Forschung zwischen Durchbruch und Geldmangel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[GrenzEcho](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+
+---
+
+### [Horror as deadly Victorian era disease explodes in school outbreak – thousands warned - Daily Express](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
+
+---
 
 ### [So zeigt sich ein Vitamin-D-Mangel: Diese Symptome müssen Sie erkennen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzFoRENHNnNGMDVSa2FITUczMG1hbjVyOG92Y20xdGVUb1JBZWJFbXRfRFJVTVMtUlZXbHo1OUV0cThlZmRnWng0ZHRqRll1NllvZXZ3YlphS3gxVjRrZXVvTGowaVo5SXNiTjB6TVlIcWdXcFNwalo5SU8zemloaVc5dDVXamRBTndZNTE4dFk5WUMtZk04SWtaSmFyZ1RqNFpHQjBSdU1mZ1RqcHBEMnIzaWZ2akQwb3UtUVBkdzRhZw?oc=5)
 
 2026-03-27 <span class="news-indication-tag">MS</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzFoRENHNnNGMDVSa2FITUczMG1hbjVyOG92Y20xdGVUb1JBZWJFbXRfRFJVTVMtUlZXbHo1OUV0cThlZmRnWng0ZHRqRll1NllvZXZ3YlphS3gxVjRrZXVvTGowaVo5SXNiTjB6TVlIcWdXcFNwalo5SU8zemloaVc5dDVXamRBTndZNTE4dFk5WUMtZk04SWtaSmFyZ1RqNFpHQjBSdU1mZ1RqcHBEMnIzaWZ2akQwb3UtUVBkdzRhZw?oc=5)
+
+---
+
+### [21-year-old who couldn't balance after holiday died three months after diagnosis - The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
+
+2026-03-27 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
 
 ---
 
@@ -76,6 +108,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Major new health warning for anyone going on holiday - full list of countries - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
+
+2026-03-26 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
+
+---
+
 ### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
 
 2026-03-26 <span class="news-indication-tag">MS</span>
@@ -92,11 +132,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak - The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
+### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 2026-03-24 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 ---
 

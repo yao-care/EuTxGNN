@@ -44,19 +44,19 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（2 則）
 
-### [Infarto, la regola degli "11 minuti": come far precipitare il rischio](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+### [Bluttest verrät biologisches Alter: Diese zehn Werte entscheiden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0lNc21CV0pZN3pSQ1Jlay1hV3pXRXpiM3NWNFdwcUZRRFk2S0VXOTRZY21YQ3Y4c2x4NjlvNW1pTlpuYkU3YmhUWFFDaVlaT3dQVWF1VFprYVNwTnFwUFRuMXhZM2g4VHc2bUY1M05Dam1mbjQzenU5QUx4MzE0djFqN1dVdTRpMm1BeFZ6dlQ4Q3liRTNhZzBuNUl3dENJN1I4aktKaTFBVDY1aUVsYkJuMXo?oc=5)
 
-2026-03-26 <span class="news-indication-tag">ictus</span>
+2026-03-27 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[liberoquotidiano.it](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
+來源：[WEB.DE](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0lNc21CV0pZN3pSQ1Jlay1hV3pXRXpiM3NWNFdwcUZRRFk2S0VXOTRZY21YQ3Y4c2x4NjlvNW1pTlpuYkU3YmhUWFFDaVlaT3dQVWF1VFprYVNwTnFwUFRuMXhZM2g4VHc2bUY1M05Dam1mbjQzenU5QUx4MzE0djFqN1dVdTRpMm1BeFZ6dlQ4Q3liRTNhZzBuNUl3dENJN1I4aktKaTFBVDY1aUVsYkJuMXo?oc=5)
 
 ---
 
-### [Ictus, anche pennichelle lunghe e stress cronico tra spie precoci - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU9udmExTmc0S09FUEIxa0d3eEFEal9obW4xbzNIQUREenBSWTZpWmszd3RMdHBBdDJhRzlkblVDc3ZnNHBiRjVFUU9lNVBuVURNTE1rbnZsbE5oQnBtcU5CVFFkTXAxMnVOck9qazNLdjVrSWtDMmhNX09Mb0JCaWo2MnJtQUg4bmlzdjdQQXNsR2RrcjBtTG0zcTY?oc=5)
+### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">ictus</span>
 
-來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU9udmExTmc0S09FUEIxa0d3eEFEal9obW4xbzNIQUREenBSWTZpWmszd3RMdHBBdDJhRzlkblVDc3ZnNHBiRjVFUU9lNVBuVURNTE1rbnZsbE5oQnBtcU5CVFFkTXAxMnVOck9qazNLdjVrSWtDMmhNX09Mb0JCaWo2MnJtQUg4bmlzdjdQQXNsR2RrcjBtTG0zcTY?oc=5)
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 
 ---
 

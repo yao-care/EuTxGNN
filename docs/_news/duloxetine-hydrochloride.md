@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Oriol Mitjà, investigador: «Para mí era una vergüenza decir que tenía depresión porque eso significaba fragilidad» - La Voz de Galicia](https://news.google.com/rss/articles/CBMimwJBVV95cUxOYk5TNWYzM0pSdVVwVE9IYXQ3cFJfaGhJZGpIRnlDLVVnamFoaXdpM1daYm1UVXZMNC1EMnRKdlRfN1dQSkhQeGtKVEF3VUF6UFZKbFdZbU5NVUk3bHU4QmlGX05HMXpDeVRLdjBDMHZiWXl4bmR4S0JYNW4tX1NSbXZYYUxMRm1FeEpieFNfSDd6b25XR1Z1U1FVX2JLVzVPYjFXeTVLVUhHeXduY2VEV2RlZS1aRE11WER4RHc0Z29wQWxfdnJqY1FlWFBXM2VHcFdtM0dFRXp3WVFCdlAtVnI4QnNNNHNOZEZkNTRES0JlRmhTdmtpR2NRWmoxOVNwRFlxWTE1WmdiS0prSjE2XzZhMjN1WWxteXV3?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/duloxetine-hydrochloride/
 2026-03-26 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">AF</span>
 
 來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
-
----
-
-### [Le lien entre douleur chronique et dépression enfin élucidé - Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
-
-2026-03-26 <span class="news-indication-tag">dépression</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJqUGR4RTcxSUFmN01lcWx5UXpvR0hQSVhtNDdUUFZkWWREbTVjc3BiQk5odjRJRUdoWnVBUnowWTJ1SzdPTjNYRk1qOWFMZExKRlVpWDJIVHdhM0sybXU5RmJ5YmtMODhTTkxlaWdGOThtUmxEMy1jZ0psa1d6Ui10ZlV4R21rbXdCbm1IX2pLOC1aeFlqWGpNMkJnWUc0eGIyRWJB?oc=5)
 
 ---
 

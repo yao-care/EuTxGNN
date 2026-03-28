@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Más obesidad infantil en las niñas - Somos Pacientes](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHktazRxVFBHUHo1T19oM280WUp6VXRsOGJwUEl4QUVEQm1BdkZRVHRzM0tIU1FoWXdvMDNrUXpQdTluSm5UcXUyVDdJSWUySExMX00zUnRsZGMtY2lUTnNxdkx6b3hmc3NRRnZLVF9qdHNCaHB3bFJGcm5GcFNZSDVhMkc3eko2V2lDcnJhcTFhaFVlMWNsZXduWWh5cnoyUVNTZjdKUHRLRHZXM3VKWnhFZHpGTTg?oc=5)
+
+2026-03-27 <span class="news-indication-tag">obesidad</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHktazRxVFBHUHo1T19oM280WUp6VXRsOGJwUEl4QUVEQm1BdkZRVHRzM0tIU1FoWXdvMDNrUXpQdTluSm5UcXUyVDdJSWUySExMX00zUnRsZGMtY2lUTnNxdkx6b3hmc3NRRnZLVF9qdHNCaHB3bFJGcm5GcFNZSDVhMkc3eko2V2lDcnJhcTFhaFVlMWNsZXduWWh5cnoyUVNTZjdKUHRLRHZXM3VKWnhFZHpGTTg?oc=5)
+
+---
 
 ### [Una alternativa oral de Ozempic podría ser incluso más eficaz para perder peso - El Economista](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUFNId245QV9HUUhuYWF1WERsa25WalhfdFVOeVpvTTFTZGdtejcxVExNVklHNHptc1pYRnFWTnpUeVk4ck9GdHhkbTE3SUg4MGs3TWRWQmJuTEdkUkthV21vdEo5bUdqdnRXSU1OX1Z1NUN0NWJfckFIUW5ET3NqTWNIcW11Mjltaks1cTBWYThHSVpoUUotekNHNVVYeVI2Zlo1RVNIaG16NHAxRDU1MFFEZDBjbm14LTlBNVBEZjR6Y2pZTzFzYlJENzh4OWFQNzZDNTBabUpxei1YSHd4cG1FS08tUUpiNUp6YVJxaGp2aHppYWFJ0gHiAUFVX3lxTE9ULTZiT1R5bks1ZGkxZ1RwZGRKUnhzZ3kxUjV4UGdRQ3ZhUkVWZVZLNVh1N3pQNExOXzdlYmljMExwc3pzRUU2OU52eHVfZW1zUUszWVoxdm4zcUg1MmhRN2Rra210U3R2dHRyb3gzNTJGQnRQR1Q1UFdXRXVlVG5zT2FnV2pjNk1JVmRlNDN4T0lfMTRtcUJSeS1VQWdSN2QyZElvMWFVdXM4ZE0wMnZnYzY2NnQ0R19HalhtdFlSbTdGVE5RN3ZzMW9ZYzg0YjU2Q3lLMTFzZTBMMnpqU01hbXc?oc=5)
 
@@ -60,11 +68,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Farmaci anti-obesità: efficaci, ma non alla portata di tutti. Presto potrebbe cambiare](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
+### [Farmaci anti-obesità: efficaci, ma non alla portata di tutti. Presto potrebbe cambiare - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">obesità</span>
 
-來源：[ilsole24ore.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
 
 ---
 

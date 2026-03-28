@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "heart failure（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "heart failure（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# heart failure（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
+<strong>heart failure（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -87,11 +87,11 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（1 則）
 
-### [Love fruit smoothies and kimchi? They may not be as healthy as you think - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHkwcnJxT2p6eE5TZ1EtZk5LYlNHaDFYcHZWSmotSlp5TjJsaEl3ODViRWY1cVVYVzdDRm9VZnhqQno4c2I5UjJhTEZWRHNPYm16MmJQdlgxVk9aS1VCcU1DNkFfV3N1cVR4WE4yb0ZZTlRjOXpHRGNsUGNWQUtjN0VCVHV0UmlIZ2pSZVNQLVRCVDFQV0pySUljSQ?oc=5)
+### [The exact amount of salty foods you can actually eat without risking your health, according to science](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
 
 2026-03-27
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHkwcnJxT2p6eE5TZ1EtZk5LYlNHaDFYcHZWSmotSlp5TjJsaEl3ODViRWY1cVVYVzdDRm9VZnhqQno4c2I5UjJhTEZWRHNPYm16MmJQdlgxVk9aS1VCcU1DNkFfV3N1cVR4WE4yb0ZZTlRjOXpHRGNsUGNWQUtjN0VCVHV0UmlIZ2pSZVNQLVRCVDFQV0pySUljSQ?oc=5)
+來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
 
 ---
 

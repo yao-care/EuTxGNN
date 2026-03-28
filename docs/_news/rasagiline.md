@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
+
+2026-03-27 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[sciencealert.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
+
+---
 
 ### [The four types of dementia most people don’t know exist - The Conversation](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDh0c3NKa0dkRFNwanNSNXZEdmtERXUzUklTMVBiLWVkVWlrTzZxYnN0dFRTN285MTdaNG96MHd2OG9HOXkyMHhTMzU0RVpTOExDaEJTLXpQYk1ETVN5QUtWUGVBRy1yYmI5bWFaZVh2SVczMW5qMGNKYWRBQ1ZTTTdwNENCdmxUMDN1b2tOU2pCSWM?oc=5)
 

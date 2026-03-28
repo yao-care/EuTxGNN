@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elbasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,45 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（16 則）
 
-### [Verdacht auf Lokalspezialität: Hepatitis-Ausbruch in beliebter Urlaubsregion – Klinik überlastet - Kölner Stadt](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbE9IWHVTVVg0U3E4X2pOQ01ualo3UFFZUFlPeTExclRTSnpzZy1vbjJOck5UczdnSVAxSHYzcVkzM1RFcVZQTms5OV9uaHcyblVTeHd3QXVmWEFFajkxZFhWMld6OGFiWXBjM3FEbjAzTkNwZWVPc0V1WlliX2EzTXNCd2t0bHlodVZFbWpSNDBIZ3BteGZDOA?oc=5)
+### [Primo caso umano di virus influenzale Aviaria (H9N2) in Europa, identificato in Lombardia. Ministero della Salute: “Situazione sotto controllo” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTG9xMkJrU1kxcnp5RUo0Z0RudmZNX1hXOXE2TllkQ0l1Qy0yVElhLWJObHVKRzFBdGFHTVVmM1Z0T29KRXBYVHBlYjFFd2JrM00yZjluU1F1UDM4N1JIQ0pVeTJnNi1DZGF6YWRUeGZFSHRQQzFxNTRrQ1NVaHpnemlybGQ2MHJPU3hzRUpzbDRMRmxlUXJRcE5DeTBQeWhYbEZpa2lIa2lnX1VWUTNDdy1GT0xhVnNpRkdvbGxRN0dLNERnbGlKWDdIRC1kNHYxTTlWekhzNk9takJITktKd3kyTmZ0NkVTbVB3S0g0VFVSQVcwUk1wM0dkZzYxelk3NXphZ3ZKRjNqYkxRWTJrbUFRRW9jcW5VWkE?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTG9xMkJrU1kxcnp5RUo0Z0RudmZNX1hXOXE2TllkQ0l1Qy0yVElhLWJObHVKRzFBdGFHTVVmM1Z0T29KRXBYVHBlYjFFd2JrM00yZjluU1F1UDM4N1JIQ0pVeTJnNi1DZGF6YWRUeGZFSHRQQzFxNTRrQ1NVaHpnemlybGQ2MHJPU3hzRUpzbDRMRmxlUXJRcE5DeTBQeWhYbEZpa2lIa2lnX1VWUTNDdy1GT0xhVnNpRkdvbGxRN0dLNERnbGlKWDdIRC1kNHYxTTlWekhzNk9takJITktKd3kyTmZ0NkVTbVB3S0g0VFVSQVcwUk1wM0dkZzYxelk3NXphZ3ZKRjNqYkxRWTJrbUFRRW9jcW5VWkE?oc=5)
+
+---
+
+### [Alzheimer-Forschung zwischen Durchbruch und Geldmangel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[GrenzEcho](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+
+---
+
+### [Epatite A: i Carabinieri del Nas sequestrano 50 chili di frutti di mare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW1vNkhNeTNrUUxnZGxuUzRveV9QWkh3QjBXRUhaZmlCejZKY1E2OEZiaFhEVzYyMHNJMzhjTHdwaS1mb0txZXUweGFfbzZkdndHNDQ4VmUwWDFnVThDaWFzTmk1b1JicVBReVBoZVV0QTA5NVJLSG5aM2g1WTJpYjJoajhFM1RqaVlxYVJrZk9aMDFfUmdtS2pKWWo1OGRyN09YS3BsT3Rzc2JXSFN2aGFTUnZ4WEVyLXBwUlI4Y3JsdWhWcTk1SEY1V1RYRkXSAWhBVV95cUxNZl96SEt5Ym9sYnNvWERQSVQ1bUZLeTlWeXBmRzhQSlJUVzhxZWN3NmNBZUtSeUxTcDFZMFhxRWtnd1ByQWtiNnBobjFUTkU1cTJwU2JFOTVKaGpYQTFFZ2hFZ3FVaFRNOQ?oc=5)
+
+2026-03-27 <span class="news-indication-tag">epatite</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZW1vNkhNeTNrUUxnZGxuUzRveV9QWkh3QjBXRUhaZmlCejZKY1E2OEZiaFhEVzYyMHNJMzhjTHdwaS1mb0txZXUweGFfbzZkdndHNDQ4VmUwWDFnVThDaWFzTmk1b1JicVBReVBoZVV0QTA5NVJLSG5aM2g1WTJpYjJoajhFM1RqaVlxYVJrZk9aMDFfUmdtS2pKWWo1OGRyN09YS3BsT3Rzc2JXSFN2aGFTUnZ4WEVyLXBwUlI4Y3JsdWhWcTk1SEY1V1RYRkXSAWhBVV95cUxNZl96SEt5Ym9sYnNvWERQSVQ1bUZLeTlWeXBmRzhQSlJUVzhxZWN3NmNBZUtSeUxTcDFZMFhxRWtnd1ByQWtiNnBobjFUTkU1cTJwU2JFOTVKaGpYQTFFZ2hFZ3FVaFRNOQ?oc=5)
+
+---
+
+### [Zahl von Hepatitis A Infektionen in Italien stark gestiegen: Behörde reagiert mit Verzehrverbot](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT19xemZIenhtdV8tMGptWFo0Sks3STQ1b09kMTdNSnl2Vi02b1ZxamF0Znc1RUhLVWozOHA0NExidGhxR0FiVUUzcmJkR0d3Q3lQdktiYnZ6Y3NiU0hCOXV3OU9fZXRvZFdiSWxYR3VtMVBqNXgwbFlsYnFpc2d3Q19GeWVaOGdEcTVpcUFPR0JxMWM2MWhUYmgxSzNsUmRNTlZWaW9yb2RwUHZ2bF9ydHdLYXRVQzFHRFE?oc=5)
 
 2026-03-27 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Kölner Stadt-Anzeiger](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbE9IWHVTVVg0U3E4X2pOQ01ualo3UFFZUFlPeTExclRTSnpzZy1vbjJOck5UczdnSVAxSHYzcVkzM1RFcVZQTms5OV9uaHcyblVTeHd3QXVmWEFFajkxZFhWMld6OGFiWXBjM3FEbjAzTkNwZWVPc0V1WlliX2EzTXNCd2t0bHlodVZFbWpSNDBIZ3BteGZDOA?oc=5)
+來源：[Nordbayern](https://news.google.com/rss/articles/CBMiugFBVV95cUxQT19xemZIenhtdV8tMGptWFo0Sks3STQ1b09kMTdNSnl2Vi02b1ZxamF0Znc1RUhLVWozOHA0NExidGhxR0FiVUUzcmJkR0d3Q3lQdktiYnZ6Y3NiU0hCOXV3OU9fZXRvZFdiSWxYR3VtMVBqNXgwbFlsYnFpc2d3Q19GeWVaOGdEcTVpcUFPR0JxMWM2MWhUYmgxSzNsUmRNTlZWaW9yb2RwUHZ2bF9ydHdLYXRVQzFHRFE?oc=5)
+
+---
+
+### [Horror as deadly Victorian era disease explodes in school outbreak – thousands warned - Daily Express](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
 
 ---
 
@@ -60,11 +92,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Epatite A, raffica di controlli dei carabinieri: sequestri in tre pescherie](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFBzSkxpTW1kVkxaV1loUjNydE5tV0MxT3dwSWVweTF1aGVhemxQVHlaMENQbkZmam9MeWRHRlcwYmRlclY5NG9lUU5QU1c5eDhPekZZX0g3OGNUYm9NUEpMTnVPVmtEY1E4Mk5HUGx0UFVrWHNySlhOVDFralJRT0xB?oc=5)
+### [21-year-old who couldn't balance after holiday died three months after diagnosis - The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
 
-2026-03-27 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+2026-03-27 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[NapoliToday](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFBzSkxpTW1kVkxaV1loUjNydE5tV0MxT3dwSWVweTF1aGVhemxQVHlaMENQbkZmam9MeWRHRlcwYmRlclY5NG9lUU5QU1c5eDhPekZZX0g3OGNUYm9NUEpMTnVPVmtEY1E4Mk5HUGx0UFVrWHNySlhOVDFralJRT0xB?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
 
 ---
 
@@ -84,11 +116,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Caso di Epatite A in Toscana in una scuola a Grosseto: i chiarimenti e i consigli di ASL per la profilassi - Il Tirreno](https://news.google.com/rss/articles/CBMisgFBVV95cUxPejBBZTF6amtoTFkySWp4TUpVRnRlbkdpdWl1UXpiYUJpcThGNGFEN1V4VDI4OFo0SWxkSWRVVjN6NlNJNFROVUpQWmtNeFBkOFJQcDB5MEI4bkVUYWpKS3piVWdpODVXNW9rX3F5bUtWQmp3QWpiZUs1eEQyU3ZjNWdFellVYjlRNXQyUGhoTGhDVTdacnRyM3IzYThvS2VjRTdwZHI2RDdkcXlvWEdPekNR?oc=5)
+### [Epatite A in una scuola, scatta l’allerta sanitaria: vaccinazioni immediate e famiglie informate](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">epatite</span>
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMisgFBVV95cUxPejBBZTF6amtoTFkySWp4TUpVRnRlbkdpdWl1UXpiYUJpcThGNGFEN1V4VDI4OFo0SWxkSWRVVjN6NlNJNFROVUpQWmtNeFBkOFJQcDB5MEI4bkVUYWpKS3piVWdpODVXNW9rX3F5bUtWQmp3QWpiZUs1eEQyU3ZjNWdFellVYjlRNXQyUGhoTGhDVTdacnRyM3IzYThvS2VjRTdwZHI2RDdkcXlvWEdPekNR?oc=5)
+來源：[MaremmaOggi](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVYyaGh6bnVmNlVEVC0zLUxRTnZZVXZNajFfS09EWXJwUkgyV08wQjlMSF9lak9oNk5HUW9rUndpQ01oa1Bya3VYOVJhZ25qOWIwS09HTVI5d1l4SkgyNFZvUU0wT25PSmlXUGJBNXRpVXJlWTc0U2FnREVGMjRRRWxFR0hyakc3OGFNZW1NWF91bGNSOUNfMDNlck9UR3RVZTVheUYtSVM1RjFzT1ozTzZjbHF3bF94UzM0aG9FSQ?oc=5)
 
 ---
 
@@ -100,6 +132,14 @@ permalink: /news/elbasvir/
 
 ---
 
+### [Major new health warning for anyone going on holiday - full list of countries - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
+
+2026-03-26 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
+
+---
+
 ### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
 
 2026-03-26 <span class="news-indication-tag">MS</span>
@@ -108,11 +148,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Repunte de sarampión: “Es vital mantener actualizado el calendario vacunal para evitar la propagación”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
+### ["Es vital mantener actualizado el calendario vacunal para evitar la propagación del sarampión"](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
 
 2026-03-26 <span class="news-indication-tag">hepatitis</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWNTSVRWS1psS2E1ejh2MVhKMWlONXpUZzZQRXU2cHRDb3ZGQjRWTEFCQjNQTDkxOS1WdDktblhQUlYtWXNwY1A5bGVTVnR3QndWcVJfX0VZeTdaY081Nm5mU2laekhxUGtiOEY3Z2pJb09KMUF4Nnh2MW5oYThOMmR6RWY5Tk05RExiVVlYZm5aSFhvRXAzeHRfb0VhUDRKUkQwQ1MtMXREMFpucjFreDh5dXdtWkd1SjZTa3dxcWFiTW9NSXJBS01uVzNUdF9YOXIwTG5R?oc=5)
+來源：[Comunicae](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
 
 ---
 
@@ -124,11 +164,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak - The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
+### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 2026-03-24 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lecanemab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Rötungen und Juckreiz: Diese Hautprobleme können Hinweise auf Diabetes sein](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQW9DMnhQb1RwNk00U0JyNFhDaldnWjFtYlB2NTktQTNmVlhzeFBmTG5jblp0REtTd0xUSHRmU002cS0tS01WUGtWWXlHNGdOU25JREZDWEt1WUQyYWRNSHNwem54TzJCaHF3SlFoel9GSXlkbngtRkwxNGs0YWJFTFdYcXU1eHYxVWpjRXU2Sk8taUpxNDctNzZmSU5JVUt6NHhyRC1velVBWGZ0YXF6N2Y4WHQ0S09WOU1Dem12MVZjQnVMaWFSZ0tXbFRmcllqRHEzWGpxZmJRYVJGelNZUDVLLVktZS1lTVB5NWNzZDB3V1RmOVlQTndMb9IBgAJBVV95cUxOSzRTckRKWmtNZ2hnejZJRzM0dXJGVjF5c1EwaldQd2ZNeU14ZjFDQzFNamk5Y0xub0xNQmVNU0h5VXhlRHNSeHpGYTJCZ3RCR0NveXlpODMxYlo0MDZydWsxM255dVUxYXFrMVV6MFRBX0RLNDdnOHJuRVUyclVxNWpvcUhTTWxKVDltUE9sVndNbWl2cDg2U29kelR4Rnl0NzhMUTZpWmRuM0Rxc1RXaFE2TVF1Y0FObmppU0JkbFZvdWhOeXhKM29YOFp4QUJGZ3ozd0hwRjZMZFZXUTlEX1NOOGpzVGpWaTI4cGFic2I3em9JR0huZUl4b0NhYjdx?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/lecanemab/
 2026-03-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYVJQWVBzenJqZF9Keld2V2MtLXM2SWpQS0tvY2dSU3dDbXFQQVBlNkkwMEtJQkZHZExFNmVBejRNa2t2dkpYLTJSenJuR2tFbUZyRW9QV3huTUhnX2h5Rk8tTUtzaEY3WnU2VnFTeUY4V3pvSXBtY0xEanlwZ0tnOHJaQXJ5eklBcDM3c1lrVG9va1JFaEhFMHlCSjZQblhOdWVsZ2FtUlBvbURYQzYtZEVJNWVYLXNJSHloamxhb1N3QzhQdkx0bzBfbkd0NklTXzRzYzBKV0VQTVlCLUkzZ2hIUTVrektJWElUZERB?oc=5)
-
----
-
-### [Via libera dal CdA alla rimborsabilità di un nuovo farmaco, di 7 estensioni di indicazioni terapeutiche e di 3 equivalenti - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMif0FVX3lxTE43NUFQejdSRFo3bDVjdmVpa2NhdHpkcmt5cUVJb2RuekpkWUhfWXA4M3FncHRaQ0JldHlqbHhTTktIN1Mxb0daWk8yVVNnT0o1UzZ6YkFKa1k0WWdWaGVQVm5LSmJYbHdmZ0FQSzFpdTZaTUdSd09vMzNqaEZVTDQ?oc=5)
-
-2026-03-26 <span class="news-drug-tag">Lecanemab</span>
-
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMif0FVX3lxTE43NUFQejdSRFo3bDVjdmVpa2NhdHpkcmt5cUVJb2RuekpkWUhfWXA4M3FncHRaQ0JldHlqbHhTTktIN1Mxb0daWk8yVVNnT0o1UzZ6YkFKa1k0WWdWaGVQVm5LSmJYbHdmZ0FQSzFpdTZaTUdSd09vMzNqaEZVTDQ?oc=5)
 
 ---
 

@@ -44,27 +44,35 @@ permalink: /news/lurasidone/
 
 ## 相關新聞（25 則）
 
-### [Nach Meningitis-Ausbruch: Sollte man Kinder jetzt impfen lassen?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmcwa2VwZHpHbU1XV1oweFAzci1ieERNTTQ0ckpkSnlrcFIwX2Vpb2RGU3NiQmZfSlhiVURtcUNnVWtwMDVKSWRId1RyeFVfLXNuYy01RXk5clFHNm9Wdk1CUXpQeHlyTGdxSVR0R1l4VWFHUFlxNS1hOHBGTnh4cmU1WThkVUE4Y0oxbHVhZFlIV28?oc=5)
+### [Primo caso umano di virus influenzale Aviaria (H9N2) in Europa, identificato in Lombardia. Ministero della Salute: “Situazione sotto controllo” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTG9xMkJrU1kxcnp5RUo0Z0RudmZNX1hXOXE2TllkQ0l1Qy0yVElhLWJObHVKRzFBdGFHTVVmM1Z0T29KRXBYVHBlYjFFd2JrM00yZjluU1F1UDM4N1JIQ0pVeTJnNi1DZGF6YWRUeGZFSHRQQzFxNTRrQ1NVaHpnemlybGQ2MHJPU3hzRUpzbDRMRmxlUXJRcE5DeTBQeWhYbEZpa2lIa2lnX1VWUTNDdy1GT0xhVnNpRkdvbGxRN0dLNERnbGlKWDdIRC1kNHYxTTlWekhzNk9takJITktKd3kyTmZ0NkVTbVB3S0g0VFVSQVcwUk1wM0dkZzYxelk3NXphZ3ZKRjNqYkxRWTJrbUFRRW9jcW5VWkE?oc=5)
 
-2026-03-27 <span class="news-indication-tag">AF</span>
+2026-03-27 <span class="news-indication-tag">MS</span>
 
-來源：[sr.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmcwa2VwZHpHbU1XV1oweFAzci1ieERNTTQ0ckpkSnlrcFIwX2Vpb2RGU3NiQmZfSlhiVURtcUNnVWtwMDVKSWRId1RyeFVfLXNuYy01RXk5clFHNm9Wdk1CUXpQeHlyTGdxSVR0R1l4VWFHUFlxNS1hOHBGTnh4cmU1WThkVUE4Y0oxbHVhZFlIV28?oc=5)
-
----
-
-### [„Das verändert die Sichtweise auf Alzheimer grundlegend“](https://news.google.com/rss/articles/CBMimAJBVV95cUxQYWxtRjV4NzRkQXI5T0FfY1VJZlpMNmZmQjhZckxOSlJoUDRZYnFhTzBES0lENHJsQlprdlpYbEduVE9QLTdoMlc1czNiZDZBdmlpc1Nfend1bmkzeTIxVVZrZUlaTWlmYV9VZ3YyYUVhencwOW1MVDhIa3hFSlZLMjZPRHlzWGZldVcyczlFOTRYeDlaX3QxTkxnaEhZZXQ2Y2NwSENSVENjeEhpNUhUemJQVFY1TWdrOHZFXy01M0FxTUsyTTJWd1Y4TTM2Z1o2WHoxb0RldmJqdHVTcWRWSlgxU3dsWDJRS1d4YUFfbkwtQ01YNFhQOHpiRGZlbldOdzRWZ1JsUzZaVU44UWFwSlh0SW54SjRY?oc=5)
-
-2026-03-27 <span class="news-indication-tag">AF</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMimAJBVV95cUxQYWxtRjV4NzRkQXI5T0FfY1VJZlpMNmZmQjhZckxOSlJoUDRZYnFhTzBES0lENHJsQlprdlpYbEduVE9QLTdoMlc1czNiZDZBdmlpc1Nfend1bmkzeTIxVVZrZUlaTWlmYV9VZ3YyYUVhencwOW1MVDhIa3hFSlZLMjZPRHlzWGZldVcyczlFOTRYeDlaX3QxTkxnaEhZZXQ2Y2NwSENSVENjeEhpNUhUemJQVFY1TWdrOHZFXy01M0FxTUsyTTJWd1Y4TTM2Z1o2WHoxb0RldmJqdHVTcWRWSlgxU3dsWDJRS1d4YUFfbkwtQ01YNFhQOHpiRGZlbldOdzRWZ1JsUzZaVU44UWFwSlh0SW54SjRY?oc=5)
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTG9xMkJrU1kxcnp5RUo0Z0RudmZNX1hXOXE2TllkQ0l1Qy0yVElhLWJObHVKRzFBdGFHTVVmM1Z0T29KRXBYVHBlYjFFd2JrM00yZjluU1F1UDM4N1JIQ0pVeTJnNi1DZGF6YWRUeGZFSHRQQzFxNTRrQ1NVaHpnemlybGQ2MHJPU3hzRUpzbDRMRmxlUXJRcE5DeTBQeWhYbEZpa2lIa2lnX1VWUTNDdy1GT0xhVnNpRkdvbGxRN0dLNERnbGlKWDdIRC1kNHYxTTlWekhzNk9takJITktKd3kyTmZ0NkVTbVB3S0g0VFVSQVcwUk1wM0dkZzYxelk3NXphZ3ZKRjNqYkxRWTJrbUFRRW9jcW5VWkE?oc=5)
 
 ---
 
-### [Ask Rachel: My girlfriend refuses to sleep with me since my affair but still wants to get married - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3hPNjNlQWJOSjVZbDcxYzRrd3Q0NnpjNFZEbmVCdVdYd1I0UW5SZk5iVVc3cjBFcnNnZVFVLWk3Ykhoa190TGtYVEVLdDhhbG5PRUVzVDIwZGNublVPbm5oUDk1MXNtVTdqRHhMZFdsWk1TdG9ub1JwdFpwWloyOUJIUEFUczRKejJaR3dpSzA3NmVqcDRJejJuV2hwVWwy?oc=5)
+### [Alzheimer-Forschung zwischen Durchbruch und Geldmangel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[GrenzEcho](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+
+---
+
+### [Horror as deadly Victorian era disease explodes in school outbreak – thousands warned - Daily Express](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
+
+---
+
+### [Ask Rachel: My girlfriend refuses to sleep with me since my affair but still wants to get married](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3hPNjNlQWJOSjVZbDcxYzRrd3Q0NnpjNFZEbmVCdVdYd1I0UW5SZk5iVVc3cjBFcnNnZVFVLWk3Ykhoa190TGtYVEVLdDhhbG5PRUVzVDIwZGNublVPbm5oUDk1MXNtVTdqRHhMZFdsWk1TdG9ub1JwdFpwWloyOUJIUEFUczRKejJaR3dpSzA3NmVqcDRJejJuV2hwVWwy?oc=5)
 
 2026-03-27 <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3hPNjNlQWJOSjVZbDcxYzRrd3Q0NnpjNFZEbmVCdVdYd1I0UW5SZk5iVVc3cjBFcnNnZVFVLWk3Ykhoa190TGtYVEVLdDhhbG5PRUVzVDIwZGNublVPbm5oUDk1MXNtVTdqRHhMZFdsWk1TdG9ub1JwdFpwWloyOUJIUEFUczRKejJaR3dpSzA3NmVqcDRJejJuV2hwVWwy?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3hPNjNlQWJOSjVZbDcxYzRrd3Q0NnpjNFZEbmVCdVdYd1I0UW5SZk5iVVc3cjBFcnNnZVFVLWk3Ykhoa190TGtYVEVLdDhhbG5PRUVzVDIwZGNublVPbm5oUDk1MXNtVTdqRHhMZFdsWk1TdG9ub1JwdFpwWloyOUJIUEFUczRKejJaR3dpSzA3NmVqcDRJejJuV2hwVWwy?oc=5)
 
 ---
 
@@ -102,17 +110,9 @@ permalink: /news/lurasidone/
 
 ### [21-year-old who couldn't balance after holiday died three months after diagnosis - The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
 
-2026-03-27 <span class="news-indication-tag">AF</span>
+2026-03-27 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
-
----
-
-### [Epatite A, raffica di controlli dei carabinieri: sequestri in tre pescherie](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFBzSkxpTW1kVkxaV1loUjNydE5tV0MxT3dwSWVweTF1aGVhemxQVHlaMENQbkZmam9MeWRHRlcwYmRlclY5NG9lUU5QU1c5eDhPekZZX0g3OGNUYm9NUEpMTnVPVmtEY1E4Mk5HUGx0UFVrWHNySlhOVDFralJRT0xB?oc=5)
-
-2026-03-27 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
-
-來源：[NapoliToday](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFBzSkxpTW1kVkxaV1loUjNydE5tV0MxT3dwSWVweTF1aGVhemxQVHlaMENQbkZmam9MeWRHRlcwYmRlclY5NG9lUU5QU1c5eDhPekZZX0g3OGNUYm9NUEpMTnVPVmtEY1E4Mk5HUGx0UFVrWHNySlhOVDFralJRT0xB?oc=5)
 
 ---
 
@@ -188,27 +188,11 @@ permalink: /news/lurasidone/
 
 ---
 
-### [Der unterschätzte Thymus: Neue Studien zeigen Relevanz für gesundes Altern - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TdUcwRFhfMWlIQjZBQVNfdHkzRHJrcWdTeHV2bnFLWG9FeDVzUFMyRmg5VTBzTlByeDJfSHl4RElDcVJ3Nnd6Z3BmZw?oc=5)
-
-2026-03-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TdUcwRFhfMWlIQjZBQVNfdHkzRHJrcWdTeHV2bnFLWG9FeDVzUFMyRmg5VTBzTlByeDJfSHl4RElDcVJ3Nnd6Z3BmZw?oc=5)
-
----
-
 ### [Metformin drug prescribed to 120 million worldwide found to have surprise impact on brain](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
 
 2026-03-26 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
-
----
-
-### [Studie belegt große Wirkung: Diese kleinen Verhaltensänderungen schützen vor Herzinfarkt](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXFOUEh3em5KcGRlZUNzN3p4blFJanNPYnFXLVpURV9uMlBieGxHMVN2NHZVTEtyTDRMOFcxMklBUHF1Z1lkOXNmcmwxRzVFYU91VVNfdlZDMFFTdzRRY25aSUlLcnZNRzAxNU1RUENiM0tiVVRqNl9ON05CN2RoRHh4Q0VTMW5kMTh5OEM4VE5ZejVTTTlDWE9LcHVGTmw5VGUwN2RoNA?oc=5)
-
-2026-03-26 <span class="news-indication-tag">AF</span>
-
-來源：[Ntv](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXFOUEh3em5KcGRlZUNzN3p4blFJanNPYnFXLVpURV9uMlBieGxHMVN2NHZVTEtyTDRMOFcxMklBUHF1Z1lkOXNmcmwxRzVFYU91VVNfdlZDMFFTdzRRY25aSUlLcnZNRzAxNU1RUENiM0tiVVRqNl9ON05CN2RoRHh4Q0VTMW5kMTh5OEM4VE5ZejVTTTlDWE9LcHVGTmw5VGUwN2RoNA?oc=5)
 
 ---
 
@@ -220,11 +204,27 @@ permalink: /news/lurasidone/
 
 ---
 
+### [Major new health warning for anyone going on holiday - full list of countries - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
+
+2026-03-26 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
+
+---
+
 ### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
 
 2026-03-26 <span class="news-indication-tag">MS</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
+
+---
+
+### [La IA puede predecir los resultados de los pacientes con edema macular diabético tras su tratamiento](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanZ6NUJreDZNNjVodUtDaGhYRzhsLWtUVlIySDRLQVlBTlhyTGx0a2J2MzN6MlJXSmp3WjlhU19kTDlENlJXbVd3bHJfNUprOGdZYlVKMy1QUU9md1BiNzdycVhJaFJ5NGFkS0theGdkdTBlR19hN3hpZUNPTkppelJqNjFJOG9BT2lQSkh5cVdhNGJPbUNodUduNW9QSXpEVlpkS3hVa3B2UkhlWEw00gG0AUFVX3lxTE9CR1pjMHIwVU04NjRIMDNaTVFDU1o3S2MydWVVVkIxZUtkU1c1anNoRi05V0tPRDdOb05JaE1YYzEtc01YWGZ3cURHblA0azNPUmswNXU4UDFWakNxVnU0YnA0YmNpa24wemw1Q2liby1sQ2RDVFFBNUQ5VllEQWpsYzZEbDlSbWdmRDVnaTI4M1F2M2NFb3dpOGVFaGpkTGpmbWN6LUV4QU05T1Qwd21tLVFMSA?oc=5)
+
+2026-03-26 <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanZ6NUJreDZNNjVodUtDaGhYRzhsLWtUVlIySDRLQVlBTlhyTGx0a2J2MzN6MlJXSmp3WjlhU19kTDlENlJXbVd3bHJfNUprOGdZYlVKMy1QUU9md1BiNzdycVhJaFJ5NGFkS0theGdkdTBlR19hN3hpZUNPTkppelJqNjFJOG9BT2lQSkh5cVdhNGJPbUNodUduNW9QSXpEVlpkS3hVa3B2UkhlWEw00gG0AUFVX3lxTE9CR1pjMHIwVU04NjRIMDNaTVFDU1o3S2MydWVVVkIxZUtkU1c1anNoRi05V0tPRDdOb05JaE1YYzEtc01YWGZ3cURHblA0azNPUmswNXU4UDFWakNxVnU0YnA0YmNpa24wemw1Q2liby1sQ2RDVFFBNUQ5VllEQWpsYzZEbDlSbWdmRDVnaTI4M1F2M2NFb3dpOGVFaGpkTGpmbWN6LUV4QU05T1Qwd21tLVFMSA?oc=5)
 
 ---
 
@@ -236,11 +236,11 @@ permalink: /news/lurasidone/
 
 ---
 
-### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak - The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
+### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 2026-03-24 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 ---
 
