@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,13 +44,29 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Normal brain immune cells may trigger the onset of Alzheimer's disease, a shocking revelation from a new study](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdndET0w2UUhRNzJfdHNnaldFYURGeXVSWnNJMjNwNE9RR1Z6NmpTRnZpdUg0a3gzQlBwcG5yUEF6S0FiT2xQaVA4Wl93YnBxOGhFLUlDSFpsT2FkLUx0dkpSbTdOdGtuTkw0dVJkdGstdmNKWmtKcjVyMzhXcXpEeHM4WHl0ZzFBZlhRVFZvZjFuNWVDZnpiZDRQQURVQzRyc3Nz?oc=5)
+
+2026-03-28
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdndET0w2UUhRNzJfdHNnaldFYURGeXVSWnNJMjNwNE9RR1Z6NmpTRnZpdUg0a3gzQlBwcG5yUEF6S0FiT2xQaVA4Wl93YnBxOGhFLUlDSFpsT2FkLUx0dkpSbTdOdGtuTkw0dVJkdGstdmNKWmtKcjVyMzhXcXpEeHM4WHl0ZzFBZlhRVFZvZjFuNWVDZnpiZDRQQURVQzRyc3Nz?oc=5)
+
+---
 
 ### [The four types of dementia most people don’t know exist - The Conversation](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDh0c3NKa0dkRFNwanNSNXZEdmtERXUzUklTMVBiLWVkVWlrTzZxYnN0dFRTN285MTdaNG96MHd2OG9HOXkyMHhTMzU0RVpTOExDaEJTLXpQYk1ETVN5QUtWUGVBRy1yYmI5bWFaZVh2SVczMW5qMGNKYWRBQ1ZTTTdwNENCdmxUMDN1b2tOU2pCSWM?oc=5)
 
 2026-03-26
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDh0c3NKa0dkRFNwanNSNXZEdmtERXUzUklTMVBiLWVkVWlrTzZxYnN0dFRTN285MTdaNG96MHd2OG9HOXkyMHhTMzU0RVpTOExDaEJTLXpQYk1ETVN5QUtWUGVBRy1yYmI5bWFaZVh2SVczMW5qMGNKYWRBQ1ZTTTdwNENCdmxUMDN1b2tOU2pCSWM?oc=5)
+
+---
+
+### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
+
+2026-03-25
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
 
 ---
 

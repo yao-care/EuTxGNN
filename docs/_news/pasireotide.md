@@ -14,7 +14,7 @@ permalink: /news/pasireotide/
 ---
 
 <p class="key-answer" data-question="Pasireotide 有什麼相關新聞？">
-<strong>Pasireotide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pasireotide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,63 @@ permalink: /news/pasireotide/
 <p><a href="{{ '/drugs/pasireotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（26 則）
+
+### [Herz: Drei kleine Verhaltensänderungen senken das Herz-Kreislauf-Risiko um zehn Prozent](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNzM4RkRPRHhtWFpzWmhfVFZQbXZzZ2l5NlltTWZFcEtNOVhyWm4zU0xRa0Fxb1ZnN2M0dTdLZzd6cFlFMnpiMHlHeHhRaEtLenpHb1dCZmNfaFBQN19JQnZqZlFQYkwtNlp4NF8wRS1haUplTDF6MW93NHVKakE0ZVJsbWpBQmRNMVNabm1YcXpfeFBrRDFBSTRkLUpBVm5KX1o1aUw3M09OZm43UnRLMXhQdE9qcUJQci02TXFCbFA3a09SQTJET01oTkdaLU9PT0NwQVhXZ3JHcFJOaHRDVmtZMWluUHJiaUFv?oc=5)
+
+2026-03-28 <span class="news-indication-tag">AF</span>
+
+來源：[welt.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNzM4RkRPRHhtWFpzWmhfVFZQbXZzZ2l5NlltTWZFcEtNOVhyWm4zU0xRa0Fxb1ZnN2M0dTdLZzd6cFlFMnpiMHlHeHhRaEtLenpHb1dCZmNfaFBQN19JQnZqZlFQYkwtNlp4NF8wRS1haUplTDF6MW93NHVKakE0ZVJsbWpBQmRNMVNabm1YcXpfeFBrRDFBSTRkLUpBVm5KX1o1aUw3M09OZm43UnRLMXhQdE9qcUJQci02TXFCbFA3a09SQTJET01oTkdaLU9PT0NwQVhXZ3JHcFJOaHRDVmtZMWluUHJiaUFv?oc=5)
+
+---
+
+### [Científicos afirman que las nueces tienen beneficios antienvejecimiento: cuánto comer y cuándo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXFEa2lLdkczQ2pNeENIdi1YZDVwVXRTcjY1LW5ReEp0NnZnNnQ0S01FY3BybnZZWGFaanJpUmdUNUNYTDAtd09IblZ5Q3loeXdfNkxObE1kUkdUWkVTc1FtSVluNFNSWFJLOVBqT0h3aVZaaktkd05OSjVQejNzX3N4N19ndzd2dWZ3cmd0ek52RlI5b2JwZ29rc2xKaVRyV3NOeHdYd3FNNmZvb0xzOFNNWXpEcC01R0NoZzFQN1ROdG5uWkhNZjExYzdzWkVR0gHrAUFVX3lxTE5vcDN5RHhqTmhvZmc4T3N6a3FNOGtHZzFpZWxvcjJkbWQ5bkpVajFtdTNkRUFOQWxJYS1RSFhzWjkxZjlJWDVJMy1YcVB6cF9EQ25ZczRfejBDVzdRanQ5YzQ2UmdQbC1jak9VbHZQZDNjVWl3RGd4U2kwZHJ6TFFkdF9fNGRUWUpRblJmNWJpZDZueVRtQnpvYVJ0NGVHaVRSZVA5bURtYkRnTWpseE50bHV4V2loc25CdlItbWFaT0JCMVNhaUxtdlRNU2lJTzhaZWpZc0kydGRvVVJBUW14UzhPTm1ZbUdxUFk?oc=5)
+
+2026-03-28 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXFEa2lLdkczQ2pNeENIdi1YZDVwVXRTcjY1LW5ReEp0NnZnNnQ0S01FY3BybnZZWGFaanJpUmdUNUNYTDAtd09IblZ5Q3loeXdfNkxObE1kUkdUWkVTc1FtSVluNFNSWFJLOVBqT0h3aVZaaktkd05OSjVQejNzX3N4N19ndzd2dWZ3cmd0ek52RlI5b2JwZ29rc2xKaVRyV3NOeHdYd3FNNmZvb0xzOFNNWXpEcC01R0NoZzFQN1ROdG5uWkhNZjExYzdzWkVR0gHrAUFVX3lxTE5vcDN5RHhqTmhvZmc4T3N6a3FNOGtHZzFpZWxvcjJkbWQ5bkpVajFtdTNkRUFOQWxJYS1RSFhzWjkxZjlJWDVJMy1YcVB6cF9EQ25ZczRfejBDVzdRanQ5YzQ2UmdQbC1jak9VbHZQZDNjVWl3RGd4U2kwZHJ6TFFkdF9fNGRUWUpRblJmNWJpZDZueVRtQnpvYVJ0NGVHaVRSZVA5bURtYkRnTWpseE50bHV4V2loc25CdlItbWFaT0JCMVNhaUxtdlRNU2lJTzhaZWpZc0kydGRvVVJBUW14UzhPTm1ZbUdxUFk?oc=5)
+
+---
+
+### [La méningite tue plus de 250 000 personnes par an dans le monde, selon une étude](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU1g2YzlZT0tldnFGOHNhNHFzaWhCRDN1MTFPRkxMWTY3eEtCTk9iSUswX0w3ck43b0lXclN1LU8tRjBNcWFwZUhVd1M5VWlmTFZfOFF0cnN4eC12YmJhbXEtRm5Oa3BQSzAtazJnZ2ZlTVV5UTU0MGFIRjAwaTE1cmx6VWxsbVFZWS1DYWJESDFmbUZDZlRraWtPbjVYMS1BVE9MTWN6eFJla0tOMWFNZm5fQTRGdzBITVBuWTA4aVV2OGpqT091WjVCalc0amlBUjBaSVh2YmFnQQ?oc=5)
+
+2026-03-28 <span class="news-indication-tag">AF</span>
+
+來源：[franceinfo.fr](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU1g2YzlZT0tldnFGOHNhNHFzaWhCRDN1MTFPRkxMWTY3eEtCTk9iSUswX0w3ck43b0lXclN1LU8tRjBNcWFwZUhVd1M5VWlmTFZfOFF0cnN4eC12YmJhbXEtRm5Oa3BQSzAtazJnZ2ZlTVV5UTU0MGFIRjAwaTE1cmx6VWxsbVFZWS1DYWJESDFmbUZDZlRraWtPbjVYMS1BVE9MTWN6eFJla0tOMWFNZm5fQTRGdzBITVBuWTA4aVV2OGpqT091WjVCalc0amlBUjBaSVh2YmFnQQ?oc=5)
+
+---
+
+### [Les scientifiques ont tranché : ce fruit permet d'éliminer le mauvais cholestérol en 6 mois](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd0V3Tm96M0c3ZjAzRVQ0Ni1QUE13TkZ5OUFRZ0VUSGxKNm9TQ3ZaX0VrbE1QQkVrWlBGS1hDNklncnZLcGN0TDNsdkhXV015SS1rNjkxQjVHNzVCZEp0bXc5NUY4dVoydGNKVFJ1WXNFTjJkcG1KZF94ejR3enY5amVXSWhSZkJwM19jY2loNnpYUjNlRGRxd3E4dXlWOXlCci1jeGFwTTJUSUxvOEhjbzI3emVMeVl0eC1tY1c0XzVCT3FHcE9HVm9Ea3k2UHZaZFRRb2tMZTdVNy1L?oc=5)
+
+2026-03-28 <span class="news-indication-tag">AF</span>
+
+來源：[grazia.fr](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd0V3Tm96M0c3ZjAzRVQ0Ni1QUE13TkZ5OUFRZ0VUSGxKNm9TQ3ZaX0VrbE1QQkVrWlBGS1hDNklncnZLcGN0TDNsdkhXV015SS1rNjkxQjVHNzVCZEp0bXc5NUY4dVoydGNKVFJ1WXNFTjJkcG1KZF94ejR3enY5amVXSWhSZkJwM19jY2loNnpYUjNlRGRxd3E4dXlWOXlCci1jeGFwTTJUSUxvOEhjbzI3emVMeVl0eC1tY1c0XzVCT3FHcE9HVm9Ea3k2UHZaZFRRb2tMZTdVNy1L?oc=5)
+
+---
+
+### [Drug warnings review after some patients 'misled' over impulsive behaviour side effects](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nVVlxMWUzb0l0dGtLUWhNUWE3TE1Tb1JlMHIyZHh5emVwT2JaVm9RdnVDNDhncmxfbFdQOHRLb0ljd3dQU3RxcTEtaWlCaWFKdlNBbWlXSTdSb0tG?oc=5)
+
+2026-03-28 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nVVlxMWUzb0l0dGtLUWhNUWE3TE1Tb1JlMHIyZHh5emVwT2JaVm9RdnVDNDhncmxfbFdQOHRLb0ljd3dQU3RxcTEtaWlCaWFKdlNBbWlXSTdSb0tG?oc=5)
+
+---
+
+### [Metformin drug prescribed to 120 million worldwide found to have surprise impact on brain](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
+
+2026-03-27 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
+
+---
+
+### [Un nouveau variant du Covid-19 au nombre record de mutations se propage dans le monde](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkxiR2QyMkF6OEtxcjdMYWdIQUJUTk50Rlk0ai1zZzA3U2pMWEotRjRQZ2JWUDREbE1BQWJ6LVp1a0lUNk1qeTFfNFAxQUVsci03SEZ2cFM4LUY5V05ibFM4XzJ6RXFaNFpLOVgxdXlTWVdQRDE4dnV0Z0VyaEoyanNVQXluelNRR0IwVFQxcm1PaHg5VmfSAZsBQVVfeXFMTnZjejhWV2xJMjlZeVVDVTNjaTh0a3JLdHI2MFdRaHA0QVMxTzZ0cHlRNzgyT3B1dDdubEhBSHBTTklkOENFdWEyRUhzMFVtZnczRS1rOXZ6YWUteW1hZ0p1VzNSUmJybW5yeWw2V2pjVWJPZVBSeDQxSXJOSEYzNWNid2ZiZkJ1OVpQQzIwMUNzRGtfTUpPMTBMV0U?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AF</span>
+
+來源：[Slate.fr](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkxiR2QyMkF6OEtxcjdMYWdIQUJUTk50Rlk0ai1zZzA3U2pMWEotRjRQZ2JWUDREbE1BQWJ6LVp1a0lUNk1qeTFfNFAxQUVsci03SEZ2cFM4LUY5V05ibFM4XzJ6RXFaNFpLOVgxdXlTWVdQRDE4dnV0Z0VyaEoyanNVQXluelNRR0IwVFQxcm1PaHg5VmfSAZsBQVVfeXFMTnZjejhWV2xJMjlZeVVDVTNjaTh0a3JLdHI2MFdRaHA0QVMxTzZ0cHlRNzgyT3B1dDdubEhBSHBTTklkOENFdWEyRUhzMFVtZnczRS1rOXZ6YWUteW1hZ0p1VzNSUmJybW5yeWw2V2pjVWJPZVBSeDQxSXJOSEYzNWNid2ZiZkJ1OVpQQzIwMUNzRGtfTUpPMTBMV0U?oc=5)
+
+---
 
 ### [Alzheimer-Forschung zwischen Durchbruch und Geldmangel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
 
@@ -57,14 +113,6 @@ permalink: /news/pasireotide/
 2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
-
----
-
-### [Nach Meningitis-Ausbruch: Sollte man Kinder jetzt impfen lassen?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmcwa2VwZHpHbU1XV1oweFAzci1ieERNTTQ0ckpkSnlrcFIwX2Vpb2RGU3NiQmZfSlhiVURtcUNnVWtwMDVKSWRId1RyeFVfLXNuYy01RXk5clFHNm9Wdk1CUXpQeHlyTGdxSVR0R1l4VWFHUFlxNS1hOHBGTnh4cmU1WThkVUE4Y0oxbHVhZFlIV28?oc=5)
-
-2026-03-27 <span class="news-indication-tag">AF</span>
-
-來源：[SR.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmcwa2VwZHpHbU1XV1oweFAzci1ieERNTTQ0ckpkSnlrcFIwX2Vpb2RGU3NiQmZfSlhiVURtcUNnVWtwMDVKSWRId1RyeFVfLXNuYy01RXk5clFHNm9Wdk1CUXpQeHlyTGdxSVR0R1l4VWFHUFlxNS1hOHBGTnh4cmU1WThkVUE4Y0oxbHVhZFlIV28?oc=5)
 
 ---
 
@@ -116,6 +164,14 @@ permalink: /news/pasireotide/
 
 ---
 
+### [Ni plátano ni manzana: la fruta que tienes que tomar antes de dormir para reducir el estrés y la ansiedad, ...](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZTdleHYydEJMd3ZFS3ppRHBOeFRmOHl6M1k0cWlCcVVkRWdJVGJpODNfSVduV0xQZE0xVWNHWnM1S0pvS1hsaUZTOHpFendjYnVWajBpeFQ1OE9FVEhSeUY0eDFtMUN2WEVnR3VVdFI5c2JnbkNoLVkxS0dJZUJlS2ZvWDJWa1VFRUZ4QXJLWFR0cWlNY1dObXFobC1NTnYxUHU5THNNbnhQSVZBWm5FR2pvWFZaZGRFSGdsWU5CRTRqd0t3bWM4VTF1UTZZQ2dOLWfSAdcBQVVfeXFMT1U2ZjlzWGEzOUxQSWg1a3Foa2FWWmhRNGp3bGRCVnhGcW5vWFZLSkJtTVdlY1JsdmsxRzY2MFBkTEZXS2steXpRX1dLNktUN2VBd0xxNEd0Z2tJd09PdmRvbi1CQndwaEtBaEphbFFVeEl5UWNUR19lSUg2a3RwODZhUWxDcnZwTFl1cmNCend1OGlYNlJLcUZEMlo3Y2FnVW9sam9wUHAtMGxtUTJUaUZqZjhzS0dzRVR6ZlJjXzlKTXJwRXEwZ2Y3OWdmTFVNeGMtaGZyWUE?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZTdleHYydEJMd3ZFS3ppRHBOeFRmOHl6M1k0cWlCcVVkRWdJVGJpODNfSVduV0xQZE0xVWNHWnM1S0pvS1hsaUZTOHpFendjYnVWajBpeFQ1OE9FVEhSeUY0eDFtMUN2WEVnR3VVdFI5c2JnbkNoLVkxS0dJZUJlS2ZvWDJWa1VFRUZ4QXJLWFR0cWlNY1dObXFobC1NTnYxUHU5THNNbnhQSVZBWm5FR2pvWFZaZGRFSGdsWU5CRTRqd0t3bWM4VTF1UTZZQ2dOLWfSAdcBQVVfeXFMT1U2ZjlzWGEzOUxQSWg1a3Foa2FWWmhRNGp3bGRCVnhGcW5vWFZLSkJtTVdlY1JsdmsxRzY2MFBkTEZXS2steXpRX1dLNktUN2VBd0xxNEd0Z2tJd09PdmRvbi1CQndwaEtBaEphbFFVeEl5UWNUR19lSUg2a3RwODZhUWxDcnZwTFl1cmNCend1OGlYNlJLcUZEMlo3Y2FnVW9sam9wUHAtMGxtUTJUaUZqZjhzS0dzRVR6ZlJjXzlKTXJwRXEwZ2Y3OWdmTFVNeGMtaGZyWUE?oc=5)
+
+---
+
 ### [Mum paralysed and malnourished after taking weight loss tablets issues warning from hospital bed - Daily Record](https://news.google.com/rss/articles/CBMingFBVV95cUxPVk9zamhtb1FNVnRmbDh1VDdENDdqVzFROVdwZExXTlBrUTdDa0ljV3RiUzNwZWQ1S2lpNE1ZVWxNbG1rUERycTc5UW4xWnF4aTBZV25oNFdEdGpCcGRqZ0dZX2ZvRl84djdXeGhiM2NsQ2dXdm44NU9kUHZwMXFvNVFhbmFRNG5ER2p1ME1pYXpKeWRLX3ZqTTNxWXc4QdIBowFBVV95cUxNZUd2VEl4dUlTLWplXzg0R0dhRV9jSmROV1U5a1pRdzJCQ2ppdWtNWml6dXdiN3pudFVTUm5GaThxMWViUG9HTlV4RHFuSG1EUFZYQnNJeW4zVVZuSktXSmkxQ0tXYWF4NkpTcUU3RFhwal9oWU53QWpKVC1iM0FOb0FvUEg3TkdOZ1hVcHVuLVJiaktoM2dqd19TaEt5MnZrWXFv?oc=5)
 
 2026-03-27 <span class="news-indication-tag">AF</span>
@@ -124,19 +180,19 @@ permalink: /news/pasireotide/
 
 ---
 
+### [Zwei Tote: Massive Infektionswelle auf Insel – Auswärtiges Amt warnt jetzt Reisende](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUhHNVFFeTF0NV9ZQTdyMjgteGxiNEx2WDRfd3ZYb3A3R1Ixdlk5TGVoWUFzWDE2bk5QQkZoUWRXZFdhN01KVFdEdE42TGRFbUxlZDVReHByem9jV2x3QThtUGlJbGtHclpPR1JKOU4wNVRmN3JnaVdiaVpQWU0yU2tUdmEyQ29mTzl3ank4SENSeEhRXzZLTGhMLU5ub00tMi1NbHZTV0Q5TmNxWWc?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AF</span>
+
+來源：[HNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUhHNVFFeTF0NV9ZQTdyMjgteGxiNEx2WDRfd3ZYb3A3R1Ixdlk5TGVoWUFzWDE2bk5QQkZoUWRXZFdhN01KVFdEdE42TGRFbUxlZDVReHByem9jV2x3QThtUGlJbGtHclpPR1JKOU4wNVRmN3JnaVdiaVpQWU0yU2tUdmEyQ29mTzl3ank4SENSeEhRXzZLTGhMLU5ub00tMi1NbHZTV0Q5TmNxWWc?oc=5)
+
+---
+
 ### [The person in your life who always remembers your preferences, your allergies, your coffee order, and your parking spot isn't just thoughtful. They grew up in a house where noticing details was how you stayed safe. - Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxPUU5SZzFtQ0JoZ2VScnJKUXE0YkJPcFFnTWpwSVA5SHBpRHhTN3ktTDFMTmpBUU00b0xieXVlamh5Tzc3TGlDZXFkMlRubEhSc0J6ZmVhekdvSGkzR0FvZVNIM3JuZnlEYlpDRVRaLWVaT2lZd3ZPOEhnRTV2bkctNmwtUW42V0dUaWVpREJpeU9qVVJhYjgzaXNTNGNBdEZ1eWcwLVhlbUxCc0xsZy0wME5Nd0RMN3RoSVMyVXluUktGT1FCMmowNVpkVUhzYnBiSmlic0huZU80c3l6ZjRzREZRU2VsLXNTNTdBOHFCb3BoV1RFZ1B5NzM3ZENlLTFlMUF4UGhQOXFrNDdqWXhvaG1WSndSc3NFU1RYbWQ2Nmo0UTZUdXlzZDdkQ3lGT1h3WGR6LXM3ZFE4WlRUSDFVVlpxQVFkNWZpZmE4?oc=5)
 
 2026-03-27 <span class="news-indication-tag">AF</span>
 
 來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxPUU5SZzFtQ0JoZ2VScnJKUXE0YkJPcFFnTWpwSVA5SHBpRHhTN3ktTDFMTmpBUU00b0xieXVlamh5Tzc3TGlDZXFkMlRubEhSc0J6ZmVhekdvSGkzR0FvZVNIM3JuZnlEYlpDRVRaLWVaT2lZd3ZPOEhnRTV2bkctNmwtUW42V0dUaWVpREJpeU9qVVJhYjgzaXNTNGNBdEZ1eWcwLVhlbUxCc0xsZy0wME5Nd0RMN3RoSVMyVXluUktGT1FCMmowNVpkVUhzYnBiSmlic0huZU80c3l6ZjRzREZRU2VsLXNTNTdBOHFCb3BoV1RFZ1B5NzM3ZENlLTFlMUF4UGhQOXFrNDdqWXhvaG1WSndSc3NFU1RYbWQ2Nmo0UTZUdXlzZDdkQ3lGT1h3WGR6LXM3ZFE4WlRUSDFVVlpxQVFkNWZpZmE4?oc=5)
-
----
-
-### ["Un minimum de respect" : cette campagne pour la préménopause de l'Assurance Maladie choque et scandalise - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
-
-2026-03-26 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
 
 ---
 
@@ -156,14 +212,6 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Kingston Park lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
-
-2026-03-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWszMHZPcm81cTRnMUhIV01uakZsbklDeGtRdVhtVnpfYlFzRVFyRXFBVDVKZjZGMWdUdEM2M1FIaFZDVGhpQzZvR3lBaTlSNktuRGtMUUhkMHJZQ3E1UWU4MXJjTTVWVkMzYS1MczZNT1o2bmczRFRLVGNqV1Yyb2NUcVBEUVZQRlVzbWJBaGY?oc=5)
-
----
-
 ### [Las nuevas directrices internacionales sobre sepsis ponen el foco de atención en las secuelas psíquicas de los afectados - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdkl4bDNNV2cySzFzazc2czNVcGtsSFV0OThfQ2xmY0F0Q0FvbnZGLS1KT0cxUFhQSzB5YkNFZ0piemstemtEUzNSQS1KTWJBdE8xUGd3OFk3MkUyalB3WXRmVkhnU3g1UENTX3hyck5wY002N21oRlFYMWVQbmZEUm5vUnY3cGE2T2xRelhNR3FoeHFONXlCbF9Da0hDSHFKTXhxeWZNdlBkSHRyYXpFeTBnOWJTaWd1YlFVYWRrdFFlbk3SAb4BQVVfeXFMTWUwd21QWU1rckNmTzhNUWI0WEpnN29KSFlQbUt3SkVfYVZibTdwcnNZdGRKYjdOTEdoeXN6ckpCeF9VMjhkU3JkcjhncVNCS0pUZGZvOWpIdWZ2TmlvQlMyWnZPQTA1Qy12VU4zRTJ0eVgwLXQxVnAxWThEeXlKTWhMTkxaRHRsQng0R01WSU1hNVQ4cGJQdmgyUlhKdUlMZ2VxNEp3ZUg1X296UWtTeHUxc1hWQ3VWT1JvemhVQQ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">AF</span>
@@ -172,27 +220,35 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Conferencia impartida por Eduardo Blanco: Como fotografíar el cielo - Ayuntamiento de Corella](https://news.google.com/rss/articles/CBMikAFBVV95cUxPWEoxeWpzc0o0Sm1oSm5wX3VObno5RHVIWDRPR1BrdGZtRTlHZWR2REl6dlE1WWFSQjFHc2RPR1JLbVM4NFZzVHFhcTI5M3VOQi1JQTNucjR0cldmaTgxMFl6aTRCVUotNHFPb1AtY2pidXk4ZWRMNjVQV0ZHdW9YLV9UaEg4dURFYUNHb1dmbno?oc=5)
+### ['I was left doubly incontinent by a condition that affects 1 million UK women'](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
-2026-03-26 <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">AF</span>
 
-來源：[Ayuntamiento de Corella](https://news.google.com/rss/articles/CBMikAFBVV95cUxPWEoxeWpzc0o0Sm1oSm5wX3VObno5RHVIWDRPR1BrdGZtRTlHZWR2REl6dlE1WWFSQjFHc2RPR1JLbVM4NFZzVHFhcTI5M3VOQi1JQTNucjR0cldmaTgxMFl6aTRCVUotNHFPb1AtY2pidXk4ZWRMNjVQV0ZHdW9YLV9UaEg4dURFYUNHb1dmbno?oc=5)
-
----
-
-### [Metformin drug prescribed to 120 million worldwide found to have surprise impact on brain](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
-
-2026-03-26 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPajVHd215QzJhMEdBR2FLVmF2d2hxRHBLUXRZQi1ZVEhUNE4zRE5YYUtuRVA4ajY4TGc4QVRQYjJ6ZTlFRUt6S2lRSFFnaHdkVmIzVmQwcnVIVlR1SUFDMWExQzF5VzNwRkV2YWU3dVZ0N1V5c2oybnU3SDQ2dFFJZFVpcldJcDR0a3VGeGlfVlo1dHd2OTB2Uw?oc=5)
 
 ---
 
-### [Après la mort d'une jeune femme d'une méningite foudroyante en Normandie, l'enquête des autorités sanitaires livre ses premières conclusions - France 3 Régions](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNdDJWRlFTdi13d2wxU2E3ZVNLSXIxWVMyVEdpclVrb0pTNkw2SVlLNm1JTkx3V1h5YlVQdFdJS3M1TERhMTlhaXZNbzdmaUE5UUE3X1QyMExBSE1BNUxsOXBFMVEtU1I1Ykp3NjdFRGpXY3lNWllIaU5jVzhOSG5POTJ1UFEza1ZiOTNYMldMWlBOci0wV0U1RXI1NDZHdndKSW4tTnhBaVVOc2VQbll4eXNvRzlsa1NSWkpONVMxakJ2M083SG9HcnQ3d0puakRPcXRzZGNIWTh5UTEyaERlR251VXl6M24zQUt4MWhIYjNfeWtGZjMtQ0lxbktsV2pOckFIRWtaUXhrWkFvNlgyOHFCTjA3U0F5clp2LTRYMS1yem4yMDNERDhWQ2tPaXBUa1VfTXdEeGowT2t0UFlaN21R?oc=5)
+### [Five Habits A GP Says Separates People Who Age Well From Those Who Don't](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
 
-2026-03-26 <span class="news-indication-tag">AF</span>
+2026-03-25 <span class="news-indication-tag">AF</span>
 
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNdDJWRlFTdi13d2wxU2E3ZVNLSXIxWVMyVEdpclVrb0pTNkw2SVlLNm1JTkx3V1h5YlVQdFdJS3M1TERhMTlhaXZNbzdmaUE5UUE3X1QyMExBSE1BNUxsOXBFMVEtU1I1Ykp3NjdFRGpXY3lNWllIaU5jVzhOSG5POTJ1UFEza1ZiOTNYMldMWlBOci0wV0U1RXI1NDZHdndKSW4tTnhBaVVOc2VQbll4eXNvRzlsa1NSWkpONVMxakJ2M083SG9HcnQ3d0puakRPcXRzZGNIWTh5UTEyaERlR251VXl6M24zQUt4MWhIYjNfeWtGZjMtQ0lxbktsV2pOckFIRWtaUXhrWkFvNlgyOHFCTjA3U0F5clp2LTRYMS1yem4yMDNERDhWQ2tPaXBUa1VfTXdEeGowT2t0UFlaN21R?oc=5)
+來源：[huffingtonpost.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXhaRzNfZEpLSUVpbmhjYUVxVEVJQ1FvXzY2SlpMV2poZjg0Q2NTVV82ZW8yV1dhdTVodk11b3lpTjVzZzMzczhZRjJ1RWowOWhGMDNrLXU2Q1JFQVZ3RWdnTGFQMkVfdmpKWE53SThEVkQzeV95bWpsTjczUHVmYkFsR2tSSGNxLTVvY0NhU1bSAZcBQVVfeXFMUHQyQ2FGNFlheGVwMW5GNlROcHlrQjNITWdnM3VxS3NOdlNBbXQtVE1kVHBhbHdOUU95dWUwaHhHQTRpS0VTalVHYzh1cVZ4VUlobW1rZmJaM2hQekVKLVVpUTZCWDZZeUZlbVdqakdsYzBMaWYxM2UxdUlXMnB3OTd0OVJHam1MaXpOdFR0M0VWeWRRRXFyaw?oc=5)
+
+---
+
+### [Family update on Brit mum, 33, fighting for life in Tenerife after horror airport scenes - Manchester Evening News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEJ3dmw0eXdGN0dsb25WcHM3RFg3ZUp2MTNJTDZET2dTQ2F6X3IwMUpoX0RSbFc1S3Q5aG9VOE5yYUo2UEdkZUgwV0JOY1NmbVV1ZmhtODEwZ3FzRzRhamtueGczZG4xdmh0QkljMEx5WW1YNUlwYWRSN3JRRURnMks5YTBlV2Jkay1ULTliWlRBTWU2cUwxbVlCXzB1LTDSAaQBQVVfeXFMTU9XSk9jbURJU0FlNmM4NVhPaXNsTm5RMWFJT2VhNUNHSmJONXhPMm5sck5RcS1vcmVrTEdJYmhUVlFOalQ0WGxldEhxUFk3RTlOak45akNPTVdWVGZERlpEWlVXXzlMWHpuTldsblRvWk5BdVp1ZGxDS0pLWWhMbFVfR2FmUThyaUIwZlFhajdrbUl4STYyVHRiSFB5dHlFazc1T0U?oc=5)
+
+2026-03-25 <span class="news-indication-tag">AF</span>
+
+來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEJ3dmw0eXdGN0dsb25WcHM3RFg3ZUp2MTNJTDZET2dTQ2F6X3IwMUpoX0RSbFc1S3Q5aG9VOE5yYUo2UEdkZUgwV0JOY1NmbVV1ZmhtODEwZ3FzRzRhamtueGczZG4xdmh0QkljMEx5WW1YNUlwYWRSN3JRRURnMks5YTBlV2Jkay1ULTliWlRBTWU2cUwxbVlCXzB1LTDSAaQBQVVfeXFMTU9XSk9jbURJU0FlNmM4NVhPaXNsTm5RMWFJT2VhNUNHSmJONXhPMm5sck5RcS1vcmVrTEdJYmhUVlFOalQ0WGxldEhxUFk3RTlOak45akNPTVdWVGZERlpEWlVXXzlMWHpuTldsblRvWk5BdVp1ZGxDS0pLWWhMbFVfR2FmUThyaUIwZlFhajdrbUl4STYyVHRiSFB5dHlFazc1T0U?oc=5)
+
+---
+
+### [Urgent warning issued to dog owners after confirmed case of killer disease](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSklNTjJPWVJqSklHUGIySmpPZ1dLVllycFdNcXZpNEdDTExYRHdnVTRILXFTN1dRbFp2R2FYRldGRzJabUpRU1JkZzRoT2ltQ2lUT01BaG9tQTV2M1RYemoxazh1XzNWci1Eb05Wb2dqbi1zc1NuNmhFLVo3anNRWnFiTkI0cWZNM3JQQmV5YXDSAZYBQVVfeXFMUFpvSnBiLXJWajFkbDBnZTZlR1BxNmtnUnhHS0JXeWllWVlDb2NKNFh5UXhDR1F1VjhUQkVJUWFWeU9kUWVvR2tLUmpORElTTXdhNVFGRVk3VjhrSkoySFd0QjkzczlnRFdBSWhJRllrSXBHbHBaS2VIR0p3Y1BNd3ZBdjllcGNsN1BOVWVoM1d3Y3VDeWh3?oc=5)
+
+2026-03-23 <span class="news-indication-tag">AF</span>
+
+來源：[walesonline.co.uk](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSklNTjJPWVJqSklHUGIySmpPZ1dLVllycFdNcXZpNEdDTExYRHdnVTRILXFTN1dRbFp2R2FYRldGRzJabUpRU1JkZzRoT2ltQ2lUT01BaG9tQTV2M1RYemoxazh1XzNWci1Eb05Wb2dqbi1zc1NuNmhFLVo3anNRWnFiTkI0cWZNM3JQQmV5YXDSAZYBQVVfeXFMUFpvSnBiLXJWajFkbDBnZTZlR1BxNmtnUnhHS0JXeWllWVlDb2NKNFh5UXhDR1F1VjhUQkVJUWFWeU9kUWVvR2tLUmpORElTTXdhNVFGRVk3VjhrSkoySFd0QjkzczlnRFdBSWhJRllrSXBHbHBaS2VIR0p3Y1BNd3ZBdjllcGNsN1BOVWVoM1d3Y3VDeWh3?oc=5)
 
 ---
 

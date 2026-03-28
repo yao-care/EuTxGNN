@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="Brivaracetam 有什麼相關新聞？">
-<strong>Brivaracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brivaracetam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/brivaracetam/
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Camille, Réunionnaise de 5 ans atteinte d’épilepsie, doit subir une opération du cerveau](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1JPSWg4a1ZMSW4tbTFTdjhQRXl2Q2dUWkVWdy1rdEczSER4YXAzODNmdEsydjdqV1NjR0ppQ3YyYkZNUllpWTg4Q3JvbWhqamRMczVMamNXb051Zk4tX1pXQ2t3bUZ4Um5mcGQ5aENiMXlnbnRSNlBPYzNHZEh2OXRGUlMyekJXRk1RUHcxZ0tVWVhCVGRyTVEweTZvUUpiMFhKc3FXRzVzdGViNWtScnJEMmZzUjhFR09JUlhybVgzdlBKWjdpV2duS3lreVE?oc=5)
+
+2026-03-28 <span class="news-indication-tag">épilepsie</span>
+
+來源：[linfo.re](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1JPSWg4a1ZMSW4tbTFTdjhQRXl2Q2dUWkVWdy1rdEczSER4YXAzODNmdEsydjdqV1NjR0ppQ3YyYkZNUllpWTg4Q3JvbWhqamRMczVMamNXb051Zk4tX1pXQ2t3bUZ4Um5mcGQ5aENiMXlnbnRSNlBPYzNHZEh2OXRGUlMyekJXRk1RUHcxZ0tVWVhCVGRyTVEweTZvUUpiMFhKc3FXRzVzdGViNWtScnJEMmZzUjhFR09JUlhybVgzdlBKWjdpV2duS3lreVE?oc=5)
+
+---
 
 ### [Three children in same family secure €3.6m after settling cases over epilepsy drug - The Irish Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RpN3NzSll3bC1zajgyTko4QmFTVkFNbFNISjNJR1UyVjEzRDZqVWh4LUQ4bHlqWFBLTEZxT21aQ0NvVWNuMDY0dDRqZ3FFMTNJOGNvUEltTVdmTUdKUlBOZF84N3l5R0VreThDMXdoQU5BNnNva01PRHVDQWxnYXplTThJcFpVdTNDS3k1SGpZV1VhOFhPeTBMZ2YyejZHTzlLcFFoZGFQM3VMNlptdG8xU0JVVFBDYUZ2Z0ppVzczVGNUSWp4WEI3MUJUR0VUQ0E?oc=5)
 

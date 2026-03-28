@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Normal brain immune cells may trigger the onset of Alzheimer's disease, a shocking revelation from a new study](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdndET0w2UUhRNzJfdHNnaldFYURGeXVSWnNJMjNwNE9RR1Z6NmpTRnZpdUg0a3gzQlBwcG5yUEF6S0FiT2xQaVA4Wl93YnBxOGhFLUlDSFpsT2FkLUx0dkpSbTdOdGtuTkw0dVJkdGstdmNKWmtKcjVyMzhXcXpEeHM4WHl0ZzFBZlhRVFZvZjFuNWVDZnpiZDRQQURVQzRyc3Nz?oc=5)
+
+2026-03-28 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdndET0w2UUhRNzJfdHNnaldFYURGeXVSWnNJMjNwNE9RR1Z6NmpTRnZpdUg0a3gzQlBwcG5yUEF6S0FiT2xQaVA4Wl93YnBxOGhFLUlDSFpsT2FkLUx0dkpSbTdOdGtuTkw0dVJkdGstdmNKWmtKcjVyMzhXcXpEeHM4WHl0ZzFBZlhRVFZvZjFuNWVDZnpiZDRQQURVQzRyc3Nz?oc=5)
+
+---
 
 ### [The four types of dementia most people don’t know exist - The Conversation](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDh0c3NKa0dkRFNwanNSNXZEdmtERXUzUklTMVBiLWVkVWlrTzZxYnN0dFRTN285MTdaNG96MHd2OG9HOXkyMHhTMzU0RVpTOExDaEJTLXpQYk1ETVN5QUtWUGVBRy1yYmI5bWFaZVh2SVczMW5qMGNKYWRBQ1ZTTTdwNENCdmxUMDN1b2tOU2pCSWM?oc=5)
 
 2026-03-26 <span class="news-indication-tag">dementia</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDh0c3NKa0dkRFNwanNSNXZEdmtERXUzUklTMVBiLWVkVWlrTzZxYnN0dFRTN285MTdaNG96MHd2OG9HOXkyMHhTMzU0RVpTOExDaEJTLXpQYk1ETVN5QUtWUGVBRy1yYmI5bWFaZVh2SVczMW5qMGNKYWRBQ1ZTTTdwNENCdmxUMDN1b2tOU2pCSWM?oc=5)
+
+---
+
+### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
+
+2026-03-25 <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
 
 ---
 
