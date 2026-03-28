@@ -42,7 +42,7 @@ jobs:
               url_path=""
             fi
 
-            full_url="https://hktxgnn.yao.care/${url_path}"
+            full_url="https://eutxgnn.yao.care/${url_path}"
             URLS="${URLS}\"${full_url}\","
           done
 
@@ -54,9 +54,9 @@ jobs:
         run: |
           PAYLOAD=$(cat <<EOF
           {
-            "host": "hktxgnn.yao.care",
-            "key": "5175a2bd30fb4c01a05621d41abe5e5c",
-            "keyLocation": "https://hktxgnn.yao.care/5175a2bd30fb4c01a05621d41abe5e5c.txt",
+            "host": "eutxgnn.yao.care",
+            "key": "ad4cbfeb60194363ab0400551f4b2cc0",
+            "keyLocation": "https://eutxgnn.yao.care/ad4cbfeb60194363ab0400551f4b2cc0.txt",
             "urlList": ${{ steps.changed.outputs.urls }}
           }
           EOF
