@@ -44,6 +44,14 @@ permalink: /news/brexpiprazole/
 
 ## 相關新聞（3 則）
 
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
+
+2026-03-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
+
+---
+
 ### [Oriol Mitjà, investigador: «Para mí era una vergüenza decir que tenía depresión porque eso significaba fragilidad» - La Voz de Galicia](https://news.google.com/rss/articles/CBMimwJBVV95cUxOYk5TNWYzM0pSdVVwVE9IYXQ3cFJfaGhJZGpIRnlDLVVnamFoaXdpM1daYm1UVXZMNC1EMnRKdlRfN1dQSkhQeGtKVEF3VUF6UFZKbFdZbU5NVUk3bHU4QmlGX05HMXpDeVRLdjBDMHZiWXl4bmR4S0JYNW4tX1NSbXZYYUxMRm1FeEpieFNfSDd6b25XR1Z1U1FVX2JLVzVPYjFXeTVLVUhHeXduY2VEV2RlZS1aRE11WER4RHc0Z29wQWxfdnJqY1FlWFBXM2VHcFdtM0dFRXp3WVFCdlAtVnI4QnNNNHNOZEZkNTRES0JlRmhTdmtpR2NRWmoxOVNwRFlxWTE1WmdiS0prSjE2XzZhMjN1WWxteXV3?oc=5)
 
 2026-03-27 <span class="news-indication-tag">depresión</span>
@@ -57,14 +65,6 @@ permalink: /news/brexpiprazole/
 2026-03-26 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">AF</span>
 
 來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9qaENwQkVTelR3QWJqN1VBVlRYbDZHdVhyYjFaSEJ1bXZ5d3l3ZzR3RDNjU3ZLc3VLc09FTVJxdDc0QjU5SE1zLThPYVIwRFJMbi1EdUJVb3g5eUZGZlY0TFFEZjJiSWhzWm5HYXJaTXplTnFRLXNSaUltTHg0Si05V1d1QUgxUzd4NnBNckpFdElQY01vQmtRamhBa1hQRDFKZldDVXpDUURCX0lDRGJ2OE9DWVR0dVFheER4cE9iRHROSnJrdDBfbw?oc=5)
-
----
-
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
 
 ---
 

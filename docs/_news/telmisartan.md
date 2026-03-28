@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [The exact amount of salty foods you can actually eat without risking your health, according to science](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
 
-2026-03-27 <span class="news-indication-tag">heart failure</span>
+2026-03-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
 來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
-
----
-
-### [Bluttest verrät biologisches Alter: Diese zehn Werte entscheiden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0lNc21CV0pZN3pSQ1Jlay1hV3pXRXpiM3NWNFdwcUZRRFk2S0VXOTRZY21YQ3Y4c2x4NjlvNW1pTlpuYkU3YmhUWFFDaVlaT3dQVWF1VFprYVNwTnFwUFRuMXhZM2g4VHc2bUY1M05Dam1mbjQzenU5QUx4MzE0djFqN1dVdTRpMm1BeFZ6dlQ4Q3liRTNhZzBuNUl3dENJN1I4aktKaTFBVDY1aUVsYkJuMXo?oc=5)
-
-2026-03-27 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0lNc21CV0pZN3pSQ1Jlay1hV3pXRXpiM3NWNFdwcUZRRFk2S0VXOTRZY21YQ3Y4c2x4NjlvNW1pTlpuYkU3YmhUWFFDaVlaT3dQVWF1VFprYVNwTnFwUFRuMXhZM2g4VHc2bUY1M05Dam1mbjQzenU5QUx4MzE0djFqN1dVdTRpMm1BeFZ6dlQ4Q3liRTNhZzBuNUl3dENJN1I4aktKaTFBVDY1aUVsYkJuMXo?oc=5)
 
 ---
 

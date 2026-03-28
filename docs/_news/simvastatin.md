@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Bluttest verrät biologisches Alter: Diese zehn Werte entscheiden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0lNc21CV0pZN3pSQ1Jlay1hV3pXRXpiM3NWNFdwcUZRRFk2S0VXOTRZY21YQ3Y4c2x4NjlvNW1pTlpuYkU3YmhUWFFDaVlaT3dQVWF1VFprYVNwTnFwUFRuMXhZM2g4VHc2bUY1M05Dam1mbjQzenU5QUx4MzE0djFqN1dVdTRpMm1BeFZ6dlQ4Q3liRTNhZzBuNUl3dENJN1I4aktKaTFBVDY1aUVsYkJuMXo?oc=5)
-
-2026-03-27 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0lNc21CV0pZN3pSQ1Jlay1hV3pXRXpiM3NWNFdwcUZRRFk2S0VXOTRZY21YQ3Y4c2x4NjlvNW1pTlpuYkU3YmhUWFFDaVlaT3dQVWF1VFprYVNwTnFwUFRuMXhZM2g4VHc2bUY1M05Dam1mbjQzenU5QUx4MzE0djFqN1dVdTRpMm1BeFZ6dlQ4Q3liRTNhZzBuNUl3dENJN1I4aktKaTFBVDY1aUVsYkJuMXo?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Infarto, la regola degli "11 minuti": come far precipitare il rischio - Libero Quotidiano](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHVMV3RMNlNxQTR0WmZobm5QYlEyTmRqNWtWc1g0M2oxampYMk41aW81NUtTYXJMLUtwYWYydFM4UkJjLUtlNGxPQmxMVW56QWJpanBaWVJoYzg2TE5qdzNxRHNyTXV5UWpWa2hYaUV2WUg1VHpaZ01iT1lZTjl4ZjhwNFA1S1pfRGE1ZXM5SXE2MG1OemNSNk5ISDM1VXRTVHJuVnRaMUpKRGVEWGhWRHdPMzJScUNMQ0FVQQ?oc=5)
 

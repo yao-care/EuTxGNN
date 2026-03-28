@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
+
+2026-03-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
+
+---
 
 ### [The exact amount of salty foods you can actually eat without risking your health, according to science](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
 
-2026-03-27 <span class="news-indication-tag">heart failure</span>
+2026-03-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
 來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
+
+---
+
+### [Dormir y moverse más reduce la resistencia a la insulina en adolescentes - Canal Diabetes](https://news.google.com/rss/articles/CBMibEFVX3lxTE15VkltYm04ZlEyc3V2Y0VMSXp2QVpsQ1ZESnRmcm9Gd3NEMHRUZ3VJSGNZcnpxOWJTZHFOY01nZ2hyVUtRZ2hrNFFwbXlKVGVITjJqWkZ5YXo0SlNZQlppTTMxUm85cS14czJsaw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMibEFVX3lxTE15VkltYm04ZlEyc3V2Y0VMSXp2QVpsQ1ZESnRmcm9Gd3NEMHRUZ3VJSGNZcnpxOWJTZHFOY01nZ2hyVUtRZ2hrNFFwbXlKVGVITjJqWkZ5YXo0SlNZQlppTTMxUm85cS14czJsaw?oc=5)
 
 ---
 
@@ -73,14 +89,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-03-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYVJQWVBzenJqZF9Keld2V2MtLXM2SWpQS0tvY2dSU3dDbXFQQVBlNkkwMEtJQkZHZExFNmVBejRNa2t2dkpYLTJSenJuR2tFbUZyRW9QV3huTUhnX2h5Rk8tTUtzaEY3WnU2VnFTeUY4V3pvSXBtY0xEanlwZ0tnOHJaQXJ5eklBcDM3c1lrVG9va1JFaEhFMHlCSjZQblhOdWVsZ2FtUlBvbURYQzYtZEVJNWVYLXNJSHloamxhb1N3QzhQdkx0bzBfbkd0NklTXzRzYzBKV0VQTVlCLUkzZ2hIUTVrektJWElUZERB?oc=5)
-
----
-
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
 
 ---
 

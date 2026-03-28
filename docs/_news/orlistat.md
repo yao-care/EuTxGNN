@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,17 +42,9 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Bluttest verrät biologisches Alter: Diese zehn Werte entscheiden](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0lNc21CV0pZN3pSQ1Jlay1hV3pXRXpiM3NWNFdwcUZRRFk2S0VXOTRZY21YQ3Y4c2x4NjlvNW1pTlpuYkU3YmhUWFFDaVlaT3dQVWF1VFprYVNwTnFwUFRuMXhZM2g4VHc2bUY1M05Dam1mbjQzenU5QUx4MzE0djFqN1dVdTRpMm1BeFZ6dlQ4Q3liRTNhZzBuNUl3dENJN1I4aktKaTFBVDY1aUVsYkJuMXo?oc=5)
-
-2026-03-27 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0lNc21CV0pZN3pSQ1Jlay1hV3pXRXpiM3NWNFdwcUZRRFk2S0VXOTRZY21YQ3Y4c2x4NjlvNW1pTlpuYkU3YmhUWFFDaVlaT3dQVWF1VFprYVNwTnFwUFRuMXhZM2g4VHc2bUY1M05Dam1mbjQzenU5QUx4MzE0djFqN1dVdTRpMm1BeFZ6dlQ4Q3liRTNhZzBuNUl3dENJN1I4aktKaTFBVDY1aUVsYkJuMXo?oc=5)
-
----
-
-### [Más obesidad infantil en las niñas - Somos Pacientes](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHktazRxVFBHUHo1T19oM280WUp6VXRsOGJwUEl4QUVEQm1BdkZRVHRzM0tIU1FoWXdvMDNrUXpQdTluSm5UcXUyVDdJSWUySExMX00zUnRsZGMtY2lUTnNxdkx6b3hmc3NRRnZLVF9qdHNCaHB3bFJGcm5GcFNZSDVhMkc3eko2V2lDcnJhcTFhaFVlMWNsZXduWWh5cnoyUVNTZjdKUHRLRHZXM3VKWnhFZHpGTTg?oc=5)
+### [La obesidad infantil se duplica entre las niñas en España - Somos Pacientes](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHktazRxVFBHUHo1T19oM280WUp6VXRsOGJwUEl4QUVEQm1BdkZRVHRzM0tIU1FoWXdvMDNrUXpQdTluSm5UcXUyVDdJSWUySExMX00zUnRsZGMtY2lUTnNxdkx6b3hmc3NRRnZLVF9qdHNCaHB3bFJGcm5GcFNZSDVhMkc3eko2V2lDcnJhcTFhaFVlMWNsZXduWWh5cnoyUVNTZjdKUHRLRHZXM3VKWnhFZHpGTTg?oc=5)
 
 2026-03-27 <span class="news-indication-tag">obesidad</span>
 
@@ -97,14 +89,6 @@ permalink: /news/orlistat/
 2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
-
----
-
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
 
 ---
 

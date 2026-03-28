@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="Bimatoprost 有什麼相關新聞？">
-<strong>Bimatoprost</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bimatoprost</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/bimatoprost/
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（19 則）
 
 ### [Alzheimer-Forschung zwischen Durchbruch und Geldmangel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
 
@@ -60,11 +60,27 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Ask Rachel: My girlfriend refuses to sleep with me since my affair but still wants to get married](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3hPNjNlQWJOSjVZbDcxYzRrd3Q0NnpjNFZEbmVCdVdYd1I0UW5SZk5iVVc3cjBFcnNnZVFVLWk3Ykhoa190TGtYVEVLdDhhbG5PRUVzVDIwZGNublVPbm5oUDk1MXNtVTdqRHhMZFdsWk1TdG9ub1JwdFpwWloyOUJIUEFUczRKejJaR3dpSzA3NmVqcDRJejJuV2hwVWwy?oc=5)
+### [Nach Meningitis-Ausbruch: Sollte man Kinder jetzt impfen lassen?](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmcwa2VwZHpHbU1XV1oweFAzci1ieERNTTQ0ckpkSnlrcFIwX2Vpb2RGU3NiQmZfSlhiVURtcUNnVWtwMDVKSWRId1RyeFVfLXNuYy01RXk5clFHNm9Wdk1CUXpQeHlyTGdxSVR0R1l4VWFHUFlxNS1hOHBGTnh4cmU1WThkVUE4Y0oxbHVhZFlIV28?oc=5)
 
 2026-03-27 <span class="news-indication-tag">AF</span>
 
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3hPNjNlQWJOSjVZbDcxYzRrd3Q0NnpjNFZEbmVCdVdYd1I0UW5SZk5iVVc3cjBFcnNnZVFVLWk3Ykhoa190TGtYVEVLdDhhbG5PRUVzVDIwZGNublVPbm5oUDk1MXNtVTdqRHhMZFdsWk1TdG9ub1JwdFpwWloyOUJIUEFUczRKejJaR3dpSzA3NmVqcDRJejJuV2hwVWwy?oc=5)
+來源：[SR.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmcwa2VwZHpHbU1XV1oweFAzci1ieERNTTQ0ckpkSnlrcFIwX2Vpb2RGU3NiQmZfSlhiVURtcUNnVWtwMDVKSWRId1RyeFVfLXNuYy01RXk5clFHNm9Wdk1CUXpQeHlyTGdxSVR0R1l4VWFHUFlxNS1hOHBGTnh4cmU1WThkVUE4Y0oxbHVhZFlIV28?oc=5)
+
+---
+
+### [Los científicos no dan crédito: el timo no es un órgano inútil, protege frente al cáncer y puede ser clave para vivir más - El Español](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeVM3SVRKOTZmYXMtNXhDOEJ3Y3VPOGkyc3FuYUJEV084eGdaRVBNZXFiaHZ5bjRwaWtZVFAxcWdNekphdmZHZnFaeng0Q0FJN2lWc01iX0ExWWJ3YXlXdGxQa0RQM0RfMk80dGJwMmJJRFhYeWhKZzQ3RXNNeTRjMVo4M05XbE0tRXN3MWkwekt5Q1BxTV9SSlp0YnZsQk1LSlNtS29tcXdlOFJYb0Z0UE5kQVlPelltaUt5VnkzNlRUUGJHT1c0ZUh4QjJ6ZHlKQU82NGdpY3hlYldnZFRCb1J4a9IB6AFBVV95cUxOcXR1OEdxR1NLN3FESmxTTlZyVzBQV09XRXU2TlFHaThVOEVGbFNWMFFpb1V2Zy01OFduelZfY3hWbHdXeVFKdGZNdl9UOURubnBUQ2JDaDlUMHpVVlVYeWVtYnZUT004Nno2WUFaelpXRFZhTTBPTTJkYTRMQjUwNnhTU1NDZ2hqVlRPbUtPNTlEajNpNmt4dGRmOFVPUkNGOFU4OGFVZm85OXFpdkpUcjBBdy1Hem5TSjE2dXEwZUJJUk0zZEtuX2JYVjJ4VERjejVRVVUtWmJXbl9haHlfU0w5N3psRk82?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AF</span>
+
+來源：[El Español](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeVM3SVRKOTZmYXMtNXhDOEJ3Y3VPOGkyc3FuYUJEV084eGdaRVBNZXFiaHZ5bjRwaWtZVFAxcWdNekphdmZHZnFaeng0Q0FJN2lWc01iX0ExWWJ3YXlXdGxQa0RQM0RfMk80dGJwMmJJRFhYeWhKZzQ3RXNNeTRjMVo4M05XbE0tRXN3MWkwekt5Q1BxTV9SSlp0YnZsQk1LSlNtS29tcXdlOFJYb0Z0UE5kQVlPelltaUt5VnkzNlRUUGJHT1c0ZUh4QjJ6ZHlKQU82NGdpY3hlYldnZFRCb1J4a9IB6AFBVV95cUxOcXR1OEdxR1NLN3FESmxTTlZyVzBQV09XRXU2TlFHaThVOEVGbFNWMFFpb1V2Zy01OFduelZfY3hWbHdXeVFKdGZNdl9UOURubnBUQ2JDaDlUMHpVVlVYeWVtYnZUT004Nno2WUFaelpXRFZhTTBPTTJkYTRMQjUwNnhTU1NDZ2hqVlRPbUtPNTlEajNpNmt4dGRmOFVPUkNGOFU4OGFVZm85OXFpdkpUcjBBdy1Hem5TSjE2dXEwZUJJUk0zZEtuX2JYVjJ4VERjejVRVVUtWmJXbl9haHlfU0w5N3psRk82?oc=5)
+
+---
+
+### [Ask Rachel: My girlfriend refuses to sleep with me since my affair but still wants to get married - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3hPNjNlQWJOSjVZbDcxYzRrd3Q0NnpjNFZEbmVCdVdYd1I0UW5SZk5iVVc3cjBFcnNnZVFVLWk3Ykhoa190TGtYVEVLdDhhbG5PRUVzVDIwZGNublVPbm5oUDk1MXNtVTdqRHhMZFdsWk1TdG9ub1JwdFpwWloyOUJIUEFUczRKejJaR3dpSzA3NmVqcDRJejJuV2hwVWwy?oc=5)
+
+2026-03-27 <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3hPNjNlQWJOSjVZbDcxYzRrd3Q0NnpjNFZEbmVCdVdYd1I0UW5SZk5iVVc3cjBFcnNnZVFVLWk3Ykhoa190TGtYVEVLdDhhbG5PRUVzVDIwZGNublVPbm5oUDk1MXNtVTdqRHhMZFdsWk1TdG9ub1JwdFpwWloyOUJIUEFUczRKejJaR3dpSzA3NmVqcDRJejJuV2hwVWwy?oc=5)
 
 ---
 
@@ -84,19 +100,19 @@ permalink: /news/bimatoprost/
 
 ---
 
+### [Police officer, 21, who put first brain tumour symptoms down to flight home dies weeks after diagnosis - Manchester Evening News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1JtMFlfVkJTS2pWWnduTXlHaGZ4cTFzVVpVZmJSRUtTWkNmS1loOVJ3ZVpmZXpkMkxNRHJnRHdEb2hTRUk5WGIwdk9RMzJiZEJjMVpzQ3RnMS1kNHlLV2VnQ3ZfakhzM2hCY2dyUlM2ZmJ3NTlNTEIydEJOaG9FU2xLUkNmVDh6Z1dQNDcxOV9UdGRvbnlsczY5d25zSjE0eUHSAacBQVVfeXFMT1V2VEhQVTBZWDJiVVBvSVZoQzBxNGdxRzAzOTRGTi1WX2VTTWtFSVFkZGx1RzR3YkZSVkUwU2ZjcV9sVlpRb2puVEc1eGlXaUxHX2xpMHFIbVhxdUtMNXEyZVJCb2ptOVF4YTVGRlVQbC1rS0F6ZFdxVFcxTlNCZTJYX0Y3NzVMTjJydmhaZERCQVItZW1SbFBKUFNiRFM4M2JCRkNlRk0?oc=5)
+
+2026-03-27 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1JtMFlfVkJTS2pWWnduTXlHaGZ4cTFzVVpVZmJSRUtTWkNmS1loOVJ3ZVpmZXpkMkxNRHJnRHdEb2hTRUk5WGIwdk9RMzJiZEJjMVpzQ3RnMS1kNHlLV2VnQ3ZfakhzM2hCY2dyUlM2ZmJ3NTlNTEIydEJOaG9FU2xLUkNmVDh6Z1dQNDcxOV9UdGRvbnlsczY5d25zSjE0eUHSAacBQVVfeXFMT1V2VEhQVTBZWDJiVVBvSVZoQzBxNGdxRzAzOTRGTi1WX2VTTWtFSVFkZGx1RzR3YkZSVkUwU2ZjcV9sVlpRb2puVEc1eGlXaUxHX2xpMHFIbVhxdUtMNXEyZVJCb2ptOVF4YTVGRlVQbC1rS0F6ZFdxVFcxTlNCZTJYX0Y3NzVMTjJydmhaZERCQVItZW1SbFBKUFNiRFM4M2JCRkNlRk0?oc=5)
+
+---
+
 ### [Demenz vorbeugen, Datenlücken schließen: Wissenschaftsakademien stellen sechs Handlungsansätze vor - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMzY2TFJuR0dKeWY4a0tEWk9xaGpYZzE1UjA2ODF4VnE0cl9CUTk2QjM0emVtME9jd0FIcFMzclI5cGhjeUJTUklvdVllM0NkZGRZZkU3WkdWZXhmY3JBdXlRc0RzaU03dFFMbXBlQlY1U3o2cXZ2b1hDdVlYcTVuMWZGVzhIR0dvVklVMG5DY0Rtb1RmYi16TFVsLTdocGtEa3hkRDZLdmZXbGR4MFc3dGloZUhZTHJwMkFiYjlsdklaaGhwa0xTRTlkUGlVTmg2R2labzNtaTJ0ZS03MlNMMjVQWG5jYjFEWWR4NXln?oc=5)
 
 2026-03-27 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMzY2TFJuR0dKeWY4a0tEWk9xaGpYZzE1UjA2ODF4VnE0cl9CUTk2QjM0emVtME9jd0FIcFMzclI5cGhjeUJTUklvdVllM0NkZGRZZkU3WkdWZXhmY3JBdXlRc0RzaU03dFFMbXBlQlY1U3o2cXZ2b1hDdVlYcTVuMWZGVzhIR0dvVklVMG5DY0Rtb1RmYi16TFVsLTdocGtEa3hkRDZLdmZXbGR4MFc3dGloZUhZTHJwMkFiYjlsdklaaGhwa0xTRTlkUGlVTmg2R2labzNtaTJ0ZS03MlNMMjVQWG5jYjFEWWR4NXln?oc=5)
-
----
-
-### [21-year-old who couldn't balance after holiday died three months after diagnosis - The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
-
-2026-03-27 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
 
 ---
 
@@ -172,11 +188,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [La IA puede predecir los resultados de los pacientes con edema macular diabético tras su tratamiento](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanZ6NUJreDZNNjVodUtDaGhYRzhsLWtUVlIySDRLQVlBTlhyTGx0a2J2MzN6MlJXSmp3WjlhU19kTDlENlJXbVd3bHJfNUprOGdZYlVKMy1QUU9md1BiNzdycVhJaFJ5NGFkS0theGdkdTBlR19hN3hpZUNPTkppelJqNjFJOG9BT2lQSkh5cVdhNGJPbUNodUduNW9QSXpEVlpkS3hVa3B2UkhlWEw00gG0AUFVX3lxTE9CR1pjMHIwVU04NjRIMDNaTVFDU1o3S2MydWVVVkIxZUtkU1c1anNoRi05V0tPRDdOb05JaE1YYzEtc01YWGZ3cURHblA0azNPUmswNXU4UDFWakNxVnU0YnA0YmNpa24wemw1Q2liby1sQ2RDVFFBNUQ5VllEQWpsYzZEbDlSbWdmRDVnaTI4M1F2M2NFb3dpOGVFaGpkTGpmbWN6LUV4QU05T1Qwd21tLVFMSA?oc=5)
+### [Après la mort d'une jeune femme d'une méningite foudroyante en Normandie, l'enquête des autorités sanitaires livre ses premières conclusions - France 3 Régions](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNdDJWRlFTdi13d2wxU2E3ZVNLSXIxWVMyVEdpclVrb0pTNkw2SVlLNm1JTkx3V1h5YlVQdFdJS3M1TERhMTlhaXZNbzdmaUE5UUE3X1QyMExBSE1BNUxsOXBFMVEtU1I1Ykp3NjdFRGpXY3lNWllIaU5jVzhOSG5POTJ1UFEza1ZiOTNYMldMWlBOci0wV0U1RXI1NDZHdndKSW4tTnhBaVVOc2VQbll4eXNvRzlsa1NSWkpONVMxakJ2M083SG9HcnQ3d0puakRPcXRzZGNIWTh5UTEyaERlR251VXl6M24zQUt4MWhIYjNfeWtGZjMtQ0lxbktsV2pOckFIRWtaUXhrWkFvNlgyOHFCTjA3U0F5clp2LTRYMS1yem4yMDNERDhWQ2tPaXBUa1VfTXdEeGowT2t0UFlaN21R?oc=5)
 
 2026-03-26 <span class="news-indication-tag">AF</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMirwFBVV95cUxQanZ6NUJreDZNNjVodUtDaGhYRzhsLWtUVlIySDRLQVlBTlhyTGx0a2J2MzN6MlJXSmp3WjlhU19kTDlENlJXbVd3bHJfNUprOGdZYlVKMy1QUU9md1BiNzdycVhJaFJ5NGFkS0theGdkdTBlR19hN3hpZUNPTkppelJqNjFJOG9BT2lQSkh5cVdhNGJPbUNodUduNW9QSXpEVlpkS3hVa3B2UkhlWEw00gG0AUFVX3lxTE9CR1pjMHIwVU04NjRIMDNaTVFDU1o3S2MydWVVVkIxZUtkU1c1anNoRi05V0tPRDdOb05JaE1YYzEtc01YWGZ3cURHblA0azNPUmswNXU4UDFWakNxVnU0YnA0YmNpa24wemw1Q2liby1sQ2RDVFFBNUQ5VllEQWpsYzZEbDlSbWdmRDVnaTI4M1F2M2NFb3dpOGVFaGpkTGpmbWN6LUV4QU05T1Qwd21tLVFMSA?oc=5)
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNdDJWRlFTdi13d2wxU2E3ZVNLSXIxWVMyVEdpclVrb0pTNkw2SVlLNm1JTkx3V1h5YlVQdFdJS3M1TERhMTlhaXZNbzdmaUE5UUE3X1QyMExBSE1BNUxsOXBFMVEtU1I1Ykp3NjdFRGpXY3lNWllIaU5jVzhOSG5POTJ1UFEza1ZiOTNYMldMWlBOci0wV0U1RXI1NDZHdndKSW4tTnhBaVVOc2VQbll4eXNvRzlsa1NSWkpONVMxakJ2M083SG9HcnQ3d0puakRPcXRzZGNIWTh5UTEyaERlR251VXl6M24zQUt4MWhIYjNfeWtGZjMtQ0lxbktsV2pOckFIRWtaUXhrWkFvNlgyOHFCTjA3U0F5clp2LTRYMS1yem4yMDNERDhWQ2tPaXBUa1VfTXdEeGowT2t0UFlaN21R?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（14 則）
 
-### [Primo caso umano di virus influenzale Aviaria (H9N2) in Europa, identificato in Lombardia. Ministero della Salute: “Situazione sotto controllo” - Quotidiano Sanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTG9xMkJrU1kxcnp5RUo0Z0RudmZNX1hXOXE2TllkQ0l1Qy0yVElhLWJObHVKRzFBdGFHTVVmM1Z0T29KRXBYVHBlYjFFd2JrM00yZjluU1F1UDM4N1JIQ0pVeTJnNi1DZGF6YWRUeGZFSHRQQzFxNTRrQ1NVaHpnemlybGQ2MHJPU3hzRUpzbDRMRmxlUXJRcE5DeTBQeWhYbEZpa2lIa2lnX1VWUTNDdy1GT0xhVnNpRkdvbGxRN0dLNERnbGlKWDdIRC1kNHYxTTlWekhzNk9takJITktKd3kyTmZ0NkVTbVB3S0g0VFVSQVcwUk1wM0dkZzYxelk3NXphZ3ZKRjNqYkxRWTJrbUFRRW9jcW5VWkE?oc=5)
+### [The exact amount of salty foods you can actually eat without risking your health, according to science](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
 
-2026-03-27 <span class="news-indication-tag">MS</span>
+2026-03-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMimgJBVV95cUxNTG9xMkJrU1kxcnp5RUo0Z0RudmZNX1hXOXE2TllkQ0l1Qy0yVElhLWJObHVKRzFBdGFHTVVmM1Z0T29KRXBYVHBlYjFFd2JrM00yZjluU1F1UDM4N1JIQ0pVeTJnNi1DZGF6YWRUeGZFSHRQQzFxNTRrQ1NVaHpnemlybGQ2MHJPU3hzRUpzbDRMRmxlUXJRcE5DeTBQeWhYbEZpa2lIa2lnX1VWUTNDdy1GT0xhVnNpRkdvbGxRN0dLNERnbGlKWDdIRC1kNHYxTTlWekhzNk9takJITktKd3kyTmZ0NkVTbVB3S0g0VFVSQVcwUk1wM0dkZzYxelk3NXphZ3ZKRjNqYkxRWTJrbUFRRW9jcW5VWkE?oc=5)
+來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
+
+---
+
+### [Epatite A: sequestrati 50 chili di frutti di mare dai Carabinieri del Nas a Napoli](https://news.google.com/rss/articles/CBMickFVX3lxTE9MR2J6dHhoWWFMNGxFQXB1RlFBX3AtTXdrcFhTb3U2TmlobXEwZm9pT2V1eFZ0YXE3c3VNeFQ2MlFhU0dFZjBBQlJOd05tWlQ0M0JWZldRSlJjSlBUY051OTZrZnNPS0R5TTlqY0xVeDFsdw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">epatite</span>
+
+來源：[QdS](https://news.google.com/rss/articles/CBMickFVX3lxTE9MR2J6dHhoWWFMNGxFQXB1RlFBX3AtTXdrcFhTb3U2TmlobXEwZm9pT2V1eFZ0YXE3c3VNeFQ2MlFhU0dFZjBBQlJOd05tWlQ0M0JWZldRSlJjSlBUY051OTZrZnNPS0R5TTlqY0xVeDFsdw?oc=5)
 
 ---
 
@@ -84,19 +92,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [So zeigt sich ein Vitamin-D-Mangel: Diese Symptome müssen Sie erkennen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzFoRENHNnNGMDVSa2FITUczMG1hbjVyOG92Y20xdGVUb1JBZWJFbXRfRFJVTVMtUlZXbHo1OUV0cThlZmRnWng0ZHRqRll1NllvZXZ3YlphS3gxVjRrZXVvTGowaVo5SXNiTjB6TVlIcWdXcFNwalo5SU8zemloaVc5dDVXamRBTndZNTE4dFk5WUMtZk04SWtaSmFyZ1RqNFpHQjBSdU1mZ1RqcHBEMnIzaWZ2akQwb3UtUVBkdzRhZw?oc=5)
-
-2026-03-27 <span class="news-indication-tag">MS</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzFoRENHNnNGMDVSa2FITUczMG1hbjVyOG92Y20xdGVUb1JBZWJFbXRfRFJVTVMtUlZXbHo1OUV0cThlZmRnWng0ZHRqRll1NllvZXZ3YlphS3gxVjRrZXVvTGowaVo5SXNiTjB6TVlIcWdXcFNwalo5SU8zemloaVc5dDVXamRBTndZNTE4dFk5WUMtZk04SWtaSmFyZ1RqNFpHQjBSdU1mZ1RqcHBEMnIzaWZ2akQwb3UtUVBkdzRhZw?oc=5)
-
----
-
-### [21-year-old who couldn't balance after holiday died three months after diagnosis - The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
+### [Police officer, 21, who put first brain tumour symptoms down to flight home dies weeks after diagnosis - Manchester Evening News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1JtMFlfVkJTS2pWWnduTXlHaGZ4cTFzVVpVZmJSRUtTWkNmS1loOVJ3ZVpmZXpkMkxNRHJnRHdEb2hTRUk5WGIwdk9RMzJiZEJjMVpzQ3RnMS1kNHlLV2VnQ3ZfakhzM2hCY2dyUlM2ZmJ3NTlNTEIydEJOaG9FU2xLUkNmVDh6Z1dQNDcxOV9UdGRvbnlsczY5d25zSjE0eUHSAacBQVVfeXFMT1V2VEhQVTBZWDJiVVBvSVZoQzBxNGdxRzAzOTRGTi1WX2VTTWtFSVFkZGx1RzR3YkZSVkUwU2ZjcV9sVlpRb2puVEc1eGlXaUxHX2xpMHFIbVhxdUtMNXEyZVJCb2ptOVF4YTVGRlVQbC1rS0F6ZFdxVFcxTlNCZTJYX0Y3NzVMTjJydmhaZERCQVItZW1SbFBKUFNiRFM4M2JCRkNlRk0?oc=5)
 
 2026-03-27 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1WV2NSclRXRlZTMDlTNDVPVDVreTdRdjNjbHAtbWcxaXVZQ3czOTk4dW1yaUIxcGxZQVA3MXdlMmlMQ2Jtby1ZeFowZWdVY1pSbnA5LTlkSDNaLTZjNl9iYXEtdi1pVmV0ZjIzZVBiOUU1Rm1sRjFkb9IBfkFVX3lxTFBGVWJtb29aLTlqR3RSTXpOTmVZOE1OQ2U2QjF0R3JHX0dHUkZVTGo4QXFoa25iTnBJdGFtVi1MWF84UkM2RVZfXy1qWmFVRHlDQWJadUd1U0VWY1VLM2xuRTA0LW1SdzlyR3QyUFo4WGt5UjlKY1lib09oQnVHQQ?oc=5)
+來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1JtMFlfVkJTS2pWWnduTXlHaGZ4cTFzVVpVZmJSRUtTWkNmS1loOVJ3ZVpmZXpkMkxNRHJnRHdEb2hTRUk5WGIwdk9RMzJiZEJjMVpzQ3RnMS1kNHlLV2VnQ3ZfakhzM2hCY2dyUlM2ZmJ3NTlNTEIydEJOaG9FU2xLUkNmVDh6Z1dQNDcxOV9UdGRvbnlsczY5d25zSjE0eUHSAacBQVVfeXFMT1V2VEhQVTBZWDJiVVBvSVZoQzBxNGdxRzAzOTRGTi1WX2VTTWtFSVFkZGx1RzR3YkZSVkUwU2ZjcV9sVlpRb2puVEc1eGlXaUxHX2xpMHFIbVhxdUtMNXEyZVJCb2ptOVF4YTVGRlVQbC1rS0F6ZFdxVFcxTlNCZTJYX0Y3NzVMTjJydmhaZERCQVItZW1SbFBKUFNiRFM4M2JCRkNlRk0?oc=5)
+
+---
+
+### [Dra. Ainhoa Muguruza, pediatra de Policlínica Gipuzkoa: “Es vital mantener actualizado el calendario vacunal para evitar la propagación del sarampión”](https://news.google.com/rss/articles/CBMilAJBVV95cUxOWlVuY0ItNjdQNlNNUTY2YWRJSHdhUzM3MjJGTHdKazA1czMwRkxMQzdyVDdNRUY0M1EyS0RlcklJNmxwaThneUVtYi1LdEtYVTd1SF8yeWV2RUtkZkRSSlhIMERlRTlGM3NoVm5xZkE4SEswbW1aVGRELU4tQm4yQ1RxNk1yQUYzbVdOZVAzX19VckpSYzFaeVBGUUFLSEdhZHE5RW1WbFQxVnVjS1dvZ3p2NmthRFBJR0swQVYtUnFkdmdtbjV3dURPblBKQ1ZkQlFFd1JMOXpiMkVFQzh0VHlTcnhLQU85c3R6bDRWbnk4VWVOeTMtUDdwMVFEejUwOTdIeE8tWHRXVm83ODBJamdZenA?oc=5)
+
+2026-03-27 <span class="news-indication-tag">hepatitis</span>
+
+來源：[GipuzkoaGaur](https://news.google.com/rss/articles/CBMilAJBVV95cUxOWlVuY0ItNjdQNlNNUTY2YWRJSHdhUzM3MjJGTHdKazA1czMwRkxMQzdyVDdNRUY0M1EyS0RlcklJNmxwaThneUVtYi1LdEtYVTd1SF8yeWV2RUtkZkRSSlhIMERlRTlGM3NoVm5xZkE4SEswbW1aVGRELU4tQm4yQ1RxNk1yQUYzbVdOZVAzX19VckpSYzFaeVBGUUFLSEdhZHE5RW1WbFQxVnVjS1dvZ3p2NmthRFBJR0swQVYtUnFkdmdtbjV3dURPblBKQ1ZkQlFFd1JMOXpiMkVFQzh0VHlTcnhLQU85c3R6bDRWbnk4VWVOeTMtUDdwMVFEejUwOTdIeE8tWHRXVm83ODBJamdZenA?oc=5)
 
 ---
 
@@ -124,14 +132,6 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Italy confirms first European human H9N2 avian flu case](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHJPVktLa3JlTEhDdEE5eUlucXhQWEY3UFhjZ19OaE9sRlVVRVpxNmZyRnppNXU1WjEwQmNLTFh5V1RTR0s3T09PRmlqZW8yYi1PRTFKeGtBYTJyTHpHNmdfb1ZvNVo2QWJLN0lDZTJmOXUxeVdjZVZGaGxtbW9pd1FZOTBJZTFjd2wxZkx6MnFJMEZrdnlGc0hZcEpVTk0?oc=5)
-
-2026-03-26 <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHJPVktLa3JlTEhDdEE5eUlucXhQWEY3UFhjZ19OaE9sRlVVRVpxNmZyRnppNXU1WjEwQmNLTFh5V1RTR0s3T09PRmlqZW8yYi1PRTFKeGtBYTJyTHpHNmdfb1ZvNVo2QWJLN0lDZTJmOXUxeVdjZVZGaGxtbW9pd1FZOTBJZTFjd2wxZkx6MnFJMEZrdnlGc0hZcEpVTk0?oc=5)
-
----
-
 ### [Major new health warning for anyone going on holiday - full list of countries - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGQybDRDbkswQ0xaTnh2OVRrYXRiUnYzUHN2R0hhUVlzcW9FSEowQ3hQUWxhWEs5OFJiRkdUcEV3a1k1UUFOUXh2V3p6SXoyb2R0UlFzTUVhbHVwOTBveV9xa0lKOG9ITlR1S20zTTdHX3A5eURzQmVpWHRVWi0yVUJnbw?oc=5)
 
 2026-03-26 <span class="news-indication-tag">MS</span>
@@ -140,35 +140,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
+### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
 
 2026-03-26 <span class="news-indication-tag">MS</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
+來源：[ilmessaggero.it](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B0gGgAUFVX3lxTE1YczFjczQyVmxoUGc0emcydDBlVFp4Q0FWdEEta3B4N2RGbkVOMWlPQVRPbjZHQVVZLU9zcG50ZVl6MVZJLXZTdkR2MXZzYm5vVTVjWHhiZ2pVZF9KRDNmbWc2TlZ6LWkwa1RVeGNuWjlEWWVEa0hLOGh2QWdxLTRRVnQ3QVVZcXk3czZwSnRyclZYdklrQjMybzlWd3JuR3E?oc=5)
 
 ---
 
-### ["Es vital mantener actualizado el calendario vacunal para evitar la propagación del sarampión"](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
-
-2026-03-26 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Comunicae](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFZTNndjVHRDVFhMVXdad0FpTjU0Y1ZvZVpJUzl2djQtVVJzZG9lX0d0aWRpeW13Q0tZaW1KMUFnOXJFc0VMam9FWE11NjJzYVFmRjRrVm9wRG1QbkR0Qm9QTV8tV1poWUw1R1RtdEZtMi1mNUQ5dlU1dEtETzh3bldsM2NILUU?oc=5)
-
----
-
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
----
-
-### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
+### [Meningitis B: Symptoms, vaccines and all you need to know about Kent outbreak - The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 2026-03-24 <span class="news-indication-tag">MS</span>
 
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTc0LVVWNWlqYXppVDJITzlHdW1YZzZfWk02M0VxUXpxUlhiLTR6eEcwRnFkODZUSDRUc3liUXIxdEI0dDk2am1weTdjTjRJYnBCZGNTNTJVVG9Kb1NubGxKbFBBUnNObDNKbVQ0VzVqWUZNZ3g3aXdhNE5VQTZidEpjaWZyU21aeXlJT1RIWFRScUh5czBDc0RuZ3RPenZrRm1JWHdHbko4THA0UWoybExERWZYVkdDd1NqQVNuV2tjX2g1SDR3UUZLTFVFQQ?oc=5)
 
 ---
 

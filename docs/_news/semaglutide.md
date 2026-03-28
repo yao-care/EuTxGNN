@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
+
+2026-03-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
+
+---
 
 ### [Una alternativa oral de Ozempic podría ser incluso más eficaz para perder peso - El Economista](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUFNId245QV9HUUhuYWF1WERsa25WalhfdFVOeVpvTTFTZGdtejcxVExNVklHNHptc1pYRnFWTnpUeVk4ck9GdHhkbTE3SUg4MGs3TWRWQmJuTEdkUkthV21vdEo5bUdqdnRXSU1OX1Z1NUN0NWJfckFIUW5ET3NqTWNIcW11Mjltaks1cTBWYThHSVpoUUotekNHNVVYeVI2Zlo1RVNIaG16NHAxRDU1MFFEZDBjbm14LTlBNVBEZjR6Y2pZTzFzYlJENzh4OWFQNzZDNTBabUpxei1YSHd4cG1FS08tUUpiNUp6YVJxaGp2aHppYWFJ0gHiAUFVX3lxTE9ULTZiT1R5bks1ZGkxZ1RwZGRKUnhzZ3kxUjV4UGdRQ3ZhUkVWZVZLNVh1N3pQNExOXzdlYmljMExwc3pzRUU2OU52eHVfZW1zUUszWVoxdm4zcUg1MmhRN2Rra210U3R2dHRyb3gzNTJGQnRQR1Q1UFdXRXVlVG5zT2FnV2pjNk1JVmRlNDN4T0lfMTRtcUJSeS1VQWdSN2QyZElvMWFVdXM4ZE0wMnZnYzY2NnQ0R19HalhtdFlSbTdGVE5RN3ZzMW9ZYzg0YjU2Q3lLMTFzZTBMMnpqU01hbXc?oc=5)
 
 2026-03-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUFNId245QV9HUUhuYWF1WERsa25WalhfdFVOeVpvTTFTZGdtejcxVExNVklHNHptc1pYRnFWTnpUeVk4ck9GdHhkbTE3SUg4MGs3TWRWQmJuTEdkUkthV21vdEo5bUdqdnRXSU1OX1Z1NUN0NWJfckFIUW5ET3NqTWNIcW11Mjltaks1cTBWYThHSVpoUUotekNHNVVYeVI2Zlo1RVNIaG16NHAxRDU1MFFEZDBjbm14LTlBNVBEZjR6Y2pZTzFzYlJENzh4OWFQNzZDNTBabUpxei1YSHd4cG1FS08tUUpiNUp6YVJxaGp2aHppYWFJ0gHiAUFVX3lxTE9ULTZiT1R5bks1ZGkxZ1RwZGRKUnhzZ3kxUjV4UGdRQ3ZhUkVWZVZLNVh1N3pQNExOXzdlYmljMExwc3pzRUU2OU52eHVfZW1zUUszWVoxdm4zcUg1MmhRN2Rra210U3R2dHRyb3gzNTJGQnRQR1Q1UFdXRXVlVG5zT2FnV2pjNk1JVmRlNDN4T0lfMTRtcUJSeS1VQWdSN2QyZElvMWFVdXM4ZE0wMnZnYzY2NnQ0R19HalhtdFlSbTdGVE5RN3ZzMW9ZYzg0YjU2Q3lLMTFzZTBMMnpqU01hbXc?oc=5)
+
+---
+
+### [Dormir y moverse más reduce la resistencia a la insulina en adolescentes - Canal Diabetes](https://news.google.com/rss/articles/CBMibEFVX3lxTE15VkltYm04ZlEyc3V2Y0VMSXp2QVpsQ1ZESnRmcm9Gd3NEMHRUZ3VJSGNZcnpxOWJTZHFOY01nZ2hyVUtRZ2hrNFFwbXlKVGVITjJqWkZ5YXo0SlNZQlppTTMxUm85cS14czJsaw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMibEFVX3lxTE15VkltYm04ZlEyc3V2Y0VMSXp2QVpsQ1ZESnRmcm9Gd3NEMHRUZ3VJSGNZcnpxOWJTZHFOY01nZ2hyVUtRZ2hrNFFwbXlKVGVITjJqWkZ5YXo0SlNZQlppTTMxUm85cS14czJsaw?oc=5)
 
 ---
 
@@ -81,14 +97,6 @@ permalink: /news/semaglutide/
 2026-03-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYVJQWVBzenJqZF9Keld2V2MtLXM2SWpQS0tvY2dSU3dDbXFQQVBlNkkwMEtJQkZHZExFNmVBejRNa2t2dkpYLTJSenJuR2tFbUZyRW9QV3huTUhnX2h5Rk8tTUtzaEY3WnU2VnFTeUY4V3pvSXBtY0xEanlwZ0tnOHJaQXJ5eklBcDM3c1lrVG9va1JFaEhFMHlCSjZQblhOdWVsZ2FtUlBvbURYQzYtZEVJNWVYLXNJSHloamxhb1N3QzhQdkx0bzBfbkd0NklTXzRzYzBKV0VQTVlCLUkzZ2hIUTVrektJWElUZERB?oc=5)
-
----
-
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPblVGbW8xaDJULW8yUkFzUS1YV1VFbzdveUp1b21UYWVQR3doZkM0ZHk3RmVBMTgxTGRxVFJscDZoN0MxTjF5MFZXenB5Ym5pcGVLVFV1bk55WF9PbE9hTnBpQ2k1dkJSRkNUVmtNeENQNWx6SVN2Zy1UWU93MEZNMXZiNExtZ1FPTGdhMGtFamJUZmg3X05oM0xWVVJJNGpUNEFRREpSSFNaUnJPalNQNFBmS1M4bjFwQk1YcTJqazY0dUw4UUI1SkxTM1hpQQ?oc=5)
 
 ---
 
