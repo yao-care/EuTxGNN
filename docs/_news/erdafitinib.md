@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Erdafitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [The exact amount of salty foods you can actually eat without risking your health, according to science](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
+### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich?](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSklVb09lV3M1bDFNMmNFb0xLZ2NiTU1GTWM0ZVFEUXBIMURUb2VxR21Kb05mOGxUdWlYV2hQY01LTXVRbVU4b0x3dk92ajhWOGQ5UktFYlFjLWlSZ2VKYXZucXA5WlZmTlZEXzBVZjVnNDliSExqX0pvSjlDMmFyZkNjQlFxcHBGQnYxcXhiY1FHV1RkNlE?oc=5)
+
+2026-03-28 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSklVb09lV3M1bDFNMmNFb0xLZ2NiTU1GTWM0ZVFEUXBIMURUb2VxR21Kb05mOGxUdWlYV2hQY01LTXVRbVU4b0x3dk92ajhWOGQ5UktFYlFjLWlSZ2VKYXZucXA5WlZmTlZEXzBVZjVnNDliSExqX0pvSjlDMmFyZkNjQlFxcHBGQnYxcXhiY1FHV1RkNlE?oc=5)
+
+---
+
+### [The exact amount of salty foods you can actually eat without risking your health, according to science - Daily Mail](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
 
 2026-03-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
-來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
 
 ---
 

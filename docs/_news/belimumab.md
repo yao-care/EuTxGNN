@@ -44,6 +44,14 @@ permalink: /news/belimumab/
 
 ## 相關新聞（4 則）
 
+### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
+
+2026-03-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
+
+---
+
 ### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
 
 2026-03-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
@@ -52,27 +60,19 @@ permalink: /news/belimumab/
 
 ---
 
-### [Metformin drug prescribed to 120 million worldwide found to have surprise impact on brain](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
-
-2026-03-27 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
-
----
-
-### [Dormir y moverse más reduce la resistencia a la insulina en adolescentes - Canal Diabetes](https://news.google.com/rss/articles/CBMibEFVX3lxTE15VkltYm04ZlEyc3V2Y0VMSXp2QVpsQ1ZESnRmcm9Gd3NEMHRUZ3VJSGNZcnpxOWJTZHFOY01nZ2hyVUtRZ2hrNFFwbXlKVGVITjJqWkZ5YXo0SlNZQlppTTMxUm85cS14czJsaw?oc=5)
-
-2026-03-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMibEFVX3lxTE15VkltYm04ZlEyc3V2Y0VMSXp2QVpsQ1ZESnRmcm9Gd3NEMHRUZ3VJSGNZcnpxOWJTZHFOY01nZ2hyVUtRZ2hrNFFwbXlKVGVITjJqWkZ5YXo0SlNZQlppTTMxUm85cS14czJsaw?oc=5)
-
----
-
 ### [Rötungen und Juckreiz: Diese Hautprobleme können Hinweise auf Diabetes sein](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQW9DMnhQb1RwNk00U0JyNFhDaldnWjFtYlB2NTktQTNmVlhzeFBmTG5jblp0REtTd0xUSHRmU002cS0tS01WUGtWWXlHNGdOU25JREZDWEt1WUQyYWRNSHNwem54TzJCaHF3SlFoel9GSXlkbngtRkwxNGs0YWJFTFdYcXU1eHYxVWpjRXU2Sk8taUpxNDctNzZmSU5JVUt6NHhyRC1velVBWGZ0YXF6N2Y4WHQ0S09WOU1Dem12MVZjQnVMaWFSZ0tXbFRmcllqRHEzWGpxZmJRYVJGelNZUDVLLVktZS1lTVB5NWNzZDB3V1RmOVlQTndMb9IBgAJBVV95cUxOSzRTckRKWmtNZ2hnejZJRzM0dXJGVjF5c1EwaldQd2ZNeU14ZjFDQzFNamk5Y0xub0xNQmVNU0h5VXhlRHNSeHpGYTJCZ3RCR0NveXlpODMxYlo0MDZydWsxM255dVUxYXFrMVV6MFRBX0RLNDdnOHJuRVUyclVxNWpvcUhTTWxKVDltUE9sVndNbWl2cDg2U29kelR4Rnl0NzhMUTZpWmRuM0Rxc1RXaFE2TVF1Y0FObmppU0JkbFZvdWhOeXhKM29YOFp4QUJGZ3ozd0hwRjZMZFZXUTlEX1NOOGpzVGpWaTI4cGFic2I3em9JR0huZUl4b0NhYjdx?oc=5)
 
 2026-03-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[news.de](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQW9DMnhQb1RwNk00U0JyNFhDaldnWjFtYlB2NTktQTNmVlhzeFBmTG5jblp0REtTd0xUSHRmU002cS0tS01WUGtWWXlHNGdOU25JREZDWEt1WUQyYWRNSHNwem54TzJCaHF3SlFoel9GSXlkbngtRkwxNGs0YWJFTFdYcXU1eHYxVWpjRXU2Sk8taUpxNDctNzZmSU5JVUt6NHhyRC1velVBWGZ0YXF6N2Y4WHQ0S09WOU1Dem12MVZjQnVMaWFSZ0tXbFRmcllqRHEzWGpxZmJRYVJGelNZUDVLLVktZS1lTVB5NWNzZDB3V1RmOVlQTndMb9IBgAJBVV95cUxOSzRTckRKWmtNZ2hnejZJRzM0dXJGVjF5c1EwaldQd2ZNeU14ZjFDQzFNamk5Y0xub0xNQmVNU0h5VXhlRHNSeHpGYTJCZ3RCR0NveXlpODMxYlo0MDZydWsxM255dVUxYXFrMVV6MFRBX0RLNDdnOHJuRVUyclVxNWpvcUhTTWxKVDltUE9sVndNbWl2cDg2U29kelR4Rnl0NzhMUTZpWmRuM0Rxc1RXaFE2TVF1Y0FObmppU0JkbFZvdWhOeXhKM29YOFp4QUJGZ3ozd0hwRjZMZFZXUTlEX1NOOGpzVGpWaTI4cGFic2I3em9JR0huZUl4b0NhYjdx?oc=5)
+
+---
+
+### [Metformin drug prescribed to 120 million worldwide found to have surprise impact on brain](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
+
+2026-03-26 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
 
 ---
 

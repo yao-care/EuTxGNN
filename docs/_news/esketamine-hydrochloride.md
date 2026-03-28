@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [La “pillola dello sport” mima l’esercizio fisico e contrasta la depressione - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXQ3SXA4U0ZOdmF6R3FGMWU2ZHduTXh5Rm9kUEtWZDBxT1llTk02ZXEwVzhMRVctRi0yRWtRWjlXSHEycmtEWnNvVncyOGhDXzYtM2s3d0tIT1NYOTdNUjY3OXpGZVF0bUNNc1hsS3hRampBYTdRcHViQldTQzRRQlJpU2pPZnRzQm5ZdU9DaW1ZeUZPWGVYUm5CbWVsekhvZFpDaVhWb1dVYjDSAbABQVVfeXFMTzFVRVZ5WkJiUjM2MkZoQ1hkZkJuSTdqcWJkZXhnNDVJakdubm1Mb2stalE1SG9vbjlUeDZhRVU0ZEhDREFyalJ3LUg1dl8yN3VwUGVPV0FtZy1acDNIbWRweWczZ3lkSXBhaXdoWjRSZmwweUhNTnNxOUpURmFpZ0dJbDdXNzh1Ynh0S0c4TnMyY0lpTUZMenV3VF8yM3BJLURQWHF0aUJGU0ZMLU4zS0M?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/esketamine-hydrochloride/
 2026-03-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
-
----
-
-### [Oriol Mitjà, investigador: «Para mí era una vergüenza decir que tenía depresión porque eso significaba fragilidad»](https://news.google.com/rss/articles/CBMimwJBVV95cUxOYk5TNWYzM0pSdVVwVE9IYXQ3cFJfaGhJZGpIRnlDLVVnamFoaXdpM1daYm1UVXZMNC1EMnRKdlRfN1dQSkhQeGtKVEF3VUF6UFZKbFdZbU5NVUk3bHU4QmlGX05HMXpDeVRLdjBDMHZiWXl4bmR4S0JYNW4tX1NSbXZYYUxMRm1FeEpieFNfSDd6b25XR1Z1U1FVX2JLVzVPYjFXeTVLVUhHeXduY2VEV2RlZS1aRE11WER4RHc0Z29wQWxfdnJqY1FlWFBXM2VHcFdtM0dFRXp3WVFCdlAtVnI4QnNNNHNOZEZkNTRES0JlRmhTdmtpR2NRWmoxOVNwRFlxWTE1WmdiS0prSjE2XzZhMjN1WWxteXV3?oc=5)
-
-2026-03-27 <span class="news-indication-tag">depresión</span>
-
-來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMimwJBVV95cUxOYk5TNWYzM0pSdVVwVE9IYXQ3cFJfaGhJZGpIRnlDLVVnamFoaXdpM1daYm1UVXZMNC1EMnRKdlRfN1dQSkhQeGtKVEF3VUF6UFZKbFdZbU5NVUk3bHU4QmlGX05HMXpDeVRLdjBDMHZiWXl4bmR4S0JYNW4tX1NSbXZYYUxMRm1FeEpieFNfSDd6b25XR1Z1U1FVX2JLVzVPYjFXeTVLVUhHeXduY2VEV2RlZS1aRE11WER4RHc0Z29wQWxfdnJqY1FlWFBXM2VHcFdtM0dFRXp3WVFCdlAtVnI4QnNNNHNOZEZkNTRES0JlRmhTdmtpR2NRWmoxOVNwRFlxWTE1WmdiS0prSjE2XzZhMjN1WWxteXV3?oc=5)
 
 ---
 

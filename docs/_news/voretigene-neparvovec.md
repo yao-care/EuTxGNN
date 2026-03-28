@@ -14,7 +14,7 @@ permalink: /news/voretigene-neparvovec/
 ---
 
 <p class="key-answer" data-question="Voretigene Neparvovec 有什麼相關新聞？">
-<strong>Voretigene Neparvovec</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Voretigene Neparvovec</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/voretigene-neparvovec/
 <p><a href="{{ '/drugs/voretigene-neparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich?](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSklVb09lV3M1bDFNMmNFb0xLZ2NiTU1GTWM0ZVFEUXBIMURUb2VxR21Kb05mOGxUdWlYV2hQY01LTXVRbVU4b0x3dk92ajhWOGQ5UktFYlFjLWlSZ2VKYXZucXA5WlZmTlZEXzBVZjVnNDliSExqX0pvSjlDMmFyZkNjQlFxcHBGQnYxcXhiY1FHV1RkNlE?oc=5)
+
+2026-03-28 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSklVb09lV3M1bDFNMmNFb0xLZ2NiTU1GTWM0ZVFEUXBIMURUb2VxR21Kb05mOGxUdWlYV2hQY01LTXVRbVU4b0x3dk92ajhWOGQ5UktFYlFjLWlSZ2VKYXZucXA5WlZmTlZEXzBVZjVnNDliSExqX0pvSjlDMmFyZkNjQlFxcHBGQnYxcXhiY1FHV1RkNlE?oc=5)
+
+---
 
 
 <div class="disclaimer">
