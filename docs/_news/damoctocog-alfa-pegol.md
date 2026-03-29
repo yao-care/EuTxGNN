@@ -14,7 +14,7 @@ permalink: /news/damoctocog-alfa-pegol/
 ---
 
 <p class="key-answer" data-question="Damoctocog Alfa Pegol 有什麼相關新聞？">
-<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/damoctocog-alfa-pegol/
 <p><a href="{{ '/drugs/damoctocog-alfa-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（30 則）
+
+### [LALCEC alerta por más de 4.500 casos anuales de cáncer de cuello uterino y lanza una charla abierta sobre HPV en Palermo](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUHpaUjR2RmdCX2dVT0ZJbnFrcDZJZk9vSEFMdHVObER5RGYxdUhjNkFHZ2VJaFkzb3VjUmRNOFJLNlNiS1lpc09fLWVrbHZCZVJsVWZ4RkhadGdiQ1F1Y2RySHp0d0lLM3ZfRWFYdHZ4czBrbGJ5V3ZrV1FtRU9QUHAyRHFYNDAxbjZmMTBxVElaOU5SYWstRFZmdmc2QkdlRmJ0RXFneVFMUm5tQVBMaXlpSWpzQ193N08tQ0NRVGttYmRQOTJJZEhzZHJ4cGROQzFUOGlNSUdJSWZHOENuRXhn?oc=5)
+
+2026-03-29 <span class="news-indication-tag">tumor</span>
+
+來源：[curecompass](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUHpaUjR2RmdCX2dVT0ZJbnFrcDZJZk9vSEFMdHVObER5RGYxdUhjNkFHZ2VJaFkzb3VjUmRNOFJLNlNiS1lpc09fLWVrbHZCZVJsVWZ4RkhadGdiQ1F1Y2RySHp0d0lLM3ZfRWFYdHZ4czBrbGJ5V3ZrV1FtRU9QUHAyRHFYNDAxbjZmMTBxVElaOU5SYWstRFZmdmc2QkdlRmJ0RXFneVFMUm5tQVBMaXlpSWpzQ193N08tQ0NRVGttYmRQOTJJZEhzZHJ4cGROQzFUOGlNSUdJSWZHOENuRXhn?oc=5)
+
+---
+
+### [Girl, 10, died after headaches blamed on 'using iPad' was actually brain tumour - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPOV8yOUhhQmR3Zk42UDJTQ1hFLXh0UWZxdjFmTDNhRzFLS2xGX0FRWmI0QW9waDQxNmppZmtzRWxjYlptTEZyN0hIYnNmTWlNN1phVWZLeUZ2VTRxNjA1Zl9UeGlSdzZ5eGtETjJ0MmhqVWQ3YWxoYmpUZGNoeV9BRTNkMG9fQQ?oc=5)
+
+2026-03-29 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPOV8yOUhhQmR3Zk42UDJTQ1hFLXh0UWZxdjFmTDNhRzFLS2xGX0FRWmI0QW9waDQxNmppZmtzRWxjYlptTEZyN0hIYnNmTWlNN1phVWZLeUZ2VTRxNjA1Zl9UeGlSdzZ5eGtETjJ0MmhqVWQ3YWxoYmpUZGNoeV9BRTNkMG9fQQ?oc=5)
+
+---
+
+### [Órganos agrandados por obesidad duplican el riesgo de cáncer, según advierte un nuevo estudio](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZU4teEhFUGRKMmdJZXJMekM1enB4Nk10ZFVIcnlWdWdqaVpIUHplMWJuVWlyNXVhakZiRzh4STFPQVl2V2djU196dlJpX3FtRllIanpNYUQtdDF2cHhHWlZBU2p3NEVfck5oSUY5ejhBNzdCank2akRBM3hoT2ZkRGM5VVN2czF5ckRUWmw4ZkhWekhmU3JydTVFSUpxTzFTejIxa2NPYU5WWDdJQnBqWlh3VGtGZ2MwV1BmaE9lR1RsajdEMXVZaXhnRmwtY2PSAeoBQVVfeXFMUFZmQ3d4YlRsWTFzR2VjeFBUZEFOX2FYaEJBQl9PNTNBUjRKTTRSRV9LeDB2T2pCWG1QUl8xZGhnSXFSbkwweFhlRW1GeW1wVV9DdUlvLWlMUE5IM1BPS3V1akFjVE5GcjFhSWRSam5CTkI0d1pHME5kQlJlTEhSRVZzYnAwZHpyc1RDRDRtaW9rY3lTRHdMYjNBdUpZdDZjSUgzdWthU3VMZ0Y4MHRMbFRvcFVNVnU2a3dsX2dha2d3WXpFYjcwLWJvWngwZExNTWl3RFNjcS1kMUhCRGw4VHlZU1JkMFZ6YkVn?oc=5)
+
+2026-03-29 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZU4teEhFUGRKMmdJZXJMekM1enB4Nk10ZFVIcnlWdWdqaVpIUHplMWJuVWlyNXVhakZiRzh4STFPQVl2V2djU196dlJpX3FtRllIanpNYUQtdDF2cHhHWlZBU2p3NEVfck5oSUY5ejhBNzdCank2akRBM3hoT2ZkRGM5VVN2czF5ckRUWmw4ZkhWekhmU3JydTVFSUpxTzFTejIxa2NPYU5WWDdJQnBqWlh3VGtGZ2MwV1BmaE9lR1RsajdEMXVZaXhnRmwtY2PSAeoBQVVfeXFMUFZmQ3d4YlRsWTFzR2VjeFBUZEFOX2FYaEJBQl9PNTNBUjRKTTRSRV9LeDB2T2pCWG1QUl8xZGhnSXFSbkwweFhlRW1GeW1wVV9DdUlvLWlMUE5IM1BPS3V1akFjVE5GcjFhSWRSam5CTkI0d1pHME5kQlJlTEhSRVZzYnAwZHpyc1RDRDRtaW9rY3lTRHdMYjNBdUpZdDZjSUgzdWthU3VMZ0Y4MHRMbFRvcFVNVnU2a3dsX2dha2d3WXpFYjcwLWJvWngwZExNTWl3RFNjcS1kMUhCRGw4VHlZU1JkMFZ6YkVn?oc=5)
+
+---
 
 ### [I had persistent heartburn… choking on a sarnie uncovered ‘forgotten cancer’ - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFJFcVFiTUJiNm5SaDBDS3g3VXl3VVB0TWdqbDZWNHJUZkd5OEpEV3VrNm5tZDhfemdrdVZ3MklMdHM3SEVfekljeXhUR2xiOElKZHViQnVjUkE3SEpUVG1jdTdsbUZJYnA5OG43cDlzRGU4RDNQQ0RmMmtGSnN5OUNIczBRS0hLVmc?oc=5)
 
@@ -84,6 +108,14 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
+### [At 48, I was told I was prediabetic – I reversed it with these simple rules - The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
+
+2026-03-29 <span class="news-indication-tag">diabetic</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
+
+---
+
 ### [Gilda Cobellis: «Ovaie, guerra al cancro spia rossa sul cortisone» - Il Mattino](https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1NrLVJXSWNTRldhWXVMWkVnYnB1X3g2ZmlXRjN6UmhfYl9lZTRvblMtZU9YdE90SDlkdjdjZk5UOHVyVFk5R1otc3dhOC1NVGRIc21zeE5WbUJkNmhuVjFWODFYNTU0bEl3aUhQS1FxZi1yUFhySEVzZkNEZGRzZUFDWjVlTVduaU1SWUVXVEs2SXZ2VFNIY3YzZUhPeS1OYmN3bDBKbzVxQm53cEJzYmNHM0V5SFJmMlZqRDYtdW5FNThX0gG_AUFVX3lxTE45U3Y5bnpiR19ObnVvdUJIOHBMX0VkTk95VzJJR05oQ0xsVVdPTWhpZkUxUFU5cS1DQnhpRVg3SDlMUldhTHdyWS0tRlVUdUx5MWdMaV91VzVrYjQ2MEd6NlVzNl9CZFdKZk5TRHBqc3dnZEk1Y1lZNkQzNkhDSDN1OW1oTkkxZFRlMTJ0VW1GTjlsNHcwczdUWnB0S3VZRVhwSU91NWdJWm5TZENtUklkaEF6UGlZdkQ2QzhwdTI0?oc=5)
 
 2026-03-28 <span class="news-indication-tag">tumor</span>
@@ -113,6 +145,14 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-03-28 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWtpeVpWaU5GMjhiSld6MUt1QTdpenVNY25SVGwyTWY2YU5SZS02eHFyUzVqNGtkeE5LeG1meElHZl85TGRlbzJRX1JxQ2dOeWtpU1IxeTEzZWYydWxyc3puYUVMbnd4UlZnMDhCNG9CT2RZb01QQnJvSVVfSlZWOE9VTHRwZHFkN2d2LVB2ZnExTTdIUi03a0wxNlRjc3JPMVExWnJrRmdqWTZKenQ3VUh3ZWRLVGg2djNnazliMFh2ZDk4?oc=5)
+
+---
+
+### [Scoperta la proteina responsabile delle metastasi dei tumori: è la vimentina - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1hIN3VyNXVUY0p4anFVeV9UTkpIQmtoNUR2RjVYTzdBWEw1YkY4MjR5R2hWYWoySlVwY1hTYVE1dDJzVkRvanp5RUNfenBSWUo1N3NCeUpjOTRkampOV1AySEZNV3pnWUtSeHJleUVRbHI5Y0pldmFuR1hVMmxZZnNYU255a3dOMTdBM29NYU9Ma2h4RS14aTdyVQ?oc=5)
+
+2026-03-28 <span class="news-indication-tag">tumor</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1hIN3VyNXVUY0p4anFVeV9UTkpIQmtoNUR2RjVYTzdBWEw1YkY4MjR5R2hWYWoySlVwY1hTYVE1dDJzVkRvanp5RUNfenBSWUo1N3NCeUpjOTRkampOV1AySEZNV3pnWUtSeHJleUVRbHI5Y0pldmFuR1hVMmxZZnNYU255a3dOMTdBM29NYU9Ma2h4RS14aTdyVQ?oc=5)
 
 ---
 
@@ -148,14 +188,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Scoperta la proteina responsabile delle metastasi dei tumori](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjd0MlV3aTF1bzJaN1hXaUhzMmptSWJNUFRHSUMyUy1CUUNfWGZrNlhVQlhIOENtWlBpRVlxOWkyNHJrMl9rZnZ3RndQSWc0alVJMVdfU2RkVThUQW1pUWJjYnc3a2lNbUl6Ym8wWkJlN1oxRDdmR2dPbUowYWhsZ2doWjNNSmc?oc=5)
-
-2026-03-28 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjd0MlV3aTF1bzJaN1hXaUhzMmptSWJNUFRHSUMyUy1CUUNfWGZrNlhVQlhIOENtWlBpRVlxOWkyNHJrMl9rZnZ3RndQSWc0alVJMVdfU2RkVThUQW1pUWJjYnc3a2lNbUl6Ym8wWkJlN1oxRDdmR2dPbUowYWhsZ2doWjNNSmc?oc=5)
-
----
-
 ### [Un nuevo hallazgo contra la metástasis cerebral muestra cómo el tumor secuestra células defensivas para usarlas en su favor - Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYklua1pMZUJlSTlMcHYtdXJMMExUaXZEcS1SSW1JRUFDNGYwekZSeWJyRnpvcXdGTXZ1dHlTVXJPT3ZUMl9tVW00XzVLWE9XZTZlT1Y1VC1ERFNERHY1eTVnX1Flbmg2Sm0xQ1FaTlVUWHhJZnRpZHI0SzdOaHU3V3l2Q0pkVVlfRzRlYVJkS1RvNXBpcG85Wk9uYTVLdURKeVY3SVV2b2FEbl9rRGNKemNWQktiUk1vWThtU2VybUs1WTJQRmNnU1hzQ1VxZXJQSUJhVXRiZUx6R0IyMkxINTlNUW5Pd3ZabkJmLS1oWnVRaVVSMDlWdFp3?oc=5)
 
 2026-03-28 <span class="news-indication-tag">tumor</span>
@@ -169,38 +201,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-03-28 <span class="news-indication-tag">tumour</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04QmdCRFZUUElIYURyanQ3aUJIendCX0x2ekZXSllOS0I5WW82bGIydDFYTk9HM1ItbHE5Qkcyck8zeEJJLUZmckNaX1p5QWRPVHpvSjY1LThadkw0?oc=5)
-
----
-
-### [Décès d'Isabelle Mergault d'un cancer du poumon métastasé : quels symptômes ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
-
-2026-03-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">hépatite</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
-
----
-
-### [Des chercheurs chinois détectent un cancer chez la souris grâce aux odeurs corporelles : avant même le moindre symptôme](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT0hTYU8zRnRZUW5WTXZRZWxuNEsxNmFRX1VJXzdmWlhkOHg0QzJqOGNQYllYYjBNakFvbFFWQ0VIU3lEWnF5WDJkY0xITml6YkVnUFFwUDBVNHpKai11ZU5ERUR0YmZ0NTdKYTJlM1JDRVVpRDBWOXNiREFSTzZMYVZ6Y3M1ZnFMcmJ4NTluVjhtZzNmMEdmdERxRm8ybEZBclExSFBTZFhxekVEME5DQ1NiTlRBcHd5TjZLOGExd0JGWXBFTFJ0Wk5aLXRvaWtXTmtEMW5QRGI?oc=5)
-
-2026-03-28 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT0hTYU8zRnRZUW5WTXZRZWxuNEsxNmFRX1VJXzdmWlhkOHg0QzJqOGNQYllYYjBNakFvbFFWQ0VIU3lEWnF5WDJkY0xITml6YkVnUFFwUDBVNHpKai11ZU5ERUR0YmZ0NTdKYTJlM1JDRVVpRDBWOXNiREFSTzZMYVZ6Y3M1ZnFMcmJ4NTluVjhtZzNmMEdmdERxRm8ybEZBclExSFBTZFhxekVEME5DQ1NiTlRBcHd5TjZLOGExd0JGWXBFTFJ0Wk5aLXRvaWtXTmtEMW5QRGI?oc=5)
-
----
-
-### [Calls for neurology improvements after brain tumour misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93QkRzV19GOVI2U2UxWi1VdnVtTnJFU2NMOEVpSlJqcVg5YmdUZ2prWV9BM1JIYm85LU5PeUZVVHNOOVFhUDJYSHNmcnRQanlCSXpfWHR6ekFrMmNI?oc=5)
-
-2026-03-28 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93QkRzV19GOVI2U2UxWi1VdnVtTnJFU2NMOEVpSlJqcVg5YmdUZ2prWV9BM1JIYm85LU5PeUZVVHNOOVFhUDJYSHNmcnRQanlCSXpfWHR6ekFrMmNI?oc=5)
-
----
-
-### [Llevamos 60 años usando este fármaco para la diabetes, pero ahora sabemos que activa un interruptor maestro en el cerebro - Muy Interesante](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmFhTXpJS0xnRWRMaFVUWW1DdWYwUjN0R01SSF9fY1Y4MG1iUVVGaTNPN2hiSUJScnpDN0Ywei1xd29sTm1TTDNYRXVsdFdoMFpOQUdSV3RRdHZVbGgwVFVlZTlpNVQ5RzJQeDEzTkRXb2h1ZUxZejhmdlNwOEdFWldkRXlfUTlweE5xaktQVXJKTlAz?oc=5)
-
-2026-03-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Muy Interesante](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmFhTXpJS0xnRWRMaFVUWW1DdWYwUjN0R01SSF9fY1Y4MG1iUVVGaTNPN2hiSUJScnpDN0Ywei1xd29sTm1TTDNYRXVsdFdoMFpOQUdSV3RRdHZVbGgwVFVlZTlpNVQ5RzJQeDEzTkRXb2h1ZUxZejhmdlNwOEdFWldkRXlfUTlweE5xaktQVXJKTlAz?oc=5)
 
 ---
 
@@ -220,14 +220,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Tumore del pancreas, una nuova ricerca per migliorare la quantità e la qualità di vita delle persone che si ammalano](https://news.google.com/rss/articles/CBMivwJBVV95cUxPZV9MRGxuTkZpVnllQ3A4SGY2SWpWdC1ENzZ1ZTlTeGx5cDlWVEE1ZjBVSklxX2VfVnp3QVpmNXlzZG5HMDZqUW1wbjNQS2VMNXRZWEJtZzFxLVIwRVFpYkMybVJWX1c3TTNvSzNXNC01aVhjRGNtVjBqY0xPZGt2dmN3NFdYajQ0cmZ2bVhvdkw0dnctd2FzODNzV21NWTU4Q1dSMVR2QU9lOHc1S2lQRjU1MDdvcUM2Wi0yRW5MMTZma0puMDBjR3MzWnZTQnJjaDdlR2FvTkJnTG9vNElURlhheEVRSGFCREpRME16YzJYNVJvdzBYcUktdTNYRWp1d0VVamFUWkZ0VHRqcDBmUUhsa2s5UEpHR29uTXNtd0RPZUlFa2sxVmUxZjRINXA3X2dmYzlxdHpBRVpDWWl30gHEAkFVX3lxTE10YUVTcEdVZEFaMVo0dEpDNUliRlRvVGVFMzdPeGg2SUUxUXZBOVdSRks2Z1N0Z25XQVdJWTlycHgyN2F2bUdsU3BNMjNmVklLVE1CdVV0d1BqbWplckFNSGJkNGJaZmJJSndybTdnZ1kySTh1SFhfa05CSjBST3pkUjZCdThobzlaNzB1Vjk4TFRSaUZyNlcxUEt1ZEgyRmhFSEdGZHdTZ3c1OUF0dmF1dWhzcGNwTzhUc0ZWSXRsUWFYVk9pekdsSlcyWUlIeENscFdQNFVTRkxnS2xWd0NpT0VQQnhlVDhNREFlTS04V0lQb25sb2dFQ0d3ZkEwQVJRMHN5cGhWWDBlT0NES18zYkpzaER1ZWVfRTNyc0s0ZnVnNThZajlwLWF2MjdoYzFMUm42WkdTN1ZUSW5adk9aejF1VQ?oc=5)
-
-2026-03-27 <span class="news-indication-tag">tumor</span>
-
-來源：[corriere.it](https://news.google.com/rss/articles/CBMivwJBVV95cUxPZV9MRGxuTkZpVnllQ3A4SGY2SWpWdC1ENzZ1ZTlTeGx5cDlWVEE1ZjBVSklxX2VfVnp3QVpmNXlzZG5HMDZqUW1wbjNQS2VMNXRZWEJtZzFxLVIwRVFpYkMybVJWX1c3TTNvSzNXNC01aVhjRGNtVjBqY0xPZGt2dmN3NFdYajQ0cmZ2bVhvdkw0dnctd2FzODNzV21NWTU4Q1dSMVR2QU9lOHc1S2lQRjU1MDdvcUM2Wi0yRW5MMTZma0puMDBjR3MzWnZTQnJjaDdlR2FvTkJnTG9vNElURlhheEVRSGFCREpRME16YzJYNVJvdzBYcUktdTNYRWp1d0VVamFUWkZ0VHRqcDBmUUhsa2s5UEpHR29uTXNtd0RPZUlFa2sxVmUxZjRINXA3X2dmYzlxdHpBRVpDWWl30gHEAkFVX3lxTE10YUVTcEdVZEFaMVo0dEpDNUliRlRvVGVFMzdPeGg2SUUxUXZBOVdSRks2Z1N0Z25XQVdJWTlycHgyN2F2bUdsU3BNMjNmVklLVE1CdVV0d1BqbWplckFNSGJkNGJaZmJJSndybTdnZ1kySTh1SFhfa05CSjBST3pkUjZCdThobzlaNzB1Vjk4TFRSaUZyNlcxUEt1ZEgyRmhFSEdGZHdTZ3c1OUF0dmF1dWhzcGNwTzhUc0ZWSXRsUWFYVk9pekdsSlcyWUlIeENscFdQNFVTRkxnS2xWd0NpT0VQQnhlVDhNREFlTS04V0lQb25sb2dFQ0d3ZkEwQVJRMHN5cGhWWDBlT0NES18zYkpzaER1ZWVfRTNyc0s0ZnVnNThZajlwLWF2MjdoYzFMUm42WkdTN1ZUSW5adk9aejF1VQ?oc=5)
-
----
-
 ### [I blamed my shoulder pain on sleeping funny. It was cancer - Daily Mail](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2ZMV3cyZFVrME43MjFOX1UtVzFwN2lyNm5IUUl6RnZLT2xHQlQ2ZHh2YzNwTmZSOFVoQnRDN241WnF4UEhxNTg4d1RfQmYxcUcya2ZZMWtsU0VFMHBuMlozN2c3UUNRLUlvZWlsb2Q3UWVyM1A1N20wbHFiQ055c3R1TEV3R3B0MnZJVXRRZEVCZV9sUXc?oc=5)
 
 2026-03-27 <span class="news-indication-tag">cancer</span>
@@ -244,11 +236,51 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Obesidad y cáncer: por qué un panel internacional pide ya un ensayo con semaglutida y tirzepatida para prevenir tumores](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+### [The health benefits of prunes revealed... and how they could be a key weapon in the fight against cancer - Daily Mail](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHNNRGFfSDR1UE11RUVhbkprSF9ESUpUWExIODR6WWNaXzdiNWtaLXZHMTJRX1BSemhSNzBWbENJbGFJT0w1RXRDWE4tYm85VzEwN0VmeVVJaUVBM3ZlY2lNWGoxcDVJWlNyWHM5SFIxMjN5UmNYRnJrOFloVTNEaVktQzQ1MXlIQjRUb21tTDJIalM0dUFDU1ZYRnlPZnVzaGJBaTRB?oc=5)
 
-2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
+2026-03-27 <span class="news-indication-tag">cancer</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHNNRGFfSDR1UE11RUVhbkprSF9ESUpUWExIODR6WWNaXzdiNWtaLXZHMTJRX1BSemhSNzBWbENJbGFJT0w1RXRDWE4tYm85VzEwN0VmeVVJaUVBM3ZlY2lNWGoxcDVJWlNyWHM5SFIxMjN5UmNYRnJrOFloVTNEaVktQzQ1MXlIQjRUb21tTDJIalM0dUFDU1ZYRnlPZnVzaGJBaTRB?oc=5)
+
+---
+
+### [Signs of bladder cancer as warning issued to people in North West - Liverpool Echo](https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlVjaTJIVjZwangyYnlFUWNnWGNZVzRYZVZVemllTzVfWlNXRXJmMEtuMXBXMktaUGNERGtsYnBwejBBMmZJWGczemdDS1BPVkdOU2FqSzdrV3JvMGJGMVFyWFd5eDdVMXBQQWQwbVlzS1JTY1pxZEJjNnhNWmh4cTJmUm0xNkZmNHdrOVBxRWg3Z9IBlwFBVV95cUxPSHliVW4yc1dnX1lZQ25NeHFHbU1RczhjWFd3Ukc5aENWMXJXaF8tUVdwZGoydDZ5WmdlTHlrTjdyWktrZGlqZF9CU1VyNm5tM3oxejZ4em5sUDRCbksyVDl4RUxWMTRIaU16SEFST0lDajljX1Jtc3JXSldXMmJVUHVEZVRlc0dOTm9hOUphb19CTnE5elFN?oc=5)
+
+2026-03-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlVjaTJIVjZwangyYnlFUWNnWGNZVzRYZVZVemllTzVfWlNXRXJmMEtuMXBXMktaUGNERGtsYnBwejBBMmZJWGczemdDS1BPVkdOU2FqSzdrV3JvMGJGMVFyWFd5eDdVMXBQQWQwbVlzS1JTY1pxZEJjNnhNWmh4cTJmUm0xNkZmNHdrOVBxRWg3Z9IBlwFBVV95cUxPSHliVW4yc1dnX1lZQ25NeHFHbU1RczhjWFd3Ukc5aENWMXJXaF8tUVdwZGoydDZ5WmdlTHlrTjdyWktrZGlqZF9CU1VyNm5tM3oxejZ4em5sUDRCbksyVDl4RUxWMTRIaU16SEFST0lDajljX1Jtc3JXSldXMmJVUHVEZVRlc0dOTm9hOUphb19CTnE5elFN?oc=5)
+
+---
+
+### [After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+2026-03-25 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+---
+
+### [Common blood pressure drug can boost cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUNYVHhYVDNKTzRHa21HU1FBcDRlb1g3MkRxUUdMOFgtMGptT3NDbDgwNU11S29PMG5xZDVhakVwOTh0UGl1d2NNcHVWZE9yT1dkM1M5ZXdoRGNWejNjQ3d6ZkgzV3VDamx0OE1nN05ZWWYyTVRzSmYzd3RsR2JNWlN3?oc=5)
+
+2026-03-25 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUNYVHhYVDNKTzRHa21HU1FBcDRlb1g3MkRxUUdMOFgtMGptT3NDbDgwNU11S29PMG5xZDVhakVwOTh0UGl1d2NNcHVWZE9yT1dkM1M5ZXdoRGNWejNjQ3d6ZkgzV3VDamx0OE1nN05ZWWYyTVRzSmYzd3RsR2JNWlN3?oc=5)
+
+---
+
+### [How inflammation may prime the gut for cancer - Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE5FR3AzVmk2MGNRZGFjbjVCcmF1YWk2TzB3X2xXR0xjQkZ3ellUQ0ZqeTQ5VkJaWXU2SGkyeEVnQVlUcWlva2VyUGJFV2N0V3ctSVJreEJTZWVLcE5DNkd5R1dHSlEzRV84YlREcDZDTF82bHVfeDhJb0RYSFhBdw?oc=5)
+
+2026-03-25 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE5FR3AzVmk2MGNRZGFjbjVCcmF1YWk2TzB3X2xXR0xjQkZ3ellUQ0ZqeTQ5VkJaWXU2SGkyeEVnQVlUcWlva2VyUGJFV2N0V3ctSVJreEJTZWVLcE5DNkd5R1dHSlEzRV84YlREcDZDTF82bHVfeDhJb0RYSFhBdw?oc=5)
+
+---
+
+### [Il va quatre fois aux urgences pour une douleur à l’épaule, on lui diagnostique un reflux gastrique alors qu’il souffre d’un cancer incurable](https://news.google.com/rss/articles/CBMilAJBVV95cUxORUk1Y1VyU1RtNUIweUNzZnZRVGptd1NIUloyRFRhMlgwUUFCVzd5UDlSVHpRVFBsTjVKcWtRb2RDOHZYbGtTajZqSFNCS3NwSkJaMzlIcWdwb2lfYWViVlVhSzI0VHg2LUtwQzZJSjkxc1hYWUFnU2MzQWM0enZyOE5XWE5wMGlfR0FGNC1CUFJsVnVqY3pKcG5DWUstZlIwVm8zakFuOFNsTjZXRzhvdnpEUWF1M0FwdkEzYlJ6WHVoWWd5R3pmUXNjalFsY252c2FEUUluTDJKVC1tOXRFV2ljXzdDdS1fSlZsZE5hXzhoakFtVHczSHN1X2Z0dDRuNm9SczBfTWxPYlNjeFVObWtJRDM?oc=5)
+
+2026-03-23 <span class="news-indication-tag">cancer</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMilAJBVV95cUxORUk1Y1VyU1RtNUIweUNzZnZRVGptd1NIUloyRFRhMlgwUUFCVzd5UDlSVHpRVFBsTjVKcWtRb2RDOHZYbGtTajZqSFNCS3NwSkJaMzlIcWdwb2lfYWViVlVhSzI0VHg2LUtwQzZJSjkxc1hYWUFnU2MzQWM0enZyOE5XWE5wMGlfR0FGNC1CUFJsVnVqY3pKcG5DWUstZlIwVm8zakFuOFNsTjZXRzhvdnpEUWF1M0FwdkEzYlJ6WHVoWWd5R3pmUXNjalFsY252c2FEUUluTDJKVC1tOXRFV2ljXzdDdS1fSlZsZE5hXzhoakFtVHczSHN1X2Z0dDRuNm9SczBfTWxPYlNjeFVObWtJRDM?oc=5)
 
 ---
 

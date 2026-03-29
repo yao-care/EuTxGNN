@@ -3,7 +3,7 @@ layout: default
 title: "Parkinson's（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Parkinson's（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "Parkinson's（parkinson disease） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="Parkinson's（parkinson disease） 有什麼相關新聞？">
-<strong>Parkinson's（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>Parkinson's（parkinson disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Health officials to examine if drugs used to treat Parkinson's can lead to addiction issues](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
 
@@ -50,6 +50,14 @@ permalink: /news/parkinson-disease/
 2026-03-27
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
+
+---
+
+### [Témoignage. Virginie, marathonienne atteinte de la maladie de Parkinson : « Il faut transformer sa peur en curiosité » - L'Officiel du Thermalisme](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGxSaDdpcWlYY3NKb2kxajdqaTZ5ZEY0dGEzeklxTnJ0NzV1ek9VdnhDTlhUbmdBY1MwdWdEOWIwcGdoWXVmb3p1dFFQUGJoRmp3ZkpaeXB3M1ctV2JSajJVOWkxaTgxTUVnLWJuWEloNjh2ZVdEYUU1UU16RWlra1haTXNuSVk0aGtHX3oxQVRxMTk1a09VWF95QkhhVXRDZjVlYllfOVN4emZDRmdDX05wTFJqU0NiRVV4cHZEUkNhTkF6aWhRM2c0dFdqOEQ0UV9mYWUyREl5WFNCUVVWa3VHVFp0WHk3aFNKNmRPWF8?oc=5)
+
+2026-03-23
+
+來源：[L'Officiel du Thermalisme](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGxSaDdpcWlYY3NKb2kxajdqaTZ5ZEY0dGEzeklxTnJ0NzV1ek9VdnhDTlhUbmdBY1MwdWdEOWIwcGdoWXVmb3p1dFFQUGJoRmp3ZkpaeXB3M1ctV2JSajJVOWkxaTgxTUVnLWJuWEloNjh2ZVdEYUU1UU16RWlra1haTXNuSVk0aGtHX3oxQVRxMTk1a09VWF95QkhhVXRDZjVlYllfOVN4emZDRmdDX05wTFJqU0NiRVV4cHZEUkNhTkF6aWhRM2c0dFdqOEQ0UV9mYWUyREl5WFNCUVVWa3VHVFp0WHk3aFNKNmRPWF8?oc=5)
 
 ---
 

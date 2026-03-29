@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carbidopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,11 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Health officials to examine if drugs used to treat Parkinson's can lead to addiction issues](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
 
-2026-03-28 <span class="news-indication-tag">Parkinson's</span>
+2026-03-28 <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
 
 來源：[news.sky.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
 
@@ -60,27 +60,19 @@ permalink: /news/carbidopa/
 
 ---
 
-### [Normal brain immune cells may trigger the onset of Alzheimer's disease, a shocking revelation from a new study](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdndET0w2UUhRNzJfdHNnaldFYURGeXVSWnNJMjNwNE9RR1Z6NmpTRnZpdUg0a3gzQlBwcG5yUEF6S0FiT2xQaVA4Wl93YnBxOGhFLUlDSFpsT2FkLUx0dkpSbTdOdGtuTkw0dVJkdGstdmNKWmtKcjVyMzhXcXpEeHM4WHl0ZzFBZlhRVFZvZjFuNWVDZnpiZDRQQURVQzRyc3Nz?oc=5)
-
-2026-03-28 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdndET0w2UUhRNzJfdHNnaldFYURGeXVSWnNJMjNwNE9RR1Z6NmpTRnZpdUg0a3gzQlBwcG5yUEF6S0FiT2xQaVA4Wl93YnBxOGhFLUlDSFpsT2FkLUx0dkpSbTdOdGtuTkw0dVJkdGstdmNKWmtKcjVyMzhXcXpEeHM4WHl0ZzFBZlhRVFZvZjFuNWVDZnpiZDRQQURVQzRyc3Nz?oc=5)
-
----
-
-### ['Brain Ripples’: The 20-Minute Cycling Habit That Literally Rewires How You Store Memories - HuffPost UK](https://news.google.com/rss/articles/CBMikwFBVV95cUxQczc0LXNGVmd0UjEta0JMVXVkZGNrSFpDb2h6RUp3amRrYVVYa08ycHFDVVBXZ3VHd0d4SEk2aEE5ZndLX2RnTmhfZWJfb3ppb2I3LTdaRW9ZYWhuQVRUaVo3NlNzUW5KQmU3XzJnMTFxTVAtdlFfY1gzYS1LWlk2OWlOdjN6cVRQSElpY0psRGlGdWPSAZoBQVVfeXFMT3I5cTJ5SWhqQi1DdXVPSnk1TTBsZG5Fc0hGaGdydHVlMkxlbkNrQzBnY21PZWhWT1hjQ1BhOFBkTjJNRkF6RVd5MGJGdkFQeXhDR24wN0IzZW9NVGxrWVF2dVNUOWdiU2hxSDNVaXprRHJHb3dRUGYwQ2R2b2hDQU5vNm9ZcEw3RUROQTU1dHEyVzZaNVVKRUdmZw?oc=5)
-
-2026-03-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikwFBVV95cUxQczc0LXNGVmd0UjEta0JMVXVkZGNrSFpDb2h6RUp3amRrYVVYa08ycHFDVVBXZ3VHd0d4SEk2aEE5ZndLX2RnTmhfZWJfb3ppb2I3LTdaRW9ZYWhuQVRUaVo3NlNzUW5KQmU3XzJnMTFxTVAtdlFfY1gzYS1LWlk2OWlOdjN6cVRQSElpY0psRGlGdWPSAZoBQVVfeXFMT3I5cTJ5SWhqQi1DdXVPSnk1TTBsZG5Fc0hGaGdydHVlMkxlbkNrQzBnY21PZWhWT1hjQ1BhOFBkTjJNRkF6RVd5MGJGdkFQeXhDR24wN0IzZW9NVGxrWVF2dVNUOWdiU2hxSDNVaXprRHJHb3dRUGYwQ2R2b2hDQU5vNm9ZcEw3RUROQTU1dHEyVzZaNVVKRUdmZw?oc=5)
-
----
-
 ### [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
 
 2026-03-27 <span class="news-indication-tag">Parkinson's</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
+
+---
+
+### [Témoignage. Virginie, marathonienne atteinte de la maladie de Parkinson : « Il faut transformer sa peur en curiosité » - L'Officiel du Thermalisme](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGxSaDdpcWlYY3NKb2kxajdqaTZ5ZEY0dGEzeklxTnJ0NzV1ek9VdnhDTlhUbmdBY1MwdWdEOWIwcGdoWXVmb3p1dFFQUGJoRmp3ZkpaeXB3M1ctV2JSajJVOWkxaTgxTUVnLWJuWEloNjh2ZVdEYUU1UU16RWlra1haTXNuSVk0aGtHX3oxQVRxMTk1a09VWF95QkhhVXRDZjVlYllfOVN4emZDRmdDX05wTFJqU0NiRVV4cHZEUkNhTkF6aWhRM2c0dFdqOEQ0UV9mYWUyREl5WFNCUVVWa3VHVFp0WHk3aFNKNmRPWF8?oc=5)
+
+2026-03-23 <span class="news-indication-tag">maladie de Parkinson</span>
+
+來源：[L'Officiel du Thermalisme](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGxSaDdpcWlYY3NKb2kxajdqaTZ5ZEY0dGEzeklxTnJ0NzV1ek9VdnhDTlhUbmdBY1MwdWdEOWIwcGdoWXVmb3p1dFFQUGJoRmp3ZkpaeXB3M1ctV2JSajJVOWkxaTgxTUVnLWJuWEloNjh2ZVdEYUU1UU16RWlra1haTXNuSVk0aGtHX3oxQVRxMTk1a09VWF95QkhhVXRDZjVlYllfOVN4emZDRmdDX05wTFJqU0NiRVV4cHZEUkNhTkF6aWhRM2c0dFdqOEQ0UV9mYWUyREl5WFNCUVVWa3VHVFp0WHk3aFNKNmRPWF8?oc=5)
 
 ---
 

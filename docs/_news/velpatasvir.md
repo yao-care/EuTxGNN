@@ -44,11 +44,11 @@ permalink: /news/velpatasvir/
 
 ## 相關新聞（18 則）
 
-### [Großer Hepatitis-A-Ausbruch in Italien! Was Reisende kurz vor Ostern wissen sollten](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTJzS09PYnZSbUdoalAxQTlOeTZ4LWVrRXNZT25FT3lMNV9KcEExd0thd2ZOYkUxQUdaZ0luU00tTGZ3b1BvX2FycWVKc2FXeWZCN3ZuTVhkbmlWSDFDV3pHRnJQenRreXFNSExEWVVVc2RibG1yZWlGaHJUcl9WTlhrclpnSWd0NV9HYlU2MkxfOVZyYU84T05MbW45SzVlbkFqblJoX1oyTzRRZFo0T3RlMjgxYlRGUlR3dTJDN21CWkJEeURMSENn?oc=5)
+### ["La tasa de respuesta con iadademstat en LMA ha sido del 100%"](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR0xlWVhVb3l0cWdyWTRCdXJKS3VXc3gzOEppZTNGRUJNV2JXdlJRRk9yWnNDal8tNE83SUtyYVBBVEpMYjNfalFfRklGcHZnZTBuQVMxd0tuVnJWWW5reGNnVlNXeVFCdWlLQW0ydFFwOGlSR1ZqSjA4enRPZ1FWZFBEWnc1STNVR29JeEpzN3VVczZBak04SzA1dlEzdEtBWWJzRG5Fd3Rzb3NOUVlMczBrSXF5ZzhDbTVmVmNjTVhaVDUtTUMyY203cGhGMWROYmFWZzdlV242NVJCWWhubHRRZm1pZw?oc=5)
 
-2026-03-29 <span class="news-indication-tag">hepatitis</span>
+2026-03-29 <span class="news-indication-tag">MS</span>
 
-來源：[RTL.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTJzS09PYnZSbUdoalAxQTlOeTZ4LWVrRXNZT25FT3lMNV9KcEExd0thd2ZOYkUxQUdaZ0luU00tTGZ3b1BvX2FycWVKc2FXeWZCN3ZuTVhkbmlWSDFDV3pHRnJQenRreXFNSExEWVVVc2RibG1yZWlGaHJUcl9WTlhrclpnSWd0NV9HYlU2MkxfOVZyYU84T05MbW45SzVlbkFqblJoX1oyTzRRZFo0T3RlMjgxYlRGUlR3dTJDN21CWkJEeURMSENn?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR0xlWVhVb3l0cWdyWTRCdXJKS3VXc3gzOEppZTNGRUJNV2JXdlJRRk9yWnNDal8tNE83SUtyYVBBVEpMYjNfalFfRklGcHZnZTBuQVMxd0tuVnJWWW5reGNnVlNXeVFCdWlLQW0ydFFwOGlSR1ZqSjA4enRPZ1FWZFBEWnc1STNVR29JeEpzN3VVczZBak04SzA1dlEzdEtBWWJzRG5Fd3Rzb3NOUVlMczBrSXF5ZzhDbTVmVmNjTVhaVDUtTUMyY203cGhGMWROYmFWZzdlV242NVJCWWhubHRRZm1pZw?oc=5)
 
 ---
 
@@ -76,11 +76,19 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Is Sourdough Healthier Than Other Breads? Here’s What Nutrition Experts Say](https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1NJMm1Ubl9Ea0NvS2dRVUtpbHhJeDZMMG5rN0hoX0s5TC0xNUs0Y2o4Yi14czM0Yk5SQ2dsR3FhNlM2TDlsMGplWWRVQW5yUHFaTEY5bUZHX0J3cERtWjRENDROa1BZV2Fv?oc=5)
+### [Covid-19 : un nouveau variant BA.3.2 détecté dans 23 pays, plus résistant aux vaccins](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ2JPMHJDLVRmRmJJaHpJQnZ4MzJjbGdRNzJNVWdzLUdnQzBMcF94OF9Sd2R6UjVoclk3aFBRSXM3RUtKT2E1NlpkOV9xT0dmdnNlSklTZklJMzlHM0w5aUZ5VGxNTlNDUjhoRGZNQk9EYTFVaEZLWHBXNUxSdzkyZFAzLVNFRldVLVRyalV6RUI0eFlNVDNTRGN2OFhxeHB2WjRCWHd4ZFZ1Qk1QeWQ2QmxvNGxBd2lncW9ORkRHOEtHZWFVanRpb2hIT1VTNUNfZ2FrVFo0TnEyZGNqMTIyVmx4RQ?oc=5)
 
 2026-03-28 <span class="news-indication-tag">MS</span>
 
-來源：[marthastewart.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1NJMm1Ubl9Ea0NvS2dRVUtpbHhJeDZMMG5rN0hoX0s5TC0xNUs0Y2o4Yi14czM0Yk5SQ2dsR3FhNlM2TDlsMGplWWRVQW5yUHFaTEY5bUZHX0J3cERtWjRENDROa1BZV2Fv?oc=5)
+來源：[guadeloupe.franceantilles.fr](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ2JPMHJDLVRmRmJJaHpJQnZ4MzJjbGdRNzJNVWdzLUdnQzBMcF94OF9Sd2R6UjVoclk3aFBRSXM3RUtKT2E1NlpkOV9xT0dmdnNlSklTZklJMzlHM0w5aUZ5VGxNTlNDUjhoRGZNQk9EYTFVaEZLWHBXNUxSdzkyZFAzLVNFRldVLVRyalV6RUI0eFlNVDNTRGN2OFhxeHB2WjRCWHd4ZFZ1Qk1QeWQ2QmxvNGxBd2lncW9ORkRHOEtHZWFVanRpb2hIT1VTNUNfZ2FrVFo0TnEyZGNqMTIyVmx4RQ?oc=5)
+
+---
+
+### [Großer Hepatitis-A-Ausbruch in Italien! Was Reisende kurz vor Ostern wissen sollten](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
+
+2026-03-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
 
 ---
 
@@ -100,35 +108,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Children to be offered home vaccinations as part of NHS pilot](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xUmdHRUI1eTRsb0JFOFl2ejVCYkV0UVJwUWFxOWtIZHdkUjF4My1Kc1oweVBVOWMxMEZZdjRiNnBPRURnbThrc0RxTWVpZHJQMnhaQmZTTTRRc2pq?oc=5)
-
-2026-03-28 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xUmdHRUI1eTRsb0JFOFl2ejVCYkV0UVJwUWFxOWtIZHdkUjF4My1Kc1oweVBVOWMxMEZZdjRiNnBPRURnbThrc0RxTWVpZHJQMnhaQmZTTTRRc2pq?oc=5)
-
----
-
-### [Décès d'Isabelle Mergault d'un cancer du poumon métastasé : quels symptômes ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
-
-2026-03-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">hépatite</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
-
----
-
 ### [Se pone en marcha el primer Registro de Hepatitis B en España, HEPA-B - Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
 
 2026-03-28 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
-
----
-
-### ['Brain Ripples’: The 20-Minute Cycling Habit That Literally Rewires How You Store Memories - HuffPost UK](https://news.google.com/rss/articles/CBMikwFBVV95cUxQczc0LXNGVmd0UjEta0JMVXVkZGNrSFpDb2h6RUp3amRrYVVYa08ycHFDVVBXZ3VHd0d4SEk2aEE5ZndLX2RnTmhfZWJfb3ppb2I3LTdaRW9ZYWhuQVRUaVo3NlNzUW5KQmU3XzJnMTFxTVAtdlFfY1gzYS1LWlk2OWlOdjN6cVRQSElpY0psRGlGdWPSAZoBQVVfeXFMT3I5cTJ5SWhqQi1DdXVPSnk1TTBsZG5Fc0hGaGdydHVlMkxlbkNrQzBnY21PZWhWT1hjQ1BhOFBkTjJNRkF6RVd5MGJGdkFQeXhDR24wN0IzZW9NVGxrWVF2dVNUOWdiU2hxSDNVaXprRHJHb3dRUGYwQ2R2b2hDQU5vNm9ZcEw3RUROQTU1dHEyVzZaNVVKRUdmZw?oc=5)
-
-2026-03-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikwFBVV95cUxQczc0LXNGVmd0UjEta0JMVXVkZGNrSFpDb2h6RUp3amRrYVVYa08ycHFDVVBXZ3VHd0d4SEk2aEE5ZndLX2RnTmhfZWJfb3ppb2I3LTdaRW9ZYWhuQVRUaVo3NlNzUW5KQmU3XzJnMTFxTVAtdlFfY1gzYS1LWlk2OWlOdjN6cVRQSElpY0psRGlGdWPSAZoBQVVfeXFMT3I5cTJ5SWhqQi1DdXVPSnk1TTBsZG5Fc0hGaGdydHVlMkxlbkNrQzBnY21PZWhWT1hjQ1BhOFBkTjJNRkF6RVd5MGJGdkFQeXhDR24wN0IzZW9NVGxrWVF2dVNUOWdiU2hxSDNVaXprRHJHb3dRUGYwQ2R2b2hDQU5vNm9ZcEw3RUROQTU1dHEyVzZaNVVKRUdmZw?oc=5)
 
 ---
 
@@ -148,35 +132,19 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [La vignetta del giorno - 27 marzo 2026 - Torino Cronaca](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
+### [What you should know about the new COVID-19 ‘Cicada’ variant - Northeastern Global News](https://news.google.com/rss/articles/CBMieEFVX3lxTE91OUlPRGozQW05TEpBT2tZdTNfRG9tNGU1MnNtbEd5WXNQOTM5bnJrVnBDUVpYQU1vWDFSU09UbGxpTW1LYUp2MjctV3FvNVNFMk04THZxZVVUakdmLVAyeTZFNURfYkZLQlBlTjhFRHR4dXBHRjVXbQ?oc=5)
 
 2026-03-27 <span class="news-indication-tag">MS</span>
 
-來源：[Torino Cronaca](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
+來源：[Northeastern Global News](https://news.google.com/rss/articles/CBMieEFVX3lxTE91OUlPRGozQW05TEpBT2tZdTNfRG9tNGU1MnNtbEd5WXNQOTM5bnJrVnBDUVpYQU1vWDFSU09UbGxpTW1LYUp2MjctV3FvNVNFMk04THZxZVVUakdmLVAyeTZFNURfYkZLQlBlTjhFRHR4dXBHRjVXbQ?oc=5)
 
 ---
 
-### [Un nouveau variant du Covid-19 au nombre record de mutations se propage dans le monde](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkxiR2QyMkF6OEtxcjdMYWdIQUJUTk50Rlk0ai1zZzA3U2pMWEotRjRQZ2JWUDREbE1BQWJ6LVp1a0lUNk1qeTFfNFAxQUVsci03SEZ2cFM4LUY5V05ibFM4XzJ6RXFaNFpLOVgxdXlTWVdQRDE4dnV0Z0VyaEoyanNVQXluelNRR0IwVFQxcm1PaHg5VmfSAZsBQVVfeXFMTnZjejhWV2xJMjlZeVVDVTNjaTh0a3JLdHI2MFdRaHA0QVMxTzZ0cHlRNzgyT3B1dDdubEhBSHBTTklkOENFdWEyRUhzMFVtZnczRS1rOXZ6YWUteW1hZ0p1VzNSUmJybW5yeWw2V2pjVWJPZVBSeDQxSXJOSEYzNWNid2ZiZkJ1OVpQQzIwMUNzRGtfTUpPMTBMV0U?oc=5)
-
-2026-03-27 <span class="news-indication-tag">MS</span>
-
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkxiR2QyMkF6OEtxcjdMYWdIQUJUTk50Rlk0ai1zZzA3U2pMWEotRjRQZ2JWUDREbE1BQWJ6LVp1a0lUNk1qeTFfNFAxQUVsci03SEZ2cFM4LUY5V05ibFM4XzJ6RXFaNFpLOVgxdXlTWVdQRDE4dnV0Z0VyaEoyanNVQXluelNRR0IwVFQxcm1PaHg5VmfSAZsBQVVfeXFMTnZjejhWV2xJMjlZeVVDVTNjaTh0a3JLdHI2MFdRaHA0QVMxTzZ0cHlRNzgyT3B1dDdubEhBSHBTTklkOENFdWEyRUhzMFVtZnczRS1rOXZ6YWUteW1hZ0p1VzNSUmJybW5yeWw2V2pjVWJPZVBSeDQxSXJOSEYzNWNid2ZiZkJ1OVpQQzIwMUNzRGtfTUpPMTBMV0U?oc=5)
-
----
-
-### [The exact amount of salty foods you can actually eat without risking your health, according to science - Daily Mail](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
-
-2026-03-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
-
----
-
-### [Horror as deadly Victorian era disease explodes in school outbreak – thousands warned - Daily Express](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
+### [Horror as deadly Victorian era disease explodes in school outbreak – thousands warned](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
 
 2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQek52a21VMWZmcDNPclo0MDVvWWpGS19PajUtNU5uTENySWVrUUxBR0xZTG9uQUIzUGdJcVltSFNOdlYwZzJnck02dXJsQ1ptdkNPVHZ6dkNiWk5WMjRrZUUtcmZYb1RBQmhDeFBudDFaTU44YnMyNDlITWYtaF9JNElZMGNxRk5LTEHSAY8BQVVfeXFMUHpNRGhsTUh5cUxkVGYzUjFWUFhyOVc0SFc1a3ZMRV8xcDFIdTN6cGxhT1FRaElCNmZmeHIzc0NnRWdQdnNrTGpNanBxTGtsbEYtYldjMFUwUWNDQWpxaGRwSVRfU1liTVJGcTM3OXVhZzd4bl9WNlBpN2Z1Y2NvUTVMWlV3UUl0WUpRX0ZtY3M?oc=5)
 
 ---
 
@@ -185,6 +153,38 @@ permalink: /news/velpatasvir/
 2026-03-27 <span class="news-indication-tag">multiple sclerosis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYm1fVHJyUWhXaGctVnFtdnIwSE1QOGhEM3dhZGlGUVhMcWFyX3RoY2JGbnZmTnNiS3FubzZ4b1MwRDRqWkxmRkZrRlRkZnNOWnVKT0tXeFRiNlBjZTh1RkxXR25CTWROb1NyYzVHVVYtaUN6b2FNdlNCdktvbVg1Y1lnWDNaTkVGMG9N?oc=5)
+
+---
+
+### [Newcastle lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
+
+---
+
+### [What Taking Vitamin D3 Can Do for Your Body](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZDhrc19OekpxVG1LMnp5bWZyYkJTVTRWUkJzZlBacXdodzNQZXdaWlZ2RlJaek5WU2g5endjMUJPOE9GUlgzSWlXQzZlOF85cTgwVHd3d3Z5TERJOW01QTNPSmdyMGFVU3Q4V3JDWGE2Q1ZqUnlUc1ZvWW51dw?oc=5)
+
+2026-03-26 <span class="news-indication-tag">MS</span>
+
+來源：[health.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZDhrc19OekpxVG1LMnp5bWZyYkJTVTRWUkJzZlBacXdodzNQZXdaWlZ2RlJaek5WU2g5endjMUJPOE9GUlgzSWlXQzZlOF85cTgwVHd3d3Z5TERJOW01QTNPSmdyMGFVU3Q4V3JDWGE2Q1ZqUnlUc1ZvWW51dw?oc=5)
+
+---
+
+### [‘At 61, I took a 24g super-dose of creatine for 2 weeks – here’s exactly what changed’ - Women's Health](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUVzNkkybG1HWWlMZnNhaWI1X1pKWlg3aVFGcjZ1WnRrX2VzTjFSLTZfZzVBcmNvbHBlWEtsTUlBMHdXUFZhVHRrUUJhaWZ6YmwtTHRNZlhkbzduMmZYZHB6bnZjMy10QUZiM1ZWaVUxbWg5MnlCQWFlUGd6djdMR2k4S05COExYV1BxOXNlRWhUTkk?oc=5)
+
+2026-03-25 <span class="news-indication-tag">MS</span>
+
+來源：[Women's Health](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUVzNkkybG1HWWlMZnNhaWI1X1pKWlg3aVFGcjZ1WnRrX2VzTjFSLTZfZzVBcmNvbHBlWEtsTUlBMHdXUFZhVHRrUUJhaWZ6YmwtTHRNZlhkbzduMmZYZHB6bnZjMy10QUZiM1ZWaVUxbWg5MnlCQWFlUGd6djdMR2k4S05COExYV1BxOXNlRWhUTkk?oc=5)
+
+---
+
+### [Is it true that … you need to work out if you want to lose weight? - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTN2eWR5V014QnV6SllFeWlNTklUR2ZDMlJwdk9VUl9IVkRGejVuVU16R2lsTFRIVXlsZkNSTlRBZ3J0M0xnN19kclFLTDB5RXhxc29vdmpsRmI1d3NtV0NsUDZnandFZGVYZGl4SDFDQ1c2X0RTRmYtY3RNS2kzd3ZDeG9Ccm83MXdmZzA5TTV3eHkxZ0V1Q21IY3lZZWhfMTEwaTUtNjhJVkc2MlpjNnRKa1lud1k?oc=5)
+
+2026-03-23 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTN2eWR5V014QnV6SllFeWlNTklUR2ZDMlJwdk9VUl9IVkRGejVuVU16R2lsTFRIVXlsZkNSTlRBZ3J0M0xnN19kclFLTDB5RXhxc29vdmpsRmI1d3NtV0NsUDZnandFZGVYZGl4SDFDQ1c2X0RTRmYtY3RNS2kzd3ZDeG9Ccm83MXdmZzA5TTV3eHkxZ0V1Q21IY3lZZWhfMTEwaTUtNjhJVkc2MlpjNnRKa1lud1k?oc=5)
 
 ---
 

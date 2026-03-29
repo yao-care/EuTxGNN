@@ -14,7 +14,7 @@ permalink: /news/imlifidase/
 ---
 
 <p class="key-answer" data-question="Imlifidase 有什麼相關新聞？">
-<strong>Imlifidase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Imlifidase</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/imlifidase/
 <p><a href="{{ '/drugs/imlifidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Llevamos 60 años usando este fármaco para la diabetes, pero ahora sabemos que activa un interruptor maestro en el cerebro - Muy Interesante](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmFhTXpJS0xnRWRMaFVUWW1DdWYwUjN0R01SSF9fY1Y4MG1iUVVGaTNPN2hiSUJScnpDN0Ywei1xd29sTm1TTDNYRXVsdFdoMFpOQUdSV3RRdHZVbGgwVFVlZTlpNVQ5RzJQeDEzTkRXb2h1ZUxZejhmdlNwOEdFWldkRXlfUTlweE5xaktQVXJKTlAz?oc=5)
+### [At 48, I was told I was prediabetic – I reversed it with these simple rules - The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
 
-2026-03-28 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+2026-03-29 <span class="news-indication-tag">diabetic</span>
 
-來源：[Muy Interesante](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmFhTXpJS0xnRWRMaFVUWW1DdWYwUjN0R01SSF9fY1Y4MG1iUVVGaTNPN2hiSUJScnpDN0Ywei1xd29sTm1TTDNYRXVsdFdoMFpOQUdSV3RRdHZVbGgwVFVlZTlpNVQ5RzJQeDEzTkRXb2h1ZUxZejhmdlNwOEdFWldkRXlfUTlweE5xaktQVXJKTlAz?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
 
 ---
 
@@ -65,6 +65,14 @@ permalink: /news/imlifidase/
 2026-03-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[Phys.org](https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGZFcURyVnkzZHZ3ckthbDRKMkxEZmF1Z19VMmtYTlVPOFpld3ZuS0I4ZGoxTVBvank5a2dMckNJMXRtR3lDYWxWZFN0UW82VFdyeGZfeXVmeEU1M3NBZkVYQ1dHcUhZY3VnanFWU0p3d29ZbFdmT2lBWDdxQWJJTA?oc=5)
+
+---
+
+### [After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
+
+2026-03-25 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
 
 ---
 

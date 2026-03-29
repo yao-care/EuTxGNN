@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lamivudine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/lamivudine/
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Großer Hepatitis-A-Ausbruch in Italien! Was Reisende kurz vor Ostern wissen sollten](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTJzS09PYnZSbUdoalAxQTlOeTZ4LWVrRXNZT25FT3lMNV9KcEExd0thd2ZOYkUxQUdaZ0luU00tTGZ3b1BvX2FycWVKc2FXeWZCN3ZuTVhkbmlWSDFDV3pHRnJQenRreXFNSExEWVVVc2RibG1yZWlGaHJUcl9WTlhrclpnSWd0NV9HYlU2MkxfOVZyYU84T05MbW45SzVlbkFqblJoX1oyTzRRZFo0T3RlMjgxYlRGUlR3dTJDN21CWkJEeURMSENn?oc=5)
-
-2026-03-29 <span class="news-indication-tag">hepatitis</span>
-
-來源：[RTL.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTJzS09PYnZSbUdoalAxQTlOeTZ4LWVrRXNZT25FT3lMNV9KcEExd0thd2ZOYkUxQUdaZ0luU00tTGZ3b1BvX2FycWVKc2FXeWZCN3ZuTVhkbmlWSDFDV3pHRnJQenRreXFNSExEWVVVc2RibG1yZWlGaHJUcl9WTlhrclpnSWd0NV9HYlU2MkxfOVZyYU84T05MbW45SzVlbkFqblJoX1oyTzRRZFo0T3RlMjgxYlRGUlR3dTJDN21CWkJEeURMSENn?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Pozzuoli, epatite A: «Comparto ittico flegreo al tracollo: servono aiuti per gli operatori» - Il Mattino](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYVhFcGFhT2g3Y1VXQ29OSkF3VGVXU19QOGhTajB0Slp4TUk3Nm5mZXFXV3BmTVFKd01uNE9fMm5aeExIMXBWS005UjJIeGJYeWdYNjhxS25TaWhYcjMzTlFmRElhLVJ2ZE5VZEg2QWV6bHFNMkJWSDNSRTNuR01MWHktOFFGVG44bHZxYVlHRmtscnRxeExuenFhZ3NyQ0NFeXFxcFB1OVdZTk1YbjFkaUJ6WHNtd2VNLXJRQk9IRVVnZzQ2TGNLNS1VUkMtRjl4WFNQRk9nRTgzTGNPT2s4enpKclRmM2xwSUpwaUlkT1fSAdwBQVVfeXFMT2pwLXA4VmtHc0k4S0l2ZnFwLTlNNncxdlRaQ25HSVdZejgtSFQwXzhQWmwwejBZZDBCbmpjY1R6NzJXT1h0a3c4Y0Q1ZC12aWNyMzVENDhUUXRGeDhwWUVvdWp5dVU2eXVyOXItVV95NjJlUkc0UWhQamdsNUxaTXJUdk1qWV9OeWRhZmVuRnR6RVhmVU1xWjdDaEVZS0UtNkh3ZEtGRmFSMlpDX3NPQ0pvc3hLUkxZWTlfRWE3YWJ6TndTTkJmOHNtT2JUUFRaTjlWNXlOOVhjM29scw?oc=5)
 
@@ -60,11 +52,11 @@ permalink: /news/lamivudine/
 
 ---
 
-### [Décès d'Isabelle Mergault d'un cancer du poumon métastasé : quels symptômes ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
+### [Großer Hepatitis-A-Ausbruch in Italien! Was Reisende kurz vor Ostern wissen sollten](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
 
-2026-03-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">hépatite</span>
+2026-03-28 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
+來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
 
 ---
 

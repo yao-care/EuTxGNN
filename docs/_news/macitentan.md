@@ -44,11 +44,11 @@ permalink: /news/macitentan/
 
 ## 相關新聞（1 則）
 
-### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich?](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSklVb09lV3M1bDFNMmNFb0xLZ2NiTU1GTWM0ZVFEUXBIMURUb2VxR21Kb05mOGxUdWlYV2hQY01LTXVRbVU4b0x3dk92ajhWOGQ5UktFYlFjLWlSZ2VKYXZucXA5WlZmTlZEXzBVZjVnNDliSExqX0pvSjlDMmFyZkNjQlFxcHBGQnYxcXhiY1FHV1RkNlE?oc=5)
+### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich? - Der Bund](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
 
 2026-03-28 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSklVb09lV3M1bDFNMmNFb0xLZ2NiTU1GTWM0ZVFEUXBIMURUb2VxR21Kb05mOGxUdWlYV2hQY01LTXVRbVU4b0x3dk92ajhWOGQ5UktFYlFjLWlSZ2VKYXZucXA5WlZmTlZEXzBVZjVnNDliSExqX0pvSjlDMmFyZkNjQlFxcHBGQnYxcXhiY1FHV1RkNlE?oc=5)
+來源：[Der Bund](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
 
 ---
 
