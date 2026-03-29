@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,11 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [«J’ai perdu du poids mais j’avais des effets secondaires»: Wegovy et Mounjaro, ces traitements «miracles» contre l’obésité ne conviennent pas à tout le monde - Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
 
-2026-03-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-03-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
 
@@ -60,11 +60,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Farmaci anti-obesità: efficaci, ma non alla portata di tutti. Presto potrebbe cambiare - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
+### [Una alternativa oral de Ozempic podría ser incluso más eficaz para perder peso - El Economista](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUFNId245QV9HUUhuYWF1WERsa25WalhfdFVOeVpvTTFTZGdtejcxVExNVklHNHptc1pYRnFWTnpUeVk4ck9GdHhkbTE3SUg4MGs3TWRWQmJuTEdkUkthV21vdEo5bUdqdnRXSU1OX1Z1NUN0NWJfckFIUW5ET3NqTWNIcW11Mjltaks1cTBWYThHSVpoUUotekNHNVVYeVI2Zlo1RVNIaG16NHAxRDU1MFFEZDBjbm14LTlBNVBEZjR6Y2pZTzFzYlJENzh4OWFQNzZDNTBabUpxei1YSHd4cG1FS08tUUpiNUp6YVJxaGp2aHppYWFJ0gHiAUFVX3lxTE9ULTZiT1R5bks1ZGkxZ1RwZGRKUnhzZ3kxUjV4UGdRQ3ZhUkVWZVZLNVh1N3pQNExOXzdlYmljMExwc3pzRUU2OU52eHVfZW1zUUszWVoxdm4zcUg1MmhRN2Rra210U3R2dHRyb3gzNTJGQnRQR1Q1UFdXRXVlVG5zT2FnV2pjNk1JVmRlNDN4T0lfMTRtcUJSeS1VQWdSN2QyZElvMWFVdXM4ZE0wMnZnYzY2NnQ0R19HalhtdFlSbTdGVE5RN3ZzMW9ZYzg0YjU2Q3lLMTFzZTBMMnpqU01hbXc?oc=5)
 
-2026-03-26 <span class="news-indication-tag">obesità</span>
+2026-03-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUFNId245QV9HUUhuYWF1WERsa25WalhfdFVOeVpvTTFTZGdtejcxVExNVklHNHptc1pYRnFWTnpUeVk4ck9GdHhkbTE3SUg4MGs3TWRWQmJuTEdkUkthV21vdEo5bUdqdnRXSU1OX1Z1NUN0NWJfckFIUW5ET3NqTWNIcW11Mjltaks1cTBWYThHSVpoUUotekNHNVVYeVI2Zlo1RVNIaG16NHAxRDU1MFFEZDBjbm14LTlBNVBEZjR6Y2pZTzFzYlJENzh4OWFQNzZDNTBabUpxei1YSHd4cG1FS08tUUpiNUp6YVJxaGp2aHppYWFJ0gHiAUFVX3lxTE9ULTZiT1R5bks1ZGkxZ1RwZGRKUnhzZ3kxUjV4UGdRQ3ZhUkVWZVZLNVh1N3pQNExOXzdlYmljMExwc3pzRUU2OU52eHVfZW1zUUszWVoxdm4zcUg1MmhRN2Rra210U3R2dHRyb3gzNTJGQnRQR1Q1UFdXRXVlVG5zT2FnV2pjNk1JVmRlNDN4T0lfMTRtcUJSeS1VQWdSN2QyZElvMWFVdXM4ZE0wMnZnYzY2NnQ0R19HalhtdFlSbTdGVE5RN3ZzMW9ZYzg0YjU2Q3lLMTFzZTBMMnpqU01hbXc?oc=5)
 
 ---
 
@@ -73,6 +73,14 @@ permalink: /news/lasmiditan-succinate/
 2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+
+---
+
+### [SEMERGEN presenta una guía para abordar la obesidad en pacientes con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
 
 ---
 

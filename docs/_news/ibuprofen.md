@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El paracetamol, en comparación con el ibuprofeno: eficaz y seguro, pero con riesgos si se usa mal - La Región](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjI0c19aVjVaVGxHRDVId3A0VF9SOXg1TGt5aUxjcWExR2ttYVZ3cjAtQVcyNkZsRy1DRk1xbGpNdnA4aHNwN2N6cHZ0ZUlkYVB4RkFLQnd6VXU3VnM2amlsMnFLWHdyTlYwVUltZ0lhSmNVRmxhTEpLT0RRNXpkNTk2ZVNGNERJYW42QTl2Z215eDk2ZFJVSmg1S3htZmlkeFM1WA?oc=5)
-
-2026-03-28 <span class="news-drug-tag">Ibuprofen</span>
-
-來源：[La Región](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjI0c19aVjVaVGxHRDVId3A0VF9SOXg1TGt5aUxjcWExR2ttYVZ3cjAtQVcyNkZsRy1DRk1xbGpNdnA4aHNwN2N6cHZ0ZUlkYVB4RkFLQnd6VXU3VnM2amlsMnFLWHdyTlYwVUltZ0lhSmNVRmxhTEpLT0RRNXpkNTk2ZVNGNERJYW42QTl2Z215eDk2ZFJVSmg1S3htZmlkeFM1WA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

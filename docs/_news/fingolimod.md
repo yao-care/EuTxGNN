@@ -14,7 +14,7 @@ permalink: /news/fingolimod/
 ---
 
 <p class="key-answer" data-question="Fingolimod 有什麼相關新聞？">
-<strong>Fingolimod</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fingolimod</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/fingolimod/
 <p><a href="{{ '/drugs/fingolimod/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（34 則）
+
+### [Tipp: Schlüsselrolle Vitamin D - Gesund ins Frühjahr starten und Speicher auffüllen - Lebensmittel enthalten nur wenig Vitamin D - Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2ROWWdVODhYSVFWMW5rc3lPT0pZV25YMFpEaEgzajFBVlJUU3JmelFlR1pOcnlVQWh2SlliaHlhSmQ3MVIzczRVTGNHeWJ2X2ZWOHZyalkwY0U4MExJdkRTVzFaTHpJQlBCbHY5T2VCYVVrUDFLRldpWm5kVEM1NV9DbXRvakw3bXNuRTF0R2EyYzZ6VlhTN2kzcmlwWXQ3UkRuX2xVVVhPdWlFdGxUOUJKVVVaWTVYVEJDdlRORTNadV9sSDdSSmMzTURya0lJX3FnbExONlZ6UGFITEgybXRwWkhPc3FYS3ZCTDRicDJ5V0lxLUZkdC1GQQ?oc=5)
+
+2026-03-29 <span class="news-indication-tag">MS</span>
+
+來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2ROWWdVODhYSVFWMW5rc3lPT0pZV25YMFpEaEgzajFBVlJUU3JmelFlR1pOcnlVQWh2SlliaHlhSmQ3MVIzczRVTGNHeWJ2X2ZWOHZyalkwY0U4MExJdkRTVzFaTHpJQlBCbHY5T2VCYVVrUDFLRldpWm5kVEM1NV9DbXRvakw3bXNuRTF0R2EyYzZ6VlhTN2kzcmlwWXQ3UkRuX2xVVVhPdWlFdGxUOUJKVVVaWTVYVEJDdlRORTNadV9sSDdSSmMzTURya0lJX3FnbExONlZ6UGFITEgybXRwWkhPc3FYS3ZCTDRicDJ5V0lxLUZkdC1GQQ?oc=5)
+
+---
 
 ### ['This climb is for Alison and for every family in Northern Ireland affected by blood cancer' - Belfast Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkx4NEJUQ09hSFNMSHo2SFRpTWRrM1FvOWZMRW9lbW1LeEc0VUN5cEZGNk1XOVFvUFYwYjBseEp6T3d1cS1fMFBlclFCRjZyN1k5UEIyTEw4Ull1YnJGZ0pjYkx2NzRpLTFRMHlZZ3Zhc1R5V2RyRW5DOS1XRW56amx2M2J1UkZhazlZMjkxT0VyTkowRUHSAZsBQVVfeXFMTnUtWlEySUF4b1lYZXJ5bXJBUVV5MlhRS2hJUi1MemtabUJib0RtLWFOaHYyWVc4ZU80VUk5d2RUZG9jWVNLMHpEUlMzQ0EzTkhtQkJibGRxakxXcGRfYXZTWmN3MVdKWmQ5UVpteTFxRy1XWUI2RExhZWl4S3dqcTBNa2hHSWVLMU83NUZCOVljVUNBVlpsWW01d1E?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Boston Scientific's CHAMPION-AF Trial Confirms WATCHMAN FLX Effectiveness In Stroke Risk Reduction](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWMzUU9CS09ZZ3MybkwyTHRnWUU0c09sOHVJLXA3aFNybVl1T0k0ZlVjWHdmSmV6ZFNEbUtaXzhIQWctOGlaYzFaeU9yWTV4dFFQcGRrNG9WMmI0YWhKdVB4azBJSTk1WWNfaW9YUXpIR2pYb3dYT0pqcHZ4WUtjR2hqRDR6X09yak1mQUhyN0RpcXR3ZENSQmpfQ3R6dWpoRk02M013eDZfWjVkNFBweU9iTDZzSVJUcF82NmtPa0I4bUx6WTNtQU1hdlgwbTBOazJpTDdkTzZnWm12bnRtb0lJWlpuTC1JLVkza0lXUHRMbXdNNDJ3T3dXeks?oc=5)
+### [Cancer et pesticides : "On a un manque de courage politique hallucinant", accuse Fleur Breteau, fondatrice de "Cancer colère" - Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLTE1MkFSTUwyeGVRNmZLYm1rT0dGZDlKVlFxczhwZHFhV2V1Z3BLRzEyMm9MZl90OXptT3dRdzJPeTgwbTNQMzgtUk01OGVNQ252UG5oRGFmWkl1d0NZRnBpdHhRTlpTWDFLcjZEU1V0bDEzT3NmRmlOSzBkdHpHM2ZnMlJWWjNaMFVqeE9RM2dsSU1CMmp6czhqSE9Gb0xDcW1Ndks2UFVKV1BYUzFWdmttMFBNN1VONUZ4d2ZwQmtKanBYQWsxS0c5NE5zM0dGZjlIM1l2b2x4OTEzYjBwNW05aHNua1N3U2wxLWRDdWFmNEJFRjlaQy1R?oc=5)
 
-2026-03-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-28 <span class="news-indication-tag">cancer</span>
 
-來源：[finanznachrichten.de](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWMzUU9CS09ZZ3MybkwyTHRnWUU0c09sOHVJLXA3aFNybVl1T0k0ZlVjWHdmSmV6ZFNEbUtaXzhIQWctOGlaYzFaeU9yWTV4dFFQcGRrNG9WMmI0YWhKdVB4azBJSTk1WWNfaW9YUXpIR2pYb3dYT0pqcHZ4WUtjR2hqRDR6X09yak1mQUhyN0RpcXR3ZENSQmpfQ3R6dWpoRk02M013eDZfWjVkNFBweU9iTDZzSVJUcF82NmtPa0I4bUx6WTNtQU1hdlgwbTBOazJpTDdkTzZnWm12bnRtb0lJWlpuTC1JLVkza0lXUHRMbXdNNDJ3T3dXeks?oc=5)
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLTE1MkFSTUwyeGVRNmZLYm1rT0dGZDlKVlFxczhwZHFhV2V1Z3BLRzEyMm9MZl90OXptT3dRdzJPeTgwbTNQMzgtUk01OGVNQ252UG5oRGFmWkl1d0NZRnBpdHhRTlpTWDFLcjZEU1V0bDEzT3NmRmlOSzBkdHpHM2ZnMlJWWjNaMFVqeE9RM2dsSU1CMmp6czhqSE9Gb0xDcW1Ndks2UFVKV1BYUzFWdmttMFBNN1VONUZ4d2ZwQmtKanBYQWsxS0c5NE5zM0dGZjlIM1l2b2x4OTEzYjBwNW05aHNua1N3U2wxLWRDdWFmNEJFRjlaQy1R?oc=5)
 
 ---
 
@@ -94,25 +102,25 @@ permalink: /news/fingolimod/
 
 ### [Un nuevo hallazgo contra la metástasis cerebral muestra cómo el tumor secuestra células defensivas para usarlas en su favor - Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYklua1pMZUJlSTlMcHYtdXJMMExUaXZEcS1SSW1JRUFDNGYwekZSeWJyRnpvcXdGTXZ1dHlTVXJPT3ZUMl9tVW00XzVLWE9XZTZlT1Y1VC1ERFNERHY1eTVnX1Flbmg2Sm0xQ1FaTlVUWHhJZnRpZHI0SzdOaHU3V3l2Q0pkVVlfRzRlYVJkS1RvNXBpcG85Wk9uYTVLdURKeVY3SVV2b2FEbl9rRGNKemNWQktiUk1vWThtU2VybUs1WTJQRmNnU1hzQ1VxZXJQSUJhVXRiZUx6R0IyMkxINTlNUW5Pd3ZabkJmLS1oWnVRaVVSMDlWdFp3?oc=5)
 
-2026-03-28 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">asma</span>
+2026-03-28 <span class="news-indication-tag">tumor</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYklua1pMZUJlSTlMcHYtdXJMMExUaXZEcS1SSW1JRUFDNGYwekZSeWJyRnpvcXdGTXZ1dHlTVXJPT3ZUMl9tVW00XzVLWE9XZTZlT1Y1VC1ERFNERHY1eTVnX1Flbmg2Sm0xQ1FaTlVUWHhJZnRpZHI0SzdOaHU3V3l2Q0pkVVlfRzRlYVJkS1RvNXBpcG85Wk9uYTVLdURKeVY3SVV2b2FEbl9rRGNKemNWQktiUk1vWThtU2VybUs1WTJQRmNnU1hzQ1VxZXJQSUJhVXRiZUx6R0IyMkxINTlNUW5Pd3ZabkJmLS1oWnVRaVVSMDlWdFp3?oc=5)
 
 ---
 
-### [Esclerosis múltiple y supervivencia a gran altitud: la mutación genética que puede cambiar el pronóstico de la enfermedad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWdQNGN2QldhN2R0MkE0ZHVjRUpTMTJXT2tpcE9DX21Eem05VlZPZXI0b3EzYUNHS3NMcU9HYmhUUXF1cWdxd2JNQ1dEVzdjaklCdG9SSkt6Z2ZCSVhrZzhuSWRGQnJncy01NDZJalplWXBESHlES01hWWNBa1I4QmVSYURZbldhR0tNQ1JJRUNYZ19WMlEySmtVbDJ1VkhESW56eGY5c3Nma2ZMbEt1c1k0Zm9XUmpVYXZDbHY5OXdGeHFQdzEtcnRrSjNfbmVtOTViUl8wVDJDUQ?oc=5)
+### [Esto es lo que le pasa a tu cerebro cuando decides que quedarte despierto hasta las 5 de la mañana jugando a Crimson Desert es una buena idea](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSEQ5TGxFT3BCT1BYMFBPUnNUT1h5cEhPQWpiOHRnVVRDQ2FRSDd6bU9GeGkxS0NzZVJGWDRZWlZZenBWVkdEaHZOWlIwTGMtYzYtSm94b0FYRERVMzdVSm1FR0xBX3RCeDkzM2ZSV3RwUUFpQ3RJQndmdkdrcVRCQ200MlRtN1phcDVQNmZ4Y3ZySmpPOHhvRkJVR1p6UXN4cE9SSkQ2YTZJM1hkTVlISW5YZ25HZ1JHNmNYRldHamhNQXFmZDdHMG1obUVJNmxpdUFUTERzWHlremdsVEZrN2puam9URHFSb0lSbGYwOUhvY29H0gH6AUFVX3lxTFBGTm42UTc4N2NsUEtBbWw0MExhOEFicmJ5RXJnSm9wdk9EY0Zic0xlaDdhQU9LVFFDM1VrRldOSWc4dFhJUTNTbmUwS3ZScTZURzNBOFNxSFhrZjZveUxLcm5odGJyZGhLcTdGQVYwSVZYLWJ4anVnSXNDSWtidHUxNjZqNFJ6RUR1REV5cE5NMXVLTWVVNVR5S0JVN3ZYZEs1ZHV6enp5Y1A4SzhDbFJkT2NLRkJuM3dVY3VzNC1EbzJjZHIwOC10dHpLaklGN1E4Q0lmNFhHd3ZkUERoMVFVbnBubTdyc01EWkdoQVR4TUhRUXgwai1UeFE?oc=5)
 
-2026-03-28 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-03-28 <span class="news-indication-tag">MS</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWdQNGN2QldhN2R0MkE0ZHVjRUpTMTJXT2tpcE9DX21Eem05VlZPZXI0b3EzYUNHS3NMcU9HYmhUUXF1cWdxd2JNQ1dEVzdjaklCdG9SSkt6Z2ZCSVhrZzhuSWRGQnJncy01NDZJalplWXBESHlES01hWWNBa1I4QmVSYURZbldhR0tNQ1JJRUNYZ19WMlEySmtVbDJ1VkhESW56eGY5c3Nma2ZMbEt1c1k0Zm9XUmpVYXZDbHY5OXdGeHFQdzEtcnRrSjNfbmVtOTViUl8wVDJDUQ?oc=5)
+來源：[3DJuegos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSEQ5TGxFT3BCT1BYMFBPUnNUT1h5cEhPQWpiOHRnVVRDQ2FRSDd6bU9GeGkxS0NzZVJGWDRZWlZZenBWVkdEaHZOWlIwTGMtYzYtSm94b0FYRERVMzdVSm1FR0xBX3RCeDkzM2ZSV3RwUUFpQ3RJQndmdkdrcVRCQ200MlRtN1phcDVQNmZ4Y3ZySmpPOHhvRkJVR1p6UXN4cE9SSkQ2YTZJM1hkTVlISW5YZ25HZ1JHNmNYRldHamhNQXFmZDdHMG1obUVJNmxpdUFUTERzWHlremdsVEZrN2puam9URHFSb0lSbGYwOUhvY29H0gH6AUFVX3lxTFBGTm42UTc4N2NsUEtBbWw0MExhOEFicmJ5RXJnSm9wdk9EY0Zic0xlaDdhQU9LVFFDM1VrRldOSWc4dFhJUTNTbmUwS3ZScTZURzNBOFNxSFhrZjZveUxLcm5odGJyZGhLcTdGQVYwSVZYLWJ4anVnSXNDSWtidHUxNjZqNFJ6RUR1REV5cE5NMXVLTWVVNVR5S0JVN3ZYZEs1ZHV6enp5Y1A4SzhDbFJkT2NLRkJuM3dVY3VzNC1EbzJjZHIwOC10dHpLaklGN1E4Q0lmNFhHd3ZkUERoMVFVbnBubTdyc01EWkdoQVR4TUhRUXgwai1UeFE?oc=5)
 
 ---
 
-### [Gesundheit: Dieses unterschätzte Organ könnte erklären, warum wir unterschiedlich altern](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQTFTT2FNV0tIbDhQMGlOTTdaYUFJMThBN1c5czZRYTRWTnAyNWNEVnRrUGJtTXpvZ3pPTS13T184Yi1La25BdFFjVzNYdkpiczNUUU1IaGJtbU03QVBiVWZITW85cDFORVNOcEdVYVgwRmstVGx4VWw4REl5MUJyZEs5VGZ5aElLOTVrQUgya1dGYjhjSWV6SUtFbFZMRDBSbmV1QUdOTm5IVHIxRlczN1lKWTNNcVpIMk9FTHBqS3dCVFp2dGNLV1UyQmQ0VnhwUENHd2RtWWdpc0ttMElxRERRNW1yajFFaGNmemFn?oc=5)
+### [Fernsteuerung des Gehirns: Neue Erkenntnisse zur Umkehrung von Gedächtnisverlust - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOWZZU0l5dmJSdUFjUFJ5UmdYd05tNFdRcy16U3lIWmV2Ri1pVzZtMWlNN0ZrMWttSGRvTFZSc3loUUpzTGRzV25KcXltLWxibll1TTR6UGIxYWh1M1g3OHIyVWxYUUxaM2hRcUU4dTBIWFlLZG43ZHU2R3ZTMmxscWt6UmlXMlAzWG51N2Q2d0hwY1hMQUtiUUFDM19QSmQ3N2JhbmVmYm1CeWxJTS1TZkNB?oc=5)
 
-2026-03-28 <span class="news-indication-tag">Krebs</span>
+2026-03-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQTFTT2FNV0tIbDhQMGlOTTdaYUFJMThBN1c5czZRYTRWTnAyNWNEVnRrUGJtTXpvZ3pPTS13T184Yi1La25BdFFjVzNYdkpiczNUUU1IaGJtbU03QVBiVWZITW85cDFORVNOcEdVYVgwRmstVGx4VWw4REl5MUJyZEs5VGZ5aElLOTVrQUgya1dGYjhjSWV6SUtFbFZMRDBSbmV1QUdOTm5IVHIxRlczN1lKWTNNcVpIMk9FTHBqS3dCVFp2dGNLV1UyQmQ0VnhwUENHd2RtWWdpc0ttMElxRERRNW1yajFFaGNmemFn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOWZZU0l5dmJSdUFjUFJ5UmdYd05tNFdRcy16U3lIWmV2Ri1pVzZtMWlNN0ZrMWttSGRvTFZSc3loUUpzTGRzV25KcXltLWxibll1TTR6UGIxYWh1M1g3OHIyVWxYUUxaM2hRcUU4dTBIWFlLZG43ZHU2R3ZTMmxscWt6UmlXMlAzWG51N2Q2d0hwY1hMQUtiUUFDM19QSmQ3N2JhbmVmYm1CeWxJTS1TZkNB?oc=5)
 
 ---
 
@@ -124,11 +132,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Pierre Fabre destaca la importancia del cribado y los test moleculares en la detección precoz y el tratamiento personalizado del cáncer colorrectal - Revista Pharma Market](https://news.google.com/rss/articles/CBMigAJBVV95cUxPWjR6cTJnc2NWbC1lNElmR3JQaktHRGpuMElkWHoyVnM5ektmd0c5Y041TkhZNEhPX1NhVVJ5bnVscGJudk9HOE9iXzktLVFWd200cGtjZDdzdTkzV01XeUZ2bFFreWtNSzVyUEVVcC1fMVpxVndQUTJTYUp3bG0wWWF6cXFPWEJNQmdoNWhod1JVVUdIbjA2bXlWdmg3WGZ3UWJkV0xnNzBnV2FzaFk3Zl9IMDZZbkRmNzBnVl9kWkJiTFpKbjJSdWQxYUxORUpJS1hra3VDeGlyYVR0QmRra3FCTndMaDZXaXg2dFFMYVVFU20zNDJ0a1hjT0xTb3lE?oc=5)
+### [Pierre Fabre destaca la importancia del cribado y los test moleculares en la detección precoz y el tratamiento personalizado del cáncer colorrectal](https://news.google.com/rss/articles/CBMigAJBVV95cUxPWjR6cTJnc2NWbC1lNElmR3JQaktHRGpuMElkWHoyVnM5ektmd0c5Y041TkhZNEhPX1NhVVJ5bnVscGJudk9HOE9iXzktLVFWd200cGtjZDdzdTkzV01XeUZ2bFFreWtNSzVyUEVVcC1fMVpxVndQUTJTYUp3bG0wWWF6cXFPWEJNQmdoNWhod1JVVUdIbjA2bXlWdmg3WGZ3UWJkV0xnNzBnV2FzaFk3Zl9IMDZZbkRmNzBnVl9kWkJiTFpKbjJSdWQxYUxORUpJS1hra3VDeGlyYVR0QmRra3FCTndMaDZXaXg2dFFMYVVFU20zNDJ0a1hjT0xTb3lE?oc=5)
 
 2026-03-28 <span class="news-indication-tag">tumor</span>
 
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMigAJBVV95cUxPWjR6cTJnc2NWbC1lNElmR3JQaktHRGpuMElkWHoyVnM5ektmd0c5Y041TkhZNEhPX1NhVVJ5bnVscGJudk9HOE9iXzktLVFWd200cGtjZDdzdTkzV01XeUZ2bFFreWtNSzVyUEVVcC1fMVpxVndQUTJTYUp3bG0wWWF6cXFPWEJNQmdoNWhod1JVVUdIbjA2bXlWdmg3WGZ3UWJkV0xnNzBnV2FzaFk3Zl9IMDZZbkRmNzBnVl9kWkJiTFpKbjJSdWQxYUxORUpJS1hra3VDeGlyYVR0QmRra3FCTndMaDZXaXg2dFFMYVVFU20zNDJ0a1hjT0xTb3lE?oc=5)
+來源：[phmk.es](https://news.google.com/rss/articles/CBMigAJBVV95cUxPWjR6cTJnc2NWbC1lNElmR3JQaktHRGpuMElkWHoyVnM5ektmd0c5Y041TkhZNEhPX1NhVVJ5bnVscGJudk9HOE9iXzktLVFWd200cGtjZDdzdTkzV01XeUZ2bFFreWtNSzVyUEVVcC1fMVpxVndQUTJTYUp3bG0wWWF6cXFPWEJNQmdoNWhod1JVVUdIbjA2bXlWdmg3WGZ3UWJkV0xnNzBnV2FzaFk3Zl9IMDZZbkRmNzBnVl9kWkJiTFpKbjJSdWQxYUxORUpJS1hra3VDeGlyYVR0QmRra3FCTndMaDZXaXg2dFFMYVVFU20zNDJ0a1hjT0xTb3lE?oc=5)
 
 ---
 
@@ -137,14 +145,6 @@ permalink: /news/fingolimod/
 2026-03-28 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xUmdHRUI1eTRsb0JFOFl2ejVCYkV0UVJwUWFxOWtIZHdkUjF4My1Kc1oweVBVOWMxMEZZdjRiNnBPRURnbThrc0RxTWVpZHJQMnhaQmZTTTRRc2pq?oc=5)
-
----
-
-### [Décès d'Isabelle Mergault d'un cancer du poumon métastasé : quels symptômes ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
-
-2026-03-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">hépatite</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
 
 ---
 
@@ -164,11 +164,19 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Eye drops made from pig semen deliver cancer treatment to mice](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xWnhZbmpMRU5wQ3EwTURPRGxZZDYtZTdMbUs1ZTVxcUpmdWstX2U3Z21FaUFtbG1weF9fckxCeU84SmFtWmRhdU9IZmljUDA1cFlRcHZpWi1xTXAxSC13?oc=5)
+### ['Brain Ripples’: The 20-Minute Cycling Habit That Literally Rewires How You Store Memories - HuffPost UK](https://news.google.com/rss/articles/CBMikwFBVV95cUxQczc0LXNGVmd0UjEta0JMVXVkZGNrSFpDb2h6RUp3amRrYVVYa08ycHFDVVBXZ3VHd0d4SEk2aEE5ZndLX2RnTmhfZWJfb3ppb2I3LTdaRW9ZYWhuQVRUaVo3NlNzUW5KQmU3XzJnMTFxTVAtdlFfY1gzYS1LWlk2OWlOdjN6cVRQSElpY0psRGlGdWPSAZoBQVVfeXFMT3I5cTJ5SWhqQi1DdXVPSnk1TTBsZG5Fc0hGaGdydHVlMkxlbkNrQzBnY21PZWhWT1hjQ1BhOFBkTjJNRkF6RVd5MGJGdkFQeXhDR24wN0IzZW9NVGxrWVF2dVNUOWdiU2hxSDNVaXprRHJHb3dRUGYwQ2R2b2hDQU5vNm9ZcEw3RUROQTU1dHEyVzZaNVVKRUdmZw?oc=5)
 
-2026-03-28 <span class="news-indication-tag">cancer</span>
+2026-03-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xWnhZbmpMRU5wQ3EwTURPRGxZZDYtZTdMbUs1ZTVxcUpmdWstX2U3Z21FaUFtbG1weF9fckxCeU84SmFtWmRhdU9IZmljUDA1cFlRcHZpWi1xTXAxSC13?oc=5)
+來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikwFBVV95cUxQczc0LXNGVmd0UjEta0JMVXVkZGNrSFpDb2h6RUp3amRrYVVYa08ycHFDVVBXZ3VHd0d4SEk2aEE5ZndLX2RnTmhfZWJfb3ppb2I3LTdaRW9ZYWhuQVRUaVo3NlNzUW5KQmU3XzJnMTFxTVAtdlFfY1gzYS1LWlk2OWlOdjN6cVRQSElpY0psRGlGdWPSAZoBQVVfeXFMT3I5cTJ5SWhqQi1DdXVPSnk1TTBsZG5Fc0hGaGdydHVlMkxlbkNrQzBnY21PZWhWT1hjQ1BhOFBkTjJNRkF6RVd5MGJGdkFQeXhDR24wN0IzZW9NVGxrWVF2dVNUOWdiU2hxSDNVaXprRHJHb3dRUGYwQ2R2b2hDQU5vNm9ZcEw3RUROQTU1dHEyVzZaNVVKRUdmZw?oc=5)
+
+---
+
+### [West Derby mum woke up from her coma and the first thing she heard was 'you're going to lose your legs' - Liverpool Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDc3VkJrQUZXOV9tVFQwdGxpdVZrSDB1OU0tNWV2WnFBcjVwSFVxRExTTU13RXBJRGZ6M0VIbVM2Rkk5VFdRaDIxLUdxYnBXTTJFZHl2MXpBcEFGWHN2cGlKRG11dDNmNG5PSHZrOU5qb2g3bjdiOUF4enRSb2hrWXlRTEFPcVJ6OXBB0gGQAUFVX3lxTE02X2dEQkREMDFxNkxaQmo4VmtsUXMtbW1qem9rY21qVVU4dTZnYkFhQlFnWkk0YTR2X1BKQUhsTXlHS2tGclBac29NdWxfQTVZQlotLWd2RkZsenU1Nm1GeEJaTWZ5cW1oWU1jMzQyaEIwblJTVlhick1OeEdUNGJCTFZLNW9YdUtuV1VYdk9zWA?oc=5)
+
+2026-03-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDc3VkJrQUZXOV9tVFQwdGxpdVZrSDB1OU0tNWV2WnFBcjVwSFVxRExTTU13RXBJRGZ6M0VIbVM2Rkk5VFdRaDIxLUdxYnBXTTJFZHl2MXpBcEFGWHN2cGlKRG11dDNmNG5PSHZrOU5qb2g3bjdiOUF4enRSb2hrWXlRTEFPcVJ6OXBB0gGQAUFVX3lxTE02X2dEQkREMDFxNkxaQmo4VmtsUXMtbW1qem9rY21qVVU4dTZnYkFhQlFnWkk0YTR2X1BKQUhsTXlHS2tGclBac29NdWxfQTVZQlotLWd2RkZsenU1Nm1GeEJaTWZ5cW1oWU1jMzQyaEIwblJTVlhick1OeEdUNGJCTFZLNW9YdUtuV1VYdk9zWA?oc=5)
 
 ---
 
@@ -180,19 +188,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Ces 3 aliments du quotidien feraient exploser le risque de cancer, et vous en mangez sûrement chaque semaine - Biba Magazine](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX25oYmZtLWZpLUJsaW8wekRyQ24ySWlDdWdpNnpPOGctSU01Sk1XTGVrZ1V4QVl5anBNdmp5X29TVnYwcnNQSTY3SE1qU3lsU2pKdmlVcTFNbzhNNWNxWnJ1eWRWTW5JUEIyeGQ3aHVHNWp0RlZ4WjdYZUZybEp3UVE5QjE2WFVXcTByMDhNQVoySGtoT2hoQlFRNGF6U1N6ajB5WEdEcXFIY1RyWF9JamFseV8yckF4WnB4NlNzaGJXbGZQRktlWUFweFBqY1p5ZG9qcFczeGtrQmdCLUc1azJvWHdhLTQwVWY4aTlYem9IaFQwOFE?oc=5)
-
-2026-03-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Biba Magazine](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX25oYmZtLWZpLUJsaW8wekRyQ24ySWlDdWdpNnpPOGctSU01Sk1XTGVrZ1V4QVl5anBNdmp5X29TVnYwcnNQSTY3SE1qU3lsU2pKdmlVcTFNbzhNNWNxWnJ1eWRWTW5JUEIyeGQ3aHVHNWp0RlZ4WjdYZUZybEp3UVE5QjE2WFVXcTByMDhNQVoySGtoT2hoQlFRNGF6U1N6ajB5WEdEcXFIY1RyWF9JamFseV8yckF4WnB4NlNzaGJXbGZQRktlWUFweFBqY1p5ZG9qcFczeGtrQmdCLUc1azJvWHdhLTQwVWY4aTlYem9IaFQwOFE?oc=5)
-
----
-
-### [La vignetta del giorno - 27 marzo 2026](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
+### [La vignetta del giorno - 27 marzo 2026 - Torino Cronaca](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
 
 2026-03-27 <span class="news-indication-tag">MS</span>
 
-來源：[torinocronaca.it](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
+來源：[Torino Cronaca](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
 
 ---
 
@@ -204,11 +204,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Alzheimer-Forschung zwischen Durchbruch und Geldmangel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+### [What you should know about the new COVID-19 ‘Cicada’ variant - Northeastern Global News](https://news.google.com/rss/articles/CBMieEFVX3lxTE91OUlPRGozQW05TEpBT2tZdTNfRG9tNGU1MnNtbEd5WXNQOTM5bnJrVnBDUVpYQU1vWDFSU09UbGxpTW1LYUp2MjctV3FvNVNFMk04THZxZVVUakdmLVAyeTZFNURfYkZLQlBlTjhFRHR4dXBHRjVXbQ?oc=5)
 
-2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-27 <span class="news-indication-tag">MS</span>
 
-來源：[GrenzEcho](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+來源：[Northeastern Global News](https://news.google.com/rss/articles/CBMieEFVX3lxTE91OUlPRGozQW05TEpBT2tZdTNfRG9tNGU1MnNtbEd5WXNQOTM5bnJrVnBDUVpYQU1vWDFSU09UbGxpTW1LYUp2MjctV3FvNVNFMk04THZxZVVUakdmLVAyeTZFNURfYkZLQlBlTjhFRHR4dXBHRjVXbQ?oc=5)
 
 ---
 
@@ -252,6 +252,14 @@ permalink: /news/fingolimod/
 
 ---
 
+### [¿Dormir 8 horas es una regla universal para la salud? Qué dicen los expertos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJ6eUFXRGhYamFhX3p6V1JkNklvWUJPMk00UU4xOEZWanZNYnVqWFBqdDBhNWJlU2JfZzhVZG1XZmlvRkpzYUY1dFdvdE1mQXZIUHpfZy1abm44TVdJZkJ6TDR2cXpBbVc0cWtZV0NkUDNjSk5vcXFuYWJfWlE4OWRZWVFpb3JCbnItMC1IbHJKNHZTcXAyb1ZuczZBTzhsR1hSSElmRk4xNHp3VE9MbG1CaWNvWDRrY3Byc0oxWHdMUdIB3AFBVV95cUxNSEtjYkdPbEFud056X1NSeHRBMVpMUVZ2RDVEckFHOHhadVQ4SjllMnZKRmFodEpEUGxOcFFxdDhpVkpYaE93ZlhfRVQwWFVNSWlOckE0VHZJQUx1MUV1T1FuaW8wd1VKd3NsQnNsRnlESUYteVdmVG9nM1FnZUlXZHd5blVqNWhhbXFkV2xxV3A1dG1yME54SXVuR1JJVGtnWTlXdDRTUkZET0o2T0xLaU9rWnh1MWJYSVRlbEkxNWg1eTJfRkg1S3pCMGRzbEE3QXo1am5aTWg4dmpH?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJ6eUFXRGhYamFhX3p6V1JkNklvWUJPMk00UU4xOEZWanZNYnVqWFBqdDBhNWJlU2JfZzhVZG1XZmlvRkpzYUY1dFdvdE1mQXZIUHpfZy1abm44TVdJZkJ6TDR2cXpBbVc0cWtZV0NkUDNjSk5vcXFuYWJfWlE4OWRZWVFpb3JCbnItMC1IbHJKNHZTcXAyb1ZuczZBTzhsR1hSSElmRk4xNHp3VE9MbG1CaWNvWDRrY3Byc0oxWHdMUdIB3AFBVV95cUxNSEtjYkdPbEFud056X1NSeHRBMVpMUVZ2RDVEckFHOHhadVQ4SjllMnZKRmFodEpEUGxOcFFxdDhpVkpYaE93ZlhfRVQwWFVNSWlOckE0VHZJQUx1MUV1T1FuaW8wd1VKd3NsQnNsRnlESUYteVdmVG9nM1FnZUlXZHd5blVqNWhhbXFkV2xxV3A1dG1yME54SXVuR1JJVGtnWTlXdDRTUkZET0o2T0xLaU9rWnh1MWJYSVRlbEkxNWg1eTJfRkg1S3pCMGRzbEE3QXo1am5aTWg4dmpH?oc=5)
+
+---
+
 ### [La OMS alerta del riesgo de transmisión comunitaria de mpox a menos que se contengan rápidamente los brotes existentes](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMHB0X2JnbEpUV1JoeU9nMmlRTHExOXdMeVpBVENpNDdfSUpUOUZzM1otWnoxT3RVZ0VjY3pHMnFyS0FZbExNR0lELXhTRC1zY3JuZU9mYmhQTy1OQ3F6blp5VWxHYmt3Mm5jWHVzZ1drREEtYVFzZjh1WEQ2WEF2S2hnVHdrMWdDN3h5OFNubVNqbWhoQUljWTRDM21Ed2k3WTY5UjZidWMwSmpzTjNFN01mRGt2cS00b1ZpZlNuejA0ZFQ1aHMwdVcxamlUOVd5S2VaYmtfSUs2NC1NNmpqS0dWbHBDVmdMQXBRWjdn?oc=5)
 
 2026-03-27 <span class="news-indication-tag">MS</span>
@@ -276,27 +284,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B?oc=5)
-
-2026-03-26 <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B?oc=5)
-
----
-
-### [Reflusso e prevenzione oncologica: la rivoluzione del nuovo Centro Esofago e Reflusso al San Donato - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2J3d1FTZVc1X1FSdkJhZ0dRVHR4SWo4UzR4cWtBSzdLZlRWOVZBYld2aFd5YWVxS2Ixc2t3S3NkRm5PTXBCQjJsRVVMdmZEUVlXbWdYS0pYRDkwLVdGMm1jTjVpRVNROVNxOWc3QXlwVW9abnh0VHROOE5FYXo2VXN5N3Y1QXBfeG1HV1Q0cjl4QmZiNWRqUzY5c1FzR3pUSjdsaml5S2RIT3JxMG1F0gG0AUFVX3lxTFBuSVpobDk3Ry1JdlF2bk5KVnFQUFM4X29tYldfR0ZxLXJhUkJURkRfa0tsb3lHN1BMRmdfc0ZmQ1lXbXNBYnk5M3dybmg3Rjl0VERkcGxPenlKRmdGRGlwa2UzSm5WbnNLWFQ4RDc3c0xja2pIRTkwRFVGOWxlaklvZG5JWE15blBpYVFDWFJ5NnFKYzVmUTF1dFhuRU85MGZUOTQ2SWlJYjJUQ1pGSHpMYmN4Ng?oc=5)
+### [Revelan el potencial antitumoral de un compuesto natural frente al cáncer de mama triple negativo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdE1uMUhLbExGN0tfQkY1ZnZOOFZOV1ZUamFDV01oZDBGS2Zycm1JY0M4cFhId25OSGRtbWhSSWFtZGhfQnNLdGg4OEFqOWtWZldmMWVKNDdUcFVfV1NDaG5taHpuNmpBbmFMN1JjM2ZZREFJVkRPYk5jR1lvNXpUdmRjWmVkTUZsZ0Q4UE9MOTM0NW5RZUdSM2gySTdVXy1IUUEzUzdTNnM3aGxjUnBUS2VHUGowbXdJdXU4UW81ZnYweTFBR0tWMWVFSGl2Yk9Od1h0VVZfdEF6Wm5YcDFYX3BmcmFLaHQ2?oc=5)
 
 2026-03-26 <span class="news-indication-tag">tumor</span>
 
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2J3d1FTZVc1X1FSdkJhZ0dRVHR4SWo4UzR4cWtBSzdLZlRWOVZBYld2aFd5YWVxS2Ixc2t3S3NkRm5PTXBCQjJsRVVMdmZEUVlXbWdYS0pYRDkwLVdGMm1jTjVpRVNROVNxOWc3QXlwVW9abnh0VHROOE5FYXo2VXN5N3Y1QXBfeG1HV1Q0cjl4QmZiNWRqUzY5c1FzR3pUSjdsaml5S2RIT3JxMG1F0gG0AUFVX3lxTFBuSVpobDk3Ry1JdlF2bk5KVnFQUFM4X29tYldfR0ZxLXJhUkJURkRfa0tsb3lHN1BMRmdfc0ZmQ1lXbXNBYnk5M3dybmg3Rjl0VERkcGxPenlKRmdGRGlwa2UzSm5WbnNLWFQ4RDc3c0xja2pIRTkwRFVGOWxlaklvZG5JWE15blBpYVFDWFJ5NnFKYzVmUTF1dFhuRU85MGZUOTQ2SWlJYjJUQ1pGSHpMYmN4Ng?oc=5)
-
----
-
-### [Microbiota intestinale: cos’è e perché è così importante - Giornale di Brescia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmdYSEJvYjJYRFljQlBacld0Mm8weDVFbWZNaG5oTHIzcjhXZ3E4aklERHlnWUVMMWRWSlVjMVUtYWgtSUk3TVlQSGZqTGZkXy1oQ2U2V2EyOFlJZF9yVjNfR1ZSLThGQlJTSDJWUWxUR1RSdzJRSzhxc0Y1WVNhRkd2ekdUVjhrLUFzc2E1NWFVYThjVmdCeUZONGtfNmRJVE1kQjE3aXg3Rko1VEtSVnFZMA?oc=5)
-
-2026-03-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmdYSEJvYjJYRFljQlBacld0Mm8weDVFbWZNaG5oTHIzcjhXZ3E4aklERHlnWUVMMWRWSlVjMVUtYWgtSUk3TVlQSGZqTGZkXy1oQ2U2V2EyOFlJZF9yVjNfR1ZSLThGQlJTSDJWUWxUR1RSdzJRSzhxc0Y1WVNhRkd2ekdUVjhrLUFzc2E1NWFVYThjVmdCeUZONGtfNmRJVE1kQjE3aXg3Rko1VEtSVnFZMA?oc=5)
+來源：[uma.es](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdE1uMUhLbExGN0tfQkY1ZnZOOFZOV1ZUamFDV01oZDBGS2Zycm1JY0M4cFhId25OSGRtbWhSSWFtZGhfQnNLdGg4OEFqOWtWZldmMWVKNDdUcFVfV1NDaG5taHpuNmpBbmFMN1JjM2ZZREFJVkRPYk5jR1lvNXpUdmRjWmVkTUZsZ0Q4UE9MOTM0NW5RZUdSM2gySTdVXy1IUUEzUzdTNnM3aGxjUnBUS2VHUGowbXdJdXU4UW81ZnYweTFBR0tWMWVFSGl2Yk9Od1h0VVZfdEF6Wm5YcDFYX3BmcmFLaHQ2?oc=5)
 
 ---
 
@@ -305,6 +297,22 @@ permalink: /news/fingolimod/
 2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+
+---
+
+### [Casi el 46% de las comunidades no tiene infraestructura o personal para realizar el cribado de cáncer de colon 'de manera efectiva' - La Opinión de Málaga](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX25hUE9kT19uVnpobWdPU21jNzRtN2dyZWdIdUVJbGNHVVdYaDZ0NWhUUzBwbWZxaldpaUtRZGZkTTg1Q2J2VFhLeXhGa0dncnZ2N3VkRnN0T0xiRHh4bGtkbWwzZklQaUJrZjc5djI3ZEJLQ3ZsMndwSE91Sm9vZGtPLVotU19DaUFEMHBEVnhKRXNGMUV4X1BpeWxTcGttclB1NFEzNndnMzdfT2wxVGZpSEJMa2JudDdkeUdQQ1JwMnhnQ1BaalZqVGpMd2p4dkFpX3c1bGpiNlZwMVhKUlVCdlI?oc=5)
+
+2026-03-25 <span class="news-indication-tag">tumor</span>
+
+來源：[La Opinión de Málaga](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX25hUE9kT19uVnpobWdPU21jNzRtN2dyZWdIdUVJbGNHVVdYaDZ0NWhUUzBwbWZxaldpaUtRZGZkTTg1Q2J2VFhLeXhGa0dncnZ2N3VkRnN0T0xiRHh4bGtkbWwzZklQaUJrZjc5djI3ZEJLQ3ZsMndwSE91Sm9vZGtPLVotU19DaUFEMHBEVnhKRXNGMUV4X1BpeWxTcGttclB1NFEzNndnMzdfT2wxVGZpSEJMa2JudDdkeUdQQ1JwMnhnQ1BaalZqVGpMd2p4dkFpX3c1bGpiNlZwMVhKUlVCdlI?oc=5)
+
+---
+
+### [SEMERGEN presenta una guía para abordar la obesidad en pacientes con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
 
 ---
 

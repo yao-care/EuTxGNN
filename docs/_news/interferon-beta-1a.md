@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（15 則）
 
-### [Boston Scientific's CHAMPION-AF Trial Confirms WATCHMAN FLX Effectiveness In Stroke Risk Reduction](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWMzUU9CS09ZZ3MybkwyTHRnWUU0c09sOHVJLXA3aFNybVl1T0k0ZlVjWHdmSmV6ZFNEbUtaXzhIQWctOGlaYzFaeU9yWTV4dFFQcGRrNG9WMmI0YWhKdVB4azBJSTk1WWNfaW9YUXpIR2pYb3dYT0pqcHZ4WUtjR2hqRDR6X09yak1mQUhyN0RpcXR3ZENSQmpfQ3R6dWpoRk02M013eDZfWjVkNFBweU9iTDZzSVJUcF82NmtPa0I4bUx6WTNtQU1hdlgwbTBOazJpTDdkTzZnWm12bnRtb0lJWlpuTC1JLVkza0lXUHRMbXdNNDJ3T3dXeks?oc=5)
+### [Tipp: Schlüsselrolle Vitamin D - Gesund ins Frühjahr starten und Speicher auffüllen - Lebensmittel enthalten nur wenig Vitamin D - Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2ROWWdVODhYSVFWMW5rc3lPT0pZV25YMFpEaEgzajFBVlJUU3JmelFlR1pOcnlVQWh2SlliaHlhSmQ3MVIzczRVTGNHeWJ2X2ZWOHZyalkwY0U4MExJdkRTVzFaTHpJQlBCbHY5T2VCYVVrUDFLRldpWm5kVEM1NV9DbXRvakw3bXNuRTF0R2EyYzZ6VlhTN2kzcmlwWXQ3UkRuX2xVVVhPdWlFdGxUOUJKVVVaWTVYVEJDdlRORTNadV9sSDdSSmMzTURya0lJX3FnbExONlZ6UGFITEgybXRwWkhPc3FYS3ZCTDRicDJ5V0lxLUZkdC1GQQ?oc=5)
 
-2026-03-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-29 <span class="news-indication-tag">MS</span>
 
-來源：[finanznachrichten.de](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWMzUU9CS09ZZ3MybkwyTHRnWUU0c09sOHVJLXA3aFNybVl1T0k0ZlVjWHdmSmV6ZFNEbUtaXzhIQWctOGlaYzFaeU9yWTV4dFFQcGRrNG9WMmI0YWhKdVB4azBJSTk1WWNfaW9YUXpIR2pYb3dYT0pqcHZ4WUtjR2hqRDR6X09yak1mQUhyN0RpcXR3ZENSQmpfQ3R6dWpoRk02M013eDZfWjVkNFBweU9iTDZzSVJUcF82NmtPa0I4bUx6WTNtQU1hdlgwbTBOazJpTDdkTzZnWm12bnRtb0lJWlpuTC1JLVkza0lXUHRMbXdNNDJ3T3dXeks?oc=5)
+來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2ROWWdVODhYSVFWMW5rc3lPT0pZV25YMFpEaEgzajFBVlJUU3JmelFlR1pOcnlVQWh2SlliaHlhSmQ3MVIzczRVTGNHeWJ2X2ZWOHZyalkwY0U4MExJdkRTVzFaTHpJQlBCbHY5T2VCYVVrUDFLRldpWm5kVEM1NV9DbXRvakw3bXNuRTF0R2EyYzZ6VlhTN2kzcmlwWXQ3UkRuX2xVVVhPdWlFdGxUOUJKVVVaWTVYVEJDdlRORTNadV9sSDdSSmMzTURya0lJX3FnbExONlZ6UGFITEgybXRwWkhPc3FYS3ZCTDRicDJ5V0lxLUZkdC1GQQ?oc=5)
 
 ---
 
-### [Esclerosis múltiple y supervivencia a gran altitud: la mutación genética que puede cambiar el pronóstico de la enfermedad](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWdQNGN2QldhN2R0MkE0ZHVjRUpTMTJXT2tpcE9DX21Eem05VlZPZXI0b3EzYUNHS3NMcU9HYmhUUXF1cWdxd2JNQ1dEVzdjaklCdG9SSkt6Z2ZCSVhrZzhuSWRGQnJncy01NDZJalplWXBESHlES01hWWNBa1I4QmVSYURZbldhR0tNQ1JJRUNYZ19WMlEySmtVbDJ1VkhESW56eGY5c3Nma2ZMbEt1c1k0Zm9XUmpVYXZDbHY5OXdGeHFQdzEtcnRrSjNfbmVtOTViUl8wVDJDUQ?oc=5)
+### [Esto es lo que le pasa a tu cerebro cuando decides que quedarte despierto hasta las 5 de la mañana jugando a Crimson Desert es una buena idea](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSEQ5TGxFT3BCT1BYMFBPUnNUT1h5cEhPQWpiOHRnVVRDQ2FRSDd6bU9GeGkxS0NzZVJGWDRZWlZZenBWVkdEaHZOWlIwTGMtYzYtSm94b0FYRERVMzdVSm1FR0xBX3RCeDkzM2ZSV3RwUUFpQ3RJQndmdkdrcVRCQ200MlRtN1phcDVQNmZ4Y3ZySmpPOHhvRkJVR1p6UXN4cE9SSkQ2YTZJM1hkTVlISW5YZ25HZ1JHNmNYRldHamhNQXFmZDdHMG1obUVJNmxpdUFUTERzWHlremdsVEZrN2puam9URHFSb0lSbGYwOUhvY29H0gH6AUFVX3lxTFBGTm42UTc4N2NsUEtBbWw0MExhOEFicmJ5RXJnSm9wdk9EY0Zic0xlaDdhQU9LVFFDM1VrRldOSWc4dFhJUTNTbmUwS3ZScTZURzNBOFNxSFhrZjZveUxLcm5odGJyZGhLcTdGQVYwSVZYLWJ4anVnSXNDSWtidHUxNjZqNFJ6RUR1REV5cE5NMXVLTWVVNVR5S0JVN3ZYZEs1ZHV6enp5Y1A4SzhDbFJkT2NLRkJuM3dVY3VzNC1EbzJjZHIwOC10dHpLaklGN1E4Q0lmNFhHd3ZkUERoMVFVbnBubTdyc01EWkdoQVR4TUhRUXgwai1UeFE?oc=5)
 
-2026-03-28 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-03-28 <span class="news-indication-tag">MS</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWdQNGN2QldhN2R0MkE0ZHVjRUpTMTJXT2tpcE9DX21Eem05VlZPZXI0b3EzYUNHS3NMcU9HYmhUUXF1cWdxd2JNQ1dEVzdjaklCdG9SSkt6Z2ZCSVhrZzhuSWRGQnJncy01NDZJalplWXBESHlES01hWWNBa1I4QmVSYURZbldhR0tNQ1JJRUNYZ19WMlEySmtVbDJ1VkhESW56eGY5c3Nma2ZMbEt1c1k0Zm9XUmpVYXZDbHY5OXdGeHFQdzEtcnRrSjNfbmVtOTViUl8wVDJDUQ?oc=5)
+來源：[3DJuegos](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSEQ5TGxFT3BCT1BYMFBPUnNUT1h5cEhPQWpiOHRnVVRDQ2FRSDd6bU9GeGkxS0NzZVJGWDRZWlZZenBWVkdEaHZOWlIwTGMtYzYtSm94b0FYRERVMzdVSm1FR0xBX3RCeDkzM2ZSV3RwUUFpQ3RJQndmdkdrcVRCQ200MlRtN1phcDVQNmZ4Y3ZySmpPOHhvRkJVR1p6UXN4cE9SSkQ2YTZJM1hkTVlISW5YZ25HZ1JHNmNYRldHamhNQXFmZDdHMG1obUVJNmxpdUFUTERzWHlremdsVEZrN2puam9URHFSb0lSbGYwOUhvY29H0gH6AUFVX3lxTFBGTm42UTc4N2NsUEtBbWw0MExhOEFicmJ5RXJnSm9wdk9EY0Zic0xlaDdhQU9LVFFDM1VrRldOSWc4dFhJUTNTbmUwS3ZScTZURzNBOFNxSFhrZjZveUxLcm5odGJyZGhLcTdGQVYwSVZYLWJ4anVnSXNDSWtidHUxNjZqNFJ6RUR1REV5cE5NMXVLTWVVNVR5S0JVN3ZYZEs1ZHV6enp5Y1A4SzhDbFJkT2NLRkJuM3dVY3VzNC1EbzJjZHIwOC10dHpLaklGN1E4Q0lmNFhHd3ZkUERoMVFVbnBubTdyc01EWkdoQVR4TUhRUXgwai1UeFE?oc=5)
+
+---
+
+### [Fernsteuerung des Gehirns: Neue Erkenntnisse zur Umkehrung von Gedächtnisverlust - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOWZZU0l5dmJSdUFjUFJ5UmdYd05tNFdRcy16U3lIWmV2Ri1pVzZtMWlNN0ZrMWttSGRvTFZSc3loUUpzTGRzV25KcXltLWxibll1TTR6UGIxYWh1M1g3OHIyVWxYUUxaM2hRcUU4dTBIWFlLZG43ZHU2R3ZTMmxscWt6UmlXMlAzWG51N2Q2d0hwY1hMQUtiUUFDM19QSmQ3N2JhbmVmYm1CeWxJTS1TZkNB?oc=5)
+
+2026-03-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOWZZU0l5dmJSdUFjUFJ5UmdYd05tNFdRcy16U3lIWmV2Ri1pVzZtMWlNN0ZrMWttSGRvTFZSc3loUUpzTGRzV25KcXltLWxibll1TTR6UGIxYWh1M1g3OHIyVWxYUUxaM2hRcUU4dTBIWFlLZG43ZHU2R3ZTMmxscWt6UmlXMlAzWG51N2Q2d0hwY1hMQUtiUUFDM19QSmQ3N2JhbmVmYm1CeWxJTS1TZkNB?oc=5)
 
 ---
 
@@ -68,11 +76,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [La vignetta del giorno - 27 marzo 2026](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
+### ['Brain Ripples’: The 20-Minute Cycling Habit That Literally Rewires How You Store Memories - HuffPost UK](https://news.google.com/rss/articles/CBMikwFBVV95cUxQczc0LXNGVmd0UjEta0JMVXVkZGNrSFpDb2h6RUp3amRrYVVYa08ycHFDVVBXZ3VHd0d4SEk2aEE5ZndLX2RnTmhfZWJfb3ppb2I3LTdaRW9ZYWhuQVRUaVo3NlNzUW5KQmU3XzJnMTFxTVAtdlFfY1gzYS1LWlk2OWlOdjN6cVRQSElpY0psRGlGdWPSAZoBQVVfeXFMT3I5cTJ5SWhqQi1DdXVPSnk1TTBsZG5Fc0hGaGdydHVlMkxlbkNrQzBnY21PZWhWT1hjQ1BhOFBkTjJNRkF6RVd5MGJGdkFQeXhDR24wN0IzZW9NVGxrWVF2dVNUOWdiU2hxSDNVaXprRHJHb3dRUGYwQ2R2b2hDQU5vNm9ZcEw3RUROQTU1dHEyVzZaNVVKRUdmZw?oc=5)
+
+2026-03-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[HuffPost UK](https://news.google.com/rss/articles/CBMikwFBVV95cUxQczc0LXNGVmd0UjEta0JMVXVkZGNrSFpDb2h6RUp3amRrYVVYa08ycHFDVVBXZ3VHd0d4SEk2aEE5ZndLX2RnTmhfZWJfb3ppb2I3LTdaRW9ZYWhuQVRUaVo3NlNzUW5KQmU3XzJnMTFxTVAtdlFfY1gzYS1LWlk2OWlOdjN6cVRQSElpY0psRGlGdWPSAZoBQVVfeXFMT3I5cTJ5SWhqQi1DdXVPSnk1TTBsZG5Fc0hGaGdydHVlMkxlbkNrQzBnY21PZWhWT1hjQ1BhOFBkTjJNRkF6RVd5MGJGdkFQeXhDR24wN0IzZW9NVGxrWVF2dVNUOWdiU2hxSDNVaXprRHJHb3dRUGYwQ2R2b2hDQU5vNm9ZcEw3RUROQTU1dHEyVzZaNVVKRUdmZw?oc=5)
+
+---
+
+### [West Derby mum woke up from her coma and the first thing she heard was 'you're going to lose your legs' - Liverpool Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDc3VkJrQUZXOV9tVFQwdGxpdVZrSDB1OU0tNWV2WnFBcjVwSFVxRExTTU13RXBJRGZ6M0VIbVM2Rkk5VFdRaDIxLUdxYnBXTTJFZHl2MXpBcEFGWHN2cGlKRG11dDNmNG5PSHZrOU5qb2g3bjdiOUF4enRSb2hrWXlRTEFPcVJ6OXBB0gGQAUFVX3lxTE02X2dEQkREMDFxNkxaQmo4VmtsUXMtbW1qem9rY21qVVU4dTZnYkFhQlFnWkk0YTR2X1BKQUhsTXlHS2tGclBac29NdWxfQTVZQlotLWd2RkZsenU1Nm1GeEJaTWZ5cW1oWU1jMzQyaEIwblJTVlhick1OeEdUNGJCTFZLNW9YdUtuV1VYdk9zWA?oc=5)
+
+2026-03-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDc3VkJrQUZXOV9tVFQwdGxpdVZrSDB1OU0tNWV2WnFBcjVwSFVxRExTTU13RXBJRGZ6M0VIbVM2Rkk5VFdRaDIxLUdxYnBXTTJFZHl2MXpBcEFGWHN2cGlKRG11dDNmNG5PSHZrOU5qb2g3bjdiOUF4enRSb2hrWXlRTEFPcVJ6OXBB0gGQAUFVX3lxTE02X2dEQkREMDFxNkxaQmo4VmtsUXMtbW1qem9rY21qVVU4dTZnYkFhQlFnWkk0YTR2X1BKQUhsTXlHS2tGclBac29NdWxfQTVZQlotLWd2RkZsenU1Nm1GeEJaTWZ5cW1oWU1jMzQyaEIwblJTVlhick1OeEdUNGJCTFZLNW9YdUtuV1VYdk9zWA?oc=5)
+
+---
+
+### [La vignetta del giorno - 27 marzo 2026 - Torino Cronaca](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
 
 2026-03-27 <span class="news-indication-tag">MS</span>
 
-來源：[torinocronaca.it](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
+來源：[Torino Cronaca](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXphVmZGdjdrbjR2N0dYOHQwU2NvWUJDV2g4TDhGU0F3Q2FHRHRtYmxzSUxVUTlFdzkwSEUwZzJyeXpHb0pCQjVRV05aRFZBcFIxdnVRLTlMUlRvejRhNTA0QzJKUm9iMmNJaGVmaE9jS1VVdXpVOFVndzhoUW1VVllpaWtXOEs2M1ZnaHJ3QmQ?oc=5)
 
 ---
 
@@ -84,11 +108,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Alzheimer-Forschung zwischen Durchbruch und Geldmangel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+### [What you should know about the new COVID-19 ‘Cicada’ variant - Northeastern Global News](https://news.google.com/rss/articles/CBMieEFVX3lxTE91OUlPRGozQW05TEpBT2tZdTNfRG9tNGU1MnNtbEd5WXNQOTM5bnJrVnBDUVpYQU1vWDFSU09UbGxpTW1LYUp2MjctV3FvNVNFMk04THZxZVVUakdmLVAyeTZFNURfYkZLQlBlTjhFRHR4dXBHRjVXbQ?oc=5)
 
-2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-27 <span class="news-indication-tag">MS</span>
 
-來源：[GrenzEcho](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWowdzZXZjE3TmpPTGs2MWVkYXhGS1hmNm94M3I2OVJxUjJBSWh0RS0xT3hUQl8wR1BvNlFHaXNLNy1YQkd5NG0zdUpSLUpvaURTOTU0RHlPTS1zZUxCbFVwTUNCdU1QSlNwekRlUTFRemFQR3dUSFBMR2lJeVQ0WUtqT203SFQ2NlNraG9kT3ozc0ZDaFlfTHJZdEFZTlRNczhTelFHYUk5Zw?oc=5)
+來源：[Northeastern Global News](https://news.google.com/rss/articles/CBMieEFVX3lxTE91OUlPRGozQW05TEpBT2tZdTNfRG9tNGU1MnNtbEd5WXNQOTM5bnJrVnBDUVpYQU1vWDFSU09UbGxpTW1LYUp2MjctV3FvNVNFMk04THZxZVVUakdmLVAyeTZFNURfYkZLQlBlTjhFRHR4dXBHRjVXbQ?oc=5)
 
 ---
 
@@ -116,6 +140,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [¿Dormir 8 horas es una regla universal para la salud? Qué dicen los expertos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJ6eUFXRGhYamFhX3p6V1JkNklvWUJPMk00UU4xOEZWanZNYnVqWFBqdDBhNWJlU2JfZzhVZG1XZmlvRkpzYUY1dFdvdE1mQXZIUHpfZy1abm44TVdJZkJ6TDR2cXpBbVc0cWtZV0NkUDNjSk5vcXFuYWJfWlE4OWRZWVFpb3JCbnItMC1IbHJKNHZTcXAyb1ZuczZBTzhsR1hSSElmRk4xNHp3VE9MbG1CaWNvWDRrY3Byc0oxWHdMUdIB3AFBVV95cUxNSEtjYkdPbEFud056X1NSeHRBMVpMUVZ2RDVEckFHOHhadVQ4SjllMnZKRmFodEpEUGxOcFFxdDhpVkpYaE93ZlhfRVQwWFVNSWlOckE0VHZJQUx1MUV1T1FuaW8wd1VKd3NsQnNsRnlESUYteVdmVG9nM1FnZUlXZHd5blVqNWhhbXFkV2xxV3A1dG1yME54SXVuR1JJVGtnWTlXdDRTUkZET0o2T0xLaU9rWnh1MWJYSVRlbEkxNWg1eTJfRkg1S3pCMGRzbEE3QXo1am5aTWg4dmpH?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJ6eUFXRGhYamFhX3p6V1JkNklvWUJPMk00UU4xOEZWanZNYnVqWFBqdDBhNWJlU2JfZzhVZG1XZmlvRkpzYUY1dFdvdE1mQXZIUHpfZy1abm44TVdJZkJ6TDR2cXpBbVc0cWtZV0NkUDNjSk5vcXFuYWJfWlE4OWRZWVFpb3JCbnItMC1IbHJKNHZTcXAyb1ZuczZBTzhsR1hSSElmRk4xNHp3VE9MbG1CaWNvWDRrY3Byc0oxWHdMUdIB3AFBVV95cUxNSEtjYkdPbEFud056X1NSeHRBMVpMUVZ2RDVEckFHOHhadVQ4SjllMnZKRmFodEpEUGxOcFFxdDhpVkpYaE93ZlhfRVQwWFVNSWlOckE0VHZJQUx1MUV1T1FuaW8wd1VKd3NsQnNsRnlESUYteVdmVG9nM1FnZUlXZHd5blVqNWhhbXFkV2xxV3A1dG1yME54SXVuR1JJVGtnWTlXdDRTUkZET0o2T0xLaU9rWnh1MWJYSVRlbEkxNWg1eTJfRkg1S3pCMGRzbEE3QXo1am5aTWg4dmpH?oc=5)
+
+---
+
 ### [La OMS alerta del riesgo de transmisión comunitaria de mpox a menos que se contengan rápidamente los brotes existentes](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMHB0X2JnbEpUV1JoeU9nMmlRTHExOXdMeVpBVENpNDdfSUpUOUZzM1otWnoxT3RVZ0VjY3pHMnFyS0FZbExNR0lELXhTRC1zY3JuZU9mYmhQTy1OQ3F6blp5VWxHYmt3Mm5jWHVzZ1drREEtYVFzZjh1WEQ2WEF2S2hnVHdrMWdDN3h5OFNubVNqbWhoQUljWTRDM21Ed2k3WTY5UjZidWMwSmpzTjNFN01mRGt2cS00b1ZpZlNuejA0ZFQ1aHMwdVcxamlUOVd5S2VaYmtfSUs2NC1NNmpqS0dWbHBDVmdMQXBRWjdn?oc=5)
 
 2026-03-27 <span class="news-indication-tag">MS</span>
@@ -124,11 +156,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Alzheimer, scoperta la “scintilla” che uccide i neuroni: ecco l’interruttore per fermare la malattia - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B?oc=5)
+### [SEMERGEN presenta una guía para abordar la obesidad en pacientes con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
 
-2026-03-26 <span class="news-indication-tag">MS</span>
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdENWRTZUYU9falVZdXB4eVM3OV9aSzZBY09ySGlxREJxbExYWmE3Y0ZmXzl1OFhYdXBfdWg0X0M2VE9fUFVlUldjb1dkdV9KLWhjcF9XUGJlY1drLXAxSWE3MHVsYzItZ1FSTGtmOUhSTmRFNUFiOUpCd0lBR1pJMk9vaEdPblY0NFE5QzNOLWNkaEdicl8zMG5FSnZJQWFwSm1B?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
 
 ---
 

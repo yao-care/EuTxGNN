@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Boston Scientific's CHAMPION-AF Trial Confirms WATCHMAN FLX Effectiveness In Stroke Risk Reduction](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWMzUU9CS09ZZ3MybkwyTHRnWUU0c09sOHVJLXA3aFNybVl1T0k0ZlVjWHdmSmV6ZFNEbUtaXzhIQWctOGlaYzFaeU9yWTV4dFFQcGRrNG9WMmI0YWhKdVB4azBJSTk1WWNfaW9YUXpIR2pYb3dYT0pqcHZ4WUtjR2hqRDR6X09yak1mQUhyN0RpcXR3ZENSQmpfQ3R6dWpoRk02M013eDZfWjVkNFBweU9iTDZzSVJUcF82NmtPa0I4bUx6WTNtQU1hdlgwbTBOazJpTDdkTzZnWm12bnRtb0lJWlpuTC1JLVkza0lXUHRMbXdNNDJ3T3dXeks?oc=5)
-
-2026-03-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[finanznachrichten.de](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWMzUU9CS09ZZ3MybkwyTHRnWUU0c09sOHVJLXA3aFNybVl1T0k0ZlVjWHdmSmV6ZFNEbUtaXzhIQWctOGlaYzFaeU9yWTV4dFFQcGRrNG9WMmI0YWhKdVB4azBJSTk1WWNfaW9YUXpIR2pYb3dYT0pqcHZ4WUtjR2hqRDR6X09yak1mQUhyN0RpcXR3ZENSQmpfQ3R6dWpoRk02M013eDZfWjVkNFBweU9iTDZzSVJUcF82NmtPa0I4bUx6WTNtQU1hdlgwbTBOazJpTDdkTzZnWm12bnRtb0lJWlpuTC1JLVkza0lXUHRMbXdNNDJ3T3dXeks?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [«J’ai perdu du poids mais j’avais des effets secondaires»: Wegovy et Mounjaro, ces traitements «miracles» contre l’obésité ne conviennent pas à tout le monde - Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
 
-2026-03-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-03-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
+
+---
+
+### [CHAMPION-AF-Studie zum Watchman FLX? Vorhofohr-Verschlusssystem als Erstlinientherapie zur Schlaganfallprophylaxe erreicht alle primären und sekundären Sicherheits- und Wirksamkeitsendpunkte - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX2V3UVFHUHcwWXVSZFB5Yjd0dVZHcEFCVktaUkZkY0JEOFNBNlRCbXctU0Jkc0hKT0I4ZjhCaWJfX0ZoT1dHbTFBTWVFdUdJcVNtcEZnZTFTdGtqdE4zWVdZdjlTRVplMlgyTlpOamttMWt4UVNtYml6aWxmN2Q4VU1pcWVKUTVtcEktRVN2b0VoSW5La0ZTZU14bWxSc2ZRNlZLMFNDZl9jQU1FMlVLYkFzSnl4aEVvcWdLY0dMZEk3Rnk4bUQ3VF85dTlCOF9SalBIaUhBeHJvRThZZkM0cmxubm5xM0Noa21QWVkxYm9jV2JkUExNbg?oc=5)
+
+2026-03-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+來源：[MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX2V3UVFHUHcwWXVSZFB5Yjd0dVZHcEFCVktaUkZkY0JEOFNBNlRCbXctU0Jkc0hKT0I4ZjhCaWJfX0ZoT1dHbTFBTWVFdUdJcVNtcEZnZTFTdGtqdE4zWVdZdjlTRVplMlgyTlpOamttMWt4UVNtYml6aWxmN2Q4VU1pcWVKUTVtcEktRVN2b0VoSW5La0ZTZU14bWxSc2ZRNlZLMFNDZl9jQU1FMlVLYkFzSnl4aEVvcWdLY0dMZEk3Rnk4bUQ3VF85dTlCOF9SalBIaUhBeHJvRThZZkM0cmxubm5xM0Noa21QWVkxYm9jV2JkUExNbg?oc=5)
 
 ---
 
@@ -68,19 +68,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Farmaci anti-obesità: efficaci, ma non alla portata di tutti. Presto potrebbe cambiare - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
+### [Una alternativa oral de Ozempic podría ser incluso más eficaz para perder peso - El Economista](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUFNId245QV9HUUhuYWF1WERsa25WalhfdFVOeVpvTTFTZGdtejcxVExNVklHNHptc1pYRnFWTnpUeVk4ck9GdHhkbTE3SUg4MGs3TWRWQmJuTEdkUkthV21vdEo5bUdqdnRXSU1OX1Z1NUN0NWJfckFIUW5ET3NqTWNIcW11Mjltaks1cTBWYThHSVpoUUotekNHNVVYeVI2Zlo1RVNIaG16NHAxRDU1MFFEZDBjbm14LTlBNVBEZjR6Y2pZTzFzYlJENzh4OWFQNzZDNTBabUpxei1YSHd4cG1FS08tUUpiNUp6YVJxaGp2aHppYWFJ0gHiAUFVX3lxTE9ULTZiT1R5bks1ZGkxZ1RwZGRKUnhzZ3kxUjV4UGdRQ3ZhUkVWZVZLNVh1N3pQNExOXzdlYmljMExwc3pzRUU2OU52eHVfZW1zUUszWVoxdm4zcUg1MmhRN2Rra210U3R2dHRyb3gzNTJGQnRQR1Q1UFdXRXVlVG5zT2FnV2pjNk1JVmRlNDN4T0lfMTRtcUJSeS1VQWdSN2QyZElvMWFVdXM4ZE0wMnZnYzY2NnQ0R19HalhtdFlSbTdGVE5RN3ZzMW9ZYzg0YjU2Q3lLMTFzZTBMMnpqU01hbXc?oc=5)
 
-2026-03-26 <span class="news-indication-tag">obesità</span>
+2026-03-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUFNId245QV9HUUhuYWF1WERsa25WalhfdFVOeVpvTTFTZGdtejcxVExNVklHNHptc1pYRnFWTnpUeVk4ck9GdHhkbTE3SUg4MGs3TWRWQmJuTEdkUkthV21vdEo5bUdqdnRXSU1OX1Z1NUN0NWJfckFIUW5ET3NqTWNIcW11Mjltaks1cTBWYThHSVpoUUotekNHNVVYeVI2Zlo1RVNIaG16NHAxRDU1MFFEZDBjbm14LTlBNVBEZjR6Y2pZTzFzYlJENzh4OWFQNzZDNTBabUpxei1YSHd4cG1FS08tUUpiNUp6YVJxaGp2aHppYWFJ0gHiAUFVX3lxTE9ULTZiT1R5bks1ZGkxZ1RwZGRKUnhzZ3kxUjV4UGdRQ3ZhUkVWZVZLNVh1N3pQNExOXzdlYmljMExwc3pzRUU2OU52eHVfZW1zUUszWVoxdm4zcUg1MmhRN2Rra210U3R2dHRyb3gzNTJGQnRQR1Q1UFdXRXVlVG5zT2FnV2pjNk1JVmRlNDN4T0lfMTRtcUJSeS1VQWdSN2QyZElvMWFVdXM4ZE0wMnZnYzY2NnQ0R19HalhtdFlSbTdGVE5RN3ZzMW9ZYzg0YjU2Q3lLMTFzZTBMMnpqU01hbXc?oc=5)
 
 ---
 
-### [La ricetta contro infarto e ictus? Solo 11 minuti di sonno e 5 di attività fisica in più al giorno - la Repubblica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlFSU3drQkJxb0sxTTNCLVpXTnRLM0xhLW00VWM3V0hMUjVqSjBLeElCV2FKSWtvODRtNEE2MTdoUzBDNjhLV0JMVHNmeFJjc0ZpNk54NHE3elA2eUhNcGZPRms3eW4zcnVCSW53X3JET1JIeC1VNTloeHFpQ2tCUy1uYVBCSmRTVjdPR2ZTb0ZuRF9rWnhpWWVRTTV1amJwYTlPZWI3VHRLY05xT3RPQlEwT3llZVVOT3dLOG1OdmtsMWvSAcgBQVVfeXFMTVM5eGZSYzhGLTk0cElWYmthcDB6ZWpKUkdreTB5WlBkTnVwSFAySmhZblA0OHNtVFNuQndEQWpPd1M5QzVCMXNNQlBOcFdBUHhJMTJDV014N2hGOWNTMjlmZUhhN05zS3ozUXBFNmtrd0dKZHRlcV80TlJla21kaEZoSUg4bDlQYTlLS0M2Mk01dV9MRGFUUk1fc2wweW12SWZ3RTMyWWl1ZzFuclVHOE5CV0VmN3Z2R0ZMOHd4TDlWRjU0RXVySWg?oc=5)
+### [Ictus oculare e semaglutide, il farmacologo Trifirò: “Attenzione ai sintomi visivi”](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWZtaHpLUXZJdGJtbU9WbHFlb1hHMVRzOWxScy1QTFFfZDN5eW9yTXdVMG8ycEtObWVPUFRhdkxrT2NLMzNOZG5LVlBmeTkxRDFUdjVncEJFcFdDS2tBd1BTaVo3aUxackI1bldMdlVnc0N2dE1RdXFTWDFxQlFYMjVkamtYc0JwVDVfZWotYlo3VnB3NHc2NnVKa2hBMUZDWjQtN0UycmFtQXR2TE03Rnl3YTRWb29hbnFFWV9leng?oc=5)
 
-2026-03-26 <span class="news-indication-tag">ictus</span>
+2026-03-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">ictus</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlFSU3drQkJxb0sxTTNCLVpXTnRLM0xhLW00VWM3V0hMUjVqSjBLeElCV2FKSWtvODRtNEE2MTdoUzBDNjhLV0JMVHNmeFJjc0ZpNk54NHE3elA2eUhNcGZPRms3eW4zcnVCSW53X3JET1JIeC1VNTloeHFpQ2tCUy1uYVBCSmRTVjdPR2ZTb0ZuRF9rWnhpWWVRTTV1amJwYTlPZWI3VHRLY05xT3RPQlEwT3llZVVOT3dLOG1OdmtsMWvSAcgBQVVfeXFMTVM5eGZSYzhGLTk0cElWYmthcDB6ZWpKUkdreTB5WlBkTnVwSFAySmhZblA0OHNtVFNuQndEQWpPd1M5QzVCMXNNQlBOcFdBUHhJMTJDV014N2hGOWNTMjlmZUhhN05zS3ozUXBFNmtrd0dKZHRlcV80TlJla21kaEZoSUg4bDlQYTlLS0M2Mk01dV9MRGFUUk1fc2wweW12SWZ3RTMyWWl1ZzFuclVHOE5CV0VmN3Z2R0ZMOHd4TDlWRjU0RXVySWg?oc=5)
+來源：[fanpage.it](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWZtaHpLUXZJdGJtbU9WbHFlb1hHMVRzOWxScy1QTFFfZDN5eW9yTXdVMG8ycEtObWVPUFRhdkxrT2NLMzNOZG5LVlBmeTkxRDFUdjVncEJFcFdDS2tBd1BTaVo3aUxackI1bldMdlVnc0N2dE1RdXFTWDFxQlFYMjVkamtYc0JwVDVfZWotYlo3VnB3NHc2NnVKa2hBMUZDWjQtN0UycmFtQXR2TE03Rnl3YTRWb29hbnFFWV9leng?oc=5)
 
 ---
 
@@ -89,6 +89,14 @@ permalink: /news/orlistat/
 2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+
+---
+
+### [SEMERGEN presenta una guía para abordar la obesidad en pacientes con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
+
+2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
 
 ---
 
