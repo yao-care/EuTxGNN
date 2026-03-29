@@ -44,19 +44,19 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [CHAMPION-AF-Studie zum Watchman FLX? Vorhofohr-Verschlusssystem als Erstlinientherapie zur Schlaganfallprophylaxe erreicht alle primären und sekundären Sicherheits- und Wirksamkeitsendpunkte - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX2V3UVFHUHcwWXVSZFB5Yjd0dVZHcEFCVktaUkZkY0JEOFNBNlRCbXctU0Jkc0hKT0I4ZjhCaWJfX0ZoT1dHbTFBTWVFdUdJcVNtcEZnZTFTdGtqdE4zWVdZdjlTRVplMlgyTlpOamttMWt4UVNtYml6aWxmN2Q4VU1pcWVKUTVtcEktRVN2b0VoSW5La0ZTZU14bWxSc2ZRNlZLMFNDZl9jQU1FMlVLYkFzSnl4aEVvcWdLY0dMZEk3Rnk4bUQ3VF85dTlCOF9SalBIaUhBeHJvRThZZkM0cmxubm5xM0Noa21QWVkxYm9jV2JkUExNbg?oc=5)
+### [Comment reconnaître l'AVC ? Deux survivants ont témoigné : « un seul signe suffit à alerter »](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
 
-2026-03-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-03-29 <span class="news-indication-tag">AVC</span>
 
-來源：[MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX2V3UVFHUHcwWXVSZFB5Yjd0dVZHcEFCVktaUkZkY0JEOFNBNlRCbXctU0Jkc0hKT0I4ZjhCaWJfX0ZoT1dHbTFBTWVFdUdJcVNtcEZnZTFTdGtqdE4zWVdZdjlTRVplMlgyTlpOamttMWt4UVNtYml6aWxmN2Q4VU1pcWVKUTVtcEktRVN2b0VoSW5La0ZTZU14bWxSc2ZRNlZLMFNDZl9jQU1FMlVLYkFzSnl4aEVvcWdLY0dMZEk3Rnk4bUQ3VF85dTlCOF9SalBIaUhBeHJvRThZZkM0cmxubm5xM0Noa21QWVkxYm9jV2JkUExNbg?oc=5)
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
 
 ---
 
-### [Ictus oculare e semaglutide, il farmacologo Trifirò: “Attenzione ai sintomi visivi”](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWZtaHpLUXZJdGJtbU9WbHFlb1hHMVRzOWxScy1QTFFfZDN5eW9yTXdVMG8ycEtObWVPUFRhdkxrT2NLMzNOZG5LVlBmeTkxRDFUdjVncEJFcFdDS2tBd1BTaVo3aUxackI1bldMdlVnc0N2dE1RdXFTWDFxQlFYMjVkamtYc0JwVDVfZWotYlo3VnB3NHc2NnVKa2hBMUZDWjQtN0UycmFtQXR2TE03Rnl3YTRWb29hbnFFWV9leng?oc=5)
+### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
-2026-03-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">ictus</span>
+2026-03-29 <span class="news-indication-tag">ictus</span>
 
-來源：[fanpage.it](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWZtaHpLUXZJdGJtbU9WbHFlb1hHMVRzOWxScy1QTFFfZDN5eW9yTXdVMG8ycEtObWVPUFRhdkxrT2NLMzNOZG5LVlBmeTkxRDFUdjVncEJFcFdDS2tBd1BTaVo3aUxackI1bldMdlVnc0N2dE1RdXFTWDFxQlFYMjVkamtYc0JwVDVfZWotYlo3VnB3NHc2NnVKa2hBMUZDWjQtN0UycmFtQXR2TE03Rnl3YTRWb29hbnFFWV9leng?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 ---
 

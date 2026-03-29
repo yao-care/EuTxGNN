@@ -44,19 +44,19 @@ permalink: /news/opicapone/
 
 ## 相關新聞（5 則）
 
-### [Health officials to examine if drugs used to treat Parkinson's can lead to addiction issues - Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
+### [Health officials to examine if drugs used to treat Parkinson's can lead to addiction issues](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
 
 2026-03-28 <span class="news-indication-tag">Parkinson's</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
+來源：[news.sky.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
 
 ---
 
-### [‘We have six months to save our daughter’s life before childhood dementia robs her of her future’ - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
+### [‘We have six months to save our daughter’s life before childhood dementia robs her of her future’](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
 
 2026-03-28 <span class="news-indication-tag">dementia</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
+來源：[independent.co.uk](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
 
 ---
 

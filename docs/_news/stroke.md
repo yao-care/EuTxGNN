@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# AVC（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
+<strong>AVC（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -41,19 +41,19 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [CHAMPION-AF-Studie zum Watchman FLX? Vorhofohr-Verschlusssystem als Erstlinientherapie zur Schlaganfallprophylaxe erreicht alle primären und sekundären Sicherheits- und Wirksamkeitsendpunkte - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX2V3UVFHUHcwWXVSZFB5Yjd0dVZHcEFCVktaUkZkY0JEOFNBNlRCbXctU0Jkc0hKT0I4ZjhCaWJfX0ZoT1dHbTFBTWVFdUdJcVNtcEZnZTFTdGtqdE4zWVdZdjlTRVplMlgyTlpOamttMWt4UVNtYml6aWxmN2Q4VU1pcWVKUTVtcEktRVN2b0VoSW5La0ZTZU14bWxSc2ZRNlZLMFNDZl9jQU1FMlVLYkFzSnl4aEVvcWdLY0dMZEk3Rnk4bUQ3VF85dTlCOF9SalBIaUhBeHJvRThZZkM0cmxubm5xM0Noa21QWVkxYm9jV2JkUExNbg?oc=5)
+### [Comment reconnaître l'AVC ? Deux survivants ont témoigné : « un seul signe suffit à alerter »](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
 
-2026-03-28
+2026-03-29
 
-來源：[MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX2V3UVFHUHcwWXVSZFB5Yjd0dVZHcEFCVktaUkZkY0JEOFNBNlRCbXctU0Jkc0hKT0I4ZjhCaWJfX0ZoT1dHbTFBTWVFdUdJcVNtcEZnZTFTdGtqdE4zWVdZdjlTRVplMlgyTlpOamttMWt4UVNtYml6aWxmN2Q4VU1pcWVKUTVtcEktRVN2b0VoSW5La0ZTZU14bWxSc2ZRNlZLMFNDZl9jQU1FMlVLYkFzSnl4aEVvcWdLY0dMZEk3Rnk4bUQ3VF85dTlCOF9SalBIaUhBeHJvRThZZkM0cmxubm5xM0Noa21QWVkxYm9jV2JkUExNbg?oc=5)
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
 
 ---
 
-### [Ictus oculare e semaglutide, il farmacologo Trifirò: “Attenzione ai sintomi visivi”](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWZtaHpLUXZJdGJtbU9WbHFlb1hHMVRzOWxScy1QTFFfZDN5eW9yTXdVMG8ycEtObWVPUFRhdkxrT2NLMzNOZG5LVlBmeTkxRDFUdjVncEJFcFdDS2tBd1BTaVo3aUxackI1bldMdlVnc0N2dE1RdXFTWDFxQlFYMjVkamtYc0JwVDVfZWotYlo3VnB3NHc2NnVKa2hBMUZDWjQtN0UycmFtQXR2TE03Rnl3YTRWb29hbnFFWV9leng?oc=5)
+### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
-2026-03-27
+2026-03-29
 
-來源：[fanpage.it](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOWZtaHpLUXZJdGJtbU9WbHFlb1hHMVRzOWxScy1QTFFfZDN5eW9yTXdVMG8ycEtObWVPUFRhdkxrT2NLMzNOZG5LVlBmeTkxRDFUdjVncEJFcFdDS2tBd1BTaVo3aUxackI1bldMdlVnc0N2dE1RdXFTWDFxQlFYMjVkamtYc0JwVDVfZWotYlo3VnB3NHc2NnVKa2hBMUZDWjQtN0UycmFtQXR2TE03Rnl3YTRWb29hbnFFWV9leng?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 ---
 

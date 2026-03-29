@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
+
+### [On pensait s'être débarrassé de l'infection la plus mortelle au monde: elle fait pourtant son grand retour](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXNwV1BBU2Nwa1BaMXV1QzlhS2VZbkJ5N2dWZm1vNEM4RDlZRFc4LXVmY1JvYU5NN0hpZ3lzaUtzUTBkUU9DVnVJdUZZS3dRU2thUWh5Tm1SaDlKRW9NTDQwV21VaTJaN3ZOajJPV0tJMUY3R2lNODh5RVFxc0dNV0EwY0N1eTktcm9ULWF1VlFjVUR3TXhKOFVKOEZqa1FmLUU3SXlOV1EzUTJicDJQTHFsdG1YamF6OGIxWWQyN3Z0M1FLMTBmVlNlb3Vuei1RLUUxdm9R0gHbAUFVX3lxTFBfV2o5TURVVloyc2hrcnZTMFNLWDMxamlqQmVBZUZYNkpkYnpZMUNwQm0ya0JYa3BWT1EyS201SWV2Nlh2QnJzQXZHV1ozWldMQ3RqVkFHZFEyVENkd01MXzh3ZGtlWlJ2V0t4NTN3Q3pLYzZTS1BzN1hOSFdDSUVZMnpaT0RYa3hLUWdzb20zVE9IMFNDMkxWOFl1aG9IMjA3endVUVlaVUlCZHZkVDI1V3BnbHg0WlJmb3IxZG9ORkZSSHJKY19hQzk2SVYtb2xnSXkyMmVWaFJEQQ?oc=5)
+
+2026-03-29 <span class="news-indication-tag">MS</span>
+
+來源：[Slate.fr](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXNwV1BBU2Nwa1BaMXV1QzlhS2VZbkJ5N2dWZm1vNEM4RDlZRFc4LXVmY1JvYU5NN0hpZ3lzaUtzUTBkUU9DVnVJdUZZS3dRU2thUWh5Tm1SaDlKRW9NTDQwV21VaTJaN3ZOajJPV0tJMUY3R2lNODh5RVFxc0dNV0EwY0N1eTktcm9ULWF1VlFjVUR3TXhKOFVKOEZqa1FmLUU3SXlOV1EzUTJicDJQTHFsdG1YamF6OGIxWWQyN3Z0M1FLMTBmVlNlb3Vuei1RLUUxdm9R0gHbAUFVX3lxTFBfV2o5TURVVloyc2hrcnZTMFNLWDMxamlqQmVBZUZYNkpkYnpZMUNwQm0ya0JYa3BWT1EyS201SWV2Nlh2QnJzQXZHV1ozWldMQ3RqVkFHZFEyVENkd01MXzh3ZGtlWlJ2V0t4NTN3Q3pLYzZTS1BzN1hOSFdDSUVZMnpaT0RYa3hLUWdzb20zVE9IMFNDMkxWOFl1aG9IMjA3endVUVlaVUlCZHZkVDI1V3BnbHg0WlJmb3IxZG9ORkZSSHJKY19hQzk2SVYtb2xnSXkyMmVWaFJEQQ?oc=5)
+
+---
 
 ### [Tipp: Schlüsselrolle Vitamin D - Gesund ins Frühjahr starten und Speicher auffüllen - Lebensmittel enthalten nur wenig Vitamin D - Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2ROWWdVODhYSVFWMW5rc3lPT0pZV25YMFpEaEgzajFBVlJUU3JmelFlR1pOcnlVQWh2SlliaHlhSmQ3MVIzczRVTGNHeWJ2X2ZWOHZyalkwY0U4MExJdkRTVzFaTHpJQlBCbHY5T2VCYVVrUDFLRldpWm5kVEM1NV9DbXRvakw3bXNuRTF0R2EyYzZ6VlhTN2kzcmlwWXQ3UkRuX2xVVVhPdWlFdGxUOUJKVVVaWTVYVEJDdlRORTNadV9sSDdSSmMzTURya0lJX3FnbExONlZ6UGFITEgybXRwWkhPc3FYS3ZCTDRicDJ5V0lxLUZkdC1GQQ?oc=5)
 
 2026-03-29 <span class="news-indication-tag">MS</span>
 
 來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2ROWWdVODhYSVFWMW5rc3lPT0pZV25YMFpEaEgzajFBVlJUU3JmelFlR1pOcnlVQWh2SlliaHlhSmQ3MVIzczRVTGNHeWJ2X2ZWOHZyalkwY0U4MExJdkRTVzFaTHpJQlBCbHY5T2VCYVVrUDFLRldpWm5kVEM1NV9DbXRvakw3bXNuRTF0R2EyYzZ6VlhTN2kzcmlwWXQ3UkRuX2xVVVhPdWlFdGxUOUJKVVVaWTVYVEJDdlRORTNadV9sSDdSSmMzTURya0lJX3FnbExONlZ6UGFITEgybXRwWkhPc3FYS3ZCTDRicDJ5V0lxLUZkdC1GQQ?oc=5)
+
+---
+
+### [Is Sourdough Healthier Than Other Breads? Here’s What Nutrition Experts Say](https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1NJMm1Ubl9Ea0NvS2dRVUtpbHhJeDZMMG5rN0hoX0s5TC0xNUs0Y2o4Yi14czM0Yk5SQ2dsR3FhNlM2TDlsMGplWWRVQW5yUHFaTEY5bUZHX0J3cERtWjRENDROa1BZV2Fv?oc=5)
+
+2026-03-28 <span class="news-indication-tag">MS</span>
+
+來源：[marthastewart.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1NJMm1Ubl9Ea0NvS2dRVUtpbHhJeDZMMG5rN0hoX0s5TC0xNUs0Y2o4Yi14czM0Yk5SQ2dsR3FhNlM2TDlsMGplWWRVQW5yUHFaTEY5bUZHX0J3cERtWjRENDROa1BZV2Fv?oc=5)
 
 ---
 
@@ -84,6 +100,14 @@ permalink: /news/rotigotine/
 
 ---
 
+### [The easiest way to strengthen your entire body, according to this expert coach](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXItZV95TTlsaXlpUlpTazJKaE5UM3R3UzhZcFRIdEpXOUtwU0RhNHBNN3FDMnIwMjcxOC0tbEVXbHpSMDlONk5YbXNDbzNUYl8yUjY2Z2FZYjZHSGFoeGxRY21KX1pSQlhxNjhhdTBIZXF4Rmw0eUt1TUhoNU5aaGFiamtHYkpBb3FsZ2pnUVprMHVfemRLYjd4aWlyb183WTVrSUVKMnFHTUk?oc=5)
+
+2026-03-28 <span class="news-indication-tag">MS</span>
+
+來源：[independent.co.uk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXItZV95TTlsaXlpUlpTazJKaE5UM3R3UzhZcFRIdEpXOUtwU0RhNHBNN3FDMnIwMjcxOC0tbEVXbHpSMDlONk5YbXNDbzNUYl8yUjY2Z2FZYjZHSGFoeGxRY21KX1pSQlhxNjhhdTBIZXF4Rmw0eUt1TUhoNU5aaGFiamtHYkpBb3FsZ2pnUVprMHVfemRLYjd4aWlyb183WTVrSUVKMnFHTUk?oc=5)
+
+---
+
 ### [West Derby mum woke up from her coma and the first thing she heard was 'you're going to lose your legs' - Liverpool Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDc3VkJrQUZXOV9tVFQwdGxpdVZrSDB1OU0tNWV2WnFBcjVwSFVxRExTTU13RXBJRGZ6M0VIbVM2Rkk5VFdRaDIxLUdxYnBXTTJFZHl2MXpBcEFGWHN2cGlKRG11dDNmNG5PSHZrOU5qb2g3bjdiOUF4enRSb2hrWXlRTEFPcVJ6OXBB0gGQAUFVX3lxTE02X2dEQkREMDFxNkxaQmo4VmtsUXMtbW1qem9rY21qVVU4dTZnYkFhQlFnWkk0YTR2X1BKQUhsTXlHS2tGclBac29NdWxfQTVZQlotLWd2RkZsenU1Nm1GeEJaTWZ5cW1oWU1jMzQyaEIwblJTVlhick1OeEdUNGJCTFZLNW9YdUtuV1VYdk9zWA?oc=5)
 
 2026-03-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -100,19 +124,19 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Un nouveau variant du Covid-19 au nombre record de mutations se propage dans le monde](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkxiR2QyMkF6OEtxcjdMYWdIQUJUTk50Rlk0ai1zZzA3U2pMWEotRjRQZ2JWUDREbE1BQWJ6LVp1a0lUNk1qeTFfNFAxQUVsci03SEZ2cFM4LUY5V05ibFM4XzJ6RXFaNFpLOVgxdXlTWVdQRDE4dnV0Z0VyaEoyanNVQXluelNRR0IwVFQxcm1PaHg5VmfSAZsBQVVfeXFMTnZjejhWV2xJMjlZeVVDVTNjaTh0a3JLdHI2MFdRaHA0QVMxTzZ0cHlRNzgyT3B1dDdubEhBSHBTTklkOENFdWEyRUhzMFVtZnczRS1rOXZ6YWUteW1hZ0p1VzNSUmJybW5yeWw2V2pjVWJPZVBSeDQxSXJOSEYzNWNid2ZiZkJ1OVpQQzIwMUNzRGtfTUpPMTBMV0U?oc=5)
+
+2026-03-27 <span class="news-indication-tag">MS</span>
+
+來源：[Slate.fr](https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkxiR2QyMkF6OEtxcjdMYWdIQUJUTk50Rlk0ai1zZzA3U2pMWEotRjRQZ2JWUDREbE1BQWJ6LVp1a0lUNk1qeTFfNFAxQUVsci03SEZ2cFM4LUY5V05ibFM4XzJ6RXFaNFpLOVgxdXlTWVdQRDE4dnV0Z0VyaEoyanNVQXluelNRR0IwVFQxcm1PaHg5VmfSAZsBQVVfeXFMTnZjejhWV2xJMjlZeVVDVTNjaTh0a3JLdHI2MFdRaHA0QVMxTzZ0cHlRNzgyT3B1dDdubEhBSHBTTklkOENFdWEyRUhzMFVtZnczRS1rOXZ6YWUteW1hZ0p1VzNSUmJybW5yeWw2V2pjVWJPZVBSeDQxSXJOSEYzNWNid2ZiZkJ1OVpQQzIwMUNzRGtfTUpPMTBMV0U?oc=5)
+
+---
+
 ### [The exact amount of salty foods you can actually eat without risking your health, according to science - Daily Mail](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
 
 2026-03-27 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN182dGM1N3BHaTJfMHVhQzB1VzNCNjdlTUNOd3p6cENJajBiWW9pdWVXWGxKZ0NXd29KSVMtU2R5STZPdDBvTFZ3YkVINmU1R1VWRnBfQUtOcGFMaVUxUWFWd3FWZ0Q5MVdDNmVTX2t2NmFtUExhVHcxM2hoS3BPMWdBa1F1eE1HSFA5R0YtLUNZMXQ5VlhSNzNKWmotR1BYOVNJUzkyRjFfaHFhcGpmazZxX1IxczNJYTA4ZjdXZ2ZzZkkydmw5Rzh0RFJRYUNHREHSAdcBQVVfeXFMTTBFX1loZVEySE8zSmJjeTdXeW1yZkpPMXJ5UHBHMTluMldDUm1TLVFYSXF5cU1laW5mWXpNVXNYM0xXN2FVMXJyY0NLOU42MC1UaDFuOE9JOTRWcjJCeFVlS0NpaVFLbk5EcE93Q2lBc2FBeFNEUllET1RXUnY4bC1GRDdLelBLRDl3VjYycjVKaHlTV2xWZ0Q3YUl6eVJPZ2JnZHZmOGgwQnM1UkZvYTd0TGNzRzVwaEpkV1RscGlTZEJUTkJOM0pyYUo3TlhZejZtcGdRQUE?oc=5)
-
----
-
-### [What you should know about the new COVID-19 ‘Cicada’ variant - Northeastern Global News](https://news.google.com/rss/articles/CBMieEFVX3lxTE91OUlPRGozQW05TEpBT2tZdTNfRG9tNGU1MnNtbEd5WXNQOTM5bnJrVnBDUVpYQU1vWDFSU09UbGxpTW1LYUp2MjctV3FvNVNFMk04THZxZVVUakdmLVAyeTZFNURfYkZLQlBlTjhFRHR4dXBHRjVXbQ?oc=5)
-
-2026-03-27 <span class="news-indication-tag">MS</span>
-
-來源：[Northeastern Global News](https://news.google.com/rss/articles/CBMieEFVX3lxTE91OUlPRGozQW05TEpBT2tZdTNfRG9tNGU1MnNtbEd5WXNQOTM5bnJrVnBDUVpYQU1vWDFSU09UbGxpTW1LYUp2MjctV3FvNVNFMk04THZxZVVUakdmLVAyeTZFNURfYkZLQlBlTjhFRHR4dXBHRjVXbQ?oc=5)
 
 ---
 
@@ -129,38 +153,6 @@ permalink: /news/rotigotine/
 2026-03-27 <span class="news-indication-tag">multiple sclerosis</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYm1fVHJyUWhXaGctVnFtdnIwSE1QOGhEM3dhZGlGUVhMcWFyX3RoY2JGbnZmTnNiS3FubzZ4b1MwRDRqWkxmRkZrRlRkZnNOWnVKT0tXeFRiNlBjZTh1RkxXR25CTWROb1NyYzVHVVYtaUN6b2FNdlNCdktvbVg1Y1lnWDNaTkVGMG9N?oc=5)
-
----
-
-### [Newcastle lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
-
-2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
-
----
-
-### [¿Dormir 8 horas es una regla universal para la salud? Qué dicen los expertos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJ6eUFXRGhYamFhX3p6V1JkNklvWUJPMk00UU4xOEZWanZNYnVqWFBqdDBhNWJlU2JfZzhVZG1XZmlvRkpzYUY1dFdvdE1mQXZIUHpfZy1abm44TVdJZkJ6TDR2cXpBbVc0cWtZV0NkUDNjSk5vcXFuYWJfWlE4OWRZWVFpb3JCbnItMC1IbHJKNHZTcXAyb1ZuczZBTzhsR1hSSElmRk4xNHp3VE9MbG1CaWNvWDRrY3Byc0oxWHdMUdIB3AFBVV95cUxNSEtjYkdPbEFud056X1NSeHRBMVpMUVZ2RDVEckFHOHhadVQ4SjllMnZKRmFodEpEUGxOcFFxdDhpVkpYaE93ZlhfRVQwWFVNSWlOckE0VHZJQUx1MUV1T1FuaW8wd1VKd3NsQnNsRnlESUYteVdmVG9nM1FnZUlXZHd5blVqNWhhbXFkV2xxV3A1dG1yME54SXVuR1JJVGtnWTlXdDRTUkZET0o2T0xLaU9rWnh1MWJYSVRlbEkxNWg1eTJfRkg1S3pCMGRzbEE3QXo1am5aTWg4dmpH?oc=5)
-
-2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJ6eUFXRGhYamFhX3p6V1JkNklvWUJPMk00UU4xOEZWanZNYnVqWFBqdDBhNWJlU2JfZzhVZG1XZmlvRkpzYUY1dFdvdE1mQXZIUHpfZy1abm44TVdJZkJ6TDR2cXpBbVc0cWtZV0NkUDNjSk5vcXFuYWJfWlE4OWRZWVFpb3JCbnItMC1IbHJKNHZTcXAyb1ZuczZBTzhsR1hSSElmRk4xNHp3VE9MbG1CaWNvWDRrY3Byc0oxWHdMUdIB3AFBVV95cUxNSEtjYkdPbEFud056X1NSeHRBMVpMUVZ2RDVEckFHOHhadVQ4SjllMnZKRmFodEpEUGxOcFFxdDhpVkpYaE93ZlhfRVQwWFVNSWlOckE0VHZJQUx1MUV1T1FuaW8wd1VKd3NsQnNsRnlESUYteVdmVG9nM1FnZUlXZHd5blVqNWhhbXFkV2xxV3A1dG1yME54SXVuR1JJVGtnWTlXdDRTUkZET0o2T0xLaU9rWnh1MWJYSVRlbEkxNWg1eTJfRkg1S3pCMGRzbEE3QXo1am5aTWg4dmpH?oc=5)
-
----
-
-### [La OMS alerta del riesgo de transmisión comunitaria de mpox a menos que se contengan rápidamente los brotes existentes](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMHB0X2JnbEpUV1JoeU9nMmlRTHExOXdMeVpBVENpNDdfSUpUOUZzM1otWnoxT3RVZ0VjY3pHMnFyS0FZbExNR0lELXhTRC1zY3JuZU9mYmhQTy1OQ3F6blp5VWxHYmt3Mm5jWHVzZ1drREEtYVFzZjh1WEQ2WEF2S2hnVHdrMWdDN3h5OFNubVNqbWhoQUljWTRDM21Ed2k3WTY5UjZidWMwSmpzTjNFN01mRGt2cS00b1ZpZlNuejA0ZFQ1aHMwdVcxamlUOVd5S2VaYmtfSUs2NC1NNmpqS0dWbHBDVmdMQXBRWjdn?oc=5)
-
-2026-03-27 <span class="news-indication-tag">MS</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMHB0X2JnbEpUV1JoeU9nMmlRTHExOXdMeVpBVENpNDdfSUpUOUZzM1otWnoxT3RVZ0VjY3pHMnFyS0FZbExNR0lELXhTRC1zY3JuZU9mYmhQTy1OQ3F6blp5VWxHYmt3Mm5jWHVzZ1drREEtYVFzZjh1WEQ2WEF2S2hnVHdrMWdDN3h5OFNubVNqbWhoQUljWTRDM21Ed2k3WTY5UjZidWMwSmpzTjNFN01mRGt2cS00b1ZpZlNuejA0ZFQ1aHMwdVcxamlUOVd5S2VaYmtfSUs2NC1NNmpqS0dWbHBDVmdMQXBRWjdn?oc=5)
-
----
-
-### [SEMERGEN presenta una guía para abordar la obesidad en pacientes con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
-
-2026-03-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
 
 ---
 

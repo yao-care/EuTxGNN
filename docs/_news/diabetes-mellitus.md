@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Llevamos 60 años usando este fármaco para la diabetes, pero ahora sabemos que activa un interruptor maestro en el cerebro - Muy Interesante](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmFhTXpJS0xnRWRMaFVUWW1DdWYwUjN0R01SSF9fY1Y4MG1iUVVGaTNPN2hiSUJScnpDN0Ywei1xd29sTm1TTDNYRXVsdFdoMFpOQUdSV3RRdHZVbGgwVFVlZTlpNVQ5RzJQeDEzTkRXb2h1ZUxZejhmdlNwOEdFWldkRXlfUTlweE5xaktQVXJKTlAz?oc=5)
 
@@ -124,11 +124,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - OP Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHNkaVduYVlfSlR2YzZOLWFjbnFsMzFLdkFualRIYm1GQlZOMjNSRHdLZ0dnTlNaR2lJZmk1bHlqbEYtNE10bkFHejFpRXRwd2RNN1VFOXVKZmxpX3U3Umh2WkdVT3plVndBM3M2ams1bDhIMkd6OEdxcnNQOGM3b2hHN2pGOE9GMmJoSW9BZXhncF9EVTlaWUJYZElYNlhJVVA0YUo3MDJUMDBTUjdXaTF3VmlseGM1T2MwSVRhY2xWdWsxY0ozVXhWTmxWRGZaNV9KNw?oc=5)
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen](https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkhOVmZDYTdRb3ZyVENzQ2sxLVNRc3RwSEVCUXAxR3laU2VQMjhMZTNqemx4S01BYzFCc19yZ1g3Z2lTYmVYX1ZibVdEVUp0MHBwMndVS2hhRDlLeEo2SnZqMmg3M0ZsampXRnZBVk9NUU5fWXBkSHdwWU5sWDBFNTNfcUV3V0N0Q0NZVXc0eXFzSVhRYzB0aXkyNHdTdUI3NWs4OVdwVTdYeDhlRmtEZmh5MV9qXzJBMmVSZGthTnA2NmMyb0x1ZXpMSmg?oc=5)
 
 2026-03-28
 
-來源：[OP Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHNkaVduYVlfSlR2YzZOLWFjbnFsMzFLdkFualRIYm1GQlZOMjNSRHdLZ0dnTlNaR2lJZmk1bHlqbEYtNE10bkFHejFpRXRwd2RNN1VFOXVKZmxpX3U3Umh2WkdVT3plVndBM3M2ams1bDhIMkd6OEdxcnNQOGM3b2hHN2pGOE9GMmJoSW9BZXhncF9EVTlaWUJYZElYNlhJVVA0YUo3MDJUMDBTUjdXaTF3VmlseGM1T2MwSVRhY2xWdWsxY0ozVXhWTmxWRGZaNV9KNw?oc=5)
+來源：[fnp.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkhOVmZDYTdRb3ZyVENzQ2sxLVNRc3RwSEVCUXAxR3laU2VQMjhMZTNqemx4S01BYzFCc19yZ1g3Z2lTYmVYX1ZibVdEVUp0MHBwMndVS2hhRDlLeEo2SnZqMmg3M0ZsampXRnZBVk9NUU5fWXBkSHdwWU5sWDBFNTNfcUV3V0N0Q0NZVXc0eXFzSVhRYzB0aXkyNHdTdUI3NWs4OVdwVTdYeDhlRmtEZmh5MV9qXzJBMmVSZGthTnA2NmMyb0x1ZXpMSmg?oc=5)
 
 ---
 
@@ -137,22 +137,6 @@ permalink: /news/diabetes-mellitus/
 2026-03-27
 
 來源：[Phys.org](https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGZFcURyVnkzZHZ3ckthbDRKMkxEZmF1Z19VMmtYTlVPOFpld3ZuS0I4ZGoxTVBvank5a2dMckNJMXRtR3lDYWxWZFN0UW82VFdyeGZfeXVmeEU1M3NBZkVYQ1dHcUhZY3VnanFWU0p3d29ZbFdmT2lBWDdxQWJJTA?oc=5)
-
----
-
-### [Rötungen und Juckreiz: Diese Hautprobleme können Hinweise auf Diabetes sein](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQW9DMnhQb1RwNk00U0JyNFhDaldnWjFtYlB2NTktQTNmVlhzeFBmTG5jblp0REtTd0xUSHRmU002cS0tS01WUGtWWXlHNGdOU25JREZDWEt1WUQyYWRNSHNwem54TzJCaHF3SlFoel9GSXlkbngtRkwxNGs0YWJFTFdYcXU1eHYxVWpjRXU2Sk8taUpxNDctNzZmSU5JVUt6NHhyRC1velVBWGZ0YXF6N2Y4WHQ0S09WOU1Dem12MVZjQnVMaWFSZ0tXbFRmcllqRHEzWGpxZmJRYVJGelNZUDVLLVktZS1lTVB5NWNzZDB3V1RmOVlQTndMb9IBgAJBVV95cUxOSzRTckRKWmtNZ2hnejZJRzM0dXJGVjF5c1EwaldQd2ZNeU14ZjFDQzFNamk5Y0xub0xNQmVNU0h5VXhlRHNSeHpGYTJCZ3RCR0NveXlpODMxYlo0MDZydWsxM255dVUxYXFrMVV6MFRBX0RLNDdnOHJuRVUyclVxNWpvcUhTTWxKVDltUE9sVndNbWl2cDg2U29kelR4Rnl0NzhMUTZpWmRuM0Rxc1RXaFE2TVF1Y0FObmppU0JkbFZvdWhOeXhKM29YOFp4QUJGZ3ozd0hwRjZMZFZXUTlEX1NOOGpzVGpWaTI4cGFic2I3em9JR0huZUl4b0NhYjdx?oc=5)
-
-2026-03-27
-
-來源：[news.de](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQW9DMnhQb1RwNk00U0JyNFhDaldnWjFtYlB2NTktQTNmVlhzeFBmTG5jblp0REtTd0xUSHRmU002cS0tS01WUGtWWXlHNGdOU25JREZDWEt1WUQyYWRNSHNwem54TzJCaHF3SlFoel9GSXlkbngtRkwxNGs0YWJFTFdYcXU1eHYxVWpjRXU2Sk8taUpxNDctNzZmSU5JVUt6NHhyRC1velVBWGZ0YXF6N2Y4WHQ0S09WOU1Dem12MVZjQnVMaWFSZ0tXbFRmcllqRHEzWGpxZmJRYVJGelNZUDVLLVktZS1lTVB5NWNzZDB3V1RmOVlQTndMb9IBgAJBVV95cUxOSzRTckRKWmtNZ2hnejZJRzM0dXJGVjF5c1EwaldQd2ZNeU14ZjFDQzFNamk5Y0xub0xNQmVNU0h5VXhlRHNSeHpGYTJCZ3RCR0NveXlpODMxYlo0MDZydWsxM255dVUxYXFrMVV6MFRBX0RLNDdnOHJuRVUyclVxNWpvcUhTTWxKVDltUE9sVndNbWl2cDg2U29kelR4Rnl0NzhMUTZpWmRuM0Rxc1RXaFE2TVF1Y0FObmppU0JkbFZvdWhOeXhKM29YOFp4QUJGZ3ozd0hwRjZMZFZXUTlEX1NOOGpzVGpWaTI4cGFic2I3em9JR0huZUl4b0NhYjdx?oc=5)
-
----
-
-### [SEMERGEN presenta una guía para abordar la obesidad en pacientes con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
-
-2026-03-24
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGg0bE1rZzZIa2I0ODJfeFlZMzBYZXNfNTk2NERkeWt1bUJEMGEwNUJfTjZqcnpUZDJZQ01QWVA1aC1LLUhodWlSN0xBaFVSOE5YT3BxbEpldEVhZm5WRURrRFNtbUtteDBTR3JtRVZiTEU0dUl3T3pmbm9qXzNGTXhGZzJsTmt3V2FWWWk1TEhtblNGR1R1OWlBRzlxZnBTN29SVVg4MnBOYVdxOWhSY2piMDVlY2pGMXZRX25sMWHSAbsBQVVfeXFMTlM2Rkl5eGR2VHR2dzhFRFFDQ0dwcUNQUEM0ZUtmclRrWU5uLS10c0tXZVM3VmpqTlluTVFyWk9GaFFtZVJHbDNVU2o2TFhxTjJNRkdrYnVydlF5dnctdVYtTGdfaU9lenItandjOG4tZFB5SU5TMGRLRW9FeW5DR3B2ZkVkZ2xhNjNLSGNsZWVaWjA5Qm03MExxalkxY1ZHWkNsVXJ5U1VNa1dfWGlMeHhsLS1oVU5yTkpsYw?oc=5)
 
 ---
 

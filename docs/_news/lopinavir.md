@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lopinavir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Großer Hepatitis-A-Ausbruch in Italien! Was Reisende kurz vor Ostern wissen sollten](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
+### [Großer Hepatitis-A-Ausbruch in Italien! Was Reisende kurz vor Ostern wissen sollten](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTJzS09PYnZSbUdoalAxQTlOeTZ4LWVrRXNZT25FT3lMNV9KcEExd0thd2ZOYkUxQUdaZ0luU00tTGZ3b1BvX2FycWVKc2FXeWZCN3ZuTVhkbmlWSDFDV3pHRnJQenRreXFNSExEWVVVc2RibG1yZWlGaHJUcl9WTlhrclpnSWd0NV9HYlU2MkxfOVZyYU84T05MbW45SzVlbkFqblJoX1oyTzRRZFo0T3RlMjgxYlRGUlR3dTJDN21CWkJEeURMSENn?oc=5)
 
-2026-03-28 <span class="news-indication-tag">hepatitis</span>
+2026-03-29 <span class="news-indication-tag">hepatitis</span>
 
-來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
+來源：[RTL.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTJzS09PYnZSbUdoalAxQTlOeTZ4LWVrRXNZT25FT3lMNV9KcEExd0thd2ZOYkUxQUdaZ0luU00tTGZ3b1BvX2FycWVKc2FXeWZCN3ZuTVhkbmlWSDFDV3pHRnJQenRreXFNSExEWVVVc2RibG1yZWlGaHJUcl9WTlhrclpnSWd0NV9HYlU2MkxfOVZyYU84T05MbW45SzVlbkFqblJoX1oyTzRRZFo0T3RlMjgxYlRGUlR3dTJDN21CWkJEeURMSENn?oc=5)
 
 ---
 
-### [Epatite A, sanzionate tre pescherie a Napoli: sequestrati 70 chili frutti di mare - la Repubblica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWFEUG1fSWxCNWRQMDFxVkVkTUpaWlI4T3pCVWVSandrbVBDZkRKQVZIYUd3c1RBckEzczRQeXNjUFFsMWM4WVpsS1kzSFc5eG13ZEVWeW5oWXk2LWwwUzVPTTBZV0xUbUk0ZWszMkI2RDY5S0luM0tNeHVTWW5td3ZsQkhCYWowcEZrUmJHckxoVXFzRXdMVmc1bU0wWTZ1bzBKNk9OelE2V1FDSWpXTEtnekJpamJfbHdBQ0UzT2JyMm1PVDViYTNJV3lkRGZhMmRkbDdLUTNmZ2fSAeABQVVfeXFMT3F2MHg5ZmloX3pEaEpTb3FxcWRuZGtzMWVNQ2k4ZU5oLXlscXRWdmRYZGVNcU5HVmI5UmhZY000T2c4cWYtWXd2OHI5WlM0aGFvbkpvaXZhOWpEVVRvQm16bk82SXMtQWJQLTltaXNJaE1UTHAyTFdNbVhUMWZybHZ0eXU3WnJyUVdXVGlCbEtaZ1l6bW12dTBTMkNndmdpa1QzUDF1eGNxZTh3NktHS0JET1hyTHptUWE0Q2ZyX0pjRlczYUNHeTl4akl4OE9NVEtGT0EtaVZDUTY4SzJOU08?oc=5)
+### [Pozzuoli, epatite A: «Comparto ittico flegreo al tracollo: servono aiuti per gli operatori» - Il Mattino](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYVhFcGFhT2g3Y1VXQ29OSkF3VGVXU19QOGhTajB0Slp4TUk3Nm5mZXFXV3BmTVFKd01uNE9fMm5aeExIMXBWS005UjJIeGJYeWdYNjhxS25TaWhYcjMzTlFmRElhLVJ2ZE5VZEg2QWV6bHFNMkJWSDNSRTNuR01MWHktOFFGVG44bHZxYVlHRmtscnRxeExuenFhZ3NyQ0NFeXFxcFB1OVdZTk1YbjFkaUJ6WHNtd2VNLXJRQk9IRVVnZzQ2TGNLNS1VUkMtRjl4WFNQRk9nRTgzTGNPT2s4enpKclRmM2xwSUpwaUlkT1fSAdwBQVVfeXFMT2pwLXA4VmtHc0k4S0l2ZnFwLTlNNncxdlRaQ25HSVdZejgtSFQwXzhQWmwwejBZZDBCbmpjY1R6NzJXT1h0a3c4Y0Q1ZC12aWNyMzVENDhUUXRGeDhwWUVvdWp5dVU2eXVyOXItVV95NjJlUkc0UWhQamdsNUxaTXJUdk1qWV9OeWRhZmVuRnR6RVhmVU1xWjdDaEVZS0UtNkh3ZEtGRmFSMlpDX3NPQ0pvc3hLUkxZWTlfRWE3YWJ6TndTTkJmOHNtT2JUUFRaTjlWNXlOOVhjM29scw?oc=5)
 
 2026-03-28 <span class="news-indication-tag">epatite</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWFEUG1fSWxCNWRQMDFxVkVkTUpaWlI4T3pCVWVSandrbVBDZkRKQVZIYUd3c1RBckEzczRQeXNjUFFsMWM4WVpsS1kzSFc5eG13ZEVWeW5oWXk2LWwwUzVPTTBZV0xUbUk0ZWszMkI2RDY5S0luM0tNeHVTWW5td3ZsQkhCYWowcEZrUmJHckxoVXFzRXdMVmc1bU0wWTZ1bzBKNk9OelE2V1FDSWpXTEtnekJpamJfbHdBQ0UzT2JyMm1PVDViYTNJV3lkRGZhMmRkbDdLUTNmZ2fSAeABQVVfeXFMT3F2MHg5ZmloX3pEaEpTb3FxcWRuZGtzMWVNQ2k4ZU5oLXlscXRWdmRYZGVNcU5HVmI5UmhZY000T2c4cWYtWXd2OHI5WlM0aGFvbkpvaXZhOWpEVVRvQm16bk82SXMtQWJQLTltaXNJaE1UTHAyTFdNbVhUMWZybHZ0eXU3WnJyUVdXVGlCbEtaZ1l6bW12dTBTMkNndmdpa1QzUDF1eGNxZTh3NktHS0JET1hyTHptUWE0Q2ZyX0pjRlczYUNHeTl4akl4OE9NVEtGT0EtaVZDUTY4SzJOU08?oc=5)
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYVhFcGFhT2g3Y1VXQ29OSkF3VGVXU19QOGhTajB0Slp4TUk3Nm5mZXFXV3BmTVFKd01uNE9fMm5aeExIMXBWS005UjJIeGJYeWdYNjhxS25TaWhYcjMzTlFmRElhLVJ2ZE5VZEg2QWV6bHFNMkJWSDNSRTNuR01MWHktOFFGVG44bHZxYVlHRmtscnRxeExuenFhZ3NyQ0NFeXFxcFB1OVdZTk1YbjFkaUJ6WHNtd2VNLXJRQk9IRVVnZzQ2TGNLNS1VUkMtRjl4WFNQRk9nRTgzTGNPT2s4enpKclRmM2xwSUpwaUlkT1fSAdwBQVVfeXFMT2pwLXA4VmtHc0k4S0l2ZnFwLTlNNncxdlRaQ25HSVdZejgtSFQwXzhQWmwwejBZZDBCbmpjY1R6NzJXT1h0a3c4Y0Q1ZC12aWNyMzVENDhUUXRGeDhwWUVvdWp5dVU2eXVyOXItVV95NjJlUkc0UWhQamdsNUxaTXJUdk1qWV9OeWRhZmVuRnR6RVhmVU1xWjdDaEVZS0UtNkh3ZEtGRmFSMlpDX3NPQ0pvc3hLUkxZWTlfRWE3YWJ6TndTTkJmOHNtT2JUUFRaTjlWNXlOOVhjM29scw?oc=5)
+
+---
+
+### [Décès d'Isabelle Mergault d'un cancer du poumon métastasé : quels symptômes ? - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
+
+2026-03-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">hépatite</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTdBcHJRM3N5VUxyUTNkTlJrUllSY1ktcHR4X1daMVE0eHItOUFIWEdVZEdxR2FpRUVsMWtCZkxiU1pjZU9ONTgzWWVYdllMdHpGLTVkMXN5V2NFelhSVUlPWWFJWXYxUUdoVG1RUktCZkszS0lkbmJsd2tXejJkRV9FTkw5Z3U5ZVJIeWVtYUxlZw?oc=5)
 
 ---
 
@@ -65,22 +73,6 @@ permalink: /news/lopinavir/
 2026-03-28 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
-
----
-
-### [Dra. Ainhoa Muguruza, pediatra de Policlínica Gipuzkoa: “Es vital mantener actualizado el calendario vacunal para evitar la propagación del sarampión”](https://news.google.com/rss/articles/CBMilAJBVV95cUxOWlVuY0ItNjdQNlNNUTY2YWRJSHdhUzM3MjJGTHdKazA1czMwRkxMQzdyVDdNRUY0M1EyS0RlcklJNmxwaThneUVtYi1LdEtYVTd1SF8yeWV2RUtkZkRSSlhIMERlRTlGM3NoVm5xZkE4SEswbW1aVGRELU4tQm4yQ1RxNk1yQUYzbVdOZVAzX19VckpSYzFaeVBGUUFLSEdhZHE5RW1WbFQxVnVjS1dvZ3p2NmthRFBJR0swQVYtUnFkdmdtbjV3dURPblBKQ1ZkQlFFd1JMOXpiMkVFQzh0VHlTcnhLQU85c3R6bDRWbnk4VWVOeTMtUDdwMVFEejUwOTdIeE8tWHRXVm83ODBJamdZenA?oc=5)
-
-2026-03-27 <span class="news-indication-tag">hepatitis</span>
-
-來源：[GipuzkoaGaur](https://news.google.com/rss/articles/CBMilAJBVV95cUxOWlVuY0ItNjdQNlNNUTY2YWRJSHdhUzM3MjJGTHdKazA1czMwRkxMQzdyVDdNRUY0M1EyS0RlcklJNmxwaThneUVtYi1LdEtYVTd1SF8yeWV2RUtkZkRSSlhIMERlRTlGM3NoVm5xZkE4SEswbW1aVGRELU4tQm4yQ1RxNk1yQUYzbVdOZVAzX19VckpSYzFaeVBGUUFLSEdhZHE5RW1WbFQxVnVjS1dvZ3p2NmthRFBJR0swQVYtUnFkdmdtbjV3dURPblBKQ1ZkQlFFd1JMOXpiMkVFQzh0VHlTcnhLQU85c3R6bDRWbnk4VWVOeTMtUDdwMVFEejUwOTdIeE8tWHRXVm83ODBJamdZenA?oc=5)
-
----
-
-### [Un brote sin precedentes de casos de hepatitis A lleva a la alcaldía de Nápoles a prohibir la venta de mariscos crudos en los restaurantes](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
-
-2026-03-24 <span class="news-indication-tag">hepatitis</span>
-
-來源：[ipacuicultura.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNTNJdFk0eXd0MlpSWEdNRHRLd0cyWDYtTXZ5X0VKUmtNcXphRmdzeTcySnl2djRWNW4wSHB4M0dSdVFRRjZjdWNLbjg3U2dhSTRTaVd5TjFXSlM4RDVzMzRYS0FoMWFNS3djN2RTQnJieEk?oc=5)
 
 ---
 

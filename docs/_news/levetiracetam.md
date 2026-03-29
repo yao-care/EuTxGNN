@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/levetiracetam/
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Camille, Réunionnaise de 5 ans atteinte d’épilepsie, doit subir une opération du cerveau](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1JPSWg4a1ZMSW4tbTFTdjhQRXl2Q2dUWkVWdy1rdEczSER4YXAzODNmdEsydjdqV1NjR0ppQ3YyYkZNUllpWTg4Q3JvbWhqamRMczVMamNXb051Zk4tX1pXQ2t3bUZ4Um5mcGQ5aENiMXlnbnRSNlBPYzNHZEh2OXRGUlMyekJXRk1RUHcxZ0tVWVhCVGRyTVEweTZvUUpiMFhKc3FXRzVzdGViNWtScnJEMmZzUjhFR09JUlhybVgzdlBKWjdpV2duS3lreVE?oc=5)
-
-2026-03-28 <span class="news-indication-tag">épilepsie</span>
-
-來源：[Linfo.re](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1JPSWg4a1ZMSW4tbTFTdjhQRXl2Q2dUWkVWdy1rdEczSER4YXAzODNmdEsydjdqV1NjR0ppQ3YyYkZNUllpWTg4Q3JvbWhqamRMczVMamNXb051Zk4tX1pXQ2t3bUZ4Um5mcGQ5aENiMXlnbnRSNlBPYzNHZEh2OXRGUlMyekJXRk1RUHcxZ0tVWVhCVGRyTVEweTZvUUpiMFhKc3FXRzVzdGViNWtScnJEMmZzUjhFR09JUlhybVgzdlBKWjdpV2duS3lreVE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
