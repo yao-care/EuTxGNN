@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Boston Scientific's CHAMPION-AF Trial Confirms WATCHMAN FLX Effectiveness In Stroke Risk Reduction](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWMzUU9CS09ZZ3MybkwyTHRnWUU0c09sOHVJLXA3aFNybVl1T0k0ZlVjWHdmSmV6ZFNEbUtaXzhIQWctOGlaYzFaeU9yWTV4dFFQcGRrNG9WMmI0YWhKdVB4azBJSTk1WWNfaW9YUXpIR2pYb3dYT0pqcHZ4WUtjR2hqRDR6X09yak1mQUhyN0RpcXR3ZENSQmpfQ3R6dWpoRk02M013eDZfWjVkNFBweU9iTDZzSVJUcF82NmtPa0I4bUx6WTNtQU1hdlgwbTBOazJpTDdkTzZnWm12bnRtb0lJWlpuTC1JLVkza0lXUHRMbXdNNDJ3T3dXeks?oc=5)
 
 2026-03-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWMzUU9CS09ZZ3MybkwyTHRnWUU0c09sOHVJLXA3aFNybVl1T0k0ZlVjWHdmSmV6ZFNEbUtaXzhIQWctOGlaYzFaeU9yWTV4dFFQcGRrNG9WMmI0YWhKdVB4azBJSTk1WWNfaW9YUXpIR2pYb3dYT0pqcHZ4WUtjR2hqRDR6X09yak1mQUhyN0RpcXR3ZENSQmpfQ3R6dWpoRk02M013eDZfWjVkNFBweU9iTDZzSVJUcF82NmtPa0I4bUx6WTNtQU1hdlgwbTBOazJpTDdkTzZnWm12bnRtb0lJWlpuTC1JLVkza0lXUHRMbXdNNDJ3T3dXeks?oc=5)
+來源：[finanznachrichten.de](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWMzUU9CS09ZZ3MybkwyTHRnWUU0c09sOHVJLXA3aFNybVl1T0k0ZlVjWHdmSmV6ZFNEbUtaXzhIQWctOGlaYzFaeU9yWTV4dFFQcGRrNG9WMmI0YWhKdVB4azBJSTk1WWNfaW9YUXpIR2pYb3dYT0pqcHZ4WUtjR2hqRDR6X09yak1mQUhyN0RpcXR3ZENSQmpfQ3R6dWpoRk02M013eDZfWjVkNFBweU9iTDZzSVJUcF82NmtPa0I4bUx6WTNtQU1hdlgwbTBOazJpTDdkTzZnWm12bnRtb0lJWlpuTC1JLVkza0lXUHRMbXdNNDJ3T3dXeks?oc=5)
+
+---
+
+### [«J’ai perdu du poids mais j’avais des effets secondaires»: Wegovy et Mounjaro, ces traitements «miracles» contre l’obésité ne conviennent pas à tout le monde - Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
+
+2026-03-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
 
 ---
 
@@ -60,14 +68,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Ictus e infartos no llegan de repente: un estudio con más de 9 millones de personas analizadas demuestra que hay cuatro factores de riesgo que se repiten de forma sistemática](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVVRkMmVsNnQwaGcwMlpsVDE3OGc0V0hOY1o0aDFoWnlVbmIxaE1OZ1NJcXNaU2cyUmVoampFcWNpOGN2NnlndWxCWUFES2ptN21jWVMyZHhsXzFlQXJtTUpqUUhPOVZNUGRyeVlDUXNLSVY4VGpZbmdURlgyUVJFT2V4U2x2LWtzVmliV3FEeUk3eUlFZVduNHFzemYxMG1mMWM5dDJYbXNtcjdZNlgzLS1CdjhsQ1NFcE1XV3ZBM0Y4RzJhZTA1UTJQZ3ZlRmlIOW9JcXVMOHRiYndONXVr0gHkAUFVX3lxTE1mUkdCeE95ZUhMQkZtUXhGYjhxemlVdDVyaG9LaGl6RG1yc0syWlJIeGI0Yk10NXFvemhwdlFfSDhScTdzZmtoOElpQ0E1bmFycWI1aUY1a2EtLTU3c241MGJhTlhjWnRaSHN0bTdZbWZ1d0YwTXEtNGFiWC1nVHVfMkhLdk1JTlprTERzVWFZUnNWUm1raHhYc3ZFQUFndWZFRnQzNTJJZEZsQVVSNkNhRC1kb0ttX2w4Y3JGeTNPODZzbDM4X3dtLWc4LVNjZThhUkRFaFNtVUlZNGhvT3lYYUVJLQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">ictus</span>
-
-來源：[Trendencias](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVVRkMmVsNnQwaGcwMlpsVDE3OGc0V0hOY1o0aDFoWnlVbmIxaE1OZ1NJcXNaU2cyUmVoampFcWNpOGN2NnlndWxCWUFES2ptN21jWVMyZHhsXzFlQXJtTUpqUUhPOVZNUGRyeVlDUXNLSVY4VGpZbmdURlgyUVJFT2V4U2x2LWtzVmliV3FEeUk3eUlFZVduNHFzemYxMG1mMWM5dDJYbXNtcjdZNlgzLS1CdjhsQ1NFcE1XV3ZBM0Y4RzJhZTA1UTJQZ3ZlRmlIOW9JcXVMOHRiYndONXVr0gHkAUFVX3lxTE1mUkdCeE95ZUhMQkZtUXhGYjhxemlVdDVyaG9LaGl6RG1yc0syWlJIeGI0Yk10NXFvemhwdlFfSDhScTdzZmtoOElpQ0E1bmFycWI1aUY1a2EtLTU3c241MGJhTlhjWnRaSHN0bTdZbWZ1d0YwTXEtNGFiWC1nVHVfMkhLdk1JTlprTERzVWFZUnNWUm1raHhYc3ZFQUFndWZFRnQzNTJJZEZsQVVSNkNhRC1kb0ttX2w4Y3JGeTNPODZzbDM4X3dtLWc4LVNjZThhUkRFaFNtVUlZNGhvT3lYYUVJLQ?oc=5)
-
----
-
 ### [Farmaci anti-obesità: efficaci, ma non alla portata di tutti. Presto potrebbe cambiare - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdNSktHS000VFRfdDhuNXQ2R09BWVFRM3lFSEo2dUR3Q1NhU0pES2pyOG1Ta2hNdml5NFByeTZPcUZGU3ZJWm5hYkYzR095QlVIbTJzN055ZExVeEV5dDdJVXlLMXZXeUFhRTRNRmJvMEFseVVEWXRvN0NUMFprZEtTSXowSm1BUWt0MkxEcnIycnI2dkpGU0dlNk9temNrMVhoczBsVVZCOUVyQk9qcUIwOXk5WVdLcHBZ?oc=5)
 
 2026-03-26 <span class="news-indication-tag">obesità</span>
@@ -76,11 +76,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [La ricetta contro infarto e ictus? Solo 11 minuti di sonno e 5 di attività fisica in più al giorno - la Repubblica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlFSU3drQkJxb0sxTTNCLVpXTnRLM0xhLW00VWM3V0hMUjVqSjBLeElCV2FKSWtvODRtNEE2MTdoUzBDNjhLV0JMVHNmeFJjc0ZpNk54NHE3elA2eUhNcGZPRms3eW4zcnVCSW53X3JET1JIeC1VNTloeHFpQ2tCUy1uYVBCSmRTVjdPR2ZTb0ZuRF9rWnhpWWVRTTV1amJwYTlPZWI3VHRLY05xT3RPQlEwT3llZVVOT3dLOG1OdmtsMWvSAcgBQVVfeXFMTVM5eGZSYzhGLTk0cElWYmthcDB6ZWpKUkdreTB5WlBkTnVwSFAySmhZblA0OHNtVFNuQndEQWpPd1M5QzVCMXNNQlBOcFdBUHhJMTJDV014N2hGOWNTMjlmZUhhN05zS3ozUXBFNmtrd0dKZHRlcV80TlJla21kaEZoSUg4bDlQYTlLS0M2Mk01dV9MRGFUUk1fc2wweW12SWZ3RTMyWWl1ZzFuclVHOE5CV0VmN3Z2R0ZMOHd4TDlWRjU0RXVySWg?oc=5)
+
+2026-03-26 <span class="news-indication-tag">ictus</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlFSU3drQkJxb0sxTTNCLVpXTnRLM0xhLW00VWM3V0hMUjVqSjBLeElCV2FKSWtvODRtNEE2MTdoUzBDNjhLV0JMVHNmeFJjc0ZpNk54NHE3elA2eUhNcGZPRms3eW4zcnVCSW53X3JET1JIeC1VNTloeHFpQ2tCUy1uYVBCSmRTVjdPR2ZTb0ZuRF9rWnhpWWVRTTV1amJwYTlPZWI3VHRLY05xT3RPQlEwT3llZVVOT3dLOG1OdmtsMWvSAcgBQVVfeXFMTVM5eGZSYzhGLTk0cElWYmthcDB6ZWpKUkdreTB5WlBkTnVwSFAySmhZblA0OHNtVFNuQndEQWpPd1M5QzVCMXNNQlBOcFdBUHhJMTJDV014N2hGOWNTMjlmZUhhN05zS3ozUXBFNmtrd0dKZHRlcV80TlJla21kaEZoSUg4bDlQYTlLS0M2Mk01dV9MRGFUUk1fc2wweW12SWZ3RTMyWWl1ZzFuclVHOE5CV0VmN3Z2R0ZMOHd4TDlWRjU0RXVySWg?oc=5)
+
+---
+
 ### [Obesidad y cáncer: por qué un panel internacional pide ya un ensayo con semaglutida y tirzepatida para prevenir tumores](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
 
-2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[infosalus.com](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
 
 ---
 

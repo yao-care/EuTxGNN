@@ -14,7 +14,7 @@ permalink: /news/melphalan-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Melphalan Hydrochloride 有什麼相關新聞？">
-<strong>Melphalan Hydrochloride</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melphalan Hydrochloride</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/melphalan-hydrochloride/
 <p><a href="{{ '/drugs/melphalan-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（22 則）
+
+### ['This climb is for Alison and for every family in Northern Ireland affected by blood cancer' - Belfast Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkx4NEJUQ09hSFNMSHo2SFRpTWRrM1FvOWZMRW9lbW1LeEc0VUN5cEZGNk1XOVFvUFYwYjBseEp6T3d1cS1fMFBlclFCRjZyN1k5UEIyTEw4Ull1YnJGZ0pjYkx2NzRpLTFRMHlZZ3Zhc1R5V2RyRW5DOS1XRW56amx2M2J1UkZhazlZMjkxT0VyTkowRUHSAZsBQVVfeXFMTnUtWlEySUF4b1lYZXJ5bXJBUVV5MlhRS2hJUi1MemtabUJib0RtLWFOaHYyWVc4ZU80VUk5d2RUZG9jWVNLMHpEUlMzQ0EzTkhtQkJibGRxakxXcGRfYXZTWmN3MVdKWmQ5UVpteTFxRy1XWUI2RExhZWl4S3dqcTBNa2hHSWVLMU83NUZCOVljVUNBVlpsWW01d1E?oc=5)
+
+2026-03-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkx4NEJUQ09hSFNMSHo2SFRpTWRrM1FvOWZMRW9lbW1LeEc0VUN5cEZGNk1XOVFvUFYwYjBseEp6T3d1cS1fMFBlclFCRjZyN1k5UEIyTEw4Ull1YnJGZ0pjYkx2NzRpLTFRMHlZZ3Zhc1R5V2RyRW5DOS1XRW56amx2M2J1UkZhazlZMjkxT0VyTkowRUHSAZsBQVVfeXFMTnUtWlEySUF4b1lYZXJ5bXJBUVV5MlhRS2hJUi1MemtabUJib0RtLWFOaHYyWVc4ZU80VUk5d2RUZG9jWVNLMHpEUlMzQ0EzTkhtQkJibGRxakxXcGRfYXZTWmN3MVdKWmQ5UVpteTFxRy1XWUI2RExhZWl4S3dqcTBNa2hHSWVLMU83NUZCOVljVUNBVlpsWW01d1E?oc=5)
+
+---
+
+### [Pancréas, poumon, côlon : des robots moléculaires autonomes s'attaquent aux cancers que la médecine redoute le plus - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd01vNER2QXVLdGtkZUJRZF82SFYydUtlbTRhbHVLbkRDLVlPLXI3MVZ0a2ZxLW9NRDE1eGloNWQwN25xOUVWckFCYlloeGgzR0hXLS1la09LNUFtT3RnR2M5bFJHNDhSSnBxTEJRTUFxeGswVjJGU2JhMjExNHVUSXNYcE55OGdvemp3dW80cWNKbEhGX1hLd2JoUFA1dFRPbW5zTE9QMGIwX3RIT2pybVdxUC04aG1nQnQ4RjhPUGxWbXlLZU11VkdwS1BVR3BMdE5sWmtKcl9yT2k0cmhtYWRUbG84ZXZYVW5v?oc=5)
+
+2026-03-28 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd01vNER2QXVLdGtkZUJRZF82SFYydUtlbTRhbHVLbkRDLVlPLXI3MVZ0a2ZxLW9NRDE1eGloNWQwN25xOUVWckFCYlloeGgzR0hXLS1la09LNUFtT3RnR2M5bFJHNDhSSnBxTEJRTUFxeGswVjJGU2JhMjExNHVUSXNYcE55OGdvemp3dW80cWNKbEhGX1hLd2JoUFA1dFRPbW5zTE9QMGIwX3RIT2pybVdxUC04aG1nQnQ4RjhPUGxWbXlLZU11VkdwS1BVR3BMdE5sWmtKcl9yT2k0cmhtYWRUbG84ZXZYVW5v?oc=5)
+
+---
 
 ### [Tumore durch Stress oder Neurosen? Das Märchen von der "Krebspersönlichkeit"](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkh4cVROdmJoRmRSbm5pcnZTMWFRQkp2VEZYMGRoTEtpTS1MYTJreUxZczVkYkFlc0xjXzExT3l0YUEzS1BqanRibExIYm5va0EyRlNsMDFvaTZLOUFRYkxCTDFPUk83RE00aEJtcmNCTDZKeU5VYUhLdWRjRXJsOGpoYzIwTXIyU1RtX3lBMUFxR3pXX2VzVmwwMnBVVGFiSktiVg?oc=5)
 
@@ -148,14 +164,6 @@ permalink: /news/melphalan-hydrochloride/
 
 ---
 
-### [EMA: Neue Therapien bei Blasenkrebs und bei Lungenkrebs in Sicht](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHRJTldzMWRTN05tYm5VbzJEVFc4WnN5RFlnS0JjOE41V29qRHFVbkQ2d2tBNG5UajRkOWxYWmlrd3JaaVNEb1BPaWd5T0QwVko3MnF5dENyN3JLNEJUa241WGdRWFN5SmhUUEtTdzFIek1iRkxQenpLYm11Y05jaE1SeF8wbjFpNFZXMjd2T2lPU3prak1JTVVVeGdXMV9ibGNha05EeWFsb3dYZThON2hJWnZKSnR0Wl93?oc=5)
-
-2026-03-27 <span class="news-indication-tag">Krebs</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHRJTldzMWRTN05tYm5VbzJEVFc4WnN5RFlnS0JjOE41V29qRHFVbkQ2d2tBNG5UajRkOWxYWmlrd3JaaVNEb1BPaWd5T0QwVko3MnF5dENyN3JLNEJUa241WGdRWFN5SmhUUEtTdzFIek1iRkxQenpLYm11Y05jaE1SeF8wbjFpNFZXMjd2T2lPU3prak1JTVVVeGdXMV9ibGNha05EeWFsb3dYZThON2hJWnZKSnR0Wl93?oc=5)
-
----
-
 ### [The health benefits of prunes revealed... and how they could be a key weapon in the fight against cancer - Daily Mail](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHNNRGFfSDR1UE11RUVhbkprSF9ESUpUWExIODR6WWNaXzdiNWtaLXZHMTJRX1BSemhSNzBWbENJbGFJT0w1RXRDWE4tYm85VzEwN0VmeVVJaUVBM3ZlY2lNWGoxcDVJWlNyWHM5SFIxMjN5UmNYRnJrOFloVTNEaVktQzQ1MXlIQjRUb21tTDJIalM0dUFDU1ZYRnlPZnVzaGJBaTRB?oc=5)
 
 2026-03-27 <span class="news-indication-tag">cancer</span>
@@ -169,14 +177,6 @@ permalink: /news/melphalan-hydrochloride/
 2026-03-27 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMFVJakdBTzBiV0FNTjdMRTVTbHYzSXZRSWltVzcwemI3Y0tWTzloSXl1Vlg0c0doSXVIdUxfOG8xc1ZWT2pvb3VuWjBsdHRMeW5VTC1QaERqOThpY0R6WWJCRTNHeVFrMkpjLTVYUGVzbmxIX3lZV0NxcVc1VG1tdHBGc3pILUVKZ3daRzdicUVMVUdHNEZqbW45NHV1VFNtTG42WW5rejF6czVyY1Vqck1yMTBVN1hPemlzTTNrNWUydGM1SUo1SnhsdHZoZkNNUjRhWFNNblptbS02NUdFSGQzU1diN1FieGZwSDNR?oc=5)
-
----
-
-### [‘My father and I both have prostate cancer. Dad felt so guilty when I was diagnosed at 42’ - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1dhNUtyYTIyOVQ5MmtmZ3hFNkgzXzVPZC10T2ZHeURZa0JzX0VHVFpzYWdfN1JMejN5aG9RdlMzNVhWQW5EUmRPejNtZFd0T2Z1YmFrdzY3WVVSNTNGTlBNYXQ5SU9ZeE1tbUcyMUpmMVhQN0swb2dDUHIxcXVoTTlqSDlDZmhjc2ZyLWtGQ0FIOGRBbGZTYTV0RUhtS0xvV2pwQmpR?oc=5)
-
-2026-03-27 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1dhNUtyYTIyOVQ5MmtmZ3hFNkgzXzVPZC10T2ZHeURZa0JzX0VHVFpzYWdfN1JMejN5aG9RdlMzNVhWQW5EUmRPejNtZFd0T2Z1YmFrdzY3WVVSNTNGTlBNYXQ5SU9ZeE1tbUcyMUpmMVhQN0swb2dDUHIxcXVoTTlqSDlDZmhjc2ZyLWtGQ0FIOGRBbGZTYTV0RUhtS0xvV2pwQmpR?oc=5)
 
 ---
 
@@ -196,43 +196,27 @@ permalink: /news/melphalan-hydrochloride/
 
 ---
 
-### [Stadio San Siro hub della salute, sabato vaccinazioni per tutti](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXZ5b0NqRzdIemV5RTF4VHBfS1lrXzdSY3J1VjlzSUhudkVRUEZmdXJuTXdKRV9nSFJYblhKaktoTEtYOUt2S2x0N2FCcG40VENwQV9FT1VoN0NXaU1IUjZidVB4T0xvX3doMDZWNko4cWtFUmVpenYzem10N29EMlV0cXc2Uk5TaERtVjBZOUR6cDI5Tld0REtyWUV4SUpSdTMxOUFlcDFuUEoxZ0Vv0gGYAUFVX3lxTFAyZHZNWXFJdXNoWngtVG9fanBSTjJWVHJXVEJURnozYVpodW5ERWtRQm5fVExiTVoxSlpfNWx3Q1B3UFBRSUg0NUdWT2IxY2dkVkVUWWI1NGRvTF9HVFZKZmh6SHdaQ1ZnUXBEMnZydFhoUmRuMTRXWG83eHcyb0haVGlSWlZ6QTQyWlE3M2ZyWjR5Ynk1OHRH?oc=5)
+### [Reflusso e prevenzione oncologica: la rivoluzione del nuovo Centro Esofago e Reflusso al San Donato - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2J3d1FTZVc1X1FSdkJhZ0dRVHR4SWo4UzR4cWtBSzdLZlRWOVZBYld2aFd5YWVxS2Ixc2t3S3NkRm5PTXBCQjJsRVVMdmZEUVlXbWdYS0pYRDkwLVdGMm1jTjVpRVNROVNxOWc3QXlwVW9abnh0VHROOE5FYXo2VXN5N3Y1QXBfeG1HV1Q0cjl4QmZiNWRqUzY5c1FzR3pUSjdsaml5S2RIT3JxMG1F0gG0AUFVX3lxTFBuSVpobDk3Ry1JdlF2bk5KVnFQUFM4X29tYldfR0ZxLXJhUkJURkRfa0tsb3lHN1BMRmdfc0ZmQ1lXbXNBYnk5M3dybmg3Rjl0VERkcGxPenlKRmdGRGlwa2UzSm5WbnNLWFQ4RDc3c0xja2pIRTkwRFVGOWxlaklvZG5JWE15blBpYVFDWFJ5NnFKYzVmUTF1dFhuRU85MGZUOTQ2SWlJYjJUQ1pGSHpMYmN4Ng?oc=5)
 
 2026-03-26 <span class="news-indication-tag">tumor</span>
 
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXZ5b0NqRzdIemV5RTF4VHBfS1lrXzdSY3J1VjlzSUhudkVRUEZmdXJuTXdKRV9nSFJYblhKaktoTEtYOUt2S2x0N2FCcG40VENwQV9FT1VoN0NXaU1IUjZidVB4T0xvX3doMDZWNko4cWtFUmVpenYzem10N29EMlV0cXc2Uk5TaERtVjBZOUR6cDI5Tld0REtyWUV4SUpSdTMxOUFlcDFuUEoxZ0Vv0gGYAUFVX3lxTFAyZHZNWXFJdXNoWngtVG9fanBSTjJWVHJXVEJURnozYVpodW5ERWtRQm5fVExiTVoxSlpfNWx3Q1B3UFBRSUg0NUdWT2IxY2dkVkVUWWI1NGRvTF9HVFZKZmh6SHdaQ1ZnUXBEMnZydFhoUmRuMTRXWG83eHcyb0haVGlSWlZ6QTQyWlE3M2ZyWjR5Ynk1OHRH?oc=5)
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2J3d1FTZVc1X1FSdkJhZ0dRVHR4SWo4UzR4cWtBSzdLZlRWOVZBYld2aFd5YWVxS2Ixc2t3S3NkRm5PTXBCQjJsRVVMdmZEUVlXbWdYS0pYRDkwLVdGMm1jTjVpRVNROVNxOWc3QXlwVW9abnh0VHROOE5FYXo2VXN5N3Y1QXBfeG1HV1Q0cjl4QmZiNWRqUzY5c1FzR3pUSjdsaml5S2RIT3JxMG1F0gG0AUFVX3lxTFBuSVpobDk3Ry1JdlF2bk5KVnFQUFM4X29tYldfR0ZxLXJhUkJURkRfa0tsb3lHN1BMRmdfc0ZmQ1lXbXNBYnk5M3dybmg3Rjl0VERkcGxPenlKRmdGRGlwa2UzSm5WbnNLWFQ4RDc3c0xja2pIRTkwRFVGOWxlaklvZG5JWE15blBpYVFDWFJ5NnFKYzVmUTF1dFhuRU85MGZUOTQ2SWlJYjJUQ1pGSHpMYmN4Ng?oc=5)
+
+---
+
+### [Microbiota intestinale: cos’è e perché è così importante - Giornale di Brescia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmdYSEJvYjJYRFljQlBacld0Mm8weDVFbWZNaG5oTHIzcjhXZ3E4aklERHlnWUVMMWRWSlVjMVUtYWgtSUk3TVlQSGZqTGZkXy1oQ2U2V2EyOFlJZF9yVjNfR1ZSLThGQlJTSDJWUWxUR1RSdzJRSzhxc0Y1WVNhRkd2ekdUVjhrLUFzc2E1NWFVYThjVmdCeUZONGtfNmRJVE1kQjE3aXg3Rko1VEtSVnFZMA?oc=5)
+
+2026-03-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmdYSEJvYjJYRFljQlBacld0Mm8weDVFbWZNaG5oTHIzcjhXZ3E4aklERHlnWUVMMWRWSlVjMVUtYWgtSUk3TVlQSGZqTGZkXy1oQ2U2V2EyOFlJZF9yVjNfR1ZSLThGQlJTSDJWUWxUR1RSdzJRSzhxc0Y1WVNhRkd2ekdUVjhrLUFzc2E1NWFVYThjVmdCeUZONGtfNmRJVE1kQjE3aXg3Rko1VEtSVnFZMA?oc=5)
 
 ---
 
 ### [Obesidad y cáncer: por qué un panel internacional pide ya un ensayo con semaglutida y tirzepatida para prevenir tumores](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
 
-2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+2026-03-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[infosalus.com](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
-
----
-
-### [I blamed my shoulder pain on sleeping funny. It was cancer - Daily Mail](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2ZMV3cyZFVrME43MjFOX1UtVzFwN2lyNm5IUUl6RnZLT2xHQlQ2ZHh2YzNwTmZSOFVoQnRDN241WnF4UEhxNTg4d1RfQmYxcUcya2ZZMWtsU0VFMHBuMlozN2c3UUNRLUlvZWlsb2Q3UWVyM1A1N20wbHFiQ055c3R1TEV3R3B0MnZJVXRRZEVCZV9sUXc?oc=5)
-
-2026-03-26 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2ZMV3cyZFVrME43MjFOX1UtVzFwN2lyNm5IUUl6RnZLT2xHQlQ2ZHh2YzNwTmZSOFVoQnRDN241WnF4UEhxNTg4d1RfQmYxcUcya2ZZMWtsU0VFMHBuMlozN2c3UUNRLUlvZWlsb2Q3UWVyM1A1N20wbHFiQ055c3R1TEV3R3B0MnZJVXRRZEVCZV9sUXc?oc=5)
-
----
-
-### [Common blood pressure drug can boost cancer treatment](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUNYVHhYVDNKTzRHa21HU1FBcDRlb1g3MkRxUUdMOFgtMGptT3NDbDgwNU11S29PMG5xZDVhakVwOTh0UGl1d2NNcHVWZE9yT1dkM1M5ZXdoRGNWejNjQ3d6ZkgzV3VDamx0OE1nN05ZWWYyTVRzSmYzd3RsR2JNWlN3?oc=5)
-
-2026-03-25 <span class="news-indication-tag">cancer</span>
-
-來源：[medicalxpress.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUNYVHhYVDNKTzRHa21HU1FBcDRlb1g3MkRxUUdMOFgtMGptT3NDbDgwNU11S29PMG5xZDVhakVwOTh0UGl1d2NNcHVWZE9yT1dkM1M5ZXdoRGNWejNjQ3d6ZkgzV3VDamx0OE1nN05ZWWYyTVRzSmYzd3RsR2JNWlN3?oc=5)
-
----
-
-### [How inflammation may prime the gut for cancer](https://news.google.com/rss/articles/CBMifkFVX3lxTE5FR3AzVmk2MGNRZGFjbjVCcmF1YWk2TzB3X2xXR0xjQkZ3ellUQ0ZqeTQ5VkJaWXU2SGkyeEVnQVlUcWlva2VyUGJFV2N0V3ctSVJreEJTZWVLcE5DNkd5R1dHSlEzRV84YlREcDZDTF82bHVfeDhJb0RYSFhBdw?oc=5)
-
-2026-03-25 <span class="news-indication-tag">cancer</span>
-
-來源：[medicalxpress.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5FR3AzVmk2MGNRZGFjbjVCcmF1YWk2TzB3X2xXR0xjQkZ3ellUQ0ZqeTQ5VkJaWXU2SGkyeEVnQVlUcWlva2VyUGJFV2N0V3ctSVJreEJTZWVLcE5DNkd5R1dHSlEzRV84YlREcDZDTF82bHVfeDhJb0RYSFhBdw?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDZEODI5ek5zS2gzT0JBYnJKbUE3SDJFcl9vU2JDSWFpWFVBR0dZUk8tSlRLanM2NmJZcXNHQ2RTcFVFOF84QlJPdTdKR2FJX1pncnRrcUJuZlJrNE9SVHdEYXpVcUh2RzBOZEJmOE1BQV82bHhDS2paUmh1YTFzbzFrYXdfeF9NZjJEUnlmNC1EekJjc1hYaXJQMGl1NmR2SDJZNXZTNFNmOVlCYUliU20ydzh5R3RtajQycTJWMFZDYjhnVldGQmE3N2ZNRkZNWmUwVy0xT3JOOGFmdWJtLWFFRG9Vall0MlhUaWNXU2dyN2V3TkxMSg?oc=5)
 
 ---
 

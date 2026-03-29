@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Health officials to examine if drugs used to treat Parkinson's can lead to addiction issues - Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
+
+2026-03-28 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
+
+---
+
+### [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
+
+2026-03-27 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
+
+---
 
 
 <div class="disclaimer">

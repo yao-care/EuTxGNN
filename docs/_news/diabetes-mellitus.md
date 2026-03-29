@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Diabetes und Herzgesundheit (2026) - Deutsche Herzstiftung e.V.](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVh0SmRqZ244TXNTcXRJWEV4aXFSSFdsWm5iS0xkU1dyMjVzVmVDcnJZeXhhWlRVYnNwZnJTZVpscU1DWXpRcXgxYUZUOHJtamNVSUpnUzl4cGVteW5EaWVwNEZjWFNyeXdFNkhHa3ZOd0lzYkN2S1dwYlpySUNrRFBKdFlnOUFnUmNlM2dn?oc=5)
 
@@ -124,11 +124,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - OP Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHNkaVduYVlfSlR2YzZOLWFjbnFsMzFLdkFualRIYm1GQlZOMjNSRHdLZ0dnTlNaR2lJZmk1bHlqbEYtNE10bkFHejFpRXRwd2RNN1VFOXVKZmxpX3U3Umh2WkdVT3plVndBM3M2ams1bDhIMkd6OEdxcnNQOGM3b2hHN2pGOE9GMmJoSW9BZXhncF9EVTlaWUJYZElYNlhJVVA0YUo3MDJUMDBTUjdXaTF3VmlseGM1T2MwSVRhY2xWdWsxY0ozVXhWTmxWRGZaNV9KNw?oc=5)
 
 2026-03-28
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2xkcFk3VkZENUpmcWcwZE5wQ2M5UFM4OGtlMTNJcm5zTDVqQ3ZNdy1FYllnTmdCNVQtMzIwZjkwLXhQT05OeEJweHp6RGtaYUh3Zmp2TUxVVnRRcklUdlJzVkVFSU50RUsweEI2TE5RaXFoUXNJRXZPdmtWZlI1NHVrUG5ueTllbkpyT3BLVlVxakcyX28tNFowV18tanJISDRzVC00NmgtN05RaERuZmdaYV94NXV0bWxvUjF0SGpoUkl3alJvcVQ2LUVtUQ?oc=5)
+來源：[OP Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHNkaVduYVlfSlR2YzZOLWFjbnFsMzFLdkFualRIYm1GQlZOMjNSRHdLZ0dnTlNaR2lJZmk1bHlqbEYtNE10bkFHejFpRXRwd2RNN1VFOXVKZmxpX3U3Umh2WkdVT3plVndBM3M2ams1bDhIMkd6OEdxcnNQOGM3b2hHN2pGOE9GMmJoSW9BZXhncF9EVTlaWUJYZElYNlhJVVA0YUo3MDJUMDBTUjdXaTF3VmlseGM1T2MwSVRhY2xWdWsxY0ozVXhWTmxWRGZaNV9KNw?oc=5)
 
 ---
 
@@ -137,14 +137,6 @@ permalink: /news/diabetes-mellitus/
 2026-03-27
 
 來源：[news.de](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQW9DMnhQb1RwNk00U0JyNFhDaldnWjFtYlB2NTktQTNmVlhzeFBmTG5jblp0REtTd0xUSHRmU002cS0tS01WUGtWWXlHNGdOU25JREZDWEt1WUQyYWRNSHNwem54TzJCaHF3SlFoel9GSXlkbngtRkwxNGs0YWJFTFdYcXU1eHYxVWpjRXU2Sk8taUpxNDctNzZmSU5JVUt6NHhyRC1velVBWGZ0YXF6N2Y4WHQ0S09WOU1Dem12MVZjQnVMaWFSZ0tXbFRmcllqRHEzWGpxZmJRYVJGelNZUDVLLVktZS1lTVB5NWNzZDB3V1RmOVlQTndMb9IBgAJBVV95cUxOSzRTckRKWmtNZ2hnejZJRzM0dXJGVjF5c1EwaldQd2ZNeU14ZjFDQzFNamk5Y0xub0xNQmVNU0h5VXhlRHNSeHpGYTJCZ3RCR0NveXlpODMxYlo0MDZydWsxM255dVUxYXFrMVV6MFRBX0RLNDdnOHJuRVUyclVxNWpvcUhTTWxKVDltUE9sVndNbWl2cDg2U29kelR4Rnl0NzhMUTZpWmRuM0Rxc1RXaFE2TVF1Y0FObmppU0JkbFZvdWhOeXhKM29YOFp4QUJGZ3ozd0hwRjZMZFZXUTlEX1NOOGpzVGpWaTI4cGFic2I3em9JR0huZUl4b0NhYjdx?oc=5)
-
----
-
-### [Metformin drug prescribed to 120 million worldwide found to have surprise impact on brain](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
-
-2026-03-26
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFFzNDh0YldWbGZjNG1pM2l3VnZCQ0NGQjZqYlJPMktFaVJfdXlpSDVoNjF2aEFYSFplanR6ZW9zM0xhU1ZmdkRDT2V1TS1GdkJkbE5MX19FRXNpUXhfdWVsSjQ5ejVYWjAxNnFoam5VaTFrQ2pURUxOZTd3OGo4LUtjWDVCOUtHV0o1NXJqckVWSElLbWtn?oc=5)
 
 ---
 

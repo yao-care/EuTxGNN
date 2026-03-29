@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Health officials to examine if drugs used to treat Parkinson's can lead to addiction issues - Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
+
+2026-03-28 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
+
+---
 
 ### [‘We have six months to save our daughter’s life before childhood dementia robs her of her future’ - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
 
@@ -60,11 +68,11 @@ permalink: /news/entacapone/
 
 ---
 
-### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
+### [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
 
-2026-03-25 <span class="news-indication-tag">dementia</span>
+2026-03-27 <span class="news-indication-tag">Parkinson's</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
 
 ---
 

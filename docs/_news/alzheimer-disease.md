@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [‘We have six months to save our daughter’s life before childhood dementia robs her of her future’ - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
 
@@ -59,14 +59,6 @@ permalink: /news/alzheimer-disease/
 2026-03-28
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdndET0w2UUhRNzJfdHNnaldFYURGeXVSWnNJMjNwNE9RR1Z6NmpTRnZpdUg0a3gzQlBwcG5yUEF6S0FiT2xQaVA4Wl93YnBxOGhFLUlDSFpsT2FkLUx0dkpSbTdOdGtuTkw0dVJkdGstdmNKWmtKcjVyMzhXcXpEeHM4WHl0ZzFBZlhRVFZvZjFuNWVDZnpiZDRQQURVQzRyc3Nz?oc=5)
-
----
-
-### [I never told my mother that she had dementia. She lived with it for 20 years - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
-
-2026-03-25
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2hBS2NiZkZ2MlJOUHVlek94bTIxRXk0VllrUExQMXFTNUlRSGxkV29zZ1UtT1cyeEFSZUFzZFA1YklVUlYzcS1pNzJVUW5aenRNdWpNc2tCZVU5VlRUSWVFVGJjWVgzcjRJSjliWTRwZ1JSTmU5NTNBWklFRzR6b3VwdERnYjQxNXFLbzh5T2NBWS13Z2RTemU0TFI?oc=5)
 
 ---
 

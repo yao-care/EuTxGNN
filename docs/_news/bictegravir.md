@@ -14,7 +14,7 @@ permalink: /news/bictegravir/
 ---
 
 <p class="key-answer" data-question="Bictegravir 有什麼相關新聞？">
-<strong>Bictegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bictegravir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/bictegravir/
 <p><a href="{{ '/drugs/bictegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [Epatite A, sanzionate tre pescherie a Napoli: sequestrati 70 chili frutti di mare - la Repubblica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWFEUG1fSWxCNWRQMDFxVkVkTUpaWlI4T3pCVWVSandrbVBDZkRKQVZIYUd3c1RBckEzczRQeXNjUFFsMWM4WVpsS1kzSFc5eG13ZEVWeW5oWXk2LWwwUzVPTTBZV0xUbUk0ZWszMkI2RDY5S0luM0tNeHVTWW5td3ZsQkhCYWowcEZrUmJHckxoVXFzRXdMVmc1bU0wWTZ1bzBKNk9OelE2V1FDSWpXTEtnekJpamJfbHdBQ0UzT2JyMm1PVDViYTNJV3lkRGZhMmRkbDdLUTNmZ2fSAeABQVVfeXFMT3F2MHg5ZmloX3pEaEpTb3FxcWRuZGtzMWVNQ2k4ZU5oLXlscXRWdmRYZGVNcU5HVmI5UmhZY000T2c4cWYtWXd2OHI5WlM0aGFvbkpvaXZhOWpEVVRvQm16bk82SXMtQWJQLTltaXNJaE1UTHAyTFdNbVhUMWZybHZ0eXU3WnJyUVdXVGlCbEtaZ1l6bW12dTBTMkNndmdpa1QzUDF1eGNxZTh3NktHS0JET1hyTHptUWE0Q2ZyX0pjRlczYUNHeTl4akl4OE9NVEtGT0EtaVZDUTY4SzJOU08?oc=5)
 
@@ -60,7 +60,7 @@ permalink: /news/bictegravir/
 
 ---
 
-### [HEPA B: Registro casos hepatitis B - Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
+### [Se pone en marcha el primer Registro de Hepatitis B en España, HEPA-B - Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
 
 2026-03-28 <span class="news-indication-tag">hepatitis</span>
 
@@ -84,11 +84,19 @@ permalink: /news/bictegravir/
 
 ---
 
-### [Heftiger Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVTVHUjZxY2M0Y2hJYTQ3akUwTEp0Ql9VcW9iUnpCT2FEeFJOVWtIZzN6UnE5UE1QTG1pajg0MTJUaGFtaE5xajRVS2tmcW5uWmo5ZlNQVElVdGVzYUhMTHNWQVZBb1R6ajBGRGpoZEczVHZnRWhUSENqOFg5ejdkd0RRQlJpNGhOcjR6UGVFSmQ4SXJjY05sTzdua2hLQXRrdG1Jalprb041SndIOHhqcTdWaWdXSXZJd1hCWXBuUmlEOFk?oc=5)
+### [Heftiger Hepatitis-Ausbruch in Italien – Restaurants verbieten konkretes Gericht](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0YzX0RWZXRHd05RakpvaFZ5elM1TjZmalhDZTF1TFZSNVV2ODVIWVNncjBhLVpGRFJjNzhEZ1FIZFBLbXpuVGVycFlvNEpJMjRPSUkydkpoVUlYY1Y3VFRxRmlxdE9PRjg2bFJhaVhOTnhWbFE4aEJqd2Fyd0xJSWYxRDdZaVl2cWNVeEFDYTNXU0V6dVN3M1R2SlU5NnZmZ3pWS2xXUlJMTjl3QnBwbURfODUtaEx2OVVvN0RVdHJNckU?oc=5)
 
 2026-03-27 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVTVHUjZxY2M0Y2hJYTQ3akUwTEp0Ql9VcW9iUnpCT2FEeFJOVWtIZzN6UnE5UE1QTG1pajg0MTJUaGFtaE5xajRVS2tmcW5uWmo5ZlNQVElVdGVzYUhMTHNWQVZBb1R6ajBGRGpoZEczVHZnRWhUSENqOFg5ejdkd0RRQlJpNGhOcjR6UGVFSmQ4SXJjY05sTzdua2hLQXRrdG1Jalprb041SndIOHhqcTdWaWdXSXZJd1hCWXBuUmlEOFk?oc=5)
+來源：[Merkur](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0YzX0RWZXRHd05RakpvaFZ5elM1TjZmalhDZTF1TFZSNVV2ODVIWVNncjBhLVpGRFJjNzhEZ1FIZFBLbXpuVGVycFlvNEpJMjRPSUkydkpoVUlYY1Y3VFRxRmlxdE9PRjg2bFJhaVhOTnhWbFE4aEJqd2Fyd0xJSWYxRDdZaVl2cWNVeEFDYTNXU0V6dVN3M1R2SlU5NnZmZ3pWS2xXUlJMTjl3QnBwbURfODUtaEx2OVVvN0RVdHJNckU?oc=5)
+
+---
+
+### [Matteo Bassetti: «Tornano pertosse, epatite e meningite? Una strana coincidenza, ringraziamo no-vax»](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0x3SWpFZFRHZkhHNlhDUDRhRUpRQTVudzluWFdQUFVYd291aHgzQ2JzV29kcXlPM3o1REJ6cnJ1OVloemp5UnowYkFIWndxdFI5cHozVURWdHJfMm9XZ0JLWm9XenZUWjZyRUZKM05pMkR5NDlUMEVEQzRjWTZnWmNOZ2lqV3Y2NnA2R29iNVA4aU1oS3BaNURVeXAxTnhLT3RTbmk2UdIBmgFBVV95cUxPU2FuZVpCdkJUdDBySEo3RGZsdkZORVJOcklFb2dOZmpVZHhhQ0lINTF5Ny1wM3VSTG9aX0JzRmpBMTVNcXBYQnJkOGlxSUR5MXZlMG9VOV9sR0FwQ05sZ0d0MlJqbkZDZ1FUQzJESXJJMW1UUFY5OEdLVzV0dlhySEozbmxMNldIV0xPTW1mWlpaVHBzakZ5RlFB?oc=5)
+
+2026-03-23 <span class="news-indication-tag">epatite</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0x3SWpFZFRHZkhHNlhDUDRhRUpRQTVudzluWFdQUFVYd291aHgzQ2JzV29kcXlPM3o1REJ6cnJ1OVloemp5UnowYkFIWndxdFI5cHozVURWdHJfMm9XZ0JLWm9XenZUWjZyRUZKM05pMkR5NDlUMEVEQzRjWTZnWmNOZ2lqV3Y2NnA2R29iNVA4aU1oS3BaNURVeXAxTnhLT3RTbmk2UdIBmgFBVV95cUxPU2FuZVpCdkJUdDBySEo3RGZsdkZORVJOcklFb2dOZmpVZHhhQ0lINTF5Ny1wM3VSTG9aX0JzRmpBMTVNcXBYQnJkOGlxSUR5MXZlMG9VOV9sR0FwQ05sZ0d0MlJqbkZDZ1FUQzJESXJJMW1UUFY5OEdLVzV0dlhySEozbmxMNldIV0xPTW1mWlpaVHBzakZ5RlFB?oc=5)
 
 ---
 

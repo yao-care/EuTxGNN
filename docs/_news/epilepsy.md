@@ -3,7 +3,7 @@ layout: default
 title: "épilepsie（epilepsy） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "épilepsie（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
+description: "épilepsie（epilepsy） 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/epilepsy/
 ---
 
 <p class="key-answer" data-question="épilepsie（epilepsy） 有什麼相關新聞？">
-<strong>épilepsie（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
+<strong>épilepsie（epilepsy）</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Camille, Réunionnaise de 5 ans atteinte d’épilepsie, doit subir une opération du cerveau](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1JPSWg4a1ZMSW4tbTFTdjhQRXl2Q2dUWkVWdy1rdEczSER4YXAzODNmdEsydjdqV1NjR0ppQ3YyYkZNUllpWTg4Q3JvbWhqamRMczVMamNXb051Zk4tX1pXQ2t3bUZ4Um5mcGQ5aENiMXlnbnRSNlBPYzNHZEh2OXRGUlMyekJXRk1RUHcxZ0tVWVhCVGRyTVEweTZvUUpiMFhKc3FXRzVzdGViNWtScnJEMmZzUjhFR09JUlhybVgzdlBKWjdpV2duS3lreVE?oc=5)
 
 2026-03-28
 
 來源：[Linfo.re](https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1JPSWg4a1ZMSW4tbTFTdjhQRXl2Q2dUWkVWdy1rdEczSER4YXAzODNmdEsydjdqV1NjR0ppQ3YyYkZNUllpWTg4Q3JvbWhqamRMczVMamNXb051Zk4tX1pXQ2t3bUZ4Um5mcGQ5aENiMXlnbnRSNlBPYzNHZEh2OXRGUlMyekJXRk1RUHcxZ0tVWVhCVGRyTVEweTZvUUpiMFhKc3FXRzVzdGViNWtScnJEMmZzUjhFR09JUlhybVgzdlBKWjdpV2duS3lreVE?oc=5)
-
----
-
-### [Three children in same family secure €3.6m after settling cases over epilepsy drug](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RpN3NzSll3bC1zajgyTko4QmFTVkFNbFNISjNJR1UyVjEzRDZqVWh4LUQ4bHlqWFBLTEZxT21aQ0NvVWNuMDY0dDRqZ3FFMTNJOGNvUEltTVdmTUdKUlBOZF84N3l5R0VreThDMXdoQU5BNnNva01PRHVDQWxnYXplTThJcFpVdTNDS3k1SGpZV1VhOFhPeTBMZ2YyejZHTzlLcFFoZGFQM3VMNlptdG8xU0JVVFBDYUZ2Z0ppVzczVGNUSWp4WEI3MUJUR0VUQ0E?oc=5)
-
-2026-03-26
-
-來源：[irishtimes.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RpN3NzSll3bC1zajgyTko4QmFTVkFNbFNISjNJR1UyVjEzRDZqVWh4LUQ4bHlqWFBLTEZxT21aQ0NvVWNuMDY0dDRqZ3FFMTNJOGNvUEltTVdmTUdKUlBOZF84N3l5R0VreThDMXdoQU5BNnNva01PRHVDQWxnYXplTThJcFpVdTNDS3k1SGpZV1VhOFhPeTBMZ2YyejZHTzlLcFFoZGFQM3VMNlptdG8xU0JVVFBDYUZ2Z0ppVzczVGNUSWp4WEI3MUJUR0VUQ0E?oc=5)
 
 ---
 
