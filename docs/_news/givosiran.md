@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Cosa si sta facendo a Napoli contro l’aumento anomalo dei casi di epatite A - Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
+
+2026-03-30 <span class="news-indication-tag">epatite</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
+
+---
+
+### [La apnea del sueño no tratada aumenta el riesgo de sufrir hipertensión - Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmw3dTZLZllQM1JFUG00ZUVzZzRBZkxDbHZvajNWZkJMaEpuR3phSVJ3cFdpaFRxMHVhV2tHc19TakVXVWpGNHN4eDRRZTVtV1pBWU5sak4tTXNLVHJkVHVPbUd0VF9xRmE2TTdTMmhBZ1M2bTNRUm9LQXpZUG9aR2ZSWlJDUTBmUmVOZWxuUG9RUGJZcUJWa0drVllTTndneGktTEczTXRSM3lsZXkwUlA1T25pNEpJbFcySDFmSTdSMEdwamVv0gHHAUFVX3lxTE5SQXZndGwzbll3TTc3QXNHTkhKa0s4OXE1aGltM1J3c1kyUGlDcXk1akRLbFZTTzZ3UjZBbFlieWszWDRnY2dkczFEdjAtd1cwUkp0UzF6eTlkYVRtcXF1YlpJb2JfTy1CWkEtQVpXVmU1b2JqUlVIVGZiNUdZTmdPdjZvcllmTlptc1c5ZV92Wl9VaW1oRUJpWWFxWlZkNnZLQ2lybEFrRUZnMnRzVGpvdzJqbGwzM0RZZEp1aUsyZlRJQjRSWmM?oc=5)
+
+2026-03-30 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmw3dTZLZllQM1JFUG00ZUVzZzRBZkxDbHZvajNWZkJMaEpuR3phSVJ3cFdpaFRxMHVhV2tHc19TakVXVWpGNHN4eDRRZTVtV1pBWU5sak4tTXNLVHJkVHVPbUd0VF9xRmE2TTdTMmhBZ1M2bTNRUm9LQXpZUG9aR2ZSWlJDUTBmUmVOZWxuUG9RUGJZcUJWa0drVllTTndneGktTEczTXRSM3lsZXkwUlA1T25pNEpJbFcySDFmSTdSMEdwamVv0gHHAUFVX3lxTE5SQXZndGwzbll3TTc3QXNHTkhKa0s4OXE1aGltM1J3c1kyUGlDcXk1akRLbFZTTzZ3UjZBbFlieWszWDRnY2dkczFEdjAtd1cwUkp0UzF6eTlkYVRtcXF1YlpJb2JfTy1CWkEtQVpXVmU1b2JqUlVIVGZiNUdZTmdPdjZvcllmTlptc1c5ZV92Wl9VaW1oRUJpWWFxWlZkNnZLQ2lybEFrRUZnMnRzVGpvdzJqbGwzM0RZZEp1aUsyZlRJQjRSWmM?oc=5)
+
+---
 
 ### [Attivo un nuovo ambulatorio per ipertensione arteriosa e rischio cardiovascolare](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
 
@@ -52,35 +68,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Pozzuoli, epatite A: «Comparto ittico flegreo al tracollo: servono aiuti per gli operatori» - Il Mattino](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYVhFcGFhT2g3Y1VXQ29OSkF3VGVXU19QOGhTajB0Slp4TUk3Nm5mZXFXV3BmTVFKd01uNE9fMm5aeExIMXBWS005UjJIeGJYeWdYNjhxS25TaWhYcjMzTlFmRElhLVJ2ZE5VZEg2QWV6bHFNMkJWSDNSRTNuR01MWHktOFFGVG44bHZxYVlHRmtscnRxeExuenFhZ3NyQ0NFeXFxcFB1OVdZTk1YbjFkaUJ6WHNtd2VNLXJRQk9IRVVnZzQ2TGNLNS1VUkMtRjl4WFNQRk9nRTgzTGNPT2s4enpKclRmM2xwSUpwaUlkT1fSAdwBQVVfeXFMT2pwLXA4VmtHc0k4S0l2ZnFwLTlNNncxdlRaQ25HSVdZejgtSFQwXzhQWmwwejBZZDBCbmpjY1R6NzJXT1h0a3c4Y0Q1ZC12aWNyMzVENDhUUXRGeDhwWUVvdWp5dVU2eXVyOXItVV95NjJlUkc0UWhQamdsNUxaTXJUdk1qWV9OeWRhZmVuRnR6RVhmVU1xWjdDaEVZS0UtNkh3ZEtGRmFSMlpDX3NPQ0pvc3hLUkxZWTlfRWE3YWJ6TndTTkJmOHNtT2JUUFRaTjlWNXlOOVhjM29scw?oc=5)
-
-2026-03-28 <span class="news-indication-tag">epatite</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYVhFcGFhT2g3Y1VXQ29OSkF3VGVXU19QOGhTajB0Slp4TUk3Nm5mZXFXV3BmTVFKd01uNE9fMm5aeExIMXBWS005UjJIeGJYeWdYNjhxS25TaWhYcjMzTlFmRElhLVJ2ZE5VZEg2QWV6bHFNMkJWSDNSRTNuR01MWHktOFFGVG44bHZxYVlHRmtscnRxeExuenFhZ3NyQ0NFeXFxcFB1OVdZTk1YbjFkaUJ6WHNtd2VNLXJRQk9IRVVnZzQ2TGNLNS1VUkMtRjl4WFNQRk9nRTgzTGNPT2s4enpKclRmM2xwSUpwaUlkT1fSAdwBQVVfeXFMT2pwLXA4VmtHc0k4S0l2ZnFwLTlNNncxdlRaQ25HSVdZejgtSFQwXzhQWmwwejBZZDBCbmpjY1R6NzJXT1h0a3c4Y0Q1ZC12aWNyMzVENDhUUXRGeDhwWUVvdWp5dVU2eXVyOXItVV95NjJlUkc0UWhQamdsNUxaTXJUdk1qWV9OeWRhZmVuRnR6RVhmVU1xWjdDaEVZS0UtNkh3ZEtGRmFSMlpDX3NPQ0pvc3hLUkxZWTlfRWE3YWJ6TndTTkJmOHNtT2JUUFRaTjlWNXlOOVhjM29scw?oc=5)
-
----
-
-### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich? - Der Bund](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
+### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich?](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
 
 2026-03-28 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Der Bund](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
-
----
-
-### [Großer Hepatitis-A-Ausbruch in Italien! Was Reisende kurz vor Ostern wissen sollten](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
-
-2026-03-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
-
----
-
-### [Se pone en marcha el primer Registro de Hepatitis B en España, HEPA-B - Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
-
-2026-03-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
+來源：[derbund.ch](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
 
 ---
 

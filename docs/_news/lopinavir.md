@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lopinavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [Pozzuoli, epatite A: «Comparto ittico flegreo al tracollo: servono aiuti per gli operatori» - Il Mattino](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYVhFcGFhT2g3Y1VXQ29OSkF3VGVXU19QOGhTajB0Slp4TUk3Nm5mZXFXV3BmTVFKd01uNE9fMm5aeExIMXBWS005UjJIeGJYeWdYNjhxS25TaWhYcjMzTlFmRElhLVJ2ZE5VZEg2QWV6bHFNMkJWSDNSRTNuR01MWHktOFFGVG44bHZxYVlHRmtscnRxeExuenFhZ3NyQ0NFeXFxcFB1OVdZTk1YbjFkaUJ6WHNtd2VNLXJRQk9IRVVnZzQ2TGNLNS1VUkMtRjl4WFNQRk9nRTgzTGNPT2s4enpKclRmM2xwSUpwaUlkT1fSAdwBQVVfeXFMT2pwLXA4VmtHc0k4S0l2ZnFwLTlNNncxdlRaQ25HSVdZejgtSFQwXzhQWmwwejBZZDBCbmpjY1R6NzJXT1h0a3c4Y0Q1ZC12aWNyMzVENDhUUXRGeDhwWUVvdWp5dVU2eXVyOXItVV95NjJlUkc0UWhQamdsNUxaTXJUdk1qWV9OeWRhZmVuRnR6RVhmVU1xWjdDaEVZS0UtNkh3ZEtGRmFSMlpDX3NPQ0pvc3hLUkxZWTlfRWE3YWJ6TndTTkJmOHNtT2JUUFRaTjlWNXlOOVhjM29scw?oc=5)
+### [Cosa si sta facendo a Napoli contro l’aumento anomalo dei casi di epatite A - Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
 
-2026-03-28 <span class="news-indication-tag">epatite</span>
+2026-03-30 <span class="news-indication-tag">epatite</span>
 
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYVhFcGFhT2g3Y1VXQ29OSkF3VGVXU19QOGhTajB0Slp4TUk3Nm5mZXFXV3BmTVFKd01uNE9fMm5aeExIMXBWS005UjJIeGJYeWdYNjhxS25TaWhYcjMzTlFmRElhLVJ2ZE5VZEg2QWV6bHFNMkJWSDNSRTNuR01MWHktOFFGVG44bHZxYVlHRmtscnRxeExuenFhZ3NyQ0NFeXFxcFB1OVdZTk1YbjFkaUJ6WHNtd2VNLXJRQk9IRVVnZzQ2TGNLNS1VUkMtRjl4WFNQRk9nRTgzTGNPT2s4enpKclRmM2xwSUpwaUlkT1fSAdwBQVVfeXFMT2pwLXA4VmtHc0k4S0l2ZnFwLTlNNncxdlRaQ25HSVdZejgtSFQwXzhQWmwwejBZZDBCbmpjY1R6NzJXT1h0a3c4Y0Q1ZC12aWNyMzVENDhUUXRGeDhwWUVvdWp5dVU2eXVyOXItVV95NjJlUkc0UWhQamdsNUxaTXJUdk1qWV9OeWRhZmVuRnR6RVhmVU1xWjdDaEVZS0UtNkh3ZEtGRmFSMlpDX3NPQ0pvc3hLUkxZWTlfRWE3YWJ6TndTTkJmOHNtT2JUUFRaTjlWNXlOOVhjM29scw?oc=5)
-
----
-
-### [Großer Hepatitis-A-Ausbruch in Italien! Was Reisende kurz vor Ostern wissen sollten](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
-
-2026-03-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[RTL.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1FSTDRoMl9nY2dUQ183TmlsWnExMWhWTkNlYW5HNlQ0LUtVTjJ6U3RKdUJ4MUE5MFdNZkoyS2toOGxnaUh2TG8tcldUX1VqOG84aUFtOVNUU19yT3R6UUdBTDZHUGkwUlh6UDgzWERtYXJtTkRyOVV1UTNacDk4NnBlMTJZWEJwM2FXM1F0TTB2aE1CWEs1N1FMM210OXhveG1QYzJCYy03Q1pvbkFRVTFBQ0FaajY1MXVfR0VR?oc=5)
-
----
-
-### [Se pone en marcha el primer Registro de Hepatitis B en España, HEPA-B - Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
-
-2026-03-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
 
 ---
 

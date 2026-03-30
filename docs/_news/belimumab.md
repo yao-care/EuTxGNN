@@ -14,7 +14,7 @@ permalink: /news/belimumab/
 ---
 
 <p class="key-answer" data-question="Belimumab 有什麼相關新聞？">
-<strong>Belimumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Belimumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/belimumab/
 <p><a href="{{ '/drugs/belimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
-### [Los médicos de familia reclaman integrar nutricionistas en Atención Primaria - PR Noticias](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjQtTzNBcU1SWDc0LWNfX3hXdmlldVdmYWVUUk4xRnd1clE5STlVNFZWajJNSFJTcVhBa3NLazJxSkluam5md2V4S19hNURQV3FJNjRxYmNDYlQxUnEtbERNSC1WM0hlTUdGdi1GalRId181OXlrNGtneEJXSkFCVkFOZi1ER2NSNVBQT2YxWDB2LU5IMl9kWHBDRmJqU2RCdUhuVHhkT3RTUG45T3BYV9IBsAFBVV95cUxQTjQtTzNBcU1SWDc0LWNfX3hXdmlldVdmYWVUUk4xRnd1clE5STlVNFZWajJNSFJTcVhBa3NLazJxSkluam5md2V4S19hNURQV3FJNjRxYmNDYlQxUnEtbERNSC1WM0hlTUdGdi1GalRId181OXlrNGtneEJXSkFCVkFOZi1ER2NSNVBQT2YxWDB2LU5IMl9kWHBDRmJqU2RCdUhuVHhkT3RTUG45T3BYVw?oc=5)
+### [Por qué la actividad intensa diaria puede ayudarte a evitar futuras afecciones como la artritis, la demencia y los infartos](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
+
+2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Atresmedia](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
+
+---
+
+### [Hallan un nuevo eje molecular que regula la inflamación vascular en la diabetes - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUmVOb0F5YjZYMFJJaVlXeV9lSmJTVU8wcTNlM2ltTFREdEVtaDU3MVJnT0llXzQ0UVF0Tm1RNzhVd3FQWk8xbzJ3SWZWN3RxUS1XSkg4MlRqbTV2UFRHWjR4LXhRX2swWVJjVXNnM1VkS0JpaFVGMzd5SjJOVnV6VHp5ekZrYlNSR3ZHNXhKV3FYMHplN0ZqUkdla0k3d0xKUmFzWG1JZk51d2x2REp5NDZxVmdsQQ?oc=5)
 
 2026-03-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[PR Noticias](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjQtTzNBcU1SWDc0LWNfX3hXdmlldVdmYWVUUk4xRnd1clE5STlVNFZWajJNSFJTcVhBa3NLazJxSkluam5md2V4S19hNURQV3FJNjRxYmNDYlQxUnEtbERNSC1WM0hlTUdGdi1GalRId181OXlrNGtneEJXSkFCVkFOZi1ER2NSNVBQT2YxWDB2LU5IMl9kWHBDRmJqU2RCdUhuVHhkT3RTUG45T3BYV9IBsAFBVV95cUxQTjQtTzNBcU1SWDc0LWNfX3hXdmlldVdmYWVUUk4xRnd1clE5STlVNFZWajJNSFJTcVhBa3NLazJxSkluam5md2V4S19hNURQV3FJNjRxYmNDYlQxUnEtbERNSC1WM0hlTUdGdi1GalRId181OXlrNGtneEJXSkFCVkFOZi1ER2NSNVBQT2YxWDB2LU5IMl9kWHBDRmJqU2RCdUhuVHhkT3RTUG45T3BYVw?oc=5)
+來源：[Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUmVOb0F5YjZYMFJJaVlXeV9lSmJTVU8wcTNlM2ltTFREdEVtaDU3MVJnT0llXzQ0UVF0Tm1RNzhVd3FQWk8xbzJ3SWZWN3RxUS1XSkg4MlRqbTV2UFRHWjR4LXhRX2swWVJjVXNnM1VkS0JpaFVGMzd5SjJOVnV6VHp5ekZrYlNSR3ZHNXhKV3FYMHplN0ZqUkdla0k3d0xKUmFzWG1JZk51d2x2REp5NDZxVmdsQQ?oc=5)
 
 ---
 
@@ -68,6 +76,14 @@ permalink: /news/belimumab/
 
 ---
 
+### [Running for the bus could cut risk of diabetes and dementia - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
+
+2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
+
+---
+
 ### [Il farmaco che può ridurre del 30% il rischio di infarto nei diabetici: lo studio del Mass General Brigham](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjk3cWREbEd3T1VyR3NvR2NGb1ZqSUJ5aUZkcldkdUFjamxjVWR0WENwN05jZ0Rfbks3bm5qbi1nUEMzcER5YWY4RGlvOElSQS1iMVRVelhWQlR2dGtvVDVaY1FQLUdWeWtrcUxuYkc4Znpoa0JYRFcyQ2wxTFkyTjB0aWJrN3R0RVBaOG9EOXJLS0pCSnVpcGg5bTF2c0wwVlFNWE9SVXdPSi01NDdwbC16TFIzbG90N3JzdHluLWVob3FPRHBNTWVnWlNCMTJpeHhIRnM0eXU5RHM?oc=5)
 
 2026-03-29 <span class="news-indication-tag">diabetic</span>
@@ -76,7 +92,7 @@ permalink: /news/belimumab/
 
 ---
 
-### [At 48, I was told I was prediabetic – I reversed it with these simple rules - The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
+### [At 45, I was told I was prediabetic – I reversed it with these simple rules - The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
 
 2026-03-29 <span class="news-indication-tag">diabetic</span>
 
