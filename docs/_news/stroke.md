@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AVC（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# AVC（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,23 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
+
+### [Infartos, ictus y memoria: una nueva guía para mayores que mira a corazón y cerebro al mismo tiempo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMERZZjNZU2VOT2hWRVdDa2xFbFI1cms5bUw0SVR4dXU3QWdQb1hLZ3lFMWZnTVVnRTlYTEJmdnhWT1dnaHl4NW1wSmhpRjhjZlR4Sk04aXdvNU1EcG5EdkNicTROc1Q1bmVYNjltaUtVZ3hFalZ0V2g5Y1E3SVk5VWJMNU54UEZFa3ZTTVZfcVEyZTdmdFJTQTI3dzcyX01vbEN4WXBqU3VnNVREVWJvQnhlaERiRlNfdEhoS1lNcjdENWduZ2lFQUlXY0luSnh3WHVz?oc=5)
+
+2026-03-30
+
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMERZZjNZU2VOT2hWRVdDa2xFbFI1cms5bUw0SVR4dXU3QWdQb1hLZ3lFMWZnTVVnRTlYTEJmdnhWT1dnaHl4NW1wSmhpRjhjZlR4Sk04aXdvNU1EcG5EdkNicTROc1Q1bmVYNjltaUtVZ3hFalZ0V2g5Y1E3SVk5VWJMNU54UEZFa3ZTTVZfcVEyZTdmdFJTQTI3dzcyX01vbEN4WXBqU3VnNVREVWJvQnhlaERiRlNfdEhoS1lNcjdENWduZ2lFQUlXY0luSnh3WHVz?oc=5)
+
+---
+
+### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+2026-03-30
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+---
 
 ### [Santé vasculaire cérébrale : le CHU de Bordeaux a ouvert la première unité de France dédiée aux micro-AVC silencieux - Sud Ouest](https://news.google.com/rss/articles/CBMimAJBVV95cUxNejRfbFdsWGt6bjh5bk1oY3RCQUVYRk4yS09pLXdZZXRKcUNJUEFHNDhYa2NKa1lSS2NPZVZfU0U5Zi11aW1fcXo5a05JSF9yRjhaUlJnSFdXdVc3bXgxcnJpV0ZqTXBYNnp5bnBvajBOeGk0YnRKU1d1dU1idmhLS200aG1vaThfQlc3YnpNNDhUWml3NHpXTXVzTU1ZRXVxRDZMb2J1TDNjNnUtVHZ0Y1RpdDJ2djgxM1J5eEJpb0gyMzdsRHJ0NGtseW5OUl9kbXBRQ2pjSHI0NDEyUjN3ZnRnMnFjVERqWUhjUHNDdUZOQ2dxcXhOMnBTLU5hRTcya1RqN3lGenFkaU94Z0lrXzBtbWhRMWtn?oc=5)
 
@@ -57,11 +73,19 @@ permalink: /news/stroke/
 
 ---
 
-### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
+### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 2026-03-29
 
-來源：[somospacientes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
+
+---
+
+### [Crise cardiaque : seulement 11 minutes de sommeil en plus peuvent réduire les risques, à condition de respecter cette règle - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
+
+2026-03-29
+
+來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
 
 ---
 

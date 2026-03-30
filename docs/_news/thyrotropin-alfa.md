@@ -44,6 +44,14 @@ permalink: /news/thyrotropin-alfa/
 
 ## 相關新聞（4 則）
 
+### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+2026-03-30 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+---
+
 ### [Attivo un nuovo ambulatorio per ipertensione arteriosa e rischio cardiovascolare](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
 
 2026-03-29 <span class="news-indication-tag">ipertensione</span>
@@ -65,14 +73,6 @@ permalink: /news/thyrotropin-alfa/
 2026-03-28 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Der Bund](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
-
----
-
-### [Migraña hormonal femenina: infradiagnosticada y afecta a miles de mujeres en el mundo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
-
-2026-03-28 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[laopinion.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
 
 ---
 

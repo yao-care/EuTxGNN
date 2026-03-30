@@ -60,11 +60,11 @@ permalink: /news/lopinavir/
 
 ---
 
-### [Se pone en marcha el primer Registro de Hepatitis B en España, HEPA-B](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
+### [Se pone en marcha el primer Registro de Hepatitis B en España, HEPA-B - Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
 
 2026-03-28 <span class="news-indication-tag">hepatitis</span>
 
-來源：[somospacientes.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
 
 ---
 

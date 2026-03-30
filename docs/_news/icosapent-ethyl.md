@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Solo unos minutos sin aliento al día: la actividad intensa que se asocia a menos artritis, infartos y demencia](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLXVqVUVBSlBzRVdRV0FuMnNNb0pyNHBBS3R1YWk4am9URFFvcGNzSGdYUTVZSFNmdGMxX0k5bUstb25NQ2xBSU5pWWRsUF9lQzUtQlJBOUJOVXZXWC1GdW9QLVNpSVpuNGpWcFM2N3VtTE1mSDNMV25sZTAyeG1mZWl0cUpwM0hoczRBMlU2d3VZWEFDZk9Pb3hTcG1HYnZLeDBKd0d4eHYtTmtzSU9HSXFuT2p6QlI2dWFvUUN0Z1NSN042eHlUc2E5MXBMTEFEdVJGNWdFYkJkOUxQai11NGxSaXk1eGxRR0N6RA?oc=5)
+
+2026-03-30 <span class="news-indication-tag">artritis</span>
+
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLXVqVUVBSlBzRVdRV0FuMnNNb0pyNHBBS3R1YWk4am9URFFvcGNzSGdYUTVZSFNmdGMxX0k5bUstb25NQ2xBSU5pWWRsUF9lQzUtQlJBOUJOVXZXWC1GdW9QLVNpSVpuNGpWcFM2N3VtTE1mSDNMV25sZTAyeG1mZWl0cUpwM0hoczRBMlU2d3VZWEFDZk9Pb3hTcG1HYnZLeDBKd0d4eHYtTmtzSU9HSXFuT2p6QlI2dWFvUUN0Z1NSN042eHlUc2E5MXBMTEFEdVJGNWdFYkJkOUxQai11NGxSaXk1eGxRR0N6RA?oc=5)
+
+---
+
+### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+2026-03-30 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+---
 
 ### [Scientists Find Eating This Popular Food Increases Heart Disease Risk By 67%](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1xcWl5QmZCY0llQzRmYXoxTzFIVExKdG9hYWVzUzI5SDZFU1JrOTZFZVpaZ0d6OXd3X2Rvd0FVd2ZSaF8zTzNaMF9Qa3FpX3k3NHF0SC1YQ05zR0VHVzk2alo5cUVQRHRGZXFWdnd1UGpObjdaZHZGN1hPQXlqeDYzMGRnWDhIV0FOSE5IcTBMT3E0ZFRuYTZQYUd0TVljanNncG5Qd05mWE1PaVE?oc=5)
 

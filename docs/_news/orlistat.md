@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（8 則）
+
+### [Infartos, ictus y memoria: una nueva guía para mayores que mira a corazón y cerebro al mismo tiempo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMERZZjNZU2VOT2hWRVdDa2xFbFI1cms5bUw0SVR4dXU3QWdQb1hLZ3lFMWZnTVVnRTlYTEJmdnhWT1dnaHl4NW1wSmhpRjhjZlR4Sk04aXdvNU1EcG5EdkNicTROc1Q1bmVYNjltaUtVZ3hFalZ0V2g5Y1E3SVk5VWJMNU54UEZFa3ZTTVZfcVEyZTdmdFJTQTI3dzcyX01vbEN4WXBqU3VnNVREVWJvQnhlaERiRlNfdEhoS1lNcjdENWduZ2lFQUlXY0luSnh3WHVz?oc=5)
+
+2026-03-30 <span class="news-indication-tag">ictus</span>
+
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMERZZjNZU2VOT2hWRVdDa2xFbFI1cms5bUw0SVR4dXU3QWdQb1hLZ3lFMWZnTVVnRTlYTEJmdnhWT1dnaHl4NW1wSmhpRjhjZlR4Sk04aXdvNU1EcG5EdkNicTROc1Q1bmVYNjltaUtVZ3hFalZ0V2g5Y1E3SVk5VWJMNU54UEZFa3ZTTVZfcVEyZTdmdFJTQTI3dzcyX01vbEN4WXBqU3VnNVREVWJvQnhlaERiRlNfdEhoS1lNcjdENWduZ2lFQUlXY0luSnh3WHVz?oc=5)
+
+---
+
+### [Descubren una proteína clave del tejido adiposo que podría ayudar en el tratamiento de diabetes y obesidad](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2xlbUlST0Fqa0pRamgyV3BVd2ZOeTNlWk9HdkxBYlVadllkQ2M4TW9vUVlKZkZPMTFkQTdPb0xXLWxJMnA1Y3NBellUbUQyclNTNUZWVVdJVVVLQjdYYmZFS1Q4b1Q5VF92TWFZRVhpVXl2Vk5QSEFLU25sWVBMT0hqcU9OdmsyanFrWlp5ak10WjdfekUxRk1OUVFvdXVNeURVV2ZZdmFyNGEyMzlvbU9PLURIcTgxVmJYTjFmQnBDWWhmSEE3blJvSjhDanFUeGtmVlZfcUU5M3BYWGhUZXVpT2J3bXdaOFNLVtIBhwJBVV95cUxOaWZlbXdlOVBkaVJ2OC1UcTFDX2FRUUp3Qnp5V1A5YjN5VkY1dDdlRFN5Zk1YUG94ay1XS0hfQ1FseG9HRmh0dDUwWVJnd3hsN1BwRmtGd2sydTU0VTV0NVk5OVVORVRmelM1amJlTU12azN2UU53cEZWOVhDakRpbGNQMC1PMWxBUTBPR3pDdnJBSi1KWDRTNnFZZWg0TDU5cUltc2xBMWdGczNpeXltTVdoLV9wZDlrZXJWSVJYcW9hdVpJV0J1QUFPaVJ3QnAyLTFlSExVd1NZTURTWTNsYXB0aVkteWpVYWFxVGpCd3RFLTRIR2I0WjlIRFV3a3VLME9XUUJHcw?oc=5)
+
+2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2xlbUlST0Fqa0pRamgyV3BVd2ZOeTNlWk9HdkxBYlVadllkQ2M4TW9vUVlKZkZPMTFkQTdPb0xXLWxJMnA1Y3NBellUbUQyclNTNUZWVVdJVVVLQjdYYmZFS1Q4b1Q5VF92TWFZRVhpVXl2Vk5QSEFLU25sWVBMT0hqcU9OdmsyanFrWlp5ak10WjdfekUxRk1OUVFvdXVNeURVV2ZZdmFyNGEyMzlvbU9PLURIcTgxVmJYTjFmQnBDWWhmSEE3blJvSjhDanFUeGtmVlZfcUU5M3BYWGhUZXVpT2J3bXdaOFNLVtIBhwJBVV95cUxOaWZlbXdlOVBkaVJ2OC1UcTFDX2FRUUp3Qnp5V1A5YjN5VkY1dDdlRFN5Zk1YUG94ay1XS0hfQ1FseG9HRmh0dDUwWVJnd3hsN1BwRmtGd2sydTU0VTV0NVk5OVVORVRmelM1amJlTU12azN2UU53cEZWOVhDakRpbGNQMC1PMWxBUTBPR3pDdnJBSi1KWDRTNnFZZWg0TDU5cUltc2xBMWdGczNpeXltTVdoLV9wZDlrZXJWSVJYcW9hdVpJV0J1QUFPaVJ3QnAyLTFlSExVd1NZTURTWTNsYXB0aVkteWpVYWFxVGpCd3RFLTRIR2I0WjlIRFV3a3VLME9XUUJHcw?oc=5)
+
+---
+
+### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+2026-03-30 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+---
 
 ### [Santé vasculaire cérébrale : le CHU de Bordeaux a ouvert la première unité de France dédiée aux micro-AVC silencieux - Sud Ouest](https://news.google.com/rss/articles/CBMimAJBVV95cUxNejRfbFdsWGt6bjh5bk1oY3RCQUVYRk4yS09pLXdZZXRKcUNJUEFHNDhYa2NKa1lSS2NPZVZfU0U5Zi11aW1fcXo5a05JSF9yRjhaUlJnSFdXdVc3bXgxcnJpV0ZqTXBYNnp5bnBvajBOeGk0YnRKU1d1dU1idmhLS200aG1vaThfQlc3YnpNNDhUWml3NHpXTXVzTU1ZRXVxRDZMb2J1TDNjNnUtVHZ0Y1RpdDJ2djgxM1J5eEJpb0gyMzdsRHJ0NGtseW5OUl9kbXBRQ2pjSHI0NDEyUjN3ZnRnMnFjVERqWUhjUHNDdUZOQ2dxcXhOMnBTLU5hRTcya1RqN3lGenFkaU94Z0lrXzBtbWhRMWtn?oc=5)
 
@@ -68,11 +92,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
+### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 2026-03-29 <span class="news-indication-tag">ictus</span>
 
-來源：[somospacientes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
+
+---
+
+### [Crise cardiaque : seulement 11 minutes de sommeil en plus peuvent réduire les risques, à condition de respecter cette règle - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
+
+2026-03-29 <span class="news-indication-tag">AVC</span>
+
+來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
 
 ---
 

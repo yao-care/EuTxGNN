@@ -14,7 +14,7 @@ permalink: /news/diflunisal/
 ---
 
 <p class="key-answer" data-question="Diflunisal 有什麼相關新聞？">
-<strong>Diflunisal</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Diflunisal</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/diflunisal/
 <p><a href="{{ '/drugs/diflunisal/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Solo unos minutos sin aliento al día: la actividad intensa que se asocia a menos artritis, infartos y demencia](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLXVqVUVBSlBzRVdRV0FuMnNNb0pyNHBBS3R1YWk4am9URFFvcGNzSGdYUTVZSFNmdGMxX0k5bUstb25NQ2xBSU5pWWRsUF9lQzUtQlJBOUJOVXZXWC1GdW9QLVNpSVpuNGpWcFM2N3VtTE1mSDNMV25sZTAyeG1mZWl0cUpwM0hoczRBMlU2d3VZWEFDZk9Pb3hTcG1HYnZLeDBKd0d4eHYtTmtzSU9HSXFuT2p6QlI2dWFvUUN0Z1NSN042eHlUc2E5MXBMTEFEdVJGNWdFYkJkOUxQai11NGxSaXk1eGxRR0N6RA?oc=5)
+
+2026-03-30 <span class="news-indication-tag">artritis</span>
+
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLXVqVUVBSlBzRVdRV0FuMnNNb0pyNHBBS3R1YWk4am9URFFvcGNzSGdYUTVZSFNmdGMxX0k5bUstb25NQ2xBSU5pWWRsUF9lQzUtQlJBOUJOVXZXWC1GdW9QLVNpSVpuNGpWcFM2N3VtTE1mSDNMV25sZTAyeG1mZWl0cUpwM0hoczRBMlU2d3VZWEFDZk9Pb3hTcG1HYnZLeDBKd0d4eHYtTmtzSU9HSXFuT2p6QlI2dWFvUUN0Z1NSN042eHlUc2E5MXBMTEFEdVJGNWdFYkJkOUxQai11NGxSaXk1eGxRR0N6RA?oc=5)
+
+---
 
 
 <div class="disclaimer">

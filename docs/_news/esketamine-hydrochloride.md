@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen](https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkhOVmZDYTdRb3ZyVENzQ2sxLVNRc3RwSEVCUXAxR3laU2VQMjhMZTNqemx4S01BYzFCc19yZ1g3Z2lTYmVYX1ZibVdEVUp0MHBwMndVS2hhRDlLeEo2SnZqMmg3M0ZsampXRnZBVk9NUU5fWXBkSHdwWU5sWDBFNTNfcUV3V0N0Q0NZVXc0eXFzSVhRYzB0aXkyNHdTdUI3NWs4OVdwVTdYeDhlRmtEZmh5MV9qXzJBMmVSZGthTnA2NmMyb0x1ZXpMSmg?oc=5)
-
-2026-03-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
-
-來源：[fnp.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkhOVmZDYTdRb3ZyVENzQ2sxLVNRc3RwSEVCUXAxR3laU2VQMjhMZTNqemx4S01BYzFCc19yZ1g3Z2lTYmVYX1ZibVdEVUp0MHBwMndVS2hhRDlLeEo2SnZqMmg3M0ZsampXRnZBVk9NUU5fWXBkSHdwWU5sWDBFNTNfcUV3V0N0Q0NZVXc0eXFzSVhRYzB0aXkyNHdTdUI3NWs4OVdwVTdYeDhlRmtEZmh5MV9qXzJBMmVSZGthTnA2NmMyb0x1ZXpMSmg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

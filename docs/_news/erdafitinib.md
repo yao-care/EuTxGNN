@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Erdafitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Solo unos minutos sin aliento al día: la actividad intensa que se asocia a menos artritis, infartos y demencia](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLXVqVUVBSlBzRVdRV0FuMnNNb0pyNHBBS3R1YWk4am9URFFvcGNzSGdYUTVZSFNmdGMxX0k5bUstb25NQ2xBSU5pWWRsUF9lQzUtQlJBOUJOVXZXWC1GdW9QLVNpSVpuNGpWcFM2N3VtTE1mSDNMV25sZTAyeG1mZWl0cUpwM0hoczRBMlU2d3VZWEFDZk9Pb3hTcG1HYnZLeDBKd0d4eHYtTmtzSU9HSXFuT2p6QlI2dWFvUUN0Z1NSN042eHlUc2E5MXBMTEFEdVJGNWdFYkJkOUxQai11NGxSaXk1eGxRR0N6RA?oc=5)
+
+2026-03-30 <span class="news-indication-tag">artritis</span>
+
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLXVqVUVBSlBzRVdRV0FuMnNNb0pyNHBBS3R1YWk4am9URFFvcGNzSGdYUTVZSFNmdGMxX0k5bUstb25NQ2xBSU5pWWRsUF9lQzUtQlJBOUJOVXZXWC1GdW9QLVNpSVpuNGpWcFM2N3VtTE1mSDNMV25sZTAyeG1mZWl0cUpwM0hoczRBMlU2d3VZWEFDZk9Pb3hTcG1HYnZLeDBKd0d4eHYtTmtzSU9HSXFuT2p6QlI2dWFvUUN0Z1NSN042eHlUc2E5MXBMTEFEdVJGNWdFYkJkOUxQai11NGxSaXk1eGxRR0N6RA?oc=5)
+
+---
+
+### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+2026-03-30 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+---
 
 ### [Attivo un nuovo ambulatorio per ipertensione arteriosa e rischio cardiovascolare](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
 

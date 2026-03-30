@@ -44,11 +44,11 @@ permalink: /news/clopidogrel-as-hydrochloride/
 
 ## 相關新聞（1 則）
 
-### [Migraña hormonal femenina: infradiagnosticada y afecta a miles de mujeres en el mundo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
+### [Solo unos minutos sin aliento al día: la actividad intensa que se asocia a menos artritis, infartos y demencia](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLXVqVUVBSlBzRVdRV0FuMnNNb0pyNHBBS3R1YWk4am9URFFvcGNzSGdYUTVZSFNmdGMxX0k5bUstb25NQ2xBSU5pWWRsUF9lQzUtQlJBOUJOVXZXWC1GdW9QLVNpSVpuNGpWcFM2N3VtTE1mSDNMV25sZTAyeG1mZWl0cUpwM0hoczRBMlU2d3VZWEFDZk9Pb3hTcG1HYnZLeDBKd0d4eHYtTmtzSU9HSXFuT2p6QlI2dWFvUUN0Z1NSN042eHlUc2E5MXBMTEFEdVJGNWdFYkJkOUxQai11NGxSaXk1eGxRR0N6RA?oc=5)
 
-2026-03-28 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+2026-03-30 <span class="news-indication-tag">artritis</span>
 
-來源：[laopinion.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLXVqVUVBSlBzRVdRV0FuMnNNb0pyNHBBS3R1YWk4am9URFFvcGNzSGdYUTVZSFNmdGMxX0k5bUstb25NQ2xBSU5pWWRsUF9lQzUtQlJBOUJOVXZXWC1GdW9QLVNpSVpuNGpWcFM2N3VtTE1mSDNMV25sZTAyeG1mZWl0cUpwM0hoczRBMlU2d3VZWEFDZk9Pb3hTcG1HYnZLeDBKd0d4eHYtTmtzSU9HSXFuT2p6QlI2dWFvUUN0Z1NSN042eHlUc2E5MXBMTEFEdVJGNWdFYkJkOUxQai11NGxSaXk1eGxRR0N6RA?oc=5)
 
 ---
 
