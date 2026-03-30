@@ -14,7 +14,7 @@ permalink: /news/tenofovir-alafenamide/
 ---
 
 <p class="key-answer" data-question="Tenofovir Alafenamide 有什麼相關新聞？">
-<strong>Tenofovir Alafenamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tenofovir Alafenamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/tenofovir-alafenamide/
 <p><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
+
+### [Descubren un candidato farmacológico clave contra la hepatitis E](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
+
+2026-03-30 <span class="news-indication-tag">hepatitis</span>
+
+來源：[democrata.es](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
+
+---
+
+### [Reto del diagnóstico de hepatitis delta - Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
+
+2026-03-30 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
+
+---
 
 ### [Cosa si sta facendo a Napoli contro l’aumento anomalo dei casi di epatite A - Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
 
 2026-03-30 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
+
+---
+
+### [Epatite A, tre nuovi ricoveri a Catanzaro: cozze e pesce crudo consumati a casa - La Nuova Calabria](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZE9ZREZncWhmY3pRcHVmajlwcEdhQ0FMbUFKY01mbXFaNW1yOC1mdG1xOW5WUWh0UEQ5WXJFOF9NaV83dDBKWUxQenM4VzVnLTRROUFFamtwNktqVThLNFVtckZDZ1dlSHpMMVBMWGVSd3ZyVVdPaWI1eW5vMHdtR1A2SGZqSHQyOWR1SzdEUkRrWDlNMkc3VnY4UGJKcFV4V3U1R3Y5cw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">epatite</span>
+
+來源：[La Nuova Calabria](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZE9ZREZncWhmY3pRcHVmajlwcEdhQ0FMbUFKY01mbXFaNW1yOC1mdG1xOW5WUWh0UEQ5WXJFOF9NaV83dDBKWUxQenM4VzVnLTRROUFFamtwNktqVThLNFVtckZDZ1dlSHpMMVBMWGVSd3ZyVVdPaWI1eW5vMHdtR1A2SGZqSHQyOWR1SzdEUkRrWDlNMkc3VnY4UGJKcFV4V3U1R3Y5cw?oc=5)
 
 ---
 

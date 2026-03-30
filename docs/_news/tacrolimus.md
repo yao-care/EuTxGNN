@@ -44,19 +44,19 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（2 則）
 
+### [Descubren que un fármaco contra la leucemia logra frenar la inflamación por psoriasis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWxDTHNZWnQ0dzJEcjc5MjU3eGkzWW9iRFJCLXlobVpwRWY2dmNuWlhQZ3V2WXZxSDE1NU4ySmVteFZpc3NLTkkwbXZXNTZ1YTVtNWxteUh6RHkyNVItYkhIbXZrdkxFb29PaUc1c0xreVFSZFQ5T3pUQjFHZnlzNXozZVRZQ1Y3Y29YTkRBaEJBRDd0alFWZ0R4NzVwdnJCaUw3Wk9tWVV6VFU?oc=5)
+
+2026-03-30 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWxDTHNZWnQ0dzJEcjc5MjU3eGkzWW9iRFJCLXlobVpwRWY2dmNuWlhQZ3V2WXZxSDE1NU4ySmVteFZpc3NLTkkwbXZXNTZ1YTVtNWxteUh6RHkyNVItYkhIbXZrdkxFb29PaUc1c0xreVFSZFQ5T3pUQjFHZnlzNXozZVRZQ1Y3Y29YTkRBaEJBRDd0alFWZ0R4NzVwdnJCaUw3Wk9tWVV6VFU?oc=5)
+
+---
+
 ### [Por qué la actividad intensa diaria puede ayudarte a evitar futuras afecciones como la artritis, la demencia y los infartos](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
 
 2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Atresmedia](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
-
----
-
-### [Un fármaco aprobado para la leucemia demuestra reducir la inflamación asociada a psoriasis en ratones](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUDNxMlZxM0VxUlpOb1ZhLTF6eFRBU3VjanliN3J0X2JXQmRxVWl3cXhVQ0N1MjdoSnoxdzVDY25RU3hFYVJpU3RLTjNFcG0zVlZDVC1LOFdKeENEeC04a2ZubEkxTFpPMWZnN0dndWlVWl9hR1g4NzFQcGZIby1Wbm1yM1JVS1lVNWdONFFDUkJFV0t1OHpHUXJIdGNkRmphMUFtS3diNXN2dnZxdnh4SGdjMU5YRHA1VVRZVjJ1MzhRajJEZXpiOXFXYUNjM0tyQ29zN0RoZ1F0ZTZ0MXVvbkY4cDZaZ1MxUUk0aA?oc=5)
-
-2026-03-30 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUDNxMlZxM0VxUlpOb1ZhLTF6eFRBU3VjanliN3J0X2JXQmRxVWl3cXhVQ0N1MjdoSnoxdzVDY25RU3hFYVJpU3RLTjNFcG0zVlZDVC1LOFdKeENEeC04a2ZubEkxTFpPMWZnN0dndWlVWl9hR1g4NzFQcGZIby1Wbm1yM1JVS1lVNWdONFFDUkJFV0t1OHpHUXJIdGNkRmphMUFtS3diNXN2dnZxdnh4SGdjMU5YRHA1VVRZVjJ1MzhRajJEZXpiOXFXYUNjM0tyQ29zN0RoZ1F0ZTZ0MXVvbkY4cDZaZ1MxUUk0aA?oc=5)
 
 ---
 

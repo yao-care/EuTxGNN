@@ -14,7 +14,7 @@ permalink: /news/bimekizumab/
 ---
 
 <p class="key-answer" data-question="Bimekizumab 有什麼相關新聞？">
-<strong>Bimekizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bimekizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/bimekizumab/
 <p><a href="{{ '/drugs/bimekizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
+
+### [Descubren cómo un microARN clave controla la inflamación de las arterias en la diabetes](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLV9GRkl5aVpDTzdQbW1hVGRKUnZIaFdmYUJadDg3dXJGSDN1YXR2ZDBCaVo5ZkJEei1ISG5LVHNLXzJJNDE5ODZrSG1hS3N1YWxpNFJNMHYxUExtOVdWR2V4a3l6SWRzZUZiY0FtNVhGWUNiMC1HNXdmYlU2aFluSFRUMkJyTWxneHFScklBc2xNY3JJZjhJVHA0RXRIY1lKb2lqZkZjSFRrbFNKb2dSVUZCaThBTktZcWlWQ1Fn0gHDAUFVX3lxTFA2amhvcjlFZzN0SWFDY1NZT3FRU2l3dWlYa3Z2TGhkTF92cW5CY1dDdG01cWhOOFBJc1ZBZUZYOWtBa1JXNUVtNHlvazQ5VzVrRXVma2diYjJ2NEJibkVmS1VQSTliaW8zb2pTSjJSMm1LdUpDRGpNNTlvMzk1UnlEcVM0bmhValhZc1dQUVRQbzlaYmlYTkNsYjVXaEczWkVkWm1iSGI5Qm56YTNZcFpWaFg3RE9VeGFqcXF4bFV1bHdRVQ?oc=5)
+
+2026-03-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[democrata.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLV9GRkl5aVpDTzdQbW1hVGRKUnZIaFdmYUJadDg3dXJGSDN1YXR2ZDBCaVo5ZkJEei1ISG5LVHNLXzJJNDE5ODZrSG1hS3N1YWxpNFJNMHYxUExtOVdWR2V4a3l6SWRzZUZiY0FtNVhGWUNiMC1HNXdmYlU2aFluSFRUMkJyTWxneHFScklBc2xNY3JJZjhJVHA0RXRIY1lKb2lqZkZjSFRrbFNKb2dSVUZCaThBTktZcWlWQ1Fn0gHDAUFVX3lxTFA2amhvcjlFZzN0SWFDY1NZT3FRU2l3dWlYa3Z2TGhkTF92cW5CY1dDdG01cWhOOFBJc1ZBZUZYOWtBa1JXNUVtNHlvazQ5VzVrRXVma2diYjJ2NEJibkVmS1VQSTliaW8zb2pTSjJSMm1LdUpDRGpNNTlvMzk1UnlEcVM0bmhValhZc1dQUVRQbzlaYmlYTkNsYjVXaEczWkVkWm1iSGI5Qm56YTNZcFpWaFg3RE9VeGFqcXF4bFV1bHdRVQ?oc=5)
+
+---
 
 ### [Por qué la actividad intensa diaria puede ayudarte a evitar futuras afecciones como la artritis, la demencia y los infartos](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
 
@@ -52,35 +60,11 @@ permalink: /news/bimekizumab/
 
 ---
 
-### [Hallan un nuevo eje molecular que regula la inflamación vascular en la diabetes - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUmVOb0F5YjZYMFJJaVlXeV9lSmJTVU8wcTNlM2ltTFREdEVtaDU3MVJnT0llXzQ0UVF0Tm1RNzhVd3FQWk8xbzJ3SWZWN3RxUS1XSkg4MlRqbTV2UFRHWjR4LXhRX2swWVJjVXNnM1VkS0JpaFVGMzd5SjJOVnV6VHp5ekZrYlNSR3ZHNXhKV3FYMHplN0ZqUkdla0k3d0xKUmFzWG1JZk51d2x2REp5NDZxVmdsQQ?oc=5)
-
-2026-03-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUmVOb0F5YjZYMFJJaVlXeV9lSmJTVU8wcTNlM2ltTFREdEVtaDU3MVJnT0llXzQ0UVF0Tm1RNzhVd3FQWk8xbzJ3SWZWN3RxUS1XSkg4MlRqbTV2UFRHWjR4LXhRX2swWVJjVXNnM1VkS0JpaFVGMzd5SjJOVnV6VHp5ekZrYlNSR3ZHNXhKV3FYMHplN0ZqUkdla0k3d0xKUmFzWG1JZk51d2x2REp5NDZxVmdsQQ?oc=5)
-
----
-
-### [Una investigación revela que la forma del glúteo puede avisar del riesgo de diabetes tipo 2: ¿cuál es la señal de alarma? - Saber Vivir](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQjlxTnBZenpQLUVLTXFlWU42NTMxd2w5Y25CXzdGc1lTRzlQeGNGTTQ1dm1OQkQtOWlyZ0RuVTFJWXBKaVJBclhSZUNWU1dXN1NrWjAtNjJWVUg3MWV6RWZEdXlGR25DM3daajZoVWl5bi1SR21CU3d2THdsaWpoU0JRSHFiVTQ1X1oxa1UtZnVmNmFNV1NSd0o4d1JIVXVLTmp3akcwbVhUQ3d3eWtVd0tBQnFDT29nQmJSVXJnUVFJVGNqdVRjajdxRWlaR0FKQ2lLVnlYN3VoWTJWcDg0NENIMTBrakdZYzBrSlhyUDdaU3o4dVdDdzRB?oc=5)
-
-2026-03-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[Saber Vivir](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQjlxTnBZenpQLUVLTXFlWU42NTMxd2w5Y25CXzdGc1lTRzlQeGNGTTQ1dm1OQkQtOWlyZ0RuVTFJWXBKaVJBclhSZUNWU1dXN1NrWjAtNjJWVUg3MWV6RWZEdXlGR25DM3daajZoVWl5bi1SR21CU3d2THdsaWpoU0JRSHFiVTQ1X1oxa1UtZnVmNmFNV1NSd0o4d1JIVXVLTmp3akcwbVhUQ3d3eWtVd0tBQnFDT29nQmJSVXJnUVFJVGNqdVRjajdxRWlaR0FKQ2lLVnlYN3VoWTJWcDg0NENIMTBrakdZYzBrSlhyUDdaU3o4dVdDdzRB?oc=5)
-
----
-
-### [Descubren una proteína clave del tejido adiposo que podría ayudar en el tratamiento de diabetes y obesidad](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2xlbUlST0Fqa0pRamgyV3BVd2ZOeTNlWk9HdkxBYlVadllkQ2M4TW9vUVlKZkZPMTFkQTdPb0xXLWxJMnA1Y3NBellUbUQyclNTNUZWVVdJVVVLQjdYYmZFS1Q4b1Q5VF92TWFZRVhpVXl2Vk5QSEFLU25sWVBMT0hqcU9OdmsyanFrWlp5ak10WjdfekUxRk1OUVFvdXVNeURVV2ZZdmFyNGEyMzlvbU9PLURIcTgxVmJYTjFmQnBDWWhmSEE3blJvSjhDanFUeGtmVlZfcUU5M3BYWGhUZXVpT2J3bXdaOFNLVtIBhwJBVV95cUxOaWZlbXdlOVBkaVJ2OC1UcTFDX2FRUUp3Qnp5V1A5YjN5VkY1dDdlRFN5Zk1YUG94ay1XS0hfQ1FseG9HRmh0dDUwWVJnd3hsN1BwRmtGd2sydTU0VTV0NVk5OVVORVRmelM1amJlTU12azN2UU53cEZWOVhDakRpbGNQMC1PMWxBUTBPR3pDdnJBSi1KWDRTNnFZZWg0TDU5cUltc2xBMWdGczNpeXltTVdoLV9wZDlrZXJWSVJYcW9hdVpJV0J1QUFPaVJ3QnAyLTFlSExVd1NZTURTWTNsYXB0aVkteWpVYWFxVGpCd3RFLTRIR2I0WjlIRFV3a3VLME9XUUJHcw?oc=5)
-
-2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2xlbUlST0Fqa0pRamgyV3BVd2ZOeTNlWk9HdkxBYlVadllkQ2M4TW9vUVlKZkZPMTFkQTdPb0xXLWxJMnA1Y3NBellUbUQyclNTNUZWVVdJVVVLQjdYYmZFS1Q4b1Q5VF92TWFZRVhpVXl2Vk5QSEFLU25sWVBMT0hqcU9OdmsyanFrWlp5ak10WjdfekUxRk1OUVFvdXVNeURVV2ZZdmFyNGEyMzlvbU9PLURIcTgxVmJYTjFmQnBDWWhmSEE3blJvSjhDanFUeGtmVlZfcUU5M3BYWGhUZXVpT2J3bXdaOFNLVtIBhwJBVV95cUxOaWZlbXdlOVBkaVJ2OC1UcTFDX2FRUUp3Qnp5V1A5YjN5VkY1dDdlRFN5Zk1YUG94ay1XS0hfQ1FseG9HRmh0dDUwWVJnd3hsN1BwRmtGd2sydTU0VTV0NVk5OVVORVRmelM1amJlTU12azN2UU53cEZWOVhDakRpbGNQMC1PMWxBUTBPR3pDdnJBSi1KWDRTNnFZZWg0TDU5cUltc2xBMWdGczNpeXltTVdoLV9wZDlrZXJWSVJYcW9hdVpJV0J1QUFPaVJ3QnAyLTFlSExVd1NZTURTWTNsYXB0aVkteWpVYWFxVGpCd3RFLTRIR2I0WjlIRFV3a3VLME9XUUJHcw?oc=5)
-
----
-
-### [Running for the bus could cut risk of diabetes and dementia - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
+### [Running for the bus could cut risk of diabetes and dementia](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
 
 2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
 
 ---
 

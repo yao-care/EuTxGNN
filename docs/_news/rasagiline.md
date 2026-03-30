@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Running for the bus could cut risk of diabetes and dementia - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
+### [Running for the bus could cut risk of diabetes and dementia](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
 
 2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
 
 ---
 
@@ -60,19 +60,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Our daughter, Leni, is two — and she has dementia](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
+### [Our daughter, Leni, is two — and she has dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
 
-2026-03-29 <span class="news-indication-tag">dementia</span>
+2026-03-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[thetimes.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
-
----
-
-### [Health officials to examine if drugs used to treat Parkinson's can lead to addiction issues - Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
-
-2026-03-28 <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
 
 ---
 

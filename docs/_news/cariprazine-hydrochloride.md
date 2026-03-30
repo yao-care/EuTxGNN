@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
 ### [E-Zigaretten laut Metastudie wirksamste Methode zur Rauchentwöhnung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdmJYeVF4aEVkU0pieXdTS0hpeHo0R3ZReGtKZ2dIX3JfUW44Z0JVWXY3TVhWcEtoMVNsekZxWF9MdlludEtmNlJxSEdyRkFQR2NNb2xScHNzWk5yTXlUNFFsZGZqaFpKS1QxaFpCU0o3TkljZ203V1E5M3B0N0RpWE02SFNNeGZUYnJ0TC03Q0x1X1BDdjd6TnRGSzdCZ25RSkdhUm5YS0ZGUEp4YjlrYk9iRjNza04zWmVsZm9JelNRVmZsSE0zcFpWOXFwQ1Q1OEE?oc=5)
 
 2026-03-30 <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdmJYeVF4aEVkU0pieXdTS0hpeHo0R3ZReGtKZ2dIX3JfUW44Z0JVWXY3TVhWcEtoMVNsekZxWF9MdlludEtmNlJxSEdyRkFQR2NNb2xScHNzWk5yTXlUNFFsZGZqaFpKS1QxaFpCU0o3TkljZ203V1E5M3B0N0RpWE02SFNNeGZUYnJ0TC03Q0x1X1BDdjd6TnRGSzdCZ25RSkdhUm5YS0ZGUEp4YjlrYk9iRjNza04zWmVsZm9JelNRVmZsSE0zcFpWOXFwQ1Q1OEE?oc=5)
-
----
-
-### [La herencia invisible: el legado genético que dispara las adicciones - Huelva Red](https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFZ4aUNLTGFURnNzWThNWGVndnN6bk15cUpTSXlvcjNRYXNfTW44RmFHNHBYbkNjMmN2S21FT1hTckNWTklWdWk1eWpMOG5rSXV3V0hES1JBSGdBSW5OR2V3clpUYU9XSS1EWDlVdlBVTzBkMjNVQl92ZFRyUEl4TlJ4VXFzUHV1WmhjVGlfYUVtZGh5YnhWejNZaEI5V3l1NzNj?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span>
-
-來源：[Huelva Red](https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFZ4aUNLTGFURnNzWThNWGVndnN6bk15cUpTSXlvcjNRYXNfTW44RmFHNHBYbkNjMmN2S21FT1hTckNWTklWdWk1eWpMOG5rSXV3V0hES1JBSGdBSW5OR2V3clpUYU9XSS1EWDlVdlBVTzBkMjNVQl92ZFRyUEl4TlJ4VXFzUHV1WmhjVGlfYUVtZGh5YnhWejNZaEI5V3l1NzNj?oc=5)
 
 ---
 
@@ -68,14 +60,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Según los nutricionistas, el huevo deja de ser un riesgo para el colesterol, y es el mejor alimento posible - El Nacional.cat](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTkFuVEp3c21XS1RIUHRTWGlrNXpVYUZzUWZ0b2R5cUtqOF92VWRJV3NNWG5hZHlsa3Z0bzk5WF9qV2Y5TktTeUx6ZkMzejJmeEh4ajY3WlU3N3FLQXBKbi1DaUtJYTR5dmVUVmJVSGQ0VU9tUF9FSi0yN0RUZmFNVmV2eXRZNzFNVFZJTWdsNk1NRzc1bGV2VTFkNFZFZVVZel9XLVNOOGtVVzFzNjl0MFRoMEZhQVFQRTkyWWMtQlB0Tm9xdjIwcGhLdDlNSzV1LUF4M3dERHdTQ194cE1Vc0FR?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span>
-
-來源：[El Nacional.cat](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTkFuVEp3c21XS1RIUHRTWGlrNXpVYUZzUWZ0b2R5cUtqOF92VWRJV3NNWG5hZHlsa3Z0bzk5WF9qV2Y5TktTeUx6ZkMzejJmeEh4ajY3WlU3N3FLQXBKbi1DaUtJYTR5dmVUVmJVSGQ0VU9tUF9FSi0yN0RUZmFNVmV2eXRZNzFNVFZJTWdsNk1NRzc1bGV2VTFkNFZFZVVZel9XLVNOOGtVVzFzNjl0MFRoMEZhQVFQRTkyWWMtQlB0Tm9xdjIwcGhLdDlNSzV1LUF4M3dERHdTQ194cE1Vc0FR?oc=5)
-
----
-
 ### [Urgent warning about new Covid 19 cicada variant - full list of symptoms - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeThpeWlncy1EMUxSTGdtZFpLM0p4ZElXVzFVMUhBLUNxamlQa05NT21lR1J0bm92ZUkxbFZBUURteTRkTTg4Z09xWllUNDJ6SFVJZjFBekwxWlBTdnA4Sy1OQWRlVnZkZTIxazQ3NGpNQ0tMaDlvS0FvWWRlQdIBgwFBVV95cUxPaDdUMGFFTDVqTkVKWGJkQkJmT2hndndnaG5fUllMc3R0ZDYxal9lOXpwTHBEMEtId24xNm9xSXJjUEViZkgyZ3A4TlZCeVJNU2VBWDB6VEN3cGdIYkpVUEZtMkE1TFotYXRFTjNoWllyNkt2dU9YSkRzSFdwWHZranpNbw?oc=5)
 
 2026-03-29 <span class="news-indication-tag">MS</span>
@@ -84,11 +68,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Women urged to recognise early signs of cancer often mistaken for other common conditions - Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzc5dUF1OXJOc1hmZ3cwX1E5c2J6QXAxNDJpc2dxUkhHYXVBR0NoR2FtdmI3dGFZNkE5Y2NHMnFzdkt3VnJubjNfN0xBdlF6Mm1Ec0hxRThDdHlycUk4SUQtUmstYjJORjZHWlQyekhVOVhUZk51LUcwQ0lFQlBuTG9XbDlJdURzaGtCa3diLTJjVXJqQmNKQ0130gGfAUFVX3lxTE44bC0td1JqN29VQ2RQYW9OcUdRUlowdGNJNE1KM1hGRnFSOWc4czV2R3MzYVRVcTJRY2RwcW5DejNCSVI0WTVRb2RqUU92eGVyTVE4OGtmRW9ld0llZldEelpDM1lkMHc0czVFM1pwZzRvWUFHcllFcEFNMkxiS09fbnBRR1Ftb29hei1MeVVaWE0tWjkzNkFmQnB6Ui1oSQ?oc=5)
+### [Women urged to recognise early signs of cancer often mistaken for other common conditions](https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzc5dUF1OXJOc1hmZ3cwX1E5c2J6QXAxNDJpc2dxUkhHYXVBR0NoR2FtdmI3dGFZNkE5Y2NHMnFzdkt3VnJubjNfN0xBdlF6Mm1Ec0hxRThDdHlycUk4SUQtUmstYjJORjZHWlQyekhVOVhUZk51LUcwQ0lFQlBuTG9XbDlJdURzaGtCa3diLTJjVXJqQmNKQ0130gGfAUFVX3lxTE44bC0td1JqN29VQ2RQYW9OcUdRUlowdGNJNE1KM1hGRnFSOWc4czV2R3MzYVRVcTJRY2RwcW5DejNCSVI0WTVRb2RqUU92eGVyTVE4OGtmRW9ld0llZldEelpDM1lkMHc0czVFM1pwZzRvWUFHcllFcEFNMkxiS09fbnBRR1Ftb29hei1MeVVaWE0tWjkzNkFmQnB6Ui1oSQ?oc=5)
 
 2026-03-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzc5dUF1OXJOc1hmZ3cwX1E5c2J6QXAxNDJpc2dxUkhHYXVBR0NoR2FtdmI3dGFZNkE5Y2NHMnFzdkt3VnJubjNfN0xBdlF6Mm1Ec0hxRThDdHlycUk4SUQtUmstYjJORjZHWlQyekhVOVhUZk51LUcwQ0lFQlBuTG9XbDlJdURzaGtCa3diLTJjVXJqQmNKQ0130gGfAUFVX3lxTE44bC0td1JqN29VQ2RQYW9OcUdRUlowdGNJNE1KM1hGRnFSOWc4czV2R3MzYVRVcTJRY2RwcW5DejNCSVI0WTVRb2RqUU92eGVyTVE4OGtmRW9ld0llZldEelpDM1lkMHc0czVFM1pwZzRvWUFHcllFcEFNMkxiS09fbnBRR1Ftb29hei1MeVVaWE0tWjkzNkFmQnB6Ui1oSQ?oc=5)
+來源：[belfastlive.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzc5dUF1OXJOc1hmZ3cwX1E5c2J6QXAxNDJpc2dxUkhHYXVBR0NoR2FtdmI3dGFZNkE5Y2NHMnFzdkt3VnJubjNfN0xBdlF6Mm1Ec0hxRThDdHlycUk4SUQtUmstYjJORjZHWlQyekhVOVhUZk51LUcwQ0lFQlBuTG9XbDlJdURzaGtCa3diLTJjVXJqQmNKQ0130gGfAUFVX3lxTE44bC0td1JqN29VQ2RQYW9OcUdRUlowdGNJNE1KM1hGRnFSOWc4czV2R3MzYVRVcTJRY2RwcW5DejNCSVI0WTVRb2RqUU92eGVyTVE4OGtmRW9ld0llZldEelpDM1lkMHc0czVFM1pwZzRvWUFHcllFcEFNMkxiS09fbnBRR1Ftb29hei1MeVVaWE0tWjkzNkFmQnB6Ui1oSQ?oc=5)
 
 ---
 
@@ -108,6 +92,14 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [Fibra o proteínas en el desayuno: qué conviene priorizar para mejorar la digestión y el control del peso](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSlpYZXhVMDJlaUVvMUhzQnl5aV9RVDhKS1lQRVRDQS1PVHU1bFZNemlGUC1OUHJidUUwc0gxblktc09mRTl5NXd3OVlpT2l5WVJGVTRuV1loeFl6UjdSLUMyeF8zb2FVald4U3hDZ1lRS0xJcVZnMk5QYkwwQldRRm9BdUlmUzhmc0l1ZG4xcGtiTkRnb09tYUlUeHVlYUVGbFZ6UVpuVzFHQlNHbVdScmdtWWFKbllMQW1wVFdpcXV3NzRCalZHZm5CdWVNUTl0R0pFNmc4U3pMb2hiQVHSAfgBQVVfeXFMUC01d2FwM1FCM3ctSWx5c3ZncGRnRVdya2dSX0RTdVVDQ2VIMmhjQjZWY2VWWS04OXRtTGJDS2NucVZNMmk1VHFwWEdHejBUVGNxUDRuVF9fVmdqVVMzalM5Yy1TWmhvQmNQa3VsWEtiZWhPRVYtUGNWWUJCaV9QUS0yVFVlUzBtc1I4RHJoMlhTTlU1UTFoSjN1NkUtdkY4ZExkU2RXU01CaXVPbE95RVIwRC13Y1NlbllOM2lORTdSaDI0UEptMmMxanFITVBPSVgtaldFWnEycUdCcG95WUI5ejRNUFc4RkpweGRMcFdfazdZUzR6eDE?oc=5)
+
+2026-03-29 <span class="news-indication-tag">MS</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSlpYZXhVMDJlaUVvMUhzQnl5aV9RVDhKS1lQRVRDQS1PVHU1bFZNemlGUC1OUHJidUUwc0gxblktc09mRTl5NXd3OVlpT2l5WVJGVTRuV1loeFl6UjdSLUMyeF8zb2FVald4U3hDZ1lRS0xJcVZnMk5QYkwwQldRRm9BdUlmUzhmc0l1ZG4xcGtiTkRnb09tYUlUeHVlYUVGbFZ6UVpuVzFHQlNHbVdScmdtWWFKbllMQW1wVFdpcXV3NzRCalZHZm5CdWVNUTl0R0pFNmc4U3pMb2hiQVHSAfgBQVVfeXFMUC01d2FwM1FCM3ctSWx5c3ZncGRnRVdya2dSX0RTdVVDQ2VIMmhjQjZWY2VWWS04OXRtTGJDS2NucVZNMmk1VHFwWEdHejBUVGNxUDRuVF9fVmdqVVMzalM5Yy1TWmhvQmNQa3VsWEtiZWhPRVYtUGNWWUJCaV9QUS0yVFVlUzBtc1I4RHJoMlhTTlU1UTFoSjN1NkUtdkY4ZExkU2RXU01CaXVPbE95RVIwRC13Y1NlbllOM2lORTdSaDI0UEptMmMxanFITVBPSVgtaldFWnEycUdCcG95WUI5ejRNUFc4RkpweGRMcFdfazdZUzR6eDE?oc=5)
+
+---
+
 ### [On pensait s'être débarrassé de l'infection la plus mortelle au monde: elle fait pourtant son grand retour](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXNwV1BBU2Nwa1BaMXV1QzlhS2VZbkJ5N2dWZm1vNEM4RDlZRFc4LXVmY1JvYU5NN0hpZ3lzaUtzUTBkUU9DVnVJdUZZS3dRU2thUWh5Tm1SaDlKRW9NTDQwV21VaTJaN3ZOajJPV0tJMUY3R2lNODh5RVFxc0dNV0EwY0N1eTktcm9ULWF1VlFjVUR3TXhKOFVKOEZqa1FmLUU3SXlOV1EzUTJicDJQTHFsdG1YamF6OGIxWWQyN3Z0M1FLMTBmVlNlb3Vuei1RLUUxdm9R0gHbAUFVX3lxTFBfV2o5TURVVloyc2hrcnZTMFNLWDMxamlqQmVBZUZYNkpkYnpZMUNwQm0ya0JYa3BWT1EyS201SWV2Nlh2QnJzQXZHV1ozWldMQ3RqVkFHZFEyVENkd01MXzh3ZGtlWlJ2V0t4NTN3Q3pLYzZTS1BzN1hOSFdDSUVZMnpaT0RYa3hLUWdzb20zVE9IMFNDMkxWOFl1aG9IMjA3endVUVlaVUlCZHZkVDI1V3BnbHg0WlJmb3IxZG9ORkZSSHJKY19hQzk2SVYtb2xnSXkyMmVWaFJEQQ?oc=5)
 
 2026-03-29 <span class="news-indication-tag">MS</span>
@@ -121,14 +113,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-03-29 <span class="news-indication-tag">MS</span>
 
 來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb2ROWWdVODhYSVFWMW5rc3lPT0pZV25YMFpEaEgzajFBVlJUU3JmelFlR1pOcnlVQWh2SlliaHlhSmQ3MVIzczRVTGNHeWJ2X2ZWOHZyalkwY0U4MExJdkRTVzFaTHpJQlBCbHY5T2VCYVVrUDFLRldpWm5kVEM1NV9DbXRvakw3bXNuRTF0R2EyYzZ6VlhTN2kzcmlwWXQ3UkRuX2xVVVhPdWlFdGxUOUJKVVVaWTVYVEJDdlRORTNadV9sSDdSSmMzTURya0lJX3FnbExONlZ6UGFITEgybXRwWkhPc3FYS3ZCTDRicDJ5V0lxLUZkdC1GQQ?oc=5)
-
----
-
-### [Welche 10 Lebensmittel deine Energie und Figur ausbremsen – und was besser passt - FIT FOR FUN](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRkJaRmpkYkZHLVR5aXRaa1FqeDJ6eldqbG1XUHQxY2hwSEhZNGE4VEhlcHd3TDBZTjhjdmhZWWEwUm1YLVljdnpwRVF3SWZBSkxkOFA0dnlpc2RUcmRYcFhNYkstM3ZfRjRQNlhrTUFIb0FZejVpWERoSUpHdTNOYlFFSjlEbm5TSHJCTElQSWQ0YkNwaWt1LUVxOTUwNHp6VExmbWNtOVZxUzdsWklBNkVVankwMG5ObFpTMmpZVktzTFp4OFdjT3FIcEU4NTJvVjRqZTlNcnpiZXVCR1Etdk1yTFUtdnBNR013NVB4X1k2UGkwWXRj?oc=5)
-
-2026-03-28 <span class="news-indication-tag">MS</span>
-
-來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRkJaRmpkYkZHLVR5aXRaa1FqeDJ6eldqbG1XUHQxY2hwSEhZNGE4VEhlcHd3TDBZTjhjdmhZWWEwUm1YLVljdnpwRVF3SWZBSkxkOFA0dnlpc2RUcmRYcFhNYkstM3ZfRjRQNlhrTUFIb0FZejVpWERoSUpHdTNOYlFFSjlEbm5TSHJCTElQSWQ0YkNwaWt1LUVxOTUwNHp6VExmbWNtOVZxUzdsWklBNkVVankwMG5ObFpTMmpZVktzTFp4OFdjT3FIcEU4NTJvVjRqZTlNcnpiZXVCR1Etdk1yTFUtdnBNR013NVB4X1k2UGkwWXRj?oc=5)
 
 ---
 

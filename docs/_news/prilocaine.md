@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Prilocaine</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Meningitis nightclub reopens with kissing warning](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
+
+---
 
 ### [Por qué la actividad intensa diaria puede ayudarte a evitar futuras afecciones como la artritis, la demencia y los infartos](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
 
@@ -52,19 +60,27 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Menopausia sin mitos: “No hay que resignarse, hay soluciones para mejorar la calidad de vida” - Radio Nervión](https://news.google.com/rss/articles/CBMiygFBVV95cUxNd01XeWROX2Z1YjItTVV3Z2d4TnE3U0RyWUo3ZHVWdmRvX2lsNjN3LTVRX0NYRlFNcVY2X2FxRUNpbm5aWXZpejJWXy1ublhUbmg4XzBSUmpUOHpyX3ZvZjd3RXRvRklKOXV0TFN4RndNdS1KZjJySDh4N0JQcVU4d3daTVBYWTZ1NlNyc2dmS3JoZHh2VXpjWkdZSWpLbzhsdU1pNGZoWGFRTWxaWWdKN2xNQjZaMnkxTEszcDQyYzRIcWNzNFNuT1pR?oc=5)
+### [East Surrey Hospital declares critical incident after norovirus outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMlZYYnJlbG9Ya1JEbTNnbFNpYnVhUHVYZFV6Z3kxTmU5cTVLOURWek5ZQ0IyWk5fZXBaVlNiV2l1alp3R0tZZUE0RGxfLUlGSzJHOFlTTjFZUU1K?oc=5)
 
 2026-03-30 <span class="news-indication-tag">AF</span>
 
-來源：[Radio Nervión](https://news.google.com/rss/articles/CBMiygFBVV95cUxNd01XeWROX2Z1YjItTVV3Z2d4TnE3U0RyWUo3ZHVWdmRvX2lsNjN3LTVRX0NYRlFNcVY2X2FxRUNpbm5aWXZpejJWXy1ublhUbmg4XzBSUmpUOHpyX3ZvZjd3RXRvRklKOXV0TFN4RndNdS1KZjJySDh4N0JQcVU4d3daTVBYWTZ1NlNyc2dmS3JoZHh2VXpjWkdZSWpLbzhsdU1pNGZoWGFRTWxaWWdKN2xNQjZaMnkxTEszcDQyYzRIcWNzNFNuT1pR?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMlZYYnJlbG9Ya1JEbTNnbFNpYnVhUHVYZFV6Z3kxTmU5cTVLOURWek5ZQ0IyWk5fZXBaVlNiV2l1alp3R0tZZUE0RGxfLUlGSzJHOFlTTjFZUU1K?oc=5)
 
 ---
 
-### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTFwQ1J6emplVHVlS1NtdnhyS2FUanZRbUF6MjdoQjM2c0tNUUFaN3ZmNWttVXZ5OE1UQmY4ek9XYWw3dWh3SXNlSlNYc3o2eWVfNW9zemNUNXFVY2tGRV8yNVRTV3Y5MVNOZjJiZDNJb1U5RXBPZkFTWGpCb3ZSQ1luSko2TXFjX0R2VGl6Z3kxRUxrM3lYbVVoV1MyeVNNamlxWA?oc=5)
+### [Los entrenadores coinciden: "A partir de los 55 años, hay que caminar todos los días al menos 20 minutos, preferir las escaleras, hacer estiramientos suaves y trabajar el equilibrio" - El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOQUFxb1VtTEM5c3Eydm5sTDFET0VhalMtVTVDOVFKVGE1cWstRjh3UmUwZjhhUmFtYTFUbWo4SXRpVEpZbTZMQ2pTWU9XWHZIelpoTzdLc1U0VG1qOEw2a2JsblRBcUZPbTNqRTZjeXZsZ0h0SF9ZaXpkWkdrTmViRjZGenRINm81aWN5UVJlbEd4MS1Kb2JXc3pUbU5vTjBsZG50YnV1bmstSnhfR3ZLTXVjRWRhWmhUYzVLQ25VcFhxbW5lQTJ3ajFvOERFVTcyVnlXQ29McXJHdTYzNWxORkpnTWVlRFZBczA1ZEU1bmxPX001MW1ub1NNeDZkTEV6V3JoMHZWSFVLTkZoQmF1YnFfYlZKNTJXYVpNZVFYakkwYkpCOXE5MkI3dDNUY29jNFQ5aTRWSUZWQ3ZZV2hLNzFpR3V1TjVBM18yS0VxUmdpR05WZXhfdzhZRU56UVE1Y0FsQzZyQUhkZF9CNTNaR214MVZzNGM?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOQUFxb1VtTEM5c3Eydm5sTDFET0VhalMtVTVDOVFKVGE1cWstRjh3UmUwZjhhUmFtYTFUbWo4SXRpVEpZbTZMQ2pTWU9XWHZIelpoTzdLc1U0VG1qOEw2a2JsblRBcUZPbTNqRTZjeXZsZ0h0SF9ZaXpkWkdrTmViRjZGenRINm81aWN5UVJlbEd4MS1Kb2JXc3pUbU5vTjBsZG50YnV1bmstSnhfR3ZLTXVjRWRhWmhUYzVLQ25VcFhxbW5lQTJ3ajFvOERFVTcyVnlXQ29McXJHdTYzNWxORkpnTWVlRFZBczA1ZEU1bmxPX001MW1ub1NNeDZkTEV6V3JoMHZWSFVLTkZoQmF1YnFfYlZKNTJXYVpNZVFYakkwYkpCOXE5MkI3dDNUY29jNFQ5aTRWSUZWQ3ZZV2hLNzFpR3V1TjVBM18yS0VxUmdpR05WZXhfdzhZRU56UVE1Y0FsQzZyQUhkZF9CNTNaR214MVZzNGM?oc=5)
+
+---
+
+### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern - Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 2026-03-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTFwQ1J6emplVHVlS1NtdnhyS2FUanZRbUF6MjdoQjM2c0tNUUFaN3ZmNWttVXZ5OE1UQmY4ek9XYWw3dWh3SXNlSlNYc3o2eWVfNW9zemNUNXFVY2tGRV8yNVRTV3Y5MVNOZjJiZDNJb1U5RXBPZkFTWGpCb3ZSQ1luSko2TXFjX0R2VGl6Z3kxRUxrM3lYbVVoV1MyeVNNamlxWA?oc=5)
+來源：[Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 ---
 
@@ -76,14 +92,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [BiliSeq, la prueba que dobla la capacidad de detectar el cáncer de las vías biliares y afina el diagnóstico](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0Iwb1kwWXhxRjNrTG52RGhmSnRlSzNNcUs5UGljcTJjRHJXTjhTdS1VaXlXMEpaQ3BycEVUZmZlT2tOalYwT2dWWFpuVUVya09kX0IxOWduUmhncTZReVIyM1NHLVR2cDlnVlNTMG9EX21mQXpjNnR6eTllbjJmMFVtMjhOVmp2Q3llRnJsY2xkbXRTRGtKem1pamVXQW1mOUdKdFRIX0s4OVRxSnAxSm9PRXdlNmduU1Ezc015MkJiQzczMEt5UzJLSlF3akRHbk5VVE1UbWZ3LXJLNWREMDJVWmxhN0U?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0Iwb1kwWXhxRjNrTG52RGhmSnRlSzNNcUs5UGljcTJjRHJXTjhTdS1VaXlXMEpaQ3BycEVUZmZlT2tOalYwT2dWWFpuVUVya09kX0IxOWduUmhncTZReVIyM1NHLVR2cDlnVlNTMG9EX21mQXpjNnR6eTllbjJmMFVtMjhOVmp2Q3llRnJsY2xkbXRTRGtKem1pamVXQW1mOUdKdFRIX0s4OVRxSnAxSm9PRXdlNmduU1Ezc015MkJiQzczMEt5UzJLSlF3akRHbk5VVE1UbWZ3LXJLNWREMDJVWmxhN0U?oc=5)
-
----
-
 ### [Quelles sont ces machines à café qui accentueraient le mauvais cholestérol ? - La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjlMY0pIRWtXTVpQcjVwVnY5ZWs5a3d5VEJEMElRdUs4Nk5OV3JuWW5PcHc1SlRDSDlnb20zd1BrT2VqVkRxdzFNbmt4TkZtZC1DWXpjX3J0ZDZFQkxtZ3J5RU5oZHhwSnBJZnlUYkxyNENaSTJ1UVVhV0dHbmRsUDRMaUloelI0S0s2Mm1JMmdkUHdldFhQSG0xWm1ONEhVTjZxbm5kdzNHOFNTbUZXVy1XeGJBNWhiU3pGc2dCVGlWTXRaXzliVEJaT0pTUE9JVzlpanRWd29Rc28?oc=5)
 
 2026-03-30 <span class="news-indication-tag">AF</span>
@@ -92,11 +100,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Young Adult Substance Use Affects Memory at 65 - Neuroscience News](https://news.google.com/rss/articles/CBMid0FVX3lxTE1yWElCOVBpaDhuMThXQ2xUaTUwTjU5VjhWbFZyaHpBdmNBeE5XVXdIQ093SU1MaFBwMkZCcnhsS2Mwdm4zN2dyMEtaN2hNbDBhXzZ3dTlLNlRvS28xV2s1VG84bUY2cGRxdzFSdlBVS2VjbllMWklN?oc=5)
+### [Our daughter, Leni, is two — and she has dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
 
-2026-03-29 <span class="news-indication-tag">AF</span>
+2026-03-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMid0FVX3lxTE1yWElCOVBpaDhuMThXQ2xUaTUwTjU5VjhWbFZyaHpBdmNBeE5XVXdIQ093SU1MaFBwMkZCcnhsS2Mwdm4zN2dyMEtaN2hNbDBhXzZ3dTlLNlRvS28xV2s1VG84bUY2cGRxdzFSdlBVS2VjbllMWklN?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
 
 ---
 
@@ -108,19 +116,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Marché de Tarbes sous surveillance : les douaniers mettent au jour des trafics inattendus - La Semaine des Pyrénées](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVZfd1NzV1kwX1l3aTJ1RWE2cWhfcTVwcV9EbE4tZHhvS2haMHZVSm4zV2RWeEhkTng1NmVlYlBDMjFuaDBfOXhuLW45OXN2MjY3M3FEU1NKRzRYZVB2RkozX0gtSGIwRU5zRkwwT05hLS1qS2ZleHV2cGQ1eHhqUTl5LU1ndlZVNkNwMVBhOVpSQmYzeHByQUptcElWa0RjbFR5VGluQTZUbHVocThhdHBDS0MzZGJWTzFkYWN4MGVtdw?oc=5)
+### [Café con canela: la mezcla que gana terreno por sus posibles beneficios para el corazón y el metabolismo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVTdxQU9aVWJXX2hPMTVkZHFhZzZaSGxZWG9SYVJMVkFaT0h3VGNTY1hWOGhLaXhKTTVDaEM0c0dTNVF0c2l0Wml5U25CRnhsd1pxcVpQTFpNd0NTSjlOSVZoMTl6bUxHWE9zQm45RWJJaVBLOFRQcE5fQUZCdjN1UXBwMkZqR0tWVjA5T3p5V25obFZLYzNRZ2VSN2pBUGU0NXRXUkRtQ2E3eW84b2xhUUxlZWRDQ3oxNUFoS2JZZTFWMlJUUlpDR3FyUlV1bmFiYU41VTdqOC00Zw?oc=5)
 
-2026-03-29 <span class="news-indication-tag">AF</span>
+2026-03-28 <span class="news-indication-tag">AF</span>
 
-來源：[La Semaine des Pyrénées](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVZfd1NzV1kwX1l3aTJ1RWE2cWhfcTVwcV9EbE4tZHhvS2haMHZVSm4zV2RWeEhkTng1NmVlYlBDMjFuaDBfOXhuLW45OXN2MjY3M3FEU1NKRzRYZVB2RkozX0gtSGIwRU5zRkwwT05hLS1qS2ZleHV2cGQ1eHhqUTl5LU1ndlZVNkNwMVBhOVpSQmYzeHByQUptcElWa0RjbFR5VGluQTZUbHVocThhdHBDS0MzZGJWTzFkYWN4MGVtdw?oc=5)
-
----
-
-### [Health officials to examine if drugs used to treat Parkinson's can lead to addiction issues - Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
-
-2026-03-28 <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzgtZGFIZEFoZm85NW9DdWYtUWdpNGkzd3NmZE5RV0ZTRjFTakhsV1IybGpMQVNBdmxmREFBMWJOWWNnbTJsTDg4OTNYcm9PRWs5VDY0QWdIVFRUVFBnM1F1aG5ua2FzR01LZnJ1M3lFUEJRZjVKMWJHd0hOMHBjZzhSZ1JuUlpMM0RaVk1KSUE1akRPZGdEWFlobTBtVFVMNHNSUkYzemhGbDJUR3FKM0lEMy0xZWJSeWZZYWowRm0xUVpa?oc=5)
+來源：[ELTIEMPO.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVTdxQU9aVWJXX2hPMTVkZHFhZzZaSGxZWG9SYVJMVkFaT0h3VGNTY1hWOGhLaXhKTTVDaEM0c0dTNVF0c2l0Wml5U25CRnhsd1pxcVpQTFpNd0NTSjlOSVZoMTl6bUxHWE9zQm45RWJJaVBLOFRQcE5fQUZCdjN1UXBwMkZqR0tWVjA5T3p5V25obFZLYzNRZ2VSN2pBUGU0NXRXUkRtQ2E3eW84b2xhUUxlZWRDQ3oxNUFoS2JZZTFWMlJUUlpDR3FyUlV1bmFiYU41VTdqOC00Zw?oc=5)
 
 ---
 
@@ -129,6 +129,14 @@ permalink: /news/prilocaine/
 2026-03-28 <span class="news-indication-tag">AF</span>
 
 來源：[Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2YyQW5rQW1XRW9IZkFuR0E3WWFaY09CVU4xRW5taU94eUVsRmFvQm5qcDhJZXU0WjNnVnpjSGI2N2NMTG4weVQ3SnNNLVQwWmJkNUpkQmRuc01kOUlMUjEtc0M1ZDBBeGx3Ym1xTHd1eFZtSmFNNFh1ak5jU2JmMU5PTTdrNUkyTmNKb191UDN6aHNWRU9GR0lFSF9nejRGcUZBZ0E2VktGc2NoSnBYaU42Z0lfd3VBTkVqZnBGTnpoTmVJ?oc=5)
+
+---
+
+### [Meningite Uk, il Board del Calendario Vaccinale chiede di rivedere la strategia italiana di vaccinazione degli adolescenti - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTW1iOTZkcnV5SHotSVJ0X3VlZTVSU0tkTDhOQk1Xa3A3OG5ubk41VjR1amJ2OG8tM2dUUkpvM2Z6M1ZaSXhRZXZ3TjJUVGlZWlNxTGI1YWRMNnNhcHhsUDM0WDBpTXlXYjMwUkU0dkt1STVmeE0zb0g0S2t5QldVd1otQlV3U3NRN0ZZMXVXa2VXWldZVEZrZ1pYejVEUHpMQldJaTNBUC1MaVJXYVlTN09xUUFFYXl4MnlzVFJrMkt5WGpENFg1TGhtY01UdzRMaXhobDdJQkpVLW5IY28yTzM1bG83Mzh4UDl1RHNBYUc5NmhZeHc?oc=5)
+
+2026-03-26 <span class="news-indication-tag">AF</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTW1iOTZkcnV5SHotSVJ0X3VlZTVSU0tkTDhOQk1Xa3A3OG5ubk41VjR1amJ2OG8tM2dUUkpvM2Z6M1ZaSXhRZXZ3TjJUVGlZWlNxTGI1YWRMNnNhcHhsUDM0WDBpTXlXYjMwUkU0dkt1STVmeE0zb0g0S2t5QldVd1otQlV3U3NRN0ZZMXVXa2VXWldZVEZrZ1pYejVEUHpMQldJaTNBUC1MaVJXYVlTN09xUUFFYXl4MnlzVFJrMkt5WGpENFg1TGhtY01UdzRMaXhobDdJQkpVLW5IY28yTzM1bG83Mzh4UDl1RHNBYUc5NmhZeHc?oc=5)
 
 ---
 

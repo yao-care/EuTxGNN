@@ -44,11 +44,19 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（10 則）
 
-### [Infartos, ictus y memoria: una nueva guía para mayores que mira a corazón y cerebro al mismo tiempo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMERZZjNZU2VOT2hWRVdDa2xFbFI1cms5bUw0SVR4dXU3QWdQb1hLZ3lFMWZnTVVnRTlYTEJmdnhWT1dnaHl4NW1wSmhpRjhjZlR4Sk04aXdvNU1EcG5EdkNicTROc1Q1bmVYNjltaUtVZ3hFalZ0V2g5Y1E3SVk5VWJMNU54UEZFa3ZTTVZfcVEyZTdmdFJTQTI3dzcyX01vbEN4WXBqU3VnNVREVWJvQnhlaERiRlNfdEhoS1lNcjdENWduZ2lFQUlXY0luSnh3WHVz?oc=5)
+### [Aliments ultratransformés : un détail sur l’emballage pourrait révéler le danger masqué - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3V5TU85WHFYMm04WkUtd19iZWtyMThwc3p6dW5DT25xRF9LWWRJYmgzZlZVMEFXS082YkczLUhNbEhJZktiMEFnLXBIcXEzTUtJekY5N09FXzlZUkVFR1dPRTNLZU9sNzhaajRSdDgtNjQyY0U3bkJFWWVjdXhTM1hkelNjcTZPdTdDTjY3aHJEcXhrSGNJN2x1anJodzhGc2pPOVVoeGN5TWNxcUw4U1Ryd1JtbndHX1NIbDV2NHBqOWx5WThUUFQ2dm9xTktORWdacm9GMFBVQkU?oc=5)
 
-2026-03-30 <span class="news-indication-tag">ictus</span>
+2026-03-30 <span class="news-indication-tag">AVC</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMERZZjNZU2VOT2hWRVdDa2xFbFI1cms5bUw0SVR4dXU3QWdQb1hLZ3lFMWZnTVVnRTlYTEJmdnhWT1dnaHl4NW1wSmhpRjhjZlR4Sk04aXdvNU1EcG5EdkNicTROc1Q1bmVYNjltaUtVZ3hFalZ0V2g5Y1E3SVk5VWJMNU54UEZFa3ZTTVZfcVEyZTdmdFJTQTI3dzcyX01vbEN4WXBqU3VnNVREVWJvQnhlaERiRlNfdEhoS1lNcjdENWduZ2lFQUlXY0luSnh3WHVz?oc=5)
+來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3V5TU85WHFYMm04WkUtd19iZWtyMThwc3p6dW5DT25xRF9LWWRJYmgzZlZVMEFXS082YkczLUhNbEhJZktiMEFnLXBIcXEzTUtJekY5N09FXzlZUkVFR1dPRTNLZU9sNzhaajRSdDgtNjQyY0U3bkJFWWVjdXhTM1hkelNjcTZPdTdDTjY3aHJEcXhrSGNJN2x1anJodzhGc2pPOVVoeGN5TWNxcUw4U1Ryd1JtbndHX1NIbDV2NHBqOWx5WThUUFQ2dm9xTktORWdacm9GMFBVQkU?oc=5)
+
+---
+
+### [High blood pressure is damaging your brain, sight and sex life. Here’s how to bring it down](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
+
+2026-03-30 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
 
 ---
 
@@ -96,31 +104,23 @@ permalink: /news/telmisartan/
 
 2026-03-29 <span class="news-indication-tag">AVC</span>
 
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
+來源：[actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
 
 ---
 
-### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
+### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 2026-03-29 <span class="news-indication-tag">ictus</span>
 
-來源：[somospacientes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 ---
 
-### [Crise cardiaque : seulement 11 minutes de sommeil en plus peuvent réduire les risques, à condition de respecter cette règle](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
+### [Crise cardiaque : seulement 11 minutes de sommeil en plus peuvent réduire les risques, à condition de respecter cette règle - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
 
 2026-03-29 <span class="news-indication-tag">AVC</span>
 
-來源：[mariefrance.fr](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
-
----
-
-### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich?](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
-
-2026-03-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[derbund.ch](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
+來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
 
 ---
 

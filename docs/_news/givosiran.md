@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Descubren un candidato farmacológico clave contra la hepatitis E](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
+
+2026-03-30 <span class="news-indication-tag">hepatitis</span>
+
+來源：[democrata.es](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
+
+---
+
+### [Reto del diagnóstico de hepatitis delta - Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
+
+2026-03-30 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
+
+---
+
+### [High blood pressure is damaging your brain, sight and sex life. Here’s how to bring it down](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
+
+2026-03-30 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
+
+---
 
 ### [Cosa si sta facendo a Napoli contro l’aumento anomalo dei casi di epatite A - Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
 
@@ -68,11 +92,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich?](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
+### [Epatite A, tre nuovi ricoveri a Catanzaro: cozze e pesce crudo consumati a casa - La Nuova Calabria](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZE9ZREZncWhmY3pRcHVmajlwcEdhQ0FMbUFKY01mbXFaNW1yOC1mdG1xOW5WUWh0UEQ5WXJFOF9NaV83dDBKWUxQenM4VzVnLTRROUFFamtwNktqVThLNFVtckZDZ1dlSHpMMVBMWGVSd3ZyVVdPaWI1eW5vMHdtR1A2SGZqSHQyOWR1SzdEUkRrWDlNMkc3VnY4UGJKcFV4V3U1R3Y5cw?oc=5)
 
-2026-03-28 <span class="news-indication-tag">Bluthochdruck</span>
+2026-03-27 <span class="news-indication-tag">epatite</span>
 
-來源：[derbund.ch](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
+來源：[La Nuova Calabria](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZE9ZREZncWhmY3pRcHVmajlwcEdhQ0FMbUFKY01mbXFaNW1yOC1mdG1xOW5WUWh0UEQ5WXJFOF9NaV83dDBKWUxQenM4VzVnLTRROUFFamtwNktqVThLNFVtckZDZ1dlSHpMMVBMWGVSd3ZyVVdPaWI1eW5vMHdtR1A2SGZqSHQyOWR1SzdEUkRrWDlNMkc3VnY4UGJKcFV4V3U1R3Y5cw?oc=5)
 
 ---
 

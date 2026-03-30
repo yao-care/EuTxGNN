@@ -44,6 +44,14 @@ permalink: /news/deferiprone/
 
 ## 相關新聞（3 則）
 
+### [High blood pressure is damaging your brain, sight and sex life. Here’s how to bring it down](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
+
+2026-03-30 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
+
+---
+
 ### [La apnea del sueño no tratada aumenta el riesgo de sufrir hipertensión - Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmw3dTZLZllQM1JFUG00ZUVzZzRBZkxDbHZvajNWZkJMaEpuR3phSVJ3cFdpaFRxMHVhV2tHc19TakVXVWpGNHN4eDRRZTVtV1pBWU5sak4tTXNLVHJkVHVPbUd0VF9xRmE2TTdTMmhBZ1M2bTNRUm9LQXpZUG9aR2ZSWlJDUTBmUmVOZWxuUG9RUGJZcUJWa0drVllTTndneGktTEczTXRSM3lsZXkwUlA1T25pNEpJbFcySDFmSTdSMEdwamVv0gHHAUFVX3lxTE5SQXZndGwzbll3TTc3QXNHTkhKa0s4OXE1aGltM1J3c1kyUGlDcXk1akRLbFZTTzZ3UjZBbFlieWszWDRnY2dkczFEdjAtd1cwUkp0UzF6eTlkYVRtcXF1YlpJb2JfTy1CWkEtQVpXVmU1b2JqUlVIVGZiNUdZTmdPdjZvcllmTlptc1c5ZV92Wl9VaW1oRUJpWWFxWlZkNnZLQ2lybEFrRUZnMnRzVGpvdzJqbGwzM0RZZEp1aUsyZlRJQjRSWmM?oc=5)
 
 2026-03-30 <span class="news-indication-tag">hipertensión</span>
@@ -57,14 +65,6 @@ permalink: /news/deferiprone/
 2026-03-29 <span class="news-indication-tag">ipertensione</span>
 
 來源：[L'Arena](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
-
----
-
-### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich?](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
-
-2026-03-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[derbund.ch](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
 
 ---
 
