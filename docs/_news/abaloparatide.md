@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abaloparatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [At 48, I was told I was prediabetic – I reversed it with these simple rules - The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
 
@@ -52,27 +52,19 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [Migraña hormonal femenina: infradiagnosticada y afecta a miles de mujeres en el mundo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
+
+2026-03-28 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[laopinion.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
+
+---
+
 ### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen](https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkhOVmZDYTdRb3ZyVENzQ2sxLVNRc3RwSEVCUXAxR3laU2VQMjhMZTNqemx4S01BYzFCc19yZ1g3Z2lTYmVYX1ZibVdEVUp0MHBwMndVS2hhRDlLeEo2SnZqMmg3M0ZsampXRnZBVk9NUU5fWXBkSHdwWU5sWDBFNTNfcUV3V0N0Q0NZVXc0eXFzSVhRYzB0aXkyNHdTdUI3NWs4OVdwVTdYeDhlRmtEZmh5MV9qXzJBMmVSZGthTnA2NmMyb0x1ZXpMSmg?oc=5)
 
 2026-03-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
 
 來源：[fnp.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkhOVmZDYTdRb3ZyVENzQ2sxLVNRc3RwSEVCUXAxR3laU2VQMjhMZTNqemx4S01BYzFCc19yZ1g3Z2lTYmVYX1ZibVdEVUp0MHBwMndVS2hhRDlLeEo2SnZqMmg3M0ZsampXRnZBVk9NUU5fWXBkSHdwWU5sWDBFNTNfcUV3V0N0Q0NZVXc0eXFzSVhRYzB0aXkyNHdTdUI3NWs4OVdwVTdYeDhlRmtEZmh5MV9qXzJBMmVSZGthTnA2NmMyb0x1ZXpMSmg?oc=5)
-
----
-
-### [Implantable 'living pharmacy' produces multiple drugs inside the body](https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGZFcURyVnkzZHZ3ckthbDRKMkxEZmF1Z19VMmtYTlVPOFpld3ZuS0I4ZGoxTVBvank5a2dMckNJMXRtR3lDYWxWZFN0UW82VFdyeGZfeXVmeEU1M3NBZkVYQ1dHcUhZY3VnanFWU0p3d29ZbFdmT2lBWDdxQWJJTA?oc=5)
-
-2026-03-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Phys.org](https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGZFcURyVnkzZHZ3ckthbDRKMkxEZmF1Z19VMmtYTlVPOFpld3ZuS0I4ZGoxTVBvank5a2dMckNJMXRtR3lDYWxWZFN0UW82VFdyeGZfeXVmeEU1M3NBZkVYQ1dHcUhZY3VnanFWU0p3d29ZbFdmT2lBWDdxQWJJTA?oc=5)
-
----
-
-### [After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
-
-2026-03-25 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkRXT0s2Q3dPOFhGYkhmZDVWQm16T0pCNmt4ZGtRLWJxSXNXX184WTltNVJHWG5ITlFmdGV2Y2xhMENhMGppVUxjTlNvY2VIX3JnbnR1QldxM3Y0NkMySXVNSzVGOE9DY0luSFBjS3VjbmZNVXp5RHYtY1JsT2xDNlBiclpGRFM5a2ppcnFzcWF1eWczZEwteTVYOWtlZnRO?oc=5)
 
 ---
 

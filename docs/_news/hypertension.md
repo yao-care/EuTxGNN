@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "ipertensione（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# ipertensione（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
+<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Attivo un nuovo ambulatorio per ipertensione arteriosa e rischio cardiovascolare](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
+
+2026-03-29
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
+
+---
 
 ### [Wer morgens Sport macht, lebt gesünder – aber warum eigentlich? - Der Bund](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBiNy1QXy1mbmFvQ2JPbi10SGJDSVZGTjVLV0tsd1F5WmZ2elByZmxHUUV5d1p1STFmNFkzNi00cU9BNFJjVzAtTkx4MzF3UDUySVB2Z0Zsay1aWE9lbVdjWWFWUl9IVGJ2WjFTZmpsVi1lSzNYVlhSZmpXSjJwRjM5Rm5WSEJ0S3Nwei1B?oc=5)
 

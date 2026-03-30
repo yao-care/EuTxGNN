@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Órganos agrandados por obesidad duplican el riesgo de cáncer, según advierte un nuevo estudio](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZU4teEhFUGRKMmdJZXJMekM1enB4Nk10ZFVIcnlWdWdqaVpIUHplMWJuVWlyNXVhakZiRzh4STFPQVl2V2djU196dlJpX3FtRllIanpNYUQtdDF2cHhHWlZBU2p3NEVfck5oSUY5ejhBNzdCank2akRBM3hoT2ZkRGM5VVN2czF5ckRUWmw4ZkhWekhmU3JydTVFSUpxTzFTejIxa2NPYU5WWDdJQnBqWlh3VGtGZ2MwV1BmaE9lR1RsajdEMXVZaXhnRmwtY2PSAeoBQVVfeXFMUFZmQ3d4YlRsWTFzR2VjeFBUZEFOX2FYaEJBQl9PNTNBUjRKTTRSRV9LeDB2T2pCWG1QUl8xZGhnSXFSbkwweFhlRW1GeW1wVV9DdUlvLWlMUE5IM1BPS3V1akFjVE5GcjFhSWRSam5CTkI0d1pHME5kQlJlTEhSRVZzYnAwZHpyc1RDRDRtaW9rY3lTRHdMYjNBdUpZdDZjSUgzdWthU3VMZ0Y4MHRMbFRvcFVNVnU2a3dsX2dha2d3WXpFYjcwLWJvWngwZExNTWl3RFNjcS1kMUhCRGw4VHlZU1JkMFZ6YkVn?oc=5)
 
 2026-03-29
 
 來源：[Infobae](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZU4teEhFUGRKMmdJZXJMekM1enB4Nk10ZFVIcnlWdWdqaVpIUHplMWJuVWlyNXVhakZiRzh4STFPQVl2V2djU196dlJpX3FtRllIanpNYUQtdDF2cHhHWlZBU2p3NEVfck5oSUY5ejhBNzdCank2akRBM3hoT2ZkRGM5VVN2czF5ckRUWmw4ZkhWekhmU3JydTVFSUpxTzFTejIxa2NPYU5WWDdJQnBqWlh3VGtGZ2MwV1BmaE9lR1RsajdEMXVZaXhnRmwtY2PSAeoBQVVfeXFMUFZmQ3d4YlRsWTFzR2VjeFBUZEFOX2FYaEJBQl9PNTNBUjRKTTRSRV9LeDB2T2pCWG1QUl8xZGhnSXFSbkwweFhlRW1GeW1wVV9DdUlvLWlMUE5IM1BPS3V1akFjVE5GcjFhSWRSam5CTkI0d1pHME5kQlJlTEhSRVZzYnAwZHpyc1RDRDRtaW9rY3lTRHdMYjNBdUpZdDZjSUgzdWthU3VMZ0Y4MHRMbFRvcFVNVnU2a3dsX2dha2d3WXpFYjcwLWJvWngwZExNTWl3RFNjcS1kMUhCRGw4VHlZU1JkMFZ6YkVn?oc=5)
-
----
-
-### [«J’ai perdu du poids mais j’avais des effets secondaires»: Wegovy et Mounjaro, ces traitements «miracles» contre l’obésité ne conviennent pas à tout le monde - Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
-
-2026-03-28
-
-來源：[Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
 
 ---
 

@@ -52,11 +52,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [«J’ai perdu du poids mais j’avais des effets secondaires»: Wegovy et Mounjaro, ces traitements «miracles» contre l’obésité ne conviennent pas à tout le monde - Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
+### [Migraña hormonal femenina: infradiagnosticada y afecta a miles de mujeres en el mundo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
 
-2026-03-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-03-28 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
+來源：[laopinion.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
 
 ---
 

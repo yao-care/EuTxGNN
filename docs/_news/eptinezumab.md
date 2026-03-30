@@ -14,7 +14,7 @@ permalink: /news/eptinezumab/
 ---
 
 <p class="key-answer" data-question="Eptinezumab 有什麼相關新聞？">
-<strong>Eptinezumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Eptinezumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/eptinezumab/
 <p><a href="{{ '/drugs/eptinezumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Migraña hormonal femenina: infradiagnosticada y afecta a miles de mujeres en el mundo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
+
+2026-03-28 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[laopinion.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHVJUC1jVXVNUVNZeVRwYXNITS1haXZqRmlJX1lrX192eFBibmY2QS1sT2pPTkhMNXZ1VUUxVll2S1pOeDBJaEJ1SjhuU1d2REtIeHJDVEl6REtEUDNTNGN5aTFjT2M2M3BJU1BWWE9yU0NMVlAwbmF2ZlkwaG5PRVlXekhPaE5GSTgyY2sxYnBxckNtYjNmRUdLTHR5Szg3ZHBPTkJOTEJlOU1DNnBiNHZ2NEQyWTFSWVE?oc=5)
+
+---
 
 
 <div class="disclaimer">

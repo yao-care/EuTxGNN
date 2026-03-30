@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Attivo un nuovo ambulatorio per ipertensione arteriosa e rischio cardiovascolare](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
+
+2026-03-29 <span class="news-indication-tag">ipertensione</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
+
+---
 
 ### [Pozzuoli, epatite A: «Comparto ittico flegreo al tracollo: servono aiuti per gli operatori» - Il Mattino](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYVhFcGFhT2g3Y1VXQ29OSkF3VGVXU19QOGhTajB0Slp4TUk3Nm5mZXFXV3BmTVFKd01uNE9fMm5aeExIMXBWS005UjJIeGJYeWdYNjhxS25TaWhYcjMzTlFmRElhLVJ2ZE5VZEg2QWV6bHFNMkJWSDNSRTNuR01MWHktOFFGVG44bHZxYVlHRmtscnRxeExuenFhZ3NyQ0NFeXFxcFB1OVdZTk1YbjFkaUJ6WHNtd2VNLXJRQk9IRVVnZzQ2TGNLNS1VUkMtRjl4WFNQRk9nRTgzTGNPT2s4enpKclRmM2xwSUpwaUlkT1fSAdwBQVVfeXFMT2pwLXA4VmtHc0k4S0l2ZnFwLTlNNncxdlRaQ25HSVdZejgtSFQwXzhQWmwwejBZZDBCbmpjY1R6NzJXT1h0a3c4Y0Q1ZC12aWNyMzVENDhUUXRGeDhwWUVvdWp5dVU2eXVyOXItVV95NjJlUkc0UWhQamdsNUxaTXJUdk1qWV9OeWRhZmVuRnR6RVhmVU1xWjdDaEVZS0UtNkh3ZEtGRmFSMlpDX3NPQ0pvc3hLUkxZWTlfRWE3YWJ6TndTTkJmOHNtT2JUUFRaTjlWNXlOOVhjM29scw?oc=5)
 
@@ -68,11 +76,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Se pone en marcha el primer Registro de Hepatitis B en España, HEPA-B - Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
+### [Se pone en marcha el primer Registro de Hepatitis B en España, HEPA-B](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
 
 2026-03-28 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
+來源：[somospacientes.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzFhVFRKXzdkWVdpcUItb1d6ZDZSand6ejVlTncwcHVSQ2p2dnJRa1IxZmlaYUxtWUtJTFZUWFl6SHQzQjFkNjhibnFqdTB5UW9jMUNqRk5fRzFlVFFrWXgyN3hUSWt4b0lVRTJkdFk3eXlZd09xb0NicFhRTTk1QkpVVFFTV2Yya2duYzRKdHZpQlRSaFVleFYzMDVmX3c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Santé vasculaire cérébrale : le CHU de Bordeaux a ouvert la première unité de France dédiée aux micro-AVC silencieux - Sud Ouest](https://news.google.com/rss/articles/CBMimAJBVV95cUxNejRfbFdsWGt6bjh5bk1oY3RCQUVYRk4yS09pLXdZZXRKcUNJUEFHNDhYa2NKa1lSS2NPZVZfU0U5Zi11aW1fcXo5a05JSF9yRjhaUlJnSFdXdVc3bXgxcnJpV0ZqTXBYNnp5bnBvajBOeGk0YnRKU1d1dU1idmhLS200aG1vaThfQlc3YnpNNDhUWml3NHpXTXVzTU1ZRXVxRDZMb2J1TDNjNnUtVHZ0Y1RpdDJ2djgxM1J5eEJpb0gyMzdsRHJ0NGtseW5OUl9kbXBRQ2pjSHI0NDEyUjN3ZnRnMnFjVERqWUhjUHNDdUZOQ2dxcXhOMnBTLU5hRTcya1RqN3lGenFkaU94Z0lrXzBtbWhRMWtn?oc=5)
+
+2026-03-29 <span class="news-indication-tag">AVC</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMimAJBVV95cUxNejRfbFdsWGt6bjh5bk1oY3RCQUVYRk4yS09pLXdZZXRKcUNJUEFHNDhYa2NKa1lSS2NPZVZfU0U5Zi11aW1fcXo5a05JSF9yRjhaUlJnSFdXdVc3bXgxcnJpV0ZqTXBYNnp5bnBvajBOeGk0YnRKU1d1dU1idmhLS200aG1vaThfQlc3YnpNNDhUWml3NHpXTXVzTU1ZRXVxRDZMb2J1TDNjNnUtVHZ0Y1RpdDJ2djgxM1J5eEJpb0gyMzdsRHJ0NGtseW5OUl9kbXBRQ2pjSHI0NDEyUjN3ZnRnMnFjVERqWUhjUHNDdUZOQ2dxcXhOMnBTLU5hRTcya1RqN3lGenFkaU94Z0lrXzBtbWhRMWtn?oc=5)
+
+---
 
 ### [Órganos agrandados por obesidad duplican el riesgo de cáncer, según advierte un nuevo estudio](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZU4teEhFUGRKMmdJZXJMekM1enB4Nk10ZFVIcnlWdWdqaVpIUHplMWJuVWlyNXVhakZiRzh4STFPQVl2V2djU196dlJpX3FtRllIanpNYUQtdDF2cHhHWlZBU2p3NEVfck5oSUY5ejhBNzdCank2akRBM3hoT2ZkRGM5VVN2czF5ckRUWmw4ZkhWekhmU3JydTVFSUpxTzFTejIxa2NPYU5WWDdJQnBqWlh3VGtGZ2MwV1BmaE9lR1RsajdEMXVZaXhnRmwtY2PSAeoBQVVfeXFMUFZmQ3d4YlRsWTFzR2VjeFBUZEFOX2FYaEJBQl9PNTNBUjRKTTRSRV9LeDB2T2pCWG1QUl8xZGhnSXFSbkwweFhlRW1GeW1wVV9DdUlvLWlMUE5IM1BPS3V1akFjVE5GcjFhSWRSam5CTkI0d1pHME5kQlJlTEhSRVZzYnAwZHpyc1RDRDRtaW9rY3lTRHdMYjNBdUpZdDZjSUgzdWthU3VMZ0Y4MHRMbFRvcFVNVnU2a3dsX2dha2d3WXpFYjcwLWJvWngwZExNTWl3RFNjcS1kMUhCRGw4VHlZU1JkMFZ6YkVn?oc=5)
 
@@ -60,27 +68,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
+### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 2026-03-29 <span class="news-indication-tag">ictus</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
-
----
-
-### [Crise cardiaque : seulement 11 minutes de sommeil en plus peuvent réduire les risques, à condition de respecter cette règle](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
-
-2026-03-29 <span class="news-indication-tag">AVC</span>
-
-來源：[mariefrance.fr](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGwwWUZPb2FJLWxPZEtsLW52T25vcVVEckZ0M0FuUXA0b0VnU0NFNVpNenFOLWZLMnRFX3ppS2xCcEx1U1dnLVB5U2FodWxBaGhYSDBTbHhzcnZoeW1ibmFLVVNCcXdIS0Q4Z184cTFpMzQzUHhoR0MzLTRzTC1Lc0l1OVZHTVRDLTA3VXExNjA4eTlPdGplTUM3MVBTVllkWE9HSlRlcHZfQmRSMnY3YURhcUlhUk8zaFlEOExlQjBTdnFxUEh0MXUwbGUwbThrbVZTZExicVZ2U1luSVZKUA?oc=5)
-
----
-
-### [«J’ai perdu du poids mais j’avais des effets secondaires»: Wegovy et Mounjaro, ces traitements «miracles» contre l’obésité ne conviennent pas à tout le monde - Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
-
-2026-03-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Le Temps](https://news.google.com/rss/articles/CBMimAJBVV95cUxNdld2WG5EMlFBM1dJbFZQWmZ5UUY5dTFjZFktMmRfMzZKaVdFUU56UlZlWFdnSEQ1R1ZvLUdlaHpQWVZFVndhUWZ3S0d2UTZ0dmd3UXhIN0ZHNGJzQkJGcS1GX0hJX3pxT0FZNkxiaUZOMFlfX2FfREYzeHptblJSWmYxenJvSWZZVzBIY0NqWHl3cmRkU2dhQ2tRY1VTRGlpTTJYaTJISmdtSDg1SDFvUEpvLTkxTnVsWTZiWlR4OE9EX2o3SFFyM3VwUWYxbDRvZ1BCemZyMUUyeTExMkZhZnpBUGkyRXJDMllNMDBOU3RWM0xHajRNV2h3THFCVmhWUUpLd1RFVTgxbGtDNzE4Y2tjRHl0Q21z?oc=5)
+來源：[somospacientes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 ---
 

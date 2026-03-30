@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（1 則）
 
-### [‘We have six months to save our daughter’s life before childhood dementia robs her of her future’](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
+### [‘We have six months to save our daughter’s life before childhood dementia robs her of her future’ - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
 
 2026-03-28
 
-來源：[independent.co.uk](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTktTekdiQS00Mk1wUl9SZnVSMTlCcW5PSjhtaTJOSGEzZHRjWHNLUFlzLXFSY0I5RHl2OFZNVDMzY1VGY0Z6MTFaeXZPQ1p1Yk95aU9XQ3dxY1ZGb2tMeDRLVkhKalRCQWpkWU80OUxkaTJKWFlhWWlpWVVyZjNtdFhJTmNhYnUwcG1nSkU4SXhULS1aZHFzeFh6ckxyTEhZOGc?oc=5)
 
 ---
 
