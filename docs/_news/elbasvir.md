@@ -44,19 +44,19 @@ permalink: /news/elbasvir/
 
 ## 相關新聞（11 則）
 
-### [Muere el anestesista Juan Maeso, condenado por el contagio masivo de hepatitis C en Valencia - EL PAÍS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHBtTlRGU2NMYVFfcV9ONjE5U0ZEcVpfLV85M0dIUU1uWm1mODBEYzRHSGcwTU55dVRXX3Q4RHA2TXc2MFBrQ3JpRHNSSUF5Y1B6ZEMxWmUwNUhXdVdidXRwSnM3TFBNbkpxb0RFbVNlN2s2Mk9zd3lqdUVSLTlNaWZ0MlVEbEQza2YzU3FfbHRUeENLZlhhSGR0N1BzUnhLSUNiSm5zeWlDejM0X3ozcG9MR3JQNVVaT3BXXzdyQUtydEttei1DalVzUzJBcDEx?oc=5)
+### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
 
-2026-03-31 <span class="news-indication-tag">hepatitis</span>
+2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHBtTlRGU2NMYVFfcV9ONjE5U0ZEcVpfLV85M0dIUU1uWm1mODBEYzRHSGcwTU55dVRXX3Q4RHA2TXc2MFBrQ3JpRHNSSUF5Y1B6ZEMxWmUwNUhXdVdidXRwSnM3TFBNbkpxb0RFbVNlN2s2Mk9zd3lqdUVSLTlNaWZ0MlVEbEQza2YzU3FfbHRUeENLZlhhSGR0N1BzUnhLSUNiSm5zeWlDejM0X3ozcG9MR3JQNVVaT3BXXzdyQUtydEttei1DalVzUzJBcDEx?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
 
 ---
 
-### [Giftstoffe in E-Zigaretten: Nikotin-Vapes sind „wahrscheinlich krebserregend“](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjJCSndQZkcyREtBYjN3dGlleGQySDM3a0FNZHpQUGRoZWhXRndfc21pMXRydjlaTHpUVDFCSXlZel9sdDl5RW1tdUU0N2hWRk4yOVoza2R4cFFBcGFUTFZzUG5vOTczUnlLX09hdVItLVVHQmI5N0RTc0JaQzJnZGY5R0FNb2ZzOC1OcVJRZEN5dVVnam1fODdjQmhEUFFMZ19IQWYycXdjdHBSTFVpTTd6WWloNndfUWhZbFJ6UUQ?oc=5)
+### [Covid 19 Cicada variant ‘set to become dominant in UK - and put kids at risk' - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE04S1lxMlNYZ0RGU0t6elFQZUhjc09uWTB3RWJBclF1QUZzMHo4NGFxOVBkeWpEX1pONUxCSk9iTk53dnBHRDFzZVBkY2p6T2M3d1loTzRpT3Iwa0J1Nng5UTBFeERnQUxLcGRCVjQzZC1KV3V5cWp0d3lLYWZpd9IBgwFBVV95cUxPdlVkWXNENnltVGNKYVlfU0VFdFd3eDRNX2ZKTlo1QXQ3bm4taGJVbm5QM2d2YUI2eGdkQmZhNTRmOVBnclZMOEdrUVluOWFPb0pfV2dodmRJeGtIYUJRZnplYmtjMll1Skc2d3ZNSmp5ZnZvTE9ZS1UwR24yUjBzQ21JVQ?oc=5)
 
-2026-03-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-03-31 <span class="news-indication-tag">MS</span>
 
-來源：[tagesspiegel.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjJCSndQZkcyREtBYjN3dGlleGQySDM3a0FNZHpQUGRoZWhXRndfc21pMXRydjlaTHpUVDFCSXlZel9sdDl5RW1tdUU0N2hWRk4yOVoza2R4cFFBcGFUTFZzUG5vOTczUnlLX09hdVItLVVHQmI5N0RTc0JaQzJnZGY5R0FNb2ZzOC1OcVJRZEN5dVVnam1fODdjQmhEUFFMZ19IQWYycXdjdHBSTFVpTTd6WWloNndfUWhZbFJ6UUQ?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE04S1lxMlNYZ0RGU0t6elFQZUhjc09uWTB3RWJBclF1QUZzMHo4NGFxOVBkeWpEX1pONUxCSk9iTk53dnBHRDFzZVBkY2p6T2M3d1loTzRpT3Iwa0J1Nng5UTBFeERnQUxLcGRCVjQzZC1KV3V5cWp0d3lLYWZpd9IBgwFBVV95cUxPdlVkWXNENnltVGNKYVlfU0VFdFd3eDRNX2ZKTlo1QXQ3bm4taGJVbm5QM2d2YUI2eGdkQmZhNTRmOVBnclZMOEdrUVluOWFPb0pfV2dodmRJeGtIYUJRZnplYmtjMll1Skc2d3ZNSmp5ZnZvTE9ZS1UwR24yUjBzQ21JVQ?oc=5)
 
 ---
 
@@ -68,19 +68,19 @@ permalink: /news/elbasvir/
 
 ---
 
+### [Irregular Bedtime Doubles Cardiac Risk - Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
+
+2026-03-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
+
+---
+
 ### [Alzheimer-Forschung: Neue Zelltypen und Gentherapie im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
 
 2026-03-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
-
----
-
-### [What Oxford University ejaculation study means for your masturbation habits](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDh3X2Q4bGJZWGFmaU1Na2REelpfV3JoVE9scHlqRzVPMUluc2l5ZWtQTnp6U1BOSFN3LWdiRU5NRmExdG5fbXFtM3ZCdkVMY2c3MTRiaVF0Q3NiRU4wVVpPWG1BTlJGSWdibWl4d2RHT3l5N29xbWpXT0U0T2FTSlJ0UElUZzZWXzRsczdXN0Vkdw?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDh3X2Q4bGJZWGFmaU1Na2REelpfV3JoVE9scHlqRzVPMUluc2l5ZWtQTnp6U1BOSFN3LWdiRU5NRmExdG5fbXFtM3ZCdkVMY2c3MTRiaVF0Q3NiRU4wVVpPWG1BTlJGSWdibWl4d2RHT3l5N29xbWpXT0U0T2FTSlJ0UElUZzZWXzRsczdXN0Vkdw?oc=5)
 
 ---
 
@@ -96,31 +96,23 @@ permalink: /news/elbasvir/
 
 2026-03-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[linternaute.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzZ6YXVCVERDTlpnYzJkYV80TUZjQUlHRFA2NGZ1a0RlZUpVNnI0eEtJQ3B4ZkR1cVNqeW51YnQzbThCc2ZrbEstTjdvYXY3bThVNjNKWWhJNDJNUzJGZlhEcUVmYXJRTGdJaGRBRmxEOU0yZTBUc3E0TkhDTzRpdHo5TzF4RzBjTlAzNDdraHpkRDBKWlYteHNEeWhfdXdmd2o1MTFEWGltUTdKa3B1YlZERW0?oc=5)
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzZ6YXVCVERDTlpnYzJkYV80TUZjQUlHRFA2NGZ1a0RlZUpVNnI0eEtJQ3B4ZkR1cVNqeW51YnQzbThCc2ZrbEstTjdvYXY3bThVNjNKWWhJNDJNUzJGZlhEcUVmYXJRTGdJaGRBRmxEOU0yZTBUc3E0TkhDTzRpdHo5TzF4RzBjTlAzNDdraHpkRDBKWlYteHNEeWhfdXdmd2o1MTFEWGltUTdKa3B1YlZERW0?oc=5)
 
 ---
 
-### [Dr says new Covid Cicada variant 'detected in UK' could 'avoid immune system' - symptoms - The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE5FUXlHay14UGZiREJWRTJaY2FLRFpYUGtfTnpjMWlxeXZSTjhTOUtOXzF2N2JVdThKTTFGNEJuLVZqOXZXeEdrNjZxZlFFRUZmaVdHZTNBWkV3ZU9ZeHRFZFIyQlZYZjNCcXpTMGpITlNsUW5Rd3JfenN30gF_QVVfeXFMTmpEcDFqMVZYRUNydGNROTVfanJNeGhtN3RYYWhaWmc0Y3ZJeHZfeVhWYVVqOGhub0JmbmdKZENZTkJMU0oyTWxXMDNza09rUm9tNHh3QXpDelpuUnVJN08zWFdVUlVYTDRtbG9KMzNIZlI4TmJ6eWl5S0VIM1hqMA?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE5FUXlHay14UGZiREJWRTJaY2FLRFpYUGtfTnpjMWlxeXZSTjhTOUtOXzF2N2JVdThKTTFGNEJuLVZqOXZXeEdrNjZxZlFFRUZmaVdHZTNBWkV3ZU9ZeHRFZFIyQlZYZjNCcXpTMGpITlNsUW5Rd3JfenN30gF_QVVfeXFMTmpEcDFqMVZYRUNydGNROTVfanJNeGhtN3RYYWhaWmc0Y3ZJeHZfeVhWYVVqOGhub0JmbmdKZENZTkJMU0oyTWxXMDNza09rUm9tNHh3QXpDelpuUnVJN08zWFdVUlVYTDRtbG9KMzNIZlI4TmJ6eWl5S0VIM1hqMA?oc=5)
-
----
-
-### [Se prendi metformina queste 3 cose dovresti (già) saperle - The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
+### [Se prendi metformina queste 3 cose dovresti (già) saperle](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
 
 2026-03-30 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
+來源：[healthy.thewom.it](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
 
 ---
 
-### [Epatite A, non solo cozze: frutti di bosco e verdure tra i possibili veicoli del virus](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3RRSXkzeTVzbU1pQS1kRkZBbmc1YWxzM2Z3MFlYSTV5QUNtUlY0MEVsQnRFb1ZITVRfRFpIaWRRakpmQ25MckxvQXJiNktreWdVX0pPOHI2NE8ybGl1N1o4bnRxbWRiSVBsUS1vd25LcjRHR2t2NXF3LTloUV91UkRjZWU5M0U3bUgzUHR4X1VUbHhxWU90eVpQYVUzNWxYQ2pVYmo1OTAybGo3?oc=5)
+### [Allarme epatite A: dalla Asl l'allerta e i consigli per difendersi - Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUlHeExNSkNKelBLSDFNZTM2dTlkQ1BZUWNNSEZKN0h1VG5NZmVaT0hDQ2VkcFJTQ3lqZ2dWMzJmOGgwa0x3aTJpczZjNElZaHgtVmV5T1VNeUlmaVNUYTJ3U2FSQzROdGNXbE9wVDZDT2ZPcDNYSGpkZnBfQnlocU9OcVkzSzNNUW5rYWNnMzljTEpTN2p2dmI2OU5vVTVOX3JsOWVrSVpsdjZGQkViVDlJb1UwQjB4MkJB0gHAAUFVX3lxTE1NVEJJaG1waXNFRkgxQlpPSXJTMU54ZWRrY1BvbGNEOEt6b3ctdUc4T1c0Z3ExT1lVX1lzNHNfbkF6NF9aaW14NU5FZi1mMVByMzg2UWlmQVE5Z19QcG5YVzVxQjVnWVhvbHNOeGVLQmk0Q1VUYXdSUUtMRm9EaDMwa3lxclZtbldMR08yc3I2R0JuaTk2TFBUd1ZYbDBMQ0J0WTBjRXVZV3dPQ3NEdzBCd1ZOX2pIYjVVdDl1UlJDLQ?oc=5)
 
 2026-03-30 <span class="news-indication-tag">epatite</span>
 
-來源：[LeccePrima](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3RRSXkzeTVzbU1pQS1kRkZBbmc1YWxzM2Z3MFlYSTV5QUNtUlY0MEVsQnRFb1ZITVRfRFpIaWRRakpmQ25MckxvQXJiNktreWdVX0pPOHI2NE8ybGl1N1o4bnRxbWRiSVBsUS1vd25LcjRHR2t2NXF3LTloUV91UkRjZWU5M0U3bUgzUHR4X1VUbHhxWU90eVpQYVUzNWxYQ2pVYmo1OTAybGo3?oc=5)
+來源：[Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUlHeExNSkNKelBLSDFNZTM2dTlkQ1BZUWNNSEZKN0h1VG5NZmVaT0hDQ2VkcFJTQ3lqZ2dWMzJmOGgwa0x3aTJpczZjNElZaHgtVmV5T1VNeUlmaVNUYTJ3U2FSQzROdGNXbE9wVDZDT2ZPcDNYSGpkZnBfQnlocU9OcVkzSzNNUW5rYWNnMzljTEpTN2p2dmI2OU5vVTVOX3JsOWVrSVpsdjZGQkViVDlJb1UwQjB4MkJB0gHAAUFVX3lxTE1NVEJJaG1waXNFRkgxQlpPSXJTMU54ZWRrY1BvbGNEOEt6b3ctdUc4T1c0Z3ExT1lVX1lzNHNfbkF6NF9aaW14NU5FZi1mMVByMzg2UWlmQVE5Z19QcG5YVzVxQjVnWVhvbHNOeGVLQmk0Q1VUYXdSUUtMRm9EaDMwa3lxclZtbldMR08yc3I2R0JuaTk2TFBUd1ZYbDBMQ0J0WTBjRXVZV3dPQ3NEdzBCd1ZOX2pIYjVVdDl1UlJDLQ?oc=5)
 
 ---
 
@@ -129,6 +121,14 @@ permalink: /news/elbasvir/
 2026-03-30 <span class="news-indication-tag">MS</span>
 
 來源：[tomshw.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0o5bHp0SW5ndnpMU05UbHV3U2dTaExCYVFCeTNXSl9GWXN3VEluZ1BBa2xaV0JzZzZZSThoYlptY2puNVhSMU1tQV9ONS16cm1fcWdSSHB3THpFM0VlcERoVFBsQk5CWjI5dGhLWlAxa1V0ckRwbmMzQTZURFR6bHV0UFB6QlVvWjhKTUlrMA?oc=5)
+
+---
+
+### [On pensait s'être débarrassé de l'infection la plus mortelle au monde: elle fait pourtant son grand retour](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXNwV1BBU2Nwa1BaMXV1QzlhS2VZbkJ5N2dWZm1vNEM4RDlZRFc4LXVmY1JvYU5NN0hpZ3lzaUtzUTBkUU9DVnVJdUZZS3dRU2thUWh5Tm1SaDlKRW9NTDQwV21VaTJaN3ZOajJPV0tJMUY3R2lNODh5RVFxc0dNV0EwY0N1eTktcm9ULWF1VlFjVUR3TXhKOFVKOEZqa1FmLUU3SXlOV1EzUTJicDJQTHFsdG1YamF6OGIxWWQyN3Z0M1FLMTBmVlNlb3Vuei1RLUUxdm9R0gHbAUFVX3lxTFBfV2o5TURVVloyc2hrcnZTMFNLWDMxamlqQmVBZUZYNkpkYnpZMUNwQm0ya0JYa3BWT1EyS201SWV2Nlh2QnJzQXZHV1ozWldMQ3RqVkFHZFEyVENkd01MXzh3ZGtlWlJ2V0t4NTN3Q3pLYzZTS1BzN1hOSFdDSUVZMnpaT0RYa3hLUWdzb20zVE9IMFNDMkxWOFl1aG9IMjA3endVUVlaVUlCZHZkVDI1V3BnbHg0WlJmb3IxZG9ORkZSSHJKY19hQzk2SVYtb2xnSXkyMmVWaFJEQQ?oc=5)
+
+2026-03-29 <span class="news-indication-tag">MS</span>
+
+來源：[Slate.fr](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXNwV1BBU2Nwa1BaMXV1QzlhS2VZbkJ5N2dWZm1vNEM4RDlZRFc4LXVmY1JvYU5NN0hpZ3lzaUtzUTBkUU9DVnVJdUZZS3dRU2thUWh5Tm1SaDlKRW9NTDQwV21VaTJaN3ZOajJPV0tJMUY3R2lNODh5RVFxc0dNV0EwY0N1eTktcm9ULWF1VlFjVUR3TXhKOFVKOEZqa1FmLUU3SXlOV1EzUTJicDJQTHFsdG1YamF6OGIxWWQyN3Z0M1FLMTBmVlNlb3Vuei1RLUUxdm9R0gHbAUFVX3lxTFBfV2o5TURVVloyc2hrcnZTMFNLWDMxamlqQmVBZUZYNkpkYnpZMUNwQm0ya0JYa3BWT1EyS201SWV2Nlh2QnJzQXZHV1ozWldMQ3RqVkFHZFEyVENkd01MXzh3ZGtlWlJ2V0t4NTN3Q3pLYzZTS1BzN1hOSFdDSUVZMnpaT0RYa3hLUWdzb20zVE9IMFNDMkxWOFl1aG9IMjA3endVUVlaVUlCZHZkVDI1V3BnbHg0WlJmb3IxZG9ORkZSSHJKY19hQzk2SVYtb2xnSXkyMmVWaFJEQQ?oc=5)
 
 ---
 

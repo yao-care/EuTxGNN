@@ -3,7 +3,7 @@ layout: default
 title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>epatite（hepatitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Muere el anestesista Juan Maeso, condenado por el contagio masivo de hepatitis C en Valencia - EL PAÍS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHBtTlRGU2NMYVFfcV9ONjE5U0ZEcVpfLV85M0dIUU1uWm1mODBEYzRHSGcwTU55dVRXX3Q4RHA2TXc2MFBrQ3JpRHNSSUF5Y1B6ZEMxWmUwNUhXdVdidXRwSnM3TFBNbkpxb0RFbVNlN2s2Mk9zd3lqdUVSLTlNaWZ0MlVEbEQza2YzU3FfbHRUeENLZlhhSGR0N1BzUnhLSUNiSm5zeWlDejM0X3ozcG9MR3JQNVVaT3BXXzdyQUtydEttei1DalVzUzJBcDEx?oc=5)
-
-2026-03-31
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHBtTlRGU2NMYVFfcV9ONjE5U0ZEcVpfLV85M0dIUU1uWm1mODBEYzRHSGcwTU55dVRXX3Q4RHA2TXc2MFBrQ3JpRHNSSUF5Y1B6ZEMxWmUwNUhXdVdidXRwSnM3TFBNbkpxb0RFbVNlN2s2Mk9zd3lqdUVSLTlNaWZ0MlVEbEQza2YzU3FfbHRUeENLZlhhSGR0N1BzUnhLSUNiSm5zeWlDejM0X3ozcG9MR3JQNVVaT3BXXzdyQUtydEttei1DalVzUzJBcDEx?oc=5)
-
----
-
-### [Epatite A, non solo cozze: frutti di bosco e verdure tra i possibili veicoli del virus](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3RRSXkzeTVzbU1pQS1kRkZBbmc1YWxzM2Z3MFlYSTV5QUNtUlY0MEVsQnRFb1ZITVRfRFpIaWRRakpmQ25MckxvQXJiNktreWdVX0pPOHI2NE8ybGl1N1o4bnRxbWRiSVBsUS1vd25LcjRHR2t2NXF3LTloUV91UkRjZWU5M0U3bUgzUHR4X1VUbHhxWU90eVpQYVUzNWxYQ2pVYmo1OTAybGo3?oc=5)
+### [Allarme epatite A: dalla Asl l'allerta e i consigli per difendersi - Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUlHeExNSkNKelBLSDFNZTM2dTlkQ1BZUWNNSEZKN0h1VG5NZmVaT0hDQ2VkcFJTQ3lqZ2dWMzJmOGgwa0x3aTJpczZjNElZaHgtVmV5T1VNeUlmaVNUYTJ3U2FSQzROdGNXbE9wVDZDT2ZPcDNYSGpkZnBfQnlocU9OcVkzSzNNUW5rYWNnMzljTEpTN2p2dmI2OU5vVTVOX3JsOWVrSVpsdjZGQkViVDlJb1UwQjB4MkJB0gHAAUFVX3lxTE1NVEJJaG1waXNFRkgxQlpPSXJTMU54ZWRrY1BvbGNEOEt6b3ctdUc4T1c0Z3ExT1lVX1lzNHNfbkF6NF9aaW14NU5FZi1mMVByMzg2UWlmQVE5Z19QcG5YVzVxQjVnWVhvbHNOeGVLQmk0Q1VUYXdSUUtMRm9EaDMwa3lxclZtbldMR08yc3I2R0JuaTk2TFBUd1ZYbDBMQ0J0WTBjRXVZV3dPQ3NEdzBCd1ZOX2pIYjVVdDl1UlJDLQ?oc=5)
 
 2026-03-30
 
-來源：[LeccePrima](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3RRSXkzeTVzbU1pQS1kRkZBbmc1YWxzM2Z3MFlYSTV5QUNtUlY0MEVsQnRFb1ZITVRfRFpIaWRRakpmQ25MckxvQXJiNktreWdVX0pPOHI2NE8ybGl1N1o4bnRxbWRiSVBsUS1vd25LcjRHR2t2NXF3LTloUV91UkRjZWU5M0U3bUgzUHR4X1VUbHhxWU90eVpQYVUzNWxYQ2pVYmo1OTAybGo3?oc=5)
+來源：[Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUlHeExNSkNKelBLSDFNZTM2dTlkQ1BZUWNNSEZKN0h1VG5NZmVaT0hDQ2VkcFJTQ3lqZ2dWMzJmOGgwa0x3aTJpczZjNElZaHgtVmV5T1VNeUlmaVNUYTJ3U2FSQzROdGNXbE9wVDZDT2ZPcDNYSGpkZnBfQnlocU9OcVkzSzNNUW5rYWNnMzljTEpTN2p2dmI2OU5vVTVOX3JsOWVrSVpsdjZGQkViVDlJb1UwQjB4MkJB0gHAAUFVX3lxTE1NVEJJaG1waXNFRkgxQlpPSXJTMU54ZWRrY1BvbGNEOEt6b3ctdUc4T1c0Z3ExT1lVX1lzNHNfbkF6NF9aaW14NU5FZi1mMVByMzg2UWlmQVE5Z19QcG5YVzVxQjVnWVhvbHNOeGVLQmk0Q1VUYXdSUUtMRm9EaDMwa3lxclZtbldMR08yc3I2R0JuaTk2TFBUd1ZYbDBMQ0J0WTBjRXVZV3dPQ3NEdzBCd1ZOX2pIYjVVdDl1UlJDLQ?oc=5)
 
 ---
 

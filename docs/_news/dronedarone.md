@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,45 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（24 則）
+
+### [East Grinstead man died in hospital after medicine not given](https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SUhtV0VwM1A3RTZydnAyMTNsMWxhblcyQVdSRHZfZXdSV1Qta2RCVU9IcEhjMzhvOEgwTXVGMVdwOFZFSEM1aVl6bF9VSHhlVXdtejBLTUJlMlpI?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SUhtV0VwM1A3RTZydnAyMTNsMWxhblcyQVdSRHZfZXdSV1Qta2RCVU9IcEhjMzhvOEgwTXVGMVdwOFZFSEM1aVl6bF9VSHhlVXdtejBLTUJlMlpI?oc=5)
+
+---
+
+### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
+
+2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
+
+---
+
+### [Voici les signes qui indiquent que vous buvez bien trop de café - Biba Magazine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1ppdEpfd2R5QWZRLXVlVVVsbWpqWndzT3VFMTRpU211Y1VUSzEzVWxDekNFRzRlZGpSalA3bWU3TXFqMlkyVllJSlF4ekxKZFhUN0x4S2h5MDNOaDNodjRSZFNiek5RcGVYbnBUNTRlQVpBX1lUQlE5aUZpTGVKWFY2cG9udVgxVkVYSmtZb3lrNldFZmkyZEl2OE9fN1Vfc2g1MGJlUnVWU0JBd2s1OEd6QTRiVHhJbGo0?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[Biba Magazine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1ppdEpfd2R5QWZRLXVlVVVsbWpqWndzT3VFMTRpU211Y1VUSzEzVWxDekNFRzRlZGpSalA3bWU3TXFqMlkyVllJSlF4ekxKZFhUN0x4S2h5MDNOaDNodjRSZFNiek5RcGVYbnBUNTRlQVpBX1lUQlE5aUZpTGVKWFY2cG9udVgxVkVYSmtZb3lrNldFZmkyZEl2OE9fN1Vfc2g1MGJlUnVWU0JBd2s1OEd6QTRiVHhJbGo0?oc=5)
+
+---
 
 ### [Ein langlebiger Mythos - die Wissenschaft hat enttäuschende Nachrichten für Vitamin-C-Hersteller](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUxTdWpLWFI1NmNydjRGa1JOaXhoNjVibFlmUWxCSk05WG1SVXUzdkZ1bGxNaTFEMTRFM0JFR2doaXY2NVBjZjJBMkhocml1NmZuTHRnUjZwOEY1M0FLaWE2S0g3Z2tOZDRFR3FlM2VwRGpNY0ZvWHJiMTE0UW9fNkc1S25iSEZ6Sjk4b0VqanMybG1XV3A5dkN4R0ZsaGxoUm1FYmQtdDZLOGs4ZlBXLVY5MlliX2QydzhVRm0yTW4taXZZQUx1SThya1RXenc?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
 
 來源：[Heidelberg24](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUxTdWpLWFI1NmNydjRGa1JOaXhoNjVibFlmUWxCSk05WG1SVXUzdkZ1bGxNaTFEMTRFM0JFR2doaXY2NVBjZjJBMkhocml1NmZuTHRnUjZwOEY1M0FLaWE2S0g3Z2tOZDRFR3FlM2VwRGpNY0ZvWHJiMTE0UW9fNkc1S25iSEZ6Sjk4b0VqanMybG1XV3A5dkN4R0ZsaGxoUm1FYmQtdDZLOGs4ZlBXLVY5MlliX2QydzhVRm0yTW4taXZZQUx1SThya1RXenc?oc=5)
+
+---
+
+### [Tragedy as Stoke-on-Trent mum, 32, died three weeks after giving birth - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
 
 ---
 
@@ -60,11 +92,35 @@ permalink: /news/dronedarone/
 
 ---
 
+### [José Ignacio Martín Valadés, oncólogo, sobre el cáncer de colon: “Estamos viendo un preocupante aumento de casos en menores de 50 años”](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
+
+---
+
+### [Día Mundial del Cáncer de Colon: cómo prevenir la enfermedad que afecta a personas cada vez más jóvenes](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMnFPTzBSN01UMlg3T3FMVVBoejJjWnp3djE1aXFJSmpJaGoyc1h3NUFxN1E1R3N2WDg2TE5hQ2ZtWVVYUmVES0RpYnRMNFJrZ2lNdGFpN1l5Z1A0V0ZRcHlFem00UjBQNnZEYVM1MkhNZ1hLUzVRLVRQU1FXNWxUMWxVZHJRR0JuYXk0T2otWVhvOEdLUFNKZjdBVnJkVmZrdjFGQUt1STA2cS1LRjRxNVY0UjYydEk4Ync3VzROLUM2ZFJmWFNBcTZJY1NIZ3ZFWmZ1TklkeVlsZU5jd0RwaTF2ekpEdmdMZTZDeEtnRk9waEhu0gGPAkFVX3lxTE9YajBMNHZWazFFRi04SzZZX2tURWtNemhJaS1hQll2U3F0VnJOSXgtcWZqb0t1MWhxRVJva2JOSmsySldvR25vWXNQRGdFT0lpX1VRN3o2OXdoelFpTG5pclRDaDZ2X3Q2R1JkekxMckg2ZXBBSi1XQzhWVGo2WXd4eXZGNGItNzJaY29Tbk5kNTIyTHRaVm9jS2wtRmt2RGFzaG82QUtjSFQ3M3FPS2tpWFR1TWIyQ2pxbkpnZHdWNkZheUNZY0dlZXdiMV9XWTJjalhNRW1RNFZuUHQ2bUJKcEVaYjR2bWVKTjRiMlotRE9FNFpGWlE0cXdTcDlDSFEzeFVGazFEdXljMTFGZVU?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMnFPTzBSN01UMlg3T3FMVVBoejJjWnp3djE1aXFJSmpJaGoyc1h3NUFxN1E1R3N2WDg2TE5hQ2ZtWVVYUmVES0RpYnRMNFJrZ2lNdGFpN1l5Z1A0V0ZRcHlFem00UjBQNnZEYVM1MkhNZ1hLUzVRLVRQU1FXNWxUMWxVZHJRR0JuYXk0T2otWVhvOEdLUFNKZjdBVnJkVmZrdjFGQUt1STA2cS1LRjRxNVY0UjYydEk4Ync3VzROLUM2ZFJmWFNBcTZJY1NIZ3ZFWmZ1TklkeVlsZU5jd0RwaTF2ekpEdmdMZTZDeEtnRk9waEhu0gGPAkFVX3lxTE9YajBMNHZWazFFRi04SzZZX2tURWtNemhJaS1hQll2U3F0VnJOSXgtcWZqb0t1MWhxRVJva2JOSmsySldvR25vWXNQRGdFT0lpX1VRN3o2OXdoelFpTG5pclRDaDZ2X3Q2R1JkekxMckg2ZXBBSi1XQzhWVGo2WXd4eXZGNGItNzJaY29Tbk5kNTIyTHRaVm9jS2wtRmt2RGFzaG82QUtjSFQ3M3FPS2tpWFR1TWIyQ2pxbkpnZHdWNkZheUNZY0dlZXdiMV9XWTJjalhNRW1RNFZuUHQ2bUJKcEVaYjR2bWVKTjRiMlotRE9FNFpGWlE0cXdTcDlDSFEzeFVGazFEdXljMTFGZVU?oc=5)
+
+---
+
 ### [KI analysiert Hirnwellen im Schlaf für frühe Demenz-Erkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
+
+---
+
+### [Irregular Bedtime Doubles Cardiac Risk - Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
+
+2026-03-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
 
 ---
 
@@ -80,7 +136,7 @@ permalink: /news/dronedarone/
 
 2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
 
-來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
 
 ---
 
@@ -89,14 +145,6 @@ permalink: /news/dronedarone/
 2026-03-30 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
-
----
-
-### [Aliments ultratransformés : un détail sur l’emballage pourrait révéler le danger masqué - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3V5TU85WHFYMm04WkUtd19iZWtyMThwc3p6dW5DT25xRF9LWWRJYmgzZlZVMEFXS082YkczLUhNbEhJZktiMEFnLXBIcXEzTUtJekY5N09FXzlZUkVFR1dPRTNLZU9sNzhaajRSdDgtNjQyY0U3bkJFWWVjdXhTM1hkelNjcTZPdTdDTjY3aHJEcXhrSGNJN2x1anJodzhGc2pPOVVoeGN5TWNxcUw4U1Ryd1JtbndHX1NIbDV2NHBqOWx5WThUUFQ2dm9xTktORWdacm9GMFBVQkU?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AVC</span>
-
-來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3V5TU85WHFYMm04WkUtd19iZWtyMThwc3p6dW5DT25xRF9LWWRJYmgzZlZVMEFXS082YkczLUhNbEhJZktiMEFnLXBIcXEzTUtJekY5N09FXzlZUkVFR1dPRTNLZU9sNzhaajRSdDgtNjQyY0U3bkJFWWVjdXhTM1hkelNjcTZPdTdDTjY3aHJEcXhrSGNJN2x1anJodzhGc2pPOVVoeGN5TWNxcUw4U1Ryd1JtbndHX1NIbDV2NHBqOWx5WThUUFQ2dm9xTktORWdacm9GMFBVQkU?oc=5)
 
 ---
 
@@ -124,11 +172,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern - Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 2026-03-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[derbund.ch](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+來源：[Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 ---
 
@@ -156,6 +204,14 @@ permalink: /news/dronedarone/
 
 ---
 
+### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+2026-03-30 <span class="news-indication-tag">stroke</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
+
+---
+
 ### [Our daughter, Leni, is two — and she has dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
 
 2026-03-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
@@ -169,6 +225,14 @@ permalink: /news/dronedarone/
 2026-03-29 <span class="news-indication-tag">AVC</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMimAJBVV95cUxNejRfbFdsWGt6bjh5bk1oY3RCQUVYRk4yS09pLXdZZXRKcUNJUEFHNDhYa2NKa1lSS2NPZVZfU0U5Zi11aW1fcXo5a05JSF9yRjhaUlJnSFdXdVc3bXgxcnJpV0ZqTXBYNnp5bnBvajBOeGk0YnRKU1d1dU1idmhLS200aG1vaThfQlc3YnpNNDhUWml3NHpXTXVzTU1ZRXVxRDZMb2J1TDNjNnUtVHZ0Y1RpdDJ2djgxM1J5eEJpb0gyMzdsRHJ0NGtseW5OUl9kbXBRQ2pjSHI0NDEyUjN3ZnRnMnFjVERqWUhjUHNDdUZOQ2dxcXhOMnBTLU5hRTcya1RqN3lGenFkaU94Z0lrXzBtbWhRMWtn?oc=5)
+
+---
+
+### [Comment reconnaître l'AVC ? Deux survivants ont témoigné : « un seul signe suffit à alerter »](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
+
+2026-03-29 <span class="news-indication-tag">AVC</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
 
 ---
 

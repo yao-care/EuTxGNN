@@ -14,7 +14,7 @@ permalink: /news/rivaroxaban/
 ---
 
 <p class="key-answer" data-question="Rivaroxaban 有什麼相關新聞？">
-<strong>Rivaroxaban</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rivaroxaban</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/rivaroxaban/
 <p><a href="{{ '/drugs/rivaroxaban/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Antikoagulanzien: Apixaban führt seltener zu Blutungen als Rivaroxaban – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
+
+2026-03-31 <span class="news-drug-tag">Apixaban</span> <span class="news-drug-tag">Rivaroxaban</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
+
+---
 
 
 <div class="disclaimer">

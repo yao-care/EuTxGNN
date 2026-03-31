@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="Febuxostat 有什麼相關新聞？">
-<strong>Febuxostat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Febuxostat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/febuxostat/
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [High blood pressure is damaging your brain, sight and sex life. Here’s how to bring it down - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
 
 2026-03-30 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
-
----
-
-### [Attivo un nuovo ambulatorio per ipertensione arteriosa e rischio cardiovascolare](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
-
-2026-03-29 <span class="news-indication-tag">ipertensione</span>
-
-來源：[L'Arena](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
 
 ---
 

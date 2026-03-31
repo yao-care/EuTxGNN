@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Neue Medikamente verändern die Adipositas-Therapie](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWg2TjlnY0QxOWRScU5sdlZNWTZTN1ctdHVCOUpFQ1FtYVRJT0NqTGd1TS05VlBlSVhYYzZfWnh5OVV4Z3gtQnBLdlZ3Z2E5alJYUU1RcUQyaC15ME5CM0pSV1c4VmpUQkpDT1liMVlhdFVoR2VXNlA2U2VUdDJBeGVIdFFZcW5zMnR3?oc=5)
 
@@ -51,14 +51,6 @@ permalink: /news/obesity/
 2026-03-30
 
 來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
-
----
-
-### [« J’ai déjà perdu 10 cm de tour de taille » : à l’hôpital du Puy, le programme contre l’obésité a du succès - Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQldBSDBsTTFQZmZWME5vWHVJX0t2T2cxTGhYVU92ZGIwQjB6eFowSUNKMmVVajFyY3EwNUZjU2JQZlB0TGVDRy11VVdoeks5M3kwcjZXeFpJQXNEMXlUd2IydGVGRnJ1a0p6a01samJ3ZzBFazk2SEtRS2YxOGo0eThKa2h1OUhpbjhCNkJ4UjNNTWx2OGZFMDBEc24zWGk1V19vYmxhaGRiLTB2Nk9sZGJWV0s3WjBD?oc=5)
-
-2026-03-30
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQldBSDBsTTFQZmZWME5vWHVJX0t2T2cxTGhYVU92ZGIwQjB6eFowSUNKMmVVajFyY3EwNUZjU2JQZlB0TGVDRy11VVdoeks5M3kwcjZXeFpJQXNEMXlUd2IydGVGRnJ1a0p6a01samJ3ZzBFazk2SEtRS2YxOGo0eThKa2h1OUhpbjhCNkJ4UjNNTWx2OGZFMDBEc24zWGk1V19vYmxhaGRiLTB2Nk9sZGJWV0s3WjBD?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/pembrolizumab/
 ---
 
 <p class="key-answer" data-question="Pembrolizumab 有什麼相關新聞？">
-<strong>Pembrolizumab</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pembrolizumab</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,37 +42,21 @@ permalink: /news/pembrolizumab/
 <p><a href="{{ '/drugs/pembrolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（19 則）
+
+### [Forschungsstand: Wie krebserregend Vapen ist - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpITVotR3hGNmFSWi1LNExXOUk2eDZmY3ZNeUY0bW5pbXRSOU9QdjNfNjFGMG5Dcm15MXRnQy1vM1NZc2ExWmpRWmE0LTlNQ01mYVRNR2RwYzJLR3FCMUtITG9pMWptTHk4ZFE2eTRZZHpTc3dtMDRTVlRLWW5SSlpNVU5lTllNY19ObmdSTQ?oc=5)
+
+2026-03-31 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpITVotR3hGNmFSWi1LNExXOUk2eDZmY3ZNeUY0bW5pbXRSOU9QdjNfNjFGMG5Dcm15MXRnQy1vM1NZc2ExWmpRWmE0LTlNQ01mYVRNR2RwYzJLR3FCMUtITG9pMWptTHk4ZFE2eTRZZHpTc3dtMDRTVlRLWW5SSlpNVU5lTllNY19ObmdSTQ?oc=5)
+
+---
 
 ### [Arriva il 'Camper della Salute': giornata di visite gratuite per la prevenzione di diabete, melanoma e tumori](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGhGdk9YRW4taUNKX1hIS3drNnNKSUN6QWxWNkx4dzlKdmM3RVo4WkVSai10eC1wMWkzVkI2ajVzdmltcUU5bmhqQTJRLVh6bHdNTzZpNVRyaHFDc1FUSU5DanJKMUJoU0hpQkRKcEpsWmVZZXhTdy16NTBraVNQckpSSGM1bXM1T3U1UW1UVFhBNGcyZkFFUGVQZkdPSU5RRUNxQnYwRGxzUXdHVVdwcDdoVTFXbXZNdXR6QWlMSGNwVnVLb0E?oc=5)
 
 2026-03-31 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
 
 來源：[PisaToday](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGhGdk9YRW4taUNKX1hIS3drNnNKSUN6QWxWNkx4dzlKdmM3RVo4WkVSai10eC1wMWkzVkI2ajVzdmltcUU5bmhqQTJRLVh6bHdNTzZpNVRyaHFDc1FUSU5DanJKMUJoU0hpQkRKcEpsWmVZZXhTdy16NTBraVNQckpSSGM1bXM1T3U1UW1UVFhBNGcyZkFFUGVQZkdPSU5RRUNxQnYwRGxzUXdHVVdwcDdoVTFXbXZNdXR6QWlMSGNwVnVLb0E?oc=5)
-
----
-
-### [Cribado de cáncer de colon en Aragón, solo el 40% acude a la prueba pese a su sencillez y eficacia - Cadena SER](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTFkzZmNqUHBWZklmX3d5QW9ITzVXOU5ENXlma3BudE0yeW5YVU5LYkFNR1hRT1NyZEk2aktNdEs1YmNMQ2xKQzh1bHZndDFQT2xabjFxSjNRS3FKY1F4MzYxb2lVUXhSeWFzN2p6S09taE5pWHJNbksxZU5kcWtBZ3RTQk1fTkdQaXdyQ0xsY1FUcXU1eXZGN0x1TWpFTHNVcmZFdkZMUTVGZjRBbndhdjJZQUJvTXZoNm1WamY0OEZWeXlUOEREQnRxM0J1Z3hFcFNkWVA1dmZndVRENFVROExTR1BtbVXSAfsBQVVfeXFMTmZHRER6WG1NUWtsNmZaZklDUGlNMXdfQlJtM0d0a2xJNjl6ekF2UWJ6WlZoVjZRT1N6YkhxUnVCOHl0dDJNakFXbzl0d0V4REhXd3VZeHo2RGN5Q3NyWmJ6a1JHZXAwb0NPUWNHdElSZDRMMS14YnViUjF3QURjM3hRWXh2MmFjZEFmalBEMmxyaGMwWmFqUHJRcDVvWWhmRFgyYVJzYS1HTDR5TmZEUDVVOUEzd0JBOTk0LWllcEFZc2xrU3NEQmRyRnBUQTVUV3JaZU9rSHhmRGxISHhNSVZBb2VEYVpzMXRpekFzMVBCN2hIY1BaSDNGR2s?oc=5)
-
-2026-03-31 <span class="news-indication-tag">tumor</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTFkzZmNqUHBWZklmX3d5QW9ITzVXOU5ENXlma3BudE0yeW5YVU5LYkFNR1hRT1NyZEk2aktNdEs1YmNMQ2xKQzh1bHZndDFQT2xabjFxSjNRS3FKY1F4MzYxb2lVUXhSeWFzN2p6S09taE5pWHJNbksxZU5kcWtBZ3RTQk1fTkdQaXdyQ0xsY1FUcXU1eXZGN0x1TWpFTHNVcmZFdkZMUTVGZjRBbndhdjJZQUJvTXZoNm1WamY0OEZWeXlUOEREQnRxM0J1Z3hFcFNkWVA1dmZndVRENFVROExTR1BtbVXSAfsBQVVfeXFMTmZHRER6WG1NUWtsNmZaZklDUGlNMXdfQlJtM0d0a2xJNjl6ekF2UWJ6WlZoVjZRT1N6YkhxUnVCOHl0dDJNakFXbzl0d0V4REhXd3VZeHo2RGN5Q3NyWmJ6a1JHZXAwb0NPUWNHdElSZDRMMS14YnViUjF3QURjM3hRWXh2MmFjZEFmalBEMmxyaGMwWmFqUHJRcDVvWWhmRFgyYVJzYS1HTDR5TmZEUDVVOUEzd0JBOTk0LWllcEFZc2xrU3NEQmRyRnBUQTVUV3JaZU9rSHhmRGxISHhNSVZBb2VEYVpzMXRpekFzMVBCN2hIY1BaSDNGR2s?oc=5)
-
----
-
-### [Scoperta a Candiolo: un mix di farmaci biologici fa regredire il cancro al polmone senza la chemio - La Stampa](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSi1ISVk1dm1FeDN5LVBERGg2anUyR1dTNXpyeVJPNldnUG1JZ3lORkhSNHVUZlJaa2lwd2pqdzFaWFB2U3FodmZkMWxRNmllZThUUnlVSFhUUDlTWTBVazc3MmczczZfd3ZxN0hSVGkzcFF6UzJ2Q3hBZzVKRmRDNWs4YVZLOXhWRjZ3MnRoS0k2UWFsRV9sY0ZsMi0tTnVEbDE1MnA1MDZmcHpPbU90bzhrdDPSAboBQVVfeXFMTzBoRVU4OXh5RGUzOUR2di01SVBLdldEdVpRN1Ztc2gxMWZ2MmktanBSa0tmcGRTNWljclNrTE5VV1pxVmJObG00RHVOLXdHUzItWVdqZVpySkNyTjdxQXNUQW45aEE1MDNvcDUtc2dLdXpGZGIySnkyZ1VYOXNOYjAyUnhHQkZ2alRnbXNGVDRZNWdlMldqdmdFUU1NSUYzRGJZWmJ4U0ZMZEV0VXBzY1QzYkR0VkZmRmpR?oc=5)
-
-2026-03-31 <span class="news-indication-tag">cancer</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSi1ISVk1dm1FeDN5LVBERGg2anUyR1dTNXpyeVJPNldnUG1JZ3lORkhSNHVUZlJaa2lwd2pqdzFaWFB2U3FodmZkMWxRNmllZThUUnlVSFhUUDlTWTBVazc3MmczczZfd3ZxN0hSVGkzcFF6UzJ2Q3hBZzVKRmRDNWs4YVZLOXhWRjZ3MnRoS0k2UWFsRV9sY0ZsMi0tTnVEbDE1MnA1MDZmcHpPbU90bzhrdDPSAboBQVVfeXFMTzBoRVU4OXh5RGUzOUR2di01SVBLdldEdVpRN1Ztc2gxMWZ2MmktanBSa0tmcGRTNWljclNrTE5VV1pxVmJObG00RHVOLXdHUzItWVdqZVpySkNyTjdxQXNUQW45aEE1MDNvcDUtc2dLdXpGZGIySnkyZ1VYOXNOYjAyUnhHQkZ2alRnbXNGVDRZNWdlMldqdmdFUU1NSUYzRGJZWmJ4U0ZMZEV0VXBzY1QzYkR0VkZmRmpR?oc=5)
-
----
-
-### [Giftstoffe in E-Zigaretten: Nikotin-Vapes sind „wahrscheinlich krebserregend“](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjJCSndQZkcyREtBYjN3dGlleGQySDM3a0FNZHpQUGRoZWhXRndfc21pMXRydjlaTHpUVDFCSXlZel9sdDl5RW1tdUU0N2hWRk4yOVoza2R4cFFBcGFUTFZzUG5vOTczUnlLX09hdVItLVVHQmI5N0RTc0JaQzJnZGY5R0FNb2ZzOC1OcVJRZEN5dVVnam1fODdjQmhEUFFMZ19IQWYycXdjdHBSTFVpTTd6WWloNndfUWhZbFJ6UUQ?oc=5)
-
-2026-03-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[tagesspiegel.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjJCSndQZkcyREtBYjN3dGlleGQySDM3a0FNZHpQUGRoZWhXRndfc21pMXRydjlaTHpUVDFCSXlZel9sdDl5RW1tdUU0N2hWRk4yOVoza2R4cFFBcGFUTFZzUG5vOTczUnlLX09hdVItLVVHQmI5N0RTc0JaQzJnZGY5R0FNb2ZzOC1OcVJRZEN5dVVnam1fODdjQmhEUFFMZ19IQWYycXdjdHBSTFVpTTd6WWloNndfUWhZbFJ6UUQ?oc=5)
 
 ---
 
@@ -92,19 +76,19 @@ permalink: /news/pembrolizumab/
 
 ---
 
+### [Tumore al polmone, doppio scacco con il mix che fa regredire la malattia senza chemio - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3hQQ3NCSVoxNTJfcjRVQmxQb2RsUDBVZVlleXFudVR6V1VvUFpSZUdQdEpiWnB1RmxIRC1FZThpMDZKMkdlT2ttT3o0TlhEajhpUDR3eWRKaDc5WlJTaUJBQWh6dk9YMjd5aDBzWllVRnZuNEM5N01KOEZnaXNaMFo1Q1M4Z0NNTDdYcmNoblhDNUdXNnNNZ1l4WWZMUFVfUURmRTgyaExZTzlhVlhQVjNkaV80Zw?oc=5)
+
+2026-03-31 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3hQQ3NCSVoxNTJfcjRVQmxQb2RsUDBVZVlleXFudVR6V1VvUFpSZUdQdEpiWnB1RmxIRC1FZThpMDZKMkdlT2ttT3o0TlhEajhpUDR3eWRKaDc5WlJTaUJBQWh6dk9YMjd5aDBzWllVRnZuNEM5N01KOEZnaXNaMFo1Q1M4Z0NNTDdYcmNoblhDNUdXNnNNZ1l4WWZMUFVfUURmRTgyaExZTzlhVlhQVjNkaV80Zw?oc=5)
+
+---
+
 ### [Vino, birra o superalcolici? Chi beve ha il 36% di probabilità in più di morire di cancro (ma dipende da cosa si beve) - Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnR5MGlSQTZDTmx6N3l2OEV6NEpUdkl0TkFXTy1HWGFSbVNEVTR4a0FheFUyM0JRZEZqQjY5X21RZzRVOFZEamF1Y2QyX2pFWUNiYk9XRmk5a0lOYmZIRTdpVmdBZDl0M2tGTW5tTEZtVHN5WGNDLWhZQzhjODdlcEJmVGhMWWRFRUlNVnVZRHJsNGpTT3JYOW1OVzVXR1I4ek44ZzB2YXQydUNB0gGqAUFVX3lxTE1xcmo2a0Jja19vWW44cW5yLUFyNEY1MGFIMFpYWkVucDY2b1NfcS1BX25VX0dkU0d2WWdCdldOUkdJMl9obkVybU8xb29zbWdjQUszSk1jM21saUx4Z2FhWG0zUEZ4YjZrRi1CLUNUTklkY2Vma3d1dzVpVElRZFpCaUdLR1VuaGdLY3RUTUYwZEltckgxYTNHTUZPLXA4Yml2ZEZiTnFYcFZR?oc=5)
 
 2026-03-31 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnR5MGlSQTZDTmx6N3l2OEV6NEpUdkl0TkFXTy1HWGFSbVNEVTR4a0FheFUyM0JRZEZqQjY5X21RZzRVOFZEamF1Y2QyX2pFWUNiYk9XRmk5a0lOYmZIRTdpVmdBZDl0M2tGTW5tTEZtVHN5WGNDLWhZQzhjODdlcEJmVGhMWWRFRUlNVnVZRHJsNGpTT3JYOW1OVzVXR1I4ek44ZzB2YXQydUNB0gGqAUFVX3lxTE1xcmo2a0Jja19vWW44cW5yLUFyNEY1MGFIMFpYWkVucDY2b1NfcS1BX25VX0dkU0d2WWdCdldOUkdJMl9obkVybU8xb29zbWdjQUszSk1jM21saUx4Z2FhWG0zUEZ4YjZrRi1CLUNUTklkY2Vma3d1dzVpVElRZFpCaUdLR1VuaGdLY3RUTUYwZEltckgxYTNHTUZPLXA4Yml2ZEZiTnFYcFZR?oc=5)
-
----
-
-### ['Girls Aloud singer Sarah Harding saved my life'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kd2M0anpNQjZRNTBrWDlQSUtsSW93bzQyYWl0b3FkaUFqUDFBNDQ3aDNMYXRJVlFuSFdMQ2VnNVR3TzhtQkpjTk1zcU1Wb1BwNEZzc0o1eW94UENq?oc=5)
-
-2026-03-31 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kd2M0anpNQjZRNTBrWDlQSUtsSW93bzQyYWl0b3FkaUFqUDFBNDQ3aDNMYXRJVlFuSFdMQ2VnNVR3TzhtQkpjTk1zcU1Wb1BwNEZzc0o1eW94UENq?oc=5)
 
 ---
 
@@ -124,19 +108,11 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [Inaugurata al Cro di Aviano la tomoterapia: il macchinario da 8 milioni di euro è la nuova frontiera per le cure oncologiche](https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZZZkljSjhWQ0gwVGJ3UkJ4b2dqMWRxZl9FVnNEYUsxY3B0NW80RDROeTNJVWF5RGFBRjNGZDJsLV9mRzd4VmVRUlE0Nk1XR052M1lSNzQtSURjZ25Vd1VvQ2g4SWJFdXBJY3NpNFFJMmN2UFh0U3I3T3pldEdjRHRNOUQtWktObXdPQXBVZ0ZtU3JBblJnYlhmN0U5QWxnbVFVamRETTcyc0p1a3FMb19Pb2lGRTVsZEVZdEN3?oc=5)
-
-2026-03-30 <span class="news-indication-tag">tumor</span>
-
-來源：[messaggeroveneto.it](https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZZZkljSjhWQ0gwVGJ3UkJ4b2dqMWRxZl9FVnNEYUsxY3B0NW80RDROeTNJVWF5RGFBRjNGZDJsLV9mRzd4VmVRUlE0Nk1XR052M1lSNzQtSURjZ25Vd1VvQ2g4SWJFdXBJY3NpNFFJMmN2UFh0U3I3T3pldEdjRHRNOUQtWktObXdPQXBVZ0ZtU3JBblJnYlhmN0U5QWxnbVFVamRETTcyc0p1a3FMb19Pb2lGRTVsZEVZdEN3?oc=5)
-
----
-
-### [expert reaction to qualitative risk assessment on the carcinogenicity of e-cigarettes - Science Media Centre](https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2pJS05VTTVDNE5Qb28xUzdydlUwelVWb05uQTA5ZUItUlhPWnd2RUk3cmNISkxfb3lSa1lrSUYwRVJJT2tYaUFRQ2N0dm9ERHFIdGduRlQwM09hcElOZll5cmZNN1B0cEg3al9Ca3JWenRycVlSMGZsSm9qUGNLdHk1OEQ2S1paT0xTaVdLYWY0a1N1ZnNOZTBhOFpreHFQRkp6cGNNUHBqaTJhTnh0Wl9qX2dlX1ROV0VmS3JR?oc=5)
+### [Vapes And E-Cigs Cause Cancer In Their Own Right, Scientists Claim, And Society Shouldn't Wait 100 Years To Act](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1pybER0bm1DSUMzUUdHQUxUUVhDVGQwNk5fckZzUnNBZmJUMlF0SERVbmthRThmOGJXWlJraWRrZnRhNEhEckNnOFNiOU9rQkc3cVZjcEVnM1c2UTdaS2FfejI2Vkh6eTd0S2lBcUVjRHNjV0RncE1yaENocHF1dnFNeWo1SDl0a2l1ckttMGpacU11UWdPRTBIZHJyQUpvdTJPdDdidE9aUk50dDZPTDRsa3B1SlBqSXpRMk1nVkRuOXhRb1g3NVVIY2RKaEVFRWJGNER1NW1lVU80Rnc?oc=5)
 
 2026-03-30 <span class="news-indication-tag">cancer</span>
 
-來源：[Science Media Centre](https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2pJS05VTTVDNE5Qb28xUzdydlUwelVWb05uQTA5ZUItUlhPWnd2RUk3cmNISkxfb3lSa1lrSUYwRVJJT2tYaUFRQ2N0dm9ERHFIdGduRlQwM09hcElOZll5cmZNN1B0cEg3al9Ca3JWenRycVlSMGZsSm9qUGNLdHk1OEQ2S1paT0xTaVdLYWY0a1N1ZnNOZTBhOFpreHFQRkp6cGNNUHBqaTJhTnh0Wl9qX2dlX1ROV0VmS3JR?oc=5)
+來源：[IFLScience](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1pybER0bm1DSUMzUUdHQUxUUVhDVGQwNk5fckZzUnNBZmJUMlF0SERVbmthRThmOGJXWlJraWRrZnRhNEhEckNnOFNiOU9rQkc3cVZjcEVnM1c2UTdaS2FfejI2Vkh6eTd0S2lBcUVjRHNjV0RncE1yaENocHF1dnFNeWo1SDl0a2l1ckttMGpacU11UWdPRTBIZHJyQUpvdTJPdDdidE9aUk50dDZPTDRsa3B1SlBqSXpRMk1nVkRuOXhRb1g3NVVIY2RKaEVFRWJGNER1NW1lVU80Rnc?oc=5)
 
 ---
 
@@ -144,15 +120,7 @@ permalink: /news/pembrolizumab/
 
 2026-03-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[linternaute.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzZ6YXVCVERDTlpnYzJkYV80TUZjQUlHRFA2NGZ1a0RlZUpVNnI0eEtJQ3B4ZkR1cVNqeW51YnQzbThCc2ZrbEstTjdvYXY3bThVNjNKWWhJNDJNUzJGZlhEcUVmYXJRTGdJaGRBRmxEOU0yZTBUc3E0TkhDTzRpdHo5TzF4RzBjTlAzNDdraHpkRDBKWlYteHNEeWhfdXdmd2o1MTFEWGltUTdKa3B1YlZERW0?oc=5)
-
----
-
-### [Cancer : ce régime alimentaire est le meilleur selon cette étude menée auprès de 2 millions de personnes sur 27 ans - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekhtSWd4NlZzWnRfQlAzQ3ZvR2R5LVhNd3NoVGRXYTRLTDZsSVZCYkhRRm9NeENFSnpCcEJta1VGeUlyZWRQY2RPSDBKc2NJazdYbEJaYmlzSnJHckFXZkV3NnY4X3lsQTlURU9qdnlhUjBoTXVWX21FZEdfdmJpcGx1QkpvM1dxS1B2LXdxSzl6WmFna2ZjcjhWdVNNdmdjNU5jd1JESEsyWnpKZ1RMMUZzbnVUa1J5QUNEeDJ3b3d0SllEVzJGR05lT01iTDR2Z0Fn?oc=5)
-
-2026-03-30 <span class="news-indication-tag">cancer</span>
-
-來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekhtSWd4NlZzWnRfQlAzQ3ZvR2R5LVhNd3NoVGRXYTRLTDZsSVZCYkhRRm9NeENFSnpCcEJta1VGeUlyZWRQY2RPSDBKc2NJazdYbEJaYmlzSnJHckFXZkV3NnY4X3lsQTlURU9qdnlhUjBoTXVWX21FZEdfdmJpcGx1QkpvM1dxS1B2LXdxSzl6WmFna2ZjcjhWdVNNdmdjNU5jd1JESEsyWnpKZ1RMMUZzbnVUa1J5QUNEeDJ3b3d0SllEVzJGR05lT01iTDR2Z0Fn?oc=5)
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzZ6YXVCVERDTlpnYzJkYV80TUZjQUlHRFA2NGZ1a0RlZUpVNnI0eEtJQ3B4ZkR1cVNqeW51YnQzbThCc2ZrbEstTjdvYXY3bThVNjNKWWhJNDJNUzJGZlhEcUVmYXJRTGdJaGRBRmxEOU0yZTBUc3E0TkhDTzRpdHo5TzF4RzBjTlAzNDdraHpkRDBKWlYteHNEeWhfdXdmd2o1MTFEWGltUTdKa3B1YlZERW0?oc=5)
 
 ---
 
@@ -164,11 +132,11 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern - Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 2026-03-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[derbund.ch](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+來源：[Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 ---
 
@@ -196,6 +164,14 @@ permalink: /news/pembrolizumab/
 
 ---
 
+### [Tumori cerebrali pediatrici, da Trento un avatar per studiarli](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUZwS0xJZjBtbjNyeDFVQ2JHUVBRVlZCeU5TRUFQREdldUhBcXZjV3BOUHVPU2l0UWxGZF95YVVSRUh5YkFvUElPSFJrOHctZkxES2lDMWZuUUFvVmt1SDQ4ZS1pNEtFa1JsbUVkY0c0U3hFNTJRYjUzbnlUNmZ0T2VmY3lzalozUDNyandwNDdOQnZBSm5hRXJlcVpEQW5PdjJSVU05TU1vZkFGZkg2XzdB?oc=5)
+
+2026-03-30 <span class="news-indication-tag">tumor</span>
+
+來源：[l'Adige](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUZwS0xJZjBtbjNyeDFVQ2JHUVBRVlZCeU5TRUFQREdldUhBcXZjV3BOUHVPU2l0UWxGZF95YVVSRUh5YkFvUElPSFJrOHctZkxES2lDMWZuUUFvVmt1SDQ4ZS1pNEtFa1JsbUVkY0c0U3hFNTJRYjUzbnlUNmZ0T2VmY3lzalozUDNyandwNDdOQnZBSm5hRXJlcVpEQW5PdjJSVU05TU1vZkFGZkg2XzdB?oc=5)
+
+---
+
 ### [Krebs in Europa: Mehr Investitionen – mehr Leben - Pharma Fakten](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFBfamJVYm41THRFRUZ0cGZEUU9OUjJDV3N4M1ZiYTRWNm1MNEFqVndyOEVPUXBYLTJDb2lRZHFLQWh5NjFPZy02djhhaG00ZmxWa1ZRWDc2VGhfMnhjaWJNZzJjRDduRW9oRW1kZzF1T2tvbzMwcUc5ZU9HUlJ4bk56Q1Q4Tlk?oc=5)
 
 2026-03-29 <span class="news-indication-tag">Krebs</span>
@@ -212,19 +188,11 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [Un traitement unique au monde et révolutionnaire contre l'endométriose développé à Lyon - Le Bonbon](https://news.google.com/rss/articles/CBMingFBVV95cUxQVm1fcE1yaHBxd29jQ1JrUFl3X0JmQ25IOVZqMlphSndxSmZfaGlBWk4wQkhCRU1vWnFyQXFsYThCb2Y5RTJJWERTR2x5bTFDdmdYYTZSa1UxQU5kV2xXNHBpTVI1d0JqS0c3WFpBTnp6R1dMbnU3Q183ck9vRURIT2dSLTFQZ2R4Ni1rVFFXN0Z0R0JVczdETG5uMWhkQQ?oc=5)
+### [Cuisiner une fois par semaine peut réduire le risque de maladie d’Alzheimer - Le Figaro Santé](https://news.google.com/rss/articles/CBMivwFBVV95cUxONHZ4R3NtMUdfVzhLM1hNUVVuTXVfUGI2Q2FKb3pENFNlSE9VNUY1YUE1V1JfRVEwUzZCdFYtdFJLV19pNDlIMWdnVWNQNm94NF9xdVdDZ29QQ19sdWU2TTUyTFF2eXVUNHV1NkprMEFIRXBNQ3BCOXltd0dxMGpDTFZoNWZvbEVHNGZfcWZfRzJNRWxCR0Itd0FaQ2x2anl0SzFQSHBPQklrZ3lrdENlUHp4VDlTbWR4V0U0emhHSQ?oc=5)
 
-2026-03-29 <span class="news-indication-tag">cancer</span>
+2026-03-29 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[Le Bonbon](https://news.google.com/rss/articles/CBMingFBVV95cUxQVm1fcE1yaHBxd29jQ1JrUFl3X0JmQ25IOVZqMlphSndxSmZfaGlBWk4wQkhCRU1vWnFyQXFsYThCb2Y5RTJJWERTR2x5bTFDdmdYYTZSa1UxQU5kV2xXNHBpTVI1d0JqS0c3WFpBTnp6R1dMbnU3Q183ck9vRURIT2dSLTFQZ2R4Ni1rVFFXN0Z0R0JVczdETG5uMWhkQQ?oc=5)
-
----
-
-### [La science découvre pourquoi cette molécule anti-âge pourrait aussi favoriser le cancer - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0RIUXdDS3o1aDhoNm9BOFVRRWRObWF5TFlEdVRrU1FTTUhNXzExT211aDRNV1VhNDQtN25pS1QyTTlRQ1FNQ2NsMmRiYjFpTlp3YzR5QTY3RjVjbTF1VVVFcTVfWTRtb2VmV0VaNUFnTnQ5cWRXV0lvYXVERzBibVZuM09Ka2JpMGFKcEVXbXB4UEZOYXFtcFRyVTRFQm5kek1GMnlSbXJJTm90V0hCQVplWEJDMWVwTW4tUXhBeUpKSFBFSUJKUDRZMnZ0ZHo1cFVGaVdPSEQ?oc=5)
-
-2026-03-29 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0RIUXdDS3o1aDhoNm9BOFVRRWRObWF5TFlEdVRrU1FTTUhNXzExT211aDRNV1VhNDQtN25pS1QyTTlRQ1FNQ2NsMmRiYjFpTlp3YzR5QTY3RjVjbTF1VVVFcTVfWTRtb2VmV0VaNUFnTnQ5cWRXV0lvYXVERzBibVZuM09Ka2JpMGFKcEVXbXB4UEZOYXFtcFRyVTRFQm5kek1GMnlSbXJJTm90V0hCQVplWEJDMWVwTW4tUXhBeUpKSFBFSUJKUDRZMnZ0ZHo1cFVGaVdPSEQ?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivwFBVV95cUxONHZ4R3NtMUdfVzhLM1hNUVVuTXVfUGI2Q2FKb3pENFNlSE9VNUY1YUE1V1JfRVEwUzZCdFYtdFJLV19pNDlIMWdnVWNQNm94NF9xdVdDZ29QQ19sdWU2TTUyTFF2eXVUNHV1NkprMEFIRXBNQ3BCOXltd0dxMGpDTFZoNWZvbEVHNGZfcWZfRzJNRWxCR0Itd0FaQ2x2anl0SzFQSHBPQklrZ3lrdENlUHp4VDlTbWR4V0U0emhHSQ?oc=5)
 
 ---
 
