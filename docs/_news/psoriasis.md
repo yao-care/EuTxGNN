@@ -41,19 +41,19 @@ permalink: /news/psoriasis/
 
 ## 相關新聞（2 則）
 
+### [Psoriasis: un fármaco aprobado para otro uso reduce la inflamación asociada a esta enfermedad](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdTZ1VGJBbDUzbDAzaTdvMjdmc1hrelhZS3V6bzZHbUt1OHRhSUJUbTZYb0lTMkwybTFTTm1mS3ByaEJ5VC1lWHlnQTFoNkEyYXBwM0xEU3U4TDRXelA5REM2a2RBbUc5RElDWmpnbE9EUVNoV0RjekQtMldjSjRpOEFJdi1TcnhyRVIyMEJodElpZllMUmlROUhhVzZpdVBuelpnWkM1T0xjQ2hMRXhCNFRnRjZucHc?oc=5)
+
+2026-03-31
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdTZ1VGJBbDUzbDAzaTdvMjdmc1hrelhZS3V6bzZHbUt1OHRhSUJUbTZYb0lTMkwybTFTTm1mS3ByaEJ5VC1lWHlnQTFoNkEyYXBwM0xEU3U4TDRXelA5REM2a2RBbUc5RElDWmpnbE9EUVNoV0RjekQtMldjSjRpOEFJdi1TcnhyRVIyMEJodElpZllMUmlROUhhVzZpdVBuelpnWkM1T0xjQ2hMRXhCNFRnRjZucHc?oc=5)
+
+---
+
 ### [COVID-19-Impfung schützt offenbar vor infektionsgetriggerter Psoriasis - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHpMVktUUWlEN2UzM1JDcnZuUHdrWlJGSzRxUVQ3LU91UE1MWGhubFNzN1l2WDBZT0VlRUd6SDRXQm1oWkVtNkNMYW5ydWs0SzRQYUVFRE9wb2sxNEczZVQwbDJubEJiRERXNThkYkhvbU1GYkUxOFFJX1U2ZDlVWU5mTUxJcUoySWNHVDlmeGViaHo2dWJDalpLVXNISnFlVGdJV0R2N3hWVVJSWFRNc01lYUdNOHVpUXc2Sg?oc=5)
 
 2026-03-31
 
 來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHpMVktUUWlEN2UzM1JDcnZuUHdrWlJGSzRxUVQ3LU91UE1MWGhubFNzN1l2WDBZT0VlRUd6SDRXQm1oWkVtNkNMYW5ydWs0SzRQYUVFRE9wb2sxNEczZVQwbDJubEJiRERXNThkYkhvbU1GYkUxOFFJX1U2ZDlVWU5mTUxJcUoySWNHVDlmeGViaHo2dWJDalpLVXNISnFlVGdJV0R2N3hWVVJSWFRNc01lYUdNOHVpUXc2Sg?oc=5)
-
----
-
-### [Descubren que un fármaco contra la leucemia logra frenar la inflamación por psoriasis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWxDTHNZWnQ0dzJEcjc5MjU3eGkzWW9iRFJCLXlobVpwRWY2dmNuWlhQZ3V2WXZxSDE1NU4ySmVteFZpc3NLTkkwbXZXNTZ1YTVtNWxteUh6RHkyNVItYkhIbXZrdkxFb29PaUc1c0xreVFSZFQ5T3pUQjFHZnlzNXozZVRZQ1Y3Y29YTkRBaEJBRDd0alFWZ0R4NzVwdnJCaUw3Wk9tWVV6VFU?oc=5)
-
-2026-03-30
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWxDTHNZWnQ0dzJEcjc5MjU3eGkzWW9iRFJCLXlobVpwRWY2dmNuWlhQZ3V2WXZxSDE1NU4ySmVteFZpc3NLTkkwbXZXNTZ1YTVtNWxteUh6RHkyNVItYkhIbXZrdkxFb29PaUc1c0xreVFSZFQ5T3pUQjFHZnlzNXozZVRZQ1Y3Y29YTkRBaEJBRDd0alFWZ0R4NzVwdnJCaUw3Wk9tWVV6VFU?oc=5)
 
 ---
 

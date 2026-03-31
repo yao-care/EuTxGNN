@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="Olanzapine 有什麼相關新聞？">
-<strong>Olanzapine</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Olanzapine</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,37 @@ permalink: /news/olanzapine/
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
+
+### [Ein langlebiger Mythos - die Wissenschaft hat enttäuschende Nachrichten für Vitamin-C-Hersteller](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUxTdWpLWFI1NmNydjRGa1JOaXhoNjVibFlmUWxCSk05WG1SVXUzdkZ1bGxNaTFEMTRFM0JFR2doaXY2NVBjZjJBMkhocml1NmZuTHRnUjZwOEY1M0FLaWE2S0g3Z2tOZDRFR3FlM2VwRGpNY0ZvWHJiMTE0UW9fNkc1S25iSEZ6Sjk4b0VqanMybG1XV3A5dkN4R0ZsaGxoUm1FYmQtdDZLOGs4ZlBXLVY5MlliX2QydzhVRm0yTW4taXZZQUx1SThya1RXenc?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[Heidelberg24](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUxTdWpLWFI1NmNydjRGa1JOaXhoNjVibFlmUWxCSk05WG1SVXUzdkZ1bGxNaTFEMTRFM0JFR2doaXY2NVBjZjJBMkhocml1NmZuTHRnUjZwOEY1M0FLaWE2S0g3Z2tOZDRFR3FlM2VwRGpNY0ZvWHJiMTE0UW9fNkc1S25iSEZ6Sjk4b0VqanMybG1XV3A5dkN4R0ZsaGxoUm1FYmQtdDZLOGs4ZlBXLVY5MlliX2QydzhVRm0yTW4taXZZQUx1SThya1RXenc?oc=5)
+
+---
+
+### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
+
+2026-03-31 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
+
+---
+
+### [KI analysiert Hirnwellen im Schlaf für frühe Demenz-Erkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
+
+---
 
 ### [Dépression cachée : ces 4 signes du quotidien ne ressemblent pas à une dépression mais doivent vous alerter - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNl9BdGZ3TDJoTzVyYWhDTDhYYUJKYzAxMjJSb1Bod1YybEZONHpXVl9wb2hGMVA4dm1uQmFtbC1vRzd1TVpjNXJ5eEhuTVhtdFlaU0NDa25MZlJwRVdEOHM1RUE0V1BGNzhBVTZSc0QzWWVtb0Y5WTR6dzJCWXgzQTB6bFdXM3ROQmpUbklHOWJidjJqb3ZycmdpYXh5dWUzRGVCUk13Zk83TWZsUUV5T0VNSUZIUXo3THJON2dpUWpqLXN1UHpJaVZSalRyUHpCbDk4eEpyMkhlR2dIS29UdWdiZkFtMGc3YTFR?oc=5)
 
 2026-03-31 <span class="news-indication-tag">dépression</span>
 
 來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNl9BdGZ3TDJoTzVyYWhDTDhYYUJKYzAxMjJSb1Bod1YybEZONHpXVl9wb2hGMVA4dm1uQmFtbC1vRzd1TVpjNXJ5eEhuTVhtdFlaU0NDa25MZlJwRVdEOHM1RUE0V1BGNzhBVTZSc0QzWWVtb0Y5WTR6dzJCWXgzQTB6bFdXM3ROQmpUbklHOWJidjJqb3ZycmdpYXh5dWUzRGVCUk13Zk83TWZsUUV5T0VNSUZIUXo3THJON2dpUWpqLXN1UHpJaVZSalRyUHpCbDk4eEpyMkhlR2dIS29UdWdiZkFtMGc3YTFR?oc=5)
-
----
-
-### [Comer mal mata: cuatro millones de muertes al año por fallos cardíacos](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHQ4Y2EtdmdzbXhtTkl1VlFfeUk2ejNhbXR5bTFEOExCaUZMdlFpdV8yeFV3cmxSdGxzMGI2NHBnMDBNWnpRbkFhU1F5THZpSUp2ZWY1N3ljell3OFkyT1NCVnJ1WU5GUzBPajhlaF9QSndmLTFwd0l2Tmw0TmRnNVpMcEYxSTNQdlB6MTMtNGYxb2VCaE1vZm9vV0VqR18x0gGmAUFVX3lxTE9HNGdxLVFlV2k1Zjk0OXlYYS1YZXdhVDY4RmV5TWd3X0VVWFB3eE9RblVQRERpeldqOWo4ay1WZUI4R05LMEpLS0VxNzRvVzM3cUt0dExYTkVuWE5fS3M1R2RsMnpPYUxHTEY5eGZpRS1fMk5iSTdHTVdFVEV1amxTYWtBR2RUdnBOLW84Ri1ObXRvM0FJMUhwVGtmMDR1Skc0VGpHOXc?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHQ4Y2EtdmdzbXhtTkl1VlFfeUk2ejNhbXR5bTFEOExCaUZMdlFpdV8yeFV3cmxSdGxzMGI2NHBnMDBNWnpRbkFhU1F5THZpSUp2ZWY1N3ljell3OFkyT1NCVnJ1WU5GUzBPajhlaF9QSndmLTFwd0l2Tmw0TmRnNVpMcEYxSTNQdlB6MTMtNGYxb2VCaE1vZm9vV0VqR18x0gGmAUFVX3lxTE9HNGdxLVFlV2k1Zjk0OXlYYS1YZXdhVDY4RmV5TWd3X0VVWFB3eE9RblVQRERpeldqOWo4ay1WZUI4R05LMEpLS0VxNzRvVzM3cUt0dExYTkVuWE5fS3M1R2RsMnpPYUxHTEY5eGZpRS1fMk5iSTdHTVdFVEV1amxTYWtBR2RUdnBOLW84Ri1ObXRvM0FJMUhwVGtmMDR1Skc0VGpHOXc?oc=5)
 
 ---
 
@@ -72,15 +88,7 @@ permalink: /news/olanzapine/
 
 2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
-
----
-
-### [Las nuevas directrices internacionales sobre sepsis ponen el foco de atención en las secuelas psíquicas de los afectados - IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0phSEhneTBFRU10OTdpcDNRYnVsd1F3MDNIeVBXejhrYnV6RnFHWjRQbkNOQk1NLUx2LTVBUVlreWVsS0x5dkx0Rmt5S1g2MExYeVQydExvMVRtaXE2enRoOWRVa0RXcnFKcWtSUHZ2Rk9xT0M2TUlJNktqaFBqdU9GSElmMjA1SkJRTmxQTzFfQldLcHdYUXBKWmtmeGo2dExOZlJGbkowc3Y2dFRnT3BtWFFKS2PSAbIBQVVfeXFMTVUwVHVYMDEwc0d5Qi14dEZMSUdzTkZnbjRlanZsaFVCV01WenY5NkJ2MWU4TGRvQ1RLZWdtcWJaUkxSdWw2dEppSmNHc0J2RU5XQmJibklORXc4LWU3RWMxRWh2LThmSEo1U3hhX0lLR0hVRWI3eTVrVkwxTUxCZGplY29jdXI5bS13b3hrMjFsRTZYU0VIUERQb281aC1lS3VsU2FSM29TRlZQbkM2dkFNQQ?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0phSEhneTBFRU10OTdpcDNRYnVsd1F3MDNIeVBXejhrYnV6RnFHWjRQbkNOQk1NLUx2LTVBUVlreWVsS0x5dkx0Rmt5S1g2MExYeVQydExvMVRtaXE2enRoOWRVa0RXcnFKcWtSUHZ2Rk9xT0M2TUlJNktqaFBqdU9GSElmMjA1SkJRTmxQTzFfQldLcHdYUXBKWmtmeGo2dExOZlJGbkowc3Y2dFRnT3BtWFFKS2PSAbIBQVVfeXFMTVUwVHVYMDEwc0d5Qi14dEZMSUdzTkZnbjRlanZsaFVCV01WenY5NkJ2MWU4TGRvQ1RLZWdtcWJaUkxSdWw2dEppSmNHc0J2RU5XQmJibklORXc4LWU3RWMxRWh2LThmSEo1U3hhX0lLR0hVRWI3eTVrVkwxTUxCZGplY29jdXI5bS13b3hrMjFsRTZYU0VIUERQb281aC1lS3VsU2FSM29TRlZQbkM2dkFNQQ?oc=5)
+來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
 
 ---
 
@@ -116,11 +124,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern - Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 2026-03-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+來源：[derbund.ch](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 ---
 

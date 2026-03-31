@@ -44,27 +44,27 @@ permalink: /news/evinacumab/
 
 ## 相關新聞（3 則）
 
-### [Descubren cómo un microARN clave controla la inflamación de las arterias en la diabetes](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLV9GRkl5aVpDTzdQbW1hVGRKUnZIaFdmYUJadDg3dXJGSDN1YXR2ZDBCaVo5ZkJEei1ISG5LVHNLXzJJNDE5ODZrSG1hS3N1YWxpNFJNMHYxUExtOVdWR2V4a3l6SWRzZUZiY0FtNVhGWUNiMC1HNXdmYlU2aFluSFRUMkJyTWxneHFScklBc2xNY3JJZjhJVHA0RXRIY1lKb2lqZkZjSFRrbFNKb2dSVUZCaThBTktZcWlWQ1Fn0gHDAUFVX3lxTFA2amhvcjlFZzN0SWFDY1NZT3FRU2l3dWlYa3Z2TGhkTF92cW5CY1dDdG01cWhOOFBJc1ZBZUZYOWtBa1JXNUVtNHlvazQ5VzVrRXVma2diYjJ2NEJibkVmS1VQSTliaW8zb2pTSjJSMm1LdUpDRGpNNTlvMzk1UnlEcVM0bmhValhZc1dQUVRQbzlaYmlYTkNsYjVXaEczWkVkWm1iSGI5Qm56YTNZcFpWaFg3RE9VeGFqcXF4bFV1bHdRVQ?oc=5)
+### [Arriva il 'Camper della Salute': giornata di visite gratuite per la prevenzione di diabete, melanoma e tumori](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGhGdk9YRW4taUNKX1hIS3drNnNKSUN6QWxWNkx4dzlKdmM3RVo4WkVSai10eC1wMWkzVkI2ajVzdmltcUU5bmhqQTJRLVh6bHdNTzZpNVRyaHFDc1FUSU5DanJKMUJoU0hpQkRKcEpsWmVZZXhTdy16NTBraVNQckpSSGM1bXM1T3U1UW1UVFhBNGcyZkFFUGVQZkdPSU5RRUNxQnYwRGxzUXdHVVdwcDdoVTFXbXZNdXR6QWlMSGNwVnVLb0E?oc=5)
 
-2026-03-30 <span class="news-indication-tag">diabetes</span>
+2026-03-31 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
 
-來源：[democrata.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLV9GRkl5aVpDTzdQbW1hVGRKUnZIaFdmYUJadDg3dXJGSDN1YXR2ZDBCaVo5ZkJEei1ISG5LVHNLXzJJNDE5ODZrSG1hS3N1YWxpNFJNMHYxUExtOVdWR2V4a3l6SWRzZUZiY0FtNVhGWUNiMC1HNXdmYlU2aFluSFRUMkJyTWxneHFScklBc2xNY3JJZjhJVHA0RXRIY1lKb2lqZkZjSFRrbFNKb2dSVUZCaThBTktZcWlWQ1Fn0gHDAUFVX3lxTFA2amhvcjlFZzN0SWFDY1NZT3FRU2l3dWlYa3Z2TGhkTF92cW5CY1dDdG01cWhOOFBJc1ZBZUZYOWtBa1JXNUVtNHlvazQ5VzVrRXVma2diYjJ2NEJibkVmS1VQSTliaW8zb2pTSjJSMm1LdUpDRGpNNTlvMzk1UnlEcVM0bmhValhZc1dQUVRQbzlaYmlYTkNsYjVXaEczWkVkWm1iSGI5Qm56YTNZcFpWaFg3RE9VeGFqcXF4bFV1bHdRVQ?oc=5)
-
----
-
-### [Running for the bus could cut risk of diabetes and dementia - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
-
-2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
+來源：[PisaToday](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGhGdk9YRW4taUNKX1hIS3drNnNKSUN6QWxWNkx4dzlKdmM3RVo4WkVSai10eC1wMWkzVkI2ajVzdmltcUU5bmhqQTJRLVh6bHdNTzZpNVRyaHFDc1FUSU5DanJKMUJoU0hpQkRKcEpsWmVZZXhTdy16NTBraVNQckpSSGM1bXM1T3U1UW1UVFhBNGcyZkFFUGVQZkdPSU5RRUNxQnYwRGxzUXdHVVdwcDdoVTFXbXZNdXR6QWlMSGNwVnVLb0E?oc=5)
 
 ---
 
-### [Il farmaco che può ridurre del 30% il rischio di infarto nei diabetici: lo studio del Mass General Brigham](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjk3cWREbEd3T1VyR3NvR2NGb1ZqSUJ5aUZkcldkdUFjamxjVWR0WENwN05jZ0Rfbks3bm5qbi1nUEMzcER5YWY4RGlvOElSQS1iMVRVelhWQlR2dGtvVDVaY1FQLUdWeWtrcUxuYkc4Znpoa0JYRFcyQ2wxTFkyTjB0aWJrN3R0RVBaOG9EOXJLS0pCSnVpcGg5bTF2c0wwVlFNWE9SVXdPSi01NDdwbC16TFIzbG90N3JzdHluLWVob3FPRHBNTWVnWlNCMTJpeHhIRnM0eXU5RHM?oc=5)
+### [Se prendi metformina queste 3 cose dovresti (già) saperle - The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
 
-2026-03-29 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">diabetic</span>
+2026-03-30 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">MS</span>
 
-來源：[fanpage.it](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjk3cWREbEd3T1VyR3NvR2NGb1ZqSUJ5aUZkcldkdUFjamxjVWR0WENwN05jZ0Rfbks3bm5qbi1nUEMzcER5YWY4RGlvOElSQS1iMVRVelhWQlR2dGtvVDVaY1FQLUdWeWtrcUxuYkc4Znpoa0JYRFcyQ2wxTFkyTjB0aWJrN3R0RVBaOG9EOXJLS0pCSnVpcGg5bTF2c0wwVlFNWE9SVXdPSi01NDdwbC16TFIzbG90N3JzdHluLWVob3FPRHBNTWVnWlNCMTJpeHhIRnM0eXU5RHM?oc=5)
+來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
+
+---
+
+### [Powerful cholesterol drug cuts heart attack risk by 31%](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ONlMySkpsVWI0V3I5TFZ2c0daTWd3VHh0bDFzYW5OcEsybFo1bk9ncWZieDFiZ0dKTXhCUTl1XzJ6aWNFNE9FM2JwSEZQMTlVNllTWTJ1YnBWTDJ1VmE4aG9aZXBvT3RUcGN3TzdRZw?oc=5)
+
+2026-03-30 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ONlMySkpsVWI0V3I5TFZ2c0daTWd3VHh0bDFzYW5OcEsybFo1bk9ncWZieDFiZ0dKTXhCUTl1XzJ6aWNFNE9FM2JwSEZQMTlVNllTWTJ1YnBWTDJ1VmE4aG9aZXBvT3RUcGN3TzdRZw?oc=5)
 
 ---
 

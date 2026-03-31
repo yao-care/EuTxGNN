@@ -44,11 +44,11 @@ permalink: /news/evolocumab/
 
 ## 相關新聞（1 則）
 
-### [Il farmaco che può ridurre del 30% il rischio di infarto nei diabetici: lo studio del Mass General Brigham](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjk3cWREbEd3T1VyR3NvR2NGb1ZqSUJ5aUZkcldkdUFjamxjVWR0WENwN05jZ0Rfbks3bm5qbi1nUEMzcER5YWY4RGlvOElSQS1iMVRVelhWQlR2dGtvVDVaY1FQLUdWeWtrcUxuYkc4Znpoa0JYRFcyQ2wxTFkyTjB0aWJrN3R0RVBaOG9EOXJLS0pCSnVpcGg5bTF2c0wwVlFNWE9SVXdPSi01NDdwbC16TFIzbG90N3JzdHluLWVob3FPRHBNTWVnWlNCMTJpeHhIRnM0eXU5RHM?oc=5)
+### [Powerful cholesterol drug cuts heart attack risk by 31%](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ONlMySkpsVWI0V3I5TFZ2c0daTWd3VHh0bDFzYW5OcEsybFo1bk9ncWZieDFiZ0dKTXhCUTl1XzJ6aWNFNE9FM2JwSEZQMTlVNllTWTJ1YnBWTDJ1VmE4aG9aZXBvT3RUcGN3TzdRZw?oc=5)
 
-2026-03-29 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">diabetic</span>
+2026-03-30 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[fanpage.it](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjk3cWREbEd3T1VyR3NvR2NGb1ZqSUJ5aUZkcldkdUFjamxjVWR0WENwN05jZ0Rfbks3bm5qbi1nUEMzcER5YWY4RGlvOElSQS1iMVRVelhWQlR2dGtvVDVaY1FQLUdWeWtrcUxuYkc4Znpoa0JYRFcyQ2wxTFkyTjB0aWJrN3R0RVBaOG9EOXJLS0pCSnVpcGg5bTF2c0wwVlFNWE9SVXdPSi01NDdwbC16TFIzbG90N3JzdHluLWVob3FPRHBNTWVnWlNCMTJpeHhIRnM0eXU5RHM?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ONlMySkpsVWI0V3I5TFZ2c0daTWd3VHh0bDFzYW5OcEsybFo1bk9ncWZieDFiZ0dKTXhCUTl1XzJ6aWNFNE9FM2JwSEZQMTlVNllTWTJ1YnBWTDJ1VmE4aG9aZXBvT3RUcGN3TzdRZw?oc=5)
 
 ---
 

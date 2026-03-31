@@ -44,19 +44,19 @@ permalink: /news/lamivudine/
 
 ## 相關新聞（2 則）
 
-### [Descubren un candidato farmacológico clave contra la hepatitis E](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
+### [Muere el anestesista Juan Maeso, condenado por el contagio masivo de hepatitis C en Valencia - EL PAÍS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHBtTlRGU2NMYVFfcV9ONjE5U0ZEcVpfLV85M0dIUU1uWm1mODBEYzRHSGcwTU55dVRXX3Q4RHA2TXc2MFBrQ3JpRHNSSUF5Y1B6ZEMxWmUwNUhXdVdidXRwSnM3TFBNbkpxb0RFbVNlN2s2Mk9zd3lqdUVSLTlNaWZ0MlVEbEQza2YzU3FfbHRUeENLZlhhSGR0N1BzUnhLSUNiSm5zeWlDejM0X3ozcG9MR3JQNVVaT3BXXzdyQUtydEttei1DalVzUzJBcDEx?oc=5)
 
-2026-03-30 <span class="news-indication-tag">hepatitis</span>
+2026-03-31 <span class="news-indication-tag">hepatitis</span>
 
-來源：[democrata.es](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHBtTlRGU2NMYVFfcV9ONjE5U0ZEcVpfLV85M0dIUU1uWm1mODBEYzRHSGcwTU55dVRXX3Q4RHA2TXc2MFBrQ3JpRHNSSUF5Y1B6ZEMxWmUwNUhXdVdidXRwSnM3TFBNbkpxb0RFbVNlN2s2Mk9zd3lqdUVSLTlNaWZ0MlVEbEQza2YzU3FfbHRUeENLZlhhSGR0N1BzUnhLSUNiSm5zeWlDejM0X3ozcG9MR3JQNVVaT3BXXzdyQUtydEttei1DalVzUzJBcDEx?oc=5)
 
 ---
 
-### [Cosa si sta facendo a Napoli contro l’aumento anomalo dei casi di epatite A - Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
+### [Epatite A, non solo cozze: frutti di bosco e verdure tra i possibili veicoli del virus](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3RRSXkzeTVzbU1pQS1kRkZBbmc1YWxzM2Z3MFlYSTV5QUNtUlY0MEVsQnRFb1ZITVRfRFpIaWRRakpmQ25MckxvQXJiNktreWdVX0pPOHI2NE8ybGl1N1o4bnRxbWRiSVBsUS1vd25LcjRHR2t2NXF3LTloUV91UkRjZWU5M0U3bUgzUHR4X1VUbHhxWU90eVpQYVUzNWxYQ2pVYmo1OTAybGo3?oc=5)
 
 2026-03-30 <span class="news-indication-tag">epatite</span>
 
-來源：[Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
+來源：[LeccePrima](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3RRSXkzeTVzbU1pQS1kRkZBbmc1YWxzM2Z3MFlYSTV5QUNtUlY0MEVsQnRFb1ZITVRfRFpIaWRRakpmQ25MckxvQXJiNktreWdVX0pPOHI2NE8ybGl1N1o4bnRxbWRiSVBsUS1vd25LcjRHR2t2NXF3LTloUV91UkRjZWU5M0U3bUgzUHR4X1VUbHhxWU90eVpQYVUzNWxYQ2pVYmo1OTAybGo3?oc=5)
 
 ---
 
