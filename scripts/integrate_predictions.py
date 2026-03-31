@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Integrate KG and DL prediction results for EuTxGNN.
+Integrate KG and DL prediction results for BrTxGNN.
 
 This script combines predictions from:
 1. Knowledge Graph (KG) method - fast, filters known indications
@@ -32,28 +32,52 @@ DRUG_MAPPING = DATA_DIR / "processed" / "drug_mapping.csv"
 OUTPUT_FILE = DATA_DIR / "processed" / "integrated_predictions.csv.gz"
 STATS_FILE = DATA_DIR / "processed" / "integration_stats.json"
 
-# Column mapping for EuTxGNN
-KG_COLS = {
-    "license_id": "license_id",
-    "brand_name": "brand_name",
-    "ingredient": "ingredient",
-    "drugbank_id": "drugbank_id",
-    "indication": "potential_indication",
-    "source": "source",
-}
+# Column mapping - auto-detected in detect_columns()
+KG_COLS = {}
+DL_COLS = {}
+MAPPING_COLS = {}
 
-DL_COLS = {
-    "drugbank_id": "drugbank_id",
-    "indication": "潛在新適應症",
-    "score": "txgnn_score",
-}
 
-MAPPING_COLS = {
-    "license_id": "license_id",
-    "brand_name": "brand_name",
-    "ingredient": "normalized_ingredient",
-    "drugbank_id": "drugbank_id",
-}
+def detect_columns():
+    """Auto-detect column names from actual CSV headers."""
+    global KG_COLS, DL_COLS, MAPPING_COLS
+
+    def find_col(header, candidates):
+        """Find first matching column name from candidates list."""
+        for c in candidates:
+            if c in header:
+                return c
+        return None
+
+    # KG columns - flexible detection
+    kg_header = pd.read_csv(KG_PREDICTIONS, nrows=0).columns.tolist()
+    KG_COLS = {
+        "license_id": find_col(kg_header, ["license_id", "承認番号", "許可證字號", "DrugName"]) or kg_header[0],
+        "brand_name": find_col(kg_header, ["brand_name", "販売名", "中文品名", "ActiveIngredient"]) or kg_header[1],
+        "ingredient": find_col(kg_header, ["drug_ingredient", "ingredient", "normalized_ingredient",
+                                           "NormalizedIngredient", "藥物成分", "標準化成分"]) or kg_header[2],
+        "drugbank_id": "drugbank_id",
+        "indication": find_col(kg_header, ["potential_indication", "潛在新適應症", "PotentialIndication",
+                                           "disease_name"]) or kg_header[4],
+        "source": find_col(kg_header, ["source", "來源", "Source"]) or kg_header[-1],
+    }
+
+    # DL columns (always same from GPU, read with encoding to handle BOM)
+    DL_COLS = {"drugbank_id": "drugbank_id", "indication": "潛在新適應症",
+               "score": "txgnn_score"}
+
+    # Mapping columns - flexible detection
+    mapping_header = pd.read_csv(DRUG_MAPPING, nrows=0).columns.tolist()
+    MAPPING_COLS = {
+        "license_id": find_col(mapping_header, ["license_id", "許可證字號"]) or mapping_header[0],
+        "brand_name": find_col(mapping_header, ["brand_name", "中文品名"]) or mapping_header[1],
+        "ingredient": find_col(mapping_header, ["normalized_ingredient", "標準化成分", "ingredient"]) or mapping_header[3],
+        "drugbank_id": "drugbank_id",
+        "success": find_col(mapping_header, ["mapping_success", "映射成功"]) or mapping_header[6],
+    }
+
+    print(f"  KG columns: {list(KG_COLS.values())[:3]}...")
+    print(f"  Mapping columns: {list(MAPPING_COLS.values())[:3]}...")
 
 
 def load_kg_predictions() -> pd.DataFrame:
@@ -66,15 +90,20 @@ def load_kg_predictions() -> pd.DataFrame:
     return kg
 
 
-def load_dl_predictions(score_threshold: float = 0.5) -> pd.DataFrame:
-    """Load DL prediction results with optional filtering."""
+def load_dl_predictions(score_threshold: float = 0.5) -> pd.DataFrame | None:
+    """Load DL prediction results with optional filtering. Returns None if file missing."""
+    if not DL_PREDICTIONS.exists():
+        print(f"\nDL predictions file not found: {DL_PREDICTIONS}")
+        print("  Running in KG-only mode.")
+        return None
+
     print(f"\nLoading DL predictions (score >= {score_threshold})...")
 
     # Read in chunks to handle large file
     chunks = []
     total_rows = 0
 
-    for chunk in pd.read_csv(DL_PREDICTIONS, chunksize=1_000_000):
+    for chunk in pd.read_csv(DL_PREDICTIONS, chunksize=1_000_000, encoding="utf-8-sig"):
         # Filter by score threshold
         filtered = chunk[chunk[DL_COLS["score"]] >= score_threshold]
         chunks.append(filtered)
@@ -93,6 +122,9 @@ def load_drug_mapping() -> pd.DataFrame:
     """Load drug mapping to local FDA products."""
     print("\nLoading drug mapping...")
     mapping = pd.read_csv(DRUG_MAPPING)
+    # Keep only successful mappings
+    if MAPPING_COLS["success"] in mapping.columns:
+        mapping = mapping[mapping[MAPPING_COLS["success"]] == True]
     print(f"  Mapped drugs: {len(mapping):,}")
     print(f"  Unique DrugBank IDs: {mapping[MAPPING_COLS['drugbank_id']].nunique():,}")
     return mapping
@@ -106,9 +138,22 @@ def integrate_predictions(
     """Integrate KG and DL predictions using vectorized operations."""
     print("\nIntegrating predictions...")
 
+    # Normalize KG column names to standard format
+    kg = kg.rename(columns={
+        KG_COLS["license_id"]: "license_id",
+        KG_COLS["brand_name"]: "brand_name",
+        KG_COLS["ingredient"]: "drug_ingredient",
+        KG_COLS["indication"]: "potential_indication",
+        KG_COLS["source"]: "source",
+    })
+
     # Create composite key for efficient joining
-    kg["_key"] = kg[KG_COLS["drugbank_id"]] + "|" + kg[KG_COLS["indication"]]
+    kg["_key"] = kg["drugbank_id"] + "|" + kg["potential_indication"]
     dl["_key"] = dl[DL_COLS["drugbank_id"]] + "|" + dl[DL_COLS["indication"]]
+
+    # Standard output columns
+    OUT_COLS = ["license_id", "brand_name", "drug_ingredient", "drugbank_id",
+                "potential_indication", "kg_prediction", "dl_prediction", "dl_score", "source"]
 
     # Get max DL score per (drug, indication) pair using groupby (vectorized)
     print("  Computing DL scores...")
@@ -134,30 +179,29 @@ def integrate_predictions(
     kg_unified["kg_prediction"] = True
     kg_unified["dl_prediction"] = kg_unified["dl_score"].notna()
 
-    # Rename columns to standard format
-    kg_unified = kg_unified.rename(columns={
-        KG_COLS["indication"]: "potential_indication",
-        KG_COLS["ingredient"]: "ingredient",
-    })
-
     # Process DL-only predictions (need to map to local products)
     print("  Processing DL-only predictions...")
     dl_only_keys = dl_scores[dl_scores["_key"].isin(dl_only)].copy()
 
     if len(dl_only_keys) > 0:
         # Extract drugbank_id and indication from key
-        dl_only_keys[[DL_COLS["drugbank_id"], "potential_indication"]] = \
+        dl_only_keys[["drugbank_id", "potential_indication"]] = \
             dl_only_keys["_key"].str.split("|", expand=True)
+
+        # Normalize mapping columns for merge
+        mapping_norm = mapping.rename(columns={
+            MAPPING_COLS["license_id"]: "license_id",
+            MAPPING_COLS["brand_name"]: "brand_name",
+            MAPPING_COLS["ingredient"]: "drug_ingredient",
+            MAPPING_COLS["drugbank_id"]: "drugbank_id",
+        })
 
         # Map to local products
         dl_mapped = dl_only_keys.merge(
-            mapping[[MAPPING_COLS["license_id"], MAPPING_COLS["brand_name"],
-                    MAPPING_COLS["ingredient"], MAPPING_COLS["drugbank_id"]]],
-            left_on=DL_COLS["drugbank_id"],
-            right_on=MAPPING_COLS["drugbank_id"],
+            mapping_norm[["license_id", "brand_name", "drug_ingredient", "drugbank_id"]],
+            on="drugbank_id",
             how="inner"
         )
-        dl_mapped = dl_mapped.rename(columns={MAPPING_COLS["ingredient"]: "ingredient"})
         dl_mapped["kg_prediction"] = False
         dl_mapped["dl_prediction"] = True
         dl_mapped["source"] = "TxGNN Deep Learning Model"
@@ -166,18 +210,16 @@ def integrate_predictions(
 
         # Combine
         unified = pd.concat([
-            kg_unified[["license_id", "brand_name", "ingredient", "drugbank_id",
-                       "potential_indication", "kg_prediction", "dl_prediction", "dl_score", "source"]],
-            dl_mapped[["license_id", "brand_name", "ingredient", "drugbank_id",
-                      "potential_indication", "kg_prediction", "dl_prediction", "dl_score", "source"]]
+            kg_unified[OUT_COLS],
+            dl_mapped[OUT_COLS]
         ], ignore_index=True)
     else:
-        unified = kg_unified[["license_id", "brand_name", "ingredient", "drugbank_id",
-                              "potential_indication", "kg_prediction", "dl_prediction", "dl_score", "source"]]
+        unified = kg_unified[OUT_COLS]
 
     # Add confidence level
     print("  Computing confidence levels...")
 
+    # Fill NaN in dl_score for comparison
     dl_score_filled = unified["dl_score"].fillna(0)
 
     conditions = [
@@ -227,6 +269,7 @@ def print_statistics(unified: pd.DataFrame):
     for conf, count in unified["confidence"].value_counts().sort_index().items():
         print(f"  {conf}: {count:,}")
 
+    # High confidence predictions
     high_conf = unified[unified["confidence"].isin(["very_high", "high"])]
     print(f"\nHigh/Very High confidence predictions: {len(high_conf):,}")
     print(f"  Drugs: {high_conf['drugbank_id'].nunique():,}")
@@ -239,6 +282,7 @@ def save_results(unified: pd.DataFrame):
     unified.to_csv(OUTPUT_FILE, index=False)
     print(f"  Saved {len(unified):,} predictions")
 
+    # Save statistics as JSON
     stats = {
         "total_predictions": len(unified),
         "unique_drugs": int(unified["drugbank_id"].nunique()),
@@ -269,17 +313,46 @@ def main():
     args = parser.parse_args()
 
     print("=" * 60)
-    print("EuTxGNN Prediction Integration")
+    print("TxGNN Prediction Integration")
     print("=" * 60)
 
+    # Auto-detect column names
+    detect_columns()
+
+    # Load data
     kg = load_kg_predictions()
     dl = load_dl_predictions(score_threshold=args.dl_threshold)
     mapping = load_drug_mapping()
 
-    unified = integrate_predictions(kg, dl, mapping)
+    # KG-only mode: assign all KG predictions as medium confidence
+    if dl is None:
+        print("\nKG-only integration mode...")
+        unified = kg.copy()
+        unified["kg_prediction"] = True
+        unified["dl_prediction"] = False
+        unified["dl_score"] = np.nan
+        unified["confidence"] = "medium"
+        unified["source"] = "KG"
+        # Rename to standard output columns
+        unified = unified.rename(columns={
+            KG_COLS["license_id"]: "license_id",
+            KG_COLS["brand_name"]: "brand_name",
+            KG_COLS["ingredient"]: "drug_ingredient",
+            KG_COLS["indication"]: "potential_indication",
+            KG_COLS["source"]: "_orig_source",
+        })
+        unified["source"] = "KG"
+        unified = unified[["license_id", "brand_name", "drug_ingredient", "drugbank_id",
+                           "potential_indication", "kg_prediction", "dl_prediction", "dl_score", "source", "confidence"]]
+        print(f"  KG-only predictions: {len(unified):,}")
+    else:
+        # Integrate
+        unified = integrate_predictions(kg, dl, mapping)
 
+    # Statistics
     print_statistics(unified)
 
+    # Save
     if not args.dry_run:
         save_results(unified)
     else:
