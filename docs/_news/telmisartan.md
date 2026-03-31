@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
 ### [Aliments ultratransformés : un détail sur l’emballage pourrait révéler le danger masqué - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3V5TU85WHFYMm04WkUtd19iZWtyMThwc3p6dW5DT25xRF9LWWRJYmgzZlZVMEFXS082YkczLUhNbEhJZktiMEFnLXBIcXEzTUtJekY5N09FXzlZUkVFR1dPRTNLZU9sNzhaajRSdDgtNjQyY0U3bkJFWWVjdXhTM1hkelNjcTZPdTdDTjY3aHJEcXhrSGNJN2x1anJodzhGc2pPOVVoeGN5TWNxcUw4U1Ryd1JtbndHX1NIbDV2NHBqOWx5WThUUFQ2dm9xTktORWdacm9GMFBVQkU?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/telmisartan/
 2026-03-30 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
-
----
-
-### [La apnea del sueño no tratada aumenta el riesgo de sufrir hipertensión - Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmw3dTZLZllQM1JFUG00ZUVzZzRBZkxDbHZvajNWZkJMaEpuR3phSVJ3cFdpaFRxMHVhV2tHc19TakVXVWpGNHN4eDRRZTVtV1pBWU5sak4tTXNLVHJkVHVPbUd0VF9xRmE2TTdTMmhBZ1M2bTNRUm9LQXpZUG9aR2ZSWlJDUTBmUmVOZWxuUG9RUGJZcUJWa0drVllTTndneGktTEczTXRSM3lsZXkwUlA1T25pNEpJbFcySDFmSTdSMEdwamVv0gHHAUFVX3lxTE5SQXZndGwzbll3TTc3QXNHTkhKa0s4OXE1aGltM1J3c1kyUGlDcXk1akRLbFZTTzZ3UjZBbFlieWszWDRnY2dkczFEdjAtd1cwUkp0UzF6eTlkYVRtcXF1YlpJb2JfTy1CWkEtQVpXVmU1b2JqUlVIVGZiNUdZTmdPdjZvcllmTlptc1c5ZV92Wl9VaW1oRUJpWWFxWlZkNnZLQ2lybEFrRUZnMnRzVGpvdzJqbGwzM0RZZEp1aUsyZlRJQjRSWmM?oc=5)
-
-2026-03-30 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmw3dTZLZllQM1JFUG00ZUVzZzRBZkxDbHZvajNWZkJMaEpuR3phSVJ3cFdpaFRxMHVhV2tHc19TakVXVWpGNHN4eDRRZTVtV1pBWU5sak4tTXNLVHJkVHVPbUd0VF9xRmE2TTdTMmhBZ1M2bTNRUm9LQXpZUG9aR2ZSWlJDUTBmUmVOZWxuUG9RUGJZcUJWa0drVllTTndneGktTEczTXRSM3lsZXkwUlA1T25pNEpJbFcySDFmSTdSMEdwamVv0gHHAUFVX3lxTE5SQXZndGwzbll3TTc3QXNHTkhKa0s4OXE1aGltM1J3c1kyUGlDcXk1akRLbFZTTzZ3UjZBbFlieWszWDRnY2dkczFEdjAtd1cwUkp0UzF6eTlkYVRtcXF1YlpJb2JfTy1CWkEtQVpXVmU1b2JqUlVIVGZiNUdZTmdPdjZvcllmTlptc1c5ZV92Wl9VaW1oRUJpWWFxWlZkNnZLQ2lybEFrRUZnMnRzVGpvdzJqbGwzM0RZZEp1aUsyZlRJQjRSWmM?oc=5)
 
 ---
 
@@ -94,7 +86,7 @@ permalink: /news/telmisartan/
 
 ### [Scientists Find Eating This Popular Food Increases Heart Disease Risk By 67%](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1xcWl5QmZCY0llQzRmYXoxTzFIVExKdG9hYWVzUzI5SDZFU1JrOTZFZVpaZ0d6OXd3X2Rvd0FVd2ZSaF8zTzNaMF9Qa3FpX3k3NHF0SC1YQ05zR0VHVzk2alo5cUVQRHRGZXFWdnd1UGpObjdaZHZGN1hPQXlqeDYzMGRnWDhIV0FOSE5IcTBMT3E0ZFRuYTZQYUd0TVljanNncG5Qd05mWE1PaVE?oc=5)
 
-2026-03-29 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-03-29 <span class="news-indication-tag">heart disease</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1xcWl5QmZCY0llQzRmYXoxTzFIVExKdG9hYWVzUzI5SDZFU1JrOTZFZVpaZ0d6OXd3X2Rvd0FVd2ZSaF8zTzNaMF9Qa3FpX3k3NHF0SC1YQ05zR0VHVzk2alo5cUVQRHRGZXFWdnd1UGpObjdaZHZGN1hPQXlqeDYzMGRnWDhIV0FOSE5IcTBMT3E0ZFRuYTZQYUd0TVljanNncG5Qd05mWE1PaVE?oc=5)
 
@@ -105,14 +97,6 @@ permalink: /news/telmisartan/
 2026-03-29 <span class="news-indication-tag">AVC</span>
 
 來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
-
----
-
-### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
-
-2026-03-29 <span class="news-indication-tag">ictus</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 ---
 

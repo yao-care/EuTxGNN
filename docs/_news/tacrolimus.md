@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [COVID-19-Impfung schützt offenbar vor infektionsgetriggerter Psoriasis - Ärzte Zeitung](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHpMVktUUWlEN2UzM1JDcnZuUHdrWlJGSzRxUVQ3LU91UE1MWGhubFNzN1l2WDBZT0VlRUd6SDRXQm1oWkVtNkNMYW5ydWs0SzRQYUVFRE9wb2sxNEczZVQwbDJubEJiRERXNThkYkhvbU1GYkUxOFFJX1U2ZDlVWU5mTUxJcUoySWNHVDlmeGViaHo2dWJDalpLVXNISnFlVGdJV0R2N3hWVVJSWFRNc01lYUdNOHVpUXc2Sg?oc=5)
+
+2026-03-31 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHpMVktUUWlEN2UzM1JDcnZuUHdrWlJGSzRxUVQ3LU91UE1MWGhubFNzN1l2WDBZT0VlRUd6SDRXQm1oWkVtNkNMYW5ydWs0SzRQYUVFRE9wb2sxNEczZVQwbDJubEJiRERXNThkYkhvbU1GYkUxOFFJX1U2ZDlVWU5mTUxJcUoySWNHVDlmeGViaHo2dWJDalpLVXNISnFlVGdJV0R2N3hWVVJSWFRNc01lYUdNOHVpUXc2Sg?oc=5)
+
+---
 
 ### [Descubren que un fármaco contra la leucemia logra frenar la inflamación por psoriasis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWxDTHNZWnQ0dzJEcjc5MjU3eGkzWW9iRFJCLXlobVpwRWY2dmNuWlhQZ3V2WXZxSDE1NU4ySmVteFZpc3NLTkkwbXZXNTZ1YTVtNWxteUh6RHkyNVItYkhIbXZrdkxFb29PaUc1c0xreVFSZFQ5T3pUQjFHZnlzNXozZVRZQ1Y3Y29YTkRBaEJBRDd0alFWZ0R4NzVwdnJCaUw3Wk9tWVV6VFU?oc=5)
 

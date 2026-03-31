@@ -14,7 +14,7 @@ permalink: /news/zonisamide/
 ---
 
 <p class="key-answer" data-question="Zonisamide 有什麼相關新聞？">
-<strong>Zonisamide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Zonisamide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/zonisamide/
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
-### [AIDS Healthcare Foundation: AHF Urges WTO Members: Don't Put Affordable Medicines at Risk](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbDR1azBiV3JWZG9wbUZCdjdOUDIxWWRMLTNEWGJlWnpxbXpPWGZMaU5vYXQzMFdOM3hyV2o5MHQxdVpyX0JKU0JURjh5X2tmaFpicFQzbW13Rjk4aklPX1M2bmQ1VnNrWTJwWlNna19vZVVIaHVTMFRHY2lkeHlCMEhoYzVQeExDTWdQX095QjhkZFFNZDFfeXV1QnNyUm14al9sVzlBWkFCWFNjZC1BekhKdEdWSFVNS3dsdmxEYkFjSS1VMnluUzdwemMtaE1yOUtjNUxZMHR5ZmpCT0k1TjZlaTFSZWVvcUFTRHdB?oc=5)
+### [Comer mal mata: cuatro millones de muertes al año por fallos cardíacos](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHQ4Y2EtdmdzbXhtTkl1VlFfeUk2ejNhbXR5bTFEOExCaUZMdlFpdV8yeFV3cmxSdGxzMGI2NHBnMDBNWnpRbkFhU1F5THZpSUp2ZWY1N3ljell3OFkyT1NCVnJ1WU5GUzBPajhlaF9QSndmLTFwd0l2Tmw0TmRnNVpMcEYxSTNQdlB6MTMtNGYxb2VCaE1vZm9vV0VqR18x0gGmAUFVX3lxTE9HNGdxLVFlV2k1Zjk0OXlYYS1YZXdhVDY4RmV5TWd3X0VVWFB3eE9RblVQRERpeldqOWo4ay1WZUI4R05LMEpLS0VxNzRvVzM3cUt0dExYTkVuWE5fS3M1R2RsMnpPYUxHTEY5eGZpRS1fMk5iSTdHTVdFVEV1amxTYWtBR2RUdnBOLW84Ri1ObXRvM0FJMUhwVGtmMDR1Skc0VGpHOXc?oc=5)
 
-2026-03-30 <span class="news-indication-tag">AF</span>
+2026-03-31 <span class="news-indication-tag">AF</span>
 
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbDR1azBiV3JWZG9wbUZCdjdOUDIxWWRMLTNEWGJlWnpxbXpPWGZMaU5vYXQzMFdOM3hyV2o5MHQxdVpyX0JKU0JURjh5X2tmaFpicFQzbW13Rjk4aklPX1M2bmQ1VnNrWTJwWlNna19vZVVIaHVTMFRHY2lkeHlCMEhoYzVQeExDTWdQX095QjhkZFFNZDFfeXV1QnNyUm14al9sVzlBWkFCWFNjZC1BekhKdEdWSFVNS3dsdmxEYkFjSS1VMnluUzdwemMtaE1yOUtjNUxZMHR5ZmpCT0k1TjZlaTFSZWVvcUFTRHdB?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHQ4Y2EtdmdzbXhtTkl1VlFfeUk2ejNhbXR5bTFEOExCaUZMdlFpdV8yeFV3cmxSdGxzMGI2NHBnMDBNWnpRbkFhU1F5THZpSUp2ZWY1N3ljell3OFkyT1NCVnJ1WU5GUzBPajhlaF9QSndmLTFwd0l2Tmw0TmRnNVpMcEYxSTNQdlB6MTMtNGYxb2VCaE1vZm9vV0VqR18x0gGmAUFVX3lxTE9HNGdxLVFlV2k1Zjk0OXlYYS1YZXdhVDY4RmV5TWd3X0VVWFB3eE9RblVQRERpeldqOWo4ay1WZUI4R05LMEpLS0VxNzRvVzM3cUt0dExYTkVuWE5fS3M1R2RsMnpPYUxHTEY5eGZpRS1fMk5iSTdHTVdFVEV1amxTYWtBR2RUdnBOLW84Ri1ObXRvM0FJMUhwVGtmMDR1Skc0VGpHOXc?oc=5)
 
 ---
 
@@ -60,11 +60,43 @@ permalink: /news/zonisamide/
 
 ---
 
-### [New hope for children with severe epilepsy after Manchester study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
+### [Biallelic variants in RNU2-2 cause the most prevalent known recessive neurodevelopmental disorder](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
 
 2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
+
+---
+
+### [Las nuevas directrices internacionales sobre sepsis ponen el foco de atención en las secuelas psíquicas de los afectados - IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0phSEhneTBFRU10OTdpcDNRYnVsd1F3MDNIeVBXejhrYnV6RnFHWjRQbkNOQk1NLUx2LTVBUVlreWVsS0x5dkx0Rmt5S1g2MExYeVQydExvMVRtaXE2enRoOWRVa0RXcnFKcWtSUHZ2Rk9xT0M2TUlJNktqaFBqdU9GSElmMjA1SkJRTmxQTzFfQldLcHdYUXBKWmtmeGo2dExOZlJGbkowc3Y2dFRnT3BtWFFKS2PSAbIBQVVfeXFMTVUwVHVYMDEwc0d5Qi14dEZMSUdzTkZnbjRlanZsaFVCV01WenY5NkJ2MWU4TGRvQ1RLZWdtcWJaUkxSdWw2dEppSmNHc0J2RU5XQmJibklORXc4LWU3RWMxRWh2LThmSEo1U3hhX0lLR0hVRWI3eTVrVkwxTUxCZGplY29jdXI5bS13b3hrMjFsRTZYU0VIUERQb281aC1lS3VsU2FSM29TRlZQbkM2dkFNQQ?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0phSEhneTBFRU10OTdpcDNRYnVsd1F3MDNIeVBXejhrYnV6RnFHWjRQbkNOQk1NLUx2LTVBUVlreWVsS0x5dkx0Rmt5S1g2MExYeVQydExvMVRtaXE2enRoOWRVa0RXcnFKcWtSUHZ2Rk9xT0M2TUlJNktqaFBqdU9GSElmMjA1SkJRTmxQTzFfQldLcHdYUXBKWmtmeGo2dExOZlJGbkowc3Y2dFRnT3BtWFFKS2PSAbIBQVVfeXFMTVUwVHVYMDEwc0d5Qi14dEZMSUdzTkZnbjRlanZsaFVCV01WenY5NkJ2MWU4TGRvQ1RLZWdtcWJaUkxSdWw2dEppSmNHc0J2RU5XQmJibklORXc4LWU3RWMxRWh2LThmSEo1U3hhX0lLR0hVRWI3eTVrVkwxTUxCZGplY29jdXI5bS13b3hrMjFsRTZYU0VIUERQb281aC1lS3VsU2FSM29TRlZQbkM2dkFNQQ?oc=5)
+
+---
+
+### [Meningitis nightclub reopens with kissing warning - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
+
+---
+
+### [Gli effetti psicologici dei farmaci dimagranti - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+2026-03-30 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+---
+
+### [Celebrata Giornata Mondiale dell’Endometriosi. Ginecologa lametina Ermio: “Compromette qualità della vita e possibilità riproduttive” - il Lametino.it](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdG1USnZMNTRTZl82b3BCS0UwUXluM24wQmVxZkh0UlpidWhCazRIVE1YbGJqMFJ4aFBaTTJNaExzbmVIbHFYd0pSbE9KUWtZX1ptdkJ6NUJ0c1BhX3V1X1ZDVmJhelREX3dQQzBjZzFLM2VYYmpLb2llejZrVzJwYV9Jb0xZWExrNjBwWTh6dkMxY0VJVHo2SDVYaWNYRVliV3E0YzMyWU4zOTE4VzlNQnNjWFlOc001Sno2b2dOUzRGMHZvSnA5VjZnY0J3VXBGQ2FKVDNEdF9ES2s5dWdLeXZOeFNqYnREZi12dFhwMUdpUGFWX0x0VHZodw?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[il Lametino.it](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdG1USnZMNTRTZl82b3BCS0UwUXluM24wQmVxZkh0UlpidWhCazRIVE1YbGJqMFJ4aFBaTTJNaExzbmVIbHFYd0pSbE9KUWtZX1ptdkJ6NUJ0c1BhX3V1X1ZDVmJhelREX3dQQzBjZzFLM2VYYmpLb2llejZrVzJwYV9Jb0xZWExrNjBwWTh6dkMxY0VJVHo2SDVYaWNYRVliV3E0YzMyWU4zOTE4VzlNQnNjWFlOc001Sno2b2dOUzRGMHZvSnA5VjZnY0J3VXBGQ2FKVDNEdF9ES2s5dWdLeXZOeFNqYnREZi12dFhwMUdpUGFWX0x0VHZodw?oc=5)
 
 ---
 
@@ -73,14 +105,6 @@ permalink: /news/zonisamide/
 2026-03-30 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMlZYYnJlbG9Ya1JEbTNnbFNpYnVhUHVYZFV6Z3kxTmU5cTVLOURWek5ZQ0IyWk5fZXBaVlNiV2l1alp3R0tZZUE0RGxfLUlGSzJHOFlTTjFZUU1K?oc=5)
-
----
-
-### [Nueva medicación puede mejorar la vida de niños con epilepsia resistente - Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUm1FV19nRmNwRTVOODhJRUdNaEhaRjN4UVEzSnRTMXBuNXpMZWNGLUtOQk1ieUZDazlQM2FyS0FJQklJSTF0MktBUnFFcmVXQnI0UGNsakIxdGlzLVZ2N3FfRlFsVUVRMEdnZFJqTWE5eEQ3dVhEOGZwT19mSGZxYy0xeEtoVmpudjYxMlJtRlg2UExQYUFWdUpWYXZHcGpfX2NWZEJDWVYwa2o1NUE1S2VCQ2hqQ1o3cWlJX2RVeUdjRW82SjJGSNIBzgFBVV95cUxNZm9LTER3UkhWajYwMUtwTHE1RzBYQlBfeXk5ck1Qb28zaWliX3hpRHo1ZGd4VmdYaFlJUE9xMC1xcGNEaVIycEk2YzFKWS02c0dRLUprZFAzcndwY0d2S0tsWF9OTFN6YlBsaEVXVnR2M2VfdE1lYzJ5bzVLN2doR3RObzg5SkpPVjQxR2plR3VoWVdpRE9SN1lNRFZvYUZ6TG9sZTVKQWFzN0dWZVBOekdYS3hacTVmT21fcTE3cTlJOGxTb2gzVnBOQTJ4dw?oc=5)
-
-2026-03-30 <span class="news-indication-tag">epilepsia</span>
-
-來源：[Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUm1FV19nRmNwRTVOODhJRUdNaEhaRjN4UVEzSnRTMXBuNXpMZWNGLUtOQk1ieUZDazlQM2FyS0FJQklJSTF0MktBUnFFcmVXQnI0UGNsakIxdGlzLVZ2N3FfRlFsVUVRMEdnZFJqTWE5eEQ3dVhEOGZwT19mSGZxYy0xeEtoVmpudjYxMlJtRlg2UExQYUFWdUpWYXZHcGpfX2NWZEJDWVYwa2o1NUE1S2VCQ2hqQ1o3cWlJX2RVeUdjRW82SjJGSNIBzgFBVV95cUxNZm9LTER3UkhWajYwMUtwTHE1RzBYQlBfeXk5ck1Qb28zaWliX3hpRHo1ZGd4VmdYaFlJUE9xMC1xcGNEaVIycEk2YzFKWS02c0dRLUprZFAzcndwY0d2S0tsWF9OTFN6YlBsaEVXVnR2M2VfdE1lYzJ5bzVLN2doR3RObzg5SkpPVjQxR2plR3VoWVdpRE9SN1lNRFZvYUZ6TG9sZTVKQWFzN0dWZVBOekdYS3hacTVmT21fcTE3cTlJOGxTb2gzVnBOQTJ4dw?oc=5)
 
 ---
 
@@ -108,14 +132,6 @@ permalink: /news/zonisamide/
 
 ---
 
-### [Nightclub at centre of Kent meningitis outbreak to reopen - Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUU0dHM4TGYyVWRxM1M5dGJqVS0zVlN0VmhLcFJ0R3NCbWE5WWxwNVp6WnRYSW5lU2w5aFdWR0hHQlYtc3ItQWkxMkY2OFZjNHk4SFVnVGk0VDg1eVBXUHFtX0xGRnd3UHhlM2NtSnJ4YUhjWDAwSm5zV01RY0tuR2NyRkZHWEpaN296LTBsV0ZaT2tzWmp5REdENTk1aVptRlhBUVNGQTFBTTRxbkVj?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUU0dHM4TGYyVWRxM1M5dGJqVS0zVlN0VmhLcFJ0R3NCbWE5WWxwNVp6WnRYSW5lU2w5aFdWR0hHQlYtc3ItQWkxMkY2OFZjNHk4SFVnVGk0VDg1eVBXUHFtX0xGRnd3UHhlM2NtSnJ4YUhjWDAwSm5zV01RY0tuR2NyRkZHWEpaN296LTBsV0ZaT2tzWmp5REdENTk1aVptRlhBUVNGQTFBTTRxbkVj?oc=5)
-
----
-
 ### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
 
 2026-03-30 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
@@ -134,7 +150,7 @@ permalink: /news/zonisamide/
 
 ### [Scientists Find Eating This Popular Food Increases Heart Disease Risk By 67%](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1xcWl5QmZCY0llQzRmYXoxTzFIVExKdG9hYWVzUzI5SDZFU1JrOTZFZVpaZ0d6OXd3X2Rvd0FVd2ZSaF8zTzNaMF9Qa3FpX3k3NHF0SC1YQ05zR0VHVzk2alo5cUVQRHRGZXFWdnd1UGpObjdaZHZGN1hPQXlqeDYzMGRnWDhIV0FOSE5IcTBMT3E0ZFRuYTZQYUd0TVljanNncG5Qd05mWE1PaVE?oc=5)
 
-2026-03-29 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-03-29 <span class="news-indication-tag">heart disease</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1xcWl5QmZCY0llQzRmYXoxTzFIVExKdG9hYWVzUzI5SDZFU1JrOTZFZVpaZ0d6OXd3X2Rvd0FVd2ZSaF8zTzNaMF9Qa3FpX3k3NHF0SC1YQ05zR0VHVzk2alo5cUVQRHRGZXFWdnd1UGpObjdaZHZGN1hPQXlqeDYzMGRnWDhIV0FOSE5IcTBMT3E0ZFRuYTZQYUd0TVljanNncG5Qd05mWE1PaVE?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（17 則）
 
-### [AIDS Healthcare Foundation: AHF Urges WTO Members: Don't Put Affordable Medicines at Risk](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbDR1azBiV3JWZG9wbUZCdjdOUDIxWWRMLTNEWGJlWnpxbXpPWGZMaU5vYXQzMFdOM3hyV2o5MHQxdVpyX0JKU0JURjh5X2tmaFpicFQzbW13Rjk4aklPX1M2bmQ1VnNrWTJwWlNna19vZVVIaHVTMFRHY2lkeHlCMEhoYzVQeExDTWdQX095QjhkZFFNZDFfeXV1QnNyUm14al9sVzlBWkFCWFNjZC1BekhKdEdWSFVNS3dsdmxEYkFjSS1VMnluUzdwemMtaE1yOUtjNUxZMHR5ZmpCT0k1TjZlaTFSZWVvcUFTRHdB?oc=5)
+### [Comer mal mata: cuatro millones de muertes al año por fallos cardíacos](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHQ4Y2EtdmdzbXhtTkl1VlFfeUk2ejNhbXR5bTFEOExCaUZMdlFpdV8yeFV3cmxSdGxzMGI2NHBnMDBNWnpRbkFhU1F5THZpSUp2ZWY1N3ljell3OFkyT1NCVnJ1WU5GUzBPajhlaF9QSndmLTFwd0l2Tmw0TmRnNVpMcEYxSTNQdlB6MTMtNGYxb2VCaE1vZm9vV0VqR18x0gGmAUFVX3lxTE9HNGdxLVFlV2k1Zjk0OXlYYS1YZXdhVDY4RmV5TWd3X0VVWFB3eE9RblVQRERpeldqOWo4ay1WZUI4R05LMEpLS0VxNzRvVzM3cUt0dExYTkVuWE5fS3M1R2RsMnpPYUxHTEY5eGZpRS1fMk5iSTdHTVdFVEV1amxTYWtBR2RUdnBOLW84Ri1ObXRvM0FJMUhwVGtmMDR1Skc0VGpHOXc?oc=5)
 
-2026-03-30 <span class="news-indication-tag">AF</span>
+2026-03-31 <span class="news-indication-tag">AF</span>
 
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbDR1azBiV3JWZG9wbUZCdjdOUDIxWWRMLTNEWGJlWnpxbXpPWGZMaU5vYXQzMFdOM3hyV2o5MHQxdVpyX0JKU0JURjh5X2tmaFpicFQzbW13Rjk4aklPX1M2bmQ1VnNrWTJwWlNna19vZVVIaHVTMFRHY2lkeHlCMEhoYzVQeExDTWdQX095QjhkZFFNZDFfeXV1QnNyUm14al9sVzlBWkFCWFNjZC1BekhKdEdWSFVNS3dsdmxEYkFjSS1VMnluUzdwemMtaE1yOUtjNUxZMHR5ZmpCT0k1TjZlaTFSZWVvcUFTRHdB?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHQ4Y2EtdmdzbXhtTkl1VlFfeUk2ejNhbXR5bTFEOExCaUZMdlFpdV8yeFV3cmxSdGxzMGI2NHBnMDBNWnpRbkFhU1F5THZpSUp2ZWY1N3ljell3OFkyT1NCVnJ1WU5GUzBPajhlaF9QSndmLTFwd0l2Tmw0TmRnNVpMcEYxSTNQdlB6MTMtNGYxb2VCaE1vZm9vV0VqR18x0gGmAUFVX3lxTE9HNGdxLVFlV2k1Zjk0OXlYYS1YZXdhVDY4RmV5TWd3X0VVWFB3eE9RblVQRERpeldqOWo4ay1WZUI4R05LMEpLS0VxNzRvVzM3cUt0dExYTkVuWE5fS3M1R2RsMnpPYUxHTEY5eGZpRS1fMk5iSTdHTVdFVEV1amxTYWtBR2RUdnBOLW84Ri1ObXRvM0FJMUhwVGtmMDR1Skc0VGpHOXc?oc=5)
 
 ---
 
@@ -60,11 +60,27 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [New hope for children with severe epilepsy after Manchester study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
+### [Biallelic variants in RNU2-2 cause the most prevalent known recessive neurodevelopmental disorder](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
 
 2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
+
+---
+
+### [Las nuevas directrices internacionales sobre sepsis ponen el foco de atención en las secuelas psíquicas de los afectados - IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0phSEhneTBFRU10OTdpcDNRYnVsd1F3MDNIeVBXejhrYnV6RnFHWjRQbkNOQk1NLUx2LTVBUVlreWVsS0x5dkx0Rmt5S1g2MExYeVQydExvMVRtaXE2enRoOWRVa0RXcnFKcWtSUHZ2Rk9xT0M2TUlJNktqaFBqdU9GSElmMjA1SkJRTmxQTzFfQldLcHdYUXBKWmtmeGo2dExOZlJGbkowc3Y2dFRnT3BtWFFKS2PSAbIBQVVfeXFMTVUwVHVYMDEwc0d5Qi14dEZMSUdzTkZnbjRlanZsaFVCV01WenY5NkJ2MWU4TGRvQ1RLZWdtcWJaUkxSdWw2dEppSmNHc0J2RU5XQmJibklORXc4LWU3RWMxRWh2LThmSEo1U3hhX0lLR0hVRWI3eTVrVkwxTUxCZGplY29jdXI5bS13b3hrMjFsRTZYU0VIUERQb281aC1lS3VsU2FSM29TRlZQbkM2dkFNQQ?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0phSEhneTBFRU10OTdpcDNRYnVsd1F3MDNIeVBXejhrYnV6RnFHWjRQbkNOQk1NLUx2LTVBUVlreWVsS0x5dkx0Rmt5S1g2MExYeVQydExvMVRtaXE2enRoOWRVa0RXcnFKcWtSUHZ2Rk9xT0M2TUlJNktqaFBqdU9GSElmMjA1SkJRTmxQTzFfQldLcHdYUXBKWmtmeGo2dExOZlJGbkowc3Y2dFRnT3BtWFFKS2PSAbIBQVVfeXFMTVUwVHVYMDEwc0d5Qi14dEZMSUdzTkZnbjRlanZsaFVCV01WenY5NkJ2MWU4TGRvQ1RLZWdtcWJaUkxSdWw2dEppSmNHc0J2RU5XQmJibklORXc4LWU3RWMxRWh2LThmSEo1U3hhX0lLR0hVRWI3eTVrVkwxTUxCZGplY29jdXI5bS13b3hrMjFsRTZYU0VIUERQb281aC1lS3VsU2FSM29TRlZQbkM2dkFNQQ?oc=5)
+
+---
+
+### [Meningitis nightclub reopens with kissing warning - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
 
 ---
 
@@ -73,6 +89,22 @@ permalink: /news/vernakalant-hydrochloride/
 2026-03-30 <span class="news-indication-tag">AVC</span>
 
 來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3V5TU85WHFYMm04WkUtd19iZWtyMThwc3p6dW5DT25xRF9LWWRJYmgzZlZVMEFXS082YkczLUhNbEhJZktiMEFnLXBIcXEzTUtJekY5N09FXzlZUkVFR1dPRTNLZU9sNzhaajRSdDgtNjQyY0U3bkJFWWVjdXhTM1hkelNjcTZPdTdDTjY3aHJEcXhrSGNJN2x1anJodzhGc2pPOVVoeGN5TWNxcUw4U1Ryd1JtbndHX1NIbDV2NHBqOWx5WThUUFQ2dm9xTktORWdacm9GMFBVQkU?oc=5)
+
+---
+
+### [Gli effetti psicologici dei farmaci dimagranti - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+2026-03-30 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+---
+
+### [Celebrata Giornata Mondiale dell’Endometriosi. Ginecologa lametina Ermio: “Compromette qualità della vita e possibilità riproduttive” - il Lametino.it](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdG1USnZMNTRTZl82b3BCS0UwUXluM24wQmVxZkh0UlpidWhCazRIVE1YbGJqMFJ4aFBaTTJNaExzbmVIbHFYd0pSbE9KUWtZX1ptdkJ6NUJ0c1BhX3V1X1ZDVmJhelREX3dQQzBjZzFLM2VYYmpLb2llejZrVzJwYV9Jb0xZWExrNjBwWTh6dkMxY0VJVHo2SDVYaWNYRVliV3E0YzMyWU4zOTE4VzlNQnNjWFlOc001Sno2b2dOUzRGMHZvSnA5VjZnY0J3VXBGQ2FKVDNEdF9ES2s5dWdLeXZOeFNqYnREZi12dFhwMUdpUGFWX0x0VHZodw?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[il Lametino.it](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdG1USnZMNTRTZl82b3BCS0UwUXluM24wQmVxZkh0UlpidWhCazRIVE1YbGJqMFJ4aFBaTTJNaExzbmVIbHFYd0pSbE9KUWtZX1ptdkJ6NUJ0c1BhX3V1X1ZDVmJhelREX3dQQzBjZzFLM2VYYmpLb2llejZrVzJwYV9Jb0xZWExrNjBwWTh6dkMxY0VJVHo2SDVYaWNYRVliV3E0YzMyWU4zOTE4VzlNQnNjWFlOc001Sno2b2dOUzRGMHZvSnA5VjZnY0J3VXBGQ2FKVDNEdF9ES2s5dWdLeXZOeFNqYnREZi12dFhwMUdpUGFWX0x0VHZodw?oc=5)
 
 ---
 
@@ -116,14 +148,6 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Nightclub at centre of Kent meningitis outbreak to reopen - Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUU0dHM4TGYyVWRxM1M5dGJqVS0zVlN0VmhLcFJ0R3NCbWE5WWxwNVp6WnRYSW5lU2w5aFdWR0hHQlYtc3ItQWkxMkY2OFZjNHk4SFVnVGk0VDg1eVBXUHFtX0xGRnd3UHhlM2NtSnJ4YUhjWDAwSm5zV01RY0tuR2NyRkZHWEpaN296LTBsV0ZaT2tzWmp5REdENTk1aVptRlhBUVNGQTFBTTRxbkVj?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUU0dHM4TGYyVWRxM1M5dGJqVS0zVlN0VmhLcFJ0R3NCbWE5WWxwNVp6WnRYSW5lU2w5aFdWR0hHQlYtc3ItQWkxMkY2OFZjNHk4SFVnVGk0VDg1eVBXUHFtX0xGRnd3UHhlM2NtSnJ4YUhjWDAwSm5zV01RY0tuR2NyRkZHWEpaN296LTBsV0ZaT2tzWmp5REdENTk1aVptRlhBUVNGQTFBTTRxbkVj?oc=5)
-
----
-
 ### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
 
 2026-03-30 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
@@ -153,14 +177,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-03-29 <span class="news-indication-tag">AVC</span>
 
 來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
-
----
-
-### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
-
-2026-03-29 <span class="news-indication-tag">ictus</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 ---
 

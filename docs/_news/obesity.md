@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Gli effetti psicologici dei farmaci dimagranti - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+2026-03-30
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+---
 
 ### [« J’ai déjà perdu 10 cm de tour de taille » : à l’hôpital du Puy, le programme contre l’obésité a du succès - Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQldBSDBsTTFQZmZWME5vWHVJX0t2T2cxTGhYVU92ZGIwQjB6eFowSUNKMmVVajFyY3EwNUZjU2JQZlB0TGVDRy11VVdoeks5M3kwcjZXeFpJQXNEMXlUd2IydGVGRnJ1a0p6a01samJ3ZzBFazk2SEtRS2YxOGo0eThKa2h1OUhpbjhCNkJ4UjNNTWx2OGZFMDBEc24zWGk1V19vYmxhaGRiLTB2Nk9sZGJWV0s3WjBD?oc=5)
 

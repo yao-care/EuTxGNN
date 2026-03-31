@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epilepsia（epilepsy） 相關新聞"
+title: "epilepsy 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epilepsia（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
+description: "epilepsy 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
-# epilepsia（epilepsy） 相關新聞
+# epilepsy 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epilepsia（epilepsy） 有什麼相關新聞？">
-<strong>epilepsia（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
+<p class="key-answer" data-question="epilepsy 有什麼相關新聞？">
+<strong>epilepsy</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epilepsia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「epilepsy」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,21 +38,13 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [New hope for children with severe epilepsy after Manchester study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
-
-2026-03-30
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
-
----
-
-### [Nueva medicación puede mejorar la vida de niños con epilepsia resistente - Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUm1FV19nRmNwRTVOODhJRUdNaEhaRjN4UVEzSnRTMXBuNXpMZWNGLUtOQk1ieUZDazlQM2FyS0FJQklJSTF0MktBUnFFcmVXQnI0UGNsakIxdGlzLVZ2N3FfRlFsVUVRMEdnZFJqTWE5eEQ3dVhEOGZwT19mSGZxYy0xeEtoVmpudjYxMlJtRlg2UExQYUFWdUpWYXZHcGpfX2NWZEJDWVYwa2o1NUE1S2VCQ2hqQ1o3cWlJX2RVeUdjRW82SjJGSNIBzgFBVV95cUxNZm9LTER3UkhWajYwMUtwTHE1RzBYQlBfeXk5ck1Qb28zaWliX3hpRHo1ZGd4VmdYaFlJUE9xMC1xcGNEaVIycEk2YzFKWS02c0dRLUprZFAzcndwY0d2S0tsWF9OTFN6YlBsaEVXVnR2M2VfdE1lYzJ5bzVLN2doR3RObzg5SkpPVjQxR2plR3VoWVdpRE9SN1lNRFZvYUZ6TG9sZTVKQWFzN0dWZVBOekdYS3hacTVmT21fcTE3cTlJOGxTb2gzVnBOQTJ4dw?oc=5)
+### [Biallelic variants in RNU2-2 cause the most prevalent known recessive neurodevelopmental disorder](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
 
 2026-03-30
 
-來源：[Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUm1FV19nRmNwRTVOODhJRUdNaEhaRjN4UVEzSnRTMXBuNXpMZWNGLUtOQk1ieUZDazlQM2FyS0FJQklJSTF0MktBUnFFcmVXQnI0UGNsakIxdGlzLVZ2N3FfRlFsVUVRMEdnZFJqTWE5eEQ3dVhEOGZwT19mSGZxYy0xeEtoVmpudjYxMlJtRlg2UExQYUFWdUpWYXZHcGpfX2NWZEJDWVYwa2o1NUE1S2VCQ2hqQ1o3cWlJX2RVeUdjRW82SjJGSNIBzgFBVV95cUxNZm9LTER3UkhWajYwMUtwTHE1RzBYQlBfeXk5ck1Qb28zaWliX3hpRHo1ZGd4VmdYaFlJUE9xMC1xcGNEaVIycEk2YzFKWS02c0dRLUprZFAzcndwY0d2S0tsWF9OTFN6YlBsaEVXVnR2M2VfdE1lYzJ5bzVLN2doR3RObzg5SkpPVjQxR2plR3VoWVdpRE9SN1lNRFZvYUZ6TG9sZTVKQWFzN0dWZVBOekdYS3hacTVmT21fcTE3cTlJOGxTb2gzVnBOQTJ4dw?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dolutegravir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dolutegravir/
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Descubren un candidato farmacológico clave contra la hepatitis E](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
 
 2026-03-30 <span class="news-indication-tag">hepatitis</span>
 
 來源：[democrata.es](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
-
----
-
-### [Hepatitis delta: entre el 30-50% de pacientes presenta cirrosis en el momento del diagnóstico - Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
-
-2026-03-30 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
 
 ---
 

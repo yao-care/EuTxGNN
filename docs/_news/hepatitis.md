@@ -3,7 +3,7 @@ layout: default
 title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
+<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Descubren un candidato farmacológico clave contra la hepatitis E](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
 
 2026-03-30
 
 來源：[democrata.es](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
-
----
-
-### [Hepatitis delta: entre el 30-50% de pacientes presenta cirrosis en el momento del diagnóstico - Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
-
-2026-03-30
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
 
 ---
 

@@ -54,7 +54,7 @@ permalink: /news/dalbavancin-hydrochloride/
 
 ### [Scientists Find Eating This Popular Food Increases Heart Disease Risk By 67%](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1xcWl5QmZCY0llQzRmYXoxTzFIVExKdG9hYWVzUzI5SDZFU1JrOTZFZVpaZ0d6OXd3X2Rvd0FVd2ZSaF8zTzNaMF9Qa3FpX3k3NHF0SC1YQ05zR0VHVzk2alo5cUVQRHRGZXFWdnd1UGpObjdaZHZGN1hPQXlqeDYzMGRnWDhIV0FOSE5IcTBMT3E0ZFRuYTZQYUd0TVljanNncG5Qd05mWE1PaVE?oc=5)
 
-2026-03-29 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-03-29 <span class="news-indication-tag">heart disease</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1xcWl5QmZCY0llQzRmYXoxTzFIVExKdG9hYWVzUzI5SDZFU1JrOTZFZVpaZ0d6OXd3X2Rvd0FVd2ZSaF8zTzNaMF9Qa3FpX3k3NHF0SC1YQ05zR0VHVzk2alo5cUVQRHRGZXFWdnd1UGpObjdaZHZGN1hPQXlqeDYzMGRnWDhIV0FOSE5IcTBMT3E0ZFRuYTZQYUd0TVljanNncG5Qd05mWE1PaVE?oc=5)
 

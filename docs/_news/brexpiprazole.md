@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Dépression cachée : ces 4 signes du quotidien ne ressemblent pas à une dépression mais doivent vous alerter - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNl9BdGZ3TDJoTzVyYWhDTDhYYUJKYzAxMjJSb1Bod1YybEZONHpXVl9wb2hGMVA4dm1uQmFtbC1vRzd1TVpjNXJ5eEhuTVhtdFlaU0NDa25MZlJwRVdEOHM1RUE0V1BGNzhBVTZSc0QzWWVtb0Y5WTR6dzJCWXgzQTB6bFdXM3ROQmpUbklHOWJidjJqb3ZycmdpYXh5dWUzRGVCUk13Zk83TWZsUUV5T0VNSUZIUXo3THJON2dpUWpqLXN1UHpJaVZSalRyUHpCbDk4eEpyMkhlR2dIS29UdWdiZkFtMGc3YTFR?oc=5)
+
+2026-03-31 <span class="news-indication-tag">dépression</span>
+
+來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNl9BdGZ3TDJoTzVyYWhDTDhYYUJKYzAxMjJSb1Bod1YybEZONHpXVl9wb2hGMVA4dm1uQmFtbC1vRzd1TVpjNXJ5eEhuTVhtdFlaU0NDa25MZlJwRVdEOHM1RUE0V1BGNzhBVTZSc0QzWWVtb0Y5WTR6dzJCWXgzQTB6bFdXM3ROQmpUbklHOWJidjJqb3ZycmdpYXh5dWUzRGVCUk13Zk83TWZsUUV5T0VNSUZIUXo3THJON2dpUWpqLXN1UHpJaVZSalRyUHpCbDk4eEpyMkhlR2dIS29UdWdiZkFtMGc3YTFR?oc=5)
+
+---
 
 
 <div class="disclaimer">

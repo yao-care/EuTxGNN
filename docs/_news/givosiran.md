@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Descubren un candidato farmacológico clave contra la hepatitis E](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
 
 2026-03-30 <span class="news-indication-tag">hepatitis</span>
 
 來源：[democrata.es](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSTRwcWNGd25zSUZwQnJWMU5xem1jVUYxMnM2SnZVRjliM2JpaEttUzZFTktPTWJfdVFBNDBHTVpWR1BjRmlSNGJEN0djczY0NjJhV0lFMTVHclJzS3lWcEhCOG1Ec05wMXNpalVxNVFEaTM1QjZJQjJCTUxzaUFvM1dSNHVLMUpLRDYzbE1jQlR3eHl6MEMxZjdFNnkybW8?oc=5)
-
----
-
-### [Hepatitis delta: entre el 30-50% de pacientes presenta cirrosis en el momento del diagnóstico - Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
-
-2026-03-30 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVloydVlwYm85TWlkdzFJZWxIb2VyOVNwMXlkejFLR0RvRTA1cEdKUTBmLTZ6NHJvSmQwMlpyMzdMdEdoWUZVeGxvTW43dHpfd3FpYlpJVm9PdDdxeXZDS01wbDU2MGd3NmVtUElOaDRad2RfbG1lbl9xeVRNdGpjWVpoZ0UtamU1eDFR?oc=5)
 
 ---
 
@@ -73,14 +65,6 @@ permalink: /news/givosiran/
 2026-03-30 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Post](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMDdsQW1fc0psSnZUQlg4SzBqQ0tHRGxkQnNYRThfbjI3OWZUQnpXOWpiT0Z5UWtNUUFibEJIaEZmS1pjamU5eXNBeTZTeUpzZkFCSFNES204UGRiU19oNU9rVmtKOXVhczJjZWhSbw?oc=5)
-
----
-
-### [La apnea del sueño no tratada aumenta el riesgo de sufrir hipertensión - Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmw3dTZLZllQM1JFUG00ZUVzZzRBZkxDbHZvajNWZkJMaEpuR3phSVJ3cFdpaFRxMHVhV2tHc19TakVXVWpGNHN4eDRRZTVtV1pBWU5sak4tTXNLVHJkVHVPbUd0VF9xRmE2TTdTMmhBZ1M2bTNRUm9LQXpZUG9aR2ZSWlJDUTBmUmVOZWxuUG9RUGJZcUJWa0drVllTTndneGktTEczTXRSM3lsZXkwUlA1T25pNEpJbFcySDFmSTdSMEdwamVv0gHHAUFVX3lxTE5SQXZndGwzbll3TTc3QXNHTkhKa0s4OXE1aGltM1J3c1kyUGlDcXk1akRLbFZTTzZ3UjZBbFlieWszWDRnY2dkczFEdjAtd1cwUkp0UzF6eTlkYVRtcXF1YlpJb2JfTy1CWkEtQVpXVmU1b2JqUlVIVGZiNUdZTmdPdjZvcllmTlptc1c5ZV92Wl9VaW1oRUJpWWFxWlZkNnZLQ2lybEFrRUZnMnRzVGpvdzJqbGwzM0RZZEp1aUsyZlRJQjRSWmM?oc=5)
-
-2026-03-30 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmw3dTZLZllQM1JFUG00ZUVzZzRBZkxDbHZvajNWZkJMaEpuR3phSVJ3cFdpaFRxMHVhV2tHc19TakVXVWpGNHN4eDRRZTVtV1pBWU5sak4tTXNLVHJkVHVPbUd0VF9xRmE2TTdTMmhBZ1M2bTNRUm9LQXpZUG9aR2ZSWlJDUTBmUmVOZWxuUG9RUGJZcUJWa0drVllTTndneGktTEczTXRSM3lsZXkwUlA1T25pNEpJbFcySDFmSTdSMEdwamVv0gHHAUFVX3lxTE5SQXZndGwzbll3TTc3QXNHTkhKa0s4OXE1aGltM1J3c1kyUGlDcXk1akRLbFZTTzZ3UjZBbFlieWszWDRnY2dkczFEdjAtd1cwUkp0UzF6eTlkYVRtcXF1YlpJb2JfTy1CWkEtQVpXVmU1b2JqUlVIVGZiNUdZTmdPdjZvcllmTlptc1c5ZV92Wl9VaW1oRUJpWWFxWlZkNnZLQ2lybEFrRUZnMnRzVGpvdzJqbGwzM0RZZEp1aUsyZlRJQjRSWmM?oc=5)
 
 ---
 

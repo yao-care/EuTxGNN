@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="Hydrochlorothiazide 有什麼相關新聞？">
-<strong>Hydrochlorothiazide</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydrochlorothiazide</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,37 @@ permalink: /news/hydrochlorothiazide/
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（27 則）
 
-### [Vapear sí podría causar cáncer, concluye la revisión más completa hasta la fecha](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUZwd0pJa29vRElGNU8wMW9GaDB0YUxleFlmSGY2MjJPM1ZUby1EOE00MHlqd3o4akdXd3VBT1lsaFE2aXllN08zaW9RRFhibDNUR2cwQnNPWmJqYjJGQjNrbHRqR1N3QVNzcDllVUpnaTV1MmUzVnB0UXlWSVo4a3F1RUxYU2xlX1FVZDZUZzdDU0tucGJWczFaczNIRWR6aENibU1sY25oclJXcUg0?oc=5)
+### [Studie: E-Zigaretten helfen Rauchern eher beim Aufhören](https://news.google.com/rss/articles/CBMixgFBVV95cUxPODFiZzQyS1diWFJWS2QtdWlEMHNWc2hCTWNVQ2F2Y2tzV281Sjh2TXFib1ZWQXVuWmtVYldlWmhFbU9WT2JMdnBfS1k4dWhEbTQ0RFRhc21XTDhDdjhxeGViVDV0WTJNSFNzZDhxOXpYQ1RxdnhvelpCU29ESl9yb3l0MXN1ZlZWVTBmOFBFN3NOU2x0QUM0Ti1Dck4tcGJXeDNGejRoWG5xRHRBcGwxQnFldFRHMWtXQ3ZWMWQ0Z2xuV1g5a3c?oc=5)
 
-2026-03-30 <span class="news-indication-tag">cancer</span>
+2026-03-31 <span class="news-indication-tag">Krebs</span>
 
-來源：[WIRED](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUZwd0pJa29vRElGNU8wMW9GaDB0YUxleFlmSGY2MjJPM1ZUby1EOE00MHlqd3o4akdXd3VBT1lsaFE2aXllN08zaW9RRFhibDNUR2cwQnNPWmJqYjJGQjNrbHRqR1N3QVNzcDllVUpnaTV1MmUzVnB0UXlWSVo4a3F1RUxYU2xlX1FVZDZUZzdDU0tucGJWczFaczNIRWR6aENibU1sY25oclJXcUg0?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPODFiZzQyS1diWFJWS2QtdWlEMHNWc2hCTWNVQ2F2Y2tzV281Sjh2TXFib1ZWQXVuWmtVYldlWmhFbU9WT2JMdnBfS1k4dWhEbTQ0RFRhc21XTDhDdjhxeGViVDV0WTJNSFNzZDhxOXpYQ1RxdnhvelpCU29ESl9yb3l0MXN1ZlZWVTBmOFBFN3NOU2x0QUM0Ti1Dck4tcGJXeDNGejRoWG5xRHRBcGwxQnFldFRHMWtXQ3ZWMWQ0Z2xuV1g5a3c?oc=5)
 
 ---
 
-### [Sanidad anima a participar en el programa de cribado de cáncer de colon por su Día Mundial - Radio Televisión Ceuta](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVFZb2JFVV9hdWdQMnNvUWs2SUljZEpwWjhyUldSZDhSQW1GaEdfWjVBRkktcnAxUXZ6ZkI1X3c2M3Q4cFY5YmxPUHRpTU1ZRnFjaEhPSEY0Z1lXaml1WlVwdW0yVFZzSGYtcWx3TFBQd1Qyb1ZleGxoQlpEOGVxOWM2OUprQnZpRTFfNE1IVDN4RHRrV0JMMkhMdHNjdGdOc28xbWNYWWVxMm1JRGlmcjhBNlhYVHJ1ZXdlMkdlSFd6RmkydENUXy1tS0RORmtneDcw0gHYAUFVX3lxTE9jUHFHNUF6X09iLXRCQkJzQndLZWZpM0F3V2llanBTUmRsZXZpY3dZcVN2SzNhQUltQUJIbWZEcGZfa05wMDRaS3UxU3lTWVo3eXpVRFZ5bktzRnZCa1M5NHY0N0JzcmRzVlREcmxYc00wclNTU3Z4eVpfQXZYLUVrUV8xYmxycWJmbnN6aGRaZTBqamVScmZqdkl0M2ZCWTNwT3Ezbm5xVWpKZFJXVUsycC0xYzU3OVdkSzRSZDFobDhxSGVWZ19hOGY1bDlQOW5ES0dBTmxTUg?oc=5)
+### [Cáncer de colon: el tumor más frecuente en 2026, pero con un 90% de supervivencia detectado a tiempo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVGJLREp6MHF3cWtyVjloRlJyd3RXckpRUHBrd1lNN2tCVHNlQm9GWmVCeVJQeFljM2NEVkw4dVdPM2pfeExDQW1HUERqMHdSeE5Cb0FIOXdHM0pvOUp4el96T0trNzcwamlzT3VxcTMyZU8xQlpXSTliX2lHR3Y0UDlwMWVId1MzWk5BaVU5MjBBdDg1WDZIZ0trcFZEejJQazM0STBuQ1FOLUMtc2d0UGhvMnF2TFFtaUZQcXNZZW5wWVl4U0tmVW1kM3lWT3FYZU5WS21Kdw?oc=5)
+
+2026-03-31 <span class="news-indication-tag">cancer</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVGJLREp6MHF3cWtyVjloRlJyd3RXckpRUHBrd1lNN2tCVHNlQm9GWmVCeVJQeFljM2NEVkw4dVdPM2pfeExDQW1HUERqMHdSeE5Cb0FIOXdHM0pvOUp4el96T0trNzcwamlzT3VxcTMyZU8xQlpXSTliX2lHR3Y0UDlwMWVId1MzWk5BaVU5MjBBdDg1WDZIZ0trcFZEejJQazM0STBuQ1FOLUMtc2d0UGhvMnF2TFFtaUZQcXNZZW5wWVl4U0tmVW1kM3lWT3FYZU5WS21Kdw?oc=5)
+
+---
+
+### [Deadly bowel cancer cases MISSED as a third of Brits ignore vital checks – are you at risk? - The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWdkckRRNUpib3dnajBZVGJQYVYwOU5seVg3V0QyUmdTay03UmtiNjk1akpkdTJoT0p4OXlJTDBRellnQ2J4OHlTTGdodHo0OFF6YnBqMTZELXBDR1dQZFhENEZSN21sY0MxNmFtZENaMmtWVTFrM2dRRUQyVHFKQ0pLZFpvSU9JOHE0b293Qm9PMFdVRkNRa2pfTEp0UV9UOFE?oc=5)
+
+2026-03-30 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWdkckRRNUpib3dnajBZVGJQYVYwOU5seVg3V0QyUmdTay03UmtiNjk1akpkdTJoT0p4OXlJTDBRellnQ2J4OHlTTGdodHo0OFF6YnBqMTZELXBDR1dQZFhENEZSN21sY0MxNmFtZENaMmtWVTFrM2dRRUQyVHFKQ0pLZFpvSU9JOHE0b293Qm9PMFdVRkNRa2pfTEp0UV9UOFE?oc=5)
+
+---
+
+### [Inaugurata al Cro di Aviano la tomoterapia: il macchinario da 8 milioni di euro è la nuova frontiera per le cure oncologiche - Messaggero Veneto](https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZZZkljSjhWQ0gwVGJ3UkJ4b2dqMWRxZl9FVnNEYUsxY3B0NW80RDROeTNJVWF5RGFBRjNGZDJsLV9mRzd4VmVRUlE0Nk1XR052M1lSNzQtSURjZ25Vd1VvQ2g4SWJFdXBJY3NpNFFJMmN2UFh0U3I3T3pldEdjRHRNOUQtWktObXdPQXBVZ0ZtU3JBblJnYlhmN0U5QWxnbVFVamRETTcyc0p1a3FMb19Pb2lGRTVsZEVZdEN3?oc=5)
 
 2026-03-30 <span class="news-indication-tag">tumor</span>
 
-來源：[Radio Televisión Ceuta](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVFZb2JFVV9hdWdQMnNvUWs2SUljZEpwWjhyUldSZDhSQW1GaEdfWjVBRkktcnAxUXZ6ZkI1X3c2M3Q4cFY5YmxPUHRpTU1ZRnFjaEhPSEY0Z1lXaml1WlVwdW0yVFZzSGYtcWx3TFBQd1Qyb1ZleGxoQlpEOGVxOWM2OUprQnZpRTFfNE1IVDN4RHRrV0JMMkhMdHNjdGdOc28xbWNYWWVxMm1JRGlmcjhBNlhYVHJ1ZXdlMkdlSFd6RmkydENUXy1tS0RORmtneDcw0gHYAUFVX3lxTE9jUHFHNUF6X09iLXRCQkJzQndLZWZpM0F3V2llanBTUmRsZXZpY3dZcVN2SzNhQUltQUJIbWZEcGZfa05wMDRaS3UxU3lTWVo3eXpVRFZ5bktzRnZCa1M5NHY0N0JzcmRzVlREcmxYc00wclNTU3Z4eVpfQXZYLUVrUV8xYmxycWJmbnN6aGRaZTBqamVScmZqdkl0M2ZCWTNwT3Ezbm5xVWpKZFJXVUsycC0xYzU3OVdkSzRSZDFobDhxSGVWZ19hOGY1bDlQOW5ES0dBTmxTUg?oc=5)
+來源：[Messaggero Veneto](https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZZZkljSjhWQ0gwVGJ3UkJ4b2dqMWRxZl9FVnNEYUsxY3B0NW80RDROeTNJVWF5RGFBRjNGZDJsLV9mRzd4VmVRUlE0Nk1XR052M1lSNzQtSURjZ25Vd1VvQ2g4SWJFdXBJY3NpNFFJMmN2UFh0U3I3T3pldEdjRHRNOUQtWktObXdPQXBVZ0ZtU3JBblJnYlhmN0U5QWxnbVFVamRETTcyc0p1a3FMb19Pb2lGRTVsZEVZdEN3?oc=5)
 
 ---
 
@@ -65,6 +81,14 @@ permalink: /news/hydrochlorothiazide/
 2026-03-30 <span class="news-indication-tag">tumor</span>
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR3F5VzdmRTRQVXQ2cEdQa2FCR05HcGVwT1o4NDFwM3ljRmJaU2RmRVhzZ09XeDBTSXk4QklWMTNXeWpXclU3OW1BSDZXS0NrVk1IWGZrQWtHRzA3UmN5cU1OblhKWWxKN3FDQ2xWcGFJekdRakxQcFlmVF8zcFZkU2I0aE9famd6emJyR1VJV0xqVFJtR2V1SHlZSFdMdVFwVmx3eE82SlZfdUJoWlNFMHQwaUlNY3lsck0zLUVJQl8tazVDc01XQTExR0V3dGxiVXdnVNIB1AFBVV95cUxNRXAxQnNVRTlKTnZqNmljTDlOVlZoVE0xenk5Q1o2M241cFVKRVJlc1Q5TnhtM3FEVzFsRE5nVkRPZE1LZ24yeFZ6dDdWNlFmUm9sdWZWNnZqb2lrY09RN3hhOHFuRGtyYkV5bEluUmRZUWh6OEpmZEZnUVZaaVRFdzV1U2UwUlp4X2ZuVkZLM2NOSGk0NFpOYW1yRmMwakhFU1A3cEh4V1Byb0NPazZBQV9PTllKS3RGS1FpZHZoaWIwXzNsVzUyUGluck15ZE10WVBDRg?oc=5)
+
+---
+
+### [expert reaction to qualitative risk assessment on the carcinogenicity of e-cigarettes - Science Media Centre](https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2pJS05VTTVDNE5Qb28xUzdydlUwelVWb05uQTA5ZUItUlhPWnd2RUk3cmNISkxfb3lSa1lrSUYwRVJJT2tYaUFRQ2N0dm9ERHFIdGduRlQwM09hcElOZll5cmZNN1B0cEg3al9Ca3JWenRycVlSMGZsSm9qUGNLdHk1OEQ2S1paT0xTaVdLYWY0a1N1ZnNOZTBhOFpreHFQRkp6cGNNUHBqaTJhTnh0Wl9qX2dlX1ROV0VmS3JR?oc=5)
+
+2026-03-30 <span class="news-indication-tag">cancer</span>
+
+來源：[Science Media Centre](https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2pJS05VTTVDNE5Qb28xUzdydlUwelVWb05uQTA5ZUItUlhPWnd2RUk3cmNISkxfb3lSa1lrSUYwRVJJT2tYaUFRQ2N0dm9ERHFIdGduRlQwM09hcElOZll5cmZNN1B0cEg3al9Ca3JWenRycVlSMGZsSm9qUGNLdHk1OEQ2S1paT0xTaVdLYWY0a1N1ZnNOZTBhOFpreHFQRkp6cGNNUHBqaTJhTnh0Wl9qX2dlX1ROV0VmS3JR?oc=5)
 
 ---
 
@@ -84,11 +108,19 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [El Programa de Detección Precoz del Cáncer de Colon alcanza una cobertura del 96% en 2025. Son 37.242 personas las que realizaron el test de sangre oculta en heces frente a las 30.725 del año anterior, 6.517 más - MANACOR NOTICIAS](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjVzNsYTRSWHRrdjl4N25fODI4ZUZneHFFTDc2bDRBN3hnYk1oamxhdlFHc2EzTnlpUWRELXo3dEFERzlsWTBZQ2VlNUtSNnE1dldBUW5iUU91ZE40bWFPRm13?oc=5)
+### [Cribado de cáncer de colon en Canarias: 291.000 personas citadas, 80 tumores detectados y solo acudió el 38%](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1A1eUlqTzNPSUpsVXFuM2NsQjRIemEwck1lQ0hOcExvaXNDSDdudnRBSUVfVGpsLVZCbkItUzY4b2VoTnc2YjM5UVNUbTNMLXRRb2t0SVdPQXd2ZFYyaFNXM09FcHE3aGEwRWlJd1ozd2cwU1BSc2N6Y3NYb3NwLVdjRlMzRGktYnFBUVlDSlN2bFhDR3F6eEZ2YUdFbWFydGo4QkQ4RVFSWVU4Y2t3dmx0RmMwbHfSAbwBQVVfeXFMT2RrSzluT09ZSlI5bDhTa0lVRUFFNHozcnlkSGxHR3hzb1hYQU9ac05zLWVIcVh2R1hrVWxmM2RYZ2hVQUthUkxKU0JlQkxxUUF4cHFCSXdaYkE4MkJkVkFySnFiajFmMWU3ZjI1WllkblNLV01fOGNvaTVtcHpmTkxVakZ6Q3Vaa0FUN2lCZGwxa0RPMnZLVzd3c2V3NTY5TWJvZWFYSEVpN3NkcVVjOVFGWlo0XzVjdGlvY3o?oc=5)
 
 2026-03-30 <span class="news-indication-tag">tumor</span>
 
-來源：[MANACOR NOTICIAS](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjVzNsYTRSWHRrdjl4N25fODI4ZUZneHFFTDc2bDRBN3hnYk1oamxhdlFHc2EzTnlpUWRELXo3dEFERzlsWTBZQ2VlNUtSNnE1dldBUW5iUU91ZE40bWFPRm13?oc=5)
+來源：[Canarias7](https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1A1eUlqTzNPSUpsVXFuM2NsQjRIemEwck1lQ0hOcExvaXNDSDdudnRBSUVfVGpsLVZCbkItUzY4b2VoTnc2YjM5UVNUbTNMLXRRb2t0SVdPQXd2ZFYyaFNXM09FcHE3aGEwRWlJd1ozd2cwU1BSc2N6Y3NYb3NwLVdjRlMzRGktYnFBUVlDSlN2bFhDR3F6eEZ2YUdFbWFydGo4QkQ4RVFSWVU4Y2t3dmx0RmMwbHfSAbwBQVVfeXFMT2RrSzluT09ZSlI5bDhTa0lVRUFFNHozcnlkSGxHR3hzb1hYQU9ac05zLWVIcVh2R1hrVWxmM2RYZ2hVQUthUkxKU0JlQkxxUUF4cHFCSXdaYkE4MkJkVkFySnFiajFmMWU3ZjI1WllkblNLV01fOGNvaTVtcHpmTkxVakZ6Q3Vaa0FUN2lCZGwxa0RPMnZLVzd3c2V3NTY5TWJvZWFYSEVpN3NkcVVjOVFGWlo0XzVjdGlvY3o?oc=5)
+
+---
+
+### [Elle n’avait plus que quelques mois à vivre : il sauve sa chienne du cancer en créant un vaccin grâce à ChatGPT et l’intelligence artificielle - Midi Libre](https://news.google.com/rss/articles/CBMilgJBVV95cUxPWGg0Y25fMTJsQURUczFtNUlqVFRzd1o0ZTBmSUZKUnlfMzFqcVdHYVg5MVFUcWxhS2NiZjg3dUlUcVdhYkpUVGExTU55MzQzUXE0Z1hCakhDSzRHUVpqb3o1UDAxRjlEd19ybkdaeE9HOEhEeE93YVdBNjlxLTF6LW9KWW5PTUNZaW5JMmFWWWJOSXktbUlRc24wTEZodWdWYmlxb0ttc3F5ckt0SGEwNWFGYmFRWnFNQXNIa290dXM3UTJ4NzIzUG04cUx5TFFhSThWblI4LUdWMWsxSjdyNVBvbGFkallseDYxbExSNVdLSGhMdndDaVZ0Z184UUNZeWx0OGdOLWhzV1VOMXFua1NiYWVOdw?oc=5)
+
+2026-03-30 <span class="news-indication-tag">cancer</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMilgJBVV95cUxPWGg0Y25fMTJsQURUczFtNUlqVFRzd1o0ZTBmSUZKUnlfMzFqcVdHYVg5MVFUcWxhS2NiZjg3dUlUcVdhYkpUVGExTU55MzQzUXE0Z1hCakhDSzRHUVpqb3o1UDAxRjlEd19ybkdaeE9HOEhEeE93YVdBNjlxLTF6LW9KWW5PTUNZaW5JMmFWWWJOSXktbUlRc24wTEZodWdWYmlxb0ttc3F5ckt0SGEwNWFGYmFRWnFNQXNIa290dXM3UTJ4NzIzUG04cUx5TFFhSThWblI4LUdWMWsxSjdyNVBvbGFkallseDYxbExSNVdLSGhMdndDaVZ0Z184UUNZeWx0OGdOLWhzV1VOMXFua1NiYWVOdw?oc=5)
 
 ---
 
@@ -116,27 +148,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Murcia extiende con el apoyo de las farmacias el cribado poblacional de cérvix](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMEEyanlwYkZnZVdXOVJSUFhHQUN1SjFQZEM3aXF3T3JpR2d5SVVPZ0lfdC1qSlIwamMyb29uNFZsTmsyZmxiTl9WUnh6cFItazZUT0FxQ05RNHpQRUp3SHd2N2FTQ3pNbHlzeG9iRWJSa0FXdHNqVFNMdWFPNTVfSjZ5bGF5dmJBSEotc2R4dHdDQzR1Vl93QjZVY21oWHhmVWlFRE9SN0tiQjRUMVA4MEQ1TQ?oc=5)
-
-2026-03-30 <span class="news-indication-tag">tumor</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMEEyanlwYkZnZVdXOVJSUFhHQUN1SjFQZEM3aXF3T3JpR2d5SVVPZ0lfdC1qSlIwamMyb29uNFZsTmsyZmxiTl9WUnh6cFItazZUT0FxQ05RNHpQRUp3SHd2N2FTQ3pNbHlzeG9iRWJSa0FXdHNqVFNMdWFPNTVfSjZ5bGF5dmJBSEotc2R4dHdDQzR1Vl93QjZVY21oWHhmVWlFRE9SN0tiQjRUMVA4MEQ1TQ?oc=5)
-
----
-
 ### [Fumeurs, alcooliques ou obèses : ils sont centenaires et n’ont pas de cancer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS0Rjb1BvRTY5bVdGaklMbVdJMDhyUEFKcWcxTndxWVNDOE9wMzNWU2ZfQVNCRTdoNl8tT2RiRUowcVJodHlNOHJCMTVLTE83WWJEOVAzRm5vWXVTaDVCdmJYaENNRHp3MHlMVEh5WlFIYmxZUzMwNzYta1d6VWYxcXVBUTVGOUZaei0td05VNkQ4UVpJV0NKRzFadXVhYWdpa3ZFeVZLLW9JZU80U3FqTjVqeTJKMUJWeUNsWHdLWTZqRUFnX2JBVjgxSGlCdUZYZjc5UHEyaWlRMGRwQ1pj?oc=5)
 
 2026-03-30 <span class="news-indication-tag">cancer</span>
 
 來源：[Ouest-France](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS0Rjb1BvRTY5bVdGaklMbVdJMDhyUEFKcWcxTndxWVNDOE9wMzNWU2ZfQVNCRTdoNl8tT2RiRUowcVJodHlNOHJCMTVLTE83WWJEOVAzRm5vWXVTaDVCdmJYaENNRHp3MHlMVEh5WlFIYmxZUzMwNzYta1d6VWYxcXVBUTVGOUZaei0td05VNkQ4UVpJV0NKRzFadXVhYWdpa3ZFeVZLLW9JZU80U3FqTjVqeTJKMUJWeUNsWHdLWTZqRUFnX2JBVjgxSGlCdUZYZjc5UHEyaWlRMGRwQ1pj?oc=5)
-
----
-
-### [La UMA estudia el potencial de un compuesto natural contra el cáncer](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3VCd1dWOEU5UEVHZzktOHloVzgwV1BydVhseEx0NlROQ0dtRTZEYjdYOUY3eWNsYnRlT3hKb01LTUhhY1pjSVhIcVlyb3pESEh3TXdPSWZmcWFVTUJjMHY4ZjFQNnVpMWExT3NOZzROYUN4c2JtbXZ5dlRTZGFXYlZfb05oX0JzVWpYMVBBODc5RjZ3TGNINzZONzEzZGxDUk80Y0hGZXI?oc=5)
-
-2026-03-30 <span class="news-indication-tag">tumor</span>
-
-來源：[infoperiodistas](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3VCd1dWOEU5UEVHZzktOHloVzgwV1BydVhseEx0NlROQ0dtRTZEYjdYOUY3eWNsYnRlT3hKb01LTUhhY1pjSVhIcVlyb3pESEh3TXdPSWZmcWFVTUJjMHY4ZjFQNnVpMWExT3NOZzROYUN4c2JtbXZ5dlRTZGFXYlZfb05oX0JzVWpYMVBBODc5RjZ3TGNINzZONzEzZGxDUk80Y0hGZXI?oc=5)
 
 ---
 
@@ -156,19 +172,19 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [La apnea del sueño no tratada aumenta el riesgo de sufrir hipertensión - Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmw3dTZLZllQM1JFUG00ZUVzZzRBZkxDbHZvajNWZkJMaEpuR3phSVJ3cFdpaFRxMHVhV2tHc19TakVXVWpGNHN4eDRRZTVtV1pBWU5sak4tTXNLVHJkVHVPbUd0VF9xRmE2TTdTMmhBZ1M2bTNRUm9LQXpZUG9aR2ZSWlJDUTBmUmVOZWxuUG9RUGJZcUJWa0drVllTTndneGktTEczTXRSM3lsZXkwUlA1T25pNEpJbFcySDFmSTdSMEdwamVv0gHHAUFVX3lxTE5SQXZndGwzbll3TTc3QXNHTkhKa0s4OXE1aGltM1J3c1kyUGlDcXk1akRLbFZTTzZ3UjZBbFlieWszWDRnY2dkczFEdjAtd1cwUkp0UzF6eTlkYVRtcXF1YlpJb2JfTy1CWkEtQVpXVmU1b2JqUlVIVGZiNUdZTmdPdjZvcllmTlptc1c5ZV92Wl9VaW1oRUJpWWFxWlZkNnZLQ2lybEFrRUZnMnRzVGpvdzJqbGwzM0RZZEp1aUsyZlRJQjRSWmM?oc=5)
-
-2026-03-30 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmw3dTZLZllQM1JFUG00ZUVzZzRBZkxDbHZvajNWZkJMaEpuR3phSVJ3cFdpaFRxMHVhV2tHc19TakVXVWpGNHN4eDRRZTVtV1pBWU5sak4tTXNLVHJkVHVPbUd0VF9xRmE2TTdTMmhBZ1M2bTNRUm9LQXpZUG9aR2ZSWlJDUTBmUmVOZWxuUG9RUGJZcUJWa0drVllTTndneGktTEczTXRSM3lsZXkwUlA1T25pNEpJbFcySDFmSTdSMEdwamVv0gHHAUFVX3lxTE5SQXZndGwzbll3TTc3QXNHTkhKa0s4OXE1aGltM1J3c1kyUGlDcXk1akRLbFZTTzZ3UjZBbFlieWszWDRnY2dkczFEdjAtd1cwUkp0UzF6eTlkYVRtcXF1YlpJb2JfTy1CWkEtQVpXVmU1b2JqUlVIVGZiNUdZTmdPdjZvcllmTlptc1c5ZV92Wl9VaW1oRUJpWWFxWlZkNnZLQ2lybEFrRUZnMnRzVGpvdzJqbGwzM0RZZEp1aUsyZlRJQjRSWmM?oc=5)
-
----
-
 ### ["Des milliers de vies pourraient être sauvées chaque année" : de nombreux patients mettent leur vie en danger en évitant ce geste primordial pour leur santé - Pleine vie](https://news.google.com/rss/articles/CBMioAJBVV95cUxPNlZCNHRoRG1HWFRzdHZQNzFJUnctcjlZSG9OYXk5ZFozUGNBbWxuTnhXdmN3WERaM1UzY2dLeWd1M3BEU3ZNTHpMSTdqUWMwbWVaTlpzUkdPZHlqUUJIcFcyQWRlSUJYMXdsRVh2ZzcyMHAzdTd1WEd5ZkEzejhzTEdhbF9CVVJCT3lObjAzREJOa1ZfSzNkdVFWN1pHT0lQbnNLT0tvQjVXZUJGN1VwX3hNSDdOTHlRRmtvM2EyZXFrY2lKc3RfRVB1dE8zMW1JTjh2WkluMlpqSnJJQUVjUkF6azJGSElDWnNPVjJleXl4aTdISmxEVEtmczBxLUtlUWRibDc2dEk4SWZHMmw5T2txa043dW9DSFN4VDE5UHk?oc=5)
 
 2026-03-30 <span class="news-indication-tag">cancer</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMioAJBVV95cUxPNlZCNHRoRG1HWFRzdHZQNzFJUnctcjlZSG9OYXk5ZFozUGNBbWxuTnhXdmN3WERaM1UzY2dLeWd1M3BEU3ZNTHpMSTdqUWMwbWVaTlpzUkdPZHlqUUJIcFcyQWRlSUJYMXdsRVh2ZzcyMHAzdTd1WEd5ZkEzejhzTEdhbF9CVVJCT3lObjAzREJOa1ZfSzNkdVFWN1pHT0lQbnNLT0tvQjVXZUJGN1VwX3hNSDdOTHlRRmtvM2EyZXFrY2lKc3RfRVB1dE8zMW1JTjh2WkluMlpqSnJJQUVjUkF6azJGSElDWnNPVjJleXl4aTdISmxEVEtmczBxLUtlUWRibDc2dEk4SWZHMmw5T2txa043dW9DSFN4VDE5UHk?oc=5)
+
+---
+
+### [Tumori cerebrali pediatrici, da Trento un avatar per studiarli](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUZwS0xJZjBtbjNyeDFVQ2JHUVBRVlZCeU5TRUFQREdldUhBcXZjV3BOUHVPU2l0UWxGZF95YVVSRUh5YkFvUElPSFJrOHctZkxES2lDMWZuUUFvVmt1SDQ4ZS1pNEtFa1JsbUVkY0c0U3hFNTJRYjUzbnlUNmZ0T2VmY3lzalozUDNyandwNDdOQnZBSm5hRXJlcVpEQW5PdjJSVU05TU1vZkFGZkg2XzdB?oc=5)
+
+2026-03-30 <span class="news-indication-tag">tumor</span>
+
+來源：[l'Adige](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUZwS0xJZjBtbjNyeDFVQ2JHUVBRVlZCeU5TRUFQREdldUhBcXZjV3BOUHVPU2l0UWxGZF95YVVSRUh5YkFvUElPSFJrOHctZkxES2lDMWZuUUFvVmt1SDQ4ZS1pNEtFa1JsbUVkY0c0U3hFNTJRYjUzbnlUNmZ0T2VmY3lzalozUDNyandwNDdOQnZBSm5hRXJlcVpEQW5PdjJSVU05TU1vZkFGZkg2XzdB?oc=5)
 
 ---
 
@@ -180,11 +196,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Krebs in Europa: Mehr Investitionen – mehr Leben](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFBfamJVYm41THRFRUZ0cGZEUU9OUjJDV3N4M1ZiYTRWNm1MNEFqVndyOEVPUXBYLTJDb2lRZHFLQWh5NjFPZy02djhhaG00ZmxWa1ZRWDc2VGhfMnhjaWJNZzJjRDduRW9oRW1kZzF1T2tvbzMwcUc5ZU9HUlJ4bk56Q1Q4Tlk?oc=5)
+### [Krebs in Europa: Mehr Investitionen – mehr Leben - Pharma Fakten](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFBfamJVYm41THRFRUZ0cGZEUU9OUjJDV3N4M1ZiYTRWNm1MNEFqVndyOEVPUXBYLTJDb2lRZHFLQWh5NjFPZy02djhhaG00ZmxWa1ZRWDc2VGhfMnhjaWJNZzJjRDduRW9oRW1kZzF1T2tvbzMwcUc5ZU9HUlJ4bk56Q1Q4Tlk?oc=5)
 
 2026-03-29 <span class="news-indication-tag">Krebs</span>
 
-來源：[pharma-fakten.de](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFBfamJVYm41THRFRUZ0cGZEUU9OUjJDV3N4M1ZiYTRWNm1MNEFqVndyOEVPUXBYLTJDb2lRZHFLQWh5NjFPZy02djhhaG00ZmxWa1ZRWDc2VGhfMnhjaWJNZzJjRDduRW9oRW1kZzF1T2tvbzMwcUc5ZU9HUlJ4bk56Q1Q4Tlk?oc=5)
+來源：[Pharma Fakten](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFBfamJVYm41THRFRUZ0cGZEUU9OUjJDV3N4M1ZiYTRWNm1MNEFqVndyOEVPUXBYLTJDb2lRZHFLQWh5NjFPZy02djhhaG00ZmxWa1ZRWDc2VGhfMnhjaWJNZzJjRDduRW9oRW1kZzF1T2tvbzMwcUc5ZU9HUlJ4bk56Q1Q4Tlk?oc=5)
 
 ---
 
@@ -204,6 +220,14 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [La science découvre pourquoi cette molécule anti-âge pourrait aussi favoriser le cancer - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0RIUXdDS3o1aDhoNm9BOFVRRWRObWF5TFlEdVRrU1FTTUhNXzExT211aDRNV1VhNDQtN25pS1QyTTlRQ1FNQ2NsMmRiYjFpTlp3YzR5QTY3RjVjbTF1VVVFcTVfWTRtb2VmV0VaNUFnTnQ5cWRXV0lvYXVERzBibVZuM09Ka2JpMGFKcEVXbXB4UEZOYXFtcFRyVTRFQm5kek1GMnlSbXJJTm90V0hCQVplWEJDMWVwTW4tUXhBeUpKSFBFSUJKUDRZMnZ0ZHo1cFVGaVdPSEQ?oc=5)
+
+2026-03-29 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0RIUXdDS3o1aDhoNm9BOFVRRWRObWF5TFlEdVRrU1FTTUhNXzExT211aDRNV1VhNDQtN25pS1QyTTlRQ1FNQ2NsMmRiYjFpTlp3YzR5QTY3RjVjbTF1VVVFcTVfWTRtb2VmV0VaNUFnTnQ5cWRXV0lvYXVERzBibVZuM09Ka2JpMGFKcEVXbXB4UEZOYXFtcFRyVTRFQm5kek1GMnlSbXJJTm90V0hCQVplWEJDMWVwTW4tUXhBeUpKSFBFSUJKUDRZMnZ0ZHo1cFVGaVdPSEQ?oc=5)
+
+---
+
 ### [Attivo un nuovo ambulatorio per ipertensione arteriosa e rischio cardiovascolare](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHNTN2lCMC1fMTExaXRRMGJFY3cxdmpnOUdkeFMydmhJSEdaZFd0WVV4RzRMU1U4LWVGY05ycGtUZV9nRVBPXzEtbHJrNlJPc3JHTDJ6TzhFckdZUkltaEI5VjBjUmt3aXlKLW5idzV3cHZPZUVkMFNvZ0lpNXZmNmxvaTVzZHNNc2lBc2ppSWc5c2hwbzN3dDZ6UkhLWVlGcXZVMnd0SnFKaXc2Q2NYam81SlN6ZWhndWVMTjFlb1VtR25PU2IwYW1qNVAxOXBSUGZaXzVNZ1NhbDFa0gHiAUFVX3lxTE5tSGxRZEI3UzEzSzhMYjFQbnVyUTVxN1ktbmxxczBnazJuUGItTDFIRVZLN1l0UjdCSW1LV2M5ZVljSVlpM1lxdzl6RmRfdFk4SUpnSDJuV0RlUlNtMmxmdWVxSUNsNG9TZVJBM05Pc1R6c0RGWS04dXlpRlJDT0I4cVBVMmRUSkNHOGh4ZDU4Y1RaaEVZaWFUMG5GampLdDRZek43MTFSd3NNcEhsMS01WkFyZkJubFp1d190czFjZVUyODVkQzBra21CT1cyYURoU0cwQUtHdVU4MGpESHFWNXc?oc=5)
 
 2026-03-29 <span class="news-indication-tag">ipertensione</span>
@@ -214,7 +238,7 @@ permalink: /news/hydrochlorothiazide/
 
 ### [Scientists Find Eating This Popular Food Increases Heart Disease Risk By 67%](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1xcWl5QmZCY0llQzRmYXoxTzFIVExKdG9hYWVzUzI5SDZFU1JrOTZFZVpaZ0d6OXd3X2Rvd0FVd2ZSaF8zTzNaMF9Qa3FpX3k3NHF0SC1YQ05zR0VHVzk2alo5cUVQRHRGZXFWdnd1UGpObjdaZHZGN1hPQXlqeDYzMGRnWDhIV0FOSE5IcTBMT3E0ZFRuYTZQYUd0TVljanNncG5Qd05mWE1PaVE?oc=5)
 
-2026-03-29 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-03-29 <span class="news-indication-tag">heart disease</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1xcWl5QmZCY0llQzRmYXoxTzFIVExKdG9hYWVzUzI5SDZFU1JrOTZFZVpaZ0d6OXd3X2Rvd0FVd2ZSaF8zTzNaMF9Qa3FpX3k3NHF0SC1YQ05zR0VHVzk2alo5cUVQRHRGZXFWdnd1UGpObjdaZHZGN1hPQXlqeDYzMGRnWDhIV0FOSE5IcTBMT3E0ZFRuYTZQYUd0TVljanNncG5Qd05mWE1PaVE?oc=5)
 

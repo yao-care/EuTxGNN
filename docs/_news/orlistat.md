@@ -52,6 +52,14 @@ permalink: /news/orlistat/
 
 ---
 
+### [Gli effetti psicologici dei farmaci dimagranti - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+2026-03-30 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+---
+
 ### [« J’ai déjà perdu 10 cm de tour de taille » : à l’hôpital du Puy, le programme contre l’obésité a du succès - Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQldBSDBsTTFQZmZWME5vWHVJX0t2T2cxTGhYVU92ZGIwQjB6eFowSUNKMmVVajFyY3EwNUZjU2JQZlB0TGVDRy11VVdoeks5M3kwcjZXeFpJQXNEMXlUd2IydGVGRnJ1a0p6a01samJ3ZzBFazk2SEtRS2YxOGo0eThKa2h1OUhpbjhCNkJ4UjNNTWx2OGZFMDBEc24zWGk1V19vYmxhaGRiLTB2Nk9sZGJWV0s3WjBD?oc=5)
 
 2026-03-30 <span class="news-indication-tag">obésité</span>
@@ -81,14 +89,6 @@ permalink: /news/orlistat/
 2026-03-29 <span class="news-indication-tag">AVC</span>
 
 來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
-
----
-
-### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
-
-2026-03-29 <span class="news-indication-tag">ictus</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 ---
 

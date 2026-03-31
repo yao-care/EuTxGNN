@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Gli effetti psicologici dei farmaci dimagranti - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+2026-03-30 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+
+---
 
 ### [« J’ai déjà perdu 10 cm de tour de taille » : à l’hôpital du Puy, le programme contre l’obésité a du succès - Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQldBSDBsTTFQZmZWME5vWHVJX0t2T2cxTGhYVU92ZGIwQjB6eFowSUNKMmVVajFyY3EwNUZjU2JQZlB0TGVDRy11VVdoeks5M3kwcjZXeFpJQXNEMXlUd2IydGVGRnJ1a0p6a01samJ3ZzBFazk2SEtRS2YxOGo0eThKa2h1OUhpbjhCNkJ4UjNNTWx2OGZFMDBEc24zWGk1V19vYmxhaGRiLTB2Nk9sZGJWV0s3WjBD?oc=5)
 

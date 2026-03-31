@@ -3,7 +3,7 @@ layout: default
 title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<strong>AVC（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Aliments ultratransformés : un détail sur l’emballage pourrait révéler le danger masqué - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3V5TU85WHFYMm04WkUtd19iZWtyMThwc3p6dW5DT25xRF9LWWRJYmgzZlZVMEFXS082YkczLUhNbEhJZktiMEFnLXBIcXEzTUtJekY5N09FXzlZUkVFR1dPRTNLZU9sNzhaajRSdDgtNjQyY0U3bkJFWWVjdXhTM1hkelNjcTZPdTdDTjY3aHJEcXhrSGNJN2x1anJodzhGc2pPOVVoeGN5TWNxcUw4U1Ryd1JtbndHX1NIbDV2NHBqOWx5WThUUFQ2dm9xTktORWdacm9GMFBVQkU?oc=5)
 
@@ -70,14 +70,6 @@ permalink: /news/stroke/
 2026-03-29
 
 來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
-
----
-
-### [Campaña «Héroe en casa»: niños y adolescentes en la detección precoz del ictus - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
-
-2026-03-29
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlFod050dmRWbUduMGtDZ18zLUJsNV9ubnlJaGItR1B3cUUxdmZfTGtSN1JRZjA2a2U1NzRSQTZOTld6LWNldm1IRmxoNWhabDJQdGVwMm95NTA4cEFCTXo2Mkk0R0ltRjhoWlE0YVdoYkZWOWpKbHY5aUh5WWUyc1VFc193b3FPdWVrMHZaSQ?oc=5)
 
 ---
 

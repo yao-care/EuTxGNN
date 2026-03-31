@@ -14,7 +14,7 @@ permalink: /news/insulin-degludec/
 ---
 
 <p class="key-answer" data-question="Insulin Degludec 有什麼相關新聞？">
-<strong>Insulin Degludec</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Insulin Degludec</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/insulin-degludec/
 <p><a href="{{ '/drugs/insulin-degludec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Gli effetti psicologici dei farmaci dimagranti - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
-
-2026-03-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Descubren cómo un microARN clave controla la inflamación de las arterias en la diabetes](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLV9GRkl5aVpDTzdQbW1hVGRKUnZIaFdmYUJadDg3dXJGSDN1YXR2ZDBCaVo5ZkJEei1ISG5LVHNLXzJJNDE5ODZrSG1hS3N1YWxpNFJNMHYxUExtOVdWR2V4a3l6SWRzZUZiY0FtNVhGWUNiMC1HNXdmYlU2aFluSFRUMkJyTWxneHFScklBc2xNY3JJZjhJVHA0RXRIY1lKb2lqZkZjSFRrbFNKb2dSVUZCaThBTktZcWlWQ1Fn0gHDAUFVX3lxTFA2amhvcjlFZzN0SWFDY1NZT3FRU2l3dWlYa3Z2TGhkTF92cW5CY1dDdG01cWhOOFBJc1ZBZUZYOWtBa1JXNUVtNHlvazQ5VzVrRXVma2diYjJ2NEJibkVmS1VQSTliaW8zb2pTSjJSMm1LdUpDRGpNNTlvMzk1UnlEcVM0bmhValhZc1dQUVRQbzlaYmlYTkNsYjVXaEczWkVkWm1iSGI5Qm56YTNZcFpWaFg3RE9VeGFqcXF4bFV1bHdRVQ?oc=5)
 
@@ -62,7 +54,7 @@ permalink: /news/insulin-degludec/
 
 ### [Running for the bus could cut risk of diabetes and dementia - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
 
-2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
 
@@ -73,14 +65,6 @@ permalink: /news/insulin-degludec/
 2026-03-29 <span class="news-drug-tag">Evolocumab</span> <span class="news-indication-tag">diabetic</span>
 
 來源：[fanpage.it](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjk3cWREbEd3T1VyR3NvR2NGb1ZqSUJ5aUZkcldkdUFjamxjVWR0WENwN05jZ0Rfbks3bm5qbi1nUEMzcER5YWY4RGlvOElSQS1iMVRVelhWQlR2dGtvVDVaY1FQLUdWeWtrcUxuYkc4Znpoa0JYRFcyQ2wxTFkyTjB0aWJrN3R0RVBaOG9EOXJLS0pCSnVpcGg5bTF2c0wwVlFNWE9SVXdPSi01NDdwbC16TFIzbG90N3JzdHluLWVob3FPRHBNTWVnWlNCMTJpeHhIRnM0eXU5RHM?oc=5)
-
----
-
-### [At 45, I was told I was prediabetic – I reversed it with these simple rules - The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
-
-2026-03-29 <span class="news-indication-tag">diabetic</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
 
 ---
 

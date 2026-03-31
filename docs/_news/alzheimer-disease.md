@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Running for the bus could cut risk of diabetes and dementia - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeml2TFhuRnhLblRwaW9UcnVaTmw0aVJlbXBtOTVLemNVMDlTalZ0dlU4eWhxU244N3ZhbE5xX0hwV2JZQ0x4T0ZqeHlHbHQ3U3BpQzNCc29tMVBjV1MtRjJpYl83RDMzUGN3YUI0a042ejZxa01abE04Ny1XNEF1YzlMOFo2UnZGVFFyZTdFcFpJQk51N1E?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/alzheimer-disease/
 2026-03-29
 
 來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
+
+---
+
+### [Cuisiner une fois par semaine peut réduire le risque de maladie d’Alzheimer - Le Figaro Santé](https://news.google.com/rss/articles/CBMivwFBVV95cUxONHZ4R3NtMUdfVzhLM1hNUVVuTXVfUGI2Q2FKb3pENFNlSE9VNUY1YUE1V1JfRVEwUzZCdFYtdFJLV19pNDlIMWdnVWNQNm94NF9xdVdDZ29QQ19sdWU2TTUyTFF2eXVUNHV1NkprMEFIRXBNQ3BCOXltd0dxMGpDTFZoNWZvbEVHNGZfcWZfRzJNRWxCR0Itd0FaQ2x2anl0SzFQSHBPQklrZ3lrdENlUHp4VDlTbWR4V0U0emhHSQ?oc=5)
+
+2026-03-29
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivwFBVV95cUxONHZ4R3NtMUdfVzhLM1hNUVVuTXVfUGI2Q2FKb3pENFNlSE9VNUY1YUE1V1JfRVEwUzZCdFYtdFJLV19pNDlIMWdnVWNQNm94NF9xdVdDZ29QQ19sdWU2TTUyTFF2eXVUNHV1NkprMEFIRXBNQ3BCOXltd0dxMGpDTFZoNWZvbEVHNGZfcWZfRzJNRWxCR0Itd0FaQ2x2anl0SzFQSHBPQklrZ3lrdENlUHp4VDlTbWR4V0U0emhHSQ?oc=5)
 
 ---
 
