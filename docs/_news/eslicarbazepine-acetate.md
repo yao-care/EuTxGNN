@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/eslicarbazepine-acetate/
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [New hope for children with severe epilepsy after Manchester study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
+
+2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
+
+---
 
 ### [Nueva medicación puede mejorar la vida de niños con epilepsia resistente - Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUm1FV19nRmNwRTVOODhJRUdNaEhaRjN4UVEzSnRTMXBuNXpMZWNGLUtOQk1ieUZDazlQM2FyS0FJQklJSTF0MktBUnFFcmVXQnI0UGNsakIxdGlzLVZ2N3FfRlFsVUVRMEdnZFJqTWE5eEQ3dVhEOGZwT19mSGZxYy0xeEtoVmpudjYxMlJtRlg2UExQYUFWdUpWYXZHcGpfX2NWZEJDWVYwa2o1NUE1S2VCQ2hqQ1o3cWlJX2RVeUdjRW82SjJGSNIBzgFBVV95cUxNZm9LTER3UkhWajYwMUtwTHE1RzBYQlBfeXk5ck1Qb28zaWliX3hpRHo1ZGd4VmdYaFlJUE9xMC1xcGNEaVIycEk2YzFKWS02c0dRLUprZFAzcndwY0d2S0tsWF9OTFN6YlBsaEVXVnR2M2VfdE1lYzJ5bzVLN2doR3RObzg5SkpPVjQxR2plR3VoWVdpRE9SN1lNRFZvYUZ6TG9sZTVKQWFzN0dWZVBOekdYS3hacTVmT21fcTE3cTlJOGxTb2gzVnBOQTJ4dw?oc=5)
 

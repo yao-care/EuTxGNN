@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Descubren que un fármaco contra la leucemia logra frenar la inflamación por psoriasis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWxDTHNZWnQ0dzJEcjc5MjU3eGkzWW9iRFJCLXlobVpwRWY2dmNuWlhQZ3V2WXZxSDE1NU4ySmVteFZpc3NLTkkwbXZXNTZ1YTVtNWxteUh6RHkyNVItYkhIbXZrdkxFb29PaUc1c0xreVFSZFQ5T3pUQjFHZnlzNXozZVRZQ1Y3Y29YTkRBaEJBRDd0alFWZ0R4NzVwdnJCaUw3Wk9tWVV6VFU?oc=5)
 
 2026-03-30 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Servimedia](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWxDTHNZWnQ0dzJEcjc5MjU3eGkzWW9iRFJCLXlobVpwRWY2dmNuWlhQZ3V2WXZxSDE1NU4ySmVteFZpc3NLTkkwbXZXNTZ1YTVtNWxteUh6RHkyNVItYkhIbXZrdkxFb29PaUc1c0xreVFSZFQ5T3pUQjFHZnlzNXozZVRZQ1Y3Y29YTkRBaEJBRDd0alFWZ0R4NzVwdnJCaUw3Wk9tWVV6VFU?oc=5)
-
----
-
-### [Por qué la actividad intensa diaria puede ayudarte a evitar futuras afecciones como la artritis, la demencia y los infartos](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
-
-2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Atresmedia](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
 
 ---
 

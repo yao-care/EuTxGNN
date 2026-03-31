@@ -14,7 +14,7 @@ permalink: /news/pasireotide/
 ---
 
 <p class="key-answer" data-question="Pasireotide 有什麼相關新聞？">
-<strong>Pasireotide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pasireotide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/pasireotide/
 <p><a href="{{ '/drugs/pasireotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
 
-### [Meningitis nightclub reopens with kissing warning](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
+### [AIDS Healthcare Foundation: AHF Urges WTO Members: Don't Put Affordable Medicines at Risk](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbDR1azBiV3JWZG9wbUZCdjdOUDIxWWRMLTNEWGJlWnpxbXpPWGZMaU5vYXQzMFdOM3hyV2o5MHQxdVpyX0JKU0JURjh5X2tmaFpicFQzbW13Rjk4aklPX1M2bmQ1VnNrWTJwWlNna19vZVVIaHVTMFRHY2lkeHlCMEhoYzVQeExDTWdQX095QjhkZFFNZDFfeXV1QnNyUm14al9sVzlBWkFCWFNjZC1BekhKdEdWSFVNS3dsdmxEYkFjSS1VMnluUzdwemMtaE1yOUtjNUxZMHR5ZmpCT0k1TjZlaTFSZWVvcUFTRHdB?oc=5)
 
 2026-03-30 <span class="news-indication-tag">AF</span>
 
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbDR1azBiV3JWZG9wbUZCdjdOUDIxWWRMLTNEWGJlWnpxbXpPWGZMaU5vYXQzMFdOM3hyV2o5MHQxdVpyX0JKU0JURjh5X2tmaFpicFQzbW13Rjk4aklPX1M2bmQ1VnNrWTJwWlNna19vZVVIaHVTMFRHY2lkeHlCMEhoYzVQeExDTWdQX095QjhkZFFNZDFfeXV1QnNyUm14al9sVzlBWkFCWFNjZC1BekhKdEdWSFVNS3dsdmxEYkFjSS1VMnluUzdwemMtaE1yOUtjNUxZMHR5ZmpCT0k1TjZlaTFSZWVvcUFTRHdB?oc=5)
 
 ---
 
-### [Por qué la actividad intensa diaria puede ayudarte a evitar futuras afecciones como la artritis, la demencia y los infartos](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
+### [Alzheimer-Forschung: Neue Zelltypen und Gentherapie im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
 
-2026-03-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+2026-03-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Atresmedia](https://news.google.com/rss/articles/CBMipgJBVV95cUxNWmVuMXR6TTFDZVJvUC0tdEtiV3ZIVzhGS0xjWkxURlkyLXgxb1EyZXJZb2ZMc1JUUW83Ty1vM0Fhci1XblRaNVBQM1ZqOFNnRElYc2lwZXh5aTFWLU5JT3hDSXBWRDdtRFJTTklmWkp6SERVdUFmVy0zTUZUaGNRMHNJbmxwSkI4NXR6RlhlaTdNSEZQbUpoRk9PSFpLRGNGWkFEdkphdkR6OVVNeUI5ZVFwYl9tZVV0VW5IZ1ZYQ2c2TXhHQXI5bDRaRUs4emc3aGNKMnJid2ZfRHI1RDdRdTdjTDJfUVVSbVNaV0JwZTVFOVBQTkxqUkJhX09oVGFULWlXc1NyWGZDRGRjV2RXUTJCODRwUXczazRMQUI1aFp5R09aSHc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
+
+---
+
+### [New hope for children with severe epilepsy after Manchester study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
+
+2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
 
 ---
 
@@ -65,14 +73,6 @@ permalink: /news/pasireotide/
 2026-03-30 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMlZYYnJlbG9Ya1JEbTNnbFNpYnVhUHVYZFV6Z3kxTmU5cTVLOURWek5ZQ0IyWk5fZXBaVlNiV2l1alp3R0tZZUE0RGxfLUlGSzJHOFlTTjFZUU1K?oc=5)
-
----
-
-### [Los entrenadores coinciden: "A partir de los 55 años, hay que caminar todos los días al menos 20 minutos, preferir las escaleras, hacer estiramientos suaves y trabajar el equilibrio" - El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOQUFxb1VtTEM5c3Eydm5sTDFET0VhalMtVTVDOVFKVGE1cWstRjh3UmUwZjhhUmFtYTFUbWo4SXRpVEpZbTZMQ2pTWU9XWHZIelpoTzdLc1U0VG1qOEw2a2JsblRBcUZPbTNqRTZjeXZsZ0h0SF9ZaXpkWkdrTmViRjZGenRINm81aWN5UVJlbEd4MS1Kb2JXc3pUbU5vTjBsZG50YnV1bmstSnhfR3ZLTXVjRWRhWmhUYzVLQ25VcFhxbW5lQTJ3ajFvOERFVTcyVnlXQ29McXJHdTYzNWxORkpnTWVlRFZBczA1ZEU1bmxPX001MW1ub1NNeDZkTEV6V3JoMHZWSFVLTkZoQmF1YnFfYlZKNTJXYVpNZVFYakkwYkpCOXE5MkI3dDNUY29jNFQ5aTRWSUZWQ3ZZV2hLNzFpR3V1TjVBM18yS0VxUmdpR05WZXhfdzhZRU56UVE1Y0FsQzZyQUhkZF9CNTNaR214MVZzNGM?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOQUFxb1VtTEM5c3Eydm5sTDFET0VhalMtVTVDOVFKVGE1cWstRjh3UmUwZjhhUmFtYTFUbWo4SXRpVEpZbTZMQ2pTWU9XWHZIelpoTzdLc1U0VG1qOEw2a2JsblRBcUZPbTNqRTZjeXZsZ0h0SF9ZaXpkWkdrTmViRjZGenRINm81aWN5UVJlbEd4MS1Kb2JXc3pUbU5vTjBsZG50YnV1bmstSnhfR3ZLTXVjRWRhWmhUYzVLQ25VcFhxbW5lQTJ3ajFvOERFVTcyVnlXQ29McXJHdTYzNWxORkpnTWVlRFZBczA1ZEU1bmxPX001MW1ub1NNeDZkTEV6V3JoMHZWSFVLTkZoQmF1YnFfYlZKNTJXYVpNZVFYakkwYkpCOXE5MkI3dDNUY29jNFQ5aTRWSUZWQ3ZZV2hLNzFpR3V1TjVBM18yS0VxUmdpR05WZXhfdzhZRU56UVE1Y0FsQzZyQUhkZF9CNTNaR214MVZzNGM?oc=5)
 
 ---
 
@@ -100,43 +100,19 @@ permalink: /news/pasireotide/
 
 ---
 
+### [Nightclub at centre of Kent meningitis outbreak to reopen - Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUU0dHM4TGYyVWRxM1M5dGJqVS0zVlN0VmhLcFJ0R3NCbWE5WWxwNVp6WnRYSW5lU2w5aFdWR0hHQlYtc3ItQWkxMkY2OFZjNHk4SFVnVGk0VDg1eVBXUHFtX0xGRnd3UHhlM2NtSnJ4YUhjWDAwSm5zV01RY0tuR2NyRkZHWEpaN296LTBsV0ZaT2tzWmp5REdENTk1aVptRlhBUVNGQTFBTTRxbkVj?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUU0dHM4TGYyVWRxM1M5dGJqVS0zVlN0VmhLcFJ0R3NCbWE5WWxwNVp6WnRYSW5lU2w5aFdWR0hHQlYtc3ItQWkxMkY2OFZjNHk4SFVnVGk0VDg1eVBXUHFtX0xGRnd3UHhlM2NtSnJ4YUhjWDAwSm5zV01RY0tuR2NyRkZHWEpaN296LTBsV0ZaT2tzWmp5REdENTk1aVptRlhBUVNGQTFBTTRxbkVj?oc=5)
+
+---
+
 ### [Our daughter, Leni, is two — and she has dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
 
 2026-03-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
-
----
-
-### [I had a stomach ache, then doctors found a tumour in my brain](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcENlckZDS2dLOXhmUFBTU3gwNFphaFZnM2JVNTNXMUVwSEdHTUVvaDA0b05rdS1Ndl91X1EteFQ1N1k3N09nckZteUdXREJxcFRzSVJ4UHdhLUJLVXRhaU5fSkVwLXh6WXFDaTFnNGU2SnF3NkJmdFQ2dnZ1YzJTRWJqNW8wYmoxLVJqdg?oc=5)
-
-2026-03-29 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcENlckZDS2dLOXhmUFBTU3gwNFphaFZnM2JVNTNXMUVwSEdHTUVvaDA0b05rdS1Ndl91X1EteFQ1N1k3N09nckZteUdXREJxcFRzSVJ4UHdhLUJLVXRhaU5fSkVwLXh6WXFDaTFnNGU2SnF3NkJmdFQ2dnZ1YzJTRWJqNW8wYmoxLVJqdg?oc=5)
-
----
-
-### [Café con canela: la mezcla que gana terreno por sus posibles beneficios para el corazón y el metabolismo](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVTdxQU9aVWJXX2hPMTVkZHFhZzZaSGxZWG9SYVJMVkFaT0h3VGNTY1hWOGhLaXhKTTVDaEM0c0dTNVF0c2l0Wml5U25CRnhsd1pxcVpQTFpNd0NTSjlOSVZoMTl6bUxHWE9zQm45RWJJaVBLOFRQcE5fQUZCdjN1UXBwMkZqR0tWVjA5T3p5V25obFZLYzNRZ2VSN2pBUGU0NXRXUkRtQ2E3eW84b2xhUUxlZWRDQ3oxNUFoS2JZZTFWMlJUUlpDR3FyUlV1bmFiYU41VTdqOC00Zw?oc=5)
-
-2026-03-28 <span class="news-indication-tag">AF</span>
-
-來源：[ELTIEMPO.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVTdxQU9aVWJXX2hPMTVkZHFhZzZaSGxZWG9SYVJMVkFaT0h3VGNTY1hWOGhLaXhKTTVDaEM0c0dTNVF0c2l0Wml5U25CRnhsd1pxcVpQTFpNd0NTSjlOSVZoMTl6bUxHWE9zQm45RWJJaVBLOFRQcE5fQUZCdjN1UXBwMkZqR0tWVjA5T3p5V25obFZLYzNRZ2VSN2pBUGU0NXRXUkRtQ2E3eW84b2xhUUxlZWRDQ3oxNUFoS2JZZTFWMlJUUlpDR3FyUlV1bmFiYU41VTdqOC00Zw?oc=5)
-
----
-
-### [Torna il virus Dengue in Toscana: due casi nelle ultime ore - Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2YyQW5rQW1XRW9IZkFuR0E3WWFaY09CVU4xRW5taU94eUVsRmFvQm5qcDhJZXU0WjNnVnpjSGI2N2NMTG4weVQ3SnNNLVQwWmJkNUpkQmRuc01kOUlMUjEtc0M1ZDBBeGx3Ym1xTHd1eFZtSmFNNFh1ak5jU2JmMU5PTTdrNUkyTmNKb191UDN6aHNWRU9GR0lFSF9nejRGcUZBZ0E2VktGc2NoSnBYaU42Z0lfd3VBTkVqZnBGTnpoTmVJ?oc=5)
-
-2026-03-28 <span class="news-indication-tag">AF</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2YyQW5rQW1XRW9IZkFuR0E3WWFaY09CVU4xRW5taU94eUVsRmFvQm5qcDhJZXU0WjNnVnpjSGI2N2NMTG4weVQ3SnNNLVQwWmJkNUpkQmRuc01kOUlMUjEtc0M1ZDBBeGx3Ym1xTHd1eFZtSmFNNFh1ak5jU2JmMU5PTTdrNUkyTmNKb191UDN6aHNWRU9GR0lFSF9nejRGcUZBZ0E2VktGc2NoSnBYaU42Z0lfd3VBTkVqZnBGTnpoTmVJ?oc=5)
-
----
-
-### [Meningite Uk, il Board del Calendario Vaccinale chiede di rivedere la strategia italiana di vaccinazione degli adolescenti - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTW1iOTZkcnV5SHotSVJ0X3VlZTVSU0tkTDhOQk1Xa3A3OG5ubk41VjR1amJ2OG8tM2dUUkpvM2Z6M1ZaSXhRZXZ3TjJUVGlZWlNxTGI1YWRMNnNhcHhsUDM0WDBpTXlXYjMwUkU0dkt1STVmeE0zb0g0S2t5QldVd1otQlV3U3NRN0ZZMXVXa2VXWldZVEZrZ1pYejVEUHpMQldJaTNBUC1MaVJXYVlTN09xUUFFYXl4MnlzVFJrMkt5WGpENFg1TGhtY01UdzRMaXhobDdJQkpVLW5IY28yTzM1bG83Mzh4UDl1RHNBYUc5NmhZeHc?oc=5)
-
-2026-03-26 <span class="news-indication-tag">AF</span>
-
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTW1iOTZkcnV5SHotSVJ0X3VlZTVSU0tkTDhOQk1Xa3A3OG5ubk41VjR1amJ2OG8tM2dUUkpvM2Z6M1ZaSXhRZXZ3TjJUVGlZWlNxTGI1YWRMNnNhcHhsUDM0WDBpTXlXYjMwUkU0dkt1STVmeE0zb0g0S2t5QldVd1otQlV3U3NRN0ZZMXVXa2VXWldZVEZrZ1pYejVEUHpMQldJaTNBUC1MaVJXYVlTN09xUUFFYXl4MnlzVFJrMkt5WGpENFg1TGhtY01UdzRMaXhobDdJQkpVLW5IY28yTzM1bG83Mzh4UDl1RHNBYUc5NmhZeHc?oc=5)
 
 ---
 
