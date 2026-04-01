@@ -14,7 +14,7 @@ permalink: /news/tezepelumab/
 ---
 
 <p class="key-answer" data-question="Tezepelumab 有什麼相關新聞？">
-<strong>Tezepelumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tezepelumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/tezepelumab/
 <p><a href="{{ '/drugs/tezepelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
-### [Finerenon vermindert Proteinurie auch bei Typ-1-Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEdhLUM3N090ay1ua2JqVUxmNFFPUE1MNDhhVWFIYzBJc3Qya2NlYkd2NlAyOWpiQnJvRmYyY0J2X0FsU0hXa19HMTlVLVY2U3pNUVJzTmlkRU1kU2hmRUJOc1FBNC1ZVUIxR3BNT2p3UmhvcmNsRllRV3lhMXFVZG9uSnlDQndDM2tQZGduRzB2bTA2Q0JMZHpzVERDX1NPVWMzT2xuV2YtaE5yYmJ2TWQ3UDBWRnVpLVR5SElYMWthTFU?oc=5)
+### [Identificado un nuevo eje molecular regulador de la inflamación vascular en la diabetes](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmFtU2pTYkVnRHRnLUJPalNYRlhzMV9DQzFMV0ZZTEYxUUZjdVJaXzFMUVJkU29Xelp5WlB1TnVBVGtROF9jeUg5dkdVSV9UMXoyN2ZVbnNCYy1saHJQRFZiSWJYTmtKVjJROTFEOGdNSGhCeFJ4STZOdENTVXZHaDRiWkNDbVIwZzlfQ1VjdElyRERWY2JRbF9mc3pmVjFKek1EUWE1a0Zua28yb1lXVGVINU1qLWR2bV85M1FfMjF5blJTekZrZE5YbXFRUDZ5enFxSHNHaHp6NlpHQlM4?oc=5)
+
+2026-04-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmFtU2pTYkVnRHRnLUJPalNYRlhzMV9DQzFMV0ZZTEYxUUZjdVJaXzFMUVJkU29Xelp5WlB1TnVBVGtROF9jeUg5dkdVSV9UMXoyN2ZVbnNCYy1saHJQRFZiSWJYTmtKVjJROTFEOGdNSGhCeFJ4STZOdENTVXZHaDRiWkNDbVIwZzlfQ1VjdElyRERWY2JRbF9mc3pmVjFKek1EUWE1a0Zua28yb1lXVGVINU1qLWR2bV85M1FfMjF5blJTekZrZE5YbXFRUDZ5enFxSHNHaHp6NlpHQlM4?oc=5)
+
+---
+
+### [Eine Diabetesdiagnostik beim Zahnarzttermin ist sehr sinnvoll!](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
+
+2026-04-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[zm-online](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
+
+---
+
+### [Finerenon vermindert Proteinurie auch bei Typ-1-Diabetes – News](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEdhLUM3N090ay1ua2JqVUxmNFFPUE1MNDhhVWFIYzBJc3Qya2NlYkd2NlAyOWpiQnJvRmYyY0J2X0FsU0hXa19HMTlVLVY2U3pNUVJzTmlkRU1kU2hmRUJOc1FBNC1ZVUIxR3BNT2p3UmhvcmNsRllRV3lhMXFVZG9uSnlDQndDM2tQZGduRzB2bTA2Q0JMZHpzVERDX1NPVWMzT2xuV2YtaE5yYmJ2TWQ3UDBWRnVpLVR5SElYMWthTFU?oc=5)
 
 2026-03-31 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEdhLUM3N090ay1ua2JqVUxmNFFPUE1MNDhhVWFIYzBJc3Qya2NlYkd2NlAyOWpiQnJvRmYyY0J2X0FsU0hXa19HMTlVLVY2U3pNUVJzTmlkRU1kU2hmRUJOc1FBNC1ZVUIxR3BNT2p3UmhvcmNsRllRV3lhMXFVZG9uSnlDQndDM2tQZGduRzB2bTA2Q0JMZHpzVERDX1NPVWMzT2xuV2YtaE5yYmJ2TWQ3UDBWRnVpLVR5SElYMWthTFU?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEdhLUM3N090ay1ua2JqVUxmNFFPUE1MNDhhVWFIYzBJc3Qya2NlYkd2NlAyOWpiQnJvRmYyY0J2X0FsU0hXa19HMTlVLVY2U3pNUVJzTmlkRU1kU2hmRUJOc1FBNC1ZVUIxR3BNT2p3UmhvcmNsRllRV3lhMXFVZG9uSnlDQndDM2tQZGduRzB2bTA2Q0JMZHpzVERDX1NPVWMzT2xuV2YtaE5yYmJ2TWQ3UDBWRnVpLVR5SElYMWthTFU?oc=5)
 
 ---
 
@@ -68,19 +84,19 @@ permalink: /news/tezepelumab/
 
 ---
 
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
+
+2026-03-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
+
+---
+
 ### [Allenamento salva la vita, bastano pochi minuti: l'effetto contro infarto e diabete](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkVuUldiU09tRzZrRG0tSmw1N3RrVW9uMVh6MWtaeF9SWm1kYks3ZzFmV3RMYktuYUxiUEYwOVFqVERVUkZjVWI5T09nR1Z2M3YwU3hlelgzSTNEaEZ4cEtIWS1Qb3JQZHJvZDVVWDF3UWhfM1kyOVVDQ1dFV2tYTlNkUThadkFBdWdmY0drRE1Sc1BtNDFZMXBGZE9VSWRReG9N?oc=5)
 
 2026-03-30 <span class="news-indication-tag">diabete</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkVuUldiU09tRzZrRG0tSmw1N3RrVW9uMVh6MWtaeF9SWm1kYks3ZzFmV3RMYktuYUxiUEYwOVFqVERVUkZjVWI5T09nR1Z2M3YwU3hlelgzSTNEaEZ4cEtIWS1Qb3JQZHJvZDVVWDF3UWhfM1kyOVVDQ1dFV2tYTlNkUThadkFBdWdmY0drRE1Sc1BtNDFZMXBGZE9VSWRReG9N?oc=5)
-
----
-
-### [Se prendi metformina queste 3 cose dovresti (già) saperle - The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
-
-2026-03-30 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
 
 ---
 

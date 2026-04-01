@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,29 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [This Simple Habit Could Cut Your Risk of Dementia by 30%](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVhLa1JkMGN0NEJaYXd4VW9vSDQ4Z1hlNDJndFdlT1duc0pWWDl5eGk0Tm1Na1JMbHduVDczQzRwLTBXUm1EVGVjUlBiX3dwRGlDOXF2SzM5VWpyQVYzY01FaHdNd0lubklPem5hS3dXWE9hakpBVzVlQ09vTTFxWDFsZ3kxczFO?oc=5)
+
+2026-04-01
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVhLa1JkMGN0NEJaYXd4VW9vSDQ4Z1hlNDJndFdlT1duc0pWWDl5eGk0Tm1Na1JMbHduVDczQzRwLTBXUm1EVGVjUlBiX3dwRGlDOXF2SzM5VWpyQVYzY01FaHdNd0lubklPem5hS3dXWE9hakpBVzVlQ09vTTFxWDFsZ3kxczFO?oc=5)
+
+---
+
+### [Surprising study shows Alzheimer's may start in the body instead of the brain, a discovery that turns medical science upside down](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWZEVVVhUVFnMkowMElsUlhLeXZYTnB1Zjl6bHZlWFZsUVVOa0ktSG96bFVVWU5QUFMwb1czcVYtNVVaRWNkWHQ1c1YwcmJfcFJla1JXeGV0RVJhV240bUI5NzFjLWlmeXlySEUycVJ3Z0JYdGhJb25fVGM3aFJ4TG96VkN5Z1hVeHhHZ3o5bEVKclpXZXhfSjJIZ3ZJc3RVZGZ6bldHZWt4aDVPZEE?oc=5)
+
+2026-04-01
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWZEVVVhUVFnMkowMElsUlhLeXZYTnB1Zjl6bHZlWFZsUVVOa0ktSG96bFVVWU5QUFMwb1czcVYtNVVaRWNkWHQ1c1YwcmJfcFJla1JXeGV0RVJhV240bUI5NzFjLWlmeXlySEUycVJ3Z0JYdGhJb25fVGM3aFJ4TG96VkN5Z1hVeHhHZ3o5bEVKclpXZXhfSjJIZ3ZJc3RVZGZ6bldHZWt4aDVPZEE?oc=5)
+
+---
 
 ### [My daughter has childhood dementia and may not live past 16](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
 
 2026-03-31
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
 
 ---
 

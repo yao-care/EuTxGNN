@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Neue Medikamente verändern die Adipositas-Therapie](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWg2TjlnY0QxOWRScU5sdlZNWTZTN1ctdHVCOUpFQ1FtYVRJT0NqTGd1TS05VlBlSVhYYzZfWnh5OVV4Z3gtQnBLdlZ3Z2E5alJYUU1RcUQyaC15ME5CM0pSV1c4VmpUQkpDT1liMVlhdFVoR2VXNlA2U2VUdDJBeGVIdFFZcW5zMnR3?oc=5)
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
 
-2026-03-31 <span class="news-indication-tag">Adipositas</span>
+2026-03-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWg2TjlnY0QxOWRScU5sdlZNWTZTN1ctdHVCOUpFQ1FtYVRJT0NqTGd1TS05VlBlSVhYYzZfWnh5OVV4Z3gtQnBLdlZ3Z2E5alJYUU1RcUQyaC15ME5CM0pSV1c4VmpUQkpDT1liMVlhdFVoR2VXNlA2U2VUdDJBeGVIdFFZcW5zMnR3?oc=5)
-
----
-
-### [Gli effetti psicologici dei farmaci dimagranti - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
-
-2026-03-30 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
 
 ---
 

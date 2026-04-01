@@ -44,33 +44,33 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（4 則）
 
+### [Santé. Trois petits changements quotidiens pour baisser considérablement le risque de problèmes cardiaques - Le Progrès](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWVNHUjBQWHA1MWloUV9yOWR4UGNwX2pmRjZKVGFxNUdESl9qanVfODlIWTFzSUFBSnItaHRHU2l6QUExSG5fUzJNUHZtM1ZFLWdFUjZJc1lydW1qUWtnZE1QbEhnTlV6UlV0cUMtcFBNS2RUdjU0ZnlmZ2lmX3JFemxza0hWd3gtMzBub1RKOGxLSkxYbHlOVG9LYUZpTmlSa2FlSW95WlpTLWVxV3VUS1F2Vlo4a2tpb2JQdGVERW5EUDNqUTBuODFueFBDekZRNGFnckFrMy1oVU12dmR6VllKcXNaVlBM?oc=5)
+
+2026-04-01 <span class="news-indication-tag">AVC</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWVNHUjBQWHA1MWloUV9yOWR4UGNwX2pmRjZKVGFxNUdESl9qanVfODlIWTFzSUFBSnItaHRHU2l6QUExSG5fUzJNUHZtM1ZFLWdFUjZJc1lydW1qUWtnZE1QbEhnTlV6UlV0cUMtcFBNS2RUdjU0ZnlmZ2lmX3JFemxza0hWd3gtMzBub1RKOGxLSkxYbHlOVG9LYUZpTmlSa2FlSW95WlpTLWVxV3VUS1F2Vlo4a2tpb2JQdGVERW5EUDNqUTBuODFueFBDekZRNGFnckFrMy1oVU12dmR6VllKcXNaVlBM?oc=5)
+
+---
+
 ### [NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
 
-2026-04-01 <span class="news-indication-tag">stroke</span>
+2026-04-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
 
 ---
 
-### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
+### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
 
 2026-03-31 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
-
----
-
-### [Activité physique : ces 8 maladies qu'on peut éviter en prenant les escaliers - Pourquoi Docteur](https://news.google.com/rss/articles/CBMivAFBVV95cUxPR216dC1SV2o1Uk9MdFZBN1lHYjlGZzNmTnJCcTNvYndfZlpZZjhLa0dQdlpFLXhGSGt5bm9LYUlDbDhhejI4c28xR25TVzlSbUlPRDR0V1dCTzVTTzg4OTF5T0JiNl9uRl9PNlZoWnVOeHdYSVhldkpZTlFWZmRxZEpuTE5RMXhJYVFHYVF0VlExcWVyTVZfaTRHZGFucGxUM1duUnFFcnlxTXAzWDBjMEU4d3pLSW1GM2FjSg?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AVC</span>
-
-來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMivAFBVV95cUxPR216dC1SV2o1Uk9MdFZBN1lHYjlGZzNmTnJCcTNvYndfZlpZZjhLa0dQdlpFLXhGSGt5bm9LYUlDbDhhejI4c28xR25TVzlSbUlPRDR0V1dCTzVTTzg4OTF5T0JiNl9uRl9PNlZoWnVOeHdYSVhldkpZTlFWZmRxZEpuTE5RMXhJYVFHYVF0VlExcWVyTVZfaTRHZGFucGxUM1duUnFFcnlxTXAzWDBjMEU4d3pLSW1GM2FjSg?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
 
 ---
 
 ### [Irregular Bedtime Doubles Cardiac Risk - Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
 
-2026-03-30 <span class="news-indication-tag">stroke</span>
+2026-03-30 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
 來源：[Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
 

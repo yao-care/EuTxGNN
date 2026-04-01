@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Scoperta la proteina chiave per combattere la depressione](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThTRFIxdVdibGZRcHNrYzNHT0FWR2NTNzVyX3VRUGk3cmY0MjRvMDlLUHcweTZFT1RPTEc0cDZ6SXdEWUdmY3hYY1lKd1A4RlpkRk5hVGE2UFJoQWtVdC1oUjkyR0hkbHkzMnhlUGh4UktVM1M1ZFpPdTVkb2dmNGdlMXRKZw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">depression</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThTRFIxdVdibGZRcHNrYzNHT0FWR2NTNzVyX3VRUGk3cmY0MjRvMDlLUHcweTZFT1RPTEc0cDZ6SXdEWUdmY3hYY1lKd1A4RlpkRk5hVGE2UFJoQWtVdC1oUjkyR0hkbHkzMnhlUGh4UktVM1M1ZFpPdTVkb2dmNGdlMXRKZw?oc=5)
+
+---
+
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
+
+2026-03-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
+
+---
 
 
 <div class="disclaimer">

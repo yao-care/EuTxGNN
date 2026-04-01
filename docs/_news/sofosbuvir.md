@@ -44,6 +44,38 @@ permalink: /news/sofosbuvir/
 
 ## 相關新聞（10 則）
 
+### [Multivitamine bremsen das biologische Altern - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9WSnFMdEhvVjlDa1lQeVlkbnRjV3V2SHNmUkFRVXlJUVR6X1JBRFBzakJfNy1YZHRZUlBHSy1lQ213YjNqSU55bmNSMTNLeXBhT2lCMktFN2hBYmszYWhIVUhHeHB6a2pjUUpCMWV0MEhaZElpRGdLVzV1TGZhWC1oZHpMelRPNUxRaHE1ZXlQc3lPajBac25vbmN3RFZnMFhBakJ3?oc=5)
+
+2026-04-01 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9WSnFMdEhvVjlDa1lQeVlkbnRjV3V2SHNmUkFRVXlJUVR6X1JBRFBzakJfNy1YZHRZUlBHSy1lQ213YjNqSU55bmNSMTNLeXBhT2lCMktFN2hBYmszYWhIVUhHeHB6a2pjUUpCMWV0MEhaZElpRGdLVzV1TGZhWC1oZHpMelRPNUxRaHE1ZXlQc3lPajBac25vbmN3RFZnMFhBakJ3?oc=5)
+
+---
+
+### [Les parents sont invités à la vigilance : un cas d’hépatite A détecté dans un lycée de Perpignan, l'ARS donne l'alerte](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmRMU0ZBck1GLU9jWTBRRFF5SjdiOGkyUC1WMUtzNXhLZ1JaX3E1dGFpVTRLbzFSSkhoTXVlcDhrY1lld203Y3A1YnhybTVHVFhGYXZMWXpfdGhTN0ZZdnNKZml5NWx0YlNuMVJBMTJNT0VRYTBiTmdaMzFIMHFCYU9VRTZzd0RBYXFrWTlzR0UwM3hCSE9UQjY1YV9hZnFxWlRVWHVFcWdfZGg1Yk9vQTNZZ2poZXNENGQ3bmx0X1RvUnVqRVhjei1GX1h5WlF1QTB0YTdJRm9VU1ZvNVE?oc=5)
+
+2026-04-01 <span class="news-indication-tag">hépatite</span>
+
+來源：[lindependant.fr](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmRMU0ZBck1GLU9jWTBRRFF5SjdiOGkyUC1WMUtzNXhLZ1JaX3E1dGFpVTRLbzFSSkhoTXVlcDhrY1lld203Y3A1YnhybTVHVFhGYXZMWXpfdGhTN0ZZdnNKZml5NWx0YlNuMVJBMTJNT0VRYTBiTmdaMzFIMHFCYU9VRTZzd0RBYXFrWTlzR0UwM3hCSE9UQjY1YV9hZnFxWlRVWHVFcWdfZGg1Yk9vQTNZZ2poZXNENGQ3bmx0X1RvUnVqRVhjei1GX1h5WlF1QTB0YTdJRm9VU1ZvNVE?oc=5)
+
+---
+
+### [Dorking man becomes stem cell donor after transplant saves father](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
+
+2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
+
+---
+
+### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15 - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">epatite</span>
+
+來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+
+---
+
 ### [Horror Covid 'mask up' warning as new Cicada variant 'set to become dominant in UK' - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUdQbU54NjQ1M3VLZHl4c0czZ3hrQ2FEY3ZMdnppNjFyMU82cjZsUGhjOG1TdUpldUhrNUYxS1RKLU1tcWJ2TW5OMGRZNkU2YlZZOU5iYUFXZmJ1dVRhTzVjaW5KaHUyUS1KVnZuOEc3dllpVmdPclVoWjVUaEtiZ9IBhgFBVV95cUxQVXlHMGVweG4yazFMbzRUMno5ZUYyNlYteVdoZ0IwQWMtSzRVbjBGY0NzTmVpMVlzVE9NMjREelN1N0F5VjR4UnlHRUxjR3QtUHZlNkNlai1UVGVoSjhSbGp3WWtZUm9KT2EwQWI3RXF5cjNQMF80LWprNVVFZHh2SC14X1pHdw?oc=5)
 
 2026-04-01 <span class="news-indication-tag">MS</span>
@@ -60,19 +92,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [When how much you masturbate becomes a problem as Oxford University study reveals side effects](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUElsb0szVHFCYkdqTHJacDRVN2FuNE5iRFZPY3gxcm9uQU9LVmRrZF8yMDc1QV9TdXZfNjVGM212QTJjSXA3b2ltYkxXZE1kMU9HZzBYbjdPNXg1Qm50MVhxdXNJQUdwNEdBQTNJbkF2MGhlRHlGdGVUbkJGM3dCZHAxZ3pWX3dINmtzZkxFVWFKYXlsYkkzTHN0TFRRZlRKMTlr?oc=5)
+### [Spiegelbildliche Proteine als Schlüssel im Kampf gegen Alzheimer - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
 
-2026-03-31 <span class="news-indication-tag">MS</span>
+2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[ladbible.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUElsb0szVHFCYkdqTHJacDRVN2FuNE5iRFZPY3gxcm9uQU9LVmRrZF8yMDc1QV9TdXZfNjVGM212QTJjSXA3b2ltYkxXZE1kMU9HZzBYbjdPNXg1Qm50MVhxdXNJQUdwNEdBQTNJbkF2MGhlRHlGdGVUbkJGM3dCZHAxZ3pWX3dINmtzZkxFVWFKYXlsYkkzTHN0TFRRZlRKMTlr?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
 
 ---
 
-### [I frutti di bosco e l’epatite A - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+### [Épidémie d'hépatite A: ce que vous devez savoir](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeF8wa3hyLUs3aEFFb2V4Z251MlhoNjZMS25XNEQzQl90eEJYWklJWkJlMmxxZVJucXVqcld2WnN3elk3WVQ3SzRRQ1VYUEZkQWx5SUJvTUNHcTYzRzJ1d2hhUE9SNzdpYnVVSm9RSlRpZXJqVnBBdkJfUTVDWjA4N0RkYXNwcldscUZZNnhDeHZBS3QxZUVxN0tVb1lyQnM?oc=5)
 
-2026-03-31 <span class="news-indication-tag">epatite</span>
+2026-03-31 <span class="news-indication-tag">hépatite</span>
 
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+來源：[L'essentiel](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeF8wa3hyLUs3aEFFb2V4Z251MlhoNjZMS25XNEQzQl90eEJYWklJWkJlMmxxZVJucXVqcld2WnN3elk3WVQ3SzRRQ1VYUEZkQWx5SUJvTUNHcTYzRzJ1d2hhUE9SNzdpYnVVSm9RSlRpZXJqVnBBdkJfUTVDWjA4N0RkYXNwcldscUZZNnhDeHZBS3QxZUVxN0tVb1lyQnM?oc=5)
 
 ---
 
@@ -84,43 +116,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Tipp: Schlüsselrolle Vitamin D - Gesund ins Frühjahr starten und Speicher auffüllen - Lebensmittel enthalten nur wenig Vitamin D](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWnhfbFZ2SXhJOENSX1FSanRmdjZoNF9pVDJLNDRLX3lOcDVQTWVKLTBmXzRaS09UZjdmV18wVmlWOFNPN0tKcG5VYzJZZXRyMlZrdzhUYWdRQWZWSGtNd3Q3UENiNnBYNEh3VE1qRTJjMTZhaG0yaV9yU1c5SlhPX2JCZ1l3Rjk3U0VVQXZaY3Y0UG1fbEtaN1B5RUxWQlJlaFBaM0FoekJOZUliaTdiMURUVWVta1lfVUZNWEVFd1NBQnphQVVzM05QSFM5OTJSMDk2bVNHczJ0WVpBbFlMclpoRWhoclJqbElldllqbWZYM3U2anBxVzExWQ?oc=5)
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
 
-2026-03-30 <span class="news-indication-tag">MS</span>
+2026-03-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[brilon-totallokal.de](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWnhfbFZ2SXhJOENSX1FSanRmdjZoNF9pVDJLNDRLX3lOcDVQTWVKLTBmXzRaS09UZjdmV18wVmlWOFNPN0tKcG5VYzJZZXRyMlZrdzhUYWdRQWZWSGtNd3Q3UENiNnBYNEh3VE1qRTJjMTZhaG0yaV9yU1c5SlhPX2JCZ1l3Rjk3U0VVQXZaY3Y0UG1fbEtaN1B5RUxWQlJlaFBaM0FoekJOZUliaTdiMURUVWVta1lfVUZNWEVFd1NBQnphQVVzM05QSFM5OTJSMDk2bVNHczJ0WVpBbFlMclpoRWhoclJqbElldllqbWZYM3U2anBxVzExWQ?oc=5)
-
----
-
-### [Alzheimer-Forschung: Neue Zelltypen und Gentherapie im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
-
----
-
-### [The 9 best foods for your gut (and the 5 worst) - The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQjAtRG9pZjlSUmdHWHdoajl6ZlA5U2dEZTM5aVdLMlpOalBPNmZoSU1haU1NSUZBZUVuV3ltVXhTOFR4dTlfLWJqbDNpZ19DRWwwOVRadC1yS3ZBNnIyUWE2RXpseGw1bWh1S0lScmFFeTZVWm5NQktRMUlqbTIyeUM4RWxrWmsyR0szQ0lfbS1LelVPcTE3SW1fOTVLeV9RN0FLT1NHcTlhcDM2aENIMFhHQ0I?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQjAtRG9pZjlSUmdHWHdoajl6ZlA5U2dEZTM5aVdLMlpOalBPNmZoSU1haU1NSUZBZUVuV3ltVXhTOFR4dTlfLWJqbDNpZ19DRWwwOVRadC1yS3ZBNnIyUWE2RXpseGw1bWh1S0lScmFFeTZVWm5NQktRMUlqbTIyeUM4RWxrWmsyR0szQ0lfbS1LelVPcTE3SW1fOTVLeV9RN0FLT1NHcTlhcDM2aENIMFhHQ0I?oc=5)
-
----
-
-### [Se prendi metformina queste 3 cose dovresti (già) saperle - The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
-
-2026-03-30 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
-
----
-
-### [Allarme epatite A: dalla Asl l'allerta e i consigli per difendersi - Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUlHeExNSkNKelBLSDFNZTM2dTlkQ1BZUWNNSEZKN0h1VG5NZmVaT0hDQ2VkcFJTQ3lqZ2dWMzJmOGgwa0x3aTJpczZjNElZaHgtVmV5T1VNeUlmaVNUYTJ3U2FSQzROdGNXbE9wVDZDT2ZPcDNYSGpkZnBfQnlocU9OcVkzSzNNUW5rYWNnMzljTEpTN2p2dmI2OU5vVTVOX3JsOWVrSVpsdjZGQkViVDlJb1UwQjB4MkJB0gHAAUFVX3lxTE1NVEJJaG1waXNFRkgxQlpPSXJTMU54ZWRrY1BvbGNEOEt6b3ctdUc4T1c0Z3ExT1lVX1lzNHNfbkF6NF9aaW14NU5FZi1mMVByMzg2UWlmQVE5Z19QcG5YVzVxQjVnWVhvbHNOeGVLQmk0Q1VUYXdSUUtMRm9EaDMwa3lxclZtbldMR08yc3I2R0JuaTk2TFBUd1ZYbDBMQ0J0WTBjRXVZV3dPQ3NEdzBCd1ZOX2pIYjVVdDl1UlJDLQ?oc=5)
-
-2026-03-30 <span class="news-indication-tag">epatite</span>
-
-來源：[Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUlHeExNSkNKelBLSDFNZTM2dTlkQ1BZUWNNSEZKN0h1VG5NZmVaT0hDQ2VkcFJTQ3lqZ2dWMzJmOGgwa0x3aTJpczZjNElZaHgtVmV5T1VNeUlmaVNUYTJ3U2FSQzROdGNXbE9wVDZDT2ZPcDNYSGpkZnBfQnlocU9OcVkzSzNNUW5rYWNnMzljTEpTN2p2dmI2OU5vVTVOX3JsOWVrSVpsdjZGQkViVDlJb1UwQjB4MkJB0gHAAUFVX3lxTE1NVEJJaG1waXNFRkgxQlpPSXJTMU54ZWRrY1BvbGNEOEt6b3ctdUc4T1c0Z3ExT1lVX1lzNHNfbkF6NF9aaW14NU5FZi1mMVByMzg2UWlmQVE5Z19QcG5YVzVxQjVnWVhvbHNOeGVLQmk0Q1VUYXdSUUtMRm9EaDMwa3lxclZtbldMR08yc3I2R0JuaTk2TFBUd1ZYbDBMQ0J0WTBjRXVZV3dPQ3NEdzBCd1ZOX2pIYjVVdDl1UlJDLQ?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
 
 ---
 

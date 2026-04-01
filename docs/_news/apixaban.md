@@ -44,19 +44,19 @@ permalink: /news/apixaban/
 
 ## 相關新聞（2 則）
 
-### [Antikoagulanzien: Apixaban führt seltener zu Blutungen als Rivaroxaban – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
+### [Antikoagulanzien: Apixaban führt seltener zu Blutungen als Rivaroxaban – News](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
 
 2026-03-31 <span class="news-drug-tag">Apixaban</span> <span class="news-drug-tag">Rivaroxaban</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
 
 ---
 
-### [High blood pressure is damaging your brain, sight and sex life. Here’s how to bring it down - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
+### [Irregular Bedtime Doubles Cardiac Risk - Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
 
-2026-03-30 <span class="news-indication-tag">high blood pressure</span>
+2026-03-30 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
 
 ---
 

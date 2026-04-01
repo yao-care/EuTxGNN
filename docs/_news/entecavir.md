@@ -14,7 +14,7 @@ permalink: /news/entecavir/
 ---
 
 <p class="key-answer" data-question="Entecavir 有什麼相關新聞？">
-<strong>Entecavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Entecavir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/entecavir/
 <p><a href="{{ '/drugs/entecavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [I frutti di bosco e l’epatite A - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+### [Les parents sont invités à la vigilance : un cas d’hépatite A détecté dans un lycée de Perpignan, l'ARS donne l'alerte](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmRMU0ZBck1GLU9jWTBRRFF5SjdiOGkyUC1WMUtzNXhLZ1JaX3E1dGFpVTRLbzFSSkhoTXVlcDhrY1lld203Y3A1YnhybTVHVFhGYXZMWXpfdGhTN0ZZdnNKZml5NWx0YlNuMVJBMTJNT0VRYTBiTmdaMzFIMHFCYU9VRTZzd0RBYXFrWTlzR0UwM3hCSE9UQjY1YV9hZnFxWlRVWHVFcWdfZGg1Yk9vQTNZZ2poZXNENGQ3bmx0X1RvUnVqRVhjei1GX1h5WlF1QTB0YTdJRm9VU1ZvNVE?oc=5)
 
-2026-03-31 <span class="news-indication-tag">epatite</span>
+2026-04-01 <span class="news-indication-tag">hépatite</span>
+
+來源：[lindependant.fr](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmRMU0ZBck1GLU9jWTBRRFF5SjdiOGkyUC1WMUtzNXhLZ1JaX3E1dGFpVTRLbzFSSkhoTXVlcDhrY1lld203Y3A1YnhybTVHVFhGYXZMWXpfdGhTN0ZZdnNKZml5NWx0YlNuMVJBMTJNT0VRYTBiTmdaMzFIMHFCYU9VRTZzd0RBYXFrWTlzR0UwM3hCSE9UQjY1YV9hZnFxWlRVWHVFcWdfZGg1Yk9vQTNZZ2poZXNENGQ3bmx0X1RvUnVqRVhjei1GX1h5WlF1QTB0YTdJRm9VU1ZvNVE?oc=5)
+
+---
+
+### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15 - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+
+---
+
+### [Épidémie d'hépatite A: ce que vous devez savoir](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeF8wa3hyLUs3aEFFb2V4Z251MlhoNjZMS25XNEQzQl90eEJYWklJWkJlMmxxZVJucXVqcld2WnN3elk3WVQ3SzRRQ1VYUEZkQWx5SUJvTUNHcTYzRzJ1d2hhUE9SNzdpYnVVSm9RSlRpZXJqVnBBdkJfUTVDWjA4N0RkYXNwcldscUZZNnhDeHZBS3QxZUVxN0tVb1lyQnM?oc=5)
+
+2026-03-31 <span class="news-indication-tag">hépatite</span>
+
+來源：[L'essentiel](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeF8wa3hyLUs3aEFFb2V4Z251MlhoNjZMS25XNEQzQl90eEJYWklJWkJlMmxxZVJucXVqcld2WnN3elk3WVQ3SzRRQ1VYUEZkQWx5SUJvTUNHcTYzRzJ1d2hhUE9SNzdpYnVVSm9RSlRpZXJqVnBBdkJfUTVDWjA4N0RkYXNwcldscUZZNnhDeHZBS3QxZUVxN0tVb1lyQnM?oc=5)
 
 ---
 
@@ -57,14 +73,6 @@ permalink: /news/entecavir/
 2026-03-31 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Telemadrid](https://news.google.com/rss/articles/CBMigAJBVV95cUxNWmR1eXduc3RPbTZUVEVYZkNCWldOcmYweUxqUkwxX2k2WWhJZXRyZ0gxMjNBRXZIZTBPOVhybU5JaUlwTDB5UTVlV25mZUowSDMyQTMyNHVqSVFhUUI3R3hrUlBkNV9tTGtucTNaZDhhdl9ZX3lENlYtMDhHQVBrMDY1ZXZQOUpTQnhVMHU3Q200ZnNCdUFIYkZiVks3ZjVFQmU5dW91aG5YdGdnVTAtOHI3bmFoeEJOVVppTW5GOHRFVWJKM2EzLW9hQVJ3UWJRaXM5N1czdkg5VG9KVEVZTDFLM0ZaS25lTnpFbV9XXzNtSlN0T2Z5Q0Ria28zMEFf0gGAAkFVX3lxTE1aZHV5d25zdE9tNlRURVhmQ0JaV05yZjB5TGpSTDFfaTZZaElldHJnSDEyM0FFdkhlME85WHJtTklpSXBMMHlRNWVXbmZlSjBIMzJBMzI0dWpJUWFRQjdHeGtSUGQ1X21Ma25xM1pkOGF2X1lfeUQ2Vi0wOEdBUGswNjVldlA5SlNCeFUwdTdDbTRmc0J1QUhiRmJWSzdmNUVCZTl1b3Voblh0Z2dVMC04cjduYWh4Qk5VWmlNbkY4dEVVYkozYTMtb2FBUndRYlFpczk3VzN2SDlUb0pURVlMMUszRlpLbmVOekVtX1dfM21KU3RPZnlDRGJrbzMwQV8?oc=5)
-
----
-
-### [Allarme epatite A: dalla Asl l'allerta e i consigli per difendersi - Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUlHeExNSkNKelBLSDFNZTM2dTlkQ1BZUWNNSEZKN0h1VG5NZmVaT0hDQ2VkcFJTQ3lqZ2dWMzJmOGgwa0x3aTJpczZjNElZaHgtVmV5T1VNeUlmaVNUYTJ3U2FSQzROdGNXbE9wVDZDT2ZPcDNYSGpkZnBfQnlocU9OcVkzSzNNUW5rYWNnMzljTEpTN2p2dmI2OU5vVTVOX3JsOWVrSVpsdjZGQkViVDlJb1UwQjB4MkJB0gHAAUFVX3lxTE1NVEJJaG1waXNFRkgxQlpPSXJTMU54ZWRrY1BvbGNEOEt6b3ctdUc4T1c0Z3ExT1lVX1lzNHNfbkF6NF9aaW14NU5FZi1mMVByMzg2UWlmQVE5Z19QcG5YVzVxQjVnWVhvbHNOeGVLQmk0Q1VUYXdSUUtMRm9EaDMwa3lxclZtbldMR08yc3I2R0JuaTk2TFBUd1ZYbDBMQ0J0WTBjRXVZV3dPQ3NEdzBCd1ZOX2pIYjVVdDl1UlJDLQ?oc=5)
-
-2026-03-30 <span class="news-indication-tag">epatite</span>
-
-來源：[Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUlHeExNSkNKelBLSDFNZTM2dTlkQ1BZUWNNSEZKN0h1VG5NZmVaT0hDQ2VkcFJTQ3lqZ2dWMzJmOGgwa0x3aTJpczZjNElZaHgtVmV5T1VNeUlmaVNUYTJ3U2FSQzROdGNXbE9wVDZDT2ZPcDNYSGpkZnBfQnlocU9OcVkzSzNNUW5rYWNnMzljTEpTN2p2dmI2OU5vVTVOX3JsOWVrSVpsdjZGQkViVDlJb1UwQjB4MkJB0gHAAUFVX3lxTE1NVEJJaG1waXNFRkgxQlpPSXJTMU54ZWRrY1BvbGNEOEt6b3ctdUc4T1c0Z3ExT1lVX1lzNHNfbkF6NF9aaW14NU5FZi1mMVByMzg2UWlmQVE5Z19QcG5YVzVxQjVnWVhvbHNOeGVLQmk0Q1VUYXdSUUtMRm9EaDMwa3lxclZtbldMR08yc3I2R0JuaTk2TFBUd1ZYbDBMQ0J0WTBjRXVZV3dPQ3NEdzBCd1ZOX2pIYjVVdDl1UlJDLQ?oc=5)
 
 ---
 
