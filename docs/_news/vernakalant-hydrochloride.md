@@ -44,43 +44,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ## 相關新聞（21 則）
 
-### [Weight-loss jabs will be offered on NHS for people at risk of further heart attacks](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwTFlCUkdLSVB1Tl9JS1pSVFhzTE1xMEMwZEd6WmZOUTYtZmhRVmx4WmNNNFNHdWliRGJpMHExcjNrVkZmRGlBNENqOFozMnR5aTN5cDFXQlAwUlZ5?oc=5)
+### [NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
 
-2026-03-31 <span class="news-indication-tag">stroke</span>
+2026-04-01 <span class="news-indication-tag">stroke</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwTFlCUkdLSVB1Tl9JS1pSVFhzTE1xMEMwZEd6WmZOUTYtZmhRVmx4WmNNNFNHdWliRGJpMHExcjNrVkZmRGlBNENqOFozMnR5aTN5cDFXQlAwUlZ5?oc=5)
-
----
-
-### [My daughter has childhood dementia and may not live past 16](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
-
-2026-03-31 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
-
----
-
-### [Spiegelbildliche Proteine als Schlüssel im Kampf gegen Alzheimer](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
-
-2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
-
----
-
-### [Schlüsselprotein des Hörens entdeckt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
-
----
-
-### [East Grinstead man died in hospital after medicine not given](https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SUhtV0VwM1A3RTZydnAyMTNsMWxhblcyQVdSRHZfZXdSV1Qta2RCVU9IcEhjMzhvOEgwTXVGMVdwOFZFSEM1aVl6bF9VSHhlVXdtejBLTUJlMlpI?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SUhtV0VwM1A3RTZydnAyMTNsMWxhblcyQVdSRHZfZXdSV1Qta2RCVU9IcEhjMzhvOEgwTXVGMVdwOFZFSEM1aVl6bF9VSHhlVXdtejBLTUJlMlpI?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
 
 ---
 
@@ -92,6 +60,38 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [My daughter has childhood dementia and may not live past 16](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+
+2026-03-31 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+
+---
+
+### [Schlüsselprotein des Hörens entdeckt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
+
+---
+
+### [El menú ideal para reducir el riesgo de infarto: qué dicen las nuevas guías para cuidar el corazón](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd21MWW00OVdvN0F1Q09XT1o4RGd5anIxQTZOTGl3djgtdlc4MTEtRFBQOHB6NVJENktaRm1ra3VuN1Ffc25zWEhDeDRJUXVVZnB1cmtYVmJCVVYwenJkSzBXRzNMS04tQmxEYTBDXzlBdHdidmp1MWVoMDBfaFdfSi1ZQ2FIbm45YnBST19lOV9HRjU5MHRyNUlWaGExa1FQbTFFRnNGRkdnMnFYdGUzT0tCM2FkRV8zUl9WRUNNNHVFdzhxekRMMktveWtlWFpON3pGUXlR0gHwAUFVX3lxTE81TTloYVNEWWVhWndoRmRlOEYtNXlzVlNkamtYWFJSVEszWDRhVlBzTVNLeWwzb2Q4SkJVWjk0bkpFUlFsZUJSMU5OSXRrT2FzeGJDLVdtQ0NuOGF1SnVoMEhCU3ZlUVlPX2xlcDEyRG9kS0lfSVpaY0RuLUl3SGdqQkEwOC1NZVpPWHI5UXp2SGhzVlBUV0x5dWU1VWJwMHhZSEhBS18wTWdGRXhUeFJfUEJpY3ZoU1VOV3UyYjZsUDdtQU05aWtEYjlycGxra3VUTkZGQWtVa0xrMHJLYnZGdGM4MWZVRGFrZUs5MkJCTA?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd21MWW00OVdvN0F1Q09XT1o4RGd5anIxQTZOTGl3djgtdlc4MTEtRFBQOHB6NVJENktaRm1ra3VuN1Ffc25zWEhDeDRJUXVVZnB1cmtYVmJCVVYwenJkSzBXRzNMS04tQmxEYTBDXzlBdHdidmp1MWVoMDBfaFdfSi1ZQ2FIbm45YnBST19lOV9HRjU5MHRyNUlWaGExa1FQbTFFRnNGRkdnMnFYdGUzT0tCM2FkRV8zUl9WRUNNNHVFdzhxekRMMktveWtlWFpON3pGUXlR0gHwAUFVX3lxTE81TTloYVNEWWVhWndoRmRlOEYtNXlzVlNkamtYWFJSVEszWDRhVlBzTVNLeWwzb2Q4SkJVWjk0bkpFUlFsZUJSMU5OSXRrT2FzeGJDLVdtQ0NuOGF1SnVoMEhCU3ZlUVlPX2xlcDEyRG9kS0lfSVpaY0RuLUl3SGdqQkEwOC1NZVpPWHI5UXp2SGhzVlBUV0x5dWU1VWJwMHhZSEhBS18wTWdGRXhUeFJfUEJpY3ZoU1VOV3UyYjZsUDdtQU05aWtEYjlycGxra3VUTkZGQWtVa0xrMHJLYnZGdGM4MWZVRGFrZUs5MkJCTA?oc=5)
+
+---
+
+### [East Grinstead man died in hospital after medicine not given](https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SUhtV0VwM1A3RTZydnAyMTNsMWxhblcyQVdSRHZfZXdSV1Qta2RCVU9IcEhjMzhvOEgwTXVGMVdwOFZFSEM1aVl6bF9VSHhlVXdtejBLTUJlMlpI?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SUhtV0VwM1A3RTZydnAyMTNsMWxhblcyQVdSRHZfZXdSV1Qta2RCVU9IcEhjMzhvOEgwTXVGMVdwOFZFSEM1aVl6bF9VSHhlVXdtejBLTUJlMlpI?oc=5)
+
+---
+
 ### [Voici les signes qui indiquent que vous buvez bien trop de café - Biba Magazine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1ppdEpfd2R5QWZRLXVlVVVsbWpqWndzT3VFMTRpU211Y1VUSzEzVWxDekNFRzRlZGpSalA3bWU3TXFqMlkyVllJSlF4ekxKZFhUN0x4S2h5MDNOaDNodjRSZFNiek5RcGVYbnBUNTRlQVpBX1lUQlE5aUZpTGVKWFY2cG9udVgxVkVYSmtZb3lrNldFZmkyZEl2OE9fN1Vfc2g1MGJlUnVWU0JBd2s1OEd6QTRiVHhJbGo0?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
@@ -100,19 +100,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Ein langlebiger Mythos - die Wissenschaft hat enttäuschende Nachrichten für Vitamin-C-Hersteller](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUxTdWpLWFI1NmNydjRGa1JOaXhoNjVibFlmUWxCSk05WG1SVXUzdkZ1bGxNaTFEMTRFM0JFR2doaXY2NVBjZjJBMkhocml1NmZuTHRnUjZwOEY1M0FLaWE2S0g3Z2tOZDRFR3FlM2VwRGpNY0ZvWHJiMTE0UW9fNkc1S25iSEZ6Sjk4b0VqanMybG1XV3A5dkN4R0ZsaGxoUm1FYmQtdDZLOGs4ZlBXLVY5MlliX2QydzhVRm0yTW4taXZZQUx1SThya1RXenc?oc=5)
+### [Tragedy as Stoke-on-Trent mum, 32, died three weeks after giving birth](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
 
-來源：[Heidelberg24](https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUxTdWpLWFI1NmNydjRGa1JOaXhoNjVibFlmUWxCSk05WG1SVXUzdkZ1bGxNaTFEMTRFM0JFR2doaXY2NVBjZjJBMkhocml1NmZuTHRnUjZwOEY1M0FLaWE2S0g3Z2tOZDRFR3FlM2VwRGpNY0ZvWHJiMTE0UW9fNkc1S25iSEZ6Sjk4b0VqanMybG1XV3A5dkN4R0ZsaGxoUm1FYmQtdDZLOGs4ZlBXLVY5MlliX2QydzhVRm0yTW4taXZZQUx1SThya1RXenc?oc=5)
-
----
-
-### [Tragedy as Stoke-on-Trent mum, 32, died three weeks after giving birth - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
+來源：[stokesentinel.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
 
 ---
 
@@ -121,6 +113,22 @@ permalink: /news/vernakalant-hydrochloride/
 2026-03-31 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
+
+---
+
+### [Activité physique : ces 8 maladies qu'on peut éviter en prenant les escaliers - Pourquoi Docteur](https://news.google.com/rss/articles/CBMivAFBVV95cUxPR216dC1SV2o1Uk9MdFZBN1lHYjlGZzNmTnJCcTNvYndfZlpZZjhLa0dQdlpFLXhGSGt5bm9LYUlDbDhhejI4c28xR25TVzlSbUlPRDR0V1dCTzVTTzg4OTF5T0JiNl9uRl9PNlZoWnVOeHdYSVhldkpZTlFWZmRxZEpuTE5RMXhJYVFHYVF0VlExcWVyTVZfaTRHZGFucGxUM1duUnFFcnlxTXAzWDBjMEU4d3pLSW1GM2FjSg?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AVC</span>
+
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMivAFBVV95cUxPR216dC1SV2o1Uk9MdFZBN1lHYjlGZzNmTnJCcTNvYndfZlpZZjhLa0dQdlpFLXhGSGt5bm9LYUlDbDhhejI4c28xR25TVzlSbUlPRDR0V1dCTzVTTzg4OTF5T0JiNl9uRl9PNlZoWnVOeHdYSVhldkpZTlFWZmRxZEpuTE5RMXhJYVFHYVF0VlExcWVyTVZfaTRHZGFucGxUM1duUnFFcnlxTXAzWDBjMEU4d3pLSW1GM2FjSg?oc=5)
+
+---
+
+### [Neue Medikamente verändern die Adipositas-Therapie](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWg2TjlnY0QxOWRScU5sdlZNWTZTN1ctdHVCOUpFQ1FtYVRJT0NqTGd1TS05VlBlSVhYYzZfWnh5OVV4Z3gtQnBLdlZ3Z2E5alJYUU1RcUQyaC15ME5CM0pSV1c4VmpUQkpDT1liMVlhdFVoR2VXNlA2U2VUdDJBeGVIdFFZcW5zMnR3?oc=5)
+
+2026-03-31 <span class="news-indication-tag">Adipositas</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWg2TjlnY0QxOWRScU5sdlZNWTZTN1ctdHVCOUpFQ1FtYVRJT0NqTGd1TS05VlBlSVhYYzZfWnh5OVV4Z3gtQnBLdlZ3Z2E5alJYUU1RcUQyaC15ME5CM0pSV1c4VmpUQkpDT1liMVlhdFVoR2VXNlA2U2VUdDJBeGVIdFFZcW5zMnR3?oc=5)
 
 ---
 
@@ -134,7 +142,7 @@ permalink: /news/vernakalant-hydrochloride/
 
 ### [Psychology says the reason some people seem to barely age while others decline rapidly after 60 isn't genetic luck — it's that the ones who stay vital never let go of three things most people quietly surrender in their 50s: a reason to be somewhere, a person ex](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
 
-2026-03-30 <span class="news-indication-tag">AF</span>
+2026-03-31 <span class="news-indication-tag">AF</span>
 
 來源：[VegOut](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
 
@@ -142,17 +150,33 @@ permalink: /news/vernakalant-hydrochloride/
 
 ### [Irregular Bedtime Doubles Cardiac Risk - Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
 
-2026-03-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+2026-03-30 <span class="news-indication-tag">stroke</span>
 
 來源：[Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
 
 ---
 
-### [Biallelic variants in RNU2-2 cause the most prevalent known recessive neurodevelopmental disorder](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
+### [Alzheimer-Forschung: Neue Zelltypen und Gentherapie im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
+
+2026-03-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
+
+---
+
+### [Critical incident declared at hospital - The Argus](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDI1X1hjS1RsSDRHNDVoSHRCQ0xBeXJxcnlaeTZsR3AyNDhHcS1yd0phSnd0SEFPeW1WRm53Z3N6QWR5dFhBSUdsU1BDazVvS2J5ZDdKV2hDZWFKQWUydmlJRW5wYTRISXZkaXV5cjBDNmwtMUVwSlNTekZfQ1JxQUtFSDZiX1A1ZnR5RDlqNzNJMEk?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[The Argus](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDI1X1hjS1RsSDRHNDVoSHRCQ0xBeXJxcnlaeTZsR3AyNDhHcS1yd0phSnd0SEFPeW1WRm53Z3N6QWR5dFhBSUdsU1BDazVvS2J5ZDdKV2hDZWFKQWUydmlJRW5wYTRISXZkaXV5cjBDNmwtMUVwSlNTekZfQ1JxQUtFSDZiX1A1ZnR5RDlqNzNJMEk?oc=5)
+
+---
+
+### [New hope for children with severe epilepsy after Manchester study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
 
 2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
 
 ---
 
@@ -172,11 +196,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern - Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 2026-03-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[derbund.ch](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+來源：[Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 ---
 
@@ -185,30 +209,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-03-30 <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2paZTI4dE1MdEw1NFNBY0M5NU1kQ252eVNCNFVzR3hCaXZuTmFjZElkczRhX0NRa2Rkc1FxM29nZ1d0cEc3eE1HMVB6UUFqY0JlazNUb25UcVdjN2FsbU5WLXV1c1l4X1ZSMWo3S1U4elpkcVV5ZW9aUnRZMUxMVTY4UGZOQmw0NEY3dXNwZVJ2OFVhUF96Y1k1ai0wWmxESjZFZWRKOTRuVEpEeXVQbUVEZWJHWHhLNVR2NDIxOXVEVUdIazJ5cA?oc=5)
-
----
-
-### [Coventry man fears stroke or heart attack due to aspirin shortage](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oSDRiUkpNeXEzQzR2YXJRRzVYZXBoTTM2b3R5a204dkZuX1ZXSWVOdk1fWHp2LTBqdklrTGE4OTNwNDZSUnFnVHdxR1lsR2pweXFZYzVsMGVOaUV6?oc=5)
-
-2026-03-30 <span class="news-indication-tag">stroke</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oSDRiUkpNeXEzQzR2YXJRRzVYZXBoTTM2b3R5a204dkZuX1ZXSWVOdk1fWHp2LTBqdklrTGE4OTNwNDZSUnFnVHdxR1lsR2pweXFZYzVsMGVOaUV6?oc=5)
-
----
-
-### [Quelles sont ces machines à café qui accentueraient le mauvais cholestérol ? - La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjlMY0pIRWtXTVpQcjVwVnY5ZWs5a3d5VEJEMElRdUs4Nk5OV3JuWW5PcHc1SlRDSDlnb20zd1BrT2VqVkRxdzFNbmt4TkZtZC1DWXpjX3J0ZDZFQkxtZ3J5RU5oZHhwSnBJZnlUYkxyNENaSTJ1UVVhV0dHbmRsUDRMaUloelI0S0s2Mm1JMmdkUHdldFhQSG0xWm1ONEhVTjZxbm5kdzNHOFNTbUZXVy1XeGJBNWhiU3pGc2dCVGlWTXRaXzliVEJaT0pTUE9JVzlpanRWd29Rc28?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjlMY0pIRWtXTVpQcjVwVnY5ZWs5a3d5VEJEMElRdUs4Nk5OV3JuWW5PcHc1SlRDSDlnb20zd1BrT2VqVkRxdzFNbmt4TkZtZC1DWXpjX3J0ZDZFQkxtZ3J5RU5oZHhwSnBJZnlUYkxyNENaSTJ1UVVhV0dHbmRsUDRMaUloelI0S0s2Mm1JMmdkUHdldFhQSG0xWm1ONEhVTjZxbm5kdzNHOFNTbUZXVy1XeGJBNWhiU3pGc2dCVGlWTXRaXzliVEJaT0pTUE9JVzlpanRWd29Rc28?oc=5)
-
----
-
-### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
-
-2026-03-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
 
 ---
 

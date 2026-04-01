@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Weight-loss jabs will be offered on NHS for people at risk of further heart attacks](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwTFlCUkdLSVB1Tl9JS1pSVFhzTE1xMEMwZEd6WmZOUTYtZmhRVmx4WmNNNFNHdWliRGJpMHExcjNrVkZmRGlBNENqOFozMnR5aTN5cDFXQlAwUlZ5?oc=5)
+### [NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
 
-2026-03-31
+2026-04-01
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwTFlCUkdLSVB1Tl9JS1pSVFhzTE1xMEMwZEd6WmZOUTYtZmhRVmx4WmNNNFNHdWliRGJpMHExcjNrVkZmRGlBNENqOFozMnR5aTN5cDFXQlAwUlZ5?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
 
 ---
 
@@ -57,27 +57,19 @@ permalink: /news/stroke/
 
 ---
 
+### [Activité physique : ces 8 maladies qu'on peut éviter en prenant les escaliers - Pourquoi Docteur](https://news.google.com/rss/articles/CBMivAFBVV95cUxPR216dC1SV2o1Uk9MdFZBN1lHYjlGZzNmTnJCcTNvYndfZlpZZjhLa0dQdlpFLXhGSGt5bm9LYUlDbDhhejI4c28xR25TVzlSbUlPRDR0V1dCTzVTTzg4OTF5T0JiNl9uRl9PNlZoWnVOeHdYSVhldkpZTlFWZmRxZEpuTE5RMXhJYVFHYVF0VlExcWVyTVZfaTRHZGFucGxUM1duUnFFcnlxTXAzWDBjMEU4d3pLSW1GM2FjSg?oc=5)
+
+2026-03-31
+
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMivAFBVV95cUxPR216dC1SV2o1Uk9MdFZBN1lHYjlGZzNmTnJCcTNvYndfZlpZZjhLa0dQdlpFLXhGSGt5bm9LYUlDbDhhejI4c28xR25TVzlSbUlPRDR0V1dCTzVTTzg4OTF5T0JiNl9uRl9PNlZoWnVOeHdYSVhldkpZTlFWZmRxZEpuTE5RMXhJYVFHYVF0VlExcWVyTVZfaTRHZGFucGxUM1duUnFFcnlxTXAzWDBjMEU4d3pLSW1GM2FjSg?oc=5)
+
+---
+
 ### [Irregular Bedtime Doubles Cardiac Risk - Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
 
 2026-03-30
 
 來源：[Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
-
----
-
-### [Coventry man fears stroke or heart attack due to aspirin shortage](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oSDRiUkpNeXEzQzR2YXJRRzVYZXBoTTM2b3R5a204dkZuX1ZXSWVOdk1fWHp2LTBqdklrTGE4OTNwNDZSUnFnVHdxR1lsR2pweXFZYzVsMGVOaUV6?oc=5)
-
-2026-03-30
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oSDRiUkpNeXEzQzR2YXJRRzVYZXBoTTM2b3R5a204dkZuX1ZXSWVOdk1fWHp2LTBqdklrTGE4OTNwNDZSUnFnVHdxR1lsR2pweXFZYzVsMGVOaUV6?oc=5)
-
----
-
-### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
-
-2026-03-30
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
 
 ---
 

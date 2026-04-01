@@ -14,7 +14,7 @@ permalink: /news/eltrombopag/
 ---
 
 <p class="key-answer" data-question="Eltrombopag 有什麼相關新聞？">
-<strong>Eltrombopag</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Eltrombopag</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ permalink: /news/eltrombopag/
 <p><a href="{{ '/drugs/eltrombopag/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
+
+### [Krebs: Selbst geheilt ist nicht vorbei - Was im Darm zurückbleibt, kann Krebs fördern](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzNtVmVoVHNpc05uY2piX3I1V2w1ajA3Zk5BQjN6dVMzSV94ekY0em5naDlITTR0ODFKcDJVZGNmSXlGOV9QOEJkdDE4eEh2SlhaNE1hdjNBQXZObmdTb216MGQweEJJN1MtTTZ3TnpKQ2Mxbkd4ajhUNmRvbUxkY0c2VjVOZzFVNERxWjVCNWdzelFsT01OaWJEUWVXUHJVUkwxakxoOFBVeUpJY3Naak9scUFWa19pRkFxVWVzaC1FMmdzUkE2QnFXRmxtLS1uZW5zc2hkYTVUUjdoaFdTd3VlR00xZw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzNtVmVoVHNpc05uY2piX3I1V2w1ajA3Zk5BQjN6dVMzSV94ekY0em5naDlITTR0ODFKcDJVZGNmSXlGOV9QOEJkdDE4eEh2SlhaNE1hdjNBQXZObmdTb216MGQweEJJN1MtTTZ3TnpKQ2Mxbkd4ajhUNmRvbUxkY0c2VjVOZzFVNERxWjVCNWdzelFsT01OaWJEUWVXUHJVUkwxakxoOFBVeUpJY3Naak9scUFWa19pRkFxVWVzaC1FMmdzUkE2QnFXRmxtLS1uZW5zc2hkYTVUUjdoaFdTd3VlR00xZw?oc=5)
+
+---
+
+### [Solo el 38% de los palentinos pasan cribados de cáncer de colon, con 160 casos en 2024 - El Norte de Castilla](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVNjckEzZXNoNy1DY3k2RWM3dFVTakJCcm1WN1RFWGFvOWZjYUMzM3JsSkFRQWg0UG1KZnA1VW1NOFdHaVlBYjlaUFJyalBtazB2STFWOWNsWF8wcmNHY1gtdEJBZ1k2N3FDajJ6WF85cHVNOXRGYWc2YVhzcjZTclZiSlg1ZVItS2lsS05WeE5KRzdYZkUzWDZacmZRS00yNVhKZHZJeDA2aUM4QzlkU0NR0gG3AUFVX3lxTE81LUR2RzltaWlDcVVXRkUwRkNxZFNiM01CMkRXekhzNXVjTFoyQ0EycjFNUGZMQ21aSUN4REJ3am5LcEd5MUJISUdEcURWYUpXbGZuT3BrZVZkbWgzYTFIdEZVVjZaU3VJS1Y5R2FMX2x4VERzSkN0ci1kUUl2N1I5NjZVcmdXcW1qUDJGb3J1X2cxU2pSOXdBVkdCdWJNR1Y1VlRLeVBYR2F6X1BrUUxnRVg2eGV4bw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">tumor</span>
+
+來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVNjckEzZXNoNy1DY3k2RWM3dFVTakJCcm1WN1RFWGFvOWZjYUMzM3JsSkFRQWg0UG1KZnA1VW1NOFdHaVlBYjlaUFJyalBtazB2STFWOWNsWF8wcmNHY1gtdEJBZ1k2N3FDajJ6WF85cHVNOXRGYWc2YVhzcjZTclZiSlg1ZVItS2lsS05WeE5KRzdYZkUzWDZacmZRS00yNVhKZHZJeDA2aUM4QzlkU0NR0gG3AUFVX3lxTE81LUR2RzltaWlDcVVXRkUwRkNxZFNiM01CMkRXekhzNXVjTFoyQ0EycjFNUGZMQ21aSUN4REJ3am5LcEd5MUJISUdEcURWYUpXbGZuT3BrZVZkbWgzYTFIdEZVVjZaU3VJS1Y5R2FMX2x4VERzSkN0ci1kUUl2N1I5NjZVcmdXcW1qUDJGb3J1X2cxU2pSOXdBVkdCdWJNR1Y1VlRLeVBYR2F6X1BrUUxnRVg2eGV4bw?oc=5)
+
+---
+
+### [Mit der E-Zigarette zum Nichtraucher](https://news.google.com/rss/articles/CBMifkFVX3lxTE5kSlJHQ2ZJYURhZDZQZ191TjJLS29yc2FfNFVOTlhRQTRVOGc0Z1RzSWtqWUkwaFd2Y1hIb0dfcFVNUVpNRWt0Q0plcHQtbXl1MXhUWHg0QUItTDhjV0Y3VWc4czN6UGw2QnZNNmpidmhVd1dpZURiVk53eGlsdw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">Krebs</span>
+
+來源：[Pressetext](https://news.google.com/rss/articles/CBMifkFVX3lxTE5kSlJHQ2ZJYURhZDZQZ191TjJLS29yc2FfNFVOTlhRQTRVOGc0Z1RzSWtqWUkwaFd2Y1hIb0dfcFVNUVpNRWt0Q0plcHQtbXl1MXhUWHg0QUItTDhjV0Y3VWc4czN6UGw2QnZNNmpidmhVd1dpZURiVk53eGlsdw?oc=5)
+
+---
+
+### [So häufig wird der Krebs erst nach dem Tod erkannt - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1RRTW80VlE2eEJpVGhpMFBPOXVLeG8yZExqOU53T1hlODc1TWtFZmdjZXNlVkdGOUNLYW9pQVZJcjNQSW1lUzVXTVAteDY1TTFQVVJfSENyY25pX2pWMDcxS2t3Uldud0NKOUVHSDhBWFExRm9TRGZnajlqdHQ1YUVOcWZwUndCbHl5UVd6eUlPcjJRalRlVS0ycENoQkNoekZF?oc=5)
+
+2026-04-01 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1RRTW80VlE2eEJpVGhpMFBPOXVLeG8yZExqOU53T1hlODc1TWtFZmdjZXNlVkdGOUNLYW9pQVZJcjNQSW1lUzVXTVAteDY1TTFQVVJfSENyY25pX2pWMDcxS2t3Uldud0NKOUVHSDhBWFExRm9TRGZnajlqdHQ1YUVOcWZwUndCbHl5UVd6eUlPcjJRalRlVS0ycENoQkNoekZF?oc=5)
+
+---
 
 ### [Bowel cancer: GP diagnosed at 49 wants screening programme expanded](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNkdLRDVEWDl5dmRmZ3hwOHJvWTYxSU91X1lfUHVlM0tYWW5UZVNuQXg1d1E4OVhlRUVua2NydTA0dzBGVjlMRWZGSmY1SzE3dWhHR3RMa1hDWU1a?oc=5)
 
@@ -60,17 +92,9 @@ permalink: /news/eltrombopag/
 
 ---
 
-### [España se sitúa por debajo de la recomendación europea en participación en cribado de cáncer colorrectal tras más de una década](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeDY0U0tPTFZyc2oweHljeF9tTHVjV2RKVFpyUzdkaUM3QjVvSmYxNFZRMHhkdEZCcGF3UzJ4dlFQMy1SVE5XS292WjVfMUhPYXB1dkpfY2JWSVhETG5vQWs0bDFWVG9YZkg2LTF1dHA1bXlxcUgtZkRnOHJCR0hVbWtsOEFGeG5yM1BEMXVQWi1ldDBOZ2o3QkhKaU5wYnhSdHRRdnp4a0NDY1kta0J3elY4TnpwSG9Rakp1QWhXSmJoNTRCSG1nWWltMFItdw?oc=5)
-
-2026-03-31 <span class="news-indication-tag">tumor</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeDY0U0tPTFZyc2oweHljeF9tTHVjV2RKVFpyUzdkaUM3QjVvSmYxNFZRMHhkdEZCcGF3UzJ4dlFQMy1SVE5XS292WjVfMUhPYXB1dkpfY2JWSVhETG5vQWs0bDFWVG9YZkg2LTF1dHA1bXlxcUgtZkRnOHJCR0hVbWtsOEFGeG5yM1BEMXVQWi1ldDBOZ2o3QkhKaU5wYnhSdHRRdnp4a0NDY1kta0J3elY4TnpwSG9Rakp1QWhXSmJoNTRCSG1nWWltMFItdw?oc=5)
-
----
-
 ### [À 26 ans, elle ignore ces signaux…, le cancer s’est déjà propagé - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
 
-2026-03-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-03-31 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
 
@@ -81,14 +105,6 @@ permalink: /news/eltrombopag/
 2026-03-31 <span class="news-indication-tag">cancer</span>
 
 來源：[Presse-citron](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFF6Z2xLODRQZDhuTmxQRms4OE5XbHp1QmptWkNvdy1ZS0daVEcyUUtURFIyTmQ3cS1KOTZpZk1acWIxQ3V5aVRSV2Q1bHZ6T3M4MWVxUlo3MGV2Mkl3RGlsZ0FrMURxT0NEczNuS21qRzFVT3o1anU3WEtvVVlUeWhKanhEdHhSLWxKa3EwZXc4Tkt1SFYwNmVLWkdMV1I5dXVRRzN3?oc=5)
-
----
-
-### [Forschungsstand: Wie krebserregend Vapen ist - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpITVotR3hGNmFSWi1LNExXOUk2eDZmY3ZNeUY0bW5pbXRSOU9QdjNfNjFGMG5Dcm15MXRnQy1vM1NZc2ExWmpRWmE0LTlNQ01mYVRNR2RwYzJLR3FCMUtITG9pMWptTHk4ZFE2eTRZZHpTc3dtMDRTVlRLWW5SSlpNVU5lTllNY19ObmdSTQ?oc=5)
-
-2026-03-31 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpITVotR3hGNmFSWi1LNExXOUk2eDZmY3ZNeUY0bW5pbXRSOU9QdjNfNjFGMG5Dcm15MXRnQy1vM1NZc2ExWmpRWmE0LTlNQ01mYVRNR2RwYzJLR3FCMUtITG9pMWptTHk4ZFE2eTRZZHpTc3dtMDRTVlRLWW5SSlpNVU5lTllNY19ObmdSTQ?oc=5)
 
 ---
 
@@ -132,14 +148,6 @@ permalink: /news/eltrombopag/
 
 ---
 
-### [Deadly bowel cancer cases MISSED as a third of Brits ignore vital checks – are you at risk? - The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWdkckRRNUpib3dnajBZVGJQYVYwOU5seVg3V0QyUmdTay03UmtiNjk1akpkdTJoT0p4OXlJTDBRellnQ2J4OHlTTGdodHo0OFF6YnBqMTZELXBDR1dQZFhENEZSN21sY0MxNmFtZENaMmtWVTFrM2dRRUQyVHFKQ0pLZFpvSU9JOHE0b293Qm9PMFdVRkNRa2pfTEp0UV9UOFE?oc=5)
-
-2026-03-30 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWdkckRRNUpib3dnajBZVGJQYVYwOU5seVg3V0QyUmdTay03UmtiNjk1akpkdTJoT0p4OXlJTDBRellnQ2J4OHlTTGdodHo0OFF6YnBqMTZELXBDR1dQZFhENEZSN21sY0MxNmFtZENaMmtWVTFrM2dRRUQyVHFKQ0pLZFpvSU9JOHE0b293Qm9PMFdVRkNRa2pfTEp0UV9UOFE?oc=5)
-
----
-
 ### [expert reaction to qualitative risk assessment on the carcinogenicity of e-cigarettes - Science Media Centre](https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2pJS05VTTVDNE5Qb28xUzdydlUwelVWb05uQTA5ZUItUlhPWnd2RUk3cmNISkxfb3lSa1lrSUYwRVJJT2tYaUFRQ2N0dm9ERHFIdGduRlQwM09hcElOZll5cmZNN1B0cEg3al9Ca3JWenRycVlSMGZsSm9qUGNLdHk1OEQ2S1paT0xTaVdLYWY0a1N1ZnNOZTBhOFpreHFQRkp6cGNNUHBqaTJhTnh0Wl9qX2dlX1ROV0VmS3JR?oc=5)
 
 2026-03-30 <span class="news-indication-tag">cancer</span>
@@ -156,11 +164,11 @@ permalink: /news/eltrombopag/
 
 ---
 
-### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern - Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 2026-03-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[derbund.ch](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+來源：[Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 ---
 
