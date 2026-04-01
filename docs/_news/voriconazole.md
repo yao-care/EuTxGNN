@@ -14,7 +14,7 @@ permalink: /news/voriconazole/
 ---
 
 <p class="key-answer" data-question="Voriconazole 有什麼相關新聞？">
-<strong>Voriconazole</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Voriconazole</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/voriconazole/
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（15 則）
+
+### [Neurowissenschaften: Das Gehirn ist lebenslang formbarer als gedacht - AD HOC NEWS](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGhrZXh1RHVtS0dWTE5vZk1DLU51MjRtWTBMSjM1MTdzdkFEVlZoR3g4UkFyeWhwSGpmZGxzMkpVVEQybGFOUlVEaFI0QWRrSjVfNmgyYWg4QkNISkJmaU1VTFdHRkx0Z2pCajVHcE1xanRuQWE5ZzdzZUJoTnI2Z0ZZV2g4NzFSTWlic2MtUWNjTUdnWkxOY2hGZGVkNnVQYTlZLWNEYTJLaWh4dzJBRE1pX3RDcUplX0ZqMTJBMldPcGtR?oc=5)
+
+2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGhrZXh1RHVtS0dWTE5vZk1DLU51MjRtWTBMSjM1MTdzdkFEVlZoR3g4UkFyeWhwSGpmZGxzMkpVVEQybGFOUlVEaFI0QWRrSjVfNmgyYWg4QkNISkJmaU1VTFdHRkx0Z2pCajVHcE1xanRuQWE5ZzdzZUJoTnI2Z0ZZV2g4NzFSTWlic2MtUWNjTUdnWkxOY2hGZGVkNnVQYTlZLWNEYTJLaWh4dzJBRE1pX3RDcUplX0ZqMTJBMldPcGtR?oc=5)
+
+---
+
+### [Multivitamine bremsen das biologische Altern - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9WSnFMdEhvVjlDa1lQeVlkbnRjV3V2SHNmUkFRVXlJUVR6X1JBRFBzakJfNy1YZHRZUlBHSy1lQ213YjNqSU55bmNSMTNLeXBhT2lCMktFN2hBYmszYWhIVUhHeHB6a2pjUUpCMWV0MEhaZElpRGdLVzV1TGZhWC1oZHpMelRPNUxRaHE1ZXlQc3lPajBac25vbmN3RFZnMFhBakJ3?oc=5)
+
+2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9WSnFMdEhvVjlDa1lQeVlkbnRjV3V2SHNmUkFRVXlJUVR6X1JBRFBzakJfNy1YZHRZUlBHSy1lQ213YjNqSU55bmNSMTNLeXBhT2lCMktFN2hBYmszYWhIVUhHeHB6a2pjUUpCMWV0MEhaZElpRGdLVzV1TGZhWC1oZHpMelRPNUxRaHE1ZXlQc3lPajBac25vbmN3RFZnMFhBakJ3?oc=5)
+
+---
 
 ### [Formal complaint after breast screening unit relocated](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORUF5RHdxbll0dG1oc0RYUWRST2NqN1MtcFBCd2dESGYyUHJUblFWdGE2ZVNLZ2UxQnNkQk5fUFBWSWVoWWNGNTBQMzI0WFhLaldJVkdmbGp5ZERa?oc=5)
 
 2026-04-01 <span class="news-indication-tag">AF</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORUF5RHdxbll0dG1oc0RYUWRST2NqN1MtcFBCd2dESGYyUHJUblFWdGE2ZVNLZ2UxQnNkQk5fUFBWSWVoWWNGNTBQMzI0WFhLaldJVkdmbGp5ZERa?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORUF5RHdxbll0dG1oc0RYUWRST2NqN1MtcFBCd2dESGYyUHJUblFWdGE2ZVNLZ2UxQnNkQk5fUFBWSWVoWWNGNTBQMzI0WFhLaldJVkdmbGp5ZERa?oc=5)
 
 ---
 
@@ -56,7 +72,15 @@ permalink: /news/voriconazole/
 
 2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
+
+---
+
+### ['My special blood helps critically ill babies'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fczk4R3lxekNUcGdiTDlmeDFGTGFtQTFWSV9YYTJwbGhma1gyNjRhVE1lRDREZGVDT2tRU1hvd2htV24xWHlMVmZMZ2xubTl3dUx4ZUVPbXVVUXBk?oc=5)
+
+2026-04-01 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fczk4R3lxekNUcGdiTDlmeDFGTGFtQTFWSV9YYTJwbGhma1gyNjRhVE1lRDREZGVDT2tRU1hvd2htV24xWHlMVmZMZ2xubTl3dUx4ZUVPbXVVUXBk?oc=5)
 
 ---
 
@@ -72,15 +96,7 @@ permalink: /news/voriconazole/
 
 2026-04-01 <span class="news-indication-tag">AF</span>
 
-來源：[VegOut](https://news.google.com/rss/articles/CBMi0gJBVV95cUxQMnBoOF93VWl5TkJMVHUtamUyU092VXJ2LUFnNXg0cGV3Qm9pTXpPRGRaMGpDbXRMMXY3ZE55WWowZ3JzelpzdmQxQkxlNHV0VWRJMFc2WGhJYW5sYUt3NGRDNkp5bFpWakVyYkk2TTBfZ2YyTGNORHBEd2MtOVJCVVdVaU1OU1pzeExKZzRxenBHNGpOYVpORG14bk1lWHFoZy1iUmNkbHJMbGEzY0xDdENiOHF4cGVPWWJYS283c1JFejI5endPaUE2ZVU1NGRJczN3Ujlqa215ZzFadVBod0VDY0drVkNPVHJKbmdhbUJxcFFGSUZyd1I2TUZ0SlVHZ0hUR25JMnhrZEVmY2VZSE9pN19lR05VUTd6ajRFTS1xWTJ5N09TTXhDMDVFbVIwblNteXk2TmpvVG9IWkdHM1prWTgzNHltTXc4TEI0TjZaUQ?oc=5)
-
----
-
-### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
-
-2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
+來源：[vegoutmag.com](https://news.google.com/rss/articles/CBMi0gJBVV95cUxQMnBoOF93VWl5TkJMVHUtamUyU092VXJ2LUFnNXg0cGV3Qm9pTXpPRGRaMGpDbXRMMXY3ZE55WWowZ3JzelpzdmQxQkxlNHV0VWRJMFc2WGhJYW5sYUt3NGRDNkp5bFpWakVyYkk2TTBfZ2YyTGNORHBEd2MtOVJCVVdVaU1OU1pzeExKZzRxenBHNGpOYVpORG14bk1lWHFoZy1iUmNkbHJMbGEzY0xDdENiOHF4cGVPWWJYS283c1JFejI5endPaUE2ZVU1NGRJczN3Ujlqa215ZzFadVBod0VDY0drVkNPVHJKbmdhbUJxcFFGSUZyd1I2TUZ0SlVHZ0hUR25JMnhrZEVmY2VZSE9pN19lR05VUTd6ajRFTS1xWTJ5N09TTXhDMDVFbVIwblNteXk2TmpvVG9IWkdHM1prWTgzNHltTXc4TEI0TjZaUQ?oc=5)
 
 ---
 
@@ -88,23 +104,7 @@ permalink: /news/voriconazole/
 
 2026-03-31 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
-
----
-
-### [Neue Ernährungsrichtlinien zur Verbesserung der Herzgesundheit - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWpjSmFyOTZ0Q2JHSlhwbnVMZnRidGdqMU1uaW9kdm1kVEFBUVFzcjdKaTE3Z2s5Ym14T2hOUk5vWkl3MThxZlhDbFlPajh3bzR1cWxyb0VMVjV3VEt1S2d5QkhSWWJIWGZfb2ZKeEpsRG1hMnFpeHlnY3hVX0hPNnJRZ2hmYWNvdXJOX003QWdZSHFqS3dDOHBMTQ?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWpjSmFyOTZ0Q2JHSlhwbnVMZnRidGdqMU1uaW9kdm1kVEFBUVFzcjdKaTE3Z2s5Ym14T2hOUk5vWkl3MThxZlhDbFlPajh3bzR1cWxyb0VMVjV3VEt1S2d5QkhSWWJIWGZfb2ZKeEpsRG1hMnFpeHlnY3hVX0hPNnJRZ2hmYWNvdXJOX003QWdZSHFqS3dDOHBMTQ?oc=5)
-
----
-
-### [Spiegelbildliche Proteine als Schlüssel im Kampf gegen Alzheimer - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
-
-2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
 
 ---
 
@@ -112,7 +112,7 @@ permalink: /news/voriconazole/
 
 2026-03-31 <span class="news-indication-tag">AF</span>
 
-來源：[VegOut](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
+來源：[vegoutmag.com](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
 
 ---
 
@@ -124,43 +124,35 @@ permalink: /news/voriconazole/
 
 ---
 
-### [El menú ideal para reducir el riesgo de infarto: qué dicen las nuevas guías para cuidar el corazón](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd21MWW00OVdvN0F1Q09XT1o4RGd5anIxQTZOTGl3djgtdlc4MTEtRFBQOHB6NVJENktaRm1ra3VuN1Ffc25zWEhDeDRJUXVVZnB1cmtYVmJCVVYwenJkSzBXRzNMS04tQmxEYTBDXzlBdHdidmp1MWVoMDBfaFdfSi1ZQ2FIbm45YnBST19lOV9HRjU5MHRyNUlWaGExa1FQbTFFRnNGRkdnMnFYdGUzT0tCM2FkRV8zUl9WRUNNNHVFdzhxekRMMktveWtlWFpON3pGUXlR0gHwAUFVX3lxTE81TTloYVNEWWVhWndoRmRlOEYtNXlzVlNkamtYWFJSVEszWDRhVlBzTVNLeWwzb2Q4SkJVWjk0bkpFUlFsZUJSMU5OSXRrT2FzeGJDLVdtQ0NuOGF1SnVoMEhCU3ZlUVlPX2xlcDEyRG9kS0lfSVpaY0RuLUl3SGdqQkEwOC1NZVpPWHI5UXp2SGhzVlBUV0x5dWU1VWJwMHhZSEhBS18wTWdGRXhUeFJfUEJpY3ZoU1VOV3UyYjZsUDdtQU05aWtEYjlycGxra3VUTkZGQWtVa0xrMHJLYnZGdGM4MWZVRGFrZUs5MkJCTA?oc=5)
+### [Aumentan los casos de cáncer de colon en menores de 40: Experta enfatiza importancia de la colonoscopia - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeUFCVExJMlBRZHdNNDl4Vkpzbm1qaENrOXN3a29MRGZuWm9icm1uVHRSa2szZHVJZEV3OHhhTWhhOGVTR00tanZ4VWxqb0ZEUW9QYlhrX3F6ZjdQbDJ3czJpMFJJb2RjdzVJN2RmVnJmTmFWWWRpOUVpcXBZWk5xa3cwNTJrdi14d1EzUjROOFlKQ2p1bmwtYU8wWEUxc3Z5S2wzdWVPZU1JeExOVThEb2MxSkFLaVM2Q2hIdHItT3FpN0JYV01XZWlWRzJLejZVbHVSZmRFMk1FeHYxMjFhbF9LVW9HRjF4Uk1YeEE0dm0zQlUxQ0VseFNFNFQwQdIBgwJBVV95cUxNZF9Ma3VZVi03Q280TFBsVWI1bUJySHcxb0ZkN0owMWE3UnlEOGdlS1RaNVJGelBzeUpaS2FaRnhmMU5Jcnh1MXd1Z3pndG14emVIb2g2Zkp4YUQwNmtSb3VlUmhNTzBsN1ltUzFYdjRhb2p1aTl0OEkxc3pKSWFQSUNIWFJISEs4cWRtcWhESlFPSWhCaUhNa201NVZ3NlY4NDY3Uk8xS3o3NE1odF9UeFRZZ3RfSlBLampPVngzSkhFXzZsZ3dSWERhQTJfNFd4Sk1fQmNPVXA1M0Z6ZXljTG9hUThIdUk4UXdmT1VyUUtiVVJYN05iX1JNckczTl9vWUx3?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd21MWW00OVdvN0F1Q09XT1o4RGd5anIxQTZOTGl3djgtdlc4MTEtRFBQOHB6NVJENktaRm1ra3VuN1Ffc25zWEhDeDRJUXVVZnB1cmtYVmJCVVYwenJkSzBXRzNMS04tQmxEYTBDXzlBdHdidmp1MWVoMDBfaFdfSi1ZQ2FIbm45YnBST19lOV9HRjU5MHRyNUlWaGExa1FQbTFFRnNGRkdnMnFYdGUzT0tCM2FkRV8zUl9WRUNNNHVFdzhxekRMMktveWtlWFpON3pGUXlR0gHwAUFVX3lxTE81TTloYVNEWWVhWndoRmRlOEYtNXlzVlNkamtYWFJSVEszWDRhVlBzTVNLeWwzb2Q4SkJVWjk0bkpFUlFsZUJSMU5OSXRrT2FzeGJDLVdtQ0NuOGF1SnVoMEhCU3ZlUVlPX2xlcDEyRG9kS0lfSVpaY0RuLUl3SGdqQkEwOC1NZVpPWHI5UXp2SGhzVlBUV0x5dWU1VWJwMHhZSEhBS18wTWdGRXhUeFJfUEJpY3ZoU1VOV3UyYjZsUDdtQU05aWtEYjlycGxra3VUTkZGQWtVa0xrMHJLYnZGdGM4MWZVRGFrZUs5MkJCTA?oc=5)
+來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeUFCVExJMlBRZHdNNDl4Vkpzbm1qaENrOXN3a29MRGZuWm9icm1uVHRSa2szZHVJZEV3OHhhTWhhOGVTR00tanZ4VWxqb0ZEUW9QYlhrX3F6ZjdQbDJ3czJpMFJJb2RjdzVJN2RmVnJmTmFWWWRpOUVpcXBZWk5xa3cwNTJrdi14d1EzUjROOFlKQ2p1bmwtYU8wWEUxc3Z5S2wzdWVPZU1JeExOVThEb2MxSkFLaVM2Q2hIdHItT3FpN0JYV01XZWlWRzJLejZVbHVSZmRFMk1FeHYxMjFhbF9LVW9HRjF4Uk1YeEE0dm0zQlUxQ0VseFNFNFQwQdIBgwJBVV95cUxNZF9Ma3VZVi03Q280TFBsVWI1bUJySHcxb0ZkN0owMWE3UnlEOGdlS1RaNVJGelBzeUpaS2FaRnhmMU5Jcnh1MXd1Z3pndG14emVIb2g2Zkp4YUQwNmtSb3VlUmhNTzBsN1ltUzFYdjRhb2p1aTl0OEkxc3pKSWFQSUNIWFJISEs4cWRtcWhESlFPSWhCaUhNa201NVZ3NlY4NDY3Uk8xS3o3NE1odF9UeFRZZ3RfSlBLampPVngzSkhFXzZsZ3dSWERhQTJfNFd4Sk1fQmNPVXA1M0Z6ZXljTG9hUThIdUk4UXdmT1VyUUtiVVJYN05iX1JNckczTl9vWUx3?oc=5)
 
 ---
 
-### [Voici les signes qui indiquent que vous buvez bien trop de café - Biba Magazine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1ppdEpfd2R5QWZRLXVlVVVsbWpqWndzT3VFMTRpU211Y1VUSzEzVWxDekNFRzRlZGpSalA3bWU3TXFqMlkyVllJSlF4ekxKZFhUN0x4S2h5MDNOaDNodjRSZFNiek5RcGVYbnBUNTRlQVpBX1lUQlE5aUZpTGVKWFY2cG9udVgxVkVYSmtZb3lrNldFZmkyZEl2OE9fN1Vfc2g1MGJlUnVWU0JBd2s1OEd6QTRiVHhJbGo0?oc=5)
+### [Tragedy as Stoke-on-Trent mum, 32, died three weeks after giving birth - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
 
-來源：[Biba Magazine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1ppdEpfd2R5QWZRLXVlVVVsbWpqWndzT3VFMTRpU211Y1VUSzEzVWxDekNFRzRlZGpSalA3bWU3TXFqMlkyVllJSlF4ekxKZFhUN0x4S2h5MDNOaDNodjRSZFNiek5RcGVYbnBUNTRlQVpBX1lUQlE5aUZpTGVKWFY2cG9udVgxVkVYSmtZb3lrNldFZmkyZEl2OE9fN1Vfc2g1MGJlUnVWU0JBd2s1OEd6QTRiVHhJbGo0?oc=5)
+來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
 
 ---
 
-### [Tragedy as Stoke-on-Trent mum, 32, died three weeks after giving birth](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[stokesentinel.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
-
----
-
-### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
+### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
 
 2026-03-31 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
 
 ---
 
-### ['We are Isle of Man's first cafe for medicinal cannabis users'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yalFlS05uSld6b3NxTWxqZXB6bG1DY2U3ZzhLV2FSa1BkY3RBTzY2a3pROXdoMHZNSjdFNkNHMWJjclg1VG1XczNNRXBrbElEM1d5X0lIY29rS1Bi?oc=5)
+### [Scoperta a Candiolo: un mix di farmaci biologici fa regredire il cancro al polmone senza la chemio - La Stampa](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSi1ISVk1dm1FeDN5LVBERGg2anUyR1dTNXpyeVJPNldnUG1JZ3lORkhSNHVUZlJaa2lwd2pqdzFaWFB2U3FodmZkMWxRNmllZThUUnlVSFhUUDlTWTBVazc3MmczczZfd3ZxN0hSVGkzcFF6UzJ2Q3hBZzVKRmRDNWs4YVZLOXhWRjZ3MnRoS0k2UWFsRV9sY0ZsMi0tTnVEbDE1MnA1MDZmcHpPbU90bzhrdDPSAboBQVVfeXFMTzBoRVU4OXh5RGUzOUR2di01SVBLdldEdVpRN1Ztc2gxMWZ2MmktanBSa0tmcGRTNWljclNrTE5VV1pxVmJObG00RHVOLXdHUzItWVdqZVpySkNyTjdxQXNUQW45aEE1MDNvcDUtc2dLdXpGZGIySnkyZ1VYOXNOYjAyUnhHQkZ2alRnbXNGVDRZNWdlMldqdmdFUU1NSUYzRGJZWmJ4U0ZMZEV0VXBzY1QzYkR0VkZmRmpR?oc=5)
 
-2026-03-31 <span class="news-indication-tag">AF</span>
+2026-03-31 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yalFlS05uSld6b3NxTWxqZXB6bG1DY2U3ZzhLV2FSa1BkY3RBTzY2a3pROXdoMHZNSjdFNkNHMWJjclg1VG1XczNNRXBrbElEM1d5X0lIY29rS1Bi?oc=5)
+來源：[La Stampa](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSi1ISVk1dm1FeDN5LVBERGg2anUyR1dTNXpyeVJPNldnUG1JZ3lORkhSNHVUZlJaa2lwd2pqdzFaWFB2U3FodmZkMWxRNmllZThUUnlVSFhUUDlTWTBVazc3MmczczZfd3ZxN0hSVGkzcFF6UzJ2Q3hBZzVKRmRDNWs4YVZLOXhWRjZ3MnRoS0k2UWFsRV9sY0ZsMi0tTnVEbDE1MnA1MDZmcHpPbU90bzhrdDPSAboBQVVfeXFMTzBoRVU4OXh5RGUzOUR2di01SVBLdldEdVpRN1Ztc2gxMWZ2MmktanBSa0tmcGRTNWljclNrTE5VV1pxVmJObG00RHVOLXdHUzItWVdqZVpySkNyTjdxQXNUQW45aEE1MDNvcDUtc2dLdXpGZGIySnkyZ1VYOXNOYjAyUnhHQkZ2alRnbXNGVDRZNWdlMldqdmdFUU1NSUYzRGJZWmJ4U0ZMZEV0VXBzY1QzYkR0VkZmRmpR?oc=5)
 
 ---
 
@@ -169,14 +161,6 @@ permalink: /news/voriconazole/
 2026-03-31 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
-
----
-
-### [New hope for children with severe epilepsy after Manchester study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
-
-2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
-
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUnhveTRYNERsamJuNFRQMFJTN09uMXBFUkxwd2N0X1NiNkRXYzlEajlGdzBQaHZLYWFmMjVlOFNjTGN6THZTX1RRMFZacmkybzh5dmZ5QWY5MU91?oc=5)
 
 ---
 

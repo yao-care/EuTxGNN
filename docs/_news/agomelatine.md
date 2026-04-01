@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Depressionen: KI erleichtert Wahl des geeigneten Wirkstoffs – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG9NZl9xTnh6UUtPZDlMNFU4U3ljWmdUVVRGR01fRndXaUVxOEZCWVZMWDl6V2VkTGt4bWhXU0Noa3dQS01NS2FPNDVzWTQ2Z2JPWi1BdTN1LXpQYXVXYjlucWtPbU0wNHRGVTM0bEJMYVA3dUVuamx3QnNLMVgzUEl3dExYNXlkRXRxUTl1VEhjU29tMlNSSXdlc19DNXNWSUhNc01zcHZLX0VNR2hiYmlxTldXYXpFUEZNdnNMRFh4eWlLVXc?oc=5)
+
+2026-04-01 <span class="news-indication-tag">depression</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG9NZl9xTnh6UUtPZDlMNFU4U3ljWmdUVVRGR01fRndXaUVxOEZCWVZMWDl6V2VkTGt4bWhXU0Noa3dQS01NS2FPNDVzWTQ2Z2JPWi1BdTN1LXpQYXVXYjlucWtPbU0wNHRGVTM0bEJMYVA3dUVuamx3QnNLMVgzUEl3dExYNXlkRXRxUTl1VEhjU29tMlNSSXdlc19DNXNWSUhNc01zcHZLX0VNR2hiYmlxTldXYXpFUEZNdnNMRFh4eWlLVXc?oc=5)
+
+---
 
 ### [Scoperta la proteina chiave per combattere la depressione](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThTRFIxdVdibGZRcHNrYzNHT0FWR2NTNzVyX3VRUGk3cmY0MjRvMDlLUHcweTZFT1RPTEc0cDZ6SXdEWUdmY3hYY1lKd1A4RlpkRk5hVGE2UFJoQWtVdC1oUjkyR0hkbHkzMnhlUGh4UktVM1M1ZFpPdTVkb2dmNGdlMXRKZw?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/agomelatine/
 
 ---
 
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
+### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
 
 2026-03-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
 
 ---
 

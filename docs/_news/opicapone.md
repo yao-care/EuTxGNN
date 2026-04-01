@@ -56,7 +56,7 @@ permalink: /news/opicapone/
 
 2026-04-01 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[Earth.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWZEVVVhUVFnMkowMElsUlhLeXZYTnB1Zjl6bHZlWFZsUVVOa0ktSG96bFVVWU5QUFMwb1czcVYtNVVaRWNkWHQ1c1YwcmJfcFJla1JXeGV0RVJhV240bUI5NzFjLWlmeXlySEUycVJ3Z0JYdGhJb25fVGM3aFJ4TG96VkN5Z1hVeHhHZ3o5bEVKclpXZXhfSjJIZ3ZJc3RVZGZ6bldHZWt4aDVPZEE?oc=5)
+來源：[earth.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWZEVVVhUVFnMkowMElsUlhLeXZYTnB1Zjl6bHZlWFZsUVVOa0ktSG96bFVVWU5QUFMwb1czcVYtNVVaRWNkWHQ1c1YwcmJfcFJla1JXeGV0RVJhV240bUI5NzFjLWlmeXlySEUycVJ3Z0JYdGhJb25fVGM3aFJ4TG96VkN5Z1hVeHhHZ3o5bEVKclpXZXhfSjJIZ3ZJc3RVZGZ6bldHZWt4aDVPZEE?oc=5)
 
 ---
 
@@ -64,7 +64,7 @@ permalink: /news/opicapone/
 
 2026-03-31 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
 
 ---
 

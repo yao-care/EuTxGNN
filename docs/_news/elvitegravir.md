@@ -52,11 +52,11 @@ permalink: /news/elvitegravir/
 
 ---
 
-### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15 - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
 
 2026-04-01 <span class="news-indication-tag">epatite</span>
 
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+來源：[ilfattoalimentare.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
 
 ---
 

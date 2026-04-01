@@ -48,7 +48,7 @@ permalink: /news/tacrolimus/
 
 2026-03-31 <span class="news-indication-tag">psoriasis</span>
 
-來源：[aerztezeitung.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHpMVktUUWlEN2UzM1JDcnZuUHdrWlJGSzRxUVQ3LU91UE1MWGhubFNzN1l2WDBZT0VlRUd6SDRXQm1oWkVtNkNMYW5ydWs0SzRQYUVFRE9wb2sxNEczZVQwbDJubEJiRERXNThkYkhvbU1GYkUxOFFJX1U2ZDlVWU5mTUxJcUoySWNHVDlmeGViaHo2dWJDalpLVXNISnFlVGdJV0R2N3hWVVJSWFRNc01lYUdNOHVpUXc2Sg?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHpMVktUUWlEN2UzM1JDcnZuUHdrWlJGSzRxUVQ3LU91UE1MWGhubFNzN1l2WDBZT0VlRUd6SDRXQm1oWkVtNkNMYW5ydWs0SzRQYUVFRE9wb2sxNEczZVQwbDJubEJiRERXNThkYkhvbU1GYkUxOFFJX1U2ZDlVWU5mTUxJcUoySWNHVDlmeGViaHo2dWJDalpLVXNISnFlVGdJV0R2N3hWVVJSWFRNc01lYUdNOHVpUXc2Sg?oc=5)
 
 ---
 
