@@ -44,6 +44,30 @@ permalink: /news/cariprazine-hydrochloride/
 
 ## 相關新聞（10 則）
 
+### [Spiegelbildliche Proteine als Schlüssel im Kampf gegen Alzheimer](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
+
+2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
+
+---
+
+### [When how much you masturbate becomes a problem as Oxford University study reveals side effects](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUElsb0szVHFCYkdqTHJacDRVN2FuNE5iRFZPY3gxcm9uQU9LVmRrZF8yMDc1QV9TdXZfNjVGM212QTJjSXA3b2ltYkxXZE1kMU9HZzBYbjdPNXg1Qm50MVhxdXNJQUdwNEdBQTNJbkF2MGhlRHlGdGVUbkJGM3dCZHAxZ3pWX3dINmtzZkxFVWFKYXlsYkkzTHN0TFRRZlRKMTlr?oc=5)
+
+2026-03-31 <span class="news-indication-tag">MS</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUElsb0szVHFCYkdqTHJacDRVN2FuNE5iRFZPY3gxcm9uQU9LVmRrZF8yMDc1QV9TdXZfNjVGM212QTJjSXA3b2ltYkxXZE1kMU9HZzBYbjdPNXg1Qm50MVhxdXNJQUdwNEdBQTNJbkF2MGhlRHlGdGVUbkJGM3dCZHAxZ3pWX3dINmtzZkxFVWFKYXlsYkkzTHN0TFRRZlRKMTlr?oc=5)
+
+---
+
+### [À 26 ans, elle ignore ces signaux…, le cancer s’est déjà propagé - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
+
+2026-03-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
+
+---
+
 ### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
 
 2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -76,35 +100,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Alzheimer-Forschung: Neue Zelltypen und Gentherapie im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
-
----
-
-### [Chikungunya : entre appel à la vaccination des infectiologues et risques d'effets indésirables - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZzg3T2diZXEzb09QU0NQUjQ2WDM4V0pJNkZoUm0zMkVEdWtHTjVRSWg5UDByaUhTZXF2ZWw1dXR4VTJCdFdDWWNTUHkzU0ZhUEpERm15NWRxczhaVFBCZ1ktU0d3b1FXQWxVbHNFWXpnTGk5TkgxWDMwNmNONGRRRlBwU2dsUFZBb2JsU1BRZGJjTHRZdGNmTE0wVDN1NXY0M29KZXRCcXRwZk1zYjdYYjhodmpDYThMX3ZPaHFuM1Fsd3pQb3NfbFFEYlVMRlpmaVY0TTNoRXRCTG5fVXhhaDhkcHhpcUtWbU1aamRfSFdOdWdaRzdsUXBoTmk?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span>
-
-來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZzg3T2diZXEzb09QU0NQUjQ2WDM4V0pJNkZoUm0zMkVEdWtHTjVRSWg5UDByaUhTZXF2ZWw1dXR4VTJCdFdDWWNTUHkzU0ZhUEpERm15NWRxczhaVFBCZ1ktU0d3b1FXQWxVbHNFWXpnTGk5TkgxWDMwNmNONGRRRlBwU2dsUFZBb2JsU1BRZGJjTHRZdGNmTE0wVDN1NXY0M29KZXRCcXRwZk1zYjdYYjhodmpDYThMX3ZPaHFuM1Fsd3pQb3NfbFFEYlVMRlpmaVY0TTNoRXRCTG5fVXhhaDhkcHhpcUtWbU1aamRfSFdOdWdaRzdsUXBoTmk?oc=5)
-
----
-
-### [Je suis gastro-entérologue, voici ce que je mange au quotidien pour réduire mon risque de cancer colorectal](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzZ6YXVCVERDTlpnYzJkYV80TUZjQUlHRFA2NGZ1a0RlZUpVNnI0eEtJQ3B4ZkR1cVNqeW51YnQzbThCc2ZrbEstTjdvYXY3bThVNjNKWWhJNDJNUzJGZlhEcUVmYXJRTGdJaGRBRmxEOU0yZTBUc3E0TkhDTzRpdHo5TzF4RzBjTlAzNDdraHpkRDBKWlYteHNEeWhfdXdmd2o1MTFEWGltUTdKa3B1YlZERW0?oc=5)
-
-2026-03-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzZ6YXVCVERDTlpnYzJkYV80TUZjQUlHRFA2NGZ1a0RlZUpVNnI0eEtJQ3B4ZkR1cVNqeW51YnQzbThCc2ZrbEstTjdvYXY3bThVNjNKWWhJNDJNUzJGZlhEcUVmYXJRTGdJaGRBRmxEOU0yZTBUc3E0TkhDTzRpdHo5TzF4RzBjTlAzNDdraHpkRDBKWlYteHNEeWhfdXdmd2o1MTFEWGltUTdKa3B1YlZERW0?oc=5)
-
----
-
-### [Se prendi metformina queste 3 cose dovresti (già) saperle](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
+### [Se prendi metformina queste 3 cose dovresti (già) saperle - The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
 
 2026-03-30 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">MS</span>
 
-來源：[healthy.thewom.it](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
+來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
 
 ---
 
@@ -116,11 +116,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [On pensait s'être débarrassé de l'infection la plus mortelle au monde: elle fait pourtant son grand retour](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXNwV1BBU2Nwa1BaMXV1QzlhS2VZbkJ5N2dWZm1vNEM4RDlZRFc4LXVmY1JvYU5NN0hpZ3lzaUtzUTBkUU9DVnVJdUZZS3dRU2thUWh5Tm1SaDlKRW9NTDQwV21VaTJaN3ZOajJPV0tJMUY3R2lNODh5RVFxc0dNV0EwY0N1eTktcm9ULWF1VlFjVUR3TXhKOFVKOEZqa1FmLUU3SXlOV1EzUTJicDJQTHFsdG1YamF6OGIxWWQyN3Z0M1FLMTBmVlNlb3Vuei1RLUUxdm9R0gHbAUFVX3lxTFBfV2o5TURVVloyc2hrcnZTMFNLWDMxamlqQmVBZUZYNkpkYnpZMUNwQm0ya0JYa3BWT1EyS201SWV2Nlh2QnJzQXZHV1ozWldMQ3RqVkFHZFEyVENkd01MXzh3ZGtlWlJ2V0t4NTN3Q3pLYzZTS1BzN1hOSFdDSUVZMnpaT0RYa3hLUWdzb20zVE9IMFNDMkxWOFl1aG9IMjA3endVUVlaVUlCZHZkVDI1V3BnbHg0WlJmb3IxZG9ORkZSSHJKY19hQzk2SVYtb2xnSXkyMmVWaFJEQQ?oc=5)
+### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
 
-2026-03-29 <span class="news-indication-tag">MS</span>
+2026-03-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXNwV1BBU2Nwa1BaMXV1QzlhS2VZbkJ5N2dWZm1vNEM4RDlZRFc4LXVmY1JvYU5NN0hpZ3lzaUtzUTBkUU9DVnVJdUZZS3dRU2thUWh5Tm1SaDlKRW9NTDQwV21VaTJaN3ZOajJPV0tJMUY3R2lNODh5RVFxc0dNV0EwY0N1eTktcm9ULWF1VlFjVUR3TXhKOFVKOEZqa1FmLUU3SXlOV1EzUTJicDJQTHFsdG1YamF6OGIxWWQyN3Z0M1FLMTBmVlNlb3Vuei1RLUUxdm9R0gHbAUFVX3lxTFBfV2o5TURVVloyc2hrcnZTMFNLWDMxamlqQmVBZUZYNkpkYnpZMUNwQm0ya0JYa3BWT1EyS201SWV2Nlh2QnJzQXZHV1ozWldMQ3RqVkFHZFEyVENkd01MXzh3ZGtlWlJ2V0t4NTN3Q3pLYzZTS1BzN1hOSFdDSUVZMnpaT0RYa3hLUWdzb20zVE9IMFNDMkxWOFl1aG9IMjA3endVUVlaVUlCZHZkVDI1V3BnbHg0WlJmb3IxZG9ORkZSSHJKY19hQzk2SVYtb2xnSXkyMmVWaFJEQQ?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
 
 ---
 

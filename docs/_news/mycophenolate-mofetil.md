@@ -14,7 +14,7 @@ permalink: /news/mycophenolate-mofetil/
 ---
 
 <p class="key-answer" data-question="Mycophenolate Mofetil 有什麼相關新聞？">
-<strong>Mycophenolate Mofetil</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mycophenolate Mofetil</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,47 @@ permalink: /news/mycophenolate-mofetil/
 <p><a href="{{ '/drugs/mycophenolate-mofetil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（25 則）
+
+### [My daughter has childhood dementia and may not live past 16](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+
+2026-03-31 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+
+---
+
+### [Spiegelbildliche Proteine als Schlüssel im Kampf gegen Alzheimer](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
+
+2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
+
+---
+
+### [When how much you masturbate becomes a problem as Oxford University study reveals side effects](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUElsb0szVHFCYkdqTHJacDRVN2FuNE5iRFZPY3gxcm9uQU9LVmRrZF8yMDc1QV9TdXZfNjVGM212QTJjSXA3b2ltYkxXZE1kMU9HZzBYbjdPNXg1Qm50MVhxdXNJQUdwNEdBQTNJbkF2MGhlRHlGdGVUbkJGM3dCZHAxZ3pWX3dINmtzZkxFVWFKYXlsYkkzTHN0TFRRZlRKMTlr?oc=5)
+
+2026-03-31 <span class="news-indication-tag">MS</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUElsb0szVHFCYkdqTHJacDRVN2FuNE5iRFZPY3gxcm9uQU9LVmRrZF8yMDc1QV9TdXZfNjVGM212QTJjSXA3b2ltYkxXZE1kMU9HZzBYbjdPNXg1Qm50MVhxdXNJQUdwNEdBQTNJbkF2MGhlRHlGdGVUbkJGM3dCZHAxZ3pWX3dINmtzZkxFVWFKYXlsYkkzTHN0TFRRZlRKMTlr?oc=5)
+
+---
+
+### [Schlüsselprotein des Hörens entdeckt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
+
+---
+
+### [À 26 ans, elle ignore ces signaux…, le cancer s’est déjà propagé - Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
+
+2026-03-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Futura, Le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
+
+---
 
 ### [East Grinstead man died in hospital after medicine not given](https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SUhtV0VwM1A3RTZydnAyMTNsMWxhblcyQVdSRHZfZXdSV1Qta2RCVU9IcEhjMzhvOEgwTXVGMVdwOFZFSEM1aVl6bF9VSHhlVXdtejBLTUJlMlpI?oc=5)
 
@@ -100,27 +140,19 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [José Ignacio Martín Valadés, oncólogo, sobre el cáncer de colon: “Estamos viendo un preocupante aumento de casos en menores de 50 años”](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
-
----
-
-### [Día Mundial del Cáncer de Colon: cómo prevenir la enfermedad que afecta a personas cada vez más jóvenes](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMnFPTzBSN01UMlg3T3FMVVBoejJjWnp3djE1aXFJSmpJaGoyc1h3NUFxN1E1R3N2WDg2TE5hQ2ZtWVVYUmVES0RpYnRMNFJrZ2lNdGFpN1l5Z1A0V0ZRcHlFem00UjBQNnZEYVM1MkhNZ1hLUzVRLVRQU1FXNWxUMWxVZHJRR0JuYXk0T2otWVhvOEdLUFNKZjdBVnJkVmZrdjFGQUt1STA2cS1LRjRxNVY0UjYydEk4Ync3VzROLUM2ZFJmWFNBcTZJY1NIZ3ZFWmZ1TklkeVlsZU5jd0RwaTF2ekpEdmdMZTZDeEtnRk9waEhu0gGPAkFVX3lxTE9YajBMNHZWazFFRi04SzZZX2tURWtNemhJaS1hQll2U3F0VnJOSXgtcWZqb0t1MWhxRVJva2JOSmsySldvR25vWXNQRGdFT0lpX1VRN3o2OXdoelFpTG5pclRDaDZ2X3Q2R1JkekxMckg2ZXBBSi1XQzhWVGo2WXd4eXZGNGItNzJaY29Tbk5kNTIyTHRaVm9jS2wtRmt2RGFzaG82QUtjSFQ3M3FPS2tpWFR1TWIyQ2pxbkpnZHdWNkZheUNZY0dlZXdiMV9XWTJjalhNRW1RNFZuUHQ2bUJKcEVaYjR2bWVKTjRiMlotRE9FNFpGWlE0cXdTcDlDSFEzeFVGazFEdXljMTFGZVU?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMnFPTzBSN01UMlg3T3FMVVBoejJjWnp3djE1aXFJSmpJaGoyc1h3NUFxN1E1R3N2WDg2TE5hQ2ZtWVVYUmVES0RpYnRMNFJrZ2lNdGFpN1l5Z1A0V0ZRcHlFem00UjBQNnZEYVM1MkhNZ1hLUzVRLVRQU1FXNWxUMWxVZHJRR0JuYXk0T2otWVhvOEdLUFNKZjdBVnJkVmZrdjFGQUt1STA2cS1LRjRxNVY0UjYydEk4Ync3VzROLUM2ZFJmWFNBcTZJY1NIZ3ZFWmZ1TklkeVlsZU5jd0RwaTF2ekpEdmdMZTZDeEtnRk9waEhu0gGPAkFVX3lxTE9YajBMNHZWazFFRi04SzZZX2tURWtNemhJaS1hQll2U3F0VnJOSXgtcWZqb0t1MWhxRVJva2JOSmsySldvR25vWXNQRGdFT0lpX1VRN3o2OXdoelFpTG5pclRDaDZ2X3Q2R1JkekxMckg2ZXBBSi1XQzhWVGo2WXd4eXZGNGItNzJaY29Tbk5kNTIyTHRaVm9jS2wtRmt2RGFzaG82QUtjSFQ3M3FPS2tpWFR1TWIyQ2pxbkpnZHdWNkZheUNZY0dlZXdiMV9XWTJjalhNRW1RNFZuUHQ2bUJKcEVaYjR2bWVKTjRiMlotRE9FNFpGWlE0cXdTcDlDSFEzeFVGazFEdXljMTFGZVU?oc=5)
-
----
-
 ### [KI analysiert Hirnwellen im Schlaf für frühe Demenz-Erkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
+
+---
+
+### [Psychology says the reason some people seem to barely age while others decline rapidly after 60 isn't genetic luck — it's that the ones who stay vital never let go of three things most people quietly surrender in their 50s: a reason to be somewhere, a person ex](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
+
+2026-03-30 <span class="news-indication-tag">AF</span>
+
+來源：[VegOut](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
 
 ---
 
@@ -140,43 +172,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Alzheimer-Forschung: Neue Zelltypen und Gentherapie im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
-
----
-
 ### [Biallelic variants in RNU2-2 cause the most prevalent known recessive neurodevelopmental disorder](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
 
 2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
-
----
-
-### [Chikungunya : entre appel à la vaccination des infectiologues et risques d'effets indésirables - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZzg3T2diZXEzb09QU0NQUjQ2WDM4V0pJNkZoUm0zMkVEdWtHTjVRSWg5UDByaUhTZXF2ZWw1dXR4VTJCdFdDWWNTUHkzU0ZhUEpERm15NWRxczhaVFBCZ1ktU0d3b1FXQWxVbHNFWXpnTGk5TkgxWDMwNmNONGRRRlBwU2dsUFZBb2JsU1BRZGJjTHRZdGNmTE0wVDN1NXY0M29KZXRCcXRwZk1zYjdYYjhodmpDYThMX3ZPaHFuM1Fsd3pQb3NfbFFEYlVMRlpmaVY0TTNoRXRCTG5fVXhhaDhkcHhpcUtWbU1aamRfSFdOdWdaRzdsUXBoTmk?oc=5)
-
-2026-03-30 <span class="news-indication-tag">MS</span>
-
-來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZzg3T2diZXEzb09QU0NQUjQ2WDM4V0pJNkZoUm0zMkVEdWtHTjVRSWg5UDByaUhTZXF2ZWw1dXR4VTJCdFdDWWNTUHkzU0ZhUEpERm15NWRxczhaVFBCZ1ktU0d3b1FXQWxVbHNFWXpnTGk5TkgxWDMwNmNONGRRRlBwU2dsUFZBb2JsU1BRZGJjTHRZdGNmTE0wVDN1NXY0M29KZXRCcXRwZk1zYjdYYjhodmpDYThMX3ZPaHFuM1Fsd3pQb3NfbFFEYlVMRlpmaVY0TTNoRXRCTG5fVXhhaDhkcHhpcUtWbU1aamRfSFdOdWdaRzdsUXBoTmk?oc=5)
-
----
-
-### [Je suis gastro-entérologue, voici ce que je mange au quotidien pour réduire mon risque de cancer colorectal](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzZ6YXVCVERDTlpnYzJkYV80TUZjQUlHRFA2NGZ1a0RlZUpVNnI0eEtJQ3B4ZkR1cVNqeW51YnQzbThCc2ZrbEstTjdvYXY3bThVNjNKWWhJNDJNUzJGZlhEcUVmYXJRTGdJaGRBRmxEOU0yZTBUc3E0TkhDTzRpdHo5TzF4RzBjTlAzNDdraHpkRDBKWlYteHNEeWhfdXdmd2o1MTFEWGltUTdKa3B1YlZERW0?oc=5)
-
-2026-03-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzZ6YXVCVERDTlpnYzJkYV80TUZjQUlHRFA2NGZ1a0RlZUpVNnI0eEtJQ3B4ZkR1cVNqeW51YnQzbThCc2ZrbEstTjdvYXY3bThVNjNKWWhJNDJNUzJGZlhEcUVmYXJRTGdJaGRBRmxEOU0yZTBUc3E0TkhDTzRpdHo5TzF4RzBjTlAzNDdraHpkRDBKWlYteHNEeWhfdXdmd2o1MTFEWGltUTdKa3B1YlZERW0?oc=5)
-
----
-
-### [Meningitis nightclub reopens with kissing warning - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
 
 ---
 
@@ -196,27 +196,19 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Se prendi metformina queste 3 cose dovresti (già) saperle](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
+### [Se prendi metformina queste 3 cose dovresti (già) saperle - The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
 
 2026-03-30 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">MS</span>
 
-來源：[healthy.thewom.it](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
+來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXFEWXFqM3FFOFNnYVNrMURNTG5PLWR3bGZsZ3FTYjZOVDkzUVAtcjJlRFhHUnlQQm1fQ2pjek5aWUtzdUttMExKTDhzN3J6Q0h0ek1KZzR0em1QYi1tN2NQX1NSUGZlNXJ5eXpHVWpFT29OZURLTUJQMlE2ZEtwaFRudVlrTjdBVkZ4ZHQyZmRvdUI5RTk1QklvLXdxeWxxUkpLdGV6VV84bktkUTIyQmdR?oc=5)
 
 ---
 
-### [East Surrey Hospital declares critical incident after norovirus outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMlZYYnJlbG9Ya1JEbTNnbFNpYnVhUHVYZFV6Z3kxTmU5cTVLOURWek5ZQ0IyWk5fZXBaVlNiV2l1alp3R0tZZUE0RGxfLUlGSzJHOFlTTjFZUU1K?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMlZYYnJlbG9Ya1JEbTNnbFNpYnVhUHVYZFV6Z3kxTmU5cTVLOURWek5ZQ0IyWk5fZXBaVlNiV2l1alp3R0tZZUE0RGxfLUlGSzJHOFlTTjFZUU1K?oc=5)
-
----
-
-### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern - Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 2026-03-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+來源：[derbund.ch](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 ---
 
@@ -244,19 +236,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Our daughter, Leni, is two — and she has dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
+### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
 
-2026-03-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-03-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
-
----
-
-### [On pensait s'être débarrassé de l'infection la plus mortelle au monde: elle fait pourtant son grand retour](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXNwV1BBU2Nwa1BaMXV1QzlhS2VZbkJ5N2dWZm1vNEM4RDlZRFc4LXVmY1JvYU5NN0hpZ3lzaUtzUTBkUU9DVnVJdUZZS3dRU2thUWh5Tm1SaDlKRW9NTDQwV21VaTJaN3ZOajJPV0tJMUY3R2lNODh5RVFxc0dNV0EwY0N1eTktcm9ULWF1VlFjVUR3TXhKOFVKOEZqa1FmLUU3SXlOV1EzUTJicDJQTHFsdG1YamF6OGIxWWQyN3Z0M1FLMTBmVlNlb3Vuei1RLUUxdm9R0gHbAUFVX3lxTFBfV2o5TURVVloyc2hrcnZTMFNLWDMxamlqQmVBZUZYNkpkYnpZMUNwQm0ya0JYa3BWT1EyS201SWV2Nlh2QnJzQXZHV1ozWldMQ3RqVkFHZFEyVENkd01MXzh3ZGtlWlJ2V0t4NTN3Q3pLYzZTS1BzN1hOSFdDSUVZMnpaT0RYa3hLUWdzb20zVE9IMFNDMkxWOFl1aG9IMjA3endVUVlaVUlCZHZkVDI1V3BnbHg0WlJmb3IxZG9ORkZSSHJKY19hQzk2SVYtb2xnSXkyMmVWaFJEQQ?oc=5)
-
-2026-03-29 <span class="news-indication-tag">MS</span>
-
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXNwV1BBU2Nwa1BaMXV1QzlhS2VZbkJ5N2dWZm1vNEM4RDlZRFc4LXVmY1JvYU5NN0hpZ3lzaUtzUTBkUU9DVnVJdUZZS3dRU2thUWh5Tm1SaDlKRW9NTDQwV21VaTJaN3ZOajJPV0tJMUY3R2lNODh5RVFxc0dNV0EwY0N1eTktcm9ULWF1VlFjVUR3TXhKOFVKOEZqa1FmLUU3SXlOV1EzUTJicDJQTHFsdG1YamF6OGIxWWQyN3Z0M1FLMTBmVlNlb3Vuei1RLUUxdm9R0gHbAUFVX3lxTFBfV2o5TURVVloyc2hrcnZTMFNLWDMxamlqQmVBZUZYNkpkYnpZMUNwQm0ya0JYa3BWT1EyS201SWV2Nlh2QnJzQXZHV1ozWldMQ3RqVkFHZFEyVENkd01MXzh3ZGtlWlJ2V0t4NTN3Q3pLYzZTS1BzN1hOSFdDSUVZMnpaT0RYa3hLUWdzb20zVE9IMFNDMkxWOFl1aG9IMjA3endVUVlaVUlCZHZkVDI1V3BnbHg0WlJmb3IxZG9ORkZSSHJKY19hQzk2SVYtb2xnSXkyMmVWaFJEQQ?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
 
 ---
 

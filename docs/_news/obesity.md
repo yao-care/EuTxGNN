@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,15 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Neue Medikamente verändern die Adipositas-Therapie](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWg2TjlnY0QxOWRScU5sdlZNWTZTN1ctdHVCOUpFQ1FtYVRJT0NqTGd1TS05VlBlSVhYYzZfWnh5OVV4Z3gtQnBLdlZ3Z2E5alJYUU1RcUQyaC15ME5CM0pSV1c4VmpUQkpDT1liMVlhdFVoR2VXNlA2U2VUdDJBeGVIdFFZcW5zMnR3?oc=5)
-
-2026-03-31
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWg2TjlnY0QxOWRScU5sdlZNWTZTN1ctdHVCOUpFQ1FtYVRJT0NqTGd1TS05VlBlSVhYYzZfWnh5OVV4Z3gtQnBLdlZ3Z2E5alJYUU1RcUQyaC15ME5CM0pSV1c4VmpUQkpDT1liMVlhdFVoR2VXNlA2U2VUdDJBeGVIdFFZcW5zMnR3?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Gli effetti psicologici dei farmaci dimagranti - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
 

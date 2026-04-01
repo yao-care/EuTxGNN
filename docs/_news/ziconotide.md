@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ziconotide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Neue Medikamente verändern die Adipositas-Therapie](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWg2TjlnY0QxOWRScU5sdlZNWTZTN1ctdHVCOUpFQ1FtYVRJT0NqTGd1TS05VlBlSVhYYzZfWnh5OVV4Z3gtQnBLdlZ3Z2E5alJYUU1RcUQyaC15ME5CM0pSV1c4VmpUQkpDT1liMVlhdFVoR2VXNlA2U2VUdDJBeGVIdFFZcW5zMnR3?oc=5)
-
-2026-03-31 <span class="news-indication-tag">Adipositas</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWg2TjlnY0QxOWRScU5sdlZNWTZTN1ctdHVCOUpFQ1FtYVRJT0NqTGd1TS05VlBlSVhYYzZfWnh5OVV4Z3gtQnBLdlZ3Z2E5alJYUU1RcUQyaC15ME5CM0pSV1c4VmpUQkpDT1liMVlhdFVoR2VXNlA2U2VUdDJBeGVIdFFZcW5zMnR3?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Gli effetti psicologici dei farmaci dimagranti - Il Post](https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSmx4cktBYjJpRUxIRURqc0JNYVdlWjQyeTh3RnFRV1JNSWlBZ0U4UFZsTTN2VldSMzFYcThjTW1GMlNCdldiM1JQVndsNFRudFEyLTdnU200clBoUUhZTXA1ZG1ScGlOT1NkTUhMbjVmbnNZS2J2S1llaFA?oc=5)
 

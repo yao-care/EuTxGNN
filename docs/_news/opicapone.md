@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [My daughter has childhood dementia and may not live past 16](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+
+2026-03-31 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+
+---
 
 ### ['My husband got early dementia, now I'm a full-time carer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvckkzeG1pd00yY1VlUHFwejUwUU9aWUFSNkx2TzNKblh1dEh5bzNYc1hJQmp4ZHRwWFNHTVFKUmFOX3JDcHlxa3FTRWpieGpqWnJnWE1YNElNV21v?oc=5)
 
 2026-03-30 <span class="news-indication-tag">dementia</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvckkzeG1pd00yY1VlUHFwejUwUU9aWUFSNkx2TzNKblh1dEh5bzNYc1hJQmp4ZHRwWFNHTVFKUmFOX3JDcHlxa3FTRWpieGpqWnJnWE1YNElNV21v?oc=5)
-
----
-
-### [Our daughter, Leni, is two — and she has dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
-
-2026-03-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
-
----
-
-### [Cuisiner une fois par semaine peut réduire le risque de maladie d’Alzheimer - Le Figaro Santé](https://news.google.com/rss/articles/CBMivwFBVV95cUxONHZ4R3NtMUdfVzhLM1hNUVVuTXVfUGI2Q2FKb3pENFNlSE9VNUY1YUE1V1JfRVEwUzZCdFYtdFJLV19pNDlIMWdnVWNQNm94NF9xdVdDZ29QQ19sdWU2TTUyTFF2eXVUNHV1NkprMEFIRXBNQ3BCOXltd0dxMGpDTFZoNWZvbEVHNGZfcWZfRzJNRWxCR0Itd0FaQ2x2anl0SzFQSHBPQklrZ3lrdENlUHp4VDlTbWR4V0U0emhHSQ?oc=5)
-
-2026-03-29 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivwFBVV95cUxONHZ4R3NtMUdfVzhLM1hNUVVuTXVfUGI2Q2FKb3pENFNlSE9VNUY1YUE1V1JfRVEwUzZCdFYtdFJLV19pNDlIMWdnVWNQNm94NF9xdVdDZ29QQ19sdWU2TTUyTFF2eXVUNHV1NkprMEFIRXBNQ3BCOXltd0dxMGpDTFZoNWZvbEVHNGZfcWZfRzJNRWxCR0Itd0FaQ2x2anl0SzFQSHBPQklrZ3lrdENlUHp4VDlTbWR4V0U0emhHSQ?oc=5)
 
 ---
 

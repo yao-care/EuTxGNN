@@ -14,7 +14,7 @@ permalink: /news/posaconazole/
 ---
 
 <p class="key-answer" data-question="Posaconazole 有什麼相關新聞？">
-<strong>Posaconazole</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Posaconazole</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/posaconazole/
 <p><a href="{{ '/drugs/posaconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（17 則）
+
+### [My daughter has childhood dementia and may not live past 16](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+
+2026-03-31 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+
+---
+
+### [Spiegelbildliche Proteine als Schlüssel im Kampf gegen Alzheimer](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
+
+2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeXd3WVI5RHBUOEFMRWNVNkt2T2xQbV93WjYtYzVqN0ZZOTQydjQ0NUNkUVAyb1FTTEtaMVdmZXA2aHZ6ZlhuZ0J4RS1QNnFnZjR0SV8tZ1VSLUdyNVRpVjNIRTVMVnZmS0dBS1A5cmV4VjFVNGY2V1BCQjJqV1RPbWJ5QWRIQmtiWVM4NkdIRUdBSnpLbzJKem5id2Yxdw?oc=5)
+
+---
+
+### [Schlüsselprotein des Hörens entdeckt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
+
+---
 
 ### [East Grinstead man died in hospital after medicine not given](https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SUhtV0VwM1A3RTZydnAyMTNsMWxhblcyQVdSRHZfZXdSV1Qta2RCVU9IcEhjMzhvOEgwTXVGMVdwOFZFSEM1aVl6bF9VSHhlVXdtejBLTUJlMlpI?oc=5)
 
@@ -92,22 +116,6 @@ permalink: /news/posaconazole/
 
 ---
 
-### [José Ignacio Martín Valadés, oncólogo, sobre el cáncer de colon: “Estamos viendo un preocupante aumento de casos en menores de 50 años”](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
-
----
-
-### [Día Mundial del Cáncer de Colon: cómo prevenir la enfermedad que afecta a personas cada vez más jóvenes](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMnFPTzBSN01UMlg3T3FMVVBoejJjWnp3djE1aXFJSmpJaGoyc1h3NUFxN1E1R3N2WDg2TE5hQ2ZtWVVYUmVES0RpYnRMNFJrZ2lNdGFpN1l5Z1A0V0ZRcHlFem00UjBQNnZEYVM1MkhNZ1hLUzVRLVRQU1FXNWxUMWxVZHJRR0JuYXk0T2otWVhvOEdLUFNKZjdBVnJkVmZrdjFGQUt1STA2cS1LRjRxNVY0UjYydEk4Ync3VzROLUM2ZFJmWFNBcTZJY1NIZ3ZFWmZ1TklkeVlsZU5jd0RwaTF2ekpEdmdMZTZDeEtnRk9waEhu0gGPAkFVX3lxTE9YajBMNHZWazFFRi04SzZZX2tURWtNemhJaS1hQll2U3F0VnJOSXgtcWZqb0t1MWhxRVJva2JOSmsySldvR25vWXNQRGdFT0lpX1VRN3o2OXdoelFpTG5pclRDaDZ2X3Q2R1JkekxMckg2ZXBBSi1XQzhWVGo2WXd4eXZGNGItNzJaY29Tbk5kNTIyTHRaVm9jS2wtRmt2RGFzaG82QUtjSFQ3M3FPS2tpWFR1TWIyQ2pxbkpnZHdWNkZheUNZY0dlZXdiMV9XWTJjalhNRW1RNFZuUHQ2bUJKcEVaYjR2bWVKTjRiMlotRE9FNFpGWlE0cXdTcDlDSFEzeFVGazFEdXljMTFGZVU?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMnFPTzBSN01UMlg3T3FMVVBoejJjWnp3djE1aXFJSmpJaGoyc1h3NUFxN1E1R3N2WDg2TE5hQ2ZtWVVYUmVES0RpYnRMNFJrZ2lNdGFpN1l5Z1A0V0ZRcHlFem00UjBQNnZEYVM1MkhNZ1hLUzVRLVRQU1FXNWxUMWxVZHJRR0JuYXk0T2otWVhvOEdLUFNKZjdBVnJkVmZrdjFGQUt1STA2cS1LRjRxNVY0UjYydEk4Ync3VzROLUM2ZFJmWFNBcTZJY1NIZ3ZFWmZ1TklkeVlsZU5jd0RwaTF2ekpEdmdMZTZDeEtnRk9waEhu0gGPAkFVX3lxTE9YajBMNHZWazFFRi04SzZZX2tURWtNemhJaS1hQll2U3F0VnJOSXgtcWZqb0t1MWhxRVJva2JOSmsySldvR25vWXNQRGdFT0lpX1VRN3o2OXdoelFpTG5pclRDaDZ2X3Q2R1JkekxMckg2ZXBBSi1XQzhWVGo2WXd4eXZGNGItNzJaY29Tbk5kNTIyTHRaVm9jS2wtRmt2RGFzaG82QUtjSFQ3M3FPS2tpWFR1TWIyQ2pxbkpnZHdWNkZheUNZY0dlZXdiMV9XWTJjalhNRW1RNFZuUHQ2bUJKcEVaYjR2bWVKTjRiMlotRE9FNFpGWlE0cXdTcDlDSFEzeFVGazFEdXljMTFGZVU?oc=5)
-
----
-
 ### [KI analysiert Hirnwellen im Schlaf für frühe Demenz-Erkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
@@ -116,11 +124,11 @@ permalink: /news/posaconazole/
 
 ---
 
-### [Alzheimer-Forschung: Neue Zelltypen und Gentherapie im Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
+### [Psychology says the reason some people seem to barely age while others decline rapidly after 60 isn't genetic luck — it's that the ones who stay vital never let go of three things most people quietly surrender in their 50s: a reason to be somewhere, a person ex](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
 
-2026-03-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-03-30 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5CbGk2VjVKSjFsb0RGUTNidEpvc05la1pnZmJoM0R2S1NfOWkwRjExbGpXcmpsYzFjYTZuSW5DV09yNTc2YlFZbmJFM3RTSkY2dndhMTdUZVdYZWhWT3cwLV83MTRMTXU2NUJoMVphdFBsVG4yWHNOdE5nRC1rZDJnRUNITUFYeXpfdVNERUN3RzhRY1hKcG9BUDB5d1FGYmNfcFc0Qjh2eEJPdGd5aldfV2p2dUl4TXc?oc=5)
+來源：[VegOut](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
 
 ---
 
@@ -129,14 +137,6 @@ permalink: /news/posaconazole/
 2026-03-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JM0RzX1IzcFh1SmlNWEZGUTlEZUlxMGE4czNENjJ4eUZWYVpKWHdGamtzbmlaY0R5cVBGOVFlTkhGU29SVTJUakl0MWNPaC1ZRjdORGZ4cEpaeEx0RzA0?oc=5)
-
----
-
-### [Meningitis nightclub reopens with kissing warning - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUlXWVdYcmdTRXpEZU5DZEJNQVVvbEZWNFVTcDIxREd0SXh6b0s5aDRhUTRhWmdNTDVpeFBOQWVsMGE2VHBqYjhxY0Q2T2FlZHJKV19ONkpsd2hZOHFuQ0JLNzdjLWsxNGgyb2hXRHdPSEpERkRtUXdSQmh6NllTT005ZkdySDNORHd4cTU0NzlGOGs?oc=5)
 
 ---
 
@@ -156,19 +156,11 @@ permalink: /news/posaconazole/
 
 ---
 
-### [East Surrey Hospital declares critical incident after norovirus outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMlZYYnJlbG9Ya1JEbTNnbFNpYnVhUHVYZFV6Z3kxTmU5cTVLOURWek5ZQ0IyWk5fZXBaVlNiV2l1alp3R0tZZUE0RGxfLUlGSzJHOFlTTjFZUU1K?oc=5)
-
-2026-03-30 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMlZYYnJlbG9Ya1JEbTNnbFNpYnVhUHVYZFV6Z3kxTmU5cTVLOURWek5ZQ0IyWk5fZXBaVlNiV2l1alp3R0tZZUE0RGxfLUlGSzJHOFlTTjFZUU1K?oc=5)
-
----
-
-### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern - Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+### [Vorteile von Mammografiebildern: Brustkrebs-Screening kann Herzinfarkte verhindern](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 2026-03-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[Der Bund](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
+來源：[derbund.ch](https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3NWcEtsT2g1SnJqbEZYNzdxT3RsZm9mRjY2VEY5UmVIY1hpOXpNUDB1aHdmUHJaSkUzZGpXTTlRZTJyaEk3cGlWMl95UHRBVlJQd0dIbVpZU0RzWS1qMkpNWTlHazRXNG1iSGFJNVBBX2RwZzNwT2xKTnpPczNIaktkOWpBeXlKLUxoaTVodXVRWExsOTlrYmRnZmY?oc=5)
 
 ---
 
@@ -185,14 +177,6 @@ permalink: /news/posaconazole/
 2026-03-30 <span class="news-indication-tag">AF</span>
 
 來源：[La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjlMY0pIRWtXTVpQcjVwVnY5ZWs5a3d5VEJEMElRdUs4Nk5OV3JuWW5PcHc1SlRDSDlnb20zd1BrT2VqVkRxdzFNbmt4TkZtZC1DWXpjX3J0ZDZFQkxtZ3J5RU5oZHhwSnBJZnlUYkxyNENaSTJ1UVVhV0dHbmRsUDRMaUloelI0S0s2Mm1JMmdkUHdldFhQSG0xWm1ONEhVTjZxbm5kdzNHOFNTbUZXVy1XeGJBNWhiU3pGc2dCVGlWTXRaXzliVEJaT0pTUE9JVzlpanRWd29Rc28?oc=5)
-
----
-
-### [Our daughter, Leni, is two — and she has dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
-
-2026-03-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWNsYjNXTGM2bDRMLW9UbFZ2YTIwNGtPQ1AyTWVvdGViUjFmM1YyLXFGQ3hRbTE5T2FhdTd3STgtYUYwLWFoQkJsclJLNTJJMTdSQzFQQlQ1VkR3Y3k3SXZKS3Z6MkJ3eGJFRElCTy1PcmZuLTMzUTFYZTBvTjViNGgxTE81SnFmelZjRFpOTjREenRHMFE5OQ?oc=5)
 
 ---
 

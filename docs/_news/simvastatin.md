@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Weight-loss jabs will be offered on NHS for people at risk of further heart attacks](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwTFlCUkdLSVB1Tl9JS1pSVFhzTE1xMEMwZEd6WmZOUTYtZmhRVmx4WmNNNFNHdWliRGJpMHExcjNrVkZmRGlBNENqOFozMnR5aTN5cDFXQlAwUlZ5?oc=5)
+
+2026-03-31 <span class="news-indication-tag">stroke</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwTFlCUkdLSVB1Tl9JS1pSVFhzTE1xMEMwZEd6WmZOUTYtZmhRVmx4WmNNNFNHdWliRGJpMHExcjNrVkZmRGlBNENqOFozMnR5aTN5cDFXQlAwUlZ5?oc=5)
+
+---
 
 ### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
 
@@ -70,25 +78,9 @@ permalink: /news/simvastatin/
 
 ### [3 Simple Daily Changes Could Lower Your Risk of Heart Attack And Stroke](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
 
-2026-03-30 <span class="news-indication-tag">stroke</span>
+2026-03-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnl2aVJYVWxobnIwYmJlNFZpRGw3RFo4YmVEU3pMQnNiYlVRYnY1dDZLNGF5alNxMlB3U2Y2SWpVVWNYazBPNzFXcmhoa1pvYnlVU2s3NzdONlpMeEY4T3AyVlJIWktoZGlxb3U0V0FwNThyUi1wYWN0eHRXWTd3VWdQZld4cDlLaXNvOW5uWDdYUXVLdW9fUjlVX2JOZzVGUFE?oc=5)
-
----
-
-### [Santé vasculaire cérébrale : le CHU de Bordeaux a ouvert la première unité de France dédiée aux micro-AVC silencieux - Sud Ouest](https://news.google.com/rss/articles/CBMimAJBVV95cUxNejRfbFdsWGt6bjh5bk1oY3RCQUVYRk4yS09pLXdZZXRKcUNJUEFHNDhYa2NKa1lSS2NPZVZfU0U5Zi11aW1fcXo5a05JSF9yRjhaUlJnSFdXdVc3bXgxcnJpV0ZqTXBYNnp5bnBvajBOeGk0YnRKU1d1dU1idmhLS200aG1vaThfQlc3YnpNNDhUWml3NHpXTXVzTU1ZRXVxRDZMb2J1TDNjNnUtVHZ0Y1RpdDJ2djgxM1J5eEJpb0gyMzdsRHJ0NGtseW5OUl9kbXBRQ2pjSHI0NDEyUjN3ZnRnMnFjVERqWUhjUHNDdUZOQ2dxcXhOMnBTLU5hRTcya1RqN3lGenFkaU94Z0lrXzBtbWhRMWtn?oc=5)
-
-2026-03-29 <span class="news-indication-tag">AVC</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMimAJBVV95cUxNejRfbFdsWGt6bjh5bk1oY3RCQUVYRk4yS09pLXdZZXRKcUNJUEFHNDhYa2NKa1lSS2NPZVZfU0U5Zi11aW1fcXo5a05JSF9yRjhaUlJnSFdXdVc3bXgxcnJpV0ZqTXBYNnp5bnBvajBOeGk0YnRKU1d1dU1idmhLS200aG1vaThfQlc3YnpNNDhUWml3NHpXTXVzTU1ZRXVxRDZMb2J1TDNjNnUtVHZ0Y1RpdDJ2djgxM1J5eEJpb0gyMzdsRHJ0NGtseW5OUl9kbXBRQ2pjSHI0NDEyUjN3ZnRnMnFjVERqWUhjUHNDdUZOQ2dxcXhOMnBTLU5hRTcya1RqN3lGenFkaU94Z0lrXzBtbWhRMWtn?oc=5)
-
----
-
-### [Comment reconnaître l'AVC ? Deux survivants ont témoigné : « un seul signe suffit à alerter »](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
-
-2026-03-29 <span class="news-indication-tag">AVC</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2ZMNk1uZjMzX3hiSHk4aTFHdWswcmxiX28tRWFabmpMQTFPdnRqaEJoUjFDZ1NKZDZhVjEwaVZXdmM2NXAwdURhaXFEQUk4Qy1HSlBpUmZ1c2M1dG1LbWh4b0tOZEZpeE1rY1liMGFOazd5QUxScVpCb09tWUdBTERsenhFOU5kS3NleU5UdmhiRVB0bXY1MUN5SzBfQk1ldlF5VHlQTG5pRkZIS1RrOGQwSlhnLUYyNWdrOGZFMS1QT1UybFRXUVk0YTZkTkVI?oc=5)
 
 ---
 
