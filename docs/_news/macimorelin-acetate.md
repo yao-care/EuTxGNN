@@ -14,7 +14,7 @@ permalink: /news/macimorelin-acetate/
 ---
 
 <p class="key-answer" data-question="Macimorelin Acetate 有什麼相關新聞？">
-<strong>Macimorelin Acetate</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Macimorelin Acetate</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/macimorelin-acetate/
 <p><a href="{{ '/drugs/macimorelin-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
+
+### [Wie Krafttraining das biologische Gehirnalter verlangsamt - it boltwise](https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVA2ZzVrcGZnM1V2Y0EzVUdqNHRpMVpIM2hWMFJjNW1Cem02Mmt2cndrRm9DcmF0VE1fYnE2T0tkRnJUaVZSSFEyWnk4cWhQSGR4SUx0eHM0RnFaVldraDFNS3dUWDZNWmJvVkNzSWl2aW5JYjd0dDNOaWhqb2ZQdVI3VURTc1hPWHZyOXFuMlpybTg?oc=5)
+
+2026-04-01 <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVA2ZzVrcGZnM1V2Y0EzVUdqNHRpMVpIM2hWMFJjNW1Cem02Mmt2cndrRm9DcmF0VE1fYnE2T0tkRnJUaVZSSFEyWnk4cWhQSGR4SUx0eHM0RnFaVldraDFNS3dUWDZNWmJvVkNzSWl2aW5JYjd0dDNOaWhqb2ZQdVI3VURTc1hPWHZyOXFuMlpybTg?oc=5)
+
+---
 
 ### [Neuer Ansatz zur Alzheimer-Behandlung: Epigenetische Therapie zeigt Erfolge bei Mäusen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NfYnRDVUFiY2M0bnpOX3NfcUM4NjZNWjQ0UEZZaGMwcTdRaDE4TnQxNjVsOFpJdzJPRjVFWHdaWGJrU3cySEMwcDVHaV9DRUdQX045MGxUS0RlZ0xVQzctOUdLazJpbFExTXVBYlRGWVFtUG00aXlRejFSTW12Rk9lZmNHY2hncHpFLVppWXFjWlJjSXlvbFFUU2Q1WjJPNUxyZmYwY0JvakxlcGZzMUF4RlBSbFZmWmc?oc=5)
 
 2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NfYnRDVUFiY2M0bnpOX3NfcUM4NjZNWjQ0UEZZaGMwcTdRaDE4TnQxNjVsOFpJdzJPRjVFWHdaWGJrU3cySEMwcDVHaV9DRUdQX045MGxUS0RlZ0xVQzctOUdLazJpbFExTXVBYlRGWVFtUG00aXlRejFSTW12Rk9lZmNHY2hncHpFLVppWXFjWlJjSXlvbFFUU2Q1WjJPNUxyZmYwY0JvakxlcGZzMUF4RlBSbFZmWmc?oc=5)
-
----
-
-### [Sanofi verlängert Vorbestellfrist für Influenzaimpfstoffe bis Ende April – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTB1Sk1IWjBTaHZwSUZwWFI0MDU4elR4X21nUElmUGQ2bjJMTXBMOEVsR2FxY3NHTHBXTmRieEkxazFuZ2V6ODV0VXJoSUNPelpKM0lCQ1c0ZGV6ZlgzNkJ0NWxYMWZqQ1l2bEM5dWlOdkptYXF3S1JmTWw2SktZOEM4TVFGUnVKRnFsSTRZRG53Zjc4SEpnUi1FZnk1OVBrMGEyOTBvS1h2Yl9VMWdkdzJYa2RYdUFIRGotVFBXWUdybGx2ZDAxWTFJVF9FUTVtM0hhUk56Yjc?oc=5)
-
-2026-04-01 <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTB1Sk1IWjBTaHZwSUZwWFI0MDU4elR4X21nUElmUGQ2bjJMTXBMOEVsR2FxY3NHTHBXTmRieEkxazFuZ2V6ODV0VXJoSUNPelpKM0lCQ1c0ZGV6ZlgzNkJ0NWxYMWZqQ1l2bEM5dWlOdkptYXF3S1JmTWw2SktZOEM4TVFGUnVKRnFsSTRZRG53Zjc4SEpnUi1FZnk1OVBrMGEyOTBvS1h2Yl9VMWdkdzJYa2RYdUFIRGotVFBXWUdybGx2ZDAxWTFJVF9FUTVtM0hhUk56Yjc?oc=5)
 
 ---
 
@@ -68,11 +68,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Multivitamine bremsen das biologische Altern - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9WSnFMdEhvVjlDa1lQeVlkbnRjV3V2SHNmUkFRVXlJUVR6X1JBRFBzakJfNy1YZHRZUlBHSy1lQ213YjNqSU55bmNSMTNLeXBhT2lCMktFN2hBYmszYWhIVUhHeHB6a2pjUUpCMWV0MEhaZElpRGdLVzV1TGZhWC1oZHpMelRPNUxRaHE1ZXlQc3lPajBac25vbmN3RFZnMFhBakJ3?oc=5)
+### [All’Usl un servizio di terapia del dolore per i pazienti affetti da sclerosi multipla - AostaSera -](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlBnVmdwbmtCRTFLbUtoaVZteGdBQzZZYkFWbkJLaEV0UUVDbC1yZEdyeUFKUXdUYndnTGEzbEsxNjNoUjl5TjZ4cXpZMWhzVGJHOExPa3dWTE9wYllXbHNQdUgybGM1d1g4VngzSWQ4d290ZnU2WHRQZkplclM2eGtyOTMyRDZYQnV2YUVlTWVJWlBCYkJoS29BcVdIXzZ5b2RubU5tT2IwUzh1NkpoOXdMandicFpjNVZzZHJjek9NSWREUHF5Tg?oc=5)
 
-2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-01 <span class="news-indication-tag">sclerosi multipla</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9WSnFMdEhvVjlDa1lQeVlkbnRjV3V2SHNmUkFRVXlJUVR6X1JBRFBzakJfNy1YZHRZUlBHSy1lQ213YjNqSU55bmNSMTNLeXBhT2lCMktFN2hBYmszYWhIVUhHeHB6a2pjUUpCMWV0MEhaZElpRGdLVzV1TGZhWC1oZHpMelRPNUxRaHE1ZXlQc3lPajBac25vbmN3RFZnMFhBakJ3?oc=5)
+來源：[AostaSera -](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlBnVmdwbmtCRTFLbUtoaVZteGdBQzZZYkFWbkJLaEV0UUVDbC1yZEdyeUFKUXdUYndnTGEzbEsxNjNoUjl5TjZ4cXpZMWhzVGJHOExPa3dWTE9wYllXbHNQdUgybGM1d1g4VngzSWQ4d290ZnU2WHRQZkplclM2eGtyOTMyRDZYQnV2YUVlTWVJWlBCYkJoS29BcVdIXzZ5b2RubU5tT2IwUzh1NkpoOXdMandicFpjNVZzZHJjek9NSWREUHF5Tg?oc=5)
 
 ---
 
@@ -84,11 +84,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### ['My special blood helps critically ill babies'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fczk4R3lxekNUcGdiTDlmeDFGTGFtQTFWSV9YYTJwbGhma1gyNjRhVE1lRDREZGVDT2tRU1hvd2htV24xWHlMVmZMZ2xubTl3dUx4ZUVPbXVVUXBk?oc=5)
+### [Dorking man becomes stem cell donor after transplant saves father](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
 
-2026-04-01 <span class="news-indication-tag">AF</span>
+2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fczk4R3lxekNUcGdiTDlmeDFGTGFtQTFWSV9YYTJwbGhma1gyNjRhVE1lRDREZGVDT2tRU1hvd2htV24xWHlMVmZMZ2xubTl3dUx4ZUVPbXVVUXBk?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
 
 ---
 
@@ -100,22 +100,6 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
-
-2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
-
----
-
-### [Psychology says the reason some people seem to barely age while others decline rapidly after 60 isn't genetic luck — it's that the ones who stay vital never let go of three things most people quietly surrender in their 50s: a reason to be somewhere, a person ex](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[VegOut](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
-
----
-
 ### [Schlüsselprotein des Hörens entdeckt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
@@ -124,27 +108,19 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
+### [Aumentan los casos de cáncer de colon en menores de 40: Experta enfatiza importancia de la colonoscopia](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeUFCVExJMlBRZHdNNDl4Vkpzbm1qaENrOXN3a29MRGZuWm9icm1uVHRSa2szZHVJZEV3OHhhTWhhOGVTR00tanZ4VWxqb0ZEUW9QYlhrX3F6ZjdQbDJ3czJpMFJJb2RjdzVJN2RmVnJmTmFWWWRpOUVpcXBZWk5xa3cwNTJrdi14d1EzUjROOFlKQ2p1bmwtYU8wWEUxc3Z5S2wzdWVPZU1JeExOVThEb2MxSkFLaVM2Q2hIdHItT3FpN0JYV01XZWlWRzJLejZVbHVSZmRFMk1FeHYxMjFhbF9LVW9HRjF4Uk1YeEE0dm0zQlUxQ0VseFNFNFQwQdIBgwJBVV95cUxNZF9Ma3VZVi03Q280TFBsVWI1bUJySHcxb0ZkN0owMWE3UnlEOGdlS1RaNVJGelBzeUpaS2FaRnhmMU5Jcnh1MXd1Z3pndG14emVIb2g2Zkp4YUQwNmtSb3VlUmhNTzBsN1ltUzFYdjRhb2p1aTl0OEkxc3pKSWFQSUNIWFJISEs4cWRtcWhESlFPSWhCaUhNa201NVZ3NlY4NDY3Uk8xS3o3NE1odF9UeFRZZ3RfSlBLampPVngzSkhFXzZsZ3dSWERhQTJfNFd4Sk1fQmNPVXA1M0Z6ZXljTG9hUThIdUk4UXdmT1VyUUtiVVJYN05iX1JNckczTl9vWUx3?oc=5)
+
+2026-03-31 <span class="news-indication-tag">AF</span>
+
+來源：[medicinaysaludpublica.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeUFCVExJMlBRZHdNNDl4Vkpzbm1qaENrOXN3a29MRGZuWm9icm1uVHRSa2szZHVJZEV3OHhhTWhhOGVTR00tanZ4VWxqb0ZEUW9QYlhrX3F6ZjdQbDJ3czJpMFJJb2RjdzVJN2RmVnJmTmFWWWRpOUVpcXBZWk5xa3cwNTJrdi14d1EzUjROOFlKQ2p1bmwtYU8wWEUxc3Z5S2wzdWVPZU1JeExOVThEb2MxSkFLaVM2Q2hIdHItT3FpN0JYV01XZWlWRzJLejZVbHVSZmRFMk1FeHYxMjFhbF9LVW9HRjF4Uk1YeEE0dm0zQlUxQ0VseFNFNFQwQdIBgwJBVV95cUxNZF9Ma3VZVi03Q280TFBsVWI1bUJySHcxb0ZkN0owMWE3UnlEOGdlS1RaNVJGelBzeUpaS2FaRnhmMU5Jcnh1MXd1Z3pndG14emVIb2g2Zkp4YUQwNmtSb3VlUmhNTzBsN1ltUzFYdjRhb2p1aTl0OEkxc3pKSWFQSUNIWFJISEs4cWRtcWhESlFPSWhCaUhNa201NVZ3NlY4NDY3Uk8xS3o3NE1odF9UeFRZZ3RfSlBLampPVngzSkhFXzZsZ3dSWERhQTJfNFd4Sk1fQmNPVXA1M0Z6ZXljTG9hUThIdUk4UXdmT1VyUUtiVVJYN05iX1JNckczTl9vWUx3?oc=5)
+
+---
+
 ### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
 
 2026-03-31 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
-
----
-
-### [José Ignacio Martín Valadés, oncólogo, sobre el cáncer de colon: “Estamos viendo un preocupante aumento de casos en menores de 50 años”](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
-
----
-
-### [KI analysiert Hirnwellen im Schlaf für frühe Demenz-Erkennung - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhPVzB1aV8zS1E4dllrVHpIRDllZUlKa1B4MHFET3pYaXRON0ZPZW1kT1dLYjBRalBFR2RqNDJXRHBNX3lYQWU2X3JwYlg2RHRTYm45LTFRUzhXUVF5Nm5YUXR5dk9JY0tXcGJhOWd2TEJwM3VRQVZ3VEV5Snl3bW5Od0tpSUswN2hueTdCOEdxYTl3M1VkTUJxU1NCR1Z2SHFkTlZxR19nLW9XM0ZfNWd2eHdzdDNCY3l3NDVXZw?oc=5)
 
 ---
 

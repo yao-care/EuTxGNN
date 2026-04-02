@@ -3,7 +3,7 @@ layout: default
 title: "hépatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hépatite（hepatitis） 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
+description: "hépatite（hepatitis） 的相關健康新聞報導。5 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hépatite（hepatitis） 有什麼相關新聞？">
-<strong>hépatite（hepatitis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hépatite（hepatitis）</strong> 目前有 <strong>5 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [ECIM 2026 - 24th European Congress of Internal Medicine - 25. bis 28. März Heilung der chronischen Hepatitis B in Sicht - Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
+
+2026-04-02
+
+來源：[Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
+
+---
 
 ### [Les parents sont invités à la vigilance : un cas d’hépatite A détecté dans un lycée de Perpignan, l'ARS donne l'alerte](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmRMU0ZBck1GLU9jWTBRRFF5SjdiOGkyUC1WMUtzNXhLZ1JaX3E1dGFpVTRLbzFSSkhoTXVlcDhrY1lld203Y3A1YnhybTVHVFhGYXZMWXpfdGhTN0ZZdnNKZml5NWx0YlNuMVJBMTJNT0VRYTBiTmdaMzFIMHFCYU9VRTZzd0RBYXFrWTlzR0UwM3hCSE9UQjY1YV9hZnFxWlRVWHVFcWdfZGg1Yk9vQTNZZ2poZXNENGQ3bmx0X1RvUnVqRVhjei1GX1h5WlF1QTB0YTdJRm9VU1ZvNVE?oc=5)
 
@@ -63,11 +71,19 @@ permalink: /news/hepatitis/
 
 ---
 
-### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15 - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
 
 2026-04-01
 
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+來源：[ilfattoalimentare.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+
+---
+
+### [Épidémie d'hépatite A en Italie: ce que vous devez savoir - 20 Minuten](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRkY204RlhMWlFkWG15TGNJT3gzblJzSUJtVDM1MkQyek9wUVRUcUNHRDNRNGVVOEpsTUhQeTlpaWVSVWE5NjJfNlV5VXoteHZEYXhCNzlxTXBhRlY0TWNUMzhYZE9yZXlHY3U2QlIyME02bXhxWU1DTU54TXhjYUVLcDdoV2h0cjJkV0Jwcmp2TXJoc29LVw?oc=5)
+
+2026-03-31
+
+來源：[20 Minuten](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRkY204RlhMWlFkWG15TGNJT3gzblJzSUJtVDM1MkQyek9wUVRUcUNHRDNRNGVVOEpsTUhQeTlpaWVSVWE5NjJfNlV5VXoteHZEYXhCNzlxTXBhRlY0TWNUMzhYZE9yZXlHY3U2QlIyME02bXhxWU1DTU54TXhjYUVLcDdoV2h0cjJkV0Jwcmp2TXJoc29LVw?oc=5)
 
 ---
 

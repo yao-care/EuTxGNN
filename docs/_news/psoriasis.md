@@ -3,7 +3,7 @@ layout: default
 title: "psoriasis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "psoriasis 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "psoriasis 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="psoriasis 有什麼相關新聞？">
-<strong>psoriasis</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>psoriasis</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Psoriasis: un fármaco aprobado para otro uso reduce la inflamación asociada a esta enfermedad](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdTZ1VGJBbDUzbDAzaTdvMjdmc1hrelhZS3V6bzZHbUt1OHRhSUJUbTZYb0lTMkwybTFTTm1mS3ByaEJ5VC1lWHlnQTFoNkEyYXBwM0xEU3U4TDRXelA5REM2a2RBbUc5RElDWmpnbE9EUVNoV0RjekQtMldjSjRpOEFJdi1TcnhyRVIyMEJodElpZllMUmlROUhhVzZpdVBuelpnWkM1T0xjQ2hMRXhCNFRnRjZucHc?oc=5)
 
 2026-03-31
 
 來源：[novaciencia.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdTZ1VGJBbDUzbDAzaTdvMjdmc1hrelhZS3V6bzZHbUt1OHRhSUJUbTZYb0lTMkwybTFTTm1mS3ByaEJ5VC1lWHlnQTFoNkEyYXBwM0xEU3U4TDRXelA5REM2a2RBbUc5RElDWmpnbE9EUVNoV0RjekQtMldjSjRpOEFJdi1TcnhyRVIyMEJodElpZllMUmlROUhhVzZpdVBuelpnWkM1T0xjQ2hMRXhCNFRnRjZucHc?oc=5)
-
----
-
-### [COVID-19-Impfung schützt offenbar vor infektionsgetriggerter Psoriasis](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHpMVktUUWlEN2UzM1JDcnZuUHdrWlJGSzRxUVQ3LU91UE1MWGhubFNzN1l2WDBZT0VlRUd6SDRXQm1oWkVtNkNMYW5ydWs0SzRQYUVFRE9wb2sxNEczZVQwbDJubEJiRERXNThkYkhvbU1GYkUxOFFJX1U2ZDlVWU5mTUxJcUoySWNHVDlmeGViaHo2dWJDalpLVXNISnFlVGdJV0R2N3hWVVJSWFRNc01lYUdNOHVpUXc2Sg?oc=5)
-
-2026-03-31
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHpMVktUUWlEN2UzM1JDcnZuUHdrWlJGSzRxUVQ3LU91UE1MWGhubFNzN1l2WDBZT0VlRUd6SDRXQm1oWkVtNkNMYW5ydWs0SzRQYUVFRE9wb2sxNEczZVQwbDJubEJiRERXNThkYkhvbU1GYkUxOFFJX1U2ZDlVWU5mTUxJcUoySWNHVDlmeGViaHo2dWJDalpLVXNISnFlVGdJV0R2N3hWVVJSWFRNc01lYUdNOHVpUXc2Sg?oc=5)
 
 ---
 

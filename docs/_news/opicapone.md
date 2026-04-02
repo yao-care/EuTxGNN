@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Just a Few Breathless Minutes a Day Could Slash Your Risk of 8 Major Diseases](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEY3RWNQM1JwaHBLd0xzWkR5TnduZnNWbGlkSEtPTC1BUm56bS1ySkNHaURyV2dqOUJOemlCTklIa1N0MldyTmNzMzZSbkgwQjNSSXlKa2pBZ0M4Vi12SUZYOGgyUFVoYllORkNGaC1tQ3czYXNTUmJHQ0tfSElPVTUteENidUdEVHotNXhfVERzbEpTRU9PMFRlSERsaDBzR0cwSlpn?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/opicapone/
 2026-04-01 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWZEVVVhUVFnMkowMElsUlhLeXZYTnB1Zjl6bHZlWFZsUVVOa0ktSG96bFVVWU5QUFMwb1czcVYtNVVaRWNkWHQ1c1YwcmJfcFJla1JXeGV0RVJhV240bUI5NzFjLWlmeXlySEUycVJ3Z0JYdGhJb25fVGM3aFJ4TG96VkN5Z1hVeHhHZ3o5bEVKclpXZXhfSjJIZ3ZJc3RVZGZ6bldHZWt4aDVPZEE?oc=5)
-
----
-
-### [My daughter has childhood dementia and may not live past 16](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
-
-2026-03-31 <span class="news-indication-tag">dementia</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [Descubren cómo la esclerosis múltiple mata neuronas clave para el pensamiento superior - La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjNIRnRidEV0OTFRRHpTR2ZHZ2tveUxUdkNBbl9ocDZfaDlKeTNwczBtNDc5eU9oRUhURThTQ2QtOTNTX29UdTZRZVZkczBjQ0IxcXRWdnJlbUlqY1lJdVltZnM4eWplZW4xMUdSOUl3ZU9hVU9OQzUwQkFOUUZRS0h2eGFuNkZKaEJrN0dLalFjejgyQUJ5LUdSSHRLaTQ4OGloYWRacmk4WlBUaW96cmhQcVdqNC0xOVFrSGtkakU1bFdqVzhQYWhpdXFqSmRDQjhvR2hxdjVpUdIB7gFBVV95cUxNQzFINS1QTmJZVXNuQTVsQTNPWGlUVURUdmVKZ2RScWFaU1dpT1BFTmZ2aTMtMTNmRTBPVjBuMllNZjF0Y0s2d1pZYWhiLVhmbVM3Q0psZWQzSHZKQ09YZUN2d19OdkVLZUZ3NFZLMzNMYkVaUnJVd0tVYllJQ256OV9BbHVGYmpCa0VnRFJzanJqM1lGX1c1bEY5a2hmR1ZUb05QNUdtcmJpbkR2dEdjZkR3cldWZlo5NldZSE1vbzNRZlZBcTF0YnpnZmEzbHNJZ0MtU2g0NU80UnJ5R1dpWlhCM1JIV0R3UVJodWNB?oc=5)
+
+2026-04-02 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjNIRnRidEV0OTFRRHpTR2ZHZ2tveUxUdkNBbl9ocDZfaDlKeTNwczBtNDc5eU9oRUhURThTQ2QtOTNTX29UdTZRZVZkczBjQ0IxcXRWdnJlbUlqY1lJdVltZnM4eWplZW4xMUdSOUl3ZU9hVU9OQzUwQkFOUUZRS0h2eGFuNkZKaEJrN0dLalFjejgyQUJ5LUdSSHRLaTQ4OGloYWRacmk4WlBUaW96cmhQcVdqNC0xOVFrSGtkakU1bFdqVzhQYWhpdXFqSmRDQjhvR2hxdjVpUdIB7gFBVV95cUxNQzFINS1QTmJZVXNuQTVsQTNPWGlUVURUdmVKZ2RScWFaU1dpT1BFTmZ2aTMtMTNmRTBPVjBuMllNZjF0Y0s2d1pZYWhiLVhmbVM3Q0psZWQzSHZKQ09YZUN2d19OdkVLZUZ3NFZLMzNMYkVaUnJVd0tVYllJQ256OV9BbHVGYmpCa0VnRFJzanJqM1lGX1c1bEY5a2hmR1ZUb05QNUdtcmJpbkR2dEdjZkR3cldWZlo5NldZSE1vbzNRZlZBcTF0YnpnZmEzbHNJZ0MtU2g0NU80UnJ5R1dpWlhCM1JIV0R3UVJodWNB?oc=5)
+
+---
 
 ### [E-Zigaretten sind wahrscheinlich krebsfördernd](https://news.google.com/rss/articles/CBMingFBVV95cUxNTVVPN1QzQWR2X1pWUHk5M3hqajZwWW5HQS1RajNhVGlPVzNrWkxka0JMV3R2OTJBNE5RYXZUbzJpcDFhUVFqNmVVSTJUbkZ1elgybDFkOWJ5aDRJLVVrSTNGV1pSNENkRGE5cHVOWmU4YlV1WXQzUzQtSENkTGx1Rmo1RTB0MUNYOTNHWjgxOEZydm9lR3ZRMXdYdDZTQQ?oc=5)
 
@@ -68,11 +76,27 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [Public Health Wales issues statement on rise in cases of Cicada Covid variant - North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXdUUHJqWnZxZTN4dDNYUnBJSXM3NnRFbEVDeGIzdVFpR1d4bnhrU3FBb1F5VkhiQk5ZRFlHYmxoOUY5M0NZV2lyQ2c2UTRVbXMwTFBDM25qYVVFNFNqVjZpcHNkTXVDcTZBc0I3ZE1IZkRKcU9lN3d2ZlVfYkx0c3BqUFVSV2hoQXVzYU5FQk05SGRsUFdhZEhwTQ?oc=5)
+
+2026-04-01 <span class="news-indication-tag">MS</span>
+
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXdUUHJqWnZxZTN4dDNYUnBJSXM3NnRFbEVDeGIzdVFpR1d4bnhrU3FBb1F5VkhiQk5ZRFlHYmxoOUY5M0NZV2lyQ2c2UTRVbXMwTFBDM25qYVVFNFNqVjZpcHNkTXVDcTZBc0I3ZE1IZkRKcU9lN3d2ZlVfYkx0c3BqUFVSV2hoQXVzYU5FQk05SGRsUFdhZEhwTQ?oc=5)
+
+---
+
 ### [Diabete, la svolta della ricerca: una proteina cerebrale spiega come funziona la metformina - Libero Quotidiano](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWDV6c1BNVk9ZQURuY3J3SG9wVWFKUGszYmlEZ3o1N01nMkVOa1R3VFhxcF84VV9SajBqa2JGbVRheDd6WDFraEdmUjRVVkhzM3JrdFZGb1BUb003MWFiWS1JNWN3VUY3N1A1SmdMcmFnU2M2ellrMk1TWWtGWW9CN0R5MktyckNvYXl6QTQzMUJKRTdEVEt5QUhoOWt1TkNmNFUzNUF2Q2JXckNPLUdOeVc5VUpxQnNwVkFuTk1UZHlUMUhVa2ZFS0JfUVljOVpnQUpzMkxfOGxSTVdnRDV0aThHdVZiWGtC?oc=5)
 
 2026-04-01 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">MS</span>
 
 來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWDV6c1BNVk9ZQURuY3J3SG9wVWFKUGszYmlEZ3o1N01nMkVOa1R3VFhxcF84VV9SajBqa2JGbVRheDd6WDFraEdmUjRVVkhzM3JrdFZGb1BUb003MWFiWS1JNWN3VUY3N1A1SmdMcmFnU2M2ellrMk1TWWtGWW9CN0R5MktyckNvYXl6QTQzMUJKRTdEVEt5QUhoOWt1TkNmNFUzNUF2Q2JXckNPLUdOeVc5VUpxQnNwVkFuTk1UZHlUMUhVa2ZFS0JfUVljOVpnQUpzMkxfOGxSTVdnRDV0aThHdVZiWGtC?oc=5)
+
+---
+
+### [All’Usl un servizio di terapia del dolore per i pazienti affetti da sclerosi multipla - AostaSera -](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlBnVmdwbmtCRTFLbUtoaVZteGdBQzZZYkFWbkJLaEV0UUVDbC1yZEdyeUFKUXdUYndnTGEzbEsxNjNoUjl5TjZ4cXpZMWhzVGJHOExPa3dWTE9wYllXbHNQdUgybGM1d1g4VngzSWQ4d290ZnU2WHRQZkplclM2eGtyOTMyRDZYQnV2YUVlTWVJWlBCYkJoS29BcVdIXzZ5b2RubU5tT2IwUzh1NkpoOXdMandicFpjNVZzZHJjek9NSWREUHF5Tg?oc=5)
+
+2026-04-01 <span class="news-indication-tag">sclerosi multipla</span> <span class="news-indication-tag">AF</span>
+
+來源：[AostaSera -](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlBnVmdwbmtCRTFLbUtoaVZteGdBQzZZYkFWbkJLaEV0UUVDbC1yZEdyeUFKUXdUYndnTGEzbEsxNjNoUjl5TjZ4cXpZMWhzVGJHOExPa3dWTE9wYllXbHNQdUgybGM1d1g4VngzSWQ4d290ZnU2WHRQZkplclM2eGtyOTMyRDZYQnV2YUVlTWVJWlBCYkJoS29BcVdIXzZ5b2RubU5tT2IwUzh1NkpoOXdMandicFpjNVZzZHJjek9NSWREUHF5Tg?oc=5)
 
 ---
 
@@ -84,35 +108,27 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Multivitamine bremsen das biologische Altern - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9WSnFMdEhvVjlDa1lQeVlkbnRjV3V2SHNmUkFRVXlJUVR6X1JBRFBzakJfNy1YZHRZUlBHSy1lQ213YjNqSU55bmNSMTNLeXBhT2lCMktFN2hBYmszYWhIVUhHeHB6a2pjUUpCMWV0MEhaZElpRGdLVzV1TGZhWC1oZHpMelRPNUxRaHE1ZXlQc3lPajBac25vbmN3RFZnMFhBakJ3?oc=5)
+### [Dorking man becomes stem cell donor after transplant saves father](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
 
 2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW9WSnFMdEhvVjlDa1lQeVlkbnRjV3V2SHNmUkFRVXlJUVR6X1JBRFBzakJfNy1YZHRZUlBHSy1lQ213YjNqSU55bmNSMTNLeXBhT2lCMktFN2hBYmszYWhIVUhHeHB6a2pjUUpCMWV0MEhaZElpRGdLVzV1TGZhWC1oZHpMelRPNUxRaHE1ZXlQc3lPajBac25vbmN3RFZnMFhBakJ3?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
 
 ---
 
-### [Horror Covid 'mask up' warning as new Cicada variant 'set to become dominant in UK' - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUdQbU54NjQ1M3VLZHl4c0czZ3hrQ2FEY3ZMdnppNjFyMU82cjZsUGhjOG1TdUpldUhrNUYxS1RKLU1tcWJ2TW5OMGRZNkU2YlZZOU5iYUFXZmJ1dVRhTzVjaW5KaHUyUS1KVnZuOEc3dllpVmdPclVoWjVUaEtiZ9IBhgFBVV95cUxQVXlHMGVweG4yazFMbzRUMno5ZUYyNlYteVdoZ0IwQWMtSzRVbjBGY0NzTmVpMVlzVE9NMjREelN1N0F5VjR4UnlHRUxjR3QtUHZlNkNlai1UVGVoSjhSbGp3WWtZUm9KT2EwQWI3RXF5cjNQMF80LWprNVVFZHh2SC14X1pHdw?oc=5)
+### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
 
-2026-04-01 <span class="news-indication-tag">MS</span>
+2026-03-31 <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUdQbU54NjQ1M3VLZHl4c0czZ3hrQ2FEY3ZMdnppNjFyMU82cjZsUGhjOG1TdUpldUhrNUYxS1RKLU1tcWJ2TW5OMGRZNkU2YlZZOU5iYUFXZmJ1dVRhTzVjaW5KaHUyUS1KVnZuOEc3dllpVmdPclVoWjVUaEtiZ9IBhgFBVV95cUxQVXlHMGVweG4yazFMbzRUMno5ZUYyNlYteVdoZ0IwQWMtSzRVbjBGY0NzTmVpMVlzVE9NMjREelN1N0F5VjR4UnlHRUxjR3QtUHZlNkNlai1UVGVoSjhSbGp3WWtZUm9KT2EwQWI3RXF5cjNQMF80LWprNVVFZHh2SC14X1pHdw?oc=5)
-
----
-
-### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
-
-2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
 
 ---
 
-### [À 26 ans, elle ignore ces signaux…, le cancer s’est déjà propagé - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
+### [I made eight tweaks to increase my lifespan – I felt instantly happier and energised - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGRRV2pzOUQza1EteDhtZy1nLVJKUVdHWENXWHcwODNyOFlPMFZSLWxFVG9NbEUyeVhIZnREbkphc3h5TTl0SzE5ZFh4WHVLRjR2Y2VwQ0FvQlNLdVZudlI5WnlzNnVRNDdEWGhRWU9ubWRjcDR4dmdtLURHRno0bHk0TDBkWEJLSW9qT1h6ZW5qN3lJa0Fv?oc=5)
 
-2026-03-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-03-31 <span class="news-indication-tag">MS</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGRRV2pzOUQza1EteDhtZy1nLVJKUVdHWENXWHcwODNyOFlPMFZSLWxFVG9NbEUyeVhIZnREbkphc3h5TTl0SzE5ZFh4WHVLRjR2Y2VwQ0FvQlNLdVZudlI5WnlzNnVRNDdEWGhRWU9ubWRjcDR4dmdtLURHRno0bHk0TDBkWEJLSW9qT1h6ZW5qN3lJa0Fv?oc=5)
 
 ---
 
