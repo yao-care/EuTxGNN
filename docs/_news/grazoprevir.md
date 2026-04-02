@@ -44,6 +44,46 @@ permalink: /news/grazoprevir/
 
 ## 相關新聞（17 則）
 
+### [Mono-Infektion erhöht Risiko für Multiple Sklerose - it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1p3VS1ZbVdWYk5LOWpxWlNiLUU1WHFySUs2dnhuLVFBNFBXcHlkOElKVVhNTXE2T2Q4ZHJqVWVOU2MyRGgyMjk1U0xXTWhkTC02d0RjYlp0ekx3eDYzRXh5N25zMVVsRDlGa2RWbEowYmljQ01zVWplTEs0Sk0tZ0tpd0hqakdScXh3Xw?oc=5)
+
+2026-04-02 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1p3VS1ZbVdWYk5LOWpxWlNiLUU1WHFySUs2dnhuLVFBNFBXcHlkOElKVVhNTXE2T2Q4ZHJqVWVOU2MyRGgyMjk1U0xXTWhkTC02d0RjYlp0ekx3eDYzRXh5N25zMVVsRDlGa2RWbEowYmljQ01zVWplTEs0Sk0tZ0tpd0hqakdScXh3Xw?oc=5)
+
+---
+
+### [Hito científico: descubren que la inflamación causada por la esclerosis múltiple daña el ADN de las neuronas - El Economista](https://news.google.com/rss/articles/CBMiowJBVV95cUxPWS1aSFMtM2NuNE5uNXpKYTc0SXhLTG93eW12eUJrSThTU3A1cXgySnpWOEViSDdVcXY1MHBkSF9QY2FUdV9mYUJweC1TNXk4dlFGT3NaS25MclNGNGZpcVdVdk1EMnlrYVpVenhScFBQYUhvR21pZFM2dktLOWZ3b0JEbTZBMEdEenl2anVtTmJ5U0hGMUJSNFg4STFiNmdzX0UtTjA3V0pUTFdzSkhRWmp3TW5hTUo5Tk5DbWRWMklrVTlfbTVqSUZSU1FuSHoxM0tIa3o1a3E5d0EzUEhBbjJEZzlPMEtzVDFBeTBFWU5NY1IyUUlCYjBHal9GMy1ERmt3czQtTzVGaWdSTEpkamVTTlVDM19TTXdWWXkzUzFoaHPSAY4CQVVfeXFMTnN3bllXVnc3dk5DWTNCNVM5Z0NRNExabERxUUpYSGhaVndSWUxxZm5US1phb3d6a2pUdW5YaDZ4SThNUHc5SE1RWXo2bFhmVGhhcjh6TFpBOERkOGhiZ21PVjRSODBqMEwzazltWm9IWnh3YWtCQUsyekpob2oyeXJfeFFKZmY1OGdkS1YyUThIelJoQUU2MVIyeVYwSmJnV0VxMGNRS25uQ1FucldSMWJqUHpPcE9QODZzQzAzSEtmVEIzN1BCZzQxQ3VLZXExZUJjTUNwOU9fZC1WamFQRDVDQkkxOENwSmlZOXh0dE9hQmFDTU4xaWwyZmhqbS1rdWxaYjNJVTdzLUcxaHdn?oc=5)
+
+2026-04-02 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMiowJBVV95cUxPWS1aSFMtM2NuNE5uNXpKYTc0SXhLTG93eW12eUJrSThTU3A1cXgySnpWOEViSDdVcXY1MHBkSF9QY2FUdV9mYUJweC1TNXk4dlFGT3NaS25MclNGNGZpcVdVdk1EMnlrYVpVenhScFBQYUhvR21pZFM2dktLOWZ3b0JEbTZBMEdEenl2anVtTmJ5U0hGMUJSNFg4STFiNmdzX0UtTjA3V0pUTFdzSkhRWmp3TW5hTUo5Tk5DbWRWMklrVTlfbTVqSUZSU1FuSHoxM0tIa3o1a3E5d0EzUEhBbjJEZzlPMEtzVDFBeTBFWU5NY1IyUUlCYjBHal9GMy1ERmt3czQtTzVGaWdSTEpkamVTTlVDM19TTXdWWXkzUzFoaHPSAY4CQVVfeXFMTnN3bllXVnc3dk5DWTNCNVM5Z0NRNExabERxUUpYSGhaVndSWUxxZm5US1phb3d6a2pUdW5YaDZ4SThNUHc5SE1RWXo2bFhmVGhhcjh6TFpBOERkOGhiZ21PVjRSODBqMEwzazltWm9IWnh3YWtCQUsyekpob2oyeXJfeFFKZmY1OGdkS1YyUThIelJoQUU2MVIyeVYwSmJnV0VxMGNRS25uQ1FucldSMWJqUHpPcE9QODZzQzAzSEtmVEIzN1BCZzQxQ3VLZXExZUJjTUNwOU9fZC1WamFQRDVDQkkxOENwSmlZOXh0dE9hQmFDTU4xaWwyZmhqbS1rdWxaYjNJVTdzLUcxaHdn?oc=5)
+
+---
+
+### [First cases of mosquito-borne virus found in blackbirds in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+
+---
+
+### [Giovane, atletico, vita distrutta dal Long Covid. Ma una nuova terapia lo guarisce - la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUNhaXBTVWpMTDZ3Z01tWmhpMk9VXzBNd181QWNGUjVxOVVPODBjR2dKNVNSUXJ3Wkx2THBETzR5OVBJVC05SnIycmR6b3FadVcxcXNzRTlEb1AxMUpJdWdqMEZaOXFxMGk2WkpFc0hJZlRJVW9lcDRDZmZTUEw5QllrU3V0RG5TVGhNdExNMTI1MURXTERJVkFNYWY2WmFvNlY0NlZaRWxSVWpLbXJGZmNYVzRBVlJhOGotUGpGWGRHQdIBxwFBVV95cUxQN0wyTktfVUhOMDJkWUhEWFdrR056a1hCeFBxQnFwaDJURllOUzNncVVkYnFIZ1RtSnk3RGVxbllfTUFVOFhqVVZoWXhFbFd1TG9LcmNMdERJV1VKd1kxOUFqVm5zbDNHTEJLRlJiTkt5dXFpY2lyRTVHdk9PRTVNWk1IQkNGemdYU3d1U0o4WW9vRzdoUGowc1dXd2tOMGlMYmQxYzFld0xDbkY2MFRzTjJuNDA0dk1wTzMyQlN2LUZJaVZBd3Vz?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUNhaXBTVWpMTDZ3Z01tWmhpMk9VXzBNd181QWNGUjVxOVVPODBjR2dKNVNSUXJ3Wkx2THBETzR5OVBJVC05SnIycmR6b3FadVcxcXNzRTlEb1AxMUpJdWdqMEZaOXFxMGk2WkpFc0hJZlRJVW9lcDRDZmZTUEw5QllrU3V0RG5TVGhNdExNMTI1MURXTERJVkFNYWY2WmFvNlY0NlZaRWxSVWpLbXJGZmNYVzRBVlJhOGotUGpGWGRHQdIBxwFBVV95cUxQN0wyTktfVUhOMDJkWUhEWFdrR056a1hCeFBxQnFwaDJURllOUzNncVVkYnFIZ1RtSnk3RGVxbllfTUFVOFhqVVZoWXhFbFd1TG9LcmNMdERJV1VKd1kxOUFqVm5zbDNHTEJLRlJiTkt5dXFpY2lyRTVHdk9PRTVNWk1IQkNGemdYU3d1U0o4WW9vRzdoUGowc1dXd2tOMGlMYmQxYzFld0xDbkY2MFRzTjJuNDA0dk1wTzMyQlN2LUZJaVZBd3Vz?oc=5)
+
+---
+
+### [Uniklinik testet mögliche Alzheimer-Bremse - Westfälische Nachrichten](https://news.google.com/rss/articles/CBMinwFBVV95cUxPam5xcEhPbTBwOW1WYnJ4WGhMckNod29TdGoxYmZ6SzVvM0xVQWFub0VCNzFaeXA2VGgwTWtPZU9aNDh3c2MtMjgxNjZQeUJoTENxZjBZRTFWTktwRWdNT1ZfaTVHd1dkeUZuZGo3a0pFdnppZnM4UndkdWo0d0RjR0VBSTBBZTA0ZFRKVXFyQUdPRGZlaVpfZWh6SDBZR3M?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Westfälische Nachrichten](https://news.google.com/rss/articles/CBMinwFBVV95cUxPam5xcEhPbTBwOW1WYnJ4WGhMckNod29TdGoxYmZ6SzVvM0xVQWFub0VCNzFaeXA2VGgwTWtPZU9aNDh3c2MtMjgxNjZQeUJoTENxZjBZRTFWTktwRWdNT1ZfaTVHd1dkeUZuZGo3a0pFdnppZnM4UndkdWo0d0RjR0VBSTBBZTA0ZFRKVXFyQUdPRGZlaVpfZWh6SDBZR3M?oc=5)
+
+---
+
 ### [ECIM 2026 - 24th European Congress of Internal Medicine - 25. bis 28. März Heilung der chronischen Hepatitis B in Sicht - Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
 
 2026-04-02 <span class="news-indication-tag">hepatitis</span>
@@ -52,33 +92,17 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Descubren cómo la esclerosis múltiple mata neuronas clave para el pensamiento superior - La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjNIRnRidEV0OTFRRHpTR2ZHZ2tveUxUdkNBbl9ocDZfaDlKeTNwczBtNDc5eU9oRUhURThTQ2QtOTNTX29UdTZRZVZkczBjQ0IxcXRWdnJlbUlqY1lJdVltZnM4eWplZW4xMUdSOUl3ZU9hVU9OQzUwQkFOUUZRS0h2eGFuNkZKaEJrN0dLalFjejgyQUJ5LUdSSHRLaTQ4OGloYWRacmk4WlBUaW96cmhQcVdqNC0xOVFrSGtkakU1bFdqVzhQYWhpdXFqSmRDQjhvR2hxdjVpUdIB7gFBVV95cUxNQzFINS1QTmJZVXNuQTVsQTNPWGlUVURUdmVKZ2RScWFaU1dpT1BFTmZ2aTMtMTNmRTBPVjBuMllNZjF0Y0s2d1pZYWhiLVhmbVM3Q0psZWQzSHZKQ09YZUN2d19OdkVLZUZ3NFZLMzNMYkVaUnJVd0tVYllJQ256OV9BbHVGYmpCa0VnRFJzanJqM1lGX1c1bEY5a2hmR1ZUb05QNUdtcmJpbkR2dEdjZkR3cldWZlo5NldZSE1vbzNRZlZBcTF0YnpnZmEzbHNJZ0MtU2g0NU80UnJ5R1dpWlhCM1JIV0R3UVJodWNB?oc=5)
+### [Dall’igiene dei cibi al vaccino, il vademecum contro l’epatite A - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0RfQjBDMTJzSUJtZWdzYjdQQlNSZm5XdXFSZnBoS2VrZm5admRTbEZqSFFwQ0hvLXdOTmVKaEdvSG5hWlhUYWtKSzdlTjNpc25fZXAyc3UwbndYY1NCYWEwUW9oWXVHSll0RXJJNGo1X1IxQmw2OFA0cXI3d1UtQUNBa0JPanJRTkxEX1owOFV2SlhlWUYxMkJBMnJlTkdRRFBYd21ZMHZ0Z3ZqUERsMGtUTzNQMmpjekJRZFFPcGpBS2RqU0VZdg?oc=5)
 
-2026-04-02 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-04-02 <span class="news-indication-tag">epatite</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjNIRnRidEV0OTFRRHpTR2ZHZ2tveUxUdkNBbl9ocDZfaDlKeTNwczBtNDc5eU9oRUhURThTQ2QtOTNTX29UdTZRZVZkczBjQ0IxcXRWdnJlbUlqY1lJdVltZnM4eWplZW4xMUdSOUl3ZU9hVU9OQzUwQkFOUUZRS0h2eGFuNkZKaEJrN0dLalFjejgyQUJ5LUdSSHRLaTQ4OGloYWRacmk4WlBUaW96cmhQcVdqNC0xOVFrSGtkakU1bFdqVzhQYWhpdXFqSmRDQjhvR2hxdjVpUdIB7gFBVV95cUxNQzFINS1QTmJZVXNuQTVsQTNPWGlUVURUdmVKZ2RScWFaU1dpT1BFTmZ2aTMtMTNmRTBPVjBuMllNZjF0Y0s2d1pZYWhiLVhmbVM3Q0psZWQzSHZKQ09YZUN2d19OdkVLZUZ3NFZLMzNMYkVaUnJVd0tVYllJQ256OV9BbHVGYmpCa0VnRFJzanJqM1lGX1c1bEY5a2hmR1ZUb05QNUdtcmJpbkR2dEdjZkR3cldWZlo5NldZSE1vbzNRZlZBcTF0YnpnZmEzbHNJZ0MtU2g0NU80UnJ5R1dpWlhCM1JIV0R3UVJodWNB?oc=5)
-
----
-
-### [CAR-Technologie bekämpft jetzt Alzheimer-Plaques - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0JlQXZTdGcwN0F4YndhUVZhX2YtSEZOR3dwbnRlU0ZsekpJZ1dBLVhMN0VKdUdidWVtWnpQU3NzbXVVNklFMkExYlB2dDNRYjdLTlJ3cFVueUFfNlk5dkJrVi1VSzRFYTVDT3c3ZG5kanEyYWx5TEpCbUQydHQxQ2JCekNlZWRjeDNVOVkwMFNIaFAzRWtVd1U5MkNmU2IyUVFqcmJOQ0tIcDVO?oc=5)
-
-2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0JlQXZTdGcwN0F4YndhUVZhX2YtSEZOR3dwbnRlU0ZsekpJZ1dBLVhMN0VKdUdidWVtWnpQU3NzbXVVNklFMkExYlB2dDNRYjdLTlJ3cFVueUFfNlk5dkJrVi1VSzRFYTVDT3c3ZG5kanEyYWx5TEpCbUQydHQxQ2JCekNlZWRjeDNVOVkwMFNIaFAzRWtVd1U5MkNmU2IyUVFqcmJOQ0tIcDVO?oc=5)
-
----
-
-### [Long Covid, scoperta una possibile terapia: il caso che fa sperare](https://news.google.com/rss/articles/CBMisAFBVV95cUxORXlhYTg4TnNvZDFmek5XcFNXTTNsTzEzb09jbnNmMzhmYzZxQXBFbV9nM3Mwa1pqNzd2MEFyVjJhVmxBUFZndFdqNWpOeC1OZmJHaEdPb1JwME1FM2tmRzhlZ0xpSGJOQ3MwNkhjMlIwdE1hSVBFOHctbl9UUXhuOXFPcGUtemxFN1RfUHdXSWtyV0R6bXJnUTZLRHFHTklGZHpiVzVjYkV5TnNqZG80dg?oc=5)
-
-2026-04-01 <span class="news-indication-tag">MS</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMisAFBVV95cUxORXlhYTg4TnNvZDFmek5XcFNXTTNsTzEzb09jbnNmMzhmYzZxQXBFbV9nM3Mwa1pqNzd2MEFyVjJhVmxBUFZndFdqNWpOeC1OZmJHaEdPb1JwME1FM2tmRzhlZ0xpSGJOQ3MwNkhjMlIwdE1hSVBFOHctbl9UUXhuOXFPcGUtemxFN1RfUHdXSWtyV0R6bXJnUTZLRHFHTklGZHpiVzVjYkV5TnNqZG80dg?oc=5)
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0RfQjBDMTJzSUJtZWdzYjdQQlNSZm5XdXFSZnBoS2VrZm5admRTbEZqSFFwQ0hvLXdOTmVKaEdvSG5hWlhUYWtKSzdlTjNpc25fZXAyc3UwbndYY1NCYWEwUW9oWXVHSll0RXJJNGo1X1IxQmw2OFA0cXI3d1UtQUNBa0JPanJRTkxEX1owOFV2SlhlWUYxMkJBMnJlTkdRRFBYd21ZMHZ0Z3ZqUERsMGtUTzNQMmpjekJRZFFPcGpBS2RqU0VZdg?oc=5)
 
 ---
 
 ### ['Don’t be embarrassed about bowel cancer, get help before it’s too late' - Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
 
-2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
 
@@ -108,14 +132,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Diabete, la svolta della ricerca: una proteina cerebrale spiega come funziona la metformina - Libero Quotidiano](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWDV6c1BNVk9ZQURuY3J3SG9wVWFKUGszYmlEZ3o1N01nMkVOa1R3VFhxcF84VV9SajBqa2JGbVRheDd6WDFraEdmUjRVVkhzM3JrdFZGb1BUb003MWFiWS1JNWN3VUY3N1A1SmdMcmFnU2M2ellrMk1TWWtGWW9CN0R5MktyckNvYXl6QTQzMUJKRTdEVEt5QUhoOWt1TkNmNFUzNUF2Q2JXckNPLUdOeVc5VUpxQnNwVkFuTk1UZHlUMUhVa2ZFS0JfUVljOVpnQUpzMkxfOGxSTVdnRDV0aThHdVZiWGtC?oc=5)
-
-2026-04-01 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">MS</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWDV6c1BNVk9ZQURuY3J3SG9wVWFKUGszYmlEZ3o1N01nMkVOa1R3VFhxcF84VV9SajBqa2JGbVRheDd6WDFraEdmUjRVVkhzM3JrdFZGb1BUb003MWFiWS1JNWN3VUY3N1A1SmdMcmFnU2M2ellrMk1TWWtGWW9CN0R5MktyckNvYXl6QTQzMUJKRTdEVEt5QUhoOWt1TkNmNFUzNUF2Q2JXckNPLUdOeVc5VUpxQnNwVkFuTk1UZHlUMUhVa2ZFS0JfUVljOVpnQUpzMkxfOGxSTVdnRDV0aThHdVZiWGtC?oc=5)
-
----
-
 ### [All’Usl un servizio di terapia del dolore per i pazienti affetti da sclerosi multipla - AostaSera -](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlBnVmdwbmtCRTFLbUtoaVZteGdBQzZZYkFWbkJLaEV0UUVDbC1yZEdyeUFKUXdUYndnTGEzbEsxNjNoUjl5TjZ4cXpZMWhzVGJHOExPa3dWTE9wYllXbHNQdUgybGM1d1g4VngzSWQ4d290ZnU2WHRQZkplclM2eGtyOTMyRDZYQnV2YUVlTWVJWlBCYkJoS29BcVdIXzZ5b2RubU5tT2IwUzh1NkpoOXdMandicFpjNVZzZHJjek9NSWREUHF5Tg?oc=5)
 
 2026-04-01 <span class="news-indication-tag">sclerosi multipla</span> <span class="news-indication-tag">AF</span>
@@ -132,51 +148,35 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15 - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+### [Jordan Brook confirms he 'going home' after 22 days in hospital](https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUjVCYnpKcUR4RFEtV3hYZWphNEpRUVdpNkdlRVlzdUtKVE05WDljYXVfZWJPdUptU1RCQU9RUVczaDVsVERoM1BCY251bF9mNzhQcWoxemZabGgtc1FmaFNEUTBkWUgyMUR2R1ZDWmdtTVNWV1dkVWJ1Wm4?oc=5)
 
-2026-04-01 <span class="news-indication-tag">epatite</span>
+2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
-
----
-
-### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
-
-2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
+來源：[Rayo](https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUjVCYnpKcUR4RFEtV3hYZWphNEpRUVdpNkdlRVlzdUtKVE05WDljYXVfZWJPdUptU1RCQU9RUVczaDVsVERoM1BCY251bF9mNzhQcWoxemZabGgtc1FmaFNEUTBkWUgyMUR2R1ZDWmdtTVNWV1dkVWJ1Wm4?oc=5)
 
 ---
 
-### [OMS impulsa pruebas rápidas de tuberculosis para fortalecer el diagnóstico desde la atención primaria](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZmZyWnpFT1FkWEZJVG5vNlhLUHNEdmExY3d3aC13RFFiTVk5d1Bqa051SXBWQnFqS1hpVUJNZ21ONS1CNVhEdmo3ODFVcThjYnBOUlE2ZmNqdXAtV1dfTHJ6bGFMRkV0S3JwS0FQWkprUzRKSFZ5M3o0a0kzRWRCLVVxV0J6aC04cE9weEFJUFVYYWF3UUxpWkZJbUFLN3h5SlBlUTZvR1Y0V0c1Sl9nTXhwdXJDRG9TS09MNVVTRHhueFpfcjRpWWpuVm9VaWtCYTYtSzd0dWxkMjFvdjd4a1dtUQ?oc=5)
+### [Epatite A, allarme in Italia: Lazio, Campania e Puglia le regioni con più colpite. Sintomi e come si prende - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjh2eS1STU44SmhPYmJlU0doRkdiek9wVHh1dnl2MTM1c3psQXhwNEpQdjlfTlNHVURCSXgzS2ljb0Z5azlINmFDUDRkYjQ3Rlc0aGFZdFZUYURDTTRkQUZENERuSm9GTktaRGpKVTlYNnctOE9yMXFfOVlrbnlwWUxKVmdDdmpOVTVTaUJvVkdwNm5uNU9aMjVR?oc=5)
 
-2026-03-31 <span class="news-indication-tag">MS</span>
+2026-03-28 <span class="news-indication-tag">epatite</span>
 
-來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZmZyWnpFT1FkWEZJVG5vNlhLUHNEdmExY3d3aC13RFFiTVk5d1Bqa051SXBWQnFqS1hpVUJNZ21ONS1CNVhEdmo3ODFVcThjYnBOUlE2ZmNqdXAtV1dfTHJ6bGFMRkV0S3JwS0FQWkprUzRKSFZ5M3o0a0kzRWRCLVVxV0J6aC04cE9weEFJUFVYYWF3UUxpWkZJbUFLN3h5SlBlUTZvR1Y0V0c1Sl9nTXhwdXJDRG9TS09MNVVTRHhueFpfcjRpWWpuVm9VaWtCYTYtSzd0dWxkMjFvdjd4a1dtUQ?oc=5)
-
----
-
-### [À 26 ans, elle ignore ces signaux…, le cancer s’est déjà propagé - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
-
-2026-03-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjh2eS1STU44SmhPYmJlU0doRkdiek9wVHh1dnl2MTM1c3psQXhwNEpQdjlfTlNHVURCSXgzS2ljb0Z5azlINmFDUDRkYjQ3Rlc0aGFZdFZUYURDTTRkQUZENERuSm9GTktaRGpKVTlYNnctOE9yMXFfOVlrbnlwWUxKVmdDdmpOVTVTaUJvVkdwNm5uNU9aMjVR?oc=5)
 
 ---
 
-### [Épidémie d'hépatite A en Italie: ce que vous devez savoir - 20 Minuten](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRkY204RlhMWlFkWG15TGNJT3gzblJzSUJtVDM1MkQyek9wUVRUcUNHRDNRNGVVOEpsTUhQeTlpaWVSVWE5NjJfNlV5VXoteHZEYXhCNzlxTXBhRlY0TWNUMzhYZE9yZXlHY3U2QlIyME02bXhxWU1DTU54TXhjYUVLcDdoV2h0cjJkV0Jwcmp2TXJoc29LVw?oc=5)
+### [NHS says stop taking statins if you have any of these symptoms - Chronicle Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUFyNmliTkg1WUE5Tk5ZcHBLRjdCaVNlWVNaVHIzMHFreVpjdHZ3cFE4UDBWYnNjcmlDNnRMbHA4eHpTYTFJS05ITUlxR3ZxODVwd0RLR3VERENnVTI1MURzVHE0MFZxTEd4aFpzM180ZTVqVnQyb2tWenpKc09PTGVta0tQU2V2?oc=5)
 
-2026-03-31 <span class="news-indication-tag">hépatite</span>
+2026-03-27 <span class="news-indication-tag">MS</span>
 
-來源：[20 Minuten](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRkY204RlhMWlFkWG15TGNJT3gzblJzSUJtVDM1MkQyek9wUVRUcUNHRDNRNGVVOEpsTUhQeTlpaWVSVWE5NjJfNlV5VXoteHZEYXhCNzlxTXBhRlY0TWNUMzhYZE9yZXlHY3U2QlIyME02bXhxWU1DTU54TXhjYUVLcDdoV2h0cjJkV0Jwcmp2TXJoc29LVw?oc=5)
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUFyNmliTkg1WUE5Tk5ZcHBLRjdCaVNlWVNaVHIzMHFreVpjdHZ3cFE4UDBWYnNjcmlDNnRMbHA4eHpTYTFJS05ITUlxR3ZxODVwd0RLR3VERENnVTI1MURzVHE0MFZxTEd4aFpzM180ZTVqVnQyb2tWenpKc09PTGVta0tQU2V2?oc=5)
 
 ---
 
-### [MSF queremos comprar un medicamento revolucionario contra el VIH ¿Por qué Gilead no lo vende? - Médicos Sin Fronteras](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHVPWndfUGFxODJ6VTNlUUJXVjBlY1FzTnJXV1d6ZGEya1Vfb2lnUWpJbktvX2d5aExmSnN0OGpjbDZOUlA2cEVUZjN0WGE3RWx3XzViT2ZYUzBweHQ2ckF1ajlvb1RPVG1kTlhqeDlVeFhRa1dDeHE2U2EtbmxDYmZvdUF1N3VSR3l0a3B2YTQ3SDNmQUZLanNXX1dDdmxJdjBF?oc=5)
+### [Newcastle lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
 
-2026-03-31 <span class="news-indication-tag">MS</span>
+2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Médicos Sin Fronteras](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHVPWndfUGFxODJ6VTNlUUJXVjBlY1FzTnJXV1d6ZGEya1Vfb2lnUWpJbktvX2d5aExmSnN0OGpjbDZOUlA2cEVUZjN0WGE3RWx3XzViT2ZYUzBweHQ2ckF1ajlvb1RPVG1kTlhqeDlVeFhRa1dDeHE2U2EtbmxDYmZvdUF1N3VSR3l0a3B2YTQ3SDNmQUZLanNXX1dDdmxJdjBF?oc=5)
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
 
 ---
 

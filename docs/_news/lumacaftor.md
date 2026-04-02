@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="Lumacaftor 有什麼相關新聞？">
-<strong>Lumacaftor</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lumacaftor</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/lumacaftor/
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Bluthochdruck in jungen Jahren rächt sich im mittleren Alter – also viel früher Medikamente nehmen?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
-
-2026-04-02 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [The 40-minute exercise that can slash high blood pressure in just six weeks - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JkRmdPRDNJZXhnQ0o0UVBEaThvdEgtdnZTNjVRU3NWcXp3bmRFVEdFdnB5YnY0V1J1UXBRZ3ZveGJWNE5MaGpqeWlnVExpd3lTSERscExjeEltVjBkNXFLU085Wm5kQ2hqZ251aUdZb3VobnpWLUtheEFxYjV5dGJITVl2cHZwX2lHYVlwSFhGcHd3Rm4watIBngFBVV95cUxNZ09POF9kS3NEU19NbzQ1YlRKNTJHeGZRaUdJS1VmWEhhaXpncnJ0NHlvclhuZkwxbjRLSmVMa1pxTkc5dGRNTkVBcXYwb25nNkNNaWdGRHVISFU5QWt5alRTMkNtMWJZR1BFQVEwc2JKbUxWV3lGck9qWVFpamllWTI0VDlKS0h6Z3hQZ3NUWnBjek1qSDExT0YwSzAyQQ?oc=5)
 
 2026-04-01 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JkRmdPRDNJZXhnQ0o0UVBEaThvdEgtdnZTNjVRU3NWcXp3bmRFVEdFdnB5YnY0V1J1UXBRZ3ZveGJWNE5MaGpqeWlnVExpd3lTSERscExjeEltVjBkNXFLU085Wm5kQ2hqZ251aUdZb3VobnpWLUtheEFxYjV5dGJITVl2cHZwX2lHYVlwSFhGcHd3Rm4watIBngFBVV95cUxNZ09POF9kS3NEU19NbzQ1YlRKNTJHeGZRaUdJS1VmWEhhaXpncnJ0NHlvclhuZkwxbjRLSmVMa1pxTkc5dGRNTkVBcXYwb25nNkNNaWdGRHVISFU5QWt5alRTMkNtMWJZR1BFQVEwc2JKbUxWV3lGck9qWVFpamllWTI0VDlKS0h6Z3hQZ3NUWnBjek1qSDExT0YwSzAyQQ?oc=5)
+
+---
+
+### [NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
+
+2026-04-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
+
+---
+
+### [High blood pressure is damaging your brain, sight and sex life. Here’s how to bring it down - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
+
+2026-03-30 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
 
 ---
 

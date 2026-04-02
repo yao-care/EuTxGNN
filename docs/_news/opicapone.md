@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Opicapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [‘I’ve lived with dementia for 15 years. It’s still possible to lead a fulfilling life’ - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDBwakJRanh0LVE4SGY3NHIxdHdSUmRJckpmcWJvSHpuZVlKTFhoOGt3MGdIbWNkTnlUZ3JheVl1NUdlQlBQTmJVVHhTeE9WVVpfQm04aXZNUmxUY1RXNzVUS0R3T05UZWdyUVd6ekpqVkYwUTUxV0JLNlFDZVV4SVN2dU1YOVNKdGpGdUphMk1xdEgzMDhZbV9RQm9xcUc2OUJzRw?oc=5)
+
+2026-04-02 <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDBwakJRanh0LVE4SGY3NHIxdHdSUmRJckpmcWJvSHpuZVlKTFhoOGt3MGdIbWNkTnlUZ3JheVl1NUdlQlBQTmJVVHhTeE9WVVpfQm04aXZNUmxUY1RXNzVUS0R3T05UZWdyUVd6ekpqVkYwUTUxV0JLNlFDZVV4SVN2dU1YOVNKdGpGdUphMk1xdEgzMDhZbV9RQm9xcUc2OUJzRw?oc=5)
+
+---
 
 ### [Just a Few Breathless Minutes a Day Could Slash Your Risk of 8 Major Diseases](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEY3RWNQM1JwaHBLd0xzWkR5TnduZnNWbGlkSEtPTC1BUm56bS1ySkNHaURyV2dqOUJOemlCTklIa1N0MldyTmNzMzZSbkgwQjNSSXlKa2pBZ0M4Vi12SUZYOGgyUFVoYllORkNGaC1tQ3czYXNTUmJHQ0tfSElPVTUteENidUdEVHotNXhfVERzbEpTRU9PMFRlSERsaDBzR0cwSlpn?oc=5)
 
 2026-04-01 <span class="news-indication-tag">dementia</span>
 
-來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEY3RWNQM1JwaHBLd0xzWkR5TnduZnNWbGlkSEtPTC1BUm56bS1ySkNHaURyV2dqOUJOemlCTklIa1N0MldyTmNzMzZSbkgwQjNSSXlKa2pBZ0M4Vi12SUZYOGgyUFVoYllORkNGaC1tQ3czYXNTUmJHQ0tfSElPVTUteENidUdEVHotNXhfVERzbEpTRU9PMFRlSERsaDBzR0cwSlpn?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEY3RWNQM1JwaHBLd0xzWkR5TnduZnNWbGlkSEtPTC1BUm56bS1ySkNHaURyV2dqOUJOemlCTklIa1N0MldyTmNzMzZSbkgwQjNSSXlKa2pBZ0M4Vi12SUZYOGgyUFVoYllORkNGaC1tQ3czYXNTUmJHQ0tfSElPVTUteENidUdEVHotNXhfVERzbEpTRU9PMFRlSERsaDBzR0cwSlpn?oc=5)
 
 ---
 
@@ -56,15 +64,23 @@ permalink: /news/opicapone/
 
 2026-04-01 <span class="news-indication-tag">dementia</span>
 
-來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVhLa1JkMGN0NEJaYXd4VW9vSDQ4Z1hlNDJndFdlT1duc0pWWDl5eGk0Tm1Na1JMbHduVDczQzRwLTBXUm1EVGVjUlBiX3dwRGlDOXF2SzM5VWpyQVYzY01FaHdNd0lubklPem5hS3dXWE9hakpBVzVlQ09vTTFxWDFsZ3kxczFO?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVhLa1JkMGN0NEJaYXd4VW9vSDQ4Z1hlNDJndFdlT1duc0pWWDl5eGk0Tm1Na1JMbHduVDczQzRwLTBXUm1EVGVjUlBiX3dwRGlDOXF2SzM5VWpyQVYzY01FaHdNd0lubklPem5hS3dXWE9hakpBVzVlQ09vTTFxWDFsZ3kxczFO?oc=5)
 
 ---
 
-### [Alzheimer's may start in body tissue inflammation, not in the brain](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWZEVVVhUVFnMkowMElsUlhLeXZYTnB1Zjl6bHZlWFZsUVVOa0ktSG96bFVVWU5QUFMwb1czcVYtNVVaRWNkWHQ1c1YwcmJfcFJla1JXeGV0RVJhV240bUI5NzFjLWlmeXlySEUycVJ3Z0JYdGhJb25fVGM3aFJ4TG96VkN5Z1hVeHhHZ3o5bEVKclpXZXhfSjJIZ3ZJc3RVZGZ6bldHZWt4aDVPZEE?oc=5)
+### ['My husband got early dementia, now I'm a full-time carer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvckkzeG1pd00yY1VlUHFwejUwUU9aWUFSNkx2TzNKblh1dEh5bzNYc1hJQmp4ZHRwWFNHTVFKUmFOX3JDcHlxa3FTRWpieGpqWnJnWE1YNElNV21v?oc=5)
 
-2026-04-01 <span class="news-indication-tag">Alzheimer's</span>
+2026-03-30 <span class="news-indication-tag">dementia</span>
 
-來源：[Earth.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWZEVVVhUVFnMkowMElsUlhLeXZYTnB1Zjl6bHZlWFZsUVVOa0ktSG96bFVVWU5QUFMwb1czcVYtNVVaRWNkWHQ1c1YwcmJfcFJla1JXeGV0RVJhV240bUI5NzFjLWlmeXlySEUycVJ3Z0JYdGhJb25fVGM3aFJ4TG96VkN5Z1hVeHhHZ3o5bEVKclpXZXhfSjJIZ3ZJc3RVZGZ6bldHZWt4aDVPZEE?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvckkzeG1pd00yY1VlUHFwejUwUU9aWUFSNkx2TzNKblh1dEh5bzNYc1hJQmp4ZHRwWFNHTVFKUmFOX3JDcHlxa3FTRWpieGpqWnJnWE1YNElNV21v?oc=5)
+
+---
+
+### [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
+
+2026-03-27 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Mini cambios en el sueño, la dieta y el ejercicio pueden reducir el riesgo de infarto: el secreto está en combinarlos - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTG5ZeFpkNnM2UG5hYk84Q1ptSV9aS0o0WmpQcF9SbFpTczlRN3Z6V0ZSYUFPTW9Na1B4MHNCdGlIMUNlV1FRTHRGUnh0ZmFlSjJGcFREMHRrSTlDeDRIT3VKR0d3MGgyTWVPSjVKX0ZaSWc4RXVZMlUwQTlTX3pUSl9rY3Bod3lrSW1CaTUwZTVweHVZMHJUelV4UmZMMWVNTFpYeXhxd3lCZ0NmbE5wZTROWmNvbVJfN2xXbmxZY3VOTkg0ZFRjUWxrWVZDNVZKMFN3YkRnUHl6a1puRXFYZXVUNlhOcG9xUFRLWkxYbXNaUkXSAfgBQVVfeXFMTTFDU0JKT0lmLUV6cUJzYTdpZHpJYjk3YVA5eDhIUEt3UWNybEd6WTV2azg1YVhfTDlNWTd0WFAxWE9lT2Fpc3RzV1lab0xoQ3FVc2ZmeWs0QkVTbHNOdEFDRUptNm1FVFpIRGxTeExiRXRZS0hqWG5FWS1wYV9wS2p4OS1aTVR2M0VNVzJiOUJqUE41bjVXb0hmVkdhcHFpcUF2VGpObkU3RHRJazVZOGRoYUZMNm50SHhMRmpoLXg4cGtJbTdFQmVzY1VhR3BmUWRIZ0tYMnFkZU5EX01oSXJGOTk3WjRiTjNXYnJ6dERLRXRmS204Nlg?oc=5)
+### [Cuore: in arrivo nuova terapia che riduce i rischi legati al colesterolo cattivo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0tvTGdORWgwMTMtVXhjcGl5SDUyUnhEU2I2bVJFZVhpN2wwQnBjRUk5OHhUNlB4ZGxMZ19EVWMwaFREeExwYkM1eExTT3BpS05VWUxaUUZOVjFZSzNXeG95Nm1ZZE5sbmM3c3BHZFFOV0liWkZZVjJ4cXN3T3psc0gyUWVKS3JsUHM5dlg4MVZ0Q1p3dXJsYTZtV1hwNHlheEpxczhTX3M5Yk4yTlRxM2RR?oc=5)
+
+2026-04-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[ilsole24ore.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0tvTGdORWgwMTMtVXhjcGl5SDUyUnhEU2I2bVJFZVhpN2wwQnBjRUk5OHhUNlB4ZGxMZ19EVWMwaFREeExwYkM1eExTT3BpS05VWUxaUUZOVjFZSzNXeG95Nm1ZZE5sbmM3c3BHZFFOV0liWkZZVjJ4cXN3T3psc0gyUWVKS3JsUHM5dlg4MVZ0Q1p3dXJsYTZtV1hwNHlheEpxczhTX3M5Yk4yTlRxM2RR?oc=5)
+
+---
+
+### [La dieta del aguacate y mango, la mezcla que puede evitar un infarto o un ictus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjBHNGFaLS0yU3k2NGloTzZzSElHLUdNdXV4TVJMMXhWRWpaeEFoU0JsVmZCQ295THJ0RFpsZnpJekxaeGVmTGtMTUxXVmJQU0NXU0lfX2lTcjdid2VfVlhCU1RsTEhUSHA5TUtxR3BPR0dQNUkwRDdCa0hSUUM2SWVHTmFhd0YwMEVCR1RocWs1aWZEUXV2dFJfa0d0bmFmSzdIcTEwNFdEVzV6Z1o2UllMakg3LU5ZeE1IWkhhMDBJWERPcHJnMVJNOU5tVEt1LUdiWkVqb0jSAd4BQVVfeXFMUDg2MU1RcjhtWlhsaE5VcmZoUXdtNVg2ekNScUZRdGlTQTNlTW9JUnBYUllRaVFXLV9EcVRtSWtJbEVTZ2d2TWxDdmo1V3RxVUlfYy1iRWlTSGdsaTVkME5GcHpXQ1BUc0wwY1ZXVUxVenoyTllrQWN3Y1Fza1pGMjh0Zlp4cGlSQU40bGQtWGJPUVpzbktTVGZvVVY3ZFVxbFJwZnNZZl9rSEMzbE9hWWhIZ29nZ0ZLVjY5RXpObFpsdDFfS2dWdGVGUkhZUmhSVEQ5cFo4QmV6MmVIRVpR?oc=5)
 
 2026-04-02 <span class="news-indication-tag">ictus</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTG5ZeFpkNnM2UG5hYk84Q1ptSV9aS0o0WmpQcF9SbFpTczlRN3Z6V0ZSYUFPTW9Na1B4MHNCdGlIMUNlV1FRTHRGUnh0ZmFlSjJGcFREMHRrSTlDeDRIT3VKR0d3MGgyTWVPSjVKX0ZaSWc4RXVZMlUwQTlTX3pUSl9rY3Bod3lrSW1CaTUwZTVweHVZMHJUelV4UmZMMWVNTFpYeXhxd3lCZ0NmbE5wZTROWmNvbVJfN2xXbmxZY3VOTkg0ZFRjUWxrWVZDNVZKMFN3YkRnUHl6a1puRXFYZXVUNlhOcG9xUFRLWkxYbXNaUkXSAfgBQVVfeXFMTTFDU0JKT0lmLUV6cUJzYTdpZHpJYjk3YVA5eDhIUEt3UWNybEd6WTV2azg1YVhfTDlNWTd0WFAxWE9lT2Fpc3RzV1lab0xoQ3FVc2ZmeWs0QkVTbHNOdEFDRUptNm1FVFpIRGxTeExiRXRZS0hqWG5FWS1wYV9wS2p4OS1aTVR2M0VNVzJiOUJqUE41bjVXb0hmVkdhcHFpcUF2VGpObkU3RHRJazVZOGRoYUZMNm50SHhMRmpoLXg4cGtJbTdFQmVzY1VhR3BmUWRIZ0tYMnFkZU5EX01oSXJGOTk3WjRiTjNXYnJ6dERLRXRmS204Nlg?oc=5)
+來源：[eldebate.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjBHNGFaLS0yU3k2NGloTzZzSElHLUdNdXV4TVJMMXhWRWpaeEFoU0JsVmZCQ295THJ0RFpsZnpJekxaeGVmTGtMTUxXVmJQU0NXU0lfX2lTcjdid2VfVlhCU1RsTEhUSHA5TUtxR3BPR0dQNUkwRDdCa0hSUUM2SWVHTmFhd0YwMEVCR1RocWs1aWZEUXV2dFJfa0d0bmFmSzdIcTEwNFdEVzV6Z1o2UllMakg3LU5ZeE1IWkhhMDBJWERPcHJnMVJNOU5tVEt1LUdiWkVqb0jSAd4BQVVfeXFMUDg2MU1RcjhtWlhsaE5VcmZoUXdtNVg2ekNScUZRdGlTQTNlTW9JUnBYUllRaVFXLV9EcVRtSWtJbEVTZ2d2TWxDdmo1V3RxVUlfYy1iRWlTSGdsaTVkME5GcHpXQ1BUc0wwY1ZXVUxVenoyTllrQWN3Y1Fza1pGMjh0Zlp4cGlSQU40bGQtWGJPUVpzbktTVGZvVVY3ZFVxbFJwZnNZZl9rSEMzbE9hWWhIZ29nZ0ZLVjY5RXpObFpsdDFfS2dWdGVGUkhZUmhSVEQ5cFo4QmV6MmVIRVpR?oc=5)
 
 ---
 
@@ -65,6 +73,14 @@ permalink: /news/simvastatin/
 2026-04-01 <span class="news-indication-tag">ictus</span>
 
 來源：[La Gaceta de Granada](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXpYVEN2Y0tncEwtcHg0cGJXV25xaDZMLUgyRlhZZG9hQ2RaSFUyWDBKcDNiVDBHbFhQV2dQeVpXbG1fenJwVEpwamNWV1pwWUg4RjBqbTlCeE90LUpYR2RQR0NiMDNpMHJ2aE9Ma1dvMjBqZHNhclJfbGJRZVNfV1hHMFg1V016NHVfNlUtU0luMlloNXNQSTdScnNfVkw4VjhoTmEtR1VnMzhDY2d1U3RtUkhES1U?oc=5)
+
+---
+
+### [NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
+
+2026-04-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
 
 ---
 

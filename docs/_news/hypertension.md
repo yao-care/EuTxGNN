@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,19 +85,19 @@ permalink: /news/hypertension/
 
 ## 相關新聞（2 則）
 
-### [Bluthochdruck in jungen Jahren rächt sich im mittleren Alter – also viel früher Medikamente nehmen?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
-
-2026-04-02
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
-
----
-
 ### [The 40-minute exercise that can slash high blood pressure in just six weeks - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JkRmdPRDNJZXhnQ0o0UVBEaThvdEgtdnZTNjVRU3NWcXp3bmRFVEdFdnB5YnY0V1J1UXBRZ3ZveGJWNE5MaGpqeWlnVExpd3lTSERscExjeEltVjBkNXFLU085Wm5kQ2hqZ251aUdZb3VobnpWLUtheEFxYjV5dGJITVl2cHZwX2lHYVlwSFhGcHd3Rm4watIBngFBVV95cUxNZ09POF9kS3NEU19NbzQ1YlRKNTJHeGZRaUdJS1VmWEhhaXpncnJ0NHlvclhuZkwxbjRLSmVMa1pxTkc5dGRNTkVBcXYwb25nNkNNaWdGRHVISFU5QWt5alRTMkNtMWJZR1BFQVEwc2JKbUxWV3lGck9qWVFpamllWTI0VDlKS0h6Z3hQZ3NUWnBjek1qSDExT0YwSzAyQQ?oc=5)
 
 2026-04-01
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JkRmdPRDNJZXhnQ0o0UVBEaThvdEgtdnZTNjVRU3NWcXp3bmRFVEdFdnB5YnY0V1J1UXBRZ3ZveGJWNE5MaGpqeWlnVExpd3lTSERscExjeEltVjBkNXFLU085Wm5kQ2hqZ251aUdZb3VobnpWLUtheEFxYjV5dGJITVl2cHZwX2lHYVlwSFhGcHd3Rm4watIBngFBVV95cUxNZ09POF9kS3NEU19NbzQ1YlRKNTJHeGZRaUdJS1VmWEhhaXpncnJ0NHlvclhuZkwxbjRLSmVMa1pxTkc5dGRNTkVBcXYwb25nNkNNaWdGRHVISFU5QWt5alRTMkNtMWJZR1BFQVEwc2JKbUxWV3lGck9qWVFpamllWTI0VDlKS0h6Z3hQZ3NUWnBjek1qSDExT0YwSzAyQQ?oc=5)
+
+---
+
+### [High blood pressure is damaging your brain, sight and sex life. Here’s how to bring it down - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
+
+2026-03-30
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
 
 ---
 

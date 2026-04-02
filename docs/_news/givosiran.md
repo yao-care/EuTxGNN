@@ -44,19 +44,19 @@ permalink: /news/givosiran/
 
 ## 相關新聞（7 則）
 
-### [Bluthochdruck in jungen Jahren rächt sich im mittleren Alter – also viel früher Medikamente nehmen?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
-
-2026-04-02 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
-
----
-
 ### [ECIM 2026 - 24th European Congress of Internal Medicine - 25. bis 28. März Heilung der chronischen Hepatitis B in Sicht - Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
 
 2026-04-02 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
+
+---
+
+### [Dall’igiene dei cibi al vaccino, il vademecum contro l’epatite A - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0RfQjBDMTJzSUJtZWdzYjdQQlNSZm5XdXFSZnBoS2VrZm5admRTbEZqSFFwQ0hvLXdOTmVKaEdvSG5hWlhUYWtKSzdlTjNpc25fZXAyc3UwbndYY1NCYWEwUW9oWXVHSll0RXJJNGo1X1IxQmw2OFA0cXI3d1UtQUNBa0JPanJRTkxEX1owOFV2SlhlWUYxMkJBMnJlTkdRRFBYd21ZMHZ0Z3ZqUERsMGtUTzNQMmpjekJRZFFPcGpBS2RqU0VZdg?oc=5)
+
+2026-04-02 <span class="news-indication-tag">epatite</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0RfQjBDMTJzSUJtZWdzYjdQQlNSZm5XdXFSZnBoS2VrZm5admRTbEZqSFFwQ0hvLXdOTmVKaEdvSG5hWlhUYWtKSzdlTjNpc25fZXAyc3UwbndYY1NCYWEwUW9oWXVHSll0RXJJNGo1X1IxQmw2OFA0cXI3d1UtQUNBa0JPanJRTkxEX1owOFV2SlhlWUYxMkJBMnJlTkdRRFBYd21ZMHZ0Z3ZqUERsMGtUTzNQMmpjekJRZFFPcGpBS2RqU0VZdg?oc=5)
 
 ---
 
@@ -84,19 +84,19 @@ permalink: /news/givosiran/
 
 ---
 
-### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15 - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+### [High blood pressure is damaging your brain, sight and sex life. Here’s how to bring it down - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
 
-2026-04-01 <span class="news-indication-tag">epatite</span>
+2026-03-30 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzBPRXVnVkF2RVBSTUljcks0RHh3Qk5IZ1VHSEFrNE83d1hZRU5WZEM3S0lhX2xsNF9ZaHI1el9adUthNG51NkdjQVNqT2oxSFNqTDZuc0ZvZjV6X2VDQk1PUDIwNDRaUENqWmlwLUtzV0xVa3ROb0laazY5YmE0aGFBTGRRT1Q4d0ZNa1h5Zk5LUlcwbktITlBERlhDb1dDVEZadVJ3SW9LRzNDNXhr?oc=5)
 
 ---
 
-### [Épidémie d'hépatite A en Italie: ce que vous devez savoir - 20 Minuten](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRkY204RlhMWlFkWG15TGNJT3gzblJzSUJtVDM1MkQyek9wUVRUcUNHRDNRNGVVOEpsTUhQeTlpaWVSVWE5NjJfNlV5VXoteHZEYXhCNzlxTXBhRlY0TWNUMzhYZE9yZXlHY3U2QlIyME02bXhxWU1DTU54TXhjYUVLcDdoV2h0cjJkV0Jwcmp2TXJoc29LVw?oc=5)
+### [Epatite A, allarme in Italia: Lazio, Campania e Puglia le regioni con più colpite. Sintomi e come si prende - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjh2eS1STU44SmhPYmJlU0doRkdiek9wVHh1dnl2MTM1c3psQXhwNEpQdjlfTlNHVURCSXgzS2ljb0Z5azlINmFDUDRkYjQ3Rlc0aGFZdFZUYURDTTRkQUZENERuSm9GTktaRGpKVTlYNnctOE9yMXFfOVlrbnlwWUxKVmdDdmpOVTVTaUJvVkdwNm5uNU9aMjVR?oc=5)
 
-2026-03-31 <span class="news-indication-tag">hépatite</span>
+2026-03-28 <span class="news-indication-tag">epatite</span>
 
-來源：[20 Minuten](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRkY204RlhMWlFkWG15TGNJT3gzblJzSUJtVDM1MkQyek9wUVRUcUNHRDNRNGVVOEpsTUhQeTlpaWVSVWE5NjJfNlV5VXoteHZEYXhCNzlxTXBhRlY0TWNUMzhYZE9yZXlHY3U2QlIyME02bXhxWU1DTU54TXhjYUVLcDdoV2h0cjJkV0Jwcmp2TXJoc29LVw?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjh2eS1STU44SmhPYmJlU0doRkdiek9wVHh1dnl2MTM1c3psQXhwNEpQdjlfTlNHVURCSXgzS2ljb0Z5azlINmFDUDRkYjQ3Rlc0aGFZdFZUYURDTTRkQUZENERuSm9GTktaRGpKVTlYNnctOE9yMXFfOVlrbnlwWUxKVmdDdmpOVTVTaUJvVkdwNm5uNU9aMjVR?oc=5)
 
 ---
 

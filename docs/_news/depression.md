@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [De alterar decisiones a la depresión: el poder de los microorganismos en la mente - Libertad Digital](https://news.google.com/rss/articles/CBMi4AFBVV95cUxORWFZeTJvNExTMktkRUVuRTM4QjVucWxjM2FSX21EQjBycTVSZkI3R1VnS1NrZkljZVRsVGlTWmdlandja0xsd3I0M2hPUW94dTExbmQwekJFVmVGVFFhX0xtR21ReWJiUTNCZ25qWjljMmlDcGpTV2t1b1hXUExtbEZaYlQtNnAtaXU0ZC0xXzFsVHUyTFZzZ3E1SnZ4OFVmMDlfbjV6SGpsdHhSWldqV1YxNjdnbG5sTW0yTktoMW5fTjE4SkM5STR6N2U4dldmZExDdzVpOVhzc3FIeFd0etIB6wFBVV95cUxPSHd1b0k4MnB3TDYyS2pSbHIycGtJeXlhbmpneDFoV2M2eldBSVV6ZldGeE1PNmpkZk1yYnZWSmVwTFhhT2k5WUp2dVVKelBveTVFN21KVUQ2aFZqczh1QnlZREl2dTBJUXJQWjc0a1RMV0tsNXZpQUI1aVQ2UWZwV1BNVUZNQWtMWFg5UzdHdnJmMU13M003MDNjVFV6VXNMV2x1MVNhWmtOTUFsLXBqU3hLakNpR0FKTnhMSUV3UEx3MkNiRlJ1anUzdUlyQ1pVVE5fZUY3YnFQeTYyV08xQUNQSnBiaER2bWdJ?oc=5)
 
@@ -50,6 +50,14 @@ permalink: /news/depression/
 2026-04-01
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG9NZl9xTnh6UUtPZDlMNFU4U3ljWmdUVVRGR01fRndXaUVxOEZCWVZMWDl6V2VkTGt4bWhXU0Noa3dQS01NS2FPNDVzWTQ2Z2JPWi1BdTN1LXpQYXVXYjlucWtPbU0wNHRGVTM0bEJMYVA3dUVuamx3QnNLMVgzUEl3dExYNXlkRXRxUTl1VEhjU29tMlNSSXdlc19DNXNWSUhNc01zcHZLX0VNR2hiYmlxTldXYXpFUEZNdnNMRFh4eWlLVXc?oc=5)
+
+---
+
+### [Scoperta la proteina chiave per combattere la depressione](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThTRFIxdVdibGZRcHNrYzNHT0FWR2NTNzVyX3VRUGk3cmY0MjRvMDlLUHcweTZFT1RPTEc0cDZ6SXdEWUdmY3hYY1lKd1A4RlpkRk5hVGE2UFJoQWtVdC1oUjkyR0hkbHkzMnhlUGh4UktVM1M1ZFpPdTVkb2dmNGdlMXRKZw?oc=5)
+
+2026-04-01
+
+來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThTRFIxdVdibGZRcHNrYzNHT0FWR2NTNzVyX3VRUGk3cmY0MjRvMDlLUHcweTZFT1RPTEc0cDZ6SXdEWUdmY3hYY1lKd1A4RlpkRk5hVGE2UFJoQWtVdC1oUjkyR0hkbHkzMnhlUGh4UktVM1M1ZFpPdTVkb2dmNGdlMXRKZw?oc=5)
 
 ---
 

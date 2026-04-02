@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hépatite（hepatitis） 相關新聞"
+title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hépatite（hepatitis） 的相關健康新聞報導。5 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。5 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# hépatite（hepatitis） 相關新聞
+# epatite（hepatitis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hépatite（hepatitis） 有什麼相關新聞？">
-<strong>hépatite（hepatitis）</strong> 目前有 <strong>5 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
+<strong>epatite（hepatitis）</strong> 目前有 <strong>5 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hépatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -63,6 +63,14 @@ permalink: /news/hepatitis/
 
 ---
 
+### [Dall’igiene dei cibi al vaccino, il vademecum contro l’epatite A - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0RfQjBDMTJzSUJtZWdzYjdQQlNSZm5XdXFSZnBoS2VrZm5admRTbEZqSFFwQ0hvLXdOTmVKaEdvSG5hWlhUYWtKSzdlTjNpc25fZXAyc3UwbndYY1NCYWEwUW9oWXVHSll0RXJJNGo1X1IxQmw2OFA0cXI3d1UtQUNBa0JPanJRTkxEX1owOFV2SlhlWUYxMkJBMnJlTkdRRFBYd21ZMHZ0Z3ZqUERsMGtUTzNQMmpjekJRZFFPcGpBS2RqU0VZdg?oc=5)
+
+2026-04-02
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0RfQjBDMTJzSUJtZWdzYjdQQlNSZm5XdXFSZnBoS2VrZm5admRTbEZqSFFwQ0hvLXdOTmVKaEdvSG5hWlhUYWtKSzdlTjNpc25fZXAyc3UwbndYY1NCYWEwUW9oWXVHSll0RXJJNGo1X1IxQmw2OFA0cXI3d1UtQUNBa0JPanJRTkxEX1owOFV2SlhlWUYxMkJBMnJlTkdRRFBYd21ZMHZ0Z3ZqUERsMGtUTzNQMmpjekJRZFFPcGpBS2RqU0VZdg?oc=5)
+
+---
+
 ### [Neapel: Hepatitis A grassiert – Verbot für rohe Meeresfrüchte](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXRxQXlkTGRoY1hEaDluX3h2emFrM2tGek1qY25CZVJKbEFIR2VWUE11TzNhdi1PSHYzeUV2Yl9Dck50N3dnZWZlXzlzSWludnhCXzkzLVlzd2hSYWFVWVR2Q2VPSXFINm9vQTRBUDFlQ21QQUpUdHpUTm5ISXFmTTd6WUplVW1hTVhWNjU1NWVmT2VsNEJBQm1PVHA5UkQ0MEVpQ1J1RV9kM0Q1SXliSw?oc=5)
 
 2026-04-01
@@ -79,19 +87,11 @@ permalink: /news/hepatitis/
 
 ---
 
-### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15 - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+### [Epatite A, allarme in Italia: Lazio, Campania e Puglia le regioni con più colpite. Sintomi e come si prende - Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjh2eS1STU44SmhPYmJlU0doRkdiek9wVHh1dnl2MTM1c3psQXhwNEpQdjlfTlNHVURCSXgzS2ljb0Z5azlINmFDUDRkYjQ3Rlc0aGFZdFZUYURDTTRkQUZENERuSm9GTktaRGpKVTlYNnctOE9yMXFfOVlrbnlwWUxKVmdDdmpOVTVTaUJvVkdwNm5uNU9aMjVR?oc=5)
 
-2026-04-01
+2026-03-28
 
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
-
----
-
-### [Épidémie d'hépatite A en Italie: ce que vous devez savoir - 20 Minuten](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRkY204RlhMWlFkWG15TGNJT3gzblJzSUJtVDM1MkQyek9wUVRUcUNHRDNRNGVVOEpsTUhQeTlpaWVSVWE5NjJfNlV5VXoteHZEYXhCNzlxTXBhRlY0TWNUMzhYZE9yZXlHY3U2QlIyME02bXhxWU1DTU54TXhjYUVLcDdoV2h0cjJkV0Jwcmp2TXJoc29LVw?oc=5)
-
-2026-03-31
-
-來源：[20 Minuten](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRkY204RlhMWlFkWG15TGNJT3gzblJzSUJtVDM1MkQyek9wUVRUcUNHRDNRNGVVOEpsTUhQeTlpaWVSVWE5NjJfNlV5VXoteHZEYXhCNzlxTXBhRlY0TWNUMzhYZE9yZXlHY3U2QlIyME02bXhxWU1DTU54TXhjYUVLcDdoV2h0cjJkV0Jwcmp2TXJoc29LVw?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjh2eS1STU44SmhPYmJlU0doRkdiek9wVHh1dnl2MTM1c3psQXhwNEpQdjlfTlNHVURCSXgzS2ljb0Z5azlINmFDUDRkYjQ3Rlc0aGFZdFZUYURDTTRkQUZENERuSm9GTktaRGpKVTlYNnctOE9yMXFfOVlrbnlwWUxKVmdDdmpOVTVTaUJvVkdwNm5uNU9aMjVR?oc=5)
 
 ---
 

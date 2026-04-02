@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [La pubertad se adelanta en Europa: qué hay detrás de un cambio que preocupa a los expertos - IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NjNnBxNGFkRUdkUlVXWlpEdHdrV0ZvbHhNLVozU2RMVXlxZW9Zc1FiY25MTEJKX2taZTBSX3NRSHRNSTJmTmZtNUZsX1B0UmRrVnlHVnFTOWVBbU1tdHRJM3Vuc0dHb3l3QVVFZS0tRG4tMGVvaVBZZTFLSllkdWpmdTVsREhhaE5uOGZjLUhYdDFGT3FsN2lGY20tQ2FQT3pPWDBZQ0lFNFZld3B3b0pvc9IBrgFBVV95cUxOXzM1WUhEMk53X1N5MzQyZE9UZXZaczN1dkJQM21WTkJhMkR1UnFUQnc1T09yc01neXhDUmN0RzlJNkFndVUxb3pKTXl4ZFZmNXpDRElrLWdTOHZXYkhRNkJqTGtRZDhiX1FJdDRzVlhFbnZaNnBiM3J1X0hNUHJlTlhzUVFxLU1DLVpJdEdxRlJSM1JNQjZaOXVRNGlULWlCLTdweE1SQXNkV2JGSGc?oc=5)
+
+2026-04-02
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NjNnBxNGFkRUdkUlVXWlpEdHdrV0ZvbHhNLVozU2RMVXlxZW9Zc1FiY25MTEJKX2taZTBSX3NRSHRNSTJmTmZtNUZsX1B0UmRrVnlHVnFTOWVBbU1tdHRJM3Vuc0dHb3l3QVVFZS0tRG4tMGVvaVBZZTFLSllkdWpmdTVsREhhaE5uOGZjLUhYdDFGT3FsN2lGY20tQ2FQT3pPWDBZQ0lFNFZld3B3b0pvc9IBrgFBVV95cUxOXzM1WUhEMk53X1N5MzQyZE9UZXZaczN1dkJQM21WTkJhMkR1UnFUQnc1T09yc01neXhDUmN0RzlJNkFndVUxb3pKTXl4ZFZmNXpDRElrLWdTOHZXYkhRNkJqTGtRZDhiX1FJdDRzVlhFbnZaNnBiM3J1X0hNUHJlTlhzUVFxLU1DLVpJdEdxRlJSM1JNQjZaOXVRNGlULWlCLTdweE1SQXNkV2JGSGc?oc=5)
+
+---
 
 ### [“El reto es que los efectos de los fármacos para la obesidad sean duraderos” - El médico interactivo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
 
@@ -46,11 +54,19 @@ permalink: /news/obesity/
 
 ---
 
-### [Identifican cepas bacterianas específicas que desencadenan la formación de grasa-quema calorías - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOURKZEdTX1BKMmZ4RzNTNVViMFV6VW5TT1ZlQVFJdzRtMy1MbGFqWG9xaWZTUXlKYjJIQWJwS1ZnRWhINzBVNWRHUGRySTF1OTdZQWRsY0FQbVNNV2x6WkFPQ29KNnZqWTNmWlpjdzQxYlVfWnIzaGtRR3djcjRza3lzMUM5WkloZzFfbzFNeGl5VURBT0xPalNRMVlpYklhb19MVlRsVnV5a2hZOEVObVM4b3NxUdIBsAFBVV95cUxPUHNOdGhHWndxTS1JRy1XSkJ6d2lTVDIwLVVPRG56c2VTcVlNRk5aTDJIWFpwVUNJdHA3SmZZR2tIa0k3MHNtQmQ2Y0d5bFA4bFBmUmkwNW5heHRRcnh1dFdRUGhNVHlCeTFBbXByWGluWDEzb0I1dXZLVHJBMkRTUkMtTll2b3pLelQwdmRpN3Vva05QcGtnRnVxLVFwUTVwZTZZNFZ2X2t5bzk0QXNYeA?oc=5)
+### [NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
 
-2026-03-31
+2026-04-01
 
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOURKZEdTX1BKMmZ4RzNTNVViMFV6VW5TT1ZlQVFJdzRtMy1MbGFqWG9xaWZTUXlKYjJIQWJwS1ZnRWhINzBVNWRHUGRySTF1OTdZQWRsY0FQbVNNV2x6WkFPQ29KNnZqWTNmWlpjdzQxYlVfWnIzaGtRR3djcjRza3lzMUM5WkloZzFfbzFNeGl5VURBT0xPalNRMVlpYklhb19MVlRsVnV5a2hZOEVObVM4b3NxUdIBsAFBVV95cUxPUHNOdGhHWndxTS1JRy1XSkJ6d2lTVDIwLVVPRG56c2VTcVlNRk5aTDJIWFpwVUNJdHA3SmZZR2tIa0k3MHNtQmQ2Y0d5bFA4bFBmUmkwNW5heHRRcnh1dFdRUGhNVHlCeTFBbXByWGluWDEzb0I1dXZLVHJBMkRTUkMtTll2b3pLelQwdmRpN3Vva05QcGtnRnVxLVFwUTVwZTZZNFZ2X2t5bzk0QXNYeA?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
+
+---
+
+### [Adipositas-Behandlung steht vor historischem Umbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObWQyQ0xhck95bXhtOC1YWHNtc1hPdXNxbDVXbG5jNWNsTmR1eGkzNkFFYjlfNzhUTnZQUnhaOXNCSVN6WEhRZjd1dzVBRWRDejNqdXF4Q0drbnNPRk9kRnRWNE4wR1YyUVFWWGhIMV84WTJBSk9VZ0RrdjYxQkRIcXJ1RTRhbkVXM0JUcmVOUENVY3RkSk5WRTM2UHJ6VEc3Q1BiN3dUSzg4aXV2WmFCNw?oc=5)
+
+2026-03-26
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObWQyQ0xhck95bXhtOC1YWHNtc1hPdXNxbDVXbG5jNWNsTmR1eGkzNkFFYjlfNzhUTnZQUnhaOXNCSVN6WEhRZjd1dzVBRWRDejNqdXF4Q0drbnNPRk9kRnRWNE4wR1YyUVFWWGhIMV84WTJBSk9VZ0RrdjYxQkRIcXJ1RTRhbkVXM0JUcmVOUENVY3RkSk5WRTM2UHJ6VEc3Q1BiN3dUSzg4aXV2WmFCNw?oc=5)
 
 ---
 
