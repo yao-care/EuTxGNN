@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [The 40-minute exercise that can slash high blood pressure in just six weeks](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JkRmdPRDNJZXhnQ0o0UVBEaThvdEgtdnZTNjVRU3NWcXp3bmRFVEdFdnB5YnY0V1J1UXBRZ3ZveGJWNE5MaGpqeWlnVExpd3lTSERscExjeEltVjBkNXFLU085Wm5kQ2hqZ251aUdZb3VobnpWLUtheEFxYjV5dGJITVl2cHZwX2lHYVlwSFhGcHd3Rm4watIBngFBVV95cUxNZ09POF9kS3NEU19NbzQ1YlRKNTJHeGZRaUdJS1VmWEhhaXpncnJ0NHlvclhuZkwxbjRLSmVMa1pxTkc5dGRNTkVBcXYwb25nNkNNaWdGRHVISFU5QWt5alRTMkNtMWJZR1BFQVEwc2JKbUxWV3lGck9qWVFpamllWTI0VDlKS0h6Z3hQZ3NUWnBjek1qSDExT0YwSzAyQQ?oc=5)
+
+2026-04-01 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JkRmdPRDNJZXhnQ0o0UVBEaThvdEgtdnZTNjVRU3NWcXp3bmRFVEdFdnB5YnY0V1J1UXBRZ3ZveGJWNE5MaGpqeWlnVExpd3lTSERscExjeEltVjBkNXFLU085Wm5kQ2hqZ251aUdZb3VobnpWLUtheEFxYjV5dGJITVl2cHZwX2lHYVlwSFhGcHd3Rm4watIBngFBVV95cUxNZ09POF9kS3NEU19NbzQ1YlRKNTJHeGZRaUdJS1VmWEhhaXpncnJ0NHlvclhuZkwxbjRLSmVMa1pxTkc5dGRNTkVBcXYwb25nNkNNaWdGRHVISFU5QWt5alRTMkNtMWJZR1BFQVEwc2JKbUxWV3lGck9qWVFpamllWTI0VDlKS0h6Z3hQZ3NUWnBjek1qSDExT0YwSzAyQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

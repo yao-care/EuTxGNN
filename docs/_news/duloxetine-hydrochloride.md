@@ -52,19 +52,19 @@ permalink: /news/duloxetine-hydrochloride/
 
 ---
 
+### [Wechselwirkungen zwischen Körper und Psyche: Diabetes und Depressionen](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzJ5N1NIcV9VUVlpSHd4WXd1NlRyeHJPVFpvWEVhemZkMkZRQV91ZDZ1UjB0ZnVRbWdXZGk5UVNRX1lCZG5UcTRCcEZNWFM4TTIzZjZUM2FPdWZXUFpDR0w0RHRVQnBZSXh0Q2d5T2VhT2RoYTNxakhra2NJeWJ0eFZiMzI3eWhuUUh0VTg0SVFjODlyWjhOVTRqQmxUQXZMUktlSU1aWTJ1WEF6TTUw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[in-und-um-schweinfurt.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzJ5N1NIcV9VUVlpSHd4WXd1NlRyeHJPVFpvWEVhemZkMkZRQV91ZDZ1UjB0ZnVRbWdXZGk5UVNRX1lCZG5UcTRCcEZNWFM4TTIzZjZUM2FPdWZXUFpDR0w0RHRVQnBZSXh0Q2d5T2VhT2RoYTNxakhra2NJeWJ0eFZiMzI3eWhuUUh0VTg0SVFjODlyWjhOVTRqQmxUQXZMUktlSU1aWTJ1WEF6TTUw?oc=5)
+
+---
+
 ### [Scoperta la proteina chiave per combattere la depressione](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThTRFIxdVdibGZRcHNrYzNHT0FWR2NTNzVyX3VRUGk3cmY0MjRvMDlLUHcweTZFT1RPTEc0cDZ6SXdEWUdmY3hYY1lKd1A4RlpkRk5hVGE2UFJoQWtVdC1oUjkyR0hkbHkzMnhlUGh4UktVM1M1ZFpPdTVkb2dmNGdlMXRKZw?oc=5)
 
 2026-04-01 <span class="news-indication-tag">depression</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThTRFIxdVdibGZRcHNrYzNHT0FWR2NTNzVyX3VRUGk3cmY0MjRvMDlLUHcweTZFT1RPTEc0cDZ6SXdEWUdmY3hYY1lKd1A4RlpkRk5hVGE2UFJoQWtVdC1oUjkyR0hkbHkzMnhlUGh4UktVM1M1ZFpPdTVkb2dmNGdlMXRKZw?oc=5)
-
----
-
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
-
-2026-03-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-來源：[fr.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
 
 ---
 

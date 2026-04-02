@@ -14,7 +14,7 @@ permalink: /news/insulin-glulisine/
 ---
 
 <p class="key-answer" data-question="Insulin Glulisine 有什麼相關新聞？">
-<strong>Insulin Glulisine</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Insulin Glulisine</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/insulin-glulisine/
 <p><a href="{{ '/drugs/insulin-glulisine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [Diabete, la svolta della ricerca: una proteina cerebrale spiega come funziona la metformina - Libero Quotidiano](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWDV6c1BNVk9ZQURuY3J3SG9wVWFKUGszYmlEZ3o1N01nMkVOa1R3VFhxcF84VV9SajBqa2JGbVRheDd6WDFraEdmUjRVVkhzM3JrdFZGb1BUb003MWFiWS1JNWN3VUY3N1A1SmdMcmFnU2M2ellrMk1TWWtGWW9CN0R5MktyckNvYXl6QTQzMUJKRTdEVEt5QUhoOWt1TkNmNFUzNUF2Q2JXckNPLUdOeVc5VUpxQnNwVkFuTk1UZHlUMUhVa2ZFS0JfUVljOVpnQUpzMkxfOGxSTVdnRDV0aThHdVZiWGtC?oc=5)
 
@@ -68,11 +68,27 @@ permalink: /news/insulin-glulisine/
 
 ---
 
+### [Wechselwirkungen zwischen Körper und Psyche: Diabetes und Depressionen](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzJ5N1NIcV9VUVlpSHd4WXd1NlRyeHJPVFpvWEVhemZkMkZRQV91ZDZ1UjB0ZnVRbWdXZGk5UVNRX1lCZG5UcTRCcEZNWFM4TTIzZjZUM2FPdWZXUFpDR0w0RHRVQnBZSXh0Q2d5T2VhT2RoYTNxakhra2NJeWJ0eFZiMzI3eWhuUUh0VTg0SVFjODlyWjhOVTRqQmxUQXZMUktlSU1aWTJ1WEF6TTUw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[in-und-um-schweinfurt.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzJ5N1NIcV9VUVlpSHd4WXd1NlRyeHJPVFpvWEVhemZkMkZRQV91ZDZ1UjB0ZnVRbWdXZGk5UVNRX1lCZG5UcTRCcEZNWFM4TTIzZjZUM2FPdWZXUFpDR0w0RHRVQnBZSXh0Q2d5T2VhT2RoYTNxakhra2NJeWJ0eFZiMzI3eWhuUUh0VTg0SVFjODlyWjhOVTRqQmxUQXZMUktlSU1aWTJ1WEF6TTUw?oc=5)
+
+---
+
 ### [Eine Diabetesdiagnostik beim Zahnarzttermin ist sehr sinnvoll!](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
 
 2026-04-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[zm-online](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
+來源：[zm-online.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
+
+---
+
+### [Just a Few Breathless Minutes a Day Could Slash Your Risk of 8 Major Diseases](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEY3RWNQM1JwaHBLd0xzWkR5TnduZnNWbGlkSEtPTC1BUm56bS1ySkNHaURyV2dqOUJOemlCTklIa1N0MldyTmNzMzZSbkgwQjNSSXlKa2pBZ0M4Vi12SUZYOGgyUFVoYllORkNGaC1tQ3czYXNTUmJHQ0tfSElPVTUteENidUdEVHotNXhfVERzbEpTRU9PMFRlSERsaDBzR0cwSlpn?oc=5)
+
+2026-04-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">dementia</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEY3RWNQM1JwaHBLd0xzWkR5TnduZnNWbGlkSEtPTC1BUm56bS1ySkNHaURyV2dqOUJOemlCTklIa1N0MldyTmNzMzZSbkgwQjNSSXlKa2pBZ0M4Vi12SUZYOGgyUFVoYllORkNGaC1tQ3czYXNTUmJHQ0tfSElPVTUteENidUdEVHotNXhfVERzbEpTRU9PMFRlSERsaDBzR0cwSlpn?oc=5)
 
 ---
 
@@ -84,27 +100,19 @@ permalink: /news/insulin-glulisine/
 
 ---
 
-### [Puglia, l’azienda non partecipa alla gara e lascia i diabetici senza infusore. La Regione: dovete usarne un altro - La Gazzetta del Mezzogiorno](https://news.google.com/rss/articles/CBMihAJBVV95cUxPTUpDS3R4cHhRLWFaNUtNX2NfWkF3WW0tLVI5dVVIT0E1M3o5dzVFdjlHZTJFLXRoM09JQ20zMk50b2cyRi1ieW0tc0tGVlEwOVFqTXl1X2JENkVFZzBwdTJUWHVmcjltSDlZLWFWX1FEa1M1ZjJPZE1Nd2JqX1BSWVFqYmRqSkZKdjdSRXJqVmZOU2g5cWRZT055VldlaUVOdFBMemhrUWs4V0t3cmNBMXBldng4b2l1V1RQS3dfdi00UFhfUGJGOGhPQVpGcU50d2NfUkEyZ2RvRDVHSnNLRDFnQk1ZWEV5M0lmSXpZdDJSc1UydmZ1bmZxYllBdEpwOHd0QtIBgwJBVV95cUxPNEVsaWxqT29SSTFYcEhrVkNKcEo5RW9SZHdIeXVGb1hGZy14djJ5dFp5VTVuQ1RTOElBOHJjcmg5U0hKM2RzZU5QYV93Rloxcm52Zk0wTWhzYWdmV2VORzdPaWVDMTdOZ2s0dEpxT1JQcGN1MllobjRSWWtIN1dKTUVOTVRjdDJfamdmR2NhbXZnajBnbjJoTkRMQ3E0b2VCNDNQWElSOFJ4WVF2T0pUTUhTcmJ1Y2lYR2RfWkplX2ZnSVgybThmVENmVXJaSnBsdUNMVlNZQXc0eVQzb0laUzVZS3BzcWpxSUZGZUR1VEp2cC1jLWhjemVtME5kYmc3dWZv?oc=5)
+### [Piede diabetico grave: possibile accelerare la guarigione con terapia combinata](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDdYbjhuQUp2WkNzVmpIN3FyeEV3OWExZjJOQUJhN0dIdXl5NlFrdWtxMjBfN24tN0RQU1VRUlRKeUxqQUtTWnM4SlV4Z3B0cUlqWlhWMmJoblFJeHhBUXgyUFExQVNSRjdwRjdveWtILVQ5VXk2eDU1azF5ek1oczE4VExhSXBsS0FzS2dRTUNpb0VoRlFVeFVzSmNCdmEzWW9SWTRmbnVqbFFndTc4VFo4WQ?oc=5)
 
 2026-03-31 <span class="news-indication-tag">diabetic</span>
 
-來源：[La Gazzetta del Mezzogiorno](https://news.google.com/rss/articles/CBMihAJBVV95cUxPTUpDS3R4cHhRLWFaNUtNX2NfWkF3WW0tLVI5dVVIT0E1M3o5dzVFdjlHZTJFLXRoM09JQ20zMk50b2cyRi1ieW0tc0tGVlEwOVFqTXl1X2JENkVFZzBwdTJUWHVmcjltSDlZLWFWX1FEa1M1ZjJPZE1Nd2JqX1BSWVFqYmRqSkZKdjdSRXJqVmZOU2g5cWRZT055VldlaUVOdFBMemhrUWs4V0t3cmNBMXBldng4b2l1V1RQS3dfdi00UFhfUGJGOGhPQVpGcU50d2NfUkEyZ2RvRDVHSnNLRDFnQk1ZWEV5M0lmSXpZdDJSc1UydmZ1bmZxYllBdEpwOHd0QtIBgwJBVV95cUxPNEVsaWxqT29SSTFYcEhrVkNKcEo5RW9SZHdIeXVGb1hGZy14djJ5dFp5VTVuQ1RTOElBOHJjcmg5U0hKM2RzZU5QYV93Rloxcm52Zk0wTWhzYWdmV2VORzdPaWVDMTdOZ2s0dEpxT1JQcGN1MllobjRSWWtIN1dKTUVOTVRjdDJfamdmR2NhbXZnajBnbjJoTkRMQ3E0b2VCNDNQWElSOFJ4WVF2T0pUTUhTcmJ1Y2lYR2RfWkplX2ZnSVgybThmVENmVXJaSnBsdUNMVlNZQXc0eVQzb0laUzVZS3BzcWpxSUZGZUR1VEp2cC1jLWhjemVtME5kYmc3dWZv?oc=5)
+來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDdYbjhuQUp2WkNzVmpIN3FyeEV3OWExZjJOQUJhN0dIdXl5NlFrdWtxMjBfN24tN0RQU1VRUlRKeUxqQUtTWnM4SlV4Z3B0cUlqWlhWMmJoblFJeHhBUXgyUFExQVNSRjdwRjdveWtILVQ5VXk2eDU1azF5ek1oczE4VExhSXBsS0FzS2dRTUNpb0VoRlFVeFVzSmNCdmEzWW9SWTRmbnVqbFFndTc4VFo4WQ?oc=5)
 
 ---
 
-### [Überraschende Nebenwirkung: Diabetes-Medikamente könnten bei Angst und Depressionen helfen](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
+### [L'odissea del diabetico che si è trasferito dalla Lombardia alla Puglia. «Qui non c'è il farmaco che usavo a Milano, la mia malattia è cambiata in modo radicale»](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM21TTkN4blIxM1dmNTZqb0xEampHVzg1aV9rTDY4VEdwenIyNTBzbDl3SkRVQmprWWNCdkEzeDBfQWt3ZWJqS1RmR05iMUt5X3MteEhjaFozMzZjUWRKc242TThwdWdTakVjOHRZWXNBU2I4MzZrRjhpeUI4NTFZc2NjVXl3SUlqUS1NTW45dWszNVNLaEh0LTY5SXB6Zmt0M01oYVZTNHpvVlhVQzc5TUlEME8zc29lTFZZTHhwRFVLOFJQMUxKVEFTZjQxNHNEbXMybW5WZXJibk9wVkVObTQwamRTcm5fcmhEb0M3bVNGTE1pYmtZU1lIZkNGdWpjSkJ3YUhfSWfSAY4CQVVfeXFMTThuVXRKeVlTY24tT3hrT0lsc1BsUzVJTEx6VXB5dmYxRm9nOE5RX2wtTTF0R3RBLWtiN1VVYXZsLWhOYl9sQmFzZnl0R0dKQ29QZlZ6RlZ6ZC01Tlh6M1VwV1RqMXdOdjN4a1NFX3AtRFlQeURkOEhIbWJEOFFNX3FHSWZsRkUzcGVwa2Y4UXN5aUFwOHhlU3E1bkJ4d0FPYUFZMHlyUGRUWVFMNS1LVVFUZGZyWW9nNWZEOTVnc3U2Rm5zSGU0RXdmbFQ2VC1oRlEtdUxlQXRNeFFJUFRIYS0zYjBkSWx4eWJibHZoYVl6SjAyQzNkWm1XdUIxdTFIZjlKSy02akNFTndmVEdn?oc=5)
 
-2026-03-31 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+2026-03-31 <span class="news-indication-tag">diabetic</span>
 
-來源：[fr.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0lHUVVxdXI2U2xpamN2c0ZHYVZ4NHVNYmt6dmVuOW5QNkJYVG5oLTdQbHczbldXQVVtc1BYLVhZZEZIS21CdVVkLVJBc0laOElGUWVnemR2ZVVEVmxvUVJCYUNBeWdodWEyNnNqdkV6VFcyZVN3dkJaRmgzdTcwa3Jhak1JYjFxdHByeDFVV1g4amRfMU45dVY3MUI1QU56U3BrMFRicnhkcGNoUnViOTBzVF8yZGw1dExxOEVzd2MzWExQVmNGTUR1azN4Zw?oc=5)
-
----
-
-### [Allenamento salva la vita, bastano pochi minuti: l'effetto contro infarto e diabete](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkVuUldiU09tRzZrRG0tSmw1N3RrVW9uMVh6MWtaeF9SWm1kYks3ZzFmV3RMYktuYUxiUEYwOVFqVERVUkZjVWI5T09nR1Z2M3YwU3hlelgzSTNEaEZ4cEtIWS1Qb3JQZHJvZDVVWDF3UWhfM1kyOVVDQ1dFV2tYTlNkUThadkFBdWdmY0drRE1Sc1BtNDFZMXBGZE9VSWRReG9N?oc=5)
-
-2026-03-30 <span class="news-indication-tag">diabete</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkVuUldiU09tRzZrRG0tSmw1N3RrVW9uMVh6MWtaeF9SWm1kYks3ZzFmV3RMYktuYUxiUEYwOVFqVERVUkZjVWI5T09nR1Z2M3YwU3hlelgzSTNEaEZ4cEtIWS1Qb3JQZHJvZDVVWDF3UWhfM1kyOVVDQ1dFV2tYTlNkUThadkFBdWdmY0drRE1Sc1BtNDFZMXBGZE9VSWRReG9N?oc=5)
+來源：[bari.corriere.it](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM21TTkN4blIxM1dmNTZqb0xEampHVzg1aV9rTDY4VEdwenIyNTBzbDl3SkRVQmprWWNCdkEzeDBfQWt3ZWJqS1RmR05iMUt5X3MteEhjaFozMzZjUWRKc242TThwdWdTakVjOHRZWXNBU2I4MzZrRjhpeUI4NTFZc2NjVXl3SUlqUS1NTW45dWszNVNLaEh0LTY5SXB6Zmt0M01oYVZTNHpvVlhVQzc5TUlEME8zc29lTFZZTHhwRFVLOFJQMUxKVEFTZjQxNHNEbXMybW5WZXJibk9wVkVObTQwamRTcm5fcmhEb0M3bVNGTE1pYmtZU1lIZkNGdWpjSkJ3YUhfSWfSAY4CQVVfeXFMTThuVXRKeVlTY24tT3hrT0lsc1BsUzVJTEx6VXB5dmYxRm9nOE5RX2wtTTF0R3RBLWtiN1VVYXZsLWhOYl9sQmFzZnl0R0dKQ29QZlZ6RlZ6ZC01Tlh6M1VwV1RqMXdOdjN4a1NFX3AtRFlQeURkOEhIbWJEOFFNX3FHSWZsRkUzcGVwa2Y4UXN5aUFwOHhlU3E1bkJ4d0FPYUFZMHlyUGRUWVFMNS1LVVFUZGZyWW9nNWZEOTVnc3U2Rm5zSGU0RXdmbFQ2VC1oRlEtdUxlQXRNeFFJUFRIYS0zYjBkSWx4eWJibHZoYVl6SjAyQzNkWm1XdUIxdTFIZjlKSy02akNFTndmVEdn?oc=5)
 
 ---
 

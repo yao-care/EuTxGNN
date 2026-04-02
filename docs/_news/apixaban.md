@@ -44,19 +44,19 @@ permalink: /news/apixaban/
 
 ## 相關新聞（2 則）
 
+### [The 40-minute exercise that can slash high blood pressure in just six weeks](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JkRmdPRDNJZXhnQ0o0UVBEaThvdEgtdnZTNjVRU3NWcXp3bmRFVEdFdnB5YnY0V1J1UXBRZ3ZveGJWNE5MaGpqeWlnVExpd3lTSERscExjeEltVjBkNXFLU085Wm5kQ2hqZ251aUdZb3VobnpWLUtheEFxYjV5dGJITVl2cHZwX2lHYVlwSFhGcHd3Rm4watIBngFBVV95cUxNZ09POF9kS3NEU19NbzQ1YlRKNTJHeGZRaUdJS1VmWEhhaXpncnJ0NHlvclhuZkwxbjRLSmVMa1pxTkc5dGRNTkVBcXYwb25nNkNNaWdGRHVISFU5QWt5alRTMkNtMWJZR1BFQVEwc2JKbUxWV3lGck9qWVFpamllWTI0VDlKS0h6Z3hQZ3NUWnBjek1qSDExT0YwSzAyQQ?oc=5)
+
+2026-04-01 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[express.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JkRmdPRDNJZXhnQ0o0UVBEaThvdEgtdnZTNjVRU3NWcXp3bmRFVEdFdnB5YnY0V1J1UXBRZ3ZveGJWNE5MaGpqeWlnVExpd3lTSERscExjeEltVjBkNXFLU085Wm5kQ2hqZ251aUdZb3VobnpWLUtheEFxYjV5dGJITVl2cHZwX2lHYVlwSFhGcHd3Rm4watIBngFBVV95cUxNZ09POF9kS3NEU19NbzQ1YlRKNTJHeGZRaUdJS1VmWEhhaXpncnJ0NHlvclhuZkwxbjRLSmVMa1pxTkc5dGRNTkVBcXYwb25nNkNNaWdGRHVISFU5QWt5alRTMkNtMWJZR1BFQVEwc2JKbUxWV3lGck9qWVFpamllWTI0VDlKS0h6Z3hQZ3NUWnBjek1qSDExT0YwSzAyQQ?oc=5)
+
+---
+
 ### [Antikoagulanzien: Apixaban führt seltener zu Blutungen als Rivaroxaban – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
 
 2026-03-31 <span class="news-drug-tag">Apixaban</span> <span class="news-drug-tag">Rivaroxaban</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
-
----
-
-### [Irregular Bedtime Doubles Cardiac Risk - Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
-
-2026-03-30 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZWoyNTBYUkowZmlIdXFQblZySGhKLWlsOUhkQXBxREM5Sl91eWxXR2NzWWRVUU1yNFl0TnRUQ3JpUVN5MUNMaUtpamgycGw0VWlKQjZwQnN5Y0xfZEJ3bVVjaTV5TFN0ZWhmVVlLNWdOTUxQSTlLem5zcw?oc=5)
 
 ---
 

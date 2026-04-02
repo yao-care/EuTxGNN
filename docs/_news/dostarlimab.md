@@ -14,7 +14,7 @@ permalink: /news/dostarlimab/
 ---
 
 <p class="key-answer" data-question="Dostarlimab 有什麼相關新聞？">
-<strong>Dostarlimab</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dostarlimab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/dostarlimab/
 <p><a href="{{ '/drugs/dostarlimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（13 則）
 
-### [Neurowissenschaften: Das Gehirn ist lebenslang formbarer als gedacht - AD HOC NEWS](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGhrZXh1RHVtS0dWTE5vZk1DLU51MjRtWTBMSjM1MTdzdkFEVlZoR3g4UkFyeWhwSGpmZGxzMkpVVEQybGFOUlVEaFI0QWRrSjVfNmgyYWg4QkNISkJmaU1VTFdHRkx0Z2pCajVHcE1xanRuQWE5ZzdzZUJoTnI2Z0ZZV2g4NzFSTWlic2MtUWNjTUdnWkxOY2hGZGVkNnVQYTlZLWNEYTJLaWh4dzJBRE1pX3RDcUplX0ZqMTJBMldPcGtR?oc=5)
+### [Neuer Ansatz zur Alzheimer-Behandlung: Epigenetische Therapie zeigt Erfolge bei Mäusen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NfYnRDVUFiY2M0bnpOX3NfcUM4NjZNWjQ0UEZZaGMwcTdRaDE4TnQxNjVsOFpJdzJPRjVFWHdaWGJrU3cySEMwcDVHaV9DRUdQX045MGxUS0RlZ0xVQzctOUdLazJpbFExTXVBYlRGWVFtUG00aXlRejFSTW12Rk9lZmNHY2hncHpFLVppWXFjWlJjSXlvbFFUU2Q1WjJPNUxyZmYwY0JvakxlcGZzMUF4RlBSbFZmWmc?oc=5)
 
 2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGhrZXh1RHVtS0dWTE5vZk1DLU51MjRtWTBMSjM1MTdzdkFEVlZoR3g4UkFyeWhwSGpmZGxzMkpVVEQybGFOUlVEaFI0QWRrSjVfNmgyYWg4QkNISkJmaU1VTFdHRkx0Z2pCajVHcE1xanRuQWE5ZzdzZUJoTnI2Z0ZZV2g4NzFSTWlic2MtUWNjTUdnWkxOY2hGZGVkNnVQYTlZLWNEYTJLaWh4dzJBRE1pX3RDcUplX0ZqMTJBMldPcGtR?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NfYnRDVUFiY2M0bnpOX3NfcUM4NjZNWjQ0UEZZaGMwcTdRaDE4TnQxNjVsOFpJdzJPRjVFWHdaWGJrU3cySEMwcDVHaV9DRUdQX045MGxUS0RlZ0xVQzctOUdLazJpbFExTXVBYlRGWVFtUG00aXlRejFSTW12Rk9lZmNHY2hncHpFLVppWXFjWlJjSXlvbFFUU2Q1WjJPNUxyZmYwY0JvakxlcGZzMUF4RlBSbFZmWmc?oc=5)
+
+---
+
+### [Sanofi verlängert Vorbestellfrist für Influenzaimpfstoffe bis Ende April – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTB1Sk1IWjBTaHZwSUZwWFI0MDU4elR4X21nUElmUGQ2bjJMTXBMOEVsR2FxY3NHTHBXTmRieEkxazFuZ2V6ODV0VXJoSUNPelpKM0lCQ1c0ZGV6ZlgzNkJ0NWxYMWZqQ1l2bEM5dWlOdkptYXF3S1JmTWw2SktZOEM4TVFGUnVKRnFsSTRZRG53Zjc4SEpnUi1FZnk1OVBrMGEyOTBvS1h2Yl9VMWdkdzJYa2RYdUFIRGotVFBXWUdybGx2ZDAxWTFJVF9FUTVtM0hhUk56Yjc?oc=5)
+
+2026-04-01 <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTB1Sk1IWjBTaHZwSUZwWFI0MDU4elR4X21nUElmUGQ2bjJMTXBMOEVsR2FxY3NHTHBXTmRieEkxazFuZ2V6ODV0VXJoSUNPelpKM0lCQ1c0ZGV6ZlgzNkJ0NWxYMWZqQ1l2bEM5dWlOdkptYXF3S1JmTWw2SktZOEM4TVFGUnVKRnFsSTRZRG53Zjc4SEpnUi1FZnk1OVBrMGEyOTBvS1h2Yl9VMWdkdzJYa2RYdUFIRGotVFBXWUdybGx2ZDAxWTFJVF9FUTVtM0hhUk56Yjc?oc=5)
+
+---
+
+### [Grieving partner's poignant tribute to mum who died weeks after birth of son - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTZISlQtSHU1Z2RrWGZ4YmVFdmJ3UVc0bTU3bHBEclFZQWJYaFl1QXJ4aWNPVmJQenhaSC1WQ1IxbXJVTGRUaG9LUVZHTmdobGxkMlNNMWpWakFUUnJLM2xDaENOaUNRcEdad3h0UXN6OVpvTFJWWVdRZnBBVWJZWURKMGZBYTM3dC1XZG9tVlp5VGp5MFMwZDAxSk9OTnFBeEZoOURwc9IBrAFBVV95cUxQV2MtUWNyYTd0UnpMWmFkMW9MdGF4Sk9GTGJZcnZyY3k0YTdiNXF1ckNkMGZQdFFIZnZuV0dITVdRMEVBTDlRVlpYMUwwT3l1Yk1fT29zZXNhUFVNRExRSS1ULU5Pa3hOY2hibVlmb0o2R2ZJbzh2eG5XN2hMdGRLTWdXN2JyNEJxcE1wVUVJMXU3RTduWjlhSDNtMnlva3FTRlFLWGJ0MkxUa3RO?oc=5)
+
+2026-04-01 <span class="news-indication-tag">AF</span>
+
+來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTZISlQtSHU1Z2RrWGZ4YmVFdmJ3UVc0bTU3bHBEclFZQWJYaFl1QXJ4aWNPVmJQenhaSC1WQ1IxbXJVTGRUaG9LUVZHTmdobGxkMlNNMWpWakFUUnJLM2xDaENOaUNRcEdad3h0UXN6OVpvTFJWWVdRZnBBVWJZWURKMGZBYTM3dC1XZG9tVlp5VGp5MFMwZDAxSk9OTnFBeEZoOURwc9IBrAFBVV95cUxQV2MtUWNyYTd0UnpMWmFkMW9MdGF4Sk9GTGJZcnZyY3k0YTdiNXF1ckNkMGZQdFFIZnZuV0dITVdRMEVBTDlRVlpYMUwwT3l1Yk1fT29zZXNhUFVNRExRSS1ULU5Pa3hOY2hibVlmb0o2R2ZJbzh2eG5XN2hMdGRLTWdXN2JyNEJxcE1wVUVJMXU3RTduWjlhSDNtMnlva3FTRlFLWGJ0MkxUa3RO?oc=5)
 
 ---
 
@@ -68,14 +84,6 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Dorking man becomes stem cell donor after transplant saves father](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
-
-2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
-
----
-
 ### ['My special blood helps critically ill babies'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fczk4R3lxekNUcGdiTDlmeDFGTGFtQTFWSV9YYTJwbGhma1gyNjRhVE1lRDREZGVDT2tRU1hvd2htV24xWHlMVmZMZ2xubTl3dUx4ZUVPbXVVUXBk?oc=5)
 
 2026-04-01 <span class="news-indication-tag">AF</span>
@@ -92,19 +100,11 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Psychology says the people retiring in 2026 aren't afraid of having too little money — they're terrified of having too much time and discovering they have no idea who they are when nobody needs them anymore](https://news.google.com/rss/articles/CBMi0gJBVV95cUxQMnBoOF93VWl5TkJMVHUtamUyU092VXJ2LUFnNXg0cGV3Qm9pTXpPRGRaMGpDbXRMMXY3ZE55WWowZ3JzelpzdmQxQkxlNHV0VWRJMFc2WGhJYW5sYUt3NGRDNkp5bFpWakVyYkk2TTBfZ2YyTGNORHBEd2MtOVJCVVdVaU1OU1pzeExKZzRxenBHNGpOYVpORG14bk1lWHFoZy1iUmNkbHJMbGEzY0xDdENiOHF4cGVPWWJYS283c1JFejI5endPaUE2ZVU1NGRJczN3Ujlqa215ZzFadVBod0VDY0drVkNPVHJKbmdhbUJxcFFGSUZyd1I2TUZ0SlVHZ0hUR25JMnhrZEVmY2VZSE9pN19lR05VUTd6ajRFTS1xWTJ5N09TTXhDMDVFbVIwblNteXk2TmpvVG9IWkdHM1prWTgzNHltTXc4TEI0TjZaUQ?oc=5)
+### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
 
-2026-04-01 <span class="news-indication-tag">AF</span>
+2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[vegoutmag.com](https://news.google.com/rss/articles/CBMi0gJBVV95cUxQMnBoOF93VWl5TkJMVHUtamUyU092VXJ2LUFnNXg0cGV3Qm9pTXpPRGRaMGpDbXRMMXY3ZE55WWowZ3JzelpzdmQxQkxlNHV0VWRJMFc2WGhJYW5sYUt3NGRDNkp5bFpWakVyYkk2TTBfZ2YyTGNORHBEd2MtOVJCVVdVaU1OU1pzeExKZzRxenBHNGpOYVpORG14bk1lWHFoZy1iUmNkbHJMbGEzY0xDdENiOHF4cGVPWWJYS283c1JFejI5endPaUE2ZVU1NGRJczN3Ujlqa215ZzFadVBod0VDY0drVkNPVHJKbmdhbUJxcFFGSUZyd1I2TUZ0SlVHZ0hUR25JMnhrZEVmY2VZSE9pN19lR05VUTd6ajRFTS1xWTJ5N09TTXhDMDVFbVIwblNteXk2TmpvVG9IWkdHM1prWTgzNHltTXc4TEI0TjZaUQ?oc=5)
-
----
-
-### [My daughter has childhood dementia and may not live past 16](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
-
-2026-03-31 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRURfa0Zxd1lJa3JHdzFyV0lHTEpnT1BrNzRVdV9ITlkzQklhakR5ME9aYUZPWTBSdnlKSENJOEs0YnFkQV9yNWVTWFQ2QXFmUzU1N3ZVSF95enJY?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
 
 ---
 
@@ -112,7 +112,7 @@ permalink: /news/dostarlimab/
 
 2026-03-31 <span class="news-indication-tag">AF</span>
 
-來源：[vegoutmag.com](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
+來源：[VegOut](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXVjV3NrSkEtLVFPejdTaVVMeTNtNGJSMXBrZGhKNmc0cGZSRnhVZGJBVnUzWWxGWmlaTlpKVFFsUUVMWXZwdUtOcm50WjNkdWYzaHBBbWNXaE1pcEh6VnJUSFdRcUpYbUQ1RVMzclRmdlR1b3JTcFRrV2VKaWR5eWdpdlBJbENqS0hSM1Y1dXFXcFhkdHNQUW94ek5vRUdmZDQtU3dfVjRtRmZ2bnpUVzF2eUNJaTAyNFE0MTVyRzZkS0pqMVBCeWJndXQtVUZZN25rX25uRE1EZy1yYm1DMzE1X045dUtQWkRabG9RZlkyeTA0RG5ucFNncDhuRGFRbnZzaDU5TWhJQVVldnMtb3FTaUd5b29JU0t5ZGNhZ1V2ZVNoODJlMkxSZUVFLWRjQW5NMUNGNzlDVlo4cW5UdEMtSGpILWc?oc=5)
 
 ---
 
@@ -124,22 +124,6 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Aumentan los casos de cáncer de colon en menores de 40: Experta enfatiza importancia de la colonoscopia - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeUFCVExJMlBRZHdNNDl4Vkpzbm1qaENrOXN3a29MRGZuWm9icm1uVHRSa2szZHVJZEV3OHhhTWhhOGVTR00tanZ4VWxqb0ZEUW9QYlhrX3F6ZjdQbDJ3czJpMFJJb2RjdzVJN2RmVnJmTmFWWWRpOUVpcXBZWk5xa3cwNTJrdi14d1EzUjROOFlKQ2p1bmwtYU8wWEUxc3Z5S2wzdWVPZU1JeExOVThEb2MxSkFLaVM2Q2hIdHItT3FpN0JYV01XZWlWRzJLejZVbHVSZmRFMk1FeHYxMjFhbF9LVW9HRjF4Uk1YeEE0dm0zQlUxQ0VseFNFNFQwQdIBgwJBVV95cUxNZF9Ma3VZVi03Q280TFBsVWI1bUJySHcxb0ZkN0owMWE3UnlEOGdlS1RaNVJGelBzeUpaS2FaRnhmMU5Jcnh1MXd1Z3pndG14emVIb2g2Zkp4YUQwNmtSb3VlUmhNTzBsN1ltUzFYdjRhb2p1aTl0OEkxc3pKSWFQSUNIWFJISEs4cWRtcWhESlFPSWhCaUhNa201NVZ3NlY4NDY3Uk8xS3o3NE1odF9UeFRZZ3RfSlBLampPVngzSkhFXzZsZ3dSWERhQTJfNFd4Sk1fQmNPVXA1M0Z6ZXljTG9hUThIdUk4UXdmT1VyUUtiVVJYN05iX1JNckczTl9vWUx3?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeUFCVExJMlBRZHdNNDl4Vkpzbm1qaENrOXN3a29MRGZuWm9icm1uVHRSa2szZHVJZEV3OHhhTWhhOGVTR00tanZ4VWxqb0ZEUW9QYlhrX3F6ZjdQbDJ3czJpMFJJb2RjdzVJN2RmVnJmTmFWWWRpOUVpcXBZWk5xa3cwNTJrdi14d1EzUjROOFlKQ2p1bmwtYU8wWEUxc3Z5S2wzdWVPZU1JeExOVThEb2MxSkFLaVM2Q2hIdHItT3FpN0JYV01XZWlWRzJLejZVbHVSZmRFMk1FeHYxMjFhbF9LVW9HRjF4Uk1YeEE0dm0zQlUxQ0VseFNFNFQwQdIBgwJBVV95cUxNZF9Ma3VZVi03Q280TFBsVWI1bUJySHcxb0ZkN0owMWE3UnlEOGdlS1RaNVJGelBzeUpaS2FaRnhmMU5Jcnh1MXd1Z3pndG14emVIb2g2Zkp4YUQwNmtSb3VlUmhNTzBsN1ltUzFYdjRhb2p1aTl0OEkxc3pKSWFQSUNIWFJISEs4cWRtcWhESlFPSWhCaUhNa201NVZ3NlY4NDY3Uk8xS3o3NE1odF9UeFRZZ3RfSlBLampPVngzSkhFXzZsZ3dSWERhQTJfNFd4Sk1fQmNPVXA1M0Z6ZXljTG9hUThIdUk4UXdmT1VyUUtiVVJYN05iX1JNckczTl9vWUx3?oc=5)
-
----
-
-### [Tragedy as Stoke-on-Trent mum, 32, died three weeks after giving birth - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
-
-2026-03-31 <span class="news-indication-tag">AF</span>
-
-來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
-
----
-
 ### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
 
 2026-03-31 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
@@ -148,11 +132,11 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Scoperta a Candiolo: un mix di farmaci biologici fa regredire il cancro al polmone senza la chemio - La Stampa](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSi1ISVk1dm1FeDN5LVBERGg2anUyR1dTNXpyeVJPNldnUG1JZ3lORkhSNHVUZlJaa2lwd2pqdzFaWFB2U3FodmZkMWxRNmllZThUUnlVSFhUUDlTWTBVazc3MmczczZfd3ZxN0hSVGkzcFF6UzJ2Q3hBZzVKRmRDNWs4YVZLOXhWRjZ3MnRoS0k2UWFsRV9sY0ZsMi0tTnVEbDE1MnA1MDZmcHpPbU90bzhrdDPSAboBQVVfeXFMTzBoRVU4OXh5RGUzOUR2di01SVBLdldEdVpRN1Ztc2gxMWZ2MmktanBSa0tmcGRTNWljclNrTE5VV1pxVmJObG00RHVOLXdHUzItWVdqZVpySkNyTjdxQXNUQW45aEE1MDNvcDUtc2dLdXpGZGIySnkyZ1VYOXNOYjAyUnhHQkZ2alRnbXNGVDRZNWdlMldqdmdFUU1NSUYzRGJZWmJ4U0ZMZEV0VXBzY1QzYkR0VkZmRmpR?oc=5)
+### [José Ignacio Martín Valadés, oncólogo, sobre el cáncer de colon: “Estamos viendo un preocupante aumento de casos en menores de 50 años”](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
 
-2026-03-31 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-03-31 <span class="news-indication-tag">AF</span>
 
-來源：[La Stampa](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSi1ISVk1dm1FeDN5LVBERGg2anUyR1dTNXpyeVJPNldnUG1JZ3lORkhSNHVUZlJaa2lwd2pqdzFaWFB2U3FodmZkMWxRNmllZThUUnlVSFhUUDlTWTBVazc3MmczczZfd3ZxN0hSVGkzcFF6UzJ2Q3hBZzVKRmRDNWs4YVZLOXhWRjZ3MnRoS0k2UWFsRV9sY0ZsMi0tTnVEbDE1MnA1MDZmcHpPbU90bzhrdDPSAboBQVVfeXFMTzBoRVU4OXh5RGUzOUR2di01SVBLdldEdVpRN1Ztc2gxMWZ2MmktanBSa0tmcGRTNWljclNrTE5VV1pxVmJObG00RHVOLXdHUzItWVdqZVpySkNyTjdxQXNUQW45aEE1MDNvcDUtc2dLdXpGZGIySnkyZ1VYOXNOYjAyUnhHQkZ2alRnbXNGVDRZNWdlMldqdmdFUU1NSUYzRGJZWmJ4U0ZMZEV0VXBzY1QzYkR0VkZmRmpR?oc=5)
+來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcUlKSl9GTzN1alhlaEJ3Sm0xZlJ3WmxUcm9mODQ0aS1WYnNIZ281aHNrUWhXWEN3U3FtQTV6Skh3WUYwOGlHOTBnZENXc0Z3VEZ0NjNFZVpiY09DeXRYTmg5YWhEQXc5NVRnT1M1TTkxVWVKekowb1k0VjJDSk10Q1pjdHFoendLTmJBMjVSblBucW5UaFc4SElfMk1fOERwdXl5RVNXVTRKZk5PNTU1ZXREb1JSS2NacWF1MHNQNFBsY3AzVnFLTzFMRnpUS1BNQ3FoV1h3SUl0WjhiZWhyRU9LbF9HZENwcDQwVtIB8gFBVV95cUxQR3d1Q1IxZGkydlY0VUREQlNFbWZNaGxCaFRmY05YOEY0MGFnU1ktZVpHUE9sN1NhSndMNVdoRkVWdVRueXVGSFhiWWd2S1AzdEYzZDl1Q1RjOS1WQlh3ZHpHWTNlUXBRSElNbG40eFlTRW96Njl6Vi1iLWlYN1I3a0I0MUp4M2RaNWNCTUQxdDd6eUY5VmFmcVZuZkhacDRlbDlRRDJlNk5GTl9waFNnZGRrMG5nUDRCSVRkNXVzaGQ5RVNmeG42VGtIOXhPbTdKMEhCWjhwUG9WX3p6MDB1Y3ZGeHNqakdyMDB6a3lhTjJpQQ?oc=5)
 
 ---
 
