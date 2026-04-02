@@ -44,6 +44,14 @@ permalink: /news/lenalidomide/
 
 ## 相關新聞（23 則）
 
+### [Krebs: Körpereigenes Bakterium kann Magenkrebs auslösen – Forscher finden effizienten Wirkstoff](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTjVyQkNERUdBRC04OWs3YU0zQlVXOE51a243ZW80SmxSNzRaVlZTQ0JBQ2s2Mm1vSW40QTZfLTJjemZ0cWRBVzU5eEtud1RDVksxeE1wU1JsYWZiQXU2cW5yczl0VVRCa0NWWUNPMGRCMjJ6bEtPZ1pFMzFyTGFPMW8wMlVIeGlRb3JaWXFZVUsyU1o5OF9OXzhacVRMQXZpMlFERGpieVZmbk1RVE1yTV9Kd010S2J4d3VhZFR0SS1zbE1hWFV3ZDZPb0pVclF5eWY3SFhHN2hWSmh3TjBZQzZ2amtxbjIxcWtYMlM0QkJGWXdB?oc=5)
+
+2026-04-02 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTjVyQkNERUdBRC04OWs3YU0zQlVXOE51a243ZW80SmxSNzRaVlZTQ0JBQ2s2Mm1vSW40QTZfLTJjemZ0cWRBVzU5eEtud1RDVksxeE1wU1JsYWZiQXU2cW5yczl0VVRCa0NWWUNPMGRCMjJ6bEtPZ1pFMzFyTGFPMW8wMlVIeGlRb3JaWXFZVUsyU1o5OF9OXzhacVRMQXZpMlFERGpieVZmbk1RVE1yTV9Kd010S2J4d3VhZFR0SS1zbE1hWFV3ZDZPb0pVclF5eWY3SFhHN2hWSmh3TjBZQzZ2amtxbjIxcWtYMlM0QkJGWXdB?oc=5)
+
+---
+
 ### [Krebs: Selbst geheilt ist nicht vorbei - Was im Darm zurückbleibt, kann Krebs fördern](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRzNtVmVoVHNpc05uY2piX3I1V2w1ajA3Zk5BQjN6dVMzSV94ekY0em5naDlITTR0ODFKcDJVZGNmSXlGOV9QOEJkdDE4eEh2SlhaNE1hdjNBQXZObmdTb216MGQweEJJN1MtTTZ3TnpKQ2Mxbkd4ajhUNmRvbUxkY0c2VjVOZzFVNERxWjVCNWdzelFsT01OaWJEUWVXUHJVUkwxakxoOFBVeUpJY3Naak9scUFWa19pRkFxVWVzaC1FMmdzUkE2QnFXRmxtLS1uZW5zc2hkYTVUUjdoaFdTd3VlR00xZw?oc=5)
 
 2026-04-02 <span class="news-indication-tag">Krebs</span>
@@ -52,19 +60,27 @@ permalink: /news/lenalidomide/
 
 ---
 
+### [Rusia hace historia con la primera aplicación de una vacuna personalizada contra el cáncer](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd25aMEdzcFhiRGUwdHdvb3UzZm9Mc3J0SXBoQTNOMjQ4SmFFNk0tQjl2eXdIaG5xYkNvZlJiX0JZbTJqTm9Id0MyVmYtZXZISjgzSHVIQ2t2NkcwTkdYSG1FbHVuMW9vN2FHNUFqMlhPVVJJeGV3MDVOZUVCNGJaMjZMUUY1UzhaX051b0ZtekxoVjdYNlBpZmY5OEd0RE1MVE9IbnlmNnhuYjZHQ1Jvb09yZlcxb3k4?oc=5)
+
+2026-04-02 <span class="news-indication-tag">tumor</span>
+
+來源：[teleSUR](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd25aMEdzcFhiRGUwdHdvb3UzZm9Mc3J0SXBoQTNOMjQ4SmFFNk0tQjl2eXdIaG5xYkNvZlJiX0JZbTJqTm9Id0MyVmYtZXZISjgzSHVIQ2t2NkcwTkdYSG1FbHVuMW9vN2FHNUFqMlhPVVJJeGV3MDVOZUVCNGJaMjZMUUY1UzhaX051b0ZtekxoVjdYNlBpZmY5OEd0RE1MVE9IbnlmNnhuYjZHQ1Jvb09yZlcxb3k4?oc=5)
+
+---
+
+### [Altro che più sicure, probabilmente anche le sigarette elettroniche causano il cancro](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWm85TmE2d3ZQcmE1M05mZWZwU284ZnA4aUJyR3NXM1pnU2xtQXJCQWs3bzl3enBhZnY5c05RVVhtbmhxS0gtTWZGU3B3Z0VzYi1fTTNHUXNoQjJMY3AtdkE3RFlGT1lGSU1DRzBJS2pWMnR1S1FqUUJ5NkhWUHlqN0VPQ25DVzRSd2pqV2J1Q1dvOVQ5MVhKb3Nxdm9LdmZISmc?oc=5)
+
+2026-04-02 <span class="news-indication-tag">cancro</span>
+
+來源：[Wired](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWm85TmE2d3ZQcmE1M05mZWZwU284ZnA4aUJyR3NXM1pnU2xtQXJCQWs3bzl3enBhZnY5c05RVVhtbmhxS0gtTWZGU3B3Z0VzYi1fTTNHUXNoQjJMY3AtdkE3RFlGT1lGSU1DRzBJS2pWMnR1S1FqUUJ5NkhWUHlqN0VPQ25DVzRSd2pqV2J1Q1dvOVQ5MVhKb3Nxdm9LdmZISmc?oc=5)
+
+---
+
 ### [Alfie the spaniel sniffed out my cancer, says Wendover dog owner](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yY1lTRm54SVo4RG12SnRWNDNBQ1JhbE1uNjJUUjVTcFBJTk1EdDVSMjRzOHFCVVVucWZaM0owOXlCVWdvMDBURVZHc2pQb0xNcXRxendHb3Q2RlhQ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">cancer</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yY1lTRm54SVo4RG12SnRWNDNBQ1JhbE1uNjJUUjVTcFBJTk1EdDVSMjRzOHFCVVVucWZaM0owOXlCVWdvMDBURVZHc2pQb0xNcXRxendHb3Q2RlhQ?oc=5)
-
----
-
-### [Krebs: Körpereigenes Bakterium kann Magenkrebs auslösen – Forscher finden effizienten Wirkstoff](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTjVyQkNERUdBRC04OWs3YU0zQlVXOE51a243ZW80SmxSNzRaVlZTQ0JBQ2s2Mm1vSW40QTZfLTJjemZ0cWRBVzU5eEtud1RDVksxeE1wU1JsYWZiQXU2cW5yczl0VVRCa0NWWUNPMGRCMjJ6bEtPZ1pFMzFyTGFPMW8wMlVIeGlRb3JaWXFZVUsyU1o5OF9OXzhacVRMQXZpMlFERGpieVZmbk1RVE1yTV9Kd010S2J4d3VhZFR0SS1zbE1hWFV3ZDZPb0pVclF5eWY3SFhHN2hWSmh3TjBZQzZ2amtxbjIxcWtYMlM0QkJGWXdB?oc=5)
-
-2026-04-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTjVyQkNERUdBRC04OWs3YU0zQlVXOE51a243ZW80SmxSNzRaVlZTQ0JBQ2s2Mm1vSW40QTZfLTJjemZ0cWRBVzU5eEtud1RDVksxeE1wU1JsYWZiQXU2cW5yczl0VVRCa0NWWUNPMGRCMjJ6bEtPZ1pFMzFyTGFPMW8wMlVIeGlRb3JaWXFZVUsyU1o5OF9OXzhacVRMQXZpMlFERGpieVZmbk1RVE1yTV9Kd010S2J4d3VhZFR0SS1zbE1hWFV3ZDZPb0pVclF5eWY3SFhHN2hWSmh3TjBZQzZ2amtxbjIxcWtYMlM0QkJGWXdB?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yY1lTRm54SVo4RG12SnRWNDNBQ1JhbE1uNjJUUjVTcFBJTk1EdDVSMjRzOHFCVVVucWZaM0owOXlCVWdvMDBURVZHc2pQb0xNcXRxendHb3Q2RlhQ?oc=5)
 
 ---
 
@@ -76,11 +92,19 @@ permalink: /news/lenalidomide/
 
 ---
 
-### [E-Zigaretten sind wahrscheinlich krebsfördernd](https://news.google.com/rss/articles/CBMingFBVV95cUxNTVVPN1QzQWR2X1pWUHk5M3hqajZwWW5HQS1RajNhVGlPVzNrWkxka0JMV3R2OTJBNE5RYXZUbzJpcDFhUVFqNmVVSTJUbkZ1elgybDFkOWJ5aDRJLVVrSTNGV1pSNENkRGE5cHVOWmU4YlV1WXQzUzQtSENkTGx1Rmo1RTB0MUNYOTNHWjgxOEZydm9lR3ZRMXdYdDZTQQ?oc=5)
+### [Utilizó IA para crear un tratamiento experimental y salvar a su perro del cáncer](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXR6bUpLWTVQR1IzTHMxNWpxcXdMeVl6d0NHLXFXbzlOWGtfc2VYektXX25kNHFtTVpLcWlZaUtIYWxuNG9GaWM4dGtTek9lZk5BNzFXbk9LQ3lRZE1hUlN1VmRZX1E4VzNMeE90cEwzc29qclRQMXVKb3NHeVJ4UmFTMTF0M2VtZEhoX1VxUQ?oc=5)
 
-2026-04-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-04-02 <span class="news-indication-tag">tumor</span>
 
-來源：[BR](https://news.google.com/rss/articles/CBMingFBVV95cUxNTVVPN1QzQWR2X1pWUHk5M3hqajZwWW5HQS1RajNhVGlPVzNrWkxka0JMV3R2OTJBNE5RYXZUbzJpcDFhUVFqNmVVSTJUbkZ1elgybDFkOWJ5aDRJLVVrSTNGV1pSNENkRGE5cHVOWmU4YlV1WXQzUzQtSENkTGx1Rmo1RTB0MUNYOTNHWjgxOEZydm9lR3ZRMXdYdDZTQQ?oc=5)
+來源：[laopinion.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaXR6bUpLWTVQR1IzTHMxNWpxcXdMeVl6d0NHLXFXbzlOWGtfc2VYektXX25kNHFtTVpLcWlZaUtIYWxuNG9GaWM4dGtTek9lZk5BNzFXbk9LQ3lRZE1hUlN1VmRZX1E4VzNMeE90cEwzc29qclRQMXVKb3NHeVJ4UmFTMTF0M2VtZEhoX1VxUQ?oc=5)
+
+---
+
+### ['Don’t be embarrassed about bowel cancer, get help before it’s too late' - Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
 
 ---
 
@@ -116,6 +140,14 @@ permalink: /news/lenalidomide/
 
 ---
 
+### [Prostata-Ca: Prophylaxe zum Aufkleben](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXpMNko1NUo1YmlHLUpNbXRObmJRZzJmalJxbHV6MjZDSVUyUXphOW5WVTBEaXZZRk1yNTJrcUU2WEFKSGhGa0ZRMXA2NGE3VHRuLUdlcGdjT0k5Q24wSGFjZmRWMmFFSHRKMV81NVdNUkE1bjZFbEJMZkp5cVRJV3lBMVNfRkRubTRjS3VtYw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">tumor</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXpMNko1NUo1YmlHLUpNbXRObmJRZzJmalJxbHV6MjZDSVUyUXphOW5WVTBEaXZZRk1yNTJrcUU2WEFKSGhGa0ZRMXA2NGE3VHRuLUdlcGdjT0k5Q24wSGFjZmRWMmFFSHRKMV81NVdNUkE1bjZFbEJMZkp5cVRJV3lBMVNfRkRubTRjS3VtYw?oc=5)
+
+---
+
 ### [Tumore alla prostata, in Toscana la prima volta dell’intervento che non richiede incisioni chirurgiche e riduce il recupero - Il Tirreno](https://news.google.com/rss/articles/CBMiggJBVV95cUxQblh6TDQzZFdFbS11WXBqVnlHaU1fWWhpdFN6bTdraURHOFY5QVJHa251QjNzalZxcGNyc3d5U3lXNkJwSzB2UVFkVThGRFBtcUVuUi1TTUwyVVlaTGdBeWFRcVN1QmN4dVZMV1p1UndOUEhQRGw0Q3hiLTVyWjZJRk04ZUhPZlBld3ZESHVtaGl4VEtsSmpYb1VGcDhtd0c0cWtTZ21FWjBONV80NnEtMU5qUzNzMGVlWjdiRExQNG1sZGFMcy1nakZ1dXhYVDB0WGcyZWl2VWhVRFNTQ2xmSW4zVENsWmJqTU5YVmVPTTZ5WHg5cDc4UWpMdnZ2ZDdFMWc?oc=5)
 
 2026-04-01 <span class="news-indication-tag">tumor</span>
@@ -132,11 +164,11 @@ permalink: /news/lenalidomide/
 
 ---
 
-### [Le lien entre exposition aux pesticides et cancers établi par des chercheurs français et péruviens](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWkkzU0tMbzNQckFNSWdKR29OSVRGSEJPc01TTGVGTnFjaktlTW9rOThLR013c01ncVNiSEFaSG5XZ2xtS19MQWY1T1VubHg3ZFpQRjFOYnNwREU1TkpzeWowSG1YNEprS193bnFjUl9XbzM4YjdQeUVVYS1ZNDRSVWllaHk4Z19VWFpKT01wdUZHQ1k1VXRxQmV6QXpjdzVZbV9jQ3lfZEIxVzVodjFMMlpBYWgwLVJFMnRnQ3p3Yy1XWWdaQXE0bUVqWk5jQnNMNHd1RnkyM3F0djlUWVFZX2JXYmM3QQ?oc=5)
+### [Le lien entre exposition aux pesticides et cancers établi par des chercheurs français et péruviens - France Info](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWkkzU0tMbzNQckFNSWdKR29OSVRGSEJPc01TTGVGTnFjaktlTW9rOThLR013c01ncVNiSEFaSG5XZ2xtS19MQWY1T1VubHg3ZFpQRjFOYnNwREU1TkpzeWowSG1YNEprS193bnFjUl9XbzM4YjdQeUVVYS1ZNDRSVWllaHk4Z19VWFpKT01wdUZHQ1k1VXRxQmV6QXpjdzVZbV9jQ3lfZEIxVzVodjFMMlpBYWgwLVJFMnRnQ3p3Yy1XWWdaQXE0bUVqWk5jQnNMNHd1RnkyM3F0djlUWVFZX2JXYmM3QQ?oc=5)
 
 2026-04-01 <span class="news-indication-tag">cancer</span>
 
-來源：[Franceinfo](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWkkzU0tMbzNQckFNSWdKR29OSVRGSEJPc01TTGVGTnFjaktlTW9rOThLR013c01ncVNiSEFaSG5XZ2xtS19MQWY1T1VubHg3ZFpQRjFOYnNwREU1TkpzeWowSG1YNEprS193bnFjUl9XbzM4YjdQeUVVYS1ZNDRSVWllaHk4Z19VWFpKT01wdUZHQ1k1VXRxQmV6QXpjdzVZbV9jQ3lfZEIxVzVodjFMMlpBYWgwLVJFMnRnQ3p3Yy1XWWdaQXE0bUVqWk5jQnNMNHd1RnkyM3F0djlUWVFZX2JXYmM3QQ?oc=5)
+來源：[France Info](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWkkzU0tMbzNQckFNSWdKR29OSVRGSEJPc01TTGVGTnFjaktlTW9rOThLR013c01ncVNiSEFaSG5XZ2xtS19MQWY1T1VubHg3ZFpQRjFOYnNwREU1TkpzeWowSG1YNEprS193bnFjUl9XbzM4YjdQeUVVYS1ZNDRSVWllaHk4Z19VWFpKT01wdUZHQ1k1VXRxQmV6QXpjdzVZbV9jQ3lfZEIxVzVodjFMMlpBYWgwLVJFMnRnQ3p3Yy1XWWdaQXE0bUVqWk5jQnNMNHd1RnkyM3F0djlUWVFZX2JXYmM3QQ?oc=5)
 
 ---
 
@@ -144,7 +176,7 @@ permalink: /news/lenalidomide/
 
 2026-04-01 <span class="news-indication-tag">cancer</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNkdLRDVEWDl5dmRmZ3hwOHJvWTYxSU91X1lfUHVlM0tYWW5UZVNuQXg1d1E4OVhlRUVua2NydTA0dzBGVjlMRWZGSmY1SzE3dWhHR3RMa1hDWU1a?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNkdLRDVEWDl5dmRmZ3hwOHJvWTYxSU91X1lfUHVlM0tYWW5UZVNuQXg1d1E4OVhlRUVua2NydTA0dzBGVjlMRWZGSmY1SzE3dWhHR3RMa1hDWU1a?oc=5)
 
 ---
 
@@ -156,6 +188,14 @@ permalink: /news/lenalidomide/
 
 ---
 
+### [Tumore al colon e intestino giovane: la ricerca che cambia tutto - Libero Quotidiano](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGloRnhaSWphdXB6MXBJbGNsZVNXWGlWeHNRTDhHaE11SWRpendveHBCNE5ESDltY2VWbkhwOHlpbTBZZ09VNnJHSkNPdFQ2MXJoeFZwWUZHTGFlT3ZEOWZ6SjNVVUJROHM4VVdJVUw5UzZlY1F3M0lLV3FBS2ZweTIzZXVERVZrTWxXMDIwOXBKb09YZU5fVWFpTVB6NnhieTBlZ0hWRS1VZlFVM3BDZ01jMVNDdDNfa3c?oc=5)
+
+2026-04-01 <span class="news-indication-tag">tumor</span>
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGloRnhaSWphdXB6MXBJbGNsZVNXWGlWeHNRTDhHaE11SWRpendveHBCNE5ESDltY2VWbkhwOHlpbTBZZ09VNnJHSkNPdFQ2MXJoeFZwWUZHTGFlT3ZEOWZ6SjNVVUJROHM4VVdJVUw5UzZlY1F3M0lLV3FBS2ZweTIzZXVERVZrTWxXMDIwOXBKb09YZU5fVWFpTVB6NnhieTBlZ0hWRS1VZlFVM3BDZ01jMVNDdDNfa3c?oc=5)
+
+---
+
 ### [So häufig wird der Krebs erst nach dem Tod erkannt](https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1RRTW80VlE2eEJpVGhpMFBPOXVLeG8yZExqOU53T1hlODc1TWtFZmdjZXNlVkdGOUNLYW9pQVZJcjNQSW1lUzVXTVAteDY1TTFQVVJfSENyY25pX2pWMDcxS2t3Uldud0NKOUVHSDhBWFExRm9TRGZnajlqdHQ1YUVOcWZwUndCbHl5UVd6eUlPcjJRalRlVS0ycENoQkNoekZF?oc=5)
 
 2026-04-01 <span class="news-indication-tag">Krebs</span>
@@ -164,35 +204,19 @@ permalink: /news/lenalidomide/
 
 ---
 
-### [El test que detecta tumores sin síntomas: Sanidad llama a participar en el cribado de cáncer de colon en Canarias](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFVaQldHcFNJVEN6MEdkejZFRGVDcklkS01wZFY2LTVDN19Wc2FUZTQzU194azdQZURyamJSWVFIR0hIU1pxckpsbHN4WWFSZ2wtNUNmRTlKcEptQUpPamY3UDgxU0ZOdm9iYzNZaWNFMDVISHFXcDd2Y3ctSUNlU0RmVE5oVW8zaGVVRUtrcU1FU0tqZ0FxZUJtb3BDamRLa3JxWF9RNDFicjlYSUtWT1ZkcXpsTWtr?oc=5)
+### [Sanidad hace un llamamiento para que se acuda a llamadas para cribado de cáncer de colon - Gomera Verde](https://news.google.com/rss/articles/CBMivwFBVV95cUxNdjM3QTh5VFpCLW5mMHlYSWQwUjctelNwc0U0VTR1aGR2ZmJHOWVTZ0UwcldtdzF6QUNza2lQcXhQaklic2xwY3hQM05EWDJwOVhvbEo4Rk8wdnYwaGVlaXR2eEo4UmJnei0xZGtzYlhkZGJhRkp4bW9oWGtfSkYyMzRxVjg2bUNucUNQSV9RNW9SOVR1NHdkcEFWMGRhLWJBeldPX1lVWGdveU90ZU40bjVWbG4tb1FjY1hDY1YySQ?oc=5)
 
 2026-03-31 <span class="news-indication-tag">tumor</span>
 
-來源：[Canarias7](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFVaQldHcFNJVEN6MEdkejZFRGVDcklkS01wZFY2LTVDN19Wc2FUZTQzU194azdQZURyamJSWVFIR0hIU1pxckpsbHN4WWFSZ2wtNUNmRTlKcEptQUpPamY3UDgxU0ZOdm9iYzNZaWNFMDVISHFXcDd2Y3ctSUNlU0RmVE5oVW8zaGVVRUtrcU1FU0tqZ0FxZUJtb3BDamRLa3JxWF9RNDFicjlYSUtWT1ZkcXpsTWtr?oc=5)
-
----
-
-### [Australiano usó IA para salvar a su perro del cáncer](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1ZIMUJXX21GcU5PbEZfbkpzOFRKazZoVXF3cnYtWWtRZEMwbjdxNVBZR3VhUWhFS0ZYWUlKYldOdHdteHRPUG9WeXJIQWxyWS14SEhhVkdoZGdFWG1ka2xXVWhVcWRCSlhVQlFpRHlIcWVZOHAzWG1uZDBHWGJhUEQwOUZHelZ3dWtMRVBjRXI5WDUtaUQ0cC1SMNIBmwFBVV95cUxQb1VteTUxd1RBTks2ZHVHQ2pkM3k4MW1qZ3JvWFU5Um9kTUlmTXU3R1plWVU0SnhQdHJCOV9JcUtoR0xqTkFvU0V4ZGt4dHBvN2IxMWJDMkR4TS1MZjZlZjQzTFpBWFlMVldscUlqTUl4SnNqNVRSUDNUMkFZdW9sdW5wZlVvUjJqSUM2dVB4NkdUTGNWQ1BhZlJ3OA?oc=5)
-
-2026-03-31 <span class="news-indication-tag">tumor</span>
-
-來源：[DW.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1ZIMUJXX21GcU5PbEZfbkpzOFRKazZoVXF3cnYtWWtRZEMwbjdxNVBZR3VhUWhFS0ZYWUlKYldOdHdteHRPUG9WeXJIQWxyWS14SEhhVkdoZGdFWG1ka2xXVWhVcWRCSlhVQlFpRHlIcWVZOHAzWG1uZDBHWGJhUEQwOUZHelZ3dWtMRVBjRXI5WDUtaUQ0cC1SMNIBmwFBVV95cUxQb1VteTUxd1RBTks2ZHVHQ2pkM3k4MW1qZ3JvWFU5Um9kTUlmTXU3R1plWVU0SnhQdHJCOV9JcUtoR0xqTkFvU0V4ZGt4dHBvN2IxMWJDMkR4TS1MZjZlZjQzTFpBWFlMVldscUlqTUl4SnNqNVRSUDNUMkFZdW9sdW5wZlVvUjJqSUM2dVB4NkdUTGNWQ1BhZlJ3OA?oc=5)
+來源：[Gomera Verde](https://news.google.com/rss/articles/CBMivwFBVV95cUxNdjM3QTh5VFpCLW5mMHlYSWQwUjctelNwc0U0VTR1aGR2ZmJHOWVTZ0UwcldtdzF6QUNza2lQcXhQaklic2xwY3hQM05EWDJwOVhvbEo4Rk8wdnYwaGVlaXR2eEo4UmJnei0xZGtzYlhkZGJhRkp4bW9oWGtfSkYyMzRxVjg2bUNucUNQSV9RNW9SOVR1NHdkcEFWMGRhLWJBeldPX1lVWGdveU90ZU40bjVWbG4tb1FjY1hDY1YySQ?oc=5)
 
 ---
 
 ### [À 26 ans, elle ignore ces signaux…, le cancer s’est déjà propagé - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
 
-2026-03-31 <span class="news-indication-tag">cancer</span>
+2026-03-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
-
----
-
-### [Une étude vient de le confirmer : le vapotage est probablement cancérigène](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFF6Z2xLODRQZDhuTmxQRms4OE5XbHp1QmptWkNvdy1ZS0daVEcyUUtURFIyTmQ3cS1KOTZpZk1acWIxQ3V5aVRSV2Q1bHZ6T3M4MWVxUlo3MGV2Mkl3RGlsZ0FrMURxT0NEczNuS21qRzFVT3o1anU3WEtvVVlUeWhKanhEdHhSLWxKa3EwZXc4Tkt1SFYwNmVLWkdMV1I5dXVRRzN3?oc=5)
-
-2026-03-31 <span class="news-indication-tag">cancer</span>
-
-來源：[Presse-citron](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFF6Z2xLODRQZDhuTmxQRms4OE5XbHp1QmptWkNvdy1ZS0daVEcyUUtURFIyTmQ3cS1KOTZpZk1acWIxQ3V5aVRSV2Q1bHZ6T3M4MWVxUlo3MGV2Mkl3RGlsZ0FrMURxT0NEczNuS21qRzFVT3o1anU3WEtvVVlUeWhKanhEdHhSLWxKa3EwZXc4Tkt1SFYwNmVLWkdMV1I5dXVRRzN3?oc=5)
 
 ---
 
@@ -201,30 +225,6 @@ permalink: /news/lenalidomide/
 2026-03-31 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtfX2RpQ2ZoektBQ2pWbktFdzg4QlhHaWlnV1Z4NjF3aHRuaGJ2ejhITlpYdDdUNF84YUMxcS11Nk1yRkdTYVJRaHNYdkhmSHpzR2tJTGJnNUZUSTdOay1vd0RoenRlQXRGdXZQQU5pT3NfMFdiOUU0WWdUbGFDbGIzMUkyRzdXUU9xQ3hTaWRlRElGVnB3b0lZWXdPaHRz0gGeAUFVX3lxTE1neDJzRGxFb29UcDJBNzVIeGtmQVV0RFV3Rnc4NU1GOFdGc0tDVnFXVjkxeURBWFpob0RObUFGWC1rb25XN3RqSUZIVnlFVWN5eHZZcmUxVkNJa3lDN3FFeWFpb1I0MUdydlRGMTVZYVFTLUhPa2x5cGJZR0k1VFZ2eGc2TGM5Z1pxWTRTaUNrVjFJOW5JTElNODg2LUNR?oc=5)
-
----
-
-### [«A 26 anni mi hanno diagnosticato il cancro del colon-retto. Ora sono guarita grazie a una nuova terapia» - Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTjV6d0IxNi1ocDVubWs2V29ab0l6UFFfNW5PSjdVVmItVFdSWFk4ZmcyQjVSV3kwZWxqUV9DQTE0aW5ZbEhHbTAwb0RfSndta2xHTmRCN1hsNjhwcUdCMDNuUFlINE1zRzhSNnFaaU9Sb3Q3bUFrWlF2RWJwbjJYYmk2a05sWUVia1FNNDhOQ055U2x3Y2RRU0VhVkdIYmQtM05sR0930gGiAUFVX3lxTE55MWVJWDVfejdPWVR5TjVPNXVaTktuT191NzF5dUtycDRMdkd3c0FMUDVIeHFOSkM4b0RZVzBRTDlUWGlPNEhvYTJmTm5kQTQ1Tk5wZ3B5NGVISExEZjZxMDBmRWdUU1hwZlZwSUk1SGJkNUwzbDlvY0w2MzYtVFNmUy11TzJMWHdjVHhhcU9hbW45WWoyUkFLTjh5WmtfdDYxdw?oc=5)
-
-2026-03-31 <span class="news-indication-tag">cancro</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTjV6d0IxNi1ocDVubWs2V29ab0l6UFFfNW5PSjdVVmItVFdSWFk4ZmcyQjVSV3kwZWxqUV9DQTE0aW5ZbEhHbTAwb0RfSndta2xHTmRCN1hsNjhwcUdCMDNuUFlINE1zRzhSNnFaaU9Sb3Q3bUFrWlF2RWJwbjJYYmk2a05sWUVia1FNNDhOQ055U2x3Y2RRU0VhVkdIYmQtM05sR0930gGiAUFVX3lxTE55MWVJWDVfejdPWVR5TjVPNXVaTktuT191NzF5dUtycDRMdkd3c0FMUDVIeHFOSkM4b0RZVzBRTDlUWGlPNEhvYTJmTm5kQTQ1Tk5wZ3B5NGVISExEZjZxMDBmRWdUU1hwZlZwSUk1SGJkNUwzbDlvY0w2MzYtVFNmUy11TzJMWHdjVHhhcU9hbW45WWoyUkFLTjh5WmtfdDYxdw?oc=5)
-
----
-
-### [Updates zum Prostata- und Leberkarzinom sowie zu Kopf-Hals-Tumoren](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0RfdGN5LXpjS3hDc2xsNVVoWW1HTGNCZFRMY29nSkRER1ZDOVNQRTRaMnBhc3ZLVV94Sl9JRndxNDZiSzQ1aGhvUEktcVZyR1pGTGZ5RG9QTlhBMFZXUXgxeFRRUHVKWTd3RnFyR0o3am1uUkMyYkRqeEpzczJpZWZPS3psN0dSenh4ODRnN25aOEhOWnFxRU9CeThhRm9aMHA5aFU5QW04UQ?oc=5)
-
-2026-03-31 <span class="news-indication-tag">tumor</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0RfdGN5LXpjS3hDc2xsNVVoWW1HTGNCZFRMY29nSkRER1ZDOVNQRTRaMnBhc3ZLVV94Sl9JRndxNDZiSzQ1aGhvUEktcVZyR1pGTGZ5RG9QTlhBMFZXUXgxeFRRUHVKWTd3RnFyR0o3am1uUkMyYkRqeEpzczJpZWZPS3psN0dSenh4ODRnN25aOEhOWnFxRU9CeThhRm9aMHA5aFU5QW04UQ?oc=5)
-
----
-
-### [Vino, birra o superalcolici? Chi beve ha il 36% di probabilità in più di morire di cancro (ma dipende da cosa si beve) - Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnR5MGlSQTZDTmx6N3l2OEV6NEpUdkl0TkFXTy1HWGFSbVNEVTR4a0FheFUyM0JRZEZqQjY5X21RZzRVOFZEamF1Y2QyX2pFWUNiYk9XRmk5a0lOYmZIRTdpVmdBZDl0M2tGTW5tTEZtVHN5WGNDLWhZQzhjODdlcEJmVGhMWWRFRUlNVnVZRHJsNGpTT3JYOW1OVzVXR1I4ek44ZzB2YXQydUNB0gGqAUFVX3lxTE1xcmo2a0Jja19vWW44cW5yLUFyNEY1MGFIMFpYWkVucDY2b1NfcS1BX25VX0dkU0d2WWdCdldOUkdJMl9obkVybU8xb29zbWdjQUszSk1jM21saUx4Z2FhWG0zUEZ4YjZrRi1CLUNUTklkY2Vma3d1dzVpVElRZFpCaUdLR1VuaGdLY3RUTUYwZEltckgxYTNHTUZPLXA4Yml2ZEZiTnFYcFZR?oc=5)
-
-2026-03-31 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnR5MGlSQTZDTmx6N3l2OEV6NEpUdkl0TkFXTy1HWGFSbVNEVTR4a0FheFUyM0JRZEZqQjY5X21RZzRVOFZEamF1Y2QyX2pFWUNiYk9XRmk5a0lOYmZIRTdpVmdBZDl0M2tGTW5tTEZtVHN5WGNDLWhZQzhjODdlcEJmVGhMWWRFRUlNVnVZRHJsNGpTT3JYOW1OVzVXR1I4ek44ZzB2YXQydUNB0gGqAUFVX3lxTE1xcmo2a0Jja19vWW44cW5yLUFyNEY1MGFIMFpYWkVucDY2b1NfcS1BX25VX0dkU0d2WWdCdldOUkdJMl9obkVybU8xb29zbWdjQUszSk1jM21saUx4Z2FhWG0zUEZ4YjZrRi1CLUNUTklkY2Vma3d1dzVpVElRZFpCaUdLR1VuaGdLY3RUTUYwZEltckgxYTNHTUZPLXA4Yml2ZEZiTnFYcFZR?oc=5)
 
 ---
 

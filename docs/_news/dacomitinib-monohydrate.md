@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Bluthochdruck in jungen Jahren rächt sich im mittleren Alter – also viel früher Medikamente nehmen?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
+
+2026-04-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
+
+---
 
 ### [The 40-minute exercise that can slash high blood pressure in just six weeks - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JkRmdPRDNJZXhnQ0o0UVBEaThvdEgtdnZTNjVRU3NWcXp3bmRFVEdFdnB5YnY0V1J1UXBRZ3ZveGJWNE5MaGpqeWlnVExpd3lTSERscExjeEltVjBkNXFLU085Wm5kQ2hqZ251aUdZb3VobnpWLUtheEFxYjV5dGJITVl2cHZwX2lHYVlwSFhGcHd3Rm4watIBngFBVV95cUxNZ09POF9kS3NEU19NbzQ1YlRKNTJHeGZRaUdJS1VmWEhhaXpncnJ0NHlvclhuZkwxbjRLSmVMa1pxTkc5dGRNTkVBcXYwb25nNkNNaWdGRHVISFU5QWt5alRTMkNtMWJZR1BFQVEwc2JKbUxWV3lGck9qWVFpamllWTI0VDlKS0h6Z3hQZ3NUWnBjek1qSDExT0YwSzAyQQ?oc=5)
 

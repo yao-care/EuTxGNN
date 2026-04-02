@@ -50,7 +50,7 @@ permalink: /news/alzheimer-disease/
 
 2026-04-01
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEY3RWNQM1JwaHBLd0xzWkR5TnduZnNWbGlkSEtPTC1BUm56bS1ySkNHaURyV2dqOUJOemlCTklIa1N0MldyTmNzMzZSbkgwQjNSSXlKa2pBZ0M4Vi12SUZYOGgyUFVoYllORkNGaC1tQ3czYXNTUmJHQ0tfSElPVTUteENidUdEVHotNXhfVERzbEpTRU9PMFRlSERsaDBzR0cwSlpn?oc=5)
+來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEY3RWNQM1JwaHBLd0xzWkR5TnduZnNWbGlkSEtPTC1BUm56bS1ySkNHaURyV2dqOUJOemlCTklIa1N0MldyTmNzMzZSbkgwQjNSSXlKa2pBZ0M4Vi12SUZYOGgyUFVoYllORkNGaC1tQ3czYXNTUmJHQ0tfSElPVTUteENidUdEVHotNXhfVERzbEpTRU9PMFRlSERsaDBzR0cwSlpn?oc=5)
 
 ---
 
@@ -58,7 +58,7 @@ permalink: /news/alzheimer-disease/
 
 2026-04-01
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVhLa1JkMGN0NEJaYXd4VW9vSDQ4Z1hlNDJndFdlT1duc0pWWDl5eGk0Tm1Na1JMbHduVDczQzRwLTBXUm1EVGVjUlBiX3dwRGlDOXF2SzM5VWpyQVYzY01FaHdNd0lubklPem5hS3dXWE9hakpBVzVlQ09vTTFxWDFsZ3kxczFO?oc=5)
+來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVhLa1JkMGN0NEJaYXd4VW9vSDQ4Z1hlNDJndFdlT1duc0pWWDl5eGk0Tm1Na1JMbHduVDczQzRwLTBXUm1EVGVjUlBiX3dwRGlDOXF2SzM5VWpyQVYzY01FaHdNd0lubklPem5hS3dXWE9hakpBVzVlQ09vTTFxWDFsZ3kxczFO?oc=5)
 
 ---
 

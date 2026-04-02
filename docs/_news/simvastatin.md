@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Mini cambios en el sueño, la dieta y el ejercicio pueden reducir el riesgo de infarto: el secreto está en combinarlos - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTG5ZeFpkNnM2UG5hYk84Q1ptSV9aS0o0WmpQcF9SbFpTczlRN3Z6V0ZSYUFPTW9Na1B4MHNCdGlIMUNlV1FRTHRGUnh0ZmFlSjJGcFREMHRrSTlDeDRIT3VKR0d3MGgyTWVPSjVKX0ZaSWc4RXVZMlUwQTlTX3pUSl9rY3Bod3lrSW1CaTUwZTVweHVZMHJUelV4UmZMMWVNTFpYeXhxd3lCZ0NmbE5wZTROWmNvbVJfN2xXbmxZY3VOTkg0ZFRjUWxrWVZDNVZKMFN3YkRnUHl6a1puRXFYZXVUNlhOcG9xUFRLWkxYbXNaUkXSAfgBQVVfeXFMTTFDU0JKT0lmLUV6cUJzYTdpZHpJYjk3YVA5eDhIUEt3UWNybEd6WTV2azg1YVhfTDlNWTd0WFAxWE9lT2Fpc3RzV1lab0xoQ3FVc2ZmeWs0QkVTbHNOdEFDRUptNm1FVFpIRGxTeExiRXRZS0hqWG5FWS1wYV9wS2p4OS1aTVR2M0VNVzJiOUJqUE41bjVXb0hmVkdhcHFpcUF2VGpObkU3RHRJazVZOGRoYUZMNm50SHhMRmpoLXg4cGtJbTdFQmVzY1VhR3BmUWRIZ0tYMnFkZU5EX01oSXJGOTk3WjRiTjNXYnJ6dERLRXRmS204Nlg?oc=5)
+
+2026-04-02 <span class="news-indication-tag">ictus</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTG5ZeFpkNnM2UG5hYk84Q1ptSV9aS0o0WmpQcF9SbFpTczlRN3Z6V0ZSYUFPTW9Na1B4MHNCdGlIMUNlV1FRTHRGUnh0ZmFlSjJGcFREMHRrSTlDeDRIT3VKR0d3MGgyTWVPSjVKX0ZaSWc4RXVZMlUwQTlTX3pUSl9rY3Bod3lrSW1CaTUwZTVweHVZMHJUelV4UmZMMWVNTFpYeXhxd3lCZ0NmbE5wZTROWmNvbVJfN2xXbmxZY3VOTkg0ZFRjUWxrWVZDNVZKMFN3YkRnUHl6a1puRXFYZXVUNlhOcG9xUFRLWkxYbXNaUkXSAfgBQVVfeXFMTTFDU0JKT0lmLUV6cUJzYTdpZHpJYjk3YVA5eDhIUEt3UWNybEd6WTV2azg1YVhfTDlNWTd0WFAxWE9lT2Fpc3RzV1lab0xoQ3FVc2ZmeWs0QkVTbHNOdEFDRUptNm1FVFpIRGxTeExiRXRZS0hqWG5FWS1wYV9wS2p4OS1aTVR2M0VNVzJiOUJqUE41bjVXb0hmVkdhcHFpcUF2VGpObkU3RHRJazVZOGRoYUZMNm50SHhMRmpoLXg4cGtJbTdFQmVzY1VhR3BmUWRIZ0tYMnFkZU5EX01oSXJGOTk3WjRiTjNXYnJ6dERLRXRmS204Nlg?oc=5)
+
+---
 
 ### [Arrojan luz sobre el papel del bazo en la recuperación tras un ictus - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWRjYVgzVV9LN0lDLVJIQm5waUxSY0NEWFRKLWpRY1pqRjJZTWxjV1FrTEhORXJjRHpRS2pIWjZZSzQ2ZnBiS2RSZGVsVm1TYjVFZ0EzalYwcktXc3k2RzNOZ3B0QWY5aWNrbWdkendPWFdlYzJDREllS1hweWs2ajFabDFxWkhuYTk1dTc5MHNGZjdMcTJwZmZQbUowMHJwb0M3NENiNzVkeWVkeV84V2Rqa1dmUzF4TEM3MXBWd9IBtAFBVV95cUxOc1k1UmMzOFF1cXEzQXBkVFJsUVA2dWR3ZGZLNkcyTVJtMl9NbFMybTNabzRmZ1NvbGtlS2J3Q3g1Y1dMZmJiY0lCdVp5eU9tM0JFdjRyUnFVSGFIU1JiY0FqYXBOdmJJOFJuUmpydWVfTXBQMDNSVFVPX3d6T3ZNMWFRRV9pWmlFSEFYTjFKUmVzbFZlZDlHRnpfUGo3VzJsRDU0enFPNGsxV3hWbXZKdWIxcEY?oc=5)
 
@@ -52,27 +60,11 @@ permalink: /news/simvastatin/
 
 ---
 
-### [NHS to give fat jabs to 1.2m patients to stop heart attacks - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFpHa0NCZlROaThkd3gtM1FzMURNNXl1dkFST0RVdjhMVHdrOVRGdXNndnlSWnJiYmZRMkFZMWExeU1JYTJJNXA4LUlSMncwWkhrcWhmU3ZfQnJ0WnhyMDQyZmNLMDYzSDBNZlNaM2NrY0dwb2NsUkVqMDI1UmwtbU84RTd2R19oVkxUSU1PTkRSQ3NNcDBLUXdJVFVTVFJJ?oc=5)
+### [Enfermeras escolares enseñan a detectar un ictus a niños de la Alpujarra y de la costa - La Gaceta de Granada](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXpYVEN2Y0tncEwtcHg0cGJXV25xaDZMLUgyRlhZZG9hQ2RaSFUyWDBKcDNiVDBHbFhQV2dQeVpXbG1fenJwVEpwamNWV1pwWUg4RjBqbTlCeE90LUpYR2RQR0NiMDNpMHJ2aE9Ma1dvMjBqZHNhclJfbGJRZVNfV1hHMFg1V016NHVfNlUtU0luMlloNXNQSTdScnNfVkw4VjhoTmEtR1VnMzhDY2d1U3RtUkhES1U?oc=5)
 
-2026-04-01 <span class="news-indication-tag">stroke</span>
+2026-04-01 <span class="news-indication-tag">ictus</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFpHa0NCZlROaThkd3gtM1FzMURNNXl1dkFST0RVdjhMVHdrOVRGdXNndnlSWnJiYmZRMkFZMWExeU1JYTJJNXA4LUlSMncwWkhrcWhmU3ZfQnJ0WnhyMDQyZmNLMDYzSDBNZlNaM2NrY0dwb2NsUkVqMDI1UmwtbU84RTd2R19oVkxUSU1PTkRSQ3NNcDBLUXdJVFVTVFJJ?oc=5)
-
----
-
-### [Santé. Trois petits changements quotidiens pour baisser considérablement le risque de problèmes cardiaques - Le Progrès](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWVNHUjBQWHA1MWloUV9yOWR4UGNwX2pmRjZKVGFxNUdESl9qanVfODlIWTFzSUFBSnItaHRHU2l6QUExSG5fUzJNUHZtM1ZFLWdFUjZJc1lydW1qUWtnZE1QbEhnTlV6UlV0cUMtcFBNS2RUdjU0ZnlmZ2lmX3JFemxza0hWd3gtMzBub1RKOGxLSkxYbHlOVG9LYUZpTmlSa2FlSW95WlpTLWVxV3VUS1F2Vlo4a2tpb2JQdGVERW5EUDNqUTBuODFueFBDekZRNGFnckFrMy1oVU12dmR6VllKcXNaVlBM?oc=5)
-
-2026-04-01 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWVNHUjBQWHA1MWloUV9yOWR4UGNwX2pmRjZKVGFxNUdESl9qanVfODlIWTFzSUFBSnItaHRHU2l6QUExSG5fUzJNUHZtM1ZFLWdFUjZJc1lydW1qUWtnZE1QbEhnTlV6UlV0cUMtcFBNS2RUdjU0ZnlmZ2lmX3JFemxza0hWd3gtMzBub1RKOGxLSkxYbHlOVG9LYUZpTmlSa2FlSW95WlpTLWVxV3VUS1F2Vlo4a2tpb2JQdGVERW5EUDNqUTBuODFueFBDekZRNGFnckFrMy1oVU12dmR6VllKcXNaVlBM?oc=5)
-
----
-
-### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
-
-2026-03-31 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
+來源：[La Gaceta de Granada](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXpYVEN2Y0tncEwtcHg0cGJXV25xaDZMLUgyRlhZZG9hQ2RaSFUyWDBKcDNiVDBHbFhQV2dQeVpXbG1fenJwVEpwamNWV1pwWUg4RjBqbTlCeE90LUpYR2RQR0NiMDNpMHJ2aE9Ma1dvMjBqZHNhclJfbGJRZVNfV1hHMFg1V016NHVfNlUtU0luMlloNXNQSTdScnNfVkw4VjhoTmEtR1VnMzhDY2d1U3RtUkhES1U?oc=5)
 
 ---
 

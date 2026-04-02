@@ -3,7 +3,7 @@ layout: default
 title: "esclerosis múltiple（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "esclerosis múltiple（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
+description: "esclerosis múltiple（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="esclerosis múltiple（multiple sclerosis） 有什麼相關新聞？">
-<strong>esclerosis múltiple（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
+<strong>esclerosis múltiple（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
 
 ### [Descubren cómo la esclerosis múltiple mata neuronas clave para el pensamiento superior - La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjNIRnRidEV0OTFRRHpTR2ZHZ2tveUxUdkNBbl9ocDZfaDlKeTNwczBtNDc5eU9oRUhURThTQ2QtOTNTX29UdTZRZVZkczBjQ0IxcXRWdnJlbUlqY1lJdVltZnM4eWplZW4xMUdSOUl3ZU9hVU9OQzUwQkFOUUZRS0h2eGFuNkZKaEJrN0dLalFjejgyQUJ5LUdSSHRLaTQ4OGloYWRacmk4WlBUaW96cmhQcVdqNC0xOVFrSGtkakU1bFdqVzhQYWhpdXFqSmRDQjhvR2hxdjVpUdIB7gFBVV95cUxNQzFINS1QTmJZVXNuQTVsQTNPWGlUVURUdmVKZ2RScWFaU1dpT1BFTmZ2aTMtMTNmRTBPVjBuMllNZjF0Y0s2d1pZYWhiLVhmbVM3Q0psZWQzSHZKQ09YZUN2d19OdkVLZUZ3NFZLMzNMYkVaUnJVd0tVYllJQ256OV9BbHVGYmpCa0VnRFJzanJqM1lGX1c1bEY5a2hmR1ZUb05QNUdtcmJpbkR2dEdjZkR3cldWZlo5NldZSE1vbzNRZlZBcTF0YnpnZmEzbHNJZ0MtU2g0NU80UnJ5R1dpWlhCM1JIV0R3UVJodWNB?oc=5)
 
@@ -64,19 +64,27 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [E-Zigaretten sind wahrscheinlich krebsfördernd](https://news.google.com/rss/articles/CBMingFBVV95cUxNTVVPN1QzQWR2X1pWUHk5M3hqajZwWW5HQS1RajNhVGlPVzNrWkxka0JMV3R2OTJBNE5RYXZUbzJpcDFhUVFqNmVVSTJUbkZ1elgybDFkOWJ5aDRJLVVrSTNGV1pSNENkRGE5cHVOWmU4YlV1WXQzUzQtSENkTGx1Rmo1RTB0MUNYOTNHWjgxOEZydm9lR3ZRMXdYdDZTQQ?oc=5)
+### [CAR-Technologie bekämpft jetzt Alzheimer-Plaques - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0JlQXZTdGcwN0F4YndhUVZhX2YtSEZOR3dwbnRlU0ZsekpJZ1dBLVhMN0VKdUdidWVtWnpQU3NzbXVVNklFMkExYlB2dDNRYjdLTlJ3cFVueUFfNlk5dkJrVi1VSzRFYTVDT3c3ZG5kanEyYWx5TEpCbUQydHQxQ2JCekNlZWRjeDNVOVkwMFNIaFAzRWtVd1U5MkNmU2IyUVFqcmJOQ0tIcDVO?oc=5)
 
-2026-04-01
+2026-04-02
 
-來源：[BR](https://news.google.com/rss/articles/CBMingFBVV95cUxNTVVPN1QzQWR2X1pWUHk5M3hqajZwWW5HQS1RajNhVGlPVzNrWkxka0JMV3R2OTJBNE5RYXZUbzJpcDFhUVFqNmVVSTJUbkZ1elgybDFkOWJ5aDRJLVVrSTNGV1pSNENkRGE5cHVOWmU4YlV1WXQzUzQtSENkTGx1Rmo1RTB0MUNYOTNHWjgxOEZydm9lR3ZRMXdYdDZTQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0JlQXZTdGcwN0F4YndhUVZhX2YtSEZOR3dwbnRlU0ZsekpJZ1dBLVhMN0VKdUdidWVtWnpQU3NzbXVVNklFMkExYlB2dDNRYjdLTlJ3cFVueUFfNlk5dkJrVi1VSzRFYTVDT3c3ZG5kanEyYWx5TEpCbUQydHQxQ2JCekNlZWRjeDNVOVkwMFNIaFAzRWtVd1U5MkNmU2IyUVFqcmJOQ0tIcDVO?oc=5)
 
 ---
 
-### [Neuer Ansatz zur Alzheimer-Behandlung: Epigenetische Therapie zeigt Erfolge bei Mäusen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NfYnRDVUFiY2M0bnpOX3NfcUM4NjZNWjQ0UEZZaGMwcTdRaDE4TnQxNjVsOFpJdzJPRjVFWHdaWGJrU3cySEMwcDVHaV9DRUdQX045MGxUS0RlZ0xVQzctOUdLazJpbFExTXVBYlRGWVFtUG00aXlRejFSTW12Rk9lZmNHY2hncHpFLVppWXFjWlJjSXlvbFFUU2Q1WjJPNUxyZmYwY0JvakxlcGZzMUF4RlBSbFZmWmc?oc=5)
+### [Long Covid, scoperta una possibile terapia: il caso che fa sperare](https://news.google.com/rss/articles/CBMisAFBVV95cUxORXlhYTg4TnNvZDFmek5XcFNXTTNsTzEzb09jbnNmMzhmYzZxQXBFbV9nM3Mwa1pqNzd2MEFyVjJhVmxBUFZndFdqNWpOeC1OZmJHaEdPb1JwME1FM2tmRzhlZ0xpSGJOQ3MwNkhjMlIwdE1hSVBFOHctbl9UUXhuOXFPcGUtemxFN1RfUHdXSWtyV0R6bXJnUTZLRHFHTklGZHpiVzVjYkV5TnNqZG80dg?oc=5)
 
 2026-04-01
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NfYnRDVUFiY2M0bnpOX3NfcUM4NjZNWjQ0UEZZaGMwcTdRaDE4TnQxNjVsOFpJdzJPRjVFWHdaWGJrU3cySEMwcDVHaV9DRUdQX045MGxUS0RlZ0xVQzctOUdLazJpbFExTXVBYlRGWVFtUG00aXlRejFSTW12Rk9lZmNHY2hncHpFLVppWXFjWlJjSXlvbFFUU2Q1WjJPNUxyZmYwY0JvakxlcGZzMUF4RlBSbFZmWmc?oc=5)
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMisAFBVV95cUxORXlhYTg4TnNvZDFmek5XcFNXTTNsTzEzb09jbnNmMzhmYzZxQXBFbV9nM3Mwa1pqNzd2MEFyVjJhVmxBUFZndFdqNWpOeC1OZmJHaEdPb1JwME1FM2tmRzhlZ0xpSGJOQ3MwNkhjMlIwdE1hSVBFOHctbl9UUXhuOXFPcGUtemxFN1RfUHdXSWtyV0R6bXJnUTZLRHFHTklGZHpiVzVjYkV5TnNqZG80dg?oc=5)
+
+---
+
+### ['Don’t be embarrassed about bowel cancer, get help before it’s too late' - Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
+
+2026-04-01
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
 
 ---
 
@@ -112,35 +120,35 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Wechselwirkungen zwischen Körper und Psyche: Diabetes und Depressionen](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzJ5N1NIcV9VUVlpSHd4WXd1NlRyeHJPVFpvWEVhemZkMkZRQV91ZDZ1UjB0ZnVRbWdXZGk5UVNRX1lCZG5UcTRCcEZNWFM4TTIzZjZUM2FPdWZXUFpDR0w0RHRVQnBZSXh0Q2d5T2VhT2RoYTNxakhra2NJeWJ0eFZiMzI3eWhuUUh0VTg0SVFjODlyWjhOVTRqQmxUQXZMUktlSU1aWTJ1WEF6TTUw?oc=5)
-
-2026-04-01
-
-來源：[in-und-um-schweinfurt.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzJ5N1NIcV9VUVlpSHd4WXd1NlRyeHJPVFpvWEVhemZkMkZRQV91ZDZ1UjB0ZnVRbWdXZGk5UVNRX1lCZG5UcTRCcEZNWFM4TTIzZjZUM2FPdWZXUFpDR0w0RHRVQnBZSXh0Q2d5T2VhT2RoYTNxakhra2NJeWJ0eFZiMzI3eWhuUUh0VTg0SVFjODlyWjhOVTRqQmxUQXZMUktlSU1aWTJ1WEF6TTUw?oc=5)
-
----
-
-### [Dorking man becomes stem cell donor after transplant saves father](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
-
-2026-04-01
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
-
----
-
-### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
+### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
 
 2026-03-31
 
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
 
 ---
 
-### [I made eight tweaks to increase my lifespan – I felt instantly happier and energised - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGRRV2pzOUQza1EteDhtZy1nLVJKUVdHWENXWHcwODNyOFlPMFZSLWxFVG9NbEUyeVhIZnREbkphc3h5TTl0SzE5ZFh4WHVLRjR2Y2VwQ0FvQlNLdVZudlI5WnlzNnVRNDdEWGhRWU9ubWRjcDR4dmdtLURHRno0bHk0TDBkWEJLSW9qT1h6ZW5qN3lJa0Fv?oc=5)
+### [OMS impulsa pruebas rápidas de tuberculosis para fortalecer el diagnóstico desde la atención primaria](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZmZyWnpFT1FkWEZJVG5vNlhLUHNEdmExY3d3aC13RFFiTVk5d1Bqa051SXBWQnFqS1hpVUJNZ21ONS1CNVhEdmo3ODFVcThjYnBOUlE2ZmNqdXAtV1dfTHJ6bGFMRkV0S3JwS0FQWkprUzRKSFZ5M3o0a0kzRWRCLVVxV0J6aC04cE9weEFJUFVYYWF3UUxpWkZJbUFLN3h5SlBlUTZvR1Y0V0c1Sl9nTXhwdXJDRG9TS09MNVVTRHhueFpfcjRpWWpuVm9VaWtCYTYtSzd0dWxkMjFvdjd4a1dtUQ?oc=5)
 
 2026-03-31
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGRRV2pzOUQza1EteDhtZy1nLVJKUVdHWENXWHcwODNyOFlPMFZSLWxFVG9NbEUyeVhIZnREbkphc3h5TTl0SzE5ZFh4WHVLRjR2Y2VwQ0FvQlNLdVZudlI5WnlzNnVRNDdEWGhRWU9ubWRjcDR4dmdtLURHRno0bHk0TDBkWEJLSW9qT1h6ZW5qN3lJa0Fv?oc=5)
+來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZmZyWnpFT1FkWEZJVG5vNlhLUHNEdmExY3d3aC13RFFiTVk5d1Bqa051SXBWQnFqS1hpVUJNZ21ONS1CNVhEdmo3ODFVcThjYnBOUlE2ZmNqdXAtV1dfTHJ6bGFMRkV0S3JwS0FQWkprUzRKSFZ5M3o0a0kzRWRCLVVxV0J6aC04cE9weEFJUFVYYWF3UUxpWkZJbUFLN3h5SlBlUTZvR1Y0V0c1Sl9nTXhwdXJDRG9TS09MNVVTRHhueFpfcjRpWWpuVm9VaWtCYTYtSzd0dWxkMjFvdjd4a1dtUQ?oc=5)
+
+---
+
+### [À 26 ans, elle ignore ces signaux…, le cancer s’est déjà propagé - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
+
+2026-03-31
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGhWR0Jya1ZFY1Uwc2F5VzhBaVh6Z1VqbEJzNjhjMTktRWJnZFVfSFdjemZSVnliZG93SDd1Y0tObVRUX3NuSmN3NzBBVE5uLTJwbWc1bmxSaGVnaVZMbHRpNXBtc1lMaDdiMEtsTlQyUVg0RzVQQ2pRaUdDREM0SVM3QmwwOE5VN1hNZzhhQzRTWVBkT1RBM3ZTMk5HV1E0cFdJUUFkU0dKeTYxOXQ1cnFiRXFQaUNyUzVMblNxYmUyeDA?oc=5)
+
+---
+
+### [MSF queremos comprar un medicamento revolucionario contra el VIH ¿Por qué Gilead no lo vende? - Médicos Sin Fronteras](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHVPWndfUGFxODJ6VTNlUUJXVjBlY1FzTnJXV1d6ZGEya1Vfb2lnUWpJbktvX2d5aExmSnN0OGpjbDZOUlA2cEVUZjN0WGE3RWx3XzViT2ZYUzBweHQ2ckF1ajlvb1RPVG1kTlhqeDlVeFhRa1dDeHE2U2EtbmxDYmZvdUF1N3VSR3l0a3B2YTQ3SDNmQUZLanNXX1dDdmxJdjBF?oc=5)
+
+2026-03-31
+
+來源：[Médicos Sin Fronteras](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHVPWndfUGFxODJ6VTNlUUJXVjBlY1FzTnJXV1d6ZGEya1Vfb2lnUWpJbktvX2d5aExmSnN0OGpjbDZOUlA2cEVUZjN0WGE3RWx3XzViT2ZYUzBweHQ2ckF1ajlvb1RPVG1kTlhqeDlVeFhRa1dDeHE2U2EtbmxDYmZvdUF1N3VSR3l0a3B2YTQ3SDNmQUZLanNXX1dDdmxJdjBF?oc=5)
 
 ---
 

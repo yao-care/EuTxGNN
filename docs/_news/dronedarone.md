@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,63 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（21 則）
+
+### [Estudian el cerebro y descubren el 'interruptor' que hace que te pique la piel cuando estás estresado - National Geographic España](https://news.google.com/rss/articles/CBMinwFBVV95cUxORVFLZ2lMbkVnSGVMNmpxeHRGZURaS0VZYWZNbmNySDkxQ3BFR0VfVlZGcjhSdFd6ZXVRVnluOEl6WEZCUDVhd1I1NmtKVm1SeEJyZHVOMUo4WE5qckcxNjJtVEZxU21XZmNHd04wdlNlWjFxUEFvRnpCbVlIemdkVXRsNTE4ckJmS0h4ai0zRWkzS0tTdndYU0x5ZExRZ1k?oc=5)
+
+2026-04-02 <span class="news-indication-tag">AF</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMinwFBVV95cUxORVFLZ2lMbkVnSGVMNmpxeHRGZURaS0VZYWZNbmNySDkxQ3BFR0VfVlZGcjhSdFd6ZXVRVnluOEl6WEZCUDVhd1I1NmtKVm1SeEJyZHVOMUo4WE5qckcxNjJtVEZxU21XZmNHd04wdlNlWjFxUEFvRnpCbVlIemdkVXRsNTE4ckJmS0h4ai0zRWkzS0tTdndYU0x5ZExRZ1k?oc=5)
+
+---
+
+### [Mini cambios en el sueño, la dieta y el ejercicio pueden reducir el riesgo de infarto: el secreto está en combinarlos - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTG5ZeFpkNnM2UG5hYk84Q1ptSV9aS0o0WmpQcF9SbFpTczlRN3Z6V0ZSYUFPTW9Na1B4MHNCdGlIMUNlV1FRTHRGUnh0ZmFlSjJGcFREMHRrSTlDeDRIT3VKR0d3MGgyTWVPSjVKX0ZaSWc4RXVZMlUwQTlTX3pUSl9rY3Bod3lrSW1CaTUwZTVweHVZMHJUelV4UmZMMWVNTFpYeXhxd3lCZ0NmbE5wZTROWmNvbVJfN2xXbmxZY3VOTkg0ZFRjUWxrWVZDNVZKMFN3YkRnUHl6a1puRXFYZXVUNlhOcG9xUFRLWkxYbXNaUkXSAfgBQVVfeXFMTTFDU0JKT0lmLUV6cUJzYTdpZHpJYjk3YVA5eDhIUEt3UWNybEd6WTV2azg1YVhfTDlNWTd0WFAxWE9lT2Fpc3RzV1lab0xoQ3FVc2ZmeWs0QkVTbHNOdEFDRUptNm1FVFpIRGxTeExiRXRZS0hqWG5FWS1wYV9wS2p4OS1aTVR2M0VNVzJiOUJqUE41bjVXb0hmVkdhcHFpcUF2VGpObkU3RHRJazVZOGRoYUZMNm50SHhMRmpoLXg4cGtJbTdFQmVzY1VhR3BmUWRIZ0tYMnFkZU5EX01oSXJGOTk3WjRiTjNXYnJ6dERLRXRmS204Nlg?oc=5)
+
+2026-04-02 <span class="news-indication-tag">ictus</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTG5ZeFpkNnM2UG5hYk84Q1ptSV9aS0o0WmpQcF9SbFpTczlRN3Z6V0ZSYUFPTW9Na1B4MHNCdGlIMUNlV1FRTHRGUnh0ZmFlSjJGcFREMHRrSTlDeDRIT3VKR0d3MGgyTWVPSjVKX0ZaSWc4RXVZMlUwQTlTX3pUSl9rY3Bod3lrSW1CaTUwZTVweHVZMHJUelV4UmZMMWVNTFpYeXhxd3lCZ0NmbE5wZTROWmNvbVJfN2xXbmxZY3VOTkg0ZFRjUWxrWVZDNVZKMFN3YkRnUHl6a1puRXFYZXVUNlhOcG9xUFRLWkxYbXNaUkXSAfgBQVVfeXFMTTFDU0JKT0lmLUV6cUJzYTdpZHpJYjk3YVA5eDhIUEt3UWNybEd6WTV2azg1YVhfTDlNWTd0WFAxWE9lT2Fpc3RzV1lab0xoQ3FVc2ZmeWs0QkVTbHNOdEFDRUptNm1FVFpIRGxTeExiRXRZS0hqWG5FWS1wYV9wS2p4OS1aTVR2M0VNVzJiOUJqUE41bjVXb0hmVkdhcHFpcUF2VGpObkU3RHRJazVZOGRoYUZMNm50SHhMRmpoLXg4cGtJbTdFQmVzY1VhR3BmUWRIZ0tYMnFkZU5EX01oSXJGOTk3WjRiTjNXYnJ6dERLRXRmS204Nlg?oc=5)
+
+---
+
+### [Father demands inquiry after two-year wait for care](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LWjBfQkZCbFNtREVSTGNJdEpLVWdTbFpsZEd4NU5HUXY1SmN3b3p6S1h3TUo3TUxkQVdKUkxsUE9GdVVMVHdxcnVJTG9UQVF4b1JGRmlfanF3Z3lJ?oc=5)
+
+2026-04-02 <span class="news-indication-tag">AF</span>
+
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LWjBfQkZCbFNtREVSTGNJdEpLVWdTbFpsZEd4NU5HUXY1SmN3b3p6S1h3TUo3TUxkQVdKUkxsUE9GdVVMVHdxcnVJTG9UQVF4b1JGRmlfanF3Z3lJ?oc=5)
+
+---
+
+### [Schlafprobleme? Diese simple Routine hat laut Forschern den größten Einfluss auf Ihre Schlafqualität](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd2VrVHVUVXVKT3NCVWNraDduTDIxLUR3aE5NczFXcHFDeHdWS0FzRWNFWEJhS0NRdU1qX3k1TWZla2FzYVJoSnNCR24wc09GQWZrZEt5SDJySlRnR2hyNWhoWG9fX2dhN1J1Q1VPLWswUzR1UmtNTWg1c1ptWWZIWTlIREpwOVdRYk51MVNkMlVRcVhLdWg4X0NCYzM4RXJtYWd2N004UEE0RnpaVlpGbzRMWUZSYWpROTNNSVRROUs1c2Ztby1yS20zZFNmWHY2TzRhaWNmSGJ3cFpX?oc=5)
+
+2026-04-02 <span class="news-indication-tag">AF</span>
+
+來源：[fr.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd2VrVHVUVXVKT3NCVWNraDduTDIxLUR3aE5NczFXcHFDeHdWS0FzRWNFWEJhS0NRdU1qX3k1TWZla2FzYVJoSnNCR24wc09GQWZrZEt5SDJySlRnR2hyNWhoWG9fX2dhN1J1Q1VPLWswUzR1UmtNTWg1c1ptWWZIWTlIREpwOVdRYk51MVNkMlVRcVhLdWg4X0NCYzM4RXJtYWd2N004UEE0RnpaVlpGbzRMWUZSYWpROTNNSVRROUs1c2Ztby1yS20zZFNmWHY2TzRhaWNmSGJ3cFpX?oc=5)
+
+---
+
+### [CAR-Technologie bekämpft jetzt Alzheimer-Plaques - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0JlQXZTdGcwN0F4YndhUVZhX2YtSEZOR3dwbnRlU0ZsekpJZ1dBLVhMN0VKdUdidWVtWnpQU3NzbXVVNklFMkExYlB2dDNRYjdLTlJ3cFVueUFfNlk5dkJrVi1VSzRFYTVDT3c3ZG5kanEyYWx5TEpCbUQydHQxQ2JCekNlZWRjeDNVOVkwMFNIaFAzRWtVd1U5MkNmU2IyUVFqcmJOQ0tIcDVO?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0JlQXZTdGcwN0F4YndhUVZhX2YtSEZOR3dwbnRlU0ZsekpJZ1dBLVhMN0VKdUdidWVtWnpQU3NzbXVVNklFMkExYlB2dDNRYjdLTlJ3cFVueUFfNlk5dkJrVi1VSzRFYTVDT3c3ZG5kanEyYWx5TEpCbUQydHQxQ2JCekNlZWRjeDNVOVkwMFNIaFAzRWtVd1U5MkNmU2IyUVFqcmJOQ0tIcDVO?oc=5)
+
+---
+
+### [«Perché le allergie sono sempre più diffuse e a cosa serve il vaccino» - Giornale di Brescia](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZjEwODlQUkxrX2NtQV9RUmFmczMyNVlwR0puUWdkNXNtU2kzWWNQbkVoU2JwTDlXdGVUbHZaeDk0S01ZVVJMWGI2OTQ0M28ydFJjRDlqeHFjMUE4WFNKbnFXYXZEWmxtLXhhZjJrTVZrQTU3b1g5SHA3ZnVBeDNOdnZiblhSN1Rpb0FmMk96R2lHSmVCVG56U2k1cWQ4WFE?oc=5)
+
+2026-04-02 <span class="news-indication-tag">AF</span>
+
+來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZjEwODlQUkxrX2NtQV9RUmFmczMyNVlwR0puUWdkNXNtU2kzWWNQbkVoU2JwTDlXdGVUbHZaeDk0S01ZVVJMWGI2OTQ0M28ydFJjRDlqeHFjMUE4WFNKbnFXYXZEWmxtLXhhZjJrTVZrQTU3b1g5SHA3ZnVBeDNOdnZiblhSN1Rpb0FmMk96R2lHSmVCVG56U2k1cWQ4WFE?oc=5)
+
+---
+
+### [Alberto Mantovani: “Il virus fai da te, oggi persino un ragazzo può creare un’arma letale” - la Repubblica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd050X2czdXZyZGZ1VEN5M09YSG93UXdSdWcza1lseXZYVGNxcnNyQnFFZjVKQUZBM1ZCVndaT0dubmpFLTZSUTZuRW43a2N2cDZSeUpGOEdUb1lFaTVRMjhoVXRqSUIzQ0tqWEVzby1JNHExMGd1bDFEN04wZlpNWl8yNk50cGowZ09nRDNab01XR3Z6YVJaeWY1Zm5YQWltVTRfVnJXZ1ZKQzhpUkl4SDZXYWViNjZX0gG-AUFVX3lxTE9aTkItenNXOXFEMGh4ZjhlYmxCSDNkYmpDd1lyQ2xXd0NPRUlOU2pTV1BSUERhWHZjalZGYXBEUkNHdXk3THVXUlp6VnFRZjVkMGJFWkF1OEJCQkZsNks1N1ZyR0p3WUJKcjdVamRRaDR0SmlfR0NxYUxZUVRKTDFQQWNGWUhaWHRocFVxZWxpamVYenRtVTRmWFNSd1RTSFJSSWstTHU4S0tFMkdWRnowQjl0Y2dJeF9ibjE5OFE?oc=5)
+
+2026-04-01 <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd050X2czdXZyZGZ1VEN5M09YSG93UXdSdWcza1lseXZYVGNxcnNyQnFFZjVKQUZBM1ZCVndaT0dubmpFLTZSUTZuRW43a2N2cDZSeUpGOEdUb1lFaTVRMjhoVXRqSUIzQ0tqWEVzby1JNHExMGd1bDFEN04wZlpNWl8yNk50cGowZ09nRDNab01XR3Z6YVJaeWY1Zm5YQWltVTRfVnJXZ1ZKQzhpUkl4SDZXYWViNjZX0gG-AUFVX3lxTE9aTkItenNXOXFEMGh4ZjhlYmxCSDNkYmpDd1lyQ2xXd0NPRUlOU2pTV1BSUERhWHZjalZGYXBEUkNHdXk3THVXUlp6VnFRZjVkMGJFWkF1OEJCQkZsNks1N1ZyR0p3WUJKcjdVamRRaDR0SmlfR0NxYUxZUVRKTDFQQWNGWUhaWHRocFVxZWxpamVYenRtVTRmWFNSd1RTSFJSSWstTHU4S0tFMkdWRnowQjl0Y2dJeF9ibjE5OFE?oc=5)
+
+---
 
 ### [Wie Krafttraining das biologische Gehirnalter verlangsamt - it boltwise](https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVA2ZzVrcGZnM1V2Y0EzVUdqNHRpMVpIM2hWMFJjNW1Cem02Mmt2cndrRm9DcmF0VE1fYnE2T0tkRnJUaVZSSFEyWnk4cWhQSGR4SUx0eHM0RnFaVldraDFNS3dUWDZNWmJvVkNzSWl2aW5JYjd0dDNOaWhqb2ZQdVI3VURTc1hPWHZyOXFuMlpybTg?oc=5)
 
@@ -52,11 +108,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Neuer Ansatz zur Alzheimer-Behandlung: Epigenetische Therapie zeigt Erfolge bei Mäusen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NfYnRDVUFiY2M0bnpOX3NfcUM4NjZNWjQ0UEZZaGMwcTdRaDE4TnQxNjVsOFpJdzJPRjVFWHdaWGJrU3cySEMwcDVHaV9DRUdQX045MGxUS0RlZ0xVQzctOUdLazJpbFExTXVBYlRGWVFtUG00aXlRejFSTW12Rk9lZmNHY2hncHpFLVppWXFjWlJjSXlvbFFUU2Q1WjJPNUxyZmYwY0JvakxlcGZzMUF4RlBSbFZmWmc?oc=5)
+### [Buenos patrones de alimentación mantenidos en el tiempo: la fórmula de la buena salud - UDG TV](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRk9DOFRnRi1CdFYyNHBPMlRQV0YzcVJzVEczZWFtR2FwLXctb2o1STdLRUIxUlNLbjhJVmVvVDJrdHhGQklvaFc4LVcwcTVrc3lySjZERTlmTDF5V19QVVVDZnM4OVlmQ2FTSTdCNE1hX3pPS1hRZnNUM3RVSVNfU3VQb1FTWnFaX0VIcFhnWUpQWm8?oc=5)
 
-2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-01 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NfYnRDVUFiY2M0bnpOX3NfcUM4NjZNWjQ0UEZZaGMwcTdRaDE4TnQxNjVsOFpJdzJPRjVFWHdaWGJrU3cySEMwcDVHaV9DRUdQX045MGxUS0RlZ0xVQzctOUdLazJpbFExTXVBYlRGWVFtUG00aXlRejFSTW12Rk9lZmNHY2hncHpFLVppWXFjWlJjSXlvbFFUU2Q1WjJPNUxyZmYwY0JvakxlcGZzMUF4RlBSbFZmWmc?oc=5)
+來源：[UDG TV](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRk9DOFRnRi1CdFYyNHBPMlRQV0YzcVJzVEczZWFtR2FwLXctb2o1STdLRUIxUlNLbjhJVmVvVDJrdHhGQklvaFc4LVcwcTVrc3lySjZERTlmTDF5V19QVVVDZnM4OVlmQ2FTSTdCNE1hX3pPS1hRZnNUM3RVSVNfU3VQb1FTWnFaX0VIcFhnWUpQWm8?oc=5)
 
 ---
 
@@ -68,11 +124,27 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Grieving partner's poignant tribute to mum who died weeks after birth of son - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTZISlQtSHU1Z2RrWGZ4YmVFdmJ3UVc0bTU3bHBEclFZQWJYaFl1QXJ4aWNPVmJQenhaSC1WQ1IxbXJVTGRUaG9LUVZHTmdobGxkMlNNMWpWakFUUnJLM2xDaENOaUNRcEdad3h0UXN6OVpvTFJWWVdRZnBBVWJZWURKMGZBYTM3dC1XZG9tVlp5VGp5MFMwZDAxSk9OTnFBeEZoOURwc9IBrAFBVV95cUxQV2MtUWNyYTd0UnpMWmFkMW9MdGF4Sk9GTGJZcnZyY3k0YTdiNXF1ckNkMGZQdFFIZnZuV0dITVdRMEVBTDlRVlpYMUwwT3l1Yk1fT29zZXNhUFVNRExRSS1ULU5Pa3hOY2hibVlmb0o2R2ZJbzh2eG5XN2hMdGRLTWdXN2JyNEJxcE1wVUVJMXU3RTduWjlhSDNtMnlva3FTRlFLWGJ0MkxUa3RO?oc=5)
+### ['Don’t be embarrassed about bowel cancer, get help before it’s too late' - Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
+
+---
+
+### [Revelan el mapa 3D del clítoris y su red nerviosa, un hito para la cirugía femenina](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZXR0Ri13akxCcnJ4R2Fkdy1FTjRiNHRiMDB6Zi1PYmJGQXJldlE3bjBhT3dlWkxid2J6c1JSVkhDckFxQXI0M19Ebkw2b201VkxZXzZvRk00aHFEUG1FSXV1M3VRbFNHUnJoYUNtWVZkYWdyc3NpZ0xZZ2p3LWNQdDA3MktxSWloeGRfcWNWblBrNEFXWWlOQm9GcGFJZ2JWNS1xTzVwT2ozN3lBM3NaaGlyS1NYYXZNWG5QMnRPQ2kwcjFuZjFKUkNkR0Rla2hYMGI5Q3Z4YVFXX21hYnllejdQdlhmVkZLSE95MWZRWQ?oc=5)
 
 2026-04-01 <span class="news-indication-tag">AF</span>
 
-來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTTZISlQtSHU1Z2RrWGZ4YmVFdmJ3UVc0bTU3bHBEclFZQWJYaFl1QXJ4aWNPVmJQenhaSC1WQ1IxbXJVTGRUaG9LUVZHTmdobGxkMlNNMWpWakFUUnJLM2xDaENOaUNRcEdad3h0UXN6OVpvTFJWWVdRZnBBVWJZWURKMGZBYTM3dC1XZG9tVlp5VGp5MFMwZDAxSk9OTnFBeEZoOURwc9IBrAFBVV95cUxQV2MtUWNyYTd0UnpMWmFkMW9MdGF4Sk9GTGJZcnZyY3k0YTdiNXF1ckNkMGZQdFFIZnZuV0dITVdRMEVBTDlRVlpYMUwwT3l1Yk1fT29zZXNhUFVNRExRSS1ULU5Pa3hOY2hibVlmb0o2R2ZJbzh2eG5XN2hMdGRLTWdXN2JyNEJxcE1wVUVJMXU3RTduWjlhSDNtMnlva3FTRlFLWGJ0MkxUa3RO?oc=5)
+來源：[gacetadesalud.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZXR0Ri13akxCcnJ4R2Fkdy1FTjRiNHRiMDB6Zi1PYmJGQXJldlE3bjBhT3dlWkxid2J6c1JSVkhDckFxQXI0M19Ebkw2b201VkxZXzZvRk00aHFEUG1FSXV1M3VRbFNHUnJoYUNtWVZkYWdyc3NpZ0xZZ2p3LWNQdDA3MktxSWloeGRfcWNWblBrNEFXWWlOQm9GcGFJZ2JWNS1xTzVwT2ozN3lBM3NaaGlyS1NYYXZNWG5QMnRPQ2kwcjFuZjFKUkNkR0Rla2hYMGI5Q3Z4YVFXX21hYnllejdQdlhmVkZLSE95MWZRWQ?oc=5)
+
+---
+
+### [Ricongelano il tonno e finiscono in shock anafilattico, sindrome sgombroide per una coppia - Il Mattino](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTh4dE5FUWRjV0Jaak41Wk5MR0Z6VHpOdGswR29rM0RWWF9zMEFLUUktbHdUbURNMGFVVGhvak9KempjYTRNaGNSMk95WlBsRURqT1dGSmdGc2xsaGE4M0lULTJBVGdqMW5pSy04X3ZwcXpMc0NVS3hoT3VFUFVzSl9rR05lRkZCSDdwY255QlJwRlpObnZBNnJsaXc4QldHUnFkSGZzLTRseU8zWXpidEhwQdIBrgFBVV95cUxNOGhkUlU1dEh4cnVxTFV1MXA0SEsxWDJFN2dOS2p4cGNWREJRd2R0YlU4QV9uXy01eEcyU19abDVxM2Y0M1R5WFRCUkFlYzNCcWM1RUNZWjB6Q0RPS2Z6QkxTZklvZGJGbG5sOU1lR1NmSXphcTdQU1A3aXZuZkluZ3JkVDJ0NmVqTEU4NkZEOEtkNTBIdUc0RUIydExFNjRxTzNRUklpZl9nYUNPQkE?oc=5)
+
+2026-04-01 <span class="news-indication-tag">AF</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTh4dE5FUWRjV0Jaak41Wk5MR0Z6VHpOdGswR29rM0RWWF9zMEFLUUktbHdUbURNMGFVVGhvak9KempjYTRNaGNSMk95WlBsRURqT1dGSmdGc2xsaGE4M0lULTJBVGdqMW5pSy04X3ZwcXpMc0NVS3hoT3VFUFVzSl9rR05lRkZCSDdwY255QlJwRlpObnZBNnJsaXc4QldHUnFkSGZzLTRseU8zWXpidEhwQdIBrgFBVV95cUxNOGhkUlU1dEh4cnVxTFV1MXA0SEsxWDJFN2dOS2p4cGNWREJRd2R0YlU4QV9uXy01eEcyU19abDVxM2Y0M1R5WFRCUkFlYzNCcWM1RUNZWjB6Q0RPS2Z6QkxTZklvZGJGbG5sOU1lR1NmSXphcTdQU1A3aXZuZkluZ3JkVDJ0NmVqTEU4NkZEOEtkNTBIdUc0RUIydExFNjRxTzNRUklpZl9nYUNPQkE?oc=5)
 
 ---
 
@@ -84,11 +156,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [NHS to give fat jabs to 1.2m patients to stop heart attacks - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFpHa0NCZlROaThkd3gtM1FzMURNNXl1dkFST0RVdjhMVHdrOVRGdXNndnlSWnJiYmZRMkFZMWExeU1JYTJJNXA4LUlSMncwWkhrcWhmU3ZfQnJ0WnhyMDQyZmNLMDYzSDBNZlNaM2NrY0dwb2NsUkVqMDI1UmwtbU84RTd2R19oVkxUSU1PTkRSQ3NNcDBLUXdJVFVTVFJJ?oc=5)
+### [Enfermeras escolares enseñan a detectar un ictus a niños de la Alpujarra y de la costa - La Gaceta de Granada](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXpYVEN2Y0tncEwtcHg0cGJXV25xaDZMLUgyRlhZZG9hQ2RaSFUyWDBKcDNiVDBHbFhQV2dQeVpXbG1fenJwVEpwamNWV1pwWUg4RjBqbTlCeE90LUpYR2RQR0NiMDNpMHJ2aE9Ma1dvMjBqZHNhclJfbGJRZVNfV1hHMFg1V016NHVfNlUtU0luMlloNXNQSTdScnNfVkw4VjhoTmEtR1VnMzhDY2d1U3RtUkhES1U?oc=5)
 
-2026-04-01 <span class="news-indication-tag">stroke</span>
+2026-04-01 <span class="news-indication-tag">ictus</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFpHa0NCZlROaThkd3gtM1FzMURNNXl1dkFST0RVdjhMVHdrOVRGdXNndnlSWnJiYmZRMkFZMWExeU1JYTJJNXA4LUlSMncwWkhrcWhmU3ZfQnJ0WnhyMDQyZmNLMDYzSDBNZlNaM2NrY0dwb2NsUkVqMDI1UmwtbU84RTd2R19oVkxUSU1PTkRSQ3NNcDBLUXdJVFVTVFJJ?oc=5)
+來源：[La Gaceta de Granada](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXpYVEN2Y0tncEwtcHg0cGJXV25xaDZMLUgyRlhZZG9hQ2RaSFUyWDBKcDNiVDBHbFhQV2dQeVpXbG1fenJwVEpwamNWV1pwWUg4RjBqbTlCeE90LUpYR2RQR0NiMDNpMHJ2aE9Ma1dvMjBqZHNhclJfbGJRZVNfV1hHMFg1V016NHVfNlUtU0luMlloNXNQSTdScnNfVkw4VjhoTmEtR1VnMzhDY2d1U3RtUkhES1U?oc=5)
 
 ---
 
@@ -96,23 +168,7 @@ permalink: /news/dronedarone/
 
 2026-04-01 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORUF5RHdxbll0dG1oc0RYUWRST2NqN1MtcFBCd2dESGYyUHJUblFWdGE2ZVNLZ2UxQnNkQk5fUFBWSWVoWWNGNTBQMzI0WFhLaldJVkdmbGp5ZERa?oc=5)
-
----
-
-### [Dorking man becomes stem cell donor after transplant saves father](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
-
-2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaC1LeEZMNHdxNV9ma1ptU0VMQXFZYnpkMjNOYXFDZlotU1ZNNUI0NjFhQjJ5YlN5akF5Z2VXVlY2Q1JxemYxU2o2R29aRjRkZ1d5UTlLOUV4czd1?oc=5)
-
----
-
-### [Santé. Trois petits changements quotidiens pour baisser considérablement le risque de problèmes cardiaques - Le Progrès](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWVNHUjBQWHA1MWloUV9yOWR4UGNwX2pmRjZKVGFxNUdESl9qanVfODlIWTFzSUFBSnItaHRHU2l6QUExSG5fUzJNUHZtM1ZFLWdFUjZJc1lydW1qUWtnZE1QbEhnTlV6UlV0cUMtcFBNS2RUdjU0ZnlmZ2lmX3JFemxza0hWd3gtMzBub1RKOGxLSkxYbHlOVG9LYUZpTmlSa2FlSW95WlpTLWVxV3VUS1F2Vlo4a2tpb2JQdGVERW5EUDNqUTBuODFueFBDekZRNGFnckFrMy1oVU12dmR6VllKcXNaVlBM?oc=5)
-
-2026-04-01 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWVNHUjBQWHA1MWloUV9yOWR4UGNwX2pmRjZKVGFxNUdESl9qanVfODlIWTFzSUFBSnItaHRHU2l6QUExSG5fUzJNUHZtM1ZFLWdFUjZJc1lydW1qUWtnZE1QbEhnTlV6UlV0cUMtcFBNS2RUdjU0ZnlmZ2lmX3JFemxza0hWd3gtMzBub1RKOGxLSkxYbHlOVG9LYUZpTmlSa2FlSW95WlpTLWVxV3VUS1F2Vlo4a2tpb2JQdGVERW5EUDNqUTBuODFueFBDekZRNGFnckFrMy1oVU12dmR6VllKcXNaVlBM?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORUF5RHdxbll0dG1oc0RYUWRST2NqN1MtcFBCd2dESGYyUHJUblFWdGE2ZVNLZ2UxQnNkQk5fUFBWSWVoWWNGNTBQMzI0WFhLaldJVkdmbGp5ZERa?oc=5)
 
 ---
 
@@ -124,6 +180,22 @@ permalink: /news/dronedarone/
 
 ---
 
+### [Sida : comment un traitement révolutionnaire est déployé en Eswatini, le pays le plus touché au monde - Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMzhRU21JYjlMT3dkVVRjRVlvWm9ZSWZZSDZrYVZaTWREaTZpbEp6WlY4aXlXQzlFQy1DeWtZVWF3UkplekhxSkdoV25vaUl2RXc5WDhnZGwxMFJzU0hRUUtoRGIxZXVRaWdZbGNQTkNCQTdHaWtiSUZRR19OUElKc3Z2MnhRYVhmdGgzcTN1VmU0XzhUSlM5cU5UM3dqVnF1S2ZnYW1KVGRpTVNZVHJsT2dGeEdaMDVHRkg3RFBNeVB0bUtwaW4td205VW14QnFkQ2pkSlR1RDlnVmhhb29zMDV0VzBsaTRTSF9rV2RPV0dYVFNuS0JmSnEwM0ExVGw5WUJuMm5JSQ?oc=5)
+
+2026-04-01 <span class="news-indication-tag">AF</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMzhRU21JYjlMT3dkVVRjRVlvWm9ZSWZZSDZrYVZaTWREaTZpbEp6WlY4aXlXQzlFQy1DeWtZVWF3UkplekhxSkdoV25vaUl2RXc5WDhnZGwxMFJzU0hRUUtoRGIxZXVRaWdZbGNQTkNCQTdHaWtiSUZRR19OUElKc3Z2MnhRYVhmdGgzcTN1VmU0XzhUSlM5cU5UM3dqVnF1S2ZnYW1KVGRpTVNZVHJsT2dGeEdaMDVHRkg3RFBNeVB0bUtwaW4td205VW14QnFkQ2pkSlR1RDlnVmhhb29zMDV0VzBsaTRTSF9rV2RPV0dYVFNuS0JmSnEwM0ExVGw5WUJuMm5JSQ?oc=5)
+
+---
+
+### [Injectable peptides are touted online as a ‘glow up potion’. Here’s why experts warn against unapproved use | Antiviral - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
+
+2026-03-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWRaWkFoMnNNSnpBRW1FUU9lcHVlaXB6NXlybTNwaWxsdk1UanhsUkRrTTFscld4a1RFcUZZTWhzbW9lNXdUVThXdmU1S05vZEpKRFJQMGZsUEEwN1hTMmpFYnUySzBuNkE4MlRyNlZXeGktMS1pd18yZmRXS0NnUGpOUGJOT1VkaURRUnZQa0Ntb0RBblVKenh4WUJXOUstb1F3eUJOWUlsbzg?oc=5)
+
+---
+
 ### [Schlüsselprotein des Hörens entdeckt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVzQxNlB3WDlLRHFiS0lTTFBLdTVJMGo2WkpOSVlONWF4SGVodWUzeC0ybDVlS29HZnVqWjhoTlQwbXF0N2J3bjA1MA?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
@@ -132,19 +204,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Aumentan los casos de cáncer de colon en menores de 40: Experta enfatiza importancia de la colonoscopia](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeUFCVExJMlBRZHdNNDl4Vkpzbm1qaENrOXN3a29MRGZuWm9icm1uVHRSa2szZHVJZEV3OHhhTWhhOGVTR00tanZ4VWxqb0ZEUW9QYlhrX3F6ZjdQbDJ3czJpMFJJb2RjdzVJN2RmVnJmTmFWWWRpOUVpcXBZWk5xa3cwNTJrdi14d1EzUjROOFlKQ2p1bmwtYU8wWEUxc3Z5S2wzdWVPZU1JeExOVThEb2MxSkFLaVM2Q2hIdHItT3FpN0JYV01XZWlWRzJLejZVbHVSZmRFMk1FeHYxMjFhbF9LVW9HRjF4Uk1YeEE0dm0zQlUxQ0VseFNFNFQwQdIBgwJBVV95cUxNZF9Ma3VZVi03Q280TFBsVWI1bUJySHcxb0ZkN0owMWE3UnlEOGdlS1RaNVJGelBzeUpaS2FaRnhmMU5Jcnh1MXd1Z3pndG14emVIb2g2Zkp4YUQwNmtSb3VlUmhNTzBsN1ltUzFYdjRhb2p1aTl0OEkxc3pKSWFQSUNIWFJISEs4cWRtcWhESlFPSWhCaUhNa201NVZ3NlY4NDY3Uk8xS3o3NE1odF9UeFRZZ3RfSlBLampPVngzSkhFXzZsZ3dSWERhQTJfNFd4Sk1fQmNPVXA1M0Z6ZXljTG9hUThIdUk4UXdmT1VyUUtiVVJYN05iX1JNckczTl9vWUx3?oc=5)
+### [Tragedy as Stoke-on-Trent mum, 32, died three weeks after giving birth - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
 
 2026-03-31 <span class="news-indication-tag">AF</span>
 
-來源：[medicinaysaludpublica.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeUFCVExJMlBRZHdNNDl4Vkpzbm1qaENrOXN3a29MRGZuWm9icm1uVHRSa2szZHVJZEV3OHhhTWhhOGVTR00tanZ4VWxqb0ZEUW9QYlhrX3F6ZjdQbDJ3czJpMFJJb2RjdzVJN2RmVnJmTmFWWWRpOUVpcXBZWk5xa3cwNTJrdi14d1EzUjROOFlKQ2p1bmwtYU8wWEUxc3Z5S2wzdWVPZU1JeExOVThEb2MxSkFLaVM2Q2hIdHItT3FpN0JYV01XZWlWRzJLejZVbHVSZmRFMk1FeHYxMjFhbF9LVW9HRjF4Uk1YeEE0dm0zQlUxQ0VseFNFNFQwQdIBgwJBVV95cUxNZF9Ma3VZVi03Q280TFBsVWI1bUJySHcxb0ZkN0owMWE3UnlEOGdlS1RaNVJGelBzeUpaS2FaRnhmMU5Jcnh1MXd1Z3pndG14emVIb2g2Zkp4YUQwNmtSb3VlUmhNTzBsN1ltUzFYdjRhb2p1aTl0OEkxc3pKSWFQSUNIWFJISEs4cWRtcWhESlFPSWhCaUhNa201NVZ3NlY4NDY3Uk8xS3o3NE1odF9UeFRZZ3RfSlBLampPVngzSkhFXzZsZ3dSWERhQTJfNFd4Sk1fQmNPVXA1M0Z6ZXljTG9hUThIdUk4UXdmT1VyUUtiVVJYN05iX1JNckczTl9vWUx3?oc=5)
-
----
-
-### [Vorhofflimmern: Katheterablation bleibt nach Schlaganfall ohne Vorteile – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
-
-2026-03-31 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzM1OENRXzVHVlRodTdDNzdxLWNYVjZIZjJwOE1hLXBLSFpITGN0NXlheEJPc3N0NlAtdHV2VDlOZm5WaVFfZzlpcmtQUUk2cE9LRzF5RDdselNsZURoNW5ZLTBUYU5paWcwOVQzR1N4eG5XakxNOVNxRlFhZXhOU1RNcjl6VnAxS2R1ZDAzVXBuVXRmNVBWcHprc1F5MXJza2pocWVDNWdQbnFORy1yd2RiLW5McDVEV19nZzcyemwxYnUxR3VyN0VfSkVmN01yQk9rZWVB?oc=5)
+來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllpOFNjemVaakNrS1RKNmFJdExqcGxwMWZXLU1uY3dSekhIMXNnZEF3a3ppTjFOQ0diZWJ0SzB3b3VGZlpIUHVoWDE4MGI2N21TOXNHalhWUzV1NklEMzB0R1RLRklXdnRvdkFhaXpOX2lkYkhfVS10eTdiSnRIS2ZKNFh6SVFicFpQa1BnWHNPUV9mcXlj?oc=5)
 
 ---
 

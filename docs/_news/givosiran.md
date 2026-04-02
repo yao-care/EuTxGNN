@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Bluthochdruck in jungen Jahren rächt sich im mittleren Alter – also viel früher Medikamente nehmen?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
+
+2026-04-02 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1FycHg5blQ4UDZxRDhEOGw3Q1h2VGZZS08yZ0tCREs5alhIUHhFY2NGbHVoZ1JzajB3M19VN2l4VjFfZTNYRERLZXdVMFJmNS1Jb2tLcWI4b24tX1djbHotbk11RmY4bUlTMWRZSDFjSUhlRzhyOTFRWjNHazNYVXkwU0xlajUtczJzcWZjdGFqN1JFblMzbGVOUGkzWjlpV2NNbGlxbTVWRmgxZXFn?oc=5)
+
+---
 
 ### [ECIM 2026 - 24th European Congress of Internal Medicine - 25. bis 28. März Heilung der chronischen Hepatitis B in Sicht - Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
 
 2026-04-02 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
+
+---
+
+### [Neapel: Hepatitis A grassiert – Verbot für rohe Meeresfrüchte](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXRxQXlkTGRoY1hEaDluX3h2emFrM2tGek1qY25CZVJKbEFIR2VWUE11TzNhdi1PSHYzeUV2Yl9Dck50N3dnZWZlXzlzSWludnhCXzkzLVlzd2hSYWFVWVR2Q2VPSXFINm9vQTRBUDFlQ21QQUpUdHpUTm5ISXFmTTd6WUplVW1hTVhWNjU1NWVmT2VsNEJBQm1PVHA5UkQ0MEVpQ1J1RV9kM0Q1SXliSw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">hepatitis</span>
+
+來源：[inFranken.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXRxQXlkTGRoY1hEaDluX3h2emFrM2tGek1qY25CZVJKbEFIR2VWUE11TzNhdi1PSHYzeUV2Yl9Dck50N3dnZWZlXzlzSWludnhCXzkzLVlzd2hSYWFVWVR2Q2VPSXFINm9vQTRBUDFlQ21QQUpUdHpUTm5ISXFmTTd6WUplVW1hTVhWNjU1NWVmT2VsNEJBQm1PVHA5UkQ0MEVpQ1J1RV9kM0Q1SXliSw?oc=5)
 
 ---
 
@@ -68,11 +84,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+### [Epatite A, non solo cozze crude: 1.800 casi in Italia legati ai frutti di bosco surgelati nel 2013-15 - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
 
 2026-04-01 <span class="news-indication-tag">epatite</span>
 
-來源：[ilfattoalimentare.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
+來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNENsWTBZa1JXczB3a1RGaW9lY2x0YXBBU2xYREtuS1ZkekJ2VDlKdWpENm16Z1d0aVM3SnFBU0ExTmUtTW1LbUgtZlo1OXQ3bEM0SW5IeXNjQllDdldNN0I2cWw3Um1sTGZ2Rk1SRGd0SUhNVkM5dXJJSWxocFNvZW1xV3hqZnFub2ZlVl8zVE5FTjJONGlfekxFeG5WaHEyZXJvbVdudGRtWlBfNTNET0RmbGhSenZVOWsyOG9leElsY1hkY0JVR094Mmprdw?oc=5)
 
 ---
 
@@ -81,14 +97,6 @@ permalink: /news/givosiran/
 2026-03-31 <span class="news-indication-tag">hépatite</span>
 
 來源：[20 Minuten](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmRkY204RlhMWlFkWG15TGNJT3gzblJzSUJtVDM1MkQyek9wUVRUcUNHRDNRNGVVOEpsTUhQeTlpaWVSVWE5NjJfNlV5VXoteHZEYXhCNzlxTXBhRlY0TWNUMzhYZE9yZXlHY3U2QlIyME02bXhxWU1DTU54TXhjYUVLcDdoV2h0cjJkV0Jwcmp2TXJoc29LVw?oc=5)
-
----
-
-### [Fallece el anestesista Juan Maeso, condenado en 2007 por el contagio masivo de hepatitis C](https://news.google.com/rss/articles/CBMigAJBVV95cUxNWmR1eXduc3RPbTZUVEVYZkNCWldOcmYweUxqUkwxX2k2WWhJZXRyZ0gxMjNBRXZIZTBPOVhybU5JaUlwTDB5UTVlV25mZUowSDMyQTMyNHVqSVFhUUI3R3hrUlBkNV9tTGtucTNaZDhhdl9ZX3lENlYtMDhHQVBrMDY1ZXZQOUpTQnhVMHU3Q200ZnNCdUFIYkZiVks3ZjVFQmU5dW91aG5YdGdnVTAtOHI3bmFoeEJOVVppTW5GOHRFVWJKM2EzLW9hQVJ3UWJRaXM5N1czdkg5VG9KVEVZTDFLM0ZaS25lTnpFbV9XXzNtSlN0T2Z5Q0Ria28zMEFf0gGAAkFVX3lxTE1aZHV5d25zdE9tNlRURVhmQ0JaV05yZjB5TGpSTDFfaTZZaElldHJnSDEyM0FFdkhlME85WHJtTklpSXBMMHlRNWVXbmZlSjBIMzJBMzI0dWpJUWFRQjdHeGtSUGQ1X21Ma25xM1pkOGF2X1lfeUQ2Vi0wOEdBUGswNjVldlA5SlNCeFUwdTdDbTRmc0J1QUhiRmJWSzdmNUVCZTl1b3Voblh0Z2dVMC04cjduYWh4Qk5VWmlNbkY4dEVVYkozYTMtb2FBUndRYlFpczk3VzN2SDlUb0pURVlMMUszRlpLbmVOekVtX1dfM21KU3RPZnlDRGJrbzMwQV8?oc=5)
-
-2026-03-31 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Telemadrid](https://news.google.com/rss/articles/CBMigAJBVV95cUxNWmR1eXduc3RPbTZUVEVYZkNCWldOcmYweUxqUkwxX2k2WWhJZXRyZ0gxMjNBRXZIZTBPOVhybU5JaUlwTDB5UTVlV25mZUowSDMyQTMyNHVqSVFhUUI3R3hrUlBkNV9tTGtucTNaZDhhdl9ZX3lENlYtMDhHQVBrMDY1ZXZQOUpTQnhVMHU3Q200ZnNCdUFIYkZiVks3ZjVFQmU5dW91aG5YdGdnVTAtOHI3bmFoeEJOVVppTW5GOHRFVWJKM2EzLW9hQVJ3UWJRaXM5N1czdkg5VG9KVEVZTDFLM0ZaS25lTnpFbV9XXzNtSlN0T2Z5Q0Ria28zMEFf0gGAAkFVX3lxTE1aZHV5d25zdE9tNlRURVhmQ0JaV05yZjB5TGpSTDFfaTZZaElldHJnSDEyM0FFdkhlME85WHJtTklpSXBMMHlRNWVXbmZlSjBIMzJBMzI0dWpJUWFRQjdHeGtSUGQ1X21Ma25xM1pkOGF2X1lfeUQ2Vi0wOEdBUGswNjVldlA5SlNCeFUwdTdDbTRmc0J1QUhiRmJWSzdmNUVCZTl1b3Voblh0Z2dVMC04cjduYWh4Qk5VWmlNbkY4dEVVYkozYTMtb2FBUndRYlFpczk3VzN2SDlUb0pURVlMMUszRlpLbmVOekVtX1dfM21KU3RPZnlDRGJrbzMwQV8?oc=5)
 
 ---
 
