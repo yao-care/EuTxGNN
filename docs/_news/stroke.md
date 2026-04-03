@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Schlaganfall: Die kritische Phase beginnt sofort](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVpmOXR1X0x1bXF3SDBNVHpXQ1JqZGNtbHAyU1M3SlhMLXY0NTB5NGZJZEgxbHBuYlRzOE9aR083OThpcXpJMmMtMTF5WDRZTFdINEFpQ3A1Njhzc2FnWE5IYnJzUTU3WG05U042YzREZU9nYWM2YmowTjA2MWwwVVRGcFJSeXc5NVJnX2d6ZHc?oc=5)
+
+2026-04-02
+
+來源：[zeit.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVpmOXR1X0x1bXF3SDBNVHpXQ1JqZGNtbHAyU1M3SlhMLXY0NTB5NGZJZEgxbHBuYlRzOE9aR083OThpcXpJMmMtMTF5WDRZTFdINEFpQ3A1Njhzc2FnWE5IYnJzUTU3WG05U042YzREZU9nYWM2YmowTjA2MWwwVVRGcFJSeXc5NVJnX2d6ZHc?oc=5)
+
+---
 
 ### [Cuore: in arrivo nuova terapia che riduce i rischi legati al colesterolo cattivo](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0tvTGdORWgwMTMtVXhjcGl5SDUyUnhEU2I2bVJFZVhpN2wwQnBjRUk5OHhUNlB4ZGxMZ19EVWMwaFREeExwYkM1eExTT3BpS05VWUxaUUZOVjFZSzNXeG95Nm1ZZE5sbmM3c3BHZFFOV0liWkZZVjJ4cXN3T3psc0gyUWVKS3JsUHM5dlg4MVZ0Q1p3dXJsYTZtV1hwNHlheEpxczhTX3M5Yk4yTlRxM2RR?oc=5)
 
@@ -49,19 +57,11 @@ permalink: /news/stroke/
 
 ---
 
-### [La dieta del aguacate y mango, la mezcla que puede evitar un infarto o un ictus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjBHNGFaLS0yU3k2NGloTzZzSElHLUdNdXV4TVJMMXhWRWpaeEFoU0JsVmZCQ295THJ0RFpsZnpJekxaeGVmTGtMTUxXVmJQU0NXU0lfX2lTcjdid2VfVlhCU1RsTEhUSHA5TUtxR3BPR0dQNUkwRDdCa0hSUUM2SWVHTmFhd0YwMEVCR1RocWs1aWZEUXV2dFJfa0d0bmFmSzdIcTEwNFdEVzV6Z1o2UllMakg3LU5ZeE1IWkhhMDBJWERPcHJnMVJNOU5tVEt1LUdiWkVqb0jSAd4BQVVfeXFMUDg2MU1RcjhtWlhsaE5VcmZoUXdtNVg2ekNScUZRdGlTQTNlTW9JUnBYUllRaVFXLV9EcVRtSWtJbEVTZ2d2TWxDdmo1V3RxVUlfYy1iRWlTSGdsaTVkME5GcHpXQ1BUc0wwY1ZXVUxVenoyTllrQWN3Y1Fza1pGMjh0Zlp4cGlSQU40bGQtWGJPUVpzbktTVGZvVVY3ZFVxbFJwZnNZZl9rSEMzbE9hWWhIZ29nZ0ZLVjY5RXpObFpsdDFfS2dWdGVGUkhZUmhSVEQ5cFo4QmV6MmVIRVpR?oc=5)
-
-2026-04-02
-
-來源：[eldebate.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZjBHNGFaLS0yU3k2NGloTzZzSElHLUdNdXV4TVJMMXhWRWpaeEFoU0JsVmZCQ295THJ0RFpsZnpJekxaeGVmTGtMTUxXVmJQU0NXU0lfX2lTcjdid2VfVlhCU1RsTEhUSHA5TUtxR3BPR0dQNUkwRDdCa0hSUUM2SWVHTmFhd0YwMEVCR1RocWs1aWZEUXV2dFJfa0d0bmFmSzdIcTEwNFdEVzV6Z1o2UllMakg3LU5ZeE1IWkhhMDBJWERPcHJnMVJNOU5tVEt1LUdiWkVqb0jSAd4BQVVfeXFMUDg2MU1RcjhtWlhsaE5VcmZoUXdtNVg2ekNScUZRdGlTQTNlTW9JUnBYUllRaVFXLV9EcVRtSWtJbEVTZ2d2TWxDdmo1V3RxVUlfYy1iRWlTSGdsaTVkME5GcHpXQ1BUc0wwY1ZXVUxVenoyTllrQWN3Y1Fza1pGMjh0Zlp4cGlSQU40bGQtWGJPUVpzbktTVGZvVVY3ZFVxbFJwZnNZZl9rSEMzbE9hWWhIZ29nZ0ZLVjY5RXpObFpsdDFfS2dWdGVGUkhZUmhSVEQ5cFo4QmV6MmVIRVpR?oc=5)
-
----
-
-### [Arrojan luz sobre el papel del bazo en la recuperación tras un ictus - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWRjYVgzVV9LN0lDLVJIQm5waUxSY0NEWFRKLWpRY1pqRjJZTWxjV1FrTEhORXJjRHpRS2pIWjZZSzQ2ZnBiS2RSZGVsVm1TYjVFZ0EzalYwcktXc3k2RzNOZ3B0QWY5aWNrbWdkendPWFdlYzJDREllS1hweWs2ajFabDFxWkhuYTk1dTc5MHNGZjdMcTJwZmZQbUowMHJwb0M3NENiNzVkeWVkeV84V2Rqa1dmUzF4TEM3MXBWd9IBtAFBVV95cUxOc1k1UmMzOFF1cXEzQXBkVFJsUVA2dWR3ZGZLNkcyTVJtMl9NbFMybTNabzRmZ1NvbGtlS2J3Q3g1Y1dMZmJiY0lCdVp5eU9tM0JFdjRyUnFVSGFIU1JiY0FqYXBOdmJJOFJuUmpydWVfTXBQMDNSVFVPX3d6T3ZNMWFRRV9pWmlFSEFYTjFKUmVzbFZlZDlHRnpfUGo3VzJsRDU0enFPNGsxV3hWbXZKdWIxcEY?oc=5)
+### [Arrojan luz sobre el papel del bazo en la recuperación tras un ictus](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWRjYVgzVV9LN0lDLVJIQm5waUxSY0NEWFRKLWpRY1pqRjJZTWxjV1FrTEhORXJjRHpRS2pIWjZZSzQ2ZnBiS2RSZGVsVm1TYjVFZ0EzalYwcktXc3k2RzNOZ3B0QWY5aWNrbWdkendPWFdlYzJDREllS1hweWs2ajFabDFxWkhuYTk1dTc5MHNGZjdMcTJwZmZQbUowMHJwb0M3NENiNzVkeWVkeV84V2Rqa1dmUzF4TEM3MXBWd9IBtAFBVV95cUxOc1k1UmMzOFF1cXEzQXBkVFJsUVA2dWR3ZGZLNkcyTVJtMl9NbFMybTNabzRmZ1NvbGtlS2J3Q3g1Y1dMZmJiY0lCdVp5eU9tM0JFdjRyUnFVSGFIU1JiY0FqYXBOdmJJOFJuUmpydWVfTXBQMDNSVFVPX3d6T3ZNMWFRRV9pWmlFSEFYTjFKUmVzbFZlZDlHRnpfUGo3VzJsRDU0enFPNGsxV3hWbXZKdWIxcEY?oc=5)
 
 2026-04-01
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWRjYVgzVV9LN0lDLVJIQm5waUxSY0NEWFRKLWpRY1pqRjJZTWxjV1FrTEhORXJjRHpRS2pIWjZZSzQ2ZnBiS2RSZGVsVm1TYjVFZ0EzalYwcktXc3k2RzNOZ3B0QWY5aWNrbWdkendPWFdlYzJDREllS1hweWs2ajFabDFxWkhuYTk1dTc5MHNGZjdMcTJwZmZQbUowMHJwb0M3NENiNzVkeWVkeV84V2Rqa1dmUzF4TEM3MXBWd9IBtAFBVV95cUxOc1k1UmMzOFF1cXEzQXBkVFJsUVA2dWR3ZGZLNkcyTVJtMl9NbFMybTNabzRmZ1NvbGtlS2J3Q3g1Y1dMZmJiY0lCdVp5eU9tM0JFdjRyUnFVSGFIU1JiY0FqYXBOdmJJOFJuUmpydWVfTXBQMDNSVFVPX3d6T3ZNMWFRRV9pWmlFSEFYTjFKUmVzbFZlZDlHRnpfUGo3VzJsRDU0enFPNGsxV3hWbXZKdWIxcEY?oc=5)
+來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWRjYVgzVV9LN0lDLVJIQm5waUxSY0NEWFRKLWpRY1pqRjJZTWxjV1FrTEhORXJjRHpRS2pIWjZZSzQ2ZnBiS2RSZGVsVm1TYjVFZ0EzalYwcktXc3k2RzNOZ3B0QWY5aWNrbWdkendPWFdlYzJDREllS1hweWs2ajFabDFxWkhuYTk1dTc5MHNGZjdMcTJwZmZQbUowMHJwb0M3NENiNzVkeWVkeV84V2Rqa1dmUzF4TEM3MXBWd9IBtAFBVV95cUxOc1k1UmMzOFF1cXEzQXBkVFJsUVA2dWR3ZGZLNkcyTVJtMl9NbFMybTNabzRmZ1NvbGtlS2J3Q3g1Y1dMZmJiY0lCdVp5eU9tM0JFdjRyUnFVSGFIU1JiY0FqYXBOdmJJOFJuUmpydWVfTXBQMDNSVFVPX3d6T3ZNMWFRRV9pWmlFSEFYTjFKUmVzbFZlZDlHRnpfUGo3VzJsRDU0enFPNGsxV3hWbXZKdWIxcEY?oc=5)
 
 ---
 
@@ -70,14 +70,6 @@ permalink: /news/stroke/
 2026-04-01
 
 來源：[La Gaceta de Granada](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXpYVEN2Y0tncEwtcHg0cGJXV25xaDZMLUgyRlhZZG9hQ2RaSFUyWDBKcDNiVDBHbFhQV2dQeVpXbG1fenJwVEpwamNWV1pwWUg4RjBqbTlCeE90LUpYR2RQR0NiMDNpMHJ2aE9Ma1dvMjBqZHNhclJfbGJRZVNfV1hHMFg1V016NHVfNlUtU0luMlloNXNQSTdScnNfVkw4VjhoTmEtR1VnMzhDY2d1U3RtUkhES1U?oc=5)
-
----
-
-### [NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
-
-2026-04-01
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV29oMk1pYkRBRjE1LTFQR1ZMRVN6ZkcyQm1BS3ZYWC1BVm83aW1nMUdSTGtzVXpDNTBWcTk3aEFYQkdxOTVVdVdyd2JiNkVUR0d4eEctZmpJNzlpdHJ2OUNIWmFvOHZlb3lGQXhiazFseUlzTjZOeFZ0QUphMFkwMnhuYUpUWWdYQkVCc0tGRGx3ZDk2TF9zX2praFFQd09QWlNCZ1RPR0RtXzhicWtvZExLRjhBb1RCRlc5T2I0Xzd2M1BVUDNjblJn?oc=5)
 
 ---
 

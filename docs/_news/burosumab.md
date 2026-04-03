@@ -14,7 +14,7 @@ permalink: /news/burosumab/
 ---
 
 <p class="key-answer" data-question="Burosumab 有什麼相關新聞？">
-<strong>Burosumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Burosumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/burosumab/
 <p><a href="{{ '/drugs/burosumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Los que hacen ejercicio por la mañana tienen un menor riesgo cardiometabólico que los que lo practican por la tarde - La Voz de Galicia](https://news.google.com/rss/articles/CBMikwJBVV95cUxOSTk4QUxFS1FQOC1tc0VzdDE0dkJiSmQ1WGdZMGNqRlZFb2RILTBwT2hIekdnUE82OUlWZXl2RlBXWU9BZVpRQTJUMDJrbDhEVVhKVEFPTnJkSFVSYjdqbzdNUkltTHJXYXBQTDBWZUxOLU12NlQyVFcwVDZ1QUU0T20tQ0k1azR2UkJpTmZWX2lqWnFCbFRrdzhXYXhPeV95ak9VSTZtUTJ0MjVvSFFVdWYzVmFSX1hHYkFIM05Bd0kxZDFVVEpBeVVnR01mSEJrbmpSOFdPd3FZd2RjYUVFYl8zNTFXYzZWWUhJUWRYZ0ZGMS12Tjc1WVFLa3czbnYya3czNHU3YnhrX2VFWjdFeG1uRdIBmAJBVV95cUxOQUtHZFg3QU9pOXZJalVMTkw4WURQa1lVMHMyTktpNUZiZWN3VXNwTDIycTRRb2Z6Q0F6TW9ENGNoOVlETGlMS0QyeUVNXzhqWHNnNUJKTVJXbjlOYjRGOHBUaFJvLUM3cHRmdkw0bWZpZmFVb016NU5SVFY4MjMySmVfTExSTEsxOW9mX0RQVFJoVDVtYjVQMlBYMGVBQWxzQTduVDJZTUtTbTVIa28tU3JFZnMySHlzbHFLYUZRMUlfUWZEclZPMGZGbGpHcHJkaTAyVWd0YkliTGVTX3BCV1FSZGhBN1VOYkRIV2VRT0VhTUF4X08tN0RNeGJJa2xtUk5EelFCenZES3Q3UEFtUXBsTVVmdlFU?oc=5)
+### [Japón marca las normas de la ciencia: avance histórico en el tratamiento de la diabetes con una solución oral](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNHdqR2dUaDFPMk5LTUhrUlp2c3IxZmtPQVRKdERxUHY3R05mVUk3bTVpVlFxSE5hOXpaRkgxa0xXblhuQXl6SUptOGpZMjBHZ1FxQURsS2JHaVNucXJsQnRmeld0MkVDQzJVNFo2RS1tZzFpR0JXc3VZOEZxd0ZvU3NvQnZodXczbF85TzJXenB2TXd3WERwWS1xWkRiX3o4dS1GNmVJeWJTQ3liSVczN3o5ZVZlZ2tfcElSTDJ5NmwyNzNPR0FnYkJMd09mUGsxQ0djZENjV2lEX0ktc20waVBtMnpYN2ZLTFNN0gHwAUFVX3lxTE5rZGR2ZWI4WFRwdFY0czZ1ak5hdnctM0w0WXc1Mm5uNk1mdEdJVzNmWjh3cVpCUm4yQTV1aGYxbmVnZEhGbmRlNWFLYmFCM1o5SzRHWlBfQWh3MXdvV2F5dl9sRkJQZjJBSEdGZTNlNER5VTZWS3ZtXy1qd0Q1eGVmQ1pVZTJRdXVLUkdIQmhxZ2pPWjhrY053Q1VRZUhUS3lPbFB5U2FWblJEcHN6ekZ3bEtEUlJncUJjOHFxZDBOT0prU3BkSWRwS0hYeTNJUWtfSFM2S3lNNWJHa0JhMnZTeGt0Rk5CdWtjN3lmcHY5cg?oc=5)
 
 2026-04-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMikwJBVV95cUxOSTk4QUxFS1FQOC1tc0VzdDE0dkJiSmQ1WGdZMGNqRlZFb2RILTBwT2hIekdnUE82OUlWZXl2RlBXWU9BZVpRQTJUMDJrbDhEVVhKVEFPTnJkSFVSYjdqbzdNUkltTHJXYXBQTDBWZUxOLU12NlQyVFcwVDZ1QUU0T20tQ0k1azR2UkJpTmZWX2lqWnFCbFRrdzhXYXhPeV95ak9VSTZtUTJ0MjVvSFFVdWYzVmFSX1hHYkFIM05Bd0kxZDFVVEpBeVVnR01mSEJrbmpSOFdPd3FZd2RjYUVFYl8zNTFXYzZWWUhJUWRYZ0ZGMS12Tjc1WVFLa3czbnYya3czNHU3YnhrX2VFWjdFeG1uRdIBmAJBVV95cUxOQUtHZFg3QU9pOXZJalVMTkw4WURQa1lVMHMyTktpNUZiZWN3VXNwTDIycTRRb2Z6Q0F6TW9ENGNoOVlETGlMS0QyeUVNXzhqWHNnNUJKTVJXbjlOYjRGOHBUaFJvLUM3cHRmdkw0bWZpZmFVb016NU5SVFY4MjMySmVfTExSTEsxOW9mX0RQVFJoVDVtYjVQMlBYMGVBQWxzQTduVDJZTUtTbTVIa28tU3JFZnMySHlzbHFLYUZRMUlfUWZEclZPMGZGbGpHcHJkaTAyVWd0YkliTGVTX3BCV1FSZGhBN1VOYkRIV2VRT0VhTUF4X08tN0RNeGJJa2xtUk5EelFCenZES3Q3UEFtUXBsTVVmdlFU?oc=5)
+來源：[Vandal](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNHdqR2dUaDFPMk5LTUhrUlp2c3IxZmtPQVRKdERxUHY3R05mVUk3bTVpVlFxSE5hOXpaRkgxa0xXblhuQXl6SUptOGpZMjBHZ1FxQURsS2JHaVNucXJsQnRmeld0MkVDQzJVNFo2RS1tZzFpR0JXc3VZOEZxd0ZvU3NvQnZodXczbF85TzJXenB2TXd3WERwWS1xWkRiX3o4dS1GNmVJeWJTQ3liSVczN3o5ZVZlZ2tfcElSTDJ5NmwyNzNPR0FnYkJMd09mUGsxQ0djZENjV2lEX0ktc20waVBtMnpYN2ZLTFNN0gHwAUFVX3lxTE5rZGR2ZWI4WFRwdFY0czZ1ak5hdnctM0w0WXc1Mm5uNk1mdEdJVzNmWjh3cVpCUm4yQTV1aGYxbmVnZEhGbmRlNWFLYmFCM1o5SzRHWlBfQWh3MXdvV2F5dl9sRkJQZjJBSEdGZTNlNER5VTZWS3ZtXy1qd0Q1eGVmQ1pVZTJRdXVLUkdIQmhxZ2pPWjhrY053Q1VRZUhUS3lPbFB5U2FWblJEcHN6ekZ3bEtEUlJncUJjOHFxZDBOT0prU3BkSWRwS0hYeTNJUWtfSFM2S3lNNWJHa0JhMnZTeGt0Rk5CdWtjN3lmcHY5cg?oc=5)
 
 ---
 
@@ -60,19 +60,19 @@ permalink: /news/burosumab/
 
 ---
 
-### [Scientists cured type 1 diabetes in mice by creating a blended immune system - Live Science](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEljajB3LXJZTTFfLXRMQm83VUhnNGRLQWhxT01BQ3hUR0l1Mjl2X1J3Uko2Vzk1dUstSzJzWWphWDJsWE56Q3hWOUtrSXN2Q0JWcEpfaFlid1FyeXJ4ajNoNld5ZmZDdDc1VjNoVnQtbkM2UGpycTlMNXFmTFJTdDZ2YXRHRHZfN2lBcVV2S0F5SkpGVlRLakVUVFJLSlloZGw2SW90bHQwR2xpNVEtNQ?oc=5)
-
-2026-04-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEljajB3LXJZTTFfLXRMQm83VUhnNGRLQWhxT01BQ3hUR0l1Mjl2X1J3Uko2Vzk1dUstSzJzWWphWDJsWE56Q3hWOUtrSXN2Q0JWcEpfaFlid1FyeXJ4ajNoNld5ZmZDdDc1VjNoVnQtbkM2UGpycTlMNXFmTFJTdDZ2YXRHRHZfN2lBcVV2S0F5SkpGVlRLakVUVFJLSlloZGw2SW90bHQwR2xpNVEtNQ?oc=5)
-
----
-
 ### [Diabetes: Grippeimpfung schützt das Herz!](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2NrNl9mTlZFOUdtbjFMMmpqNERzZzloa1JucnZpYmY5X0VPR0RIZ3B1YTAtaC1zVEJ2UmFNZm1yZHN6ZW5WbWdwOGVqOE85TmI4NlVxd1RWMVF6bkNTVXMyS0JJZ1gyeEVJcjE1SWNyRHNXaU5hMVlCZzl5dHdjQmR5SkNKNGlxZjdSelJzbWc2QVdybDN3bDdn?oc=5)
 
 2026-04-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2NrNl9mTlZFOUdtbjFMMmpqNERzZzloa1JucnZpYmY5X0VPR0RIZ3B1YTAtaC1zVEJ2UmFNZm1yZHN6ZW5WbWdwOGVqOE85TmI4NlVxd1RWMVF6bkNTVXMyS0JJZ1gyeEVJcjE1SWNyRHNXaU5hMVlCZzl5dHdjQmR5SkNKNGlxZjdSelJzbWc2QVdybDN3bDdn?oc=5)
+
+---
+
+### [Hyperparathyreoidismus: Operation kann vor Diabetes schützen](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWc5ZVFvZEplcjNfcnZZVDlKVFNUeGduUlpBRk9hVlNZTHlBSEVJWlk3cTZqeVdSOXpzT0xZbngxRVd2VW45cUxFSURScEJhd1BWWkFQNC1DUlc0dkhXQ25xUkhDT3JheFNZbzFMQ0M3b3hGVEJESENVekhpTlAxc3JUVGJRYlg4eTEwZkp5amFOa3BtSXVkUkUzQkM1S3hSdkgweEpYZGt1NUpWY1E?oc=5)
+
+2026-04-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWc5ZVFvZEplcjNfcnZZVDlKVFNUeGduUlpBRk9hVlNZTHlBSEVJWlk3cTZqeVdSOXpzT0xZbngxRVd2VW45cUxFSURScEJhd1BWWkFQNC1DUlc0dkhXQ25xUkhDT3JheFNZbzFMQ0M3b3hGVEJESENVekhpTlAxc3JUVGJRYlg4eTEwZkp5amFOa3BtSXVkUkUzQkM1S3hSdkgweEpYZGt1NUpWY1E?oc=5)
 
 ---
 
@@ -92,11 +92,11 @@ permalink: /news/burosumab/
 
 ---
 
-### [Finerenon vermindert Proteinurie auch bei Typ-1-Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEdhLUM3N090ay1ua2JqVUxmNFFPUE1MNDhhVWFIYzBJc3Qya2NlYkd2NlAyOWpiQnJvRmYyY0J2X0FsU0hXa19HMTlVLVY2U3pNUVJzTmlkRU1kU2hmRUJOc1FBNC1ZVUIxR3BNT2p3UmhvcmNsRllRV3lhMXFVZG9uSnlDQndDM2tQZGduRzB2bTA2Q0JMZHpzVERDX1NPVWMzT2xuV2YtaE5yYmJ2TWQ3UDBWRnVpLVR5SElYMWthTFU?oc=5)
+### [Eine Diabetesdiagnostik beim Zahnarzttermin ist sehr sinnvoll!](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
 
-2026-03-31 <span class="news-indication-tag">diabetes</span>
+2026-04-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEdhLUM3N090ay1ua2JqVUxmNFFPUE1MNDhhVWFIYzBJc3Qya2NlYkd2NlAyOWpiQnJvRmYyY0J2X0FsU0hXa19HMTlVLVY2U3pNUVJzTmlkRU1kU2hmRUJOc1FBNC1ZVUIxR3BNT2p3UmhvcmNsRllRV3lhMXFVZG9uSnlDQndDM2tQZGduRzB2bTA2Q0JMZHpzVERDX1NPVWMzT2xuV2YtaE5yYmJ2TWQ3UDBWRnVpLVR5SElYMWthTFU?oc=5)
+來源：[zm-online](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
 
 ---
 
@@ -105,14 +105,6 @@ permalink: /news/burosumab/
 2026-03-31 <span class="news-indication-tag">diabetic</span>
 
 來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDdYbjhuQUp2WkNzVmpIN3FyeEV3OWExZjJOQUJhN0dIdXl5NlFrdWtxMjBfN24tN0RQU1VRUlRKeUxqQUtTWnM4SlV4Z3B0cUlqWlhWMmJoblFJeHhBUXgyUFExQVNSRjdwRjdveWtILVQ5VXk2eDU1azF5ek1oczE4VExhSXBsS0FzS2dRTUNpb0VoRlFVeFVzSmNCdmEzWW9SWTRmbnVqbFFndTc4VFo4WQ?oc=5)
-
----
-
-### [At 45, I was told I was prediabetic – I reversed it with these simple rules - The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
-
-2026-03-29 <span class="news-indication-tag">diabetic</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlkaWZ2ZWxJdlZldnh0Rmh6UmYwbDJpQzJLZVF1WnVwcnRTdXhkdEdQNG9JV3BSTHNoQks5SWlWa0dzczlaR0QtS1o5QXhVcWxJUnFHTzN0cFFyX1pFeTV6NURrXy16TXVwOGV4X1I5dl9kb3JKOU9aQUZMcW1FODlpWGpDQV9IdlpNdVln?oc=5)
 
 ---
 

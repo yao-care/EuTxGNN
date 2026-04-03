@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tolcapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Study Links Poor Eyesight To Higher Dementia Risk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFZfQmlwTm5ReERXQlYwRUk5QVEzaXVlUlU0NGtHdWs4T21OdVhzb3NDM3R1TDFTVFdmaXd0LThSaWJ5OVQ0NDl0OE9iZl9uOVcyVFNQZjk5TS1OMGItaG5PYVhPSzJtamNrNjVPMjlKYmFqVHF4SWVRUEM5c0ZVR29kU3hPYVFDam1IbHZhUVBIQlIwRmVwX0FvUUlVNkROSnk5SnlUMWRXclEtWlNCTEZRUGNjUWZHYmFF?oc=5)
+
+2026-04-02 <span class="news-indication-tag">dementia</span>
+
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFZfQmlwTm5ReERXQlYwRUk5QVEzaXVlUlU0NGtHdWs4T21OdVhzb3NDM3R1TDFTVFdmaXd0LThSaWJ5OVQ0NDl0OE9iZl9uOVcyVFNQZjk5TS1OMGItaG5PYVhPSzJtamNrNjVPMjlKYmFqVHF4SWVRUEM5c0ZVR29kU3hPYVFDam1IbHZhUVBIQlIwRmVwX0FvUUlVNkROSnk5SnlUMWRXclEtWlNCTEZRUGNjUWZHYmFF?oc=5)
+
+---
 
 ### [‘I’ve lived with dementia for 15 years. It’s still possible to lead a fulfilling life’ - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDBwakJRanh0LVE4SGY3NHIxdHdSUmRJckpmcWJvSHpuZVlKTFhoOGt3MGdIbWNkTnlUZ3JheVl1NUdlQlBQTmJVVHhTeE9WVVpfQm04aXZNUmxUY1RXNzVUS0R3T05UZWdyUVd6ekpqVkYwUTUxV0JLNlFDZVV4SVN2dU1YOVNKdGpGdUphMk1xdEgzMDhZbV9RQm9xcUc2OUJzRw?oc=5)
 
@@ -65,22 +73,6 @@ permalink: /news/tolcapone/
 2026-04-01 <span class="news-indication-tag">dementia</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVhLa1JkMGN0NEJaYXd4VW9vSDQ4Z1hlNDJndFdlT1duc0pWWDl5eGk0Tm1Na1JMbHduVDczQzRwLTBXUm1EVGVjUlBiX3dwRGlDOXF2SzM5VWpyQVYzY01FaHdNd0lubklPem5hS3dXWE9hakpBVzVlQ09vTTFxWDFsZ3kxczFO?oc=5)
-
----
-
-### ['My husband got early dementia, now I'm a full-time carer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvckkzeG1pd00yY1VlUHFwejUwUU9aWUFSNkx2TzNKblh1dEh5bzNYc1hJQmp4ZHRwWFNHTVFKUmFOX3JDcHlxa3FTRWpieGpqWnJnWE1YNElNV21v?oc=5)
-
-2026-03-30 <span class="news-indication-tag">dementia</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvckkzeG1pd00yY1VlUHFwejUwUU9aWUFSNkx2TzNKblh1dEh5bzNYc1hJQmp4ZHRwWFNHTVFKUmFOX3JDcHlxa3FTRWpieGpqWnJnWE1YNElNV21v?oc=5)
-
----
-
-### [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
-
-2026-03-27 <span class="news-indication-tag">Parkinson's</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRm4xS3R0U3hpU0dZMWJWaUcwS2c4eFRxZm9EZmFYZzdJazRTVzU2WjlHZDRMSnpMMU1nU3h2LXcyeGpGb1FCRzloMUsxVHhjTW5DXy1NLVY0ZGEwSlVIMUpXeDdhVDliN0xqX0ZXbmFuTnUycG9TMGcyODNkSTFqR0swdlppU2RpQUNrUFkyd3k4RXFBV1ZIQmhuYXZBSy1M?oc=5)
 
 ---
 

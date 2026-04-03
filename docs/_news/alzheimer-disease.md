@@ -46,6 +46,14 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（4 則）
 
+### [Study Links Poor Eyesight To Higher Dementia Risk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFZfQmlwTm5ReERXQlYwRUk5QVEzaXVlUlU0NGtHdWs4T21OdVhzb3NDM3R1TDFTVFdmaXd0LThSaWJ5OVQ0NDl0OE9iZl9uOVcyVFNQZjk5TS1OMGItaG5PYVhPSzJtamNrNjVPMjlKYmFqVHF4SWVRUEM5c0ZVR29kU3hPYVFDam1IbHZhUVBIQlIwRmVwX0FvUUlVNkROSnk5SnlUMWRXclEtWlNCTEZRUGNjUWZHYmFF?oc=5)
+
+2026-04-02
+
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFZfQmlwTm5ReERXQlYwRUk5QVEzaXVlUlU0NGtHdWs4T21OdVhzb3NDM3R1TDFTVFdmaXd0LThSaWJ5OVQ0NDl0OE9iZl9uOVcyVFNQZjk5TS1OMGItaG5PYVhPSzJtamNrNjVPMjlKYmFqVHF4SWVRUEM5c0ZVR29kU3hPYVFDam1IbHZhUVBIQlIwRmVwX0FvUUlVNkROSnk5SnlUMWRXclEtWlNCTEZRUGNjUWZHYmFF?oc=5)
+
+---
+
 ### [‘I’ve lived with dementia for 15 years. It’s still possible to lead a fulfilling life’ - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDBwakJRanh0LVE4SGY3NHIxdHdSUmRJckpmcWJvSHpuZVlKTFhoOGt3MGdIbWNkTnlUZ3JheVl1NUdlQlBQTmJVVHhTeE9WVVpfQm04aXZNUmxUY1RXNzVUS0R3T05UZWdyUVd6ekpqVkYwUTUxV0JLNlFDZVV4SVN2dU1YOVNKdGpGdUphMk1xdEgzMDhZbV9RQm9xcUc2OUJzRw?oc=5)
 
 2026-04-02
@@ -67,14 +75,6 @@ permalink: /news/alzheimer-disease/
 2026-04-01
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVhLa1JkMGN0NEJaYXd4VW9vSDQ4Z1hlNDJndFdlT1duc0pWWDl5eGk0Tm1Na1JMbHduVDczQzRwLTBXUm1EVGVjUlBiX3dwRGlDOXF2SzM5VWpyQVYzY01FaHdNd0lubklPem5hS3dXWE9hakpBVzVlQ09vTTFxWDFsZ3kxczFO?oc=5)
-
----
-
-### ['My husband got early dementia, now I'm a full-time carer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvckkzeG1pd00yY1VlUHFwejUwUU9aWUFSNkx2TzNKblh1dEh5bzNYc1hJQmp4ZHRwWFNHTVFKUmFOX3JDcHlxa3FTRWpieGpqWnJnWE1YNElNV21v?oc=5)
-
-2026-03-30
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvckkzeG1pd00yY1VlUHFwejUwUU9aWUFSNkx2TzNKblh1dEh5bzNYc1hJQmp4ZHRwWFNHTVFKUmFOX3JDcHlxa3FTRWpieGpqWnJnWE1YNElNV21v?oc=5)
 
 ---
 

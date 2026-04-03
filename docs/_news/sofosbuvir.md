@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（19 則）
+
+### [Woman, 40, took creatine for 100 days and shared everything it changed](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
+
+---
+
+### [Cosa mangia un gastroenterologo: i 7 cibi per stare bene con l’intestino. Il segreto sono le fibre - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXdkdjR1cjdzSzFpZTgyQlFaUmdFaFc2WFliT01mS0VYRHdHYUlSUHI1OEF0UnZKTGFSX3E5OUYyeTkxUVhoU01CdEJkVE5FcTNIWnpYcFVhTVZFZjdMc1o4SkdkRGtMcWxBTnEzdG5XN2NfYV9ud2R0SzVmUWtyVmZ5c2toVldrTk1Mc2hHY29YVlNnZjhNTlRoV3ZZdEtORnd1SHFyVUdid9IBnAFBVV95cUxQZXlRXzJtM0ZTRVNUeVl3ejdoMDVHM05QcWZ1aFViXzNFZlFWLThZYWxObEJ1eGJ2QVZhWTlzODlldUhoai0wdmdzTFd1X0RQYXJiMlhMQll1aDB3eUVmNFlYWDFUNUJpLVhhMzlaSkQySWpEUlYxc25WTVptY3B5MTBYeGowOUdxbWlGYjZuSDVRbElhOGxvTWRPZk0?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXdkdjR1cjdzSzFpZTgyQlFaUmdFaFc2WFliT01mS0VYRHdHYUlSUHI1OEF0UnZKTGFSX3E5OUYyeTkxUVhoU01CdEJkVE5FcTNIWnpYcFVhTVZFZjdMc1o4SkdkRGtMcWxBTnEzdG5XN2NfYV9ud2R0SzVmUWtyVmZ5c2toVldrTk1Mc2hHY29YVlNnZjhNTlRoV3ZZdEtORnd1SHFyVUdid9IBnAFBVV95cUxQZXlRXzJtM0ZTRVNUeVl3ejdoMDVHM05QcWZ1aFViXzNFZlFWLThZYWxObEJ1eGJ2QVZhWTlzODlldUhoai0wdmdzTFd1X0RQYXJiMlhMQll1aDB3eUVmNFlYWDFUNUJpLVhhMzlaSkQySWpEUlYxc25WTVptY3B5MTBYeGowOUdxbWlGYjZuSDVRbElhOGxvTWRPZk0?oc=5)
+
+---
 
 ### [Mono-Infektion erhöht Risiko für Multiple Sklerose - it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1p3VS1ZbVdWYk5LOWpxWlNiLUU1WHFySUs2dnhuLVFBNFBXcHlkOElKVVhNTXE2T2Q4ZHJqVWVOU2MyRGgyMjk1U0xXTWhkTC02d0RjYlp0ekx3eDYzRXh5N25zMVVsRDlGa2RWbEowYmljQ01zVWplTEs0Sk0tZ0tpd0hqakdScXh3Xw?oc=5)
 
@@ -52,11 +68,27 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Hito científico: descubren que la inflamación causada por la esclerosis múltiple daña el ADN de las neuronas - El Economista](https://news.google.com/rss/articles/CBMiowJBVV95cUxPWS1aSFMtM2NuNE5uNXpKYTc0SXhLTG93eW12eUJrSThTU3A1cXgySnpWOEViSDdVcXY1MHBkSF9QY2FUdV9mYUJweC1TNXk4dlFGT3NaS25MclNGNGZpcVdVdk1EMnlrYVpVenhScFBQYUhvR21pZFM2dktLOWZ3b0JEbTZBMEdEenl2anVtTmJ5U0hGMUJSNFg4STFiNmdzX0UtTjA3V0pUTFdzSkhRWmp3TW5hTUo5Tk5DbWRWMklrVTlfbTVqSUZSU1FuSHoxM0tIa3o1a3E5d0EzUEhBbjJEZzlPMEtzVDFBeTBFWU5NY1IyUUlCYjBHal9GMy1ERmt3czQtTzVGaWdSTEpkamVTTlVDM19TTXdWWXkzUzFoaHPSAY4CQVVfeXFMTnN3bllXVnc3dk5DWTNCNVM5Z0NRNExabERxUUpYSGhaVndSWUxxZm5US1phb3d6a2pUdW5YaDZ4SThNUHc5SE1RWXo2bFhmVGhhcjh6TFpBOERkOGhiZ21PVjRSODBqMEwzazltWm9IWnh3YWtCQUsyekpob2oyeXJfeFFKZmY1OGdkS1YyUThIelJoQUU2MVIyeVYwSmJnV0VxMGNRS25uQ1FucldSMWJqUHpPcE9QODZzQzAzSEtmVEIzN1BCZzQxQ3VLZXExZUJjTUNwOU9fZC1WamFQRDVDQkkxOENwSmlZOXh0dE9hQmFDTU4xaWwyZmhqbS1rdWxaYjNJVTdzLUcxaHdn?oc=5)
+### [UKHSA Alerts on Rising Shigella Cases and Drug Resistance](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
 
-2026-04-02 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-04-02 <span class="news-indication-tag">MS</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMiowJBVV95cUxPWS1aSFMtM2NuNE5uNXpKYTc0SXhLTG93eW12eUJrSThTU3A1cXgySnpWOEViSDdVcXY1MHBkSF9QY2FUdV9mYUJweC1TNXk4dlFGT3NaS25MclNGNGZpcVdVdk1EMnlrYVpVenhScFBQYUhvR21pZFM2dktLOWZ3b0JEbTZBMEdEenl2anVtTmJ5U0hGMUJSNFg4STFiNmdzX0UtTjA3V0pUTFdzSkhRWmp3TW5hTUo5Tk5DbWRWMklrVTlfbTVqSUZSU1FuSHoxM0tIa3o1a3E5d0EzUEhBbjJEZzlPMEtzVDFBeTBFWU5NY1IyUUlCYjBHal9GMy1ERmt3czQtTzVGaWdSTEpkamVTTlVDM19TTXdWWXkzUzFoaHPSAY4CQVVfeXFMTnN3bllXVnc3dk5DWTNCNVM5Z0NRNExabERxUUpYSGhaVndSWUxxZm5US1phb3d6a2pUdW5YaDZ4SThNUHc5SE1RWXo2bFhmVGhhcjh6TFpBOERkOGhiZ21PVjRSODBqMEwzazltWm9IWnh3YWtCQUsyekpob2oyeXJfeFFKZmY1OGdkS1YyUThIelJoQUU2MVIyeVYwSmJnV0VxMGNRS25uQ1FucldSMWJqUHpPcE9QODZzQzAzSEtmVEIzN1BCZzQxQ3VLZXExZUJjTUNwOU9fZC1WamFQRDVDQkkxOENwSmlZOXh0dE9hQmFDTU4xaWwyZmhqbS1rdWxaYjNJVTdzLUcxaHdn?oc=5)
+來源：[PinkNews](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
+
+---
+
+### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
+
+2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
+
+---
+
+### [Epatite A, maxi sequestro NAS Latina: 3.000 kg di frutta e verdura senza tracciabilità - Latina Oggi](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUxycnFNTUNrMmd2WGwxXzlhNDBuSWNVbVZBdS1WdWFxLWdjWEhRQWdZQm1qRGgwdHB6MnlTRE1mSzFKWEJDbzhXeTBnVWtEQWY0LVNSX1JtNkJfQUtFQllNZzJyVDlCWVFoLVgxc3pqM2twRERkV25fWndSRkJkekFUcFVIMmFKcVdoakdHMFhTT1ZaaVNxbXQyU2syZ0tjQXY4N0NIckNpbnJQbkRkREc3SlVFMVhNWm1PYlBWal82ZnJWbGRDcEFZbXM?oc=5)
+
+2026-04-02 <span class="news-indication-tag">epatite</span>
+
+來源：[Latina Oggi](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUxycnFNTUNrMmd2WGwxXzlhNDBuSWNVbVZBdS1WdWFxLWdjWEhRQWdZQm1qRGgwdHB6MnlTRE1mSzFKWEJDbzhXeTBnVWtEQWY0LVNSX1JtNkJfQUtFQllNZzJyVDlCWVFoLVgxc3pqM2twRERkV25fWndSRkJkekFUcFVIMmFKcVdoakdHMFhTT1ZaaVNxbXQyU2syZ0tjQXY4N0NIckNpbnJQbkRkREc3SlVFMVhNWm1PYlBWal82ZnJWbGRDcEFZbXM?oc=5)
 
 ---
 
@@ -76,11 +108,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Uniklinik testet mögliche Alzheimer-Bremse - Westfälische Nachrichten](https://news.google.com/rss/articles/CBMinwFBVV95cUxPam5xcEhPbTBwOW1WYnJ4WGhMckNod29TdGoxYmZ6SzVvM0xVQWFub0VCNzFaeXA2VGgwTWtPZU9aNDh3c2MtMjgxNjZQeUJoTENxZjBZRTFWTktwRWdNT1ZfaTVHd1dkeUZuZGo3a0pFdnppZnM4UndkdWo0d0RjR0VBSTBBZTA0ZFRKVXFyQUdPRGZlaVpfZWh6SDBZR3M?oc=5)
+### [Neues Leitbild erarbeitet - Gemeinsam stärker für Menschen mit Multiple Sklerose - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa052N3JicVhlNy1NbGFjdmQxQnFSSVFXSXRyeUd3YUhlU0JUYzBkcWZmN19qRTZuanJkQ1NXcTg5VlFuOGRKT2lCR1Y2aVpDWFNRd0dMTFN3a05fU3ZMaDgyd1ZlX2pVUXNoblZaOV9zT05obTRKZ0ZPTVkyc2FBejduLWM2ejk5b1dB?oc=5)
 
-2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-02 <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
 
-來源：[Westfälische Nachrichten](https://news.google.com/rss/articles/CBMinwFBVV95cUxPam5xcEhPbTBwOW1WYnJ4WGhMckNod29TdGoxYmZ6SzVvM0xVQWFub0VCNzFaeXA2VGgwTWtPZU9aNDh3c2MtMjgxNjZQeUJoTENxZjBZRTFWTktwRWdNT1ZfaTVHd1dkeUZuZGo3a0pFdnppZnM4UndkdWo0d0RjR0VBSTBBZTA0ZFRKVXFyQUdPRGZlaVpfZWh6SDBZR3M?oc=5)
+來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa052N3JicVhlNy1NbGFjdmQxQnFSSVFXSXRyeUd3YUhlU0JUYzBkcWZmN19qRTZuanJkQ1NXcTg5VlFuOGRKT2lCR1Y2aVpDWFNRd0dMTFN3a05fU3ZMaDgyd1ZlX2pVUXNoblZaOV9zT05obTRKZ0ZPTVkyc2FBejduLWM2ejk5b1dB?oc=5)
+
+---
+
+### [Il boom di epatite A a Napoli e la zuppa di cozze del Giovedì santo: «Noi la serviremo ai clienti, i mitili sono sterilizzati» - Corriere Del Mezzogiorno](https://news.google.com/rss/articles/CBMitAJBVV95cUxOVjNyZm1FeEtHMmxYMUZOYVJ0bWtybXF6UXdIeDRpdEtYZVFLYWVhM1ZkUmRnaFJ5dDh6QzYtYXF5Sjc1SkdUYmkyOGxuZHI2NmZBS2RBbE1UVUFXVW9QRFhuYUpmTktqLURPYzFONmpLcUJ5OGRacnBkbGZXd19tZnhvYzV6dmZqMzlNRlF0YW5LNkpXR3VVRmtxUFo4bDFVLU84S3hsYzNKYWkzSGlteHlXMW9wTzRpMnh6dDBTT045U2NHNkVrYnpMc081bWtiNFUwWUJlc3J1bFBTV0loVDhzQkJ3V09ibVpqbWFHNFBxTlhIaFYtNGMtd2p1c1YyVzZxeTl0Nkotd3QzNjRNUnI1WG5TdjFmZ2w0VGcwckpzMEFKUVlYTFZ6TmJ5dGxuT2xpMdIBugJBVV95cUxNWjBLRmRCejRBTmk1MWpWdGdlOWplZ21CX2hZaEdPeVhjZjRWUzJiTkpZYk9ObXAwb2xwOTdXRVRkTl9DR2JCQktmNVRpd2lIOFhzcmtxZVc4WFpzWlQwS0kxa0U1UF9VQzhVbEpJelJ2dWl6dVR4cmVnSzMxYWVnXzY3QWpDVVpEY2RWclB1cnBhcDBodi1jekJkampjUUhCb3Fabkc0T1BjNVlGZWJLMHBSOXF3ZGpQeTFJTVdseUlJaC03OS1NWnhXRmVQUmZJMUlfU2pUcTRIaFlCVXNZSDQxcm1LaW5KdU5vQkFxVF9jWjl1SUVXVTV2SGxBQTRCMzFRUS10WUFxZ0wwT0tjTXVMODVMQjBKY2Y0cjJoTVBPdFFFQTlWZmVhRkVtZTVGWnFBelVBX2JpZw?oc=5)
+
+2026-04-02 <span class="news-indication-tag">epatite</span>
+
+來源：[Corriere Del Mezzogiorno](https://news.google.com/rss/articles/CBMitAJBVV95cUxOVjNyZm1FeEtHMmxYMUZOYVJ0bWtybXF6UXdIeDRpdEtYZVFLYWVhM1ZkUmRnaFJ5dDh6QzYtYXF5Sjc1SkdUYmkyOGxuZHI2NmZBS2RBbE1UVUFXVW9QRFhuYUpmTktqLURPYzFONmpLcUJ5OGRacnBkbGZXd19tZnhvYzV6dmZqMzlNRlF0YW5LNkpXR3VVRmtxUFo4bDFVLU84S3hsYzNKYWkzSGlteHlXMW9wTzRpMnh6dDBTT045U2NHNkVrYnpMc081bWtiNFUwWUJlc3J1bFBTV0loVDhzQkJ3V09ibVpqbWFHNFBxTlhIaFYtNGMtd2p1c1YyVzZxeTl0Nkotd3QzNjRNUnI1WG5TdjFmZ2w0VGcwckpzMEFKUVlYTFZ6TmJ5dGxuT2xpMdIBugJBVV95cUxNWjBLRmRCejRBTmk1MWpWdGdlOWplZ21CX2hZaEdPeVhjZjRWUzJiTkpZYk9ObXAwb2xwOTdXRVRkTl9DR2JCQktmNVRpd2lIOFhzcmtxZVc4WFpzWlQwS0kxa0U1UF9VQzhVbEpJelJ2dWl6dVR4cmVnSzMxYWVnXzY3QWpDVVpEY2RWclB1cnBhcDBodi1jekJkampjUUhCb3Fabkc0T1BjNVlGZWJLMHBSOXF3ZGpQeTFJTVdseUlJaC03OS1NWnhXRmVQUmZJMUlfU2pUcTRIaFlCVXNZSDQxcm1LaW5KdU5vQkFxVF9jWjl1SUVXVTV2SGxBQTRCMzFRUS10WUFxZ0wwT0tjTXVMODVMQjBKY2Y0cjJoTVBPdFFFQTlWZmVhRkVtZTVGWnFBelVBX2JpZw?oc=5)
 
 ---
 
@@ -89,14 +129,6 @@ permalink: /news/sofosbuvir/
 2026-04-02 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
-
----
-
-### [Dall’igiene dei cibi al vaccino, il vademecum contro l’epatite A - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0RfQjBDMTJzSUJtZWdzYjdQQlNSZm5XdXFSZnBoS2VrZm5admRTbEZqSFFwQ0hvLXdOTmVKaEdvSG5hWlhUYWtKSzdlTjNpc25fZXAyc3UwbndYY1NCYWEwUW9oWXVHSll0RXJJNGo1X1IxQmw2OFA0cXI3d1UtQUNBa0JPanJRTkxEX1owOFV2SlhlWUYxMkJBMnJlTkdRRFBYd21ZMHZ0Z3ZqUERsMGtUTzNQMmpjekJRZFFPcGpBS2RqU0VZdg?oc=5)
-
-2026-04-02 <span class="news-indication-tag">epatite</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0RfQjBDMTJzSUJtZWdzYjdQQlNSZm5XdXFSZnBoS2VrZm5admRTbEZqSFFwQ0hvLXdOTmVKaEdvSG5hWlhUYWtKSzdlTjNpc25fZXAyc3UwbndYY1NCYWEwUW9oWXVHSll0RXJJNGo1X1IxQmw2OFA0cXI3d1UtQUNBa0JPanJRTkxEX1owOFV2SlhlWUYxMkJBMnJlTkdRRFBYd21ZMHZ0Z3ZqUERsMGtUTzNQMmpjekJRZFFPcGpBS2RqU0VZdg?oc=5)
 
 ---
 
@@ -124,19 +156,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Neapel: Hepatitis A grassiert – Verbot für rohe Meeresfrüchte](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXRxQXlkTGRoY1hEaDluX3h2emFrM2tGek1qY25CZVJKbEFIR2VWUE11TzNhdi1PSHYzeUV2Yl9Dck50N3dnZWZlXzlzSWludnhCXzkzLVlzd2hSYWFVWVR2Q2VPSXFINm9vQTRBUDFlQ21QQUpUdHpUTm5ISXFmTTd6WUplVW1hTVhWNjU1NWVmT2VsNEJBQm1PVHA5UkQ0MEVpQ1J1RV9kM0Q1SXliSw?oc=5)
+### [I’m a dentist - there are signs of cancer I can spot BEFORE you open your mouth](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
-2026-04-01 <span class="news-indication-tag">hepatitis</span>
+2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[inFranken.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXRxQXlkTGRoY1hEaDluX3h2emFrM2tGek1qY25CZVJKbEFIR2VWUE11TzNhdi1PSHYzeUV2Yl9Dck50N3dnZWZlXzlzSWludnhCXzkzLVlzd2hSYWFVWVR2Q2VPSXFINm9vQTRBUDFlQ21QQUpUdHpUTm5ISXFmTTd6WUplVW1hTVhWNjU1NWVmT2VsNEJBQm1PVHA5UkQ0MEVpQ1J1RV9kM0Q1SXliSw?oc=5)
-
----
-
-### [All’Usl un servizio di terapia del dolore per i pazienti affetti da sclerosi multipla - AostaSera -](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlBnVmdwbmtCRTFLbUtoaVZteGdBQzZZYkFWbkJLaEV0UUVDbC1yZEdyeUFKUXdUYndnTGEzbEsxNjNoUjl5TjZ4cXpZMWhzVGJHOExPa3dWTE9wYllXbHNQdUgybGM1d1g4VngzSWQ4d290ZnU2WHRQZkplclM2eGtyOTMyRDZYQnV2YUVlTWVJWlBCYkJoS29BcVdIXzZ5b2RubU5tT2IwUzh1NkpoOXdMandicFpjNVZzZHJjek9NSWREUHF5Tg?oc=5)
-
-2026-04-01 <span class="news-indication-tag">sclerosi multipla</span> <span class="news-indication-tag">AF</span>
-
-來源：[AostaSera -](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlBnVmdwbmtCRTFLbUtoaVZteGdBQzZZYkFWbkJLaEV0UUVDbC1yZEdyeUFKUXdUYndnTGEzbEsxNjNoUjl5TjZ4cXpZMWhzVGJHOExPa3dWTE9wYllXbHNQdUgybGM1d1g4VngzSWQ4d290ZnU2WHRQZkplclM2eGtyOTMyRDZYQnV2YUVlTWVJWlBCYkJoS29BcVdIXzZ5b2RubU5tT2IwUzh1NkpoOXdMandicFpjNVZzZHJjek9NSWREUHF5Tg?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
 ---
 
@@ -148,11 +172,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Jordan Brook confirms he 'going home' after 22 days in hospital](https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUjVCYnpKcUR4RFEtV3hYZWphNEpRUVdpNkdlRVlzdUtKVE05WDljYXVfZWJPdUptU1RCQU9RUVczaDVsVERoM1BCY251bF9mNzhQcWoxemZabGgtc1FmaFNEUTBkWUgyMUR2R1ZDWmdtTVNWV1dkVWJ1Wm4?oc=5)
+### [Kurz vor Ostern: Amt warnt alle Italien-Urlauber vor beliebtem Essen](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGpPNlBvRGJOb2tYN2pOdV84azV5dER5RW9lSXVrbUtEWkUzWGM2V0V4UG9YS2ZESGZ3MEtHV25qczRncFBMSndsTU9yN21UUUtUZlRuYUhkX1EwNi0zaXJnTll1enZYQ3ZIUHFERi1HYVZCQTduMHNGMnhnLUJnaDRscF9xVDdVNnRsb2c0TUF6NC04dWlvbHZVdkhycUdUZWxwX1l3UHhwZk5MSy1vcFZlS2ROT0FsZHBiUEIwRFFueEpPbmtrUWRuOG9LN1g1UFZaUFRJS0I5dGZKUm9SanFJSzgxbTRNWXZDZW1VUlB6ZjdROXB0R2Fn?oc=5)
 
-2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-01 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Rayo](https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUjVCYnpKcUR4RFEtV3hYZWphNEpRUVdpNkdlRVlzdUtKVE05WDljYXVfZWJPdUptU1RCQU9RUVczaDVsVERoM1BCY251bF9mNzhQcWoxemZabGgtc1FmaFNEUTBkWUgyMUR2R1ZDWmdtTVNWV1dkVWJ1Wm4?oc=5)
+來源：[Ruhr24](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGpPNlBvRGJOb2tYN2pOdV84azV5dER5RW9lSXVrbUtEWkUzWGM2V0V4UG9YS2ZESGZ3MEtHV25qczRncFBMSndsTU9yN21UUUtUZlRuYUhkX1EwNi0zaXJnTll1enZYQ3ZIUHFERi1HYVZCQTduMHNGMnhnLUJnaDRscF9xVDdVNnRsb2c0TUF6NC04dWlvbHZVdkhycUdUZWxwX1l3UHhwZk5MSy1vcFZlS2ROT0FsZHBiUEIwRFFueEpPbmtrUWRuOG9LN1g1UFZaUFRJS0I5dGZKUm9SanFJSzgxbTRNWXZDZW1VUlB6ZjdROXB0R2Fn?oc=5)
+
+---
+
+### [Fallece el anestesista Juan Maeso, condenado en 2007 por el contagio masivo de hepatitis C](https://news.google.com/rss/articles/CBMigAJBVV95cUxNWmR1eXduc3RPbTZUVEVYZkNCWldOcmYweUxqUkwxX2k2WWhJZXRyZ0gxMjNBRXZIZTBPOVhybU5JaUlwTDB5UTVlV25mZUowSDMyQTMyNHVqSVFhUUI3R3hrUlBkNV9tTGtucTNaZDhhdl9ZX3lENlYtMDhHQVBrMDY1ZXZQOUpTQnhVMHU3Q200ZnNCdUFIYkZiVks3ZjVFQmU5dW91aG5YdGdnVTAtOHI3bmFoeEJOVVppTW5GOHRFVWJKM2EzLW9hQVJ3UWJRaXM5N1czdkg5VG9KVEVZTDFLM0ZaS25lTnpFbV9XXzNtSlN0T2Z5Q0Ria28zMEFf0gGAAkFVX3lxTE1aZHV5d25zdE9tNlRURVhmQ0JaV05yZjB5TGpSTDFfaTZZaElldHJnSDEyM0FFdkhlME85WHJtTklpSXBMMHlRNWVXbmZlSjBIMzJBMzI0dWpJUWFRQjdHeGtSUGQ1X21Ma25xM1pkOGF2X1lfeUQ2Vi0wOEdBUGswNjVldlA5SlNCeFUwdTdDbTRmc0J1QUhiRmJWSzdmNUVCZTl1b3Voblh0Z2dVMC04cjduYWh4Qk5VWmlNbkY4dEVVYkozYTMtb2FBUndRYlFpczk3VzN2SDlUb0pURVlMMUszRlpLbmVOekVtX1dfM21KU3RPZnlDRGJrbzMwQV8?oc=5)
+
+2026-03-31 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Telemadrid](https://news.google.com/rss/articles/CBMigAJBVV95cUxNWmR1eXduc3RPbTZUVEVYZkNCWldOcmYweUxqUkwxX2k2WWhJZXRyZ0gxMjNBRXZIZTBPOVhybU5JaUlwTDB5UTVlV25mZUowSDMyQTMyNHVqSVFhUUI3R3hrUlBkNV9tTGtucTNaZDhhdl9ZX3lENlYtMDhHQVBrMDY1ZXZQOUpTQnhVMHU3Q200ZnNCdUFIYkZiVks3ZjVFQmU5dW91aG5YdGdnVTAtOHI3bmFoeEJOVVppTW5GOHRFVWJKM2EzLW9hQVJ3UWJRaXM5N1czdkg5VG9KVEVZTDFLM0ZaS25lTnpFbV9XXzNtSlN0T2Z5Q0Ria28zMEFf0gGAAkFVX3lxTE1aZHV5d25zdE9tNlRURVhmQ0JaV05yZjB5TGpSTDFfaTZZaElldHJnSDEyM0FFdkhlME85WHJtTklpSXBMMHlRNWVXbmZlSjBIMzJBMzI0dWpJUWFRQjdHeGtSUGQ1X21Ma25xM1pkOGF2X1lfeUQ2Vi0wOEdBUGswNjVldlA5SlNCeFUwdTdDbTRmc0J1QUhiRmJWSzdmNUVCZTl1b3Voblh0Z2dVMC04cjduYWh4Qk5VWmlNbkY4dEVVYkozYTMtb2FBUndRYlFpczk3VzN2SDlUb0pURVlMMUszRlpLbmVOekVtX1dfM21KU3RPZnlDRGJrbzMwQV8?oc=5)
 
 ---
 
@@ -161,22 +193,6 @@ permalink: /news/sofosbuvir/
 2026-03-28 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjh2eS1STU44SmhPYmJlU0doRkdiek9wVHh1dnl2MTM1c3psQXhwNEpQdjlfTlNHVURCSXgzS2ljb0Z5azlINmFDUDRkYjQ3Rlc0aGFZdFZUYURDTTRkQUZENERuSm9GTktaRGpKVTlYNnctOE9yMXFfOVlrbnlwWUxKVmdDdmpOVTVTaUJvVkdwNm5uNU9aMjVR?oc=5)
-
----
-
-### [NHS says stop taking statins if you have any of these symptoms - Chronicle Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUFyNmliTkg1WUE5Tk5ZcHBLRjdCaVNlWVNaVHIzMHFreVpjdHZ3cFE4UDBWYnNjcmlDNnRMbHA4eHpTYTFJS05ITUlxR3ZxODVwd0RLR3VERENnVTI1MURzVHE0MFZxTEd4aFpzM180ZTVqVnQyb2tWenpKc09PTGVta0tQU2V2?oc=5)
-
-2026-03-27 <span class="news-indication-tag">MS</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUFyNmliTkg1WUE5Tk5ZcHBLRjdCaVNlWVNaVHIzMHFreVpjdHZ3cFE4UDBWYnNjcmlDNnRMbHA4eHpTYTFJS05ITUlxR3ZxODVwd0RLR3VERENnVTI1MURzVHE0MFZxTEd4aFpzM180ZTVqVnQyb2tWenpKc09PTGVta0tQU2V2?oc=5)
-
----
-
-### [Newcastle lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
-
-2026-03-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
 
 ---
 

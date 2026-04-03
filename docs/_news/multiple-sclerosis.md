@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Multiple Sklerose（multiple sclerosis） 相關新聞"
+title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Multiple Sklerose（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
-# Multiple Sklerose（multiple sclerosis） 相關新聞
+# MS（multiple sclerosis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Multiple Sklerose（multiple sclerosis） 有什麼相關新聞？">
-<strong>Multiple Sklerose（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Multiple Sklerose」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「MS」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -56,6 +56,22 @@ permalink: /news/multiple-sclerosis/
 
 ## 相關新聞（12 則）
 
+### [Woman, 40, took creatine for 100 days and shared everything it changed](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
+
+2026-04-02
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
+
+---
+
+### [Cosa mangia un gastroenterologo: i 7 cibi per stare bene con l’intestino. Il segreto sono le fibre - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXdkdjR1cjdzSzFpZTgyQlFaUmdFaFc2WFliT01mS0VYRHdHYUlSUHI1OEF0UnZKTGFSX3E5OUYyeTkxUVhoU01CdEJkVE5FcTNIWnpYcFVhTVZFZjdMc1o4SkdkRGtMcWxBTnEzdG5XN2NfYV9ud2R0SzVmUWtyVmZ5c2toVldrTk1Mc2hHY29YVlNnZjhNTlRoV3ZZdEtORnd1SHFyVUdid9IBnAFBVV95cUxQZXlRXzJtM0ZTRVNUeVl3ejdoMDVHM05QcWZ1aFViXzNFZlFWLThZYWxObEJ1eGJ2QVZhWTlzODlldUhoai0wdmdzTFd1X0RQYXJiMlhMQll1aDB3eUVmNFlYWDFUNUJpLVhhMzlaSkQySWpEUlYxc25WTVptY3B5MTBYeGowOUdxbWlGYjZuSDVRbElhOGxvTWRPZk0?oc=5)
+
+2026-04-02
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXdkdjR1cjdzSzFpZTgyQlFaUmdFaFc2WFliT01mS0VYRHdHYUlSUHI1OEF0UnZKTGFSX3E5OUYyeTkxUVhoU01CdEJkVE5FcTNIWnpYcFVhTVZFZjdMc1o4SkdkRGtMcWxBTnEzdG5XN2NfYV9ud2R0SzVmUWtyVmZ5c2toVldrTk1Mc2hHY29YVlNnZjhNTlRoV3ZZdEtORnd1SHFyVUdid9IBnAFBVV95cUxQZXlRXzJtM0ZTRVNUeVl3ejdoMDVHM05QcWZ1aFViXzNFZlFWLThZYWxObEJ1eGJ2QVZhWTlzODlldUhoai0wdmdzTFd1X0RQYXJiMlhMQll1aDB3eUVmNFlYWDFUNUJpLVhhMzlaSkQySWpEUlYxc25WTVptY3B5MTBYeGowOUdxbWlGYjZuSDVRbElhOGxvTWRPZk0?oc=5)
+
+---
+
 ### [Mono-Infektion erhöht Risiko für Multiple Sklerose - it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1p3VS1ZbVdWYk5LOWpxWlNiLUU1WHFySUs2dnhuLVFBNFBXcHlkOElKVVhNTXE2T2Q4ZHJqVWVOU2MyRGgyMjk1U0xXTWhkTC02d0RjYlp0ekx3eDYzRXh5N25zMVVsRDlGa2RWbEowYmljQ01zVWplTEs0Sk0tZ0tpd0hqakdScXh3Xw?oc=5)
 
 2026-04-02
@@ -64,11 +80,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Hito científico: descubren que la inflamación causada por la esclerosis múltiple daña el ADN de las neuronas - El Economista](https://news.google.com/rss/articles/CBMiowJBVV95cUxPWS1aSFMtM2NuNE5uNXpKYTc0SXhLTG93eW12eUJrSThTU3A1cXgySnpWOEViSDdVcXY1MHBkSF9QY2FUdV9mYUJweC1TNXk4dlFGT3NaS25MclNGNGZpcVdVdk1EMnlrYVpVenhScFBQYUhvR21pZFM2dktLOWZ3b0JEbTZBMEdEenl2anVtTmJ5U0hGMUJSNFg4STFiNmdzX0UtTjA3V0pUTFdzSkhRWmp3TW5hTUo5Tk5DbWRWMklrVTlfbTVqSUZSU1FuSHoxM0tIa3o1a3E5d0EzUEhBbjJEZzlPMEtzVDFBeTBFWU5NY1IyUUlCYjBHal9GMy1ERmt3czQtTzVGaWdSTEpkamVTTlVDM19TTXdWWXkzUzFoaHPSAY4CQVVfeXFMTnN3bllXVnc3dk5DWTNCNVM5Z0NRNExabERxUUpYSGhaVndSWUxxZm5US1phb3d6a2pUdW5YaDZ4SThNUHc5SE1RWXo2bFhmVGhhcjh6TFpBOERkOGhiZ21PVjRSODBqMEwzazltWm9IWnh3YWtCQUsyekpob2oyeXJfeFFKZmY1OGdkS1YyUThIelJoQUU2MVIyeVYwSmJnV0VxMGNRS25uQ1FucldSMWJqUHpPcE9QODZzQzAzSEtmVEIzN1BCZzQxQ3VLZXExZUJjTUNwOU9fZC1WamFQRDVDQkkxOENwSmlZOXh0dE9hQmFDTU4xaWwyZmhqbS1rdWxaYjNJVTdzLUcxaHdn?oc=5)
+### [UKHSA Alerts on Rising Shigella Cases and Drug Resistance](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
 
 2026-04-02
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMiowJBVV95cUxPWS1aSFMtM2NuNE5uNXpKYTc0SXhLTG93eW12eUJrSThTU3A1cXgySnpWOEViSDdVcXY1MHBkSF9QY2FUdV9mYUJweC1TNXk4dlFGT3NaS25MclNGNGZpcVdVdk1EMnlrYVpVenhScFBQYUhvR21pZFM2dktLOWZ3b0JEbTZBMEdEenl2anVtTmJ5U0hGMUJSNFg4STFiNmdzX0UtTjA3V0pUTFdzSkhRWmp3TW5hTUo5Tk5DbWRWMklrVTlfbTVqSUZSU1FuSHoxM0tIa3o1a3E5d0EzUEhBbjJEZzlPMEtzVDFBeTBFWU5NY1IyUUlCYjBHal9GMy1ERmt3czQtTzVGaWdSTEpkamVTTlVDM19TTXdWWXkzUzFoaHPSAY4CQVVfeXFMTnN3bllXVnc3dk5DWTNCNVM5Z0NRNExabERxUUpYSGhaVndSWUxxZm5US1phb3d6a2pUdW5YaDZ4SThNUHc5SE1RWXo2bFhmVGhhcjh6TFpBOERkOGhiZ21PVjRSODBqMEwzazltWm9IWnh3YWtCQUsyekpob2oyeXJfeFFKZmY1OGdkS1YyUThIelJoQUU2MVIyeVYwSmJnV0VxMGNRS25uQ1FucldSMWJqUHpPcE9QODZzQzAzSEtmVEIzN1BCZzQxQ3VLZXExZUJjTUNwOU9fZC1WamFQRDVDQkkxOENwSmlZOXh0dE9hQmFDTU4xaWwyZmhqbS1rdWxaYjNJVTdzLUcxaHdn?oc=5)
+來源：[PinkNews](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
+
+---
+
+### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
+
+2026-04-02
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
 ---
 
@@ -88,11 +112,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Uniklinik testet mögliche Alzheimer-Bremse - Westfälische Nachrichten](https://news.google.com/rss/articles/CBMinwFBVV95cUxPam5xcEhPbTBwOW1WYnJ4WGhMckNod29TdGoxYmZ6SzVvM0xVQWFub0VCNzFaeXA2VGgwTWtPZU9aNDh3c2MtMjgxNjZQeUJoTENxZjBZRTFWTktwRWdNT1ZfaTVHd1dkeUZuZGo3a0pFdnppZnM4UndkdWo0d0RjR0VBSTBBZTA0ZFRKVXFyQUdPRGZlaVpfZWh6SDBZR3M?oc=5)
+### [Neues Leitbild erarbeitet - Gemeinsam stärker für Menschen mit Multiple Sklerose - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa052N3JicVhlNy1NbGFjdmQxQnFSSVFXSXRyeUd3YUhlU0JUYzBkcWZmN19qRTZuanJkQ1NXcTg5VlFuOGRKT2lCR1Y2aVpDWFNRd0dMTFN3a05fU3ZMaDgyd1ZlX2pVUXNoblZaOV9zT05obTRKZ0ZPTVkyc2FBejduLWM2ejk5b1dB?oc=5)
 
 2026-04-02
 
-來源：[Westfälische Nachrichten](https://news.google.com/rss/articles/CBMinwFBVV95cUxPam5xcEhPbTBwOW1WYnJ4WGhMckNod29TdGoxYmZ6SzVvM0xVQWFub0VCNzFaeXA2VGgwTWtPZU9aNDh3c2MtMjgxNjZQeUJoTENxZjBZRTFWTktwRWdNT1ZfaTVHd1dkeUZuZGo3a0pFdnppZnM4UndkdWo0d0RjR0VBSTBBZTA0ZFRKVXFyQUdPRGZlaVpfZWh6SDBZR3M?oc=5)
+來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa052N3JicVhlNy1NbGFjdmQxQnFSSVFXSXRyeUd3YUhlU0JUYzBkcWZmN19qRTZuanJkQ1NXcTg5VlFuOGRKT2lCR1Y2aVpDWFNRd0dMTFN3a05fU3ZMaDgyd1ZlX2pVUXNoblZaOV9zT05obTRKZ0ZPTVkyc2FBejduLWM2ejk5b1dB?oc=5)
 
 ---
 
@@ -120,35 +144,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [All’Usl un servizio di terapia del dolore per i pazienti affetti da sclerosi multipla - AostaSera -](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlBnVmdwbmtCRTFLbUtoaVZteGdBQzZZYkFWbkJLaEV0UUVDbC1yZEdyeUFKUXdUYndnTGEzbEsxNjNoUjl5TjZ4cXpZMWhzVGJHOExPa3dWTE9wYllXbHNQdUgybGM1d1g4VngzSWQ4d290ZnU2WHRQZkplclM2eGtyOTMyRDZYQnV2YUVlTWVJWlBCYkJoS29BcVdIXzZ5b2RubU5tT2IwUzh1NkpoOXdMandicFpjNVZzZHJjek9NSWREUHF5Tg?oc=5)
+### [I’m a dentist - there are signs of cancer I can spot BEFORE you open your mouth](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
 2026-04-01
 
-來源：[AostaSera -](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlBnVmdwbmtCRTFLbUtoaVZteGdBQzZZYkFWbkJLaEV0UUVDbC1yZEdyeUFKUXdUYndnTGEzbEsxNjNoUjl5TjZ4cXpZMWhzVGJHOExPa3dWTE9wYllXbHNQdUgybGM1d1g4VngzSWQ4d290ZnU2WHRQZkplclM2eGtyOTMyRDZYQnV2YUVlTWVJWlBCYkJoS29BcVdIXzZ5b2RubU5tT2IwUzh1NkpoOXdMandicFpjNVZzZHJjek9NSWREUHF5Tg?oc=5)
-
----
-
-### [Jordan Brook confirms he 'going home' after 22 days in hospital](https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUjVCYnpKcUR4RFEtV3hYZWphNEpRUVdpNkdlRVlzdUtKVE05WDljYXVfZWJPdUptU1RCQU9RUVczaDVsVERoM1BCY251bF9mNzhQcWoxemZabGgtc1FmaFNEUTBkWUgyMUR2R1ZDWmdtTVNWV1dkVWJ1Wm4?oc=5)
-
-2026-04-01
-
-來源：[Rayo](https://news.google.com/rss/articles/CBMifEFVX3lxTE1FUjVCYnpKcUR4RFEtV3hYZWphNEpRUVdpNkdlRVlzdUtKVE05WDljYXVfZWJPdUptU1RCQU9RUVczaDVsVERoM1BCY251bF9mNzhQcWoxemZabGgtc1FmaFNEUTBkWUgyMUR2R1ZDWmdtTVNWV1dkVWJ1Wm4?oc=5)
-
----
-
-### [NHS says stop taking statins if you have any of these symptoms - Chronicle Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUFyNmliTkg1WUE5Tk5ZcHBLRjdCaVNlWVNaVHIzMHFreVpjdHZ3cFE4UDBWYnNjcmlDNnRMbHA4eHpTYTFJS05ITUlxR3ZxODVwd0RLR3VERENnVTI1MURzVHE0MFZxTEd4aFpzM180ZTVqVnQyb2tWenpKc09PTGVta0tQU2V2?oc=5)
-
-2026-03-27
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUFyNmliTkg1WUE5Tk5ZcHBLRjdCaVNlWVNaVHIzMHFreVpjdHZ3cFE4UDBWYnNjcmlDNnRMbHA4eHpTYTFJS05ITUlxR3ZxODVwd0RLR3VERENnVTI1MURzVHE0MFZxTEd4aFpzM180ZTVqVnQyb2tWenpKc09PTGVta0tQU2V2?oc=5)
-
----
-
-### [Newcastle lad, 19, died from meningitis after having no symptoms other than feeling cold - Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
-
-2026-03-27
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWFjTnUya015bFhHa3ViXzdINlV5MDEyT1ppVWwxZEVtQkZHZjR4WUlPQjRfZUxEakVjOTRnRmRFUmRnT0t6MGg1aVBCdExXYV9yRkRYRVFxLVQyVHA0emgtajZJdUtlYkc1cmd5VGZERGpfb2VqSEtlamtRNmpVbldIeGdBbzBzX1lNR3dzOFZ6Y25vSm1zZjJlQjByY3N4WGZJ?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
 ---
 
