@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabète（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。8 則新聞、86 個相關藥物。"
+description: "diabète（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabète（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>8 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,13 +114,13 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Japón marca las normas de la ciencia: avance histórico en el tratamiento de la diabetes con una solución oral](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNHdqR2dUaDFPMk5LTUhrUlp2c3IxZmtPQVRKdERxUHY3R05mVUk3bTVpVlFxSE5hOXpaRkgxa0xXblhuQXl6SUptOGpZMjBHZ1FxQURsS2JHaVNucXJsQnRmeld0MkVDQzJVNFo2RS1tZzFpR0JXc3VZOEZxd0ZvU3NvQnZodXczbF85TzJXenB2TXd3WERwWS1xWkRiX3o4dS1GNmVJeWJTQ3liSVczN3o5ZVZlZ2tfcElSTDJ5NmwyNzNPR0FnYkJMd09mUGsxQ0djZENjV2lEX0ktc20waVBtMnpYN2ZLTFNN0gHwAUFVX3lxTE5rZGR2ZWI4WFRwdFY0czZ1ak5hdnctM0w0WXc1Mm5uNk1mdEdJVzNmWjh3cVpCUm4yQTV1aGYxbmVnZEhGbmRlNWFLYmFCM1o5SzRHWlBfQWh3MXdvV2F5dl9sRkJQZjJBSEdGZTNlNER5VTZWS3ZtXy1qd0Q1eGVmQ1pVZTJRdXVLUkdIQmhxZ2pPWjhrY053Q1VRZUhUS3lPbFB5U2FWblJEcHN6ekZ3bEtEUlJncUJjOHFxZDBOT0prU3BkSWRwS0hYeTNJUWtfSFM2S3lNNWJHa0JhMnZTeGt0Rk5CdWtjN3lmcHY5cg?oc=5)
+### [Diabète de type 2 : grâce à l'IA, un dépistage simple rien qu'avec votre voix, pourrait voir le jour - Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
 
-2026-04-02
+2026-04-03
 
-來源：[Vandal](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNHdqR2dUaDFPMk5LTUhrUlp2c3IxZmtPQVRKdERxUHY3R05mVUk3bTVpVlFxSE5hOXpaRkgxa0xXblhuQXl6SUptOGpZMjBHZ1FxQURsS2JHaVNucXJsQnRmeld0MkVDQzJVNFo2RS1tZzFpR0JXc3VZOEZxd0ZvU3NvQnZodXczbF85TzJXenB2TXd3WERwWS1xWkRiX3o4dS1GNmVJeWJTQ3liSVczN3o5ZVZlZ2tfcElSTDJ5NmwyNzNPR0FnYkJMd09mUGsxQ0djZENjV2lEX0ktc20waVBtMnpYN2ZLTFNN0gHwAUFVX3lxTE5rZGR2ZWI4WFRwdFY0czZ1ak5hdnctM0w0WXc1Mm5uNk1mdEdJVzNmWjh3cVpCUm4yQTV1aGYxbmVnZEhGbmRlNWFLYmFCM1o5SzRHWlBfQWh3MXdvV2F5dl9sRkJQZjJBSEdGZTNlNER5VTZWS3ZtXy1qd0Q1eGVmQ1pVZTJRdXVLUkdIQmhxZ2pPWjhrY053Q1VRZUhUS3lPbFB5U2FWblJEcHN6ekZ3bEtEUlJncUJjOHFxZDBOT0prU3BkSWRwS0hYeTNJUWtfSFM2S3lNNWJHa0JhMnZTeGt0Rk5CdWtjN3lmcHY5cg?oc=5)
+來源：[Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
 
 ---
 
@@ -169,14 +169,6 @@ permalink: /news/diabetes-mellitus/
 2026-04-01
 
 來源：[zm-online](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
-
----
-
-### [Piede diabetico grave: possibile accelerare la guarigione con terapia combinata](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDdYbjhuQUp2WkNzVmpIN3FyeEV3OWExZjJOQUJhN0dIdXl5NlFrdWtxMjBfN24tN0RQU1VRUlRKeUxqQUtTWnM4SlV4Z3B0cUlqWlhWMmJoblFJeHhBUXgyUFExQVNSRjdwRjdveWtILVQ5VXk2eDU1azF5ek1oczE4VExhSXBsS0FzS2dRTUNpb0VoRlFVeFVzSmNCdmEzWW9SWTRmbnVqbFFndTc4VFo4WQ?oc=5)
-
-2026-03-31
-
-來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDdYbjhuQUp2WkNzVmpIN3FyeEV3OWExZjJOQUJhN0dIdXl5NlFrdWtxMjBfN24tN0RQU1VRUlRKeUxqQUtTWnM4SlV4Z3B0cUlqWlhWMmJoblFJeHhBUXgyUFExQVNSRjdwRjdveWtILVQ5VXk2eDU1azF5ek1oczE4VExhSXBsS0FzS2dRTUNpb0VoRlFVeFVzSmNCdmEzWW9SWTRmbnVqbFFndTc4VFo4WQ?oc=5)
 
 ---
 

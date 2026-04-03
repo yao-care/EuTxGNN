@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
+
+### [UKHSA Alerts on Rising Shigella Cases and Drug Resistance](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
+
+2026-04-03 <span class="news-indication-tag">MS</span>
+
+來源：[PinkNews](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
+
+---
 
 ### [Woman, 40, took creatine for 100 days and shared everything it changed](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
 
 2026-04-02 <span class="news-indication-tag">MS</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
-
----
-
-### [Cosa mangia un gastroenterologo: i 7 cibi per stare bene con l’intestino. Il segreto sono le fibre - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXdkdjR1cjdzSzFpZTgyQlFaUmdFaFc2WFliT01mS0VYRHdHYUlSUHI1OEF0UnZKTGFSX3E5OUYyeTkxUVhoU01CdEJkVE5FcTNIWnpYcFVhTVZFZjdMc1o4SkdkRGtMcWxBTnEzdG5XN2NfYV9ud2R0SzVmUWtyVmZ5c2toVldrTk1Mc2hHY29YVlNnZjhNTlRoV3ZZdEtORnd1SHFyVUdid9IBnAFBVV95cUxQZXlRXzJtM0ZTRVNUeVl3ejdoMDVHM05QcWZ1aFViXzNFZlFWLThZYWxObEJ1eGJ2QVZhWTlzODlldUhoai0wdmdzTFd1X0RQYXJiMlhMQll1aDB3eUVmNFlYWDFUNUJpLVhhMzlaSkQySWpEUlYxc25WTVptY3B5MTBYeGowOUdxbWlGYjZuSDVRbElhOGxvTWRPZk0?oc=5)
-
-2026-04-02 <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXdkdjR1cjdzSzFpZTgyQlFaUmdFaFc2WFliT01mS0VYRHdHYUlSUHI1OEF0UnZKTGFSX3E5OUYyeTkxUVhoU01CdEJkVE5FcTNIWnpYcFVhTVZFZjdMc1o4SkdkRGtMcWxBTnEzdG5XN2NfYV9ud2R0SzVmUWtyVmZ5c2toVldrTk1Mc2hHY29YVlNnZjhNTlRoV3ZZdEtORnd1SHFyVUdid9IBnAFBVV95cUxQZXlRXzJtM0ZTRVNUeVl3ejdoMDVHM05QcWZ1aFViXzNFZlFWLThZYWxObEJ1eGJ2QVZhWTlzODlldUhoai0wdmdzTFd1X0RQYXJiMlhMQll1aDB3eUVmNFlYWDFUNUJpLVhhMzlaSkQySWpEUlYxc25WTVptY3B5MTBYeGowOUdxbWlGYjZuSDVRbElhOGxvTWRPZk0?oc=5)
 
 ---
 
@@ -68,19 +68,19 @@ permalink: /news/rotigotine/
 
 ---
 
-### [UKHSA Alerts on Rising Shigella Cases and Drug Resistance](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
-
-2026-04-02 <span class="news-indication-tag">MS</span>
-
-來源：[PinkNews](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
-
----
-
 ### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
 2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
+
+---
+
+### [Longevità, i consigli degli esperti per un cuore d'acciaio: niente alcol e più cibi integrali - Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
+
+2026-04-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
 
 ---
 
@@ -108,27 +108,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### ['Don’t be embarrassed about bowel cancer, get help before it’s too late' - Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJSYWxIWm5WcnlvRFAzcGo4elIyVlVFeU9DNFlVRW9CTTFnM3VQcFVwQko2bVN2SVBWWXlSbVBZWElIcFJjbnpmdHRRZ1hVYmREOXdiM25nS3FqYXRmRlhVNTdJVl9VOTliVTY3anFhMHlNM3ZpRHE3RTlMQzBodm5QVXo4VUFjZEFfeV9QbjRQTFNiSGVR0gGcAUFVX3lxTE85VXVnSXhqbHFSVzhVLU4xX0RlTDFsZGZFN09Wb1RudWRta2Q0bVl4bFM4UjlMMjhVSUhxWFIyWHJYMkxmVVhQdUtFcWJ4VmkwUmcyeU5hOVBCVnFESmduN09LMjdfSmE0ZFBxeW5PM3VwYzZQVWFRZm5kYTE5R295akdoMEJ0N1dHd0FyU1FkU3JsUU52WjRqdDYwTw?oc=5)
-
----
-
 ### [Sclerosi multipla, ecco come "uccide" i neuroni](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemJrVjhhVmNHVFRoM3hmaV9VWFR3R0lmaE1pMm1UeUxkb0U0blZWbWZDTFI1WEp1TzBySHpEMURpN2dmUnlLa003WUo3TVpMN3p6NEpmdU9qVkY3Ukc4S3J4bjdFYlkwc2R1UXRpQk9WemhpNmVTT3BpeTd2bGlMT2pnbFdKbGpxNkRJZENJYWVwM0U3Z0pEQVVBd0VYb2p5WVdrN2d0Y0JibWfSAWhBVV95cUxOcVNMRjRzLUhDNUV5dXBDY2FIWm9jRlpCQ3Vva001M05XdXF2ak9nYWRhUGdiZThUT1phdTNxX0w5alkzTnZlOF81Ukk3cFZnWUo1LTJkc0cwVW1iWVplNVBRWHhUeGczcg?oc=5)
 
 2026-04-01 <span class="news-indication-tag">sclerosi multipla</span>
 
 來源：[Tgcom24](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemJrVjhhVmNHVFRoM3hmaV9VWFR3R0lmaE1pMm1UeUxkb0U0blZWbWZDTFI1WEp1TzBySHpEMURpN2dmUnlLa003WUo3TVpMN3p6NEpmdU9qVkY3Ukc4S3J4bjdFYlkwc2R1UXRpQk9WemhpNmVTT3BpeTd2bGlMT2pnbFdKbGpxNkRJZENJYWVwM0U3Z0pEQVVBd0VYb2p5WVdrN2d0Y0JibWfSAWhBVV95cUxOcVNMRjRzLUhDNUV5dXBDY2FIWm9jRlpCQ3Vva001M05XdXF2ak9nYWRhUGdiZThUT1phdTNxX0w5alkzTnZlOF81Ukk3cFZnWUo1LTJkc0cwVW1iWVplNVBRWHhUeGczcg?oc=5)
-
----
-
-### [Public Health Wales issues statement on rise in cases of Cicada Covid variant - North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXdUUHJqWnZxZTN4dDNYUnBJSXM3NnRFbEVDeGIzdVFpR1d4bnhrU3FBb1F5VkhiQk5ZRFlHYmxoOUY5M0NZV2lyQ2c2UTRVbXMwTFBDM25qYVVFNFNqVjZpcHNkTXVDcTZBc0I3ZE1IZkRKcU9lN3d2ZlVfYkx0c3BqUFVSV2hoQXVzYU5FQk05SGRsUFdhZEhwTQ?oc=5)
-
-2026-04-01 <span class="news-indication-tag">MS</span>
-
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXdUUHJqWnZxZTN4dDNYUnBJSXM3NnRFbEVDeGIzdVFpR1d4bnhrU3FBb1F5VkhiQk5ZRFlHYmxoOUY5M0NZV2lyQ2c2UTRVbXMwTFBDM25qYVVFNFNqVjZpcHNkTXVDcTZBc0I3ZE1IZkRKcU9lN3d2ZlVfYkx0c3BqUFVSV2hoQXVzYU5FQk05SGRsUFdhZEhwTQ?oc=5)
 
 ---
 
