@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（18 則）
+
+### [7 días en 7 noticias, 1 cifra y 1 frase: lo imperdible del 27 de marzo al 2 de abril de 2026](https://news.google.com/rss/articles/CBMisgFBVV95cUxQamI4dE9xV3NZNm9BS29ZYUhkYmVWVFNBeEdYaTJuTXJCQU9KdHBqcXF4VC1ENlp0WkxVcEpYcURVWVE4SGlXa0hiUk1CTHFwOEpkUGFOSUxYSkJoSS1KeHRKZDBiWkhYV09rV0VuN1Fub0NlZEpabGJtYU9xcWpNQ3hjTVNXdDlBeVdxMk02NUl5VU1hVFJTV2g2Nl9oTUZ6b0lRbEpWVmVfdS0tN1BVcFJB?oc=5)
+
+2026-04-03 <span class="news-indication-tag">fibrilación auricular</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxQamI4dE9xV3NZNm9BS29ZYUhkYmVWVFNBeEdYaTJuTXJCQU9KdHBqcXF4VC1ENlp0WkxVcEpYcURVWVE4SGlXa0hiUk1CTHFwOEpkUGFOSUxYSkJoSS1KeHRKZDBiWkhYV09rV0VuN1Fub0NlZEpabGJtYU9xcWpNQ3hjTVNXdDlBeVdxMk02NUl5VU1hVFJTV2g2Nl9oTUZ6b0lRbEpWVmVfdS0tN1BVcFJB?oc=5)
+
+---
+
+### [Il vaccino antinfluenzale protegge da infarto e ictus - Corriere del Ticino](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWpqSGZrMF9OUEgwMlIya1ljbHlGa0xES1cycG9IWmRyeVA0cWp4Nk9pcVRnTGFwZWN2aEZfcnhMcGdBR0NVSk1OdkJkRUJCNUNvRXNDbHpiQkttMVZCTXBpeGcwTlJjNklpZHNUZ3Q4TWhqbzFuajJuNVZRUjNwOGNMWnZaeE9zV2dLaw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">ictus</span>
+
+來源：[Corriere del Ticino](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWpqSGZrMF9OUEgwMlIya1ljbHlGa0xES1cycG9IWmRyeVA0cWp4Nk9pcVRnTGFwZWN2aEZfcnhMcGdBR0NVSk1OdkJkRUJCNUNvRXNDbHpiQkttMVZCTXBpeGcwTlJjNklpZHNUZ3Q4TWhqbzFuajJuNVZRUjNwOGNMWnZaeE9zV2dLaw?oc=5)
+
+---
 
 ### [Tonno decongelato, rimesso nel freezer e cucinato: una coppia di piacentini finisce in ospedale per sindrome sgombroide - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM1puZUhOOWY3NkVHZTlGSldabHFuRTduTlJzQXJnQUFEZ2NaUDJJTm1RZHBsLWt2S2dqRl82bHZrclJPMW5wYzBJRFYzcHJPNUxlWTU3OTYyOTEtakxRajB5YlZqNE1PMHFBWE1uVzRtVm83MXRuakd0YjhGLTMydzNScGRuZkwwWktGMjJzckJfVVFPRjNxZ05icjhsNTNLWnlYVTFsN0VvUGoyMzQ2M2VEVHFzZlk0NldFN1g2bFdfaXotRklSVEdUb05hSlk2N1p0V2p0TG5nTmVTRzNzWngtS181T3huV1dfUVV1bDZHRzA2UVVXbzFlalAwaDg?oc=5)
 
@@ -68,11 +84,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Paula Echevarría (48 años): "Desayuno café con leche de avena, un bol de fruta y una tostada con aceite. Depende del día, le pongo jamón, pavo o aguacate"](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ1U3b19GLWVwSzNncGljeUJVc0lmdnhhSnBBTG5DQmZfUFZDOGlqNlA1U3Vnc3dtczc3VktkUW5Fd0JjLUNBVEVCTTB4QjlPRG50dGFjcjBsVlVtd3FoaDZicllHVHJCMHlwZXpneUh5YjJjcWg5QlJpdmh2NUZsei04NHJqWFFsandUUlZRZzBmRlRWS0F6dVc4dVJxcnYwcExDeGd0V3R4LUhDaUhYNlN3bWFhdjE5enpyQ1pWRjBzbnYydjNzbFozd0VvOXA0S01LT19fa3VkSWR5OGEyRjVUcVVWT2lyOU9BTU9mZEM0UXREQlY0clo4bFZiM0xqTTQ4NFAyWmdVb0lKc2c?oc=5)
+### [Infarto e ictus, i nove comandamenti della prevenzione a tavola - la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
 
-2026-04-03 <span class="news-indication-tag">AF</span>
+2026-04-03 <span class="news-indication-tag">ictus</span>
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ1U3b19GLWVwSzNncGljeUJVc0lmdnhhSnBBTG5DQmZfUFZDOGlqNlA1U3Vnc3dtczc3VktkUW5Fd0JjLUNBVEVCTTB4QjlPRG50dGFjcjBsVlVtd3FoaDZicllHVHJCMHlwZXpneUh5YjJjcWg5QlJpdmh2NUZsei04NHJqWFFsandUUlZRZzBmRlRWS0F6dVc4dVJxcnYwcExDeGd0V3R4LUhDaUhYNlN3bWFhdjE5enpyQ1pWRjBzbnYydjNzbFozd0VvOXA0S01LT19fa3VkSWR5OGEyRjVUcVVWT2lyOU9BTU9mZEM0UXREQlY0clo4bFZiM0xqTTQ4NFAyWmdVb0lKc2c?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
 
 ---
 
@@ -97,14 +113,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-04-02 <span class="news-indication-tag">AF</span>
 
 來源：[Aurora Israel](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdWFJS0VieHBJVXdXU1RRQXRQd2QxMV9VQ2lvaUsxa1Voa2s4VHFkTmVvX0psNUJZQ3hNd2N5WWF2WmVyWWlOSjMzZ094bVRPaUpNVGtIRmUtbnFNVVYzMVh2QTNWVG9zbW41S3B2UHlNT3pXZmZNZ2Y3djFoRG5pZHJtRXdxYnBsVlZyd1BRTHBtVVYwZkVUa0JWMkp2ckstejdRVllGc0t1S1luQWxmeg?oc=5)
-
----
-
-### [Los científicos alertan: los microplásticos podrían afectar a la capacidad de limpieza celular del sistema inmunitario - Meteored España](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVcxTFUxQ1RRNGtETy0tQ24wYXRMbGcyZmRIWjlEUTgtNWVKbEo4dGJfdnZWM0dpeGV2d21HYjI3aHk1b2RucXMzMFBRY1BDWGNMNUZpQkxvcVVEY3JyeWdYbXlSTk1abFdjSnp6ZG92WjBTMHY1bXlObXJHNlloa1hzcmVaVVRUMVFsWnI5TXB2VU9qT3V0bmRVSFp0OTlQWlQtVFhWMnNta0JsdTRQTG5HVE9Qc0hCaG1iTjhHQXFSeXZ1aThPZnBhYTZWakdLcXhWQw?oc=5)
-
-2026-04-02 <span class="news-indication-tag">AF</span>
-
-來源：[Meteored España](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVcxTFUxQ1RRNGtETy0tQ24wYXRMbGcyZmRIWjlEUTgtNWVKbEo4dGJfdnZWM0dpeGV2d21HYjI3aHk1b2RucXMzMFBRY1BDWGNMNUZpQkxvcVVEY3JyeWdYbXlSTk1abFdjSnp6ZG92WjBTMHY1bXlObXJHNlloa1hzcmVaVVRUMVFsWnI5TXB2VU9qT3V0bmRVSFp0OTlQWlQtVFhWMnNta0JsdTRQTG5HVE9Qc0hCaG1iTjhHQXFSeXZ1aThPZnBhYTZWakdLcXhWQw?oc=5)
 
 ---
 
@@ -137,22 +145,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-04-02 <span class="news-indication-tag">obesidad</span>
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZEg1ZHk4WWtlSjRrSUZYSk1KeFJJTHhEZW0xRkVLUURNZHkyWmNxMll0NTJYQWZsZ2tRaGlrWERGQTFBTThxZjN6dHVGQnFUX1NrNXBKV0NsTl9kV3ozLUFhWGpXV2RnVGU2OUFnM0VBNXNPbFktRXAxTnk4M25SR3NkSWE3eXQwSDNVUkV3NjhRVDV0R2RxVG1zU2R5T0tOSE1BX2J0ZjQ0SkR0bUtRRjVpa2RUR3l2dmFXVzd2MzQ2MVNzUnZVSkhwS3hZQ2tqTURZUkRrQ0VMM2VxdWZfZUZFcGZ4M3NzMVZJS2tLWS1QbV9sY0NtT1FxY0VMakU2Vi01Snd5Y1hQWklnZ3c?oc=5)
-
----
-
-### [Longevità, i consigli degli esperti per un cuore d'acciaio: niente alcol e più cibi integrali - Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
-
-2026-04-02 <span class="news-indication-tag">ictus</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
-
----
-
-### [First cases of mosquito-borne virus found in blackbirds in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
-
-2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
 
 ---
 
@@ -193,30 +185,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-04-02 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd2VrVHVUVXVKT3NCVWNraDduTDIxLUR3aE5NczFXcHFDeHdWS0FzRWNFWEJhS0NRdU1qX3k1TWZla2FzYVJoSnNCR24wc09GQWZrZEt5SDJySlRnR2hyNWhoWG9fX2dhN1J1Q1VPLWswUzR1UmtNTWg1c1ptWWZIWTlIREpwOVdRYk51MVNkMlVRcVhLdWg4X0NCYzM4RXJtYWd2N004UEE0RnpaVlpGbzRMWUZSYWpROTNNSVRROUs1c2Ztby1yS20zZFNmWHY2TzRhaWNmSGJ3cFpX?oc=5)
-
----
-
-### [22YO Convinced She’s Losing Her Mind After Hearing Voices, ER Visit Reveals The Shocking Truth - Bored Panda](https://news.google.com/rss/articles/CBMidEFVX3lxTE02TFJYdU1QUkFZaWlrV2RZQ3BwQWdtdkZ5OTI0U2Z3UEVla2lSNXhvRDlvcXVHWFRta3kwVGxTbm9iU2lwOWROS0dVUWQ3U05oTm1hY3BUdUJrSUVWV3dIaExpOGEzZEx6UVF4ck1pd3R2dERq?oc=5)
-
-2026-04-02 <span class="news-indication-tag">AF</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMidEFVX3lxTE02TFJYdU1QUkFZaWlrV2RZQ3BwQWdtdkZ5OTI0U2Z3UEVla2lSNXhvRDlvcXVHWFRta3kwVGxTbm9iU2lwOWROS0dVUWQ3U05oTm1hY3BUdUJrSUVWV3dIaExpOGEzZEx6UVF4ck1pd3R2dERq?oc=5)
-
----
-
-### [Arrojan luz sobre el papel del bazo en la recuperación tras un ictus - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWRjYVgzVV9LN0lDLVJIQm5waUxSY0NEWFRKLWpRY1pqRjJZTWxjV1FrTEhORXJjRHpRS2pIWjZZSzQ2ZnBiS2RSZGVsVm1TYjVFZ0EzalYwcktXc3k2RzNOZ3B0QWY5aWNrbWdkendPWFdlYzJDREllS1hweWs2ajFabDFxWkhuYTk1dTc5MHNGZjdMcTJwZmZQbUowMHJwb0M3NENiNzVkeWVkeV84V2Rqa1dmUzF4TEM3MXBWd9IBtAFBVV95cUxOc1k1UmMzOFF1cXEzQXBkVFJsUVA2dWR3ZGZLNkcyTVJtMl9NbFMybTNabzRmZ1NvbGtlS2J3Q3g1Y1dMZmJiY0lCdVp5eU9tM0JFdjRyUnFVSGFIU1JiY0FqYXBOdmJJOFJuUmpydWVfTXBQMDNSVFVPX3d6T3ZNMWFRRV9pWmlFSEFYTjFKUmVzbFZlZDlHRnpfUGo3VzJsRDU0enFPNGsxV3hWbXZKdWIxcEY?oc=5)
-
-2026-04-01 <span class="news-indication-tag">ictus</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWRjYVgzVV9LN0lDLVJIQm5waUxSY0NEWFRKLWpRY1pqRjJZTWxjV1FrTEhORXJjRHpRS2pIWjZZSzQ2ZnBiS2RSZGVsVm1TYjVFZ0EzalYwcktXc3k2RzNOZ3B0QWY5aWNrbWdkendPWFdlYzJDREllS1hweWs2ajFabDFxWkhuYTk1dTc5MHNGZjdMcTJwZmZQbUowMHJwb0M3NENiNzVkeWVkeV84V2Rqa1dmUzF4TEM3MXBWd9IBtAFBVV95cUxOc1k1UmMzOFF1cXEzQXBkVFJsUVA2dWR3ZGZLNkcyTVJtMl9NbFMybTNabzRmZ1NvbGtlS2J3Q3g1Y1dMZmJiY0lCdVp5eU9tM0JFdjRyUnFVSGFIU1JiY0FqYXBOdmJJOFJuUmpydWVfTXBQMDNSVFVPX3d6T3ZNMWFRRV9pWmlFSEFYTjFKUmVzbFZlZDlHRnpfUGo3VzJsRDU0enFPNGsxV3hWbXZKdWIxcEY?oc=5)
-
----
-
-### [L'intelligenza artificiale sta trovando cure per malattie considerate incurabili come il Parkinson - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMihAJBVV95cUxPMktQU29zejBuV004eUxhOTVHZzg0YndTX3RQNTlzZHZtTVBYR0huMXhfaXNZSzd4SFJLZDdJSmxHUWl1MTVjV0dCX3h3c3dOYUhaTHV0YlBacXRRQ3RCZjd3RXQwWElIREc2aG4yMmVLY0wyNGU3MV9vZlpjNG53aTF1VFBlTGFIalg2ODhXSVNzbmZSZjFieE5LTFdzV2tRZ1F4NUN3ZVJTMG1LdzZsMGlvdkNFN0t3OFVHcThmbmtmeWVUQ0s1dkZCVjBPdEZwSXYtZlNsNU5WX2RSRlFJZnFCWVBiQ3hKWFpmN3Z2bU1DY01WZVNtLTREMWVhS09sTWpaN9IByAFBVV95cUxPNVlfMW5JTUFXaktzTUtuN2huRDF1R0dOYVkzWllTZzE4N3NVY1BVU1h2cF8wX0tJM2ZpS1RyckhwZDNic3cxUUE1Y0owamNmYldEcVNlbUNEbGlpWG1NbjVHWUo0SGhHdG0zQnZsMllDQndhWnFDYkZxaTJCYWRBMjlzT3JtVVZOalJhcWNFcnYwa3VLTWlNbWtrckUxanBFeGc4M2lfV1puSzhJSnpyUWItaHI4eEprd2lfOFQ4c1lzYkJHUldhZw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">AF</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMihAJBVV95cUxPMktQU29zejBuV004eUxhOTVHZzg0YndTX3RQNTlzZHZtTVBYR0huMXhfaXNZSzd4SFJLZDdJSmxHUWl1MTVjV0dCX3h3c3dOYUhaTHV0YlBacXRRQ3RCZjd3RXQwWElIREc2aG4yMmVLY0wyNGU3MV9vZlpjNG53aTF1VFBlTGFIalg2ODhXSVNzbmZSZjFieE5LTFdzV2tRZ1F4NUN3ZVJTMG1LdzZsMGlvdkNFN0t3OFVHcThmbmtmeWVUQ0s1dkZCVjBPdEZwSXYtZlNsNU5WX2RSRlFJZnFCWVBiQ3hKWFpmN3Z2bU1DY01WZVNtLTREMWVhS09sTWpaN9IByAFBVV95cUxPNVlfMW5JTUFXaktzTUtuN2huRDF1R0dOYVkzWllTZzE4N3NVY1BVU1h2cF8wX0tJM2ZpS1RyckhwZDNic3cxUUE1Y0owamNmYldEcVNlbUNEbGlpWG1NbjVHWUo0SGhHdG0zQnZsMllDQndhWnFDYkZxaTJCYWRBMjlzT3JtVVZOalJhcWNFcnYwa3VLTWlNbWtrckUxanBFeGc4M2lfV1puSzhJSnpyUWItaHI4eEprd2lfOFQ4c1lzYkJHUldhZw?oc=5)
 
 ---
 

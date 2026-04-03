@@ -48,7 +48,7 @@ permalink: /news/treprostinil-sodium/
 
 2026-04-02 <span class="news-indication-tag">hipertensión</span>
 
-來源：[animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnU4ZzhqeFkyRjYtTzB5Z0dhSEk4cGhEbFQtNVdfaDhMT2VndGppZ0pUcDRVNWN1T25wUUpTY3Jna25tSHNVdUcybHpDaXdrMXI4SmhHU1JMNDZmcXhCbG9PRnpBRVRCUHoyZGJxbEV3dHhiZmRRS1FVbzZlUi1iaVRKbUhfWU9zNEExMHRnZXNIRXcxUEZKQXRQVGpmYTdhUF9XbDA3V1hWd2l0NmVyTlU0WEdvVmhXaDZsWXVkSWhSMkNPT1E?oc=5)
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnU4ZzhqeFkyRjYtTzB5Z0dhSEk4cGhEbFQtNVdfaDhMT2VndGppZ0pUcDRVNWN1T25wUUpTY3Jna25tSHNVdUcybHpDaXdrMXI4SmhHU1JMNDZmcXhCbG9PRnpBRVRCUHoyZGJxbEV3dHhiZmRRS1FVbzZlUi1iaVRKbUhfWU9zNEExMHRnZXNIRXcxUEZKQXRQVGpmYTdhUF9XbDA3V1hWd2l0NmVyTlU0WEdvVmhXaDZsWXVkSWhSMkNPT1E?oc=5)
 
 ---
 

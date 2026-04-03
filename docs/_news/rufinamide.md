@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rufinamide</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,63 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（28 則）
+
+### [Wie Brustkrebs-Screenings überraschend Herzkrankheiten erkennen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+2026-04-03 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+---
+
+### [‘Cicada’, la nueva variante BA 3.2 de COVID que se expande por Estados Unidos: estos son sus síntomas - Diario AS](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUEt5QmZaRWhraEw4Z3ZfSU9XRDVScWRoR1Zja3FvZmxER3BacENQdzNoZFZSdWE1TlpILWl5RTlMSHFPVC1fd1dob2RPeW9LVkZzaVEydkFvc1RobmotMlFpRXQwcFlJTmIzeTBWVHNyWnM0WTduaE9uei1DNHZDSlAwU3ctQ0VMOUVfVDZOM0tNckVnRkxybVoybEU0S0o4TW1CYjdSOVRtMUswOVlSdFVmOUx2ZzZUNjctT1B0OU9ZSTRyQzk4UTQxb3ozTzMzWWhfaFBFQWpMd9IB7gFBVV95cUxOV250LTBwRjdyMmVsY1RoZm40VWtWLThoWVBweDZ6bDREWnJNOXJ3LUNrVG9MRUZUQzBfT2VmNGQxSGxaN3J5S3l3aTRCS2tmU0VsNHFwc1N0OWtRVkh0Q09ObFQtNmwyWGtnVWdMMTR4ZlhFeG9RMmx3MEl6YXJIUkhjRHFIc1lDc1ZLN2ppSFlzRmh2M2ZpZ0Fpai1JeFJoQWFIWllKT2p3aTBwMFgyR2hGelpudXRuS1RPVDI0VVdvb3pmOEE1c2s2d184ODlJa3o0VWhKUnVtNURWSWVyNWlpbWphNWpoZE1GbXV3?oc=5)
+
+2026-04-03 <span class="news-indication-tag">MS</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUEt5QmZaRWhraEw4Z3ZfSU9XRDVScWRoR1Zja3FvZmxER3BacENQdzNoZFZSdWE1TlpILWl5RTlMSHFPVC1fd1dob2RPeW9LVkZzaVEydkFvc1RobmotMlFpRXQwcFlJTmIzeTBWVHNyWnM0WTduaE9uei1DNHZDSlAwU3ctQ0VMOUVfVDZOM0tNckVnRkxybVoybEU0S0o4TW1CYjdSOVRtMUswOVlSdFVmOUx2ZzZUNjctT1B0OU9ZSTRyQzk4UTQxb3ozTzMzWWhfaFBFQWpMd9IB7gFBVV95cUxOV250LTBwRjdyMmVsY1RoZm40VWtWLThoWVBweDZ6bDREWnJNOXJ3LUNrVG9MRUZUQzBfT2VmNGQxSGxaN3J5S3l3aTRCS2tmU0VsNHFwc1N0OWtRVkh0Q09ObFQtNmwyWGtnVWdMMTR4ZlhFeG9RMmx3MEl6YXJIUkhjRHFIc1lDc1ZLN2ppSFlzRmh2M2ZpZ0Fpai1JeFJoQWFIWllKT2p3aTBwMFgyR2hGelpudXRuS1RPVDI0VVdvb3pmOEE1c2s2d184ODlJa3o0VWhKUnVtNURWSWVyNWlpbWphNWpoZE1GbXV3?oc=5)
+
+---
+
+### [Woman, 40, took creatine for 100 days and shared everything it changed](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
+
+2026-04-03 <span class="news-indication-tag">MS</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
+
+---
+
+### [Australie. Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+
+---
+
+### [Multivitamine bremsen die biologische Alterung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHpGOUxILWNhdTgtSTF4cGlkdzA4cGQ3SE5fRHE1YklLWGdKM1NfdEJkaERkLWVKbVhQZFY1THNzdERrQVBfQkQxX2g0M0dRaHZUVmMyV3RfZkJ6SzVlOExiTVhUUmNNNjFGa1UweWZyQTdQSl96eTh1MmhmbGhkWERyUE16UkVIQjRsYWRZOEhNakF0NE9WcGY3YU5HLWZWcWdTamdzdWU?oc=5)
+
+2026-04-03 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHpGOUxILWNhdTgtSTF4cGlkdzA4cGQ3SE5fRHE1YklLWGdKM1NfdEJkaERkLWVKbVhQZFY1THNzdERrQVBfQkQxX2g0M0dRaHZUVmMyV3RfZkJ6SzVlOExiTVhUUmNNNjFGa1UweWZyQTdQSl96eTh1MmhmbGhkWERyUE16UkVIQjRsYWRZOEhNakF0NE9WcGY3YU5HLWZWcWdTamdzdWU?oc=5)
+
+---
+
+### [Pollen allergy season is here and getting longer every year, but not because of climate change](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2dUTk9kMlpwekdyU3FFRWJiOFVTRDc0aFotVXRZTm1hdVh0U2d6X01IbjBQbkJvWE1Lam4yYk5NOEpqZDJvUmhwcVdiMFE5T2tNWTJiak5xQjktV1UzMVRPSUQtaFNweDBxRkxHZEdlc1NOaGhnSk1JZVcxSElUbWFTVFY2SkhCYkVzVGtMMUZ2VFNCM3ljNm5zcHRKUkEwTGU5QTVtR0ZFOGRx?oc=5)
+
+2026-04-03 <span class="news-indication-tag">MS</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2dUTk9kMlpwekdyU3FFRWJiOFVTRDc0aFotVXRZTm1hdVh0U2d6X01IbjBQbkJvWE1Lam4yYk5NOEpqZDJvUmhwcVdiMFE5T2tNWTJiak5xQjktV1UzMVRPSUQtaFNweDBxRkxHZEdlc1NOaGhnSk1JZVcxSElUbWFTVFY2SkhCYkVzVGtMMUZ2VFNCM3ljNm5zcHRKUkEwTGU5QTVtR0ZFOGRx?oc=5)
+
+---
+
+### [Pesticides et cancer : une étude majeure met en évidence des liens inquiétants - Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+
+---
 
 ### [El cribado del cáncer de colon: la clave para detectarlo a tiempo y salvar vidas - Cadena SER](https://news.google.com/rss/articles/CBMizwFBVV95cUxNajloSGdzdHh4ejRhaDRmRFJVaWdjdEdVTWljZ2xMVHhkM2p5YWFXTVg4bWhjanNMYWkydVlmblY0YmlQWGEzQW9JdThHSmVadmE2V1JrUEVBcEtBYlZxeDhMREhwRDdsVVIyVWtXeWZ2UVl4c1RyVTVOWmZvUXpFXzVXaWlOWWNQZ2hFMTBJcnNtdG14SHlsaXpWSnl5c0tkX3NPSV9pcUtFSVduSGNFaS14VDBtSU8tbGRlTjVFRmRSdmNtZVQ3RFV3X3NVU0nSAeMBQVVfeXFMTW83TFdmNzN1b2tFQ003MnAxd0lhbFhOSGFudjVNV0JRMmxzYjY2RVNMTW1NSzJTSmpuQzFYX2VwQWdwSFZSZXFPRHEzUnU0cUwzazFZX2N0S1FPSHFNRTZaeEthUDcxTlFDN0ZRVkhwWW1TMjYzQWg3UEViTDdJWENlS214ZTh4d180Slhxc1NMazhGNEZ0Q3V4N0pVbExfalB3czNVMjZaQnNqN0hubTZSMFp3WmV0NTBSeHNzSDJkdE13bzRiMjMyZDFpcFdoUW4tQXNTblhYMXN2SFdvM1lKRUE?oc=5)
 
@@ -76,14 +132,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Eating two foods helps lower cholesterol 'similar to statins' - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NkMktNOWhSOWN0Y1l6dVVKVE5mWEJQQWhXbVFxYVFCSjV0eXRyTkJ5TG1OXzVMT2l3Z0dXQmlsWGpHeVVSRDRwbUEyV3RudDdudlJvU2UyNXlYM1c1dWhsT21hUHdYM1doSXM0UTRzYnplNHFnVElueWRWSk5lX2xTZFgtR1h60gGOAUFVX3lxTFBKWTR6NUNVcGFhY29aVmpSWGZpMEZ1VkR4UGVacUtRdy1PYlJPNkxfZmRVM3RMSU9XeTZGdFMtSkoybUtDSm85UFJ0TWllZTIxS04yRkg5X2g1ZWJndzc4T0FnSHN4RjRmeGRwMWpQZk1Kc3FzX24za1BwUjNySF95X29fWF9WcjZZejNmVHc?oc=5)
-
-2026-04-03 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NkMktNOWhSOWN0Y1l6dVVKVE5mWEJQQWhXbVFxYVFCSjV0eXRyTkJ5TG1OXzVMT2l3Z0dXQmlsWGpHeVVSRDRwbUEyV3RudDdudlJvU2UyNXlYM1c1dWhsT21hUHdYM1doSXM0UTRzYnplNHFnVElueWRWSk5lX2xTZFgtR1h60gGOAUFVX3lxTFBKWTR6NUNVcGFhY29aVmpSWGZpMEZ1VkR4UGVacUtRdy1PYlJPNkxfZmRVM3RMSU9XeTZGdFMtSkoybUtDSm85UFJ0TWllZTIxS04yRkg5X2g1ZWJndzc4T0FnSHN4RjRmeGRwMWpQZk1Kc3FzX24za1BwUjNySF95X29fWF9WcjZZejNmVHc?oc=5)
-
----
-
 ### [UKHSA Alerts on Rising Shigella Cases and Drug Resistance](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
 
 2026-04-03 <span class="news-indication-tag">MS</span>
@@ -97,14 +145,6 @@ permalink: /news/rufinamide/
 2026-04-02 <span class="news-indication-tag">tumor</span>
 
 來源：[Estense.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXFMaWJzRGJfRGlBQkxUVmQ2YUlhQWV0bkR6RWFjWVNlZTdVcW9fSE1xUU1zSXkzYllUWVBGUmpiYUZxTFV1b2pYWThRT0h3VnFvZzgzUlk1T2d1U3VhcF93SjhKVjlJSF81MlZWRXRuZEtTR1l2cS04SWs5MENkV0I4WTQyNEtDV3Rjak55eERBald0cTJKSnVQZ0dxYkdRX2tEb2xxN1U1WU1vcUl3b2xIYw?oc=5)
-
----
-
-### [Woman, 40, took creatine for 100 days and shared everything it changed](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
-
-2026-04-02 <span class="news-indication-tag">MS</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFMtcHlZc0NEWFpfanF2cGVNNXFWbWpaeUJLNUNyWk5tc05YakgxSVQ0SFFFMVlyeFlFeWhJSXA1ajA3YWhGWDJHbjFxZWM0WGZ6WXAydHlfVVFBak9JUEg0MHFXckM3M242VC03b2pmS3dLclB0MGpKTW43M3RHZXU4VnhDOW0tY0hwTUI1N3RlTk5Fa05PeTJwVXltWGs?oc=5)
 
 ---
 
@@ -132,11 +172,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [First cases of mosquito-borne virus found in blackbirds in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+### [Il microbiota tumorale: una nuova frontiera nella biologia del cancro](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
 
-2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-02 <span class="news-indication-tag">tumor</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+來源：[agi.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
 
 ---
 
@@ -172,27 +212,27 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Health officials monitoring new Cicada variant of Covid-19 as cases rise in Wales](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2hTZW84ZldPOXhzSGRVVW1MdFVrMVpTSU5BcVN5aVZVVmZGbUljRFM0NmZSNkVSUFZZZjRhSEJyYlJzTmdURXZmXzlxdUthd1pVTlNPMkRsZGtlcXJNMTJCNk9UTVpzZnpBSmZzbXNvYWZBamRCc3pQUkZTelJLQm92aGJNU0JRcUM4ZkFsZHNLSlVTaklUcVc1ZlE2NGxVVnFuLUVNd3VCM2RPSnVhMGp3WEtaVkt3YVE?oc=5)
-
-2026-04-02 <span class="news-indication-tag">MS</span>
-
-來源：[Wrexham.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2hTZW84ZldPOXhzSGRVVW1MdFVrMVpTSU5BcVN5aVZVVmZGbUljRFM0NmZSNkVSUFZZZjRhSEJyYlJzTmdURXZmXzlxdUthd1pVTlNPMkRsZGtlcXJNMTJCNk9UTVpzZnpBSmZzbXNvYWZBamRCc3pQUkZTelJLQm92aGJNU0JRcUM4ZkFsZHNLSlVTaklUcVc1ZlE2NGxVVnFuLUVNd3VCM2RPSnVhMGp3WEtaVkt3YVE?oc=5)
-
----
-
-### [Indisponibilité d’Alepsal (tous dosages) : des alternatives existent](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDRrYkpSblM1YTcyRTNzcHdsaEJNUkdKcVBNUkNNU0VRZ0I2d3FCLWVsanA4dHA4RjFUOUp0bnlING1udW5kNUdNR0o2NFlCV2gydXYwczFDNE9YM3hnVG9zeTNBSjE1dy1iTXZHV0xBenY1QTdDZVMzZ2dFQVVQWFhkc01YSkpIcVg0Nmw1akprRWRBZW9JdWFmZG9rRVZJMDExalpKemhwSnB0U2Z4MHhIRVlERTN0WkY4QjFETFl6SUhMOUh5ZUpBZzRMWi1kNVNpQk9yYw?oc=5)
+### [Indisponibilité d’Alepsal (tous dosages) : des alternatives existent - Ordre National des Pharmaciens](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDRrYkpSblM1YTcyRTNzcHdsaEJNUkdKcVBNUkNNU0VRZ0I2d3FCLWVsanA4dHA4RjFUOUp0bnlING1udW5kNUdNR0o2NFlCV2gydXYwczFDNE9YM3hnVG9zeTNBSjE1dy1iTXZHV0xBenY1QTdDZVMzZ2dFQVVQWFhkc01YSkpIcVg0Nmw1akprRWRBZW9JdWFmZG9rRVZJMDExalpKemhwSnB0U2Z4MHhIRVlERTN0WkY4QjFETFl6SUhMOUh5ZUpBZzRMWi1kNVNpQk9yYw?oc=5)
 
 2026-04-02 <span class="news-indication-tag">Epilepsie</span>
 
-來源：[ordre.pharmacien.fr](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDRrYkpSblM1YTcyRTNzcHdsaEJNUkdKcVBNUkNNU0VRZ0I2d3FCLWVsanA4dHA4RjFUOUp0bnlING1udW5kNUdNR0o2NFlCV2gydXYwczFDNE9YM3hnVG9zeTNBSjE1dy1iTXZHV0xBenY1QTdDZVMzZ2dFQVVQWFhkc01YSkpIcVg0Nmw1akprRWRBZW9JdWFmZG9rRVZJMDExalpKemhwSnB0U2Z4MHhIRVlERTN0WkY4QjFETFl6SUhMOUh5ZUpBZzRMWi1kNVNpQk9yYw?oc=5)
+來源：[Ordre National des Pharmaciens](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDRrYkpSblM1YTcyRTNzcHdsaEJNUkdKcVBNUkNNU0VRZ0I2d3FCLWVsanA4dHA4RjFUOUp0bnlING1udW5kNUdNR0o2NFlCV2gydXYwczFDNE9YM3hnVG9zeTNBSjE1dy1iTXZHV0xBenY1QTdDZVMzZ2dFQVVQWFhkc01YSkpIcVg0Nmw1akprRWRBZW9JdWFmZG9rRVZJMDExalpKemhwSnB0U2Z4MHhIRVlERTN0WkY4QjFETFl6SUhMOUh5ZUpBZzRMWi1kNVNpQk9yYw?oc=5)
 
 ---
 
-### [UK tourists return with virus that ‘makes you ill for 3 years’ from 25 holiday hotspots - full list - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9JWXREUWlSUi1VaGpEa0gtc1lIUkJKQlY0RGE0WnZQWUN6OVR2V1FxNGpQMkx3ZG1yX0V3dkNPeS1FaXdjZEdxakc5dzkxOWhoTHkwOEZncjRkTDF4aTlNT05GcXZhdnYwWlRNX21hRHVSXzdPRkV1UVVnQdIBgAFBVV95cUxPQy1jOW12M19qV25pVjQ1OEpBSEQ2NFNyXy1SUTU0NXpVYzR0NkF0WDVWcTdfQWlIUGRaSzRSUUlvdHdEdkltMHk4NnlrdXVFNi0wTzBOV2pvWl9CR2dSSnhYZHdsWGdsXy0ySnd1MUI0b0U3UThwdFRhRWpZRkUtQw?oc=5)
+### [Big rise in UK tourists returning from 25 destinations with 'nasty virus' full list](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUFUaUI5OXdzajFVYmFFWTRQRGRfQ0I2cnB4N3NYUDdHMm5uMUhNc0Q4TE9MenRTb29Hb1puUTd6WTJaNV9aTktFQzZDZTVIMGhxNWdHOUpfR0VYazJxRHNfUWpIb1g0RWFWZFlGb3NQcEV1d2RBbnVaVWgyMTZBNU1rMkLSAYoBQVVfeXFMUHNfaS1oMDFHS0dKOXVza2d3UjE1NHFSOVZOWHF3RmtYZ1BKU25FWUl1Z3dzZXBkb1R2ZVZBUlhIOUx5dW1FOWxNaUJfbGVEcGI1NHZqbEl0UzBsM2lYVmJ3WEY0UVlYS3hZMERKOVo3OU5QaXVYcGJPZzFVbGVWWkhVdDFkZjlmUFdR?oc=5)
 
 2026-04-02 <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9JWXREUWlSUi1VaGpEa0gtc1lIUkJKQlY0RGE0WnZQWUN6OVR2V1FxNGpQMkx3ZG1yX0V3dkNPeS1FaXdjZEdxakc5dzkxOWhoTHkwOEZncjRkTDF4aTlNT05GcXZhdnYwWlRNX21hRHVSXzdPRkV1UVVnQdIBgAFBVV95cUxPQy1jOW12M19qV25pVjQ1OEpBSEQ2NFNyXy1SUTU0NXpVYzR0NkF0WDVWcTdfQWlIUGRaSzRSUUlvdHdEdkltMHk4NnlrdXVFNi0wTzBOV2pvWl9CR2dSSnhYZHdsWGdsXy0ySnd1MUI0b0U3UThwdFRhRWpZRkUtQw?oc=5)
+來源：[liverpoolecho.co.uk](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUFUaUI5OXdzajFVYmFFWTRQRGRfQ0I2cnB4N3NYUDdHMm5uMUhNc0Q4TE9MenRTb29Hb1puUTd6WTJaNV9aTktFQzZDZTVIMGhxNWdHOUpfR0VYazJxRHNfUWpIb1g0RWFWZFlGb3NQcEV1d2RBbnVaVWgyMTZBNU1rMkLSAYoBQVVfeXFMUHNfaS1oMDFHS0dKOXVza2d3UjE1NHFSOVZOWHF3RmtYZ1BKU25FWUl1Z3dzZXBkb1R2ZVZBUlhIOUx5dW1FOWxNaUJfbGVEcGI1NHZqbEl0UzBsM2lYVmJ3WEY0UVlYS3hZMERKOVo3OU5QaXVYcGJPZzFVbGVWWkhVdDFkZjlmUFdR?oc=5)
+
+---
+
+### [Public Health Wales issues statement on Cicada Covid variant as cases rise - Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzczQ28zWFVkZ1dlcjZ5QXlHTWpsSlZpSXRRRHpPMHpmT3p0Z1FuTlpHMVk4NjlkTzZWZ2VxYU5XWDJrcjZLVHl5M2xINUVlLUg0T2JhMGVNUGFoWjRHNVVXTGY4dnlOYUN5RDg1VktTMVNmWTNPY0hvbER1WnMyWjd4b2d4eDBpMVJZemlPannSAZYBQVVfeXFMTU1USUpPTlFxaGJyNS1LT1VOSk4zSkstWDE3MVc3bV9MM2hkRTZieG5WcmRadG5USGFlN3V5SVVkU1dzSHh6aUphd0dpR2NmNFZ2MU13WUNMT1VkV0owSU5SSlVQTF8wX3gtMHFGTUUtejlBNlVrYzVLRDRzWEFQdUJWaFE3ZWFZWWhZTDNEcVFOSzRfR2Rn?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzczQ28zWFVkZ1dlcjZ5QXlHTWpsSlZpSXRRRHpPMHpmT3p0Z1FuTlpHMVk4NjlkTzZWZ2VxYU5XWDJrcjZLVHl5M2xINUVlLUg0T2JhMGVNUGFoWjRHNVVXTGY4dnlOYUN5RDg1VktTMVNmWTNPY0hvbER1WnMyWjd4b2d4eDBpMVJZemlPannSAZYBQVVfeXFMTU1USUpPTlFxaGJyNS1LT1VOSk4zSkstWDE3MVc3bV9MM2hkRTZieG5WcmRadG5USGFlN3V5SVVkU1dzSHh6aUphd0dpR2NmNFZ2MU13WUNMT1VkV0owSU5SSlVQTF8wX3gtMHFGTUUtejlBNlVrYzVLRDRzWEFQdUJWaFE3ZWFZWWhZTDNEcVFOSzRfR2Rn?oc=5)
 
 ---
 
@@ -216,7 +256,7 @@ permalink: /news/rufinamide/
 
 2026-04-02 <span class="news-indication-tag">tumor</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
+來源：[agi.it](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
 
 ---
 
@@ -225,30 +265,6 @@ permalink: /news/rufinamide/
 2026-04-01 <span class="news-indication-tag">cancro</span>
 
 來源：[Ticinonline](https://news.google.com/rss/articles/CBMitgFBVV95cUxQclFObjlqUDdPQ3Zwdm9neFBRMkNsSjRWZFVfbkJWM0t5RnFIZ1RMYnl0dUgtTTVwT0VCZDk5XzlKaFhURWhVQ1ZfencxVGl1Wm1hVXM3NFZaTnFzaTBiNkpDSkFIOU4tTE9ZdENhZjlwa1UxU3BDX0RXSHFCd1NzNzFlZ2dnSjBLb2FCNnFQNG9QY1VGWUt4bU5WMjlhZjRlZy1UNHVKSzhzZ2ZRSWNITVdUY005Zw?oc=5)
-
----
-
-### [“Ora che abbiamo scoperto come avanza il cancro possiamo individuare il suo punto debole” - la Repubblica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXBXSmo0NThIVFNuZ25ad0Z4NXktWFl4eXdaRWh0SXM4SFVVbEs5ZXl0MG1mbXZvci10bEJKWUdiVUxqUEUyTlBFUmhOaVVjSzR0OXBfUDNRR0VQeW51c21tVF9EUF8yTUt0SXBiejBRX2lneVh2TWI4c0czOXZ2ZnB6aU9kR21Qcy13c0wtMFJIdzV6ZUFzTURNSThTZ3JlYm9nZTFQdFZaQdIBrwFBVV95cUxQSEVweXNwT2RKSGxDNGhuUXdYSm05dFdwdGdUNlZtUlpaQzRBSUs0UmxiQlBSMDZXaFFIUGVSS0Z6b2N6UkUyeHVfYUtWYU9sVDZRWnVfVEZzVHVkelg3N1dhOWFyTEpCZndtaVNXRWR5QkVVZ2J0YXJ5Wm5ZaXlaTTl2VTJ6ZnFXY2xCNlBsRnloNFpkWEZxRms3cWlpS3FRdzNETGY2R1kwVFhjNDl3?oc=5)
-
-2026-04-01 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXBXSmo0NThIVFNuZ25ad0Z4NXktWFl4eXdaRWh0SXM4SFVVbEs5ZXl0MG1mbXZvci10bEJKWUdiVUxqUEUyTlBFUmhOaVVjSzR0OXBfUDNRR0VQeW51c21tVF9EUF8yTUt0SXBiejBRX2lneVh2TWI4c0czOXZ2ZnB6aU9kR21Qcy13c0wtMFJIdzV6ZUFzTURNSThTZ3JlYm9nZTFQdFZaQdIBrwFBVV95cUxQSEVweXNwT2RKSGxDNGhuUXdYSm05dFdwdGdUNlZtUlpaQzRBSUs0UmxiQlBSMDZXaFFIUGVSS0Z6b2N6UkUyeHVfYUtWYU9sVDZRWnVfVEZzVHVkelg3N1dhOWFyTEpCZndtaVNXRWR5QkVVZ2J0YXJ5Wm5ZaXlaTTl2VTJ6ZnFXY2xCNlBsRnloNFpkWEZxRms3cWlpS3FRdzNETGY2R1kwVFhjNDl3?oc=5)
-
----
-
-### [Detectan un factor clave en la secreción anormal de insulina en tumores pancreáticos comunes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVndRV29KOE82TmN2WWRCY2dVX19nMHI2YTU2SnVMd1ZKQkVmUkEwVGRCRHdQZUhjT3k0a3lxWi0zU1pqRXlsU0tpc2ZGWmNCamRkX3RxejRiem9zckJ5Z2k4ZEk2Z2JXSzRCZlNhVVpOaGRJaXZVUUF0SnE5MW1MSmpMMFhFbkluUzdvdWpDUHQzMlppUWZaa3l6NHN6RmwzZzFxT00xVDVUc3NDbnBDVWV2czJpSDJQZ1IycGNwY3c0UdIBvAFBVV95cUxNNHRPSmktSXF1TVhUZ1dxZlViSzJMQ0F2S2hnaVBtLS1uM0poVXpTMHVoU3pfeENhSEJfaHJmYVV3OTdBRHdpSW0xNzhfZHdSOFBrSS1uYnpra08xQjRNa1RjX0ZUTWZYbG5EajZBY3lZeXZMZkY5NmpKM0Rpa1BqVDcwNHNPQmNiWEE0bF9YNHpGRTBscHB4X1ctWlB2N2RFUFlfNGhyUHVWczEtNnJtNUdaQXJ1dm4zd1kybw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVndRV29KOE82TmN2WWRCY2dVX19nMHI2YTU2SnVMd1ZKQkVmUkEwVGRCRHdQZUhjT3k0a3lxWi0zU1pqRXlsU0tpc2ZGWmNCamRkX3RxejRiem9zckJ5Z2k4ZEk2Z2JXSzRCZlNhVVpOaGRJaXZVUUF0SnE5MW1MSmpMMFhFbkluUzdvdWpDUHQzMlppUWZaa3l6NHN6RmwzZzFxT00xVDVUc3NDbnBDVWV2czJpSDJQZ1IycGNwY3c0UdIBvAFBVV95cUxNNHRPSmktSXF1TVhUZ1dxZlViSzJMQ0F2S2hnaVBtLS1uM0poVXpTMHVoU3pfeENhSEJfaHJmYVV3OTdBRHdpSW0xNzhfZHdSOFBrSS1uYnpra08xQjRNa1RjX0ZUTWZYbG5EajZBY3lZeXZMZkY5NmpKM0Rpa1BqVDcwNHNPQmNiWEE0bF9YNHpGRTBscHB4X1ctWlB2N2RFUFlfNGhyUHVWczEtNnJtNUdaQXJ1dm4zd1kybw?oc=5)
-
----
-
-### [I’m a dentist - there are signs of cancer I can spot BEFORE you open your mouth - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
-
-2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
 ---
 

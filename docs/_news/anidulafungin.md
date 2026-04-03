@@ -14,7 +14,7 @@ permalink: /news/anidulafungin/
 ---
 
 <p class="key-answer" data-question="Anidulafungin 有什麼相關新聞？">
-<strong>Anidulafungin</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Anidulafungin</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/anidulafungin/
 <p><a href="{{ '/drugs/anidulafungin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
+
+### [Wie Brustkrebs-Screenings überraschend Herzkrankheiten erkennen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+2026-04-03 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+---
+
+### [Australie. Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+
+---
+
+### [Pesticides et cancer : une étude majeure met en évidence des liens inquiétants - Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+
+---
 
 ### [El cribado del cáncer de colon: la clave para detectarlo a tiempo y salvar vidas - Cadena SER](https://news.google.com/rss/articles/CBMizwFBVV95cUxNajloSGdzdHh4ejRhaDRmRFJVaWdjdEdVTWljZ2xMVHhkM2p5YWFXTVg4bWhjanNMYWkydVlmblY0YmlQWGEzQW9JdThHSmVadmE2V1JrUEVBcEtBYlZxeDhMREhwRDdsVVIyVWtXeWZ2UVl4c1RyVTVOWmZvUXpFXzVXaWlOWWNQZ2hFMTBJcnNtdG14SHlsaXpWSnl5c0tkX3NPSV9pcUtFSVduSGNFaS14VDBtSU8tbGRlTjVFRmRSdmNtZVQ3RFV3X3NVU0nSAeMBQVVfeXFMTW83TFdmNzN1b2tFQ003MnAxd0lhbFhOSGFudjVNV0JRMmxzYjY2RVNMTW1NSzJTSmpuQzFYX2VwQWdwSFZSZXFPRHEzUnU0cUwzazFZX2N0S1FPSHFNRTZaeEthUDcxTlFDN0ZRVkhwWW1TMjYzQWg3UEViTDdJWENlS214ZTh4d180Slhxc1NMazhGNEZ0Q3V4N0pVbExfalB3czNVMjZaQnNqN0hubTZSMFp3WmV0NTBSeHNzSDJkdE13bzRiMjMyZDFpcFdoUW4tQXNTblhYMXN2SFdvM1lKRUE?oc=5)
 
@@ -100,6 +124,14 @@ permalink: /news/anidulafungin/
 
 ---
 
+### [Il microbiota tumorale: una nuova frontiera nella biologia del cancro](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
+
+2026-04-02 <span class="news-indication-tag">tumor</span>
+
+來源：[agi.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
+
+---
+
 ### [Wie ein ungewöhnlicher Ansatz Krebszellen über ihre Energiequellen angreift](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVDJrR2cxVmFnd0dTVDFUS2xYRUdpcnNYc2RkX3lqZmgtWmVxMl9oWlRqQzJsTmg0S3pvRWVZaXpYS1cxZzBWVUpwN1E1VTlUOFU0b0t4VkhZOXhiOVdWNFVFVHpxMTdLVFZXYTFCMmtSSk1wZ2JUWHY1a25TdkZuNllxYWtFWjdDM3JUanVaSlJWeGVWNUQwT2xSVzhIWnJrNnFydEluLTJncEJlTlF2YkV2bjEyM1NMdzBzVlhBd1Z5Mkt5SEozc095MVhwOFpoREwzSkFwSk9XSGJFWjFLVFF6QXpEMG8?oc=5)
 
 2026-04-02 <span class="news-indication-tag">Krebs</span>
@@ -136,7 +168,7 @@ permalink: /news/anidulafungin/
 
 2026-04-02 <span class="news-indication-tag">tumor</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
+來源：[agi.it](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
 
 ---
 
@@ -145,30 +177,6 @@ permalink: /news/anidulafungin/
 2026-04-01 <span class="news-indication-tag">cancro</span>
 
 來源：[Ticinonline](https://news.google.com/rss/articles/CBMitgFBVV95cUxQclFObjlqUDdPQ3Zwdm9neFBRMkNsSjRWZFVfbkJWM0t5RnFIZ1RMYnl0dUgtTTVwT0VCZDk5XzlKaFhURWhVQ1ZfencxVGl1Wm1hVXM3NFZaTnFzaTBiNkpDSkFIOU4tTE9ZdENhZjlwa1UxU3BDX0RXSHFCd1NzNzFlZ2dnSjBLb2FCNnFQNG9QY1VGWUt4bU5WMjlhZjRlZy1UNHVKSzhzZ2ZRSWNITVdUY005Zw?oc=5)
-
----
-
-### [“Ora che abbiamo scoperto come avanza il cancro possiamo individuare il suo punto debole” - la Repubblica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXBXSmo0NThIVFNuZ25ad0Z4NXktWFl4eXdaRWh0SXM4SFVVbEs5ZXl0MG1mbXZvci10bEJKWUdiVUxqUEUyTlBFUmhOaVVjSzR0OXBfUDNRR0VQeW51c21tVF9EUF8yTUt0SXBiejBRX2lneVh2TWI4c0czOXZ2ZnB6aU9kR21Qcy13c0wtMFJIdzV6ZUFzTURNSThTZ3JlYm9nZTFQdFZaQdIBrwFBVV95cUxQSEVweXNwT2RKSGxDNGhuUXdYSm05dFdwdGdUNlZtUlpaQzRBSUs0UmxiQlBSMDZXaFFIUGVSS0Z6b2N6UkUyeHVfYUtWYU9sVDZRWnVfVEZzVHVkelg3N1dhOWFyTEpCZndtaVNXRWR5QkVVZ2J0YXJ5Wm5ZaXlaTTl2VTJ6ZnFXY2xCNlBsRnloNFpkWEZxRms3cWlpS3FRdzNETGY2R1kwVFhjNDl3?oc=5)
-
-2026-04-01 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXBXSmo0NThIVFNuZ25ad0Z4NXktWFl4eXdaRWh0SXM4SFVVbEs5ZXl0MG1mbXZvci10bEJKWUdiVUxqUEUyTlBFUmhOaVVjSzR0OXBfUDNRR0VQeW51c21tVF9EUF8yTUt0SXBiejBRX2lneVh2TWI4c0czOXZ2ZnB6aU9kR21Qcy13c0wtMFJIdzV6ZUFzTURNSThTZ3JlYm9nZTFQdFZaQdIBrwFBVV95cUxQSEVweXNwT2RKSGxDNGhuUXdYSm05dFdwdGdUNlZtUlpaQzRBSUs0UmxiQlBSMDZXaFFIUGVSS0Z6b2N6UkUyeHVfYUtWYU9sVDZRWnVfVEZzVHVkelg3N1dhOWFyTEpCZndtaVNXRWR5QkVVZ2J0YXJ5Wm5ZaXlaTTl2VTJ6ZnFXY2xCNlBsRnloNFpkWEZxRms3cWlpS3FRdzNETGY2R1kwVFhjNDl3?oc=5)
-
----
-
-### [Detectan un factor clave en la secreción anormal de insulina en tumores pancreáticos comunes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVndRV29KOE82TmN2WWRCY2dVX19nMHI2YTU2SnVMd1ZKQkVmUkEwVGRCRHdQZUhjT3k0a3lxWi0zU1pqRXlsU0tpc2ZGWmNCamRkX3RxejRiem9zckJ5Z2k4ZEk2Z2JXSzRCZlNhVVpOaGRJaXZVUUF0SnE5MW1MSmpMMFhFbkluUzdvdWpDUHQzMlppUWZaa3l6NHN6RmwzZzFxT00xVDVUc3NDbnBDVWV2czJpSDJQZ1IycGNwY3c0UdIBvAFBVV95cUxNNHRPSmktSXF1TVhUZ1dxZlViSzJMQ0F2S2hnaVBtLS1uM0poVXpTMHVoU3pfeENhSEJfaHJmYVV3OTdBRHdpSW0xNzhfZHdSOFBrSS1uYnpra08xQjRNa1RjX0ZUTWZYbG5EajZBY3lZeXZMZkY5NmpKM0Rpa1BqVDcwNHNPQmNiWEE0bF9YNHpGRTBscHB4X1ctWlB2N2RFUFlfNGhyUHVWczEtNnJtNUdaQXJ1dm4zd1kybw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVndRV29KOE82TmN2WWRCY2dVX19nMHI2YTU2SnVMd1ZKQkVmUkEwVGRCRHdQZUhjT3k0a3lxWi0zU1pqRXlsU0tpc2ZGWmNCamRkX3RxejRiem9zckJ5Z2k4ZEk2Z2JXSzRCZlNhVVpOaGRJaXZVUUF0SnE5MW1MSmpMMFhFbkluUzdvdWpDUHQzMlppUWZaa3l6NHN6RmwzZzFxT00xVDVUc3NDbnBDVWV2czJpSDJQZ1IycGNwY3c0UdIBvAFBVV95cUxNNHRPSmktSXF1TVhUZ1dxZlViSzJMQ0F2S2hnaVBtLS1uM0poVXpTMHVoU3pfeENhSEJfaHJmYVV3OTdBRHdpSW0xNzhfZHdSOFBrSS1uYnpra08xQjRNa1RjX0ZUTWZYbG5EajZBY3lZeXZMZkY5NmpKM0Rpa1BqVDcwNHNPQmNiWEE0bF9YNHpGRTBscHB4X1ctWlB2N2RFUFlfNGhyUHVWczEtNnJtNUdaQXJ1dm4zd1kybw?oc=5)
-
----
-
-### [I’m a dentist - there are signs of cancer I can spot BEFORE you open your mouth - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
-
-2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
 ---
 

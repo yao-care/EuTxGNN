@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avanafil</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（22 則）
+
+### [Wie Brustkrebs-Screenings überraschend Herzkrankheiten erkennen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+2026-04-03 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+---
+
+### [Australie. Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+
+---
+
+### [Il vaccino antinfluenzale protegge da infarto e ictus - Corriere del Ticino](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWpqSGZrMF9OUEgwMlIya1ljbHlGa0xES1cycG9IWmRyeVA0cWp4Nk9pcVRnTGFwZWN2aEZfcnhMcGdBR0NVSk1OdkJkRUJCNUNvRXNDbHpiQkttMVZCTXBpeGcwTlJjNklpZHNUZ3Q4TWhqbzFuajJuNVZRUjNwOGNMWnZaeE9zV2dLaw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">ictus</span>
+
+來源：[Corriere del Ticino](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWpqSGZrMF9OUEgwMlIya1ljbHlGa0xES1cycG9IWmRyeVA0cWp4Nk9pcVRnTGFwZWN2aEZfcnhMcGdBR0NVSk1OdkJkRUJCNUNvRXNDbHpiQkttMVZCTXBpeGcwTlJjNklpZHNUZ3Q4TWhqbzFuajJuNVZRUjNwOGNMWnZaeE9zV2dLaw?oc=5)
+
+---
+
+### [Pesticides et cancer : une étude majeure met en évidence des liens inquiétants - Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+
+---
 
 ### [El cribado del cáncer de colon: la clave para detectarlo a tiempo y salvar vidas - Cadena SER](https://news.google.com/rss/articles/CBMizwFBVV95cUxNajloSGdzdHh4ejRhaDRmRFJVaWdjdEdVTWljZ2xMVHhkM2p5YWFXTVg4bWhjanNMYWkydVlmblY0YmlQWGEzQW9JdThHSmVadmE2V1JrUEVBcEtBYlZxeDhMREhwRDdsVVIyVWtXeWZ2UVl4c1RyVTVOWmZvUXpFXzVXaWlOWWNQZ2hFMTBJcnNtdG14SHlsaXpWSnl5c0tkX3NPSV9pcUtFSVduSGNFaS14VDBtSU8tbGRlTjVFRmRSdmNtZVQ3RFV3X3NVU0nSAeMBQVVfeXFMTW83TFdmNzN1b2tFQ003MnAxd0lhbFhOSGFudjVNV0JRMmxzYjY2RVNMTW1NSzJTSmpuQzFYX2VwQWdwSFZSZXFPRHEzUnU0cUwzazFZX2N0S1FPSHFNRTZaeEthUDcxTlFDN0ZRVkhwWW1TMjYzQWg3UEViTDdJWENlS214ZTh4d180Slhxc1NMazhGNEZ0Q3V4N0pVbExfalB3czNVMjZaQnNqN0hubTZSMFp3WmV0NTBSeHNzSDJkdE13bzRiMjMyZDFpcFdoUW4tQXNTblhYMXN2SFdvM1lKRUE?oc=5)
 
@@ -84,6 +116,14 @@ permalink: /news/avanafil/
 
 ---
 
+### [Infarto e ictus, i nove comandamenti della prevenzione a tavola - la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
+
+2026-04-03 <span class="news-indication-tag">ictus</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
+
+---
+
 ### [A Cona arriva il nuovo “occhio” contro i tumori: diagnosi più rapide e precise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXFMaWJzRGJfRGlBQkxUVmQ2YUlhQWV0bkR6RWFjWVNlZTdVcW9fSE1xUU1zSXkzYllUWVBGUmpiYUZxTFV1b2pYWThRT0h3VnFvZzgzUlk1T2d1U3VhcF93SjhKVjlJSF81MlZWRXRuZEtTR1l2cS04SWs5MENkV0I4WTQyNEtDV3Rjak55eERBald0cTJKSnVQZ0dxYkdRX2tEb2xxN1U1WU1vcUl3b2xIYw?oc=5)
 
 2026-04-02 <span class="news-indication-tag">tumor</span>
@@ -116,11 +156,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Longevità, i consigli degli esperti per un cuore d'acciaio: niente alcol e più cibi integrali - Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
+### [Il microbiota tumorale: una nuova frontiera nella biologia del cancro](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
 
-2026-04-02 <span class="news-indication-tag">ictus</span>
+2026-04-02 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
+來源：[agi.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
 
 ---
 
@@ -168,7 +208,7 @@ permalink: /news/avanafil/
 
 2026-04-02 <span class="news-indication-tag">tumor</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
+來源：[agi.it](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
 
 ---
 
@@ -177,38 +217,6 @@ permalink: /news/avanafil/
 2026-04-01 <span class="news-indication-tag">cancro</span>
 
 來源：[Ticinonline](https://news.google.com/rss/articles/CBMitgFBVV95cUxQclFObjlqUDdPQ3Zwdm9neFBRMkNsSjRWZFVfbkJWM0t5RnFIZ1RMYnl0dUgtTTVwT0VCZDk5XzlKaFhURWhVQ1ZfencxVGl1Wm1hVXM3NFZaTnFzaTBiNkpDSkFIOU4tTE9ZdENhZjlwa1UxU3BDX0RXSHFCd1NzNzFlZ2dnSjBLb2FCNnFQNG9QY1VGWUt4bU5WMjlhZjRlZy1UNHVKSzhzZ2ZRSWNITVdUY005Zw?oc=5)
-
----
-
-### [“Ora che abbiamo scoperto come avanza il cancro possiamo individuare il suo punto debole” - la Repubblica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXBXSmo0NThIVFNuZ25ad0Z4NXktWFl4eXdaRWh0SXM4SFVVbEs5ZXl0MG1mbXZvci10bEJKWUdiVUxqUEUyTlBFUmhOaVVjSzR0OXBfUDNRR0VQeW51c21tVF9EUF8yTUt0SXBiejBRX2lneVh2TWI4c0czOXZ2ZnB6aU9kR21Qcy13c0wtMFJIdzV6ZUFzTURNSThTZ3JlYm9nZTFQdFZaQdIBrwFBVV95cUxQSEVweXNwT2RKSGxDNGhuUXdYSm05dFdwdGdUNlZtUlpaQzRBSUs0UmxiQlBSMDZXaFFIUGVSS0Z6b2N6UkUyeHVfYUtWYU9sVDZRWnVfVEZzVHVkelg3N1dhOWFyTEpCZndtaVNXRWR5QkVVZ2J0YXJ5Wm5ZaXlaTTl2VTJ6ZnFXY2xCNlBsRnloNFpkWEZxRms3cWlpS3FRdzNETGY2R1kwVFhjNDl3?oc=5)
-
-2026-04-01 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXBXSmo0NThIVFNuZ25ad0Z4NXktWFl4eXdaRWh0SXM4SFVVbEs5ZXl0MG1mbXZvci10bEJKWUdiVUxqUEUyTlBFUmhOaVVjSzR0OXBfUDNRR0VQeW51c21tVF9EUF8yTUt0SXBiejBRX2lneVh2TWI4c0czOXZ2ZnB6aU9kR21Qcy13c0wtMFJIdzV6ZUFzTURNSThTZ3JlYm9nZTFQdFZaQdIBrwFBVV95cUxQSEVweXNwT2RKSGxDNGhuUXdYSm05dFdwdGdUNlZtUlpaQzRBSUs0UmxiQlBSMDZXaFFIUGVSS0Z6b2N6UkUyeHVfYUtWYU9sVDZRWnVfVEZzVHVkelg3N1dhOWFyTEpCZndtaVNXRWR5QkVVZ2J0YXJ5Wm5ZaXlaTTl2VTJ6ZnFXY2xCNlBsRnloNFpkWEZxRms3cWlpS3FRdzNETGY2R1kwVFhjNDl3?oc=5)
-
----
-
-### [Arrojan luz sobre el papel del bazo en la recuperación tras un ictus - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWRjYVgzVV9LN0lDLVJIQm5waUxSY0NEWFRKLWpRY1pqRjJZTWxjV1FrTEhORXJjRHpRS2pIWjZZSzQ2ZnBiS2RSZGVsVm1TYjVFZ0EzalYwcktXc3k2RzNOZ3B0QWY5aWNrbWdkendPWFdlYzJDREllS1hweWs2ajFabDFxWkhuYTk1dTc5MHNGZjdMcTJwZmZQbUowMHJwb0M3NENiNzVkeWVkeV84V2Rqa1dmUzF4TEM3MXBWd9IBtAFBVV95cUxOc1k1UmMzOFF1cXEzQXBkVFJsUVA2dWR3ZGZLNkcyTVJtMl9NbFMybTNabzRmZ1NvbGtlS2J3Q3g1Y1dMZmJiY0lCdVp5eU9tM0JFdjRyUnFVSGFIU1JiY0FqYXBOdmJJOFJuUmpydWVfTXBQMDNSVFVPX3d6T3ZNMWFRRV9pWmlFSEFYTjFKUmVzbFZlZDlHRnpfUGo3VzJsRDU0enFPNGsxV3hWbXZKdWIxcEY?oc=5)
-
-2026-04-01 <span class="news-indication-tag">ictus</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWRjYVgzVV9LN0lDLVJIQm5waUxSY0NEWFRKLWpRY1pqRjJZTWxjV1FrTEhORXJjRHpRS2pIWjZZSzQ2ZnBiS2RSZGVsVm1TYjVFZ0EzalYwcktXc3k2RzNOZ3B0QWY5aWNrbWdkendPWFdlYzJDREllS1hweWs2ajFabDFxWkhuYTk1dTc5MHNGZjdMcTJwZmZQbUowMHJwb0M3NENiNzVkeWVkeV84V2Rqa1dmUzF4TEM3MXBWd9IBtAFBVV95cUxOc1k1UmMzOFF1cXEzQXBkVFJsUVA2dWR3ZGZLNkcyTVJtMl9NbFMybTNabzRmZ1NvbGtlS2J3Q3g1Y1dMZmJiY0lCdVp5eU9tM0JFdjRyUnFVSGFIU1JiY0FqYXBOdmJJOFJuUmpydWVfTXBQMDNSVFVPX3d6T3ZNMWFRRV9pWmlFSEFYTjFKUmVzbFZlZDlHRnpfUGo3VzJsRDU0enFPNGsxV3hWbXZKdWIxcEY?oc=5)
-
----
-
-### [Detectan un factor clave en la secreción anormal de insulina en tumores pancreáticos comunes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVndRV29KOE82TmN2WWRCY2dVX19nMHI2YTU2SnVMd1ZKQkVmUkEwVGRCRHdQZUhjT3k0a3lxWi0zU1pqRXlsU0tpc2ZGWmNCamRkX3RxejRiem9zckJ5Z2k4ZEk2Z2JXSzRCZlNhVVpOaGRJaXZVUUF0SnE5MW1MSmpMMFhFbkluUzdvdWpDUHQzMlppUWZaa3l6NHN6RmwzZzFxT00xVDVUc3NDbnBDVWV2czJpSDJQZ1IycGNwY3c0UdIBvAFBVV95cUxNNHRPSmktSXF1TVhUZ1dxZlViSzJMQ0F2S2hnaVBtLS1uM0poVXpTMHVoU3pfeENhSEJfaHJmYVV3OTdBRHdpSW0xNzhfZHdSOFBrSS1uYnpra08xQjRNa1RjX0ZUTWZYbG5EajZBY3lZeXZMZkY5NmpKM0Rpa1BqVDcwNHNPQmNiWEE0bF9YNHpGRTBscHB4X1ctWlB2N2RFUFlfNGhyUHVWczEtNnJtNUdaQXJ1dm4zd1kybw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVndRV29KOE82TmN2WWRCY2dVX19nMHI2YTU2SnVMd1ZKQkVmUkEwVGRCRHdQZUhjT3k0a3lxWi0zU1pqRXlsU0tpc2ZGWmNCamRkX3RxejRiem9zckJ5Z2k4ZEk2Z2JXSzRCZlNhVVpOaGRJaXZVUUF0SnE5MW1MSmpMMFhFbkluUzdvdWpDUHQzMlppUWZaa3l6NHN6RmwzZzFxT00xVDVUc3NDbnBDVWV2czJpSDJQZ1IycGNwY3c0UdIBvAFBVV95cUxNNHRPSmktSXF1TVhUZ1dxZlViSzJMQ0F2S2hnaVBtLS1uM0poVXpTMHVoU3pfeENhSEJfaHJmYVV3OTdBRHdpSW0xNzhfZHdSOFBrSS1uYnpra08xQjRNa1RjX0ZUTWZYbG5EajZBY3lZeXZMZkY5NmpKM0Rpa1BqVDcwNHNPQmNiWEE0bF9YNHpGRTBscHB4X1ctWlB2N2RFUFlfNGhyUHVWczEtNnJtNUdaQXJ1dm4zd1kybw?oc=5)
-
----
-
-### [I’m a dentist - there are signs of cancer I can spot BEFORE you open your mouth - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
-
-2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
 ---
 

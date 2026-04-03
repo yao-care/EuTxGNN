@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vortioxetine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Depressionen: KI erleichtert Wahl des geeigneten Wirkstoffs – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG9NZl9xTnh6UUtPZDlMNFU4U3ljWmdUVVRGR01fRndXaUVxOEZCWVZMWDl6V2VkTGt4bWhXU0Noa3dQS01NS2FPNDVzWTQ2Z2JPWi1BdTN1LXpQYXVXYjlucWtPbU0wNHRGVTM0bEJMYVA3dUVuamx3QnNLMVgzUEl3dExYNXlkRXRxUTl1VEhjU29tMlNSSXdlc19DNXNWSUhNc01zcHZLX0VNR2hiYmlxTldXYXpFUEZNdnNMRFh4eWlLVXc?oc=5)
-
-2026-04-01 <span class="news-indication-tag">depression</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG9NZl9xTnh6UUtPZDlMNFU4U3ljWmdUVVRGR01fRndXaUVxOEZCWVZMWDl6V2VkTGt4bWhXU0Noa3dQS01NS2FPNDVzWTQ2Z2JPWi1BdTN1LXpQYXVXYjlucWtPbU0wNHRGVTM0bEJMYVA3dUVuamx3QnNLMVgzUEl3dExYNXlkRXRxUTl1VEhjU29tMlNSSXdlc19DNXNWSUhNc01zcHZLX0VNR2hiYmlxTldXYXpFUEZNdnNMRFh4eWlLVXc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

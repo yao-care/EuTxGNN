@@ -14,7 +14,7 @@ permalink: /news/elafibranor/
 ---
 
 <p class="key-answer" data-question="Elafibranor 有什麼相關新聞？">
-<strong>Elafibranor</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elafibranor</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,45 @@ permalink: /news/elafibranor/
 <p><a href="{{ '/drugs/elafibranor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（29 則）
+
+### [Wie Brustkrebs-Screenings überraschend Herzkrankheiten erkennen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+2026-04-03 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+---
+
+### [7 días en 7 noticias, 1 cifra y 1 frase: lo imperdible del 27 de marzo al 2 de abril de 2026](https://news.google.com/rss/articles/CBMisgFBVV95cUxQamI4dE9xV3NZNm9BS29ZYUhkYmVWVFNBeEdYaTJuTXJCQU9KdHBqcXF4VC1ENlp0WkxVcEpYcURVWVE4SGlXa0hiUk1CTHFwOEpkUGFOSUxYSkJoSS1KeHRKZDBiWkhYV09rV0VuN1Fub0NlZEpabGJtYU9xcWpNQ3hjTVNXdDlBeVdxMk02NUl5VU1hVFJTV2g2Nl9oTUZ6b0lRbEpWVmVfdS0tN1BVcFJB?oc=5)
+
+2026-04-03 <span class="news-indication-tag">fibrilación auricular</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxQamI4dE9xV3NZNm9BS29ZYUhkYmVWVFNBeEdYaTJuTXJCQU9KdHBqcXF4VC1ENlp0WkxVcEpYcURVWVE4SGlXa0hiUk1CTHFwOEpkUGFOSUxYSkJoSS1KeHRKZDBiWkhYV09rV0VuN1Fub0NlZEpabGJtYU9xcWpNQ3hjTVNXdDlBeVdxMk02NUl5VU1hVFJTV2g2Nl9oTUZ6b0lRbEpWVmVfdS0tN1BVcFJB?oc=5)
+
+---
+
+### [Australie. Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+
+---
 
 ### [Tonno decongelato, rimesso nel freezer e cucinato: una coppia di piacentini finisce in ospedale per sindrome sgombroide - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM1puZUhOOWY3NkVHZTlGSldabHFuRTduTlJzQXJnQUFEZ2NaUDJJTm1RZHBsLWt2S2dqRl82bHZrclJPMW5wYzBJRFYzcHJPNUxlWTU3OTYyOTEtakxRajB5YlZqNE1PMHFBWE1uVzRtVm83MXRuakd0YjhGLTMydzNScGRuZkwwWktGMjJzckJfVVFPRjNxZ05icjhsNTNLWnlYVTFsN0VvUGoyMzQ2M2VEVHFzZlk0NldFN1g2bFdfaXotRklSVEdUb05hSlk2N1p0V2p0TG5nTmVTRzNzWngtS181T3huV1dfUVV1bDZHRzA2UVVXbzFlalAwaDg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">AF</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM1puZUhOOWY3NkVHZTlGSldabHFuRTduTlJzQXJnQUFEZ2NaUDJJTm1RZHBsLWt2S2dqRl82bHZrclJPMW5wYzBJRFYzcHJPNUxlWTU3OTYyOTEtakxRajB5YlZqNE1PMHFBWE1uVzRtVm83MXRuakd0YjhGLTMydzNScGRuZkwwWktGMjJzckJfVVFPRjNxZ05icjhsNTNLWnlYVTFsN0VvUGoyMzQ2M2VEVHFzZlk0NldFN1g2bFdfaXotRklSVEdUb05hSlk2N1p0V2p0TG5nTmVTRzNzWngtS181T3huV1dfUVV1bDZHRzA2UVVXbzFlalAwaDg?oc=5)
+
+---
+
+### [Pesticides et cancer : une étude majeure met en évidence des liens inquiétants - Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
 
 ---
 
@@ -92,14 +124,6 @@ permalink: /news/elafibranor/
 
 ---
 
-### [Paula Echevarría (48 años): "Desayuno café con leche de avena, un bol de fruta y una tostada con aceite. Depende del día, le pongo jamón, pavo o aguacate"](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ1U3b19GLWVwSzNncGljeUJVc0lmdnhhSnBBTG5DQmZfUFZDOGlqNlA1U3Vnc3dtczc3VktkUW5Fd0JjLUNBVEVCTTB4QjlPRG50dGFjcjBsVlVtd3FoaDZicllHVHJCMHlwZXpneUh5YjJjcWg5QlJpdmh2NUZsei04NHJqWFFsandUUlZRZzBmRlRWS0F6dVc4dVJxcnYwcExDeGd0V3R4LUhDaUhYNlN3bWFhdjE5enpyQ1pWRjBzbnYydjNzbFozd0VvOXA0S01LT19fa3VkSWR5OGEyRjVUcVVWT2lyOU9BTU9mZEM0UXREQlY0clo4bFZiM0xqTTQ4NFAyWmdVb0lKc2c?oc=5)
-
-2026-04-03 <span class="news-indication-tag">AF</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ1U3b19GLWVwSzNncGljeUJVc0lmdnhhSnBBTG5DQmZfUFZDOGlqNlA1U3Vnc3dtczc3VktkUW5Fd0JjLUNBVEVCTTB4QjlPRG50dGFjcjBsVlVtd3FoaDZicllHVHJCMHlwZXpneUh5YjJjcWg5QlJpdmh2NUZsei04NHJqWFFsandUUlZRZzBmRlRWS0F6dVc4dVJxcnYwcExDeGd0V3R4LUhDaUhYNlN3bWFhdjE5enpyQ1pWRjBzbnYydjNzbFozd0VvOXA0S01LT19fa3VkSWR5OGEyRjVUcVVWT2lyOU9BTU9mZEM0UXREQlY0clo4bFZiM0xqTTQ4NFAyWmdVb0lKc2c?oc=5)
-
----
-
 ### [Cigarrillos electrónicos probablemente causan cáncer de pulmón y oral: revisión científica](https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2N3amRPRFVpbWc3aV9MOW55MHNyYkVnVVlVcElxSHRhM29TQUhSaUZldm1CLXJvTVd6Yzk2djJ1Tjlma2REeWY2bFBJWjItNFhEQ2FaWnhJUFFtWmxhMTVubUNrbmp1TFFYcVNCRnhmZTJrRnlQUllhS1hrMnFNcWhqX2R1Umx4OHhjZXJPSjdTRC1XQmYtQ1NHR1lNQWVYTk9RYVEzS3VWNXBfQkFnT09JN1E5NHRNUmdIdjVoUlJZTFVNN0HSAdoBQVVfeXFMUGpsWTNCdkFMb0N1NFJPOV9RTzFuNUJIc01MVS1PZnFpdW9wM0JMdXpnLVlrZXdFdG9DRGV1RS02UldZZlQtUXk3RU9BZ09VOVBITzZUR25obXB5TVlhTWRaUlpwRE9weXJKOENBMHotSjgtWUFLbkM1eVVJeEFjbU1LeXVRa29DeE1mSEdqSHAxc1ZxWWRVQnBnd0hlbWpQM1d1dWdSazdTTy1Bb0d0Mkd2Zlc1NzJzSW1jSTJFelRPQ21rV2NaaDFHME1OTGN0cmlSME9qRGsxbGc?oc=5)
 
 2026-04-03 <span class="news-indication-tag">AF</span>
@@ -129,14 +153,6 @@ permalink: /news/elafibranor/
 2026-04-02 <span class="news-indication-tag">tumor</span>
 
 來源：[Estense.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXFMaWJzRGJfRGlBQkxUVmQ2YUlhQWV0bkR6RWFjWVNlZTdVcW9fSE1xUU1zSXkzYllUWVBGUmpiYUZxTFV1b2pYWThRT0h3VnFvZzgzUlk1T2d1U3VhcF93SjhKVjlJSF81MlZWRXRuZEtTR1l2cS04SWs5MENkV0I4WTQyNEtDV3Rjak55eERBald0cTJKSnVQZ0dxYkdRX2tEb2xxN1U1WU1vcUl3b2xIYw?oc=5)
-
----
-
-### [Los científicos alertan: los microplásticos podrían afectar a la capacidad de limpieza celular del sistema inmunitario - Meteored España](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVcxTFUxQ1RRNGtETy0tQ24wYXRMbGcyZmRIWjlEUTgtNWVKbEo4dGJfdnZWM0dpeGV2d21HYjI3aHk1b2RucXMzMFBRY1BDWGNMNUZpQkxvcVVEY3JyeWdYbXlSTk1abFdjSnp6ZG92WjBTMHY1bXlObXJHNlloa1hzcmVaVVRUMVFsWnI5TXB2VU9qT3V0bmRVSFp0OTlQWlQtVFhWMnNta0JsdTRQTG5HVE9Qc0hCaG1iTjhHQXFSeXZ1aThPZnBhYTZWakdLcXhWQw?oc=5)
-
-2026-04-02 <span class="news-indication-tag">AF</span>
-
-來源：[Meteored España](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVcxTFUxQ1RRNGtETy0tQ24wYXRMbGcyZmRIWjlEUTgtNWVKbEo4dGJfdnZWM0dpeGV2d21HYjI3aHk1b2RucXMzMFBRY1BDWGNMNUZpQkxvcVVEY3JyeWdYbXlSTk1abFdjSnp6ZG92WjBTMHY1bXlObXJHNlloa1hzcmVaVVRUMVFsWnI5TXB2VU9qT3V0bmRVSFp0OTlQWlQtVFhWMnNta0JsdTRQTG5HVE9Qc0hCaG1iTjhHQXFSeXZ1aThPZnBhYTZWakdLcXhWQw?oc=5)
 
 ---
 
@@ -172,11 +188,11 @@ permalink: /news/elafibranor/
 
 ---
 
-### [First cases of mosquito-borne virus found in blackbirds in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+### [Il microbiota tumorale: una nuova frontiera nella biologia del cancro](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
 
-2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-02 <span class="news-indication-tag">tumor</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+來源：[agi.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
 
 ---
 
@@ -244,19 +260,11 @@ permalink: /news/elafibranor/
 
 ---
 
-### [22YO Convinced She’s Losing Her Mind After Hearing Voices, ER Visit Reveals The Shocking Truth - Bored Panda](https://news.google.com/rss/articles/CBMidEFVX3lxTE02TFJYdU1QUkFZaWlrV2RZQ3BwQWdtdkZ5OTI0U2Z3UEVla2lSNXhvRDlvcXVHWFRta3kwVGxTbm9iU2lwOWROS0dVUWQ3U05oTm1hY3BUdUJrSUVWV3dIaExpOGEzZEx6UVF4ck1pd3R2dERq?oc=5)
-
-2026-04-02 <span class="news-indication-tag">AF</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMidEFVX3lxTE02TFJYdU1QUkFZaWlrV2RZQ3BwQWdtdkZ5OTI0U2Z3UEVla2lSNXhvRDlvcXVHWFRta3kwVGxTbm9iU2lwOWROS0dVUWQ3U05oTm1hY3BUdUJrSUVWV3dIaExpOGEzZEx6UVF4ck1pd3R2dERq?oc=5)
-
----
-
 ### [Nuova cura 'pan-cancro': mix di farmaci blocca la crescita tumorale](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
 
 2026-04-02 <span class="news-indication-tag">tumor</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
+來源：[agi.it](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
 
 ---
 
@@ -265,38 +273,6 @@ permalink: /news/elafibranor/
 2026-04-01 <span class="news-indication-tag">cancro</span>
 
 來源：[Ticinonline](https://news.google.com/rss/articles/CBMitgFBVV95cUxQclFObjlqUDdPQ3Zwdm9neFBRMkNsSjRWZFVfbkJWM0t5RnFIZ1RMYnl0dUgtTTVwT0VCZDk5XzlKaFhURWhVQ1ZfencxVGl1Wm1hVXM3NFZaTnFzaTBiNkpDSkFIOU4tTE9ZdENhZjlwa1UxU3BDX0RXSHFCd1NzNzFlZ2dnSjBLb2FCNnFQNG9QY1VGWUt4bU5WMjlhZjRlZy1UNHVKSzhzZ2ZRSWNITVdUY005Zw?oc=5)
-
----
-
-### [“Ora che abbiamo scoperto come avanza il cancro possiamo individuare il suo punto debole” - la Repubblica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXBXSmo0NThIVFNuZ25ad0Z4NXktWFl4eXdaRWh0SXM4SFVVbEs5ZXl0MG1mbXZvci10bEJKWUdiVUxqUEUyTlBFUmhOaVVjSzR0OXBfUDNRR0VQeW51c21tVF9EUF8yTUt0SXBiejBRX2lneVh2TWI4c0czOXZ2ZnB6aU9kR21Qcy13c0wtMFJIdzV6ZUFzTURNSThTZ3JlYm9nZTFQdFZaQdIBrwFBVV95cUxQSEVweXNwT2RKSGxDNGhuUXdYSm05dFdwdGdUNlZtUlpaQzRBSUs0UmxiQlBSMDZXaFFIUGVSS0Z6b2N6UkUyeHVfYUtWYU9sVDZRWnVfVEZzVHVkelg3N1dhOWFyTEpCZndtaVNXRWR5QkVVZ2J0YXJ5Wm5ZaXlaTTl2VTJ6ZnFXY2xCNlBsRnloNFpkWEZxRms3cWlpS3FRdzNETGY2R1kwVFhjNDl3?oc=5)
-
-2026-04-01 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXBXSmo0NThIVFNuZ25ad0Z4NXktWFl4eXdaRWh0SXM4SFVVbEs5ZXl0MG1mbXZvci10bEJKWUdiVUxqUEUyTlBFUmhOaVVjSzR0OXBfUDNRR0VQeW51c21tVF9EUF8yTUt0SXBiejBRX2lneVh2TWI4c0czOXZ2ZnB6aU9kR21Qcy13c0wtMFJIdzV6ZUFzTURNSThTZ3JlYm9nZTFQdFZaQdIBrwFBVV95cUxQSEVweXNwT2RKSGxDNGhuUXdYSm05dFdwdGdUNlZtUlpaQzRBSUs0UmxiQlBSMDZXaFFIUGVSS0Z6b2N6UkUyeHVfYUtWYU9sVDZRWnVfVEZzVHVkelg3N1dhOWFyTEpCZndtaVNXRWR5QkVVZ2J0YXJ5Wm5ZaXlaTTl2VTJ6ZnFXY2xCNlBsRnloNFpkWEZxRms3cWlpS3FRdzNETGY2R1kwVFhjNDl3?oc=5)
-
----
-
-### [L'intelligenza artificiale sta trovando cure per malattie considerate incurabili come il Parkinson - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMihAJBVV95cUxPMktQU29zejBuV004eUxhOTVHZzg0YndTX3RQNTlzZHZtTVBYR0huMXhfaXNZSzd4SFJLZDdJSmxHUWl1MTVjV0dCX3h3c3dOYUhaTHV0YlBacXRRQ3RCZjd3RXQwWElIREc2aG4yMmVLY0wyNGU3MV9vZlpjNG53aTF1VFBlTGFIalg2ODhXSVNzbmZSZjFieE5LTFdzV2tRZ1F4NUN3ZVJTMG1LdzZsMGlvdkNFN0t3OFVHcThmbmtmeWVUQ0s1dkZCVjBPdEZwSXYtZlNsNU5WX2RSRlFJZnFCWVBiQ3hKWFpmN3Z2bU1DY01WZVNtLTREMWVhS09sTWpaN9IByAFBVV95cUxPNVlfMW5JTUFXaktzTUtuN2huRDF1R0dOYVkzWllTZzE4N3NVY1BVU1h2cF8wX0tJM2ZpS1RyckhwZDNic3cxUUE1Y0owamNmYldEcVNlbUNEbGlpWG1NbjVHWUo0SGhHdG0zQnZsMllDQndhWnFDYkZxaTJCYWRBMjlzT3JtVVZOalJhcWNFcnYwa3VLTWlNbWtrckUxanBFeGc4M2lfV1puSzhJSnpyUWItaHI4eEprd2lfOFQ4c1lzYkJHUldhZw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">AF</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMihAJBVV95cUxPMktQU29zejBuV004eUxhOTVHZzg0YndTX3RQNTlzZHZtTVBYR0huMXhfaXNZSzd4SFJLZDdJSmxHUWl1MTVjV0dCX3h3c3dOYUhaTHV0YlBacXRRQ3RCZjd3RXQwWElIREc2aG4yMmVLY0wyNGU3MV9vZlpjNG53aTF1VFBlTGFIalg2ODhXSVNzbmZSZjFieE5LTFdzV2tRZ1F4NUN3ZVJTMG1LdzZsMGlvdkNFN0t3OFVHcThmbmtmeWVUQ0s1dkZCVjBPdEZwSXYtZlNsNU5WX2RSRlFJZnFCWVBiQ3hKWFpmN3Z2bU1DY01WZVNtLTREMWVhS09sTWpaN9IByAFBVV95cUxPNVlfMW5JTUFXaktzTUtuN2huRDF1R0dOYVkzWllTZzE4N3NVY1BVU1h2cF8wX0tJM2ZpS1RyckhwZDNic3cxUUE1Y0owamNmYldEcVNlbUNEbGlpWG1NbjVHWUo0SGhHdG0zQnZsMllDQndhWnFDYkZxaTJCYWRBMjlzT3JtVVZOalJhcWNFcnYwa3VLTWlNbWtrckUxanBFeGc4M2lfV1puSzhJSnpyUWItaHI4eEprd2lfOFQ4c1lzYkJHUldhZw?oc=5)
-
----
-
-### [Detectan un factor clave en la secreción anormal de insulina en tumores pancreáticos comunes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVndRV29KOE82TmN2WWRCY2dVX19nMHI2YTU2SnVMd1ZKQkVmUkEwVGRCRHdQZUhjT3k0a3lxWi0zU1pqRXlsU0tpc2ZGWmNCamRkX3RxejRiem9zckJ5Z2k4ZEk2Z2JXSzRCZlNhVVpOaGRJaXZVUUF0SnE5MW1MSmpMMFhFbkluUzdvdWpDUHQzMlppUWZaa3l6NHN6RmwzZzFxT00xVDVUc3NDbnBDVWV2czJpSDJQZ1IycGNwY3c0UdIBvAFBVV95cUxNNHRPSmktSXF1TVhUZ1dxZlViSzJMQ0F2S2hnaVBtLS1uM0poVXpTMHVoU3pfeENhSEJfaHJmYVV3OTdBRHdpSW0xNzhfZHdSOFBrSS1uYnpra08xQjRNa1RjX0ZUTWZYbG5EajZBY3lZeXZMZkY5NmpKM0Rpa1BqVDcwNHNPQmNiWEE0bF9YNHpGRTBscHB4X1ctWlB2N2RFUFlfNGhyUHVWczEtNnJtNUdaQXJ1dm4zd1kybw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVndRV29KOE82TmN2WWRCY2dVX19nMHI2YTU2SnVMd1ZKQkVmUkEwVGRCRHdQZUhjT3k0a3lxWi0zU1pqRXlsU0tpc2ZGWmNCamRkX3RxejRiem9zckJ5Z2k4ZEk2Z2JXSzRCZlNhVVpOaGRJaXZVUUF0SnE5MW1MSmpMMFhFbkluUzdvdWpDUHQzMlppUWZaa3l6NHN6RmwzZzFxT00xVDVUc3NDbnBDVWV2czJpSDJQZ1IycGNwY3c0UdIBvAFBVV95cUxNNHRPSmktSXF1TVhUZ1dxZlViSzJMQ0F2S2hnaVBtLS1uM0poVXpTMHVoU3pfeENhSEJfaHJmYVV3OTdBRHdpSW0xNzhfZHdSOFBrSS1uYnpra08xQjRNa1RjX0ZUTWZYbG5EajZBY3lZeXZMZkY5NmpKM0Rpa1BqVDcwNHNPQmNiWEE0bF9YNHpGRTBscHB4X1ctWlB2N2RFUFlfNGhyUHVWczEtNnJtNUdaQXJ1dm4zd1kybw?oc=5)
-
----
-
-### [I’m a dentist - there are signs of cancer I can spot BEFORE you open your mouth - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
-
-2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
 ---
 

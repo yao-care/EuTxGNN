@@ -14,7 +14,7 @@ permalink: /news/lacosamide/
 ---
 
 <p class="key-answer" data-question="Lacosamide 有什麼相關新聞？">
-<strong>Lacosamide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lacosamide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/lacosamide/
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（14 則）
+
+### [7 días en 7 noticias, 1 cifra y 1 frase: lo imperdible del 27 de marzo al 2 de abril de 2026](https://news.google.com/rss/articles/CBMisgFBVV95cUxQamI4dE9xV3NZNm9BS29ZYUhkYmVWVFNBeEdYaTJuTXJCQU9KdHBqcXF4VC1ENlp0WkxVcEpYcURVWVE4SGlXa0hiUk1CTHFwOEpkUGFOSUxYSkJoSS1KeHRKZDBiWkhYV09rV0VuN1Fub0NlZEpabGJtYU9xcWpNQ3hjTVNXdDlBeVdxMk02NUl5VU1hVFJTV2g2Nl9oTUZ6b0lRbEpWVmVfdS0tN1BVcFJB?oc=5)
+
+2026-04-03 <span class="news-indication-tag">fibrilación auricular</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxQamI4dE9xV3NZNm9BS29ZYUhkYmVWVFNBeEdYaTJuTXJCQU9KdHBqcXF4VC1ENlp0WkxVcEpYcURVWVE4SGlXa0hiUk1CTHFwOEpkUGFOSUxYSkJoSS1KeHRKZDBiWkhYV09rV0VuN1Fub0NlZEpabGJtYU9xcWpNQ3hjTVNXdDlBeVdxMk02NUl5VU1hVFJTV2g2Nl9oTUZ6b0lRbEpWVmVfdS0tN1BVcFJB?oc=5)
+
+---
 
 ### [Tonno decongelato, rimesso nel freezer e cucinato: una coppia di piacentini finisce in ospedale per sindrome sgombroide - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM1puZUhOOWY3NkVHZTlGSldabHFuRTduTlJzQXJnQUFEZ2NaUDJJTm1RZHBsLWt2S2dqRl82bHZrclJPMW5wYzBJRFYzcHJPNUxlWTU3OTYyOTEtakxRajB5YlZqNE1PMHFBWE1uVzRtVm83MXRuakd0YjhGLTMydzNScGRuZkwwWktGMjJzckJfVVFPRjNxZ05icjhsNTNLWnlYVTFsN0VvUGoyMzQ2M2VEVHFzZlk0NldFN1g2bFdfaXotRklSVEdUb05hSlk2N1p0V2p0TG5nTmVTRzNzWngtS181T3huV1dfUVV1bDZHRzA2UVVXbzFlalAwaDg?oc=5)
 
@@ -65,14 +73,6 @@ permalink: /news/lacosamide/
 2026-04-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
-
----
-
-### [Paula Echevarría (48 años): "Desayuno café con leche de avena, un bol de fruta y una tostada con aceite. Depende del día, le pongo jamón, pavo o aguacate"](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ1U3b19GLWVwSzNncGljeUJVc0lmdnhhSnBBTG5DQmZfUFZDOGlqNlA1U3Vnc3dtczc3VktkUW5Fd0JjLUNBVEVCTTB4QjlPRG50dGFjcjBsVlVtd3FoaDZicllHVHJCMHlwZXpneUh5YjJjcWg5QlJpdmh2NUZsei04NHJqWFFsandUUlZRZzBmRlRWS0F6dVc4dVJxcnYwcExDeGd0V3R4LUhDaUhYNlN3bWFhdjE5enpyQ1pWRjBzbnYydjNzbFozd0VvOXA0S01LT19fa3VkSWR5OGEyRjVUcVVWT2lyOU9BTU9mZEM0UXREQlY0clo4bFZiM0xqTTQ4NFAyWmdVb0lKc2c?oc=5)
-
-2026-04-03 <span class="news-indication-tag">AF</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ1U3b19GLWVwSzNncGljeUJVc0lmdnhhSnBBTG5DQmZfUFZDOGlqNlA1U3Vnc3dtczc3VktkUW5Fd0JjLUNBVEVCTTB4QjlPRG50dGFjcjBsVlVtd3FoaDZicllHVHJCMHlwZXpneUh5YjJjcWg5QlJpdmh2NUZsei04NHJqWFFsandUUlZRZzBmRlRWS0F6dVc4dVJxcnYwcExDeGd0V3R4LUhDaUhYNlN3bWFhdjE5enpyQ1pWRjBzbnYydjNzbFozd0VvOXA0S01LT19fa3VkSWR5OGEyRjVUcVVWT2lyOU9BTU9mZEM0UXREQlY0clo4bFZiM0xqTTQ4NFAyWmdVb0lKc2c?oc=5)
 
 ---
 
@@ -100,14 +100,6 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Los científicos alertan: los microplásticos podrían afectar a la capacidad de limpieza celular del sistema inmunitario - Meteored España](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVcxTFUxQ1RRNGtETy0tQ24wYXRMbGcyZmRIWjlEUTgtNWVKbEo4dGJfdnZWM0dpeGV2d21HYjI3aHk1b2RucXMzMFBRY1BDWGNMNUZpQkxvcVVEY3JyeWdYbXlSTk1abFdjSnp6ZG92WjBTMHY1bXlObXJHNlloa1hzcmVaVVRUMVFsWnI5TXB2VU9qT3V0bmRVSFp0OTlQWlQtVFhWMnNta0JsdTRQTG5HVE9Qc0hCaG1iTjhHQXFSeXZ1aThPZnBhYTZWakdLcXhWQw?oc=5)
-
-2026-04-02 <span class="news-indication-tag">AF</span>
-
-來源：[Meteored España](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVcxTFUxQ1RRNGtETy0tQ24wYXRMbGcyZmRIWjlEUTgtNWVKbEo4dGJfdnZWM0dpeGV2d21HYjI3aHk1b2RucXMzMFBRY1BDWGNMNUZpQkxvcVVEY3JyeWdYbXlSTk1abFdjSnp6ZG92WjBTMHY1bXlObXJHNlloa1hzcmVaVVRUMVFsWnI5TXB2VU9qT3V0bmRVSFp0OTlQWlQtVFhWMnNta0JsdTRQTG5HVE9Qc0hCaG1iTjhHQXFSeXZ1aThPZnBhYTZWakdLcXhWQw?oc=5)
-
----
-
 ### [Una plataforma de análisis tisular predice la respuesta al tratamiento en gliomas pediátricos - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbzkyRmJWR1MwUk9BcjgyVWJWWjB5WW05aVZzQ3Yxbk1ZTlJtR3VGZ3N3VkhhU0VOXzMyYWpwSWFfNWNyQ0M3OXlpV3BqdDlNLWIwMzlJWUMzM282RTQ3WUhzWEFEaUNyRHlMbkR6VEJpYnZuQUZwT0tieTA5VVVha2piaGs5UnM0NzZON2RIcHNvX3Y5alhNQmFkOHZmNTg1SFJjVzZtNWI4VHo1VzdHS3R0TzRlZDNSTFdNSFhDY002d9IBvAFBVV95cUxQa01ibkNuc1Z1UUZYeFlweHVlN19oa3Bzbi1tYklxNnZjWnlzRi1FQ2M2bzhNMUF0T3JDcS1qOFRvWFpmSFBjR0RzRWxBWnJUUmRMbWZvcHFqTV8zQWl5eUZMX1U0b3plVEJJOENsS1hKM3dVcXJ0MVNDOXItQVZId0JLWlVVS3pidVo0ekd0QmVZc0ZhR0VxNGotQ3NtR2d1ZkhPVVNZRjJUUW5pNlg5Mk5fSHVLellIeW50Xw?oc=5)
 
 2026-04-02 <span class="news-indication-tag">AF</span>
@@ -124,11 +116,11 @@ permalink: /news/lacosamide/
 
 ---
 
-### [First cases of mosquito-borne virus found in blackbirds in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+### [Cioccolato: quello fondente è davvero migliore di quello al latte per la salute e per il peso? - la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHVGdVl2eG1iUmU5RHR3SGVNLThrZFhoVXY4eDQtdXozWmMzelhaSHFtYTBfT3A2UXd3Q1lrX1VWV3hwa1pzS2RNdWt2STZHTy13dG9RZk9NVFRqTWJxdFo0Qlk4WXg5VC0xM3ZsRmhfaEN2NXRKeXNscFVMVjlvblJjUUdJSEQyaFV6ZmFtUU9ZV3dlOXBDSUJHdmt3NkZ6dGpZQlFaZ25mVWhacWZEbEZRLTh1NW1mSVhWeW9pWUNMUdIBxwFBVV95cUxOMDhNTWVOYnRORTRhc0FfZFpFN0tTX1ZJdF9XV1ZveExmWnE5VWlLZUxhb01UeUwxZXZMa2gxTW92bDZEejRIdmZZbGFrdGUyZlU2dmlQczRweWJnQk5fWXlfX195Tl9CckN5VU5PMHR3V3Z3LW9STEl3MHIxQmt0ZEtHdG9CbzR6amFBYk1LTG5xSHhxSXpFXzFldlN4QkpWbnBCZDNPTmdrbmpYM2FjVHNyZ21kNDFqYnYyWlN2Y0ZGUTltM3J3?oc=5)
 
-2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">emicrania</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHVGdVl2eG1iUmU5RHR3SGVNLThrZFhoVXY4eDQtdXozWmMzelhaSHFtYTBfT3A2UXd3Q1lrX1VWV3hwa1pzS2RNdWt2STZHTy13dG9RZk9NVFRqTWJxdFo0Qlk4WXg5VC0xM3ZsRmhfaEN2NXRKeXNscFVMVjlvblJjUUdJSEQyaFV6ZmFtUU9ZV3dlOXBDSUJHdmt3NkZ6dGpZQlFaZ25mVWhacWZEbEZRLTh1NW1mSVhWeW9pWUNMUdIBxwFBVV95cUxOMDhNTWVOYnRORTRhc0FfZFpFN0tTX1ZJdF9XV1ZveExmWnE5VWlLZUxhb01UeUwxZXZMa2gxTW92bDZEejRIdmZZbGFrdGUyZlU2dmlQczRweWJnQk5fWXlfX195Tl9CckN5VU5PMHR3V3Z3LW9STEl3MHIxQmt0ZEtHdG9CbzR6amFBYk1LTG5xSHhxSXpFXzFldlN4QkpWbnBCZDNPTmdrbmpYM2FjVHNyZ21kNDFqYnYyWlN2Y0ZGUTltM3J3?oc=5)
 
 ---
 
@@ -161,22 +153,6 @@ permalink: /news/lacosamide/
 2026-04-02 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd2VrVHVUVXVKT3NCVWNraDduTDIxLUR3aE5NczFXcHFDeHdWS0FzRWNFWEJhS0NRdU1qX3k1TWZla2FzYVJoSnNCR24wc09GQWZrZEt5SDJySlRnR2hyNWhoWG9fX2dhN1J1Q1VPLWswUzR1UmtNTWg1c1ptWWZIWTlIREpwOVdRYk51MVNkMlVRcVhLdWg4X0NCYzM4RXJtYWd2N004UEE0RnpaVlpGbzRMWUZSYWpROTNNSVRROUs1c2Ztby1yS20zZFNmWHY2TzRhaWNmSGJ3cFpX?oc=5)
-
----
-
-### [22YO Convinced She’s Losing Her Mind After Hearing Voices, ER Visit Reveals The Shocking Truth - Bored Panda](https://news.google.com/rss/articles/CBMidEFVX3lxTE02TFJYdU1QUkFZaWlrV2RZQ3BwQWdtdkZ5OTI0U2Z3UEVla2lSNXhvRDlvcXVHWFRta3kwVGxTbm9iU2lwOWROS0dVUWQ3U05oTm1hY3BUdUJrSUVWV3dIaExpOGEzZEx6UVF4ck1pd3R2dERq?oc=5)
-
-2026-04-02 <span class="news-indication-tag">AF</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMidEFVX3lxTE02TFJYdU1QUkFZaWlrV2RZQ3BwQWdtdkZ5OTI0U2Z3UEVla2lSNXhvRDlvcXVHWFRta3kwVGxTbm9iU2lwOWROS0dVUWQ3U05oTm1hY3BUdUJrSUVWV3dIaExpOGEzZEx6UVF4ck1pd3R2dERq?oc=5)
-
----
-
-### [L'intelligenza artificiale sta trovando cure per malattie considerate incurabili come il Parkinson - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMihAJBVV95cUxPMktQU29zejBuV004eUxhOTVHZzg0YndTX3RQNTlzZHZtTVBYR0huMXhfaXNZSzd4SFJLZDdJSmxHUWl1MTVjV0dCX3h3c3dOYUhaTHV0YlBacXRRQ3RCZjd3RXQwWElIREc2aG4yMmVLY0wyNGU3MV9vZlpjNG53aTF1VFBlTGFIalg2ODhXSVNzbmZSZjFieE5LTFdzV2tRZ1F4NUN3ZVJTMG1LdzZsMGlvdkNFN0t3OFVHcThmbmtmeWVUQ0s1dkZCVjBPdEZwSXYtZlNsNU5WX2RSRlFJZnFCWVBiQ3hKWFpmN3Z2bU1DY01WZVNtLTREMWVhS09sTWpaN9IByAFBVV95cUxPNVlfMW5JTUFXaktzTUtuN2huRDF1R0dOYVkzWllTZzE4N3NVY1BVU1h2cF8wX0tJM2ZpS1RyckhwZDNic3cxUUE1Y0owamNmYldEcVNlbUNEbGlpWG1NbjVHWUo0SGhHdG0zQnZsMllDQndhWnFDYkZxaTJCYWRBMjlzT3JtVVZOalJhcWNFcnYwa3VLTWlNbWtrckUxanBFeGc4M2lfV1puSzhJSnpyUWItaHI4eEprd2lfOFQ4c1lzYkJHUldhZw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">AF</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMihAJBVV95cUxPMktQU29zejBuV004eUxhOTVHZzg0YndTX3RQNTlzZHZtTVBYR0huMXhfaXNZSzd4SFJLZDdJSmxHUWl1MTVjV0dCX3h3c3dOYUhaTHV0YlBacXRRQ3RCZjd3RXQwWElIREc2aG4yMmVLY0wyNGU3MV9vZlpjNG53aTF1VFBlTGFIalg2ODhXSVNzbmZSZjFieE5LTFdzV2tRZ1F4NUN3ZVJTMG1LdzZsMGlvdkNFN0t3OFVHcThmbmtmeWVUQ0s1dkZCVjBPdEZwSXYtZlNsNU5WX2RSRlFJZnFCWVBiQ3hKWFpmN3Z2bU1DY01WZVNtLTREMWVhS09sTWpaN9IByAFBVV95cUxPNVlfMW5JTUFXaktzTUtuN2huRDF1R0dOYVkzWllTZzE4N3NVY1BVU1h2cF8wX0tJM2ZpS1RyckhwZDNic3cxUUE1Y0owamNmYldEcVNlbUNEbGlpWG1NbjVHWUo0SGhHdG0zQnZsMllDQndhWnFDYkZxaTJCYWRBMjlzT3JtVVZOalJhcWNFcnYwa3VLTWlNbWtrckUxanBFeGc4M2lfV1puSzhJSnpyUWItaHI4eEprd2lfOFQ4c1lzYkJHUldhZw?oc=5)
 
 ---
 
