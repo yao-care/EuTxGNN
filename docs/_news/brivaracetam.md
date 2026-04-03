@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="Brivaracetam 有什麼相關新聞？">
-<strong>Brivaracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brivaracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/brivaracetam/
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Indisponibilité d’Alepsal (tous dosages) : des alternatives existent](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDRrYkpSblM1YTcyRTNzcHdsaEJNUkdKcVBNUkNNU0VRZ0I2d3FCLWVsanA4dHA4RjFUOUp0bnlING1udW5kNUdNR0o2NFlCV2gydXYwczFDNE9YM3hnVG9zeTNBSjE1dy1iTXZHV0xBenY1QTdDZVMzZ2dFQVVQWFhkc01YSkpIcVg0Nmw1akprRWRBZW9JdWFmZG9rRVZJMDExalpKemhwSnB0U2Z4MHhIRVlERTN0WkY4QjFETFl6SUhMOUh5ZUpBZzRMWi1kNVNpQk9yYw?oc=5)
+
+2026-04-02 <span class="news-indication-tag">Epilepsie</span>
+
+來源：[ordre.pharmacien.fr](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDRrYkpSblM1YTcyRTNzcHdsaEJNUkdKcVBNUkNNU0VRZ0I2d3FCLWVsanA4dHA4RjFUOUp0bnlING1udW5kNUdNR0o2NFlCV2gydXYwczFDNE9YM3hnVG9zeTNBSjE1dy1iTXZHV0xBenY1QTdDZVMzZ2dFQVVQWFhkc01YSkpIcVg0Nmw1akprRWRBZW9JdWFmZG9rRVZJMDExalpKemhwSnB0U2Z4MHhIRVlERTN0WkY4QjFETFl6SUhMOUh5ZUpBZzRMWi1kNVNpQk9yYw?oc=5)
+
+---
 
 
 <div class="disclaimer">

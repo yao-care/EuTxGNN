@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abacavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/abacavir/
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [Epatite A, maxi sequestro NAS Latina: 3.000 kg di frutta e verdura senza tracciabilità - Latina Oggi](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUxycnFNTUNrMmd2WGwxXzlhNDBuSWNVbVZBdS1WdWFxLWdjWEhRQWdZQm1qRGgwdHB6MnlTRE1mSzFKWEJDbzhXeTBnVWtEQWY0LVNSX1JtNkJfQUtFQllNZzJyVDlCWVFoLVgxc3pqM2twRERkV25fWndSRkJkekFUcFVIMmFKcVdoakdHMFhTT1ZaaVNxbXQyU2syZ0tjQXY4N0NIckNpbnJQbkRkREc3SlVFMVhNWm1PYlBWal82ZnJWbGRDcEFZbXM?oc=5)
-
-2026-04-02 <span class="news-indication-tag">epatite</span>
-
-來源：[Latina Oggi](https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUxycnFNTUNrMmd2WGwxXzlhNDBuSWNVbVZBdS1WdWFxLWdjWEhRQWdZQm1qRGgwdHB6MnlTRE1mSzFKWEJDbzhXeTBnVWtEQWY0LVNSX1JtNkJfQUtFQllNZzJyVDlCWVFoLVgxc3pqM2twRERkV25fWndSRkJkekFUcFVIMmFKcVdoakdHMFhTT1ZaaVNxbXQyU2syZ0tjQXY4N0NIckNpbnJQbkRkREc3SlVFMVhNWm1PYlBWal82ZnJWbGRDcEFZbXM?oc=5)
-
----
-
-### [Il boom di epatite A a Napoli e la zuppa di cozze del Giovedì santo: «Noi la serviremo ai clienti, i mitili sono sterilizzati» - Corriere Del Mezzogiorno](https://news.google.com/rss/articles/CBMitAJBVV95cUxOVjNyZm1FeEtHMmxYMUZOYVJ0bWtybXF6UXdIeDRpdEtYZVFLYWVhM1ZkUmRnaFJ5dDh6QzYtYXF5Sjc1SkdUYmkyOGxuZHI2NmZBS2RBbE1UVUFXVW9QRFhuYUpmTktqLURPYzFONmpLcUJ5OGRacnBkbGZXd19tZnhvYzV6dmZqMzlNRlF0YW5LNkpXR3VVRmtxUFo4bDFVLU84S3hsYzNKYWkzSGlteHlXMW9wTzRpMnh6dDBTT045U2NHNkVrYnpMc081bWtiNFUwWUJlc3J1bFBTV0loVDhzQkJ3V09ibVpqbWFHNFBxTlhIaFYtNGMtd2p1c1YyVzZxeTl0Nkotd3QzNjRNUnI1WG5TdjFmZ2w0VGcwckpzMEFKUVlYTFZ6TmJ5dGxuT2xpMdIBugJBVV95cUxNWjBLRmRCejRBTmk1MWpWdGdlOWplZ21CX2hZaEdPeVhjZjRWUzJiTkpZYk9ObXAwb2xwOTdXRVRkTl9DR2JCQktmNVRpd2lIOFhzcmtxZVc4WFpzWlQwS0kxa0U1UF9VQzhVbEpJelJ2dWl6dVR4cmVnSzMxYWVnXzY3QWpDVVpEY2RWclB1cnBhcDBodi1jekJkampjUUhCb3Fabkc0T1BjNVlGZWJLMHBSOXF3ZGpQeTFJTVdseUlJaC03OS1NWnhXRmVQUmZJMUlfU2pUcTRIaFlCVXNZSDQxcm1LaW5KdU5vQkFxVF9jWjl1SUVXVTV2SGxBQTRCMzFRUS10WUFxZ0wwT0tjTXVMODVMQjBKY2Y0cjJoTVBPdFFFQTlWZmVhRkVtZTVGWnFBelVBX2JpZw?oc=5)
+### [Zuppa di cozze del Giovedì Santo, le parole dei ristoratori: «Gamberi, freselle e bufala: vince il menu alternativo» - Il Mattino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWJtQkw2Uk5LQ3Y0T1VPUFc1X0JEWXlEdHN3MGMzWGE4YW5XSnN6OG5rMlowanZ2OWVUQWJRLW5JRllVbkh3QUJ0bm02UVpJYXFzTUwwbG9IbDc4NmZseEJZaEZBY0syc3BuMTJWU0l1b3RIT21vRkFtRG1iZFh1cnMyblBvYldqU2RodUtOS2FMandsTmpSbUVJSDVKV1htc1h6R0VxeGpoNGJPZnB6U01zdWk2enFlRnJFMTVSYkVHMEtRdHY4eGJSVHBsZ0dVVFF3?oc=5)
 
 2026-04-02 <span class="news-indication-tag">epatite</span>
 
-來源：[Corriere Del Mezzogiorno](https://news.google.com/rss/articles/CBMitAJBVV95cUxOVjNyZm1FeEtHMmxYMUZOYVJ0bWtybXF6UXdIeDRpdEtYZVFLYWVhM1ZkUmRnaFJ5dDh6QzYtYXF5Sjc1SkdUYmkyOGxuZHI2NmZBS2RBbE1UVUFXVW9QRFhuYUpmTktqLURPYzFONmpLcUJ5OGRacnBkbGZXd19tZnhvYzV6dmZqMzlNRlF0YW5LNkpXR3VVRmtxUFo4bDFVLU84S3hsYzNKYWkzSGlteHlXMW9wTzRpMnh6dDBTT045U2NHNkVrYnpMc081bWtiNFUwWUJlc3J1bFBTV0loVDhzQkJ3V09ibVpqbWFHNFBxTlhIaFYtNGMtd2p1c1YyVzZxeTl0Nkotd3QzNjRNUnI1WG5TdjFmZ2w0VGcwckpzMEFKUVlYTFZ6TmJ5dGxuT2xpMdIBugJBVV95cUxNWjBLRmRCejRBTmk1MWpWdGdlOWplZ21CX2hZaEdPeVhjZjRWUzJiTkpZYk9ObXAwb2xwOTdXRVRkTl9DR2JCQktmNVRpd2lIOFhzcmtxZVc4WFpzWlQwS0kxa0U1UF9VQzhVbEpJelJ2dWl6dVR4cmVnSzMxYWVnXzY3QWpDVVpEY2RWclB1cnBhcDBodi1jekJkampjUUhCb3Fabkc0T1BjNVlGZWJLMHBSOXF3ZGpQeTFJTVdseUlJaC03OS1NWnhXRmVQUmZJMUlfU2pUcTRIaFlCVXNZSDQxcm1LaW5KdU5vQkFxVF9jWjl1SUVXVTV2SGxBQTRCMzFRUS10WUFxZ0wwT0tjTXVMODVMQjBKY2Y0cjJoTVBPdFFFQTlWZmVhRkVtZTVGWnFBelVBX2JpZw?oc=5)
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWJtQkw2Uk5LQ3Y0T1VPUFc1X0JEWXlEdHN3MGMzWGE4YW5XSnN6OG5rMlowanZ2OWVUQWJRLW5JRllVbkh3QUJ0bm02UVpJYXFzTUwwbG9IbDc4NmZseEJZaEZBY0syc3BuMTJWU0l1b3RIT21vRkFtRG1iZFh1cnMyblBvYldqU2RodUtOS2FMandsTmpSbUVJSDVKV1htc1h6R0VxeGpoNGJPZnB6U01zdWk2enFlRnJFMTVSYkVHMEtRdHY4eGJSVHBsZ0dVVFF3?oc=5)
 
 ---
 
@@ -65,14 +57,6 @@ permalink: /news/abacavir/
 2026-04-02 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
-
----
-
-### [Kurz vor Ostern: Amt warnt alle Italien-Urlauber vor beliebtem Essen](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGpPNlBvRGJOb2tYN2pOdV84azV5dER5RW9lSXVrbUtEWkUzWGM2V0V4UG9YS2ZESGZ3MEtHV25qczRncFBMSndsTU9yN21UUUtUZlRuYUhkX1EwNi0zaXJnTll1enZYQ3ZIUHFERi1HYVZCQTduMHNGMnhnLUJnaDRscF9xVDdVNnRsb2c0TUF6NC04dWlvbHZVdkhycUdUZWxwX1l3UHhwZk5MSy1vcFZlS2ROT0FsZHBiUEIwRFFueEpPbmtrUWRuOG9LN1g1UFZaUFRJS0I5dGZKUm9SanFJSzgxbTRNWXZDZW1VUlB6ZjdROXB0R2Fn?oc=5)
-
-2026-04-01 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Ruhr24](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGpPNlBvRGJOb2tYN2pOdV84azV5dER5RW9lSXVrbUtEWkUzWGM2V0V4UG9YS2ZESGZ3MEtHV25qczRncFBMSndsTU9yN21UUUtUZlRuYUhkX1EwNi0zaXJnTll1enZYQ3ZIUHFERi1HYVZCQTduMHNGMnhnLUJnaDRscF9xVDdVNnRsb2c0TUF6NC04dWlvbHZVdkhycUdUZWxwX1l3UHhwZk5MSy1vcFZlS2ROT0FsZHBiUEIwRFFueEpPbmtrUWRuOG9LN1g1UFZaUFRJS0I5dGZKUm9SanFJSzgxbTRNWXZDZW1VUlB6ZjdROXB0R2Fn?oc=5)
 
 ---
 

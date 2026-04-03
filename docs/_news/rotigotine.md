@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [Deputy council leader urges men to get tested for prostate cancer after his own diagnosis - Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
+
+---
+
+### [Eating two foods helps lower cholesterol 'similar to statins' - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NkMktNOWhSOWN0Y1l6dVVKVE5mWEJQQWhXbVFxYVFCSjV0eXRyTkJ5TG1OXzVMT2l3Z0dXQmlsWGpHeVVSRDRwbUEyV3RudDdudlJvU2UyNXlYM1c1dWhsT21hUHdYM1doSXM0UTRzYnplNHFnVElueWRWSk5lX2xTZFgtR1h60gGOAUFVX3lxTFBKWTR6NUNVcGFhY29aVmpSWGZpMEZ1VkR4UGVacUtRdy1PYlJPNkxfZmRVM3RMSU9XeTZGdFMtSkoybUtDSm85UFJ0TWllZTIxS04yRkg5X2g1ZWJndzc4T0FnSHN4RjRmeGRwMWpQZk1Kc3FzX24za1BwUjNySF95X29fWF9WcjZZejNmVHc?oc=5)
+
+2026-04-03 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NkMktNOWhSOWN0Y1l6dVVKVE5mWEJQQWhXbVFxYVFCSjV0eXRyTkJ5TG1OXzVMT2l3Z0dXQmlsWGpHeVVSRDRwbUEyV3RudDdudlJvU2UyNXlYM1c1dWhsT21hUHdYM1doSXM0UTRzYnplNHFnVElueWRWSk5lX2xTZFgtR1h60gGOAUFVX3lxTFBKWTR6NUNVcGFhY29aVmpSWGZpMEZ1VkR4UGVacUtRdy1PYlJPNkxfZmRVM3RMSU9XeTZGdFMtSkoybUtDSm85UFJ0TWllZTIxS04yRkg5X2g1ZWJndzc4T0FnSHN4RjRmeGRwMWpQZk1Kc3FzX24za1BwUjNySF95X29fWF9WcjZZejNmVHc?oc=5)
+
+---
 
 ### [UKHSA Alerts on Rising Shigella Cases and Drug Resistance](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
 
@@ -65,22 +81,6 @@ permalink: /news/rotigotine/
 2026-04-02 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1p3VS1ZbVdWYk5LOWpxWlNiLUU1WHFySUs2dnhuLVFBNFBXcHlkOElKVVhNTXE2T2Q4ZHJqVWVOU2MyRGgyMjk1U0xXTWhkTC02d0RjYlp0ekx3eDYzRXh5N25zMVVsRDlGa2RWbEowYmljQ01zVWplTEs0Sk0tZ0tpd0hqakdScXh3Xw?oc=5)
-
----
-
-### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
-
-2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
-
----
-
-### [Longevità, i consigli degli esperti per un cuore d'acciaio: niente alcol e più cibi integrali - Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
-
-2026-04-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
 
 ---
 
@@ -108,19 +108,27 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Sclerosi multipla, ecco come "uccide" i neuroni](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemJrVjhhVmNHVFRoM3hmaV9VWFR3R0lmaE1pMm1UeUxkb0U0blZWbWZDTFI1WEp1TzBySHpEMURpN2dmUnlLa003WUo3TVpMN3p6NEpmdU9qVkY3Ukc4S3J4bjdFYlkwc2R1UXRpQk9WemhpNmVTT3BpeTd2bGlMT2pnbFdKbGpxNkRJZENJYWVwM0U3Z0pEQVVBd0VYb2p5WVdrN2d0Y0JibWfSAWhBVV95cUxOcVNMRjRzLUhDNUV5dXBDY2FIWm9jRlpCQ3Vva001M05XdXF2ak9nYWRhUGdiZThUT1phdTNxX0w5alkzTnZlOF81Ukk3cFZnWUo1LTJkc0cwVW1iWVplNVBRWHhUeGczcg?oc=5)
+### [Health officials monitoring new Cicada variant of Covid-19 as cases rise in Wales](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2hTZW84ZldPOXhzSGRVVW1MdFVrMVpTSU5BcVN5aVZVVmZGbUljRFM0NmZSNkVSUFZZZjRhSEJyYlJzTmdURXZmXzlxdUthd1pVTlNPMkRsZGtlcXJNMTJCNk9UTVpzZnpBSmZzbXNvYWZBamRCc3pQUkZTelJLQm92aGJNU0JRcUM4ZkFsZHNLSlVTaklUcVc1ZlE2NGxVVnFuLUVNd3VCM2RPSnVhMGp3WEtaVkt3YVE?oc=5)
 
-2026-04-01 <span class="news-indication-tag">sclerosi multipla</span>
+2026-04-02 <span class="news-indication-tag">MS</span>
 
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemJrVjhhVmNHVFRoM3hmaV9VWFR3R0lmaE1pMm1UeUxkb0U0blZWbWZDTFI1WEp1TzBySHpEMURpN2dmUnlLa003WUo3TVpMN3p6NEpmdU9qVkY3Ukc4S3J4bjdFYlkwc2R1UXRpQk9WemhpNmVTT3BpeTd2bGlMT2pnbFdKbGpxNkRJZENJYWVwM0U3Z0pEQVVBd0VYb2p5WVdrN2d0Y0JibWfSAWhBVV95cUxOcVNMRjRzLUhDNUV5dXBDY2FIWm9jRlpCQ3Vva001M05XdXF2ak9nYWRhUGdiZThUT1phdTNxX0w5alkzTnZlOF81Ukk3cFZnWUo1LTJkc0cwVW1iWVplNVBRWHhUeGczcg?oc=5)
+來源：[Wrexham.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2hTZW84ZldPOXhzSGRVVW1MdFVrMVpTSU5BcVN5aVZVVmZGbUljRFM0NmZSNkVSUFZZZjRhSEJyYlJzTmdURXZmXzlxdUthd1pVTlNPMkRsZGtlcXJNMTJCNk9UTVpzZnpBSmZzbXNvYWZBamRCc3pQUkZTelJLQm92aGJNU0JRcUM4ZkFsZHNLSlVTaklUcVc1ZlE2NGxVVnFuLUVNd3VCM2RPSnVhMGp3WEtaVkt3YVE?oc=5)
 
 ---
 
-### [I’m a dentist - there are signs of cancer I can spot BEFORE you open your mouth](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
+### [UK tourists return with virus that ‘makes you ill for 3 years’ from 25 holiday hotspots - full list - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9JWXREUWlSUi1VaGpEa0gtc1lIUkJKQlY0RGE0WnZQWUN6OVR2V1FxNGpQMkx3ZG1yX0V3dkNPeS1FaXdjZEdxakc5dzkxOWhoTHkwOEZncjRkTDF4aTlNT05GcXZhdnYwWlRNX21hRHVSXzdPRkV1UVVnQdIBgAFBVV95cUxPQy1jOW12M19qV25pVjQ1OEpBSEQ2NFNyXy1SUTU0NXpVYzR0NkF0WDVWcTdfQWlIUGRaSzRSUUlvdHdEdkltMHk4NnlrdXVFNi0wTzBOV2pvWl9CR2dSSnhYZHdsWGdsXy0ySnd1MUI0b0U3UThwdFRhRWpZRkUtQw?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9JWXREUWlSUi1VaGpEa0gtc1lIUkJKQlY0RGE0WnZQWUN6OVR2V1FxNGpQMkx3ZG1yX0V3dkNPeS1FaXdjZEdxakc5dzkxOWhoTHkwOEZncjRkTDF4aTlNT05GcXZhdnYwWlRNX21hRHVSXzdPRkV1UVVnQdIBgAFBVV95cUxPQy1jOW12M19qV25pVjQ1OEpBSEQ2NFNyXy1SUTU0NXpVYzR0NkF0WDVWcTdfQWlIUGRaSzRSUUlvdHdEdkltMHk4NnlrdXVFNi0wTzBOV2pvWl9CR2dSSnhYZHdsWGdsXy0ySnd1MUI0b0U3UThwdFRhRWpZRkUtQw?oc=5)
+
+---
+
+### [I’m a dentist - there are signs of cancer I can spot BEFORE you open your mouth - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
 2026-04-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3FDeFpncVFBeExBd1VsRkFEYXkycTB1TEY5Z2NIRHVRaFhwQWMxa0lZeDNtUWV0a01lUWpHbVZUdzJwYjRsZ3M5Znc4cEZQaUI3MFdmTnlzSmNlWFJvcUJOSzFxdEd0R1NVSXpQNGxEM21aMlNMRy1oUjFFcDEwM3UzZy1Ia3k4aDdqSUl3?oc=5)
 
 ---
 

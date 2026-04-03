@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Guselkumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/guselkumab/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>drug-induced osteoporosis（99.8%）</li>
 <li>severe nonproliferative diabetic retinopathy（99.8%）</li>
-<li>psoriasis（99.8%）</li>
+<li class="indication-matched">psoriasis（99.8%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>diabetic retinopathy（99.7%）</li>
 <li>renal osteodystrophy（99.7%）</li>
 <li>ulcerative colitis (disease)（99.7%）</li>
@@ -42,13 +42,37 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Descubren que un fármaco aprobado para otra enfermedad reduce la inflamación asociada a la psoriasis - El Debate](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVng0YTNYSlJ3LTlQYW9oWUFCSTdjb280YTlTdGJwT1pJVmFKbVF1OVFTWlJUSENxMkw0ckdpY19LeWtqQzhral9YMmlCRlEtc1p1ZlJBNTVkOTR3anJNTGRkZ3FfUVBybExEeXJ5TDhWdFBrZWdSTXZ0OUpkMlFZNWlMc3pxLUJzbVBIR2F4TThjUjlMZWttVC1YMENnVEoyT2JfSURrTENYdG1CWjhHRkllcU1vcjdIOHpfOUhIZi1xYnk4TEhZWnExcG4xMl9L0gHWAUFVX3lxTE9OTTNxdDhxUmtkdF84Rmd6RHpRalRFWWVjbzRMcjF0T0hvQUJNTEE2Y0xIb0JabjJNU3pzOTQ3RWFjajFEc3NiOGU1VWhsRjBncXd2UFctWVJ5aWJGcHMtTzd2Wi1wWXVHRUd3VEhEcnRoUWF4Wkl6cWUyeHFISVpmXzJ1dVBBVHdua3ZDTVpXY21pTS1iNk95cXI0SlVMRTI5eENwRVNUMmdVRGpYVDNEVXo2UFpKcDhZTE9MbkUwSjdJbU8wODBPQ3BoY2xaNnVvay0tVlE?oc=5)
+
+2026-04-03 <span class="news-indication-tag">psoriasis</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVng0YTNYSlJ3LTlQYW9oWUFCSTdjb280YTlTdGJwT1pJVmFKbVF1OVFTWlJUSENxMkw0ckdpY19LeWtqQzhral9YMmlCRlEtc1p1ZlJBNTVkOTR3anJNTGRkZ3FfUVBybExEeXJ5TDhWdFBrZWdSTXZ0OUpkMlFZNWlMc3pxLUJzbVBIR2F4TThjUjlMZWttVC1YMENnVEoyT2JfSURrTENYdG1CWjhHRkllcU1vcjdIOHpfOUhIZi1xYnk4TEhZWnExcG4xMl9L0gHWAUFVX3lxTE9OTTNxdDhxUmtkdF84Rmd6RHpRalRFWWVjbzRMcjF0T0hvQUJNTEE2Y0xIb0JabjJNU3pzOTQ3RWFjajFEc3NiOGU1VWhsRjBncXd2UFctWVJ5aWJGcHMtTzd2Wi1wWXVHRUd3VEhEcnRoUWF4Wkl6cWUyeHFISVpmXzJ1dVBBVHdua3ZDTVpXY21pTS1iNk95cXI0SlVMRTI5eENwRVNUMmdVRGpYVDNEVXo2UFpKcDhZTE9MbkUwSjdJbU8wODBPQ3BoY2xaNnVvay0tVlE?oc=5)
+
+---
+
+### [Si votre glycémie grimpe, cette habitude avec deux fruits du supermarché améliore la santé de vos artères](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">diabète</span>
+
+來源：[bibamagazine.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
+
+---
 
 ### [Diabète de type 2 : grâce à l'IA, un dépistage simple rien qu'avec votre voix, pourrait voir le jour - Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
 
 2026-04-03 <span class="news-indication-tag">diabète</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
+
+---
+
+### [Los que hacen ejercicio por la mañana tienen un menor riesgo cardiometabólico que los que lo practican por la tarde - La Voz de Galicia](https://news.google.com/rss/articles/CBMikwJBVV95cUxOSTk4QUxFS1FQOC1tc0VzdDE0dkJiSmQ1WGdZMGNqRlZFb2RILTBwT2hIekdnUE82OUlWZXl2RlBXWU9BZVpRQTJUMDJrbDhEVVhKVEFPTnJkSFVSYjdqbzdNUkltTHJXYXBQTDBWZUxOLU12NlQyVFcwVDZ1QUU0T20tQ0k1azR2UkJpTmZWX2lqWnFCbFRrdzhXYXhPeV95ak9VSTZtUTJ0MjVvSFFVdWYzVmFSX1hHYkFIM05Bd0kxZDFVVEpBeVVnR01mSEJrbmpSOFdPd3FZd2RjYUVFYl8zNTFXYzZWWUhJUWRYZ0ZGMS12Tjc1WVFLa3czbnYya3czNHU3YnhrX2VFWjdFeG1uRdIBmAJBVV95cUxOQUtHZFg3QU9pOXZJalVMTkw4WURQa1lVMHMyTktpNUZiZWN3VXNwTDIycTRRb2Z6Q0F6TW9ENGNoOVlETGlMS0QyeUVNXzhqWHNnNUJKTVJXbjlOYjRGOHBUaFJvLUM3cHRmdkw0bWZpZmFVb016NU5SVFY4MjMySmVfTExSTEsxOW9mX0RQVFJoVDVtYjVQMlBYMGVBQWxzQTduVDJZTUtTbTVIa28tU3JFZnMySHlzbHFLYUZRMUlfUWZEclZPMGZGbGpHcHJkaTAyVWd0YkliTGVTX3BCV1FSZGhBN1VOYkRIV2VRT0VhTUF4X08tN0RNeGJJa2xtUk5EelFCenZES3Q3UEFtUXBsTVVmdlFU?oc=5)
+
+2026-04-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMikwJBVV95cUxOSTk4QUxFS1FQOC1tc0VzdDE0dkJiSmQ1WGdZMGNqRlZFb2RILTBwT2hIekdnUE82OUlWZXl2RlBXWU9BZVpRQTJUMDJrbDhEVVhKVEFPTnJkSFVSYjdqbzdNUkltTHJXYXBQTDBWZUxOLU12NlQyVFcwVDZ1QUU0T20tQ0k1azR2UkJpTmZWX2lqWnFCbFRrdzhXYXhPeV95ak9VSTZtUTJ0MjVvSFFVdWYzVmFSX1hHYkFIM05Bd0kxZDFVVEpBeVVnR01mSEJrbmpSOFdPd3FZd2RjYUVFYl8zNTFXYzZWWUhJUWRYZ0ZGMS12Tjc1WVFLa3czbnYya3czNHU3YnhrX2VFWjdFeG1uRdIBmAJBVV95cUxOQUtHZFg3QU9pOXZJalVMTkw4WURQa1lVMHMyTktpNUZiZWN3VXNwTDIycTRRb2Z6Q0F6TW9ENGNoOVlETGlMS0QyeUVNXzhqWHNnNUJKTVJXbjlOYjRGOHBUaFJvLUM3cHRmdkw0bWZpZmFVb016NU5SVFY4MjMySmVfTExSTEsxOW9mX0RQVFJoVDVtYjVQMlBYMGVBQWxzQTduVDJZTUtTbTVIa28tU3JFZnMySHlzbHFLYUZRMUlfUWZEclZPMGZGbGpHcHJkaTAyVWd0YkliTGVTX3BCV1FSZGhBN1VOYkRIV2VRT0VhTUF4X08tN0RNeGJJa2xtUk5EelFCenZES3Q3UEFtUXBsTVVmdlFU?oc=5)
 
 ---
 
@@ -81,22 +105,6 @@ permalink: /news/guselkumab/
 2026-04-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMisgJBVV95cUxNaGlCVUs0b3pRVlk1MTdqT2JnNkJjN2tUTVRxcGV1TE5CWk9jN3cyN2tSTGtVVTVkWnM0U0NhbFBzdDBzWmEtTzJ3OHFMYzMwTU9wcGdNRjlfX21iZFFxbGpQQ0lDdHlGNlBIODc5RllBa2V4YTgtbkE1d3BEMmQ5bWlzd0Z4b0RPX2tnZjFBQ1NjMkxGcEhIdlFhdGUxWld6M25kZl90aWYza2hCSmFYdF9aZ1lWTXdhd1VGWHJNN1pnaHRPVkZNM1k2Nm9tM1FZZ29QRE5oM0dpa1lxNmxYUVlUcUFPaE0xODhHQWxfbVdGcE9SUk1uQmRla09PY2hSUnh2bUdFaWJEVTI5bHUyck5Ublc4UnlsLWNxaUlSS1FKd3ZqaGRnYkd6c0J5aHlXdFE?oc=5)
-
----
-
-### ["Je suis mort, le futur pour moi, il est noir" : il devient aveugle 48 heures après avoir pris de l’Ozempic, victime de la NOIAN - Midi Libre](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
-
-2026-04-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
-
----
-
-### [Eine Diabetesdiagnostik beim Zahnarzttermin ist sehr sinnvoll!](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
-
-2026-04-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[zm-online](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFIyTWpDYzdDV21yVWFaYmk0YlA0am55XzNWbHVRM2RiZThnNUV3U2dPWVRLWHVNanV1M0ppSzM3RDZVelFfZnZsZ1I4VldSekdFT2R6SkQ0cTJVdi1KLUJlQXp4YXBfSmpfaHlXbGU1MTIzcmpOdUxkclhwQm1MWTdqdG9FOHBqb0R6SGl5Wi1RNGt2cERxZUZhalVJclYzck1UZER0UWZuSTM1eF9v?oc=5)
 
 ---
 
