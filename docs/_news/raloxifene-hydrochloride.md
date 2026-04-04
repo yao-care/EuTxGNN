@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Un nuevo método para controlar la hipertensión reduce ictus y muertes en miles de pacientes - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+### [Ma vie après un AVC : « Comment je me sauve en cas d’incendie ? En courant ? » - Le Monde.fr](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1ZpOGxJbjhKMVlsWHh3akg3UWR3ZUxHNVRzNTNXeFhENVRXVjNNM0lDTUQzaWhtbHJTanQ4cldXTU0yWjdDTHppMTFlbV9BZ1RpbjJ1OXdhNEpHWURSeDIwQXNULV93cW1LMkF5cy0zMlFPR19NT1RQOTh3UmRhSF9FY2ZPeTUzaGFjOGZ2LXkxMnJrNnRfZWlVVnBXVWF5YmRRX2dTYjQ1SjlXeFNlMlhrNUFyaE1sU29zZ29PbzBwZngwUEF5THRTWUxTcURqanFwMnFkVmU?oc=5)
+
+2026-04-04 <span class="news-indication-tag">AVC</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1ZpOGxJbjhKMVlsWHh3akg3UWR3ZUxHNVRzNTNXeFhENVRXVjNNM0lDTUQzaWhtbHJTanQ4cldXTU0yWjdDTHppMTFlbV9BZ1RpbjJ1OXdhNEpHWURSeDIwQXNULV93cW1LMkF5cy0zMlFPR19NT1RQOTh3UmRhSF9FY2ZPeTUzaGFjOGZ2LXkxMnJrNnRfZWlVVnBXVWF5YmRRX2dTYjQ1SjlXeFNlMlhrNUFyaE1sU29zZ29PbzBwZngwUEF5THRTWUxTcURqanFwMnFkVmU?oc=5)
+
+---
+
+### [Free NHS Wegovy jabs made available to 1.2million if you have four health risks - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
+
+2026-04-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
+
+---
+
+### [Un nuevo método para controlar la hipertensión logra evitar ictus y muertes: así funciona el sistema que ya salva vidas](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
 
 2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
 
 ---
 
@@ -68,11 +84,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [NHS rehabilitation care staff shortage fails stroke patients, say health leaders - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWhSXzBYSkcwcGNhOHhUa0FCVDZxVkx6T2luV055N3NyUWpGVkhvNURmMFdYMExqSV9NX2hvRGY0dFJvWkxES2VWQTRQeW5SQjY4eXdCYXlvNUlWWFRwYkZmNHE0WGZPbFBsMDZQa21wbVA4cHNPVDNMa1VIa2dmVUdHZmRwVFRDdlpjQ3FrM1JiZnZiVTZaM0stSWdUazZETEVr?oc=5)
+### [Lowering LDL cholesterol beyond current goals cuts heart attack, stroke risk - Medical News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2ZLbWQ3dXJlTTRWUVhTdmd1SDlhQk95RXpzSko3d2xPNzZvRlhrcEpKUkIwUDFQdnhBbWZRWE96elNwUnQ1ZC1nZkVGVHpPdjZMTkdMOGpiZXFuVklsLXhBcVExSUE4SzU1bnpETnRhY3VsWFY2WU5nOG1nMHk0WnphTk5nNExueDZReDRBSE12bkV1LXp6V2Q5R1Fzel9qMHlMeGY4QXoyYUIzdWhWVmxxcGtaODl0MDJyWS1fc0xqZw?oc=5)
 
-2026-04-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-04-03 <span class="news-indication-tag">stroke</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWhSXzBYSkcwcGNhOHhUa0FCVDZxVkx6T2luV055N3NyUWpGVkhvNURmMFdYMExqSV9NX2hvRGY0dFJvWkxES2VWQTRQeW5SQjY4eXdCYXlvNUlWWFRwYkZmNHE0WGZPbFBsMDZQa21wbVA4cHNPVDNMa1VIa2dmVUdHZmRwVFRDdlpjQ3FrM1JiZnZiVTZaM0stSWdUazZETEVr?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2ZLbWQ3dXJlTTRWUVhTdmd1SDlhQk95RXpzSko3d2xPNzZvRlhrcEpKUkIwUDFQdnhBbWZRWE96elNwUnQ1ZC1nZkVGVHpPdjZMTkdMOGpiZXFuVklsLXhBcVExSUE4SzU1bnpETnRhY3VsWFY2WU5nOG1nMHk0WnphTk5nNExueDZReDRBSE12bkV1LXp6V2Q5R1Fzel9qMHlMeGY4QXoyYUIzdWhWVmxxcGtaODl0MDJyWS1fc0xqZw?oc=5)
 
 ---
 
@@ -81,14 +97,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-04-03 <span class="news-indication-tag">ictus</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
-
----
-
-### [Schlaganfall: Die kritische Phase beginnt sofort - DIE ZEIT](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVpmOXR1X0x1bXF3SDBNVHpXQ1JqZGNtbHAyU1M3SlhMLXY0NTB5NGZJZEgxbHBuYlRzOE9aR083OThpcXpJMmMtMTF5WDRZTFdINEFpQ3A1Njhzc2FnWE5IYnJzUTU3WG05U042YzREZU9nYWM2YmowTjA2MWwwVVRGcFJSeXc5NVJnX2d6ZHc?oc=5)
-
-2026-04-02 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[DIE ZEIT](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVpmOXR1X0x1bXF3SDBNVHpXQ1JqZGNtbHAyU1M3SlhMLXY0NTB5NGZJZEgxbHBuYlRzOE9aR083OThpcXpJMmMtMTF5WDRZTFdINEFpQ3A1Njhzc2FnWE5IYnJzUTU3WG05U042YzREZU9nYWM2YmowTjA2MWwwVVRGcFJSeXc5NVJnX2d6ZHc?oc=5)
 
 ---
 

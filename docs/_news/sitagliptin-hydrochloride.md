@@ -14,7 +14,7 @@ permalink: /news/sitagliptin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Sitagliptin Hydrochloride 有什麼相關新聞？">
-<strong>Sitagliptin Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sitagliptin Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/sitagliptin-hydrochloride/
 <p><a href="{{ '/drugs/sitagliptin-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Semaglutide Shows Surprising Mental Health Benefits in Massive 100,000-Person Study](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5za0t2NmpjVEVUODFVZUhvelZKWEh1M0xFMVJ2ZEg1emR4X1JEcXU2U0ZmSHFSTlNjaWhCX2R2akRlc3BLRy1TUk52ZHNwakw3bzVYVDBfZ29NNzhSSGhXSmNva0FCRXF3TV9uZ3RhMkxOY1F0NG9SdzJJU2Y2TTFrWXpMZFV1aDFtaE91STMwaDhoUjgyOFotZEc3bTU2dkVOZHBudnBIWkdT?oc=5)
+
+2026-04-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5za0t2NmpjVEVUODFVZUhvelZKWEh1M0xFMVJ2ZEg1emR4X1JEcXU2U0ZmSHFSTlNjaWhCX2R2akRlc3BLRy1TUk52ZHNwakw3bzVYVDBfZ29NNzhSSGhXSmNva0FCRXF3TV9uZ3RhMkxOY1F0NG9SdzJJU2Y2TTFrWXpMZFV1aDFtaE91STMwaDhoUjgyOFotZEc3bTU2dkVOZHBudnBIWkdT?oc=5)
+
+---
 
 ### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Aceite de oliva virgen extra contra la artritis - Canal Sur](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
 
 2026-04-04 <span class="news-indication-tag">artritis</span>
 
 來源：[Canal Sur](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
-
----
-
-### ["Pas le temps d’aller au sport et de suivre un régime" : c’est quoi les mariages "Mounjaro" qui font fureur en Inde ?](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMnllODNuUzlUSkk1aVh3SkM0T0w4SzBMRkRRUTY2cmlzRldxVHFxUVBTTENnZWJZUHM5SnRvRnNidzNyM1Q4cENzVHNIeGczRHRqOExYczl2SGZ5WmNPYkdIV0NJdmdVbkJDZzVLc0tLb3ctNTcyNGJjeFpfLTVSR0FfMDdKN2w3TzVsR2JwT1RzbzB0Nm9lMzBENXpzbHZqaDFSM3FEU05wOUhWM3o4bGpnUXI3RVZKSGtDOWlqYWhXYTFrcEF5X2lyUmVqTW0xeEV4OTQ0TWVSaWdXa2Zmc2x4Sl9PcEtwTGRaa0cyNU1RTGVaR2VNRnJyVmZMWG8?oc=5)
-
-2026-04-03 <span class="news-drug-tag">Tirzepatide</span>
-
-來源：[midilibre.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMnllODNuUzlUSkk1aVh3SkM0T0w4SzBMRkRRUTY2cmlzRldxVHFxUVBTTENnZWJZUHM5SnRvRnNidzNyM1Q4cENzVHNIeGczRHRqOExYczl2SGZ5WmNPYkdIV0NJdmdVbkJDZzVLc0tLb3ctNTcyNGJjeFpfLTVSR0FfMDdKN2w3TzVsR2JwT1RzbzB0Nm9lMzBENXpzbHZqaDFSM3FEU05wOUhWM3o4bGpnUXI3RVZKSGtDOWlqYWhXYTFrcEF5X2lyUmVqTW0xeEV4OTQ0TWVSaWdXa2Zmc2x4Sl9PcEtwTGRaa0cyNU1RTGVaR2VNRnJyVmZMWG8?oc=5)
 
 ---
 

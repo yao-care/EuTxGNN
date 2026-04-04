@@ -14,7 +14,7 @@ permalink: /news/granisetron/
 ---
 
 <p class="key-answer" data-question="Granisetron 有什麼相關新聞？">
-<strong>Granisetron</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Granisetron</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/granisetron/
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
-### [Warum wir gähnen: Neurowissenschaftler finden Hinweise im MRT](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
+### [Warum wir gähnen – Neurowissenschaftler entdecken unerwartete Hinweise im MRT](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
 
 2026-04-04 <span class="news-indication-tag">AF</span>
 
 來源：[t3n](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
+
+---
+
+### ['I gave birth on toilet after thinking I was constipated - I was 19 and had no bump' - The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ndFJOSXpxUWhJSDBucU5UQ19CMXJMVnNjZk1ZMXhzOV9YVmNCWmdxNEV4WGozUlFQcmRrN0RzdEdkXzNPOEg3QXA4MGlFNlE3TjN2azExRDVfQlhST0N6NzhYckY4bzlIVW5kNjBGV19qU3RwRWhQMtIBfkFVX3lxTFBNUGp3dXhCOUpRZ3ZPWWV3VTEyNENNUTZfRnQ2eVJUYmJCZ09rbWEzNXJ2U0ppb0lKak04WEpPRXZtLWFzalh5Y0owZWVudGJ1X0JLeHlvN1pkQnhvUndkSm1uOTctX3d2M3owOEktUmcxbFF3UGtfc0prMUJRZw?oc=5)
+
+2026-04-04 <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE1ndFJOSXpxUWhJSDBucU5UQ19CMXJMVnNjZk1ZMXhzOV9YVmNCWmdxNEV4WGozUlFQcmRrN0RzdEdkXzNPOEg3QXA4MGlFNlE3TjN2azExRDVfQlhST0N6NzhYckY4bzlIVW5kNjBGV19qU3RwRWhQMtIBfkFVX3lxTFBNUGp3dXhCOUpRZ3ZPWWV3VTEyNENNUTZfRnQ2eVJUYmJCZ09rbWEzNXJ2U0ppb0lKak04WEpPRXZtLWFzalh5Y0owZWVudGJ1X0JLeHlvN1pkQnhvUndkSm1uOTctX3d2M3owOEktUmcxbFF3UGtfc0prMUJRZw?oc=5)
+
+---
+
+### [Los diagnósticos de cáncer de colon se disparan un 40% en menores de 50 años](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWtDdEVZS0RSMnM4MzdQNHNBdWl6REY2dlpicHNqRDlRSzNETUIxUFl5VElfcUZKdUF2bjhWRUNFcWEtLTdtQml3S212SWo2RktDNm12ZjZkVllrbHJ6OE1OMHBXV2FXZTRXT1NMQ3R2NVZNQW50XzBuaHNMRE55T3RIVjBJeGJMaE5Ea2h1ckc1MmpRQ1AwbXZwZ25BZkdZVHV0UNIBqgFBVV95cUxPMFA4alNBcFRiUGI2dEZVT0R3OE1jZTEzdlJFb3RZQUFwZW81X0ZkaVBxMjVTazlOM0hLXzlpd0UxOEhkZFJyQnQ5SFFWbUZFaVRqdG5iblJHWTFiR2paVGVzR2hVNVQ4MEVrNHlTRlBob2kzblRQemU2U19JTlNyMG90S1Q1R2ZJYmJuY1RvM3dUOVFuc2VMUDJ2RjNzem0yczBDeUtqOS0tdw?oc=5)
+
+2026-04-04 <span class="news-indication-tag">AF</span>
+
+來源：[INFORMACION](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWtDdEVZS0RSMnM4MzdQNHNBdWl6REY2dlpicHNqRDlRSzNETUIxUFl5VElfcUZKdUF2bjhWRUNFcWEtLTdtQml3S212SWo2RktDNm12ZjZkVllrbHJ6OE1OMHBXV2FXZTRXT1NMQ3R2NVZNQW50XzBuaHNMRE55T3RIVjBJeGJMaE5Ea2h1ckc1MmpRQ1AwbXZwZ25BZkdZVHV0UNIBqgFBVV95cUxPMFA4alNBcFRiUGI2dEZVT0R3OE1jZTEzdlJFb3RZQUFwZW81X0ZkaVBxMjVTazlOM0hLXzlpd0UxOEhkZFJyQnQ5SFFWbUZFaVRqdG5iblJHWTFiR2paVGVzR2hVNVQ4MEVrNHlTRlBob2kzblRQemU2U19JTlNyMG90S1Q1R2ZJYmJuY1RvM3dUOVFuc2VMUDJ2RjNzem0yczBDeUtqOS0tdw?oc=5)
+
+---
+
+### [Critical incident at hospital stood down](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yRHBGSnljTVAwQjh5dDZvV0lHY3lKbmtxWWNWT0JuWFIzNHIzdzkwc0N4NkZLZlh5RElyTlUzN0RWN1owWWFIbzhZU25vdm1vZWVuLVpLbi01MkVh?oc=5)
+
+2026-04-04 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yRHBGSnljTVAwQjh5dDZvV0lHY3lKbmtxWWNWT0JuWFIzNHIzdzkwc0N4NkZLZlh5RElyTlUzN0RWN1owWWFIbzhZU25vdm1vZWVuLVpLbi01MkVh?oc=5)
 
 ---
 
@@ -68,14 +92,6 @@ permalink: /news/granisetron/
 
 ---
 
-### [Nieves Martínez, oncóloga experta en cáncer de colon: «Nos preocupa el aumento de casos en menores de 50 años» - La Voz de Galicia](https://news.google.com/rss/articles/CBMimAJBVV95cUxQaEtVUC1McWI3SjdnTm5nOFNnTXVzbXJ1Vmpxckg1a0lzNlpxT3RxSm11MGJWUFdLMHczN09tOW1SaGlQWW9KNEpXTEEya2V5TElHWU5QZktOdkFYME9hRlRzQl9PQ29QbmNnY2dmaVM3STVtQU9ndkpOZjVYN3R2SVJsWU1EN2NkZUdtT1NYVEF3cnVrc0xaU1cycDZsNG5ZNHM5N0tVbFRXZWJmQzdZdkxRRHNjMlpmTEwyRFlabVpfNVpEWXZaczFGczh6cG1PT1VQemM1X0NTME9lWkw4TmZsVTJKeUg5X1pEck9XZktuZkZtNTMxc2NxOXpHQTB4cUsyVHR1cVhVRUZRcGpjM0hVOUpvcDBY?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AF</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMimAJBVV95cUxQaEtVUC1McWI3SjdnTm5nOFNnTXVzbXJ1Vmpxckg1a0lzNlpxT3RxSm11MGJWUFdLMHczN09tOW1SaGlQWW9KNEpXTEEya2V5TElHWU5QZktOdkFYME9hRlRzQl9PQ29QbmNnY2dmaVM3STVtQU9ndkpOZjVYN3R2SVJsWU1EN2NkZUdtT1NYVEF3cnVrc0xaU1cycDZsNG5ZNHM5N0tVbFRXZWJmQzdZdkxRRHNjMlpmTEwyRFlabVpfNVpEWXZaczFGczh6cG1PT1VQemM1X0NTME9lWkw4TmZsVTJKeUg5X1pEck9XZktuZkZtNTMxc2NxOXpHQTB4cUsyVHR1cVhVRUZRcGpjM0hVOUpvcDBY?oc=5)
-
----
-
 ### [Sport als Medizin: Neue Forschung revolutioniert Hirngesundheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVA3SEpMMGREbDM1ZFBuQklrVTRSWmlmX3ZHV0ZyRnlsbTVrdFhTYjVjZUZjNjU3djdCelRnVDBBRDRTNWxkZ0xFNTEzWHkzLW81bWRwRnVPZEtzZTdYRkxYdlNwMzl5WVNTci1MQmFhYnRQeDExcENFcDhkOVlFM254OUw3aWgyTFUyUFJXbnhINzVHX1JIR19XTGxMSWtqY1Bqc1FPcmNza1A5RzYxYzh6ZEhrQURQVk9mZVF3?oc=5)
 
 2026-04-04 <span class="news-indication-tag">AF</span>
@@ -92,11 +108,27 @@ permalink: /news/granisetron/
 
 ---
 
-### [Inside club at centre of meningitis outbreak on reopening night](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSU4tdTROTm11T1p0N0haUG82MjRfWTdIa25NMXNPLU9Gbl9MdU9nY2VnblI3emlvYzlOUFdwMnU0aTMyZnEwOUlLNmxTOVVrdDdJY0RFZ1VIWWp0VmlXMEdwMW10c0dha05xZm1CQnNfNkoweERCb2ZHZk9zMk15akZVNVFJTHhrUFVsbkNqWGt4WTZSOGY4a1pVT0dTZXhhS3k0NHU4NlJjOGR2ZktwYjA0bw?oc=5)
+### [Woman who suffered fall at home died after catching flu in hospital - Clacton Gazette](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTU9vMUNFNlJRdER1MXhYVm1RTUY2SjBsc1RsY28wTTJJQm5xRGYwbVZpZnpoR0F1TFVsVmpTanFhdG1TZmlmVHg2ZEx5UVNiQktBcWhwRUN5cENnMkJONTM3dFZVMGRJOGoxazNwQVBUZ3pyRHM1akNyTUR4S25JNWdHMDlWUUlxWTFEdlZ2M1IwYjEyLUJqQ0VhSl8wSGpTQTVRcTNQMFlyVWMtMXc?oc=5)
 
 2026-04-03 <span class="news-indication-tag">AF</span>
 
-來源：[kentonline.co.uk](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSU4tdTROTm11T1p0N0haUG82MjRfWTdIa25NMXNPLU9Gbl9MdU9nY2VnblI3emlvYzlOUFdwMnU0aTMyZnEwOUlLNmxTOVVrdDdJY0RFZ1VIWWp0VmlXMEdwMW10c0dha05xZm1CQnNfNkoweERCb2ZHZk9zMk15akZVNVFJTHhrUFVsbkNqWGt4WTZSOGY4a1pVT0dTZXhhS3k0NHU4NlJjOGR2ZktwYjA0bw?oc=5)
+來源：[Clacton Gazette](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTU9vMUNFNlJRdER1MXhYVm1RTUY2SjBsc1RsY28wTTJJQm5xRGYwbVZpZnpoR0F1TFVsVmpTanFhdG1TZmlmVHg2ZEx5UVNiQktBcWhwRUN5cENnMkJONTM3dFZVMGRJOGoxazNwQVBUZ3pyRHM1akNyTUR4S25JNWdHMDlWUUlxWTFEdlZ2M1IwYjEyLUJqQ0VhSl8wSGpTQTVRcTNQMFlyVWMtMXc?oc=5)
+
+---
+
+### [Inside club at centre of meningitis outbreak on reopening night - Kent Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSU4tdTROTm11T1p0N0haUG82MjRfWTdIa25NMXNPLU9Gbl9MdU9nY2VnblI3emlvYzlOUFdwMnU0aTMyZnEwOUlLNmxTOVVrdDdJY0RFZ1VIWWp0VmlXMEdwMW10c0dha05xZm1CQnNfNkoweERCb2ZHZk9zMk15akZVNVFJTHhrUFVsbkNqWGt4WTZSOGY4a1pVT0dTZXhhS3k0NHU4NlJjOGR2ZktwYjA0bw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">AF</span>
+
+來源：[Kent Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSU4tdTROTm11T1p0N0haUG82MjRfWTdIa25NMXNPLU9Gbl9MdU9nY2VnblI3emlvYzlOUFdwMnU0aTMyZnEwOUlLNmxTOVVrdDdJY0RFZ1VIWWp0VmlXMEdwMW10c0dha05xZm1CQnNfNkoweERCb2ZHZk9zMk15akZVNVFJTHhrUFVsbkNqWGt4WTZSOGY4a1pVT0dTZXhhS3k0NHU4NlJjOGR2ZktwYjA0bw?oc=5)
+
+---
+
+### [Un virus marino detectado en China logra infectar por primera vez a humanos y afecta a sus ojos - Gaceta de salud](https://news.google.com/rss/articles/CBMigAJBVV95cUxPVzlBem9qRGp1MTdXZEJZZVVxUGpBMGtmUXdhNmxnaWdseEVxWXRFMzBUSGtNTVQ1Q0hrNllQTGdKSkRtY0UweDQzTDlVT2JrQXNFT0ZIaXBxaUdtUWpWTXVlc0htNTE4U0ZTR3Q4c3FSdGptYzdoMmtNY2g1cGp2Rlk3N0ZCcFpRUUNXeGgyeVRWYTJUUnBza2RQS1FibFJQaGhnX3pZd3JacGdibHRCM2NJQlBmbmUxa3dfRVR5UFFEZmpIaWlvMk9fSVVjY1ZiNFFQZ25SM1gzd21PTTZhT21fX2Eya3ZtSWNobnBYdTIyOGVrSnBuZ1YwYl90SHZK?oc=5)
+
+2026-04-03 <span class="news-indication-tag">AF</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMigAJBVV95cUxPVzlBem9qRGp1MTdXZEJZZVVxUGpBMGtmUXdhNmxnaWdseEVxWXRFMzBUSGtNTVQ1Q0hrNllQTGdKSkRtY0UweDQzTDlVT2JrQXNFT0ZIaXBxaUdtUWpWTXVlc0htNTE4U0ZTR3Q4c3FSdGptYzdoMmtNY2g1cGp2Rlk3N0ZCcFpRUUNXeGgyeVRWYTJUUnBza2RQS1FibFJQaGhnX3pZd3JacGdibHRCM2NJQlBmbmUxa3dfRVR5UFFEZmpIaWlvMk9fSVVjY1ZiNFFQZ25SM1gzd21PTTZhT21fX2Eya3ZtSWNobnBYdTIyOGVrSnBuZ1YwYl90SHZK?oc=5)
 
 ---
 
@@ -108,51 +140,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [Un virus marino salta por primera vez a humanos y provoca una extraña enfermedad ocular en China - La Razón](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRTdDNk5IY25KTml5cl85bDBhYUN1OXhzbEhLOHlhaFZfdWhEdVV6dlY2UXNwaUM4ZWVEUWFvUnNMb1ltSVNNVE4wWTFucWN1SXVZdWRCUUNPS0xGSGJ5U3EwcFJQMFhfV0FqeWtjUjd2ZGN3Q2VVMHFPZHZLUkVOVVgxSnJCbW43T3h6ZXJ0SDZtVFo1dXlDNUpNMG8wT1NVYURVaHVVaUZnWEpKU0NCZzJvQ1lzYTVyOWg2U2FhZmU2RGZpbkxYZm1ublcyN1lic3lCSU93TTdGaDZzUlR5LTZkSmNaMmvSAfsBQVVfeXFMTkNWR0NWdVVGTmJCeHdiZS00LTJTTnZTTFRSSExzQmpaTEJrR2QzczhBOHVoR3dzNUthU3AtdV9TOFMxLWhuWkI1WURabUd2Qm96bUVxQXNTZVk1NExSbmNKSnh4eDVqdUJvSC1JNktzcXhEbll4RnRkckkyUVRXVlp0d3JXR2JWRWJoZ0dETF9ZT0JBbjYyZV9LampXSUk5cXkxdVotdVpoWkNkMkJ2MGxxeGMxeDJXQVRSaFJOVlFSLThsMWNlRG5XQkhlRmY1a2xRMF94ak04aG9ZTHlpVV9vUFQ5eXJaQmVsdmdZcmRBT1RGVXl6MTVzSGc?oc=5)
-
-2026-04-03 <span class="news-indication-tag">AF</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRTdDNk5IY25KTml5cl85bDBhYUN1OXhzbEhLOHlhaFZfdWhEdVV6dlY2UXNwaUM4ZWVEUWFvUnNMb1ltSVNNVE4wWTFucWN1SXVZdWRCUUNPS0xGSGJ5U3EwcFJQMFhfV0FqeWtjUjd2ZGN3Q2VVMHFPZHZLUkVOVVgxSnJCbW43T3h6ZXJ0SDZtVFo1dXlDNUpNMG8wT1NVYURVaHVVaUZnWEpKU0NCZzJvQ1lzYTVyOWg2U2FhZmU2RGZpbkxYZm1ublcyN1lic3lCSU93TTdGaDZzUlR5LTZkSmNaMmvSAfsBQVVfeXFMTkNWR0NWdVVGTmJCeHdiZS00LTJTTnZTTFRSSExzQmpaTEJrR2QzczhBOHVoR3dzNUthU3AtdV9TOFMxLWhuWkI1WURabUd2Qm96bUVxQXNTZVk1NExSbmNKSnh4eDVqdUJvSC1JNktzcXhEbll4RnRkckkyUVRXVlp0d3JXR2JWRWJoZ0dETF9ZT0JBbjYyZV9LampXSUk5cXkxdVotdVpoWkNkMkJ2MGxxeGMxeDJXQVRSaFJOVlFSLThsMWNlRG5XQkhlRmY1a2xRMF94ak04aG9ZTHlpVV9vUFQ5eXJaQmVsdmdZcmRBT1RGVXl6MTVzSGc?oc=5)
-
----
-
 ### [Which energy drink is WORST for your health? From Monster to Red Bull, experts reveal what's lurking in your can - and the least bad of the bunch - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUpUcDN0SDZPR0c4NFRWTTIxNUg0Ti1rd0Q2cjV1ZkpEQjVobXlPckF6a3A5aVY1WlZqcGVaU1hicG04Zy1VcGZ0eU5uRFRKWU51SFdkb2FwQ3BpWkRYdGtTS1lLOWkzaVMxWm5MMHVnQUdLU3JSUHZuRnlQZHk2SXdBZmgtZ3hLVW130gGQAUFVX3lxTE5vdFV0RXRheUpRZktRekVRUlp2UlREUXN0WEZ4UVBxU3pudHh1TnlFUkFyQ2lTbWZxelZJWEdralYtR1JIZkQ0RmxPWG1kSGlCSlBNM0lTOWdHSWpfcUw3T3FkTGlRY0k5dDVNY2ZubTZGek1hYTZwR2NXSXg5dW40LVlGQ09TWVFaUFhXdU5Mdg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">AF</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUpUcDN0SDZPR0c4NFRWTTIxNUg0Ti1rd0Q2cjV1ZkpEQjVobXlPckF6a3A5aVY1WlZqcGVaU1hicG04Zy1VcGZ0eU5uRFRKWU51SFdkb2FwQ3BpWkRYdGtTS1lLOWkzaVMxWm5MMHVnQUdLU3JSUHZuRnlQZHk2SXdBZmgtZ3hLVW130gGQAUFVX3lxTE5vdFV0RXRheUpRZktRekVRUlp2UlREUXN0WEZ4UVBxU3pudHh1TnlFUkFyQ2lTbWZxelZJWEdralYtR1JIZkQ0RmxPWG1kSGlCSlBNM0lTOWdHSWpfcUw3T3FkTGlRY0k5dDVNY2ZubTZGek1hYTZwR2NXSXg5dW40LVlGQ09TWVFaUFhXdU5Mdg?oc=5)
-
----
-
-### [NHS rehabilitation care staff shortage fails stroke patients, say health leaders - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWhSXzBYSkcwcGNhOHhUa0FCVDZxVkx6T2luV055N3NyUWpGVkhvNURmMFdYMExqSV9NX2hvRGY0dFJvWkxES2VWQTRQeW5SQjY4eXdCYXlvNUlWWFRwYkZmNHE0WGZPbFBsMDZQa21wbVA4cHNPVDNMa1VIa2dmVUdHZmRwVFRDdlpjQ3FrM1JiZnZiVTZaM0stSWdUazZETEVr?oc=5)
-
-2026-04-03 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWhSXzBYSkcwcGNhOHhUa0FCVDZxVkx6T2luV055N3NyUWpGVkhvNURmMFdYMExqSV9NX2hvRGY0dFJvWkxES2VWQTRQeW5SQjY4eXdCYXlvNUlWWFRwYkZmNHE0WGZPbFBsMDZQa21wbVA4cHNPVDNMa1VIa2dmVUdHZmRwVFRDdlpjQ3FrM1JiZnZiVTZaM0stSWdUazZETEVr?oc=5)
-
----
-
-### [Paula Echevarría (48 años): "Desayuno café con leche de avena, un bol de fruta y una tostada con aceite. Depende del día, le pongo jamón, pavo o aguacate"](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ1U3b19GLWVwSzNncGljeUJVc0lmdnhhSnBBTG5DQmZfUFZDOGlqNlA1U3Vnc3dtczc3VktkUW5Fd0JjLUNBVEVCTTB4QjlPRG50dGFjcjBsVlVtd3FoaDZicllHVHJCMHlwZXpneUh5YjJjcWg5QlJpdmh2NUZsei04NHJqWFFsandUUlZRZzBmRlRWS0F6dVc4dVJxcnYwcExDeGd0V3R4LUhDaUhYNlN3bWFhdjE5enpyQ1pWRjBzbnYydjNzbFozd0VvOXA0S01LT19fa3VkSWR5OGEyRjVUcVVWT2lyOU9BTU9mZEM0UXREQlY0clo4bFZiM0xqTTQ4NFAyWmdVb0lKc2c?oc=5)
-
-2026-04-03 <span class="news-indication-tag">AF</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ1U3b19GLWVwSzNncGljeUJVc0lmdnhhSnBBTG5DQmZfUFZDOGlqNlA1U3Vnc3dtczc3VktkUW5Fd0JjLUNBVEVCTTB4QjlPRG50dGFjcjBsVlVtd3FoaDZicllHVHJCMHlwZXpneUh5YjJjcWg5QlJpdmh2NUZsei04NHJqWFFsandUUlZRZzBmRlRWS0F6dVc4dVJxcnYwcExDeGd0V3R4LUhDaUhYNlN3bWFhdjE5enpyQ1pWRjBzbnYydjNzbFozd0VvOXA0S01LT19fa3VkSWR5OGEyRjVUcVVWT2lyOU9BTU9mZEM0UXREQlY0clo4bFZiM0xqTTQ4NFAyWmdVb0lKc2c?oc=5)
-
----
-
-### [First cases of mosquito-borne virus found in blackbirds in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
-
-2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
-
----
-
-### [Doctors Treated a Deadly Heart Rhythm With Help From a Digital Twin](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjJwY0M0cUlwOXhjM3dpd2JveGtjdld4dDJpWTJoLUwtUEtZaENOWG9uV1I2dkRualFMT3NHdjB2bUphMmJNMmxpamsyc0lRZDZkOVBSTWJydVRCMWRjcUtNbDNSQ0FSVU9mUF9rZm5HdzJtSi1VLThHU1BOZjdGY0M5QzhUd19RM1otZXdmYzNiaXJaczRHUTJQeDI?oc=5)
-
-2026-04-02 <span class="news-indication-tag">irregular heartbeat</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjJwY0M0cUlwOXhjM3dpd2JveGtjdld4dDJpWTJoLUwtUEtZaENOWG9uV1I2dkRualFMT3NHdjB2bUphMmJNMmxpamsyc0lRZDZkOVBSTWJydVRCMWRjcUtNbDNSQ0FSVU9mUF9rZm5HdzJtSi1VLThHU1BOZjdGY0M5QzhUd19RM1otZXdmYzNiaXJaczRHUTJQeDI?oc=5)
 
 ---
 

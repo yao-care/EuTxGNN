@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lopinavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Contrasto all’Epatite A: nei guai tre pescherie di San Giorgio a Cremano - Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWl2bXFzODVjQm5ORVJsSGlDMUtnVmFMTF9iZi15d2NHR19aZDdZNkxOWDFtcTUxUElVU2FzeWtzeFJHNVRKSGpCcFpSY0EtTTJmLVktYVBwVFRIUXZMUTlZbkt2eVJKeTJScVNIVHBaaUU3eG1kTHZyWTU5UkJDTkNTbUstOW9Ua2otcDlVaFBuYzR0M2xFXzFZSTdPRmttYmdlaE9SZ1pwM2ozNjNrbmFrbFR4RGk0T216MTU1QVDSAawBQVVfeXFMTkxLd1ZoMUF5VkktaWtpM2hfU3AwWEZtR1BJYTNPTWJhUTFFaFBaTWlYaTUweG93RVhJVTZKaDg2Ul9JbkNIVzVBZXMwV1U2SDNnWHdNcU80WnN5d2hqUHA4dzVPendobjRCTGpobjE1S3RPd2VWZmhTSHJkeGlUaFQ1NWJQbU5RbDFnWUlOMXptLTNuaTg5ODEwMVJuajVFNl9wQXA0OGxZcFpqbg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWl2bXFzODVjQm5ORVJsSGlDMUtnVmFMTF9iZi15d2NHR19aZDdZNkxOWDFtcTUxUElVU2FzeWtzeFJHNVRKSGpCcFpSY0EtTTJmLVktYVBwVFRIUXZMUTlZbkt2eVJKeTJScVNIVHBaaUU3eG1kTHZyWTU5UkJDTkNTbUstOW9Ua2otcDlVaFBuYzR0M2xFXzFZSTdPRmttYmdlaE9SZ1pwM2ozNjNrbmFrbFR4RGk0T216MTU1QVDSAawBQVVfeXFMTkxLd1ZoMUF5VkktaWtpM2hfU3AwWEZtR1BJYTNPTWJhUTFFaFBaTWlYaTUweG93RVhJVTZKaDg2Ul9JbkNIVzVBZXMwV1U2SDNnWHdNcU80WnN5d2hqUHA4dzVPendobjRCTGpobjE1S3RPd2VWZmhTSHJkeGlUaFQ1NWJQbU5RbDFnWUlOMXptLTNuaTg5ODEwMVJuajVFNl9wQXA0OGxZcFpqbg?oc=5)
-
----
-
-### [Zuppa di cozze del Giovedì Santo, le parole dei ristoratori: «Gamberi, freselle e bufala: vince il menu alternativo» - Il Mattino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWJtQkw2Uk5LQ3Y0T1VPUFc1X0JEWXlEdHN3MGMzWGE4YW5XSnN6OG5rMlowanZ2OWVUQWJRLW5JRllVbkh3QUJ0bm02UVpJYXFzTUwwbG9IbDc4NmZseEJZaEZBY0syc3BuMTJWU0l1b3RIT21vRkFtRG1iZFh1cnMyblBvYldqU2RodUtOS2FMandsTmpSbUVJSDVKV1htc1h6R0VxeGpoNGJPZnB6U01zdWk2enFlRnJFMTVSYkVHMEtRdHY4eGJSVHBsZ0dVVFF3?oc=5)
-
-2026-04-02 <span class="news-indication-tag">epatite</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWJtQkw2Uk5LQ3Y0T1VPUFc1X0JEWXlEdHN3MGMzWGE4YW5XSnN6OG5rMlowanZ2OWVUQWJRLW5JRllVbkh3QUJ0bm02UVpJYXFzTUwwbG9IbDc4NmZseEJZaEZBY0syc3BuMTJWU0l1b3RIT21vRkFtRG1iZFh1cnMyblBvYldqU2RodUtOS2FMandsTmpSbUVJSDVKV1htc1h6R0VxeGpoNGJPZnB6U01zdWk2enFlRnJFMTVSYkVHMEtRdHY4eGJSVHBsZ0dVVFF3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Neue Studien revolutionieren das Verständnis von Depression - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUxKSl9xQ0I5VmVEbHI4UzRBLW1GSVlsLXo5TzRFa09NN1Zud2RjRHdNWTBGcG5SUm9IVnFYa0pHWVpfQV9jai1mSENmSnYwRmMwNTFEOEJfUTFHeWRiTHZBRjMwaXM2M3hHVWV0ZWtlS25XcFAzSGFuaWhDYTFPSkRTcW5TMjBxc2ZGWW9qRTR0TXNWMGp5bTNTdEFHaWp1YWpLLUlXaU9QYjd0WnMxVU5QNEdnbGJNY1pR?oc=5)
+
+2026-04-04 <span class="news-indication-tag">depression</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUxKSl9xQ0I5VmVEbHI4UzRBLW1GSVlsLXo5TzRFa09NN1Zud2RjRHdNWTBGcG5SUm9IVnFYa0pHWVpfQV9jai1mSENmSnYwRmMwNTFEOEJfUTFHeWRiTHZBRjMwaXM2M3hHVWV0ZWtlS25XcFAzSGFuaWhDYTFPSkRTcW5TMjBxc2ZGWW9qRTR0TXNWMGp5bTNTdEFHaWp1YWpLLUlXaU9QYjd0WnMxVU5QNEdnbGJNY1pR?oc=5)
+
+---
 
 
 <div class="disclaimer">

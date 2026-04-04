@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Un estudio demuestra que la obesidad no siempre está ligada a comer más, sino a comer peor](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
+
+2026-04-04 <span class="news-indication-tag">obesidad</span>
+
+來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
+
+---
+
+### [Free NHS Wegovy jabs made available to 1.2million if you have four health risks - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
+
+2026-04-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
+
+---
 
 ### [Los genéricos abren la pugna por un hueco en el mercado de la obesidad - El Economista](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjRTOFdGd0pOcTZsd0NLYU4tZE9tTU1BeC1SdXFfd0tCaFhMTmc0X2xMbXlIaFZITWlTZmwxdEkzQWxIUU1ybEwta2tSZXJjYzZyVy1DdU1iRXMxNjNjc2NYbG5MZ3Raa3RwdjV3djd6Nm1aT1B4VDhhVTltZmdadUx0SlR5cXhYeVdXakVxSTZLRW1UYmJET0JzUm94blFBX2FfZkhwWjI3Q1FacUNJRmpBclJaSjE3NklRdkdnTTNiV0lZZ05jN211R21oLVRISUVwSHU5OEVKRzjSAcYBQVVfeXFMT193eGtrbEk1cHlqbHNCSjBEQTNvb2JJSXZWeGVFeUdOUFVkUU9naUhlTGdncnM3akZsRDBZTHJ4MVdLQTNMblRUOHRRMFZEdGRnYU9xOVJjendfMDNoSzNTNUhORklMTVFTbXFvNXluMklZNlpvTlpVdGtjNko4NVhnZk9sR3YzMXJfUFJKU0FKNTVxY3dDa1pFeWNCRVFXbjVUSGhLcE92Y1BQVmhzOU00X2NsdGZyRVZkQzVTZVU4SmdMUmd3?oc=5)
 
@@ -52,19 +68,19 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
+### [Semaglutide Shows Surprising Mental Health Benefits in Massive 100,000-Person Study](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5za0t2NmpjVEVUODFVZUhvelZKWEh1M0xFMVJ2ZEg1emR4X1JEcXU2U0ZmSHFSTlNjaWhCX2R2akRlc3BLRy1TUk52ZHNwakw3bzVYVDBfZ29NNzhSSGhXSmNva0FCRXF3TV9uZ3RhMkxOY1F0NG9SdzJJU2Y2TTFrWXpMZFV1aDFtaE91STMwaDhoUjgyOFotZEc3bTU2dkVOZHBudnBIWkdT?oc=5)
+
+2026-04-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5za0t2NmpjVEVUODFVZUhvelZKWEh1M0xFMVJ2ZEg1emR4X1JEcXU2U0ZmSHFSTlNjaWhCX2R2akRlc3BLRy1TUk52ZHNwakw3bzVYVDBfZ29NNzhSSGhXSmNva0FCRXF3TV9uZ3RhMkxOY1F0NG9SdzJJU2Y2TTFrWXpMZFV1aDFtaE91STMwaDhoUjgyOFotZEc3bTU2dkVOZHBudnBIWkdT?oc=5)
+
+---
+
 ### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro? - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
 
 2026-04-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
-
----
-
-### [De la obesidad a los plásticos: las causas detrás de la pubertad precoz y cuándo alarmarse, según los expertos - Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZEg1ZHk4WWtlSjRrSUZYSk1KeFJJTHhEZW0xRkVLUURNZHkyWmNxMll0NTJYQWZsZ2tRaGlrWERGQTFBTThxZjN6dHVGQnFUX1NrNXBKV0NsTl9kV3ozLUFhWGpXV2RnVGU2OUFnM0VBNXNPbFktRXAxTnk4M25SR3NkSWE3eXQwSDNVUkV3NjhRVDV0R2RxVG1zU2R5T0tOSE1BX2J0ZjQ0SkR0bUtRRjVpa2RUR3l2dmFXVzd2MzQ2MVNzUnZVSkhwS3hZQ2tqTURZUkRrQ0VMM2VxdWZfZUZFcGZ4M3NzMVZJS2tLWS1QbV9sY0NtT1FxY0VMakU2Vi01Snd5Y1hQWklnZ3c?oc=5)
-
-2026-04-02 <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZEg1ZHk4WWtlSjRrSUZYSk1KeFJJTHhEZW0xRkVLUURNZHkyWmNxMll0NTJYQWZsZ2tRaGlrWERGQTFBTThxZjN6dHVGQnFUX1NrNXBKV0NsTl9kV3ozLUFhWGpXV2RnVGU2OUFnM0VBNXNPbFktRXAxTnk4M25SR3NkSWE3eXQwSDNVUkV3NjhRVDV0R2RxVG1zU2R5T0tOSE1BX2J0ZjQ0SkR0bUtRRjVpa2RUR3l2dmFXVzd2MzQ2MVNzUnZVSkhwS3hZQ2tqTURZUkRrQ0VMM2VxdWZfZUZFcGZ4M3NzMVZJS2tLWS1QbV9sY0NtT1FxY0VMakU2Vi01Snd5Y1hQWklnZ3c?oc=5)
 
 ---
 

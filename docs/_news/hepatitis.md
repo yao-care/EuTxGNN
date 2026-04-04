@@ -3,7 +3,7 @@ layout: default
 title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>epatite（hepatitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Contrasto all’Epatite A: nei guai tre pescherie di San Giorgio a Cremano - Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWl2bXFzODVjQm5ORVJsSGlDMUtnVmFMTF9iZi15d2NHR19aZDdZNkxOWDFtcTUxUElVU2FzeWtzeFJHNVRKSGpCcFpSY0EtTTJmLVktYVBwVFRIUXZMUTlZbkt2eVJKeTJScVNIVHBaaUU3eG1kTHZyWTU5UkJDTkNTbUstOW9Ua2otcDlVaFBuYzR0M2xFXzFZSTdPRmttYmdlaE9SZ1pwM2ozNjNrbmFrbFR4RGk0T216MTU1QVDSAawBQVVfeXFMTkxLd1ZoMUF5VkktaWtpM2hfU3AwWEZtR1BJYTNPTWJhUTFFaFBaTWlYaTUweG93RVhJVTZKaDg2Ul9JbkNIVzVBZXMwV1U2SDNnWHdNcU80WnN5d2hqUHA4dzVPendobjRCTGpobjE1S3RPd2VWZmhTSHJkeGlUaFQ1NWJQbU5RbDFnWUlOMXptLTNuaTg5ODEwMVJuajVFNl9wQXA0OGxZcFpqbg?oc=5)
 
 2026-04-03
 
 來源：[Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWl2bXFzODVjQm5ORVJsSGlDMUtnVmFMTF9iZi15d2NHR19aZDdZNkxOWDFtcTUxUElVU2FzeWtzeFJHNVRKSGpCcFpSY0EtTTJmLVktYVBwVFRIUXZMUTlZbkt2eVJKeTJScVNIVHBaaUU3eG1kTHZyWTU5UkJDTkNTbUstOW9Ua2otcDlVaFBuYzR0M2xFXzFZSTdPRmttYmdlaE9SZ1pwM2ozNjNrbmFrbFR4RGk0T216MTU1QVDSAawBQVVfeXFMTkxLd1ZoMUF5VkktaWtpM2hfU3AwWEZtR1BJYTNPTWJhUTFFaFBaTWlYaTUweG93RVhJVTZKaDg2Ul9JbkNIVzVBZXMwV1U2SDNnWHdNcU80WnN5d2hqUHA4dzVPendobjRCTGpobjE1S3RPd2VWZmhTSHJkeGlUaFQ1NWJQbU5RbDFnWUlOMXptLTNuaTg5ODEwMVJuajVFNl9wQXA0OGxZcFpqbg?oc=5)
-
----
-
-### [Zuppa di cozze del Giovedì Santo, le parole dei ristoratori: «Gamberi, freselle e bufala: vince il menu alternativo» - Il Mattino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWJtQkw2Uk5LQ3Y0T1VPUFc1X0JEWXlEdHN3MGMzWGE4YW5XSnN6OG5rMlowanZ2OWVUQWJRLW5JRllVbkh3QUJ0bm02UVpJYXFzTUwwbG9IbDc4NmZseEJZaEZBY0syc3BuMTJWU0l1b3RIT21vRkFtRG1iZFh1cnMyblBvYldqU2RodUtOS2FMandsTmpSbUVJSDVKV1htc1h6R0VxeGpoNGJPZnB6U01zdWk2enFlRnJFMTVSYkVHMEtRdHY4eGJSVHBsZ0dVVFF3?oc=5)
-
-2026-04-02
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWJtQkw2Uk5LQ3Y0T1VPUFc1X0JEWXlEdHN3MGMzWGE4YW5XSnN6OG5rMlowanZ2OWVUQWJRLW5JRllVbkh3QUJ0bm02UVpJYXFzTUwwbG9IbDc4NmZseEJZaEZBY0syc3BuMTJWU0l1b3RIT21vRkFtRG1iZFh1cnMyblBvYldqU2RodUtOS2FMandsTmpSbUVJSDVKV1htc1h6R0VxeGpoNGJPZnB6U01zdWk2enFlRnJFMTVSYkVHMEtRdHY4eGJSVHBsZ0dVVFF3?oc=5)
 
 ---
 
