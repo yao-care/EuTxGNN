@@ -14,7 +14,7 @@ permalink: /news/sotatercept/
 ---
 
 <p class="key-answer" data-question="Sotatercept 有什麼相關新聞？">
-<strong>Sotatercept</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sotatercept</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/sotatercept/
 <p><a href="{{ '/drugs/sotatercept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（21 則）
+
+### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+
+2026-04-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+
+---
 
 ### [Wie Brustkrebs-Screenings überraschend Herzkrankheiten erkennen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
 
 2026-04-03 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+---
+
+### [Votre chat pourrait devenir un allié inattendu dans la lutte contre le cancer, selon une étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDcwUzNOYXlaV3ZNZUJvbTlZdHp5UU1rQ1JlSGgwMGR0U0w3TE1neVViOUctWURrTFA4cVFuRl9kOHI4QVUwUExkeDJtaGM2U0FjV19qRTMtZ2lBQWV1T0Vnb2pXT3FuUzl6WVBINmZuSHU1bE1Cc3Y3cVR5S09Ma2JQOGs3UEFvcUVIUFl4clMwV3c2V21tVmRVbkpCUlVlTVVIeEtzR1hjRHRYRmMzVkNqQ1ZTNWx4MGtkTWhkdlZEaGtVa29EdG82aEd6Z3VUd3BJ?oc=5)
+
+2026-04-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDcwUzNOYXlaV3ZNZUJvbTlZdHp5UU1rQ1JlSGgwMGR0U0w3TE1neVViOUctWURrTFA4cVFuRl9kOHI4QVUwUExkeDJtaGM2U0FjV19qRTMtZ2lBQWV1T0Vnb2pXT3FuUzl6WVBINmZuSHU1bE1Cc3Y3cVR5S09Ma2JQOGs3UEFvcUVIUFl4clMwV3c2V21tVmRVbkpCUlVlTVVIeEtzR1hjRHRYRmMzVkNqQ1ZTNWx4MGtkTWhkdlZEaGtVa29EdG82aEd6Z3VUd3BJ?oc=5)
 
 ---
 
@@ -100,14 +116,6 @@ permalink: /news/sotatercept/
 
 ---
 
-### [Cancer du sein : cette surprenante découverte chez le chat pourrait faire avancer la recherche et sauver des vies humaines - Pleine vie](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTzBVZHdfcHZQNER4UHM0amJzTUROOGJGNkxneHZwTTl0aE1UNUFfVFJXOUZGd1pVN1RDMGdWeVkxR0hUT0ZaSmpsY0k5bU9fTEZyMVlSa2dmcFhBWkhVWjVSWG5EMlR2ZGlyb2NLdGotS1hwclhta2l6SFNVZjljTnBOWGl2YU9ZVXRnTWM3OEJXU1NxTEZTMDVKb09LU2VTUDBVbTVaWEcwODJIZGJhRUJSWDZsS2ZNX09wODhNUVk4czYyUGdkYi1qYWx3UWJ5TU5XbFVGU0QzdWp4cnp6YklrUkppdVlmS3FQbWRPX2otTkZWNGc?oc=5)
-
-2026-04-03 <span class="news-indication-tag">cancer</span>
-
-來源：[Pleine vie](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTzBVZHdfcHZQNER4UHM0amJzTUROOGJGNkxneHZwTTl0aE1UNUFfVFJXOUZGd1pVN1RDMGdWeVkxR0hUT0ZaSmpsY0k5bU9fTEZyMVlSa2dmcFhBWkhVWjVSWG5EMlR2ZGlyb2NLdGotS1hwclhta2l6SFNVZjljTnBOWGl2YU9ZVXRnTWM3OEJXU1NxTEZTMDVKb09LU2VTUDBVbTVaWEcwODJIZGJhRUJSWDZsS2ZNX09wODhNUVk4czYyUGdkYi1qYWx3UWJ5TU5XbFVGU0QzdWp4cnp6YklrUkppdVlmS3FQbWRPX2otTkZWNGc?oc=5)
-
----
-
 ### [Deputy council leader urges men to get tested for prostate cancer after his own diagnosis - Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -124,19 +132,19 @@ permalink: /news/sotatercept/
 
 ---
 
-### [Japón marca las normas de la ciencia: avance histórico en el tratamiento de la diabetes con una solución oral](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNHdqR2dUaDFPMk5LTUhrUlp2c3IxZmtPQVRKdERxUHY3R05mVUk3bTVpVlFxSE5hOXpaRkgxa0xXblhuQXl6SUptOGpZMjBHZ1FxQURsS2JHaVNucXJsQnRmeld0MkVDQzJVNFo2RS1tZzFpR0JXc3VZOEZxd0ZvU3NvQnZodXczbF85TzJXenB2TXd3WERwWS1xWkRiX3o4dS1GNmVJeWJTQ3liSVczN3o5ZVZlZ2tfcElSTDJ5NmwyNzNPR0FnYkJMd09mUGsxQ0djZENjV2lEX0ktc20waVBtMnpYN2ZLTFNN0gHwAUFVX3lxTE5rZGR2ZWI4WFRwdFY0czZ1ak5hdnctM0w0WXc1Mm5uNk1mdEdJVzNmWjh3cVpCUm4yQTV1aGYxbmVnZEhGbmRlNWFLYmFCM1o5SzRHWlBfQWh3MXdvV2F5dl9sRkJQZjJBSEdGZTNlNER5VTZWS3ZtXy1qd0Q1eGVmQ1pVZTJRdXVLUkdIQmhxZ2pPWjhrY053Q1VRZUhUS3lPbFB5U2FWblJEcHN6ekZ3bEtEUlJncUJjOHFxZDBOT0prU3BkSWRwS0hYeTNJUWtfSFM2S3lNNWJHa0JhMnZTeGt0Rk5CdWtjN3lmcHY5cg?oc=5)
-
-2026-04-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Vandal](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNHdqR2dUaDFPMk5LTUhrUlp2c3IxZmtPQVRKdERxUHY3R05mVUk3bTVpVlFxSE5hOXpaRkgxa0xXblhuQXl6SUptOGpZMjBHZ1FxQURsS2JHaVNucXJsQnRmeld0MkVDQzJVNFo2RS1tZzFpR0JXc3VZOEZxd0ZvU3NvQnZodXczbF85TzJXenB2TXd3WERwWS1xWkRiX3o4dS1GNmVJeWJTQ3liSVczN3o5ZVZlZ2tfcElSTDJ5NmwyNzNPR0FnYkJMd09mUGsxQ0djZENjV2lEX0ktc20waVBtMnpYN2ZLTFNN0gHwAUFVX3lxTE5rZGR2ZWI4WFRwdFY0czZ1ak5hdnctM0w0WXc1Mm5uNk1mdEdJVzNmWjh3cVpCUm4yQTV1aGYxbmVnZEhGbmRlNWFLYmFCM1o5SzRHWlBfQWh3MXdvV2F5dl9sRkJQZjJBSEdGZTNlNER5VTZWS3ZtXy1qd0Q1eGVmQ1pVZTJRdXVLUkdIQmhxZ2pPWjhrY053Q1VRZUhUS3lPbFB5U2FWblJEcHN6ekZ3bEtEUlJncUJjOHFxZDBOT0prU3BkSWRwS0hYeTNJUWtfSFM2S3lNNWJHa0JhMnZTeGt0Rk5CdWtjN3lmcHY5cg?oc=5)
-
----
-
 ### [Genève : des brins d'ADN intelligents ciblent les cellules cancéreuses - 20 Minuten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUdmSlE4VC0wOU9wc1B1Qnlhd1p4dzgyTTFNSzlXQ1ZaZkZhbDFCRzZfOTdPakVuR3ZSMjRTdEMyTmdjQzRxcWU2aGVJeVZyVWVHU0YtemhHdVNxbXR3V2ZhaWNobGJNeW42SGR2TThWSlNobXZVM0xhenNPR0V6cDBpWmFXd0w2TFJ3LVhIVjJ3MDgtWWtuX184bUJtTFZGaXc?oc=5)
 
 2026-04-02 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
 
 來源：[20 Minuten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUdmSlE4VC0wOU9wc1B1Qnlhd1p4dzgyTTFNSzlXQ1ZaZkZhbDFCRzZfOTdPakVuR3ZSMjRTdEMyTmdjQzRxcWU2aGVJeVZyVWVHU0YtemhHdVNxbXR3V2ZhaWNobGJNeW42SGR2TThWSlNobXZVM0xhenNPR0V6cDBpWmFXd0w2TFJ3LVhIVjJ3MDgtWWtuX184bUJtTFZGaXc?oc=5)
+
+---
+
+### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore'](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
+
+2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
 ---
 
@@ -150,9 +158,9 @@ permalink: /news/sotatercept/
 
 ### [Il microbiota tumorale: una nuova frontiera nella biologia del cancro](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
 
-2026-04-02 <span class="news-indication-tag">tumor</span>
+2026-04-02 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[agi.it](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
 
 ---
 
@@ -164,27 +172,11 @@ permalink: /news/sotatercept/
 
 ---
 
-### [Cioccolato: quello fondente è davvero migliore di quello al latte per la salute e per il peso? - la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHVGdVl2eG1iUmU5RHR3SGVNLThrZFhoVXY4eDQtdXozWmMzelhaSHFtYTBfT3A2UXd3Q1lrX1VWV3hwa1pzS2RNdWt2STZHTy13dG9RZk9NVFRqTWJxdFo0Qlk4WXg5VC0xM3ZsRmhfaEN2NXRKeXNscFVMVjlvblJjUUdJSEQyaFV6ZmFtUU9ZV3dlOXBDSUJHdmt3NkZ6dGpZQlFaZ25mVWhacWZEbEZRLTh1NW1mSVhWeW9pWUNMUdIBxwFBVV95cUxOMDhNTWVOYnRORTRhc0FfZFpFN0tTX1ZJdF9XV1ZveExmWnE5VWlLZUxhb01UeUwxZXZMa2gxTW92bDZEejRIdmZZbGFrdGUyZlU2dmlQczRweWJnQk5fWXlfX195Tl9CckN5VU5PMHR3V3Z3LW9STEl3MHIxQmt0ZEtHdG9CbzR6amFBYk1LTG5xSHhxSXpFXzFldlN4QkpWbnBCZDNPTmdrbmpYM2FjVHNyZ21kNDFqYnYyWlN2Y0ZGUTltM3J3?oc=5)
+### [El ejercicio matutino se relaciona con un menor riesgo cardiometabólico - Andalucía Información](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObi1GWmVPVEFlemQ1VU9ucWVmTE5JTzBXaVVXWm8xOXZ5U1o5SEZWVk9hSHpJbUN3ZFZVaVpJbF9wLWFsQzk4VTNTaVVvaFlmX0NheVdZZEJBZVI0czBvcHFuY1J0UERTbGxqQUp1ci1iUnpac1RnUlp0VS1pYTh6V3YtclF0WTNOV1d0ZTlNbFhPVXlRS0dTWHlJZVJMWDVjVUxvWloxRnNBZkd6MklFX290UkZGSGNweFNMQXg5VkhUY1FKQS1sYTJmWDFhbEgycTZJ0gHYAUFVX3lxTE9ZQ0lvRGRzSm91Ni1MM2ZxZFRvQW9uM2pnaWhIOTl5UVBoU1JwSzhMblNDTjFXYTg4OWFRemJfeW5MXzhBd0RsT1hrT0tZOGtwZFFsYkNubHJWNGR1WkRsZUFWOEk1cWFzY21OaFU1YUpWdWdZODlfTG43ZGdiM01FRzZvaGhmY1VLb3FYcGhGdjFHV2FHdm1VV1gyNThIOXFhbF9xRXM4SDg2TWZrSUgtM3ZISDQ2R1hkaWlfTk5FTGZwYXFQMU5GbzlLcXc2dzJ4LVhrWEIwTw?oc=5)
 
-2026-04-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">emicrania</span>
+2026-04-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHVGdVl2eG1iUmU5RHR3SGVNLThrZFhoVXY4eDQtdXozWmMzelhaSHFtYTBfT3A2UXd3Q1lrX1VWV3hwa1pzS2RNdWt2STZHTy13dG9RZk9NVFRqTWJxdFo0Qlk4WXg5VC0xM3ZsRmhfaEN2NXRKeXNscFVMVjlvblJjUUdJSEQyaFV6ZmFtUU9ZV3dlOXBDSUJHdmt3NkZ6dGpZQlFaZ25mVWhacWZEbEZRLTh1NW1mSVhWeW9pWUNMUdIBxwFBVV95cUxOMDhNTWVOYnRORTRhc0FfZFpFN0tTX1ZJdF9XV1ZveExmWnE5VWlLZUxhb01UeUwxZXZMa2gxTW92bDZEejRIdmZZbGFrdGUyZlU2dmlQczRweWJnQk5fWXlfX195Tl9CckN5VU5PMHR3V3Z3LW9STEl3MHIxQmt0ZEtHdG9CbzR6amFBYk1LTG5xSHhxSXpFXzFldlN4QkpWbnBCZDNPTmdrbmpYM2FjVHNyZ21kNDFqYnYyWlN2Y0ZGUTltM3J3?oc=5)
-
----
-
-### [Scots builder who suffered 'back pain' given terminal prostate cancer diagnosis - Daily Record](https://news.google.com/rss/articles/CBMikwFBVV95cUxPU25mR2ZQUlZ4RUJPM2dFVWE1UmtsUHRqd2JhM3FjM0IxLVhuTzFmcTgyQzlaT0FXc3otSGxKWEZHcFZjbVg3NmVXbHJNU1p2aGFxRmFrN1MwTG5RWVVRV0gycTJROEdjS21ueFBaeDczU3dMQ01UaFI5NWlqYTMycjhBQzVtcUZXc3MzQm1Va3dmbjTSAZgBQVVfeXFMT2NKN3RwUzFhS0Rpc2JJU0xjcDkxSkVmVDZTZnJ2OE90UEhRVFotNlhGMEdXODdsUWdkWmZuRWhQazktY2xkMnd5bkJsT1VkZUNjdmwxdVVlanRmZEUtQ0NDYW51WmlUR0NXeU1sbHQ0YzVveUpZelJIazJLVjFhNE9udl95SzdOOTROcTk5eEMyN1k3U3pkS3I?oc=5)
-
-2026-04-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMikwFBVV95cUxPU25mR2ZQUlZ4RUJPM2dFVWE1UmtsUHRqd2JhM3FjM0IxLVhuTzFmcTgyQzlaT0FXc3otSGxKWEZHcFZjbVg3NmVXbHJNU1p2aGFxRmFrN1MwTG5RWVVRV0gycTJROEdjS21ueFBaeDczU3dMQ01UaFI5NWlqYTMycjhBQzVtcUZXc3MzQm1Va3dmbjTSAZgBQVVfeXFMT2NKN3RwUzFhS0Rpc2JJU0xjcDkxSkVmVDZTZnJ2OE90UEhRVFotNlhGMEdXODdsUWdkWmZuRWhQazktY2xkMnd5bkJsT1VkZUNjdmwxdVVlanRmZEUtQ0NDYW51WmlUR0NXeU1sbHQ0YzVveUpZelJIazJLVjFhNE9udl95SzdOOTROcTk5eEMyN1k3U3pkS3I?oc=5)
-
----
-
-### [Alfie the spaniel sniffed out my cancer, says Wendover dog owner](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yY1lTRm54SVo4RG12SnRWNDNBQ1JhbE1uNjJUUjVTcFBJTk1EdDVSMjRzOHFCVVVucWZaM0owOXlCVWdvMDBURVZHc2pQb0xNcXRxendHb3Q2RlhQ?oc=5)
-
-2026-04-02 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yY1lTRm54SVo4RG12SnRWNDNBQ1JhbE1uNjJUUjVTcFBJTk1EdDVSMjRzOHFCVVVucWZaM0owOXlCVWdvMDBURVZHc2pQb0xNcXRxendHb3Q2RlhQ?oc=5)
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObi1GWmVPVEFlemQ1VU9ucWVmTE5JTzBXaVVXWm8xOXZ5U1o5SEZWVk9hSHpJbUN3ZFZVaVpJbF9wLWFsQzk4VTNTaVVvaFlmX0NheVdZZEJBZVI0czBvcHFuY1J0UERTbGxqQUp1ci1iUnpac1RnUlp0VS1pYTh6V3YtclF0WTNOV1d0ZTlNbFhPVXlRS0dTWHlJZVJMWDVjVUxvWloxRnNBZkd6MklFX290UkZGSGNweFNMQXg5VkhUY1FKQS1sYTJmWDFhbEgycTZJ0gHYAUFVX3lxTE9ZQ0lvRGRzSm91Ni1MM2ZxZFRvQW9uM2pnaWhIOTl5UVBoU1JwSzhMblNDTjFXYTg4OWFRemJfeW5MXzhBd0RsT1hrT0tZOGtwZFFsYkNubHJWNGR1WkRsZUFWOEk1cWFzY21OaFU1YUpWdWdZODlfTG43ZGdiM01FRzZvaGhmY1VLb3FYcGhGdjFHV2FHdm1VV1gyNThIOXFhbF9xRXM4SDg2TWZrSUgtM3ZISDQ2R1hkaWlfTk5FTGZwYXFQMU5GbzlLcXc2dzJ4LVhrWEIwTw?oc=5)
 
 ---
 
@@ -192,7 +184,7 @@ permalink: /news/sotatercept/
 
 2026-04-02 <span class="news-indication-tag">Krebs</span>
 
-來源：[Pressetext](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVNmVnpNSUlZOWU1WUJ4WVN4WG1Wa1N5bkEzQkpkanZ5RjNsbEhxOGZSTFJYZjBOR184bzBLVjFtak5Hbk5TUFNETHBPY3dYWjI1MkVmM0pJOUpoellTNTk1U0Q4Nzc2Rm9QS3dOT3V0ZFN4bVFNaUF3VVE2eHozMEVVaw?oc=5)
+來源：[pressetext.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVNmVnpNSUlZOWU1WUJ4WVN4WG1Wa1N5bkEzQkpkanZ5RjNsbEhxOGZSTFJYZjBOR184bzBLVjFtak5Hbk5TUFNETHBPY3dYWjI1MkVmM0pJOUpoellTNTk1U0Q4Nzc2Rm9QS3dOT3V0ZFN4bVFNaUF3VVE2eHozMEVVaw?oc=5)
 
 ---
 
@@ -216,23 +208,7 @@ permalink: /news/sotatercept/
 
 2026-04-02 <span class="news-indication-tag">tumor</span>
 
-來源：[agi.it](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
-
----
-
-### [«Non c'è dubbio»: ecco quanto sono pericolose le sigarette elettroniche](https://news.google.com/rss/articles/CBMitgFBVV95cUxQclFObjlqUDdPQ3Zwdm9neFBRMkNsSjRWZFVfbkJWM0t5RnFIZ1RMYnl0dUgtTTVwT0VCZDk5XzlKaFhURWhVQ1ZfencxVGl1Wm1hVXM3NFZaTnFzaTBiNkpDSkFIOU4tTE9ZdENhZjlwa1UxU3BDX0RXSHFCd1NzNzFlZ2dnSjBLb2FCNnFQNG9QY1VGWUt4bU5WMjlhZjRlZy1UNHVKSzhzZ2ZRSWNITVdUY005Zw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">cancro</span>
-
-來源：[Ticinonline](https://news.google.com/rss/articles/CBMitgFBVV95cUxQclFObjlqUDdPQ3Zwdm9neFBRMkNsSjRWZFVfbkJWM0t5RnFIZ1RMYnl0dUgtTTVwT0VCZDk5XzlKaFhURWhVQ1ZfencxVGl1Wm1hVXM3NFZaTnFzaTBiNkpDSkFIOU4tTE9ZdENhZjlwa1UxU3BDX0RXSHFCd1NzNzFlZ2dnSjBLb2FCNnFQNG9QY1VGWUt4bU5WMjlhZjRlZy1UNHVKSzhzZ2ZRSWNITVdUY005Zw?oc=5)
-
----
-
-### [Identifican un nuevo eje molecular que regula la inflamación vascular en la diabetes y abre nuevas vías de tratamiento - El Economista](https://news.google.com/rss/articles/CBMisgJBVV95cUxNaGlCVUs0b3pRVlk1MTdqT2JnNkJjN2tUTVRxcGV1TE5CWk9jN3cyN2tSTGtVVTVkWnM0U0NhbFBzdDBzWmEtTzJ3OHFMYzMwTU9wcGdNRjlfX21iZFFxbGpQQ0lDdHlGNlBIODc5RllBa2V4YTgtbkE1d3BEMmQ5bWlzd0Z4b0RPX2tnZjFBQ1NjMkxGcEhIdlFhdGUxWld6M25kZl90aWYza2hCSmFYdF9aZ1lWTXdhd1VGWHJNN1pnaHRPVkZNM1k2Nm9tM1FZZ29QRE5oM0dpa1lxNmxYUVlUcUFPaE0xODhHQWxfbVdGcE9SUk1uQmRla09PY2hSUnh2bUdFaWJEVTI5bHUyck5Ublc4UnlsLWNxaUlSS1FKd3ZqaGRnYkd6c0J5aHlXdFE?oc=5)
-
-2026-04-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMisgJBVV95cUxNaGlCVUs0b3pRVlk1MTdqT2JnNkJjN2tUTVRxcGV1TE5CWk9jN3cyN2tSTGtVVTVkWnM0U0NhbFBzdDBzWmEtTzJ3OHFMYzMwTU9wcGdNRjlfX21iZFFxbGpQQ0lDdHlGNlBIODc5RllBa2V4YTgtbkE1d3BEMmQ5bWlzd0Z4b0RPX2tnZjFBQ1NjMkxGcEhIdlFhdGUxWld6M25kZl90aWYza2hCSmFYdF9aZ1lWTXdhd1VGWHJNN1pnaHRPVkZNM1k2Nm9tM1FZZ29QRE5oM0dpa1lxNmxYUVlUcUFPaE0xODhHQWxfbVdGcE9SUk1uQmRla09PY2hSUnh2bUdFaWJEVTI5bHUyck5Ublc4UnlsLWNxaUlSS1FKd3ZqaGRnYkd6c0J5aHlXdFE?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
 
 ---
 

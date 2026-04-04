@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La intervención sobre la microbiota intestinal ofrece potencial en la depresión adolescente - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVERvY01fVm1BQlZrY1k0YjNuUnlEUzhWN2kyQy1GaGpnUGZtQ2hHb3RWemhxSi14cmFIZHlNbExKeVcxQUtKdTRBd0tTZlZUY01uUURSUmw3RF9pMlJNZW83Wmc2c21HLTI2eFlxVnl6YmhLYy00b3ZZR2t3SjBSWUdEMWpielpiVlBjZmxsNFBSczlIUDJMWTktRUhxX1dlZ1VDQ091ZV9YR0lCNGhSNW05ZE9BZ9IBsAFBVV95cUxPRWNDMVZYY3F4SUVLNjNpNmt3V3RSbVY1MVU2NGhITFVnVGduUUhoTmMxaExGc3Y0aHNBbXUyYWxRcXF0ZEJfaHM4RHlPUlNiV0pZaEk3d192cWUzOWwtWncwTVBndXMyT1NxWUEzM2daZGNVVXY5ZV9JZlBObDc4YklnSUpEYWJSYzE3RTRRNS1iakk3NGVkUENyTHBIaU5OQWFjZ2QycktCTmRsZVlBdw?oc=5)
+
+2026-04-02 <span class="news-indication-tag">depresión</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVERvY01fVm1BQlZrY1k0YjNuUnlEUzhWN2kyQy1GaGpnUGZtQ2hHb3RWemhxSi14cmFIZHlNbExKeVcxQUtKdTRBd0tTZlZUY01uUURSUmw3RF9pMlJNZW83Wmc2c21HLTI2eFlxVnl6YmhLYy00b3ZZR2t3SjBSWUdEMWpielpiVlBjZmxsNFBSczlIUDJMWTktRUhxX1dlZ1VDQ091ZV9YR0lCNGhSNW05ZE9BZ9IBsAFBVV95cUxPRWNDMVZYY3F4SUVLNjNpNmt3V3RSbVY1MVU2NGhITFVnVGduUUhoTmMxaExGc3Y0aHNBbXUyYWxRcXF0ZEJfaHM4RHlPUlNiV0pZaEk3d192cWUzOWwtWncwTVBndXMyT1NxWUEzM2daZGNVVXY5ZV9JZlBObDc4YklnSUpEYWJSYzE3RTRRNS1iakk3NGVkUENyTHBIaU5OQWFjZ2QycktCTmRsZVlBdw?oc=5)
+
+---
 
 
 <div class="disclaimer">

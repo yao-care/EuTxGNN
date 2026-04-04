@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Il vaccino antinfluenzale protegge da infarto e ictus - Corriere del Ticino](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWpqSGZrMF9OUEgwMlIya1ljbHlGa0xES1cycG9IWmRyeVA0cWp4Nk9pcVRnTGFwZWN2aEZfcnhMcGdBR0NVSk1OdkJkRUJCNUNvRXNDbHpiQkttMVZCTXBpeGcwTlJjNklpZHNUZ3Q4TWhqbzFuajJuNVZRUjNwOGNMWnZaeE9zV2dLaw?oc=5)
 
@@ -81,14 +81,6 @@ permalink: /news/telmisartan/
 2026-04-02 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[DIE ZEIT](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVpmOXR1X0x1bXF3SDBNVHpXQ1JqZGNtbHAyU1M3SlhMLXY0NTB5NGZJZEgxbHBuYlRzOE9aR083OThpcXpJMmMtMTF5WDRZTFdINEFpQ3A1Njhzc2FnWE5IYnJzUTU3WG05U042YzREZU9nYWM2YmowTjA2MWwwVVRGcFJSeXc5NVJnX2d6ZHc?oc=5)
-
----
-
-### [Cuore: in arrivo nuova terapia che riduce i rischi legati al colesterolo cattivo - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0tvTGdORWgwMTMtVXhjcGl5SDUyUnhEU2I2bVJFZVhpN2wwQnBjRUk5OHhUNlB4ZGxMZ19EVWMwaFREeExwYkM1eExTT3BpS05VWUxaUUZOVjFZSzNXeG95Nm1ZZE5sbmM3c3BHZFFOV0liWkZZVjJ4cXN3T3psc0gyUWVKS3JsUHM5dlg4MVZ0Q1p3dXJsYTZtV1hwNHlheEpxczhTX3M5Yk4yTlRxM2RR?oc=5)
-
-2026-04-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0tvTGdORWgwMTMtVXhjcGl5SDUyUnhEU2I2bVJFZVhpN2wwQnBjRUk5OHhUNlB4ZGxMZ19EVWMwaFREeExwYkM1eExTT3BpS05VWUxaUUZOVjFZSzNXeG95Nm1ZZE5sbmM3c3BHZFFOV0liWkZZVjJ4cXN3T3psc0gyUWVKS3JsUHM5dlg4MVZ0Q1p3dXJsYTZtV1hwNHlheEpxczhTX3M5Yk4yTlRxM2RR?oc=5)
 
 ---
 

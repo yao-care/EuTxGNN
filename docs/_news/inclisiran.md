@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Inclisiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Cioccolato: quello fondente è davvero migliore di quello al latte per la salute e per il peso? - la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHVGdVl2eG1iUmU5RHR3SGVNLThrZFhoVXY4eDQtdXozWmMzelhaSHFtYTBfT3A2UXd3Q1lrX1VWV3hwa1pzS2RNdWt2STZHTy13dG9RZk9NVFRqTWJxdFo0Qlk4WXg5VC0xM3ZsRmhfaEN2NXRKeXNscFVMVjlvblJjUUdJSEQyaFV6ZmFtUU9ZV3dlOXBDSUJHdmt3NkZ6dGpZQlFaZ25mVWhacWZEbEZRLTh1NW1mSVhWeW9pWUNMUdIBxwFBVV95cUxOMDhNTWVOYnRORTRhc0FfZFpFN0tTX1ZJdF9XV1ZveExmWnE5VWlLZUxhb01UeUwxZXZMa2gxTW92bDZEejRIdmZZbGFrdGUyZlU2dmlQczRweWJnQk5fWXlfX195Tl9CckN5VU5PMHR3V3Z3LW9STEl3MHIxQmt0ZEtHdG9CbzR6amFBYk1LTG5xSHhxSXpFXzFldlN4QkpWbnBCZDNPTmdrbmpYM2FjVHNyZ21kNDFqYnYyWlN2Y0ZGUTltM3J3?oc=5)
-
-2026-04-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHVGdVl2eG1iUmU5RHR3SGVNLThrZFhoVXY4eDQtdXozWmMzelhaSHFtYTBfT3A2UXd3Q1lrX1VWV3hwa1pzS2RNdWt2STZHTy13dG9RZk9NVFRqTWJxdFo0Qlk4WXg5VC0xM3ZsRmhfaEN2NXRKeXNscFVMVjlvblJjUUdJSEQyaFV6ZmFtUU9ZV3dlOXBDSUJHdmt3NkZ6dGpZQlFaZ25mVWhacWZEbEZRLTh1NW1mSVhWeW9pWUNMUdIBxwFBVV95cUxOMDhNTWVOYnRORTRhc0FfZFpFN0tTX1ZJdF9XV1ZveExmWnE5VWlLZUxhb01UeUwxZXZMa2gxTW92bDZEejRIdmZZbGFrdGUyZlU2dmlQczRweWJnQk5fWXlfX195Tl9CckN5VU5PMHR3V3Z3LW9STEl3MHIxQmt0ZEtHdG9CbzR6amFBYk1LTG5xSHhxSXpFXzFldlN4QkpWbnBCZDNPTmdrbmpYM2FjVHNyZ21kNDFqYnYyWlN2Y0ZGUTltM3J3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

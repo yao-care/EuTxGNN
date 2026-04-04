@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ziconotide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [De la obesidad a los plásticos: las causas detrás de la pubertad precoz y cuándo alarmarse, según los expertos - Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZEg1ZHk4WWtlSjRrSUZYSk1KeFJJTHhEZW0xRkVLUURNZHkyWmNxMll0NTJYQWZsZ2tRaGlrWERGQTFBTThxZjN6dHVGQnFUX1NrNXBKV0NsTl9kV3ozLUFhWGpXV2RnVGU2OUFnM0VBNXNPbFktRXAxTnk4M25SR3NkSWE3eXQwSDNVUkV3NjhRVDV0R2RxVG1zU2R5T0tOSE1BX2J0ZjQ0SkR0bUtRRjVpa2RUR3l2dmFXVzd2MzQ2MVNzUnZVSkhwS3hZQ2tqTURZUkRrQ0VMM2VxdWZfZUZFcGZ4M3NzMVZJS2tLWS1QbV9sY0NtT1FxY0VMakU2Vi01Snd5Y1hQWklnZ3c?oc=5)
-
-2026-04-02 <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZEg1ZHk4WWtlSjRrSUZYSk1KeFJJTHhEZW0xRkVLUURNZHkyWmNxMll0NTJYQWZsZ2tRaGlrWERGQTFBTThxZjN6dHVGQnFUX1NrNXBKV0NsTl9kV3ozLUFhWGpXV2RnVGU2OUFnM0VBNXNPbFktRXAxTnk4M25SR3NkSWE3eXQwSDNVUkV3NjhRVDV0R2RxVG1zU2R5T0tOSE1BX2J0ZjQ0SkR0bUtRRjVpa2RUR3l2dmFXVzd2MzQ2MVNzUnZVSkhwS3hZQ2tqTURZUkRrQ0VMM2VxdWZfZUZFcGZ4M3NzMVZJS2tLWS1QbV9sY0NtT1FxY0VMakU2Vi01Snd5Y1hQWklnZ3c?oc=5)
-
----
-
-### [Cioccolato: quello fondente è davvero migliore di quello al latte per la salute e per il peso? - la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHVGdVl2eG1iUmU5RHR3SGVNLThrZFhoVXY4eDQtdXozWmMzelhaSHFtYTBfT3A2UXd3Q1lrX1VWV3hwa1pzS2RNdWt2STZHTy13dG9RZk9NVFRqTWJxdFo0Qlk4WXg5VC0xM3ZsRmhfaEN2NXRKeXNscFVMVjlvblJjUUdJSEQyaFV6ZmFtUU9ZV3dlOXBDSUJHdmt3NkZ6dGpZQlFaZ25mVWhacWZEbEZRLTh1NW1mSVhWeW9pWUNMUdIBxwFBVV95cUxOMDhNTWVOYnRORTRhc0FfZFpFN0tTX1ZJdF9XV1ZveExmWnE5VWlLZUxhb01UeUwxZXZMa2gxTW92bDZEejRIdmZZbGFrdGUyZlU2dmlQczRweWJnQk5fWXlfX195Tl9CckN5VU5PMHR3V3Z3LW9STEl3MHIxQmt0ZEtHdG9CbzR6amFBYk1LTG5xSHhxSXpFXzFldlN4QkpWbnBCZDNPTmdrbmpYM2FjVHNyZ21kNDFqYnYyWlN2Y0ZGUTltM3J3?oc=5)
-
-2026-04-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHVGdVl2eG1iUmU5RHR3SGVNLThrZFhoVXY4eDQtdXozWmMzelhaSHFtYTBfT3A2UXd3Q1lrX1VWV3hwa1pzS2RNdWt2STZHTy13dG9RZk9NVFRqTWJxdFo0Qlk4WXg5VC0xM3ZsRmhfaEN2NXRKeXNscFVMVjlvblJjUUdJSEQyaFV6ZmFtUU9ZV3dlOXBDSUJHdmt3NkZ6dGpZQlFaZ25mVWhacWZEbEZRLTh1NW1mSVhWeW9pWUNMUdIBxwFBVV95cUxOMDhNTWVOYnRORTRhc0FfZFpFN0tTX1ZJdF9XV1ZveExmWnE5VWlLZUxhb01UeUwxZXZMa2gxTW92bDZEejRIdmZZbGFrdGUyZlU2dmlQczRweWJnQk5fWXlfX195Tl9CckN5VU5PMHR3V3Z3LW9STEl3MHIxQmt0ZEtHdG9CbzR6amFBYk1LTG5xSHhxSXpFXzFldlN4QkpWbnBCZDNPTmdrbmpYM2FjVHNyZ21kNDFqYnYyWlN2Y0ZGUTltM3J3?oc=5)
-
----
-
-### [“El reto es que los efectos de los fármacos para la obesidad sean duraderos” - El médico interactivo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
+### [La pubertad se adelanta en Europa: qué hay detrás de un cambio que preocupa a los expertos - IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NjNnBxNGFkRUdkUlVXWlpEdHdrV0ZvbHhNLVozU2RMVXlxZW9Zc1FiY25MTEJKX2taZTBSX3NRSHRNSTJmTmZtNUZsX1B0UmRrVnlHVnFTOWVBbU1tdHRJM3Vuc0dHb3l3QVVFZS0tRG4tMGVvaVBZZTFLSllkdWpmdTVsREhhaE5uOGZjLUhYdDFGT3FsN2lGY20tQ2FQT3pPWDBZQ0lFNFZld3B3b0pvc9IBrgFBVV95cUxOXzM1WUhEMk53X1N5MzQyZE9UZXZaczN1dkJQM21WTkJhMkR1UnFUQnc1T09yc01neXhDUmN0RzlJNkFndVUxb3pKTXl4ZFZmNXpDRElrLWdTOHZXYkhRNkJqTGtRZDhiX1FJdDRzVlhFbnZaNnBiM3J1X0hNUHJlTlhzUVFxLU1DLVpJdEdxRlJSM1JNQjZaOXVRNGlULWlCLTdweE1SQXNkV2JGSGc?oc=5)
 
 2026-04-02 <span class="news-indication-tag">obesidad</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NjNnBxNGFkRUdkUlVXWlpEdHdrV0ZvbHhNLVozU2RMVXlxZW9Zc1FiY25MTEJKX2taZTBSX3NRSHRNSTJmTmZtNUZsX1B0UmRrVnlHVnFTOWVBbU1tdHRJM3Vuc0dHb3l3QVVFZS0tRG4tMGVvaVBZZTFLSllkdWpmdTVsREhhaE5uOGZjLUhYdDFGT3FsN2lGY20tQ2FQT3pPWDBZQ0lFNFZld3B3b0pvc9IBrgFBVV95cUxOXzM1WUhEMk53X1N5MzQyZE9UZXZaczN1dkJQM21WTkJhMkR1UnFUQnc1T09yc01neXhDUmN0RzlJNkFndVUxb3pKTXl4ZFZmNXpDRElrLWdTOHZXYkhRNkJqTGtRZDhiX1FJdDRzVlhFbnZaNnBiM3J1X0hNUHJlTlhzUVFxLU1DLVpJdEdxRlJSM1JNQjZaOXVRNGlULWlCLTdweE1SQXNkV2JGSGc?oc=5)
+
+---
+
+### [“El reto es que los efectos de los fármacos para la obesidad sean duraderos”](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
+
+2026-04-02 <span class="news-indication-tag">obesidad</span>
+
+來源：[elmedicointeractivo.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
 
 ---
 
