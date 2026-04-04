@@ -14,7 +14,7 @@ permalink: /news/inebilizumab/
 ---
 
 <p class="key-answer" data-question="Inebilizumab 有什麼相關新聞？">
-<strong>Inebilizumab</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Inebilizumab</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,47 @@ permalink: /news/inebilizumab/
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（20 則）
+
+### [Urología detecta todavía tumores que se relacionan con químicos del calzado en Elche](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZhbkVtN09ZQ0dMRnlVdGUyRXRuWWJoTXB2NVFZQjM0UFAxVmpxSktjRnd0ZWQ1R3dTRVJqNFFUY0xMUVpDQ01IUU1xMll2QnFuV2d2Tk9LLUVRYkZ0UE5NTWptMndHMjNCMGI0dENzSGJsZmFqTHZlcXNOSlJaTHVjYWRwQlpYOFZ3aWU3dGRwYTlXZnI3OWgyYzFUQkJJbzNlTjhXakR0dlnSAbABQVVfeXFMUHROTmtNRVlkQmJZWGhzU2FScWxwcFk5NUtXRWRzamw2MWFiVDRZRjRBQjRTMXVpaDAyLXkwbUppNnFfOXVrcm0xTUxPdnBSUmxtdjRWNVE1YW9xNFc1bUQ1d01FNVRVRF83MEhOOVRBeE9FdHUwdmNOZlRycVZLRXJSVVRibkJ5OTJlRklNRkFGVy1zc0dZOUh1bHdNOG5pZUMyS20wVlVGbDZxVlZneEY?oc=5)
+
+2026-04-04 <span class="news-indication-tag">tumor</span>
+
+來源：[INFORMACION](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZhbkVtN09ZQ0dMRnlVdGUyRXRuWWJoTXB2NVFZQjM0UFAxVmpxSktjRnd0ZWQ1R3dTRVJqNFFUY0xMUVpDQ01IUU1xMll2QnFuV2d2Tk9LLUVRYkZ0UE5NTWptMndHMjNCMGI0dENzSGJsZmFqTHZlcXNOSlJaTHVjYWRwQlpYOFZ3aWU3dGRwYTlXZnI3OWgyYzFUQkJJbzNlTjhXakR0dlnSAbABQVVfeXFMUHROTmtNRVlkQmJZWGhzU2FScWxwcFk5NUtXRWRzamw2MWFiVDRZRjRBQjRTMXVpaDAyLXkwbUppNnFfOXVrcm0xTUxPdnBSUmxtdjRWNVE1YW9xNFc1bUQ1d01FNVRVRF83MEhOOVRBeE9FdHUwdmNOZlRycVZLRXJSVVRibkJ5OTJlRklNRkFGVy1zc0dZOUh1bHdNOG5pZUMyS20wVlVGbDZxVlZneEY?oc=5)
+
+---
+
+### [Tübinger Immunologe: Mission: Krebs besiegen](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWV1RldNSlpaN1d3Sk1qU3dNalZhQXktX0lVWWNOdG8wRWpFdWxhX3ZEUXNoQVlHUWgwUFdUSXRxaW9uU1RaMDRVR2VIYlpCNUFWcV9UcG83a3FKNUdLVE5STE5mbGRRUXFabzh0WDlEXzNmYXJtd3Y5VURtLUV4M3dzQzkxNVdSNTUxRnFwRzRGSzZtMWNQcVRn?oc=5)
+
+2026-04-04 <span class="news-indication-tag">Krebs</span>
+
+來源：[swp.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWV1RldNSlpaN1d3Sk1qU3dNalZhQXktX0lVWWNOdG8wRWpFdWxhX3ZEUXNoQVlHUWgwUFdUSXRxaW9uU1RaMDRVR2VIYlpCNUFWcV9UcG83a3FKNUdLVE5STE5mbGRRUXFabzh0WDlEXzNmYXJtd3Y5VURtLUV4M3dzQzkxNVdSNTUxRnFwRzRGSzZtMWNQcVRn?oc=5)
+
+---
+
+### [Pourquoi de plus en plus de non-fumeurs développent un cancer du poumon : 3 causes que personne ne surveille - Social Mag](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
+
+2026-04-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Social Mag](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
+
+---
+
+### [Wiltshire woman urges awareness of ovarian cancer signs](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xTkdINUZDQ0tWRG5yeUNMWDdhVDg0WFFsODQxTzNHY3FndG5JeDNoXy1VUk5nT2I1cTZZYXNNazJuOGFwZUl4ZXg5Q1VaVjRSdWdoQlZITHdSNGxU?oc=5)
+
+2026-04-04 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xTkdINUZDQ0tWRG5yeUNMWDdhVDg0WFFsODQxTzNHY3FndG5JeDNoXy1VUk5nT2I1cTZZYXNNazJuOGFwZUl4ZXg5Q1VaVjRSdWdoQlZITHdSNGxU?oc=5)
+
+---
+
+### [L'Intelligenza artificiale in sanità: il paradosso dell'invisibilità necessaria](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkdILXFfMlJyYXJWdFp3blIwSldNX0trSFQ5ZDhDVF9lQktNUVRLLTE2QzBkb3NxWWREUnI5bGFRVFlSLUVtc294UW4yT3ZBMUFhOUdUV0ZDSUVwTnhrUEZyeW10NjhwT3VLcmN1U2dFbndVVmpnczhmeC1lS0NLUmVNM3duTDNDdjFjWUZDM0c3WTRhWEV6U2l5Ul9sb0JBU19BR1pTbEVHejlyQUJfd29FWmtEeHNHbGc?oc=5)
+
+2026-04-04 <span class="news-indication-tag">tumor</span>
+
+來源：[Altalex](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkdILXFfMlJyYXJWdFp3blIwSldNX0trSFQ5ZDhDVF9lQktNUVRLLTE2QzBkb3NxWWREUnI5bGFRVFlSLUVtc294UW4yT3ZBMUFhOUdUV0ZDSUVwTnhrUEZyeW10NjhwT3VLcmN1U2dFbndVVmpnczhmeC1lS0NLUmVNM3duTDNDdjFjWUZDM0c3WTRhWEV6U2l5Ul9sb0JBU19BR1pTbEVHejlyQUJfd29FWmtEeHNHbGc?oc=5)
+
+---
 
 ### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
@@ -60,6 +100,14 @@ permalink: /news/inebilizumab/
 
 ---
 
+### [Vino e salute: Irvas e la scienza rileggono il ruolo del bicchiere a tavola](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUpzaV9wRGl1M0MwVGEwT0lzak5aR3ZMcU0yOXFkNjhKSk1DaDFQUEtLeTdpTkVPdzdyNms0UUtMRktSVEpXYkp0cjlhNk93d2ZUd3JOU1QwSnB4c2F3SDdSYmEtRW1iZEF1NjAzUG14NnlBbHhBMlpvOGwzRkkyZUQyb251Ny1LTXlMbENqa29GQXFYLUtIZkh5LVlZRlRuZVVZVVZmc2c?oc=5)
+
+2026-04-03 <span class="news-indication-tag">tumor</span>
+
+來源：[WineNews](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUpzaV9wRGl1M0MwVGEwT0lzak5aR3ZMcU0yOXFkNjhKSk1DaDFQUEtLeTdpTkVPdzdyNms0UUtMRktSVEpXYkp0cjlhNk93d2ZUd3JOU1QwSnB4c2F3SDdSYmEtRW1iZEF1NjAzUG14NnlBbHhBMlpvOGwzRkkyZUQyb251Ny1LTXlMbENqa29GQXFYLUtIZkh5LVlZRlRuZVVZVVZmc2c?oc=5)
+
+---
+
 ### [Votre chat pourrait devenir un allié inattendu dans la lutte contre le cancer, selon une étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDcwUzNOYXlaV3ZNZUJvbTlZdHp5UU1rQ1JlSGgwMGR0U0w3TE1neVViOUctWURrTFA4cVFuRl9kOHI4QVUwUExkeDJtaGM2U0FjV19qRTMtZ2lBQWV1T0Vnb2pXT3FuUzl6WVBINmZuSHU1bE1Cc3Y3cVR5S09Ma2JQOGs3UEFvcUVIUFl4clMwV3c2V21tVmRVbkpCUlVlTVVIeEtzR1hjRHRYRmMzVkNqQ1ZTNWx4MGtkTWhkdlZEaGtVa29EdG82aEd6Z3VUd3BJ?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span>
@@ -68,7 +116,15 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Australie Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro? - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+
+2026-04-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+
+---
+
+### [Australie. Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span>
 
@@ -84,11 +140,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Pesticides et cancer : une étude majeure met en évidence des liens inquiétants - Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+### [Pesticides et cancer : une étude majeure met en évidence des liens inquiétants](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span>
 
-來源：[Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+來源：[bonpote.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
 
 ---
 
@@ -97,14 +153,6 @@ permalink: /news/inebilizumab/
 2026-04-03 <span class="news-indication-tag">tumor</span>
 
 來源：[Cadena SER](https://news.google.com/rss/articles/CBMizwFBVV95cUxNajloSGdzdHh4ejRhaDRmRFJVaWdjdEdVTWljZ2xMVHhkM2p5YWFXTVg4bWhjanNMYWkydVlmblY0YmlQWGEzQW9JdThHSmVadmE2V1JrUEVBcEtBYlZxeDhMREhwRDdsVVIyVWtXeWZ2UVl4c1RyVTVOWmZvUXpFXzVXaWlOWWNQZ2hFMTBJcnNtdG14SHlsaXpWSnl5c0tkX3NPSV9pcUtFSVduSGNFaS14VDBtSU8tbGRlTjVFRmRSdmNtZVQ3RFV3X3NVU0nSAeMBQVVfeXFMTW83TFdmNzN1b2tFQ003MnAxd0lhbFhOSGFudjVNV0JRMmxzYjY2RVNMTW1NSzJTSmpuQzFYX2VwQWdwSFZSZXFPRHEzUnU0cUwzazFZX2N0S1FPSHFNRTZaeEthUDcxTlFDN0ZRVkhwWW1TMjYzQWg3UEViTDdJWENlS214ZTh4d180Slhxc1NMazhGNEZ0Q3V4N0pVbExfalB3czNVMjZaQnNqN0hubTZSMFp3WmV0NTBSeHNzSDJkdE13bzRiMjMyZDFpcFdoUW4tQXNTblhYMXN2SFdvM1lKRUE?oc=5)
-
----
-
-### [Si votre glycémie grimpe, cette habitude avec deux fruits du supermarché améliore la santé de vos artères](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
-
-2026-04-03 <span class="news-indication-tag">diabète</span>
-
-來源：[bibamagazine.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
 
 ---
 
@@ -124,33 +172,17 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Deputy council leader urges men to get tested for prostate cancer after his own diagnosis - Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
+### [Cancer de la bouche : l’addiction au cannabis multiplie le risque par trois](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMjFmQUREb0JPUVo2M0dHdVd4R1l5N1VMQnp2anlFZkdmdGE3WXpWQVdWQWhXR1gzRWd6R3Z4RWtfRC1EbEZkTURndnpHX3RHYmdaMEpHai1FQVpwWEdQbFZOYlowU1pRUmNPcjJMTDJab3VoQUhRcmVSMGFvWFRkZUMtSWx2eVVQemVSZUp4X2t1RkpSazczZ1lnRVlPSy1MT3htaTM2ZTluU01DOHI1UWlTWGprdmM?oc=5)
 
-2026-04-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-02 <span class="news-indication-tag">cancer</span>
 
-來源：[Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
-
----
-
-### [A Cona arriva il nuovo “occhio” contro i tumori: diagnosi più rapide e precise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXFMaWJzRGJfRGlBQkxUVmQ2YUlhQWV0bkR6RWFjWVNlZTdVcW9fSE1xUU1zSXkzYllUWVBGUmpiYUZxTFV1b2pYWThRT0h3VnFvZzgzUlk1T2d1U3VhcF93SjhKVjlJSF81MlZWRXRuZEtTR1l2cS04SWs5MENkV0I4WTQyNEtDV3Rjak55eERBald0cTJKSnVQZ0dxYkdRX2tEb2xxN1U1WU1vcUl3b2xIYw?oc=5)
-
-2026-04-02 <span class="news-indication-tag">tumor</span>
-
-來源：[Estense.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXFMaWJzRGJfRGlBQkxUVmQ2YUlhQWV0bkR6RWFjWVNlZTdVcW9fSE1xUU1zSXkzYllUWVBGUmpiYUZxTFV1b2pYWThRT0h3VnFvZzgzUlk1T2d1U3VhcF93SjhKVjlJSF81MlZWRXRuZEtTR1l2cS04SWs5MENkV0I4WTQyNEtDV3Rjak55eERBald0cTJKSnVQZ0dxYkdRX2tEb2xxN1U1WU1vcUl3b2xIYw?oc=5)
-
----
-
-### [Genève : des brins d'ADN intelligents ciblent les cellules cancéreuses - 20 Minuten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUdmSlE4VC0wOU9wc1B1Qnlhd1p4dzgyTTFNSzlXQ1ZaZkZhbDFCRzZfOTdPakVuR3ZSMjRTdEMyTmdjQzRxcWU2aGVJeVZyVWVHU0YtemhHdVNxbXR3V2ZhaWNobGJNeW42SGR2TThWSlNobXZVM0xhenNPR0V6cDBpWmFXd0w2TFJ3LVhIVjJ3MDgtWWtuX184bUJtTFZGaXc?oc=5)
-
-2026-04-02 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
-
-來源：[20 Minuten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUdmSlE4VC0wOU9wc1B1Qnlhd1p4dzgyTTFNSzlXQ1ZaZkZhbDFCRzZfOTdPakVuR3ZSMjRTdEMyTmdjQzRxcWU2aGVJeVZyVWVHU0YtemhHdVNxbXR3V2ZhaWNobGJNeW42SGR2TThWSlNobXZVM0xhenNPR0V6cDBpWmFXd0w2TFJ3LVhIVjJ3MDgtWWtuX184bUJtTFZGaXc?oc=5)
+來源：[sudouest.fr](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMjFmQUREb0JPUVo2M0dHdVd4R1l5N1VMQnp2anlFZkdmdGE3WXpWQVdWQWhXR1gzRWd6R3Z4RWtfRC1EbEZkTURndnpHX3RHYmdaMEpHai1FQVpwWEdQbFZOYlowU1pRUmNPcjJMTDJab3VoQUhRcmVSMGFvWFRkZUMtSWx2eVVQemVSZUp4X2t1RkpSazczZ1lnRVlPSy1MT3htaTM2ZTluU01DOHI1UWlTWGprdmM?oc=5)
 
 ---
 
 ### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
-2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 

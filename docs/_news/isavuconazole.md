@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isavuconazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Aceite de oliva virgen extra contra la artritis - Canal Sur](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
+
+2026-04-04 <span class="news-indication-tag">artritis</span>
+
+來源：[Canal Sur](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
+
+---
+
+### [Un nuevo método para controlar la hipertensión reduce ictus y muertes en miles de pacientes - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+---
 
 ### [Perspectivas ‘One Health’ sobre la hipertensión pulmonar: Uniendo medicina humana y veterinaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnU4ZzhqeFkyRjYtTzB5Z0dhSEk4cGhEbFQtNVdfaDhMT2VndGppZ0pUcDRVNWN1T25wUUpTY3Jna25tSHNVdUcybHpDaXdrMXI4SmhHU1JMNDZmcXhCbG9PRnpBRVRCUHoyZGJxbEV3dHhiZmRRS1FVbzZlUi1iaVRKbUhfWU9zNEExMHRnZXNIRXcxUEZKQXRQVGpmYTdhUF9XbDA3V1hWd2l0NmVyTlU0WEdvVmhXaDZsWXVkSWhSMkNPT1E?oc=5)
 

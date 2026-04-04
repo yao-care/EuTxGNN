@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Study Links Poor Eyesight To Higher Dementia Risk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFZfQmlwTm5ReERXQlYwRUk5QVEzaXVlUlU0NGtHdWs4T21OdVhzb3NDM3R1TDFTVFdmaXd0LThSaWJ5OVQ0NDl0OE9iZl9uOVcyVFNQZjk5TS1OMGItaG5PYVhPSzJtamNrNjVPMjlKYmFqVHF4SWVRUEM5c0ZVR29kU3hPYVFDam1IbHZhUVBIQlIwRmVwX0FvUUlVNkROSnk5SnlUMWRXclEtWlNCTEZRUGNjUWZHYmFF?oc=5)
 
 2026-04-02
 
 來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFZfQmlwTm5ReERXQlYwRUk5QVEzaXVlUlU0NGtHdWs4T21OdVhzb3NDM3R1TDFTVFdmaXd0LThSaWJ5OVQ0NDl0OE9iZl9uOVcyVFNQZjk5TS1OMGItaG5PYVhPSzJtamNrNjVPMjlKYmFqVHF4SWVRUEM5c0ZVR29kU3hPYVFDam1IbHZhUVBIQlIwRmVwX0FvUUlVNkROSnk5SnlUMWRXclEtWlNCTEZRUGNjUWZHYmFF?oc=5)
-
----
-
-### [‘I’ve lived with dementia for 15 years. It’s still possible to lead a fulfilling life’ - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDBwakJRanh0LVE4SGY3NHIxdHdSUmRJckpmcWJvSHpuZVlKTFhoOGt3MGdIbWNkTnlUZ3JheVl1NUdlQlBQTmJVVHhTeE9WVVpfQm04aXZNUmxUY1RXNzVUS0R3T05UZWdyUVd6ekpqVkYwUTUxV0JLNlFDZVV4SVN2dU1YOVNKdGpGdUphMk1xdEgzMDhZbV9RQm9xcUc2OUJzRw?oc=5)
-
-2026-04-02
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDBwakJRanh0LVE4SGY3NHIxdHdSUmRJckpmcWJvSHpuZVlKTFhoOGt3MGdIbWNkTnlUZ3JheVl1NUdlQlBQTmJVVHhTeE9WVVpfQm04aXZNUmxUY1RXNzVUS0R3T05UZWdyUVd6ekpqVkYwUTUxV0JLNlFDZVV4SVN2dU1YOVNKdGpGdUphMk1xdEgzMDhZbV9RQm9xcUc2OUJzRw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,15 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（14 則）
-
-### [Los síntomas de la menopausia siguen infradetectados - 65 y más](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGEzSDJhZDhqdFdRZzJJMmphNnFQSDROM0JEdGEwNEdUVi02c2NxYmpZVThrdThUNlcxVkNoczBOQ0Z5T2l2Nm9ZcEE3dFc5V0NMWWVjaTBJZmtNT3lVLURfWXg4X3g0MmdZcjQwWERrVzZlUms0bmszWE5KVzItZEJPMGJCTmFJSDhDbnQtNkZBcEFkTF81WG94c1k4Q2JnSm1aZVNDUzl6bWl6Nnc?oc=5)
-
-2026-04-04
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGEzSDJhZDhqdFdRZzJJMmphNnFQSDROM0JEdGEwNEdUVi02c2NxYmpZVThrdThUNlcxVkNoczBOQ0Z5T2l2Nm9ZcEE3dFc5V0NMWWVjaTBJZmtNT3lVLURfWXg4X3g0MmdZcjQwWERrVzZlUms0bmszWE5KVzItZEJPMGJCTmFJSDhDbnQtNkZBcEFkTF81WG94c1k4Q2JnSm1aZVNDUzl6bWl6Nnc?oc=5)
-
----
+## 相關新聞（9 則）
 
 ### [Our daughter died of MenB - we fear outbreaks without wider vaccine rollout](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwZlB4eUZKdUJ2LWUxNDNUQmpUZGZ3dDBvWlFMRXc2MnhoSnRjNllGdXFOd0JpanU2bFRqNXEyazJ2X2pfbXJvcU11bkJObm1GZEdiWDlPQXd4dDRj?oc=5)
 
@@ -88,14 +80,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Deputy council leader urges men to get tested for prostate cancer after his own diagnosis - Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
-
-2026-04-03
-
-來源：[Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
-
----
-
 ### [Eating two foods helps lower cholesterol 'similar to statins' - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NkMktNOWhSOWN0Y1l6dVVKVE5mWEJQQWhXbVFxYVFCSjV0eXRyTkJ5TG1OXzVMT2l3Z0dXQmlsWGpHeVVSRDRwbUEyV3RudDdudlJvU2UyNXlYM1c1dWhsT21hUHdYM1doSXM0UTRzYnplNHFnVElueWRWSk5lX2xTZFgtR1h60gGOAUFVX3lxTFBKWTR6NUNVcGFhY29aVmpSWGZpMEZ1VkR4UGVacUtRdy1PYlJPNkxfZmRVM3RMSU9XeTZGdFMtSkoybUtDSm85UFJ0TWllZTIxS04yRkg5X2g1ZWJndzc4T0FnSHN4RjRmeGRwMWpQZk1Kc3FzX24za1BwUjNySF95X29fWF9WcjZZejNmVHc?oc=5)
 
 2026-04-03
@@ -104,11 +88,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [The taste test: secrets of octopus mating rituals revealed - The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMV9RTWFJRGpCQUhSak5KbWFRa3JRaXNpSUJ0Z0I5TUlFR2lrazVpMGVvYTlIaVpXQjRUM2dTU3hCaEh4REMzdURsZUFaaHp3RkJpX1lsTnJMQ3B2T3ptNmR3elF4SlVJbUR6Vlp3Y2RNd2o1UnlhSWY4RE5yeTBnNTN1UFNucm5PZ19wWnJfWkc?oc=5)
+### [Sex at arm’s length? Male octopuses use specialised arm to mate, scientists find - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUJtSXJTbUxaTmpiT0J3cVlETndXNnNNbno2ZnE3Ul9sYjBub0ZLdUMyUUk0WFBkdEFYRWwwVlVNNkh1MnRhd3J6NlIxWHhEby14ZEFNUmdJcVVkWVcwbTZUSVY0Ni1KR1NSbkhueFRyVWZXdDVDZTR3cGMxLTJhUWlfdEczSFBnWWFHbmM2ajhER2d5TGFiWg?oc=5)
 
-2026-04-02
+2026-04-03
 
-來源：[The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMV9RTWFJRGpCQUhSak5KbWFRa3JRaXNpSUJ0Z0I5TUlFR2lrazVpMGVvYTlIaVpXQjRUM2dTU3hCaEh4REMzdURsZUFaaHp3RkJpX1lsTnJMQ3B2T3ptNmR3elF4SlVJbUR6Vlp3Y2RNd2o1UnlhSWY4RE5yeTBnNTN1UFNucm5PZ19wWnJfWkc?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUJtSXJTbUxaTmpiT0J3cVlETndXNnNNbno2ZnE3Ul9sYjBub0ZLdUMyUUk0WFBkdEFYRWwwVlVNNkh1MnRhd3J6NlIxWHhEby14ZEFNUmdJcVVkWVcwbTZUSVY0Ni1KR1NSbkhueFRyVWZXdDVDZTR3cGMxLTJhUWlfdEczSFBnWWFHbmM2ajhER2d5TGFiWg?oc=5)
 
 ---
 
@@ -136,35 +120,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [First cases of Usutu virus found in blackbirds in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+### [First cases of mosquito-borne virus found in blackbirds in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
 
 2026-04-02
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
-
----
-
-### [Neues Leitbild erarbeitet - Gemeinsam stärker für Menschen mit Multiple Sklerose - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa052N3JicVhlNy1NbGFjdmQxQnFSSVFXSXRyeUd3YUhlU0JUYzBkcWZmN19qRTZuanJkQ1NXcTg5VlFuOGRKT2lCR1Y2aVpDWFNRd0dMTFN3a05fU3ZMaDgyd1ZlX2pVUXNoblZaOV9zT05obTRKZ0ZPTVkyc2FBejduLWM2ejk5b1dB?oc=5)
-
-2026-04-02
-
-來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa052N3JicVhlNy1NbGFjdmQxQnFSSVFXSXRyeUd3YUhlU0JUYzBkcWZmN19qRTZuanJkQ1NXcTg5VlFuOGRKT2lCR1Y2aVpDWFNRd0dMTFN3a05fU3ZMaDgyd1ZlX2pVUXNoblZaOV9zT05obTRKZ0ZPTVkyc2FBejduLWM2ejk5b1dB?oc=5)
-
----
-
-### [Big rise in UK tourists returning from 25 destinations with 'nasty virus' full list - Liverpool Echo](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUFUaUI5OXdzajFVYmFFWTRQRGRfQ0I2cnB4N3NYUDdHMm5uMUhNc0Q4TE9MenRTb29Hb1puUTd6WTJaNV9aTktFQzZDZTVIMGhxNWdHOUpfR0VYazJxRHNfUWpIb1g0RWFWZFlGb3NQcEV1d2RBbnVaVWgyMTZBNU1rMkLSAYoBQVVfeXFMUHNfaS1oMDFHS0dKOXVza2d3UjE1NHFSOVZOWHF3RmtYZ1BKU25FWUl1Z3dzZXBkb1R2ZVZBUlhIOUx5dW1FOWxNaUJfbGVEcGI1NHZqbEl0UzBsM2lYVmJ3WEY0UVlYS3hZMERKOVo3OU5QaXVYcGJPZzFVbGVWWkhVdDFkZjlmUFdR?oc=5)
-
-2026-04-02
-
-來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUFUaUI5OXdzajFVYmFFWTRQRGRfQ0I2cnB4N3NYUDdHMm5uMUhNc0Q4TE9MenRTb29Hb1puUTd6WTJaNV9aTktFQzZDZTVIMGhxNWdHOUpfR0VYazJxRHNfUWpIb1g0RWFWZFlGb3NQcEV1d2RBbnVaVWgyMTZBNU1rMkLSAYoBQVVfeXFMUHNfaS1oMDFHS0dKOXVza2d3UjE1NHFSOVZOWHF3RmtYZ1BKU25FWUl1Z3dzZXBkb1R2ZVZBUlhIOUx5dW1FOWxNaUJfbGVEcGI1NHZqbEl0UzBsM2lYVmJ3WEY0UVlYS3hZMERKOVo3OU5QaXVYcGJPZzFVbGVWWkhVdDFkZjlmUFdR?oc=5)
-
----
-
-### [Public Health Wales issues statement on Cicada Covid variant as cases rise - Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzczQ28zWFVkZ1dlcjZ5QXlHTWpsSlZpSXRRRHpPMHpmT3p0Z1FuTlpHMVk4NjlkTzZWZ2VxYU5XWDJrcjZLVHl5M2xINUVlLUg0T2JhMGVNUGFoWjRHNVVXTGY4dnlOYUN5RDg1VktTMVNmWTNPY0hvbER1WnMyWjd4b2d4eDBpMVJZemlPannSAZYBQVVfeXFMTU1USUpPTlFxaGJyNS1LT1VOSk4zSkstWDE3MVc3bV9MM2hkRTZieG5WcmRadG5USGFlN3V5SVVkU1dzSHh6aUphd0dpR2NmNFZ2MU13WUNMT1VkV0owSU5SSlVQTF8wX3gtMHFGTUUtejlBNlVrYzVLRDRzWEFQdUJWaFE3ZWFZWWhZTDNEcVFOSzRfR2Rn?oc=5)
-
-2026-04-02
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzczQ28zWFVkZ1dlcjZ5QXlHTWpsSlZpSXRRRHpPMHpmT3p0Z1FuTlpHMVk4NjlkTzZWZ2VxYU5XWDJrcjZLVHl5M2xINUVlLUg0T2JhMGVNUGFoWjRHNVVXTGY4dnlOYUN5RDg1VktTMVNmWTNPY0hvbER1WnMyWjd4b2d4eDBpMVJZemlPannSAZYBQVVfeXFMTU1USUpPTlFxaGJyNS1LT1VOSk4zSkstWDE3MVc3bV9MM2hkRTZieG5WcmRadG5USGFlN3V5SVVkU1dzSHh6aUphd0dpR2NmNFZ2MU13WUNMT1VkV0owSU5SSlVQTF8wX3gtMHFGTUUtejlBNlVrYzVLRDRzWEFQdUJWaFE3ZWFZWWhZTDNEcVFOSzRfR2Rn?oc=5)
 
 ---
 

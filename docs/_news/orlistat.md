@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Un nuevo método para controlar la hipertensión reduce ictus y muertes en miles de pacientes - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+---
+
+### [Los genéricos abren la pugna por un hueco en el mercado de la obesidad - El Economista](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjRTOFdGd0pOcTZsd0NLYU4tZE9tTU1BeC1SdXFfd0tCaFhMTmc0X2xMbXlIaFZITWlTZmwxdEkzQWxIUU1ybEwta2tSZXJjYzZyVy1DdU1iRXMxNjNjc2NYbG5MZ3Raa3RwdjV3djd6Nm1aT1B4VDhhVTltZmdadUx0SlR5cXhYeVdXakVxSTZLRW1UYmJET0JzUm94blFBX2FfZkhwWjI3Q1FacUNJRmpBclJaSjE3NklRdkdnTTNiV0lZZ05jN211R21oLVRISUVwSHU5OEVKRzjSAcYBQVVfeXFMT193eGtrbEk1cHlqbHNCSjBEQTNvb2JJSXZWeGVFeUdOUFVkUU9naUhlTGdncnM3akZsRDBZTHJ4MVdLQTNMblRUOHRRMFZEdGRnYU9xOVJjendfMDNoSzNTNUhORklMTVFTbXFvNXluMklZNlpvTlpVdGtjNko4NVhnZk9sR3YzMXJfUFJKU0FKNTVxY3dDa1pFeWNCRVFXbjVUSGhLcE92Y1BQVmhzOU00X2NsdGZyRVZkQzVTZVU4SmdMUmd3?oc=5)
+
+2026-04-04 <span class="news-indication-tag">obesidad</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjRTOFdGd0pOcTZsd0NLYU4tZE9tTU1BeC1SdXFfd0tCaFhMTmc0X2xMbXlIaFZITWlTZmwxdEkzQWxIUU1ybEwta2tSZXJjYzZyVy1DdU1iRXMxNjNjc2NYbG5MZ3Raa3RwdjV3djd6Nm1aT1B4VDhhVTltZmdadUx0SlR5cXhYeVdXakVxSTZLRW1UYmJET0JzUm94blFBX2FfZkhwWjI3Q1FacUNJRmpBclJaSjE3NklRdkdnTTNiV0lZZ05jN211R21oLVRISUVwSHU5OEVKRzjSAcYBQVVfeXFMT193eGtrbEk1cHlqbHNCSjBEQTNvb2JJSXZWeGVFeUdOUFVkUU9naUhlTGdncnM3akZsRDBZTHJ4MVdLQTNMblRUOHRRMFZEdGRnYU9xOVJjendfMDNoSzNTNUhORklMTVFTbXFvNXluMklZNlpvTlpVdGtjNko4NVhnZk9sR3YzMXJfUFJKU0FKNTVxY3dDa1pFeWNCRVFXbjVUSGhLcE92Y1BQVmhzOU00X2NsdGZyRVZkQzVTZVU4SmdMUmd3?oc=5)
+
+---
+
+### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro? - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+
+2026-04-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+
+---
 
 ### [Sonno irregolare e meno di 8 ore: rischio quasi doppio di infarto e ictus, secondo un nuovo studio finlandese](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
 
@@ -89,14 +113,6 @@ permalink: /news/orlistat/
 2026-04-02 <span class="news-indication-tag">obesidad</span>
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZEg1ZHk4WWtlSjRrSUZYSk1KeFJJTHhEZW0xRkVLUURNZHkyWmNxMll0NTJYQWZsZ2tRaGlrWERGQTFBTThxZjN6dHVGQnFUX1NrNXBKV0NsTl9kV3ozLUFhWGpXV2RnVGU2OUFnM0VBNXNPbFktRXAxTnk4M25SR3NkSWE3eXQwSDNVUkV3NjhRVDV0R2RxVG1zU2R5T0tOSE1BX2J0ZjQ0SkR0bUtRRjVpa2RUR3l2dmFXVzd2MzQ2MVNzUnZVSkhwS3hZQ2tqTURZUkRrQ0VMM2VxdWZfZUZFcGZ4M3NzMVZJS2tLWS1QbV9sY0NtT1FxY0VMakU2Vi01Snd5Y1hQWklnZ3c?oc=5)
-
----
-
-### [“El reto es que los efectos de los fármacos para la obesidad sean duraderos” - El médico interactivo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
-
-2026-04-02 <span class="news-indication-tag">obesidad</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
 
 ---
 

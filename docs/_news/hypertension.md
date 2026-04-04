@@ -3,7 +3,7 @@ layout: default
 title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Un nuevo método para controlar la hipertensión reduce ictus y muertes en miles de pacientes - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+2026-04-04
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+---
 
 ### [Perspectivas ‘One Health’ sobre la hipertensión pulmonar: Uniendo medicina humana y veterinaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnU4ZzhqeFkyRjYtTzB5Z0dhSEk4cGhEbFQtNVdfaDhMT2VndGppZ0pUcDRVNWN1T25wUUpTY3Jna25tSHNVdUcybHpDaXdrMXI4SmhHU1JMNDZmcXhCbG9PRnpBRVRCUHoyZGJxbEV3dHhiZmRRS1FVbzZlUi1iaVRKbUhfWU9zNEExMHRnZXNIRXcxUEZKQXRQVGpmYTdhUF9XbDA3V1hWd2l0NmVyTlU0WEdvVmhXaDZsWXVkSWhSMkNPT1E?oc=5)
 

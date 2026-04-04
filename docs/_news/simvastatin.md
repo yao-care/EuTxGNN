@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Un nuevo método para controlar la hipertensión reduce ictus y muertes en miles de pacientes - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+---
 
 ### [Sonno irregolare e meno di 8 ore: rischio quasi doppio di infarto e ictus, secondo un nuovo studio finlandese](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
 

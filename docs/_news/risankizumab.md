@@ -14,7 +14,7 @@ permalink: /news/risankizumab/
 ---
 
 <p class="key-answer" data-question="Risankizumab 有什麼相關新聞？">
-<strong>Risankizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Risankizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/risankizumab/
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/risankizumab/
 2026-04-03 <span class="news-indication-tag">psoriasis</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVng0YTNYSlJ3LTlQYW9oWUFCSTdjb280YTlTdGJwT1pJVmFKbVF1OVFTWlJUSENxMkw0ckdpY19LeWtqQzhral9YMmlCRlEtc1p1ZlJBNTVkOTR3anJNTGRkZ3FfUVBybExEeXJ5TDhWdFBrZWdSTXZ0OUpkMlFZNWlMc3pxLUJzbVBIR2F4TThjUjlMZWttVC1YMENnVEoyT2JfSURrTENYdG1CWjhHRkllcU1vcjdIOHpfOUhIZi1xYnk4TEhZWnExcG4xMl9L0gHWAUFVX3lxTE9OTTNxdDhxUmtkdF84Rmd6RHpRalRFWWVjbzRMcjF0T0hvQUJNTEE2Y0xIb0JabjJNU3pzOTQ3RWFjajFEc3NiOGU1VWhsRjBncXd2UFctWVJ5aWJGcHMtTzd2Wi1wWXVHRUd3VEhEcnRoUWF4Wkl6cWUyeHFISVpmXzJ1dVBBVHdua3ZDTVpXY21pTS1iNk95cXI0SlVMRTI5eENwRVNUMmdVRGpYVDNEVXo2UFpKcDhZTE9MbkUwSjdJbU8wODBPQ3BoY2xaNnVvay0tVlE?oc=5)
-
----
-
-### [Si votre glycémie grimpe, cette habitude avec deux fruits du supermarché améliore la santé de vos artères](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
-
-2026-04-03 <span class="news-indication-tag">diabète</span>
-
-來源：[bibamagazine.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
 
 ---
 

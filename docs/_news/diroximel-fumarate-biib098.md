@@ -14,7 +14,7 @@ permalink: /news/diroximel-fumarate-biib098/
 ---
 
 <p class="key-answer" data-question="Diroximel Fumarate (Biib098) 有什麼相關新聞？">
-<strong>Diroximel Fumarate (Biib098)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Diroximel Fumarate (Biib098)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/diroximel-fumarate-biib098/
 <p><a href="{{ '/drugs/diroximel-fumarate-biib098/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
-
----
-
-### [Si votre glycémie grimpe, cette habitude avec deux fruits du supermarché améliore la santé de vos artères](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
-
-2026-04-03 <span class="news-indication-tag">diabète</span>
-
-來源：[bibamagazine.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
 
 ---
 

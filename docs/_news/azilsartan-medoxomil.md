@@ -14,7 +14,7 @@ permalink: /news/azilsartan-medoxomil/
 ---
 
 <p class="key-answer" data-question="Azilsartan Medoxomil 有什麼相關新聞？">
-<strong>Azilsartan Medoxomil</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Azilsartan Medoxomil</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,69 @@ permalink: /news/azilsartan-medoxomil/
 <p><a href="{{ '/drugs/azilsartan-medoxomil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（24 則）
+
+### [Urología detecta todavía tumores que se relacionan con químicos del calzado en Elche](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZhbkVtN09ZQ0dMRnlVdGUyRXRuWWJoTXB2NVFZQjM0UFAxVmpxSktjRnd0ZWQ1R3dTRVJqNFFUY0xMUVpDQ01IUU1xMll2QnFuV2d2Tk9LLUVRYkZ0UE5NTWptMndHMjNCMGI0dENzSGJsZmFqTHZlcXNOSlJaTHVjYWRwQlpYOFZ3aWU3dGRwYTlXZnI3OWgyYzFUQkJJbzNlTjhXakR0dlnSAbABQVVfeXFMUHROTmtNRVlkQmJZWGhzU2FScWxwcFk5NUtXRWRzamw2MWFiVDRZRjRBQjRTMXVpaDAyLXkwbUppNnFfOXVrcm0xTUxPdnBSUmxtdjRWNVE1YW9xNFc1bUQ1d01FNVRVRF83MEhOOVRBeE9FdHUwdmNOZlRycVZLRXJSVVRibkJ5OTJlRklNRkFGVy1zc0dZOUh1bHdNOG5pZUMyS20wVlVGbDZxVlZneEY?oc=5)
+
+2026-04-04 <span class="news-indication-tag">tumor</span>
+
+來源：[INFORMACION](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZhbkVtN09ZQ0dMRnlVdGUyRXRuWWJoTXB2NVFZQjM0UFAxVmpxSktjRnd0ZWQ1R3dTRVJqNFFUY0xMUVpDQ01IUU1xMll2QnFuV2d2Tk9LLUVRYkZ0UE5NTWptMndHMjNCMGI0dENzSGJsZmFqTHZlcXNOSlJaTHVjYWRwQlpYOFZ3aWU3dGRwYTlXZnI3OWgyYzFUQkJJbzNlTjhXakR0dlnSAbABQVVfeXFMUHROTmtNRVlkQmJZWGhzU2FScWxwcFk5NUtXRWRzamw2MWFiVDRZRjRBQjRTMXVpaDAyLXkwbUppNnFfOXVrcm0xTUxPdnBSUmxtdjRWNVE1YW9xNFc1bUQ1d01FNVRVRF83MEhOOVRBeE9FdHUwdmNOZlRycVZLRXJSVVRibkJ5OTJlRklNRkFGVy1zc0dZOUh1bHdNOG5pZUMyS20wVlVGbDZxVlZneEY?oc=5)
+
+---
+
+### [Tübinger Immunologe: Mission: Krebs besiegen](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWV1RldNSlpaN1d3Sk1qU3dNalZhQXktX0lVWWNOdG8wRWpFdWxhX3ZEUXNoQVlHUWgwUFdUSXRxaW9uU1RaMDRVR2VIYlpCNUFWcV9UcG83a3FKNUdLVE5STE5mbGRRUXFabzh0WDlEXzNmYXJtd3Y5VURtLUV4M3dzQzkxNVdSNTUxRnFwRzRGSzZtMWNQcVRn?oc=5)
+
+2026-04-04 <span class="news-indication-tag">Krebs</span>
+
+來源：[swp.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWV1RldNSlpaN1d3Sk1qU3dNalZhQXktX0lVWWNOdG8wRWpFdWxhX3ZEUXNoQVlHUWgwUFdUSXRxaW9uU1RaMDRVR2VIYlpCNUFWcV9UcG83a3FKNUdLVE5STE5mbGRRUXFabzh0WDlEXzNmYXJtd3Y5VURtLUV4M3dzQzkxNVdSNTUxRnFwRzRGSzZtMWNQcVRn?oc=5)
+
+---
+
+### [Un nuevo método para controlar la hipertensión reduce ictus y muertes en miles de pacientes - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
+
+---
+
+### [Pourquoi de plus en plus de non-fumeurs développent un cancer du poumon : 3 causes que personne ne surveille - Social Mag](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
+
+2026-04-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Social Mag](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
+
+---
+
+### [Wiltshire woman urges awareness of ovarian cancer signs](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xTkdINUZDQ0tWRG5yeUNMWDdhVDg0WFFsODQxTzNHY3FndG5JeDNoXy1VUk5nT2I1cTZZYXNNazJuOGFwZUl4ZXg5Q1VaVjRSdWdoQlZITHdSNGxU?oc=5)
+
+2026-04-04 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xTkdINUZDQ0tWRG5yeUNMWDdhVDg0WFFsODQxTzNHY3FndG5JeDNoXy1VUk5nT2I1cTZZYXNNazJuOGFwZUl4ZXg5Q1VaVjRSdWdoQlZITHdSNGxU?oc=5)
+
+---
+
+### [L'Intelligenza artificiale in sanità: il paradosso dell'invisibilità necessaria](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkdILXFfMlJyYXJWdFp3blIwSldNX0trSFQ5ZDhDVF9lQktNUVRLLTE2QzBkb3NxWWREUnI5bGFRVFlSLUVtc294UW4yT3ZBMUFhOUdUV0ZDSUVwTnhrUEZyeW10NjhwT3VLcmN1U2dFbndVVmpnczhmeC1lS0NLUmVNM3duTDNDdjFjWUZDM0c3WTRhWEV6U2l5Ul9sb0JBU19BR1pTbEVHejlyQUJfd29FWmtEeHNHbGc?oc=5)
+
+2026-04-04 <span class="news-indication-tag">tumor</span>
+
+來源：[Altalex](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkdILXFfMlJyYXJWdFp3blIwSldNX0trSFQ5ZDhDVF9lQktNUVRLLTE2QzBkb3NxWWREUnI5bGFRVFlSLUVtc294UW4yT3ZBMUFhOUdUV0ZDSUVwTnhrUEZyeW10NjhwT3VLcmN1U2dFbndVVmpnczhmeC1lS0NLUmVNM3duTDNDdjFjWUZDM0c3WTRhWEV6U2l5Ul9sb0JBU19BR1pTbEVHejlyQUJfd29FWmtEeHNHbGc?oc=5)
+
+---
 
 ### [Wie Brustkrebs-Screenings überraschend Herzkrankheiten erkennen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
 
 2026-04-03 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
+
+---
+
+### [Vino e salute: Irvas e la scienza rileggono il ruolo del bicchiere a tavola](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUpzaV9wRGl1M0MwVGEwT0lzak5aR3ZMcU0yOXFkNjhKSk1DaDFQUEtLeTdpTkVPdzdyNms0UUtMRktSVEpXYkp0cjlhNk93d2ZUd3JOU1QwSnB4c2F3SDdSYmEtRW1iZEF1NjAzUG14NnlBbHhBMlpvOGwzRkkyZUQyb251Ny1LTXlMbENqa29GQXFYLUtIZkh5LVlZRlRuZVVZVVZmc2c?oc=5)
+
+2026-04-03 <span class="news-indication-tag">tumor</span>
+
+來源：[WineNews](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUpzaV9wRGl1M0MwVGEwT0lzak5aR3ZMcU0yOXFkNjhKSk1DaDFQUEtLeTdpTkVPdzdyNms0UUtMRktSVEpXYkp0cjlhNk93d2ZUd3JOU1QwSnB4c2F3SDdSYmEtRW1iZEF1NjAzUG14NnlBbHhBMlpvOGwzRkkyZUQyb251Ny1LTXlMbENqa29GQXFYLUtIZkh5LVlZRlRuZVVZVVZmc2c?oc=5)
 
 ---
 
@@ -60,6 +116,14 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
+### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro? - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+
+2026-04-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+
+---
+
 ### [Sonno irregolare e meno di 8 ore: rischio quasi doppio di infarto e ictus, secondo un nuovo studio finlandese](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
 
 2026-04-03 <span class="news-indication-tag">ictus</span>
@@ -68,7 +132,7 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Australie Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+### [Australie. Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span>
 
@@ -84,11 +148,11 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Pesticides et cancer : une étude majeure met en évidence des liens inquiétants - Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+### [Pesticides et cancer : une étude majeure met en évidence des liens inquiétants](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span>
 
-來源：[Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
+來源：[bonpote.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
 
 ---
 
@@ -116,14 +180,6 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Deputy council leader urges men to get tested for prostate cancer after his own diagnosis - Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
-
-2026-04-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Grimsby Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUQ3b2JibU4wRUZ3dnNLRk1oRGI2c0JWQmFZTHEyUVNaanZ3Uk9RUFZYTTYxcFNORElscFFJY0ZLU08xWlo1Y2pwSVNvLUc2MDNveDZ6QTlGdWUzcy1BdzBRbnUxcE5iMUZYSWwxYl9odE1SZG8wZmRGWUxLbko0SmhnSFhzUURHLUsyNldBcmxPa2ZBQllONdIBngFBVV95cUxOcENOOU9ob0cwa0xxcHZzSXZ3bUU2azh2My1sZWJKTjZxZkZzVTRfbWZwV21uLTJqQ2tmT1pvNE9hR1MycnNQNkY2MjB2LWRZQXhYZ2xhWTJFcnc4YjRmZFo1bHgtYXZ6RWtfcUpVUzlNNUN3c3pnYlFNWUg5aVllTDQtRFpPdGVGSldBMEpPRlN2NUtseFNnUUI1SUhadw?oc=5)
-
----
-
 ### [Infarto e ictus, i nove comandamenti della prevenzione a tavola - la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
 
 2026-04-03 <span class="news-indication-tag">ictus</span>
@@ -140,19 +196,11 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [A Cona arriva il nuovo “occhio” contro i tumori: diagnosi più rapide e precise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXFMaWJzRGJfRGlBQkxUVmQ2YUlhQWV0bkR6RWFjWVNlZTdVcW9fSE1xUU1zSXkzYllUWVBGUmpiYUZxTFV1b2pYWThRT0h3VnFvZzgzUlk1T2d1U3VhcF93SjhKVjlJSF81MlZWRXRuZEtTR1l2cS04SWs5MENkV0I4WTQyNEtDV3Rjak55eERBald0cTJKSnVQZ0dxYkdRX2tEb2xxN1U1WU1vcUl3b2xIYw?oc=5)
+### [Cancer de la bouche : l’addiction au cannabis multiplie le risque par trois](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMjFmQUREb0JPUVo2M0dHdVd4R1l5N1VMQnp2anlFZkdmdGE3WXpWQVdWQWhXR1gzRWd6R3Z4RWtfRC1EbEZkTURndnpHX3RHYmdaMEpHai1FQVpwWEdQbFZOYlowU1pRUmNPcjJMTDJab3VoQUhRcmVSMGFvWFRkZUMtSWx2eVVQemVSZUp4X2t1RkpSazczZ1lnRVlPSy1MT3htaTM2ZTluU01DOHI1UWlTWGprdmM?oc=5)
 
-2026-04-02 <span class="news-indication-tag">tumor</span>
+2026-04-02 <span class="news-indication-tag">cancer</span>
 
-來源：[Estense.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXFMaWJzRGJfRGlBQkxUVmQ2YUlhQWV0bkR6RWFjWVNlZTdVcW9fSE1xUU1zSXkzYllUWVBGUmpiYUZxTFV1b2pYWThRT0h3VnFvZzgzUlk1T2d1U3VhcF93SjhKVjlJSF81MlZWRXRuZEtTR1l2cS04SWs5MENkV0I4WTQyNEtDV3Rjak55eERBald0cTJKSnVQZ0dxYkdRX2tEb2xxN1U1WU1vcUl3b2xIYw?oc=5)
-
----
-
-### [Genève : des brins d'ADN intelligents ciblent les cellules cancéreuses - 20 Minuten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUdmSlE4VC0wOU9wc1B1Qnlhd1p4dzgyTTFNSzlXQ1ZaZkZhbDFCRzZfOTdPakVuR3ZSMjRTdEMyTmdjQzRxcWU2aGVJeVZyVWVHU0YtemhHdVNxbXR3V2ZhaWNobGJNeW42SGR2TThWSlNobXZVM0xhenNPR0V6cDBpWmFXd0w2TFJ3LVhIVjJ3MDgtWWtuX184bUJtTFZGaXc?oc=5)
-
-2026-04-02 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
-
-來源：[20 Minuten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUdmSlE4VC0wOU9wc1B1Qnlhd1p4dzgyTTFNSzlXQ1ZaZkZhbDFCRzZfOTdPakVuR3ZSMjRTdEMyTmdjQzRxcWU2aGVJeVZyVWVHU0YtemhHdVNxbXR3V2ZhaWNobGJNeW42SGR2TThWSlNobXZVM0xhenNPR0V6cDBpWmFXd0w2TFJ3LVhIVjJ3MDgtWWtuX184bUJtTFZGaXc?oc=5)
+來源：[sudouest.fr](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMjFmQUREb0JPUVo2M0dHdVd4R1l5N1VMQnp2anlFZkdmdGE3WXpWQVdWQWhXR1gzRWd6R3Z4RWtfRC1EbEZkTURndnpHX3RHYmdaMEpHai1FQVpwWEdQbFZOYlowU1pRUmNPcjJMTDJab3VoQUhRcmVSMGFvWFRkZUMtSWx2eVVQemVSZUp4X2t1RkpSazczZ1lnRVlPSy1MT3htaTM2ZTluU01DOHI1UWlTWGprdmM?oc=5)
 
 ---
 
@@ -166,7 +214,7 @@ permalink: /news/azilsartan-medoxomil/
 
 ### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
-2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
