@@ -14,7 +14,7 @@ permalink: /news/nonacog-beta-pegol/
 ---
 
 <p class="key-answer" data-question="Nonacog Beta Pegol 有什麼相關新聞？">
-<strong>Nonacog Beta Pegol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nonacog Beta Pegol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/nonacog-beta-pegol/
 <p><a href="{{ '/drugs/nonacog-beta-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
 
 ### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
@@ -52,11 +52,11 @@ permalink: /news/nonacog-beta-pegol/
 
 ---
 
-### [Si votre glycémie grimpe, cette habitude avec deux fruits du supermarché améliore la santé de vos artères - Biba Magazine](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
+### [Si votre glycémie grimpe, cette habitude avec deux fruits du supermarché améliore la santé de vos artères](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
 
 2026-04-03 <span class="news-indication-tag">diabète</span>
 
-來源：[Biba Magazine](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
+來源：[bibamagazine.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVWJqdGxzQ2IzZ1UxT2E1WUIwbnNBNVFJNEdjSkhyWDJ0ZHQxOFhkc09yeEtXQmhvWFQxTmNYM0xyT2xCbGxRRml0RXBubU1DQXZ1SGFMazQ4MUhZVnBEamNqbjNwTldmbnJCVWRGRmo0am95aWY1WFV1UUxqRFlBdU1GbHlidlpjOVZZaC1sUVk3amtTQkVvRU55S2lzeGtvSWJocm9pdkYtSzRMZXBaU0lsSEh0elZPVDlzSVEzWU95YVBFRHhQMm85aVF3anc3VnQ5eU9ob3JVeDRyZ3hzN213U3hTaWM0c1huNUVzcU1LZw?oc=5)
 
 ---
 
@@ -65,30 +65,6 @@ permalink: /news/nonacog-beta-pegol/
 2026-04-03 <span class="news-indication-tag">diabète</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
-
----
-
-### [El ejercicio matutino se relaciona con un menor riesgo cardiometabólico - Andalucía Información](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObi1GWmVPVEFlemQ1VU9ucWVmTE5JTzBXaVVXWm8xOXZ5U1o5SEZWVk9hSHpJbUN3ZFZVaVpJbF9wLWFsQzk4VTNTaVVvaFlmX0NheVdZZEJBZVI0czBvcHFuY1J0UERTbGxqQUp1ci1iUnpac1RnUlp0VS1pYTh6V3YtclF0WTNOV1d0ZTlNbFhPVXlRS0dTWHlJZVJMWDVjVUxvWloxRnNBZkd6MklFX290UkZGSGNweFNMQXg5VkhUY1FKQS1sYTJmWDFhbEgycTZJ0gHYAUFVX3lxTE9ZQ0lvRGRzSm91Ni1MM2ZxZFRvQW9uM2pnaWhIOTl5UVBoU1JwSzhMblNDTjFXYTg4OWFRemJfeW5MXzhBd0RsT1hrT0tZOGtwZFFsYkNubHJWNGR1WkRsZUFWOEk1cWFzY21OaFU1YUpWdWdZODlfTG43ZGdiM01FRzZvaGhmY1VLb3FYcGhGdjFHV2FHdm1VV1gyNThIOXFhbF9xRXM4SDg2TWZrSUgtM3ZISDQ2R1hkaWlfTk5FTGZwYXFQMU5GbzlLcXc2dzJ4LVhrWEIwTw?oc=5)
-
-2026-04-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObi1GWmVPVEFlemQ1VU9ucWVmTE5JTzBXaVVXWm8xOXZ5U1o5SEZWVk9hSHpJbUN3ZFZVaVpJbF9wLWFsQzk4VTNTaVVvaFlmX0NheVdZZEJBZVI0czBvcHFuY1J0UERTbGxqQUp1ci1iUnpac1RnUlp0VS1pYTh6V3YtclF0WTNOV1d0ZTlNbFhPVXlRS0dTWHlJZVJMWDVjVUxvWloxRnNBZkd6MklFX290UkZGSGNweFNMQXg5VkhUY1FKQS1sYTJmWDFhbEgycTZJ0gHYAUFVX3lxTE9ZQ0lvRGRzSm91Ni1MM2ZxZFRvQW9uM2pnaWhIOTl5UVBoU1JwSzhMblNDTjFXYTg4OWFRemJfeW5MXzhBd0RsT1hrT0tZOGtwZFFsYkNubHJWNGR1WkRsZUFWOEk1cWFzY21OaFU1YUpWdWdZODlfTG43ZGdiM01FRzZvaGhmY1VLb3FYcGhGdjFHV2FHdm1VV1gyNThIOXFhbF9xRXM4SDg2TWZrSUgtM3ZISDQ2R1hkaWlfTk5FTGZwYXFQMU5GbzlLcXc2dzJ4LVhrWEIwTw?oc=5)
-
----
-
-### [Diabetes: Grippeimpfung schützt das Herz!](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2NrNl9mTlZFOUdtbjFMMmpqNERzZzloa1JucnZpYmY5X0VPR0RIZ3B1YTAtaC1zVEJ2UmFNZm1yZHN6ZW5WbWdwOGVqOE85TmI4NlVxd1RWMVF6bkNTVXMyS0JJZ1gyeEVJcjE1SWNyRHNXaU5hMVlCZzl5dHdjQmR5SkNKNGlxZjdSelJzbWc2QVdybDN3bDdn?oc=5)
-
-2026-04-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2NrNl9mTlZFOUdtbjFMMmpqNERzZzloa1JucnZpYmY5X0VPR0RIZ3B1YTAtaC1zVEJ2UmFNZm1yZHN6ZW5WbWdwOGVqOE85TmI4NlVxd1RWMVF6bkNTVXMyS0JJZ1gyeEVJcjE1SWNyRHNXaU5hMVlCZzl5dHdjQmR5SkNKNGlxZjdSelJzbWc2QVdybDN3bDdn?oc=5)
-
----
-
-### [Hyperparathyreoidismus: Operation kann vor Diabetes schützen](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWc5ZVFvZEplcjNfcnZZVDlKVFNUeGduUlpBRk9hVlNZTHlBSEVJWlk3cTZqeVdSOXpzT0xZbngxRVd2VW45cUxFSURScEJhd1BWWkFQNC1DUlc0dkhXQ25xUkhDT3JheFNZbzFMQ0M3b3hGVEJESENVekhpTlAxc3JUVGJRYlg4eTEwZkp5amFOa3BtSXVkUkUzQkM1S3hSdkgweEpYZGt1NUpWY1E?oc=5)
-
-2026-04-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWc5ZVFvZEplcjNfcnZZVDlKVFNUeGduUlpBRk9hVlNZTHlBSEVJWlk3cTZqeVdSOXpzT0xZbngxRVd2VW45cUxFSURScEJhd1BWWkFQNC1DUlc0dkhXQ25xUkhDT3JheFNZbzFMQ0M3b3hGVEJESENVekhpTlAxc3JUVGJRYlg4eTEwZkp5amFOa3BtSXVkUkUzQkM1S3hSdkgweEpYZGt1NUpWY1E?oc=5)
 
 ---
 

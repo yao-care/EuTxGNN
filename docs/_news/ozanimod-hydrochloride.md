@@ -14,7 +14,7 @@ permalink: /news/ozanimod-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ozanimod Hydrochloride 有什麼相關新聞？">
-<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/ozanimod-hydrochloride/
 <p><a href="{{ '/drugs/ozanimod-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（24 則）
+
+### [Los síntomas de la menopausia siguen infradetectados - 65 y más](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGEzSDJhZDhqdFdRZzJJMmphNnFQSDROM0JEdGEwNEdUVi02c2NxYmpZVThrdThUNlcxVkNoczBOQ0Z5T2l2Nm9ZcEE3dFc5V0NMWWVjaTBJZmtNT3lVLURfWXg4X3g0MmdZcjQwWERrVzZlUms0bmszWE5KVzItZEJPMGJCTmFJSDhDbnQtNkZBcEFkTF81WG94c1k4Q2JnSm1aZVNDUzl6bWl6Nnc?oc=5)
+
+2026-04-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGEzSDJhZDhqdFdRZzJJMmphNnFQSDROM0JEdGEwNEdUVi02c2NxYmpZVThrdThUNlcxVkNoczBOQ0Z5T2l2Nm9ZcEE3dFc5V0NMWWVjaTBJZmtNT3lVLURfWXg4X3g0MmdZcjQwWERrVzZlUms0bmszWE5KVzItZEJPMGJCTmFJSDhDbnQtNkZBcEFkTF81WG94c1k4Q2JnSm1aZVNDUzl6bWl6Nnc?oc=5)
+
+---
 
 ### [Our daughter died of MenB - we fear outbreaks without wider vaccine rollout](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwZlB4eUZKdUJ2LWUxNDNUQmpUZGZ3dDBvWlFMRXc2MnhoSnRjNllGdXFOd0JpanU2bFRqNXEyazJ2X2pfbXJvcU11bkJObm1GZEdiWDlPQXd4dDRj?oc=5)
 
@@ -76,15 +84,7 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Fegato grasso: la «sindrome da ufficio e delivery» che colpisce un Italiano su tre - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDdIYm5RUUVCT3NIb0VYYzN6QldFa2NNODNoMTNUOHFYQllBZk41YmxHTERSMFhlUXZWVWtzX0wwX1RNajVPem9zX3RJTC0wS2RxT09ac1dBeWtzSEpIM2dzaUlkRHFfdUhmQlcwVVYtY05id0xOMi1qUnQ2eEVleDg2TkRjSFRKcVNVNlBaakk3YWs2cXE1MU1IRVV3NW1GVFZKb19jdDM2ME1FeTg0c3JTMA?oc=5)
-
-2026-04-03 <span class="news-indication-tag">MS</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDdIYm5RUUVCT3NIb0VYYzN6QldFa2NNODNoMTNUOHFYQllBZk41YmxHTERSMFhlUXZWVWtzX0wwX1RNajVPem9zX3RJTC0wS2RxT09ac1dBeWtzSEpIM2dzaUlkRHFfdUhmQlcwVVYtY05id0xOMi1qUnQ2eEVleDg2TkRjSFRKcVNVNlBaakk3YWs2cXE1MU1IRVV3NW1GVFZKb19jdDM2ME1FeTg0c3JTMA?oc=5)
-
----
-
-### [Australie. Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+### [Australie Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span>
 
@@ -140,19 +140,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Eating two foods helps lower cholesterol 'similar to statins'](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NkMktNOWhSOWN0Y1l6dVVKVE5mWEJQQWhXbVFxYVFCSjV0eXRyTkJ5TG1OXzVMT2l3Z0dXQmlsWGpHeVVSRDRwbUEyV3RudDdudlJvU2UyNXlYM1c1dWhsT21hUHdYM1doSXM0UTRzYnplNHFnVElueWRWSk5lX2xTZFgtR1h60gGOAUFVX3lxTFBKWTR6NUNVcGFhY29aVmpSWGZpMEZ1VkR4UGVacUtRdy1PYlJPNkxfZmRVM3RMSU9XeTZGdFMtSkoybUtDSm85UFJ0TWllZTIxS04yRkg5X2g1ZWJndzc4T0FnSHN4RjRmeGRwMWpQZk1Kc3FzX24za1BwUjNySF95X29fWF9WcjZZejNmVHc?oc=5)
+### [Eating two foods helps lower cholesterol 'similar to statins' - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NkMktNOWhSOWN0Y1l6dVVKVE5mWEJQQWhXbVFxYVFCSjV0eXRyTkJ5TG1OXzVMT2l3Z0dXQmlsWGpHeVVSRDRwbUEyV3RudDdudlJvU2UyNXlYM1c1dWhsT21hUHdYM1doSXM0UTRzYnplNHFnVElueWRWSk5lX2xTZFgtR1h60gGOAUFVX3lxTFBKWTR6NUNVcGFhY29aVmpSWGZpMEZ1VkR4UGVacUtRdy1PYlJPNkxfZmRVM3RMSU9XeTZGdFMtSkoybUtDSm85UFJ0TWllZTIxS04yRkg5X2g1ZWJndzc4T0FnSHN4RjRmeGRwMWpQZk1Kc3FzX24za1BwUjNySF95X29fWF9WcjZZejNmVHc?oc=5)
 
 2026-04-03 <span class="news-indication-tag">MS</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NkMktNOWhSOWN0Y1l6dVVKVE5mWEJQQWhXbVFxYVFCSjV0eXRyTkJ5TG1OXzVMT2l3Z0dXQmlsWGpHeVVSRDRwbUEyV3RudDdudlJvU2UyNXlYM1c1dWhsT21hUHdYM1doSXM0UTRzYnplNHFnVElueWRWSk5lX2xTZFgtR1h60gGOAUFVX3lxTFBKWTR6NUNVcGFhY29aVmpSWGZpMEZ1VkR4UGVacUtRdy1PYlJPNkxfZmRVM3RMSU9XeTZGdFMtSkoybUtDSm85UFJ0TWllZTIxS04yRkg5X2g1ZWJndzc4T0FnSHN4RjRmeGRwMWpQZk1Kc3FzX24za1BwUjNySF95X29fWF9WcjZZejNmVHc?oc=5)
-
----
-
-### [UKHSA Alerts on Rising Shigella Cases and Drug Resistance](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
-
-2026-04-03 <span class="news-indication-tag">MS</span>
-
-來源：[PinkNews](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYamRlTTBjYlVMemNBcGlEcVhBMkcwMk5Tb2dfZ1lFTFNKb3BOM0NnWWJyVlAteEd4d0cwMHdKSk5uWFEwOFF2UTZ1cTFKaHZBX3VZQmVqcW5NMFl3Y1Vfd1JTSmNFUklJTnBhd3RB?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0NkMktNOWhSOWN0Y1l6dVVKVE5mWEJQQWhXbVFxYVFCSjV0eXRyTkJ5TG1OXzVMT2l3Z0dXQmlsWGpHeVVSRDRwbUEyV3RudDdudlJvU2UyNXlYM1c1dWhsT21hUHdYM1doSXM0UTRzYnplNHFnVElueWRWSk5lX2xTZFgtR1h60gGOAUFVX3lxTFBKWTR6NUNVcGFhY29aVmpSWGZpMEZ1VkR4UGVacUtRdy1PYlJPNkxfZmRVM3RMSU9XeTZGdFMtSkoybUtDSm85UFJ0TWllZTIxS04yRkg5X2g1ZWJndzc4T0FnSHN4RjRmeGRwMWpQZk1Kc3FzX24za1BwUjNySF95X29fWF9WcjZZejNmVHc?oc=5)
 
 ---
 
@@ -164,6 +156,14 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
+### [The taste test: secrets of octopus mating rituals revealed - The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMV9RTWFJRGpCQUhSak5KbWFRa3JRaXNpSUJ0Z0I5TUlFR2lrazVpMGVvYTlIaVpXQjRUM2dTU3hCaEh4REMzdURsZUFaaHp3RkJpX1lsTnJMQ3B2T3ptNmR3elF4SlVJbUR6Vlp3Y2RNd2o1UnlhSWY4RE5yeTBnNTN1UFNucm5PZ19wWnJfWkc?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMV9RTWFJRGpCQUhSak5KbWFRa3JRaXNpSUJ0Z0I5TUlFR2lrazVpMGVvYTlIaVpXQjRUM2dTU3hCaEh4REMzdURsZUFaaHp3RkJpX1lsTnJMQ3B2T3ptNmR3elF4SlVJbUR6Vlp3Y2RNd2o1UnlhSWY4RE5yeTBnNTN1UFNucm5PZ19wWnJfWkc?oc=5)
+
+---
+
 ### [Genève : des brins d'ADN intelligents ciblent les cellules cancéreuses - 20 Minuten](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUdmSlE4VC0wOU9wc1B1Qnlhd1p4dzgyTTFNSzlXQ1ZaZkZhbDFCRzZfOTdPakVuR3ZSMjRTdEMyTmdjQzRxcWU2aGVJeVZyVWVHU0YtemhHdVNxbXR3V2ZhaWNobGJNeW42SGR2TThWSlNobXZVM0xhenNPR0V6cDBpWmFXd0w2TFJ3LVhIVjJ3MDgtWWtuX184bUJtTFZGaXc?oc=5)
 
 2026-04-02 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span>
@@ -172,27 +172,19 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Mono-Infektion erhöht Risiko für Multiple Sklerose](https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1p3VS1ZbVdWYk5LOWpxWlNiLUU1WHFySUs2dnhuLVFBNFBXcHlkOElKVVhNTXE2T2Q4ZHJqVWVOU2MyRGgyMjk1U0xXTWhkTC02d0RjYlp0ekx3eDYzRXh5N25zMVVsRDlGa2RWbEowYmljQ01zVWplTEs0Sk0tZ0tpd0hqakdScXh3Xw?oc=5)
+### [Mono-Infektion erhöht Risiko für Multiple Sklerose - it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1p3VS1ZbVdWYk5LOWpxWlNiLUU1WHFySUs2dnhuLVFBNFBXcHlkOElKVVhNTXE2T2Q4ZHJqVWVOU2MyRGgyMjk1U0xXTWhkTC02d0RjYlp0ekx3eDYzRXh5N25zMVVsRDlGa2RWbEowYmljQ01zVWplTEs0Sk0tZ0tpd0hqakdScXh3Xw?oc=5)
 
 2026-04-02 <span class="news-indication-tag">Multiple Sklerose</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1p3VS1ZbVdWYk5LOWpxWlNiLUU1WHFySUs2dnhuLVFBNFBXcHlkOElKVVhNTXE2T2Q4ZHJqVWVOU2MyRGgyMjk1U0xXTWhkTC02d0RjYlp0ekx3eDYzRXh5N25zMVVsRDlGa2RWbEowYmljQ01zVWplTEs0Sk0tZ0tpd0hqakdScXh3Xw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1p3VS1ZbVdWYk5LOWpxWlNiLUU1WHFySUs2dnhuLVFBNFBXcHlkOElKVVhNTXE2T2Q4ZHJqVWVOU2MyRGgyMjk1U0xXTWhkTC02d0RjYlp0ekx3eDYzRXh5N25zMVVsRDlGa2RWbEowYmljQ01zVWplTEs0Sk0tZ0tpd0hqakdScXh3Xw?oc=5)
 
 ---
 
-### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore'](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
+### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
-2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
-
----
-
-### [Norfolk MP treated for cancer gives child sunburn warning](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ya1lpVW1KdVlqUm1rMnJLNHNZbm03NWZtdERDbm1sUHdjSWI5ZkJfcGE5b3ZsNkJ1UG12U0NfQXdlbDdsRXlRWDkxNHg5ckJrV01fMGJWWmRXeWpr?oc=5)
-
-2026-04-02 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ya1lpVW1KdVlqUm1rMnJLNHNZbm03NWZtdERDbm1sUHdjSWI5ZkJfcGE5b3ZsNkJ1UG12U0NfQXdlbDdsRXlRWDkxNHg5ckJrV01fMGJWWmRXeWpr?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
 ---
 
@@ -201,6 +193,14 @@ permalink: /news/ozanimod-hydrochloride/
 2026-04-02 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWxpdmxSYkZ6UVlaeTRrOVpTTjhzUTMtdzFfaGYzdDJxWlVQZlRuM3BvNjRzNXZaREdhQU1nRkxOdGdSRE5SVHJHaUh0aXpMQmJVcnFVTEdRWTQxUVJDZzlLNFp4bFRVbWdSSlhYeXJFT2NoUE8zMWY3SkZKZFR2WjlBQmJBZG93cTVjOEdPQQ?oc=5)
+
+---
+
+### [First cases of Usutu virus found in blackbirds in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
+
+2026-04-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE44RzNYUVdKbFByc3VJeGpRMkUzaUlzOC1Hb3QtQ1pkc2dIT1dFUkJWdlY5YVZ1Mmgyd3QyUjB4WUoxZTM1eTc4aGpqT3UzdDBlUFFYci1hdVFPNE5K?oc=5)
 
 ---
 
@@ -233,22 +233,6 @@ permalink: /news/ozanimod-hydrochloride/
 2026-04-02 <span class="news-indication-tag">MS</span>
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzczQ28zWFVkZ1dlcjZ5QXlHTWpsSlZpSXRRRHpPMHpmT3p0Z1FuTlpHMVk4NjlkTzZWZ2VxYU5XWDJrcjZLVHl5M2xINUVlLUg0T2JhMGVNUGFoWjRHNVVXTGY4dnlOYUN5RDg1VktTMVNmWTNPY0hvbER1WnMyWjd4b2d4eDBpMVJZemlPannSAZYBQVVfeXFMTU1USUpPTlFxaGJyNS1LT1VOSk4zSkstWDE3MVc3bV9MM2hkRTZieG5WcmRadG5USGFlN3V5SVVkU1dzSHh6aUphd0dpR2NmNFZ2MU13WUNMT1VkV0owSU5SSlVQTF8wX3gtMHFGTUUtejlBNlVrYzVLRDRzWEFQdUJWaFE3ZWFZWWhZTDNEcVFOSzRfR2Rn?oc=5)
-
----
-
-### [Smartes System erkennt Krebszellen genau](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVNmVnpNSUlZOWU1WUJ4WVN4WG1Wa1N5bkEzQkpkanZ5RjNsbEhxOGZSTFJYZjBOR184bzBLVjFtak5Hbk5TUFNETHBPY3dYWjI1MkVmM0pJOUpoellTNTk1U0Q4Nzc2Rm9QS3dOT3V0ZFN4bVFNaUF3VVE2eHozMEVVaw?oc=5)
-
-2026-04-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[pressetext.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVNmVnpNSUlZOWU1WUJ4WVN4WG1Wa1N5bkEzQkpkanZ5RjNsbEhxOGZSTFJYZjBOR184bzBLVjFtak5Hbk5TUFNETHBPY3dYWjI1MkVmM0pJOUpoellTNTk1U0Q4Nzc2Rm9QS3dOT3V0ZFN4bVFNaUF3VVE2eHozMEVVaw?oc=5)
-
----
-
-### [Nuova cura 'pan-cancro': mix di farmaci blocca la crescita tumorale](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
-
-2026-04-02 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
 
 ---
 

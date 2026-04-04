@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Sonno irregolare e meno di 8 ore: rischio quasi doppio di infarto e ictus, secondo un nuovo studio finlandese](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
+
+2026-04-03 <span class="news-indication-tag">ictus</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
+
+---
 
 ### [Il vaccino antinfluenzale protegge da infarto e ictus - Corriere del Ticino](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWpqSGZrMF9OUEgwMlIya1ljbHlGa0xES1cycG9IWmRyeVA0cWp4Nk9pcVRnTGFwZWN2aEZfcnhMcGdBR0NVSk1OdkJkRUJCNUNvRXNDbHpiQkttMVZCTXBpeGcwTlJjNklpZHNUZ3Q4TWhqbzFuajJuNVZRUjNwOGNMWnZaeE9zV2dLaw?oc=5)
 

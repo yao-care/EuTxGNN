@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Amlodipine</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（19 則）
+
+### [Los virus que atacan bacterias también se comunican entre especies: así 'hablan' entre sí para infectar - El Confidencial](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlpseWpjSGk3TG4zaUpYNjhTZklmRlhnSTVhMWJXQk0zYVYweDFXbXUtbVlGM0gySG1qUHBjZ3Nqd3NDUnN2dk8tSnp0cmdGRTE1UGZWY0FXbVExTUxDVjJVSVkwZzZGQVJnV2ZkWWUzOF91Z2V2U0RMSVY0ZkVva1h0VEJHdnFBVlBNTk1FTURLemM4Nk55STVSODAxb3FYWXhqZVFkNGtOTHdLTnBmZ2ZGOXgwWDFjZDNCM1h3S2s?oc=5)
+
+2026-04-04 <span class="news-drug-tag">Amlodipine</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlpseWpjSGk3TG4zaUpYNjhTZklmRlhnSTVhMWJXQk0zYVYweDFXbXUtbVlGM0gySG1qUHBjZ3Nqd3NDUnN2dk8tSnp0cmdGRTE1UGZWY0FXbVExTUxDVjJVSVkwZzZGQVJnV2ZkWWUzOF91Z2V2U0RMSVY0ZkVva1h0VEJHdnFBVlBNTk1FTURLemM4Nk55STVSODAxb3FYWXhqZVFkNGtOTHdLTnBmZ2ZGOXgwWDFjZDNCM1h3S2s?oc=5)
+
+---
 
 ### [Wie Brustkrebs-Screenings überraschend Herzkrankheiten erkennen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
 
@@ -60,7 +68,15 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Australie. Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+### [Sonno irregolare e meno di 8 ore: rischio quasi doppio di infarto e ictus, secondo un nuovo studio finlandese](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
+
+2026-04-03 <span class="news-indication-tag">ictus</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
+
+---
+
+### [Australie Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span>
 
@@ -81,14 +97,6 @@ permalink: /news/amlodipine/
 2026-04-03 <span class="news-indication-tag">cancer</span>
 
 來源：[Bon Pote](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
-
----
-
-### [Un estudio descubre que distintos virus pueden comunicarse entre sí para infectar bacterias - Estrella Digital](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNHJEbjQtM3F0Y0FpWl9abEhkNGlQQ0tsVWZqWmJNNlBsWWk4TEEyc0ZFRk5LUjdHLXhfVjVuWktQVFVUZXVEbWJ2YUZjYzlUcjZmSW9yMUp5RmtCbllDX25JeEpKMXdzRHNTX0R1WWY3cVVQUEZ2SFhKcmxIWTk1ZFRzMld2UzdoVl9mcDJxaEdBMWRNOUJPMENnSDNqZ0d4aUt6anpEZ2I3bTR1MGhoTUFMNlBxODl4VXNMN3ZaOEtHTEZmR2lFRlloOVJoeC0xaTlsYmtlXzNyNG05WGE5M21odlcyRmtDOG9r0gHwAUFVX3lxTE91M0IzbEUtdTF0LVZ2X1pkdWFyTlM1ZmRBbEFiZG84OUtHb3o3TFZ4TEpmWDVDeHcwbGhOMGo4NVZOMV9nTlR4Z1plazNyMF8yZ2UzRjl1TXlwN3hjS282ZEFJMkxpOHN4c0JFNlpFMlNjQzhUTGtKZzBSRmdZQXhnSmEybjQ1bW9SR1dnSVg5MjJ0NE0xbFoxeGpTLXFzTFNmcW56WkJJdEdtdmVDWVVLWUFqOWpiU1lMVzJYRVpKVHRPXy16VkV3S0xQREFSSXUzSkgtS2syelI1ZElJQXNIMHY5LWU1MnluSlNKeEV1ZQ?oc=5)
-
-2026-04-03 <span class="news-drug-tag">Amlodipine</span>
-
-來源：[Estrella Digital](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNHJEbjQtM3F0Y0FpWl9abEhkNGlQQ0tsVWZqWmJNNlBsWWk4TEEyc0ZFRk5LUjdHLXhfVjVuWktQVFVUZXVEbWJ2YUZjYzlUcjZmSW9yMUp5RmtCbllDX25JeEpKMXdzRHNTX0R1WWY3cVVQUEZ2SFhKcmxIWTk1ZFRzMld2UzdoVl9mcDJxaEdBMWRNOUJPMENnSDNqZ0d4aUt6anpEZ2I3bTR1MGhoTUFMNlBxODl4VXNMN3ZaOEtHTEZmR2lFRlloOVJoeC0xaTlsYmtlXzNyNG05WGE5M21odlcyRmtDOG9r0gHwAUFVX3lxTE91M0IzbEUtdTF0LVZ2X1pkdWFyTlM1ZmRBbEFiZG84OUtHb3o3TFZ4TEpmWDVDeHcwbGhOMGo4NVZOMV9nTlR4Z1plazNyMF8yZ2UzRjl1TXlwN3hjS282ZEFJMkxpOHN4c0JFNlpFMlNjQzhUTGtKZzBSRmdZQXhnSmEybjQ1bW9SR1dnSVg5MjJ0NE0xbFoxeGpTLXFzTFNmcW56WkJJdEdtdmVDWVVLWUFqOWpiU1lMVzJYRVpKVHRPXy16VkV3S0xQREFSSXUzSkgtS2syelI1ZElJQXNIMHY5LWU1MnluSlNKeEV1ZQ?oc=5)
 
 ---
 
@@ -164,19 +172,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore'](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
+### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
-2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
-
----
-
-### [Norfolk MP treated for cancer gives child sunburn warning](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ya1lpVW1KdVlqUm1rMnJLNHNZbm03NWZtdERDbm1sUHdjSWI5ZkJfcGE5b3ZsNkJ1UG12U0NfQXdlbDdsRXlRWDkxNHg5ckJrV01fMGJWWmRXeWpr?oc=5)
-
-2026-04-02 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ya1lpVW1KdVlqUm1rMnJLNHNZbm03NWZtdERDbm1sUHdjSWI5ZkJfcGE5b3ZsNkJ1UG12U0NfQXdlbDdsRXlRWDkxNHg5ckJrV01fMGJWWmRXeWpr?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
 ---
 
@@ -193,22 +193,6 @@ permalink: /news/amlodipine/
 2026-04-02 <span class="news-indication-tag">Krebs</span>
 
 來源：[dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVDJrR2cxVmFnd0dTVDFUS2xYRUdpcnNYc2RkX3lqZmgtWmVxMl9oWlRqQzJsTmg0S3pvRWVZaXpYS1cxZzBWVUpwN1E1VTlUOFU0b0t4VkhZOXhiOVdWNFVFVHpxMTdLVFZXYTFCMmtSSk1wZ2JUWHY1a25TdkZuNllxYWtFWjdDM3JUanVaSlJWeGVWNUQwT2xSVzhIWnJrNnFydEluLTJncEJlTlF2YkV2bjEyM1NMdzBzVlhBd1Z5Mkt5SEozc095MVhwOFpoREwzSkFwSk9XSGJFWjFLVFF6QXpEMG8?oc=5)
-
----
-
-### [Smartes System erkennt Krebszellen genau](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVNmVnpNSUlZOWU1WUJ4WVN4WG1Wa1N5bkEzQkpkanZ5RjNsbEhxOGZSTFJYZjBOR184bzBLVjFtak5Hbk5TUFNETHBPY3dYWjI1MkVmM0pJOUpoellTNTk1U0Q4Nzc2Rm9QS3dOT3V0ZFN4bVFNaUF3VVE2eHozMEVVaw?oc=5)
-
-2026-04-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[pressetext.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVNmVnpNSUlZOWU1WUJ4WVN4WG1Wa1N5bkEzQkpkanZ5RjNsbEhxOGZSTFJYZjBOR184bzBLVjFtak5Hbk5TUFNETHBPY3dYWjI1MkVmM0pJOUpoellTNTk1U0Q4Nzc2Rm9QS3dOT3V0ZFN4bVFNaUF3VVE2eHozMEVVaw?oc=5)
-
----
-
-### [Nuova cura 'pan-cancro': mix di farmaci blocca la crescita tumorale](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
-
-2026-04-02 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
 
 ---
 

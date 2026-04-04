@@ -14,7 +14,7 @@ permalink: /news/tenofovir-disoproxil/
 ---
 
 <p class="key-answer" data-question="Tenofovir Disoproxil 有什麼相關新聞？">
-<strong>Tenofovir Disoproxil</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tenofovir Disoproxil</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/tenofovir-disoproxil/
 <p><a href="{{ '/drugs/tenofovir-disoproxil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（14 則）
 
 ### [Wie Brustkrebs-Screenings überraschend Herzkrankheiten erkennen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1gwcTY5SEdZblhhZENWQlFmWDR0Z25IcXk1Yl8yblVMN2dESnBnTHFzd01hNlBpVmJialNpUXM2SVFNS08tem5tMWlWLVRfblQ4VnJpa0lqTGlkTXJhYnFaOGJyV1JNWGlXbjJDd0lGVl91T2NHRUM5Qi1zVEVqOUhSdlRWeGtsejJiN3c3SkR5b2cydHRzSHp6WjVhTGo3NjR2bTZ5UnBwdkRWbnZjd1Q0c2M?oc=5)
 
@@ -60,7 +60,7 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [Australie. Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
+### [Australie Sa chienne est atteinte d'un cancer : il prolonge sa vie grâce à un vaccin créé avec ChatGPT - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMk5VOUwxQWVGTEpMWXJRakZzcHlBTWJ6dTE5U0paM0NYY0VPUTYxLWVoMFZtaG1OZmNiMjVOQ2toaHpHUEtUN040ZUZ0VUNVWUNudXM5M1RmOVRkVm5hLWc0UGEzRGJvSnk0djU0dW4wSnprclBCUDZubEhCM0FnSllzNE12S1VNLXhxd2pEMzFSdzR3aFh3aUZqOU9kX0ZsV2NXYVdfeVR1Zk5EejltcjlnbzJmaThsR2tTN1BGMmNsU3pScXRTbVljRThRRUlf?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span>
 
@@ -124,19 +124,11 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore'](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
+### ['I fought bowel cancer twice before 30 - the symptoms young people must not ignore' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
-2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-04-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
-
----
-
-### [Norfolk MP treated for cancer gives child sunburn warning](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ya1lpVW1KdVlqUm1rMnJLNHNZbm03NWZtdERDbm1sUHdjSWI5ZkJfcGE5b3ZsNkJ1UG12U0NfQXdlbDdsRXlRWDkxNHg5ckJrV01fMGJWWmRXeWpr?oc=5)
-
-2026-04-02 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ya1lpVW1KdVlqUm1rMnJLNHNZbm03NWZtdERDbm1sUHdjSWI5ZkJfcGE5b3ZsNkJ1UG12U0NfQXdlbDdsRXlRWDkxNHg5ckJrV01fMGJWWmRXeWpr?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbU5UWHZaVTZXd1N1a2VRR2JJQk83cGR2bmlfOERXMXVwYzdNV29YLXF4Nk80NjYzWGZGSmNuM2w4VTRlaUdQVFZQMDhZZGk0cG9rUnV1VVhudkhBQnRmc3V0SDl6cEpMMlo0WFM4VG5zNHhIODI2RHFLd1p2MzjSAYQBQVVfeXFMT0FDVVFkcEZ0Nl81TUhSek9WSDlQeWE4aXJXZWhFZVRjMVRzZGRWb1U5NHZKbzdVUUMzdjhhcXZNYmZpRUliVjFveVRyU0RkU0J4SkI3TjdOaGhyNVdKNkNkd1NJbUhNTzB5ak9nWWlDdC1rTGc0R2VqZmVhOElQM2lhWFUy?oc=5)
 
 ---
 
@@ -156,27 +148,11 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [ECIM 2026 - 24th European Congress of Internal Medicine - 25. bis 28. März Heilung der chronischen Hepatitis B in Sicht](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
+### [ECIM 2026 - 24th European Congress of Internal Medicine - 25. bis 28. März Heilung der chronischen Hepatitis B in Sicht - Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
 
 2026-04-02 <span class="news-indication-tag">hepatitis</span>
 
-來源：[aerztezeitung.at](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
-
----
-
-### [Smartes System erkennt Krebszellen genau](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVNmVnpNSUlZOWU1WUJ4WVN4WG1Wa1N5bkEzQkpkanZ5RjNsbEhxOGZSTFJYZjBOR184bzBLVjFtak5Hbk5TUFNETHBPY3dYWjI1MkVmM0pJOUpoellTNTk1U0Q4Nzc2Rm9QS3dOT3V0ZFN4bVFNaUF3VVE2eHozMEVVaw?oc=5)
-
-2026-04-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[pressetext.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUVNmVnpNSUlZOWU1WUJ4WVN4WG1Wa1N5bkEzQkpkanZ5RjNsbEhxOGZSTFJYZjBOR184bzBLVjFtak5Hbk5TUFNETHBPY3dYWjI1MkVmM0pJOUpoellTNTk1U0Q4Nzc2Rm9QS3dOT3V0ZFN4bVFNaUF3VVE2eHozMEVVaw?oc=5)
-
----
-
-### [Nuova cura 'pan-cancro': mix di farmaci blocca la crescita tumorale](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
-
-2026-04-02 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGF2UWprazdoYkZrVzZIcFZnSjh3RWZBMXlOY0FaUlZybDFEVi1yUW1hdThfNTA2clktcDdyUGRxTUFoQm9SQ29UenhuSHVkcDhXMk50MXZnZXBWYWN4SmZIWm02SWN0Qzd4M3Zzd0lHOU5kUDhKTTBQLUZJTUdHZHBGLTJHWjF4SGZlOEd3?oc=5)
+來源：[Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR1NCZ1k2YXo0cEtxWlVCQlMzdUR4aG5PVGx1aVZtRU9FcC1zcFBEcmwybU5JTTRTSHg0UUc1N01HOGFpU0p2dk01V0Y4RWc4WDFTSTNuNXVuRzUzYlhoTUNNN0NRX3lxY2NKWnZzMVctYVUxLWJ6OFh4RXl0MExoSjQ3WE9LN1FuQ2VLUjhWQ3ZvVm1QRDFmcXlVdmlqZG84dU9KQjNQVFBrekU4WmZaRXBWWGU4QVBNOU9jejctOHFHOC00NVhqRFhubHVpRndXNmstVS1abXQyUHRUbVg4VkFpRU1pZjR1QloxT1Zn?oc=5)
 
 ---
 

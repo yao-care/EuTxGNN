@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Cada cuánto se puede tomar ibuprofeno sin riesgos, según expertos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1JudDcyZ3FCNS1WTUgtWV9MSUtjQi1kUFdOQ3VJWnFPX0JmdGVubndFZ2NPM2hTVm52eUY1MGdQNWdFaE9hOFRDUFJrYWtoODc2SC1rWng5RHZSazNtenV0Sk14UVdGRWtSQkVETXd4S0tBVDQtdUlPbkZYTlhiMW9yS25NcXNEODRCOVdwaGpkUHEySjhBUlZKYWxSamp0SmZEdDRPekZvZ9IBxAFBVV95cUxPWWpSd2JhRDFNd0k0dGFvejFWU0pudVVKZ0o4YWI0aU45SUR0a2tnbTBSQzMyaER3LVZqc0NtQnNHS2I5Y0x0S2ZqcmFIbk5nYnMxeldYTWVEcXRCMUZONC1sRHZXRENCaXJ0bEpQMWFaSVU5R1FjNndkLXlQMEx1cEszdEFBME1RUDVhTmg3a1RmZ0JUd2tlMFo5ckZLbVhUTVpfY2E1b0JMZHdqT3Z4U2tIekU3QWVvOXlIRkppTi1rTzNR?oc=5)
+
+2026-04-03 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1JudDcyZ3FCNS1WTUgtWV9MSUtjQi1kUFdOQ3VJWnFPX0JmdGVubndFZ2NPM2hTVm52eUY1MGdQNWdFaE9hOFRDUFJrYWtoODc2SC1rWng5RHZSazNtenV0Sk14UVdGRWtSQkVETXd4S0tBVDQtdUlPbkZYTlhiMW9yS25NcXNEODRCOVdwaGpkUHEySjhBUlZKYWxSamp0SmZEdDRPekZvZ9IBxAFBVV95cUxPWWpSd2JhRDFNd0k0dGFvejFWU0pudVVKZ0o4YWI0aU45SUR0a2tnbTBSQzMyaER3LVZqc0NtQnNHS2I5Y0x0S2ZqcmFIbk5nYnMxeldYTWVEcXRCMUZONC1sRHZXRENCaXJ0bEpQMWFaSVU5R1FjNndkLXlQMEx1cEszdEFBME1RUDVhTmg3a1RmZ0JUd2tlMFo5ckZLbVhUTVpfY2E1b0JMZHdqT3Z4U2tIekU3QWVvOXlIRkppTi1rTzNR?oc=5)
+
+---
 
 
 <div class="disclaimer">

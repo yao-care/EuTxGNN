@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Sonno irregolare e meno di 8 ore: rischio quasi doppio di infarto e ictus, secondo un nuovo studio finlandese](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
+
+2026-04-03 <span class="news-indication-tag">ictus</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
+
+---
 
 ### [Il vaccino antinfluenzale protegge da infarto e ictus - Corriere del Ticino](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWpqSGZrMF9OUEgwMlIya1ljbHlGa0xES1cycG9IWmRyeVA0cWp4Nk9pcVRnTGFwZWN2aEZfcnhMcGdBR0NVSk1OdkJkRUJCNUNvRXNDbHpiQkttMVZCTXBpeGcwTlJjNklpZHNUZ3Q4TWhqbzFuajJuNVZRUjNwOGNMWnZaeE9zV2dLaw?oc=5)
 
@@ -76,19 +84,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [La pubertad se adelanta en Europa: qué hay detrás de un cambio que preocupa a los expertos - IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NjNnBxNGFkRUdkUlVXWlpEdHdrV0ZvbHhNLVozU2RMVXlxZW9Zc1FiY25MTEJKX2taZTBSX3NRSHRNSTJmTmZtNUZsX1B0UmRrVnlHVnFTOWVBbU1tdHRJM3Vuc0dHb3l3QVVFZS0tRG4tMGVvaVBZZTFLSllkdWpmdTVsREhhaE5uOGZjLUhYdDFGT3FsN2lGY20tQ2FQT3pPWDBZQ0lFNFZld3B3b0pvc9IBrgFBVV95cUxOXzM1WUhEMk53X1N5MzQyZE9UZXZaczN1dkJQM21WTkJhMkR1UnFUQnc1T09yc01neXhDUmN0RzlJNkFndVUxb3pKTXl4ZFZmNXpDRElrLWdTOHZXYkhRNkJqTGtRZDhiX1FJdDRzVlhFbnZaNnBiM3J1X0hNUHJlTlhzUVFxLU1DLVpJdEdxRlJSM1JNQjZaOXVRNGlULWlCLTdweE1SQXNkV2JGSGc?oc=5)
+### [De la obesidad a los plásticos: las causas detrás de la pubertad precoz y cuándo alarmarse, según los expertos - Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZEg1ZHk4WWtlSjRrSUZYSk1KeFJJTHhEZW0xRkVLUURNZHkyWmNxMll0NTJYQWZsZ2tRaGlrWERGQTFBTThxZjN6dHVGQnFUX1NrNXBKV0NsTl9kV3ozLUFhWGpXV2RnVGU2OUFnM0VBNXNPbFktRXAxTnk4M25SR3NkSWE3eXQwSDNVUkV3NjhRVDV0R2RxVG1zU2R5T0tOSE1BX2J0ZjQ0SkR0bUtRRjVpa2RUR3l2dmFXVzd2MzQ2MVNzUnZVSkhwS3hZQ2tqTURZUkRrQ0VMM2VxdWZfZUZFcGZ4M3NzMVZJS2tLWS1QbV9sY0NtT1FxY0VMakU2Vi01Snd5Y1hQWklnZ3c?oc=5)
 
 2026-04-02 <span class="news-indication-tag">obesidad</span>
 
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NjNnBxNGFkRUdkUlVXWlpEdHdrV0ZvbHhNLVozU2RMVXlxZW9Zc1FiY25MTEJKX2taZTBSX3NRSHRNSTJmTmZtNUZsX1B0UmRrVnlHVnFTOWVBbU1tdHRJM3Vuc0dHb3l3QVVFZS0tRG4tMGVvaVBZZTFLSllkdWpmdTVsREhhaE5uOGZjLUhYdDFGT3FsN2lGY20tQ2FQT3pPWDBZQ0lFNFZld3B3b0pvc9IBrgFBVV95cUxOXzM1WUhEMk53X1N5MzQyZE9UZXZaczN1dkJQM21WTkJhMkR1UnFUQnc1T09yc01neXhDUmN0RzlJNkFndVUxb3pKTXl4ZFZmNXpDRElrLWdTOHZXYkhRNkJqTGtRZDhiX1FJdDRzVlhFbnZaNnBiM3J1X0hNUHJlTlhzUVFxLU1DLVpJdEdxRlJSM1JNQjZaOXVRNGlULWlCLTdweE1SQXNkV2JGSGc?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZEg1ZHk4WWtlSjRrSUZYSk1KeFJJTHhEZW0xRkVLUURNZHkyWmNxMll0NTJYQWZsZ2tRaGlrWERGQTFBTThxZjN6dHVGQnFUX1NrNXBKV0NsTl9kV3ozLUFhWGpXV2RnVGU2OUFnM0VBNXNPbFktRXAxTnk4M25SR3NkSWE3eXQwSDNVUkV3NjhRVDV0R2RxVG1zU2R5T0tOSE1BX2J0ZjQ0SkR0bUtRRjVpa2RUR3l2dmFXVzd2MzQ2MVNzUnZVSkhwS3hZQ2tqTURZUkRrQ0VMM2VxdWZfZUZFcGZ4M3NzMVZJS2tLWS1QbV9sY0NtT1FxY0VMakU2Vi01Snd5Y1hQWklnZ3c?oc=5)
 
 ---
 
-### [“El reto es que los efectos de los fármacos para la obesidad sean duraderos”](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
+### [“El reto es que los efectos de los fármacos para la obesidad sean duraderos” - El médico interactivo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
 
 2026-04-02 <span class="news-indication-tag">obesidad</span>
 
-來源：[elmedicointeractivo.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdfSXFsY1VENHdleG9lbmhPT3NSeWRFWk83STNnRDV4QWNNWU1PZWpRU3lhXzh4cHBkQmh3R1NjUXJaSkFEcHluNy1QVzZ1WVpvUk9qYm5fdmVDWk9ibzUwaWNuOTMtSmRTejNBVHlFMUNZZ2tsNWtWQkozbDJEcDd6TlpaNjJyakN0LVFDM2tMNWpFR3dDQ0hIdXNWYTQ1N0pBVlcwOVEtSEU?oc=5)
 
 ---
 

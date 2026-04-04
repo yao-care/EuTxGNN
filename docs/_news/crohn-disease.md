@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Neue Diät verbessert Symptome bei Morbus Crohn](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZldZdEdmcHhUc0lvVU45d1VYS21Eelk1aFlxZEtsRGFnMkNBX0Zka0pUaVBWN3h6U2MzYkNNSmMxb3RoTU5QTzJDWHVEVGxBTkRQcEVHdXF4ejFpUkpaanNQNTNhcTVZWUNHTjFHZG5YcERGaVA0M0YzQTgxaFlQZmM4alJ0dw?oc=5)
+### [Neue Diät verbessert Symptome bei Morbus Crohn - it boltwise](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZldZdEdmcHhUc0lvVU45d1VYS21Eelk1aFlxZEtsRGFnMkNBX0Zka0pUaVBWN3h6U2MzYkNNSmMxb3RoTU5QTzJDWHVEVGxBTkRQcEVHdXF4ejFpUkpaanNQNTNhcTVZWUNHTjFHZG5YcERGaVA0M0YzQTgxaFlQZmM4alJ0dw?oc=5)
 
 2026-04-03
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZldZdEdmcHhUc0lvVU45d1VYS21Eelk1aFlxZEtsRGFnMkNBX0Zka0pUaVBWN3h6U2MzYkNNSmMxb3RoTU5QTzJDWHVEVGxBTkRQcEVHdXF4ejFpUkpaanNQNTNhcTVZWUNHTjFHZG5YcERGaVA0M0YzQTgxaFlQZmM4alJ0dw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZldZdEdmcHhUc0lvVU45d1VYS21Eelk1aFlxZEtsRGFnMkNBX0Zka0pUaVBWN3h6U2MzYkNNSmMxb3RoTU5QTzJDWHVEVGxBTkRQcEVHdXF4ejFpUkpaanNQNTNhcTVZWUNHTjFHZG5YcERGaVA0M0YzQTgxaFlQZmM4alJ0dw?oc=5)
 
 ---
 
