@@ -3,7 +3,7 @@ layout: default
 title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Un nuevo método para controlar la hipertensión logra evitar ictus y muertes: así funciona el sistema que ya salva vidas](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
 
 2026-04-04
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
-
----
-
-### [Perspectivas ‘One Health’ sobre la hipertensión pulmonar: Uniendo medicina humana y veterinaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnU4ZzhqeFkyRjYtTzB5Z0dhSEk4cGhEbFQtNVdfaDhMT2VndGppZ0pUcDRVNWN1T25wUUpTY3Jna25tSHNVdUcybHpDaXdrMXI4SmhHU1JMNDZmcXhCbG9PRnpBRVRCUHoyZGJxbEV3dHhiZmRRS1FVbzZlUi1iaVRKbUhfWU9zNEExMHRnZXNIRXcxUEZKQXRQVGpmYTdhUF9XbDA3V1hWd2l0NmVyTlU0WEdvVmhXaDZsWXVkSWhSMkNPT1E?oc=5)
-
-2026-04-02
-
-來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnU4ZzhqeFkyRjYtTzB5Z0dhSEk4cGhEbFQtNVdfaDhMT2VndGppZ0pUcDRVNWN1T25wUUpTY3Jna25tSHNVdUcybHpDaXdrMXI4SmhHU1JMNDZmcXhCbG9PRnpBRVRCUHoyZGJxbEV3dHhiZmRRS1FVbzZlUi1iaVRKbUhfWU9zNEExMHRnZXNIRXcxUEZKQXRQVGpmYTdhUF9XbDA3V1hWd2l0NmVyTlU0WEdvVmhXaDZsWXVkSWhSMkNPT1E?oc=5)
 
 ---
 

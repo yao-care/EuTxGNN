@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Un nuevo método para controlar la hipertensión logra evitar ictus y muertes: así funciona el sistema que ya salva vidas](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/givosiran/
 2026-04-03 <span class="news-indication-tag">epatite</span>
 
 來源：[Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWl2bXFzODVjQm5ORVJsSGlDMUtnVmFMTF9iZi15d2NHR19aZDdZNkxOWDFtcTUxUElVU2FzeWtzeFJHNVRKSGpCcFpSY0EtTTJmLVktYVBwVFRIUXZMUTlZbkt2eVJKeTJScVNIVHBaaUU3eG1kTHZyWTU5UkJDTkNTbUstOW9Ua2otcDlVaFBuYzR0M2xFXzFZSTdPRmttYmdlaE9SZ1pwM2ozNjNrbmFrbFR4RGk0T216MTU1QVDSAawBQVVfeXFMTkxLd1ZoMUF5VkktaWtpM2hfU3AwWEZtR1BJYTNPTWJhUTFFaFBaTWlYaTUweG93RVhJVTZKaDg2Ul9JbkNIVzVBZXMwV1U2SDNnWHdNcU80WnN5d2hqUHA4dzVPendobjRCTGpobjE1S3RPd2VWZmhTSHJkeGlUaFQ1NWJQbU5RbDFnWUlOMXptLTNuaTg5ODEwMVJuajVFNl9wQXA0OGxZcFpqbg?oc=5)
-
----
-
-### [Perspectivas ‘One Health’ sobre la hipertensión pulmonar: Uniendo medicina humana y veterinaria](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnU4ZzhqeFkyRjYtTzB5Z0dhSEk4cGhEbFQtNVdfaDhMT2VndGppZ0pUcDRVNWN1T25wUUpTY3Jna25tSHNVdUcybHpDaXdrMXI4SmhHU1JMNDZmcXhCbG9PRnpBRVRCUHoyZGJxbEV3dHhiZmRRS1FVbzZlUi1iaVRKbUhfWU9zNEExMHRnZXNIRXcxUEZKQXRQVGpmYTdhUF9XbDA3V1hWd2l0NmVyTlU0WEdvVmhXaDZsWXVkSWhSMkNPT1E?oc=5)
-
-2026-04-02 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnU4ZzhqeFkyRjYtTzB5Z0dhSEk4cGhEbFQtNVdfaDhMT2VndGppZ0pUcDRVNWN1T25wUUpTY3Jna25tSHNVdUcybHpDaXdrMXI4SmhHU1JMNDZmcXhCbG9PRnpBRVRCUHoyZGJxbEV3dHhiZmRRS1FVbzZlUi1iaVRKbUhfWU9zNEExMHRnZXNIRXcxUEZKQXRQVGpmYTdhUF9XbDA3V1hWd2l0NmVyTlU0WEdvVmhXaDZsWXVkSWhSMkNPT1E?oc=5)
 
 ---
 

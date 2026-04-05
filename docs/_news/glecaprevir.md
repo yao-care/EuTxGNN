@@ -44,11 +44,27 @@ permalink: /news/glecaprevir/
 
 ## 相關新聞（8 則）
 
+### [Medicines watchdog to investigate UK peptide clinics over health claims - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdl90bEVLS3VIV2Q3MV9jZU1sVFFjYm9Jb0YzNVFUaGY2UEVrMFVqMFFjYWFmcFBYR0xGSkptRTB1bmpkajhFMkdkdjdqVGZObmNHNy1jUkx3OWhjN2R6VlF5XzgtelE5S3pKZ3lqZFpEVE1ZM1VITHNmMm5uNnNWbkRoLXZxOUxZNGZhLVJoc0x2bkJtUHJlZXBham5ZMTdLWXV2eXVacko5QURNWDhIdjJyTk13ZjhVU21B?oc=5)
+
+2026-04-04 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdl90bEVLS3VIV2Q3MV9jZU1sVFFjYm9Jb0YzNVFUaGY2UEVrMFVqMFFjYWFmcFBYR0xGSkptRTB1bmpkajhFMkdkdjdqVGZObmNHNy1jUkx3OWhjN2R6VlF5XzgtelE5S3pKZ3lqZFpEVE1ZM1VITHNmMm5uNnNWbkRoLXZxOUxZNGZhLVJoc0x2bkJtUHJlZXBham5ZMTdLWXV2eXVacko5QURNWDhIdjJyTk13ZjhVU21B?oc=5)
+
+---
+
 ### [New Covid variant BA.3.2 detected across US, but experts urge vigilance over alarm - The Guardian](https://news.google.com/rss/articles/CBMieEFVX3lxTE5lYU8zMm5sX1F3S216cHJpdFdGQmhBTnlMSnNrRE5VYkVFZFY4d0ZUNUY2QzVzdm1IcHpxMVUzYzZGQVUxZDdEWFo5d09WT3pHc19PQktzVFVMWXdSc19rai1NRjM1eFdhaTFLRHgyMFlUVGJRb0hvcA?oc=5)
 
 2026-04-04 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMieEFVX3lxTE5lYU8zMm5sX1F3S216cHJpdFdGQmhBTnlMSnNrRE5VYkVFZFY4d0ZUNUY2QzVzdm1IcHpxMVUzYzZGQVUxZDdEWFo5d09WT3pHc19PQktzVFVMWXdSc19rai1NRjM1eFdhaTFLRHgyMFlUVGJRb0hvcA?oc=5)
+
+---
+
+### [On la croyait disparue : l’Île-de-France est la région la plus touchée par cette maladie contagieuse](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVFudG50YW9qelA3c3dTMFBLQnNac21kOFVaSjFsalliT0g1Zlp2WTlwaXoyWXdDRnVLZGxvNUJTSlZDb2JNOFBoXy0wTEViaEt6YnlQYVJjalBtVVZVb1VJeEstSG5SSXllZUpzSDdZblItQWViWk0teFg5dzlHaXVNNUlVQ2Exblg1UVhvYUFlQV9aRnJnNHNqQ0RvUDMzblpXZzJsT2RRbDJYaDlpTlByaUZFTmxVWVVmbm9vT3h2czIxSHZJNEdya3hHbmVlTXc?oc=5)
+
+2026-04-04 <span class="news-indication-tag">MS</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVFudG50YW9qelA3c3dTMFBLQnNac21kOFVaSjFsalliT0g1Zlp2WTlwaXoyWXdDRnVLZGxvNUJTSlZDb2JNOFBoXy0wTEViaEt6YnlQYVJjalBtVVZVb1VJeEstSG5SSXllZUpzSDdZblItQWViWk0teFg5dzlHaXVNNUlVQ2Exblg1UVhvYUFlQV9aRnJnNHNqQ0RvUDMzblpXZzJsT2RRbDJYaDlpTlByaUZFTmxVWVVmbm9vT3h2czIxSHZJNEdya3hHbmVlTXc?oc=5)
 
 ---
 
@@ -68,14 +84,6 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [‘Cicada’, la nueva variante BA 3.2 de COVID que se expande por Estados Unidos: estos son sus síntomas - Diario AS](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUEt5QmZaRWhraEw4Z3ZfSU9XRDVScWRoR1Zja3FvZmxER3BacENQdzNoZFZSdWE1TlpILWl5RTlMSHFPVC1fd1dob2RPeW9LVkZzaVEydkFvc1RobmotMlFpRXQwcFlJTmIzeTBWVHNyWnM0WTduaE9uei1DNHZDSlAwU3ctQ0VMOUVfVDZOM0tNckVnRkxybVoybEU0S0o4TW1CYjdSOVRtMUswOVlSdFVmOUx2ZzZUNjctT1B0OU9ZSTRyQzk4UTQxb3ozTzMzWWhfaFBFQWpMd9IB7gFBVV95cUxOV250LTBwRjdyMmVsY1RoZm40VWtWLThoWVBweDZ6bDREWnJNOXJ3LUNrVG9MRUZUQzBfT2VmNGQxSGxaN3J5S3l3aTRCS2tmU0VsNHFwc1N0OWtRVkh0Q09ObFQtNmwyWGtnVWdMMTR4ZlhFeG9RMmx3MEl6YXJIUkhjRHFIc1lDc1ZLN2ppSFlzRmh2M2ZpZ0Fpai1JeFJoQWFIWllKT2p3aTBwMFgyR2hGelpudXRuS1RPVDI0VVdvb3pmOEE1c2s2d184ODlJa3o0VWhKUnVtNURWSWVyNWlpbWphNWpoZE1GbXV3?oc=5)
-
-2026-04-03 <span class="news-indication-tag">MS</span>
-
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUEt5QmZaRWhraEw4Z3ZfSU9XRDVScWRoR1Zja3FvZmxER3BacENQdzNoZFZSdWE1TlpILWl5RTlMSHFPVC1fd1dob2RPeW9LVkZzaVEydkFvc1RobmotMlFpRXQwcFlJTmIzeTBWVHNyWnM0WTduaE9uei1DNHZDSlAwU3ctQ0VMOUVfVDZOM0tNckVnRkxybVoybEU0S0o4TW1CYjdSOVRtMUswOVlSdFVmOUx2ZzZUNjctT1B0OU9ZSTRyQzk4UTQxb3ozTzMzWWhfaFBFQWpMd9IB7gFBVV95cUxOV250LTBwRjdyMmVsY1RoZm40VWtWLThoWVBweDZ6bDREWnJNOXJ3LUNrVG9MRUZUQzBfT2VmNGQxSGxaN3J5S3l3aTRCS2tmU0VsNHFwc1N0OWtRVkh0Q09ObFQtNmwyWGtnVWdMMTR4ZlhFeG9RMmx3MEl6YXJIUkhjRHFIc1lDc1ZLN2ppSFlzRmh2M2ZpZ0Fpai1JeFJoQWFIWllKT2p3aTBwMFgyR2hGelpudXRuS1RPVDI0VVdvb3pmOEE1c2s2d184ODlJa3o0VWhKUnVtNURWSWVyNWlpbWphNWpoZE1GbXV3?oc=5)
-
----
-
 ### [Contrasto all’Epatite A: nei guai tre pescherie di San Giorgio a Cremano - Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWl2bXFzODVjQm5ORVJsSGlDMUtnVmFMTF9iZi15d2NHR19aZDdZNkxOWDFtcTUxUElVU2FzeWtzeFJHNVRKSGpCcFpSY0EtTTJmLVktYVBwVFRIUXZMUTlZbkt2eVJKeTJScVNIVHBaaUU3eG1kTHZyWTU5UkJDTkNTbUstOW9Ua2otcDlVaFBuYzR0M2xFXzFZSTdPRmttYmdlaE9SZ1pwM2ozNjNrbmFrbFR4RGk0T216MTU1QVDSAawBQVVfeXFMTkxLd1ZoMUF5VkktaWtpM2hfU3AwWEZtR1BJYTNPTWJhUTFFaFBaTWlYaTUweG93RVhJVTZKaDg2Ul9JbkNIVzVBZXMwV1U2SDNnWHdNcU80WnN5d2hqUHA4dzVPendobjRCTGpobjE1S3RPd2VWZmhTSHJkeGlUaFQ1NWJQbU5RbDFnWUlOMXptLTNuaTg5ODEwMVJuajVFNl9wQXA0OGxZcFpqbg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">epatite</span>
@@ -89,14 +97,6 @@ permalink: /news/glecaprevir/
 2026-04-03 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHpGOUxILWNhdTgtSTF4cGlkdzA4cGQ3SE5fRHE1YklLWGdKM1NfdEJkaERkLWVKbVhQZFY1THNzdERrQVBfQkQxX2g0M0dRaHZUVmMyV3RfZkJ6SzVlOExiTVhUUmNNNjFGa1UweWZyQTdQSl96eTh1MmhmbGhkWERyUE16UkVIQjRsYWRZOEhNakF0NE9WcGY3YU5HLWZWcWdTamdzdWU?oc=5)
-
----
-
-### [This 5-day diet helped Crohn’s patients feel better fast](https://news.google.com/rss/articles/CBMib0FVX3lxTE1aeFZLbGhQSFVYVjhfcVY1YlJydFdKTTNuV3Rqc2dBdlUwMVUzUzRuenhEaWdTNTRaQWFBVHllaU1pQ2JXNFhCQ2poblpSc0hGeU9qQUQ3REJ2RVdfVUhxNWNDOVZrY3lrQnlSaEVGUQ?oc=5)
-
-2026-04-03 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1aeFZLbGhQSFVYVjhfcVY1YlJydFdKTTNuV3Rqc2dBdlUwMVUzUzRuenhEaWdTNTRaQWFBVHllaU1pQ2JXNFhCQ2poblpSc0hGeU9qQUQ3REJ2RVdfVUhxNWNDOVZrY3lrQnlSaEVGUQ?oc=5)
 
 ---
 

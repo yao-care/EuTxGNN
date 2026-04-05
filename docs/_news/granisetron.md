@@ -14,7 +14,7 @@ permalink: /news/granisetron/
 ---
 
 <p class="key-answer" data-question="Granisetron 有什麼相關新聞？">
-<strong>Granisetron</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Granisetron</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/granisetron/
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
+
+### ['My life was turned upside down after devastating diagnosis in my 40s' - Belfast Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQVE3SDJOVzNaRGhmVkNFTS1QNkhJUDVDUUtHNi1tSGo4NUtRUlZOSmJRaEJDTU9GWWktb1dLR0syMXR4dkZ4cHBjbXZRb1ZwRVJsQy1nMW43aUFMdldJLXh2Rm4tbXlZRFkyNktFTkxPUzBQQVk3d2VfRkZJbEdwZ1BSMXBPVDRtWEQtanJVck3SAZYBQVVfeXFMT25maFlJcDV2MklkWkg0ZDZBRmZiT1pTT2x2MW0xazROY25QZWxyUDZ5Z2s5bFBQSExNZ3pkejRSaUlxMnpuY1JmZlZhZ2VuTUctOE1hWmFOSnFEbnlQUlR0NWwxamlqNExHd3ZXNjE3anZNck5Sc3hRaU9nd2VuQXYzMlFzNU9Sa1JFdkVJMDYtREtQOC13?oc=5)
+
+2026-04-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQVE3SDJOVzNaRGhmVkNFTS1QNkhJUDVDUUtHNi1tSGo4NUtRUlZOSmJRaEJDTU9GWWktb1dLR0syMXR4dkZ4cHBjbXZRb1ZwRVJsQy1nMW43aUFMdldJLXh2Rm4tbXlZRFkyNktFTkxPUzBQQVk3d2VfRkZJbEdwZ1BSMXBPVDRtWEQtanJVck3SAZYBQVVfeXFMT25maFlJcDV2MklkWkg0ZDZBRmZiT1pTT2x2MW0xazROY25QZWxyUDZ5Z2s5bFBQSExNZ3pkejRSaUlxMnpuY1JmZlZhZ2VuTUctOE1hWmFOSnFEbnlQUlR0NWwxamlqNExHd3ZXNjE3anZNck5Sc3hRaU9nd2VuQXYzMlFzNU9Sa1JFdkVJMDYtREtQOC13?oc=5)
+
+---
+
+### [Fasten im Check: Neue Studien fordern Umdenken - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRqZHkwazhYWnhMX29aZkNoRlJ5TlJldmI5N0NRMmg1a2tnSjRjenpTNW5JU05KZ01XMDFvUXczT1c3QTRhdVZXQUF1a0syQVdlVzlDWEgwaWVpd2JRVVo3TlZrSlNJQm94Wk1kekJNUU5HSTl1OFo4YXlZYVdSQkl0Q3Nib18wZ2c4cGx5bzZFRnNNY19zellRTmxoQkFwODRXSDNYdw?oc=5)
+
+2026-04-04 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRqZHkwazhYWnhMX29aZkNoRlJ5TlJldmI5N0NRMmg1a2tnSjRjenpTNW5JU05KZ01XMDFvUXczT1c3QTRhdVZXQUF1a0syQVdlVzlDWEgwaWVpd2JRVVo3TlZrSlNJQm94Wk1kekJNUU5HSTl1OFo4YXlZYVdSQkl0Q3Nib18wZ2c4cGx5bzZFRnNNY19zellRTmxoQkFwODRXSDNYdw?oc=5)
+
+---
+
+### [Family ‘overwhelmed with love and support’ after death of schoolgirl - Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXFad1NES1FGM2YybVpTQTRvbjFoc09KYU1CYXFCeGhQN3BURzU4N2R6U0FoU1Vab1JDTWZmTlVObjRpUzN3Wl81NnVLZGh5ZkJUUXRDalp4Z09tQkJPT0VpbUs2SEVORDBmTl9JTHRDMV80QWtObFpLQWpxUlI0V1A4SWNfVnE4SmE1QmZoSEpuc0syTFU4QVZ5M05BZjdOdmpWY1ZWdzBzczQ0UHRr?oc=5)
+
+2026-04-04 <span class="news-indication-tag">AF</span>
+
+來源：[Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXFad1NES1FGM2YybVpTQTRvbjFoc09KYU1CYXFCeGhQN3BURzU4N2R6U0FoU1Vab1JDTWZmTlVObjRpUzN3Wl81NnVLZGh5ZkJUUXRDalp4Z09tQkJPT0VpbUs2SEVORDBmTl9JTHRDMV80QWtObFpLQWpxUlI0V1A4SWNfVnE4SmE1QmZoSEpuc0syTFU4QVZ5M05BZjdOdmpWY1ZWdzBzczQ0UHRr?oc=5)
+
+---
 
 ### [Warum wir gähnen – Neurowissenschaftler entdecken unerwartete Hinweise im MRT](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
 
@@ -64,15 +88,7 @@ permalink: /news/granisetron/
 
 2026-04-04 <span class="news-indication-tag">AF</span>
 
-來源：[INFORMACION](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWtDdEVZS0RSMnM4MzdQNHNBdWl6REY2dlpicHNqRDlRSzNETUIxUFl5VElfcUZKdUF2bjhWRUNFcWEtLTdtQml3S212SWo2RktDNm12ZjZkVllrbHJ6OE1OMHBXV2FXZTRXT1NMQ3R2NVZNQW50XzBuaHNMRE55T3RIVjBJeGJMaE5Ea2h1ckc1MmpRQ1AwbXZwZ25BZkdZVHV0UNIBqgFBVV95cUxPMFA4alNBcFRiUGI2dEZVT0R3OE1jZTEzdlJFb3RZQUFwZW81X0ZkaVBxMjVTazlOM0hLXzlpd0UxOEhkZFJyQnQ5SFFWbUZFaVRqdG5iblJHWTFiR2paVGVzR2hVNVQ4MEVrNHlTRlBob2kzblRQemU2U19JTlNyMG90S1Q1R2ZJYmJuY1RvM3dUOVFuc2VMUDJ2RjNzem0yczBDeUtqOS0tdw?oc=5)
-
----
-
-### [Critical incident at hospital stood down](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yRHBGSnljTVAwQjh5dDZvV0lHY3lKbmtxWWNWT0JuWFIzNHIzdzkwc0N4NkZLZlh5RElyTlUzN0RWN1owWWFIbzhZU25vdm1vZWVuLVpLbi01MkVh?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yRHBGSnljTVAwQjh5dDZvV0lHY3lKbmtxWWNWT0JuWFIzNHIzdzkwc0N4NkZLZlh5RElyTlUzN0RWN1owWWFIbzhZU25vdm1vZWVuLVpLbi01MkVh?oc=5)
+來源：[informacion.es](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWtDdEVZS0RSMnM4MzdQNHNBdWl6REY2dlpicHNqRDlRSzNETUIxUFl5VElfcUZKdUF2bjhWRUNFcWEtLTdtQml3S212SWo2RktDNm12ZjZkVllrbHJ6OE1OMHBXV2FXZTRXT1NMQ3R2NVZNQW50XzBuaHNMRE55T3RIVjBJeGJMaE5Ea2h1ckc1MmpRQ1AwbXZwZ25BZkdZVHV0UNIBqgFBVV95cUxPMFA4alNBcFRiUGI2dEZVT0R3OE1jZTEzdlJFb3RZQUFwZW81X0ZkaVBxMjVTazlOM0hLXzlpd0UxOEhkZFJyQnQ5SFFWbUZFaVRqdG5iblJHWTFiR2paVGVzR2hVNVQ4MEVrNHlTRlBob2kzblRQemU2U19JTlNyMG90S1Q1R2ZJYmJuY1RvM3dUOVFuc2VMUDJ2RjNzem0yczBDeUtqOS0tdw?oc=5)
 
 ---
 
@@ -124,27 +140,27 @@ permalink: /news/granisetron/
 
 ---
 
-### [Un virus marino detectado en China logra infectar por primera vez a humanos y afecta a sus ojos - Gaceta de salud](https://news.google.com/rss/articles/CBMigAJBVV95cUxPVzlBem9qRGp1MTdXZEJZZVVxUGpBMGtmUXdhNmxnaWdseEVxWXRFMzBUSGtNTVQ1Q0hrNllQTGdKSkRtY0UweDQzTDlVT2JrQXNFT0ZIaXBxaUdtUWpWTXVlc0htNTE4U0ZTR3Q4c3FSdGptYzdoMmtNY2g1cGp2Rlk3N0ZCcFpRUUNXeGgyeVRWYTJUUnBza2RQS1FibFJQaGhnX3pZd3JacGdibHRCM2NJQlBmbmUxa3dfRVR5UFFEZmpIaWlvMk9fSVVjY1ZiNFFQZ25SM1gzd21PTTZhT21fX2Eya3ZtSWNobnBYdTIyOGVrSnBuZ1YwYl90SHZK?oc=5)
-
-2026-04-03 <span class="news-indication-tag">AF</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMigAJBVV95cUxPVzlBem9qRGp1MTdXZEJZZVVxUGpBMGtmUXdhNmxnaWdseEVxWXRFMzBUSGtNTVQ1Q0hrNllQTGdKSkRtY0UweDQzTDlVT2JrQXNFT0ZIaXBxaUdtUWpWTXVlc0htNTE4U0ZTR3Q4c3FSdGptYzdoMmtNY2g1cGp2Rlk3N0ZCcFpRUUNXeGgyeVRWYTJUUnBza2RQS1FibFJQaGhnX3pZd3JacGdibHRCM2NJQlBmbmUxa3dfRVR5UFFEZmpIaWlvMk9fSVVjY1ZiNFFQZ25SM1gzd21PTTZhT21fX2Eya3ZtSWNobnBYdTIyOGVrSnBuZ1YwYl90SHZK?oc=5)
-
----
-
 ### [7 días en 7 noticias: lo imperdible del 27 de marzo al 2 de abril de 2026](https://news.google.com/rss/articles/CBMisgFBVV95cUxQamI4dE9xV3NZNm9BS29ZYUhkYmVWVFNBeEdYaTJuTXJCQU9KdHBqcXF4VC1ENlp0WkxVcEpYcURVWVE4SGlXa0hiUk1CTHFwOEpkUGFOSUxYSkJoSS1KeHRKZDBiWkhYV09rV0VuN1Fub0NlZEpabGJtYU9xcWpNQ3hjTVNXdDlBeVdxMk02NUl5VU1hVFJTV2g2Nl9oTUZ6b0lRbEpWVmVfdS0tN1BVcFJB?oc=5)
 
 2026-04-03 <span class="news-indication-tag">fibrilación auricular</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxQamI4dE9xV3NZNm9BS29ZYUhkYmVWVFNBeEdYaTJuTXJCQU9KdHBqcXF4VC1ENlp0WkxVcEpYcURVWVE4SGlXa0hiUk1CTHFwOEpkUGFOSUxYSkJoSS1KeHRKZDBiWkhYV09rV0VuN1Fub0NlZEpabGJtYU9xcWpNQ3hjTVNXdDlBeVdxMk02NUl5VU1hVFJTV2g2Nl9oTUZ6b0lRbEpWVmVfdS0tN1BVcFJB?oc=5)
+來源：[espanol.medscape.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQamI4dE9xV3NZNm9BS29ZYUhkYmVWVFNBeEdYaTJuTXJCQU9KdHBqcXF4VC1ENlp0WkxVcEpYcURVWVE4SGlXa0hiUk1CTHFwOEpkUGFOSUxYSkJoSS1KeHRKZDBiWkhYV09rV0VuN1Fub0NlZEpabGJtYU9xcWpNQ3hjTVNXdDlBeVdxMk02NUl5VU1hVFJTV2g2Nl9oTUZ6b0lRbEpWVmVfdS0tN1BVcFJB?oc=5)
 
 ---
 
-### [Which energy drink is WORST for your health? From Monster to Red Bull, experts reveal what's lurking in your can - and the least bad of the bunch - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUpUcDN0SDZPR0c4NFRWTTIxNUg0Ti1rd0Q2cjV1ZkpEQjVobXlPckF6a3A5aVY1WlZqcGVaU1hicG04Zy1VcGZ0eU5uRFRKWU51SFdkb2FwQ3BpWkRYdGtTS1lLOWkzaVMxWm5MMHVnQUdLU3JSUHZuRnlQZHk2SXdBZmgtZ3hLVW130gGQAUFVX3lxTE5vdFV0RXRheUpRZktRekVRUlp2UlREUXN0WEZ4UVBxU3pudHh1TnlFUkFyQ2lTbWZxelZJWEdralYtR1JIZkQ0RmxPWG1kSGlCSlBNM0lTOWdHSWpfcUw3T3FkTGlRY0k5dDVNY2ZubTZGek1hYTZwR2NXSXg5dW40LVlGQ09TWVFaUFhXdU5Mdg?oc=5)
+### [Un virus marino salta por primera vez a humanos y provoca una extraña enfermedad ocular en China - La Razón](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRTdDNk5IY25KTml5cl85bDBhYUN1OXhzbEhLOHlhaFZfdWhEdVV6dlY2UXNwaUM4ZWVEUWFvUnNMb1ltSVNNVE4wWTFucWN1SXVZdWRCUUNPS0xGSGJ5U3EwcFJQMFhfV0FqeWtjUjd2ZGN3Q2VVMHFPZHZLUkVOVVgxSnJCbW43T3h6ZXJ0SDZtVFo1dXlDNUpNMG8wT1NVYURVaHVVaUZnWEpKU0NCZzJvQ1lzYTVyOWg2U2FhZmU2RGZpbkxYZm1ublcyN1lic3lCSU93TTdGaDZzUlR5LTZkSmNaMmvSAfsBQVVfeXFMTkNWR0NWdVVGTmJCeHdiZS00LTJTTnZTTFRSSExzQmpaTEJrR2QzczhBOHVoR3dzNUthU3AtdV9TOFMxLWhuWkI1WURabUd2Qm96bUVxQXNTZVk1NExSbmNKSnh4eDVqdUJvSC1JNktzcXhEbll4RnRkckkyUVRXVlp0d3JXR2JWRWJoZ0dETF9ZT0JBbjYyZV9LampXSUk5cXkxdVotdVpoWkNkMkJ2MGxxeGMxeDJXQVRSaFJOVlFSLThsMWNlRG5XQkhlRmY1a2xRMF94ak04aG9ZTHlpVV9vUFQ5eXJaQmVsdmdZcmRBT1RGVXl6MTVzSGc?oc=5)
 
 2026-04-03 <span class="news-indication-tag">AF</span>
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUpUcDN0SDZPR0c4NFRWTTIxNUg0Ti1rd0Q2cjV1ZkpEQjVobXlPckF6a3A5aVY1WlZqcGVaU1hicG04Zy1VcGZ0eU5uRFRKWU51SFdkb2FwQ3BpWkRYdGtTS1lLOWkzaVMxWm5MMHVnQUdLU3JSUHZuRnlQZHk2SXdBZmgtZ3hLVW130gGQAUFVX3lxTE5vdFV0RXRheUpRZktRekVRUlp2UlREUXN0WEZ4UVBxU3pudHh1TnlFUkFyQ2lTbWZxelZJWEdralYtR1JIZkQ0RmxPWG1kSGlCSlBNM0lTOWdHSWpfcUw3T3FkTGlRY0k5dDVNY2ZubTZGek1hYTZwR2NXSXg5dW40LVlGQ09TWVFaUFhXdU5Mdg?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRTdDNk5IY25KTml5cl85bDBhYUN1OXhzbEhLOHlhaFZfdWhEdVV6dlY2UXNwaUM4ZWVEUWFvUnNMb1ltSVNNVE4wWTFucWN1SXVZdWRCUUNPS0xGSGJ5U3EwcFJQMFhfV0FqeWtjUjd2ZGN3Q2VVMHFPZHZLUkVOVVgxSnJCbW43T3h6ZXJ0SDZtVFo1dXlDNUpNMG8wT1NVYURVaHVVaUZnWEpKU0NCZzJvQ1lzYTVyOWg2U2FhZmU2RGZpbkxYZm1ublcyN1lic3lCSU93TTdGaDZzUlR5LTZkSmNaMmvSAfsBQVVfeXFMTkNWR0NWdVVGTmJCeHdiZS00LTJTTnZTTFRSSExzQmpaTEJrR2QzczhBOHVoR3dzNUthU3AtdV9TOFMxLWhuWkI1WURabUd2Qm96bUVxQXNTZVk1NExSbmNKSnh4eDVqdUJvSC1JNktzcXhEbll4RnRkckkyUVRXVlp0d3JXR2JWRWJoZ0dETF9ZT0JBbjYyZV9LampXSUk5cXkxdVotdVpoWkNkMkJ2MGxxeGMxeDJXQVRSaFJOVlFSLThsMWNlRG5XQkhlRmY1a2xRMF94ak04aG9ZTHlpVV9vUFQ5eXJaQmVsdmdZcmRBT1RGVXl6MTVzSGc?oc=5)
+
+---
+
+### [Which energy drink is WORST for your health? From Monster to Red Bull, experts reveal what's lurking in your can - and the least bad of the bunch](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUpUcDN0SDZPR0c4NFRWTTIxNUg0Ti1rd0Q2cjV1ZkpEQjVobXlPckF6a3A5aVY1WlZqcGVaU1hicG04Zy1VcGZ0eU5uRFRKWU51SFdkb2FwQ3BpWkRYdGtTS1lLOWkzaVMxWm5MMHVnQUdLU3JSUHZuRnlQZHk2SXdBZmgtZ3hLVW130gGQAUFVX3lxTE5vdFV0RXRheUpRZktRekVRUlp2UlREUXN0WEZ4UVBxU3pudHh1TnlFUkFyQ2lTbWZxelZJWEdralYtR1JIZkQ0RmxPWG1kSGlCSlBNM0lTOWdHSWpfcUw3T3FkTGlRY0k5dDVNY2ZubTZGek1hYTZwR2NXSXg5dW40LVlGQ09TWVFaUFhXdU5Mdg?oc=5)
+
+2026-04-03 <span class="news-indication-tag">AF</span>
+
+來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUpUcDN0SDZPR0c4NFRWTTIxNUg0Ti1rd0Q2cjV1ZkpEQjVobXlPckF6a3A5aVY1WlZqcGVaU1hicG04Zy1VcGZ0eU5uRFRKWU51SFdkb2FwQ3BpWkRYdGtTS1lLOWkzaVMxWm5MMHVnQUdLU3JSUHZuRnlQZHk2SXdBZmgtZ3hLVW130gGQAUFVX3lxTE5vdFV0RXRheUpRZktRekVRUlp2UlREUXN0WEZ4UVBxU3pudHh1TnlFUkFyQ2lTbWZxelZJWEdralYtR1JIZkQ0RmxPWG1kSGlCSlBNM0lTOWdHSWpfcUw3T3FkTGlRY0k5dDVNY2ZubTZGek1hYTZwR2NXSXg5dW40LVlGQ09TWVFaUFhXdU5Mdg?oc=5)
 
 ---
 

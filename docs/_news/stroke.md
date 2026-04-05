@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AVC（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。7 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# AVC（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>7 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Ma vie après un AVC : « Comment je me sauve en cas d’incendie ? En courant ? » - Le Monde.fr](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1ZpOGxJbjhKMVlsWHh3akg3UWR3ZUxHNVRzNTNXeFhENVRXVjNNM0lDTUQzaWhtbHJTanQ4cldXTU0yWjdDTHppMTFlbV9BZ1RpbjJ1OXdhNEpHWURSeDIwQXNULV93cW1LMkF5cy0zMlFPR19NT1RQOTh3UmRhSF9FY2ZPeTUzaGFjOGZ2LXkxMnJrNnRfZWlVVnBXVWF5YmRRX2dTYjQ1SjlXeFNlMlhrNUFyaE1sU29zZ29PbzBwZngwUEF5THRTWUxTcURqanFwMnFkVmU?oc=5)
-
-2026-04-04
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1ZpOGxJbjhKMVlsWHh3akg3UWR3ZUxHNVRzNTNXeFhENVRXVjNNM0lDTUQzaWhtbHJTanQ4cldXTU0yWjdDTHppMTFlbV9BZ1RpbjJ1OXdhNEpHWURSeDIwQXNULV93cW1LMkF5cy0zMlFPR19NT1RQOTh3UmRhSF9FY2ZPeTUzaGFjOGZ2LXkxMnJrNnRfZWlVVnBXVWF5YmRRX2dTYjQ1SjlXeFNlMlhrNUFyaE1sU29zZ29PbzBwZngwUEF5THRTWUxTcURqanFwMnFkVmU?oc=5)
-
----
-
-### [Free NHS Wegovy jabs made available to 1.2million if you have four health risks - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
+### [La dieta del aguacate y mango, la mezcla que puede evitar un infarto o un ictus - El Nacional](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUtIdGNTN1ZBZVdqZTZWanpOcVgybGFRdUxjcElwZ3g1ZTh5N0pHM3lrSTRGY3NPd0RNOGg5cm1kWDAwRmFwSnhLTGdtM3RvRHE5UmREVUlKdHNQRURyNkpnUmlBY1lXaUhrVjhvZ3d3ZDR1aXhQTW14WWdldHo2bVpIZzY0Tkh5amVSaXBaaXpVQzZtekZ0SXhUel81VURFWjZuOW82NnpKeS11a0ViQ1IwNXk?oc=5)
 
 2026-04-04
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
+來源：[El Nacional](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUtIdGNTN1ZBZVdqZTZWanpOcVgybGFRdUxjcElwZ3g1ZTh5N0pHM3lrSTRGY3NPd0RNOGg5cm1kWDAwRmFwSnhLTGdtM3RvRHE5UmREVUlKdHNQRURyNkpnUmlBY1lXaUhrVjhvZ3d3ZDR1aXhQTW14WWdldHo2bVpIZzY0Tkh5amVSaXBaaXpVQzZtekZ0SXhUel81VURFWjZuOW82NnpKeS11a0ViQ1IwNXk?oc=5)
 
 ---
 
@@ -73,6 +65,14 @@ permalink: /news/stroke/
 
 ---
 
+### [Le 9 regole alimentari che riducono il rischio cardiovascolare. Cosa mangiare per restare sani - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3BiejNtWTkySWxiWTRid0RGLVdrYzhjVnpfY01pNkpPbDVlSVZuWVNKbWdwMWxEVWtfdXUtalgyUnFTQWVfWVE5NUhEOU5GRDZCWElkM0U2NkEzeExKRHRmd012MTNEc0wzRDJCc043WFc3MTJ6LU45dnRpN3lKamlpczlBXzBVV1hQWmtjYnhwOWZaaUExZV92VVQ2OWNOaVE?oc=5)
+
+2026-04-03
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3BiejNtWTkySWxiWTRid0RGLVdrYzhjVnpfY01pNkpPbDVlSVZuWVNKbWdwMWxEVWtfdXUtalgyUnFTQWVfWVE5NUhEOU5GRDZCWElkM0U2NkEzeExKRHRmd012MTNEc0wzRDJCc043WFc3MTJ6LU45dnRpN3lKamlpczlBXzBVV1hQWmtjYnhwOWZaaUExZV92VVQ2OWNOaVE?oc=5)
+
+---
+
 ### [Il vaccino antinfluenzale protegge da infarto e ictus - Corriere del Ticino](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWpqSGZrMF9OUEgwMlIya1ljbHlGa0xES1cycG9IWmRyeVA0cWp4Nk9pcVRnTGFwZWN2aEZfcnhMcGdBR0NVSk1OdkJkRUJCNUNvRXNDbHpiQkttMVZCTXBpeGcwTlJjNklpZHNUZ3Q4TWhqbzFuajJuNVZRUjNwOGNMWnZaeE9zV2dLaw?oc=5)
 
 2026-04-03
@@ -86,14 +86,6 @@ permalink: /news/stroke/
 2026-04-03
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2ZLbWQ3dXJlTTRWUVhTdmd1SDlhQk95RXpzSko3d2xPNzZvRlhrcEpKUkIwUDFQdnhBbWZRWE96elNwUnQ1ZC1nZkVGVHpPdjZMTkdMOGpiZXFuVklsLXhBcVExSUE4SzU1bnpETnRhY3VsWFY2WU5nOG1nMHk0WnphTk5nNExueDZReDRBSE12bkV1LXp6V2Q5R1Fzel9qMHlMeGY4QXoyYUIzdWhWVmxxcGtaODl0MDJyWS1fc0xqZw?oc=5)
-
----
-
-### [Infarto e ictus, i nove comandamenti della prevenzione a tavola - la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
-
-2026-04-03
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
 
 ---
 

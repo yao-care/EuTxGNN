@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Un estudio demuestra que la obesidad no siempre está ligada a comer más, sino a comer peor](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
 
 2026-04-04
 
 來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
-
----
-
-### [Free NHS Wegovy jabs made available to 1.2million if you have four health risks - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
-
-2026-04-04
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
 
 ---
 
@@ -70,11 +62,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro? - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
 
 2026-04-03
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+來源：[repubblica.it](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
 
 ---
 

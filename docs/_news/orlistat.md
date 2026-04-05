@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [La dieta del aguacate y mango, la mezcla que puede evitar un infarto o un ictus - El Nacional](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUtIdGNTN1ZBZVdqZTZWanpOcVgybGFRdUxjcElwZ3g1ZTh5N0pHM3lrSTRGY3NPd0RNOGg5cm1kWDAwRmFwSnhLTGdtM3RvRHE5UmREVUlKdHNQRURyNkpnUmlBY1lXaUhrVjhvZ3d3ZDR1aXhQTW14WWdldHo2bVpIZzY0Tkh5amVSaXBaaXpVQzZtekZ0SXhUel81VURFWjZuOW82NnpKeS11a0ViQ1IwNXk?oc=5)
+
+2026-04-04 <span class="news-indication-tag">ictus</span>
+
+來源：[El Nacional](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUtIdGNTN1ZBZVdqZTZWanpOcVgybGFRdUxjcElwZ3g1ZTh5N0pHM3lrSTRGY3NPd0RNOGg5cm1kWDAwRmFwSnhLTGdtM3RvRHE5UmREVUlKdHNQRURyNkpnUmlBY1lXaUhrVjhvZ3d3ZDR1aXhQTW14WWdldHo2bVpIZzY0Tkh5amVSaXBaaXpVQzZtekZ0SXhUel81VURFWjZuOW82NnpKeS11a0ViQ1IwNXk?oc=5)
+
+---
 
 ### [Un estudio demuestra que la obesidad no siempre está ligada a comer más, sino a comer peor](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
 
 2026-04-04 <span class="news-indication-tag">obesidad</span>
 
 來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
-
----
-
-### [Ma vie après un AVC : « Comment je me sauve en cas d’incendie ? En courant ? » - Le Monde.fr](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1ZpOGxJbjhKMVlsWHh3akg3UWR3ZUxHNVRzNTNXeFhENVRXVjNNM0lDTUQzaWhtbHJTanQ4cldXTU0yWjdDTHppMTFlbV9BZ1RpbjJ1OXdhNEpHWURSeDIwQXNULV93cW1LMkF5cy0zMlFPR19NT1RQOTh3UmRhSF9FY2ZPeTUzaGFjOGZ2LXkxMnJrNnRfZWlVVnBXVWF5YmRRX2dTYjQ1SjlXeFNlMlhrNUFyaE1sU29zZ29PbzBwZngwUEF5THRTWUxTcURqanFwMnFkVmU?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1ZpOGxJbjhKMVlsWHh3akg3UWR3ZUxHNVRzNTNXeFhENVRXVjNNM0lDTUQzaWhtbHJTanQ4cldXTU0yWjdDTHppMTFlbV9BZ1RpbjJ1OXdhNEpHWURSeDIwQXNULV93cW1LMkF5cy0zMlFPR19NT1RQOTh3UmRhSF9FY2ZPeTUzaGFjOGZ2LXkxMnJrNnRfZWlVVnBXVWF5YmRRX2dTYjQ1SjlXeFNlMlhrNUFyaE1sU29zZ29PbzBwZngwUEF5THRTWUxTcURqanFwMnFkVmU?oc=5)
-
----
-
-### [Free NHS Wegovy jabs made available to 1.2million if you have four health risks - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
-
-2026-04-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjF0Qk0wUXV5YkI2OTVNQnczY2ZEdDlTWXZUVHJwYmFsWi1iUnNNcGI2dUU5YmMzTEN5eGdnRk5HSnB0bVhrNWlwdEVuZjc2dmxpTl9wMXZLdFNhdkVmUTE5aTdBZ2UxTlFWcF92NDZtR0U4Y1BLY0hTU1BDS1VSRTF0MznSAYoBQVVfeXFMTzRWc3dYQm41Mmxlby1rMU5RYm1MYVNxdnJ3ZDctM3pJUXNjMENHOXVEMndoOEcwd1c0X3JNRThZMmtQYkl2S0RiMDR3clFsRWVJQzY1V2pFZWMxaC1nUk9majA1WnRub2FxbVlaNkdLSWVmM2NXZFJvTEpqaTNVZVM0VUVLajZfTUNB?oc=5)
 
 ---
 
@@ -92,11 +84,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro? - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
 
-2026-04-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+2026-04-03 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+來源：[repubblica.it](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
 
 ---
 
@@ -105,6 +97,14 @@ permalink: /news/orlistat/
 2026-04-03 <span class="news-indication-tag">ictus</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVppM20zd3ZETExiS3dpMElxa0U1MUMyamtmWUV6SmdVUUlsR0IteVlaMDQxRjJZdEtBT3BLMW9Bajk5SVFjd0U1WlpPRjRuU3pYV2RiOUdHNEkyTXZ1cmhHZmZ2S0tOV3dOLURJXzlWT011azJsUllfcjdIbFBpY01DMWVKQWIwOGpJemRTZzhZeE1NaFZaOUlLY194THI3Qm14UTlXYjBCeFMxTFJHc1g1U0FsSENyYnhWWWFaMHVjaUNNV1Z0WlhlUXlLQnFkOEQ5SnQzSnZmeTMwU1lhZDQxZDRsQQ?oc=5)
+
+---
+
+### [Le 9 regole alimentari che riducono il rischio cardiovascolare. Cosa mangiare per restare sani - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3BiejNtWTkySWxiWTRid0RGLVdrYzhjVnpfY01pNkpPbDVlSVZuWVNKbWdwMWxEVWtfdXUtalgyUnFTQWVfWVE5NUhEOU5GRDZCWElkM0U2NkEzeExKRHRmd012MTNEc0wzRDJCc043WFc3MTJ6LU45dnRpN3lKamlpczlBXzBVV1hQWmtjYnhwOWZaaUExZV92VVQ2OWNOaVE?oc=5)
+
+2026-04-03 <span class="news-indication-tag">ictus</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3BiejNtWTkySWxiWTRid0RGLVdrYzhjVnpfY01pNkpPbDVlSVZuWVNKbWdwMWxEVWtfdXUtalgyUnFTQWVfWVE5NUhEOU5GRDZCWElkM0U2NkEzeExKRHRmd012MTNEc0wzRDJCc043WFc3MTJ6LU45dnRpN3lKamlpczlBXzBVV1hQWmtjYnhwOWZaaUExZV92VVQ2OWNOaVE?oc=5)
 
 ---
 
@@ -121,14 +121,6 @@ permalink: /news/orlistat/
 2026-04-03 <span class="news-indication-tag">stroke</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2ZLbWQ3dXJlTTRWUVhTdmd1SDlhQk95RXpzSko3d2xPNzZvRlhrcEpKUkIwUDFQdnhBbWZRWE96elNwUnQ1ZC1nZkVGVHpPdjZMTkdMOGpiZXFuVklsLXhBcVExSUE4SzU1bnpETnRhY3VsWFY2WU5nOG1nMHk0WnphTk5nNExueDZReDRBSE12bkV1LXp6V2Q5R1Fzel9qMHlMeGY4QXoyYUIzdWhWVmxxcGtaODl0MDJyWS1fc0xqZw?oc=5)
-
----
-
-### [Infarto e ictus, i nove comandamenti della prevenzione a tavola - la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
-
-2026-04-03 <span class="news-indication-tag">ictus</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGFWak1SRVc4YjQ0ei1WZnA0ZUdGOEpuMHpLQVBiOGE5UkpDUUlUVXRPUGNyNTg2TTFSYnlpYml1RXdXMl9zU3h0V0tHVHhfZFVCMWhrWnRZdllWYTF2cDZRVUhjMFdiZUJpcDk4X1RGQmJRMGpnVkJNNVpWQkFVMWl2SXlYR01tUFpTWXRaZnQxODhqY2p2dHdPZ2YwSkhIaFp4OERzVWZuOWthRnhoc0lxTGtJdVNTVmY3NTFaMFp2RnYtbUJ4ZlU3N1V2ZTRMZWY2OGpnR0E0VUp2Vi1v0gHkAUFVX3lxTFB0NG1qaTZ1SDFPMTRLSGpQV3hxWXJ1X2hVaTM4czg5bGZlTWtHelp2c094dzZ5UkpFd2Z4b1lOSUZIb2h1UjlkcWZwUG56UG1NZTVBTHlkc1FFUGtLVl9jSkhLX3lwYXRBUlhkSVkwWXpYbG0tSk1FR0ZrZjdRYUlKclJ6eGl6ZFpVQkJjRDJQMXhoSFJmUjBha3I5eXVWalpMQlNxV25RYzM1Q1RJQXVFX2FHZzZIbkp1cENYRFc1UHdHVHNOdFdWcUlFY2xLN2loQ2xHbVZqNWkxRWRHREJiY29lVQ?oc=5)
 
 ---
 
