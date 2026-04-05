@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abacavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/abacavir/
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Contrasto all’Epatite A: nei guai tre pescherie di San Giorgio a Cremano - Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWl2bXFzODVjQm5ORVJsSGlDMUtnVmFMTF9iZi15d2NHR19aZDdZNkxOWDFtcTUxUElVU2FzeWtzeFJHNVRKSGpCcFpSY0EtTTJmLVktYVBwVFRIUXZMUTlZbkt2eVJKeTJScVNIVHBaaUU3eG1kTHZyWTU5UkJDTkNTbUstOW9Ua2otcDlVaFBuYzR0M2xFXzFZSTdPRmttYmdlaE9SZ1pwM2ozNjNrbmFrbFR4RGk0T216MTU1QVDSAawBQVVfeXFMTkxLd1ZoMUF5VkktaWtpM2hfU3AwWEZtR1BJYTNPTWJhUTFFaFBaTWlYaTUweG93RVhJVTZKaDg2Ul9JbkNIVzVBZXMwV1U2SDNnWHdNcU80WnN5d2hqUHA4dzVPendobjRCTGpobjE1S3RPd2VWZmhTSHJkeGlUaFQ1NWJQbU5RbDFnWUlOMXptLTNuaTg5ODEwMVJuajVFNl9wQXA0OGxZcFpqbg?oc=5)
-
-2026-04-03 <span class="news-indication-tag">epatite</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWl2bXFzODVjQm5ORVJsSGlDMUtnVmFMTF9iZi15d2NHR19aZDdZNkxOWDFtcTUxUElVU2FzeWtzeFJHNVRKSGpCcFpSY0EtTTJmLVktYVBwVFRIUXZMUTlZbkt2eVJKeTJScVNIVHBaaUU3eG1kTHZyWTU5UkJDTkNTbUstOW9Ua2otcDlVaFBuYzR0M2xFXzFZSTdPRmttYmdlaE9SZ1pwM2ozNjNrbmFrbFR4RGk0T216MTU1QVDSAawBQVVfeXFMTkxLd1ZoMUF5VkktaWtpM2hfU3AwWEZtR1BJYTNPTWJhUTFFaFBaTWlYaTUweG93RVhJVTZKaDg2Ul9JbkNIVzVBZXMwV1U2SDNnWHdNcU80WnN5d2hqUHA4dzVPendobjRCTGpobjE1S3RPd2VWZmhTSHJkeGlUaFQ1NWJQbU5RbDFnWUlOMXptLTNuaTg5ODEwMVJuajVFNl9wQXA0OGxZcFpqbg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

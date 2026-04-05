@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [La guía de accidentes cerebrovasculares de EE.UU. recoge por primera vez el ictus pediátrico](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWRIVExCN2o5Umk4c3lFS0VZbDZwNk5TUUg2V1ZFYV9GYmdXVWR1OXRJWmpZeVhOSWRsUzVwcUw2clJPanVkQWl4ajMzT3RGT19ZNTQ5VWp2aXhLcHpuVnVIMlloV3VfNFdBSk9KLUo0X1hRUXpFVHZ1bFBUY1pEcl9XMlliOFNYaWdwZ0szRkFNemlnTWllQUp6T3pwLW14ZWxoQnhDNGJzN1VzN25qdXJDTVVyV2hNVHdHUHZ0aElpYjFUTWlCSnpucmY3V2RNcExHLWhn?oc=5)
 
@@ -52,19 +52,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Un nuevo método para controlar la hipertensión logra evitar ictus y muertes: así funciona el sistema que ya salva vidas](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
+### [Un nuevo método para controlar la hipertensión reduce ictus y muertes en miles de pacientes - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
 
 2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
-
----
-
-### [Le 9 regole alimentari che riducono il rischio cardiovascolare. Cosa mangiare per restare sani - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3BiejNtWTkySWxiWTRid0RGLVdrYzhjVnpfY01pNkpPbDVlSVZuWVNKbWdwMWxEVWtfdXUtalgyUnFTQWVfWVE5NUhEOU5GRDZCWElkM0U2NkEzeExKRHRmd012MTNEc0wzRDJCc043WFc3MTJ6LU45dnRpN3lKamlpczlBXzBVV1hQWmtjYnhwOWZaaUExZV92VVQ2OWNOaVE?oc=5)
-
-2026-04-03 <span class="news-indication-tag">ictus</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3BiejNtWTkySWxiWTRid0RGLVdrYzhjVnpfY01pNkpPbDVlSVZuWVNKbWdwMWxEVWtfdXUtalgyUnFTQWVfWVE5NUhEOU5GRDZCWElkM0U2NkEzeExKRHRmd012MTNEc0wzRDJCc043WFc3MTJ6LU45dnRpN3lKamlpczlBXzBVV1hQWmtjYnhwOWZaaUExZV92VVQ2OWNOaVE?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
 
 ---
 
