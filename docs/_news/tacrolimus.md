@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [How to cure psoriasis WITHOUT drugs: ETHAN ENNELS reveals the answers](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
+### [How to cure psoriasis WITHOUT drugs: ETHAN ENNALS reveals the answers - Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
 
 2026-04-05 <span class="news-indication-tag">psoriasis</span>
 
-來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/tacrolimus/
 2026-04-04 <span class="news-indication-tag">artritis</span>
 
 來源：[Canal Sur](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
-
----
-
-### [Descubren que un fármaco aprobado para otra enfermedad reduce la inflamación asociada a la psoriasis - El Debate](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVng0YTNYSlJ3LTlQYW9oWUFCSTdjb280YTlTdGJwT1pJVmFKbVF1OVFTWlJUSENxMkw0ckdpY19LeWtqQzhral9YMmlCRlEtc1p1ZlJBNTVkOTR3anJNTGRkZ3FfUVBybExEeXJ5TDhWdFBrZWdSTXZ0OUpkMlFZNWlMc3pxLUJzbVBIR2F4TThjUjlMZWttVC1YMENnVEoyT2JfSURrTENYdG1CWjhHRkllcU1vcjdIOHpfOUhIZi1xYnk4TEhZWnExcG4xMl9L0gHWAUFVX3lxTE9OTTNxdDhxUmtkdF84Rmd6RHpRalRFWWVjbzRMcjF0T0hvQUJNTEE2Y0xIb0JabjJNU3pzOTQ3RWFjajFEc3NiOGU1VWhsRjBncXd2UFctWVJ5aWJGcHMtTzd2Wi1wWXVHRUd3VEhEcnRoUWF4Wkl6cWUyeHFISVpmXzJ1dVBBVHdua3ZDTVpXY21pTS1iNk95cXI0SlVMRTI5eENwRVNUMmdVRGpYVDNEVXo2UFpKcDhZTE9MbkUwSjdJbU8wODBPQ3BoY2xaNnVvay0tVlE?oc=5)
-
-2026-04-03 <span class="news-indication-tag">psoriasis</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVng0YTNYSlJ3LTlQYW9oWUFCSTdjb280YTlTdGJwT1pJVmFKbVF1OVFTWlJUSENxMkw0ckdpY19LeWtqQzhral9YMmlCRlEtc1p1ZlJBNTVkOTR3anJNTGRkZ3FfUVBybExEeXJ5TDhWdFBrZWdSTXZ0OUpkMlFZNWlMc3pxLUJzbVBIR2F4TThjUjlMZWttVC1YMENnVEoyT2JfSURrTENYdG1CWjhHRkllcU1vcjdIOHpfOUhIZi1xYnk4TEhZWnExcG4xMl9L0gHWAUFVX3lxTE9OTTNxdDhxUmtkdF84Rmd6RHpRalRFWWVjbzRMcjF0T0hvQUJNTEE2Y0xIb0JabjJNU3pzOTQ3RWFjajFEc3NiOGU1VWhsRjBncXd2UFctWVJ5aWJGcHMtTzd2Wi1wWXVHRUd3VEhEcnRoUWF4Wkl6cWUyeHFISVpmXzJ1dVBBVHdua3ZDTVpXY21pTS1iNk95cXI0SlVMRTI5eENwRVNUMmdVRGpYVDNEVXo2UFpKcDhZTE9MbkUwSjdJbU8wODBPQ3BoY2xaNnVvay0tVlE?oc=5)
 
 ---
 

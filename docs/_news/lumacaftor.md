@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="Lumacaftor 有什麼相關新聞？">
-<strong>Lumacaftor</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lumacaftor</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/lumacaftor/
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Una psicóloga señala que la autoexigencia o el perfeccionismo pueden influir en la migraña - FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTNtLWR6SV91VDV1RTZ0Qk9CWFVNYld3a0NuRjVja0NIWlphNGhUWnlYSGR4Z0FWcTV3MU0yTWNIeHZZaENaYl9vNEdVNHV0VlRERVhxbzFYS0I4UDlwMzJfVFBWLW9OOEY3aFQxajNqaVM5NlZZRmp1OEJWNXl3WlRiRmZkVkt0TzRsc3QwNTdFTHczMFAzZnVNelRQVFFFWkw0RHVvTEp6QzJsdllFTjgzdDdkM2RmRlhqOA?oc=5)
-
-2026-04-05 <span class="news-indication-tag">migraña</span>
-
-來源：[FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTNtLWR6SV91VDV1RTZ0Qk9CWFVNYld3a0NuRjVja0NIWlphNGhUWnlYSGR4Z0FWcTV3MU0yTWNIeHZZaENaYl9vNEdVNHV0VlRERVhxbzFYS0I4UDlwMzJfVFBWLW9OOEY3aFQxajNqaVM5NlZZRmp1OEJWNXl3WlRiRmZkVkt0TzRsc3QwNTdFTHczMFAzZnVNelRQVFFFWkw0RHVvTEp6QzJsdllFTjgzdDdkM2RmRlhqOA?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Aceite de oliva virgen extra contra la artritis - Canal Sur](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
 
@@ -64,7 +56,7 @@ permalink: /news/lumacaftor/
 
 2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[infosalus.com](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
 
 ---
 

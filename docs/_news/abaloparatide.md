@@ -52,14 +52,6 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Una psicóloga señala que la autoexigencia o el perfeccionismo pueden influir en la migraña - FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTNtLWR6SV91VDV1RTZ0Qk9CWFVNYld3a0NuRjVja0NIWlphNGhUWnlYSGR4Z0FWcTV3MU0yTWNIeHZZaENaYl9vNEdVNHV0VlRERVhxbzFYS0I4UDlwMzJfVFBWLW9OOEY3aFQxajNqaVM5NlZZRmp1OEJWNXl3WlRiRmZkVkt0TzRsc3QwNTdFTHczMFAzZnVNelRQVFFFWkw0RHVvTEp6QzJsdllFTjgzdDdkM2RmRlhqOA?oc=5)
-
-2026-04-05 <span class="news-indication-tag">migraña</span>
-
-來源：[FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTNtLWR6SV91VDV1RTZ0Qk9CWFVNYld3a0NuRjVja0NIWlphNGhUWnlYSGR4Z0FWcTV3MU0yTWNIeHZZaENaYl9vNEdVNHV0VlRERVhxbzFYS0I4UDlwMzJfVFBWLW9OOEY3aFQxajNqaVM5NlZZRmp1OEJWNXl3WlRiRmZkVkt0TzRsc3QwNTdFTHczMFAzZnVNelRQVFFFWkw0RHVvTEp6QzJsdllFTjgzdDdkM2RmRlhqOA?oc=5)
-
----
-
 ### [Semaglutide Shows Surprising Mental Health Benefits in Massive 100,000-Person Study](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5za0t2NmpjVEVUODFVZUhvelZKWEh1M0xFMVJ2ZEg1emR4X1JEcXU2U0ZmSHFSTlNjaWhCX2R2akRlc3BLRy1TUk52ZHNwakw3bzVYVDBfZ29NNzhSSGhXSmNva0FCRXF3TV9uZ3RhMkxOY1F0NG9SdzJJU2Y2TTFrWXpMZFV1aDFtaE91STMwaDhoUjgyOFotZEc3bTU2dkVOZHBudnBIWkdT?oc=5)
 
 2026-04-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
@@ -68,11 +60,19 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+
+---
+
+### ["Je suis mort, le futur pour moi, il est noir" : il devient aveugle 48 heures après avoir pris de l’Ozempic, victime de la NOIAN - Midi Libre](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
+
+2026-04-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
 
 ---
 

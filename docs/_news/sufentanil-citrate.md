@@ -14,7 +14,7 @@ permalink: /news/sufentanil-citrate/
 ---
 
 <p class="key-answer" data-question="Sufentanil Citrate 有什麼相關新聞？">
-<strong>Sufentanil Citrate</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sufentanil Citrate</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/sufentanil-citrate/
 <p><a href="{{ '/drugs/sufentanil-citrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（25 則）
+
+### [Alzheimer, MS, Tumoren: Immunsystem im Gehirn reagiert ähnlich - smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSy1CU3YteWJ3S201dkw0RXRHaVZqWWV6cF9wSHpGd3I1emw1a21sSGMxUHFhWldPakZwbkRuc1ItSFRVWFdVY3RibDlVdnJ2dXlkS21pbkpvTGVXUWxxQzdRRXhaQzhCS3hpcWpHQW1HbnVqUXQ1dmZsekFZM0J1R2lEZG1LUkJiZXhielFFQ3A3bFc4UHVFc09DVWw?oc=5)
+
+2026-04-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSy1CU3YteWJ3S201dkw0RXRHaVZqWWV6cF9wSHpGd3I1emw1a21sSGMxUHFhWldPakZwbkRuc1ItSFRVWFdVY3RibDlVdnJ2dXlkS21pbkpvTGVXUWxxQzdRRXhaQzhCS3hpcWpHQW1HbnVqUXQ1dmZsekFZM0J1R2lEZG1LUkJiZXhielFFQ3A3bFc4UHVFc09DVWw?oc=5)
+
+---
+
+### [L'oncologo Giuseppe Curigliano: «Per il paziente la speranza è un motore, non deve mai perderla. Contro il cancro ci sarà una cura, era un mio sogno già da piccolo»](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF?oc=5)
+
+2026-04-05 <span class="news-indication-tag">cancro</span>
+
+來源：[corriere.it](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF?oc=5)
+
+---
 
 ### [Diabetes: Wenn der Blutzucker aus dem Gleichgewicht gerät, AkuRy GmbH, Story](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
 
 2026-04-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[lifePR](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
-
----
-
-### [L'oncologo Giuseppe Curigliano: «Per il paziente la speranza è un motore, non deve mai perderla. Contro il cancro ci sarà una cura, era un mio sogno già da piccolo»](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF0gHMAUFVX3lxTFBIaUFCVmRDRXlxeFVHQmFBTHQ1WloxaWVGQVZDeW8wT3dmRUJsV2ZBOXJZWHdKZ0sweFA3TW80QmFMNTlMbzJab1B1V3BCbzFPdzQ0OU9DWFFHazVrNU5OQzdBMW41TEI4YXFiTDNHa0hJdUhFbDhyaEdLd3p0SkxkaGYtWndmTDV1SDZ5UExRTWRGZ2F0dUVrTzdicFVMT2hXdWx2dGJGM0RUeFFlcG1KM29oR2hVMlhTVHB5YW9ya3Jkc1JSSldaYzZ4dA?oc=5)
-
-2026-04-05 <span class="news-indication-tag">cancro</span>
-
-來源：[corriere.it](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF0gHMAUFVX3lxTFBIaUFCVmRDRXlxeFVHQmFBTHQ1WloxaWVGQVZDeW8wT3dmRUJsV2ZBOXJZWHdKZ0sweFA3TW80QmFMNTlMbzJab1B1V3BCbzFPdzQ0OU9DWFFHazVrNU5OQzdBMW41TEI4YXFiTDNHa0hJdUhFbDhyaEdLd3p0SkxkaGYtWndmTDV1SDZ5UExRTWRGZ2F0dUVrTzdicFVMT2hXdWx2dGJGM0RUeFFlcG1KM29oR2hVMlhTVHB5YW9ya3Jkc1JSSldaYzZ4dA?oc=5)
 
 ---
 
@@ -68,11 +76,11 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Why deadly bowel cancer's striking young and peri-menopausal women](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
+### [Why deadly bowel cancer's striking young and peri-menopausal women - Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
 
-2026-04-05 <span class="news-indication-tag">cancer</span>
+2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
 
 ---
 
@@ -108,11 +116,11 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Pourquoi de plus en plus de non-fumeurs développent un cancer du poumon : 3 causes que personne ne surveille](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
+### [Pourquoi de plus en plus de non-fumeurs développent un cancer du poumon : 3 causes que personne ne surveille - Social Mag](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
 
 2026-04-04 <span class="news-indication-tag">cancer</span>
 
-來源：[socialmag.news](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
+來源：[Social Mag](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
 
 ---
 
@@ -132,6 +140,14 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
+### [Scientists create “smart” DNA drug that targets cancer cells with extreme precision](https://news.google.com/rss/articles/CBMib0FVX3lxTFBiYWNRQmY4NDU2dDUtWWhabDdibDl2VFl5c0ltdWNsNktuSENiTS1IUGhZUnhGYUo3MWVkRjR5aTN0dWhCbjBZWGVEOHpqZVEzRURrNC14aVl6Q0c3czdKNXFvci0xcWplUUhLY1ZHUQ?oc=5)
+
+2026-04-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBiYWNRQmY4NDU2dDUtWWhabDdibDl2VFl5c0ltdWNsNktuSENiTS1IUGhZUnhGYUo3MWVkRjR5aTN0dWhCbjBZWGVEOHpqZVEzRURrNC14aVl6Q0c3czdKNXFvci0xcWplUUhLY1ZHUQ?oc=5)
+
+---
+
 ### [Semaglutide Shows Surprising Mental Health Benefits in Massive 100,000-Person Study](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5za0t2NmpjVEVUODFVZUhvelZKWEh1M0xFMVJ2ZEg1emR4X1JEcXU2U0ZmSHFSTlNjaWhCX2R2akRlc3BLRy1TUk52ZHNwakw3bzVYVDBfZ29NNzhSSGhXSmNva0FCRXF3TV9uZ3RhMkxOY1F0NG9SdzJJU2Y2TTFrWXpMZFV1aDFtaE91STMwaDhoUjgyOFotZEc3bTU2dkVOZHBudnBIWkdT?oc=5)
 
 2026-04-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
@@ -140,11 +156,11 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 ---
 
@@ -172,11 +188,43 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+### [Farmaci anti-obesità: qual è l’impatto sul rischio di cancro? - la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
 
-來源：[repubblica.it](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+
+---
+
+### [Cancer de la bouche : l’addiction au cannabis multiplie le risque par trois - Sud Ouest](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMjFmQUREb0JPUVo2M0dHdVd4R1l5N1VMQnp2anlFZkdmdGE3WXpWQVdWQWhXR1gzRWd6R3Z4RWtfRC1EbEZkTURndnpHX3RHYmdaMEpHai1FQVpwWEdQbFZOYlowU1pRUmNPcjJMTDJab3VoQUhRcmVSMGFvWFRkZUMtSWx2eVVQemVSZUp4X2t1RkpSazczZ1lnRVlPSy1MT3htaTM2ZTluU01DOHI1UWlTWGprdmM?oc=5)
+
+2026-04-02 <span class="news-indication-tag">cancer</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMjFmQUREb0JPUVo2M0dHdVd4R1l5N1VMQnp2anlFZkdmdGE3WXpWQVdWQWhXR1gzRWd6R3Z4RWtfRC1EbEZkTURndnpHX3RHYmdaMEpHai1FQVpwWEdQbFZOYlowU1pRUmNPcjJMTDJab3VoQUhRcmVSMGFvWFRkZUMtSWx2eVVQemVSZUp4X2t1RkpSazczZ1lnRVlPSy1MT3htaTM2ZTluU01DOHI1UWlTWGprdmM?oc=5)
+
+---
+
+### [7 000 euros pour une naissance, 27 000 euros pour un cancer du poumon… Faut-il dire aux Français combien coûte leur santé - Le Parisien](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTXpNMEQ1RTRoUlRsb1hlUmk2V2RLSGt5QklRQXNBZ2NoalJBXzE2X1doNVhwTGNXSk5uYmU1OC1aMU1Rbmg0dmpHMG5TT2RnRE9kanIzcHUzeDlVcVZaOWlEWUJXMi1SWG5Pd09iOWxzdmdDMjBleDVCbjMwVkdTYkczOGtsY1E0LUw2Rm1fUFlnYjFmUG11dUxVMHFRSkhneTBUNnE0VnIxYkVsYzUzYUgybWtnS05adnRxT1I4WHUybmwyT0Y1Z18tU29fSG1XbTBxQ1EyaGxmSnk2XzFzRGUyZ0NHaUh1NWRKNVRudy1JVDhhR0RkUDdKZ1hEdXBnQ2FRUHdDQk9fWWhZMWdNU3VTbTNheFZZWHc3X0RDVXRyNVVzVmFWTA?oc=5)
+
+2026-04-02 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTXpNMEQ1RTRoUlRsb1hlUmk2V2RLSGt5QklRQXNBZ2NoalJBXzE2X1doNVhwTGNXSk5uYmU1OC1aMU1Rbmg0dmpHMG5TT2RnRE9kanIzcHUzeDlVcVZaOWlEWUJXMi1SWG5Pd09iOWxzdmdDMjBleDVCbjMwVkdTYkczOGtsY1E0LUw2Rm1fUFlnYjFmUG11dUxVMHFRSkhneTBUNnE0VnIxYkVsYzUzYUgybWtnS05adnRxT1I4WHUybmwyT0Y1Z18tU29fSG1XbTBxQ1EyaGxmSnk2XzFzRGUyZ0NHaUh1NWRKNVRudy1JVDhhR0RkUDdKZ1hEdXBnQ2FRUHdDQk9fWWhZMWdNU3VTbTNheFZZWHc3X0RDVXRyNVVzVmFWTA?oc=5)
+
+---
+
+### ["Je suis mort, le futur pour moi, il est noir" : il devient aveugle 48 heures après avoir pris de l’Ozempic, victime de la NOIAN - Midi Libre](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
+
+2026-04-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
+
+---
+
+### [Lien entre pesticides et cancers : pour la première fois, des chercheurs mesurent des effets à l’échelle d’un pays - Le Monde.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNY0tGRUs5WVdybEI1S1MwN3I2elRTXzJGVmh6TFowUTRtTlpiS2wtTVp5NVZ5ajA2VF9BTjFaTmhsZ2x1MGlNSzVCUDVNOEx5TzhFQ0FfRkhWSE9FVGZGT3BjM2pLaWE0UEpxdzVxYW8zZFpZaEd0b1EzZlJSLUtYYTNDd3laTjZTV1BIZkV2WWxzWkZFY2VSd281U2M5TDFmYjkzN1h2OXJpSHJxdnlKd1FoVzMxdGZlTVJ4N3dnWUIzSmppZlVqbWFLaVByRjJDcFZNMGFGQ1Zna0Nka19DSmZ3XzBOd25ta0FsdjgzOW1qbHQteTZ2S1BVM0t4eGxZZHh3YzIwUEQ5SzQ?oc=5)
+
+2026-04-01 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNY0tGRUs5WVdybEI1S1MwN3I2elRTXzJGVmh6TFowUTRtTlpiS2wtTVp5NVZ5ajA2VF9BTjFaTmhsZ2x1MGlNSzVCUDVNOEx5TzhFQ0FfRkhWSE9FVGZGT3BjM2pLaWE0UEpxdzVxYW8zZFpZaEd0b1EzZlJSLUtYYTNDd3laTjZTV1BIZkV2WWxzWkZFY2VSd281U2M5TDFmYjkzN1h2OXJpSHJxdnlKd1FoVzMxdGZlTVJ4N3dnWUIzSmppZlVqbWFLaVByRjJDcFZNMGFGQ1Zna0Nka19DSmZ3XzBOd25ta0FsdjgzOW1qbHQteTZ2S1BVM0t4eGxZZHh3YzIwUEQ5SzQ?oc=5)
 
 ---
 

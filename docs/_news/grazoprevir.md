@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Grazoprevir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
 
-### [Everything your mouth can reveal about your health... from fruity breath to a discolored tongue](https://news.google.com/rss/articles/CBMipAFBVV95cUxQenJKV0ppbFZJb3hpc1dmVXFnM3ZDbnVQOFFFVVdHSDdmVFBaNzRKcXh4SnZuYkt4ZjFBcVgtQWgwcm1ybEduTzlZcFhaZWYzNjZ1bXZTWkt4RUJ3Zl9CVlh6T1loOTVrRGUtUE4yUlF5ZldnTE9vV1JNbGN2ZVlRVHVCOEJlMldoai1iQmVhX0tpdjBWTl9NUVZ4VVBLZVhiV0Y1ZNIBqgFBVV95cUxOUk55ZUQxYzRxTEplRC0zajNmMVdYTG1ESXFsNTNzZXFMVDl0aXJuOUtIRXN2MjFjeEV5S2EwNkpRQ0dWcklXSVJ0Uk5CSHJ3S1g1bGNLX2g1SnJudm5PU01WX1lGbzl2SUtZWUx2dDF0eWI5c3EzZWhvenl5WEpBblBueVRDWndudlJtaUx0SnNMMElqb19vQTFyWnZSR1lGTVA2YVIwYngtQQ?oc=5)
+### [Alzheimer, MS, Tumoren: Immunsystem im Gehirn reagiert ähnlich - smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSy1CU3YteWJ3S201dkw0RXRHaVZqWWV6cF9wSHpGd3I1emw1a21sSGMxUHFhWldPakZwbkRuc1ItSFRVWFdVY3RibDlVdnJ2dXlkS21pbkpvTGVXUWxxQzdRRXhaQzhCS3hpcWpHQW1HbnVqUXQ1dmZsekFZM0J1R2lEZG1LUkJiZXhielFFQ3A3bFc4UHVFc09DVWw?oc=5)
 
-2026-04-04 <span class="news-indication-tag">MS</span>
+2026-04-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMipAFBVV95cUxQenJKV0ppbFZJb3hpc1dmVXFnM3ZDbnVQOFFFVVdHSDdmVFBaNzRKcXh4SnZuYkt4ZjFBcVgtQWgwcm1ybEduTzlZcFhaZWYzNjZ1bXZTWkt4RUJ3Zl9CVlh6T1loOTVrRGUtUE4yUlF5ZldnTE9vV1JNbGN2ZVlRVHVCOEJlMldoai1iQmVhX0tpdjBWTl9NUVZ4VVBLZVhiV0Y1ZNIBqgFBVV95cUxOUk55ZUQxYzRxTEplRC0zajNmMVdYTG1ESXFsNTNzZXFMVDl0aXJuOUtIRXN2MjFjeEV5S2EwNkpRQ0dWcklXSVJ0Uk5CSHJ3S1g1bGNLX2g1SnJudm5PU01WX1lGbzl2SUtZWUx2dDF0eWI5c3EzZWhvenl5WEpBblBueVRDWndudlJtaUx0SnNMMElqb19vQTFyWnZSR1lGTVA2YVIwYngtQQ?oc=5)
+來源：[smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSy1CU3YteWJ3S201dkw0RXRHaVZqWWV6cF9wSHpGd3I1emw1a21sSGMxUHFhWldPakZwbkRuc1ItSFRVWFdVY3RibDlVdnJ2dXlkS21pbkpvTGVXUWxxQzdRRXhaQzhCS3hpcWpHQW1HbnVqUXQ1dmZsekFZM0J1R2lEZG1LUkJiZXhielFFQ3A3bFc4UHVFc09DVWw?oc=5)
 
 ---
 
-### [Expertos alertan sobre las señales de una dieta que provoca inflamación en el cuerpo](https://news.google.com/rss/articles/CBMixAFBVV95cUxOalZIRTlIY0hla3ZSSVBUVXlhUFlGU0FzS0tUOGdyY2kyNEE0NkFuN0VDVERVVDMyMUJ3eFpGNkFSbGdqWGliWmxpSmpJZGgxa2stZUt5cDdwcHM1bnZaVkN4RXprQ25EMll3NFRSMHF0OUtlOWhxdGRFVkZTZ1h6V1JHVE9qX2lIUU1XZ2pncVpldjRzVnVxTVpLQ29EUGtkWGJJa0pFSWU5V1dLQ1phNU0wWVVac1RaZXpIUUtSbXF1ZnA10gHfAUFVX3lxTFBjZFM5WnlReTFSWmI2ZFNSdUlLNU1mMDBzZno1bnlxang1LS11Smt3VjBmWkpheTNJMENRZUN4RDJkT0lXdU5YWkw5WF8wOHZhY21jZGVPdWhWY09JejRvenhvQjF0UDU0bE9UQWJ3dExqZ29QRF9LeHhvQ1E3Y2xzd1N3dTVkQm9LWEhEZEhFeWxFMi1iSFFrR09EaHVrVnA3cm9XTmNZOXE0Z2FxRWxFZ2xiVDl6V01PZUh5aHRwMHZpMGNSTnlUQVk0V1dFaXVKRU1VYlViZE4zWF9HZDQ?oc=5)
+### [Why deadly bowel cancer's striking young and peri-menopausal women - Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
+
+2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
+
+---
+
+### [Doctor warns that one type of food is 'worse than smoking' for early death](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjhxa0c0WkZ1V0FZZURHeXZna1hGMTQzaS1qU3JGOENaMmhTUnAzMWlJcTRQR3IzZG1Mb0EyRUN1UDJsV0xmUVI5dTIxLUJYeFdIRHBsNUJFdWRxSEVhdDlWQklUU25nSmFoSnZ0dm1LUk9GcllqUXZTbDk4YldLcFBaZTd4d9IBiwFBVV95cUxPLU5NSkZ3WllfeF9SZ1lla2ZzWGpkWDZaR3JfS1FsUmVpWUUwMENGR0VTd0t6Nmt2VzJfcEN1c3AxN2lXNFJhT1lmZFprOGN3alE3alNaLVNTVEx4MHVyWXN6a0hvOC1WQVdYTEZCWTI4cWFaUkZnTGF3V1J6ZXhtYXE1RHlWYWlKcURv?oc=5)
 
 2026-04-04 <span class="news-indication-tag">MS</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMixAFBVV95cUxOalZIRTlIY0hla3ZSSVBUVXlhUFlGU0FzS0tUOGdyY2kyNEE0NkFuN0VDVERVVDMyMUJ3eFpGNkFSbGdqWGliWmxpSmpJZGgxa2stZUt5cDdwcHM1bnZaVkN4RXprQ25EMll3NFRSMHF0OUtlOWhxdGRFVkZTZ1h6V1JHVE9qX2lIUU1XZ2pncVpldjRzVnVxTVpLQ29EUGtkWGJJa0pFSWU5V1dLQ1phNU0wWVVac1RaZXpIUUtSbXF1ZnA10gHfAUFVX3lxTFBjZFM5WnlReTFSWmI2ZFNSdUlLNU1mMDBzZno1bnlxang1LS11Smt3VjBmWkpheTNJMENRZUN4RDJkT0lXdU5YWkw5WF8wOHZhY21jZGVPdWhWY09JejRvenhvQjF0UDU0bE9UQWJ3dExqZ29QRF9LeHhvQ1E3Y2xzd1N3dTVkQm9LWEhEZEhFeWxFMi1iSFFrR09EaHVrVnA3cm9XTmNZOXE0Z2FxRWxFZ2xiVDl6V01PZUh5aHRwMHZpMGNSTnlUQVk0V1dFaXVKRU1VYlViZE4zWF9HZDQ?oc=5)
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjhxa0c0WkZ1V0FZZURHeXZna1hGMTQzaS1qU3JGOENaMmhTUnAzMWlJcTRQR3IzZG1Mb0EyRUN1UDJsV0xmUVI5dTIxLUJYeFdIRHBsNUJFdWRxSEVhdDlWQklUU25nSmFoSnZ0dm1LUk9GcllqUXZTbDk4YldLcFBaZTd4d9IBiwFBVV95cUxPLU5NSkZ3WllfeF9SZ1lla2ZzWGpkWDZaR3JfS1FsUmVpWUUwMENGR0VTd0t6Nmt2VzJfcEN1c3AxN2lXNFJhT1lmZFprOGN3alE3alNaLVNTVEx4MHVyWXN6a0hvOC1WQVdYTEZCWTI4cWFaUkZnTGF3V1J6ZXhtYXE1RHlWYWlKcURv?oc=5)
 
 ---
 
@@ -68,6 +76,14 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [Scientists finally discover location of male G-spot and it's not where previously thought](https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1JMR3JhZHdlQU8yMWJvR1FtTm9QMk92NWdFaEVOb2Z6NHVZVFBVV0J3TWxkSW5XakZoakdabklDRE9GajYwR3dEMFhFVGVvTmZ2eDR4UjQ4X25McW5TVXFJVXM4ZTZkMDRzdUd6bGpxdmJzSEFRa0hLQkFfZXNwalF4SXQ0ZjFnTndrMW5HN2h6UURF?oc=5)
+
+2026-04-03 <span class="news-indication-tag">MS</span>
+
+來源：[ladbible.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1JMR3JhZHdlQU8yMWJvR1FtTm9QMk92NWdFaEVOb2Z6NHVZVFBVV0J3TWxkSW5XakZoakdabklDRE9GajYwR3dEMFhFVGVvTmZ2eDR4UjQ4X25McW5TVXFJVXM4ZTZkMDRzdUd6bGpxdmJzSEFRa0hLQkFfZXNwalF4SXQ0ZjFnTndrMW5HN2h6UURF?oc=5)
+
+---
+
 ### [Contrasto all’Epatite A: nei guai tre pescherie di San Giorgio a Cremano - Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWl2bXFzODVjQm5ORVJsSGlDMUtnVmFMTF9iZi15d2NHR19aZDdZNkxOWDFtcTUxUElVU2FzeWtzeFJHNVRKSGpCcFpSY0EtTTJmLVktYVBwVFRIUXZMUTlZbkt2eVJKeTJScVNIVHBaaUU3eG1kTHZyWTU5UkJDTkNTbUstOW9Ua2otcDlVaFBuYzR0M2xFXzFZSTdPRmttYmdlaE9SZ1pwM2ozNjNrbmFrbFR4RGk0T216MTU1QVDSAawBQVVfeXFMTkxLd1ZoMUF5VkktaWtpM2hfU3AwWEZtR1BJYTNPTWJhUTFFaFBaTWlYaTUweG93RVhJVTZKaDg2Ul9JbkNIVzVBZXMwV1U2SDNnWHdNcU80WnN5d2hqUHA4dzVPendobjRCTGpobjE1S3RPd2VWZmhTSHJkeGlUaFQ1NWJQbU5RbDFnWUlOMXptLTNuaTg5ODEwMVJuajVFNl9wQXA0OGxZcFpqbg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">epatite</span>
@@ -76,19 +92,19 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Multivitamine bremsen die biologische Alterung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHpGOUxILWNhdTgtSTF4cGlkdzA4cGQ3SE5fRHE1YklLWGdKM1NfdEJkaERkLWVKbVhQZFY1THNzdERrQVBfQkQxX2g0M0dRaHZUVmMyV3RfZkJ6SzVlOExiTVhUUmNNNjFGa1UweWZyQTdQSl96eTh1MmhmbGhkWERyUE16UkVIQjRsYWRZOEhNakF0NE9WcGY3YU5HLWZWcWdTamdzdWU?oc=5)
+### [Multivitamine verlangsamen das biologische Altern bei Senioren - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0k2R21aSmlTVXhuSWJLMDdYaUJucVQxaFFuSnY4WjN2RFU0blFKRmRUamtfNnpzUDN2WFZ0OWlTWTJHRC0xTzd2cGc0RmZKNm52VjZmenRsSUZiX3Jid1JBLXdRT0l1bXRDWXZ3S2gwVkpDcUdSci1XN2FkYWZjYUc2Q0lvT1cyMVBXaHVtS2tER3RhanA3UjBR?oc=5)
 
 2026-04-03 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHpGOUxILWNhdTgtSTF4cGlkdzA4cGQ3SE5fRHE1YklLWGdKM1NfdEJkaERkLWVKbVhQZFY1THNzdERrQVBfQkQxX2g0M0dRaHZUVmMyV3RfZkJ6SzVlOExiTVhUUmNNNjFGa1UweWZyQTdQSl96eTh1MmhmbGhkWERyUE16UkVIQjRsYWRZOEhNakF0NE9WcGY3YU5HLWZWcWdTamdzdWU?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0k2R21aSmlTVXhuSWJLMDdYaUJucVQxaFFuSnY4WjN2RFU0blFKRmRUamtfNnpzUDN2WFZ0OWlTWTJHRC0xTzd2cGc0RmZKNm52VjZmenRsSUZiX3Jid1JBLXdRT0l1bXRDWXZ3S2gwVkpDcUdSci1XN2FkYWZjYUc2Q0lvT1cyMVBXaHVtS2tER3RhanA3UjBR?oc=5)
 
 ---
 
-### [How extreme exercise can increase belly fat – and three other weight-loss mistakes you’re making - The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtRTmhnR2dsa05ITXQyOFV3dGl1dnIyTVdLd2d3VnBDYWlCbTUtQzJ6ODlKWGxoWnRjTmFob19WTjlqbnZiWVo3bU9GOE9veXB6Mk1nTnhRLUpaeEdPaUlXdWpKVW1sUjhad2JieVFXT25xLVQ3R1o2RWRMYlBEbkY3bw?oc=5)
+### [Sida : comment un traitement révolutionnaire est déployé en Eswatini, le pays le plus touché au monde - Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMzhRU21JYjlMT3dkVVRjRVlvWm9ZSWZZSDZrYVZaTWREaTZpbEp6WlY4aXlXQzlFQy1DeWtZVWF3UkplekhxSkdoV25vaUl2RXc5WDhnZGwxMFJzU0hRUUtoRGIxZXVRaWdZbGNQTkNCQTdHaWtiSUZRR19OUElKc3Z2MnhRYVhmdGgzcTN1VmU0XzhUSlM5cU5UM3dqVnF1S2ZnYW1KVGRpTVNZVHJsT2dGeEdaMDVHRkg3RFBNeVB0bUtwaW4td205VW14QnFkQ2pkSlR1RDlnVmhhb29zMDV0VzBsaTRTSF9rV2RPV0dYVFNuS0JmSnEwM0ExVGw5WUJuMm5JSQ?oc=5)
 
-2026-04-03 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtRTmhnR2dsa05ITXQyOFV3dGl1dnIyTVdLd2d3VnBDYWlCbTUtQzJ6ODlKWGxoWnRjTmFob19WTjlqbnZiWVo3bU9GOE9veXB6Mk1nTnhRLUpaeEdPaUlXdWpKVW1sUjhad2JieVFXT25xLVQ3R1o2RWRMYlBEbkY3bw?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMzhRU21JYjlMT3dkVVRjRVlvWm9ZSWZZSDZrYVZaTWREaTZpbEp6WlY4aXlXQzlFQy1DeWtZVWF3UkplekhxSkdoV25vaUl2RXc5WDhnZGwxMFJzU0hRUUtoRGIxZXVRaWdZbGNQTkNCQTdHaWtiSUZRR19OUElKc3Z2MnhRYVhmdGgzcTN1VmU0XzhUSlM5cU5UM3dqVnF1S2ZnYW1KVGRpTVNZVHJsT2dGeEdaMDVHRkg3RFBNeVB0bUtwaW4td205VW14QnFkQ2pkSlR1RDlnVmhhb29zMDV0VzBsaTRTSF9rV2RPV0dYVFNuS0JmSnEwM0ExVGw5WUJuMm5JSQ?oc=5)
 
 ---
 

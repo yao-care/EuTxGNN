@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Levodopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Nose-Picking May Have a Surprise Link With Alzheimer's, Study in Mice Suggests](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXpxWkc3QjBYWFpVeXdybmI1TXJkeFBzQlZEUnRlcGRyd2h0M0V6aDlJbE9hNl9GRS1UWTZKVElfZG0xSkFiOUlJN2FRUFhQSDItYy1NTnZhbHRreDZGNTBUWVRpYmw1WmdVZHBGQzFkc1lzbWs4TTg3NzUzdkNGY2pGNWw0LURlWEtZdV9NRVh5Wjg5ZjVjMU8tWm1tTkk4MDlTMU5ER1I?oc=5)
+
+2026-04-04 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXpxWkc3QjBYWFpVeXdybmI1TXJkeFBzQlZEUnRlcGRyd2h0M0V6aDlJbE9hNl9GRS1UWTZKVElfZG0xSkFiOUlJN2FRUFhQSDItYy1NTnZhbHRreDZGNTBUWVRpYmw1WmdVZHBGQzFkc1lzbWs4TTg3NzUzdkNGY2pGNWw0LURlWEtZdV9NRVh5Wjg5ZjVjMU8tWm1tTkk4MDlTMU5ER1I?oc=5)
+
+---
 
 
 <div class="disclaimer">

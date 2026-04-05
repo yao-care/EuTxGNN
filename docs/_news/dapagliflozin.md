@@ -14,7 +14,7 @@ permalink: /news/dapagliflozin/
 ---
 
 <p class="key-answer" data-question="Dapagliflozin 有什麼相關新聞？">
-<strong>Dapagliflozin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dapagliflozin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/dapagliflozin/
 <p><a href="{{ '/drugs/dapagliflozin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Diabetes: Wenn der Blutzucker aus dem Gleichgewicht gerät, AkuRy GmbH, Story](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
 
@@ -60,11 +60,19 @@ permalink: /news/dapagliflozin/
 
 ---
 
-### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+
+---
+
+### ["Je suis mort, le futur pour moi, il est noir" : il devient aveugle 48 heures après avoir pris de l’Ozempic, victime de la NOIAN - Midi Libre](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
+
+2026-04-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
 
 ---
 
