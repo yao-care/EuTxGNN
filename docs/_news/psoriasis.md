@@ -3,7 +3,7 @@ layout: default
 title: "psoriasis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "psoriasis 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "psoriasis 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="psoriasis 有什麼相關新聞？">
-<strong>psoriasis</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>psoriasis</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [How to cure psoriasis WITHOUT drugs: ETHAN ENNELS reveals the answers](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
+
+2026-04-05
+
+來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
+
+---
 
 ### [Descubren que un fármaco aprobado para otra enfermedad reduce la inflamación asociada a la psoriasis - El Debate](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVng0YTNYSlJ3LTlQYW9oWUFCSTdjb280YTlTdGJwT1pJVmFKbVF1OVFTWlJUSENxMkw0ckdpY19LeWtqQzhral9YMmlCRlEtc1p1ZlJBNTVkOTR3anJNTGRkZ3FfUVBybExEeXJ5TDhWdFBrZWdSTXZ0OUpkMlFZNWlMc3pxLUJzbVBIR2F4TThjUjlMZWttVC1YMENnVEoyT2JfSURrTENYdG1CWjhHRkllcU1vcjdIOHpfOUhIZi1xYnk4TEhZWnExcG4xMl9L0gHWAUFVX3lxTE9OTTNxdDhxUmtkdF84Rmd6RHpRalRFWWVjbzRMcjF0T0hvQUJNTEE2Y0xIb0JabjJNU3pzOTQ3RWFjajFEc3NiOGU1VWhsRjBncXd2UFctWVJ5aWJGcHMtTzd2Wi1wWXVHRUd3VEhEcnRoUWF4Wkl6cWUyeHFISVpmXzJ1dVBBVHdua3ZDTVpXY21pTS1iNk95cXI0SlVMRTI5eENwRVNUMmdVRGpYVDNEVXo2UFpKcDhZTE9MbkUwSjdJbU8wODBPQ3BoY2xaNnVvay0tVlE?oc=5)
 

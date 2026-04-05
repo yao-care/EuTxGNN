@@ -44,6 +44,14 @@ permalink: /news/sacubitril/
 
 ## 相關新聞（4 則）
 
+### [Diabetes: Wenn der Blutzucker aus dem Gleichgewicht gerät, AkuRy GmbH, Story](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
+
+2026-04-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
+
+---
+
 ### [Aceite de oliva virgen extra contra la artritis - Canal Sur](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
 
 2026-04-04 <span class="news-indication-tag">artritis</span>
@@ -60,19 +68,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
-
----
-
-### [Diabète de type 2 : grâce à l'IA, un dépistage simple rien qu'avec votre voix, pourrait voir le jour - Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
-
-2026-04-03 <span class="news-indication-tag">diabète</span>
-
-來源：[Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
+來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 ---
 

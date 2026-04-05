@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abaloparatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Diabetes: Wenn der Blutzucker aus dem Gleichgewicht gerät, AkuRy GmbH, Story](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
+
+2026-04-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
+
+---
+
+### [Una psicóloga señala que la autoexigencia o el perfeccionismo pueden influir en la migraña - FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTNtLWR6SV91VDV1RTZ0Qk9CWFVNYld3a0NuRjVja0NIWlphNGhUWnlYSGR4Z0FWcTV3MU0yTWNIeHZZaENaYl9vNEdVNHV0VlRERVhxbzFYS0I4UDlwMzJfVFBWLW9OOEY3aFQxajNqaVM5NlZZRmp1OEJWNXl3WlRiRmZkVkt0TzRsc3QwNTdFTHczMFAzZnVNelRQVFFFWkw0RHVvTEp6QzJsdllFTjgzdDdkM2RmRlhqOA?oc=5)
+
+2026-04-05 <span class="news-indication-tag">migraña</span>
+
+來源：[FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTNtLWR6SV91VDV1RTZ0Qk9CWFVNYld3a0NuRjVja0NIWlphNGhUWnlYSGR4Z0FWcTV3MU0yTWNIeHZZaENaYl9vNEdVNHV0VlRERVhxbzFYS0I4UDlwMzJfVFBWLW9OOEY3aFQxajNqaVM5NlZZRmp1OEJWNXl3WlRiRmZkVkt0TzRsc3QwNTdFTHczMFAzZnVNelRQVFFFWkw0RHVvTEp6QzJsdllFTjgzdDdkM2RmRlhqOA?oc=5)
+
+---
 
 ### [Semaglutide Shows Surprising Mental Health Benefits in Massive 100,000-Person Study](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5za0t2NmpjVEVUODFVZUhvelZKWEh1M0xFMVJ2ZEg1emR4X1JEcXU2U0ZmSHFSTlNjaWhCX2R2akRlc3BLRy1TUk52ZHNwakw3bzVYVDBfZ29NNzhSSGhXSmNva0FCRXF3TV9uZ3RhMkxOY1F0NG9SdzJJU2Y2TTFrWXpMZFV1aDFtaE91STMwaDhoUjgyOFotZEc3bTU2dkVOZHBudnBIWkdT?oc=5)
 
@@ -52,19 +68,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
-
----
-
-### [Diabète de type 2 : grâce à l'IA, un dépistage simple rien qu'avec votre voix, pourrait voir le jour - Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
-
-2026-04-03 <span class="news-indication-tag">diabète</span>
-
-來源：[Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
+來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 ---
 

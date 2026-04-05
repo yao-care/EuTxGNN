@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Verordnung von PPI bei Asthma oder COPD kritisch prüfen](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHgtUHFUbDVpLW1BdWp4SmplVExoVnl3RXZXMDJaQm5Yc2lQQ2tlM0VMYUwybGhWQjc5Z29UaF9nX1JjVnluMHJxUzJ3MF9wZWtEWEt3dU5GWXEybzdGZHlyelVDa1VoOXBhRk1kclE5WGZSR2dqcEdHcHZJcFpFbUh4LThNcHpYVTJMUzRSbEc?oc=5)
+
+2026-04-05 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHgtUHFUbDVpLW1BdWp4SmplVExoVnl3RXZXMDJaQm5Yc2lQQ2tlM0VMYUwybGhWQjc5Z29UaF9nX1JjVnluMHJxUzJ3MF9wZWtEWEt3dU5GWXEybzdGZHlyelVDa1VoOXBhRk1kclE5WGZSR2dqcEdHcHZJcFpFbUh4LThNcHpYVTJMUzRSbEc?oc=5)
+
+---
 
 ### [Aceite de oliva virgen extra contra la artritis - Canal Sur](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
 

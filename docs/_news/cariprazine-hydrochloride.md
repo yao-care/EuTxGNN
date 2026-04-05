@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Medicines watchdog to investigate UK peptide clinics over health claims - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdl90bEVLS3VIV2Q3MV9jZU1sVFFjYm9Jb0YzNVFUaGY2UEVrMFVqMFFjYWFmcFBYR0xGSkptRTB1bmpkajhFMkdkdjdqVGZObmNHNy1jUkx3OWhjN2R6VlF5XzgtelE5S3pKZ3lqZFpEVE1ZM1VITHNmMm5uNnNWbkRoLXZxOUxZNGZhLVJoc0x2bkJtUHJlZXBham5ZMTdLWXV2eXVacko5QURNWDhIdjJyTk13ZjhVU21B?oc=5)
+### [Everything your mouth can reveal about your health... from fruity breath to a discolored tongue](https://news.google.com/rss/articles/CBMipAFBVV95cUxQenJKV0ppbFZJb3hpc1dmVXFnM3ZDbnVQOFFFVVdHSDdmVFBaNzRKcXh4SnZuYkt4ZjFBcVgtQWgwcm1ybEduTzlZcFhaZWYzNjZ1bXZTWkt4RUJ3Zl9CVlh6T1loOTVrRGUtUE4yUlF5ZldnTE9vV1JNbGN2ZVlRVHVCOEJlMldoai1iQmVhX0tpdjBWTl9NUVZ4VVBLZVhiV0Y1ZNIBqgFBVV95cUxOUk55ZUQxYzRxTEplRC0zajNmMVdYTG1ESXFsNTNzZXFMVDl0aXJuOUtIRXN2MjFjeEV5S2EwNkpRQ0dWcklXSVJ0Uk5CSHJ3S1g1bGNLX2g1SnJudm5PU01WX1lGbzl2SUtZWUx2dDF0eWI5c3EzZWhvenl5WEpBblBueVRDWndudlJtaUx0SnNMMElqb19vQTFyWnZSR1lGTVA2YVIwYngtQQ?oc=5)
 
 2026-04-04 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdl90bEVLS3VIV2Q3MV9jZU1sVFFjYm9Jb0YzNVFUaGY2UEVrMFVqMFFjYWFmcFBYR0xGSkptRTB1bmpkajhFMkdkdjdqVGZObmNHNy1jUkx3OWhjN2R6VlF5XzgtelE5S3pKZ3lqZFpEVE1ZM1VITHNmMm5uNnNWbkRoLXZxOUxZNGZhLVJoc0x2bkJtUHJlZXBham5ZMTdLWXV2eXVacko5QURNWDhIdjJyTk13ZjhVU21B?oc=5)
+來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMipAFBVV95cUxQenJKV0ppbFZJb3hpc1dmVXFnM3ZDbnVQOFFFVVdHSDdmVFBaNzRKcXh4SnZuYkt4ZjFBcVgtQWgwcm1ybEduTzlZcFhaZWYzNjZ1bXZTWkt4RUJ3Zl9CVlh6T1loOTVrRGUtUE4yUlF5ZldnTE9vV1JNbGN2ZVlRVHVCOEJlMldoai1iQmVhX0tpdjBWTl9NUVZ4VVBLZVhiV0Y1ZNIBqgFBVV95cUxOUk55ZUQxYzRxTEplRC0zajNmMVdYTG1ESXFsNTNzZXFMVDl0aXJuOUtIRXN2MjFjeEV5S2EwNkpRQ0dWcklXSVJ0Uk5CSHJ3S1g1bGNLX2g1SnJudm5PU01WX1lGbzl2SUtZWUx2dDF0eWI5c3EzZWhvenl5WEpBblBueVRDWndudlJtaUx0SnNMMElqb19vQTFyWnZSR1lGTVA2YVIwYngtQQ?oc=5)
 
 ---
 
-### [New Covid variant BA.3.2 detected across US, but experts urge vigilance over alarm - The Guardian](https://news.google.com/rss/articles/CBMieEFVX3lxTE5lYU8zMm5sX1F3S216cHJpdFdGQmhBTnlMSnNrRE5VYkVFZFY4d0ZUNUY2QzVzdm1IcHpxMVUzYzZGQVUxZDdEWFo5d09WT3pHc19PQktzVFVMWXdSc19rai1NRjM1eFdhaTFLRHgyMFlUVGJRb0hvcA?oc=5)
+### [Expertos alertan sobre las señales de una dieta que provoca inflamación en el cuerpo](https://news.google.com/rss/articles/CBMixAFBVV95cUxOalZIRTlIY0hla3ZSSVBUVXlhUFlGU0FzS0tUOGdyY2kyNEE0NkFuN0VDVERVVDMyMUJ3eFpGNkFSbGdqWGliWmxpSmpJZGgxa2stZUt5cDdwcHM1bnZaVkN4RXprQ25EMll3NFRSMHF0OUtlOWhxdGRFVkZTZ1h6V1JHVE9qX2lIUU1XZ2pncVpldjRzVnVxTVpLQ29EUGtkWGJJa0pFSWU5V1dLQ1phNU0wWVVac1RaZXpIUUtSbXF1ZnA10gHfAUFVX3lxTFBjZFM5WnlReTFSWmI2ZFNSdUlLNU1mMDBzZno1bnlxang1LS11Smt3VjBmWkpheTNJMENRZUN4RDJkT0lXdU5YWkw5WF8wOHZhY21jZGVPdWhWY09JejRvenhvQjF0UDU0bE9UQWJ3dExqZ29QRF9LeHhvQ1E3Y2xzd1N3dTVkQm9LWEhEZEhFeWxFMi1iSFFrR09EaHVrVnA3cm9XTmNZOXE0Z2FxRWxFZ2xiVDl6V01PZUh5aHRwMHZpMGNSTnlUQVk0V1dFaXVKRU1VYlViZE4zWF9HZDQ?oc=5)
 
 2026-04-04 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMieEFVX3lxTE5lYU8zMm5sX1F3S216cHJpdFdGQmhBTnlMSnNrRE5VYkVFZFY4d0ZUNUY2QzVzdm1IcHpxMVUzYzZGQVUxZDdEWFo5d09WT3pHc19PQktzVFVMWXdSc19rai1NRjM1eFdhaTFLRHgyMFlUVGJRb0hvcA?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMixAFBVV95cUxOalZIRTlIY0hla3ZSSVBUVXlhUFlGU0FzS0tUOGdyY2kyNEE0NkFuN0VDVERVVDMyMUJ3eFpGNkFSbGdqWGliWmxpSmpJZGgxa2stZUt5cDdwcHM1bnZaVkN4RXprQ25EMll3NFRSMHF0OUtlOWhxdGRFVkZTZ1h6V1JHVE9qX2lIUU1XZ2pncVpldjRzVnVxTVpLQ29EUGtkWGJJa0pFSWU5V1dLQ1phNU0wWVVac1RaZXpIUUtSbXF1ZnA10gHfAUFVX3lxTFBjZFM5WnlReTFSWmI2ZFNSdUlLNU1mMDBzZno1bnlxang1LS11Smt3VjBmWkpheTNJMENRZUN4RDJkT0lXdU5YWkw5WF8wOHZhY21jZGVPdWhWY09JejRvenhvQjF0UDU0bE9UQWJ3dExqZ29QRF9LeHhvQ1E3Y2xzd1N3dTVkQm9LWEhEZEhFeWxFMi1iSFFrR09EaHVrVnA3cm9XTmNZOXE0Z2FxRWxFZ2xiVDl6V01PZUh5aHRwMHZpMGNSTnlUQVk0V1dFaXVKRU1VYlViZE4zWF9HZDQ?oc=5)
 
 ---
 
@@ -68,22 +68,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Our daughter died of MenB - we fear outbreaks without wider vaccine rollout](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwZlB4eUZKdUJ2LWUxNDNUQmpUZGZ3dDBvWlFMRXc2MnhoSnRjNllGdXFOd0JpanU2bFRqNXEyazJ2X2pfbXJvcU11bkJObm1GZEdiWDlPQXd4dDRj?oc=5)
-
-2026-04-03 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwZlB4eUZKdUJ2LWUxNDNUQmpUZGZ3dDBvWlFMRXc2MnhoSnRjNllGdXFOd0JpanU2bFRqNXEyazJ2X2pfbXJvcU11bkJObm1GZEdiWDlPQXd4dDRj?oc=5)
-
----
-
-### [Yes, allergy season has already started. Here’s how to manage symptoms - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0NHQzFXdVg1SkJwdFJ1OW1vbkx3TjlfVG1QbWU4dWlVb1FRWUVvQUxlV2kwbXJFV2VMdWdhVmJXckxxa3dXRGlzbktweGtSVmx2bkxsLW1vTmlSWjNMaUNqeUF5a1ZmQXZ4dzlIa044Vkg2ZWV1Vk9BcVJ6Q29QUlpsZ2ZFSEZwZU1NVm9pWGNhMmE5X0MzMzdn?oc=5)
-
-2026-04-03 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0NHQzFXdVg1SkJwdFJ1OW1vbkx3TjlfVG1QbWU4dWlVb1FRWUVvQUxlV2kwbXJFV2VMdWdhVmJXckxxa3dXRGlzbktweGtSVmx2bkxsLW1vTmlSWjNMaUNqeUF5a1ZmQXZ4dzlIa044Vkg2ZWV1Vk9BcVJ6Q29QUlpsZ2ZFSEZwZU1NVm9pWGNhMmE5X0MzMzdn?oc=5)
-
----
-
 ### [Multivitamine bremsen die biologische Alterung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHpGOUxILWNhdTgtSTF4cGlkdzA4cGQ3SE5fRHE1YklLWGdKM1NfdEJkaERkLWVKbVhQZFY1THNzdERrQVBfQkQxX2g0M0dRaHZUVmMyV3RfZkJ6SzVlOExiTVhUUmNNNjFGa1UweWZyQTdQSl96eTh1MmhmbGhkWERyUE16UkVIQjRsYWRZOEhNakF0NE9WcGY3YU5HLWZWcWdTamdzdWU?oc=5)
 
 2026-04-03 <span class="news-indication-tag">MS</span>
@@ -92,11 +76,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Sex at arm’s length? Male octopuses use specialised arm to mate, scientists find - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUJtSXJTbUxaTmpiT0J3cVlETndXNnNNbno2ZnE3Ul9sYjBub0ZLdUMyUUk0WFBkdEFYRWwwVlVNNkh1MnRhd3J6NlIxWHhEby14ZEFNUmdJcVVkWVcwbTZUSVY0Ni1KR1NSbkhueFRyVWZXdDVDZTR3cGMxLTJhUWlfdEczSFBnWWFHbmM2ajhER2d5TGFiWg?oc=5)
+### [How extreme exercise can increase belly fat – and three other weight-loss mistakes you’re making - The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtRTmhnR2dsa05ITXQyOFV3dGl1dnIyTVdLd2d3VnBDYWlCbTUtQzJ6ODlKWGxoWnRjTmFob19WTjlqbnZiWVo3bU9GOE9veXB6Mk1nTnhRLUpaeEdPaUlXdWpKVW1sUjhad2JieVFXT25xLVQ3R1o2RWRMYlBEbkY3bw?oc=5)
 
-2026-04-03 <span class="news-indication-tag">MS</span>
+2026-04-03 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUJtSXJTbUxaTmpiT0J3cVlETndXNnNNbno2ZnE3Ul9sYjBub0ZLdUMyUUk0WFBkdEFYRWwwVlVNNkh1MnRhd3J6NlIxWHhEby14ZEFNUmdJcVVkWVcwbTZUSVY0Ni1KR1NSbkhueFRyVWZXdDVDZTR3cGMxLTJhUWlfdEczSFBnWWFHbmM2ajhER2d5TGFiWg?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtRTmhnR2dsa05ITXQyOFV3dGl1dnIyTVdLd2d3VnBDYWlCbTUtQzJ6ODlKWGxoWnRjTmFob19WTjlqbnZiWVo3bU9GOE9veXB6Mk1nTnhRLUpaeEdPaUlXdWpKVW1sUjhad2JieVFXT25xLVQ3R1o2RWRMYlBEbkY3bw?oc=5)
 
 ---
 

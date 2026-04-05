@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [La dieta del aguacate y mango, la mezcla que puede evitar un infarto o un ictus - El Nacional](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUtIdGNTN1ZBZVdqZTZWanpOcVgybGFRdUxjcElwZ3g1ZTh5N0pHM3lrSTRGY3NPd0RNOGg5cm1kWDAwRmFwSnhLTGdtM3RvRHE5UmREVUlKdHNQRURyNkpnUmlBY1lXaUhrVjhvZ3d3ZDR1aXhQTW14WWdldHo2bVpIZzY0Tkh5amVSaXBaaXpVQzZtekZ0SXhUel81VURFWjZuOW82NnpKeS11a0ViQ1IwNXk?oc=5)
+### [La guía de accidentes cerebrovasculares de EE.UU. recoge por primera vez el ictus pediátrico](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWRIVExCN2o5Umk4c3lFS0VZbDZwNk5TUUg2V1ZFYV9GYmdXVWR1OXRJWmpZeVhOSWRsUzVwcUw2clJPanVkQWl4ajMzT3RGT19ZNTQ5VWp2aXhLcHpuVnVIMlloV3VfNFdBSk9KLUo0X1hRUXpFVHZ1bFBUY1pEcl9XMlliOFNYaWdwZ0szRkFNemlnTWllQUp6T3pwLW14ZWxoQnhDNGJzN1VzN25qdXJDTVVyV2hNVHdHUHZ0aElpYjFUTWlCSnpucmY3V2RNcExHLWhn?oc=5)
 
-2026-04-04 <span class="news-indication-tag">ictus</span>
+2026-04-05 <span class="news-indication-tag">ictus</span>
 
-來源：[El Nacional](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUtIdGNTN1ZBZVdqZTZWanpOcVgybGFRdUxjcElwZ3g1ZTh5N0pHM3lrSTRGY3NPd0RNOGg5cm1kWDAwRmFwSnhLTGdtM3RvRHE5UmREVUlKdHNQRURyNkpnUmlBY1lXaUhrVjhvZ3d3ZDR1aXhQTW14WWdldHo2bVpIZzY0Tkh5amVSaXBaaXpVQzZtekZ0SXhUel81VURFWjZuOW82NnpKeS11a0ViQ1IwNXk?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWRIVExCN2o5Umk4c3lFS0VZbDZwNk5TUUg2V1ZFYV9GYmdXVWR1OXRJWmpZeVhOSWRsUzVwcUw2clJPanVkQWl4ajMzT3RGT19ZNTQ5VWp2aXhLcHpuVnVIMlloV3VfNFdBSk9KLUo0X1hRUXpFVHZ1bFBUY1pEcl9XMlliOFNYaWdwZ0szRkFNemlnTWllQUp6T3pwLW14ZWxoQnhDNGJzN1VzN25qdXJDTVVyV2hNVHdHUHZ0aElpYjFUTWlCSnpucmY3V2RNcExHLWhn?oc=5)
+
+---
+
+### [Doctor warns that one type of food is 'worse than smoking' for early death - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjhxa0c0WkZ1V0FZZURHeXZna1hGMTQzaS1qU3JGOENaMmhTUnAzMWlJcTRQR3IzZG1Mb0EyRUN1UDJsV0xmUVI5dTIxLUJYeFdIRHBsNUJFdWRxSEVhdDlWQklUU25nSmFoSnZ0dm1LUk9GcllqUXZTbDk4YldLcFBaZTd4d9IBiwFBVV95cUxPLU5NSkZ3WllfeF9SZ1lla2ZzWGpkWDZaR3JfS1FsUmVpWUUwMENGR0VTd0t6Nmt2VzJfcEN1c3AxN2lXNFJhT1lmZFprOGN3alE3alNaLVNTVEx4MHVyWXN6a0hvOC1WQVdYTEZCWTI4cWFaUkZnTGF3V1J6ZXhtYXE1RHlWYWlKcURv?oc=5)
+
+2026-04-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjhxa0c0WkZ1V0FZZURHeXZna1hGMTQzaS1qU3JGOENaMmhTUnAzMWlJcTRQR3IzZG1Mb0EyRUN1UDJsV0xmUVI5dTIxLUJYeFdIRHBsNUJFdWRxSEVhdDlWQklUU25nSmFoSnZ0dm1LUk9GcllqUXZTbDk4YldLcFBaZTd4d9IBiwFBVV95cUxPLU5NSkZ3WllfeF9SZ1lla2ZzWGpkWDZaR3JfS1FsUmVpWUUwMENGR0VTd0t6Nmt2VzJfcEN1c3AxN2lXNFJhT1lmZFprOGN3alE3alNaLVNTVEx4MHVyWXN6a0hvOC1WQVdYTEZCWTI4cWFaUkZnTGF3V1J6ZXhtYXE1RHlWYWlKcURv?oc=5)
 
 ---
 
@@ -56,7 +64,7 @@ permalink: /news/simvastatin/
 
 2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
 
 ---
 

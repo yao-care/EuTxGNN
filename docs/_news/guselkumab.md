@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Guselkumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Diabetes: Wenn der Blutzucker aus dem Gleichgewicht gerät, AkuRy GmbH, Story](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
+
+2026-04-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
+
+---
+
+### [How to cure psoriasis WITHOUT drugs: ETHAN ENNELS reveals the answers](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
+
+2026-04-05 <span class="news-indication-tag">psoriasis</span>
+
+來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
+
+---
 
 ### [Semaglutide Shows Surprising Mental Health Benefits in Massive 100,000-Person Study](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRm5za0t2NmpjVEVUODFVZUhvelZKWEh1M0xFMVJ2ZEg1emR4X1JEcXU2U0ZmSHFSTlNjaWhCX2R2akRlc3BLRy1TUk52ZHNwakw3bzVYVDBfZ29NNzhSSGhXSmNva0FCRXF3TV9uZ3RhMkxOY1F0NG9SdzJJU2Y2TTFrWXpMZFV1aDFtaE91STMwaDhoUjgyOFotZEc3bTU2dkVOZHBudnBIWkdT?oc=5)
 
@@ -52,11 +68,11 @@ permalink: /news/guselkumab/
 
 ---
 
-### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa - Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 2026-04-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
+來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 ---
 
@@ -65,14 +81,6 @@ permalink: /news/guselkumab/
 2026-04-03 <span class="news-indication-tag">psoriasis</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVng0YTNYSlJ3LTlQYW9oWUFCSTdjb280YTlTdGJwT1pJVmFKbVF1OVFTWlJUSENxMkw0ckdpY19LeWtqQzhral9YMmlCRlEtc1p1ZlJBNTVkOTR3anJNTGRkZ3FfUVBybExEeXJ5TDhWdFBrZWdSTXZ0OUpkMlFZNWlMc3pxLUJzbVBIR2F4TThjUjlMZWttVC1YMENnVEoyT2JfSURrTENYdG1CWjhHRkllcU1vcjdIOHpfOUhIZi1xYnk4TEhZWnExcG4xMl9L0gHWAUFVX3lxTE9OTTNxdDhxUmtkdF84Rmd6RHpRalRFWWVjbzRMcjF0T0hvQUJNTEE2Y0xIb0JabjJNU3pzOTQ3RWFjajFEc3NiOGU1VWhsRjBncXd2UFctWVJ5aWJGcHMtTzd2Wi1wWXVHRUd3VEhEcnRoUWF4Wkl6cWUyeHFISVpmXzJ1dVBBVHdua3ZDTVpXY21pTS1iNk95cXI0SlVMRTI5eENwRVNUMmdVRGpYVDNEVXo2UFpKcDhZTE9MbkUwSjdJbU8wODBPQ3BoY2xaNnVvay0tVlE?oc=5)
-
----
-
-### [Diabète de type 2 : grâce à l'IA, un dépistage simple rien qu'avec votre voix, pourrait voir le jour - Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
-
-2026-04-03 <span class="news-indication-tag">diabète</span>
-
-來源：[Pleine vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmthUC1uTjhrWUM5TGJnQnRMYmhLVW94dFhvMTMzN0xHZklKVlZ4YmNLME9fV3pkQzctYmFCckVaNVBMMkNCOEhCM3lHR3pTU0JqWnctNXJpbjhMQ18wNnRCUmRVSHo5ZThKdmtYSEVaWENLWUxhbUowa0FpN3hreVJLT1A5aHRSN1FEOTJhZnVnRUFqMUxXNDdXbjJFZlVrT2toSVhNakFkcUlFLWVpdkFid2dwNTRPa1loMHhOSVB4cE9HbmIycjlmV0wtNjFsYWJr?oc=5)
 
 ---
 

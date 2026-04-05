@@ -14,7 +14,7 @@ permalink: /news/talazoparib/
 ---
 
 <p class="key-answer" data-question="Talazoparib 有什麼相關新聞？">
-<strong>Talazoparib</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Talazoparib</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/talazoparib/
 <p><a href="{{ '/drugs/talazoparib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（16 則）
+
+### [L'oncologo Giuseppe Curigliano: «Per il paziente la speranza è un motore, non deve mai perderla. Contro il cancro ci sarà una cura, era un mio sogno già da piccolo»](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF0gHMAUFVX3lxTFBIaUFCVmRDRXlxeFVHQmFBTHQ1WloxaWVGQVZDeW8wT3dmRUJsV2ZBOXJZWHdKZ0sweFA3TW80QmFMNTlMbzJab1B1V3BCbzFPdzQ0OU9DWFFHazVrNU5OQzdBMW41TEI4YXFiTDNHa0hJdUhFbDhyaEdLd3p0SkxkaGYtWndmTDV1SDZ5UExRTWRGZ2F0dUVrTzdicFVMT2hXdWx2dGJGM0RUeFFlcG1KM29oR2hVMlhTVHB5YW9ya3Jkc1JSSldaYzZ4dA?oc=5)
+
+2026-04-05 <span class="news-indication-tag">cancro</span>
+
+來源：[corriere.it](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF0gHMAUFVX3lxTFBIaUFCVmRDRXlxeFVHQmFBTHQ1WloxaWVGQVZDeW8wT3dmRUJsV2ZBOXJZWHdKZ0sweFA3TW80QmFMNTlMbzJab1B1V3BCbzFPdzQ0OU9DWFFHazVrNU5OQzdBMW41TEI4YXFiTDNHa0hJdUhFbDhyaEdLd3p0SkxkaGYtWndmTDV1SDZ5UExRTWRGZ2F0dUVrTzdicFVMT2hXdWx2dGJGM0RUeFFlcG1KM29oR2hVMlhTVHB5YW9ya3Jkc1JSSldaYzZ4dA?oc=5)
+
+---
+
+### [Descubren cómo las células tumorales reprograman el cerebro para favorecer la metástasis](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1lMaGF3R3h4cDI2d3hqcWhpb3dqTFJOLVlXdHh2MWdwWTZ0SU03NkxZU3ozQ2FPZ19KS0FlbHFTSXpOY1REeU5hTkVyVF9FRUNteHhCMHpCZTR1XzZvZDdHdTg4WGNubFBZVDZhVHl5TDhjS05mblZCcEk0NWc4ZndHcVVTRnh6b2dLWjE3bnByc1ZVTTJXVUEzelI1V1dtMzZrRVlxeWZqV2J5WTh6OUo1V3RGcU14?oc=5)
+
+2026-04-05 <span class="news-indication-tag">tumor</span>
+
+來源：[65ymas.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1lMaGF3R3h4cDI2d3hqcWhpb3dqTFJOLVlXdHh2MWdwWTZ0SU03NkxZU3ozQ2FPZ19KS0FlbHFTSXpOY1REeU5hTkVyVF9FRUNteHhCMHpCZTR1XzZvZDdHdTg4WGNubFBZVDZhVHl5TDhjS05mblZCcEk0NWc4ZndHcVVTRnh6b2dLWjE3bnByc1ZVTTJXVUEzelI1V1dtMzZrRVlxeWZqV2J5WTh6OUo1V3RGcU14?oc=5)
+
+---
+
+### [Why deadly bowel cancer's striking young and peri-menopausal women](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
+
+2026-04-05 <span class="news-indication-tag">cancer</span>
+
+來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
+
+---
 
 ### ['My life was turned upside down after devastating diagnosis in my 40s' - Belfast Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQVE3SDJOVzNaRGhmVkNFTS1QNkhJUDVDUUtHNi1tSGo4NUtRUlZOSmJRaEJDTU9GWWktb1dLR0syMXR4dkZ4cHBjbXZRb1ZwRVJsQy1nMW43aUFMdldJLXh2Rm4tbXlZRFkyNktFTkxPUzBQQVk3d2VfRkZJbEdwZ1BSMXBPVDRtWEQtanJVck3SAZYBQVVfeXFMT25maFlJcDV2MklkWkg0ZDZBRmZiT1pTT2x2MW0xazROY25QZWxyUDZ5Z2s5bFBQSExNZ3pkejRSaUlxMnpuY1JmZlZhZ2VuTUctOE1hWmFOSnFEbnlQUlR0NWwxamlqNExHd3ZXNjE3anZNck5Sc3hRaU9nd2VuQXYzMlFzNU9Sa1JFdkVJMDYtREtQOC13?oc=5)
 
@@ -52,11 +76,19 @@ permalink: /news/talazoparib/
 
 ---
 
+### [« Une femme sur deux ne se fait pas dépister » : entretien avec Yann Baudoux, président d’Action Cancer 47 - Sud Ouest](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaThuZmNUendROEVFQ3haaFRjaHZUajFVRU1MQW1Zczg1MDZnSEgwRDI5UmVVTndEYmZZWDRYNkdJSzBRX0poYjl1SGVsWDRsX0VveUpJUFAxQzVuZko1dWlXT1lSbDJ0ZHZXX2RHVk9NSmI3cWRzSUV6RklxUDRoOVZZc09yU2RPdTRCVlJfWFpzYVV3a29EbUtCOWhFYWRzd2tFZWNFWmt3bFBzc0p4cEJEZnpuRWNKaFZVZnVsdjZrSWZCXzg2MzRPRlBhQm9SRGwtdU9VQjNnb0l3dk5JbWFnQWN2UHM5M1FYeQ?oc=5)
+
+2026-04-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaThuZmNUendROEVFQ3haaFRjaHZUajFVRU1MQW1Zczg1MDZnSEgwRDI5UmVVTndEYmZZWDRYNkdJSzBRX0poYjl1SGVsWDRsX0VveUpJUFAxQzVuZko1dWlXT1lSbDJ0ZHZXX2RHVk9NSmI3cWRzSUV6RklxUDRoOVZZc09yU2RPdTRCVlJfWFpzYVV3a29EbUtCOWhFYWRzd2tFZWNFWmt3bFBzc0p4cEJEZnpuRWNKaFZVZnVsdjZrSWZCXzg2MzRPRlBhQm9SRGwtdU9VQjNnb0l3dk5JbWFnQWN2UHM5M1FYeQ?oc=5)
+
+---
+
 ### [Urología detecta todavía tumores que se relacionan con químicos del calzado en Elche](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZhbkVtN09ZQ0dMRnlVdGUyRXRuWWJoTXB2NVFZQjM0UFAxVmpxSktjRnd0ZWQ1R3dTRVJqNFFUY0xMUVpDQ01IUU1xMll2QnFuV2d2Tk9LLUVRYkZ0UE5NTWptMndHMjNCMGI0dENzSGJsZmFqTHZlcXNOSlJaTHVjYWRwQlpYOFZ3aWU3dGRwYTlXZnI3OWgyYzFUQkJJbzNlTjhXakR0dlnSAbABQVVfeXFMUHROTmtNRVlkQmJZWGhzU2FScWxwcFk5NUtXRWRzamw2MWFiVDRZRjRBQjRTMXVpaDAyLXkwbUppNnFfOXVrcm0xTUxPdnBSUmxtdjRWNVE1YW9xNFc1bUQ1d01FNVRVRF83MEhOOVRBeE9FdHUwdmNOZlRycVZLRXJSVVRibkJ5OTJlRklNRkFGVy1zc0dZOUh1bHdNOG5pZUMyS20wVlVGbDZxVlZneEY?oc=5)
 
 2026-04-04 <span class="news-indication-tag">tumor</span>
 
-來源：[informacion.es](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZhbkVtN09ZQ0dMRnlVdGUyRXRuWWJoTXB2NVFZQjM0UFAxVmpxSktjRnd0ZWQ1R3dTRVJqNFFUY0xMUVpDQ01IUU1xMll2QnFuV2d2Tk9LLUVRYkZ0UE5NTWptMndHMjNCMGI0dENzSGJsZmFqTHZlcXNOSlJaTHVjYWRwQlpYOFZ3aWU3dGRwYTlXZnI3OWgyYzFUQkJJbzNlTjhXakR0dlnSAbABQVVfeXFMUHROTmtNRVlkQmJZWGhzU2FScWxwcFk5NUtXRWRzamw2MWFiVDRZRjRBQjRTMXVpaDAyLXkwbUppNnFfOXVrcm0xTUxPdnBSUmxtdjRWNVE1YW9xNFc1bUQ1d01FNVRVRF83MEhOOVRBeE9FdHUwdmNOZlRycVZLRXJSVVRibkJ5OTJlRklNRkFGVy1zc0dZOUh1bHdNOG5pZUMyS20wVlVGbDZxVlZneEY?oc=5)
+來源：[INFORMACION](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZhbkVtN09ZQ0dMRnlVdGUyRXRuWWJoTXB2NVFZQjM0UFAxVmpxSktjRnd0ZWQ1R3dTRVJqNFFUY0xMUVpDQ01IUU1xMll2QnFuV2d2Tk9LLUVRYkZ0UE5NTWptMndHMjNCMGI0dENzSGJsZmFqTHZlcXNOSlJaTHVjYWRwQlpYOFZ3aWU3dGRwYTlXZnI3OWgyYzFUQkJJbzNlTjhXakR0dlnSAbABQVVfeXFMUHROTmtNRVlkQmJZWGhzU2FScWxwcFk5NUtXRWRzamw2MWFiVDRZRjRBQjRTMXVpaDAyLXkwbUppNnFfOXVrcm0xTUxPdnBSUmxtdjRWNVE1YW9xNFc1bUQ1d01FNVRVRF83MEhOOVRBeE9FdHUwdmNOZlRycVZLRXJSVVRibkJ5OTJlRklNRkFGVy1zc0dZOUh1bHdNOG5pZUMyS20wVlVGbDZxVlZneEY?oc=5)
 
 ---
 
@@ -68,19 +100,11 @@ permalink: /news/talazoparib/
 
 ---
 
-### [Y avait-il vraiment moins de cancers avant la révolution industrielle ? - National Geographic](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX3BkYUZqdS15NE56MEpqbkpiZExWYktLOTZvenV2d2NjajlicVludTJjUXhlZEtvd3ktTVNkb3VvclZkdU9NalN3ZWIzUlBiNVhyM3c3azVnbFhSM0l0MDN5dVFOLTBTOTlwU3o1SkZLaG1zV2RIeS13c3BPZ1NHSzVteUQwOFRKWE5TRXZyMFdraVEybUxfaGZsMmZEY3Y3Y2JJWVh4c0l6ZVkxSEVBWmpwbkFsLUlGLVhqeTVHWXNGV01ZdnJqOVhudll4RXhn?oc=5)
+### [Pourquoi de plus en plus de non-fumeurs développent un cancer du poumon : 3 causes que personne ne surveille](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
 
 2026-04-04 <span class="news-indication-tag">cancer</span>
 
-來源：[National Geographic](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX3BkYUZqdS15NE56MEpqbkpiZExWYktLOTZvenV2d2NjajlicVludTJjUXhlZEtvd3ktTVNkb3VvclZkdU9NalN3ZWIzUlBiNVhyM3c3azVnbFhSM0l0MDN5dVFOLTBTOTlwU3o1SkZLaG1zV2RIeS13c3BPZ1NHSzVteUQwOFRKWE5TRXZyMFdraVEybUxfaGZsMmZEY3Y3Y2JJWVh4c0l6ZVkxSEVBWmpwbkFsLUlGLVhqeTVHWXNGV01ZdnJqOVhudll4RXhn?oc=5)
-
----
-
-### [Pourquoi de plus en plus de non-fumeurs développent un cancer du poumon : 3 causes que personne ne surveille - Social Mag](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
-
-2026-04-04 <span class="news-indication-tag">cancer</span>
-
-來源：[Social Mag](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
+來源：[socialmag.news](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9xWWN6XzJVZEViVl9qamk3eW1HTXhncEhuYlU4bjlHRW0wb2M2RmszaWNwSWpISUFEVVNTMEo5bVlxXzFfVUR1YmdrRDNfcUJqcnJUbWlsdFZhU0ZkbmFZYUtlOUY3TzNENU01U3pnUDR4LXZZMHJveTFSZVh3OEFweGRMZi1qai1ubDZtbVJkYmpDaDRkWG1mN09KY2h2OFUyZTFZUlB2Yno5d2tQb1FkaHNWWUNKOU5qd0Nnb1hidEY2QmpqZVN4QmtEeHZzRHphWHJ0ZEktMWR2THc?oc=5)
 
 ---
 
@@ -116,11 +140,11 @@ permalink: /news/talazoparib/
 
 ---
 
-### [Votre chat pourrait devenir un allié inattendu dans la lutte contre le cancer, selon une étude](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDcwUzNOYXlaV3ZNZUJvbTlZdHp5UU1rQ1JlSGgwMGR0U0w3TE1neVViOUctWURrTFA4cVFuRl9kOHI4QVUwUExkeDJtaGM2U0FjV19qRTMtZ2lBQWV1T0Vnb2pXT3FuUzl6WVBINmZuSHU1bE1Cc3Y3cVR5S09Ma2JQOGs3UEFvcUVIUFl4clMwV3c2V21tVmRVbkpCUlVlTVVIeEtzR1hjRHRYRmMzVkNqQ1ZTNWx4MGtkTWhkdlZEaGtVa29EdG82aEd6Z3VUd3BJ?oc=5)
+### [Votre chat pourrait devenir un allié inattendu dans la lutte contre le cancer, selon une étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDcwUzNOYXlaV3ZNZUJvbTlZdHp5UU1rQ1JlSGgwMGR0U0w3TE1neVViOUctWURrTFA4cVFuRl9kOHI4QVUwUExkeDJtaGM2U0FjV19qRTMtZ2lBQWV1T0Vnb2pXT3FuUzl6WVBINmZuSHU1bE1Cc3Y3cVR5S09Ma2JQOGs3UEFvcUVIUFl4clMwV3c2V21tVmRVbkpCUlVlTVVIeEtzR1hjRHRYRmMzVkNqQ1ZTNWx4MGtkTWhkdlZEaGtVa29EdG82aEd6Z3VUd3BJ?oc=5)
 
 2026-04-03 <span class="news-indication-tag">cancer</span>
 
-來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDcwUzNOYXlaV3ZNZUJvbTlZdHp5UU1rQ1JlSGgwMGR0U0w3TE1neVViOUctWURrTFA4cVFuRl9kOHI4QVUwUExkeDJtaGM2U0FjV19qRTMtZ2lBQWV1T0Vnb2pXT3FuUzl6WVBINmZuSHU1bE1Cc3Y3cVR5S09Ma2JQOGs3UEFvcUVIUFl4clMwV3c2V21tVmRVbkpCUlVlTVVIeEtzR1hjRHRYRmMzVkNqQ1ZTNWx4MGtkTWhkdlZEaGtVa29EdG82aEd6Z3VUd3BJ?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDcwUzNOYXlaV3ZNZUJvbTlZdHp5UU1rQ1JlSGgwMGR0U0w3TE1neVViOUctWURrTFA4cVFuRl9kOHI4QVUwUExkeDJtaGM2U0FjV19qRTMtZ2lBQWV1T0Vnb2pXT3FuUzl6WVBINmZuSHU1bE1Cc3Y3cVR5S09Ma2JQOGs3UEFvcUVIUFl4clMwV3c2V21tVmRVbkpCUlVlTVVIeEtzR1hjRHRYRmMzVkNqQ1ZTNWx4MGtkTWhkdlZEaGtVa29EdG82aEd6Z3VUd3BJ?oc=5)
 
 ---
 
@@ -129,22 +153,6 @@ permalink: /news/talazoparib/
 2026-04-03 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
 
 來源：[repubblica.it](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
-
----
-
-### [Pesticides et cancer : une étude majeure met en évidence des liens inquiétants](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
-
-2026-04-03 <span class="news-indication-tag">cancer</span>
-
-來源：[bonpote.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBJcjVDc0NFRy1KWUQ1XzBNNk1GdHhWcDIzZTJzRnlNbXZhQXkyM3pnODBvVHVHYTlxQmIwcUJ6MkVHUExtVnBCMDNuczFBVndteEVjZmt5WDREQ3luVHRBM1ZJblI4ejVDNkxiLVZxaS1UcWpjeTVIZzB2TkJsTkwtRHJTanNCVEtpM0Rvb3VjV0NqSDRRakdWTThqdw?oc=5)
-
----
-
-### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3JlV3FTQmwwQVdqYUF5VUFSRnZXT21GUGJrdmpaVTVBZjkyYVpHc1I1b29GU2xrVzlCRHgxclg3N1pVWDcxZGo2LWxrZFRhSWl2YlJDYXd5bDV5U1gxZGRUN1lRcDU1bWVFN2N2MHRPTE5JN3lCSXV3Qy1oZ3NvS0JZU2pySi1RRjFZbS1nSldzYlRVRllSOGNBM3RQSkw4UzZ4OXFabHZIRktDUjJvb3pmcnI2UmtNY3VJ?oc=5)
-
-2026-04-03 <span class="news-indication-tag">Krebs</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3JlV3FTQmwwQVdqYUF5VUFSRnZXT21GUGJrdmpaVTVBZjkyYVpHc1I1b29GU2xrVzlCRHgxclg3N1pVWDcxZGo2LWxrZFRhSWl2YlJDYXd5bDV5U1gxZGRUN1lRcDU1bWVFN2N2MHRPTE5JN3lCSXV3Qy1oZ3NvS0JZU2pySi1RRjFZbS1nSldzYlRVRllSOGNBM3RQSkw4UzZ4OXFabHZIRktDUjJvb3pmcnI2UmtNY3VJ?oc=5)
 
 ---
 

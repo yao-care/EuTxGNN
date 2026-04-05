@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Naltrexone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [El 80% de los pacientes que se someten a cirugía de obesidad en Castellón son mujeres - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSXdCYklOaTFQQlZjOG5PU2wzMnRLRmEtM2RVc2hmWWhGaXVDOEN3S0NFc1Jwb0p1WTJ5Zy1FLW9UeW1wU2NjUmJfRk1xNFVIempwRUd2VC1PWHJKLU9xRlBfb0FxdkRhT0d0MUp2dDBYLVAtSEJ0YkxaV2dNdVRCZnRwSW15OXVkT1FrTE92MmoxWUtCYnR6OTR5MWFDSGdGaTFYYXN3dl83NnpNc2NZdmhUX3VDbDlla2ZBUXZiSHZ6aGlrbnE0VmI4RnJwbFZyUGFWVi15OFNnNl9JN2xsV3RqWkdwNDJO0gHuAUFVX3lxTE05VW9mQkpqM0taNzVYLTNORDBLYXFZU3NBQ3JrLVJ6cnpXOW9QMkMzVVlkWmc1VEpEUElONFE5a2VzSmpCWVlGSExkaHMzOW1LNThIaXZ1UW1BeW1lQlVnRlRBRWo5VXhfbDFUMnhzLXdYMFIyX1oxTmJkYzFhMzBWX29fNnZQNXNuUDQ3X29KSG4yVkNiaDBhb0gwdGVaUGdpN3BGbGQ4Q2VSUklIdmc3YTNtekk4cEt0NmRxZlJRV1F5NUI2aUZKVnhPYUJHSUdpWnp4ZmFfclo4WEp3VmgweS1raUNGcDZ6MS1zdXc?oc=5)
+
+2026-04-05 <span class="news-indication-tag">obesidad</span>
+
+來源：[El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSXdCYklOaTFQQlZjOG5PU2wzMnRLRmEtM2RVc2hmWWhGaXVDOEN3S0NFc1Jwb0p1WTJ5Zy1FLW9UeW1wU2NjUmJfRk1xNFVIempwRUd2VC1PWHJKLU9xRlBfb0FxdkRhT0d0MUp2dDBYLVAtSEJ0YkxaV2dNdVRCZnRwSW15OXVkT1FrTE92MmoxWUtCYnR6OTR5MWFDSGdGaTFYYXN3dl83NnpNc2NZdmhUX3VDbDlla2ZBUXZiSHZ6aGlrbnE0VmI4RnJwbFZyUGFWVi15OFNnNl9JN2xsV3RqWkdwNDJO0gHuAUFVX3lxTE05VW9mQkpqM0taNzVYLTNORDBLYXFZU3NBQ3JrLVJ6cnpXOW9QMkMzVVlkWmc1VEpEUElONFE5a2VzSmpCWVlGSExkaHMzOW1LNThIaXZ1UW1BeW1lQlVnRlRBRWo5VXhfbDFUMnhzLXdYMFIyX1oxTmJkYzFhMzBWX29fNnZQNXNuUDQ3X29KSG4yVkNiaDBhb0gwdGVaUGdpN3BGbGQ4Q2VSUklIdmc3YTNtekk4cEt0NmRxZlJRV1F5NUI2aUZKVnhPYUJHSUdpWnp4ZmFfclo4WEp3VmgweS1raUNGcDZ6MS1zdXc?oc=5)
+
+---
+
+### [Paula Mariño: “Estamos detectando más obesidad en población muy joven y un incremento en niños”](https://news.google.com/rss/articles/CBMipgFBVV95cUxPN01iMTd2TVBMYU10eXlDZmJOenFOT24tT2tSLVEwNmdmcV80YldkTlVBckhyaXd6ZkVwODJ2blRDU2xrMEFEVHhCcmVlTkFfQkg5Y1lHaVN0WTdlT25pY0F1Wm1fX2N6M3haM0JMUUdfTHZHQTdjSnV0U2UtUWxVV1dHeEo1V2JlNl9KMlVhYmxxb0tjVkN3UTZ2RkJudXBKNnBDY3lB?oc=5)
+
+2026-04-05 <span class="news-indication-tag">obesidad</span>
+
+來源：[Atlántico](https://news.google.com/rss/articles/CBMipgFBVV95cUxPN01iMTd2TVBMYU10eXlDZmJOenFOT24tT2tSLVEwNmdmcV80YldkTlVBckhyaXd6ZkVwODJ2blRDU2xrMEFEVHhCcmVlTkFfQkg5Y1lHaVN0WTdlT25pY0F1Wm1fX2N6M3haM0JMUUdfTHZHQTdjSnV0U2UtUWxVV1dHeEo1V2JlNl9KMlVhYmxxb0tjVkN3UTZ2RkJudXBKNnBDY3lB?oc=5)
+
+---
 
 ### [Un estudio demuestra que la obesidad no siempre está ligada a comer más, sino a comer peor](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
 
 2026-04-04 <span class="news-indication-tag">obesidad</span>
 
 來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
-
----
-
-### [Los genéricos abren la pugna por un hueco en el mercado de la obesidad - El Economista](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjRTOFdGd0pOcTZsd0NLYU4tZE9tTU1BeC1SdXFfd0tCaFhMTmc0X2xMbXlIaFZITWlTZmwxdEkzQWxIUU1ybEwta2tSZXJjYzZyVy1DdU1iRXMxNjNjc2NYbG5MZ3Raa3RwdjV3djd6Nm1aT1B4VDhhVTltZmdadUx0SlR5cXhYeVdXakVxSTZLRW1UYmJET0JzUm94blFBX2FfZkhwWjI3Q1FacUNJRmpBclJaSjE3NklRdkdnTTNiV0lZZ05jN211R21oLVRISUVwSHU5OEVKRzjSAcYBQVVfeXFMT193eGtrbEk1cHlqbHNCSjBEQTNvb2JJSXZWeGVFeUdOUFVkUU9naUhlTGdncnM3akZsRDBZTHJ4MVdLQTNMblRUOHRRMFZEdGRnYU9xOVJjendfMDNoSzNTNUhORklMTVFTbXFvNXluMklZNlpvTlpVdGtjNko4NVhnZk9sR3YzMXJfUFJKU0FKNTVxY3dDa1pFeWNCRVFXbjVUSGhLcE92Y1BQVmhzOU00X2NsdGZyRVZkQzVTZVU4SmdMUmd3?oc=5)
-
-2026-04-04 <span class="news-indication-tag">obesidad</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjRTOFdGd0pOcTZsd0NLYU4tZE9tTU1BeC1SdXFfd0tCaFhMTmc0X2xMbXlIaFZITWlTZmwxdEkzQWxIUU1ybEwta2tSZXJjYzZyVy1DdU1iRXMxNjNjc2NYbG5MZ3Raa3RwdjV3djd6Nm1aT1B4VDhhVTltZmdadUx0SlR5cXhYeVdXakVxSTZLRW1UYmJET0JzUm94blFBX2FfZkhwWjI3Q1FacUNJRmpBclJaSjE3NklRdkdnTTNiV0lZZ05jN211R21oLVRISUVwSHU5OEVKRzjSAcYBQVVfeXFMT193eGtrbEk1cHlqbHNCSjBEQTNvb2JJSXZWeGVFeUdOUFVkUU9naUhlTGdncnM3akZsRDBZTHJ4MVdLQTNMblRUOHRRMFZEdGRnYU9xOVJjendfMDNoSzNTNUhORklMTVFTbXFvNXluMklZNlpvTlpVdGtjNko4NVhnZk9sR3YzMXJfUFJKU0FKNTVxY3dDa1pFeWNCRVFXbjVUSGhLcE92Y1BQVmhzOU00X2NsdGZyRVZkQzVTZVU4SmdMUmd3?oc=5)
 
 ---
 
@@ -73,6 +81,14 @@ permalink: /news/naltrexone/
 2026-04-03 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">obesità</span>
 
 來源：[repubblica.it](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRzbkdveGQ2M3pDMDNsdnExS1lOZXZNUndUUnNtNER6S0ZzWUdQczZ4bmZHZ3hERXltWFVZWlF4ZU41WnNNVnZsWEFNWUI2TWZaZjNnT0hxUDFCYUNNdnRKX2s5dS1YODgtSjVwTVZmcTNUQVl5UU5lOUg2R24zNDVXVkpUZHdJVHM0NDRlRTRYWjFsd2tPSUJnWi1YR2hkUXJWVFRvZFBRUDVWeVl6am9SdHRrQVdCaEFSd3FUakPSAcYBQVVfeXFMT1NWOXVTLTZIVUZEWWtvalZmVEw2VzV4dDdfai1PeEJwS09WZjJqRTVrRUVzVzB3MTZqLVFWZmRoZEFjN1Q5YkdqYkNuSld3YjZtRm9TeFRvWlZuMHdxSVRqVVFzS2dfUlVyd1FRNkIyc3l0b3hadjlRVS1fZUxSWW5DdFloWjl4TV93aEp4LXJodjJkX0VVWWgxd2FRdVpSU3BhaGp0UDFmeEpjTmdHX1E1ek50MENaZldXanpobVl1VVk1SzNB?oc=5)
+
+---
+
+### [How extreme exercise can increase belly fat – and three other weight-loss mistakes you’re making - The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtRTmhnR2dsa05ITXQyOFV3dGl1dnIyTVdLd2d3VnBDYWlCbTUtQzJ6ODlKWGxoWnRjTmFob19WTjlqbnZiWVo3bU9GOE9veXB6Mk1nTnhRLUpaeEdPaUlXdWpKVW1sUjhad2JieVFXT25xLVQ3R1o2RWRMYlBEbkY3bw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtRTmhnR2dsa05ITXQyOFV3dGl1dnIyTVdLd2d3VnBDYWlCbTUtQzJ6ODlKWGxoWnRjTmFob19WTjlqbnZiWVo3bU9GOE9veXB6Mk1nTnhRLUpaeEdPaUlXdWpKVW1sUjhad2JieVFXT25xLVQ3R1o2RWRMYlBEbkY3bw?oc=5)
 
 ---
 

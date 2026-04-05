@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（13 則）
 
-### [La dieta del aguacate y mango, la mezcla que puede evitar un infarto o un ictus - El Nacional](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUtIdGNTN1ZBZVdqZTZWanpOcVgybGFRdUxjcElwZ3g1ZTh5N0pHM3lrSTRGY3NPd0RNOGg5cm1kWDAwRmFwSnhLTGdtM3RvRHE5UmREVUlKdHNQRURyNkpnUmlBY1lXaUhrVjhvZ3d3ZDR1aXhQTW14WWdldHo2bVpIZzY0Tkh5amVSaXBaaXpVQzZtekZ0SXhUel81VURFWjZuOW82NnpKeS11a0ViQ1IwNXk?oc=5)
+### [La guía de accidentes cerebrovasculares de EE.UU. recoge por primera vez el ictus pediátrico](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWRIVExCN2o5Umk4c3lFS0VZbDZwNk5TUUg2V1ZFYV9GYmdXVWR1OXRJWmpZeVhOSWRsUzVwcUw2clJPanVkQWl4ajMzT3RGT19ZNTQ5VWp2aXhLcHpuVnVIMlloV3VfNFdBSk9KLUo0X1hRUXpFVHZ1bFBUY1pEcl9XMlliOFNYaWdwZ0szRkFNemlnTWllQUp6T3pwLW14ZWxoQnhDNGJzN1VzN25qdXJDTVVyV2hNVHdHUHZ0aElpYjFUTWlCSnpucmY3V2RNcExHLWhn?oc=5)
 
-2026-04-04 <span class="news-indication-tag">ictus</span>
+2026-04-05 <span class="news-indication-tag">ictus</span>
 
-來源：[El Nacional](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUtIdGNTN1ZBZVdqZTZWanpOcVgybGFRdUxjcElwZ3g1ZTh5N0pHM3lrSTRGY3NPd0RNOGg5cm1kWDAwRmFwSnhLTGdtM3RvRHE5UmREVUlKdHNQRURyNkpnUmlBY1lXaUhrVjhvZ3d3ZDR1aXhQTW14WWdldHo2bVpIZzY0Tkh5amVSaXBaaXpVQzZtekZ0SXhUel81VURFWjZuOW82NnpKeS11a0ViQ1IwNXk?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWRIVExCN2o5Umk4c3lFS0VZbDZwNk5TUUg2V1ZFYV9GYmdXVWR1OXRJWmpZeVhOSWRsUzVwcUw2clJPanVkQWl4ajMzT3RGT19ZNTQ5VWp2aXhLcHpuVnVIMlloV3VfNFdBSk9KLUo0X1hRUXpFVHZ1bFBUY1pEcl9XMlliOFNYaWdwZ0szRkFNemlnTWllQUp6T3pwLW14ZWxoQnhDNGJzN1VzN25qdXJDTVVyV2hNVHdHUHZ0aElpYjFUTWlCSnpucmY3V2RNcExHLWhn?oc=5)
+
+---
+
+### [El 80% de los pacientes que se someten a cirugía de obesidad en Castellón son mujeres - El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSXdCYklOaTFQQlZjOG5PU2wzMnRLRmEtM2RVc2hmWWhGaXVDOEN3S0NFc1Jwb0p1WTJ5Zy1FLW9UeW1wU2NjUmJfRk1xNFVIempwRUd2VC1PWHJKLU9xRlBfb0FxdkRhT0d0MUp2dDBYLVAtSEJ0YkxaV2dNdVRCZnRwSW15OXVkT1FrTE92MmoxWUtCYnR6OTR5MWFDSGdGaTFYYXN3dl83NnpNc2NZdmhUX3VDbDlla2ZBUXZiSHZ6aGlrbnE0VmI4RnJwbFZyUGFWVi15OFNnNl9JN2xsV3RqWkdwNDJO0gHuAUFVX3lxTE05VW9mQkpqM0taNzVYLTNORDBLYXFZU3NBQ3JrLVJ6cnpXOW9QMkMzVVlkWmc1VEpEUElONFE5a2VzSmpCWVlGSExkaHMzOW1LNThIaXZ1UW1BeW1lQlVnRlRBRWo5VXhfbDFUMnhzLXdYMFIyX1oxTmJkYzFhMzBWX29fNnZQNXNuUDQ3X29KSG4yVkNiaDBhb0gwdGVaUGdpN3BGbGQ4Q2VSUklIdmc3YTNtekk4cEt0NmRxZlJRV1F5NUI2aUZKVnhPYUJHSUdpWnp4ZmFfclo4WEp3VmgweS1raUNGcDZ6MS1zdXc?oc=5)
+
+2026-04-05 <span class="news-indication-tag">obesidad</span>
+
+來源：[El Periódico Mediterráneo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSXdCYklOaTFQQlZjOG5PU2wzMnRLRmEtM2RVc2hmWWhGaXVDOEN3S0NFc1Jwb0p1WTJ5Zy1FLW9UeW1wU2NjUmJfRk1xNFVIempwRUd2VC1PWHJKLU9xRlBfb0FxdkRhT0d0MUp2dDBYLVAtSEJ0YkxaV2dNdVRCZnRwSW15OXVkT1FrTE92MmoxWUtCYnR6OTR5MWFDSGdGaTFYYXN3dl83NnpNc2NZdmhUX3VDbDlla2ZBUXZiSHZ6aGlrbnE0VmI4RnJwbFZyUGFWVi15OFNnNl9JN2xsV3RqWkdwNDJO0gHuAUFVX3lxTE05VW9mQkpqM0taNzVYLTNORDBLYXFZU3NBQ3JrLVJ6cnpXOW9QMkMzVVlkWmc1VEpEUElONFE5a2VzSmpCWVlGSExkaHMzOW1LNThIaXZ1UW1BeW1lQlVnRlRBRWo5VXhfbDFUMnhzLXdYMFIyX1oxTmJkYzFhMzBWX29fNnZQNXNuUDQ3X29KSG4yVkNiaDBhb0gwdGVaUGdpN3BGbGQ4Q2VSUklIdmc3YTNtekk4cEt0NmRxZlJRV1F5NUI2aUZKVnhPYUJHSUdpWnp4ZmFfclo4WEp3VmgweS1raUNGcDZ6MS1zdXc?oc=5)
+
+---
+
+### [Paula Mariño: “Estamos detectando más obesidad en población muy joven y un incremento en niños”](https://news.google.com/rss/articles/CBMipgFBVV95cUxPN01iMTd2TVBMYU10eXlDZmJOenFOT24tT2tSLVEwNmdmcV80YldkTlVBckhyaXd6ZkVwODJ2blRDU2xrMEFEVHhCcmVlTkFfQkg5Y1lHaVN0WTdlT25pY0F1Wm1fX2N6M3haM0JMUUdfTHZHQTdjSnV0U2UtUWxVV1dHeEo1V2JlNl9KMlVhYmxxb0tjVkN3UTZ2RkJudXBKNnBDY3lB?oc=5)
+
+2026-04-05 <span class="news-indication-tag">obesidad</span>
+
+來源：[Atlántico](https://news.google.com/rss/articles/CBMipgFBVV95cUxPN01iMTd2TVBMYU10eXlDZmJOenFOT24tT2tSLVEwNmdmcV80YldkTlVBckhyaXd6ZkVwODJ2blRDU2xrMEFEVHhCcmVlTkFfQkg5Y1lHaVN0WTdlT25pY0F1Wm1fX2N6M3haM0JMUUdfTHZHQTdjSnV0U2UtUWxVV1dHeEo1V2JlNl9KMlVhYmxxb0tjVkN3UTZ2RkJudXBKNnBDY3lB?oc=5)
 
 ---
 
@@ -60,19 +76,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Doctor warns that one type of food is 'worse than smoking' for early death - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjhxa0c0WkZ1V0FZZURHeXZna1hGMTQzaS1qU3JGOENaMmhTUnAzMWlJcTRQR3IzZG1Mb0EyRUN1UDJsV0xmUVI5dTIxLUJYeFdIRHBsNUJFdWRxSEVhdDlWQklUU25nSmFoSnZ0dm1LUk9GcllqUXZTbDk4YldLcFBaZTd4d9IBiwFBVV95cUxPLU5NSkZ3WllfeF9SZ1lla2ZzWGpkWDZaR3JfS1FsUmVpWUUwMENGR0VTd0t6Nmt2VzJfcEN1c3AxN2lXNFJhT1lmZFprOGN3alE3alNaLVNTVEx4MHVyWXN6a0hvOC1WQVdYTEZCWTI4cWFaUkZnTGF3V1J6ZXhtYXE1RHlWYWlKcURv?oc=5)
+
+2026-04-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjhxa0c0WkZ1V0FZZURHeXZna1hGMTQzaS1qU3JGOENaMmhTUnAzMWlJcTRQR3IzZG1Mb0EyRUN1UDJsV0xmUVI5dTIxLUJYeFdIRHBsNUJFdWRxSEVhdDlWQklUU25nSmFoSnZ0dm1LUk9GcllqUXZTbDk4YldLcFBaZTd4d9IBiwFBVV95cUxPLU5NSkZ3WllfeF9SZ1lla2ZzWGpkWDZaR3JfS1FsUmVpWUUwMENGR0VTd0t6Nmt2VzJfcEN1c3AxN2lXNFJhT1lmZFprOGN3alE3alNaLVNTVEx4MHVyWXN6a0hvOC1WQVdYTEZCWTI4cWFaUkZnTGF3V1J6ZXhtYXE1RHlWYWlKcURv?oc=5)
+
+---
+
 ### [Un nuevo método para controlar la hipertensión logra evitar ictus y muertes: así funciona el sistema que ya salva vidas](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
 
 2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
-
----
-
-### [Los genéricos abren la pugna por un hueco en el mercado de la obesidad - El Economista](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjRTOFdGd0pOcTZsd0NLYU4tZE9tTU1BeC1SdXFfd0tCaFhMTmc0X2xMbXlIaFZITWlTZmwxdEkzQWxIUU1ybEwta2tSZXJjYzZyVy1DdU1iRXMxNjNjc2NYbG5MZ3Raa3RwdjV3djd6Nm1aT1B4VDhhVTltZmdadUx0SlR5cXhYeVdXakVxSTZLRW1UYmJET0JzUm94blFBX2FfZkhwWjI3Q1FacUNJRmpBclJaSjE3NklRdkdnTTNiV0lZZ05jN211R21oLVRISUVwSHU5OEVKRzjSAcYBQVVfeXFMT193eGtrbEk1cHlqbHNCSjBEQTNvb2JJSXZWeGVFeUdOUFVkUU9naUhlTGdncnM3akZsRDBZTHJ4MVdLQTNMblRUOHRRMFZEdGRnYU9xOVJjendfMDNoSzNTNUhORklMTVFTbXFvNXluMklZNlpvTlpVdGtjNko4NVhnZk9sR3YzMXJfUFJKU0FKNTVxY3dDa1pFeWNCRVFXbjVUSGhLcE92Y1BQVmhzOU00X2NsdGZyRVZkQzVTZVU4SmdMUmd3?oc=5)
-
-2026-04-04 <span class="news-indication-tag">obesidad</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjRTOFdGd0pOcTZsd0NLYU4tZE9tTU1BeC1SdXFfd0tCaFhMTmc0X2xMbXlIaFZITWlTZmwxdEkzQWxIUU1ybEwta2tSZXJjYzZyVy1DdU1iRXMxNjNjc2NYbG5MZ3Raa3RwdjV3djd6Nm1aT1B4VDhhVTltZmdadUx0SlR5cXhYeVdXakVxSTZLRW1UYmJET0JzUm94blFBX2FfZkhwWjI3Q1FacUNJRmpBclJaSjE3NklRdkdnTTNiV0lZZ05jN211R21oLVRISUVwSHU5OEVKRzjSAcYBQVVfeXFMT193eGtrbEk1cHlqbHNCSjBEQTNvb2JJSXZWeGVFeUdOUFVkUU9naUhlTGdncnM3akZsRDBZTHJ4MVdLQTNMblRUOHRRMFZEdGRnYU9xOVJjendfMDNoSzNTNUhORklMTVFTbXFvNXluMklZNlpvTlpVdGtjNko4NVhnZk9sR3YzMXJfUFJKU0FKNTVxY3dDa1pFeWNCRVFXbjVUSGhLcE92Y1BQVmhzOU00X2NsdGZyRVZkQzVTZVU4SmdMUmd3?oc=5)
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDNSV1ZiazVWQlB0a1dEUTd0Nk1RcU16YUZxZXJWYk9sTFlSaUthVFRTdzNQdFZMSmFLcm9OcjVQSjlyX3NRLWR1RXFxME1RYmZNMWIyT2wtRy1tVGF3VktFcHhYU0JTVEx3VFVXblJsUWM0Zm1HQWhyYUlFSE9iWmtUWTZORi15UnVMWmltNGJlcWY2NEpQREJ1SnoydzZfcXRQLVZlQzFEZWZBYjR0V2FOSU1uZGlaZGl4TmNTOVRaZ2g0QjgtdEpuNEpVcVNyd0llOE1aS2JSTlJmdVVLRGZueVhyQnh5Tkp0Yjd2UW12aW0wdmc?oc=5)
 
 ---
 
@@ -121,6 +137,14 @@ permalink: /news/orlistat/
 2026-04-03 <span class="news-indication-tag">stroke</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2ZLbWQ3dXJlTTRWUVhTdmd1SDlhQk95RXpzSko3d2xPNzZvRlhrcEpKUkIwUDFQdnhBbWZRWE96elNwUnQ1ZC1nZkVGVHpPdjZMTkdMOGpiZXFuVklsLXhBcVExSUE4SzU1bnpETnRhY3VsWFY2WU5nOG1nMHk0WnphTk5nNExueDZReDRBSE12bkV1LXp6V2Q5R1Fzel9qMHlMeGY4QXoyYUIzdWhWVmxxcGtaODl0MDJyWS1fc0xqZw?oc=5)
+
+---
+
+### [How extreme exercise can increase belly fat – and three other weight-loss mistakes you’re making - The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtRTmhnR2dsa05ITXQyOFV3dGl1dnIyTVdLd2d3VnBDYWlCbTUtQzJ6ODlKWGxoWnRjTmFob19WTjlqbnZiWVo3bU9GOE9veXB6Mk1nTnhRLUpaeEdPaUlXdWpKVW1sUjhad2JieVFXT25xLVQ3R1o2RWRMYlBEbkY3bw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtRTmhnR2dsa05ITXQyOFV3dGl1dnIyTVdLd2d3VnBDYWlCbTUtQzJ6ODlKWGxoWnRjTmFob19WTjlqbnZiWVo3bU9GOE9veXB6Mk1nTnhRLUpaeEdPaUlXdWpKVW1sUjhad2JieVFXT25xLVQ3R1o2RWRMYlBEbkY3bw?oc=5)
 
 ---
 
