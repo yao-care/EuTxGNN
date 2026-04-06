@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Amlodipine</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,63 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（24 則）
+
+### [Zucker und Krebs: Neue Studien enthüllen komplexen Zusammenhang - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVU80aWx5T0pZU2lIZk9SdF91eGNpOGJkOHZkSWh2Y2NNUmlZLWJDVWF4dlZmM1I2T2VpTnNRUVpzbzVxVk56Nmk1N0c1MTN5cmh5N0Ftb21QdFpoUGVwSnl5YlpqcWRoblhaQzVBQ3RJVmxPYmJ5bjlYNHhVUTNCSDRqRjNlT1h3NjhNWGpEaWZ0TWc4dTc0N0NEZFczNGpPT1htZFJ0Y24yLXF1TVJtbUJwaUdsYV9kZ2tTNXFuNA?oc=5)
+
+2026-04-06 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVU80aWx5T0pZU2lIZk9SdF91eGNpOGJkOHZkSWh2Y2NNUmlZLWJDVWF4dlZmM1I2T2VpTnNRUVpzbzVxVk56Nmk1N0c1MTN5cmh5N0Ftb21QdFpoUGVwSnl5YlpqcWRoblhaQzVBQ3RJVmxPYmJ5bjlYNHhVUTNCSDRqRjNlT1h3NjhNWGpEaWZ0TWc4dTc0N0NEZFczNGpPT1htZFJ0Y24yLXF1TVJtbUJwaUdsYV9kZ2tTNXFuNA?oc=5)
+
+---
+
+### [Un estudio del CSIC demuestra que los virus exploran su espacio genético de forma jerárquica - El médico interactivo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzVwMklpSW1Fc3hWWHZRWmIzYmNFOWctdngwZ2RhYm1SN0dab0tLeGZKcWw5U2Q3X19XUEhhUGNmYmI4MnVTVUR1UnFTdUs5cDhjMzJWajNwRUx3NE0yZ0YtZlc3czZJWlM2aW5VQ0ZhS0dtSzBuTEtGbzNDVEhSeV9IVmNBX1VpVC1RS0hTcElnWXJjUXpGU0VnUUFta1g2TW1ST0c1c2I?oc=5)
+
+2026-04-06 <span class="news-drug-tag">Amlodipine</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzVwMklpSW1Fc3hWWHZRWmIzYmNFOWctdngwZ2RhYm1SN0dab0tLeGZKcWw5U2Q3X19XUEhhUGNmYmI4MnVTVUR1UnFTdUs5cDhjMzJWajNwRUx3NE0yZ0YtZlc3czZJWlM2aW5VQ0ZhS0dtSzBuTEtGbzNDVEhSeV9IVmNBX1VpVC1RS0hTcElnWXJjUXpGU0VnUUFta1g2TW1ST0c1c2I?oc=5)
+
+---
+
+### [Torino, operato da sveglio per un tumore al colon grazie all'ipnosi](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3JWSUFKNnBGLUY3RlRCUERJZ2RnMU02Y0RveGp3dVlZV1FVY0EzeHVISXhXZVdMZ0gwcXp5M0pMZFdTdmNINk5PaFhIdkpYbnBrakJ5Nm5JMXdObDZ1VkQ3cm40dTlGdzVfb3lVU1BOY1hKSnJxTE5ValdUYUx3TVZBX2l3TWVVWm50T2NRQ0Vub0lrQVBNcDZ2cGFZYU80WUEzbHhtSmzSAWhBVV95cUxQc0tjTXVKOWRySnZZN003aFJKZVVyTWh1SEtENFZXN0Q1NngyZkhDSldzbVRMNlN0emVabXNYd2RFVWJzcEk5ZTVPcGVURTJvbVFiV1NNd2otVi1Hc1lRRE11aDFyblR0OQ?oc=5)
+
+2026-04-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3JWSUFKNnBGLUY3RlRCUERJZ2RnMU02Y0RveGp3dVlZV1FVY0EzeHVISXhXZVdMZ0gwcXp5M0pMZFdTdmNINk5PaFhIdkpYbnBrakJ5Nm5JMXdObDZ1VkQ3cm40dTlGdzVfb3lVU1BOY1hKSnJxTE5ValdUYUx3TVZBX2l3TWVVWm50T2NRQ0Vub0lrQVBNcDZ2cGFZYU80WUEzbHhtSmzSAWhBVV95cUxQc0tjTXVKOWRySnZZN003aFJKZVVyTWh1SEtENFZXN0Q1NngyZkhDSldzbVRMNlN0emVabXNYd2RFVWJzcEk5ZTVPcGVURTJvbVFiV1NNd2otVi1Hc1lRRE11aDFyblR0OQ?oc=5)
+
+---
+
+### [Diferentes especies de virus se comunican para coordinar la infección de las bacterias](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1gzSVhmczlmVmloUjZ3cW4xblNZMXp3Q2lteVJvQ3ZucVBiMDdYZldKRjB2d1VNRjJITlBFcmRLOFRnRWs1Nk1DeXA3ZGRGMXF2dWRPdXB4M3VHZGF0ZERpSWpFSlZiaktYUzJMd1RWYkdXdHFRNENkd25lbzJ0MnlZUEd5bUlNWFlfV3VpU01hMWswX2Z0eVZ0RUROdVJOMDZ5U0FPb1g1dnBhLVRCUHgzX0d1a1hQSnBuMWVDNA?oc=5)
+
+2026-04-06 <span class="news-drug-tag">Amlodipine</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1gzSVhmczlmVmloUjZ3cW4xblNZMXp3Q2lteVJvQ3ZucVBiMDdYZldKRjB2d1VNRjJITlBFcmRLOFRnRWs1Nk1DeXA3ZGRGMXF2dWRPdXB4M3VHZGF0ZERpSWpFSlZiaktYUzJMd1RWYkdXdHFRNENkd25lbzJ0MnlZUEd5bUlNWFlfV3VpU01hMWswX2Z0eVZ0RUROdVJOMDZ5U0FPb1g1dnBhLVRCUHgzX0d1a1hQSnBuMWVDNA?oc=5)
+
+---
+
+### [La nueva foto más famosa de la Tierra está hecha con una réflex de hace 10 años: así es el equipo fotográfico de Artemis II](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
+
+2026-04-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[photolari](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
+
+---
+
+### [Un estudio asocia la apnea obstructiva del sueño con la mortalidad por todas las causas y los eventos cardiovasculares - Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
+
+2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
+
+---
+
+### [Dalle radici calabresi ai vertici dell’oncologia, Curigliano: “La speranza è il motore del malato, non deve mai perderla - il Lametino.it](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnhLUW9zYnJGQ2tSRFprUDRYYmVGeFljT3VHYVNDY2RfZWt3M2ZPY05Fa3V4TDFzTjhXYVppbTJlZWFwZ212MWNjQUVLMVVpc0d1azlYWnBzZnhhUzdhTWdCUnR5ZnZRV29rM0VuUTNURExSVndTLXBNU2tFV1ctcDlwdEJ5SGFMdHdDZnBWUEUzRXpXQldSaWNkYzZuZE5sekV5b0VBcGlNaGpLdkRlRWxBMjRkdGVJMzdFU2tHeXl6eU4wWDJyQVh1VlJKMXphRnQ3bjNIYThGNWxUUTRBUHI4WDNLcGpWR3c?oc=5)
+
+2026-04-06 <span class="news-indication-tag">cancro</span>
+
+來源：[il Lametino.it](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnhLUW9zYnJGQ2tSRFprUDRYYmVGeFljT3VHYVNDY2RfZWt3M2ZPY05Fa3V4TDFzTjhXYVppbTJlZWFwZ212MWNjQUVLMVVpc0d1azlYWnBzZnhhUzdhTWdCUnR5ZnZRV29rM0VuUTNURExSVndTLXBNU2tFV1ctcDlwdEJ5SGFMdHdDZnBWUEUzRXpXQldSaWNkYzZuZE5sekV5b0VBcGlNaGpLdkRlRWxBMjRkdGVJMzdFU2tHeXl6eU4wWDJyQVh1VlJKMXphRnQ3bjNIYThGNWxUUTRBUHI4WDNLcGpWR3c?oc=5)
+
+---
 
 ### [Un estudio sugiere que las tomografías de cáncer de pulmón pueden detectar otros tumores](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWJSR096TWRpU1hWRnp5T0hzNGx4RW44TjNTcXdqYXkzLWF6UXl5NTZOS1dLbVdvbWpwVU00aHd4MjcwZUpCYi01WjRzMFhRRUFCZW1OY0dmOEczdmxMQ2IxX3BKT0xxS3RDRUxkZlJmT3lWMkE2dzgxd0pzRnlJSUlNU1dZeVV3QkRSdF85aVVvRGwxTlVnZXEtT0VHOXNVWDFFeGRRY1ZNWGVsSWt5dWppbVRZRkc0eWZHMzFqNG1MWUZObXJuVjFVejdqUk9lZWNNRjlTTFhYaGNvZGc?oc=5)
 
@@ -52,19 +108,19 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Bowel cancer teams at Peterborough and Hinchingbrooke hospitals](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ybGtJSkFSOVNsaldTTjEtLU1mb2x6a3ctWFBlQjJYYTlqaVZJRm1YOWVjcm9MV3pZSVRnWWpocFV5SE54MzB3dVprbU5PX0NXeTFDdENZcTBuM2dW?oc=5)
+
+2026-04-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ybGtJSkFSOVNsaldTTjEtLU1mb2x6a3ctWFBlQjJYYTlqaVZJRm1YOWVjcm9MV3pZSVRnWWpocFV5SE54MzB3dVprbU5PX0NXeTFDdENZcTBuM2dW?oc=5)
+
+---
+
 ### [Capire i tumori gastrointestinali: i sintomi di allarme e la rete per intercettare subito le patologie - La Nazione](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtM0hqSlBYMUQ0UmRXZHBaMTVZejVyTXF6UTNxQk4yZW5qNTFCZmdxSi1KcGk2ZVl0SE1vR1o1TlowcWdYbGZkS3VFcVBUVUdBMjJJN2thRnBtcXp3VmNfcWVYVGI4VXVxZzVrVFF1QUtHbFltSGdJ?oc=5)
 
 2026-04-06 <span class="news-indication-tag">tumor</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtM0hqSlBYMUQ0UmRXZHBaMTVZejVyTXF6UTNxQk4yZW5qNTFCZmdxSi1KcGk2ZVl0SE1vR1o1TlowcWdYbGZkS3VFcVBUVUdBMjJJN2thRnBtcXp3VmNfcWVYVGI4VXVxZzVrVFF1QUtHbFltSGdJ?oc=5)
-
----
-
-### [Los virus se comunican por señales químicas y algunas especies las usan para manipular a otras](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMW1NYm1xT0NOZ0V0R3ViREhOaW0zd0pWR0NQMnl6NmNLb1o1UVY3U2g5Z0FScm1sZl9FdmFRazJtWDVvNjV4Vno1U2dYdHMtMVlhX3pPUFY1TGM3blc4QkR3WWhvSVJGRGtYc1U4Q3BPN1R4RmV0Qk1rYnNxY051OHhmN3pmYlRvWVFOSUhuTmtPTXR3SjJfUGlMRWNrRllhOFNPM0hJeV84Zlo0cFlscjVBLVdKWGNPTTlsT09neTNYaDVvb2wxTkNTaEl0SWd2M2FUYWd0YThKWUJD?oc=5)
-
-2026-04-06 <span class="news-drug-tag">Amlodipine</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMW1NYm1xT0NOZ0V0R3ViREhOaW0zd0pWR0NQMnl6NmNLb1o1UVY3U2g5Z0FScm1sZl9FdmFRazJtWDVvNjV4Vno1U2dYdHMtMVlhX3pPUFY1TGM3blc4QkR3WWhvSVJGRGtYc1U4Q3BPN1R4RmV0Qk1rYnNxY051OHhmN3pmYlRvWVFOSUhuTmtPTXR3SjJfUGlMRWNrRllhOFNPM0hJeV84Zlo0cFlscjVBLVdKWGNPTTlsT09neTNYaDVvb2wxTkNTaEl0SWd2M2FUYWd0YThKWUJD?oc=5)
 
 ---
 
@@ -84,11 +140,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Nebenwirkungen bei Brustkrebs: Patientinnen leitliniengerecht begleiten](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmFDYkd5RnJEUGN4d04tSzROLXZqYVFtWmRRRDZQbm1EVk56bXl3eG14RXcyQW9NLXJ3eGU2U1ZqS2FNZnB0dnhQYlJxS2kyQTE2bXIyOUkwZUlFaGRLRWlNNnZaemRmd1Nua3M5aHJnUWFMSDIyT05NaU8tcnBxamEybjk3Zm9BclVYTDNVdjNUTGlma2JoZGhBX04xX2tsZXNTcWR4MHU1aTc3R3I0UnhrZG4wVTYtM3FN?oc=5)
+### [Nebenwirkungen bei Brustkrebs: Patientinnen leitliniengerecht begleiten - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmFDYkd5RnJEUGN4d04tSzROLXZqYVFtWmRRRDZQbm1EVk56bXl3eG14RXcyQW9NLXJ3eGU2U1ZqS2FNZnB0dnhQYlJxS2kyQTE2bXIyOUkwZUlFaGRLRWlNNnZaemRmd1Nua3M5aHJnUWFMSDIyT05NaU8tcnBxamEybjk3Zm9BclVYTDNVdjNUTGlma2JoZGhBX04xX2tsZXNTcWR4MHU1aTc3R3I0UnhrZG4wVTYtM3FN?oc=5)
 
 2026-04-06 <span class="news-indication-tag">Krebs</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmFDYkd5RnJEUGN4d04tSzROLXZqYVFtWmRRRDZQbm1EVk56bXl3eG14RXcyQW9NLXJ3eGU2U1ZqS2FNZnB0dnhQYlJxS2kyQTE2bXIyOUkwZUlFaGRLRWlNNnZaemRmd1Nua3M5aHJnUWFMSDIyT05NaU8tcnBxamEybjk3Zm9BclVYTDNVdjNUTGlma2JoZGhBX04xX2tsZXNTcWR4MHU1aTc3R3I0UnhrZG4wVTYtM3FN?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmFDYkd5RnJEUGN4d04tSzROLXZqYVFtWmRRRDZQbm1EVk56bXl3eG14RXcyQW9NLXJ3eGU2U1ZqS2FNZnB0dnhQYlJxS2kyQTE2bXIyOUkwZUlFaGRLRWlNNnZaemRmd1Nua3M5aHJnUWFMSDIyT05NaU8tcnBxamEybjk3Zm9BclVYTDNVdjNUTGlma2JoZGhBX04xX2tsZXNTcWR4MHU1aTc3R3I0UnhrZG4wVTYtM3FN?oc=5)
 
 ---
 
@@ -100,27 +156,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Personas que padecen apnea del sueño tiene hasta un 71% más de riesgo de morir por cualquier causa](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
-
-2026-04-05 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
-
-來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
-
----
-
 ### [Multiple medics missed student’s fatal cancer - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDl2M21uZzBhNFN4MGpQWXZvQzJ3aGRfM1hBRElxNDM5MFVETVZSUm9MX09WcW1Gc09QTXpFVzVCOU16eDl5X0llR2RlaHhIMFJfTHZOcUt6eHY2QzFGaF84QVJuMjhJTHgxTEJGS19BUzZkdUpaSk5LTEszMjV4ZVZDWEpQYzQ?oc=5)
 
 2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDl2M21uZzBhNFN4MGpQWXZvQzJ3aGRfM1hBRElxNDM5MFVETVZSUm9MX09WcW1Gc09QTXpFVzVCOU16eDl5X0llR2RlaHhIMFJfTHZOcUt6eHY2QzFGaF84QVJuMjhJTHgxTEJGS19BUzZkdUpaSk5LTEszMjV4ZVZDWEpQYzQ?oc=5)
-
----
-
-### [El cambio en la rutina nocturna que podría duplicar el riesgo de infarto, según científicos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk9lZ0poNkdteGxOSnRMWmNtUVg5VFNOZTg3bk5pRlRTal9fYjJGUjZTSE1FOGtxX294Y2lpcEx3X05ZLUdLVERmM1BldHJpT0VOMGN4MFE4N2RfM1FUWDRQVmVHNU5DSTVkYVZ4R2pfa3ptRmJMX25nb3NsY3owYzJCSGRiTHczOXpqZXlhc0xKRGVJd29MRUpFZ0tQUkI1VmxJQnlVVUVNdjd6MDBQR3N4cWxEV1pTeUY1Y2EycWFNcklXRnEtUi1KejfSAecBQVVfeXFMTjJQMUhSSEFlNm5Td0VaZnZUMkM1UUZJME96eS1FVFdEXy10dEFnNFBHUy1Zd2RzWlMxcTRBY0ota1R4VnRZLU9Hd2Vka0t0QkJ2OFdmVk16QVlHV1ZGOGhxV3Q4NVpHZGdXNld5M2tuaG81NGpIZkl5THVwSmlubUZTYTZkZV94LXM1UHhuay1DTHVDdE5xN2pZYndaNjVXVFc3MTk1TlZ1VGVUMU41Zk13YU9hTXViMjc5UDFZWDhqczRfcVhNMmN6VWpYRGl6dWlOc0NkX3loeDhES0NjbXJJenZscHVR?oc=5)
-
-2026-04-05 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk9lZ0poNkdteGxOSnRMWmNtUVg5VFNOZTg3bk5pRlRTal9fYjJGUjZTSE1FOGtxX294Y2lpcEx3X05ZLUdLVERmM1BldHJpT0VOMGN4MFE4N2RfM1FUWDRQVmVHNU5DSTVkYVZ4R2pfa3ptRmJMX25nb3NsY3owYzJCSGRiTHczOXpqZXlhc0xKRGVJd29MRUpFZ0tQUkI1VmxJQnlVVUVNdjd6MDBQR3N4cWxEV1pTeUY1Y2EycWFNcklXRnEtUi1KejfSAecBQVVfeXFMTjJQMUhSSEFlNm5Td0VaZnZUMkM1UUZJME96eS1FVFdEXy10dEFnNFBHUy1Zd2RzWlMxcTRBY0ota1R4VnRZLU9Hd2Vka0t0QkJ2OFdmVk16QVlHV1ZGOGhxV3Q4NVpHZGdXNld5M2tuaG81NGpIZkl5THVwSmlubUZTYTZkZV94LXM1UHhuay1DTHVDdE5xN2pZYndaNjVXVFc3MTk1TlZ1VGVUMU41Zk13YU9hTXViMjc5UDFZWDhqczRfcVhNMmN6VWpYRGl6dWlOc0NkX3loeDhES0NjbXJJenZscHVR?oc=5)
 
 ---
 
@@ -132,19 +172,19 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Demostrar que los cigarrillos electrónicos son cancerígenos requiere "un consumo promedio durante 15 o 20 años"](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmlMMXAtR1Q0MDFISmRuSWhkQ2JKdWVMXzVvRXpqQTQ5QkVsNzNKMHJ1VGZwSkh1SnZmTWRENGFtOUpYY3dLdm5BNTk0TTdDUUZPbHNySlRRbDRlRkNMRTNGbWNaWDlCdWxfT1FXWWNUYXdxMEM2cGNxVGU5UXJEZmZ1WUhKOXZBbWM5SzBoT2FHd3cxdm5tUk91akF3MnZ4cWlUeWxwRU9VSVdleUhhUkEwa1FRaEMwOG5lS3NmckVLaE0?oc=5)
-
-2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmlMMXAtR1Q0MDFISmRuSWhkQ2JKdWVMXzVvRXpqQTQ5QkVsNzNKMHJ1VGZwSkh1SnZmTWRENGFtOUpYY3dLdm5BNTk0TTdDUUZPbHNySlRRbDRlRkNMRTNGbWNaWDlCdWxfT1FXWWNUYXdxMEM2cGNxVGU5UXJEZmZ1WUhKOXZBbWM5SzBoT2FHd3cxdm5tUk91akF3MnZ4cWlUeWxwRU9VSVdleUhhUkEwa1FRaEMwOG5lS3NmckVLaE0?oc=5)
-
----
-
 ### [Cancer du poumon : l’hôpital de Toulon offre une prise en charge « simple comme un coup de fil »](https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTl3QzBvRUJ2YTJfbjYzY1VnaV9sVjZ0Q0VwNGF4aWR4ci1WZzl4MENhak5uRk5kQkIwakhWbFBmM3BPaGlZOXZIdU1RVmxrVWxFQXpVLXdfWVg3VE1BNEk2X3BEUnJVRWt3WkwyN3ZNU2hUWlQ2aU1kM3ZEaTYwRldQRTJ1Yk1fdXZQYUZ3THd4OThfZ182bEItRHNxb2JnNFZNdVlaTEhPcXFPR0luc1lpRGVhSnljeXdIMlgwdTRCQ1REOHZ1Uk1NMA?oc=5)
 
 2026-04-05 <span class="news-indication-tag">cancer</span>
 
 來源：[Nice-Matin](https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTl3QzBvRUJ2YTJfbjYzY1VnaV9sVjZ0Q0VwNGF4aWR4ci1WZzl4MENhak5uRk5kQkIwakhWbFBmM3BPaGlZOXZIdU1RVmxrVWxFQXpVLXdfWVg3VE1BNEk2X3BEUnJVRWt3WkwyN3ZNU2hUWlQ2aU1kM3ZEaTYwRldQRTJ1Yk1fdXZQYUZ3THd4OThfZ182bEItRHNxb2JnNFZNdVlaTEhPcXFPR0luc1lpRGVhSnljeXdIMlgwdTRCQ1REOHZ1Uk1NMA?oc=5)
+
+---
+
+### [Cancer : cette étude géante suggère un effet protecteur de l’alimentation végétarienne - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlRmMUZQaGktc3hIbGpxT1VXUXdWeDZLMC1YTUQ0WUw3ZWZGSm45eFZLS0JOVVJXdlp5c052akN2WWpQOUl0bkpkeVdQbnY0eS1Mbm14X3pLdVVKZzBDeW5YSERlcHdyYkhvNFRHTWMybVlUNDZKZkpQeXdJQVpnd0thZ0lrSHpIYjlZQUtOMmlTUWZxdkpxMWN0bzQ1YWp3dGtubC00WjAtSzZGZnZiTGpTVTlkMEVtVXdUVkFZbXRmS0NzeGMtMDNfQ0x2THk3d1ZSOWk5bw?oc=5)
+
+2026-04-05 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlRmMUZQaGktc3hIbGpxT1VXUXdWeDZLMC1YTUQ0WUw3ZWZGSm45eFZLS0JOVVJXdlp5c052akN2WWpQOUl0bkpkeVdQbnY0eS1Mbm14X3pLdVVKZzBDeW5YSERlcHdyYkhvNFRHTWMybVlUNDZKZkpQeXdJQVpnd0thZ0lrSHpIYjlZQUtOMmlTUWZxdkpxMWN0bzQ1YWp3dGtubC00WjAtSzZGZnZiTGpTVTlkMEVtVXdUVkFZbXRmS0NzeGMtMDNfQ0x2THk3d1ZSOWk5bw?oc=5)
 
 ---
 
@@ -164,35 +204,19 @@ permalink: /news/amlodipine/
 
 ---
 
-### [L'oncologo Giuseppe Curigliano: «Per il paziente la speranza è un motore, non deve mai perderla. Contro il cancro ci sarà una cura, era un mio sogno già da piccolo» - Corriere della Sera](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF?oc=5)
-
-2026-04-05 <span class="news-indication-tag">cancro</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF?oc=5)
-
----
-
-### [Tumore del colon retto: "Aderite allo screening"](https://news.google.com/rss/articles/CBMikwFBVV95cUxObVdHOG9HVENrVTBGaGRUYlZ3YXFyckxvdk8zb1dkNTUteVNRN0E5ZE8zeGhfSU5qclI2Y0FGWWJaQTk3V01GOVlScEc0YS1vU09uMXhRZ1B5OTlTU2Z5SFBxZEljUkhuRXhLOEMtRDNBSVVyN3lCN3h5VXpEc3ZiRlpRZzAyaFprTlhUOU80S3MzMEU?oc=5)
+### [Tumore del colon retto: "Aderite allo screening" - Il Resto del Carlino](https://news.google.com/rss/articles/CBMikwFBVV95cUxObVdHOG9HVENrVTBGaGRUYlZ3YXFyckxvdk8zb1dkNTUteVNRN0E5ZE8zeGhfSU5qclI2Y0FGWWJaQTk3V01GOVlScEc0YS1vU09uMXhRZ1B5OTlTU2Z5SFBxZEljUkhuRXhLOEMtRDNBSVVyN3lCN3h5VXpEc3ZiRlpRZzAyaFprTlhUOU80S3MzMEU?oc=5)
 
 2026-04-05 <span class="news-indication-tag">tumor</span>
 
-來源：[ilrestodelcarlino.it](https://news.google.com/rss/articles/CBMikwFBVV95cUxObVdHOG9HVENrVTBGaGRUYlZ3YXFyckxvdk8zb1dkNTUteVNRN0E5ZE8zeGhfSU5qclI2Y0FGWWJaQTk3V01GOVlScEc0YS1vU09uMXhRZ1B5OTlTU2Z5SFBxZEljUkhuRXhLOEMtRDNBSVVyN3lCN3h5VXpEc3ZiRlpRZzAyaFprTlhUOU80S3MzMEU?oc=5)
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMikwFBVV95cUxObVdHOG9HVENrVTBGaGRUYlZ3YXFyckxvdk8zb1dkNTUteVNRN0E5ZE8zeGhfSU5qclI2Y0FGWWJaQTk3V01GOVlScEc0YS1vU09uMXhRZ1B5OTlTU2Z5SFBxZEljUkhuRXhLOEMtRDNBSVVyN3lCN3h5VXpEc3ZiRlpRZzAyaFprTlhUOU80S3MzMEU?oc=5)
 
 ---
 
 ### [Why deadly bowel cancer's striking young and peri-menopausal women - Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
 
-2026-04-05 <span class="news-indication-tag">cancer</span>
+2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
-
----
-
-### [Un avance médico para controlar la hipertensión reduce los infartos, ictus y fallecimientos - Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
-
-2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
 
 ---
 
@@ -209,14 +233,6 @@ permalink: /news/amlodipine/
 2026-04-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
 
 來源：[L'Avenir](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
-
----
-
-### [Tübinger Immunologe: Mission: Krebs besiegen](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWV1RldNSlpaN1d3Sk1qU3dNalZhQXktX0lVWWNOdG8wRWpFdWxhX3ZEUXNoQVlHUWgwUFdUSXRxaW9uU1RaMDRVR2VIYlpCNUFWcV9UcG83a3FKNUdLVE5STE5mbGRRUXFabzh0WDlEXzNmYXJtd3Y5VURtLUV4M3dzQzkxNVdSNTUxRnFwRzRGSzZtMWNQcVRn?oc=5)
-
-2026-04-04 <span class="news-indication-tag">Krebs</span>
-
-來源：[swp.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWV1RldNSlpaN1d3Sk1qU3dNalZhQXktX0lVWWNOdG8wRWpFdWxhX3ZEUXNoQVlHUWgwUFdUSXRxaW9uU1RaMDRVR2VIYlpCNUFWcV9UcG83a3FKNUdLVE5STE5mbGRRUXFabzh0WDlEXzNmYXJtd3Y5VURtLUV4M3dzQzkxNVdSNTUxRnFwRzRGSzZtMWNQcVRn?oc=5)
 
 ---
 

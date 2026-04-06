@@ -44,19 +44,27 @@ permalink: /news/lasmiditan-succinate/
 
 ## 相關新聞（5 則）
 
+### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+
+2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+
+---
+
+### [La Consejería de Sanidad trabaja en un estudio sobre la obesidad entre escolares](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTFiU2JRcjd3dDVhbzhSX3k4VU8zallSU2lCZXFSUG9CZkthc0s1VUxiTnRRWk9GWVJiR21zcDB0YTBNLTZ4cWN1NUg1QTh5ZFJzREw3ZEJVdm9jWFJ2VmcxLW1HakVyVUZIZ0FMU3ZLVFE1Z0VQeGVLS1BueW5RSG9XMmpaQ2w3Z2k5ekVXdGtqc2dNcmFBam1OaGNrX0hGYlVZ?oc=5)
+
+2026-04-06 <span class="news-indication-tag">obesidad</span>
+
+來源：[elpueblodeceuta.es](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTFiU2JRcjd3dDVhbzhSX3k4VU8zallSU2lCZXFSUG9CZkthc0s1VUxiTnRRWk9GWVJiR21zcDB0YTBNLTZ4cWN1NUg1QTh5ZFJzREw3ZEJVdm9jWFJ2VmcxLW1HakVyVUZIZ0FMU3ZLVFE1Z0VQeGVLS1BueW5RSG9XMmpaQ2w3Z2k5ekVXdGtqc2dNcmFBam1OaGNrX0hGYlVZ?oc=5)
+
+---
+
 ### [Salud última una estrategia para reducir la obesidad infantil con horizonte hasta 2030 - EFE Noticias](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUmp1T2NETjY2YkJhY19FcWFqUHo3VEprRUQ3YWYtSU1IRU53SlFTYW1kU0lxNTRWT3NCc0ZBT2txMTcyQnJpTklHVUVNZDlHRUhPbmdlbW85ak9TY213VjY3UzBReHBMWTdidm1sRGhZSkdPQmdQWjVoa1lBT0tjdm00V2pnWTV4T2o4WTNJQWpDQjdyczBWaVZLV2ZhUWl1dzFZWHpSR0lrTjcyNnltRFNYTS1yQ3hZUnk3aEdtZUlNclRHeEtuYjJoUmNWcjB0eXRvc1I0cS1KYmluU1RR?oc=5)
 
 2026-04-06 <span class="news-indication-tag">obesidad</span>
 
 來源：[EFE Noticias](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUmp1T2NETjY2YkJhY19FcWFqUHo3VEprRUQ3YWYtSU1IRU53SlFTYW1kU0lxNTRWT3NCc0ZBT2txMTcyQnJpTklHVUVNZDlHRUhPbmdlbW85ak9TY213VjY3UzBReHBMWTdidm1sRGhZSkdPQmdQWjVoa1lBT0tjdm00V2pnWTV4T2o4WTNJQWpDQjdyczBWaVZLV2ZhUWl1dzFZWHpSR0lrTjcyNnltRFNYTS1yQ3hZUnk3aEdtZUlNclRHeEtuYjJoUmNWcjB0eXRvc1I0cS1KYmluU1RR?oc=5)
-
----
-
-### [Los nuevos fármacos contra la obesidad, eficaces en otras patologías](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbEI1UkVpOUY2WEIxTmlYcHpMcUZvLUREMnphdWVGMER2RmZ4TGVrT21jRHAxcl9VY0RFRjFjN3ZTUXV6Y2NKbWFJeTNIRVBMV2tiVFotZzVKVEVZODFTQnBTUVZhUEt2SDkxUkZ1MF9TZjRlWXhBaW1YMWtTUGg1OGp2c0RRWlJSSFVYdjZST2d3X1FPQmFaT0VqNXJ5dHRRbVFONlNGTHc3cWdpNXJmQ3ZWWGtoVy1w0gHMAUFVX3lxTE40aGhoR2pfOWViVXZlUzBJOXJMS1NzOUZSdUVoMDI2UzYyRmZKMDFJemdncXo4VTdaOHlzZG1fRWt2YXNURjBfX0RseWgxUllZc3daaDZzYnJWUV8zTlRDdDR6cmw2VXdYVEs0cEtZd01PN080Rmk0d2djRHcxTGs4b2FPbUduM2JNUkhkSkRQOEQydWhXbV9zR0ZQcVIxWDlOTFdsU0ZBVnRpX1RFMVktalFQbE01QXZiSXBDWFdqandCcVd3NFl3amNQbA?oc=5)
-
-2026-04-05 <span class="news-indication-tag">obesidad</span>
-
-來源：[larazon.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbEI1UkVpOUY2WEIxTmlYcHpMcUZvLUREMnphdWVGMER2RmZ4TGVrT21jRHAxcl9VY0RFRjFjN3ZTUXV6Y2NKbWFJeTNIRVBMV2tiVFotZzVKVEVZODFTQnBTUVZhUEt2SDkxUkZ1MF9TZjRlWXhBaW1YMWtTUGg1OGp2c0RRWlJSSFVYdjZST2d3X1FPQmFaT0VqNXJ5dHRRbVFONlNGTHc3cWdpNXJmQ3ZWWGtoVy1w0gHMAUFVX3lxTE40aGhoR2pfOWViVXZlUzBJOXJMS1NzOUZSdUVoMDI2UzYyRmZKMDFJemdncXo4VTdaOHlzZG1fRWt2YXNURjBfX0RseWgxUllZc3daaDZzYnJWUV8zTlRDdDR6cmw2VXdYVEs0cEtZd01PN080Rmk0d2djRHcxTGs4b2FPbUduM2JNUkhkSkRQOEQydWhXbV9zR0ZQcVIxWDlOTFdsU0ZBVnRpX1RFMVktalFQbE01QXZiSXBDWFdqandCcVd3NFl3amNQbA?oc=5)
 
 ---
 
@@ -73,14 +81,6 @@ permalink: /news/lasmiditan-succinate/
 2026-04-04 <span class="news-indication-tag">obésité</span>
 
 來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclZJY1M3WEY4TlFINXEzR2MxMXpFZHdCenc3c0lUcHliYnNqdWxIVERROUNBcmhvYTV3QUIxV0R3Rl9uOG5Gak54VHp1cE92UlVpUUtpSk9hQk8wei11Mk5qMWlmclUzbV9ZXzRfRDQxQVFPSjFyQnhWUWFoSUJ6LTJWVlJUNks5bXRrRlBsNkhNSXdzX3JFdkRYeVo0aEV1X0Qtb1lpR3dTNXNmSWFLSDNnQUZuXzZXcFhtY2x3Z25XUEFucGlPcVVGRTRwZHlIOFFCQVp3ZkZSeWhJSzNYaFlRUnpwRHNuYkdjTw?oc=5)
-
----
-
-### [Obésité : traitements et accompagnement redimensionnent l’officine - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWEg5bUNucDhpZW5vLUNnb01RVFpkQV9mWDdmWUUyMmpRdWFMZnVuWFo1NENuZWNpanJEMEFmc2RONEtRTFdMOV8wTVJBY0NkaV93R3NmVXloNDVzZ2psakNVdVZoV3ExU0hlRGoxUHdpTUN1czBqM3dCamVIc0hWekhEdHo5N1p0WGZ4Zmw4bVZnaXhDVDV3MWxNdVA4YUdLUTJXNWNxcWYwXzU3MXBBR2NTcXAyTWF6WjVya0l3UUU2SndaQU9hYUEzcVdPbGNOYWl0Z0VlMDQ?oc=5)
-
-2026-04-04 <span class="news-indication-tag">obésité</span>
-
-來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWEg5bUNucDhpZW5vLUNnb01RVFpkQV9mWDdmWUUyMmpRdWFMZnVuWFo1NENuZWNpanJEMEFmc2RONEtRTFdMOV8wTVJBY0NkaV93R3NmVXloNDVzZ2psakNVdVZoV3ExU0hlRGoxUHdpTUN1czBqM3dCamVIc0hWekhEdHo5N1p0WGZ4Zmw4bVZnaXhDVDV3MWxNdVA4YUdLUTJXNWNxcWYwXzU3MXBBR2NTcXAyTWF6WjVya0l3UUU2SndaQU9hYUEzcVdPbGNOYWl0Z0VlMDQ?oc=5)
 
 ---
 

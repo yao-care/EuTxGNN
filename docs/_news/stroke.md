@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# AVC（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
+<strong>AVC（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,15 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Un avance médico para controlar la hipertensión reduce los infartos, ictus y fallecimientos - Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
-
-2026-04-04
-
-來源：[Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Le business de la peur de la maladie lance des analyses de sang testant jusqu'à 150 biomarqueurs: "Ce n'est pas comme ça qu'on fait de la prévention"](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
 

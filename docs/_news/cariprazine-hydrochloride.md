@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,45 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [El virus más común de la mononucleosis se relaciona con la esclerosis múltiple - Diario de Navarra](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQTFBY3lYOHdwN0dMZFlmSGl1THMwWGRVRU9sOVM4bUFJVERISHFZYml2UjJaaG9rUHFTSWRlMjdiRVFkdEF0QnN1cjhJVTNTcDhNVjFpRlpMYXhJblVKdVNNeGY4c3dISUdTaUNHMnZtZG9xU1YxcGZ3S281Yk5NdGsxMkRobXJrVXpFWWpGMGNjMU9WVlJ3a0p4bFpPcWVtMWZBNDByRUpZWnE0a1lySVAwMjBhTENwQXp5Nld2N0JVbFZnU0xoMnhTMG5qWDJEU1V5ZA?oc=5)
+### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+
+2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+
+---
+
+### [El virus más común de la mononucleosis se relaciona con la esclerosis múltiple - La Voz de Galicia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSnJ3M21XMDVhcjVRQWx6NVl3MGswMHVaclpKNlJqUTFJd3BGNHUyUm9KNG93aW9GX2VUeGZQLUtObERGZWJ4WUlfTWJtN3pxSGk1M0ZwejNMQ1JXbGYwZlJtZE81V1U3aDBTbWtUWGJKRzU3OVNucGxjdWdZU05adjhqUXJXSFM2b0tYeWd6VlFBdFRqaVFKVGRkQ3pRZ0pxMGEtU2liaWNlU0xBVjBUczRlWmhGRk51VklfOUhLazI3V2x4MkQyX1I4YU5mY2NEZG9mVExhd0JQVFZManJnSjB2THlzV3R5bmp3dXhjUzZCUQ?oc=5)
 
 2026-04-06 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQTFBY3lYOHdwN0dMZFlmSGl1THMwWGRVRU9sOVM4bUFJVERISHFZYml2UjJaaG9rUHFTSWRlMjdiRVFkdEF0QnN1cjhJVTNTcDhNVjFpRlpMYXhJblVKdVNNeGY4c3dISUdTaUNHMnZtZG9xU1YxcGZ3S281Yk5NdGsxMkRobXJrVXpFWWpGMGNjMU9WVlJ3a0p4bFpPcWVtMWZBNDByRUpZWnE0a1lySVAwMjBhTENwQXp5Nld2N0JVbFZnU0xoMnhTMG5qWDJEU1V5ZA?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSnJ3M21XMDVhcjVRQWx6NVl3MGswMHVaclpKNlJqUTFJd3BGNHUyUm9KNG93aW9GX2VUeGZQLUtObERGZWJ4WUlfTWJtN3pxSGk1M0ZwejNMQ1JXbGYwZlJtZE81V1U3aDBTbWtUWGJKRzU3OVNucGxjdWdZU05adjhqUXJXSFM2b0tYeWd6VlFBdFRqaVFKVGRkQ3pRZ0pxMGEtU2liaWNlU0xBVjBUczRlWmhGRk51VklfOUhLazI3V2x4MkQyX1I4YU5mY2NEZG9mVExhd0JQVFZManJnSjB2THlzV3R5bmp3dXhjUzZCUQ?oc=5)
 
 ---
 
-### [Día Mundial de la Actividad Física: por qué es clave para la salud y cuántos minutos de ejercicio recomiendan](https://news.google.com/rss/articles/CBMi5AFBVV95cUxORnRla3JJN0tNT3RwbTJaVG5QRHlOZmRyQ0ZXTkl2VEhuNWRTMGZ6bmh5TDNFYjQ1YUFHMDJQQkpxdlVRQWZhN2NwRGVwQU5OaHNXMjFramlvYzhzeTRaV1VDMmdhSTYtRG40MmJPdFdrTmZXcy1xbEVVYWtFX0JBSTR1TUdyNXkxVXZ2empFaU5RSkowN1ZkMGEyWFNFaWtXN0tHUTdfQklFSFduWkk0RnFPMmR2cG1nelh0azhtMXE0ZDY3ZW5MYnNBdEEzZ0xPSndhMklfanA0WjEwbTIxQVlNaGbSAf8BQVVfeXFMTlh1UUl3bUY1RG9SRFhDcnZ3S29iX21lTndFM05DbjdrNm9LQnctYlpjdnFyNzlEUUlCd2J6eXBxV19ENlBJOHFYWXMtZjN6YVpnQ3dvazhtOTRXR0pSYzFaNEJqaHU0NmlDTzFENl84Nlk3ZUo0Unp3OGNoVS1yNEhBSmlONXA4N2VPZnJZZkF4Mm15blNseHp4OEM4dVVRcExaSVAyNmI1NFRNRUhpQlc1UFExeEljZkV6T2VJdkZ0RV9ZSjRFamdTQjk2ZUhiWHRza3ZJOTNLR004clNtOVdKNmRsNzZSMFU1N0V3dzFWTS10MTZIUmtVN1Z0WmVn?oc=5)
+### [La nueva foto más famosa de la Tierra está hecha con una réflex de hace 10 años: así es el equipo fotográfico de Artemis II](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
 
-2026-04-06 <span class="news-indication-tag">MS</span>
+2026-04-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5AFBVV95cUxORnRla3JJN0tNT3RwbTJaVG5QRHlOZmRyQ0ZXTkl2VEhuNWRTMGZ6bmh5TDNFYjQ1YUFHMDJQQkpxdlVRQWZhN2NwRGVwQU5OaHNXMjFramlvYzhzeTRaV1VDMmdhSTYtRG40MmJPdFdrTmZXcy1xbEVVYWtFX0JBSTR1TUdyNXkxVXZ2empFaU5RSkowN1ZkMGEyWFNFaWtXN0tHUTdfQklFSFduWkk0RnFPMmR2cG1nelh0azhtMXE0ZDY3ZW5MYnNBdEEzZ0xPSndhMklfanA0WjEwbTIxQVlNaGbSAf8BQVVfeXFMTlh1UUl3bUY1RG9SRFhDcnZ3S29iX21lTndFM05DbjdrNm9LQnctYlpjdnFyNzlEUUlCd2J6eXBxV19ENlBJOHFYWXMtZjN6YVpnQ3dvazhtOTRXR0pSYzFaNEJqaHU0NmlDTzFENl84Nlk3ZUo0Unp3OGNoVS1yNEhBSmlONXA4N2VPZnJZZkF4Mm15blNseHp4OEM4dVVRcExaSVAyNmI1NFRNRUhpQlc1UFExeEljZkV6T2VJdkZ0RV9ZSjRFamdTQjk2ZUhiWHRza3ZJOTNLR004clNtOVdKNmRsNzZSMFU1N0V3dzFWTS10MTZIUmtVN1Z0WmVn?oc=5)
+來源：[photolari](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
 
 ---
 
-### [El cambio en la rutina nocturna que podría duplicar el riesgo de infarto, según científicos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk9lZ0poNkdteGxOSnRMWmNtUVg5VFNOZTg3bk5pRlRTal9fYjJGUjZTSE1FOGtxX294Y2lpcEx3X05ZLUdLVERmM1BldHJpT0VOMGN4MFE4N2RfM1FUWDRQVmVHNU5DSTVkYVZ4R2pfa3ptRmJMX25nb3NsY3owYzJCSGRiTHczOXpqZXlhc0xKRGVJd29MRUpFZ0tQUkI1VmxJQnlVVUVNdjd6MDBQR3N4cWxEV1pTeUY1Y2EycWFNcklXRnEtUi1KejfSAecBQVVfeXFMTjJQMUhSSEFlNm5Td0VaZnZUMkM1UUZJME96eS1FVFdEXy10dEFnNFBHUy1Zd2RzWlMxcTRBY0ota1R4VnRZLU9Hd2Vka0t0QkJ2OFdmVk16QVlHV1ZGOGhxV3Q4NVpHZGdXNld5M2tuaG81NGpIZkl5THVwSmlubUZTYTZkZV94LXM1UHhuay1DTHVDdE5xN2pZYndaNjVXVFc3MTk1TlZ1VGVUMU41Zk13YU9hTXViMjc5UDFZWDhqczRfcVhNMmN6VWpYRGl6dWlOc0NkX3loeDhES0NjbXJJenZscHVR?oc=5)
+### [Bowel cancer teams at Peterborough and Hinchingbrooke hospitals](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ybGtJSkFSOVNsaldTTjEtLU1mb2x6a3ctWFBlQjJYYTlqaVZJRm1YOWVjcm9MV3pZSVRnWWpocFV5SE54MzB3dVprbU5PX0NXeTFDdENZcTBuM2dW?oc=5)
 
-2026-04-05 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+2026-04-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk9lZ0poNkdteGxOSnRMWmNtUVg5VFNOZTg3bk5pRlRTal9fYjJGUjZTSE1FOGtxX294Y2lpcEx3X05ZLUdLVERmM1BldHJpT0VOMGN4MFE4N2RfM1FUWDRQVmVHNU5DSTVkYVZ4R2pfa3ptRmJMX25nb3NsY3owYzJCSGRiTHczOXpqZXlhc0xKRGVJd29MRUpFZ0tQUkI1VmxJQnlVVUVNdjd6MDBQR3N4cWxEV1pTeUY1Y2EycWFNcklXRnEtUi1KejfSAecBQVVfeXFMTjJQMUhSSEFlNm5Td0VaZnZUMkM1UUZJME96eS1FVFdEXy10dEFnNFBHUy1Zd2RzWlMxcTRBY0ota1R4VnRZLU9Hd2Vka0t0QkJ2OFdmVk16QVlHV1ZGOGhxV3Q4NVpHZGdXNld5M2tuaG81NGpIZkl5THVwSmlubUZTYTZkZV94LXM1UHhuay1DTHVDdE5xN2pZYndaNjVXVFc3MTk1TlZ1VGVUMU41Zk13YU9hTXViMjc5UDFZWDhqczRfcVhNMmN6VWpYRGl6dWlOc0NkX3loeDhES0NjbXJJenZscHVR?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ybGtJSkFSOVNsaldTTjEtLU1mb2x6a3ctWFBlQjJYYTlqaVZJRm1YOWVjcm9MV3pZSVRnWWpocFV5SE54MzB3dVprbU5PX0NXeTFDdENZcTBuM2dW?oc=5)
+
+---
+
+### [Is it time for a meat-free Easter? - Cyprus Mail](https://news.google.com/rss/articles/CBMid0FVX3lxTE5mTG1hYjhaQmQwdUg3OUF1dEFjX1BxSGJqUF9CcUt1b2NyUjJlNE41VW5lV085TzRXVDdkTDhoZGYwY1lPQi14c3pSaEgyU1B3WWlkNDdURG1faEE4ODdQc3dSbDIzd294MFZfa0tLYm9BMUp5OTRJ?oc=5)
+
+2026-04-05 <span class="news-indication-tag">MS</span>
+
+來源：[Cyprus Mail](https://news.google.com/rss/articles/CBMid0FVX3lxTE5mTG1hYjhaQmQwdUg3OUF1dEFjX1BxSGJqUF9CcUt1b2NyUjJlNE41VW5lV085TzRXVDdkTDhoZGYwY1lPQi14c3pSaEgyU1B3WWlkNDdURG1faEE4ODdQc3dSbDIzd294MFZfa0tLYm9BMUp5OTRJ?oc=5)
 
 ---
 
@@ -76,19 +92,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [New Covid variant with 75 mutations spreading in UK - key symptoms to watch - Birmingham Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGlhQXZxbmlCNXgzbFBnSUFidmZZWU8tdjhGMmJxSlVHTExTQ1dtUDZ0ZTNVNTgxTjdfNUZhRGZLYnl2Z25LcVFiQkhYaktkWFU0bURYcndZeFBUT3JzdHNWYy1lM3M5SHFzWnFHV3FNZm04TktyQ2hoNFJDZFBlUW15TXJSbUd5M2gxQjVCZ1EwdzV6V1E?oc=5)
+### [New Covid variant with 75 mutations spreading in UK - key symptoms to watch](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGlhQXZxbmlCNXgzbFBnSUFidmZZWU8tdjhGMmJxSlVHTExTQ1dtUDZ0ZTNVNTgxTjdfNUZhRGZLYnl2Z25LcVFiQkhYaktkWFU0bURYcndZeFBUT3JzdHNWYy1lM3M5SHFzWnFHV3FNZm04TktyQ2hoNFJDZFBlUW15TXJSbUd5M2gxQjVCZ1EwdzV6V1E?oc=5)
 
 2026-04-05 <span class="news-indication-tag">MS</span>
 
-來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGlhQXZxbmlCNXgzbFBnSUFidmZZWU8tdjhGMmJxSlVHTExTQ1dtUDZ0ZTNVNTgxTjdfNUZhRGZLYnl2Z25LcVFiQkhYaktkWFU0bURYcndZeFBUT3JzdHNWYy1lM3M5SHFzWnFHV3FNZm04TktyQ2hoNFJDZFBlUW15TXJSbUd5M2gxQjVCZ1EwdzV6V1E?oc=5)
-
----
-
-### [On la croyait disparue : l’Île-de-France est la région la plus touchée par cette maladie contagieuse](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVFudG50YW9qelA3c3dTMFBLQnNac21kOFVaSjFsalliT0g1Zlp2WTlwaXoyWXdDRnVLZGxvNUJTSlZDb2JNOFBoXy0wTEViaEt6YnlQYVJjalBtVVZVb1VJeEstSG5SSXllZUpzSDdZblItQWViWk0teFg5dzlHaXVNNUlVQ2Exblg1UVhvYUFlQV9aRnJnNHNqQ0RvUDMzblpXZzJsT2RRbDJYaDlpTlByaUZFTmxVWVVmbm9vT3h2czIxSHZJNEdya3hHbmVlTXc?oc=5)
-
-2026-04-04 <span class="news-indication-tag">MS</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeVFudG50YW9qelA3c3dTMFBLQnNac21kOFVaSjFsalliT0g1Zlp2WTlwaXoyWXdDRnVLZGxvNUJTSlZDb2JNOFBoXy0wTEViaEt6YnlQYVJjalBtVVZVb1VJeEstSG5SSXllZUpzSDdZblItQWViWk0teFg5dzlHaXVNNUlVQ2Exblg1UVhvYUFlQV9aRnJnNHNqQ0RvUDMzblpXZzJsT2RRbDJYaDlpTlByaUZFTmxVWVVmbm9vT3h2czIxSHZJNEdya3hHbmVlTXc?oc=5)
+來源：[birminghammail.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGlhQXZxbmlCNXgzbFBnSUFidmZZWU8tdjhGMmJxSlVHTExTQ1dtUDZ0ZTNVNTgxTjdfNUZhRGZLYnl2Z25LcVFiQkhYaktkWFU0bURYcndZeFBUT3JzdHNWYy1lM3M5SHFzWnFHV3FNZm04TktyQ2hoNFJDZFBlUW15TXJSbUd5M2gxQjVCZ1EwdzV6V1E?oc=5)
 
 ---
 

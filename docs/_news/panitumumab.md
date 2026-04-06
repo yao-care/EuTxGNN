@@ -14,7 +14,7 @@ permalink: /news/panitumumab/
 ---
 
 <p class="key-answer" data-question="Panitumumab 有什麼相關新聞？">
-<strong>Panitumumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Panitumumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/panitumumab/
 <p><a href="{{ '/drugs/panitumumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Höhenlage beeinflusst Diabetes: Neue Erkenntnisse über rote Blutkörperchen](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
+### [Revierten la diabetes tipo 1 en ratones con un nuevo esquema inmunológico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUzVoVU5hcjhIS1lCY0UxMUlnLUR3ME9fY1d4eVZzV0NfSm5Vb2otMGtxRWFDWmRVcGRPbC0tQW8zSzM2eFZJUHh3d0lsWERORkxneUNKaGRVR1NrSkxuZXlIZlRYdkQyd2w5ODQzaTRMYmRWZnB4ay1GSG9MakxMenpheVo1TXJMZTZHallLWC1FUTdodUFQTHJ4ZXcwSGV2WFHSAacBQVVfeXFMT3ZoYnFvMXozVVVuN2d2WTRJYU53d3ZIUmVrd09Md1lzM0ZxLXF1UkRtbFdld2tGcVgtUU9kRHVWSmkxLVpfN0RaQzROVm4tb3FHNDN5c0kwalBESFMwMXpSRk1Rb182dDVIcWNCMDQ5eElUZk0tdnZxV2FtOVZNejZoN3pBV1pqNnVCM09jcXJMWFM1LXRTeE5IWGpFMnYzSXRMc0JIaVk?oc=5)
 
-2026-04-05 <span class="news-indication-tag">diabetes</span>
+2026-04-06 <span class="news-indication-tag">diabetes</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
+來源：[Levante-EMV](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUzVoVU5hcjhIS1lCY0UxMUlnLUR3ME9fY1d4eVZzV0NfSm5Vb2otMGtxRWFDWmRVcGRPbC0tQW8zSzM2eFZJUHh3d0lsWERORkxneUNKaGRVR1NrSkxuZXlIZlRYdkQyd2w5ODQzaTRMYmRWZnB4ay1GSG9MakxMenpheVo1TXJMZTZHallLWC1FUTdodUFQTHJ4ZXcwSGV2WFHSAacBQVVfeXFMT3ZoYnFvMXozVVVuN2d2WTRJYU53d3ZIUmVrd09Md1lzM0ZxLXF1UkRtbFdld2tGcVgtUU9kRHVWSmkxLVpfN0RaQzROVm4tb3FHNDN5c0kwalBESFMwMXpSRk1Rb182dDVIcWNCMDQ5eElUZk0tdnZxV2FtOVZNejZoN3pBV1pqNnVCM09jcXJMWFM1LXRTeE5IWGpFMnYzSXRMc0JIaVk?oc=5)
 
 ---
 
-### [Mikronährstoffmangel bei Diabetes: Ein unterschätztes Risiko](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+### [Mikronährstoffmangel bei Diabetes: Ein unterschätztes Risiko - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
 
 2026-04-05 <span class="news-indication-tag">diabetes</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+
+---
+
+### [Höhenlage beeinflusst Diabetes: Neue Erkenntnisse über rote Blutkörperchen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
+
+2026-04-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
 
 ---
 

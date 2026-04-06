@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Mobile apps to help treat asthma and COPD patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
+
+2026-04-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
+
+---
 
 ### [Une thérapie numérique obtient un premier avis favorable avant son remboursement par l’Assurance maladie](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTSTZGa045RlBhZzlEcl83U20wdWxIcHV0c09hRzdHYnpZb3lXUmpmQk1Palh6YzRfZHVpbGxtNVlUaVloNElqazhkUC1uVmtUbGVLMG9MUWR1Yk9rRjNQMGtDSUZrd3NPR1hSVUhpSW80MU5kcUtNYkhIRzEwY1FYZjhENEhUSWhMR0hzZ0lJSmFkU3JhNV8tajFNZDFTT216dFE4STB2RDRiRGw3UjY3OTE5UFYzNHp3bw?oc=5)
 

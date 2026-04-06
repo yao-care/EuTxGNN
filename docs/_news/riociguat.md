@@ -14,7 +14,7 @@ permalink: /news/riociguat/
 ---
 
 <p class="key-answer" data-question="Riociguat 有什麼相關新聞？">
-<strong>Riociguat</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Riociguat</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,55 @@ permalink: /news/riociguat/
 <p><a href="{{ '/drugs/riociguat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（21 則）
+
+### [Schlafmangel beschleunigt biologisches Altern - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmFKZkwxTVNVekIwMHhRRjFFSFdSMmtOZHo5TC1ELThRb2g3UHdhUkItVGFGcG14OTRBUGVqSGlkanpvTzBDQlhqOUNMeE95Y0hGNzhLRG8xS3lwdUFoX3VTcUFkN0NMZFpnTFZlbWstdzhwOWlieEw0RWRickVTRnpJT0htSXhMNEVFUFJvRlZOSlRlVHBCOUhvSW9aOUlnZFZYOGt2bw?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmFKZkwxTVNVekIwMHhRRjFFSFdSMmtOZHo5TC1ELThRb2g3UHdhUkItVGFGcG14OTRBUGVqSGlkanpvTzBDQlhqOUNMeE95Y0hGNzhLRG8xS3lwdUFoX3VTcUFkN0NMZFpnTFZlbWstdzhwOWlieEw0RWRickVTRnpJT0htSXhMNEVFUFJvRlZOSlRlVHBCOUhvSW9aOUlnZFZYOGt2bw?oc=5)
+
+---
+
+### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+
+2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+
+---
+
+### [Geringe Sehkraft – erhöht sie das Risiko für Demenz? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnE0VVFGWm9ia3BETU9oU0k2b1RxT3R1RnNPLTV1T2lJWVVyTTZFSGZJb2JmeC1iVEpRU25ZeHZUekMwdVFOWWNkMU0wcTI1TDZnbXhTQUVGU2YzTkp5MjVFV1dSZUpnZkVJT1FURV8ySlZWZFB2cU4wdEtxcTA1dDU4T3gtRDE5Mkw1X3o4cG1wWloyNkRGZnFHa1dpeExPa1hwQ3JWNVlEM2xtdFJhMndRZl9JQQ?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnE0VVFGWm9ia3BETU9oU0k2b1RxT3R1RnNPLTV1T2lJWVVyTTZFSGZJb2JmeC1iVEpRU25ZeHZUekMwdVFOWWNkMU0wcTI1TDZnbXhTQUVGU2YzTkp5MjVFV1dSZUpnZkVJT1FURV8ySlZWZFB2cU4wdEtxcTA1dDU4T3gtRDE5Mkw1X3o4cG1wWloyNkRGZnFHa1dpeExPa1hwQ3JWNVlEM2xtdFJhMndRZl9JQQ?oc=5)
+
+---
+
+### [La sarcopenia afecta a casi la mitad de los pacientes reumáticos y eleva el riesgo de discapacidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkpTb29WU0xrdXhJRGtxeHhObEdSUFd0TlpwZnNRUnNOSExjeWZMR0J4N2RPa2EzbmxBRFZzOFhldHFUZURUTnk4dXNlalZUaUVjMjItQng0Y2FsLTY2SHYtNVdsSUdaRFFxVFVCb2NhR2NnQUV4dngwY3NfSXhkVkc4V3dFMVFGWDBISmgwRDQ3Y0l2VkFZdzhqX1lDMkNfR040eVBEYlBLbTNSOWZYTnQxU25MV1pXOEd3UTRn?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkpTb29WU0xrdXhJRGtxeHhObEdSUFd0TlpwZnNRUnNOSExjeWZMR0J4N2RPa2EzbmxBRFZzOFhldHFUZURUTnk4dXNlalZUaUVjMjItQng0Y2FsLTY2SHYtNVdsSUdaRFFxVFVCb2NhR2NnQUV4dngwY3NfSXhkVkc4V3dFMVFGWDBISmgwRDQ3Y0l2VkFZdzhqX1lDMkNfR040eVBEYlBLbTNSOWZYTnQxU25MV1pXOEd3UTRn?oc=5)
+
+---
+
+### [La nueva foto más famosa de la Tierra está hecha con una réflex de hace 10 años: así es el equipo fotográfico de Artemis II](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
+
+2026-04-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[photolari](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
+
+---
+
+### [Un estudio asocia la apnea obstructiva del sueño con la mortalidad por todas las causas y los eventos cardiovasculares - Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
+
+2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
+
+---
 
 ### [En Segovia, 122 pacientes luchan contra la fibromialgia, enfermedad que podría afectar al 3% de la población - El Adelantado](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMDFUb251S2ZsaXpHb3gtRmRrZ3ltTl9ZcThTNWZ0X1JxVW1Ed2RFUlZKbEY3bmJjbGUzUlhhTFF3d3RDdEw0cW9JQXV5T25DeXF6ZHRpU1FNZWNYTF9CNHlkckJvRFhENjB3dHEta0ppSTNhMFE5UDlrWm1EYVI4cFRxb2lIVVRoNWthVDVpckZSTFk0V3FmZ1JEdHhLLWw4dE9hYUVQRXp4dTJxWGpNQlZtUV9GMS1FQmJhV1YzMHpxS05QSzk1cWF2RWxRdDlyVC1SVXBwRVBxS3BoNE9pWGNwQjI?oc=5)
 
@@ -60,7 +108,7 @@ permalink: /news/riociguat/
 
 ---
 
-### [¿Por qué las enfermedades transmitidas por garrapatas afectan más a hombres?: Estas son las razones de los expertos - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUXBKbW5WTmI0a1hPQTE4ZEtWSl93R1cwM2JlbGVuaUE2aDcyNXhidTVEZUJUQnY3ajFrejdTWEU2b2c3Z2xraVZBZGRPcy03Rmwtd18wb1NoOHVlTzc1YjFTSllnQmFyX2JGZlg5Y0ZWTnRadVh1YVpQeWNidkd1Y28xdktSSWkzbllrMjR3R2NjWjZhelp6RkxFZDR3Um5Nd20zV3pYd2FrbzZuQTc0TjJWZzVObURUM08yTVYyRXZUbTFlTHBXMk1VcGhOS1VRNlpn0gHYAUFVX3lxTFBRYlVtU3R1MndkdjVNeEd6clpQaXNVblNwMm8ySWRDeThkeTZmLTZSMEUtME9SeXB0ejhvcm16V1dvUmllWG5iRHFZQTV4dE9uNWVPejdWQldvcGk4dUlSSC1xenkzbG5zV19sc21hTk1lWHkyZzl2Q1d1ajg2NXJRVTl6dmVQcnRfUUVjd1VUZGJ0WWstVnlaUVVDZEZ0YnpadkRqTFdpX1ctSTZOVUtPajh3b1FhSHRmUzV1elBqNEw2RDBhT2RvUlIwNnNNWnNhVnIwY2xLYw?oc=5)
+### [¿Por qué las enfermedades transmitidas por garrapatas afectan más a hombres? Estas son las razones de los expertos - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUXBKbW5WTmI0a1hPQTE4ZEtWSl93R1cwM2JlbGVuaUE2aDcyNXhidTVEZUJUQnY3ajFrejdTWEU2b2c3Z2xraVZBZGRPcy03Rmwtd18wb1NoOHVlTzc1YjFTSllnQmFyX2JGZlg5Y0ZWTnRadVh1YVpQeWNidkd1Y28xdktSSWkzbllrMjR3R2NjWjZhelp6RkxFZDR3Um5Nd20zV3pYd2FrbzZuQTc0TjJWZzVObURUM08yTVYyRXZUbTFlTHBXMk1VcGhOS1VRNlpn0gHYAUFVX3lxTFBRYlVtU3R1MndkdjVNeEd6clpQaXNVblNwMm8ySWRDeThkeTZmLTZSMEUtME9SeXB0ejhvcm16V1dvUmllWG5iRHFZQTV4dE9uNWVPejdWQldvcGk4dUlSSC1xenkzbG5zV19sc21hTk1lWHkyZzl2Q1d1ajg2NXJRVTl6dmVQcnRfUUVjd1VUZGJ0WWstVnlaUVVDZEZ0YnpadkRqTFdpX1ctSTZOVUtPajh3b1FhSHRmUzV1elBqNEw2RDBhT2RvUlIwNnNNWnNhVnIwY2xLYw?oc=5)
 
 2026-04-06 <span class="news-indication-tag">AF</span>
 
@@ -68,11 +116,19 @@ permalink: /news/riociguat/
 
 ---
 
-### [Personas que padecen apnea del sueño tiene hasta un 71% más de riesgo de morir por cualquier causa](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
+### [Bowel cancer teams at Peterborough and Hinchingbrooke hospitals](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ybGtJSkFSOVNsaldTTjEtLU1mb2x6a3ctWFBlQjJYYTlqaVZJRm1YOWVjcm9MV3pZSVRnWWpocFV5SE54MzB3dVprbU5PX0NXeTFDdENZcTBuM2dW?oc=5)
 
-2026-04-05 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+2026-04-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ybGtJSkFSOVNsaldTTjEtLU1mb2x6a3ctWFBlQjJYYTlqaVZJRm1YOWVjcm9MV3pZSVRnWWpocFV5SE54MzB3dVprbU5PX0NXeTFDdENZcTBuM2dW?oc=5)
+
+---
+
+### [Woman walked 100 miles during chemo after a tiny symptom she initially dismissed - Ipswich Star](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDBJQmc0SzlQbFVNVzRIaW81empXUjh0LTZiNEVRYldKRGY4b09oLUpsWlhmdjB4S19KWDlER21BNTJXdW8zUm9uVFZzaGNTeExpUURmTXN6RmFjUXF5WXpiTFg3RTlDY2J2OXpLakMzMWZuWFJESXVSUHE2N3I1a1I1TGhvY0xLbU1BRnEzU0RCTTdPelE?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[Ipswich Star](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDBJQmc0SzlQbFVNVzRIaW81empXUjh0LTZiNEVRYldKRGY4b09oLUpsWlhmdjB4S19KWDlER21BNTJXdW8zUm9uVFZzaGNTeExpUURmTXN6RmFjUXF5WXpiTFg3RTlDY2J2OXpLakMzMWZuWFJESXVSUHE2N3I1a1I1TGhvY0xLbU1BRnEzU0RCTTdPelE?oc=5)
 
 ---
 
@@ -84,19 +140,19 @@ permalink: /news/riociguat/
 
 ---
 
+### [NI man's distressing meningitis death after complaining of an upset stomach - Belfast Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2pndzBERk9LR2pwWTRaZXNOZW5CNzJSMUFEWU9GQXBCdnd4dEh3MlVNMURrVnhsVWN4RlVGUVI3ZjJ2TnBpaHphbzZIa1dWaXpZNklJN09BTWhtQXE0YkJGVEZhdmc4LTFLblF6WHFCRVQ1Nnd4SEhkbFR4a1dtek1FRnhlRFhnS291Qg?oc=5)
+
+2026-04-05 <span class="news-indication-tag">AF</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2pndzBERk9LR2pwWTRaZXNOZW5CNzJSMUFEWU9GQXBCdnd4dEh3MlVNMURrVnhsVWN4RlVGUVI3ZjJ2TnBpaHphbzZIa1dWaXpZNklJN09BTWhtQXE0YkJGVEZhdmc4LTFLblF6WHFCRVQ1Nnd4SEhkbFR4a1dtek1FRnhlRFhnS291Qg?oc=5)
+
+---
+
 ### [Den eigenen Urin trinken: Heilsaft oder Humbug?](https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFVhU05CSDFvWno4cl9pYlkzeGR4QkpTOGdKRkZDYzRoUzR2WE5obHotV2pqcTJIN2E1UU96cmxLMHZZRElmMUxtLU5nOVNNNEktcUQyU0cxdnFDa2g3WlV4WXM5bFctT2xBRzNDbnpaZ05KV2gwVUVYcXl6SFhwa0lxc2xiYTlrY0hBZmFILXRnejN2czdFWWZUUXEzZU9TM2kyWkxRZWJ5d216RDJNS1IwNnpXeXIwaE9kbnlHdjRFYWFfZGlPbmtBVQ?oc=5)
 
 2026-04-05 <span class="news-indication-tag">AF</span>
 
 來源：[CHIP](https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFVhU05CSDFvWno4cl9pYlkzeGR4QkpTOGdKRkZDYzRoUzR2WE5obHotV2pqcTJIN2E1UU96cmxLMHZZRElmMUxtLU5nOVNNNEktcUQyU0cxdnFDa2g3WlV4WXM5bFctT2xBRzNDbnpaZ05KV2gwVUVYcXl6SFhwa0lxc2xiYTlrY0hBZmFILXRnejN2czdFWWZUUXEzZU9TM2kyWkxRZWJ5d216RDJNS1IwNnpXeXIwaE9kbnlHdjRFYWFfZGlPbmtBVQ?oc=5)
-
----
-
-### [Demostrar que los cigarrillos electrónicos son cancerígenos requiere "un consumo promedio durante 15 o 20 años"](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmlMMXAtR1Q0MDFISmRuSWhkQ2JKdWVMXzVvRXpqQTQ5QkVsNzNKMHJ1VGZwSkh1SnZmTWRENGFtOUpYY3dLdm5BNTk0TTdDUUZPbHNySlRRbDRlRkNMRTNGbWNaWDlCdWxfT1FXWWNUYXdxMEM2cGNxVGU5UXJEZmZ1WUhKOXZBbWM5SzBoT2FHd3cxdm5tUk91akF3MnZ4cWlUeWxwRU9VSVdleUhhUkEwa1FRaEMwOG5lS3NmckVLaE0?oc=5)
-
-2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmlMMXAtR1Q0MDFISmRuSWhkQ2JKdWVMXzVvRXpqQTQ5QkVsNzNKMHJ1VGZwSkh1SnZmTWRENGFtOUpYY3dLdm5BNTk0TTdDUUZPbHNySlRRbDRlRkNMRTNGbWNaWDlCdWxfT1FXWWNUYXdxMEM2cGNxVGU5UXJEZmZ1WUhKOXZBbWM5SzBoT2FHd3cxdm5tUk91akF3MnZ4cWlUeWxwRU9VSVdleUhhUkEwa1FRaEMwOG5lS3NmckVLaE0?oc=5)
 
 ---
 
@@ -132,6 +188,14 @@ permalink: /news/riociguat/
 
 ---
 
+### [Why deadly bowel cancer's striking young and peri-menopausal women - Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
+
+2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
+
+---
+
 ### [Fasten im Check: Neue Studien fordern Umdenken - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRqZHkwazhYWnhMX29aZkNoRlJ5TlJldmI5N0NRMmg1a2tnSjRjenpTNW5JU05KZ01XMDFvUXczT1c3QTRhdVZXQUF1a0syQVdlVzlDWEgwaWVpd2JRVVo3TlZrSlNJQm94Wk1kekJNUU5HSTl1OFo4YXlZYVdSQkl0Q3Nib18wZ2c4cGx5bzZFRnNNY19zellRTmxoQkFwODRXSDNYdw?oc=5)
 
 2026-04-04 <span class="news-indication-tag">AF</span>
@@ -140,43 +204,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Family ‘overwhelmed with love and support’ after death of schoolgirl - Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXFad1NES1FGM2YybVpTQTRvbjFoc09KYU1CYXFCeGhQN3BURzU4N2R6U0FoU1Vab1JDTWZmTlVObjRpUzN3Wl81NnVLZGh5ZkJUUXRDalp4Z09tQkJPT0VpbUs2SEVORDBmTl9JTHRDMV80QWtObFpLQWpxUlI0V1A4SWNfVnE4SmE1QmZoSEpuc0syTFU4QVZ5M05BZjdOdmpWY1ZWdzBzczQ0UHRr?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AF</span>
-
-來源：[Kent Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXFad1NES1FGM2YybVpTQTRvbjFoc09KYU1CYXFCeGhQN3BURzU4N2R6U0FoU1Vab1JDTWZmTlVObjRpUzN3Wl81NnVLZGh5ZkJUUXRDalp4Z09tQkJPT0VpbUs2SEVORDBmTl9JTHRDMV80QWtObFpLQWpxUlI0V1A4SWNfVnE4SmE1QmZoSEpuc0syTFU4QVZ5M05BZjdOdmpWY1ZWdzBzczQ0UHRr?oc=5)
-
----
-
-### [Un avance médico para controlar la hipertensión reduce los infartos, ictus y fallecimientos - Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
-
-2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
-
----
-
 ### [Warum wir gähnen – Neurowissenschaftler entdecken unerwartete Hinweise im MRT](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
 
 2026-04-04 <span class="news-indication-tag">AF</span>
 
-來源：[t3n.de](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
-
----
-
-### [Wissenschaft - Übersehenes Organ: Mit gesundem Thymus gesund im Alter](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSG5CWV9jenRWMlpPWllGQ1VXX21mMzk5WEo2OXRURjJVSDl4TFRRbVkwazE3bzdWVmdzcXI3dWp0QklQcU5Qb3hBVVZDNFBwVnh0VUlqQ3FIaVZmc3V4UDNkWXdtV05QZ0htLWZCNnBBemxKdW1uakpoMUdWQjdmaFF0UVNVOXcxRnd5S01lVnduaTFYR1lxbi1mQ29HcUZNOUpQNU9va09HTE1qeG42NlRId1lwYkZQbFdIdjdKd1JadlJIZ001RG5XaFAwQWFXTHNvTDRCYWVCMUItZ2N2OUtXSQ?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AF</span>
-
-來源：[radioeins](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSG5CWV9jenRWMlpPWllGQ1VXX21mMzk5WEo2OXRURjJVSDl4TFRRbVkwazE3bzdWVmdzcXI3dWp0QklQcU5Qb3hBVVZDNFBwVnh0VUlqQ3FIaVZmc3V4UDNkWXdtV05QZ0htLWZCNnBBemxKdW1uakpoMUdWQjdmaFF0UVNVOXcxRnd5S01lVnduaTFYR1lxbi1mQ29HcUZNOUpQNU9va09HTE1qeG42NlRId1lwYkZQbFdIdjdKd1JadlJIZ001RG5XaFAwQWFXTHNvTDRCYWVCMUItZ2N2OUtXSQ?oc=5)
-
----
-
-### [How bad smells affect your health](https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGtnSWVfaHpSZnV6ZWtlaUplbG5aelBEWWNnS1NBNUxRVlgxWjc0Z2xyNHVBYTlLMW1laDRlS25CVWtJZUtUMk96VXAzRkI3b3ZHcWpBVFRrcFUtQU83V0FVNnlUVGhhTW5SRV9BVUFUMnV2MUhxRWQ5QTFTZEZqZGxfUQ?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGtnSWVfaHpSZnV6ZWtlaUplbG5aelBEWWNnS1NBNUxRVlgxWjc0Z2xyNHVBYTlLMW1laDRlS25CVWtJZUtUMk96VXAzRkI3b3ZHcWpBVFRrcFUtQU83V0FVNnlUVGhhTW5SRV9BVUFUMnV2MUhxRWQ5QTFTZEZqZGxfUQ?oc=5)
+來源：[t3n](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
 
 ---
 
