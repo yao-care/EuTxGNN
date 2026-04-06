@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Guselkumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [De tratar la leucemia a mejorar la psoriasis: el fármaco que "abre nuevas posibilidades terapéuticas"](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnpLOHBYWThTcnp4d3BuUVpVWExnVWtTZzZLTG9YUjZvbmdNZUJIb2tRdnU5Rm1scFV0S0pSajhGM1hDbDN6RTI1a19kU29KSlZEYjFGbU1BQ1pjVmk0ZXhJd2tlTVFLb2JoMDZaaGFlMTBSRzV3dFpkbmV3WmdWdU03bi1ZdndXYlIzSzd0QWd5QXBNNHBWS3JHVlFzdHhNRmVsbEM3Ym9wWGVPbE4wWTJsZHVwUDJtQmhXMEcxNFBqQVItTHlGVEVOQUgwdVgtRUJHMENn?oc=5)
+
+2026-04-06 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Vozpópuli](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnpLOHBYWThTcnp4d3BuUVpVWExnVWtTZzZLTG9YUjZvbmdNZUJIb2tRdnU5Rm1scFV0S0pSajhGM1hDbDN6RTI1a19kU29KSlZEYjFGbU1BQ1pjVmk0ZXhJd2tlTVFLb2JoMDZaaGFlMTBSRzV3dFpkbmV3WmdWdU03bi1ZdndXYlIzSzd0QWd5QXBNNHBWS3JHVlFzdHhNRmVsbEM3Ym9wWGVPbE4wWTJsZHVwUDJtQmhXMEcxNFBqQVItTHlGVEVOQUgwdVgtRUJHMENn?oc=5)
+
+---
 
 ### [Höhenlage beeinflusst Diabetes: Neue Erkenntnisse über rote Blutkörperchen](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
 
@@ -73,6 +81,14 @@ permalink: /news/guselkumab/
 2026-04-05 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
+
+---
+
+### [Le business de la peur de la maladie lance des analyses de sang testant jusqu'à 150 biomarqueurs: "Ce n'est pas comme ça qu'on fait de la prévention"](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
+
+2026-04-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
+
+來源：[L'Avenir](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
 
 ---
 

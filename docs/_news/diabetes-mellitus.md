@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Höhenlage beeinflusst Diabetes: Neue Erkenntnisse über rote Blutkörperchen](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
 
@@ -137,6 +137,14 @@ permalink: /news/diabetes-mellitus/
 2026-04-05
 
 來源：[lifePR](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
+
+---
+
+### [Le business de la peur de la maladie lance des analyses de sang testant jusqu'à 150 biomarqueurs: "Ce n'est pas comme ça qu'on fait de la prévention"](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
+
+2026-04-04
+
+來源：[L'Avenir](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
 
 ---
 

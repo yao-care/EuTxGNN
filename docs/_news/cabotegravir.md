@@ -76,11 +76,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Aceite de oliva virgen extra contra la artritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
+### [Le business de la peur de la maladie lance des analyses de sang testant jusqu'à 150 biomarqueurs: "Ce n'est pas comme ça qu'on fait de la prévention"](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
 
-2026-04-04 <span class="news-indication-tag">artritis</span>
+2026-04-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
 
-來源：[canalsur.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
+來源：[L'Avenir](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
 
 ---
 

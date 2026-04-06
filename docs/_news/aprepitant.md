@@ -14,7 +14,7 @@ permalink: /news/aprepitant/
 ---
 
 <p class="key-answer" data-question="Aprepitant 有什麼相關新聞？">
-<strong>Aprepitant</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aprepitant</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,35 @@ permalink: /news/aprepitant/
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
+
+### [En Segovia, 122 pacientes luchan contra la fibromialgia, enfermedad que podría afectar al 3% de la población - El Adelantado](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMDFUb251S2ZsaXpHb3gtRmRrZ3ltTl9ZcThTNWZ0X1JxVW1Ed2RFUlZKbEY3bmJjbGUzUlhhTFF3d3RDdEw0cW9JQXV5T25DeXF6ZHRpU1FNZWNYTF9CNHlkckJvRFhENjB3dHEta0ppSTNhMFE5UDlrWm1EYVI4cFRxb2lIVVRoNWthVDVpckZSTFk0V3FmZ1JEdHhLLWw4dE9hYUVQRXp4dTJxWGpNQlZtUV9GMS1FQmJhV1YzMHpxS05QSzk1cWF2RWxRdDlyVC1SVXBwRVBxS3BoNE9pWGNwQjI?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[El Adelantado](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMDFUb251S2ZsaXpHb3gtRmRrZ3ltTl9ZcThTNWZ0X1JxVW1Ed2RFUlZKbEY3bmJjbGUzUlhhTFF3d3RDdEw0cW9JQXV5T25DeXF6ZHRpU1FNZWNYTF9CNHlkckJvRFhENjB3dHEta0ppSTNhMFE5UDlrWm1EYVI4cFRxb2lIVVRoNWthVDVpckZSTFk0V3FmZ1JEdHhLLWw4dE9hYUVQRXp4dTJxWGpNQlZtUV9GMS1FQmJhV1YzMHpxS05QSzk1cWF2RWxRdDlyVC1SVXBwRVBxS3BoNE9pWGNwQjI?oc=5)
+
+---
+
+### [Un estudio sugiere que las tomografías de cáncer de pulmón pueden detectar otros tumores](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWJSR096TWRpU1hWRnp5T0hzNGx4RW44TjNTcXdqYXkzLWF6UXl5NTZOS1dLbVdvbWpwVU00aHd4MjcwZUpCYi01WjRzMFhRRUFCZW1OY0dmOEczdmxMQ2IxX3BKT0xxS3RDRUxkZlJmT3lWMkE2dzgxd0pzRnlJSUlNU1dZeVV3QkRSdF85aVVvRGwxTlVnZXEtT0VHOXNVWDFFeGRRY1ZNWGVsSWt5dWppbVRZRkc0eWZHMzFqNG1MWUZObXJuVjFVejdqUk9lZWNNRjlTTFhYaGNvZGc?oc=5)
+
+2026-04-06 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWJSR096TWRpU1hWRnp5T0hzNGx4RW44TjNTcXdqYXkzLWF6UXl5NTZOS1dLbVdvbWpwVU00aHd4MjcwZUpCYi01WjRzMFhRRUFCZW1OY0dmOEczdmxMQ2IxX3BKT0xxS3RDRUxkZlJmT3lWMkE2dzgxd0pzRnlJSUlNU1dZeVV3QkRSdF85aVVvRGwxTlVnZXEtT0VHOXNVWDFFeGRRY1ZNWGVsSWt5dWppbVRZRkc0eWZHMzFqNG1MWUZObXJuVjFVejdqUk9lZWNNRjlTTFhYaGNvZGc?oc=5)
+
+---
+
+### [¿Por qué las enfermedades transmitidas por garrapatas afectan más a hombres?: Estas son las razones de los expertos - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUXBKbW5WTmI0a1hPQTE4ZEtWSl93R1cwM2JlbGVuaUE2aDcyNXhidTVEZUJUQnY3ajFrejdTWEU2b2c3Z2xraVZBZGRPcy03Rmwtd18wb1NoOHVlTzc1YjFTSllnQmFyX2JGZlg5Y0ZWTnRadVh1YVpQeWNidkd1Y28xdktSSWkzbllrMjR3R2NjWjZhelp6RkxFZDR3Um5Nd20zV3pYd2FrbzZuQTc0TjJWZzVObURUM08yTVYyRXZUbTFlTHBXMk1VcGhOS1VRNlpn0gHYAUFVX3lxTFBRYlVtU3R1MndkdjVNeEd6clpQaXNVblNwMm8ySWRDeThkeTZmLTZSMEUtME9SeXB0ejhvcm16V1dvUmllWG5iRHFZQTV4dE9uNWVPejdWQldvcGk4dUlSSC1xenkzbG5zV19sc21hTk1lWHkyZzl2Q1d1ajg2NXJRVTl6dmVQcnRfUUVjd1VUZGJ0WWstVnlaUVVDZEZ0YnpadkRqTFdpX1ctSTZOVUtPajh3b1FhSHRmUzV1elBqNEw2RDBhT2RvUlIwNnNNWnNhVnIwY2xLYw?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUXBKbW5WTmI0a1hPQTE4ZEtWSl93R1cwM2JlbGVuaUE2aDcyNXhidTVEZUJUQnY3ajFrejdTWEU2b2c3Z2xraVZBZGRPcy03Rmwtd18wb1NoOHVlTzc1YjFTSllnQmFyX2JGZlg5Y0ZWTnRadVh1YVpQeWNidkd1Y28xdktSSWkzbllrMjR3R2NjWjZhelp6RkxFZDR3Um5Nd20zV3pYd2FrbzZuQTc0TjJWZzVObURUM08yTVYyRXZUbTFlTHBXMk1VcGhOS1VRNlpn0gHYAUFVX3lxTFBRYlVtU3R1MndkdjVNeEd6clpQaXNVblNwMm8ySWRDeThkeTZmLTZSMEUtME9SeXB0ejhvcm16V1dvUmllWG5iRHFZQTV4dE9uNWVPejdWQldvcGk4dUlSSC1xenkzbG5zV19sc21hTk1lWHkyZzl2Q1d1ajg2NXJRVTl6dmVQcnRfUUVjd1VUZGJ0WWstVnlaUVVDZEZ0YnpadkRqTFdpX1ctSTZOVUtPajh3b1FhSHRmUzV1elBqNEw2RDBhT2RvUlIwNnNNWnNhVnIwY2xLYw?oc=5)
+
+---
 
 ### [Personas que padecen apnea del sueño tiene hasta un 71% más de riesgo de morir por cualquier causa](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
 
-2026-04-05 <span class="news-indication-tag">AF</span>
+2026-04-05 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
 
@@ -76,14 +100,6 @@ permalink: /news/aprepitant/
 
 ---
 
-### [Suspected measles outbreak kills nearly 100 children in Bangladesh - Al Jazeera](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamxjNE03LW8yRXNDZldmOUF2MnhYZC04OUlya1JidGFtN0FtUm9TblJVVGhhY1pSRHBTalA3MVVqWHVFTlN1Z0N4SWpOVjF0UUR1VlhYcTI0SkxDLTBMWWlScm1ib3VaTzVmTnVPUjh3dUtyNUUtdk1vVUZfRjk1V0VJOWxoM1JwbHlVRXFsZS15TXRZZlJWM3RzQVp6UkNwdjV3elRYUGlBUdIBrwFBVV95cUxNeHFmSlpTWWZsMU1Gb0FnMEEwaTlOYnJaSG8xSUZNSzdUczhncDJsSk9XM3JoUmgzVlR0S2I0ZDJmTHdsZ25kY2JaM3A2Z0ViSmFFWi03enFmQkI4a292QWtZMV9uaTVEaGxtWDdGclROWUo3NkdJSWtHZXhLeUJXeUFyMFVwc3Y0eGlYWEFTU2VzQkRsQ251M0VaS29ISkRCYkVQVy1vNUppVzJjSTE4?oc=5)
-
-2026-04-05 <span class="news-indication-tag">AF</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamxjNE03LW8yRXNDZldmOUF2MnhYZC04OUlya1JidGFtN0FtUm9TblJVVGhhY1pSRHBTalA3MVVqWHVFTlN1Z0N4SWpOVjF0UUR1VlhYcTI0SkxDLTBMWWlScm1ib3VaTzVmTnVPUjh3dUtyNUUtdk1vVUZfRjk1V0VJOWxoM1JwbHlVRXFsZS15TXRZZlJWM3RzQVp6UkNwdjV3elRYUGlBUdIBrwFBVV95cUxNeHFmSlpTWWZsMU1Gb0FnMEEwaTlOYnJaSG8xSUZNSzdUczhncDJsSk9XM3JoUmgzVlR0S2I0ZDJmTHdsZ25kY2JaM3A2Z0ViSmFFWi03enFmQkI4a292QWtZMV9uaTVEaGxtWDdGclROWUo3NkdJSWtHZXhLeUJXeUFyMFVwc3Y0eGlYWEFTU2VzQkRsQ251M0VaS29ISkRCYkVQVy1vNUppVzJjSTE4?oc=5)
-
----
-
 ### [Un análisis de sangre serviría para entender los desequilibrios minerales que afectan a la salud](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZXhoRVZsLTFPWm5kNS1VQkZwclAwekx6amJBLWR3RWpvZkxCY21xNTJXNnpIcWJFZXRhVkJkamFFalYtS1ZRUWNKTkN2dUZNemdUaDF0OFJSby1iQVpXX2g3clBEOFNnNlhONS1WT1JvR3BJM3RJUUxVbTRfbGJqcVJoMDg0RjhGaWtmTWltcjl5a2ZJWkhwcEFGZ0N4bFNTUURMXy1yS3lpLU81UGJUYlowUXUxZmtVUHB2eHltR3BPdw?oc=5)
 
 2026-04-05 <span class="news-indication-tag">AF</span>
@@ -100,11 +116,11 @@ permalink: /news/aprepitant/
 
 ---
 
-### [Smartwatches y salud: el desafío de la monitorización cardíaca personal](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGxsRUo3UUhpdlRUTUQyc2k0UDFJeXBBbDN2QUh5QXRQcktycllQejlIUUhnZFFFQW9YSXd5bFpkOXM1ZWY5Z193bUF5Wkd1YWo0aVhoNTRLRTM4N281cmVlNm1MNkRTSDJzQTlHR2w5ZzlOWFFtdnA0SjFOX3ltVlVjR0lmNm0tS3Q5V2UzWm9LWjU2aEFJa0pUQ2pnSFk?oc=5)
+### [How ‘super-agers’ keep their brains active in their 60s and beyond - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWFGMmp0R0oxdlFmMVdjNjl2bEtvaXlITEpWT2t4SWxITl9kMllrRWRsV2lsTkhYTm9vbDZLbTdrUU1yajF0SXlwRHdKZmRiRHNNT1o5THN5YmY4OUl4aUR1SnplVExRU2pvQkhmUnk1NUVlVm0tSXFwRS1MWTZsdmVTZ3R5RXVHeEpjbWgwVWsxWUlYUWxCS3ppYkxjZHRCejkxWExxakFoLUE?oc=5)
 
 2026-04-05 <span class="news-indication-tag">AF</span>
 
-來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGxsRUo3UUhpdlRUTUQyc2k0UDFJeXBBbDN2QUh5QXRQcktycllQejlIUUhnZFFFQW9YSXd5bFpkOXM1ZWY5Z193bUF5Wkd1YWo0aVhoNTRLRTM4N281cmVlNm1MNkRTSDJzQTlHR2w5ZzlOWFFtdnA0SjFOX3ltVlVjR0lmNm0tS3Q5V2UzWm9LWjU2aEFJa0pUQ2pnSFk?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWFGMmp0R0oxdlFmMVdjNjl2bEtvaXlITEpWT2t4SWxITl9kMllrRWRsV2lsTkhYTm9vbDZLbTdrUU1yajF0SXlwRHdKZmRiRHNNT1o5THN5YmY4OUl4aUR1SnplVExRU2pvQkhmUnk1NUVlVm0tSXFwRS1MWTZsdmVTZ3R5RXVHeEpjbWgwVWsxWUlYUWxCS3ppYkxjZHRCejkxWExxakFoLUE?oc=5)
 
 ---
 
@@ -132,19 +148,19 @@ permalink: /news/aprepitant/
 
 ---
 
+### [Un avance médico para controlar la hipertensión reduce los infartos, ictus y fallecimientos - Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
+
+2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
+
+---
+
 ### [Warum wir gähnen – Neurowissenschaftler entdecken unerwartete Hinweise im MRT](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
 
 2026-04-04 <span class="news-indication-tag">AF</span>
 
-來源：[t3n](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
-
----
-
-### [Una nueva terapia para controlar la hipertensión reduce ictus y muertes en miles de pacientes](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
-
-2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
-
-來源：[diariodemallorca.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
+來源：[t3n.de](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
 
 ---
 
@@ -161,14 +177,6 @@ permalink: /news/aprepitant/
 2026-04-04 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGtnSWVfaHpSZnV6ZWtlaUplbG5aelBEWWNnS1NBNUxRVlgxWjc0Z2xyNHVBYTlLMW1laDRlS25CVWtJZUtUMk96VXAzRkI3b3ZHcWpBVFRrcFUtQU83V0FVNnlUVGhhTW5SRV9BVUFUMnV2MUhxRWQ5QTFTZEZqZGxfUQ?oc=5)
-
----
-
-### [Scientists create “smart” DNA drug that targets cancer cells with extreme precision](https://news.google.com/rss/articles/CBMib0FVX3lxTFBiYWNRQmY4NDU2dDUtWWhabDdibDl2VFl5c0ltdWNsNktuSENiTS1IUGhZUnhGYUo3MWVkRjR5aTN0dWhCbjBZWGVEOHpqZVEzRURrNC14aVl6Q0c3czdKNXFvci0xcWplUUhLY1ZHUQ?oc=5)
-
-2026-04-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBiYWNRQmY4NDU2dDUtWWhabDdibDl2VFl5c0ltdWNsNktuSENiTS1IUGhZUnhGYUo3MWVkRjR5aTN0dWhCbjBZWGVEOHpqZVEzRURrNC14aVl6Q0c3czdKNXFvci0xcWplUUhLY1ZHUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,53 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（18 則）
 
-### [Doctor Santiago Marrero: “Si evitamos que la célula tumoral consuma glucosa y glutamina, se contraerá y](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0dkQ2ZQWElaN1EteXc0U2xwZUpfRFV0LW9zQjZDNmtFRzczUXRtaEF4MHJKNkZVTVI4d3dFNG9sWjRZUnBNY2xiMG92OVJPd1lJcXdycGdhdUsteWRsWnVIYlp1WjFJdkJMRXk3OHgwc1N6NlBFSnkyNUlTUnI5ZW9CT2JLTWJWcUNjQU9kTGlvZmg3ZnJRS00zdVRHSVp4b1HSAacBQVVfeXFMT1pzQXowXzAwOEREX1RQREdCU0VpTHhjWW1VYjIxSWtKX2ViaUZsVGp0YnAtNGExTFNTWWNiTnJ1a1lZd3pWQUhHX0RzWGEteWthYXVzUEZkZk8xOTRXZDVyWUxjdXY0V01WN1hwOFFuQ0tfWEFuaWR0cFZKb0VOOXBORFAtc29tSkllZGxwNkhaMlVheV9jaGZpVzhGX1ZNM0pmbW9oTEU?oc=5)
+### [Un estudio sugiere que las tomografías de cáncer de pulmón pueden detectar otros tumores](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWJSR096TWRpU1hWRnp5T0hzNGx4RW44TjNTcXdqYXkzLWF6UXl5NTZOS1dLbVdvbWpwVU00aHd4MjcwZUpCYi01WjRzMFhRRUFCZW1OY0dmOEczdmxMQ2IxX3BKT0xxS3RDRUxkZlJmT3lWMkE2dzgxd0pzRnlJSUlNU1dZeVV3QkRSdF85aVVvRGwxTlVnZXEtT0VHOXNVWDFFeGRRY1ZNWGVsSWt5dWppbVRZRkc0eWZHMzFqNG1MWUZObXJuVjFVejdqUk9lZWNNRjlTTFhYaGNvZGc?oc=5)
+
+2026-04-06 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWJSR096TWRpU1hWRnp5T0hzNGx4RW44TjNTcXdqYXkzLWF6UXl5NTZOS1dLbVdvbWpwVU00aHd4MjcwZUpCYi01WjRzMFhRRUFCZW1OY0dmOEczdmxMQ2IxX3BKT0xxS3RDRUxkZlJmT3lWMkE2dzgxd0pzRnlJSUlNU1dZeVV3QkRSdF85aVVvRGwxTlVnZXEtT0VHOXNVWDFFeGRRY1ZNWGVsSWt5dWppbVRZRkc0eWZHMzFqNG1MWUZObXJuVjFVejdqUk9lZWNNRjlTTFhYaGNvZGc?oc=5)
+
+---
+
+### [Capire i tumori gastrointestinali: i sintomi di allarme e la rete per intercettare subito le patologie - La Nazione](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtM0hqSlBYMUQ0UmRXZHBaMTVZejVyTXF6UTNxQk4yZW5qNTFCZmdxSi1KcGk2ZVl0SE1vR1o1TlowcWdYbGZkS3VFcVBUVUdBMjJJN2thRnBtcXp3VmNfcWVYVGI4VXVxZzVrVFF1QUtHbFltSGdJ?oc=5)
+
+2026-04-06 <span class="news-indication-tag">tumor</span>
+
+來源：[La Nazione](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtM0hqSlBYMUQ0UmRXZHBaMTVZejVyTXF6UTNxQk4yZW5qNTFCZmdxSi1KcGk2ZVl0SE1vR1o1TlowcWdYbGZkS3VFcVBUVUdBMjJJN2thRnBtcXp3VmNfcWVYVGI4VXVxZzVrVFF1QUtHbFltSGdJ?oc=5)
+
+---
+
+### [Investigadores israelíes desarrollan una nueva estrategia que detecta mejor las células cancerosas agresivas](https://news.google.com/rss/articles/CBMiggJBVV95cUxOcWVSWk4yZS1lVnNuUmRPYUZhOEdULXBIM2ZKN0lBM1FUaUc3MVJLWWRjU1phd0N3TzdtdDZUWG43ZnNRTTVVSDQwaHlzbnpoNjF1LUVRZHJFMmswbnNaXzZKbVYwNHBXR0RPMDRrb3RKMEFnOWM3cVJHVGNvSURrZFJVUUluOXM1MW1pc0R0UlNOeEUxU0lDMVNYa2kxU21ZQVllX1kxZW5IdG5PNzNlV1VQaFUzU0t2TEJheWdKcHd4RE9ZRTVQYXJoS2tqS3VCdEtROVFKZDB5bUFoWHJIdXpIaHJmOVJqTVJxNW5ZQ3RjakxlUkYzR2tyUG5ZeGhtNGc?oc=5)
+
+2026-04-06 <span class="news-indication-tag">cancer</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMiggJBVV95cUxOcWVSWk4yZS1lVnNuUmRPYUZhOEdULXBIM2ZKN0lBM1FUaUc3MVJLWWRjU1phd0N3TzdtdDZUWG43ZnNRTTVVSDQwaHlzbnpoNjF1LUVRZHJFMmswbnNaXzZKbVYwNHBXR0RPMDRrb3RKMEFnOWM3cVJHVGNvSURrZFJVUUluOXM1MW1pc0R0UlNOeEUxU0lDMVNYa2kxU21ZQVllX1kxZW5IdG5PNzNlV1VQaFUzU0t2TEJheWdKcHd4RE9ZRTVQYXJoS2tqS3VCdEtROVFKZDB5bUFoWHJIdXpIaHJmOVJqTVJxNW5ZQ3RjakxlUkYzR2tyUG5ZeGhtNGc?oc=5)
+
+---
+
+### [Alimentación saludable para prevenir el cáncer](https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2tTdm1QUV9Ydkw3M20xVHJqeWQ0cEJDc2ZjSU9fZ1RnVFFPTFVyM3lVcnpJanl6ZVJWbWsyY3YzWEJ4T25seXZTM0pIZjBoRWFqRXZhdEZWN0VWWks3dGZyb0M1b3d2RWRxWHdjZURaaWdKelVwOVRQd09VZGY5dGdVYmFtMlU?oc=5)
+
+2026-04-06 <span class="news-indication-tag">tumor</span>
+
+來源：[consumer.es](https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2tTdm1QUV9Ydkw3M20xVHJqeWQ0cEJDc2ZjSU9fZ1RnVFFPTFVyM3lVcnpJanl6ZVJWbWsyY3YzWEJ4T25seXZTM0pIZjBoRWFqRXZhdEZWN0VWWks3dGZyb0M1b3d2RWRxWHdjZURaaWdKelVwOVRQd09VZGY5dGdVYmFtMlU?oc=5)
+
+---
+
+### [Nebenwirkungen bei Brustkrebs: Patientinnen leitliniengerecht begleiten](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmFDYkd5RnJEUGN4d04tSzROLXZqYVFtWmRRRDZQbm1EVk56bXl3eG14RXcyQW9NLXJ3eGU2U1ZqS2FNZnB0dnhQYlJxS2kyQTE2bXIyOUkwZUlFaGRLRWlNNnZaemRmd1Nua3M5aHJnUWFMSDIyT05NaU8tcnBxamEybjk3Zm9BclVYTDNVdjNUTGlma2JoZGhBX04xX2tsZXNTcWR4MHU1aTc3R3I0UnhrZG4wVTYtM3FN?oc=5)
+
+2026-04-06 <span class="news-indication-tag">Krebs</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmFDYkd5RnJEUGN4d04tSzROLXZqYVFtWmRRRDZQbm1EVk56bXl3eG14RXcyQW9NLXJ3eGU2U1ZqS2FNZnB0dnhQYlJxS2kyQTE2bXIyOUkwZUlFaGRLRWlNNnZaemRmd1Nua3M5aHJnUWFMSDIyT05NaU8tcnBxamEybjk3Zm9BclVYTDNVdjNUTGlma2JoZGhBX04xX2tsZXNTcWR4MHU1aTc3R3I0UnhrZG4wVTYtM3FN?oc=5)
+
+---
+
+### [Doctor Santiago Marrero: “Si evitamos que la célula tumoral consuma glucosa y glutamina, se contraerá y - Diario de Avisos](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0dkQ2ZQWElaN1EteXc0U2xwZUpfRFV0LW9zQjZDNmtFRzczUXRtaEF4MHJKNkZVTVI4d3dFNG9sWjRZUnBNY2xiMG92OVJPd1lJcXdycGdhdUsteWRsWnVIYlp1WjFJdkJMRXk3OHgwc1N6NlBFSnkyNUlTUnI5ZW9CT2JLTWJWcUNjQU9kTGlvZmg3ZnJRS00zdVRHSVp4b1HSAacBQVVfeXFMT1pzQXowXzAwOEREX1RQREdCU0VpTHhjWW1VYjIxSWtKX2ViaUZsVGp0YnAtNGExTFNTWWNiTnJ1a1lZd3pWQUhHX0RzWGEteWthYXVzUEZkZk8xOTRXZDVyWUxjdXY0V01WN1hwOFFuQ0tfWEFuaWR0cFZKb0VOOXBORFAtc29tSkllZGxwNkhaMlVheV9jaGZpVzhGX1ZNM0pmbW9oTEU?oc=5)
 
 2026-04-05 <span class="news-indication-tag">tumor</span>
 
-來源：[diariodeavisos.elespanol.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0dkQ2ZQWElaN1EteXc0U2xwZUpfRFV0LW9zQjZDNmtFRzczUXRtaEF4MHJKNkZVTVI4d3dFNG9sWjRZUnBNY2xiMG92OVJPd1lJcXdycGdhdUsteWRsWnVIYlp1WjFJdkJMRXk3OHgwc1N6NlBFSnkyNUlTUnI5ZW9CT2JLTWJWcUNjQU9kTGlvZmg3ZnJRS00zdVRHSVp4b1HSAacBQVVfeXFMT1pzQXowXzAwOEREX1RQREdCU0VpTHhjWW1VYjIxSWtKX2ViaUZsVGp0YnAtNGExTFNTWWNiTnJ1a1lZd3pWQUhHX0RzWGEteWthYXVzUEZkZk8xOTRXZDVyWUxjdXY0V01WN1hwOFFuQ0tfWEFuaWR0cFZKb0VOOXBORFAtc29tSkllZGxwNkhaMlVheV9jaGZpVzhGX1ZNM0pmbW9oTEU?oc=5)
+來源：[Diario de Avisos](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0dkQ2ZQWElaN1EteXc0U2xwZUpfRFV0LW9zQjZDNmtFRzczUXRtaEF4MHJKNkZVTVI4d3dFNG9sWjRZUnBNY2xiMG92OVJPd1lJcXdycGdhdUsteWRsWnVIYlp1WjFJdkJMRXk3OHgwc1N6NlBFSnkyNUlTUnI5ZW9CT2JLTWJWcUNjQU9kTGlvZmg3ZnJRS00zdVRHSVp4b1HSAacBQVVfeXFMT1pzQXowXzAwOEREX1RQREdCU0VpTHhjWW1VYjIxSWtKX2ViaUZsVGp0YnAtNGExTFNTWWNiTnJ1a1lZd3pWQUhHX0RzWGEteWthYXVzUEZkZk8xOTRXZDVyWUxjdXY0V01WN1hwOFFuQ0tfWEFuaWR0cFZKb0VOOXBORFAtc29tSkllZGxwNkhaMlVheV9jaGZpVzhGX1ZNM0pmbW9oTEU?oc=5)
 
 ---
 
@@ -102,9 +142,17 @@ permalink: /news/docetaxel/
 
 ### [L'oncologo Giuseppe Curigliano: «Per il paziente la speranza è un motore, non deve mai perderla. Contro il cancro ci sarà una cura, era un mio sogno già da piccolo» - Corriere della Sera](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF?oc=5)
 
-2026-04-05 <span class="news-indication-tag">tumor</span>
+2026-04-05 <span class="news-indication-tag">cancro</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTZfbDlQSV80azZXaWZLU0cxb2xNdV9fRGlOVVVVdmY5aVF0cW40dkJIT08wQWlhTjNYNk5yUDJKSDFUbnFHZVVsZW5iNnEzNlctUkxRSmQzal9oMTg4cC0tUFF0OVFqUHJtWVBrSE5HWnJJU0tybEtlbDlidUlMTHBJRzBWeE5nNHB4LVFrZWRrQnBEcTdxa3lQLTAzQ2VFVDYtYzJucmRlNmE4UUhyWlotbzNRaHJ4aTRPSUc4RDFESjY4c3lF?oc=5)
+
+---
+
+### [Tumore del colon retto: "Aderite allo screening"](https://news.google.com/rss/articles/CBMikwFBVV95cUxObVdHOG9HVENrVTBGaGRUYlZ3YXFyckxvdk8zb1dkNTUteVNRN0E5ZE8zeGhfSU5qclI2Y0FGWWJaQTk3V01GOVlScEc0YS1vU09uMXhRZ1B5OTlTU2Z5SFBxZEljUkhuRXhLOEMtRDNBSVVyN3lCN3h5VXpEc3ZiRlpRZzAyaFprTlhUOU80S3MzMEU?oc=5)
+
+2026-04-05 <span class="news-indication-tag">tumor</span>
+
+來源：[ilrestodelcarlino.it](https://news.google.com/rss/articles/CBMikwFBVV95cUxObVdHOG9HVENrVTBGaGRUYlZ3YXFyckxvdk8zb1dkNTUteVNRN0E5ZE8zeGhfSU5qclI2Y0FGWWJaQTk3V01GOVlScEc0YS1vU09uMXhRZ1B5OTlTU2Z5SFBxZEljUkhuRXhLOEMtRDNBSVVyN3lCN3h5VXpEc3ZiRlpRZzAyaFprTlhUOU80S3MzMEU?oc=5)
 
 ---
 
@@ -124,11 +172,11 @@ permalink: /news/docetaxel/
 
 ---
 
-### [Urología detecta todavía tumores que se relacionan con químicos del calzado en Elche](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZhbkVtN09ZQ0dMRnlVdGUyRXRuWWJoTXB2NVFZQjM0UFAxVmpxSktjRnd0ZWQ1R3dTRVJqNFFUY0xMUVpDQ01IUU1xMll2QnFuV2d2Tk9LLUVRYkZ0UE5NTWptMndHMjNCMGI0dENzSGJsZmFqTHZlcXNOSlJaTHVjYWRwQlpYOFZ3aWU3dGRwYTlXZnI3OWgyYzFUQkJJbzNlTjhXakR0dlnSAbABQVVfeXFMUHROTmtNRVlkQmJZWGhzU2FScWxwcFk5NUtXRWRzamw2MWFiVDRZRjRBQjRTMXVpaDAyLXkwbUppNnFfOXVrcm0xTUxPdnBSUmxtdjRWNVE1YW9xNFc1bUQ1d01FNVRVRF83MEhOOVRBeE9FdHUwdmNOZlRycVZLRXJSVVRibkJ5OTJlRklNRkFGVy1zc0dZOUh1bHdNOG5pZUMyS20wVlVGbDZxVlZneEY?oc=5)
+### [Le business de la peur de la maladie lance des analyses de sang testant jusqu'à 150 biomarqueurs: "Ce n'est pas comme ça qu'on fait de la prévention"](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
 
-2026-04-04 <span class="news-indication-tag">tumor</span>
+2026-04-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
 
-來源：[informacion.es](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZhbkVtN09ZQ0dMRnlVdGUyRXRuWWJoTXB2NVFZQjM0UFAxVmpxSktjRnd0ZWQ1R3dTRVJqNFFUY0xMUVpDQ01IUU1xMll2QnFuV2d2Tk9LLUVRYkZ0UE5NTWptMndHMjNCMGI0dENzSGJsZmFqTHZlcXNOSlJaTHVjYWRwQlpYOFZ3aWU3dGRwYTlXZnI3OWgyYzFUQkJJbzNlTjhXakR0dlnSAbABQVVfeXFMUHROTmtNRVlkQmJZWGhzU2FScWxwcFk5NUtXRWRzamw2MWFiVDRZRjRBQjRTMXVpaDAyLXkwbUppNnFfOXVrcm0xTUxPdnBSUmxtdjRWNVE1YW9xNFc1bUQ1d01FNVRVRF83MEhOOVRBeE9FdHUwdmNOZlRycVZLRXJSVVRibkJ5OTJlRklNRkFGVy1zc0dZOUh1bHdNOG5pZUMyS20wVlVGbDZxVlZneEY?oc=5)
+來源：[L'Avenir](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
 
 ---
 
@@ -137,30 +185,6 @@ permalink: /news/docetaxel/
 2026-04-04 <span class="news-indication-tag">Krebs</span>
 
 來源：[swp.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxQaWV1RldNSlpaN1d3Sk1qU3dNalZhQXktX0lVWWNOdG8wRWpFdWxhX3ZEUXNoQVlHUWgwUFdUSXRxaW9uU1RaMDRVR2VIYlpCNUFWcV9UcG83a3FKNUdLVE5STE5mbGRRUXFabzh0WDlEXzNmYXJtd3Y5VURtLUV4M3dzQzkxNVdSNTUxRnFwRzRGSzZtMWNQcVRn?oc=5)
-
----
-
-### [Wiltshire woman urges awareness of ovarian cancer signs](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xTkdINUZDQ0tWRG5yeUNMWDdhVDg0WFFsODQxTzNHY3FndG5JeDNoXy1VUk5nT2I1cTZZYXNNazJuOGFwZUl4ZXg5Q1VaVjRSdWdoQlZITHdSNGxU?oc=5)
-
-2026-04-04 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xTkdINUZDQ0tWRG5yeUNMWDdhVDg0WFFsODQxTzNHY3FndG5JeDNoXy1VUk5nT2I1cTZZYXNNazJuOGFwZUl4ZXg5Q1VaVjRSdWdoQlZITHdSNGxU?oc=5)
-
----
-
-### [Scientists create “smart” DNA drug that targets cancer cells with extreme precision](https://news.google.com/rss/articles/CBMib0FVX3lxTFBiYWNRQmY4NDU2dDUtWWhabDdibDl2VFl5c0ltdWNsNktuSENiTS1IUGhZUnhGYUo3MWVkRjR5aTN0dWhCbjBZWGVEOHpqZVEzRURrNC14aVl6Q0c3czdKNXFvci0xcWplUUhLY1ZHUQ?oc=5)
-
-2026-04-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBiYWNRQmY4NDU2dDUtWWhabDdibDl2VFl5c0ltdWNsNktuSENiTS1IUGhZUnhGYUo3MWVkRjR5aTN0dWhCbjBZWGVEOHpqZVEzRURrNC14aVl6Q0c3czdKNXFvci0xcWplUUhLY1ZHUQ?oc=5)
-
----
-
-### [Tumori, scoperte le molecole che li rendono più aggressivi: ecco perché si diffondono ​dando origine alle metastasi](https://news.google.com/rss/articles/CBMixAFBVV95cUxOanZKTHZCTGMwTzFzb2lXWVAtQ3VhX2s3bVpTZ0Z6VXNSbWQ2aVRsZlFmaDA5MHZvUXNHR0xxeUxuYU5fS1pTQkktQ0JBSk9Nd01fcmxKUlZKMk5GdjF5RnIwTjVjYkE1M3o3eGJCanEwUDJ5ZGljcmZpUVd3dWxWRThXODVHSWhiUVN1aGozR3lvRm5BV0l3SURJX1RSZGhROGlLMkdiYm1BdVJDWWdoY1dQazFLYjdhT2wtalk3YUJQN0lK0gHCAUFVX3lxTE1SVzU0cW1GNThDMG1NcTV0SkE5OTNhU1UtTmVkLTNVUVRlMkN5UEtYdm1XbjNoVUQxSWljczg1Nlk3eVpQdWlBQ1NsZkM2UEJUWWhUU0VGNU9EY0xIQ3hINjlqQ29qY0hsbTFjeTVpcndjNnVXNENCTFdUdkVuMEVtSlFVVi04U3N3YnF0UzFleG1NeWpKQm5Cc1laUmJTUkdwM2JlZlk3a0cxdVRPWEh1THN6ajNRQzZ1TENuRXRQbkVn?oc=5)
-
-2026-04-01 <span class="news-indication-tag">tumor</span>
-
-來源：[ilmessaggero.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxOanZKTHZCTGMwTzFzb2lXWVAtQ3VhX2s3bVpTZ0Z6VXNSbWQ2aVRsZlFmaDA5MHZvUXNHR0xxeUxuYU5fS1pTQkktQ0JBSk9Nd01fcmxKUlZKMk5GdjF5RnIwTjVjYkE1M3o3eGJCanEwUDJ5ZGljcmZpUVd3dWxWRThXODVHSWhiUVN1aGozR3lvRm5BV0l3SURJX1RSZGhROGlLMkdiYm1BdVJDWWdoY1dQazFLYjdhT2wtalk3YUJQN0lK0gHCAUFVX3lxTE1SVzU0cW1GNThDMG1NcTV0SkE5OTNhU1UtTmVkLTNVUVRlMkN5UEtYdm1XbjNoVUQxSWljczg1Nlk3eVpQdWlBQ1NsZkM2UEJUWWhUU0VGNU9EY0xIQ3hINjlqQ29qY0hsbTFjeTVpcndjNnVXNENCTFdUdkVuMEVtSlFVVi04U3N3YnF0UzFleG1NeWpKQm5Cc1laUmJTUkdwM2JlZlk3a0cxdVRPWEh1THN6ajNRQzZ1TENuRXRQbkVn?oc=5)
 
 ---
 

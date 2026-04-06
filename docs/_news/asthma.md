@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma 相關新聞"
+title: "asthme（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asthme（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthma 相關新聞
+# asthme（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
+<strong>asthme（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Une thérapie numérique obtient un premier avis favorable avant son remboursement par l’Assurance maladie](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTSTZGa045RlBhZzlEcl83U20wdWxIcHV0c09hRzdHYnpZb3lXUmpmQk1Palh6YzRfZHVpbGxtNVlUaVloNElqazhkUC1uVmtUbGVLMG9MUWR1Yk9rRjNQMGtDSUZrd3NPR1hSVUhpSW80MU5kcUtNYkhIRzEwY1FYZjhENEhUSWhMR0hzZ0lJSmFkU3JhNV8tajFNZDFTT216dFE4STB2RDRiRGw3UjY3OTE5UFYzNHp3bw?oc=5)
+
+2026-04-06
+
+來源：[tr92.fr](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTSTZGa045RlBhZzlEcl83U20wdWxIcHV0c09hRzdHYnpZb3lXUmpmQk1Palh6YzRfZHVpbGxtNVlUaVloNElqazhkUC1uVmtUbGVLMG9MUWR1Yk9rRjNQMGtDSUZrd3NPR1hSVUhpSW80MU5kcUtNYkhIRzEwY1FYZjhENEhUSWhMR0hzZ0lJSmFkU3JhNV8tajFNZDFTT216dFE4STB2RDRiRGw3UjY3OTE5UFYzNHp3bw?oc=5)
+
+---
 
 ### [Verordnung von PPI bei Asthma oder COPD kritisch prüfen](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHgtUHFUbDVpLW1BdWp4SmplVExoVnl3RXZXMDJaQm5Yc2lQQ2tlM0VMYUwybGhWQjc5Z29UaF9nX1JjVnluMHJxUzJ3MF9wZWtEWEt3dU5GWXEybzdGZHlyelVDa1VoOXBhRk1kclE5WGZSR2dqcEdHcHZJcFpFbUh4LThNcHpYVTJMUzRSbEc?oc=5)
 

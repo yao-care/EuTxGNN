@@ -3,7 +3,7 @@ layout: default
 title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Una nueva terapia para controlar la hipertensión reduce ictus y muertes en miles de pacientes](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
+### [Personas que padecen apnea del sueño tiene hasta un 71% más de riesgo de morir por cualquier causa](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
+
+2026-04-05
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
+
+---
+
+### [Un avance médico para controlar la hipertensión reduce los infartos, ictus y fallecimientos - Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
 
 2026-04-04
 
-來源：[diariodemallorca.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
+來源：[Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
 
 ---
 

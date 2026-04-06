@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="Oritavancin (Diphosphate) 有什麼相關新聞？">
-<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oritavancin-diphosphate/
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Une thérapie numérique obtient un premier avis favorable avant son remboursement par l’Assurance maladie](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTSTZGa045RlBhZzlEcl83U20wdWxIcHV0c09hRzdHYnpZb3lXUmpmQk1Palh6YzRfZHVpbGxtNVlUaVloNElqazhkUC1uVmtUbGVLMG9MUWR1Yk9rRjNQMGtDSUZrd3NPR1hSVUhpSW80MU5kcUtNYkhIRzEwY1FYZjhENEhUSWhMR0hzZ0lJSmFkU3JhNV8tajFNZDFTT216dFE4STB2RDRiRGw3UjY3OTE5UFYzNHp3bw?oc=5)
+
+2026-04-06 <span class="news-indication-tag">asthme</span>
+
+來源：[tr92.fr](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTSTZGa045RlBhZzlEcl83U20wdWxIcHV0c09hRzdHYnpZb3lXUmpmQk1Palh6YzRfZHVpbGxtNVlUaVloNElqazhkUC1uVmtUbGVLMG9MUWR1Yk9rRjNQMGtDSUZrd3NPR1hSVUhpSW80MU5kcUtNYkhIRzEwY1FYZjhENEhUSWhMR0hzZ0lJSmFkU3JhNV8tajFNZDFTT216dFE4STB2RDRiRGw3UjY3OTE5UFYzNHp3bw?oc=5)
+
+---
 
 ### [Verordnung von PPI bei Asthma oder COPD kritisch prüfen](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHgtUHFUbDVpLW1BdWp4SmplVExoVnl3RXZXMDJaQm5Yc2lQQ2tlM0VMYUwybGhWQjc5Z29UaF9nX1JjVnluMHJxUzJ3MF9wZWtEWEt3dU5GWXEybzdGZHlyelVDa1VoOXBhRk1kclE5WGZSR2dqcEdHcHZJcFpFbUh4LThNcHpYVTJMUzRSbEc?oc=5)
 

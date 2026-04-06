@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [La guía de accidentes cerebrovasculares de EE.UU. recoge por primera vez el ictus pediátrico](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWRIVExCN2o5Umk4c3lFS0VZbDZwNk5TUUg2V1ZFYV9GYmdXVWR1OXRJWmpZeVhOSWRsUzVwcUw2clJPanVkQWl4ajMzT3RGT19ZNTQ5VWp2aXhLcHpuVnVIMlloV3VfNFdBSk9KLUo0X1hRUXpFVHZ1bFBUY1pEcl9XMlliOFNYaWdwZ0szRkFNemlnTWllQUp6T3pwLW14ZWxoQnhDNGJzN1VzN25qdXJDTVVyV2hNVHdHUHZ0aElpYjFUTWlCSnpucmY3V2RNcExHLWhn?oc=5)
+### [Personas que padecen apnea del sueño tiene hasta un 71% más de riesgo de morir por cualquier causa](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
 
-2026-04-05 <span class="news-indication-tag">ictus</span>
+2026-04-05 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWRIVExCN2o5Umk4c3lFS0VZbDZwNk5TUUg2V1ZFYV9GYmdXVWR1OXRJWmpZeVhOSWRsUzVwcUw2clJPanVkQWl4ajMzT3RGT19ZNTQ5VWp2aXhLcHpuVnVIMlloV3VfNFdBSk9KLUo0X1hRUXpFVHZ1bFBUY1pEcl9XMlliOFNYaWdwZ0szRkFNemlnTWllQUp6T3pwLW14ZWxoQnhDNGJzN1VzN25qdXJDTVVyV2hNVHdHUHZ0aElpYjFUTWlCSnpucmY3V2RNcExHLWhn?oc=5)
+來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
 
 ---
 
-### [Una nueva terapia para controlar la hipertensión reduce ictus y muertes en miles de pacientes](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
+### [Un avance médico para controlar la hipertensión reduce los infartos, ictus y fallecimientos - Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
 
 2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[diariodemallorca.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
+來源：[Castellón Diario](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkc3ZmJyYmZ0VGFESU0xZEJpYThXT2ctYkh4djRnM2xnbG11OEhXUVdMZzJLVktCcWdZclQ5R1FVYk9RaktZMXg1U3pJMzNHbDUtOGxseERSVEt6bjlOeEFtYTV1N3M0clVkc3lVSHZ6MnBsY1BFcFNFczZreDVJRDRmbHdoQTcyYjVVamxRSlZXMnQybVhqWGMxT25ORGpHVUhvRVB3Vnd5QmVNdkRXVXFSMXdQU3hZRkp3?oc=5)
+
+---
+
+### [Le business de la peur de la maladie lance des analyses de sang testant jusqu'à 150 biomarqueurs: "Ce n'est pas comme ça qu'on fait de la prévention"](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
+
+2026-04-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
+
+來源：[L'Avenir](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
 
 ---
 

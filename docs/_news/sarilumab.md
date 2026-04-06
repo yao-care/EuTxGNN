@@ -44,19 +44,19 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（2 則）
 
+### [Une thérapie numérique obtient un premier avis favorable avant son remboursement par l’Assurance maladie](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTSTZGa045RlBhZzlEcl83U20wdWxIcHV0c09hRzdHYnpZb3lXUmpmQk1Palh6YzRfZHVpbGxtNVlUaVloNElqazhkUC1uVmtUbGVLMG9MUWR1Yk9rRjNQMGtDSUZrd3NPR1hSVUhpSW80MU5kcUtNYkhIRzEwY1FYZjhENEhUSWhMR0hzZ0lJSmFkU3JhNV8tajFNZDFTT216dFE4STB2RDRiRGw3UjY3OTE5UFYzNHp3bw?oc=5)
+
+2026-04-06 <span class="news-indication-tag">asthme</span>
+
+來源：[tr92.fr](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTSTZGa045RlBhZzlEcl83U20wdWxIcHV0c09hRzdHYnpZb3lXUmpmQk1Palh6YzRfZHVpbGxtNVlUaVloNElqazhkUC1uVmtUbGVLMG9MUWR1Yk9rRjNQMGtDSUZrd3NPR1hSVUhpSW80MU5kcUtNYkhIRzEwY1FYZjhENEhUSWhMR0hzZ0lJSmFkU3JhNV8tajFNZDFTT216dFE4STB2RDRiRGw3UjY3OTE5UFYzNHp3bw?oc=5)
+
+---
+
 ### [Verordnung von PPI bei Asthma oder COPD kritisch prüfen](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHgtUHFUbDVpLW1BdWp4SmplVExoVnl3RXZXMDJaQm5Yc2lQQ2tlM0VMYUwybGhWQjc5Z29UaF9nX1JjVnluMHJxUzJ3MF9wZWtEWEt3dU5GWXEybzdGZHlyelVDa1VoOXBhRk1kclE5WGZSR2dqcEdHcHZJcFpFbUh4LThNcHpYVTJMUzRSbEc?oc=5)
 
 2026-04-05 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHgtUHFUbDVpLW1BdWp4SmplVExoVnl3RXZXMDJaQm5Yc2lQQ2tlM0VMYUwybGhWQjc5Z29UaF9nX1JjVnluMHJxUzJ3MF9wZWtEWEt3dU5GWXEybzdGZHlyelVDa1VoOXBhRk1kclE5WGZSR2dqcEdHcHZJcFpFbUh4LThNcHpYVTJMUzRSbEc?oc=5)
-
----
-
-### [Aceite de oliva virgen extra contra la artritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
-
-2026-04-04 <span class="news-indication-tag">artritis</span>
-
-來源：[canalsur.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFB0WEg4eVFjUXhST0pOSDQ3TWh3WkRfZHhQVFJXUFU0RlZPbWh3WnYyWlVvWXNweWo2d3VFWEVjS0RhVUpESUcxVHJuRk9RVTc0alU2YzRlTWg3NXh4b2pxQ3ZQejRKbzRBWndTWmZ5WVdPSlBNUmlIcjF2MDhJZ0pxRzg4YVZFcGNEcm5zNUZXcjdD?oc=5)
 
 ---
 
