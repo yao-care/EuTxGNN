@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,21 +114,29 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Höhenlage beeinflusst Diabetes: Neue Erkenntnisse über rote Blutkörperchen](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
+
+2026-04-05
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
+
+---
+
+### [Mikronährstoffmangel bei Diabetes: Ein unterschätztes Risiko](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+
+2026-04-05
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+
+---
 
 ### [Diabetes: Wenn der Blutzucker aus dem Gleichgewicht gerät, AkuRy GmbH, Story](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
 
 2026-04-05
 
 來源：[lifePR](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
-
----
-
-### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
-
-2026-04-03
-
-來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 ---
 

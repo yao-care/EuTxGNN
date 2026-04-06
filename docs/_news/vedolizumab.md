@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vedolizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Höhenlage beeinflusst Diabetes: Neue Erkenntnisse über rote Blutkörperchen](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
+
+2026-04-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTVSQ2dmeTF3NmprSFNiQzlJTldwWVpGXzBuZDhBbE9tbmNIUGI3SjItMTZqWl9zUmFJRVdWY0FSR2x6TzluVG9fQ0tWdXZUZF90MFVYem1CV3BfN1F3d0dHMlRFZ2Qwak5vUzl3Y2NjSC1xQ2NKekRPQ2NjRktINnlTNU9VVnpnYm9kQVBPX3dmVHhsNkFjTFFEamR4R2FRX0plM2Z1TWFGUlBm?oc=5)
+
+---
+
+### [Mikronährstoffmangel bei Diabetes: Ein unterschätztes Risiko](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+
+2026-04-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+
+---
 
 ### [Diabetes: Wenn der Blutzucker aus dem Gleichgewicht gerät, AkuRy GmbH, Story](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzZRSWl0VTVad1R0dXJzdW02UFlHZ2hkUE5jTWxSZk5uR0xMUm10TjRNS1hqb00xdXZxTFZyTDlHclRtNnNsZEZfWlM5ckNDSkJkWUdrQzlOdTZrU3ZoN0VEU0FZamdfQ29yR0VLVFJEZUF2T2k3VUp2SUJub0xzUmNlV0VrOXVRb1lZN2hZb1RtNmdQbk80OUxoa3o1ODNWQkN6MmJESGdRN3k5b2NMWnEwOFJXNTAwRWc0?oc=5)
 
@@ -57,14 +73,6 @@ permalink: /news/vedolizumab/
 2026-04-05 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHgtUHFUbDVpLW1BdWp4SmplVExoVnl3RXZXMDJaQm5Yc2lQQ2tlM0VMYUwybGhWQjc5Z29UaF9nX1JjVnluMHJxUzJ3MF9wZWtEWEt3dU5GWXEybzdGZHlyelVDa1VoOXBhRk1kclE5WGZSR2dqcEdHcHZJcFpFbUh4LThNcHpYVTJMUzRSbEc?oc=5)
-
----
-
-### [Avances en el control de la diabetes tipo 2: un nuevo algoritmo podría mejorar la monitorización de glucosa](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
-
-2026-04-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[diariodesalud.com.do](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1dCLTVlMlNob0hFVGpvMDNTUWgteTJGRThxLTNacVBIQnZlV2xNOVh3UmxOTVVOdHRDWTJWQzJwRVo1TG95ZUtPSVhfekNsN3hjT0Jrd2FhZGRSX2VDTTljbks3S1RoZ2twbmJTRExubVVkZGJacnN2UzE1Tlc1U0V2YVZjWFJDM0FsVWE4SjF3RVd0YmJJZng0QUJnVGNfS2t4TVN1cExfODhZenRDQTdjUFJpcHpqQnZJMG93VjJhN3hyMDl0UFFXcFJPODZmMUI4R3lGLVY4bG0tM2t4Vg?oc=5)
 
 ---
 

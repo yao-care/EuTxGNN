@@ -84,19 +84,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Una nueva terapia para controlar la hipertensión reduce ictus y muertes en miles de pacientes](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
+
+2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[diariodemallorca.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
+
+---
+
 ### [Obésité : traitements et accompagnement redimensionnent l’officine - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWEg5bUNucDhpZW5vLUNnb01RVFpkQV9mWDdmWUUyMmpRdWFMZnVuWFo1NENuZWNpanJEMEFmc2RONEtRTFdMOV8wTVJBY0NkaV93R3NmVXloNDVzZ2psakNVdVZoV3ExU0hlRGoxUHdpTUN1czBqM3dCamVIc0hWekhEdHo5N1p0WGZ4Zmw4bVZnaXhDVDV3MWxNdVA4YUdLUTJXNWNxcWYwXzU3MXBBR2NTcXAyTWF6WjVya0l3UUU2SndaQU9hYUEzcVdPbGNOYWl0Z0VlMDQ?oc=5)
 
 2026-04-04 <span class="news-indication-tag">obésité</span>
 
 來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWEg5bUNucDhpZW5vLUNnb01RVFpkQV9mWDdmWUUyMmpRdWFMZnVuWFo1NENuZWNpanJEMEFmc2RONEtRTFdMOV8wTVJBY0NkaV93R3NmVXloNDVzZ2psakNVdVZoV3ExU0hlRGoxUHdpTUN1czBqM3dCamVIc0hWekhEdHo5N1p0WGZ4Zmw4bVZnaXhDVDV3MWxNdVA4YUdLUTJXNWNxcWYwXzU3MXBBR2NTcXAyTWF6WjVya0l3UUU2SndaQU9hYUEzcVdPbGNOYWl0Z0VlMDQ?oc=5)
-
----
-
-### [Un nuevo método para controlar la hipertensión reduce ictus y muertes en miles de pacientes - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
-
-2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
 
 ---
 

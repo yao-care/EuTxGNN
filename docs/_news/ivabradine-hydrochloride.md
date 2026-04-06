@@ -44,6 +44,30 @@ permalink: /news/ivabradine-hydrochloride/
 
 ## 相關新聞（16 則）
 
+### [Personas que padecen apnea del sueño tiene hasta un 71% más de riesgo de morir por cualquier causa](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
+
+2026-04-05 <span class="news-indication-tag">AF</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGoydjM2Qk91RTl6XzRqU0gtbndUQUlERUNSZUdHWEk5eS16N2k3TlpndXE5OTdFUE1VYW5vbEcyYWxteHF2cTJ3QWRTM3BNUmpnS2RFMkI5Q0RlLUFMWnlDSWtsZ0s3TWE0LTNxakZMeGJKZlBaYmRYQWpaVkhzRVlEeW5lZmptWHA2dUhtU0ZkODVfSFZpWU5KQW9nSW9tWF9jelpBZVBZSDhIV0FvWER3M182VHJ6NkZ4d3R2el9DUTdnaHpv?oc=5)
+
+---
+
+### [Multiple medics missed student’s fatal cancer - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDl2M21uZzBhNFN4MGpQWXZvQzJ3aGRfM1hBRElxNDM5MFVETVZSUm9MX09WcW1Gc09QTXpFVzVCOU16eDl5X0llR2RlaHhIMFJfTHZOcUt6eHY2QzFGaF84QVJuMjhJTHgxTEJGS19BUzZkdUpaSk5LTEszMjV4ZVZDWEpQYzQ?oc=5)
+
+2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDl2M21uZzBhNFN4MGpQWXZvQzJ3aGRfM1hBRElxNDM5MFVETVZSUm9MX09WcW1Gc09QTXpFVzVCOU16eDl5X0llR2RlaHhIMFJfTHZOcUt6eHY2QzFGaF84QVJuMjhJTHgxTEJGS19BUzZkdUpaSk5LTEszMjV4ZVZDWEpQYzQ?oc=5)
+
+---
+
+### [Den eigenen Urin trinken: Heilsaft oder Humbug?](https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFVhU05CSDFvWno4cl9pYlkzeGR4QkpTOGdKRkZDYzRoUzR2WE5obHotV2pqcTJIN2E1UU96cmxLMHZZRElmMUxtLU5nOVNNNEktcUQyU0cxdnFDa2g3WlV4WXM5bFctT2xBRzNDbnpaZ05KV2gwVUVYcXl6SFhwa0lxc2xiYTlrY0hBZmFILXRnejN2czdFWWZUUXEzZU9TM2kyWkxRZWJ5d216RDJNS1IwNnpXeXIwaE9kbnlHdjRFYWFfZGlPbmtBVQ?oc=5)
+
+2026-04-05 <span class="news-indication-tag">AF</span>
+
+來源：[CHIP](https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFVhU05CSDFvWno4cl9pYlkzeGR4QkpTOGdKRkZDYzRoUzR2WE5obHotV2pqcTJIN2E1UU96cmxLMHZZRElmMUxtLU5nOVNNNEktcUQyU0cxdnFDa2g3WlV4WXM5bFctT2xBRzNDbnpaZ05KV2gwVUVYcXl6SFhwa0lxc2xiYTlrY0hBZmFILXRnejN2czdFWWZUUXEzZU9TM2kyWkxRZWJ5d216RDJNS1IwNnpXeXIwaE9kbnlHdjRFYWFfZGlPbmtBVQ?oc=5)
+
+---
+
 ### [Demostrar que los cigarrillos electrónicos son cancerígenos requiere "un consumo promedio durante 15 o 20 años"](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmlMMXAtR1Q0MDFISmRuSWhkQ2JKdWVMXzVvRXpqQTQ5QkVsNzNKMHJ1VGZwSkh1SnZmTWRENGFtOUpYY3dLdm5BNTk0TTdDUUZPbHNySlRRbDRlRkNMRTNGbWNaWDlCdWxfT1FXWWNUYXdxMEM2cGNxVGU5UXJEZmZ1WUhKOXZBbWM5SzBoT2FHd3cxdm5tUk91akF3MnZ4cWlUeWxwRU9VSVdleUhhUkEwa1FRaEMwOG5lS3NmckVLaE0?oc=5)
 
 2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -52,11 +76,11 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Friends hold charity match to honour cancer victim](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CQ0tSWDRKNnIxVnJ1QThrcnJubE1iSWE2Qm9uR2JUYVVBa19aZjZRV3Zwek1zNUFKcG9qQjRxZG12dWVJcHJHZkMyd2N3a1B1MGdsa3h5b2ZXdG1C?oc=5)
+### [Suspected measles outbreak kills nearly 100 children in Bangladesh - Al Jazeera](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamxjNE03LW8yRXNDZldmOUF2MnhYZC04OUlya1JidGFtN0FtUm9TblJVVGhhY1pSRHBTalA3MVVqWHVFTlN1Z0N4SWpOVjF0UUR1VlhYcTI0SkxDLTBMWWlScm1ib3VaTzVmTnVPUjh3dUtyNUUtdk1vVUZfRjk1V0VJOWxoM1JwbHlVRXFsZS15TXRZZlJWM3RzQVp6UkNwdjV3elRYUGlBUdIBrwFBVV95cUxNeHFmSlpTWWZsMU1Gb0FnMEEwaTlOYnJaSG8xSUZNSzdUczhncDJsSk9XM3JoUmgzVlR0S2I0ZDJmTHdsZ25kY2JaM3A2Z0ViSmFFWi03enFmQkI4a292QWtZMV9uaTVEaGxtWDdGclROWUo3NkdJSWtHZXhLeUJXeUFyMFVwc3Y0eGlYWEFTU2VzQkRsQ251M0VaS29ISkRCYkVQVy1vNUppVzJjSTE4?oc=5)
 
-2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-05 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CQ0tSWDRKNnIxVnJ1QThrcnJubE1iSWE2Qm9uR2JUYVVBa19aZjZRV3Zwek1zNUFKcG9qQjRxZG12dWVJcHJHZkMyd2N3a1B1MGdsa3h5b2ZXdG1C?oc=5)
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamxjNE03LW8yRXNDZldmOUF2MnhYZC04OUlya1JidGFtN0FtUm9TblJVVGhhY1pSRHBTalA3MVVqWHVFTlN1Z0N4SWpOVjF0UUR1VlhYcTI0SkxDLTBMWWlScm1ib3VaTzVmTnVPUjh3dUtyNUUtdk1vVUZfRjk1V0VJOWxoM1JwbHlVRXFsZS15TXRZZlJWM3RzQVp6UkNwdjV3elRYUGlBUdIBrwFBVV95cUxNeHFmSlpTWWZsMU1Gb0FnMEEwaTlOYnJaSG8xSUZNSzdUczhncDJsSk9XM3JoUmgzVlR0S2I0ZDJmTHdsZ25kY2JaM3A2Z0ViSmFFWi03enFmQkI4a292QWtZMV9uaTVEaGxtWDdGclROWUo3NkdJSWtHZXhLeUJXeUFyMFVwc3Y0eGlYWEFTU2VzQkRsQ251M0VaS29ISkRCYkVQVy1vNUppVzJjSTE4?oc=5)
 
 ---
 
@@ -65,14 +89,6 @@ permalink: /news/ivabradine-hydrochloride/
 2026-04-05 <span class="news-indication-tag">AF</span>
 
 來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZXhoRVZsLTFPWm5kNS1VQkZwclAwekx6amJBLWR3RWpvZkxCY21xNTJXNnpIcWJFZXRhVkJkamFFalYtS1ZRUWNKTkN2dUZNemdUaDF0OFJSby1iQVpXX2g3clBEOFNnNlhONS1WT1JvR3BJM3RJUUxVbTRfbGJqcVJoMDg0RjhGaWtmTWltcjl5a2ZJWkhwcEFGZ0N4bFNTUURMXy1yS3lpLU81UGJUYlowUXUxZmtVUHB2eHltR3BPdw?oc=5)
-
----
-
-### [Los nutricionistas coinciden: este fruto seco es el mejor para la salud del corazón a partir de los 55 años](https://news.google.com/rss/articles/CBMitgFBVV95cUxQREFha2dQZ0tBcThLa0l6YkRVaGE4N0N0R0xOdGtvVS1FSEw4N09WTmFpVHBkMXhXZnpnMVhfNXRHQkxialcyQTlaVmlaeFJoeEpUSlBNbXRCd1IwSlJKMVcxSU9hQ2ZaMjFiVHJVMXVDRlAwZGlPQmRjbzJQVHd4cEVUZ2h4dGM1bk9nMEhyT2xsZkIzYWczNXFlOUI4S3htQ1Y5X3M4Q3VJSkJjVGVCNXNxeV9kQdIBuwFBVV95cUxQZTRMbGhZMVQ2UWR1QmZrVktqSW83QUl1OEVPb3pwbHYtSmlhLTBBdXdncUNfZVJzWk5KcXU3WGVoVEUxYmEtOHBKTzlGdG0ta1lQaEJlbDBaNGZaNU0zejlUZExqX1FJLVQ3WGJRd1ItOGFscFN4dlRxQVItRV9sUzJRMDZaVWQ5cmdEc2RYUDZSN1p1QVlXbXJHT3hzUnBCc29Qa0lVZHAtTDR2RjNMMGhQZDBDREV4Y0Jr?oc=5)
-
-2026-04-05 <span class="news-indication-tag">AF</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxQREFha2dQZ0tBcThLa0l6YkRVaGE4N0N0R0xOdGtvVS1FSEw4N09WTmFpVHBkMXhXZnpnMVhfNXRHQkxialcyQTlaVmlaeFJoeEpUSlBNbXRCd1IwSlJKMVcxSU9hQ2ZaMjFiVHJVMXVDRlAwZGlPQmRjbzJQVHd4cEVUZ2h4dGM1bk9nMEhyT2xsZkIzYWczNXFlOUI4S3htQ1Y5X3M4Q3VJSkJjVGVCNXNxeV9kQdIBuwFBVV95cUxQZTRMbGhZMVQ2UWR1QmZrVktqSW83QUl1OEVPb3pwbHYtSmlhLTBBdXdncUNfZVJzWk5KcXU3WGVoVEUxYmEtOHBKTzlGdG0ta1lQaEJlbDBaNGZaNU0zejlUZExqX1FJLVQ3WGJRd1ItOGFscFN4dlRxQVItRV9sUzJRMDZaVWQ5cmdEc2RYUDZSN1p1QVlXbXJHT3hzUnBCc29Qa0lVZHAtTDR2RjNMMGhQZDBDREV4Y0Jr?oc=5)
 
 ---
 
@@ -100,14 +116,6 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### ['My life was turned upside down after devastating diagnosis in my 40s' - Belfast Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQVE3SDJOVzNaRGhmVkNFTS1QNkhJUDVDUUtHNi1tSGo4NUtRUlZOSmJRaEJDTU9GWWktb1dLR0syMXR4dkZ4cHBjbXZRb1ZwRVJsQy1nMW43aUFMdldJLXh2Rm4tbXlZRFkyNktFTkxPUzBQQVk3d2VfRkZJbEdwZ1BSMXBPVDRtWEQtanJVck3SAZYBQVVfeXFMT25maFlJcDV2MklkWkg0ZDZBRmZiT1pTT2x2MW0xazROY25QZWxyUDZ5Z2s5bFBQSExNZ3pkejRSaUlxMnpuY1JmZlZhZ2VuTUctOE1hWmFOSnFEbnlQUlR0NWwxamlqNExHd3ZXNjE3anZNck5Sc3hRaU9nd2VuQXYzMlFzNU9Sa1JFdkVJMDYtREtQOC13?oc=5)
-
-2026-04-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQVE3SDJOVzNaRGhmVkNFTS1QNkhJUDVDUUtHNi1tSGo4NUtRUlZOSmJRaEJDTU9GWWktb1dLR0syMXR4dkZ4cHBjbXZRb1ZwRVJsQy1nMW43aUFMdldJLXh2Rm4tbXlZRFkyNktFTkxPUzBQQVk3d2VfRkZJbEdwZ1BSMXBPVDRtWEQtanJVck3SAZYBQVVfeXFMT25maFlJcDV2MklkWkg0ZDZBRmZiT1pTT2x2MW0xazROY25QZWxyUDZ5Z2s5bFBQSExNZ3pkejRSaUlxMnpuY1JmZlZhZ2VuTUctOE1hWmFOSnFEbnlQUlR0NWwxamlqNExHd3ZXNjE3anZNck5Sc3hRaU9nd2VuQXYzMlFzNU9Sa1JFdkVJMDYtREtQOC13?oc=5)
-
----
-
 ### [Fasten im Check: Neue Studien fordern Umdenken - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRqZHkwazhYWnhMX29aZkNoRlJ5TlJldmI5N0NRMmg1a2tnSjRjenpTNW5JU05KZ01XMDFvUXczT1c3QTRhdVZXQUF1a0syQVdlVzlDWEgwaWVpd2JRVVo3TlZrSlNJQm94Wk1kekJNUU5HSTl1OFo4YXlZYVdSQkl0Q3Nib18wZ2c4cGx5bzZFRnNNY19zellRTmxoQkFwODRXSDNYdw?oc=5)
 
 2026-04-04 <span class="news-indication-tag">AF</span>
@@ -132,6 +140,14 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
+### [Una nueva terapia para controlar la hipertensión reduce ictus y muertes en miles de pacientes](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
+
+2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[diariodemallorca.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEFWYTJHWmVGMnhEUFRYSGdHMThjRGVfQzFPQzNHS3ljVjJvaE9UdTRkTHRDcjJPejVHMUo1UXB1eC16TkdubWx5SE5BU3YxMkpVTmFZVzlDTk9VU3BDMFVUcGtqN1U3THEwdHg5bjdHZVVUMjUyanFHWWVZMUxmTm80eDdrZnpJOUxPOTdHUmFPenhkZ2NRUThZckFjWEE3TUdzaWQtTWZzQ1NXeTFYTkxzUVZ6dmhhTUVBVC13d20xTGwwTUhuQ0NuX05Qdw?oc=5)
+
+---
+
 ### [Wissenschaft - Übersehenes Organ: Mit gesundem Thymus gesund im Alter](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSG5CWV9jenRWMlpPWllGQ1VXX21mMzk5WEo2OXRURjJVSDl4TFRRbVkwazE3bzdWVmdzcXI3dWp0QklQcU5Qb3hBVVZDNFBwVnh0VUlqQ3FIaVZmc3V4UDNkWXdtV05QZ0htLWZCNnBBemxKdW1uakpoMUdWQjdmaFF0UVNVOXcxRnd5S01lVnduaTFYR1lxbi1mQ29HcUZNOUpQNU9va09HTE1qeG42NlRId1lwYkZQbFdIdjdKd1JadlJIZ001RG5XaFAwQWFXTHNvTDRCYWVCMUItZ2N2OUtXSQ?oc=5)
 
 2026-04-04 <span class="news-indication-tag">AF</span>
@@ -140,19 +156,11 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Un nuevo método para controlar la hipertensión reduce ictus y muertes en miles de pacientes - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
-
-2026-04-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOHozeUdLaHhoUlVneVNQamRxUjRnTjBNSkJ1WlBRRXQ2UDJPSE9SRUdHTUV2U01naFpvTUlPWl9IX2RmUVZFUzk2Nkk3X3dUYm5oR0VtdGhGWXE0clkycDRMV3k4ZlVfYjV3cGhPX3ZZTlg0QWg2cDA0YXZXVWtRUF9ka0NOd0tFR2xtMUpBUnJfeUpiRXVPRkhib1dHaWZpOUdWYVdwb0ZtUm02emNqSVNxYXlwdG5SV3BYY0g3TEdlZGF1ODBhaVFyMDJOZ2FMaGc2NndnWXJLdzdUYS1BZUsxWVBxQkQxbnQ0?oc=5)
-
----
-
-### [Sport als Medizin: Neue Forschung revolutioniert Hirngesundheit - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVA3SEpMMGREbDM1ZFBuQklrVTRSWmlmX3ZHV0ZyRnlsbTVrdFhTYjVjZUZjNjU3djdCelRnVDBBRDRTNWxkZ0xFNTEzWHkzLW81bWRwRnVPZEtzZTdYRkxYdlNwMzl5WVNTci1MQmFhYnRQeDExcENFcDhkOVlFM254OUw3aWgyTFUyUFJXbnhINzVHX1JIR19XTGxMSWtqY1Bqc1FPcmNza1A5RzYxYzh6ZEhrQURQVk9mZVF3?oc=5)
+### [How bad smells affect your health](https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGtnSWVfaHpSZnV6ZWtlaUplbG5aelBEWWNnS1NBNUxRVlgxWjc0Z2xyNHVBYTlLMW1laDRlS25CVWtJZUtUMk96VXAzRkI3b3ZHcWpBVFRrcFUtQU83V0FVNnlUVGhhTW5SRV9BVUFUMnV2MUhxRWQ5QTFTZEZqZGxfUQ?oc=5)
 
 2026-04-04 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVA3SEpMMGREbDM1ZFBuQklrVTRSWmlmX3ZHV0ZyRnlsbTVrdFhTYjVjZUZjNjU3djdCelRnVDBBRDRTNWxkZ0xFNTEzWHkzLW81bWRwRnVPZEtzZTdYRkxYdlNwMzl5WVNTci1MQmFhYnRQeDExcENFcDhkOVlFM254OUw3aWgyTFUyUFJXbnhINzVHX1JIR19XTGxMSWtqY1Bqc1FPcmNza1A5RzYxYzh6ZEhrQURQVk9mZVF3?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGtnSWVfaHpSZnV6ZWtlaUplbG5aelBEWWNnS1NBNUxRVlgxWjc0Z2xyNHVBYTlLMW1laDRlS25CVWtJZUtUMk96VXAzRkI3b3ZHcWpBVFRrcFUtQU83V0FVNnlUVGhhTW5SRV9BVUFUMnV2MUhxRWQ5QTFTZEZqZGxfUQ?oc=5)
 
 ---
 
@@ -161,14 +169,6 @@ permalink: /news/ivabradine-hydrochloride/
 2026-04-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBiYWNRQmY4NDU2dDUtWWhabDdibDl2VFl5c0ltdWNsNktuSENiTS1IUGhZUnhGYUo3MWVkRjR5aTN0dWhCbjBZWGVEOHpqZVEzRURrNC14aVl6Q0c3czdKNXFvci0xcWplUUhLY1ZHUQ?oc=5)
-
----
-
-### [Schlafmangel beschleunigt Hirnalterung - AD HOC NEWS](https://news.google.com/rss/articles/CBMingFBVV95cUxNS1lJT3RlTlZTcmQ2NDE4bWg3ckk1Rzl3ZDFKYjVQQnNJa3VTNEF2YVJ1WmVmR0h3aE9XQldTMi1vekQwOFFzWWxSdGs1SHo4UG1BZDdUNXBfREY3OFE4cjZXLUoxNTVxeXpWN0ZJbm45NmpvclM2M2JjNjZfUEg3eVdNTjd2MmsxS3hLWUJ2d1JUOTdyS29QVkhuUHdFUQ?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMingFBVV95cUxNS1lJT3RlTlZTcmQ2NDE4bWg3ckk1Rzl3ZDFKYjVQQnNJa3VTNEF2YVJ1WmVmR0h3aE9XQldTMi1vekQwOFFzWWxSdGs1SHo4UG1BZDdUNXBfREY3OFE4cjZXLUoxNTVxeXpWN0ZJbm45NmpvclM2M2JjNjZfUEg3eVdNTjd2MmsxS3hLWUJ2d1JUOTdyS29QVkhuUHdFUQ?oc=5)
 
 ---
 
