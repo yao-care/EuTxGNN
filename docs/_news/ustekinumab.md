@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ustekinumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Revierten la diabetes tipo 1 en ratones con un nuevo esquema inmunológico](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUzVoVU5hcjhIS1lCY0UxMUlnLUR3ME9fY1d4eVZzV0NfSm5Vb2otMGtxRWFDWmRVcGRPbC0tQW8zSzM2eFZJUHh3d0lsWERORkxneUNKaGRVR1NrSkxuZXlIZlRYdkQyd2w5ODQzaTRMYmRWZnB4ay1GSG9MakxMenpheVo1TXJMZTZHallLWC1FUTdodUFQTHJ4ZXcwSGV2WFHSAacBQVVfeXFMT3ZoYnFvMXozVVVuN2d2WTRJYU53d3ZIUmVrd09Md1lzM0ZxLXF1UkRtbFdld2tGcVgtUU9kRHVWSmkxLVpfN0RaQzROVm4tb3FHNDN5c0kwalBESFMwMXpSRk1Rb182dDVIcWNCMDQ5eElUZk0tdnZxV2FtOVZNejZoN3pBV1pqNnVCM09jcXJMWFM1LXRTeE5IWGpFMnYzSXRMc0JIaVk?oc=5)
+### [La metformina podría emular los efectos del ejercicio en el cáncer de próstata](https://news.google.com/rss/articles/CBMisgFBVV95cUxORHhzTC1fRGhlaVFKMXhKeHJyeV9hYzdxcURTTWZ4OTc0ZHgzVnktX0FXOHZGUUhoYmttbkZJWUI0NVN4M2NlZTFiNTY2WW1Ed195TC02LTJZUGRUM0dxV2xieUE3SGd6WGIyWFRaQ2tJSlhMUUxoQ1I3Nks4ck1ta3BUTXBpVG1udXcwMVN1S0JQT3VnU3dmLWFldms2Y2dBc0hHZTJBV0tXcnVOcGphRkJ30gG3AUFVX3lxTFBjQVRrVzdmVUFXaGQ3SElXTVFkYklIdFpoT0hEVHgwQ2VWR0RqZTN4NWZZQWJzSER1MkFTOGJBXzlnZXhuR2J5OW1TVUpxV2tISUNFVEwxWVlUSkZ4Z1pPdmI2OTB4X29ZQkVlbk5QOWE4cEJGTGQ1dGJvbHJacUVJUHZRanpodnhtUl9OcVRrdGhSSE1DOGdPdlpTTFpMLWI4Vm96c0c2V1VrakJXTE9sc2pBWGNMWQ?oc=5)
 
-2026-04-06 <span class="news-indication-tag">diabetes</span>
+2026-04-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[Levante-EMV](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUzVoVU5hcjhIS1lCY0UxMUlnLUR3ME9fY1d4eVZzV0NfSm5Vb2otMGtxRWFDWmRVcGRPbC0tQW8zSzM2eFZJUHh3d0lsWERORkxneUNKaGRVR1NrSkxuZXlIZlRYdkQyd2w5ODQzaTRMYmRWZnB4ay1GSG9MakxMenpheVo1TXJMZTZHallLWC1FUTdodUFQTHJ4ZXcwSGV2WFHSAacBQVVfeXFMT3ZoYnFvMXozVVVuN2d2WTRJYU53d3ZIUmVrd09Md1lzM0ZxLXF1UkRtbFdld2tGcVgtUU9kRHVWSmkxLVpfN0RaQzROVm4tb3FHNDN5c0kwalBESFMwMXpSRk1Rb182dDVIcWNCMDQ5eElUZk0tdnZxV2FtOVZNejZoN3pBV1pqNnVCM09jcXJMWFM1LXRTeE5IWGpFMnYzSXRMc0JIaVk?oc=5)
-
----
-
-### [De tratar la leucemia a mejorar la psoriasis: el fármaco que "abre nuevas posibilidades terapéuticas"](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnpLOHBYWThTcnp4d3BuUVpVWExnVWtTZzZLTG9YUjZvbmdNZUJIb2tRdnU5Rm1scFV0S0pSajhGM1hDbDN6RTI1a19kU29KSlZEYjFGbU1BQ1pjVmk0ZXhJd2tlTVFLb2JoMDZaaGFlMTBSRzV3dFpkbmV3WmdWdU03bi1ZdndXYlIzSzd0QWd5QXBNNHBWS3JHVlFzdHhNRmVsbEM3Ym9wWGVPbE4wWTJsZHVwUDJtQmhXMEcxNFBqQVItTHlGVEVOQUgwdVgtRUJHMENn?oc=5)
-
-2026-04-06 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Vozpópuli](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnpLOHBYWThTcnp4d3BuUVpVWExnVWtTZzZLTG9YUjZvbmdNZUJIb2tRdnU5Rm1scFV0S0pSajhGM1hDbDN6RTI1a19kU29KSlZEYjFGbU1BQ1pjVmk0ZXhJd2tlTVFLb2JoMDZaaGFlMTBSRzV3dFpkbmV3WmdWdU03bi1ZdndXYlIzSzd0QWd5QXBNNHBWS3JHVlFzdHhNRmVsbEM3Ym9wWGVPbE4wWTJsZHVwUDJtQmhXMEcxNFBqQVItTHlGVEVOQUgwdVgtRUJHMENn?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMisgFBVV95cUxORHhzTC1fRGhlaVFKMXhKeHJyeV9hYzdxcURTTWZ4OTc0ZHgzVnktX0FXOHZGUUhoYmttbkZJWUI0NVN4M2NlZTFiNTY2WW1Ed195TC02LTJZUGRUM0dxV2xieUE3SGd6WGIyWFRaQ2tJSlhMUUxoQ1I3Nks4ck1ta3BUTXBpVG1udXcwMVN1S0JQT3VnU3dmLWFldms2Y2dBc0hHZTJBV0tXcnVOcGphRkJ30gG3AUFVX3lxTFBjQVRrVzdmVUFXaGQ3SElXTVFkYklIdFpoT0hEVHgwQ2VWR0RqZTN4NWZZQWJzSER1MkFTOGJBXzlnZXhuR2J5OW1TVUpxV2tISUNFVEwxWVlUSkZ4Z1pPdmI2OTB4X29ZQkVlbk5QOWE4cEJGTGQ1dGJvbHJacUVJUHZRanpodnhtUl9OcVRrdGhSSE1DOGdPdlpTTFpMLWI4Vm96c0c2V1VrakJXTE9sc2pBWGNMWQ?oc=5)
 
 ---
 
@@ -89,14 +81,6 @@ permalink: /news/ustekinumab/
 2026-04-05 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
-
----
-
-### [Le business de la peur de la maladie lance des analyses de sang testant jusqu'à 150 biomarqueurs: "Ce n'est pas comme ça qu'on fait de la prévention"](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
-
-2026-04-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
-
-來源：[L'Avenir](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
 
 ---
 

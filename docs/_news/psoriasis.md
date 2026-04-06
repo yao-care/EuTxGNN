@@ -3,7 +3,7 @@ layout: default
 title: "psoriasis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "psoriasis 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "psoriasis 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="psoriasis 有什麼相關新聞？">
-<strong>psoriasis</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>psoriasis</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,15 +39,7 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [De tratar la leucemia a mejorar la psoriasis: el fármaco que "abre nuevas posibilidades terapéuticas"](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnpLOHBYWThTcnp4d3BuUVpVWExnVWtTZzZLTG9YUjZvbmdNZUJIb2tRdnU5Rm1scFV0S0pSajhGM1hDbDN6RTI1a19kU29KSlZEYjFGbU1BQ1pjVmk0ZXhJd2tlTVFLb2JoMDZaaGFlMTBSRzV3dFpkbmV3WmdWdU03bi1ZdndXYlIzSzd0QWd5QXBNNHBWS3JHVlFzdHhNRmVsbEM3Ym9wWGVPbE4wWTJsZHVwUDJtQmhXMEcxNFBqQVItTHlGVEVOQUgwdVgtRUJHMENn?oc=5)
-
-2026-04-06
-
-來源：[Vozpópuli](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnpLOHBYWThTcnp4d3BuUVpVWExnVWtTZzZLTG9YUjZvbmdNZUJIb2tRdnU5Rm1scFV0S0pSajhGM1hDbDN6RTI1a19kU29KSlZEYjFGbU1BQ1pjVmk0ZXhJd2tlTVFLb2JoMDZaaGFlMTBSRzV3dFpkbmV3WmdWdU03bi1ZdndXYlIzSzd0QWd5QXBNNHBWS3JHVlFzdHhNRmVsbEM3Ym9wWGVPbE4wWTJsZHVwUDJtQmhXMEcxNFBqQVItTHlGVEVOQUgwdVgtRUJHMENn?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [How to cure psoriasis WITHOUT drugs: ETHAN ENNALS reveals the answers - Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
 

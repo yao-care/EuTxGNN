@@ -44,11 +44,11 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（1 則）
 
-### [Neue Studien revolutionieren das Verständnis von Depression - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUxKSl9xQ0I5VmVEbHI4UzRBLW1GSVlsLXo5TzRFa09NN1Zud2RjRHdNWTBGcG5SUm9IVnFYa0pHWVpfQV9jai1mSENmSnYwRmMwNTFEOEJfUTFHeWRiTHZBRjMwaXM2M3hHVWV0ZWtlS25XcFAzSGFuaWhDYTFPSkRTcW5TMjBxc2ZGWW9qRTR0TXNWMGp5bTNTdEFHaWp1YWpLLUlXaU9QYjd0WnMxVU5QNEdnbGJNY1pR?oc=5)
+### [ADHS & PMS: Bettina erlebt ihre Periode „wie eine kleine Depression“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
 
-2026-04-04 <span class="news-indication-tag">depression</span>
+2026-04-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUxKSl9xQ0I5VmVEbHI4UzRBLW1GSVlsLXo5TzRFa09NN1Zud2RjRHdNWTBGcG5SUm9IVnFYa0pHWVpfQV9jai1mSENmSnYwRmMwNTFEOEJfUTFHeWRiTHZBRjMwaXM2M3hHVWV0ZWtlS25XcFAzSGFuaWhDYTFPSkRTcW5TMjBxc2ZGWW9qRTR0TXNWMGp5bTNTdEFHaWp1YWpLLUlXaU9QYjd0WnMxVU5QNEdnbGJNY1pR?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
 
 ---
 

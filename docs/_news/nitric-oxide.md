@@ -14,7 +14,7 @@ permalink: /news/nitric-oxide/
 ---
 
 <p class="key-answer" data-question="Nitric Oxide 有什麼相關新聞？">
-<strong>Nitric Oxide</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitric Oxide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ permalink: /news/nitric-oxide/
 <p><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（19 則）
+
+### [Ernährungswende: Küche statt Fast Food als Medizin - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOME9yUi1QcmdSNmpEV04wQ1h3ZnpsbFpTYmtEVm5Tckx6SmlmcU9yc3pwREp0bGt6d3BGUlhQbVRwdXlUMEJ2ZUlrSVB6VVRRWlpIZ3BqZVphbUNjeFpNTlR1X09oRm5XZDFMNllSdERCZzZTTnN5RS1OTkUyM21nSEIzVmRJcWExU0NSaG9NbFlDSUNLa2RHanJlU1JrX3ZPQWNKVFZZWUVKbmNFMFlN?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOME9yUi1QcmdSNmpEV04wQ1h3ZnpsbFpTYmtEVm5Tckx6SmlmcU9yc3pwREp0bGt6d3BGUlhQbVRwdXlUMEJ2ZUlrSVB6VVRRWlpIZ3BqZVphbUNjeFpNTlR1X09oRm5XZDFMNllSdERCZzZTTnN5RS1OTkUyM21nSEIzVmRJcWExU0NSaG9NbFlDSUNLa2RHanJlU1JrX3ZPQWNKVFZZWUVKbmNFMFlN?oc=5)
+
+---
+
+### [I'm just 22, but a rare condition made me believe I was a paedophile for four years](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXI4SENMMDdRbEo4cDFKTnpqYXNfVlNsNG0wOXBTOHFPdDdqTFFQWnJ5OWxfMXV0MXR3eDZUb3cyWlNFaFFzdTkwbWVNb2dFTmVLTnhGSU54N0dEUnpIbTM5ZWJWckNYT3lvZHpzYWc3dTBFMEp1RnVSbkVWb2xELVNfUm0yZ3dvUGE3QkFGdW1CNkRXbGpaTmJkZnBRczFHbjI1dkRPYnfSAa4BQVVfeXFMUDMteG84b0xkTUgxeVpWckJQdUM5dXFRQlVrWTcwdmxNOGNPS0ktVEF0RC1KYlZTRmFlZ09BVmJrSUEwQnpqN0R1b0haeVZKM0RfZk5reHZWclJ0cWdBMTU4Ukw1NDM1WVp3eFljMlFWRG9OSFp1di1ReV84OXpOQVNrVzRicldsVHUwa2djYXp6WjNLX0hRREpXTWtiUkRnaUlWQVZLM2FDNVdRaWFR?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXI4SENMMDdRbEo4cDFKTnpqYXNfVlNsNG0wOXBTOHFPdDdqTFFQWnJ5OWxfMXV0MXR3eDZUb3cyWlNFaFFzdTkwbWVNb2dFTmVLTnhGSU54N0dEUnpIbTM5ZWJWckNYT3lvZHpzYWc3dTBFMEp1RnVSbkVWb2xELVNfUm0yZ3dvUGE3QkFGdW1CNkRXbGpaTmJkZnBRczFHbjI1dkRPYnfSAa4BQVVfeXFMUDMteG84b0xkTUgxeVpWckJQdUM5dXFRQlVrWTcwdmxNOGNPS0ktVEF0RC1KYlZTRmFlZ09BVmJrSUEwQnpqN0R1b0haeVZKM0RfZk5reHZWclJ0cWdBMTU4Ukw1NDM1WVp3eFljMlFWRG9OSFp1di1ReV84OXpOQVNrVzRicldsVHUwa2djYXp6WjNLX0hRREpXTWtiUkRnaUlWQVZLM2FDNVdRaWFR?oc=5)
+
+---
+
+### [I went from 19st to a size 8 after beating £3k gastric sleeve weight regain - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkdPYVhhWWpRUVhOa3RoNEdBNC00dF9nMHRBNzBrMzdtakRiRlNpSmdfOE43Y0dVY0JpZkgyTmJxZ1Q5M1U5cnR1bXFtTlF6ZDlSOFVyMGlJQkZqTTFUOGhQY0lXeW85TUlmTjdrQjRuLWhCOXFRY0JTLWx2b242ZTZnTXBoNE5HTlpJ?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkdPYVhhWWpRUVhOa3RoNEdBNC00dF9nMHRBNzBrMzdtakRiRlNpSmdfOE43Y0dVY0JpZkgyTmJxZ1Q5M1U5cnR1bXFtTlF6ZDlSOFVyMGlJQkZqTTFUOGhQY0lXeW85TUlmTjdrQjRuLWhCOXFRY0JTLWx2b242ZTZnTXBoNE5HTlpJ?oc=5)
+
+---
+
+### [Hasta el 45% de pacientes reumáticos podría sufrir sarcopenia pese a ser prevenible con ejercicio de fuerza y dieta](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0pZNnRFekVDejJVbzlobjhZNGo3S2k2R3lnQzQzajVDSEJvRzJJOF9EYWhwOVhvTy00eVdzRGlwSHFxUjdjV3FUaWo0bTNrRlhfRHRyLWl4WHh4MFliR21ORXdXUUxUaHljV3BpMWRWaGVKMEhIaVFhUTRqcmdZZHl0N0l1VkgxRFZXMW9jeGxBekJ5eW5XZjZmQ3NONGFUTEdEbVlOWi1OcDRJbGplRHNxNS1yWUx6WG5CcVctb2NqcDRzbGk2QVN6bHJISTRsMEw1dlRwdXhWNjZVWGl0b3ZGYTBWc3l0TFVKSnhyTkswb2F3bXMtZQ?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0pZNnRFekVDejJVbzlobjhZNGo3S2k2R3lnQzQzajVDSEJvRzJJOF9EYWhwOVhvTy00eVdzRGlwSHFxUjdjV3FUaWo0bTNrRlhfRHRyLWl4WHh4MFliR21ORXdXUUxUaHljV3BpMWRWaGVKMEhIaVFhUTRqcmdZZHl0N0l1VkgxRFZXMW9jeGxBekJ5eW5XZjZmQ3NONGFUTEdEbVlOWi1OcDRJbGplRHNxNS1yWUx6WG5CcVctb2NqcDRzbGk2QVN6bHJISTRsMEw1dlRwdXhWNjZVWGl0b3ZGYTBWc3l0TFVKSnhyTkswb2F3bXMtZQ?oc=5)
+
+---
 
 ### [Schlafmangel beschleunigt biologisches Altern - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmFKZkwxTVNVekIwMHhRRjFFSFdSMmtOZHo5TC1ELThRb2g3UHdhUkItVGFGcG14OTRBUGVqSGlkanpvTzBDQlhqOUNMeE95Y0hGNzhLRG8xS3lwdUFoX3VTcUFkN0NMZFpnTFZlbWstdzhwOWlieEw0RWRickVTRnpJT0htSXhMNEVFUFJvRlZOSlRlVHBCOUhvSW9aOUlnZFZYOGt2bw?oc=5)
 
@@ -52,11 +84,11 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+### [Un nuevo protocolo unificado logra reducir drásticamente los ictus y la mortalidad por hipertensión](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT0gtLVpvSFI3LXBtSldLaHFsbTRmZEtBNnJuX1Z6Qm16aFZXS2xxOTVtQXNXTFdrYk5aMUVyVTBCLURQVDVkaVBXdURSRGY5NGlUdDVueHFKYTZtMU1fTDkyS19jY1poOWZLaGluZFNIeDlVMi0xcUFRdHE3ZFlIRTducHNPdEFKS0tiaGlMdjN1R0lGcFJpeHhIVmthVWx2cWNrVFkycGhzNFU1eGpmYXgtcFZQaWlzMEpycHBESlFJZlJVTmY3LTVxSlMwM3V0OWpBeGpQY0FtU2V0ek1tNV9rQTh2Z3NkaDZURFcwYnJnNUhQV3RZbWU4VU10TXpDWHhZ0gGDAkFVX3lxTE1LenR4ejcya0Jjc0M4NE4yRHA3eEpSaWdNTDdHWmVOZkhzcnZMZWJXM082M1NfRXB2dkxsS2xOdzVUcTNxbTdNbWF5enB4YnBVd2FpSzhubTY2OHVDbTg4MFdXVUk5dldSeURTS2RDdnFHb3lUeVNxRUtQbGZscUJkTTBXWW5mYmpVS0VHeDFlN19Lb3M5ODg1MTFPZ2o4UG01YU1DeXRGUDFGWE5GSkpSb3E1SkdvNWFyblZzUXJlZ3hRSDdfdmtRZm9lU2RLazk5VV9TT1VQNlVEMTR3OG1sbDVCcUFpTnVuVDk2THJuU3lvS1ZnaHFMT254cGtJQkUtczg?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+來源：[LaSexta](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT0gtLVpvSFI3LXBtSldLaHFsbTRmZEtBNnJuX1Z6Qm16aFZXS2xxOTVtQXNXTFdrYk5aMUVyVTBCLURQVDVkaVBXdURSRGY5NGlUdDVueHFKYTZtMU1fTDkyS19jY1poOWZLaGluZFNIeDlVMi0xcUFRdHE3ZFlIRTducHNPdEFKS0tiaGlMdjN1R0lGcFJpeHhIVmthVWx2cWNrVFkycGhzNFU1eGpmYXgtcFZQaWlzMEpycHBESlFJZlJVTmY3LTVxSlMwM3V0OWpBeGpQY0FtU2V0ek1tNV9rQTh2Z3NkaDZURFcwYnJnNUhQV3RZbWU4VU10TXpDWHhZ0gGDAkFVX3lxTE1LenR4ejcya0Jjc0M4NE4yRHA3eEpSaWdNTDdHWmVOZkhzcnZMZWJXM082M1NfRXB2dkxsS2xOdzVUcTNxbTdNbWF5enB4YnBVd2FpSzhubTY2OHVDbTg4MFdXVUk5dldSeURTS2RDdnFHb3lUeVNxRUtQbGZscUJkTTBXWW5mYmpVS0VHeDFlN19Lb3M5ODg1MTFPZ2o4UG01YU1DeXRGUDFGWE5GSkpSb3E1SkdvNWFyblZzUXJlZ3hRSDdfdmtRZm9lU2RLazk5VV9TT1VQNlVEMTR3OG1sbDVCcUFpTnVuVDk2THJuU3lvS1ZnaHFMT254cGtJQkUtczg?oc=5)
 
 ---
 
@@ -68,43 +100,19 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [La sarcopenia afecta a casi la mitad de los pacientes reumáticos y eleva el riesgo de discapacidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkpTb29WU0xrdXhJRGtxeHhObEdSUFd0TlpwZnNRUnNOSExjeWZMR0J4N2RPa2EzbmxBRFZzOFhldHFUZURUTnk4dXNlalZUaUVjMjItQng0Y2FsLTY2SHYtNVdsSUdaRFFxVFVCb2NhR2NnQUV4dngwY3NfSXhkVkc4V3dFMVFGWDBISmgwRDQ3Y0l2VkFZdzhqX1lDMkNfR040eVBEYlBLbTNSOWZYTnQxU25MV1pXOEd3UTRn?oc=5)
+### [Pasquetta all'aperto? Attenti al picco dei pollini: rischio allergie aumentato del 25% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzJuMkVxN2JYNV9UZzFQdFNqQWZKeG5TcjBWQzZFUERWc2hUalUzTXA3QXpKaFl1VDM1UWNVaV8ySXJJYXdLMk9wdFZ0Tk93TjVPejZBNzVmN0pxSG9ualhMWnFQdDNBTmkzN2szWk8yaXVIczR4Sl90WGg4dVBCQXotQ1BMTlR5bGowRkROWWZFYlg2UVNNdGdQMUt5dmp0MVAw?oc=5)
 
 2026-04-06 <span class="news-indication-tag">AF</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkpTb29WU0xrdXhJRGtxeHhObEdSUFd0TlpwZnNRUnNOSExjeWZMR0J4N2RPa2EzbmxBRFZzOFhldHFUZURUTnk4dXNlalZUaUVjMjItQng0Y2FsLTY2SHYtNVdsSUdaRFFxVFVCb2NhR2NnQUV4dngwY3NfSXhkVkc4V3dFMVFGWDBISmgwRDQ3Y0l2VkFZdzhqX1lDMkNfR040eVBEYlBLbTNSOWZYTnQxU25MV1pXOEd3UTRn?oc=5)
-
----
-
-### [La nueva foto más famosa de la Tierra está hecha con una réflex de hace 10 años: así es el equipo fotográfico de Artemis II](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
-
-2026-04-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[photolari](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzJuMkVxN2JYNV9UZzFQdFNqQWZKeG5TcjBWQzZFUERWc2hUalUzTXA3QXpKaFl1VDM1UWNVaV8ySXJJYXdLMk9wdFZ0Tk93TjVPejZBNzVmN0pxSG9ualhMWnFQdDNBTmkzN2szWk8yaXVIczR4Sl90WGg4dVBCQXotQ1BMTlR5bGowRkROWWZFYlg2UVNNdGdQMUt5dmp0MVAw?oc=5)
 
 ---
 
 ### [Un estudio asocia la apnea obstructiva del sueño con la mortalidad por todas las causas y los eventos cardiovasculares - Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
 
-2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+2026-04-06 <span class="news-indication-tag">hipertensión</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
-
----
-
-### [En Segovia, 122 pacientes luchan contra la fibromialgia, enfermedad que podría afectar al 3% de la población - El Adelantado](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMDFUb251S2ZsaXpHb3gtRmRrZ3ltTl9ZcThTNWZ0X1JxVW1Ed2RFUlZKbEY3bmJjbGUzUlhhTFF3d3RDdEw0cW9JQXV5T25DeXF6ZHRpU1FNZWNYTF9CNHlkckJvRFhENjB3dHEta0ppSTNhMFE5UDlrWm1EYVI4cFRxb2lIVVRoNWthVDVpckZSTFk0V3FmZ1JEdHhLLWw4dE9hYUVQRXp4dTJxWGpNQlZtUV9GMS1FQmJhV1YzMHpxS05QSzk1cWF2RWxRdDlyVC1SVXBwRVBxS3BoNE9pWGNwQjI?oc=5)
-
-2026-04-06 <span class="news-indication-tag">AF</span>
-
-來源：[El Adelantado](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMDFUb251S2ZsaXpHb3gtRmRrZ3ltTl9ZcThTNWZ0X1JxVW1Ed2RFUlZKbEY3bmJjbGUzUlhhTFF3d3RDdEw0cW9JQXV5T25DeXF6ZHRpU1FNZWNYTF9CNHlkckJvRFhENjB3dHEta0ppSTNhMFE5UDlrWm1EYVI4cFRxb2lIVVRoNWthVDVpckZSTFk0V3FmZ1JEdHhLLWw4dE9hYUVQRXp4dTJxWGpNQlZtUV9GMS1FQmJhV1YzMHpxS05QSzk1cWF2RWxRdDlyVC1SVXBwRVBxS3BoNE9pWGNwQjI?oc=5)
-
----
-
-### [Un estudio sugiere que las tomografías de cáncer de pulmón pueden detectar otros tumores](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWJSR096TWRpU1hWRnp5T0hzNGx4RW44TjNTcXdqYXkzLWF6UXl5NTZOS1dLbVdvbWpwVU00aHd4MjcwZUpCYi01WjRzMFhRRUFCZW1OY0dmOEczdmxMQ2IxX3BKT0xxS3RDRUxkZlJmT3lWMkE2dzgxd0pzRnlJSUlNU1dZeVV3QkRSdF85aVVvRGwxTlVnZXEtT0VHOXNVWDFFeGRRY1ZNWGVsSWt5dWppbVRZRkc0eWZHMzFqNG1MWUZObXJuVjFVejdqUk9lZWNNRjlTTFhYaGNvZGc?oc=5)
-
-2026-04-06 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWJSR096TWRpU1hWRnp5T0hzNGx4RW44TjNTcXdqYXkzLWF6UXl5NTZOS1dLbVdvbWpwVU00aHd4MjcwZUpCYi01WjRzMFhRRUFCZW1OY0dmOEczdmxMQ2IxX3BKT0xxS3RDRUxkZlJmT3lWMkE2dzgxd0pzRnlJSUlNU1dZeVV3QkRSdF85aVVvRGwxTlVnZXEtT0VHOXNVWDFFeGRRY1ZNWGVsSWt5dWppbVRZRkc0eWZHMzFqNG1MWUZObXJuVjFVejdqUk9lZWNNRjlTTFhYaGNvZGc?oc=5)
 
 ---
 
@@ -164,22 +172,6 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Glasgow best pals take on 'mammoth' challenge after devastating cancer diagnosis - Glasgow Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNTdYT2tJR0Zwa08tRTFLY2thNlZOcnd3cFpkczltT3BURF9ZeklpWjlZX016XzlnR2Q4bm9hSjNWcTVZUXg1WXdkYU1CVWJ1WDMxejVNVkNWcHpuZ2FCQTd5dXRCOWhsVmx2ZE9mS0pBaWFLZFZlQW0wNGNOMnBabHpObHFpMnNYZG5LNERoeWPSAZYBQVVfeXFMTTk5Yk1DdU1Rcm1Na2FyM3RiYkNaQTJJUndQN3NZWTZvS0RWeTNhZExsaDFQT0dwZ3N4MHZSbm96b0ktR09jQVZUWmtWSWtyWWhMMGs2cUg0NndVMHc2T2REVno3Q1lQSnNaVUl5cUNhY3NTbm43cUZTSlJYVkkzdmsydERJaWQ4NHMzYTVHTjhNbkFjeG5n?oc=5)
-
-2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNTdYT2tJR0Zwa08tRTFLY2thNlZOcnd3cFpkczltT3BURF9ZeklpWjlZX016XzlnR2Q4bm9hSjNWcTVZUXg1WXdkYU1CVWJ1WDMxejVNVkNWcHpuZ2FCQTd5dXRCOWhsVmx2ZE9mS0pBaWFLZFZlQW0wNGNOMnBabHpObHFpMnNYZG5LNERoeWPSAZYBQVVfeXFMTTk5Yk1DdU1Rcm1Na2FyM3RiYkNaQTJJUndQN3NZWTZvS0RWeTNhZExsaDFQT0dwZ3N4MHZSbm96b0ktR09jQVZUWmtWSWtyWWhMMGs2cUg0NndVMHc2T2REVno3Q1lQSnNaVUl5cUNhY3NTbm43cUZTSlJYVkkzdmsydERJaWQ4NHMzYTVHTjhNbkFjeG5n?oc=5)
-
----
-
-### [How ‘super-agers’ keep their brains active in their 60s and beyond - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWFGMmp0R0oxdlFmMVdjNjl2bEtvaXlITEpWT2t4SWxITl9kMllrRWRsV2lsTkhYTm9vbDZLbTdrUU1yajF0SXlwRHdKZmRiRHNNT1o5THN5YmY4OUl4aUR1SnplVExRU2pvQkhmUnk1NUVlVm0tSXFwRS1MWTZsdmVTZ3R5RXVHeEpjbWgwVWsxWUlYUWxCS3ppYkxjZHRCejkxWExxakFoLUE?oc=5)
-
-2026-04-05 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWFGMmp0R0oxdlFmMVdjNjl2bEtvaXlITEpWT2t4SWxITl9kMllrRWRsV2lsTkhYTm9vbDZLbTdrUU1yajF0SXlwRHdKZmRiRHNNT1o5THN5YmY4OUl4aUR1SnplVExRU2pvQkhmUnk1NUVlVm0tSXFwRS1MWTZsdmVTZ3R5RXVHeEpjbWgwVWsxWUlYUWxCS3ppYkxjZHRCejkxWExxakFoLUE?oc=5)
-
----
-
 ### [Devastated mum has this message after son, 5, loses fight for life - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3F5Wm5lRElERldLUXFJMW5mSHRmaExRWEktVDBPV2VKd1NHbDNBbXlERm5vbk9vS3drb3g3MXNSdHRFT09HSDByb1FIaTRIdjZXVEtZQ29XNnRxenVueUVONVB6RHFnVTBBVkgtZXRnWUxXUFk2STJ3T1EzWmdydUhFZDM1ams1OXNkcDZpWUVvTEpsQVNTYl82eGtCTHPSAaQBQVVfeXFMTTR4bUhibjVMVmgyaWd4NGYtWUgwQzJTbk1jV3hUcHVrSWlBZkVYNUtzNmtsMS11eE0wT1RfdVFQb0R3TGpsTUkyajZCNmNVZHhxMHhDcVM4aWthdHl5bUpWNWh4ZTlzU0hRNWNlSzktTS1ZTjlvc0xFTWQ1UEVER1N1ZXJGZ2hKUHBxWE9sUEdwWkNZRkE1NndsUW1sbldBUm5DUFA?oc=5)
 
 2026-04-05 <span class="news-indication-tag">AF</span>
@@ -201,14 +193,6 @@ permalink: /news/nitric-oxide/
 2026-04-04 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRqZHkwazhYWnhMX29aZkNoRlJ5TlJldmI5N0NRMmg1a2tnSjRjenpTNW5JU05KZ01XMDFvUXczT1c3QTRhdVZXQUF1a0syQVdlVzlDWEgwaWVpd2JRVVo3TlZrSlNJQm94Wk1kekJNUU5HSTl1OFo4YXlZYVdSQkl0Q3Nib18wZ2c4cGx5bzZFRnNNY19zellRTmxoQkFwODRXSDNYdw?oc=5)
-
----
-
-### [Warum wir gähnen – Neurowissenschaftler entdecken unerwartete Hinweise im MRT](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AF</span>
-
-來源：[t3n](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbVNiT1pmdnVKWmd1azVaQWctNkFoNDNBNkxLdmlCQzN5ZWdKdTR3a1dXRXdSazF0OHExckRrb19ZQ0FKY29SMUdPNGVMWW5GTF9adF9MNjJ1OWZFMDRieHJLUm5iQXlyb3dRdDFn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,35 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Alzheimer-Forschung: Drei neue Wege zur Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
+
+2026-04-06 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
+
+---
+
+### [„Einer der echten medizinischen Notfälle“ – Meningitis ist eine Infektion, die in Stunden tötet - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTXhzTy1VdElEamlXMW9JeUhzVEdORmxvejY5SENsX3FyY0VlenF0ZE0xeEJjZ04zRkdYdjZVOEYxdTNEam0yenNKNE83aWNWVDktZHdjYUJ0UUhEMnhUSHh2OTJ4M3o0cDQtUE5BRTU1M3VaTVZvSWMtZWtWSkYyam1DZmdzR2VNZ2pUa0NDVmstOFJOcl9rTldGRFN0NHBkWFUxczI2VnFJVHlDbFdIcG13X2JPbUhtT0NmVUctc1MwMEgtYWo1TDhCSnhUQVE?oc=5)
+
+2026-04-06 <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTXhzTy1VdElEamlXMW9JeUhzVEdORmxvejY5SENsX3FyY0VlenF0ZE0xeEJjZ04zRkdYdjZVOEYxdTNEam0yenNKNE83aWNWVDktZHdjYUJ0UUhEMnhUSHh2OTJ4M3o0cDQtUE5BRTU1M3VaTVZvSWMtZWtWSkYyam1DZmdzR2VNZ2pUa0NDVmstOFJOcl9rTldGRFN0NHBkWFUxczI2VnFJVHlDbFdIcG13X2JPbUhtT0NmVUctc1MwMEgtYWo1TDhCSnhUQVE?oc=5)
+
+---
+
+### [ADHS & PMS: Bettina erlebt ihre Periode „wie eine kleine Depression“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
+
+2026-04-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
+
+---
 
 ### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
 
@@ -57,14 +81,6 @@ permalink: /news/interferon-beta-1a/
 2026-04-06 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSnJ3M21XMDVhcjVRQWx6NVl3MGswMHVaclpKNlJqUTFJd3BGNHUyUm9KNG93aW9GX2VUeGZQLUtObERGZWJ4WUlfTWJtN3pxSGk1M0ZwejNMQ1JXbGYwZlJtZE81V1U3aDBTbWtUWGJKRzU3OVNucGxjdWdZU05adjhqUXJXSFM2b0tYeWd6VlFBdFRqaVFKVGRkQ3pRZ0pxMGEtU2liaWNlU0xBVjBUczRlWmhGRk51VklfOUhLazI3V2x4MkQyX1I4YU5mY2NEZG9mVExhd0JQVFZManJnSjB2THlzV3R5bmp3dXhjUzZCUQ?oc=5)
-
----
-
-### [La nueva foto más famosa de la Tierra está hecha con una réflex de hace 10 años: así es el equipo fotográfico de Artemis II](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
-
-2026-04-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[photolari](https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXlHOXZmWnJBekdqZENlZEt6TlhRalVnWUVBc3dYTU1mOXJuT1BHY0hRY1FZaXRjdGNib0lvdm5yNjV5YlVlel9xSkJUV2FBN1VMREliNFF5VGR0SkVhYTNQZ3hZX1M5OWw0d0l4OFZiYVVYcTVxVWVUYzROeF8xNEtqSVo5dWFvTERqTDRFOW9TN1U5MkdLcFBXYTZ5UXZpYjRybVk2cloyRVVlUTQ4UU5objloM25Oamc?oc=5)
 
 ---
 
@@ -92,11 +108,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [New Covid variant with 75 mutations spreading in UK - key symptoms to watch](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGlhQXZxbmlCNXgzbFBnSUFidmZZWU8tdjhGMmJxSlVHTExTQ1dtUDZ0ZTNVNTgxTjdfNUZhRGZLYnl2Z25LcVFiQkhYaktkWFU0bURYcndZeFBUT3JzdHNWYy1lM3M5SHFzWnFHV3FNZm04TktyQ2hoNFJDZFBlUW15TXJSbUd5M2gxQjVCZ1EwdzV6V1E?oc=5)
+### [AI cuts MRI scan time from 23 to 9 minutes at Amsterdam cancer center - NL Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxNamVqVjRkbzd6c2VpMXRrVE1CR1JFbE9fVGhfdHBBSGpmcExGbENBM0ZfZzBDaGhjTkNGY3B6OWU0eGFhdnJ6OXNOSV9zMGNqUlJjbXJ4Z05tdXV4dkhhWUEyMzhPNm1QM1YtZEdhOVZFbEgySThJZTFXQXA4WTlXaFRoOW9aVkJneE96RDRZUXJDZw?oc=5)
 
-2026-04-05 <span class="news-indication-tag">MS</span>
+2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[birminghammail.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGlhQXZxbmlCNXgzbFBnSUFidmZZWU8tdjhGMmJxSlVHTExTQ1dtUDZ0ZTNVNTgxTjdfNUZhRGZLYnl2Z25LcVFiQkhYaktkWFU0bURYcndZeFBUT3JzdHNWYy1lM3M5SHFzWnFHV3FNZm04TktyQ2hoNFJDZFBlUW15TXJSbUd5M2gxQjVCZ1EwdzV6V1E?oc=5)
+來源：[NL Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxNamVqVjRkbzd6c2VpMXRrVE1CR1JFbE9fVGhfdHBBSGpmcExGbENBM0ZfZzBDaGhjTkNGY3B6OWU0eGFhdnJ6OXNOSV9zMGNqUlJjbXJ4Z05tdXV4dkhhWUEyMzhPNm1QM1YtZEdhOVZFbEgySThJZTFXQXA4WTlXaFRoOW9aVkJneE96RDRZUXJDZw?oc=5)
 
 ---
 

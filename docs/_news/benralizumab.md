@@ -14,7 +14,7 @@ permalink: /news/benralizumab/
 ---
 
 <p class="key-answer" data-question="Benralizumab 有什麼相關新聞？">
-<strong>Benralizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Benralizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/benralizumab/
 <p><a href="{{ '/drugs/benralizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Resultados positivos con benralizumab en el síndrome hipereosinofílico - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzFEMHpYa0dmYkxOeWRpb2RubnFCMVBkaEc4Zy1BZlVSRV94QTZFZnVla21CWGtrRDhBaU9icEZMMXBveGJWOS1rU092WWVfT25EaVUzeU9tWWx6c1VYa0U4U19Bd0pLSkRIVjFmRjVzaHZwcl9ZZWNKZkZlNW1MellQZTVVNjJub3R1S2tzTXBfZFlnOVNtS2tWdk1feGNkb3p2NjBjMDM4NktoS3d0d1dhUGtNVEMzVnktREw2M2jSAbsBQVVfeXFMTjFGQUx3bnZmU3N3N1RYcnc4bzlsWGNtZ25mUHF2ekRGQnNXdGhFTkk5ZXFTRVc2Nk9oXzFmbVpnYk9JTDZ6WVc2QWJmRlRfQnFERW10OURmYlFLWERkSVhhYmJrLW9DU242WUxKS2pYTHRkMHpqSWRLRDktMmtkVzV0d1NfSFNOc2tTSV9WNlZVMDhkTnhDeThlMU41YkZfdEJLQlp2WXdsZXlZVzd0MVlrUTAtT1d6X3FCbw?oc=5)
+
+2026-04-06 <span class="news-drug-tag">Benralizumab</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzFEMHpYa0dmYkxOeWRpb2RubnFCMVBkaEc4Zy1BZlVSRV94QTZFZnVla21CWGtrRDhBaU9icEZMMXBveGJWOS1rU092WWVfT25EaVUzeU9tWWx6c1VYa0U4U19Bd0pLSkRIVjFmRjVzaHZwcl9ZZWNKZkZlNW1MellQZTVVNjJub3R1S2tzTXBfZFlnOVNtS2tWdk1feGNkb3p2NjBjMDM4NktoS3d0d1dhUGtNVEMzVnktREw2M2jSAbsBQVVfeXFMTjFGQUx3bnZmU3N3N1RYcnc4bzlsWGNtZ25mUHF2ekRGQnNXdGhFTkk5ZXFTRVc2Nk9oXzFmbVpnYk9JTDZ6WVc2QWJmRlRfQnFERW10OURmYlFLWERkSVhhYmJrLW9DU242WUxKS2pYTHRkMHpqSWRLRDktMmtkVzV0d1NfSFNOc2tTSV9WNlZVMDhkTnhDeThlMU41YkZfdEJLQlp2WXdsZXlZVzd0MVlrUTAtT1d6X3FCbw?oc=5)
+
+---
 
 
 <div class="disclaimer">

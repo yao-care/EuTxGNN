@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,53 +42,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（1 則）
 
-### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+### [Un nuevo protocolo unificado logra reducir drásticamente los ictus y la mortalidad por hipertensión](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT0gtLVpvSFI3LXBtSldLaHFsbTRmZEtBNnJuX1Z6Qm16aFZXS2xxOTVtQXNXTFdrYk5aMUVyVTBCLURQVDVkaVBXdURSRGY5NGlUdDVueHFKYTZtMU1fTDkyS19jY1poOWZLaGluZFNIeDlVMi0xcUFRdHE3ZFlIRTducHNPdEFKS0tiaGlMdjN1R0lGcFJpeHhIVmthVWx2cWNrVFkycGhzNFU1eGpmYXgtcFZQaWlzMEpycHBESlFJZlJVTmY3LTVxSlMwM3V0OWpBeGpQY0FtU2V0ek1tNV9rQTh2Z3NkaDZURFcwYnJnNUhQV3RZbWU4VU10TXpDWHhZ0gGDAkFVX3lxTE1LenR4ejcya0Jjc0M4NE4yRHA3eEpSaWdNTDdHWmVOZkhzcnZMZWJXM082M1NfRXB2dkxsS2xOdzVUcTNxbTdNbWF5enB4YnBVd2FpSzhubTY2OHVDbTg4MFdXVUk5dldSeURTS2RDdnFHb3lUeVNxRUtQbGZscUJkTTBXWW5mYmpVS0VHeDFlN19Lb3M5ODg1MTFPZ2o4UG01YU1DeXRGUDFGWE5GSkpSb3E1SkdvNWFyblZzUXJlZ3hRSDdfdmtRZm9lU2RLazk5VV9TT1VQNlVEMTR3OG1sbDVCcUFpTnVuVDk2THJuU3lvS1ZnaHFMT254cGtJQkUtczg?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
-
----
-
-### [La Consejería de Sanidad trabaja en un estudio sobre la obesidad entre escolares](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTFiU2JRcjd3dDVhbzhSX3k4VU8zallSU2lCZXFSUG9CZkthc0s1VUxiTnRRWk9GWVJiR21zcDB0YTBNLTZ4cWN1NUg1QTh5ZFJzREw3ZEJVdm9jWFJ2VmcxLW1HakVyVUZIZ0FMU3ZLVFE1Z0VQeGVLS1BueW5RSG9XMmpaQ2w3Z2k5ekVXdGtqc2dNcmFBam1OaGNrX0hGYlVZ?oc=5)
-
-2026-04-06 <span class="news-indication-tag">obesidad</span>
-
-來源：[elpueblodeceuta.es](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTFiU2JRcjd3dDVhbzhSX3k4VU8zallSU2lCZXFSUG9CZkthc0s1VUxiTnRRWk9GWVJiR21zcDB0YTBNLTZ4cWN1NUg1QTh5ZFJzREw3ZEJVdm9jWFJ2VmcxLW1HakVyVUZIZ0FMU3ZLVFE1Z0VQeGVLS1BueW5RSG9XMmpaQ2w3Z2k5ekVXdGtqc2dNcmFBam1OaGNrX0hGYlVZ?oc=5)
-
----
-
-### [Salud última una estrategia para reducir la obesidad infantil con horizonte hasta 2030 - EFE Noticias](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUmp1T2NETjY2YkJhY19FcWFqUHo3VEprRUQ3YWYtSU1IRU53SlFTYW1kU0lxNTRWT3NCc0ZBT2txMTcyQnJpTklHVUVNZDlHRUhPbmdlbW85ak9TY213VjY3UzBReHBMWTdidm1sRGhZSkdPQmdQWjVoa1lBT0tjdm00V2pnWTV4T2o4WTNJQWpDQjdyczBWaVZLV2ZhUWl1dzFZWHpSR0lrTjcyNnltRFNYTS1yQ3hZUnk3aEdtZUlNclRHeEtuYjJoUmNWcjB0eXRvc1I0cS1KYmluU1RR?oc=5)
-
-2026-04-06 <span class="news-indication-tag">obesidad</span>
-
-來源：[EFE Noticias](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUmp1T2NETjY2YkJhY19FcWFqUHo3VEprRUQ3YWYtSU1IRU53SlFTYW1kU0lxNTRWT3NCc0ZBT2txMTcyQnJpTklHVUVNZDlHRUhPbmdlbW85ak9TY213VjY3UzBReHBMWTdidm1sRGhZSkdPQmdQWjVoa1lBT0tjdm00V2pnWTV4T2o4WTNJQWpDQjdyczBWaVZLV2ZhUWl1dzFZWHpSR0lrTjcyNnltRFNYTS1yQ3hZUnk3aEdtZUlNclRHeEtuYjJoUmNWcjB0eXRvc1I0cS1KYmluU1RR?oc=5)
-
----
-
-### [Le business de la peur de la maladie lance des analyses de sang testant jusqu'à 150 biomarqueurs: "Ce n'est pas comme ça qu'on fait de la prévention"](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
-
-2026-04-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
-
-來源：[L'Avenir](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPalBJRl9JOUUwOG52Y1NDX2MzS2lYRHFEeEVac3FWam5pYV83TFBJc2hIYlFLVnlRS2dHZlNJNC1EdGdnX09MWS0wSFhOYWU0RVNqRTh1ek5nY01MVFNhMXFpYkdQR0ZLa3RBSFFnQ1JpWWhBcFFfbEstLUhpQ3ZTX0RWcDVfRDlWV19LMnBvX0tOYW8tMVFvR3BnbzNET1ViQmlFMzFRZHlWY2llZlNFUDIxTHVwTGNfNVdUYlVFWUxuaUFKd18wNTl0ZUZNRkV4WDcyVHhuVHYxZkZWUWZhX0dYTkE2UDZaNFRKVUViYy1FODNyVUl6Q25ua2FtOVdLVjlpMXNGRXhkODBucWc2emxjNS1SRG5YQmM4Vi16VnRKTjNRUE1xeDBJcktsdF8tbHdfREwxaGczN1Fabl9WaUh3WmMwS0dy?oc=5)
-
----
-
-### [Un estudio demuestra que la obesidad no siempre está ligada a comer más, sino a comer peor](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
-
-2026-04-04 <span class="news-indication-tag">obesidad</span>
-
-來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWxERGlXNU5oMkNkVHVtYmhjSEVpVjl3RE96QmtVdzI4dkpMTXBoa0JCb0VmTmhjZ1l5ZlRNT2d3bkNTQXVHNEh1dXRacm1ES3h4RXd5WVdkZ3BMaUx0Q1g5RVVPelNoZjEyU0otWnBjX3NfSk1hYWg0STFxWXVTTmtnWi03YWFINzduOVNhc1YzMXJ1VUpxNFZkU0hiYXp0dGZOdHVGOFVsa2xEbW04T2tObWczWDRp?oc=5)
-
----
-
-### [Des femmes mettent en lumière le lipœdème pour mettre fin à la confusion persistante avec l’obésité](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclZJY1M3WEY4TlFINXEzR2MxMXpFZHdCenc3c0lUcHliYnNqdWxIVERROUNBcmhvYTV3QUIxV0R3Rl9uOG5Gak54VHp1cE92UlVpUUtpSk9hQk8wei11Mk5qMWlmclUzbV9ZXzRfRDQxQVFPSjFyQnhWUWFoSUJ6LTJWVlJUNks5bXRrRlBsNkhNSXdzX3JFdkRYeVo0aEV1X0Qtb1lpR3dTNXNmSWFLSDNnQUZuXzZXcFhtY2x3Z25XUEFucGlPcVVGRTRwZHlIOFFCQVp3ZkZSeWhJSzNYaFlRUnpwRHNuYkdjTw?oc=5)
-
-2026-04-04 <span class="news-indication-tag">obésité</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclZJY1M3WEY4TlFINXEzR2MxMXpFZHdCenc3c0lUcHliYnNqdWxIVERROUNBcmhvYTV3QUIxV0R3Rl9uOG5Gak54VHp1cE92UlVpUUtpSk9hQk8wei11Mk5qMWlmclUzbV9ZXzRfRDQxQVFPSjFyQnhWUWFoSUJ6LTJWVlJUNks5bXRrRlBsNkhNSXdzX3JFdkRYeVo0aEV1X0Qtb1lpR3dTNXNmSWFLSDNnQUZuXzZXcFhtY2x3Z25XUEFucGlPcVVGRTRwZHlIOFFCQVp3ZkZSeWhJSzNYaFlRUnpwRHNuYkdjTw?oc=5)
+來源：[LaSexta](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT0gtLVpvSFI3LXBtSldLaHFsbTRmZEtBNnJuX1Z6Qm16aFZXS2xxOTVtQXNXTFdrYk5aMUVyVTBCLURQVDVkaVBXdURSRGY5NGlUdDVueHFKYTZtMU1fTDkyS19jY1poOWZLaGluZFNIeDlVMi0xcUFRdHE3ZFlIRTducHNPdEFKS0tiaGlMdjN1R0lGcFJpeHhIVmthVWx2cWNrVFkycGhzNFU1eGpmYXgtcFZQaWlzMEpycHBESlFJZlJVTmY3LTVxSlMwM3V0OWpBeGpQY0FtU2V0ek1tNV9rQTh2Z3NkaDZURFcwYnJnNUhQV3RZbWU4VU10TXpDWHhZ0gGDAkFVX3lxTE1LenR4ejcya0Jjc0M4NE4yRHA3eEpSaWdNTDdHWmVOZkhzcnZMZWJXM082M1NfRXB2dkxsS2xOdzVUcTNxbTdNbWF5enB4YnBVd2FpSzhubTY2OHVDbTg4MFdXVUk5dldSeURTS2RDdnFHb3lUeVNxRUtQbGZscUJkTTBXWW5mYmpVS0VHeDFlN19Lb3M5ODg1MTFPZ2o4UG01YU1DeXRGUDFGWE5GSkpSb3E1SkdvNWFyblZzUXJlZ3hRSDdfdmtRZm9lU2RLazk5VV9TT1VQNlVEMTR3OG1sbDVCcUFpTnVuVDk2THJuU3lvS1ZnaHFMT254cGtJQkUtczg?oc=5)
 
 ---
 

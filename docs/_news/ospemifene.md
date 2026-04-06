@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="Ospemifene 有什麼相關新聞？">
-<strong>Ospemifene</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ospemifene</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,19 @@ permalink: /news/ospemifene/
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Un nuevo protocolo unificado logra reducir drásticamente los ictus y la mortalidad por hipertensión](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT0gtLVpvSFI3LXBtSldLaHFsbTRmZEtBNnJuX1Z6Qm16aFZXS2xxOTVtQXNXTFdrYk5aMUVyVTBCLURQVDVkaVBXdURSRGY5NGlUdDVueHFKYTZtMU1fTDkyS19jY1poOWZLaGluZFNIeDlVMi0xcUFRdHE3ZFlIRTducHNPdEFKS0tiaGlMdjN1R0lGcFJpeHhIVmthVWx2cWNrVFkycGhzNFU1eGpmYXgtcFZQaWlzMEpycHBESlFJZlJVTmY3LTVxSlMwM3V0OWpBeGpQY0FtU2V0ek1tNV9rQTh2Z3NkaDZURFcwYnJnNUhQV3RZbWU4VU10TXpDWHhZ0gGDAkFVX3lxTE1LenR4ejcya0Jjc0M4NE4yRHA3eEpSaWdNTDdHWmVOZkhzcnZMZWJXM082M1NfRXB2dkxsS2xOdzVUcTNxbTdNbWF5enB4YnBVd2FpSzhubTY2OHVDbTg4MFdXVUk5dldSeURTS2RDdnFHb3lUeVNxRUtQbGZscUJkTTBXWW5mYmpVS0VHeDFlN19Lb3M5ODg1MTFPZ2o4UG01YU1DeXRGUDFGWE5GSkpSb3E1SkdvNWFyblZzUXJlZ3hRSDdfdmtRZm9lU2RLazk5VV9TT1VQNlVEMTR3OG1sbDVCcUFpTnVuVDk2THJuU3lvS1ZnaHFMT254cGtJQkUtczg?oc=5)
+
+2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[LaSexta](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT0gtLVpvSFI3LXBtSldLaHFsbTRmZEtBNnJuX1Z6Qm16aFZXS2xxOTVtQXNXTFdrYk5aMUVyVTBCLURQVDVkaVBXdURSRGY5NGlUdDVueHFKYTZtMU1fTDkyS19jY1poOWZLaGluZFNIeDlVMi0xcUFRdHE3ZFlIRTducHNPdEFKS0tiaGlMdjN1R0lGcFJpeHhIVmthVWx2cWNrVFkycGhzNFU1eGpmYXgtcFZQaWlzMEpycHBESlFJZlJVTmY3LTVxSlMwM3V0OWpBeGpQY0FtU2V0ek1tNV9rQTh2Z3NkaDZURFcwYnJnNUhQV3RZbWU4VU10TXpDWHhZ0gGDAkFVX3lxTE1LenR4ejcya0Jjc0M4NE4yRHA3eEpSaWdNTDdHWmVOZkhzcnZMZWJXM082M1NfRXB2dkxsS2xOdzVUcTNxbTdNbWF5enB4YnBVd2FpSzhubTY2OHVDbTg4MFdXVUk5dldSeURTS2RDdnFHb3lUeVNxRUtQbGZscUJkTTBXWW5mYmpVS0VHeDFlN19Lb3M5ODg1MTFPZ2o4UG01YU1DeXRGUDFGWE5GSkpSb3E1SkdvNWFyblZzUXJlZ3hRSDdfdmtRZm9lU2RLazk5VV9TT1VQNlVEMTR3OG1sbDVCcUFpTnVuVDk2THJuU3lvS1ZnaHFMT254cGtJQkUtczg?oc=5)
+
+---
 
 ### [Un estudio asocia la apnea obstructiva del sueño con la mortalidad por todas las causas y los eventos cardiovasculares - Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
 
-2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
+2026-04-06 <span class="news-indication-tag">hipertensión</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
 
