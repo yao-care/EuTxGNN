@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（1 則）
 
-### [‘I had a stroke at 46 — I thought I was indestructible’ - The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
+### [‘I had a stroke at 46 — I thought I was indestructible’](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
 
 2026-04-05
 
-來源：[The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
+來源：[thetimes.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
 
 ---
 

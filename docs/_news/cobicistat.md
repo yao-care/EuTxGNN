@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cobicistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Virus-Hepatitis: Heilung ist möglich - Blutuntersuchung kann Leben retten - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbTVrN1ZIYnlnWkdmRkZNMm9ac2hBMlNiMW5hU1F5UFB2eGpKUUUwTTdxOUtuWXNDclRfTWNrT24wZWNsaTlIODlKNUlaZWJ0Q0FUTmdiVl9NdFJHQzNJbVVYcFBMb280YlRmaE9GdWdvMVR4WWRxRlZCTVV0T0dsWG9HcWdia1ZRSjFTS0h5S3I5WHFPOFNrVlU4LXBLT3dNTEl4OS1tbERXRkNqOVdvVUFnUUlwbnFaNGJraXd0RS03dzAyWVd4NDJPQnRaNUhT?oc=5)
+
+2026-04-07 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbTVrN1ZIYnlnWkdmRkZNMm9ac2hBMlNiMW5hU1F5UFB2eGpKUUUwTTdxOUtuWXNDclRfTWNrT24wZWNsaTlIODlKNUlaZWJ0Q0FUTmdiVl9NdFJHQzNJbVVYcFBMb280YlRmaE9GdWdvMVR4WWRxRlZCTVV0T0dsWG9HcWdia1ZRSjFTS0h5S3I5WHFPOFNrVlU4LXBLT3dNTEl4OS1tbERXRkNqOVdvVUFnUUlwbnFaNGJraXd0RS03dzAyWVd4NDJPQnRaNUhT?oc=5)
+
+---
 
 
 <div class="disclaimer">

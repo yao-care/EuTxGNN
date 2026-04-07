@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Laut Studie: Darum erkranken hier Menschen seltener an Diabetes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHZ0SzJnYTRwczg0MDN0Y1BKNzFCbGNEZlZ1VVdibVV4a2JFYXRCLUh3TkIwZFczS2o4UThla0NUQTJfWkFlM2NaRzktc3JTdDRLSVNlaVZBczF2QUNKZXJIQV8xTlZZMXdWR2lWZGZGcnJwa3R1Vmx1QVdGZ2E0a3ZEcWY0N3MySnM5NnhjdlRFWFJaMmRORlJYYzZkMDdwRXYxcmNMT2FXZlN5cjRZNnNvdktjUjdPbEstMmtZNEdLaTJMT3Fv?oc=5)
+### [Durchbruch bei Diabetes-Forschung: Warum große Höhen vor einer Erkrankung schützen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
 
 2026-04-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHZ0SzJnYTRwczg0MDN0Y1BKNzFCbGNEZlZ1VVdibVV4a2JFYXRCLUh3TkIwZFczS2o4UThla0NUQTJfWkFlM2NaRzktc3JTdDRLSVNlaVZBczF2QUNKZXJIQV8xTlZZMXdWR2lWZGZGcnJwa3R1Vmx1QVdGZ2E0a3ZEcWY0N3MySnM5NnhjdlRFWFJaMmRORlJYYzZkMDdwRXYxcmNMT2FXZlN5cjRZNnNvdktjUjdPbEstMmtZNEdLaTJMT3Fv?oc=5)
+來源：[Watson.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
 
 ---
 
@@ -60,11 +60,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Metformin drug taken by millions has ‘striking’ unexpected health benefit, study suggests](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
+### [Is this inexpensive plant compound really nature’s Ozempic? - London Evening Standard](https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1hiUVh4QU9ybkxfN2t2TTdvaFh2VHRhbzhVOThidGF4b2pGcURrRXRzb1g1aFhfVHk4dmkwalVIT2xYMjNweW5fcFJfaTBoYmtfRjdBVmZBbndGN25IdWQxSzNGNlJGV1prSFBuUkRzblZpaEVrTGhPWVYtVHJDUGFmSVVGbXI4RVBKZGxkQU5QRnlr?oc=5)
 
-2026-04-07 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-04-07 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1hiUVh4QU9ybkxfN2t2TTdvaFh2VHRhbzhVOThidGF4b2pGcURrRXRzb1g1aFhfVHk4dmkwalVIT2xYMjNweW5fcFJfaTBoYmtfRjdBVmZBbndGN25IdWQxSzNGNlJGV1prSFBuUkRzblZpaEVrTGhPWVYtVHJDUGFmSVVGbXI4RVBKZGxkQU5QRnlr?oc=5)
 
 ---
 
@@ -76,35 +76,27 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+### [Metformin drug taken by millions has ‘striking’ unexpected health benefit, study suggests](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+來源：[ladbible.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
 
 ---
 
-### [Dr Amir Khan reveals 4 signs of high insulin that could emerge 'years' before diabetes develops](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXlVNHo1QnR2dzdscTAzeXM2bmsxaExoRkpJVERvWEZSeEdyVmdwNngzTnJQVlVvcTc3QjdILW9YRWRvM1MzZ3ExVG9pdURLdGdYZW5tS0Q0b04wWU1xMkhUcjZGa0VGdFVBNi1vbkU4Q1psZ1cySllDT2VTWG1FWkVfVGU0NXVHN2FvWEg2YlpYYy1YbGhNZDYzTmMyVTVNUV83REZB?oc=5)
+### [Dr Amir Khan reveals 4 signs of high insulin that could emerge 'years' before diabetes develops - Woman & Home](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXlVNHo1QnR2dzdscTAzeXM2bmsxaExoRkpJVERvWEZSeEdyVmdwNngzTnJQVlVvcTc3QjdILW9YRWRvM1MzZ3ExVG9pdURLdGdYZW5tS0Q0b04wWU1xMkhUcjZGa0VGdFVBNi1vbkU4Q1psZ1cySllDT2VTWG1FWkVfVGU0NXVHN2FvWEg2YlpYYy1YbGhNZDYzTmMyVTVNUV83REZB?oc=5)
 
 2026-04-06 <span class="news-indication-tag">diabetes</span>
 
-來源：[womanandhome.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXlVNHo1QnR2dzdscTAzeXM2bmsxaExoRkpJVERvWEZSeEdyVmdwNngzTnJQVlVvcTc3QjdILW9YRWRvM1MzZ3ExVG9pdURLdGdYZW5tS0Q0b04wWU1xMkhUcjZGa0VGdFVBNi1vbkU4Q1psZ1cySllDT2VTWG1FWkVfVGU0NXVHN2FvWEg2YlpYYy1YbGhNZDYzTmMyVTVNUV83REZB?oc=5)
+來源：[Woman & Home](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXlVNHo1QnR2dzdscTAzeXM2bmsxaExoRkpJVERvWEZSeEdyVmdwNngzTnJQVlVvcTc3QjdILW9YRWRvM1MzZ3ExVG9pdURLdGdYZW5tS0Q0b04wWU1xMkhUcjZGa0VGdFVBNi1vbkU4Q1psZ1cySllDT2VTWG1FWkVfVGU0NXVHN2FvWEg2YlpYYy1YbGhNZDYzTmMyVTVNUV83REZB?oc=5)
 
 ---
 
-### [Mikronährstoffmangel bei Diabetes: Ein unterschätztes Risiko - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+### [Mikronährstoffmangel bei Diabetes: Ein unterschätztes Risiko](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
 
 2026-04-05 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
-
----
-
-### [Fat jabs to unleash divorce boom - The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDN4bjRrRGR3RHpEYi1udHZwNWpCZUYydUdISmlBMEpzUTd3bEgwM0RnQXNKOVotYjVPU1JoM3Z3SXBKbk1PRmhiQWlOREN6dkpQdkY1U0g1UUhNZ3pVSnkydUU4d0JRN2tQd3BpNFRMX3RpYU1EYXdqbGtmVHgwdlFNcndJS3gz?oc=5)
-
-2026-04-05 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDN4bjRrRGR3RHpEYi1udHZwNWpCZUYydUdISmlBMEpzUTd3bEgwM0RnQXNKOVotYjVPU1JoM3Z3SXBKbk1PRmhiQWlOREN6dkpQdkY1U0g1UUhNZ3pVSnkydUU4d0JRN2tQd3BpNFRMX3RpYU1EYXdqbGtmVHgwdlFNcndJS3gz?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
 
 ---
 

@@ -52,11 +52,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Melatonin: Neue Leitlinien warnen Senioren vor Herzrisiken](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1Uzc0dsN2xkV2VEbFQ1REFQQ0xNZ21abS1MVHhaaFR0SDdvVTdZc2F0M193amRPNGFNdmhHeXhUaXNFODhEVVlEc2hlREhtTXVDSHJXZ1B2dDg4bHVpWlZVa2xKUHh3T2hSZmQtV1hhVEFrM0wxNjcxWkVWTUVhVVhhYkJjckhLcVRqeEVGUHVmcVlveG1DLVBHNWswUDBFX0s5VjNfOG9sREJVUFNQQmtIcTB0Tk0?oc=5)
+### [Melatonin: Neue Leitlinien warnen Senioren vor Herzrisiken - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1Uzc0dsN2xkV2VEbFQ1REFQQ0xNZ21abS1MVHhaaFR0SDdvVTdZc2F0M193amRPNGFNdmhHeXhUaXNFODhEVVlEc2hlREhtTXVDSHJXZ1B2dDg4bHVpWlZVa2xKUHh3T2hSZmQtV1hhVEFrM0wxNjcxWkVWTUVhVVhhYkJjckhLcVRqeEVGUHVmcVlveG1DLVBHNWswUDBFX0s5VjNfOG9sREJVUFNQQmtIcTB0Tk0?oc=5)
 
 2026-04-06 <span class="news-drug-tag">Melatonin</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1Uzc0dsN2xkV2VEbFQ1REFQQ0xNZ21abS1MVHhaaFR0SDdvVTdZc2F0M193amRPNGFNdmhHeXhUaXNFODhEVVlEc2hlREhtTXVDSHJXZ1B2dDg4bHVpWlZVa2xKUHh3T2hSZmQtV1hhVEFrM0wxNjcxWkVWTUVhVVhhYkJjckhLcVRqeEVGUHVmcVlveG1DLVBHNWswUDBFX0s5VjNfOG9sREJVUFNQQmtIcTB0Tk0?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1Uzc0dsN2xkV2VEbFQ1REFQQ0xNZ21abS1MVHhaaFR0SDdvVTdZc2F0M193amRPNGFNdmhHeXhUaXNFODhEVVlEc2hlREhtTXVDSHJXZ1B2dDg4bHVpWlZVa2xKUHh3T2hSZmQtV1hhVEFrM0wxNjcxWkVWTUVhVVhhYkJjckhLcVRqeEVGUHVmcVlveG1DLVBHNWswUDBFX0s5VjNfOG9sREJVUFNQQmtIcTB0Tk0?oc=5)
 
 ---
 
