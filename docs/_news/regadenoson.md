@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Le chocolat peut-il vraiment provoquer des migraines ? Voici ce qu'en disent des neurologues](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
+
+2026-04-06 <span class="news-indication-tag">migraine</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
+
+---
 
 ### [Mobile apps to help treat asthma and COPD patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
 

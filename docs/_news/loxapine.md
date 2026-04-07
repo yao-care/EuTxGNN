@@ -14,7 +14,7 @@ permalink: /news/loxapine/
 ---
 
 <p class="key-answer" data-question="Loxapine 有什麼相關新聞？">
-<strong>Loxapine</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Loxapine</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,45 @@ permalink: /news/loxapine/
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（26 則）
+
+### [The toxic proteins you've never heard of that are silently ageing you - Daily Mail](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnlCMlBOVmw0cEQxa1lHVUp0aDFRU0lJdkhaMWpEdTVYYjlvZllPTW0xZFZZWE8tZmVZdWh5WndsbHh4aU9MVDNPelRYcTdMT0hubEU0cmcwWnBSc3NPbEVxdmkzRkNHUVpZX1JPMTdYNlhXUmZITW8zb01ISVljcDZISWhQOXRxbS1rbVdrY25jSjZO?oc=5)
+
+2026-04-07 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnlCMlBOVmw0cEQxa1lHVUp0aDFRU0lJdkhaMWpEdTVYYjlvZllPTW0xZFZZWE8tZmVZdWh5WndsbHh4aU9MVDNPelRYcTdMT0hubEU0cmcwWnBSc3NPbEVxdmkzRkNHUVpZX1JPMTdYNlhXUmZITW8zb01ISVljcDZISWhQOXRxbS1rbVdrY25jSjZO?oc=5)
+
+---
+
+### [‘Traceability is vital’: labs test thousands of unregulated substances amid peptide craze - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNFVJTlVhX2Y3NXVJcmx0MlhrbjlNMWNpS3kzUzJtV1cyT1FIV3JmbWV5Ny0zM0o5TXJpc2N3QU1lSGE1UEc4RTRNc0tOcm8ycGxxdU52RFgxc2hhUll1T2loeHBCaGtWS09ra0ROeVQ4djhUZG1qRDBqVzcxTHgtcjIyemI2dlBEaDRlLXYyYjNwd0FQS3ppblo3ZFoyRmpxNGZZWXBXSC1fZVprSVFVenR1WVBBUQ?oc=5)
+
+2026-04-06 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNFVJTlVhX2Y3NXVJcmx0MlhrbjlNMWNpS3kzUzJtV1cyT1FIV3JmbWV5Ny0zM0o5TXJpc2N3QU1lSGE1UEc4RTRNc0tOcm8ycGxxdU52RFgxc2hhUll1T2loeHBCaGtWS09ra0ROeVQ4djhUZG1qRDBqVzcxTHgtcjIyemI2dlBEaDRlLXYyYjNwd0FQS3ppblo3ZFoyRmpxNGZZWXBXSC1fZVprSVFVenR1WVBBUQ?oc=5)
+
+---
+
+### [Ernährung 2026: Ganzes Essen als Medizin, Pillen nur gezielt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXZnUjg2T050N01tUFdhbHRxLU1HcFNIMHNuZTVvWkxydGE0SEZrVWtfallhUmd4Sm5YQU5KWnpaNE1Zc3pKNllNNnFoZkpxVFdnM2tpX3dDZzNUY21yQUo0ZnR2clE5LTNSSkF1a1NXSzlKTmNpUDAxOVU2NUZiOHlRUFlJMDBlbHB0TXJnNUpIV3NRbHMzLUlQRTI4bExqNHVLOGJmYjdGVzVvVnlkWVVEanFTRWRkUVE?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXZnUjg2T050N01tUFdhbHRxLU1HcFNIMHNuZTVvWkxydGE0SEZrVWtfallhUmd4Sm5YQU5KWnpaNE1Zc3pKNllNNnFoZkpxVFdnM2tpX3dDZzNUY21yQUo0ZnR2clE5LTNSSkF1a1NXSzlKTmNpUDAxOVU2NUZiOHlRUFlJMDBlbHB0TXJnNUpIV3NRbHMzLUlQRTI4bExqNHVLOGJmYjdGVzVvVnlkWVVEanFTRWRkUVE?oc=5)
+
+---
+
+### [BA.3.2, la variante covid con 75 mutaciones que desafía a las vacunas](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDF5aVZRUHRZNW02NlZyLTBjUUhjXzlYNHpMVk1hQjBoZVM2eWsydVdNRklTa09ibHU0b0FiYnA4UmtleVJ5RHZWVk9HTzZKNjNXS1dQQlFyNl9seUNXRVlrNC00OU9DdV9zZnVaVHdscDNCTElqR29TUHEtWHRCeGU0U25Qdm5SRzRwOTFYalpZOTFkZ0luS0ZWenJxQVBkYkJGTmJXaDZ6VG93X2lFTUVwYzBzUDZUUGhQSEpnNmlyWUp6NmfSAcYBQVVfeXFMT3Fvai1JbElkQWNOd0RSYk4zUjRmcy11dV82VzctN1lGc2VoelVCaDNYYXU5dmpvRkpCbkYzYVN4eGFHNjU5X1J5YlZJNGh0WGxqRkg0VFBwbTdhT0QxYW9QbzhhMi1yN0xvazlXNjMtNS1PQ3I3eWxPWFUteG1zdFQ0ODRJWHJqbjdXVURKRTJpbFVkNVhqTUdudlVVU0ZwQXJUNHVwUWRnX3NQanV0Mk1DQzRzSm9lYkZPVlE3V2M4a0d4dXhR?oc=5)
+
+2026-04-06 <span class="news-indication-tag">AF</span>
+
+來源：[redaccionmedica.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDF5aVZRUHRZNW02NlZyLTBjUUhjXzlYNHpMVk1hQjBoZVM2eWsydVdNRklTa09ibHU0b0FiYnA4UmtleVJ5RHZWVk9HTzZKNjNXS1dQQlFyNl9seUNXRVlrNC00OU9DdV9zZnVaVHdscDNCTElqR29TUHEtWHRCeGU0U25Qdm5SRzRwOTFYalpZOTFkZ0luS0ZWenJxQVBkYkJGTmJXaDZ6VG93X2lFTUVwYzBzUDZUUGhQSEpnNmlyWUp6NmfSAcYBQVVfeXFMT3Fvai1JbElkQWNOd0RSYk4zUjRmcy11dV82VzctN1lGc2VoelVCaDNYYXU5dmpvRkpCbkYzYVN4eGFHNjU5X1J5YlZJNGh0WGxqRkg0VFBwbTdhT0QxYW9QbzhhMi1yN0xvazlXNjMtNS1PQ3I3eWxPWFUteG1zdFQ0ODRJWHJqbjdXVURKRTJpbFVkNVhqTUdudlVVU0ZwQXJUNHVwUWRnX3NQanV0Mk1DQzRzSm9lYkZPVlE3V2M4a0d4dXhR?oc=5)
+
+---
 
 ### [Alzheimer-Forschung: Drei neue Wege zur Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
 
 2026-04-06 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
-
----
-
-### [„Einer der echten medizinischen Notfälle“ – Meningitis ist eine Infektion, die in Stunden tötet - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTXhzTy1VdElEamlXMW9JeUhzVEdORmxvejY5SENsX3FyY0VlenF0ZE0xeEJjZ04zRkdYdjZVOEYxdTNEam0yenNKNE83aWNWVDktZHdjYUJ0UUhEMnhUSHh2OTJ4M3o0cDQtUE5BRTU1M3VaTVZvSWMtZWtWSkYyam1DZmdzR2VNZ2pUa0NDVmstOFJOcl9rTldGRFN0NHBkWFUxczI2VnFJVHlDbFdIcG13X2JPbUhtT0NmVUctc1MwMEgtYWo1TDhCSnhUQVE?oc=5)
-
-2026-04-06 <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTXhzTy1VdElEamlXMW9JeUhzVEdORmxvejY5SENsX3FyY0VlenF0ZE0xeEJjZ04zRkdYdjZVOEYxdTNEam0yenNKNE83aWNWVDktZHdjYUJ0UUhEMnhUSHh2OTJ4M3o0cDQtUE5BRTU1M3VaTVZvSWMtZWtWSkYyam1DZmdzR2VNZ2pUa0NDVmstOFJOcl9rTldGRFN0NHBkWFUxczI2VnFJVHlDbFdIcG13X2JPbUhtT0NmVUctc1MwMEgtYWo1TDhCSnhUQVE?oc=5)
 
 ---
 
@@ -68,22 +92,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [Ernährungswende: Küche statt Fast Food als Medizin - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOME9yUi1QcmdSNmpEV04wQ1h3ZnpsbFpTYmtEVm5Tckx6SmlmcU9yc3pwREp0bGt6d3BGUlhQbVRwdXlUMEJ2ZUlrSVB6VVRRWlpIZ3BqZVphbUNjeFpNTlR1X09oRm5XZDFMNllSdERCZzZTTnN5RS1OTkUyM21nSEIzVmRJcWExU0NSaG9NbFlDSUNLa2RHanJlU1JrX3ZPQWNKVFZZWUVKbmNFMFlN?oc=5)
-
-2026-04-06 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOME9yUi1QcmdSNmpEV04wQ1h3ZnpsbFpTYmtEVm5Tckx6SmlmcU9yc3pwREp0bGt6d3BGUlhQbVRwdXlUMEJ2ZUlrSVB6VVRRWlpIZ3BqZVphbUNjeFpNTlR1X09oRm5XZDFMNllSdERCZzZTTnN5RS1OTkUyM21nSEIzVmRJcWExU0NSaG9NbFlDSUNLa2RHanJlU1JrX3ZPQWNKVFZZWUVKbmNFMFlN?oc=5)
-
----
-
-### [I'm just 22, but a rare condition made me believe I was a paedophile for four years](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXI4SENMMDdRbEo4cDFKTnpqYXNfVlNsNG0wOXBTOHFPdDdqTFFQWnJ5OWxfMXV0MXR3eDZUb3cyWlNFaFFzdTkwbWVNb2dFTmVLTnhGSU54N0dEUnpIbTM5ZWJWckNYT3lvZHpzYWc3dTBFMEp1RnVSbkVWb2xELVNfUm0yZ3dvUGE3QkFGdW1CNkRXbGpaTmJkZnBRczFHbjI1dkRPYnfSAa4BQVVfeXFMUDMteG84b0xkTUgxeVpWckJQdUM5dXFRQlVrWTcwdmxNOGNPS0ktVEF0RC1KYlZTRmFlZ09BVmJrSUEwQnpqN0R1b0haeVZKM0RfZk5reHZWclJ0cWdBMTU4Ukw1NDM1WVp3eFljMlFWRG9OSFp1di1ReV84OXpOQVNrVzRicldsVHUwa2djYXp6WjNLX0hRREpXTWtiUkRnaUlWQVZLM2FDNVdRaWFR?oc=5)
-
-2026-04-06 <span class="news-indication-tag">AF</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXI4SENMMDdRbEo4cDFKTnpqYXNfVlNsNG0wOXBTOHFPdDdqTFFQWnJ5OWxfMXV0MXR3eDZUb3cyWlNFaFFzdTkwbWVNb2dFTmVLTnhGSU54N0dEUnpIbTM5ZWJWckNYT3lvZHpzYWc3dTBFMEp1RnVSbkVWb2xELVNfUm0yZ3dvUGE3QkFGdW1CNkRXbGpaTmJkZnBRczFHbjI1dkRPYnfSAa4BQVVfeXFMUDMteG84b0xkTUgxeVpWckJQdUM5dXFRQlVrWTcwdmxNOGNPS0ktVEF0RC1KYlZTRmFlZ09BVmJrSUEwQnpqN0R1b0haeVZKM0RfZk5reHZWclJ0cWdBMTU4Ukw1NDM1WVp3eFljMlFWRG9OSFp1di1ReV84OXpOQVNrVzRicldsVHUwa2djYXp6WjNLX0hRREpXTWtiUkRnaUlWQVZLM2FDNVdRaWFR?oc=5)
-
----
-
 ### [I went from 19st to a size 8 after beating £3k gastric sleeve weight regain - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkdPYVhhWWpRUVhOa3RoNEdBNC00dF9nMHRBNzBrMzdtakRiRlNpSmdfOE43Y0dVY0JpZkgyTmJxZ1Q5M1U5cnR1bXFtTlF6ZDlSOFVyMGlJQkZqTTFUOGhQY0lXeW85TUlmTjdrQjRuLWhCOXFRY0JTLWx2b242ZTZnTXBoNE5HTlpJ?oc=5)
 
 2026-04-06 <span class="news-indication-tag">AF</span>
@@ -92,11 +100,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Hasta el 45% de pacientes reumáticos podría sufrir sarcopenia pese a ser prevenible con ejercicio de fuerza y dieta](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0pZNnRFekVDejJVbzlobjhZNGo3S2k2R3lnQzQzajVDSEJvRzJJOF9EYWhwOVhvTy00eVdzRGlwSHFxUjdjV3FUaWo0bTNrRlhfRHRyLWl4WHh4MFliR21ORXdXUUxUaHljV3BpMWRWaGVKMEhIaVFhUTRqcmdZZHl0N0l1VkgxRFZXMW9jeGxBekJ5eW5XZjZmQ3NONGFUTEdEbVlOWi1OcDRJbGplRHNxNS1yWUx6WG5CcVctb2NqcDRzbGk2QVN6bHJISTRsMEw1dlRwdXhWNjZVWGl0b3ZGYTBWc3l0TFVKSnhyTkswb2F3bXMtZQ?oc=5)
+### [Hasta un 45% de pacientes reumáticos podría padecer sarcopenia aunque se previene con fuerza y alimentación adecuada](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW1WaTBZUnVjZmI4RzdtaEotT3M5Wlh4Z1V4MWhFQXJXQ25CMzVXcXhwSzNjWmNLR3cxOWg0VVIxeFN1LTRvR1QwODh6aVFycmxXVTd4LTBBTWtIWi1pMmxJQklJTEV0LWlsdXhjeVRhYUlBWmJ4TExsd0l1YlRsS2pPLVZDdlBhYllPa1ZSV01vY2dfYmFHN3lFM29RaHBScTcxWnRoWmJLWjFVeXBBOU5Fa1NvVUlhZUw0M21EWjdCd21aMTJGMmYtNExYUDdOR3lkNTB3SkpJbUpKSDFtdmU1a9IB6AFBVV95cUxOOUo3WEhPMy1tZE1kWW1SNm5YamFTMzFqT1BTMWY0OThCZ1NVQXpKN3ZHYVQ2ZkYyWWtzX1dIR3AwZ2Q0a21PaGNEMmZabk44OWtYa01xV2ptamlIYXQteVc5SmFNM3o2blUwMWlRLVhIeFVhWER2c3ozT0xlbWJONlFtRU1XMlNlT0FNdFRmZ2ljdmdLcWxYaUoxVTlsUXZMd1hiTDdZLWZzWWVpRTBianhYLUNmQURGVm5JemFOX3NXUlNZa1JxR0pfT2FNQzlIaDdiS2hZSEloajVIV0lnS3VtdUFHb0dN?oc=5)
 
 2026-04-06 <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0pZNnRFekVDejJVbzlobjhZNGo3S2k2R3lnQzQzajVDSEJvRzJJOF9EYWhwOVhvTy00eVdzRGlwSHFxUjdjV3FUaWo0bTNrRlhfRHRyLWl4WHh4MFliR21ORXdXUUxUaHljV3BpMWRWaGVKMEhIaVFhUTRqcmdZZHl0N0l1VkgxRFZXMW9jeGxBekJ5eW5XZjZmQ3NONGFUTEdEbVlOWi1OcDRJbGplRHNxNS1yWUx6WG5CcVctb2NqcDRzbGk2QVN6bHJISTRsMEw1dlRwdXhWNjZVWGl0b3ZGYTBWc3l0TFVKSnhyTkswb2F3bXMtZQ?oc=5)
+來源：[democrata.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW1WaTBZUnVjZmI4RzdtaEotT3M5Wlh4Z1V4MWhFQXJXQ25CMzVXcXhwSzNjWmNLR3cxOWg0VVIxeFN1LTRvR1QwODh6aVFycmxXVTd4LTBBTWtIWi1pMmxJQklJTEV0LWlsdXhjeVRhYUlBWmJ4TExsd0l1YlRsS2pPLVZDdlBhYllPa1ZSV01vY2dfYmFHN3lFM29RaHBScTcxWnRoWmJLWjFVeXBBOU5Fa1NvVUlhZUw0M21EWjdCd21aMTJGMmYtNExYUDdOR3lkNTB3SkpJbUpKSDFtdmU1a9IB6AFBVV95cUxOOUo3WEhPMy1tZE1kWW1SNm5YamFTMzFqT1BTMWY0OThCZ1NVQXpKN3ZHYVQ2ZkYyWWtzX1dIR3AwZ2Q0a21PaGNEMmZabk44OWtYa01xV2ptamlIYXQteVc5SmFNM3o2blUwMWlRLVhIeFVhWER2c3ozT0xlbWJONlFtRU1XMlNlT0FNdFRmZ2ljdmdLcWxYaUoxVTlsUXZMd1hiTDdZLWZzWWVpRTBianhYLUNmQURGVm5JemFOX3NXUlNZa1JxR0pfT2FNQzlIaDdiS2hZSEloajVIV0lnS3VtdUFHb0dN?oc=5)
 
 ---
 
@@ -110,7 +118,7 @@ permalink: /news/loxapine/
 
 ### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
 
@@ -129,6 +137,14 @@ permalink: /news/loxapine/
 2026-04-06 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSnJ3M21XMDVhcjVRQWx6NVl3MGswMHVaclpKNlJqUTFJd3BGNHUyUm9KNG93aW9GX2VUeGZQLUtObERGZWJ4WUlfTWJtN3pxSGk1M0ZwejNMQ1JXbGYwZlJtZE81V1U3aDBTbWtUWGJKRzU3OVNucGxjdWdZU05adjhqUXJXSFM2b0tYeWd6VlFBdFRqaVFKVGRkQ3pRZ0pxMGEtU2liaWNlU0xBVjBUczRlWmhGRk51VklfOUhLazI3V2x4MkQyX1I4YU5mY2NEZG9mVExhd0JQVFZManJnSjB2THlzV3R5bmp3dXhjUzZCUQ?oc=5)
+
+---
+
+### [Devastated family warn others after death of young Plymouth mum](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGlacVIxanliUEhyX2tWdWNVbVp2eHVYTmRfODBhbG1OMGZxZE1VTXYyVGNFVDFDU09XRkp4YUhJOWZXRGkzcm5aRzdacXlSRXVpQTNfVjlLcEM1ei1tdEFESkZZcmFreW8xT0NQSjZOUEgyV3F1QlRzbmd6ZTVkblBrSDNEcWJfa2xHV1djZUZEeDA?oc=5)
+
+2026-04-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[plymouthherald.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGlacVIxanliUEhyX2tWdWNVbVp2eHVYTmRfODBhbG1OMGZxZE1VTXYyVGNFVDFDU09XRkp4YUhJOWZXRGkzcm5aRzdacXlSRXVpQTNfVjlLcEM1ei1tdEFESkZZcmFreW8xT0NQSjZOUEgyV3F1QlRzbmd6ZTVkblBrSDNEcWJfa2xHV1djZUZEeDA?oc=5)
 
 ---
 
@@ -172,6 +188,14 @@ permalink: /news/loxapine/
 
 ---
 
+### [El cambio en la rutina nocturna que podría duplicar el riesgo de infarto, según científicos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk9lZ0poNkdteGxOSnRMWmNtUVg5VFNOZTg3bk5pRlRTal9fYjJGUjZTSE1FOGtxX294Y2lpcEx3X05ZLUdLVERmM1BldHJpT0VOMGN4MFE4N2RfM1FUWDRQVmVHNU5DSTVkYVZ4R2pfa3ptRmJMX25nb3NsY3owYzJCSGRiTHczOXpqZXlhc0xKRGVJd29MRUpFZ0tQUkI1VmxJQnlVVUVNdjd6MDBQR3N4cWxEV1pTeUY1Y2EycWFNcklXRnEtUi1KejfSAecBQVVfeXFMTjJQMUhSSEFlNm5Td0VaZnZUMkM1UUZJME96eS1FVFdEXy10dEFnNFBHUy1Zd2RzWlMxcTRBY0ota1R4VnRZLU9Hd2Vka0t0QkJ2OFdmVk16QVlHV1ZGOGhxV3Q4NVpHZGdXNld5M2tuaG81NGpIZkl5THVwSmlubUZTYTZkZV94LXM1UHhuay1DTHVDdE5xN2pZYndaNjVXVFc3MTk1TlZ1VGVUMU41Zk13YU9hTXViMjc5UDFZWDhqczRfcVhNMmN6VWpYRGl6dWlOc0NkX3loeDhES0NjbXJJenZscHVR?oc=5)
+
+2026-04-05 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk9lZ0poNkdteGxOSnRMWmNtUVg5VFNOZTg3bk5pRlRTal9fYjJGUjZTSE1FOGtxX294Y2lpcEx3X05ZLUdLVERmM1BldHJpT0VOMGN4MFE4N2RfM1FUWDRQVmVHNU5DSTVkYVZ4R2pfa3ptRmJMX25nb3NsY3owYzJCSGRiTHczOXpqZXlhc0xKRGVJd29MRUpFZ0tQUkI1VmxJQnlVVUVNdjd6MDBQR3N4cWxEV1pTeUY1Y2EycWFNcklXRnEtUi1KejfSAecBQVVfeXFMTjJQMUhSSEFlNm5Td0VaZnZUMkM1UUZJME96eS1FVFdEXy10dEFnNFBHUy1Zd2RzWlMxcTRBY0ota1R4VnRZLU9Hd2Vka0t0QkJ2OFdmVk16QVlHV1ZGOGhxV3Q4NVpHZGdXNld5M2tuaG81NGpIZkl5THVwSmlubUZTYTZkZV94LXM1UHhuay1DTHVDdE5xN2pZYndaNjVXVFc3MTk1TlZ1VGVUMU41Zk13YU9hTXViMjc5UDFZWDhqczRfcVhNMmN6VWpYRGl6dWlOc0NkX3loeDhES0NjbXJJenZscHVR?oc=5)
+
+---
+
 ### [NI man's distressing meningitis death after complaining of an upset stomach - Belfast Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2pndzBERk9LR2pwWTRaZXNOZW5CNzJSMUFEWU9GQXBCdnd4dEh3MlVNMURrVnhsVWN4RlVGUVI3ZjJ2TnBpaHphbzZIa1dWaXpZNklJN09BTWhtQXE0YkJGVEZhdmc4LTFLblF6WHFCRVQ1Nnd4SEhkbFR4a1dtek1FRnhlRFhnS291Qg?oc=5)
 
 2026-04-05 <span class="news-indication-tag">AF</span>
@@ -196,19 +220,19 @@ permalink: /news/loxapine/
 
 ---
 
-### [Is it time for a meat-free Easter? - Cyprus Mail](https://news.google.com/rss/articles/CBMid0FVX3lxTE5mTG1hYjhaQmQwdUg3OUF1dEFjX1BxSGJqUF9CcUt1b2NyUjJlNE41VW5lV085TzRXVDdkTDhoZGYwY1lPQi14c3pSaEgyU1B3WWlkNDdURG1faEE4ODdQc3dSbDIzd294MFZfa0tLYm9BMUp5OTRJ?oc=5)
-
-2026-04-05 <span class="news-indication-tag">MS</span>
-
-來源：[Cyprus Mail](https://news.google.com/rss/articles/CBMid0FVX3lxTE5mTG1hYjhaQmQwdUg3OUF1dEFjX1BxSGJqUF9CcUt1b2NyUjJlNE41VW5lV085TzRXVDdkTDhoZGYwY1lPQi14c3pSaEgyU1B3WWlkNDdURG1faEE4ODdQc3dSbDIzd294MFZfa0tLYm9BMUp5OTRJ?oc=5)
-
----
-
 ### [Alzheimer, MS, Tumoren: Immunsystem im Gehirn reagiert ähnlich - smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSy1CU3YteWJ3S201dkw0RXRHaVZqWWV6cF9wSHpGd3I1emw1a21sSGMxUHFhWldPakZwbkRuc1ItSFRVWFdVY3RibDlVdnJ2dXlkS21pbkpvTGVXUWxxQzdRRXhaQzhCS3hpcWpHQW1HbnVqUXQ1dmZsekFZM0J1R2lEZG1LUkJiZXhielFFQ3A3bFc4UHVFc09DVWw?oc=5)
 
 2026-04-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSy1CU3YteWJ3S201dkw0RXRHaVZqWWV6cF9wSHpGd3I1emw1a21sSGMxUHFhWldPakZwbkRuc1ItSFRVWFdVY3RibDlVdnJ2dXlkS21pbkpvTGVXUWxxQzdRRXhaQzhCS3hpcWpHQW1HbnVqUXQ1dmZsekFZM0J1R2lEZG1LUkJiZXhielFFQ3A3bFc4UHVFc09DVWw?oc=5)
+
+---
+
+### [À partir de 65 ans, ce nombre de douches par semaine protège votre santé, bien plus bas que vous ne l'imaginez](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNGthWWREcjJOX0JGS1lNekNIX0tobDh5MndkSmF5dUM5T21pNUNUc2d3aVpSb1dRMG1JMjJZZkxRQ0hJWXlYNndqY1Z1YlRqYzk4c2NWYkh1Y3psN3dpU09jRDJBcFBDeE5KSHRMRzF5TW0wRGNvajBXbnhKamJOcUJ0WnlTSGhPS1VicTYxRXJXb0hQUFdGeHFpZXRtOFNZZ25oTmRSd3UyWmpnNFlUSXZfTTJYaVhhN0VyVGVUZmdGM0M1bUFwbnZJWWIwNGR5VFp0WVFRRzhxcmJQb3dtWE9DLTBRNGd4eXpsQjhB?oc=5)
+
+2026-04-05 <span class="news-indication-tag">MS</span>
+
+來源：[topsante.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNGthWWREcjJOX0JGS1lNekNIX0tobDh5MndkSmF5dUM5T21pNUNUc2d3aVpSb1dRMG1JMjJZZkxRQ0hJWXlYNndqY1Z1YlRqYzk4c2NWYkh1Y3psN3dpU09jRDJBcFBDeE5KSHRMRzF5TW0wRGNvajBXbnhKamJOcUJ0WnlTSGhPS1VicTYxRXJXb0hQUFdGeHFpZXRtOFNZZ25oTmRSd3UyWmpnNFlUSXZfTTJYaVhhN0VyVGVUZmdGM0M1bUFwbnZJWWIwNGR5VFp0WVFRRzhxcmJQb3dtWE9DLTBRNGd4eXpsQjhB?oc=5)
 
 ---
 
@@ -225,22 +249,6 @@ permalink: /news/loxapine/
 2026-04-05 <span class="news-indication-tag">AF</span>
 
 來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3F5Wm5lRElERldLUXFJMW5mSHRmaExRWEktVDBPV2VKd1NHbDNBbXlERm5vbk9vS3drb3g3MXNSdHRFT09HSDByb1FIaTRIdjZXVEtZQ29XNnRxenVueUVONVB6RHFnVTBBVkgtZXRnWUxXUFk2STJ3T1EzWmdydUhFZDM1ams1OXNkcDZpWUVvTEpsQVNTYl82eGtCTHPSAaQBQVVfeXFMTTR4bUhibjVMVmgyaWd4NGYtWUgwQzJTbk1jV3hUcHVrSWlBZkVYNUtzNmtsMS11eE0wT1RfdVFQb0R3TGpsTUkyajZCNmNVZHhxMHhDcVM4aWthdHl5bUpWNWh4ZTlzU0hRNWNlSzktTS1ZTjlvc0xFTWQ1UEVER1N1ZXJGZ2hKUHBxWE9sUEdwWkNZRkE1NndsUW1sbldBUm5DUFA?oc=5)
-
----
-
-### [Why deadly bowel cancer's striking young and peri-menopausal women - Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
-
-2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
-
----
-
-### [Fasten im Check: Neue Studien fordern Umdenken - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRqZHkwazhYWnhMX29aZkNoRlJ5TlJldmI5N0NRMmg1a2tnSjRjenpTNW5JU05KZ01XMDFvUXczT1c3QTRhdVZXQUF1a0syQVdlVzlDWEgwaWVpd2JRVVo3TlZrSlNJQm94Wk1kekJNUU5HSTl1OFo4YXlZYVdSQkl0Q3Nib18wZ2c4cGx5bzZFRnNNY19zellRTmxoQkFwODRXSDNYdw?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRqZHkwazhYWnhMX29aZkNoRlJ5TlJldmI5N0NRMmg1a2tnSjRjenpTNW5JU05KZ01XMDFvUXczT1c3QTRhdVZXQUF1a0syQVdlVzlDWEgwaWVpd2JRVVo3TlZrSlNJQm94Wk1kekJNUU5HSTl1OFo4YXlZYVdSQkl0Q3Nib18wZ2c4cGx5bzZFRnNNY19zellRTmxoQkFwODRXSDNYdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [ADHS & PMS: Bettina erlebt ihre Periode „wie eine kleine Depression“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
 
 2026-04-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
+
+---
+
+### [Un fármaco investigado para la depresión logra frenar la progresión del glaucoma](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTMtQXpOc3ZQNU1CcVFDVV9RUDZIZjladERxcnNvdFpvQjdOdnRaM1RDYkpBMnlTR3FHbFN3Z0Vrb1lUM3dSR3ZwTEdtZFo3c0Fpd1V6RTN1bDRabHYtZkRMbl9XN3V2MFdyNmN4ekxtLVE3RzJXZlFESV9vcDY1THVsUUVsSXY2TFdYTVB2SzE5emtlSGRFTG9sWlI0ZEtZTVZQeTVfSS1mLUpKX2J5RmhIMA?oc=5)
+
+2026-04-06 <span class="news-indication-tag">depresión</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTMtQXpOc3ZQNU1CcVFDVV9RUDZIZjladERxcnNvdFpvQjdOdnRaM1RDYkpBMnlTR3FHbFN3Z0Vrb1lUM3dSR3ZwTEdtZFo3c0Fpd1V6RTN1bDRabHYtZkRMbl9XN3V2MFdyNmN4ekxtLVE3RzJXZlFESV9vcDY1THVsUUVsSXY2TFdYTVB2SzE5emtlSGRFTG9sWlI0ZEtZTVZQeTVfSS1mLUpKX2J5RmhIMA?oc=5)
 
 ---
 

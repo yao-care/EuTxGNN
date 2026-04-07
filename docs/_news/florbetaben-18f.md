@@ -14,7 +14,7 @@ permalink: /news/florbetaben-18f/
 ---
 
 <p class="key-answer" data-question="Florbetaben (18F) 有什麼相關新聞？">
-<strong>Florbetaben (18F)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Florbetaben (18F)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/florbetaben-18f/
 <p><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Un nuevo protocolo unificado logra reducir drásticamente los ictus y la mortalidad por hipertensión](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT0gtLVpvSFI3LXBtSldLaHFsbTRmZEtBNnJuX1Z6Qm16aFZXS2xxOTVtQXNXTFdrYk5aMUVyVTBCLURQVDVkaVBXdURSRGY5NGlUdDVueHFKYTZtMU1fTDkyS19jY1poOWZLaGluZFNIeDlVMi0xcUFRdHE3ZFlIRTducHNPdEFKS0tiaGlMdjN1R0lGcFJpeHhIVmthVWx2cWNrVFkycGhzNFU1eGpmYXgtcFZQaWlzMEpycHBESlFJZlJVTmY3LTVxSlMwM3V0OWpBeGpQY0FtU2V0ek1tNV9rQTh2Z3NkaDZURFcwYnJnNUhQV3RZbWU4VU10TXpDWHhZ0gGDAkFVX3lxTE1LenR4ejcya0Jjc0M4NE4yRHA3eEpSaWdNTDdHWmVOZkhzcnZMZWJXM082M1NfRXB2dkxsS2xOdzVUcTNxbTdNbWF5enB4YnBVd2FpSzhubTY2OHVDbTg4MFdXVUk5dldSeURTS2RDdnFHb3lUeVNxRUtQbGZscUJkTTBXWW5mYmpVS0VHeDFlN19Lb3M5ODg1MTFPZ2o4UG01YU1DeXRGUDFGWE5GSkpSb3E1SkdvNWFyblZzUXJlZ3hRSDdfdmtRZm9lU2RLazk5VV9TT1VQNlVEMTR3OG1sbDVCcUFpTnVuVDk2THJuU3lvS1ZnaHFMT254cGtJQkUtczg?oc=5)
+### [El estudio que marca un antes y un después: controlar la hipertensión con este método reduce ictus y muertes en miles de pacientes - El Economista](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNYmpRcHFYbkFsRE93Tko2OUxIYWVVZ29DbU8wd0ZtOWdXOURpWlE5U3d0OE4yX3prd0ltUkQxRVJScWdsbHZodmhQczZQTXpsRnQ3Y0hXR0QwTmxPNkVqS3dENEJiN21SMUJKeHVvT2JRa0cycjJ2Ri1FS01aLXRGTHZ5cElXSUxSMTFIaEJsblFJZjVWbF9kTlhKcDBOUEdHSUJfWW02NHFUajNpZXI4VEZ3LW14RVJTV05YMWpXSkZYQUlSQjBEOTdzX2UyNldhREltcVNReDVIeUFyRXhDY3NxUEprdmx2UGN4RGhIcTRQUXRtMlNuQnhqSC1rVG42SVlrSWdOVjBYeEdLUEEtUzdRc1NEcWVJd1lpT2VHdk40NXoyV0Y5RElIMXRIR3FUdG5CZG9JWUZ2cnc?oc=5)
 
 2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
 
-來源：[LaSexta](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT0gtLVpvSFI3LXBtSldLaHFsbTRmZEtBNnJuX1Z6Qm16aFZXS2xxOTVtQXNXTFdrYk5aMUVyVTBCLURQVDVkaVBXdURSRGY5NGlUdDVueHFKYTZtMU1fTDkyS19jY1poOWZLaGluZFNIeDlVMi0xcUFRdHE3ZFlIRTducHNPdEFKS0tiaGlMdjN1R0lGcFJpeHhIVmthVWx2cWNrVFkycGhzNFU1eGpmYXgtcFZQaWlzMEpycHBESlFJZlJVTmY3LTVxSlMwM3V0OWpBeGpQY0FtU2V0ek1tNV9rQTh2Z3NkaDZURFcwYnJnNUhQV3RZbWU4VU10TXpDWHhZ0gGDAkFVX3lxTE1LenR4ejcya0Jjc0M4NE4yRHA3eEpSaWdNTDdHWmVOZkhzcnZMZWJXM082M1NfRXB2dkxsS2xOdzVUcTNxbTdNbWF5enB4YnBVd2FpSzhubTY2OHVDbTg4MFdXVUk5dldSeURTS2RDdnFHb3lUeVNxRUtQbGZscUJkTTBXWW5mYmpVS0VHeDFlN19Lb3M5ODg1MTFPZ2o4UG01YU1DeXRGUDFGWE5GSkpSb3E1SkdvNWFyblZzUXJlZ3hRSDdfdmtRZm9lU2RLazk5VV9TT1VQNlVEMTR3OG1sbDVCcUFpTnVuVDk2THJuU3lvS1ZnaHFMT254cGtJQkUtczg?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNYmpRcHFYbkFsRE93Tko2OUxIYWVVZ29DbU8wd0ZtOWdXOURpWlE5U3d0OE4yX3prd0ltUkQxRVJScWdsbHZodmhQczZQTXpsRnQ3Y0hXR0QwTmxPNkVqS3dENEJiN21SMUJKeHVvT2JRa0cycjJ2Ri1FS01aLXRGTHZ5cElXSUxSMTFIaEJsblFJZjVWbF9kTlhKcDBOUEdHSUJfWW02NHFUajNpZXI4VEZ3LW14RVJTV05YMWpXSkZYQUlSQjBEOTdzX2UyNldhREltcVNReDVIeUFyRXhDY3NxUEprdmx2UGN4RGhIcTRQUXRtMlNuQnhqSC1rVG42SVlrSWdOVjBYeEdLUEEtUzdRc1NEcWVJd1lpT2VHdk40NXoyV0Y5RElIMXRIR3FUdG5CZG9JWUZ2cnc?oc=5)
+
+---
+
+### [Le chocolat peut-il vraiment provoquer des migraines ? Voici ce qu'en disent des neurologues](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
+
+2026-04-06 <span class="news-indication-tag">migraine</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
 
 ---
 

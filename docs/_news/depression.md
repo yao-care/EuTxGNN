@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [ADHS & PMS: Bettina erlebt ihre Periode „wie eine kleine Depression“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
 
 2026-04-06
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
+
+---
+
+### [Un fármaco investigado para la depresión logra frenar la progresión del glaucoma](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTMtQXpOc3ZQNU1CcVFDVV9RUDZIZjladERxcnNvdFpvQjdOdnRaM1RDYkpBMnlTR3FHbFN3Z0Vrb1lUM3dSR3ZwTEdtZFo3c0Fpd1V6RTN1bDRabHYtZkRMbl9XN3V2MFdyNmN4ekxtLVE3RzJXZlFESV9vcDY1THVsUUVsSXY2TFdYTVB2SzE5emtlSGRFTG9sWlI0ZEtZTVZQeTVfSS1mLUpKX2J5RmhIMA?oc=5)
+
+2026-04-06
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTMtQXpOc3ZQNU1CcVFDVV9RUDZIZjladERxcnNvdFpvQjdOdnRaM1RDYkpBMnlTR3FHbFN3Z0Vrb1lUM3dSR3ZwTEdtZFo3c0Fpd1V6RTN1bDRabHYtZkRMbl9XN3V2MFdyNmN4ekxtLVE3RzJXZlFESV9vcDY1THVsUUVsSXY2TFdYTVB2SzE5emtlSGRFTG9sWlI0ZEtZTVZQeTVfSS1mLUpKX2J5RmhIMA?oc=5)
 
 ---
 

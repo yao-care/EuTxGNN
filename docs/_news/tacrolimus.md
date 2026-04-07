@@ -44,11 +44,11 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（1 則）
 
-### [How to cure psoriasis WITHOUT drugs: ETHAN ENNALS reveals the answers - Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
+### [De tratar la leucemia a mejorar la psoriasis: el fármaco que "abre nuevas posibilidades terapéuticas"](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnpLOHBYWThTcnp4d3BuUVpVWExnVWtTZzZLTG9YUjZvbmdNZUJIb2tRdnU5Rm1scFV0S0pSajhGM1hDbDN6RTI1a19kU29KSlZEYjFGbU1BQ1pjVmk0ZXhJd2tlTVFLb2JoMDZaaGFlMTBSRzV3dFpkbmV3WmdWdU03bi1ZdndXYlIzSzd0QWd5QXBNNHBWS3JHVlFzdHhNRmVsbEM3Ym9wWGVPbE4wWTJsZHVwUDJtQmhXMEcxNFBqQVItTHlGVEVOQUgwdVgtRUJHMENn?oc=5)
 
-2026-04-05 <span class="news-indication-tag">psoriasis</span>
+2026-04-06 <span class="news-indication-tag">psoriasis</span>
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmNiRE1XTjQ2ODgyWXUtVTA5dEZoMVFIT3VDcEhjRGM1dXVUYUFOVGh0Ni1iNjFENjhkTU5vNEd2OUtDZC1faEt0RzdjZ3YyaGJBWHhqQ2MwWENSeURxWGY4TDF3NW4tZDBpb045ODBYN0tLTm1kMXdzTHFEVEpHLTlvR005QkhhSkNZR0ZsN1Vvb0wzeTF0RzVfZGd4WFZPWldyNFRkbnJiOU1rUGEzYQ?oc=5)
+來源：[Vozpópuli](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnpLOHBYWThTcnp4d3BuUVpVWExnVWtTZzZLTG9YUjZvbmdNZUJIb2tRdnU5Rm1scFV0S0pSajhGM1hDbDN6RTI1a19kU29KSlZEYjFGbU1BQ1pjVmk0ZXhJd2tlTVFLb2JoMDZaaGFlMTBSRzV3dFpkbmV3WmdWdU03bi1ZdndXYlIzSzd0QWd5QXBNNHBWS3JHVlFzdHhNRmVsbEM3Ym9wWGVPbE4wWTJsZHVwUDJtQmhXMEcxNFBqQVItTHlGVEVOQUgwdVgtRUJHMENn?oc=5)
 
 ---
 

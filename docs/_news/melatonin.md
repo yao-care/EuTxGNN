@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Experta destaca el efecto "discreto" de las gominolas de melatonina en adultos sanos con insomnio inespecífico](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUFhxNDVaei1VS3dMNWhLWEFWTkNCNjJ4OW5CMWQ2cGM4YzNxeDZaNnZELUR5Q0FQajBEYkhPZDg4WTUwdTBKQURIMjBDTTZfamw1NTJ5NktHTDBYcGJRVFJMYUVpMWJsYlRlUDd5a3BFeU5vQ0t3SkFyUXRFZ0tOWFRISmRfNk5EWGpqa1NtU0h5NjhjNWkxTjhGWnNNNFJaYXktVktSOS14NzJuTzhOWHVnTzdYMUVCN000WVAwbTUycnNiV0ZEbXhpY3BoNXpIRllDLThma3N1djU5VTVjR2M2dWJ6NzI4UjJCeXF5d3UyTVM2?oc=5)
+### [Le chocolat peut-il vraiment provoquer des migraines ? Voici ce qu'en disent des neurologues](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Melatonin</span>
+2026-04-06 <span class="news-indication-tag">migraine</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUFhxNDVaei1VS3dMNWhLWEFWTkNCNjJ4OW5CMWQ2cGM4YzNxeDZaNnZELUR5Q0FQajBEYkhPZDg4WTUwdTBKQURIMjBDTTZfamw1NTJ5NktHTDBYcGJRVFJMYUVpMWJsYlRlUDd5a3BFeU5vQ0t3SkFyUXRFZ0tOWFRISmRfNk5EWGpqa1NtU0h5NjhjNWkxTjhGWnNNNFJaYXktVktSOS14NzJuTzhOWHVnTzdYMUVCN000WVAwbTUycnNiV0ZEbXhpY3BoNXpIRllDLThma3N1djU5VTVjR2M2dWJ6NzI4UjJCeXF5d3UyTVM2?oc=5)
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
 
 ---
 
@@ -57,6 +57,14 @@ permalink: /news/melatonin/
 2026-04-06 <span class="news-drug-tag">Melatonin</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1Uzc0dsN2xkV2VEbFQ1REFQQ0xNZ21abS1MVHhaaFR0SDdvVTdZc2F0M193amRPNGFNdmhHeXhUaXNFODhEVVlEc2hlREhtTXVDSHJXZ1B2dDg4bHVpWlZVa2xKUHh3T2hSZmQtV1hhVEFrM0wxNjcxWkVWTUVhVVhhYkJjckhLcVRqeEVGUHVmcVlveG1DLVBHNWswUDBFX0s5VjNfOG9sREJVUFNQQmtIcTB0Tk0?oc=5)
+
+---
+
+### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
+
+2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
 
 ---
 

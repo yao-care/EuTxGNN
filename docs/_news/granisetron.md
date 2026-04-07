@@ -14,7 +14,7 @@ permalink: /news/granisetron/
 ---
 
 <p class="key-answer" data-question="Granisetron 有什麼相關新聞？">
-<strong>Granisetron</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Granisetron</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/granisetron/
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（18 則）
 
-### [Ernährungswende: Küche statt Fast Food als Medizin - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOME9yUi1QcmdSNmpEV04wQ1h3ZnpsbFpTYmtEVm5Tckx6SmlmcU9yc3pwREp0bGt6d3BGUlhQbVRwdXlUMEJ2ZUlrSVB6VVRRWlpIZ3BqZVphbUNjeFpNTlR1X09oRm5XZDFMNllSdERCZzZTTnN5RS1OTkUyM21nSEIzVmRJcWExU0NSaG9NbFlDSUNLa2RHanJlU1JrX3ZPQWNKVFZZWUVKbmNFMFlN?oc=5)
+### [Ernährung 2026: Ganzes Essen als Medizin, Pillen nur gezielt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXZnUjg2T050N01tUFdhbHRxLU1HcFNIMHNuZTVvWkxydGE0SEZrVWtfallhUmd4Sm5YQU5KWnpaNE1Zc3pKNllNNnFoZkpxVFdnM2tpX3dDZzNUY21yQUo0ZnR2clE5LTNSSkF1a1NXSzlKTmNpUDAxOVU2NUZiOHlRUFlJMDBlbHB0TXJnNUpIV3NRbHMzLUlQRTI4bExqNHVLOGJmYjdGVzVvVnlkWVVEanFTRWRkUVE?oc=5)
 
 2026-04-06 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOME9yUi1QcmdSNmpEV04wQ1h3ZnpsbFpTYmtEVm5Tckx6SmlmcU9yc3pwREp0bGt6d3BGUlhQbVRwdXlUMEJ2ZUlrSVB6VVRRWlpIZ3BqZVphbUNjeFpNTlR1X09oRm5XZDFMNllSdERCZzZTTnN5RS1OTkUyM21nSEIzVmRJcWExU0NSaG9NbFlDSUNLa2RHanJlU1JrX3ZPQWNKVFZZWUVKbmNFMFlN?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXZnUjg2T050N01tUFdhbHRxLU1HcFNIMHNuZTVvWkxydGE0SEZrVWtfallhUmd4Sm5YQU5KWnpaNE1Zc3pKNllNNnFoZkpxVFdnM2tpX3dDZzNUY21yQUo0ZnR2clE5LTNSSkF1a1NXSzlKTmNpUDAxOVU2NUZiOHlRUFlJMDBlbHB0TXJnNUpIV3NRbHMzLUlQRTI4bExqNHVLOGJmYjdGVzVvVnlkWVVEanFTRWRkUVE?oc=5)
 
 ---
 
-### [I'm just 22, but a rare condition made me believe I was a paedophile for four years](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXI4SENMMDdRbEo4cDFKTnpqYXNfVlNsNG0wOXBTOHFPdDdqTFFQWnJ5OWxfMXV0MXR3eDZUb3cyWlNFaFFzdTkwbWVNb2dFTmVLTnhGSU54N0dEUnpIbTM5ZWJWckNYT3lvZHpzYWc3dTBFMEp1RnVSbkVWb2xELVNfUm0yZ3dvUGE3QkFGdW1CNkRXbGpaTmJkZnBRczFHbjI1dkRPYnfSAa4BQVVfeXFMUDMteG84b0xkTUgxeVpWckJQdUM5dXFRQlVrWTcwdmxNOGNPS0ktVEF0RC1KYlZTRmFlZ09BVmJrSUEwQnpqN0R1b0haeVZKM0RfZk5reHZWclJ0cWdBMTU4Ukw1NDM1WVp3eFljMlFWRG9OSFp1di1ReV84OXpOQVNrVzRicldsVHUwa2djYXp6WjNLX0hRREpXTWtiUkRnaUlWQVZLM2FDNVdRaWFR?oc=5)
+### [BA.3.2, la variante covid con 75 mutaciones que desafía a las vacunas](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDF5aVZRUHRZNW02NlZyLTBjUUhjXzlYNHpMVk1hQjBoZVM2eWsydVdNRklTa09ibHU0b0FiYnA4UmtleVJ5RHZWVk9HTzZKNjNXS1dQQlFyNl9seUNXRVlrNC00OU9DdV9zZnVaVHdscDNCTElqR29TUHEtWHRCeGU0U25Qdm5SRzRwOTFYalpZOTFkZ0luS0ZWenJxQVBkYkJGTmJXaDZ6VG93X2lFTUVwYzBzUDZUUGhQSEpnNmlyWUp6NmfSAcYBQVVfeXFMT3Fvai1JbElkQWNOd0RSYk4zUjRmcy11dV82VzctN1lGc2VoelVCaDNYYXU5dmpvRkpCbkYzYVN4eGFHNjU5X1J5YlZJNGh0WGxqRkg0VFBwbTdhT0QxYW9QbzhhMi1yN0xvazlXNjMtNS1PQ3I3eWxPWFUteG1zdFQ0ODRJWHJqbjdXVURKRTJpbFVkNVhqTUdudlVVU0ZwQXJUNHVwUWRnX3NQanV0Mk1DQzRzSm9lYkZPVlE3V2M4a0d4dXhR?oc=5)
 
 2026-04-06 <span class="news-indication-tag">AF</span>
 
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXI4SENMMDdRbEo4cDFKTnpqYXNfVlNsNG0wOXBTOHFPdDdqTFFQWnJ5OWxfMXV0MXR3eDZUb3cyWlNFaFFzdTkwbWVNb2dFTmVLTnhGSU54N0dEUnpIbTM5ZWJWckNYT3lvZHpzYWc3dTBFMEp1RnVSbkVWb2xELVNfUm0yZ3dvUGE3QkFGdW1CNkRXbGpaTmJkZnBRczFHbjI1dkRPYnfSAa4BQVVfeXFMUDMteG84b0xkTUgxeVpWckJQdUM5dXFRQlVrWTcwdmxNOGNPS0ktVEF0RC1KYlZTRmFlZ09BVmJrSUEwQnpqN0R1b0haeVZKM0RfZk5reHZWclJ0cWdBMTU4Ukw1NDM1WVp3eFljMlFWRG9OSFp1di1ReV84OXpOQVNrVzRicldsVHUwa2djYXp6WjNLX0hRREpXTWtiUkRnaUlWQVZLM2FDNVdRaWFR?oc=5)
+來源：[redaccionmedica.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDF5aVZRUHRZNW02NlZyLTBjUUhjXzlYNHpMVk1hQjBoZVM2eWsydVdNRklTa09ibHU0b0FiYnA4UmtleVJ5RHZWVk9HTzZKNjNXS1dQQlFyNl9seUNXRVlrNC00OU9DdV9zZnVaVHdscDNCTElqR29TUHEtWHRCeGU0U25Qdm5SRzRwOTFYalpZOTFkZ0luS0ZWenJxQVBkYkJGTmJXaDZ6VG93X2lFTUVwYzBzUDZUUGhQSEpnNmlyWUp6NmfSAcYBQVVfeXFMT3Fvai1JbElkQWNOd0RSYk4zUjRmcy11dV82VzctN1lGc2VoelVCaDNYYXU5dmpvRkpCbkYzYVN4eGFHNjU5X1J5YlZJNGh0WGxqRkg0VFBwbTdhT0QxYW9QbzhhMi1yN0xvazlXNjMtNS1PQ3I3eWxPWFUteG1zdFQ0ODRJWHJqbjdXVURKRTJpbFVkNVhqTUdudlVVU0ZwQXJUNHVwUWRnX3NQanV0Mk1DQzRzSm9lYkZPVlE3V2M4a0d4dXhR?oc=5)
 
 ---
 
@@ -68,11 +68,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [Hasta el 45% de pacientes reumáticos podría sufrir sarcopenia pese a ser prevenible con ejercicio de fuerza y dieta](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0pZNnRFekVDejJVbzlobjhZNGo3S2k2R3lnQzQzajVDSEJvRzJJOF9EYWhwOVhvTy00eVdzRGlwSHFxUjdjV3FUaWo0bTNrRlhfRHRyLWl4WHh4MFliR21ORXdXUUxUaHljV3BpMWRWaGVKMEhIaVFhUTRqcmdZZHl0N0l1VkgxRFZXMW9jeGxBekJ5eW5XZjZmQ3NONGFUTEdEbVlOWi1OcDRJbGplRHNxNS1yWUx6WG5CcVctb2NqcDRzbGk2QVN6bHJISTRsMEw1dlRwdXhWNjZVWGl0b3ZGYTBWc3l0TFVKSnhyTkswb2F3bXMtZQ?oc=5)
+### [Hasta un 45% de pacientes reumáticos podría padecer sarcopenia aunque se previene con fuerza y alimentación adecuada](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW1WaTBZUnVjZmI4RzdtaEotT3M5Wlh4Z1V4MWhFQXJXQ25CMzVXcXhwSzNjWmNLR3cxOWg0VVIxeFN1LTRvR1QwODh6aVFycmxXVTd4LTBBTWtIWi1pMmxJQklJTEV0LWlsdXhjeVRhYUlBWmJ4TExsd0l1YlRsS2pPLVZDdlBhYllPa1ZSV01vY2dfYmFHN3lFM29RaHBScTcxWnRoWmJLWjFVeXBBOU5Fa1NvVUlhZUw0M21EWjdCd21aMTJGMmYtNExYUDdOR3lkNTB3SkpJbUpKSDFtdmU1a9IB6AFBVV95cUxOOUo3WEhPMy1tZE1kWW1SNm5YamFTMzFqT1BTMWY0OThCZ1NVQXpKN3ZHYVQ2ZkYyWWtzX1dIR3AwZ2Q0a21PaGNEMmZabk44OWtYa01xV2ptamlIYXQteVc5SmFNM3o2blUwMWlRLVhIeFVhWER2c3ozT0xlbWJONlFtRU1XMlNlT0FNdFRmZ2ljdmdLcWxYaUoxVTlsUXZMd1hiTDdZLWZzWWVpRTBianhYLUNmQURGVm5JemFOX3NXUlNZa1JxR0pfT2FNQzlIaDdiS2hZSEloajVIV0lnS3VtdUFHb0dN?oc=5)
 
 2026-04-06 <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb0pZNnRFekVDejJVbzlobjhZNGo3S2k2R3lnQzQzajVDSEJvRzJJOF9EYWhwOVhvTy00eVdzRGlwSHFxUjdjV3FUaWo0bTNrRlhfRHRyLWl4WHh4MFliR21ORXdXUUxUaHljV3BpMWRWaGVKMEhIaVFhUTRqcmdZZHl0N0l1VkgxRFZXMW9jeGxBekJ5eW5XZjZmQ3NONGFUTEdEbVlOWi1OcDRJbGplRHNxNS1yWUx6WG5CcVctb2NqcDRzbGk2QVN6bHJISTRsMEw1dlRwdXhWNjZVWGl0b3ZGYTBWc3l0TFVKSnhyTkswb2F3bXMtZQ?oc=5)
+來源：[democrata.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQW1WaTBZUnVjZmI4RzdtaEotT3M5Wlh4Z1V4MWhFQXJXQ25CMzVXcXhwSzNjWmNLR3cxOWg0VVIxeFN1LTRvR1QwODh6aVFycmxXVTd4LTBBTWtIWi1pMmxJQklJTEV0LWlsdXhjeVRhYUlBWmJ4TExsd0l1YlRsS2pPLVZDdlBhYllPa1ZSV01vY2dfYmFHN3lFM29RaHBScTcxWnRoWmJLWjFVeXBBOU5Fa1NvVUlhZUw0M21EWjdCd21aMTJGMmYtNExYUDdOR3lkNTB3SkpJbUpKSDFtdmU1a9IB6AFBVV95cUxOOUo3WEhPMy1tZE1kWW1SNm5YamFTMzFqT1BTMWY0OThCZ1NVQXpKN3ZHYVQ2ZkYyWWtzX1dIR3AwZ2Q0a21PaGNEMmZabk44OWtYa01xV2ptamlIYXQteVc5SmFNM3o2blUwMWlRLVhIeFVhWER2c3ozT0xlbWJONlFtRU1XMlNlT0FNdFRmZ2ljdmdLcWxYaUoxVTlsUXZMd1hiTDdZLWZzWWVpRTBianhYLUNmQURGVm5JemFOX3NXUlNZa1JxR0pfT2FNQzlIaDdiS2hZSEloajVIV0lnS3VtdUFHb0dN?oc=5)
 
 ---
 
@@ -89,6 +89,14 @@ permalink: /news/granisetron/
 2026-04-06 <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnE0VVFGWm9ia3BETU9oU0k2b1RxT3R1RnNPLTV1T2lJWVVyTTZFSGZJb2JmeC1iVEpRU25ZeHZUekMwdVFOWWNkMU0wcTI1TDZnbXhTQUVGU2YzTkp5MjVFV1dSZUpnZkVJT1FURV8ySlZWZFB2cU4wdEtxcTA1dDU4T3gtRDE5Mkw1X3o4cG1wWloyNkRGZnFHa1dpeExPa1hwQ3JWNVlEM2xtdFJhMndRZl9JQQ?oc=5)
+
+---
+
+### [Devastated family warn others after death of young Plymouth mum](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGlacVIxanliUEhyX2tWdWNVbVp2eHVYTmRfODBhbG1OMGZxZE1VTXYyVGNFVDFDU09XRkp4YUhJOWZXRGkzcm5aRzdacXlSRXVpQTNfVjlLcEM1ei1tdEFESkZZcmFreW8xT0NQSjZOUEgyV3F1QlRzbmd6ZTVkblBrSDNEcWJfa2xHV1djZUZEeDA?oc=5)
+
+2026-04-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[plymouthherald.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGlacVIxanliUEhyX2tWdWNVbVp2eHVYTmRfODBhbG1OMGZxZE1VTXYyVGNFVDFDU09XRkp4YUhJOWZXRGkzcm5aRzdacXlSRXVpQTNfVjlLcEM1ei1tdEFESkZZcmFreW8xT0NQSjZOUEgyV3F1QlRzbmd6ZTVkblBrSDNEcWJfa2xHV1djZUZEeDA?oc=5)
 
 ---
 
@@ -177,22 +185,6 @@ permalink: /news/granisetron/
 2026-04-05 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHgtUHFUbDVpLW1BdWp4SmplVExoVnl3RXZXMDJaQm5Yc2lQQ2tlM0VMYUwybGhWQjc5Z29UaF9nX1JjVnluMHJxUzJ3MF9wZWtEWEt3dU5GWXEybzdGZHlyelVDa1VoOXBhRk1kclE5WGZSR2dqcEdHcHZJcFpFbUh4LThNcHpYVTJMUzRSbEc?oc=5)
-
----
-
-### [Why deadly bowel cancer's striking young and peri-menopausal women - Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
-
-2026-04-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXJ1bHA5SktpOW05czVsVnRtTzA3SjZiRHNIVFVCaTR1dDZ2UENXNk1hTU1lZ1Y4WEhxTGEzbzg0WXJvVFYyU25jZWV0dnJyRldnRHAtM1JDRmhBQl81T3AyWURGYTMtZjBDd281eUszb2UxVUdnUVNyMkJYMGg2ZEpqM2trUmQ1ekdWOE9BdHl4SXhkbmZjQm9tYTFWb3ZfZWtCX3p4NFhYeWM0OFE?oc=5)
-
----
-
-### [Fasten im Check: Neue Studien fordern Umdenken - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRqZHkwazhYWnhMX29aZkNoRlJ5TlJldmI5N0NRMmg1a2tnSjRjenpTNW5JU05KZ01XMDFvUXczT1c3QTRhdVZXQUF1a0syQVdlVzlDWEgwaWVpd2JRVVo3TlZrSlNJQm94Wk1kekJNUU5HSTl1OFo4YXlZYVdSQkl0Q3Nib18wZ2c4cGx5bzZFRnNNY19zellRTmxoQkFwODRXSDNYdw?oc=5)
-
-2026-04-04 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDRqZHkwazhYWnhMX29aZkNoRlJ5TlJldmI5N0NRMmg1a2tnSjRjenpTNW5JU05KZ01XMDFvUXczT1c3QTRhdVZXQUF1a0syQVdlVzlDWEgwaWVpd2JRVVo3TlZrSlNJQm94Wk1kekJNUU5HSTl1OFo4YXlZYVdSQkl0Q3Nib18wZ2c4cGx5bzZFRnNNY19zellRTmxoQkFwODRXSDNYdw?oc=5)
 
 ---
 
