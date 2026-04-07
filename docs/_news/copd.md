@@ -3,7 +3,7 @@ layout: default
 title: "copd 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "copd 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
+description: "copd 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="copd 有什麼相關新聞？">
-<strong>copd</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
+<strong>copd</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Warum verschlechtert sich COPD bei Grippe?](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSml2NE1TNFVQUW1ELXB1N0RWQnFnZzVWYzQ1Ym10elZZZkphQnAwaXJCMlRoRFJ5WHhOR2J0WjhaLWQ4V1ZrNnk1RGdnS2M3WHJEZnA0UzNLdEg4Z2h6LTIzbGs3eHZwb2QtMi0ybXVQYXdNV0NzUlNqNFhMV1pKTWlwTXRyYUpoUlZFYkhaM1hLRUMxWkdwLUhuNUpaekROUWhSbmN6SQ?oc=5)
+
+2026-04-07
+
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSml2NE1TNFVQUW1ELXB1N0RWQnFnZzVWYzQ1Ym10elZZZkphQnAwaXJCMlRoRFJ5WHhOR2J0WjhaLWQ4V1ZrNnk1RGdnS2M3WHJEZnA0UzNLdEg4Z2h6LTIzbGs3eHZwb2QtMi0ybXVQYXdNV0NzUlNqNFhMV1pKTWlwTXRyYUpoUlZFYkhaM1hLRUMxWkdwLUhuNUpaekROUWhSbmN6SQ?oc=5)
+
+---
 
 ### [Mobile apps to help treat asthma and COPD patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
 

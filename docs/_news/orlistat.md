@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,19 +42,11 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [El estudio que marca un antes y un después: controlar la hipertensión con este método reduce ictus y muertes en miles de pacientes - El Economista](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNYmpRcHFYbkFsRE93Tko2OUxIYWVVZ29DbU8wd0ZtOWdXOURpWlE5U3d0OE4yX3prd0ltUkQxRVJScWdsbHZodmhQczZQTXpsRnQ3Y0hXR0QwTmxPNkVqS3dENEJiN21SMUJKeHVvT2JRa0cycjJ2Ri1FS01aLXRGTHZ5cElXSUxSMTFIaEJsblFJZjVWbF9kTlhKcDBOUEdHSUJfWW02NHFUajNpZXI4VEZ3LW14RVJTV05YMWpXSkZYQUlSQjBEOTdzX2UyNldhREltcVNReDVIeUFyRXhDY3NxUEprdmx2UGN4RGhIcTRQUXRtMlNuQnhqSC1rVG42SVlrSWdOVjBYeEdLUEEtUzdRc1NEcWVJd1lpT2VHdk40NXoyV0Y5RElIMXRIR3FUdG5CZG9JWUZ2cnc?oc=5)
-
-2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNYmpRcHFYbkFsRE93Tko2OUxIYWVVZ29DbU8wd0ZtOWdXOURpWlE5U3d0OE4yX3prd0ltUkQxRVJScWdsbHZodmhQczZQTXpsRnQ3Y0hXR0QwTmxPNkVqS3dENEJiN21SMUJKeHVvT2JRa0cycjJ2Ri1FS01aLXRGTHZ5cElXSUxSMTFIaEJsblFJZjVWbF9kTlhKcDBOUEdHSUJfWW02NHFUajNpZXI4VEZ3LW14RVJTV05YMWpXSkZYQUlSQjBEOTdzX2UyNldhREltcVNReDVIeUFyRXhDY3NxUEprdmx2UGN4RGhIcTRQUXRtMlNuQnhqSC1rVG42SVlrSWdOVjBYeEdLUEEtUzdRc1NEcWVJd1lpT2VHdk40NXoyV0Y5RElIMXRIR3FUdG5CZG9JWUZ2cnc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [‘I had a stroke at 46 — I thought I was indestructible’ - The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
 
-2026-04-06 <span class="news-indication-tag">stroke</span>
+2026-04-05 <span class="news-indication-tag">stroke</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### ['I'm not drunk, I have Parkinson's disease'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
+
+2026-04-07 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
+
+---
+
+### [Warum verschlechtert sich COPD bei Grippe?](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSml2NE1TNFVQUW1ELXB1N0RWQnFnZzVWYzQ1Ym10elZZZkphQnAwaXJCMlRoRFJ5WHhOR2J0WjhaLWQ4V1ZrNnk1RGdnS2M3WHJEZnA0UzNLdEg4Z2h6LTIzbGs3eHZwb2QtMi0ybXVQYXdNV0NzUlNqNFhMV1pKTWlwTXRyYUpoUlZFYkhaM1hLRUMxWkdwLUhuNUpaekROUWhSbmN6SQ?oc=5)
+
+2026-04-07 <span class="news-indication-tag">copd</span>
+
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSml2NE1TNFVQUW1ELXB1N0RWQnFnZzVWYzQ1Ym10elZZZkphQnAwaXJCMlRoRFJ5WHhOR2J0WjhaLWQ4V1ZrNnk1RGdnS2M3WHJEZnA0UzNLdEg4Z2h6LTIzbGs3eHZwb2QtMi0ybXVQYXdNV0NzUlNqNFhMV1pKTWlwTXRyYUpoUlZFYkhaM1hLRUMxWkdwLUhuNUpaekROUWhSbmN6SQ?oc=5)
+
+---
 
 ### [Mobile apps to help treat asthma and COPD patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
 

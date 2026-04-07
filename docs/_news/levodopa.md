@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Levodopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### ['I'm not drunk, I have Parkinson's disease'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
+
+2026-04-07 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
+
+---
 
 
 <div class="disclaimer">

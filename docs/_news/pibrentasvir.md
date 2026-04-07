@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（10 則）
 
-### [Día Mundial de la Salud: el ejercicio físico como aliado imprescindible en el manejo de las enfermedades - Consejo COLEF](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZTZURE85anZWc1JKbjdUZTdMVXpyN3Y0XzNnZ3ZIbTk5WlZITlk3dVlNUUJ1VTNYaTEtTFF3RFRIZHhLU0hEd2FISWtTOWJoM04tQnBfYVR3Zk0?oc=5)
+### [Tumori, diagnosi precoce del cancro con un test del sangue ‘low cost’: come funziona](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTk85ZkdQakZBRjU2ZGw1OFN6cjBZUGVVdUtveTVzd0ZKUmRCRWNGMkdsZzVTWVJYNWpVZjZGQ2VTczBmS2hwOHQzZnVYdlpFV2dvNzM5RFlpQ1d1OE9KcjJ6UDZwb3NRd2pvUjBZZzktNDJOdWN1Y0MwU1VpN2RTTWl0ajZ1MnQ4Skhoa1dEOU5ONmZnaUlIcTdhdldfWlA2eWdIU3YwYTFMVTRHWnFubnR0Qm5wQlI1MVV3RDR0a3phSno3LUsxVGRURlFhRWItdlhv?oc=5)
 
-2026-04-07 <span class="news-indication-tag">MS</span>
+2026-04-07 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[Consejo COLEF](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZTZURE85anZWc1JKbjdUZTdMVXpyN3Y0XzNnZ3ZIbTk5WlZITlk3dVlNUUJ1VTNYaTEtTFF3RFRIZHhLU0hEd2FISWtTOWJoM04tQnBfYVR3Zk0?oc=5)
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTk85ZkdQakZBRjU2ZGw1OFN6cjBZUGVVdUtveTVzd0ZKUmRCRWNGMkdsZzVTWVJYNWpVZjZGQ2VTczBmS2hwOHQzZnVYdlpFV2dvNzM5RFlpQ1d1OE9KcjJ6UDZwb3NRd2pvUjBZZzktNDJOdWN1Y0MwU1VpN2RTTWl0ajZ1MnQ4Skhoa1dEOU5ONmZnaUlIcTdhdldfWlA2eWdIU3YwYTFMVTRHWnFubnR0Qm5wQlI1MVV3RDR0a3phSno3LUsxVGRURlFhRWItdlhv?oc=5)
 
 ---
 
@@ -60,11 +60,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Alzheimer-Forschung: Drei neue Wege zur Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
+### [Alzheimer-Forschung: Drei neue Wege zur Prävention](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
 
 2026-04-06 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
 
 ---
 
@@ -76,35 +76,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Litorale, sequestrate dai Nas 156 confezioni di conserva a rischio botulino - la Repubblica](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLURXNUFTY00tQmhDclJvWWJLNkpfNlhEVHBibDFNXzFBVmdXaHRZOXIwUkF3T1VuVHNNVV9FUFFUSF9NMlB4OE95azVVMU01U2RYbHByekpNYmRWeTU5M0VlMmhuOUk4Nk15MWxneE16WDZPY1NIMVN0ZXVabmVkTjZwVGxjUGFGbk9WekFMNmxFSGZVbzR6NFVpcGh1OHBTRHNqcW5FLTB6S3RYUWRISkZ6ODdFMWxORGtZ0gHAAUFVX3lxTE1NQWV4UkFpb0dfcllLMFpZTmlrSjRPN2V4TV9mSzNXV2V2ZHNkWlVxbS16WF9aZW1Bd1JGRVk3QXFMTC14UkRDdjZGMk1kbktua1l3NThLN2diUWlaT1diRUdYWU5pam5NQnFFR1JXOHJIWkw1akM3VUhvVklRcXNqaXZvV3FrRk9IZ0NUdHpBYmxJcG1rZ2Q1ZkJ3WXhlZnAxS0VGbVNfamFaZTVGSjVrNVpnaDBOU09JSWNRWGswcw?oc=5)
-
-2026-04-06 <span class="news-indication-tag">epatite</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLURXNUFTY00tQmhDclJvWWJLNkpfNlhEVHBibDFNXzFBVmdXaHRZOXIwUkF3T1VuVHNNVV9FUFFUSF9NMlB4OE95azVVMU01U2RYbHByekpNYmRWeTU5M0VlMmhuOUk4Nk15MWxneE16WDZPY1NIMVN0ZXVabmVkTjZwVGxjUGFGbk9WekFMNmxFSGZVbzR6NFVpcGh1OHBTRHNqcW5FLTB6S3RYUWRISkZ6ODdFMWxORGtZ0gHAAUFVX3lxTE1NQWV4UkFpb0dfcllLMFpZTmlrSjRPN2V4TV9mSzNXV2V2ZHNkWlVxbS16WF9aZW1Bd1JGRVk3QXFMTC14UkRDdjZGMk1kbktua1l3NThLN2diUWlaT1diRUdYWU5pam5NQnFFR1JXOHJIWkw1akM3VUhvVklRcXNqaXZvV3FrRk9IZ0NUdHpBYmxJcG1rZ2Q1ZkJ3WXhlZnAxS0VGbVNfamFaZTVGSjVrNVpnaDBOU09JSWNRWGswcw?oc=5)
-
----
-
-### [The toxic proteins you've never heard of that are silently ageing you](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnlCMlBOVmw0cEQxa1lHVUp0aDFRU0lJdkhaMWpEdTVYYjlvZllPTW0xZFZZWE8tZmVZdWh5WndsbHh4aU9MVDNPelRYcTdMT0hubEU0cmcwWnBSc3NPbEVxdmkzRkNHUVpZX1JPMTdYNlhXUmZITW8zb01ISVljcDZISWhQOXRxbS1rbVdrY25jSjZO?oc=5)
-
-2026-04-06 <span class="news-indication-tag">MS</span>
-
-來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnlCMlBOVmw0cEQxa1lHVUp0aDFRU0lJdkhaMWpEdTVYYjlvZllPTW0xZFZZWE8tZmVZdWh5WndsbHh4aU9MVDNPelRYcTdMT0hubEU0cmcwWnBSc3NPbEVxdmkzRkNHUVpZX1JPMTdYNlhXUmZITW8zb01ISVljcDZISWhQOXRxbS1rbVdrY25jSjZO?oc=5)
-
----
-
 ### [Weight-loss jabs put gyms out of business in South Korea - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3d3cFJJemVMNFZJbm1udFEyMFh4Vjg1Y2w3b3J5Nl9hakFPdFBvVGVVVnBka1lMNlJETmt2U2lNS2lSeDBodGNGWTlkV0FSWkRVTE4zUlN1NHpIUEZlTThjTHQyNFplUm50VDRqRndHTENsVlk5TDBHRXhkM1JRc19pS2c0QlhqcFFoNllXaTg4cjEwc2phZGdYUHpOUFRMaS1iNUlzeXprUGkxR1RN?oc=5)
-
----
-
-### [El virus más común de la mononucleosis se relaciona con la esclerosis múltiple - La Voz de Galicia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSnJ3M21XMDVhcjVRQWx6NVl3MGswMHVaclpKNlJqUTFJd3BGNHUyUm9KNG93aW9GX2VUeGZQLUtObERGZWJ4WUlfTWJtN3pxSGk1M0ZwejNMQ1JXbGYwZlJtZE81V1U3aDBTbWtUWGJKRzU3OVNucGxjdWdZU05adjhqUXJXSFM2b0tYeWd6VlFBdFRqaVFKVGRkQ3pRZ0pxMGEtU2liaWNlU0xBVjBUczRlWmhGRk51VklfOUhLazI3V2x4MkQyX1I4YU5mY2NEZG9mVExhd0JQVFZManJnSjB2THlzV3R5bmp3dXhjUzZCUQ?oc=5)
-
-2026-04-06 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSnJ3M21XMDVhcjVRQWx6NVl3MGswMHVaclpKNlJqUTFJd3BGNHUyUm9KNG93aW9GX2VUeGZQLUtObERGZWJ4WUlfTWJtN3pxSGk1M0ZwejNMQ1JXbGYwZlJtZE81V1U3aDBTbWtUWGJKRzU3OVNucGxjdWdZU05adjhqUXJXSFM2b0tYeWd6VlFBdFRqaVFKVGRkQ3pRZ0pxMGEtU2liaWNlU0xBVjBUczRlWmhGRk51VklfOUhLazI3V2x4MkQyX1I4YU5mY2NEZG9mVExhd0JQVFZManJnSjB2THlzV3R5bmp3dXhjUzZCUQ?oc=5)
 
 ---
 
@@ -116,27 +92,27 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [El cambio en la rutina nocturna que podría duplicar el riesgo de infarto, según científicos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk9lZ0poNkdteGxOSnRMWmNtUVg5VFNOZTg3bk5pRlRTal9fYjJGUjZTSE1FOGtxX294Y2lpcEx3X05ZLUdLVERmM1BldHJpT0VOMGN4MFE4N2RfM1FUWDRQVmVHNU5DSTVkYVZ4R2pfa3ptRmJMX25nb3NsY3owYzJCSGRiTHczOXpqZXlhc0xKRGVJd29MRUpFZ0tQUkI1VmxJQnlVVUVNdjd6MDBQR3N4cWxEV1pTeUY1Y2EycWFNcklXRnEtUi1KejfSAecBQVVfeXFMTjJQMUhSSEFlNm5Td0VaZnZUMkM1UUZJME96eS1FVFdEXy10dEFnNFBHUy1Zd2RzWlMxcTRBY0ota1R4VnRZLU9Hd2Vka0t0QkJ2OFdmVk16QVlHV1ZGOGhxV3Q4NVpHZGdXNld5M2tuaG81NGpIZkl5THVwSmlubUZTYTZkZV94LXM1UHhuay1DTHVDdE5xN2pZYndaNjVXVFc3MTk1TlZ1VGVUMU41Zk13YU9hTXViMjc5UDFZWDhqczRfcVhNMmN6VWpYRGl6dWlOc0NkX3loeDhES0NjbXJJenZscHVR?oc=5)
+### ['Pruritus ani' is the bumhole issue 61% of men have — but won't get checked out](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ09tWUQtbDEtazVhNklhNUduMmNDUGQ3OUFkOWxIclk4MzBITXlHa0xNUjRMMlZ3VHRzNGQyYTBBS0RZOUhXUWprWEFmUVpfblJvRnpIS2RSVDJmRjFTdC1WSFZPaDUtRFNBcGZOV0oxczN3eUczSGJUOXNuZGM5VjZFVkZHbzc0ellUUVBJQXpPM1VO0gGaAUFVX3lxTE1qT0RXMFpkZVlWRGZvVms1ZFhLS3YzR3Nrb3JvZE9zUW95TmtxYWlZdW5XUmxzSXlXeU1uUVJCR1pmXzQta2sycWNqd3BTaklpYkNlQ3FhcjlqVjZ2SXl3T2ptbFJFX2VBb0JnVE5GZjFkZnE0OHZONjA2UHJNWjBkdDlSanBBNk9yXzA3YXNCSFpva2hlX3ZlUUE?oc=5)
 
-2026-04-05 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+2026-04-06 <span class="news-indication-tag">MS</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk9lZ0poNkdteGxOSnRMWmNtUVg5VFNOZTg3bk5pRlRTal9fYjJGUjZTSE1FOGtxX294Y2lpcEx3X05ZLUdLVERmM1BldHJpT0VOMGN4MFE4N2RfM1FUWDRQVmVHNU5DSTVkYVZ4R2pfa3ptRmJMX25nb3NsY3owYzJCSGRiTHczOXpqZXlhc0xKRGVJd29MRUpFZ0tQUkI1VmxJQnlVVUVNdjd6MDBQR3N4cWxEV1pTeUY1Y2EycWFNcklXRnEtUi1KejfSAecBQVVfeXFMTjJQMUhSSEFlNm5Td0VaZnZUMkM1UUZJME96eS1FVFdEXy10dEFnNFBHUy1Zd2RzWlMxcTRBY0ota1R4VnRZLU9Hd2Vka0t0QkJ2OFdmVk16QVlHV1ZGOGhxV3Q4NVpHZGdXNld5M2tuaG81NGpIZkl5THVwSmlubUZTYTZkZV94LXM1UHhuay1DTHVDdE5xN2pZYndaNjVXVFc3MTk1TlZ1VGVUMU41Zk13YU9hTXViMjc5UDFZWDhqczRfcVhNMmN6VWpYRGl6dWlOc0NkX3loeDhES0NjbXJJenZscHVR?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ09tWUQtbDEtazVhNklhNUduMmNDUGQ3OUFkOWxIclk4MzBITXlHa0xNUjRMMlZ3VHRzNGQyYTBBS0RZOUhXUWprWEFmUVpfblJvRnpIS2RSVDJmRjFTdC1WSFZPaDUtRFNBcGZOV0oxczN3eUczSGJUOXNuZGM5VjZFVkZHbzc0ellUUVBJQXpPM1VO0gGaAUFVX3lxTE1qT0RXMFpkZVlWRGZvVms1ZFhLS3YzR3Nrb3JvZE9zUW95TmtxYWlZdW5XUmxzSXlXeU1uUVJCR1pmXzQta2sycWNqd3BTaklpYkNlQ3FhcjlqVjZ2SXl3T2ptbFJFX2VBb0JnVE5GZjFkZnE0OHZONjA2UHJNWjBkdDlSanBBNk9yXzA3YXNCSFpva2hlX3ZlUUE?oc=5)
 
 ---
 
-### ['I welcomed my twins at 51 - people think I'm their gran but I don't care'](https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0x0cFdvQ1ZXX1dHcS14T2ZQUUw4cW03dTZpY3FLYXhjYmhJTjBaaFViQW5mZW1WcXlmNGcyRXZYaXNQUG9fZFR4ZkJWQVNsOHVPUS1Ca2J0S3FLQzBfYzVqQ21jaGFNbDhCdE0yTld4b1BIeVJKNnl0S2ROVTJrUGk4VGdRbzFFOTk3TtIBkgFBVV95cUxPSHBWYm1oeWxrMm5kRm45WndHR1d5YWk0c29yeWZkMGwwWGhaXzNMcmw3TTlVdVdROE5TR0hGNXhTZHVVRldHcWlxZV83QzVKYVFFR0ZWMTlrRkpoQldoOUNPcnB4a2l5bjdaaWZNcS14LWM1MkNSb05adXcxLU81T0stWGlIMDNlcTJyTXRHLWgwUQ?oc=5)
+### [Condom shortage hits Kwahu Obomeng - Report](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQkc2eDA5Smh6M250RmdGNl9QNHZqWDA4WUgtNGhMOXc1NkZOb2dFQkt4eGNnOGNBaW5DaXlKWm1FcVEtQVpBWWdNTVJwR1BzbWc4YWZBNGJ3QV9zQmhfYWVlVWlKZXBSSFgtWEVndm8taWF3YnVqem9hYXdRemZkN2xPYlBuVGNQR3Y3aWNoZmFsUGY4WEkxOTBxWDBMek53Z3c?oc=5)
+
+2026-04-05 <span class="news-indication-tag">MS</span>
+
+來源：[GhanaWeb](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQkc2eDA5Smh6M250RmdGNl9QNHZqWDA4WUgtNGhMOXc1NkZOb2dFQkt4eGNnOGNBaW5DaXlKWm1FcVEtQVpBWWdNTVJwR1BzbWc4YWZBNGJ3QV9zQmhfYWVlVWlKZXBSSFgtWEVndm8taWF3YnVqem9hYXdRemZkN2xPYlBuVGNQR3Y3aWNoZmFsUGY4WEkxOTBxWDBMek53Z3c?oc=5)
+
+---
+
+### ['I welcomed my twins at 51 - people think I'm their gran but I don't care' - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0x0cFdvQ1ZXX1dHcS14T2ZQUUw4cW03dTZpY3FLYXhjYmhJTjBaaFViQW5mZW1WcXlmNGcyRXZYaXNQUG9fZFR4ZkJWQVNsOHVPUS1Ca2J0S3FLQzBfYzVqQ21jaGFNbDhCdE0yTld4b1BIeVJKNnl0S2ROVTJrUGk4VGdRbzFFOTk3TtIBkgFBVV95cUxPSHBWYm1oeWxrMm5kRm45WndHR1d5YWk0c29yeWZkMGwwWGhaXzNMcmw3TTlVdVdROE5TR0hGNXhTZHVVRldHcWlxZV83QzVKYVFFR0ZWMTlrRkpoQldoOUNPcnB4a2l5bjdaaWZNcS14LWM1MkNSb05adXcxLU81T0stWGlIMDNlcTJyTXRHLWgwUQ?oc=5)
 
 2026-04-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0x0cFdvQ1ZXX1dHcS14T2ZQUUw4cW03dTZpY3FLYXhjYmhJTjBaaFViQW5mZW1WcXlmNGcyRXZYaXNQUG9fZFR4ZkJWQVNsOHVPUS1Ca2J0S3FLQzBfYzVqQ21jaGFNbDhCdE0yTld4b1BIeVJKNnl0S2ROVTJrUGk4VGdRbzFFOTk3TtIBkgFBVV95cUxPSHBWYm1oeWxrMm5kRm45WndHR1d5YWk0c29yeWZkMGwwWGhaXzNMcmw3TTlVdVdROE5TR0hGNXhTZHVVRldHcWlxZV83QzVKYVFFR0ZWMTlrRkpoQldoOUNPcnB4a2l5bjdaaWZNcS14LWM1MkNSb05adXcxLU81T0stWGlIMDNlcTJyTXRHLWgwUQ?oc=5)
-
----
-
-### [Alzheimer, MS, Tumoren: Immunsystem im Gehirn reagiert ähnlich - smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSy1CU3YteWJ3S201dkw0RXRHaVZqWWV6cF9wSHpGd3I1emw1a21sSGMxUHFhWldPakZwbkRuc1ItSFRVWFdVY3RibDlVdnJ2dXlkS21pbkpvTGVXUWxxQzdRRXhaQzhCS3hpcWpHQW1HbnVqUXQ1dmZsekFZM0J1R2lEZG1LUkJiZXhielFFQ3A3bFc4UHVFc09DVWw?oc=5)
-
-2026-04-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSy1CU3YteWJ3S201dkw0RXRHaVZqWWV6cF9wSHpGd3I1emw1a21sSGMxUHFhWldPakZwbkRuc1ItSFRVWFdVY3RibDlVdnJ2dXlkS21pbkpvTGVXUWxxQzdRRXhaQzhCS3hpcWpHQW1HbnVqUXQ1dmZsekFZM0J1R2lEZG1LUkJiZXhielFFQ3A3bFc4UHVFc09DVWw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0x0cFdvQ1ZXX1dHcS14T2ZQUUw4cW03dTZpY3FLYXhjYmhJTjBaaFViQW5mZW1WcXlmNGcyRXZYaXNQUG9fZFR4ZkJWQVNsOHVPUS1Ca2J0S3FLQzBfYzVqQ21jaGFNbDhCdE0yTld4b1BIeVJKNnl0S2ROVTJrUGk4VGdRbzFFOTk3TtIBkgFBVV95cUxPSHBWYm1oeWxrMm5kRm45WndHR1d5YWk0c29yeWZkMGwwWGhaXzNMcmw3TTlVdVdROE5TR0hGNXhTZHVVRldHcWlxZV83QzVKYVFFR0ZWMTlrRkpoQldoOUNPcnB4a2l5bjdaaWZNcS14LWM1MkNSb05adXcxLU81T0stWGlIMDNlcTJyTXRHLWgwUQ?oc=5)
 
 ---
 
@@ -145,22 +121,6 @@ permalink: /news/pibrentasvir/
 2026-04-05 <span class="news-indication-tag">MS</span>
 
 來源：[Top Santé](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNGthWWREcjJOX0JGS1lNekNIX0tobDh5MndkSmF5dUM5T21pNUNUc2d3aVpSb1dRMG1JMjJZZkxRQ0hJWXlYNndqY1Z1YlRqYzk4c2NWYkh1Y3psN3dpU09jRDJBcFBDeE5KSHRMRzF5TW0wRGNvajBXbnhKamJOcUJ0WnlTSGhPS1VicTYxRXJXb0hQUFdGeHFpZXRtOFNZZ25oTmRSd3UyWmpnNFlUSXZfTTJYaVhhN0VyVGVUZmdGM0M1bUFwbnZJWWIwNGR5VFp0WVFRRzhxcmJQb3dtWE9DLTBRNGd4eXpsQjhB?oc=5)
-
----
-
-### [Effekte von Multivitaminen auf epigenetische Uhren gefunden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0RUeHllcGFMd3pGSzBvRnVoUGVYbnk5OWZCcEllMk9ubXV2MTh0bU04QlZTa2RLakNaN2FNOVNzNHpEYklldXB6ZDdUbk05cnN1aW9WNVhkclBMR3JWRFo3TGFBZ3dFTm9YS2haLS1wUmlRTUoxazVhcGlfcUFSZFpNaFM2SnhGdmpYQmVTWVB5SDg3TjVxVWxESk1GWkxCLVl2N2dhaC1hN2N5R0VnQkRsZFBVaU5WM2VvcDNqTkNTajRWbGFV?oc=5)
-
-2026-04-02 <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0RUeHllcGFMd3pGSzBvRnVoUGVYbnk5OWZCcEllMk9ubXV2MTh0bU04QlZTa2RLakNaN2FNOVNzNHpEYklldXB6ZDdUbk05cnN1aW9WNVhkclBMR3JWRFo3TGFBZ3dFTm9YS2haLS1wUmlRTUoxazVhcGlfcUFSZFpNaFM2SnhGdmpYQmVTWVB5SDg3TjVxVWxESk1GWkxCLVl2N2dhaC1hN2N5R0VnQkRsZFBVaU5WM2VvcDNqTkNTajRWbGFV?oc=5)
-
----
-
-### [ECIM 2026 - 24th European Congress of Internal Medicine - 25. bis 28. März Heilung der chronischen Hepatitis B in Sicht - Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3preXd5d3NGUG1MNVFuZkoxY0daT09Ub0J5d1BNZFhuR2JVOVE0Q1RnNjQwNk5JZDJPTXFZYXBfVlZHblRSSWxMLURnTHlUNDlWUWZMT1FqbHowZlFKVFd5MXVKdjhFLXdUa01RUzBRTUwyLUcya3IweGRZNDBkd1BpWE5XTjdkMWo3SWloc3k5cG5QRXIxaGJaY25xckVsWXducnpCZnlSSTFXbmFZZGdNOWxSbUJfMTlGYVNyNGtfOWZOSUpwRXhYTXVWclB5bHFhcUdMR1lYX0tqclhQT2NJTUxlRkZ0Wnc?oc=5)
-
-2026-04-02 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3preXd5d3NGUG1MNVFuZkoxY0daT09Ub0J5d1BNZFhuR2JVOVE0Q1RnNjQwNk5JZDJPTXFZYXBfVlZHblRSSWxMLURnTHlUNDlWUWZMT1FqbHowZlFKVFd5MXVKdjhFLXdUa01RUzBRTUwyLUcya3IweGRZNDBkd1BpWE5XTjdkMWo3SWloc3k5cG5QRXIxaGJaY25xckVsWXducnpCZnlSSTFXbmFZZGdNOWxSbUJfMTlGYVNyNGtfOWZOSUpwRXhYTXVWclB5bHFhcUdMR1lYX0tqclhQT2NJTUxlRkZ0Wnc?oc=5)
 
 ---
 
