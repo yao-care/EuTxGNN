@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### ["Hasta dos tercios de los pacientes infartados desarrollan depresión" - Redacción Médica](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3c5M0RiUmhVRnZoQ25HdXNZY2dVdEZnSF9jNmpPRG53cVNKV3ZRamFWMTRneVpqRUFMbGNhRnY2R1Z1ejRUbVR6YlpFZ2FlRVRHZXJqd19hcngwLU10dXZ3dUFHZjJ1bHc4cW5VNjM3NVg0aEZ0SkVvWWxzMGNUQkc0XzR2UXpheVZOeW9vMWlrV1ZXYkI1VDNhaVNyeER1Rnd1WThEUXcwa0pPb1RLcHljb2g3NFBfdEJiRjBOU2dIS0Rq0gHEAUFVX3lxTE9ERTYzQ3lNVXZNQ2EtZ3dGTkRCdzNLRTVJMHd5bjc3XzR1WHN4TlhvVVBWSUFaWDZ3bDVlQ01fTWtEUENseHpQdXdIbE8tUUJhR241cGUzekl0TEpxOWxjZVZqY3R1RmRzd2h0eDBlcm1mNzZQbkFxR1lBajkxUkd2Vm1ZTGxzblFzalhNLXFWVjc2bExzajc4eDVkM0VpUmgxOEVuMmN1Z2h1RndGd2RzYzBYaUwzWk03dEw4V1U1NW5NeUE?oc=5)
+
+2026-04-07 <span class="news-indication-tag">depresión</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3c5M0RiUmhVRnZoQ25HdXNZY2dVdEZnSF9jNmpPRG53cVNKV3ZRamFWMTRneVpqRUFMbGNhRnY2R1Z1ejRUbVR6YlpFZ2FlRVRHZXJqd19hcngwLU10dXZ3dUFHZjJ1bHc4cW5VNjM3NVg0aEZ0SkVvWWxzMGNUQkc0XzR2UXpheVZOeW9vMWlrV1ZXYkI1VDNhaVNyeER1Rnd1WThEUXcwa0pPb1RLcHljb2g3NFBfdEJiRjBOU2dIS0Rq0gHEAUFVX3lxTE9ERTYzQ3lNVXZNQ2EtZ3dGTkRCdzNLRTVJMHd5bjc3XzR1WHN4TlhvVVBWSUFaWDZ3bDVlQ01fTWtEUENseHpQdXdIbE8tUUJhR241cGUzekl0TEpxOWxjZVZqY3R1RmRzd2h0eDBlcm1mNzZQbkFxR1lBajkxUkd2Vm1ZTGxzblFzalhNLXFWVjc2bExzajc4eDVkM0VpUmgxOEVuMmN1Z2h1RndGd2RzYzBYaUwzWk03dEw4V1U1NW5NeUE?oc=5)
+
+---
 
 ### [ADHS & PMS: Bettina erlebt ihre Periode „wie eine kleine Depression“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/duloxetine-hydrochloride/
 
 ---
 
-### [Un fármaco investigado para la depresión logra frenar la progresión del glaucoma](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTMtQXpOc3ZQNU1CcVFDVV9RUDZIZjladERxcnNvdFpvQjdOdnRaM1RDYkpBMnlTR3FHbFN3Z0Vrb1lUM3dSR3ZwTEdtZFo3c0Fpd1V6RTN1bDRabHYtZkRMbl9XN3V2MFdyNmN4ekxtLVE3RzJXZlFESV9vcDY1THVsUUVsSXY2TFdYTVB2SzE5emtlSGRFTG9sWlI0ZEtZTVZQeTVfSS1mLUpKX2J5RmhIMA?oc=5)
+### [Depressionen: KI erleichtert Wahl des geeigneten Wirkstoffs – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG9NZl9xTnh6UUtPZDlMNFU4U3ljWmdUVVRGR01fRndXaUVxOEZCWVZMWDl6V2VkTGt4bWhXU0Noa3dQS01NS2FPNDVzWTQ2Z2JPWi1BdTN1LXpQYXVXYjlucWtPbU0wNHRGVTM0bEJMYVA3dUVuamx3QnNLMVgzUEl3dExYNXlkRXRxUTl1VEhjU29tMlNSSXdlc19DNXNWSUhNc01zcHZLX0VNR2hiYmlxTldXYXpFUEZNdnNMRFh4eWlLVXc?oc=5)
 
-2026-04-06 <span class="news-indication-tag">depresión</span>
+2026-04-01 <span class="news-indication-tag">depression</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTMtQXpOc3ZQNU1CcVFDVV9RUDZIZjladERxcnNvdFpvQjdOdnRaM1RDYkpBMnlTR3FHbFN3Z0Vrb1lUM3dSR3ZwTEdtZFo3c0Fpd1V6RTN1bDRabHYtZkRMbl9XN3V2MFdyNmN4ekxtLVE3RzJXZlFESV9vcDY1THVsUUVsSXY2TFdYTVB2SzE5emtlSGRFTG9sWlI0ZEtZTVZQeTVfSS1mLUpKX2J5RmhIMA?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG9NZl9xTnh6UUtPZDlMNFU4U3ljWmdUVVRGR01fRndXaUVxOEZCWVZMWDl6V2VkTGt4bWhXU0Noa3dQS01NS2FPNDVzWTQ2Z2JPWi1BdTN1LXpQYXVXYjlucWtPbU0wNHRGVTM0bEJMYVA3dUVuamx3QnNLMVgzUEl3dExYNXlkRXRxUTl1VEhjU29tMlNSSXdlc19DNXNWSUhNc01zcHZLX0VNR2hiYmlxTldXYXpFUEZNdnNMRFh4eWlLVXc?oc=5)
 
 ---
 

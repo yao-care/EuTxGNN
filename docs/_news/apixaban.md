@@ -14,7 +14,7 @@ permalink: /news/apixaban/
 ---
 
 <p class="key-answer" data-question="Apixaban 有什麼相關新聞？">
-<strong>Apixaban</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Apixaban</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/apixaban/
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [El estudio que marca un antes y un después: controlar la hipertensión con este método reduce ictus y muertes en miles de pacientes - El Economista](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNYmpRcHFYbkFsRE93Tko2OUxIYWVVZ29DbU8wd0ZtOWdXOURpWlE5U3d0OE4yX3prd0ltUkQxRVJScWdsbHZodmhQczZQTXpsRnQ3Y0hXR0QwTmxPNkVqS3dENEJiN21SMUJKeHVvT2JRa0cycjJ2Ri1FS01aLXRGTHZ5cElXSUxSMTFIaEJsblFJZjVWbF9kTlhKcDBOUEdHSUJfWW02NHFUajNpZXI4VEZ3LW14RVJTV05YMWpXSkZYQUlSQjBEOTdzX2UyNldhREltcVNReDVIeUFyRXhDY3NxUEprdmx2UGN4RGhIcTRQUXRtMlNuQnhqSC1rVG42SVlrSWdOVjBYeEdLUEEtUzdRc1NEcWVJd1lpT2VHdk40NXoyV0Y5RElIMXRIR3FUdG5CZG9JWUZ2cnc?oc=5)
 
@@ -62,9 +62,17 @@ permalink: /news/apixaban/
 
 ### [Un estudio asocia la apnea obstructiva del sueño con la mortalidad por todas las causas y los eventos cardiovasculares - Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
 
-2026-04-06 <span class="news-indication-tag">hipertensión</span>
+2026-04-06 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWDNBX0JWYjFJVldBRncyUm14cFQ1X1dMQzJXcHNWZlRacWFfc0xXd0pSQ29Mc1BCbDVjWF90VUw4R21tdkNJMm85X2h5N1VYY1lST0JodzJpWm5kbmtKU0Z3Z0c5aUl0eGZLbHFtZlZDSnF0UmpYeTdGREdQQWhnOHlrVmRKaWlhYmtCM0ZuV1BTWWxxaE5JSjRSTFBfRnVaTDZCZm4wYlh6Nzg4U01iM0h5YzVsX0dRQXlUNWY4dDg2bjhZUzJHdUFjdlFjU1pLZVZIYVlyYVpZU2lFU2M2MlZnV2M0bUlaWG5wZmduQVd2bFU?oc=5)
+
+---
+
+### [Antikoagulanzien: Apixaban führt seltener zu Blutungen als Rivaroxaban – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
+
+2026-03-31 <span class="news-drug-tag">Apixaban</span> <span class="news-drug-tag">Rivaroxaban</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzAzbUE1X1l1TXJudVhuZ2ZOdXp4Qmd3dldSNExlX1FXTUk3WFdzRkd5cW5FZXJOcUhBdHdDQnpZdVNkbUVWcVo5TUg4VERhNEU1cmZ5N3BfUjRYVEZ1c0tONm41NUpFR3FfOXNoXzNSYkM5R3lycGQ3SHhMbXBvdWdsTUFucWxRTE9KdjVITW4wMC1Nc0pvWGJhbTg1MzdvS2ZCWG9RdVJFQkdXajlvbC1TaWlUNUpiZVJ6RUdkNkRNMWFiUkFZM2tWU3JySnF4NmFlZg?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,13 +53,21 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Litorale, sequestrate dai Nas 156 confezioni di conserva a rischio botulino - la Repubblica](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLURXNUFTY00tQmhDclJvWWJLNkpfNlhEVHBibDFNXzFBVmdXaHRZOXIwUkF3T1VuVHNNVV9FUFFUSF9NMlB4OE95azVVMU01U2RYbHByekpNYmRWeTU5M0VlMmhuOUk4Nk15MWxneE16WDZPY1NIMVN0ZXVabmVkTjZwVGxjUGFGbk9WekFMNmxFSGZVbzR6NFVpcGh1OHBTRHNqcW5FLTB6S3RYUWRISkZ6ODdFMWxORGtZ0gHAAUFVX3lxTE1NQWV4UkFpb0dfcllLMFpZTmlrSjRPN2V4TV9mSzNXV2V2ZHNkWlVxbS16WF9aZW1Bd1JGRVk3QXFMTC14UkRDdjZGMk1kbktua1l3NThLN2diUWlaT1diRUdYWU5pam5NQnFFR1JXOHJIWkw1akM3VUhvVklRcXNqaXZvV3FrRk9IZ0NUdHpBYmxJcG1rZ2Q1ZkJ3WXhlZnAxS0VGbVNfamFaZTVGSjVrNVpnaDBOU09JSWNRWGswcw?oc=5)
 
 2026-04-06
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLURXNUFTY00tQmhDclJvWWJLNkpfNlhEVHBibDFNXzFBVmdXaHRZOXIwUkF3T1VuVHNNVV9FUFFUSF9NMlB4OE95azVVMU01U2RYbHByekpNYmRWeTU5M0VlMmhuOUk4Nk15MWxneE16WDZPY1NIMVN0ZXVabmVkTjZwVGxjUGFGbk9WekFMNmxFSGZVbzR6NFVpcGh1OHBTRHNqcW5FLTB6S3RYUWRISkZ6ODdFMWxORGtZ0gHAAUFVX3lxTE1NQWV4UkFpb0dfcllLMFpZTmlrSjRPN2V4TV9mSzNXV2V2ZHNkWlVxbS16WF9aZW1Bd1JGRVk3QXFMTC14UkRDdjZGMk1kbktua1l3NThLN2diUWlaT1diRUdYWU5pam5NQnFFR1JXOHJIWkw1akM3VUhvVklRcXNqaXZvV3FrRk9IZ0NUdHpBYmxJcG1rZ2Q1ZkJ3WXhlZnAxS0VGbVNfamFaZTVGSjVrNVpnaDBOU09JSWNRWGswcw?oc=5)
+
+---
+
+### [ECIM 2026 - 24th European Congress of Internal Medicine - 25. bis 28. März Heilung der chronischen Hepatitis B in Sicht - Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3preXd5d3NGUG1MNVFuZkoxY0daT09Ub0J5d1BNZFhuR2JVOVE0Q1RnNjQwNk5JZDJPTXFZYXBfVlZHblRSSWxMLURnTHlUNDlWUWZMT1FqbHowZlFKVFd5MXVKdjhFLXdUa01RUzBRTUwyLUcya3IweGRZNDBkd1BpWE5XTjdkMWo3SWloc3k5cG5QRXIxaGJaY25xckVsWXducnpCZnlSSTFXbmFZZGdNOWxSbUJfMTlGYVNyNGtfOWZOSUpwRXhYTXVWclB5bHFhcUdMR1lYX0tqclhQT2NJTUxlRkZ0Wnc?oc=5)
+
+2026-04-02
+
+來源：[Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3preXd5d3NGUG1MNVFuZkoxY0daT09Ub0J5d1BNZFhuR2JVOVE0Q1RnNjQwNk5JZDJPTXFZYXBfVlZHblRSSWxMLURnTHlUNDlWUWZMT1FqbHowZlFKVFd5MXVKdjhFLXdUa01RUzBRTUwyLUcya3IweGRZNDBkd1BpWE5XTjdkMWo3SWloc3k5cG5QRXIxaGJaY25xckVsWXducnpCZnlSSTFXbmFZZGdNOWxSbUJfMTlGYVNyNGtfOWZOSUpwRXhYTXVWclB5bHFhcUdMR1lYX0tqclhQT2NJTUxlRkZ0Wnc?oc=5)
 
 ---
 

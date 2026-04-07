@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cobicistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Litorale, sequestrate dai Nas 156 confezioni di conserva a rischio botulino - la Repubblica](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLURXNUFTY00tQmhDclJvWWJLNkpfNlhEVHBibDFNXzFBVmdXaHRZOXIwUkF3T1VuVHNNVV9FUFFUSF9NMlB4OE95azVVMU01U2RYbHByekpNYmRWeTU5M0VlMmhuOUk4Nk15MWxneE16WDZPY1NIMVN0ZXVabmVkTjZwVGxjUGFGbk9WekFMNmxFSGZVbzR6NFVpcGh1OHBTRHNqcW5FLTB6S3RYUWRISkZ6ODdFMWxORGtZ0gHAAUFVX3lxTE1NQWV4UkFpb0dfcllLMFpZTmlrSjRPN2V4TV9mSzNXV2V2ZHNkWlVxbS16WF9aZW1Bd1JGRVk3QXFMTC14UkRDdjZGMk1kbktua1l3NThLN2diUWlaT1diRUdYWU5pam5NQnFFR1JXOHJIWkw1akM3VUhvVklRcXNqaXZvV3FrRk9IZ0NUdHpBYmxJcG1rZ2Q1ZkJ3WXhlZnAxS0VGbVNfamFaZTVGSjVrNVpnaDBOU09JSWNRWGswcw?oc=5)
 
 2026-04-06 <span class="news-indication-tag">epatite</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLURXNUFTY00tQmhDclJvWWJLNkpfNlhEVHBibDFNXzFBVmdXaHRZOXIwUkF3T1VuVHNNVV9FUFFUSF9NMlB4OE95azVVMU01U2RYbHByekpNYmRWeTU5M0VlMmhuOUk4Nk15MWxneE16WDZPY1NIMVN0ZXVabmVkTjZwVGxjUGFGbk9WekFMNmxFSGZVbzR6NFVpcGh1OHBTRHNqcW5FLTB6S3RYUWRISkZ6ODdFMWxORGtZ0gHAAUFVX3lxTE1NQWV4UkFpb0dfcllLMFpZTmlrSjRPN2V4TV9mSzNXV2V2ZHNkWlVxbS16WF9aZW1Bd1JGRVk3QXFMTC14UkRDdjZGMk1kbktua1l3NThLN2diUWlaT1diRUdYWU5pam5NQnFFR1JXOHJIWkw1akM3VUhvVklRcXNqaXZvV3FrRk9IZ0NUdHpBYmxJcG1rZ2Q1ZkJ3WXhlZnAxS0VGbVNfamFaZTVGSjVrNVpnaDBOU09JSWNRWGswcw?oc=5)
+
+---
+
+### [ECIM 2026 - 24th European Congress of Internal Medicine - 25. bis 28. März Heilung der chronischen Hepatitis B in Sicht - Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3preXd5d3NGUG1MNVFuZkoxY0daT09Ub0J5d1BNZFhuR2JVOVE0Q1RnNjQwNk5JZDJPTXFZYXBfVlZHblRSSWxMLURnTHlUNDlWUWZMT1FqbHowZlFKVFd5MXVKdjhFLXdUa01RUzBRTUwyLUcya3IweGRZNDBkd1BpWE5XTjdkMWo3SWloc3k5cG5QRXIxaGJaY25xckVsWXducnpCZnlSSTFXbmFZZGdNOWxSbUJfMTlGYVNyNGtfOWZOSUpwRXhYTXVWclB5bHFhcUdMR1lYX0tqclhQT2NJTUxlRkZ0Wnc?oc=5)
+
+2026-04-02 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Österreichische Ärztezeitung](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3preXd5d3NGUG1MNVFuZkoxY0daT09Ub0J5d1BNZFhuR2JVOVE0Q1RnNjQwNk5JZDJPTXFZYXBfVlZHblRSSWxMLURnTHlUNDlWUWZMT1FqbHowZlFKVFd5MXVKdjhFLXdUa01RUzBRTUwyLUcya3IweGRZNDBkd1BpWE5XTjdkMWo3SWloc3k5cG5QRXIxaGJaY25xckVsWXducnpCZnlSSTFXbmFZZGdNOWxSbUJfMTlGYVNyNGtfOWZOSUpwRXhYTXVWclB5bHFhcUdMR1lYX0tqclhQT2NJTUxlRkZ0Wnc?oc=5)
 
 ---
 

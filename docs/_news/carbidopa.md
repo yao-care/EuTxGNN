@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carbidopa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Three dementia signs you ‘shouldn’t ignore’ that have nothing to do with memory - Lancs Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUpYc2JZRTBvaExldUtjXy05T3hiRWdmbzdONXlBdkFqSkNjU3ZYQXlXOE9xYk5QeVpTMHlkMnNKbTl0RXc4VkpjaGZJYlFFN2ZGOTY3VkxtQVlRTWJ1ZVFNOEJ5dE1zbTBSUlJNWTJZU0JJR0twdWlfVU9NSzNVMThjVm55ZjlSTktJctIBkgFBVV95cUxNUFp3UFA2am9MdmROemk1U0FzSkExTmoyOHJ6Zm9FRHZJSnVpM2IxZFBZSWhBSWJYSHVCUHhMUE1mU3JFdlM3VHlXWUF2SmNrM0xuVkdZOXJvYzRicGk1Sm5mZUhVWjF1TVB5R2lua1VIeEtCX1JPWDBZZ3JQenIwYkFJa3NGb2FURlpnbHRUX3dTUQ?oc=5)
-
-2026-04-05 <span class="news-indication-tag">dementia</span>
-
-來源：[Lancs Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUpYc2JZRTBvaExldUtjXy05T3hiRWdmbzdONXlBdkFqSkNjU3ZYQXlXOE9xYk5QeVpTMHlkMnNKbTl0RXc4VkpjaGZJYlFFN2ZGOTY3VkxtQVlRTWJ1ZVFNOEJ5dE1zbTBSUlJNWTJZU0JJR0twdWlfVU9NSzNVMThjVm55ZjlSTktJctIBkgFBVV95cUxNUFp3UFA2am9MdmROemk1U0FzSkExTmoyOHJ6Zm9FRHZJSnVpM2IxZFBZSWhBSWJYSHVCUHhMUE1mU3JFdlM3VHlXWUF2SmNrM0xuVkdZOXJvYzRicGk1Sm5mZUhVWjF1TVB5R2lua1VIeEtCX1JPWDBZZ3JQenIwYkFJa3NGb2FURlpnbHRUX3dTUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
