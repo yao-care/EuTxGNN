@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,61 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
 
-### [El intestino, clave en el envejecimiento del cerebro y la memoria](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWdkQ3BqUjM2cmk0OEJQd2IwV0pxakRnRktYeFJiMFhJdFJPMDBFLWtmblp6bXBGdHdsb3F6VW1qZkFBLVh3QjRFeFJhQkk0OXRvb1NBUmk4T1ZaNE05QVRpOTJmV1pLQnpMaldSTmsyYjJDXzlySy15blRqNm42LVVPd1pMbmFZdmRMZ3Y5Y3R2QzVUVkVZQUFzTkMwc3JGSHp2SmU4VUI?oc=5)
+### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
+
+來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
+
+---
+
+### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+
+2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+
+---
+
+### [Virus from seafood is linked to a persistent eye disease in humans](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+
+2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[medicalxpress.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+
+---
+
+### [La Comunidad Valenciana supera las 105.000 vacunas frente al VPH en un año con pauta de dosis única](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0Z1OE02OHgteE5WSkMyVW5QZzRpS1JTbW1tYVFqUFF6dFVhZjMzMlFqVDl6dXpwNlJNaVdZaGxZNFlzdElmbjJucWM1bXJlX3h4RllUTE9uRkZsWmFkY20wQnlWbUpGeS0ycGdqb0lDaUVRc0kxYmlEX01TSnBobFIwMllJM3lYX0Y1QkxELXVlLUVSOW5MWWJEdzRfcWswbjlySHY0OUhta1RpT090VTRHeXkxbm96MHQ1SFhORzJBOFVrN0FoemZnWTZTTFZyLWVvTnFaWlRSbGlFMVhNZk85bEZRUQ?oc=5)
 
 2026-04-07 <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWdkQ3BqUjM2cmk0OEJQd2IwV0pxakRnRktYeFJiMFhJdFJPMDBFLWtmblp6bXBGdHdsb3F6VW1qZkFBLVh3QjRFeFJhQkk0OXRvb1NBUmk4T1ZaNE05QVRpOTJmV1pLQnpMaldSTmsyYjJDXzlySy15blRqNm42LVVPd1pMbmFZdmRMZ3Y5Y3R2QzVUVkVZQUFzTkMwc3JGSHp2SmU4VUI?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0Z1OE02OHgteE5WSkMyVW5QZzRpS1JTbW1tYVFqUFF6dFVhZjMzMlFqVDl6dXpwNlJNaVdZaGxZNFlzdElmbjJucWM1bXJlX3h4RllUTE9uRkZsWmFkY20wQnlWbUpGeS0ycGdqb0lDaUVRc0kxYmlEX01TSnBobFIwMllJM3lYX0Y1QkxELXVlLUVSOW5MWWJEdzRfcWswbjlySHY0OUhta1RpT090VTRHeXkxbm96MHQ1SFhORzJBOFVrN0FoemZnWTZTTFZyLWVvTnFaWlRSbGlFMVhNZk85bEZRUQ?oc=5)
 
 ---
 
-### [Virus from seafood is linked to a persistent eye disease in humans - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+### [Treprostinil-Inhalat bremst Lungenfibrose](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
 
-2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-07 <span class="news-indication-tag">MS</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
 
 ---
 
-### [Two thirds of men have 'pruritus ani' bumhole issue but won't get it checked out](https://news.google.com/rss/articles/CBMingFBVV95cUxNS3MtankzeG84U0NkWXJjeG5mcE9rYWNBRE01c1ZwaUJySWJXZ0k4THlfNGFzVUVvSzlOalpGSzNfNVhHSXhpSWswekgzSWxISnM4TzJnNjJ4bVpNNXVneElXd21sczFrTlZxWFFpaWdPZ2hjLW9KbjBrX2RYcEZ5VzRZODdteHlRODlFVVJBUXN2Q3lLZTk3V1A2dVBPZw?oc=5)
+### [Día Mundial de la Actividad Física - Ajuntament de Barcelona](https://news.google.com/rss/articles/CBMimgJBVV95cUxNUlFkT2x3ZEYwVHVreDg2cWNza2lySlp1VXFuQ0h3NVhtX0tyQjlCRmFIV01YdjVkTVR3VjNHbzhqLTJseHp4V093MmVla0M0VWlxaDVGc2tCRFp2bThEVlAyM3VlTEh2X1ppN0VabWF5LXZ0VlVyQ3FLNVlUSU92LUNXWUJHbWlvQnFwVVljU3dwaGI2d1REMFJILTd4VlZkTmp3eERIZUh6UVFyWWl6MFJIUkFOTVBja1dzSDR6M21YYzVUcGFOdHRnbVgyVFBDTWRDU0NFRVE5OGIwbTdNVDAzZ0VGdmpTUm1QUzdKU3pCVXVzWDFSSWFDdmhaR2U4eUpEeDMzTkx3UElxZ1NJTy1JSHZ4WkVSVmc?oc=5)
 
-2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-07 <span class="news-indication-tag">MS</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxNS3MtankzeG84U0NkWXJjeG5mcE9rYWNBRE01c1ZwaUJySWJXZ0k4THlfNGFzVUVvSzlOalpGSzNfNVhHSXhpSWswekgzSWxISnM4TzJnNjJ4bVpNNXVneElXd21sczFrTlZxWFFpaWdPZ2hjLW9KbjBrX2RYcEZ5VzRZODdteHlRODlFVVJBUXN2Q3lLZTk3V1A2dVBPZw?oc=5)
+來源：[Ajuntament de Barcelona](https://news.google.com/rss/articles/CBMimgJBVV95cUxNUlFkT2x3ZEYwVHVreDg2cWNza2lySlp1VXFuQ0h3NVhtX0tyQjlCRmFIV01YdjVkTVR3VjNHbzhqLTJseHp4V093MmVla0M0VWlxaDVGc2tCRFp2bThEVlAyM3VlTEh2X1ppN0VabWF5LXZ0VlVyQ3FLNVlUSU92LUNXWUJHbWlvQnFwVVljU3dwaGI2d1REMFJILTd4VlZkTmp3eERIZUh6UVFyWWl6MFJIUkFOTVBja1dzSDR6M21YYzVUcGFOdHRnbVgyVFBDTWRDU0NFRVE5OGIwbTdNVDAzZ0VGdmpTUm1QUzdKU3pCVXVzWDFSSWFDdmhaR2U4eUpEeDMzTkx3UElxZ1NJTy1JSHZ4WkVSVmc?oc=5)
+
+---
+
+### [Bastano 7 giorni di meditazione per riprogrammare cervello e corpo](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa25aWHBTa1dSTUNaZWp5dW03VzhxckNKaFJQUW9DdWNsWk02ay05X2FPZGNiZ3RwODV6N0dxV2R6cm9PYlR5V2JraTBsOXRqRlFvc2k5WWE2bEY0RmJvT243V1RmSHk5am16V3BSV2tacFBjWEJidU02ZE5YNWota0RyOTVoTTY1UHhjOTJadVQtMzJkNnduOGZfZVowdngxbnk4?oc=5)
+
+2026-04-07 <span class="news-indication-tag">MS</span>
+
+來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa25aWHBTa1dSTUNaZWp5dW03VzhxckNKaFJQUW9DdWNsWk02ay05X2FPZGNiZ3RwODV6N0dxV2R6cm9PYlR5V2JraTBsOXRqRlFvc2k5WWE2bEY0RmJvT243V1RmSHk5am16V3BSV2tacFBjWEJidU02ZE5YNWota0RyOTVoTTY1UHhjOTJadVQtMzJkNnduOGZfZVowdngxbnk4?oc=5)
 
 ---
 
@@ -76,11 +108,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### ["Moins il y a de soleil et plus il y a de sclérose en plaques" : les liens entre la maladie et la vitamine D décryptée par une chercheuse](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
+### ["Moins il y a de soleil et plus il y a de sclérose en plaques" : les liens entre la maladie et la vitamine D décryptée par une chercheuse - La République du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxPQjB4VVlDOEZJUHRINlktZWVzNEtzLVZPWV95cE4tTUprMGtzUDFkUktHWFFZUTlVSzdOdzg5R0Y1Q09DUlJ4S1JzelpyTEJVQUpfRDFuX2YxYzJBcUdqYW9tTUdyQXVEMjliQWRuMDVVU2JIMEZxQUZDSk5QUEI1ZXFIZUIzTndEVVNfbUdkT3U5S2FPR0YtQ3djR2ZUSzNXT2JGV0d2cjB3UC0zdzBvLVRLYmlzY09lMGJvZjZsYnpaQXpocEtfMkdxZ0hWTENoZXlvYU1ZRDl5eF9tdkZwR19EOTBLdXFOQVBiUUJYeHRpYTY4by1FNzVyMHkwMXhtdmFHVjY0VmRHa3pES201VTlqS3Vhdlk?oc=5)
 
 2026-04-07 <span class="news-indication-tag">sclérose en plaques</span>
 
-來源：[lejdc.fr](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
+來源：[La République du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxPQjB4VVlDOEZJUHRINlktZWVzNEtzLVZPWV95cE4tTUprMGtzUDFkUktHWFFZUTlVSzdOdzg5R0Y1Q09DUlJ4S1JzelpyTEJVQUpfRDFuX2YxYzJBcUdqYW9tTUdyQXVEMjliQWRuMDVVU2JIMEZxQUZDSk5QUEI1ZXFIZUIzTndEVVNfbUdkT3U5S2FPR0YtQ3djR2ZUSzNXT2JGV0d2cjB3UC0zdzBvLVRLYmlzY09lMGJvZjZsYnpaQXpocEtfMkdxZ0hWTENoZXlvYU1ZRDl5eF9tdkZwR19EOTBLdXFOQVBiUUJYeHRpYTY4by1FNzVyMHkwMXhtdmFHVjY0VmRHa3pES201VTlqS3Vhdlk?oc=5)
 
 ---
 
@@ -92,19 +124,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Santé cardiaque : des tout petits changements pour un si grand bénéfice](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVJiZERTUXNYY25fZzdmWWFmdWZ4Yjdlc2dZY2N3b05wd2ZzSlVnRG42ZTI4M0lJNlhGZmI2VUp2cU5XMmZUWWY5VEJGQ09oSE1nYmQzM1ZRUmdUUmoxQXFOU0FucWZOZVFhM0xBZ05pQ0p5UVhVS0o3aDNYeGpLelNKdWVXdUNLQ2ZtN29nU2RHX1Q0U2RqN1g5QWhJMjVra0tVWEJGcGdVMjNFZXViNjRoeVdfTVh3OXJvWg?oc=5)
+### [ADHS & PMS: Bettina erlebt ihre Periode „wie eine kleine Depression“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
 
-2026-04-06 <span class="news-indication-tag">MS</span>
+2026-04-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVJiZERTUXNYY25fZzdmWWFmdWZ4Yjdlc2dZY2N3b05wd2ZzSlVnRG42ZTI4M0lJNlhGZmI2VUp2cU5XMmZUWWY5VEJGQ09oSE1nYmQzM1ZRUmdUUmoxQXFOU0FucWZOZVFhM0xBZ05pQ0p5UVhVS0o3aDNYeGpLelNKdWVXdUNLQ2ZtN29nU2RHX1Q0U2RqN1g5QWhJMjVra0tVWEJGcGdVMjNFZXViNjRoeVdfTVh3OXJvWg?oc=5)
-
----
-
-### [Is there any need for amputee octopuses? | Brief letters - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPanA1N3hKb3ppdzFfRzF0NEFFM21ETjNraWVqU0pRZ0VfUFNYbXVVTVY1MnVDTXlINlN5RWZYbTE1UHBqZ0FFci1fRUsteWRuT2Y2emFGSl9uT0lhY2J5ak5GVG5sYzE4eHpuNDBIYVJCaTNUUmNLdXhHdlBmT1J5T256cldGci14anVGNzFB?oc=5)
-
-2026-04-06 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPanA1N3hKb3ppdzFfRzF0NEFFM21ETjNraWVqU0pRZ0VfUFNYbXVVTVY1MnVDTXlINlN5RWZYbTE1UHBqZ0FFci1fRUsteWRuT2Y2emFGSl9uT0lhY2J5ak5GVG5sYzE4eHpuNDBIYVJCaTNUUmNLdXhHdlBmT1J5T256cldGci14anVGNzFB?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
 
 ---
 

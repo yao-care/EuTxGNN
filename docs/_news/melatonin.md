@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Melatonin: Neue Leitlinien warnen Senioren vor Herzrisiken - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1Uzc0dsN2xkV2VEbFQ1REFQQ0xNZ21abS1MVHhaaFR0SDdvVTdZc2F0M193amRPNGFNdmhHeXhUaXNFODhEVVlEc2hlREhtTXVDSHJXZ1B2dDg4bHVpWlZVa2xKUHh3T2hSZmQtV1hhVEFrM0wxNjcxWkVWTUVhVVhhYkJjckhLcVRqeEVGUHVmcVlveG1DLVBHNWswUDBFX0s5VjNfOG9sREJVUFNQQmtIcTB0Tk0?oc=5)
+### [El año de consolidación de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMic0FVX3lxTE9CclQ3N0xFaDE4bFBzWndLYXdrckR0TC0wTWdEN0lzRTdnZ1dURFowdGVqYk5nS0xfZlAzREhWb1dQYkJXdXhNbkt4Yk12NlNoYzItTGNhcUQwZm5DN2RUYnN1bEhERldvSVc1LUdsZlB6bkk?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Melatonin</span>
+2026-04-08 <span class="news-indication-tag">obesidad</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1Uzc0dsN2xkV2VEbFQ1REFQQ0xNZ21abS1MVHhaaFR0SDdvVTdZc2F0M193amRPNGFNdmhHeXhUaXNFODhEVVlEc2hlREhtTXVDSHJXZ1B2dDg4bHVpWlZVa2xKUHh3T2hSZmQtV1hhVEFrM0wxNjcxWkVWTUVhVVhhYkJjckhLcVRqeEVGUHVmcVlveG1DLVBHNWswUDBFX0s5VjNfOG9sREJVUFNQQmtIcTB0Tk0?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMic0FVX3lxTE9CclQ3N0xFaDE4bFBzWndLYXdrckR0TC0wTWdEN0lzRTdnZ1dURFowdGVqYk5nS0xfZlAzREhWb1dQYkJXdXhNbkt4Yk12NlNoYzItTGNhcUQwZm5DN2RUYnN1bEhERldvSVc1LUdsZlB6bkk?oc=5)
+
+---
+
+### [Recomendaciones Bolsas internacionales Visión positiva sobre el desarrollo de medicamentos contra la obesidad pero de manera selectiva: OW en Eli Lilly, Chugai, Structure Therapeutics, Viking Therapeutics y Omada Health - Consenso del Mercado](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNTV82OGVmU0YydEhoS21xUDlSd1ViOGpHZ0lLVllScXRsSXJ1MXVvRnR2U3ZWbE1GR0Qxbm9lV0s3Ul9GLV8zbExYWUhZWXZwWUdic2JMb1dkeUlwa202eGItLVhQaWZyQi13WnpZZ1B2ZmpNWlJidUJUcFdIYk82TTdSNWJSZW5YM3hhMHlOUmtzS0VzaGlvVjJpcWRaRzQtaWxmc1ZuRzJ6THJuSDJlbGVCVXBWY1ZidkhEdi1zT0tKajJkbjgzZml2VThsRl9Sa2FyaGZGdEUxZmFSY3EtZFc1alFxZUNPQjFBa3Q1dUZ1SEdZZGIxR0Zjd2pOMEcyYkdsY0I0T1REbExTNWRmbnpQSVo5dm1OZDFURE9BaG40aXZkbVA4MktJNTMxckl1cmxPYV9hUkE0YzduWDdIMDM0dkMwTUFnMFZWSG9TWE9sRFV1ejh0V2VwVW5rb3RRZElfMlRtenM?oc=5)
+
+2026-04-07 <span class="news-indication-tag">obesidad</span>
+
+來源：[Consenso del Mercado](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNTV82OGVmU0YydEhoS21xUDlSd1ViOGpHZ0lLVllScXRsSXJ1MXVvRnR2U3ZWbE1GR0Qxbm9lV0s3Ul9GLV8zbExYWUhZWXZwWUdic2JMb1dkeUlwa202eGItLVhQaWZyQi13WnpZZ1B2ZmpNWlJidUJUcFdIYk82TTdSNWJSZW5YM3hhMHlOUmtzS0VzaGlvVjJpcWRaRzQtaWxmc1ZuRzJ6THJuSDJlbGVCVXBWY1ZidkhEdi1zT0tKajJkbjgzZml2VThsRl9Sa2FyaGZGdEUxZmFSY3EtZFc1alFxZUNPQjFBa3Q1dUZ1SEdZZGIxR0Zjd2pOMEcyYkdsY0I0T1REbExTNWRmbnpQSVo5dm1OZDFURE9BaG40aXZkbVA4MktJNTMxckl1cmxPYV9hUkE0YzduWDdIMDM0dkMwTUFnMFZWSG9TWE9sRFV1ejh0V2VwVW5rb3RRZElfMlRtenM?oc=5)
 
 ---
 

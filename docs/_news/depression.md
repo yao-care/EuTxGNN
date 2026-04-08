@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Desarrollan un nuevo opioide con alta eficacia analgésica sin depresión respiratoria ni síntomas de adicción](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbWZfZkppZTBIYjFkVG55VEVUOURMTzFSMFJ3MG56Nl9GZHE4RHdlZmY5UEZmWV90bHdkeXVabUFjbnZXbU1uY3dBdTR5RDBRQjlEdmRQaTJXS2tZTHFRVVNCdmphNEtZemc1cmQ4aFhycnBZU01QUmlJeWVTNnVCY1owM0ZnNlJzUHg3TXNKX1hqSC1DWllVaGtRN19xSFYzR3dvTHFNbU9jUlczWWJ3NG9HWTRhanBkYTFSa3ZvUm51T2ZPYnBiMFZmaEM1SGhvRHdyUlRUeHVvX3REVW5CRUxReThBUGRnWVE?oc=5)
 
@@ -50,6 +50,14 @@ permalink: /news/depression/
 2026-04-07
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3c5M0RiUmhVRnZoQ25HdXNZY2dVdEZnSF9jNmpPRG53cVNKV3ZRamFWMTRneVpqRUFMbGNhRnY2R1Z1ejRUbVR6YlpFZ2FlRVRHZXJqd19hcngwLU10dXZ3dUFHZjJ1bHc4cW5VNjM3NVg0aEZ0SkVvWWxzMGNUQkc0XzR2UXpheVZOeW9vMWlrV1ZXYkI1VDNhaVNyeER1Rnd1WThEUXcwa0pPb1RLcHljb2g3NFBfdEJiRjBOU2dIS0Rq0gHEAUFVX3lxTE9ERTYzQ3lNVXZNQ2EtZ3dGTkRCdzNLRTVJMHd5bjc3XzR1WHN4TlhvVVBWSUFaWDZ3bDVlQ01fTWtEUENseHpQdXdIbE8tUUJhR241cGUzekl0TEpxOWxjZVZqY3R1RmRzd2h0eDBlcm1mNzZQbkFxR1lBajkxUkd2Vm1ZTGxzblFzalhNLXFWVjc2bExzajc4eDVkM0VpUmgxOEVuMmN1Z2h1RndGd2RzYzBYaUwzWk03dEw4V1U1NW5NeUE?oc=5)
+
+---
+
+### [ADHS & PMS: Bettina erlebt ihre Periode „wie eine kleine Depression“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
+
+2026-04-06
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
 
 ---
 

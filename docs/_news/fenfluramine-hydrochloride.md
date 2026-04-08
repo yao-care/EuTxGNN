@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [El año de consolidación de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMic0FVX3lxTE9CclQ3N0xFaDE4bFBzWndLYXdrckR0TC0wTWdEN0lzRTdnZ1dURFowdGVqYk5nS0xfZlAzREhWb1dQYkJXdXhNbkt4Yk12NlNoYzItTGNhcUQwZm5DN2RUYnN1bEhERldvSVc1LUdsZlB6bkk?oc=5)
+
+2026-04-08 <span class="news-indication-tag">obesidad</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMic0FVX3lxTE9CclQ3N0xFaDE4bFBzWndLYXdrckR0TC0wTWdEN0lzRTdnZ1dURFowdGVqYk5nS0xfZlAzREhWb1dQYkJXdXhNbkt4Yk12NlNoYzItTGNhcUQwZm5DN2RUYnN1bEhERldvSVc1LUdsZlB6bkk?oc=5)
+
+---
+
+### [Recomendaciones Bolsas internacionales Visión positiva sobre el desarrollo de medicamentos contra la obesidad pero de manera selectiva: OW en Eli Lilly, Chugai, Structure Therapeutics, Viking Therapeutics y Omada Health - Consenso del Mercado](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNTV82OGVmU0YydEhoS21xUDlSd1ViOGpHZ0lLVllScXRsSXJ1MXVvRnR2U3ZWbE1GR0Qxbm9lV0s3Ul9GLV8zbExYWUhZWXZwWUdic2JMb1dkeUlwa202eGItLVhQaWZyQi13WnpZZ1B2ZmpNWlJidUJUcFdIYk82TTdSNWJSZW5YM3hhMHlOUmtzS0VzaGlvVjJpcWRaRzQtaWxmc1ZuRzJ6THJuSDJlbGVCVXBWY1ZidkhEdi1zT0tKajJkbjgzZml2VThsRl9Sa2FyaGZGdEUxZmFSY3EtZFc1alFxZUNPQjFBa3Q1dUZ1SEdZZGIxR0Zjd2pOMEcyYkdsY0I0T1REbExTNWRmbnpQSVo5dm1OZDFURE9BaG40aXZkbVA4MktJNTMxckl1cmxPYV9hUkE0YzduWDdIMDM0dkMwTUFnMFZWSG9TWE9sRFV1ejh0V2VwVW5rb3RRZElfMlRtenM?oc=5)
+
+2026-04-07 <span class="news-indication-tag">obesidad</span>
+
+來源：[Consenso del Mercado](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNTV82OGVmU0YydEhoS21xUDlSd1ViOGpHZ0lLVllScXRsSXJ1MXVvRnR2U3ZWbE1GR0Qxbm9lV0s3Ul9GLV8zbExYWUhZWXZwWUdic2JMb1dkeUlwa202eGItLVhQaWZyQi13WnpZZ1B2ZmpNWlJidUJUcFdIYk82TTdSNWJSZW5YM3hhMHlOUmtzS0VzaGlvVjJpcWRaRzQtaWxmc1ZuRzJ6THJuSDJlbGVCVXBWY1ZidkhEdi1zT0tKajJkbjgzZml2VThsRl9Sa2FyaGZGdEUxZmFSY3EtZFc1alFxZUNPQjFBa3Q1dUZ1SEdZZGIxR0Zjd2pOMEcyYkdsY0I0T1REbExTNWRmbnpQSVo5dm1OZDFURE9BaG40aXZkbVA4MktJNTMxckl1cmxPYV9hUkE0YzduWDdIMDM0dkMwTUFnMFZWSG9TWE9sRFV1ejh0V2VwVW5rb3RRZElfMlRtenM?oc=5)
+
+---
 
 
 <div class="disclaimer">
