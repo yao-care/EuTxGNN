@@ -46,7 +46,7 @@ permalink: /news/tolcapone/
 
 ### [Vaccine found to decrease Alzheimer’s disease risk by 55 per cent - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2NXSFQ2MDk1S2pueVlaZTdRdS1OYVZCTWt1M2hkQ2xTdUVLS0VHa0RvcDM5VmstSWxfbkhQNDdRenM1QkVRVC1DdnllNlJTMDZvYnFHczNHVzc5bWd0WE9NR05KdjdjaC1kVDI2MlpQOHFlUEVtcFg2VDhjeGZUZVVzNVZ5ZTQyTXpaNG5xb2Q?oc=5)
 
-2026-04-07 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
+2026-04-07 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2NXSFQ2MDk1S2pueVlaZTdRdS1OYVZCTWt1M2hkQ2xTdUVLS0VHa0RvcDM5VmstSWxfbkhQNDdRenM1QkVRVC1DdnllNlJTMDZvYnFHczNHVzc5bWd0WE9NR05KdjdjaC1kVDI2MlpQOHFlUEVtcFg2VDhjeGZUZVVzNVZ5ZTQyTXpaNG5xb2Q?oc=5)
 

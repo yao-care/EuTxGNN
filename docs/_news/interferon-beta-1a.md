@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,27 +42,11 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Día Mundial de la Salud: el ejercicio físico como aliado imprescindible en el manejo de las enfermedades - Consejo COLEF](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZTZURE85anZWc1JKbjdUZTdMVXpyN3Y0XzNnZ3ZIbTk5WlZITlk3dVlNUUJ1VTNYaTEtTFF3RFRIZHhLU0hEd2FISWtTOWJoM04tQnBfYVR3Zk0?oc=5)
-
-2026-04-07 <span class="news-indication-tag">MS</span>
-
-來源：[Consejo COLEF](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZTZURE85anZWc1JKbjdUZTdMVXpyN3Y0XzNnZ3ZIbTk5WlZITlk3dVlNUUJ1VTNYaTEtTFF3RFRIZHhLU0hEd2FISWtTOWJoM04tQnBfYVR3Zk0?oc=5)
-
----
-
-### [Bangladesh launches measles vaccination drive as child death toll passes 100](https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2xUa3c4YjZocnkxMDFmaURTMktHTnBidHVOSzE5Q2x1Q3ZrUXR1a1ItZjdQcHJWSE9uWlpmYTRJSmFYcS1IN2dadjJ1UVliM1djZVdHdGxybmxpd3N6MXVSVEhBNEFfdmcyQ3ZIUU9uWFlYNkJ4WnJRTXNaVlFuOGdqSW1aTWRsR2puV0VTVTdfUUtJS3d1U0RVaW54RmZr?oc=5)
-
-2026-04-07 <span class="news-indication-tag">MS</span>
-
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2xUa3c4YjZocnkxMDFmaURTMktHTnBidHVOSzE5Q2x1Q3ZrUXR1a1ItZjdQcHJWSE9uWlpmYTRJSmFYcS1IN2dadjJ1UVliM1djZVdHdGxybmxpd3N6MXVSVEhBNEFfdmcyQ3ZIUU9uWFlYNkJ4WnJRTXNaVlFuOGdqSW1aTWRsR2puV0VTVTdfUUtJS3d1U0RVaW54RmZr?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
 
-2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-07 <span class="news-indication-tag">MS</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
 
@@ -76,14 +60,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [‘Traceability is vital’: labs test thousands of unregulated substances amid peptide craze](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNFVJTlVhX2Y3NXVJcmx0MlhrbjlNMWNpS3kzUzJtV1cyT1FIV3JmbWV5Ny0zM0o5TXJpc2N3QU1lSGE1UEc4RTRNc0tOcm8ycGxxdU52RFgxc2hhUll1T2loeHBCaGtWS09ra0ROeVQ4djhUZG1qRDBqVzcxTHgtcjIyemI2dlBEaDRlLXYyYjNwd0FQS3ppblo3ZFoyRmpxNGZZWXBXSC1fZVprSVFVenR1WVBBUQ?oc=5)
-
-2026-04-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNFVJTlVhX2Y3NXVJcmx0MlhrbjlNMWNpS3kzUzJtV1cyT1FIV3JmbWV5Ny0zM0o5TXJpc2N3QU1lSGE1UEc4RTRNc0tOcm8ycGxxdU52RFgxc2hhUll1T2loeHBCaGtWS09ra0ROeVQ4djhUZG1qRDBqVzcxTHgtcjIyemI2dlBEaDRlLXYyYjNwd0FQS3ppblo3ZFoyRmpxNGZZWXBXSC1fZVprSVFVenR1WVBBUQ?oc=5)
-
----
-
 ### [ISS: Internationale Raumstation zieht vor der Sonne vorbei - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0t2djZrcE5rQ0lIRnhpQlRQWDJySjNiV19Sc3Z1c3NFMlQzTTNMWDgzbmRtWjYySFh4U2NFNUc4OTN2cUhJdTNmZnNXSEJfVXhiN0FCZWNfb01HM1lEQndrMHIyUmVTMFFwRFNOc21mYXNET29uaUxpU2RUbGNPOWNFQUlRdlVXNVMtSHhOQWdPQ01tcUdvZUlxSk9wc1ZLdERPX2hFSG5Ta1hMa1d2V1ZrVHN5Zw?oc=5)
 
 2026-04-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -92,19 +68,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Alzheimer-Forschung: Drei neue Wege zur Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
+### [Is there any need for amputee octopuses? | Brief letters - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPanA1N3hKb3ppdzFfRzF0NEFFM21ETjNraWVqU0pRZ0VfUFNYbXVVTVY1MnVDTXlINlN5RWZYbTE1UHBqZ0FFci1fRUsteWRuT2Y2emFGSl9uT0lhY2J5ak5GVG5sYzE4eHpuNDBIYVJCaTNUUmNLdXhHdlBmT1J5T256cldGci14anVGNzFB?oc=5)
 
 2026-04-06 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORHhJVFA1T1BCZzhCRENGR3NxZVRTTTRTLVFKMnFPX1lmU2lQc0xIb21EV0NxVjNQQUVJcVNwOFBQVmtMN1F5c2h6d29KdDk2cTZnanAzRmhMa0xQQUp6ZURmYmZaTXg4X3hfX1U3dllNU2JhNWUzOW03XzRCVk9UOXlCenhrTEh6YWtGd25qVXZlQ2loMW40UGlCdElLSnlGMXp2dUFXQkhVcUUwMUE?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPanA1N3hKb3ppdzFfRzF0NEFFM21ETjNraWVqU0pRZ0VfUFNYbXVVTVY1MnVDTXlINlN5RWZYbTE1UHBqZ0FFci1fRUsteWRuT2Y2emFGSl9uT0lhY2J5ak5GVG5sYzE4eHpuNDBIYVJCaTNUUmNLdXhHdlBmT1J5T256cldGci14anVGNzFB?oc=5)
 
 ---
 
-### [Bowel cancer teams at Peterborough and Hinchingbrooke hospitals](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ybGtJSkFSOVNsaldTTjEtLU1mb2x6a3ctWFBlQjJYYTlqaVZJRm1YOWVjcm9MV3pZSVRnWWpocFV5SE54MzB3dVprbU5PX0NXeTFDdENZcTBuM2dW?oc=5)
+### [Sida : comment un traitement révolutionnaire est déployé en Eswatini, le pays le plus touché au monde - Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMzhRU21JYjlMT3dkVVRjRVlvWm9ZSWZZSDZrYVZaTWREaTZpbEp6WlY4aXlXQzlFQy1DeWtZVWF3UkplekhxSkdoV25vaUl2RXc5WDhnZGwxMFJzU0hRUUtoRGIxZXVRaWdZbGNQTkNCQTdHaWtiSUZRR19OUElKc3Z2MnhRYVhmdGgzcTN1VmU0XzhUSlM5cU5UM3dqVnF1S2ZnYW1KVGRpTVNZVHJsT2dGeEdaMDVHRkg3RFBNeVB0bUtwaW4td205VW14QnFkQ2pkSlR1RDlnVmhhb29zMDV0VzBsaTRTSF9rV2RPV0dYVFNuS0JmSnEwM0ExVGw5WUJuMm5JSQ?oc=5)
 
-2026-04-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ybGtJSkFSOVNsaldTTjEtLU1mb2x6a3ctWFBlQjJYYTlqaVZJRm1YOWVjcm9MV3pZSVRnWWpocFV5SE54MzB3dVprbU5PX0NXeTFDdENZcTBuM2dW?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMzhRU21JYjlMT3dkVVRjRVlvWm9ZSWZZSDZrYVZaTWREaTZpbEp6WlY4aXlXQzlFQy1DeWtZVWF3UkplekhxSkdoV25vaUl2RXc5WDhnZGwxMFJzU0hRUUtoRGIxZXVRaWdZbGNQTkNCQTdHaWtiSUZRR19OUElKc3Z2MnhRYVhmdGgzcTN1VmU0XzhUSlM5cU5UM3dqVnF1S2ZnYW1KVGRpTVNZVHJsT2dGeEdaMDVHRkg3RFBNeVB0bUtwaW4td205VW14QnFkQ2pkSlR1RDlnVmhhb29zMDV0VzBsaTRTSF9rV2RPV0dYVFNuS0JmSnEwM0ExVGw5WUJuMm5JSQ?oc=5)
 
 ---
 

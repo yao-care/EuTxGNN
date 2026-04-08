@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "stroke 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "stroke 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# stroke 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="stroke 有什麼相關新聞？">
-<strong>stroke</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「stroke」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（1 則）
 
-### [‘I had a stroke at 46 — I thought I was indestructible’](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
+### [Ictus: osservazione (reale) e realtà virtuale aiutano a recuperare l'uso della mano - Corriere della Sera](https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmhWNjc3Qjh0c1ZLdTZaN0M5cTJqMzJwNHdGcjhBTzN3U1NTZGYyX1BEZ09yMmJrRzZtcUd5Rko4SlRaWWF4YUNjb2dtWFNWNFY4bWVHMGtGQmM0aEhQLVRKd1FKRjNHUlVITnlQRUJjSGxCQ3ZNb2FsOXZDcVExcnZZdnR2SDJoT2dvS2syV3hkaGVKbHRyVDluVXQzQy1ydzJpNHBhTzhKZ29JSFJaU3RXQ1RaUkxqdnExU0kwWDh1SWxhQkFwUmxDSjhNdkdPWjNhbGMtOE9mZDFPNGZoX2VtQzVtM1lpMU9GczFoX05fR3JrSERHRFhDaVkzVFZWdU1ERmJoM3Y1U2ZD0gGSAkFVX3lxTE9oS3VsQTliakJJYS0xYk9rTFFyOXc2QXNvTlg0ODdlNjQxT3NpcHF5eUJOdHlLa1R4eWtZS0c4OG1Id0ZxTXlYUm1zb3FJc19KX1V0VWR0UXc0OU8wSUlsQVd6dm55VXpHczlLaDlQV1ZoV3R6Mk5yaERaVU82cGJIWHdBRmlhUXhjUkVabTJCM21lYlhuT3Z6a05ZLWMyb1dEMEFlb3JQSUVyWE1Ia1dLeWhMWkpOemRlZFFVMXNjd2hyaWZYSllxWVpad3dySG1PTnZfLWt2RXB2UjRaYUhaTV9RYTZBVm1Ic3JZUzJ5VTdLb2p0U1hDZEJBLWRTLTlzSHhhQTZ1b1JNY3dyWTh1OVE?oc=5)
 
-2026-04-05
+2026-04-07
 
-來源：[thetimes.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmhWNjc3Qjh0c1ZLdTZaN0M5cTJqMzJwNHdGcjhBTzN3U1NTZGYyX1BEZ09yMmJrRzZtcUd5Rko4SlRaWWF4YUNjb2dtWFNWNFY4bWVHMGtGQmM0aEhQLVRKd1FKRjNHUlVITnlQRUJjSGxCQ3ZNb2FsOXZDcVExcnZZdnR2SDJoT2dvS2syV3hkaGVKbHRyVDluVXQzQy1ydzJpNHBhTzhKZ29JSFJaU3RXQ1RaUkxqdnExU0kwWDh1SWxhQkFwUmxDSjhNdkdPWjNhbGMtOE9mZDFPNGZoX2VtQzVtM1lpMU9GczFoX05fR3JrSERHRFhDaVkzVFZWdU1ERmJoM3Y1U2ZD0gGSAkFVX3lxTE9oS3VsQTliakJJYS0xYk9rTFFyOXc2QXNvTlg0ODdlNjQxT3NpcHF5eUJOdHlLa1R4eWtZS0c4OG1Id0ZxTXlYUm1zb3FJc19KX1V0VWR0UXc0OU8wSUlsQVd6dm55VXpHczlLaDlQV1ZoV3R6Mk5yaERaVU82cGJIWHdBRmlhUXhjUkVabTJCM21lYlhuT3Z6a05ZLWMyb1dEMEFlb3JQSUVyWE1Ia1dLeWhMWkpOemRlZFFVMXNjd2hyaWZYSllxWVpad3dySG1PTnZfLWt2RXB2UjRaYUhaTV9RYTZBVm1Ic3JZUzJ5VTdLb2p0U1hDZEJBLWRTLTlzSHhhQTZ1b1JNY3dyWTh1OVE?oc=5)
 
 ---
 

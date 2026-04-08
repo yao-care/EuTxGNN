@@ -60,17 +60,17 @@ permalink: /news/insulin-lispro/
 
 ---
 
-### [Dr. José Ferreras: «Lo que dicen los dientes sobre tu salud puede ser clave para detectar enfermedades importantes - Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
+### [Dr. José Ferreras: «Lo que dicen los dientes sobre tu salud puede ser clave para detectar enfermedades importantes](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
 
 2026-04-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
+來源：[gacetadental.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
 
 ---
 
 ### [Metformin drug taken by millions has ‘striking’ unexpected health benefit, study suggests](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-04-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
 來源：[ladbible.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
 
@@ -84,11 +84,11 @@ permalink: /news/insulin-lispro/
 
 ---
 
-### [Mikronährstoffmangel bei Diabetes: Ein unterschätztes Risiko](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+### ["Je suis mort, le futur pour moi, il est noir" : il devient aveugle 48 heures après avoir pris de l’Ozempic, victime de la NOIAN](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
 
-2026-04-05 <span class="news-indication-tag">diabetes</span>
+2026-04-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTU0WlY2RlFFY0lreEtRNFp5U1VRakc3cEVZSU83QUZJTnlwWmtsaTJyc1RkQTk5MDc1X3poTjlwaWo0M2RSOTJ5UGFJVktOUXFhSnZULWR6Sk1zekpNd0U1TlVubHpUTTlmck5ILWpmRzlJWnRGZ09HNEVHYThnNGFPRHBieDRQRWloTWNxa2NtS2k5THR2Xw?oc=5)
+來源：[midilibre.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
 
 ---
 
