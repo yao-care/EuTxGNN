@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,45 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### [El intestino, clave en el envejecimiento del cerebro y la memoria](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWdkQ3BqUjM2cmk0OEJQd2IwV0pxakRnRktYeFJiMFhJdFJPMDBFLWtmblp6bXBGdHdsb3F6VW1qZkFBLVh3QjRFeFJhQkk0OXRvb1NBUmk4T1ZaNE05QVRpOTJmV1pLQnpMaldSTmsyYjJDXzlySy15blRqNm42LVVPd1pMbmFZdmRMZ3Y5Y3R2QzVUVkVZQUFzTkMwc3JGSHp2SmU4VUI?oc=5)
+
+2026-04-07 <span class="news-indication-tag">MS</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWdkQ3BqUjM2cmk0OEJQd2IwV0pxakRnRktYeFJiMFhJdFJPMDBFLWtmblp6bXBGdHdsb3F6VW1qZkFBLVh3QjRFeFJhQkk0OXRvb1NBUmk4T1ZaNE05QVRpOTJmV1pLQnpMaldSTmsyYjJDXzlySy15blRqNm42LVVPd1pMbmFZdmRMZ3Y5Y3R2QzVUVkVZQUFzTkMwc3JGSHp2SmU4VUI?oc=5)
+
+---
+
+### [Virus from seafood is linked to a persistent eye disease in humans - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+
+2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+
+---
+
+### [Two thirds of men have 'pruritus ani' bumhole issue but won't get it checked out](https://news.google.com/rss/articles/CBMingFBVV95cUxNS3MtankzeG84U0NkWXJjeG5mcE9rYWNBRE01c1ZwaUJySWJXZ0k4THlfNGFzVUVvSzlOalpGSzNfNVhHSXhpSWswekgzSWxISnM4TzJnNjJ4bVpNNXVneElXd21sczFrTlZxWFFpaWdPZ2hjLW9KbjBrX2RYcEZ5VzRZODdteHlRODlFVVJBUXN2Q3lLZTk3V1A2dVBPZw?oc=5)
+
+2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMingFBVV95cUxNS3MtankzeG84U0NkWXJjeG5mcE9rYWNBRE01c1ZwaUJySWJXZ0k4THlfNGFzVUVvSzlOalpGSzNfNVhHSXhpSWswekgzSWxISnM4TzJnNjJ4bVpNNXVneElXd21sczFrTlZxWFFpaWdPZ2hjLW9KbjBrX2RYcEZ5VzRZODdteHlRODlFVVJBUXN2Q3lLZTk3V1A2dVBPZw?oc=5)
+
+---
 
 ### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
 
-2026-04-07 <span class="news-indication-tag">MS</span>
+2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
 
 ---
 
-### ["Moins il y a de soleil et plus il y a de sclérose en plaques" : les liens entre la maladie et la vitamine D décryptée par une chercheuse - Le Journal du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
+### ["Moins il y a de soleil et plus il y a de sclérose en plaques" : les liens entre la maladie et la vitamine D décryptée par une chercheuse](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
 
 2026-04-07 <span class="news-indication-tag">sclérose en plaques</span>
 
-來源：[Le Journal du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
+來源：[lejdc.fr](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
 
 ---
 
@@ -68,19 +92,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [Santé cardiaque : des tout petits changements pour un si grand bénéfice](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVJiZERTUXNYY25fZzdmWWFmdWZ4Yjdlc2dZY2N3b05wd2ZzSlVnRG42ZTI4M0lJNlhGZmI2VUp2cU5XMmZUWWY5VEJGQ09oSE1nYmQzM1ZRUmdUUmoxQXFOU0FucWZOZVFhM0xBZ05pQ0p5UVhVS0o3aDNYeGpLelNKdWVXdUNLQ2ZtN29nU2RHX1Q0U2RqN1g5QWhJMjVra0tVWEJGcGdVMjNFZXViNjRoeVdfTVh3OXJvWg?oc=5)
+
+2026-04-06 <span class="news-indication-tag">MS</span>
+
+來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVJiZERTUXNYY25fZzdmWWFmdWZ4Yjdlc2dZY2N3b05wd2ZzSlVnRG42ZTI4M0lJNlhGZmI2VUp2cU5XMmZUWWY5VEJGQ09oSE1nYmQzM1ZRUmdUUmoxQXFOU0FucWZOZVFhM0xBZ05pQ0p5UVhVS0o3aDNYeGpLelNKdWVXdUNLQ2ZtN29nU2RHX1Q0U2RqN1g5QWhJMjVra0tVWEJGcGdVMjNFZXViNjRoeVdfTVh3OXJvWg?oc=5)
+
+---
+
 ### [Is there any need for amputee octopuses? | Brief letters - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPanA1N3hKb3ppdzFfRzF0NEFFM21ETjNraWVqU0pRZ0VfUFNYbXVVTVY1MnVDTXlINlN5RWZYbTE1UHBqZ0FFci1fRUsteWRuT2Y2emFGSl9uT0lhY2J5ak5GVG5sYzE4eHpuNDBIYVJCaTNUUmNLdXhHdlBmT1J5T256cldGci14anVGNzFB?oc=5)
 
 2026-04-06 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPanA1N3hKb3ppdzFfRzF0NEFFM21ETjNraWVqU0pRZ0VfUFNYbXVVTVY1MnVDTXlINlN5RWZYbTE1UHBqZ0FFci1fRUsteWRuT2Y2emFGSl9uT0lhY2J5ak5GVG5sYzE4eHpuNDBIYVJCaTNUUmNLdXhHdlBmT1J5T256cldGci14anVGNzFB?oc=5)
-
----
-
-### [Sida : comment un traitement révolutionnaire est déployé en Eswatini, le pays le plus touché au monde - Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMzhRU21JYjlMT3dkVVRjRVlvWm9ZSWZZSDZrYVZaTWREaTZpbEp6WlY4aXlXQzlFQy1DeWtZVWF3UkplekhxSkdoV25vaUl2RXc5WDhnZGwxMFJzU0hRUUtoRGIxZXVRaWdZbGNQTkNCQTdHaWtiSUZRR19OUElKc3Z2MnhRYVhmdGgzcTN1VmU0XzhUSlM5cU5UM3dqVnF1S2ZnYW1KVGRpTVNZVHJsT2dGeEdaMDVHRkg3RFBNeVB0bUtwaW4td205VW14QnFkQ2pkSlR1RDlnVmhhb29zMDV0VzBsaTRTSF9rV2RPV0dYVFNuS0JmSnEwM0ExVGw5WUJuMm5JSQ?oc=5)
-
-2026-04-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMzhRU21JYjlMT3dkVVRjRVlvWm9ZSWZZSDZrYVZaTWREaTZpbEp6WlY4aXlXQzlFQy1DeWtZVWF3UkplekhxSkdoV25vaUl2RXc5WDhnZGwxMFJzU0hRUUtoRGIxZXVRaWdZbGNQTkNCQTdHaWtiSUZRR19OUElKc3Z2MnhRYVhmdGgzcTN1VmU0XzhUSlM5cU5UM3dqVnF1S2ZnYW1KVGRpTVNZVHJsT2dGeEdaMDVHRkg3RFBNeVB0bUtwaW4td205VW14QnFkQ2pkSlR1RDlnVmhhb29zMDV0VzBsaTRTSF9rV2RPV0dYVFNuS0JmSnEwM0ExVGw5WUJuMm5JSQ?oc=5)
 
 ---
 

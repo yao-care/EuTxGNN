@@ -44,6 +44,14 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（3 則）
 
+### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
+
+2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
+
+---
+
 ### ['I'm not drunk, I have Parkinson's disease'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
 
 2026-04-07 <span class="news-indication-tag">Parkinson's</span>
@@ -57,14 +65,6 @@ permalink: /news/botulinum-toxin-type-a/
 2026-04-07 <span class="news-indication-tag">copd</span>
 
 來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSml2NE1TNFVQUW1ELXB1N0RWQnFnZzVWYzQ1Ym10elZZZkphQnAwaXJCMlRoRFJ5WHhOR2J0WjhaLWQ4V1ZrNnk1RGdnS2M3WHJEZnA0UzNLdEg4Z2h6LTIzbGs3eHZwb2QtMi0ybXVQYXdNV0NzUlNqNFhMV1pKTWlwTXRyYUpoUlZFYkhaM1hLRUMxWkdwLUhuNUpaekROUWhSbmN6SQ?oc=5)
-
----
-
-### [Mobile apps to help treat asthma and COPD patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
-
-2026-04-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
 
 ---
 

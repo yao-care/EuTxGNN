@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Regadenoson</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,31 +42,9 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [Le chocolat peut-il vraiment provoquer des migraines ? Voici ce qu'en disent des neurologues](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
-
-2026-04-06 <span class="news-indication-tag">migraine</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
-
----
-
-### [Mobile apps to help treat asthma and COPD patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
-
-2026-04-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
-
----
-
-### [Une thérapie numérique obtient un premier avis favorable avant son remboursement par l’Assurance maladie](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTSTZGa045RlBhZzlEcl83U20wdWxIcHV0c09hRzdHYnpZb3lXUmpmQk1Palh6YzRfZHVpbGxtNVlUaVloNElqazhkUC1uVmtUbGVLMG9MUWR1Yk9rRjNQMGtDSUZrd3NPR1hSVUhpSW80MU5kcUtNYkhIRzEwY1FYZjhENEhUSWhMR0hzZ0lJSmFkU3JhNV8tajFNZDFTT216dFE4STB2RDRiRGw3UjY3OTE5UFYzNHp3bw?oc=5)
-
-2026-04-06 <span class="news-indication-tag">asthme</span>
-
-來源：[tr92.fr](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTSTZGa045RlBhZzlEcl83U20wdWxIcHV0c09hRzdHYnpZb3lXUmpmQk1Palh6YzRfZHVpbGxtNVlUaVloNElqazhkUC1uVmtUbGVLMG9MUWR1Yk9rRjNQMGtDSUZrd3NPR1hSVUhpSW80MU5kcUtNYkhIRzEwY1FYZjhENEhUSWhMR0hzZ0lJSmFkU3JhNV8tajFNZDFTT216dFE4STB2RDRiRGw3UjY3OTE5UFYzNHp3bw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

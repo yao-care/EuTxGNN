@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melatonin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Le chocolat peut-il vraiment provoquer des migraines ? Voici ce qu'en disent des neurologues](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
-
-2026-04-06 <span class="news-indication-tag">migraine</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Melatonin: Neue Leitlinien warnen Senioren vor Herzrisiken - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1Uzc0dsN2xkV2VEbFQ1REFQQ0xNZ21abS1MVHhaaFR0SDdvVTdZc2F0M193amRPNGFNdmhHeXhUaXNFODhEVVlEc2hlREhtTXVDSHJXZ1B2dDg4bHVpWlZVa2xKUHh3T2hSZmQtV1hhVEFrM0wxNjcxWkVWTUVhVVhhYkJjckhLcVRqeEVGUHVmcVlveG1DLVBHNWswUDBFX0s5VjNfOG9sREJVUFNQQmtIcTB0Tk0?oc=5)
 
 2026-04-06 <span class="news-drug-tag">Melatonin</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1Uzc0dsN2xkV2VEbFQ1REFQQ0xNZ21abS1MVHhaaFR0SDdvVTdZc2F0M193amRPNGFNdmhHeXhUaXNFODhEVVlEc2hlREhtTXVDSHJXZ1B2dDg4bHVpWlZVa2xKUHh3T2hSZmQtV1hhVEFrM0wxNjcxWkVWTUVhVVhhYkJjckhLcVRqeEVGUHVmcVlveG1DLVBHNWswUDBFX0s5VjNfOG9sREJVUFNQQmtIcTB0Tk0?oc=5)
-
----
-
-### [Des femmes mettent en lumière le lipœdème pour mettre fin à la confusion persistante avec l’obésité](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclZJY1M3WEY4TlFINXEzR2MxMXpFZHdCenc3c0lUcHliYnNqdWxIVERROUNBcmhvYTV3QUIxV0R3Rl9uOG5Gak54VHp1cE92UlVpUUtpSk9hQk8wei11Mk5qMWlmclUzbV9ZXzRfRDQxQVFPSjFyQnhWUWFoSUJ6LTJWVlJUNks5bXRrRlBsNkhNSXdzX3JFdkRYeVo0aEV1X0Qtb1lpR3dTNXNmSWFLSDNnQUZuXzZXcFhtY2x3Z25XUEFucGlPcVVGRTRwZHlIOFFCQVp3ZkZSeWhJSzNYaFlRUnpwRHNuYkdjTw?oc=5)
-
-2026-04-04 <span class="news-indication-tag">obésité</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclZJY1M3WEY4TlFINXEzR2MxMXpFZHdCenc3c0lUcHliYnNqdWxIVERROUNBcmhvYTV3QUIxV0R3Rl9uOG5Gak54VHp1cE92UlVpUUtpSk9hQk8wei11Mk5qMWlmclUzbV9ZXzRfRDQxQVFPSjFyQnhWUWFoSUJ6LTJWVlJUNks5bXRrRlBsNkhNSXdzX3JFdkRYeVo0aEV1X0Qtb1lpR3dTNXNmSWFLSDNnQUZuXzZXcFhtY2x3Z25XUEFucGlPcVVGRTRwZHlIOFFCQVp3ZkZSeWhJSzNYaFlRUnpwRHNuYkdjTw?oc=5)
 
 ---
 

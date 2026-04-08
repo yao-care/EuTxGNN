@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,21 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Metformin drug taken by millions has ‘striking’ unexpected health benefit, study suggests](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
+
+2026-04-07
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
+
+---
 
 ### [Durchbruch bei Diabetes-Forschung: Warum große Höhen vor einer Erkrankung schützen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
 
 2026-04-07
 
-來源：[Watson.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
+來源：[watson.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
 
 ---
 
@@ -132,19 +140,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Dr. José Ferreras: «Lo que dicen los dientes sobre tu salud puede ser clave para detectar enfermedades importantes](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
+### [Dr. José Ferreras: «Lo que dicen los dientes sobre tu salud puede ser clave para detectar enfermedades importantes - Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
 
 2026-04-07
 
-來源：[gacetadental.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
-
----
-
-### [Metformin drug taken by millions has ‘striking’ unexpected health benefit, study suggests](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
-
-2026-04-06
-
-來源：[ladbible.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
+來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
 
 ---
 
@@ -153,14 +153,6 @@ permalink: /news/diabetes-mellitus/
 2026-04-06
 
 來源：[Woman & Home](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXlVNHo1QnR2dzdscTAzeXM2bmsxaExoRkpJVERvWEZSeEdyVmdwNngzTnJQVlVvcTc3QjdILW9YRWRvM1MzZ3ExVG9pdURLdGdYZW5tS0Q0b04wWU1xMkhUcjZGa0VGdFVBNi1vbkU4Q1psZ1cySllDT2VTWG1FWkVfVGU0NXVHN2FvWEg2YlpYYy1YbGhNZDYzTmMyVTVNUV83REZB?oc=5)
-
----
-
-### ["Je suis mort, le futur pour moi, il est noir" : il devient aveugle 48 heures après avoir pris de l’Ozempic, victime de la NOIAN](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
-
-2026-04-01
-
-來源：[midilibre.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbTFOX0xsNHNzZHo4ai1HSEtlalpHZWFnUnpQWTl3Z213WlpVU01tLXhSYzJ1Tk45dHVSbnhGa0x5bktlVjNzaGEtcFVxRGE5UmVKS3BFTE9UeG5KMkQ4MC1OM0xkQi1wN3pvNER3bTlfQlJzNlpoVW0yek5nbnRGN2hLQTBrZS1CdW1OTnhPOVBFNVplQzAtVUFFSTNEQ3dkc01KT0NVanVJTEZBR29qdHp3SkxjaUtkODlaM1NtT2pac2pneWUxbmNfOGQxRk5zbVBGVnF1c0JUa1JPS2RxSUU5UkpRWm8xZDEzT08za3pJRUNsaGo2QlpmT3VGZw?oc=5)
 
 ---
 

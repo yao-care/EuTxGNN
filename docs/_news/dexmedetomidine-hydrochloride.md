@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Le chocolat peut-il vraiment provoquer des migraines ? Voici ce qu'en disent des neurologues](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
+### [Ipertensione arteriosa, cervello e cuore le prime vittime: i valori da tenere sotto controllo - Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0FQVERNRzRLa0pJMllPNzZvdTA2VHRQQ1Y0TE93VkNlUmlEM3NDeXNxRWJfWUhKU01FalZ4R3lBZFhXQVhFRW5zM0JsOHZRbnFvUDRHSDR5cXdnamcxNWt1ejJCczRaUHA5eS14eWNHbzlPVU5SSVVnY25MdEJBdmU3Slp3eXZqTUt0alc5Vzg1WU9zUVF6UnVDdDNpZ01fNWFsNGl1SUnSAaMBQVVfeXFMTUludlZaMGswWXcydm1MVk1uT3ZHbmEyQ0RJcVAzVU5CU1IzMzgxMGZHMngtUlQ2Vkt3NE1qcXRSTEpqWkpzZmUzaHhzVFFGdjJjY3NTTEdpT1dDTlVOc0pWc0pzLW1oMmxWdUY1eGhybTZHLW84enFQM0FMLW51Z3VvVUxGM19tcDBmRldNRW1hbGpQWTBVVDRKbnlGZ3JPVGwycw?oc=5)
 
-2026-04-06 <span class="news-indication-tag">migraine</span>
+2026-04-08 <span class="news-indication-tag">ipertensione</span>
 
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTZORURxaTFBQmp6X3gtRm5vUVhwUWk0bFdPb19qWm5QTXFsZkxNNl9TOUZmSzZCM2RLM3NCcXhsbXFuZThqUjJjVnIxeG1pbDZiRU5sNGM5ek5ZTlkxZHlGdWx3cll4RzhwdnNzNnhueUp5Tmd4bUhodGstcG5LQzk5eTlpeVpkR0E?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0FQVERNRzRLa0pJMllPNzZvdTA2VHRQQ1Y0TE93VkNlUmlEM3NDeXNxRWJfWUhKU01FalZ4R3lBZFhXQVhFRW5zM0JsOHZRbnFvUDRHSDR5cXdnamcxNWt1ejJCczRaUHA5eS14eWNHbzlPVU5SSVVnY25MdEJBdmU3Slp3eXZqTUt0alc5Vzg1WU9zUVF6UnVDdDNpZ01fNWFsNGl1SUnSAaMBQVVfeXFMTUludlZaMGswWXcydm1MVk1uT3ZHbmEyQ0RJcVAzVU5CU1IzMzgxMGZHMngtUlQ2Vkt3NE1qcXRSTEpqWkpzZmUzaHhzVFFGdjJjY3NTTEdpT1dDTlVOc0pWc0pzLW1oMmxWdUY1eGhybTZHLW84enFQM0FMLW51Z3VvVUxGM19tcDBmRldNRW1hbGpQWTBVVDRKbnlGZ3JPVGwycw?oc=5)
+
+---
+
+### [Ipertensione, il cortisolo può essere il motivo per cui la pressione non scende: i livelli da monitorare - il Giornale](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlRDYy1wbHBsWVE2Q0ZHMm51MjNyMUJrdFR4RzVfa2RJSy1ObnVCYm5ac1ZXMFpnWlE1NHhfbDZIQ2NZWHZmRHNwVmFCSzdxY0VVeE1PeU82M3djQk54QUE5Rjh1dnF5M1M3cHVLNjh4eWsyaGVIVWZMTGI0TUU4eFRhQ1JsS3Bqb01FOHphYjhxRTZoVE5qaml4bUpJVVpPMmpJQkQwT05GVFViVlZ4cVpGRUFIbTVJNklB?oc=5)
+
+2026-04-07 <span class="news-indication-tag">ipertensione</span>
+
+來源：[il Giornale](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlRDYy1wbHBsWVE2Q0ZHMm51MjNyMUJrdFR4RzVfa2RJSy1ObnVCYm5ac1ZXMFpnWlE1NHhfbDZIQ2NZWHZmRHNwVmFCSzdxY0VVeE1PeU82M3djQk54QUE5Rjh1dnF5M1M3cHVLNjh4eWsyaGVIVWZMTGI0TUU4eFRhQ1JsS3Bqb01FOHphYjhxRTZoVE5qaml4bUpJVVpPMmpJQkQwT05GVFViVlZ4cVpGRUFIbTVJNklB?oc=5)
 
 ---
 

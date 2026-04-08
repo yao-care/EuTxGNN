@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Ictus: osservazione (reale) e realtà virtuale aiutano a recuperare l'uso della mano - Corriere della Sera](https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmhWNjc3Qjh0c1ZLdTZaN0M5cTJqMzJwNHdGcjhBTzN3U1NTZGYyX1BEZ09yMmJrRzZtcUd5Rko4SlRaWWF4YUNjb2dtWFNWNFY4bWVHMGtGQmM0aEhQLVRKd1FKRjNHUlVITnlQRUJjSGxCQ3ZNb2FsOXZDcVExcnZZdnR2SDJoT2dvS2syV3hkaGVKbHRyVDluVXQzQy1ydzJpNHBhTzhKZ29JSFJaU3RXQ1RaUkxqdnExU0kwWDh1SWxhQkFwUmxDSjhNdkdPWjNhbGMtOE9mZDFPNGZoX2VtQzVtM1lpMU9GczFoX05fR3JrSERHRFhDaVkzVFZWdU1ERmJoM3Y1U2ZD0gGSAkFVX3lxTE9oS3VsQTliakJJYS0xYk9rTFFyOXc2QXNvTlg0ODdlNjQxT3NpcHF5eUJOdHlLa1R4eWtZS0c4OG1Id0ZxTXlYUm1zb3FJc19KX1V0VWR0UXc0OU8wSUlsQVd6dm55VXpHczlLaDlQV1ZoV3R6Mk5yaERaVU82cGJIWHdBRmlhUXhjUkVabTJCM21lYlhuT3Z6a05ZLWMyb1dEMEFlb3JQSUVyWE1Ia1dLeWhMWkpOemRlZFFVMXNjd2hyaWZYSllxWVpad3dySG1PTnZfLWt2RXB2UjRaYUhaTV9RYTZBVm1Ic3JZUzJ5VTdLb2p0U1hDZEJBLWRTLTlzSHhhQTZ1b1JNY3dyWTh1OVE?oc=5)
 
@@ -52,11 +52,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Des femmes mettent en lumière le lipœdème pour mettre fin à la confusion persistante avec l’obésité](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclZJY1M3WEY4TlFINXEzR2MxMXpFZHdCenc3c0lUcHliYnNqdWxIVERROUNBcmhvYTV3QUIxV0R3Rl9uOG5Gak54VHp1cE92UlVpUUtpSk9hQk8wei11Mk5qMWlmclUzbV9ZXzRfRDQxQVFPSjFyQnhWUWFoSUJ6LTJWVlJUNks5bXRrRlBsNkhNSXdzX3JFdkRYeVo0aEV1X0Qtb1lpR3dTNXNmSWFLSDNnQUZuXzZXcFhtY2x3Z25XUEFucGlPcVVGRTRwZHlIOFFCQVp3ZkZSeWhJSzNYaFlRUnpwRHNuYkdjTw?oc=5)
+### [I migliori alimenti per la salute del cuore: il cardiologo consiglia questi 15](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0lYZEJpUm5QeUNTQkk2OTVJQ3VkUVhIOXAzT0U4OTI0U0ZKN1ZOa2R4ZXctRlhQVHkyVEtHMXU4dW44NG1RWDFSU0h3dk9Ra0tuYWxGZ1RlUHBZY21ILUZwRm1ZcXZfUlQybXJiOU5Oa2oyV0JyM2k2dG5Ba3ZxNHdSaTlrV2lhVGtfQ1BUWVRqaEtNWDNRR1BLSXEyUk04WXdmMGVGdk1tdkk?oc=5)
 
-2026-04-04 <span class="news-indication-tag">obésité</span>
+2026-04-07 <span class="news-indication-tag">ictus</span>
 
-來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclZJY1M3WEY4TlFINXEzR2MxMXpFZHdCenc3c0lUcHliYnNqdWxIVERROUNBcmhvYTV3QUIxV0R3Rl9uOG5Gak54VHp1cE92UlVpUUtpSk9hQk8wei11Mk5qMWlmclUzbV9ZXzRfRDQxQVFPSjFyQnhWUWFoSUJ6LTJWVlJUNks5bXRrRlBsNkhNSXdzX3JFdkRYeVo0aEV1X0Qtb1lpR3dTNXNmSWFLSDNnQUZuXzZXcFhtY2x3Z25XUEFucGlPcVVGRTRwZHlIOFFCQVp3ZkZSeWhJSzNYaFlRUnpwRHNuYkdjTw?oc=5)
+來源：[menshealth.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0lYZEJpUm5QeUNTQkk2OTVJQ3VkUVhIOXAzT0U4OTI0U0ZKN1ZOa2R4ZXctRlhQVHkyVEtHMXU4dW44NG1RWDFSU0h3dk9Ra0tuYWxGZ1RlUHBZY21ILUZwRm1ZcXZfUlQybXJiOU5Oa2oyV0JyM2k2dG5Ba3ZxNHdSaTlrV2lhVGtfQ1BUWVRqaEtNWDNRR1BLSXEyUk04WXdmMGVGdk1tdkk?oc=5)
+
+---
+
+### [‘I had a stroke at 46 — I thought I was indestructible’ - The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
+
+2026-04-06 <span class="news-indication-tag">stroke</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
 
 ---
 

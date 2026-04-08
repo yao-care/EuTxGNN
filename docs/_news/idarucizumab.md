@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Warum verschlechtert sich COPD bei Grippe?](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSml2NE1TNFVQUW1ELXB1N0RWQnFnZzVWYzQ1Ym10elZZZkphQnAwaXJCMlRoRFJ5WHhOR2J0WjhaLWQ4V1ZrNnk1RGdnS2M3WHJEZnA0UzNLdEg4Z2h6LTIzbGs3eHZwb2QtMi0ybXVQYXdNV0NzUlNqNFhMV1pKTWlwTXRyYUpoUlZFYkhaM1hLRUMxWkdwLUhuNUpaekROUWhSbmN6SQ?oc=5)
 
 2026-04-07 <span class="news-indication-tag">copd</span>
 
 來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSml2NE1TNFVQUW1ELXB1N0RWQnFnZzVWYzQ1Ym10elZZZkphQnAwaXJCMlRoRFJ5WHhOR2J0WjhaLWQ4V1ZrNnk1RGdnS2M3WHJEZnA0UzNLdEg4Z2h6LTIzbGs3eHZwb2QtMi0ybXVQYXdNV0NzUlNqNFhMV1pKTWlwTXRyYUpoUlZFYkhaM1hLRUMxWkdwLUhuNUpaekROUWhSbmN6SQ?oc=5)
-
----
-
-### [Mobile apps to help treat asthma and COPD patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
-
-2026-04-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE04VXc5eG5rR1FRNHJYWm5SbERrYUlxUTlCbkRkcmk3TE5XSHYtMXNmYTlpNWVtaG9wQnBoM1NHTXFjQUdxNkZfWmFscHlveDQ5cDMtQk9OZlptMlJo?oc=5)
 
 ---
 
