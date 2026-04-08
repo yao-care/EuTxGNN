@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/eslicarbazepine-acetate/
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Scientists Have Found a New Neurodevelopmental Disorder Hidden in Our Genes](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeC1hc0NTSm5xNGlpYm5ua0ltVDVSRlNaSGNscnl3QW9RVlBUMzk1ZUwyd3owRXMyOGZBeE5Ya0Vmd3lQeS1GV3pfdEVBdG1SU1RiTHFyZTk3SnVuVU5vVjIxcXhmUklZY2FUbVpTZlM5WGtIZTlKUFcxNklPMUM2MXlSclFMcDB6MnZwUUwyc1JIZ0tiUjdyUVdBZkhITU90ckR6Rmd5cw?oc=5)
-
-2026-04-08 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeC1hc0NTSm5xNGlpYm5ua0ltVDVSRlNaSGNscnl3QW9RVlBUMzk1ZUwyd3owRXMyOGZBeE5Ya0Vmd3lQeS1GV3pfdEVBdG1SU1RiTHFyZTk3SnVuVU5vVjIxcXhmUklZY2FUbVpTZlM5WGtIZTlKUFcxNklPMUM2MXlSclFMcDB6MnZwUUwyc1JIZ0tiUjdyUVdBZkhITU90ckR6Rmd5cw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [Scientists develop AI tool to spot heart failure risk five years before it strikes - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
+
+2026-04-08 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
+
+---
+
+### [La neuróloga Elena Zapata ofrece en Lebrija una charla clave para reconocer y prevenir el ictus - Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">ictus</span>
+
+來源：[Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
+
+---
 
 ### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
 
@@ -57,6 +73,14 @@ permalink: /news/telmisartan/
 2026-04-08 <span class="news-indication-tag">ipertensione</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0FQVERNRzRLa0pJMllPNzZvdTA2VHRQQ1Y0TE93VkNlUmlEM3NDeXNxRWJfWUhKU01FalZ4R3lBZFhXQVhFRW5zM0JsOHZRbnFvUDRHSDR5cXdnamcxNWt1ejJCczRaUHA5eS14eWNHbzlPVU5SSVVnY25MdEJBdmU3Slp3eXZqTUt0alc5Vzg1WU9zUVF6UnVDdDNpZ01fNWFsNGl1SUk?oc=5)
+
+---
+
+### [Telmisartan verbessert ALS-Symptomatik - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipwFBVV95cUxQenVuUUx4SndfMFRYeXdpbXdNYkgyWEZqVlpIRHl3cVU0ak5JLURvMmljdXN3UmFNcVVtUWdGOVVNR0hIXzF0OTNLZEF0bFVRMXJ3cU10aVhCTEhPNmpXeXdqUXhfY2xBWmJoNlZpYzlBLTl1cEVKMVdJZzZTc2RUSjF5OVVsUWd6akpfTWZDeDlWY2drMjNWamlQdldOYWRsUVZsdEhTOA?oc=5)
+
+2026-04-07 <span class="news-drug-tag">Telmisartan</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipwFBVV95cUxQenVuUUx4SndfMFRYeXdpbXdNYkgyWEZqVlpIRHl3cVU0ak5JLURvMmljdXN3UmFNcVVtUWdGOVVNR0hIXzF0OTNLZEF0bFVRMXJ3cU10aVhCTEhPNmpXeXdqUXhfY2xBWmJoNlZpYzlBLTl1cEVKMVdJZzZTc2RUSjF5OVVsUWd6akpfTWZDeDlWY2drMjNWamlQdldOYWRsUVZsdEhTOA?oc=5)
 
 ---
 

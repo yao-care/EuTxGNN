@@ -14,7 +14,7 @@ permalink: /news/tobramycin/
 ---
 
 <p class="key-answer" data-question="Tobramycin 有什麼相關新聞？">
-<strong>Tobramycin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tobramycin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/tobramycin/
 <p><a href="{{ '/drugs/tobramycin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Scientists develop AI tool to spot heart failure risk five years before it strikes - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
+
+2026-04-08 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [Un nouveau vaccin contre la grippe se montre plus efficace que la version standard pour les personnes en situation d'obésité sévère](https://news.google.com/rss/articles/CBMinAJBVV95cUxOZnd0dlpEclcyem8wTEtBaGt5amhQWFZXbzlwTnI1QlZJU0Q2LWlRcFpiaGZVZzduNGVIRU1FNk9KWHZ5MHE2b0lpNHEzMVRSWlJ1TTk5cFNWYWRWamFlRV9BV09CTE1RSjB4UXU1b1ZLUDRLeUdSNkRvV3ozVzQ3S2paLTZ4ZEpldmpnZ01fRkxVS0gxT3l5NDN3ZHRPZ2hxcS1UNzE2QS1XaGp6UmRQYXY5a01mRXR4RDV1VlJjY2JYd0s0eEJLTUkwZVM2eHQ2Wk1HcmczbVJSMkpGWklpangwYWlEZEktai1SeW5NQl9iLVVEMWhBLXlCTFI3c1hZSXdmeXpKdFZ0QVpVUmp5SllGdlpHVjVaZzRSTw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">obésité</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMinAJBVV95cUxOZnd0dlpEclcyem8wTEtBaGt5amhQWFZXbzlwTnI1QlZJU0Q2LWlRcFpiaGZVZzduNGVIRU1FNk9KWHZ5MHE2b0lpNHEzMVRSWlJ1TTk5cFNWYWRWamFlRV9BV09CTE1RSjB4UXU1b1ZLUDRLeUdSNkRvV3ozVzQ3S2paLTZ4ZEpldmpnZ01fRkxVS0gxT3l5NDN3ZHRPZ2hxcS1UNzE2QS1XaGp6UmRQYXY5a01mRXR4RDV1VlJjY2JYd0s0eEJLTUkwZVM2eHQ2Wk1HcmczbVJSMkpGWklpangwYWlEZEktai1SeW5NQl9iLVVEMWhBLXlCTFI3c1hZSXdmeXpKdFZ0QVpVUmp5SllGdlpHVjVaZzRSTw?oc=5)
+
+---
 
 ### [El año de consolidación de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMic0FVX3lxTE9CclQ3N0xFaDE4bFBzWndLYXdrckR0TC0wTWdEN0lzRTdnZ1dURFowdGVqYk5nS0xfZlAzREhWb1dQYkJXdXhNbkt4Yk12NlNoYzItTGNhcUQwZm5DN2RUYnN1bEhERldvSVc1LUdsZlB6bkk?oc=5)
 
 2026-04-08 <span class="news-indication-tag">obesidad</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMic0FVX3lxTE9CclQ3N0xFaDE4bFBzWndLYXdrckR0TC0wTWdEN0lzRTdnZ1dURFowdGVqYk5nS0xfZlAzREhWb1dQYkJXdXhNbkt4Yk12NlNoYzItTGNhcUQwZm5DN2RUYnN1bEhERldvSVc1LUdsZlB6bkk?oc=5)
+
+---
+
+### [La neuróloga Elena Zapata ofrece en Lebrija una charla clave para reconocer y prevenir el ictus - Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">ictus</span>
+
+來源：[Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
+
+---
+
+### [Lilly presenta un informe centrado en el valor social y sanitario que supondría un mejor control de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3d6ZHd3Yi1uRnViT3ZUa0FKZThQcGhfOE1IaVBaUjRLdXVMSlphZjhrNmUyQVVzR3JFTkwtYi1CamtYbjNhcEpqWGRJMXFSeThJMWRWaTFRMjNLWGxKNVhtNW5xTXhBYVNnaVZOWHpxd3k0LWVvZXV4MVFlS1pyS0JISGtiNndwbDhXZ2g0TjllZmRGMG1YT2Z1Wks?oc=5)
+
+2026-04-08 <span class="news-indication-tag">obesidad</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3d6ZHd3Yi1uRnViT3ZUa0FKZThQcGhfOE1IaVBaUjRLdXVMSlphZjhrNmUyQVVzR3JFTkwtYi1CamtYbjNhcEpqWGRJMXFSeThJMWRWaTFRMjNLWGxKNVhtNW5xTXhBYVNnaVZOWHpxd3k0LWVvZXV4MVFlS1pyS0JISGtiNndwbDhXZ2g0TjllZmRGMG1YT2Z1Wks?oc=5)
 
 ---
 
@@ -60,19 +84,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [José María Fernández, especialista en medicina interna: «Nos queda muchísimo por conocer sobre los beneficios que pueden tener fármacos como Ozempic» - La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
+
+2026-04-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
+
+---
+
 ### [Ictus: osservazione (reale) e realtà virtuale aiutano a recuperare l'uso della mano - Corriere della Sera](https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmhWNjc3Qjh0c1ZLdTZaN0M5cTJqMzJwNHdGcjhBTzN3U1NTZGYyX1BEZ09yMmJrRzZtcUd5Rko4SlRaWWF4YUNjb2dtWFNWNFY4bWVHMGtGQmM0aEhQLVRKd1FKRjNHUlVITnlQRUJjSGxCQ3ZNb2FsOXZDcVExcnZZdnR2SDJoT2dvS2syV3hkaGVKbHRyVDluVXQzQy1ydzJpNHBhTzhKZ29JSFJaU3RXQ1RaUkxqdnExU0kwWDh1SWxhQkFwUmxDSjhNdkdPWjNhbGMtOE9mZDFPNGZoX2VtQzVtM1lpMU9GczFoX05fR3JrSERHRFhDaVkzVFZWdU1ERmJoM3Y1U2ZD0gGSAkFVX3lxTE9oS3VsQTliakJJYS0xYk9rTFFyOXc2QXNvTlg0ODdlNjQxT3NpcHF5eUJOdHlLa1R4eWtZS0c4OG1Id0ZxTXlYUm1zb3FJc19KX1V0VWR0UXc0OU8wSUlsQVd6dm55VXpHczlLaDlQV1ZoV3R6Mk5yaERaVU82cGJIWHdBRmlhUXhjUkVabTJCM21lYlhuT3Z6a05ZLWMyb1dEMEFlb3JQSUVyWE1Ia1dLeWhMWkpOemRlZFFVMXNjd2hyaWZYSllxWVpad3dySG1PTnZfLWt2RXB2UjRaYUhaTV9RYTZBVm1Ic3JZUzJ5VTdLb2p0U1hDZEJBLWRTLTlzSHhhQTZ1b1JNY3dyWTh1OVE?oc=5)
 
 2026-04-07 <span class="news-indication-tag">ictus</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmhWNjc3Qjh0c1ZLdTZaN0M5cTJqMzJwNHdGcjhBTzN3U1NTZGYyX1BEZ09yMmJrRzZtcUd5Rko4SlRaWWF4YUNjb2dtWFNWNFY4bWVHMGtGQmM0aEhQLVRKd1FKRjNHUlVITnlQRUJjSGxCQ3ZNb2FsOXZDcVExcnZZdnR2SDJoT2dvS2syV3hkaGVKbHRyVDluVXQzQy1ydzJpNHBhTzhKZ29JSFJaU3RXQ1RaUkxqdnExU0kwWDh1SWxhQkFwUmxDSjhNdkdPWjNhbGMtOE9mZDFPNGZoX2VtQzVtM1lpMU9GczFoX05fR3JrSERHRFhDaVkzVFZWdU1ERmJoM3Y1U2ZD0gGSAkFVX3lxTE9oS3VsQTliakJJYS0xYk9rTFFyOXc2QXNvTlg0ODdlNjQxT3NpcHF5eUJOdHlLa1R4eWtZS0c4OG1Id0ZxTXlYUm1zb3FJc19KX1V0VWR0UXc0OU8wSUlsQVd6dm55VXpHczlLaDlQV1ZoV3R6Mk5yaERaVU82cGJIWHdBRmlhUXhjUkVabTJCM21lYlhuT3Z6a05ZLWMyb1dEMEFlb3JQSUVyWE1Ia1dLeWhMWkpOemRlZFFVMXNjd2hyaWZYSllxWVpad3dySG1PTnZfLWt2RXB2UjRaYUhaTV9RYTZBVm1Ic3JZUzJ5VTdLb2p0U1hDZEJBLWRTLTlzSHhhQTZ1b1JNY3dyWTh1OVE?oc=5)
-
----
-
-### [Recomendaciones Bolsas internacionales Visión positiva sobre el desarrollo de medicamentos contra la obesidad pero de manera selectiva: OW en Eli Lilly, Chugai, Structure Therapeutics, Viking Therapeutics y Omada Health - Consenso del Mercado](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNTV82OGVmU0YydEhoS21xUDlSd1ViOGpHZ0lLVllScXRsSXJ1MXVvRnR2U3ZWbE1GR0Qxbm9lV0s3Ul9GLV8zbExYWUhZWXZwWUdic2JMb1dkeUlwa202eGItLVhQaWZyQi13WnpZZ1B2ZmpNWlJidUJUcFdIYk82TTdSNWJSZW5YM3hhMHlOUmtzS0VzaGlvVjJpcWRaRzQtaWxmc1ZuRzJ6THJuSDJlbGVCVXBWY1ZidkhEdi1zT0tKajJkbjgzZml2VThsRl9Sa2FyaGZGdEUxZmFSY3EtZFc1alFxZUNPQjFBa3Q1dUZ1SEdZZGIxR0Zjd2pOMEcyYkdsY0I0T1REbExTNWRmbnpQSVo5dm1OZDFURE9BaG40aXZkbVA4MktJNTMxckl1cmxPYV9hUkE0YzduWDdIMDM0dkMwTUFnMFZWSG9TWE9sRFV1ejh0V2VwVW5rb3RRZElfMlRtenM?oc=5)
-
-2026-04-07 <span class="news-indication-tag">obesidad</span>
-
-來源：[Consenso del Mercado](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNTV82OGVmU0YydEhoS21xUDlSd1ViOGpHZ0lLVllScXRsSXJ1MXVvRnR2U3ZWbE1GR0Qxbm9lV0s3Ul9GLV8zbExYWUhZWXZwWUdic2JMb1dkeUlwa202eGItLVhQaWZyQi13WnpZZ1B2ZmpNWlJidUJUcFdIYk82TTdSNWJSZW5YM3hhMHlOUmtzS0VzaGlvVjJpcWRaRzQtaWxmc1ZuRzJ6THJuSDJlbGVCVXBWY1ZidkhEdi1zT0tKajJkbjgzZml2VThsRl9Sa2FyaGZGdEUxZmFSY3EtZFc1alFxZUNPQjFBa3Q1dUZ1SEdZZGIxR0Zjd2pOMEcyYkdsY0I0T1REbExTNWRmbnpQSVo5dm1OZDFURE9BaG40aXZkbVA4MktJNTMxckl1cmxPYV9hUkE0YzduWDdIMDM0dkMwTUFnMFZWSG9TWE9sRFV1ejh0V2VwVW5rb3RRZElfMlRtenM?oc=5)
 
 ---
 

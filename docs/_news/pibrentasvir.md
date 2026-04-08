@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
-
-### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
-
-來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
-
----
+## 相關新聞（14 則）
 
 ### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
 
@@ -60,11 +52,67 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Virus from seafood is linked to a persistent eye disease in humans](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+### [L'alcol rende felici? E perché lo beviamo? Gli effetti (catastrofici) della sostanza nel cervello e nel corpo umano - Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXRMTzVkNUdkaWlUSHowMnhtSnVoaklFRnJLaUk4d3I1eHc1QjRVaHJ0WnEtTE1jMEpOOGkzUFBhNTBrcEVhRDRnZ0hrSnRfRDl6NWtiV1RrY05OMFktbTg0VEQ1UVBiWGYtMjhFN0loX2pFakVLcC1TZVQyY0dxVzAzQ1FnekJhaFpiaE1fZlhxVXlIUG5DXzR4c2VuS2xCQ2JqVDlaZEZSbWPSAaABQVVfeXFMT2RnWkxWT0pSVzE2MGNaZ0RYZ3V2ektNanFCTFREZktvbDhVRVZxS0JYdWc4QVRYRUNfQkQ4TV9QVEJoQTcxbGNXSmpYWHhHZ3VvYWowVV9qVE4tWTdfakU2SmlCR2EtZmJDT0FiT0ZkME9JVUhyU3BVTkdTenBqQjl6NmN4VUg2N3d1Y3V2bmZZM3RoZWY1V042T0lTdl9nSg?oc=5)
+
+2026-04-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXRMTzVkNUdkaWlUSHowMnhtSnVoaklFRnJLaUk4d3I1eHc1QjRVaHJ0WnEtTE1jMEpOOGkzUFBhNTBrcEVhRDRnZ0hrSnRfRDl6NWtiV1RrY05OMFktbTg0VEQ1UVBiWGYtMjhFN0loX2pFakVLcC1TZVQyY0dxVzAzQ1FnekJhaFpiaE1fZlhxVXlIUG5DXzR4c2VuS2xCQ2JqVDlaZEZSbWPSAaABQVVfeXFMT2RnWkxWT0pSVzE2MGNaZ0RYZ3V2ektNanFCTFREZktvbDhVRVZxS0JYdWc4QVRYRUNfQkQ4TV9QVEJoQTcxbGNXSmpYWHhHZ3VvYWowVV9qVE4tWTdfakU2SmlCR2EtZmJDT0FiT0ZkME9JVUhyU3BVTkdTenBqQjl6NmN4VUg2N3d1Y3V2bmZZM3RoZWY1V042T0lTdl9nSg?oc=5)
+
+---
+
+### ["Sono quasi morta per un’embolia polmonare . Il mio volto ero solo pelle e ossa, ora invece dimostro 30 anni di meno. Ho dovuto ricredermi sulla chirurgia estetica": la storia di Mae - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiywJBVV95cUxPTklZY3E0cDdqYlQzUXczX2Rsd2U3R1NzRFItOEpGZzAwcjcwT3hOZjBWck40VWhJeDB0OFoyREdhRGg4SUJNV3NiVTBMV3dFQnRmeENuVmlTQUNFWW9TMUg5RldQckpSV2U3NnNVWmpsZWZYUTRlSTB2VDFFWVBZNGwxdUpfZ3VtWVRjbEVLZUFjVGhIRnM4eHhsbjc4Q3pDdGlsQVBCQkN3VElGMUdMa1A3T21POEdlc1Z0QlBWMGNmbmZaMDBRUkwxRXloTVdpLVlWalA5R1V0aXB5RWlUaTFvMVZvVFNXWWNOSHBkd3BVaXROM2JnZHVZUmVoSTJTcDFnZFVWeWxfQ05WcU1oZXNkazhxRC1tS3BnYWZ3QzVVMHhnZDR4Y1FPbjcyWUFzY2c0b2tqYkdlXzJ0UGJXRV93U3YycTRoZW5v?oc=5)
+
+2026-04-08 <span class="news-indication-tag">MS</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiywJBVV95cUxPTklZY3E0cDdqYlQzUXczX2Rsd2U3R1NzRFItOEpGZzAwcjcwT3hOZjBWck40VWhJeDB0OFoyREdhRGg4SUJNV3NiVTBMV3dFQnRmeENuVmlTQUNFWW9TMUg5RldQckpSV2U3NnNVWmpsZWZYUTRlSTB2VDFFWVBZNGwxdUpfZ3VtWVRjbEVLZUFjVGhIRnM4eHhsbjc4Q3pDdGlsQVBCQkN3VElGMUdMa1A3T21POEdlc1Z0QlBWMGNmbmZaMDBRUkwxRXloTVdpLVlWalA5R1V0aXB5RWlUaTFvMVZvVFNXWWNOSHBkd3BVaXROM2JnZHVZUmVoSTJTcDFnZFVWeWxfQ05WcU1oZXNkazhxRC1tS3BnYWZ3QzVVMHhnZDR4Y1FPbjcyWUFzY2c0b2tqYkdlXzJ0UGJXRV93U3YycTRoZW5v?oc=5)
+
+---
+
+### [Biologisches Alter: Wie wir den Zellverfall selbst beeinflussen können - AD HOC NEWS](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUJxaTRyN0pYRi1sRzh4TGZVNC14bHpjVG41TTRfM3lHV2Q5MFFLQTBITVlQWktwM2tqV2Z2d1E1M2thNVZCenZjbzVjTlNvZTN6RjRvSFI0T2tGTUtvN1Q1d3hXVk1KSUtqc3lkZ3Z1NlRUXzFfeTJfbWpOclNHdE4zQnZ4VlFGVDMtTFBMem53bVE4R1dSMEVDdEIwQW5wNTJjM3pqekFfYmlXWlhYUjlROUk5em5PR1VZR2I3VmJTelFESndaYw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUJxaTRyN0pYRi1sRzh4TGZVNC14bHpjVG41TTRfM3lHV2Q5MFFLQTBITVlQWktwM2tqV2Z2d1E1M2thNVZCenZjbzVjTlNvZTN6RjRvSFI0T2tGTUtvN1Q1d3hXVk1KSUtqc3lkZ3Z1NlRUXzFfeTJfbWpOclNHdE4zQnZ4VlFGVDMtTFBMem53bVE4R1dSMEVDdEIwQW5wNTJjM3pqekFfYmlXWlhYUjlROUk5em5PR1VZR2I3VmJTelFESndaYw?oc=5)
+
+---
+
+### [Tim Spector: Four ways to reduce your bowel cancer risk - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxORHNCMnNTZ3ZRRFdRZXdaZXRpZjhwU2l0alVYSGRpTGZyd2lWMWp1WElFNXQ5Q2JzZEdLbzlQcW0weEx6MFd1QlJEaXVKTXFpN0RMd09PVE0tT3Izd0JOWjdROWRpZEZSM1MxNFhqU0x6Yk9UdUFQX3BlSWRnWWhhMlVmNThtbUk4cHJZZXVZT2xhVFdnZkN0Z1ZRWUVNem8?oc=5)
+
+2026-04-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxORHNCMnNTZ3ZRRFdRZXdaZXRpZjhwU2l0alVYSGRpTGZyd2lWMWp1WElFNXQ5Q2JzZEdLbzlQcW0weEx6MFd1QlJEaXVKTXFpN0RMd09PVE0tT3Izd0JOWjdROWRpZEZSM1MxNFhqU0x6Yk9UdUFQX3BlSWRnWWhhMlVmNThtbUk4cHJZZXVZT2xhVFdnZkN0Z1ZRWUVNem8?oc=5)
+
+---
+
+### [Ni acumular ni esperar: la 'fecha de caducidad' del semen podría estar frustrando tus planes de embarazo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmVUMTY2LWxVTlp0RUQ4blBZcERCeDFYbW1wNkstVmpmZnpxeV9qS201dFhMTVR2NGZHYlNIMkYyVkd4b01KdGRXYVJTRldoNzg5X2lGZnVXMndZWlZ5SlZRc2ViSnpBQm50anhMYkxydHdKM2hKdXVWaUdCREUtdnVZck5KMFJtUEtrNXlrNlF0RHE3eTN4Zm0yLU00RHNqcE9fcGw3NTZla193cjhfS2hyRjlLV2xpY3A1UUcyTG9xVDlwQ3pPZkRQRFJuaWE2eEtGYVBHV2tJckNMN2dB?oc=5)
+
+2026-04-08 <span class="news-indication-tag">MS</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmVUMTY2LWxVTlp0RUQ4blBZcERCeDFYbW1wNkstVmpmZnpxeV9qS201dFhMTVR2NGZHYlNIMkYyVkd4b01KdGRXYVJTRldoNzg5X2lGZnVXMndZWlZ5SlZRc2ViSnpBQm50anhMYkxydHdKM2hKdXVWaUdCREUtdnVZck5KMFJtUEtrNXlrNlF0RHE3eTN4Zm0yLU00RHNqcE9fcGw3NTZla193cjhfS2hyRjlLV2xpY3A1UUcyTG9xVDlwQ3pPZkRQRFJuaWE2eEtGYVBHV2tJckNMN2dB?oc=5)
+
+---
+
+### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
+
+來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
+
+---
+
+### [New drugs take aim at one of cancer’s deadliest mutations](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Cc2hXbUItSXhSYWJ2UlQ4RDAtS045Q2MzUlNTV0pMalpOVXZGNzgtVmxINGdGcV9JT1V0eW5zTDZBZFM3eXBlcmRzTTlnR05CT28zOE5iVzVDOE93T3k4?oc=5)
+
+2026-04-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Cc2hXbUItSXhSYWJ2UlQ4RDAtS045Q2MzUlNTV0pMalpOVXZGNzgtVmxINGdGcV9JT1V0eW5zTDZBZFM3eXBlcmRzTTlnR05CT28zOE5iVzVDOE93T3k4?oc=5)
+
+---
+
+### [Virus from seafood is linked to a persistent eye disease in humans - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
 
 2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[medicalxpress.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
 
 ---
 
@@ -76,35 +124,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [La Comunidad Valenciana supera las 105.000 vacunas frente al VPH en un año con pauta de dosis única](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0Z1OE02OHgteE5WSkMyVW5QZzRpS1JTbW1tYVFqUFF6dFVhZjMzMlFqVDl6dXpwNlJNaVdZaGxZNFlzdElmbjJucWM1bXJlX3h4RllUTE9uRkZsWmFkY20wQnlWbUpGeS0ycGdqb0lDaUVRc0kxYmlEX01TSnBobFIwMllJM3lYX0Y1QkxELXVlLUVSOW5MWWJEdzRfcWswbjlySHY0OUhta1RpT090VTRHeXkxbm96MHQ1SFhORzJBOFVrN0FoemZnWTZTTFZyLWVvTnFaWlRSbGlFMVhNZk85bEZRUQ?oc=5)
+### [Treprostinil-Inhalat bremst Lungenfibrose - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
 
 2026-04-07 <span class="news-indication-tag">MS</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0Z1OE02OHgteE5WSkMyVW5QZzRpS1JTbW1tYVFqUFF6dFVhZjMzMlFqVDl6dXpwNlJNaVdZaGxZNFlzdElmbjJucWM1bXJlX3h4RllUTE9uRkZsWmFkY20wQnlWbUpGeS0ycGdqb0lDaUVRc0kxYmlEX01TSnBobFIwMllJM3lYX0Y1QkxELXVlLUVSOW5MWWJEdzRfcWswbjlySHY0OUhta1RpT090VTRHeXkxbm96MHQ1SFhORzJBOFVrN0FoemZnWTZTTFZyLWVvTnFaWlRSbGlFMVhNZk85bEZRUQ?oc=5)
-
----
-
-### [Treprostinil-Inhalat bremst Lungenfibrose](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
-
-2026-04-07 <span class="news-indication-tag">MS</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
-
----
-
-### [Día Mundial de la Actividad Física - Ajuntament de Barcelona](https://news.google.com/rss/articles/CBMimgJBVV95cUxNUlFkT2x3ZEYwVHVreDg2cWNza2lySlp1VXFuQ0h3NVhtX0tyQjlCRmFIV01YdjVkTVR3VjNHbzhqLTJseHp4V093MmVla0M0VWlxaDVGc2tCRFp2bThEVlAyM3VlTEh2X1ppN0VabWF5LXZ0VlVyQ3FLNVlUSU92LUNXWUJHbWlvQnFwVVljU3dwaGI2d1REMFJILTd4VlZkTmp3eERIZUh6UVFyWWl6MFJIUkFOTVBja1dzSDR6M21YYzVUcGFOdHRnbVgyVFBDTWRDU0NFRVE5OGIwbTdNVDAzZ0VGdmpTUm1QUzdKU3pCVXVzWDFSSWFDdmhaR2U4eUpEeDMzTkx3UElxZ1NJTy1JSHZ4WkVSVmc?oc=5)
-
-2026-04-07 <span class="news-indication-tag">MS</span>
-
-來源：[Ajuntament de Barcelona](https://news.google.com/rss/articles/CBMimgJBVV95cUxNUlFkT2x3ZEYwVHVreDg2cWNza2lySlp1VXFuQ0h3NVhtX0tyQjlCRmFIV01YdjVkTVR3VjNHbzhqLTJseHp4V093MmVla0M0VWlxaDVGc2tCRFp2bThEVlAyM3VlTEh2X1ppN0VabWF5LXZ0VlVyQ3FLNVlUSU92LUNXWUJHbWlvQnFwVVljU3dwaGI2d1REMFJILTd4VlZkTmp3eERIZUh6UVFyWWl6MFJIUkFOTVBja1dzSDR6M21YYzVUcGFOdHRnbVgyVFBDTWRDU0NFRVE5OGIwbTdNVDAzZ0VGdmpTUm1QUzdKU3pCVXVzWDFSSWFDdmhaR2U4eUpEeDMzTkx3UElxZ1NJTy1JSHZ4WkVSVmc?oc=5)
-
----
-
-### [Bastano 7 giorni di meditazione per riprogrammare cervello e corpo](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa25aWHBTa1dSTUNaZWp5dW03VzhxckNKaFJQUW9DdWNsWk02ay05X2FPZGNiZ3RwODV6N0dxV2R6cm9PYlR5V2JraTBsOXRqRlFvc2k5WWE2bEY0RmJvT243V1RmSHk5am16V3BSV2tacFBjWEJidU02ZE5YNWota0RyOTVoTTY1UHhjOTJadVQtMzJkNnduOGZfZVowdngxbnk4?oc=5)
-
-2026-04-07 <span class="news-indication-tag">MS</span>
-
-來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa25aWHBTa1dSTUNaZWp5dW03VzhxckNKaFJQUW9DdWNsWk02ay05X2FPZGNiZ3RwODV6N0dxV2R6cm9PYlR5V2JraTBsOXRqRlFvc2k5WWE2bEY0RmJvT243V1RmSHk5am16V3BSV2tacFBjWEJidU02ZE5YNWota0RyOTVoTTY1UHhjOTJadVQtMzJkNnduOGZfZVowdngxbnk4?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
 
 ---
 
@@ -129,14 +153,6 @@ permalink: /news/pibrentasvir/
 2026-04-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0t2djZrcE5rQ0lIRnhpQlRQWDJySjNiV19Sc3Z1c3NFMlQzTTNMWDgzbmRtWjYySFh4U2NFNUc4OTN2cUhJdTNmZnNXSEJfVXhiN0FCZWNfb01HM1lEQndrMHIyUmVTMFFwRFNOc21mYXNET29uaUxpU2RUbGNPOWNFQUlRdlVXNVMtSHhOQWdPQ01tcUdvZUlxSk9wc1ZLdERPX2hFSG5Ta1hMa1d2V1ZrVHN5Zw?oc=5)
-
----
-
-### [ADHS & PMS: Bettina erlebt ihre Periode „wie eine kleine Depression“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
-
-2026-04-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS10Z19OWThuS1pxYlB0ZDY4aURhOHBXcjRLdUZLSnNWT05LTy1OWDRReVhJY0RQUEpUcDlKUEVJbDhXZHRjdkJESWxPb1BtaWFnMXAyOElkSTEtLVF3ZlYzQVVTMzZEejUwdk5CVjdlbndCVlBuMkJlbkRHNEZoMkVMOGZlZlFlanptZkdMR0psamZiOU9lTXFnYlJ3djdqamlkTWVmSmtpUGgweHJnRVFXeDJUOGdMWXlEdTNNbnMtMWVEVEE?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
@@ -140,27 +140,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [L'algoritmo che 'legge' il sangue: la nuova frontiera che sta cambiando la cura del diabete (anche nei casi disperati) - La Nazione](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWjBldnJ4ZDZselh4WTRxWVBGazI2X09XQmlRQmxvenEwRmNXeWxaT3F2XzVxTUNjM1ltMjdDQ1FLR0pDWVU4cW9tMnVmdDVjUzRwRmpmV0U2cVlfamR4TGVHOG5yYmNfQzRncjM1SERVLU9nbXhwX2lGcmdDSkNxdHpyY0p1YlhYZ2NhUHZDeDlnNFpjaVJlLWRCa3E2MFU5TG5RZk42VG5ORXhBbEt2TE8tekV1V2g5M29YSXdyM1Brd05icWJzNXRLSXRXa2RKMDNYZjhnVnBLNTUyVjhjdmVPMXNhV2d6cHc?oc=5)
-
-2026-04-07
-
-來源：[La Nazione](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWjBldnJ4ZDZselh4WTRxWVBGazI2X09XQmlRQmxvenEwRmNXeWxaT3F2XzVxTUNjM1ltMjdDQ1FLR0pDWVU4cW9tMnVmdDVjUzRwRmpmV0U2cVlfamR4TGVHOG5yYmNfQzRncjM1SERVLU9nbXhwX2lGcmdDSkNxdHpyY0p1YlhYZ2NhUHZDeDlnNFpjaVJlLWRCa3E2MFU5TG5RZk42VG5ORXhBbEt2TE8tekV1V2g5M29YSXdyM1Brd05icWJzNXRLSXRXa2RKMDNYZjhnVnBLNTUyVjhjdmVPMXNhV2d6cHc?oc=5)
-
----
-
 ### [Dr. José Ferreras: «Lo que dicen los dientes sobre tu salud puede ser clave para detectar enfermedades importantes - Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
 
 2026-04-07
 
 來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
-
----
-
-### [Metformin drug taken by millions has ‘striking’ unexpected health benefit, study suggests](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
-
-2026-04-06
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
 
 ---
 

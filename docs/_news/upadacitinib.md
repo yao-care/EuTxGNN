@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Upadacitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Sarcopenia: cómo prevenirla y revertirla con alimentación saludable y ejercicio - 65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
+
+2026-04-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
+
+---
 
 
 <div class="disclaimer">

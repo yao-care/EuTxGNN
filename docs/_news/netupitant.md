@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Netupitant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Scientists develop AI tool to spot heart failure risk five years before it strikes - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
+
+2026-04-08 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
+
+---
 
 ### [Ipertensione arteriosa, cervello e cuore le prime vittime: i valori da tenere sotto controllo - Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0FQVERNRzRLa0pJMllPNzZvdTA2VHRQQ1Y0TE93VkNlUmlEM3NDeXNxRWJfWUhKU01FalZ4R3lBZFhXQVhFRW5zM0JsOHZRbnFvUDRHSDR5cXdnamcxNWt1ejJCczRaUHA5eS14eWNHbzlPVU5SSVVnY25MdEJBdmU3Slp3eXZqTUt0alc5Vzg1WU9zUVF6UnVDdDNpZ01fNWFsNGl1SUk?oc=5)
 

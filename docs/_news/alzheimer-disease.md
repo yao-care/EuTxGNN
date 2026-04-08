@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Good news: a positive attitude may reduce risk of dementia - The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGNDUlJyQUM2ODRYa3ZTTjRVVFVES1pSalBJNmpXekJmT1NjVXZHNE9rZWNOTzBWbE5rQThETFNQZjM0YjhfVjN4Q3A1ZGZxRGdBTjBxUjRuZ1NsU255dDFfWllpMThRenRvVFNIQ1pweEdfNmI0YmUwZkhKSUxLekltWmlBdkpFaFlTODI5SF8?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/alzheimer-disease/
 2026-04-07
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMi9gFBVV95cUxONkFkU2gwdjFDa1IwckZRdU5seURELXZqWF9YaE5HVFZaMlR5MUpVZFdHWEoxcW5tejl1RUp1SGk2ZTNuRjNlaGpyQVdwbkE2M2xMWnpqUmhHZTFFNkxHbGoxMDJtUzluUTZ0RVpEanhiX3QxS2RQQXdDd3U4VV8yQnNNR2tTU01OeWhJNFBrQ3MwQjlKajljaXluZnNET2N4UngtWHJhaHU1QnRQY0YyZzhwUGswcXRqUmROZ0RNbFhzdkg3OWIxTmNEWkZrZkl5d29wWXNjREozaWM1cjZHclNrbloxREtkZGlHUGs3UkM2ZlJWSlHSAfsBQVVfeXFMTVQtRFdBNGFuWlNpcVRWT1E4TGVMalBVQlJ4TENfWGlucGZQZWFnSmpFNHlVRE44Z2ZoUkk0TlZqMXJERGplcWNxUHRfLVRJc2I0ZzV5TkZ5X1p1NkxnNWI0UHhzWm9xeEZycFdySlEyYTZRbTlqM3RLV2JlSlgwbjFocE9ZalBHdld1VHI3RzVmLTVNNC1wMXQ3Q0x5M0piVmdFc3hhNHJ5anZvcUZMY0M1VnB2dUxRSTRMX1hSN29rSWpRRVM0SURVQU5pb1NYUG0tRllnUEQzU01pRjhCbWxxVk9DWUpZVmlvV0JhN0VheGtLZmYwa1RxYjA?oc=5)
-
----
-
-### [Vaccine found to decrease Alzheimer’s disease risk by 55 per cent - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2NXSFQ2MDk1S2pueVlaZTdRdS1OYVZCTWt1M2hkQ2xTdUVLS0VHa0RvcDM5VmstSWxfbkhQNDdRenM1QkVRVC1DdnllNlJTMDZvYnFHczNHVzc5bWd0WE9NR05KdjdjaC1kVDI2MlpQOHFlUEVtcFg2VDhjeGZUZVVzNVZ5ZTQyTXpaNG5xb2Q?oc=5)
-
-2026-04-07
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2NXSFQ2MDk1S2pueVlaZTdRdS1OYVZCTWt1M2hkQ2xTdUVLS0VHa0RvcDM5VmstSWxfbkhQNDdRenM1QkVRVC1DdnllNlJTMDZvYnFHczNHVzc5bWd0WE9NR05KdjdjaC1kVDI2MlpQOHFlUEVtcFg2VDhjeGZUZVVzNVZ5ZTQyTXpaNG5xb2Q?oc=5)
 
 ---
 

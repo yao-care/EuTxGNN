@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obésité（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obésité（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obésité（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
+<strong>obésité（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Un nouveau vaccin contre la grippe se montre plus efficace que la version standard pour les personnes en situation d'obésité sévère](https://news.google.com/rss/articles/CBMinAJBVV95cUxOZnd0dlpEclcyem8wTEtBaGt5amhQWFZXbzlwTnI1QlZJU0Q2LWlRcFpiaGZVZzduNGVIRU1FNk9KWHZ5MHE2b0lpNHEzMVRSWlJ1TTk5cFNWYWRWamFlRV9BV09CTE1RSjB4UXU1b1ZLUDRLeUdSNkRvV3ozVzQ3S2paLTZ4ZEpldmpnZ01fRkxVS0gxT3l5NDN3ZHRPZ2hxcS1UNzE2QS1XaGp6UmRQYXY5a01mRXR4RDV1VlJjY2JYd0s0eEJLTUkwZVM2eHQ2Wk1HcmczbVJSMkpGWklpangwYWlEZEktai1SeW5NQl9iLVVEMWhBLXlCTFI3c1hZSXdmeXpKdFZ0QVpVUmp5SllGdlpHVjVaZzRSTw?oc=5)
+
+2026-04-08
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMinAJBVV95cUxOZnd0dlpEclcyem8wTEtBaGt5amhQWFZXbzlwTnI1QlZJU0Q2LWlRcFpiaGZVZzduNGVIRU1FNk9KWHZ5MHE2b0lpNHEzMVRSWlJ1TTk5cFNWYWRWamFlRV9BV09CTE1RSjB4UXU1b1ZLUDRLeUdSNkRvV3ozVzQ3S2paLTZ4ZEpldmpnZ01fRkxVS0gxT3l5NDN3ZHRPZ2hxcS1UNzE2QS1XaGp6UmRQYXY5a01mRXR4RDV1VlJjY2JYd0s0eEJLTUkwZVM2eHQ2Wk1HcmczbVJSMkpGWklpangwYWlEZEktai1SeW5NQl9iLVVEMWhBLXlCTFI3c1hZSXdmeXpKdFZ0QVpVUmp5SllGdlpHVjVaZzRSTw?oc=5)
+
+---
 
 ### [El año de consolidación de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMic0FVX3lxTE9CclQ3N0xFaDE4bFBzWndLYXdrckR0TC0wTWdEN0lzRTdnZ1dURFowdGVqYk5nS0xfZlAzREhWb1dQYkJXdXhNbkt4Yk12NlNoYzItTGNhcUQwZm5DN2RUYnN1bEhERldvSVc1LUdsZlB6bkk?oc=5)
 
@@ -46,11 +54,19 @@ permalink: /news/obesity/
 
 ---
 
-### [Recomendaciones Bolsas internacionales Visión positiva sobre el desarrollo de medicamentos contra la obesidad pero de manera selectiva: OW en Eli Lilly, Chugai, Structure Therapeutics, Viking Therapeutics y Omada Health - Consenso del Mercado](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNTV82OGVmU0YydEhoS21xUDlSd1ViOGpHZ0lLVllScXRsSXJ1MXVvRnR2U3ZWbE1GR0Qxbm9lV0s3Ul9GLV8zbExYWUhZWXZwWUdic2JMb1dkeUlwa202eGItLVhQaWZyQi13WnpZZ1B2ZmpNWlJidUJUcFdIYk82TTdSNWJSZW5YM3hhMHlOUmtzS0VzaGlvVjJpcWRaRzQtaWxmc1ZuRzJ6THJuSDJlbGVCVXBWY1ZidkhEdi1zT0tKajJkbjgzZml2VThsRl9Sa2FyaGZGdEUxZmFSY3EtZFc1alFxZUNPQjFBa3Q1dUZ1SEdZZGIxR0Zjd2pOMEcyYkdsY0I0T1REbExTNWRmbnpQSVo5dm1OZDFURE9BaG40aXZkbVA4MktJNTMxckl1cmxPYV9hUkE0YzduWDdIMDM0dkMwTUFnMFZWSG9TWE9sRFV1ejh0V2VwVW5rb3RRZElfMlRtenM?oc=5)
+### [Lilly presenta un informe centrado en el valor social y sanitario que supondría un mejor control de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3d6ZHd3Yi1uRnViT3ZUa0FKZThQcGhfOE1IaVBaUjRLdXVMSlphZjhrNmUyQVVzR3JFTkwtYi1CamtYbjNhcEpqWGRJMXFSeThJMWRWaTFRMjNLWGxKNVhtNW5xTXhBYVNnaVZOWHpxd3k0LWVvZXV4MVFlS1pyS0JISGtiNndwbDhXZ2g0TjllZmRGMG1YT2Z1Wks?oc=5)
 
-2026-04-07
+2026-04-08
 
-來源：[Consenso del Mercado](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNTV82OGVmU0YydEhoS21xUDlSd1ViOGpHZ0lLVllScXRsSXJ1MXVvRnR2U3ZWbE1GR0Qxbm9lV0s3Ul9GLV8zbExYWUhZWXZwWUdic2JMb1dkeUlwa202eGItLVhQaWZyQi13WnpZZ1B2ZmpNWlJidUJUcFdIYk82TTdSNWJSZW5YM3hhMHlOUmtzS0VzaGlvVjJpcWRaRzQtaWxmc1ZuRzJ6THJuSDJlbGVCVXBWY1ZidkhEdi1zT0tKajJkbjgzZml2VThsRl9Sa2FyaGZGdEUxZmFSY3EtZFc1alFxZUNPQjFBa3Q1dUZ1SEdZZGIxR0Zjd2pOMEcyYkdsY0I0T1REbExTNWRmbnpQSVo5dm1OZDFURE9BaG40aXZkbVA4MktJNTMxckl1cmxPYV9hUkE0YzduWDdIMDM0dkMwTUFnMFZWSG9TWE9sRFV1ejh0V2VwVW5rb3RRZElfMlRtenM?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3d6ZHd3Yi1uRnViT3ZUa0FKZThQcGhfOE1IaVBaUjRLdXVMSlphZjhrNmUyQVVzR3JFTkwtYi1CamtYbjNhcEpqWGRJMXFSeThJMWRWaTFRMjNLWGxKNVhtNW5xTXhBYVNnaVZOWHpxd3k0LWVvZXV4MVFlS1pyS0JISGtiNndwbDhXZ2g0TjllZmRGMG1YT2Z1Wks?oc=5)
+
+---
+
+### [José María Fernández, especialista en medicina interna: «Nos queda muchísimo por conocer sobre los beneficios que pueden tener fármacos como Ozempic» - La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
+
+2026-04-08
+
+來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
 
 ---
 

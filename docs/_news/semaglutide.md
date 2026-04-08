@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [We live in UK fat jab capital & lost 20st all in, here’s 4 mistakes people make - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWtFT2pkRWgyVEl0TjRmT1Q4VS1qZ2Vla1U4aVUxYnpqUTZud3l0VTF6NW5pUlVkN083R3VrNjROczZHMDFfSGJrN01UNDk0TTUxa0VLeHVFQUktaEFfXzhTamdYWFRPSm1MZ0JKM0VHWUhNNjc1MW5sWFl3MjY4bVlUQXE5dTI1d09HWU9UMXFydUFobURDaA?oc=5)
+
+2026-04-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWtFT2pkRWgyVEl0TjRmT1Q4VS1qZ2Vla1U4aVUxYnpqUTZud3l0VTF6NW5pUlVkN083R3VrNjROczZHMDFfSGJrN01UNDk0TTUxa0VLeHVFQUktaEFfXzhTamdYWFRPSm1MZ0JKM0VHWUhNNjc1MW5sWFl3MjY4bVlUQXE5dTI1d09HWU9UMXFydUFobURDaA?oc=5)
+
+---
+
+### [La cara B del Ozempic: la demanda de productos para evitar la caída del pelo o cuidar la piel se dispara por el boom de la semaglutida y sus efectos secundarios - El HuffPost](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVHdKeDg0eUpZWWdkV1ZPdk1iRFFkbzk3XzZEVWlnWFNQTUdYdE5NbG5qbVRleG9DSnM1aGxES3Y3MkFra2JxYUdkcjEwMUxQMzdmUE1fdVhGMUVCck1GdzBiRWVveEQ5SUc1aDQzWE5iLWhZSEhybWJEYlVZSjc2aFlPMTRxQ0IzX0Y1RjF2cW5mSWt4bFY4OFlCeFlNeGtGcEJBR1RfYjhhdkVZOWd4WHJtX0Ita1NHQkpCdVpjR1NTMmhsLVdkVWtmcFZXQUE2LXQwTUNxWkttUjJJNk5kaE9wWnk1SXJlWF9lLUFTMkhQVTRVRkZj0gGLAkFVX3lxTE1meHNkbS14YV85QnItdmF3VTVXTF8ybzNqUGdqUnBJdWRfa2U1MERnakhzNi1JRVhGeG45UDZlS0lUQkxsSjVDMmhrRG9BbzBsaVFSS2l0VzlTVFRCbHBYWjFudk1FdHh2azhZcDBOaDNxR1FSTWJJUmNIQ3AxdDFncXRaUTRfZXNTdUV5YldGMERBbGpHSDJocjRYTkN6QVNiNVdDamNCOEs3eldWNHRCeExZVEVIY2VfTXF2OVJIZ2gtVGczSDZsd19fa21HdHFvdVZNLS1xNU9UQlBWajFZNHJkR0ZKd2hRMzdyWV9qWWNIOFZ5ZDc0UkJfRm10WlVHNVh3LW1XUE1Dcw?oc=5)
+
+2026-04-08 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[El HuffPost](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVHdKeDg0eUpZWWdkV1ZPdk1iRFFkbzk3XzZEVWlnWFNQTUdYdE5NbG5qbVRleG9DSnM1aGxES3Y3MkFra2JxYUdkcjEwMUxQMzdmUE1fdVhGMUVCck1GdzBiRWVveEQ5SUc1aDQzWE5iLWhZSEhybWJEYlVZSjc2aFlPMTRxQ0IzX0Y1RjF2cW5mSWt4bFY4OFlCeFlNeGtGcEJBR1RfYjhhdkVZOWd4WHJtX0Ita1NHQkpCdVpjR1NTMmhsLVdkVWtmcFZXQUE2LXQwTUNxWkttUjJJNk5kaE9wWnk1SXJlWF9lLUFTMkhQVTRVRkZj0gGLAkFVX3lxTE1meHNkbS14YV85QnItdmF3VTVXTF8ybzNqUGdqUnBJdWRfa2U1MERnakhzNi1JRVhGeG45UDZlS0lUQkxsSjVDMmhrRG9BbzBsaVFSS2l0VzlTVFRCbHBYWjFudk1FdHh2azhZcDBOaDNxR1FSTWJJUmNIQ3AxdDFncXRaUTRfZXNTdUV5YldGMERBbGpHSDJocjRYTkN6QVNiNVdDamNCOEs3eldWNHRCeExZVEVIY2VfTXF2OVJIZ2gtVGczSDZsd19fa21HdHFvdVZNLS1xNU9UQlBWajFZNHJkR0ZKd2hRMzdyWV9qWWNIOFZ5ZDc0UkJfRm10WlVHNVh3LW1XUE1Dcw?oc=5)
+
+---
 
 ### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+
+---
+
+### [José María Fernández, especialista en medicina interna: «Nos queda muchísimo por conocer sobre los beneficios que pueden tener fármacos como Ozempic» - La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
+
+2026-04-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
 
 ---
 
@@ -76,14 +100,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [L'algoritmo che 'legge' il sangue: la nuova frontiera che sta cambiando la cura del diabete (anche nei casi disperati) - La Nazione](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWjBldnJ4ZDZselh4WTRxWVBGazI2X09XQmlRQmxvenEwRmNXeWxaT3F2XzVxTUNjM1ltMjdDQ1FLR0pDWVU4cW9tMnVmdDVjUzRwRmpmV0U2cVlfamR4TGVHOG5yYmNfQzRncjM1SERVLU9nbXhwX2lGcmdDSkNxdHpyY0p1YlhYZ2NhUHZDeDlnNFpjaVJlLWRCa3E2MFU5TG5RZk42VG5ORXhBbEt2TE8tekV1V2g5M29YSXdyM1Brd05icWJzNXRLSXRXa2RKMDNYZjhnVnBLNTUyVjhjdmVPMXNhV2d6cHc?oc=5)
-
-2026-04-07 <span class="news-indication-tag">diabete</span>
-
-來源：[La Nazione](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWjBldnJ4ZDZselh4WTRxWVBGazI2X09XQmlRQmxvenEwRmNXeWxaT3F2XzVxTUNjM1ltMjdDQ1FLR0pDWVU4cW9tMnVmdDVjUzRwRmpmV0U2cVlfamR4TGVHOG5yYmNfQzRncjM1SERVLU9nbXhwX2lGcmdDSkNxdHpyY0p1YlhYZ2NhUHZDeDlnNFpjaVJlLWRCa3E2MFU5TG5RZk42VG5ORXhBbEt2TE8tekV1V2g5M29YSXdyM1Brd05icWJzNXRLSXRXa2RKMDNYZjhnVnBLNTUyVjhjdmVPMXNhV2d6cHc?oc=5)
-
----
-
 ### [Dr. José Ferreras: «Lo que dicen los dientes sobre tu salud puede ser clave para detectar enfermedades importantes - Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
 
 2026-04-07 <span class="news-indication-tag">diabetes</span>
@@ -92,11 +108,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Metformin drug taken by millions has ‘striking’ unexpected health benefit, study suggests](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
+### [Is a new weight-loss drug making people fall out of love? - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHVUNUxnUHVBZ1NVUXIxMGJ2Yzc1eVItY3hRSURrYTFSbGJEOWppenB5VlJQVC1sNFk3SFlqN1Jlak5JNEFrdnVIRV9LQkhNVDhOMWJRSXFwWG1MdTdSS3Bwbm00b2JGRGtlWUNzam1YRTJqTFlTSmVaWTVZb2NzbmNsb2lJVVFzUVJTRVBGRmZyU0dFbmFZMG5rYzZEcnBnRzdoTHdTMTdjdk1wQ3VjblYzMUt0ZThsdUw1ZFhYRDk?oc=5)
 
-2026-04-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1mLTEwQ2JfQXFfbHBtV3RZYUZSMzN1UXRMS1lWZml2aW95VS05SVdGdmwtZzRhdmUtaWxqNXltNmhzS0F3SzZqdUswaXBwRF9ROE1qZ0QwSVdwUFlLTHBpRVhWUy0yUmVTS1lsY2U3RUtNUExLUzVNaFBRb2pGeElRT1oxVzhKeDlHUlBBRFdNMkVUUjlVWVRRREZMdFVwX2c?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHVUNUxnUHVBZ1NVUXIxMGJ2Yzc1eVItY3hRSURrYTFSbGJEOWppenB5VlJQVC1sNFk3SFlqN1Jlak5JNEFrdnVIRV9LQkhNVDhOMWJRSXFwWG1MdTdSS3Bwbm00b2JGRGtlWUNzam1YRTJqTFlTSmVaWTVZb2NzbmNsb2lJVVFzUVJTRVBGRmZyU0dFbmFZMG5rYzZEcnBnRzdoTHdTMTdjdk1wQ3VjblYzMUt0ZThsdUw1ZFhYRDk?oc=5)
 
 ---
 

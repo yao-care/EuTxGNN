@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carbidopa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Good news: a positive attitude may reduce risk of dementia - The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGNDUlJyQUM2ODRYa3ZTTjRVVFVES1pSalBJNmpXekJmT1NjVXZHNE9rZWNOTzBWbE5rQThETFNQZjM0YjhfVjN4Q3A1ZGZxRGdBTjBxUjRuZ1NsU255dDFfWllpMThRenRvVFNIQ1pweEdfNmI0YmUwZkhKSUxLekltWmlBdkpFaFlTODI5SF8?oc=5)
 
@@ -68,14 +68,6 @@ permalink: /news/carbidopa/
 
 ---
 
-### [Vaccine found to decrease Alzheimer’s disease risk by 55 per cent - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2NXSFQ2MDk1S2pueVlaZTdRdS1OYVZCTWt1M2hkQ2xTdUVLS0VHa0RvcDM5VmstSWxfbkhQNDdRenM1QkVRVC1DdnllNlJTMDZvYnFHczNHVzc5bWd0WE9NR05KdjdjaC1kVDI2MlpQOHFlUEVtcFg2VDhjeGZUZVVzNVZ5ZTQyTXpaNG5xb2Q?oc=5)
-
-2026-04-07 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2NXSFQ2MDk1S2pueVlaZTdRdS1OYVZCTWt1M2hkQ2xTdUVLS0VHa0RvcDM5VmstSWxfbkhQNDdRenM1QkVRVC1DdnllNlJTMDZvYnFHczNHVzc5bWd0WE9NR05KdjdjaC1kVDI2MlpQOHFlUEVtcFg2VDhjeGZUZVVzNVZ5ZTQyTXpaNG5xb2Q?oc=5)
-
----
-
 ### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
 
 2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
@@ -88,7 +80,7 @@ permalink: /news/carbidopa/
 
 2026-04-07 <span class="news-indication-tag">Parkinson's</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
 
 ---
 
