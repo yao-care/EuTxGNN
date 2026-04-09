@@ -49,7 +49,7 @@ permalink: /news/parkinson-disease/
 
 2026-04-07
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
 
 ---
 

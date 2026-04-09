@@ -60,6 +60,14 @@ permalink: /news/orlistat/
 
 ---
 
+### [Lilly expone los datos de un informe sobre el valor social y sanitario de lograr un mejor control de la obesidad - Radio Intereconomía](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMjBaNVFaWHR5NVg1cThzd1ZnTHVycWxzbWxqX0hXUUpNUjhkVGExQzhzOEhaeVQ3ZlRiakgwc0FfbnZFT21IQ2ZEcUpxNklFYVhBVDJHZGtoTUlidDU5Z0pZRi1GS1FqWXZIci1PY015ZHpGZm9QbmlDbXlrdnJfck45Z3pBanljSFpqeGNqcFRxeEJZZE91ZFluQ2xrUXdRYXZlRVdGM1ZDQi1JOFVDRHV3QlFyWUtjQ3FUVUZsbzhmUldKSE9CeDBtR1VfckFkV2xUVy1ZOC00ZDg0S3hybHprMGZmd1k1TlI3ZkF0YnFIWWvSAfgBQVVfeXFMTnZIT3VWZjdCSGJycFYycHZaekhaUmxUNFh3Z0NkZlV3X050UnVwOWktMVpYRm9oMzBvZElBeDQwUUJMbVRQRS1xMzVpSWJ6OTRRaFl1a3FTSl9uSTBUcWt2VkJ5ZHB3aFc3TTlaR2JlblAxXzFXR1ZPUU04aWdBY0NIMlppUFZWZ0pZQjFhT1pSTFphMC1qbzgybWJBUzY0UVc3THM1dTl2Uy1VcXBhSV9uRjl1SWw2N1JaSE9kZ2JoUkdlUkk2YUZPcUNxak5tZkpoWHlmM3BmLTJpRWtva2w3SXpfVEtpTE4tUmtTVmFuMG5tVzdhSjE?oc=5)
+
+2026-04-08 <span class="news-indication-tag">obesidad</span>
+
+來源：[Radio Intereconomía](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMjBaNVFaWHR5NVg1cThzd1ZnTHVycWxzbWxqX0hXUUpNUjhkVGExQzhzOEhaeVQ3ZlRiakgwc0FfbnZFT21IQ2ZEcUpxNklFYVhBVDJHZGtoTUlidDU5Z0pZRi1GS1FqWXZIci1PY015ZHpGZm9QbmlDbXlrdnJfck45Z3pBanljSFpqeGNqcFRxeEJZZE91ZFluQ2xrUXdRYXZlRVdGM1ZDQi1JOFVDRHV3QlFyWUtjQ3FUVUZsbzhmUldKSE9CeDBtR1VfckFkV2xUVy1ZOC00ZDg0S3hybHprMGZmd1k1TlI3ZkF0YnFIWWvSAfgBQVVfeXFMTnZIT3VWZjdCSGJycFYycHZaekhaUmxUNFh3Z0NkZlV3X050UnVwOWktMVpYRm9oMzBvZElBeDQwUUJMbVRQRS1xMzVpSWJ6OTRRaFl1a3FTSl9uSTBUcWt2VkJ5ZHB3aFc3TTlaR2JlblAxXzFXR1ZPUU04aWdBY0NIMlppUFZWZ0pZQjFhT1pSTFphMC1qbzgybWJBUzY0UVc3THM1dTl2Uy1VcXBhSV9uRjl1SWw2N1JaSE9kZ2JoUkdlUkk2YUZPcUNxak5tZkpoWHlmM3BmLTJpRWtva2w3SXpfVEtpTE4tUmtTVmFuMG5tVzdhSjE?oc=5)
+
+---
+
 ### [La neuróloga Elena Zapata ofrece en Lebrija una charla clave para reconocer y prevenir el ictus - Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">ictus</span>
@@ -68,19 +76,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Lilly presenta un informe centrado en el valor social y sanitario que supondría un mejor control de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3d6ZHd3Yi1uRnViT3ZUa0FKZThQcGhfOE1IaVBaUjRLdXVMSlphZjhrNmUyQVVzR3JFTkwtYi1CamtYbjNhcEpqWGRJMXFSeThJMWRWaTFRMjNLWGxKNVhtNW5xTXhBYVNnaVZOWHpxd3k0LWVvZXV4MVFlS1pyS0JISGtiNndwbDhXZ2g0TjllZmRGMG1YT2Z1Wks?oc=5)
-
-2026-04-08 <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3d6ZHd3Yi1uRnViT3ZUa0FKZThQcGhfOE1IaVBaUjRLdXVMSlphZjhrNmUyQVVzR3JFTkwtYi1CamtYbjNhcEpqWGRJMXFSeThJMWRWaTFRMjNLWGxKNVhtNW5xTXhBYVNnaVZOWHpxd3k0LWVvZXV4MVFlS1pyS0JISGtiNndwbDhXZ2g0TjllZmRGMG1YT2Z1Wks?oc=5)
-
----
-
 ### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
+
+---
+
+### [Obésité, troubles alimentaires, psychiatrie : à Pau, la clinique Princess s’est muée en hôpital de jour - La République des Pyrénées](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMnotd0phV3NUWEZhWXpRYjNraVc2T2tkWlF4bTFNS1ByTUNQOXZ3ZFYzMzNiOGVDTTgwbnV5TnlWMC1fZjFueDVLVWJQQkJJQ1dQcERpMGlWRE5ELUdlTVFmWk1KaGMtUG0xQ3JURUF6c0lmM0M0bFdLNU8zQlVGM29uTW11QVJ4SVFYTzVCMlVnQ3UzVlhIWC0wMUJWOHByTjhrclV6dE1Ra0U1NVczVWh1OHZVNzYyQ1JhbmFQX2ZSekVEMm84dVlJRUxGZkowVEluMUkwQnIydVk0dTZ3TW9NZXQwaW9LbEdlMQ?oc=5)
+
+2026-04-08 <span class="news-indication-tag">obésité</span>
+
+來源：[La République des Pyrénées](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMnotd0phV3NUWEZhWXpRYjNraVc2T2tkWlF4bTFNS1ByTUNQOXZ3ZFYzMzNiOGVDTTgwbnV5TnlWMC1fZjFueDVLVWJQQkJJQ1dQcERpMGlWRE5ELUdlTVFmWk1KaGMtUG0xQ3JURUF6c0lmM0M0bFdLNU8zQlVGM29uTW11QVJ4SVFYTzVCMlVnQ3UzVlhIWC0wMUJWOHByTjhrclV6dE1Ra0U1NVczVWh1OHZVNzYyQ1JhbmFQX2ZSekVEMm84dVlJRUxGZkowVEluMUkwQnIydVk0dTZ3TW9NZXQwaW9LbEdlMQ?oc=5)
 
 ---
 
@@ -105,14 +113,6 @@ permalink: /news/orlistat/
 2026-04-07 <span class="news-indication-tag">ictus</span>
 
 來源：[Men's Health](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0lYZEJpUm5QeUNTQkk2OTVJQ3VkUVhIOXAzT0U4OTI0U0ZKN1ZOa2R4ZXctRlhQVHkyVEtHMXU4dW44NG1RWDFSU0h3dk9Ra0tuYWxGZ1RlUHBZY21ILUZwRm1ZcXZfUlQybXJiOU5Oa2oyV0JyM2k2dG5Ba3ZxNHdSaTlrV2lhVGtfQ1BUWVRqaEtNWDNRR1BLSXEyUk04WXdmMGVGdk1tdkk?oc=5)
-
----
-
-### [‘I had a stroke at 46 — I thought I was indestructible’ - The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
-
-2026-04-06 <span class="news-indication-tag">stroke</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHV5REowWEtISV8tVU00NGFsUk00V2ZEcjBRZ01kak9KNm1tWEtHTERMem1OaUhSTFF4REZzZ21FN0Nuenh4czBhbEJuVDVMUXROZGZCTXdOWkVnejl5eTBnMTZQQmM2TmxIQkpSSUFJOG5yR2xnUUQ0NGdSaWowcWJFM1VtVFFH?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Un nouveau vaccin contre la grippe se montre plus efficace que la version standard pour les personnes en situation d'obésité sévère](https://news.google.com/rss/articles/CBMinAJBVV95cUxOZnd0dlpEclcyem8wTEtBaGt5amhQWFZXbzlwTnI1QlZJU0Q2LWlRcFpiaGZVZzduNGVIRU1FNk9KWHZ5MHE2b0lpNHEzMVRSWlJ1TTk5cFNWYWRWamFlRV9BV09CTE1RSjB4UXU1b1ZLUDRLeUdSNkRvV3ozVzQ3S2paLTZ4ZEpldmpnZ01fRkxVS0gxT3l5NDN3ZHRPZ2hxcS1UNzE2QS1XaGp6UmRQYXY5a01mRXR4RDV1VlJjY2JYd0s0eEJLTUkwZVM2eHQ2Wk1HcmczbVJSMkpGWklpangwYWlEZEktai1SeW5NQl9iLVVEMWhBLXlCTFI3c1hZSXdmeXpKdFZ0QVpVUmp5SllGdlpHVjVaZzRSTw?oc=5)
 
@@ -60,11 +60,19 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Lilly presenta un informe centrado en el valor social y sanitario que supondría un mejor control de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3d6ZHd3Yi1uRnViT3ZUa0FKZThQcGhfOE1IaVBaUjRLdXVMSlphZjhrNmUyQVVzR3JFTkwtYi1CamtYbjNhcEpqWGRJMXFSeThJMWRWaTFRMjNLWGxKNVhtNW5xTXhBYVNnaVZOWHpxd3k0LWVvZXV4MVFlS1pyS0JISGtiNndwbDhXZ2g0TjllZmRGMG1YT2Z1Wks?oc=5)
+### [Lilly expone los datos de un informe sobre el valor social y sanitario de lograr un mejor control de la obesidad - Radio Intereconomía](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMjBaNVFaWHR5NVg1cThzd1ZnTHVycWxzbWxqX0hXUUpNUjhkVGExQzhzOEhaeVQ3ZlRiakgwc0FfbnZFT21IQ2ZEcUpxNklFYVhBVDJHZGtoTUlidDU5Z0pZRi1GS1FqWXZIci1PY015ZHpGZm9QbmlDbXlrdnJfck45Z3pBanljSFpqeGNqcFRxeEJZZE91ZFluQ2xrUXdRYXZlRVdGM1ZDQi1JOFVDRHV3QlFyWUtjQ3FUVUZsbzhmUldKSE9CeDBtR1VfckFkV2xUVy1ZOC00ZDg0S3hybHprMGZmd1k1TlI3ZkF0YnFIWWvSAfgBQVVfeXFMTnZIT3VWZjdCSGJycFYycHZaekhaUmxUNFh3Z0NkZlV3X050UnVwOWktMVpYRm9oMzBvZElBeDQwUUJMbVRQRS1xMzVpSWJ6OTRRaFl1a3FTSl9uSTBUcWt2VkJ5ZHB3aFc3TTlaR2JlblAxXzFXR1ZPUU04aWdBY0NIMlppUFZWZ0pZQjFhT1pSTFphMC1qbzgybWJBUzY0UVc3THM1dTl2Uy1VcXBhSV9uRjl1SWw2N1JaSE9kZ2JoUkdlUkk2YUZPcUNxak5tZkpoWHlmM3BmLTJpRWtva2w3SXpfVEtpTE4tUmtTVmFuMG5tVzdhSjE?oc=5)
 
 2026-04-08 <span class="news-indication-tag">obesidad</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3d6ZHd3Yi1uRnViT3ZUa0FKZThQcGhfOE1IaVBaUjRLdXVMSlphZjhrNmUyQVVzR3JFTkwtYi1CamtYbjNhcEpqWGRJMXFSeThJMWRWaTFRMjNLWGxKNVhtNW5xTXhBYVNnaVZOWHpxd3k0LWVvZXV4MVFlS1pyS0JISGtiNndwbDhXZ2g0TjllZmRGMG1YT2Z1Wks?oc=5)
+來源：[Radio Intereconomía](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMjBaNVFaWHR5NVg1cThzd1ZnTHVycWxzbWxqX0hXUUpNUjhkVGExQzhzOEhaeVQ3ZlRiakgwc0FfbnZFT21IQ2ZEcUpxNklFYVhBVDJHZGtoTUlidDU5Z0pZRi1GS1FqWXZIci1PY015ZHpGZm9QbmlDbXlrdnJfck45Z3pBanljSFpqeGNqcFRxeEJZZE91ZFluQ2xrUXdRYXZlRVdGM1ZDQi1JOFVDRHV3QlFyWUtjQ3FUVUZsbzhmUldKSE9CeDBtR1VfckFkV2xUVy1ZOC00ZDg0S3hybHprMGZmd1k1TlI3ZkF0YnFIWWvSAfgBQVVfeXFMTnZIT3VWZjdCSGJycFYycHZaekhaUmxUNFh3Z0NkZlV3X050UnVwOWktMVpYRm9oMzBvZElBeDQwUUJMbVRQRS1xMzVpSWJ6OTRRaFl1a3FTSl9uSTBUcWt2VkJ5ZHB3aFc3TTlaR2JlblAxXzFXR1ZPUU04aWdBY0NIMlppUFZWZ0pZQjFhT1pSTFphMC1qbzgybWJBUzY0UVc3THM1dTl2Uy1VcXBhSV9uRjl1SWw2N1JaSE9kZ2JoUkdlUkk2YUZPcUNxak5tZkpoWHlmM3BmLTJpRWtva2w3SXpfVEtpTE4tUmtTVmFuMG5tVzdhSjE?oc=5)
+
+---
+
+### [Obésité, troubles alimentaires, psychiatrie : à Pau, la clinique Princess s’est muée en hôpital de jour - La République des Pyrénées](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMnotd0phV3NUWEZhWXpRYjNraVc2T2tkWlF4bTFNS1ByTUNQOXZ3ZFYzMzNiOGVDTTgwbnV5TnlWMC1fZjFueDVLVWJQQkJJQ1dQcERpMGlWRE5ELUdlTVFmWk1KaGMtUG0xQ3JURUF6c0lmM0M0bFdLNU8zQlVGM29uTW11QVJ4SVFYTzVCMlVnQ3UzVlhIWC0wMUJWOHByTjhrclV6dE1Ra0U1NVczVWh1OHZVNzYyQ1JhbmFQX2ZSekVEMm84dVlJRUxGZkowVEluMUkwQnIydVk0dTZ3TW9NZXQwaW9LbEdlMQ?oc=5)
+
+2026-04-08 <span class="news-indication-tag">obésité</span>
+
+來源：[La République des Pyrénées](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMnotd0phV3NUWEZhWXpRYjNraVc2T2tkWlF4bTFNS1ByTUNQOXZ3ZFYzMzNiOGVDTTgwbnV5TnlWMC1fZjFueDVLVWJQQkJJQ1dQcERpMGlWRE5ELUdlTVFmWk1KaGMtUG0xQ3JURUF6c0lmM0M0bFdLNU8zQlVGM29uTW11QVJ4SVFYTzVCMlVnQ3UzVlhIWC0wMUJWOHByTjhrclV6dE1Ra0U1NVczVWh1OHZVNzYyQ1JhbmFQX2ZSekVEMm84dVlJRUxGZkowVEluMUkwQnIydVk0dTZ3TW9NZXQwaW9LbEdlMQ?oc=5)
 
 ---
 

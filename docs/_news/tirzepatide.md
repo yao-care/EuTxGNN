@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [We live in UK fat jab capital & lost 20st all in, here’s 4 mistakes people make - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWtFT2pkRWgyVEl0TjRmT1Q4VS1qZ2Vla1U4aVUxYnpqUTZud3l0VTF6NW5pUlVkN083R3VrNjROczZHMDFfSGJrN01UNDk0TTUxa0VLeHVFQUktaEFfXzhTamdYWFRPSm1MZ0JKM0VHWUhNNjc1MW5sWFl3MjY4bVlUQXE5dTI1d09HWU9UMXFydUFobURDaA?oc=5)
+### [Major Scots city named fat jab capital of the UK with a THIRD of dieters on Mounjaro or Ozempic - The Scottish Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlAtTzhNMzhWcWdaQ0kxUmNuV0dBdDg4UHYyNWtSU09FeXptVFdKeGpRVndpNndVS0tzR0pNNUwwa2ZKV2ZxamFoOENCZy1IZmNqYVU3UFpjb21hQWkyVzRJN1g1OVhFV2M1UDRFel82UnFXNV9aTnI3UmpOSHJ2MlQ4SQ?oc=5)
 
-2026-04-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-04-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWtFT2pkRWgyVEl0TjRmT1Q4VS1qZ2Vla1U4aVUxYnpqUTZud3l0VTF6NW5pUlVkN083R3VrNjROczZHMDFfSGJrN01UNDk0TTUxa0VLeHVFQUktaEFfXzhTamdYWFRPSm1MZ0JKM0VHWUhNNjc1MW5sWFl3MjY4bVlUQXE5dTI1d09HWU9UMXFydUFobURDaA?oc=5)
-
----
-
-### [Sarcopenia: cómo prevenirla y revertirla con alimentación saludable y ejercicio - 65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
-
-2026-04-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
+來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlAtTzhNMzhWcWdaQ0kxUmNuV0dBdDg4UHYyNWtSU09FeXptVFdKeGpRVndpNndVS0tzR0pNNUwwa2ZKV2ZxamFoOENCZy1IZmNqYVU3UFpjb21hQWkyVzRJN1g1OVhFV2M1UDRFel82UnFXNV9aTnI3UmpOSHJ2MlQ4SQ?oc=5)
 
 ---
 

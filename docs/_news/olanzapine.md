@@ -44,6 +44,22 @@ permalink: /news/olanzapine/
 
 ## 相關新聞（27 則）
 
+### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+
+2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+
+---
+
+### [Banham Zoo flamingos back outside as bird flu restrictions end](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ld1p5RUpibG9ieURya0dLSmcxclZ2Nll0bzU1dW9KRFoxdVJuT0xfeDF5a1BtaURfSTZlNEpQSmlrRW9QbVFoQmd2R0hQSEtkZTV0ekxfUU5mRFUx?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ld1p5RUpibG9ieURya0dLSmcxclZ2Nll0bzU1dW9KRFoxdVJuT0xfeDF5a1BtaURfSTZlNEpQSmlrRW9QbVFoQmd2R0hQSEtkZTV0ekxfUU5mRFUx?oc=5)
+
+---
+
 ### [Santé : le café et le sel amplifient les acouphènes, mythe ou réalité ?](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVPZFo0OXhXaTFqbDBkZWNzbG9lczF2VjhDOEFSM0Y1Tnc4QlcxN09yeUhDa19FVHdnQ0FFM0FuSTFmdEZHTXFST2hJYlFCOElnY2xYV0dTelBldVNkOV9kVXdQamdDYS03cUptc0VVN19CN19hZXByVHFhNG0ydkVPWm13d3dxNGFSSFVOaC1WVU1Y?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
@@ -60,19 +76,35 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+### [Cerca del 80% de las personas con párkinson presentan alteraciones visuales](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNzRGM5RHFzeUZDdXhSbVMyc3NDNmRBb1ZGYzJmTTg4SFhzS2hiVThMNWtheFhNUUl2UlB6NkNaZW5pMm15S2s2VDFETnJwZ2ZPY1gxS0RwdjBRVXQzWDktcE9WLVgxa05hN28tR21UMG5FZHloS3RneEcyRFVoY3pRd2VIRThzR25pZ25lRXo1dFNVZEdJR3k2cHFqOER0WGRURjdCQzg?oc=5)
 
-2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNzRGM5RHFzeUZDdXhSbVMyc3NDNmRBb1ZGYzJmTTg4SFhzS2hiVThMNWtheFhNUUl2UlB6NkNaZW5pMm15S2s2VDFETnJwZ2ZPY1gxS0RwdjBRVXQzWDktcE9WLVgxa05hN28tR21UMG5FZHloS3RneEcyRFVoY3pRd2VIRThzR25pZ25lRXo1dFNVZEdJR3k2cHFqOER0WGRURjdCQzg?oc=5)
 
 ---
 
-### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+### [Ernährung bleibt Schlüssel im Kampf gegen hohes Cholesterin - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHhlekd0amZmd1VMTERnZmppU25lbE1teU5vb0lfN3plTXpfbUx0eElpOUpTU0hRRVl0WFlfeGlWLUU4MURnYWRDNVlFUUhXT2RuTXJhX2tRTUltNXNvU1BfYUhCVTNxZlFOcW1NaXVMcHBZUHZQZ2hpb1EzbTE5bFRfRXJCUEZOcTNKMzZWSU5Selh0ZklkTm1XeWw5LUlqUmxFcnBhTjJvZ05OX2dWN1dFMmRvWFZuUnJ0OA?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHhlekd0amZmd1VMTERnZmppU25lbE1teU5vb0lfN3plTXpfbUx0eElpOUpTU0hRRVl0WFlfeGlWLUU4MURnYWRDNVlFUUhXT2RuTXJhX2tRTUltNXNvU1BfYUhCVTNxZlFOcW1NaXVMcHBZUHZQZ2hpb1EzbTE5bFRfRXJCUEZOcTNKMzZWSU5Selh0ZklkTm1XeWw5LUlqUmxFcnBhTjJvZ05OX2dWN1dFMmRvWFZuUnJ0OA?oc=5)
+
+---
+
+### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+
+---
+
+### [Biogénesis Bagó completa un segundo envío de 1,5 millones de vacunas a Sudáfrica para reforzar la respuesta frente a la fiebre aftosa](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQclp5MkR4WlRuMnJiMmp3dmxMbjNoN0g4QWhVc19QWWp4bEhidHB4YWZ6aEZkZzBMcjhYM2d3UUpJUGE3RzBaUU43SnJGOXQ3c3dxVzI3TnRZR2hMRFl1Sl81bU53TnFqVHY4dkNURlg4NHN3M3QtX25IZmcxZVF5bHFBVFRSVFhoWHQweEplc0U5bV9CX19rTjQ4ZEJSZ29SOERxb1FSUU9WYXo2T0pQN0tHUlB3ODdrZm03YVNGOVZ1VzhDMlZURFMzVERwaWFCNHpESERZU044VG1YaEE?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQclp5MkR4WlRuMnJiMmp3dmxMbjNoN0g4QWhVc19QWWp4bEhidHB4YWZ6aEZkZzBMcjhYM2d3UUpJUGE3RzBaUU43SnJGOXQ3c3dxVzI3TnRZR2hMRFl1Sl81bU53TnFqVHY4dkNURlg4NHN3M3QtX25IZmcxZVF5bHFBVFRSVFhoWHQweEplc0U5bV9CX19rTjQ4ZEJSZ29SOERxb1FSUU9WYXo2T0pQN0tHUlB3ODdrZm03YVNGOVZ1VzhDMlZURFMzVERwaWFCNHpESERZU044VG1YaEE?oc=5)
 
 ---
 
@@ -81,6 +113,14 @@ permalink: /news/olanzapine/
 2026-04-08 <span class="news-indication-tag">AF</span>
 
 來源：[Merkur](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUYwZVEzdGhqczRzUmZjSW9sX3RaeDBTZ3RtRnNLMGtjY3l5UW5Hc213ZVJ2cDl4TjRIODA4NlJMalVQYW0xVHZpZnRnVHVGTG54Z1c5d256R1ZBMDV4V3p0OW9QaXN0VFNPcXpBV2JjN0FleHZURlhBTzJlODJjRllIN0J5bWUwamd5WWgtSDdjdF9aV21mUDE1bUZwcWthN24zWm9lcHdhTGdZZGpYZDlnYUp4dVZOSm5tOHlnOUQ4Rkhfd2ppVlVOby1QUU0?oc=5)
+
+---
+
+### [After waiting four years for surgery on the NHS, I worry I’ll never become a mother - The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0lkZ2VMTG1zZElvWTgyeHlULTh4bS1TRmNtTE5neGRkQ1VQMUZ5b1pfN05xOGUwbXp4WEliT1BvNFlFaG42WU5fX0YwXy1GZTRwMm9aV1hMNGVPSkppTDZodFBRN1prdjNFTlFWRDRMWGc2N2hSa0hxbW0wZGFyOHJnbkZkd3d0aVRXQ0xTTC0ydXNqZzY3dw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0lkZ2VMTG1zZElvWTgyeHlULTh4bS1TRmNtTE5neGRkQ1VQMUZ5b1pfN05xOGUwbXp4WEliT1BvNFlFaG42WU5fX0YwXy1GZTRwMm9aV1hMNGVPSkppTDZodFBRN1prdjNFTlFWRDRMWGc2N2hSa0hxbW0wZGFyOHJnbkZkd3d0aVRXQ0xTTC0ydXNqZzY3dw?oc=5)
 
 ---
 
@@ -96,15 +136,15 @@ permalink: /news/olanzapine/
 
 2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdm85anJqN2gyaDVwVzJKN05acFBGY291eVpiMFJHMWRWaUJiNWkyQjFHcWlWdUljRGJlSHk4ZEV5SGlvQTdLNFJQOWVwN09kNHN3N2NJTFlSREVyeU9DcjVYTlptZ3ctdGxCQWkyMktDNlAyVnRhdzBDVjlvdEJVci13dGc1NGJmNjQtOHJWUVZhbUdvWDVMdm9xTkJCX1Z4RkpqSHRJZw?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdm85anJqN2gyaDVwVzJKN05acFBGY291eVpiMFJHMWRWaUJiNWkyQjFHcWlWdUljRGJlSHk4ZEV5SGlvQTdLNFJQOWVwN09kNHN3N2NJTFlSREVyeU9DcjVYTlptZ3ctdGxCQWkyMktDNlAyVnRhdzBDVjlvdEJVci13dGc1NGJmNjQtOHJWUVZhbUdvWDVMdm9xTkJCX1Z4RkpqSHRJZw?oc=5)
 
 ---
 
-### [Proteinhemmung kann Leukämiezellen schwächen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2RU11R19wVDdhZXFGcjQySWpIT3F6UV9xMW94a2p0aGFUeXNvNjY4cE15MjY0MGpYb0pWSGZTMm8xQVlyaXZsbWJXaw?oc=5)
+### [Proteinhemmung kann Leukämiezellen schwächen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2RU11R19wVDdhZXFGcjQySWpIT3F6UV9xMW94a2p0aGFUeXNvNjY4cE15MjY0MGpYb0pWSGZTMm8xQVlyaXZsbWJXaw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2RU11R19wVDdhZXFGcjQySWpIT3F6UV9xMW94a2p0aGFUeXNvNjY4cE15MjY0MGpYb0pWSGZTMm8xQVlyaXZsbWJXaw?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2RU11R19wVDdhZXFGcjQySWpIT3F6UV9xMW94a2p0aGFUeXNvNjY4cE15MjY0MGpYb0pWSGZTMm8xQVlyaXZsbWJXaw?oc=5)
 
 ---
 
@@ -136,15 +176,7 @@ permalink: /news/olanzapine/
 
 2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
-
----
-
-### [Sarcopenia: cómo prevenirla y revertirla con alimentación saludable y ejercicio - 65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
-
-2026-04-08 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
 
 ---
 
@@ -164,11 +196,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Neue Immuntherapien: Wegweisende Studien aus Deutschland zu schweren entzündlich-rheumatischen Erkrankungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTNGg2YTZhRWlaOWs2S0VtbVlveHI1cVRXOG9aVlVQQXROd1VoQjhlRzBkdDZRQlh4ZmV3aFVPRFUwX2V5MDU0ckQ3bw?oc=5)
+### [Neue Immuntherapien: Wegweisende Studien aus Deutschland zu schweren entzündlich-rheumatischen Erkrankungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOek03UC1qWU5uRmxjM2F1bnl0TXpwWEd0SXFIOTJMTDhwTkp4WW9TUmdhNzE3OEdtWTJkT1c2bXVXOVBuV1R2cE1qeGRTN1RTcHZRcEpqc3ZST3c5UzVqdlhqNjdCNjk2cUZrRGc1Q1ZFWU5Kem50dng2aHBQa09jSXMxYkVpXzljMjBacV84LTJpc3dVYUJJbHFTYVpLUWh6RW4tdE9aOW5pMlJJRW5qdG9vQVY4V1VseHNJenl3eFI2d3NSVjhJOTVuY21haWU4M1Y1cTNtYjhoc2ktVWRHdGZLR0VLSWJGN014X2NFZ2xWNlVxYWFZTQ?oc=5)
 
 2026-04-07 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTNGg2YTZhRWlaOWs2S0VtbVlveHI1cVRXOG9aVlVQQXROd1VoQjhlRzBkdDZRQlh4ZmV3aFVPRFUwX2V5MDU0ckQ3bw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOek03UC1qWU5uRmxjM2F1bnl0TXpwWEd0SXFIOTJMTDhwTkp4WW9TUmdhNzE3OEdtWTJkT1c2bXVXOVBuV1R2cE1qeGRTN1RTcHZRcEpqc3ZST3c5UzVqdlhqNjdCNjk2cUZrRGc1Q1ZFWU5Kem50dng2aHBQa09jSXMxYkVpXzljMjBacV84LTJpc3dVYUJJbHFTYVpLUWh6RW4tdE9aOW5pMlJJRW5qdG9vQVY4V1VseHNJenl3eFI2d3NSVjhJOTVuY21haWU4M1Y1cTNtYjhoc2ktVWRHdGZLR0VLSWJGN014X2NFZ2xWNlVxYWFZTQ?oc=5)
 
 ---
 
@@ -177,14 +209,6 @@ permalink: /news/olanzapine/
 2026-04-07 <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZUpPSWlaZ2QtX0FuZmwyU0Jxb0Ryb2tLc1JuM3NwN0w1ODQ3dXFobTFfMlJaOFhHWXB6ZTN6ckRzWTc3SGdyeUNNQ1pRODNGVGdsUFByNTFTQzZab08yRFJNQWh5NFB0WTQ2YmtnR2FBWEYz?oc=5)
-
----
-
-### [EL AUDITORIO MUNICIPAL RAFAEL DE LEÓN ACOGERÁ ESTE JUEVES, 9 DE ABRIL, LA OBRA DE TEATRO “EL PADRE”, A BENEFICIO DE LA ASOCIACIÓN FAMILIARES ALZHEIMER, ESTIMULACIÓN NEUROLÓGICA (AFAeN) DE TOMARES - Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXRVdlZqeXdwQTVxUW45VEd2czA5Z0ZEUE1HdzhZYTREWEFOdG9fSDhueW5OLVhKQmJaYUdHVEF0NHBRNGJXZC15bXk0djVFNUp6eGlBTHNzZkVXaVRvSE9nUGVQakhObUNybEc0dS1jUDhOZHozMXl5cTNvSlY1Q0FMYTZjMENURC1ab2JPRTVaWVJpb1hwN1Jma1Vnc1NwNjVfaEZyaVUtdW41akk4YjVINW00anc2RzktZW5R?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXRVdlZqeXdwQTVxUW45VEd2czA5Z0ZEUE1HdzhZYTREWEFOdG9fSDhueW5OLVhKQmJaYUdHVEF0NHBRNGJXZC15bXk0djVFNUp6eGlBTHNzZkVXaVRvSE9nUGVQakhObUNybEc0dS1jUDhOZHozMXl5cTNvSlY1Q0FMYTZjMENURC1ab2JPRTVaWVJpb1hwN1Jma1Vnc1NwNjVfaEZyaVUtdW41akk4YjVINW00anc2RzktZW5R?oc=5)
 
 ---
 
@@ -204,11 +228,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Un nuevo opioide desarrollado en EE.UU. promete aliviar el dolor sin riesgo de adicción ni depresión respiratoria - Estrella Digital](https://news.google.com/rss/articles/CBMigAJBVV95cUxQRFAweFJHdmI1R3lQRHd5TDFiSlVGLVpnQi1UZE00TUM4N3ZkaWtudDhoNktJUjU1bWtoaG1xbUZJQTV1MzV2QzNwTGVWMmY3MjhXRFJkZm9iQ0lJOVhzelB4bkw2WHM5Q1hXWGRPYlBqMmNLTVV3elFKYkp1RDNQbDd2S2V5UlRCaGNrc1Nlcml1VndxT25sRDBoZGVucWhkX1Z4R0FLWmhpVDlGU0pfd01FRTR2YTNpcmt3d3gzdnh4SWNOYlBUMWtka3h2YlpXRVV5RHpBN01NWXZiMlRhR0xXOWJhQTJxcUptcWpEVFhvR2NGTkNEN09fenJ2NS1D0gGGAkFVX3lxTE4weHJSZDFPYzBpM1dfS3ZQUmRUXzRrYzRkdjF5dTZUekcxV1N0ZW5vZWdtVjJXMl85ZTA1NWhlNHhiN2JSS2ZkMHVaQ01EeHp6czA1MWsxQWxyZndndlplZVdCdWFKaEZ0UFVHRWgyemZFdVh0LTlIWENPMXd5VzV6eVZkMUVZb1ZIVF9pSFJzb3dWT011a2ttSFdyeGNLNTVrOEtYSldvblluLVBtV1cwN1liX09DTXRYMk5fR0VBb3liNFdScGxrWmhKSk41dUYxM2Myby12OEVWY2lWR0I4cVJXaU1uUy12MnllYmFVVVd6alRvSEFhdVM5U25wVU90dkxuY3c?oc=5)
+### [La Sociedad Española de Reumatología amplía su contenido del proyecto ‘Reumafit’ - Diario Siglo XXI](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2pQeEN0R29hSnl2VjE4dXBTdVU5bmdKWndNbW1qQTRKMFJqTllQV1ZFNENZV25RZkI1S3I2VmhXQk5lOWlzSGQ2dUFzSzRJMHN4V2FrQTNBdC1HSlRtNXZMdVdvNW5LU0xkQktTZTNMekx0WkdIeEZILVN2N1hyRml0MFJkSkwtSDdoTVBaQzY4VzRrRkhiVmwxcmZuOGI2STFMQVYxdktzNEpkNUU4cGViTHQ4OWlIUzRTSUpBeDBRa2s?oc=5)
 
-2026-04-07 <span class="news-indication-tag">depresión</span>
+2026-04-07 <span class="news-indication-tag">AF</span>
 
-來源：[Estrella Digital](https://news.google.com/rss/articles/CBMigAJBVV95cUxQRFAweFJHdmI1R3lQRHd5TDFiSlVGLVpnQi1UZE00TUM4N3ZkaWtudDhoNktJUjU1bWtoaG1xbUZJQTV1MzV2QzNwTGVWMmY3MjhXRFJkZm9iQ0lJOVhzelB4bkw2WHM5Q1hXWGRPYlBqMmNLTVV3elFKYkp1RDNQbDd2S2V5UlRCaGNrc1Nlcml1VndxT25sRDBoZGVucWhkX1Z4R0FLWmhpVDlGU0pfd01FRTR2YTNpcmt3d3gzdnh4SWNOYlBUMWtka3h2YlpXRVV5RHpBN01NWXZiMlRhR0xXOWJhQTJxcUptcWpEVFhvR2NGTkNEN09fenJ2NS1D0gGGAkFVX3lxTE4weHJSZDFPYzBpM1dfS3ZQUmRUXzRrYzRkdjF5dTZUekcxV1N0ZW5vZWdtVjJXMl85ZTA1NWhlNHhiN2JSS2ZkMHVaQ01EeHp6czA1MWsxQWxyZndndlplZVdCdWFKaEZ0UFVHRWgyemZFdVh0LTlIWENPMXd5VzV6eVZkMUVZb1ZIVF9pSFJzb3dWT011a2ttSFdyeGNLNTVrOEtYSldvblluLVBtV1cwN1liX09DTXRYMk5fR0VBb3liNFdScGxrWmhKSk41dUYxM2Myby12OEVWY2lWR0I4cVJXaU1uUy12MnllYmFVVVd6alRvSEFhdVM5U25wVU90dkxuY3c?oc=5)
+來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2pQeEN0R29hSnl2VjE4dXBTdVU5bmdKWndNbW1qQTRKMFJqTllQV1ZFNENZV25RZkI1S3I2VmhXQk5lOWlzSGQ2dUFzSzRJMHN4V2FrQTNBdC1HSlRtNXZMdVdvNW5LU0xkQktTZTNMekx0WkdIeEZILVN2N1hyRml0MFJkSkwtSDdoTVBaQzY4VzRrRkhiVmwxcmZuOGI2STFMQVYxdktzNEpkNUU4cGViTHQ4OWlIUzRTSUpBeDBRa2s?oc=5)
 
 ---
 
@@ -228,35 +252,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Doctors can’t diagnose toddler’s illness after a year - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHNxV210cm5VWFFPUlZaRHZoRnc4cjVYYkEwUVctRlpwdG1hRHR3LXhiOEd6YVJySUxLTVpoNmNNZ2tFZ1A5emMtSnBZMHBLMEpySGJRanR0ZEJROUh5V25HRzJZQm1CNzRneEFnZW94Z0ctTXhQTDZfQUM5U2NGLXVDSE1kTkdfb3A4?oc=5)
+### [Desarrollan un nuevo opioide con alta eficacia analgésica sin depresión respiratoria ni síntomas de adicción](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbWZfZkppZTBIYjFkVG55VEVUOURMTzFSMFJ3MG56Nl9GZHE4RHdlZmY5UEZmWV90bHdkeXVabUFjbnZXbU1uY3dBdTR5RDBRQjlEdmRQaTJXS2tZTHFRVVNCdmphNEtZemc1cmQ4aFhycnBZU01QUmlJeWVTNnVCY1owM0ZnNlJzUHg3TXNKX1hqSC1DWllVaGtRN19xSFYzR3dvTHFNbU9jUlczWWJ3NG9HWTRhanBkYTFSa3ZvUm51T2ZPYnBiMFZmaEM1SGhvRHdyUlRUeHVvX3REVW5CRUxReThBUGRnWVE?oc=5)
 
-2026-04-07 <span class="news-indication-tag">AF</span>
+2026-04-07 <span class="news-indication-tag">depresión</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHNxV210cm5VWFFPUlZaRHZoRnc4cjVYYkEwUVctRlpwdG1hRHR3LXhiOEd6YVJySUxLTVpoNmNNZ2tFZ1A5emMtSnBZMHBLMEpySGJRanR0ZEJROUh5V25HRzJZQm1CNzRneEFnZW94Z0ctTXhQTDZfQUM5U2NGLXVDSE1kTkdfb3A4?oc=5)
-
----
-
-### [Ernährung 2026: Ganzes Essen als Medizin, Pillen nur gezielt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXZnUjg2T050N01tUFdhbHRxLU1HcFNIMHNuZTVvWkxydGE0SEZrVWtfallhUmd4Sm5YQU5KWnpaNE1Zc3pKNllNNnFoZkpxVFdnM2tpX3dDZzNUY21yQUo0ZnR2clE5LTNSSkF1a1NXSzlKTmNpUDAxOVU2NUZiOHlRUFlJMDBlbHB0TXJnNUpIV3NRbHMzLUlQRTI4bExqNHVLOGJmYjdGVzVvVnlkWVVEanFTRWRkUVE?oc=5)
-
-2026-04-06 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXZnUjg2T050N01tUFdhbHRxLU1HcFNIMHNuZTVvWkxydGE0SEZrVWtfallhUmd4Sm5YQU5KWnpaNE1Zc3pKNllNNnFoZkpxVFdnM2tpX3dDZzNUY21yQUo0ZnR2clE5LTNSSkF1a1NXSzlKTmNpUDAxOVU2NUZiOHlRUFlJMDBlbHB0TXJnNUpIV3NRbHMzLUlQRTI4bExqNHVLOGJmYjdGVzVvVnlkWVVEanFTRWRkUVE?oc=5)
-
----
-
-### [ISS: Internationale Raumstation zieht vor der Sonne vorbei - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0t2djZrcE5rQ0lIRnhpQlRQWDJySjNiV19Sc3Z1c3NFMlQzTTNMWDgzbmRtWjYySFh4U2NFNUc4OTN2cUhJdTNmZnNXSEJfVXhiN0FCZWNfb01HM1lEQndrMHIyUmVTMFFwRFNOc21mYXNET29uaUxpU2RUbGNPOWNFQUlRdlVXNVMtSHhOQWdPQ01tcUdvZUlxSk9wc1ZLdERPX2hFSG5Ta1hMa1d2V1ZrVHN5Zw?oc=5)
-
-2026-04-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ0t2djZrcE5rQ0lIRnhpQlRQWDJySjNiV19Sc3Z1c3NFMlQzTTNMWDgzbmRtWjYySFh4U2NFNUc4OTN2cUhJdTNmZnNXSEJfVXhiN0FCZWNfb01HM1lEQndrMHIyUmVTMFFwRFNOc21mYXNET29uaUxpU2RUbGNPOWNFQUlRdlVXNVMtSHhOQWdPQ01tcUdvZUlxSk9wc1ZLdERPX2hFSG5Ta1hMa1d2V1ZrVHN5Zw?oc=5)
-
----
-
-### [Is a new weight-loss drug making people fall out of love? - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHVUNUxnUHVBZ1NVUXIxMGJ2Yzc1eVItY3hRSURrYTFSbGJEOWppenB5VlJQVC1sNFk3SFlqN1Jlak5JNEFrdnVIRV9LQkhNVDhOMWJRSXFwWG1MdTdSS3Bwbm00b2JGRGtlWUNzam1YRTJqTFlTSmVaWTVZb2NzbmNsb2lJVVFzUVJTRVBGRmZyU0dFbmFZMG5rYzZEcnBnRzdoTHdTMTdjdk1wQ3VjblYzMUt0ZThsdUw1ZFhYRDk?oc=5)
-
-2026-04-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHVUNUxnUHVBZ1NVUXIxMGJ2Yzc1eVItY3hRSURrYTFSbGJEOWppenB5VlJQVC1sNFk3SFlqN1Jlak5JNEFrdnVIRV9LQkhNVDhOMWJRSXFwWG1MdTdSS3Bwbm00b2JGRGtlWUNzam1YRTJqTFlTSmVaWTVZb2NzbmNsb2lJVVFzUVJTRVBGRmZyU0dFbmFZMG5rYzZEcnBnRzdoTHdTMTdjdk1wQ3VjblYzMUt0ZThsdUw1ZFhYRDk?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbWZfZkppZTBIYjFkVG55VEVUOURMTzFSMFJ3MG56Nl9GZHE4RHdlZmY5UEZmWV90bHdkeXVabUFjbnZXbU1uY3dBdTR5RDBRQjlEdmRQaTJXS2tZTHFRVVNCdmphNEtZemc1cmQ4aFhycnBZU01QUmlJeWVTNnVCY1owM0ZnNlJzUHg3TXNKX1hqSC1DWllVaGtRN19xSFYzR3dvTHFNbU9jUlczWWJ3NG9HWTRhanBkYTFSa3ZvUm51T2ZPYnBiMFZmaEM1SGhvRHdyUlRUeHVvX3REVW5CRUxReThBUGRnWVE?oc=5)
 
 ---
 
