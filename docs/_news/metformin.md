@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metformin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [La vitamina C puede ayudar a reducir la presión arterial en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
+
+2026-04-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
+
+---
 
 ### [Ganadores de los III Premios FSED a la Comunicación en Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
 
 2026-04-09 <span class="news-indication-tag">diabetes</span>
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
+
+---
+
+### [Un fármaco barato y muy usado puede imitar el ejercicio intenso incluso sin actividad física - El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa1c5UjRpRm0zNDlibWswTHZlS1JCbDY1U3RIcy15MnlGTGpKT0pmWUFnSkdkMXNmQ3A1N05zWnhiOHNLaXBGM1pwTWZZQXg2MjEyYXBSb2tFUTNjSDdnX25vSGdQT0lVR3lyYVBYbUJFaG1JUDFxcUdJQWlLQWdxeEVjMGUtQ3NLLXBiRDBnc0NiX19rcnpLMXRuQ3lwUE53eXR6V3hTUkJ1QWVYNXdrdUJJMExxRnByeDczMzU3UWx1WnBaX2ZFalVQaWI5TEk5UmV5TkJIeXZ6SEpDcVNJ0gHkAUFVX3lxTE51NWRTVXlycmdxTXZDYWNFNE9LTU95M0daUnhpNG83Nm05c3c3MjMybnljMDBRM0Q2dkxacWZ0VFpVS3hDQXF2a09rSTFYMmRzXzVGU3dfQVh5LVhiWjJLdnZJZ3E0TjFUajhRdVdGeWNCbVFhQjFCNUl1YktpTE5kVEQ1X0NuRjhNeGZnVml0Q0tIeTNQWTJSV3ptYm5kQ1VmTHVFd28zS1NUcGZySWdneVNhVU93QVRvR1lLRWgybk5GdXRYaVR0VFhSU3ZqR09VV1dJc3ZEckVYeWJsWTQyVUxzNA?oc=5)
+
+2026-04-09 <span class="news-drug-tag">Metformin</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa1c5UjRpRm0zNDlibWswTHZlS1JCbDY1U3RIcy15MnlGTGpKT0pmWUFnSkdkMXNmQ3A1N05zWnhiOHNLaXBGM1pwTWZZQXg2MjEyYXBSb2tFUTNjSDdnX25vSGdQT0lVR3lyYVBYbUJFaG1JUDFxcUdJQWlLQWdxeEVjMGUtQ3NLLXBiRDBnc0NiX19rcnpLMXRuQ3lwUE53eXR6V3hTUkJ1QWVYNXdrdUJJMExxRnByeDczMzU3UWx1WnBaX2ZFalVQaWI5TEk5UmV5TkJIeXZ6SEpDcVNJ0gHkAUFVX3lxTE51NWRTVXlycmdxTXZDYWNFNE9LTU95M0daUnhpNG83Nm05c3c3MjMybnljMDBRM0Q2dkxacWZ0VFpVS3hDQXF2a09rSTFYMmRzXzVGU3dfQVh5LVhiWjJLdnZJZ3E0TjFUajhRdVdGeWNCbVFhQjFCNUl1YktpTE5kVEQ1X0NuRjhNeGZnVml0Q0tIeTNQWTJSV3ptYm5kQ1VmTHVFd28zS1NUcGZySWdneVNhVU93QVRvR1lLRWgybk5GdXRYaVR0VFhSU3ZqR09VV1dJc3ZEckVYeWJsWTQyVUxzNA?oc=5)
 
 ---
 

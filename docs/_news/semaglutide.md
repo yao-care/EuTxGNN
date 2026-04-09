@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [La vitamina C puede ayudar a reducir la presión arterial en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
+
+2026-04-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
+
+---
 
 ### [Ganadores de los III Premios FSED a la Comunicación en Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
 
@@ -68,14 +76,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Is this inexpensive plant compound really nature’s Ozempic? - London Evening Standard](https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1hiUVh4QU9ybkxfN2t2TTdvaFh2VHRhbzhVOThidGF4b2pGcURrRXRzb1g1aFhfVHk4dmkwalVIT2xYMjNweW5fcFJfaTBoYmtfRjdBVmZBbndGN25IdWQxSzNGNlJGV1prSFBuUkRzblZpaEVrTGhPWVYtVHJDUGFmSVVGbXI4RVBKZGxkQU5QRnlr?oc=5)
-
-2026-04-08 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[London Evening Standard](https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1hiUVh4QU9ybkxfN2t2TTdvaFh2VHRhbzhVOThidGF4b2pGcURrRXRzb1g1aFhfVHk4dmkwalVIT2xYMjNweW5fcFJfaTBoYmtfRjdBVmZBbndGN25IdWQxSzNGNlJGV1prSFBuUkRzblZpaEVrTGhPWVYtVHJDUGFmSVVGbXI4RVBKZGxkQU5QRnlr?oc=5)
-
----
-
 ### [José María Fernández, especialista en medicina interna: «Nos queda muchísimo por conocer sobre los beneficios que pueden tener fármacos como Ozempic» - La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
 
 2026-04-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
@@ -89,14 +89,6 @@ permalink: /news/semaglutide/
 2026-04-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[Watson.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
-
----
-
-### [Major Scots city named fat jab capital of the UK with a THIRD of dieters on Mounjaro or Ozempic - The Scottish Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlAtTzhNMzhWcWdaQ0kxUmNuV0dBdDg4UHYyNWtSU09FeXptVFdKeGpRVndpNndVS0tzR0pNNUwwa2ZKV2ZxamFoOENCZy1IZmNqYVU3UFpjb21hQWkyVzRJN1g1OVhFV2M1UDRFel82UnFXNV9aTnI3UmpOSHJ2MlQ4SQ?oc=5)
-
-2026-04-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlAtTzhNMzhWcWdaQ0kxUmNuV0dBdDg4UHYyNWtSU09FeXptVFdKeGpRVndpNndVS0tzR0pNNUwwa2ZKV2ZxamFoOENCZy1IZmNqYVU3UFpjb21hQWkyVzRJN1g1OVhFV2M1UDRFel82UnFXNV9aTnI3UmpOSHJ2MlQ4SQ?oc=5)
 
 ---
 

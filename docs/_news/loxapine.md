@@ -14,7 +14,7 @@ permalink: /news/loxapine/
 ---
 
 <p class="key-answer" data-question="Loxapine 有什麼相關新聞？">
-<strong>Loxapine</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Loxapine</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ permalink: /news/loxapine/
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（32 則）
+
+### [Un estudio médico desvela que la gran mayoría de los pacientes de Parkinson sufren problemas con la vista que](https://news.google.com/rss/articles/CBMipAJBVV95cUxOVVYxWmFFdlZWLTJsOEdaWUNRZk5LaHVqSHVEbEpBRFNGMHNSRXJtbXZLZVdZZjBzRmFmai1CQVdUcS0wWE1PVmFWRW1RSjg5TjI5Zk9FLVZ5WlRjSkR1RVpsQm1Bd25HRDBrY3dDZmZzbUFrUHBnaE1VQUwwYWVVUVMxMC1TODdIZFdpTzExX1dFNVByNmstckZXTkVYVmlGT0pCdU90S1o2aEhWbTNWZzhFYTVMVFRveUZyMjN6Yy1VcklEWkY5WlFHZWtNeDkya3ZRUDR2U1Vxc195TE1hSlpjRmJXS0ZOUHpJbmJDSWlqM2w4VGxxZlp2d2dsRGw3ODRkNHhvY2tEWlpuOGpFM1JZLXNaS3RGeDJFdERmWUFVR2NP0gGkAkFVX3lxTE8xelRjWHAxZm53bldMWjduWE0wWTl1aFI1ejZRRmpVWllWZWtNUm0xVjFRR1NMRjZjRGpsb1MyNm94LUU2VEFTWnp0QXV6TEE3MDdXdGdSb0ttUm5MbHJOVWtEUmpOTW9RemNnNnVIbjBuYTByWG9ZNDhKeXZ1d1Y5YnFVemhVaW01UnZ6MTRfbWIwby1LWjZLQ3pTZmVXNUwzWVg2NWVmZGJhM0htSzdmWWNTNDd1bXVqSlJ0dUtjMDJsVnFuNWV6aF9qaDlQNnF5UkpuSkdjVVdjdkY3ZDVjQ0hlcS00NVkyY19lWV8wMkZpckV4RW5iRHNaTHRoekotM0RValJwUzd5aGQ4RldhUzNtMDFqUDhodUVSSWdQZ2xMUlA?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[LaSexta](https://news.google.com/rss/articles/CBMipAJBVV95cUxOVVYxWmFFdlZWLTJsOEdaWUNRZk5LaHVqSHVEbEpBRFNGMHNSRXJtbXZLZVdZZjBzRmFmai1CQVdUcS0wWE1PVmFWRW1RSjg5TjI5Zk9FLVZ5WlRjSkR1RVpsQm1Bd25HRDBrY3dDZmZzbUFrUHBnaE1VQUwwYWVVUVMxMC1TODdIZFdpTzExX1dFNVByNmstckZXTkVYVmlGT0pCdU90S1o2aEhWbTNWZzhFYTVMVFRveUZyMjN6Yy1VcklEWkY5WlFHZWtNeDkya3ZRUDR2U1Vxc195TE1hSlpjRmJXS0ZOUHpJbmJDSWlqM2w4VGxxZlp2d2dsRGw3ODRkNHhvY2tEWlpuOGpFM1JZLXNaS3RGeDJFdERmWUFVR2NP0gGkAkFVX3lxTE8xelRjWHAxZm53bldMWjduWE0wWTl1aFI1ejZRRmpVWllWZWtNUm0xVjFRR1NMRjZjRGpsb1MyNm94LUU2VEFTWnp0QXV6TEE3MDdXdGdSb0ttUm5MbHJOVWtEUmpOTW9RemNnNnVIbjBuYTByWG9ZNDhKeXZ1d1Y5YnFVemhVaW01UnZ6MTRfbWIwby1LWjZLQ3pTZmVXNUwzWVg2NWVmZGJhM0htSzdmWWNTNDd1bXVqSlJ0dUtjMDJsVnFuNWV6aF9qaDlQNnF5UkpuSkdjVVdjdkY3ZDVjQ0hlcS00NVkyY19lWV8wMkZpckV4RW5iRHNaTHRoekotM0RValJwUzd5aGQ4RldhUzNtMDFqUDhodUVSSWdQZ2xMUlA?oc=5)
+
+---
+
+### [Die Rolle der BET-Proteine bei der Genaktivierung - Max-Planck-Gesellschaft zur Förderung der Wissenschaften](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFdqWVh6UUFHcHNLOWlsMWdla2NNYTMwX0NFN3JnZW4tQmJsdU9ERl90SHY2Sy1hQm1FQ01tbkdlSzZVc0pHaWJvNTFZMEc4akpqdWg1RVlDUzN0Mmx1TkV4LVVXYmxIN1pJemFkWktlVHhvdWtuTDV6YnVIaWNoM3E0MA?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[Max-Planck-Gesellschaft zur Förderung der Wissenschaften](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFdqWVh6UUFHcHNLOWlsMWdla2NNYTMwX0NFN3JnZW4tQmJsdU9ERl90SHY2Sy1hQm1FQ01tbkdlSzZVc0pHaWJvNTFZMEc4akpqdWg1RVlDUzN0Mmx1TkV4LVVXYmxIN1pJemFkWktlVHhvdWtuTDV6YnVIaWNoM3E0MA?oc=5)
+
+---
+
+### [Neuer Ansatz gegen Herzschwäche: Göttinger Forschende finden genetischen „Schalter“ - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
+
+---
+
+### [Gehirnalterung: Signale im Schlaf deuten früh auf Demenz hin - smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVE4cnZXQ1l5dmtsS3UwcFpSMUxwS3U4S1BMU296cDBUd211VWJ5OTdwZ2FCWkFLSko3Xy1TbHFnOG5ZSTMyTFNrYlhzS2ZqX1lGWGdhNkpwMTFCY1NPRUtxSnJ3YUlNcGk5NDFXUW9pX01JZkJCNDhVUEloWnYybXRiTnhHTy1JN2RKLTBIUjFCTWpxSklIbUJXY0E?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVE4cnZXQ1l5dmtsS3UwcFpSMUxwS3U4S1BMU296cDBUd211VWJ5OTdwZ2FCWkFLSko3Xy1TbHFnOG5ZSTMyTFNrYlhzS2ZqX1lGWGdhNkpwMTFCY1NPRUtxSnJ3YUlNcGk5NDFXUW9pX01JZkJCNDhVUEloWnYybXRiTnhHTy1JN2RKLTBIUjFCTWpxSklIbUJXY0E?oc=5)
+
+---
 
 ### [Müde am Morgen? Vier Tipps für einen besseren Schlafrhythmus](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTld0OUZJYzdKQWZVelhFbXo4LU1QUlNwVWtWNFlrUG1XMFhLYUFpQk9semh2T3BUWkpHSlgyVnJ6ZVZZN2xZQjBzLUptN3VFTXpIdWt5VnV3TGlCSnpnUGZOS195NU9sRGwtNzlEaGFrclk1S2Zwa3lQZENkaXR3VFRWRkdwWUJYUzJaZ3c2Ujl4cWd2Ti05WGNRYi1mS2hqalE?oc=5)
 
@@ -52,11 +84,19 @@ permalink: /news/loxapine/
 
 ---
 
-### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+### [Incontinence: NI woman 'leaking while competing' after birth](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VOGFhaVA0bnBEQl9BdzA0OUtuUlBHajdzLUpRTldQMDlETDFtX3c3M0w4UHNNN2xzNHAyOGQ5Y01tS3R2ck5JM3lvWmhjYVluUVJpMkhTQkltb3Vo?oc=5)
 
-2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VOGFhaVA0bnBEQl9BdzA0OUtuUlBHajdzLUpRTldQMDlETDFtX3c3M0w4UHNNN2xzNHAyOGQ5Y01tS3R2ck5JM3lvWmhjYVluUVJpMkhTQkltb3Vo?oc=5)
+
+---
+
+### [El retraso en el diagnóstico del síndrome de Cushing puede superar los tres años - Somos Pacientes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTJMd2RXOGhKcVBTNmlZYl8xR216OE5udzhvS3dTNXpEUnBwUjRFaW1ldllsSUhIZktYdG9mYWJpWkRDQWlJbk1KY1E2emFfNm5LNjFRUnhoUjEtbV9NNnA4bGtGdUNoU3U5TVZKX082cHhGX1hSSWd3Vms0SWRrclA2dXVHcFROQnlDSXNVUjBoM2ZibWhScnhCZk9jZzljbEVtWmtSR2JIMTFrS3VGbmJ3aFMwYS1lczdJM0RZTkYyZjJ3eUZHZy14LU1zbWhmaDd2Njhn?oc=5)
+
+2026-04-08 <span class="news-indication-tag">MS</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTJMd2RXOGhKcVBTNmlZYl8xR216OE5udzhvS3dTNXpEUnBwUjRFaW1ldllsSUhIZktYdG9mYWJpWkRDQWlJbk1KY1E2emFfNm5LNjFRUnhoUjEtbV9NNnA4bGtGdUNoU3U5TVZKX082cHhGX1hSSWd3Vms0SWRrclA2dXVHcFROQnlDSXNVUjBoM2ZibWhScnhCZk9jZzljbEVtWmtSR2JIMTFrS3VGbmJ3aFMwYS1lczdJM0RZTkYyZjJ3eUZHZy14LU1zbWhmaDd2Njhn?oc=5)
 
 ---
 
@@ -68,11 +108,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Banham Zoo flamingos back outside as bird flu restrictions end](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ld1p5RUpibG9ieURya0dLSmcxclZ2Nll0bzU1dW9KRFoxdVJuT0xfeDF5a1BtaURfSTZlNEpQSmlrRW9QbVFoQmd2R0hQSEtkZTV0ekxfUU5mRFUx?oc=5)
+### [Alexandre Olmos, médico: "Si quieres activar genes de longevidad, empieza por aquí" - El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLTZMaVhiejJ3aXpQSWpDYi04dl9rQURlM21UcFh0TDVXaDZQX1VHUXgyTHlsdFlsZ3E4MWVVaTBpWWpVNjFpc0RuVDBHaUVzR3lZQXpOWGNoRFo5Y1JWWG5QaWozdTVxR3pCazVQWnB4WXJzbWFYV2tEd0FadmJkR2RKMHhFRUZDMWF4UUxnVUhZMV9MZlJHQnhrRjA1RUhwQVVNVzZYbjFfVFB4UG9wanBITTM3WktvdGVadUxiam5mQklQRzJTcWo0WnEzWlNEeWdWRHJtZFdEZw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ld1p5RUpibG9ieURya0dLSmcxclZ2Nll0bzU1dW9KRFoxdVJuT0xfeDF5a1BtaURfSTZlNEpQSmlrRW9QbVFoQmd2R0hQSEtkZTV0ekxfUU5mRFUx?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLTZMaVhiejJ3aXpQSWpDYi04dl9rQURlM21UcFh0TDVXaDZQX1VHUXgyTHlsdFlsZ3E4MWVVaTBpWWpVNjFpc0RuVDBHaUVzR3lZQXpOWGNoRFo5Y1JWWG5QaWozdTVxR3pCazVQWnB4WXJzbWFYV2tEd0FadmJkR2RKMHhFRUZDMWF4UUxnVUhZMV9MZlJHQnhrRjA1RUhwQVVNVzZYbjFfVFB4UG9wanBITTM3WktvdGVadUxiam5mQklQRzJTcWo0WnEzWlNEeWdWRHJtZFdEZw?oc=5)
 
 ---
 
@@ -84,19 +124,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Rafael Bañares, catedrático de Medicina, sobre el hígado: "El alcohol y la grasa anticipan un incremento en el número de casos de enfermedad hepática avanzada en los próximos años" - Men's Health](https://news.google.com/rss/articles/CBMingFBVV95cUxOenRXTFJieWcydHEzWEJmbkVFRzkyNmItbmR6czhmLVBYWTh3VmdNNG9rd05QVFUwNkNRbnBIME9LeWtDemlQdm9uMG8wV3VYTTU4bmVCSlAxU2YzVWNHT21YdmJNT045UHZiVlU2NGhRcTh5VjVhNVpXWDNtdzJVYUJaZ29YQUR5VG9pcHpxZXhlR3hwY0ttdmVvbUw5Zw?oc=5)
+### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
 
-2026-04-08 <span class="news-indication-tag">AF</span>
+2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Men's Health](https://news.google.com/rss/articles/CBMingFBVV95cUxOenRXTFJieWcydHEzWEJmbkVFRzkyNmItbmR6czhmLVBYWTh3VmdNNG9rd05QVFUwNkNRbnBIME9LeWtDemlQdm9uMG8wV3VYTTU4bmVCSlAxU2YzVWNHT21YdmJNT045UHZiVlU2NGhRcTh5VjVhNVpXWDNtdzJVYUJaZ29YQUR5VG9pcHpxZXhlR3hwY0ttdmVvbUw5Zw?oc=5)
-
----
-
-### [Cerca del 80% de las personas con párkinson presentan alteraciones visuales](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNzRGM5RHFzeUZDdXhSbVMyc3NDNmRBb1ZGYzJmTTg4SFhzS2hiVThMNWtheFhNUUl2UlB6NkNaZW5pMm15S2s2VDFETnJwZ2ZPY1gxS0RwdjBRVXQzWDktcE9WLVgxa05hN28tR21UMG5FZHloS3RneEcyRFVoY3pRd2VIRThzR25pZ25lRXo1dFNVZEdJR3k2cHFqOER0WGRURjdCQzg?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNzRGM5RHFzeUZDdXhSbVMyc3NDNmRBb1ZGYzJmTTg4SFhzS2hiVThMNWtheFhNUUl2UlB6NkNaZW5pMm15S2s2VDFETnJwZ2ZPY1gxS0RwdjBRVXQzWDktcE9WLVgxa05hN28tR21UMG5FZHloS3RneEcyRFVoY3pRd2VIRThzR25pZ25lRXo1dFNVZEdJR3k2cHFqOER0WGRURjdCQzg?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
 
 ---
 
@@ -188,19 +220,27 @@ permalink: /news/loxapine/
 
 ---
 
-### [Ni acumular ni esperar: la 'fecha de caducidad' del semen podría estar frustrando tus planes de embarazo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmVUMTY2LWxVTlp0RUQ4blBZcERCeDFYbW1wNkstVmpmZnpxeV9qS201dFhMTVR2NGZHYlNIMkYyVkd4b01KdGRXYVJTRldoNzg5X2lGZnVXMndZWlZ5SlZRc2ViSnpBQm50anhMYkxydHdKM2hKdXVWaUdCREUtdnVZck5KMFJtUEtrNXlrNlF0RHE3eTN4Zm0yLU00RHNqcE9fcGw3NTZla193cjhfS2hyRjlLV2xpY3A1UUcyTG9xVDlwQ3pPZkRQRFJuaWE2eEtGYVBHV2tJckNMN2dB?oc=5)
-
-2026-04-08 <span class="news-indication-tag">MS</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmVUMTY2LWxVTlp0RUQ4blBZcERCeDFYbW1wNkstVmpmZnpxeV9qS201dFhMTVR2NGZHYlNIMkYyVkd4b01KdGRXYVJTRldoNzg5X2lGZnVXMndZWlZ5SlZRc2ViSnpBQm50anhMYkxydHdKM2hKdXVWaUdCREUtdnVZck5KMFJtUEtrNXlrNlF0RHE3eTN4Zm0yLU00RHNqcE9fcGw3NTZla193cjhfS2hyRjlLV2xpY3A1UUcyTG9xVDlwQ3pPZkRQRFJuaWE2eEtGYVBHV2tJckNMN2dB?oc=5)
-
----
-
 ### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
+
+---
+
+### [Bristol man dies weeks after holiday as widow praises hospice](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
+
+---
+
+### [Sarcopenia: cómo prevenirla y revertirla con alimentación saludable y ejercicio - 65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
 
 ---
 
@@ -228,11 +268,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Gran with skin infection died after bungling staff gave her the wrong medicine - The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZUpPSWlaZ2QtX0FuZmwyU0Jxb0Ryb2tLc1JuM3NwN0w1ODQ3dXFobTFfMlJaOFhHWXB6ZTN6ckRzWTc3SGdyeUNNQ1pRODNGVGdsUFByNTFTQzZab08yRFJNQWh5NFB0WTQ2YmtnR2FBWEYz?oc=5)
+### [Treprostinil-Inhalat bremst Lungenfibrose - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
 
-2026-04-07 <span class="news-indication-tag">AF</span>
+2026-04-07 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZUpPSWlaZ2QtX0FuZmwyU0Jxb0Ryb2tLc1JuM3NwN0w1ODQ3dXFobTFfMlJaOFhHWXB6ZTN6ckRzWTc3SGdyeUNNQ1pRODNGVGdsUFByNTFTQzZab08yRFJNQWh5NFB0WTQ2YmtnR2FBWEYz?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
 
 ---
 
@@ -249,54 +289,6 @@ permalink: /news/loxapine/
 2026-04-07 <span class="news-indication-tag">AF</span>
 
 來源：[Wired](https://news.google.com/rss/articles/CBMixgFBVV95cUxOaU9RbFBvS0dwTnhEZE51T2hLbUxaQUc1ckRmM01nd2lhOEo5WnBUOVZTX2hwRG1lTW1ON2pEZkNNcHpwTmxlc0JHcE1CNXRqTVVoV3ZEdzBRdHl5dHIybFlrWWNhNTlTRnF4Y2Y5dFZXMlVFa3FsRGNTUk50Y3dDQVdDWHJ3TFFiN05FZE4ycVB1WjNDdDR5YUVLYzV4WWl2T05WYnFkY2dPLVctWVJEV0RZdjlOZE1uUER6dXdDNmJncU1GaHc?oc=5)
-
----
-
-### [Affanno e stanchezza? Al Papardo il nuovo test per scoprire la causa esatta](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXg0UnU1TmRxSy1TTnJLRTdoa3AwLXVicGU1RUlYelI2c1BhZDZOcUNaTGs3QWxaUFRyVkluZktsLTFkd0hWMkZVdm5ud0x1d1c1YTI3dnhHT3RIdWVIbTVXdnZYVHUtei12dnlTYVhQMmNnVWZqYW5UVnZmQ2pCRTRmVnEtMUd2S3FidjkxVmViQ2Q0bFQxLXVhRGdOYmtZZzdQRVV6QS1XaUVYQ2xwaUdn?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[Tempostretto](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXg0UnU1TmRxSy1TTnJLRTdoa3AwLXVicGU1RUlYelI2c1BhZDZOcUNaTGs3QWxaUFRyVkluZktsLTFkd0hWMkZVdm5ud0x1d1c1YTI3dnhHT3RIdWVIbTVXdnZYVHUtei12dnlTYVhQMmNnVWZqYW5UVnZmQ2pCRTRmVnEtMUd2S3FidjkxVmViQ2Q0bFQxLXVhRGdOYmtZZzdQRVV6QS1XaUVYQ2xwaUdn?oc=5)
-
----
-
-### [Even a single course of antibiotics can damage your gut. Here’s how to protect yourself - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVdnTlpFRkhkS1REWU1BR21WOVBXaTV6SWc2a2dGd3l4WmZEbFBiTUpoQ3pEZVY2dm9sZFdEalg3aWRCZUI4VXI2QW9yV2thc1ZFSjFqZEFVd1BqRzY2Q2tzVHZhbld1SnJfR2JNU2t4QnpSYXAzN21QQWNjcmxRbktXd2JUTl9Wa19CTVhwOXVCMms?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVdnTlpFRkhkS1REWU1BR21WOVBXaTV6SWc2a2dGd3l4WmZEbFBiTUpoQ3pEZVY2dm9sZFdEalg3aWRCZUI4VXI2QW9yV2thc1ZFSjFqZEFVd1BqRzY2Q2tzVHZhbld1SnJfR2JNU2t4QnpSYXAzN21QQWNjcmxRbktXd2JUTl9Wa19CTVhwOXVCMms?oc=5)
-
----
-
-### [Raffreddore e influenza ad aprile? Ecco perché ci sono ancora in giro i malanni invernali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRTI2cXVOc2FQX1c3UVpmYnJjSlZGc0FldGREZ2xadUt1cGNRaHE2aDAyUmlXcWtfaTd0cHhmeDFiUnQ3SGx2cWQ0QW5UYjJDdnEtdEFER0Y0YUIyZjMxbVJCTFBJZnBqeTVtaUphZkM2M2dXTlhDSGJsNEE3UFduU1M1c0RPXzZaM1FsSjF0V3h5Sk5SUC1BaEN5SUtERXltaEtiSE1DcTMzLXNqYzcyTFF1N0dqS2syMjNXdkF2YXJfZDRlZDdfekhLSm50V3NwYUVONFlYS2tRLWYzSF8ybEhwa0kwTTFsbGloLVJR0gHGAUFVX3lxTE5iVmhmdFZ4aWtBSDllbXlfRmVwMXFnMFlFTkY2OGlsNnZDMER3OXNSUVA2SnBoaDRqTHY1MjZGSEtNV0Y3b0FBbWFmTHZvQlNyTDlSRlV5WFpfanRTbjVGWVNXbHFqT2VKUXZGNGRUei1EeHh1dG9SaWlFRk05SlVKSVF2MUFCdFl2QUJYZExkV0dhSzNmVUVWUzBhTDBER3lZSXlRMHBocUtIOE00alZlT3RLQWlEY0E3OXhiZjZVZW9UbGxfdw?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRTI2cXVOc2FQX1c3UVpmYnJjSlZGc0FldGREZ2xadUt1cGNRaHE2aDAyUmlXcWtfaTd0cHhmeDFiUnQ3SGx2cWQ0QW5UYjJDdnEtdEFER0Y0YUIyZjMxbVJCTFBJZnBqeTVtaUphZkM2M2dXTlhDSGJsNEE3UFduU1M1c0RPXzZaM1FsSjF0V3h5Sk5SUC1BaEN5SUtERXltaEtiSE1DcTMzLXNqYzcyTFF1N0dqS2syMjNXdkF2YXJfZDRlZDdfekhLSm50V3NwYUVONFlYS2tRLWYzSF8ybEhwa0kwTTFsbGloLVJR0gHGAUFVX3lxTE5iVmhmdFZ4aWtBSDllbXlfRmVwMXFnMFlFTkY2OGlsNnZDMER3OXNSUVA2SnBoaDRqTHY1MjZGSEtNV0Y3b0FBbWFmTHZvQlNyTDlSRlV5WFpfanRTbjVGWVNXbHFqT2VKUXZGNGRUei1EeHh1dG9SaWlFRk05SlVKSVF2MUFCdFl2QUJYZExkV0dhSzNmVUVWUzBhTDBER3lZSXlRMHBocUtIOE00alZlT3RLQWlEY0E3OXhiZjZVZW9UbGxfdw?oc=5)
-
----
-
-### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
-
-2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
-
----
-
-### [Auszeichnung für translationale Spektroskopie: Jürgen Popp wird Ehrenmitglied der Society for Applied Spectroscopy - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMigwJBVV95cUxNckFuaE8xd0E0M183cDNLaWxXT3ZjanAzM2tfeHhGbktwRFZQcVhpQ093WnhNVGtkVU1NNGk4YnNwMU52RWpOMVFjcUxUcjVQUGstVHp6MjBkMEU3cDJSUFplSlVOYXRVa2N4eEVoOWNqQUxoNlpHWW14YllyZTFWTHdqX0ZFSzJlLURxTTg3WF93Y1p2dU1NWWxhN19PZUJZUzRScUg0MzZjR2RYN0xMVjIxT0xFRkZHbG9qZ0w1U1RERWFua21LOXMxZElRU0prRk14WkE5SG9ObDdxLTg4ZmZmUDZoa0s4dXA1amFfY0x2STh1aXk5YVJCWHk1eXFtenhv?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMigwJBVV95cUxNckFuaE8xd0E0M183cDNLaWxXT3ZjanAzM2tfeHhGbktwRFZQcVhpQ093WnhNVGtkVU1NNGk4YnNwMU52RWpOMVFjcUxUcjVQUGstVHp6MjBkMEU3cDJSUFplSlVOYXRVa2N4eEVoOWNqQUxoNlpHWW14YllyZTFWTHdqX0ZFSzJlLURxTTg3WF93Y1p2dU1NWWxhN19PZUJZUzRScUg0MzZjR2RYN0xMVjIxT0xFRkZHbG9qZ0w1U1RERWFua21LOXMxZElRU0prRk14WkE5SG9ObDdxLTg4ZmZmUDZoa0s4dXA1amFfY0x2STh1aXk5YVJCWHk1eXFtenhv?oc=5)
-
----
-
-### ["Moins il y a de soleil et plus il y a de sclérose en plaques" : les liens entre la maladie et la vitamine D décryptée par une chercheuse - Le Journal du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
-
-2026-04-07 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[Le Journal du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
 
 ---
 

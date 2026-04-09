@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [El retraso en el diagnóstico del síndrome de Cushing puede superar los tres años - Somos Pacientes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTJMd2RXOGhKcVBTNmlZYl8xR216OE5udzhvS3dTNXpEUnBwUjRFaW1ldllsSUhIZktYdG9mYWJpWkRDQWlJbk1KY1E2emFfNm5LNjFRUnhoUjEtbV9NNnA4bGtGdUNoU3U5TVZKX082cHhGX1hSSWd3Vms0SWRrclA2dXVHcFROQnlDSXNVUjBoM2ZibWhScnhCZk9jZzljbEVtWmtSR2JIMTFrS3VGbmJ3aFMwYS1lczdJM0RZTkYyZjJ3eUZHZy14LU1zbWhmaDd2Njhn?oc=5)
+
+2026-04-08 <span class="news-indication-tag">MS</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTJMd2RXOGhKcVBTNmlZYl8xR216OE5udzhvS3dTNXpEUnBwUjRFaW1ldllsSUhIZktYdG9mYWJpWkRDQWlJbk1KY1E2emFfNm5LNjFRUnhoUjEtbV9NNnA4bGtGdUNoU3U5TVZKX082cHhGX1hSSWd3Vms0SWRrclA2dXVHcFROQnlDSXNVUjBoM2ZibWhScnhCZk9jZzljbEVtWmtSR2JIMTFrS3VGbmJ3aFMwYS1lczdJM0RZTkYyZjJ3eUZHZy14LU1zbWhmaDd2Njhn?oc=5)
+
+---
 
 ### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
 
@@ -65,14 +73,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-04-08 <span class="news-indication-tag">MS</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiywJBVV95cUxPTklZY3E0cDdqYlQzUXczX2Rsd2U3R1NzRFItOEpGZzAwcjcwT3hOZjBWck40VWhJeDB0OFoyREdhRGg4SUJNV3NiVTBMV3dFQnRmeENuVmlTQUNFWW9TMUg5RldQckpSV2U3NnNVWmpsZWZYUTRlSTB2VDFFWVBZNGwxdUpfZ3VtWVRjbEVLZUFjVGhIRnM4eHhsbjc4Q3pDdGlsQVBCQkN3VElGMUdMa1A3T21POEdlc1Z0QlBWMGNmbmZaMDBRUkwxRXloTVdpLVlWalA5R1V0aXB5RWlUaTFvMVZvVFNXWWNOSHBkd3BVaXROM2JnZHVZUmVoSTJTcDFnZFVWeWxfQ05WcU1oZXNkazhxRC1tS3BnYWZ3QzVVMHhnZDR4Y1FPbjcyWUFzY2c0b2tqYkdlXzJ0UGJXRV93U3YycTRoZW5v?oc=5)
-
----
-
-### [Ni acumular ni esperar: la 'fecha de caducidad' del semen podría estar frustrando tus planes de embarazo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmVUMTY2LWxVTlp0RUQ4blBZcERCeDFYbW1wNkstVmpmZnpxeV9qS201dFhMTVR2NGZHYlNIMkYyVkd4b01KdGRXYVJTRldoNzg5X2lGZnVXMndZWlZ5SlZRc2ViSnpBQm50anhMYkxydHdKM2hKdXVWaUdCREUtdnVZck5KMFJtUEtrNXlrNlF0RHE3eTN4Zm0yLU00RHNqcE9fcGw3NTZla193cjhfS2hyRjlLV2xpY3A1UUcyTG9xVDlwQ3pPZkRQRFJuaWE2eEtGYVBHV2tJckNMN2dB?oc=5)
-
-2026-04-08 <span class="news-indication-tag">MS</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmVUMTY2LWxVTlp0RUQ4blBZcERCeDFYbW1wNkstVmpmZnpxeV9qS201dFhMTVR2NGZHYlNIMkYyVkd4b01KdGRXYVJTRldoNzg5X2lGZnVXMndZWlZ5SlZRc2ViSnpBQm50anhMYkxydHdKM2hKdXVWaUdCREUtdnVZck5KMFJtUEtrNXlrNlF0RHE3eTN4Zm0yLU00RHNqcE9fcGw3NTZla193cjhfS2hyRjlLV2xpY3A1UUcyTG9xVDlwQ3pPZkRQRFJuaWE2eEtGYVBHV2tJckNMN2dB?oc=5)
 
 ---
 
@@ -100,19 +100,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
+### [Treprostinil-Inhalat bremst Lungenfibrose - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
 
-2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+2026-04-07 <span class="news-indication-tag">MS</span>
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
-
----
-
-### ["Moins il y a de soleil et plus il y a de sclérose en plaques" : les liens entre la maladie et la vitamine D décryptée par une chercheuse - Le Journal du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
-
-2026-04-07 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[Le Journal du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
 
 ---
 

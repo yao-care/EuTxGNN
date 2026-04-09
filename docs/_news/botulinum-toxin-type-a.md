@@ -44,11 +44,11 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（1 則）
 
-### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
+### [HM CINAC se consolida como referencia internacional en el tratamiento e investigación de la enfermedad de Parkinson - HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
 
-2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+2026-04-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
+來源：[HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
 
 ---
 

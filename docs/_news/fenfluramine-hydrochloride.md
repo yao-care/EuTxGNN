@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [El COF de Ciudad Real reúne a expertos para abordar la obesidad desde la farmacia - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2p6Ni1TelZJVU5Sak53RUY0WkRXS0hZRXhMdHg1aExnSmpGOVMwWWZPVV9CaVg4NWgwX0lvd2cxc2YwT2RSZTFFZHV6RE5CZkR3VUdkRTlIanE5RWZFNUF4SmItT0pkaVE5elpZOGg0N0RIYjZQd2NzcFI4ZVZ1b3BHMTlBWmo4ZjRJTWNQaER5R0wxRS1GbzFudjUyQ1c2RkJhYVlDMl9Sbm5ZWFlJTUc5Z0NYZ9IBsAFBVV95cUxQcE5vTDZGSG5EZUY0akUzdlJvZHFFTXBxeEtxdlA0bmRPNmQ3OHRPRVE5YkNScUZ0Y3dpTlB5dTNpSFdmeDdOakJZbEl0aUVlSm5UcHk1UjV1dzhaT3JUWW1KdHJxYkN6dmx3cC1UNksyeEo3dGM5TjI4bU15SXBUdm9HZ3plZU9SUmdRQXlnWUE0d3Q5X2w0QXRGSEdIdklrTVJPRGFJSFBkYUF6YVU4bQ?oc=5)
+
+2026-04-08 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2p6Ni1TelZJVU5Sak53RUY0WkRXS0hZRXhMdHg1aExnSmpGOVMwWWZPVV9CaVg4NWgwX0lvd2cxc2YwT2RSZTFFZHV6RE5CZkR3VUdkRTlIanE5RWZFNUF4SmItT0pkaVE5elpZOGg0N0RIYjZQd2NzcFI4ZVZ1b3BHMTlBWmo4ZjRJTWNQaER5R0wxRS1GbzFudjUyQ1c2RkJhYVlDMl9Sbm5ZWFlJTUc5Z0NYZ9IBsAFBVV95cUxQcE5vTDZGSG5EZUY0akUzdlJvZHFFTXBxeEtxdlA0bmRPNmQ3OHRPRVE5YkNScUZ0Y3dpTlB5dTNpSFdmeDdOakJZbEl0aUVlSm5UcHk1UjV1dzhaT3JUWW1KdHJxYkN6dmx3cC1UNksyeEo3dGM5TjI4bU15SXBUdm9HZ3plZU9SUmdRQXlnWUE0d3Q5X2w0QXRGSEdIdklrTVJPRGFJSFBkYUF6YVU4bQ?oc=5)
+
+---
 
 ### [Un nouveau vaccin contre la grippe se montre plus efficace que la version standard pour les personnes en situation d'obésité sévère](https://news.google.com/rss/articles/CBMinAJBVV95cUxOZnd0dlpEclcyem8wTEtBaGt5amhQWFZXbzlwTnI1QlZJU0Q2LWlRcFpiaGZVZzduNGVIRU1FNk9KWHZ5MHE2b0lpNHEzMVRSWlJ1TTk5cFNWYWRWamFlRV9BV09CTE1RSjB4UXU1b1ZLUDRLeUdSNkRvV3ozVzQ3S2paLTZ4ZEpldmpnZ01fRkxVS0gxT3l5NDN3ZHRPZ2hxcS1UNzE2QS1XaGp6UmRQYXY5a01mRXR4RDV1VlJjY2JYd0s0eEJLTUkwZVM2eHQ2Wk1HcmczbVJSMkpGWklpangwYWlEZEktai1SeW5NQl9iLVVEMWhBLXlCTFI3c1hZSXdmeXpKdFZ0QVpVUmp5SllGdlpHVjVaZzRSTw?oc=5)
 

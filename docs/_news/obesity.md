@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [El COF de Ciudad Real reúne a expertos para abordar la obesidad desde la farmacia - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2p6Ni1TelZJVU5Sak53RUY0WkRXS0hZRXhMdHg1aExnSmpGOVMwWWZPVV9CaVg4NWgwX0lvd2cxc2YwT2RSZTFFZHV6RE5CZkR3VUdkRTlIanE5RWZFNUF4SmItT0pkaVE5elpZOGg0N0RIYjZQd2NzcFI4ZVZ1b3BHMTlBWmo4ZjRJTWNQaER5R0wxRS1GbzFudjUyQ1c2RkJhYVlDMl9Sbm5ZWFlJTUc5Z0NYZ9IBsAFBVV95cUxQcE5vTDZGSG5EZUY0akUzdlJvZHFFTXBxeEtxdlA0bmRPNmQ3OHRPRVE5YkNScUZ0Y3dpTlB5dTNpSFdmeDdOakJZbEl0aUVlSm5UcHk1UjV1dzhaT3JUWW1KdHJxYkN6dmx3cC1UNksyeEo3dGM5TjI4bU15SXBUdm9HZ3plZU9SUmdRQXlnWUE0d3Q5X2w0QXRGSEdIdklrTVJPRGFJSFBkYUF6YVU4bQ?oc=5)
+
+2026-04-08
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2p6Ni1TelZJVU5Sak53RUY0WkRXS0hZRXhMdHg1aExnSmpGOVMwWWZPVV9CaVg4NWgwX0lvd2cxc2YwT2RSZTFFZHV6RE5CZkR3VUdkRTlIanE5RWZFNUF4SmItT0pkaVE5elpZOGg0N0RIYjZQd2NzcFI4ZVZ1b3BHMTlBWmo4ZjRJTWNQaER5R0wxRS1GbzFudjUyQ1c2RkJhYVlDMl9Sbm5ZWFlJTUc5Z0NYZ9IBsAFBVV95cUxQcE5vTDZGSG5EZUY0akUzdlJvZHFFTXBxeEtxdlA0bmRPNmQ3OHRPRVE5YkNScUZ0Y3dpTlB5dTNpSFdmeDdOakJZbEl0aUVlSm5UcHk1UjV1dzhaT3JUWW1KdHJxYkN6dmx3cC1UNksyeEo3dGM5TjI4bU15SXBUdm9HZ3plZU9SUmdRQXlnWUE0d3Q5X2w0QXRGSEdIdklrTVJPRGFJSFBkYUF6YVU4bQ?oc=5)
+
+---
 
 ### [Un nouveau vaccin contre la grippe se montre plus efficace que la version standard pour les personnes en situation d'obésité sévère](https://news.google.com/rss/articles/CBMinAJBVV95cUxOZnd0dlpEclcyem8wTEtBaGt5amhQWFZXbzlwTnI1QlZJU0Q2LWlRcFpiaGZVZzduNGVIRU1FNk9KWHZ5MHE2b0lpNHEzMVRSWlJ1TTk5cFNWYWRWamFlRV9BV09CTE1RSjB4UXU1b1ZLUDRLeUdSNkRvV3ozVzQ3S2paLTZ4ZEpldmpnZ01fRkxVS0gxT3l5NDN3ZHRPZ2hxcS1UNzE2QS1XaGp6UmRQYXY5a01mRXR4RDV1VlJjY2JYd0s0eEJLTUkwZVM2eHQ2Wk1HcmczbVJSMkpGWklpangwYWlEZEktai1SeW5NQl9iLVVEMWhBLXlCTFI3c1hZSXdmeXpKdFZ0QVpVUmp5SllGdlpHVjVaZzRSTw?oc=5)
 

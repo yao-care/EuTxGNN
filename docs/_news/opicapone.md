@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Good news: a positive attitude may reduce risk of dementia - The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGNDUlJyQUM2ODRYa3ZTTjRVVFVES1pSalBJNmpXekJmT1NjVXZHNE9rZWNOTzBWbE5rQThETFNQZjM0YjhfVjN4Q3A1ZGZxRGdBTjBxUjRuZ1NsU255dDFfWllpMThRenRvVFNIQ1pweEdfNmI0YmUwZkhKSUxLekltWmlBdkpFaFlTODI5SF8?oc=5)
+### [HM CINAC se consolida como referencia internacional en el tratamiento e investigación de la enfermedad de Parkinson - HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
 
-2026-04-08 <span class="news-indication-tag">dementia</span>
+2026-04-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGNDUlJyQUM2ODRYa3ZTTjRVVFVES1pSalBJNmpXekJmT1NjVXZHNE9rZWNOTzBWbE5rQThETFNQZjM0YjhfVjN4Q3A1ZGZxRGdBTjBxUjRuZ1NsU255dDFfWllpMThRenRvVFNIQ1pweEdfNmI0YmUwZkhKSUxLekltWmlBdkpFaFlTODI5SF8?oc=5)
-
----
-
-### [Doctor Amir Khan says make 1 change when cleaning teeth to 'slash dementia risk' - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
-
-2026-04-08 <span class="news-indication-tag">dementia</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
+來源：[HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
 
 ---
 
-### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
+### [This easy daily habit may cut dementia risk by 15% - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEtMZlVnU0Flclo1STBmcUdUVTE5bjBsRlo0dGEzOHA4NS1MN2dmeUZpeEdfU19weE1xRERDVGdQQWRVWWxVaHMwb1loYWdWUDl5d25FQjZNVk54ZHJBOG9HX1BkeERraFQ3aHlaeDJUQXdsMURDSDJIOVlEYklaY3NZbUswTkdYQ2tBUTVfSDBXbkh0cEdzZtIBngFBVV95cUxQNktPNXQzTEFYU3lHOHpmLUdudFdFZFdHbnZSU3V0WWt5R3hYS3AwQ2JwX01NRWxMMndmckFRVklHT2ZPMjFZVzBtWHgzRTNVdW9qQnVFdmh6NHBOMktCYmhwN1M1V1IwVFlmd0pKWEp2MTJOQmNwTmtkTExFbDNYYjFVVEtPaFhVU1htazhpcmNLTUtjZjRJbC02MVYzdw?oc=5)
 
-2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+2026-04-09 <span class="news-indication-tag">dementia</span>
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEtMZlVnU0Flclo1STBmcUdUVTE5bjBsRlo0dGEzOHA4NS1MN2dmeUZpeEdfU19weE1xRERDVGdQQWRVWWxVaHMwb1loYWdWUDl5d25FQjZNVk54ZHJBOG9HX1BkeERraFQ3aHlaeDJUQXdsMURDSDJIOVlEYklaY3NZbUswTkdYQ2tBUTVfSDBXbkh0cEdzZtIBngFBVV95cUxQNktPNXQzTEFYU3lHOHpmLUdudFdFZFdHbnZSU3V0WWt5R3hYS3AwQ2JwX01NRWxMMndmckFRVklHT2ZPMjFZVzBtWHgzRTNVdW9qQnVFdmh6NHBOMktCYmhwN1M1V1IwVFlmd0pKWEp2MTJOQmNwTmtkTExFbDNYYjFVVEtPaFhVU1htazhpcmNLTUtjZjRJbC02MVYzdw?oc=5)
 
 ---
 

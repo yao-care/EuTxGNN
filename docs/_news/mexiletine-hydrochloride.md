@@ -14,7 +14,7 @@ permalink: /news/mexiletine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Mexiletine Hydrochloride 有什麼相關新聞？">
-<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ permalink: /news/mexiletine-hydrochloride/
 <p><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（29 則）
+
+### [Un estudio médico desvela que la gran mayoría de los pacientes de Parkinson sufren problemas con la vista que](https://news.google.com/rss/articles/CBMipAJBVV95cUxOVVYxWmFFdlZWLTJsOEdaWUNRZk5LaHVqSHVEbEpBRFNGMHNSRXJtbXZLZVdZZjBzRmFmai1CQVdUcS0wWE1PVmFWRW1RSjg5TjI5Zk9FLVZ5WlRjSkR1RVpsQm1Bd25HRDBrY3dDZmZzbUFrUHBnaE1VQUwwYWVVUVMxMC1TODdIZFdpTzExX1dFNVByNmstckZXTkVYVmlGT0pCdU90S1o2aEhWbTNWZzhFYTVMVFRveUZyMjN6Yy1VcklEWkY5WlFHZWtNeDkya3ZRUDR2U1Vxc195TE1hSlpjRmJXS0ZOUHpJbmJDSWlqM2w4VGxxZlp2d2dsRGw3ODRkNHhvY2tEWlpuOGpFM1JZLXNaS3RGeDJFdERmWUFVR2NP0gGkAkFVX3lxTE8xelRjWHAxZm53bldMWjduWE0wWTl1aFI1ejZRRmpVWllWZWtNUm0xVjFRR1NMRjZjRGpsb1MyNm94LUU2VEFTWnp0QXV6TEE3MDdXdGdSb0ttUm5MbHJOVWtEUmpOTW9RemNnNnVIbjBuYTByWG9ZNDhKeXZ1d1Y5YnFVemhVaW01UnZ6MTRfbWIwby1LWjZLQ3pTZmVXNUwzWVg2NWVmZGJhM0htSzdmWWNTNDd1bXVqSlJ0dUtjMDJsVnFuNWV6aF9qaDlQNnF5UkpuSkdjVVdjdkY3ZDVjQ0hlcS00NVkyY19lWV8wMkZpckV4RW5iRHNaTHRoekotM0RValJwUzd5aGQ4RldhUzNtMDFqUDhodUVSSWdQZ2xMUlA?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[LaSexta](https://news.google.com/rss/articles/CBMipAJBVV95cUxOVVYxWmFFdlZWLTJsOEdaWUNRZk5LaHVqSHVEbEpBRFNGMHNSRXJtbXZLZVdZZjBzRmFmai1CQVdUcS0wWE1PVmFWRW1RSjg5TjI5Zk9FLVZ5WlRjSkR1RVpsQm1Bd25HRDBrY3dDZmZzbUFrUHBnaE1VQUwwYWVVUVMxMC1TODdIZFdpTzExX1dFNVByNmstckZXTkVYVmlGT0pCdU90S1o2aEhWbTNWZzhFYTVMVFRveUZyMjN6Yy1VcklEWkY5WlFHZWtNeDkya3ZRUDR2U1Vxc195TE1hSlpjRmJXS0ZOUHpJbmJDSWlqM2w4VGxxZlp2d2dsRGw3ODRkNHhvY2tEWlpuOGpFM1JZLXNaS3RGeDJFdERmWUFVR2NP0gGkAkFVX3lxTE8xelRjWHAxZm53bldMWjduWE0wWTl1aFI1ejZRRmpVWllWZWtNUm0xVjFRR1NMRjZjRGpsb1MyNm94LUU2VEFTWnp0QXV6TEE3MDdXdGdSb0ttUm5MbHJOVWtEUmpOTW9RemNnNnVIbjBuYTByWG9ZNDhKeXZ1d1Y5YnFVemhVaW01UnZ6MTRfbWIwby1LWjZLQ3pTZmVXNUwzWVg2NWVmZGJhM0htSzdmWWNTNDd1bXVqSlJ0dUtjMDJsVnFuNWV6aF9qaDlQNnF5UkpuSkdjVVdjdkY3ZDVjQ0hlcS00NVkyY19lWV8wMkZpckV4RW5iRHNaTHRoekotM0RValJwUzd5aGQ4RldhUzNtMDFqUDhodUVSSWdQZ2xMUlA?oc=5)
+
+---
+
+### [Die Rolle der BET-Proteine bei der Genaktivierung - Max-Planck-Gesellschaft zur Förderung der Wissenschaften](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFdqWVh6UUFHcHNLOWlsMWdla2NNYTMwX0NFN3JnZW4tQmJsdU9ERl90SHY2Sy1hQm1FQ01tbkdlSzZVc0pHaWJvNTFZMEc4akpqdWg1RVlDUzN0Mmx1TkV4LVVXYmxIN1pJemFkWktlVHhvdWtuTDV6YnVIaWNoM3E0MA?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[Max-Planck-Gesellschaft zur Förderung der Wissenschaften](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFdqWVh6UUFHcHNLOWlsMWdla2NNYTMwX0NFN3JnZW4tQmJsdU9ERl90SHY2Sy1hQm1FQ01tbkdlSzZVc0pHaWJvNTFZMEc4akpqdWg1RVlDUzN0Mmx1TkV4LVVXYmxIN1pJemFkWktlVHhvdWtuTDV6YnVIaWNoM3E0MA?oc=5)
+
+---
+
+### [Neuer Ansatz gegen Herzschwäche: Göttinger Forschende finden genetischen „Schalter“ - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
+
+---
+
+### [Gehirnalterung: Signale im Schlaf deuten früh auf Demenz hin - smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVE4cnZXQ1l5dmtsS3UwcFpSMUxwS3U4S1BMU296cDBUd211VWJ5OTdwZ2FCWkFLSko3Xy1TbHFnOG5ZSTMyTFNrYlhzS2ZqX1lGWGdhNkpwMTFCY1NPRUtxSnJ3YUlNcGk5NDFXUW9pX01JZkJCNDhVUEloWnYybXRiTnhHTy1JN2RKLTBIUjFCTWpxSklIbUJXY0E?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVE4cnZXQ1l5dmtsS3UwcFpSMUxwS3U4S1BMU296cDBUd211VWJ5OTdwZ2FCWkFLSko3Xy1TbHFnOG5ZSTMyTFNrYlhzS2ZqX1lGWGdhNkpwMTFCY1NPRUtxSnJ3YUlNcGk5NDFXUW9pX01JZkJCNDhVUEloWnYybXRiTnhHTy1JN2RKLTBIUjFCTWpxSklIbUJXY0E?oc=5)
+
+---
 
 ### [Müde am Morgen? Vier Tipps für einen besseren Schlafrhythmus](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTld0OUZJYzdKQWZVelhFbXo4LU1QUlNwVWtWNFlrUG1XMFhLYUFpQk9semh2T3BUWkpHSlgyVnJ6ZVZZN2xZQjBzLUptN3VFTXpIdWt5VnV3TGlCSnpnUGZOS195NU9sRGwtNzlEaGFrclk1S2Zwa3lQZENkaXR3VFRWRkdwWUJYUzJaZ3c2Ujl4cWd2Ti05WGNRYi1mS2hqalE?oc=5)
 
@@ -60,27 +92,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
-
-2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
-
----
-
-### [Woman shares before and after of going 30 days without drinking alcohol](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
+### [Incontinence: NI woman 'leaking while competing' after birth](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VOGFhaVA0bnBEQl9BdzA0OUtuUlBHajdzLUpRTldQMDlETDFtX3c3M0w4UHNNN2xzNHAyOGQ5Y01tS3R2ck5JM3lvWmhjYVluUVJpMkhTQkltb3Vo?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
-
----
-
-### [Banham Zoo flamingos back outside as bird flu restrictions end](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ld1p5RUpibG9ieURya0dLSmcxclZ2Nll0bzU1dW9KRFoxdVJuT0xfeDF5a1BtaURfSTZlNEpQSmlrRW9QbVFoQmd2R0hQSEtkZTV0ekxfUU5mRFUx?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ld1p5RUpibG9ieURya0dLSmcxclZ2Nll0bzU1dW9KRFoxdVJuT0xfeDF5a1BtaURfSTZlNEpQSmlrRW9QbVFoQmd2R0hQSEtkZTV0ekxfUU5mRFUx?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VOGFhaVA0bnBEQl9BdzA0OUtuUlBHajdzLUpRTldQMDlETDFtX3c3M0w4UHNNN2xzNHAyOGQ5Y01tS3R2ck5JM3lvWmhjYVluUVJpMkhTQkltb3Vo?oc=5)
 
 ---
 
@@ -92,6 +108,22 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
+### [Woman shares before and after of going 30 days without drinking alcohol](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
+
+---
+
+### [Alexandre Olmos, médico: "Si quieres activar genes de longevidad, empieza por aquí" - El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLTZMaVhiejJ3aXpQSWpDYi04dl9rQURlM21UcFh0TDVXaDZQX1VHUXgyTHlsdFlsZ3E4MWVVaTBpWWpVNjFpc0RuVDBHaUVzR3lZQXpOWGNoRFo5Y1JWWG5QaWozdTVxR3pCazVQWnB4WXJzbWFYV2tEd0FadmJkR2RKMHhFRUZDMWF4UUxnVUhZMV9MZlJHQnhrRjA1RUhwQVVNVzZYbjFfVFB4UG9wanBITTM3WktvdGVadUxiam5mQklQRzJTcWo0WnEzWlNEeWdWRHJtZFdEZw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLTZMaVhiejJ3aXpQSWpDYi04dl9rQURlM21UcFh0TDVXaDZQX1VHUXgyTHlsdFlsZ3E4MWVVaTBpWWpVNjFpc0RuVDBHaUVzR3lZQXpOWGNoRFo5Y1JWWG5QaWozdTVxR3pCazVQWnB4WXJzbWFYV2tEd0FadmJkR2RKMHhFRUZDMWF4UUxnVUhZMV9MZlJHQnhrRjA1RUhwQVVNVzZYbjFfVFB4UG9wanBITTM3WktvdGVadUxiam5mQklQRzJTcWo0WnEzWlNEeWdWRHJtZFdEZw?oc=5)
+
+---
+
 ### [Santé : le café et le sel amplifient les acouphènes, mythe ou réalité ?](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVPZFo0OXhXaTFqbDBkZWNzbG9lczF2VjhDOEFSM0Y1Tnc4QlcxN09yeUhDa19FVHdnQ0FFM0FuSTFmdEZHTXFST2hJYlFCOElnY2xYV0dTelBldVNkOV9kVXdQamdDYS03cUptc0VVN19CN19hZXByVHFhNG0ydkVPWm13d3dxNGFSSFVOaC1WVU1Y?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
@@ -100,19 +132,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Rafael Bañares, catedrático de Medicina, sobre el hígado: "El alcohol y la grasa anticipan un incremento en el número de casos de enfermedad hepática avanzada en los próximos años" - Men's Health](https://news.google.com/rss/articles/CBMingFBVV95cUxOenRXTFJieWcydHEzWEJmbkVFRzkyNmItbmR6czhmLVBYWTh3VmdNNG9rd05QVFUwNkNRbnBIME9LeWtDemlQdm9uMG8wV3VYTTU4bmVCSlAxU2YzVWNHT21YdmJNT045UHZiVlU2NGhRcTh5VjVhNVpXWDNtdzJVYUJaZ29YQUR5VG9pcHpxZXhlR3hwY0ttdmVvbUw5Zw?oc=5)
+### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
 
-2026-04-08 <span class="news-indication-tag">AF</span>
+2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Men's Health](https://news.google.com/rss/articles/CBMingFBVV95cUxOenRXTFJieWcydHEzWEJmbkVFRzkyNmItbmR6czhmLVBYWTh3VmdNNG9rd05QVFUwNkNRbnBIME9LeWtDemlQdm9uMG8wV3VYTTU4bmVCSlAxU2YzVWNHT21YdmJNT045UHZiVlU2NGhRcTh5VjVhNVpXWDNtdzJVYUJaZ29YQUR5VG9pcHpxZXhlR3hwY0ttdmVvbUw5Zw?oc=5)
-
----
-
-### [Cerca del 80% de las personas con párkinson presentan alteraciones visuales](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNzRGM5RHFzeUZDdXhSbVMyc3NDNmRBb1ZGYzJmTTg4SFhzS2hiVThMNWtheFhNUUl2UlB6NkNaZW5pMm15S2s2VDFETnJwZ2ZPY1gxS0RwdjBRVXQzWDktcE9WLVgxa05hN28tR21UMG5FZHloS3RneEcyRFVoY3pRd2VIRThzR25pZ25lRXo1dFNVZEdJR3k2cHFqOER0WGRURjdCQzg?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUNzRGM5RHFzeUZDdXhSbVMyc3NDNmRBb1ZGYzJmTTg4SFhzS2hiVThMNWtheFhNUUl2UlB6NkNaZW5pMm15S2s2VDFETnJwZ2ZPY1gxS0RwdjBRVXQzWDktcE9WLVgxa05hN28tR21UMG5FZHloS3RneEcyRFVoY3pRd2VIRThzR25pZ25lRXo1dFNVZEdJR3k2cHFqOER0WGRURjdCQzg?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
 
 ---
 
@@ -188,11 +212,19 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Ipertensione arteriosa, cervello e cuore le prime vittime: i valori da tenere sotto controllo - Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0FQVERNRzRLa0pJMllPNzZvdTA2VHRQQ1Y0TE93VkNlUmlEM3NDeXNxRWJfWUhKU01FalZ4R3lBZFhXQVhFRW5zM0JsOHZRbnFvUDRHSDR5cXdnamcxNWt1ejJCczRaUHA5eS14eWNHbzlPVU5SSVVnY25MdEJBdmU3Slp3eXZqTUt0alc5Vzg1WU9zUVF6UnVDdDNpZ01fNWFsNGl1SUk?oc=5)
+### [Bristol man dies weeks after holiday as widow praises hospice](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
 
-2026-04-08 <span class="news-indication-tag">ipertensione</span>
+2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0FQVERNRzRLa0pJMllPNzZvdTA2VHRQQ1Y0TE93VkNlUmlEM3NDeXNxRWJfWUhKU01FalZ4R3lBZFhXQVhFRW5zM0JsOHZRbnFvUDRHSDR5cXdnamcxNWt1ejJCczRaUHA5eS14eWNHbzlPVU5SSVVnY25MdEJBdmU3Slp3eXZqTUt0alc5Vzg1WU9zUVF6UnVDdDNpZ01fNWFsNGl1SUk?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
+
+---
+
+### [Sarcopenia: cómo prevenirla y revertirla con alimentación saludable y ejercicio - 65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
 
 ---
 
@@ -228,14 +260,6 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Gran with skin infection died after bungling staff gave her the wrong medicine - The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZUpPSWlaZ2QtX0FuZmwyU0Jxb0Ryb2tLc1JuM3NwN0w1ODQ3dXFobTFfMlJaOFhHWXB6ZTN6ckRzWTc3SGdyeUNNQ1pRODNGVGdsUFByNTFTQzZab08yRFJNQWh5NFB0WTQ2YmtnR2FBWEYz?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZUpPSWlaZ2QtX0FuZmwyU0Jxb0Ryb2tLc1JuM3NwN0w1ODQ3dXFobTFfMlJaOFhHWXB6ZTN6ckRzWTc3SGdyeUNNQ1pRODNGVGdsUFByNTFTQzZab08yRFJNQWh5NFB0WTQ2YmtnR2FBWEYz?oc=5)
-
----
-
 ### [EL AUDITORIO MUNICIPAL RAFAEL DE LEÓN ACOGERÁ ESTE JUEVES, 9 DE ABRIL, LA OBRA DE TEATRO “EL PADRE”, A BENEFICIO DE LA ASOCIACIÓN FAMILIARES ALZHEIMER, ESTIMULACIÓN NEUROLÓGICA (AFAeN) DE TOMARES - Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXRVdlZqeXdwQTVxUW45VEd2czA5Z0ZEUE1HdzhZYTREWEFOdG9fSDhueW5OLVhKQmJaYUdHVEF0NHBRNGJXZC15bXk0djVFNUp6eGlBTHNzZkVXaVRvSE9nUGVQakhObUNybEc0dS1jUDhOZHozMXl5cTNvSlY1Q0FMYTZjMENURC1ab2JPRTVaWVJpb1hwN1Jma1Vnc1NwNjVfaEZyaVUtdW41akk4YjVINW00anc2RzktZW5R?oc=5)
 
 2026-04-07 <span class="news-indication-tag">AF</span>
@@ -249,38 +273,6 @@ permalink: /news/mexiletine-hydrochloride/
 2026-04-07 <span class="news-indication-tag">AF</span>
 
 來源：[Wired](https://news.google.com/rss/articles/CBMixgFBVV95cUxOaU9RbFBvS0dwTnhEZE51T2hLbUxaQUc1ckRmM01nd2lhOEo5WnBUOVZTX2hwRG1lTW1ON2pEZkNNcHpwTmxlc0JHcE1CNXRqTVVoV3ZEdzBRdHl5dHIybFlrWWNhNTlTRnF4Y2Y5dFZXMlVFa3FsRGNTUk50Y3dDQVdDWHJ3TFFiN05FZE4ycVB1WjNDdDR5YUVLYzV4WWl2T05WYnFkY2dPLVctWVJEV0RZdjlOZE1uUER6dXdDNmJncU1GaHc?oc=5)
-
----
-
-### [Affanno e stanchezza? Al Papardo il nuovo test per scoprire la causa esatta](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXg0UnU1TmRxSy1TTnJLRTdoa3AwLXVicGU1RUlYelI2c1BhZDZOcUNaTGs3QWxaUFRyVkluZktsLTFkd0hWMkZVdm5ud0x1d1c1YTI3dnhHT3RIdWVIbTVXdnZYVHUtei12dnlTYVhQMmNnVWZqYW5UVnZmQ2pCRTRmVnEtMUd2S3FidjkxVmViQ2Q0bFQxLXVhRGdOYmtZZzdQRVV6QS1XaUVYQ2xwaUdn?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[Tempostretto](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXg0UnU1TmRxSy1TTnJLRTdoa3AwLXVicGU1RUlYelI2c1BhZDZOcUNaTGs3QWxaUFRyVkluZktsLTFkd0hWMkZVdm5ud0x1d1c1YTI3dnhHT3RIdWVIbTVXdnZYVHUtei12dnlTYVhQMmNnVWZqYW5UVnZmQ2pCRTRmVnEtMUd2S3FidjkxVmViQ2Q0bFQxLXVhRGdOYmtZZzdQRVV6QS1XaUVYQ2xwaUdn?oc=5)
-
----
-
-### [Even a single course of antibiotics can damage your gut. Here’s how to protect yourself - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVdnTlpFRkhkS1REWU1BR21WOVBXaTV6SWc2a2dGd3l4WmZEbFBiTUpoQ3pEZVY2dm9sZFdEalg3aWRCZUI4VXI2QW9yV2thc1ZFSjFqZEFVd1BqRzY2Q2tzVHZhbld1SnJfR2JNU2t4QnpSYXAzN21QQWNjcmxRbktXd2JUTl9Wa19CTVhwOXVCMms?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVdnTlpFRkhkS1REWU1BR21WOVBXaTV6SWc2a2dGd3l4WmZEbFBiTUpoQ3pEZVY2dm9sZFdEalg3aWRCZUI4VXI2QW9yV2thc1ZFSjFqZEFVd1BqRzY2Q2tzVHZhbld1SnJfR2JNU2t4QnpSYXAzN21QQWNjcmxRbktXd2JUTl9Wa19CTVhwOXVCMms?oc=5)
-
----
-
-### [Raffreddore e influenza ad aprile? Ecco perché ci sono ancora in giro i malanni invernali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRTI2cXVOc2FQX1c3UVpmYnJjSlZGc0FldGREZ2xadUt1cGNRaHE2aDAyUmlXcWtfaTd0cHhmeDFiUnQ3SGx2cWQ0QW5UYjJDdnEtdEFER0Y0YUIyZjMxbVJCTFBJZnBqeTVtaUphZkM2M2dXTlhDSGJsNEE3UFduU1M1c0RPXzZaM1FsSjF0V3h5Sk5SUC1BaEN5SUtERXltaEtiSE1DcTMzLXNqYzcyTFF1N0dqS2syMjNXdkF2YXJfZDRlZDdfekhLSm50V3NwYUVONFlYS2tRLWYzSF8ybEhwa0kwTTFsbGloLVJR0gHGAUFVX3lxTE5iVmhmdFZ4aWtBSDllbXlfRmVwMXFnMFlFTkY2OGlsNnZDMER3OXNSUVA2SnBoaDRqTHY1MjZGSEtNV0Y3b0FBbWFmTHZvQlNyTDlSRlV5WFpfanRTbjVGWVNXbHFqT2VKUXZGNGRUei1EeHh1dG9SaWlFRk05SlVKSVF2MUFCdFl2QUJYZExkV0dhSzNmVUVWUzBhTDBER3lZSXlRMHBocUtIOE00alZlT3RLQWlEY0E3OXhiZjZVZW9UbGxfdw?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRTI2cXVOc2FQX1c3UVpmYnJjSlZGc0FldGREZ2xadUt1cGNRaHE2aDAyUmlXcWtfaTd0cHhmeDFiUnQ3SGx2cWQ0QW5UYjJDdnEtdEFER0Y0YUIyZjMxbVJCTFBJZnBqeTVtaUphZkM2M2dXTlhDSGJsNEE3UFduU1M1c0RPXzZaM1FsSjF0V3h5Sk5SUC1BaEN5SUtERXltaEtiSE1DcTMzLXNqYzcyTFF1N0dqS2syMjNXdkF2YXJfZDRlZDdfekhLSm50V3NwYUVONFlYS2tRLWYzSF8ybEhwa0kwTTFsbGloLVJR0gHGAUFVX3lxTE5iVmhmdFZ4aWtBSDllbXlfRmVwMXFnMFlFTkY2OGlsNnZDMER3OXNSUVA2SnBoaDRqTHY1MjZGSEtNV0Y3b0FBbWFmTHZvQlNyTDlSRlV5WFpfanRTbjVGWVNXbHFqT2VKUXZGNGRUei1EeHh1dG9SaWlFRk05SlVKSVF2MUFCdFl2QUJYZExkV0dhSzNmVUVWUzBhTDBER3lZSXlRMHBocUtIOE00alZlT3RLQWlEY0E3OXhiZjZVZW9UbGxfdw?oc=5)
-
----
-
-### [Auszeichnung für translationale Spektroskopie: Jürgen Popp wird Ehrenmitglied der Society for Applied Spectroscopy - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMigwJBVV95cUxNckFuaE8xd0E0M183cDNLaWxXT3ZjanAzM2tfeHhGbktwRFZQcVhpQ093WnhNVGtkVU1NNGk4YnNwMU52RWpOMVFjcUxUcjVQUGstVHp6MjBkMEU3cDJSUFplSlVOYXRVa2N4eEVoOWNqQUxoNlpHWW14YllyZTFWTHdqX0ZFSzJlLURxTTg3WF93Y1p2dU1NWWxhN19PZUJZUzRScUg0MzZjR2RYN0xMVjIxT0xFRkZHbG9qZ0w1U1RERWFua21LOXMxZElRU0prRk14WkE5SG9ObDdxLTg4ZmZmUDZoa0s4dXA1amFfY0x2STh1aXk5YVJCWHk1eXFtenhv?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMigwJBVV95cUxNckFuaE8xd0E0M183cDNLaWxXT3ZjanAzM2tfeHhGbktwRFZQcVhpQ093WnhNVGtkVU1NNGk4YnNwMU52RWpOMVFjcUxUcjVQUGstVHp6MjBkMEU3cDJSUFplSlVOYXRVa2N4eEVoOWNqQUxoNlpHWW14YllyZTFWTHdqX0ZFSzJlLURxTTg3WF93Y1p2dU1NWWxhN19PZUJZUzRScUg0MzZjR2RYN0xMVjIxT0xFRkZHbG9qZ0w1U1RERWFua21LOXMxZElRU0prRk14WkE5SG9ObDdxLTg4ZmZmUDZoa0s4dXA1amFfY0x2STh1aXk5YVJCWHk1eXFtenhv?oc=5)
 
 ---
 

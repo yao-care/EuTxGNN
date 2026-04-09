@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Parkinson's（parkinson disease） 相關新聞"
+title: "enfermedad de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Parkinson's（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "enfermedad de Parkinson（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
-# Parkinson's（parkinson disease） 相關新聞
+# enfermedad de Parkinson（parkinson disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Parkinson's（parkinson disease） 有什麼相關新聞？">
-<strong>Parkinson's（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Parkinson（parkinson disease） 有什麼相關新聞？">
+<strong>enfermedad de Parkinson（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Parkinson's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Parkinson」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ permalink: /news/parkinson-disease/
 
 ## 相關新聞（1 則）
 
-### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
+### [HM CINAC se consolida como referencia internacional en el tratamiento e investigación de la enfermedad de Parkinson - HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
 
-2026-04-07
+2026-04-09
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
+來源：[HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
 
 ---
 
