@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Tochter (3) stirbt fast an Diabetes: „Ich fühle mich bis heute schuldig“](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
+
+2026-04-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[Westfalenpost](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
+
+---
 
 ### [La vitamina C puede ayudar a reducir la presión arterial en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
 
@@ -68,35 +76,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Las advertencias de los expertos antes de comenzar a usar medicamentos contra la obesidad - El Nacional](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNemNGRjA3am9BaWpzd0RldXpSN3o3ODhObElkUldEbXBkU250UFFzRXN1bXAtZWxlRlNTS1pzeG5ja2VSckJNb1RqQ1ZIWVhYRVBjZFFOb0RyaGhhTmZvUFU4NnBLVXhZTGFCY0dRSG1rQWQ4MDhMUDVrVlNUQXotR1ZoVWdpZlNLU1JqQlg4ZTRZSFBPOC1WMzUwVVdQOWxBUk0xZm1ab1UyZHRIY2pjSklJRXNlTDRHcEc0cTVzdmRKdGc?oc=5)
+
+2026-04-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[El Nacional](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNemNGRjA3am9BaWpzd0RldXpSN3o3ODhObElkUldEbXBkU250UFFzRXN1bXAtZWxlRlNTS1pzeG5ja2VSckJNb1RqQ1ZIWVhYRVBjZFFOb0RyaGhhTmZvUFU4NnBLVXhZTGFCY0dRSG1rQWQ4MDhMUDVrVlNUQXotR1ZoVWdpZlNLU1JqQlg4ZTRZSFBPOC1WMzUwVVdQOWxBUk0xZm1ab1UyZHRIY2pjSklJRXNlTDRHcEc0cTVzdmRKdGc?oc=5)
+
+---
+
 ### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
-
----
-
-### [José María Fernández, especialista en medicina interna: «Nos queda muchísimo por conocer sobre los beneficios que pueden tener fármacos como Ozempic» - La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
-
-2026-04-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
-
----
-
-### [Durchbruch bei Diabetes-Forschung: Warum große Höhen vor einer Erkrankung schützen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
-
-2026-04-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Watson.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
-
----
-
-### [Heuschnupfen und Diabetes: „Von dieser Behandlung raten wir extrem ab“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmp1Q0hMUzkwY0NMQS1tbjRrMHFxdFI0VksxVU5ta2x4ZlhnNmJhckZUY24yZnpzVjJjUERkQURDeWdDb3huMVo5MG1XRW5Ja3A2NnJ0VVM2NjNyVjFCYVJTSnQtV3F3dC1LS01oMFpXWFZrdWktdU1Ob3prZ2VQVmZYN1NLZkozRk5qR1VBMG5kQ2dYWmN1M19SNDM3Q0JSSnBJdUVCdUlmeFNWd2dGWXRyY0RqN3h0SXJ0dld3RlFDZHB6ekUwejBUUGlSUmdjeXZvMjZ0VENzUWpKSFA1TGFWbVYwT20tX3BfYmhSVUJYUQ?oc=5)
-
-2026-04-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmp1Q0hMUzkwY0NMQS1tbjRrMHFxdFI0VksxVU5ta2x4ZlhnNmJhckZUY24yZnpzVjJjUERkQURDeWdDb3huMVo5MG1XRW5Ja3A2NnJ0VVM2NjNyVjFCYVJTSnQtV3F3dC1LS01oMFpXWFZrdWktdU1Ob3prZ2VQVmZYN1NLZkozRk5qR1VBMG5kQ2dYWmN1M19SNDM3Q0JSSnBJdUVCdUlmeFNWd2dGWXRyY0RqN3h0SXJ0dld3RlFDZHB6ekUwejBUUGlSUmdjeXZvMjZ0VENzUWpKSFA1TGFWbVYwT20tX3BfYmhSVUJYUQ?oc=5)
 
 ---
 

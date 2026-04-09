@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,29 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [‘We found out our two-year-old has childhood dementia by chance - it's horrific' - Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmJ2TERGeEItd0wxcl9iczdHbGZiaWZ1VnhUTzN3Q1VMaF9MSGNRcUF3X3dmMUpwczJid3JvUWdNT1BiZ2Q4dGN0TUNlLWN6UDZXUUs0VUg4bWZISktWeFpwQ0RQUHQ4UGZrV0ppZUlLd1B3TnZ1SlhZUUdRSmtzTEw1YmRONW9MUEhMMHdENGFHUF9uMDd1RloxSFl1RjNVLThQcHJTbThrSGxCcU9mMQ?oc=5)
+
+2026-04-09
+
+來源：[Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmJ2TERGeEItd0wxcl9iczdHbGZiaWZ1VnhUTzN3Q1VMaF9MSGNRcUF3X3dmMUpwczJid3JvUWdNT1BiZ2Q4dGN0TUNlLWN6UDZXUUs0VUg4bWZISktWeFpwQ0RQUHQ4UGZrV0ppZUlLd1B3TnZ1SlhZUUdRSmtzTEw1YmRONW9MUEhMMHdENGFHUF9uMDd1RloxSFl1RjNVLThQcHJTbThrSGxCcU9mMQ?oc=5)
+
+---
 
 ### [This easy daily habit may cut dementia risk by 15% - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEtMZlVnU0Flclo1STBmcUdUVTE5bjBsRlo0dGEzOHA4NS1MN2dmeUZpeEdfU19weE1xRERDVGdQQWRVWWxVaHMwb1loYWdWUDl5d25FQjZNVk54ZHJBOG9HX1BkeERraFQ3aHlaeDJUQXdsMURDSDJIOVlEYklaY3NZbUswTkdYQ2tBUTVfSDBXbkh0cEdzZtIBngFBVV95cUxQNktPNXQzTEFYU3lHOHpmLUdudFdFZFdHbnZSU3V0WWt5R3hYS3AwQ2JwX01NRWxMMndmckFRVklHT2ZPMjFZVzBtWHgzRTNVdW9qQnVFdmh6NHBOMktCYmhwN1M1V1IwVFlmd0pKWEp2MTJOQmNwTmtkTExFbDNYYjFVVEtPaFhVU1htazhpcmNLTUtjZjRJbC02MVYzdw?oc=5)
 
 2026-04-09
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEtMZlVnU0Flclo1STBmcUdUVTE5bjBsRlo0dGEzOHA4NS1MN2dmeUZpeEdfU19weE1xRERDVGdQQWRVWWxVaHMwb1loYWdWUDl5d25FQjZNVk54ZHJBOG9HX1BkeERraFQ3aHlaeDJUQXdsMURDSDJIOVlEYklaY3NZbUswTkdYQ2tBUTVfSDBXbkh0cEdzZtIBngFBVV95cUxQNktPNXQzTEFYU3lHOHpmLUdudFdFZFdHbnZSU3V0WWt5R3hYS3AwQ2JwX01NRWxMMndmckFRVklHT2ZPMjFZVzBtWHgzRTNVdW9qQnVFdmh6NHBOMktCYmhwN1M1V1IwVFlmd0pKWEp2MTJOQmNwTmtkTExFbDNYYjFVVEtPaFhVU1htazhpcmNLTUtjZjRJbC02MVYzdw?oc=5)
+
+---
+
+### [Stronger Flu Shot Linked to Nearly 55% Lower Alzheimer’s Risk, Study Finds](https://news.google.com/rss/articles/CBMingFBVV95cUxQVG4wX09OcFBQNzdOQ3dpelRmVFFScjFrczQ1aTJwYnhkSzloZ1JlSTF1dC1NTzJReTZVcjhad0dyNWJGYWJacjh2c0ozRkxwRUp5dmEyWXZWVnFBS2Qxc3I1cFIwcjlZY3NSaHdvV2RER2tkVVR3NXQ1X1QyNkNWaDFucjBuRVhKNDJOUEJxVUY2UFZCMWljRGJ1dzRTUQ?oc=5)
+
+2026-04-08
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxQVG4wX09OcFBQNzdOQ3dpelRmVFFScjFrczQ1aTJwYnhkSzloZ1JlSTF1dC1NTzJReTZVcjhad0dyNWJGYWJacjh2c0ozRkxwRUp5dmEyWXZWVnFBS2Qxc3I1cFIwcjlZY3NSaHdvV2RER2tkVVR3NXQ1X1QyNkNWaDFucjBuRVhKNDJOUEJxVUY2UFZCMWljRGJ1dzRTUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/zolbetuximab/
 ---
 
 <p class="key-answer" data-question="Zolbetuximab 有什麼相關新聞？">
-<strong>Zolbetuximab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Zolbetuximab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/zolbetuximab/
 <p><a href="{{ '/drugs/zolbetuximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Tochter (3) stirbt fast an Diabetes: „Ich fühle mich bis heute schuldig“](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
+
+2026-04-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[Westfalenpost](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
+
+---
 
 ### [La vitamina C puede ayudar a reducir la presión arterial en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
 
@@ -65,22 +73,6 @@ permalink: /news/zolbetuximab/
 2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
-
----
-
-### [Durchbruch bei Diabetes-Forschung: Warum große Höhen vor einer Erkrankung schützen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
-
-2026-04-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Watson.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWM1NmZGM2V6T29YWVEzM1RHazVLOUVVSndlWlc1eFNIN3FDV3F6UVprejdkeXhkNlVURXNnVXlMY3E5VmFFYXNyRk1uS19uTFgzeXBKeGlPaGhPejlFcmxDQlpEbmxhX2V6ZzNRbm04UTI4eGhUVDh3cWxpWlZGdUhKNXItQUhoWEFzdWV5N3B2MFFyeWFXOHpIYW9BWlJPMkRBMy1rdThpalVQMFltSkV1a1lOelE?oc=5)
-
----
-
-### [Heuschnupfen und Diabetes: „Von dieser Behandlung raten wir extrem ab“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmp1Q0hMUzkwY0NMQS1tbjRrMHFxdFI0VksxVU5ta2x4ZlhnNmJhckZUY24yZnpzVjJjUERkQURDeWdDb3huMVo5MG1XRW5Ja3A2NnJ0VVM2NjNyVjFCYVJTSnQtV3F3dC1LS01oMFpXWFZrdWktdU1Ob3prZ2VQVmZYN1NLZkozRk5qR1VBMG5kQ2dYWmN1M19SNDM3Q0JSSnBJdUVCdUlmeFNWd2dGWXRyY0RqN3h0SXJ0dld3RlFDZHB6ekUwejBUUGlSUmdjeXZvMjZ0VENzUWpKSFA1TGFWbVYwT20tX3BfYmhSVUJYUQ?oc=5)
-
-2026-04-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmp1Q0hMUzkwY0NMQS1tbjRrMHFxdFI0VksxVU5ta2x4ZlhnNmJhckZUY24yZnpzVjJjUERkQURDeWdDb3huMVo5MG1XRW5Ja3A2NnJ0VVM2NjNyVjFCYVJTSnQtV3F3dC1LS01oMFpXWFZrdWktdU1Ob3prZ2VQVmZYN1NLZkozRk5qR1VBMG5kQ2dYWmN1M19SNDM3Q0JSSnBJdUVCdUlmeFNWd2dGWXRyY0RqN3h0SXJ0dld3RlFDZHB6ekUwejBUUGlSUmdjeXZvMjZ0VENzUWpKSFA1TGFWbVYwT20tX3BfYmhSVUJYUQ?oc=5)
 
 ---
 

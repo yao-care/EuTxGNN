@@ -44,11 +44,19 @@ permalink: /news/treprostinil-sodium/
 
 ## 相關新聞（3 則）
 
-### [Los dermatólogos alertan sobre los espráis nasales de bronceado: «Son un auténtico riesgo para la salud» - La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxOQTIwbUNwSWpHLWwxeFZPUjVKeUhVT0RwdGRzQzAzY05wZnJwQm5BWm5BeC1sRVNBYld0TFlZaDA0a0NzWl9XSTl4b2F4VklaSUVOOHZxOC1Sc0U4OFhCSDNXNFhna1ppeE5WbWVCcE90YUpIN08zY2VjYjFCaXIxTzZub1VlM2pvel9GR2NqN0hwd0JfYUlRbE1yb28xdUNlU3VuVGRseVFvSS1lRDcwS3AzM3BNMWowRTVwaGxhS3FlQmpVcWl4TUQ3YWl3R2ZpSVc3RV9XdTVzSFdGbU5nZThNMnpEYlg3bms0VTh0UmZzWk1ET2lkekhLU242a1dQcjRza0VweXZhZm1ZU2xn?oc=5)
+### [Alerta del riesgo de los sprays nasales de bronceado: son un peligro para la piel y causan cefalea o hipertensión](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
 
 2026-04-09 <span class="news-indication-tag">hipertensión</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxOQTIwbUNwSWpHLWwxeFZPUjVKeUhVT0RwdGRzQzAzY05wZnJwQm5BWm5BeC1sRVNBYld0TFlZaDA0a0NzWl9XSTl4b2F4VklaSUVOOHZxOC1Sc0U4OFhCSDNXNFhna1ppeE5WbWVCcE90YUpIN08zY2VjYjFCaXIxTzZub1VlM2pvel9GR2NqN0hwd0JfYUlRbE1yb28xdUNlU3VuVGRseVFvSS1lRDcwS3AzM3BNMWowRTVwaGxhS3FlQmpVcWl4TUQ3YWl3R2ZpSVc3RV9XdTVzSFdGbU5nZThNMnpEYlg3bms0VTh0UmZzWk1ET2lkekhLU242a1dQcjRza0VweXZhZm1ZU2xn?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
+
+---
+
+### [Ipertensione «resistente»: come trattarla con successo e cosa si profila all’orizzonte - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
+
+2026-04-09 <span class="news-indication-tag">ipertensione</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
 
 ---
 
@@ -57,14 +65,6 @@ permalink: /news/treprostinil-sodium/
 2026-04-08 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
-
----
-
-### [Ipertensione, il cortisolo può essere il motivo per cui la pressione non scende: i livelli da monitorare - il Giornale](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlRDYy1wbHBsWVE2Q0ZHMm51MjNyMUJrdFR4RzVfa2RJSy1ObnVCYm5ac1ZXMFpnWlE1NHhfbDZIQ2NZWHZmRHNwVmFCSzdxY0VVeE1PeU82M3djQk54QUE5Rjh1dnF5M1M3cHVLNjh4eWsyaGVIVWZMTGI0TUU4eFRhQ1JsS3Bqb01FOHphYjhxRTZoVE5qaml4bUpJVVpPMmpJQkQwT05GVFViVlZ4cVpGRUFIbTVJNklB?oc=5)
-
-2026-04-07 <span class="news-indication-tag">ipertensione</span>
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlRDYy1wbHBsWVE2Q0ZHMm51MjNyMUJrdFR4RzVfa2RJSy1ObnVCYm5ac1ZXMFpnWlE1NHhfbDZIQ2NZWHZmRHNwVmFCSzdxY0VVeE1PeU82M3djQk54QUE5Rjh1dnF5M1M3cHVLNjh4eWsyaGVIVWZMTGI0TUU4eFRhQ1JsS3Bqb01FOHphYjhxRTZoVE5qaml4bUpJVVpPMmpJQkQwT05GVFViVlZ4cVpGRUFIbTVJNklB?oc=5)
 
 ---
 

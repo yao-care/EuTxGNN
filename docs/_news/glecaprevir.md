@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Glecaprevir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [El retraso en el diagnóstico del síndrome de Cushing puede superar los tres años - Somos Pacientes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTJMd2RXOGhKcVBTNmlZYl8xR216OE5udzhvS3dTNXpEUnBwUjRFaW1ldllsSUhIZktYdG9mYWJpWkRDQWlJbk1KY1E2emFfNm5LNjFRUnhoUjEtbV9NNnA4bGtGdUNoU3U5TVZKX082cHhGX1hSSWd3Vms0SWRrclA2dXVHcFROQnlDSXNVUjBoM2ZibWhScnhCZk9jZzljbEVtWmtSR2JIMTFrS3VGbmJ3aFMwYS1lczdJM0RZTkYyZjJ3eUZHZy14LU1zbWhmaDd2Njhn?oc=5)
+### [“Estaba cansada, me decían que era estrés y tenía un tumor en la hipófisis”: el síndrome del exceso de cortisol que todavía se diagnostica tarde - La Vanguardia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbGVrM3VZYkJEVWEyQV9LMjc5WFNfeWV2T2pIRksta1F4TG5LbmNzeVVLVkswbnZZSFJNN0xOLWdzc1Z4S056UkJFV19tR2lWYVdILVlFeXpZMXhUTUlvT1FqX1pnZ3k0Mlgwckw3bjJ2WmZCd3FMb19DRHpSYzVMMUZqaHRMRVI1QUZhU3cwX3JPUTI0aThzSmlvb0RkTmJ2aVM3VTZFS0xuLWZnWnVqYjhzSHpwdFRRWUhEYjF2VjZmTTgySVBLRG1TSjVoa19Ic3ZWbTctM3dCdi1YTkR6Y3ZUZVdNQm1zMVdxcXFoZktNQThsb3ByUzF0RTnSAYICQVVfeXFMT3kxckhoY0ZSbEpmNGdTVWtaNnpONmFEV2ZkR29LNURCQ0VsVGpDM0FrQ25PRV80czNXS2FpSDlNM3AyMHpyQUNUelJDSFVNaUowNHdsdi1Yc0lacC00Z1VJVEVpNzBpYkEySHJBTkVmYmRPY3ZiUEhOS2VBTFFHam5HSVRuOGRvYVZvMEthR0xldll0WWdfVjVJN3Q0aGhyM3FRdzRmZDlGV3hVcnhONlkwWEF3el9fYUVsTUZfb0N6VWhhTXdqNDlwMk1pZklNMnZoSFg2cHlacU1UdXZMSmRQWndkM0hlN2hfOUVIQXdzMmJHMXZMV3Z2R2QxdE9iWnNR?oc=5)
 
-2026-04-08 <span class="news-indication-tag">MS</span>
+2026-04-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTJMd2RXOGhKcVBTNmlZYl8xR216OE5udzhvS3dTNXpEUnBwUjRFaW1ldllsSUhIZktYdG9mYWJpWkRDQWlJbk1KY1E2emFfNm5LNjFRUnhoUjEtbV9NNnA4bGtGdUNoU3U5TVZKX082cHhGX1hSSWd3Vms0SWRrclA2dXVHcFROQnlDSXNVUjBoM2ZibWhScnhCZk9jZzljbEVtWmtSR2JIMTFrS3VGbmJ3aFMwYS1lczdJM0RZTkYyZjJ3eUZHZy14LU1zbWhmaDd2Njhn?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbGVrM3VZYkJEVWEyQV9LMjc5WFNfeWV2T2pIRksta1F4TG5LbmNzeVVLVkswbnZZSFJNN0xOLWdzc1Z4S056UkJFV19tR2lWYVdILVlFeXpZMXhUTUlvT1FqX1pnZ3k0Mlgwckw3bjJ2WmZCd3FMb19DRHpSYzVMMUZqaHRMRVI1QUZhU3cwX3JPUTI0aThzSmlvb0RkTmJ2aVM3VTZFS0xuLWZnWnVqYjhzSHpwdFRRWUhEYjF2VjZmTTgySVBLRG1TSjVoa19Ic3ZWbTctM3dCdi1YTkR6Y3ZUZVdNQm1zMVdxcXFoZktNQThsb3ByUzF0RTnSAYICQVVfeXFMT3kxckhoY0ZSbEpmNGdTVWtaNnpONmFEV2ZkR29LNURCQ0VsVGpDM0FrQ25PRV80czNXS2FpSDlNM3AyMHpyQUNUelJDSFVNaUowNHdsdi1Yc0lacC00Z1VJVEVpNzBpYkEySHJBTkVmYmRPY3ZiUEhOS2VBTFFHam5HSVRuOGRvYVZvMEthR0xldll0WWdfVjVJN3Q0aGhyM3FRdzRmZDlGV3hVcnhONlkwWEF3el9fYUVsTUZfb0N6VWhhTXdqNDlwMk1pZklNMnZoSFg2cHlacU1UdXZMSmRQWndkM0hlN2hfOUVIQXdzMmJHMXZMV3Z2R2QxdE9iWnNR?oc=5)
 
 ---
 
@@ -89,22 +89,6 @@ permalink: /news/glecaprevir/
 2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
-
----
-
-### [Virus-Hepatitis: Heilung ist möglich - Blutuntersuchung kann Leben retten - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbTVrN1ZIYnlnWkdmRkZNMm9ac2hBMlNiMW5hU1F5UFB2eGpKUUUwTTdxOUtuWXNDclRfTWNrT24wZWNsaTlIODlKNUlaZWJ0Q0FUTmdiVl9NdFJHQzNJbVVYcFBMb280YlRmaE9GdWdvMVR4WWRxRlZCTVV0T0dsWG9HcWdia1ZRSjFTS0h5S3I5WHFPOFNrVlU4LXBLT3dNTEl4OS1tbERXRkNqOVdvVUFnUUlwbnFaNGJraXd0RS03dzAyWVd4NDJPQnRaNUhT?oc=5)
-
-2026-04-07 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbTVrN1ZIYnlnWkdmRkZNMm9ac2hBMlNiMW5hU1F5UFB2eGpKUUUwTTdxOUtuWXNDclRfTWNrT24wZWNsaTlIODlKNUlaZWJ0Q0FUTmdiVl9NdFJHQzNJbVVYcFBMb280YlRmaE9GdWdvMVR4WWRxRlZCTVV0T0dsWG9HcWdia1ZRSjFTS0h5S3I5WHFPOFNrVlU4LXBLT3dNTEl4OS1tbERXRkNqOVdvVUFnUUlwbnFaNGJraXd0RS03dzAyWVd4NDJPQnRaNUhT?oc=5)
-
----
-
-### [Treprostinil-Inhalat bremst Lungenfibrose - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
-
-2026-04-07 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
 
 ---
 

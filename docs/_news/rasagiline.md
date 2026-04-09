@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [HM CINAC se consolida como referencia internacional en el tratamiento e investigación de la enfermedad de Parkinson - HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
+### [‘We found out our two-year-old has childhood dementia by chance - it's horrific' - Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmJ2TERGeEItd0wxcl9iczdHbGZiaWZ1VnhUTzN3Q1VMaF9MSGNRcUF3X3dmMUpwczJid3JvUWdNT1BiZ2Q4dGN0TUNlLWN6UDZXUUs0VUg4bWZISktWeFpwQ0RQUHQ4UGZrV0ppZUlLd1B3TnZ1SlhZUUdRSmtzTEw1YmRONW9MUEhMMHdENGFHUF9uMDd1RloxSFl1RjNVLThQcHJTbThrSGxCcU9mMQ?oc=5)
 
-2026-04-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
+2026-04-09 <span class="news-indication-tag">dementia</span>
 
-來源：[HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
+來源：[Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmJ2TERGeEItd0wxcl9iczdHbGZiaWZ1VnhUTzN3Q1VMaF9MSGNRcUF3X3dmMUpwczJid3JvUWdNT1BiZ2Q4dGN0TUNlLWN6UDZXUUs0VUg4bWZISktWeFpwQ0RQUHQ4UGZrV0ppZUlLd1B3TnZ1SlhZUUdRSmtzTEw1YmRONW9MUEhMMHdENGFHUF9uMDd1RloxSFl1RjNVLThQcHJTbThrSGxCcU9mMQ?oc=5)
 
 ---
 
@@ -57,6 +57,22 @@ permalink: /news/rasagiline/
 2026-04-09 <span class="news-indication-tag">dementia</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEtMZlVnU0Flclo1STBmcUdUVTE5bjBsRlo0dGEzOHA4NS1MN2dmeUZpeEdfU19weE1xRERDVGdQQWRVWWxVaHMwb1loYWdWUDl5d25FQjZNVk54ZHJBOG9HX1BkeERraFQ3aHlaeDJUQXdsMURDSDJIOVlEYklaY3NZbUswTkdYQ2tBUTVfSDBXbkh0cEdzZtIBngFBVV95cUxQNktPNXQzTEFYU3lHOHpmLUdudFdFZFdHbnZSU3V0WWt5R3hYS3AwQ2JwX01NRWxMMndmckFRVklHT2ZPMjFZVzBtWHgzRTNVdW9qQnVFdmh6NHBOMktCYmhwN1M1V1IwVFlmd0pKWEp2MTJOQmNwTmtkTExFbDNYYjFVVEtPaFhVU1htazhpcmNLTUtjZjRJbC02MVYzdw?oc=5)
+
+---
+
+### [Stronger Flu Shot Linked to Nearly 55% Lower Alzheimer’s Risk, Study Finds](https://news.google.com/rss/articles/CBMingFBVV95cUxQVG4wX09OcFBQNzdOQ3dpelRmVFFScjFrczQ1aTJwYnhkSzloZ1JlSTF1dC1NTzJReTZVcjhad0dyNWJGYWJacjh2c0ozRkxwRUp5dmEyWXZWVnFBS2Qxc3I1cFIwcjlZY3NSaHdvV2RER2tkVVR3NXQ1X1QyNkNWaDFucjBuRVhKNDJOUEJxVUY2UFZCMWljRGJ1dzRTUQ?oc=5)
+
+2026-04-08 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxQVG4wX09OcFBQNzdOQ3dpelRmVFFScjFrczQ1aTJwYnhkSzloZ1JlSTF1dC1NTzJReTZVcjhad0dyNWJGYWJacjh2c0ozRkxwRUp5dmEyWXZWVnFBS2Qxc3I1cFIwcjlZY3NSaHdvV2RER2tkVVR3NXQ1X1QyNkNWaDFucjBuRVhKNDJOUEJxVUY2UFZCMWljRGJ1dzRTUQ?oc=5)
+
+---
+
+### [Oftalmólogos piden prestar atención a las alteraciones visuales en las fases iniciales de la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFp2REI2MGJIOTNBX1VIbFNSQkZ2cVhjRWVxYjNFSFk2WW9qWnVlZWhQaWQ0RW4xWHVDdDZBRXNOQVh4N3RWTWtlT1F3aE1ybEtpUnQwVUFQQkZPUHVUQ3lIV2pFVEtaY0xuQUlrNzNTaDFqaVNIeHB3dkU2dVNiOXVCSE1QcUlGMW1oajRiMGRsZDRFVUtNNUpSOXRvRHBjaWFNMDFwam1veHNiTTJiZlp4RHZfOUdmVHA5alBRbEk?oc=5)
+
+2026-04-08 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFp2REI2MGJIOTNBX1VIbFNSQkZ2cVhjRWVxYjNFSFk2WW9qWnVlZWhQaWQ0RW4xWHVDdDZBRXNOQVh4N3RWTWtlT1F3aE1ybEtpUnQwVUFQQkZPUHVUQ3lIV2pFVEtaY0xuQUlrNzNTaDFqaVNIeHB3dkU2dVNiOXVCSE1QcUlGMW1oajRiMGRsZDRFVUtNNUpSOXRvRHBjaWFNMDFwam1veHNiTTJiZlp4RHZfOUdmVHA5alBRbEk?oc=5)
 
 ---
 

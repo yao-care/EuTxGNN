@@ -14,7 +14,7 @@ permalink: /news/silodosin/
 ---
 
 <p class="key-answer" data-question="Silodosin 有什麼相關新聞？">
-<strong>Silodosin</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Silodosin</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,45 @@ permalink: /news/silodosin/
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（29 則）
 
-### [Un estudio médico desvela que la gran mayoría de los pacientes de Parkinson sufren problemas con la vista que](https://news.google.com/rss/articles/CBMipAJBVV95cUxOVVYxWmFFdlZWLTJsOEdaWUNRZk5LaHVqSHVEbEpBRFNGMHNSRXJtbXZLZVdZZjBzRmFmai1CQVdUcS0wWE1PVmFWRW1RSjg5TjI5Zk9FLVZ5WlRjSkR1RVpsQm1Bd25HRDBrY3dDZmZzbUFrUHBnaE1VQUwwYWVVUVMxMC1TODdIZFdpTzExX1dFNVByNmstckZXTkVYVmlGT0pCdU90S1o2aEhWbTNWZzhFYTVMVFRveUZyMjN6Yy1VcklEWkY5WlFHZWtNeDkya3ZRUDR2U1Vxc195TE1hSlpjRmJXS0ZOUHpJbmJDSWlqM2w4VGxxZlp2d2dsRGw3ODRkNHhvY2tEWlpuOGpFM1JZLXNaS3RGeDJFdERmWUFVR2NP0gGkAkFVX3lxTE8xelRjWHAxZm53bldMWjduWE0wWTl1aFI1ejZRRmpVWllWZWtNUm0xVjFRR1NMRjZjRGpsb1MyNm94LUU2VEFTWnp0QXV6TEE3MDdXdGdSb0ttUm5MbHJOVWtEUmpOTW9RemNnNnVIbjBuYTByWG9ZNDhKeXZ1d1Y5YnFVemhVaW01UnZ6MTRfbWIwby1LWjZLQ3pTZmVXNUwzWVg2NWVmZGJhM0htSzdmWWNTNDd1bXVqSlJ0dUtjMDJsVnFuNWV6aF9qaDlQNnF5UkpuSkdjVVdjdkY3ZDVjQ0hlcS00NVkyY19lWV8wMkZpckV4RW5iRHNaTHRoekotM0RValJwUzd5aGQ4RldhUzNtMDFqUDhodUVSSWdQZ2xMUlA?oc=5)
+### [Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
 
-2026-04-09 <span class="news-indication-tag">AF</span>
+2026-04-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[LaSexta](https://news.google.com/rss/articles/CBMipAJBVV95cUxOVVYxWmFFdlZWLTJsOEdaWUNRZk5LaHVqSHVEbEpBRFNGMHNSRXJtbXZLZVdZZjBzRmFmai1CQVdUcS0wWE1PVmFWRW1RSjg5TjI5Zk9FLVZ5WlRjSkR1RVpsQm1Bd25HRDBrY3dDZmZzbUFrUHBnaE1VQUwwYWVVUVMxMC1TODdIZFdpTzExX1dFNVByNmstckZXTkVYVmlGT0pCdU90S1o2aEhWbTNWZzhFYTVMVFRveUZyMjN6Yy1VcklEWkY5WlFHZWtNeDkya3ZRUDR2U1Vxc195TE1hSlpjRmJXS0ZOUHpJbmJDSWlqM2w4VGxxZlp2d2dsRGw3ODRkNHhvY2tEWlpuOGpFM1JZLXNaS3RGeDJFdERmWUFVR2NP0gGkAkFVX3lxTE8xelRjWHAxZm53bldMWjduWE0wWTl1aFI1ejZRRmpVWllWZWtNUm0xVjFRR1NMRjZjRGpsb1MyNm94LUU2VEFTWnp0QXV6TEE3MDdXdGdSb0ttUm5MbHJOVWtEUmpOTW9RemNnNnVIbjBuYTByWG9ZNDhKeXZ1d1Y5YnFVemhVaW01UnZ6MTRfbWIwby1LWjZLQ3pTZmVXNUwzWVg2NWVmZGJhM0htSzdmWWNTNDd1bXVqSlJ0dUtjMDJsVnFuNWV6aF9qaDlQNnF5UkpuSkdjVVdjdkY3ZDVjQ0hlcS00NVkyY19lWV8wMkZpckV4RW5iRHNaTHRoekotM0RValJwUzd5aGQ4RldhUzNtMDFqUDhodUVSSWdQZ2xMUlA?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
 
 ---
 
-### [Die Rolle der BET-Proteine bei der Genaktivierung - Max-Planck-Gesellschaft zur Förderung der Wissenschaften](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFdqWVh6UUFHcHNLOWlsMWdla2NNYTMwX0NFN3JnZW4tQmJsdU9ERl90SHY2Sy1hQm1FQ01tbkdlSzZVc0pHaWJvNTFZMEc4akpqdWg1RVlDUzN0Mmx1TkV4LVVXYmxIN1pJemFkWktlVHhvdWtuTDV6YnVIaWNoM3E0MA?oc=5)
+### [“Cicada”: así se comporta la nueva subvariante del Covid que está bajo vigilancia - Diario Libre](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3p6SjQ0bjNVQjd6N2tvS1RJeEUzZXFzaWRiMkFFenJ6eXN5N3hlVDQxMEF2MWJ6ZDhSTDVOWUhMSFZjaWI0ektPSU1TN2JhOVV6OE1OQl9hQUpDX0xaMlZ1a3V6ZzFnQ0dRY0M5Snh0WkhZX3ZoOGI0czZNaE9qY0lnMkd2eUJfb2tzV3d0UmFKejNheGpCZFBpN0hKaWExclhPbUZaaEpaWERzLTMyNUlURFpCN3NN0gG-AUFVX3lxTFBHOFVKX09lUEJKRGJwYm92ZUMxNEFlay1jV0ZFR0dQTlFtU3BDVktiZDBZbnh2R3RMT211cGE0VktSMUxBdW9rMU5vX1dmM00xVklodXZuNjFrZkJZemlqcFRLOTc1bWMwVWhxMW1CTkpVd09qWk5zalVWM3JXYXJSNVE1VlRpS1FJSDRFQmkzRVJXZGF6aDBPTGI5bTZ6cTVhaTlVd3pSSHpHM1ZIVDdPY3J1dkhnb3Bod2EwRHc?oc=5)
 
 2026-04-09 <span class="news-indication-tag">AF</span>
 
-來源：[Max-Planck-Gesellschaft zur Förderung der Wissenschaften](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFdqWVh6UUFHcHNLOWlsMWdla2NNYTMwX0NFN3JnZW4tQmJsdU9ERl90SHY2Sy1hQm1FQ01tbkdlSzZVc0pHaWJvNTFZMEc4akpqdWg1RVlDUzN0Mmx1TkV4LVVXYmxIN1pJemFkWktlVHhvdWtuTDV6YnVIaWNoM3E0MA?oc=5)
+來源：[Diario Libre](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3p6SjQ0bjNVQjd6N2tvS1RJeEUzZXFzaWRiMkFFenJ6eXN5N3hlVDQxMEF2MWJ6ZDhSTDVOWUhMSFZjaWI0ektPSU1TN2JhOVV6OE1OQl9hQUpDX0xaMlZ1a3V6ZzFnQ0dRY0M5Snh0WkhZX3ZoOGI0czZNaE9qY0lnMkd2eUJfb2tzV3d0UmFKejNheGpCZFBpN0hKaWExclhPbUZaaEpaWERzLTMyNUlURFpCN3NN0gG-AUFVX3lxTFBHOFVKX09lUEJKRGJwYm92ZUMxNEFlay1jV0ZFR0dQTlFtU3BDVktiZDBZbnh2R3RMT211cGE0VktSMUxBdW9rMU5vX1dmM00xVklodXZuNjFrZkJZemlqcFRLOTc1bWMwVWhxMW1CTkpVd09qWk5zalVWM3JXYXJSNVE1VlRpS1FJSDRFQmkzRVJXZGF6aDBPTGI5bTZ6cTVhaTlVd3pSSHpHM1ZIVDdPY3J1dkhnb3Bod2EwRHc?oc=5)
+
+---
+
+### [Haferkur: Neue Leitlinien bestätigen Wirkung gegen hohes Cholesterin - AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmZKUHJiWnlsMnp6V0pHSkVuemVvUlZTTnhaWXJJQkN1Y0MweWEwWEJ6Zkg0eUozZllvbFB5QmhJNnp3ZjF1S3BleXJQQ0tsQ1VIbnRZTVJpNVhkcHhaaWNoQkVIZEY3S1B5MG51WmxLM1hvZ3JJMUJYenVWbE96ZVRjZjFBV0hkeUwzWjF3Tl9aWWpVVExybk5mUk5lV2hYQmhrX3RFdXNUUnp6T1F2c0hnYUFQcWt0MG9zMlJacXltNURuS2c?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmZKUHJiWnlsMnp6V0pHSkVuemVvUlZTTnhaWXJJQkN1Y0MweWEwWEJ6Zkg0eUozZllvbFB5QmhJNnp3ZjF1S3BleXJQQ0tsQ1VIbnRZTVJpNVhkcHhaaWNoQkVIZEY3S1B5MG51WmxLM1hvZ3JJMUJYenVWbE96ZVRjZjFBV0hkeUwzWjF3Tl9aWWpVVExybk5mUk5lV2hYQmhrX3RFdXNUUnp6T1F2c0hnYUFQcWt0MG9zMlJacXltNURuS2c?oc=5)
+
+---
+
+### [Lentes de contacto inteligentes sin batería: monitorizan la presión ocular y liberan fármacos para el glaucoma](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR2o0Umx2UDNadEZKaWl0b1NyZHRHN1kzQUNRR01yYm1rZ2lQVmxhYmJSeFQzTHFaNm5LZzhQYUw0a3V1NlliZE1XajhFM0l1RzlnNzdmbEZxb3huS0NzYTQ2MF9aajBqZXBmX3Y5MkJTU3JKNmpXaExwSmtFMnFVeE9yX2JwOGtfa1hpdndLb2FqMXN6MW5FRFNSeUlxMFdWN1BKLUJ1MzFZYzhTeXRjTHdJTUx2aTEyY20zVU1KQkxnLXkyQ2V0VU51SlNaSlFqVlQ5Z0pDY1RkNHE0T3pNMmJsMHpIS3c?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR2o0Umx2UDNadEZKaWl0b1NyZHRHN1kzQUNRR01yYm1rZ2lQVmxhYmJSeFQzTHFaNm5LZzhQYUw0a3V1NlliZE1XajhFM0l1RzlnNzdmbEZxb3huS0NzYTQ2MF9aajBqZXBmX3Y5MkJTU3JKNmpXaExwSmtFMnFVeE9yX2JwOGtfa1hpdndLb2FqMXN6MW5FRFNSeUlxMFdWN1BKLUJ1MzFZYzhTeXRjTHdJTUx2aTEyY20zVU1KQkxnLXkyQ2V0VU51SlNaSlFqVlQ5Z0pDY1RkNHE0T3pNMmJsMHpIS3c?oc=5)
+
+---
+
+### [Quanto caffè fa bene alla mente? Uno studio ha trovato la dose ottimale - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFOeEVpZ09DUGxzTXV6blVVWFk4d3VHblZ1SGpSTllnTTZHMkRJYWYzWTk4cFdIWm9rY3ZYak9TWTVLRkRoNEJkdzIzSnk2TnV5ZjhJQXNOMFoxZzUzQ1VQSjh2bnh1a3F6LS1iQkFzSGZUR3FoT0ZzRE1Wejc1SGxsdkJwVGhaOVg1Y3RCa0J3TnRWRnlYeTFjb2Rad0ZINmJqNkdCMUN0ajlKOXJQSGZYZGNsSkpnU0hJUEpnY1c5MlnSAcgBQVVfeXFMT3g3bVZvaDF2QWtnRzJfVmQwQlZGOFoya2hTX2ZaQks4M3NpakJpOWxIX2VYNkpmS1pwaGc5dG9mRTJCZVVEcVE0QlRibWVrLUkzN2p4Snd0MktvUmZMVVVmeHZSenNOV2JJTW9JWFNoT2pJdUd5cUJfNnI3LUZ5UTFCU2hfNTNFNjBucS1QckRqOE1aY2ExRDB4b2Z1MGJRSWtYb0hxeUtoai00VTJKYk9kRUtMbGRvZmNDUmxuVEM4dVpkVmhWOEQ?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFOeEVpZ09DUGxzTXV6blVVWFk4d3VHblZ1SGpSTllnTTZHMkRJYWYzWTk4cFdIWm9rY3ZYak9TWTVLRkRoNEJkdzIzSnk2TnV5ZjhJQXNOMFoxZzUzQ1VQSjh2bnh1a3F6LS1iQkFzSGZUR3FoT0ZzRE1Wejc1SGxsdkJwVGhaOVg1Y3RCa0J3TnRWRnlYeTFjb2Rad0ZINmJqNkdCMUN0ajlKOXJQSGZYZGNsSkpnU0hJUEpnY1c5MlnSAcgBQVVfeXFMT3g3bVZvaDF2QWtnRzJfVmQwQlZGOFoya2hTX2ZaQks4M3NpakJpOWxIX2VYNkpmS1pwaGc5dG9mRTJCZVVEcVE0QlRibWVrLUkzN2p4Snd0MktvUmZMVVVmeHZSenNOV2JJTW9JWFNoT2pJdUd5cUJfNnI3LUZ5UTFCU2hfNTNFNjBucS1QckRqOE1aY2ExRDB4b2Z1MGJRSWtYb0hxeUtoai00VTJKYk9kRUtMbGRvZmNDUmxuVEM4dVpkVmhWOEQ?oc=5)
 
 ---
 
@@ -76,6 +100,14 @@ permalink: /news/silodosin/
 
 ---
 
+### ['Watching my mum die from lung disease made me quit smoking'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LSHRXUWhKY2xFbmNxYjNpNm9ySzJMS1NDTm9YVWVyU2NkS1p1WE5PVklvQkxzeHl0TzY1YUlMWV9WQ3VZN3FUSWlBRVpTNjRGN21CZlVOY3pmcVc2?oc=5)
+
+2026-04-09 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LSHRXUWhKY2xFbmNxYjNpNm9ySzJMS1NDTm9YVWVyU2NkS1p1WE5PVklvQkxzeHl0TzY1YUlMWV9WQ3VZN3FUSWlBRVpTNjRGN21CZlVOY3pmcVc2?oc=5)
+
+---
+
 ### [Müde am Morgen? Vier Tipps für einen besseren Schlafrhythmus](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTld0OUZJYzdKQWZVelhFbXo4LU1QUlNwVWtWNFlrUG1XMFhLYUFpQk9semh2T3BUWkpHSlgyVnJ6ZVZZN2xZQjBzLUptN3VFTXpIdWt5VnV3TGlCSnpnUGZOS195NU9sRGwtNzlEaGFrclk1S2Zwa3lQZENkaXR3VFRWRkdwWUJYUzJaZ3c2Ujl4cWd2Ti05WGNRYi1mS2hqalE?oc=5)
 
 2026-04-09 <span class="news-indication-tag">AF</span>
@@ -92,6 +124,30 @@ permalink: /news/silodosin/
 
 ---
 
+### [Funding is vital to end the scourge of polio | Letter - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXltSjZtT0FnS0xhRWhxdXg0bUFCb1NLNWdIZXBCdktOM3ZWTmlTSHJoRThWVV9yVU5XQ1I1SGV4NDBwOFltdU5USW5sajJYMVJOLW9VbmkxaUhZZlM5ajM2aHpoZkJXa1E3LUJybG5xYzZfMVNBazdTT3pmeEpmd19aYjh2RUd1U3VDVHJ0bVgxdDVIVW1N?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXltSjZtT0FnS0xhRWhxdXg0bUFCb1NLNWdIZXBCdktOM3ZWTmlTSHJoRThWVV9yVU5XQ1I1SGV4NDBwOFltdU5USW5sajJYMVJOLW9VbmkxaUhZZlM5ajM2aHpoZkJXa1E3LUJybG5xYzZfMVNBazdTT3pmeEpmd19aYjh2RUd1U3VDVHJ0bVgxdDVIVW1N?oc=5)
+
+---
+
+### [Oftalmólogos piden prestar atención a las alteraciones visuales en las fases iniciales de la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFp2REI2MGJIOTNBX1VIbFNSQkZ2cVhjRWVxYjNFSFk2WW9qWnVlZWhQaWQ0RW4xWHVDdDZBRXNOQVh4N3RWTWtlT1F3aE1ybEtpUnQwVUFQQkZPUHVUQ3lIV2pFVEtaY0xuQUlrNzNTaDFqaVNIeHB3dkU2dVNiOXVCSE1QcUlGMW1oajRiMGRsZDRFVUtNNUpSOXRvRHBjaWFNMDFwam1veHNiTTJiZlp4RHZfOUdmVHA5alBRbEk?oc=5)
+
+2026-04-08 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFp2REI2MGJIOTNBX1VIbFNSQkZ2cVhjRWVxYjNFSFk2WW9qWnVlZWhQaWQ0RW4xWHVDdDZBRXNOQVh4N3RWTWtlT1F3aE1ybEtpUnQwVUFQQkZPUHVUQ3lIV2pFVEtaY0xuQUlrNzNTaDFqaVNIeHB3dkU2dVNiOXVCSE1QcUlGMW1oajRiMGRsZDRFVUtNNUpSOXRvRHBjaWFNMDFwam1veHNiTTJiZlp4RHZfOUdmVHA5alBRbEk?oc=5)
+
+---
+
+### [Ejercicio de fuerza y alimentación saludable son pilares para prevenir la sarcopenia - AIM Digital](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeVY5bDlQU0hGTS1WeS1yNTRpb2ZlN04xSlN6blJyMlZZTFFFNlZuSFotLW5reVIwTGMzQmFscmZmT1dGdTJvZXFsdWJsb0xqeDFfbFV4dGtHLTVmODduX0hicXhpdUEzOUtudlNxajJiWEwwaUowNElGT0ppTXZ5SzQtYzJzMmZKdWpQbDFpOTlmWnJIZVRVMVFmWENGdnJWd3piMENQQ1Z4U0N1ekExVVhFMDBzcG5QUnhaSE53YnZpWkNheFhFWUh0QmpKTnRX?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[AIM Digital](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeVY5bDlQU0hGTS1WeS1yNTRpb2ZlN04xSlN6blJyMlZZTFFFNlZuSFotLW5reVIwTGMzQmFscmZmT1dGdTJvZXFsdWJsb0xqeDFfbFV4dGtHLTVmODduX0hicXhpdUEzOUtudlNxajJiWEwwaUowNElGT0ppTXZ5SzQtYzJzMmZKdWpQbDFpOTlmWnJIZVRVMVFmWENGdnJWd3piMENQQ1Z4U0N1ekExVVhFMDBzcG5QUnhaSE53YnZpWkNheFhFWUh0QmpKTnRX?oc=5)
+
+---
+
 ### [Woman shares before and after of going 30 days without drinking alcohol](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
@@ -100,11 +156,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Alexandre Olmos, médico: "Si quieres activar genes de longevidad, empieza por aquí" - El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLTZMaVhiejJ3aXpQSWpDYi04dl9rQURlM21UcFh0TDVXaDZQX1VHUXgyTHlsdFlsZ3E4MWVVaTBpWWpVNjFpc0RuVDBHaUVzR3lZQXpOWGNoRFo5Y1JWWG5QaWozdTVxR3pCazVQWnB4WXJzbWFYV2tEd0FadmJkR2RKMHhFRUZDMWF4UUxnVUhZMV9MZlJHQnhrRjA1RUhwQVVNVzZYbjFfVFB4UG9wanBITTM3WktvdGVadUxiam5mQklQRzJTcWo0WnEzWlNEeWdWRHJtZFdEZw?oc=5)
+### [Bestimmte Darmbakterienarten modulieren die Muskelkraft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMEZYbU5XQXVnQVBrYlRsZEliU3hMNUlyLUVPdHdfYVQtU09HdXpFNHFpMGZTcmNlOHR6bjlDUUtxRmk4M3hBRnRZSElCVWNzb0pubUNpTWhSVHJUXzZLWnhGMTRkYS12cGJJWWJDdGlqYUNBcWEwODVKTzBRa21FYjVabjd2X1p2RENVUXltckZIZ3E1NVVYMXc0WHoxTm5OMUNLM2QtY1RTTFQyTVVLdG42U21JYVh1cHJaS2tkXzJfQQ?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLTZMaVhiejJ3aXpQSWpDYi04dl9rQURlM21UcFh0TDVXaDZQX1VHUXgyTHlsdFlsZ3E4MWVVaTBpWWpVNjFpc0RuVDBHaUVzR3lZQXpOWGNoRFo5Y1JWWG5QaWozdTVxR3pCazVQWnB4WXJzbWFYV2tEd0FadmJkR2RKMHhFRUZDMWF4UUxnVUhZMV9MZlJHQnhrRjA1RUhwQVVNVzZYbjFfVFB4UG9wanBITTM3WktvdGVadUxiam5mQklQRzJTcWo0WnEzWlNEeWdWRHJtZFdEZw?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMEZYbU5XQXVnQVBrYlRsZEliU3hMNUlyLUVPdHdfYVQtU09HdXpFNHFpMGZTcmNlOHR6bjlDUUtxRmk4M3hBRnRZSElCVWNzb0pubUNpTWhSVHJUXzZLWnhGMTRkYS12cGJJWWJDdGlqYUNBcWEwODVKTzBRa21FYjVabjd2X1p2RENVUXltckZIZ3E1NVVYMXc0WHoxTm5OMUNLM2QtY1RTTFQyTVVLdG42U21JYVh1cHJaS2tkXzJfQQ?oc=5)
 
 ---
 
@@ -148,19 +204,19 @@ permalink: /news/silodosin/
 
 ---
 
+### [Qué reveló el estudio más grande sobre el hígado y las consecuencias silenciosas de los malos hábitos - La Tercera](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzFrT0gxMG45SWYzdjE5LVFFTDB4UW5Dbno3ZEJ6dV9DMXR5OHRXZEo1elRmOHZ1ZjR6a3h0QTdwWEl5UEtyZkFQY1NaN0xTX2QtUEVOTE9QNkZPRFQ4RXlTeGIxTjlraG1SODVjT2VwbUlfWnRIUzQ2VlZDa0RELVROR3RVZmpLWlBRMTExeVFyS0RCbm9kUlpaeEJIM2R2bmk2WHlIaGNtR1JaUlRVTzZTelpqNWMtQVNKTVlReHo2MWRYYmpjR3F2NFAweVR3ekNpZ1MwVHJSZ1BzSW1iN9IBggJBVV95cUxNRWMwekJrUmRWTzNLTTdtNHZna1hBb3c0RWtxUlo1aERUVGMxVEVHQkNmN3kyWWR6SlktdnZ3dEcxOVhtekVxQVJRZGdKQkRMTVY1MUJDSjE5cVoxTzNkMVFGVmZCSFBjSDJqOFJzV2J6MVFVVC1qc29jMlFUTWp3UHJVRzRhaHNHUXhGaHRXTllwSXFPVmlUVlg3aElqaGs5VG4yazRJT3gzc2ljTE01VVd1TkM0M042QXNIX2cyb2RfZl93aVZrZktidEp5V3dVWTZZZXdid1ZjQTkzUDNjY0xSNk0tZVAzYjQ3MkdfXzQ1bDdjOVUyTVhiYVo2dkdTd3c?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[La Tercera](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzFrT0gxMG45SWYzdjE5LVFFTDB4UW5Dbno3ZEJ6dV9DMXR5OHRXZEo1elRmOHZ1ZjR6a3h0QTdwWEl5UEtyZkFQY1NaN0xTX2QtUEVOTE9QNkZPRFQ4RXlTeGIxTjlraG1SODVjT2VwbUlfWnRIUzQ2VlZDa0RELVROR3RVZmpLWlBRMTExeVFyS0RCbm9kUlpaeEJIM2R2bmk2WHlIaGNtR1JaUlRVTzZTelpqNWMtQVNKTVlReHo2MWRYYmpjR3F2NFAweVR3ekNpZ1MwVHJSZ1BzSW1iN9IBggJBVV95cUxNRWMwekJrUmRWTzNLTTdtNHZna1hBb3c0RWtxUlo1aERUVGMxVEVHQkNmN3kyWWR6SlktdnZ3dEcxOVhtekVxQVJRZGdKQkRMTVY1MUJDSjE5cVoxTzNkMVFGVmZCSFBjSDJqOFJzV2J6MVFVVC1qc29jMlFUTWp3UHJVRzRhaHNHUXhGaHRXTllwSXFPVmlUVlg3aElqaGs5VG4yazRJT3gzc2ljTE01VVd1TkM0M042QXNIX2cyb2RfZl93aVZrZktidEp5V3dVWTZZZXdid1ZjQTkzUDNjY0xSNk0tZVAzYjQ3MkdfXzQ1bDdjOVUyTVhiYVo2dkdTd3c?oc=5)
+
+---
+
 ### [After waiting four years for surgery on the NHS, I worry I’ll never become a mother - The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0lkZ2VMTG1zZElvWTgyeHlULTh4bS1TRmNtTE5neGRkQ1VQMUZ5b1pfN05xOGUwbXp4WEliT1BvNFlFaG42WU5fX0YwXy1GZTRwMm9aV1hMNGVPSkppTDZodFBRN1prdjNFTlFWRDRMWGc2N2hSa0hxbW0wZGFyOHJnbkZkd3d0aVRXQ0xTTC0ydXNqZzY3dw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0lkZ2VMTG1zZElvWTgyeHlULTh4bS1TRmNtTE5neGRkQ1VQMUZ5b1pfN05xOGUwbXp4WEliT1BvNFlFaG42WU5fX0YwXy1GZTRwMm9aV1hMNGVPSkppTDZodFBRN1prdjNFTlFWRDRMWGc2N2hSa0hxbW0wZGFyOHJnbkZkd3d0aVRXQ0xTTC0ydXNqZzY3dw?oc=5)
-
----
-
-### [Il caffè protegge il cervello: fino a tre tazze al giorno riducono il rischio di demenza](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkt4eE96Vk5QcGFtbVRXVjdmRVRrdlE5cGJNZlRfYVFZc1lzUzZ5aDB0VEpfRHRnQ2ZRWHlRWTIyUnRsajFONW1NS21wNjBXTHBGSGdaNk92bDdfWEE4VmRSTnFHdk9BOWNVUnNMc1VQSFpWMWlrT2gwcEJ5MG1UeHNfQUFwallKODczaXVnSVBWYU5jX3J3SEJ0M0dNZ1BtWmRKZTV5TUJvUdIBaEFVX3lxTE5seTh4WFhVMlBUTWlfUlp4Wkc3Z1AwdEVaM0dKcGJMUHZMU2tOYXYtNjhTeThnbGlrSTItQ09WU1AyUDd2Wl9VWnNBREVJNlFQcFVJZWl0MWJFMnJ0ZEFYNmRxWWo2Qjkt?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkt4eE96Vk5QcGFtbVRXVjdmRVRrdlE5cGJNZlRfYVFZc1lzUzZ5aDB0VEpfRHRnQ2ZRWHlRWTIyUnRsajFONW1NS21wNjBXTHBGSGdaNk92bDdfWEE4VmRSTnFHdk9BOWNVUnNMc1VQSFpWMWlrT2gwcEJ5MG1UeHNfQUFwallKODczaXVnSVBWYU5jX3J3SEJ0M0dNZ1BtWmRKZTV5TUJvUdIBaEFVX3lxTE5seTh4WFhVMlBUTWlfUlp4Wkc3Z1AwdEVaM0dKcGJMUHZMU2tOYXYtNjhTeThnbGlrSTItQ09WU1AyUDd2Wl9VWnNBREVJNlFQcFVJZWl0MWJFMnJ0ZEFYNmRxWWo2Qjkt?oc=5)
 
 ---
 
@@ -196,27 +252,19 @@ permalink: /news/silodosin/
 
 ---
 
-### [Bristol man dies weeks after holiday as widow praises hospice](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
+### [Tim Spector: Four ways to reduce your bowel cancer risk - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxORHNCMnNTZ3ZRRFdRZXdaZXRpZjhwU2l0alVYSGRpTGZyd2lWMWp1WElFNXQ5Q2JzZEdLbzlQcW0weEx6MFd1QlJEaXVKTXFpN0RMd09PVE0tT3Izd0JOWjdROWRpZEZSM1MxNFhqU0x6Yk9UdUFQX3BlSWRnWWhhMlVmNThtbUk4cHJZZXVZT2xhVFdnZkN0Z1ZRWUVNem8?oc=5)
 
-2026-04-08 <span class="news-indication-tag">AF</span>
+2026-04-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
-
----
-
-### [Sarcopenia: cómo prevenirla y revertirla con alimentación saludable y ejercicio - 65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxORHNCMnNTZ3ZRRFdRZXdaZXRpZjhwU2l0alVYSGRpTGZyd2lWMWp1WElFNXQ5Q2JzZEdLbzlQcW0weEx6MFd1QlJEaXVKTXFpN0RMd09PVE0tT3Izd0JOWjdROWRpZEZSM1MxNFhqU0x6Yk9UdUFQX3BlSWRnWWhhMlVmNThtbUk4cHJZZXVZT2xhVFdnZkN0Z1ZRWUVNem8?oc=5)
 
 ---
 
-### [Organ donor's skin patch helped patient discover new lung was being rejected - Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUhmb1pCeXhRUFBBQm1ISkJreV9GNEFyMUhjWjZRalpvczhuVDBHUERzc0FYTFl2eWFjZzFBMGNNTmRPcWdDX2duMDZ0ZWpnX3pjQjdTVGhWd2VGaHVFZmNFZWotRFFsVmJTdDJjTHoxWFpmODdpdWZaLWVzbVVQOFdsU0VMX0t0eVZlam9WcE5Yb255aXA2RHgybjBvbHJJamJneFZTMEExZXZYMlh3eA?oc=5)
+### [Skin patch from donor helped patient spot transplant rejection](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tWW85TTFSWEJod2tCVTZRdE9XNWluSzZxWVUtNHQ5VzAyU09XMmV0MzFPcHllSkZycEtRczFOZ1NrZ2dHMFRaQjRnb1dmWHJrdkFwTzBJWmE2OTE4?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUhmb1pCeXhRUFBBQm1ISkJreV9GNEFyMUhjWjZRalpvczhuVDBHUERzc0FYTFl2eWFjZzFBMGNNTmRPcWdDX2duMDZ0ZWpnX3pjQjdTVGhWd2VGaHVFZmNFZWotRFFsVmJTdDJjTHoxWFpmODdpdWZaLWVzbVVQOFdsU0VMX0t0eVZlam9WcE5Yb255aXA2RHgybjBvbHJJamJneFZTMEExZXZYMlh3eA?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tWW85TTFSWEJod2tCVTZRdE9XNWluSzZxWVUtNHQ5VzAyU09XMmV0MzFPcHllSkZycEtRczFOZ1NrZ2dHMFRaQjRnb1dmWHJrdkFwTzBJWmE2OTE4?oc=5)
 
 ---
 
@@ -225,30 +273,6 @@ permalink: /news/silodosin/
 2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
-
----
-
-### [Neue Immuntherapien: Wegweisende Studien aus Deutschland zu schweren entzündlich-rheumatischen Erkrankungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOek03UC1qWU5uRmxjM2F1bnl0TXpwWEd0SXFIOTJMTDhwTkp4WW9TUmdhNzE3OEdtWTJkT1c2bXVXOVBuV1R2cE1qeGRTN1RTcHZRcEpqc3ZST3c5UzVqdlhqNjdCNjk2cUZrRGc1Q1ZFWU5Kem50dng2aHBQa09jSXMxYkVpXzljMjBacV84LTJpc3dVYUJJbHFTYVpLUWh6RW4tdE9aOW5pMlJJRW5qdG9vQVY4V1VseHNJenl3eFI2d3NSVjhJOTVuY21haWU4M1Y1cTNtYjhoc2ktVWRHdGZLR0VLSWJGN014X2NFZ2xWNlVxYWFZTQ?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOek03UC1qWU5uRmxjM2F1bnl0TXpwWEd0SXFIOTJMTDhwTkp4WW9TUmdhNzE3OEdtWTJkT1c2bXVXOVBuV1R2cE1qeGRTN1RTcHZRcEpqc3ZST3c5UzVqdlhqNjdCNjk2cUZrRGc1Q1ZFWU5Kem50dng2aHBQa09jSXMxYkVpXzljMjBacV84LTJpc3dVYUJJbHFTYVpLUWh6RW4tdE9aOW5pMlJJRW5qdG9vQVY4V1VseHNJenl3eFI2d3NSVjhJOTVuY21haWU4M1Y1cTNtYjhoc2ktVWRHdGZLR0VLSWJGN014X2NFZ2xWNlVxYWFZTQ?oc=5)
-
----
-
-### [EL AUDITORIO MUNICIPAL RAFAEL DE LEÓN ACOGERÁ ESTE JUEVES, 9 DE ABRIL, LA OBRA DE TEATRO “EL PADRE”, A BENEFICIO DE LA ASOCIACIÓN FAMILIARES ALZHEIMER, ESTIMULACIÓN NEUROLÓGICA (AFAeN) DE TOMARES - Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXRVdlZqeXdwQTVxUW45VEd2czA5Z0ZEUE1HdzhZYTREWEFOdG9fSDhueW5OLVhKQmJaYUdHVEF0NHBRNGJXZC15bXk0djVFNUp6eGlBTHNzZkVXaVRvSE9nUGVQakhObUNybEc0dS1jUDhOZHozMXl5cTNvSlY1Q0FMYTZjMENURC1ab2JPRTVaWVJpb1hwN1Jma1Vnc1NwNjVfaEZyaVUtdW41akk4YjVINW00anc2RzktZW5R?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXRVdlZqeXdwQTVxUW45VEd2czA5Z0ZEUE1HdzhZYTREWEFOdG9fSDhueW5OLVhKQmJaYUdHVEF0NHBRNGJXZC15bXk0djVFNUp6eGlBTHNzZkVXaVRvSE9nUGVQakhObUNybEc0dS1jUDhOZHozMXl5cTNvSlY1Q0FMYTZjMENURC1ab2JPRTVaWVJpb1hwN1Jma1Vnc1NwNjVfaEZyaVUtdW41akk4YjVINW00anc2RzktZW5R?oc=5)
-
----
-
-### [Un gruppo di matematici ha messo a punto un'equazione che potrebbe aiutarvi a preparare il caffè perfetto](https://news.google.com/rss/articles/CBMixgFBVV95cUxOaU9RbFBvS0dwTnhEZE51T2hLbUxaQUc1ckRmM01nd2lhOEo5WnBUOVZTX2hwRG1lTW1ON2pEZkNNcHpwTmxlc0JHcE1CNXRqTVVoV3ZEdzBRdHl5dHIybFlrWWNhNTlTRnF4Y2Y5dFZXMlVFa3FsRGNTUk50Y3dDQVdDWHJ3TFFiN05FZE4ycVB1WjNDdDR5YUVLYzV4WWl2T05WYnFkY2dPLVctWVJEV0RZdjlOZE1uUER6dXdDNmJncU1GaHc?oc=5)
-
-2026-04-07 <span class="news-indication-tag">AF</span>
-
-來源：[Wired](https://news.google.com/rss/articles/CBMixgFBVV95cUxOaU9RbFBvS0dwTnhEZE51T2hLbUxaQUc1ckRmM01nd2lhOEo5WnBUOVZTX2hwRG1lTW1ON2pEZkNNcHpwTmxlc0JHcE1CNXRqTVVoV3ZEdzBRdHl5dHIybFlrWWNhNTlTRnF4Y2Y5dFZXMlVFa3FsRGNTUk50Y3dDQVdDWHJ3TFFiN05FZE4ycVB1WjNDdDR5YUVLYzV4WWl2T05WYnFkY2dPLVctWVJEV0RZdjlOZE1uUER6dXdDNmJncU1GaHc?oc=5)
 
 ---
 
