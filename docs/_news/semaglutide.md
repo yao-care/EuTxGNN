@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Ganadores de los III Premios FSED a la Comunicación en Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
+
+2026-04-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
+
+---
 
 ### [Vous prenez de l'Ozempic pour perdre du poids ? Ce médicament présente un nouvel effet secondaire surprenant, selon une vaste étude](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaHVRUXB4TXpEb0kxQTgwNGxKd2VqcjRDaXV3SVloUHN0Nkk4V3NqQmgyQ2ZuQ0Z4V2thaEZ2b1QzNE91dlE3MnFKMGdIdzV2ZVNsS1NDUi13UlVIMnE4QzAzT012dFQwTGk1Z0xkcFRoaG9YYmpGblVIMVVzZnBaSHdzeDRLUUlYZHN5dmNldHpDQWxlUjhNRU9CTHRlNXpKMklvcko5a3hITWhFSWdqN1g5TnRVUFhpN2VaeGkzOFRhVFMtbWhzOHRWMDlxTnZGRjJXaGVRZlY1R3UyVmttY014cWZFUQ?oc=5)
 
@@ -52,19 +60,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Una de cada cuatro mujeres jóvenes sufre caída del cabello por estrés, dietas o moda 'clean look' - El Periódico](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGRnbk4yeUZPbkk3Y1RiZkRmV2V6QlNXZkMydjhrcGN6WUR2amFDV3VFMmhKR3Y4NVItcG12VTN6ZDh1MUZ1TV8xWWhlOWlWNE4wV3JnQXpWSGpPc2xBcnBVaWNQN1pSYXdXRmZlNnN3NW1hcDdXMTlOQkVWR0stWEpfOVk0Tjg0V0VMZ3p5RHJ5Q2EzZTBhUXJRa1ZzamJWMHc1M010TQ?oc=5)
-
-2026-04-08 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGRnbk4yeUZPbkk3Y1RiZkRmV2V6QlNXZkMydjhrcGN6WUR2amFDV3VFMmhKR3Y4NVItcG12VTN6ZDh1MUZ1TV8xWWhlOWlWNE4wV3JnQXpWSGpPc2xBcnBVaWNQN1pSYXdXRmZlNnN3NW1hcDdXMTlOQkVWR0stWEpfOVk0Tjg0V0VMZ3p5RHJ5Q2EzZTBhUXJRa1ZzamJWMHc1M010TQ?oc=5)
-
----
-
-### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
 ---
 
@@ -105,14 +105,6 @@ permalink: /news/semaglutide/
 2026-04-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmp1Q0hMUzkwY0NMQS1tbjRrMHFxdFI0VksxVU5ta2x4ZlhnNmJhckZUY24yZnpzVjJjUERkQURDeWdDb3huMVo5MG1XRW5Ja3A2NnJ0VVM2NjNyVjFCYVJTSnQtV3F3dC1LS01oMFpXWFZrdWktdU1Ob3prZ2VQVmZYN1NLZkozRk5qR1VBMG5kQ2dYWmN1M19SNDM3Q0JSSnBJdUVCdUlmeFNWd2dGWXRyY0RqN3h0SXJ0dld3RlFDZHB6ekUwejBUUGlSUmdjeXZvMjZ0VENzUWpKSFA1TGFWbVYwT20tX3BfYmhSVUJYUQ?oc=5)
-
----
-
-### [Dr. José Ferreras: «Lo que dicen los dientes sobre tu salud puede ser clave para detectar enfermedades importantes - Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
-
-2026-04-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="Ospemifene 有什麼相關新聞？">
-<strong>Ospemifene</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ospemifene</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/ospemifene/
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Los dermatólogos alertan sobre los espráis nasales de bronceado: «Son un auténtico riesgo para la salud» - La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxOQTIwbUNwSWpHLWwxeFZPUjVKeUhVT0RwdGRzQzAzY05wZnJwQm5BWm5BeC1sRVNBYld0TFlZaDA0a0NzWl9XSTl4b2F4VklaSUVOOHZxOC1Sc0U4OFhCSDNXNFhna1ppeE5WbWVCcE90YUpIN08zY2VjYjFCaXIxTzZub1VlM2pvel9GR2NqN0hwd0JfYUlRbE1yb28xdUNlU3VuVGRseVFvSS1lRDcwS3AzM3BNMWowRTVwaGxhS3FlQmpVcWl4TUQ3YWl3R2ZpSVc3RV9XdTVzSFdGbU5nZThNMnpEYlg3bms0VTh0UmZzWk1ET2lkekhLU242a1dQcjRza0VweXZhZm1ZU2xn?oc=5)
+
+2026-04-09 <span class="news-indication-tag">hipertensión</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxOQTIwbUNwSWpHLWwxeFZPUjVKeUhVT0RwdGRzQzAzY05wZnJwQm5BWm5BeC1sRVNBYld0TFlZaDA0a0NzWl9XSTl4b2F4VklaSUVOOHZxOC1Sc0U4OFhCSDNXNFhna1ppeE5WbWVCcE90YUpIN08zY2VjYjFCaXIxTzZub1VlM2pvel9GR2NqN0hwd0JfYUlRbE1yb28xdUNlU3VuVGRseVFvSS1lRDcwS3AzM3BNMWowRTVwaGxhS3FlQmpVcWl4TUQ3YWl3R2ZpSVc3RV9XdTVzSFdGbU5nZThNMnpEYlg3bms0VTh0UmZzWk1ET2lkekhLU242a1dQcjRza0VweXZhZm1ZU2xn?oc=5)
+
+---
 
 ### [Scientists develop AI tool to spot heart failure risk five years before it strikes - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
 
 2026-04-08 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
+
+---
+
+### [Bluthochdruck: Bringt ein neues Medikament den Durchbruch?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
+
+2026-04-08 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
 
 ---
 

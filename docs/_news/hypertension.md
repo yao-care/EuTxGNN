@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ipertensione（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# ipertensione（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
-<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,23 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Los dermatólogos alertan sobre los espráis nasales de bronceado: «Son un auténtico riesgo para la salud» - La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxOQTIwbUNwSWpHLWwxeFZPUjVKeUhVT0RwdGRzQzAzY05wZnJwQm5BWm5BeC1sRVNBYld0TFlZaDA0a0NzWl9XSTl4b2F4VklaSUVOOHZxOC1Sc0U4OFhCSDNXNFhna1ppeE5WbWVCcE90YUpIN08zY2VjYjFCaXIxTzZub1VlM2pvel9GR2NqN0hwd0JfYUlRbE1yb28xdUNlU3VuVGRseVFvSS1lRDcwS3AzM3BNMWowRTVwaGxhS3FlQmpVcWl4TUQ3YWl3R2ZpSVc3RV9XdTVzSFdGbU5nZThNMnpEYlg3bms0VTh0UmZzWk1ET2lkekhLU242a1dQcjRza0VweXZhZm1ZU2xn?oc=5)
+
+2026-04-09
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxOQTIwbUNwSWpHLWwxeFZPUjVKeUhVT0RwdGRzQzAzY05wZnJwQm5BWm5BeC1sRVNBYld0TFlZaDA0a0NzWl9XSTl4b2F4VklaSUVOOHZxOC1Sc0U4OFhCSDNXNFhna1ppeE5WbWVCcE90YUpIN08zY2VjYjFCaXIxTzZub1VlM2pvel9GR2NqN0hwd0JfYUlRbE1yb28xdUNlU3VuVGRseVFvSS1lRDcwS3AzM3BNMWowRTVwaGxhS3FlQmpVcWl4TUQ3YWl3R2ZpSVc3RV9XdTVzSFdGbU5nZThNMnpEYlg3bms0VTh0UmZzWk1ET2lkekhLU242a1dQcjRza0VweXZhZm1ZU2xn?oc=5)
+
+---
+
+### [Bluthochdruck: Bringt ein neues Medikament den Durchbruch?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
+
+2026-04-08
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
+
+---
 
 ### [Ipertensione arteriosa, cervello e cuore le prime vittime: i valori da tenere sotto controllo - Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0FQVERNRzRLa0pJMllPNzZvdTA2VHRQQ1Y0TE93VkNlUmlEM3NDeXNxRWJfWUhKU01FalZ4R3lBZFhXQVhFRW5zM0JsOHZRbnFvUDRHSDR5cXdnamcxNWt1ejJCczRaUHA5eS14eWNHbzlPVU5SSVVnY25MdEJBdmU3Slp3eXZqTUt0alc5Vzg1WU9zUVF6UnVDdDNpZ01fNWFsNGl1SUk?oc=5)
 

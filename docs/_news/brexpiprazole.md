@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Desarrollan un nuevo opioide con alta eficacia analgésica sin depresión respiratoria ni síntomas de adicción](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbWZfZkppZTBIYjFkVG55VEVUOURMTzFSMFJ3MG56Nl9GZHE4RHdlZmY5UEZmWV90bHdkeXVabUFjbnZXbU1uY3dBdTR5RDBRQjlEdmRQaTJXS2tZTHFRVVNCdmphNEtZemc1cmQ4aFhycnBZU01QUmlJeWVTNnVCY1owM0ZnNlJzUHg3TXNKX1hqSC1DWllVaGtRN19xSFYzR3dvTHFNbU9jUlczWWJ3NG9HWTRhanBkYTFSa3ZvUm51T2ZPYnBiMFZmaEM1SGhvRHdyUlRUeHVvX3REVW5CRUxReThBUGRnWVE?oc=5)
-
-2026-04-07 <span class="news-indication-tag">depresión</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbWZfZkppZTBIYjFkVG55VEVUOURMTzFSMFJ3MG56Nl9GZHE4RHdlZmY5UEZmWV90bHdkeXVabUFjbnZXbU1uY3dBdTR5RDBRQjlEdmRQaTJXS2tZTHFRVVNCdmphNEtZemc1cmQ4aFhycnBZU01QUmlJeWVTNnVCY1owM0ZnNlJzUHg3TXNKX1hqSC1DWllVaGtRN19xSFYzR3dvTHFNbU9jUlczWWJ3NG9HWTRhanBkYTFSa3ZvUm51T2ZPYnBiMFZmaEM1SGhvRHdyUlRUeHVvX3REVW5CRUxReThBUGRnWVE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

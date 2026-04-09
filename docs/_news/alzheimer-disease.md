@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Good news: a positive attitude may reduce risk of dementia - The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGNDUlJyQUM2ODRYa3ZTTjRVVFVES1pSalBJNmpXekJmT1NjVXZHNE9rZWNOTzBWbE5rQThETFNQZjM0YjhfVjN4Q3A1ZGZxRGdBTjBxUjRuZ1NsU255dDFfWllpMThRenRvVFNIQ1pweEdfNmI0YmUwZkhKSUxLekltWmlBdkpFaFlTODI5SF8?oc=5)
 
 2026-04-08
 
 來源：[The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGNDUlJyQUM2ODRYa3ZTTjRVVFVES1pSalBJNmpXekJmT1NjVXZHNE9rZWNOTzBWbE5rQThETFNQZjM0YjhfVjN4Q3A1ZGZxRGdBTjBxUjRuZ1NsU255dDFfWllpMThRenRvVFNIQ1pweEdfNmI0YmUwZkhKSUxLekltWmlBdkpFaFlTODI5SF8?oc=5)
+
+---
+
+### [Doctor Amir Khan says make 1 change when cleaning teeth to 'slash dementia risk' - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
+
+2026-04-08
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
 
 ---
 

@@ -44,6 +44,14 @@ permalink: /news/catumaxomab/
 
 ## 相關新聞（31 則）
 
+### [Krebs: Vegetarier weisen ein deutlich geringeres Risiko für fünf Krebsarten auf](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmd5dVlfTVRBUFBXbFBSUGpXRk5xUHlJTnpyY05iY04xbEk0NEo5WDVTOE9LbjdudTVuRWxoMmM2bWNkVkF2MWQtVWNhQlhYbkxHMGJpSlBGRm13aHh2MkFQVDlRUHR0UUhXN0Jwd3ozd2lxRnc5OUc3d3lYR3lnQ0E4VG9nU2N3Y1B3Zi0wNGFROEVYZ1hVUU9xS1JlRVB1dTQ5Nk9NS1JIVHh0bzBiVUFuS0ZZWmlETWJlT0EtV2c2cUxhNHJIQWc5LVRSbW5FNHdPQlg3c0dVVExqLUhCUm1B?oc=5)
+
+2026-04-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmd5dVlfTVRBUFBXbFBSUGpXRk5xUHlJTnpyY05iY04xbEk0NEo5WDVTOE9LbjdudTVuRWxoMmM2bWNkVkF2MWQtVWNhQlhYbkxHMGJpSlBGRm13aHh2MkFQVDlRUHR0UUhXN0Jwd3ozd2lxRnc5OUc3d3lYR3lnQ0E4VG9nU2N3Y1B3Zi0wNGFROEVYZ1hVUU9xS1JlRVB1dTQ5Nk9NS1JIVHh0bzBiVUFuS0ZZWmlETWJlT0EtV2c2cUxhNHJIQWc5LVRSbW5FNHdPQlg3c0dVVExqLUhCUm1B?oc=5)
+
+---
+
 ### [Wie Entzündungen den Darm Jahre später anfälliger für Krebs machen können](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NVR1E5Y05hYktPVmdfRC1QUVBFNnY0bVdLYmh5cXdERDNNSjNPNENVWEtlNzNGanhJa0M4UHozV3RLUUp3cDF6bFdVMjlpOXktQm9iRGpmQklhLTdMWENMWmVhc0Q4NVNQY2FPZGJUZy1mU1ZicXlFTk9lSHc5YjZXemNoS3p1elVOb1dnY2ZQS082eW5TUDlrTTM5RmJDVXpOYkRiNmFPa25YX0RneTFpWV95MGVtcW10VzhzUGl1VEU3ZDdiNjFsalhFMXV6Z2NGVXUxdk56YldzT3JZ?oc=5)
 
 2026-04-09 <span class="news-indication-tag">Krebs</span>
@@ -52,19 +60,27 @@ permalink: /news/catumaxomab/
 
 ---
 
-### [Krebs: Vegetarier weisen ein deutlich geringeres Risiko für fünf Krebsarten auf](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmd5dVlfTVRBUFBXbFBSUGpXRk5xUHlJTnpyY05iY04xbEk0NEo5WDVTOE9LbjdudTVuRWxoMmM2bWNkVkF2MWQtVWNhQlhYbkxHMGJpSlBGRm13aHh2MkFQVDlRUHR0UUhXN0Jwd3ozd2lxRnc5OUc3d3lYR3lnQ0E4VG9nU2N3Y1B3Zi0wNGFROEVYZ1hVUU9xS1JlRVB1dTQ5Nk9NS1JIVHh0bzBiVUFuS0ZZWmlETWJlT0EtV2c2cUxhNHJIQWc5LVRSbW5FNHdPQlg3c0dVVExqLUhCUm1B?oc=5)
+### [Ganadores de los III Premios FSED a la Comunicación en Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
 
-2026-04-08 <span class="news-indication-tag">Krebs</span>
+2026-04-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmd5dVlfTVRBUFBXbFBSUGpXRk5xUHlJTnpyY05iY04xbEk0NEo5WDVTOE9LbjdudTVuRWxoMmM2bWNkVkF2MWQtVWNhQlhYbkxHMGJpSlBGRm13aHh2MkFQVDlRUHR0UUhXN0Jwd3ozd2lxRnc5OUc3d3lYR3lnQ0E4VG9nU2N3Y1B3Zi0wNGFROEVYZ1hVUU9xS1JlRVB1dTQ5Nk9NS1JIVHh0bzBiVUFuS0ZZWmlETWJlT0EtV2c2cUxhNHJIQWc5LVRSbW5FNHdPQlg3c0dVVExqLUhCUm1B?oc=5)
+來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
 
 ---
 
-### [Identifican una nueva diana terapéutica para tumores neuroendocrinos en el tracto gastrointestinal - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaXpwenVFZm8yYzQtb1NWNTF0YVd5ZVRNUk5oRTJ5TlB4SnZQOUVHc3pCM0JMblhST2V5bVlta3ZMamVzS1N0UU5ENW5FRTZtOG9UYXVJLVlBeEJfYkU0ZXhUSkxCMmVvUmZZR3BwMHpDM215RW01V0Rfa1FCWXhyRmVLS3lUTzhpdEF0enlOcmVFWUprUVFpQ1NyNG9UWlBHdDhSYzlLaXllY0cySTg4WmF6THg0eUhOcXA5VnJiWdIBtAFBVV95cUxNTUc5by1zQ1hmenlrcWcxYllzSkNoMnZUcTEtMm9vUHZBcE5SLTV1NzdTQlVwNGpvVDdVYm1FampmM1l6VVNiTllORHdXMXpIY05KRlMtdFhta3NhRFYxcjA5SVRtU2JFYko1SDlMZDhsSmdsd2R3OXlKZDZFWjlEVEpEbVE1Q2V4RWRjV1JzQ1cybWJ0cTNxMzIzaUNVSGxQZ0ctbmJxMHNBM2t3U1RDMlVrNGc?oc=5)
+### [Cancer, santé cardiaque, longévité : les mystérieux pouvoirs du thymus, cet organe longtemps oublié - Le Figaro Santé](https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2thTkJoMVBveHR3T2N0Y1hwdFVnbmw4VHFPR1hkR1ZYXzJmVGdFTlUwN2t2alNzSEszVmY4M0p2YTZnaTF2NlczeTdsVkJyR1hmX1ZKNnE2RjJGX3FWb2tIQVc3UTIwVFdSal9WYVREQm91bnk1d3FOMTRvS21wTkN0aVc5WEdjX0x1T1V4NEVsdFBVYXM5aXFLcVMzWHFDMmdESDdyVHFMU0lUSTlkUjdpdWp2ck9GT0N5LWh2Y2xaZHdmaTVOOGJwNVpGWFUzQ05vRA?oc=5)
+
+2026-04-09 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2thTkJoMVBveHR3T2N0Y1hwdFVnbmw4VHFPR1hkR1ZYXzJmVGdFTlUwN2t2alNzSEszVmY4M0p2YTZnaTF2NlczeTdsVkJyR1hmX1ZKNnE2RjJGX3FWb2tIQVc3UTIwVFdSal9WYVREQm91bnk1d3FOMTRvS21wTkN0aVc5WEdjX0x1T1V4NEVsdFBVYXM5aXFLcVMzWHFDMmdESDdyVHFMU0lUSTlkUjdpdWp2ck9GT0N5LWh2Y2xaZHdmaTVOOGJwNVpGWFUzQ05vRA?oc=5)
+
+---
+
+### [Tumori, il risultato choc di una ricerca: il rischio di ammalarsi è più alto nei single (5 volte di più) - il Giornale](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0U4cHF0WXZyN21ROVQ5NmtEVEZsZ0ZWeHlwczYzNGhwUGo1S195UTNCYklxaGliSDVzdkZjbnNWZllvMWJqUm9LeWdpc1hsWE1DMGR6SzZqazdNZERiMVhiRENrTDRwMjl0d09oSk9aYXlhMjRRMVZfYVkzSFR2VEt3cWc4aS0wS01sMVp1T29UMFFVbUthajFlbTRQWmJGd2J2STBxLUktb3oxTlRSbDFWTFN5Qy13b0hmZ2Nn?oc=5)
 
 2026-04-08 <span class="news-indication-tag">tumor</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaXpwenVFZm8yYzQtb1NWNTF0YVd5ZVRNUk5oRTJ5TlB4SnZQOUVHc3pCM0JMblhST2V5bVlta3ZMamVzS1N0UU5ENW5FRTZtOG9UYXVJLVlBeEJfYkU0ZXhUSkxCMmVvUmZZR3BwMHpDM215RW01V0Rfa1FCWXhyRmVLS3lUTzhpdEF0enlOcmVFWUprUVFpQ1NyNG9UWlBHdDhSYzlLaXllY0cySTg4WmF6THg0eUhOcXA5VnJiWdIBtAFBVV95cUxNTUc5by1zQ1hmenlrcWcxYllzSkNoMnZUcTEtMm9vUHZBcE5SLTV1NzdTQlVwNGpvVDdVYm1FampmM1l6VVNiTllORHdXMXpIY05KRlMtdFhta3NhRFYxcjA5SVRtU2JFYko1SDlMZDhsSmdsd2R3OXlKZDZFWjlEVEpEbVE1Q2V4RWRjV1JzQ1cybWJ0cTNxMzIzaUNVSGxQZ0ctbmJxMHNBM2t3U1RDMlVrNGc?oc=5)
+來源：[il Giornale](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0U4cHF0WXZyN21ROVQ5NmtEVEZsZ0ZWeHlwczYzNGhwUGo1S195UTNCYklxaGliSDVzdkZjbnNWZllvMWJqUm9LeWdpc1hsWE1DMGR6SzZqazdNZERiMVhiRENrTDRwMjl0d09oSk9aYXlhMjRRMVZfYVkzSFR2VEt3cWc4aS0wS01sMVp1T29UMFFVbUthajFlbTRQWmJGd2J2STBxLUktb3oxTlRSbDFWTFN5Qy13b0hmZ2Nn?oc=5)
 
 ---
 
@@ -92,11 +108,11 @@ permalink: /news/catumaxomab/
 
 ---
 
-### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
 ---
 
@@ -164,14 +180,6 @@ permalink: /news/catumaxomab/
 
 ---
 
-### ['I'm just so glad I stopped smoking when I did'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oVmJtcTI0cXJTWmZ3U1dHZmlVQ2FQLURyaWxsX1pvWHh0bmd5QURkeksxRkNyNkczaDBSVVE3WjZ0SVZLR2xNazBxMTdiTG5NV3JkM1FzV2ZzTW1F?oc=5)
-
-2026-04-08 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oVmJtcTI0cXJTWmZ3U1dHZmlVQ2FQLURyaWxsX1pvWHh0bmd5QURkeksxRkNyNkczaDBSVVE3WjZ0SVZLR2xNazBxMTdiTG5NV3JkM1FzV2ZzTW1F?oc=5)
-
----
-
 ### [Darmkrebs-Forschung: Neues Virus in Darmbakterien entdeckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnE1YVV1OFU2SDdtallrRlZzLWs5YUNlQ25wdldhVENBOUFzN3ZTZE56UjdqcWY2ZXpEdzlQMXF6X1NtRTN6UnlkaE9DcWI4RzdBekh0X18wR2hSc2hBSzA0VmtydGFVWjV6Q2daWWhKdEtPQXd3ajZHLVdUamQ5Z1BkZ0hlcFVaUFVUVUd3ei1RbXJXbzZFUldxMlRZRGlmMzhWV0hNYTJJY2dPN3NkWE9TMTZaN2s?oc=5)
 
 2026-04-08 <span class="news-indication-tag">Krebs</span>
@@ -228,6 +236,14 @@ permalink: /news/catumaxomab/
 
 ---
 
+### [Hallan las vías celulares que transforman lesiones precancerosas en tumores pancreáticos - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3dJV0tRZExRcjJNM2RqUnlJbEZJZS14bXFpTlMwSTI5QWktTTN3azV1NnByQXFtaExSWHpVbFYxNThMT3NDb2hKWkZ1MHJ3dWN0R1RKUkVSVnhIWmROQ09Sb3Y4LUpoOG1uaXZXb210cXByTHhBMTQ2Z0ZDN19sOFpIQnNGcjBoTVdVUzNPMmV0amIyZU9HeWczYnlLSURoUTd3NnRhOHllTWZ2X2RSekpWNzJhSjVlMTJsQW9yR002Z9IBvAFBVV95cUxNX0FZd1plS1FxdzY5eGhpX1dMR2p3ZklTb3VSaXpDMHNwM0d6TUxjdEwwQ1lUdnh0R3p1OGJDN0NuYy1IenpnQ1YxTHc5T1REZ3lTYl9nSGJnc3RReXRvN21pWVlzTnd0d2FGVGhFaGFzajh4WGxDOWZQcGw4Wk4zZW8tOHpWRUVzSmtzMDM5dmQ3dzlOLWg5cG9qbVZreWk1OEwzRWxGOExPVUE3NVZjZDZJSUh0dHJmbnVIOA?oc=5)
+
+2026-04-07 <span class="news-indication-tag">cancer</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3dJV0tRZExRcjJNM2RqUnlJbEZJZS14bXFpTlMwSTI5QWktTTN3azV1NnByQXFtaExSWHpVbFYxNThMT3NDb2hKWkZ1MHJ3dWN0R1RKUkVSVnhIWmROQ09Sb3Y4LUpoOG1uaXZXb210cXByTHhBMTQ2Z0ZDN19sOFpIQnNGcjBoTVdVUzNPMmV0amIyZU9HeWczYnlLSURoUTd3NnRhOHllTWZ2X2RSekpWNzJhSjVlMTJsQW9yR002Z9IBvAFBVV95cUxNX0FZd1plS1FxdzY5eGhpX1dMR2p3ZklTb3VSaXpDMHNwM0d6TUxjdEwwQ1lUdnh0R3p1OGJDN0NuYy1IenpnQ1YxTHc5T1REZ3lTYl9nSGJnc3RReXRvN21pWVlzTnd0d2FGVGhFaGFzajh4WGxDOWZQcGw4Wk4zZW8tOHpWRUVzSmtzMDM5dmQ3dzlOLWg5cG9qbVZreWk1OEwzRWxGOExPVUE3NVZjZDZJSUh0dHJmbnVIOA?oc=5)
+
+---
+
 ### [Corde vocali, scoperto come si diffonde il tumore: i consigli per proteggere la voce](https://news.google.com/rss/articles/CBMicEFVX3lxTE1xclJ3V0FqRWZuMTdOWkp6Umk2RzRnMnFTcFktLTdiVkhoRk4zMFZUV1NySFlQaENoVzdNZ1R5YUNvd285eXJmUU4yaFROck9idGpKWUJDTXUtVHVLQkRLOG5MM2dfcGFyWVdpS1ZvZUPSAXZBVV95cUxNME94enBpWW94N1B0djQ4NWo1endFTDdsNmZicGN5amhlcVR4N1UxaXY1dDJlN1RiX3dMTWROVjhvQjJpSExDbjU1d0NyaFRsVVRwQWVYZlRTcU1sQVNvaUExa3ZjQ0FMTVJtQnBndWhiLVFwV2p3?oc=5)
 
 2026-04-07 <span class="news-indication-tag">tumor</span>
@@ -268,27 +284,11 @@ permalink: /news/catumaxomab/
 
 ---
 
-### [Dr. José Ferreras: «Lo que dicen los dientes sobre tu salud puede ser clave para detectar enfermedades importantes - Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
-
-2026-04-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWVlXU0RjVzhVWGhsNTFGV09QLUhoa1dEZHUzRWpZOERiVkxFQ2RPUXVpMUlacFNZb0RoeVQ4MnVJbzN0aU0tRHpyMWRwN01kb18zbzVUZ3dKRk9XQkdv?oc=5)
-
----
-
 ### [Sanità, è già domani: "Robot, modelli 3D e IA. I ‘superpoteri’ dei chirurghi" - Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSkdteDRsQWZLR1dQWTZNWVRSX2lIZVllWFJVeVQ4d05lZVFyWXViT3MyQVVITnlWX2NuWm4tdVZMeVFteG5maTBNd1p0LUdlZXkxZW96SGpmZjV5S0dlLW04cmZTZ0Z1VmZHYk9ZTHctSEtYM0tONDhJWktad2hsRms5eXNmS1VHWG9n?oc=5)
 
 2026-04-07 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSkdteDRsQWZLR1dQWTZNWVRSX2lIZVllWFJVeVQ4d05lZVFyWXViT3MyQVVITnlWX2NuWm4tdVZMeVFteG5maTBNd1p0LUdlZXkxZW96SGpmZjV5S0dlLW04cmZTZ0Z1VmZHYk9ZTHctSEtYM0tONDhJWktad2hsRms5eXNmS1VHWG9n?oc=5)
-
----
-
-### [Foco en una alteración genética para manejar un tumor "huérfano de terapia" - Redacción Médica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0xNUjE2T0RDbVRHTFJNVXhfVHV3MWFiTXZkeHNsV1lvZTZDRnJuRXhRUUlYd3lvdFh6Q0Y4REVoaTNpZkhuWVpIZVZKdzhraUVIUE5ndS1kUzZKZ1ppc3BrU21mOXlxd2tkbnVabXlXSElJQVRFQWNleGh3R3hqNUMwSmZvQjJDbG1hS2R4QTRBTzRka0Q4emM0S3F4WjczbWc4UjRXVkd4ZDZFNEtQaWkxVXRxb2w1SHFqTWg3bHpiOXh0bGFCUEVxVEVSb1BtaUF5TdIB1AFBVV95cUxNLWx5bWxjcE9kNUNEQXB4WEtQYkVGenM2bkpnRG5kVnBSWGdiclFxQTVWS1B6V1JwWDB3eV9OS0RZNV92aThoZFhNbGtYTjkwbHBPdjlWLUpoMjNjWUNzbnZkdUtuYzV2LW1iei1XSy1WT2NrVDlaeThvTlNBMjZaMXRVUklXSzhNZVN2MDBWcDJqUkxoeGxUQnc4TXhwaWtrcTl6aXlNOHhoOUViamVOQWd0eWF3SU4yZGFuWjY4RUVheVRfRmx6ZFU1M1ExNlU3bE91eQ?oc=5)
-
-2026-04-07 <span class="news-indication-tag">tumor</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0xNUjE2T0RDbVRHTFJNVXhfVHV3MWFiTXZkeHNsV1lvZTZDRnJuRXhRUUlYd3lvdFh6Q0Y4REVoaTNpZkhuWVpIZVZKdzhraUVIUE5ndS1kUzZKZ1ppc3BrU21mOXlxd2tkbnVabXlXSElJQVRFQWNleGh3R3hqNUMwSmZvQjJDbG1hS2R4QTRBTzRka0Q4emM0S3F4WjczbWc4UjRXVkd4ZDZFNEtQaWkxVXRxb2w1SHFqTWg3bHpiOXh0bGFCUEVxVEVSb1BtaUF5TdIB1AFBVV95cUxNLWx5bWxjcE9kNUNEQXB4WEtQYkVGenM2bkpnRG5kVnBSWGdiclFxQTVWS1B6V1JwWDB3eV9OS0RZNV92aThoZFhNbGtYTjkwbHBPdjlWLUpoMjNjWUNzbnZkdUtuYzV2LW1iei1XSy1WT2NrVDlaeThvTlNBMjZaMXRVUklXSzhNZVN2MDBWcDJqUkxoeGxUQnc4TXhwaWtrcTl6aXlNOHhoOUViamVOQWd0eWF3SU4yZGFuWjY4RUVheVRfRmx6ZFU1M1ExNlU3bE91eQ?oc=5)
 
 ---
 

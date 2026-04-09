@@ -32,7 +32,7 @@ permalink: /news/mycophenolate-mofetil/
 <li>bone Paget disease（99.7%）</li>
 <li>feline acquired immunodeficiency syndrome（99.7%）</li>
 <li>simian immunodeficiency virus infection（99.7%）</li>
-<li class="indication-matched">multiple sclerosis（99.5%）<span class="indication-tag">📰 sclérose en plaques</span></li>
+<li class="indication-matched">multiple sclerosis（99.5%）<span class="indication-tag">📰 MS</span></li>
 <li>hemosiderosis（99.5%）</li>
 <li>Heiner syndrome（99.5%）</li>
 <li>African iron overload（99.4%）</li>
@@ -44,11 +44,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ## 相關新聞（33 則）
 
-### [Incontinence problems leave me 'leaking while competing'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VOGFhaVA0bnBEQl9BdzA0OUtuUlBHajdzLUpRTldQMDlETDFtX3c3M0w4UHNNN2xzNHAyOGQ5Y01tS3R2ck5JM3lvWmhjYVluUVJpMkhTQkltb3Vo?oc=5)
+### [Müde am Morgen? Vier Tipps für einen besseren Schlafrhythmus](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTld0OUZJYzdKQWZVelhFbXo4LU1QUlNwVWtWNFlrUG1XMFhLYUFpQk9semh2T3BUWkpHSlgyVnJ6ZVZZN2xZQjBzLUptN3VFTXpIdWt5VnV3TGlCSnpnUGZOS195NU9sRGwtNzlEaGFrclk1S2Zwa3lQZENkaXR3VFRWRkdwWUJYUzJaZ3c2Ujl4cWd2Ti05WGNRYi1mS2hqalE?oc=5)
 
-2026-04-08 <span class="news-indication-tag">MS</span>
+2026-04-09 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VOGFhaVA0bnBEQl9BdzA0OUtuUlBHajdzLUpRTldQMDlETDFtX3c3M0w4UHNNN2xzNHAyOGQ5Y01tS3R2ck5JM3lvWmhjYVluUVJpMkhTQkltb3Vo?oc=5)
+來源：[Beobachter](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTld0OUZJYzdKQWZVelhFbXo4LU1QUlNwVWtWNFlrUG1XMFhLYUFpQk9semh2T3BUWkpHSlgyVnJ6ZVZZN2xZQjBzLUptN3VFTXpIdWt5VnV3TGlCSnpnUGZOS195NU9sRGwtNzlEaGFrclk1S2Zwa3lQZENkaXR3VFRWRkdwWUJYUzJaZ3c2Ujl4cWd2Ti05WGNRYi1mS2hqalE?oc=5)
 
 ---
 
@@ -57,6 +57,14 @@ permalink: /news/mycophenolate-mofetil/
 2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+
+---
+
+### [Woman shares before and after of going 30 days without drinking alcohol](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
 
 ---
 
@@ -92,19 +100,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Ernährung bleibt Schlüssel im Kampf gegen hohes Cholesterin - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHhlekd0amZmd1VMTERnZmppU25lbE1teU5vb0lfN3plTXpfbUx0eElpOUpTU0hRRVl0WFlfeGlWLUU4MURnYWRDNVlFUUhXT2RuTXJhX2tRTUltNXNvU1BfYUhCVTNxZlFOcW1NaXVMcHBZUHZQZ2hpb1EzbTE5bFRfRXJCUEZOcTNKMzZWSU5Selh0ZklkTm1XeWw5LUlqUmxFcnBhTjJvZ05OX2dWN1dFMmRvWFZuUnJ0OA?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHhlekd0amZmd1VMTERnZmppU25lbE1teU5vb0lfN3plTXpfbUx0eElpOUpTU0hRRVl0WFlfeGlWLUU4MURnYWRDNVlFUUhXT2RuTXJhX2tRTUltNXNvU1BfYUhCVTNxZlFOcW1NaXVMcHBZUHZQZ2hpb1EzbTE5bFRfRXJCUEZOcTNKMzZWSU5Selh0ZklkTm1XeWw5LUlqUmxFcnBhTjJvZ05OX2dWN1dFMmRvWFZuUnJ0OA?oc=5)
-
----
-
-### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
 
 ---
 
@@ -156,6 +156,14 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
+### [Les conseils de l’influenceuse Glucose Goddess aux femmes enceintes irritent les experts - Le HuffPost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYjlmU3Z4RFhSMkZjMUhKUzF6MHJnLUtxTllJR0xUSE9tTTdHRG01bzJyamdUTnltU19hdjlSajRSakdybVBzQVR5eUJMR3hkX0FkX29wRXJnTDFVbDN0dk9ySm1fZkRSempyR2J1VkhkSXd2UUZCaHVXcEw3dnBWQi12RFRQcXV3cHVtb1QtTktleF9lbi0yYW00bGxNM2xoTzlxandNczJ0MUdsVGlpOTJvR1JrQWJjbEUzaVB3TG1WSUgxbElvckkzbm5NakY4ems0NGltUHNCMi1ZLUppNUR1VEdRaUF5WjFFNFhYQ2k?oc=5)
+
+2026-04-08 <span class="news-indication-tag">AF</span>
+
+來源：[Le HuffPost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYjlmU3Z4RFhSMkZjMUhKUzF6MHJnLUtxTllJR0xUSE9tTTdHRG01bzJyamdUTnltU19hdjlSajRSakdybVBzQVR5eUJMR3hkX0FkX29wRXJnTDFVbDN0dk9ySm1fZkRSempyR2J1VkhkSXd2UUZCaHVXcEw3dnBWQi12RFRQcXV3cHVtb1QtTktleF9lbi0yYW00bGxNM2xoTzlxandNczJ0MUdsVGlpOTJvR1JrQWJjbEUzaVB3TG1WSUgxbElvckkzbm5NakY4ems0NGltUHNCMi1ZLUppNUR1VEdRaUF5WjFFNFhYQ2k?oc=5)
+
+---
+
 ### [Wissenschaftsakademien: Demenz mit Hilfe von Daten verhindern](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdm85anJqN2gyaDVwVzJKN05acFBGY291eVpiMFJHMWRWaUJiNWkyQjFHcWlWdUljRGJlSHk4ZEV5SGlvQTdLNFJQOWVwN09kNHN3N2NJTFlSREVyeU9DcjVYTlptZ3ctdGxCQWkyMktDNlAyVnRhdzBDVjlvdEJVci13dGc1NGJmNjQtOHJWUVZhbUdvWDVMdm9xTkJCX1Z4RkpqSHRJZw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
@@ -164,19 +172,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Proteinhemmung kann Leukämiezellen schwächen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2RU11R19wVDdhZXFGcjQySWpIT3F6UV9xMW94a2p0aGFUeXNvNjY4cE15MjY0MGpYb0pWSGZTMm8xQVlyaXZsbWJXaw?oc=5)
+### [Proteinhemmung kann Leukämiezellen schwächen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2RU11R19wVDdhZXFGcjQySWpIT3F6UV9xMW94a2p0aGFUeXNvNjY4cE15MjY0MGpYb0pWSGZTMm8xQVlyaXZsbWJXaw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2RU11R19wVDdhZXFGcjQySWpIT3F6UV9xMW94a2p0aGFUeXNvNjY4cE15MjY0MGpYb0pWSGZTMm8xQVlyaXZsbWJXaw?oc=5)
-
----
-
-### [Biologisches Alter: Wie wir den Zellverfall selbst beeinflussen können - AD HOC NEWS](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUJxaTRyN0pYRi1sRzh4TGZVNC14bHpjVG41TTRfM3lHV2Q5MFFLQTBITVlQWktwM2tqV2Z2d1E1M2thNVZCenZjbzVjTlNvZTN6RjRvSFI0T2tGTUtvN1Q1d3hXVk1KSUtqc3lkZ3Z1NlRUXzFfeTJfbWpOclNHdE4zQnZ4VlFGVDMtTFBMem53bVE4R1dSMEVDdEIwQW5wNTJjM3pqekFfYmlXWlhYUjlROUk5em5PR1VZR2I3VmJTelFESndaYw?oc=5)
-
-2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeUJxaTRyN0pYRi1sRzh4TGZVNC14bHpjVG41TTRfM3lHV2Q5MFFLQTBITVlQWktwM2tqV2Z2d1E1M2thNVZCenZjbzVjTlNvZTN6RjRvSFI0T2tGTUtvN1Q1d3hXVk1KSUtqc3lkZ3Z1NlRUXzFfeTJfbWpOclNHdE4zQnZ4VlFGVDMtTFBMem53bVE4R1dSMEVDdEIwQW5wNTJjM3pqekFfYmlXWlhYUjlROUk5em5PR1VZR2I3VmJTelFESndaYw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2RU11R19wVDdhZXFGcjQySWpIT3F6UV9xMW94a2p0aGFUeXNvNjY4cE15MjY0MGpYb0pWSGZTMm8xQVlyaXZsbWJXaw?oc=5)
 
 ---
 
@@ -188,11 +188,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Un discours « alarmiste » et « très culpabilisateur » : les conseils nutritifs de l’influenceuse Glucosegoddess crispent les experts - Le Parisien](https://news.google.com/rss/articles/CBMiqwJBVV95cUxQZGVualJTaGhsNUtac25iby1zYk5ZeWg2Skk0MHNlaXVoc3E2ekpTa2VBTVBOdFBlMnVvdG5jOEtFYVdXcjV0MXhka2RiZmtjUC11NXRnUWFYeWRZTDBONm9HMmFhVkU3Sm9DZ00yenlyX244ZlpoRFJIUDJzT2ZJVWhHMVdrUmhxNXZuT25fbF96Smw5N3dqT0QwU0NRX0JoUjhPQ0NUZzQ0V0h3d3czcVRuMzB5eGxBcld6MExzQnJlM09WNXhoLTB3YjdQZDctWk9yOEUzZmgtWEZpeTFCcGJsMXRyZXp6NTVCZUQ4RFJnMjk1ckRINGJSVV81Q0dzSW5hMF8wd2ZlVnpfMkYzME9VVEFrWngzNGpRdW1YdkVodWFIU09tc2U3UQ?oc=5)
+### [Ni acumular ni esperar: la 'fecha de caducidad' del semen podría estar frustrando tus planes de embarazo](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmVUMTY2LWxVTlp0RUQ4blBZcERCeDFYbW1wNkstVmpmZnpxeV9qS201dFhMTVR2NGZHYlNIMkYyVkd4b01KdGRXYVJTRldoNzg5X2lGZnVXMndZWlZ5SlZRc2ViSnpBQm50anhMYkxydHdKM2hKdXVWaUdCREUtdnVZck5KMFJtUEtrNXlrNlF0RHE3eTN4Zm0yLU00RHNqcE9fcGw3NTZla193cjhfS2hyRjlLV2xpY3A1UUcyTG9xVDlwQ3pPZkRQRFJuaWE2eEtGYVBHV2tJckNMN2dB?oc=5)
 
-2026-04-08 <span class="news-indication-tag">AF</span>
+2026-04-08 <span class="news-indication-tag">MS</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMiqwJBVV95cUxQZGVualJTaGhsNUtac25iby1zYk5ZeWg2Skk0MHNlaXVoc3E2ekpTa2VBTVBOdFBlMnVvdG5jOEtFYVdXcjV0MXhka2RiZmtjUC11NXRnUWFYeWRZTDBONm9HMmFhVkU3Sm9DZ00yenlyX244ZlpoRFJIUDJzT2ZJVWhHMVdrUmhxNXZuT25fbF96Smw5N3dqT0QwU0NRX0JoUjhPQ0NUZzQ0V0h3d3czcVRuMzB5eGxBcld6MExzQnJlM09WNXhoLTB3YjdQZDctWk9yOEUzZmgtWEZpeTFCcGJsMXRyZXp6NTVCZUQ4RFJnMjk1ckRINGJSVV81Q0dzSW5hMF8wd2ZlVnpfMkYzME9VVEFrWngzNGpRdW1YdkVodWFIU09tc2U3UQ?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmVUMTY2LWxVTlp0RUQ4blBZcERCeDFYbW1wNkstVmpmZnpxeV9qS201dFhMTVR2NGZHYlNIMkYyVkd4b01KdGRXYVJTRldoNzg5X2lGZnVXMndZWlZ5SlZRc2ViSnpBQm50anhMYkxydHdKM2hKdXVWaUdCREUtdnVZck5KMFJtUEtrNXlrNlF0RHE3eTN4Zm0yLU00RHNqcE9fcGw3NTZla193cjhfS2hyRjlLV2xpY3A1UUcyTG9xVDlwQ3pPZkRQRFJuaWE2eEtGYVBHV2tJckNMN2dB?oc=5)
 
 ---
 
@@ -201,14 +201,6 @@ permalink: /news/mycophenolate-mofetil/
 2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
-
----
-
-### [Bristol man dies weeks after holiday as widow praises hospice](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
 
 ---
 
@@ -236,19 +228,19 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Treprostinil-Inhalat bremst Lungenfibrose - AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
-
-2026-04-07 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxONUJOVkNPcjY1SWcteGJSV19pSUZ5M2QyR05PU29XbDY3Z0ZGdEhiNl9ValNBTWoyYVlYMktlczRzRWcxd2lnREdnU1RpUXB4MGROTVByTEEyc1o5NEZSLUNIWVozLXJETXdQT3lYYWVfQmtfM1lKMFlITDdDLVhyTHVBT2h4QXZXU2YtRElwSEgtOERZalFDNU1LS2FFX3hQSkE?oc=5)
-
----
-
 ### [Gran with skin infection died after bungling staff gave her the wrong medicine - The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZUpPSWlaZ2QtX0FuZmwyU0Jxb0Ryb2tLc1JuM3NwN0w1ODQ3dXFobTFfMlJaOFhHWXB6ZTN6ckRzWTc3SGdyeUNNQ1pRODNGVGdsUFByNTFTQzZab08yRFJNQWh5NFB0WTQ2YmtnR2FBWEYz?oc=5)
 
 2026-04-07 <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZUpPSWlaZ2QtX0FuZmwyU0Jxb0Ryb2tLc1JuM3NwN0w1ODQ3dXFobTFfMlJaOFhHWXB6ZTN6ckRzWTc3SGdyeUNNQ1pRODNGVGdsUFByNTFTQzZab08yRFJNQWh5NFB0WTQ2YmtnR2FBWEYz?oc=5)
+
+---
+
+### [EL AUDITORIO MUNICIPAL RAFAEL DE LEÓN ACOGERÁ ESTE JUEVES, 9 DE ABRIL, LA OBRA DE TEATRO “EL PADRE”, A BENEFICIO DE LA ASOCIACIÓN FAMILIARES ALZHEIMER, ESTIMULACIÓN NEUROLÓGICA (AFAeN) DE TOMARES - Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXRVdlZqeXdwQTVxUW45VEd2czA5Z0ZEUE1HdzhZYTREWEFOdG9fSDhueW5OLVhKQmJaYUdHVEF0NHBRNGJXZC15bXk0djVFNUp6eGlBTHNzZkVXaVRvSE9nUGVQakhObUNybEc0dS1jUDhOZHozMXl5cTNvSlY1Q0FMYTZjMENURC1ab2JPRTVaWVJpb1hwN1Jma1Vnc1NwNjVfaEZyaVUtdW41akk4YjVINW00anc2RzktZW5R?oc=5)
+
+2026-04-07 <span class="news-indication-tag">AF</span>
+
+來源：[Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXRVdlZqeXdwQTVxUW45VEd2czA5Z0ZEUE1HdzhZYTREWEFOdG9fSDhueW5OLVhKQmJaYUdHVEF0NHBRNGJXZC15bXk0djVFNUp6eGlBTHNzZkVXaVRvSE9nUGVQakhObUNybEc0dS1jUDhOZHozMXl5cTNvSlY1Q0FMYTZjMENURC1ab2JPRTVaWVJpb1hwN1Jma1Vnc1NwNjVfaEZyaVUtdW41akk4YjVINW00anc2RzktZW5R?oc=5)
 
 ---
 
@@ -268,11 +260,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [La Sociedad Española de Reumatología amplía su contenido del proyecto ‘Reumafit’ - Diario Siglo XXI](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2pQeEN0R29hSnl2VjE4dXBTdVU5bmdKWndNbW1qQTRKMFJqTllQV1ZFNENZV25RZkI1S3I2VmhXQk5lOWlzSGQ2dUFzSzRJMHN4V2FrQTNBdC1HSlRtNXZMdVdvNW5LU0xkQktTZTNMekx0WkdIeEZILVN2N1hyRml0MFJkSkwtSDdoTVBaQzY4VzRrRkhiVmwxcmZuOGI2STFMQVYxdktzNEpkNUU4cGViTHQ4OWlIUzRTSUpBeDBRa2s?oc=5)
+### [Even a single course of antibiotics can damage your gut. Here’s how to protect yourself - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVdnTlpFRkhkS1REWU1BR21WOVBXaTV6SWc2a2dGd3l4WmZEbFBiTUpoQ3pEZVY2dm9sZFdEalg3aWRCZUI4VXI2QW9yV2thc1ZFSjFqZEFVd1BqRzY2Q2tzVHZhbld1SnJfR2JNU2t4QnpSYXAzN21QQWNjcmxRbktXd2JUTl9Wa19CTVhwOXVCMms?oc=5)
 
 2026-04-07 <span class="news-indication-tag">AF</span>
 
-來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2pQeEN0R29hSnl2VjE4dXBTdVU5bmdKWndNbW1qQTRKMFJqTllQV1ZFNENZV25RZkI1S3I2VmhXQk5lOWlzSGQ2dUFzSzRJMHN4V2FrQTNBdC1HSlRtNXZMdVdvNW5LU0xkQktTZTNMekx0WkdIeEZILVN2N1hyRml0MFJkSkwtSDdoTVBaQzY4VzRrRkhiVmwxcmZuOGI2STFMQVYxdktzNEpkNUU4cGViTHQ4OWlIUzRTSUpBeDBRa2s?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVdnTlpFRkhkS1REWU1BR21WOVBXaTV6SWc2a2dGd3l4WmZEbFBiTUpoQ3pEZVY2dm9sZFdEalg3aWRCZUI4VXI2QW9yV2thc1ZFSjFqZEFVd1BqRzY2Q2tzVHZhbld1SnJfR2JNU2t4QnpSYXAzN21QQWNjcmxRbktXd2JUTl9Wa19CTVhwOXVCMms?oc=5)
 
 ---
 
@@ -300,11 +292,19 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### ["Moins il y a de soleil et plus il y a de sclérose en plaques" : les liens entre la maladie et la vitamine D décryptée par une chercheuse - La République du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxPQjB4VVlDOEZJUHRINlktZWVzNEtzLVZPWV95cE4tTUprMGtzUDFkUktHWFFZUTlVSzdOdzg5R0Y1Q09DUlJ4S1JzelpyTEJVQUpfRDFuX2YxYzJBcUdqYW9tTUdyQXVEMjliQWRuMDVVU2JIMEZxQUZDSk5QUEI1ZXFIZUIzTndEVVNfbUdkT3U5S2FPR0YtQ3djR2ZUSzNXT2JGV0d2cjB3UC0zdzBvLVRLYmlzY09lMGJvZjZsYnpaQXpocEtfMkdxZ0hWTENoZXlvYU1ZRDl5eF9tdkZwR19EOTBLdXFOQVBiUUJYeHRpYTY4by1FNzVyMHkwMXhtdmFHVjY0VmRHa3pES201VTlqS3Vhdlk?oc=5)
+### ["Moins il y a de soleil et plus il y a de sclérose en plaques" : les liens entre la maladie et la vitamine D décryptée par une chercheuse - Le Journal du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
 
 2026-04-07 <span class="news-indication-tag">sclérose en plaques</span>
 
-來源：[La République du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxPQjB4VVlDOEZJUHRINlktZWVzNEtzLVZPWV95cE4tTUprMGtzUDFkUktHWFFZUTlVSzdOdzg5R0Y1Q09DUlJ4S1JzelpyTEJVQUpfRDFuX2YxYzJBcUdqYW9tTUdyQXVEMjliQWRuMDVVU2JIMEZxQUZDSk5QUEI1ZXFIZUIzTndEVVNfbUdkT3U5S2FPR0YtQ3djR2ZUSzNXT2JGV0d2cjB3UC0zdzBvLVRLYmlzY09lMGJvZjZsYnpaQXpocEtfMkdxZ0hWTENoZXlvYU1ZRDl5eF9tdkZwR19EOTBLdXFOQVBiUUJYeHRpYTY4by1FNzVyMHkwMXhtdmFHVjY0VmRHa3pES201VTlqS3Vhdlk?oc=5)
+來源：[Le Journal du Centre](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWhaRklpblVNM09ON1otMkZiN2Npa0hlZ0xCTTVzc1B3aW1hYlRUcmVDUzFOWnAyNlNDaUZHMDNmalR3X3FySEpyX2JNNWpaV182WUxLT3hYRzQ5VVM4ZmNNMEJXSGhTVzVKbjdOQk0zX0VPYmc2aTVHV19EbjVGX0Y3VmJOWmpwaTFRNWlkUGFYWThLZktwdGZVZnVSd0xKYzd4aXFUUGNWQUFYUFZWY2R1MWhBQVBMOGs0Z3N6ZzliSi1zbjB1STJEQUNFNUlpclFkVFVMOTNjbzNkN1l3aUJnNkxqaURKOVhzZDUzRFo4UFNtYlEzM2xBbkNCWDZyWU0zcDhwY2c2UEc3YkRVd2pvdHlqVHM?oc=5)
+
+---
+
+### [Longevità, i consigli degli esperti per un cuore d'acciaio: niente alcol e più cibi integrali - Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
+
+2026-04-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
 
 ---
 

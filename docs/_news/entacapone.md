@@ -52,19 +52,19 @@ permalink: /news/entacapone/
 
 ---
 
+### [Doctor Amir Khan says make 1 change when cleaning teeth to 'slash dementia risk' - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">dementia</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
+
+---
+
 ### [I’m a neurologist – these are the surprising early signs of Parkinson’s to look out for - The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
 
 2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3MyVGJBNEFMM2NSY01vbHg0aVFhbDZzcENhb0dVSTY0NEJOT3FxTWZFLWY0R3lIcnR6MTRDaVR0QnhwS1BvYlFiTmxHbVVGZUdVTGhCcDBKbDlWRXBURDA2WkpubktlandxS01XQzlRTUZwczR0ejh0c0VJd0FCdkFYNGlSdVFDOHhJY0dJWi0xSmZMbHVR?oc=5)
-
----
-
-### ['I'm not drunk, I have Parkinson's disease'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
-
-2026-04-07 <span class="news-indication-tag">Parkinson's</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zV1pNYlYxUzhsRDlpSkdlc1Y2eER1eWtSRm9mV0dxVE1rVm5GMmhZN2piMklqaW12Q3lnZlVtMzc1QjNESWtiX0VRRG5rMzdDb0FkYVBPRzh5ZW1E?oc=5)
 
 ---
 
