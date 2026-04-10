@@ -44,11 +44,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [La neuróloga Elena Zapata ofrece en Lebrija una charla clave para reconocer y prevenir el ictus - Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
+### [My obsession with having the perfect face nearly gave me a stroke - Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxORVZlRjFHcFdKb0RITGEyay1tb3RuZVBETXltNVlzYld0N3ZFekZYM2FucDNBZGE0S3R1WHZvZVBFRFRaWFg3NHdrTkRZYVZ6aFRFVzEwQlFQQmJtSUNtMTV4dGxEQUlzTTlYOGtMdWFxY3B1cHV2amxXOFF3WHNXY0g1UlQxaGk0d3FGWGgyODNNbThRNlE2VXBqY25ydlZpSEJ3alcxNktoUHNDTE8tV015Yw?oc=5)
 
-2026-04-08 <span class="news-indication-tag">ictus</span>
+2026-04-09 <span class="news-indication-tag">stroke</span>
 
-來源：[Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxORVZlRjFHcFdKb0RITGEyay1tb3RuZVBETXltNVlzYld0N3ZFekZYM2FucDNBZGE0S3R1WHZvZVBFRFRaWFg3NHdrTkRZYVZ6aFRFVzEwQlFQQmJtSUNtMTV4dGxEQUlzTTlYOGtMdWFxY3B1cHV2amxXOFF3WHNXY0g1UlQxaGk0d3FGWGgyODNNbThRNlE2VXBqY25ydlZpSEJ3alcxNktoUHNDTE8tV015Yw?oc=5)
 
 ---
 

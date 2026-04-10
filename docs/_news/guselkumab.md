@@ -29,7 +29,7 @@ permalink: /news/guselkumab/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>drug-induced osteoporosis（99.8%）</li>
 <li>severe nonproliferative diabetic retinopathy（99.8%）</li>
-<li>psoriasis（99.8%）</li>
+<li class="indication-matched">psoriasis（99.8%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>diabetic retinopathy（99.7%）</li>
 <li>renal osteodystrophy（99.7%）</li>
 <li>ulcerative colitis (disease)（99.7%）</li>
@@ -43,6 +43,14 @@ permalink: /news/guselkumab/
 </div>
 
 ## 相關新聞（4 則）
+
+### [Eczéma, psoriasis… Une révolution thérapeutique pour soigner les souffrances physiques et psychiques - Le Figaro Santé](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDUxbHd4Yjk0bERneS1mV2tkV2JUY1pzZWQwdlV5dmdvTTkzMmhGVHJEWVdkS1F1dVdMeXBHVmtkbkQ0al9LODV6bHd6d01wWmM4dUhCTTRlX2hrQTBsS2labzhxQVktVE9JbXVEWU41dmpGcEtob0w0R29kd1V3RXFjZjQ3OERWUUZUWnNtdUxxaTR0QlBmT1VTOVdCM2xoZ0hVbnhudXVPOGVkdkFDeERpUDUzMXo2UXlYSWhsUmhOYkNUOFAxdWt6bGVOQk9oX21kS3RLM1hmZW82MFVzOUoya1FDOHA3SWhJ?oc=5)
+
+2026-04-10 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDUxbHd4Yjk0bERneS1mV2tkV2JUY1pzZWQwdlV5dmdvTTkzMmhGVHJEWVdkS1F1dVdMeXBHVmtkbkQ0al9LODV6bHd6d01wWmM4dUhCTTRlX2hrQTBsS2labzhxQVktVE9JbXVEWU41dmpGcEtob0w0R29kd1V3RXFjZjQ3OERWUUZUWnNtdUxxaTR0QlBmT1VTOVdCM2xoZ0hVbnhudXVPOGVkdkFDeERpUDUzMXo2UXlYSWhsUmhOYkNUOFAxdWt6bGVOQk9oX21kS3RLM1hmZW82MFVzOUoya1FDOHA3SWhJ?oc=5)
+
+---
 
 ### [Bienestar dental y bienestar general: la conexión que la mayoría subestima - KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
 
@@ -65,14 +73,6 @@ permalink: /news/guselkumab/
 2026-04-09 <span class="news-indication-tag">diabetes</span>
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
-
----
-
-### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
-
-2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
 
 ---
 

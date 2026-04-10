@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carbidopa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Maladie de Parkinson : diagnostic, hérédité, symptômes… Dix réponses d’un neurologue et d’une infirmière à vos questions](https://news.google.com/rss/articles/CBMipgJBVV95cUxNNmwzM2VteTZfZVp1eWVLWmdKNXZRdEd3LWlIaTFlbVhoZ0lHTkhBenNEWXpndl8wQmJnNUtCMk4xVHhtVWxtcU55VDRvblR6SkR0NkY2ZWV4NmJvRGk1QTdkSHBOLWJiVms1Qkd1MjVsZ08yVktHTmNUZngzeVJwaFVuMDVETGgzVEZmT0R6MWhBS1FGa1Z4Mks3MDRrYmRNSmZncFZNX2haS3BvNmpVOTdIdEdsbVRXc1prSUxKYmFaTHpnZlR4ZVNqelBoRWgtaFBNU05xV2NrVjYwcXdKUzdTdnVTQm9MMXp6S1FFeDA1M3ZoYS1XLTNiY1pwaFp0VmRLMjhicnJIcXdjSE5VeTc1YWdmMXBuOUZUV1Bud29CYllqNkE?oc=5)
 
 2026-04-10 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[Ouest-France](https://news.google.com/rss/articles/CBMipgJBVV95cUxNNmwzM2VteTZfZVp1eWVLWmdKNXZRdEd3LWlIaTFlbVhoZ0lHTkhBenNEWXpndl8wQmJnNUtCMk4xVHhtVWxtcU55VDRvblR6SkR0NkY2ZWV4NmJvRGk1QTdkSHBOLWJiVms1Qkd1MjVsZ08yVktHTmNUZngzeVJwaFVuMDVETGgzVEZmT0R6MWhBS1FGa1Z4Mks3MDRrYmRNSmZncFZNX2haS3BvNmpVOTdIdEdsbVRXc1prSUxKYmFaTHpnZlR4ZVNqelBoRWgtaFBNU05xV2NrVjYwcXdKUzdTdnVTQm9MMXp6S1FFeDA1M3ZoYS1XLTNiY1pwaFp0VmRLMjhicnJIcXdjSE5VeTc1YWdmMXBuOUZUV1Bud29CYllqNkE?oc=5)
+
+---
+
+### [New early 'clue' could be warning sign of 'first symptom of Alzheimer's' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
+
+2026-04-09 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
+
+---
+
+### [HM Cinac se consolida referente internacional en tratamiento de párkinson - Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHBxcFJMaXhLVVI0VTNPcHEzVW9UYnhZSV9RdlpaWENPTFZnWXdkeURjc0MyNUlCbXBST3I1ZWdIQ25GcWpLbWxLTFF6S3FYektvRkVOMWplbV9qQzNxaWZfN3A3dnUzelBBRXE1WVN3b3VPYl9qNHgzUGJZYnRwNm9SLWZwR0lRV3Jweldvc3h0OHQ2MEFCZDFEdXhFSC02ZDVYX09tSnZyRURvcnVQMVRFVkpDYTJpNTQ1YWVQLU05MFB0VmlZ0gHHAUFVX3lxTE5kbjU4VXBFdmE0OWxRUGxtNmRNQ19ibjRnMHBkUk9xYzFITXl5aHZpRHJmc19rQ1dqd1ZhbnBiNmRMd3NGcERLcHp5SFpLVFEwSHZtMHYxUXpCdnNNaWJ6bllycG9EWHZKRWYtRWMtOC1QMWxfTEZQcWVJZFk4M0g2QnFhQ1JTQjVqcjYyaVNyMjM5eGVhTTdDMU4xRDM2UlZTVEdySWcwYUV5RTQ1TzJnYWxQR1pGR3BMOXI3MzE2TWoyTGRFT1E?oc=5)
+
+2026-04-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHBxcFJMaXhLVVI0VTNPcHEzVW9UYnhZSV9RdlpaWENPTFZnWXdkeURjc0MyNUlCbXBST3I1ZWdIQ25GcWpLbWxLTFF6S3FYektvRkVOMWplbV9qQzNxaWZfN3A3dnUzelBBRXE1WVN3b3VPYl9qNHgzUGJZYnRwNm9SLWZwR0lRV3Jweldvc3h0OHQ2MEFCZDFEdXhFSC02ZDVYX09tSnZyRURvcnVQMVRFVkpDYTJpNTQ1YWVQLU05MFB0VmlZ0gHHAUFVX3lxTE5kbjU4VXBFdmE0OWxRUGxtNmRNQ19ibjRnMHBkUk9xYzFITXl5aHZpRHJmc19rQ1dqd1ZhbnBiNmRMd3NGcERLcHp5SFpLVFEwSHZtMHYxUXpCdnNNaWJ6bllycG9EWHZKRWYtRWMtOC1QMWxfTEZQcWVJZFk4M0g2QnFhQ1JTQjVqcjYyaVNyMjM5eGVhTTdDMU4xRDM2UlZTVEdySWcwYUV5RTQ1TzJnYWxQR1pGR3BMOXI3MzE2TWoyTGRFT1E?oc=5)
 
 ---
 
@@ -65,14 +81,6 @@ permalink: /news/carbidopa/
 2026-04-09 <span class="news-indication-tag">dementia</span>
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMirgFBVV95cUxPaXpZd2JuVEdtdnR6TzE2VlhDeFo1X1pjUUxSb1V3SXNJUW1hdElOTGZiQ3VlMW13SGpYZ1dHQ2lIM1ZPRjdyZXFSSjNBVFl1Q2c4OVdNRGpEbDhNczhTbnQ1d3NnQ3plUEFZWUJtUk9tWlV0MUlUTGxaV1c5bXBnN2M5NXhNUlI2OVhkVWlQNzBuOFVRamZhQm5sWnJFOHh3Vl9PNmVMLUw0eEtJSXfSAbQBQVVfeXFMTzFxNVFkeXdBbmp6Wm53YTVsX1JsbGY3enJiV1ozd0NXX21KT3pHREIyanhfLUdyZVhVdm9zeWZRVm83b0JjMDBXVmxLM2ZfRHZTSmJOVktOdVhGVDFLeUZvdlgtZExpZXlMZHZ4ZlNnVm1LRmFKVTFDR2o2UGpUY3ZzNmNodWZhMW1DWW9jQ1dldkhuUHlhbUtuaHl4N1VXRlF3X21KcEl2TWJ6NTNleXEwOFAx?oc=5)
-
----
-
-### [HM CINAC lidera un ensayo internacional que evalúa el impacto del HIFU en estadio temprano de Parkinson](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTENIUVhGeE5OTWt6bU9RS1lvZ3J2eU01R1k5U2trbFRWU1o3RENLUnhXZm5WODQyUW4wc3RlVXlPMFItamJ0MmVKYnNBOXFDTTJIcUdDeG5MMUFKcHFnTjY5S3hiT1B1OU42ckVnNFBsM09rbjBZSWxscDZ0dTZwSGRYUzhOV2lvRm1XWEpRVVczSE1UWnpkbnU5T25ZQUVoSW1jS2JrYmtUVmlMUXFhenFLWXk2ZjR3WTdySmZKeTdIaEpHa2tTbE5GQ1l6dllMekd1RkpmeUZfUTA5NHhHMTln?oc=5)
-
-2026-04-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTENIUVhGeE5OTWt6bU9RS1lvZ3J2eU01R1k5U2trbFRWU1o3RENLUnhXZm5WODQyUW4wc3RlVXlPMFItamJ0MmVKYnNBOXFDTTJIcUdDeG5MMUFKcHFnTjY5S3hiT1B1OU42ckVnNFBsM09rbjBZSWxscDZ0dTZwSGRYUzhOV2lvRm1XWEpRVVczSE1UWnpkbnU5T25ZQUVoSW1jS2JrYmtUVmlMUXFhenFLWXk2ZjR3WTdySmZKeTdIaEpHa2tTbE5GQ1l6dllMekd1RkpmeUZfUTA5NHhHMTln?oc=5)
 
 ---
 

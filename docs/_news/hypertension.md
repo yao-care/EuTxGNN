@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ipertensione（hypertension） 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# ipertensione（hypertension） 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
-<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Scientists May Have Found a New Cause of High Blood Pressure, And a Way to Treat It](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcW1fZUVGNU9KNUp4NVZJUTlCOThlZy1RU2pBeDIzaFo1eVRILW1XR1VLSzJobDlwWWN5LUpHbkNtTUl2MTBWX1lIWlcyMXhtSmJwTHhldEFCOUluTTAxWTBYa0Z5bjVjYWtGNkxESjRGRzE2SnNWMFZYSmQxVllyNjE5SE84VDNrR0d0dTNyYVNDbFZrS3pmaHdRUzVEamwxRm4yRFk4RFpJU1RvSnlMTQ?oc=5)
+
+2026-04-10
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcW1fZUVGNU9KNUp4NVZJUTlCOThlZy1RU2pBeDIzaFo1eVRILW1XR1VLSzJobDlwWWN5LUpHbkNtTUl2MTBWX1lIWlcyMXhtSmJwTHhldEFCOUluTTAxWTBYa0Z5bjVjYWtGNkxESjRGRzE2SnNWMFZYSmQxVllyNjE5SE84VDNrR0d0dTNyYVNDbFZrS3pmaHdRUzVEamwxRm4yRFk4RFpJU1RvSnlMTQ?oc=5)
+
+---
 
 ### [Ipertensione «resistente»: come trattarla con successo e cosa si profila all’orizzonte - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
 

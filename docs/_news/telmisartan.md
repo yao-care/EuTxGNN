@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Scientists May Have Found a New Cause of High Blood Pressure, And a Way to Treat It](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcW1fZUVGNU9KNUp4NVZJUTlCOThlZy1RU2pBeDIzaFo1eVRILW1XR1VLSzJobDlwWWN5LUpHbkNtTUl2MTBWX1lIWlcyMXhtSmJwTHhldEFCOUluTTAxWTBYa0Z5bjVjYWtGNkxESjRGRzE2SnNWMFZYSmQxVllyNjE5SE84VDNrR0d0dTNyYVNDbFZrS3pmaHdRUzVEamwxRm4yRFk4RFpJU1RvSnlMTQ?oc=5)
+
+2026-04-10 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcW1fZUVGNU9KNUp4NVZJUTlCOThlZy1RU2pBeDIzaFo1eVRILW1XR1VLSzJobDlwWWN5LUpHbkNtTUl2MTBWX1lIWlcyMXhtSmJwTHhldEFCOUluTTAxWTBYa0Z5bjVjYWtGNkxESjRGRzE2SnNWMFZYSmQxVllyNjE5SE84VDNrR0d0dTNyYVNDbFZrS3pmaHdRUzVEamwxRm4yRFk4RFpJU1RvSnlMTQ?oc=5)
+
+---
+
+### [My obsession with having the perfect face nearly gave me a stroke - Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxORVZlRjFHcFdKb0RITGEyay1tb3RuZVBETXltNVlzYld0N3ZFekZYM2FucDNBZGE0S3R1WHZvZVBFRFRaWFg3NHdrTkRZYVZ6aFRFVzEwQlFQQmJtSUNtMTV4dGxEQUlzTTlYOGtMdWFxY3B1cHV2amxXOFF3WHNXY0g1UlQxaGk0d3FGWGgyODNNbThRNlE2VXBqY25ydlZpSEJ3alcxNktoUHNDTE8tV015Yw?oc=5)
+
+2026-04-09 <span class="news-indication-tag">stroke</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMiswFBVV95cUxORVZlRjFHcFdKb0RITGEyay1tb3RuZVBETXltNVlzYld0N3ZFekZYM2FucDNBZGE0S3R1WHZvZVBFRFRaWFg3NHdrTkRZYVZ6aFRFVzEwQlFQQmJtSUNtMTV4dGxEQUlzTTlYOGtMdWFxY3B1cHV2amxXOFF3WHNXY0g1UlQxaGk0d3FGWGgyODNNbThRNlE2VXBqY25ydlZpSEJ3alcxNktoUHNDTE8tV015Yw?oc=5)
+
+---
 
 ### [El TAC, capaz de predecir la insuficiencia cardíaca años antes de aparecer - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
 
@@ -62,7 +78,7 @@ permalink: /news/telmisartan/
 
 ### [Scientists develop AI tool to spot heart failure risk five years before it strikes - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
 
-2026-04-08 <span class="news-indication-tag">heart disease</span>
+2026-04-08 <span class="news-indication-tag">heart failure</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
 
@@ -73,14 +89,6 @@ permalink: /news/telmisartan/
 2026-04-08 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
-
----
-
-### [La neuróloga Elena Zapata ofrece en Lebrija una charla clave para reconocer y prevenir el ictus - Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
-
-2026-04-08 <span class="news-indication-tag">ictus</span>
-
-來源：[Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
 
 ---
 

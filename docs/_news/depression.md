@@ -37,11 +37,11 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
-### [Depression, Angst: Bei 2-3 Tassen Kaffee am Tag niedrigstes Risiko](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmZZZ0hGR0lEQzdmUzQzZzFyeHhTVE4yaFFKWkJfY2cxMjNidXNFbF9DNnhzOTdWSnV2NWMxaFM4MHNvN2tza01QV2xGdXQtbTZzSlF3SThZbS12M3ViR3lwVnBVY3ZscjVuQUs0UmJ0cGg5UGEzVDVMVGR1XzhWMVo2V2NxSFhuekJhbExCbEVZVFBRQ1ZsdDdxSjd3VmRqd3c?oc=5)
+### [Depression bei jungen Vätern: Wann sie besonders gefährdet sind](https://news.google.com/rss/articles/CBMilgFBVV95cUxObjd0eEhubTJxQmtLdVNiWF9UVXp2YXdaSTJCZXVlMXJsNFVmcUdGcXkwaG1CZS1tdFY4a0ZSSW13NGhkY2h2UDl6dGZ1Zk5SUFNpaXRWaTdINDJ3YkM2NmZRampqNjlFS1RwRUxaaFFTOGstNExPX0tiQk92QjBtSFl0YnFnbnNFbHJyek5hYmpJcEpYVmc?oc=5)
 
 2026-04-10
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmZZZ0hGR0lEQzdmUzQzZzFyeHhTVE4yaFFKWkJfY2cxMjNidXNFbF9DNnhzOTdWSnV2NWMxaFM4MHNvN2tza01QV2xGdXQtbTZzSlF3SThZbS12M3ViR3lwVnBVY3ZscjVuQUs0UmJ0cGg5UGEzVDVMVGR1XzhWMVo2V2NxSFhuekJhbExCbEVZVFBRQ1ZsdDdxSjd3VmRqd3c?oc=5)
+來源：[WEB.DE](https://news.google.com/rss/articles/CBMilgFBVV95cUxObjd0eEhubTJxQmtLdVNiWF9UVXp2YXdaSTJCZXVlMXJsNFVmcUdGcXkwaG1CZS1tdFY4a0ZSSW13NGhkY2h2UDl6dGZ1Zk5SUFNpaXRWaTdINDJ3YkM2NmZRampqNjlFS1RwRUxaaFFTOGstNExPX0tiQk92QjBtSFl0YnFnbnNFbHJyek5hYmpJcEpYVmc?oc=5)
 
 ---
 

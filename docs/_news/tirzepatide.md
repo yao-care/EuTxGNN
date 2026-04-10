@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Descubren la ‘llave genética’ que potencia (o bloquea) el efecto adelgazante de Ozempic - National Geographic España](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXpWQ2JsRjdnTVN6cXZxWFVEOGhhQjRhc1RNWHhsNzh5U0dZb0RIYjh6X2FaS240NzlmX2sySHE1Sm56VTFUdW9FWXVuS3ZEZWZMb2FfbGwycWo1VktxZGh1ZFVLWC1EM3E4WW4xWkZCbE51S1F0M09wUHhmR2JTQlFnV3dZVWpBdml1QXhJQmo0OTFQOXhmTzNZU3didzRzUUU3OXNFUVVPZ0Fqd0Z5Nndaa0hKY0pQMTlKQXFielRabUFBNTMzeWFHemxWUEpDOXh6ZmtneVlPQnh6T3JIY0Y4SjlUUQ?oc=5)
+
+2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXpWQ2JsRjdnTVN6cXZxWFVEOGhhQjRhc1RNWHhsNzh5U0dZb0RIYjh6X2FaS240NzlmX2sySHE1Sm56VTFUdW9FWXVuS3ZEZWZMb2FfbGwycWo1VktxZGh1ZFVLWC1EM3E4WW4xWkZCbE51S1F0M09wUHhmR2JTQlFnV3dZVWpBdml1QXhJQmo0OTFQOXhmTzNZU3didzRzUUU3OXNFUVVPZ0Fqd0Z5Nndaa0hKY0pQMTlKQXFielRabUFBNTMzeWFHemxWUEpDOXh6ZmtneVlPQnh6T3JIY0Y4SjlUUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

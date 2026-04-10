@@ -44,6 +44,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（4 則）
 
+### [Descubren la ‘llave genética’ que potencia (o bloquea) el efecto adelgazante de Ozempic - National Geographic España](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXpWQ2JsRjdnTVN6cXZxWFVEOGhhQjRhc1RNWHhsNzh5U0dZb0RIYjh6X2FaS240NzlmX2sySHE1Sm56VTFUdW9FWXVuS3ZEZWZMb2FfbGwycWo1VktxZGh1ZFVLWC1EM3E4WW4xWkZCbE51S1F0M09wUHhmR2JTQlFnV3dZVWpBdml1QXhJQmo0OTFQOXhmTzNZU3didzRzUUU3OXNFUVVPZ0Fqd0Z5Nndaa0hKY0pQMTlKQXFielRabUFBNTMzeWFHemxWUEpDOXh6ZmtneVlPQnh6T3JIY0Y4SjlUUQ?oc=5)
+
+2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXpWQ2JsRjdnTVN6cXZxWFVEOGhhQjRhc1RNWHhsNzh5U0dZb0RIYjh6X2FaS240NzlmX2sySHE1Sm56VTFUdW9FWXVuS3ZEZWZMb2FfbGwycWo1VktxZGh1ZFVLWC1EM3E4WW4xWkZCbE51S1F0M09wUHhmR2JTQlFnV3dZVWpBdml1QXhJQmo0OTFQOXhmTzNZU3didzRzUUU3OXNFUVVPZ0Fqd0Z5Nndaa0hKY0pQMTlKQXFielRabUFBNTMzeWFHemxWUEpDOXh6ZmtneVlPQnh6T3JIY0Y4SjlUUQ?oc=5)
+
+---
+
 ### [Bienestar dental y bienestar general: la conexión que la mayoría subestima - KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
 
 2026-04-09 <span class="news-indication-tag">diabetes</span>
@@ -65,14 +73,6 @@ permalink: /news/semaglutide/
 2026-04-09 <span class="news-indication-tag">diabetes</span>
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
-
----
-
-### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
-
-2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
 
 ---
 
