@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Grazoprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
+
+### [Diese Alltags-Lebensmittel bremsen heimlich deinen Gewichtsverlust - FIT FOR FUN](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWTJZT0RuZnVkak9RZUp5TkxoTzBOdFBwb0V1dDFfNS01UE1kZVBVZGphNEZkSl9uaW9NWDNEdFNJNV8xNTdzLThJdDB5UjRMb0pEcTh4LXJ6WmFoOTdmRFlPQjlSQ1pvaEFvWXVUVkRuOUg2UjBiTXBuNDFfdEFRd01BLUtQc2g2bnBTU1F5T0NuSThzOXNVNkVzdzQ0LUp1M0lla1J2RVlSMXUzNzk2TUtfZW1ETEZtbWhMdm1pVDZmUVREaHYxRXNwejdDMjRfSk1aWkR6MXJsUQ?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWTJZT0RuZnVkak9RZUp5TkxoTzBOdFBwb0V1dDFfNS01UE1kZVBVZGphNEZkSl9uaW9NWDNEdFNJNV8xNTdzLThJdDB5UjRMb0pEcTh4LXJ6WmFoOTdmRFlPQjlSQ1pvaEFvWXVUVkRuOUg2UjBiTXBuNDFfdEFRd01BLUtQc2g2bnBTU1F5T0NuSThzOXNVNkVzdzQ0LUp1M0lla1J2RVlSMXUzNzk2TUtfZW1ETEZtbWhMdm1pVDZmUVREaHYxRXNwejdDMjRfSk1aWkR6MXJsUQ?oc=5)
+
+---
+
+### [Nuevo avance contra el Alzheimer: cómo los astrocitos modificados eliminan el amiloide en modelos animales - Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
+
+---
+
+### [Warning to some vitamin D users as NHS doctor says 'this is bad' - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1rcFI5MjJ4LWY1Q18zSkFzcEJILWRjb2ZtRE52cjVLQzdTdnp0TzR2bkxhWmtyZzY3cDhTV05FNllXRUZJOHU4RzBfeGNwWWVHei1rSVY0V2kzdzBzbFR2OWY1R01nc1BYS05zbFhCZ0t3SjhWbThub21rMVpZdw?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1rcFI5MjJ4LWY1Q18zSkFzcEJILWRjb2ZtRE52cjVLQzdTdnp0TzR2bkxhWmtyZzY3cDhTV05FNllXRUZJOHU4RzBfeGNwWWVHei1rSVY0V2kzdzBzbFR2OWY1R01nc1BYS05zbFhCZ0t3SjhWbThub21rMVpZdw?oc=5)
+
+---
 
 ### [FSME: Neue Erkenntnisse zum Krankheitsverlauf](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkctQ1QybzBYYUJXOUVkVU9FaXJwT2VUUjlyZEF3UE8yOXdDbF9lMUNNOWQ0ZmZncFJ5NGJFV05wNjFnUjFlX1pISERaS2ZmY0xYVnNERXdMWXhIMmVqSDBCM0FJX0V4a1ktZ0s1YkR4cV9KMDhzZF9BRENWT0dRcUp5OW9HUUM3?oc=5)
 
@@ -68,14 +92,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [El hallazgo en la microbiota intestinal que podría ayudar a detectar la demencia años antes - 65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWRtMTlISW05NkRzM1pfbDV3VWVMeU5rblhURlZscVRxRHMtLTV2a2pZTmJNWHluSllES3RMRW5VcHNnV1FIeGowSkxRV2VCVGd0d1dwal81SXhnMHRHUVJGNzJEVHpqU3o1U2wtVmxBU2FZWV9Jby1PZUZyYWo3cER0Tk9laXRFVERjaHVpTkctQXZqTk5wZWRqQjFMQXZSLW1tTkRMcTNxa0I1bnFZZm4xek9FVzc5Q3d6WQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWRtMTlISW05NkRzM1pfbDV3VWVMeU5rblhURlZscVRxRHMtLTV2a2pZTmJNWHluSllES3RMRW5VcHNnV1FIeGowSkxRV2VCVGd0d1dwal81SXhnMHRHUVJGNzJEVHpqU3o1U2wtVmxBU2FZWV9Jby1PZUZyYWo3cER0Tk9laXRFVERjaHVpTkctQXZqTk5wZWRqQjFMQXZSLW1tTkRMcTNxa0I1bnFZZm4xek9FVzc5Q3d6WQ?oc=5)
-
----
-
 ### [Wie drei kleine Veränderungen Ihre Herzgesundheit schützen - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3EyYXFYTDRhY2RZdXk1LTJ4eU1PQ1VETW1NR3h6OUdRRUNQdktTZ0ZPdEpZSXVlZFd5QWpZQ2IzV0RBRzBlVmx2QVBpcVJiZVVoVHJNZ0lsSUd3c1hEUldhanFwdnhHQVVFZG54eDZKNFBQZGVIWWV5Sm5EbTNMd3BpXy1uaDBEa1FScXdPRnkxQmxMbTAwNWc5d01POWNN?oc=5)
 
 2026-04-10 <span class="news-indication-tag">MS</span>
@@ -84,7 +100,15 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [ChatGPT diagnoses Cardiff woman's rare condition](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
+### [Reversible male contraception just took a huge step towards becoming a reality](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNwM1dNUEVfVVRta3NnWFVQbllBdzNBSE5NN2xRQXU2cG8wQ3hpZDZkS01jRVM3MVM3QTVkZEZNVERzQTdacDdwTzJ2N200eW5CcFhIRnhVR0xibVA2ZFBHZ2hxX09KWXdBUEtkMXloQ25rWm5wV2IzemVrWm5hSWRDclFNbWllZWF6eER2THBfTU9PeTlGR09SQW5jUTJiS1BGdWg0RnVkbmlra0hyTU5aOFU?oc=5)
+
+2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNwM1dNUEVfVVRta3NnWFVQbllBdzNBSE5NN2xRQXU2cG8wQ3hpZDZkS01jRVM3MVM3QTVkZEZNVERzQTdacDdwTzJ2N200eW5CcFhIRnhVR0xibVA2ZFBHZ2hxX09KWXdBUEtkMXloQ25rWm5wV2IzemVrWm5hSWRDclFNbWllZWF6eER2THBfTU9PeTlGR09SQW5jUTJiS1BGdWg0RnVkbmlra0hyTU5aOFU?oc=5)
+
+---
+
+### [ChatGPT 'uncovered woman's rare condition' after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
 
 2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
@@ -100,11 +124,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Tumorzelleigenes „Alarmsystem“ verbessert Wirksamkeit der CAR-T-Zell-Therapie - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xUEo4TGx2OVhLQWRZR1llUG5lQTc2Q21mMXdBRVFDMF9pVUQ4NTNzcFo5S1I0V1N5dXJLcTJWbGN5T09YbXo5WElQMA?oc=5)
+### [Tumorzelleigenes „Alarmsystem“ verbessert Wirksamkeit der CAR-T-Zell-Therapie - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOX252ZnBsdEpNUUQ1S3ZHMkhQRlV3ekZPNFExdkU1UEFlVzR1ckc1Wk9jazNBTkRHX0lMQnZZYWUwNG5pZ0VMdk9Dd1JrX3NvNGRTN01kNFhWMjIweThiRFFudW5HVVpXREY2X3J4aEVCWXByaEozdTNpYkxDYkwxekFXazJna0xSOUJqMDd0aXhVeEw4akJPUFNFSU9oQld5c3NWcU54bmJxa2V3MUVqOTMxM3NDbVV1OF8yUw?oc=5)
 
 2026-04-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xUEo4TGx2OVhLQWRZR1llUG5lQTc2Q21mMXdBRVFDMF9pVUQ4NTNzcFo5S1I0V1N5dXJLcTJWbGN5T09YbXo5WElQMA?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOX252ZnBsdEpNUUQ1S3ZHMkhQRlV3ekZPNFExdkU1UEFlVzR1ckc1Wk9jazNBTkRHX0lMQnZZYWUwNG5pZ0VMdk9Dd1JrX3NvNGRTN01kNFhWMjIweThiRFFudW5HVVpXREY2X3J4aEVCWXByaEozdTNpYkxDYkwxekFXazJna0xSOUJqMDd0aXhVeEw4akJPUFNFSU9oQld5c3NWcU54bmJxa2V3MUVqOTMxM3NDbVV1OF8yUw?oc=5)
 
 ---
 
@@ -124,11 +148,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [AI uncovers hidden immune defenses inside bacteria](https://news.google.com/rss/articles/CBMieEFVX3lxTE9td0pZSjJXWEg0T0QyczB0TDNDSnQwVUtsWVByUWRZQkxoOUU1SlcwM1AySW9sVm4wNl85VlJCT1VoWjg5OE4zdWJ3S29GTW56aWVkMHhIVV80Ml9mcWR6RTdYQlNoUHBIc1FDYXJ0YjJZTmkyUTRqZg?oc=5)
+### [L'alcol rende felici? E perché lo beviamo? Gli effetti (catastrofici) della sostanza nel cervello e nel corpo umano - Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXRMTzVkNUdkaWlUSHowMnhtSnVoaklFRnJLaUk4d3I1eHc1QjRVaHJ0WnEtTE1jMEpOOGkzUFBhNTBrcEVhRDRnZ0hrSnRfRDl6NWtiV1RrY05OMFktbTg0VEQ1UVBiWGYtMjhFN0loX2pFakVLcC1TZVQyY0dxVzAzQ1FnekJhaFpiaE1fZlhxVXlIUG5DXzR4c2VuS2xCQ2JqVDlaZEZSbWPSAaABQVVfeXFMT2RnWkxWT0pSVzE2MGNaZ0RYZ3V2ektNanFCTFREZktvbDhVRVZxS0JYdWc4QVRYRUNfQkQ4TV9QVEJoQTcxbGNXSmpYWHhHZ3VvYWowVV9qVE4tWTdfakU2SmlCR2EtZmJDT0FiT0ZkME9JVUhyU3BVTkdTenBqQjl6NmN4VUg2N3d1Y3V2bmZZM3RoZWY1V042T0lTdl9nSg?oc=5)
 
-2026-04-08 <span class="news-indication-tag">MS</span>
+2026-04-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[Phys.org](https://news.google.com/rss/articles/CBMieEFVX3lxTE9td0pZSjJXWEg0T0QyczB0TDNDSnQwVUtsWVByUWRZQkxoOUU1SlcwM1AySW9sVm4wNl85VlJCT1VoWjg5OE4zdWJ3S29GTW56aWVkMHhIVV80Ml9mcWR6RTdYQlNoUHBIc1FDYXJ0YjJZTmkyUTRqZg?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXRMTzVkNUdkaWlUSHowMnhtSnVoaklFRnJLaUk4d3I1eHc1QjRVaHJ0WnEtTE1jMEpOOGkzUFBhNTBrcEVhRDRnZ0hrSnRfRDl6NWtiV1RrY05OMFktbTg0VEQ1UVBiWGYtMjhFN0loX2pFakVLcC1TZVQyY0dxVzAzQ1FnekJhaFpiaE1fZlhxVXlIUG5DXzR4c2VuS2xCQ2JqVDlaZEZSbWPSAaABQVVfeXFMT2RnWkxWT0pSVzE2MGNaZ0RYZ3V2ektNanFCTFREZktvbDhVRVZxS0JYdWc4QVRYRUNfQkQ4TV9QVEJoQTcxbGNXSmpYWHhHZ3VvYWowVV9qVE4tWTdfakU2SmlCR2EtZmJDT0FiT0ZkME9JVUhyU3BVTkdTenBqQjl6NmN4VUg2N3d1Y3V2bmZZM3RoZWY1V042T0lTdl9nSg?oc=5)
 
 ---
 

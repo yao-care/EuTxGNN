@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cabotegravir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Bienestar dental y bienestar general: la conexión que la mayoría subestima - KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
+### [Highlights vom Diabetes-Update: Prävention, Longevity und mehr](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGZBR0FocEMtQUNHanBCRU12NDZwcmQxZzhqTDQzVXlCdkp1VUV6NVFvVmFpYnNsQjJVMzRFTGd2cGtSUXdVaXJBcGxfemRac1Y3Y193S21yR2hTaDYyakVkVVd6RlR6U21IWHhpRmEwejAzMjJORlFCbHZwR01YRlB5bXA3NFJXeVFBanZWRW53Y3ZmVGxjcmRLeWpPUGRMb3c1bWpuZXZrcnlkZVhDTTVabUgzZw?oc=5)
 
-2026-04-09 <span class="news-indication-tag">diabetes</span>
+2026-04-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGZBR0FocEMtQUNHanBCRU12NDZwcmQxZzhqTDQzVXlCdkp1VUV6NVFvVmFpYnNsQjJVMzRFTGd2cGtSUXdVaXJBcGxfemRac1Y3Y193S21yR2hTaDYyakVkVVd6RlR6U21IWHhpRmEwejAzMjJORlFCbHZwR01YRlB5bXA3NFJXeVFBanZWRW53Y3ZmVGxjcmRLeWpPUGRMb3c1bWpuZXZrcnlkZVhDTTVabUgzZw?oc=5)
+
+---
+
+### [Selon des chercheurs, ce trait de personnalité courant accélère le déclin chez les patients atteints d'Alzheimer](https://news.google.com/rss/articles/CBMizwFBVV95cUxOXzlLdlgyMWVmcUdSd2xlcENaRFRxTlN4aEswYnlmX0pqM1VZck1qcTlJVnRTcDhuTmpMWHZxYnhRNTNVZnhkaGZPZ3Q2MjBydEtBSTdWeEdCV1hTbFN5R1Atd3g3RkgtdUJ1Mml4ZFRHRFpxTnNILWhHMTZTc1dINzAtdThqZ3lhVjFfS1Z6RTlDejdwQklmWTJkU3pGU05lTUxaS1F4bUNCWE54S09PSENtdm9sMnRBcXk1clk5LUFDR0wyOHVaUzE2Y3o3QWc?oc=5)
+
+2026-04-10 <span class="news-indication-tag">EPOC</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOXzlLdlgyMWVmcUdSd2xlcENaRFRxTlN4aEswYnlmX0pqM1VZck1qcTlJVnRTcDhuTmpMWHZxYnhRNTNVZnhkaGZPZ3Q2MjBydEtBSTdWeEdCV1hTbFN5R1Atd3g3RkgtdUJ1Mml4ZFRHRFpxTnNILWhHMTZTc1dINzAtdThqZ3lhVjFfS1Z6RTlDejdwQklmWTJkU3pGU05lTUxaS1F4bUNCWE54S09PSENtdm9sMnRBcXk1clk5LUFDR0wyOHVaUzE2Y3o3QWc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/macitentan/
 ---
 
 <p class="key-answer" data-question="Macitentan 有什麼相關新聞？">
-<strong>Macitentan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Macitentan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/macitentan/
 <p><a href="{{ '/drugs/macitentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Scientists May Have Found a New Cause of High Blood Pressure, And a Way to Treat It](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcW1fZUVGNU9KNUp4NVZJUTlCOThlZy1RU2pBeDIzaFo1eVRILW1XR1VLSzJobDlwWWN5LUpHbkNtTUl2MTBWX1lIWlcyMXhtSmJwTHhldEFCOUluTTAxWTBYa0Z5bjVjYWtGNkxESjRGRzE2SnNWMFZYSmQxVllyNjE5SE84VDNrR0d0dTNyYVNDbFZrS3pmaHdRUzVEamwxRm4yRFk4RFpJU1RvSnlMTQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcW1fZUVGNU9KNUp4NVZJUTlCOThlZy1RU2pBeDIzaFo1eVRILW1XR1VLSzJobDlwWWN5LUpHbkNtTUl2MTBWX1lIWlcyMXhtSmJwTHhldEFCOUluTTAxWTBYa0Z5bjVjYWtGNkxESjRGRzE2SnNWMFZYSmQxVllyNjE5SE84VDNrR0d0dTNyYVNDbFZrS3pmaHdRUzVEamwxRm4yRFk4RFpJU1RvSnlMTQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Ipertensione «resistente»: come trattarla con successo e cosa si profila all’orizzonte - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
 
 2026-04-09 <span class="news-indication-tag">ipertensione</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
-
----
-
-### [Bluthochdruck: Bringt ein neues Medikament den Durchbruch?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
-
-2026-04-08 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Depression bei jungen Vätern: Wann sie besonders gefährdet sind](https://news.google.com/rss/articles/CBMilgFBVV95cUxObjd0eEhubTJxQmtLdVNiWF9UVXp2YXdaSTJCZXVlMXJsNFVmcUdGcXkwaG1CZS1tdFY4a0ZSSW13NGhkY2h2UDl6dGZ1Zk5SUFNpaXRWaTdINDJ3YkM2NmZRampqNjlFS1RwRUxaaFFTOGstNExPX0tiQk92QjBtSFl0YnFnbnNFbHJyek5hYmpJcEpYVmc?oc=5)
 
 2026-04-10
 
 來源：[WEB.DE](https://news.google.com/rss/articles/CBMilgFBVV95cUxObjd0eEhubTJxQmtLdVNiWF9UVXp2YXdaSTJCZXVlMXJsNFVmcUdGcXkwaG1CZS1tdFY4a0ZSSW13NGhkY2h2UDl6dGZ1Zk5SUFNpaXRWaTdINDJ3YkM2NmZRampqNjlFS1RwRUxaaFFTOGstNExPX0tiQk92QjBtSFl0YnFnbnNFbHJyek5hYmpJcEpYVmc?oc=5)
+
+---
+
+### [Depression, Angst: Bei 2-3 Tassen Kaffee am Tag niedrigstes Risiko](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmZZZ0hGR0lEQzdmUzQzZzFyeHhTVE4yaFFKWkJfY2cxMjNidXNFbF9DNnhzOTdWSnV2NWMxaFM4MHNvN2tza01QV2xGdXQtbTZzSlF3SThZbS12M3ViR3lwVnBVY3ZscjVuQUs0UmJ0cGg5UGEzVDVMVGR1XzhWMVo2V2NxSFhuekJhbExCbEVZVFBRQ1ZsdDdxSjd3VmRqd3c?oc=5)
+
+2026-04-09
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmZZZ0hGR0lEQzdmUzQzZzFyeHhTVE4yaFFKWkJfY2cxMjNidXNFbF9DNnhzOTdWSnV2NWMxaFM4MHNvN2tza01QV2xGdXQtbTZzSlF3SThZbS12M3ViR3lwVnBVY3ZscjVuQUs0UmJ0cGg5UGEzVDVMVGR1XzhWMVo2V2NxSFhuekJhbExCbEVZVFBRQ1ZsdDdxSjd3VmRqd3c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Netupitant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Scientists May Have Found a New Cause of High Blood Pressure, And a Way to Treat It](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcW1fZUVGNU9KNUp4NVZJUTlCOThlZy1RU2pBeDIzaFo1eVRILW1XR1VLSzJobDlwWWN5LUpHbkNtTUl2MTBWX1lIWlcyMXhtSmJwTHhldEFCOUluTTAxWTBYa0Z5bjVjYWtGNkxESjRGRzE2SnNWMFZYSmQxVllyNjE5SE84VDNrR0d0dTNyYVNDbFZrS3pmaHdRUzVEamwxRm4yRFk4RFpJU1RvSnlMTQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcW1fZUVGNU9KNUp4NVZJUTlCOThlZy1RU2pBeDIzaFo1eVRILW1XR1VLSzJobDlwWWN5LUpHbkNtTUl2MTBWX1lIWlcyMXhtSmJwTHhldEFCOUluTTAxWTBYa0Z5bjVjYWtGNkxESjRGRzE2SnNWMFZYSmQxVllyNjE5SE84VDNrR0d0dTNyYVNDbFZrS3pmaHdRUzVEamwxRm4yRFk4RFpJU1RvSnlMTQ?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [El TAC, capaz de predecir la insuficiencia cardíaca años antes de aparecer - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
 
@@ -73,14 +65,6 @@ permalink: /news/netupitant/
 2026-04-08 <span class="news-indication-tag">heart failure</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
-
----
-
-### [Bluthochdruck: Bringt ein neues Medikament den Durchbruch?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
-
-2026-04-08 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
 
 ---
 

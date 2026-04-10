@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Selon des chercheurs, ce trait de personnalité courant accélère le déclin chez les patients atteints d'Alzheimer](https://news.google.com/rss/articles/CBMizwFBVV95cUxOXzlLdlgyMWVmcUdSd2xlcENaRFRxTlN4aEswYnlmX0pqM1VZck1qcTlJVnRTcDhuTmpMWHZxYnhRNTNVZnhkaGZPZ3Q2MjBydEtBSTdWeEdCV1hTbFN5R1Atd3g3RkgtdUJ1Mml4ZFRHRFpxTnNILWhHMTZTc1dINzAtdThqZ3lhVjFfS1Z6RTlDejdwQklmWTJkU3pGU05lTUxaS1F4bUNCWE54S09PSENtdm9sMnRBcXk1clk5LUFDR0wyOHVaUzE2Y3o3QWc?oc=5)
+
+2026-04-10 <span class="news-indication-tag">EPOC</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOXzlLdlgyMWVmcUdSd2xlcENaRFRxTlN4aEswYnlmX0pqM1VZck1qcTlJVnRTcDhuTmpMWHZxYnhRNTNVZnhkaGZPZ3Q2MjBydEtBSTdWeEdCV1hTbFN5R1Atd3g3RkgtdUJ1Mml4ZFRHRFpxTnNILWhHMTZTc1dINzAtdThqZ3lhVjFfS1Z6RTlDejdwQklmWTJkU3pGU05lTUxaS1F4bUNCWE54S09PSENtdm9sMnRBcXk1clk5LUFDR0wyOHVaUzE2Y3o3QWc?oc=5)
+
+---
 
 ### [Maladie de Parkinson : diagnostic, hérédité, symptômes… Dix réponses d’un neurologue et d’une infirmière à vos questions](https://news.google.com/rss/articles/CBMipgJBVV95cUxNNmwzM2VteTZfZVp1eWVLWmdKNXZRdEd3LWlIaTFlbVhoZ0lHTkhBenNEWXpndl8wQmJnNUtCMk4xVHhtVWxtcU55VDRvblR6SkR0NkY2ZWV4NmJvRGk1QTdkSHBOLWJiVms1Qkd1MjVsZ08yVktHTmNUZngzeVJwaFVuMDVETGgzVEZmT0R6MWhBS1FGa1Z4Mks3MDRrYmRNSmZncFZNX2haS3BvNmpVOTdIdEdsbVRXc1prSUxKYmFaTHpnZlR4ZVNqelBoRWgtaFBNU05xV2NrVjYwcXdKUzdTdnVTQm9MMXp6S1FFeDA1M3ZoYS1XLTNiY1pwaFp0VmRLMjhicnJIcXdjSE5VeTc1YWdmMXBuOUZUV1Bud29CYllqNkE?oc=5)
 

@@ -44,11 +44,11 @@ permalink: /news/saxagliptin/
 
 ## 相關新聞（3 則）
 
-### [Bienestar dental y bienestar general: la conexión que la mayoría subestima - KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
+### [Highlights vom Diabetes-Update: Prävention, Longevity und mehr](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGZBR0FocEMtQUNHanBCRU12NDZwcmQxZzhqTDQzVXlCdkp1VUV6NVFvVmFpYnNsQjJVMzRFTGd2cGtSUXdVaXJBcGxfemRac1Y3Y193S21yR2hTaDYyakVkVVd6RlR6U21IWHhpRmEwejAzMjJORlFCbHZwR01YRlB5bXA3NFJXeVFBanZWRW53Y3ZmVGxjcmRLeWpPUGRMb3c1bWpuZXZrcnlkZVhDTTVabUgzZw?oc=5)
 
-2026-04-09 <span class="news-indication-tag">diabetes</span>
+2026-04-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGZBR0FocEMtQUNHanBCRU12NDZwcmQxZzhqTDQzVXlCdkp1VUV6NVFvVmFpYnNsQjJVMzRFTGd2cGtSUXdVaXJBcGxfemRac1Y3Y193S21yR2hTaDYyakVkVVd6RlR6U21IWHhpRmEwejAzMjJORlFCbHZwR01YRlB5bXA3NFJXeVFBanZWRW53Y3ZmVGxjcmRLeWpPUGRMb3c1bWpuZXZrcnlkZVhDTTVabUgzZw?oc=5)
 
 ---
 

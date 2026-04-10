@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Descubren la ‘llave genética’ que potencia (o bloquea) el efecto adelgazante de Ozempic - National Geographic España](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXpWQ2JsRjdnTVN6cXZxWFVEOGhhQjRhc1RNWHhsNzh5U0dZb0RIYjh6X2FaS240NzlmX2sySHE1Sm56VTFUdW9FWXVuS3ZEZWZMb2FfbGwycWo1VktxZGh1ZFVLWC1EM3E4WW4xWkZCbE51S1F0M09wUHhmR2JTQlFnV3dZVWpBdml1QXhJQmo0OTFQOXhmTzNZU3didzRzUUU3OXNFUVVPZ0Fqd0Z5Nndaa0hKY0pQMTlKQXFielRabUFBNTMzeWFHemxWUEpDOXh6ZmtneVlPQnh6T3JIY0Y4SjlUUQ?oc=5)
+### [Los genes pueden explicar la eficacia de fármacos adelgazantes](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3VzQjNDQWMwUFpCTzNFc1NLZkx5QWl4TXJHeEY3Y09md09NVGIyVnRVRHV5VnRMS3p4VVV1anc1MEhXSFZzNUN5RFZOYVlOOVlJaFVwMWM5VFVtYnBXbEZVSVlFSHdOT212Nmxzd1E5N0RxZWx4eXdJNXVuLWhBWVgzd3d0d1FEUzAxYkxOTWJacFpubWFxTVRGWWJ3WnJ5T1ZMR3QtcEREdGQ2bzUxNFlxTlRSVThyOXVvVTBYN1gwcjFNdHB0U2NmSQ?oc=5)
 
 2026-04-10
 
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXpWQ2JsRjdnTVN6cXZxWFVEOGhhQjRhc1RNWHhsNzh5U0dZb0RIYjh6X2FaS240NzlmX2sySHE1Sm56VTFUdW9FWXVuS3ZEZWZMb2FfbGwycWo1VktxZGh1ZFVLWC1EM3E4WW4xWkZCbE51S1F0M09wUHhmR2JTQlFnV3dZVWpBdml1QXhJQmo0OTFQOXhmTzNZU3didzRzUUU3OXNFUVVPZ0Fqd0Z5Nndaa0hKY0pQMTlKQXFielRabUFBNTMzeWFHemxWUEpDOXh6ZmtneVlPQnh6T3JIY0Y4SjlUUQ?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3VzQjNDQWMwUFpCTzNFc1NLZkx5QWl4TXJHeEY3Y09md09NVGIyVnRVRHV5VnRMS3p4VVV1anc1MEhXSFZzNUN5RFZOYVlOOVlJaFVwMWM5VFVtYnBXbEZVSVlFSHdOT212Nmxzd1E5N0RxZWx4eXdJNXVuLWhBWVgzd3d0d1FEUzAxYkxOTWJacFpubWFxTVRGWWJ3WnJ5T1ZMR3QtcEREdGQ2bzUxNFlxTlRSVThyOXVvVTBYN1gwcjFNdHB0U2NmSQ?oc=5)
 
 ---
 
@@ -54,7 +54,7 @@ permalink: /news/obesity/
 
 ---
 
-### [Grippe : ce nouveau vaccin protégerait mieux les adultes en obésité sévère](https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdFVUNklGbzRrLVB4WE94RmpuUGZBVW5YdUxDVnZSQm8wWlpPOW8yY21jX1NGRkJBbVhlTld1bzFwdUhiSVdySEdFN3JoM0o5YUhDSlJvYnF6SWk3UXk1aWtGOHFLRENmX1FHMQ?oc=5)
+### [Grippe : bientôt un vaccin plus efficace chez les personnes en obésité sévère ?](https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdFVUNklGbzRrLVB4WE94RmpuUGZBVW5YdUxDVnZSQm8wWlpPOW8yY21jX1NGRkJBbVhlTld1bzFwdUhiSVdySEdFN3JoM0o5YUhDSlJvYnF6SWk3UXk1aWtGOHFLRENmX1FHMQ?oc=5)
 
 2026-04-09
 
@@ -67,14 +67,6 @@ permalink: /news/obesity/
 2026-04-08
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczg0OEw3RURzUWZCSEJqUWVDWmxCY0FIYktfWnctNEVtLThIQ3FSRTlmZG1Wems5OE1xRXhCZy1YUEc4ZUJVQWlRZHRSUEREbms5dzMwN2tLbDh6OTEtRjIzdlB4Tm1ST01nSWFoVDIxOHBPYk5uRDVSdGlqWDdJdTdxSDNzVlNfZ3Y4a3ZPaGd4X0VkMG5zbVdyR2RHdFBLaG9qQmw4alhic1BEYjlnMUNUaTBtRmNaTXlZSVhSN1F4Rm_SAcgBQVVfeXFMUE5HMnhVWmNHMWhDelBNZnFRSGFad2cwRFdzbE56RlR4RjNsZWtFck8zeDA4bkl4YWJsaTRQcFIxWDk1cGthZHJtZ3p0U2UzSmpaZVh4XzQ4eUhCQ0tOVmFVRTNxWm9HWFlLbTYyQ21vYWJBS2Y2a1dSbUV3N0NsUVEwWTEwcVZRLTlSLTZtdTVfOVY4YXY5ekpIbzJVWGZFZUtWSnRWSWNkM3ZVazZLZF9MTFZOWXNwRGhKZEhjT0N3OE1mQmVDc2M?oc=5)
-
----
-
-### [Analizar la obesidad desde un enfoque integral para combatir la prevalencia](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHd1TlhnZ0hZczhSQW1zRFdmTjFXSXJBZmpuQnNmXzZ0TVhaOTFZRlJSYnRlcURDWVF1M0hsSy1wZWRKcnc3U0M2LXZaMXlPWGNlbFpKWDZQdmk4UGhqd3RxbFN4UGxza25LNzhxX0RBSVY1T1VPUmFxcXIzUThuZk1NRndIY0JZVFc5Wlc2ejZWc0Fl?oc=5)
-
-2026-04-08
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHd1TlhnZ0hZczhSQW1zRFdmTjFXSXJBZmpuQnNmXzZ0TVhaOTFZRlJSYnRlcURDWVF1M0hsSy1wZWRKcnc3U0M2LXZaMXlPWGNlbFpKWDZQdmk4UGhqd3RxbFN4UGxza25LNzhxX0RBSVY1T1VPUmFxcXIzUThuZk1NRndIY0JZVFc5Wlc2ejZWc0Fl?oc=5)
 
 ---
 

@@ -44,19 +44,19 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（4 則）
 
-### [Descubren la ‘llave genética’ que potencia (o bloquea) el efecto adelgazante de Ozempic - National Geographic España](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXpWQ2JsRjdnTVN6cXZxWFVEOGhhQjRhc1RNWHhsNzh5U0dZb0RIYjh6X2FaS240NzlmX2sySHE1Sm56VTFUdW9FWXVuS3ZEZWZMb2FfbGwycWo1VktxZGh1ZFVLWC1EM3E4WW4xWkZCbE51S1F0M09wUHhmR2JTQlFnV3dZVWpBdml1QXhJQmo0OTFQOXhmTzNZU3didzRzUUU3OXNFUVVPZ0Fqd0Z5Nndaa0hKY0pQMTlKQXFielRabUFBNTMzeWFHemxWUEpDOXh6ZmtneVlPQnh6T3JIY0Y4SjlUUQ?oc=5)
+### [Highlights vom Diabetes-Update: Prävention, Longevity und mehr](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGZBR0FocEMtQUNHanBCRU12NDZwcmQxZzhqTDQzVXlCdkp1VUV6NVFvVmFpYnNsQjJVMzRFTGd2cGtSUXdVaXJBcGxfemRac1Y3Y193S21yR2hTaDYyakVkVVd6RlR6U21IWHhpRmEwejAzMjJORlFCbHZwR01YRlB5bXA3NFJXeVFBanZWRW53Y3ZmVGxjcmRLeWpPUGRMb3c1bWpuZXZrcnlkZVhDTTVabUgzZw?oc=5)
 
-2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+2026-04-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXpWQ2JsRjdnTVN6cXZxWFVEOGhhQjRhc1RNWHhsNzh5U0dZb0RIYjh6X2FaS240NzlmX2sySHE1Sm56VTFUdW9FWXVuS3ZEZWZMb2FfbGwycWo1VktxZGh1ZFVLWC1EM3E4WW4xWkZCbE51S1F0M09wUHhmR2JTQlFnV3dZVWpBdml1QXhJQmo0OTFQOXhmTzNZU3didzRzUUU3OXNFUVVPZ0Fqd0Z5Nndaa0hKY0pQMTlKQXFielRabUFBNTMzeWFHemxWUEpDOXh6ZmtneVlPQnh6T3JIY0Y4SjlUUQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGZBR0FocEMtQUNHanBCRU12NDZwcmQxZzhqTDQzVXlCdkp1VUV6NVFvVmFpYnNsQjJVMzRFTGd2cGtSUXdVaXJBcGxfemRac1Y3Y193S21yR2hTaDYyakVkVVd6RlR6U21IWHhpRmEwejAzMjJORlFCbHZwR01YRlB5bXA3NFJXeVFBanZWRW53Y3ZmVGxjcmRLeWpPUGRMb3c1bWpuZXZrcnlkZVhDTTVabUgzZw?oc=5)
 
 ---
 
-### [Bienestar dental y bienestar general: la conexión que la mayoría subestima - KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
+### [Los genes pueden explicar la eficacia de fármacos adelgazantes](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3VzQjNDQWMwUFpCTzNFc1NLZkx5QWl4TXJHeEY3Y09md09NVGIyVnRVRHV5VnRMS3p4VVV1anc1MEhXSFZzNUN5RFZOYVlOOVlJaFVwMWM5VFVtYnBXbEZVSVlFSHdOT212Nmxzd1E5N0RxZWx4eXdJNXVuLWhBWVgzd3d0d1FEUzAxYkxOTWJacFpubWFxTVRGWWJ3WnJ5T1ZMR3QtcEREdGQ2bzUxNFlxTlRSVThyOXVvVTBYN1gwcjFNdHB0U2NmSQ?oc=5)
 
-2026-04-09 <span class="news-indication-tag">diabetes</span>
+2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3VzQjNDQWMwUFpCTzNFc1NLZkx5QWl4TXJHeEY3Y09md09NVGIyVnRVRHV5VnRMS3p4VVV1anc1MEhXSFZzNUN5RFZOYVlOOVlJaFVwMWM5VFVtYnBXbEZVSVlFSHdOT212Nmxzd1E5N0RxZWx4eXdJNXVuLWhBWVgzd3d0d1FEUzAxYkxOTWJacFpubWFxTVRGWWJ3WnJ5T1ZMR3QtcEREdGQ2bzUxNFlxTlRSVThyOXVvVTBYN1gwcjFNdHB0U2NmSQ?oc=5)
 
 ---
 

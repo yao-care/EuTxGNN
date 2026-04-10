@@ -44,11 +44,43 @@ permalink: /news/pasireotide/
 
 ## 相關新聞（27 則）
 
-### [La pérdida de olfato y los trastornos del sueño, posibles avisos tempranos de Parkinson según un neurólogo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc21uZWRRSE9HYmk4Y25kUEdFei1kamlKdzQtbGFGdGtsNkNQLTBJUGpMOUZ5SldNSDlCYzdmS3IwLVR3U2tzbE85U3o4bThhMGR4dVh6MGpyRlM1VzN3WVF3YVhZenRibDZ3R0NBc1BkeHlmUmNNbUtDcUxVeHFwYWZIWDhmc21meTBNZTlHLWdaVkJSY2MycnRVV2NOWktkRlhjX0t3cXZINmhNVmV6WGk5U0J2enJaTFpqQ1dDN3pVRGswZHR1UXV6SHc3RW5fbzJGNUF30gHbAUFVX3lxTFBfUzBPbU1sMDhNYnY2LXloaU8tdjl2WjlKUnFaYjVvTmpERzRhVGh6dE1tbUtnU3dtUFo5QldjdGxWamZjRVJNUlY5M0U3WG1jT29ITGpPRlcyWmxBVDNMc3BVUlhhcE14YWhlMUVRVjZxUVh3UGhlNmI0N291d2o3ZzBaSE5lQ3ptUGFReUhUOU1QLWY5YktDMUJmc0x4REM1SEI3anhNTUhRWEVpZ1ZzUzgxV2s0b284bF9JZFIyQnFJTmg5NFJNdUp5aUVFWU9VSXR3RTN5SGdqNA?oc=5)
+### ["La escasa visibilidad del síndrome genitourinario de la menopausia genera reticencias para afrontarlo, tanto para las mujeres como para el personal sanitario"](https://news.google.com/rss/articles/CBMikwJBVV95cUxNa2FmQUNhNnV2NFoxSEZ1THdXTkNqWW9PRnpVMDBFcGVyX3VIdGRQYkhNNUtlVG9sT2gtZ2JxN3M0OWRfZjFlX2NmUTVCMU82ckJTQWIwTmtZblFsaC1aenJyNzNRZTNjaWgwOUFhMmtLWENSSGo0dlNIOFRVdEZNMFRRX01zNkVJUF9fdjdVMUdCaWFEZlppM0JrYnFpalNfdjVaVHpVWFZNakxGcG9zME05ZXg5VjlxLXV1ZjJkYXl4UjJHX0l0QjlXRjlZRXk2Y0puMjVoeEkxdFB2N0pieTZwekhqWjZEYmpvVjJFRlV0emVIUWdFLXdpREJIcUtOcWQ5NHczTVBFdEs1UUV6LXZOWQ?oc=5)
 
 2026-04-10 <span class="news-indication-tag">AF</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc21uZWRRSE9HYmk4Y25kUEdFei1kamlKdzQtbGFGdGtsNkNQLTBJUGpMOUZ5SldNSDlCYzdmS3IwLVR3U2tzbE85U3o4bThhMGR4dVh6MGpyRlM1VzN3WVF3YVhZenRibDZ3R0NBc1BkeHlmUmNNbUtDcUxVeHFwYWZIWDhmc21meTBNZTlHLWdaVkJSY2MycnRVV2NOWktkRlhjX0t3cXZINmhNVmV6WGk5U0J2enJaTFpqQ1dDN3pVRGswZHR1UXV6SHc3RW5fbzJGNUF30gHbAUFVX3lxTFBfUzBPbU1sMDhNYnY2LXloaU8tdjl2WjlKUnFaYjVvTmpERzRhVGh6dE1tbUtnU3dtUFo5QldjdGxWamZjRVJNUlY5M0U3WG1jT29ITGpPRlcyWmxBVDNMc3BVUlhhcE14YWhlMUVRVjZxUVh3UGhlNmI0N291d2o3ZzBaSE5lQ3ptUGFReUhUOU1QLWY5YktDMUJmc0x4REM1SEI3anhNTUhRWEVpZ1ZzUzgxV2s0b284bF9JZFIyQnFJTmg5NFJNdUp5aUVFWU9VSXR3RTN5SGdqNA?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMikwJBVV95cUxNa2FmQUNhNnV2NFoxSEZ1THdXTkNqWW9PRnpVMDBFcGVyX3VIdGRQYkhNNUtlVG9sT2gtZ2JxN3M0OWRfZjFlX2NmUTVCMU82ckJTQWIwTmtZblFsaC1aenJyNzNRZTNjaWgwOUFhMmtLWENSSGo0dlNIOFRVdEZNMFRRX01zNkVJUF9fdjdVMUdCaWFEZlppM0JrYnFpalNfdjVaVHpVWFZNakxGcG9zME05ZXg5VjlxLXV1ZjJkYXl4UjJHX0l0QjlXRjlZRXk2Y0puMjVoeEkxdFB2N0pieTZwekhqWjZEYmpvVjJFRlV0emVIUWdFLXdpREJIcUtOcWQ5NHczTVBFdEs1UUV6LXZOWQ?oc=5)
+
+---
+
+### [Apretar la mano o levantarse de una silla ayuda a predecir enfermedades](https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3dDS3dldkRidFF3d0NKc3lfSF9GdjBLdTdYRWh0a1F6ODlZamFTMjRDVXQzRm81cUxWbEswX0lvclVEMHpfUkxlQWlJUDhHTk9xblV5TWR2bjl4SWRQSDZKSlh4RU9fNFg5UndreEZIeFpqekstTXU1dDB4YjR5LVd2cU5QUWNPUFRCOGVGVG5jYzV2Ym9VMjZCcUxiVWxvdi1MZnpyZ2dyeVNoNGU3WTlkZHlheDN1cGtxQVIwWQ?oc=5)
+
+2026-04-10 <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3dDS3dldkRidFF3d0NKc3lfSF9GdjBLdTdYRWh0a1F6ODlZamFTMjRDVXQzRm81cUxWbEswX0lvclVEMHpfUkxlQWlJUDhHTk9xblV5TWR2bjl4SWRQSDZKSlh4RU9fNFg5UndreEZIeFpqekstTXU1dDB4YjR5LVd2cU5QUWNPUFRCOGVGVG5jYzV2Ym9VMjZCcUxiVWxvdi1MZnpyZ2dyeVNoNGU3WTlkZHlheDN1cGtxQVIwWQ?oc=5)
+
+---
+
+### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+
+---
+
+### [TOMARES CONMEMORA EL DÍA MUNDIAL DEL PÁRKINSON CON UNA MESA INFORMATIVA DE LA ASOCIACIÓN FAMILIARES ALZHEIMER, ESTIMULACIÓN NEUROLÓGICA (AFAeN) - Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjAtVjJqY1YydTBHS1luNDlmc0RZVmhCcUZkMm9TUXc3RURJb2hnS3NJZHpUTUYxOXppdGgtMlhZbTdsa2Z2SGlLajhtS2I1RUxEWGpNMXp5Ty0wZkcyN2lYbE5fOGlKMzJMSllkcTNHQVJoVnRJYkxTb016NUdBUVFNTWxBQVdQaV93QnFLRkQyVlduTlVsZk1nS2pGdHpaWlYtcmNGR2dsbU1MemsyWTdidGplbF9VZk5XOVllaw?oc=5)
+
+2026-04-10 <span class="news-indication-tag">AF</span>
+
+來源：[Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjAtVjJqY1YydTBHS1luNDlmc0RZVmhCcUZkMm9TUXc3RURJb2hnS3NJZHpUTUYxOXppdGgtMlhZbTdsa2Z2SGlLajhtS2I1RUxEWGpNMXp5Ty0wZkcyN2lYbE5fOGlKMzJMSllkcTNHQVJoVnRJYkxTb016NUdBUVFNTWxBQVdQaV93QnFLRkQyVlduTlVsZk1nS2pGdHpaWlYtcmNGR2dsbU1MemsyWTdidGplbF9VZk5XOVllaw?oc=5)
+
+---
+
+### [Dad, 34, loses all 4 limbs after 'dentist appointment triggered bacteria spread' - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWi1jMkkxQ21hUGVCY01rNHVBTEZra0R1RXlVeGpuVjVNTTBjekdyLXN1Rm5KekYwbGRPX091RThPQ3AyRkNoWXpEMlJXdzVNNUxUbzhab3ozWHFxc08zTVlZRl9hVXhwaWh6SFpfN01FRU5zYTVISVlya1NFTzhJSVN2a1Mwc1h0?oc=5)
+
+2026-04-10 <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWi1jMkkxQ21hUGVCY01rNHVBTEZra0R1RXlVeGpuVjVNTTBjekdyLXN1Rm5KekYwbGRPX091RThPQ3AyRkNoWXpEMlJXdzVNNUxUbzhab3ozWHFxc08zTVlZRl9hVXhwaWh6SFpfN01FRU5zYTVISVlya1NFTzhJSVN2a1Mwc1h0?oc=5)
 
 ---
 
@@ -76,27 +108,19 @@ permalink: /news/pasireotide/
 
 ---
 
-### [TOMARES CONMEMORA EL DÍA MUNDIAL DEL PÁRKINSON CON LA OBRA DE TEATRO “EL PADRE” A BENEFICIO DE LA ASOCIACIÓN FAMILIARES ALZHEIMER, ESTIMULACIÓN NEUROLÓGICA (AFAeN) DE TOMARES Y UNA MESA INFORMATIVA - Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0t4LWtfYXhnZTFJQWNUYU54aUhtaE4wOGh0anhBUUphM1ljSzFraDU4Y09qVHJYT1JoMEhNcnc1cDBIcmtoVktJOU4tcXNoWXphNVI1UFFadHpQdDNKamZwMGdhUnJZLXJlVE9GZUtlcW1vcHVUbWt1V0pXbFZKQUpRNC1FeEZRUVVLOWEyVi04ajhweWY3dmluVEltX0NZYmF1MGJldHpHNkhPMkdpZEhoaXVDMDRXZWduLVkxYw?oc=5)
+### [Study reveals the small changes to your diet, sleep and exercise that can add years to your life - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
 
 2026-04-10 <span class="news-indication-tag">AF</span>
 
-來源：[Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0t4LWtfYXhnZTFJQWNUYU54aUhtaE4wOGh0anhBUUphM1ljSzFraDU4Y09qVHJYT1JoMEhNcnc1cDBIcmtoVktJOU4tcXNoWXphNVI1UFFadHpQdDNKamZwMGdhUnJZLXJlVE9GZUtlcW1vcHVUbWt1V0pXbFZKQUpRNC1FeEZRUVVLOWEyVi04ajhweWY3dmluVEltX0NZYmF1MGJldHpHNkhPMkdpZEhoaXVDMDRXZWduLVkxYw?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
 
 ---
 
-### [Späte Mutterschaft: Risiken und Praxisempfehlungen](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenM1czJ4S0lrZW5XSlg2Y1ZlUENfZmpfc1dLb096WnByTnhxU2VlSElWVUk3ZXQ3ekFQM09Kd0pkSjJUcmUyeUxQVzNkVFVqMUN4dXBibVhUbXlLVC1PeEJkTWN5WXI1NUI0UE1oYS1BdndtZ3Vvb0dDb3RPVl9ZOTdiWkx0VTh5M1Rrd1ZRenBKQ1k?oc=5)
+### [Socken-Isomerie: Umgestülpte Moleküle eröffnen neue Möglichkeiten - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM29IUkR2blp6UWUzTC1yeTVpaHRQX0hWY2xlN1pOM0QxRzBiZk5TQm51YU8xUXVmdFVLeW5rSzdrcWFCblpNbEpSMTgwR3ZhR3EyWm44R0h0ODNyUGsxS2dKZl9nMm1LR01mMWZ4UVdxaGp1OFdjUHNyTk1EcGk4LXA3RXFCZ1R4VVp4Y0tiLWloSUF6LUNDZmdiZ0ZHN0E?oc=5)
 
 2026-04-10 <span class="news-indication-tag">AF</span>
 
-來源：[medonline.at](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenM1czJ4S0lrZW5XSlg2Y1ZlUENfZmpfc1dLb096WnByTnhxU2VlSElWVUk3ZXQ3ekFQM09Kd0pkSjJUcmUyeUxQVzNkVFVqMUN4dXBibVhUbXlLVC1PeEJkTWN5WXI1NUI0UE1oYS1BdndtZ3Vvb0dDb3RPVl9ZOTdiWkx0VTh5M1Rrd1ZRenBKQ1k?oc=5)
-
----
-
-### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM29IUkR2blp6UWUzTC1yeTVpaHRQX0hWY2xlN1pOM0QxRzBiZk5TQm51YU8xUXVmdFVLeW5rSzdrcWFCblpNbEpSMTgwR3ZhR3EyWm44R0h0ODNyUGsxS2dKZl9nMm1LR01mMWZ4UVdxaGp1OFdjUHNyTk1EcGk4LXA3RXFCZ1R4VVp4Y0tiLWloSUF6LUNDZmdiZ0ZHN0E?oc=5)
 
 ---
 
@@ -105,14 +129,6 @@ permalink: /news/pasireotide/
 2026-04-10 <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5vUXlFSkFISUNLQ3RxNUVNNTZiTmJzQnFUMGh6RjRNcTF2RUl1QWdqWXlrN1NuZ0ttUEJST3l2NmlUaEFmVTFxdEkwTzFfOENpS2JWcm1QZnJGVGNfbkk3d0lBWkpDVTNELWxxXzJ6TDd5VFNwNzRHb3RvbDhpMVZFM0Ewa1N6em5abDloU2lPeHh4RlZOaWVwVEJVTnVwUU9KYlR5OFFEcDJ5QWYtVUl3?oc=5)
-
----
-
-### [Bern - 32 wissenschaftliche Publikationen, 37 Konferenzbeiträge und über 6 Millionen Franken an ei - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFlmN1pfMXB1NlpuZENBeWJwcTBTZDBsSGotVFdqclVKZmtPcHN5Ylc2Y2F6Q2E3eUQ1ZDQ4cVlxMERhX0ZkZ010MEtlaGNnX1R3VF9BTXNwYmNmdEZxd1dJSll3VGdvZFhHWGJ3czg4bWpFdjVlS0FYd1NrM2xmU3E2Rk13c2dweVVkbFlXV1Q1SHNRUWVadEUwSFNicUxTVlBqUk5FUVdkaThVWi1oYkFtN2hNOE5PNUVPRQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFlmN1pfMXB1NlpuZENBeWJwcTBTZDBsSGotVFdqclVKZmtPcHN5Ylc2Y2F6Q2E3eUQ1ZDQ4cVlxMERhX0ZkZ010MEtlaGNnX1R3VF9BTXNwYmNmdEZxd1dJSll3VGdvZFhHWGJ3czg4bWpFdjVlS0FYd1NrM2xmU3E2Rk13c2dweVVkbFlXV1Q1SHNRUWVadEUwSFNicUxTVlBqUk5FUVdkaThVWi1oYkFtN2hNOE5PNUVPRQ?oc=5)
 
 ---
 
@@ -132,6 +148,14 @@ permalink: /news/pasireotide/
 
 ---
 
+### [Reversible male contraception just took a huge step towards becoming a reality](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNwM1dNUEVfVVRta3NnWFVQbllBdzNBSE5NN2xRQXU2cG8wQ3hpZDZkS01jRVM3MVM3QTVkZEZNVERzQTdacDdwTzJ2N200eW5CcFhIRnhVR0xibVA2ZFBHZ2hxX09KWXdBUEtkMXloQ25rWm5wV2IzemVrWm5hSWRDclFNbWllZWF6eER2THBfTU9PeTlGR09SQW5jUTJiS1BGdWg0RnVkbmlra0hyTU5aOFU?oc=5)
+
+2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNwM1dNUEVfVVRta3NnWFVQbllBdzNBSE5NN2xRQXU2cG8wQ3hpZDZkS01jRVM3MVM3QTVkZEZNVERzQTdacDdwTzJ2N200eW5CcFhIRnhVR0xibVA2ZFBHZ2hxX09KWXdBUEtkMXloQ25rWm5wV2IzemVrWm5hSWRDclFNbWllZWF6eER2THBfTU9PeTlGR09SQW5jUTJiS1BGdWg0RnVkbmlra0hyTU5aOFU?oc=5)
+
+---
+
 ### [Rätselhaftes Hunde-Massensterben in Skandinavien endlich geklärt](https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1ZWRV9POFc0R2Z3UW9fUmNNeFVYMGFlRUx3NTdFZktYNnJBTFd3eUN2NEZqZmZxYzByQVNqZEdWc2hpNUFOby1ZQWVjVXQ5Mnd4RWhfdnd4dWRJRTFEQ3NyV1J3NjZFNXZ0VWNvNDI1cm5lV3lVM015bDNRTDZ5Z0FrX015R3RvdTZsdWhJQW9mSm16aWZWNlhlVnZDcV93akxyVQ?oc=5)
 
 2026-04-09 <span class="news-indication-tag">AF</span>
@@ -140,7 +164,7 @@ permalink: /news/pasireotide/
 
 ---
 
-### [ChatGPT diagnoses Cardiff woman's rare condition](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
+### [ChatGPT 'uncovered woman's rare condition' after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
 
 2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
@@ -148,11 +172,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Harinas blancas y azúcar aceleran el hígado graso y elevan el riesgo de complicaciones metabólicas graves](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM1FwZWEweWxCcGpjT19yT25YbGhKYkVpeEItaTV6c1NrOFBrWXpmRktGTDJpM0daMi0yNkJlRF9BeDctTE9nZEdqRl9OVElwZjFnNHlxTTc0OUZ6MDh0OU4yY0lGQXVmWHMtbXcwWkl5UEg4Nk4tTmpmTkpnRTBEblJVNUJNX2lPRmJERkpqdEhWcHlPM3d6bllUbGVVdXl0WTN2SHVuVWs1dE9NVGp4MTMwMUUzTGxSMGVMTExlTmxMSDcxQWpIblEydzFYUkdlR09UQUpQTWVmX3pGVjROT3c5RUhUNmxzOU5JcTlSc9IB9AFBVV95cUxPMVdMbVUwdnhOU0FBd2pzWF93ZFVRUmVjSU5vdjJhZlR5UmJpX1R3QTl6V21HeXJvYXFHSFpwNmJKQTVwZ3pHN0RWb2x5LUh6ZXk5aGsyOElIUUpqdFFYb21Mb0ZPeEhHQlJCRm1RTDZ4QjNfQWZDMTFKby1KbEViZWliTWV0NmJtMWxmYl91ZXRTTmNCZEFNZ0lrejl0dnNfWExCLUtkZVFkdnF0V3J5S2prdC1TMllJUWNjRDhWRUZORmdpOHd5TzRwbGp5Ylg3Q2NxdWZfdzh2YVZWekpkQ25hUGJ2RWhuR29lZGdlai01bnQw?oc=5)
+### [Komet C/2025 R3 (PANSTARRS) am 8. April - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2cwQUZFVFktS1lNLVctc2ZsRXlCTFVadFVWUElLcUxCaTE3NUNiZmtseFdJSDltbzZ1RnJsWkNUX3Q4cXRvME1oSWxvandJZTVUbEVzd0NObUlwazQ5amRVVDQzckVGZGRHcmF4dm5JREVJVGlmaVFhWG5CdFVMOHhTNXpwTHB3cUtFNFNHdkdWN2prZnBVSUdR?oc=5)
 
 2026-04-09 <span class="news-indication-tag">AF</span>
 
-來源：[Portafolio.co](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM1FwZWEweWxCcGpjT19yT25YbGhKYkVpeEItaTV6c1NrOFBrWXpmRktGTDJpM0daMi0yNkJlRF9BeDctTE9nZEdqRl9OVElwZjFnNHlxTTc0OUZ6MDh0OU4yY0lGQXVmWHMtbXcwWkl5UEg4Nk4tTmpmTkpnRTBEblJVNUJNX2lPRmJERkpqdEhWcHlPM3d6bllUbGVVdXl0WTN2SHVuVWs1dE9NVGp4MTMwMUUzTGxSMGVMTExlTmxMSDcxQWpIblEydzFYUkdlR09UQUpQTWVmX3pGVjROT3c5RUhUNmxzOU5JcTlSc9IB9AFBVV95cUxPMVdMbVUwdnhOU0FBd2pzWF93ZFVRUmVjSU5vdjJhZlR5UmJpX1R3QTl6V21HeXJvYXFHSFpwNmJKQTVwZ3pHN0RWb2x5LUh6ZXk5aGsyOElIUUpqdFFYb21Mb0ZPeEhHQlJCRm1RTDZ4QjNfQWZDMTFKby1KbEViZWliTWV0NmJtMWxmYl91ZXRTTmNCZEFNZ0lrejl0dnNfWExCLUtkZVFkdnF0V3J5S2prdC1TMllJUWNjRDhWRUZORmdpOHd5TzRwbGp5Ylg3Q2NxdWZfdzh2YVZWekpkQ25hUGJ2RWhuR29lZGdlai01bnQw?oc=5)
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2cwQUZFVFktS1lNLVctc2ZsRXlCTFVadFVWUElLcUxCaTE3NUNiZmtseFdJSDltbzZ1RnJsWkNUX3Q4cXRvME1oSWxvandJZTVUbEVzd0NObUlwazQ5amRVVDQzckVGZGRHcmF4dm5JREVJVGlmaVFhWG5CdFVMOHhTNXpwTHB3cUtFNFNHdkdWN2prZnBVSUdR?oc=5)
 
 ---
 
@@ -161,6 +185,14 @@ permalink: /news/pasireotide/
 2026-04-09 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
+
+---
+
+### [Depression, Angst: Bei 2-3 Tassen Kaffee am Tag niedrigstes Risiko](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmZZZ0hGR0lEQzdmUzQzZzFyeHhTVE4yaFFKWkJfY2cxMjNidXNFbF9DNnhzOTdWSnV2NWMxaFM4MHNvN2tza01QV2xGdXQtbTZzSlF3SThZbS12M3ViR3lwVnBVY3ZscjVuQUs0UmJ0cGg5UGEzVDVMVGR1XzhWMVo2V2NxSFhuekJhbExCbEVZVFBRQ1ZsdDdxSjd3VmRqd3c?oc=5)
+
+2026-04-09 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmZZZ0hGR0lEQzdmUzQzZzFyeHhTVE4yaFFKWkJfY2cxMjNidXNFbF9DNnhzOTdWSnV2NWMxaFM4MHNvN2tza01QV2xGdXQtbTZzSlF3SThZbS12M3ViR3lwVnBVY3ZscjVuQUs0UmJ0cGg5UGEzVDVMVGR1XzhWMVo2V2NxSFhuekJhbExCbEVZVFBRQ1ZsdDdxSjd3VmRqd3c?oc=5)
 
 ---
 
@@ -180,11 +212,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Tumorzelleigenes „Alarmsystem“ verbessert Wirksamkeit der CAR-T-Zell-Therapie - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xUEo4TGx2OVhLQWRZR1llUG5lQTc2Q21mMXdBRVFDMF9pVUQ4NTNzcFo5S1I0V1N5dXJLcTJWbGN5T09YbXo5WElQMA?oc=5)
+### [Tumorzelleigenes „Alarmsystem“ verbessert Wirksamkeit der CAR-T-Zell-Therapie - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOX252ZnBsdEpNUUQ1S3ZHMkhQRlV3ekZPNFExdkU1UEFlVzR1ckc1Wk9jazNBTkRHX0lMQnZZYWUwNG5pZ0VMdk9Dd1JrX3NvNGRTN01kNFhWMjIweThiRFFudW5HVVpXREY2X3J4aEVCWXByaEozdTNpYkxDYkwxekFXazJna0xSOUJqMDd0aXhVeEw4akJPUFNFSU9oQld5c3NWcU54bmJxa2V3MUVqOTMxM3NDbVV1OF8yUw?oc=5)
 
 2026-04-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xUEo4TGx2OVhLQWRZR1llUG5lQTc2Q21mMXdBRVFDMF9pVUQ4NTNzcFo5S1I0V1N5dXJLcTJWbGN5T09YbXo5WElQMA?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOX252ZnBsdEpNUUQ1S3ZHMkhQRlV3ekZPNFExdkU1UEFlVzR1ckc1Wk9jazNBTkRHX0lMQnZZYWUwNG5pZ0VMdk9Dd1JrX3NvNGRTN01kNFhWMjIweThiRFFudW5HVVpXREY2X3J4aEVCWXByaEozdTNpYkxDYkwxekFXazJna0xSOUJqMDd0aXhVeEw4akJPUFNFSU9oQld5c3NWcU54bmJxa2V3MUVqOTMxM3NDbVV1OF8yUw?oc=5)
 
 ---
 
@@ -212,11 +244,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Neuer Ansatz gegen Herzschwäche: Göttinger Forschende finden genetischen „Schalter“ - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
+### [Neuer Ansatz gegen Herzschwäche: Göttinger Forschende finden genetischen „Schalter“ - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
 
 2026-04-09 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
 
 ---
 
@@ -225,38 +257,6 @@ permalink: /news/pasireotide/
 2026-04-09 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LSHRXUWhKY2xFbmNxYjNpNm9ySzJMS1NDTm9YVWVyU2NkS1p1WE5PVklvQkxzeHl0TzY1YUlMWV9WQ3VZN3FUSWlBRVpTNjRGN21CZlVOY3pmcVc2?oc=5)
-
----
-
-### [Funding is vital to end the scourge of polio | Letter - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXltSjZtT0FnS0xhRWhxdXg0bUFCb1NLNWdIZXBCdktOM3ZWTmlTSHJoRThWVV9yVU5XQ1I1SGV4NDBwOFltdU5USW5sajJYMVJOLW9VbmkxaUhZZlM5ajM2aHpoZkJXa1E3LUJybG5xYzZfMVNBazdTT3pmeEpmd19aYjh2RUd1U3VDVHJ0bVgxdDVIVW1N?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXltSjZtT0FnS0xhRWhxdXg0bUFCb1NLNWdIZXBCdktOM3ZWTmlTSHJoRThWVV9yVU5XQ1I1SGV4NDBwOFltdU5USW5sajJYMVJOLW9VbmkxaUhZZlM5ajM2aHpoZkJXa1E3LUJybG5xYzZfMVNBazdTT3pmeEpmd19aYjh2RUd1U3VDVHJ0bVgxdDVIVW1N?oc=5)
-
----
-
-### [One Compound Repairs Neurons with Autism Mutations - Neuroscience News](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtZm9lUDM2ZlM0YzlpQ0RsUkFPT29PNzNGTVdIZG54bnV0ellXRV9UTEl3ckN0clQ4OFZPVkp5R283bHdaV0J3VXlsd2hITWdjd1dzR0R0UVRVdjFBYlViRjdLVXdleEFTek5hMnBQNzF3cUZEZWhkdg?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtZm9lUDM2ZlM0YzlpQ0RsUkFPT29PNzNGTVdIZG54bnV0ellXRV9UTEl3ckN0clQ4OFZPVkp5R283bHdaV0J3VXlsd2hITWdjd1dzR0R0UVRVdjFBYlViRjdLVXdleEFTek5hMnBQNzF3cUZEZWhkdg?oc=5)
-
----
-
-### [Woman shares before and after of going 30 days without drinking alcohol](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
-
----
-
-### [Bestimmte Darmbakterienarten modulieren die Muskelkraft – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMEZYbU5XQXVnQVBrYlRsZEliU3hMNUlyLUVPdHdfYVQtU09HdXpFNHFpMGZTcmNlOHR6bjlDUUtxRmk4M3hBRnRZSElCVWNzb0pubUNpTWhSVHJUXzZLWnhGMTRkYS12cGJJWWJDdGlqYUNBcWEwODVKTzBRa21FYjVabjd2X1p2RENVUXltckZIZ3E1NVVYMXc0WHoxTm5OMUNLM2QtY1RTTFQyTVVLdG42U21JYVh1cHJaS2tkXzJfQQ?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMEZYbU5XQXVnQVBrYlRsZEliU3hMNUlyLUVPdHdfYVQtU09HdXpFNHFpMGZTcmNlOHR6bjlDUUtxRmk4M3hBRnRZSElCVWNzb0pubUNpTWhSVHJUXzZLWnhGMTRkYS12cGJJWWJDdGlqYUNBcWEwODVKTzBRa21FYjVabjd2X1p2RENVUXltckZIZ3E1NVVYMXc0WHoxTm5OMUNLM2QtY1RTTFQyTVVLdG42U21JYVh1cHJaS2tkXzJfQQ?oc=5)
 
 ---
 

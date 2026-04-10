@@ -44,19 +44,19 @@ permalink: /news/blinatumomab/
 
 ## 相關新聞（4 則）
 
+### [Highlights vom Diabetes-Update: Prävention, Longevity und mehr](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGZBR0FocEMtQUNHanBCRU12NDZwcmQxZzhqTDQzVXlCdkp1VUV6NVFvVmFpYnNsQjJVMzRFTGd2cGtSUXdVaXJBcGxfemRac1Y3Y193S21yR2hTaDYyakVkVVd6RlR6U21IWHhpRmEwejAzMjJORlFCbHZwR01YRlB5bXA3NFJXeVFBanZWRW53Y3ZmVGxjcmRLeWpPUGRMb3c1bWpuZXZrcnlkZVhDTTVabUgzZw?oc=5)
+
+2026-04-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGZBR0FocEMtQUNHanBCRU12NDZwcmQxZzhqTDQzVXlCdkp1VUV6NVFvVmFpYnNsQjJVMzRFTGd2cGtSUXdVaXJBcGxfemRac1Y3Y193S21yR2hTaDYyakVkVVd6RlR6U21IWHhpRmEwejAzMjJORlFCbHZwR01YRlB5bXA3NFJXeVFBanZWRW53Y3ZmVGxjcmRLeWpPUGRMb3c1bWpuZXZrcnlkZVhDTTVabUgzZw?oc=5)
+
+---
+
 ### [Eczéma, psoriasis… Une révolution thérapeutique pour soigner les souffrances physiques et psychiques - Le Figaro Santé](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDUxbHd4Yjk0bERneS1mV2tkV2JUY1pzZWQwdlV5dmdvTTkzMmhGVHJEWVdkS1F1dVdMeXBHVmtkbkQ0al9LODV6bHd6d01wWmM4dUhCTTRlX2hrQTBsS2labzhxQVktVE9JbXVEWU41dmpGcEtob0w0R29kd1V3RXFjZjQ3OERWUUZUWnNtdUxxaTR0QlBmT1VTOVdCM2xoZ0hVbnhudXVPOGVkdkFDeERpUDUzMXo2UXlYSWhsUmhOYkNUOFAxdWt6bGVOQk9oX21kS3RLM1hmZW82MFVzOUoya1FDOHA3SWhJ?oc=5)
 
 2026-04-10 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDUxbHd4Yjk0bERneS1mV2tkV2JUY1pzZWQwdlV5dmdvTTkzMmhGVHJEWVdkS1F1dVdMeXBHVmtkbkQ0al9LODV6bHd6d01wWmM4dUhCTTRlX2hrQTBsS2labzhxQVktVE9JbXVEWU41dmpGcEtob0w0R29kd1V3RXFjZjQ3OERWUUZUWnNtdUxxaTR0QlBmT1VTOVdCM2xoZ0hVbnhudXVPOGVkdkFDeERpUDUzMXo2UXlYSWhsUmhOYkNUOFAxdWt6bGVOQk9oX21kS3RLM1hmZW82MFVzOUoya1FDOHA3SWhJ?oc=5)
-
----
-
-### [Bienestar dental y bienestar general: la conexión que la mayoría subestima - KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
-
-2026-04-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[KCH FM](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0pjRENhNHNYenVOSzg0Ujk1dFhyRUdwNHFacXp0a1I4M0RNX1c4OUE2eHdFYjdCVGRCUDdvN29MVFZDSGpFaDBTcnFHMG1wNFhUNWlkZy1rMGVXWjlVd01oR2VVVmMtY3BDTVloQTdsNFJneFhUQ3gzLUlVeXlzWGZDbEtjaTdKLUI5dFI5amFZV2F1NzAzYWxmSFFyN1BDMnpiai1RUFBwd3YyRFVnVnBrVQ?oc=5)
 
 ---
 
