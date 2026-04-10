@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Fettleibigkeit erhöht Risiko für schwere Infektionen drastisch - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWFhnalpqVFM5ZmFBeFJtXzZVOERFaXVKYmFtQUxkN2FwYU1PM2E5cUtOV1BXVXlWenVWX05sa2h5Y3pXVmljTkx4dzFXdFRzUEs1V0hJMlB6LWtjWVZhTlFKZFFycVZYRkhZaVZydW1nd0x4ejZEa2JnUXF1WU1kTGxLVzF4cXNNVVNLdTRZNjN1aGphMkVuMDBlcFM?oc=5)
 
@@ -84,19 +84,11 @@ permalink: /news/orlistat/
 
 ---
 
-### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
+### [La obesidad, bajo la lupa de expertos en unas jornadas - La Tribuna de Ciudad Real](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLXJMVF81YzM1UXRtaF9UTjVldzYzTHZBUnh4dUhLdmRWcWlpblVaeGJ0elRtT3ZYMV8xMUp5SVlpUWZzQ25SZUVVUUFTaUFQQTZnRklVeFpIWUJ1QUtoT2ZqclNkOWpaa0MtMGtXTTVkOTEtaGpqYnlLc2pTX2dOcHd0SmlyZXo0cjdPTTkzS2ZqWTZRdkdud0RXakFPOG1YRzU5dkpNNlNnRk5ERldhRHo3VWZVTzVhNk5lRHNOTFZOVWRUVC1mMkwyYTFTTk5uaW5HS0VtbzVzYXdKWnc?oc=5)
 
-2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
+2026-04-08 <span class="news-indication-tag">obesidad</span>
 
-來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
-
----
-
-### [José María Fernández, especialista en medicina interna: «Nos queda muchísimo por conocer sobre los beneficios que pueden tener fármacos como Ozempic» - La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
-
-2026-04-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMisgJBVV95cUxQdXJKZnNSVnlPVkVicDN3UDdzdXFtYkJLM1dLQ05yeHUzVlR3Tm9URmhuZkt1UjlQYURGeHpnb1lKcTQzRFFxSndqSm1Xdm9Wbk8yRFBGTW1aMURDa0ctMUY4YzBIbzB2cVVDVnpSV2NRazhwU1NwZ0V2dkdycHJzb1dZb0xxbG42NG03UnJyT09ldlFjNVVSMzNpbnFTeHVsSFZwUHVCVmZGNkg1ZEN5c0hWdnZRSjhEMzMxVDlBYmUxcGVIdGM5VWZWdjBQSEFDZm5aTmladElrY0hxSXNURUk5cjJaVnlVSy1LZUFMdk85LVIxM1pyclR3T0c0a2N4OWRzaGJQLWRXMUlVVE1XQk1ERGhGaFh1c0Z0d2doX3J2UkRjbmdsVk1VM0g5VjE3NHc?oc=5)
+來源：[La Tribuna de Ciudad Real](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLXJMVF81YzM1UXRtaF9UTjVldzYzTHZBUnh4dUhLdmRWcWlpblVaeGJ0elRtT3ZYMV8xMUp5SVlpUWZzQ25SZUVVUUFTaUFQQTZnRklVeFpIWUJ1QUtoT2ZqclNkOWpaa0MtMGtXTTVkOTEtaGpqYnlLc2pTX2dOcHd0SmlyZXo0cjdPTTkzS2ZqWTZRdkdud0RXakFPOG1YRzU5dkpNNlNnRk5ERldhRHo3VWZVTzVhNk5lRHNOTFZOVWRUVC1mMkwyYTFTTk5uaW5HS0VtbzVzYXdKWnc?oc=5)
 
 ---
 

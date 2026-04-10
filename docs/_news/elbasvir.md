@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elbasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,25 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
 
-### [ChatGPT uncovered woman's rare condition after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
+### [El hallazgo en la microbiota intestinal que podría ayudar a detectar la demencia años antes - 65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWRtMTlISW05NkRzM1pfbDV3VWVMeU5rblhURlZscVRxRHMtLTV2a2pZTmJNWHluSllES3RMRW5VcHNnV1FIeGowSkxRV2VCVGd0d1dwal81SXhnMHRHUVJGNzJEVHpqU3o1U2wtVmxBU2FZWV9Jby1PZUZyYWo3cER0Tk9laXRFVERjaHVpTkctQXZqTk5wZWRqQjFMQXZSLW1tTkRMcTNxa0I1bnFZZm4xek9FVzc5Q3d6WQ?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWRtMTlISW05NkRzM1pfbDV3VWVMeU5rblhURlZscVRxRHMtLTV2a2pZTmJNWHluSllES3RMRW5VcHNnV1FIeGowSkxRV2VCVGd0d1dwal81SXhnMHRHUVJGNzJEVHpqU3o1U2wtVmxBU2FZWV9Jby1PZUZyYWo3cER0Tk9laXRFVERjaHVpTkctQXZqTk5wZWRqQjFMQXZSLW1tTkRMcTNxa0I1bnFZZm4xek9FVzc5Q3d6WQ?oc=5)
+
+---
+
+### [Wie drei kleine Veränderungen Ihre Herzgesundheit schützen - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3EyYXFYTDRhY2RZdXk1LTJ4eU1PQ1VETW1NR3h6OUdRRUNQdktTZ0ZPdEpZSXVlZFd5QWpZQ2IzV0RBRzBlVmx2QVBpcVJiZVVoVHJNZ0lsSUd3c1hEUldhanFwdnhHQVVFZG54eDZKNFBQZGVIWWV5Sm5EbTNMd3BpXy1uaDBEa1FScXdPRnkxQmxMbTAwNWc5d01POWNN?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3EyYXFYTDRhY2RZdXk1LTJ4eU1PQ1VETW1NR3h6OUdRRUNQdktTZ0ZPdEpZSXVlZFd5QWpZQ2IzV0RBRzBlVmx2QVBpcVJiZVVoVHJNZ0lsSUd3c1hEUldhanFwdnhHQVVFZG54eDZKNFBQZGVIWWV5Sm5EbTNMd3BpXy1uaDBEa1FScXdPRnkxQmxMbTAwNWc5d01POWNN?oc=5)
+
+---
+
+### [ChatGPT 'uncovered woman's rare condition' after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
 
 2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
@@ -84,6 +100,14 @@ permalink: /news/elbasvir/
 
 ---
 
+### [Schlucken auf eigenes Risiko: Die dunkle Seite der Vitaminpillen](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG9oQ0R5NHVDQUlyVlI2SnJwSHVnaS0zS0F0MVRnY1d3TzNTMmJWSDJ0WXpYUldCREQyZ1o0NFF0c2Rzd3BIa1R4LWJvWGl6bWJKNHVaLXV1b1FqX2xGQzJUeDdEMlV0N1FYNXlod255d0R2MnQ0dy1jckNhVzF1ZGkxc0FlNE1qNXgxQ0d5cl9FOTU3czM2ZjN5bHQwUVU0ZE9ZYlRRS1dBMEhjcTlTVW9TZkg?oc=5)
+
+2026-04-09 <span class="news-indication-tag">MS</span>
+
+來源：[STERN.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG9oQ0R5NHVDQUlyVlI2SnJwSHVnaS0zS0F0MVRnY1d3TzNTMmJWSDJ0WXpYUldCREQyZ1o0NFF0c2Rzd3BIa1R4LWJvWGl6bWJKNHVaLXV1b1FqX2xGQzJUeDdEMlV0N1FYNXlod255d0R2MnQ0dy1jckNhVzF1ZGkxc0FlNE1qNXgxQ0d5cl9FOTU3czM2ZjN5bHQwUVU0ZE9ZYlRRS1dBMEhjcTlTVW9TZkg?oc=5)
+
+---
+
 ### [NHS urges checks for persistent heartburn as Nottinghamshire man shares cancer story - West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
 
 2026-04-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -100,6 +124,22 @@ permalink: /news/elbasvir/
 
 ---
 
+### [North-east dad diagnosed with throat cancer caused by sex he had decades earlier - Aberdeen Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOThlSlYyUUVkQkFyYVdOLV93VXNWYnRnUmszdzFad3RwSmZjQnhpT3dTc2VEVmdGMExZWnhBZlZZWWZoU1RQUDY1M0tOcGVDZUlNdmJaTzRCeWZiYnc3TnlBQjM0UU1GcFNMUzh1Z0xNRi1pdV9GWU5LR3FGYTVnMUppNVdiLWU1T0djbk9FN200N03SAZgBQVVfeXFMUHN6bDFocWdwZjg4azFEX3ZaTkphMnNCdkVBUjdlNFJGazVFVlhzMDRqSzYwUl9KNkp0Q01mZ0MtbTlWU0JobU8zYkRxa0pCeFBlYUphdXM0Z2xacXEwSWpVSzk0RHJnLTJfYWFCRk9xclE5R0w5UURTZHZ2WkNqZ2E2YXV5Nm4tQXI3b2RDMVdxaHlzTHF6NEY?oc=5)
+
+2026-04-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Aberdeen Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOThlSlYyUUVkQkFyYVdOLV93VXNWYnRnUmszdzFad3RwSmZjQnhpT3dTc2VEVmdGMExZWnhBZlZZWWZoU1RQUDY1M0tOcGVDZUlNdmJaTzRCeWZiYnc3TnlBQjM0UU1GcFNMUzh1Z0xNRi1pdV9GWU5LR3FGYTVnMUppNVdiLWU1T0djbk9FN200N03SAZgBQVVfeXFMUHN6bDFocWdwZjg4azFEX3ZaTkphMnNCdkVBUjdlNFJGazVFVlhzMDRqSzYwUl9KNkp0Q01mZ0MtbTlWU0JobU8zYkRxa0pCeFBlYUphdXM0Z2xacXEwSWpVSzk0RHJnLTJfYWFCRk9xclE5R0w5UURTZHZ2WkNqZ2E2YXV5Nm4tQXI3b2RDMVdxaHlzTHF6NEY?oc=5)
+
+---
+
+### [AI uncovers hidden immune defenses inside bacteria](https://news.google.com/rss/articles/CBMieEFVX3lxTE9td0pZSjJXWEg0T0QyczB0TDNDSnQwVUtsWVByUWRZQkxoOUU1SlcwM1AySW9sVm4wNl85VlJCT1VoWjg5OE4zdWJ3S29GTW56aWVkMHhIVV80Ml9mcWR6RTdYQlNoUHBIc1FDYXJ0YjJZTmkyUTRqZg?oc=5)
+
+2026-04-08 <span class="news-indication-tag">MS</span>
+
+來源：[Phys.org](https://news.google.com/rss/articles/CBMieEFVX3lxTE9td0pZSjJXWEg0T0QyczB0TDNDSnQwVUtsWVByUWRZQkxoOUU1SlcwM1AySW9sVm4wNl85VlJCT1VoWjg5OE4zdWJ3S29GTW56aWVkMHhIVV80Ml9mcWR6RTdYQlNoUHBIc1FDYXJ0YjJZTmkyUTRqZg?oc=5)
+
+---
+
 ### [L'alcol rende felici? E perché lo beviamo? Gli effetti (catastrofici) della sostanza nel cervello e nel corpo umano - Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXRMTzVkNUdkaWlUSHowMnhtSnVoaklFRnJLaUk4d3I1eHc1QjRVaHJ0WnEtTE1jMEpOOGkzUFBhNTBrcEVhRDRnZ0hrSnRfRDl6NWtiV1RrY05OMFktbTg0VEQ1UVBiWGYtMjhFN0loX2pFakVLcC1TZVQyY0dxVzAzQ1FnekJhaFpiaE1fZlhxVXlIUG5DXzR4c2VuS2xCQ2JqVDlaZEZSbWPSAaABQVVfeXFMT2RnWkxWT0pSVzE2MGNaZ0RYZ3V2ektNanFCTFREZktvbDhVRVZxS0JYdWc4QVRYRUNfQkQ4TV9QVEJoQTcxbGNXSmpYWHhHZ3VvYWowVV9qVE4tWTdfakU2SmlCR2EtZmJDT0FiT0ZkME9JVUhyU3BVTkdTenBqQjl6NmN4VUg2N3d1Y3V2bmZZM3RoZWY1V042T0lTdl9nSg?oc=5)
 
 2026-04-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -113,22 +153,6 @@ permalink: /news/elbasvir/
 2026-04-08 <span class="news-indication-tag">MS</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiywJBVV95cUxPTklZY3E0cDdqYlQzUXczX2Rsd2U3R1NzRFItOEpGZzAwcjcwT3hOZjBWck40VWhJeDB0OFoyREdhRGg4SUJNV3NiVTBMV3dFQnRmeENuVmlTQUNFWW9TMUg5RldQckpSV2U3NnNVWmpsZWZYUTRlSTB2VDFFWVBZNGwxdUpfZ3VtWVRjbEVLZUFjVGhIRnM4eHhsbjc4Q3pDdGlsQVBCQkN3VElGMUdMa1A3T21POEdlc1Z0QlBWMGNmbmZaMDBRUkwxRXloTVdpLVlWalA5R1V0aXB5RWlUaTFvMVZvVFNXWWNOSHBkd3BVaXROM2JnZHVZUmVoSTJTcDFnZFVWeWxfQ05WcU1oZXNkazhxRC1tS3BnYWZ3QzVVMHhnZDR4Y1FPbjcyWUFzY2c0b2tqYkdlXzJ0UGJXRV93U3YycTRoZW5v?oc=5)
-
----
-
-### [La demencia se podría detectar años antes gracias a unos metabolitos de la microbiota - La Vanguardia](https://news.google.com/rss/articles/CBMiugFBVV95cUxNODh5c3lMN28zd1dPSjBESEliLW9McTJ4cXdMQUdYaVB1MEtqNEVUMG9JUEFVdm50U0IxUm12MFVNVDRaTVUtTU1xS1dwTmdGWWgxZEVYN3hzbnU4bXZZMEZLNFJKTFY1X3hRWjFwYjQydlJ2S0djcDAtSUIyOUs0MGNZeEtQeW85Rk00dzJBTUhWdkVrNmZqeEFYQXNnSm9WdTV1eG9fZ05NNE93TFl2SElBZXljUVdZTHfSAb8BQVVfeXFMTXVfSERJN1VYTlFTSlFYQ1ZPQlRmVnp4eTU1MjhqcGJ0eHlacHRlQXV5dS1BbE5lUmdQQjZ6NXViaWl4bTRRNnotSDVwOTdDR01JSzVwMDRkX0Y3SjAxOFVoV1pSV3lYbkpxa2ZNbndWQ25Ub2VXdHZEX1ZVT0x0ZXlaV2RPRXFVY1hlQXJEQWM4R1RKdl9GQ01hNUREZFQ1UWpFV3lKcGg3Z1h1eWxSWmhtemc2Qlo0RnhZMFluT1k?oc=5)
-
-2026-04-08 <span class="news-indication-tag">MS</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiugFBVV95cUxNODh5c3lMN28zd1dPSjBESEliLW9McTJ4cXdMQUdYaVB1MEtqNEVUMG9JUEFVdm50U0IxUm12MFVNVDRaTVUtTU1xS1dwTmdGWWgxZEVYN3hzbnU4bXZZMEZLNFJKTFY1X3hRWjFwYjQydlJ2S0djcDAtSUIyOUs0MGNZeEtQeW85Rk00dzJBTUhWdkVrNmZqeEFYQXNnSm9WdTV1eG9fZ05NNE93TFl2SElBZXljUVdZTHfSAb8BQVVfeXFMTXVfSERJN1VYTlFTSlFYQ1ZPQlRmVnp4eTU1MjhqcGJ0eHlacHRlQXV5dS1BbE5lUmdQQjZ6NXViaWl4bTRRNnotSDVwOTdDR01JSzVwMDRkX0Y3SjAxOFVoV1pSV3lYbkpxa2ZNbndWQ25Ub2VXdHZEX1ZVT0x0ZXlaV2RPRXFVY1hlQXJEQWM4R1RKdl9GQ01hNUREZFQ1UWpFV3lKcGg3Z1h1eWxSWmhtemc2Qlo0RnhZMFluT1k?oc=5)
-
----
-
-### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
-
-來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
 
 ---
 

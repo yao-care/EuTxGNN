@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [La neuróloga Elena Zapata ofrece en Lebrija una charla clave para reconocer y prevenir el ictus - Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">ictus</span>
 
 來源：[Ayuntamiento de Lebrija](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTTE3SG5IRFBkOU51LVA0REdocU90QXlUNmhQZ20yN1cxQlFSX1R6ejVzX1dTbHdaVWRXbjE4ejRRTUQyeFhYWjFIU1FxWUp4VC1sa1hKdXRiT3lTMlJDYlZYbHNUTGpFWG5sZU1veWI3ZmxtMG9YSVA2QmFnVWNXWUNsSkhrUENkWmFNQTRXRmlzZzVwWmxvRE5VSXYtTFZBUTlDZGRIM3ZXdmJUTnE2eGdHRU5FTnFKSlNwVFFrQXJxZEF6aGVlTzNGNEI3MDR1dUVyd3hYXzZmVUxZdXpybFE5bmRPZw?oc=5)
-
----
-
-### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
-
-2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
-
-來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
 
 ---
 

@@ -44,11 +44,11 @@ permalink: /news/duloxetine-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### ["Il Parkinson lo freghiamo così...". Vincenzo Mollica invita a non arrendersi alla malattia (Video)](https://news.google.com/rss/articles/CBMingFBVV95cUxNN1pVWlRmWlFuM0FYTDdtZzlVLTFCanRIOXVyMnVYbmw3aFBrckpPd3FWWm9VbHFWOGhKQW01LXBTb1ZhZkdKeVNJdFhtdkdacHRHSVFWbUwtVVM2Qmppbk5BQUd4b0pvQzNfQ0FDNjRvRmRxR1dtWmxld0FYcmdDSW9ZekRVWWxhS3I2ZUFQUnp4ZEZnTF9rWnpsaTZjZw?oc=5)
+### [Depression, Angst: Bei 2-3 Tassen Kaffee am Tag niedrigstes Risiko](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmZZZ0hGR0lEQzdmUzQzZzFyeHhTVE4yaFFKWkJfY2cxMjNidXNFbF9DNnhzOTdWSnV2NWMxaFM4MHNvN2tza01QV2xGdXQtbTZzSlF3SThZbS12M3ViR3lwVnBVY3ZscjVuQUs0UmJ0cGg5UGEzVDVMVGR1XzhWMVo2V2NxSFhuekJhbExCbEVZVFBRQ1ZsdDdxSjd3VmRqd3c?oc=5)
 
-2026-04-09 <span class="news-indication-tag">depression</span>
+2026-04-10 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMingFBVV95cUxNN1pVWlRmWlFuM0FYTDdtZzlVLTFCanRIOXVyMnVYbmw3aFBrckpPd3FWWm9VbHFWOGhKQW01LXBTb1ZhZkdKeVNJdFhtdkdacHRHSVFWbUwtVVM2Qmppbk5BQUd4b0pvQzNfQ0FDNjRvRmRxR1dtWmxld0FYcmdDSW9ZekRVWWxhS3I2ZUFQUnp4ZEZnTF9rWnpsaTZjZw?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmZZZ0hGR0lEQzdmUzQzZzFyeHhTVE4yaFFKWkJfY2cxMjNidXNFbF9DNnhzOTdWSnV2NWMxaFM4MHNvN2tza01QV2xGdXQtbTZzSlF3SThZbS12M3ViR3lwVnBVY3ZscjVuQUs0UmJ0cGg5UGEzVDVMVGR1XzhWMVo2V2NxSFhuekJhbExCbEVZVFBRQ1ZsdDdxSjd3VmRqd3c?oc=5)
 
 ---
 

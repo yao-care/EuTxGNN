@@ -14,7 +14,7 @@ permalink: /news/laronidase/
 ---
 
 <p class="key-answer" data-question="Laronidase 有什麼相關新聞？">
-<strong>Laronidase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Laronidase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/laronidase/
 <p><a href="{{ '/drugs/laronidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [El TAC, capaz de predecir la insuficiencia cardíaca años antes de aparecer - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/laronidase/
 2026-04-08 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
-
----
-
-### [¿Cómo identificar un infarto en mujeres? Estas son las señales](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTU9JUGpxR0d0WjBHVXJ0aVZ3SWRjeHpJZmVZMlI5dkpkeV9Bc1JuY3EydEthZnhSOHRmenNnU0d2WjBJcUNUejBDdnY2bkc5cmc0dTBPb0VSUWloN0JDVXZFWEdlVE5nQzZWYVpEYnR4M2pZN25wWHgwdUtMUkVhbGg5ZUx2OTN3S1VZdnE0SWE4cjlYbVdkS3FvY0NmVjdqS1lCalBCNmlHZVJzdWVlZjhuMWhBWEdhNGJlVVQ4X2tQY0I1d2c?oc=5)
-
-2026-04-08 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[mujeresaseguir.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTU9JUGpxR0d0WjBHVXJ0aVZ3SWRjeHpJZmVZMlI5dkpkeV9Bc1JuY3EydEthZnhSOHRmenNnU0d2WjBJcUNUejBDdnY2bkc5cmc0dTBPb0VSUWloN0JDVXZFWEdlVE5nQzZWYVpEYnR4M2pZN25wWHgwdUtMUkVhbGg5ZUx2OTN3S1VZdnE0SWE4cjlYbVdkS3FvY0NmVjdqS1lCalBCNmlHZVJzdWVlZjhuMWhBWEdhNGJlVVQ4X2tQY0I1d2c?oc=5)
 
 ---
 
