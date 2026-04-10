@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [El TAC, capaz de predecir la insuficiencia cardíaca años antes de aparecer - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
 
 2026-04-09 <span class="news-indication-tag">heart disease</span>
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
-
----
-
-### [Alerta del riesgo de los sprays nasales de bronceado: son un peligro para la piel y causan cefalea o hipertensión](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
-
-2026-04-09 <span class="news-indication-tag">hipertensión</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
 
 ---
 
@@ -92,19 +84,19 @@ permalink: /news/telmisartan/
 
 ---
 
+### [¿Cómo identificar un infarto en mujeres? Estas son las señales](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTU9JUGpxR0d0WjBHVXJ0aVZ3SWRjeHpJZmVZMlI5dkpkeV9Bc1JuY3EydEthZnhSOHRmenNnU0d2WjBJcUNUejBDdnY2bkc5cmc0dTBPb0VSUWloN0JDVXZFWEdlVE5nQzZWYVpEYnR4M2pZN25wWHgwdUtMUkVhbGg5ZUx2OTN3S1VZdnE0SWE4cjlYbVdkS3FvY0NmVjdqS1lCalBCNmlHZVJzdWVlZjhuMWhBWEdhNGJlVVQ4X2tQY0I1d2c?oc=5)
+
+2026-04-08 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[mujeresaseguir.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTU9JUGpxR0d0WjBHVXJ0aVZ3SWRjeHpJZmVZMlI5dkpkeV9Bc1JuY3EydEthZnhSOHRmenNnU0d2WjBJcUNUejBDdnY2bkc5cmc0dTBPb0VSUWloN0JDVXZFWEdlVE5nQzZWYVpEYnR4M2pZN25wWHgwdUtMUkVhbGg5ZUx2OTN3S1VZdnE0SWE4cjlYbVdkS3FvY0NmVjdqS1lCalBCNmlHZVJzdWVlZjhuMWhBWEdhNGJlVVQ4X2tQY0I1d2c?oc=5)
+
+---
+
 ### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
-
----
-
-### [Telmisartan verbessert ALS-Symptomatik - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipwFBVV95cUxQenVuUUx4SndfMFRYeXdpbXdNYkgyWEZqVlpIRHl3cVU0ak5JLURvMmljdXN3UmFNcVVtUWdGOVVNR0hIXzF0OTNLZEF0bFVRMXJ3cU10aVhCTEhPNmpXeXdqUXhfY2xBWmJoNlZpYzlBLTl1cEVKMVdJZzZTc2RUSjF5OVVsUWd6akpfTWZDeDlWY2drMjNWamlQdldOYWRsUVZsdEhTOA?oc=5)
-
-2026-04-07 <span class="news-drug-tag">Telmisartan</span>
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipwFBVV95cUxQenVuUUx4SndfMFRYeXdpbXdNYkgyWEZqVlpIRHl3cVU0ak5JLURvMmljdXN3UmFNcVVtUWdGOVVNR0hIXzF0OTNLZEF0bFVRMXJ3cU10aVhCTEhPNmpXeXdqUXhfY2xBWmJoNlZpYzlBLTl1cEVKMVdJZzZTc2RUSjF5OVVsUWd6akpfTWZDeDlWY2drMjNWamlQdldOYWRsUVZsdEhTOA?oc=5)
 
 ---
 

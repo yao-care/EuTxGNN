@@ -14,7 +14,7 @@ permalink: /news/mometasone/
 ---
 
 <p class="key-answer" data-question="Mometasone 有什麼相關新聞？">
-<strong>Mometasone</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mometasone</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ permalink: /news/mometasone/
 <p><a href="{{ '/drugs/mometasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（31 則）
+
+### [Krebs: Neuer Wirkstoff trifft Magenkeim überraschend präzise – Forscher sprechen von einem Durchbruch](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVU5JVU1aTnd5YlplbEZEWW0xZEZnRHg1WXMxbHZXQUhuR2ZVVkxiM0FZRjVJdUczc1kyWGlELURJOG1RVmhvdk9FZlFSYVNlTHRLU3hIS2x4OWhPMDVKTzdMZVIzOGZpZmx4NmV1eXV6TW9vdlliNGVoWkI2MjF3SEJzdkNaWkZCdXFJRUdqcDFmSTc1Y2M1RmxSR0hZdjNfamJkTk5KY2w1amNDQzZSenZzeFFxekVQMG1CSENNcTZHV3FBcEhIYVg5UFFYcUxudzhnVVpkTE15amw0djl0Z3Z4NV80Wm5rTWJnTklHeHZSRm5udkFndjU3dzE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVU5JVU1aTnd5YlplbEZEWW0xZEZnRHg1WXMxbHZXQUhuR2ZVVkxiM0FZRjVJdUczc1kyWGlELURJOG1RVmhvdk9FZlFSYVNlTHRLU3hIS2x4OWhPMDVKTzdMZVIzOGZpZmx4NmV1eXV6TW9vdlliNGVoWkI2MjF3SEJzdkNaWkZCdXFJRUdqcDFmSTc1Y2M1RmxSR0hZdjNfamJkTk5KY2w1amNDQzZSenZzeFFxekVQMG1CSENNcTZHV3FBcEhIYVg5UFFYcUxudzhnVVpkTE15amw0djl0Z3Z4NV80Wm5rTWJnTklHeHZSRm5udkFndjU3dzE?oc=5)
+
+---
+
+### [Pesticides, pollution, cadmium… Le cancer est-il «au bout de la fourchette» ? Ce que dit vraiment la science - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVm4yOVBFZFh6bHZQbmpKcXJral9obTFTVGU3VzE5QnR1ajRUVWNLRXFzdGNjdUJvZGluMVhaTWdlZWFCaGhxY3dRX0xzTEpPcjM3cHdjZEczcTBoLVMyeU0tY1RKNGhSc2Fxc3poWEp0ejIzdFB6WXBmMVRGN1dNdktJZFJ4T1ZTUkkxWnEwRnU2Z2g2UXBSZktlQ1R6UUdhaG5SREp3b3hnUzNsVDdFanp3bldVYXZIa0hwWkxGOFE2NUdXdWV4U1JBbS1tOXJfMEE?oc=5)
+
+2026-04-09 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVm4yOVBFZFh6bHZQbmpKcXJral9obTFTVGU3VzE5QnR1ajRUVWNLRXFzdGNjdUJvZGluMVhaTWdlZWFCaGhxY3dRX0xzTEpPcjM3cHdjZEczcTBoLVMyeU0tY1RKNGhSc2Fxc3poWEp0ejIzdFB6WXBmMVRGN1dNdktJZFJ4T1ZTUkkxWnEwRnU2Z2g2UXBSZktlQ1R6UUdhaG5SREp3b3hnUzNsVDdFanp3bldVYXZIa0hwWkxGOFE2NUdXdWV4U1JBbS1tOXJfMEE?oc=5)
+
+---
+
+### [Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
+
+2026-04-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
+
+---
+
+### [Nierenkrebs: Doppelte Fälle bis 2050 erwartet - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0VmbmYxZkR3NWcxVEhjUEZWU3hXZ3h2YVp1OFRQOXZMVUltWHNyaGlUcl9JYVZyUDNfT2NIM3lMVnRLNUJ5Uy1zRTlUeEp1SC1FM2NNZVVVS0lzUUhiRXdaQ0dkY2M2dXp2WFRLTDNfdzJJcFJBMXZFa3JyU1E1TjV1NzhRbTkwOUVfT09TY0dMNmRLNnpVSVdLRVZNSi1hQlZ6TzNJOA?oc=5)
+
+2026-04-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0VmbmYxZkR3NWcxVEhjUEZWU3hXZ3h2YVp1OFRQOXZMVUltWHNyaGlUcl9JYVZyUDNfT2NIM3lMVnRLNUJ5Uy1zRTlUeEp1SC1FM2NNZVVVS0lzUUhiRXdaQ0dkY2M2dXp2WFRLTDNfdzJJcFJBMXZFa3JyU1E1TjV1NzhRbTkwOUVfT09TY0dMNmRLNnpVSVdLRVZNSi1hQlZ6TzNJOA?oc=5)
+
+---
 
 ### [“Estaba cansada, me decían que era estrés y tenía un tumor en la hipófisis”: el síndrome del exceso de cortisol que todavía se diagnostica tarde - La Vanguardia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbGVrM3VZYkJEVWEyQV9LMjc5WFNfeWV2T2pIRksta1F4TG5LbmNzeVVLVkswbnZZSFJNN0xOLWdzc1Z4S056UkJFV19tR2lWYVdILVlFeXpZMXhUTUlvT1FqX1pnZ3k0Mlgwckw3bjJ2WmZCd3FMb19DRHpSYzVMMUZqaHRMRVI1QUZhU3cwX3JPUTI0aThzSmlvb0RkTmJ2aVM3VTZFS0xuLWZnWnVqYjhzSHpwdFRRWUhEYjF2VjZmTTgySVBLRG1TSjVoa19Ic3ZWbTctM3dCdi1YTkR6Y3ZUZVdNQm1zMVdxcXFoZktNQThsb3ByUzF0RTnSAYICQVVfeXFMT3kxckhoY0ZSbEpmNGdTVWtaNnpONmFEV2ZkR29LNURCQ0VsVGpDM0FrQ25PRV80czNXS2FpSDlNM3AyMHpyQUNUelJDSFVNaUowNHdsdi1Yc0lacC00Z1VJVEVpNzBpYkEySHJBTkVmYmRPY3ZiUEhOS2VBTFFHam5HSVRuOGRvYVZvMEthR0xldll0WWdfVjVJN3Q0aGhyM3FRdzRmZDlGV3hVcnhONlkwWEF3el9fYUVsTUZfb0N6VWhhTXdqNDlwMk1pZklNMnZoSFg2cHlacU1UdXZMSmRQWndkM0hlN2hfOUVIQXdzMmJHMXZMV3Z2R2QxdE9iWnNR?oc=5)
 
@@ -60,17 +92,9 @@ permalink: /news/mometasone/
 
 ---
 
-### [Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
-
-2026-04-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
-
----
-
 ### [Wenn Darmbakterien der Krebstherapie Schub geben - UZH News](https://news.google.com/rss/articles/CBMieEFVX3lxTE1oTGh4TUdlZUpwVUkzTUpmd3Zic1FQcW53Y1RKTUJ5Y2NZS3gzUU1WcXF2bjd2eWwwNkpUejZSRWdFZXU0TjVyMEtnRjhDRlF1Zm1WMHpwSE5oVWN6YjNzdmd4QU56NjlBX0M3R01yYmR5ejZ3RnFlVg?oc=5)
 
-2026-04-09 <span class="news-indication-tag">tumor</span>
+2026-04-09 <span class="news-indication-tag">Krebs</span>
 
 來源：[UZH News](https://news.google.com/rss/articles/CBMieEFVX3lxTE1oTGh4TUdlZUpwVUkzTUpmd3Zic1FQcW53Y1RKTUJ5Y2NZS3gzUU1WcXF2bjd2eWwwNkpUejZSRWdFZXU0TjVyMEtnRjhDRlF1Zm1WMHpwSE5oVWN6YjNzdmd4QU56NjlBX0M3R01yYmR5ejZ3RnFlVg?oc=5)
 
@@ -100,6 +124,38 @@ permalink: /news/mometasone/
 
 ---
 
+### [NHS urges checks for persistent heartburn as Nottinghamshire man shares cancer story - West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
+
+2026-04-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
+
+---
+
+### [Hidden Danger: Widely Used Pesticides Linked to 150% Higher Cancer Risk](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0s0MmJDUDJ1dm5sQWE4VDlFOGNKUWxzX0pMQnRoeWhiYWZxN1NjbmFSTDc3UWlmOTV1aVRhcWV2aUxGQ24zY1FKdl9zYnRPQWdUTEV3Z1FyUGgyR3d0RXItVUtYbzFCb18ycTVwR0x1Ui1PSGlNdHNIVHJCcU12UHJQSWdqVEVxNENkS21oVzlqUExfVnlEWU10TQ?oc=5)
+
+2026-04-09 <span class="news-indication-tag">cancer</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0s0MmJDUDJ1dm5sQWE4VDlFOGNKUWxzX0pMQnRoeWhiYWZxN1NjbmFSTDc3UWlmOTV1aVRhcWV2aUxGQ24zY1FKdl9zYnRPQWdUTEV3Z1FyUGgyR3d0RXItVUtYbzFCb18ycTVwR0x1Ui1PSGlNdHNIVHJCcU12UHJQSWdqVEVxNENkS21oVzlqUExfVnlEWU10TQ?oc=5)
+
+---
+
+### [New treatment offers 'hope' for children with rare and aggressive cancers - Sky News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2tsd0lVNzN3bGRFbUx5ZERMSV9iejZFN255SHZoMmtTMWd4MExGWmNtTzBvVHE0WHFXeWdBcDVYaHMzR19TRDJ5YXM3NVFaVDBfU05oelN0QnhjQVIyTHlsTWh2eDNxZTRnNXpYZTBxUGFlN19BSVVYWjZ0aGN1bHhmc0ZfSlg1VXBTUXhvMkowelI4VDJVVGFpaG11WGhnbUxtMnl0Nm52d0U?oc=5)
+
+2026-04-09 <span class="news-indication-tag">cancer</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2tsd0lVNzN3bGRFbUx5ZERMSV9iejZFN255SHZoMmtTMWd4MExGWmNtTzBvVHE0WHFXeWdBcDVYaHMzR19TRDJ5YXM3NVFaVDBfU05oelN0QnhjQVIyTHlsTWh2eDNxZTRnNXpYZTBxUGFlN19BSVVYWjZ0aGN1bHhmc0ZfSlg1VXBTUXhvMkowelI4VDJVVGFpaG11WGhnbUxtMnl0Nm52d0U?oc=5)
+
+---
+
+### [Greenock woman ignored routine test for 20 years - then collapsed 'covered in blood' - Glasgow Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPakQtY3NtQ1BtY1NVNmE2MlV5bk96dWhRMVl2RjRuN1JTU3U5NXF5UkxGcWM3ZndER1BPLUt6N3ZQbGRlbW8tQkxCU0lxeFgtUll2TGNkbkVabmJpQUN0aGU2Qm13Uk9vbDMxWU1QZGpxMXI5Z1Q3ZFZ1NHlXNzZid2xtR0tEQTIyNk44bTRLanpwWkppNWdJ?oc=5)
+
+2026-04-09 <span class="news-indication-tag">cancer</span>
+
+來源：[Glasgow Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPakQtY3NtQ1BtY1NVNmE2MlV5bk96dWhRMVl2RjRuN1JTU3U5NXF5UkxGcWM3ZndER1BPLUt6N3ZQbGRlbW8tQkxCU0lxeFgtUll2TGNkbkVabmJpQUN0aGU2Qm13Uk9vbDMxWU1QZGpxMXI5Z1Q3ZFZ1NHlXNzZid2xtR0tEQTIyNk44bTRLanpwWkppNWdJ?oc=5)
+
+---
+
 ### [Pascale, uno studio sui tumori ha individuato il “motore” dell'aggressività: ora si possono fermare prima - Il Mattino](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWlsMlpyYUVzbXRzZ25samk1Zm1FdGRzWEtCYVc5aERyUVNPVjkxck9OTEZpa2Fvd3B0Q09pVVdUZDAxMm1CQ28xMjN0T2FkSlVzb2dTSFp2QkpuUzd0RVBodERJazI2WDRubE84ZHhManlzSFpsVjNMY1ZXNUh1Vy0zUThZNkxOQl84VTRac1EyREZucFBKVUFPallLcEltMHhwS1JPZVNabFpZRGxvYtIBtgFBVV95cUxQZE1yLWhIZ3VqWHVlVlZUWDdWQUt0SEdVVHNlbVNValFmd0F1RkVveG9KQU1DTGc0MGVkZmhuUUhmUVQwSnZMQk81VUk0eklLQXV2Tmxqd1ZsM2Z5ZERha1lXZm5ZRlBwQzJiT213dDFSNGdZVGJXalF5c0FsTlp6OWx2OHZhOHhBeEh0SE5udm9aMEdyT3lRYlBRODRRWjJGMVlnNC1PSXdhSzdIN3dlQ05FS3VnZw?oc=5)
 
 2026-04-09 <span class="news-indication-tag">tumor</span>
@@ -113,14 +169,6 @@ permalink: /news/mometasone/
 2026-04-09 <span class="news-indication-tag">Krebs</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZTctTkExT3ZaYmFtQ2JxNkxaZ3JuTkVJb21QMV9FYlJ6QmVNaVF4NV9wV1RnV1J2N29zTmpZeGRjNlJ0ZlNpYjZGenE3M3U2RjdhTzF0Nmx3SFQwaV9yWXUyLTNRRktUOTRhWEhtOHF5amxwTXRBVjRaWTVjSGJjSjREVnQ1RzRrSE93?oc=5)
-
----
-
-### [Warum die HPV-Impfung keine Mädchensache ist](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUHJmYzZxXzdteUpkQmwtUkxxV0EzNE14VElTNWZjd1hiNkZzOGwyLTM0b0hIdUMtcUM2TnBYME51T1lnazVvaGF5dDBCRFY3TmxJTnllT3NUb1NVU29KSmRjT1hyay1vNnoyaXdHdFZQaDdoc3Z6dTlmWGdtcDJDYg?oc=5)
-
-2026-04-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[FINK.HAMBURG](https://news.google.com/rss/articles/CBMigAFBVV95cUxNUHJmYzZxXzdteUpkQmwtUkxxV0EzNE14VElTNWZjd1hiNkZzOGwyLTM0b0hIdUMtcUM2TnBYME51T1lnazVvaGF5dDBCRFY3TmxJTnllT3NUb1NVU29KSmRjT1hyay1vNnoyaXdHdFZQaDdoc3Z6dTlmWGdtcDJDYg?oc=5)
 
 ---
 
@@ -140,11 +188,11 @@ permalink: /news/mometasone/
 
 ---
 
-### [Synthetic super-enhancers enable precision viral immunotherapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xMUNGd3lJQS03OVFYSWRqZ0tqX3g0OXNVSm9pazk0OXBNTXYyd2lEbWJJUVFUSC1qSjNJMkpQcVZwOUV6VUN4clYxX1lGaDlwaWhnQ3h5LWJQYnBjZmVR?oc=5)
+### [Tumour trap: engineered enhancer sequences enlisted to kill cancer cells](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OaUNGNmVQcUphZ0trQmtwdWhXYk5qaVl1bnpqR0FMWU5wMjF1LW8yVFhYOEMwS0ozTDRNWTZKU2VEUENRVjlsSUJqM09LMkZDYWt3SUxabU9nUXNJRmdz?oc=5)
 
 2026-04-08 <span class="news-indication-tag">cancer</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xMUNGd3lJQS03OVFYSWRqZ0tqX3g0OXNVSm9pazk0OXBNTXYyd2lEbWJJUVFUSC1qSjNJMkpQcVZwOUV6VUN4clYxX1lGaDlwaWhnQ3h5LWJQYnBjZmVR?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OaUNGNmVQcUphZ0trQmtwdWhXYk5qaVl1bnpqR0FMWU5wMjF1LW8yVFhYOEMwS0ozTDRNWTZKU2VEUENRVjlsSUJqM09LMkZDYWt3SUxabU9nUXNJRmdz?oc=5)
 
 ---
 
@@ -212,35 +260,11 @@ permalink: /news/mometasone/
 
 ---
 
-### [Krebs: Neuer Wirkstoff trifft Magenkeim überraschend präzise – Forscher sprechen von einem Durchbruch](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVU5JVU1aTnd5YlplbEZEWW0xZEZnRHg1WXMxbHZXQUhuR2ZVVkxiM0FZRjVJdUczc1kyWGlELURJOG1RVmhvdk9FZlFSYVNlTHRLU3hIS2x4OWhPMDVKTzdMZVIzOGZpZmx4NmV1eXV6TW9vdlliNGVoWkI2MjF3SEJzdkNaWkZCdXFJRUdqcDFmSTc1Y2M1RmxSR0hZdjNfamJkTk5KY2w1amNDQzZSenZzeFFxekVQMG1CSENNcTZHV3FBcEhIYVg5UFFYcUxudzhnVVpkTE15amw0djl0Z3Z4NV80Wm5rTWJnTklHeHZSRm5udkFndjU3dzE?oc=5)
-
-2026-04-08 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVU5JVU1aTnd5YlplbEZEWW0xZEZnRHg1WXMxbHZXQUhuR2ZVVkxiM0FZRjVJdUczc1kyWGlELURJOG1RVmhvdk9FZlFSYVNlTHRLU3hIS2x4OWhPMDVKTzdMZVIzOGZpZmx4NmV1eXV6TW9vdlliNGVoWkI2MjF3SEJzdkNaWkZCdXFJRUdqcDFmSTc1Y2M1RmxSR0hZdjNfamJkTk5KY2w1amNDQzZSenZzeFFxekVQMG1CSENNcTZHV3FBcEhIYVg5UFFYcUxudzhnVVpkTE15amw0djl0Z3Z4NV80Wm5rTWJnTklHeHZSRm5udkFndjU3dzE?oc=5)
-
----
-
-### [New treatment offers 'hope' for children with rare and aggressive cancers - Sky News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2tsd0lVNzN3bGRFbUx5ZERMSV9iejZFN255SHZoMmtTMWd4MExGWmNtTzBvVHE0WHFXeWdBcDVYaHMzR19TRDJ5YXM3NVFaVDBfU05oelN0QnhjQVIyTHlsTWh2eDNxZTRnNXpYZTBxUGFlN19BSVVYWjZ0aGN1bHhmc0ZfSlg1VXBTUXhvMkowelI4VDJVVGFpaG11WGhnbUxtMnl0Nm52d0U?oc=5)
-
-2026-04-08 <span class="news-indication-tag">cancer</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2tsd0lVNzN3bGRFbUx5ZERMSV9iejZFN255SHZoMmtTMWd4MExGWmNtTzBvVHE0WHFXeWdBcDVYaHMzR19TRDJ5YXM3NVFaVDBfU05oelN0QnhjQVIyTHlsTWh2eDNxZTRnNXpYZTBxUGFlN19BSVVYWjZ0aGN1bHhmc0ZfSlg1VXBTUXhvMkowelI4VDJVVGFpaG11WGhnbUxtMnl0Nm52d0U?oc=5)
-
----
-
 ### [Lungenkrebs: Oft warnt erst die Leber vor dem stummen Tumor - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUl4Q08xbC11T0gxSmhpeWJPYXgxdnVvYWtMN3ZUQkdpNDlSZ1ZHOEJkOFZ4ZXFiM25pcWhBSHFKUElfNWNhc0ZxZ3ZaTnV2TE9XclRmTERDSnFrY3pjYVFTaHlQZEVWSGljYjBmc216Y25wTUQxR093WEdwSGx0cVRjQ2ZiMkxqRDkySjhaRGRqN2RTRnl5U3dnTkhVNkFnRXlpUHMxcVg0OXFFRmo4YzZUUFBHZUR2?oc=5)
 
 2026-04-08 <span class="news-indication-tag">tumor</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUl4Q08xbC11T0gxSmhpeWJPYXgxdnVvYWtMN3ZUQkdpNDlSZ1ZHOEJkOFZ4ZXFiM25pcWhBSHFKUElfNWNhc0ZxZ3ZaTnV2TE9XclRmTERDSnFrY3pjYVFTaHlQZEVWSGljYjBmc216Y25wTUQxR093WEdwSGx0cVRjQ2ZiMkxqRDkySjhaRGRqN2RTRnl5U3dnTkhVNkFnRXlpUHMxcVg0OXFFRmo4YzZUUFBHZUR2?oc=5)
-
----
-
-### [Alteraciones genéticas asociadas a la invasión angiolinfática en el carcinoma de células escamosas de cabeza y cuello - Gaceta Dental](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQThLWE1aZkdDNzhBR0tPUVY5ZUh0TlpJLUtkMmh0bDNEREdIUXA3WC1rZ05fM3NJUnZYZ0pyTVdjbjJFQ24xSTZzWk5HRDUwWUlSbTlWMDV2SmZaeXZTajZOTEwwT3hRU214OHlHQ0RDa2l6UWtheVpsb1ZWLXFLMy1PcXlNdnpuQVpmWncxT3FKM3o1b0U0OWdRNWtuMVN5QUduYlhxZnp0a2NkbkNZeGY5akxWRkc1akg2LWdNaw?oc=5)
-
-2026-04-08 <span class="news-indication-tag">carcinoma</span>
-
-來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQThLWE1aZkdDNzhBR0tPUVY5ZUh0TlpJLUtkMmh0bDNEREdIUXA3WC1rZ05fM3NJUnZYZ0pyTVdjbjJFQ24xSTZzWk5HRDUwWUlSbTlWMDV2SmZaeXZTajZOTEwwT3hRU214OHlHQ0RDa2l6UWtheVpsb1ZWLXFLMy1PcXlNdnpuQVpmWncxT3FKM3o1b0U0OWdRNWtuMVN5QUduYlhxZnp0a2NkbkNZeGY5akxWRkc1akg2LWdNaw?oc=5)
 
 ---
 
@@ -265,14 +289,6 @@ permalink: /news/mometasone/
 2026-04-08 <span class="news-indication-tag">tumor</span>
 
 來源：[l'Adige](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaU0yYU9GT1NuZGlRay1KdmtPd081OTF2cEtXYjZiUDZfdERwZWRNdDA1djAwc1ZnLXh6X0lWSzg5OWxBN25xRFRFWThtUVZPMXo2eHFzYkh1V3FEcTFrdG9iNzIySm9XcnpCMjVKWGRZTlFDYVZkQ3VkLWpMRHA4NXdDT3FubEFMakthR0tVWF9rS01SQWdpbHpma2ZaYXo4VHRuVkVHUUEwYUxQRlBJeEJHeHFmY3g4R0dLcFdfQ1dXYnZQT0hIbko4NS1YckxtLWZpWjBaUmx2bGF0?oc=5)
-
----
-
-### [Nuovo test del sangue low cost rileva più tumori insieme](https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWh2ajBXOFhCTDQ1bXVYS2ZST1IwMVpQWmUwdjNvTzdiSnpDV3lfbnp3WnNjVG5fTlltUnhmd1F5czJESHAxN1A4c1FhbzNXbmg0aVVNSmpKV2gzOTlnRU0tV3dFeHhXT3FiOFRDMG91UFdYNlI3TkNNRzluVzJPNjN6bTVXUQ?oc=5)
-
-2026-04-08 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWh2ajBXOFhCTDQ1bXVYS2ZST1IwMVpQWmUwdjNvTzdiSnpDV3lfbnp3WnNjVG5fTlltUnhmd1F5czJESHAxN1A4c1FhbzNXbmg0aVVNSmpKV2gzOTlnRU0tV3dFeHhXT3FiOFRDMG91UFdYNlI3TkNNRzluVzJPNjN6bTVXUQ?oc=5)
 
 ---
 

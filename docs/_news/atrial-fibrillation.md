@@ -3,7 +3,7 @@ layout: default
 title: "AF（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。29 則新聞、39 個相關藥物。"
+description: "AF（atrial fibrillation） 的相關健康新聞報導。30 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>29 則</strong>相關新聞報導，39 個相關藥物。
+<strong>AF（atrial fibrillation）</strong> 目前有 <strong>30 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,31 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（30 則）
+
+### [Rätselhaftes Hunde-Massensterben in Skandinavien endlich geklärt](https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1ZWRV9POFc0R2Z3UW9fUmNNeFVYMGFlRUx3NTdFZktYNnJBTFd3eUN2NEZqZmZxYzByQVNqZEdWc2hpNUFOby1ZQWVjVXQ5Mnd4RWhfdnd4dWRJRTFEQ3NyV1J3NjZFNXZ0VWNvNDI1cm5lV3lVM015bDNRTDZ5Z0FrX015R3RvdTZsdWhJQW9mSm16aWZWNlhlVnZDcV93akxyVQ?oc=5)
+
+2026-04-09
+
+來源：[Nordisch.info](https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1ZWRV9POFc0R2Z3UW9fUmNNeFVYMGFlRUx3NTdFZktYNnJBTFd3eUN2NEZqZmZxYzByQVNqZEdWc2hpNUFOby1ZQWVjVXQ5Mnd4RWhfdnd4dWRJRTFEQ3NyV1J3NjZFNXZ0VWNvNDI1cm5lV3lVM015bDNRTDZ5Z0FrX015R3RvdTZsdWhJQW9mSm16aWZWNlhlVnZDcV93akxyVQ?oc=5)
+
+---
+
+### [ChatGPT uncovered woman's rare condition after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
+
+2026-04-09
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
+
+---
+
+### [Harinas blancas y azúcar aceleran el hígado graso y elevan el riesgo de complicaciones metabólicas graves](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM1FwZWEweWxCcGpjT19yT25YbGhKYkVpeEItaTV6c1NrOFBrWXpmRktGTDJpM0daMi0yNkJlRF9BeDctTE9nZEdqRl9OVElwZjFnNHlxTTc0OUZ6MDh0OU4yY0lGQXVmWHMtbXcwWkl5UEg4Nk4tTmpmTkpnRTBEblJVNUJNX2lPRmJERkpqdEhWcHlPM3d6bllUbGVVdXl0WTN2SHVuVWs1dE9NVGp4MTMwMUUzTGxSMGVMTExlTmxMSDcxQWpIblEydzFYUkdlR09UQUpQTWVmX3pGVjROT3c5RUhUNmxzOU5JcTlSc9IB9AFBVV95cUxPMVdMbVUwdnhOU0FBd2pzWF93ZFVRUmVjSU5vdjJhZlR5UmJpX1R3QTl6V21HeXJvYXFHSFpwNmJKQTVwZ3pHN0RWb2x5LUh6ZXk5aGsyOElIUUpqdFFYb21Mb0ZPeEhHQlJCRm1RTDZ4QjNfQWZDMTFKby1KbEViZWliTWV0NmJtMWxmYl91ZXRTTmNCZEFNZ0lrejl0dnNfWExCLUtkZVFkdnF0V3J5S2prdC1TMllJUWNjRDhWRUZORmdpOHd5TzRwbGp5Ylg3Q2NxdWZfdzh2YVZWekpkQ25hUGJ2RWhuR29lZGdlai01bnQw?oc=5)
+
+2026-04-09
+
+來源：[Portafolio.co](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM1FwZWEweWxCcGpjT19yT25YbGhKYkVpeEItaTV6c1NrOFBrWXpmRktGTDJpM0daMi0yNkJlRF9BeDctTE9nZEdqRl9OVElwZjFnNHlxTTc0OUZ6MDh0OU4yY0lGQXVmWHMtbXcwWkl5UEg4Nk4tTmpmTkpnRTBEblJVNUJNX2lPRmJERkpqdEhWcHlPM3d6bllUbGVVdXl0WTN2SHVuVWs1dE9NVGp4MTMwMUUzTGxSMGVMTExlTmxMSDcxQWpIblEydzFYUkdlR09UQUpQTWVmX3pGVjROT3c5RUhUNmxzOU5JcTlSc9IB9AFBVV95cUxPMVdMbVUwdnhOU0FBd2pzWF93ZFVRUmVjSU5vdjJhZlR5UmJpX1R3QTl6V21HeXJvYXFHSFpwNmJKQTVwZ3pHN0RWb2x5LUh6ZXk5aGsyOElIUUpqdFFYb21Mb0ZPeEhHQlJCRm1RTDZ4QjNfQWZDMTFKby1KbEViZWliTWV0NmJtMWxmYl91ZXRTTmNCZEFNZ0lrejl0dnNfWExCLUtkZVFkdnF0V3J5S2prdC1TMllJUWNjRDhWRUZORmdpOHd5TzRwbGp5Ylg3Q2NxdWZfdzh2YVZWekpkQ25hUGJ2RWhuR29lZGdlai01bnQw?oc=5)
+
+---
 
 ### [Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
 
@@ -77,11 +101,19 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [“Cicada”: así se comporta la nueva subvariante del Covid que está bajo vigilancia - Diario Libre](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3p6SjQ0bjNVQjd6N2tvS1RJeEUzZXFzaWRiMkFFenJ6eXN5N3hlVDQxMEF2MWJ6ZDhSTDVOWUhMSFZjaWI0ektPSU1TN2JhOVV6OE1OQl9hQUpDX0xaMlZ1a3V6ZzFnQ0dRY0M5Snh0WkhZX3ZoOGI0czZNaE9qY0lnMkd2eUJfb2tzV3d0UmFKejNheGpCZFBpN0hKaWExclhPbUZaaEpaWERzLTMyNUlURFpCN3NN0gG-AUFVX3lxTFBHOFVKX09lUEJKRGJwYm92ZUMxNEFlay1jV0ZFR0dQTlFtU3BDVktiZDBZbnh2R3RMT211cGE0VktSMUxBdW9rMU5vX1dmM00xVklodXZuNjFrZkJZemlqcFRLOTc1bWMwVWhxMW1CTkpVd09qWk5zalVWM3JXYXJSNVE1VlRpS1FJSDRFQmkzRVJXZGF6aDBPTGI5bTZ6cTVhaTlVd3pSSHpHM1ZIVDdPY3J1dkhnb3Bod2EwRHc?oc=5)
+### [Bird flu protection zone in North Yorkshire lifted](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
 
 2026-04-09
 
-來源：[Diario Libre](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3p6SjQ0bjNVQjd6N2tvS1RJeEUzZXFzaWRiMkFFenJ6eXN5N3hlVDQxMEF2MWJ6ZDhSTDVOWUhMSFZjaWI0ektPSU1TN2JhOVV6OE1OQl9hQUpDX0xaMlZ1a3V6ZzFnQ0dRY0M5Snh0WkhZX3ZoOGI0czZNaE9qY0lnMkd2eUJfb2tzV3d0UmFKejNheGpCZFBpN0hKaWExclhPbUZaaEpaWERzLTMyNUlURFpCN3NN0gG-AUFVX3lxTFBHOFVKX09lUEJKRGJwYm92ZUMxNEFlay1jV0ZFR0dQTlFtU3BDVktiZDBZbnh2R3RMT211cGE0VktSMUxBdW9rMU5vX1dmM00xVklodXZuNjFrZkJZemlqcFRLOTc1bWMwVWhxMW1CTkpVd09qWk5zalVWM3JXYXJSNVE1VlRpS1FJSDRFQmkzRVJXZGF6aDBPTGI5bTZ6cTVhaTlVd3pSSHpHM1ZIVDdPY3J1dkhnb3Bod2EwRHc?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
+
+---
+
+### [Woman sneezes WORMS out her nose after complaining of face pain - docs found 10 - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZS1OWjU0YlZsdXM0WF9ZRUlIUGNsNHYyZEVBbFNJRmtoZGZNeVcxcE0xQWhHUFhFcjh3QzB4NG9VTXkwbmV3d2FkZmtoQTk0V3VUdXdKVEN1U1hzdm1Ua2ZfUkJYalRXQzlaZHdrWFp3U0cya2p2dVplazU0aGtZT0dQM213NGNpVnc?oc=5)
+
+2026-04-09
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZS1OWjU0YlZsdXM0WF9ZRUlIUGNsNHYyZEVBbFNJRmtoZGZNeVcxcE0xQWhHUFhFcjh3QzB4NG9VTXkwbmV3d2FkZmtoQTk0V3VUdXdKVEN1U1hzdm1Ua2ZfUkJYalRXQzlaZHdrWFp3U0cya2p2dVplazU0aGtZT0dQM213NGNpVnc?oc=5)
 
 ---
 
@@ -93,11 +125,19 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Lentes de contacto inteligentes sin batería: monitorizan la presión ocular y liberan fármacos para el glaucoma](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR2o0Umx2UDNadEZKaWl0b1NyZHRHN1kzQUNRR01yYm1rZ2lQVmxhYmJSeFQzTHFaNm5LZzhQYUw0a3V1NlliZE1XajhFM0l1RzlnNzdmbEZxb3huS0NzYTQ2MF9aajBqZXBmX3Y5MkJTU3JKNmpXaExwSmtFMnFVeE9yX2JwOGtfa1hpdndLb2FqMXN6MW5FRFNSeUlxMFdWN1BKLUJ1MzFZYzhTeXRjTHdJTUx2aTEyY20zVU1KQkxnLXkyQ2V0VU51SlNaSlFqVlQ5Z0pDY1RkNHE0T3pNMmJsMHpIS3c?oc=5)
+### [BESSY II liefert Einblicke in die Chemie von Hydroxyl-Radikalen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYU8zQUlWQlE0RTk1elkzdWNIX2Fyb0JtamxrWUhtd3RDMzdQQ3R6aERreFg2WjBsc3p1YnRUWmxQMi1GNHd2V1FJUUZpcEp6UlVWZ2JJUHUtVEpsd3cta1RYVFRPdHVjSm5sR3h3UzFFcVVHSDBzcThOX19RRFotYzRid2lpZHB0UzN6WGtlX0w5Q1MwYnZjZE1Jc0dkREpmZy1xYWNueE5BV212a0VEQm1DU2JWQ0VsTVpRS3BB?oc=5)
 
 2026-04-09
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR2o0Umx2UDNadEZKaWl0b1NyZHRHN1kzQUNRR01yYm1rZ2lQVmxhYmJSeFQzTHFaNm5LZzhQYUw0a3V1NlliZE1XajhFM0l1RzlnNzdmbEZxb3huS0NzYTQ2MF9aajBqZXBmX3Y5MkJTU3JKNmpXaExwSmtFMnFVeE9yX2JwOGtfa1hpdndLb2FqMXN6MW5FRFNSeUlxMFdWN1BKLUJ1MzFZYzhTeXRjTHdJTUx2aTEyY20zVU1KQkxnLXkyQ2V0VU51SlNaSlFqVlQ5Z0pDY1RkNHE0T3pNMmJsMHpIS3c?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYU8zQUlWQlE0RTk1elkzdWNIX2Fyb0JtamxrWUhtd3RDMzdQQ3R6aERreFg2WjBsc3p1YnRUWmxQMi1GNHd2V1FJUUZpcEp6UlVWZ2JJUHUtVEpsd3cta1RYVFRPdHVjSm5sR3h3UzFFcVVHSDBzcThOX19RRFotYzRid2lpZHB0UzN6WGtlX0w5Q1MwYnZjZE1Jc0dkREpmZy1xYWNueE5BV212a0VEQm1DU2JWQ0VsTVpRS3BB?oc=5)
+
+---
+
+### [ELDA: nueva plataforma para predecir en tiempo real la respuesta a fármacos en leucemia linfoblástica aguda](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUDExRUNQSmFPam9BXy03VWFEN1hIdnNlUF93RFJIRmE0eHFBTjE3THlyaDJrLURKTzlGT1FTWG9xOHlrX2oteTNLZ3VSMUNhb2tuc3RPTXRqdTV5dDZUcExVNDdEdWlScHNjQTFDZTJhSkY1VWZ2c2Q1azFsM3dLMGJVQ2t1dmcyc2tkeGNZVFVYQXpFV0xCWEh4UDBfeDBxcGtpUTdLVEZYcVBmWngtYzJNWDl4M3IxOFVObUJLQWZYTDhmeWxmQURwSG5Ya2g0d3FYS092Z0xUbDVxb3NVWF9wOA?oc=5)
+
+2026-04-09
+
+來源：[oncobites.tv](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUDExRUNQSmFPam9BXy03VWFEN1hIdnNlUF93RFJIRmE0eHFBTjE3THlyaDJrLURKTzlGT1FTWG9xOHlrX2oteTNLZ3VSMUNhb2tuc3RPTXRqdTV5dDZUcExVNDdEdWlScHNjQTFDZTJhSkY1VWZ2c2Q1azFsM3dLMGJVQ2t1dmcyc2tkeGNZVFVYQXpFV0xCWEh4UDBfeDBxcGtpUTdLVEZYcVBmWngtYzJNWDl4M3IxOFVObUJLQWZYTDhmeWxmQURwSG5Ya2g0d3FYS092Z0xUbDVxb3NVWF9wOA?oc=5)
 
 ---
 
@@ -106,6 +146,14 @@ permalink: /news/atrial-fibrillation/
 2026-04-09
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFOeEVpZ09DUGxzTXV6blVVWFk4d3VHblZ1SGpSTllnTTZHMkRJYWYzWTk4cFdIWm9rY3ZYak9TWTVLRkRoNEJkdzIzSnk2TnV5ZjhJQXNOMFoxZzUzQ1VQSjh2bnh1a3F6LS1iQkFzSGZUR3FoT0ZzRE1Wejc1SGxsdkJwVGhaOVg1Y3RCa0J3TnRWRnlYeTFjb2Rad0ZINmJqNkdCMUN0ajlKOXJQSGZYZGNsSkpnU0hJUEpnY1c5MlnSAcgBQVVfeXFMT3g3bVZvaDF2QWtnRzJfVmQwQlZGOFoya2hTX2ZaQks4M3NpakJpOWxIX2VYNkpmS1pwaGc5dG9mRTJCZVVEcVE0QlRibWVrLUkzN2p4Snd0MktvUmZMVVVmeHZSenNOV2JJTW9JWFNoT2pJdUd5cUJfNnI3LUZ5UTFCU2hfNTNFNjBucS1QckRqOE1aY2ExRDB4b2Z1MGJRSWtYb0hxeUtoai00VTJKYk9kRUtMbGRvZmNDUmxuVEM4dVpkVmhWOEQ?oc=5)
+
+---
+
+### [Un estudio médico desvela que la gran mayoría de los pacientes de Parkinson sufren problemas con la vista que](https://news.google.com/rss/articles/CBMipAJBVV95cUxOVVYxWmFFdlZWLTJsOEdaWUNRZk5LaHVqSHVEbEpBRFNGMHNSRXJtbXZLZVdZZjBzRmFmai1CQVdUcS0wWE1PVmFWRW1RSjg5TjI5Zk9FLVZ5WlRjSkR1RVpsQm1Bd25HRDBrY3dDZmZzbUFrUHBnaE1VQUwwYWVVUVMxMC1TODdIZFdpTzExX1dFNVByNmstckZXTkVYVmlGT0pCdU90S1o2aEhWbTNWZzhFYTVMVFRveUZyMjN6Yy1VcklEWkY5WlFHZWtNeDkya3ZRUDR2U1Vxc195TE1hSlpjRmJXS0ZOUHpJbmJDSWlqM2w4VGxxZlp2d2dsRGw3ODRkNHhvY2tEWlpuOGpFM1JZLXNaS3RGeDJFdERmWUFVR2NP0gGkAkFVX3lxTE8xelRjWHAxZm53bldMWjduWE0wWTl1aFI1ejZRRmpVWllWZWtNUm0xVjFRR1NMRjZjRGpsb1MyNm94LUU2VEFTWnp0QXV6TEE3MDdXdGdSb0ttUm5MbHJOVWtEUmpOTW9RemNnNnVIbjBuYTByWG9ZNDhKeXZ1d1Y5YnFVemhVaW01UnZ6MTRfbWIwby1LWjZLQ3pTZmVXNUwzWVg2NWVmZGJhM0htSzdmWWNTNDd1bXVqSlJ0dUtjMDJsVnFuNWV6aF9qaDlQNnF5UkpuSkdjVVdjdkY3ZDVjQ0hlcS00NVkyY19lWV8wMkZpckV4RW5iRHNaTHRoekotM0RValJwUzd5aGQ4RldhUzNtMDFqUDhodUVSSWdQZ2xMUlA?oc=5)
+
+2026-04-09
+
+來源：[LaSexta](https://news.google.com/rss/articles/CBMipAJBVV95cUxOVVYxWmFFdlZWLTJsOEdaWUNRZk5LaHVqSHVEbEpBRFNGMHNSRXJtbXZLZVdZZjBzRmFmai1CQVdUcS0wWE1PVmFWRW1RSjg5TjI5Zk9FLVZ5WlRjSkR1RVpsQm1Bd25HRDBrY3dDZmZzbUFrUHBnaE1VQUwwYWVVUVMxMC1TODdIZFdpTzExX1dFNVByNmstckZXTkVYVmlGT0pCdU90S1o2aEhWbTNWZzhFYTVMVFRveUZyMjN6Yy1VcklEWkY5WlFHZWtNeDkya3ZRUDR2U1Vxc195TE1hSlpjRmJXS0ZOUHpJbmJDSWlqM2w4VGxxZlp2d2dsRGw3ODRkNHhvY2tEWlpuOGpFM1JZLXNaS3RGeDJFdERmWUFVR2NP0gGkAkFVX3lxTE8xelRjWHAxZm53bldMWjduWE0wWTl1aFI1ejZRRmpVWllWZWtNUm0xVjFRR1NMRjZjRGpsb1MyNm94LUU2VEFTWnp0QXV6TEE3MDdXdGdSb0ttUm5MbHJOVWtEUmpOTW9RemNnNnVIbjBuYTByWG9ZNDhKeXZ1d1Y5YnFVemhVaW01UnZ6MTRfbWIwby1LWjZLQ3pTZmVXNUwzWVg2NWVmZGJhM0htSzdmWWNTNDd1bXVqSlJ0dUtjMDJsVnFuNWV6aF9qaDlQNnF5UkpuSkdjVVdjdkY3ZDVjQ0hlcS00NVkyY19lWV8wMkZpckV4RW5iRHNaTHRoekotM0RValJwUzd5aGQ4RldhUzNtMDFqUDhodUVSSWdQZ2xMUlA?oc=5)
 
 ---
 
@@ -133,22 +181,6 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Müde am Morgen? Vier Tipps für einen besseren Schlafrhythmus](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTld0OUZJYzdKQWZVelhFbXo4LU1QUlNwVWtWNFlrUG1XMFhLYUFpQk9semh2T3BUWkpHSlgyVnJ6ZVZZN2xZQjBzLUptN3VFTXpIdWt5VnV3TGlCSnpnUGZOS195NU9sRGwtNzlEaGFrclk1S2Zwa3lQZENkaXR3VFRWRkdwWUJYUzJaZ3c2Ujl4cWd2Ti05WGNRYi1mS2hqalE?oc=5)
-
-2026-04-09
-
-來源：[Beobachter](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTld0OUZJYzdKQWZVelhFbXo4LU1QUlNwVWtWNFlrUG1XMFhLYUFpQk9semh2T3BUWkpHSlgyVnJ6ZVZZN2xZQjBzLUptN3VFTXpIdWt5VnV3TGlCSnpnUGZOS195NU9sRGwtNzlEaGFrclk1S2Zwa3lQZENkaXR3VFRWRkdwWUJYUzJaZ3c2Ujl4cWd2Ti05WGNRYi1mS2hqalE?oc=5)
-
----
-
-### [Incontinence: NI woman 'leaking while competing' after birth](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VOGFhaVA0bnBEQl9BdzA0OUtuUlBHajdzLUpRTldQMDlETDFtX3c3M0w4UHNNN2xzNHAyOGQ5Y01tS3R2ck5JM3lvWmhjYVluUVJpMkhTQkltb3Vo?oc=5)
-
-2026-04-08
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VOGFhaVA0bnBEQl9BdzA0OUtuUlBHajdzLUpRTldQMDlETDFtX3c3M0w4UHNNN2xzNHAyOGQ5Y01tS3R2ck5JM3lvWmhjYVluUVJpMkhTQkltb3Vo?oc=5)
-
----
-
 ### [Funding is vital to end the scourge of polio | Letter - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXltSjZtT0FnS0xhRWhxdXg0bUFCb1NLNWdIZXBCdktOM3ZWTmlTSHJoRThWVV9yVU5XQ1I1SGV4NDBwOFltdU5USW5sajJYMVJOLW9VbmkxaUhZZlM5ajM2aHpoZkJXa1E3LUJybG5xYzZfMVNBazdTT3pmeEpmd19aYjh2RUd1U3VDVHJ0bVgxdDVIVW1N?oc=5)
 
 2026-04-08
@@ -157,19 +189,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Oftalmólogos piden prestar atención a las alteraciones visuales en las fases iniciales de la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFp2REI2MGJIOTNBX1VIbFNSQkZ2cVhjRWVxYjNFSFk2WW9qWnVlZWhQaWQ0RW4xWHVDdDZBRXNOQVh4N3RWTWtlT1F3aE1ybEtpUnQwVUFQQkZPUHVUQ3lIV2pFVEtaY0xuQUlrNzNTaDFqaVNIeHB3dkU2dVNiOXVCSE1QcUlGMW1oajRiMGRsZDRFVUtNNUpSOXRvRHBjaWFNMDFwam1veHNiTTJiZlp4RHZfOUdmVHA5alBRbEk?oc=5)
+### [One Compound Repairs Neurons with Autism Mutations - Neuroscience News](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtZm9lUDM2ZlM0YzlpQ0RsUkFPT29PNzNGTVdIZG54bnV0ellXRV9UTEl3ckN0clQ4OFZPVkp5R283bHdaV0J3VXlsd2hITWdjd1dzR0R0UVRVdjFBYlViRjdLVXdleEFTek5hMnBQNzF3cUZEZWhkdg?oc=5)
 
 2026-04-08
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFp2REI2MGJIOTNBX1VIbFNSQkZ2cVhjRWVxYjNFSFk2WW9qWnVlZWhQaWQ0RW4xWHVDdDZBRXNOQVh4N3RWTWtlT1F3aE1ybEtpUnQwVUFQQkZPUHVUQ3lIV2pFVEtaY0xuQUlrNzNTaDFqaVNIeHB3dkU2dVNiOXVCSE1QcUlGMW1oajRiMGRsZDRFVUtNNUpSOXRvRHBjaWFNMDFwam1veHNiTTJiZlp4RHZfOUdmVHA5alBRbEk?oc=5)
-
----
-
-### [Ejercicio de fuerza y alimentación saludable son pilares para prevenir la sarcopenia - AIM Digital](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeVY5bDlQU0hGTS1WeS1yNTRpb2ZlN04xSlN6blJyMlZZTFFFNlZuSFotLW5reVIwTGMzQmFscmZmT1dGdTJvZXFsdWJsb0xqeDFfbFV4dGtHLTVmODduX0hicXhpdUEzOUtudlNxajJiWEwwaUowNElGT0ppTXZ5SzQtYzJzMmZKdWpQbDFpOTlmWnJIZVRVMVFmWENGdnJWd3piMENQQ1Z4U0N1ekExVVhFMDBzcG5QUnhaSE53YnZpWkNheFhFWUh0QmpKTnRX?oc=5)
-
-2026-04-08
-
-來源：[AIM Digital](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeVY5bDlQU0hGTS1WeS1yNTRpb2ZlN04xSlN6blJyMlZZTFFFNlZuSFotLW5reVIwTGMzQmFscmZmT1dGdTJvZXFsdWJsb0xqeDFfbFV4dGtHLTVmODduX0hicXhpdUEzOUtudlNxajJiWEwwaUowNElGT0ppTXZ5SzQtYzJzMmZKdWpQbDFpOTlmWnJIZVRVMVFmWENGdnJWd3piMENQQ1Z4U0N1ekExVVhFMDBzcG5QUnhaSE53YnZpWkNheFhFWUh0QmpKTnRX?oc=5)
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMieEFVX3lxTFAtZm9lUDM2ZlM0YzlpQ0RsUkFPT29PNzNGTVdIZG54bnV0ellXRV9UTEl3ckN0clQ4OFZPVkp5R283bHdaV0J3VXlsd2hITWdjd1dzR0R0UVRVdjFBYlViRjdLVXdleEFTek5hMnBQNzF3cUZEZWhkdg?oc=5)
 
 ---
 
@@ -177,7 +201,7 @@ permalink: /news/atrial-fibrillation/
 
 2026-04-08
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
+來源：[ladbible.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1IxRDYxV3BiWjlDWjBIemsyc3lGdXNCb2NHTHZCNklEZks4UHhPRF9VdEI3cV90cElreXl4bE1KanJheWdrZkxtQ2pCUjgtdVN0RTBuTGRJaGwxTnI1V05BNExwdGhLWkdrSXRzUVV2eGotWHAzblpBTkpuTk5Ld0tqNHhwYTF0c3Y0UjA4ek5NOTRNdzdhQloxYjI1QmJw?oc=5)
 
 ---
 
@@ -189,27 +213,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Santé : le café et le sel amplifient les acouphènes, mythe ou réalité ?](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVPZFo0OXhXaTFqbDBkZWNzbG9lczF2VjhDOEFSM0Y1Tnc4QlcxN09yeUhDa19FVHdnQ0FFM0FuSTFmdEZHTXFST2hJYlFCOElnY2xYV0dTelBldVNkOV9kVXdQamdDYS03cUptc0VVN19CN19hZXByVHFhNG0ydkVPWm13d3dxNGFSSFVOaC1WVU1Y?oc=5)
+### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
 
 2026-04-08
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVPZFo0OXhXaTFqbDBkZWNzbG9lczF2VjhDOEFSM0Y1Tnc4QlcxN09yeUhDa19FVHdnQ0FFM0FuSTFmdEZHTXFST2hJYlFCOElnY2xYV0dTelBldVNkOV9kVXdQamdDYS03cUptc0VVN19CN19hZXByVHFhNG0ydkVPWm13d3dxNGFSSFVOaC1WVU1Y?oc=5)
-
----
-
-### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
-
-2026-04-08
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
-
----
-
-### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
-
-2026-04-08
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
 
 ---
 
@@ -229,19 +237,19 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Qué reveló el estudio más grande sobre el hígado y las consecuencias silenciosas de los malos hábitos - La Tercera](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzFrT0gxMG45SWYzdjE5LVFFTDB4UW5Dbno3ZEJ6dV9DMXR5OHRXZEo1elRmOHZ1ZjR6a3h0QTdwWEl5UEtyZkFQY1NaN0xTX2QtUEVOTE9QNkZPRFQ4RXlTeGIxTjlraG1SODVjT2VwbUlfWnRIUzQ2VlZDa0RELVROR3RVZmpLWlBRMTExeVFyS0RCbm9kUlpaeEJIM2R2bmk2WHlIaGNtR1JaUlRVTzZTelpqNWMtQVNKTVlReHo2MWRYYmpjR3F2NFAweVR3ekNpZ1MwVHJSZ1BzSW1iN9IBggJBVV95cUxNRWMwekJrUmRWTzNLTTdtNHZna1hBb3c0RWtxUlo1aERUVGMxVEVHQkNmN3kyWWR6SlktdnZ3dEcxOVhtekVxQVJRZGdKQkRMTVY1MUJDSjE5cVoxTzNkMVFGVmZCSFBjSDJqOFJzV2J6MVFVVC1qc29jMlFUTWp3UHJVRzRhaHNHUXhGaHRXTllwSXFPVmlUVlg3aElqaGs5VG4yazRJT3gzc2ljTE01VVd1TkM0M042QXNIX2cyb2RfZl93aVZrZktidEp5V3dVWTZZZXdid1ZjQTkzUDNjY0xSNk0tZVAzYjQ3MkdfXzQ1bDdjOVUyTVhiYVo2dkdTd3c?oc=5)
-
-2026-04-08
-
-來源：[La Tercera](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzFrT0gxMG45SWYzdjE5LVFFTDB4UW5Dbno3ZEJ6dV9DMXR5OHRXZEo1elRmOHZ1ZjR6a3h0QTdwWEl5UEtyZkFQY1NaN0xTX2QtUEVOTE9QNkZPRFQ4RXlTeGIxTjlraG1SODVjT2VwbUlfWnRIUzQ2VlZDa0RELVROR3RVZmpLWlBRMTExeVFyS0RCbm9kUlpaeEJIM2R2bmk2WHlIaGNtR1JaUlRVTzZTelpqNWMtQVNKTVlReHo2MWRYYmpjR3F2NFAweVR3ekNpZ1MwVHJSZ1BzSW1iN9IBggJBVV95cUxNRWMwekJrUmRWTzNLTTdtNHZna1hBb3c0RWtxUlo1aERUVGMxVEVHQkNmN3kyWWR6SlktdnZ3dEcxOVhtekVxQVJRZGdKQkRMTVY1MUJDSjE5cVoxTzNkMVFGVmZCSFBjSDJqOFJzV2J6MVFVVC1qc29jMlFUTWp3UHJVRzRhaHNHUXhGaHRXTllwSXFPVmlUVlg3aElqaGs5VG4yazRJT3gzc2ljTE01VVd1TkM0M042QXNIX2cyb2RfZl93aVZrZktidEp5V3dVWTZZZXdid1ZjQTkzUDNjY0xSNk0tZVAzYjQ3MkdfXzQ1bDdjOVUyTVhiYVo2dkdTd3c?oc=5)
-
----
-
 ### [After waiting four years for surgery on the NHS, I worry I’ll never become a mother - The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0lkZ2VMTG1zZElvWTgyeHlULTh4bS1TRmNtTE5neGRkQ1VQMUZ5b1pfN05xOGUwbXp4WEliT1BvNFlFaG42WU5fX0YwXy1GZTRwMm9aV1hMNGVPSkppTDZodFBRN1prdjNFTlFWRDRMWGc2N2hSa0hxbW0wZGFyOHJnbkZkd3d0aVRXQ0xTTC0ydXNqZzY3dw?oc=5)
 
 2026-04-08
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0lkZ2VMTG1zZElvWTgyeHlULTh4bS1TRmNtTE5neGRkQ1VQMUZ5b1pfN05xOGUwbXp4WEliT1BvNFlFaG42WU5fX0YwXy1GZTRwMm9aV1hMNGVPSkppTDZodFBRN1prdjNFTlFWRDRMWGc2N2hSa0hxbW0wZGFyOHJnbkZkd3d0aVRXQ0xTTC0ydXNqZzY3dw?oc=5)
+
+---
+
+### [Mikroprotein BRICK1 repariert und schützt das Herz nach Infarkt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZR0ZVWEFVU2NaUEQ4Y282ZFZmUmNPbzVjclFNNUl0Xy1YMTV4amdlWXFNMkhpMEJfcm91UVcyWWdZVF83ak51THBJcw?oc=5)
+
+2026-04-08
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZR0ZVWEFVU2NaUEQ4Y282ZFZmUmNPbzVjclFNNUl0Xy1YMTV4amdlWXFNMkhpMEJfcm91UVcyWWdZVF83ak51THBJcw?oc=5)
 
 ---
 
@@ -285,19 +293,19 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Skin patch from donor helped patient spot transplant rejection](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tWW85TTFSWEJod2tCVTZRdE9XNWluSzZxWVUtNHQ5VzAyU09XMmV0MzFPcHllSkZycEtRczFOZ1NrZ2dHMFRaQjRnb1dmWHJrdkFwTzBJWmE2OTE4?oc=5)
+### [Bristol man dies weeks after holiday as widow praises hospice](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
 
 2026-04-08
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tWW85TTFSWEJod2tCVTZRdE9XNWluSzZxWVUtNHQ5VzAyU09XMmV0MzFPcHllSkZycEtRczFOZ1NrZ2dHMFRaQjRnb1dmWHJrdkFwTzBJWmE2OTE4?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE00T2hLeFpPZkMtcUI0Y0tXYnJPZXhnWGpZZ2xrWlpRRHNzNVE2b0RJRTJlcWxWU1NiR3ZMZE1oRGxBbjVzcGVxaWp4cURsbWdWSmhGakhkRWF6eVBo?oc=5)
 
 ---
 
-### [Virus from seafood is linked to a persistent eye disease in humans - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+### [Sarcopenia: cómo prevenirla y revertirla con alimentación saludable y ejercicio - 65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
 
-2026-04-07
+2026-04-08
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
+來源：[65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVVYQ2lEN08tWkpXSDlFN19IQWhsUXRXeFB2eUE5X1JMWUJvVWI2ek8xM3JST3Rla2tVeWVoT3A4dXRiWWR2N0RsanphcXJVYmd0SG9QMnJ4R2ZvclNPUktBWURvTzhCajRFRl9wdlk5b2ltdm8tcVBHZ3dQZVFickw2TXNEeFN3a08tWXFyTWFBRExwMUFYb2ZySmNQR3NZd21zVVUwNmJFTElIQnNKN1E1VURKZDhRcXc?oc=5)
 
 ---
 

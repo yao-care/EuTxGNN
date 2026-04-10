@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
 
 ### [El TAC, capaz de predecir la insuficiencia cardíaca años antes de aparecer - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
 
@@ -60,19 +60,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [La vitamina C puede ayudar a reducir la presión arterial en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
-
-2026-04-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
-
----
-
 ### [Ganadores de los III Premios FSED a la Comunicación en Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
 
 2026-04-09 <span class="news-indication-tag">diabetes</span>
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
+
+---
+
+### [What is “sardinemaxxing” and should you try it? - Northeastern Global News](https://news.google.com/rss/articles/CBMickFVX3lxTE1MSXhNdXQ2cVd6WG1jVWNrVVBGNEtfWXhaeUtfcEVMUFBIal9wakhtYnE3Q2FQSTFhM1plSTZFUkc3VGRWVHA3N09CSzFIaTY3UUFoQXJjU0U5NFlhT3d0SWdpRzZ2aDVielllM1IxUV9ldw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[Northeastern Global News](https://news.google.com/rss/articles/CBMickFVX3lxTE1MSXhNdXQ2cVd6WG1jVWNrVVBGNEtfWXhaeUtfcEVMUFBIal9wakhtYnE3Q2FQSTFhM1plSTZFUkc3VGRWVHA3N09CSzFIaTY3UUFoQXJjU0U5NFlhT3d0SWdpRzZ2aDVielllM1IxUV9ldw?oc=5)
 
 ---
 
@@ -84,11 +84,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
+
+---
+
+### [¿Cómo identificar un infarto en mujeres? Estas son las señales](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTU9JUGpxR0d0WjBHVXJ0aVZ3SWRjeHpJZmVZMlI5dkpkeV9Bc1JuY3EydEthZnhSOHRmenNnU0d2WjBJcUNUejBDdnY2bkc5cmc0dTBPb0VSUWloN0JDVXZFWEdlVE5nQzZWYVpEYnR4M2pZN25wWHgwdUtMUkVhbGg5ZUx2OTN3S1VZdnE0SWE4cjlYbVdkS3FvY0NmVjdqS1lCalBCNmlHZVJzdWVlZjhuMWhBWEdhNGJlVVQ4X2tQY0I1d2c?oc=5)
+
+2026-04-08 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[mujeresaseguir.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTU9JUGpxR0d0WjBHVXJ0aVZ3SWRjeHpJZmVZMlI5dkpkeV9Bc1JuY3EydEthZnhSOHRmenNnU0d2WjBJcUNUejBDdnY2bkc5cmc0dTBPb0VSUWloN0JDVXZFWEdlVE5nQzZWYVpEYnR4M2pZN25wWHgwdUtMUkVhbGg5ZUx2OTN3S1VZdnE0SWE4cjlYbVdkS3FvY0NmVjdqS1lCalBCNmlHZVJzdWVlZjhuMWhBWEdhNGJlVVQ4X2tQY0I1d2c?oc=5)
+
+---
+
+### [Jeder Schritt zählt](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zYkgxUlVOVnZRTGVNNlhXMlpMYXFXZnY1RzVIMGwwOXNXSklsZ1VBVmRkX2hYeGktOGZucEVsSlZ1UVd5WnVoUUx0UE5NTVA5WGlSV2c3RkNGWlJXTUc4aw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zYkgxUlVOVnZRTGVNNlhXMlpMYXFXZnY1RzVIMGwwOXNXSklsZ1VBVmRkX2hYeGktOGZucEVsSlZ1UVd5WnVoUUx0UE5NTVA5WGlSV2c3RkNGWlJXTUc4aw?oc=5)
 
 ---
 

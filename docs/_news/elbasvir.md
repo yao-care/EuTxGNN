@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elbasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（12 則）
+
+### [ChatGPT uncovered woman's rare condition after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
+
+2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
+
+---
+
+### [Child with behavioural problems left in A&E for 70 days - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk9mX2VZdTZUb2pFdEFQOVBGQXhrZnVldEUtLUx2ZmFWbWlNekhSOVZ0YnNBaUlYQVc0WG14UHN2TzVRR3NTMTdWRkxXWTdYdTZ6eERyeVNHcXhINXoway1pSlNtci1TdmM5YjkwbTRwaks1U1VLM2ZIYW1IcHN4TGZocENRRFoyWDdfMllwTkJ4VXNyMTdJM2JJTUwwbm11RUE?oc=5)
+
+2026-04-09 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk9mX2VZdTZUb2pFdEFQOVBGQXhrZnVldEUtLUx2ZmFWbWlNekhSOVZ0YnNBaUlYQVc0WG14UHN2TzVRR3NTMTdWRkxXWTdYdTZ6eERyeVNHcXhINXoway1pSlNtci1TdmM5YjkwbTRwaks1U1VLM2ZIYW1IcHN4TGZocENRRFoyWDdfMllwTkJ4VXNyMTdJM2JJTUwwbm11RUE?oc=5)
+
+---
 
 ### [“Estaba cansada, me decían que era estrés y tenía un tumor en la hipófisis”: el síndrome del exceso de cortisol que todavía se diagnostica tarde - La Vanguardia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbGVrM3VZYkJEVWEyQV9LMjc5WFNfeWV2T2pIRksta1F4TG5LbmNzeVVLVkswbnZZSFJNN0xOLWdzc1Z4S056UkJFV19tR2lWYVdILVlFeXpZMXhUTUlvT1FqX1pnZ3k0Mlgwckw3bjJ2WmZCd3FMb19DRHpSYzVMMUZqaHRMRVI1QUZhU3cwX3JPUTI0aThzSmlvb0RkTmJ2aVM3VTZFS0xuLWZnWnVqYjhzSHpwdFRRWUhEYjF2VjZmTTgySVBLRG1TSjVoa19Ic3ZWbTctM3dCdi1YTkR6Y3ZUZVdNQm1zMVdxcXFoZktNQThsb3ByUzF0RTnSAYICQVVfeXFMT3kxckhoY0ZSbEpmNGdTVWtaNnpONmFEV2ZkR29LNURCQ0VsVGpDM0FrQ25PRV80czNXS2FpSDlNM3AyMHpyQUNUelJDSFVNaUowNHdsdi1Yc0lacC00Z1VJVEVpNzBpYkEySHJBTkVmYmRPY3ZiUEhOS2VBTFFHam5HSVRuOGRvYVZvMEthR0xldll0WWdfVjVJN3Q0aGhyM3FRdzRmZDlGV3hVcnhONlkwWEF3el9fYUVsTUZfb0N6VWhhTXdqNDlwMk1pZklNMnZoSFg2cHlacU1UdXZMSmRQWndkM0hlN2hfOUVIQXdzMmJHMXZMV3Z2R2QxdE9iWnNR?oc=5)
 
@@ -52,11 +68,35 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Doctor explains what to do if you have 'Pruritus ani' as two-thirds of men affected by bumhole issue](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+### [Bird flu protection zone in North Yorkshire lifted](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
 
-2026-04-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEpTLWU3dklLRU1oNGRlQ09BTDg2MWJaR294Y2hTel9UWXZPLUhzY25rNUhYTXJSdEtINzVzbTJ5SjVHdUprOURDNVVqT0xaRnRPOTZ6V1VWQTBicElLRHIyLXI2ODY4YVZXYTNWd2VHUTc5Z3Rmcm1qOVRHaGNGZWdUeTNCd3RiekwyN2JaX0tCc2hkTk4tdm91ZW8wanhFVU5neWxfZ0c1c0gwN1ZaWW50UUg?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
+
+---
+
+### [Woman sneezes WORMS out her nose after complaining of face pain - docs found 10 - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZS1OWjU0YlZsdXM0WF9ZRUlIUGNsNHYyZEVBbFNJRmtoZGZNeVcxcE0xQWhHUFhFcjh3QzB4NG9VTXkwbmV3d2FkZmtoQTk0V3VUdXdKVEN1U1hzdm1Ua2ZfUkJYalRXQzlaZHdrWFp3U0cya2p2dVplazU0aGtZT0dQM213NGNpVnc?oc=5)
+
+2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZS1OWjU0YlZsdXM0WF9ZRUlIUGNsNHYyZEVBbFNJRmtoZGZNeVcxcE0xQWhHUFhFcjh3QzB4NG9VTXkwbmV3d2FkZmtoQTk0V3VUdXdKVEN1U1hzdm1Ua2ZfUkJYalRXQzlaZHdrWFp3U0cya2p2dVplazU0aGtZT0dQM213NGNpVnc?oc=5)
+
+---
+
+### [NHS urges checks for persistent heartburn as Nottinghamshire man shares cancer story - West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
+
+2026-04-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
+
+---
+
+### [Meditare per 7 giorni riprogramma il cervello: attivate le stesse aree della psilocibina](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVVNdmF6azBLcmxPdHNrbk1oNng5Zk5abDd3VzRXd1ZNbFB6bjZ1WHFfZ094U1Zmano2aDlpTVZFRmtFeEdwcFdIZDBmbGJmeUJNZHlJRlpiYnZxSzF2Y01mc0JaRlNVVG1XYUM4d0t5Yko5TjYyZVJRX24wcVFrN2dQZUROd3d6QzJ1TGcwVXhfODVnZFZwWHZ4Z3Yyak9WZWJnWDRjbDgwMldTbnREcHBBTWR6S1lIQ1poWU5uZG8taVE2UFNfVWpNSG0?oc=5)
+
+2026-04-09 <span class="news-indication-tag">MS</span>
+
+來源：[L'INDIPENDENTE](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVVNdmF6azBLcmxPdHNrbk1oNng5Zk5abDd3VzRXd1ZNbFB6bjZ1WHFfZ094U1Zmano2aDlpTVZFRmtFeEdwcFdIZDBmbGJmeUJNZHlJRlpiYnZxSzF2Y01mc0JaRlNVVG1XYUM4d0t5Yko5TjYyZVJRX24wcVFrN2dQZUROd3d6QzJ1TGcwVXhfODVnZFZwWHZ4Z3Yyak9WZWJnWDRjbDgwMldTbnREcHBBTWR6S1lIQ1poWU5uZG8taVE2UFNfVWpNSG0?oc=5)
 
 ---
 
@@ -76,19 +116,19 @@ permalink: /news/elbasvir/
 
 ---
 
+### [La demencia se podría detectar años antes gracias a unos metabolitos de la microbiota - La Vanguardia](https://news.google.com/rss/articles/CBMiugFBVV95cUxNODh5c3lMN28zd1dPSjBESEliLW9McTJ4cXdMQUdYaVB1MEtqNEVUMG9JUEFVdm50U0IxUm12MFVNVDRaTVUtTU1xS1dwTmdGWWgxZEVYN3hzbnU4bXZZMEZLNFJKTFY1X3hRWjFwYjQydlJ2S0djcDAtSUIyOUs0MGNZeEtQeW85Rk00dzJBTUhWdkVrNmZqeEFYQXNnSm9WdTV1eG9fZ05NNE93TFl2SElBZXljUVdZTHfSAb8BQVVfeXFMTXVfSERJN1VYTlFTSlFYQ1ZPQlRmVnp4eTU1MjhqcGJ0eHlacHRlQXV5dS1BbE5lUmdQQjZ6NXViaWl4bTRRNnotSDVwOTdDR01JSzVwMDRkX0Y3SjAxOFVoV1pSV3lYbkpxa2ZNbndWQ25Ub2VXdHZEX1ZVT0x0ZXlaV2RPRXFVY1hlQXJEQWM4R1RKdl9GQ01hNUREZFQ1UWpFV3lKcGg3Z1h1eWxSWmhtemc2Qlo0RnhZMFluT1k?oc=5)
+
+2026-04-08 <span class="news-indication-tag">MS</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiugFBVV95cUxNODh5c3lMN28zd1dPSjBESEliLW9McTJ4cXdMQUdYaVB1MEtqNEVUMG9JUEFVdm50U0IxUm12MFVNVDRaTVUtTU1xS1dwTmdGWWgxZEVYN3hzbnU4bXZZMEZLNFJKTFY1X3hRWjFwYjQydlJ2S0djcDAtSUIyOUs0MGNZeEtQeW85Rk00dzJBTUhWdkVrNmZqeEFYQXNnSm9WdTV1eG9fZ05NNE93TFl2SElBZXljUVdZTHfSAb8BQVVfeXFMTXVfSERJN1VYTlFTSlFYQ1ZPQlRmVnp4eTU1MjhqcGJ0eHlacHRlQXV5dS1BbE5lUmdQQjZ6NXViaWl4bTRRNnotSDVwOTdDR01JSzVwMDRkX0Y3SjAxOFVoV1pSV3lYbkpxa2ZNbndWQ25Ub2VXdHZEX1ZVT0x0ZXlaV2RPRXFVY1hlQXJEQWM4R1RKdl9GQ01hNUREZFQ1UWpFV3lKcGg3Z1h1eWxSWmhtemc2Qlo0RnhZMFluT1k?oc=5)
+
+---
+
 ### ["C'est pourtant une habitude banale en apparence" : si vous faites ceci dans la nuit, vous avez un risque plus élevé de faire un AVC - Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
 
 2026-04-08 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaUYwSEVKMUdFUGtxWmN5TkZBYVhHUU0zNE9lMjhmVnBBajVvbGhkd2hJN19JYUtUZ1dyLVRUaDFWMEdHRFMyVkE1T2dieEppM0UwWjZ0TGl6Uk5Fa0c3MlVJdmFDTlhfVVZPcnhqRlpyb2hIZlIxX0hCM2luLVF0bWUtY0JFUHJNWVFMSF90bll1SEZyazc0MWp1QS00VVdTYnVZQVJZSmJwNGFhRUVOZ0w0b3NHSXFqN0U0VTBNRGZkekI5dy1BTGZ6M010YkxfWEFnMU5HUFItWlYwbmozV1N0MV9Bc3MtdVpIdURvWFV1NFhuY095LWlZUExlUQ?oc=5)
-
----
-
-### [Virus from seafood is linked to a persistent eye disease in humans - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
-
-2026-04-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0VYUHhtdTg2VFdFN2k2aU1YMWx2Z3JjWXJBWWMzcWZqWjJFV1VPdTY4d2FmNjZGX2QtTWVJcFVSQTA1QnI0SW4tbE9xNmtZcHFibjdqdFp6bC1tajl0dHJMS1FyelUzNTM5Q3BLWGJQVmdlY2s1WnZxVUM2LWVFZ0NjSWFFQQ?oc=5)
 
 ---
 

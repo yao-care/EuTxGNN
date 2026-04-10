@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Alerta del riesgo de los sprays nasales de bronceado: son un peligro para la piel y causan cefalea o hipertensión](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
-
-2026-04-09 <span class="news-indication-tag">hipertensión</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Ipertensione «resistente»: come trattarla con successo e cosa si profila all’orizzonte - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/levetiracetam/
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [José María Serratosa, neurólogo: «La epilepsia es como un incendio, si se deja propagar, es difícil de controlar» - La Voz de Galicia](https://news.google.com/rss/articles/CBMilAJBVV95cUxPNzl0elVYTXB0N1pDNmxsVW1yZWhoWnhwcnIycDI3TG5Rc3M1bFdtNTF6WkphYVRSZ2hUeGdJSy02OTRuT0dHLWxrdU0wZVBQVG1kMVlvQWhxYmlFazdoaVJ1cEs0dEVtc29PSFdsZmpnUmVhSDk0SF90cUJiWnZWQ2VnQTY1V09tbXhldVJ4d0lnTmEyWW1UdHFxQUhEN2I2VU10THNOeGhUZXkzMFhiUFVUUXVRS1N1TzZvZGRROGpHQU0zbFR5ZGxUakVnZFN5UmZFUHdvdHlpVVVGN1R6SVlSV2pRYU04S3RtQnU3YXBQS2EtLWdHMDRCZXdsZDRxWmlvNGx6SW9xT2drMDV3dlNxdHY?oc=5)
-
-2026-04-08 <span class="news-indication-tag">epilepsia</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMilAJBVV95cUxPNzl0elVYTXB0N1pDNmxsVW1yZWhoWnhwcnIycDI3TG5Rc3M1bFdtNTF6WkphYVRSZ2hUeGdJSy02OTRuT0dHLWxrdU0wZVBQVG1kMVlvQWhxYmlFazdoaVJ1cEs0dEVtc29PSFdsZmpnUmVhSDk0SF90cUJiWnZWQ2VnQTY1V09tbXhldVJ4d0lnTmEyWW1UdHFxQUhEN2I2VU10THNOeGhUZXkzMFhiUFVUUXVRS1N1TzZvZGRROGpHQU0zbFR5ZGxUakVnZFN5UmZFUHdvdHlpVVVGN1R6SVlSV2pRYU04S3RtQnU3YXBQS2EtLWdHMDRCZXdsZDRxWmlvNGx6SW9xT2drMDV3dlNxdHY?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

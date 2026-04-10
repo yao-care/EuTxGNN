@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "ipertensione（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# ipertensione（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
+<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Alerta del riesgo de los sprays nasales de bronceado: son un peligro para la piel y causan cefalea o hipertensión](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
-
-2026-04-09
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Ipertensione «resistente»: come trattarla con successo e cosa si profila all’orizzonte - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
 

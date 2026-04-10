@@ -52,14 +52,6 @@ permalink: /news/metformin/
 
 ---
 
-### [La vitamina C puede ayudar a reducir la presión arterial en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
-
-2026-04-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTNjV0hGZUl1a0NtM0Z3b085eWdlOGJOX3F4eE53aTZYSVNtNE12SlNTSkh1VVpOTUN6d1lIdC1aQUlaTFY4UkVubl9jOFZtVDhWNUxTSlJ0WWc4SDJ5RE54d0NuRDIwM25qbUUwWlJVY1NFaFNYd2JuMnVSQ2d4Wkt6U2E4cUlJVmt0UzU2MG9CUi1SXzFRS3N3RmNTMHVaVkVvZnFubjB3dHhFd0xjMGhn?oc=5)
-
----
-
 ### [Ganadores de los III Premios FSED a la Comunicación en Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
 
 2026-04-09 <span class="news-indication-tag">diabetes</span>
@@ -68,19 +60,19 @@ permalink: /news/metformin/
 
 ---
 
-### [Un fármaco barato y muy usado puede imitar el ejercicio intenso incluso sin actividad física - El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa1c5UjRpRm0zNDlibWswTHZlS1JCbDY1U3RIcy15MnlGTGpKT0pmWUFnSkdkMXNmQ3A1N05zWnhiOHNLaXBGM1pwTWZZQXg2MjEyYXBSb2tFUTNjSDdnX25vSGdQT0lVR3lyYVBYbUJFaG1JUDFxcUdJQWlLQWdxeEVjMGUtQ3NLLXBiRDBnc0NiX19rcnpLMXRuQ3lwUE53eXR6V3hTUkJ1QWVYNXdrdUJJMExxRnByeDczMzU3UWx1WnBaX2ZFalVQaWI5TEk5UmV5TkJIeXZ6SEpDcVNJ0gHkAUFVX3lxTE51NWRTVXlycmdxTXZDYWNFNE9LTU95M0daUnhpNG83Nm05c3c3MjMybnljMDBRM0Q2dkxacWZ0VFpVS3hDQXF2a09rSTFYMmRzXzVGU3dfQVh5LVhiWjJLdnZJZ3E0TjFUajhRdVdGeWNCbVFhQjFCNUl1YktpTE5kVEQ1X0NuRjhNeGZnVml0Q0tIeTNQWTJSV3ptYm5kQ1VmTHVFd28zS1NUcGZySWdneVNhVU93QVRvR1lLRWgybk5GdXRYaVR0VFhSU3ZqR09VV1dJc3ZEckVYeWJsWTQyVUxzNA?oc=5)
+### [What is “sardinemaxxing” and should you try it? - Northeastern Global News](https://news.google.com/rss/articles/CBMickFVX3lxTE1MSXhNdXQ2cVd6WG1jVWNrVVBGNEtfWXhaeUtfcEVMUFBIal9wakhtYnE3Q2FQSTFhM1plSTZFUkc3VGRWVHA3N09CSzFIaTY3UUFoQXJjU0U5NFlhT3d0SWdpRzZ2aDVielllM1IxUV9ldw?oc=5)
 
-2026-04-09 <span class="news-drug-tag">Metformin</span>
+2026-04-08 <span class="news-indication-tag">diabetes</span>
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa1c5UjRpRm0zNDlibWswTHZlS1JCbDY1U3RIcy15MnlGTGpKT0pmWUFnSkdkMXNmQ3A1N05zWnhiOHNLaXBGM1pwTWZZQXg2MjEyYXBSb2tFUTNjSDdnX25vSGdQT0lVR3lyYVBYbUJFaG1JUDFxcUdJQWlLQWdxeEVjMGUtQ3NLLXBiRDBnc0NiX19rcnpLMXRuQ3lwUE53eXR6V3hTUkJ1QWVYNXdrdUJJMExxRnByeDczMzU3UWx1WnBaX2ZFalVQaWI5TEk5UmV5TkJIeXZ6SEpDcVNJ0gHkAUFVX3lxTE51NWRTVXlycmdxTXZDYWNFNE9LTU95M0daUnhpNG83Nm05c3c3MjMybnljMDBRM0Q2dkxacWZ0VFpVS3hDQXF2a09rSTFYMmRzXzVGU3dfQVh5LVhiWjJLdnZJZ3E0TjFUajhRdVdGeWNCbVFhQjFCNUl1YktpTE5kVEQ1X0NuRjhNeGZnVml0Q0tIeTNQWTJSV3ptYm5kQ1VmTHVFd28zS1NUcGZySWdneVNhVU93QVRvR1lLRWgybk5GdXRYaVR0VFhSU3ZqR09VV1dJc3ZEckVYeWJsWTQyVUxzNA?oc=5)
+來源：[Northeastern Global News](https://news.google.com/rss/articles/CBMickFVX3lxTE1MSXhNdXQ2cVd6WG1jVWNrVVBGNEtfWXhaeUtfcEVMUFBIal9wakhtYnE3Q2FQSTFhM1plSTZFUkc3VGRWVHA3N09CSzFIaTY3UUFoQXJjU0U5NFlhT3d0SWdpRzZ2aDVielllM1IxUV9ldw?oc=5)
 
 ---
 
-### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+### [Internistenkongress 2026: Neue Therapie verzögert erstmals Typ-1-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
 
 2026-04-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE12N0VQTVRMT3VmOFZCUGZ1bFRnUmVhZThmcnVqeko2UlNnNkJ4OEpndVdKNXBDdTcwcGJpVG1LY0RWRHQzZkw2eGJSbw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV19tRHEtby1hdVJHeWdQM3NJcjBfdFZhUjdZN2lnV2ZrVHhOb1B6YXRrZVNlZlJwZjZqVzNVOXZlbHVuVEZqSEN2TFBZUjBPWmlacU4yYVJtLWZpWDdlbFA0ZGxYcnU1RHRpa21fQjF4d1Q5ajFtaXdCbTk3aWx4Y2IzVU4yc3UzRlVPNG45WW13Q2dDb0oweS1tWUNxNUtpMlJMWGFrc0hyRlFtdVkyUjN5RUtpWmdjaWdnQk5VcnJDbVBsV2prSVB2Zw?oc=5)
 
 ---
 
@@ -89,6 +81,14 @@ permalink: /news/metformin/
 2026-04-08 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmdvMXdZTHF1czc5U2hnWlNxMXhjWmRZTENldzkxeE1HaUdoS1RldmFGaFJHVEc4TWROU210X25qY3R2eDF5LW1BTjFabnFrRkNZLXdxTDF0Ry1WMkhVY1BtcFZMUkwtVGp4TVk2M1VZdEtEb29QZ3RVREN4anEycjJtckJrNl9Mdmc?oc=5)
+
+---
+
+### [Jeder Schritt zählt](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zYkgxUlVOVnZRTGVNNlhXMlpMYXFXZnY1RzVIMGwwOXNXSklsZ1VBVmRkX2hYeGktOGZucEVsSlZ1UVd5WnVoUUx0UE5NTVA5WGlSV2c3RkNGWlJXTUc4aw?oc=5)
+
+2026-04-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zYkgxUlVOVnZRTGVNNlhXMlpMYXFXZnY1RzVIMGwwOXNXSklsZ1VBVmRkX2hYeGktOGZucEVsSlZ1UVd5WnVoUUx0UE5NTVA5WGlSV2c3RkNGWlJXTUc4aw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [‘We found out our two-year-old has childhood dementia by chance - it's horrific' - Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmJ2TERGeEItd0wxcl9iczdHbGZiaWZ1VnhUTzN3Q1VMaF9MSGNRcUF3X3dmMUpwczJid3JvUWdNT1BiZ2Q4dGN0TUNlLWN6UDZXUUs0VUg4bWZISktWeFpwQ0RQUHQ4UGZrV0ppZUlLd1B3TnZ1SlhZUUdRSmtzTEw1YmRONW9MUEhMMHdENGFHUF9uMDd1RloxSFl1RjNVLThQcHJTbThrSGxCcU9mMQ?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/alzheimer-disease/
 2026-04-08
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxQVG4wX09OcFBQNzdOQ3dpelRmVFFScjFrczQ1aTJwYnhkSzloZ1JlSTF1dC1NTzJReTZVcjhad0dyNWJGYWJacjh2c0ozRkxwRUp5dmEyWXZWVnFBS2Qxc3I1cFIwcjlZY3NSaHdvV2RER2tkVVR3NXQ1X1QyNkNWaDFucjBuRVhKNDJOUEJxVUY2UFZCMWljRGJ1dzRTUQ?oc=5)
+
+---
+
+### [Doctor Amir Khan says make 1 change when cleaning teeth to 'slash dementia risk' - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
+
+2026-04-08
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
 
 ---
 

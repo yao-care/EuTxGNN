@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [In diesem Zeitraum steigt bei Vätern das Risiko für Depressionen](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEhBV3R1ekV2QnY1UkxUd1RKNnlzbFFjZEJvZlVUMU1USExkc1NoWXNYZnRUbmRiOTJSZjR3LWtkb1pyQm9jQzlLTklXMkJXU0lDVG9HbWFVSkRYYmIwQXpuMklBMGNWaVhJc3NqenB2SkkwSk1CMEwxREJpRFBpZXRmM01ZbkhPLTcyQnNfbkxnbkEwNWExUEhrT1ZnUVg1YkQ3VlVtaU1OdWYxT2I3ZDgyZHNEbXBpYzVZTA?oc=5)
-
-2026-04-09 <span class="news-indication-tag">depression</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEhBV3R1ekV2QnY1UkxUd1RKNnlzbFFjZEJvZlVUMU1USExkc1NoWXNYZnRUbmRiOTJSZjR3LWtkb1pyQm9jQzlLTklXMkJXU0lDVG9HbWFVSkRYYmIwQXpuMklBMGNWaVhJc3NqenB2SkkwSk1CMEwxREJpRFBpZXRmM01ZbkhPLTcyQnNfbkxnbkEwNWExUEhrT1ZnUVg1YkQ3VlVtaU1OdWYxT2I3ZDgyZHNEbXBpYzVZTA?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### ["Il Parkinson lo freghiamo così...". Vincenzo Mollica invita a non arrendersi alla malattia (Video)](https://news.google.com/rss/articles/CBMingFBVV95cUxNN1pVWlRmWlFuM0FYTDdtZzlVLTFCanRIOXVyMnVYbmw3aFBrckpPd3FWWm9VbHFWOGhKQW01LXBTb1ZhZkdKeVNJdFhtdkdacHRHSVFWbUwtVVM2Qmppbk5BQUd4b0pvQzNfQ0FDNjRvRmRxR1dtWmxld0FYcmdDSW9ZekRVWWxhS3I2ZUFQUnp4ZEZnTF9rWnpsaTZjZw?oc=5)
 

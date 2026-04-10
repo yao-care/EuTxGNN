@@ -52,14 +52,6 @@ permalink: /news/tucatinib/
 
 ---
 
-### [Alerta del riesgo de los sprays nasales de bronceado: son un peligro para la piel y causan cefalea o hipertensión](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
-
-2026-04-09 <span class="news-indication-tag">hipertensión</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZi1zT2ZzZHlhZldnZTRYT0VIX3ZRdm5mTWEyTE1UajhhSHB5Z3BZRk5lYl9qS2NWdWlKN0Iycl9qeldfSG4wVzZINlA3elNwMEF4Q2RaaU9PVXB0QjhCelgyZzdhVkhtWURfY2hUT3ZFZ3VYTy1CNnNjSzRCS1BkSjBmNndpYkNJbWtKaGRvcEViMW91Qlo3UXdKVDdfUHgzZGpOR2hoVjdORTZyVWFFdDI5LVpqNExFX2E4YXUtT2t2TFNHbVJBeTl0Ulg5TlN2QkRGV3lscWNtQzJkVmV1aDByOVh2LUlvaEwxZXVfdW5BeGdi?oc=5)
-
----
-
 ### [Ipertensione «resistente»: come trattarla con successo e cosa si profila all’orizzonte - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
 
 2026-04-09 <span class="news-indication-tag">ipertensione</span>
@@ -81,6 +73,14 @@ permalink: /news/tucatinib/
 2026-04-08 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS054ZTZ6cUtoZFV5T3FVM1lpYlVUOHNvbUNNWXN0aUpWVlN5dkpYbkZqemhoZFM1eUZMeENZVFVxU3FjX1ktMTJZTWRiaWhLTUtfTHJzb0J4TDdrUzJwOXBPRkxyU1BKZS1ETFF4Ry0zWjNUY1BVUkVXemJuc1lSVFVJQWw0ZzZZZlB1bUs4bUJrZmJrU204?oc=5)
+
+---
+
+### [¿Cómo identificar un infarto en mujeres? Estas son las señales](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTU9JUGpxR0d0WjBHVXJ0aVZ3SWRjeHpJZmVZMlI5dkpkeV9Bc1JuY3EydEthZnhSOHRmenNnU0d2WjBJcUNUejBDdnY2bkc5cmc0dTBPb0VSUWloN0JDVXZFWEdlVE5nQzZWYVpEYnR4M2pZN25wWHgwdUtMUkVhbGg5ZUx2OTN3S1VZdnE0SWE4cjlYbVdkS3FvY0NmVjdqS1lCalBCNmlHZVJzdWVlZjhuMWhBWEdhNGJlVVQ4X2tQY0I1d2c?oc=5)
+
+2026-04-08 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[mujeresaseguir.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTU9JUGpxR0d0WjBHVXJ0aVZ3SWRjeHpJZmVZMlI5dkpkeV9Bc1JuY3EydEthZnhSOHRmenNnU0d2WjBJcUNUejBDdnY2bkc5cmc0dTBPb0VSUWloN0JDVXZFWEdlVE5nQzZWYVpEYnR4M2pZN25wWHgwdUtMUkVhbGg5ZUx2OTN3S1VZdnE0SWE4cjlYbVdkS3FvY0NmVjdqS1lCalBCNmlHZVJzdWVlZjhuMWhBWEdhNGJlVVQ4X2tQY0I1d2c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [‘We found out our two-year-old has childhood dementia by chance - it's horrific' - Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmJ2TERGeEItd0wxcl9iczdHbGZiaWZ1VnhUTzN3Q1VMaF9MSGNRcUF3X3dmMUpwczJid3JvUWdNT1BiZ2Q4dGN0TUNlLWN6UDZXUUs0VUg4bWZISktWeFpwQ0RQUHQ4UGZrV0ppZUlLd1B3TnZ1SlhZUUdRSmtzTEw1YmRONW9MUEhMMHdENGFHUF9uMDd1RloxSFl1RjNVLThQcHJTbThrSGxCcU9mMQ?oc=5)
 
 2026-04-09 <span class="news-indication-tag">dementia</span>
 
 來源：[Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmJ2TERGeEItd0wxcl9iczdHbGZiaWZ1VnhUTzN3Q1VMaF9MSGNRcUF3X3dmMUpwczJid3JvUWdNT1BiZ2Q4dGN0TUNlLWN6UDZXUUs0VUg4bWZISktWeFpwQ0RQUHQ4UGZrV0ppZUlLd1B3TnZ1SlhZUUdRSmtzTEw1YmRONW9MUEhMMHdENGFHUF9uMDd1RloxSFl1RjNVLThQcHJTbThrSGxCcU9mMQ?oc=5)
+
+---
+
+### [HM CINAC se consolida como referencia internacional en el tratamiento e investigación de la enfermedad de Parkinson - HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
+
+2026-04-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+來源：[HM Hospitales](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGtaX3g2UW5UekZ2SDJna3FnUGFLR2lPZ256S0xCbW9DcXoyR2JEcFpPMUNGWU9SRlY0MTByN3o3cUhCNFBGZlZaMmljeDl0QXB1THJ5LTVQbXJuRnJIWmRDRGp6NFR1QVJNb29LWnRndjF2ejY0UFZpZDg3TDZ6RzBnNTB4ZjZlRlIzQmhDUWpwSDFNU01BdHNsR1kwcGFTcW0yb0wxMS1XQVBIVWNCTEZxLXBrakVBc0d5LWYtQnJFdFpkOUU2OGtZZ0lqd2RqczBQdWVfWkNXSWV2THZTX1dKTktYSVBn?oc=5)
 
 ---
 
@@ -68,11 +76,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Oftalmólogos piden prestar atención a las alteraciones visuales en las fases iniciales de la enfermedad de Parkinson](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFp2REI2MGJIOTNBX1VIbFNSQkZ2cVhjRWVxYjNFSFk2WW9qWnVlZWhQaWQ0RW4xWHVDdDZBRXNOQVh4N3RWTWtlT1F3aE1ybEtpUnQwVUFQQkZPUHVUQ3lIV2pFVEtaY0xuQUlrNzNTaDFqaVNIeHB3dkU2dVNiOXVCSE1QcUlGMW1oajRiMGRsZDRFVUtNNUpSOXRvRHBjaWFNMDFwam1veHNiTTJiZlp4RHZfOUdmVHA5alBRbEk?oc=5)
+### [Doctor Amir Khan says make 1 change when cleaning teeth to 'slash dementia risk' - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
 
-2026-04-08 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+2026-04-08 <span class="news-indication-tag">dementia</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFp2REI2MGJIOTNBX1VIbFNSQkZ2cVhjRWVxYjNFSFk2WW9qWnVlZWhQaWQ0RW4xWHVDdDZBRXNOQVh4N3RWTWtlT1F3aE1ybEtpUnQwVUFQQkZPUHVUQ3lIV2pFVEtaY0xuQUlrNzNTaDFqaVNIeHB3dkU2dVNiOXVCSE1QcUlGMW1oajRiMGRsZDRFVUtNNUpSOXRvRHBjaWFNMDFwam1veHNiTTJiZlp4RHZfOUdmVHA5alBRbEk?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdmxwU2JkVVFYNmh6ZWdjNlRoX2JBUjFqeE54TFhMU1JzeGxhMzR2THhEdTBZYXJTTEtkUU1UUHlOT1hIQW5HTFJqZGV5Z0ZvbkVrekpJWVJkR1ZZeTV2ODZiUGFhQ1kxcXBCa1VsbHZqMnZSTWxfOVd5UXjSAYIBQVVfeXFMTmMyRkhDWkhOUHVGSW05T0lXYU94TndDekhmWlByOEo2LVZDdE1ESUhhU1BxQTQ0bmh0SlI5elJkVV9EN3ZVQUVZMnRYcGh5OHVBMjU4QmU5bFVSLUJzVmcxRElHekhXTlJxdVpKUldXdWxtQldEaTdCcjQ5d05oOWE3dw?oc=5)
 
 ---
 

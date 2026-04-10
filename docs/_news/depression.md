@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [In diesem Zeitraum steigt bei Vätern das Risiko für Depressionen](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEhBV3R1ekV2QnY1UkxUd1RKNnlzbFFjZEJvZlVUMU1USExkc1NoWXNYZnRUbmRiOTJSZjR3LWtkb1pyQm9jQzlLTklXMkJXU0lDVG9HbWFVSkRYYmIwQXpuMklBMGNWaVhJc3NqenB2SkkwSk1CMEwxREJpRFBpZXRmM01ZbkhPLTcyQnNfbkxnbkEwNWExUEhrT1ZnUVg1YkQ3VlVtaU1OdWYxT2I3ZDgyZHNEbXBpYzVZTA?oc=5)
-
-2026-04-09
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEhBV3R1ekV2QnY1UkxUd1RKNnlzbFFjZEJvZlVUMU1USExkc1NoWXNYZnRUbmRiOTJSZjR3LWtkb1pyQm9jQzlLTklXMkJXU0lDVG9HbWFVSkRYYmIwQXpuMklBMGNWaVhJc3NqenB2SkkwSk1CMEwxREJpRFBpZXRmM01ZbkhPLTcyQnNfbkxnbkEwNWExUEhrT1ZnUVg1YkQ3VlVtaU1OdWYxT2I3ZDgyZHNEbXBpYzVZTA?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### ["Il Parkinson lo freghiamo così...". Vincenzo Mollica invita a non arrendersi alla malattia (Video)](https://news.google.com/rss/articles/CBMingFBVV95cUxNN1pVWlRmWlFuM0FYTDdtZzlVLTFCanRIOXVyMnVYbmw3aFBrckpPd3FWWm9VbHFWOGhKQW01LXBTb1ZhZkdKeVNJdFhtdkdacHRHSVFWbUwtVVM2Qmppbk5BQUd4b0pvQzNfQ0FDNjRvRmRxR1dtWmxld0FYcmdDSW9ZekRVWWxhS3I2ZUFQUnp4ZEZnTF9rWnpsaTZjZw?oc=5)
 
