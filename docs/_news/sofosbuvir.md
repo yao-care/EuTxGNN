@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（16 則）
+
+### [Dear Abby: Eye exams can save more than your vision](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVjOXVVMUtmTDVxU1Jqd3daVUpwLUY1Z2t3c1RjTmlBQ1licGRFMTkya2N0UFU4X01rSmY4Z3FvT2V6WVlxRXBGWEJoZExDVmRnYlVKZUtmY05tLXo3MXo3aVEybElZR3JKQ0E0ZkVVUEhEeUhSdVJlbEdIZnhSdlNqQTZRVG9lR2hLNlRJaTRRUWhsRmlJ0gGrAUFVX3lxTE5hRkFUZ2lQSmZZN2Q4M2hsQ2VwUUZzak53R0k3RnlrdUdrSWtPckUwUmpkdHBZY3ZKMXl3aHRSMnM0RmRiLU90TzJSUzA0RlAzSlozZTF1ck5IanpvOUVDNTd0Ul8xR1lSN0JlSUZJQ3o2dlFUbXRuRnVGcExudlMyTzlJdUg5TDBCWEtnaXRXZTNJSFh1V3lGNUpRYkR5QV9SUTlHV2hPem1qNA?oc=5)
+
+2026-04-11 <span class="news-indication-tag">MS</span>
+
+來源：[MLive.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVjOXVVMUtmTDVxU1Jqd3daVUpwLUY1Z2t3c1RjTmlBQ1licGRFMTkya2N0UFU4X01rSmY4Z3FvT2V6WVlxRXBGWEJoZExDVmRnYlVKZUtmY05tLXo3MXo3aVEybElZR3JKQ0E0ZkVVUEhEeUhSdVJlbEdIZnhSdlNqQTZRVG9lR2hLNlRJaTRRUWhsRmlJ0gGrAUFVX3lxTE5hRkFUZ2lQSmZZN2Q4M2hsQ2VwUUZzak53R0k3RnlrdUdrSWtPckUwUmpkdHBZY3ZKMXl3aHRSMnM0RmRiLU90TzJSUzA0RlAzSlozZTF1ck5IanpvOUVDNTd0Ul8xR1lSN0JlSUZJQ3o2dlFUbXRuRnVGcExudlMyTzlJdUg5TDBCWEtnaXRXZTNJSFh1V3lGNUpRYkR5QV9SUTlHV2hPem1qNA?oc=5)
+
+---
+
+### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+---
 
 ### [Von Herzen – der Herzens-Doc - Bistum Trier](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0xhZkJZbTMya0tOZW5ITlBsZjJmRjhJbm9PSTg2OGlDX3BfVG9CeGJZOTBEZ3l1ZjZYdFp0MXFDMGFXbzdGYlI0eXgwclluSDh3S1llbGZhRWY2M3RWM2hVMHYxN1psZFIya2QwbDhCZVJobFdJWmNGX3ZBNGR4bk1QV1g4cm5rdjZ4aEg3N1M?oc=5)
 
 2026-04-11 <span class="news-indication-tag">MS</span>
 
 來源：[Bistum Trier](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0xhZkJZbTMya0tOZW5ITlBsZjJmRjhJbm9PSTg2OGlDX3BfVG9CeGJZOTBEZ3l1ZjZYdFp0MXFDMGFXbzdGYlI0eXgwclluSDh3S1llbGZhRWY2M3RWM2hVMHYxN1psZFIya2QwbDhCZVJobFdJWmNGX3ZBNGR4bk1QV1g4cm5rdjZ4aEg3N1M?oc=5)
+
+---
+
+### [Forschung revolutioniert Kampf gegen Demenz - AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2x3b3pOemRON3NOVGFNbWZWMVdTTXlWdHpKM19vdnRNUjVFYTloRDFQZ2R0UU14YzFSV3o2Wl8xZjV4bkhFM2U1Nld6UjBhQTR1QWJ6d25veWw2Q1hLd0VmZVZ1UlFqSjNHYkpXbnB5NGY1b0hDRUh4aXo0QmdpTlFnN1RzMGdCN3FldnVhb2tLYmZsOHBneE5RZGN3Uy0tOHBWYw?oc=5)
+
+2026-04-11 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2x3b3pOemRON3NOVGFNbWZWMVdTTXlWdHpKM19vdnRNUjVFYTloRDFQZ2R0UU14YzFSV3o2Wl8xZjV4bkhFM2U1Nld6UjBhQTR1QWJ6d25veWw2Q1hLd0VmZVZ1UlFqSjNHYkpXbnB5NGY1b0hDRUh4aXo0QmdpTlFnN1RzMGdCN3FldnVhb2tLYmZsOHBneE5RZGN3Uy0tOHBWYw?oc=5)
 
 ---
 
@@ -84,11 +108,35 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Frühe Demenzen häufiger mit modifizierbaren Risikofaktoren verbunden als spätere – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2JIZHQ2YzN0SERNSENNb0hnLU5xX3JYSTg0UnB1TlpIaXZ6ZkE4bENXanQySkgwOU15MUlaOVhob2phNDYzeXFraDNvN0dSY0QwRnF1LWZRVkF3c1d4ZTViOG5rdGxBUUNkS1p2cFZzVUN4Wjg2VnFnc0NZdExZTVg2VllselhNMWtaZEdTeGlGZFc0UTNwOWdHZ3M1ZVpNYVFDU1Jqb1VfRGc1V1piM1kyN2JkS0JSLXFuVDJRQUZIbDIzNXlRLWFHVFpxeGhqNVc3ajZrdm4ydE9WaElpdDIzWQ?oc=5)
+### [Dancer with MND performs on stage again through digital avatar](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13X0hWZlJXR1Y3RmgtR292NHhrWkVyRUZBdjJmZXk4RExlSmp2bS1DSXdIN2xJOXJwaDg2U3dUNWM5RzRvUUdZRDlWWHJMakhwalBOUllVVzhsZ3pM?oc=5)
 
 2026-04-10 <span class="news-indication-tag">MS</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2JIZHQ2YzN0SERNSENNb0hnLU5xX3JYSTg0UnB1TlpIaXZ6ZkE4bENXanQySkgwOU15MUlaOVhob2phNDYzeXFraDNvN0dSY0QwRnF1LWZRVkF3c1d4ZTViOG5rdGxBUUNkS1p2cFZzVUN4Wjg2VnFnc0NZdExZTVg2VllselhNMWtaZEdTeGlGZFc0UTNwOWdHZ3M1ZVpNYVFDU1Jqb1VfRGc1V1piM1kyN2JkS0JSLXFuVDJRQUZIbDIzNXlRLWFHVFpxeGhqNVc3ajZrdm4ydE9WaElpdDIzWQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13X0hWZlJXR1Y3RmgtR292NHhrWkVyRUZBdjJmZXk4RExlSmp2bS1DSXdIN2xJOXJwaDg2U3dUNWM5RzRvUUdZRDlWWHJMakhwalBOUllVVzhsZ3pM?oc=5)
+
+---
+
+### [Nuevo avance contra el Alzheimer: cómo los astrocitos modificados eliminan el amiloide en modelos animales - Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
+
+2026-04-10 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
+
+---
+
+### [Study reveals the small changes to your diet, sleep and exercise that can add years to your life - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
+
+---
+
+### [Gefahr Unterzuckerung - Seltene Krankheit: Stellas Kampf ums Überleben - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE01WUo3TlJrVDFCWVA4SVJmekZ1bnVjZHJnNW50U3l3elFWanVHc2ZPcWM2NWFvQlEyX3RKeTdRM3B0Zw?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE01WUo3TlJrVDFCWVA4SVJmekZ1bnVjZHJnNW50U3l3elFWanVHc2ZPcWM2NWFvQlEyX3RKeTdRM3B0Zw?oc=5)
 
 ---
 
@@ -97,30 +145,6 @@ permalink: /news/sofosbuvir/
 2026-04-10 <span class="news-indication-tag">MS</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkctQ1QybzBYYUJXOUVkVU9FaXJwT2VUUjlyZEF3UE8yOXdDbF9lMUNNOWQ0ZmZncFJ5NGJFV05wNjFnUjFlX1pISERaS2ZmY0xYVnNERXdMWXhIMmVqSDBCM0FJX0V4a1ktZ0s1YkR4cV9KMDhzZF9BRENWT0dRcUp5OW9HUUM3?oc=5)
-
----
-
-### [Marchez à cette heure précise de la journée pour doubler votre perte de graisse abdominale - Modes et travaux](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb1FweVBiM3ZnS1Z5YzRVRjV0c2czamJTN0oxQjJCOWhTU054U0FmeUVUeVQ3NHRsaTdoOFVmWl92VEVjUlNjYk9RSTE0bXdBOWx4YWFrbGNnVG9LeDJlQ1RtM2hpT3NPTEpsMHN6S3hJWUV6aVYzM01zdXVhSGhYRmRieGszM3JWSzNTdm4xbWRWVUI1akpzbklkVEdPZUNNSGpGZHFpTkx6SW9OaV91anp4S19jak0xaVhSMllzZmUzUjU2TWRFb0oyajFKOFpBeUlpNFU5QVo3eXRJelNaQ0REdm9lYmpfQnIwMXZB?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[Modes et travaux](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb1FweVBiM3ZnS1Z5YzRVRjV0c2czamJTN0oxQjJCOWhTU054U0FmeUVUeVQ3NHRsaTdoOFVmWl92VEVjUlNjYk9RSTE0bXdBOWx4YWFrbGNnVG9LeDJlQ1RtM2hpT3NPTEpsMHN6S3hJWUV6aVYzM01zdXVhSGhYRmRieGszM3JWSzNTdm4xbWRWVUI1akpzbklkVEdPZUNNSGpGZHFpTkx6SW9OaV91anp4S19jak0xaVhSMllzZmUzUjU2TWRFb0oyajFKOFpBeUlpNFU5QVo3eXRJelNaQ0REdm9lYmpfQnIwMXZB?oc=5)
-
----
-
-### [Il batterio mangia-tumori che li divora dall'interno: cosa dice un nuovo studio belga - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RzcU5rZ2VrNVZ3b2JoUWxWY2xLN0EtWVV5REN0TFRUM25WYXh0NVI0NVpvUlBja0VkMkpyUzc0VUhVcWh6bW5NMmFDeFZsT3JIYTRVZnI2T3QxazFFaC15OC0zRjdBc1BmSFJ4N1M0TTVwcTU1emc2bTZWYkhLdG1xaFlDV0I4NGhDNGhIVVJCd0ZWS2t5cjFTcms4WEZXNUJ3YmRzV0FBUdIBpAFBVV95cUxPU21uQmJaZXNHREhpZFlvWURMekhYZ2VWaC05eGE1NXJBSm5UWTVhQUNaWk05QVFuTm9kYUtFZzhkcDhGYk9GSnZZRnRERmI5dE1yNTlCU0YwbFZ4SVNCbUFKZ1VFcklFUUl5TUlGbW1IOWFVbDR6VkVhRGVHZ3QwdlZiVlJaRjgtUHNnLVA5VmVWak9QbTdEVjFqd2NxOVd4NEswNA?oc=5)
-
-2026-04-10 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RzcU5rZ2VrNVZ3b2JoUWxWY2xLN0EtWVV5REN0TFRUM25WYXh0NVI0NVpvUlBja0VkMkpyUzc0VUhVcWh6bW5NMmFDeFZsT3JIYTRVZnI2T3QxazFFaC15OC0zRjdBc1BmSFJ4N1M0TTVwcTU1emc2bTZWYkhLdG1xaFlDV0I4NGhDNGhIVVJCd0ZWS2t5cjFTcms4WEZXNUJ3YmRzV0FBUdIBpAFBVV95cUxPU21uQmJaZXNHREhpZFlvWURMekhYZ2VWaC05eGE1NXJBSm5UWTVhQUNaWk05QVFuTm9kYUtFZzhkcDhGYk9GSnZZRnRERmI5dE1yNTlCU0YwbFZ4SVNCbUFKZ1VFcklFUUl5TUlGbW1IOWFVbDR6VkVhRGVHZ3QwdlZiVlJaRjgtUHNnLVA5VmVWak9QbTdEVjFqd2NxOVd4NEswNA?oc=5)
-
----
-
-### [Reversible male contraception just took a huge step towards becoming a reality](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNwM1dNUEVfVVRta3NnWFVQbllBdzNBSE5NN2xRQXU2cG8wQ3hpZDZkS01jRVM3MVM3QTVkZEZNVERzQTdacDdwTzJ2N200eW5CcFhIRnhVR0xibVA2ZFBHZ2hxX09KWXdBUEtkMXloQ25rWm5wV2IzemVrWm5hSWRDclFNbWllZWF6eER2THBfTU9PeTlGR09SQW5jUTJiS1BGdWg0RnVkbmlra0hyTU5aOFU?oc=5)
-
-2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNwM1dNUEVfVVRta3NnWFVQbllBdzNBSE5NN2xRQXU2cG8wQ3hpZDZkS01jRVM3MVM3QTVkZEZNVERzQTdacDdwTzJ2N200eW5CcFhIRnhVR0xibVA2ZFBHZ2hxX09KWXdBUEtkMXloQ25rWm5wV2IzemVrWm5hSWRDclFNbWllZWF6eER2THBfTU9PeTlGR09SQW5jUTJiS1BGdWg0RnVkbmlra0hyTU5aOFU?oc=5)
 
 ---
 
@@ -137,22 +161,6 @@ permalink: /news/sofosbuvir/
 2026-04-09 <span class="news-indication-tag">MS</span>
 
 來源：[STERN.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG9oQ0R5NHVDQUlyVlI2SnJwSHVnaS0zS0F0MVRnY1d3TzNTMmJWSDJ0WXpYUldCREQyZ1o0NFF0c2Rzd3BIa1R4LWJvWGl6bWJKNHVaLXV1b1FqX2xGQzJUeDdEMlV0N1FYNXlod255d0R2MnQ0dy1jckNhVzF1ZGkxc0FlNE1qNXgxQ0d5cl9FOTU3czM2ZjN5bHQwUVU0ZE9ZYlRRS1dBMEhjcTlTVW9TZkg?oc=5)
-
----
-
-### [NHS urges checks for persistent heartburn as Nottinghamshire man shares cancer story - West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
-
-2026-04-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
-
----
-
-### [Meditare per 7 giorni riprogramma il cervello: attivate le stesse aree della psilocibina](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVVNdmF6azBLcmxPdHNrbk1oNng5Zk5abDd3VzRXd1ZNbFB6bjZ1WHFfZ094U1Zmano2aDlpTVZFRmtFeEdwcFdIZDBmbGJmeUJNZHlJRlpiYnZxSzF2Y01mc0JaRlNVVG1XYUM4d0t5Yko5TjYyZVJRX24wcVFrN2dQZUROd3d6QzJ1TGcwVXhfODVnZFZwWHZ4Z3Yyak9WZWJnWDRjbDgwMldTbnREcHBBTWR6S1lIQ1poWU5uZG8taVE2UFNfVWpNSG0?oc=5)
-
-2026-04-09 <span class="news-indication-tag">MS</span>
-
-來源：[L'INDIPENDENTE](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVVNdmF6azBLcmxPdHNrbk1oNng5Zk5abDd3VzRXd1ZNbFB6bjZ1WHFfZ094U1Zmano2aDlpTVZFRmtFeEdwcFdIZDBmbGJmeUJNZHlJRlpiYnZxSzF2Y01mc0JaRlNVVG1XYUM4d0t5Yko5TjYyZVJRX24wcVFrN2dQZUROd3d6QzJ1TGcwVXhfODVnZFZwWHZ4Z3Yyak9WZWJnWDRjbDgwMldTbnREcHBBTWR6S1lIQ1poWU5uZG8taVE2UFNfVWpNSG0?oc=5)
 
 ---
 

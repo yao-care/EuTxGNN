@@ -14,7 +14,7 @@ permalink: /news/enalapril-maleate/
 ---
 
 <p class="key-answer" data-question="Enalapril (Maleate) 有什麼相關新聞？">
-<strong>Enalapril (Maleate)</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Enalapril (Maleate)</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/enalapril-maleate/
 <p><a href="{{ '/drugs/enalapril-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（30 則）
+
+### [HPV-Infektion führt zu schwerwiegenden gesundheitlichen Folgen - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxQajkwU1BaQ2lwX2Rab3dVbXBlUUdPM29aT25fRVEzZ0Z2SkFlc1p5alBzWnFNMnBndURQYTB1cWNlVzdGOU4zcVFuNUFaQjViVlBOU1RlYXRvbjZiTjNTaHN0cUQwNXpwZmNMaHZiRVNnV0NadFpNbER2cVB6U3hodXNYRF81QmNDMVFZLV9yRW40akpKUk9JNG9ydw?oc=5)
+
+2026-04-11 <span class="news-indication-tag">Krebs</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxQajkwU1BaQ2lwX2Rab3dVbXBlUUdPM29aT25fRVEzZ0Z2SkFlc1p5alBzWnFNMnBndURQYTB1cWNlVzdGOU4zcVFuNUFaQjViVlBOU1RlYXRvbjZiTjNTaHN0cUQwNXpwZmNMaHZiRVNnV0NadFpNbER2cVB6U3hodXNYRF81QmNDMVFZLV9yRW40akpKUk9JNG9ydw?oc=5)
+
+---
+
+### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+---
 
 ### [Ce type de plastique serait responsable des cancers du sein chez les femmes : pourquoi est-il si dangereux ? - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcE5zdTgxTzZPSmQwZmV5VGJYX0x3dFlYTmNIbVJWYnlFOHRTb2VnU19nR0pubXJ4a1U5aXFQMU5hdHV6S3pEYkdiV3NNc1llUm5TT0FuQjVqWVRwTm0zSWhjM0NFd0RQUHctajJHTHluNkJ0UXdsNzh3bmhlcURQQmZ5S2NBSDJDUlFubUJJb0NZSUZOMmYteW83RkNkNDlzS1hQSkVMQmtRMERsOU9fRHZXQ0o2bUJmaEtQd0R1MjVNd2RJZUw4RDFR?oc=5)
 
@@ -84,6 +100,22 @@ permalink: /news/enalapril-maleate/
 
 ---
 
+### [Frequent headaches but normal reports? Doctors say this overlooked trigger could be the reason - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
+
+---
+
+### [Bioassay, caccia alla molecola che può sconfiggere il cancro - Libero Quotidiano](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1o5d25fUmJXVEhnbnVJMUwwekJ5TTFCS2Z3U0RCUFpzeVVSU2NFVzFYdXg2MFVTX3RXazhMMm1neVpYZ2w0YTE4Rnd5SEtzaW92Vzg4YjRUMUFpaXEyMWZ0dWJjQy02cGVzbUJ3cTN5UjFFejJlUWNyQ1RhUWZtaFhzM0N5cDJpLUxzR1Vxa2dEQ0NDUHNvb19RNHo2SGk5NFk0WHR4Vkl1UHllSExlS215V04?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cancro</span>
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1o5d25fUmJXVEhnbnVJMUwwekJ5TTFCS2Z3U0RCUFpzeVVSU2NFVzFYdXg2MFVTX3RXazhMMm1neVpYZ2w0YTE4Rnd5SEtzaW92Vzg4YjRUMUFpaXEyMWZ0dWJjQy02cGVzbUJ3cTN5UjFFejJlUWNyQ1RhUWZtaFhzM0N5cDJpLUxzR1Vxa2dEQ0NDUHNvb19RNHo2SGk5NFk0WHR4Vkl1UHllSExlS215V04?oc=5)
+
+---
+
 ### [Thymus-Größe beeinflusst Lebenserwartung und Wirksamkeit einer Krebsimmuntherapie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOXl0VERCOFpyWWJxTFRvYlRGY2JYalB2VUxpN0d2bWdrUEZjTmhwaFZ5RndZU2R0dzFaR1hFUHlkVXh2OUVSX0VscEZOV2RMdWV5RGllcnpEanlfSGFEWGNQUVY2bUY5ZklGTTl2WkZMRENkZTQwZ19pU2p4Q09ERkNBeUs5aHBnbnhYZFE2U1BfWTlJLXFJQjRQSEotNjlxajhQWk9STmhpUFRzX1JVOXBLcXg2bzFlQjdsR2lEcFdUQWNkYnVzRGNxcTBkWVduRTdwNTBEVUtBcW9mRnBxaTU5UWpFdw?oc=5)
 
 2026-04-10 <span class="news-indication-tag">Krebs</span>
@@ -102,7 +134,7 @@ permalink: /news/enalapril-maleate/
 
 ### [Five early signs of bowel cancer everyone should know - The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
 
-2026-04-10 <span class="news-indication-tag">cancer</span>
+2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
 
@@ -124,14 +156,6 @@ permalink: /news/enalapril-maleate/
 
 ---
 
-### [Pourquoi l’immunothérapie ne fonctionne pas (encore) contre le cancer du pancréas - Le Figaro Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEo3YUVWUWFrck9vc3RKU1pqRkpNMHhXYUVfenFPRVRwUkNYQV9mTFJRSUttcFRIZjRYUHlGSUVwYy1KVVhOWVh2YV9xcXNwUHYwTnJqaGZESW5NdGFPVUxSN256S3lHRXBoSnZjVGZ4bHFudW55YzdlQmJoWGZ6Y1N6WFMteUVuVEMtdFBuYWJ6dFBEY2ZDWGZHdHJtYWxWcU5reXoyR2lWVHQ1eXVnb3NwN2JKV2xwNWRMYmJZang?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEo3YUVWUWFrck9vc3RKU1pqRkpNMHhXYUVfenFPRVRwUkNYQV9mTFJRSUttcFRIZjRYUHlGSUVwYy1KVVhOWVh2YV9xcXNwUHYwTnJqaGZESW5NdGFPVUxSN256S3lHRXBoSnZjVGZ4bHFudW55YzdlQmJoWGZ6Y1N6WFMteUVuVEMtdFBuYWJ6dFBEY2ZDWGZHdHJtYWxWcU5reXoyR2lWVHQ1eXVnb3NwN2JKV2xwNWRMYmJZang?oc=5)
-
----
-
 ### [Cancers dans le Bas-Rhin : des cas en forte hausse depuis 40 ans](https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjhwSFlZQjVxaFpUWXV0bUhQS0lzZGtMMkNTb2FQLXdKM3hvSVZDS1EwRjdBWDZBUWpldHhYY1RuUkZFY3prc2RUSE5mRUFESHJwRDY1ZERjbWd1MnMzODJzVHFxVWZMTWxLRGFwTDMxX2h4M05uWHFRanY0blVlNkM3Z2FmaWRVcGJVdFctVUJmVEg3eXVYVDdwOU8wNkVtVkMybg?oc=5)
 
 2026-04-10 <span class="news-indication-tag">cancer</span>
@@ -150,25 +174,17 @@ permalink: /news/enalapril-maleate/
 
 ### [Il batterio mangia-tumori che li divora dall'interno: cosa dice un nuovo studio belga - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RzcU5rZ2VrNVZ3b2JoUWxWY2xLN0EtWVV5REN0TFRUM25WYXh0NVI0NVpvUlBja0VkMkpyUzc0VUhVcWh6bW5NMmFDeFZsT3JIYTRVZnI2T3QxazFFaC15OC0zRjdBc1BmSFJ4N1M0TTVwcTU1emc2bTZWYkhLdG1xaFlDV0I4NGhDNGhIVVJCd0ZWS2t5cjFTcms4WEZXNUJ3YmRzV0FBUdIBpAFBVV95cUxPU21uQmJaZXNHREhpZFlvWURMekhYZ2VWaC05eGE1NXJBSm5UWTVhQUNaWk05QVFuTm9kYUtFZzhkcDhGYk9GSnZZRnRERmI5dE1yNTlCU0YwbFZ4SVNCbUFKZ1VFcklFUUl5TUlGbW1IOWFVbDR6VkVhRGVHZ3QwdlZiVlJaRjgtUHNnLVA5VmVWak9QbTdEVjFqd2NxOVd4NEswNA?oc=5)
 
-2026-04-10 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+2026-04-10 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RzcU5rZ2VrNVZ3b2JoUWxWY2xLN0EtWVV5REN0TFRUM25WYXh0NVI0NVpvUlBja0VkMkpyUzc0VUhVcWh6bW5NMmFDeFZsT3JIYTRVZnI2T3QxazFFaC15OC0zRjdBc1BmSFJ4N1M0TTVwcTU1emc2bTZWYkhLdG1xaFlDV0I4NGhDNGhIVVJCd0ZWS2t5cjFTcms4WEZXNUJ3YmRzV0FBUdIBpAFBVV95cUxPU21uQmJaZXNHREhpZFlvWURMekhYZ2VWaC05eGE1NXJBSm5UWTVhQUNaWk05QVFuTm9kYUtFZzhkcDhGYk9GSnZZRnRERmI5dE1yNTlCU0YwbFZ4SVNCbUFKZ1VFcklFUUl5TUlGbW1IOWFVbDR6VkVhRGVHZ3QwdlZiVlJaRjgtUHNnLVA5VmVWak9QbTdEVjFqd2NxOVd4NEswNA?oc=5)
 
 ---
 
-### [« Le registre national des cancers constitue un fourre-tout hétérogène de données sensibles, couvrant de multiples facettes de la vie privée » - Le Monde.fr](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ3BFTEZWOXJkQ3FNeHIzSnRWWVRtcS1mSG8teFRfZUtRV0lkX1U5OWtUX0ZhckxRUTNMOUFCRjAycHkya2hhYzVHVE10b0h0ZGVRUzRKLWc5NTNJNk9IRV95ekUtRXZKcXR2S01iNUhKSjh1aU5wRncwbXRGQmxHR0F4aERsWHFPTkwydVgtanFEQW00Y2NRVmJSdjV6bVFoWjBIWXVTWGotOTE3WVkwZ0NoZ3hlaEFZMGtkRnlvRThZWk5mZ3dGSGRSbkZzRTlWVTBSTDRxaW56UnhuTlhSM0g4cXY5cmUzSVI5QS12ajNsZk1fRV9JOFlORExobFN1dTNzc1pBOXN4a0R2VVNJVnFROUF0Rjdpb0Q1N19TWFA3LUhkNFVHTm05RQ?oc=5)
+### [Cancer du pancréas : sept signes d’alerte souvent ignorés qu’il faut connaître](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnE1UGhVY3REazMxS2xrSUZUOW5zRHNQUTZQLV9La3BpWmJBWDczZDU2X1daeFFQNkl4VDgzT1BKMkJRMFlqdTg2S2t1N3NaVk0zT0ptTm50Q091VmFNNlVaUTliVnYxUFp5YXNMSU9VTjRPbmU3WHR6RDB0TFRMbksyZVlzUFhjbzJGb2FyQXVMVnU0eE90MHJkREVZUkFPZVd0MlVuQ3FQeGNUOEpEOWFwSFBRaS1vTVJKZjRR?oc=5)
 
 2026-04-10 <span class="news-indication-tag">cancer</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ3BFTEZWOXJkQ3FNeHIzSnRWWVRtcS1mSG8teFRfZUtRV0lkX1U5OWtUX0ZhckxRUTNMOUFCRjAycHkya2hhYzVHVE10b0h0ZGVRUzRKLWc5NTNJNk9IRV95ekUtRXZKcXR2S01iNUhKSjh1aU5wRncwbXRGQmxHR0F4aERsWHFPTkwydVgtanFEQW00Y2NRVmJSdjV6bVFoWjBIWXVTWGotOTE3WVkwZ0NoZ3hlaEFZMGtkRnlvRThZWk5mZ3dGSGRSbkZzRTlWVTBSTDRxaW56UnhuTlhSM0g4cXY5cmUzSVI5QS12ajNsZk1fRV9JOFlORExobFN1dTNzc1pBOXN4a0R2VVNJVnFROUF0Rjdpb0Q1N19TWFA3LUhkNFVHTm05RQ?oc=5)
-
----
-
-### [Cancro al colon retto, la nuova frontiera della prevenzione: dalla diagnosi alle nuove terapie](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUk1bDVQZ3ZhSm9YUkdWUUxROVFPc3FSY0NfSlVJa0Fsb0VmODFmX09TbmU4S1gwQ3VVWkR0Z3hIbGtwWHVEaEctTVNmZU9CYnZCVGZJR1M0Qk9PQm40b2R0c1o5Uzk4TWxsclFYWm5aWHgyRE1iNGpzS1BSek9mdmRsSzlmN1VKRzVJUnVURmJ4Tjc5d0JN?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancro</span>
-
-來源：[CataniaToday](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUk1bDVQZ3ZhSm9YUkdWUUxROVFPc3FSY0NfSlVJa0Fsb0VmODFmX09TbmU4S1gwQ3VVWkR0Z3hIbGtwWHVEaEctTVNmZU9CYnZCVGZJR1M0Qk9PQm40b2R0c1o5Uzk4TWxsclFYWm5aWHgyRE1iNGpzS1BSek9mdmRsSzlmN1VKRzVJUnVURmJ4Tjc5d0JN?oc=5)
+來源：[Breizh-info.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnE1UGhVY3REazMxS2xrSUZUOW5zRHNQUTZQLV9La3BpWmJBWDczZDU2X1daeFFQNkl4VDgzT1BKMkJRMFlqdTg2S2t1N3NaVk0zT0ptTm50Q091VmFNNlVaUTliVnYxUFp5YXNMSU9VTjRPbmU3WHR6RDB0TFRMbksyZVlzUFhjbzJGb2FyQXVMVnU0eE90MHJkREVZUkFPZVd0MlVuQ3FQeGNUOEpEOWFwSFBRaS1vTVJKZjRR?oc=5)
 
 ---
 
@@ -244,35 +260,11 @@ permalink: /news/enalapril-maleate/
 
 ---
 
-### [HPV-Impfung auch im Erwachsenenalter empfohlen - mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMENCMS0xOWhyVFUxamdkZFFrOFlLbTg1eE1KS1BlV1dMRVBGWFZOS1hTOF9Tb24wd0RoQWxzWFVBYTBTY3N2WTkxWlR6VlJTQUlDZ3BfeENyTU1IdmFYV2M2Um9BTmZ0Z1BXMkt1OFRwWC1NNmJqSTRETnR6Rkdvb1JwU1ZabGN2SlZfLVdrRGNVVEdiSEhz?oc=5)
-
-2026-04-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMENCMS0xOWhyVFUxamdkZFFrOFlLbTg1eE1KS1BlV1dMRVBGWFZOS1hTOF9Tb24wd0RoQWxzWFVBYTBTY3N2WTkxWlR6VlJTQUlDZ3BfeENyTU1IdmFYV2M2Um9BTmZ0Z1BXMkt1OFRwWC1NNmJqSTRETnR6Rkdvb1JwU1ZabGN2SlZfLVdrRGNVVEdiSEhz?oc=5)
-
----
-
 ### [Dermatologists Reveal the Number-1 Sign of Skin Cancer—and It’s Sneaky](https://news.google.com/rss/articles/CBMid0FVX3lxTFBOVkgtaThzR2RzYldaeFZHbFdMYlVmU043WGYwUGQxSzYwTjhwYk5GbnZoMU5jOXRGazBFeks0c0pmM3Z3RXpCRThnWWM5Uk9kY0l0X00wS2t2OGc5TUMwd1dPYjZnV3JZajVrVzJyQlhTWVdhbjBv?oc=5)
 
 2026-04-09 <span class="news-indication-tag">cancer</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMid0FVX3lxTFBOVkgtaThzR2RzYldaeFZHbFdMYlVmU043WGYwUGQxSzYwTjhwYk5GbnZoMU5jOXRGazBFeks0c0pmM3Z3RXpCRThnWWM5Uk9kY0l0X00wS2t2OGc5TUMwd1dPYjZnV3JZajVrVzJyQlhTWVdhbjBv?oc=5)
-
----
-
-### [NHS urges checks for persistent heartburn as Nottinghamshire man shares cancer story - West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
-
-2026-04-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
-
----
-
-### [Ipertensione «resistente»: come trattarla con successo e cosa si profila all’orizzonte - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
-
-2026-04-09 <span class="news-indication-tag">ipertensione</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
 
 ---
 

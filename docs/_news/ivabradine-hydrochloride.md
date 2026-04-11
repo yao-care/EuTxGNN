@@ -14,7 +14,7 @@ permalink: /news/ivabradine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ivabradine Hydrochloride 有什麼相關新聞？">
-<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,45 @@ permalink: /news/ivabradine-hydrochloride/
 <p><a href="{{ '/drugs/ivabradine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（30 則）
+
+### [Wissenschaft - Hoffnung für die Diagnostik: Bisher unbekanntes Protein hilft uns beim Hören](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdUlZMk9lRklVZXdLMldHVW10dGtmVTRTN3pOcGVoSVhrdnVzWlJGWUxGQ3NKcmN4N2VNYmZBS0RraTNjMml4dHZEUk15R0RYMTktVjUtYXpIc2k1cl9iSHZ4NU1RellHbnpmcmhwMGNLWGxBa1ZHOWZlWmZtNlZLMmVaRFZVLUlQcDNsdUJ3dTJLTE8xSWlCbVRDczBabXZDTzRLdEhESFpTRTVZOGxrNy1DWjNuWldMcWcwc0JOQU56WDVTbzFzTjZDNmxuaV9wVHJRaHktdC12Qks0T1pxX1p4am1UWTBaRThtUw?oc=5)
+
+2026-04-11 <span class="news-indication-tag">AF</span>
+
+來源：[radioeins](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdUlZMk9lRklVZXdLMldHVW10dGtmVTRTN3pOcGVoSVhrdnVzWlJGWUxGQ3NKcmN4N2VNYmZBS0RraTNjMml4dHZEUk15R0RYMTktVjUtYXpIc2k1cl9iSHZ4NU1RellHbnpmcmhwMGNLWGxBa1ZHOWZlWmZtNlZLMmVaRFZVLUlQcDNsdUJ3dTJLTE8xSWlCbVRDczBabXZDTzRLdEhESFpTRTVZOGxrNy1DWjNuWldMcWcwc0JOQU56WDVTbzFzTjZDNmxuaV9wVHJRaHktdC12Qks0T1pxX1p4am1UWTBaRThtUw?oc=5)
+
+---
+
+### [NHS to offer second MenB vaccine after deadly Kent outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xUmVsdnZzZUVwQjNPRFBZYVYzYjBkdVYwd3VXY2tnTTVBVlF5UnJVaVFIcVVjOU9veTVOMmQ3TTg4R3dXS05LQThMVF9uZ3ZMdFhfVkZCazBheFpv?oc=5)
+
+2026-04-11 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xUmVsdnZzZUVwQjNPRFBZYVYzYjBkdVYwd3VXY2tnTTVBVlF5UnJVaVFIcVVjOU9veTVOMmQ3TTg4R3dXS05LQThMVF9uZ3ZMdFhfVkZCazBheFpv?oc=5)
+
+---
+
+### [Il 'gene anti-età' esiste davvero: la ricerca italiana che può cambiare tutto](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMF9NM3R3QnpDSmpWTUhSV0lDXy1Zemx3ek16MXUxS2FHSUNSRE5DV3JBRGdVVEpwTWFfNV9idUl5cXNQcEk0c1Q3VmNVOVFXaWFtM3lmOFRaZ2FwOWpfWGxiQWZucVgyNzN3cjVTeHNJR01XT001aTIyc0VJdW9HbmNCLUVUa1Z2NjNvR0hral9yUGdqZlE?oc=5)
+
+2026-04-11 <span class="news-indication-tag">AF</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMF9NM3R3QnpDSmpWTUhSV0lDXy1Zemx3ek16MXUxS2FHSUNSRE5DV3JBRGdVVEpwTWFfNV9idUl5cXNQcEk0c1Q3VmNVOVFXaWFtM3lmOFRaZ2FwOWpfWGxiQWZucVgyNzN3cjVTeHNJR01XT001aTIyc0VJdW9HbmNCLUVUa1Z2NjNvR0hral9yUGdqZlE?oc=5)
+
+---
 
 ### [Alerta por el nodavirus: el virus acuático que salta a humanos y puede causar pérdida de visión](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenlfTENkTkhfb0lGSmJUMHJBRXJDV0RtYlFGMHFuU25rLXBKRm1sUXNZWkE5SDN2eHhmc2NkWE1uTHhCQkxPbXo5aEttZUpkOF85RTJjbmtlN3hXZXVSdlU1bmpGOVVsWXpTLTNoa0QtOWFDVDZTdUZ5ZlFVYU50djFKUEUweTdVd1g3LXpCZnlmTzjSAZgBQVVfeXFMT2lndG91ejVPN0F2aHRWUm5OYmZsdms4QlhCTU1STHVpTlFMYktJNzNmblZyaW1oLWg2Qml3RFVKSGJBNk5Fck5paGNtcExrMXphMDB6eTNuUlB0a2tfQ1dBV0pxZk5ZQTBQdndPaUdlNmp1NjVjazVRM2FFZnlZSUozc1REMHNMcnN1QUNTMTA0bmdFOHJxekg?oc=5)
 
 2026-04-11 <span class="news-indication-tag">AF</span>
 
 來源：[Demócrata](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenlfTENkTkhfb0lGSmJUMHJBRXJDV0RtYlFGMHFuU25rLXBKRm1sUXNZWkE5SDN2eHhmc2NkWE1uTHhCQkxPbXo5aEttZUpkOF85RTJjbmtlN3hXZXVSdlU1bmpGOVVsWXpTLTNoa0QtOWFDVDZTdUZ5ZlFVYU50djFKUEUweTdVd1g3LXpCZnlmTzjSAZgBQVVfeXFMT2lndG91ejVPN0F2aHRWUm5OYmZsdms4QlhCTU1STHVpTlFMYktJNzNmblZyaW1oLWg2Qml3RFVKSGJBNk5Fck5paGNtcExrMXphMDB6eTNuUlB0a2tfQ1dBV0pxZk5ZQTBQdndPaUdlNmp1NjVjazVRM2FFZnlZSUozc1REMHNMcnN1QUNTMTA0bmdFOHJxekg?oc=5)
+
+---
+
+### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
 
 ---
 
@@ -60,11 +92,11 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+### [Five psychedelic drugs create the same brain activity patterns, despite having very different chemistries](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXpOTWd2XzdnREhKRHkyeTZFQ0tyU1FMMHB3SUFUOVltbGZHalRtTFEtWVJzeld4cFJBRjgzck5PS0htLUgxNm0tSUpLRTEtS2ZmdUdkVDlxay1Vbkw4YmoxOHpQSGp0bC10TWhMNXl1ZTRWRHQ3TTJZU0sydnBFR0hSY3Jrd0FvaGduVG9TNzB6eXB0N2JqSzJxTTdXeVRsdmdXWWNR?oc=5)
 
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-10 <span class="news-indication-tag">AF</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+來源：[Earth.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXpOTWd2XzdnREhKRHkyeTZFQ0tyU1FMMHB3SUFUOVltbGZHalRtTFEtWVJzeld4cFJBRjgzck5PS0htLUgxNm0tSUpLRTEtS2ZmdUdkVDlxay1Vbkw4YmoxOHpQSGp0bC10TWhMNXl1ZTRWRHQ3TTJZU0sydnBFR0hSY3Jrd0FvaGduVG9TNzB6eXB0N2JqSzJxTTdXeVRsdmdXWWNR?oc=5)
 
 ---
 
@@ -84,19 +116,35 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Apretar la mano o levantarse de una silla ayuda a predecir enfermedades](https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3dDS3dldkRidFF3d0NKc3lfSF9GdjBLdTdYRWh0a1F6ODlZamFTMjRDVXQzRm81cUxWbEswX0lvclVEMHpfUkxlQWlJUDhHTk9xblV5TWR2bjl4SWRQSDZKSlh4RU9fNFg5UndreEZIeFpqekstTXU1dDB4YjR5LVd2cU5QUWNPUFRCOGVGVG5jYzV2Ym9VMjZCcUxiVWxvdi1MZnpyZ2dyeVNoNGU3WTlkZHlheDN1cGtxQVIwWQ?oc=5)
+### [The Best Probiotics: Safe, Effective Strains, Based On Expert Insights](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGJ0WUJoNFJtRGJxN3Y0RENINExmVmJkNVdWbnZ0d1ZTdkpxeHBCYWNBQ3hZZGJvT1lPeklubzZCVmx2WUc4YTM1cE1mRFJhbDRzaWdSMms5a2VxLWxuNDRuUkZjeWtNMThoM3hJVUZpU0c0VmY0UTlnRERZdms0RTFFVQ?oc=5)
 
 2026-04-10 <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3dDS3dldkRidFF3d0NKc3lfSF9GdjBLdTdYRWh0a1F6ODlZamFTMjRDVXQzRm81cUxWbEswX0lvclVEMHpfUkxlQWlJUDhHTk9xblV5TWR2bjl4SWRQSDZKSlh4RU9fNFg5UndreEZIeFpqekstTXU1dDB4YjR5LVd2cU5QUWNPUFRCOGVGVG5jYzV2Ym9VMjZCcUxiVWxvdi1MZnpyZ2dyeVNoNGU3WTlkZHlheDN1cGtxQVIwWQ?oc=5)
+來源：[Forbes](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGJ0WUJoNFJtRGJxN3Y0RENINExmVmJkNVdWbnZ0d1ZTdkpxeHBCYWNBQ3hZZGJvT1lPeklubzZCVmx2WUc4YTM1cE1mRFJhbDRzaWdSMms5a2VxLWxuNDRuUkZjeWtNMThoM3hJVUZpU0c0VmY0UTlnRERZdms0RTFFVQ?oc=5)
 
 ---
 
-### [Allarme morbillo a Cosenza, cresce il numero dei contagi · CosenzaChannel.it - Cosenza Channel](https://news.google.com/rss/articles/CBMiowFBVV95cUxONEJiYk1UaXYyRmVLQ19sdlFRdFF4R0pXb0FsWkM5ZTVzcjh2bE8tM3JTV09QSlhNdkVWemNWTnhldzFYRC1BYVBBcVJva2ZXd0JtalBXOFZJTlNrMGNfeWxLQlBCVnVpX1E0M3VKRHNDSzhWdmxpdEZ3MHFmdlIyNjVZWE5FazFUNF9XcXZmdFM3UzJpcjkwd3dnNzhJd1dJVWNF0gGoAUFVX3lxTFAxaVhINVYtTjI2MUpwYUtTRTYxVWhqR1ltenNUMU9KNEtsRndXamZMclhlaW5VLUVKQUZ1S1NpTXI4bmFuQXRoOVdQa0xIQjJ2RjlzT3pnVjNyWmt1LXk4YXFqQW1ZTmp5TVZ2eXgyMzVhNkpfaEhfZXN4VGtycFh3VjM4OVVEc3BMM1VLM3pZOUZLU0Q2WEFMUzkwRDF5TzdKYUUzaDZtVQ?oc=5)
+### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+
+---
+
+### ["La escasa visibilidad del síndrome genitourinario de la menopausia genera reticencias para afrontarlo, tanto para las mujeres como para el personal sanitario"](https://news.google.com/rss/articles/CBMikwJBVV95cUxNa2FmQUNhNnV2NFoxSEZ1THdXTkNqWW9PRnpVMDBFcGVyX3VIdGRQYkhNNUtlVG9sT2gtZ2JxN3M0OWRfZjFlX2NmUTVCMU82ckJTQWIwTmtZblFsaC1aenJyNzNRZTNjaWgwOUFhMmtLWENSSGo0dlNIOFRVdEZNMFRRX01zNkVJUF9fdjdVMUdCaWFEZlppM0JrYnFpalNfdjVaVHpVWFZNakxGcG9zME05ZXg5VjlxLXV1ZjJkYXl4UjJHX0l0QjlXRjlZRXk2Y0puMjVoeEkxdFB2N0pieTZwekhqWjZEYmpvVjJFRlV0emVIUWdFLXdpREJIcUtOcWQ5NHczTVBFdEs1UUV6LXZOWQ?oc=5)
 
 2026-04-10 <span class="news-indication-tag">AF</span>
 
-來源：[Cosenza Channel](https://news.google.com/rss/articles/CBMiowFBVV95cUxONEJiYk1UaXYyRmVLQ19sdlFRdFF4R0pXb0FsWkM5ZTVzcjh2bE8tM3JTV09QSlhNdkVWemNWTnhldzFYRC1BYVBBcVJva2ZXd0JtalBXOFZJTlNrMGNfeWxLQlBCVnVpX1E0M3VKRHNDSzhWdmxpdEZ3MHFmdlIyNjVZWE5FazFUNF9XcXZmdFM3UzJpcjkwd3dnNzhJd1dJVWNF0gGoAUFVX3lxTFAxaVhINVYtTjI2MUpwYUtTRTYxVWhqR1ltenNUMU9KNEtsRndXamZMclhlaW5VLUVKQUZ1S1NpTXI4bmFuQXRoOVdQa0xIQjJ2RjlzT3pnVjNyWmt1LXk4YXFqQW1ZTmp5TVZ2eXgyMzVhNkpfaEhfZXN4VGtycFh3VjM4OVVEc3BMM1VLM3pZOUZLU0Q2WEFMUzkwRDF5TzdKYUUzaDZtVQ?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMikwJBVV95cUxNa2FmQUNhNnV2NFoxSEZ1THdXTkNqWW9PRnpVMDBFcGVyX3VIdGRQYkhNNUtlVG9sT2gtZ2JxN3M0OWRfZjFlX2NmUTVCMU82ckJTQWIwTmtZblFsaC1aenJyNzNRZTNjaWgwOUFhMmtLWENSSGo0dlNIOFRVdEZNMFRRX01zNkVJUF9fdjdVMUdCaWFEZlppM0JrYnFpalNfdjVaVHpVWFZNakxGcG9zME05ZXg5VjlxLXV1ZjJkYXl4UjJHX0l0QjlXRjlZRXk2Y0puMjVoeEkxdFB2N0pieTZwekhqWjZEYmpvVjJFRlV0emVIUWdFLXdpREJIcUtOcWQ5NHczTVBFdEs1UUV6LXZOWQ?oc=5)
+
+---
+
+### [Frequent headaches but normal reports? Doctors say this overlooked trigger could be the reason - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
 
 ---
 
@@ -118,7 +166,7 @@ permalink: /news/ivabradine-hydrochloride/
 
 ### [Semaglutide e tirzepatide, più peso perso o effetti collaterali con specifiche varianti genetiche: lo studio USA](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 
-2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 
@@ -129,6 +177,14 @@ permalink: /news/ivabradine-hydrochloride/
 2026-04-10 <span class="news-indication-tag">AF</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaGxDQmhpcHVOMmdEcXd3WnFJN3Byd1BUb1JfREI0Sm1nanRRV0JiYTY4NXlsVUVfNWluSEJ2aGdJQ3RfWFI5RVI0X3BpOGdZSTZqSXBtWWQ5eE52YXNOUGhnaWVfQS1LTkRLQ1d5cFRtSlJNWHp3NDlXVkI3N3BkRjJZOFlJV2JCdU5Uck9YSm95NW94S09hS3R4YWFqbnUxS2w5ZWxkRkZZY0lJcDlZblNCVmgwcTJ2a1dIZGFRQ0R5OWdEcXhDTVktRzhsaGRnX3ozVlZB?oc=5)
+
+---
+
+### [Five early signs of bowel cancer everyone should know - The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
 
 ---
 
@@ -150,7 +206,7 @@ permalink: /news/ivabradine-hydrochloride/
 
 ### [Study reveals the small changes to your diet, sleep and exercise that can add years to your life - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
 
-2026-04-10 <span class="news-indication-tag">AF</span>
+2026-04-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
 
@@ -196,14 +252,6 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Reversible male contraception just took a huge step towards becoming a reality](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNwM1dNUEVfVVRta3NnWFVQbllBdzNBSE5NN2xRQXU2cG8wQ3hpZDZkS01jRVM3MVM3QTVkZEZNVERzQTdacDdwTzJ2N200eW5CcFhIRnhVR0xibVA2ZFBHZ2hxX09KWXdBUEtkMXloQ25rWm5wV2IzemVrWm5hSWRDclFNbWllZWF6eER2THBfTU9PeTlGR09SQW5jUTJiS1BGdWg0RnVkbmlra0hyTU5aOFU?oc=5)
-
-2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNwM1dNUEVfVVRta3NnWFVQbllBdzNBSE5NN2xRQXU2cG8wQ3hpZDZkS01jRVM3MVM3QTVkZEZNVERzQTdacDdwTzJ2N200eW5CcFhIRnhVR0xibVA2ZFBHZ2hxX09KWXdBUEtkMXloQ25rWm5wV2IzemVrWm5hSWRDclFNbWllZWF6eER2THBfTU9PeTlGR09SQW5jUTJiS1BGdWg0RnVkbmlra0hyTU5aOFU?oc=5)
-
----
-
 ### [ChatGPT 'uncovered woman's rare condition' after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
 
 2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -233,46 +281,6 @@ permalink: /news/ivabradine-hydrochloride/
 2026-04-09 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYU8zQUlWQlE0RTk1elkzdWNIX2Fyb0JtamxrWUhtd3RDMzdQQ3R6aERreFg2WjBsc3p1YnRUWmxQMi1GNHd2V1FJUUZpcEp6UlVWZ2JJUHUtVEpsd3cta1RYVFRPdHVjSm5sR3h3UzFFcVVHSDBzcThOX19RRFotYzRid2lpZHB0UzN6WGtlX0w5Q1MwYnZjZE1Jc0dkREpmZy1xYWNueE5BV212a0VEQm1DU2JWQ0VsTVpRS3BB?oc=5)
-
----
-
-### [Quanto caffè fa bene alla mente? Uno studio ha trovato la dose ottimale - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFOeEVpZ09DUGxzTXV6blVVWFk4d3VHblZ1SGpSTllnTTZHMkRJYWYzWTk4cFdIWm9rY3ZYak9TWTVLRkRoNEJkdzIzSnk2TnV5ZjhJQXNOMFoxZzUzQ1VQSjh2bnh1a3F6LS1iQkFzSGZUR3FoT0ZzRE1Wejc1SGxsdkJwVGhaOVg1Y3RCa0J3TnRWRnlYeTFjb2Rad0ZINmJqNkdCMUN0ajlKOXJQSGZYZGNsSkpnU0hJUEpnY1c5MlnSAcgBQVVfeXFMT3g3bVZvaDF2QWtnRzJfVmQwQlZGOFoya2hTX2ZaQks4M3NpakJpOWxIX2VYNkpmS1pwaGc5dG9mRTJCZVVEcVE0QlRibWVrLUkzN2p4Snd0MktvUmZMVVVmeHZSenNOV2JJTW9JWFNoT2pJdUd5cUJfNnI3LUZ5UTFCU2hfNTNFNjBucS1QckRqOE1aY2ExRDB4b2Z1MGJRSWtYb0hxeUtoai00VTJKYk9kRUtMbGRvZmNDUmxuVEM4dVpkVmhWOEQ?oc=5)
-
-2026-04-09 <span class="news-indication-tag">AF</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnFOeEVpZ09DUGxzTXV6blVVWFk4d3VHblZ1SGpSTllnTTZHMkRJYWYzWTk4cFdIWm9rY3ZYak9TWTVLRkRoNEJkdzIzSnk2TnV5ZjhJQXNOMFoxZzUzQ1VQSjh2bnh1a3F6LS1iQkFzSGZUR3FoT0ZzRE1Wejc1SGxsdkJwVGhaOVg1Y3RCa0J3TnRWRnlYeTFjb2Rad0ZINmJqNkdCMUN0ajlKOXJQSGZYZGNsSkpnU0hJUEpnY1c5MlnSAcgBQVVfeXFMT3g3bVZvaDF2QWtnRzJfVmQwQlZGOFoya2hTX2ZaQks4M3NpakJpOWxIX2VYNkpmS1pwaGc5dG9mRTJCZVVEcVE0QlRibWVrLUkzN2p4Snd0MktvUmZMVVVmeHZSenNOV2JJTW9JWFNoT2pJdUd5cUJfNnI3LUZ5UTFCU2hfNTNFNjBucS1QckRqOE1aY2ExRDB4b2Z1MGJRSWtYb0hxeUtoai00VTJKYk9kRUtMbGRvZmNDUmxuVEM4dVpkVmhWOEQ?oc=5)
-
----
-
-### [Neuer Ansatz gegen Herzschwäche: Göttinger Forschende finden genetischen „Schalter“ - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
-
-2026-04-09 <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
-
----
-
-### [Diagnose Testosteronmangel - oft übersehen, selten behandelt / Versorgungsstudie männlicher Testosteronmangel](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNmI5Sk5pR2RTVE16blpQNmpDaFZZTXR1MjFlUVF2TWhTZl9LRDFXTmdqYnluZXB0SUVPVG1kTTFrd2lBV1J2Y2Q3UTQ1QkhlRzJTUnlFc0F4MmpWRURXbWZtQ29DVG9nMDNjaDd5ZktyMld6X2tlaE56TE5hRVlaVF9GSi1XM0ZOT2tTNEMyTkhuSEM5RVNhYkozaVAyZ0J2dWVnMlBDU0xIZkVlS1ptNlFnZUNIUWRZX2NVNTdoZzVTZm12VFV6b0t1cXdJbm9Dd3U5VFR5VlpzT3VoOUhhazdfM3ZzTnVKRUQ3Zmh3V2F4Z3g1NFRQR3FySHctUFhKREZScHR2aw?oc=5)
-
-2026-04-09 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNmI5Sk5pR2RTVE16blpQNmpDaFZZTXR1MjFlUVF2TWhTZl9LRDFXTmdqYnluZXB0SUVPVG1kTTFrd2lBV1J2Y2Q3UTQ1QkhlRzJTUnlFc0F4MmpWRURXbWZtQ29DVG9nMDNjaDd5ZktyMld6X2tlaE56TE5hRVlaVF9GSi1XM0ZOT2tTNEMyTkhuSEM5RVNhYkozaVAyZ0J2dWVnMlBDU0xIZkVlS1ptNlFnZUNIUWRZX2NVNTdoZzVTZm12VFV6b0t1cXdJbm9Dd3U5VFR5VlpzT3VoOUhhazdfM3ZzTnVKRUQ3Zmh3V2F4Z3g1NFRQR3FySHctUFhKREZScHR2aw?oc=5)
-
----
-
-### [Ipertensione «resistente»: come trattarla con successo e cosa si profila all’orizzonte - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
-
-2026-04-09 <span class="news-indication-tag">ipertensione</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
-
----
-
-### [Des pesticides PFAS pourraient recevoir une approbation illimitée - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVNFdHdKZXdwM0Y1YXc0cTZGOHM0Yl9MbldJbEpVbnlObU5uWHBOM3lhdFN2UkVVY1RkUmFTb041RmJ3SjhOTjhtaGlrU2Y1RG41M3ZsT1dlNGV0bzN5N29kbmFwZkNubEJhV3VYaElBUU5fYVFObE9GUmYwQnluZmNteXZDa01oOHFXaHZLOEhwUQ?oc=5)
-
-2026-04-09 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVNFdHdKZXdwM0Y1YXc0cTZGOHM0Yl9MbldJbEpVbnlObU5uWHBOM3lhdFN2UkVVY1RkUmFTb041RmJ3SjhOTjhtaGlrU2Y1RG41M3ZsT1dlNGV0bzN5N29kbmFwZkNubEJhV3VYaElBUU5fYVFObE9GUmYwQnluZmNteXZDa01oOHFXaHZLOEhwUQ?oc=5)
 
 ---
 

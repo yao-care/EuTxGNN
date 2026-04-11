@@ -14,7 +14,7 @@ permalink: /news/reteplase/
 ---
 
 <p class="key-answer" data-question="Reteplase 有什麼相關新聞？">
-<strong>Reteplase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Reteplase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/reteplase/
 <p><a href="{{ '/drugs/reteplase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Frequent headaches but normal reports? Doctors say this overlooked trigger could be the reason - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
+
+---
 
 ### [Médicos alertan de que el riesgo vascular en mujeres está infravalorado - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTBLbDlKT2ZPbVhJQ21SY2hMdHdGeHBBREZmc1p4VWpHTFRRSHI0Zjd4ZnBKVWxjNHprU0dJN0ZpSjhhdVVHeFFrZlJJaU1lSlY0REFEcHluRmRvNjlEdGM2SXRjN2I0dm0xQlNYU1JtelJtZUszLTd4TEVpV3B6a1p5Qy1ERGJJYnRNQzRPRVlhSXZtYnk5bGNpbC1wRURHS3VEckRHdEZVVzFFazRDcVBtLXFDVG1TNVZKY243WC13MHhVZkpGR0t3?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [ENTRETIEN. Scandale de l’Ozempic : "On atteint ici le paroxysme du capitalisme dégueulasse" Un avocat toulousain prépare une plainte collective après des effets secondaires graves](https://news.google.com/rss/articles/CBMiogJBVV95cUxOWG1aM2RHbHZ3T0dDMmNxMEVzMURzUzFsM3VpbmRzelItTi1lX2xoUU41eWY3RFZQemhHSjJNUUxLb29wTFhuWmxFc2pIa1BNckZnR3U5OW5DVTBGR09IZ1RSMXZWSEZtaVVIcHFnYXlMQllia3A4eFZyRVp4Wkw3UkJpbEE5bGgxYVFTN1ZpcDBJRXBCb094UDJPaklSUXhBUURISEhQS0h5NFNiS0RxRHlPX3ZDOUJma0tjenRFRkRhVlU2UVFoQzBfZGxScWR3b19QVFVsdldYY0FQMzM3eGRQNGhMckpKV0JQYUhGczJnWm9NVEgtRFlkVVM4VHdkUWZIX2t6VTA2VGFuakxhaWlqWnByQ3ZyRUhjUE5nUVlPZw?oc=5)
-
-2026-04-11 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMiogJBVV95cUxOWG1aM2RHbHZ3T0dDMmNxMEVzMURzUzFsM3VpbmRzelItTi1lX2xoUU41eWY3RFZQemhHSjJNUUxLb29wTFhuWmxFc2pIa1BNckZnR3U5OW5DVTBGR09IZ1RSMXZWSEZtaVVIcHFnYXlMQllia3A4eFZyRVp4Wkw3UkJpbEE5bGgxYVFTN1ZpcDBJRXBCb094UDJPaklSUXhBUURISEhQS0h5NFNiS0RxRHlPX3ZDOUJma0tjenRFRkRhVlU2UVFoQzBfZGxScWR3b19QVFVsdldYY0FQMzM3eGRQNGhMckpKV0JQYUhGczJnWm9NVEgtRFlkVVM4VHdkUWZIX2t6VTA2VGFuakxhaWlqWnByQ3ZyRUhjUE5nUVlPZw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Berberina, el falso “Ozempic natural” que ha conquistado las redes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0QxZFNlZHdTUEJSUG1ZM3pTWXhvWC1BbUlxR2E0V1RnVENVVUFoUFU0ZG0tUWlvZG9Jcjd5cVZ2enRoeklIQXBKUFZ2R01ZeTRGVE5GbXZiNHlCTVlvVGUwZlYwRzFhMngyYzJWd1RwMWZ0N1lJbG1SUEExc0dSYmlONm8wM3ZhN2RQb1k2WXExeC1vWktpcWhma0hZNGVXbzBrZlB2WmpVdk9zRDZlUHEzbnVfOXVWUXdUSkdpQjjSAcYBQVVfeXFMUFBVcDltSy1yX3B3RGRBLUdfZFhrSEdhZXJjeGE0bkFfUXdZaGFYbHNlTTZLUzBZTkYwZ2NHWHRvTVQzY0tYblk5Z1NFSmpXSDRGbEFYNDlodHFmRGRKUmNaWUVrazVyY2k2VjU5Z3hRbWpSa2x3SUwwT2xpRUNMOXJzeXd0UVk0clBVRFJXbnVPZjlLM3IxSVBrTHY4c0Q3R3p4eURQNkthWXBxRnRVdXZONVhLbnBOMW8zQXhxcFEyaUFGZmdn?oc=5)
 
@@ -70,7 +62,7 @@ permalink: /news/semaglutide/
 
 ### [Semaglutide e tirzepatide, più peso perso o effetti collaterali con specifiche varianti genetiche: lo studio USA](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 
-2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 

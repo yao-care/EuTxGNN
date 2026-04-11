@@ -3,7 +3,7 @@ layout: default
 title: "Krebs（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Krebs（cancer） 的相關健康新聞報導。29 則新聞、229 個相關藥物。"
+description: "Krebs（cancer） 的相關健康新聞報導。28 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="Krebs（cancer） 有什麼相關新聞？">
-<strong>Krebs（cancer）</strong> 目前有 <strong>29 則</strong>相關新聞報導，229 個相關藥物。
+<strong>Krebs（cancer）</strong> 目前有 <strong>28 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -257,7 +257,23 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（28 則）
+
+### [HPV-Infektion führt zu schwerwiegenden gesundheitlichen Folgen - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxQajkwU1BaQ2lwX2Rab3dVbXBlUUdPM29aT25fRVEzZ0Z2SkFlc1p5alBzWnFNMnBndURQYTB1cWNlVzdGOU4zcVFuNUFaQjViVlBOU1RlYXRvbjZiTjNTaHN0cUQwNXpwZmNMaHZiRVNnV0NadFpNbER2cVB6U3hodXNYRF81QmNDMVFZLV9yRW40akpKUk9JNG9ydw?oc=5)
+
+2026-04-11
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxQajkwU1BaQ2lwX2Rab3dVbXBlUUdPM29aT25fRVEzZ0Z2SkFlc1p5alBzWnFNMnBndURQYTB1cWNlVzdGOU4zcVFuNUFaQjViVlBOU1RlYXRvbjZiTjNTaHN0cUQwNXpwZmNMaHZiRVNnV0NadFpNbER2cVB6U3hodXNYRF81QmNDMVFZLV9yRW40akpKUk9JNG9ydw?oc=5)
+
+---
+
+### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+2026-04-11
+
+來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+---
 
 ### [Ce type de plastique serait responsable des cancers du sein chez les femmes : pourquoi est-il si dangereux ? - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcE5zdTgxTzZPSmQwZmV5VGJYX0x3dFlYTmNIbVJWYnlFOHRTb2VnU19nR0pubXJ4a1U5aXFQMU5hdHV6S3pEYkdiV3NNc1llUm5TT0FuQjVqWVRwTm0zSWhjM0NFd0RQUHctajJHTHluNkJ0UXdsNzh3bmhlcURQQmZ5S2NBSDJDUlFubUJJb0NZSUZOMmYteW83RkNkNDlzS1hQSkVMQmtRMERsOU9fRHZXQ0o2bUJmaEtQd0R1MjVNd2RJZUw4RDFR?oc=5)
 
@@ -296,6 +312,14 @@ permalink: /news/cancer/
 2026-04-10
 
 來源：[Hartlepool Mail](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEtnM1RpRnAwSlMzbVJTRGVfc2FqbWZDckpDVzFfTjZral9OQkxWdGh5eXVoTlR6WnJULUVnb0F5ZzdGZ3JoUVpXNVNoMXNGTkpVWVoyenhFSUJTS3RVRlMyZmtUaVFQWVU3TjVvX25HTkhwamFYSWRmYUtmOG92QUxwWUVycmo2anZ0d0ZDdFA0bHBSbmUxdzNJamlnWGpIMVE5TjZWNHZQYWtfWDExZGZ5Qk9mcWFmWXBXT28zbG9PbDZVYTk0aFhFMXRkZWFTcjBtd3JUM1JRY3BPa3UzYzFNaw?oc=5)
+
+---
+
+### [Bioassay, caccia alla molecola che può sconfiggere il cancro - Libero Quotidiano](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1o5d25fUmJXVEhnbnVJMUwwekJ5TTFCS2Z3U0RCUFpzeVVSU2NFVzFYdXg2MFVTX3RXazhMMm1neVpYZ2w0YTE4Rnd5SEtzaW92Vzg4YjRUMUFpaXEyMWZ0dWJjQy02cGVzbUJ3cTN5UjFFejJlUWNyQ1RhUWZtaFhzM0N5cDJpLUxzR1Vxa2dEQ0NDUHNvb19RNHo2SGk5NFk0WHR4Vkl1UHllSExlS215V04?oc=5)
+
+2026-04-10
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1o5d25fUmJXVEhnbnVJMUwwekJ5TTFCS2Z3U0RCUFpzeVVSU2NFVzFYdXg2MFVTX3RXazhMMm1neVpYZ2w0YTE4Rnd5SEtzaW92Vzg4YjRUMUFpaXEyMWZ0dWJjQy02cGVzbUJ3cTN5UjFFejJlUWNyQ1RhUWZtaFhzM0N5cDJpLUxzR1Vxa2dEQ0NDUHNvb19RNHo2SGk5NFk0WHR4Vkl1UHllSExlS215V04?oc=5)
 
 ---
 
@@ -339,14 +363,6 @@ permalink: /news/cancer/
 
 ---
 
-### [Pourquoi l’immunothérapie ne fonctionne pas (encore) contre le cancer du pancréas - Le Figaro Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEo3YUVWUWFrck9vc3RKU1pqRkpNMHhXYUVfenFPRVRwUkNYQV9mTFJRSUttcFRIZjRYUHlGSUVwYy1KVVhOWVh2YV9xcXNwUHYwTnJqaGZESW5NdGFPVUxSN256S3lHRXBoSnZjVGZ4bHFudW55YzdlQmJoWGZ6Y1N6WFMteUVuVEMtdFBuYWJ6dFBEY2ZDWGZHdHJtYWxWcU5reXoyR2lWVHQ1eXVnb3NwN2JKV2xwNWRMYmJZang?oc=5)
-
-2026-04-10
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEo3YUVWUWFrck9vc3RKU1pqRkpNMHhXYUVfenFPRVRwUkNYQV9mTFJRSUttcFRIZjRYUHlGSUVwYy1KVVhOWVh2YV9xcXNwUHYwTnJqaGZESW5NdGFPVUxSN256S3lHRXBoSnZjVGZ4bHFudW55YzdlQmJoWGZ6Y1N6WFMteUVuVEMtdFBuYWJ6dFBEY2ZDWGZHdHJtYWxWcU5reXoyR2lWVHQ1eXVnb3NwN2JKV2xwNWRMYmJZang?oc=5)
-
----
-
 ### [Cancers dans le Bas-Rhin : des cas en forte hausse depuis 40 ans](https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjhwSFlZQjVxaFpUWXV0bUhQS0lzZGtMMkNTb2FQLXdKM3hvSVZDS1EwRjdBWDZBUWpldHhYY1RuUkZFY3prc2RUSE5mRUFESHJwRDY1ZERjbWd1MnMzODJzVHFxVWZMTWxLRGFwTDMxX2h4M05uWHFRanY0blVlNkM3Z2FmaWRVcGJVdFctVUJmVEg3eXVYVDdwOU8wNkVtVkMybg?oc=5)
 
 2026-04-10
@@ -371,19 +387,11 @@ permalink: /news/cancer/
 
 ---
 
-### [« Le registre national des cancers constitue un fourre-tout hétérogène de données sensibles, couvrant de multiples facettes de la vie privée » - Le Monde.fr](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ3BFTEZWOXJkQ3FNeHIzSnRWWVRtcS1mSG8teFRfZUtRV0lkX1U5OWtUX0ZhckxRUTNMOUFCRjAycHkya2hhYzVHVE10b0h0ZGVRUzRKLWc5NTNJNk9IRV95ekUtRXZKcXR2S01iNUhKSjh1aU5wRncwbXRGQmxHR0F4aERsWHFPTkwydVgtanFEQW00Y2NRVmJSdjV6bVFoWjBIWXVTWGotOTE3WVkwZ0NoZ3hlaEFZMGtkRnlvRThZWk5mZ3dGSGRSbkZzRTlWVTBSTDRxaW56UnhuTlhSM0g4cXY5cmUzSVI5QS12ajNsZk1fRV9JOFlORExobFN1dTNzc1pBOXN4a0R2VVNJVnFROUF0Rjdpb0Q1N19TWFA3LUhkNFVHTm05RQ?oc=5)
+### [Cancer du pancréas : sept signes d’alerte souvent ignorés qu’il faut connaître](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnE1UGhVY3REazMxS2xrSUZUOW5zRHNQUTZQLV9La3BpWmJBWDczZDU2X1daeFFQNkl4VDgzT1BKMkJRMFlqdTg2S2t1N3NaVk0zT0ptTm50Q091VmFNNlVaUTliVnYxUFp5YXNMSU9VTjRPbmU3WHR6RDB0TFRMbksyZVlzUFhjbzJGb2FyQXVMVnU0eE90MHJkREVZUkFPZVd0MlVuQ3FQeGNUOEpEOWFwSFBRaS1vTVJKZjRR?oc=5)
 
 2026-04-10
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ3BFTEZWOXJkQ3FNeHIzSnRWWVRtcS1mSG8teFRfZUtRV0lkX1U5OWtUX0ZhckxRUTNMOUFCRjAycHkya2hhYzVHVE10b0h0ZGVRUzRKLWc5NTNJNk9IRV95ekUtRXZKcXR2S01iNUhKSjh1aU5wRncwbXRGQmxHR0F4aERsWHFPTkwydVgtanFEQW00Y2NRVmJSdjV6bVFoWjBIWXVTWGotOTE3WVkwZ0NoZ3hlaEFZMGtkRnlvRThZWk5mZ3dGSGRSbkZzRTlWVTBSTDRxaW56UnhuTlhSM0g4cXY5cmUzSVI5QS12ajNsZk1fRV9JOFlORExobFN1dTNzc1pBOXN4a0R2VVNJVnFROUF0Rjdpb0Q1N19TWFA3LUhkNFVHTm05RQ?oc=5)
-
----
-
-### [Cancro al colon retto, la nuova frontiera della prevenzione: dalla diagnosi alle nuove terapie](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUk1bDVQZ3ZhSm9YUkdWUUxROVFPc3FSY0NfSlVJa0Fsb0VmODFmX09TbmU4S1gwQ3VVWkR0Z3hIbGtwWHVEaEctTVNmZU9CYnZCVGZJR1M0Qk9PQm40b2R0c1o5Uzk4TWxsclFYWm5aWHgyRE1iNGpzS1BSek9mdmRsSzlmN1VKRzVJUnVURmJ4Tjc5d0JN?oc=5)
-
-2026-04-10
-
-來源：[CataniaToday](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUk1bDVQZ3ZhSm9YUkdWUUxROVFPc3FSY0NfSlVJa0Fsb0VmODFmX09TbmU4S1gwQ3VVWkR0Z3hIbGtwWHVEaEctTVNmZU9CYnZCVGZJR1M0Qk9PQm40b2R0c1o5Uzk4TWxsclFYWm5aWHgyRE1iNGpzS1BSek9mdmRsSzlmN1VKRzVJUnVURmJ4Tjc5d0JN?oc=5)
+來源：[Breizh-info.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnE1UGhVY3REazMxS2xrSUZUOW5zRHNQUTZQLV9La3BpWmJBWDczZDU2X1daeFFQNkl4VDgzT1BKMkJRMFlqdTg2S2t1N3NaVk0zT0ptTm50Q091VmFNNlVaUTliVnYxUFp5YXNMSU9VTjRPbmU3WHR6RDB0TFRMbksyZVlzUFhjbzJGb2FyQXVMVnU0eE90MHJkREVZUkFPZVd0MlVuQ3FQeGNUOEpEOWFwSFBRaS1vTVJKZjRR?oc=5)
 
 ---
 
@@ -451,27 +459,11 @@ permalink: /news/cancer/
 
 ---
 
-### [HPV-Impfung auch im Erwachsenenalter empfohlen - mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMENCMS0xOWhyVFUxamdkZFFrOFlLbTg1eE1KS1BlV1dMRVBGWFZOS1hTOF9Tb24wd0RoQWxzWFVBYTBTY3N2WTkxWlR6VlJTQUlDZ3BfeENyTU1IdmFYV2M2Um9BTmZ0Z1BXMkt1OFRwWC1NNmJqSTRETnR6Rkdvb1JwU1ZabGN2SlZfLVdrRGNVVEdiSEhz?oc=5)
-
-2026-04-09
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMENCMS0xOWhyVFUxamdkZFFrOFlLbTg1eE1KS1BlV1dMRVBGWFZOS1hTOF9Tb24wd0RoQWxzWFVBYTBTY3N2WTkxWlR6VlJTQUlDZ3BfeENyTU1IdmFYV2M2Um9BTmZ0Z1BXMkt1OFRwWC1NNmJqSTRETnR6Rkdvb1JwU1ZabGN2SlZfLVdrRGNVVEdiSEhz?oc=5)
-
----
-
 ### [Dermatologists Reveal the Number-1 Sign of Skin Cancer—and It’s Sneaky](https://news.google.com/rss/articles/CBMid0FVX3lxTFBOVkgtaThzR2RzYldaeFZHbFdMYlVmU043WGYwUGQxSzYwTjhwYk5GbnZoMU5jOXRGazBFeks0c0pmM3Z3RXpCRThnWWM5Uk9kY0l0X00wS2t2OGc5TUMwd1dPYjZnV3JZajVrVzJyQlhTWVdhbjBv?oc=5)
 
 2026-04-09
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMid0FVX3lxTFBOVkgtaThzR2RzYldaeFZHbFdMYlVmU043WGYwUGQxSzYwTjhwYk5GbnZoMU5jOXRGazBFeks0c0pmM3Z3RXpCRThnWWM5Uk9kY0l0X00wS2t2OGc5TUMwd1dPYjZnV3JZajVrVzJyQlhTWVdhbjBv?oc=5)
-
----
-
-### [NHS urges checks for persistent heartburn as Nottinghamshire man shares cancer story - West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
-
-2026-04-09
-
-來源：[West Bridgford Wire](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVZlbEhjejdHRG1nMjNPYlVDVlZYdDFuMkpfeGkzMlFyajRzT1VuemVBdzZkV3FEaVpRcTQ1Z09ORkxHa0I1OGhJQUZKLWQzcjBNVTFDc0JZblY1WHNjYzhHQmlTbmFDalMtMlhrY3ZpUVpySWVmYjFmNVVqZks0UW9CcVVlYXF4UlZXVXBoZW9FdjdCWXZLeWVxS2JmNjlIbU5kbHlZZHBVRzBGdk5kQ3I2Tk5YUQ?oc=5)
 
 ---
 
