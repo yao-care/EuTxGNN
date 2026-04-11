@@ -3,7 +3,7 @@ layout: default
 title: "cardiopatía（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "cardiopatía（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "cardiopatía（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
-<strong>cardiopatía（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<strong>cardiopatía（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,21 +85,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Médicos alertan de que el riesgo vascular en mujeres está infravalorado - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTBLbDlKT2ZPbVhJQ21SY2hMdHdGeHBBREZmc1p4VWpHTFRRSHI0Zjd4ZnBKVWxjNHprU0dJN0ZpSjhhdVVHeFFrZlJJaU1lSlY0REFEcHluRmRvNjlEdGM2SXRjN2I0dm0xQlNYU1JtelJtZUszLTd4TEVpV3B6a1p5Qy1ERGJJYnRNQzRPRVlhSXZtYnk5bGNpbC1wRURHS3VEckRHdEZVVzFFazRDcVBtLXFDVG1TNVZKY243WC13MHhVZkpGR0t3?oc=5)
 
 2026-04-09
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTBLbDlKT2ZPbVhJQ21SY2hMdHdGeHBBREZmc1p4VWpHTFRRSHI0Zjd4ZnBKVWxjNHprU0dJN0ZpSjhhdVVHeFFrZlJJaU1lSlY0REFEcHluRmRvNjlEdGM2SXRjN2I0dm0xQlNYU1JtelJtZUszLTd4TEVpV3B6a1p5Qy1ERGJJYnRNQzRPRVlhSXZtYnk5bGNpbC1wRURHS3VEckRHdEZVVzFFazRDcVBtLXFDVG1TNVZKY243WC13MHhVZkpGR0t3?oc=5)
-
----
-
-### [El TAC, capaz de predecir la insuficiencia cardíaca años antes de aparecer - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
-
-2026-04-09
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
 
 ---
 

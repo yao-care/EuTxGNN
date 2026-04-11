@@ -3,7 +3,7 @@ layout: default
 title: "maladie de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="maladie de Parkinson（parkinson disease） 有什麼相關新聞？">
-<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Maladie de Parkinson : ce problème de santé très courant pourrait faire augmenter le risque d'être atteint par ce trouble](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWMwSnQyb1dNNjdXODdGbVEtdnllanNTQkpNS2NiVm9maC0xaTMzdDR6TG94bS1BNmZiOVdJVzlDbmphbGkxd2VTWFNndEtpWGpUZFh6YlZMM05EVTgwdW4tdHlZMXZsd0M3WmpPaTlERWZvV1BNLU5Hc09hTk42bEEwNU51V3NnaUM2aFJuOU1yTFpQdGlIWmhVdXdZU2lFb3dTT2VVcUhFZFV6LTJoZWhWaW9iUHRsVVhSRtIBwgFBVV95cUxQM3pFaG9VaG5SdDBIN04zcngzbHc1b0lBcW1xbTMyaVRfVHFudFR6NmJfN1F3MVcxa284R3l4NlRGVDFvejhNVnkzNS12SDF3R2dYelRCVHNONlgtNUYzUVhxczhFanhhNERfMWp0N3VWMEFHQkN3bjBLX3pzTENyTzZKQ3FuU1BqbXhsZG5uWmo1UGxTemZuMEMyd2pQOXNVZWRON1JQV2NHQS04Uzh6bmliVTlqajBUdVRRX1VkVkladw?oc=5)
+
+2026-04-11
+
+來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWMwSnQyb1dNNjdXODdGbVEtdnllanNTQkpNS2NiVm9maC0xaTMzdDR6TG94bS1BNmZiOVdJVzlDbmphbGkxd2VTWFNndEtpWGpUZFh6YlZMM05EVTgwdW4tdHlZMXZsd0M3WmpPaTlERWZvV1BNLU5Hc09hTk42bEEwNU51V3NnaUM2aFJuOU1yTFpQdGlIWmhVdXdZU2lFb3dTT2VVcUhFZFV6LTJoZWhWaW9iUHRsVVhSRtIBwgFBVV95cUxQM3pFaG9VaG5SdDBIN04zcngzbHc1b0lBcW1xbTMyaVRfVHFudFR6NmJfN1F3MVcxa284R3l4NlRGVDFvejhNVnkzNS12SDF3R2dYelRCVHNONlgtNUYzUVhxczhFanhhNERfMWp0N3VWMEFHQkN3bjBLX3pzTENyTzZKQ3FuU1BqbXhsZG5uWmo1UGxTemZuMEMyd2pQOXNVZWRON1JQV2NHQS04Uzh6bmliVTlqajBUdVRRX1VkVkladw?oc=5)
+
+---
 
 ### [Maladie de Parkinson : diagnostic, hérédité, symptômes… Dix réponses d’un neurologue et d’une infirmière à vos questions](https://news.google.com/rss/articles/CBMipgJBVV95cUxNNmwzM2VteTZfZVp1eWVLWmdKNXZRdEd3LWlIaTFlbVhoZ0lHTkhBenNEWXpndl8wQmJnNUtCMk4xVHhtVWxtcU55VDRvblR6SkR0NkY2ZWV4NmJvRGk1QTdkSHBOLWJiVms1Qkd1MjVsZ08yVktHTmNUZngzeVJwaFVuMDVETGgzVEZmT0R6MWhBS1FGa1Z4Mks3MDRrYmRNSmZncFZNX2haS3BvNmpVOTdIdEdsbVRXc1prSUxKYmFaTHpnZlR4ZVNqelBoRWgtaFBNU05xV2NrVjYwcXdKUzdTdnVTQm9MMXp6S1FFeDA1M3ZoYS1XLTNiY1pwaFp0VmRLMjhicnJIcXdjSE5VeTc1YWdmMXBuOUZUV1Bud29CYllqNkE?oc=5)
 

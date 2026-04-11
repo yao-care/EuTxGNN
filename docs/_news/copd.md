@@ -3,7 +3,7 @@ layout: default
 title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
+<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Selon des chercheurs, ce trait de personnalité courant accélère le déclin chez les patients atteints d'Alzheimer](https://news.google.com/rss/articles/CBMizwFBVV95cUxOXzlLdlgyMWVmcUdSd2xlcENaRFRxTlN4aEswYnlmX0pqM1VZck1qcTlJVnRTcDhuTmpMWHZxYnhRNTNVZnhkaGZPZ3Q2MjBydEtBSTdWeEdCV1hTbFN5R1Atd3g3RkgtdUJ1Mml4ZFRHRFpxTnNILWhHMTZTc1dINzAtdThqZ3lhVjFfS1Z6RTlDejdwQklmWTJkU3pGU05lTUxaS1F4bUNCWE54S09PSENtdm9sMnRBcXk1clk5LUFDR0wyOHVaUzE2Y3o3QWc?oc=5)
 
 2026-04-10
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOXzlLdlgyMWVmcUdSd2xlcENaRFRxTlN4aEswYnlmX0pqM1VZck1qcTlJVnRTcDhuTmpMWHZxYnhRNTNVZnhkaGZPZ3Q2MjBydEtBSTdWeEdCV1hTbFN5R1Atd3g3RkgtdUJ1Mml4ZFRHRFpxTnNILWhHMTZTc1dINzAtdThqZ3lhVjFfS1Z6RTlDejdwQklmWTJkU3pGU05lTUxaS1F4bUNCWE54S09PSENtdm9sMnRBcXk1clk5LUFDR0wyOHVaUzE2Y3o3QWc?oc=5)
+
+---
+
+### [Des pesticides PFAS pourraient recevoir une approbation illimitée - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVNFdHdKZXdwM0Y1YXc0cTZGOHM0Yl9MbldJbEpVbnlObU5uWHBOM3lhdFN2UkVVY1RkUmFTb041RmJ3SjhOTjhtaGlrU2Y1RG41M3ZsT1dlNGV0bzN5N29kbmFwZkNubEJhV3VYaElBUU5fYVFObE9GUmYwQnluZmNteXZDa01oOHFXaHZLOEhwUQ?oc=5)
+
+2026-04-09
+
+來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVNFdHdKZXdwM0Y1YXc0cTZGOHM0Yl9MbldJbEpVbnlObU5uWHBOM3lhdFN2UkVVY1RkUmFTb041RmJ3SjhOTjhtaGlrU2Y1RG41M3ZsT1dlNGV0bzN5N29kbmFwZkNubEJhV3VYaElBUU5fYVFObE9GUmYwQnluZmNteXZDa01oOHFXaHZLOEhwUQ?oc=5)
 
 ---
 

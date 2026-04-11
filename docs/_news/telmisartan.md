@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Diagnose Schlaganfall – wie einem Chemnitzer gerade noch rechtzeitig geholfen wurde - Freie Presse](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZDelVaVTYybXRnV1EzQm5BRVZQbDJLMzlyV2pfT1JFa21ZejdjZnB6NVNNN2dZUFdRRVVVc1o3TklzRFFQUzY0R1FjOWJwWnlBbWhUczlybmZFQ1VBZm50QXYzSmNYS3k5cjhIa1VwTno3T3BoTGpOcHlzN052M3JvLUpOOUI1VUJVNlZha3dQVDJhVEtRYU12eHY3MVdJQnVEbWkwZEFXaTJVVndwZ3M0S0pObW05MV96VHRqckk1c3p6YW9hdV9fQU5ld25WeEUxV1U2UVdHTWl2?oc=5)
+
+2026-04-11 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Freie Presse](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZDelVaVTYybXRnV1EzQm5BRVZQbDJLMzlyV2pfT1JFa21ZejdjZnB6NVNNN2dZUFdRRVVVc1o3TklzRFFQUzY0R1FjOWJwWnlBbWhUczlybmZFQ1VBZm50QXYzSmNYS3k5cjhIa1VwTno3T3BoTGpOcHlzN052M3JvLUpOOUI1VUJVNlZha3dQVDJhVEtRYU12eHY3MVdJQnVEbWkwZEFXaTJVVndwZ3M0S0pObW05MV96VHRqckk1c3p6YW9hdV9fQU5ld25WeEUxV1U2UVdHTWl2?oc=5)
+
+---
 
 ### [Médicos alertan de que el riesgo vascular en mujeres está infravalorado - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTBLbDlKT2ZPbVhJQ21SY2hMdHdGeHBBREZmc1p4VWpHTFRRSHI0Zjd4ZnBKVWxjNHprU0dJN0ZpSjhhdVVHeFFrZlJJaU1lSlY0REFEcHluRmRvNjlEdGM2SXRjN2I0dm0xQlNYU1JtelJtZUszLTd4TEVpV3B6a1p5Qy1ERGJJYnRNQzRPRVlhSXZtYnk5bGNpbC1wRURHS3VEckRHdEZVVzFFazRDcVBtLXFDVG1TNVZKY243WC13MHhVZkpGR0t3?oc=5)
 
 2026-04-09 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTBLbDlKT2ZPbVhJQ21SY2hMdHdGeHBBREZmc1p4VWpHTFRRSHI0Zjd4ZnBKVWxjNHprU0dJN0ZpSjhhdVVHeFFrZlJJaU1lSlY0REFEcHluRmRvNjlEdGM2SXRjN2I0dm0xQlNYU1JtelJtZUszLTd4TEVpV3B6a1p5Qy1ERGJJYnRNQzRPRVlhSXZtYnk5bGNpbC1wRURHS3VEckRHdEZVVzFFazRDcVBtLXFDVG1TNVZKY243WC13MHhVZkpGR0t3?oc=5)
-
----
-
-### [El TAC, capaz de predecir la insuficiencia cardíaca años antes de aparecer - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
-
-2026-04-09 <span class="news-indication-tag">heart disease</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/telmisartan/
 2026-04-09 <span class="news-indication-tag">ipertensione</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
-
----
-
-### [Longevità, i consigli degli esperti per un cuore d'acciaio: niente alcol e più cibi integrali - Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
-
-2026-04-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
 
 ---
 

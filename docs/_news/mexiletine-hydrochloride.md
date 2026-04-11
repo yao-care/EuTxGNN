@@ -14,7 +14,7 @@ permalink: /news/mexiletine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Mexiletine Hydrochloride 有什麼相關新聞？">
-<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/mexiletine-hydrochloride/
 <p><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（28 則）
 
-### [Un estudio alerta sobre el salto de un virus acuático a los humanos que afecta a la visión - Diario Sur](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVQwT0l4NDFmenUtUkxndU1ERXhuaHJKY3dtS1FzbTBCa2pPWWcxa2kzdUlvbGcxd2ExYUp2NzhJaFUtYk50TklJRjhueDJfWXY2TGtCZlZ0dEdCNG5OWk9iSTJ4Qk9CWVg2SnFLeWFXR255Ymo4ZjNQb0RHWFRvWkJjX3FXNHl6UmpuTk12RExqakJMSnRLR2F3X21fZUZDaE5YOXR4NDVPU3ptbEVyejVR0gG3AUFVX3lxTE9BUEc4WXlzRlZySmdQcDU4ZDVESVh4dFFVdjNxWVJZQXZKdDlmMW9iMkV6Tng1TmhDVXZwcFFyLWhoMmFuLU1ERnBQZVd6d200bkIzRlJNYWxiTXhkbW9sUXhJTGNFUUsyV3NCdTZQYjkwSWRYTEg4YUJ0R2QydnBTZTF5REVlVjZUcm0yNXdqaElsR1Y4SGYzMGdGZU8tOXRWYnpVQ1JvblhfbUROa3NBRTF2YzFqVQ?oc=5)
+### [Alerta por el nodavirus: el virus acuático que salta a humanos y puede causar pérdida de visión](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenlfTENkTkhfb0lGSmJUMHJBRXJDV0RtYlFGMHFuU25rLXBKRm1sUXNZWkE5SDN2eHhmc2NkWE1uTHhCQkxPbXo5aEttZUpkOF85RTJjbmtlN3hXZXVSdlU1bmpGOVVsWXpTLTNoa0QtOWFDVDZTdUZ5ZlFVYU50djFKUEUweTdVd1g3LXpCZnlmTzjSAZgBQVVfeXFMT2lndG91ejVPN0F2aHRWUm5OYmZsdms4QlhCTU1STHVpTlFMYktJNzNmblZyaW1oLWg2Qml3RFVKSGJBNk5Fck5paGNtcExrMXphMDB6eTNuUlB0a2tfQ1dBV0pxZk5ZQTBQdndPaUdlNmp1NjVjazVRM2FFZnlZSUozc1REMHNMcnN1QUNTMTA0bmdFOHJxekg?oc=5)
 
-2026-04-10 <span class="news-indication-tag">AF</span>
+2026-04-11 <span class="news-indication-tag">AF</span>
 
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVQwT0l4NDFmenUtUkxndU1ERXhuaHJKY3dtS1FzbTBCa2pPWWcxa2kzdUlvbGcxd2ExYUp2NzhJaFUtYk50TklJRjhueDJfWXY2TGtCZlZ0dEdCNG5OWk9iSTJ4Qk9CWVg2SnFLeWFXR255Ymo4ZjNQb0RHWFRvWkJjX3FXNHl6UmpuTk12RExqakJMSnRLR2F3X21fZUZDaE5YOXR4NDVPU3ptbEVyejVR0gG3AUFVX3lxTE9BUEc4WXlzRlZySmdQcDU4ZDVESVh4dFFVdjNxWVJZQXZKdDlmMW9iMkV6Tng1TmhDVXZwcFFyLWhoMmFuLU1ERnBQZVd6d200bkIzRlJNYWxiTXhkbW9sUXhJTGNFUUsyV3NCdTZQYjkwSWRYTEg4YUJ0R2QydnBTZTF5REVlVjZUcm0yNXdqaElsR1Y4SGYzMGdGZU8tOXRWYnpVQ1JvblhfbUROa3NBRTF2YzFqVQ?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenlfTENkTkhfb0lGSmJUMHJBRXJDV0RtYlFGMHFuU25rLXBKRm1sUXNZWkE5SDN2eHhmc2NkWE1uTHhCQkxPbXo5aEttZUpkOF85RTJjbmtlN3hXZXVSdlU1bmpGOVVsWXpTLTNoa0QtOWFDVDZTdUZ5ZlFVYU50djFKUEUweTdVd1g3LXpCZnlmTzjSAZgBQVVfeXFMT2lndG91ejVPN0F2aHRWUm5OYmZsdms4QlhCTU1STHVpTlFMYktJNzNmblZyaW1oLWg2Qml3RFVKSGJBNk5Fck5paGNtcExrMXphMDB6eTNuUlB0a2tfQ1dBV0pxZk5ZQTBQdndPaUdlNmp1NjVjazVRM2FFZnlZSUozc1REMHNMcnN1QUNTMTA0bmdFOHJxekg?oc=5)
 
 ---
 
-### [The simple fruit pairing that can improve heart health naturally in just 8 weeks - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N0gGQAUFVX3lxTE9pSEZFZy05Y1FXQkdLU1dPSFp5VkFzY2ZmVDFxV2dxUkVZaHRuUFd2UG5QeHBRNFJweFZ4WHh2TGJrczlmYlJFdmhxRnJGUzdyd1ZoczhFN2NJYWwyUE5IcWkzNnR4blJoYzE0azZIaFZSN1dwekp5X3RtalhFRkFEYmpKdEJTX3VSM3ZwLWpPNQ?oc=5)
+### [Kaffee senkt Risiko für Vorhofflimmern - Medical Tribune](https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2VZWDk3QlYybVVib0FuYmlJVE5rOUlSSEp1N0p6Yk15U3FIc251SE1qZ3lhZXpxUTRiUEZJZ1FERHB4bTQ0Q0c3Mk1xWncxcmRFTjlZcTBYSEIxcjVXTElFN1hxckJhWXo2MFpzQThiT05SMFp6amo0Tl9OTU9hSG5TZDYtVnhycWx2a25VeVFYTnhC?oc=5)
 
-2026-04-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-04-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N0gGQAUFVX3lxTE9pSEZFZy05Y1FXQkdLU1dPSFp5VkFzY2ZmVDFxV2dxUkVZaHRuUFd2UG5QeHBRNFJweFZ4WHh2TGJrczlmYlJFdmhxRnJGUzdyd1ZoczhFN2NJYWwyUE5IcWkzNnR4blJoYzE0azZIaFZSN1dwekp5X3RtalhFRkFEYmpKdEJTX3VSM3ZwLWpPNQ?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2VZWDk3QlYybVVib0FuYmlJVE5rOUlSSEp1N0p6Yk15U3FIc251SE1qZ3lhZXpxUTRiUEZJZ1FERHB4bTQ0Q0c3Mk1xWncxcmRFTjlZcTBYSEIxcjVXTElFN1hxckJhWXo2MFpzQThiT05SMFp6amo0Tl9OTU9hSG5TZDYtVnhycWx2a25VeVFYTnhC?oc=5)
+
+---
+
+### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
 
 ---
 
@@ -73,14 +81,6 @@ permalink: /news/mexiletine-hydrochloride/
 2026-04-10 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWk5WWpxTDdaZm80aVNjUmRnMFlYVXl4TFM1VmVHYU5hMUE2elI2a0pXS1oyNkM1ZTZEc3pQZ0lNQk8zdC1jbVh5ZHRuc2RlakhaRmN3dkhIaVMxbmZJc0JzYXg5bHJYc1pnQ0wwR01rSXFJR0U3WXlDTXoxV3BuMS1XdnA2VW1HR3ZEQzlsYlZ4blo3TmZjVklrbmN0YkJxMVlUUDVHck5GYTNidXp3N1RhUG1kSVY2cXJNLTBFT283SEZwV01QRzB3?oc=5)
-
----
-
-### ["La escasa visibilidad del síndrome genitourinario de la menopausia genera reticencias para afrontarlo, tanto para las mujeres como para el personal sanitario"](https://news.google.com/rss/articles/CBMikwJBVV95cUxNa2FmQUNhNnV2NFoxSEZ1THdXTkNqWW9PRnpVMDBFcGVyX3VIdGRQYkhNNUtlVG9sT2gtZ2JxN3M0OWRfZjFlX2NmUTVCMU82ckJTQWIwTmtZblFsaC1aenJyNzNRZTNjaWgwOUFhMmtLWENSSGo0dlNIOFRVdEZNMFRRX01zNkVJUF9fdjdVMUdCaWFEZlppM0JrYnFpalNfdjVaVHpVWFZNakxGcG9zME05ZXg5VjlxLXV1ZjJkYXl4UjJHX0l0QjlXRjlZRXk2Y0puMjVoeEkxdFB2N0pieTZwekhqWjZEYmpvVjJFRlV0emVIUWdFLXdpREJIcUtOcWQ5NHczTVBFdEs1UUV6LXZOWQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMikwJBVV95cUxNa2FmQUNhNnV2NFoxSEZ1THdXTkNqWW9PRnpVMDBFcGVyX3VIdGRQYkhNNUtlVG9sT2gtZ2JxN3M0OWRfZjFlX2NmUTVCMU82ckJTQWIwTmtZblFsaC1aenJyNzNRZTNjaWgwOUFhMmtLWENSSGo0dlNIOFRVdEZNMFRRX01zNkVJUF9fdjdVMUdCaWFEZlppM0JrYnFpalNfdjVaVHpVWFZNakxGcG9zME05ZXg5VjlxLXV1ZjJkYXl4UjJHX0l0QjlXRjlZRXk2Y0puMjVoeEkxdFB2N0pieTZwekhqWjZEYmpvVjJFRlV0emVIUWdFLXdpREJIcUtOcWQ5NHczTVBFdEs1UUV6LXZOWQ?oc=5)
 
 ---
 
@@ -121,14 +121,6 @@ permalink: /news/mexiletine-hydrochloride/
 2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
-
----
-
-### [Gefährliches LDL: Diesen neuen Cholesterin-Zielwert empfehlen Experten jetzt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkh2LTJrRlRYc05oenRnLVd1WFhWQVVVc3dDOFJFUU0zUU15QXhSUEJLREJ6X1ZLRHphTy0zWk43cHB1TWNxc2IwUUllVnA3UFVwNWRSWVBkcmJTdWExNjh2OFI2RHltNkFWQXZFbVhOSk53Ty0wNVBYMldSZElINkh6bmJjNjhEMzZRdm1pZ3lmNVAwa0FfWld6X2E0bTZweWktVElMTGxyNlBkNDBzajlVNXlJaXJ2NXFuLTllSzY4ZFZYNndybUEwMEttekNK?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkh2LTJrRlRYc05oenRnLVd1WFhWQVVVc3dDOFJFUU0zUU15QXhSUEJLREJ6X1ZLRHphTy0zWk43cHB1TWNxc2IwUUllVnA3UFVwNWRSWVBkcmJTdWExNjh2OFI2RHltNkFWQXZFbVhOSk53Ty0wNVBYMldSZElINkh6bmJjNjhEMzZRdm1pZ3lmNVAwa0FfWld6X2E0bTZweWktVElMTGxyNlBkNDBzajlVNXlJaXJ2NXFuLTllSzY4ZFZYNndybUEwMEttekNK?oc=5)
 
 ---
 
@@ -180,14 +172,6 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
-
----
-
 ### [EHRA-Kongress 2026: Neuer Standard für Vorhofflimmern - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5vUXlFSkFISUNLQ3RxNUVNNTZiTmJzQnFUMGh6RjRNcTF2RUl1QWdqWXlrN1NuZ0ttUEJST3l2NmlUaEFmVTFxdEkwTzFfOENpS2JWcm1QZnJGVGNfbkk3d0lBWkpDVTNELWxxXzJ6TDd5VFNwNzRHb3RvbDhpMVZFM0Ewa1N6em5abDloU2lPeHh4RlZOaWVwVEJVTnVwUU9KYlR5OFFEcDJ5QWYtVUl3?oc=5)
 
 2026-04-10 <span class="news-indication-tag">Vorhofflimmern</span>
@@ -220,14 +204,6 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Kaffee als Medizin: Neue Studien revolutionieren Gesundheitsempfehlungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0JjeW5YRFBZX1ZsU3FlQUwtUjVMSmZDSk9kempzb0tRVXNIQURPQlNacy0ycWpSSmJoaTZyRjYzRFJ0TkJEOW1EV2VMZkhuLUY5WVVKU1BoN3FxR2lLS2xSNWVpRm9kNmNwNV91QjQzQ1ZGZ2tWTFpJYXlMcHVSX3ZEcGEyckNBTnFaMi1aUlVoRHpQQUE5SUFvSVhEMkJxRkdNQWVJcFF2YjhzbXl6ZEpIUklhVDFZbk5leEpzS0FjX0ZPNWJBQVVR?oc=5)
-
-2026-04-09 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0JjeW5YRFBZX1ZsU3FlQUwtUjVMSmZDSk9kempzb0tRVXNIQURPQlNacy0ycWpSSmJoaTZyRjYzRFJ0TkJEOW1EV2VMZkhuLUY5WVVKU1BoN3FxR2lLS2xSNWVpRm9kNmNwNV91QjQzQ1ZGZ2tWTFpJYXlMcHVSX3ZEcGEyckNBTnFaMi1aUlVoRHpQQUE5SUFvSVhEMkJxRkdNQWVJcFF2YjhzbXl6ZEpIUklhVDFZbk5leEpzS0FjX0ZPNWJBQVVR?oc=5)
-
----
-
 ### [ChatGPT 'uncovered woman's rare condition' after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
 
 2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -241,14 +217,6 @@ permalink: /news/mexiletine-hydrochloride/
 2026-04-09 <span class="news-indication-tag">AF</span>
 
 來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2cwQUZFVFktS1lNLVctc2ZsRXlCTFVadFVWUElLcUxCaTE3NUNiZmtseFdJSDltbzZ1RnJsWkNUX3Q4cXRvME1oSWxvandJZTVUbEVzd0NObUlwazQ5amRVVDQzckVGZGRHcmF4dm5JREVJVGlmaVFhWG5CdFVMOHhTNXpwTHB3cUtFNFNHdkdWN2prZnBVSUdR?oc=5)
-
----
-
-### [Bird flu protection zone in North Yorkshire lifted](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
-
-2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
 
 ---
 
@@ -268,11 +236,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Neuer Ansatz gegen Herzschwäche: Göttinger Forschende finden genetischen „Schalter“ - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMixgFBVV95cUxPREd0U1N3cnJhU05uQU1DZ0FPakZvNnVNMGJMX2NBd2RVeG5jbDBxVDNseUV4MG1JYkFTUVU3Zl9FUURVNG44Y2J0d1owSXRpMjRxUkQ2S1RrWVZTbzU2b2VCNzFtYmhvUXk1c1lyZndDc1BOZ25Odmp6RjJYUkxiR2Z0WFdQN1lwUjdPcU5laWxZOUlzWWtiZVZXSGNOUFlOa3A1YjJaZEJsVmJDNHlkVkkzVFpDXzhhSGJkQzJtSXhsMXZUSlE?oc=5)
+### [Neuer Ansatz gegen Herzschwäche: Göttinger Forschende finden genetischen „Schalter“ - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
 
 2026-04-09 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMixgFBVV95cUxPREd0U1N3cnJhU05uQU1DZ0FPakZvNnVNMGJMX2NBd2RVeG5jbDBxVDNseUV4MG1JYkFTUVU3Zl9FUURVNG44Y2J0d1owSXRpMjRxUkQ2S1RrWVZTbzU2b2VCNzFtYmhvUXk1c1lyZndDc1BOZ25Odmp6RjJYUkxiR2Z0WFdQN1lwUjdPcU5laWxZOUlzWWtiZVZXSGNOUFlOa3A1YjJaZEJsVmJDNHlkVkkzVFpDXzhhSGJkQzJtSXhsMXZUSlE?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RG5XajZBSUlDbzBhaHZFN0IyRFpDd3d6SkdGdzNLbkRGS3pjTVlReW00U1ZuWERVSVlBNmpKUTItWTh3YjdOczhBZw?oc=5)
 
 ---
 
@@ -289,6 +257,14 @@ permalink: /news/mexiletine-hydrochloride/
 2026-04-09 <span class="news-indication-tag">ipertensione</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMivAFBVV95cUxQazI1UWVmTTdPOUl1Wm96QUMzSXdsMFM4clFCNFFaZ18tQUpnV2JrVGd3LTdUdjVlMjlBVFZwMkxFZ19UTVlVODVVS2dWQzhwMVNVSnlURThOdFNTRGlKa1FqYzdFX2QxTUhnRm9KcFY3QWJtZFk5TDBFX2lJdHNoZmJuUEtQRTFoTGl2OW54U09ENVJjdmVxRzZNTnRVMjl6S1JnaHBtRzdnaTJtT2VPdUVGZnNUUFBSYVdNLQ?oc=5)
+
+---
+
+### [Des pesticides PFAS pourraient recevoir une approbation illimitée - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVNFdHdKZXdwM0Y1YXc0cTZGOHM0Yl9MbldJbEpVbnlObU5uWHBOM3lhdFN2UkVVY1RkUmFTb041RmJ3SjhOTjhtaGlrU2Y1RG41M3ZsT1dlNGV0bzN5N29kbmFwZkNubEJhV3VYaElBUU5fYVFObE9GUmYwQnluZmNteXZDa01oOHFXaHZLOEhwUQ?oc=5)
+
+2026-04-09 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVNFdHdKZXdwM0Y1YXc0cTZGOHM0Yl9MbldJbEpVbnlObU5uWHBOM3lhdFN2UkVVY1RkUmFTb041RmJ3SjhOTjhtaGlrU2Y1RG41M3ZsT1dlNGV0bzN5N29kbmFwZkNubEJhV3VYaElBUU5fYVFObE9GUmYwQnluZmNteXZDa01oOHFXaHZLOEhwUQ?oc=5)
 
 ---
 

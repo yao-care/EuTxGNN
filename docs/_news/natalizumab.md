@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [The simple fruit pairing that can improve heart health naturally in just 8 weeks - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N0gGQAUFVX3lxTE9pSEZFZy05Y1FXQkdLU1dPSFp5VkFzY2ZmVDFxV2dxUkVZaHRuUFd2UG5QeHBRNFJweFZ4WHh2TGJrczlmYlJFdmhxRnJGUzdyd1ZoczhFN2NJYWwyUE5IcWkzNnR4blJoYzE0azZIaFZSN1dwekp5X3RtalhFRkFEYmpKdEJTX3VSM3ZwLWpPNQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N0gGQAUFVX3lxTE9pSEZFZy05Y1FXQkdLU1dPSFp5VkFzY2ZmVDFxV2dxUkVZaHRuUFd2UG5QeHBRNFJweFZ4WHh2TGJrczlmYlJFdmhxRnJGUzdyd1ZoczhFN2NJYWwyUE5IcWkzNnR4blJoYzE0azZIaFZSN1dwekp5X3RtalhFRkFEYmpKdEJTX3VSM3ZwLWpPNQ?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Highlights vom Diabetes-Update: Prävention, Longevity und mehr](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1peGVic1JQYUg1WTcxeTVnVXFiTUdPVUx1N1ZWSFFfZjU5WkhmdUJYdDF4ekxncXlSWUZNemdzeEFfcUVtSFlURjNlSzdtZmFSYV9rT1lvMDNuX2J5NzVqaC1kMlhFN1JQdmxrbjM1RXJIaEJiZnNsT1MxdFJZQVZfVEE1eWVSSmhJbGUwTnk1SmpZb2UwVFVmZVBFQmtHaVNVczZOMktKSm40ZnNF?oc=5)
 
@@ -92,11 +84,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Ganadores de los III Premios FSED a la Comunicación en Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
+### [Des pesticides PFAS pourraient recevoir une approbation illimitée - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVNFdHdKZXdwM0Y1YXc0cTZGOHM0Yl9MbldJbEpVbnlObU5uWHBOM3lhdFN2UkVVY1RkUmFTb041RmJ3SjhOTjhtaGlrU2Y1RG41M3ZsT1dlNGV0bzN5N29kbmFwZkNubEJhV3VYaElBUU5fYVFObE9GUmYwQnluZmNteXZDa01oOHFXaHZLOEhwUQ?oc=5)
 
-2026-04-09 <span class="news-indication-tag">diabetes</span>
+2026-04-09 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
+來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVNFdHdKZXdwM0Y1YXc0cTZGOHM0Yl9MbldJbEpVbnlObU5uWHBOM3lhdFN2UkVVY1RkUmFTb041RmJ3SjhOTjhtaGlrU2Y1RG41M3ZsT1dlNGV0bzN5N29kbmFwZkNubEJhV3VYaElBUU5fYVFObE9GUmYwQnluZmNteXZDa01oOHFXaHZLOEhwUQ?oc=5)
 
 ---
 

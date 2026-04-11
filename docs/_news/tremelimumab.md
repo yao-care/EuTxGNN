@@ -14,7 +14,7 @@ permalink: /news/tremelimumab/
 ---
 
 <p class="key-answer" data-question="Tremelimumab 有什麼相關新聞？">
-<strong>Tremelimumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tremelimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/tremelimumab/
 <p><a href="{{ '/drugs/tremelimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [The simple fruit pairing that can improve heart health naturally in just 8 weeks - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N0gGQAUFVX3lxTE9pSEZFZy05Y1FXQkdLU1dPSFp5VkFzY2ZmVDFxV2dxUkVZaHRuUFd2UG5QeHBRNFJweFZ4WHh2TGJrczlmYlJFdmhxRnJGUzdyd1ZoczhFN2NJYWwyUE5IcWkzNnR4blJoYzE0azZIaFZSN1dwekp5X3RtalhFRkFEYmpKdEJTX3VSM3ZwLWpPNQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N0gGQAUFVX3lxTE9pSEZFZy05Y1FXQkdLU1dPSFp5VkFzY2ZmVDFxV2dxUkVZaHRuUFd2UG5QeHBRNFJweFZ4WHh2TGJrczlmYlJFdmhxRnJGUzdyd1ZoczhFN2NJYWwyUE5IcWkzNnR4blJoYzE0azZIaFZSN1dwekp5X3RtalhFRkFEYmpKdEJTX3VSM3ZwLWpPNQ?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Highlights vom Diabetes-Update: Prävention, Longevity und mehr](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1peGVic1JQYUg1WTcxeTVnVXFiTUdPVUx1N1ZWSFFfZjU5WkhmdUJYdDF4ekxncXlSWUZNemdzeEFfcUVtSFlURjNlSzdtZmFSYV9rT1lvMDNuX2J5NzVqaC1kMlhFN1JQdmxrbjM1RXJIaEJiZnNsT1MxdFJZQVZfVEE1eWVSSmhJbGUwTnk1SmpZb2UwVFVmZVBFQmtHaVNVczZOMktKSm40ZnNF?oc=5)
 
@@ -73,14 +65,6 @@ permalink: /news/tremelimumab/
 2026-04-09 <span class="news-indication-tag">diabetes</span>
 
 來源：[Westfalenpost](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
-
----
-
-### [Ganadores de los III Premios FSED a la Comunicación en Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
-
-2026-04-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1nZ0lZVFFGRlVqNU90Z084UzBkNi1LZTVIN0R0Q0R0eTE3RUdKVGNvbTdOakZ2ekRKTXozb0ZBUjdmWDV6Ym1tSm1XNS1MakFVbjZ2c0U3djJDNWE5eDZDYjh4NUhLc05XczlVeEpyVlpZWHp4eHRLYUtmQVlPWFZHdlE4ZzQwa09QVDl6NDY?oc=5)
 
 ---
 

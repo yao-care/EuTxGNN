@@ -44,19 +44,19 @@ permalink: /news/brexpiprazole/
 
 ## 相關新聞（3 則）
 
+### [Kaffee senkt Risiko für Vorhofflimmern - Medical Tribune](https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2VZWDk3QlYybVVib0FuYmlJVE5rOUlSSEp1N0p6Yk15U3FIc251SE1qZ3lhZXpxUTRiUEZJZ1FERHB4bTQ0Q0c3Mk1xWncxcmRFTjlZcTBYSEIxcjVXTElFN1hxckJhWXo2MFpzQThiT05SMFp6amo0Tl9OTU9hSG5TZDYtVnhycWx2a25VeVFYTnhC?oc=5)
+
+2026-04-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2VZWDk3QlYybVVib0FuYmlJVE5rOUlSSEp1N0p6Yk15U3FIc251SE1qZ3lhZXpxUTRiUEZJZ1FERHB4bTQ0Q0c3Mk1xWncxcmRFTjlZcTBYSEIxcjVXTElFN1hxckJhWXo2MFpzQThiT05SMFp6amo0Tl9OTU9hSG5TZDYtVnhycWx2a25VeVFYTnhC?oc=5)
+
+---
+
 ### [Depression bei jungen Vätern: Wann sie besonders gefährdet sind](https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1JtNGN2ejlmaXN5bllrcmV5OVlTMFBpaFB2aUQ3MlNOa0NGb21mQnphYTEzS1VKWlQxdkV3WmpNaVc2bjJaZk5vUjg1ZkMwZm5fMVo1VElNZ3dCMDlWTlFuNExKWHFmWGM3bUZfZjU4dGNyZUt6RTJRY3hTMkRiT1MxYkxMZDBrVV90VXI3TFQ3aEtVUlp0WGRKRQ?oc=5)
 
 2026-04-10 <span class="news-indication-tag">depression</span>
 
 來源：[GMX](https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1JtNGN2ejlmaXN5bllrcmV5OVlTMFBpaFB2aUQ3MlNOa0NGb21mQnphYTEzS1VKWlQxdkV3WmpNaVc2bjJaZk5vUjg1ZkMwZm5fMVo1VElNZ3dCMDlWTlFuNExKWHFmWGM3bUZfZjU4dGNyZUt6RTJRY3hTMkRiT1MxYkxMZDBrVV90VXI3TFQ3aEtVUlp0WGRKRQ?oc=5)
-
----
-
-### [Kaffee als Medizin: Neue Studien revolutionieren Gesundheitsempfehlungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0JjeW5YRFBZX1ZsU3FlQUwtUjVMSmZDSk9kempzb0tRVXNIQURPQlNacy0ycWpSSmJoaTZyRjYzRFJ0TkJEOW1EV2VMZkhuLUY5WVVKU1BoN3FxR2lLS2xSNWVpRm9kNmNwNV91QjQzQ1ZGZ2tWTFpJYXlMcHVSX3ZEcGEyckNBTnFaMi1aUlVoRHpQQUE5SUFvSVhEMkJxRkdNQWVJcFF2YjhzbXl6ZEpIUklhVDFZbk5leEpzS0FjX0ZPNWJBQVVR?oc=5)
-
-2026-04-09 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0JjeW5YRFBZX1ZsU3FlQUwtUjVMSmZDSk9kempzb0tRVXNIQURPQlNacy0ycWpSSmJoaTZyRjYzRFJ0TkJEOW1EV2VMZkhuLUY5WVVKU1BoN3FxR2lLS2xSNWVpRm9kNmNwNV91QjQzQ1ZGZ2tWTFpJYXlMcHVSX3ZEcGEyckNBTnFaMi1aUlVoRHpQQUE5SUFvSVhEMkJxRkdNQWVJcFF2YjhzbXl6ZEpIUklhVDFZbk5leEpzS0FjX0ZPNWJBQVVR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Velpatasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（15 則）
+
+### [Von Herzen – der Herzens-Doc - Bistum Trier](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0xhZkJZbTMya0tOZW5ITlBsZjJmRjhJbm9PSTg2OGlDX3BfVG9CeGJZOTBEZ3l1ZjZYdFp0MXFDMGFXbzdGYlI0eXgwclluSDh3S1llbGZhRWY2M3RWM2hVMHYxN1psZFIya2QwbDhCZVJobFdJWmNGX3ZBNGR4bk1QV1g4cm5rdjZ4aEg3N1M?oc=5)
+
+2026-04-11 <span class="news-indication-tag">MS</span>
+
+來源：[Bistum Trier](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0xhZkJZbTMya0tOZW5ITlBsZjJmRjhJbm9PSTg2OGlDX3BfVG9CeGJZOTBEZ3l1ZjZYdFp0MXFDMGFXbzdGYlI0eXgwclluSDh3S1llbGZhRWY2M3RWM2hVMHYxN1psZFIya2QwbDhCZVJobFdJWmNGX3ZBNGR4bk1QV1g4cm5rdjZ4aEg3N1M?oc=5)
+
+---
 
 ### [Crieff Hydro confirms ‘large’ number of guests struck by sickness outbreak - The Courier](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGpVekc3RWI0OFZ2UHhLcnlXUU9sUEhtWDlpNFJPY1h1dGdTOC01X3NzZDFqa0MxSTZQRzJLQ0dMZE5TY3FubEdDU0R1RjllX09GSHFUSlNYbzhMeGZBa3RjUkRKWFc3ZzROWTZJbENlZ05BZkxFUS1Vbzc1RXdKWjFkbVBoNmlrRWpyeE1yNXBGbjla?oc=5)
 
 2026-04-10 <span class="news-indication-tag">MS</span>
 
 來源：[The Courier](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGpVekc3RWI0OFZ2UHhLcnlXUU9sUEhtWDlpNFJPY1h1dGdTOC01X3NzZDFqa0MxSTZQRzJLQ0dMZE5TY3FubEdDU0R1RjllX09GSHFUSlNYbzhMeGZBa3RjUkRKWFc3ZzROWTZJbENlZ05BZkxFUS1Vbzc1RXdKWjFkbVBoNmlrRWpyeE1yNXBGbjla?oc=5)
+
+---
+
+### [Un premier cas de grippe aviaire chez l'homme a été détecté en Europe](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMm9yb0ZSc1BCSVFEOV9mOG44TVFHcHVpQzBsQ0M0eWtCT2pRTlJkckRSWS1lTzhiZ0g2WGMxZEE1NWpoNUpITGExb3NCaUpoNkVZMHM4Q1ptSlJWUTI1UUpxamUwYTE3c05saTVrZnZOcEtJeW9teUxnN01iRmZrckd6MTVsaEI4eEVpS0JBdXlMcnl5aVotSERwUzl2ZFR5a2J1OW41ZGxVanBXcDVaX3c1Y1BmRTNLa3dQUUFEcHBrVlJac2ZzRVFvcFhSRy1PYTFIY05B?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[DHnet](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMm9yb0ZSc1BCSVFEOV9mOG44TVFHcHVpQzBsQ0M0eWtCT2pRTlJkckRSWS1lTzhiZ0g2WGMxZEE1NWpoNUpITGExb3NCaUpoNkVZMHM4Q1ptSlJWUTI1UUpxamUwYTE3c05saTVrZnZOcEtJeW9teUxnN01iRmZrckd6MTVsaEI4eEVpS0JBdXlMcnl5aVotSERwUzl2ZFR5a2J1OW41ZGxVanBXcDVaX3c1Y1BmRTNLa3dQUUFEcHBrVlJac2ZzRVFvcFhSRy1PYTFIY05B?oc=5)
 
 ---
 
@@ -76,22 +92,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Nuevo avance contra el Alzheimer: cómo los astrocitos modificados eliminan el amiloide en modelos animales - Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
-
----
-
-### [Warning to some vitamin D users as NHS doctor says 'this is bad' - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1rcFI5MjJ4LWY1Q18zSkFzcEJILWRjb2ZtRE52cjVLQzdTdnp0TzR2bkxhWmtyZzY3cDhTV05FNllXRUZJOHU4RzBfeGNwWWVHei1rSVY0V2kzdzBzbFR2OWY1R01nc1BYS05zbFhCZ0t3SjhWbThub21rMVpZdw?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1rcFI5MjJ4LWY1Q18zSkFzcEJILWRjb2ZtRE52cjVLQzdTdnp0TzR2bkxhWmtyZzY3cDhTV05FNllXRUZJOHU4RzBfeGNwWWVHei1rSVY0V2kzdzBzbFR2OWY1R01nc1BYS05zbFhCZ0t3SjhWbThub21rMVpZdw?oc=5)
-
----
-
 ### [FSME: Neue Erkenntnisse zum Krankheitsverlauf](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkctQ1QybzBYYUJXOUVkVU9FaXJwT2VUUjlyZEF3UE8yOXdDbF9lMUNNOWQ0ZmZncFJ5NGJFV05wNjFnUjFlX1pISERaS2ZmY0xYVnNERXdMWXhIMmVqSDBCM0FJX0V4a1ktZ0s1YkR4cV9KMDhzZF9BRENWT0dRcUp5OW9HUUM3?oc=5)
 
 2026-04-10 <span class="news-indication-tag">MS</span>
@@ -116,14 +116,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Wie drei kleine Veränderungen Ihre Herzgesundheit schützen - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3EyYXFYTDRhY2RZdXk1LTJ4eU1PQ1VETW1NR3h6OUdRRUNQdktTZ0ZPdEpZSXVlZFd5QWpZQ2IzV0RBRzBlVmx2QVBpcVJiZVVoVHJNZ0lsSUd3c1hEUldhanFwdnhHQVVFZG54eDZKNFBQZGVIWWV5Sm5EbTNMd3BpXy1uaDBEa1FScXdPRnkxQmxMbTAwNWc5d01POWNN?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3EyYXFYTDRhY2RZdXk1LTJ4eU1PQ1VETW1NR3h6OUdRRUNQdktTZ0ZPdEpZSXVlZFd5QWpZQ2IzV0RBRzBlVmx2QVBpcVJiZVVoVHJNZ0lsSUd3c1hEUldhanFwdnhHQVVFZG54eDZKNFBQZGVIWWV5Sm5EbTNMd3BpXy1uaDBEa1FScXdPRnkxQmxMbTAwNWc5d01POWNN?oc=5)
-
----
-
 ### [Reversible male contraception just took a huge step towards becoming a reality](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNwM1dNUEVfVVRta3NnWFVQbllBdzNBSE5NN2xRQXU2cG8wQ3hpZDZkS01jRVM3MVM3QTVkZEZNVERzQTdacDdwTzJ2N200eW5CcFhIRnhVR0xibVA2ZFBHZ2hxX09KWXdBUEtkMXloQ25rWm5wV2IzemVrWm5hSWRDclFNbWllZWF6eER2THBfTU9PeTlGR09SQW5jUTJiS1BGdWg0RnVkbmlra0hyTU5aOFU?oc=5)
 
 2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -137,22 +129,6 @@ permalink: /news/velpatasvir/
 2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
-
----
-
-### [Bird flu protection zone in North Yorkshire lifted](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
-
-2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
-
----
-
-### [New early 'clue' could be warning sign of 'first symptom of Alzheimer's' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
-
-2026-04-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
 
 ---
 
@@ -185,14 +161,6 @@ permalink: /news/velpatasvir/
 2026-04-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXRMTzVkNUdkaWlUSHowMnhtSnVoaklFRnJLaUk4d3I1eHc1QjRVaHJ0WnEtTE1jMEpOOGkzUFBhNTBrcEVhRDRnZ0hrSnRfRDl6NWtiV1RrY05OMFktbTg0VEQ1UVBiWGYtMjhFN0loX2pFakVLcC1TZVQyY0dxVzAzQ1FnekJhaFpiaE1fZlhxVXlIUG5DXzR4c2VuS2xCQ2JqVDlaZEZSbWPSAaABQVVfeXFMT2RnWkxWT0pSVzE2MGNaZ0RYZ3V2ektNanFCTFREZktvbDhVRVZxS0JYdWc4QVRYRUNfQkQ4TV9QVEJoQTcxbGNXSmpYWHhHZ3VvYWowVV9qVE4tWTdfakU2SmlCR2EtZmJDT0FiT0ZkME9JVUhyU3BVTkdTenBqQjl6NmN4VUg2N3d1Y3V2bmZZM3RoZWY1V042T0lTdl9nSg?oc=5)
-
----
-
-### [Longevità, i consigli degli esperti per un cuore d'acciaio: niente alcol e più cibi integrali - Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
-
-2026-04-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxORFJoOU1DMWU3UFdjNURGSG1VRHptOXA3cTV2RS1Vd3ZJWkJaSXRFTjBuTWhGSk9GNkNHTzcxam54dzlKRjZ6eUtVZW9EUGdrQm1VQXV3dGNIUUZQSzF4ZXlqZWhZMkpiYzl1eTdDRXhZbmpBR0tQem1KeXdnM1FMcjhTOS1vUTgtZmhONXhvMXVRNENkbWFpYS1Pa3BxUE5uVnFFc2R30gGjAUFVX3lxTFBGb0xaQ1gwdHFheGVESzZ3RlVBUTU3bW01YTNZVW02OGxpbG1Wb1hua2Z3TjczM0w0cVJfOXBqSVpRLXExSUFoVW10UGt0bW9GY1F0LWRhZjdHckFnaUF1T2RUaDdSN1Z0eFlCUzF0MEFKQVVMSTBHNzZjTTFDTEx0VzE2TnRHaXpIZTltbWk2RjU0QXp1R3BlOG9SMG5VN2wtUkE?oc=5)
 
 ---
 

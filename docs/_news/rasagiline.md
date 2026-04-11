@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Maladie de Parkinson : ce problème de santé très courant pourrait faire augmenter le risque d'être atteint par ce trouble](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWMwSnQyb1dNNjdXODdGbVEtdnllanNTQkpNS2NiVm9maC0xaTMzdDR6TG94bS1BNmZiOVdJVzlDbmphbGkxd2VTWFNndEtpWGpUZFh6YlZMM05EVTgwdW4tdHlZMXZsd0M3WmpPaTlERWZvV1BNLU5Hc09hTk42bEEwNU51V3NnaUM2aFJuOU1yTFpQdGlIWmhVdXdZU2lFb3dTT2VVcUhFZFV6LTJoZWhWaW9iUHRsVVhSRtIBwgFBVV95cUxQM3pFaG9VaG5SdDBIN04zcngzbHc1b0lBcW1xbTMyaVRfVHFudFR6NmJfN1F3MVcxa284R3l4NlRGVDFvejhNVnkzNS12SDF3R2dYelRCVHNONlgtNUYzUVhxczhFanhhNERfMWp0N3VWMEFHQkN3bjBLX3pzTENyTzZKQ3FuU1BqbXhsZG5uWmo1UGxTemZuMEMyd2pQOXNVZWRON1JQV2NHQS04Uzh6bmliVTlqajBUdVRRX1VkVkladw?oc=5)
+
+2026-04-11 <span class="news-indication-tag">maladie de Parkinson</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWMwSnQyb1dNNjdXODdGbVEtdnllanNTQkpNS2NiVm9maC0xaTMzdDR6TG94bS1BNmZiOVdJVzlDbmphbGkxd2VTWFNndEtpWGpUZFh6YlZMM05EVTgwdW4tdHlZMXZsd0M3WmpPaTlERWZvV1BNLU5Hc09hTk42bEEwNU51V3NnaUM2aFJuOU1yTFpQdGlIWmhVdXdZU2lFb3dTT2VVcUhFZFV6LTJoZWhWaW9iUHRsVVhSRtIBwgFBVV95cUxQM3pFaG9VaG5SdDBIN04zcngzbHc1b0lBcW1xbTMyaVRfVHFudFR6NmJfN1F3MVcxa284R3l4NlRGVDFvejhNVnkzNS12SDF3R2dYelRCVHNONlgtNUYzUVhxczhFanhhNERfMWp0N3VWMEFHQkN3bjBLX3pzTENyTzZKQ3FuU1BqbXhsZG5uWmo1UGxTemZuMEMyd2pQOXNVZWRON1JQV2NHQS04Uzh6bmliVTlqajBUdVRRX1VkVkladw?oc=5)
+
+---
 
 ### [Maladie de Parkinson : diagnostic, hérédité, symptômes… Dix réponses d’un neurologue et d’une infirmière à vos questions](https://news.google.com/rss/articles/CBMipgJBVV95cUxNNmwzM2VteTZfZVp1eWVLWmdKNXZRdEd3LWlIaTFlbVhoZ0lHTkhBenNEWXpndl8wQmJnNUtCMk4xVHhtVWxtcU55VDRvblR6SkR0NkY2ZWV4NmJvRGk1QTdkSHBOLWJiVms1Qkd1MjVsZ08yVktHTmNUZngzeVJwaFVuMDVETGgzVEZmT0R6MWhBS1FGa1Z4Mks3MDRrYmRNSmZncFZNX2haS3BvNmpVOTdIdEdsbVRXc1prSUxKYmFaTHpnZlR4ZVNqelBoRWgtaFBNU05xV2NrVjYwcXdKUzdTdnVTQm9MMXp6S1FFeDA1M3ZoYS1XLTNiY1pwaFp0VmRLMjhicnJIcXdjSE5VeTc1YWdmMXBuOUZUV1Bud29CYllqNkE?oc=5)
 
@@ -54,7 +62,7 @@ permalink: /news/rasagiline/
 
 ### [New early 'clue' could be warning sign of 'first symptom of Alzheimer's' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
 
-2026-04-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-04-09 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
 
