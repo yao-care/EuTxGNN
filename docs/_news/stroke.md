@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Neue Schlaganfall-Leitlinien revolutionieren Notfallversorgung - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2hjNENhWV9xc2NyWEZsdGFyZ25SWkpNXy15R1NFM3VvVllSNXdSVF9kWElQZ29JZmFRUEdHb2EtVThyejBrdVl6WDBlUUdPMXBzajB4V0tpODUydmlLN0c4RkdzMXFLTHNzS011aU1JWlFjNjUyWjBaeE9FdWNaVm9WYXFmMGtqSTNGaDJqeTh0di1wRnJtTUctX2xfWFRNbVk0d2VreDR6REpJZE52MG1LRGdiWnlIWTRuZDFB?oc=5)
 
@@ -70,6 +70,14 @@ permalink: /news/stroke/
 2026-04-10
 
 來源：[The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
+
+---
+
+### [Nocturnal habit could be an early warning sign of stroke or heart failure - Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
+
+2026-04-10
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
 
 ---
 

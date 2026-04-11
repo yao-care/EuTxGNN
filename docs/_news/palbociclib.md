@@ -14,7 +14,7 @@ permalink: /news/palbociclib/
 ---
 
 <p class="key-answer" data-question="Palbociclib 有什麼相關新聞？">
-<strong>Palbociclib</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Palbociclib</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/palbociclib/
 <p><a href="{{ '/drugs/palbociclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（26 則）
 
 ### [HPV-Infektion führt zu schwerwiegenden gesundheitlichen Folgen - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxQajkwU1BaQ2lwX2Rab3dVbXBlUUdPM29aT25fRVEzZ0Z2SkFlc1p5alBzWnFNMnBndURQYTB1cWNlVzdGOU4zcVFuNUFaQjViVlBOU1RlYXRvbjZiTjNTaHN0cUQwNXpwZmNMaHZiRVNnV0NadFpNbER2cVB6U3hodXNYRF81QmNDMVFZLV9yRW40akpKUk9JNG9ydw?oc=5)
 
@@ -54,9 +54,17 @@ permalink: /news/palbociclib/
 
 ### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
 
-2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+---
+
+### [Síntomas de infarto en mujeres y cómo identificarlos a tiempo - Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
 
 ---
 
@@ -100,11 +108,11 @@ permalink: /news/palbociclib/
 
 ---
 
-### [Frequent headaches but normal reports? Doctors say this overlooked trigger could be the reason - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
+### [Reversione tumorale, il cancro non è una condanna scritta nel DNA - Futuro Prossimo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYU5FOF9ZeUgyN0wxcG9rR1JfSGVwUzlscEVxVGhQVlVWM0lMOXRMdm44dmJZVV9PWnFOc1Izb0UxcjlUQURFbUV5UzI0TjZDOWtWNFZRZUp5V3dtMFN2TU1JYkhuOGJ2aHpjRTNNZ0ZjTlpWMHJBLWl5azZjZmtORXlkb0Zzcm1LRWhydDNwRW5qRzJGcllyN21kVmxPZ094b01ScHBB?oc=5)
 
-2026-04-10 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">migraine</span>
+2026-04-10 <span class="news-indication-tag">tumor</span>
 
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
+來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYU5FOF9ZeUgyN0wxcG9rR1JfSGVwUzlscEVxVGhQVlVWM0lMOXRMdm44dmJZVV9PWnFOc1Izb0UxcjlUQURFbUV5UzI0TjZDOWtWNFZRZUp5V3dtMFN2TU1JYkhuOGJ2aHpjRTNNZ0ZjTlpWMHJBLWl5azZjZmtORXlkb0Zzcm1LRWhydDNwRW5qRzJGcllyN21kVmxPZ094b01ScHBB?oc=5)
 
 ---
 
@@ -121,6 +129,14 @@ permalink: /news/palbociclib/
 2026-04-10 <span class="news-indication-tag">Krebs</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOXl0VERCOFpyWWJxTFRvYlRGY2JYalB2VUxpN0d2bWdrUEZjTmhwaFZ5RndZU2R0dzFaR1hFUHlkVXh2OUVSX0VscEZOV2RMdWV5RGllcnpEanlfSGFEWGNQUVY2bUY5ZklGTTl2WkZMRENkZTQwZ19pU2p4Q09ERkNBeUs5aHBnbnhYZFE2U1BfWTlJLXFJQjRQSEotNjlxajhQWk9STmhpUFRzX1JVOXBLcXg2bzFlQjdsR2lEcFdUQWNkYnVzRGNxcTBkWVduRTdwNTBEVUtBcW9mRnBxaTU5UWpFdw?oc=5)
+
+---
+
+### [Nocturnal habit could be an early warning sign of stroke or heart failure - Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
+
+2026-04-10 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
 
 ---
 
@@ -156,11 +172,11 @@ permalink: /news/palbociclib/
 
 ---
 
-### [Cancers dans le Bas-Rhin : des cas en forte hausse depuis 40 ans](https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjhwSFlZQjVxaFpUWXV0bUhQS0lzZGtMMkNTb2FQLXdKM3hvSVZDS1EwRjdBWDZBUWpldHhYY1RuUkZFY3prc2RUSE5mRUFESHJwRDY1ZERjbWd1MnMzODJzVHFxVWZMTWxLRGFwTDMxX2h4M05uWHFRanY0blVlNkM3Z2FmaWRVcGJVdFctVUJmVEg3eXVYVDdwOU8wNkVtVkMybg?oc=5)
+### [Pourquoi l’immunothérapie ne fonctionne pas (encore) contre le cancer du pancréas - Le Figaro Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEo3YUVWUWFrck9vc3RKU1pqRkpNMHhXYUVfenFPRVRwUkNYQV9mTFJRSUttcFRIZjRYUHlGSUVwYy1KVVhOWVh2YV9xcXNwUHYwTnJqaGZESW5NdGFPVUxSN256S3lHRXBoSnZjVGZ4bHFudW55YzdlQmJoWGZ6Y1N6WFMteUVuVEMtdFBuYWJ6dFBEY2ZDWGZHdHJtYWxWcU5reXoyR2lWVHQ1eXVnb3NwN2JKV2xwNWRMYmJZang?oc=5)
 
 2026-04-10 <span class="news-indication-tag">cancer</span>
 
-來源：[L'Alsace](https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjhwSFlZQjVxaFpUWXV0bUhQS0lzZGtMMkNTb2FQLXdKM3hvSVZDS1EwRjdBWDZBUWpldHhYY1RuUkZFY3prc2RUSE5mRUFESHJwRDY1ZERjbWd1MnMzODJzVHFxVWZMTWxLRGFwTDMxX2h4M05uWHFRanY0blVlNkM3Z2FmaWRVcGJVdFctVUJmVEg3eXVYVDdwOU8wNkVtVkMybg?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEo3YUVWUWFrck9vc3RKU1pqRkpNMHhXYUVfenFPRVRwUkNYQV9mTFJRSUttcFRIZjRYUHlGSUVwYy1KVVhOWVh2YV9xcXNwUHYwTnJqaGZESW5NdGFPVUxSN256S3lHRXBoSnZjVGZ4bHFudW55YzdlQmJoWGZ6Y1N6WFMteUVuVEMtdFBuYWJ6dFBEY2ZDWGZHdHJtYWxWcU5reXoyR2lWVHQ1eXVnb3NwN2JKV2xwNWRMYmJZang?oc=5)
 
 ---
 
@@ -180,14 +196,6 @@ permalink: /news/palbociclib/
 
 ---
 
-### [Cancer du pancréas : sept signes d’alerte souvent ignorés qu’il faut connaître](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnE1UGhVY3REazMxS2xrSUZUOW5zRHNQUTZQLV9La3BpWmJBWDczZDU2X1daeFFQNkl4VDgzT1BKMkJRMFlqdTg2S2t1N3NaVk0zT0ptTm50Q091VmFNNlVaUTliVnYxUFp5YXNMSU9VTjRPbmU3WHR6RDB0TFRMbksyZVlzUFhjbzJGb2FyQXVMVnU0eE90MHJkREVZUkFPZVd0MlVuQ3FQeGNUOEpEOWFwSFBRaS1vTVJKZjRR?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Breizh-info.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnE1UGhVY3REazMxS2xrSUZUOW5zRHNQUTZQLV9La3BpWmJBWDczZDU2X1daeFFQNkl4VDgzT1BKMkJRMFlqdTg2S2t1N3NaVk0zT0ptTm50Q091VmFNNlVaUTliVnYxUFp5YXNMSU9VTjRPbmU3WHR6RDB0TFRMbksyZVlzUFhjbzJGb2FyQXVMVnU0eE90MHJkREVZUkFPZVd0MlVuQ3FQeGNUOEpEOWFwSFBRaS1vTVJKZjRR?oc=5)
-
----
-
 ### [Rischio tumori più alto per quelli che non si sono mai sposati](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVTZDMVdXYXRaOGdkSHhnb3c1Y21UUVFUYmF1TlBmT2FVdTBoWWdMRFJHTHN3d21hNEhlb0pIOHlKLXkxRnR1Y3BxNC1XRDUxWmRDRy1hYS1FQ3B1WTVMX1l0RDdxVEVRTXVVZE9GelhrOHZYOENYS0thLUZnOTAtYWFpYWc?oc=5)
 
 2026-04-10 <span class="news-indication-tag">tumor</span>
@@ -204,19 +212,11 @@ permalink: /news/palbociclib/
 
 ---
 
-### [Trombosi e cancro, quale relazione? A Bergamo i big del settore - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUZUZkVyTWV4NXZoUHJOVzZUaXZmb0xKZHhmOFctS3hHN0NKaExoU2Q4ZU1ZWTBXRzUwTHg2WGJmSFRfN2ZtQWRqX1c3YmMwLUZaUXJkeFlsS1JwbTdvUHFTYWExcmJ1UHlkclVhSlVSM3F3c2s2aTR1UFd4S3YyNnhBS0huZFBYX0FWNWxjS3Q3eU4yLXh4SHMzMUUweWRTUDJqVDBROUF2Q1E4ZkltbDBVYmFkWGlvU2FjQ0tvMDlPNTE5LVEyRQ?oc=5)
+### [Nierenkrebsfälle könnten sich bis 2050 verdoppeln: Herausforderungen und neue Ansätze - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2hJNjQ0NVlYZ2FIVVRaV2FyRlFwLXhkblVhZXRMQW1JbTd1dzl5VE9oMEQ5T29DVUpqLWFQYVpua29vamtxZjZrYldScXVrdTVwbHJacXRBS2hhai1rZW04UGZqdFRqQjYwLTEzbGphbjZzLTIyS045QTNQdGkwVWh3cjZaa0ZlbEU1Nk1VNHBOTldPQmNTcGRVNHhIbDZYRWZOYXlhWEp3NC1wYkRfUjg2a01wM003SFdv?oc=5)
 
-2026-04-10 <span class="news-indication-tag">cancro</span>
+2026-04-09 <span class="news-indication-tag">Krebs</span>
 
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUZUZkVyTWV4NXZoUHJOVzZUaXZmb0xKZHhmOFctS3hHN0NKaExoU2Q4ZU1ZWTBXRzUwTHg2WGJmSFRfN2ZtQWRqX1c3YmMwLUZaUXJkeFlsS1JwbTdvUHFTYWExcmJ1UHlkclVhSlVSM3F3c2s2aTR1UFd4S3YyNnhBS0huZFBYX0FWNWxjS3Q3eU4yLXh4SHMzMUUweWRTUDJqVDBROUF2Q1E4ZkltbDBVYmFkWGlvU2FjQ0tvMDlPNTE5LVEyRQ?oc=5)
-
----
-
-### [Médicos alertan de que el riesgo vascular en mujeres está infravalorado - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTBLbDlKT2ZPbVhJQ21SY2hMdHdGeHBBREZmc1p4VWpHTFRRSHI0Zjd4ZnBKVWxjNHprU0dJN0ZpSjhhdVVHeFFrZlJJaU1lSlY0REFEcHluRmRvNjlEdGM2SXRjN2I0dm0xQlNYU1JtelJtZUszLTd4TEVpV3B6a1p5Qy1ERGJJYnRNQzRPRVlhSXZtYnk5bGNpbC1wRURHS3VEckRHdEZVVzFFazRDcVBtLXFDVG1TNVZKY243WC13MHhVZkpGR0t3?oc=5)
-
-2026-04-09 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTBLbDlKT2ZPbVhJQ21SY2hMdHdGeHBBREZmc1p4VWpHTFRRSHI0Zjd4ZnBKVWxjNHprU0dJN0ZpSjhhdVVHeFFrZlJJaU1lSlY0REFEcHluRmRvNjlEdGM2SXRjN2I0dm0xQlNYU1JtelJtZUszLTd4TEVpV3B6a1p5Qy1ERGJJYnRNQzRPRVlhSXZtYnk5bGNpbC1wRURHS3VEckRHdEZVVzFFazRDcVBtLXFDVG1TNVZKY243WC13MHhVZkpGR0t3?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2hJNjQ0NVlYZ2FIVVRaV2FyRlFwLXhkblVhZXRMQW1JbTd1dzl5VE9oMEQ5T29DVUpqLWFQYVpua29vamtxZjZrYldScXVrdTVwbHJacXRBS2hhai1rZW04UGZqdFRqQjYwLTEzbGphbjZzLTIyS045QTNQdGkwVWh3cjZaa0ZlbEU1Nk1VNHBOTldPQmNTcGRVNHhIbDZYRWZOYXlhWEp3NC1wYkRfUjg2a01wM003SFdv?oc=5)
 
 ---
 
@@ -228,43 +228,11 @@ permalink: /news/palbociclib/
 
 ---
 
-### [Nierenkrebs: Doppelte Fälle bis 2050 erwartet - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0VmbmYxZkR3NWcxVEhjUEZWU3hXZ3h2YVp1OFRQOXZMVUltWHNyaGlUcl9JYVZyUDNfT2NIM3lMVnRLNUJ5Uy1zRTlUeEp1SC1FM2NNZVVVS0lzUUhiRXdaQ0dkY2M2dXp2WFRLTDNfdzJJcFJBMXZFa3JyU1E1TjV1NzhRbTkwOUVfT09TY0dMNmRLNnpVSVdLRVZNSi1hQlZ6TzNJOA?oc=5)
-
-2026-04-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0VmbmYxZkR3NWcxVEhjUEZWU3hXZ3h2YVp1OFRQOXZMVUltWHNyaGlUcl9JYVZyUDNfT2NIM3lMVnRLNUJ5Uy1zRTlUeEp1SC1FM2NNZVVVS0lzUUhiRXdaQ0dkY2M2dXp2WFRLTDNfdzJJcFJBMXZFa3JyU1E1TjV1NzhRbTkwOUVfT09TY0dMNmRLNnpVSVdLRVZNSi1hQlZ6TzNJOA?oc=5)
-
----
-
 ### [“Estaba cansada, me decían que era estrés y tenía un tumor en la hipófisis”: el síndrome del exceso de cortisol que todavía se diagnostica tarde - La Vanguardia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbGVrM3VZYkJEVWEyQV9LMjc5WFNfeWV2T2pIRksta1F4TG5LbmNzeVVLVkswbnZZSFJNN0xOLWdzc1Z4S056UkJFV19tR2lWYVdILVlFeXpZMXhUTUlvT1FqX1pnZ3k0Mlgwckw3bjJ2WmZCd3FMb19DRHpSYzVMMUZqaHRMRVI1QUZhU3cwX3JPUTI0aThzSmlvb0RkTmJ2aVM3VTZFS0xuLWZnWnVqYjhzSHpwdFRRWUhEYjF2VjZmTTgySVBLRG1TSjVoa19Ic3ZWbTctM3dCdi1YTkR6Y3ZUZVdNQm1zMVdxcXFoZktNQThsb3ByUzF0RTnSAYICQVVfeXFMT3kxckhoY0ZSbEpmNGdTVWtaNnpONmFEV2ZkR29LNURCQ0VsVGpDM0FrQ25PRV80czNXS2FpSDlNM3AyMHpyQUNUelJDSFVNaUowNHdsdi1Yc0lacC00Z1VJVEVpNzBpYkEySHJBTkVmYmRPY3ZiUEhOS2VBTFFHam5HSVRuOGRvYVZvMEthR0xldll0WWdfVjVJN3Q0aGhyM3FRdzRmZDlGV3hVcnhONlkwWEF3el9fYUVsTUZfb0N6VWhhTXdqNDlwMk1pZklNMnZoSFg2cHlacU1UdXZMSmRQWndkM0hlN2hfOUVIQXdzMmJHMXZMV3Z2R2QxdE9iWnNR?oc=5)
 
 2026-04-09 <span class="news-indication-tag">tumor</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbGVrM3VZYkJEVWEyQV9LMjc5WFNfeWV2T2pIRksta1F4TG5LbmNzeVVLVkswbnZZSFJNN0xOLWdzc1Z4S056UkJFV19tR2lWYVdILVlFeXpZMXhUTUlvT1FqX1pnZ3k0Mlgwckw3bjJ2WmZCd3FMb19DRHpSYzVMMUZqaHRMRVI1QUZhU3cwX3JPUTI0aThzSmlvb0RkTmJ2aVM3VTZFS0xuLWZnWnVqYjhzSHpwdFRRWUhEYjF2VjZmTTgySVBLRG1TSjVoa19Ic3ZWbTctM3dCdi1YTkR6Y3ZUZVdNQm1zMVdxcXFoZktNQThsb3ByUzF0RTnSAYICQVVfeXFMT3kxckhoY0ZSbEpmNGdTVWtaNnpONmFEV2ZkR29LNURCQ0VsVGpDM0FrQ25PRV80czNXS2FpSDlNM3AyMHpyQUNUelJDSFVNaUowNHdsdi1Yc0lacC00Z1VJVEVpNzBpYkEySHJBTkVmYmRPY3ZiUEhOS2VBTFFHam5HSVRuOGRvYVZvMEthR0xldll0WWdfVjVJN3Q0aGhyM3FRdzRmZDlGV3hVcnhONlkwWEF3el9fYUVsTUZfb0N6VWhhTXdqNDlwMk1pZklNMnZoSFg2cHlacU1UdXZMSmRQWndkM0hlN2hfOUVIQXdzMmJHMXZMV3Z2R2QxdE9iWnNR?oc=5)
-
----
-
-### [Why America's deadliest cancer is spreading among fit, young people - Daily Mail](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0lQODNYaVI4YlZ1c2VpWm1BZVp3WEFBTElVbEN5Ni1oNl9PaHZkdElKbGEyZVM4YmlEX3Z6QTNQbko0dkpiOV9YY0RZdjBhb3Q4ZEZ4Qm1KSlRLYnRaeXdBZWNScVlqQU1rVHdvTzQzYWhfLWxscFpCLUVmZjNCNjBsNFEwMFdpX1FPelFJdS1SeVl2alRtQ2VzejdnMTJycGhaQUtoNFZSX1F5?oc=5)
-
-2026-04-09 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0lQODNYaVI4YlZ1c2VpWm1BZVp3WEFBTElVbEN5Ni1oNl9PaHZkdElKbGEyZVM4YmlEX3Z6QTNQbko0dkpiOV9YY0RZdjBhb3Q4ZEZ4Qm1KSlRLYnRaeXdBZWNScVlqQU1rVHdvTzQzYWhfLWxscFpCLUVmZjNCNjBsNFEwMFdpX1FPelFJdS1SeVl2alRtQ2VzejdnMTJycGhaQUtoNFZSX1F5?oc=5)
-
----
-
-### [Worthing prostate cancer patient receives cutting-edge therapy](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kX1BMdFd2LVUzeURSSjBBWXBEV19yQlhHWFp1TV9NNTNXXzNDc1NyZzNCNV84Q3JoYWk0R3pRTjZQUW1PdmlJMVhqTlR3UTZ3T1JKV3JnWExYUkZK?oc=5)
-
-2026-04-09 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kX1BMdFd2LVUzeURSSjBBWXBEV19yQlhHWFp1TV9NNTNXXzNDc1NyZzNCNV84Q3JoYWk0R3pRTjZQUW1PdmlJMVhqTlR3UTZ3T1JKV3JnWExYUkZK?oc=5)
-
----
-
-### [Dermatologists Reveal the Number-1 Sign of Skin Cancer—and It’s Sneaky](https://news.google.com/rss/articles/CBMid0FVX3lxTFBOVkgtaThzR2RzYldaeFZHbFdMYlVmU043WGYwUGQxSzYwTjhwYk5GbnZoMU5jOXRGazBFeks0c0pmM3Z3RXpCRThnWWM5Uk9kY0l0X00wS2t2OGc5TUMwd1dPYjZnV3JZajVrVzJyQlhTWVdhbjBv?oc=5)
-
-2026-04-09 <span class="news-indication-tag">cancer</span>
-
-來源：[Prevention](https://news.google.com/rss/articles/CBMid0FVX3lxTFBOVkgtaThzR2RzYldaeFZHbFdMYlVmU043WGYwUGQxSzYwTjhwYk5GbnZoMU5jOXRGazBFeks0c0pmM3Z3RXpCRThnWWM5Uk9kY0l0X00wS2t2OGc5TUMwd1dPYjZnV3JZajVrVzJyQlhTWVdhbjBv?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Lungentransplantation kann bei schwerer COPD der letzte Ausweg sein - Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmJpdk5NWjZ3WFdxbzg5YWxQWFZWLVNrUVo3ejNjV01pNkFydFZPQlRfbU05dkJlVmQtRlVlUUFrSkFrVjMtcDk0ajJEczF1aDd3cm9paThGakFJeElQelhHbEEtbWNiNzlLOWctVko3OHZvOEU5ZTJ3akduWlluS3VPcGtNam9veGExOVpiVW5ObFgtcTRSSkpfTER2UU9JSHJyWXprd0UzZVlXS0ZLUmlreWJzaGhtUVE?oc=5)
+
+2026-04-11 <span class="news-indication-tag">copd</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmJpdk5NWjZ3WFdxbzg5YWxQWFZWLVNrUVo3ejNjV01pNkFydFZPQlRfbU05dkJlVmQtRlVlUUFrSkFrVjMtcDk0ajJEczF1aDd3cm9paThGakFJeElQelhHbEEtbWNiNzlLOWctVko3OHZvOEU5ZTJ3akduWlluS3VPcGtNam9veGExOVpiVW5ObFgtcTRSSkpfTER2UU9JSHJyWXprd0UzZVlXS0ZLUmlreWJzaGhtUVE?oc=5)
+
+---
 
 ### [Maladie de Parkinson : ce problème de santé très courant pourrait faire augmenter le risque d'être atteint par ce trouble](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWMwSnQyb1dNNjdXODdGbVEtdnllanNTQkpNS2NiVm9maC0xaTMzdDR6TG94bS1BNmZiOVdJVzlDbmphbGkxd2VTWFNndEtpWGpUZFh6YlZMM05EVTgwdW4tdHlZMXZsd0M3WmpPaTlERWZvV1BNLU5Hc09hTk42bEEwNU51V3NnaUM2aFJuOU1yTFpQdGlIWmhVdXdZU2lFb3dTT2VVcUhFZFV6LTJoZWhWaW9iUHRsVVhSRtIBwgFBVV95cUxQM3pFaG9VaG5SdDBIN04zcngzbHc1b0lBcW1xbTMyaVRfVHFudFR6NmJfN1F3MVcxa284R3l4NlRGVDFvejhNVnkzNS12SDF3R2dYelRCVHNONlgtNUYzUVhxczhFanhhNERfMWp0N3VWMEFHQkN3bjBLX3pzTENyTzZKQ3FuU1BqbXhsZG5uWmo1UGxTemZuMEMyd2pQOXNVZWRON1JQV2NHQS04Uzh6bmliVTlqajBUdVRRX1VkVkladw?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/botulinum-toxin-type-a/
 
 ---
 
-### [Maladie de Parkinson : voici les profils qui ont le plus de risques d'être atteints](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVYyeHY0UHUxX1RQUGctTkU2QWk1SzRjZjlnMXQzY20tOW05OHdiNlIwRkZ4QnNyVDZ5VmxZb0gwZnJmODdLaU85UzNZTDBFd3kzakZoRnhZXzhnY2lYM3FBbUc2X01nc1pKQUJGUzAyYW9zN0kxNU9fUUFMZFZtV2F6TUN2a1R3X0UxdEZVSGlPVHQ0ejJoLWRnNHgwVEF1NmhYTjRrMnhBaXBaQ3Z2LUZnRTlTTFEzYXc?oc=5)
+### [Vieillissement de la population, pesticides : la maladie de Parkinson gagne du terrain, ces chiffres qui donnent le vertige - France 3 Régions](https://news.google.com/rss/articles/CBMisgJBVV95cUxNVU1ETUFkSndTRTBFMTRrQXRWODR4cmdiLUZUOFZsbHFMa3NvZnRQYjlTcEUtZ3BWLWtVOFV3VVM2bGFlQldycXB1ZmVrV1RGUGVIa0JhLVBRY21ocHRyNXlvMW4xaWpxQS1RbUhKNmRvY0U0MHJPUEJ1ejN1RDBuX0ZXd0lxOHMxY2tOemxzd210TWpFc3IxU3FZY2FVRFNhZVJ3RGx5TmtCZ0RMQ2NFRHFfXzZ5b2xISjRjeUxlVEk0aFpCdjIzT2EtSUdqcEJFOFdiS0FHWWhhdzhSNUs0YU8xNTNxWUVRMl9CeW9QbDRBckNaYU5zTGpOMkdka3ktc19VbnRiZXRhZlMxU1Z4QXhMOE1TbW4xR1BESGFJWXZaN3J3ZzVUNkktMU9yTV9yTWc?oc=5)
 
 2026-04-11 <span class="news-indication-tag">maladie de Parkinson</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVYyeHY0UHUxX1RQUGctTkU2QWk1SzRjZjlnMXQzY20tOW05OHdiNlIwRkZ4QnNyVDZ5VmxZb0gwZnJmODdLaU85UzNZTDBFd3kzakZoRnhZXzhnY2lYM3FBbUc2X01nc1pKQUJGUzAyYW9zN0kxNU9fUUFMZFZtV2F6TUN2a1R3X0UxdEZVSGlPVHQ0ejJoLWRnNHgwVEF1NmhYTjRrMnhBaXBaQ3Z2LUZnRTlTTFEzYXc?oc=5)
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMisgJBVV95cUxNVU1ETUFkSndTRTBFMTRrQXRWODR4cmdiLUZUOFZsbHFMa3NvZnRQYjlTcEUtZ3BWLWtVOFV3VVM2bGFlQldycXB1ZmVrV1RGUGVIa0JhLVBRY21ocHRyNXlvMW4xaWpxQS1RbUhKNmRvY0U0MHJPUEJ1ejN1RDBuX0ZXd0lxOHMxY2tOemxzd210TWpFc3IxU3FZY2FVRFNhZVJ3RGx5TmtCZ0RMQ2NFRHFfXzZ5b2xISjRjeUxlVEk0aFpCdjIzT2EtSUdqcEJFOFdiS0FHWWhhdzhSNUs0YU8xNTNxWUVRMl9CeW9QbDRBckNaYU5zTGpOMkdka3ktc19VbnRiZXRhZlMxU1Z4QXhMOE1TbW4xR1BESGFJWXZaN3J3ZzVUNkktMU9yTV9yTWc?oc=5)
 
 ---
 

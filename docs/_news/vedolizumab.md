@@ -44,6 +44,14 @@ permalink: /news/vedolizumab/
 
 ## 相關新聞（3 則）
 
+### [Lungentransplantation kann bei schwerer COPD der letzte Ausweg sein - Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmJpdk5NWjZ3WFdxbzg5YWxQWFZWLVNrUVo3ejNjV01pNkFydFZPQlRfbU05dkJlVmQtRlVlUUFrSkFrVjMtcDk0ajJEczF1aDd3cm9paThGakFJeElQelhHbEEtbWNiNzlLOWctVko3OHZvOEU5ZTJ3akduWlluS3VPcGtNam9veGExOVpiVW5ObFgtcTRSSkpfTER2UU9JSHJyWXprd0UzZVlXS0ZLUmlreWJzaGhtUVE?oc=5)
+
+2026-04-11 <span class="news-indication-tag">copd</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmJpdk5NWjZ3WFdxbzg5YWxQWFZWLVNrUVo3ejNjV01pNkFydFZPQlRfbU05dkJlVmQtRlVlUUFrSkFrVjMtcDk0ajJEczF1aDd3cm9paThGakFJeElQelhHbEEtbWNiNzlLOWctVko3OHZvOEU5ZTJ3akduWlluS3VPcGtNam9veGExOVpiVW5ObFgtcTRSSkpfTER2UU9JSHJyWXprd0UzZVlXS0ZLUmlreWJzaGhtUVE?oc=5)
+
+---
+
 ### [Highlights vom Diabetes-Update: Prävention, Longevity und mehr](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1peGVic1JQYUg1WTcxeTVnVXFiTUdPVUx1N1ZWSFFfZjU5WkhmdUJYdDF4ekxncXlSWUZNemdzeEFfcUVtSFlURjNlSzdtZmFSYV9rT1lvMDNuX2J5NzVqaC1kMlhFN1JQdmxrbjM1RXJIaEJiZnNsT1MxdFJZQVZfVEE1eWVSSmhJbGUwTnk1SmpZb2UwVFVmZVBFQmtHaVNVczZOMktKSm40ZnNF?oc=5)
 
 2026-04-10 <span class="news-indication-tag">diabetes</span>
@@ -57,14 +65,6 @@ permalink: /news/vedolizumab/
 2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
-
----
-
-### [Tochter (3) stirbt fast an Diabetes: „Ich fühle mich bis heute schuldig“](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
-
-2026-04-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[Westfalenpost](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
 
 ---
 
