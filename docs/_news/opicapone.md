@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Opicapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Maladie de Parkinson : diagnostic, hérédité, symptômes… Dix réponses d’un neurologue et d’une infirmière à vos questions](https://news.google.com/rss/articles/CBMipgJBVV95cUxNNmwzM2VteTZfZVp1eWVLWmdKNXZRdEd3LWlIaTFlbVhoZ0lHTkhBenNEWXpndl8wQmJnNUtCMk4xVHhtVWxtcU55VDRvblR6SkR0NkY2ZWV4NmJvRGk1QTdkSHBOLWJiVms1Qkd1MjVsZ08yVktHTmNUZngzeVJwaFVuMDVETGgzVEZmT0R6MWhBS1FGa1Z4Mks3MDRrYmRNSmZncFZNX2haS3BvNmpVOTdIdEdsbVRXc1prSUxKYmFaTHpnZlR4ZVNqelBoRWgtaFBNU05xV2NrVjYwcXdKUzdTdnVTQm9MMXp6S1FFeDA1M3ZoYS1XLTNiY1pwaFp0VmRLMjhicnJIcXdjSE5VeTc1YWdmMXBuOUZUV1Bud29CYllqNkE?oc=5)
 
@@ -54,17 +54,9 @@ permalink: /news/opicapone/
 
 ### [New early 'clue' could be warning sign of 'first symptom of Alzheimer's' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
 
-2026-04-09 <span class="news-indication-tag">Alzheimer's</span>
+2026-04-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
-
----
-
-### [HM Cinac se consolida referente internacional en tratamiento de párkinson - Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHBxcFJMaXhLVVI0VTNPcHEzVW9UYnhZSV9RdlpaWENPTFZnWXdkeURjc0MyNUlCbXBST3I1ZWdIQ25GcWpLbWxLTFF6S3FYektvRkVOMWplbV9qQzNxaWZfN3A3dnUzelBBRXE1WVN3b3VPYl9qNHgzUGJZYnRwNm9SLWZwR0lRV3Jweldvc3h0OHQ2MEFCZDFEdXhFSC02ZDVYX09tSnZyRURvcnVQMVRFVkpDYTJpNTQ1YWVQLU05MFB0VmlZ0gHHAUFVX3lxTE5kbjU4VXBFdmE0OWxRUGxtNmRNQ19ibjRnMHBkUk9xYzFITXl5aHZpRHJmc19rQ1dqd1ZhbnBiNmRMd3NGcERLcHp5SFpLVFEwSHZtMHYxUXpCdnNNaWJ6bllycG9EWHZKRWYtRWMtOC1QMWxfTEZQcWVJZFk4M0g2QnFhQ1JTQjVqcjYyaVNyMjM5eGVhTTdDMU4xRDM2UlZTVEdySWcwYUV5RTQ1TzJnYWxQR1pGR3BMOXI3MzE2TWoyTGRFT1E?oc=5)
-
-2026-04-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHBxcFJMaXhLVVI0VTNPcHEzVW9UYnhZSV9RdlpaWENPTFZnWXdkeURjc0MyNUlCbXBST3I1ZWdIQ25GcWpLbWxLTFF6S3FYektvRkVOMWplbV9qQzNxaWZfN3A3dnUzelBBRXE1WVN3b3VPYl9qNHgzUGJZYnRwNm9SLWZwR0lRV3Jweldvc3h0OHQ2MEFCZDFEdXhFSC02ZDVYX09tSnZyRURvcnVQMVRFVkpDYTJpNTQ1YWVQLU05MFB0VmlZ0gHHAUFVX3lxTE5kbjU4VXBFdmE0OWxRUGxtNmRNQ19ibjRnMHBkUk9xYzFITXl5aHZpRHJmc19rQ1dqd1ZhbnBiNmRMd3NGcERLcHp5SFpLVFEwSHZtMHYxUXpCdnNNaWJ6bllycG9EWHZKRWYtRWMtOC1QMWxfTEZQcWVJZFk4M0g2QnFhQ1JTQjVqcjYyaVNyMjM5eGVhTTdDMU4xRDM2UlZTVEdySWcwYUV5RTQ1TzJnYWxQR1pGR3BMOXI3MzE2TWoyTGRFT1E?oc=5)
 
 ---
 
@@ -81,14 +73,6 @@ permalink: /news/opicapone/
 2026-04-09 <span class="news-indication-tag">dementia</span>
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMirgFBVV95cUxPaXpZd2JuVEdtdnR6TzE2VlhDeFo1X1pjUUxSb1V3SXNJUW1hdElOTGZiQ3VlMW13SGpYZ1dHQ2lIM1ZPRjdyZXFSSjNBVFl1Q2c4OVdNRGpEbDhNczhTbnQ1d3NnQ3plUEFZWUJtUk9tWlV0MUlUTGxaV1c5bXBnN2M5NXhNUlI2OVhkVWlQNzBuOFVRamZhQm5sWnJFOHh3Vl9PNmVMLUw0eEtJSXfSAbQBQVVfeXFMTzFxNVFkeXdBbmp6Wm53YTVsX1JsbGY3enJiV1ozd0NXX21KT3pHREIyanhfLUdyZVhVdm9zeWZRVm83b0JjMDBXVmxLM2ZfRHZTSmJOVktOdVhGVDFLeUZvdlgtZExpZXlMZHZ4ZlNnVm1LRmFKVTFDR2o2UGpUY3ZzNmNodWZhMW1DWW9jQ1dldkhuUHlhbUtuaHl4N1VXRlF3X21KcEl2TWJ6NTNleXEwOFAx?oc=5)
-
----
-
-### [This easy daily habit may cut dementia risk by 15% - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEtMZlVnU0Flclo1STBmcUdUVTE5bjBsRlo0dGEzOHA4NS1MN2dmeUZpeEdfU19weE1xRERDVGdQQWRVWWxVaHMwb1loYWdWUDl5d25FQjZNVk54ZHJBOG9HX1BkeERraFQ3aHlaeDJUQXdsMURDSDJIOVlEYklaY3NZbUswTkdYQ2tBUTVfSDBXbkh0cEdzZtIBngFBVV95cUxQNktPNXQzTEFYU3lHOHpmLUdudFdFZFdHbnZSU3V0WWt5R3hYS3AwQ2JwX01NRWxMMndmckFRVklHT2ZPMjFZVzBtWHgzRTNVdW9qQnVFdmh6NHBOMktCYmhwN1M1V1IwVFlmd0pKWEp2MTJOQmNwTmtkTExFbDNYYjFVVEtPaFhVU1htazhpcmNLTUtjZjRJbC02MVYzdw?oc=5)
-
-2026-04-09 <span class="news-indication-tag">dementia</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEtMZlVnU0Flclo1STBmcUdUVTE5bjBsRlo0dGEzOHA4NS1MN2dmeUZpeEdfU19weE1xRERDVGdQQWRVWWxVaHMwb1loYWdWUDl5d25FQjZNVk54ZHJBOG9HX1BkeERraFQ3aHlaeDJUQXdsMURDSDJIOVlEYklaY3NZbUswTkdYQ2tBUTVfSDBXbkh0cEdzZtIBngFBVV95cUxQNktPNXQzTEFYU3lHOHpmLUdudFdFZFdHbnZSU3V0WWt5R3hYS3AwQ2JwX01NRWxMMndmckFRVklHT2ZPMjFZVzBtWHgzRTNVdW9qQnVFdmh6NHBOMktCYmhwN1M1V1IwVFlmd0pKWEp2MTJOQmNwTmtkTExFbDNYYjFVVEtPaFhVU1htazhpcmNLTUtjZjRJbC02MVYzdw?oc=5)
 
 ---
 

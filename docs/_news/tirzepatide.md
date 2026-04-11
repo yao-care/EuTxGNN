@@ -44,11 +44,11 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（1 則）
 
-### [Los genes pueden explicar la eficacia de fármacos adelgazantes](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3VzQjNDQWMwUFpCTzNFc1NLZkx5QWl4TXJHeEY3Y09md09NVGIyVnRVRHV5VnRMS3p4VVV1anc1MEhXSFZzNUN5RFZOYVlOOVlJaFVwMWM5VFVtYnBXbEZVSVlFSHdOT212Nmxzd1E5N0RxZWx4eXdJNXVuLWhBWVgzd3d0d1FEUzAxYkxOTWJacFpubWFxTVRGWWJ3WnJ5T1ZMR3QtcEREdGQ2bzUxNFlxTlRSVThyOXVvVTBYN1gwcjFNdHB0U2NmSQ?oc=5)
+### [Semaglutide e tirzepatide, più peso perso o effetti collaterali con specifiche varianti genetiche: lo studio USA](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 
-2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3VzQjNDQWMwUFpCTzNFc1NLZkx5QWl4TXJHeEY3Y09md09NVGIyVnRVRHV5VnRMS3p4VVV1anc1MEhXSFZzNUN5RFZOYVlOOVlJaFVwMWM5VFVtYnBXbEZVSVlFSHdOT212Nmxzd1E5N0RxZWx4eXdJNXVuLWhBWVgzd3d0d1FEUzAxYkxOTWJacFpubWFxTVRGWWJ3WnJ5T1ZMR3QtcEREdGQ2bzUxNFlxTlRSVThyOXVvVTBYN1gwcjFNdHB0U2NmSQ?oc=5)
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 
 ---
 

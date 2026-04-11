@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [New early 'clue' could be warning sign of 'first symptom of Alzheimer's' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/alzheimer-disease/
 2026-04-09
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMirgFBVV95cUxPaXpZd2JuVEdtdnR6TzE2VlhDeFo1X1pjUUxSb1V3SXNJUW1hdElOTGZiQ3VlMW13SGpYZ1dHQ2lIM1ZPRjdyZXFSSjNBVFl1Q2c4OVdNRGpEbDhNczhTbnQ1d3NnQ3plUEFZWUJtUk9tWlV0MUlUTGxaV1c5bXBnN2M5NXhNUlI2OVhkVWlQNzBuOFVRamZhQm5sWnJFOHh3Vl9PNmVMLUw0eEtJSXfSAbQBQVVfeXFMTzFxNVFkeXdBbmp6Wm53YTVsX1JsbGY3enJiV1ozd0NXX21KT3pHREIyanhfLUdyZVhVdm9zeWZRVm83b0JjMDBXVmxLM2ZfRHZTSmJOVktOdVhGVDFLeUZvdlgtZExpZXlMZHZ4ZlNnVm1LRmFKVTFDR2o2UGpUY3ZzNmNodWZhMW1DWW9jQ1dldkhuUHlhbUtuaHl4N1VXRlF3X21KcEl2TWJ6NTNleXEwOFAx?oc=5)
-
----
-
-### [This easy daily habit may cut dementia risk by 15% - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEtMZlVnU0Flclo1STBmcUdUVTE5bjBsRlo0dGEzOHA4NS1MN2dmeUZpeEdfU19weE1xRERDVGdQQWRVWWxVaHMwb1loYWdWUDl5d25FQjZNVk54ZHJBOG9HX1BkeERraFQ3aHlaeDJUQXdsMURDSDJIOVlEYklaY3NZbUswTkdYQ2tBUTVfSDBXbkh0cEdzZtIBngFBVV95cUxQNktPNXQzTEFYU3lHOHpmLUdudFdFZFdHbnZSU3V0WWt5R3hYS3AwQ2JwX01NRWxMMndmckFRVklHT2ZPMjFZVzBtWHgzRTNVdW9qQnVFdmh6NHBOMktCYmhwN1M1V1IwVFlmd0pKWEp2MTJOQmNwTmtkTExFbDNYYjFVVEtPaFhVU1htazhpcmNLTUtjZjRJbC02MVYzdw?oc=5)
-
-2026-04-09
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEtMZlVnU0Flclo1STBmcUdUVTE5bjBsRlo0dGEzOHA4NS1MN2dmeUZpeEdfU19weE1xRERDVGdQQWRVWWxVaHMwb1loYWdWUDl5d25FQjZNVk54ZHJBOG9HX1BkeERraFQ3aHlaeDJUQXdsMURDSDJIOVlEYklaY3NZbUswTkdYQ2tBUTVfSDBXbkh0cEdzZtIBngFBVV95cUxQNktPNXQzTEFYU3lHOHpmLUdudFdFZFdHbnZSU3V0WWt5R3hYS3AwQ2JwX01NRWxMMndmckFRVklHT2ZPMjFZVzBtWHgzRTNVdW9qQnVFdmh6NHBOMktCYmhwN1M1V1IwVFlmd0pKWEp2MTJOQmNwTmtkTExFbDNYYjFVVEtPaFhVU1htazhpcmNLTUtjZjRJbC02MVYzdw?oc=5)
 
 ---
 

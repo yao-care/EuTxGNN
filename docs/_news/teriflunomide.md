@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teriflunomide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（19 則）
+
+### [Crieff Hydro confirms ‘large’ number of guests struck by sickness outbreak - The Courier](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGpVekc3RWI0OFZ2UHhLcnlXUU9sUEhtWDlpNFJPY1h1dGdTOC01X3NzZDFqa0MxSTZQRzJLQ0dMZE5TY3FubEdDU0R1RjllX09GSHFUSlNYbzhMeGZBa3RjUkRKWFc3ZzROWTZJbENlZ05BZkxFUS1Vbzc1RXdKWjFkbVBoNmlrRWpyeE1yNXBGbjla?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[The Courier](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGpVekc3RWI0OFZ2UHhLcnlXUU9sUEhtWDlpNFJPY1h1dGdTOC01X3NzZDFqa0MxSTZQRzJLQ0dMZE5TY3FubEdDU0R1RjllX09GSHFUSlNYbzhMeGZBa3RjUkRKWFc3ZzROWTZJbENlZ05BZkxFUS1Vbzc1RXdKWjFkbVBoNmlrRWpyeE1yNXBGbjla?oc=5)
+
+---
+
+### [Silvio Garattini, oncólogo de 97 años, da su menú para vivir más años: "50 gramos de pasta, poca carne, fruta cocida, legumbres y pescado"](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ0JVN1JYV1RoeGczOVlZR3VwVTVTcHd5bWtpUlBnMHd0M1Q4ZS1KOHE0SlI3NGIzNFNyMDg1U3pnR3Jod29xQkhpTWs5cnpuYWRIejdVN1UxVDlZclE5SHh1V2F5MkhRQkRZaUpQdFBjLXNWdjZqUFRIbkwxcGN3X2dGSTg4M09oemxtaEpmZ1VoeFU1VVk2NU8xNlc0dnNqTjZXc09JRHZNRF9HczNNeHdQMGc4cGktMmJlMzZGR0t3X1lwN0FFaXdUMWp4aGtsbEN1LUdwMWN3VEhQLWpQc2V6T0ZUVjJ1NnNMV05RQV85SDJpeHFtbk1pSUI?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ0JVN1JYV1RoeGczOVlZR3VwVTVTcHd5bWtpUlBnMHd0M1Q4ZS1KOHE0SlI3NGIzNFNyMDg1U3pnR3Jod29xQkhpTWs5cnpuYWRIejdVN1UxVDlZclE5SHh1V2F5MkhRQkRZaUpQdFBjLXNWdjZqUFRIbkwxcGN3X2dGSTg4M09oemxtaEpmZ1VoeFU1VVk2NU8xNlc0dnNqTjZXc09JRHZNRF9HczNNeHdQMGc4cGktMmJlMzZGR0t3X1lwN0FFaXdUMWp4aGtsbEN1LUdwMWN3VEhQLWpQc2V6T0ZUVjJ1NnNMV05RQV85SDJpeHFtbk1pSUI?oc=5)
+
+---
 
 ### [Diese Alltags-Lebensmittel bremsen heimlich deinen Gewichtsverlust - FIT FOR FUN](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWTJZT0RuZnVkak9RZUp5TkxoTzBOdFBwb0V1dDFfNS01UE1kZVBVZGphNEZkSl9uaW9NWDNEdFNJNV8xNTdzLThJdDB5UjRMb0pEcTh4LXJ6WmFoOTdmRFlPQjlSQ1pvaEFvWXVUVkRuOUg2UjBiTXBuNDFfdEFRd01BLUtQc2g2bnBTU1F5T0NuSThzOXNVNkVzdzQ0LUp1M0lla1J2RVlSMXUzNzk2TUtfZW1ETEZtbWhMdm1pVDZmUVREaHYxRXNwejdDMjRfSk1aWkR6MXJsUQ?oc=5)
 
 2026-04-10 <span class="news-indication-tag">MS</span>
 
 來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWTJZT0RuZnVkak9RZUp5TkxoTzBOdFBwb0V1dDFfNS01UE1kZVBVZGphNEZkSl9uaW9NWDNEdFNJNV8xNTdzLThJdDB5UjRMb0pEcTh4LXJ6WmFoOTdmRFlPQjlSQ1pvaEFvWXVUVkRuOUg2UjBiTXBuNDFfdEFRd01BLUtQc2g2bnBTU1F5T0NuSThzOXNVNkVzdzQ0LUp1M0lla1J2RVlSMXUzNzk2TUtfZW1ETEZtbWhMdm1pVDZmUVREaHYxRXNwejdDMjRfSk1aWkR6MXJsUQ?oc=5)
+
+---
+
+### [Frühe Demenzen häufiger mit modifizierbaren Risikofaktoren verbunden als spätere – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2JIZHQ2YzN0SERNSENNb0hnLU5xX3JYSTg0UnB1TlpIaXZ6ZkE4bENXanQySkgwOU15MUlaOVhob2phNDYzeXFraDNvN0dSY0QwRnF1LWZRVkF3c1d4ZTViOG5rdGxBUUNkS1p2cFZzVUN4Wjg2VnFnc0NZdExZTVg2VllselhNMWtaZEdTeGlGZFc0UTNwOWdHZ3M1ZVpNYVFDU1Jqb1VfRGc1V1piM1kyN2JkS0JSLXFuVDJRQUZIbDIzNXlRLWFHVFpxeGhqNVc3ajZrdm4ydE9WaElpdDIzWQ?oc=5)
+
+2026-04-10 <span class="news-indication-tag">MS</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2JIZHQ2YzN0SERNSENNb0hnLU5xX3JYSTg0UnB1TlpIaXZ6ZkE4bENXanQySkgwOU15MUlaOVhob2phNDYzeXFraDNvN0dSY0QwRnF1LWZRVkF3c1d4ZTViOG5rdGxBUUNkS1p2cFZzVUN4Wjg2VnFnc0NZdExZTVg2VllselhNMWtaZEdTeGlGZFc0UTNwOWdHZ3M1ZVpNYVFDU1Jqb1VfRGc1V1piM1kyN2JkS0JSLXFuVDJRQUZIbDIzNXlRLWFHVFpxeGhqNVc3ajZrdm4ydE9WaElpdDIzWQ?oc=5)
 
 ---
 
@@ -116,19 +140,27 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Bird flu protection zone in North Yorkshire lifted](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
+
+2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FcU5ENDgxY3pMTkVXNTVKeHpJU1N2T1BpWFV3NTFkc3ZJNkJUZXdEQzdvSnBELXdrQ1cteUc5bGdEelpQVUVEMDlXMHUyMjRNeXlXTEc4ekRnM2Vq?oc=5)
+
+---
+
+### [New early 'clue' could be warning sign of 'first symptom of Alzheimer's' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
+
+2026-04-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFBDaFkxc1lCdFU1TDNDQkJTN0hSLWh1NzZCVW9USzZURU9NSENlWU91VFdtcEQ1NW03V0JXdWc2Z0Q4Rl9JTnllRHJ2TWI1SVd4cHhjMWZVTmlFZk9xaEt1U3EtcUZCWWRLRC1KbzUxbGQ2LUhQRE5YdFd1akROMFXSAYQBQVVfeXFMTkRuSTVjZDhhOWl4cWhKamptUktKU1UwdXVHeDNGbWFCRUpxcUFsTjhvekdhb3hna1lUYS0tZWlUWWNZV2VkVGJCa25KcWJ1UkM3MTIzYzh3YmNhNjkyazJvUXAtcXNramhzbHRmbzNyX09JdExrQ2VDaC1OWWJUbGpXTFVU?oc=5)
+
+---
+
 ### [Schlucken auf eigenes Risiko: Die dunkle Seite der Vitaminpillen](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG9oQ0R5NHVDQUlyVlI2SnJwSHVnaS0zS0F0MVRnY1d3TzNTMmJWSDJ0WXpYUldCREQyZ1o0NFF0c2Rzd3BIa1R4LWJvWGl6bWJKNHVaLXV1b1FqX2xGQzJUeDdEMlV0N1FYNXlod255d0R2MnQ0dy1jckNhVzF1ZGkxc0FlNE1qNXgxQ0d5cl9FOTU3czM2ZjN5bHQwUVU0ZE9ZYlRRS1dBMEhjcTlTVW9TZkg?oc=5)
 
 2026-04-09 <span class="news-indication-tag">MS</span>
 
 來源：[STERN.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG9oQ0R5NHVDQUlyVlI2SnJwSHVnaS0zS0F0MVRnY1d3TzNTMmJWSDJ0WXpYUldCREQyZ1o0NFF0c2Rzd3BIa1R4LWJvWGl6bWJKNHVaLXV1b1FqX2xGQzJUeDdEMlV0N1FYNXlod255d0R2MnQ0dy1jckNhVzF1ZGkxc0FlNE1qNXgxQ0d5cl9FOTU3czM2ZjN5bHQwUVU0ZE9ZYlRRS1dBMEhjcTlTVW9TZkg?oc=5)
-
----
-
-### [Tumorzelleigenes „Alarmsystem“ verbessert Wirksamkeit der CAR-T-Zell-Therapie - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOX252ZnBsdEpNUUQ1S3ZHMkhQRlV3ekZPNFExdkU1UEFlVzR1ckc1Wk9jazNBTkRHX0lMQnZZYWUwNG5pZ0VMdk9Dd1JrX3NvNGRTN01kNFhWMjIweThiRFFudW5HVVpXREY2X3J4aEVCWXByaEozdTNpYkxDYkwxekFXazJna0xSOUJqMDd0aXhVeEw4akJPUFNFSU9oQld5c3NWcU54bmJxa2V3MUVqOTMxM3NDbVV1OF8yUw?oc=5)
-
-2026-04-09 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOX252ZnBsdEpNUUQ1S3ZHMkhQRlV3ekZPNFExdkU1UEFlVzR1ckc1Wk9jazNBTkRHX0lMQnZZYWUwNG5pZ0VMdk9Dd1JrX3NvNGRTN01kNFhWMjIweThiRFFudW5HVVpXREY2X3J4aEVCWXByaEozdTNpYkxDYkwxekFXazJna0xSOUJqMDd0aXhVeEw4akJPUFNFSU9oQld5c3NWcU54bmJxa2V3MUVqOTMxM3NDbVV1OF8yUw?oc=5)
 
 ---
 

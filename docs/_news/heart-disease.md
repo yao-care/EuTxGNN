@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart failure（heart disease） 相關新聞"
+title: "cardiopatía（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart failure（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "cardiopatía（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart failure（heart disease） 相關新聞
+# cardiopatía（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
-<strong>heart failure（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
+<strong>cardiopatía（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -87,19 +87,19 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（2 則）
 
+### [Médicos alertan de que el riesgo vascular en mujeres está infravalorado - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTBLbDlKT2ZPbVhJQ21SY2hMdHdGeHBBREZmc1p4VWpHTFRRSHI0Zjd4ZnBKVWxjNHprU0dJN0ZpSjhhdVVHeFFrZlJJaU1lSlY0REFEcHluRmRvNjlEdGM2SXRjN2I0dm0xQlNYU1JtelJtZUszLTd4TEVpV3B6a1p5Qy1ERGJJYnRNQzRPRVlhSXZtYnk5bGNpbC1wRURHS3VEckRHdEZVVzFFazRDcVBtLXFDVG1TNVZKY243WC13MHhVZkpGR0t3?oc=5)
+
+2026-04-09
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTBLbDlKT2ZPbVhJQ21SY2hMdHdGeHBBREZmc1p4VWpHTFRRSHI0Zjd4ZnBKVWxjNHprU0dJN0ZpSjhhdVVHeFFrZlJJaU1lSlY0REFEcHluRmRvNjlEdGM2SXRjN2I0dm0xQlNYU1JtelJtZUszLTd4TEVpV3B6a1p5Qy1ERGJJYnRNQzRPRVlhSXZtYnk5bGNpbC1wRURHS3VEckRHdEZVVzFFazRDcVBtLXFDVG1TNVZKY243WC13MHhVZkpGR0t3?oc=5)
+
+---
+
 ### [El TAC, capaz de predecir la insuficiencia cardíaca años antes de aparecer - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
 
 2026-04-09
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFhsMlF3SDdsVUNBYWFfX29LbUJiMmszbHRGRk9nYWJUZjZITUczcWhzSmR2V2FiYWtBMW9tUnp4ZmpKMEtHVXJVUjVtczk2aE5nSWhzbGQ1anFZSlBSNXQ2clF4R1JqTGJHVkZpeWgyQy10Wm0wb3FEcTdtclhxb1REX2d4dVNpZ1Fsam1QVXBzRnpFbzNlWXVOZVFNOGhpOWFhalBpaUZrdi1UR3hiU1JRZXFpNW9wSUstYjVwLW5Oa2pid3QzbEgtaU3SAcwBQVVfeXFMTWNVLUtUYWxONXdBS2xfeFB5NTIxbldFWTJQTDJxaUdaTlRVcFB4QWZvXzZKOVlRenNyc25WR1VJQUhoU3Npd21ZU0JJbFhSYzJtcV9iS0ZDc3ppNzN2akgyenJsd25heXdFWmRNaGxYcTczSllmTUZBWTlKblhvN2gwZjJaaFlRWjZGdXBwbmhwbHc2TGZBVVBtNEY5dllqR1N6T3Vlb1ZHdDRLOVl4b2dYNVltUmRPS3B5cXVEX2gwZWpaYVo4ODJPNlJs?oc=5)
-
----
-
-### [Scientists develop AI tool to spot heart failure risk five years before it strikes - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
-
-2026-04-08
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOazZlWDNLUUgzOG01RERKTUhYVmdnZXpObjdsS21xZ0luTUhxcWJEVzJsQjIzWUREY1Z0NTd3QlQ5OERZR0dRLWhvcnBPY1pxcnp6M2VkVHlTTlk5R2xXcS02RTlyTTJXdzltbnpWbFd6UkI0enRXR0RwaGJZeFlnS1kxZjFqck9seE9UX0RGdUtBUkJyM0Q3aGk5bHlSQWxnOWc?oc=5)
 
 ---
 
