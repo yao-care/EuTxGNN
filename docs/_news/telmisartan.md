@@ -46,7 +46,7 @@ permalink: /news/telmisartan/
 
 ### [WATCHMAN FLX und neue Blutverdünner revolutionieren Schlaganfall-Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
 
-2026-04-11 <span class="news-indication-tag">Schlaganfall</span>
+2026-04-11 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Demenz-Prävention: Lebensstil senkt Risiko um bis zu 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdENZUnFYcXNsM3czOVBVM2hCb2YwNG4weURzR0RWWlhtVFVzcTRRSWk2QUlnLUdOX2tkZllUdVA3ZE5BN211N2pETmc5NDFKS29yWEpaUnltZzlpeFRuaUJoOU9PZXdMbWxJdmNUZElZUmtPYzZZM19FQ0NfYWF3V19uZ2o3RDcwWDFnUmNYXzQ5cXRtdWZzSkxVczQyZDdjM1JmM0hXMWQtVGNwM3VaSHhnTC1keTMzZXZURzBKQQ?oc=5)
+
+2026-04-11
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdENZUnFYcXNsM3czOVBVM2hCb2YwNG4weURzR0RWWlhtVFVzcTRRSWk2QUlnLUdOX2tkZllUdVA3ZE5BN211N2pETmc5NDFKS29yWEpaUnltZzlpeFRuaUJoOU9PZXdMbWxJdmNUZElZUmtPYzZZM19FQ0NfYWF3V19uZ2o3RDcwWDFnUmNYXzQ5cXRtdWZzSkxVczQyZDdjM1JmM0hXMWQtVGNwM3VaSHhnTC1keTMzZXZURzBKQQ?oc=5)
+
+---
 
 ### [Un premier cas européen de grippe aviaire chez l'homme confirmé par l'OMS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDZkZkxBS0lKc3NxdFJWWFV5SDJrQWtuSi03X2JZU0U1cTNVdC1ycXJIV1VzYzNVampqLUV2eXpxNVp2c3FZaDltYmRjTTVtd19KbUY3NGJEMXJjYVZjUVdVaXc1Wi1tZVJzbkZfWHV2TUJhMVlJVUdneE9fUzRuMC1BWk5yWWtHMmZWcENCa0FOY0dYMDhCTWpLRnpRY0hUVmpaVEdnRnMzbUFHbjhLYkIwN0Z0d0x30gG-AUFVX3lxTE9EN3NkSWV3TlJpa0MxMDh4RGlGeTFDYWNtVVNhcnExOE9BNTdiNTNRWGNxX3RJWUwxaVpEMG9pVTR1NV9yblExX2RzdEhpQlFjZi1ZRFBpeF91dWduQnd3dmxRQXlfYWtvZlUtWUVkUFY4d1p5MHNMUFFScUNCS0FwOXVyYmQxQ1VUdGxvSEFrWkNxQ0RKY3VpTlVxQjVfQjhCUHY2TjlKQUp0VDhJU1lrSDhKVWhocWJyZHJ2REE?oc=5)
 
@@ -64,11 +72,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [From skin changes to headaches... the six signs you're taking too many vitamins - Daily Mail](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGJyQ3I1dkhYSW0yZkFMcjlGTWpvRlJ0Mk14OGtyQmV1S191cTdtT1I0cjZ4ZkRWaHhqRkNld0dJY083M1ZqNWU4cmZ6SlRnZzVrYjNsZ1E5NlhHYXpYYnZuVmNkb1FiNkZwTmJUdkQ3akEzeUd3bFE2V2h2dUY4OU5lOGFUdWhYSFFjaVhCTmptSVU2R2JacDhUSdIBoAFBVV95cUxPbFNtZUNCUXdvZE5VcXNKNENPV0xVNXZ5MVhuMUt0NWU1STdKNHVUUWMxUEExdVhZNV9HOE9NTTVjOU1McU96VVVFX3ZIZWpuNkFPblRfeHhFV091Y2JfbkJBUWRTMDZId0dtLU9xcnNWc3N5ak5sR2xnelZ4NTl6SndiNm8tTVBUVGo0X21HQ2JLcXU3b2FVMmFVcVVFa2pP?oc=5)
+### [Warrington dad says home test saved life after cancer shock - Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
 
 2026-04-11
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGJyQ3I1dkhYSW0yZkFMcjlGTWpvRlJ0Mk14OGtyQmV1S191cTdtT1I0cjZ4ZkRWaHhqRkNld0dJY083M1ZqNWU4cmZ6SlRnZzVrYjNsZ1E5NlhHYXpYYnZuVmNkb1FiNkZwTmJUdkQ3akEzeUd3bFE2V2h2dUY4OU5lOGFUdWhYSFFjaVhCTmptSVU2R2JacDhUSdIBoAFBVV95cUxPbFNtZUNCUXdvZE5VcXNKNENPV0xVNXZ5MVhuMUt0NWU1STdKNHVUUWMxUEExdVhZNV9HOE9NTTVjOU1McU96VVVFX3ZIZWpuNkFPblRfeHhFV091Y2JfbkJBUWRTMDZId0dtLU9xcnNWc3N5ak5sR2xnelZ4NTl6SndiNm8tTVBUVGo0X21HQ2JLcXU3b2FVMmFVcVVFa2pP?oc=5)
+來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
 
 ---
 
@@ -77,6 +85,14 @@ permalink: /news/multiple-sclerosis/
 2026-04-11
 
 來源：[MLive.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVjOXVVMUtmTDVxU1Jqd3daVUpwLUY1Z2t3c1RjTmlBQ1licGRFMTkya2N0UFU4X01rSmY4Z3FvT2V6WVlxRXBGWEJoZExDVmRnYlVKZUtmY05tLXo3MXo3aVEybElZR3JKQ0E0ZkVVUEhEeUhSdVJlbEdIZnhSdlNqQTZRVG9lR2hLNlRJaTRRUWhsRmlJ0gGrAUFVX3lxTE5hRkFUZ2lQSmZZN2Q4M2hsQ2VwUUZzak53R0k3RnlrdUdrSWtPckUwUmpkdHBZY3ZKMXl3aHRSMnM0RmRiLU90TzJSUzA0RlAzSlozZTF1ck5IanpvOUVDNTd0Ul8xR1lSN0JlSUZJQ3o2dlFUbXRuRnVGcExudlMyTzlJdUg5TDBCWEtnaXRXZTNJSFh1V3lGNUpRYkR5QV9SUTlHV2hPem1qNA?oc=5)
+
+---
+
+### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+2026-04-11
+
+來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
 
 ---
 
@@ -93,14 +109,6 @@ permalink: /news/multiple-sclerosis/
 2026-04-10
 
 來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWTJZT0RuZnVkak9RZUp5TkxoTzBOdFBwb0V1dDFfNS01UE1kZVBVZGphNEZkSl9uaW9NWDNEdFNJNV8xNTdzLThJdDB5UjRMb0pEcTh4LXJ6WmFoOTdmRFlPQjlSQ1pvaEFvWXVUVkRuOUg2UjBiTXBuNDFfdEFRd01BLUtQc2g2bnBTU1F5T0NuSThzOXNVNkVzdzQ0LUp1M0lla1J2RVlSMXUzNzk2TUtfZW1ETEZtbWhMdm1pVDZmUVREaHYxRXNwejdDMjRfSk1aWkR6MXJsUQ?oc=5)
-
----
-
-### [Dancer with MND performs on stage again through digital avatar](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13X0hWZlJXR1Y3RmgtR292NHhrWkVyRUZBdjJmZXk4RExlSmp2bS1DSXdIN2xJOXJwaDg2U3dUNWM5RzRvUUdZRDlWWHJMakhwalBOUllVVzhsZ3pM?oc=5)
-
-2026-04-10
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE13X0hWZlJXR1Y3RmgtR292NHhrWkVyRUZBdjJmZXk4RExlSmp2bS1DSXdIN2xJOXJwaDg2U3dUNWM5RzRvUUdZRDlWWHJMakhwalBOUllVVzhsZ3pM?oc=5)
 
 ---
 

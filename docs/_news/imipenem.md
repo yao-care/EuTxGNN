@@ -14,7 +14,7 @@ permalink: /news/imipenem/
 ---
 
 <p class="key-answer" data-question="Imipenem 有什麼相關新聞？">
-<strong>Imipenem</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Imipenem</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/imipenem/
 <p><a href="{{ '/drugs/imipenem/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（17 則）
+
+### [El impacto silencioso del síndrome de Cushing en la salud cardiovascular y metabólica - Publimetro Colombia](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTcwSXpFd0x4Z2pPLWVReVpqX05DZE90YkQ3clNXMWY5S0FoX0l2aXphYkpvdXJMUDN0OVR5TUZVZTBfZ3pqYm12U1drOU1VSFZuM21iN0lILUlSbWtzeXpRSjlmQmlUallJekZndGQ1bXlhYWI5U1RQdlQwanhTZzhRN2tjT1BmLThVR0s2S2JwMWpWZ0xiQjVDdkl1TldFdk0wLUh2VXdrd0dEdzNWcFM0ZnNRVUV6RDNWaEVLVnRoNkY4SFFfWkJyT1dWQjJl?oc=5)
+
+2026-04-12 <span class="news-indication-tag">tumor</span>
+
+來源：[Publimetro Colombia](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTcwSXpFd0x4Z2pPLWVReVpqX05DZE90YkQ3clNXMWY5S0FoX0l2aXphYkpvdXJMUDN0OVR5TUZVZTBfZ3pqYm12U1drOU1VSFZuM21iN0lILUlSbWtzeXpRSjlmQmlUallJekZndGQ1bXlhYWI5U1RQdlQwanhTZzhRN2tjT1BmLThVR0s2S2JwMWpWZ0xiQjVDdkl1TldFdk0wLUh2VXdrd0dEdzNWcFM0ZnNRVUV6RDNWaEVLVnRoNkY4SFFfWkJyT1dWQjJl?oc=5)
+
+---
+
+### [I paid £6k for botched Turkey cosmetic op – it went so badly docs thought I had cancer - The Scottish Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXdoYlY3MkNqT3lGLV9TT1RIWVRPU2pxbWI1SzdZU2ZzbV90ZU9DdHMtYXZ2VkU2WDBQeWNsMDIySjRUcnZBSS1QSEtiTUVPcmw1c0FqVjRob2RjQUIxLTZKemtzSmxkSHp1aDBub3RlVUNQUi00Ynp6aW5Ta1ltdUJQRmxfTVVTemJoNUVsME55UXpybEVWUmhSbVNGSTVHT3c1U1hPMTk?oc=5)
+
+2026-04-11 <span class="news-indication-tag">cancer</span>
+
+來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXdoYlY3MkNqT3lGLV9TT1RIWVRPU2pxbWI1SzdZU2ZzbV90ZU9DdHMtYXZ2VkU2WDBQeWNsMDIySjRUcnZBSS1QSEtiTUVPcmw1c0FqVjRob2RjQUIxLTZKemtzSmxkSHp1aDBub3RlVUNQUi00Ynp6aW5Ta1ltdUJQRmxfTVVTemJoNUVsME55UXpybEVWUmhSbVNGSTVHT3c1U1hPMTk?oc=5)
+
+---
 
 ### [HPV-Infektion führt zu schwerwiegenden gesundheitlichen Folgen - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxQajkwU1BaQ2lwX2Rab3dVbXBlUUdPM29aT25fRVEzZ0Z2SkFlc1p5alBzWnFNMnBndURQYTB1cWNlVzdGOU4zcVFuNUFaQjViVlBOU1RlYXRvbjZiTjNTaHN0cUQwNXpwZmNMaHZiRVNnV0NadFpNbER2cVB6U3hodXNYRF81QmNDMVFZLV9yRW40akpKUk9JNG9ydw?oc=5)
 
@@ -52,27 +68,27 @@ permalink: /news/imipenem/
 
 ---
 
+### [Warrington dad says home test saved life after cancer shock - Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
+
+2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
+
+---
+
 ### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
 
-2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
 
 ---
 
-### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[ladbible.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
-
----
-
-### [Forschende entdecken brisante Darmkrebs-Spur: „Anzeichen, dass sich etwas anderes im Darm verändert“](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFR6M001OUxjLWYxQWJtR2s5bTVfdzVfQmxTdEVQOTMyd3JWTmJGRzNZYk5DOVRFby1pUnV6VWNoM2E1T1JGdnVUNlNBNjRoYWJDWlhscHhlQVFSSWxxYzRPNWZmRnM4bjJ0MTNmcGc3c3g2X1JxZ0VPX2lDYldTR2hLdzNNSlpqckVsbzhFbldGQlB1SDJsd2Z2YXNXelZEMEZjVU5uWE9hd3VhT2MtUmtR?oc=5)
+### [Forschende entdecken brisante Darmkrebs-Spur: „Anzeichen, dass sich etwas anderes im Darm verändert“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmlaYWtpYzl0cy1VdDZ2ZUNOTk54TlI2YjF5X1lWZjVkZ09SR1BQek5HMEVOTVpnLXlVNFF5NVJVNjBkUFpmRDAwYWZzRmlfM3AzcEpnSDVuRGgwazNoUDl5TWhmSVQ2MjI4RVB5YzNDelVicHdJNEF3dTRTc3h0UGQ4ZERwLVZsamYwR0V2djFUbWhwcU45UEs3SkdwS1YzTmgtUGsyeVZQZ1cy?oc=5)
 
 2026-04-10 <span class="news-indication-tag">Krebs</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFR6M001OUxjLWYxQWJtR2s5bTVfdzVfQmxTdEVQOTMyd3JWTmJGRzNZYk5DOVRFby1pUnV6VWNoM2E1T1JGdnVUNlNBNjRoYWJDWlhscHhlQVFSSWxxYzRPNWZmRnM4bjJ0MTNmcGc3c3g2X1JxZ0VPX2lDYldTR2hLdzNNSlpqckVsbzhFbldGQlB1SDJsd2Z2YXNXelZEMEZjVU5uWE9hd3VhT2MtUmtR?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmlaYWtpYzl0cy1VdDZ2ZUNOTk54TlI2YjF5X1lWZjVkZ09SR1BQek5HMEVOTVpnLXlVNFF5NVJVNjBkUFpmRDAwYWZzRmlfM3AzcEpnSDVuRGgwazNoUDl5TWhmSVQ2MjI4RVB5YzNDelVicHdJNEF3dTRTc3h0UGQ4ZERwLVZsamYwR0V2djFUbWhwcU45UEs3SkdwS1YzTmgtUGsyeVZQZ1cy?oc=5)
 
 ---
 
@@ -116,6 +132,22 @@ permalink: /news/imipenem/
 
 ---
 
+### [I had a dormant STI from oral sex for 30 years — then it became life-threatening](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXN2LTNmWG9EMUVrd25VSl80WG14YzZ1QzNaek0zUGJLc2w2U3Y2NXNRVUw1OEduelJKVVVzQ3hZRndZZW9PYVROVS1tYnIxVkpnUTJBSjFSTXY3eEVLeng0UUJ5cmlSZnpxR285Z0J0eVFKTkc3cU9lWlRvU2RFc1hNcXlpTm9weTVnUdIBkgFBVV95cUxPRWtIVVFqZ3B6SW4wTFZUT0tKcHVsUGxaQU9vTXozVkFWbjBycGNST3VLUmx6bHUzM041OUZvbnY2Zm5hSE10eWthYUVpTUp5bXlJeW4xQ0FsRmMzcTh5UWt4bjBGTEt4U0FtajZKNzNfOUlIUkl3NWZfRGZPY0lFeVptV1pMZEtKbXZNVWx2UHNvQQ?oc=5)
+
+2026-04-10 <span class="news-indication-tag">cancer</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXN2LTNmWG9EMUVrd25VSl80WG14YzZ1QzNaek0zUGJLc2w2U3Y2NXNRVUw1OEduelJKVVVzQ3hZRndZZW9PYVROVS1tYnIxVkpnUTJBSjFSTXY3eEVLeng0UUJ5cmlSZnpxR285Z0J0eVFKTkc3cU9lWlRvU2RFc1hNcXlpTm9weTVnUdIBkgFBVV95cUxPRWtIVVFqZ3B6SW4wTFZUT0tKcHVsUGxaQU9vTXozVkFWbjBycGNST3VLUmx6bHUzM041OUZvbnY2Zm5hSE10eWthYUVpTUp5bXlJeW4xQ0FsRmMzcTh5UWt4bjBGTEt4U0FtajZKNzNfOUlIUkl3NWZfRGZPY0lFeVptV1pMZEtKbXZNVWx2UHNvQQ?oc=5)
+
+---
+
+### [Tumore alla prostata, cure sempre più efficaci: cresce del 55% il numero di uomini vivi dopo la diagnosi - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxQS1NXZGplMzBMeVFsRl9DU2NHT3ZaQWpYY1pVMHo3VGZXdTN1ZVFEZXJyc1lLQ3RhUEVOd1MwdWp4Z01GUUgtNUwzcWRMMG1TbGN3aUpTSUlYMEFRNVljeW1MS2hSSDhyWXpnZEJfUFRFQzJUbFdzbFlkS0dwbkM4ZjBvckU2Zm9YcC1MTU1JZ3lobzJUdExYdmZmODVDOWloc25DWF90SFZmMnBvWVk4SXpNS3djUmFRUG9SaWZKUFZia0pDRVh3cllKZjdmaWNBd01VUjRnbERqTXVXa3owb0NRQkhJQ0JLT21BYldSTjVpbFNHbjF4MVBUNUlXV3hqSlVBWS1GU0ozZndDTmZhREZFRWRFcDZhNW9vVmRSRlNFMHlETWN1MXJ5TExQQdIBswJBVV95cUxQaU1HTHMyUHlEM1h0dmc4UG8tS1JSTU82S2duS2x3VDVhQTBTN0NDMHlxekk5R09iOHBZYm9EMVNERDJmV1ZJTm95MXhqeGtla3BfNTN2VzBDMUw0VVJ0ZTdrM3BJdVkxMm5YLXBuREJRWXVKeVgwQ2J1SzB3MTEyWExfcjhjRnNMMjdzMmprXzliVG5jc3p3cmVyYl9sMEpLMTlpM19MdHplZE9mOW1LaG9ldmxDVW9SUHVnRFFuVUtBWDJrV0Y2Vm9ESEo0ZEk4TWM0Y05IY2wwYURmZWlJR3VkX3VjRWlodVYwSFltOFN5TzdFLXl0anRwVzUxWFFRUS03dWZaTkgtX2dnalZEcF95OGtrTnlZSFBKdUR0RDdZaFljM1F4SXlYNDdzcDdWS0xB?oc=5)
+
+2026-04-10 <span class="news-indication-tag">tumor</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxQS1NXZGplMzBMeVFsRl9DU2NHT3ZaQWpYY1pVMHo3VGZXdTN1ZVFEZXJyc1lLQ3RhUEVOd1MwdWp4Z01GUUgtNUwzcWRMMG1TbGN3aUpTSUlYMEFRNVljeW1MS2hSSDhyWXpnZEJfUFRFQzJUbFdzbFlkS0dwbkM4ZjBvckU2Zm9YcC1MTU1JZ3lobzJUdExYdmZmODVDOWloc25DWF90SFZmMnBvWVk4SXpNS3djUmFRUG9SaWZKUFZia0pDRVh3cllKZjdmaWNBd01VUjRnbERqTXVXa3owb0NRQkhJQ0JLT21BYldSTjVpbFNHbjF4MVBUNUlXV3hqSlVBWS1GU0ozZndDTmZhREZFRWRFcDZhNW9vVmRSRlNFMHlETWN1MXJ5TExQQdIBswJBVV95cUxQaU1HTHMyUHlEM1h0dmc4UG8tS1JSTU82S2duS2x3VDVhQTBTN0NDMHlxekk5R09iOHBZYm9EMVNERDJmV1ZJTm95MXhqeGtla3BfNTN2VzBDMUw0VVJ0ZTdrM3BJdVkxMm5YLXBuREJRWXVKeVgwQ2J1SzB3MTEyWExfcjhjRnNMMjdzMmprXzliVG5jc3p3cmVyYl9sMEpLMTlpM19MdHplZE9mOW1LaG9ldmxDVW9SUHVnRFFuVUtBWDJrV0Y2Vm9ESEo0ZEk4TWM0Y05IY2wwYURmZWlJR3VkX3VjRWlodVYwSFltOFN5TzdFLXl0anRwVzUxWFFRUS03dWZaTkgtX2dnalZEcF95OGtrTnlZSFBKdUR0RDdZaFljM1F4SXlYNDdzcDdWS0xB?oc=5)
+
+---
+
 ### [Five early signs of bowel cancer everyone should know - The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
 
 2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -124,51 +156,11 @@ permalink: /news/imipenem/
 
 ---
 
-### [Exploran una nueva combinación de fármacos en tumores refractarios - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2N4MzhmQXRlVlJyU1VubXVSRkdRN0ZEUVpCbERuMldLOWpodF9JRWZvYy1telBuUC1ha0s2czMxekpVX2h5ajZoZzg0Y1RhcmFKUnZCZXBwbHFQOGwzRVdQbkZhVFJTQ2d5OE9aczU1LTdsVkJ0cFgtRmd4TFBQdE81akQ0VTY1MV9rZnhCaVgzTTZxZGdaU3ZGcmhBM1JWU0p0Wm5hWngxeVpkZGVEX0xRdDRJcnc0M2I3ZE530gG4AUFVX3lxTE5TMmhXUXQ0WUR0ZUI1UFZzUi1XcEJQd1BTOG5YcHFqWHBTNV9yTS1UVUFxRjZ3OU15OGI1QzBoQ05IMmE1ekh4akd3R0hGa2IwVTJEcGtwNU9WTEFBejJzNWxxZkh4U3RIYzVFRW9lZVFWZkVEN1pYb2JkczJqTnFTYTlJbjc5eW9YNnpNM0g4VGEzNTd1M21NOGdwS3N6T0ZETVBJVXBuWnI2bklMM2ZPNm1fRnV0RTE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxNX2N4MzhmQXRlVlJyU1VubXVSRkdRN0ZEUVpCbERuMldLOWpodF9JRWZvYy1telBuUC1ha0s2czMxekpVX2h5ajZoZzg0Y1RhcmFKUnZCZXBwbHFQOGwzRVdQbkZhVFJTQ2d5OE9aczU1LTdsVkJ0cFgtRmd4TFBQdE81akQ0VTY1MV9rZnhCaVgzTTZxZGdaU3ZGcmhBM1JWU0p0Wm5hWngxeVpkZGVEX0xRdDRJcnc0M2I3ZE530gG4AUFVX3lxTE5TMmhXUXQ0WUR0ZUI1UFZzUi1XcEJQd1BTOG5YcHFqWHBTNV9yTS1UVUFxRjZ3OU15OGI1QzBoQ05IMmE1ekh4akd3R0hGa2IwVTJEcGtwNU9WTEFBejJzNWxxZkh4U3RIYzVFRW9lZVFWZkVEN1pYb2JkczJqTnFTYTlJbjc5eW9YNnpNM0g4VGEzNTd1M21NOGdwS3N6T0ZETVBJVXBuWnI2bklMM2ZPNm1fRnV0RTE?oc=5)
-
----
-
-### [Pourquoi l’immunothérapie ne fonctionne pas (encore) contre le cancer du pancréas - Le Figaro Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEo3YUVWUWFrck9vc3RKU1pqRkpNMHhXYUVfenFPRVRwUkNYQV9mTFJRSUttcFRIZjRYUHlGSUVwYy1KVVhOWVh2YV9xcXNwUHYwTnJqaGZESW5NdGFPVUxSN256S3lHRXBoSnZjVGZ4bHFudW55YzdlQmJoWGZ6Y1N6WFMteUVuVEMtdFBuYWJ6dFBEY2ZDWGZHdHJtYWxWcU5reXoyR2lWVHQ1eXVnb3NwN2JKV2xwNWRMYmJZang?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEo3YUVWUWFrck9vc3RKU1pqRkpNMHhXYUVfenFPRVRwUkNYQV9mTFJRSUttcFRIZjRYUHlGSUVwYy1KVVhOWVh2YV9xcXNwUHYwTnJqaGZESW5NdGFPVUxSN256S3lHRXBoSnZjVGZ4bHFudW55YzdlQmJoWGZ6Y1N6WFMteUVuVEMtdFBuYWJ6dFBEY2ZDWGZHdHJtYWxWcU5reXoyR2lWVHQ1eXVnb3NwN2JKV2xwNWRMYmJZang?oc=5)
-
----
-
-### [I’m a cancer specialist – here are six dangerous health myths you should ignore - The i Paper](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWlBveFhGV1lLd200REdoSjI4VEtUNTVoOGhaeVhRTEZNUEc3V3dQV050dUQwQzJkYjFPdzRseFZ1SW9fbHNKNER4NmNPZ213eXpqQk9Mb0dfMjZIcDNSYlZVc3Q3UlB0OVpEQ3puUW9jQVhHQVVIMkk4MHJaa3Btd09valRnTHZDTXlqU1dCd2JfVFhvSjhobWlYQQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWlBveFhGV1lLd200REdoSjI4VEtUNTVoOGhaeVhRTEZNUEc3V3dQV050dUQwQzJkYjFPdzRseFZ1SW9fbHNKNER4NmNPZ213eXpqQk9Mb0dfMjZIcDNSYlZVc3Q3UlB0OVpEQ3puUW9jQVhHQVVIMkk4MHJaa3Btd09valRnTHZDTXlqU1dCd2JfVFhvSjhobWlYQQ?oc=5)
-
----
-
 ### [Il batterio mangia-tumori che li divora dall'interno: cosa dice un nuovo studio belga - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RzcU5rZ2VrNVZ3b2JoUWxWY2xLN0EtWVV5REN0TFRUM25WYXh0NVI0NVpvUlBja0VkMkpyUzc0VUhVcWh6bW5NMmFDeFZsT3JIYTRVZnI2T3QxazFFaC15OC0zRjdBc1BmSFJ4N1M0TTVwcTU1emc2bTZWYkhLdG1xaFlDV0I4NGhDNGhIVVJCd0ZWS2t5cjFTcms4WEZXNUJ3YmRzV0FBUdIBpAFBVV95cUxPU21uQmJaZXNHREhpZFlvWURMekhYZ2VWaC05eGE1NXJBSm5UWTVhQUNaWk05QVFuTm9kYUtFZzhkcDhGYk9GSnZZRnRERmI5dE1yNTlCU0YwbFZ4SVNCbUFKZ1VFcklFUUl5TUlGbW1IOWFVbDR6VkVhRGVHZ3QwdlZiVlJaRjgtUHNnLVA5VmVWak9QbTdEVjFqd2NxOVd4NEswNA?oc=5)
 
 2026-04-10 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RzcU5rZ2VrNVZ3b2JoUWxWY2xLN0EtWVV5REN0TFRUM25WYXh0NVI0NVpvUlBja0VkMkpyUzc0VUhVcWh6bW5NMmFDeFZsT3JIYTRVZnI2T3QxazFFaC15OC0zRjdBc1BmSFJ4N1M0TTVwcTU1emc2bTZWYkhLdG1xaFlDV0I4NGhDNGhIVVJCd0ZWS2t5cjFTcms4WEZXNUJ3YmRzV0FBUdIBpAFBVV95cUxPU21uQmJaZXNHREhpZFlvWURMekhYZ2VWaC05eGE1NXJBSm5UWTVhQUNaWk05QVFuTm9kYUtFZzhkcDhGYk9GSnZZRnRERmI5dE1yNTlCU0YwbFZ4SVNCbUFKZ1VFcklFUUl5TUlGbW1IOWFVbDR6VkVhRGVHZ3QwdlZiVlJaRjgtUHNnLVA5VmVWak9QbTdEVjFqd2NxOVd4NEswNA?oc=5)
-
----
-
-### [Rischio tumori più alto per quelli che non si sono mai sposati](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVTZDMVdXYXRaOGdkSHhnb3c1Y21UUVFUYmF1TlBmT2FVdTBoWWdMRFJHTHN3d21hNEhlb0pIOHlKLXkxRnR1Y3BxNC1XRDUxWmRDRy1hYS1FQ3B1WTVMX1l0RDdxVEVRTXVVZE9GelhrOHZYOENYS0thLUZnOTAtYWFpYWc?oc=5)
-
-2026-04-10 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVTZDMVdXYXRaOGdkSHhnb3c1Y21UUVFUYmF1TlBmT2FVdTBoWWdMRFJHTHN3d21hNEhlb0pIOHlKLXkxRnR1Y3BxNC1XRDUxWmRDRy1hYS1FQ3B1WTVMX1l0RDdxVEVRTXVVZE9GelhrOHZYOENYS0thLUZnOTAtYWFpYWc?oc=5)
-
----
-
-### [Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
 
 ---
 

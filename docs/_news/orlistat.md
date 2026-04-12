@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,19 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Genes y obesidad: por qué los fármacos para bajar de peso no funcionan igual en todos los pacientes - El Mostrador](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSzNnaFBQVmRHcWZMZXpRZzdtanp6N3ZocHBPcGJKekhiSDNrUTFjMnBEM3RDMVMxWGttNWZvSWp1MEZyZ0R2SmcwTk9fTmZUb2JkY01QWkFDUzJ5M21Wc0hlSXVkTlN1ZURXUXB5ZDNQeVRNRTlZcjJ3aHNYMS03OFl6c0JKUThxYnZ5X3l4cnRyMG9pS0p4WGZNd2U5WVJRblZVUHNVUkFNOWwtbzJYSXQwMDR5TFRoOF9SeHZnUGhfbTlMb2ZwTHVtcFRxWXVGX0hfMnA0U2p0Rmtfemdxc0FpaEZWaFZBMEc2eHRfZTQzX2cyT3c?oc=5)
+
+2026-04-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[El Mostrador](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSzNnaFBQVmRHcWZMZXpRZzdtanp6N3ZocHBPcGJKekhiSDNrUTFjMnBEM3RDMVMxWGttNWZvSWp1MEZyZ0R2SmcwTk9fTmZUb2JkY01QWkFDUzJ5M21Wc0hlSXVkTlN1ZURXUXB5ZDNQeVRNRTlZcjJ3aHNYMS03OFl6c0JKUThxYnZ5X3l4cnRyMG9pS0p4WGZNd2U5WVJRblZVUHNVUkFNOWwtbzJYSXQwMDR5TFRoOF9SeHZnUGhfbTlMb2ZwTHVtcFRxWXVGX0hfMnA0U2p0Rmtfemdxc0FpaEZWaFZBMEc2eHRfZTQzX2cyT3c?oc=5)
+
+---
 
 ### [WATCHMAN FLX und neue Blutverdünner revolutionieren Schlaganfall-Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
 
-2026-04-11 <span class="news-indication-tag">Schlaganfall</span>
+2026-04-11 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
 

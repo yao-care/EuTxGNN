@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Síntomas de infarto en mujeres y cómo identificarlos a tiempo - Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
 
 2026-04-10 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
+
+---
+
+### [The simple fruit pairing that can improve heart health naturally in just 8 weeks - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N?oc=5)
+
+2026-04-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N?oc=5)
 
 ---
 

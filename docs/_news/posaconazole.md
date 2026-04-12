@@ -44,6 +44,22 @@ permalink: /news/posaconazole/
 
 ## 相關新聞（26 則）
 
+### [On savait que le jeûne affamait le corps, mais des chercheurs ont découvert qu'il affame aussi cette maladie](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTVh0bkpBRFFpLXJ2WG5yeVFGOGRPTGRYX3dKaWI5aWVZemdGZENtRXNNUkFJbHhtTDFiRWJIQmZtVW5hQi1nNS1aWUFocmJPWHNsdUZ6aU9oaGRJUGlKNUplWk9WNGp1YnMyM1R5M21EY2ViZVRJUjhWeXlXaGt0RWo4UlFxR1hPU3dQWmQ0clBiYkVNQmdhZHh6NzY1NDN1RF9KZmd3enJqWThoZVJxXzlRWVJZb2dCaTlZa1BOR3UwUkhkVEFpbGxB?oc=5)
+
+2026-04-12 <span class="news-indication-tag">AF</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTVh0bkpBRFFpLXJ2WG5yeVFGOGRPTGRYX3dKaWI5aWVZemdGZENtRXNNUkFJbHhtTDFiRWJIQmZtVW5hQi1nNS1aWUFocmJPWHNsdUZ6aU9oaGRJUGlKNUplWk9WNGp1YnMyM1R5M21EY2ViZVRJUjhWeXlXaGt0RWo4UlFxR1hPU3dQWmQ0clBiYkVNQmdhZHh6NzY1NDN1RF9KZmd3enJqWThoZVJxXzlRWVJZb2dCaTlZa1BOR3UwUkhkVEFpbGxB?oc=5)
+
+---
+
+### [WATCHMAN FLX und neue Blutverdünner revolutionieren Schlaganfall-Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
+
+2026-04-11 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
+
+---
+
 ### [Sauerteigbrot: Wissenschaft bestätigt gesundheitliche Vorteile - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjZHNmVTMUxVczlEenBpYkxfdld0TVVZa2dnbGw5bDJPeHRobkpiZkhaU09mZi1TVzUyczdSRzNjYzBEX3RNcWltWkJjVWNtbV9STndEWU5YN3VrSUp1ZVRveVJTYzBzbVdralNHVjJVVFBrVTJFTTVTTzc5Zzh5aFJ2X09Xem9Ydjg3V2lnUk4xWmVBWjlJWmdTcG1GR0tQSW0zbW51eE9qR2JXVElzNTR0MXpPYU13dWlWanZB?oc=5)
 
 2026-04-11 <span class="news-indication-tag">AF</span>
@@ -76,6 +92,14 @@ permalink: /news/posaconazole/
 
 ---
 
+### [Warrington dad says home test saved life after cancer shock - Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
+
+2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
+
+---
+
 ### [Wissenschaft - Hoffnung für die Diagnostik: Bisher unbekanntes Protein hilft uns beim Hören](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdUlZMk9lRklVZXdLMldHVW10dGtmVTRTN3pOcGVoSVhrdnVzWlJGWUxGQ3NKcmN4N2VNYmZBS0RraTNjMml4dHZEUk15R0RYMTktVjUtYXpIc2k1cl9iSHZ4NU1RellHbnpmcmhwMGNLWGxBa1ZHOWZlWmZtNlZLMmVaRFZVLUlQcDNsdUJ3dTJLTE8xSWlCbVRDczBabXZDTzRLdEhESFpTRTVZOGxrNy1DWjNuWldMcWcwc0JOQU56WDVTbzFzTjZDNmxuaV9wVHJRaHktdC12Qks0T1pxX1p4am1UWTBaRThtUw?oc=5)
 
 2026-04-11 <span class="news-indication-tag">AF</span>
@@ -94,7 +118,7 @@ permalink: /news/posaconazole/
 
 ### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
 
-2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
 
@@ -116,6 +140,14 @@ permalink: /news/posaconazole/
 
 ---
 
+### [The simple fruit pairing that can improve heart health naturally in just 8 weeks - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N?oc=5)
+
+2026-04-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N?oc=5)
+
+---
+
 ### [Was Sehen mit Demenz zu tun hat](https://news.google.com/rss/articles/CBMijAFBVV95cUxNXzVlalBBODhfY2lnLWNvdTRqWGhxVjVsbHpqeVdpYmpucG5vSUh5ZzAxbmExOFNYZEc5OHVoWHdlTlBNamFvRUctSW1oenJVT2VuVzRKbnp4MTl0RnVGb0I4T0w0ZTRlUnZ1bFBneGl2X1JjOTRLVG9OdmJ2azhHXzdoanpYMUNCeG9IVg?oc=5)
 
 2026-04-10 <span class="news-indication-tag">AF</span>
@@ -129,14 +161,6 @@ permalink: /news/posaconazole/
 2026-04-10 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWk5WWpxTDdaZm80aVNjUmRnMFlYVXl4TFM1VmVHYU5hMUE2elI2a0pXS1oyNkM1ZTZEc3pQZ0lNQk8zdC1jbVh5ZHRuc2RlakhaRmN3dkhIaVMxbmZJc0JzYXg5bHJYc1pnQ0wwR01rSXFJR0U3WXlDTXoxV3BuMS1XdnA2VW1HR3ZEQzlsYlZ4blo3TmZjVklrbmN0YkJxMVlUUDVHck5GYTNidXp3N1RhUG1kSVY2cXJNLTBFT283SEZwV01QRzB3?oc=5)
-
----
-
-### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[ladbible.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
 
 ---
 
@@ -177,14 +201,6 @@ permalink: /news/posaconazole/
 2026-04-10 <span class="news-indication-tag">AF</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaGxDQmhpcHVOMmdEcXd3WnFJN3Byd1BUb1JfREI0Sm1nanRRV0JiYTY4NXlsVUVfNWluSEJ2aGdJQ3RfWFI5RVI0X3BpOGdZSTZqSXBtWWQ5eE52YXNOUGhnaWVfQS1LTkRLQ1d5cFRtSlJNWHp3NDlXVkI3N3BkRjJZOFlJV2JCdU5Uck9YSm95NW94S09hS3R4YWFqbnUxS2w5ZWxkRkZZY0lJcDlZblNCVmgwcTJ2a1dIZGFRQ0R5OWdEcXhDTVktRzhsaGRnX3ozVlZB?oc=5)
-
----
-
-### [Edulcorantes como la sucralosa y la stevia podrían afectar al metabolismo y a la microbiota, según un estudio - Diario de Navarra](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaG9XNFR6U2NDZXptOFk3dndWSWNJbXJjWm5SbzNMd2xxSjhqamZvZ0tlRGVPa1FmdzZkeWl1UlQ3eDRfMV95Q2paSlUtWHVaTFJydnhrZ2hsOHl3ZkllWVpCNWNVUGxIMnlsT2NLNVJmTlRWWDB2MjNrRThzSkRPR0d5djZuWTJXZHJhZnc2NVpfOFpVUVNPZVNwRHZzYy1Bb0xjeWdUY25paExoaWVzcjNQVG1VTjNzemFjRklPalJLcWJ6dTQ3aGQ0STBITXo3a2Y3dWcwOWJ3akY2TzNQZ0JyVXA3Z0Ru?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaG9XNFR6U2NDZXptOFk3dndWSWNJbXJjWm5SbzNMd2xxSjhqamZvZ0tlRGVPa1FmdzZkeWl1UlQ3eDRfMV95Q2paSlUtWHVaTFJydnhrZ2hsOHl3ZkllWVpCNWNVUGxIMnlsT2NLNVJmTlRWWDB2MjNrRThzSkRPR0d5djZuWTJXZHJhZnc2NVpfOFpVUVNPZVNwRHZzYy1Bb0xjeWdUY25paExoaWVzcjNQVG1VTjNzemFjRklPalJLcWJ6dTQ3aGQ0STBITXo3a2Y3dWcwOWJ3akY2TzNQZ0JyVXA3Z0Ru?oc=5)
 
 ---
 
@@ -233,22 +249,6 @@ permalink: /news/posaconazole/
 2026-04-10 <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5vUXlFSkFISUNLQ3RxNUVNNTZiTmJzQnFUMGh6RjRNcTF2RUl1QWdqWXlrN1NuZ0ttUEJST3l2NmlUaEFmVTFxdEkwTzFfOENpS2JWcm1QZnJGVGNfbkk3d0lBWkpDVTNELWxxXzJ6TDd5VFNwNzRHb3RvbDhpMVZFM0Ewa1N6em5abDloU2lPeHh4RlZOaWVwVEJVTnVwUU9KYlR5OFFEcDJ5QWYtVUl3?oc=5)
-
----
-
-### [Bern - 32 wissenschaftliche Publikationen, 37 Konferenzbeiträge und über 6 Millionen Franken an ei - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFlmN1pfMXB1NlpuZENBeWJwcTBTZDBsSGotVFdqclVKZmtPcHN5Ylc2Y2F6Q2E3eUQ1ZDQ4cVlxMERhX0ZkZ010MEtlaGNnX1R3VF9BTXNwYmNmdEZxd1dJSll3VGdvZFhHWGJ3czg4bWpFdjVlS0FYd1NrM2xmU3E2Rk13c2dweVVkbFlXV1Q1SHNRUWVadEUwSFNicUxTVlBqUk5FUVdkaThVWi1oYkFtN2hNOE5PNUVPRQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFlmN1pfMXB1NlpuZENBeWJwcTBTZDBsSGotVFdqclVKZmtPcHN5Ylc2Y2F6Q2E3eUQ1ZDQ4cVlxMERhX0ZkZ010MEtlaGNnX1R3VF9BTXNwYmNmdEZxd1dJSll3VGdvZFhHWGJ3czg4bWpFdjVlS0FYd1NrM2xmU3E2Rk13c2dweVVkbFlXV1Q1SHNRUWVadEUwSFNicUxTVlBqUk5FUVdkaThVWi1oYkFtN2hNOE5PNUVPRQ?oc=5)
-
----
-
-### [Woman with three deadly diseases has ‘remarkable’ recovery after cell therapy - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
 
 ---
 
