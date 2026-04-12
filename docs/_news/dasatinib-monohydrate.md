@@ -14,7 +14,7 @@ permalink: /news/dasatinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dasatinib Monohydrate 有什麼相關新聞？">
-<strong>Dasatinib Monohydrate</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dasatinib Monohydrate</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/dasatinib-monohydrate/
 <p><a href="{{ '/drugs/dasatinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（18 則）
 
 ### [El impacto silencioso del síndrome de Cushing en la salud cardiovascular y metabólica - Publimetro Colombia](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTcwSXpFd0x4Z2pPLWVReVpqX05DZE90YkQ3clNXMWY5S0FoX0l2aXphYkpvdXJMUDN0OVR5TUZVZTBfZ3pqYm12U1drOU1VSFZuM21iN0lILUlSbWtzeXpRSjlmQmlUallJekZndGQ1bXlhYWI5U1RQdlQwanhTZzhRN2tjT1BmLThVR0s2S2JwMWpWZ0xiQjVDdkl1TldFdk0wLUh2VXdrd0dEdzNWcFM0ZnNRVUV6RDNWaEVLVnRoNkY4SFFfWkJyT1dWQjJl?oc=5)
 
 2026-04-12 <span class="news-indication-tag">tumor</span>
 
 來源：[Publimetro Colombia](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTcwSXpFd0x4Z2pPLWVReVpqX05DZE90YkQ3clNXMWY5S0FoX0l2aXphYkpvdXJMUDN0OVR5TUZVZTBfZ3pqYm12U1drOU1VSFZuM21iN0lILUlSbWtzeXpRSjlmQmlUallJekZndGQ1bXlhYWI5U1RQdlQwanhTZzhRN2tjT1BmLThVR0s2S2JwMWpWZ0xiQjVDdkl1TldFdk0wLUh2VXdrd0dEdzNWcFM0ZnNRVUV6RDNWaEVLVnRoNkY4SFFfWkJyT1dWQjJl?oc=5)
+
+---
+
+### [Francesca Sveva Cicala, la sfida al cancro: «Si era laureata con la tesi sul suo male incurabile» - Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzlUZ3Q4ZUpnX0FLU0had2s0TTNGTUtVQjJYZ1cxWjMtTkR3dVRIb2cwd1RsQTNkSTd0UXJ3SHdXTFFzLXVEanZpVnBTQ19IRVVQLW5fQ2FpRHY0TVhUemZqbFlLTENOMFlLWUxyVHdjSHc1ZS1adHg1cjZvdEtiWGJ4T0xlTC1RU0ttMGpQYXNhYXNYRUR5eG5NRFB3RVN0cHFHQjdvOG5BdHN4VktKTnE1MHQ4UlU5ejVleFRIVE0?oc=5)
+
+2026-04-11 <span class="news-indication-tag">cancro</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzlUZ3Q4ZUpnX0FLU0had2s0TTNGTUtVQjJYZ1cxWjMtTkR3dVRIb2cwd1RsQTNkSTd0UXJ3SHdXTFFzLXVEanZpVnBTQ19IRVVQLW5fQ2FpRHY0TVhUemZqbFlLTENOMFlLWUxyVHdjSHc1ZS1adHg1cjZvdEtiWGJ4T0xlTC1RU0ttMGpQYXNhYXNYRUR5eG5NRFB3RVN0cHFHQjdvOG5BdHN4VktKTnE1MHQ4UlU5ejVleFRIVE0?oc=5)
 
 ---
 
@@ -68,14 +76,6 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [Breakthrough dementia drugs — what went wrong and what happens next? - Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxNSWZia1RWYkRlaWhfcWdPUWFNTGx3TTVRVzdZSS1qU1VDRGMzWGxkZlE5YlBqQVpibzYtWi1Pckx1Z09DM0pkeVktM1NvU3VtcllkeTBUYV85VG5FMU9MT1h5c1BYRGgwZVRVRXBIekE0djlvUzFXdWlabDBLSkpYYmFTM3ZLODZISjNuUGlaUmI1aHlJVmd2T1ppN1Q3d9IBowFBVV95cUxPM0JhMEpxaThVcF8tVmNtOTh5eGx3bEtXM3hRbmtWeU9fUHg4UGdhQWM5RVlxaHBrRFVJcXRuV2g0SGFHMkw1NVNLTXhIWDhfZWtMU0o4d3VtNEFCVnZxLUxqRlQxX1hqTWh3em5OTFZRd2ZTUmhNZmY0SUR6dVZ6ZmM5OFQ5ak5BUWVFUmtyNDJQamhZVnlicDZEZkFjVExMeHNN?oc=5)
-
-2026-04-11 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxNSWZia1RWYkRlaWhfcWdPUWFNTGx3TTVRVzdZSS1qU1VDRGMzWGxkZlE5YlBqQVpibzYtWi1Pckx1Z09DM0pkeVktM1NvU3VtcllkeTBUYV85VG5FMU9MT1h5c1BYRGgwZVRVRXBIekE0djlvUzFXdWlabDBLSkpYYmFTM3ZLODZISjNuUGlaUmI1aHlJVmd2T1ppN1Q3d9IBowFBVV95cUxPM0JhMEpxaThVcF8tVmNtOTh5eGx3bEtXM3hRbmtWeU9fUHg4UGdhQWM5RVlxaHBrRFVJcXRuV2g0SGFHMkw1NVNLTXhIWDhfZWtMU0o4d3VtNEFCVnZxLUxqRlQxX1hqTWh3em5OTFZRd2ZTUmhNZmY0SUR6dVZ6ZmM5OFQ5ak5BUWVFUmtyNDJQamhZVnlicDZEZkFjVExMeHNN?oc=5)
-
----
-
 ### [Warrington dad says home test saved life after cancer shock - Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
 
 2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -89,6 +89,22 @@ permalink: /news/dasatinib-monohydrate/
 2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+
+---
+
+### [Llega a España el ecobroncoscopio más avanzado para el diagnóstico de tumores pulmonares](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFoV2UwQlRKUHBRLVo1Y29IR0RzZXdwNWo1dWxhbUtTREd1VTF3aXdhWHczLVZMOTE0OU1XbnNwVGY5ZXl2UlZkdFJZSTJ3MGVhSkxQNE9xVkJIWjVIN1N0ZzdidTdPVE5yS0o4NDgtZVFhYjNoQmdtM0UybFMxVzJfQWlVUTY2a3NYSlFHU01IQUNFREdvcE0zNlI0MEhJcUNaX29zUW1ZaFJTbktzVUJ6VkQ?oc=5)
+
+2026-04-10 <span class="news-indication-tag">tumor</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFoV2UwQlRKUHBRLVo1Y29IR0RzZXdwNWo1dWxhbUtTREd1VTF3aXdhWHczLVZMOTE0OU1XbnNwVGY5ZXl2UlZkdFJZSTJ3MGVhSkxQNE9xVkJIWjVIN1N0ZzdidTdPVE5yS0o4NDgtZVFhYjNoQmdtM0UybFMxVzJfQWlVUTY2a3NYSlFHU01IQUNFREdvcE0zNlI0MEhJcUNaX29zUW1ZaFJTbktzVUJ6VkQ?oc=5)
+
+---
+
+### [Cancer de l'ovaire: deux traitements enregistrent de bons résultats face à une forme résistante](https://news.google.com/rss/articles/CBMiggJBVV95cUxOWGEtZFhROEY3azNsY1ZzQzdXUWVEWU8tYVZHRlZLckh1T3NEUUNEa0dTTGJtOEVCYmZweWFPaThnTHVGVmdCRWpDLXZVQmgwc3lrOHpMbjdfTDRDdlRqOVJPdm83TXNaZUtzelJUUWV6Q1BTYnlXSzlvVTU3bVY2V2gxdTMyWXFsZEVRY2o5eXhTcGRRV2J1NkZlWmxpTks1UHBZcUd5Ri1TelpLLXpLZ3AyaWJSNHB6ZHd4Xzg5VFIzOEpJc2d2MjBfNVVZcmxPbmZxOWVFZkVIQzFoamRxd0NndzFyb0loaE1SbmJfbEo4Z0FPbjd4c28wUGNOVTN2LWfSAYcCQVVfeXFMUElCdVpsaDNmcnVaSEgzLWVsZUk4bF95RmVEcGVER19TN2RsNXJDOFp5a08zUmVmTzJaOWlEb3BMdkRmSjMtcGNNUEl2cW5xbURzWlF1NEtyY1NnZDZGRWRUcVpIUl91QjUxcExJNHZoUmdtZWE5Q1dXTGpxNHdkRk5kTVVrS1ROaENUa2JYU0xWMFVzd2tzNVJHUEtOM2VxcTFjMTNRQ21WUEM0eWdhRXpuTU1uVEExclpBTFJCQUhhYVRmOHRtUjdjQmVyajZSTzdDbmtsVGxjVS15NWVTdW15MFhEaS1ZS29Vcks0M2l0RzhPR0pRSWRwTjFncUltWkJBMTFnRUU?oc=5)
+
+2026-04-10 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Boursorama](https://news.google.com/rss/articles/CBMiggJBVV95cUxOWGEtZFhROEY3azNsY1ZzQzdXUWVEWU8tYVZHRlZLckh1T3NEUUNEa0dTTGJtOEVCYmZweWFPaThnTHVGVmdCRWpDLXZVQmgwc3lrOHpMbjdfTDRDdlRqOVJPdm83TXNaZUtzelJUUWV6Q1BTYnlXSzlvVTU3bVY2V2gxdTMyWXFsZEVRY2o5eXhTcGRRV2J1NkZlWmxpTks1UHBZcUd5Ri1TelpLLXpLZ3AyaWJSNHB6ZHd4Xzg5VFIzOEpJc2d2MjBfNVVZcmxPbmZxOWVFZkVIQzFoamRxd0NndzFyb0loaE1SbmJfbEo4Z0FPbjd4c28wUGNOVTN2LWfSAYcCQVVfeXFMUElCdVpsaDNmcnVaSEgzLWVsZUk4bF95RmVEcGVER19TN2RsNXJDOFp5a08zUmVmTzJaOWlEb3BMdkRmSjMtcGNNUEl2cW5xbURzWlF1NEtyY1NnZDZGRWRUcVpIUl91QjUxcExJNHZoUmdtZWE5Q1dXTGpxNHdkRk5kTVVrS1ROaENUa2JYU0xWMFVzd2tzNVJHUEtOM2VxcTFjMTNRQ21WUEM0eWdhRXpuTU1uVEExclpBTFJCQUhhYVRmOHRtUjdjQmVyajZSTzdDbmtsVGxjVS15NWVTdW15MFhEaS1ZS29Vcks0M2l0RzhPR0pRSWRwTjFncUltWkJBMTFnRUU?oc=5)
 
 ---
 
@@ -113,14 +129,6 @@ permalink: /news/dasatinib-monohydrate/
 2026-04-10 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Télégramme](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOamxmR3U4cGp1c2paaXpvNkV0TnJ6Tmp6T2plUjJDa185MVI5QmhzZTRLQlhKSmlTSjJzdzMxR240bVhodTBnaDZoSVJSUnVOalVxX3JzdFBSeDY2azEyTDZGMEpfRWdCLUJtWXhGZzlabDUyQjl1Y0c4T3BRcG9Xb3oyZXphTFZiYWhKdHk5SVI4OVRzQ2lPMnlCRDVCdGFreE1KZ3A1S1p3bC1tUTVhajJDb00zMlNVRWo0U1VoYXo0UW1JQnVQZm1MaVQ0S1BFNnRPaVgySW80YmttSzZUZkZn?oc=5)
-
----
-
-### ['We are looking at a doctor in Germany': Family launch urgent appeal to give woman best chance in cancer fight - Hartlepool Mail](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEtnM1RpRnAwSlMzbVJTRGVfc2FqbWZDckpDVzFfTjZral9OQkxWdGh5eXVoTlR6WnJULUVnb0F5ZzdGZ3JoUVpXNVNoMXNGTkpVWVoyenhFSUJTS3RVRlMyZmtUaVFQWVU3TjVvX25HTkhwamFYSWRmYUtmOG92QUxwWUVycmo2anZ0d0ZDdFA0bHBSbmUxdzNJamlnWGpIMVE5TjZWNHZQYWtfWDExZGZ5Qk9mcWFmWXBXT28zbG9PbDZVYTk0aFhFMXRkZWFTcjBtd3JUM1JRY3BPa3UzYzFNaw?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Hartlepool Mail](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEtnM1RpRnAwSlMzbVJTRGVfc2FqbWZDckpDVzFfTjZral9OQkxWdGh5eXVoTlR6WnJULUVnb0F5ZzdGZ3JoUVpXNVNoMXNGTkpVWVoyenhFSUJTS3RVRlMyZmtUaVFQWVU3TjVvX25HTkhwamFYSWRmYUtmOG92QUxwWUVycmo2anZ0d0ZDdFA0bHBSbmUxdzNJamlnWGpIMVE5TjZWNHZQYWtfWDExZGZ5Qk9mcWFmWXBXT28zbG9PbDZVYTk0aFhFMXRkZWFTcjBtd3JUM1JRY3BPa3UzYzFNaw?oc=5)
 
 ---
 
@@ -153,38 +161,6 @@ permalink: /news/dasatinib-monohydrate/
 2026-04-10 <span class="news-indication-tag">cancer</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXN2LTNmWG9EMUVrd25VSl80WG14YzZ1QzNaek0zUGJLc2w2U3Y2NXNRVUw1OEduelJKVVVzQ3hZRndZZW9PYVROVS1tYnIxVkpnUTJBSjFSTXY3eEVLeng0UUJ5cmlSZnpxR285Z0J0eVFKTkc3cU9lWlRvU2RFc1hNcXlpTm9weTVnUdIBkgFBVV95cUxPRWtIVVFqZ3B6SW4wTFZUT0tKcHVsUGxaQU9vTXozVkFWbjBycGNST3VLUmx6bHUzM041OUZvbnY2Zm5hSE10eWthYUVpTUp5bXlJeW4xQ0FsRmMzcTh5UWt4bjBGTEt4U0FtajZKNzNfOUlIUkl3NWZfRGZPY0lFeVptV1pMZEtKbXZNVWx2UHNvQQ?oc=5)
-
----
-
-### [Tumore alla prostata, cure sempre più efficaci: cresce del 55% il numero di uomini vivi dopo la diagnosi - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxQS1NXZGplMzBMeVFsRl9DU2NHT3ZaQWpYY1pVMHo3VGZXdTN1ZVFEZXJyc1lLQ3RhUEVOd1MwdWp4Z01GUUgtNUwzcWRMMG1TbGN3aUpTSUlYMEFRNVljeW1MS2hSSDhyWXpnZEJfUFRFQzJUbFdzbFlkS0dwbkM4ZjBvckU2Zm9YcC1MTU1JZ3lobzJUdExYdmZmODVDOWloc25DWF90SFZmMnBvWVk4SXpNS3djUmFRUG9SaWZKUFZia0pDRVh3cllKZjdmaWNBd01VUjRnbERqTXVXa3owb0NRQkhJQ0JLT21BYldSTjVpbFNHbjF4MVBUNUlXV3hqSlVBWS1GU0ozZndDTmZhREZFRWRFcDZhNW9vVmRSRlNFMHlETWN1MXJ5TExQQdIBswJBVV95cUxQaU1HTHMyUHlEM1h0dmc4UG8tS1JSTU82S2duS2x3VDVhQTBTN0NDMHlxekk5R09iOHBZYm9EMVNERDJmV1ZJTm95MXhqeGtla3BfNTN2VzBDMUw0VVJ0ZTdrM3BJdVkxMm5YLXBuREJRWXVKeVgwQ2J1SzB3MTEyWExfcjhjRnNMMjdzMmprXzliVG5jc3p3cmVyYl9sMEpLMTlpM19MdHplZE9mOW1LaG9ldmxDVW9SUHVnRFFuVUtBWDJrV0Y2Vm9ESEo0ZEk4TWM0Y05IY2wwYURmZWlJR3VkX3VjRWlodVYwSFltOFN5TzdFLXl0anRwVzUxWFFRUS03dWZaTkgtX2dnalZEcF95OGtrTnlZSFBKdUR0RDdZaFljM1F4SXlYNDdzcDdWS0xB?oc=5)
-
-2026-04-10 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxQS1NXZGplMzBMeVFsRl9DU2NHT3ZaQWpYY1pVMHo3VGZXdTN1ZVFEZXJyc1lLQ3RhUEVOd1MwdWp4Z01GUUgtNUwzcWRMMG1TbGN3aUpTSUlYMEFRNVljeW1MS2hSSDhyWXpnZEJfUFRFQzJUbFdzbFlkS0dwbkM4ZjBvckU2Zm9YcC1MTU1JZ3lobzJUdExYdmZmODVDOWloc25DWF90SFZmMnBvWVk4SXpNS3djUmFRUG9SaWZKUFZia0pDRVh3cllKZjdmaWNBd01VUjRnbERqTXVXa3owb0NRQkhJQ0JLT21BYldSTjVpbFNHbjF4MVBUNUlXV3hqSlVBWS1GU0ozZndDTmZhREZFRWRFcDZhNW9vVmRSRlNFMHlETWN1MXJ5TExQQdIBswJBVV95cUxQaU1HTHMyUHlEM1h0dmc4UG8tS1JSTU82S2duS2x3VDVhQTBTN0NDMHlxekk5R09iOHBZYm9EMVNERDJmV1ZJTm95MXhqeGtla3BfNTN2VzBDMUw0VVJ0ZTdrM3BJdVkxMm5YLXBuREJRWXVKeVgwQ2J1SzB3MTEyWExfcjhjRnNMMjdzMmprXzliVG5jc3p3cmVyYl9sMEpLMTlpM19MdHplZE9mOW1LaG9ldmxDVW9SUHVnRFFuVUtBWDJrV0Y2Vm9ESEo0ZEk4TWM0Y05IY2wwYURmZWlJR3VkX3VjRWlodVYwSFltOFN5TzdFLXl0anRwVzUxWFFRUS03dWZaTkgtX2dnalZEcF95OGtrTnlZSFBKdUR0RDdZaFljM1F4SXlYNDdzcDdWS0xB?oc=5)
-
----
-
-### [Nuevo avance contra el Alzheimer: cómo los astrocitos modificados eliminan el amiloide en modelos animales - Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
-
-2026-04-10 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
-
----
-
-### [Common Vitamin May Reduce Buildup of Alzheimer's Proteins, Study Finds](https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJVblduQk1kRHJ0RjZSYkhscWNQVlNQMTEtWFlPUlZVelBXU1p3THhRUXFxMFE1amVMUHpSZl9BWFVNRV95dW9STFBvY1JCaG44NWNnTjc3QnZENUZaaTZrUUhObklSVld1UzFjelhSUlA3UmUzbWMwSXpnMEM0VGZXVnlrcGp6NWJaa3M2Y05wUzFGRnhIbktwLUJMZw?oc=5)
-
-2026-04-10 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJVblduQk1kRHJ0RjZSYkhscWNQVlNQMTEtWFlPUlZVelBXU1p3THhRUXFxMFE1amVMUHpSZl9BWFVNRV95dW9STFBvY1JCaG44NWNnTjc3QnZENUZaaTZrUUhObklSVld1UzFjelhSUlA3UmUzbWMwSXpnMEM0VGZXVnlrcGp6NWJaa3M2Y05wUzFGRnhIbktwLUJMZw?oc=5)
-
----
-
-### [Five early signs of bowel cancer everyone should know - The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
 
 ---
 

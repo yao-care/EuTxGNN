@@ -44,11 +44,11 @@ permalink: /news/abiraterone-acetate/
 
 ## 相關新聞（2 則）
 
-### [Síntomas de infarto en mujeres y cómo identificarlos a tiempo - Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
+### [La cardiopatía isquémica en mujeres presenta particularidades que condicionan el diagnóstico, el tratamiento y el pronóstico - Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
 
-2026-04-10 <span class="news-indication-tag">cardiopatía</span>
+2026-04-12 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teriflunomide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
 
-### [Demenz-Prävention: Lebensstil senkt Risiko um bis zu 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdENZUnFYcXNsM3czOVBVM2hCb2YwNG4weURzR0RWWlhtVFVzcTRRSWk2QUlnLUdOX2tkZllUdVA3ZE5BN211N2pETmc5NDFKS29yWEpaUnltZzlpeFRuaUJoOU9PZXdMbWxJdmNUZElZUmtPYzZZM19FQ0NfYWF3V19uZ2o3RDcwWDFnUmNYXzQ5cXRtdWZzSkxVczQyZDdjM1JmM0hXMWQtVGNwM3VaSHhnTC1keTMzZXZURzBKQQ?oc=5)
+### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbDhuNzV3bHUybHMwekpDVG1WdUJaMUdaUmN4TG1yT1M2MElJYTNHSU1uOEhrdHRBNkZwdks0UTVHanJNR3lSOGFuckw4SHpUWEZXRnMwWTBSYmwxdjB1dkE3a3pjM2h4dHJqOEZCT3RoQjBWTE5HcWJNQlFuNlVRNjNjcktWekpzLWYtN3I1bFRfSlN2X0tvWWhvWklqd2lYb3hBUnQzMWhobXZSSEo5bkVNNGV6eS1sMFJoOGFHSnJna0tnMzRGZ0ZVaEVRcmVyR3ZWUk5jZGZWUHNGV3AyTFJ3NWdCYm8zdmtDSjVRSEREMUludmZZcXVoZzdUaV90c0pBSG4zLV9vbU0?oc=5)
 
-2026-04-11 <span class="news-indication-tag">MS</span>
+2026-04-12 <span class="news-indication-tag">hepatitis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdENZUnFYcXNsM3czOVBVM2hCb2YwNG4weURzR0RWWlhtVFVzcTRRSWk2QUlnLUdOX2tkZllUdVA3ZE5BN211N2pETmc5NDFKS29yWEpaUnltZzlpeFRuaUJoOU9PZXdMbWxJdmNUZElZUmtPYzZZM19FQ0NfYWF3V19uZ2o3RDcwWDFnUmNYXzQ5cXRtdWZzSkxVczQyZDdjM1JmM0hXMWQtVGNwM3VaSHhnTC1keTMzZXZURzBKQQ?oc=5)
+來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbDhuNzV3bHUybHMwekpDVG1WdUJaMUdaUmN4TG1yT1M2MElJYTNHSU1uOEhrdHRBNkZwdks0UTVHanJNR3lSOGFuckw4SHpUWEZXRnMwWTBSYmwxdjB1dkE3a3pjM2h4dHJqOEZCT3RoQjBWTE5HcWJNQlFuNlVRNjNjcktWekpzLWYtN3I1bFRfSlN2X0tvWWhvWklqd2lYb3hBUnQzMWhobXZSSEo5bkVNNGV6eS1sMFJoOGFHSnJna0tnMzRGZ0ZVaEVRcmVyR3ZWUk5jZGZWUHNGV3AyTFJ3NWdCYm8zdmtDSjVRSEREMUludmZZcXVoZzdUaV90c0pBSG4zLV9vbU0?oc=5)
 
 ---
 
-### [Un premier cas européen de grippe aviaire chez l'homme confirmé par l'OMS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDZkZkxBS0lKc3NxdFJWWFV5SDJrQWtuSi03X2JZU0U1cTNVdC1ycXJIV1VzYzNVampqLUV2eXpxNVp2c3FZaDltYmRjTTVtd19KbUY3NGJEMXJjYVZjUVdVaXc1Wi1tZVJzbkZfWHV2TUJhMVlJVUdneE9fUzRuMC1BWk5yWWtHMmZWcENCa0FOY0dYMDhCTWpLRnpRY0hUVmpaVEdnRnMzbUFHbjhLYkIwN0Z0d0x30gG-AUFVX3lxTE9EN3NkSWV3TlJpa0MxMDh4RGlGeTFDYWNtVVNhcnExOE9BNTdiNTNRWGNxX3RJWUwxaVpEMG9pVTR1NV9yblExX2RzdEhpQlFjZi1ZRFBpeF91dWduQnd3dmxRQXlfYWtvZlUtWUVkUFY4d1p5MHNMUFFScUNCS0FwOXVyYmQxQ1VUdGxvSEFrWkNxQ0RKY3VpTlVxQjVfQjhCUHY2TjlKQUp0VDhJU1lrSDhKVWhocWJyZHJ2REE?oc=5)
+### [Taking a daily vitamin D supplement may help ease the symptoms of irritable bowel disease - Daily Mail](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1BDR3ZiOC05enlXdE4ydEg3bWRMcXVmN1dfZnNGc3Ewa2RySlRUYjA1WnVYdzI1RDloMVVjSFM4VUJGUy1SQjhvNHg2OVUxdFI1WVRKS1U4Rjc4QlhDU1ZCSWo5Y3BtVDk4Y19kYzU0VkJhY0tmUjRZdG1Mbm5Hc240Tjg4Tk1VdzZkQXU2ZmpvaXFrUjJCTTFZbFBlbmh2bWtoYU01VXlIbmVlYTk5RnN5VXlSV2vSAbwBQVVfeXFMTzdiMUVwNGFDQmtYbkVCTDMxczdwR0tDZmh3QnNtOVZaQ2dma3pvT0F4eG1HYnAtTkRjemxNQXp3T1VUQ0xzekR6MHdjREdwRkt5T0huZ0FyVXhFNU8xcE1lZTRTZUJJZWMxNnl2amgxNGQxeGRJUnFCOGNqWTl5UTNzdVlDWEN3dTVJWU9SWmJaS1VqM1RGWGpyRmhacWRHWjZTXzFlQ05sLS1YVEZMYkxYd1B3UFY3OGZDaGs?oc=5)
+
+2026-04-12 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1BDR3ZiOC05enlXdE4ydEg3bWRMcXVmN1dfZnNGc3Ewa2RySlRUYjA1WnVYdzI1RDloMVVjSFM4VUJGUy1SQjhvNHg2OVUxdFI1WVRKS1U4Rjc4QlhDU1ZCSWo5Y3BtVDk4Y19kYzU0VkJhY0tmUjRZdG1Mbm5Hc240Tjg4Tk1VdzZkQXU2ZmpvaXFrUjJCTTFZbFBlbmh2bWtoYU01VXlIbmVlYTk5RnN5VXlSV2vSAbwBQVVfeXFMTzdiMUVwNGFDQmtYbkVCTDMxczdwR0tDZmh3QnNtOVZaQ2dma3pvT0F4eG1HYnAtTkRjemxNQXp3T1VUQ0xzekR6MHdjREdwRkt5T0huZ0FyVXhFNU8xcE1lZTRTZUJJZWMxNnl2amgxNGQxeGRJUnFCOGNqWTl5UTNzdVlDWEN3dTVJWU9SWmJaS1VqM1RGWGpyRmhacWRHWjZTXzFlQ05sLS1YVEZMYkxYd1B3UFY3OGZDaGs?oc=5)
+
+---
+
+### [« De la fièvre et une toux persistante » : en Europe, un premier cas de grippe aviaire chez l'homme confirmé par l'OMS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSlJCRmttR2lsejVlbVhZNENMSmpCWUtpeDJHMDgxYVlUQWRlMnNaMHVZa2JoMDVtOG1aNWdXbWttdzdKTlN0d2tsNFN5X2hFSjNfdGRxc0VXNEx4bXFiUkJkMXNELURMQ0JYVHBrOFJHMU5xb0lZVExlQUtwcjlBX3VWM01mQktDR2laX0FJMThvU2ZMWXdZaEFhYnRWYk54YkxpUjIxVWhyWWV4UUMydHoxamU0Y0NUdjJZOExrVVlrd3NpVnpYV3RLb19zY1VZdlh1R0l5bTZvbS16ZHU1N2ZCVmY4T3ZXZHc?oc=5)
 
 2026-04-11 <span class="news-indication-tag">MS</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDZkZkxBS0lKc3NxdFJWWFV5SDJrQWtuSi03X2JZU0U1cTNVdC1ycXJIV1VzYzNVampqLUV2eXpxNVp2c3FZaDltYmRjTTVtd19KbUY3NGJEMXJjYVZjUVdVaXc1Wi1tZVJzbkZfWHV2TUJhMVlJVUdneE9fUzRuMC1BWk5yWWtHMmZWcENCa0FOY0dYMDhCTWpLRnpRY0hUVmpaVEdnRnMzbUFHbjhLYkIwN0Z0d0x30gG-AUFVX3lxTE9EN3NkSWV3TlJpa0MxMDh4RGlGeTFDYWNtVVNhcnExOE9BNTdiNTNRWGNxX3RJWUwxaVpEMG9pVTR1NV9yblExX2RzdEhpQlFjZi1ZRFBpeF91dWduQnd3dmxRQXlfYWtvZlUtWUVkUFY4d1p5MHNMUFFScUNCS0FwOXVyYmQxQ1VUdGxvSEFrWkNxQ0RKY3VpTlVxQjVfQjhCUHY2TjlKQUp0VDhJU1lrSDhKVWhocWJyZHJ2REE?oc=5)
+來源：[parismatch.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSlJCRmttR2lsejVlbVhZNENMSmpCWUtpeDJHMDgxYVlUQWRlMnNaMHVZa2JoMDVtOG1aNWdXbWttdzdKTlN0d2tsNFN5X2hFSjNfdGRxc0VXNEx4bXFiUkJkMXNELURMQ0JYVHBrOFJHMU5xb0lZVExlQUtwcjlBX3VWM01mQktDR2laX0FJMThvU2ZMWXdZaEFhYnRWYk54YkxpUjIxVWhyWWV4UUMydHoxamU0Y0NUdjJZOExrVVlrd3NpVnpYV3RLb19zY1VZdlh1R0l5bTZvbS16ZHU1N2ZCVmY4T3ZXZHc?oc=5)
 
 ---
 
@@ -97,38 +105,6 @@ permalink: /news/teriflunomide/
 2026-04-10 <span class="news-indication-tag">MS</span>
 
 來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWTJZT0RuZnVkak9RZUp5TkxoTzBOdFBwb0V1dDFfNS01UE1kZVBVZGphNEZkSl9uaW9NWDNEdFNJNV8xNTdzLThJdDB5UjRMb0pEcTh4LXJ6WmFoOTdmRFlPQjlSQ1pvaEFvWXVUVkRuOUg2UjBiTXBuNDFfdEFRd01BLUtQc2g2bnBTU1F5T0NuSThzOXNVNkVzdzQ0LUp1M0lla1J2RVlSMXUzNzk2TUtfZW1ETEZtbWhMdm1pVDZmUVREaHYxRXNwejdDMjRfSk1aWkR6MXJsUQ?oc=5)
-
----
-
-### [Five early signs of bowel cancer everyone should know - The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
-
----
-
-### [Study reveals the small changes to your diet, sleep and exercise that can add years to your life - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
-
----
-
-### [Gefahr Unterzuckerung - Seltene Krankheit: Stellas Kampf ums Überleben - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE01WUo3TlJrVDFCWVA4SVJmekZ1bnVjZHJnNW50U3l3elFWanVHc2ZPcWM2NWFvQlEyX3RKeTdRM3B0Zw?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE01WUo3TlJrVDFCWVA4SVJmekZ1bnVjZHJnNW50U3l3elFWanVHc2ZPcWM2NWFvQlEyX3RKeTdRM3B0Zw?oc=5)
-
----
-
-### [FSME: Neue Erkenntnisse zum Krankheitsverlauf](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkctQ1QybzBYYUJXOUVkVU9FaXJwT2VUUjlyZEF3UE8yOXdDbF9lMUNNOWQ0ZmZncFJ5NGJFV05wNjFnUjFlX1pISERaS2ZmY0xYVnNERXdMWXhIMmVqSDBCM0FJX0V4a1ktZ0s1YkR4cV9KMDhzZF9BRENWT0dRcUp5OW9HUUM3?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[TARA24](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkctQ1QybzBYYUJXOUVkVU9FaXJwT2VUUjlyZEF3UE8yOXdDbF9lMUNNOWQ0ZmZncFJ5NGJFV05wNjFnUjFlX1pISERaS2ZmY0xYVnNERXdMWXhIMmVqSDBCM0FJX0V4a1ktZ0s1YkR4cV9KMDhzZF9BRENWT0dRcUp5OW9HUUM3?oc=5)
 
 ---
 

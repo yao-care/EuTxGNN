@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Breakthrough dementia drugs — what went wrong and what happens next? - Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxNSWZia1RWYkRlaWhfcWdPUWFNTGx3TTVRVzdZSS1qU1VDRGMzWGxkZlE5YlBqQVpibzYtWi1Pckx1Z09DM0pkeVktM1NvU3VtcllkeTBUYV85VG5FMU9MT1h5c1BYRGgwZVRVRXBIekE0djlvUzFXdWlabDBLSkpYYmFTM3ZLODZISjNuUGlaUmI1aHlJVmd2T1ppN1Q3d9IBowFBVV95cUxPM0JhMEpxaThVcF8tVmNtOTh5eGx3bEtXM3hRbmtWeU9fUHg4UGdhQWM5RVlxaHBrRFVJcXRuV2g0SGFHMkw1NVNLTXhIWDhfZWtMU0o4d3VtNEFCVnZxLUxqRlQxX1hqTWh3em5OTFZRd2ZTUmhNZmY0SUR6dVZ6ZmM5OFQ5ak5BUWVFUmtyNDJQamhZVnlicDZEZkFjVExMeHNN?oc=5)
-
-2026-04-11 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxNSWZia1RWYkRlaWhfcWdPUWFNTGx3TTVRVzdZSS1qU1VDRGMzWGxkZlE5YlBqQVpibzYtWi1Pckx1Z09DM0pkeVktM1NvU3VtcllkeTBUYV85VG5FMU9MT1h5c1BYRGgwZVRVRXBIekE0djlvUzFXdWlabDBLSkpYYmFTM3ZLODZISjNuUGlaUmI1aHlJVmd2T1ppN1Q3d9IBowFBVV95cUxPM0JhMEpxaThVcF8tVmNtOTh5eGx3bEtXM3hRbmtWeU9fUHg4UGdhQWM5RVlxaHBrRFVJcXRuV2g0SGFHMkw1NVNLTXhIWDhfZWtMU0o4d3VtNEFCVnZxLUxqRlQxX1hqTWh3em5OTFZRd2ZTUmhNZmY0SUR6dVZ6ZmM5OFQ5ak5BUWVFUmtyNDJQamhZVnlicDZEZkFjVExMeHNN?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Maladie de Parkinson : ce problème de santé très courant pourrait faire augmenter le risque d'être atteint par ce trouble](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWMwSnQyb1dNNjdXODdGbVEtdnllanNTQkpNS2NiVm9maC0xaTMzdDR6TG94bS1BNmZiOVdJVzlDbmphbGkxd2VTWFNndEtpWGpUZFh6YlZMM05EVTgwdW4tdHlZMXZsd0M3WmpPaTlERWZvV1BNLU5Hc09hTk42bEEwNU51V3NnaUM2aFJuOU1yTFpQdGlIWmhVdXdZU2lFb3dTT2VVcUhFZFV6LTJoZWhWaW9iUHRsVVhSRtIBwgFBVV95cUxQM3pFaG9VaG5SdDBIN04zcngzbHc1b0lBcW1xbTMyaVRfVHFudFR6NmJfN1F3MVcxa284R3l4NlRGVDFvejhNVnkzNS12SDF3R2dYelRCVHNONlgtNUYzUVhxczhFanhhNERfMWp0N3VWMEFHQkN3bjBLX3pzTENyTzZKQ3FuU1BqbXhsZG5uWmo1UGxTemZuMEMyd2pQOXNVZWRON1JQV2NHQS04Uzh6bmliVTlqajBUdVRRX1VkVkladw?oc=5)
 
@@ -73,22 +65,6 @@ permalink: /news/carbidopa/
 2026-04-10 <span class="news-indication-tag">dementia</span>
 
 來源：[Being Patient](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vdllRNkhXRmxGbDhubGg5VzE3NXdyZDdzNXlWUWhoZXFrT29aT01OenJYdnBpWThCUFJkUlo0QVVNZDhvWmhYWkF6TXhURERhNF9PR0o1RnU1X2N0S3ktZjVyTk5ENTBBeWw3Wk4tRkQwOU90ZXc?oc=5)
-
----
-
-### [Nuevo avance contra el Alzheimer: cómo los astrocitos modificados eliminan el amiloide en modelos animales - Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
-
-2026-04-10 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1lZNEsyZ29mNm5CdHA4cEJCRUltdlVxQWNJNk1kSE1iRE5BUXVKdFNSTE9JLVVjUTJSajhkUFFTaVBHNEJaMHJITUN6NG0tRERveHYzQnBBMzlRT1FzNU1rQy00TUhrZl9raFJDQUNFQlBtbFdyRHlBWU1KU1pDN3NMMUpkUkFKa0pESmtOMFl2aEhs?oc=5)
-
----
-
-### [Common Vitamin May Reduce Buildup of Alzheimer's Proteins, Study Finds](https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJVblduQk1kRHJ0RjZSYkhscWNQVlNQMTEtWFlPUlZVelBXU1p3THhRUXFxMFE1amVMUHpSZl9BWFVNRV95dW9STFBvY1JCaG44NWNnTjc3QnZENUZaaTZrUUhObklSVld1UzFjelhSUlA3UmUzbWMwSXpnMEM0VGZXVnlrcGp6NWJaa3M2Y05wUzFGRnhIbktwLUJMZw?oc=5)
-
-2026-04-10 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJVblduQk1kRHJ0RjZSYkhscWNQVlNQMTEtWFlPUlZVelBXU1p3THhRUXFxMFE1amVMUHpSZl9BWFVNRV95dW9STFBvY1JCaG44NWNnTjc3QnZENUZaaTZrUUhObklSVld1UzFjelhSUlA3UmUzbWMwSXpnMEM0VGZXVnlrcGp6NWJaa3M2Y05wUzFGRnhIbktwLUJMZw?oc=5)
 
 ---
 

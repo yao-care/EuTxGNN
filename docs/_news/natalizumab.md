@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Natalizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Lungentransplantation kann bei schwerer COPD der letzte Ausweg sein - Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmJpdk5NWjZ3WFdxbzg5YWxQWFZWLVNrUVo3ejNjV01pNkFydFZPQlRfbU05dkJlVmQtRlVlUUFrSkFrVjMtcDk0ajJEczF1aDd3cm9paThGakFJeElQelhHbEEtbWNiNzlLOWctVko3OHZvOEU5ZTJ3akduWlluS3VPcGtNam9veGExOVpiVW5ObFgtcTRSSkpfTER2UU9JSHJyWXprd0UzZVlXS0ZLUmlreWJzaGhtUVE?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/natalizumab/
 2026-04-10 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1peGVic1JQYUg1WTcxeTVnVXFiTUdPVUx1N1ZWSFFfZjU5WkhmdUJYdDF4ekxncXlSWUZNemdzeEFfcUVtSFlURjNlSzdtZmFSYV9rT1lvMDNuX2J5NzVqaC1kMlhFN1JQdmxrbjM1RXJIaEJiZnNsT1MxdFJZQVZfVEE1eWVSSmhJbGUwTnk1SmpZb2UwVFVmZVBFQmtHaVNVczZOMktKSm40ZnNF?oc=5)
-
----
-
-### [Semaglutide e tirzepatide, più peso perso o effetti collaterali con specifiche varianti genetiche: lo studio USA](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
-
-2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 
 ---
 

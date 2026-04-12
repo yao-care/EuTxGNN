@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Genes y obesidad: por qué los fármacos para bajar de peso no funcionan igual en todos los pacientes - El Mostrador](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSzNnaFBQVmRHcWZMZXpRZzdtanp6N3ZocHBPcGJKekhiSDNrUTFjMnBEM3RDMVMxWGttNWZvSWp1MEZyZ0R2SmcwTk9fTmZUb2JkY01QWkFDUzJ5M21Wc0hlSXVkTlN1ZURXUXB5ZDNQeVRNRTlZcjJ3aHNYMS03OFl6c0JKUThxYnZ5X3l4cnRyMG9pS0p4WGZNd2U5WVJRblZVUHNVUkFNOWwtbzJYSXQwMDR5TFRoOF9SeHZnUGhfbTlMb2ZwTHVtcFRxWXVGX0hfMnA0U2p0Rmtfemdxc0FpaEZWaFZBMEc2eHRfZTQzX2cyT3c?oc=5)
 
@@ -52,11 +52,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [L’era Ozempic in pillola: quando la fame si controlla](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
+### [L’era Ozempic in pillola: quando la fame si controlla - RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
 
-2026-04-11 <span class="news-drug-tag">Semaglutide</span>
+2026-04-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
-來源：[RSI](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
+來源：[RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/semaglutide/
 2026-04-10 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1peGVic1JQYUg1WTcxeTVnVXFiTUdPVUx1N1ZWSFFfZjU5WkhmdUJYdDF4ekxncXlSWUZNemdzeEFfcUVtSFlURjNlSzdtZmFSYV9rT1lvMDNuX2J5NzVqaC1kMlhFN1JQdmxrbjM1RXJIaEJiZnNsT1MxdFJZQVZfVEE1eWVSSmhJbGUwTnk1SmpZb2UwVFVmZVBFQmtHaVNVczZOMktKSm40ZnNF?oc=5)
-
----
-
-### [Semaglutide e tirzepatide, più peso perso o effetti collaterali con specifiche varianti genetiche: lo studio USA](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
-
-2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 
 ---
 

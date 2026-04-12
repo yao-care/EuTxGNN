@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [WATCHMAN FLX und neue Blutverdünner revolutionieren Schlaganfall-Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
+### [La cardiopatía isquémica en mujeres presenta particularidades que condicionan el diagnóstico, el tratamiento y el pronóstico - Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
 
-2026-04-11 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-04-12 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
+
+---
+
+### [Herzimplantate: Neue Alternative zu Blutverdünnern bei Vorhofflimmern - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
+
+2026-04-12 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
 
 ---
 
@@ -65,22 +73,6 @@ permalink: /news/telmisartan/
 2026-04-11 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Freie Presse](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZDelVaVTYybXRnV1EzQm5BRVZQbDJLMzlyV2pfT1JFa21ZejdjZnB6NVNNN2dZUFdRRVVVc1o3TklzRFFQUzY0R1FjOWJwWnlBbWhUczlybmZFQ1VBZm50QXYzSmNYS3k5cjhIa1VwTno3T3BoTGpOcHlzN052M3JvLUpOOUI1VUJVNlZha3dQVDJhVEtRYU12eHY3MVdJQnVEbWkwZEFXaTJVVndwZ3M0S0pObW05MV96VHRqckk1c3p6YW9hdV9fQU5ld25WeEUxV1U2UVdHTWl2?oc=5)
-
----
-
-### [Síntomas de infarto en mujeres y cómo identificarlos a tiempo - Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
-
----
-
-### [Frequent headaches but normal reports? Doctors say this overlooked trigger could be the reason - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">stroke</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
 
 ---
 

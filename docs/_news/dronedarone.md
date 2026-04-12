@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（23 則）
+
+### [These simple acts will improve your health more than any fitness trend - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3dWcUVPOE1TeVc2Zks4c1NPVG9waHJzOWpfWTRzLXM1bWs1NDFnaURvdks5R2J6T3pYLXJTaTk2emhYVmZsazNYUTI0bTBxems3anRSZTRyaVFFalYydDlLTk1fTXpnYTRmR0dXeHlxZUZqd2w1VzRRcS1Sb2J1dGh0OG9HTXlpZDhHNGQwelBxOWlfSnRBdEZSbW12S1FpYUFONG1rYmxXTFF0ZExF?oc=5)
+
+2026-04-12 <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3dWcUVPOE1TeVc2Zks4c1NPVG9waHJzOWpfWTRzLXM1bWs1NDFnaURvdks5R2J6T3pYLXJTaTk2emhYVmZsazNYUTI0bTBxems3anRSZTRyaVFFalYydDlLTk1fTXpnYTRmR0dXeHlxZUZqd2w1VzRRcS1Sb2J1dGh0OG9HTXlpZDhHNGQwelBxOWlfSnRBdEZSbW12S1FpYUFONG1rYmxXTFF0ZExF?oc=5)
+
+---
+
+### ['I still can't believe people died of meningitis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jX05WYkxOVHRDTDBBbXVMcHc4OHE5N3ZPYXFOSmxkNHF1dW41RkgtWW9Hd0tteTZYWTNhejBLT1llR2oxNjNRNmdFZHRKdnRJeEh3Zlh3UkE0Si1K?oc=5)
+
+2026-04-12 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jX05WYkxOVHRDTDBBbXVMcHc4OHE5N3ZPYXFOSmxkNHF1dW41RkgtWW9Hd0tteTZYWTNhejBLT1llR2oxNjNRNmdFZHRKdnRJeEh3Zlh3UkE0Si1K?oc=5)
+
+---
 
 ### [On savait que le jeûne affamait le corps, mais des chercheurs ont découvert qu'il affame aussi cette maladie](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTVh0bkpBRFFpLXJ2WG5yeVFGOGRPTGRYX3dKaWI5aWVZemdGZENtRXNNUkFJbHhtTDFiRWJIQmZtVW5hQi1nNS1aWUFocmJPWHNsdUZ6aU9oaGRJUGlKNUplWk9WNGp1YnMyM1R5M21EY2ViZVRJUjhWeXlXaGt0RWo4UlFxR1hPU3dQWmQ0clBiYkVNQmdhZHh6NzY1NDN1RF9KZmd3enJqWThoZVJxXzlRWVJZb2dCaTlZa1BOR3UwUkhkVEFpbGxB?oc=5)
 
@@ -52,11 +68,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [WATCHMAN FLX und neue Blutverdünner revolutionieren Schlaganfall-Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
+### [Herzimplantate: Neue Alternative zu Blutverdünnern bei Vorhofflimmern - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
 
-2026-04-11 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-04-12 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
 
 ---
 
@@ -108,11 +124,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [NHS to offer second dose of MenB vaccine after Kent outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xUmVsdnZzZUVwQjNPRFBZYVYzYjBkdVYwd3VXY2tnTTVBVlF5UnJVaVFIcVVjOU9veTVOMmQ3TTg4R3dXS05LQThMVF9uZ3ZMdFhfVkZCazBheFpv?oc=5)
+### [L’era Ozempic in pillola: quando la fame si controlla - RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
 
-2026-04-11 <span class="news-indication-tag">AF</span>
+2026-04-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xUmVsdnZzZUVwQjNPRFBZYVYzYjBkdVYwd3VXY2tnTTVBVlF5UnJVaVFIcVVjOU9veTVOMmQ3TTg4R3dXS05LQThMVF9uZ3ZMdFhfVkZCazBheFpv?oc=5)
+來源：[RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
 
 ---
 
@@ -148,14 +164,6 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Five psychedelic drugs create the same brain activity patterns, despite having very different chemistries](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXpOTWd2XzdnREhKRHkyeTZFQ0tyU1FMMHB3SUFUOVltbGZHalRtTFEtWVJzeld4cFJBRjgzck5PS0htLUgxNm0tSUpLRTEtS2ZmdUdkVDlxay1Vbkw4YmoxOHpQSGp0bC10TWhMNXl1ZTRWRHQ3TTJZU0sydnBFR0hSY3Jrd0FvaGduVG9TNzB6eXB0N2JqSzJxTTdXeVRsdmdXWWNR?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXpOTWd2XzdnREhKRHkyeTZFQ0tyU1FMMHB3SUFUOVltbGZHalRtTFEtWVJzeld4cFJBRjgzck5PS0htLUgxNm0tSUpLRTEtS2ZmdUdkVDlxay1Vbkw4YmoxOHpQSGp0bC10TWhMNXl1ZTRWRHQ3TTJZU0sydnBFR0hSY3Jrd0FvaGduVG9TNzB6eXB0N2JqSzJxTTdXeVRsdmdXWWNR?oc=5)
-
----
-
 ### [The simple fruit pairing that can improve heart health naturally in just 8 weeks - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N?oc=5)
 
 2026-04-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -188,19 +196,19 @@ permalink: /news/dronedarone/
 
 ---
 
+### [Pere Ginés, médico hepatólogo: “La enfermedad en el hígado se desarrolla muy lentamente y sin síntomas” - Diario AS](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVpOaTJReWNaM0JJRjZmMlRaSkN1TGx3UXNubDZRb0gyQ3hnTXBlRnBGTE1BaHNSTzNqQVpQbThHVTBBaE9KUXU5YmIzTTFlVWJZSk0xUEpsaWNScDJXUWRzSWFmS1ViSTJuTmplZUt4em5oSDVSZFgySlhxUnh4R0RISHcxTHRvSEh3S0hpTUNDYzNiWC1mNEh1VUtmRDBKTklrZkJTUUhiMTNUaEg1VFRYTy1NVVc2QjBpand6NkEyZi1HQi1HQ05NZ0JJTFdHYzhsRU1nZFjSAewBQVVfeXFMT0ZoM21vdm5HbFFDSzNJUlc2TTE4OHZUWXpxaWQxNTY5NGI5NUNaRGxBUzE2aTlrVFdyT0J0aVJOV3NWMm4tQWlvbG16Yl9mYS1BTGtmZzdvdWhwNEFuaFgzNVJjdjk0ZUpoN3NLeUxQa2N6WnRxZkFveEtrRk5XeFRJM25DTFFJcDdDSHY4OXh2X2JPMTNEbHZaUEJHcXdETWJGQXpsSnJZZDdMZDg4OURzbkZja0k0YXdIV296Yy1Ya0JJUFBOSHhob3d5T2hWd3hsUmpIdkc5bFVMVlJmXzNIYV9WOC02OHBZeGM?oc=5)
+
+2026-04-10 <span class="news-indication-tag">AF</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVpOaTJReWNaM0JJRjZmMlRaSkN1TGx3UXNubDZRb0gyQ3hnTXBlRnBGTE1BaHNSTzNqQVpQbThHVTBBaE9KUXU5YmIzTTFlVWJZSk0xUEpsaWNScDJXUWRzSWFmS1ViSTJuTmplZUt4em5oSDVSZFgySlhxUnh4R0RISHcxTHRvSEh3S0hpTUNDYzNiWC1mNEh1VUtmRDBKTklrZkJTUUhiMTNUaEg1VFRYTy1NVVc2QjBpand6NkEyZi1HQi1HQ05NZ0JJTFdHYzhsRU1nZFjSAewBQVVfeXFMT0ZoM21vdm5HbFFDSzNJUlc2TTE4OHZUWXpxaWQxNTY5NGI5NUNaRGxBUzE2aTlrVFdyT0J0aVJOV3NWMm4tQWlvbG16Yl9mYS1BTGtmZzdvdWhwNEFuaFgzNVJjdjk0ZUpoN3NLeUxQa2N6WnRxZkFveEtrRk5XeFRJM25DTFFJcDdDSHY4OXh2X2JPMTNEbHZaUEJHcXdETWJGQXpsSnJZZDdMZDg4OURzbkZja0k0YXdIV296Yy1Ya0JJUFBOSHhob3d5T2hWd3hsUmpIdkc5bFVMVlJmXzNIYV9WOC02OHBZeGM?oc=5)
+
+---
+
 ### [Allergie e bronchiti. Quanto aumentano i malanni di stagione - La Provincia di Como](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTFZzUXRDOGtUN0NVMFdCZHQ1QTc4QmY1dThiSUJNU09jS3o2OTZqcWdJYzlnYjB3X25Gckl6RG5tQUZNbnRTWVhBNm1DTUcwRlF0SlU0a1ozYWJaeFphNGVwb2RwcGRMclhaWGdlLUplZDhlOFNJeTBDUTB5NmRtX2hWa2ZtcEZROHZFZnlmcV9xbTZIZDk3UXdrMXdtcDg4YzBTdEM3eTZqNUFPcmhzS3g4R0Y0V3FwODRsTGNqY1BISmVsSE1NYUFTa1Y4UQ?oc=5)
 
 2026-04-10 <span class="news-indication-tag">AF</span>
 
 來源：[La Provincia di Como](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTFZzUXRDOGtUN0NVMFdCZHQ1QTc4QmY1dThiSUJNU09jS3o2OTZqcWdJYzlnYjB3X25Gckl6RG5tQUZNbnRTWVhBNm1DTUcwRlF0SlU0a1ozYWJaeFphNGVwb2RwcGRMclhaWGdlLUplZDhlOFNJeTBDUTB5NmRtX2hWa2ZtcEZROHZFZnlmcV9xbTZIZDk3UXdrMXdtcDg4YzBTdEM3eTZqNUFPcmhzS3g4R0Y0V3FwODRsTGNqY1BISmVsSE1NYUFTa1Y4UQ?oc=5)
-
----
-
-### [Frequent headaches but normal reports? Doctors say this overlooked trigger could be the reason - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">stroke</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTJrRU1NWTAtLXRMd3hsSzdsNU5rVFA4QUcxLTk5NmREeGVaUlI4aHQ1bTVKTWlVYjdJQWNvbkFHaEkwRFZMNGZib2ttdEFfS25EU2FCN2w5Xzd1SU1NZFZpYmdSNFhSN0QzQmlqYVFJQzlZN2lGWkZRa014aXVYVTRyak9ZeDJaQVV1STNWOG9PbHhyV25PRG5SRDhGTW50OU1FWGhjcXY1Q0xJLTNTMHdvbDV5Y0YyV3pMcTBraDFTRUpLaXRDSEpBbGZrSFJ2bmoyRFN6UzZpQzd5S283ZlRjT0xmN1VzYm1lbGxobWpFd0s10gH6AUFVX3lxTFA1aUlReEFsRGJFdkZPY012MnlIQU91VU9pU0ZuYVQ0R2pKM1VMcGVESzRXMEtwbnc4V1JaeHZEXzlGUkJBX1Jzc0VPODNHVV9JLUJrcEFLRlI1enNWS2NMZGRQZTlmN2k2Nll5Umt3VFZzTGpXXzJLTnZ3MHJMQkFHZ1lLaENFd2NKU1RCV1lVQWZKTEo3VkxEcjZzYjBDX1hYTGlnRGZLWlU3dFg1dHhEb2xKTlhYcHhfMHREdjZZRUtZVlJHQkZPdVpjVmtjNFViMWtBamZ3V2JHS3V3bnJOcDFXZ1JfSHo2azFYZHlVa0VHQUU4NmFSREE?oc=5)
 
 ---
 
@@ -217,70 +225,6 @@ permalink: /news/dronedarone/
 2026-04-10 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
-
----
-
-### [Semaglutide e tirzepatide, più peso perso o effetti collaterali con specifiche varianti genetiche: lo studio USA](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
-
-2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
-
----
-
-### [Rauchen während der Schwangerschaft mit einem höheren Risiko für psychische Probleme bei Kindern assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaGxDQmhpcHVOMmdEcXd3WnFJN3Byd1BUb1JfREI0Sm1nanRRV0JiYTY4NXlsVUVfNWluSEJ2aGdJQ3RfWFI5RVI0X3BpOGdZSTZqSXBtWWQ5eE52YXNOUGhnaWVfQS1LTkRLQ1d5cFRtSlJNWHp3NDlXVkI3N3BkRjJZOFlJV2JCdU5Uck9YSm95NW94S09hS3R4YWFqbnUxS2w5ZWxkRkZZY0lJcDlZblNCVmgwcTJ2a1dIZGFRQ0R5OWdEcXhDTVktRzhsaGRnX3ozVlZB?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaGxDQmhpcHVOMmdEcXd3WnFJN3Byd1BUb1JfREI0Sm1nanRRV0JiYTY4NXlsVUVfNWluSEJ2aGdJQ3RfWFI5RVI0X3BpOGdZSTZqSXBtWWQ5eE52YXNOUGhnaWVfQS1LTkRLQ1d5cFRtSlJNWHp3NDlXVkI3N3BkRjJZOFlJV2JCdU5Uck9YSm95NW94S09hS3R4YWFqbnUxS2w5ZWxkRkZZY0lJcDlZblNCVmgwcTJ2a1dIZGFRQ0R5OWdEcXhDTVktRzhsaGRnX3ozVlZB?oc=5)
-
----
-
-### [Unos científicos españoles desarrollan un modelo que predice el avance de la peste porcina africana en Asia - Meteored España](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS01udXh2WjlPd1hQMVZ0NEFGYjZYTjh2Mm5PQmVBMkNmeXRFUXhkLVJOdFFSaGdoUnRlYlhWaTBkNGVTZnBNUVFuNFJ4X21PSXRlOE5RVWtMNFVRcm9ROE16U21BX01GVHJZWVg3Qi1oamk0bEI3UnNUMlRFWHp1UWlVMkhVSldPd21Mc19oVUtiYUVWYUFkeTluNm5TeEljSUlLblM0cVNfTEtBMHhyRDladEw3WDdRekt2N2UxUmJ5dHJ4Z01vU0k4NjktRU81?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[Meteored España](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS01udXh2WjlPd1hQMVZ0NEFGYjZYTjh2Mm5PQmVBMkNmeXRFUXhkLVJOdFFSaGdoUnRlYlhWaTBkNGVTZnBNUVFuNFJ4X21PSXRlOE5RVWtMNFVRcm9ROE16U21BX01GVHJZWVg3Qi1oamk0bEI3UnNUMlRFWHp1UWlVMkhVSldPd21Mc19oVUtiYUVWYUFkeTluNm5TeEljSUlLblM0cVNfTEtBMHhyRDladEw3WDdRekt2N2UxUmJ5dHJ4Z01vU0k4NjktRU81?oc=5)
-
----
-
-### [Späte Mutterschaft: Risiken und Praxisempfehlungen](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenM1czJ4S0lrZW5XSlg2Y1ZlUENfZmpfc1dLb096WnByTnhxU2VlSElWVUk3ZXQ3ekFQM09Kd0pkSjJUcmUyeUxQVzNkVFVqMUN4dXBibVhUbXlLVC1PeEJkTWN5WXI1NUI0UE1oYS1BdndtZ3Vvb0dDb3RPVl9ZOTdiWkx0VTh5M1Rrd1ZRenBKQ1k?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenM1czJ4S0lrZW5XSlg2Y1ZlUENfZmpfc1dLb096WnByTnhxU2VlSElWVUk3ZXQ3ekFQM09Kd0pkSjJUcmUyeUxQVzNkVFVqMUN4dXBibVhUbXlLVC1PeEJkTWN5WXI1NUI0UE1oYS1BdndtZ3Vvb0dDb3RPVl9ZOTdiWkx0VTh5M1Rrd1ZRenBKQ1k?oc=5)
-
----
-
-### [Study reveals the small changes to your diet, sleep and exercise that can add years to your life - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxQckY2NEw1b3hvYmJ1blI3WTBmY3NhTXhUT1hOZkNybC1QNzRnWDVNdE1hQ2NMZWF6SWlzRzNFeEdXcG9PMzBnQTZwWlF3VHlnQ0U1VHhHUnk1dmlwdlJidVgtcDZtZDRIUkFRVGNzSmM3WXQ1OEwtSDVmOGNvcEVKbmtDZ2dnbGc4eXBjY3Z1Q2x3WWNac1djdjZfN21rYWJCN2FV?oc=5)
-
----
-
-### [Diagnosi a 20 giorni dalla nascita, bimba salvata da grave patologia - Corriere della Sera](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlFCTFZ4UHZ1U01meUJra1hvdGQzN3pmX21OTmVDX0d1WEZQRzB2WDgxN0NuaEUydW5BcGtwdE9XTnJVZlI2TTZDb214UnI1M1ZjLTJ4ZUw3QUFBMmJLZmVEVy05dE9xc3FmTERzSTVhZl9STngxVkJMek9PaTIwT3h3M3ZORW9UT20wSFRTZzI5Zw?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlFCTFZ4UHZ1U01meUJra1hvdGQzN3pmX21OTmVDX0d1WEZQRzB2WDgxN0NuaEUydW5BcGtwdE9XTnJVZlI2TTZDb214UnI1M1ZjLTJ4ZUw3QUFBMmJLZmVEVy05dE9xc3FmTERzSTVhZl9STngxVkJMek9PaTIwT3h3M3ZORW9UT20wSFRTZzI5Zw?oc=5)
-
----
-
-### [Socken-Isomerie: Umgestülpte Moleküle eröffnen neue Möglichkeiten - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM29IUkR2blp6UWUzTC1yeTVpaHRQX0hWY2xlN1pOM0QxRzBiZk5TQm51YU8xUXVmdFVLeW5rSzdrcWFCblpNbEpSMTgwR3ZhR3EyWm44R0h0ODNyUGsxS2dKZl9nMm1LR01mMWZ4UVdxaGp1OFdjUHNyTk1EcGk4LXA3RXFCZ1R4VVp4Y0tiLWloSUF6LUNDZmdiZ0ZHN0E?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM29IUkR2blp6UWUzTC1yeTVpaHRQX0hWY2xlN1pOM0QxRzBiZk5TQm51YU8xUXVmdFVLeW5rSzdrcWFCblpNbEpSMTgwR3ZhR3EyWm44R0h0ODNyUGsxS2dKZl9nMm1LR01mMWZ4UVdxaGp1OFdjUHNyTk1EcGk4LXA3RXFCZ1R4VVp4Y0tiLWloSUF6LUNDZmdiZ0ZHN0E?oc=5)
-
----
-
-### [EHRA-Kongress 2026: Neuer Standard für Vorhofflimmern - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5vUXlFSkFISUNLQ3RxNUVNNTZiTmJzQnFUMGh6RjRNcTF2RUl1QWdqWXlrN1NuZ0ttUEJST3l2NmlUaEFmVTFxdEkwTzFfOENpS2JWcm1QZnJGVGNfbkk3d0lBWkpDVTNELWxxXzJ6TDd5VFNwNzRHb3RvbDhpMVZFM0Ewa1N6em5abDloU2lPeHh4RlZOaWVwVEJVTnVwUU9KYlR5OFFEcDJ5QWYtVUl3?oc=5)
-
-2026-04-10 <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5vUXlFSkFISUNLQ3RxNUVNNTZiTmJzQnFUMGh6RjRNcTF2RUl1QWdqWXlrN1NuZ0ttUEJST3l2NmlUaEFmVTFxdEkwTzFfOENpS2JWcm1QZnJGVGNfbkk3d0lBWkpDVTNELWxxXzJ6TDd5VFNwNzRHb3RvbDhpMVZFM0Ewa1N6em5abDloU2lPeHh4RlZOaWVwVEJVTnVwUU9KYlR5OFFEcDJ5QWYtVUl3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Síntomas de infarto en mujeres y cómo identificarlos a tiempo - Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
+### [La cardiopatía isquémica en mujeres presenta particularidades que condicionan el diagnóstico, el tratamiento y el pronóstico - Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
 
-2026-04-10 <span class="news-indication-tag">cardiopatía</span>
+2026-04-12 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Proclama del Pacifico](https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1BTUzBIQ0N0eFYxSXRJYW1oelZwZVExZEQ4OFdOelk5eEc3VklDcjlhaGg5X2txa196SHp5bWhibm9NTi1qNFNFcjM0S29WaTNXV3JiRjBYVExxYmxuVjFHX0VhSHFjOTI1RWRTLVdaOFF6WTVFLTZhYm9SNFpvTjBDTkM?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-10 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
-
----
-
-### [Semaglutide e tirzepatide, più peso perso o effetti collaterali con specifiche varianti genetiche: lo studio USA](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
-
-2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 
 ---
 

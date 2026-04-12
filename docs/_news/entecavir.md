@@ -14,7 +14,7 @@ permalink: /news/entecavir/
 ---
 
 <p class="key-answer" data-question="Entecavir 有什麼相關新聞？">
-<strong>Entecavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Entecavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/entecavir/
 <p><a href="{{ '/drugs/entecavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbDhuNzV3bHUybHMwekpDVG1WdUJaMUdaUmN4TG1yT1M2MElJYTNHSU1uOEhrdHRBNkZwdks0UTVHanJNR3lSOGFuckw4SHpUWEZXRnMwWTBSYmwxdjB1dkE3a3pjM2h4dHJqOEZCT3RoQjBWTE5HcWJNQlFuNlVRNjNjcktWekpzLWYtN3I1bFRfSlN2X0tvWWhvWklqd2lYb3hBUnQzMWhobXZSSEo5bkVNNGV6eS1sMFJoOGFHSnJna0tnMzRGZ0ZVaEVRcmVyR3ZWUk5jZGZWUHNGV3AyTFJ3NWdCYm8zdmtDSjVRSEREMUludmZZcXVoZzdUaV90c0pBSG4zLV9vbU0?oc=5)
+
+2026-04-12 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbDhuNzV3bHUybHMwekpDVG1WdUJaMUdaUmN4TG1yT1M2MElJYTNHSU1uOEhrdHRBNkZwdks0UTVHanJNR3lSOGFuckw4SHpUWEZXRnMwWTBSYmwxdjB1dkE3a3pjM2h4dHJqOEZCT3RoQjBWTE5HcWJNQlFuNlVRNjNjcktWekpzLWYtN3I1bFRfSlN2X0tvWWhvWklqd2lYb3hBUnQzMWhobXZSSEo5bkVNNGV6eS1sMFJoOGFHSnJna0tnMzRGZ0ZVaEVRcmVyR3ZWUk5jZGZWUHNGV3AyTFJ3NWdCYm8zdmtDSjVRSEREMUludmZZcXVoZzdUaV90c0pBSG4zLV9vbU0?oc=5)
+
+---
 
 
 <div class="disclaimer">
