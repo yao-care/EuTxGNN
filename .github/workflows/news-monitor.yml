@@ -50,7 +50,9 @@ jobs:
           git config user.email "action@github.com"
 
           # Add changed files
-          git add data/news/*.json docs/_news/ docs/data/news-index.json || true
+          [ -d data/news ] && git add data/news/*.json 2>/dev/null || true
+          [ -d docs/_news ] && git add docs/_news/
+          [ -f docs/data/news-index.json ] && git add docs/data/news-index.json || true
 
           # Check if there are changes
           if git diff --staged --quiet; then
