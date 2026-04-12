@@ -14,7 +14,7 @@ permalink: /news/belatacept/
 ---
 
 <p class="key-answer" data-question="Belatacept 有什麼相關新聞？">
-<strong>Belatacept</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Belatacept</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/belatacept/
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（38 則）
+## 相關新聞（29 則）
+
+### [Un premier cas européen de grippe aviaire chez l'homme confirmé par l'OMS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDZkZkxBS0lKc3NxdFJWWFV5SDJrQWtuSi03X2JZU0U1cTNVdC1ycXJIV1VzYzNVampqLUV2eXpxNVp2c3FZaDltYmRjTTVtd19KbUY3NGJEMXJjYVZjUVdVaXc1Wi1tZVJzbkZfWHV2TUJhMVlJVUdneE9fUzRuMC1BWk5yWWtHMmZWcENCa0FOY0dYMDhCTWpLRnpRY0hUVmpaVEdnRnMzbUFHbjhLYkIwN0Z0d0x30gG-AUFVX3lxTE9EN3NkSWV3TlJpa0MxMDh4RGlGeTFDYWNtVVNhcnExOE9BNTdiNTNRWGNxX3RJWUwxaVpEMG9pVTR1NV9yblExX2RzdEhpQlFjZi1ZRFBpeF91dWduQnd3dmxRQXlfYWtvZlUtWUVkUFY4d1p5MHNMUFFScUNCS0FwOXVyYmQxQ1VUdGxvSEFrWkNxQ0RKY3VpTlVxQjVfQjhCUHY2TjlKQUp0VDhJU1lrSDhKVWhocWJyZHJ2REE?oc=5)
+
+2026-04-11 <span class="news-indication-tag">MS</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDZkZkxBS0lKc3NxdFJWWFV5SDJrQWtuSi03X2JZU0U1cTNVdC1ycXJIV1VzYzNVampqLUV2eXpxNVp2c3FZaDltYmRjTTVtd19KbUY3NGJEMXJjYVZjUVdVaXc1Wi1tZVJzbkZfWHV2TUJhMVlJVUdneE9fUzRuMC1BWk5yWWtHMmZWcENCa0FOY0dYMDhCTWpLRnpRY0hUVmpaVEdnRnMzbUFHbjhLYkIwN0Z0d0x30gG-AUFVX3lxTE9EN3NkSWV3TlJpa0MxMDh4RGlGeTFDYWNtVVNhcnExOE9BNTdiNTNRWGNxX3RJWUwxaVpEMG9pVTR1NV9yblExX2RzdEhpQlFjZi1ZRFBpeF91dWduQnd3dmxRQXlfYWtvZlUtWUVkUFY4d1p5MHNMUFFScUNCS0FwOXVyYmQxQ1VUdGxvSEFrWkNxQ0RKY3VpTlVxQjVfQjhCUHY2TjlKQUp0VDhJU1lrSDhKVWhocWJyZHJ2REE?oc=5)
+
+---
 
 ### [From skin changes to headaches... the six signs you're taking too many vitamins - Daily Mail](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGJyQ3I1dkhYSW0yZkFMcjlGTWpvRlJ0Mk14OGtyQmV1S191cTdtT1I0cjZ4ZkRWaHhqRkNld0dJY083M1ZqNWU4cmZ6SlRnZzVrYjNsZ1E5NlhHYXpYYnZuVmNkb1FiNkZwTmJUdkQ3akEzeUd3bFE2V2h2dUY4OU5lOGFUdWhYSFFjaVhCTmptSVU2R2JacDhUSdIBoAFBVV95cUxPbFNtZUNCUXdvZE5VcXNKNENPV0xVNXZ5MVhuMUt0NWU1STdKNHVUUWMxUEExdVhZNV9HOE9NTTVjOU1McU96VVVFX3ZIZWpuNkFPblRfeHhFV091Y2JfbkJBUWRTMDZId0dtLU9xcnNWc3N5ak5sR2xnelZ4NTl6SndiNm8tTVBUVGo0X21HQ2JLcXU3b2FVMmFVcVVFa2pP?oc=5)
 
@@ -57,14 +65,6 @@ permalink: /news/belatacept/
 2026-04-11 <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxQajkwU1BaQ2lwX2Rab3dVbXBlUUdPM29aT25fRVEzZ0Z2SkFlc1p5alBzWnFNMnBndURQYTB1cWNlVzdGOU4zcVFuNUFaQjViVlBOU1RlYXRvbjZiTjNTaHN0cUQwNXpwZmNMaHZiRVNnV0NadFpNbER2cVB6U3hodXNYRF81QmNDMVFZLV9yRW40akpKUk9JNG9ydw?oc=5)
-
----
-
-### [¿Qué es el nodavirus? El virus acuático que puede dejarte ciego - El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0Nxd0ZveXJ4a1lvdFc3Y0dVSFJYck9rR2NLamRvSnpjcEVRekhpMGZxMlg3QmQwZEZYbWtiWTdmN2h3QkR4bWRIMkkyTGd6RlVLZThhMEQtbDhnQmJiR2stMXBYbGljSGhhcFl5aW9tT0lZdlJvZmRjemxTN0tlTkY5ZHl6UEhkMTZfTU04ekpDTGU3TzNZMklqRVJWblc1ZktMOFlWU3lURFZ2OEHSAbMBQVVfeXFMTWNEaDE0WURrWnVyRzlxUzBjd2VhNXl1NXJHUTdMWU9Da3lScmhjeXVzOENUbFMtOE5qRWx1R21yejBuV1ZPcHFBTlctZ01TMlhudWJkZHdKVHNSamdBd19vMXE3UF9nci1RdmhnSWRIQzFYWnhaa2tFaENTRUY3R3B2dFlRY3BLTXN5SXRNUjZwSjg2bzB6WEs3VlVGQ21pVTdLdTJFcGxjSFlFSmU2azY2d0k?oc=5)
-
-2026-04-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0Nxd0ZveXJ4a1lvdFc3Y0dVSFJYck9rR2NLamRvSnpjcEVRekhpMGZxMlg3QmQwZEZYbWtiWTdmN2h3QkR4bWRIMkkyTGd6RlVLZThhMEQtbDhnQmJiR2stMXBYbGljSGhhcFl5aW9tT0lZdlJvZmRjemxTN0tlTkY5ZHl6UEhkMTZfTU04ekpDTGU3TzNZMklqRVJWblc1ZktMOFlWU3lURFZ2OEHSAbMBQVVfeXFMTWNEaDE0WURrWnVyRzlxUzBjd2VhNXl1NXJHUTdMWU9Da3lScmhjeXVzOENUbFMtOE5qRWx1R21yejBuV1ZPcHFBTlctZ01TMlhudWJkZHdKVHNSamdBd19vMXE3UF9nci1RdmhnSWRIQzFYWnhaa2tFaENTRUY3R3B2dFlRY3BLTXN5SXRNUjZwSjg2bzB6WEs3VlVGQ21pVTdLdTJFcGxjSFlFSmU2azY2d0k?oc=5)
 
 ---
 
@@ -100,35 +100,19 @@ permalink: /news/belatacept/
 
 ---
 
-### [Ce type de plastique serait responsable des cancers du sein chez les femmes : pourquoi est-il si dangereux ? - Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcE5zdTgxTzZPSmQwZmV5VGJYX0x3dFlYTmNIbVJWYnlFOHRTb2VnU19nR0pubXJ4a1U5aXFQMU5hdHV6S3pEYkdiV3NNc1llUm5TT0FuQjVqWVRwTm0zSWhjM0NFd0RQUHctajJHTHluNkJ0UXdsNzh3bmhlcURQQmZ5S2NBSDJDUlFubUJJb0NZSUZOMmYteW83RkNkNDlzS1hQSkVMQmtRMERsOU9fRHZXQ0o2bUJmaEtQd0R1MjVNd2RJZUw4RDFR?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span>
-
-來源：[Marie France, magazine féminin](https://news.google.com/rss/articles/CBMiygFBVV95cUxNcE5zdTgxTzZPSmQwZmV5VGJYX0x3dFlYTmNIbVJWYnlFOHRTb2VnU19nR0pubXJ4a1U5aXFQMU5hdHV6S3pEYkdiV3NNc1llUm5TT0FuQjVqWVRwTm0zSWhjM0NFd0RQUHctajJHTHluNkJ0UXdsNzh3bmhlcURQQmZ5S2NBSDJDUlFubUJJb0NZSUZOMmYteW83RkNkNDlzS1hQSkVMQmtRMERsOU9fRHZXQ0o2bUJmaEtQd0R1MjVNd2RJZUw4RDFR?oc=5)
-
----
-
-### [Crieff Hydro confirms ‘large’ number of guests struck by sickness outbreak - The Courier](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGpVekc3RWI0OFZ2UHhLcnlXUU9sUEhtWDlpNFJPY1h1dGdTOC01X3NzZDFqa0MxSTZQRzJLQ0dMZE5TY3FubEdDU0R1RjllX09GSHFUSlNYbzhMeGZBa3RjUkRKWFc3ZzROWTZJbENlZ05BZkxFUS1Vbzc1RXdKWjFkbVBoNmlrRWpyeE1yNXBGbjla?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[The Courier](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGpVekc3RWI0OFZ2UHhLcnlXUU9sUEhtWDlpNFJPY1h1dGdTOC01X3NzZDFqa0MxSTZQRzJLQ0dMZE5TY3FubEdDU0R1RjllX09GSHFUSlNYbzhMeGZBa3RjUkRKWFc3ZzROWTZJbENlZ05BZkxFUS1Vbzc1RXdKWjFkbVBoNmlrRWpyeE1yNXBGbjla?oc=5)
-
----
-
 ### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
 
 2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+來源：[ladbible.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
 
 ---
 
-### [Forschende entdecken brisante Darmkrebs-Spur: „Anzeichen, dass sich etwas anderes im Darm verändert“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmlaYWtpYzl0cy1VdDZ2ZUNOTk54TlI2YjF5X1lWZjVkZ09SR1BQek5HMEVOTVpnLXlVNFF5NVJVNjBkUFpmRDAwYWZzRmlfM3AzcEpnSDVuRGgwazNoUDl5TWhmSVQ2MjI4RVB5YzNDelVicHdJNEF3dTRTc3h0UGQ4ZERwLVZsamYwR0V2djFUbWhwcU45UEs3SkdwS1YzTmgtUGsyeVZQZ1cy?oc=5)
+### [Forschende entdecken brisante Darmkrebs-Spur: „Anzeichen, dass sich etwas anderes im Darm verändert“](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFR6M001OUxjLWYxQWJtR2s5bTVfdzVfQmxTdEVQOTMyd3JWTmJGRzNZYk5DOVRFby1pUnV6VWNoM2E1T1JGdnVUNlNBNjRoYWJDWlhscHhlQVFSSWxxYzRPNWZmRnM4bjJ0MTNmcGc3c3g2X1JxZ0VPX2lDYldTR2hLdzNNSlpqckVsbzhFbldGQlB1SDJsd2Z2YXNXelZEMEZjVU5uWE9hd3VhT2MtUmtR?oc=5)
 
 2026-04-10 <span class="news-indication-tag">Krebs</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmlaYWtpYzl0cy1VdDZ2ZUNOTk54TlI2YjF5X1lWZjVkZ09SR1BQek5HMEVOTVpnLXlVNFF5NVJVNjBkUFpmRDAwYWZzRmlfM3AzcEpnSDVuRGgwazNoUDl5TWhmSVQ2MjI4RVB5YzNDelVicHdJNEF3dTRTc3h0UGQ4ZERwLVZsamYwR0V2djFUbWhwcU45UEs3SkdwS1YzTmgtUGsyeVZQZ1cy?oc=5)
+來源：[Merkur](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFR6M001OUxjLWYxQWJtR2s5bTVfdzVfQmxTdEVQOTMyd3JWTmJGRzNZYk5DOVRFby1pUnV6VWNoM2E1T1JGdnVUNlNBNjRoYWJDWlhscHhlQVFSSWxxYzRPNWZmRnM4bjJ0MTNmcGc3c3g2X1JxZ0VPX2lDYldTR2hLdzNNSlpqckVsbzhFbldGQlB1SDJsd2Z2YXNXelZEMEZjVU5uWE9hd3VhT2MtUmtR?oc=5)
 
 ---
 
@@ -137,14 +121,6 @@ permalink: /news/belatacept/
 2026-04-10 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Télégramme](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOamxmR3U4cGp1c2paaXpvNkV0TnJ6Tmp6T2plUjJDa185MVI5QmhzZTRLQlhKSmlTSjJzdzMxR240bVhodTBnaDZoSVJSUnVOalVxX3JzdFBSeDY2azEyTDZGMEpfRWdCLUJtWXhGZzlabDUyQjl1Y0c4T3BRcG9Xb3oyZXphTFZiYWhKdHk5SVI4OVRzQ2lPMnlCRDVCdGFreE1KZ3A1S1p3bC1tUTVhajJDb00zMlNVRWo0U1VoYXo0UW1JQnVQZm1MaVQ0S1BFNnRPaVgySW80YmttSzZUZkZn?oc=5)
-
----
-
-### [Silvio Garattini, oncólogo de 97 años, da su menú para vivir más años: "50 gramos de pasta, poca carne, fruta cocida, legumbres y pescado"](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ0JVN1JYV1RoeGczOVlZR3VwVTVTcHd5bWtpUlBnMHd0M1Q4ZS1KOHE0SlI3NGIzNFNyMDg1U3pnR3Jod29xQkhpTWs5cnpuYWRIejdVN1UxVDlZclE5SHh1V2F5MkhRQkRZaUpQdFBjLXNWdjZqUFRIbkwxcGN3X2dGSTg4M09oemxtaEpmZ1VoeFU1VVk2NU8xNlc0dnNqTjZXc09JRHZNRF9HczNNeHdQMGc4cGktMmJlMzZGR0t3X1lwN0FFaXdUMWp4aGtsbEN1LUdwMWN3VEhQLWpQc2V6T0ZUVjJ1NnNMV05RQV85SDJpeHFtbk1pSUI?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ0JVN1JYV1RoeGczOVlZR3VwVTVTcHd5bWtpUlBnMHd0M1Q4ZS1KOHE0SlI3NGIzNFNyMDg1U3pnR3Jod29xQkhpTWs5cnpuYWRIejdVN1UxVDlZclE5SHh1V2F5MkhRQkRZaUpQdFBjLXNWdjZqUFRIbkwxcGN3X2dGSTg4M09oemxtaEpmZ1VoeFU1VVk2NU8xNlc0dnNqTjZXc09JRHZNRF9HczNNeHdQMGc4cGktMmJlMzZGR0t3X1lwN0FFaXdUMWp4aGtsbEN1LUdwMWN3VEhQLWpQc2V6T0ZUVjJ1NnNMV05RQV85SDJpeHFtbk1pSUI?oc=5)
 
 ---
 
@@ -204,27 +180,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [Alarm as acting CDC director delays report showing Covid vaccine benefits - The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BR2FhdFFfSmx3cUNZT0FIQ3AyS2dCbUtGbjRFc0lfQlcyRTNCck1YNFBuTnpZTjVsYmdtYUpCX1ZDVk1OYVZDZzU3TXBnR3ZrdzdudV9QY0pRVHRDczRnOVoxdWljUnFhOFN3WDlNYWVIU0l3dU93VUF1UQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BR2FhdFFfSmx3cUNZT0FIQ3AyS2dCbUtGbjRFc0lfQlcyRTNCck1YNFBuTnpZTjVsYmdtYUpCX1ZDVk1OYVZDZzU3TXBnR3ZrdzdudV9QY0pRVHRDczRnOVoxdWljUnFhOFN3WDlNYWVIU0l3dU93VUF1UQ?oc=5)
-
----
-
 ### [Five early signs of bowel cancer everyone should know - The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
 
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
-
----
-
-### [Nuova scoperta sui tumori, ecco cosa li rende così aggressivi: così li si può contrastare - il Giornale](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdl83bWVRTkw1NldNaE1RWVY3emxKTE9Fd0hsOHg1NTkwOEY0aUIwdjBubG8zVEwtRnRscVBzaWlvTThTZExUcGpHWFF2YjBzclVvUzhHMmtVQmJhcEx4ZkE2X0xldDBkZUJ4M09LRkE3dk1SdkNrSXNPRkhaYktzemRxLTNBSVIweEx3ODRtQksyUWpuUkUzbDg0Uy1JazV5WjNqNGdFaWFoT083czZucExhVWNSUQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">tumor</span>
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdl83bWVRTkw1NldNaE1RWVY3emxKTE9Fd0hsOHg1NTkwOEY0aUIwdjBubG8zVEwtRnRscVBzaWlvTThTZExUcGpHWFF2YjBzclVvUzhHMmtVQmJhcEx4ZkE2X0xldDBkZUJ4M09LRkE3dk1SdkNrSXNPRkhaYktzemRxLTNBSVIweEx3ODRtQksyUWpuUkUzbDg0Uy1JazV5WjNqNGdFaWFoT083czZucExhVWNSUQ?oc=5)
 
 ---
 
@@ -297,38 +257,6 @@ permalink: /news/belatacept/
 2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
-
----
-
-### [ChatGPT 'uncovered woman's rare condition' after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
-
-2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
-
----
-
-### [Nierenkrebsfälle könnten sich bis 2050 verdoppeln: Herausforderungen und neue Ansätze - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2hJNjQ0NVlYZ2FIVVRaV2FyRlFwLXhkblVhZXRMQW1JbTd1dzl5VE9oMEQ5T29DVUpqLWFQYVpua29vamtxZjZrYldScXVrdTVwbHJacXRBS2hhai1rZW04UGZqdFRqQjYwLTEzbGphbjZzLTIyS045QTNQdGkwVWh3cjZaa0ZlbEU1Nk1VNHBOTldPQmNTcGRVNHhIbDZYRWZOYXlhWEp3NC1wYkRfUjg2a01wM003SFdv?oc=5)
-
-2026-04-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2hJNjQ0NVlYZ2FIVVRaV2FyRlFwLXhkblVhZXRMQW1JbTd1dzl5VE9oMEQ5T29DVUpqLWFQYVpua29vamtxZjZrYldScXVrdTVwbHJacXRBS2hhai1rZW04UGZqdFRqQjYwLTEzbGphbjZzLTIyS045QTNQdGkwVWh3cjZaa0ZlbEU1Nk1VNHBOTldPQmNTcGRVNHhIbDZYRWZOYXlhWEp3NC1wYkRfUjg2a01wM003SFdv?oc=5)
-
----
-
-### [Pesticides, pollution, cadmium… Le cancer est-il «au bout de la fourchette» ? Ce que dit vraiment la science - Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVm4yOVBFZFh6bHZQbmpKcXJral9obTFTVGU3VzE5QnR1ajRUVWNLRXFzdGNjdUJvZGluMVhaTWdlZWFCaGhxY3dRX0xzTEpPcjM3cHdjZEczcTBoLVMyeU0tY1RKNGhSc2Fxc3poWEp0ejIzdFB6WXBmMVRGN1dNdktJZFJ4T1ZTUkkxWnEwRnU2Z2g2UXBSZktlQ1R6UUdhaG5SREp3b3hnUzNsVDdFanp3bldVYXZIa0hwWkxGOFE2NUdXdWV4U1JBbS1tOXJfMEE?oc=5)
-
-2026-04-09 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVm4yOVBFZFh6bHZQbmpKcXJral9obTFTVGU3VzE5QnR1ajRUVWNLRXFzdGNjdUJvZGluMVhaTWdlZWFCaGhxY3dRX0xzTEpPcjM3cHdjZEczcTBoLVMyeU0tY1RKNGhSc2Fxc3poWEp0ejIzdFB6WXBmMVRGN1dNdktJZFJ4T1ZTUkkxWnEwRnU2Z2g2UXBSZktlQ1R6UUdhaG5SREp3b3hnUzNsVDdFanp3bldVYXZIa0hwWkxGOFE2NUdXdWV4U1JBbS1tOXJfMEE?oc=5)
-
----
-
-### [“Estaba cansada, me decían que era estrés y tenía un tumor en la hipófisis”: el síndrome del exceso de cortisol que todavía se diagnostica tarde - La Vanguardia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbGVrM3VZYkJEVWEyQV9LMjc5WFNfeWV2T2pIRksta1F4TG5LbmNzeVVLVkswbnZZSFJNN0xOLWdzc1Z4S056UkJFV19tR2lWYVdILVlFeXpZMXhUTUlvT1FqX1pnZ3k0Mlgwckw3bjJ2WmZCd3FMb19DRHpSYzVMMUZqaHRMRVI1QUZhU3cwX3JPUTI0aThzSmlvb0RkTmJ2aVM3VTZFS0xuLWZnWnVqYjhzSHpwdFRRWUhEYjF2VjZmTTgySVBLRG1TSjVoa19Ic3ZWbTctM3dCdi1YTkR6Y3ZUZVdNQm1zMVdxcXFoZktNQThsb3ByUzF0RTnSAYICQVVfeXFMT3kxckhoY0ZSbEpmNGdTVWtaNnpONmFEV2ZkR29LNURCQ0VsVGpDM0FrQ25PRV80czNXS2FpSDlNM3AyMHpyQUNUelJDSFVNaUowNHdsdi1Yc0lacC00Z1VJVEVpNzBpYkEySHJBTkVmYmRPY3ZiUEhOS2VBTFFHam5HSVRuOGRvYVZvMEthR0xldll0WWdfVjVJN3Q0aGhyM3FRdzRmZDlGV3hVcnhONlkwWEF3el9fYUVsTUZfb0N6VWhhTXdqNDlwMk1pZklNMnZoSFg2cHlacU1UdXZMSmRQWndkM0hlN2hfOUVIQXdzMmJHMXZMV3Z2R2QxdE9iWnNR?oc=5)
-
-2026-04-09 <span class="news-indication-tag">tumor</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbGVrM3VZYkJEVWEyQV9LMjc5WFNfeWV2T2pIRksta1F4TG5LbmNzeVVLVkswbnZZSFJNN0xOLWdzc1Z4S056UkJFV19tR2lWYVdILVlFeXpZMXhUTUlvT1FqX1pnZ3k0Mlgwckw3bjJ2WmZCd3FMb19DRHpSYzVMMUZqaHRMRVI1QUZhU3cwX3JPUTI0aThzSmlvb0RkTmJ2aVM3VTZFS0xuLWZnWnVqYjhzSHpwdFRRWUhEYjF2VjZmTTgySVBLRG1TSjVoa19Ic3ZWbTctM3dCdi1YTkR6Y3ZUZVdNQm1zMVdxcXFoZktNQThsb3ByUzF0RTnSAYICQVVfeXFMT3kxckhoY0ZSbEpmNGdTVWtaNnpONmFEV2ZkR29LNURCQ0VsVGpDM0FrQ25PRV80czNXS2FpSDlNM3AyMHpyQUNUelJDSFVNaUowNHdsdi1Yc0lacC00Z1VJVEVpNzBpYkEySHJBTkVmYmRPY3ZiUEhOS2VBTFFHam5HSVRuOGRvYVZvMEthR0xldll0WWdfVjVJN3Q0aGhyM3FRdzRmZDlGV3hVcnhONlkwWEF3el9fYUVsTUZfb0N6VWhhTXdqNDlwMk1pZklNMnZoSFg2cHlacU1UdXZMSmRQWndkM0hlN2hfOUVIQXdzMmJHMXZMV3Z2R2QxdE9iWnNR?oc=5)
 
 ---
 

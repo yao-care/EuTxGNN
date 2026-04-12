@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Berberina, el falso “Ozempic natural” que ha conquistado las redes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0QxZFNlZHdTUEJSUG1ZM3pTWXhvWC1BbUlxR2E0V1RnVENVVUFoUFU0ZG0tUWlvZG9Jcjd5cVZ2enRoeklIQXBKUFZ2R01ZeTRGVE5GbXZiNHlCTVlvVGUwZlYwRzFhMngyYzJWd1RwMWZ0N1lJbG1SUEExc0dSYmlONm8wM3ZhN2RQb1k2WXExeC1vWktpcWhma0hZNGVXbzBrZlB2WmpVdk9zRDZlUHEzbnVfOXVWUXdUSkdpQjjSAcYBQVVfeXFMUFBVcDltSy1yX3B3RGRBLUdfZFhrSEdhZXJjeGE0bkFfUXdZaGFYbHNlTTZLUzBZTkYwZ2NHWHRvTVQzY0tYblk5Z1NFSmpXSDRGbEFYNDlodHFmRGRKUmNaWUVrazVyY2k2VjU5Z3hRbWpSa2x3SUwwT2xpRUNMOXJzeXd0UVk0clBVRFJXbnVPZjlLM3IxSVBrTHY4c0Q3R3p4eURQNkthWXBxRnRVdXZONVhLbnBOMW8zQXhxcFEyaUFGZmdn?oc=5)
+### [L’era Ozempic in pillola: quando la fame si controlla](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
 
-2026-04-10 <span class="news-drug-tag">Semaglutide</span>
+2026-04-11 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[MUNDIARIO](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0QxZFNlZHdTUEJSUG1ZM3pTWXhvWC1BbUlxR2E0V1RnVENVVUFoUFU0ZG0tUWlvZG9Jcjd5cVZ2enRoeklIQXBKUFZ2R01ZeTRGVE5GbXZiNHlCTVlvVGUwZlYwRzFhMngyYzJWd1RwMWZ0N1lJbG1SUEExc0dSYmlONm8wM3ZhN2RQb1k2WXExeC1vWktpcWhma0hZNGVXbzBrZlB2WmpVdk9zRDZlUHEzbnVfOXVWUXdUSkdpQjjSAcYBQVVfeXFMUFBVcDltSy1yX3B3RGRBLUdfZFhrSEdhZXJjeGE0bkFfUXdZaGFYbHNlTTZLUzBZTkYwZ2NHWHRvTVQzY0tYblk5Z1NFSmpXSDRGbEFYNDlodHFmRGRKUmNaWUVrazVyY2k2VjU5Z3hRbWpSa2x3SUwwT2xpRUNMOXJzeXd0UVk0clBVRFJXbnVPZjlLM3IxSVBrTHY4c0Q3R3p4eURQNkthWXBxRnRVdXZONVhLbnBOMW8zQXhxcFEyaUFGZmdn?oc=5)
+來源：[RSI](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
 
 ---
 
@@ -65,6 +65,14 @@ permalink: /news/semaglutide/
 2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
+
+---
+
+### [Berberina: beneficios y mitos del mal llamado “Ozempic natural” - EL PAÍS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlVyXy1KRkdUVUs5dHNhQXNNVFJHeUtkLUs4VmxWS2lCX096cWRxZW1yU2dieklWSG1zTHhPa2J1cTlaamZadHRCc0x2QXpEXzRsUmk3RkxuNDNMRmhsUk55OEtnaG9xOHFjb3pSQml5d0NHcV9Wcmp2QllzYloxZDFHREVfbTVUODNEbnhkMF83U0VuWjd1NW1KdUd6SHNxSE12UVdVQWJQN1Foamg4QnNKYw?oc=5)
+
+2026-04-10 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlVyXy1KRkdUVUs5dHNhQXNNVFJHeUtkLUs4VmxWS2lCX096cWRxZW1yU2dieklWSG1zTHhPa2J1cTlaamZadHRCc0x2QXpEXzRsUmk3RkxuNDNMRmhsUk55OEtnaG9xOHFjb3pSQml5d0NHcV9Wcmp2QllzYloxZDFHREVfbTVUODNEbnhkMF83U0VuWjd1NW1KdUd6SHNxSE12UVdVQWJQN1Foamg4QnNKYw?oc=5)
 
 ---
 

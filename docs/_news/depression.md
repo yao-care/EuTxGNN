@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# dépression（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
+<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,19 +37,19 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
+### [« J’ai subi une dépression post-partum et je me suis aperçue que j’étais peu accompagnée » : Claire Rico aide les parents depuis 2022 - Le JSL](https://news.google.com/rss/articles/CBMihgJBVV95cUxOTm03bjJOVHdIMXpKYy1vdzl3ZXNzOVg4eTJlcEpmd1ZkTTB4bEUtLXZ4R0pCMF8wbmY3Z1JtU2huLXktRmdtZmYxdlZqRHZ5YlJtLUx3ZjJWUHRqd3pya2VOWVpDakZWdTh5LUtCMnpZSGRJVFJJU0xvNlEyQ0lGbi1pdXNhR0xMLWt3REl6QnZFMVFabUJyVU45WWFFR0d1cW1WZm8zV2oxZDVYV0lvdm0wTFhHV3QzUkNFRWQwdWpxb0tZbk1ZNmZZanFCR1FXb2ZZN2hFNHBXUlJHeGh4TThlUll3NDVQT3E5RlV4VXluTkpFTk81OFdHVnpjZEp2bmU4N1hn?oc=5)
+
+2026-04-11
+
+來源：[Le JSL](https://news.google.com/rss/articles/CBMihgJBVV95cUxOTm03bjJOVHdIMXpKYy1vdzl3ZXNzOVg4eTJlcEpmd1ZkTTB4bEUtLXZ4R0pCMF8wbmY3Z1JtU2huLXktRmdtZmYxdlZqRHZ5YlJtLUx3ZjJWUHRqd3pya2VOWVpDakZWdTh5LUtCMnpZSGRJVFJJU0xvNlEyQ0lGbi1pdXNhR0xMLWt3REl6QnZFMVFabUJyVU45WWFFR0d1cW1WZm8zV2oxZDVYV0lvdm0wTFhHV3QzUkNFRWQwdWpxb0tZbk1ZNmZZanFCR1FXb2ZZN2hFNHBXUlJHeGh4TThlUll3NDVQT3E5RlV4VXluTkpFTk81OFdHVnpjZEp2bmU4N1hn?oc=5)
+
+---
+
 ### [Kaffee senkt Risiko für Vorhofflimmern - Medical Tribune](https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2VZWDk3QlYybVVib0FuYmlJVE5rOUlSSEp1N0p6Yk15U3FIc251SE1qZ3lhZXpxUTRiUEZJZ1FERHB4bTQ0Q0c3Mk1xWncxcmRFTjlZcTBYSEIxcjVXTElFN1hxckJhWXo2MFpzQThiT05SMFp6amo0Tl9OTU9hSG5TZDYtVnhycWx2a25VeVFYTnhC?oc=5)
 
 2026-04-11
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2VZWDk3QlYybVVib0FuYmlJVE5rOUlSSEp1N0p6Yk15U3FIc251SE1qZ3lhZXpxUTRiUEZJZ1FERHB4bTQ0Q0c3Mk1xWncxcmRFTjlZcTBYSEIxcjVXTElFN1hxckJhWXo2MFpzQThiT05SMFp6amo0Tl9OTU9hSG5TZDYtVnhycWx2a25VeVFYTnhC?oc=5)
-
----
-
-### [Depression bei jungen Vätern: Wann sie besonders gefährdet sind](https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1JtNGN2ejlmaXN5bllrcmV5OVlTMFBpaFB2aUQ3MlNOa0NGb21mQnphYTEzS1VKWlQxdkV3WmpNaVc2bjJaZk5vUjg1ZkMwZm5fMVo1VElNZ3dCMDlWTlFuNExKWHFmWGM3bUZfZjU4dGNyZUt6RTJRY3hTMkRiT1MxYkxMZDBrVV90VXI3TFQ3aEtVUlp0WGRKRQ?oc=5)
-
-2026-04-10
-
-來源：[GMX](https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1JtNGN2ejlmaXN5bllrcmV5OVlTMFBpaFB2aUQ3MlNOa0NGb21mQnphYTEzS1VKWlQxdkV3WmpNaVc2bjJaZk5vUjg1ZkMwZm5fMVo1VElNZ3dCMDlWTlFuNExKWHFmWGM3bUZfZjU4dGNyZUt6RTJRY3hTMkRiT1MxYkxMZDBrVV90VXI3TFQ3aEtVUlp0WGRKRQ?oc=5)
 
 ---
 

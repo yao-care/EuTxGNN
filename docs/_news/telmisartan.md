@@ -44,11 +44,11 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（6 則）
 
-### [Neue Schlaganfall-Leitlinien revolutionieren Notfallversorgung - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2hjNENhWV9xc2NyWEZsdGFyZ25SWkpNXy15R1NFM3VvVllSNXdSVF9kWElQZ29JZmFRUEdHb2EtVThyejBrdVl6WDBlUUdPMXBzajB4V0tpODUydmlLN0c4RkdzMXFLTHNzS011aU1JWlFjNjUyWjBaeE9FdWNaVm9WYXFmMGtqSTNGaDJqeTh0di1wRnJtTUctX2xfWFRNbVk0d2VreDR6REpJZE52MG1LRGdiWnlIWTRuZDFB?oc=5)
+### [WATCHMAN FLX und neue Blutverdünner revolutionieren Schlaganfall-Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
 
 2026-04-11 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2hjNENhWV9xc2NyWEZsdGFyZ25SWkpNXy15R1NFM3VvVllSNXdSVF9kWElQZ29JZmFRUEdHb2EtVThyejBrdVl6WDBlUUdPMXBzajB4V0tpODUydmlLN0c4RkdzMXFLTHNzS011aU1JWlFjNjUyWjBaeE9FdWNaVm9WYXFmMGtqSTNGaDJqeTh0di1wRnJtTUctX2xfWFRNbVk0d2VreDR6REpJZE52MG1LRGdiWnlIWTRuZDFB?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTBTSC1yOEJSSDF0OUtsX0xQWmtxOGNmM0JtME5ZRmV5MWpWMkhvUVVzY0RrcWNhU1hMbGxDLWZyV0ZSRUpyYmwtMXJXWVI1X19nOEVDOVVFbE1GU1NLMzVmQ295QWF6dzhpWGpQMzJuaVM1NEhFeG4ySUpNME9JQ0hxVTJmVElZRE9Va1VVRC1LcWZjdmg3TmctbjJnR2FBMFpGMXVXYWV6UXAtQ0pYWg?oc=5)
 
 ---
 

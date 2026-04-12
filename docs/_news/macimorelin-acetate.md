@@ -14,7 +14,7 @@ permalink: /news/macimorelin-acetate/
 ---
 
 <p class="key-answer" data-question="Macimorelin Acetate 有什麼相關新聞？">
-<strong>Macimorelin Acetate</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Macimorelin Acetate</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/macimorelin-acetate/
 <p><a href="{{ '/drugs/macimorelin-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（28 則）
 
 ### [Sauerteigbrot: Wissenschaft bestätigt gesundheitliche Vorteile - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjZHNmVTMUxVczlEenBpYkxfdld0TVVZa2dnbGw5bDJPeHRobkpiZkhaU09mZi1TVzUyczdSRzNjYzBEX3RNcWltWkJjVWNtbV9STndEWU5YN3VrSUp1ZVRveVJTYzBzbVdralNHVjJVVFBrVTJFTTVTTzc5Zzh5aFJ2X09Xem9Ydjg3V2lnUk4xWmVBWjlJWmdTcG1GR0tQSW0zbW51eE9qR2JXVElzNTR0MXpPYU13dWlWanZB?oc=5)
 
 2026-04-11 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjZHNmVTMUxVczlEenBpYkxfdld0TVVZa2dnbGw5bDJPeHRobkpiZkhaU09mZi1TVzUyczdSRzNjYzBEX3RNcWltWkJjVWNtbV9STndEWU5YN3VrSUp1ZVRveVJTYzBzbVdralNHVjJVVFBrVTJFTTVTTzc5Zzh5aFJ2X09Xem9Ydjg3V2lnUk4xWmVBWjlJWmdTcG1GR0tQSW0zbW51eE9qR2JXVElzNTR0MXpPYU13dWlWanZB?oc=5)
+
+---
+
+### [Dario Giacomini in Commissione Covid: "Lo Stato sapeva degli effetti avversi ma comunicava sicurezza assoluta" - Radio Radio](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEtMNE9QTXJmcWc2WHduUjIweF9Na2lXcEdkOUoyaUhESkhyYXUxUDhxek9kbFYwSmpMWW0zci1SOE5fX3pOMnNwdGFFRHRibVFrcTc2QUF4NGtQeXlhMVVlRllUYnJiM2lwb2xRS1RPa3c2UHppcmJrdFpmQWdRMXpyT3FCdS1yWDJDZy1id29kbVI0a2tLbXQyRGkwN29JQlNvWm5jSnBITFgxYUdYRlJXMmc0MXFiSnU1MmgyYmROekFub3lCbmNmUlB6aU84bGJoaFBtaHZFdw?oc=5)
+
+2026-04-11 <span class="news-indication-tag">AF</span>
+
+來源：[Radio Radio](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEtMNE9QTXJmcWc2WHduUjIweF9Na2lXcEdkOUoyaUhESkhyYXUxUDhxek9kbFYwSmpMWW0zci1SOE5fX3pOMnNwdGFFRHRibVFrcTc2QUF4NGtQeXlhMVVlRllUYnJiM2lwb2xRS1RPa3c2UHppcmJrdFpmQWdRMXpyT3FCdS1yWDJDZy1id29kbVI0a2tLbXQyRGkwN29JQlNvWm5jSnBITFgxYUdYRlJXMmc0MXFiSnU1MmgyYmROekFub3lCbmNmUlB6aU84bGJoaFBtaHZFdw?oc=5)
 
 ---
 
@@ -62,7 +70,7 @@ permalink: /news/macimorelin-acetate/
 
 ### [¿Qué es el nodavirus? El virus acuático que puede dejarte ciego - El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0Nxd0ZveXJ4a1lvdFc3Y0dVSFJYck9rR2NLamRvSnpjcEVRekhpMGZxMlg3QmQwZEZYbWtiWTdmN2h3QkR4bWRIMkkyTGd6RlVLZThhMEQtbDhnQmJiR2stMXBYbGljSGhhcFl5aW9tT0lZdlJvZmRjemxTN0tlTkY5ZHl6UEhkMTZfTU04ekpDTGU3TzNZMklqRVJWblc1ZktMOFlWU3lURFZ2OEHSAbMBQVVfeXFMTWNEaDE0WURrWnVyRzlxUzBjd2VhNXl1NXJHUTdMWU9Da3lScmhjeXVzOENUbFMtOE5qRWx1R21yejBuV1ZPcHFBTlctZ01TMlhudWJkZHdKVHNSamdBd19vMXE3UF9nci1RdmhnSWRIQzFYWnhaa2tFaENTRUY3R3B2dFlRY3BLTXN5SXRNUjZwSjg2bzB6WEs3VlVGQ21pVTdLdTJFcGxjSFlFSmU2azY2d0k?oc=5)
 
-2026-04-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-11 <span class="news-indication-tag">AF</span>
 
 來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0Nxd0ZveXJ4a1lvdFc3Y0dVSFJYck9rR2NLamRvSnpjcEVRekhpMGZxMlg3QmQwZEZYbWtiWTdmN2h3QkR4bWRIMkkyTGd6RlVLZThhMEQtbDhnQmJiR2stMXBYbGljSGhhcFl5aW9tT0lZdlJvZmRjemxTN0tlTkY5ZHl6UEhkMTZfTU04ekpDTGU3TzNZMklqRVJWblc1ZktMOFlWU3lURFZ2OEHSAbMBQVVfeXFMTWNEaDE0WURrWnVyRzlxUzBjd2VhNXl1NXJHUTdMWU9Da3lScmhjeXVzOENUbFMtOE5qRWx1R21yejBuV1ZPcHFBTlctZ01TMlhudWJkZHdKVHNSamdBd19vMXE3UF9nci1RdmhnSWRIQzFYWnhaa2tFaENTRUY3R3B2dFlRY3BLTXN5SXRNUjZwSjg2bzB6WEs3VlVGQ21pVTdLdTJFcGxjSFlFSmU2azY2d0k?oc=5)
 
@@ -132,19 +140,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [The Best Probiotics: Safe, Effective Strains, Based On Expert Insights](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGJ0WUJoNFJtRGJxN3Y0RENINExmVmJkNVdWbnZ0d1ZTdkpxeHBCYWNBQ3hZZGJvT1lPeklubzZCVmx2WUc4YTM1cE1mRFJhbDRzaWdSMms5a2VxLWxuNDRuUkZjeWtNMThoM3hJVUZpU0c0VmY0UTlnRERZdms0RTFFVQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[Forbes](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGJ0WUJoNFJtRGJxN3Y0RENINExmVmJkNVdWbnZ0d1ZTdkpxeHBCYWNBQ3hZZGJvT1lPeklubzZCVmx2WUc4YTM1cE1mRFJhbDRzaWdSMms5a2VxLWxuNDRuUkZjeWtNMThoM3hJVUZpU0c0VmY0UTlnRERZdms0RTFFVQ?oc=5)
-
----
-
 ### [Man 'totally shocked' after cancer diagnosis linked to oral sex from decades ago](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
 
 2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
+來源：[ladbible.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk5iOENTenhpU2NlSXhrbVhNSlhZZExyVjE5b3hjMVpMM0xScm9RWjgyekhxaFJmeExjN2ZkeF9TVTdyTk9kYVNnbFlxSVVaZkd1aTlJTkw0blhqdXh0YkZaajduUWZoOUJPUklwcjdPSjlxSXNXYmYzMHhPeHFEU0FKWU11SGk2Q3NLTEtHbjEzVUo3aVZwMWRTak90SVFCM3JQdHhRcFE?oc=5)
 
 ---
 
@@ -180,14 +180,6 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Dad, 34, loses all 4 limbs after 'dentist appointment triggered bacteria spread' - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWi1jMkkxQ21hUGVCY01rNHVBTEZra0R1RXlVeGpuVjVNTTBjekdyLXN1Rm5KekYwbGRPX091RThPQ3AyRkNoWXpEMlJXdzVNNUxUbzhab3ozWHFxc08zTVlZRl9hVXhwaWh6SFpfN01FRU5zYTVISVlya1NFTzhJSVN2a1Mwc1h0?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWi1jMkkxQ21hUGVCY01rNHVBTEZra0R1RXlVeGpuVjVNTTBjekdyLXN1Rm5KekYwbGRPX091RThPQ3AyRkNoWXpEMlJXdzVNNUxUbzhab3ozWHFxc08zTVlZRl9hVXhwaWh6SFpfN01FRU5zYTVISVlya1NFTzhJSVN2a1Mwc1h0?oc=5)
-
----
-
 ### [Semaglutide e tirzepatide, più peso perso o effetti collaterali con specifiche varianti genetiche: lo studio USA](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTnNYXzA3Y25EQlZUY1YtU0JzWDh2RVphdXB5Qk56TXdhX2tzWld0YjNLaFhrdUFjNDFxU3pmYWQwcWxRakdWRmRaNDJkZjVvdHE1Qnl4ZVYtazRya3VTNUNlR21IY19wQTNGMlc0ZlhEcGp6bklKOGxqWlJWSnpKY09faWxsd3VVOXV3RHRMSEliRXhXTHFoay1sMHU2eXBqb05mMFNmOFFXaGhVX1U5VEVLU2ZUWnJJVC1nRXZiVmVQYlUxVTI2aW9RMmFfZDRrdkZrZmt5VTktVzVHNE1VcmdXTlBNb0FoVFE?oc=5)
 
 2026-04-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
@@ -204,11 +196,19 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Five early signs of bowel cancer everyone should know - The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
+### [Edulcorantes como la sucralosa y la stevia podrían afectar al metabolismo y a la microbiota, según un estudio - Diario de Navarra](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaG9XNFR6U2NDZXptOFk3dndWSWNJbXJjWm5SbzNMd2xxSjhqamZvZ0tlRGVPa1FmdzZkeWl1UlQ3eDRfMV95Q2paSlUtWHVaTFJydnhrZ2hsOHl3ZkllWVpCNWNVUGxIMnlsT2NLNVJmTlRWWDB2MjNrRThzSkRPR0d5djZuWTJXZHJhZnc2NVpfOFpVUVNPZVNwRHZzYy1Bb0xjeWdUY25paExoaWVzcjNQVG1VTjNzemFjRklPalJLcWJ6dTQ3aGQ0STBITXo3a2Y3dWcwOWJ3akY2TzNQZ0JyVXA3Z0Ru?oc=5)
 
-2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-10 <span class="news-indication-tag">AF</span>
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnBscWUzaFhNMW1NZnJscFpCM1c0YjJnNDBxRUV0STNMOUh1ck5oQjdlYmhnN0JyemVaREZqMm83OVF5ellIaVRERXRzRm52cUJoV1BDdktmaEJQd1E4OTJDeUtEQlpxdld5WmprWXY0NmU3emo1Z1Y4ZkJacFA5MjB1YU14NTVTUEdlU1hRTVdHTTAwM01lR3lR?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaG9XNFR6U2NDZXptOFk3dndWSWNJbXJjWm5SbzNMd2xxSjhqamZvZ0tlRGVPa1FmdzZkeWl1UlQ3eDRfMV95Q2paSlUtWHVaTFJydnhrZ2hsOHl3ZkllWVpCNWNVUGxIMnlsT2NLNVJmTlRWWDB2MjNrRThzSkRPR0d5djZuWTJXZHJhZnc2NVpfOFpVUVNPZVNwRHZzYy1Bb0xjeWdUY25paExoaWVzcjNQVG1VTjNzemFjRklPalJLcWJ6dTQ3aGQ0STBITXo3a2Y3dWcwOWJ3akY2TzNQZ0JyVXA3Z0Ru?oc=5)
+
+---
+
+### [Unos científicos españoles desarrollan un modelo que predice el avance de la peste porcina africana en Asia - Meteored España](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS01udXh2WjlPd1hQMVZ0NEFGYjZYTjh2Mm5PQmVBMkNmeXRFUXhkLVJOdFFSaGdoUnRlYlhWaTBkNGVTZnBNUVFuNFJ4X21PSXRlOE5RVWtMNFVRcm9ROE16U21BX01GVHJZWVg3Qi1oamk0bEI3UnNUMlRFWHp1UWlVMkhVSldPd21Mc19oVUtiYUVWYUFkeTluNm5TeEljSUlLblM0cVNfTEtBMHhyRDladEw3WDdRekt2N2UxUmJ5dHJ4Z01vU0k4NjktRU81?oc=5)
+
+2026-04-10 <span class="news-indication-tag">AF</span>
+
+來源：[Meteored España](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS01udXh2WjlPd1hQMVZ0NEFGYjZYTjh2Mm5PQmVBMkNmeXRFUXhkLVJOdFFSaGdoUnRlYlhWaTBkNGVTZnBNUVFuNFJ4X21PSXRlOE5RVWtMNFVRcm9ROE16U21BX01GVHJZWVg3Qi1oamk0bEI3UnNUMlRFWHp1UWlVMkhVSldPd21Mc19oVUtiYUVWYUFkeTluNm5TeEljSUlLblM0cVNfTEtBMHhyRDladEw3WDdRekt2N2UxUmJ5dHJ4Z01vU0k4NjktRU81?oc=5)
 
 ---
 
@@ -265,22 +265,6 @@ permalink: /news/macimorelin-acetate/
 2026-04-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGg4SXJqYThOR0hpdzA1WG1sUDJzNXFSRTk5MXlkTmRxclEzTUNKaTJDYjVIeGxKV0FqMEJ6bWIwSjFyM1YweEw1MldZN1NvN0NoUnk3MWpvUlpLX1RuTDlaLWkydlgxRjRMVmdrSEVIZXlXcmtRXzRkWVZXdk0tdlpoTjVMSnZuZzFPT1VqM2VTTHU3NC1Tbg?oc=5)
-
----
-
-### [Danni da vaccino, parla la scienza e la Sinistra scappa - La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkFsYjROYXMzX3h5clVXUjBMcDhIMVF6U2Q4RGZlb1FwV2gtcWttLXVKWDZ5VTJxRkVWMzl4akhMYldTaDAwQ3huNUFYaER2ZW5ocWhQUUJfVmJtNFNQem5Ua3l1Q0ZNUF9TelNscmg3bFl5enRTaXJnbGZoemRRdDJpWDA?oc=5)
-
-2026-04-09 <span class="news-indication-tag">AF</span>
-
-來源：[La Nuova Bussola Quotidiana](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkFsYjROYXMzX3h5clVXUjBMcDhIMVF6U2Q4RGZlb1FwV2gtcWttLXVKWDZ5VTJxRkVWMzl4akhMYldTaDAwQ3huNUFYaER2ZW5ocWhQUUJfVmJtNFNQem5Ua3l1Q0ZNUF9TelNscmg3bFl5enRTaXJnbGZoemRRdDJpWDA?oc=5)
-
----
-
-### [ChatGPT 'uncovered woman's rare condition' after years of misdiagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
-
-2026-04-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVUNtRkRBejZtUVdSUzRkbVo5RWNPX1FXNmk2MmJENGNhamVqRHljOGc1WTBnU253Z0ZSU0Y4OUppd3U4ZE02WkRIblV6bHBfOWg0aDZvRmE3SzhH?oc=5)
 
 ---
 
