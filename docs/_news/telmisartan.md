@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
 ### [La cardiopatía isquémica en mujeres presenta particularidades que condicionan el diagnóstico, el tratamiento y el pronóstico - Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
 
@@ -52,11 +52,35 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Los cambios en la respiración podrían estar relacionados con la hipertensión](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzdDNTFscUI4emQwNVpDa29RbTFKWlB5NzJSbllDUFJYeHNHcFBid01EOWJBb3R1eVpxbkU2YmJtM3BYUlNPNWdGOER4bDVsYzR1RjlGVTBJa0FSLXFZUnFaQW5OTDNFWHlzZVVjVWI1RTlOV1VSaVowWUNCTk1LSUV6UnR6QmpJaHZyb1hJNFdaN0REbGExSlNkWkE5bmV2dWFQa3ZicEpfQWdUMXVnYlRDWi14Zw?oc=5)
+
+2026-04-12 <span class="news-indication-tag">hipertensión</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzdDNTFscUI4emQwNVpDa29RbTFKWlB5NzJSbllDUFJYeHNHcFBid01EOWJBb3R1eVpxbkU2YmJtM3BYUlNPNWdGOER4bDVsYzR1RjlGVTBJa0FSLXFZUnFaQW5OTDNFWHlzZVVjVWI1RTlOV1VSaVowWUNCTk1LSUV6UnR6QmpJaHZyb1hJNFdaN0REbGExSlNkWkE5bmV2dWFQa3ZicEpfQWdUMXVnYlRDWi14Zw?oc=5)
+
+---
+
+### [Bluthochdruck: Neue Therapien revolutionieren die Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
+
+2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
+
+---
+
 ### [Herzimplantate: Neue Alternative zu Blutverdünnern bei Vorhofflimmern - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
 
 2026-04-12 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
+
+---
+
+### [Un nuevo estudio reveló que una combinación simple de frutas podría mejorar la salud cardíaca en pocas semanas](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc1NGbzFlVFJlTUJ4QXpRY29tazdnY1dMbVcwaGhFd2cyUkYxcDltTUhiaEhIVTNCQTlOekJjZUVjd3BsXzlvNEdtNmtLZTJNSlVDbE56OVdKNDFuNjBrVFBhYzVuU2hpSFlWazdBZHVRS0lpOU91R085YUFkaFlDcGp0Q3ZrWnJ3WS1ZLVkycEthcmg2NG42ZFVTV1RVU1UtQzJiNzJIaTZOZmphbnNHMi02dGNQRnJzaUJ5em9Kakx2V0h6bHFtcDREdXZoQXhFNEo2cWRmcDVxYTA5elllRVcyNDJWQmvSAYICQVVfeXFMTWZjeVo1RG1LVk1xVlp4eHRramNIeTFTZElRMnBJMUl5NEpUWG4xMU5GcnZHTVdyMGxJSkZONFMtc0czMzJGM0RXV1pSUWkwaWFvMVlqSzlQeG51ckRhWWdmVGcwVWExaTRmekxQalo2MGUxek1iWXotb0xZd3B0bjdEOTcwck9vUXhoVExrbUxYRVprV1oySVFJa2s1eHJDOWZjRHN3RlFkdHprTXo4T2lKVjBVYnBqT1FjcjdlTGl0a0UwY21ZTzBzcTFjNU1YN1hLZjB5ellhU0YxZ3oySFNVazhrWUhWTUtsaVNTTklTUDVmdGNhUkhiVlVuS1pyZzhR?oc=5)
+
+2026-04-11 <span class="news-indication-tag">ictus</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc1NGbzFlVFJlTUJ4QXpRY29tazdnY1dMbVcwaGhFd2cyUkYxcDltTUhiaEhIVTNCQTlOekJjZUVjd3BsXzlvNEdtNmtLZTJNSlVDbE56OVdKNDFuNjBrVFBhYzVuU2hpSFlWazdBZHVRS0lpOU91R085YUFkaFlDcGp0Q3ZrWnJ3WS1ZLVkycEthcmg2NG42ZFVTV1RVU1UtQzJiNzJIaTZOZmphbnNHMi02dGNQRnJzaUJ5em9Kakx2V0h6bHFtcDREdXZoQXhFNEo2cWRmcDVxYTA5elllRVcyNDJWQmvSAYICQVVfeXFMTWZjeVo1RG1LVk1xVlp4eHRramNIeTFTZElRMnBJMUl5NEpUWG4xMU5GcnZHTVdyMGxJSkZONFMtc0czMzJGM0RXV1pSUWkwaWFvMVlqSzlQeG51ckRhWWdmVGcwVWExaTRmekxQalo2MGUxek1iWXotb0xZd3B0bjdEOTcwck9vUXhoVExrbUxYRVprV1oySVFJa2s1eHJDOWZjRHN3RlFkdHprTXo4T2lKVjBVYnBqT1FjcjdlTGl0a0UwY21ZTzBzcTFjNU1YN1hLZjB5ellhU0YxZ3oySFNVazhrWUhWTUtsaVNTTklTUDVmdGNhUkhiVlVuS1pyZzhR?oc=5)
 
 ---
 
@@ -73,14 +97,6 @@ permalink: /news/telmisartan/
 2026-04-11 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Freie Presse](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZDelVaVTYybXRnV1EzQm5BRVZQbDJLMzlyV2pfT1JFa21ZejdjZnB6NVNNN2dZUFdRRVVVc1o3TklzRFFQUzY0R1FjOWJwWnlBbWhUczlybmZFQ1VBZm50QXYzSmNYS3k5cjhIa1VwTno3T3BoTGpOcHlzN052M3JvLUpOOUI1VUJVNlZha3dQVDJhVEtRYU12eHY3MVdJQnVEbWkwZEFXaTJVVndwZ3M0S0pObW05MV96VHRqckk1c3p6YW9hdV9fQU5ld25WeEUxV1U2UVdHTWl2?oc=5)
-
----
-
-### [Nocturnal habit could be an early warning sign of stroke or heart failure - Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
-
-2026-04-10 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
 
 ---
 

@@ -44,6 +44,14 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（3 則）
 
+### ["Ça m'a forcée à me poser" : atteinte de la maladie de Parkinson, Amandyne, 39 ans, "n'a plus de temps à perdre"](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
+
+2026-04-11 <span class="news-indication-tag">maladie de Parkinson</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
+
+---
+
 ### [Lungentransplantation kann bei schwerer COPD der letzte Ausweg sein - Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmJpdk5NWjZ3WFdxbzg5YWxQWFZWLVNrUVo3ejNjV01pNkFydFZPQlRfbU05dkJlVmQtRlVlUUFrSkFrVjMtcDk0ajJEczF1aDd3cm9paThGakFJeElQelhHbEEtbWNiNzlLOWctVko3OHZvOEU5ZTJ3akduWlluS3VPcGtNam9veGExOVpiVW5ObFgtcTRSSkpfTER2UU9JSHJyWXprd0UzZVlXS0ZLUmlreWJzaGhtUVE?oc=5)
 
 2026-04-11 <span class="news-indication-tag">copd</span>
@@ -57,14 +65,6 @@ permalink: /news/botulinum-toxin-type-a/
 2026-04-11 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWMwSnQyb1dNNjdXODdGbVEtdnllanNTQkpNS2NiVm9maC0xaTMzdDR6TG94bS1BNmZiOVdJVzlDbmphbGkxd2VTWFNndEtpWGpUZFh6YlZMM05EVTgwdW4tdHlZMXZsd0M3WmpPaTlERWZvV1BNLU5Hc09hTk42bEEwNU51V3NnaUM2aFJuOU1yTFpQdGlIWmhVdXdZU2lFb3dTT2VVcUhFZFV6LTJoZWhWaW9iUHRsVVhSRtIBwgFBVV95cUxQM3pFaG9VaG5SdDBIN04zcngzbHc1b0lBcW1xbTMyaVRfVHFudFR6NmJfN1F3MVcxa284R3l4NlRGVDFvejhNVnkzNS12SDF3R2dYelRCVHNONlgtNUYzUVhxczhFanhhNERfMWp0N3VWMEFHQkN3bjBLX3pzTENyTzZKQ3FuU1BqbXhsZG5uWmo1UGxTemZuMEMyd2pQOXNVZWRON1JQV2NHQS04Uzh6bmliVTlqajBUdVRRX1VkVkladw?oc=5)
-
----
-
-### [Vieillissement de la population, pesticides : la maladie de Parkinson gagne du terrain, ces chiffres qui donnent le vertige - France 3 Régions](https://news.google.com/rss/articles/CBMisgJBVV95cUxNVU1ETUFkSndTRTBFMTRrQXRWODR4cmdiLUZUOFZsbHFMa3NvZnRQYjlTcEUtZ3BWLWtVOFV3VVM2bGFlQldycXB1ZmVrV1RGUGVIa0JhLVBRY21ocHRyNXlvMW4xaWpxQS1RbUhKNmRvY0U0MHJPUEJ1ejN1RDBuX0ZXd0lxOHMxY2tOemxzd210TWpFc3IxU3FZY2FVRFNhZVJ3RGx5TmtCZ0RMQ2NFRHFfXzZ5b2xISjRjeUxlVEk0aFpCdjIzT2EtSUdqcEJFOFdiS0FHWWhhdzhSNUs0YU8xNTNxWUVRMl9CeW9QbDRBckNaYU5zTGpOMkdka3ktc19VbnRiZXRhZlMxU1Z4QXhMOE1TbW4xR1BESGFJWXZaN3J3ZzVUNkktMU9yTV9yTWc?oc=5)
-
-2026-04-11 <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMisgJBVV95cUxNVU1ETUFkSndTRTBFMTRrQXRWODR4cmdiLUZUOFZsbHFMa3NvZnRQYjlTcEUtZ3BWLWtVOFV3VVM2bGFlQldycXB1ZmVrV1RGUGVIa0JhLVBRY21ocHRyNXlvMW4xaWpxQS1RbUhKNmRvY0U0MHJPUEJ1ejN1RDBuX0ZXd0lxOHMxY2tOemxzd210TWpFc3IxU3FZY2FVRFNhZVJ3RGx5TmtCZ0RMQ2NFRHFfXzZ5b2xISjRjeUxlVEk0aFpCdjIzT2EtSUdqcEJFOFdiS0FHWWhhdzhSNUs0YU8xNTNxWUVRMl9CeW9QbDRBckNaYU5zTGpOMkdka3ktc19VbnRiZXRhZlMxU1Z4QXhMOE1TbW4xR1BESGFJWXZaN3J3ZzVUNkktMU9yTV9yTWc?oc=5)
 
 ---
 

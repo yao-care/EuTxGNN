@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hepatitis 相關新聞"
+title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# hepatitis 相關新聞
+# epatite（hepatitis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
+<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hepatitis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Epatite A Napoli, 7 campioni positivi al Lago Fusaro di Bacoli: stop alle cozze, danni per 300mila euro](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUU3WXlPbEtqZ2NfZEFfek9sYW02ZzZiWmVPMGN1TVhOZDZwejdIVkwzNzZfalR2YzIzWEdFaURCbEJ4ODZtMXc5NE1HdnZWczlHdEExU1hvcGVPLWtUTGZqSTdkeHN0VnU5WkZaUmRnWVpfdUtoWFNqNHNDa1lMbklnSzRGeVRFV1BjZ1NhVXJBUDVXZTZpM29lRTNyNjVjdGkzeEdQOGt2V2lHa3dua1loblNKTVlyRTJYTWhHOVFxdTRrMlkweA?oc=5)
+
+2026-04-12
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUU3WXlPbEtqZ2NfZEFfek9sYW02ZzZiWmVPMGN1TVhOZDZwejdIVkwzNzZfalR2YzIzWEdFaURCbEJ4ODZtMXc5NE1HdnZWczlHdEExU1hvcGVPLWtUTGZqSTdkeHN0VnU5WkZaUmRnWVpfdUtoWFNqNHNDa1lMbklnSzRGeVRFV1BjZ1NhVXJBUDVXZTZpM29lRTNyNjVjdGkzeEdQOGt2V2lHa3dua1loblNKTVlyRTJYTWhHOVFxdTRrMlkweA?oc=5)
+
+---
 
 ### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbDhuNzV3bHUybHMwekpDVG1WdUJaMUdaUmN4TG1yT1M2MElJYTNHSU1uOEhrdHRBNkZwdks0UTVHanJNR3lSOGFuckw4SHpUWEZXRnMwWTBSYmwxdjB1dkE3a3pjM2h4dHJqOEZCT3RoQjBWTE5HcWJNQlFuNlVRNjNjcktWekpzLWYtN3I1bFRfSlN2X0tvWWhvWklqd2lYb3hBUnQzMWhobXZSSEo5bkVNNGV6eS1sMFJoOGFHSnJna0tnMzRGZ0ZVaEVRcmVyR3ZWUk5jZGZWUHNGV3AyTFJ3NWdCYm8zdmtDSjVRSEREMUludmZZcXVoZzdUaV90c0pBSG4zLV9vbU0?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/degarelix/
 ---
 
 <p class="key-answer" data-question="Degarelix 有什麼相關新聞？">
-<strong>Degarelix</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Degarelix</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/degarelix/
 <p><a href="{{ '/drugs/degarelix/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（19 則）
 
-### [These simple acts will improve your health more than any fitness trend - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3dWcUVPOE1TeVc2Zks4c1NPVG9waHJzOWpfWTRzLXM1bWs1NDFnaURvdks5R2J6T3pYLXJTaTk2emhYVmZsazNYUTI0bTBxems3anRSZTRyaVFFalYydDlLTk1fTXpnYTRmR0dXeHlxZUZqd2w1VzRRcS1Sb2J1dGh0OG9HTXlpZDhHNGQwelBxOWlfSnRBdEZSbW12S1FpYUFONG1rYmxXTFF0ZExF?oc=5)
+### [Chronische Krankheiten: Personalisierte Ernährung ersetzt Standard-Diäten - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFfRmtEMmE2YTRGb0I2bkhnajdBTjRVUEZxQURQMlRpbkdqdThIRXdjUmFsWFlkYWs0Nm4xOFJ2TUEzRDhfd3pSYzlCeERoRzFCRFdVUHd5amNkbEdhUXoxMVVZT1lvU3lBUkhkNHNwR1Q4Vi1jQXFLNDdRZGM0ZzhiMzE0a3RlOVJCQnpHSjZiMzEtcjB6MlE3S2xlbmJhYUJVUUlvTUR4c2JadHZyR3hJVF9IV0E?oc=5)
 
 2026-04-12 <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3dWcUVPOE1TeVc2Zks4c1NPVG9waHJzOWpfWTRzLXM1bWs1NDFnaURvdks5R2J6T3pYLXJTaTk2emhYVmZsazNYUTI0bTBxems3anRSZTRyaVFFalYydDlLTk1fTXpnYTRmR0dXeHlxZUZqd2w1VzRRcS1Sb2J1dGh0OG9HTXlpZDhHNGQwelBxOWlfSnRBdEZSbW12S1FpYUFONG1rYmxXTFF0ZExF?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGFfRmtEMmE2YTRGb0I2bkhnajdBTjRVUEZxQURQMlRpbkdqdThIRXdjUmFsWFlkYWs0Nm4xOFJ2TUEzRDhfd3pSYzlCeERoRzFCRFdVUHd5amNkbEdhUXoxMVVZT1lvU3lBUkhkNHNwR1Q4Vi1jQXFLNDdRZGM0ZzhiMzE0a3RlOVJCQnpHSjZiMzEtcjB6MlE3S2xlbmJhYUJVUUlvTUR4c2JadHZyR3hJVF9IV0E?oc=5)
+
+---
+
+### [‘Doctors tried to tell me it was just period pain - but I knew something was wrong’ - Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkpMZFhjUVU4b09ieGJfajRUMDREam1KNjc1aHZ4Y0g4dGQ4Rm1kS0VXczl4ZGZ5NUM0VHB5NVBYNFZZazdXMjdLZHk4WjlfSVBqU2ZpR2pPelpxekFVVi1reVJPVXBZcnlkSy1lbWxNbUtneTNJelJGbHZ2MDdBQ05mOUg5VDhoOGRwWjRiQWo2eXdRMWZWZDBiek5FWnZwMUR0d09aUVZrNldP?oc=5)
+
+2026-04-12 <span class="news-indication-tag">AF</span>
+
+來源：[Kent Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkpMZFhjUVU4b09ieGJfajRUMDREam1KNjc1aHZ4Y0g4dGQ4Rm1kS0VXczl4ZGZ5NUM0VHB5NVBYNFZZazdXMjdLZHk4WjlfSVBqU2ZpR2pPelpxekFVVi1reVJPVXBZcnlkSy1lbWxNbUtneTNJelJGbHZ2MDdBQ05mOUg5VDhoOGRwWjRiQWo2eXdRMWZWZDBiek5FWnZwMUR0d09aUVZrNldP?oc=5)
+
+---
+
+### [‘Living with the unknown’: Family’s fight for answers as baby battles mystery illness - STV News](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnlOMVB4R05VcGhYdGhaSGtYQXhtOEhpTzE1eHVUQnBmZ1FxQnZpbW85WGFqOE1aVm9sNzY5a2s0dHlxSHZGZFA5WXY2UlZwTjVORktYTm9qM0pvV25BYXVxMHFJWHBlb2Q3VG1XbWF4TjA2TkRSdFBZRGRpY2FvaUJCM1hnUHMxNHk2UEZEcU41UUEwYi01Ui1IbndEb2g3UVE4aDZ5c05CdUFqdVpTcmdfZFg?oc=5)
+
+2026-04-12 <span class="news-indication-tag">AF</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnlOMVB4R05VcGhYdGhaSGtYQXhtOEhpTzE1eHVUQnBmZ1FxQnZpbW85WGFqOE1aVm9sNzY5a2s0dHlxSHZGZFA5WXY2UlZwTjVORktYTm9qM0pvV25BYXVxMHFJWHBlb2Q3VG1XbWF4TjA2TkRSdFBZRGRpY2FvaUJCM1hnUHMxNHk2UEZEcU41UUEwYi01Ui1IbndEb2g3UVE4aDZ5c05CdUFqdVpTcmdfZFg?oc=5)
+
+---
+
+### [Cómo el estrés está encogiendo tu cerebro (y qué puedes hacer para evitarlo)](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZi10b19hZFpDZ0ZTU09rT3dzRjA4Xy1FeEU4V1g5MGJyMFJKdlNjVXdPUnl3cVZnOVIwOXdreGtPcXdHNnZEMHdZTXRfM19WeUNjc1I2aDBULUozbUNQS0pEWGpRczN3VmRJTEREZW1weGRZa0FfTHg0ZGJxZzRlSWVnMlZ4VFVvLVpicTktdW1GdGMtcDQyaVJLRjdJY3dVbW5qcFdnQ3lSVnoyMTNZbUFBOXF4N3VXaTFVUWhn?oc=5)
+
+2026-04-12 <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZi10b19hZFpDZ0ZTU09rT3dzRjA4Xy1FeEU4V1g5MGJyMFJKdlNjVXdPUnl3cVZnOVIwOXdreGtPcXdHNnZEMHdZTXRfM19WeUNjc1I2aDBULUozbUNQS0pEWGpRczN3VmRJTEREZW1weGRZa0FfTHg0ZGJxZzRlSWVnMlZ4VFVvLVpicTktdW1GdGMtcDQyaVJLRjdJY3dVbW5qcFdnQ3lSVnoyMTNZbUFBOXF4N3VXaTFVUWhn?oc=5)
 
 ---
 
@@ -100,22 +124,6 @@ permalink: /news/degarelix/
 
 ---
 
-### [¿Qué es el nodavirus? El virus acuático que puede dejarte ciego - El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0Nxd0ZveXJ4a1lvdFc3Y0dVSFJYck9rR2NLamRvSnpjcEVRekhpMGZxMlg3QmQwZEZYbWtiWTdmN2h3QkR4bWRIMkkyTGd6RlVLZThhMEQtbDhnQmJiR2stMXBYbGljSGhhcFl5aW9tT0lZdlJvZmRjemxTN0tlTkY5ZHl6UEhkMTZfTU04ekpDTGU3TzNZMklqRVJWblc1ZktMOFlWU3lURFZ2OEHSAbMBQVVfeXFMTWNEaDE0WURrWnVyRzlxUzBjd2VhNXl1NXJHUTdMWU9Da3lScmhjeXVzOENUbFMtOE5qRWx1R21yejBuV1ZPcHFBTlctZ01TMlhudWJkZHdKVHNSamdBd19vMXE3UF9nci1RdmhnSWRIQzFYWnhaa2tFaENTRUY3R3B2dFlRY3BLTXN5SXRNUjZwSjg2bzB6WEs3VlVGQ21pVTdLdTJFcGxjSFlFSmU2azY2d0k?oc=5)
-
-2026-04-11 <span class="news-indication-tag">AF</span>
-
-來源：[El Norte de Castilla](https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0Nxd0ZveXJ4a1lvdFc3Y0dVSFJYck9rR2NLamRvSnpjcEVRekhpMGZxMlg3QmQwZEZYbWtiWTdmN2h3QkR4bWRIMkkyTGd6RlVLZThhMEQtbDhnQmJiR2stMXBYbGljSGhhcFl5aW9tT0lZdlJvZmRjemxTN0tlTkY5ZHl6UEhkMTZfTU04ekpDTGU3TzNZMklqRVJWblc1ZktMOFlWU3lURFZ2OEHSAbMBQVVfeXFMTWNEaDE0WURrWnVyRzlxUzBjd2VhNXl1NXJHUTdMWU9Da3lScmhjeXVzOENUbFMtOE5qRWx1R21yejBuV1ZPcHFBTlctZ01TMlhudWJkZHdKVHNSamdBd19vMXE3UF9nci1RdmhnSWRIQzFYWnhaa2tFaENTRUY3R3B2dFlRY3BLTXN5SXRNUjZwSjg2bzB6WEs3VlVGQ21pVTdLdTJFcGxjSFlFSmU2azY2d0k?oc=5)
-
----
-
-### [Warrington dad says home test saved life after cancer shock - Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
-
-2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
-
----
-
 ### [Wissenschaft - Hoffnung für die Diagnostik: Bisher unbekanntes Protein hilft uns beim Hören](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdUlZMk9lRklVZXdLMldHVW10dGtmVTRTN3pOcGVoSVhrdnVzWlJGWUxGQ3NKcmN4N2VNYmZBS0RraTNjMml4dHZEUk15R0RYMTktVjUtYXpIc2k1cl9iSHZ4NU1RellHbnpmcmhwMGNLWGxBa1ZHOWZlWmZtNlZLMmVaRFZVLUlQcDNsdUJ3dTJLTE8xSWlCbVRDczBabXZDTzRLdEhESFpTRTVZOGxrNy1DWjNuWldMcWcwc0JOQU56WDVTbzFzTjZDNmxuaV9wVHJRaHktdC12Qks0T1pxX1p4am1UWTBaRThtUw?oc=5)
 
 2026-04-11 <span class="news-indication-tag">AF</span>
@@ -129,6 +137,14 @@ permalink: /news/degarelix/
 2026-04-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
 來源：[RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
+
+---
+
+### [Alerta por el nodavirus: el virus acuático que salta a humanos y puede causar pérdida de visión](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenlfTENkTkhfb0lGSmJUMHJBRXJDV0RtYlFGMHFuU25rLXBKRm1sUXNZWkE5SDN2eHhmc2NkWE1uTHhCQkxPbXo5aEttZUpkOF85RTJjbmtlN3hXZXVSdlU1bmpGOVVsWXpTLTNoa0QtOWFDVDZTdUZ5ZlFVYU50djFKUEUweTdVd1g3LXpCZnlmTzjSAZgBQVVfeXFMT2lndG91ejVPN0F2aHRWUm5OYmZsdms4QlhCTU1STHVpTlFMYktJNzNmblZyaW1oLWg2Qml3RFVKSGJBNk5Fck5paGNtcExrMXphMDB6eTNuUlB0a2tfQ1dBV0pxZk5ZQTBQdndPaUdlNmp1NjVjazVRM2FFZnlZSUozc1REMHNMcnN1QUNTMTA0bmdFOHJxekg?oc=5)
+
+2026-04-11 <span class="news-indication-tag">AF</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMikwFBVV95cUxQenlfTENkTkhfb0lGSmJUMHJBRXJDV0RtYlFGMHFuU25rLXBKRm1sUXNZWkE5SDN2eHhmc2NkWE1uTHhCQkxPbXo5aEttZUpkOF85RTJjbmtlN3hXZXVSdlU1bmpGOVVsWXpTLTNoa0QtOWFDVDZTdUZ5ZlFVYU50djFKUEUweTdVd1g3LXpCZnlmTzjSAZgBQVVfeXFMT2lndG91ejVPN0F2aHRWUm5OYmZsdms4QlhCTU1STHVpTlFMYktJNzNmblZyaW1oLWg2Qml3RFVKSGJBNk5Fck5paGNtcExrMXphMDB6eTNuUlB0a2tfQ1dBV0pxZk5ZQTBQdndPaUdlNmp1NjVjazVRM2FFZnlZSUozc1REMHNMcnN1QUNTMTA0bmdFOHJxekg?oc=5)
 
 ---
 
@@ -148,14 +164,6 @@ permalink: /news/degarelix/
 
 ---
 
-### [The simple fruit pairing that can improve heart health naturally in just 8 weeks - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N?oc=5)
-
-2026-04-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N?oc=5)
-
----
-
 ### [Was Sehen mit Demenz zu tun hat](https://news.google.com/rss/articles/CBMijAFBVV95cUxNXzVlalBBODhfY2lnLWNvdTRqWGhxVjVsbHpqeVdpYmpucG5vSUh5ZzAxbmExOFNYZEc5OHVoWHdlTlBNamFvRUctSW1oenJVT2VuVzRKbnp4MTl0RnVGb0I4T0w0ZTRlUnZ1bFBneGl2X1JjOTRLVG9OdmJ2azhHXzdoanpYMUNCeG9IVg?oc=5)
 
 2026-04-10 <span class="news-indication-tag">AF</span>
@@ -172,35 +180,19 @@ permalink: /news/degarelix/
 
 ---
 
-### ["La escasa visibilidad del síndrome genitourinario de la menopausia genera reticencias para afrontarlo, tanto para las mujeres como para el personal sanitario"](https://news.google.com/rss/articles/CBMikwJBVV95cUxNa2FmQUNhNnV2NFoxSEZ1THdXTkNqWW9PRnpVMDBFcGVyX3VIdGRQYkhNNUtlVG9sT2gtZ2JxN3M0OWRfZjFlX2NmUTVCMU82ckJTQWIwTmtZblFsaC1aenJyNzNRZTNjaWgwOUFhMmtLWENSSGo0dlNIOFRVdEZNMFRRX01zNkVJUF9fdjdVMUdCaWFEZlppM0JrYnFpalNfdjVaVHpVWFZNakxGcG9zME05ZXg5VjlxLXV1ZjJkYXl4UjJHX0l0QjlXRjlZRXk2Y0puMjVoeEkxdFB2N0pieTZwekhqWjZEYmpvVjJFRlV0emVIUWdFLXdpREJIcUtOcWQ5NHczTVBFdEs1UUV6LXZOWQ?oc=5)
+### ["Cigarra", nueva variante del Covid, podría repuntar con la llegada del verano - Enlace Latino NC](https://news.google.com/rss/articles/CBMipAFBVV95cUxObmgwb2ZobHBLOXMtRERjcHBtOTBuT1Q3VFNJeGVqNW1hWkVnUkpjSmNqTkdLSzZXcWdiTENMeHJHdGpJSDNyWVlhY0ctV2R1MXZVdW85cTl6eFpGNFVQU0RyWk1fSTRqTWNJbnplYjY0VkdfY2x2N0JaNkZuOFZhRWFIam90UnNZbjNqOU5Nd2xrRXpER1dtbE1ON2ZEMmgzcE9xeQ?oc=5)
 
 2026-04-10 <span class="news-indication-tag">AF</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMikwJBVV95cUxNa2FmQUNhNnV2NFoxSEZ1THdXTkNqWW9PRnpVMDBFcGVyX3VIdGRQYkhNNUtlVG9sT2gtZ2JxN3M0OWRfZjFlX2NmUTVCMU82ckJTQWIwTmtZblFsaC1aenJyNzNRZTNjaWgwOUFhMmtLWENSSGo0dlNIOFRVdEZNMFRRX01zNkVJUF9fdjdVMUdCaWFEZlppM0JrYnFpalNfdjVaVHpVWFZNakxGcG9zME05ZXg5VjlxLXV1ZjJkYXl4UjJHX0l0QjlXRjlZRXk2Y0puMjVoeEkxdFB2N0pieTZwekhqWjZEYmpvVjJFRlV0emVIUWdFLXdpREJIcUtOcWQ5NHczTVBFdEs1UUV6LXZOWQ?oc=5)
+來源：[Enlace Latino NC](https://news.google.com/rss/articles/CBMipAFBVV95cUxObmgwb2ZobHBLOXMtRERjcHBtOTBuT1Q3VFNJeGVqNW1hWkVnUkpjSmNqTkdLSzZXcWdiTENMeHJHdGpJSDNyWVlhY0ctV2R1MXZVdW85cTl6eFpGNFVQU0RyWk1fSTRqTWNJbnplYjY0VkdfY2x2N0JaNkZuOFZhRWFIam90UnNZbjNqOU5Nd2xrRXpER1dtbE1ON2ZEMmgzcE9xeQ?oc=5)
 
 ---
 
-### [Pere Ginés, médico hepatólogo: “La enfermedad en el hígado se desarrolla muy lentamente y sin síntomas” - Diario AS](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVpOaTJReWNaM0JJRjZmMlRaSkN1TGx3UXNubDZRb0gyQ3hnTXBlRnBGTE1BaHNSTzNqQVpQbThHVTBBaE9KUXU5YmIzTTFlVWJZSk0xUEpsaWNScDJXUWRzSWFmS1ViSTJuTmplZUt4em5oSDVSZFgySlhxUnh4R0RISHcxTHRvSEh3S0hpTUNDYzNiWC1mNEh1VUtmRDBKTklrZkJTUUhiMTNUaEg1VFRYTy1NVVc2QjBpand6NkEyZi1HQi1HQ05NZ0JJTFdHYzhsRU1nZFjSAewBQVVfeXFMT0ZoM21vdm5HbFFDSzNJUlc2TTE4OHZUWXpxaWQxNTY5NGI5NUNaRGxBUzE2aTlrVFdyT0J0aVJOV3NWMm4tQWlvbG16Yl9mYS1BTGtmZzdvdWhwNEFuaFgzNVJjdjk0ZUpoN3NLeUxQa2N6WnRxZkFveEtrRk5XeFRJM25DTFFJcDdDSHY4OXh2X2JPMTNEbHZaUEJHcXdETWJGQXpsSnJZZDdMZDg4OURzbkZja0k0YXdIV296Yy1Ya0JJUFBOSHhob3d5T2hWd3hsUmpIdkc5bFVMVlJmXzNIYV9WOC02OHBZeGM?oc=5)
+### [Allergie, la stagione si allunga: come proteggersi. Le 3 regole da seguire e i sintomi da non sottovalutare - Il Messaggero](https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTdFQ1cyY00xbW82UWd0WjhSS1BjVDdYQjM5RTdMel9Qek1jV3NwVGkxVE12LTRmV1lzbFdseU5DZ0tYNmxOcWQ2LXAxcFREMUJGUEVydGl1UWpxbXVuTWs0eEs3T0VmWGt3MHA1RGNXdDlTQjBZXzU0NURCb2ZrVmdCRTlmbkRWZ3ctOXNxQkZEWDlldWNzdFJyY255SVBJREE?oc=5)
 
-2026-04-10 <span class="news-indication-tag">AF</span>
+2026-04-09 <span class="news-indication-tag">AF</span>
 
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVpOaTJReWNaM0JJRjZmMlRaSkN1TGx3UXNubDZRb0gyQ3hnTXBlRnBGTE1BaHNSTzNqQVpQbThHVTBBaE9KUXU5YmIzTTFlVWJZSk0xUEpsaWNScDJXUWRzSWFmS1ViSTJuTmplZUt4em5oSDVSZFgySlhxUnh4R0RISHcxTHRvSEh3S0hpTUNDYzNiWC1mNEh1VUtmRDBKTklrZkJTUUhiMTNUaEg1VFRYTy1NVVc2QjBpand6NkEyZi1HQi1HQ05NZ0JJTFdHYzhsRU1nZFjSAewBQVVfeXFMT0ZoM21vdm5HbFFDSzNJUlc2TTE4OHZUWXpxaWQxNTY5NGI5NUNaRGxBUzE2aTlrVFdyT0J0aVJOV3NWMm4tQWlvbG16Yl9mYS1BTGtmZzdvdWhwNEFuaFgzNVJjdjk0ZUpoN3NLeUxQa2N6WnRxZkFveEtrRk5XeFRJM25DTFFJcDdDSHY4OXh2X2JPMTNEbHZaUEJHcXdETWJGQXpsSnJZZDdMZDg4OURzbkZja0k0YXdIV296Yy1Ya0JJUFBOSHhob3d5T2hWd3hsUmpIdkc5bFVMVlJmXzNIYV9WOC02OHBZeGM?oc=5)
-
----
-
-### [Allergie e bronchiti. Quanto aumentano i malanni di stagione - La Provincia di Como](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTFZzUXRDOGtUN0NVMFdCZHQ1QTc4QmY1dThiSUJNU09jS3o2OTZqcWdJYzlnYjB3X25Gckl6RG5tQUZNbnRTWVhBNm1DTUcwRlF0SlU0a1ozYWJaeFphNGVwb2RwcGRMclhaWGdlLUplZDhlOFNJeTBDUTB5NmRtX2hWa2ZtcEZROHZFZnlmcV9xbTZIZDk3UXdrMXdtcDg4YzBTdEM3eTZqNUFPcmhzS3g4R0Y0V3FwODRsTGNqY1BISmVsSE1NYUFTa1Y4UQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[La Provincia di Como](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTFZzUXRDOGtUN0NVMFdCZHQ1QTc4QmY1dThiSUJNU09jS3o2OTZqcWdJYzlnYjB3X25Gckl6RG5tQUZNbnRTWVhBNm1DTUcwRlF0SlU0a1ozYWJaeFphNGVwb2RwcGRMclhaWGdlLUplZDhlOFNJeTBDUTB5NmRtX2hWa2ZtcEZROHZFZnlmcV9xbTZIZDk3UXdrMXdtcDg4YzBTdEM3eTZqNUFPcmhzS3g4R0Y0V3FwODRsTGNqY1BISmVsSE1NYUFTa1Y4UQ?oc=5)
-
----
-
-### [TOMARES CONMEMORA EL DÍA MUNDIAL DEL PÁRKINSON CON UNA MESA INFORMATIVA DE LA ASOCIACIÓN FAMILIARES ALZHEIMER, ESTIMULACIÓN NEUROLÓGICA (AFAeN) - Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjAtVjJqY1YydTBHS1luNDlmc0RZVmhCcUZkMm9TUXc3RURJb2hnS3NJZHpUTUYxOXppdGgtMlhZbTdsa2Z2SGlLajhtS2I1RUxEWGpNMXp5Ty0wZkcyN2lYbE5fOGlKMzJMSllkcTNHQVJoVnRJYkxTb016NUdBUVFNTWxBQVdQaV93QnFLRkQyVlduTlVsZk1nS2pGdHpaWlYtcmNGR2dsbU1MemsyWTdidGplbF9VZk5XOVllaw?oc=5)
-
-2026-04-10 <span class="news-indication-tag">AF</span>
-
-來源：[Ayuntamiento de Tomares](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjAtVjJqY1YydTBHS1luNDlmc0RZVmhCcUZkMm9TUXc3RURJb2hnS3NJZHpUTUYxOXppdGgtMlhZbTdsa2Z2SGlLajhtS2I1RUxEWGpNMXp5Ty0wZkcyN2lYbE5fOGlKMzJMSllkcTNHQVJoVnRJYkxTb016NUdBUVFNTWxBQVdQaV93QnFLRkQyVlduTlVsZk1nS2pGdHpaWlYtcmNGR2dsbU1MemsyWTdidGplbF9VZk5XOVllaw?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTdFQ1cyY00xbW82UWd0WjhSS1BjVDdYQjM5RTdMel9Qek1jV3NwVGkxVE12LTRmV1lzbFdseU5DZ0tYNmxOcWQ2LXAxcFREMUJGUEVydGl1UWpxbXVuTWs0eEs3T0VmWGt3MHA1RGNXdDlTQjBZXzU0NURCb2ZrVmdCRTlmbkRWZ3ctOXNxQkZEWDlldWNzdFJyY255SVBJREE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（6 則）
+
+### [Epatite A Napoli, 7 campioni positivi al Lago Fusaro di Bacoli: stop alle cozze, danni per 300mila euro](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUU3WXlPbEtqZ2NfZEFfek9sYW02ZzZiWmVPMGN1TVhOZDZwejdIVkwzNzZfalR2YzIzWEdFaURCbEJ4ODZtMXc5NE1HdnZWczlHdEExU1hvcGVPLWtUTGZqSTdkeHN0VnU5WkZaUmRnWVpfdUtoWFNqNHNDa1lMbklnSzRGeVRFV1BjZ1NhVXJBUDVXZTZpM29lRTNyNjVjdGkzeEdQOGt2V2lHa3dua1loblNKTVlyRTJYTWhHOVFxdTRrMlkweA?oc=5)
+
+2026-04-12 <span class="news-indication-tag">epatite</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUU3WXlPbEtqZ2NfZEFfek9sYW02ZzZiWmVPMGN1TVhOZDZwejdIVkwzNzZfalR2YzIzWEdFaURCbEJ4ODZtMXc5NE1HdnZWczlHdEExU1hvcGVPLWtUTGZqSTdkeHN0VnU5WkZaUmRnWVpfdUtoWFNqNHNDa1lMbklnSzRGeVRFV1BjZ1NhVXJBUDVXZTZpM29lRTNyNjVjdGkzeEdQOGt2V2lHa3dua1loblNKTVlyRTJYTWhHOVFxdTRrMlkweA?oc=5)
+
+---
 
 ### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbDhuNzV3bHUybHMwekpDVG1WdUJaMUdaUmN4TG1yT1M2MElJYTNHSU1uOEhrdHRBNkZwdks0UTVHanJNR3lSOGFuckw4SHpUWEZXRnMwWTBSYmwxdjB1dkE3a3pjM2h4dHJqOEZCT3RoQjBWTE5HcWJNQlFuNlVRNjNjcktWekpzLWYtN3I1bFRfSlN2X0tvWWhvWklqd2lYb3hBUnQzMWhobXZSSEo5bkVNNGV6eS1sMFJoOGFHSnJna0tnMzRGZ0ZVaEVRcmVyR3ZWUk5jZGZWUHNGV3AyTFJ3NWdCYm8zdmtDSjVRSEREMUludmZZcXVoZzdUaV90c0pBSG4zLV9vbU0?oc=5)
 
@@ -52,35 +60,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Taking a daily vitamin D supplement may help ease the symptoms of irritable bowel disease - Daily Mail](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1BDR3ZiOC05enlXdE4ydEg3bWRMcXVmN1dfZnNGc3Ewa2RySlRUYjA1WnVYdzI1RDloMVVjSFM4VUJGUy1SQjhvNHg2OVUxdFI1WVRKS1U4Rjc4QlhDU1ZCSWo5Y3BtVDk4Y19kYzU0VkJhY0tmUjRZdG1Mbm5Hc240Tjg4Tk1VdzZkQXU2ZmpvaXFrUjJCTTFZbFBlbmh2bWtoYU01VXlIbmVlYTk5RnN5VXlSV2vSAbwBQVVfeXFMTzdiMUVwNGFDQmtYbkVCTDMxczdwR0tDZmh3QnNtOVZaQ2dma3pvT0F4eG1HYnAtTkRjemxNQXp3T1VUQ0xzekR6MHdjREdwRkt5T0huZ0FyVXhFNU8xcE1lZTRTZUJJZWMxNnl2amgxNGQxeGRJUnFCOGNqWTl5UTNzdVlDWEN3dTVJWU9SWmJaS1VqM1RGWGpyRmhacWRHWjZTXzFlQ05sLS1YVEZMYkxYd1B3UFY3OGZDaGs?oc=5)
-
-2026-04-12 <span class="news-indication-tag">MS</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1BDR3ZiOC05enlXdE4ydEg3bWRMcXVmN1dfZnNGc3Ewa2RySlRUYjA1WnVYdzI1RDloMVVjSFM4VUJGUy1SQjhvNHg2OVUxdFI1WVRKS1U4Rjc4QlhDU1ZCSWo5Y3BtVDk4Y19kYzU0VkJhY0tmUjRZdG1Mbm5Hc240Tjg4Tk1VdzZkQXU2ZmpvaXFrUjJCTTFZbFBlbmh2bWtoYU01VXlIbmVlYTk5RnN5VXlSV2vSAbwBQVVfeXFMTzdiMUVwNGFDQmtYbkVCTDMxczdwR0tDZmh3QnNtOVZaQ2dma3pvT0F4eG1HYnAtTkRjemxNQXp3T1VUQ0xzekR6MHdjREdwRkt5T0huZ0FyVXhFNU8xcE1lZTRTZUJJZWMxNnl2amgxNGQxeGRJUnFCOGNqWTl5UTNzdVlDWEN3dTVJWU9SWmJaS1VqM1RGWGpyRmhacWRHWjZTXzFlQ05sLS1YVEZMYkxYd1B3UFY3OGZDaGs?oc=5)
-
----
-
 ### [« De la fièvre et une toux persistante » : en Europe, un premier cas de grippe aviaire chez l'homme confirmé par l'OMS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSlJCRmttR2lsejVlbVhZNENMSmpCWUtpeDJHMDgxYVlUQWRlMnNaMHVZa2JoMDVtOG1aNWdXbWttdzdKTlN0d2tsNFN5X2hFSjNfdGRxc0VXNEx4bXFiUkJkMXNELURMQ0JYVHBrOFJHMU5xb0lZVExlQUtwcjlBX3VWM01mQktDR2laX0FJMThvU2ZMWXdZaEFhYnRWYk54YkxpUjIxVWhyWWV4UUMydHoxamU0Y0NUdjJZOExrVVlrd3NpVnpYV3RLb19zY1VZdlh1R0l5bTZvbS16ZHU1N2ZCVmY4T3ZXZHc?oc=5)
 
 2026-04-11 <span class="news-indication-tag">MS</span>
 
 來源：[parismatch.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSlJCRmttR2lsejVlbVhZNENMSmpCWUtpeDJHMDgxYVlUQWRlMnNaMHVZa2JoMDVtOG1aNWdXbWttdzdKTlN0d2tsNFN5X2hFSjNfdGRxc0VXNEx4bXFiUkJkMXNELURMQ0JYVHBrOFJHMU5xb0lZVExlQUtwcjlBX3VWM01mQktDR2laX0FJMThvU2ZMWXdZaEFhYnRWYk54YkxpUjIxVWhyWWV4UUMydHoxamU0Y0NUdjJZOExrVVlrd3NpVnpYV3RLb19zY1VZdlh1R0l5bTZvbS16ZHU1N2ZCVmY4T3ZXZHc?oc=5)
-
----
-
-### [Warrington dad says home test saved life after cancer shock - Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
-
-2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Warrington Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWZ0bV8wamstT0o4YWlUeklsVWNrSUoxVlZPMXhnVnBfU2g1NjFnZm9EWlFTUkhoWGpueUl3Q25Xdmx3ZHFxVkprZFdzTUJJanc2cTJRaUl5VzlfWHIzeTZFZmFXY2JGTkg5YkxSRTBHM1M1OXI4cThBZEF0NDQxdldIb1k3d2ZPWjVKU0RST0dhdjBNQUpvZU9NN2JqTFhYcWdkOQ?oc=5)
-
----
-
-### [Dear Abby: Eye exams can save more than your vision](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVjOXVVMUtmTDVxU1Jqd3daVUpwLUY1Z2t3c1RjTmlBQ1licGRFMTkya2N0UFU4X01rSmY4Z3FvT2V6WVlxRXBGWEJoZExDVmRnYlVKZUtmY05tLXo3MXo3aVEybElZR3JKQ0E0ZkVVUEhEeUhSdVJlbEdIZnhSdlNqQTZRVG9lR2hLNlRJaTRRUWhsRmlJ0gGrAUFVX3lxTE5hRkFUZ2lQSmZZN2Q4M2hsQ2VwUUZzak53R0k3RnlrdUdrSWtPckUwUmpkdHBZY3ZKMXl3aHRSMnM0RmRiLU90TzJSUzA0RlAzSlozZTF1ck5IanpvOUVDNTd0Ul8xR1lSN0JlSUZJQ3o2dlFUbXRuRnVGcExudlMyTzlJdUg5TDBCWEtnaXRXZTNJSFh1V3lGNUpRYkR5QV9SUTlHV2hPem1qNA?oc=5)
-
-2026-04-11 <span class="news-indication-tag">MS</span>
-
-來源：[MLive.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVjOXVVMUtmTDVxU1Jqd3daVUpwLUY1Z2t3c1RjTmlBQ1licGRFMTkya2N0UFU4X01rSmY4Z3FvT2V6WVlxRXBGWEJoZExDVmRnYlVKZUtmY05tLXo3MXo3aVEybElZR3JKQ0E0ZkVVUEhEeUhSdVJlbEdIZnhSdlNqQTZRVG9lR2hLNlRJaTRRUWhsRmlJ0gGrAUFVX3lxTE5hRkFUZ2lQSmZZN2Q4M2hsQ2VwUUZzak53R0k3RnlrdUdrSWtPckUwUmpkdHBZY3ZKMXl3aHRSMnM0RmRiLU90TzJSUzA0RlAzSlozZTF1ck5IanpvOUVDNTd0Ul8xR1lSN0JlSUZJQ3o2dlFUbXRuRnVGcExudlMyTzlJdUg5TDBCWEtnaXRXZTNJSFh1V3lGNUpRYkR5QV9SUTlHV2hPem1qNA?oc=5)
 
 ---
 
@@ -97,14 +81,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-04-11 <span class="news-indication-tag">MS</span>
 
 來源：[Bistum Trier](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0xhZkJZbTMya0tOZW5ITlBsZjJmRjhJbm9PSTg2OGlDX3BfVG9CeGJZOTBEZ3l1ZjZYdFp0MXFDMGFXbzdGYlI0eXgwclluSDh3S1llbGZhRWY2M3RWM2hVMHYxN1psZFIya2QwbDhCZVJobFdJWmNGX3ZBNGR4bk1QV1g4cm5rdjZ4aEg3N1M?oc=5)
-
----
-
-### [Diese Alltags-Lebensmittel bremsen heimlich deinen Gewichtsverlust - FIT FOR FUN](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWTJZT0RuZnVkak9RZUp5TkxoTzBOdFBwb0V1dDFfNS01UE1kZVBVZGphNEZkSl9uaW9NWDNEdFNJNV8xNTdzLThJdDB5UjRMb0pEcTh4LXJ6WmFoOTdmRFlPQjlSQ1pvaEFvWXVUVkRuOUg2UjBiTXBuNDFfdEFRd01BLUtQc2g2bnBTU1F5T0NuSThzOXNVNkVzdzQ0LUp1M0lla1J2RVlSMXUzNzk2TUtfZW1ETEZtbWhMdm1pVDZmUVREaHYxRXNwejdDMjRfSk1aWkR6MXJsUQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">MS</span>
-
-來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWTJZT0RuZnVkak9RZUp5TkxoTzBOdFBwb0V1dDFfNS01UE1kZVBVZGphNEZkSl9uaW9NWDNEdFNJNV8xNTdzLThJdDB5UjRMb0pEcTh4LXJ6WmFoOTdmRFlPQjlSQ1pvaEFvWXVUVkRuOUg2UjBiTXBuNDFfdEFRd01BLUtQc2g2bnBTU1F5T0NuSThzOXNVNkVzdzQ0LUp1M0lla1J2RVlSMXUzNzk2TUtfZW1ETEZtbWhMdm1pVDZmUVREaHYxRXNwejdDMjRfSk1aWkR6MXJsUQ?oc=5)
 
 ---
 

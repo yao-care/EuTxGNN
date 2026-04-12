@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [La dieta de la madre durante la lactancia podría ser clave para la salud futura de su bebé - The Conversation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkNiMVZISzQ5NV9nalpPcWlYZVNMQkhjYm9iMVdTTnN2cWYtSEZKTWE3WXBaZXhLZ1k4UlhqRkw0aWRHOU9pRWpyMDItd0xNWWlDUmpwRWhKT01ZTF9OMjB0WlphckFjdXVVTllZWGllMnlIeEJ0U1lVSFpFTl9KVnd5cTNHXzJycWtlNDI2NnRUaDVISURucUMxV3k1bUlQY1RsRTFGM0NvM1RGaXBtcE5hVnQ5UlBEV1BZYW9RQ3lsZG8?oc=5)
+
+2026-04-12
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkNiMVZISzQ5NV9nalpPcWlYZVNMQkhjYm9iMVdTTnN2cWYtSEZKTWE3WXBaZXhLZ1k4UlhqRkw0aWRHOU9pRWpyMDItd0xNWWlDUmpwRWhKT01ZTF9OMjB0WlphckFjdXVVTllZWGllMnlIeEJ0U1lVSFpFTl9KVnd5cTNHXzJycWtlNDI2NnRUaDVISURucUMxV3k1bUlQY1RsRTFGM0NvM1RGaXBtcE5hVnQ5UlBEV1BZYW9RQ3lsZG8?oc=5)
+
+---
 
 ### [Genes y obesidad: por qué los fármacos para bajar de peso no funcionan igual en todos los pacientes - El Mostrador](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSzNnaFBQVmRHcWZMZXpRZzdtanp6N3ZocHBPcGJKekhiSDNrUTFjMnBEM3RDMVMxWGttNWZvSWp1MEZyZ0R2SmcwTk9fTmZUb2JkY01QWkFDUzJ5M21Wc0hlSXVkTlN1ZURXUXB5ZDNQeVRNRTlZcjJ3aHNYMS03OFl6c0JKUThxYnZ5X3l4cnRyMG9pS0p4WGZNd2U5WVJRblZVUHNVUkFNOWwtbzJYSXQwMDR5TFRoOF9SeHZnUGhfbTlMb2ZwTHVtcFRxWXVGX0hfMnA0U2p0Rmtfemdxc0FpaEZWaFZBMEc2eHRfZTQzX2cyT3c?oc=5)
 

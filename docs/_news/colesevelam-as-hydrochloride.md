@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [El programa 'Camino para cambiar la diabetes' reúne a 41 participantes en una ruta en San Cristóbal de Valdueza - El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
+
+2026-04-12 <span class="news-indication-tag">diabetes</span>
+
+來源：[El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
+
+---
 
 ### [La cardiopatía isquémica en mujeres presenta particularidades que condicionan el diagnóstico, el tratamiento y el pronóstico - Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
 
@@ -52,27 +60,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [The simple fruit pairing that can improve heart health naturally in just 8 weeks - Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N?oc=5)
+### [Bluthochdruck: Neue Therapien revolutionieren die Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
 
-2026-04-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDBjcjFzY1hTQW8yUFNhYjQxMTdTTnhaZ0djTXgxSGcxcDhteTJFY1l5Yks1TjBQalZhdG1yVUo4VGlnNzJKWndTUmItYjdXRTlDc2VlQWdhVDNDVEZtT3RUUXJPQXhCZ3o4bVBheDdPTnhNbUxsRHVJX1ozUDNMbFdqTW1QVENhaE1N?oc=5)
-
----
-
-### [Highlights vom Diabetes-Update: Prävention, Longevity und mehr](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1peGVic1JQYUg1WTcxeTVnVXFiTUdPVUx1N1ZWSFFfZjU5WkhmdUJYdDF4ekxncXlSWUZNemdzeEFfcUVtSFlURjNlSzdtZmFSYV9rT1lvMDNuX2J5NzVqaC1kMlhFN1JQdmxrbjM1RXJIaEJiZnNsT1MxdFJZQVZfVEE1eWVSSmhJbGUwTnk1SmpZb2UwVFVmZVBFQmtHaVNVczZOMktKSm40ZnNF?oc=5)
-
-2026-04-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1peGVic1JQYUg1WTcxeTVnVXFiTUdPVUx1N1ZWSFFfZjU5WkhmdUJYdDF4ekxncXlSWUZNemdzeEFfcUVtSFlURjNlSzdtZmFSYV9rT1lvMDNuX2J5NzVqaC1kMlhFN1JQdmxrbjM1RXJIaEJiZnNsT1MxdFJZQVZfVEE1eWVSSmhJbGUwTnk1SmpZb2UwVFVmZVBFQmtHaVNVczZOMktKSm40ZnNF?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
 
 ---
 
-### [Nocturnal habit could be an early warning sign of stroke or heart failure - Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
+### ["Il aide à prévenir le cancer colorectal" : selon un gastro-entérologue, voici le meilleur lait pour les microbiotes sensibles - Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
 
-2026-04-10 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">stroke</span>
+2026-04-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUJYNlpzWDJBWXZUZ1RHdnc0WXo4N1NLMzIxWk1sbEhtbGdlSGtYVFo3WTA3LWZzRV9iVVVDNDc4ckNOaXlfc0FYcW5RSTZYZ2w2VU81aTItUEFZb2RqZU9OaG5Ca2RRSUswTTdUN0w5Mm9zX05WbmJLQzJ2LUlweXB6aXdJS1FuNjAtT2tiVDlob0xCLW9taDJtZnBnMVJrQnRveWpGQ0tJaks0NnhjU9IBtgFBVV95cUxQVTVjQlRRVlZlb1ZuSHNFTXM0aUFsRUFzc2tWTGx2SDREOXNuVnNpVm5zZnRrWGxLMElDNUlMeGZXY0lJVWg0T0NiVjdOd2luM3ZYZ2NxelZkS2g5SzNBX2hUX2VvazY4ZTZDOGVuRmYtd05IUnI2TlhTMkgyUDRITTRwS3k3cjI4MUg4V09kZ0tKRV9LWlNjam5WMnNualJIcW03UjA4V0c1Z2U1RVVyMngyejNfZw?oc=5)
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
+
+---
+
+### [Katherine Hirmas explica cómo la mala salud bucal aumenta el riesgo de un infarto o ACV](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SVDRDWGRxRTlzTGFCQ2U1WFE5RWQ3aHZELTdmVFFQSjdsdmRWdFdvbkZDRGdDaEFpNThHOGV2aUljSTMyYnQ4dFdTTGQxWUdrSHc2aFVMRGlsYTR1emhudVRxVTNEMmxu?oc=5)
+
+2026-04-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[TXS+](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SVDRDWGRxRTlzTGFCQ2U1WFE5RWQ3aHZELTdmVFFQSjdsdmRWdFdvbkZDRGdDaEFpNThHOGV2aUljSTMyYnQ4dFdTTGQxWUdrSHc2aFVMRGlsYTR1emhudVRxVTNEMmxu?oc=5)
 
 ---
 

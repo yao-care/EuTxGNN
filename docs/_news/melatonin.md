@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [La dieta de la madre durante la lactancia podría ser clave para la salud futura de su bebé - The Conversation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkNiMVZISzQ5NV9nalpPcWlYZVNMQkhjYm9iMVdTTnN2cWYtSEZKTWE3WXBaZXhLZ1k4UlhqRkw0aWRHOU9pRWpyMDItd0xNWWlDUmpwRWhKT01ZTF9OMjB0WlphckFjdXVVTllZWGllMnlIeEJ0U1lVSFpFTl9KVnd5cTNHXzJycWtlNDI2NnRUaDVISURucUMxV3k1bUlQY1RsRTFGM0NvM1RGaXBtcE5hVnQ5UlBEV1BZYW9RQ3lsZG8?oc=5)
+
+2026-04-12 <span class="news-indication-tag">obesidad</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkNiMVZISzQ5NV9nalpPcWlYZVNMQkhjYm9iMVdTTnN2cWYtSEZKTWE3WXBaZXhLZ1k4UlhqRkw0aWRHOU9pRWpyMDItd0xNWWlDUmpwRWhKT01ZTF9OMjB0WlphckFjdXVVTllZWGllMnlIeEJ0U1lVSFpFTl9KVnd5cTNHXzJycWtlNDI2NnRUaDVISURucUMxV3k1bUlQY1RsRTFGM0NvM1RGaXBtcE5hVnQ5UlBEV1BZYW9RQ3lsZG8?oc=5)
+
+---
+
+### [Darío Acuña, médico: "La melatonina empieza a bajar a partir de los 35 años y desaparecen sus propiedades antioxidantes y antiinflamatorias" - Mundo Deportivo](https://news.google.com/rss/articles/CBMijAJBVV95cUxPdl9NQTJBaldCRjlSQnVXODBFY19SNUxVVkJ0aGljQ0E1OElKbW9MQUJjcHlOYklRQ2VkRFdkeEhMaUQ3R2xVTXZnS2dKeldxeW9oMWprM09LRVc5T0N0Ympvb1VjeWJNVGNfLXdCcWZ1RkdjOU1QNTRacHk2UHZUUXBnV3BCQXAzenkxZ1QwRm8ycks5OTc3YnRVN0NBa3N5dThLSWJsVUVyMnNmQTRLOVktcnRNSS1jWmEzV19ONkJGU1NXMWVGTUg0MU0xZ2R1MVZQM3VhbTRjc0c4N0xpQ0RReUFsZzNIZU14RmtEUUNadlJSdzlwU1FqdzVIMVFlNzJ5NEFlY3k2eTNK0gGaAkFVX3lxTE5rUVdaYzNHakdjTnh4M21tV25fN0o2aUsxdTRkMzFwM2hTQm9kdkxLRUg0c1VoWktnbVZGbm43bVRFTVFVMXFSV0lzc1AyWXVVY0J5YmZvampHX2FOQVlJbl9GT2EtWXduREVUR3J6ZWpPVFlxdzdXMThLMFM4RFFqakc3Sk1XZU4zOEZ3d3FkTDJHNGFNUEl1OXRlTktpbEVFWlJUdXJkOXRndWJ3MGVJMDRkRThtQXFWVC12U2hPUWJ0RVpyVUhhR1RfTmY2UmNvaE9pNHlscXRUUU5oMEpncUhvUzVuUHpaeGY2Z3BYVGpFMFo5TkdMZVctYzhPSlBrUldUUkxWSlVZNG8zcDZhcGsxN3VsX1VFUQ?oc=5)
+
+2026-04-12 <span class="news-drug-tag">Melatonin</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMijAJBVV95cUxPdl9NQTJBaldCRjlSQnVXODBFY19SNUxVVkJ0aGljQ0E1OElKbW9MQUJjcHlOYklRQ2VkRFdkeEhMaUQ3R2xVTXZnS2dKeldxeW9oMWprM09LRVc5T0N0Ympvb1VjeWJNVGNfLXdCcWZ1RkdjOU1QNTRacHk2UHZUUXBnV3BCQXAzenkxZ1QwRm8ycks5OTc3YnRVN0NBa3N5dThLSWJsVUVyMnNmQTRLOVktcnRNSS1jWmEzV19ONkJGU1NXMWVGTUg0MU0xZ2R1MVZQM3VhbTRjc0c4N0xpQ0RReUFsZzNIZU14RmtEUUNadlJSdzlwU1FqdzVIMVFlNzJ5NEFlY3k2eTNK0gGaAkFVX3lxTE5rUVdaYzNHakdjTnh4M21tV25fN0o2aUsxdTRkMzFwM2hTQm9kdkxLRUg0c1VoWktnbVZGbm43bVRFTVFVMXFSV0lzc1AyWXVVY0J5YmZvampHX2FOQVlJbl9GT2EtWXduREVUR3J6ZWpPVFlxdzdXMThLMFM4RFFqakc3Sk1XZU4zOEZ3d3FkTDJHNGFNUEl1OXRlTktpbEVFWlJUdXJkOXRndWJ3MGVJMDRkRThtQXFWVC12U2hPUWJ0RVpyVUhhR1RfTmY2UmNvaE9pNHlscXRUUU5oMEpncUhvUzVuUHpaeGY2Z3BYVGpFMFo5TkdMZVctYzhPSlBrUldUUkxWSlVZNG8zcDZhcGsxN3VsX1VFUQ?oc=5)
+
+---
 
 ### [Genes y obesidad: por qué los fármacos para bajar de peso no funcionan igual en todos los pacientes - El Mostrador](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSzNnaFBQVmRHcWZMZXpRZzdtanp6N3ZocHBPcGJKekhiSDNrUTFjMnBEM3RDMVMxWGttNWZvSWp1MEZyZ0R2SmcwTk9fTmZUb2JkY01QWkFDUzJ5M21Wc0hlSXVkTlN1ZURXUXB5ZDNQeVRNRTlZcjJ3aHNYMS03OFl6c0JKUThxYnZ5X3l4cnRyMG9pS0p4WGZNd2U5WVJRblZVUHNVUkFNOWwtbzJYSXQwMDR5TFRoOF9SeHZnUGhfbTlMb2ZwTHVtcFRxWXVGX0hfMnA0U2p0Rmtfemdxc0FpaEZWaFZBMEc2eHRfZTQzX2cyT3c?oc=5)
 
