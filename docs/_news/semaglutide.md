@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [El ADN ayuda a determinar el éxito de los fármacos para perder peso, según un estudio - Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
+
+2026-04-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
+
+---
 
 ### [El programa 'Camino para cambiar la diabetes' reúne a 41 participantes en una ruta en San Cristóbal de Valdueza - El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
 
@@ -52,19 +60,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Bluthochdruck: Neue Therapien revolutionieren die Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
+### [WHO warnt vor stiller Epidemie: Jeder dritte Erwachsene hat Bluthochdruck - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
 
 2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
-
----
-
-### [Genes y obesidad: por qué los fármacos para bajar de peso no funcionan igual en todos los pacientes - El Mostrador](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSzNnaFBQVmRHcWZMZXpRZzdtanp6N3ZocHBPcGJKekhiSDNrUTFjMnBEM3RDMVMxWGttNWZvSWp1MEZyZ0R2SmcwTk9fTmZUb2JkY01QWkFDUzJ5M21Wc0hlSXVkTlN1ZURXUXB5ZDNQeVRNRTlZcjJ3aHNYMS03OFl6c0JKUThxYnZ5X3l4cnRyMG9pS0p4WGZNd2U5WVJRblZVUHNVUkFNOWwtbzJYSXQwMDR5TFRoOF9SeHZnUGhfbTlMb2ZwTHVtcFRxWXVGX0hfMnA0U2p0Rmtfemdxc0FpaEZWaFZBMEc2eHRfZTQzX2cyT3c?oc=5)
-
-2026-04-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[El Mostrador](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSzNnaFBQVmRHcWZMZXpRZzdtanp6N3ZocHBPcGJKekhiSDNrUTFjMnBEM3RDMVMxWGttNWZvSWp1MEZyZ0R2SmcwTk9fTmZUb2JkY01QWkFDUzJ5M21Wc0hlSXVkTlN1ZURXUXB5ZDNQeVRNRTlZcjJ3aHNYMS03OFl6c0JKUThxYnZ5X3l4cnRyMG9pS0p4WGZNd2U5WVJRblZVUHNVUkFNOWwtbzJYSXQwMDR5TFRoOF9SeHZnUGhfbTlMb2ZwTHVtcFRxWXVGX0hfMnA0U2p0Rmtfemdxc0FpaEZWaFZBMEc2eHRfZTQzX2cyT3c?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/semaglutide/
 2026-04-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
-
----
-
-### [Katherine Hirmas explica cómo la mala salud bucal aumenta el riesgo de un infarto o ACV](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SVDRDWGRxRTlzTGFCQ2U1WFE5RWQ3aHZELTdmVFFQSjdsdmRWdFdvbkZDRGdDaEFpNThHOGV2aUljSTMyYnQ4dFdTTGQxWUdrSHc2aFVMRGlsYTR1emhudVRxVTNEMmxu?oc=5)
-
-2026-04-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[TXS+](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SVDRDWGRxRTlzTGFCQ2U1WFE5RWQ3aHZELTdmVFFQSjdsdmRWdFdvbkZDRGdDaEFpNThHOGV2aUljSTMyYnQ4dFdTTGQxWUdrSHc2aFVMRGlsYTR1emhudVRxVTNEMmxu?oc=5)
 
 ---
 

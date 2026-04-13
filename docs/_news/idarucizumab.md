@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [¿Una cura para la artrosis? Este tratamiento podría revertir daños en las articulaciones con una sola inyección](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnh6Rkh4Qk9aelcyZHBHVTZRNGJEOGhVNWFxRHVsTDhoRXJyQXR1SjNzM1dGdnZLTUtZY2FoVGpiLW5jQmU3VmhSSEZ0Tmk2X1FCRHBnTkdJLUt3MkRHNFNnQWprdU14bjZOb29naUVWWUlIVVhtWjJ1eVRMMmdheFp5bHBwNjFhdlVmXzNBbmRydWo2SS1tc0kzeGsyNUxkVlZKZF9ZM2ppZkZMQ040VThlZlV5M2FEZ01fVFlFM1otdVo4dlpVekt6NWVUTUk2THZycXJyYw?oc=5)
+
+2026-04-13 <span class="news-indication-tag">artritis</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnh6Rkh4Qk9aelcyZHBHVTZRNGJEOGhVNWFxRHVsTDhoRXJyQXR1SjNzM1dGdnZLTUtZY2FoVGpiLW5jQmU3VmhSSEZ0Tmk2X1FCRHBnTkdJLUt3MkRHNFNnQWprdU14bjZOb29naUVWWUlIVVhtWjJ1eVRMMmdheFp5bHBwNjFhdlVmXzNBbmRydWo2SS1tc0kzeGsyNUxkVlZKZF9ZM2ppZkZMQ040VThlZlV5M2FEZ01fVFlFM1otdVo4dlpVekt6NWVUTUk2THZycXJyYw?oc=5)
+
+---
 
 ### [Lungentransplantation kann bei schwerer COPD der letzte Ausweg sein - Medical Tribune](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmJpdk5NWjZ3WFdxbzg5YWxQWFZWLVNrUVo3ejNjV01pNkFydFZPQlRfbU05dkJlVmQtRlVlUUFrSkFrVjMtcDk0ajJEczF1aDd3cm9paThGakFJeElQelhHbEEtbWNiNzlLOWctVko3OHZvOEU5ZTJ3akduWlluS3VPcGtNam9veGExOVpiVW5ObFgtcTRSSkpfTER2UU9JSHJyWXprd0UzZVlXS0ZLUmlreWJzaGhtUVE?oc=5)
 

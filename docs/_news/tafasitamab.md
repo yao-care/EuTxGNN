@@ -14,7 +14,7 @@ permalink: /news/tafasitamab/
 ---
 
 <p class="key-answer" data-question="Tafasitamab 有什麼相關新聞？">
-<strong>Tafasitamab</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tafasitamab</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/tafasitamab/
 <p><a href="{{ '/drugs/tafasitamab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（18 則）
 
 ### [CRIS Contra el Cáncer destina 15 millones a investigación](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZnFjRXJ0akZsSUtzUGNfSjlQNVJWYm9PYy1WOWM5cXA3el91ZUlQOFFIOUlEZTB5VXFBb3VyNWx1TjJMUmdUUmZfRUlxcldRZlZ0OWs2RFVHZlQ0aGxPNU1MbmtpTFVndjRkY3ZIM01QaTZ1VzVnMmdUcEY2SXFGZU4wdG4xeF90T0V5dlF1NmwyUktZVDJpWDNrOW92TnVHYWdwaXdwZDNRdW9ZMW0yMlowa1JtREVFYTJCSmppMWd4MG5tOGRQZTBOekE4SlpGYkc4MjBpajZPYmpHS2tSZ05yNXlXNE5n?oc=5)
 
@@ -57,6 +57,14 @@ permalink: /news/tafasitamab/
 2026-04-12 <span class="news-indication-tag">diabetes</span>
 
 來源：[El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
+
+---
+
+### [WHO warnt vor stiller Epidemie: Jeder dritte Erwachsene hat Bluthochdruck - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
+
+2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
 
 ---
 
@@ -100,11 +108,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Bluthochdruck: Neue Therapien revolutionieren die Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
+### ['I was told I have terminal breast cancer after having baby but still feel lucky' - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQREd5R3VwRjV1cURFZjNzUVczN1p4X2t1dlFUYTFXejhUT2pHcmJxTkhIWTg5Z0NSbGpEZ2pxa1hHc05lY083Z3NzazlLeHR5a2NWeUFCdWZINVB5aEprYVUtMnpZb2lXS3RfYmx0ZzlwajZ5My1CZ05zSDNtclFJUXVB0gGHAUFVX3lxTE5veURuMmFjX3VpS3hZbUpmbV9SeXowTGxJR05lYnpUU3V5eFVXbnV1OXVLaUdaQXViR1JDaG1YQjkxU0dxcHd6VGVnUmZoZHRpdmRnTXB5WEhmNjFwV2FWbGpFd0cwc0dCbXdULUhXRUxsMmZwZ0VnUFlFQzE4bEZjTmN5b2xjWQ?oc=5)
 
-2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-04-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQREd5R3VwRjV1cURFZjNzUVczN1p4X2t1dlFUYTFXejhUT2pHcmJxTkhIWTg5Z0NSbGpEZ2pxa1hHc05lY083Z3NzazlLeHR5a2NWeUFCdWZINVB5aEprYVUtMnpZb2lXS3RfYmx0ZzlwajZ5My1CZ05zSDNtclFJUXVB0gGHAUFVX3lxTE5veURuMmFjX3VpS3hZbUpmbV9SeXowTGxJR05lYnpUU3V5eFVXbnV1OXVLaUdaQXViR1JDaG1YQjkxU0dxcHd6VGVnUmZoZHRpdmRnTXB5WEhmNjFwV2FWbGpFd0cwc0dCbXdULUhXRUxsMmZwZ0VnUFlFQzE4bEZjTmN5b2xjWQ?oc=5)
 
 ---
 
@@ -140,14 +148,6 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Katherine Hirmas explica cómo la mala salud bucal aumenta el riesgo de un infarto o ACV](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SVDRDWGRxRTlzTGFCQ2U1WFE5RWQ3aHZELTdmVFFQSjdsdmRWdFdvbkZDRGdDaEFpNThHOGV2aUljSTMyYnQ4dFdTTGQxWUdrSHc2aFVMRGlsYTR1emhudVRxVTNEMmxu?oc=5)
-
-2026-04-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[TXS+](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SVDRDWGRxRTlzTGFCQ2U1WFE5RWQ3aHZELTdmVFFQSjdsdmRWdFdvbkZDRGdDaEFpNThHOGV2aUljSTMyYnQ4dFdTTGQxWUdrSHc2aFVMRGlsYTR1emhudVRxVTNEMmxu?oc=5)
-
----
-
 ### [HPV-Infektion führt zu schwerwiegenden gesundheitlichen Folgen - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxQajkwU1BaQ2lwX2Rab3dVbXBlUUdPM29aT25fRVEzZ0Z2SkFlc1p5alBzWnFNMnBndURQYTB1cWNlVzdGOU4zcVFuNUFaQjViVlBOU1RlYXRvbjZiTjNTaHN0cUQwNXpwZmNMaHZiRVNnV0NadFpNbER2cVB6U3hodXNYRF81QmNDMVFZLV9yRW40akpKUk9JNG9ydw?oc=5)
 
 2026-04-11 <span class="news-indication-tag">Krebs</span>
@@ -158,33 +158,9 @@ permalink: /news/tafasitamab/
 
 ### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
 
-2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
-
----
-
-### [Llega a España el ecobroncoscopio más avanzado para el diagnóstico de tumores pulmonares](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFoV2UwQlRKUHBRLVo1Y29IR0RzZXdwNWo1dWxhbUtTREd1VTF3aXdhWHczLVZMOTE0OU1XbnNwVGY5ZXl2UlZkdFJZSTJ3MGVhSkxQNE9xVkJIWjVIN1N0ZzdidTdPVE5yS0o4NDgtZVFhYjNoQmdtM0UybFMxVzJfQWlVUTY2a3NYSlFHU01IQUNFREdvcE0zNlI0MEhJcUNaX29zUW1ZaFJTbktzVUJ6VkQ?oc=5)
-
-2026-04-10 <span class="news-indication-tag">tumor</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFoV2UwQlRKUHBRLVo1Y29IR0RzZXdwNWo1dWxhbUtTREd1VTF3aXdhWHczLVZMOTE0OU1XbnNwVGY5ZXl2UlZkdFJZSTJ3MGVhSkxQNE9xVkJIWjVIN1N0ZzdidTdPVE5yS0o4NDgtZVFhYjNoQmdtM0UybFMxVzJfQWlVUTY2a3NYSlFHU01IQUNFREdvcE0zNlI0MEhJcUNaX29zUW1ZaFJTbktzVUJ6VkQ?oc=5)
-
----
-
-### [Cancer de l'ovaire: deux traitements enregistrent de bons résultats face à une forme résistante](https://news.google.com/rss/articles/CBMiggJBVV95cUxOWGEtZFhROEY3azNsY1ZzQzdXUWVEWU8tYVZHRlZLckh1T3NEUUNEa0dTTGJtOEVCYmZweWFPaThnTHVGVmdCRWpDLXZVQmgwc3lrOHpMbjdfTDRDdlRqOVJPdm83TXNaZUtzelJUUWV6Q1BTYnlXSzlvVTU3bVY2V2gxdTMyWXFsZEVRY2o5eXhTcGRRV2J1NkZlWmxpTks1UHBZcUd5Ri1TelpLLXpLZ3AyaWJSNHB6ZHd4Xzg5VFIzOEpJc2d2MjBfNVVZcmxPbmZxOWVFZkVIQzFoamRxd0NndzFyb0loaE1SbmJfbEo4Z0FPbjd4c28wUGNOVTN2LWfSAYcCQVVfeXFMUElCdVpsaDNmcnVaSEgzLWVsZUk4bF95RmVEcGVER19TN2RsNXJDOFp5a08zUmVmTzJaOWlEb3BMdkRmSjMtcGNNUEl2cW5xbURzWlF1NEtyY1NnZDZGRWRUcVpIUl91QjUxcExJNHZoUmdtZWE5Q1dXTGpxNHdkRk5kTVVrS1ROaENUa2JYU0xWMFVzd2tzNVJHUEtOM2VxcTFjMTNRQ21WUEM0eWdhRXpuTU1uVEExclpBTFJCQUhhYVRmOHRtUjdjQmVyajZSTzdDbmtsVGxjVS15NWVTdW15MFhEaS1ZS29Vcks0M2l0RzhPR0pRSWRwTjFncUltWkJBMTFnRUU?oc=5)
-
-2026-04-10 <span class="news-drug-tag">Paclitaxel</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Boursorama](https://news.google.com/rss/articles/CBMiggJBVV95cUxOWGEtZFhROEY3azNsY1ZzQzdXUWVEWU8tYVZHRlZLckh1T3NEUUNEa0dTTGJtOEVCYmZweWFPaThnTHVGVmdCRWpDLXZVQmgwc3lrOHpMbjdfTDRDdlRqOVJPdm83TXNaZUtzelJUUWV6Q1BTYnlXSzlvVTU3bVY2V2gxdTMyWXFsZEVRY2o5eXhTcGRRV2J1NkZlWmxpTks1UHBZcUd5Ri1TelpLLXpLZ3AyaWJSNHB6ZHd4Xzg5VFIzOEpJc2d2MjBfNVVZcmxPbmZxOWVFZkVIQzFoamRxd0NndzFyb0loaE1SbmJfbEo4Z0FPbjd4c28wUGNOVTN2LWfSAYcCQVVfeXFMUElCdVpsaDNmcnVaSEgzLWVsZUk4bF95RmVEcGVER19TN2RsNXJDOFp5a08zUmVmTzJaOWlEb3BMdkRmSjMtcGNNUEl2cW5xbURzWlF1NEtyY1NnZDZGRWRUcVpIUl91QjUxcExJNHZoUmdtZWE5Q1dXTGpxNHdkRk5kTVVrS1ROaENUa2JYU0xWMFVzd2tzNVJHUEtOM2VxcTFjMTNRQ21WUEM0eWdhRXpuTU1uVEExclpBTFJCQUhhYVRmOHRtUjdjQmVyajZSTzdDbmtsVGxjVS15NWVTdW15MFhEaS1ZS29Vcks0M2l0RzhPR0pRSWRwTjFncUltWkJBMTFnRUU?oc=5)
-
----
-
-### [Forschende entdecken brisante Darmkrebs-Spur: „Anzeichen, dass sich etwas anderes im Darm verändert“](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzlfZ2xWd0JSYmNYWU5SeFNiMWh4SjY0V2ZKSElwRTFOUThMVUpoRjMyXzFXcTBqd1J2cHg5SE9xRUwwSzBoUU1YOXFSbmJGbWNWaWlGS3BFQldzbkJaWXFQWXlCUnZ4WnZrMlZBUGtDVnNHcl91X1RBWG94TWtBLVJfSEVTVjd3NkVVNHR3aVVGR0FjRjZQNV9UeXpwbWxmRHRDYUhqU1U2a2pMbVE?oc=5)
-
-2026-04-10 <span class="news-indication-tag">Krebs</span>
-
-來源：[HNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzlfZ2xWd0JSYmNYWU5SeFNiMWh4SjY0V2ZKSElwRTFOUThMVUpoRjMyXzFXcTBqd1J2cHg5SE9xRUwwSzBoUU1YOXFSbmJGbWNWaWlGS3BFQldzbkJaWXFQWXlCUnZ4WnZrMlZBUGtDVnNHcl91X1RBWG94TWtBLVJfSEVTVjd3NkVVNHR3aVVGR0FjRjZQNV9UeXpwbWxmRHRDYUhqU1U2a2pMbVE?oc=5)
 
 ---
 

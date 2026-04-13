@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [¿Una cura para la artrosis? Este tratamiento podría revertir daños en las articulaciones con una sola inyección](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnh6Rkh4Qk9aelcyZHBHVTZRNGJEOGhVNWFxRHVsTDhoRXJyQXR1SjNzM1dGdnZLTUtZY2FoVGpiLW5jQmU3VmhSSEZ0Tmk2X1FCRHBnTkdJLUt3MkRHNFNnQWprdU14bjZOb29naUVWWUlIVVhtWjJ1eVRMMmdheFp5bHBwNjFhdlVmXzNBbmRydWo2SS1tc0kzeGsyNUxkVlZKZF9ZM2ppZkZMQ040VThlZlV5M2FEZ01fVFlFM1otdVo4dlpVekt6NWVUTUk2THZycXJyYw?oc=5)
+
+2026-04-13 <span class="news-indication-tag">artritis</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnh6Rkh4Qk9aelcyZHBHVTZRNGJEOGhVNWFxRHVsTDhoRXJyQXR1SjNzM1dGdnZLTUtZY2FoVGpiLW5jQmU3VmhSSEZ0Tmk2X1FCRHBnTkdJLUt3MkRHNFNnQWprdU14bjZOb29naUVWWUlIVVhtWjJ1eVRMMmdheFp5bHBwNjFhdlVmXzNBbmRydWo2SS1tc0kzeGsyNUxkVlZKZF9ZM2ppZkZMQ040VThlZlV5M2FEZ01fVFlFM1otdVo4dlpVekt6NWVUTUk2THZycXJyYw?oc=5)
+
+---
+
+### [El ADN ayuda a determinar el éxito de los fármacos para perder peso, según un estudio - Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
+
+2026-04-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
+
+---
 
 
 <div class="disclaimer">

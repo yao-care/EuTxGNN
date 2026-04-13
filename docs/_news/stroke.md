@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Mediterranean diet lowers stroke risk by 25%, new research reveals - Woman & Home](https://news.google.com/rss/articles/CBMikgFBVV95cUxObzBkSWpHNHJtU2h0UmFpRWZ2enhMS1kyMEgzd3laWkl1VktfSXlsWmNWX29hQ3FmcjN2RGhqZUZNR2lzamJfNlVra1k3UWdWeDA4Yk5USVpWUjFBNkEtSWNoMnRRT3B2VGJVc09XbURFTVdKU0VZdEczWFJKNnpmYmR3QmloODY1UjRuWmdiMzh5QQ?oc=5)
+
+2026-04-12
+
+來源：[Woman & Home](https://news.google.com/rss/articles/CBMikgFBVV95cUxObzBkSWpHNHJtU2h0UmFpRWZ2enhMS1kyMEgzd3laWkl1VktfSXlsWmNWX29hQ3FmcjN2RGhqZUZNR2lzamJfNlVra1k3UWdWeDA4Yk5USVpWUjFBNkEtSWNoMnRRT3B2VGJVc09XbURFTVdKU0VZdEczWFJKNnpmYmR3QmloODY1UjRuWmdiMzh5QQ?oc=5)
+
+---
 
 ### [Herzimplantate: Neue Alternative zu Blutverdünnern bei Vorhofflimmern - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/vildagliptin/
 ---
 
 <p class="key-answer" data-question="Vildagliptin 有什麼相關新聞？">
-<strong>Vildagliptin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vildagliptin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/vildagliptin/
 <p><a href="{{ '/drugs/vildagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [El programa 'Camino para cambiar la diabetes' reúne a 41 participantes en una ruta en San Cristóbal de Valdueza - El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
 
@@ -52,11 +52,11 @@ permalink: /news/vildagliptin/
 
 ---
 
-### [Bluthochdruck: Neue Therapien revolutionieren die Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
+### [WHO warnt vor stiller Epidemie: Jeder dritte Erwachsene hat Bluthochdruck - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
 
 2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
 
 ---
 
@@ -65,14 +65,6 @@ permalink: /news/vildagliptin/
 2026-04-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
-
----
-
-### [Katherine Hirmas explica cómo la mala salud bucal aumenta el riesgo de un infarto o ACV](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SVDRDWGRxRTlzTGFCQ2U1WFE5RWQ3aHZELTdmVFFQSjdsdmRWdFdvbkZDRGdDaEFpNThHOGV2aUljSTMyYnQ4dFdTTGQxWUdrSHc2aFVMRGlsYTR1emhudVRxVTNEMmxu?oc=5)
-
-2026-04-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[TXS+](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SVDRDWGRxRTlzTGFCQ2U1WFE5RWQ3aHZELTdmVFFQSjdsdmRWdFdvbkZDRGdDaEFpNThHOGV2aUljSTMyYnQ4dFdTTGQxWUdrSHc2aFVMRGlsYTR1emhudVRxVTNEMmxu?oc=5)
 
 ---
 

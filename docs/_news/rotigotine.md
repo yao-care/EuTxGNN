@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [« De la fièvre et une toux persistante » : en Europe, un premier cas de grippe aviaire chez l'homme confirmé par l'OMS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSlJCRmttR2lsejVlbVhZNENMSmpCWUtpeDJHMDgxYVlUQWRlMnNaMHVZa2JoMDVtOG1aNWdXbWttdzdKTlN0d2tsNFN5X2hFSjNfdGRxc0VXNEx4bXFiUkJkMXNELURMQ0JYVHBrOFJHMU5xb0lZVExlQUtwcjlBX3VWM01mQktDR2laX0FJMThvU2ZMWXdZaEFhYnRWYk54YkxpUjIxVWhyWWV4UUMydHoxamU0Y0NUdjJZOExrVVlrd3NpVnpYV3RLb19zY1VZdlh1R0l5bTZvbS16ZHU1N2ZCVmY4T3ZXZHc?oc=5)
+### [Autoimmune diseases may start in the gut: Early signs your immune system is turning against you and what - The Times of India](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPbG1ZUnZ6Y19GcUl3MmdyazRscUxHWS1vQ095ODlNdVNjQ2I0S3VlUFBGQjVobkNlQm0xVWZtZktlLVpFcG5EbFNkT20wS0hiMFpZSmY3VVRxRFFhNU9Pa0tSc0R3REMwcW5qUzBIcndjVFA5R3F0ZVdOYlVZLWR1Q2VrSllvZzhhWDlVWDRDM3AwdkVOYWYwcDE1NFBpWW93dVBQOVdTMGFVTDRLdHV1X2pQZU5WeVRLUnlXM0RxRjYtWjk0UkkzRUY5Ul9fY3YyTm9reVZ5NTdST3QxZFhIcW5yQzJ2TUpmVWVEUjRSNFI4dHpxYjVIMVlybVRSNjUxRWtzaXFjdUdhVW1maVFDZDh1ZFFUSTlCaVNxQUdLT0N6NDdBMm5XWFZ30gGvAkFVX3lxTE41WVdPRWNMREUxOV9yLUJDRDh3N01MNjg5MndYcDIwdkYwMGd2UnJJcjVpTHkxRGRUU2lxYXdQWFRzNkxVSEJFY3NxNmNGVnVNNlpFajlVS3JpNTZTUDdMQkpONmpGOFl4SG5LUlNOOGx0dWgtUllkcC1SN1NiMGU5WmtXNkVrcDRXX3UyTFRwSFRBVVVTcWFVN2hmNDRWT2dFX3hIM1ZNRW1sbXVRWWVJSl82VEVwX25EOVY2WFVEaTZielAySWI2TWFXX04yNDNPZ01kQ3JaWm9sdUdhWk9FcGlJNUFsV1VaUXlQR0w5ZVRsME1wTDZKSHBEQXo2UW95NWZRdU4wWGNPcm1NMlREVXUxRTd0ckRDSkVGdndiQmM1cGdUSVFYSTZudkZNQQ?oc=5)
 
-2026-04-11 <span class="news-indication-tag">MS</span>
+2026-04-12 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSlJCRmttR2lsejVlbVhZNENMSmpCWUtpeDJHMDgxYVlUQWRlMnNaMHVZa2JoMDVtOG1aNWdXbWttdzdKTlN0d2tsNFN5X2hFSjNfdGRxc0VXNEx4bXFiUkJkMXNELURMQ0JYVHBrOFJHMU5xb0lZVExlQUtwcjlBX3VWM01mQktDR2laX0FJMThvU2ZMWXdZaEFhYnRWYk54YkxpUjIxVWhyWWV4UUMydHoxamU0Y0NUdjJZOExrVVlrd3NpVnpYV3RLb19zY1VZdlh1R0l5bTZvbS16ZHU1N2ZCVmY4T3ZXZHc?oc=5)
-
----
-
-### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
-
-2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+來源：[The Times of India](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPbG1ZUnZ6Y19GcUl3MmdyazRscUxHWS1vQ095ODlNdVNjQ2I0S3VlUFBGQjVobkNlQm0xVWZtZktlLVpFcG5EbFNkT20wS0hiMFpZSmY3VVRxRFFhNU9Pa0tSc0R3REMwcW5qUzBIcndjVFA5R3F0ZVdOYlVZLWR1Q2VrSllvZzhhWDlVWDRDM3AwdkVOYWYwcDE1NFBpWW93dVBQOVdTMGFVTDRLdHV1X2pQZU5WeVRLUnlXM0RxRjYtWjk0UkkzRUY5Ul9fY3YyTm9reVZ5NTdST3QxZFhIcW5yQzJ2TUpmVWVEUjRSNFI4dHpxYjVIMVlybVRSNjUxRWtzaXFjdUdhVW1maVFDZDh1ZFFUSTlCaVNxQUdLT0N6NDdBMm5XWFZ30gGvAkFVX3lxTE41WVdPRWNMREUxOV9yLUJDRDh3N01MNjg5MndYcDIwdkYwMGd2UnJJcjVpTHkxRGRUU2lxYXdQWFRzNkxVSEJFY3NxNmNGVnVNNlpFajlVS3JpNTZTUDdMQkpONmpGOFl4SG5LUlNOOGx0dWgtUllkcC1SN1NiMGU5WmtXNkVrcDRXX3UyTFRwSFRBVVVTcWFVN2hmNDRWT2dFX3hIM1ZNRW1sbXVRWWVJSl82VEVwX25EOVY2WFVEaTZielAySWI2TWFXX04yNDNPZ01kQ3JaWm9sdUdhWk9FcGlJNUFsV1VaUXlQR0w5ZVRsME1wTDZKSHBEQXo2UW95NWZRdU4wWGNPcm1NMlREVXUxRTd0ckRDSkVGdndiQmM1cGdUSVFYSTZudkZNQQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [¿Una cura para la artrosis? Este tratamiento podría revertir daños en las articulaciones con una sola inyección](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnh6Rkh4Qk9aelcyZHBHVTZRNGJEOGhVNWFxRHVsTDhoRXJyQXR1SjNzM1dGdnZLTUtZY2FoVGpiLW5jQmU3VmhSSEZ0Tmk2X1FCRHBnTkdJLUt3MkRHNFNnQWprdU14bjZOb29naUVWWUlIVVhtWjJ1eVRMMmdheFp5bHBwNjFhdlVmXzNBbmRydWo2SS1tc0kzeGsyNUxkVlZKZF9ZM2ppZkZMQ040VThlZlV5M2FEZ01fVFlFM1otdVo4dlpVekt6NWVUTUk2THZycXJyYw?oc=5)
+
+2026-04-13 <span class="news-indication-tag">artritis</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnh6Rkh4Qk9aelcyZHBHVTZRNGJEOGhVNWFxRHVsTDhoRXJyQXR1SjNzM1dGdnZLTUtZY2FoVGpiLW5jQmU3VmhSSEZ0Tmk2X1FCRHBnTkdJLUt3MkRHNFNnQWprdU14bjZOb29naUVWWUlIVVhtWjJ1eVRMMmdheFp5bHBwNjFhdlVmXzNBbmRydWo2SS1tc0kzeGsyNUxkVlZKZF9ZM2ppZkZMQ040VThlZlV5M2FEZ01fVFlFM1otdVo4dlpVekt6NWVUTUk2THZycXJyYw?oc=5)
+
+---
 
 ### [La cardiopatía isquémica en mujeres presenta particularidades que condicionan el diagnóstico, el tratamiento y el pronóstico - Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
 

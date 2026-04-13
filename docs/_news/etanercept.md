@@ -14,7 +14,7 @@ permalink: /news/etanercept/
 ---
 
 <p class="key-answer" data-question="Etanercept 有什麼相關新聞？">
-<strong>Etanercept</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Etanercept</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/etanercept/
 <p><a href="{{ '/drugs/etanercept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [¿Una cura para la artrosis? Este tratamiento podría revertir daños en las articulaciones con una sola inyección](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnh6Rkh4Qk9aelcyZHBHVTZRNGJEOGhVNWFxRHVsTDhoRXJyQXR1SjNzM1dGdnZLTUtZY2FoVGpiLW5jQmU3VmhSSEZ0Tmk2X1FCRHBnTkdJLUt3MkRHNFNnQWprdU14bjZOb29naUVWWUlIVVhtWjJ1eVRMMmdheFp5bHBwNjFhdlVmXzNBbmRydWo2SS1tc0kzeGsyNUxkVlZKZF9ZM2ppZkZMQ040VThlZlV5M2FEZ01fVFlFM1otdVo4dlpVekt6NWVUTUk2THZycXJyYw?oc=5)
+
+2026-04-13 <span class="news-indication-tag">artritis</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnh6Rkh4Qk9aelcyZHBHVTZRNGJEOGhVNWFxRHVsTDhoRXJyQXR1SjNzM1dGdnZLTUtZY2FoVGpiLW5jQmU3VmhSSEZ0Tmk2X1FCRHBnTkdJLUt3MkRHNFNnQWprdU14bjZOb29naUVWWUlIVVhtWjJ1eVRMMmdheFp5bHBwNjFhdlVmXzNBbmRydWo2SS1tc0kzeGsyNUxkVlZKZF9ZM2ppZkZMQ040VThlZlV5M2FEZ01fVFlFM1otdVo4dlpVekt6NWVUTUk2THZycXJyYw?oc=5)
+
+---
 
 
 <div class="disclaimer">

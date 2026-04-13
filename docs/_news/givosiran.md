@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Los cambios en la respiración podrían estar relacionados con la hipertensión](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzdDNTFscUI4emQwNVpDa29RbTFKWlB5NzJSbllDUFJYeHNHcFBid01EOWJBb3R1eVpxbkU2YmJtM3BYUlNPNWdGOER4bDVsYzR1RjlGVTBJa0FSLXFZUnFaQW5OTDNFWHlzZVVjVWI1RTlOV1VSaVowWUNCTk1LSUV6UnR6QmpJaHZyb1hJNFdaN0REbGExSlNkWkE5bmV2dWFQa3ZicEpfQWdUMXVnYlRDWi14Zw?oc=5)
+### [WHO warnt vor stiller Epidemie: Jeder dritte Erwachsene hat Bluthochdruck - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
 
-2026-04-12 <span class="news-indication-tag">hipertensión</span>
+2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzdDNTFscUI4emQwNVpDa29RbTFKWlB5NzJSbllDUFJYeHNHcFBid01EOWJBb3R1eVpxbkU2YmJtM3BYUlNPNWdGOER4bDVsYzR1RjlGVTBJa0FSLXFZUnFaQW5OTDNFWHlzZVVjVWI1RTlOV1VSaVowWUNCTk1LSUV6UnR6QmpJaHZyb1hJNFdaN0REbGExSlNkWkE5bmV2dWFQa3ZicEpfQWdUMXVnYlRDWi14Zw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
 
 ---
 
@@ -60,19 +60,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbDhuNzV3bHUybHMwekpDVG1WdUJaMUdaUmN4TG1yT1M2MElJYTNHSU1uOEhrdHRBNkZwdks0UTVHanJNR3lSOGFuckw4SHpUWEZXRnMwWTBSYmwxdjB1dkE3a3pjM2h4dHJqOEZCT3RoQjBWTE5HcWJNQlFuNlVRNjNjcktWekpzLWYtN3I1bFRfSlN2X0tvWWhvWklqd2lYb3hBUnQzMWhobXZSSEo5bkVNNGV6eS1sMFJoOGFHSnJna0tnMzRGZ0ZVaEVRcmVyR3ZWUk5jZGZWUHNGV3AyTFJ3NWdCYm8zdmtDSjVRSEREMUludmZZcXVoZzdUaV90c0pBSG4zLV9vbU0?oc=5)
+### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcF9CaGRIdk9Kc0pUMXN5VUNoQmUtV1YyTWdFb2VPV2lBUU0yaTJoNHRBUWFoYWhQTkY4TWU3NkF2OU5TM3NOOG4wX3JUOGFNQWdETlE3ajZ5cm5mZUJoVC05cWd1eWtWY25aRjlMSFQ5Z2ZKY3ZTcjdVbmF5NVBiejRVVjBwZ2R5TFJmQnJRYzVobEFJTTZkREw0UEo4OTJpMUhMTVYyTi1OVjFEVUV0MEYxOElYX2FLOG5uRTVDVFNncTh0Ukd3NTRGZ2t5ejlfWGFhOUdWTWVsM1lFNXJlVGZaNlllYXhOWnN0SnVTRXFTUXhLWDIweDhrMTM0NklPMUZfVmlHSzRFcmc?oc=5)
 
 2026-04-12 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbDhuNzV3bHUybHMwekpDVG1WdUJaMUdaUmN4TG1yT1M2MElJYTNHSU1uOEhrdHRBNkZwdks0UTVHanJNR3lSOGFuckw4SHpUWEZXRnMwWTBSYmwxdjB1dkE3a3pjM2h4dHJqOEZCT3RoQjBWTE5HcWJNQlFuNlVRNjNjcktWekpzLWYtN3I1bFRfSlN2X0tvWWhvWklqd2lYb3hBUnQzMWhobXZSSEo5bkVNNGV6eS1sMFJoOGFHSnJna0tnMzRGZ0ZVaEVRcmVyR3ZWUk5jZGZWUHNGV3AyTFJ3NWdCYm8zdmtDSjVRSEREMUludmZZcXVoZzdUaV90c0pBSG4zLV9vbU0?oc=5)
-
----
-
-### [Bluthochdruck: Neue Therapien revolutionieren die Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
-
-2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhlZ3dYQUk0dWkwbW13a2l4QVpMUGxxTTNWeFd6Z00xZ0lUdDJ5Y2loOVZraS1sV0pNaVh4MllUdUV1cWZHWDBsX2E2bWg0eURrMjZ2UlZTV1lydGFubFRrMThCSGJIdHZNblhDWFR2aHllcm9JbDktZUdJWjlJYkh0aFJlMWloOGNOaDU1OFFiWEJnVG9yOGFXdzRfU3pNM2p2QURjVWxyWms0OVlHTDBTOVNLUDRVaGc?oc=5)
+來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcF9CaGRIdk9Kc0pUMXN5VUNoQmUtV1YyTWdFb2VPV2lBUU0yaTJoNHRBUWFoYWhQTkY4TWU3NkF2OU5TM3NOOG4wX3JUOGFNQWdETlE3ajZ5cm5mZUJoVC05cWd1eWtWY25aRjlMSFQ5Z2ZKY3ZTcjdVbmF5NVBiejRVVjBwZ2R5TFJmQnJRYzVobEFJTTZkREw0UEo4OTJpMUhMTVYyTi1OVjFEVUV0MEYxOElYX2FLOG5uRTVDVFNncTh0Ukd3NTRGZ2t5ejlfWGFhOUdWTWVsM1lFNXJlVGZaNlllYXhOWnN0SnVTRXFTUXhLWDIweDhrMTM0NklPMUZfVmlHSzRFcmc?oc=5)
 
 ---
 
