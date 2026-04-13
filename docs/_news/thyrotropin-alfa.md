@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [The truth about the 40-cent supplement that promises to slash heart disease risk and naturally lower cholesterol - Daily Mail](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjB3VWFTRFZ0WmRLZWtMOXRXU2pZM2xlbVZoMXo1UEdvTTVVZWdBeWlDUEdEYVIyMmtJX1FNV1JiaThNcENOQThaV0t6a2lkeUJESWR2MDdWc2V1LVpSaXNiQm9JaTNzLVVuRVNXNDBYa2Q5Y0Y0QnZSS2I2Sm9qVWstWHV4QXBnaTZjMWhKV2YtZmN4d0FXVFlPRC1Ia1hzb3RmRVZWRkxDa0FWdlI0dzZ30gG3AUFVX3lxTE5GT3QxX3FfUDZDSVBlVVN3TVBRUXJEbzBNeVR4OWdfZVFPcW00LUd4UEJydjNfOWJZTm5ueW5LS3MtU054MmQ2bHdJenN1R2tiNVMyN1U4T1d5MTFsVTU1N2RNVmlsOUZvZGNXenlOUkRYSGpxTkFPZmNfc25XeDF0YW5jUm1LcGNpM2kwMUlCMHdBV2hQVnpzNVRlOWFRYmx1dmRyUHp6amF0eUZIem5iQlJmMlJfSQ?oc=5)
+
+2026-04-13 <span class="news-indication-tag">heart disease</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjB3VWFTRFZ0WmRLZWtMOXRXU2pZM2xlbVZoMXo1UEdvTTVVZWdBeWlDUEdEYVIyMmtJX1FNV1JiaThNcENOQThaV0t6a2lkeUJESWR2MDdWc2V1LVpSaXNiQm9JaTNzLVVuRVNXNDBYa2Q5Y0Y0QnZSS2I2Sm9qVWstWHV4QXBnaTZjMWhKV2YtZmN4d0FXVFlPRC1Ia1hzb3RmRVZWRkxDa0FWdlI0dzZ30gG3AUFVX3lxTE5GT3QxX3FfUDZDSVBlVVN3TVBRUXJEbzBNeVR4OWdfZVFPcW00LUd4UEJydjNfOWJZTm5ueW5LS3MtU054MmQ2bHdJenN1R2tiNVMyN1U4T1d5MTFsVTU1N2RNVmlsOUZvZGNXenlOUkRYSGpxTkFPZmNfc25XeDF0YW5jUm1LcGNpM2kwMUlCMHdBV2hQVnpzNVRlOWFRYmx1dmRyUHp6amF0eUZIem5iQlJmMlJfSQ?oc=5)
+
+---
 
 ### [WHO warnt vor stiller Epidemie: Jeder dritte Erwachsene hat Bluthochdruck - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
 

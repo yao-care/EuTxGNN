@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie de Parkinson（parkinson disease） 相關新聞"
+title: "enfermedad de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "enfermedad de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
-# maladie de Parkinson（parkinson disease） 相關新聞
+# enfermedad de Parkinson（parkinson disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie de Parkinson（parkinson disease） 有什麼相關新聞？">
-<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Parkinson（parkinson disease） 有什麼相關新聞？">
+<strong>enfermedad de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie de Parkinson」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Parkinson」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,19 +37,19 @@ permalink: /news/parkinson-disease/
 
 ## 相關新聞（2 則）
 
+### [Buscan voluntarios para un estudio de Parkinson en Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU0RLQ1JYbERRcHpaVE9GUHNnRlEwX2xjT0l4Vzg3aUVOMmdjaXVnVS12dHg3Ni1XOW4tSHBpY0hFdjc5YU1ycXR3bzBoQzVmczVxUXRsTVdBTV9HM1JkMFJzczAtSFBmZ2RpbkVRbWpJZGJCLUhOaHpENDZaMnhLRXkzQ091STUydGN5azB3MW1oY3FYSG8tV0xITDNMUjRmdENSMkgwODdIX1FKLXJPRk15VDBXVnRoSEU0eVBYUEhmQ090Yld4WnR4QlprR3ZfZjdzVTBkdDFVN0RobS1lZC1YaDkzdmlUWUVJTWpXZ0XSAfYBQVVfeXFMTjhYZHdycUlVVnJVTW9yQklkN29jczVqakt2a1VHd0tueTBLaTBKS3F0RnpKejl5S3gzdDZhRERLQlB4SlFlWFlLNlFERHNYMURCYng1OGlPQmhmUG1MQXh0eHgxZWVBRE9ZUmRET1pOekdQQ2h0MTZVVUpHd19maGgxT0JHejdVaFE2d3M5TDZSS0tvaWRzWEtNM1NobkdwXzY0eTZDSGUzVEx6LW10Mi1NVWFfUllUTHEzOWlIRUQ4SVlFSzFvbkl6RXpMR3I4bm9FRkZ1S0lzVEEyaTg3UWluYTBrd1QyUURNUkpyajF5cFZNdUxR?oc=5)
+
+2026-04-13
+
+來源：[Navarra.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU0RLQ1JYbERRcHpaVE9GUHNnRlEwX2xjT0l4Vzg3aUVOMmdjaXVnVS12dHg3Ni1XOW4tSHBpY0hFdjc5YU1ycXR3bzBoQzVmczVxUXRsTVdBTV9HM1JkMFJzczAtSFBmZ2RpbkVRbWpJZGJCLUhOaHpENDZaMnhLRXkzQ091STUydGN5azB3MW1oY3FYSG8tV0xITDNMUjRmdENSMkgwODdIX1FKLXJPRk15VDBXVnRoSEU0eVBYUEhmQ090Yld4WnR4QlprR3ZfZjdzVTBkdDFVN0RobS1lZC1YaDkzdmlUWUVJTWpXZ0XSAfYBQVVfeXFMTjhYZHdycUlVVnJVTW9yQklkN29jczVqakt2a1VHd0tueTBLaTBKS3F0RnpKejl5S3gzdDZhRERLQlB4SlFlWFlLNlFERHNYMURCYng1OGlPQmhmUG1MQXh0eHgxZWVBRE9ZUmRET1pOekdQQ2h0MTZVVUpHd19maGgxT0JHejdVaFE2d3M5TDZSS0tvaWRzWEtNM1NobkdwXzY0eTZDSGUzVEx6LW10Mi1NVWFfUllUTHEzOWlIRUQ4SVlFSzFvbkl6RXpMR3I4bm9FRkZ1S0lzVEEyaTg3UWluYTBrd1QyUURNUkpyajF5cFZNdUxR?oc=5)
+
+---
+
 ### ["Ça m'a forcée à me poser" : atteinte de la maladie de Parkinson, Amandyne, 39 ans, "n'a plus de temps à perdre"](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
 
 2026-04-11
 
 來源：[Actu.fr](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
-
----
-
-### [Maladie de Parkinson : ce problème de santé très courant pourrait faire augmenter le risque d'être atteint par ce trouble](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWMwSnQyb1dNNjdXODdGbVEtdnllanNTQkpNS2NiVm9maC0xaTMzdDR6TG94bS1BNmZiOVdJVzlDbmphbGkxd2VTWFNndEtpWGpUZFh6YlZMM05EVTgwdW4tdHlZMXZsd0M3WmpPaTlERWZvV1BNLU5Hc09hTk42bEEwNU51V3NnaUM2aFJuOU1yTFpQdGlIWmhVdXdZU2lFb3dTT2VVcUhFZFV6LTJoZWhWaW9iUHRsVVhSRtIBwgFBVV95cUxQM3pFaG9VaG5SdDBIN04zcngzbHc1b0lBcW1xbTMyaVRfVHFudFR6NmJfN1F3MVcxa284R3l4NlRGVDFvejhNVnkzNS12SDF3R2dYelRCVHNONlgtNUYzUVhxczhFanhhNERfMWp0N3VWMEFHQkN3bjBLX3pzTENyTzZKQ3FuU1BqbXhsZG5uWmo1UGxTemZuMEMyd2pQOXNVZWRON1JQV2NHQS04Uzh6bmliVTlqajBUdVRRX1VkVkladw?oc=5)
-
-2026-04-11
-
-來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWMwSnQyb1dNNjdXODdGbVEtdnllanNTQkpNS2NiVm9maC0xaTMzdDR6TG94bS1BNmZiOVdJVzlDbmphbGkxd2VTWFNndEtpWGpUZFh6YlZMM05EVTgwdW4tdHlZMXZsd0M3WmpPaTlERWZvV1BNLU5Hc09hTk42bEEwNU51V3NnaUM2aFJuOU1yTFpQdGlIWmhVdXdZU2lFb3dTT2VVcUhFZFV6LTJoZWhWaW9iUHRsVVhSRtIBwgFBVV95cUxQM3pFaG9VaG5SdDBIN04zcngzbHc1b0lBcW1xbTMyaVRfVHFudFR6NmJfN1F3MVcxa284R3l4NlRGVDFvejhNVnkzNS12SDF3R2dYelRCVHNONlgtNUYzUVhxczhFanhhNERfMWp0N3VWMEFHQkN3bjBLX3pzTENyTzZKQ3FuU1BqbXhsZG5uWmo1UGxTemZuMEMyd2pQOXNVZWRON1JQV2NHQS04Uzh6bmliVTlqajBUdVRRX1VkVkladw?oc=5)
 
 ---
 

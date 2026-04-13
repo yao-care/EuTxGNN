@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [Menopause beschleunigt MS-Progression nicht - Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
+
+2026-04-13 <span class="news-indication-tag">MS</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
+
+---
+
+### [El eje intestino-cerebro: la conexión invisible que influye en tu mente y tu salud, según un estudio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOME83a001YnVSX0hlSEZGMXY1QzhCUE11NXZodHRsdUhucVRWaXI5THh6UlRXVWtjOEVGY3p3S3Y1YlNWRFVXZTdkdWs2TXpieWJmT3dISXpjT3lhVjhqZ1RGdFV0Tlg2bDRUdVdOOVNQNHRNQndnRmp5Z1FyeWhUTG5YamtobGxOTF9tZ3FMZFVmdEk3WnI0alVkOWxJVTVtT0NKNi1BaUNCajZJbVFUZHhBUFBiZ0R2Z09GTlVaeWpQcU84YWZya9IByAFBVV95cUxPQVpBS19KNzlOS0F2YTh2d1ZxZFdoNklyWDRNd1hkQmZWbW1UMC1NbW43cmx4TWk4Z2FFQmo5WXN1TXh3YjVqMU13Ujdtb2hWVk12QTI0T25NQ1ZTZC11d1U0dHY1bU9jOGFJdzdNcmd6bXdwVEF3NWpfUlpZR0VYSFplM3JmRnFYVW1HamUwUm0xamZPSnBXa0YyeGVnZkliZ3o5VG5BOFJRVUhCa2ZCQks5Ny13UnNrOVVSbjd3dXNVcUpmRVJaZQ?oc=5)
+
+2026-04-13 <span class="news-indication-tag">MS</span>
+
+來源：[MARCA](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOME83a001YnVSX0hlSEZGMXY1QzhCUE11NXZodHRsdUhucVRWaXI5THh6UlRXVWtjOEVGY3p3S3Y1YlNWRFVXZTdkdWs2TXpieWJmT3dISXpjT3lhVjhqZ1RGdFV0Tlg2bDRUdVdOOVNQNHRNQndnRmp5Z1FyeWhUTG5YamtobGxOTF9tZ3FMZFVmdEk3WnI0alVkOWxJVTVtT0NKNi1BaUNCajZJbVFUZHhBUFBiZ0R2Z09GTlVaeWpQcU84YWZya9IByAFBVV95cUxPQVpBS19KNzlOS0F2YTh2d1ZxZFdoNklyWDRNd1hkQmZWbW1UMC1NbW43cmx4TWk4Z2FFQmo5WXN1TXh3YjVqMU13Ujdtb2hWVk12QTI0T25NQ1ZTZC11d1U0dHY1bU9jOGFJdzdNcmd6bXdwVEF3NWpfUlpZR0VYSFplM3JmRnFYVW1HamUwUm0xamZPSnBXa0YyeGVnZkliZ3o5VG5BOFJRVUhCa2ZCQks5Ny13UnNrOVVSbjd3dXNVcUpmRVJaZQ?oc=5)
+
+---
 
 ### [Nicht mehr gebrochene Herzen: Inzidenz des Takotsubo-Syndroms über zwölf Jahre stabil – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMEFJRVlieUczV2ZxYlFSZU1MNVVqcTlRT1VhUE1PUDZoTGJoT2o1N2t2bm1wdlVUNjBuSmJIN2w3R1JLckItbFk3S2hUTmJBRHlfQkNuaVByekZXdHFfaEdyWExMYXJEaDFneHJheklHeXFyVmhLMGZhbnR0UVhua1h6TW5Ya2FsMkhzaEs1S3RxQzZOSWZvLW1HdTYtZ0pxU21rN2wxUVJaYnJ5eEhka2dncHFEZnpvcDVEX1VfcGFuVVpXQ2NCbXBETWhxQVBhTUFjZmF1Y3ppRmp1ak1qNkdFdzA3WkdEN3JmZFlMMjBZcGVmQ19raWk1N1pzV2c?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMEFJRVlieUczV2ZxYlFSZU1MNVVqcTlRT1VhUE1PUDZoTGJoT2o1N2t2bm1wdlVUNjBuSmJIN2w3R1JLckItbFk3S2hUTmJBRHlfQkNuaVByekZXdHFfaEdyWExMYXJEaDFneHJheklHeXFyVmhLMGZhbnR0UVhua1h6TW5Ya2FsMkhzaEs1S3RxQzZOSWZvLW1HdTYtZ0pxU21rN2wxUVJaYnJ5eEhka2dncHFEZnpvcDVEX1VfcGFuVVpXQ2NCbXBETWhxQVBhTUFjZmF1Y3ppRmp1ak1qNkdFdzA3WkdEN3JmZFlMMjBZcGVmQ19raWk1N1pzV2c?oc=5)
+
+---
+
+### [The neuroscientist with the solution to chronic pain - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZOZkdwT2IzcTNOMG90LUxmREwtbTdmbjFJV0pIbTREdG5sWUNmMUVHaVNYQTA2ZlFuWTFHMjgwVEd3U2U4WDZianduQjBoV3lCR1ZYUlRqUF9jdzJMRng0bXl3dkp6RGptN3pMYmNHT0k3NnJUdUtVM2FUanQ2QThRMjJFYWdWWTVwcmNEaXNkdnVQcFRpZERtdU9IZEVSM3pIMHRIM0o0X1k?oc=5)
+
+2026-04-13 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZOZkdwT2IzcTNOMG90LUxmREwtbTdmbjFJV0pIbTREdG5sWUNmMUVHaVNYQTA2ZlFuWTFHMjgwVEd3U2U4WDZianduQjBoV3lCR1ZYUlRqUF9jdzJMRng0bXl3dkp6RGptN3pMYmNHT0k3NnJUdUtVM2FUanQ2QThRMjJFYWdWWTVwcmNEaXNkdnVQcFRpZERtdU9IZEVSM3pIMHRIM0o0X1k?oc=5)
 
 ---
 
@@ -60,19 +84,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Online News: Internationales Gremium definiert den Begriff Darmgesundheit - ernährungs umschau](https://news.google.com/rss/articles/CBMingFBVV95cUxPZy1YNEg5Vnp6dE9xcnpRRTgza1VVUkRqUmlTdV9PNGN2MzMzeFEwWWk3Q1RiRlAxNDE3WTlrLVZZMGlJWmwzM2dHVTFYTFU0RGE4aFNQbnV1T2NlRlgtUVdQYy1qRUhiUVhVZlZQSjlZZ1BDWkNsdWI1NUp1aWg2T0dGc2hTTm8tM0pIenRwRjB5NkJDa2ZDenNfTlFoUQ?oc=5)
+### [Taking Too Much Vitamin D Can Backfire, Scientists Warn](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR000Z3NHSzRpd3l3d3RTaFg4TUlnQ2lWRnBraTF4QlV6V3M4VVY1UVRKWXFpbG5YOVZIN25wa0dFLWdmZVNITTR6Z2Y5Q2VzazNjd0dYOHRRS3hncGxGak1PZUdIR0xfc2JJUjQtSW94RzZiNWVHMFNZUHJlWW1iU0NtOU0zX3k4NFNR?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
 
-來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMingFBVV95cUxPZy1YNEg5Vnp6dE9xcnpRRTgza1VVUkRqUmlTdV9PNGN2MzMzeFEwWWk3Q1RiRlAxNDE3WTlrLVZZMGlJWmwzM2dHVTFYTFU0RGE4aFNQbnV1T2NlRlgtUVdQYy1qRUhiUVhVZlZQSjlZZ1BDWkNsdWI1NUp1aWg2T0dGc2hTTm8tM0pIenRwRjB5NkJDa2ZDenNfTlFoUQ?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR000Z3NHSzRpd3l3d3RTaFg4TUlnQ2lWRnBraTF4QlV6V3M4VVY1UVRKWXFpbG5YOVZIN25wa0dFLWdmZVNITTR6Z2Y5Q2VzazNjd0dYOHRRS3hncGxGak1PZUdIR0xfc2JJUjQtSW94RzZiNWVHMFNZUHJlWW1iU0NtOU0zX3k4NFNR?oc=5)
 
 ---
 
-### [Los enfermos de párkinson se duplican en España desde 2012 - Libertad Digital](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGJnZUh1QUtBeU1xZEtWVzM3ZDJvRWo0SzZUMkE4djJ4R2ttblh0QkotXzlRZmlSMUtWelRmeVJlVUNwbGZ1bHpQX1dzMDlsLVVMTjZYbmY2Mnh0OExrNjZZajZyUUdzck43am11NVJ1QmNjUjlqN3hUYkZJN1JCYXc5Z2ozSV9wS0d4TG5odXNzbnV5Y3ZqbEFKT0U0UndscVd2SmxyeEwxWEVDWjRILXZSMzlXeVhVMm1XQ1N4dGxmY2FSdkE1LXBMQUJEVVFf0gHbAUFVX3lxTE5JUjZfNTRSQkVPTXQzTWFvN3hpdXhtTnRwWkhXdlFOVXNPcEhrem1pMDAwTjJTVThsZEkxejhmNkZnSnV1M05hMldrdUtRcjByNlEtM2JvNW9wTlBKVW03dXFGM0lhNDlkbS1wNEVtLXNmQkhVZllhc0VHSXZSRF9sd3NXNkdGTzV1QU9Kanh6ZjRTZy1nY3cyOVBLM0JQa05uRkFIMWpRN2g1NlcyTGdpOHdNQzdmRUZBM2xWRjVQNEdObHI1QmxtcEFGMmZJMko5UHRFbkhUMk9WQQ?oc=5)
+### [Tatuajes, toxinas y sistema inmunitario: qué conviene tener en cuenta antes de tatuarnos - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
 
 2026-04-12 <span class="news-indication-tag">MS</span>
 
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGJnZUh1QUtBeU1xZEtWVzM3ZDJvRWo0SzZUMkE4djJ4R2ttblh0QkotXzlRZmlSMUtWelRmeVJlVUNwbGZ1bHpQX1dzMDlsLVVMTjZYbmY2Mnh0OExrNjZZajZyUUdzck43am11NVJ1QmNjUjlqN3hUYkZJN1JCYXc5Z2ozSV9wS0d4TG5odXNzbnV5Y3ZqbEFKT0U0UndscVd2SmxyeEwxWEVDWjRILXZSMzlXeVhVMm1XQ1N4dGxmY2FSdkE1LXBMQUJEVVFf0gHbAUFVX3lxTE5JUjZfNTRSQkVPTXQzTWFvN3hpdXhtTnRwWkhXdlFOVXNPcEhrem1pMDAwTjJTVThsZEkxejhmNkZnSnV1M05hMldrdUtRcjByNlEtM2JvNW9wTlBKVW03dXFGM0lhNDlkbS1wNEVtLXNmQkhVZllhc0VHSXZSRF9sd3NXNkdGTzV1QU9Kanh6ZjRTZy1nY3cyOVBLM0JQa05uRkFIMWpRN2g1NlcyTGdpOHdNQzdmRUZBM2xWRjVQNEdObHI1QmxtcEFGMmZJMko5UHRFbkhUMk9WQQ?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
 
 ---
 
@@ -100,11 +124,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [El intestino, clave en el envejecimiento del cerebro y la memoria](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTRTUUVhZ3VDdG83Zmx2Vi1nNkR5SEV6cTh5VlB1SDZQLW5IYVFEUDEtbXVhczZOQU1SOGkzVzRHLW1XS0RJNzRTTEsxR3pwcVByUlE2RTBCT3pFNFIzRExxa3NHREppaUgzSnJkUUQwQUQyM2xGYjB6MC05QXBfbE5xMUw3WlY1ZDZHYjlNQU5wNndDaXJleDdvek1WMEk3aTQ0M1dIbUw?oc=5)
+### ["Ça m'a forcée à me poser" : atteinte de la maladie de Parkinson, Amandyne, 39 ans, "n'a plus de temps à perdre"](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
 
-2026-04-12 <span class="news-indication-tag">MS</span>
+2026-04-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">maladie de Parkinson</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTRTUUVhZ3VDdG83Zmx2Vi1nNkR5SEV6cTh5VlB1SDZQLW5IYVFEUDEtbXVhczZOQU1SOGkzVzRHLW1XS0RJNzRTTEsxR3pwcVByUlE2RTBCT3pFNFIzRExxa3NHREppaUgzSnJkUUQwQUQyM2xGYjB6MC05QXBfbE5xMUw3WlY1ZDZHYjlNQU5wNndDaXJleDdvek1WMEk3aTQ0M1dIbUw?oc=5)
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
 
 ---
 

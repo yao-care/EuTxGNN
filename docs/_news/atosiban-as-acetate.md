@@ -14,7 +14,7 @@ permalink: /news/atosiban-as-acetate/
 ---
 
 <p class="key-answer" data-question="Atosiban (As Acetate) 有什麼相關新聞？">
-<strong>Atosiban (As Acetate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Atosiban (As Acetate)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/atosiban-as-acetate/
 <p><a href="{{ '/drugs/atosiban-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [The truth about the 40-cent supplement that promises to slash heart disease risk and naturally lower cholesterol - Daily Mail](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjB3VWFTRFZ0WmRLZWtMOXRXU2pZM2xlbVZoMXo1UEdvTTVVZWdBeWlDUEdEYVIyMmtJX1FNV1JiaThNcENOQThaV0t6a2lkeUJESWR2MDdWc2V1LVpSaXNiQm9JaTNzLVVuRVNXNDBYa2Q5Y0Y0QnZSS2I2Sm9qVWstWHV4QXBnaTZjMWhKV2YtZmN4d0FXVFlPRC1Ia1hzb3RmRVZWRkxDa0FWdlI0dzZ30gG3AUFVX3lxTE5GT3QxX3FfUDZDSVBlVVN3TVBRUXJEbzBNeVR4OWdfZVFPcW00LUd4UEJydjNfOWJZTm5ueW5LS3MtU054MmQ2bHdJenN1R2tiNVMyN1U4T1d5MTFsVTU1N2RNVmlsOUZvZGNXenlOUkRYSGpxTkFPZmNfc25XeDF0YW5jUm1LcGNpM2kwMUlCMHdBV2hQVnpzNVRlOWFRYmx1dmRyUHp6amF0eUZIem5iQlJmMlJfSQ?oc=5)
+
+2026-04-13 <span class="news-indication-tag">heart disease</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjB3VWFTRFZ0WmRLZWtMOXRXU2pZM2xlbVZoMXo1UEdvTTVVZWdBeWlDUEdEYVIyMmtJX1FNV1JiaThNcENOQThaV0t6a2lkeUJESWR2MDdWc2V1LVpSaXNiQm9JaTNzLVVuRVNXNDBYa2Q5Y0Y0QnZSS2I2Sm9qVWstWHV4QXBnaTZjMWhKV2YtZmN4d0FXVFlPRC1Ia1hzb3RmRVZWRkxDa0FWdlI0dzZ30gG3AUFVX3lxTE5GT3QxX3FfUDZDSVBlVVN3TVBRUXJEbzBNeVR4OWdfZVFPcW00LUd4UEJydjNfOWJZTm5ueW5LS3MtU054MmQ2bHdJenN1R2tiNVMyN1U4T1d5MTFsVTU1N2RNVmlsOUZvZGNXenlOUkRYSGpxTkFPZmNfc25XeDF0YW5jUm1LcGNpM2kwMUlCMHdBV2hQVnpzNVRlOWFRYmx1dmRyUHp6amF0eUZIem5iQlJmMlJfSQ?oc=5)
+
+---
 
 ### [La cardiopatía isquémica en mujeres presenta particularidades que condicionan el diagnóstico, el tratamiento y el pronóstico - Salud a Diario](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRDF2ZjNUTGZLX3FVLXY1cFFKTmdLZmh3eXZ6YWg5R0Nxb1l4Ylk0ZzRiZkNUV2trNThnSXhJNGN2XzdFekQ0ZlR1Uy1sczNrV2praTZPMzZDZUxabVhuS1V1a2U0X1BsMW5jR1pjSTI2UlgxZXItbjNnZldHOXhvdjNCNUo4WWxWdU9ZVFpJQVI1dXdTaUUwNUNRVDB2U3JwMjJhMUttWm9JWngzMGh1aXZ2WGdPNXNQNHg2bV95ZWUwZFdqVnJIM2lIVFZzc0Q4NWswSVJoSW5wTXR3XzRzQUh2cEU2VTdXb3JPVmNJajdtU284OHBteFZ3?oc=5)
 

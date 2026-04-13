@@ -44,11 +44,11 @@ permalink: /news/metformin/
 
 ## 相關新聞（3 則）
 
-### [El programa 'Camino para cambiar la diabetes' reúne a 41 participantes en una ruta en San Cristóbal de Valdueza - El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
+### [Weniger Zucker und Fett im Essen? – so einfach ist es nicht! - Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
 
-2026-04-12 <span class="news-indication-tag">diabetes</span>
+2026-04-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
+來源：[Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
 
 ---
 

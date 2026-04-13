@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Weniger Zucker und Fett im Essen? – so einfach ist es nicht! - Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
+
+2026-04-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
+
+---
 
 ### [El ADN ayuda a determinar el éxito de los fármacos para perder peso, según un estudio - Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
 
 2026-04-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
-
----
-
-### [El programa 'Camino para cambiar la diabetes' reúne a 41 participantes en una ruta en San Cristóbal de Valdueza - El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
-
-2026-04-12 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/semaglutide/
 2026-04-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
-
----
-
-### [L’era Ozempic in pillola: quando la fame si controlla - RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
-
-2026-04-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-來源：[RSI Radiotelevisione svizzera](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmM1c05UcXRFbjdDVWloTEJtR0pCX2pFS3g4YVR4aUZUUjE0eENGSkpqbGNkbmRGYWFaY3JKSHdOVEtSYWtfRkhQWHdWcXZUZnhaTXQyVmhacjBQblhvTVR5TF91bm4xNlVUNTU1aVhaLWtDUkVQZFBXMUVLMVlfUXZyQTl5ak5Yd2JmV1dDQUd2RlI3SVVYRG5YeWpiU1lfZGZ4Mm96eEl4cmk0LXNpbHlYdXl0QzhyVUxkQVVXWQ?oc=5)
 
 ---
 

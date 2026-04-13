@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [El programa 'Camino para cambiar la diabetes' reúne a 41 participantes en una ruta en San Cristóbal de Valdueza - El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
+### [Weniger Zucker und Fett im Essen? – so einfach ist es nicht! - Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
 
-2026-04-12 <span class="news-indication-tag">diabetes</span>
+2026-04-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Bierzo Digital](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZVWFTR3h4ejhvZXFfNGg4VC1LR25aMlg0a0J3M1BNYnhzZDRBYzBhcmhBMWwyWTBFb09jMnk2XzViZGxoOXVWOGdGZG1mOFBFZzk1TW9VbU9sS1B3ZlVxanhDbUVSUVJzZW1nZzRvVEd5ZzdYT3ViRDdsUks5LTZELWVqTTJGSm5DVmk0a3kwQlRldndCYmRsU2JlZk54eGZra1h0bUtrY2V4TEltbHh4THZLMFk?oc=5)
+來源：[Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
+
+---
+
+### [The truth about the 40-cent supplement that promises to slash heart disease risk and naturally lower cholesterol - Daily Mail](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjB3VWFTRFZ0WmRLZWtMOXRXU2pZM2xlbVZoMXo1UEdvTTVVZWdBeWlDUEdEYVIyMmtJX1FNV1JiaThNcENOQThaV0t6a2lkeUJESWR2MDdWc2V1LVpSaXNiQm9JaTNzLVVuRVNXNDBYa2Q5Y0Y0QnZSS2I2Sm9qVWstWHV4QXBnaTZjMWhKV2YtZmN4d0FXVFlPRC1Ia1hzb3RmRVZWRkxDa0FWdlI0dzZ30gG3AUFVX3lxTE5GT3QxX3FfUDZDSVBlVVN3TVBRUXJEbzBNeVR4OWdfZVFPcW00LUd4UEJydjNfOWJZTm5ueW5LS3MtU054MmQ2bHdJenN1R2tiNVMyN1U4T1d5MTFsVTU1N2RNVmlsOUZvZGNXenlOUkRYSGpxTkFPZmNfc25XeDF0YW5jUm1LcGNpM2kwMUlCMHdBV2hQVnpzNVRlOWFRYmx1dmRyUHp6amF0eUZIem5iQlJmMlJfSQ?oc=5)
+
+2026-04-13 <span class="news-indication-tag">heart disease</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjB3VWFTRFZ0WmRLZWtMOXRXU2pZM2xlbVZoMXo1UEdvTTVVZWdBeWlDUEdEYVIyMmtJX1FNV1JiaThNcENOQThaV0t6a2lkeUJESWR2MDdWc2V1LVpSaXNiQm9JaTNzLVVuRVNXNDBYa2Q5Y0Y0QnZSS2I2Sm9qVWstWHV4QXBnaTZjMWhKV2YtZmN4d0FXVFlPRC1Ia1hzb3RmRVZWRkxDa0FWdlI0dzZ30gG3AUFVX3lxTE5GT3QxX3FfUDZDSVBlVVN3TVBRUXJEbzBNeVR4OWdfZVFPcW00LUd4UEJydjNfOWJZTm5ueW5LS3MtU054MmQ2bHdJenN1R2tiNVMyN1U4T1d5MTFsVTU1N2RNVmlsOUZvZGNXenlOUkRYSGpxTkFPZmNfc25XeDF0YW5jUm1LcGNpM2kwMUlCMHdBV2hQVnpzNVRlOWFRYmx1dmRyUHp6amF0eUZIem5iQlJmMlJfSQ?oc=5)
 
 ---
 
