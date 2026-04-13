@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（2 則）
 
 ### [Mediterranean diet lowers stroke risk by 25%, new research reveals - Woman & Home](https://news.google.com/rss/articles/CBMikgFBVV95cUxObzBkSWpHNHJtU2h0UmFpRWZ2enhMS1kyMEgzd3laWkl1VktfSXlsWmNWX29hQ3FmcjN2RGhqZUZNR2lzamJfNlVra1k3UWdWeDA4Yk5USVpWUjFBNkEtSWNoMnRRT3B2VGJVc09XbURFTVdKU0VZdEczWFJKNnpmYmR3QmloODY1UjRuWmdiMzh5QQ?oc=5)
 
@@ -57,30 +57,6 @@ permalink: /news/simvastatin/
 2026-04-12 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
-
----
-
-### [Un nuevo estudio reveló que una combinación simple de frutas podría mejorar la salud cardíaca en pocas semanas](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc1NGbzFlVFJlTUJ4QXpRY29tazdnY1dMbVcwaGhFd2cyUkYxcDltTUhiaEhIVTNCQTlOekJjZUVjd3BsXzlvNEdtNmtLZTJNSlVDbE56OVdKNDFuNjBrVFBhYzVuU2hpSFlWazdBZHVRS0lpOU91R085YUFkaFlDcGp0Q3ZrWnJ3WS1ZLVkycEthcmg2NG42ZFVTV1RVU1UtQzJiNzJIaTZOZmphbnNHMi02dGNQRnJzaUJ5em9Kakx2V0h6bHFtcDREdXZoQXhFNEo2cWRmcDVxYTA5elllRVcyNDJWQmvSAYICQVVfeXFMTWZjeVo1RG1LVk1xVlp4eHRramNIeTFTZElRMnBJMUl5NEpUWG4xMU5GcnZHTVdyMGxJSkZONFMtc0czMzJGM0RXV1pSUWkwaWFvMVlqSzlQeG51ckRhWWdmVGcwVWExaTRmekxQalo2MGUxek1iWXotb0xZd3B0bjdEOTcwck9vUXhoVExrbUxYRVprV1oySVFJa2s1eHJDOWZjRHN3RlFkdHprTXo4T2lKVjBVYnBqT1FjcjdlTGl0a0UwY21ZTzBzcTFjNU1YN1hLZjB5ellhU0YxZ3oySFNVazhrWUhWTUtsaVNTTklTUDVmdGNhUkhiVlVuS1pyZzhR?oc=5)
-
-2026-04-11 <span class="news-indication-tag">ictus</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc1NGbzFlVFJlTUJ4QXpRY29tazdnY1dMbVcwaGhFd2cyUkYxcDltTUhiaEhIVTNCQTlOekJjZUVjd3BsXzlvNEdtNmtLZTJNSlVDbE56OVdKNDFuNjBrVFBhYzVuU2hpSFlWazdBZHVRS0lpOU91R085YUFkaFlDcGp0Q3ZrWnJ3WS1ZLVkycEthcmg2NG42ZFVTV1RVU1UtQzJiNzJIaTZOZmphbnNHMi02dGNQRnJzaUJ5em9Kakx2V0h6bHFtcDREdXZoQXhFNEo2cWRmcDVxYTA5elllRVcyNDJWQmvSAYICQVVfeXFMTWZjeVo1RG1LVk1xVlp4eHRramNIeTFTZElRMnBJMUl5NEpUWG4xMU5GcnZHTVdyMGxJSkZONFMtc0czMzJGM0RXV1pSUWkwaWFvMVlqSzlQeG51ckRhWWdmVGcwVWExaTRmekxQalo2MGUxek1iWXotb0xZd3B0bjdEOTcwck9vUXhoVExrbUxYRVprV1oySVFJa2s1eHJDOWZjRHN3RlFkdHprTXo4T2lKVjBVYnBqT1FjcjdlTGl0a0UwY21ZTzBzcTFjNU1YN1hLZjB5ellhU0YxZ3oySFNVazhrWUhWTUtsaVNTTklTUDVmdGNhUkhiVlVuS1pyZzhR?oc=5)
-
----
-
-### [Infarto e ictus, il ruolo del vaccino antinfluenzale - Libero Quotidiano](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjN2M1Z1WUU5cndkUnI1TWhjbmtVWFpQVVlsSjVOMFozakxZbGNNMHdlcFBEblJRcWxlRmtmUk9JMnMwSFJPYUxNSmF3bHczMkdIWC0tbVBGSEJzRlpYSG8yeGsxb25xaEU0c3JTUS1RbDZLa0tjOUlzYU9oRk9BVWRLM2JhUGVfNEZxM2RtVGF5cjZZQU51ODhjYzBZdU9CMTFBeFhxNUJhNWRJMGc?oc=5)
-
-2026-04-11 <span class="news-indication-tag">ictus</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjN2M1Z1WUU5cndkUnI1TWhjbmtVWFpQVVlsSjVOMFozakxZbGNNMHdlcFBEblJRcWxlRmtmUk9JMnMwSFJPYUxNSmF3bHczMkdIWC0tbVBGSEJzRlpYSG8yeGsxb25xaEU0c3JTUS1RbDZLa0tjOUlzYU9oRk9BVWRLM2JhUGVfNEZxM2RtVGF5cjZZQU51ODhjYzBZdU9CMTFBeFhxNUJhNWRJMGc?oc=5)
-
----
-
-### [Diagnose Schlaganfall – wie einem Chemnitzer gerade noch rechtzeitig geholfen wurde - Freie Presse](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZDelVaVTYybXRnV1EzQm5BRVZQbDJLMzlyV2pfT1JFa21ZejdjZnB6NVNNN2dZUFdRRVVVc1o3TklzRFFQUzY0R1FjOWJwWnlBbWhUczlybmZFQ1VBZm50QXYzSmNYS3k5cjhIa1VwTno3T3BoTGpOcHlzN052M3JvLUpOOUI1VUJVNlZha3dQVDJhVEtRYU12eHY3MVdJQnVEbWkwZEFXaTJVVndwZ3M0S0pObW05MV96VHRqckk1c3p6YW9hdV9fQU5ld25WeEUxV1U2UVdHTWl2?oc=5)
-
-2026-04-11 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Freie Presse](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZDelVaVTYybXRnV1EzQm5BRVZQbDJLMzlyV2pfT1JFa21ZejdjZnB6NVNNN2dZUFdRRVVVc1o3TklzRFFQUzY0R1FjOWJwWnlBbWhUczlybmZFQ1VBZm50QXYzSmNYS3k5cjhIa1VwTno3T3BoTGpOcHlzN052M3JvLUpOOUI1VUJVNlZha3dQVDJhVEtRYU12eHY3MVdJQnVEbWkwZEFXaTJVVndwZ3M0S0pObW05MV96VHRqckk1c3p6YW9hdV9fQU5ld25WeEUxV1U2UVdHTWl2?oc=5)
 
 ---
 

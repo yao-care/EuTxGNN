@@ -14,7 +14,7 @@ permalink: /news/deferasirox/
 ---
 
 <p class="key-answer" data-question="Deferasirox 有什麼相關新聞？">
-<strong>Deferasirox</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Deferasirox</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,77 @@ permalink: /news/deferasirox/
 <p><a href="{{ '/drugs/deferasirox/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（22 則）
+
+### [Was ist erblich bedingter Krebs? - Der Standard](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbExqYXVOYV84ZHlUeEd5Z2ZWXzJ3bnNkcjFkUE5nMG81WkNLbFkxRWVhdVJ1QXdqeEtFUFZ4QnFuejl5LTNGdlVzamx6eVJpWlhaTzZRZDJIX0tfUkd4WEY1eWJjWHZZc2JkX1U4QVJfUU5jOTBDYmZYTnZGTUFKUTVoeno?oc=5)
+
+2026-04-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[Der Standard](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbExqYXVOYV84ZHlUeEd5Z2ZWXzJ3bnNkcjFkUE5nMG81WkNLbFkxRWVhdVJ1QXdqeEtFUFZ4QnFuejl5LTNGdlVzamx6eVJpWlhaTzZRZDJIX0tfUkd4WEY1eWJjWHZZc2JkX1U4QVJfUU5jOTBDYmZYTnZGTUFKUTVoeno?oc=5)
+
+---
+
+### [El cáncer de pulmón que cambia de identidad: descubren por qué algunos tumores se vuelven 'invencibles' al tratamiento](https://news.google.com/rss/articles/CBMi9AFBVV95cUxONF9BRUs2X1NUV09qMW1kRm9GRDRiaGs0VVFvSEhzRTl1ZXhWYzZwQUoxZm9jdnhuN1MzVzhzZ2NOVFY2VExmeFhIQklJVzRtVFI0bGpqZS1aR05QVWtNb29hODhhZWJTdWNONDVwTDVqZVF2QlRyXzh2aWZmcS1JYnpGMGhtcnVjUi1HaUN0cV83M2tBTUUzZzFhR0EzdHRKZ0JnNXdraElmVkhpWjE1RjlTcXlKcFBWb3NsV2J4QTN1MlUtS0FHRHhhazdqM2MxWmEyRWtoRUJ0dTd3MVpGTkUxWEJXTGR2ZVFJekJkOEEtNm9v?oc=5)
+
+2026-04-13 <span class="news-indication-tag">tumor</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxONF9BRUs2X1NUV09qMW1kRm9GRDRiaGs0VVFvSEhzRTl1ZXhWYzZwQUoxZm9jdnhuN1MzVzhzZ2NOVFY2VExmeFhIQklJVzRtVFI0bGpqZS1aR05QVWtNb29hODhhZWJTdWNONDVwTDVqZVF2QlRyXzh2aWZmcS1JYnpGMGhtcnVjUi1HaUN0cV83M2tBTUUzZzFhR0EzdHRKZ0JnNXdraElmVkhpWjE1RjlTcXlKcFBWb3NsV2J4QTN1MlUtS0FHRHhhazdqM2MxWmEyRWtoRUJ0dTd3MVpGTkUxWEJXTGR2ZVFJekJkOEEtNm9v?oc=5)
+
+---
+
+### [Le mariage protège-t-il du cancer ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
+
+2026-04-13 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
+
+---
+
+### [Los adolescentes y jóvenes que superan un cáncer tienen el doble de riesgo de padecer un tumor en el futuro - La Razón](https://news.google.com/rss/articles/CBMi4AFBVV95cUxObDFFY0lRR19ZbnF3dlhJYWJ3UXd6RkRoRGkzLVM1ZG5ybnVVdnVROXJrdjNOZXB3b0dLMVFoTVBGMXBUNXRyYm1McmRnVHhrQ2ZMTnRrS2lJblV3YUtTQXdYeXl1S1BFTU90aFZudlI3aEFqc2stVXh0bURhckVpZGg1Y252OFdXZFJpb1JLWnhYakFSS0F6aWFVRHVlYmlKUjZXbVBYVERMcVh2dG9OblZra0Z2ZnNEclRSRndJUjl6eW9LeEJwdXpWWTZ2UElpcVoxX2dXbk5hcGhxQ0l0T9IB9AFBVV95cUxQYWh0UzhQX0lxTkVkX1JBSUNZQVFYUGUtTnZLVTl0aVJYaEREcFRqN0hEbmxKcjgzTHQyakVUUnFiYXhneHA1cjNsTngwNmdBdXlqUFliVXVGYUJUMmlrLWlMd2FISW95T1RocTVXWF9ibHZGTExIczZVM3gxVjcyQ2hrMUViQzM0elZvQWExaTlpX0Zwc214QlpoeFNkVjQ3U1lGTkU0ZTJ5cTN5aEZXYTdjekZaelNxNTNjVGRaXzRFZV8wYW4teEw0ZTh3XzQ3TVl2TmhXX2VKT3V2SWZITXNaVmRueVF5VFFDSW5XMHcyNHA5?oc=5)
+
+2026-04-13 <span class="news-indication-tag">tumor</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi4AFBVV95cUxObDFFY0lRR19ZbnF3dlhJYWJ3UXd6RkRoRGkzLVM1ZG5ybnVVdnVROXJrdjNOZXB3b0dLMVFoTVBGMXBUNXRyYm1McmRnVHhrQ2ZMTnRrS2lJblV3YUtTQXdYeXl1S1BFTU90aFZudlI3aEFqc2stVXh0bURhckVpZGg1Y252OFdXZFJpb1JLWnhYakFSS0F6aWFVRHVlYmlKUjZXbVBYVERMcVh2dG9OblZra0Z2ZnNEclRSRndJUjl6eW9LeEJwdXpWWTZ2UElpcVoxX2dXbk5hcGhxQ0l0T9IB9AFBVV95cUxQYWh0UzhQX0lxTkVkX1JBSUNZQVFYUGUtTnZLVTl0aVJYaEREcFRqN0hEbmxKcjgzTHQyakVUUnFiYXhneHA1cjNsTngwNmdBdXlqUFliVXVGYUJUMmlrLWlMd2FISW95T1RocTVXWF9ibHZGTExIczZVM3gxVjcyQ2hrMUViQzM0elZvQWExaTlpX0Zwc214QlpoeFNkVjQ3U1lGTkU0ZTJ5cTN5aEZXYTdjekZaelNxNTNjVGRaXzRFZV8wYW4teEw0ZTh3XzQ3TVl2TmhXX2VKT3V2SWZITXNaVmRueVF5VFFDSW5XMHcyNHA5?oc=5)
+
+---
+
+### [¿Cómo lograr una terapia inmune efectiva para tumores sólidos? - La Vanguardia](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzJNM05WNmRTWGdMdnJlWEhFOVZoS0tRNUd0ejJEWkpIb3pEaGhLZlUtdlR4VlBFV1RrM3pCdmRER2tjRzJhcWdkZTJEUnp2S1hFaXBRN3hweGFhY3lBVzUzMk9pRkRhN01HTGJkaVVZbHNud29KWENYMkd2OXpta3FmdGhxX2oxN2tUb3RXX3c1V0J4ZEJkZFBtX1pZLTdZRXQySjctalZQX2hIUWxwbtIBtgFBVV95cUxNcy04ckJwaW5ZTS01dk9xaTVjZ2FPblUxY2lqZEw4Z2lsWS15YlcwY1NCOUR0a0RQT3hyVEhLMFM0Z3ktTERVQkE1SWFiXy1lMlpqVm4wdWphck1jTTExWFY3dHRZTzdsTUl4VkZSV1UxMzl1eXBmZC1qa3VJREhLaWpLM1N2cE5Ed29tdXBIU01nbGhUV3hnM0Y1M3pwUmRFRkhiRmpENk5vZlVLYkNHZEhxNzNtUQ?oc=5)
+
+2026-04-13 <span class="news-indication-tag">tumor</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzJNM05WNmRTWGdMdnJlWEhFOVZoS0tRNUd0ejJEWkpIb3pEaGhLZlUtdlR4VlBFV1RrM3pCdmRER2tjRzJhcWdkZTJEUnp2S1hFaXBRN3hweGFhY3lBVzUzMk9pRkRhN01HTGJkaVVZbHNud29KWENYMkd2OXpta3FmdGhxX2oxN2tUb3RXX3c1V0J4ZEJkZFBtX1pZLTdZRXQySjctalZQX2hIUWxwbtIBtgFBVV95cUxNcy04ckJwaW5ZTS01dk9xaTVjZ2FPblUxY2lqZEw4Z2lsWS15YlcwY1NCOUR0a0RQT3hyVEhLMFM0Z3ktTERVQkE1SWFiXy1lMlpqVm4wdWphck1jTTExWFY3dHRZTzdsTUl4VkZSV1UxMzl1eXBmZC1qa3VJREhLaWpLM1N2cE5Ed29tdXBIU01nbGhUV3hnM0Y1M3pwUmRFRkhiRmpENk5vZlVLYkNHZEhxNzNtUQ?oc=5)
+
+---
+
+### [Vorteile für risikobasiertes Brustkrebs-Screening? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
+
+2026-04-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
+
+---
+
+### [Forschende entdecken brisante Darmkrebs-Spur: „Anzeichen, dass sich etwas anderes im Darm verändert“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3ROdDBJV0lvTFVkS1dKSFM1ZGlHclN0ZUZXanJsZUxzeEd5T2VybmNGdkRnMWhiVmlsR2w5VWdnb2FjWHVNM1Q1dG4zZC1FRGJJaFlLbWxOcFJTUDZPQWtmZWk5Z096dWVMcW9rMzlsMmF1elF6YnZhV0VXZHdIVGs5T3dkckctOXFNczAxQnpnRVZVb3dKdG9ENjRIaS1SUmw4RnNNblJmbmEy?oc=5)
+
+2026-04-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3ROdDBJV0lvTFVkS1dKSFM1ZGlHclN0ZUZXanJsZUxzeEd5T2VybmNGdkRnMWhiVmlsR2w5VWdnb2FjWHVNM1Q1dG4zZC1FRGJJaFlLbWxOcFJTUDZPQWtmZWk5Z096dWVMcW9rMzlsMmF1elF6YnZhV0VXZHdIVGs5T3dkckctOXFNczAxQnpnRVZVb3dKdG9ENjRIaS1SUmw4RnNNblJmbmEy?oc=5)
+
+---
 
 ### [CRIS Contra el Cáncer destina 15 millones a investigación](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZnFjRXJ0akZsSUtzUGNfSjlQNVJWYm9PYy1WOWM5cXA3el91ZUlQOFFIOUlEZTB5VXFBb3VyNWx1TjJMUmdUUmZfRUlxcldRZlZ0OWs2RFVHZlQ0aGxPNU1MbmtpTFVndjRkY3ZIM01QaTZ1VzVnMmdUcEY2SXFGZU4wdG4xeF90T0V5dlF1NmwyUktZVDJpWDNrOW92TnVHYWdwaXdwZDNRdW9ZMW0yMlowa1JtREVFYTJCSmppMWd4MG5tOGRQZTBOekE4SlpGYkc4MjBpajZPYmpHS2tSZ05yNXlXNE5n?oc=5)
 
 2026-04-12 <span class="news-indication-tag">cancer</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZnFjRXJ0akZsSUtzUGNfSjlQNVJWYm9PYy1WOWM5cXA3el91ZUlQOFFIOUlEZTB5VXFBb3VyNWx1TjJMUmdUUmZfRUlxcldRZlZ0OWs2RFVHZlQ0aGxPNU1MbmtpTFVndjRkY3ZIM01QaTZ1VzVnMmdUcEY2SXFGZU4wdG4xeF90T0V5dlF1NmwyUktZVDJpWDNrOW92TnVHYWdwaXdwZDNRdW9ZMW0yMlowa1JtREVFYTJCSmppMWd4MG5tOGRQZTBOekE4SlpGYkc4MjBpajZPYmpHS2tSZ05yNXlXNE5n?oc=5)
+
+---
+
+### [Madrid destina casi 3 millones a vacunas infantiles contra sarampión, hepatitis B y varicela - El Diario de Madrid](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHhmRHFEdHlJUGlYTmJVQkxiZzI4bmRMTW4xSDkyZUZab1g2VG9UUW5VUEw0ancyTlBPSUxra0Y2UzBGdFZtZDFhTU9MTEJGcmpab0FlaVVkSVh2dTFVY0FnNnhVZG9QSWUtMEladlRsWEZVY3ZoN3BjQnl5cVU5SXhKbzRFdWdIaXRRTHJEZm8zUnlZNE5KRlNSYzdUb0pUZjZKNU45VlRUbFZTRGNBQWVYY1pEMkt5c040TDZTdXc0X3U0dmdTemwzY1pkaXBQZXhZZ3ppenh0NVJIYjhzNjJIck1ET1pXYk1j0gHwAUFVX3lxTE9XamFXNGRCYThlTnN3Rl9LWGstekYybUo4eTYtWV8tNUJQTGJ0S0toVmkxTlNYX01JN0ZOVWR2em9jb3JOVk5CNDY0aFRUS2JOMUxBa0F5ZXlUOTdXWDRhd0JMZmFxbVI3TVg2S3BKRFA3bWpyOFpxT3ZZbEdLMXhxNWZqNXlPcFQ5Slh4elVrS0k3THV6cUQ1cnJ0T1R0R21uQkNWZDdPWXhLbGY1eHRibDY0SjBHTWc3Zkc2VnoxU3dkYWhrcGpMSFlQVXJMcWNtY09KYUt0SGRGZ195N2kxdVRHekgwTFNKM3dGWFBqRg?oc=5)
+
+2026-04-12 <span class="news-indication-tag">hepatitis</span>
+
+來源：[El Diario de Madrid](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHhmRHFEdHlJUGlYTmJVQkxiZzI4bmRMTW4xSDkyZUZab1g2VG9UUW5VUEw0ancyTlBPSUxra0Y2UzBGdFZtZDFhTU9MTEJGcmpab0FlaVVkSVh2dTFVY0FnNnhVZG9QSWUtMEladlRsWEZVY3ZoN3BjQnl5cVU5SXhKbzRFdWdIaXRRTHJEZm8zUnlZNE5KRlNSYzdUb0pUZjZKNU45VlRUbFZTRGNBQWVYY1pEMkt5c040TDZTdXc0X3U0dmdTemwzY1pkaXBQZXhZZ3ppenh0NVJIYjhzNjJIck1ET1pXYk1j0gHwAUFVX3lxTE9XamFXNGRCYThlTnN3Rl9LWGstekYybUo4eTYtWV8tNUJQTGJ0S0toVmkxTlNYX01JN0ZOVWR2em9jb3JOVk5CNDY0aFRUS2JOMUxBa0F5ZXlUOTdXWDRhd0JMZmFxbVI3TVg2S3BKRFA3bWpyOFpxT3ZZbEdLMXhxNWZqNXlPcFQ5Slh4elVrS0k3THV6cUQ1cnJ0T1R0R21uQkNWZDdPWXhLbGY1eHRibDY0SjBHTWc3Zkc2VnoxU3dkYWhrcGpMSFlQVXJMcWNtY09KYUt0SGRGZ195N2kxdVRHekgwTFNKM3dGWFBqRg?oc=5)
 
 ---
 
@@ -84,14 +148,6 @@ permalink: /news/deferasirox/
 
 ---
 
-### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcF9CaGRIdk9Kc0pUMXN5VUNoQmUtV1YyTWdFb2VPV2lBUU0yaTJoNHRBUWFoYWhQTkY4TWU3NkF2OU5TM3NOOG4wX3JUOGFNQWdETlE3ajZ5cm5mZUJoVC05cWd1eWtWY25aRjlMSFQ5Z2ZKY3ZTcjdVbmF5NVBiejRVVjBwZ2R5TFJmQnJRYzVobEFJTTZkREw0UEo4OTJpMUhMTVYyTi1OVjFEVUV0MEYxOElYX2FLOG5uRTVDVFNncTh0Ukd3NTRGZ2t5ejlfWGFhOUdWTWVsM1lFNXJlVGZaNlllYXhOWnN0SnVTRXFTUXhLWDIweDhrMTM0NklPMUZfVmlHSzRFcmc?oc=5)
-
-2026-04-12 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcF9CaGRIdk9Kc0pUMXN5VUNoQmUtV1YyTWdFb2VPV2lBUU0yaTJoNHRBUWFoYWhQTkY4TWU3NkF2OU5TM3NOOG4wX3JUOGFNQWdETlE3ajZ5cm5mZUJoVC05cWd1eWtWY25aRjlMSFQ5Z2ZKY3ZTcjdVbmF5NVBiejRVVjBwZ2R5TFJmQnJRYzVobEFJTTZkREw0UEo4OTJpMUhMTVYyTi1OVjFEVUV0MEYxOElYX2FLOG5uRTVDVFNncTh0Ukd3NTRGZ2t5ejlfWGFhOUdWTWVsM1lFNXJlVGZaNlllYXhOWnN0SnVTRXFTUXhLWDIweDhrMTM0NklPMUZfVmlHSzRFcmc?oc=5)
-
----
-
 ### [Cumbria tumour book highlights human side of medicine, GP says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE82RUhWTDFFWUlwek1tVFp6Wkg3dVZ6THdhcElwNWN3ZzVTQVk4bEFsWGZEYmRLYjg4UFdlTjRVd3psRlQ4TFpBbWpOVEtYYWk5NWg4RDZsTVVrMjY4?oc=5)
 
 2026-04-12 <span class="news-indication-tag">tumour</span>
@@ -105,14 +161,6 @@ permalink: /news/deferasirox/
 2026-04-12 <span class="news-indication-tag">cancro</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnNycFUxMEhXbXJ3NVJtN2NNZ0N6UWxhOTZlN2xUT1drWUMzelB3c3p2V1FRVlEtTXpoMjdJcS1reldUSWpkSm84MThab0xPSjdrUmxrVU5lQkhSSkhDYXg1NzA3Q2RTbnU4TE1KeG5YZFRoV2xZdy1HaDZpMVRQY2cxRHV6Q1dDWUNzc2J0TnQxRVZ5VGNEVll3aWZkOWNPSEo5U0ZrXzBJd1piQmVOX0lvTHpMWU45dUFEcWJUejFBUHpiZ1BOeEx4cldBTEFIUFpPWTcyZ3Jzb1U?oc=5)
-
----
-
-### ['I was told I have terminal breast cancer after having baby but still feel lucky' - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQREd5R3VwRjV1cURFZjNzUVczN1p4X2t1dlFUYTFXejhUT2pHcmJxTkhIWTg5Z0NSbGpEZ2pxa1hHc05lY083Z3NzazlLeHR5a2NWeUFCdWZINVB5aEprYVUtMnpZb2lXS3RfYmx0ZzlwajZ5My1CZ05zSDNtclFJUXVB0gGHAUFVX3lxTE5veURuMmFjX3VpS3hZbUpmbV9SeXowTGxJR05lYnpUU3V5eFVXbnV1OXVLaUdaQXViR1JDaG1YQjkxU0dxcHd6VGVnUmZoZHRpdmRnTXB5WEhmNjFwV2FWbGpFd0cwc0dCbXdULUhXRUxsMmZwZ0VnUFlFQzE4bEZjTmN5b2xjWQ?oc=5)
-
-2026-04-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQREd5R3VwRjV1cURFZjNzUVczN1p4X2t1dlFUYTFXejhUT2pHcmJxTkhIWTg5Z0NSbGpEZ2pxa1hHc05lY083Z3NzazlLeHR5a2NWeUFCdWZINVB5aEprYVUtMnpZb2lXS3RfYmx0ZzlwajZ5My1CZ05zSDNtclFJUXVB0gGHAUFVX3lxTE5veURuMmFjX3VpS3hZbUpmbV9SeXowTGxJR05lYnpUU3V5eFVXbnV1OXVLaUdaQXViR1JDaG1YQjkxU0dxcHd6VGVnUmZoZHRpdmRnTXB5WEhmNjFwV2FWbGpFd0cwc0dCbXdULUhXRUxsMmZwZ0VnUFlFQzE4bEZjTmN5b2xjWQ?oc=5)
 
 ---
 
@@ -156,19 +204,11 @@ permalink: /news/deferasirox/
 
 ---
 
-### [Greenock woman found out she had cancer after ignoring screenings for 20 years - Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
+### [Bewusst Gesund - Das Magazin | ORF 2 | 10.04.2026 | TV-Programm](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VdEc2TW1TZkJ6LUxOZk5sOTBsZm1HcG1DWkVaa3hEYVdJRDRuS3NTeEFMbjhSelVDaWU3MEVDNVVMUEVmQ1VCM0hMSDVPMmkxWFRqSlBIVQ?oc=5)
 
-2026-04-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-11 <span class="news-indication-tag">Krebs</span>
 
-來源：[Greenock Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3BRREVkbWRQR0lpSUJnQVNSRV9pRFByRWg3UDZQbnpCZnJYZWRfX1NvYllXM0Q5cm5TVzVxQzh3SHRuNFVXYUQ5WlB2LWtDTFVob1Z0NnUzRmV3cFpFaUdvdUU0eHhTX0ZqaWU2TUFPR1c0ck1NMmlWU2h0WUk1OWYwdjQyNDh5OEs1Z1c2YUVYTTIwSmpkamtMQlFWWnNEOVV4alNORkt6Zw?oc=5)
-
----
-
-### [Il batterio mangia-tumori che li divora dall'interno: cosa dice un nuovo studio belga - Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RzcU5rZ2VrNVZ3b2JoUWxWY2xLN0EtWVV5REN0TFRUM25WYXh0NVI0NVpvUlBja0VkMkpyUzc0VUhVcWh6bW5NMmFDeFZsT3JIYTRVZnI2T3QxazFFaC15OC0zRjdBc1BmSFJ4N1M0TTVwcTU1emc2bTZWYkhLdG1xaFlDV0I4NGhDNGhIVVJCd0ZWS2t5cjFTcms4WEZXNUJ3YmRzV0FBUdIBpAFBVV95cUxPU21uQmJaZXNHREhpZFlvWURMekhYZ2VWaC05eGE1NXJBSm5UWTVhQUNaWk05QVFuTm9kYUtFZzhkcDhGYk9GSnZZRnRERmI5dE1yNTlCU0YwbFZ4SVNCbUFKZ1VFcklFUUl5TUlGbW1IOWFVbDR6VkVhRGVHZ3QwdlZiVlJaRjgtUHNnLVA5VmVWak9QbTdEVjFqd2NxOVd4NEswNA?oc=5)
-
-2026-04-10 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RzcU5rZ2VrNVZ3b2JoUWxWY2xLN0EtWVV5REN0TFRUM25WYXh0NVI0NVpvUlBja0VkMkpyUzc0VUhVcWh6bW5NMmFDeFZsT3JIYTRVZnI2T3QxazFFaC15OC0zRjdBc1BmSFJ4N1M0TTVwcTU1emc2bTZWYkhLdG1xaFlDV0I4NGhDNGhIVVJCd0ZWS2t5cjFTcms4WEZXNUJ3YmRzV0FBUdIBpAFBVV95cUxPU21uQmJaZXNHREhpZFlvWURMekhYZ2VWaC05eGE1NXJBSm5UWTVhQUNaWk05QVFuTm9kYUtFZzhkcDhGYk9GSnZZRnRERmI5dE1yNTlCU0YwbFZ4SVNCbUFKZ1VFcklFUUl5TUlGbW1IOWFVbDR6VkVhRGVHZ3QwdlZiVlJaRjgtUHNnLVA5VmVWak9QbTdEVjFqd2NxOVd4NEswNA?oc=5)
+來源：[tv-media.at](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VdEc2TW1TZkJ6LUxOZk5sOTBsZm1HcG1DWkVaa3hEYVdJRDRuS3NTeEFMbjhSelVDaWU3MEVDNVVMUEVmQ1VCM0hMSDVPMmkxWFRqSlBIVQ?oc=5)
 
 ---
 
@@ -177,14 +217,6 @@ permalink: /news/deferasirox/
 2026-04-09 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWZ0SVNFYkFhUHA3cXpCcmRCWVdSLTdmaDBSZVBoenY4VUhYYzQyTkhpZWdBM21UWGhWUnNxd0FuYUhKTFdPTWEtcnRic21mdVJ6MVBKem8wcUR2VFRnTG5MTXRYYnJHVlRnQWZnVXdIUmxULVRaNHpDZHozZXJtQi1jbVlQeG9uOVJKQWlYMEFPd0NZb3RkcHBB?oc=5)
-
----
-
-### [L'alcol rende felici? E perché lo beviamo? Gli effetti (catastrofici) della sostanza nel cervello e nel corpo umano - Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXRMTzVkNUdkaWlUSHowMnhtSnVoaklFRnJLaUk4d3I1eHc1QjRVaHJ0WnEtTE1jMEpOOGkzUFBhNTBrcEVhRDRnZ0hrSnRfRDl6NWtiV1RrY05OMFktbTg0VEQ1UVBiWGYtMjhFN0loX2pFakVLcC1TZVQyY0dxVzAzQ1FnekJhaFpiaE1fZlhxVXlIUG5DXzR4c2VuS2xCQ2JqVDlaZEZSbWPSAaABQVVfeXFMT2RnWkxWT0pSVzE2MGNaZ0RYZ3V2ektNanFCTFREZktvbDhVRVZxS0JYdWc4QVRYRUNfQkQ4TV9QVEJoQTcxbGNXSmpYWHhHZ3VvYWowVV9qVE4tWTdfakU2SmlCR2EtZmJDT0FiT0ZkME9JVUhyU3BVTkdTenBqQjl6NmN4VUg2N3d1Y3V2bmZZM3RoZWY1V042T0lTdl9nSg?oc=5)
-
-2026-04-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXRMTzVkNUdkaWlUSHowMnhtSnVoaklFRnJLaUk4d3I1eHc1QjRVaHJ0WnEtTE1jMEpOOGkzUFBhNTBrcEVhRDRnZ0hrSnRfRDl6NWtiV1RrY05OMFktbTg0VEQ1UVBiWGYtMjhFN0loX2pFakVLcC1TZVQyY0dxVzAzQ1FnekJhaFpiaE1fZlhxVXlIUG5DXzR4c2VuS2xCQ2JqVDlaZEZSbWPSAaABQVVfeXFMT2RnWkxWT0pSVzE2MGNaZ0RYZ3V2ektNanFCTFREZktvbDhVRVZxS0JYdWc4QVRYRUNfQkQ4TV9QVEJoQTcxbGNXSmpYWHhHZ3VvYWowVV9qVE4tWTdfakU2SmlCR2EtZmJDT0FiT0ZkME9JVUhyU3BVTkdTenBqQjl6NmN4VUg2N3d1Y3V2bmZZM3RoZWY1V042T0lTdl9nSg?oc=5)
 
 ---
 

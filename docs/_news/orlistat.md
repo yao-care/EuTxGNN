@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Un consenso apuesta por incluir la salud laboral como refuerzo estratégico frente a la obesidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkJ1U1RlS1FGd2ZKbDBHMjM4dzJMQlE4YUk1Y0dZbFlfSTk4TkZMTUYteGh1YUtIMmNYMzJlLXRQal9tcGx2VVJ5MVJjYXplejltdnMxMkVKWS1DMlN6WlE4VDYyaXA0M2VQelVZNnNnajlDR3RYVUxoNXNnT3RWQnZJWnFJTjJBUnZGZDA3U21QbjcxbkM0ZWJNUmNkLXpFNWRxV3V2OUR1TkNWRmcxTkxfaU5jbUZ5YnhYWEl3?oc=5)
-
-2026-04-12 <span class="news-indication-tag">obesidad</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkJ1U1RlS1FGd2ZKbDBHMjM4dzJMQlE4YUk1Y0dZbFlfSTk4TkZMTUYteGh1YUtIMmNYMzJlLXRQal9tcGx2VVJ5MVJjYXplejltdnMxMkVKWS1DMlN6WlE4VDYyaXA0M2VQelVZNnNnajlDR3RYVUxoNXNnT3RWQnZJWnFJTjJBUnZGZDA3U21QbjcxbkM0ZWJNUmNkLXpFNWRxV3V2OUR1TkNWRmcxTkxfaU5jbUZ5YnhYWEl3?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [El ADN ayuda a determinar el éxito de los fármacos para perder peso, según un estudio - Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
 
 2026-04-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
-
----
-
-### [La dieta de la madre durante la lactancia podría ser clave para la salud futura de su bebé - The Conversation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkNiMVZISzQ5NV9nalpPcWlYZVNMQkhjYm9iMVdTTnN2cWYtSEZKTWE3WXBaZXhLZ1k4UlhqRkw0aWRHOU9pRWpyMDItd0xNWWlDUmpwRWhKT01ZTF9OMjB0WlphckFjdXVVTllZWGllMnlIeEJ0U1lVSFpFTl9KVnd5cTNHXzJycWtlNDI2NnRUaDVISURucUMxV3k1bUlQY1RsRTFGM0NvM1RGaXBtcE5hVnQ5UlBEV1BZYW9RQ3lsZG8?oc=5)
-
-2026-04-12 <span class="news-indication-tag">obesidad</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkNiMVZISzQ5NV9nalpPcWlYZVNMQkhjYm9iMVdTTnN2cWYtSEZKTWE3WXBaZXhLZ1k4UlhqRkw0aWRHOU9pRWpyMDItd0xNWWlDUmpwRWhKT01ZTF9OMjB0WlphckFjdXVVTllZWGllMnlIeEJ0U1lVSFpFTl9KVnd5cTNHXzJycWtlNDI2NnRUaDVISURucUMxV3k1bUlQY1RsRTFGM0NvM1RGaXBtcE5hVnQ5UlBEV1BZYW9RQ3lsZG8?oc=5)
 
 ---
 
@@ -81,30 +65,6 @@ permalink: /news/orlistat/
 2026-04-12 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
-
----
-
-### [Un nuevo estudio reveló que una combinación simple de frutas podría mejorar la salud cardíaca en pocas semanas](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc1NGbzFlVFJlTUJ4QXpRY29tazdnY1dMbVcwaGhFd2cyUkYxcDltTUhiaEhIVTNCQTlOekJjZUVjd3BsXzlvNEdtNmtLZTJNSlVDbE56OVdKNDFuNjBrVFBhYzVuU2hpSFlWazdBZHVRS0lpOU91R085YUFkaFlDcGp0Q3ZrWnJ3WS1ZLVkycEthcmg2NG42ZFVTV1RVU1UtQzJiNzJIaTZOZmphbnNHMi02dGNQRnJzaUJ5em9Kakx2V0h6bHFtcDREdXZoQXhFNEo2cWRmcDVxYTA5elllRVcyNDJWQmvSAYICQVVfeXFMTWZjeVo1RG1LVk1xVlp4eHRramNIeTFTZElRMnBJMUl5NEpUWG4xMU5GcnZHTVdyMGxJSkZONFMtc0czMzJGM0RXV1pSUWkwaWFvMVlqSzlQeG51ckRhWWdmVGcwVWExaTRmekxQalo2MGUxek1iWXotb0xZd3B0bjdEOTcwck9vUXhoVExrbUxYRVprV1oySVFJa2s1eHJDOWZjRHN3RlFkdHprTXo4T2lKVjBVYnBqT1FjcjdlTGl0a0UwY21ZTzBzcTFjNU1YN1hLZjB5ellhU0YxZ3oySFNVazhrWUhWTUtsaVNTTklTUDVmdGNhUkhiVlVuS1pyZzhR?oc=5)
-
-2026-04-11 <span class="news-indication-tag">ictus</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc1NGbzFlVFJlTUJ4QXpRY29tazdnY1dMbVcwaGhFd2cyUkYxcDltTUhiaEhIVTNCQTlOekJjZUVjd3BsXzlvNEdtNmtLZTJNSlVDbE56OVdKNDFuNjBrVFBhYzVuU2hpSFlWazdBZHVRS0lpOU91R085YUFkaFlDcGp0Q3ZrWnJ3WS1ZLVkycEthcmg2NG42ZFVTV1RVU1UtQzJiNzJIaTZOZmphbnNHMi02dGNQRnJzaUJ5em9Kakx2V0h6bHFtcDREdXZoQXhFNEo2cWRmcDVxYTA5elllRVcyNDJWQmvSAYICQVVfeXFMTWZjeVo1RG1LVk1xVlp4eHRramNIeTFTZElRMnBJMUl5NEpUWG4xMU5GcnZHTVdyMGxJSkZONFMtc0czMzJGM0RXV1pSUWkwaWFvMVlqSzlQeG51ckRhWWdmVGcwVWExaTRmekxQalo2MGUxek1iWXotb0xZd3B0bjdEOTcwck9vUXhoVExrbUxYRVprV1oySVFJa2s1eHJDOWZjRHN3RlFkdHprTXo4T2lKVjBVYnBqT1FjcjdlTGl0a0UwY21ZTzBzcTFjNU1YN1hLZjB5ellhU0YxZ3oySFNVazhrWUhWTUtsaVNTTklTUDVmdGNhUkhiVlVuS1pyZzhR?oc=5)
-
----
-
-### [Infarto e ictus, il ruolo del vaccino antinfluenzale - Libero Quotidiano](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjN2M1Z1WUU5cndkUnI1TWhjbmtVWFpQVVlsSjVOMFozakxZbGNNMHdlcFBEblJRcWxlRmtmUk9JMnMwSFJPYUxNSmF3bHczMkdIWC0tbVBGSEJzRlpYSG8yeGsxb25xaEU0c3JTUS1RbDZLa0tjOUlzYU9oRk9BVWRLM2JhUGVfNEZxM2RtVGF5cjZZQU51ODhjYzBZdU9CMTFBeFhxNUJhNWRJMGc?oc=5)
-
-2026-04-11 <span class="news-indication-tag">ictus</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjN2M1Z1WUU5cndkUnI1TWhjbmtVWFpQVVlsSjVOMFozakxZbGNNMHdlcFBEblJRcWxlRmtmUk9JMnMwSFJPYUxNSmF3bHczMkdIWC0tbVBGSEJzRlpYSG8yeGsxb25xaEU0c3JTUS1RbDZLa0tjOUlzYU9oRk9BVWRLM2JhUGVfNEZxM2RtVGF5cjZZQU51ODhjYzBZdU9CMTFBeFhxNUJhNWRJMGc?oc=5)
-
----
-
-### [Diagnose Schlaganfall – wie einem Chemnitzer gerade noch rechtzeitig geholfen wurde - Freie Presse](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZDelVaVTYybXRnV1EzQm5BRVZQbDJLMzlyV2pfT1JFa21ZejdjZnB6NVNNN2dZUFdRRVVVc1o3TklzRFFQUzY0R1FjOWJwWnlBbWhUczlybmZFQ1VBZm50QXYzSmNYS3k5cjhIa1VwTno3T3BoTGpOcHlzN052M3JvLUpOOUI1VUJVNlZha3dQVDJhVEtRYU12eHY3MVdJQnVEbWkwZEFXaTJVVndwZ3M0S0pObW05MV96VHRqckk1c3p6YW9hdV9fQU5ld25WeEUxV1U2UVdHTWl2?oc=5)
-
-2026-04-11 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Freie Presse](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZDelVaVTYybXRnV1EzQm5BRVZQbDJLMzlyV2pfT1JFa21ZejdjZnB6NVNNN2dZUFdRRVVVc1o3TklzRFFQUzY0R1FjOWJwWnlBbWhUczlybmZFQ1VBZm50QXYzSmNYS3k5cjhIa1VwTno3T3BoTGpOcHlzN052M3JvLUpOOUI1VUJVNlZha3dQVDJhVEtRYU12eHY3MVdJQnVEbWkwZEFXaTJVVndwZ3M0S0pObW05MV96VHRqckk1c3p6YW9hdV9fQU5ld25WeEUxV1U2UVdHTWl2?oc=5)
 
 ---
 
