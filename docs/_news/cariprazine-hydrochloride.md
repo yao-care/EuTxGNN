@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（5 則）
 
 ### [Menopause beschleunigt MS-Progression nicht - Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
-
----
-
-### [El eje intestino-cerebro: la conexión invisible que influye en tu mente y tu salud, según un estudio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOME83a001YnVSX0hlSEZGMXY1QzhCUE11NXZodHRsdUhucVRWaXI5THh6UlRXVWtjOEVGY3p3S3Y1YlNWRFVXZTdkdWs2TXpieWJmT3dISXpjT3lhVjhqZ1RGdFV0Tlg2bDRUdVdOOVNQNHRNQndnRmp5Z1FyeWhUTG5YamtobGxOTF9tZ3FMZFVmdEk3WnI0alVkOWxJVTVtT0NKNi1BaUNCajZJbVFUZHhBUFBiZ0R2Z09GTlVaeWpQcU84YWZya9IByAFBVV95cUxPQVpBS19KNzlOS0F2YTh2d1ZxZFdoNklyWDRNd1hkQmZWbW1UMC1NbW43cmx4TWk4Z2FFQmo5WXN1TXh3YjVqMU13Ujdtb2hWVk12QTI0T25NQ1ZTZC11d1U0dHY1bU9jOGFJdzdNcmd6bXdwVEF3NWpfUlpZR0VYSFplM3JmRnFYVW1HamUwUm0xamZPSnBXa0YyeGVnZkliZ3o5VG5BOFJRVUhCa2ZCQks5Ny13UnNrOVVSbjd3dXNVcUpmRVJaZQ?oc=5)
-
-2026-04-13 <span class="news-indication-tag">MS</span>
-
-來源：[MARCA](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOME83a001YnVSX0hlSEZGMXY1QzhCUE11NXZodHRsdUhucVRWaXI5THh6UlRXVWtjOEVGY3p3S3Y1YlNWRFVXZTdkdWs2TXpieWJmT3dISXpjT3lhVjhqZ1RGdFV0Tlg2bDRUdVdOOVNQNHRNQndnRmp5Z1FyeWhUTG5YamtobGxOTF9tZ3FMZFVmdEk3WnI0alVkOWxJVTVtT0NKNi1BaUNCajZJbVFUZHhBUFBiZ0R2Z09GTlVaeWpQcU84YWZya9IByAFBVV95cUxPQVpBS19KNzlOS0F2YTh2d1ZxZFdoNklyWDRNd1hkQmZWbW1UMC1NbW43cmx4TWk4Z2FFQmo5WXN1TXh3YjVqMU13Ujdtb2hWVk12QTI0T25NQ1ZTZC11d1U0dHY1bU9jOGFJdzdNcmd6bXdwVEF3NWpfUlpZR0VYSFplM3JmRnFYVW1HamUwUm0xamZPSnBXa0YyeGVnZkliZ3o5VG5BOFJRVUhCa2ZCQks5Ny13UnNrOVVSbjd3dXNVcUpmRVJaZQ?oc=5)
 
 ---
 
@@ -76,22 +68,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Un nuevo hallazgo señala que esclerosis múltiple podría estar dañando el ADN de las neuronas del pensamiento](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTTlxcnBXZDlYMW95Wi03VndzM1F4eVJqa0hSRzRCWUdWYXhJa3ZDNHJjZnZDR3dHSzlFVmhiN1lPYnM0c1N0QWFCU1BfaWRHN2N1OGU2Sl85empQTHh4ektqS3JNbmU0d2p6U2xJd3RzYUl1b0FLSm94LVBLd0ZEM3BiOEs1VEhDY3B4SXFDT3pCN05XZkg5RUxxb3B6enpPVGFZQ3NRRF8yblJ0b0lLT0FkakROaE1YQlZOWHZNZHU5bnpORFNmZDlaS0JqNVN3V2NUX1Zuazl6TUsxeEhfTGxZdmZjN3ZlaUxaSF9qc0NHUjg?oc=5)
-
-2026-04-13 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTTlxcnBXZDlYMW95Wi03VndzM1F4eVJqa0hSRzRCWUdWYXhJa3ZDNHJjZnZDR3dHSzlFVmhiN1lPYnM0c1N0QWFCU1BfaWRHN2N1OGU2Sl85empQTHh4ektqS3JNbmU0d2p6U2xJd3RzYUl1b0FLSm94LVBLd0ZEM3BiOEs1VEhDY3B4SXFDT3pCN05XZkg5RUxxb3B6enpPVGFZQ3NRRF8yblJ0b0lLT0FkakROaE1YQlZOWHZNZHU5bnpORFNmZDlaS0JqNVN3V2NUX1Zuazl6TUsxeEhfTGxZdmZjN3ZlaUxaSF9qc0NHUjg?oc=5)
-
----
-
-### [Taking Too Much Vitamin D Can Backfire, Scientists Warn](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR000Z3NHSzRpd3l3d3RTaFg4TUlnQ2lWRnBraTF4QlV6V3M4VVY1UVRKWXFpbG5YOVZIN25wa0dFLWdmZVNITTR6Z2Y5Q2VzazNjd0dYOHRRS3hncGxGak1PZUdIR0xfc2JJUjQtSW94RzZiNWVHMFNZUHJlWW1iU0NtOU0zX3k4NFNR?oc=5)
-
-2026-04-13 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR000Z3NHSzRpd3l3d3RTaFg4TUlnQ2lWRnBraTF4QlV6V3M4VVY1UVRKWXFpbG5YOVZIN25wa0dFLWdmZVNITTR6Z2Y5Q2VzazNjd0dYOHRRS3hncGxGak1PZUdIR0xfc2JJUjQtSW94RzZiNWVHMFNZUHJlWW1iU0NtOU0zX3k4NFNR?oc=5)
-
----
-
 ### [Tatuajes, toxinas y sistema inmunitario: qué conviene tener en cuenta antes de tatuarnos - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
 
 2026-04-12 <span class="news-indication-tag">MS</span>
@@ -105,14 +81,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-04-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEx2U1p0SWUyRVJfdENqVUpjdEg4UngyTUhSME1GY0dheUdDZ0tlWTUwRDh0UDhYOXhLT25ER3ZZYW1Tb2REaUg3aXM2Z2Nta2s1UlN6WDVkXzNIbjBhZWdOVjNkVWU1MHFQRDRJRzkwX3RHUzJrYVhueVc0MkhxY3p1Vy05aXNNYWFXd1pFOUVPNzZGYWN6ZFlfMjk1bks5SUc3aVNOYllhLVJFb3pjakZ6S3p3OENFbWFKV1lGbERXUmdZX19oTWJjZ1VaSHNsOEdYNmNQYw?oc=5)
-
----
-
-### ["Ça m'a forcée à me poser" : atteinte de la maladie de Parkinson, Amandyne, 39 ans, "n'a plus de temps à perdre"](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
-
-2026-04-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
 
 ---
 

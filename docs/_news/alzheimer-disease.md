@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Is it true that … having a diverse microbiome stops you from getting sick? - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkVLRVMtN3RSUnpWeGREc0o1TXVtMHNoYVpGUTI5QnYyak9pcGFXdGtkTjhIWTVGNUVqN1hIZlZIbnhJazRBRXk1Zl9POXJpdm12c01HZEpWS0EtaVFyTll6Y2RZeVdkV3JiQVQ3QjMtMGx3cVIwYWhfYzRUNzhuVHNfY2dJUWxpYVlmUDFjMGVHLURiWHZ5eXNMUGdxVzUtLW16ZmpLVjllclNsYnp5OXFwTnRxbkJtS2ZoNHRjZkI0UQ?oc=5)
 
 2026-04-13
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkVLRVMtN3RSUnpWeGREc0o1TXVtMHNoYVpGUTI5QnYyak9pcGFXdGtkTjhIWTVGNUVqN1hIZlZIbnhJazRBRXk1Zl9POXJpdm12c01HZEpWS0EtaVFyTll6Y2RZeVdkV3JiQVQ3QjMtMGx3cVIwYWhfYzRUNzhuVHNfY2dJUWxpYVlmUDFjMGVHLURiWHZ5eXNMUGdxVzUtLW16ZmpLVjllclNsYnp5OXFwTnRxbkJtS2ZoNHRjZkI0UQ?oc=5)
+
+---
+
+### [Healthy Plant-Based Eating Lowers Dementia Risk - Neuroscience News](https://news.google.com/rss/articles/CBMibkFVX3lxTE9UcXo5UE1kSkhjbE5JMExmdTV1U01ONmpxVkFJTlhaVDdxN0RmVFIyYkZKVjVoUW9rOGNKTDVrS2ZfTmhPcjlHcFFzVENsZGdwQ3hwenRDNFIxbnk1ODdVQk1seU5yWG5EWnl4MGNB?oc=5)
+
+2026-04-12
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMibkFVX3lxTE9UcXo5UE1kSkhjbE5JMExmdTV1U01ONmpxVkFJTlhaVDdxN0RmVFIyYkZKVjVoUW9rOGNKTDVrS2ZfTmhPcjlHcFFzVENsZGdwQ3hwenRDNFIxbnk1ODdVQk1seU5yWG5EWnl4MGNB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,23 +42,9 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Buscan voluntarios para un estudio de Parkinson en Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU0RLQ1JYbERRcHpaVE9GUHNnRlEwX2xjT0l4Vzg3aUVOMmdjaXVnVS12dHg3Ni1XOW4tSHBpY0hFdjc5YU1ycXR3bzBoQzVmczVxUXRsTVdBTV9HM1JkMFJzczAtSFBmZ2RpbkVRbWpJZGJCLUhOaHpENDZaMnhLRXkzQ091STUydGN5azB3MW1oY3FYSG8tV0xITDNMUjRmdENSMkgwODdIX1FKLXJPRk15VDBXVnRoSEU0eVBYUEhmQ090Yld4WnR4QlprR3ZfZjdzVTBkdDFVN0RobS1lZC1YaDkzdmlUWUVJTWpXZ0XSAfYBQVVfeXFMTjhYZHdycUlVVnJVTW9yQklkN29jczVqakt2a1VHd0tueTBLaTBKS3F0RnpKejl5S3gzdDZhRERLQlB4SlFlWFlLNlFERHNYMURCYng1OGlPQmhmUG1MQXh0eHgxZWVBRE9ZUmRET1pOekdQQ2h0MTZVVUpHd19maGgxT0JHejdVaFE2d3M5TDZSS0tvaWRzWEtNM1NobkdwXzY0eTZDSGUzVEx6LW10Mi1NVWFfUllUTHEzOWlIRUQ4SVlFSzFvbkl6RXpMR3I4bm9FRkZ1S0lzVEEyaTg3UWluYTBrd1QyUURNUkpyajF5cFZNdUxR?oc=5)
-
-2026-04-13 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Navarra.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU0RLQ1JYbERRcHpaVE9GUHNnRlEwX2xjT0l4Vzg3aUVOMmdjaXVnVS12dHg3Ni1XOW4tSHBpY0hFdjc5YU1ycXR3bzBoQzVmczVxUXRsTVdBTV9HM1JkMFJzczAtSFBmZ2RpbkVRbWpJZGJCLUhOaHpENDZaMnhLRXkzQ091STUydGN5azB3MW1oY3FYSG8tV0xITDNMUjRmdENSMkgwODdIX1FKLXJPRk15VDBXVnRoSEU0eVBYUEhmQ090Yld4WnR4QlprR3ZfZjdzVTBkdDFVN0RobS1lZC1YaDkzdmlUWUVJTWpXZ0XSAfYBQVVfeXFMTjhYZHdycUlVVnJVTW9yQklkN29jczVqakt2a1VHd0tueTBLaTBKS3F0RnpKejl5S3gzdDZhRERLQlB4SlFlWFlLNlFERHNYMURCYng1OGlPQmhmUG1MQXh0eHgxZWVBRE9ZUmRET1pOekdQQ2h0MTZVVUpHd19maGgxT0JHejdVaFE2d3M5TDZSS0tvaWRzWEtNM1NobkdwXzY0eTZDSGUzVEx6LW10Mi1NVWFfUllUTHEzOWlIRUQ4SVlFSzFvbkl6RXpMR3I4bm9FRkZ1S0lzVEEyaTg3UWluYTBrd1QyUURNUkpyajF5cFZNdUxR?oc=5)
-
----
-
-### ["Ça m'a forcée à me poser" : atteinte de la maladie de Parkinson, Amandyne, 39 ans, "n'a plus de temps à perdre"](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
-
-2026-04-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUNPSmlDMTNjd2drclJBa1VxZEJJTk1fOS1qdEwxTWE2Rk0wN0VXaFRsSDFmcGpTdzN1X1UtRmsxdDJaWkdxcG90dTRmaTJsNFd5Mms5c1JzbktobDUzUVZWNE01cFl4UkVPZG1PMVJsZDlTM1RSWHE0dmJId0t4WUxOWUlpYVZqWFhuU2hUQ0diZnA5V3lCUXBuRGlISUZKZHQycWY4NWtkTzlWczZIQS1fUmszeTJYYVRucjJaa1dMYzFXbXFGTkluTEdhVDVUTzYyRXpOcjVvYmJXazJLRU1yMl9LQk5ucG9ZelN2ZWdzTHY0VVE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

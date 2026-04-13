@@ -44,19 +44,27 @@ permalink: /news/cabotegravir/
 
 ## 相關新聞（5 則）
 
+### [Typ-1-Diabetes: Risikogene greifen direkt ins Gehirn ein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
+
+2026-04-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
+
+---
+
+### [PrEP Inyectable VIH España 2026: Eficacia y Financiación - Valencia News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSC1fTU9zdFg1LUNnd0wtVi0wRXU1V1JXelJKUmtpVjVWYUltdWFMRlFRRXdHcUpzYzRGa0JoMG5EZ0Z2Q1E1Zl8xa1RaN2otc2RKUHc4bG1SQ1F5TEtRMmZ2aUV3SjFMem9JcGpzaEhwTmdLbDJ4aGw3a0E5RndPNHFsU1lCMUZYU244RGtrbw?oc=5)
+
+2026-04-13 <span class="news-drug-tag">Cabotegravir</span>
+
+來源：[Valencia News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSC1fTU9zdFg1LUNnd0wtVi0wRXU1V1JXelJKUmtpVjVWYUltdWFMRlFRRXdHcUpzYzRGa0JoMG5EZ0Z2Q1E1Zl8xa1RaN2otc2RKUHc4bG1SQ1F5TEtRMmZ2aUV3SjFMem9JcGpzaEhwTmdLbDJ4aGw3a0E5RndPNHFsU1lCMUZYU244RGtrbw?oc=5)
+
+---
+
 ### [Weniger Zucker und Fett im Essen? – so einfach ist es nicht! - Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
 
 2026-04-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
-
----
-
-### [Llega a España la primera PrEP inyectable cada dos meses para el VIH financiada por el SNS](https://news.google.com/rss/articles/CBMizwFBVV95cUxNd1UwOF9zWWJyOGJRdzNLczdTbEVPQjRQVHBUNmx1MmJjS29NdDNLVlBLa0xZZExOYkp1SkVEaTdlU0dxNk9jLTdIbHUwRFhRRjc1c1U0VEQtRnhzZWhzMkFWSkpZNkFQSGc5TzhwLXVZVk4tazRhNTBFZ3R3TUtuWFpaUy0tQlhhdzlWTFhoclg5enlUa2NWVmhJUGZqTU9DOG9panNsN3NMem1ZcFRWTHBVT3JobWhHV0t0M3Zud1VJZjZuWkRGVzdtd2xxMFk?oc=5)
-
-2026-04-13 <span class="news-drug-tag">Cabotegravir</span>
-
-來源：[medicosypacientes.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxNd1UwOF9zWWJyOGJRdzNLczdTbEVPQjRQVHBUNmx1MmJjS29NdDNLVlBLa0xZZExOYkp1SkVEaTdlU0dxNk9jLTdIbHUwRFhRRjc1c1U0VEQtRnhzZWhzMkFWSkpZNkFQSGc5TzhwLXVZVk4tazRhNTBFZ3R3TUtuWFpaUy0tQlhhdzlWTFhoclg5enlUa2NWVmhJUGZqTU9DOG9panNsN3NMem1ZcFRWTHBVT3JobWhHV0t0M3Zud1VJZjZuWkRGVzdtd2xxMFk?oc=5)
 
 ---
 
@@ -73,14 +81,6 @@ permalink: /news/cabotegravir/
 2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
-
----
-
-### ["Il aide à prévenir le cancer colorectal" : selon un gastro-entérologue, voici le meilleur lait pour les microbiotes sensibles - Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
-
-2026-04-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
 
 ---
 

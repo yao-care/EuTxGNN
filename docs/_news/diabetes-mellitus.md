@@ -116,6 +116,14 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（3 則）
 
+### [Typ-1-Diabetes: Risikogene greifen direkt ins Gehirn ein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
+
+2026-04-13
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
+
+---
+
 ### [Weniger Zucker und Fett im Essen? – so einfach ist es nicht! - Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
 
 2026-04-13
@@ -129,14 +137,6 @@ permalink: /news/diabetes-mellitus/
 2026-04-12
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
-
----
-
-### ["Il aide à prévenir le cancer colorectal" : selon un gastro-entérologue, voici le meilleur lait pour les microbiotes sensibles - Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
-
-2026-04-11
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
 
 ---
 
