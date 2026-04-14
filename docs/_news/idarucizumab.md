@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Identifican una molécula natural que frena la artritis reumatoide en sus primeras fases - La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVEzbzVUa2g0WTJMLWdLSnNaRTdxaENrN3JnUllmSl90RmZPbWJ4TjBfcUxDVUU1UXRKWm0tX3Q5dXdqb3VlZlU2SHZTanA5OThlN3hvTVg5MHU4bzVudG1TOERYdG1fZ09BX0NpRDlWRW5BR3ZtMjFXYUdHbU5JMnFfWHgxT0hoM0tyWklpUkdidzZFR1lrNXc4ZlB2SXc2MUhWaE1lUTRzMzlKZmV0UE1lVnYyLVQwdGl4NVdQTEprZ1RIRXZSZFA3RVkxLW41dkZxZG9obTJ6QjFn0gHwAUFVX3lxTE9MU2Y0bGI4U0M2aGNDcmp2T0NDYW01MXdDOUdudXVOTlhvZktzOHFGc0wtNVp4M1dnazE2LXBxaDJaVHNZYThSRy1Cd3dRc0JQN1VCN1dqUlo3M2xjTWh4VHNqdENWM29COHdmWlBZSU5XRkZJT1RhdUltY0dhQWJ5b1dLemM2aVE0dzktOTRQUmRZbTZEU2JLTnF3d3BwWUtoemdaVXZhWVBBMkozNGtmY29xQjdqZW51QXl5aXliLTdvVERoQ190b2NJTlFVejZ4ZFd3ZXFSdVd2bWVxUXpJX2ZCZ05KX2hYTHZmN2d1Vg?oc=5)
 
 2026-04-13 <span class="news-indication-tag">artritis</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVEzbzVUa2g0WTJMLWdLSnNaRTdxaENrN3JnUllmSl90RmZPbWJ4TjBfcUxDVUU1UXRKWm0tX3Q5dXdqb3VlZlU2SHZTanA5OThlN3hvTVg5MHU4bzVudG1TOERYdG1fZ09BX0NpRDlWRW5BR3ZtMjFXYUdHbU5JMnFfWHgxT0hoM0tyWklpUkdidzZFR1lrNXc4ZlB2SXc2MUhWaE1lUTRzMzlKZmV0UE1lVnYyLVQwdGl4NVdQTEprZ1RIRXZSZFA3RVkxLW41dkZxZG9obTJ6QjFn0gHwAUFVX3lxTE9MU2Y0bGI4U0M2aGNDcmp2T0NDYW01MXdDOUdudXVOTlhvZktzOHFGc0wtNVp4M1dnazE2LXBxaDJaVHNZYThSRy1Cd3dRc0JQN1VCN1dqUlo3M2xjTWh4VHNqdENWM29COHdmWlBZSU5XRkZJT1RhdUltY0dhQWJ5b1dLemM2aVE0dzktOTRQUmRZbTZEU2JLTnF3d3BwWUtoemdaVXZhWVBBMkozNGtmY29xQjdqZW51QXl5aXliLTdvVERoQ190b2NJTlFVejZ4ZFd3ZXFSdVd2bWVxUXpJX2ZCZ05KX2hYTHZmN2d1Vg?oc=5)
+
+---
+
+### [Un estudio de la Clínica Universidad de Navarra revela que sufrir enfisema mejora la supervivencia de pacientes con cáncer de pulmón - Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
+
+2026-04-13 <span class="news-indication-tag">EPOC</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
 
 ---
 

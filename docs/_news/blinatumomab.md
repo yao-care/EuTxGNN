@@ -14,7 +14,7 @@ permalink: /news/blinatumomab/
 ---
 
 <p class="key-answer" data-question="Blinatumomab 有什麼相關新聞？">
-<strong>Blinatumomab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Blinatumomab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/blinatumomab/
 <li>pseudo-von Willebrand disease（94.1%）</li>
 <li>drug-induced osteoporosis（92.7%）</li>
 <li>severe nonproliferative diabetic retinopathy（89.2%）</li>
-<li>psoriasis（88.9%）</li>
+<li class="indication-matched">psoriasis（88.9%）<span class="indication-tag">📰 soriasi</span></li>
 <li>Ledderhose disease（88.4%）</li>
 <li>hemorrhagic disorder due to a constitutional thrombocytopenia（87.9%）</li>
 <li>penile fibromatosis（87.8%）</li>
@@ -42,13 +42,29 @@ permalink: /news/blinatumomab/
 <p><a href="{{ '/drugs/blinatumomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
-### [Obésité, diabète, hyperglycémie : d’ici 2050, 1,8 milliard de personnes seront atteintes de la maladie du « foie gras - Yahoo Actualités](https://news.google.com/rss/articles/CBMingFBVV95cUxOQi1nZnNaQWROS0pZWVFzdFEtb1pEOEhSdzI5Z1VQWGJub3A0LUIyNzBkSHlkV0RDYjZfTkRYNE5KOWJEOW9EVDRubTFQQnFET1dGYTc2NG5uU1YxeHEzRTVnMTdzTE4xZnJhdmJTaXB4cklTbXIxMHh4blZwMFgxdHZ5T0dSNlUxYmNqNGRFZTVDSk4tT1hIVjFVa28tQQ?oc=5)
+### [La semaglutida del Ozempic muestra eficacia contra el hígado graso en estudios con ratones](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmM5VkZvWGZKeEZjZWpUYlBqLUlwUEVnRUVuSEJ1YzJTZ0ktV3kyUUh0ZDVEZUlpZVp5bkRGVnVrMVFBeWdqTDdTZUprSWNzN0JZWGdyZjZxdUhLdktOMUJWVWFhX012NXJReVN4dW52ZTlQOFQtOXUxRERERnBhZG1OMDJlRVBETk9JTXJweExpeGVqU29uTE0zb9IBmwFBVV95cUxQN3FQM283ME9VcGdLT0Ztd0I2OU1YSGtvVHVxMWltMC1oaW4xVW83dXJJeFhYNmJOSVR4dW13TldlRkZXOVZqb05hdFJPQm42VjBqTFFHd3JCYndMRkxScE41eU1IeHBtTlpWZnhUTHZGUzE5NmN2X0ZOQTl0MFBIcm5wWjlONUY0UzVlM0s5cnE0ZmhYY0ppeVVRRQ?oc=5)
+
+2026-04-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmM5VkZvWGZKeEZjZWpUYlBqLUlwUEVnRUVuSEJ1YzJTZ0ktV3kyUUh0ZDVEZUlpZVp5bkRGVnVrMVFBeWdqTDdTZUprSWNzN0JZWGdyZjZxdUhLdktOMUJWVWFhX012NXJReVN4dW52ZTlQOFQtOXUxRERERnBhZG1OMDJlRVBETk9JTXJweExpeGVqU29uTE0zb9IBmwFBVV95cUxQN3FQM283ME9VcGdLT0Ztd0I2OU1YSGtvVHVxMWltMC1oaW4xVW83dXJJeFhYNmJOSVR4dW13TldlRkZXOVZqb05hdFJPQm42VjBqTFFHd3JCYndMRkxScE41eU1IeHBtTlpWZnhUTHZGUzE5NmN2X0ZOQTl0MFBIcm5wWjlONUY0UzVlM0s5cnE0ZmhYY0ppeVVRRQ?oc=5)
+
+---
+
+### [Corazza (Apfiaco): "Psoriasi non è contagiosa ma serve più informazione per abbattere i pregiudizi" - Il Tirreno](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaUxGdkZlcmxCN2k1QVJFeTF6UGtnY2w0X0dqNFNJUjB0RFlGSjBjNzlPOGw0ajBfSFZ3Yk9nYTBDRHpDRzZybEhVS2lMY1c5ZC1nRC1hc2d6Z0F5ek12ZEcxeTk0eHRyWTlEN0t4Q3gzRDdlWWZESURIZnV1Sml0VEFiZWhUM0o1RkJHQTM3T0I0bVgwU0trX0p4bW42YS1JWlJ2eFdMcjdUUEV3X1MxRXBWb2Fxa0JPUkxFT3RmbEZINzcwaFV1bTd1azdVYmRrX3hEOVZPNE1EN0N1X1VtUTdQS2FEVWtwNzRlZVJWd3FDamt5UXJHeUVB?oc=5)
+
+2026-04-14 <span class="news-indication-tag">soriasi</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaUxGdkZlcmxCN2k1QVJFeTF6UGtnY2w0X0dqNFNJUjB0RFlGSjBjNzlPOGw0ajBfSFZ3Yk9nYTBDRHpDRzZybEhVS2lMY1c5ZC1nRC1hc2d6Z0F5ek12ZEcxeTk0eHRyWTlEN0t4Q3gzRDdlWWZESURIZnV1Sml0VEFiZWhUM0o1RkJHQTM3T0I0bVgwU0trX0p4bW42YS1JWlJ2eFdMcjdUUEV3X1MxRXBWb2Fxa0JPUkxFT3RmbEZINzcwaFV1bTd1azdVYmRrX3hEOVZPNE1EN0N1X1VtUTdQS2FEVWtwNzRlZVJWd3FDamt5UXJHeUVB?oc=5)
+
+---
+
+### [Obésité, diabète, hyperglycémie : d’ici 2050, 1,8 milliard de personnes seront atteintes de la maladie du « foie gras »](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
 
 2026-04-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMingFBVV95cUxOQi1nZnNaQWROS0pZWVFzdFEtb1pEOEhSdzI5Z1VQWGJub3A0LUIyNzBkSHlkV0RDYjZfTkRYNE5KOWJEOW9EVDRubTFQQnFET1dGYTc2NG5uU1YxeHEzRTVnMTdzTE4xZnJhdmJTaXB4cklTbXIxMHh4blZwMFgxdHZ5T0dSNlUxYmNqNGRFZTVDSk4tT1hIVjFVa28tQQ?oc=5)
+來源：[parismatch.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
 
 ---
 

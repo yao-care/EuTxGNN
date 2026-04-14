@@ -44,6 +44,30 @@ permalink: /news/interferon-beta-1a/
 
 ## 相關新聞（9 則）
 
+### [Vegane Ernährung: Neuer Standard zur Krankheitsprävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlhYelFYWXVyTXhodFM5WGI3RkgzYU1tNW01Y1k4UFk1RWFIdGdUY1ZXakxUSUs4VWhVVU1zSGhDWTlCcGlETU9tQnhWbnRzWWhsZzZ0Rkc0NXNCek1yOVRGOHJuN0NTRkx1QjFLa0NXYWtqWGR1Ml9aTkZtUm1NRkd1eG9UZTVvLThTSEdNbVVwQ3lkNldkU21TOUF5WkxDZEZvMzlDN3BVZ1lBYkZiS0ZMdk1iaF9q?oc=5)
+
+2026-04-14 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlhYelFYWXVyTXhodFM5WGI3RkgzYU1tNW01Y1k4UFk1RWFIdGdUY1ZXakxUSUs4VWhVVU1zSGhDWTlCcGlETU9tQnhWbnRzWWhsZzZ0Rkc0NXNCek1yOVRGOHJuN0NTRkx1QjFLa0NXYWtqWGR1Ml9aTkZtUm1NRkd1eG9UZTVvLThTSEdNbVVwQ3lkNldkU21TOUF5WkxDZEZvMzlDN3BVZ1lBYkZiS0ZMdk1iaF9q?oc=5)
+
+---
+
+### [Red drink could 'unclog arteries' and lower cholesterol, studies suggest - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFBXNE5hekZ6djNUNzBoci00TXl1eWNtSEY2NWRCSC1wcC1qcEtwMmVsRl9ra2R3aXdpSWxyU3cwQld3eEJWS0ppQmVNS21WTFMxMVBsVnJXajdSSXRmUmYyaUdXZ1V1OG5GRFhfNEpOYVNKaVh5Q2JRZmdiSTBIRzVka9IBiAFBVV95cUxQbWoyR1c5bEZqNmYyOUNvMlM3UTNyY3plcTFUUk40amRWay1ZNl96ZHgyenZZbVRNUndzX2VUdXF5b3J6eFhoNWZyeW9mM3NsdXpROVctWlNac0t0VnNzLXkzVE5Tb3hHaDZSejEyQ0dvZDVnclJyVnRVeHVrMm1IMm0tTllyX3NP?oc=5)
+
+2026-04-14 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFBXNE5hekZ6djNUNzBoci00TXl1eWNtSEY2NWRCSC1wcC1qcEtwMmVsRl9ra2R3aXdpSWxyU3cwQld3eEJWS0ppQmVNS21WTFMxMVBsVnJXajdSSXRmUmYyaUdXZ1V1OG5GRFhfNEpOYVNKaVh5Q2JRZmdiSTBIRzVka9IBiAFBVV95cUxQbWoyR1c5bEZqNmYyOUNvMlM3UTNyY3plcTFUUk40amRWay1ZNl96ZHgyenZZbVRNUndzX2VUdXF5b3J6eFhoNWZyeW9mM3NsdXpROVctWlNac0t0VnNzLXkzVE5Tb3hHaDZSejEyQ0dvZDVnclJyVnRVeHVrMm1IMm0tTllyX3NP?oc=5)
+
+---
+
+### [Burundi, nuovi casi di malattia non diagnosticata: 5 morti e 35 contagiati. L'Oms indaga - Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFBtNW9qcFBOdEFmMWZBeGZuXzdZTlZwYnJ6Y2dCSXFZMDl3VHlNUnluRG1uOXdUUGgyZWF0UEhVMF8tb1BuanNXODc1Y0VKcWpnYndMVmtCbk9xUWdBdUlBQ29GUlVXXzVtM2lacmNLYktLVVct?oc=5)
+
+2026-04-14 <span class="news-indication-tag">MS</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFBtNW9qcFBOdEFmMWZBeGZuXzdZTlZwYnJ6Y2dCSXFZMDl3VHlNUnluRG1uOXdUUGgyZWF0UEhVMF8tb1BuanNXODc1Y0VKcWpnYndMVmtCbk9xUWdBdUlBQ29GUlVXXzVtM2lacmNLYktLVVct?oc=5)
+
+---
+
 ### ['My daughter ended up in a coma after tummy bug symptoms'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ONHRzZUQ5ckdHdTF1NXcxX2lxQm0wdFZkZkdCVnJPSmpOMDFncGN3QVd2SWJIN1lORTlEc1FDNUVzbm5FM1g5ajJCMllwc3FuUjcyd0RLcVRCUUFs?oc=5)
 
 2026-04-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -52,19 +76,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Mansfield man took Gaviscon to combat 'heartburn' - but it turned out to be cancer - Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE10gGaAUFVX3lxTE9MS0V6dWVLbFFhNng5dGl5T01kbTdPM2c3VVQ1WjhLVjNMZ0JlbDBKZ3VvMUllcHhfcXBOS3hta3g0RS1fTG42UzVTbjFxZGhIOHJuSjRPb2FLQzNMdkt3eXotMm9uZ1djWmlyTTZYT2lzNTZEelRCUTVoYjFaazB4YU9wNV9INEladlpkdlh0MTFfTmh2Mklmdnc?oc=5)
+### [Mansfield man took Gaviscon to combat 'heartburn' - but it turned out to be cancer - Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE1?oc=5)
 
 2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE10gGaAUFVX3lxTE9MS0V6dWVLbFFhNng5dGl5T01kbTdPM2c3VVQ1WjhLVjNMZ0JlbDBKZ3VvMUllcHhfcXBOS3hta3g0RS1fTG42UzVTbjFxZGhIOHJuSjRPb2FLQzNMdkt3eXotMm9uZ1djWmlyTTZYT2lzNTZEelRCUTVoYjFaazB4YU9wNV9INEladlpkdlh0MTFfTmh2Mklmdnc?oc=5)
-
----
-
-### [Neurologist shares hobby that is 'one of the best things for your brain' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUFxZEhQc2g1d19jbFg3WnZUbENaUkdCaGZUejRDd25FRk9WQi1GRjIxSC1uaVJTUXMxYWVHdkJNdUw3VzBiRTkybnZJNmJrV2RPTldQRkVaTmJ5QVRGSW16eHhaQU1Bdk1yMTNaOFE1NF9mekVTQzM0dW0way1VOU85TnFLZ9IBiwFBVV95cUxOLVVQaWZDR3hMLWVEMFBRcDZSeVhnWGYwT0tqVmE4bnVLR1Y2V01VV1ZOVER6V2g1NzY3bUVLdjdNc0xBUHN3bkN2OUdYM2dYb2xiMGxuOXlsaGJfclVlbE14UG9PWnlWM2ZEaE1lQXhlY2J6cXdvUVVkb0VBTWZJVUxacms1UzhhV2l3?oc=5)
-
-2026-04-14 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUFxZEhQc2g1d19jbFg3WnZUbENaUkdCaGZUejRDd25FRk9WQi1GRjIxSC1uaVJTUXMxYWVHdkJNdUw3VzBiRTkybnZJNmJrV2RPTldQRkVaTmJ5QVRGSW16eHhaQU1Bdk1yMTNaOFE1NF9mekVTQzM0dW0way1VOU85TnFLZ9IBiwFBVV95cUxOLVVQaWZDR3hMLWVEMFBRcDZSeVhnWGYwT0tqVmE4bnVLR1Y2V01VV1ZOVER6V2g1NzY3bUVLdjdNc0xBUHN3bkN2OUdYM2dYb2xiMGxuOXlsaGJfclVlbE14UG9PWnlWM2ZEaE1lQXhlY2J6cXdvUVVkb0VBTWZJVUxacms1UzhhV2l3?oc=5)
+來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE1?oc=5)
 
 ---
 
@@ -84,14 +100,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [AI to predict how bowel cancer patients will respond to new NHS drug - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RSd1d3VDM2OG9nTDV4ZDVvbDJzMUd2Qm93SHJiQ0Z4RzBITHd5YVo4TjNaMmJUWEpRaF91ampzS1llQnp2TGhEaDlYM3Jlbzl6NS1IbG91U0RoUGd1N3EyQjVuWkk2SGpuaUlsYWVtLUVCekZScFZsZWxfNm1KMkFXVThFM3Zi?oc=5)
-
-2026-04-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RSd1d3VDM2OG9nTDV4ZDVvbDJzMUd2Qm93SHJiQ0Z4RzBITHd5YVo4TjNaMmJUWEpRaF91ampzS1llQnp2TGhEaDlYM3Jlbzl6NS1IbG91U0RoUGd1N3EyQjVuWkk2SGpuaUlsYWVtLUVCekZScFZsZWxfNm1KMkFXVThFM3Zi?oc=5)
-
----
-
 ### [Vitamina B1: confermata una teoria di 67 anni fa](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
@@ -105,14 +113,6 @@ permalink: /news/interferon-beta-1a/
 2026-04-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
-
----
-
-### [Tatuajes, toxinas y sistema inmunitario: qué conviene tener en cuenta antes de tatuarnos - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
-
-2026-04-12 <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
 
 ---
 

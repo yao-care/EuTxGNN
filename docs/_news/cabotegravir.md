@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
 
-### [Obésité, diabète, hyperglycémie : d’ici 2050, 1,8 milliard de personnes seront atteintes de la maladie du « foie gras - Yahoo Actualités](https://news.google.com/rss/articles/CBMingFBVV95cUxOQi1nZnNaQWROS0pZWVFzdFEtb1pEOEhSdzI5Z1VQWGJub3A0LUIyNzBkSHlkV0RDYjZfTkRYNE5KOWJEOW9EVDRubTFQQnFET1dGYTc2NG5uU1YxeHEzRTVnMTdzTE4xZnJhdmJTaXB4cklTbXIxMHh4blZwMFgxdHZ5T0dSNlUxYmNqNGRFZTVDSk4tT1hIVjFVa28tQQ?oc=5)
+### [La semaglutida del Ozempic muestra eficacia contra el hígado graso en estudios con ratones](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmM5VkZvWGZKeEZjZWpUYlBqLUlwUEVnRUVuSEJ1YzJTZ0ktV3kyUUh0ZDVEZUlpZVp5bkRGVnVrMVFBeWdqTDdTZUprSWNzN0JZWGdyZjZxdUhLdktOMUJWVWFhX012NXJReVN4dW52ZTlQOFQtOXUxRERERnBhZG1OMDJlRVBETk9JTXJweExpeGVqU29uTE0zb9IBmwFBVV95cUxQN3FQM283ME9VcGdLT0Ztd0I2OU1YSGtvVHVxMWltMC1oaW4xVW83dXJJeFhYNmJOSVR4dW13TldlRkZXOVZqb05hdFJPQm42VjBqTFFHd3JCYndMRkxScE41eU1IeHBtTlpWZnhUTHZGUzE5NmN2X0ZOQTl0MFBIcm5wWjlONUY0UzVlM0s5cnE0ZmhYY0ppeVVRRQ?oc=5)
+
+2026-04-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmM5VkZvWGZKeEZjZWpUYlBqLUlwUEVnRUVuSEJ1YzJTZ0ktV3kyUUh0ZDVEZUlpZVp5bkRGVnVrMVFBeWdqTDdTZUprSWNzN0JZWGdyZjZxdUhLdktOMUJWVWFhX012NXJReVN4dW52ZTlQOFQtOXUxRERERnBhZG1OMDJlRVBETk9JTXJweExpeGVqU29uTE0zb9IBmwFBVV95cUxQN3FQM283ME9VcGdLT0Ztd0I2OU1YSGtvVHVxMWltMC1oaW4xVW83dXJJeFhYNmJOSVR4dW13TldlRkZXOVZqb05hdFJPQm42VjBqTFFHd3JCYndMRkxScE41eU1IeHBtTlpWZnhUTHZGUzE5NmN2X0ZOQTl0MFBIcm5wWjlONUY0UzVlM0s5cnE0ZmhYY0ppeVVRRQ?oc=5)
+
+---
+
+### [Obésité, diabète, hyperglycémie : d’ici 2050, 1,8 milliard de personnes seront atteintes de la maladie du « foie gras »](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
 
 2026-04-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
-來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMingFBVV95cUxOQi1nZnNaQWROS0pZWVFzdFEtb1pEOEhSdzI5Z1VQWGJub3A0LUIyNzBkSHlkV0RDYjZfTkRYNE5KOWJEOW9EVDRubTFQQnFET1dGYTc2NG5uU1YxeHEzRTVnMTdzTE4xZnJhdmJTaXB4cklTbXIxMHh4blZwMFgxdHZ5T0dSNlUxYmNqNGRFZTVDSk4tT1hIVjFVa28tQQ?oc=5)
+來源：[parismatch.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
 
 ---
 
@@ -97,6 +105,14 @@ permalink: /news/cabotegravir/
 2026-04-13 <span class="news-indication-tag">artritis</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVEzbzVUa2g0WTJMLWdLSnNaRTdxaENrN3JnUllmSl90RmZPbWJ4TjBfcUxDVUU1UXRKWm0tX3Q5dXdqb3VlZlU2SHZTanA5OThlN3hvTVg5MHU4bzVudG1TOERYdG1fZ09BX0NpRDlWRW5BR3ZtMjFXYUdHbU5JMnFfWHgxT0hoM0tyWklpUkdidzZFR1lrNXc4ZlB2SXc2MUhWaE1lUTRzMzlKZmV0UE1lVnYyLVQwdGl4NVdQTEprZ1RIRXZSZFA3RVkxLW41dkZxZG9obTJ6QjFn0gHwAUFVX3lxTE9MU2Y0bGI4U0M2aGNDcmp2T0NDYW01MXdDOUdudXVOTlhvZktzOHFGc0wtNVp4M1dnazE2LXBxaDJaVHNZYThSRy1Cd3dRc0JQN1VCN1dqUlo3M2xjTWh4VHNqdENWM29COHdmWlBZSU5XRkZJT1RhdUltY0dhQWJ5b1dLemM2aVE0dzktOTRQUmRZbTZEU2JLTnF3d3BwWUtoemdaVXZhWVBBMkozNGtmY29xQjdqZW51QXl5aXliLTdvVERoQ190b2NJTlFVejZ4ZFd3ZXFSdVd2bWVxUXpJX2ZCZ05KX2hYTHZmN2d1Vg?oc=5)
+
+---
+
+### [Un estudio de la Clínica Universidad de Navarra revela que sufrir enfisema mejora la supervivencia de pacientes con cáncer de pulmón - Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
+
+2026-04-13 <span class="news-indication-tag">EPOC</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
 
 ---
 

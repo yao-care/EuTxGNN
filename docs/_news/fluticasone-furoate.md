@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li>asthma（99.9%）</li>
+<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthme</span></li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -42,9 +42,23 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Coloration des cheveux : attention à ces réactions allergiques, alerte l’Anses](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkJGeVBhaUZnbUQ3NXNHSFFDSUZTdHVMbm5xdUtlb21KeFEtNzJFYmJfN2J2ekcwYi1mcng0bXVyd2tSQ2xubm1KY0tkb2txSHUyVm95RjVVangwazRqVHFFRmZTMnBnUWhjTzJtR1YzLXk2RUItZmM4VDctTXJITE0wLTBTbnl0dTFLMjdhSVdxeHlTRVVnRkxOMnJJUG1HdG9FeEg0T0l2Vlp1eFltZ2w0azFUc0FWNHfSAb8BQVVfeXFMTk9QcmdGNGUxcWNmZE9pWDRPVENHZUI3SEJ1NXpxZVBtSXJ6WG94S0dCSGxfWkJDa3dKWmM2dUVKRzRIN19uclFtUFNFdlBwSG9KZjVGcHgxYlNac28xRWVvMExpOEs0Q2gtNFhyYk9Ba19NRFZGNklERXZIZnhsbnU5NTVkblJYYndDc05DUVJ5OGlHd0RCMGtnQ0M5VFNBdkw2dm1fN3UxNGNCOWFsVTg1NGRPQ0VCNXNqa2ZVSFk?oc=5)
+
+2026-04-14 <span class="news-indication-tag">asthme</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkJGeVBhaUZnbUQ3NXNHSFFDSUZTdHVMbm5xdUtlb21KeFEtNzJFYmJfN2J2ekcwYi1mcng0bXVyd2tSQ2xubm1KY0tkb2txSHUyVm95RjVVangwazRqVHFFRmZTMnBnUWhjTzJtR1YzLXk2RUItZmM4VDctTXJITE0wLTBTbnl0dTFLMjdhSVdxeHlTRVVnRkxOMnJJUG1HdG9FeEg0T0l2Vlp1eFltZ2w0azFUc0FWNHfSAb8BQVVfeXFMTk9QcmdGNGUxcWNmZE9pWDRPVENHZUI3SEJ1NXpxZVBtSXJ6WG94S0dCSGxfWkJDa3dKWmM2dUVKRzRIN19uclFtUFNFdlBwSG9KZjVGcHgxYlNac28xRWVvMExpOEs0Q2gtNFhyYk9Ba19NRFZGNklERXZIZnhsbnU5NTVkblJYYndDc05DUVJ5OGlHd0RCMGtnQ0M5VFNBdkw2dm1fN3UxNGNCOWFsVTg1NGRPQ0VCNXNqa2ZVSFk?oc=5)
+
+---
+
+### [Un estudio de la Clínica Universidad de Navarra revela que sufrir enfisema mejora la supervivencia de pacientes con cáncer de pulmón - Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
+
+2026-04-13 <span class="news-indication-tag">EPOC</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
+
+---
 
 
 <div class="disclaimer">
