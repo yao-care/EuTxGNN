@@ -14,7 +14,7 @@ permalink: /news/maribavir/
 ---
 
 <p class="key-answer" data-question="Maribavir 有什麼相關新聞？">
-<strong>Maribavir</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Maribavir</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,47 @@ permalink: /news/maribavir/
 <p><a href="{{ '/drugs/maribavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（31 則）
+
+### [«Il prurito è stato il primo sintomo, il dottore disse che era pelle secca. Così ho trovato la diagnosi da sola: ho un tumore» - Il Messaggero](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkloR0VadVA0eXBUcnVUZTdxelQ0NWl6NVVsc3cwSDZxTXN2YWlIcERfZnJwQ2lRZ212SEZac1BsQlBvblhMQXlqZmJfMFp5NzhrcnlyYUJpWkJZdzlKenFDZFQtQVE5aFZkM1BpT1VXYXFTNi11RHlibTA2T3dEYjNkRU55SVY0YmtZcFF2bFhOb19uRk1r0gGcAUFVX3lxTE10WGlsUDhiY0hDVHF1UGFCbmxFN25YNXZmYjVZTlA2WExZZjhGdkNDMDdVY1hRZXZQQW9IQTBEVjk4blFmeGUzZGZkMkZ1MmUxODVzNHZsZFVZYzdwSUxodjdnckcyaFdZYjlnVC0tcDc0QzFhR1E4N2ZsZUVKcjhXblVfYXJFYkdEQUY2ejNSOXRGQkpBMDcxTV80VA?oc=5)
+
+2026-04-14 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkloR0VadVA0eXBUcnVUZTdxelQ0NWl6NVVsc3cwSDZxTXN2YWlIcERfZnJwQ2lRZ212SEZac1BsQlBvblhMQXlqZmJfMFp5NzhrcnlyYUJpWkJZdzlKenFDZFQtQVE5aFZkM1BpT1VXYXFTNi11RHlibTA2T3dEYjNkRU55SVY0YmtZcFF2bFhOb19uRk1r0gGcAUFVX3lxTE10WGlsUDhiY0hDVHF1UGFCbmxFN25YNXZmYjVZTlA2WExZZjhGdkNDMDdVY1hRZXZQQW9IQTBEVjk4blFmeGUzZGZkMkZ1MmUxODVzNHZsZFVZYzdwSUxodjdnckcyaFdZYjlnVC0tcDc0QzFhR1E4N2ZsZUVKcjhXblVfYXJFYkdEQUY2ejNSOXRGQkpBMDcxTV80VA?oc=5)
+
+---
+
+### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
+
+2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
+
+---
+
+### [NHS improves genetic testing for minority ethnic cancer patients - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXUzTWpRcjl4X3JHM1RNMno2aW5PS3ZpMVdkZ3VaT0FELTVTZ0pNNWVOZDFaRDllSEZuMzdNM2tsdXRfZHpXWE0xNWFsQUZaazY1b2xiQUtIeDZXaktGSHRIbUV3VmtYLTljbEdBbUtfeXEwbkZMT2RRMENjWDRjNnVYellMUXhPUmUzNmd6NG90OXpiRmd6R2YtZlNORGxCOUNpLXo1VG1GTmYx?oc=5)
+
+2026-04-14 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXUzTWpRcjl4X3JHM1RNMno2aW5PS3ZpMVdkZ3VaT0FELTVTZ0pNNWVOZDFaRDllSEZuMzdNM2tsdXRfZHpXWE0xNWFsQUZaazY1b2xiQUtIeDZXaktGSHRIbUV3VmtYLTljbEdBbUtfeXEwbkZMT2RRMENjWDRjNnVYellMUXhPUmUzNmd6NG90OXpiRmd6R2YtZlNORGxCOUNpLXo1VG1GTmYx?oc=5)
+
+---
+
+### [Ernährungsmuster entscheidet über Diabetesrisiko](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Eb3p3alJUREliWTBNWkg2bmtqd2lNTXFnc1RjY2xvOFlKeVlGMVJmVG0zUlNaa2RQTjY3R3Y0SlpNUGVtcDBFZVYxUUI0QTlPNmlzSmwzNnI0ZVB5QWhkaFV1Z000dVFuOWdXTE9wcw?oc=5)
+
+2026-04-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Eb3p3alJUREliWTBNWkg2bmtqd2lNTXFnc1RjY2xvOFlKeVlGMVJmVG0zUlNaa2RQTjY3R3Y0SlpNUGVtcDBFZVYxUUI0QTlPNmlzSmwzNnI0ZVB5QWhkaFV1Z000dVFuOWdXTE9wcw?oc=5)
+
+---
+
+### [Metformin als potenzieller Ersatz für Bewegung bei Prostatakrebs](https://news.google.com/rss/articles/CBMingFBVV95cUxQeVc2cWR5MnoxbU5mOXNUNjAxcWo4a3NsOWJyLWpDSUMzdngzU0lNdENMWkRCU2cwLWlWajJFM3VLcWltOHNlSUVYRm8wR0NuenJ0YVBjZDhsdzI0d2JzT2lERGRwS3R4bU95ZDVjbjZpY1lja2pyV2pWckJVN1hpR3JkOUpFZ0lleW1sYTB1TzRiVDc2R0RGSFdjeTU2UQ?oc=5)
+
+2026-04-13 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQeVc2cWR5MnoxbU5mOXNUNjAxcWo4a3NsOWJyLWpDSUMzdngzU0lNdENMWkRCU2cwLWlWajJFM3VLcWltOHNlSUVYRm8wR0NuenJ0YVBjZDhsdzI0d2JzT2lERGRwS3R4bU95ZDVjbjZpY1lja2pyV2pWckJVN1hpR3JkOUpFZ0lleW1sYTB1TzRiVDc2R0RGSFdjeTU2UQ?oc=5)
+
+---
 
 ### [C’était comme gagner deux fois à la loterie » : un patient en rémission du VIH grâce à un coup de chance exceptionnel - Le Parisien](https://news.google.com/rss/articles/CBMinwJBVV95cUxQb3NlR21UYjRfcGFfNGhaeGlDSldZQ2ZEa2s2Z3d6cUxKWDZGMUk4OGFlaUNieFBvS0wtekdRTHQ4Mjd0NWpoclRYbGlmTGRqd2g5ektRdzlFdjNjLV9fWFpycURDY3p2MXdYdHNXTWEtdHF3czdCZ1VqZjlmQTUtOWJJNndsd1UwYVFGbGJJYnlJaTBJRy1EU0xxdkQ2U2xibWNrTmRHZUVacXhiZGFZSDRIRkNScWNXVWp1RnVmdE0wak5SZWJTcFdRYVpOdkNXajdXSDlEV3F1cjFJTDExa243U0NSM2lvNGRrSlhGLVIwZEpSeGdHM0ZpM0swem5oZ2hKNXhBNkhHQm11N2hpZEdBMGNmb1htU0VCMWc5Zw?oc=5)
 
@@ -52,19 +92,19 @@ permalink: /news/maribavir/
 
 ---
 
-### [NHS improves genetic testing for minority ethnic cancer patients - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXUzTWpRcjl4X3JHM1RNMno2aW5PS3ZpMVdkZ3VaT0FELTVTZ0pNNWVOZDFaRDllSEZuMzdNM2tsdXRfZHpXWE0xNWFsQUZaazY1b2xiQUtIeDZXaktGSHRIbUV3VmtYLTljbEdBbUtfeXEwbkZMT2RRMENjWDRjNnVYellMUXhPUmUzNmd6NG90OXpiRmd6R2YtZlNORGxCOUNpLXo1VG1GTmYx?oc=5)
-
-2026-04-13 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXUzTWpRcjl4X3JHM1RNMno2aW5PS3ZpMVdkZ3VaT0FELTVTZ0pNNWVOZDFaRDllSEZuMzdNM2tsdXRfZHpXWE0xNWFsQUZaazY1b2xiQUtIeDZXaktGSHRIbUV3VmtYLTljbEdBbUtfeXEwbkZMT2RRMENjWDRjNnVYellMUXhPUmUzNmd6NG90OXpiRmd6R2YtZlNORGxCOUNpLXo1VG1GTmYx?oc=5)
-
----
-
 ### [L'un des cancers les plus redoutables vient d'être anéanti en laboratoire : ce nouveau gel radioactif détruit les tumeurs de l'intérieur](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR3dXTzluM0NON2xRQlVPQ0NudDFMbko0ZmhOVjNjVlVBNWZnY3pNVXdNaHhRTHFpZGVzSnFxRFJ1blo2a2RxYlQ2c041Wmloc19jQ2pWMjVMOHlNWXV6Yko1ckQ2UTBpRE1EMlpGZmx3a0hXWWZiUEhzNEF3V3BMTmxnWHV6Q1phQ2RTbXRwY3BCQ3ptd1ZCc3h0YnI1WmkzNEdWSUFDOUlIcjN5SzhOdEdaM1paaU9MTHpMcTFKa045YVR3aVhmUDR1WUtoX2RJSzJMMjloMU8xOHJNcUpfMVB5UE1FMFoxUlZ3?oc=5)
 
 2026-04-13 <span class="news-indication-tag">cancer</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR3dXTzluM0NON2xRQlVPQ0NudDFMbko0ZmhOVjNjVlVBNWZnY3pNVXdNaHhRTHFpZGVzSnFxRFJ1blo2a2RxYlQ2c041Wmloc19jQ2pWMjVMOHlNWXV6Yko1ckQ2UTBpRE1EMlpGZmx3a0hXWWZiUEhzNEF3V3BMTmxnWHV6Q1phQ2RTbXRwY3BCQ3ptd1ZCc3h0YnI1WmkzNEdWSUFDOUlIcjN5SzhOdEdaM1paaU9MTHpMcTFKa045YVR3aVhmUDR1WUtoX2RJSzJMMjloMU8xOHJNcUpfMVB5UE1FMFoxUlZ3?oc=5)
+
+---
+
+### [Tragedy as Tommy Verbickas dies aged just 6 after his third cancer battle - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVVBQkM5VGVKSGVtbmF5S0prQjZEb2R2bG1fV0Y1dFRoLXhOMV9Qb0RLQnk1bzVRMTM1eEFYRlgwZmRSRkdFSEpTd3VXb25pU3h1bnk2bnktRzdWYmNlQjNGOGZJYjFESFJlSU9EeDdwRENtdm56Z2IyanlPbVZWUlJHNXFjUdIBiwFBVV95cUxPb01ieTdteENpMWRGY28td2I3ck1JTUJydjQ1Y0RQak5lZDJpRnNzN2ZzYXRPUjVrQmR2SEl0RHE0T0hPZEMwLXFRckE4Q0daZDVUcWZmdjVTLWliNHNoS2JCS3F4RzBGc2RHUlYyQl9hLWNuNF9TSnZKLVRyc2Z6ejd2V3Z1dGpGSzRv?oc=5)
+
+2026-04-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVVBQkM5VGVKSGVtbmF5S0prQjZEb2R2bG1fV0Y1dFRoLXhOMV9Qb0RLQnk1bzVRMTM1eEFYRlgwZmRSRkdFSEpTd3VXb25pU3h1bnk2bnktRzdWYmNlQjNGOGZJYjFESFJlSU9EeDdwRENtdm56Z2IyanlPbVZWUlJHNXFjUdIBiwFBVV95cUxPb01ieTdteENpMWRGY28td2I3ck1JTUJydjQ1Y0RQak5lZDJpRnNzN2ZzYXRPUjVrQmR2SEl0RHE0T0hPZEMwLXFRckE4Q0daZDVUcWZmdjVTLWliNHNoS2JCS3F4RzBGc2RHUlYyQl9hLWNuNF9TSnZKLVRyc2Z6ejd2V3Z1dGpGSzRv?oc=5)
 
 ---
 
@@ -105,22 +145,6 @@ permalink: /news/maribavir/
 2026-04-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHd2dk1YQUFGemt5OWE3TFhHZTlJd2JxVlZuMTRoUFlqNnlVbzdaR0RyNkdJZTFBY2dHeURxa2pibFVBeXJDekZ1TWtIWTRZdy03dGJRVW9wMUp3UEFHbGZFMkVXblFiU1FvNDJoUHphaWxCOHNMX0hBbXRyRXBiV2FVVG9WRm5SLWdQekY0SzVUYkdyelUtZGh4ZzkyWGpjY0E1My1aUEVCT05OcFFDNkZIem1YWVFsaTlkTW51RnFiNHM?oc=5)
-
----
-
-### [«Il prurito è stato il primo sintomo, il dottore disse che era pelle secca. Così ho trovato la diagnosi da sola: ho un tumore»](https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2pmZXZDXzJoekNUMFVWOHk5RS1wYzNWR0lJY1QwRWx6OG5VVk1NYWR4LUJxZ0hDM2lsaHRVcnF6WHMxSl9Vdk15b05NdXhvSnNSRW9DbUZlb2NFX0czb1BXTW5yTUhqYkVQQWYzVjRvSU1qTFllNk9LdmxYTEVLYnN3TjBHeGYtRWxibmNqaHhWc0V5Ny1CT19rakFPTXZLSlhjREluSnhxTkozWUt5aWIxWdIBngFBVV95cUxQRVVpWkVOdWVnWEdTaUk1b1ItNHZXckVIaUtFS0ZNYk5aSXV2R3luS2UwV05vaGJDV3cyMXJPc3Atek1FQUEtLTFpMV84MjRkc0JCbDF1VFZSbGlQU3FFZUQtamVLTEM5NEMyN3VQSUNXYS14VGNEanNELWVaTlZwT3J1cUZKRFRsdEFWazZGTU5mV2pKN2hPZm9qRUpPdw?oc=5)
-
-2026-04-13 <span class="news-indication-tag">tumor</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2pmZXZDXzJoekNUMFVWOHk5RS1wYzNWR0lJY1QwRWx6OG5VVk1NYWR4LUJxZ0hDM2lsaHRVcnF6WHMxSl9Vdk15b05NdXhvSnNSRW9DbUZlb2NFX0czb1BXTW5yTUhqYkVQQWYzVjRvSU1qTFllNk9LdmxYTEVLYnN3TjBHeGYtRWxibmNqaHhWc0V5Ny1CT19rakFPTXZLSlhjREluSnhxTkozWUt5aWIxWdIBngFBVV95cUxQRVVpWkVOdWVnWEdTaUk1b1ItNHZXckVIaUtFS0ZNYk5aSXV2R3luS2UwV05vaGJDV3cyMXJPc3Atek1FQUEtLTFpMV84MjRkc0JCbDF1VFZSbGlQU3FFZUQtamVLTEM5NEMyN3VQSUNXYS14VGNEanNELWVaTlZwT3J1cUZKRFRsdEFWazZGTU5mV2pKN2hPZm9qRUpPdw?oc=5)
-
----
-
-### [Weniger Zucker und Fett im Essen? – so einfach ist es nicht! - Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
-
-2026-04-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Deutsche Diabetes Gesellschaft e.V.](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUFoeEZYRG51REdzREZ3dTdsM2x0X1Y2bl93b29vblI0cnpFdHhrZlg1RzJ6R1djWFFQRS1UMUhQTEdEblJpanNKLU04ajNJc013UEJkbF83eW1iZFVGUEdjbUFBdFhzSzlGUmZSS1daSDdzX0xVUEhwOWprdDJwZ2ZnNExsLWx3N1I0LW40eXppNlk?oc=5)
 
 ---
 
@@ -180,27 +204,11 @@ permalink: /news/maribavir/
 
 ---
 
-### [CRIS Contra el Cáncer refuerza su liderazgo impulsando el talento investigador con casi 15 millones de euros y consolidándose como uno de los mayores financiadores de investigación del cáncer en España](https://news.google.com/rss/articles/CBMi4gJBVV95cUxNMHg5Ml9NSnBaSzZTZlBUMmZWQmNoT0NxZWRMME1FWnVWZmZsWTZ6cmNzYkhMOTZwV2UtcGN3YWtIaloxZVRVVnEzRTN6am1aTzdiNDBMUGhscE1UVzZkTy1VNlFkeG1xS3ZKc1VEV18yZ0o0Q0xNM1dmX1dtaWd6OG1TdlRrWlRvQWk1cDNoQkVnUDY4dk5KQW4xV1JtNFUyNERaWG9CaVZFd21oZS1hNDlTY1NpWXFYS18tTklMcTAwQmJzVXhxMDFsem03Q0tsWUZkVW0xbTF2STgzZkt5LXNiSHlIQ0NqUTd4NzJGMzMxS05YeHFMeHhfcjFnTUhiTDZGU0I0T3Nia1JBUzQ1TWFITl9zamhKNFlJTDQyZE0xUl9mem5jVmhWODZMV1RnbVppdl9NOFljejJkbmswaFN3M3l6dGJuQURGYkxtaWpsTGx0V2J2SjJLZUFlcDdBc3c?oc=5)
-
-2026-04-13 <span class="news-indication-tag">cancer</span>
-
-來源：[Corresponsables](https://news.google.com/rss/articles/CBMi4gJBVV95cUxNMHg5Ml9NSnBaSzZTZlBUMmZWQmNoT0NxZWRMME1FWnVWZmZsWTZ6cmNzYkhMOTZwV2UtcGN3YWtIaloxZVRVVnEzRTN6am1aTzdiNDBMUGhscE1UVzZkTy1VNlFkeG1xS3ZKc1VEV18yZ0o0Q0xNM1dmX1dtaWd6OG1TdlRrWlRvQWk1cDNoQkVnUDY4dk5KQW4xV1JtNFUyNERaWG9CaVZFd21oZS1hNDlTY1NpWXFYS18tTklMcTAwQmJzVXhxMDFsem03Q0tsWUZkVW0xbTF2STgzZkt5LXNiSHlIQ0NqUTd4NzJGMzMxS05YeHFMeHhfcjFnTUhiTDZGU0I0T3Nia1JBUzQ1TWFITl9zamhKNFlJTDQyZE0xUl9mem5jVmhWODZMV1RnbVppdl9NOFljejJkbmswaFN3M3l6dGJuQURGYkxtaWpsTGx0V2J2SjJLZUFlcDdBc3c?oc=5)
-
----
-
-### [Was ist erblich bedingter Krebs? - Der Standard](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbExqYXVOYV84ZHlUeEd5Z2ZWXzJ3bnNkcjFkUE5nMG81WkNLbFkxRWVhdVJ1QXdqeEtFUFZ4QnFuejl5LTNGdlVzamx6eVJpWlhaTzZRZDJIX0tfUkd4WEY1eWJjWHZZc2JkX1U4QVJfUU5jOTBDYmZYTnZGTUFKUTVoeno?oc=5)
+### [Was ist erblich bedingter Krebs? - Der Standard](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXZlTDg5NlVlWWI2TlE3NEtUSlRTUVA5Wkc5TzFEb2R0bHhaN095NGJISnRnTGVVbUZseXgxenZlekJtMEM1VmdsbnVkVlRzMFNpZmVNRXpuekNZVzltZkdWMlBWR1FwcTNTc3lUaDVJaEF2MnRMbjRXQjE3MnhfbUZjTWI?oc=5)
 
 2026-04-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[Der Standard](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbExqYXVOYV84ZHlUeEd5Z2ZWXzJ3bnNkcjFkUE5nMG81WkNLbFkxRWVhdVJ1QXdqeEtFUFZ4QnFuejl5LTNGdlVzamx6eVJpWlhaTzZRZDJIX0tfUkd4WEY1eWJjWHZZc2JkX1U4QVJfUU5jOTBDYmZYTnZGTUFKUTVoeno?oc=5)
-
----
-
-### ['I'd never heard of my type of breast cancer — it didn't start with a lump' - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVNJNUtFaDBoNmVCeGlVQ1ZoWWdhdXdVM3lmQ1FsN3Q1WlZYNHVZa0M1djhtYmNXMG1yLW1VaVBVVGU1UlowMlVfNmZRaDBvM3RXU2Vtb0JUcG8tYjl5c1UtNGxTRmEtNFJTSXVMQ0lUQmNvYXQ3ZVNQbTZtdWVaa0s2RVQ1QXJfUFo3MnJLb3E3UDNDdkE?oc=5)
-
-2026-04-13 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVNJNUtFaDBoNmVCeGlVQ1ZoWWdhdXdVM3lmQ1FsN3Q1WlZYNHVZa0M1djhtYmNXMG1yLW1VaVBVVGU1UlowMlVfNmZRaDBvM3RXU2Vtb0JUcG8tYjl5c1UtNGxTRmEtNFJTSXVMQ0lUQmNvYXQ3ZVNQbTZtdWVaa0s2RVQ1QXJfUFo3MnJLb3E3UDNDdkE?oc=5)
+來源：[Der Standard](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXZlTDg5NlVlWWI2TlE3NEtUSlRTUVA5Wkc5TzFEb2R0bHhaN095NGJISnRnTGVVbUZseXgxenZlekJtMEM1VmdsbnVkVlRzMFNpZmVNRXpuekNZVzltZkdWMlBWR1FwcTNTc3lUaDVJaEF2MnRMbjRXQjE3MnhfbUZjTWI?oc=5)
 
 ---
 

@@ -44,11 +44,11 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（3 則）
 
-### [Vitamin D gegen Depression? Apothekerin sagt, wann sie zu Supplements rät - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTXBfNlJxdHhlLW9uOWhzQUZWcTJfcG05M1lMSjdLd2ZVbXRjeHZUSDZaQXBQMlNDZ09jb1RXMVF1Mmk1dHVNc1FwX0wyOGpNcU5KMlpXWnZ3SmZPd3I3SDBpaEZkSWR1aVBZZWtaSEJJXzFzM3ZMSTAxVjdkejA1Ml9oV0lNRXZMM202YnNzN01JOHo0bDUwdUFqVFhkTldrUWxoLVp5eENVTndLSllYajlpZEpsa2lWS1kyVDcwdGVETjJYbEhlUFVEU0M4eHpGaU92T0U5ZGkyQ1VLUUttOUdR?oc=5)
+### [So zeigt sich ein Vitamin-D-Mangel: Diese Symptome müssen Sie erkennen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTF9xbFZoR29nc0tqM2hGNk44WDFsOXJhMWZudDBwTnJJQXlqMzM4UTgwYk51bjdsMEwwN1dMdml2Z0JDaE9PMjZZVEQxaUFhSDdFSV9RbkI4TDc2dmt0WjFreHlMbTNCLVI2YzhDN19pMVM5MFNIUXk0UVNteHRwZVVLbGduWGdIMWExbDVTdGc3US01TDRKWHJyQUVuRWZKUEFEX1dJR2tNb2VYWEFUYXlEbHU2Qld3RnhKc2J2Tkp3UQ?oc=5)
 
-2026-04-13 <span class="news-indication-tag">depression</span>
+2026-04-14 <span class="news-indication-tag">depression</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTXBfNlJxdHhlLW9uOWhzQUZWcTJfcG05M1lMSjdLd2ZVbXRjeHZUSDZaQXBQMlNDZ09jb1RXMVF1Mmk1dHVNc1FwX0wyOGpNcU5KMlpXWnZ3SmZPd3I3SDBpaEZkSWR1aVBZZWtaSEJJXzFzM3ZMSTAxVjdkejA1Ml9oV0lNRXZMM202YnNzN01JOHo0bDUwdUFqVFhkTldrUWxoLVp5eENVTndLSllYajlpZEpsa2lWS1kyVDcwdGVETjJYbEhlUFVEU0M4eHpGaU92T0U5ZGkyQ1VLUUttOUdR?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTF9xbFZoR29nc0tqM2hGNk44WDFsOXJhMWZudDBwTnJJQXlqMzM4UTgwYk51bjdsMEwwN1dMdml2Z0JDaE9PMjZZVEQxaUFhSDdFSV9RbkI4TDc2dmt0WjFreHlMbTNCLVI2YzhDN19pMVM5MFNIUXk0UVNteHRwZVVLbGduWGdIMWExbDVTdGc3US01TDRKWHJyQUVuRWZKUEFEX1dJR2tNb2VYWEFUYXlEbHU2Qld3RnhKc2J2Tkp3UQ?oc=5)
 
 ---
 

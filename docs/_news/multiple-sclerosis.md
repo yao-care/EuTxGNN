@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。7 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。8 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>7 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>8 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,23 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### ['My daughter ended up in a coma after tummy bug symptoms'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ONHRzZUQ5ckdHdTF1NXcxX2lxQm0wdFZkZkdCVnJPSmpOMDFncGN3QVd2SWJIN1lORTlEc1FDNUVzbm5FM1g5ajJCMllwc3FuUjcyd0RLcVRCUUFs?oc=5)
+
+2026-04-14
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ONHRzZUQ5ckdHdTF1NXcxX2lxQm0wdFZkZkdCVnJPSmpOMDFncGN3QVd2SWJIN1lORTlEc1FDNUVzbm5FM1g5ajJCMllwc3FuUjcyd0RLcVRCUUFs?oc=5)
+
+---
+
+### [Warum die Impfung gegen Gürtelrose wichtiger ist als gedacht](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTQzSGRobGhudHZKd29NbFJaN0NMS0ZNYzNGOUFWT1JZaFBvVG5Fb2t0aDhURmp4MENjaXIxTHNqaHJyYVYtQTF4dWZqSFB3cTNoZXkxODV6Rlp4NjQwbW4tbzd0LWVPbDVEX2FEYUUwNjlBNk1feXg2NkdKSDVEblVIenBoc3RJODZmd3g4a0NlR2drMFdhOA?oc=5)
+
+2026-04-13
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTQzSGRobGhudHZKd29NbFJaN0NMS0ZNYzNGOUFWT1JZaFBvVG5Fb2t0aDhURmp4MENjaXIxTHNqaHJyYVYtQTF4dWZqSFB3cTNoZXkxODV6Rlp4NjQwbW4tbzd0LWVPbDVEX2FEYUUwNjlBNk1feXg2NkdKSDVEblVIenBoc3RJODZmd3g4a0NlR2drMFdhOA?oc=5)
+
+---
 
 ### [Menopause beschleunigt MS-Progression nicht - Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
 
@@ -72,11 +88,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Nicht mehr gebrochene Herzen: Inzidenz des Takotsubo-Syndroms über zwölf Jahre stabil – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMEFJRVlieUczV2ZxYlFSZU1MNVVqcTlRT1VhUE1PUDZoTGJoT2o1N2t2bm1wdlVUNjBuSmJIN2w3R1JLckItbFk3S2hUTmJBRHlfQkNuaVByekZXdHFfaEdyWExMYXJEaDFneHJheklHeXFyVmhLMGZhbnR0UVhua1h6TW5Ya2FsMkhzaEs1S3RxQzZOSWZvLW1HdTYtZ0pxU21rN2wxUVJaYnJ5eEhka2dncHFEZnpvcDVEX1VfcGFuVVpXQ2NCbXBETWhxQVBhTUFjZmF1Y3ppRmp1ak1qNkdFdzA3WkdEN3JmZFlMMjBZcGVmQ19raWk1N1pzV2c?oc=5)
+### [Nicht mehr gebrochene Herzen: Inzidenz des Takotsubo-Syndroms über zwölf Jahre stabil – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkU5REdKQ1JJN2lNVzdQWXpXTVE1bVU0cFVMZEdlUG9kalNOVFpYQlYxYWJWN0RYNVpKUTBmM1Vwcm02bFZUSkUyLVhrb1p2MFdlaXU0X0JoeThqUi1TUUZsdG5zRkJ4UXhncnVxcHBqanBXMktYaWUyLTJyaGFkVWN1eGRlYmIxRE5vZ2REOTRPb3lNTVM3b2dNTkRvQjZNbm1PRHBxalNMM3NxcVdIVXFQdGt5ZW9ZVkxJRXRCNmNTTGlwT1RBWTNUdTZ3STRHTWJGaUN5cXRES1JLYW5TSHRkbkpaYUpa?oc=5)
 
 2026-04-13
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMEFJRVlieUczV2ZxYlFSZU1MNVVqcTlRT1VhUE1PUDZoTGJoT2o1N2t2bm1wdlVUNjBuSmJIN2w3R1JLckItbFk3S2hUTmJBRHlfQkNuaVByekZXdHFfaEdyWExMYXJEaDFneHJheklHeXFyVmhLMGZhbnR0UVhua1h6TW5Ya2FsMkhzaEs1S3RxQzZOSWZvLW1HdTYtZ0pxU21rN2wxUVJaYnJ5eEhka2dncHFEZnpvcDVEX1VfcGFuVVpXQ2NCbXBETWhxQVBhTUFjZmF1Y3ppRmp1ak1qNkdFdzA3WkdEN3JmZFlMMjBZcGVmQ19raWk1N1pzV2c?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkU5REdKQ1JJN2lNVzdQWXpXTVE1bVU0cFVMZEdlUG9kalNOVFpYQlYxYWJWN0RYNVpKUTBmM1Vwcm02bFZUSkUyLVhrb1p2MFdlaXU0X0JoeThqUi1TUUZsdG5zRkJ4UXhncnVxcHBqanBXMktYaWUyLTJyaGFkVWN1eGRlYmIxRE5vZ2REOTRPb3lNTVM3b2dNTkRvQjZNbm1PRHBxalNMM3NxcVdIVXFQdGt5ZW9ZVkxJRXRCNmNTTGlwT1RBWTNUdTZ3STRHTWJGaUN5cXRES1JLYW5TSHRkbkpaYUpa?oc=5)
 
 ---
 
@@ -93,14 +109,6 @@ permalink: /news/multiple-sclerosis/
 2026-04-12
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
-
----
-
-### [Tatuajes, toxinas y sistema inmunitario: qué conviene tener en cuenta antes de tatuarnos - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
-
-2026-04-12
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,23 +42,9 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Mediterranean diet lowers stroke risk by 25%, new research reveals - Woman & Home](https://news.google.com/rss/articles/CBMikgFBVV95cUxObzBkSWpHNHJtU2h0UmFpRWZ2enhMS1kyMEgzd3laWkl1VktfSXlsWmNWX29hQ3FmcjN2RGhqZUZNR2lzamJfNlVra1k3UWdWeDA4Yk5USVpWUjFBNkEtSWNoMnRRT3B2VGJVc09XbURFTVdKU0VZdEczWFJKNnpmYmR3QmloODY1UjRuWmdiMzh5QQ?oc=5)
-
-2026-04-12 <span class="news-indication-tag">stroke</span>
-
-來源：[Woman & Home](https://news.google.com/rss/articles/CBMikgFBVV95cUxObzBkSWpHNHJtU2h0UmFpRWZ2enhMS1kyMEgzd3laWkl1VktfSXlsWmNWX29hQ3FmcjN2RGhqZUZNR2lzamJfNlVra1k3UWdWeDA4Yk5USVpWUjFBNkEtSWNoMnRRT3B2VGJVc09XbURFTVdKU0VZdEczWFJKNnpmYmR3QmloODY1UjRuWmdiMzh5QQ?oc=5)
-
----
-
-### [Herzimplantate: Neue Alternative zu Blutverdünnern bei Vorhofflimmern - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
-
-2026-04-12 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVNGdWdTMm9YWnNEYXVLX0FRTXNpWThOaFp3VEprQ3hnY2tRb3BkOFpBNVZaN2ZMMDRvMHFJUldCU3BjM3NXUmp5MEg4bzU2WU5TSGlKRFFZQjBTWDJ0OW9MOGtBN0Jyc1JHTFdVS1d1SHo3NVFTYTNtQlRsdnpjMDJzbXl6cmctb2x6QXhzUEVNcHVrX01VY0FvVmtRaThGb3NmX1NkVERaSTV4MHoyUVhySkVXU2FqMTN0Z3BoVms2RUhXSXk4?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

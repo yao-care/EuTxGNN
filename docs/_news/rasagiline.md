@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Neues Forschungsprojekt der Universität Osnabrück: Den Ursachen der Alzheimer-Krankheit auf der Spur - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUzFqeWZrcXlXa05MZkJ3QnRRM1d2THNLMHc3NDNELUt6eldneWpsYmMybEFJQm5Zc21iU2Q1UU5Bb1djVGtaSGZPNWM3R0lycHRzekE1anRiSEVVbFc2X3ZIZjk5aF9fQzdEZUVxWTlheVNmV3pTTHotTHhJNThWZi1Xakg0MDdnaUdFVGN4djJZaXc5WWhlcmJjRjBjTUpiMkJjejNKZmJTeVFWcmp5MFZEbktNUi1pTWhUZzBJZENLbEhCWU1GR0pUMjJ2WjlPNFNrZldpcU1LMmRycUFDVkJnWjNfSnpoU1YtWHA0bks?oc=5)
+
+2026-04-14 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUzFqeWZrcXlXa05MZkJ3QnRRM1d2THNLMHc3NDNELUt6eldneWpsYmMybEFJQm5Zc21iU2Q1UU5Bb1djVGtaSGZPNWM3R0lycHRzekE1anRiSEVVbFc2X3ZIZjk5aF9fQzdEZUVxWTlheVNmV3pTTHotTHhJNThWZi1Xakg0MDdnaUdFVGN4djJZaXc5WWhlcmJjRjBjTUpiMkJjejNKZmJTeVFWcmp5MFZEbktNUi1pTWhUZzBJZENLbEhCWU1GR0pUMjJ2WjlPNFNrZldpcU1LMmRycUFDVkJnWjNfSnpoU1YtWHA0bks?oc=5)
+
+---
 
 ### [Is it true that … having a diverse microbiome stops you from getting sick? - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkVLRVMtN3RSUnpWeGREc0o1TXVtMHNoYVpGUTI5QnYyak9pcGFXdGtkTjhIWTVGNUVqN1hIZlZIbnhJazRBRXk1Zl9POXJpdm12c01HZEpWS0EtaVFyTll6Y2RZeVdkV3JiQVQ3QjMtMGx3cVIwYWhfYzRUNzhuVHNfY2dJUWxpYVlmUDFjMGVHLURiWHZ5eXNMUGdxVzUtLW16ZmpLVjllclNsYnp5OXFwTnRxbkJtS2ZoNHRjZkI0UQ?oc=5)
 
