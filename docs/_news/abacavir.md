@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abacavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/abacavir/
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Madrid blinda la inmunización infantil con 3 millones para vacunas contra sarampión y varicela - Gaceta de salud](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMmhfeDRxelgweGVJNVExLTNQRlBRR2ZIaG1SS0R1N01DemZaYUZSY0ZMc00xcDNhRkRnRHZZMU91WUcxQ1RBOVMyRGIxWjA3SGo4TlRRMlRTU0RBZHRDS0QwZk5ZaDkybEhuNGQ5RFUwdGNTT3hFZzRfZWZfaExobkoyRHlaekdoeUduRGRqeDM1NVpuV3M5ZDNVcXVibnlfUjVGWXRhT3V0NGR4UXFFbGlJTkMzRTA5clZpTFZieFJ5ZGJPVTlvYmlkalFLTHpPdmNhMzFjek8xQ25HRm52QzJ6UXBWUGtEX1ZWamdMekNJMFZoREl0TkhwOA?oc=5)
+### [Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - El Iceberg de Madrid](https://news.google.com/rss/articles/CBMilAJBVV95cUxOXzBDOEU2S05LZFZxLVJGcmxxbWEyTDJscjNVS3dlSXpEdHAwbWRNMU42ckw0cm5GcnZPdW0wTEM1SVkzUWVfaHlMOHpRbGt0bEdWSXhhN010cEhYMWhLbnZUSGZpVlItdlQwM2VHNHVza1Z1REp1bVNYUm5lRDFWdWswZTFFU1ZIMVRtd2ZvTGUxQ0Vhdjg4U3l5NXZqOFVNeEZxMkR0ZU1LX1lMREstdVZNREp4SVZvMllVdXBiZ00tSDdmWG9DUGRKenM4bjdpTmNhWkd3WXhIVVJ5c0J0ak9UMGl3dnBLRkd3R0VNbWoweS1tVU9oSjl4aWNlVVM3S0xWR1Etay1hQVhhdGhZUTVlSEI?oc=5)
 
 2026-04-13 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMmhfeDRxelgweGVJNVExLTNQRlBRR2ZIaG1SS0R1N01DemZaYUZSY0ZMc00xcDNhRkRnRHZZMU91WUcxQ1RBOVMyRGIxWjA3SGo4TlRRMlRTU0RBZHRDS0QwZk5ZaDkybEhuNGQ5RFUwdGNTT3hFZzRfZWZfaExobkoyRHlaekdoeUduRGRqeDM1NVpuV3M5ZDNVcXVibnlfUjVGWXRhT3V0NGR4UXFFbGlJTkMzRTA5clZpTFZieFJ5ZGJPVTlvYmlkalFLTHpPdmNhMzFjek8xQ25HRm52QzJ6UXBWUGtEX1ZWamdMekNJMFZoREl0TkhwOA?oc=5)
-
----
-
-### [Epatite A Napoli, 7 campioni positivi al Lago Fusaro di Bacoli: stop alle cozze, danni per 300mila euro](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUU3WXlPbEtqZ2NfZEFfek9sYW02ZzZiWmVPMGN1TVhOZDZwejdIVkwzNzZfalR2YzIzWEdFaURCbEJ4ODZtMXc5NE1HdnZWczlHdEExU1hvcGVPLWtUTGZqSTdkeHN0VnU5WkZaUmRnWVpfdUtoWFNqNHNDa1lMbklnSzRGeVRFV1BjZ1NhVXJBUDVXZTZpM29lRTNyNjVjdGkzeEdQOGt2V2lHa3dua1loblNKTVlyRTJYTWhHOVFxdTRrMlkweA?oc=5)
-
-2026-04-12 <span class="news-indication-tag">epatite</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUU3WXlPbEtqZ2NfZEFfek9sYW02ZzZiWmVPMGN1TVhOZDZwejdIVkwzNzZfalR2YzIzWEdFaURCbEJ4ODZtMXc5NE1HdnZWczlHdEExU1hvcGVPLWtUTGZqSTdkeHN0VnU5WkZaUmRnWVpfdUtoWFNqNHNDa1lMbklnSzRGeVRFV1BjZ1NhVXJBUDVXZTZpM29lRTNyNjVjdGkzeEdQOGt2V2lHa3dua1loblNKTVlyRTJYTWhHOVFxdTRrMlkweA?oc=5)
+來源：[El Iceberg de Madrid](https://news.google.com/rss/articles/CBMilAJBVV95cUxOXzBDOEU2S05LZFZxLVJGcmxxbWEyTDJscjNVS3dlSXpEdHAwbWRNMU42ckw0cm5GcnZPdW0wTEM1SVkzUWVfaHlMOHpRbGt0bEdWSXhhN010cEhYMWhLbnZUSGZpVlItdlQwM2VHNHVza1Z1REp1bVNYUm5lRDFWdWswZTFFU1ZIMVRtd2ZvTGUxQ0Vhdjg4U3l5NXZqOFVNeEZxMkR0ZU1LX1lMREstdVZNREp4SVZvMllVdXBiZ00tSDdmWG9DUGRKenM4bjdpTmNhWkd3WXhIVVJ5c0J0ak9UMGl3dnBLRkd3R0VNbWoweS1tVU9oSjl4aWNlVVM3S0xWR1Etay1hQVhhdGhZUTVlSEI?oc=5)
 
 ---
 

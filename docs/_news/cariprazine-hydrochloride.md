@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### ['My daughter ended up in a coma after tummy bug symptoms'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ONHRzZUQ5ckdHdTF1NXcxX2lxQm0wdFZkZkdCVnJPSmpOMDFncGN3QVd2SWJIN1lORTlEc1FDNUVzbm5FM1g5ajJCMllwc3FuUjcyd0RLcVRCUUFs?oc=5)
 
 2026-04-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ONHRzZUQ5ckdHdTF1NXcxX2lxQm0wdFZkZkdCVnJPSmpOMDFncGN3QVd2SWJIN1lORTlEc1FDNUVzbm5FM1g5ajJCMllwc3FuUjcyd0RLcVRCUUFs?oc=5)
+
+---
+
+### [Mansfield man took Gaviscon to combat 'heartburn' - but it turned out to be cancer - Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE10gGaAUFVX3lxTE9MS0V6dWVLbFFhNng5dGl5T01kbTdPM2c3VVQ1WjhLVjNMZ0JlbDBKZ3VvMUllcHhfcXBOS3hta3g0RS1fTG42UzVTbjFxZGhIOHJuSjRPb2FLQzNMdkt3eXotMm9uZ1djWmlyTTZYT2lzNTZEelRCUTVoYjFaazB4YU9wNV9INEladlpkdlh0MTFfTmh2Mklmdnc?oc=5)
+
+2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE10gGaAUFVX3lxTE9MS0V6dWVLbFFhNng5dGl5T01kbTdPM2c3VVQ1WjhLVjNMZ0JlbDBKZ3VvMUllcHhfcXBOS3hta3g0RS1fTG42UzVTbjFxZGhIOHJuSjRPb2FLQzNMdkt3eXotMm9uZ1djWmlyTTZYT2lzNTZEelRCUTVoYjFaazB4YU9wNV9INEladlpkdlh0MTFfTmh2Mklmdnc?oc=5)
+
+---
+
+### [Neurologist shares hobby that is 'one of the best things for your brain' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUFxZEhQc2g1d19jbFg3WnZUbENaUkdCaGZUejRDd25FRk9WQi1GRjIxSC1uaVJTUXMxYWVHdkJNdUw3VzBiRTkybnZJNmJrV2RPTldQRkVaTmJ5QVRGSW16eHhaQU1Bdk1yMTNaOFE1NF9mekVTQzM0dW0way1VOU85TnFLZ9IBiwFBVV95cUxOLVVQaWZDR3hMLWVEMFBRcDZSeVhnWGYwT0tqVmE4bnVLR1Y2V01VV1ZOVER6V2g1NzY3bUVLdjdNc0xBUHN3bkN2OUdYM2dYb2xiMGxuOXlsaGJfclVlbE14UG9PWnlWM2ZEaE1lQXhlY2J6cXdvUVVkb0VBTWZJVUxacms1UzhhV2l3?oc=5)
+
+2026-04-14 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUFxZEhQc2g1d19jbFg3WnZUbENaUkdCaGZUejRDd25FRk9WQi1GRjIxSC1uaVJTUXMxYWVHdkJNdUw3VzBiRTkybnZJNmJrV2RPTldQRkVaTmJ5QVRGSW16eHhaQU1Bdk1yMTNaOFE1NF9mekVTQzM0dW0way1VOU85TnFLZ9IBiwFBVV95cUxOLVVQaWZDR3hMLWVEMFBRcDZSeVhnWGYwT0tqVmE4bnVLR1Y2V01VV1ZOVER6V2g1NzY3bUVLdjdNc0xBUHN3bkN2OUdYM2dYb2xiMGxuOXlsaGJfclVlbE14UG9PWnlWM2ZEaE1lQXhlY2J6cXdvUVVkb0VBTWZJVUxacms1UzhhV2l3?oc=5)
 
 ---
 
@@ -76,14 +92,6 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Nicht mehr gebrochene Herzen: Inzidenz des Takotsubo-Syndroms über zwölf Jahre stabil – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkU5REdKQ1JJN2lNVzdQWXpXTVE1bVU0cFVMZEdlUG9kalNOVFpYQlYxYWJWN0RYNVpKUTBmM1Vwcm02bFZUSkUyLVhrb1p2MFdlaXU0X0JoeThqUi1TUUZsdG5zRkJ4UXhncnVxcHBqanBXMktYaWUyLTJyaGFkVWN1eGRlYmIxRE5vZ2REOTRPb3lNTVM3b2dNTkRvQjZNbm1PRHBxalNMM3NxcVdIVXFQdGt5ZW9ZVkxJRXRCNmNTTGlwT1RBWTNUdTZ3STRHTWJGaUN5cXRES1JLYW5TSHRkbkpaYUpa?oc=5)
-
-2026-04-13 <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkU5REdKQ1JJN2lNVzdQWXpXTVE1bVU0cFVMZEdlUG9kalNOVFpYQlYxYWJWN0RYNVpKUTBmM1Vwcm02bFZUSkUyLVhrb1p2MFdlaXU0X0JoeThqUi1TUUZsdG5zRkJ4UXhncnVxcHBqanBXMktYaWUyLTJyaGFkVWN1eGRlYmIxRE5vZ2REOTRPb3lNTVM3b2dNTkRvQjZNbm1PRHBxalNMM3NxcVdIVXFQdGt5ZW9ZVkxJRXRCNmNTTGlwT1RBWTNUdTZ3STRHTWJGaUN5cXRES1JLYW5TSHRkbkpaYUpa?oc=5)
-
----
-
 ### [Vitamina B1: confermata una teoria di 67 anni fa](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
@@ -100,11 +108,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [DR MAX: Why you should never go to bed after a row with your husband - Daily Mail](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEx2U1p0SWUyRVJfdENqVUpjdEg4UngyTUhSME1GY0dheUdDZ0tlWTUwRDh0UDhYOXhLT25ER3ZZYW1Tb2REaUg3aXM2Z2Nta2s1UlN6WDVkXzNIbjBhZWdOVjNkVWU1MHFQRDRJRzkwX3RHUzJrYVhueVc0MkhxY3p1Vy05aXNNYWFXd1pFOUVPNzZGYWN6ZFlfMjk1bks5SUc3aVNOYllhLVJFb3pjakZ6S3p3OENFbWFKV1lGbERXUmdZX19oTWJjZ1VaSHNsOEdYNmNQYw?oc=5)
+### [Tatuajes, toxinas y sistema inmunitario: qué conviene tener en cuenta antes de tatuarnos - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
 
-2026-04-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-12 <span class="news-indication-tag">MS</span>
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEx2U1p0SWUyRVJfdENqVUpjdEg4UngyTUhSME1GY0dheUdDZ0tlWTUwRDh0UDhYOXhLT25ER3ZZYW1Tb2REaUg3aXM2Z2Nta2s1UlN6WDVkXzNIbjBhZWdOVjNkVWU1MHFQRDRJRzkwX3RHUzJrYVhueVc0MkhxY3p1Vy05aXNNYWFXd1pFOUVPNzZGYWN6ZFlfMjk1bks5SUc3aVNOYllhLVJFb3pjakZ6S3p3OENFbWFKV1lGbERXUmdZX19oTWJjZ1VaSHNsOEdYNmNQYw?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/bosutinib-as-monohydrate/
 ---
 
 <p class="key-answer" data-question="Bosutinib (As Monohydrate) 有什麼相關新聞？">
-<strong>Bosutinib (As Monohydrate)</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bosutinib (As Monohydrate)</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/bosutinib-as-monohydrate/
 <p><a href="{{ '/drugs/bosutinib-as-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（25 則）
 
-### [«Il prurito è stato il primo sintomo, il dottore disse che era pelle secca. Così ho trovato la diagnosi da sola: ho un tumore» - Il Messaggero](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkloR0VadVA0eXBUcnVUZTdxelQ0NWl6NVVsc3cwSDZxTXN2YWlIcERfZnJwQ2lRZ212SEZac1BsQlBvblhMQXlqZmJfMFp5NzhrcnlyYUJpWkJZdzlKenFDZFQtQVE5aFZkM1BpT1VXYXFTNi11RHlibTA2T3dEYjNkRU55SVY0YmtZcFF2bFhOb19uRk1r0gGcAUFVX3lxTE10WGlsUDhiY0hDVHF1UGFCbmxFN25YNXZmYjVZTlA2WExZZjhGdkNDMDdVY1hRZXZQQW9IQTBEVjk4blFmeGUzZGZkMkZ1MmUxODVzNHZsZFVZYzdwSUxodjdnckcyaFdZYjlnVC0tcDc0QzFhR1E4N2ZsZUVKcjhXblVfYXJFYkdEQUY2ejNSOXRGQkpBMDcxTV80VA?oc=5)
+### [«Mi hanno diagnosticato un raro tumore alla vulva, poco prima avevo scoperto che mio marito mi tradiva» - Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
 
 2026-04-14 <span class="news-indication-tag">tumor</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkloR0VadVA0eXBUcnVUZTdxelQ0NWl6NVVsc3cwSDZxTXN2YWlIcERfZnJwQ2lRZ212SEZac1BsQlBvblhMQXlqZmJfMFp5NzhrcnlyYUJpWkJZdzlKenFDZFQtQVE5aFZkM1BpT1VXYXFTNi11RHlibTA2T3dEYjNkRU55SVY0YmtZcFF2bFhOb19uRk1r0gGcAUFVX3lxTE10WGlsUDhiY0hDVHF1UGFCbmxFN25YNXZmYjVZTlA2WExZZjhGdkNDMDdVY1hRZXZQQW9IQTBEVjk4blFmeGUzZGZkMkZ1MmUxODVzNHZsZFVZYzdwSUxodjdnckcyaFdZYjlnVC0tcDc0QzFhR1E4N2ZsZUVKcjhXblVfYXJFYkdEQUY2ejNSOXRGQkpBMDcxTV80VA?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
+
+---
+
+### [Un patient guérit du Sida et d'un cancer grâce à une incroyable coïncidence - Orange Actualités](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRzU1Wkk0b25oWDFYTy1uc1hscm5hc3hrSk5BQV9ZWU13Y09POVhvZ1NPQ0doSFU1Z3BhTDFQcnhSXzluLU1Ha0lZUGNhRFJ3c0w5Zmo2R3NSZk9Na3BDRXdsRGhPN1paeWpmaEpjSGZzRnVRUzVSR09paXc3Zl80RUlWUnlGd1pRdW9UajY1bUtqN0pyV3RqYU16V0ZWSndaVkstVHd5R0lFLWVKcXpRYmJLZ0hIYkF6eXA1aGc5d3c1VUdTZkpmZlNZSjlqTlFNdVZwZA?oc=5)
+
+2026-04-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRzU1Wkk0b25oWDFYTy1uc1hscm5hc3hrSk5BQV9ZWU13Y09POVhvZ1NPQ0doSFU1Z3BhTDFQcnhSXzluLU1Ha0lZUGNhRFJ3c0w5Zmo2R3NSZk9Na3BDRXdsRGhPN1paeWpmaEpjSGZzRnVRUzVSR09paXc3Zl80RUlWUnlGd1pRdW9UajY1bUtqN0pyV3RqYU16V0ZWSndaVkstVHd5R0lFLWVKcXpRYmJLZ0hIYkF6eXA1aGc5d3c1VUdTZkpmZlNZSjlqTlFNdVZwZA?oc=5)
+
+---
+
+### [«Il prurito è stato il primo sintomo, il dottore disse che era pelle secca. Così ho trovato la diagnosi da sola: ho un tumore» - Il Mattino](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRFlkQWtZQmt2cWRCbjNJNG5uaGczSWFrUUZwRmdvTDU5Zm4zMkNTQ2dEaW50YnFjMU9iOHhER3psSTVFOWlaNnM2VG14NXR0Vm1wdzNLX2lEcjlwZVh6RHoycUQ0bUxLZEYwNDNFUkVldjVqRjFkRDI1UFFDbUZibjBuQTZyOGhiLUtiZkZBYVp5OC1la2k3N3p30gGUAUFVX3lxTFBLQVNsNHJCd2tLbEZnUjQxY3FxYnMwWnRGWWVjdkZ3QjFMa0lxQU50TFhYaFI3ZkV0UEh6TldRV01KRXdRUXppQkxoajFxdERwU2JWaEljb1ItVnNBalRxUGpYSWhQaUxIaDZBSmx1Tjh5QkNUczRFQ19ib1A1SVpnSk5XcWxiNnpVcm9kNUNWUTdKQmg?oc=5)
+
+2026-04-14 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRFlkQWtZQmt2cWRCbjNJNG5uaGczSWFrUUZwRmdvTDU5Zm4zMkNTQ2dEaW50YnFjMU9iOHhER3psSTVFOWlaNnM2VG14NXR0Vm1wdzNLX2lEcjlwZVh6RHoycUQ0bUxLZEYwNDNFUkVldjVqRjFkRDI1UFFDbUZibjBuQTZyOGhiLUtiZkZBYVp5OC1la2k3N3p30gGUAUFVX3lxTFBLQVNsNHJCd2tLbEZnUjQxY3FxYnMwWnRGWWVjdkZ3QjFMa0lxQU50TFhYaFI3ZkV0UEh6TldRV01KRXdRUXppQkxoajFxdERwU2JWaEljb1ItVnNBalRxUGpYSWhQaUxIaDZBSmx1Tjh5QkNUczRFQ19ib1A1SVpnSk5XcWxiNnpVcm9kNUNWUTdKQmg?oc=5)
+
+---
+
+### [Mansfield man took Gaviscon to combat 'heartburn' - but it turned out to be cancer - Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE10gGaAUFVX3lxTE9MS0V6dWVLbFFhNng5dGl5T01kbTdPM2c3VVQ1WjhLVjNMZ0JlbDBKZ3VvMUllcHhfcXBOS3hta3g0RS1fTG42UzVTbjFxZGhIOHJuSjRPb2FLQzNMdkt3eXotMm9uZ1djWmlyTTZYT2lzNTZEelRCUTVoYjFaazB4YU9wNV9INEladlpkdlh0MTFfTmh2Mklmdnc?oc=5)
+
+2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE10gGaAUFVX3lxTE9MS0V6dWVLbFFhNng5dGl5T01kbTdPM2c3VVQ1WjhLVjNMZ0JlbDBKZ3VvMUllcHhfcXBOS3hta3g0RS1fTG42UzVTbjFxZGhIOHJuSjRPb2FLQzNMdkt3eXotMm9uZ1djWmlyTTZYT2lzNTZEelRCUTVoYjFaazB4YU9wNV9INEladlpkdlh0MTFfTmh2Mklmdnc?oc=5)
 
 ---
 
@@ -60,6 +84,14 @@ permalink: /news/bosutinib-as-monohydrate/
 
 ---
 
+### [Neue Wege für Entwicklung von Krebs- und Neurotherapien - Universität Leipzig](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHFSUVJVOV9TNjVBT1k5VUd1MUFiZVczYmdKMlhST3piRDVXMzY1QmlmQWJXVi1WSFNLM2oxYW5xekVtUUw5WmNvNGRkQVpFcWJ5c0hUUU5ua2JNcll5S3VtR2tKRE0yMllRY2ljUFlrUzFyR1A4alJDeXluNmhmZGlJeUY2dlRYTWJFS2MtU2JsY25GWTlYbGpVTEROSWJ3RXI1ejVyS2lrM1oxMkpKS0VB?oc=5)
+
+2026-04-13 <span class="news-indication-tag">Krebs</span>
+
+來源：[Universität Leipzig](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHFSUVJVOV9TNjVBT1k5VUd1MUFiZVczYmdKMlhST3piRDVXMzY1QmlmQWJXVi1WSFNLM2oxYW5xekVtUUw5WmNvNGRkQVpFcWJ5c0hUUU5ua2JNcll5S3VtR2tKRE0yMllRY2ljUFlrUzFyR1A4alJDeXluNmhmZGlJeUY2dlRYTWJFS2MtU2JsY25GWTlYbGpVTEROSWJ3RXI1ejVyS2lrM1oxMkpKS0VB?oc=5)
+
+---
+
 ### [Metformin als potenzieller Ersatz für Bewegung bei Prostatakrebs](https://news.google.com/rss/articles/CBMingFBVV95cUxQeVc2cWR5MnoxbU5mOXNUNjAxcWo4a3NsOWJyLWpDSUMzdngzU0lNdENMWkRCU2cwLWlWajJFM3VLcWltOHNlSUVYRm8wR0NuenJ0YVBjZDhsdzI0d2JzT2lERGRwS3R4bU95ZDVjbjZpY1lja2pyV2pWckJVN1hpR3JkOUpFZ0lleW1sYTB1TzRiVDc2R0RGSFdjeTU2UQ?oc=5)
 
 2026-04-13 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">Krebs</span>
@@ -68,11 +100,11 @@ permalink: /news/bosutinib-as-monohydrate/
 
 ---
 
-### [C’était comme gagner deux fois à la loterie » : un patient en rémission du VIH grâce à un coup de chance exceptionnel - Le Parisien](https://news.google.com/rss/articles/CBMinwJBVV95cUxQb3NlR21UYjRfcGFfNGhaeGlDSldZQ2ZEa2s2Z3d6cUxKWDZGMUk4OGFlaUNieFBvS0wtekdRTHQ4Mjd0NWpoclRYbGlmTGRqd2g5ektRdzlFdjNjLV9fWFpycURDY3p2MXdYdHNXTWEtdHF3czdCZ1VqZjlmQTUtOWJJNndsd1UwYVFGbGJJYnlJaTBJRy1EU0xxdkQ2U2xibWNrTmRHZUVacXhiZGFZSDRIRkNScWNXVWp1RnVmdE0wak5SZWJTcFdRYVpOdkNXajdXSDlEV3F1cjFJTDExa243U0NSM2lvNGRrSlhGLVIwZEpSeGdHM0ZpM0swem5oZ2hKNXhBNkhHQm11N2hpZEdBMGNmb1htU0VCMWc5Zw?oc=5)
+### [Former Leicester doctor charged thousands for fake treatments to patient with incurable cancer - Leicester Mercury](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGFWbkV2ZG50TXZNaXFlVHQwbHdwYzFwUFlodGF1SkZPc29ydXloQW1VX0VmYlhDODJyVVF4WUFaaUNJeVJkSkpIS2xfQklCTDA1RnBqOGR6d1RRZEJTNExqX01Sd3lOOWVKQ0hkSXRQV20zNFBaY0VIV2hPMm1nUElCZlBlcGJwYUt4aG43VmFNTDZtVmJ3MzNnektsOFBZTVhGNHhBb0c?oc=5)
 
 2026-04-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMinwJBVV95cUxQb3NlR21UYjRfcGFfNGhaeGlDSldZQ2ZEa2s2Z3d6cUxKWDZGMUk4OGFlaUNieFBvS0wtekdRTHQ4Mjd0NWpoclRYbGlmTGRqd2g5ektRdzlFdjNjLV9fWFpycURDY3p2MXdYdHNXTWEtdHF3czdCZ1VqZjlmQTUtOWJJNndsd1UwYVFGbGJJYnlJaTBJRy1EU0xxdkQ2U2xibWNrTmRHZUVacXhiZGFZSDRIRkNScWNXVWp1RnVmdE0wak5SZWJTcFdRYVpOdkNXajdXSDlEV3F1cjFJTDExa243U0NSM2lvNGRrSlhGLVIwZEpSeGdHM0ZpM0swem5oZ2hKNXhBNkhHQm11N2hpZEdBMGNmb1htU0VCMWc5Zw?oc=5)
+來源：[Leicester Mercury](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGFWbkV2ZG50TXZNaXFlVHQwbHdwYzFwUFlodGF1SkZPc29ydXloQW1VX0VmYlhDODJyVVF4WUFaaUNJeVJkSkpIS2xfQklCTDA1RnBqOGR6d1RRZEJTNExqX01Sd3lOOWVKQ0hkSXRQV20zNFBaY0VIV2hPMm1nUElCZlBlcGJwYUt4aG43VmFNTDZtVmJ3MzNnektsOFBZTVhGNHhBb0c?oc=5)
 
 ---
 
@@ -148,19 +180,11 @@ permalink: /news/bosutinib-as-monohydrate/
 
 ---
 
-### [My wife died from terminal cancer. This is what I wish I’d known as her carer - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWR5bENjWUktRkxaOW1UalBHak5IbmxZQUtENmthM2hTeWZNUjdNcGNiUjBKaURHMmVNdFdPa0MwQVNFbG9rZkVzVHZfTVhHTUxNZ3MxV29vdlp1bW52OUI1WUJLUjZ0X2RBcjhiWkE3TXhyNjBRRm5zcW5wTmlhejhqZ2xkbnR3UUNSMnQtalRSbm8?oc=5)
+### [My wife died from cancer. This is what I wish I’d known as her carer - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWR5bENjWUktRkxaOW1UalBHak5IbmxZQUtENmthM2hTeWZNUjdNcGNiUjBKaURHMmVNdFdPa0MwQVNFbG9rZkVzVHZfTVhHTUxNZ3MxV29vdlp1bW52OUI1WUJLUjZ0X2RBcjhiWkE3TXhyNjBRRm5zcW5wTmlhejhqZ2xkbnR3UUNSMnQtalRSbm8?oc=5)
 
 2026-04-13 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWR5bENjWUktRkxaOW1UalBHak5IbmxZQUtENmthM2hTeWZNUjdNcGNiUjBKaURHMmVNdFdPa0MwQVNFbG9rZkVzVHZfTVhHTUxNZ3MxV29vdlp1bW52OUI1WUJLUjZ0X2RBcjhiWkE3TXhyNjBRRm5zcW5wTmlhejhqZ2xkbnR3UUNSMnQtalRSbm8?oc=5)
-
----
-
-### [Hautkrebsrisiko: Können Tattoos Krebs auslösen? Das müssen Sie wissen](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaUJsbVljS2FxWjdVY2pnMWZ4N0xWczE1Nk9WeTZ4M2hhZ01SUDNDem1mWmRfakY5SGtDZTJpQ0x6cEkzTVhZTjh4aHRQcTA5V1BmeFNTaTYzRXZ3WVAySlZtSU1VZllKTS1WaHV0OWltUjRmdlBJbFQ1aWQ2T0w2emI5OHg4bm82Q3B4ZldjN2xRT3lnamx6a2tPV0pjX29uRm1tek1xVGpESE5uV1NnOVh1OVI3QkZWbkJ2X2cwZ1ZSMXh4dnhpRkswclI0TmVhNVNockYtd0kzNkMwMjNqUk5Bc19GbEhrdmgzUFpn0gHzAUFVX3lxTE80dkFIVUVhQUoxTWdPeHo0UGl2cGZzSkZGTlJHVTVYS3Q2a0dwTGtOZDZ3M19IeHV0eHdmR3VlSE9NWDVhMDNzZ21WOW5aZ0IzaENaT0psY0hzRXFyM3ZoSEtkS3JrSVhyZ0I5TjRpWEFYWmR1eWtTd2JXSDRuM0pxblVfRnNXNzV4YXpPcUxfbmlhU3Bud3ZPeFZMbWN2Zk9mbzVrd0VsVkN6WEtteDRYUXk4T252T2ZELTdrdEJpTnVpMXJQbFExNGZzUGNoVjB3TTZuX1FublUzem1FTWhXZURPZ1JHQUdvcmVWNTdlRW5iSQ?oc=5)
-
-2026-04-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaUJsbVljS2FxWjdVY2pnMWZ4N0xWczE1Nk9WeTZ4M2hhZ01SUDNDem1mWmRfakY5SGtDZTJpQ0x6cEkzTVhZTjh4aHRQcTA5V1BmeFNTaTYzRXZ3WVAySlZtSU1VZllKTS1WaHV0OWltUjRmdlBJbFQ1aWQ2T0w2emI5OHg4bm82Q3B4ZldjN2xRT3lnamx6a2tPV0pjX29uRm1tek1xVGpESE5uV1NnOVh1OVI3QkZWbkJ2X2cwZ1ZSMXh4dnhpRkswclI0TmVhNVNockYtd0kzNkMwMjNqUk5Bc19GbEhrdmgzUFpn0gHzAUFVX3lxTE80dkFIVUVhQUoxTWdPeHo0UGl2cGZzSkZGTlJHVTVYS3Q2a0dwTGtOZDZ3M19IeHV0eHdmR3VlSE9NWDVhMDNzZ21WOW5aZ0IzaENaT0psY0hzRXFyM3ZoSEtkS3JrSVhyZ0I5TjRpWEFYWmR1eWtTd2JXSDRuM0pxblVfRnNXNzV4YXpPcUxfbmlhU3Bud3ZPeFZMbWN2Zk9mbzVrd0VsVkN6WEtteDRYUXk4T252T2ZELTdrdEJpTnVpMXJQbFExNGZzUGNoVjB3TTZuX1FublUzem1FTWhXZURPZ1JHQUdvcmVWNTdlRW5iSQ?oc=5)
 
 ---
 
@@ -180,14 +204,6 @@ permalink: /news/bosutinib-as-monohydrate/
 
 ---
 
-### [Was ist erblich bedingter Krebs? - Der Standard](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXZlTDg5NlVlWWI2TlE3NEtUSlRTUVA5Wkc5TzFEb2R0bHhaN095NGJISnRnTGVVbUZseXgxenZlekJtMEM1VmdsbnVkVlRzMFNpZmVNRXpuekNZVzltZkdWMlBWR1FwcTNTc3lUaDVJaEF2MnRMbjRXQjE3MnhfbUZjTWI?oc=5)
-
-2026-04-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Der Standard](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXZlTDg5NlVlWWI2TlE3NEtUSlRTUVA5Wkc5TzFEb2R0bHhaN095NGJISnRnTGVVbUZseXgxenZlekJtMEM1VmdsbnVkVlRzMFNpZmVNRXpuekNZVzltZkdWMlBWR1FwcTNTc3lUaDVJaEF2MnRMbjRXQjE3MnhfbUZjTWI?oc=5)
-
----
-
 ### [Et si l'arme la plus redoutable du cancer devenait notre meilleur outil de guérison ? Le secret biologique des métastases vient d'être percé](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeHpLTV9ILXJrby1fdkk4YjN4RE9YdmY0VDNicng0S1dnQ0dyOW9ZOE16THhib2lHS01Uck9iMUM2U0lCN0xUV05CXzBkdldkU2MzcnBPUlBwUFdQcVBTQlVERXVkWXQ3YWtxTk1LNkVDSTJtdTdhdWlxWERtLXBicWJtUWhOOHo2Q2twR2IxUm1sMy1aTVdMWDB4aUtndUZjb0tDWDVoNGduREJ1bTdfdjhMYmRFQURwUldUb3NwTl83RE5EdXEyU0RJT20wN1RJU01WODFTZTB6R2ZDLTVvZ3hRSVBtWEkwN185MzJBcnVKQQ?oc=5)
 
 2026-04-13 <span class="news-indication-tag">cancer</span>
@@ -204,11 +220,11 @@ permalink: /news/bosutinib-as-monohydrate/
 
 ---
 
-### [Vorteile für risikobasiertes Brustkrebs-Screening? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
+### [Vorteile für risikobasiertes Brustkrebs-Screening?](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
 
 2026-04-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
 
 ---
 
@@ -217,38 +233,6 @@ permalink: /news/bosutinib-as-monohydrate/
 2026-04-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3ROdDBJV0lvTFVkS1dKSFM1ZGlHclN0ZUZXanJsZUxzeEd5T2VybmNGdkRnMWhiVmlsR2w5VWdnb2FjWHVNM1Q1dG4zZC1FRGJJaFlLbWxOcFJTUDZPQWtmZWk5Z096dWVMcW9rMzlsMmF1elF6YnZhV0VXZHdIVGs5T3dkckctOXFNczAxQnpnRVZVb3dKdG9ENjRIaS1SUmw4RnNNblJmbmEy?oc=5)
-
----
-
-### [«Mi hanno diagnosticato un raro tumore alla vulva, poco prima avevo scoperto che mio marito mi tradiva» - Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
-
-2026-04-12 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
-
----
-
-### [I was diagnosed with bowel cancer while my new baby lay in her pram next to me - don't ignore the signs - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFabWlXdUJURkYzcllGTFQyWG1VeklDN0FTX1Azd1d3S2laWXI0RkNnd0cwbmN2WkNNMkJLSXRYcVVXZ0JEVmpFMHRoX3JrUEh3N1VsS21ibld4Z083cmNEbWZ1U0J4ZDdkQUFRcXFRSzdQeTJPbXVJbTczekhUMWRNZjJiZTB4c0k4Yk9ENWFhNEpGQ2xJ?oc=5)
-
-2026-04-12 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFabWlXdUJURkYzcllGTFQyWG1VeklDN0FTX1Azd1d3S2laWXI0RkNnd0cwbmN2WkNNMkJLSXRYcVVXZ0JEVmpFMHRoX3JrUEh3N1VsS21ibld4Z083cmNEbWZ1U0J4ZDdkQUFRcXFRSzdQeTJPbXVJbTczekhUMWRNZjJiZTB4c0k4Yk9ENWFhNEpGQ2xJ?oc=5)
-
----
-
-### [Individuato il motore che rende aggressivi i tumori: ora si studia come fermarli prima](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU1ZYd0NzRXJkNGtrMk9mNllKVkE3dEhTbFJvdjVYT1lJWXFOT25lMjM3NnBVVVpXMU5ybDNDejVTbjRFZW45c1Y5N0l3MWNuVDBmeGFKS2g2ZDZVcVpIZGI5eG9nUUxyaXhoc1dCZjZQYkU2T0M4Z2N1WmNmY1JiaXVaTUEyX3oydmVJMEJqM0VTWWh2SFhhYm5tVVJ3S0R1QzFVemxNYWEycW43Qms0MVhCellBOFQ2UTNHN3Q3blJHM1dsTUxOYXliTVlMWnFOUVJ6MnVaOEdVdw?oc=5)
-
-2026-04-12 <span class="news-indication-tag">tumor</span>
-
-來源：[l'Adige](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU1ZYd0NzRXJkNGtrMk9mNllKVkE3dEhTbFJvdjVYT1lJWXFOT25lMjM3NnBVVVpXMU5ybDNDejVTbjRFZW45c1Y5N0l3MWNuVDBmeGFKS2g2ZDZVcVpIZGI5eG9nUUxyaXhoc1dCZjZQYkU2T0M4Z2N1WmNmY1JiaXVaTUEyX3oydmVJMEJqM0VTWWh2SFhhYm5tVVJ3S0R1QzFVemxNYWEycW43Qms0MVhCellBOFQ2UTNHN3Q3blJHM1dsTUxOYXliTVlMWnFOUVJ6MnVaOEdVdw?oc=5)
-
----
-
-### [Il cancro al seno sviluppa le metastasi secondo un "programma preciso": la scoperta dell'Università di Padova](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnNycFUxMEhXbXJ3NVJtN2NNZ0N6UWxhOTZlN2xUT1drWUMzelB3c3p2V1FRVlEtTXpoMjdJcS1reldUSWpkSm84MThab0xPSjdrUmxrVU5lQkhSSkhDYXg1NzA3Q2RTbnU4TE1KeG5YZFRoV2xZdy1HaDZpMVRQY2cxRHV6Q1dDWUNzc2J0TnQxRVZ5VGNEVll3aWZkOWNPSEo5U0ZrXzBJd1piQmVOX0lvTHpMWU45dUFEcWJUejFBUHpiZ1BOeEx4cldBTEFIUFpPWTcyZ3Jzb1U?oc=5)
-
-2026-04-12 <span class="news-indication-tag">cancro</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnNycFUxMEhXbXJ3NVJtN2NNZ0N6UWxhOTZlN2xUT1drWUMzelB3c3p2V1FRVlEtTXpoMjdJcS1reldUSWpkSm84MThab0xPSjdrUmxrVU5lQkhSSkhDYXg1NzA3Q2RTbnU4TE1KeG5YZFRoV2xZdy1HaDZpMVRQY2cxRHV6Q1dDWUNzc2J0TnQxRVZ5VGNEVll3aWZkOWNPSEo5U0ZrXzBJd1piQmVOX0lvTHpMWU45dUFEcWJUejFBUHpiZ1BOeEx4cldBTEFIUFpPWTcyZ3Jzb1U?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer-Krankheit（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer-Krankheit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Neues Forschungsprojekt der Universität Osnabrück: Den Ursachen der Alzheimer-Krankheit auf der Spur - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUzFqeWZrcXlXa05MZkJ3QnRRM1d2THNLMHc3NDNELUt6eldneWpsYmMybEFJQm5Zc21iU2Q1UU5Bb1djVGtaSGZPNWM3R0lycHRzekE1anRiSEVVbFc2X3ZIZjk5aF9fQzdEZUVxWTlheVNmV3pTTHotTHhJNThWZi1Xakg0MDdnaUdFVGN4djJZaXc5WWhlcmJjRjBjTUpiMkJjejNKZmJTeVFWcmp5MFZEbktNUi1pTWhUZzBJZENLbEhCWU1GR0pUMjJ2WjlPNFNrZldpcU1LMmRycUFDVkJnWjNfSnpoU1YtWHA0bks?oc=5)
-
-2026-04-14
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUzFqeWZrcXlXa05MZkJ3QnRRM1d2THNLMHc3NDNELUt6eldneWpsYmMybEFJQm5Zc21iU2Q1UU5Bb1djVGtaSGZPNWM3R0lycHRzekE1anRiSEVVbFc2X3ZIZjk5aF9fQzdEZUVxWTlheVNmV3pTTHotTHhJNThWZi1Xakg0MDdnaUdFVGN4djJZaXc5WWhlcmJjRjBjTUpiMkJjejNKZmJTeVFWcmp5MFZEbktNUi1pTWhUZzBJZENLbEhCWU1GR0pUMjJ2WjlPNFNrZldpcU1LMmRycUFDVkJnWjNfSnpoU1YtWHA0bks?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Is it true that … having a diverse microbiome stops you from getting sick? - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkVLRVMtN3RSUnpWeGREc0o1TXVtMHNoYVpGUTI5QnYyak9pcGFXdGtkTjhIWTVGNUVqN1hIZlZIbnhJazRBRXk1Zl9POXJpdm12c01HZEpWS0EtaVFyTll6Y2RZeVdkV3JiQVQ3QjMtMGx3cVIwYWhfYzRUNzhuVHNfY2dJUWxpYVlmUDFjMGVHLURiWHZ5eXNMUGdxVzUtLW16ZmpLVjllclNsYnp5OXFwTnRxbkJtS2ZoNHRjZkI0UQ?oc=5)
 

@@ -52,6 +52,22 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [Mansfield man took Gaviscon to combat 'heartburn' - but it turned out to be cancer - Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE10gGaAUFVX3lxTE9MS0V6dWVLbFFhNng5dGl5T01kbTdPM2c3VVQ1WjhLVjNMZ0JlbDBKZ3VvMUllcHhfcXBOS3hta3g0RS1fTG42UzVTbjFxZGhIOHJuSjRPb2FLQzNMdkt3eXotMm9uZ1djWmlyTTZYT2lzNTZEelRCUTVoYjFaazB4YU9wNV9INEladlpkdlh0MTFfTmh2Mklmdnc?oc=5)
+
+2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE10gGaAUFVX3lxTE9MS0V6dWVLbFFhNng5dGl5T01kbTdPM2c3VVQ1WjhLVjNMZ0JlbDBKZ3VvMUllcHhfcXBOS3hta3g0RS1fTG42UzVTbjFxZGhIOHJuSjRPb2FLQzNMdkt3eXotMm9uZ1djWmlyTTZYT2lzNTZEelRCUTVoYjFaazB4YU9wNV9INEladlpkdlh0MTFfTmh2Mklmdnc?oc=5)
+
+---
+
+### [Neurologist shares hobby that is 'one of the best things for your brain' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUFxZEhQc2g1d19jbFg3WnZUbENaUkdCaGZUejRDd25FRk9WQi1GRjIxSC1uaVJTUXMxYWVHdkJNdUw3VzBiRTkybnZJNmJrV2RPTldQRkVaTmJ5QVRGSW16eHhaQU1Bdk1yMTNaOFE1NF9mekVTQzM0dW0way1VOU85TnFLZ9IBiwFBVV95cUxOLVVQaWZDR3hMLWVEMFBRcDZSeVhnWGYwT0tqVmE4bnVLR1Y2V01VV1ZOVER6V2g1NzY3bUVLdjdNc0xBUHN3bkN2OUdYM2dYb2xiMGxuOXlsaGJfclVlbE14UG9PWnlWM2ZEaE1lQXhlY2J6cXdvUVVkb0VBTWZJVUxacms1UzhhV2l3?oc=5)
+
+2026-04-14 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUFxZEhQc2g1d19jbFg3WnZUbENaUkdCaGZUejRDd25FRk9WQi1GRjIxSC1uaVJTUXMxYWVHdkJNdUw3VzBiRTkybnZJNmJrV2RPTldQRkVaTmJ5QVRGSW16eHhaQU1Bdk1yMTNaOFE1NF9mekVTQzM0dW0way1VOU85TnFLZ9IBiwFBVV95cUxOLVVQaWZDR3hMLWVEMFBRcDZSeVhnWGYwT0tqVmE4bnVLR1Y2V01VV1ZOVER6V2g1NzY3bUVLdjdNc0xBUHN3bkN2OUdYM2dYb2xiMGxuOXlsaGJfclVlbE14UG9PWnlWM2ZEaE1lQXhlY2J6cXdvUVVkb0VBTWZJVUxacms1UzhhV2l3?oc=5)
+
+---
+
 ### [Warum die Impfung gegen Gürtelrose wichtiger ist als gedacht](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTQzSGRobGhudHZKd29NbFJaN0NMS0ZNYzNGOUFWT1JZaFBvVG5Fb2t0aDhURmp4MENjaXIxTHNqaHJyYVYtQTF4dWZqSFB3cTNoZXkxODV6Rlp4NjQwbW4tbzd0LWVPbDVEX2FEYUUwNjlBNk1feXg2NkdKSDVEblVIenBoc3RJODZmd3g4a0NlR2drMFdhOA?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
@@ -76,11 +92,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Nicht mehr gebrochene Herzen: Inzidenz des Takotsubo-Syndroms über zwölf Jahre stabil – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkU5REdKQ1JJN2lNVzdQWXpXTVE1bVU0cFVMZEdlUG9kalNOVFpYQlYxYWJWN0RYNVpKUTBmM1Vwcm02bFZUSkUyLVhrb1p2MFdlaXU0X0JoeThqUi1TUUZsdG5zRkJ4UXhncnVxcHBqanBXMktYaWUyLTJyaGFkVWN1eGRlYmIxRE5vZ2REOTRPb3lNTVM3b2dNTkRvQjZNbm1PRHBxalNMM3NxcVdIVXFQdGt5ZW9ZVkxJRXRCNmNTTGlwT1RBWTNUdTZ3STRHTWJGaUN5cXRES1JLYW5TSHRkbkpaYUpa?oc=5)
+### [Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - El Iceberg de Madrid](https://news.google.com/rss/articles/CBMilAJBVV95cUxOXzBDOEU2S05LZFZxLVJGcmxxbWEyTDJscjNVS3dlSXpEdHAwbWRNMU42ckw0cm5GcnZPdW0wTEM1SVkzUWVfaHlMOHpRbGt0bEdWSXhhN010cEhYMWhLbnZUSGZpVlItdlQwM2VHNHVza1Z1REp1bVNYUm5lRDFWdWswZTFFU1ZIMVRtd2ZvTGUxQ0Vhdjg4U3l5NXZqOFVNeEZxMkR0ZU1LX1lMREstdVZNREp4SVZvMllVdXBiZ00tSDdmWG9DUGRKenM4bjdpTmNhWkd3WXhIVVJ5c0J0ak9UMGl3dnBLRkd3R0VNbWoweS1tVU9oSjl4aWNlVVM3S0xWR1Etay1hQVhhdGhZUTVlSEI?oc=5)
 
-2026-04-13 <span class="news-indication-tag">MS</span>
+2026-04-13 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQkU5REdKQ1JJN2lNVzdQWXpXTVE1bVU0cFVMZEdlUG9kalNOVFpYQlYxYWJWN0RYNVpKUTBmM1Vwcm02bFZUSkUyLVhrb1p2MFdlaXU0X0JoeThqUi1TUUZsdG5zRkJ4UXhncnVxcHBqanBXMktYaWUyLTJyaGFkVWN1eGRlYmIxRE5vZ2REOTRPb3lNTVM3b2dNTkRvQjZNbm1PRHBxalNMM3NxcVdIVXFQdGt5ZW9ZVkxJRXRCNmNTTGlwT1RBWTNUdTZ3STRHTWJGaUN5cXRES1JLYW5TSHRkbkpaYUpa?oc=5)
+來源：[El Iceberg de Madrid](https://news.google.com/rss/articles/CBMilAJBVV95cUxOXzBDOEU2S05LZFZxLVJGcmxxbWEyTDJscjNVS3dlSXpEdHAwbWRNMU42ckw0cm5GcnZPdW0wTEM1SVkzUWVfaHlMOHpRbGt0bEdWSXhhN010cEhYMWhLbnZUSGZpVlItdlQwM2VHNHVza1Z1REp1bVNYUm5lRDFWdWswZTFFU1ZIMVRtd2ZvTGUxQ0Vhdjg4U3l5NXZqOFVNeEZxMkR0ZU1LX1lMREstdVZNREp4SVZvMllVdXBiZ00tSDdmWG9DUGRKenM4bjdpTmNhWkd3WXhIVVJ5c0J0ak9UMGl3dnBLRkd3R0VNbWoweS1tVU9oSjl4aWNlVVM3S0xWR1Etay1hQVhhdGhZUTVlSEI?oc=5)
 
 ---
 
@@ -92,14 +108,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Madrid blinda la inmunización infantil con 3 millones para vacunas contra sarampión y varicela - Gaceta de salud](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMmhfeDRxelgweGVJNVExLTNQRlBRR2ZIaG1SS0R1N01DemZaYUZSY0ZMc00xcDNhRkRnRHZZMU91WUcxQ1RBOVMyRGIxWjA3SGo4TlRRMlRTU0RBZHRDS0QwZk5ZaDkybEhuNGQ5RFUwdGNTT3hFZzRfZWZfaExobkoyRHlaekdoeUduRGRqeDM1NVpuV3M5ZDNVcXVibnlfUjVGWXRhT3V0NGR4UXFFbGlJTkMzRTA5clZpTFZieFJ5ZGJPVTlvYmlkalFLTHpPdmNhMzFjek8xQ25HRm52QzJ6UXBWUGtEX1ZWamdMekNJMFZoREl0TkhwOA?oc=5)
-
-2026-04-13 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMmhfeDRxelgweGVJNVExLTNQRlBRR2ZIaG1SS0R1N01DemZaYUZSY0ZMc00xcDNhRkRnRHZZMU91WUcxQ1RBOVMyRGIxWjA3SGo4TlRRMlRTU0RBZHRDS0QwZk5ZaDkybEhuNGQ5RFUwdGNTT3hFZzRfZWZfaExobkoyRHlaekdoeUduRGRqeDM1NVpuV3M5ZDNVcXVibnlfUjVGWXRhT3V0NGR4UXFFbGlJTkMzRTA5clZpTFZieFJ5ZGJPVTlvYmlkalFLTHpPdmNhMzFjek8xQ25HRm52QzJ6UXBWUGtEX1ZWamdMekNJMFZoREl0TkhwOA?oc=5)
-
----
-
 ### [Cold sore virus leaves Penrhyn-coch woman with encephalitis brain damage](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
 
 2026-04-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -108,19 +116,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [DR MAX: Why you should never go to bed after a row with your husband - Daily Mail](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEx2U1p0SWUyRVJfdENqVUpjdEg4UngyTUhSME1GY0dheUdDZ0tlWTUwRDh0UDhYOXhLT25ER3ZZYW1Tb2REaUg3aXM2Z2Nta2s1UlN6WDVkXzNIbjBhZWdOVjNkVWU1MHFQRDRJRzkwX3RHUzJrYVhueVc0MkhxY3p1Vy05aXNNYWFXd1pFOUVPNzZGYWN6ZFlfMjk1bks5SUc3aVNOYllhLVJFb3pjakZ6S3p3OENFbWFKV1lGbERXUmdZX19oTWJjZ1VaSHNsOEdYNmNQYw?oc=5)
+### [Tatuajes, toxinas y sistema inmunitario: qué conviene tener en cuenta antes de tatuarnos - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
 
-2026-04-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-12 <span class="news-indication-tag">MS</span>
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEx2U1p0SWUyRVJfdENqVUpjdEg4UngyTUhSME1GY0dheUdDZ0tlWTUwRDh0UDhYOXhLT25ER3ZZYW1Tb2REaUg3aXM2Z2Nta2s1UlN6WDVkXzNIbjBhZWdOVjNkVWU1MHFQRDRJRzkwX3RHUzJrYVhueVc0MkhxY3p1Vy05aXNNYWFXd1pFOUVPNzZGYWN6ZFlfMjk1bks5SUc3aVNOYllhLVJFb3pjakZ6S3p3OENFbWFKV1lGbERXUmdZX19oTWJjZ1VaSHNsOEdYNmNQYw?oc=5)
-
----
-
-### [Epatite A Napoli, 7 campioni positivi al Lago Fusaro di Bacoli: stop alle cozze, danni per 300mila euro](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUU3WXlPbEtqZ2NfZEFfek9sYW02ZzZiWmVPMGN1TVhOZDZwejdIVkwzNzZfalR2YzIzWEdFaURCbEJ4ODZtMXc5NE1HdnZWczlHdEExU1hvcGVPLWtUTGZqSTdkeHN0VnU5WkZaUmRnWVpfdUtoWFNqNHNDa1lMbklnSzRGeVRFV1BjZ1NhVXJBUDVXZTZpM29lRTNyNjVjdGkzeEdQOGt2V2lHa3dua1loblNKTVlyRTJYTWhHOVFxdTRrMlkweA?oc=5)
-
-2026-04-12 <span class="news-indication-tag">epatite</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUU3WXlPbEtqZ2NfZEFfek9sYW02ZzZiWmVPMGN1TVhOZDZwejdIVkwzNzZfalR2YzIzWEdFaURCbEJ4ODZtMXc5NE1HdnZWczlHdEExU1hvcGVPLWtUTGZqSTdkeHN0VnU5WkZaUmRnWVpfdUtoWFNqNHNDa1lMbklnSzRGeVRFV1BjZ1NhVXJBUDVXZTZpM29lRTNyNjVjdGkzeEdQOGt2V2lHa3dua1loblNKTVlyRTJYTWhHOVFxdTRrMlkweA?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0FHNnlnUC1lVUYtejM2ZVY4bnBTWVprazlxaEM2bl8wNUlzZTVCSl9yQWdhTnpwMVJSU240Z0V1Y3ZSZ3J2V2gyeW5uMkdjZldCb0pncmgwcWhaSTJjMldwWndDckFrT1ZBUkdzSjNBdkR5Q3hYV0N0TlZqNEw1dnpfdTQxX29CX2FoNHNTVzBwZ1d2ckxVWml3LV9fNVY2YkdhZ3lJNjhDWHJtUW9fU2tIX3VQM0ZqSzd4aF9B?oc=5)
 
 ---
 

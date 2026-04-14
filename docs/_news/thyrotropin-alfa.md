@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [El cribado de fibrilación auricular triplica el impacto preventivo frente a otras cardiopatías - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0NTVDJVSC0yLUhjY2pQZHFGbmo3UC05Z2E0NWpwVUdnbjZ1V2lTcVdhb2R1THdEb3lKUHJZNXlHV1VxZ1IxbURaaVlKZ25Nd0N5WTQ0NkNyN3ltNVNkOWQyMm5MZTVyc3A0d1RubjJXak8xMHlrSE5RR1VBb1haS0VLWWp3NVl6YVdVazN0aHBDZ1lxeXJhb0VOci03Tl9neXB5QmNQSmtPQkpiQWNIaXNFQW9SU2ZURFdOT0MxWnZUZ9IBvAFBVV95cUxQZVhXNkJSREJSN3N3VU0tN3ZLdFZTQVhrWjRCcHhfcnhRR0h2cm9FbWtFalRrSXhWdmMxMjVXRmhxbUY5YzJ0aFc4RzdzYjYwS2YxS2dBcTRwRTk0enA5dlhrRlV0dzBIZnNVRkdaZzVoLVZ6ampGUmk1dEFaV2xPZktFWXo1WkQ5ZWtMMFBXZm5sSndjM2lsc2pua0VUcnpvQ3ZRQTF2TDVuLVg5Z1VGRkYxemFsRzFkNWwzag?oc=5)
+### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
-2026-04-13 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">fibrilación auricular</span>
+2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0NTVDJVSC0yLUhjY2pQZHFGbmo3UC05Z2E0NWpwVUdnbjZ1V2lTcVdhb2R1THdEb3lKUHJZNXlHV1VxZ1IxbURaaVlKZ25Nd0N5WTQ0NkNyN3ltNVNkOWQyMm5MZTVyc3A0d1RubjJXak8xMHlrSE5RR1VBb1haS0VLWWp3NVl6YVdVazN0aHBDZ1lxeXJhb0VOci03Tl9neXB5QmNQSmtPQkpiQWNIaXNFQW9SU2ZURFdOT0MxWnZUZ9IBvAFBVV95cUxQZVhXNkJSREJSN3N3VU0tN3ZLdFZTQVhrWjRCcHhfcnhRR0h2cm9FbWtFalRrSXhWdmMxMjVXRmhxbUY5YzJ0aFc4RzdzYjYwS2YxS2dBcTRwRTk0enA5dlhrRlV0dzBIZnNVRkdaZzVoLVZ6ampGUmk1dEFaV2xPZktFWXo1WkQ5ZWtMMFBXZm5sSndjM2lsc2pua0VUcnpvQ3ZRQTF2TDVuLVg5Z1VGRkYxemFsRzFkNWwzag?oc=5)
-
----
-
-### [Las diferencias por sexo marcan el riesgo y el pronóstico de la cardiopatía isquémica - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWYyeEZ3LWJVeGtXanQxQWF2Xzh6bFJIUnVwOXptaFlSVE5sQ2JNbUdsRVNfWHZxZzhVWm1ZcHN1VkdTTjRaeVkyV2tJbTluNm9WalJLX0NpcksxajRRMTM0aU0weDktZWJ0U3NmSnpDWGVaUnJvZ0ZyT0NGWFFxd2w0cjlURmg5V3lrVDhDbXhZX2NsV1NjU0FLU0JkWkZreExheXd4azhEVjYzallXT0s3dlUyS1VnM2VYUGg1aDJfZ9IBvAFBVV95cUxPUkRtUndNOHFUX3F1VTFmbF9yX3BXc1hTUnVBaWlyVmFPdTRZY20zS1psLXlpZGRPMnBoY3hyUjNNN0NUWVdraTVMQktfR053T1MxZlJ2LVFncmtwaWgzamxUc054ZFN6WWRtY0ZYTTF0aGRyTzJEa3NkWjRvNGxkMDBkRGxCOU42ZzZkYTNqVDFPMFVldTJJWDJaNEEzWDRod3BDaURPcmhvMXBHY1AyZlhydzVxNG1XRmdSUA?oc=5)
-
-2026-04-13 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWYyeEZ3LWJVeGtXanQxQWF2Xzh6bFJIUnVwOXptaFlSVE5sQ2JNbUdsRVNfWHZxZzhVWm1ZcHN1VkdTTjRaeVkyV2tJbTluNm9WalJLX0NpcksxajRRMTM0aU0weDktZWJ0U3NmSnpDWGVaUnJvZ0ZyT0NGWFFxd2w0cjlURmg5V3lrVDhDbXhZX2NsV1NjU0FLU0JkWkZreExheXd4azhEVjYzallXT0s3dlUyS1VnM2VYUGg1aDJfZ9IBvAFBVV95cUxPUkRtUndNOHFUX3F1VTFmbF9yX3BXc1hTUnVBaWlyVmFPdTRZY20zS1psLXlpZGRPMnBoY3hyUjNNN0NUWVdraTVMQktfR053T1MxZlJ2LVFncmtwaWgzamxUc054ZFN6WWRtY0ZYTTF0aGRyTzJEa3NkWjRvNGxkMDBkRGxCOU42ZzZkYTNqVDFPMFVldTJJWDJaNEEzWDRod3BDaURPcmhvMXBHY1AyZlhydzVxNG1XRmdSUA?oc=5)
-
----
-
-### [WHO warnt vor stiller Epidemie: Jeder dritte Erwachsene hat Bluthochdruck - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
-
-2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
+來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
 ---
 

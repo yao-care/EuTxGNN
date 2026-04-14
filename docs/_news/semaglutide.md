@@ -44,9 +44,25 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（6 則）
 
+### [Obésité, diabète, hyperglycémie : d’ici 2050, 1,8 milliard de personnes seront atteintes de la maladie du « foie gras - Yahoo Actualités](https://news.google.com/rss/articles/CBMingFBVV95cUxOQi1nZnNaQWROS0pZWVFzdFEtb1pEOEhSdzI5Z1VQWGJub3A0LUIyNzBkSHlkV0RDYjZfTkRYNE5KOWJEOW9EVDRubTFQQnFET1dGYTc2NG5uU1YxeHEzRTVnMTdzTE4xZnJhdmJTaXB4cklTbXIxMHh4blZwMFgxdHZ5T0dSNlUxYmNqNGRFZTVDSk4tT1hIVjFVa28tQQ?oc=5)
+
+2026-04-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMingFBVV95cUxOQi1nZnNaQWROS0pZWVFzdFEtb1pEOEhSdzI5Z1VQWGJub3A0LUIyNzBkSHlkV0RDYjZfTkRYNE5KOWJEOW9EVDRubTFQQnFET1dGYTc2NG5uU1YxeHEzRTVnMTdzTE4xZnJhdmJTaXB4cklTbXIxMHh4blZwMFgxdHZ5T0dSNlUxYmNqNGRFZTVDSk4tT1hIVjFVa28tQQ?oc=5)
+
+---
+
+### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
+
+2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
+
+---
+
 ### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
-2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
@@ -73,22 +89,6 @@ permalink: /news/semaglutide/
 2026-04-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
-
----
-
-### [El ADN ayuda a determinar el éxito de los fármacos para perder peso, según un estudio - Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
-
-2026-04-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
-
----
-
-### [WHO warnt vor stiller Epidemie: Jeder dritte Erwachsene hat Bluthochdruck - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
-
-2026-04-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2M2bjM5TUsyQlNOZHFFOTdDNklhWFVLWjhnczlZaVZqbm5fNUpNRGRkd1pDX0d2MVZ0YTNwcXZIMU1uVmFIeUNmbDJZSGhTc3E5REZZTHQwdXNPSGdVSHY0eG5fRXJRTmZocUVPdzZCVFpHN3FLNERnaEVWTXJxWWRqbXpuejd5RVB1S2tlbkNraFNrNTlFMWJRalViRWl4TEJ5WUF3aFFzTnNKMnhJU0NjY1d3UVZ2amd6dHpoMEVURlpWZV9aTWVpUQ?oc=5)
 
 ---
 
