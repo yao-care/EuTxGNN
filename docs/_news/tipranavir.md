@@ -14,7 +14,7 @@ permalink: /news/tipranavir/
 ---
 
 <p class="key-answer" data-question="Tipranavir 有什麼相關新聞？">
-<strong>Tipranavir</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tipranavir</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/tipranavir/
 <p><a href="{{ '/drugs/tipranavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（27 則）
 
-### [L'un des cancers les plus redoutables vient d'être anéanti en laboratoire : ce nouveau gel radioactif détruit les tumeurs de l'intérieur](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR3dXTzluM0NON2xRQlVPQ0NudDFMbko0ZmhOVjNjVlVBNWZnY3pNVXdNaHhRTHFpZGVzSnFxRFJ1blo2a2RxYlQ2c041Wmloc19jQ2pWMjVMOHlNWXV6Yko1ckQ2UTBpRE1EMlpGZmx3a0hXWWZiUEhzNEF3V3BMTmxnWHV6Q1phQ2RTbXRwY3BCQ3ptd1ZCc3h0YnI1WmkzNEdWSUFDOUlIcjN5SzhOdEdaM1paaU9MTHpMcTFKa045YVR3aVhmUDR1WUtoX2RJSzJMMjloMU8xOHJNcUpfMVB5UE1FMFoxUlZ3?oc=5)
+### [C’était comme gagner deux fois à la loterie » : un patient en rémission du VIH grâce à un coup de chance exceptionnel - Le Parisien](https://news.google.com/rss/articles/CBMinwJBVV95cUxQb3NlR21UYjRfcGFfNGhaeGlDSldZQ2ZEa2s2Z3d6cUxKWDZGMUk4OGFlaUNieFBvS0wtekdRTHQ4Mjd0NWpoclRYbGlmTGRqd2g5ektRdzlFdjNjLV9fWFpycURDY3p2MXdYdHNXTWEtdHF3czdCZ1VqZjlmQTUtOWJJNndsd1UwYVFGbGJJYnlJaTBJRy1EU0xxdkQ2U2xibWNrTmRHZUVacXhiZGFZSDRIRkNScWNXVWp1RnVmdE0wak5SZWJTcFdRYVpOdkNXajdXSDlEV3F1cjFJTDExa243U0NSM2lvNGRrSlhGLVIwZEpSeGdHM0ZpM0swem5oZ2hKNXhBNkhHQm11N2hpZEdBMGNmb1htU0VCMWc5Zw?oc=5)
 
 2026-04-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR3dXTzluM0NON2xRQlVPQ0NudDFMbko0ZmhOVjNjVlVBNWZnY3pNVXdNaHhRTHFpZGVzSnFxRFJ1blo2a2RxYlQ2c041Wmloc19jQ2pWMjVMOHlNWXV6Yko1ckQ2UTBpRE1EMlpGZmx3a0hXWWZiUEhzNEF3V3BMTmxnWHV6Q1phQ2RTbXRwY3BCQ3ptd1ZCc3h0YnI1WmkzNEdWSUFDOUlIcjN5SzhOdEdaM1paaU9MTHpMcTFKa045YVR3aVhmUDR1WUtoX2RJSzJMMjloMU8xOHJNcUpfMVB5UE1FMFoxUlZ3?oc=5)
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMinwJBVV95cUxQb3NlR21UYjRfcGFfNGhaeGlDSldZQ2ZEa2s2Z3d6cUxKWDZGMUk4OGFlaUNieFBvS0wtekdRTHQ4Mjd0NWpoclRYbGlmTGRqd2g5ektRdzlFdjNjLV9fWFpycURDY3p2MXdYdHNXTWEtdHF3czdCZ1VqZjlmQTUtOWJJNndsd1UwYVFGbGJJYnlJaTBJRy1EU0xxdkQ2U2xibWNrTmRHZUVacXhiZGFZSDRIRkNScWNXVWp1RnVmdE0wak5SZWJTcFdRYVpOdkNXajdXSDlEV3F1cjFJTDExa243U0NSM2lvNGRrSlhGLVIwZEpSeGdHM0ZpM0swem5oZ2hKNXhBNkhHQm11N2hpZEdBMGNmb1htU0VCMWc5Zw?oc=5)
 
 ---
 
@@ -57,6 +57,14 @@ permalink: /news/tipranavir/
 2026-04-13 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXUzTWpRcjl4X3JHM1RNMno2aW5PS3ZpMVdkZ3VaT0FELTVTZ0pNNWVOZDFaRDllSEZuMzdNM2tsdXRfZHpXWE0xNWFsQUZaazY1b2xiQUtIeDZXaktGSHRIbUV3VmtYLTljbEdBbUtfeXEwbkZMT2RRMENjWDRjNnVYellMUXhPUmUzNmd6NG90OXpiRmd6R2YtZlNORGxCOUNpLXo1VG1GTmYx?oc=5)
+
+---
+
+### [L'un des cancers les plus redoutables vient d'être anéanti en laboratoire : ce nouveau gel radioactif détruit les tumeurs de l'intérieur](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR3dXTzluM0NON2xRQlVPQ0NudDFMbko0ZmhOVjNjVlVBNWZnY3pNVXdNaHhRTHFpZGVzSnFxRFJ1blo2a2RxYlQ2c041Wmloc19jQ2pWMjVMOHlNWXV6Yko1ckQ2UTBpRE1EMlpGZmx3a0hXWWZiUEhzNEF3V3BMTmxnWHV6Q1phQ2RTbXRwY3BCQ3ptd1ZCc3h0YnI1WmkzNEdWSUFDOUlIcjN5SzhOdEdaM1paaU9MTHpMcTFKa045YVR3aVhmUDR1WUtoX2RJSzJMMjloMU8xOHJNcUpfMVB5UE1FMFoxUlZ3?oc=5)
+
+2026-04-13 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR3dXTzluM0NON2xRQlVPQ0NudDFMbko0ZmhOVjNjVlVBNWZnY3pNVXdNaHhRTHFpZGVzSnFxRFJ1blo2a2RxYlQ2c041Wmloc19jQ2pWMjVMOHlNWXV6Yko1ckQ2UTBpRE1EMlpGZmx3a0hXWWZiUEhzNEF3V3BMTmxnWHV6Q1phQ2RTbXRwY3BCQ3ptd1ZCc3h0YnI1WmkzNEdWSUFDOUlIcjN5SzhOdEdaM1paaU9MTHpMcTFKa045YVR3aVhmUDR1WUtoX2RJSzJMMjloMU8xOHJNcUpfMVB5UE1FMFoxUlZ3?oc=5)
 
 ---
 
@@ -76,19 +84,19 @@ permalink: /news/tipranavir/
 
 ---
 
+### [Jusqu'à 5 fois moins de risque : des chercheurs découvrent un lien étonnant entre mariage et cancer](https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzFIYW45Unp4WWtBR3FNVFlWbEdLRkdLczlSQUpuWFFwWE45NS1pY05YbVp2YW9XMnJzdjdSUVVuLS1MTEpFaHdwV1FsU3lacjNXLWwyR0ZWb1NhcF85clBidzNwaXpXazBxblFxaXlMV1NWRkxWU0J6Q2lFVXlXMQ?oc=5)
+
+2026-04-13 <span class="news-indication-tag">cancer</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzFIYW45Unp4WWtBR3FNVFlWbEdLRkdLczlSQUpuWFFwWE45NS1pY05YbVp2YW9XMnJzdjdSUVVuLS1MTEpFaHdwV1FsU3lacjNXLWwyR0ZWb1NhcF85clBidzNwaXpXazBxblFxaXlMV1NWRkxWU0J6Q2lFVXlXMQ?oc=5)
+
+---
+
 ### [Krebs in jungen Jahren: Darum ist Nachsorge für Betroffene besonders wichtig](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHd2dk1YQUFGemt5OWE3TFhHZTlJd2JxVlZuMTRoUFlqNnlVbzdaR0RyNkdJZTFBY2dHeURxa2pibFVBeXJDekZ1TWtIWTRZdy03dGJRVW9wMUp3UEFHbGZFMkVXblFiU1FvNDJoUHphaWxCOHNMX0hBbXRyRXBiV2FVVG9WRm5SLWdQekY0SzVUYkdyelUtZGh4ZzkyWGpjY0E1My1aUEVCT05OcFFDNkZIem1YWVFsaTlkTW51RnFiNHM?oc=5)
 
 2026-04-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHd2dk1YQUFGemt5OWE3TFhHZTlJd2JxVlZuMTRoUFlqNnlVbzdaR0RyNkdJZTFBY2dHeURxa2pibFVBeXJDekZ1TWtIWTRZdy03dGJRVW9wMUp3UEFHbGZFMkVXblFiU1FvNDJoUHphaWxCOHNMX0hBbXRyRXBiV2FVVG9WRm5SLWdQekY0SzVUYkdyelUtZGh4ZzkyWGpjY0E1My1aUEVCT05OcFFDNkZIem1YWVFsaTlkTW51RnFiNHM?oc=5)
-
----
-
-### [Et si le mariage faisait baisser le risque de cancer ?](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EcGpSaFBvSlVZcVU0aVVJckk1enhhWmxwQWk3aGNMV3dRRm9kWG94VHVSemUxQXlZMmVjc1FKQm43N0lYMzE4Nks1X2htdk5mLUJuQkVQaWcweHRIYVJXelQ5SQ?oc=5)
-
-2026-04-13 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EcGpSaFBvSlVZcVU0aVVJckk1enhhWmxwQWk3aGNMV3dRRm9kWG94VHVSemUxQXlZMmVjc1FKQm43N0lYMzE4Nks1X2htdk5mLUJuQkVQaWcweHRIYVJXelQ5SQ?oc=5)
 
 ---
 
@@ -142,7 +150,7 @@ permalink: /news/tipranavir/
 
 ### [AI to predict how bowel cancer patients will respond to new NHS drug - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RSd1d3VDM2OG9nTDV4ZDVvbDJzMUd2Qm93SHJiQ0Z4RzBITHd5YVo4TjNaMmJUWEpRaF91ampzS1llQnp2TGhEaDlYM3Jlbzl6NS1IbG91U0RoUGd1N3EyQjVuWkk2SGpuaUlsYWVtLUVCekZScFZsZWxfNm1KMkFXVThFM3Zi?oc=5)
 
-2026-04-13 <span class="news-indication-tag">cancer</span>
+2026-04-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RSd1d3VDM2OG9nTDV4ZDVvbDJzMUd2Qm93SHJiQ0Z4RzBITHd5YVo4TjNaMmJUWEpRaF91ampzS1llQnp2TGhEaDlYM3Jlbzl6NS1IbG91U0RoUGd1N3EyQjVuWkk2SGpuaUlsYWVtLUVCekZScFZsZWxfNm1KMkFXVThFM3Zi?oc=5)
 
@@ -172,11 +180,11 @@ permalink: /news/tipranavir/
 
 ---
 
-### ['I'd never heard of my type of breast cancer — it didn't start with a lump' - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVNJNUtFaDBoNmVCeGlVQ1ZoWWdhdXdVM3lmQ1FsN3Q1WlZYNHVZa0M1djhtYmNXMG1yLW1VaVBVVGU1UlowMlVfNmZRaDBvM3RXU2Vtb0JUcG8tYjl5c1UtNGxTRmEtNFJTSXVMQ0lUQmNvYXQ3ZVNQbTZtdWVaa0s2RVQ1QXJfUFo3MnJLb3E3UDNDdkHSAZsBQVVfeXFMTkVSa1hDSHhWaHlhZW5BZnpXSXVZNkVxajVIRkQybXl6RjdyMVZsamJOSGk2QnRtbnRtYXRWT2ZqYklraVJuc1R1WTdEcEtqNlRRSExoTENRSVBOVmhrUUlzNDVXeFJHcDBVMHkxeEJrTVBoM3VRU0JGV1RHVDYwLUlEd0FFX0gzMW9KYzNkMDllUF94cW1MM1N6c1E?oc=5)
+### ['I'd never heard of my type of breast cancer — it didn't start with a lump' - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVNJNUtFaDBoNmVCeGlVQ1ZoWWdhdXdVM3lmQ1FsN3Q1WlZYNHVZa0M1djhtYmNXMG1yLW1VaVBVVGU1UlowMlVfNmZRaDBvM3RXU2Vtb0JUcG8tYjl5c1UtNGxTRmEtNFJTSXVMQ0lUQmNvYXQ3ZVNQbTZtdWVaa0s2RVQ1QXJfUFo3MnJLb3E3UDNDdkE?oc=5)
 
 2026-04-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVNJNUtFaDBoNmVCeGlVQ1ZoWWdhdXdVM3lmQ1FsN3Q1WlZYNHVZa0M1djhtYmNXMG1yLW1VaVBVVGU1UlowMlVfNmZRaDBvM3RXU2Vtb0JUcG8tYjl5c1UtNGxTRmEtNFJTSXVMQ0lUQmNvYXQ3ZVNQbTZtdWVaa0s2RVQ1QXJfUFo3MnJLb3E3UDNDdkHSAZsBQVVfeXFMTkVSa1hDSHhWaHlhZW5BZnpXSXVZNkVxajVIRkQybXl6RjdyMVZsamJOSGk2QnRtbnRtYXRWT2ZqYklraVJuc1R1WTdEcEtqNlRRSExoTENRSVBOVmhrUUlzNDVXeFJHcDBVMHkxeEJrTVBoM3VRU0JGV1RHVDYwLUlEd0FFX0gzMW9KYzNkMDllUF94cW1MM1N6c1E?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVNJNUtFaDBoNmVCeGlVQ1ZoWWdhdXdVM3lmQ1FsN3Q1WlZYNHVZa0M1djhtYmNXMG1yLW1VaVBVVGU1UlowMlVfNmZRaDBvM3RXU2Vtb0JUcG8tYjl5c1UtNGxTRmEtNFJTSXVMQ0lUQmNvYXQ3ZVNQbTZtdWVaa0s2RVQ1QXJfUFo3MnJLb3E3UDNDdkE?oc=5)
 
 ---
 
@@ -196,11 +204,11 @@ permalink: /news/tipranavir/
 
 ---
 
-### [Vorteile für risikobasiertes Brustkrebs-Screening?](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
+### [Vorteile für risikobasiertes Brustkrebs-Screening? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
 
 2026-04-13 <span class="news-indication-tag">Krebs</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
 
 ---
 
@@ -209,14 +217,6 @@ permalink: /news/tipranavir/
 2026-04-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3ROdDBJV0lvTFVkS1dKSFM1ZGlHclN0ZUZXanJsZUxzeEd5T2VybmNGdkRnMWhiVmlsR2w5VWdnb2FjWHVNM1Q1dG4zZC1FRGJJaFlLbWxOcFJTUDZPQWtmZWk5Z096dWVMcW9rMzlsMmF1elF6YnZhV0VXZHdIVGs5T3dkckctOXFNczAxQnpnRVZVb3dKdG9ENjRIaS1SUmw4RnNNblJmbmEy?oc=5)
-
----
-
-### [Heartbreak as brave boy, six, dies after third cancer battle - Manchester Evening News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmxoUHFBUXFKckk0WW1scENSNDhIbEMwZGhnRUlGY21YaC1GYndPMWNVbXlXNHZ4MXlTMXVVRnA1RGhLVWF0MzRROXJtSmJiczREWm9USjUzZEZtUUxZVU8zMTZnN0ZUWkxNVG1XMTI5V2JMRUpCdi1DWkFnUkFmOTNCcmJJcG5wamJVNzJTXzlyNkUxYW03Qk02bmRCY0N4ZDhGaG1PZkoyMWfSAbABQVVfeXFMTi1YZFJubV8weG1VbkNaN1Rmay1STnVsY3c4bkhTMEU5VFVkcDZkUmVObzBsZXV4UGd1RTlpM3d4bDZ6WFZQYTBGRUxxak9oVjAxVFJYaUU1SkJWVzZ6Q1NINjE2M3VPbnc5NHdIQzRIdFhyLUp6OVdUTGlHdndfOWdGWUpmOEdhWHRFaVBTWWd1N3ZrZE1xQWgxNTVhVHZJTnVlTGtTRnAxR2hxRDFzeG8?oc=5)
-
-2026-04-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmxoUHFBUXFKckk0WW1scENSNDhIbEMwZGhnRUlGY21YaC1GYndPMWNVbXlXNHZ4MXlTMXVVRnA1RGhLVWF0MzRROXJtSmJiczREWm9USjUzZEZtUUxZVU8zMTZnN0ZUWkxNVG1XMTI5V2JMRUpCdi1DWkFnUkFmOTNCcmJJcG5wamJVNzJTXzlyNkUxYW03Qk02bmRCY0N4ZDhGaG1PZkoyMWfSAbABQVVfeXFMTi1YZFJubV8weG1VbkNaN1Rmay1STnVsY3c4bkhTMEU5VFVkcDZkUmVObzBsZXV4UGd1RTlpM3d4bDZ6WFZQYTBGRUxxak9oVjAxVFJYaUU1SkJWVzZ6Q1NINjE2M3VPbnc5NHdIQzRIdFhyLUp6OVdUTGlHdndfOWdGWUpmOEdhWHRFaVBTWWd1N3ZrZE1xQWgxNTVhVHZJTnVlTGtTRnAxR2hxRDFzeG8?oc=5)
 
 ---
 
@@ -249,30 +249,6 @@ permalink: /news/tipranavir/
 2026-04-12 <span class="news-indication-tag">cancro</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnNycFUxMEhXbXJ3NVJtN2NNZ0N6UWxhOTZlN2xUT1drWUMzelB3c3p2V1FRVlEtTXpoMjdJcS1reldUSWpkSm84MThab0xPSjdrUmxrVU5lQkhSSkhDYXg1NzA3Q2RTbnU4TE1KeG5YZFRoV2xZdy1HaDZpMVRQY2cxRHV6Q1dDWUNzc2J0TnQxRVZ5VGNEVll3aWZkOWNPSEo5U0ZrXzBJd1piQmVOX0lvTHpMWU45dUFEcWJUejFBUHpiZ1BOeEx4cldBTEFIUFpPWTcyZ3Jzb1U?oc=5)
-
----
-
-### [El impacto silencioso del síndrome de Cushing en la salud cardiovascular y metabólica - Publimetro Colombia](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTcwSXpFd0x4Z2pPLWVReVpqX05DZE90YkQ3clNXMWY5S0FoX0l2aXphYkpvdXJMUDN0OVR5TUZVZTBfZ3pqYm12U1drOU1VSFZuM21iN0lILUlSbWtzeXpRSjlmQmlUallJekZndGQ1bXlhYWI5U1RQdlQwanhTZzhRN2tjT1BmLThVR0s2S2JwMWpWZ0xiQjVDdkl1TldFdk0wLUh2VXdrd0dEdzNWcFM0ZnNRVUV6RDNWaEVLVnRoNkY4SFFfWkJyT1dWQjJl?oc=5)
-
-2026-04-12 <span class="news-indication-tag">tumor</span>
-
-來源：[Publimetro Colombia](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTcwSXpFd0x4Z2pPLWVReVpqX05DZE90YkQ3clNXMWY5S0FoX0l2aXphYkpvdXJMUDN0OVR5TUZVZTBfZ3pqYm12U1drOU1VSFZuM21iN0lILUlSbWtzeXpRSjlmQmlUallJekZndGQ1bXlhYWI5U1RQdlQwanhTZzhRN2tjT1BmLThVR0s2S2JwMWpWZ0xiQjVDdkl1TldFdk0wLUh2VXdrd0dEdzNWcFM0ZnNRVUV6RDNWaEVLVnRoNkY4SFFfWkJyT1dWQjJl?oc=5)
-
----
-
-### [I paid £6k for botched Turkey cosmetic op – it went so badly docs thought I had cancer - The Scottish Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXdoYlY3MkNqT3lGLV9TT1RIWVRPU2pxbWI1SzdZU2ZzbV90ZU9DdHMtYXZ2VkU2WDBQeWNsMDIySjRUcnZBSS1QSEtiTUVPcmw1c0FqVjRob2RjQUIxLTZKemtzSmxkSHp1aDBub3RlVUNQUi00Ynp6aW5Ta1ltdUJQRmxfTVVTemJoNUVsME55UXpybEVWUmhSbVNGSTVHT3c1U1hPMTk?oc=5)
-
-2026-04-11 <span class="news-indication-tag">cancer</span>
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXdoYlY3MkNqT3lGLV9TT1RIWVRPU2pxbWI1SzdZU2ZzbV90ZU9DdHMtYXZ2VkU2WDBQeWNsMDIySjRUcnZBSS1QSEtiTUVPcmw1c0FqVjRob2RjQUIxLTZKemtzSmxkSHp1aDBub3RlVUNQUi00Ynp6aW5Ta1ltdUJQRmxfTVVTemJoNUVsME55UXpybEVWUmhSbVNGSTVHT3c1U1hPMTk?oc=5)
-
----
-
-### ["Il aide à prévenir le cancer colorectal" : selon un gastro-entérologue, voici le meilleur lait pour les microbiotes sensibles - Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
-
-2026-04-11 <span class="news-indication-tag">cancer</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjNiTi1JdnFZUjJlVENoaU9lMl9ETjdZeUtVM3Bnc1c5TzlINzZxeHdNcDVFZVRlU215a0d3SVJpYk8tOGNLSkNPU3AzMTdlLWZwRkNucFZIbmRrbFRPV1RmdVZlOGNRdk9NTDdTY0FMVTVHVkl4d2NLUWpkNkM4YjdsYU1ZdVRwek1uUFZB?oc=5)
 
 ---
 

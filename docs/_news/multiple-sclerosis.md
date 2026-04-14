@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。5 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。7 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>5 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>7 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
 ### [Menopause beschleunigt MS-Progression nicht - Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
 
 2026-04-13
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
+
+---
+
+### [AI to predict how bowel cancer patients will respond to new NHS drug - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RSd1d3VDM2OG9nTDV4ZDVvbDJzMUd2Qm93SHJiQ0Z4RzBITHd5YVo4TjNaMmJUWEpRaF91ampzS1llQnp2TGhEaDlYM3Jlbzl6NS1IbG91U0RoUGd1N3EyQjVuWkk2SGpuaUlsYWVtLUVCekZScFZsZWxfNm1KMkFXVThFM3Zi?oc=5)
+
+2026-04-13
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RSd1d3VDM2OG9nTDV4ZDVvbDJzMUd2Qm93SHJiQ0Z4RzBITHd5YVo4TjNaMmJUWEpRaF91ampzS1llQnp2TGhEaDlYM3Jlbzl6NS1IbG91U0RoUGd1N3EyQjVuWkk2SGpuaUlsYWVtLUVCekZScFZsZWxfNm1KMkFXVThFM3Zi?oc=5)
 
 ---
 
@@ -72,11 +80,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [The neuroscientist with the solution to chronic pain - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZOZkdwT2IzcTNOMG90LUxmREwtbTdmbjFJV0pIbTREdG5sWUNmMUVHaVNYQTA2ZlFuWTFHMjgwVEd3U2U4WDZianduQjBoV3lCR1ZYUlRqUF9jdzJMRng0bXl3dkp6RGptN3pMYmNHT0k3NnJUdUtVM2FUanQ2QThRMjJFYWdWWTVwcmNEaXNkdnVQcFRpZERtdU9IZEVSM3pIMHRIM0o0X1k?oc=5)
+### [Vitamina B1: confermata una teoria di 67 anni fa](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
 
 2026-04-13
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZOZkdwT2IzcTNOMG90LUxmREwtbTdmbjFJV0pIbTREdG5sWUNmMUVHaVNYQTA2ZlFuWTFHMjgwVEd3U2U4WDZianduQjBoV3lCR1ZYUlRqUF9jdzJMRng0bXl3dkp6RGptN3pMYmNHT0k3NnJUdUtVM2FUanQ2QThRMjJFYWdWWTVwcmNEaXNkdnVQcFRpZERtdU9IZEVSM3pIMHRIM0o0X1k?oc=5)
+來源：[tomshw.it](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
+
+---
+
+### [Cold sore virus leaves Penrhyn-coch woman with encephalitis brain damage](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
+
+2026-04-12
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
 
 ---
 

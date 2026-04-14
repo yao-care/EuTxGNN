@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
 
 ### [Menopause beschleunigt MS-Progression nicht - Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
+
+---
+
+### [AI to predict how bowel cancer patients will respond to new NHS drug - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RSd1d3VDM2OG9nTDV4ZDVvbDJzMUd2Qm93SHJiQ0Z4RzBITHd5YVo4TjNaMmJUWEpRaF91ampzS1llQnp2TGhEaDlYM3Jlbzl6NS1IbG91U0RoUGd1N3EyQjVuWkk2SGpuaUlsYWVtLUVCekZScFZsZWxfNm1KMkFXVThFM3Zi?oc=5)
+
+2026-04-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RSd1d3VDM2OG9nTDV4ZDVvbDJzMUd2Qm93SHJiQ0Z4RzBITHd5YVo4TjNaMmJUWEpRaF91ampzS1llQnp2TGhEaDlYM3Jlbzl6NS1IbG91U0RoUGd1N3EyQjVuWkk2SGpuaUlsYWVtLUVCekZScFZsZWxfNm1KMkFXVThFM3Zi?oc=5)
 
 ---
 
@@ -60,11 +68,27 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [The neuroscientist with the solution to chronic pain - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZOZkdwT2IzcTNOMG90LUxmREwtbTdmbjFJV0pIbTREdG5sWUNmMUVHaVNYQTA2ZlFuWTFHMjgwVEd3U2U4WDZianduQjBoV3lCR1ZYUlRqUF9jdzJMRng0bXl3dkp6RGptN3pMYmNHT0k3NnJUdUtVM2FUanQ2QThRMjJFYWdWWTVwcmNEaXNkdnVQcFRpZERtdU9IZEVSM3pIMHRIM0o0X1k?oc=5)
+### [Vitamina B1: confermata una teoria di 67 anni fa](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZOZkdwT2IzcTNOMG90LUxmREwtbTdmbjFJV0pIbTREdG5sWUNmMUVHaVNYQTA2ZlFuWTFHMjgwVEd3U2U4WDZianduQjBoV3lCR1ZYUlRqUF9jdzJMRng0bXl3dkp6RGptN3pMYmNHT0k3NnJUdUtVM2FUanQ2QThRMjJFYWdWWTVwcmNEaXNkdnVQcFRpZERtdU9IZEVSM3pIMHRIM0o0X1k?oc=5)
+來源：[tomshw.it](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
+
+---
+
+### [Madrid blinda la inmunización infantil con 3 millones para vacunas contra sarampión y varicela - Gaceta de salud](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMmhfeDRxelgweGVJNVExLTNQRlBRR2ZIaG1SS0R1N01DemZaYUZSY0ZMc00xcDNhRkRnRHZZMU91WUcxQ1RBOVMyRGIxWjA3SGo4TlRRMlRTU0RBZHRDS0QwZk5ZaDkybEhuNGQ5RFUwdGNTT3hFZzRfZWZfaExobkoyRHlaekdoeUduRGRqeDM1NVpuV3M5ZDNVcXVibnlfUjVGWXRhT3V0NGR4UXFFbGlJTkMzRTA5clZpTFZieFJ5ZGJPVTlvYmlkalFLTHpPdmNhMzFjek8xQ25HRm52QzJ6UXBWUGtEX1ZWamdMekNJMFZoREl0TkhwOA?oc=5)
+
+2026-04-13 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMmhfeDRxelgweGVJNVExLTNQRlBRR2ZIaG1SS0R1N01DemZaYUZSY0ZMc00xcDNhRkRnRHZZMU91WUcxQ1RBOVMyRGIxWjA3SGo4TlRRMlRTU0RBZHRDS0QwZk5ZaDkybEhuNGQ5RFUwdGNTT3hFZzRfZWZfaExobkoyRHlaekdoeUduRGRqeDM1NVpuV3M5ZDNVcXVibnlfUjVGWXRhT3V0NGR4UXFFbGlJTkMzRTA5clZpTFZieFJ5ZGJPVTlvYmlkalFLTHpPdmNhMzFjek8xQ25HRm52QzJ6UXBWUGtEX1ZWamdMekNJMFZoREl0TkhwOA?oc=5)
+
+---
+
+### [Cold sore virus leaves Penrhyn-coch woman with encephalitis brain damage](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
+
+2026-04-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
 
 ---
 
@@ -81,14 +105,6 @@ permalink: /news/sofosbuvir/
 2026-04-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEx2U1p0SWUyRVJfdENqVUpjdEg4UngyTUhSME1GY0dheUdDZ0tlWTUwRDh0UDhYOXhLT25ER3ZZYW1Tb2REaUg3aXM2Z2Nta2s1UlN6WDVkXzNIbjBhZWdOVjNkVWU1MHFQRDRJRzkwX3RHUzJrYVhueVc0MkhxY3p1Vy05aXNNYWFXd1pFOUVPNzZGYWN6ZFlfMjk1bks5SUc3aVNOYllhLVJFb3pjakZ6S3p3OENFbWFKV1lGbERXUmdZX19oTWJjZ1VaSHNsOEdYNmNQYw?oc=5)
-
----
-
-### [Madrid destina casi 3 millones a vacunas infantiles contra sarampión, hepatitis B y varicela - El Diario de Madrid](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHhmRHFEdHlJUGlYTmJVQkxiZzI4bmRMTW4xSDkyZUZab1g2VG9UUW5VUEw0ancyTlBPSUxra0Y2UzBGdFZtZDFhTU9MTEJGcmpab0FlaVVkSVh2dTFVY0FnNnhVZG9QSWUtMEladlRsWEZVY3ZoN3BjQnl5cVU5SXhKbzRFdWdIaXRRTHJEZm8zUnlZNE5KRlNSYzdUb0pUZjZKNU45VlRUbFZTRGNBQWVYY1pEMkt5c040TDZTdXc0X3U0dmdTemwzY1pkaXBQZXhZZ3ppenh0NVJIYjhzNjJIck1ET1pXYk1j0gHwAUFVX3lxTE9XamFXNGRCYThlTnN3Rl9LWGstekYybUo4eTYtWV8tNUJQTGJ0S0toVmkxTlNYX01JN0ZOVWR2em9jb3JOVk5CNDY0aFRUS2JOMUxBa0F5ZXlUOTdXWDRhd0JMZmFxbVI3TVg2S3BKRFA3bWpyOFpxT3ZZbEdLMXhxNWZqNXlPcFQ5Slh4elVrS0k3THV6cUQ1cnJ0T1R0R21uQkNWZDdPWXhLbGY1eHRibDY0SjBHTWc3Zkc2VnoxU3dkYWhrcGpMSFlQVXJMcWNtY09KYUt0SGRGZ195N2kxdVRHekgwTFNKM3dGWFBqRg?oc=5)
-
-2026-04-12 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El Diario de Madrid](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHhmRHFEdHlJUGlYTmJVQkxiZzI4bmRMTW4xSDkyZUZab1g2VG9UUW5VUEw0ancyTlBPSUxra0Y2UzBGdFZtZDFhTU9MTEJGcmpab0FlaVVkSVh2dTFVY0FnNnhVZG9QSWUtMEladlRsWEZVY3ZoN3BjQnl5cVU5SXhKbzRFdWdIaXRRTHJEZm8zUnlZNE5KRlNSYzdUb0pUZjZKNU45VlRUbFZTRGNBQWVYY1pEMkt5c040TDZTdXc0X3U0dmdTemwzY1pkaXBQZXhZZ3ppenh0NVJIYjhzNjJIck1ET1pXYk1j0gHwAUFVX3lxTE9XamFXNGRCYThlTnN3Rl9LWGstekYybUo4eTYtWV8tNUJQTGJ0S0toVmkxTlNYX01JN0ZOVWR2em9jb3JOVk5CNDY0aFRUS2JOMUxBa0F5ZXlUOTdXWDRhd0JMZmFxbVI3TVg2S3BKRFA3bWpyOFpxT3ZZbEdLMXhxNWZqNXlPcFQ5Slh4elVrS0k3THV6cUQ1cnJ0T1R0R21uQkNWZDdPWXhLbGY1eHRibDY0SjBHTWc3Zkc2VnoxU3dkYWhrcGpMSFlQVXJMcWNtY09KYUt0SGRGZ195N2kxdVRHekgwTFNKM3dGWFBqRg?oc=5)
 
 ---
 

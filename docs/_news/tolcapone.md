@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tolcapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,37 +42,13 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（1 則）
 
 ### [Is it true that … having a diverse microbiome stops you from getting sick? - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkVLRVMtN3RSUnpWeGREc0o1TXVtMHNoYVpGUTI5QnYyak9pcGFXdGtkTjhIWTVGNUVqN1hIZlZIbnhJazRBRXk1Zl9POXJpdm12c01HZEpWS0EtaVFyTll6Y2RZeVdkV3JiQVQ3QjMtMGx3cVIwYWhfYzRUNzhuVHNfY2dJUWxpYVlmUDFjMGVHLURiWHZ5eXNMUGdxVzUtLW16ZmpLVjllclNsYnp5OXFwTnRxbkJtS2ZoNHRjZkI0UQ?oc=5)
 
 2026-04-13 <span class="news-indication-tag">dementia</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkVLRVMtN3RSUnpWeGREc0o1TXVtMHNoYVpGUTI5QnYyak9pcGFXdGtkTjhIWTVGNUVqN1hIZlZIbnhJazRBRXk1Zl9POXJpdm12c01HZEpWS0EtaVFyTll6Y2RZeVdkV3JiQVQ3QjMtMGx3cVIwYWhfYzRUNzhuVHNfY2dJUWxpYVlmUDFjMGVHLURiWHZ5eXNMUGdxVzUtLW16ZmpLVjllclNsYnp5OXFwTnRxbkJtS2ZoNHRjZkI0UQ?oc=5)
-
----
-
-### [Healthy Plant-Based Eating Lowers Dementia Risk - Neuroscience News](https://news.google.com/rss/articles/CBMibkFVX3lxTE9UcXo5UE1kSkhjbE5JMExmdTV1U01ONmpxVkFJTlhaVDdxN0RmVFIyYkZKVjVoUW9rOGNKTDVrS2ZfTmhPcjlHcFFzVENsZGdwQ3hwenRDNFIxbnk1ODdVQk1seU5yWG5EWnl4MGNB?oc=5)
-
-2026-04-12 <span class="news-indication-tag">dementia</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMibkFVX3lxTE9UcXo5UE1kSkhjbE5JMExmdTV1U01ONmpxVkFJTlhaVDdxN0RmVFIyYkZKVjVoUW9rOGNKTDVrS2ZfTmhPcjlHcFFzVENsZGdwQ3hwenRDNFIxbnk1ODdVQk1seU5yWG5EWnl4MGNB?oc=5)
-
----
-
-### [Neurologist says 'cut cholesterol, blood pressure and dementia risk in 20 mins' - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXZ0UEM4U1RqUlMza1hVbUpTTk5uRDlldXFhLUY2UjRlRU9vVFhOS0ROd3lLdzVCRHJJYUgzNEtPMktLV3dhaG9FY01FYjVFTzZzQmQyUVRLTUhadllmWmcxMGt3UjJUa1lTTVhpVkVXUHZxRGlBdVBwYzM4eEF0cGV0Z2dUcWtVbVNEcNIBkgFBVV95cUxPYU1QNHlXcGZYWlNkNUVORVYyWldiQWtrckRaYUpQVzdvU3dYN2NWTWpNNEhqd2JfbDk0ZDMyeXpOc2JKWkF5SjVUdkFWVzRQOWhxYzdOOFFKcVBWVW14dnVVZlMzNEVNWlo5c1FQU3pCZE8zbURyZER0VF9iN2ZjNVQxTEl2Z01xVEk5LThQc3VKdw?oc=5)
-
-2026-04-12 <span class="news-indication-tag">dementia</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXZ0UEM4U1RqUlMza1hVbUpTTk5uRDlldXFhLUY2UjRlRU9vVFhOS0ROd3lLdzVCRHJJYUgzNEtPMktLV3dhaG9FY01FYjVFTzZzQmQyUVRLTUhadllmWmcxMGt3UjJUa1lTTVhpVkVXUHZxRGlBdVBwYzM4eEF0cGV0Z2dUcWtVbVNEcNIBkgFBVV95cUxPYU1QNHlXcGZYWlNkNUVORVYyWldiQWtrckRaYUpQVzdvU3dYN2NWTWpNNEhqd2JfbDk0ZDMyeXpOc2JKWkF5SjVUdkFWVzRQOWhxYzdOOFFKcVBWVW14dnVVZlMzNEVNWlo5c1FQU3pCZE8zbURyZER0VF9iN2ZjNVQxTEl2Z01xVEk5LThQc3VKdw?oc=5)
-
----
-
-### [Lower dementia risk by cutting down on common habit - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEZtLUFsMFlpTzRwR19OVElVTGRNMEhEODlCX3FaUENyNHd6S2pVOWFXbGlneEtTUnowRENodzNMZVF4ZWJPSWlOSUdqQkI2MEtUb25ZN09ueVBWM1ZTQXhkQW0zTnBoS1FiTFFDVTVxaE1mdWRCNTI0NUwxUjhXUWVhSzXSAYoBQVVfeXFMUERhRXlycVlzSG0yV1hvR09DaHFUbk53akJfWUxtTnhhQW11QTllMWZXSjBma3dyN0xsWlR1SWVqYU1LX05pc055dmhHYWNtOFMyTFFxUVhzMUlyWVdwU0ZFT1ljRUVWNmswS1FpZnNGRTNJQkgwUTFRVExnOVhIcF9WSDJlZ2lFb3Z3?oc=5)
-
-2026-04-12 <span class="news-indication-tag">dementia</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEZtLUFsMFlpTzRwR19OVElVTGRNMEhEODlCX3FaUENyNHd6S2pVOWFXbGlneEtTUnowRENodzNMZVF4ZWJPSWlOSUdqQkI2MEtUb25ZN09ueVBWM1ZTQXhkQW0zTnBoS1FiTFFDVTVxaE1mdWRCNTI0NUwxUjhXUWVhSzXSAYoBQVVfeXFMUERhRXlycVlzSG0yV1hvR09DaHFUbk53akJfWUxtTnhhQW11QTllMWZXSjBma3dyN0xsWlR1SWVqYU1LX05pc055dmhHYWNtOFMyTFFxUVhzMUlyWVdwU0ZFT1ljRUVWNmswS1FpZnNGRTNJQkgwUTFRVExnOVhIcF9WSDJlZ2lFb3Z3?oc=5)
 
 ---
 

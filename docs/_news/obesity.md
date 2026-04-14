@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
+
+2026-04-13
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
+
+---
 
 ### [El ADN ayuda a determinar el éxito de los fármacos para perder peso, según un estudio - Bloomberg Línea](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjlfMU1nYnhJTjNSNjNac3JKeXVJQ2Vrd0xLZ0VvcHJRV1FaUVN4TFFDdjBKX29iQzlLNllscFBpdFpPV2JObGprODljTHQ0Tk9mZkdaWmE3VDFwdmNQLWhCcnJTOE53UWVqcUNsRl9tNDN6eGlpU2x5a1MwMkFiYlFPQUFmODNOWmdKOGR6QUp5SHJId2RfTTRQRURQdGt5Tnl0bVczRlIyOVU3S09ncnprZkpTYnFKM09DcFJib9IB0wFBVV95cUxQcFFmcWFYQk03bEFWWHdaNjMzNmRzTUs1REp0UEwtZGVzLUVDRS1ucm8tU3BJT0Y0MVhiV1NER2R0bzFQMGNmaTNQMVVMbHdwNTlnMFlQcDJLYjlsUjVNNmxESDlydjJaZTJDc1FfeWhmOGhPRFZYM1gzVHpuLXoxOTJXVFBac0dyZnV6WG1JWjg1aDVWNy1raU5rZjNsVFpIMWlHWlpqaXNHQUdNMVFoNUE0cTN5bENkRzRGU3FpWDI2bzZSLTYxYWZCZ3pMMS01QTdF?oc=5)
 

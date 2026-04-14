@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="Abiraterone Acetate 有什麼相關新聞？">
-<strong>Abiraterone Acetate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abiraterone Acetate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/abiraterone-acetate/
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [El cribado de fibrilación auricular triplica el impacto preventivo frente a otras cardiopatías - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0NTVDJVSC0yLUhjY2pQZHFGbmo3UC05Z2E0NWpwVUdnbjZ1V2lTcVdhb2R1THdEb3lKUHJZNXlHV1VxZ1IxbURaaVlKZ25Nd0N5WTQ0NkNyN3ltNVNkOWQyMm5MZTVyc3A0d1RubjJXak8xMHlrSE5RR1VBb1haS0VLWWp3NVl6YVdVazN0aHBDZ1lxeXJhb0VOci03Tl9neXB5QmNQSmtPQkpiQWNIaXNFQW9SU2ZURFdOT0MxWnZUZ9IBvAFBVV95cUxQZVhXNkJSREJSN3N3VU0tN3ZLdFZTQVhrWjRCcHhfcnhRR0h2cm9FbWtFalRrSXhWdmMxMjVXRmhxbUY5YzJ0aFc4RzdzYjYwS2YxS2dBcTRwRTk0enA5dlhrRlV0dzBIZnNVRkdaZzVoLVZ6ampGUmk1dEFaV2xPZktFWXo1WkQ5ZWtMMFBXZm5sSndjM2lsc2pua0VUcnpvQ3ZRQTF2TDVuLVg5Z1VGRkYxemFsRzFkNWwzag?oc=5)
+
+2026-04-13 <span class="news-indication-tag">cardiopatía</span> <span class="news-indication-tag">fibrilación auricular</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0NTVDJVSC0yLUhjY2pQZHFGbmo3UC05Z2E0NWpwVUdnbjZ1V2lTcVdhb2R1THdEb3lKUHJZNXlHV1VxZ1IxbURaaVlKZ25Nd0N5WTQ0NkNyN3ltNVNkOWQyMm5MZTVyc3A0d1RubjJXak8xMHlrSE5RR1VBb1haS0VLWWp3NVl6YVdVazN0aHBDZ1lxeXJhb0VOci03Tl9neXB5QmNQSmtPQkpiQWNIaXNFQW9SU2ZURFdOT0MxWnZUZ9IBvAFBVV95cUxQZVhXNkJSREJSN3N3VU0tN3ZLdFZTQVhrWjRCcHhfcnhRR0h2cm9FbWtFalRrSXhWdmMxMjVXRmhxbUY5YzJ0aFc4RzdzYjYwS2YxS2dBcTRwRTk0enA5dlhrRlV0dzBIZnNVRkdaZzVoLVZ6ampGUmk1dEFaV2xPZktFWXo1WkQ5ZWtMMFBXZm5sSndjM2lsc2pua0VUcnpvQ3ZRQTF2TDVuLVg5Z1VGRkYxemFsRzFkNWwzag?oc=5)
+
+---
 
 ### [Identifican una molécula natural que frena la artritis reumatoide en sus primeras fases - La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVEzbzVUa2g0WTJMLWdLSnNaRTdxaENrN3JnUllmSl90RmZPbWJ4TjBfcUxDVUU1UXRKWm0tX3Q5dXdqb3VlZlU2SHZTanA5OThlN3hvTVg5MHU4bzVudG1TOERYdG1fZ09BX0NpRDlWRW5BR3ZtMjFXYUdHbU5JMnFfWHgxT0hoM0tyWklpUkdidzZFR1lrNXc4ZlB2SXc2MUhWaE1lUTRzMzlKZmV0UE1lVnYyLVQwdGl4NVdQTEprZ1RIRXZSZFA3RVkxLW41dkZxZG9obTJ6QjFn0gHwAUFVX3lxTE9MU2Y0bGI4U0M2aGNDcmp2T0NDYW01MXdDOUdudXVOTlhvZktzOHFGc0wtNVp4M1dnazE2LXBxaDJaVHNZYThSRy1Cd3dRc0JQN1VCN1dqUlo3M2xjTWh4VHNqdENWM29COHdmWlBZSU5XRkZJT1RhdUltY0dhQWJ5b1dLemM2aVE0dzktOTRQUmRZbTZEU2JLTnF3d3BwWUtoemdaVXZhWVBBMkozNGtmY29xQjdqZW51QXl5aXliLTdvVERoQ190b2NJTlFVejZ4ZFd3ZXFSdVd2bWVxUXpJX2ZCZ05KX2hYTHZmN2d1Vg?oc=5)
 

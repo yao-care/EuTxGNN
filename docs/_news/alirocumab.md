@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Asturias pondrá en marcha después del verano el cribado para detección de la enfermedad renal crónica](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNek5DTU9vc1JCUlFPUjNxai1lNUdua2xZZ0FEVm9LeDRHd2otOGUyNlphZ0ItYzZLUkk2NzZZU2FSTk9KdkJYQVBaQTZsajFwUXNyYjFIcnRDck1xbmRvajFTdWtKRXhBMU9YR0p0cHVSTnk3ZVhILWdIZFJyWC1rTmlTRWpDRi1BaGJYcWNwVG5zaEpISXpidi1tdWJxaXlhWmRkcHNGRTJyeENEMGl4MnZMT29UeUVQaFBwU19uTm9RRE1RdllkZXRpZVpRR0dFVEVXTFV4aUpYamNjS0NNanpQNjRoVC1IRnJoWER4SDA0cHUzUFpfdGpvSE7SAYICQVVfeXFMUHBzMDFBYmFaWTBaZDNwbnVDbjVEWnpxWDlhQ3ozek0wSk44UHNNRDIwQzNXUXota0MyWmNNMFAtb09pV0VCWnI1N3dXcHFmbzgxUm8zWTdIc1FGRXFwSFNPS3VEQkdlaVkwMzd4el93TzdHTmZMc19UbF9MOTcxTVlDS19FbkJ1Vkp0TGZPSS01cUJsVWZZcG5maDBFWG9wS3hwNnVZV2llMDVqSEZxQk5VSjZ4TjYwOVNERmp0ZERJUXJzX3UtN19GS3o3c3BUZzlyazZ4UVBsVnIySFQyVmc4TUxFa2tMalNwOXE5c21oTm53MHZuVGdGUVEwZUs2OTJn?oc=5)
-
-2026-04-13 <span class="news-indication-tag">enfermedad renal crónica</span>
-
-來源：[rtpa.es](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNek5DTU9vc1JCUlFPUjNxai1lNUdua2xZZ0FEVm9LeDRHd2otOGUyNlphZ0ItYzZLUkk2NzZZU2FSTk9KdkJYQVBaQTZsajFwUXNyYjFIcnRDck1xbmRvajFTdWtKRXhBMU9YR0p0cHVSTnk3ZVhILWdIZFJyWC1rTmlTRWpDRi1BaGJYcWNwVG5zaEpISXpidi1tdWJxaXlhWmRkcHNGRTJyeENEMGl4MnZMT29UeUVQaFBwU19uTm9RRE1RdllkZXRpZVpRR0dFVEVXTFV4aUpYamNjS0NNanpQNjRoVC1IRnJoWER4SDA0cHUzUFpfdGpvSE7SAYICQVVfeXFMUHBzMDFBYmFaWTBaZDNwbnVDbjVEWnpxWDlhQ3ozek0wSk44UHNNRDIwQzNXUXota0MyWmNNMFAtb09pV0VCWnI1N3dXcHFmbzgxUm8zWTdIc1FGRXFwSFNPS3VEQkdlaVkwMzd4el93TzdHTmZMc19UbF9MOTcxTVlDS19FbkJ1Vkp0TGZPSS01cUJsVWZZcG5maDBFWG9wS3hwNnVZV2llMDVqSEZxQk5VSjZ4TjYwOVNERmp0ZERJUXJzX3UtN19GS3o3c3BUZzlyazZ4UVBsVnIySFQyVmc4TUxFa2tMalNwOXE5c21oTm53MHZuVGdGUVEwZUs2OTJn?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [‘I just want to feel like me again’: the women still waiting for breast reconstruction years after lockdown - The Guardian](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX1ZESG8tR3FiNWNQTkdHM0I0RmE4cnVleGZEU3hDb1h0ZF9CSFNOXzFoU2JPRFoxRGhNVFhwX0NibUM3cU5LQWNiSThWTXhiSk1rWTh3UDczdlM1YlEzaWZrRExNNmVCQmRXZ1doeU5UTTNMV2F1TVpDOENCZEhZM1pCOTJubTdfc3hLbmhOcWxyQUdzMXlqSUJiUXVjZ0hRTnUxTmpELVNzdzY5c2wwY3RwTnkyUHdNZFZraDlWcWRjU3pJclEzZjNBdUlNMGNuOXdDeFlsZDlvMHE5SG5jSmRwQ3IxVVk?oc=5)
 
