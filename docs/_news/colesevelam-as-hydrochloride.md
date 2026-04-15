@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（10 則）
 
-### [Don't feel like exercising? Maybe it's the wrong time of day for you](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
+### [Calidad vs cantidad de la grasa en la dieta: cómo influyen el ácido oleico y palmítico en el desarrollo de la diabetes tipo 2 - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTkwY05SV0ZPcXJMSHBia096eUo5QlFQaTR6RDBCLXN0dFE3c3ZIZmVFQ1RNemVVM0NWS29GdzhHdFBLaTEwTExDdUh5RmV6Zmp5M24tNzc3djBEQkhucUFEVU5fNnViU2JsU2Z5bG1kWjUyUW4zaUlhdWJKSXZ5VlpBRnNBWV90cEREWVBITm5CSlNFV2U4MlU1bXFoSG1EUzdoMlpzR00tR2Ywa2RSa2Q1d202NWc1RS1jaFVGOTU3OVVVS0thQXdmT0VVdGdxWkJUQjdfSW0wbWRhUDJHeW1Qd1FzcW94elUzckRKMV90QQ?oc=5)
 
-2026-04-14 <span class="news-indication-tag">heart disease</span>
+2026-04-15 <span class="news-indication-tag">diabetes</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
+來源：[Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTkwY05SV0ZPcXJMSHBia096eUo5QlFQaTR6RDBCLXN0dFE3c3ZIZmVFQ1RNemVVM0NWS29GdzhHdFBLaTEwTExDdUh5RmV6Zmp5M24tNzc3djBEQkhucUFEVU5fNnViU2JsU2Z5bG1kWjUyUW4zaUlhdWJKSXZ5VlpBRnNBWV90cEREWVBITm5CSlNFV2U4MlU1bXFoSG1EUzdoMlpzR00tR2Ywa2RSa2Q1d202NWc1RS1jaFVGOTU3OVVVS0thQXdmT0VVdGdxWkJUQjdfSW0wbWRhUDJHeW1Qd1FzcW94elUzckRKMV90QQ?oc=5)
+
+---
+
+### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabete</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
+
+---
+
+### [Neue Anerkennung für Typ-5-Diabetes: Ein Schritt zur globalen Gesundheitsgerechtigkeit](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
+
+---
+
+### [How matching workouts to body clock can cut risk of heart disease - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
+
+2026-04-14 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
 
 ---
 
@@ -89,6 +113,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
+
+---
+
+### [Medical herbalist details three major risk factors for erectile dysfunction](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUVoVEFBZ05tUjZlaldJS3F2TGp5ZWlSdmwtajBlWGw3eEwyRUprckhsZ01KRWR3Y2E4RS1DZi1XMGRlakQwWVE2bGRtX3V3NHBqVi0xaTF5cUkyMjJsb1FtcWdxTWJhVU52UVdZQldRZW1MRFBhSUJadi1mYm9xQV9XZXJJalVyV2E2Qm9JclVFRlFGLTRldkJrS3JVTkFSSFE5WEJEOU5EUU9xczQ4c2VoWVhRQ2RXbkZ1UlJXMF9jdmJ3Y0JKNXlnVy1OaGs?oc=5)
+
+2026-04-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[GhanaWeb](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUVoVEFBZ05tUjZlaldJS3F2TGp5ZWlSdmwtajBlWGw3eEwyRUprckhsZ01KRWR3Y2E4RS1DZi1XMGRlakQwWVE2bGRtX3V3NHBqVi0xaTF5cUkyMjJsb1FtcWdxTWJhVU52UVdZQldRZW1MRFBhSUJadi1mYm9xQV9XZXJJalVyV2E2Qm9JclVFRlFGLTRldkJrS3JVTkFSSFE5WEJEOU5EUU9xczQ4c2VoWVhRQ2RXbkZ1UlJXMF9jdmJ3Y0JKNXlnVy1OaGs?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/anagrelide/
 ---
 
 <p class="key-answer" data-question="Anagrelide 有什麼相關新聞？">
-<strong>Anagrelide</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Anagrelide</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/anagrelide/
 <p><a href="{{ '/drugs/anagrelide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（25 則）
+
+### ['As a GP, I never thought cancer would happen to me'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PdEU0QlZ1SThJSm54RTJrLXV4SXJLOWpUOElFOGVkc3JQX19qdWlReVRBc1B3VUxHd2s3OWo1bk5LS0c2LVEybTVOVGlQeHM0X0NPbjB2Q05oZXkx?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PdEU0QlZ1SThJSm54RTJrLXV4SXJLOWpUOElFOGVkc3JQX19qdWlReVRBc1B3VUxHd2s3OWo1bk5LS0c2LVEybTVOVGlQeHM0X0NPbjB2Q05oZXkx?oc=5)
+
+---
+
+### [Tumore al pancreas, un farmaco sperimentale raddoppia la sopravvivenza](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXNCeXdJV1VyT19jY2VGRF85QVVLUVIzcktQVENkZ0I4WjNCOU1KZkZkMkI0bHRqWHE2NUhYMWRycHRRNVhQZm1BbWUzd2E4alV2aGptQThVMXVZZnZ6Z2pOVURBM2dEeGdhWU45TGotazg2b3R5RlZZS3VDNEpDakVhU0Z5Um53MGxKaElNRE12RUN5ZWVZaXdrZmZQNEgtWkM3MXg1Zmx3RkxtaWxzZ2ZFNzd4WWlQaXJLbWFoc0t6ZnI0cGhhV3VLdkt6dGJvY21PamlORmo4b0JoUjU4WWFtUXZad9IB6wFBVV95cUxNT013VnJrWHl2YllqcGk5cmpkXzZ0U3VOT0c3ejNNWjU2ejZkcjFweFliclMzTnFHMElURDY2bnVVbkFmc01BcEZGUEx6RUx2aEZ6c0ZiRlkwRWRwRThXLUdBeDZlR3BHLTcyMXozYnU2a01qMFFyRW56Sk1OSmdjT1M2TkJDUHVOLVpYU1ZPdFV3S2pKU2Z6cEV2UFNyQ0NJZjl0NjhJNkhZYndXQ01KQWU3dFJRZjNNVHNiOGtwYmt1ekp2bzdGOHRWZnNoX1FBX29mX0tmZ1o5eUhfbzdnbzZ0NGwwRVN3bFlF?oc=5)
+
+2026-04-15 <span class="news-indication-tag">tumor</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXNCeXdJV1VyT19jY2VGRF85QVVLUVIzcktQVENkZ0I4WjNCOU1KZkZkMkI0bHRqWHE2NUhYMWRycHRRNVhQZm1BbWUzd2E4alV2aGptQThVMXVZZnZ6Z2pOVURBM2dEeGdhWU45TGotazg2b3R5RlZZS3VDNEpDakVhU0Z5Um53MGxKaElNRE12RUN5ZWVZaXdrZmZQNEgtWkM3MXg1Zmx3RkxtaWxzZ2ZFNzd4WWlQaXJLbWFoc0t6ZnI0cGhhV3VLdkt6dGJvY21PamlORmo4b0JoUjU4WWFtUXZad9IB6wFBVV95cUxNT013VnJrWHl2YllqcGk5cmpkXzZ0U3VOT0c3ejNNWjU2ejZkcjFweFliclMzTnFHMElURDY2bnVVbkFmc01BcEZGUEx6RUx2aEZ6c0ZiRlkwRWRwRThXLUdBeDZlR3BHLTcyMXozYnU2a01qMFFyRW56Sk1OSmdjT1M2TkJDUHVOLVpYU1ZPdFV3S2pKU2Z6cEV2UFNyQ0NJZjl0NjhJNkhZYndXQ01KQWU3dFJRZjNNVHNiOGtwYmt1ekp2bzdGOHRWZnNoX1FBX29mX0tmZ1o5eUhfbzdnbzZ0NGwwRVN3bFlF?oc=5)
+
+---
 
 ### [Elle explose en France et dans le monde : quelle est cette maladie du foie qui peut évoluer en cirrhose et en cancer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
 
@@ -52,27 +68,19 @@ permalink: /news/anagrelide/
 
 ---
 
+### [«Mi hanno diagnosticato un raro tumore alla vulva, poco prima avevo scoperto che mio marito mi tradiva» - Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
+
+2026-04-14 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
+
+---
+
 ### [Thymus: Vom unnützen Organ zum Schlüssel für Langlebigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGlNMkhZV0hPa05INHdRVXRnM0dLWmJmcFU2Zkp1UzFSYkxaXzNWa1o0QU5EZnhfS1Jtd1V6S2M4STBiNHFrS3hISE1ISExYMjI4WGhtdzU3bnAzcEhmWmZScGlfanhkVldkdDMtazRDcjkteF9PNWdBcjNqdFpaOE4yS3BJOS11RldOMDhxbDNqdmFNcjVyb3p2cTEwNTVOR3FrUXlKR2d4M01hSGYyQVdueU5lcjVlMHc0?oc=5)
 
 2026-04-14 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGlNMkhZV0hPa05INHdRVXRnM0dLWmJmcFU2Zkp1UzFSYkxaXzNWa1o0QU5EZnhfS1Jtd1V6S2M4STBiNHFrS3hISE1ISExYMjI4WGhtdzU3bnAzcEhmWmZScGlfanhkVldkdDMtazRDcjkteF9PNWdBcjNqdFpaOE4yS3BJOS11RldOMDhxbDNqdmFNcjVyb3p2cTEwNTVOR3FrUXlKR2d4M01hSGYyQVdueU5lcjVlMHc0?oc=5)
-
----
-
-### [Tumore al pancreas, un farmaco sperimentale raddoppia la sopravvivenza - Sky TG24](https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2lKaHpycTl1QXRGM2NQcjVtRFJyY0hnaXQ1cElDM29qelI4Y3BXQ3JlZ1FrS3pGclphblFBNlFrM25Mbllqc0JacEgyVmNBdDJfTkhPT3U0eW85RUNuQlotSUNIOE5fanFHaHVQN3ZEQUtvdmVKY0FPc0VxeU9Ycmo5U1FDUQ?oc=5)
-
-2026-04-14 <span class="news-indication-tag">tumor</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2lKaHpycTl1QXRGM2NQcjVtRFJyY0hnaXQ1cElDM29qelI4Y3BXQ3JlZ1FrS3pGclphblFBNlFrM25Mbllqc0JacEgyVmNBdDJfTkhPT3U0eW85RUNuQlotSUNIOE5fanFHaHVQN3ZEQUtvdmVKY0FPc0VxeU9Ycmo5U1FDUQ?oc=5)
-
----
-
-### [VIH : « J’ai eu l’impression de gagner deux fois au loto »… pourquoi son cas sidère les médecins - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREkyT3h4Rm1DS0JGeE9ZampnZmhMN3JOc3F5c0Rsam5lZWtiSTQ3Q0ZkOGpCYXdEbm5UYy1UNF94V3B2NEhJelV0aEdHVjlvQnp3OVMxS0dNeUUtZGVKcWtBVkszajlxNGVkY0xmWFY0Y1FjSTBZWGEzWUlHYkNDVHVISFF6cExDa2xWQnJkdnVBU2xjdXd0SVZJdmoxc012UVE2dnlEeEpEWEVnM29ZanpvUjhvS2ZCMUNCSmVVeFZBbmVwNG82QQ?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREkyT3h4Rm1DS0JGeE9ZampnZmhMN3JOc3F5c0Rsam5lZWtiSTQ3Q0ZkOGpCYXdEbm5UYy1UNF94V3B2NEhJelV0aEdHVjlvQnp3OVMxS0dNeUUtZGVKcWtBVkszajlxNGVkY0xmWFY0Y1FjSTBZWGEzWUlHYkNDVHVISFF6cExDa2xWQnJkdnVBU2xjdXd0SVZJdmoxc012UVE2dnlEeEpEWEVnM29ZanpvUjhvS2ZCMUNCSmVVeFZBbmVwNG82QQ?oc=5)
 
 ---
 
@@ -92,19 +100,27 @@ permalink: /news/anagrelide/
 
 ---
 
+### [À La Réunion, la mortalité recule en 2023, mais le cancer reste en tête](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZk1sazZMUXRlVVpMbldnREY4V1I4RTJENGh5cE9Fa2lkaVBDSjFKMm9IMGQzemtqRmozZU0xOVpuNUNUbEdKVU81WnVCSHB2NWtHaEJJdmNHdGJ2OHduRXpmb1dORG92ZUFBMGRSQTdISFpzWFdGbEZ2Q09sbDl3QVFnR2lJRUZhand3ZTJzQjFIcjV4RmRoM0JEWVY?oc=5)
+
+2026-04-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Zinfos974](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZk1sazZMUXRlVVpMbldnREY4V1I4RTJENGh5cE9Fa2lkaVBDSjFKMm9IMGQzemtqRmozZU0xOVpuNUNUbEdKVU81WnVCSHB2NWtHaEJJdmNHdGJ2OHduRXpmb1dORG92ZUFBMGRSQTdISFpzWFdGbEZ2Q09sbDl3QVFnR2lJRUZhand3ZTJzQjFIcjV4RmRoM0JEWVY?oc=5)
+
+---
+
+### [Guéri du VIH grâce à un cancer : l’improbable destin du "patient d’Oslo", sauvé par une greffe et une mutation rarissime - Midi Libre](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeW11dUVfYWNmeDB1QmFuUTZUMlkzR1IwRWNYeW9WeVpqNDBJd25zSGFTNHBxZ0lMaXg3cDRsVTRQTk8xZWxCSjBBRHZBcmpHMTgwclgtOFJGZ2pCMUFpR2UyM1l1aWVTbDliVEhUS0pUN2lTUEJpUVcxZk9IREJHSGZuR2tLNkpKY1dhYkhuOTg3RmVPc2ZKR29wdEQ2TUR0QzhWVkdQUWk1ajhxTWxKMy1qMGJSRHNsV0NPRklxaU04SWVrQnN1Z3liZF95a1N3MVBheVZZZFhOYUFCNndPT2NnQnlVOWxnQm1pQ1p2NWo5TlpV?oc=5)
+
+2026-04-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeW11dUVfYWNmeDB1QmFuUTZUMlkzR1IwRWNYeW9WeVpqNDBJd25zSGFTNHBxZ0lMaXg3cDRsVTRQTk8xZWxCSjBBRHZBcmpHMTgwclgtOFJGZ2pCMUFpR2UyM1l1aWVTbDliVEhUS0pUN2lTUEJpUVcxZk9IREJHSGZuR2tLNkpKY1dhYkhuOTg3RmVPc2ZKR29wdEQ2TUR0QzhWVkdQUWk1ajhxTWxKMy1qMGJSRHNsV0NPRklxaU04SWVrQnN1Z3liZF95a1N3MVBheVZZZFhOYUFCNndPT2NnQnlVOWxnQm1pQ1p2NWo5TlpV?oc=5)
+
+---
+
 ### [Leucemia nei bambini, così le cellule malate si nascondono per anni - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGpWNE8xRlVuV3R2QkVueS1iS1dZbm1Fb1RkVUxUTGdpV2t6dEs0RmR1eUJ6aGZMeS1RSlJOM0FVdnFqZ1NxUktaMUdlUUFoa0doTjY0amlla2ZLMlQwYnFKYmprYURBT1JzT25kamVVX1J0WENvSXZuV2FQcjlUc3JwdmdEMHBDWFdycEdUV0pYRnBPblJBWGRGbG8?oc=5)
 
 2026-04-14 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGpWNE8xRlVuV3R2QkVueS1iS1dZbm1Fb1RkVUxUTGdpV2t6dEs0RmR1eUJ6aGZMeS1RSlJOM0FVdnFqZ1NxUktaMUdlUUFoa0doTjY0amlla2ZLMlQwYnFKYmprYURBT1JzT25kamVVX1J0WENvSXZuV2FQcjlUc3JwdmdEMHBDWFdycEdUV0pYRnBPblJBWGRGbG8?oc=5)
-
----
-
-### [«Mi hanno diagnosticato un raro tumore alla vulva, poco prima avevo scoperto che mio marito mi tradiva» - Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
-
-2026-04-14 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
 
 ---
 
@@ -140,14 +156,6 @@ permalink: /news/anagrelide/
 
 ---
 
-### [Neue Wege für Entwicklung von Krebs- und Neurotherapien - Universität Leipzig](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHFSUVJVOV9TNjVBT1k5VUd1MUFiZVczYmdKMlhST3piRDVXMzY1QmlmQWJXVi1WSFNLM2oxYW5xekVtUUw5WmNvNGRkQVpFcWJ5c0hUUU5ua2JNcll5S3VtR2tKRE0yMllRY2ljUFlrUzFyR1A4alJDeXluNmhmZGlJeUY2dlRYTWJFS2MtU2JsY25GWTlYbGpVTEROSWJ3RXI1ejVyS2lrM1oxMkpKS0VB?oc=5)
-
-2026-04-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Universität Leipzig](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHFSUVJVOV9TNjVBT1k5VUd1MUFiZVczYmdKMlhST3piRDVXMzY1QmlmQWJXVi1WSFNLM2oxYW5xekVtUUw5WmNvNGRkQVpFcWJ5c0hUUU5ua2JNcll5S3VtR2tKRE0yMllRY2ljUFlrUzFyR1A4alJDeXluNmhmZGlJeUY2dlRYTWJFS2MtU2JsY25GWTlYbGpVTEROSWJ3RXI1ejVyS2lrM1oxMkpKS0VB?oc=5)
-
----
-
 ### [Metformin als potenzieller Ersatz für Bewegung bei Prostatakrebs](https://news.google.com/rss/articles/CBMingFBVV95cUxQeVc2cWR5MnoxbU5mOXNUNjAxcWo4a3NsOWJyLWpDSUMzdngzU0lNdENMWkRCU2cwLWlWajJFM3VLcWltOHNlSUVYRm8wR0NuenJ0YVBjZDhsdzI0d2JzT2lERGRwS3R4bU95ZDVjbjZpY1lja2pyV2pWckJVN1hpR3JkOUpFZ0lleW1sYTB1TzRiVDc2R0RGSFdjeTU2UQ?oc=5)
 
 2026-04-13 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">Krebs</span>
@@ -156,11 +164,11 @@ permalink: /news/anagrelide/
 
 ---
 
-### [Former Leicester doctor charged thousands for fake treatments to patient with incurable cancer - Leicester Mercury](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGFWbkV2ZG50TXZNaXFlVHQwbHdwYzFwUFlodGF1SkZPc29ydXloQW1VX0VmYlhDODJyVVF4WUFaaUNJeVJkSkpIS2xfQklCTDA1RnBqOGR6d1RRZEJTNExqX01Sd3lOOWVKQ0hkSXRQV20zNFBaY0VIV2hPMm1nUElCZlBlcGJwYUt4aG43VmFNTDZtVmJ3MzNnektsOFBZTVhGNHhBb0c?oc=5)
+### [Former Leicester doctor charged thousands for fake treatments to patient with incurable cancer - Leicestershire Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGFWbkV2ZG50TXZNaXFlVHQwbHdwYzFwUFlodGF1SkZPc29ydXloQW1VX0VmYlhDODJyVVF4WUFaaUNJeVJkSkpIS2xfQklCTDA1RnBqOGR6d1RRZEJTNExqX01Sd3lOOWVKQ0hkSXRQV20zNFBaY0VIV2hPMm1nUElCZlBlcGJwYUt4aG43VmFNTDZtVmJ3MzNnektsOFBZTVhGNHhBb0c?oc=5)
 
 2026-04-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Leicester Mercury](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGFWbkV2ZG50TXZNaXFlVHQwbHdwYzFwUFlodGF1SkZPc29ydXloQW1VX0VmYlhDODJyVVF4WUFaaUNJeVJkSkpIS2xfQklCTDA1RnBqOGR6d1RRZEJTNExqX01Sd3lOOWVKQ0hkSXRQV20zNFBaY0VIV2hPMm1nUElCZlBlcGJwYUt4aG43VmFNTDZtVmJ3MzNnektsOFBZTVhGNHhBb0c?oc=5)
+來源：[Leicestershire Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGFWbkV2ZG50TXZNaXFlVHQwbHdwYzFwUFlodGF1SkZPc29ydXloQW1VX0VmYlhDODJyVVF4WUFaaUNJeVJkSkpIS2xfQklCTDA1RnBqOGR6d1RRZEJTNExqX01Sd3lOOWVKQ0hkSXRQV20zNFBaY0VIV2hPMm1nUElCZlBlcGJwYUt4aG43VmFNTDZtVmJ3MzNnektsOFBZTVhGNHhBb0c?oc=5)
 
 ---
 
@@ -196,14 +204,6 @@ permalink: /news/anagrelide/
 
 ---
 
-### ['Non-invasive' womb cancer test could be rolled out](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5N0o4TVdETXktX3pjQnZsYU5NV25yTXNvYVduTm1sQThSLTBnSlBJVEZwaHN5b2hOZW5kX0JyelpoSHc5TDF1akFDQndJLU96UC00MHo4UDNDVDBG?oc=5)
-
-2026-04-13 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5N0o4TVdETXktX3pjQnZsYU5NV25yTXNvYVduTm1sQThSLTBnSlBJVEZwaHN5b2hOZW5kX0JyelpoSHc5TDF1akFDQndJLU96UC00MHo4UDNDVDBG?oc=5)
-
----
-
 ### ['It's incredible, like science fiction': How a new wave of immunotherapy is eliminating cancers](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXl0QXB3UkNzazZBWmdUeWxxaWhfNWVqclplWExpMEF1TWFkbjZZV0NXTC16ZkpLQ0pZR3JjZE5UeENNRS1BZXR1XzNEQmZ1RUx6dWs4MTZHal9XWXpZdmZmX3pLQmJYNTNmcEVXT2p5bkpzMWN2aWg5ZU5ia3dDZUZBTW5YZFltMTA1MjdyendGTUNfcFFGSXRZeGdwLXc?oc=5)
 
 2026-04-13 <span class="news-indication-tag">cancer</span>
@@ -233,22 +233,6 @@ permalink: /news/anagrelide/
 2026-04-13 <span class="news-indication-tag">Krebs</span>
 
 來源：[out.tv](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbk1RdEx0d2swYm1iLW9mRnRCaGZrRV9NVmEtSzlWQlJIMi1wNU5IRlB1WW5ZZ3JGblBtY3RBT2NQM0hSVXdrNHBQaWEzbmZCN0s5TUs1R0xFUHNjOWc5ajR6SXdzVzd4SWJ2cERCWEE0ajFCSnJZdVc2WHZ5dFotSkZHcS1YRGFScEtSZjZHTDI?oc=5)
-
----
-
-### [Vorteile für risikobasiertes Brustkrebs-Screening? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
-
-2026-04-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGJtZ05aenlpY2FqamRLaGVGaDVsTHFUc1l3N3pKT1J6OVA2cm43cEVpN0t4RmpDU2dFbWNhQ1lGV29EXzRnZW9WeGFzTEZyTUk2RVVoRnBNelBfMHN5X2daVUE5X2d1T2NhT1JHdDF5cG1yd1NadzM5UnB4V3dsY2tHYjVUV3hzUGlrZEVWWEZmaGc0eXdyN0Jyc19LbXlPVU45Wg?oc=5)
-
----
-
-### [Forschende entdecken brisante Darmkrebs-Spur: „Anzeichen, dass sich etwas anderes im Darm verändert“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3ROdDBJV0lvTFVkS1dKSFM1ZGlHclN0ZUZXanJsZUxzeEd5T2VybmNGdkRnMWhiVmlsR2w5VWdnb2FjWHVNM1Q1dG4zZC1FRGJJaFlLbWxOcFJTUDZPQWtmZWk5Z096dWVMcW9rMzlsMmF1elF6YnZhV0VXZHdIVGs5T3dkckctOXFNczAxQnpnRVZVb3dKdG9ENjRIaS1SUmw4RnNNblJmbmEy?oc=5)
-
-2026-04-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3ROdDBJV0lvTFVkS1dKSFM1ZGlHclN0ZUZXanJsZUxzeEd5T2VybmNGdkRnMWhiVmlsR2w5VWdnb2FjWHVNM1Q1dG4zZC1FRGJJaFlLbWxOcFJTUDZPQWtmZWk5Z096dWVMcW9rMzlsMmF1elF6YnZhV0VXZHdIVGs5T3dkckctOXFNczAxQnpnRVZVb3dKdG9ENjRIaS1SUmw4RnNNblJmbmEy?oc=5)
 
 ---
 

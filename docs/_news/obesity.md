@@ -3,7 +3,7 @@ layout: default
 title: "obésité（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obésité（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obésité（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Elle explose en France et dans le monde : quelle est cette maladie du foie qui peut évoluer en cirrhose et en cancer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/obesity/
 2026-04-14
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
+
+---
+
+### [Obesidad en el entorno laboral: cómo afecta más allá de la salud física - ORH | Observatorio de Recursos Humanos](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDJILVAzZGxLM25IUzVRbFAxcUZ2aHhZaFRDcUNkSGJJYUY4S0xrRmRxeUNSTjdtaWtXVXFJR1FJSGRBUEYyaFM2SERKelM1YUJnWTBKamZNWWxnb3lrVENyYXV5UElUdXc5OVBFT3c0dHppemhBaEd6MEVNRGxUOTczLTdBanRiZEQ0bVRqY192OFNxR3VaNVNQdms2T2tBcmZVZTljZGkwMkQ3S0tZ?oc=5)
+
+2026-04-13
+
+來源：[ORH | Observatorio de Recursos Humanos](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDJILVAzZGxLM25IUzVRbFAxcUZ2aHhZaFRDcUNkSGJJYUY4S0xrRmRxeUNSTjdtaWtXVXFJR1FJSGRBUEYyaFM2SERKelM1YUJnWTBKamZNWWxnb3lrVENyYXV5UElUdXc5OVBFT3c0dHppemhBaEd6MEVNRGxUOTczLTdBanRiZEQ0bVRqY192OFNxR3VaNVNQdms2T2tBcmZVZTljZGkwMkQ3S0tZ?oc=5)
 
 ---
 

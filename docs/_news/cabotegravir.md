@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cabotegravir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（11 則）
+
+### [Calidad vs cantidad de la grasa en la dieta: cómo influyen el ácido oleico y palmítico en el desarrollo de la diabetes tipo 2 - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTkwY05SV0ZPcXJMSHBia096eUo5QlFQaTR6RDBCLXN0dFE3c3ZIZmVFQ1RNemVVM0NWS29GdzhHdFBLaTEwTExDdUh5RmV6Zmp5M24tNzc3djBEQkhucUFEVU5fNnViU2JsU2Z5bG1kWjUyUW4zaUlhdWJKSXZ5VlpBRnNBWV90cEREWVBITm5CSlNFV2U4MlU1bXFoSG1EUzdoMlpzR00tR2Ywa2RSa2Q1d202NWc1RS1jaFVGOTU3OVVVS0thQXdmT0VVdGdxWkJUQjdfSW0wbWRhUDJHeW1Qd1FzcW94elUzckRKMV90QQ?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTkwY05SV0ZPcXJMSHBia096eUo5QlFQaTR6RDBCLXN0dFE3c3ZIZmVFQ1RNemVVM0NWS29GdzhHdFBLaTEwTExDdUh5RmV6Zmp5M24tNzc3djBEQkhucUFEVU5fNnViU2JsU2Z5bG1kWjUyUW4zaUlhdWJKSXZ5VlpBRnNBWV90cEREWVBITm5CSlNFV2U4MlU1bXFoSG1EUzdoMlpzR00tR2Ywa2RSa2Q1d202NWc1RS1jaFVGOTU3OVVVS0thQXdmT0VVdGdxWkJUQjdfSW0wbWRhUDJHeW1Qd1FzcW94elUzckRKMV90QQ?oc=5)
+
+---
+
+### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabete</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
+
+---
+
+### [Neue Anerkennung für Typ-5-Diabetes: Ein Schritt zur globalen Gesundheitsgerechtigkeit](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
+
+---
 
 ### [Elle explose en France et dans le monde : quelle est cette maladie du foie qui peut évoluer en cirrhose et en cancer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
 
@@ -68,6 +92,14 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [El enfisema pulmonar en pacientes con cáncer de pulmón avanzado se asocia a una mayor supervivencia - El médico interactivo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBLWFpJN3NMcmZQYkd3cVVjQ0gxZ1hxNS1PZ3N4QXB0OE5CZUJ4Wi1yNnNUWEVYVjVUeW1odkFqT3RTV0c4cThTSlNnTEJyNnlEOC10Wm80SlMtRnBXWUI4MjlGVkVORU10MXZoamx5OWNBSFp2R1BObF9SWVhBUXBta3gtX0huN2JDUzV0NEVRZFNfMk82MFFWUERHQmkzTWV5eDhaZ1FSR2I3RjNHMmY3dzcyNXdGSUJxb2t4T2NrZjByYTYwdEN5R0k?oc=5)
+
+2026-04-14 <span class="news-indication-tag">EPOC</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBLWFpJN3NMcmZQYkd3cVVjQ0gxZ1hxNS1PZ3N4QXB0OE5CZUJ4Wi1yNnNUWEVYVjVUeW1odkFqT3RTV0c4cThTSlNnTEJyNnlEOC10Wm80SlMtRnBXWUI4MjlGVkVORU10MXZoamx5OWNBSFp2R1BObF9SWVhBUXBta3gtX0huN2JDUzV0NEVRZFNfMk82MFFWUERHQmkzTWV5eDhaZ1FSR2I3RjNHMmY3dzcyNXdGSUJxb2t4T2NrZjByYTYwdEN5R0k?oc=5)
+
+---
+
 ### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
 2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
@@ -89,6 +121,14 @@ permalink: /news/cabotegravir/
 2026-04-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
+
+---
+
+### [Medical herbalist details three major risk factors for erectile dysfunction](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUVoVEFBZ05tUjZlaldJS3F2TGp5ZWlSdmwtajBlWGw3eEwyRUprckhsZ01KRWR3Y2E4RS1DZi1XMGRlakQwWVE2bGRtX3V3NHBqVi0xaTF5cUkyMjJsb1FtcWdxTWJhVU52UVdZQldRZW1MRFBhSUJadi1mYm9xQV9XZXJJalVyV2E2Qm9JclVFRlFGLTRldkJrS3JVTkFSSFE5WEJEOU5EUU9xczQ4c2VoWVhRQ2RXbkZ1UlJXMF9jdmJ3Y0JKNXlnVy1OaGs?oc=5)
+
+2026-04-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[GhanaWeb](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUVoVEFBZ05tUjZlaldJS3F2TGp5ZWlSdmwtajBlWGw3eEwyRUprckhsZ01KRWR3Y2E4RS1DZi1XMGRlakQwWVE2bGRtX3V3NHBqVi0xaTF5cUkyMjJsb1FtcWdxTWJhVU52UVdZQldRZW1MRFBhSUJadi1mYm9xQV9XZXJJalVyV2E2Qm9JclVFRlFGLTRldkJrS3JVTkFSSFE5WEJEOU5EUU9xczQ4c2VoWVhRQ2RXbkZ1UlJXMF9jdmJ3Y0JKNXlnVy1OaGs?oc=5)
 
 ---
 

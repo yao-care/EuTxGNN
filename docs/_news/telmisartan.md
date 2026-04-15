@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Don't feel like exercising? Maybe it's the wrong time of day for you](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
+### [Dix jours « en apnée » : une famille face à l’AVC de Camille, 7 ans - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
 
-2026-04-14 <span class="news-indication-tag">heart disease</span>
+2026-04-15 <span class="news-indication-tag">AVC</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
+
+---
+
+### [How matching workouts to body clock can cut risk of heart disease - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
+
+2026-04-14 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
+
+---
+
+### [Dr. Pimple Popper, la dottoressa schiacciabrufoli ha avuto un ictus mentre girava la sua serie tv - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWtKUndrV25ia3NPNTY4OWM5bzZGTmU2SG5WUUh0UTVuWnBNOUc2MVRibXRNdDlTdHJ2RXM1SUt3NDRnb0gzMFN2V2hXTkNveHVoSTIySXJkMXk2ZGNSb1RmWEZESzdrTjNxUGhlS0ZTQmNfbElWNTdTVC1wckxIeEtoUGREckducTlXZzhnU0Q5cHVjcWJTRmZRY0cwbFAzbl96dmlyUFN3VEnSAbABQVVfeXFMUDA5aExFU3F2b3ZiRGkydTk5NnRVdDRxVFVjLW5lTTdxMk1abVluanBlU0MyVkVwNVpvTi1ELWFwVC1fbGwycEpkSjlVNG9YdDg3MmhZOUNFMVl3YTd3YUhmcVJTZG1FbjRzQ2NmX2ttdGoxSEJVTEI3Q3ROWE81Q0VlZDg3MFRHT29rRFRzS3lkY2xNZHVDZFp2d2U2eFBid1ZXc25GaGhQT1RQMk5LZjM?oc=5)
+
+2026-04-14 <span class="news-indication-tag">ictus</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWtKUndrV25ia3NPNTY4OWM5bzZGTmU2SG5WUUh0UTVuWnBNOUc2MVRibXRNdDlTdHJ2RXM1SUt3NDRnb0gzMFN2V2hXTkNveHVoSTIySXJkMXk2ZGNSb1RmWEZESzdrTjNxUGhlS0ZTQmNfbElWNTdTVC1wckxIeEtoUGREckducTlXZzhnU0Q5cHVjcWJTRmZRY0cwbFAzbl96dmlyUFN3VEnSAbABQVVfeXFMUDA5aExFU3F2b3ZiRGkydTk5NnRVdDRxVFVjLW5lTTdxMk1abVluanBlU0MyVkVwNVpvTi1ELWFwVC1fbGwycEpkSjlVNG9YdDg3MmhZOUNFMVl3YTd3YUhmcVJTZG1FbjRzQ2NmX2ttdGoxSEJVTEI3Q3ROWE81Q0VlZDg3MFRHT29rRFRzS3lkY2xNZHVDZFp2d2U2eFBid1ZXc25GaGhQT1RQMk5LZjM?oc=5)
 
 ---
 

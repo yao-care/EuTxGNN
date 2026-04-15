@@ -44,19 +44,19 @@ permalink: /news/vortioxetine/
 
 ## 相關新聞（2 則）
 
-### [Häufig überdosiert: Nur dieses Vitamin D überzeugt bei Stiftung Warentest](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hEWlpxLWE1WVdUOHY1N041VnVMLWJsVWMwM2czWDhfRVo0RDEzdFNDQ3h5SFoza2JNb0J4V2dFamszMFVIb2JTMlBiMHJObDR0WmF5cVpBdERxX0FIaDlRQkhHQVdVOGNHRzVlWHlEZUU0MmhsejUyaV9MdFhqMnh6bmZsdkZOVTVXcUllRjgzOWNtdmUwV0N2aVd1d2Rhb2hMaWdjQVFFM3lCVzJ0dnFFVVJvT2oteHRLbERwRzlfdw?oc=5)
+### [Alzheimer-Forschung: Zelltherapie und Bluttest bringen Durchbrüche - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXp5Qkw2X0RXbmRBRS1jX2JyUllKeGcxd3BnZmppQTVCWmNmN21zdVRlLWlwcmFaV090UVB0YXJ4aGN1ODJWbmk5ZHFybTdVbjVwcWktVlVvQjJXNGNGdWpsaTVKUlZQMWg3LVh1UHl3LXhkVERwZUhwT3M4aW00dHd5T0YybGFVQTRGaW1rSl9JT0ZZSlIwQ2hld2JmSEJhVkFZRUJGR0Y2ZGk0OUNXVzM3LXkzUXJOY3FRM3ZoLVp5MGc?oc=5)
 
-2026-04-14 <span class="news-indication-tag">depression</span>
+2026-04-15 <span class="news-indication-tag">depression</span>
 
-來源：[Joyn](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hEWlpxLWE1WVdUOHY1N041VnVMLWJsVWMwM2czWDhfRVo0RDEzdFNDQ3h5SFoza2JNb0J4V2dFamszMFVIb2JTMlBiMHJObDR0WmF5cVpBdERxX0FIaDlRQkhHQVdVOGNHRzVlWHlEZUU0MmhsejUyaV9MdFhqMnh6bmZsdkZOVTVXcUllRjgzOWNtdmUwV0N2aVd1d2Rhb2hMaWdjQVFFM3lCVzJ0dnFFVVJvT2oteHRLbERwRzlfdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXp5Qkw2X0RXbmRBRS1jX2JyUllKeGcxd3BnZmppQTVCWmNmN21zdVRlLWlwcmFaV090UVB0YXJ4aGN1ODJWbmk5ZHFybTdVbjVwcWktVlVvQjJXNGNGdWpsaTVKUlZQMWg3LVh1UHl3LXhkVERwZUhwT3M4aW00dHd5T0YybGFVQTRGaW1rSl9JT0ZZSlIwQ2hld2JmSEJhVkFZRUJGR0Y2ZGk0OUNXVzM3LXkzUXJOY3FRM3ZoLVp5MGc?oc=5)
 
 ---
 
-### [Darm-Hirn-Achse und kognitiver Abbau im Alter - Gelbe Liste](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRkU2R2MzZXNaMzFfUER0QU10RVhTWTZmME5ROUExbWxJWHluU2NrUkNYc05zQW5LR3lZR2pzY2ZFcXMxV3R6dFBhX1BpT0luRXdGeHY3RTYzTHJmTjh3SVFjWVJEbkN6NnFQOXJoREhnR0wwb0ZUQVJ3ZnhHSE9ZUkxkMXBvdw?oc=5)
+### [Vorsicht vor Einnahmefehlern: Nur diese Vitamin-D-Präparate überzeugen Stiftung Warentest](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFgtZ25wc0VyV0lpVGZlZEFrS2pMbDYtZ2FmejFVamRkZ2JHd1ltNGJpckE5RGVwRkJFc0JwZmY4dm1FcW5kaklac25zczg3VVR5YUxjMjhwQ2wwTnFTbzcxNkhSNWlpczlLWncwcExlUGpCTWt3R19EVTRpNExZN3RUT09qcFgwN25GcG9VOEFTXzdWSzlF?oc=5)
 
-2026-04-13 <span class="news-indication-tag">depression</span>
+2026-04-14 <span class="news-indication-tag">depression</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRkU2R2MzZXNaMzFfUER0QU10RVhTWTZmME5ROUExbWxJWHluU2NrUkNYc05zQW5LR3lZR2pzY2ZFcXMxV3R6dFBhX1BpT0luRXdGeHY3RTYzTHJmTjh3SVFjWVJEbkN6NnFQOXJoREhnR0wwb0ZUQVJ3ZnhHSE9ZUkxkMXBvdw?oc=5)
+來源：[Joyn](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFgtZ25wc0VyV0lpVGZlZEFrS2pMbDYtZ2FmejFVamRkZ2JHd1ltNGJpckE5RGVwRkJFc0JwZmY4dm1FcW5kaklac25zczg3VVR5YUxjMjhwQ2wwTnFTbzcxNkhSNWlpczlLWncwcExlUGpCTWt3R19EVTRpNExZN3RUT09qcFgwN25GcG9VOEFTXzdWSzlF?oc=5)
 
 ---
 

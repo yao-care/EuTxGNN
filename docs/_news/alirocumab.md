@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,23 +42,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Bird flu outbreak leads to imposed cull](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
-
-2026-04-14 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
-
----
-
-### [‘I just want to feel like me again’: the women still waiting for breast reconstruction years after lockdown - The Guardian](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX1ZESG8tR3FiNWNQTkdHM0I0RmE4cnVleGZEU3hDb1h0ZF9CSFNOXzFoU2JPRFoxRGhNVFhwX0NibUM3cU5LQWNiSThWTXhiSk1rWTh3UDczdlM1YlEzaWZrRExNNmVCQmRXZ1doeU5UTTNMV2F1TVpDOENCZEhZM1pCOTJubTdfc3hLbmhOcWxyQUdzMXlqSUJiUXVjZ0hRTnUxTmpELVNzdzY5c2wwY3RwTnkyUHdNZFZraDlWcWRjU3pJclEzZjNBdUlNMGNuOXdDeFlsZDlvMHE5SG5jSmRwQ3IxVVk?oc=5)
-
-2026-04-13 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX1ZESG8tR3FiNWNQTkdHM0I0RmE4cnVleGZEU3hDb1h0ZF9CSFNOXzFoU2JPRFoxRGhNVFhwX0NibUM3cU5LQWNiSThWTXhiSk1rWTh3UDczdlM1YlEzaWZrRExNNmVCQmRXZ1doeU5UTTNMV2F1TVpDOENCZEhZM1pCOTJubTdfc3hLbmhOcWxyQUdzMXlqSUJiUXVjZ0hRTnUxTmpELVNzdzY5c2wwY3RwTnkyUHdNZFZraDlWcWRjU3pJclEzZjNBdUlNMGNuOXdDeFlsZDlvMHE5SG5jSmRwQ3IxVVk?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

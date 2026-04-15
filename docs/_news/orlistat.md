@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [Dix jours « en apnée » : une famille face à l’AVC de Camille, 7 ans - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">AVC</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
+
+---
+
+### [Dr. Pimple Popper, la dottoressa schiacciabrufoli ha avuto un ictus mentre girava la sua serie tv - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWtKUndrV25ia3NPNTY4OWM5bzZGTmU2SG5WUUh0UTVuWnBNOUc2MVRibXRNdDlTdHJ2RXM1SUt3NDRnb0gzMFN2V2hXTkNveHVoSTIySXJkMXk2ZGNSb1RmWEZESzdrTjNxUGhlS0ZTQmNfbElWNTdTVC1wckxIeEtoUGREckducTlXZzhnU0Q5cHVjcWJTRmZRY0cwbFAzbl96dmlyUFN3VEnSAbABQVVfeXFMUDA5aExFU3F2b3ZiRGkydTk5NnRVdDRxVFVjLW5lTTdxMk1abVluanBlU0MyVkVwNVpvTi1ELWFwVC1fbGwycEpkSjlVNG9YdDg3MmhZOUNFMVl3YTd3YUhmcVJTZG1FbjRzQ2NmX2ttdGoxSEJVTEI3Q3ROWE81Q0VlZDg3MFRHT29rRFRzS3lkY2xNZHVDZFp2d2U2eFBid1ZXc25GaGhQT1RQMk5LZjM?oc=5)
+
+2026-04-14 <span class="news-indication-tag">ictus</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWtKUndrV25ia3NPNTY4OWM5bzZGTmU2SG5WUUh0UTVuWnBNOUc2MVRibXRNdDlTdHJ2RXM1SUt3NDRnb0gzMFN2V2hXTkNveHVoSTIySXJkMXk2ZGNSb1RmWEZESzdrTjNxUGhlS0ZTQmNfbElWNTdTVC1wckxIeEtoUGREckducTlXZzhnU0Q5cHVjcWJTRmZRY0cwbFAzbl96dmlyUFN3VEnSAbABQVVfeXFMUDA5aExFU3F2b3ZiRGkydTk5NnRVdDRxVFVjLW5lTTdxMk1abVluanBlU0MyVkVwNVpvTi1ELWFwVC1fbGwycEpkSjlVNG9YdDg3MmhZOUNFMVl3YTd3YUhmcVJTZG1FbjRzQ2NmX2ttdGoxSEJVTEI3Q3ROWE81Q0VlZDg3MFRHT29rRFRzS3lkY2xNZHVDZFp2d2U2eFBid1ZXc25GaGhQT1RQMk5LZjM?oc=5)
+
+---
 
 ### [Elle explose en France et dans le monde : quelle est cette maladie du foie qui peut évoluer en cirrhose et en cancer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
 
@@ -81,6 +97,14 @@ permalink: /news/orlistat/
 2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
+
+---
+
+### [Obesidad en el entorno laboral: cómo afecta más allá de la salud física - ORH | Observatorio de Recursos Humanos](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDJILVAzZGxLM25IUzVRbFAxcUZ2aHhZaFRDcUNkSGJJYUY4S0xrRmRxeUNSTjdtaWtXVXFJR1FJSGRBUEYyaFM2SERKelM1YUJnWTBKamZNWWxnb3lrVENyYXV5UElUdXc5OVBFT3c0dHppemhBaEd6MEVNRGxUOTczLTdBanRiZEQ0bVRqY192OFNxR3VaNVNQdms2T2tBcmZVZTljZGkwMkQ3S0tZ?oc=5)
+
+2026-04-13 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[ORH | Observatorio de Recursos Humanos](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDJILVAzZGxLM25IUzVRbFAxcUZ2aHhZaFRDcUNkSGJJYUY4S0xrRmRxeUNSTjdtaWtXVXFJR1FJSGRBUEYyaFM2SERKelM1YUJnWTBKamZNWWxnb3lrVENyYXV5UElUdXc5OVBFT3c0dHppemhBaEd6MEVNRGxUOTczLTdBanRiZEQ0bVRqY192OFNxR3VaNVNQdms2T2tBcmZVZTljZGkwMkQ3S0tZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [T&H-Diät bei Morbus Crohn: Alternative zur EEN](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDN6bXdtaGpGQWlVbi1yR0lvbk1JdEgyeUJsVXJzSzRVYi1TVGJ4OTIza3R6WTd5WXFOZjhyajd1RUNRVndrZE9DeFU5eW5XZUpDZHB2SHhFQ3hRbXZGd0lvek84SVhQbThpN3A4cVRuaDJKUFV2S3o2TkM1cXFWb1BaUW5BOTY4OUMxQVRZWllSZVowZjhlRHVNaHgyTGdSNFZhdjZjLVllanFfRGQzbkxmOTRFUzNnSlUtS2wwUWdXSFBfRWszY0dfWXZYTTJPM2NzVGN0VFVPRFZ4OE9sOFM2blJ3Z2ZvNUdlM1dPSkt0Qzg?oc=5)
+
+2026-04-15 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[esanum](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDN6bXdtaGpGQWlVbi1yR0lvbk1JdEgyeUJsVXJzSzRVYi1TVGJ4OTIza3R6WTd5WXFOZjhyajd1RUNRVndrZE9DeFU5eW5XZUpDZHB2SHhFQ3hRbXZGd0lvek84SVhQbThpN3A4cVRuaDJKUFV2S3o2TkM1cXFWb1BaUW5BOTY4OUMxQVRZWllSZVowZjhlRHVNaHgyTGdSNFZhdjZjLVllanFfRGQzbkxmOTRFUzNnSlUtS2wwUWdXSFBfRWszY0dfWXZYTTJPM2NzVGN0VFVPRFZ4OE9sOFM2blJ3Z2ZvNUdlM1dPSkt0Qzg?oc=5)
+
+---
 
 ### [La 14ª edición de "Espacio Asma" analiza cómo la medicina de precisión y las nuevas tecnologías están transformando el abordaje del asma](https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVNDUjlPWHF1TDVhOXVjcF8tcGRTRm5TMGVsaFhJOTJYSWhZbUVVVl9xZEswT0R1UXZYNUctdEtBRnZtLTR5ckxMdW1jcnRPVUlWbThZdkFLVnA5NjViTUhPYW8yZjVSckRjS21pQk5SMGk2TXFyTEJhVkxPanc?oc=5)
 
 2026-04-14 <span class="news-indication-tag">asma</span>
 
 來源：[Corresponsables](https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVNDUjlPWHF1TDVhOXVjcF8tcGRTRm5TMGVsaFhJOTJYSWhZbUVVVl9xZEswT0R1UXZYNUctdEtBRnZtLTR5ckxMdW1jcnRPVUlWbThZdkFLVnA5NjViTUhPYW8yZjVSckRjS21pQk5SMGk2TXFyTEJhVkxPanc?oc=5)
+
+---
+
+### [El enfisema pulmonar en pacientes con cáncer de pulmón avanzado se asocia a una mayor supervivencia - El médico interactivo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBLWFpJN3NMcmZQYkd3cVVjQ0gxZ1hxNS1PZ3N4QXB0OE5CZUJ4Wi1yNnNUWEVYVjVUeW1odkFqT3RTV0c4cThTSlNnTEJyNnlEOC10Wm80SlMtRnBXWUI4MjlGVkVORU10MXZoamx5OWNBSFp2R1BObF9SWVhBUXBta3gtX0huN2JDUzV0NEVRZFNfMk82MFFWUERHQmkzTWV5eDhaZ1FSR2I3RjNHMmY3dzcyNXdGSUJxb2t4T2NrZjByYTYwdEN5R0k?oc=5)
+
+2026-04-14 <span class="news-indication-tag">EPOC</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBLWFpJN3NMcmZQYkd3cVVjQ0gxZ1hxNS1PZ3N4QXB0OE5CZUJ4Wi1yNnNUWEVYVjVUeW1odkFqT3RTV0c4cThTSlNnTEJyNnlEOC10Wm80SlMtRnBXWUI4MjlGVkVORU10MXZoamx5OWNBSFp2R1BObF9SWVhBUXBta3gtX0huN2JDUzV0NEVRZFNfMk82MFFWUERHQmkzTWV5eDhaZ1FSR2I3RjNHMmY3dzcyNXdGSUJxb2t4T2NrZjByYTYwdEN5R0k?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabète（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabète（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabète（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,7 +114,31 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（9 則）
+
+### [Calidad vs cantidad de la grasa en la dieta: cómo influyen el ácido oleico y palmítico en el desarrollo de la diabetes tipo 2 - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTkwY05SV0ZPcXJMSHBia096eUo5QlFQaTR6RDBCLXN0dFE3c3ZIZmVFQ1RNemVVM0NWS29GdzhHdFBLaTEwTExDdUh5RmV6Zmp5M24tNzc3djBEQkhucUFEVU5fNnViU2JsU2Z5bG1kWjUyUW4zaUlhdWJKSXZ5VlpBRnNBWV90cEREWVBITm5CSlNFV2U4MlU1bXFoSG1EUzdoMlpzR00tR2Ywa2RSa2Q1d202NWc1RS1jaFVGOTU3OVVVS0thQXdmT0VVdGdxWkJUQjdfSW0wbWRhUDJHeW1Qd1FzcW94elUzckRKMV90QQ?oc=5)
+
+2026-04-15
+
+來源：[Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeTkwY05SV0ZPcXJMSHBia096eUo5QlFQaTR6RDBCLXN0dFE3c3ZIZmVFQ1RNemVVM0NWS29GdzhHdFBLaTEwTExDdUh5RmV6Zmp5M24tNzc3djBEQkhucUFEVU5fNnViU2JsU2Z5bG1kWjUyUW4zaUlhdWJKSXZ5VlpBRnNBWV90cEREWVBITm5CSlNFV2U4MlU1bXFoSG1EUzdoMlpzR00tR2Ywa2RSa2Q1d202NWc1RS1jaFVGOTU3OVVVS0thQXdmT0VVdGdxWkJUQjdfSW0wbWRhUDJHeW1Qd1FzcW94elUzckRKMV90QQ?oc=5)
+
+---
+
+### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
+
+2026-04-15
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
+
+---
+
+### [Neue Anerkennung für Typ-5-Diabetes: Ein Schritt zur globalen Gesundheitsgerechtigkeit](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
+
+2026-04-15
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
+
+---
 
 ### [Elle explose en France et dans le monde : quelle est cette maladie du foie qui peut évoluer en cirrhose et en cancer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
 
@@ -153,6 +177,14 @@ permalink: /news/diabetes-mellitus/
 2026-04-13
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
+
+---
+
+### [Medical herbalist details three major risk factors for erectile dysfunction](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUVoVEFBZ05tUjZlaldJS3F2TGp5ZWlSdmwtajBlWGw3eEwyRUprckhsZ01KRWR3Y2E4RS1DZi1XMGRlakQwWVE2bGRtX3V3NHBqVi0xaTF5cUkyMjJsb1FtcWdxTWJhVU52UVdZQldRZW1MRFBhSUJadi1mYm9xQV9XZXJJalVyV2E2Qm9JclVFRlFGLTRldkJrS3JVTkFSSFE5WEJEOU5EUU9xczQ4c2VoWVhRQ2RXbkZ1UlJXMF9jdmJ3Y0JKNXlnVy1OaGs?oc=5)
+
+2026-04-13
+
+來源：[GhanaWeb](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUVoVEFBZ05tUjZlaldJS3F2TGp5ZWlSdmwtajBlWGw3eEwyRUprckhsZ01KRWR3Y2E4RS1DZi1XMGRlakQwWVE2bGRtX3V3NHBqVi0xaTF5cUkyMjJsb1FtcWdxTWJhVU52UVdZQldRZW1MRFBhSUJadi1mYm9xQV9XZXJJalVyV2E2Qm9JclVFRlFGLTRldkJrS3JVTkFSSFE5WEJEOU5EUU9xczQ4c2VoWVhRQ2RXbkZ1UlJXMF9jdmJ3Y0JKNXlnVy1OaGs?oc=5)
 
 ---
 
