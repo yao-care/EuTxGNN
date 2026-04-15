@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart disease</span></li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart failure</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -42,13 +42,21 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [How matching workouts to body clock can cut risk of heart disease - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
 
-2026-04-14 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span>
+2026-04-14 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
+
+---
+
+### [Prävalenz der Herzinsuffizienz in Deutschland: Daten aus der NAKO-Gesundheitsstudie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNendFMDUwbDlFc05xcjJGcTE4a0IxV1ZlOTE2c0pHTlNZWUVHdmxYckZYQWQ0eG0teGI2aGx1UnM0TS0tZG8wNV9BOU9MMWFRSHA4dWV1OEdfZTdfcmFER3ROY3F2UkxYdG9ZS1A1SmRmVXhiQk55ZXRkUkRwMkNlMk9ubjNiZ1Fzb2dCclMwU1NLc2NTTUdsbk54ZU8tOUxTanlyaWlKNERLVTUyY2JhdWZDMFloUDVZUm1pc1lzZ0x4MkxHandBTDFOaWk4emxBTVpyN193elNZZnowTF9VTHhNZ2lidw?oc=5)
+
+2026-04-14 <span class="news-indication-tag">heart failure</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNendFMDUwbDlFc05xcjJGcTE4a0IxV1ZlOTE2c0pHTlNZWUVHdmxYckZYQWQ0eG0teGI2aGx1UnM0TS0tZG8wNV9BOU9MMWFRSHA4dWV1OEdfZTdfcmFER3ROY3F2UkxYdG9ZS1A1SmRmVXhiQk55ZXRkUkRwMkNlMk9ubjNiZ1Fzb2dCclMwU1NLc2NTTUdsbk54ZU8tOUxTanlyaWlKNERLVTUyY2JhdWZDMFloUDVZUm1pc1lzZ0x4MkxHandBTDFOaWk4emxBTVpyN193elNZZnowTF9VTHhNZ2lidw?oc=5)
 
 ---
 

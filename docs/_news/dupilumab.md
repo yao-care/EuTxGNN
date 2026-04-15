@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="Dupilumab 有什麼相關新聞？">
-<strong>Dupilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dupilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dupilumab/
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Trockenpulverinhalator senkt Exazerbationsrisiko bei COPD stärker als andere LAMA-LABA-Inhalatoren - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1FLYUNvRHJXb0hHbS1OOTNuNFN5eVk4OWVuN3gxUWFLYzIwSHlKVm84UU9UN2EwZUUweGdZcDRHSzJHcS1xT2FNdnRmV3hiVXZjYi0xaWZrdzF1ZUJadHlZNDl3bFluZk55c2JfRW8xdjJYQ0VqNDBVRkwyWEoyT1FEZzlUVmRRU0g5aFdVaw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">copd</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1FLYUNvRHJXb0hHbS1OOTNuNFN5eVk4OWVuN3gxUWFLYzIwSHlKVm84UU9UN2EwZUUweGdZcDRHSzJHcS1xT2FNdnRmV3hiVXZjYi0xaWZrdzF1ZUJadHlZNDl3bFluZk55c2JfRW8xdjJYQ0VqNDBVRkwyWEoyT1FEZzlUVmRRU0g5aFdVaw?oc=5)
+
+---
 
 ### [El enfisema pulmonar en pacientes con cáncer de pulmón avanzado se asocia a una mayor supervivencia - El médico interactivo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBLWFpJN3NMcmZQYkd3cVVjQ0gxZ1hxNS1PZ3N4QXB0OE5CZUJ4Wi1yNnNUWEVYVjVUeW1odkFqT3RTV0c4cThTSlNnTEJyNnlEOC10Wm80SlMtRnBXWUI4MjlGVkVORU10MXZoamx5OWNBSFp2R1BObF9SWVhBUXBta3gtX0huN2JDUzV0NEVRZFNfMk82MFFWUERHQmkzTWV5eDhaZ1FSR2I3RjNHMmY3dzcyNXdGSUJxb2t4T2NrZjByYTYwdEN5R0k?oc=5)
 

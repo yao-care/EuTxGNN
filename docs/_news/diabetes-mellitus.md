@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabete（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。10 則新聞、86 個相關藥物。"
+description: "diabete（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabete（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>10 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,13 +114,21 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（7 則）
 
-### [Relacionan el ácido palmítico con peor respuesta a la insulina y el oleico podría ejercer un efecto protector](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3R0OHNoX1Y5VEtDcXY2RUg4eC1Hem1CME1jdGdFblJNQVVReU5CQVYzM0tRYWZma1J1T2RFaWl0bWVrNWVycnMzX2ducldoMXlGUFBrT3d0R3lScm1EZ2ZGVnNqOHNfcVBNLW5LS1FTUEpXSlpaTE5PQVlUcWw2TlB6UUNpOVBkVmlFVG90YVNWbDRic1dLMVkya0JueUdGMlp3cnpxQ2Faam0ydEFPenk5MTB1MUNTdXg3MTgwaEowMjdvTlYtYzlTQmtKRThFRnNMY1hseUhpbmPSAeABQVVfeXFMT3V2VFB2ZGs3dlctcFRZZXBSMTRCdENvNzFpNWQtb29jVGQ4OWFpWTFSMGduYVlTSUJrOFhNNWg5RXBUSGZCcm0wcFI3Y21HZzhVa2wyRTFZQWRuR2VmRDVXMWJFSUxjbldhTnBINDZDdG1MZ0ZwUzJLUHlSSW5GUFpiekY3WmdMajFkWGxpUFBDVHRSV3U1SjUyZjFDMlFpNWpuSktmdWVvbUh0dWkxVXRBNFhPbGFTVTN6VzBDSUE2YU95dF84c3JLWGI1ajFQWU11UWZoNkNNamZxNW1ONE8?oc=5)
+### [Analizan el impacto de los principales ácidos grasos de la dieta en el desarrollo de la diabetes mellitus tipo 2 - El médico interactivo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHVSaUtCRzJUdTlvLTd4ajhEejBWTk1wNUQwaFQyY3NqY1Z4ZFoya19uX29GYlpzQm8xY2ZkRFBPY093NmVwUnpWdzJCLU81NHRrdXZObGVSUHlvb0lydEh6TjZoaTlUTTlMWGdTbm1YYkstWU50aW1PVUpmYnV0N2stdEhucUxWeVc3YVByT0hzVEpWZ1VrZU5LRFVSSUpTcFBZblRLMXNOSUFIX2g5Z1hqX0VDRWppb1Npak9rbDVFc0VrOHFyNkFtSktuRG5wT01LSUVtSWhvbHNHWXc?oc=5)
 
 2026-04-15
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3R0OHNoX1Y5VEtDcXY2RUg4eC1Hem1CME1jdGdFblJNQVVReU5CQVYzM0tRYWZma1J1T2RFaWl0bWVrNWVycnMzX2ducldoMXlGUFBrT3d0R3lScm1EZ2ZGVnNqOHNfcVBNLW5LS1FTUEpXSlpaTE5PQVlUcWw2TlB6UUNpOVBkVmlFVG90YVNWbDRic1dLMVkya0JueUdGMlp3cnpxQ2Faam0ydEFPenk5MTB1MUNTdXg3MTgwaEowMjdvTlYtYzlTQmtKRThFRnNMY1hseUhpbmPSAeABQVVfeXFMT3V2VFB2ZGs3dlctcFRZZXBSMTRCdENvNzFpNWQtb29jVGQ4OWFpWTFSMGduYVlTSUJrOFhNNWg5RXBUSGZCcm0wcFI3Y21HZzhVa2wyRTFZQWRuR2VmRDVXMWJFSUxjbldhTnBINDZDdG1MZ0ZwUzJLUHlSSW5GUFpiekY3WmdMajFkWGxpUFBDVHRSV3U1SjUyZjFDMlFpNWpuSktmdWVvbUh0dWkxVXRBNFhPbGFTVTN6VzBDSUE2YU95dF84c3JLWGI1ajFQWU11UWZoNkNNamZxNW1ONE8?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHVSaUtCRzJUdTlvLTd4ajhEejBWTk1wNUQwaFQyY3NqY1Z4ZFoya19uX29GYlpzQm8xY2ZkRFBPY093NmVwUnpWdzJCLU81NHRrdXZObGVSUHlvb0lydEh6TjZoaTlUTTlMWGdTbm1YYkstWU50aW1PVUpmYnV0N2stdEhucUxWeVc3YVByT0hzVEpWZ1VrZU5LRFVSSUpTcFBZblRLMXNOSUFIX2g5Z1hqX0VDRWppb1Npak9rbDVFc0VrOHFyNkFtSktuRG5wT01LSUVtSWhvbHNHWXc?oc=5)
+
+---
+
+### [Diabete tipo 2, verso nuova classificazione: cosa cambia - Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUtsVG50TzFQUWdEaHdLOGlyRmQ4bzl0QnRrUVZfLVhVRzRIVlVnNldCYzZhaEtQOTR2OFBvdUVmdkRqMExDU1JfeEJjTVIxNjFPZ0JKd3plRFBrdEpKaFJYNVBMUVpBZkt5M2diS1lDLVQ2THJtRGtZRGJrZ0RVQUhfdUJOTHRJRlJJdlRpcw?oc=5)
+
+2026-04-15
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUtsVG50TzFQUWdEaHdLOGlyRmQ4bzl0QnRrUVZfLVhVRzRIVlVnNldCYzZhaEtQOTR2OFBvdUVmdkRqMExDU1JfeEJjTVIxNjFPZ0JKd3plRFBrdEpKaFJYNVBMUVpBZkt5M2diS1lDLVQ2THJtRGtZRGJrZ0RVQUhfdUJOTHRJRlJJdlRpcw?oc=5)
 
 ---
 
@@ -137,22 +145,6 @@ permalink: /news/diabetes-mellitus/
 2026-04-15
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnF3U1ZFMkwzQUlYaWpJbzE4MVpkYlYxSjR3cU4ySGw2ZUQ4VUZ6M2FYakpfUnF4THV3bmhvYktKaDQtLW1nWUFmMlBJeVo2enVYeXV4R2FSLVpfYWpOa0E2NzFad2FkV2V5Zld1V0w4Z0lpYjBidF90amx3NHhaYmdvMG50QQ?oc=5)
-
----
-
-### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
-
-2026-04-15
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
-
----
-
-### [A Distinct New Type of Diabetes Is Now Officially Recognized](https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1VxMTdtcFZxWUJjQ2ZzYWdhRTlrWVJQSVVKQUlsZ1dTbkduNVdOLTRZaWdYRks0QW01c2lPbnVHRkw2QXZ0TlFoa3lrdko5cUpUcW5mcUdWdWtkc1V3WnZDY09qNFlEOW1Ca1JNN1pBMkhHODNvbVA0RTE0cVl5Q2NaX3d0cWQzeEo0UGduTnIyZmM?oc=5)
-
-2026-04-14
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1VxMTdtcFZxWUJjQ2ZzYWdhRTlrWVJQSVVKQUlsZ1dTbkduNVdOLTRZaWdYRks0QW01c2lPbnVHRkw2QXZ0TlFoa3lrdko5cUpUcW5mcUdWdWtkc1V3WnZDY09qNFlEOW1Ca1JNN1pBMkhHODNvbVA0RTE0cVl5Q2NaX3d0cWQzeEo0UGduTnIyZmM?oc=5)
 
 ---
 
@@ -177,22 +169,6 @@ permalink: /news/diabetes-mellitus/
 2026-04-13
 
 來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Eb3p3alJUREliWTBNWkg2bmtqd2lNTXFnc1RjY2xvOFlKeVlGMVJmVG0zUlNaa2RQTjY3R3Y0SlpNUGVtcDBFZVYxUUI0QTlPNmlzSmwzNnI0ZVB5QWhkaFV1Z000dVFuOWdXTE9wcw?oc=5)
-
----
-
-### [Typ-1-Diabetes: Risikogene greifen direkt ins Gehirn ein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
-
-2026-04-13
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
-
----
-
-### [Medical herbalist details three major risk factors for erectile dysfunction](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUVoVEFBZ05tUjZlaldJS3F2TGp5ZWlSdmwtajBlWGw3eEwyRUprckhsZ01KRWR3Y2E4RS1DZi1XMGRlakQwWVE2bGRtX3V3NHBqVi0xaTF5cUkyMjJsb1FtcWdxTWJhVU52UVdZQldRZW1MRFBhSUJadi1mYm9xQV9XZXJJalVyV2E2Qm9JclVFRlFGLTRldkJrS3JVTkFSSFE5WEJEOU5EUU9xczQ4c2VoWVhRQ2RXbkZ1UlJXMF9jdmJ3Y0JKNXlnVy1OaGs?oc=5)
-
-2026-04-13
-
-來源：[GhanaWeb](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUVoVEFBZ05tUjZlaldJS3F2TGp5ZWlSdmwtajBlWGw3eEwyRUprckhsZ01KRWR3Y2E4RS1DZi1XMGRlakQwWVE2bGRtX3V3NHBqVi0xaTF5cUkyMjJsb1FtcWdxTWJhVU52UVdZQldRZW1MRFBhSUJadi1mYm9xQV9XZXJJalVyV2E2Qm9JclVFRlFGLTRldkJrS3JVTkFSSFE5WEJEOU5EUU9xczQ4c2VoWVhRQ2RXbkZ1UlJXMF9jdmJ3Y0JKNXlnVy1OaGs?oc=5)
 
 ---
 

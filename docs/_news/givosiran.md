@@ -44,19 +44,19 @@ permalink: /news/givosiran/
 
 ## 相關新聞（2 則）
 
-### [How matching workouts to body clock can cut risk of heart disease - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
-
-2026-04-14 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
-
----
-
 ### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
 2026-04-14 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
+
+---
+
+### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela](https://news.google.com/rss/articles/CBMimgJBVV95cUxPM29jNUVCZEFiNTR0bW1MNkpkZmNkeVNzNjhQN2ZNVkctVjJkUHlicVBJYVg0MkVpSnZVV0EwOXMwR3VKaEVENTNjeHNyVWpfRnNwYUJ1TjBDaEdaSkswN0lVcElVUDFEUDN6SmV1QXlaLXAta0NxS1JiY0pscnQ4YmNiOGRGaGF2T1FVa3BzTnZjNDR1bVNpOEw0RmRYSXg4VEhnYjFKb1Jfb3Nua0JkREZXR096VXhDRW1JR2otRFVoNVFiejJuRVNUaWY3eEV5NjdVWTJiSTBkQ2F4Qkozczg0S0dOVGZHV0JlSEFIdmFKZWpGN2tlenF2WlQwTnVRVDJ4c2ZGbERDejFCY1BMVzc4Rk5nR2xISWc?oc=5)
+
+2026-04-13 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Actualidad21](https://news.google.com/rss/articles/CBMimgJBVV95cUxPM29jNUVCZEFiNTR0bW1MNkpkZmNkeVNzNjhQN2ZNVkctVjJkUHlicVBJYVg0MkVpSnZVV0EwOXMwR3VKaEVENTNjeHNyVWpfRnNwYUJ1TjBDaEdaSkswN0lVcElVUDFEUDN6SmV1QXlaLXAta0NxS1JiY0pscnQ4YmNiOGRGaGF2T1FVa3BzTnZjNDR1bVNpOEw0RmRYSXg4VEhnYjFKb1Jfb3Nua0JkREZXR096VXhDRW1JR2otRFVoNVFiejJuRVNUaWY3eEV5NjdVWTJiSTBkQ2F4Qkozczg0S0dOVGZHV0JlSEFIdmFKZWpGN2tlenF2WlQwTnVRVDJ4c2ZGbERDejFCY1BMVzc4Rk5nR2xISWc?oc=5)
 
 ---
 

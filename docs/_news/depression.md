@@ -45,11 +45,11 @@ permalink: /news/depression/
 
 ---
 
-### [Vitamin D im Check: Warum Stiftung Warentest jetzt zur Vorsicht rät](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVQtbUVSWFZkS1c3VTBKbnA2b2x4V2J3cG5BM3ltSVFKcERwUmNiUmFSdFM2RWJGOHZwQ0M1cXVBSFZaeDlqOXM5MTZKcFF1NXV0UEJVNFlQemFIZnpJdi14UEpJZ3VXY2dWT2ctclE4Tk00M0dqZGFxVGZDSE1hY0hqbU5LbDloYmpsWklURVRrQzY3UzJwenNjemFrMVE?oc=5)
+### [Vorsicht vor Einnahmefehlern: Nur diese Vitamin-D-Präparate überzeugen Stiftung Warentest](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFgtZ25wc0VyV0lpVGZlZEFrS2pMbDYtZ2FmejFVamRkZ2JHd1ltNGJpckE5RGVwRkJFc0JwZmY4dm1FcW5kaklac25zczg3VVR5YUxjMjhwQ2wwTnFTbzcxNkhSNWlpczlLWncwcExlUGpCTWt3R19EVTRpNExZN3RUT09qcFgwN25GcG9VOEFTXzdWSzlF?oc=5)
 
-2026-04-15
+2026-04-14
 
-來源：[Joyn](https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVQtbUVSWFZkS1c3VTBKbnA2b2x4V2J3cG5BM3ltSVFKcERwUmNiUmFSdFM2RWJGOHZwQ0M1cXVBSFZaeDlqOXM5MTZKcFF1NXV0UEJVNFlQemFIZnpJdi14UEpJZ3VXY2dWT2ctclE4Tk00M0dqZGFxVGZDSE1hY0hqbU5LbDloYmpsWklURVRrQzY3UzJwenNjemFrMVE?oc=5)
+來源：[Joyn](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFgtZ25wc0VyV0lpVGZlZEFrS2pMbDYtZ2FmejFVamRkZ2JHd1ltNGJpckE5RGVwRkJFc0JwZmY4dm1FcW5kaklac25zczg3VVR5YUxjMjhwQ2wwTnFTbzcxNkhSNWlpczlLWncwcExlUGpCTWt3R19EVTRpNExZN3RUT09qcFgwN25GcG9VOEFTXzdWSzlF?oc=5)
 
 ---
 

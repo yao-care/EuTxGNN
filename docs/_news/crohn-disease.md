@@ -31,7 +31,7 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [T&H-Diät bei Morbus Crohn: Alternative zur EEN](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDN6bXdtaGpGQWlVbi1yR0lvbk1JdEgyeUJsVXJzSzRVYi1TVGJ4OTIza3R6WTd5WXFOZjhyajd1RUNRVndrZE9DeFU5eW5XZUpDZHB2SHhFQ3hRbXZGd0lvek84SVhQbThpN3A4cVRuaDJKUFV2S3o2TkM1cXFWb1BaUW5BOTY4OUMxQVRZWllSZVowZjhlRHVNaHgyTGdSNFZhdjZjLVllanFfRGQzbkxmOTRFUzNnSlUtS2wwUWdXSFBfRWszY0dfWXZYTTJPM2NzVGN0VFVPRFZ4OE9sOFM2blJ3Z2ZvNUdlM1dPSkt0Qzg?oc=5)
+### [Tasty & Healthy-Diät: Alternative zur enteralen Ernährung bei Morbus Crohn?](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDN6bXdtaGpGQWlVbi1yR0lvbk1JdEgyeUJsVXJzSzRVYi1TVGJ4OTIza3R6WTd5WXFOZjhyajd1RUNRVndrZE9DeFU5eW5XZUpDZHB2SHhFQ3hRbXZGd0lvek84SVhQbThpN3A4cVRuaDJKUFV2S3o2TkM1cXFWb1BaUW5BOTY4OUMxQVRZWllSZVowZjhlRHVNaHgyTGdSNFZhdjZjLVllanFfRGQzbkxmOTRFUzNnSlUtS2wwUWdXSFBfRWszY0dfWXZYTTJPM2NzVGN0VFVPRFZ4OE9sOFM2blJ3Z2ZvNUdlM1dPSkt0Qzg?oc=5)
 
 2026-04-15
 

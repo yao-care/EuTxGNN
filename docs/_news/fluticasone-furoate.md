@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthme</span></li>
+<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -43,6 +43,14 @@ permalink: /news/fluticasone-furoate/
 </div>
 
 ## 相關新聞（3 則）
+
+### [Trockenpulverinhalator senkt Exazerbationsrisiko bei COPD stärker als andere LAMA-LABA-Inhalatoren - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1FLYUNvRHJXb0hHbS1OOTNuNFN5eVk4OWVuN3gxUWFLYzIwSHlKVm84UU9UN2EwZUUweGdZcDRHSzJHcS1xT2FNdnRmV3hiVXZjYi0xaWZrdzF1ZUJadHlZNDl3bFluZk55c2JfRW8xdjJYQ0VqNDBVRkwyWEoyT1FEZzlUVmRRU0g5aFdVaw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">copd</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1FLYUNvRHJXb0hHbS1OOTNuNFN5eVk4OWVuN3gxUWFLYzIwSHlKVm84UU9UN2EwZUUweGdZcDRHSzJHcS1xT2FNdnRmV3hiVXZjYi0xaWZrdzF1ZUJadHlZNDl3bFluZk55c2JfRW8xdjJYQ0VqNDBVRkwyWEoyT1FEZzlUVmRRU0g5aFdVaw?oc=5)
+
+---
 
 ### [La 14ª edición de "Espacio Asma" analiza cómo la medicina de precisión y las nuevas tecnologías están transformando el abordaje del asma](https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVNDUjlPWHF1TDVhOXVjcF8tcGRTRm5TMGVsaFhJOTJYSWhZbUVVVl9xZEswT0R1UXZYNUctdEtBRnZtLTR5ckxMdW1jcnRPVUlWbThZdkFLVnA5NjViTUhPYW8yZjVSckRjS21pQk5SMGk2TXFyTEJhVkxPanc?oc=5)
 
@@ -57,14 +65,6 @@ permalink: /news/fluticasone-furoate/
 2026-04-14 <span class="news-indication-tag">EPOC</span>
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBLWFpJN3NMcmZQYkd3cVVjQ0gxZ1hxNS1PZ3N4QXB0OE5CZUJ4Wi1yNnNUWEVYVjVUeW1odkFqT3RTV0c4cThTSlNnTEJyNnlEOC10Wm80SlMtRnBXWUI4MjlGVkVORU10MXZoamx5OWNBSFp2R1BObF9SWVhBUXBta3gtX0huN2JDUzV0NEVRZFNfMk82MFFWUERHQmkzTWV5eDhaZ1FSR2I3RjNHMmY3dzcyNXdGSUJxb2t4T2NrZjByYTYwdEN5R0k?oc=5)
-
----
-
-### [Coloration des cheveux : attention à ces réactions allergiques, alerte l’Anses](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkJGeVBhaUZnbUQ3NXNHSFFDSUZTdHVMbm5xdUtlb21KeFEtNzJFYmJfN2J2ekcwYi1mcng0bXVyd2tSQ2xubm1KY0tkb2txSHUyVm95RjVVangwazRqVHFFRmZTMnBnUWhjTzJtR1YzLXk2RUItZmM4VDctTXJITE0wLTBTbnl0dTFLMjdhSVdxeHlTRVVnRkxOMnJJUG1HdG9FeEg0T0l2Vlp1eFltZ2w0azFUc0FWNHfSAb8BQVVfeXFMTk9QcmdGNGUxcWNmZE9pWDRPVENHZUI3SEJ1NXpxZVBtSXJ6WG94S0dCSGxfWkJDa3dKWmM2dUVKRzRIN19uclFtUFNFdlBwSG9KZjVGcHgxYlNac28xRWVvMExpOEs0Q2gtNFhyYk9Ba19NRFZGNklERXZIZnhsbnU5NTVkblJYYndDc05DUVJ5OGlHd0RCMGtnQ0M5VFNBdkw2dm1fN3UxNGNCOWFsVTg1NGRPQ0VCNXNqa2ZVSFk?oc=5)
-
-2026-04-14 <span class="news-indication-tag">asthme</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkJGeVBhaUZnbUQ3NXNHSFFDSUZTdHVMbm5xdUtlb21KeFEtNzJFYmJfN2J2ekcwYi1mcng0bXVyd2tSQ2xubm1KY0tkb2txSHUyVm95RjVVangwazRqVHFFRmZTMnBnUWhjTzJtR1YzLXk2RUItZmM4VDctTXJITE0wLTBTbnl0dTFLMjdhSVdxeHlTRVVnRkxOMnJJUG1HdG9FeEg0T0l2Vlp1eFltZ2w0azFUc0FWNHfSAb8BQVVfeXFMTk9QcmdGNGUxcWNmZE9pWDRPVENHZUI3SEJ1NXpxZVBtSXJ6WG94S0dCSGxfWkJDa3dKWmM2dUVKRzRIN19uclFtUFNFdlBwSG9KZjVGcHgxYlNac28xRWVvMExpOEs0Q2gtNFhyYk9Ba19NRFZGNklERXZIZnhsbnU5NTVkblJYYndDc05DUVJ5OGlHd0RCMGtnQ0M5VFNBdkw2dm1fN3UxNGNCOWFsVTg1NGRPQ0VCNXNqa2ZVSFk?oc=5)
 
 ---
 

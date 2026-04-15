@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Dix jours « en apnée » : une famille face à l’AVC de Camille, 7 ans - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
 
@@ -54,7 +54,7 @@ permalink: /news/telmisartan/
 
 ### [How matching workouts to body clock can cut risk of heart disease - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
 
-2026-04-14 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span>
+2026-04-14 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
 
@@ -65,6 +65,14 @@ permalink: /news/telmisartan/
 2026-04-14 <span class="news-indication-tag">ictus</span>
 
 來源：[il Giornale](https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1R1NnhyWnEtVllkOWxZbUJ5NXgtUkpiOTZEeEdpdmNiOHdzR2pGcFphZnFYamg1TmNOd05XbmJMR3o1NTkzUnphUUJYaEJycnFlTmhwYnctSzZ1a0l2Z3RzYVo3ZFBTNExzdWZ4NVQ0bXF0TG1FV3c4ak9wc0tNWGViOHZqR2w0XzVVTUY2NlhOdFd4TmpWUUxNSEhkMHFqTDY1bWdxNWFnZEg2TGtlSnByeWd3Zm53OGNSNGln?oc=5)
+
+---
+
+### [Prävalenz der Herzinsuffizienz in Deutschland: Daten aus der NAKO-Gesundheitsstudie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNendFMDUwbDlFc05xcjJGcTE4a0IxV1ZlOTE2c0pHTlNZWUVHdmxYckZYQWQ0eG0teGI2aGx1UnM0TS0tZG8wNV9BOU9MMWFRSHA4dWV1OEdfZTdfcmFER3ROY3F2UkxYdG9ZS1A1SmRmVXhiQk55ZXRkUkRwMkNlMk9ubjNiZ1Fzb2dCclMwU1NLc2NTTUdsbk54ZU8tOUxTanlyaWlKNERLVTUyY2JhdWZDMFloUDVZUm1pc1lzZ0x4MkxHandBTDFOaWk4emxBTVpyN193elNZZnowTF9VTHhNZ2lidw?oc=5)
+
+2026-04-14 <span class="news-indication-tag">heart failure</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNendFMDUwbDlFc05xcjJGcTE4a0IxV1ZlOTE2c0pHTlNZWUVHdmxYckZYQWQ0eG0teGI2aGx1UnM0TS0tZG8wNV9BOU9MMWFRSHA4dWV1OEdfZTdfcmFER3ROY3F2UkxYdG9ZS1A1SmRmVXhiQk55ZXRkUkRwMkNlMk9ubjNiZ1Fzb2dCclMwU1NLc2NTTUdsbk54ZU8tOUxTanlyaWlKNERLVTUyY2JhdWZDMFloUDVZUm1pc1lzZ0x4MkxHandBTDFOaWk4emxBTVpyN193elNZZnowTF9VTHhNZ2lidw?oc=5)
 
 ---
 

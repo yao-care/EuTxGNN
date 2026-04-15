@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,37 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [La semaglutida demuestra en un nuevo estudio eficacia frente a la enfermedad hepática metabólica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
+
+2026-04-15
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
+
+---
+
+### [OECD-Studie: Fettleibigkeit macht Gesundheitsfortschritte zunichte – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
+
+2026-04-15
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
+
+---
 
 ### [Proyecto MELIPOP: el estilo de vida mediterráneo podría frenar la obesidad infantil desde la etapa preescolar](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPXzZyT1lhYnJfa1Fkbm9tcmVfZnVuVktuR3NGaER2Zk9wc0JPaGFoN3Uxbk55NjdjVXo5SS1pc0M4QllJeTJFOWEtX19INW1MSVlrMFVvbURJRE9jM0JWb3hRU1VkZEMxTGVteDJPUkxRdEdsWGdBUlVTMFlNWEFYTmZ2eDFieE0tcEhMckVtZXZFbTBsdlU1WVZOalhFUDdNVzBJcmtWcF95MGZMZk5HSjh2cDZwWWpUcGM3cEFmVU9JVEhBYnhiejE5T1BmZXlnZ29CTFB1WUdTbnlJLUwwaWtnVEE0R2loOTNJSUd5ZUVsekZjZXc?oc=5)
 
 2026-04-15
 
 來源：[Mercacei](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPXzZyT1lhYnJfa1Fkbm9tcmVfZnVuVktuR3NGaER2Zk9wc0JPaGFoN3Uxbk55NjdjVXo5SS1pc0M4QllJeTJFOWEtX19INW1MSVlrMFVvbURJRE9jM0JWb3hRU1VkZEMxTGVteDJPUkxRdEdsWGdBUlVTMFlNWEFYTmZ2eDFieE0tcEhMckVtZXZFbTBsdlU1WVZOalhFUDdNVzBJcmtWcF95MGZMZk5HSjh2cDZwWWpUcGM3cEFmVU9JVEhBYnhiejE5T1BmZXlnZ29CTFB1WUdTbnlJLUwwaWtnVEE0R2loOTNJSUd5ZUVsekZjZXc?oc=5)
+
+---
+
+### [Ozempic non funziona nel 10% dei casi: ora un nuovo studio chiama in causa la resistenza al GLP-1](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
+
+2026-04-15
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ permalink: /news/obesity/
 2026-04-14
 
 來源：[biermann-medizin.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
-
----
-
-### [Troppa pancia e poco muscolo, cos’è l’obesità sarcopenica e perché è un pericolo](https://news.google.com/rss/articles/CBMigAFBVV95cUxOOW5EMHhLdWtUdlcwVHVubGFwd2ZEeGVkblRKRkhUYjJMS0swcVc0VDlUaEZnZ25NamJQeThCLVlTM3ZEZl9qeGVVS0dTYTN5RWVZenZMOHZHeTJkUmJKQzJTT2t5c2tTZTNzaXk5cHBSel80YXdFWkluUHdST0JTNNIBhgFBVV95cUxNcVBjWEwxcEEzNm9XSlBzTWVrMkpvVndTMThuMHhlNUVpVnJfUDk5UTVINmdNQ1NLZDVXU0UwTnB6ZDJ4VEV5S09Xd2JldmoxbUliTEJyOTQ5RmNZNWZLTV9wM0JQamhONU9ORFNWYnlUdjJvRk1HNWMxRFF4N2VQUHRHSUtZdw?oc=5)
-
-2026-04-13
-
-來源：[DiLei](https://news.google.com/rss/articles/CBMigAFBVV95cUxOOW5EMHhLdWtUdlcwVHVubGFwd2ZEeGVkblRKRkhUYjJMS0swcVc0VDlUaEZnZ25NamJQeThCLVlTM3ZEZl9qeGVVS0dTYTN5RWVZenZMOHZHeTJkUmJKQzJTT2t5c2tTZTNzaXk5cHBSel80YXdFWkluUHdST0JTNNIBhgFBVV95cUxNcVBjWEwxcEEzNm9XSlBzTWVrMkpvVndTMThuMHhlNUVpVnJfUDk5UTVINmdNQ1NLZDVXU0UwTnB6ZDJ4VEV5S09Xd2JldmoxbUliTEJyOTQ5RmNZNWZLTV9wM0JQamhONU9ORFNWYnlUdjJvRk1HNWMxRFF4N2VQUHRHSUtZdw?oc=5)
 
 ---
 

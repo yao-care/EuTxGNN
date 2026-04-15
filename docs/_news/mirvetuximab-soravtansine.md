@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="Mirvetuximab Soravtansine 有什麼相關新聞？">
-<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/mirvetuximab-soravtansine/
 <p><a href="{{ '/drugs/mirvetuximab-soravtansine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [La 14ª edición de "Espacio Asma" analiza cómo la medicina de precisión y las nuevas tecnologías están transformando el abordaje del asma](https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVNDUjlPWHF1TDVhOXVjcF8tcGRTRm5TMGVsaFhJOTJYSWhZbUVVVl9xZEswT0R1UXZYNUctdEtBRnZtLTR5ckxMdW1jcnRPVUlWbThZdkFLVnA5NjViTUhPYW8yZjVSckRjS21pQk5SMGk2TXFyTEJhVkxPanc?oc=5)
 
 2026-04-14 <span class="news-indication-tag">asma</span>
 
 來源：[Corresponsables](https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVNDUjlPWHF1TDVhOXVjcF8tcGRTRm5TMGVsaFhJOTJYSWhZbUVVVl9xZEswT0R1UXZYNUctdEtBRnZtLTR5ckxMdW1jcnRPVUlWbThZdkFLVnA5NjViTUhPYW8yZjVSckRjS21pQk5SMGk2TXFyTEJhVkxPanc?oc=5)
-
----
-
-### [Coloration des cheveux : attention à ces réactions allergiques, alerte l’Anses](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkJGeVBhaUZnbUQ3NXNHSFFDSUZTdHVMbm5xdUtlb21KeFEtNzJFYmJfN2J2ekcwYi1mcng0bXVyd2tSQ2xubm1KY0tkb2txSHUyVm95RjVVangwazRqVHFFRmZTMnBnUWhjTzJtR1YzLXk2RUItZmM4VDctTXJITE0wLTBTbnl0dTFLMjdhSVdxeHlTRVVnRkxOMnJJUG1HdG9FeEg0T0l2Vlp1eFltZ2w0azFUc0FWNHfSAb8BQVVfeXFMTk9QcmdGNGUxcWNmZE9pWDRPVENHZUI3SEJ1NXpxZVBtSXJ6WG94S0dCSGxfWkJDa3dKWmM2dUVKRzRIN19uclFtUFNFdlBwSG9KZjVGcHgxYlNac28xRWVvMExpOEs0Q2gtNFhyYk9Ba19NRFZGNklERXZIZnhsbnU5NTVkblJYYndDc05DUVJ5OGlHd0RCMGtnQ0M5VFNBdkw2dm1fN3UxNGNCOWFsVTg1NGRPQ0VCNXNqa2ZVSFk?oc=5)
-
-2026-04-14 <span class="news-indication-tag">asthme</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkJGeVBhaUZnbUQ3NXNHSFFDSUZTdHVMbm5xdUtlb21KeFEtNzJFYmJfN2J2ekcwYi1mcng0bXVyd2tSQ2xubm1KY0tkb2txSHUyVm95RjVVangwazRqVHFFRmZTMnBnUWhjTzJtR1YzLXk2RUItZmM4VDctTXJITE0wLTBTbnl0dTFLMjdhSVdxeHlTRVVnRkxOMnJJUG1HdG9FeEg0T0l2Vlp1eFltZ2w0azFUc0FWNHfSAb8BQVVfeXFMTk9QcmdGNGUxcWNmZE9pWDRPVENHZUI3SEJ1NXpxZVBtSXJ6WG94S0dCSGxfWkJDa3dKWmM2dUVKRzRIN19uclFtUFNFdlBwSG9KZjVGcHgxYlNac28xRWVvMExpOEs0Q2gtNFhyYk9Ba19NRFZGNklERXZIZnhsbnU5NTVkblJYYndDc05DUVJ5OGlHd0RCMGtnQ0M5VFNBdkw2dm1fN3UxNGNCOWFsVTg1NGRPQ0VCNXNqa2ZVSFk?oc=5)
 
 ---
 

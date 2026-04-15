@@ -44,7 +44,7 @@ permalink: /news/alirocumab/
 
 ## 相關新聞（2 則）
 
-### [Bird flu outbreak leads to imposed cull](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
+### [Bird flu outbreak near Gainsborough leads to imposed cull](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
 
 2026-04-14 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
