@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elbasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
 ### [Vegane Ernährung: Neuer Standard zur Krankheitsprävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlhYelFYWXVyTXhodFM5WGI3RkgzYU1tNW01Y1k4UFk1RWFIdGdUY1ZXakxUSUs4VWhVVU1zSGhDWTlCcGlETU9tQnhWbnRzWWhsZzZ0Rkc0NXNCek1yOVRGOHJuN0NTRkx1QjFLa0NXYWtqWGR1Ml9aTkZtUm1NRkd1eG9UZTVvLThTSEdNbVVwQ3lkNldkU21TOUF5WkxDZEZvMzlDN3BVZ1lBYkZiS0ZMdk1iaF9q?oc=5)
 
 2026-04-14 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlhYelFYWXVyTXhodFM5WGI3RkgzYU1tNW01Y1k4UFk1RWFIdGdUY1ZXakxUSUs4VWhVVU1zSGhDWTlCcGlETU9tQnhWbnRzWWhsZzZ0Rkc0NXNCek1yOVRGOHJuN0NTRkx1QjFLa0NXYWtqWGR1Ml9aTkZtUm1NRkd1eG9UZTVvLThTSEdNbVVwQ3lkNldkU21TOUF5WkxDZEZvMzlDN3BVZ1lBYkZiS0ZMdk1iaF9q?oc=5)
+
+---
+
+### [Santé : les personnels des hôpitaux et Ehpad restent en moins bonne santé que la population, selon un observatoire - Sud Ouest](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeW9tME9WWTl4cERsNFRkQ3hSOEpRVi1aMGdFLW9zWE5keVJGUUxxc0hoWlk3S3ZJaUpMU29XcVBDZnVUR09zTjZ0NFdBWmY0VnVmUlplWElhbnlEZ19yZS1Vc0M3MHl3aDllRTh4dWRjM2pWZ3dqeFVCcm5oXzEwSk5mLU1oMldOZUgyLV9xelRsNEpWdjJhR3JjbF91a3ZXcFppS2s5allVY0hhVUxHTTFqZldPckVvMTJnWllZNTdyTDFRNlZ5cUlTQ3JZekZySDc1b290cnNaaEhLbkRNLWF4TTZ3eUpNNFVaUjdHRVloc0NNT1Fv?oc=5)
+
+2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeW9tME9WWTl4cERsNFRkQ3hSOEpRVi1aMGdFLW9zWE5keVJGUUxxc0hoWlk3S3ZJaUpMU29XcVBDZnVUR09zTjZ0NFdBWmY0VnVmUlplWElhbnlEZ19yZS1Vc0M3MHl3aDllRTh4dWRjM2pWZ3dqeFVCcm5oXzEwSk5mLU1oMldOZUgyLV9xelRsNEpWdjJhR3JjbF91a3ZXcFppS2s5allVY0hhVUxHTTFqZldPckVvMTJnWllZNTdyTDFRNlZ5cUlTQ3JZekZySDc1b290cnNaaEhLbkRNLWF4TTZ3eUpNNFVaUjdHRVloc0NNT1Fv?oc=5)
 
 ---
 
@@ -100,27 +108,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela - El Iceberg de Madrid](https://news.google.com/rss/articles/CBMilAJBVV95cUxOXzBDOEU2S05LZFZxLVJGcmxxbWEyTDJscjNVS3dlSXpEdHAwbWRNMU42ckw0cm5GcnZPdW0wTEM1SVkzUWVfaHlMOHpRbGt0bEdWSXhhN010cEhYMWhLbnZUSGZpVlItdlQwM2VHNHVza1Z1REp1bVNYUm5lRDFWdWswZTFFU1ZIMVRtd2ZvTGUxQ0Vhdjg4U3l5NXZqOFVNeEZxMkR0ZU1LX1lMREstdVZNREp4SVZvMllVdXBiZ00tSDdmWG9DUGRKenM4bjdpTmNhWkd3WXhIVVJ5c0J0ak9UMGl3dnBLRkd3R0VNbWoweS1tVU9oSjl4aWNlVVM3S0xWR1Etay1hQVhhdGhZUTVlSEI?oc=5)
-
-2026-04-13 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El Iceberg de Madrid](https://news.google.com/rss/articles/CBMilAJBVV95cUxOXzBDOEU2S05LZFZxLVJGcmxxbWEyTDJscjNVS3dlSXpEdHAwbWRNMU42ckw0cm5GcnZPdW0wTEM1SVkzUWVfaHlMOHpRbGt0bEdWSXhhN010cEhYMWhLbnZUSGZpVlItdlQwM2VHNHVza1Z1REp1bVNYUm5lRDFWdWswZTFFU1ZIMVRtd2ZvTGUxQ0Vhdjg4U3l5NXZqOFVNeEZxMkR0ZU1LX1lMREstdVZNREp4SVZvMllVdXBiZ00tSDdmWG9DUGRKenM4bjdpTmNhWkd3WXhIVVJ5c0J0ak9UMGl3dnBLRkd3R0VNbWoweS1tVU9oSjl4aWNlVVM3S0xWR1Etay1hQVhhdGhZUTVlSEI?oc=5)
-
----
-
 ### [Vitamina B1: confermata una teoria di 67 anni fa](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
 
 來源：[tomshw.it](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
-
----
-
-### [Cold sore virus leaves Penrhyn-coch woman with encephalitis brain damage](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
-
-2026-04-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
 
 ---
 

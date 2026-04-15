@@ -64,6 +64,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Santé : les personnels des hôpitaux et Ehpad restent en moins bonne santé que la population, selon un observatoire - Sud Ouest](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeW9tME9WWTl4cERsNFRkQ3hSOEpRVi1aMGdFLW9zWE5keVJGUUxxc0hoWlk3S3ZJaUpMU29XcVBDZnVUR09zTjZ0NFdBWmY0VnVmUlplWElhbnlEZ19yZS1Vc0M3MHl3aDllRTh4dWRjM2pWZ3dqeFVCcm5oXzEwSk5mLU1oMldOZUgyLV9xelRsNEpWdjJhR3JjbF91a3ZXcFppS2s5allVY0hhVUxHTTFqZldPckVvMTJnWllZNTdyTDFRNlZ5cUlTQ3JZekZySDc1b290cnNaaEhLbkRNLWF4TTZ3eUpNNFVaUjdHRVloc0NNT1Fv?oc=5)
+
+2026-04-14
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeW9tME9WWTl4cERsNFRkQ3hSOEpRVi1aMGdFLW9zWE5keVJGUUxxc0hoWlk3S3ZJaUpMU29XcVBDZnVUR09zTjZ0NFdBWmY0VnVmUlplWElhbnlEZ19yZS1Vc0M3MHl3aDllRTh4dWRjM2pWZ3dqeFVCcm5oXzEwSk5mLU1oMldOZUgyLV9xelRsNEpWdjJhR3JjbF91a3ZXcFppS2s5allVY0hhVUxHTTFqZldPckVvMTJnWllZNTdyTDFRNlZ5cUlTQ3JZekZySDc1b290cnNaaEhLbkRNLWF4TTZ3eUpNNFVaUjdHRVloc0NNT1Fv?oc=5)
+
+---
+
 ### [Red drink could 'unclog arteries' and lower cholesterol, studies suggest - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFBXNE5hekZ6djNUNzBoci00TXl1eWNtSEY2NWRCSC1wcC1qcEtwMmVsRl9ra2R3aXdpSWxyU3cwQld3eEJWS0ppQmVNS21WTFMxMVBsVnJXajdSSXRmUmYyaUdXZ1V1OG5GRFhfNEpOYVNKaVh5Q2JRZmdiSTBIRzVka9IBiAFBVV95cUxQbWoyR1c5bEZqNmYyOUNvMlM3UTNyY3plcTFUUk40amRWay1ZNl96ZHgyenZZbVRNUndzX2VUdXF5b3J6eFhoNWZyeW9mM3NsdXpROVctWlNac0t0VnNzLXkzVE5Tb3hHaDZSejEyQ0dvZDVnclJyVnRVeHVrMm1IMm0tTllyX3NP?oc=5)
 
 2026-04-14
@@ -117,14 +125,6 @@ permalink: /news/multiple-sclerosis/
 2026-04-13
 
 來源：[tomshw.it](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
-
----
-
-### [Cold sore virus leaves Penrhyn-coch woman with encephalitis brain damage](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
-
-2026-04-12
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
 
 ---
 

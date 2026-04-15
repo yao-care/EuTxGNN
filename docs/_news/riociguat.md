@@ -44,6 +44,30 @@ permalink: /news/riociguat/
 
 ## 相關新聞（29 則）
 
+### [Bird flu outbreak leads to imposed cull](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
+
+2026-04-14 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
+
+---
+
+### [Momentos de máxima tensión en este cafetería de Albacete que dejaron a todos en shock - El Digital de Albacete](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGxCSUNZOURZUjhWVlFOQmx6NEU4OXlwTHd0NnlzbVYwZkgwcjFkZDVsY1IxTEdEZVY4cHFERkp1WkdJT09IWTBjS2ZkUXgwWExLU1JFWVFzVjNSRG5vTzlveGpTYmlPWDJBdUViMzFZNkNKNkNwcGtTSG4xdDExMFZqY0ZvVnM3LXU2NmE0UEhSM094R0pUazduTVFEeUpTRzVHWHRHWGtyRUNVMkZlQXNHb1o1V2pYSG5HZWRDVUxBRURMS1RuQjdIQXRSQQ?oc=5)
+
+2026-04-14 <span class="news-indication-tag">AF</span>
+
+來源：[El Digital de Albacete](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGxCSUNZOURZUjhWVlFOQmx6NEU4OXlwTHd0NnlzbVYwZkgwcjFkZDVsY1IxTEdEZVY4cHFERkp1WkdJT09IWTBjS2ZkUXgwWExLU1JFWVFzVjNSRG5vTzlveGpTYmlPWDJBdUViMzFZNkNKNkNwcGtTSG4xdDExMFZqY0ZvVnM3LXU2NmE0UEhSM094R0pUazduTVFEeUpTRzVHWHRHWGtyRUNVMkZlQXNHb1o1V2pYSG5HZWRDVUxBRURMS1RuQjdIQXRSQQ?oc=5)
+
+---
+
+### [Aurelio Rojas, cardiólogo: “Si no quieres que te afecte la ‘paradoja del Sol’ debes comer dos veces por semana - Diario AS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVnpndFZxNVNTSXhTbEZTUGdEek1Ea3NNc1JCcWRlVEh6dU5NaTdiNW5aLUJDOWhzM3lpQU9oSnRVbmVOb204Z1hiQ2ZLei1oeHF4NldaQi1MeEhyV2xoZU0xTS0xSmN5RFY2UVV1N3VZUk1lYmZ1VmhKMkRCUVFEQTVnQUNFRzVvcUpCZG9tQjJGZzloZm9QTDJVVkhGcFQ5SlJ6THd2c2RwRWFObVZTMGo1dWJYU3VGWGQ2dE13TXB2dS1HYzczTUloRnp1YVRiMXNxZDRvUUY4dFhGYzVXSXdGNkl6YURGVUFVWFJ2NTk2UdIBhgJBVV95cUxQYm1FVk1nRDFTVEljNncyZjhlY2xTV3pwSXpMeWFnVzk0QURMRmd1bHQzdmVvbGJ6ME9UcGdwRkxYTzRCMDlRazZzS3cyTmRYcGdoT2s5Z0VJRDJPVFc3ZWVkNGN0SWFmYmZZeUE4MTFSbmVxWHlqNUJheFZwekZydThIWVNEUkZnN0RZd2ZuWUJocmc0RTgwN0VzX2h6azg3ZnRSZWpJZzJrS0k4SzJVZnRDWEV1UDhyZm9DQll2OUtPZF9QYzMyYm1uNVRlMDdtTElRb1ZJTHMweF90ODFjeUk1NV8xX0ZKVEpnN2ZreXBLU2dDUWJKZGxTN2hVQzBFZ0wwdi1n?oc=5)
+
+2026-04-14 <span class="news-indication-tag">AF</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVnpndFZxNVNTSXhTbEZTUGdEek1Ea3NNc1JCcWRlVEh6dU5NaTdiNW5aLUJDOWhzM3lpQU9oSnRVbmVOb204Z1hiQ2ZLei1oeHF4NldaQi1MeEhyV2xoZU0xTS0xSmN5RFY2UVV1N3VZUk1lYmZ1VmhKMkRCUVFEQTVnQUNFRzVvcUpCZG9tQjJGZzloZm9QTDJVVkhGcFQ5SlJ6THd2c2RwRWFObVZTMGo1dWJYU3VGWGQ2dE13TXB2dS1HYzczTUloRnp1YVRiMXNxZDRvUUY4dFhGYzVXSXdGNkl6YURGVUFVWFJ2NTk2UdIBhgJBVV95cUxQYm1FVk1nRDFTVEljNncyZjhlY2xTV3pwSXpMeWFnVzk0QURMRmd1bHQzdmVvbGJ6ME9UcGdwRkxYTzRCMDlRazZzS3cyTmRYcGdoT2s5Z0VJRDJPVFc3ZWVkNGN0SWFmYmZZeUE4MTFSbmVxWHlqNUJheFZwekZydThIWVNEUkZnN0RZd2ZuWUJocmc0RTgwN0VzX2h6azg3ZnRSZWpJZzJrS0k4SzJVZnRDWEV1UDhyZm9DQll2OUtPZF9QYzMyYm1uNVRlMDdtTElRb1ZJTHMweF90ODFjeUk1NV8xX0ZKVEpnN2ZreXBLU2dDUWJKZGxTN2hVQzBFZ0wwdi1n?oc=5)
+
+---
+
 ### [Widerspruch zur STIKO: Fachgesellschaft empfiehlt Ausweitung der Dengue-Impfung - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxOV25RYks0VWdPZm9kLVRvd3g4UngycjFXMkFaRklJOHRGS181OUxCZUY4V2tjVlZBdlBmZjhxbGVDUUdnSjNkc1NfQjVVR1J4b2s1amtoc1FweU11Zkd5d1U0V1E1Sm43aUE1bTZ4dEV6c1BJQ01fMzNrNzJvdkJGQ3hESF9OZFBsdVdSVVNZVmZRSkRSS2dXNkRlUHZyVnkwOG1pM0FR?oc=5)
 
 2026-04-14 <span class="news-indication-tag">AF</span>
@@ -76,27 +100,27 @@ permalink: /news/riociguat/
 
 ---
 
+### [The daily drink habit being linked to better brain health - Yahoo Life UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDhqVzQzaDl2ZzRiRmQ0R1dwUFcxQTBLYS01WXg3dWNzVGNsaWpNUXFmaG84ZTFJRnMyaTlHaFBGTUVMQ2dRSjJZVFhKT2ZrWlRBUDFlVTMzWkpacElwTjlZMWwwVG5sYUJibDh6X2JfQl9SRlBqaU0wOHJFbU91X28tMVgtWEZVNTRSWVl3?oc=5)
+
+2026-04-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDhqVzQzaDl2ZzRiRmQ0R1dwUFcxQTBLYS01WXg3dWNzVGNsaWpNUXFmaG84ZTFJRnMyaTlHaFBGTUVMQ2dRSjJZVFhKT2ZrWlRBUDFlVTMzWkpacElwTjlZMWwwVG5sYUJibDh6X2JfQl9SRlBqaU0wOHJFbU91X28tMVgtWEZVNTRSWVl3?oc=5)
+
+---
+
+### [Screening medici gratuiti in piazza a Vibo per la Giornata nazionale della prevenzione · ilvibonese.it - Il Vibonese](https://news.google.com/rss/articles/CBMixwFBVV95cUxPenZ5Z1Atb0NFTzlvYkM3ODJhTlpSMERIdXRuODFlMWRWSDNRT25SS3NwUGk1NWo2dnNLMEk4SW1PdE9PMWlyVTFpb2c4NU5lOEVIVVBQLUlzWGxycDYtdU5PQm84MEtZQ3FZQS0waV95eS12bmNoUG9KMmE3a05UcGtOQi1lUWJFWmp5OGpfTjZBUWpULXhkck1CaU1kZDFmak5ycTFvb1Zaend6VWQtNXQ0VUJsSDRaLUlqVjA0QUZzRE4xN0Q40gHMAUFVX3lxTFBNZ1BpSzNxRHN5dXYtRG5pN3M2NHdfdGt3bE5EZE4zZ3JaVHZFVHo2dThCalZlaTlyTEV4WTNZM28wMDVUT2FKLVpNNVR2OE8tb0VoSnF0SnpBSUx5UmJSVGZMcnpsOHBHTFVCRkhFQUdWOUxrWHpQRmszZ21vMVV1eVFRN09MUWVXb1k4VXhOUl9PamY0WVliNEcxZjNmNDlRcVBfcHJSRTIzaWdCLTd2YUNrckRMRE8tYVUwRWJ5XzQ1VGI2dDJkVl9YTQ?oc=5)
+
+2026-04-14 <span class="news-indication-tag">AF</span>
+
+來源：[Il Vibonese](https://news.google.com/rss/articles/CBMixwFBVV95cUxPenZ5Z1Atb0NFTzlvYkM3ODJhTlpSMERIdXRuODFlMWRWSDNRT25SS3NwUGk1NWo2dnNLMEk4SW1PdE9PMWlyVTFpb2c4NU5lOEVIVVBQLUlzWGxycDYtdU5PQm84MEtZQ3FZQS0waV95eS12bmNoUG9KMmE3a05UcGtOQi1lUWJFWmp5OGpfTjZBUWpULXhkck1CaU1kZDFmak5ycTFvb1Zaend6VWQtNXQ0VUJsSDRaLUlqVjA0QUZzRE4xN0Q40gHMAUFVX3lxTFBNZ1BpSzNxRHN5dXYtRG5pN3M2NHdfdGt3bE5EZE4zZ3JaVHZFVHo2dThCalZlaTlyTEV4WTNZM28wMDVUT2FKLVpNNVR2OE8tb0VoSnF0SnpBSUx5UmJSVGZMcnpsOHBHTFVCRkhFQUdWOUxrWHpQRmszZ21vMVV1eVFRN09MUWVXb1k4VXhOUl9PamY0WVliNEcxZjNmNDlRcVBfcHJSRTIzaWdCLTd2YUNrckRMRE8tYVUwRWJ5XzQ1VGI2dDJkVl9YTQ?oc=5)
+
+---
+
 ### [Millions like Jess, 9, live in fear of a fatal allergic reaction - even after five official reports calling for better care and greater awareness. Now campaigners say an 'allergy tsar' is needed to help save lives... - Daily Mail](https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjFpY1BaNlRWQ29GSHRaa0hjdlJkRG1jaXRzM0FkT2hieXVKaWR0WFRVY2wtMjNmU0MweGlXQXVEb1FEMUY4RlJlTEg3R0gwTGsydVdQYVJhRW5tSzZ1Mm9vWjJ0ZDFueUl4N3BldEIxTU42X01FTVlmRXJDZHB5UG1CbXJfM0ExRHgwR1hmUXhhdk5raHU1d3ZkQUdCT0FReVItUFdxaUtwcnh2V3ZZS0UzY0dqVzNCSkZYb1Y5Vm1VWEgyajBEYTEtdGo2azByMENxangzRXE1T2NMS2NDY05VSnMxQkRHaVFJQjdVbVdwMERzZHpDanUwR0c3R0p6a3FwZkJWbzl6VTB0aDdjTFlsQ1ZuaGZVZ1JkUXhTeGtfRGZvTjYxb2Q0Q0dIY1VNdkxlamFuaHdHZ2x1MVpSRS1IYkh3d9IBywJBVV95cUxPVWc5c2ZaYjUzR0lRUUh6VlVwWFEwOVRtYk9uZVJUVmthZV84QnZYR0hQVThBV2dvUDV0NFNOS3dGdFRMZ0c1ZlAtQXRxQ09jMnVTdzlrNzJlT29hcVg3TGhkYno4UEItT21CNU5IV09pcWdTTEFNdjJwT3RXb2lrcDRFR1ZpLVhoV2k2THZUMmgtWDR3MHBzenBuYTFVbElXdVBfV1V4UXJYQkp3V3lfNll6Zk5NcWpfYVpGa2RlbTh6UG82NU5RTVJVUmI2ZTlhNVFzVERtOUpYWkJTODQ0cmVPTTIxbW15SXRhU1RkeXdFV2pER0FzVWQ5d3paRnlQbERRTXpYU3UySElDU1o2bG1MMVNNLVRmaWJrLUJUMVp3Zm8xTHctRHpudVk4WndLYmkweHFMSTN6WFBYejRsNF90V1JLLVFXZzYw?oc=5)
 
 2026-04-14 <span class="news-indication-tag">AF</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjFpY1BaNlRWQ29GSHRaa0hjdlJkRG1jaXRzM0FkT2hieXVKaWR0WFRVY2wtMjNmU0MweGlXQXVEb1FEMUY4RlJlTEg3R0gwTGsydVdQYVJhRW5tSzZ1Mm9vWjJ0ZDFueUl4N3BldEIxTU42X01FTVlmRXJDZHB5UG1CbXJfM0ExRHgwR1hmUXhhdk5raHU1d3ZkQUdCT0FReVItUFdxaUtwcnh2V3ZZS0UzY0dqVzNCSkZYb1Y5Vm1VWEgyajBEYTEtdGo2azByMENxangzRXE1T2NMS2NDY05VSnMxQkRHaVFJQjdVbVdwMERzZHpDanUwR0c3R0p6a3FwZkJWbzl6VTB0aDdjTFlsQ1ZuaGZVZ1JkUXhTeGtfRGZvTjYxb2Q0Q0dIY1VNdkxlamFuaHdHZ2x1MVpSRS1IYkh3d9IBywJBVV95cUxPVWc5c2ZaYjUzR0lRUUh6VlVwWFEwOVRtYk9uZVJUVmthZV84QnZYR0hQVThBV2dvUDV0NFNOS3dGdFRMZ0c1ZlAtQXRxQ09jMnVTdzlrNzJlT29hcVg3TGhkYno4UEItT21CNU5IV09pcWdTTEFNdjJwT3RXb2lrcDRFR1ZpLVhoV2k2THZUMmgtWDR3MHBzenBuYTFVbElXdVBfV1V4UXJYQkp3V3lfNll6Zk5NcWpfYVpGa2RlbTh6UG82NU5RTVJVUmI2ZTlhNVFzVERtOUpYWkJTODQ0cmVPTTIxbW15SXRhU1RkeXdFV2pER0FzVWQ5d3paRnlQbERRTXpYU3UySElDU1o2bG1MMVNNLVRmaWJrLUJUMVp3Zm8xTHctRHpudVk4WndLYmkweHFMSTN6WFBYejRsNF90V1JLLVFXZzYw?oc=5)
-
----
-
-### [La educación enfermera mejora la recuperación tras la ablación por fibrilación auricular](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ25FTTFURDZpdzgxbDF5TEhyLVYtcjJxQmF4SHpJNHRNbkxPdlpldXpfb29NOGd3MWRFMG5SMWl5a1BmVk9LeUNveEZlSjRjTTN5WWpmUFROeFl4c0xCbjVRTFdXTHVlbXh0cUQtX1RTVXUwM3VMR21QLXlxV0hRbHJDczNtWHRJM2Y2M3pHYmowU1lNLW5Fd1ZSWnB3VTFIcV9EVGVLd0wycDNoS2h2S1FqWGJMamc?oc=5)
-
-2026-04-14 <span class="news-indication-tag">fibrilación auricular</span>
-
-來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ25FTTFURDZpdzgxbDF5TEhyLVYtcjJxQmF4SHpJNHRNbkxPdlpldXpfb29NOGd3MWRFMG5SMWl5a1BmVk9LeUNveEZlSjRjTTN5WWpmUFROeFl4c0xCbjVRTFdXTHVlbXh0cUQtX1RTVXUwM3VMR21QLXlxV0hRbHJDczNtWHRJM2Y2M3pHYmowU1lNLW5Fd1ZSWnB3VTFIcV9EVGVLd0wycDNoS2h2S1FqWGJMamc?oc=5)
-
----
-
-### [“Cada vez veo más pacientes con fatiga o defensas bajas y su analítica siempre dice lo mismo”](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ09McjU3amM3QVdsaThTMDVmUVFfM2d2b1FVZGlPQ09VMS16MTE2T1RsaThHNU43OXd3SmxtcmZ6d0MyeGpnMmJDczBqX3BwWGJCTXBMSHZxZVNOMGtUNVNaSkVHN1c2YVoySzZDUjBuVTBBdFVDWkItSWFFYkFuSTlrY1dhVlBVY01uQzBWOGFkOXk0bTdyandYcURMV3NmbEc4emJ5Vnlkdw?oc=5)
-
-2026-04-14 <span class="news-indication-tag">AF</span>
-
-來源：[menshealth.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ09McjU3amM3QVdsaThTMDVmUVFfM2d2b1FVZGlPQ09VMS16MTE2T1RsaThHNU43OXd3SmxtcmZ6d0MyeGpnMmJDczBqX3BwWGJCTXBMSHZxZVNOMGtUNVNaSkVHN1c2YVoySzZDUjBuVTBBdFVDWkItSWFFYkFuSTlrY1dhVlBVY01uQzBWOGFkOXk0bTdyandYcURMV3NmbEc4emJ5Vnlkdw?oc=5)
 
 ---
 
@@ -118,7 +142,7 @@ permalink: /news/riociguat/
 
 ### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
-2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-04-14 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
@@ -132,27 +156,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueTMtVnNCRlBSbHdUSGVfYkExS1lsbGhGLVN4SmszLTZnZFZSb3JGemdXWVhNMmNBT3FJSFVhX1BoSWhoalA5VmJ3MnlqZ2VCT3JmRm1WMGRfX3k5?oc=5)
-
-2026-04-13 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueTMtVnNCRlBSbHdUSGVfYkExS1lsbGhGLVN4SmszLTZnZFZSb3JGemdXWVhNMmNBT3FJSFVhX1BoSWhoalA5VmJ3MnlqZ2VCT3JmRm1WMGRfX3k5?oc=5)
-
----
-
 ### [Farage backs ban on asylum seekers with HIV being treated on NHS - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNM08yd2hlanNoY3JfeGxrTnpEaFU2MFQ3RHo5MkZFN3BtOE1NTjhpekVrRlFfV25sQUk5X3lqZ1pRUDN3cHZLMjFDMHNSa3ZjV09xQ1JqTVdNRGcxVGpPU1VkMGNwTjBXZGlSTWl3RU1iNXJCT1NxTXJGa1UxeWhlUThqbkZ2N3k3QzZUTHI0WjJILXJRendsd05vemhYM2lBVkdJRA?oc=5)
 
 2026-04-13 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxNM08yd2hlanNoY3JfeGxrTnpEaFU2MFQ3RHo5MkZFN3BtOE1NTjhpekVrRlFfV25sQUk5X3lqZ1pRUDN3cHZLMjFDMHNSa3ZjV09xQ1JqTVdNRGcxVGpPU1VkMGNwTjBXZGlSTWl3RU1iNXJCT1NxTXJGa1UxeWhlUThqbkZ2N3k3QzZUTHI0WjJILXJRendsd05vemhYM2lBVkdJRA?oc=5)
-
----
-
-### [Long-term HIV-1 remission achieved through allogeneic haematopoietic stem cell transplant from a CCR5Δ32/Δ32 sibling donor](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONEtJMlZKeTdGLUM4U2tPdU5MUEY3SGZJUk9HSHZXQllVOFI4SVNHT1NvS21ZbGZ3dU9PZmpEWnlGOUVXcWJPOHBlZjJhSDg1NXlQR1lwZURqQm13cGZB?oc=5)
-
-2026-04-13 <span class="news-indication-tag">AF</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ONEtJMlZKeTdGLUM4U2tPdU5MUEY3SGZJUk9HSHZXQllVOFI4SVNHT1NvS21ZbGZ3dU9PZmpEWnlGOUVXcWJPOHBlZjJhSDg1NXlQR1lwZURqQm13cGZB?oc=5)
 
 ---
 
@@ -172,6 +180,14 @@ permalink: /news/riociguat/
 
 ---
 
+### [Man cured of HIV after stem cell transplant – Doctors - Punch Newspapers](https://news.google.com/rss/articles/CBMifEFVX3lxTE5CbXdETVJLVDh5Vzd2b2ZPMFRNWWwzY3ZiZlVWeHJHYTRMZ2RsNG1zT0xOLTNJZVowV3JDX2ZWMnVzVDlmWVdfM05yZWFoVUlBZl9rQU1LZm1sai13ZTRicE1IUTFvNWMtODF2UWYtdjZ4QWJJak1YU1FiNFA?oc=5)
+
+2026-04-13 <span class="news-indication-tag">AF</span>
+
+來源：[Punch Newspapers](https://news.google.com/rss/articles/CBMifEFVX3lxTE5CbXdETVJLVDh5Vzd2b2ZPMFRNWWwzY3ZiZlVWeHJHYTRMZ2RsNG1zT0xOLTNJZVowV3JDX2ZWMnVzVDlmWVdfM05yZWFoVUlBZl9rQU1LZm1sai13ZTRicE1IUTFvNWMtODF2UWYtdjZ4QWJJak1YU1FiNFA?oc=5)
+
+---
+
 ### [Tragedy as Tommy Verbickas dies aged just 6 after his third cancer battle - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVVBQkM5VGVKSGVtbmF5S0prQjZEb2R2bG1fV0Y1dFRoLXhOMV9Qb0RLQnk1bzVRMTM1eEFYRlgwZmRSRkdFSEpTd3VXb25pU3h1bnk2bnktRzdWYmNlQjNGOGZJYjFESFJlSU9EeDdwRENtdm56Z2IyanlPbVZWUlJHNXFjUdIBiwFBVV95cUxPb01ieTdteENpMWRGY28td2I3ck1JTUJydjQ1Y0RQak5lZDJpRnNzN2ZzYXRPUjVrQmR2SEl0RHE0T0hPZEMwLXFRckE4Q0daZDVUcWZmdjVTLWliNHNoS2JCS3F4RzBGc2RHUlYyQl9hLWNuNF9TSnZKLVRyc2Z6ejd2V3Z1dGpGSzRv?oc=5)
 
 2026-04-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -180,11 +196,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Dermatólogos alertan tras la última publicación de Marcos Llorente: «Negar la protección solar es un riesgo para la salud» - El Diario Vasco](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHVkNWFIUGtzQXpSZW94YUdZZFN3ZFl5Znc5Tkp4cmQ1VnJrTHJqSE9WeDZid0x6eTlLSUtMTXNuREdHQ3ZVU2RQOWZVQkRBZHBkY19xVl9YSHlPRi1sMEFlc0Z6WFhDZXc1T2dsWE1LLXpnVDRyY1pLVmtNU2lUSzJQaVlYYjdySG1uWlhIQmxNcjU5eDd0S1R5eGNDN1lzQ1RuaEhPZ253LTVYS2MwVGZsTmtlcUxTelNTcUJLdE5GZHc1eVRzTWNCNFDSAdIBQVVfeXFMTWp3VnI0eFg4M01HVkY5NDh4blN0ZVRyZW5Ba0FiSVNFLWtGUC1UbjZ4YkVTdnB3M3l6WHRMYnBUWE9RalFoekxPUFFSbkVrajQyR01EVHFTMXdLdmlncVVGMGFQWWpYYmo1bXY1dWZkd3VBcGhlQ09Ea0R0eVI4aENGaHd2dkNUU0VQUGI2M3ZYblRLNjhDclFzdk1BN2dsUkt2NzB0akJZSDJWa2JuQ2JsZmcwNzhkSXZTWmZWT0o5UHRlZVV1QVpZMnRidHZHM29B?oc=5)
+### [4 Bed Exercises That Restore Thigh Strength Faster Than Squats After 60 - Eat This Not That](https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1djNkNJQlA1UDZadEJLM3V2RVhubk5sOGxrQmx3Y0l5V0dfcGxDSVJ0MFZfVzVqV3hIVjBRNWNCU3p4UHJNaE9tWTRGSUo1QTM0RlQ3aDdldjBCejZaa1JsQ1duMXlzMzcxQndkNEMzNklJbFFHMTFlTTBTaVd0UzVJNzh3OG9jVVZxNWpCSDhDbG8?oc=5)
 
 2026-04-13 <span class="news-indication-tag">AF</span>
 
-來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHVkNWFIUGtzQXpSZW94YUdZZFN3ZFl5Znc5Tkp4cmQ1VnJrTHJqSE9WeDZid0x6eTlLSUtMTXNuREdHQ3ZVU2RQOWZVQkRBZHBkY19xVl9YSHlPRi1sMEFlc0Z6WFhDZXc1T2dsWE1LLXpnVDRyY1pLVmtNU2lUSzJQaVlYYjdySG1uWlhIQmxNcjU5eDd0S1R5eGNDN1lzQ1RuaEhPZ253LTVYS2MwVGZsTmtlcUxTelNTcUJLdE5GZHc1eVRzTWNCNFDSAdIBQVVfeXFMTWp3VnI0eFg4M01HVkY5NDh4blN0ZVRyZW5Ba0FiSVNFLWtGUC1UbjZ4YkVTdnB3M3l6WHRMYnBUWE9RalFoekxPUFFSbkVrajQyR01EVHFTMXdLdmlncVVGMGFQWWpYYmo1bXY1dWZkd3VBcGhlQ09Ea0R0eVI4aENGaHd2dkNUU0VQUGI2M3ZYblRLNjhDclFzdk1BN2dsUkt2NzB0akJZSDJWa2JuQ2JsZmcwNzhkSXZTWmZWT0o5UHRlZVV1QVpZMnRidHZHM29B?oc=5)
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1djNkNJQlA1UDZadEJLM3V2RVhubk5sOGxrQmx3Y0l5V0dfcGxDSVJ0MFZfVzVqV3hIVjBRNWNCU3p4UHJNaE9tWTRGSUo1QTM0RlQ3aDdldjBCejZaa1JsQ1duMXlzMzcxQndkNEMzNklJbFFHMTFlTTBTaVd0UzVJNzh3OG9jVVZxNWpCSDhDbG8?oc=5)
 
 ---
 
@@ -204,6 +220,14 @@ permalink: /news/riociguat/
 
 ---
 
+### [Marcos Llorente se enzarza con un dermatólogo por el uso del protector solar: "No me vale" - El Desmarque](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQXFvbkxCVHJWMkdtOV93WFlob1p0RFlqVUc5QzA5clJUMUhLamhHa09LdG8tS01UWDJScDE5ektjQS13MDZheXhPRWVtMWpJVVRCNDR2QTVYc1hYNTNsTmJRSDNzSVJxd01kZnNzLVU0SklaZG80S3phdmdzbDh1dkJ4ckl1Ri1vNk9UdUl4T1VpR0lVVndsOFd3NjlqSFJQWnFlNTRHLUY3NGlXbmIwOEJ6cDF3WUUwTGVj?oc=5)
+
+2026-04-13 <span class="news-indication-tag">AF</span>
+
+來源：[El Desmarque](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQXFvbkxCVHJWMkdtOV93WFlob1p0RFlqVUc5QzA5clJUMUhLamhHa09LdG8tS01UWDJScDE5ektjQS13MDZheXhPRWVtMWpJVVRCNDR2QTVYc1hYNTNsTmJRSDNzSVJxd01kZnNzLVU0SklaZG80S3phdmdzbDh1dkJ4ckl1Ri1vNk9UdUl4T1VpR0lVVndsOFd3NjlqSFJQWnFlNTRHLUY3NGlXbmIwOEJ6cDF3WUUwTGVj?oc=5)
+
+---
+
 ### [Sanità, quarto caso a Roma di morte per shock anafilattico | Senza adrenalina il rischio è immediato](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3THpiVkVnSUxFSmhPWFdVaENQakszeXRFTVk2MTQ2VDI4YkNGYmZUdTJOaWpybUprRk0tdnNSSThmQVMtRUJZUC1vb1BYSXhwOXJZNW56MnMzMjVfc0xIbjQ0YjcxaVlLWWVsdVFCbGNxVXgxN09LX3NBWjlUZw?oc=5)
 
 2026-04-13 <span class="news-indication-tag">AF</span>
@@ -212,11 +236,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Nierenerkrankungen erhöhen das Risiko für kardiovaskuläre Ereignisse bei Device-detektiertem Vorhofflimmern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCNlVhYTJ4NzE4RmdwdFg4WUJDZEM1ck5yRnNScVRhTUhwNUZ2UmtkeXVJeVdaVk5BWXFNVThxSGpfdjNTWU5YNnJXYw?oc=5)
+### [Nierenerkrankungen erhöhen das Risiko für kardiovaskuläre Ereignisse bei Device-detektiertem Vorhofflimmern - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXJ0djc3R1BPMDQtSlRmYldTR1gzU19ncW5nTmtDVl9wRktKdFVaaFdZb0l6bFI2YVduUTFHYUl4bUc3RGkyT1hISmxCM3dBUHdxYV9kOHJVc251N3NmUWN6TXdzQ1MtS2lVNVRwc29Obnk1c0F6emtNSmNId1UtX21DZ1RLd09qeWwtVWdlNjRyS01DdFJSNVhBZy1IbzR2WnkxZ0NTWHBvR2xiNThZdDNYUDF6LXZLZDNrN3lMb1dDS2F2VVdnNkZERXg2RmRNdWhxN0RfQWNoQVEtZi1DV3g5T0s1SjA5cXdn?oc=5)
 
 2026-04-13 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCNlVhYTJ4NzE4RmdwdFg4WUJDZEM1ck5yRnNScVRhTUhwNUZ2UmtkeXVJeVdaVk5BWXFNVThxSGpfdjNTWU5YNnJXYw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXJ0djc3R1BPMDQtSlRmYldTR1gzU19ncW5nTmtDVl9wRktKdFVaaFdZb0l6bFI2YVduUTFHYUl4bUc3RGkyT1hISmxCM3dBUHdxYV9kOHJVc251N3NmUWN6TXdzQ1MtS2lVNVRwc29Obnk1c0F6emtNSmNId1UtX21DZ1RLd09qeWwtVWdlNjRyS01DdFJSNVhBZy1IbzR2WnkxZ0NTWHBvR2xiNThZdDNYUDF6LXZLZDNrN3lMb1dDS2F2VVdnNkZERXg2RmRNdWhxN0RfQWNoQVEtZi1DV3g5T0s1SjA5cXdn?oc=5)
 
 ---
 
@@ -249,30 +273,6 @@ permalink: /news/riociguat/
 2026-04-13 <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcU1hdmFPTFFReFlFREdqRTBzVV9sVTRfNVNicVNoeWR1MzgwMzhTZTJ3Z1poMjZJNXlyWEViRmh0RDBnZmp6THpwX0QtX1RueTJpcjg5X08xckEzRlpIeVo3bnZRTk5SZEZDQXU3bUhqTnBaalZlMHpKMmRGcXdlUURnTHVNQS1RNXFXWjVJa1hCNU9kRkE?oc=5)
-
----
-
-### [Frauengesundheit: Hormone aus dem Takt: Das steckt hinter dem PCO-Syndrom](https://news.google.com/rss/articles/CBMixwFBVV95cUxNLUQ5dTJWV3Q4bm1lcTdjNFd5Y0FFbFZIT0x0dWJRaFYzV3NpWGxQYmtKVFlCYnFrcWRPTFp5TG5Zb210VzZ2a012NXJ5Z3I3N0h6bTltQlhwS0FJanMtVnNLZTlUM2VrRy14RmJhOTBmcGNmcnRqTGVOUVQxZmRabDRGU3p6dDBQN05NaVRMTFVNSjdVLXhvV002S3JKai12NDJHSmk5UUlHSkFQS3FxVThZenlZd1pDcjR0eXdXcHFHcVFWTlI0?oc=5)
-
-2026-04-12 <span class="news-indication-tag">AF</span>
-
-來源：[WirtschaftsWoche](https://news.google.com/rss/articles/CBMixwFBVV95cUxNLUQ5dTJWV3Q4bm1lcTdjNFd5Y0FFbFZIT0x0dWJRaFYzV3NpWGxQYmtKVFlCYnFrcWRPTFp5TG5Zb210VzZ2a012NXJ5Z3I3N0h6bTltQlhwS0FJanMtVnNLZTlUM2VrRy14RmJhOTBmcGNmcnRqTGVOUVQxZmRabDRGU3p6dDBQN05NaVRMTFVNSjdVLXhvV002S3JKai12NDJHSmk5UUlHSkFQS3FxVThZenlZd1pDcjR0eXdXcHFHcVFWTlI0?oc=5)
-
----
-
-### [Cold sore virus leaves Penrhyn-coch woman with encephalitis brain damage](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
-
-2026-04-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2dJaV8zYXNjS0VtSDQ0YVVud1ZMSHJnVWRQMHI5WXhmcE94d0pWT2dPcmZQTWx0ZUhQanhCZ3NDaURoUDBLeHBOOU5Kck1KNFVIcmdyNE9wQlVv?oc=5)
-
----
-
-### [Dad of girl,13, who started menopause after QEUH drugs calls for it to bulldozed - The Scottish Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSlI2ZXlybDBoRGtBanRzOHB3dzFlWFBpM2hsZEE1Q0J4Z2xYbmZsQUxlNlBDV25zaUFTcWdDY1lEMnQ0MDZ0WWZHbFFfa3dMdGEtVDM4OGJEcHhiUkZwZC04LXFSb296WkhZOFFLNGZZYy1XaHpGOTJUYjk3WTlITmVncVVfU09GUDY3b1duS3ZXODkwWldxOWQzb0Q0V1NBek45SQ?oc=5)
-
-2026-04-12 <span class="news-indication-tag">AF</span>
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSlI2ZXlybDBoRGtBanRzOHB3dzFlWFBpM2hsZEE1Q0J4Z2xYbmZsQUxlNlBDV25zaUFTcWdDY1lEMnQ0MDZ0WWZHbFFfa3dMdGEtVDM4OGJEcHhiUkZwZC04LXFSb296WkhZOFFLNGZZYy1XaHpGOTJUYjk3WTlITmVncVVfU09GUDY3b1duS3ZXODkwWldxOWQzb0Q0V1NBek45SQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,27 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Don't feel like exercising? Maybe it's the wrong time of day for you](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
+
+2026-04-14 <span class="news-indication-tag">heart disease</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
+
+---
+
+### [Infarto e ictus, rischio 67% maggiore associato ad alcuni alimenti: i dati da uno studio - il Giornale](https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1R1NnhyWnEtVllkOWxZbUJ5NXgtUkpiOTZEeEdpdmNiOHdzR2pGcFphZnFYamg1TmNOd05XbmJMR3o1NTkzUnphUUJYaEJycnFlTmhwYnctSzZ1a0l2Z3RzYVo3ZFBTNExzdWZ4NVQ0bXF0TG1FV3c4ak9wc0tNWGViOHZqR2w0XzVVTUY2NlhOdFd4TmpWUUxNSEhkMHFqTDY1bWdxNWFnZEg2TGtlSnByeWd3Zm53OGNSNGln?oc=5)
+
+2026-04-14 <span class="news-indication-tag">ictus</span>
+
+來源：[il Giornale](https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1R1NnhyWnEtVllkOWxZbUJ5NXgtUkpiOTZEeEdpdmNiOHdzR2pGcFphZnFYamg1TmNOd05XbmJMR3o1NTkzUnphUUJYaEJycnFlTmhwYnctSzZ1a0l2Z3RzYVo3ZFBTNExzdWZ4NVQ0bXF0TG1FV3c4ak9wc0tNWGViOHZqR2w0XzVVTUY2NlhOdFd4TmpWUUxNSEhkMHFqTDY1bWdxNWFnZEg2TGtlSnByeWd3Zm53OGNSNGln?oc=5)
+
+---
 
 ### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
-2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-04-14 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 

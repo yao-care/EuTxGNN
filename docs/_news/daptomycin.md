@@ -14,7 +14,7 @@ permalink: /news/daptomycin/
 ---
 
 <p class="key-answer" data-question="Daptomycin 有什麼相關新聞？">
-<strong>Daptomycin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Daptomycin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/daptomycin/
 <p><a href="{{ '/drugs/daptomycin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Identifican una molécula natural que frena la artritis reumatoide en sus primeras fases - La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVEzbzVUa2g0WTJMLWdLSnNaRTdxaENrN3JnUllmSl90RmZPbWJ4TjBfcUxDVUU1UXRKWm0tX3Q5dXdqb3VlZlU2SHZTanA5OThlN3hvTVg5MHU4bzVudG1TOERYdG1fZ09BX0NpRDlWRW5BR3ZtMjFXYUdHbU5JMnFfWHgxT0hoM0tyWklpUkdidzZFR1lrNXc4ZlB2SXc2MUhWaE1lUTRzMzlKZmV0UE1lVnYyLVQwdGl4NVdQTEprZ1RIRXZSZFA3RVkxLW41dkZxZG9obTJ6QjFn0gHwAUFVX3lxTE9MU2Y0bGI4U0M2aGNDcmp2T0NDYW01MXdDOUdudXVOTlhvZktzOHFGc0wtNVp4M1dnazE2LXBxaDJaVHNZYThSRy1Cd3dRc0JQN1VCN1dqUlo3M2xjTWh4VHNqdENWM29COHdmWlBZSU5XRkZJT1RhdUltY0dhQWJ5b1dLemM2aVE0dzktOTRQUmRZbTZEU2JLTnF3d3BwWUtoemdaVXZhWVBBMkozNGtmY29xQjdqZW51QXl5aXliLTdvVERoQ190b2NJTlFVejZ4ZFd3ZXFSdVd2bWVxUXpJX2ZCZ05KX2hYTHZmN2d1Vg?oc=5)
-
-2026-04-13 <span class="news-indication-tag">artritis</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVEzbzVUa2g0WTJMLWdLSnNaRTdxaENrN3JnUllmSl90RmZPbWJ4TjBfcUxDVUU1UXRKWm0tX3Q5dXdqb3VlZlU2SHZTanA5OThlN3hvTVg5MHU4bzVudG1TOERYdG1fZ09BX0NpRDlWRW5BR3ZtMjFXYUdHbU5JMnFfWHgxT0hoM0tyWklpUkdidzZFR1lrNXc4ZlB2SXc2MUhWaE1lUTRzMzlKZmV0UE1lVnYyLVQwdGl4NVdQTEprZ1RIRXZSZFA3RVkxLW41dkZxZG9obTJ6QjFn0gHwAUFVX3lxTE9MU2Y0bGI4U0M2aGNDcmp2T0NDYW01MXdDOUdudXVOTlhvZktzOHFGc0wtNVp4M1dnazE2LXBxaDJaVHNZYThSRy1Cd3dRc0JQN1VCN1dqUlo3M2xjTWh4VHNqdENWM29COHdmWlBZSU5XRkZJT1RhdUltY0dhQWJ5b1dLemM2aVE0dzktOTRQUmRZbTZEU2JLTnF3d3BwWUtoemdaVXZhWVBBMkozNGtmY29xQjdqZW51QXl5aXliLTdvVERoQ190b2NJTlFVejZ4ZFd3ZXFSdVd2bWVxUXpJX2ZCZ05KX2hYTHZmN2d1Vg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

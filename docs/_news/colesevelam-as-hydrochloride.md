@@ -44,27 +44,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（6 則）
 
+### [Don't feel like exercising? Maybe it's the wrong time of day for you](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
+
+2026-04-14 <span class="news-indication-tag">heart disease</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
+
+---
+
+### [Elle explose en France et dans le monde : quelle est cette maladie du foie qui peut évoluer en cirrhose et en cancer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
+
+2026-04-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
+
+---
+
 ### [La semaglutida del Ozempic muestra eficacia contra el hígado graso en estudios con ratones](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmM5VkZvWGZKeEZjZWpUYlBqLUlwUEVnRUVuSEJ1YzJTZ0ktV3kyUUh0ZDVEZUlpZVp5bkRGVnVrMVFBeWdqTDdTZUprSWNzN0JZWGdyZjZxdUhLdktOMUJWVWFhX012NXJReVN4dW52ZTlQOFQtOXUxRERERnBhZG1OMDJlRVBETk9JTXJweExpeGVqU29uTE0zb9IBmwFBVV95cUxQN3FQM283ME9VcGdLT0Ztd0I2OU1YSGtvVHVxMWltMC1oaW4xVW83dXJJeFhYNmJOSVR4dW13TldlRkZXOVZqb05hdFJPQm42VjBqTFFHd3JCYndMRkxScE41eU1IeHBtTlpWZnhUTHZGUzE5NmN2X0ZOQTl0MFBIcm5wWjlONUY0UzVlM0s5cnE0ZmhYY0ppeVVRRQ?oc=5)
 
 2026-04-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmM5VkZvWGZKeEZjZWpUYlBqLUlwUEVnRUVuSEJ1YzJTZ0ktV3kyUUh0ZDVEZUlpZVp5bkRGVnVrMVFBeWdqTDdTZUprSWNzN0JZWGdyZjZxdUhLdktOMUJWVWFhX012NXJReVN4dW52ZTlQOFQtOXUxRERERnBhZG1OMDJlRVBETk9JTXJweExpeGVqU29uTE0zb9IBmwFBVV95cUxQN3FQM283ME9VcGdLT0Ztd0I2OU1YSGtvVHVxMWltMC1oaW4xVW83dXJJeFhYNmJOSVR4dW13TldlRkZXOVZqb05hdFJPQm42VjBqTFFHd3JCYndMRkxScE41eU1IeHBtTlpWZnhUTHZGUzE5NmN2X0ZOQTl0MFBIcm5wWjlONUY0UzVlM0s5cnE0ZmhYY0ppeVVRRQ?oc=5)
-
----
-
-### [Obésité, diabète, hyperglycémie : d’ici 2050, 1,8 milliard de personnes seront atteintes de la maladie du « foie gras »](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
-
-2026-04-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
-
----
-
-### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
-
-2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
 ---
 

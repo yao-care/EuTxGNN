@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [Elle explose en France et dans le monde : quelle est cette maladie du foie qui peut évoluer en cirrhose et en cancer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
+
+2026-04-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
+
+---
 
 ### [La semaglutida del Ozempic muestra eficacia contra el hígado graso en estudios con ratones](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmM5VkZvWGZKeEZjZWpUYlBqLUlwUEVnRUVuSEJ1YzJTZ0ktV3kyUUh0ZDVEZUlpZVp5bkRGVnVrMVFBeWdqTDdTZUprSWNzN0JZWGdyZjZxdUhLdktOMUJWVWFhX012NXJReVN4dW52ZTlQOFQtOXUxRERERnBhZG1OMDJlRVBETk9JTXJweExpeGVqU29uTE0zb9IBmwFBVV95cUxQN3FQM283ME9VcGdLT0Ztd0I2OU1YSGtvVHVxMWltMC1oaW4xVW83dXJJeFhYNmJOSVR4dW13TldlRkZXOVZqb05hdFJPQm42VjBqTFFHd3JCYndMRkxScE41eU1IeHBtTlpWZnhUTHZGUzE5NmN2X0ZOQTl0MFBIcm5wWjlONUY0UzVlM0s5cnE0ZmhYY0ppeVVRRQ?oc=5)
 
@@ -57,22 +65,6 @@ permalink: /news/natalizumab/
 2026-04-14 <span class="news-indication-tag">soriasi</span>
 
 來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaUxGdkZlcmxCN2k1QVJFeTF6UGtnY2w0X0dqNFNJUjB0RFlGSjBjNzlPOGw0ajBfSFZ3Yk9nYTBDRHpDRzZybEhVS2lMY1c5ZC1nRC1hc2d6Z0F5ek12ZEcxeTk0eHRyWTlEN0t4Q3gzRDdlWWZESURIZnV1Sml0VEFiZWhUM0o1RkJHQTM3T0I0bVgwU0trX0p4bW42YS1JWlJ2eFdMcjdUUEV3X1MxRXBWb2Fxa0JPUkxFT3RmbEZINzcwaFV1bTd1azdVYmRrX3hEOVZPNE1EN0N1X1VtUTdQS2FEVWtwNzRlZVJWd3FDamt5UXJHeUVB?oc=5)
-
----
-
-### [Obésité, diabète, hyperglycémie : d’ici 2050, 1,8 milliard de personnes seront atteintes de la maladie du « foie gras »](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
-
-2026-04-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
-
----
-
-### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
-
-2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
 ---
 
@@ -97,14 +89,6 @@ permalink: /news/natalizumab/
 2026-04-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
-
----
-
-### [Un estudio de la Clínica Universidad de Navarra revela que sufrir enfisema mejora la supervivencia de pacientes con cáncer de pulmón - Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
-
-2026-04-13 <span class="news-indication-tag">EPOC</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
 
 ---
 

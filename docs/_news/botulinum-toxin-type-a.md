@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Un estudio de la Clínica Universidad de Navarra revela que sufrir enfisema mejora la supervivencia de pacientes con cáncer de pulmón - Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
-
-2026-04-13 <span class="news-indication-tag">EPOC</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

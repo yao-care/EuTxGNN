@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,29 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（6 則）
+
+### [Elle explose en France et dans le monde : quelle est cette maladie du foie qui peut évoluer en cirrhose et en cancer](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
+
+2026-04-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWXdUcHRyNGdVS1Z6Y3VxbUlRaWdsZ09kdkJmWlZPTW9qYl8wYkQ1OGJaTHNUc2RoWUFiNmd2Y05nMmtxWV81dWI5cVlhTzZLVHhZaXlEZjYwZzB6NGRBNFZ6czY4d2pidVdmdmZjVng5dnc4TkFVb3hiM3pyWVRQSDVzUlhvSktOeTRfLVV2U1lfM183UGFoNGZmQlB5UkMtZkpEQ0VVSDlBZy1Od2dpNUtYZkVHd09mN0oxa3pSQTdYNG5GSUlkRWpwY0RVb3oyNlh3N09KSHVPTDZScmdmQXdGNTJfNFU?oc=5)
+
+---
+
+### [España, primer país europeo en financiar un tratamiento inyectable para prevenir el VIH - Diario de León](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1haYmlNLTlzWUxGWmJVMC1MSUl5aGN0MjhqWU5LZG9yY3hnenRZZlBtNEdaN3QyTEw5WDZlcUVtQjlKdjRST3ZkdXBub0d2Sy1NVUFEX04tM1hTLUphQUxIanBTUG1kcEhEWEFYa190RkFZNE1OOHh2Sms2OG5Qd0pmNnpJcTd2aEFzWElDNVlFeTZZZFNNSzRnaURKci05TVdORG9TcVhGT2ZmSnZvOFhDZmFTdkVpTTBULVdhRXh6YjJleWFkRdIBzgFBVV95cUxNNzUyNDlXSVl0eDd5OUlfcXAwX0hSU21SWklQczdzNUY5MWwyUXJHczJSRXBqWF9na05Oc1FnbnVIWUFxM2p0V09YSFJGejZ0VEppT0p2Y2JUdjRGcnFwUVpRVnMxRzBvVmhNX000Z1dpUFNZd05SZm5fSURERlVwZC1acTlVdXpqX0M4ZlJkWDJKLUJBLWtyT3l5LUpUaEloaG5TeUFUZXJLUDZRYkc3bklhLTZhY0Vad0U5YlQ2VklQVjNsUE4wUDRqdDdIZw?oc=5)
+
+2026-04-14 <span class="news-drug-tag">Cabotegravir</span>
+
+來源：[Diario de León](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1haYmlNLTlzWUxGWmJVMC1MSUl5aGN0MjhqWU5LZG9yY3hnenRZZlBtNEdaN3QyTEw5WDZlcUVtQjlKdjRST3ZkdXBub0d2Sy1NVUFEX04tM1hTLUphQUxIanBTUG1kcEhEWEFYa190RkFZNE1OOHh2Sms2OG5Qd0pmNnpJcTd2aEFzWElDNVlFeTZZZFNNSzRnaURKci05TVdORG9TcVhGT2ZmSnZvOFhDZmFTdkVpTTBULVdhRXh6YjJleWFkRdIBzgFBVV95cUxNNzUyNDlXSVl0eDd5OUlfcXAwX0hSU21SWklQczdzNUY5MWwyUXJHczJSRXBqWF9na05Oc1FnbnVIWUFxM2p0V09YSFJGejZ0VEppT0p2Y2JUdjRGcnFwUVpRVnMxRzBvVmhNX000Z1dpUFNZd05SZm5fSURERlVwZC1acTlVdXpqX0M4ZlJkWDJKLUJBLWtyT3l5LUpUaEloaG5TeUFUZXJLUDZRYkc3bklhLTZhY0Vad0U5YlQ2VklQVjNsUE4wUDRqdDdIZw?oc=5)
+
+---
 
 ### [La semaglutida del Ozempic muestra eficacia contra el hígado graso en estudios con ratones](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmM5VkZvWGZKeEZjZWpUYlBqLUlwUEVnRUVuSEJ1YzJTZ0ktV3kyUUh0ZDVEZUlpZVp5bkRGVnVrMVFBeWdqTDdTZUprSWNzN0JZWGdyZjZxdUhLdktOMUJWVWFhX012NXJReVN4dW52ZTlQOFQtOXUxRERERnBhZG1OMDJlRVBETk9JTXJweExpeGVqU29uTE0zb9IBmwFBVV95cUxQN3FQM283ME9VcGdLT0Ztd0I2OU1YSGtvVHVxMWltMC1oaW4xVW83dXJJeFhYNmJOSVR4dW13TldlRkZXOVZqb05hdFJPQm42VjBqTFFHd3JCYndMRkxScE41eU1IeHBtTlpWZnhUTHZGUzE5NmN2X0ZOQTl0MFBIcm5wWjlONUY0UzVlM0s5cnE0ZmhYY0ppeVVRRQ?oc=5)
 
 2026-04-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmM5VkZvWGZKeEZjZWpUYlBqLUlwUEVnRUVuSEJ1YzJTZ0ktV3kyUUh0ZDVEZUlpZVp5bkRGVnVrMVFBeWdqTDdTZUprSWNzN0JZWGdyZjZxdUhLdktOMUJWVWFhX012NXJReVN4dW52ZTlQOFQtOXUxRERERnBhZG1OMDJlRVBETk9JTXJweExpeGVqU29uTE0zb9IBmwFBVV95cUxQN3FQM283ME9VcGdLT0Ztd0I2OU1YSGtvVHVxMWltMC1oaW4xVW83dXJJeFhYNmJOSVR4dW13TldlRkZXOVZqb05hdFJPQm42VjBqTFFHd3JCYndMRkxScE41eU1IeHBtTlpWZnhUTHZGUzE5NmN2X0ZOQTl0MFBIcm5wWjlONUY0UzVlM0s5cnE0ZmhYY0ppeVVRRQ?oc=5)
-
----
-
-### [Obésité, diabète, hyperglycémie : d’ici 2050, 1,8 milliard de personnes seront atteintes de la maladie du « foie gras »](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
-
-2026-04-14 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWdNNlBrU0pxbGJFSHRwTnlNNkxVeFhYVGc1WjJUbXdLUUFDOG5JTE9Vd2NLMng1QjJnZ1NPQXVQazRNRU5IbVFQM1VUT2J0WUxidW51empCLUVIbURKdC04cWROQ1BXVDU4Y1ZqV2ZvaVozWUVpdTF5MmsyU0toRjJjSXBnQ3JyYUNuTVdLVVZJcUVpeHJaSGFkUmk1Z2dnSnQ5RkhVVkNwdUxpQUpTYmYtWXNSSnh0Q1ZuRF9uYWp4RUlEWUt1eElkbkRaT1hRQWtUOFdyUFB4NW5WT1FOTHdPOW1oRGhi?oc=5)
-
----
-
-### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
-
-2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
 ---
 
@@ -89,30 +89,6 @@ permalink: /news/cabotegravir/
 2026-04-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWxEczFMazV4b1dBQXVMblRkTHZOa0ZVQjY3UHNwNk95WXM0bXRDZEp5ZlFpakMxb2tNZ0NHVTR6ZUxQbWVveFgtNFlpZV90U3E1My1wUDdNZVE0cE9PR2h1UVpfWEJ2NHVhbW8xS3hrTkdvTVNXOU81N3lJM0tNSXM2VldaenNTaV9lU01iR19GaXdybVp4ZkxodU5PM2lnU25pdEhHdGhXbW9fZlBYY0w4STc?oc=5)
-
----
-
-### [PrEP Inyectable VIH España 2026: Eficacia y Financiación - Valencia News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSC1fTU9zdFg1LUNnd0wtVi0wRXU1V1JXelJKUmtpVjVWYUltdWFMRlFRRXdHcUpzYzRGa0JoMG5EZ0Z2Q1E1Zl8xa1RaN2otc2RKUHc4bG1SQ1F5TEtRMmZ2aUV3SjFMem9JcGpzaEhwTmdLbDJ4aGw3a0E5RndPNHFsU1lCMUZYU244RGtrbw?oc=5)
-
-2026-04-13 <span class="news-drug-tag">Cabotegravir</span>
-
-來源：[Valencia News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSC1fTU9zdFg1LUNnd0wtVi0wRXU1V1JXelJKUmtpVjVWYUltdWFMRlFRRXdHcUpzYzRGa0JoMG5EZ0Z2Q1E1Zl8xa1RaN2otc2RKUHc4bG1SQ1F5TEtRMmZ2aUV3SjFMem9JcGpzaEhwTmdLbDJ4aGw3a0E5RndPNHFsU1lCMUZYU244RGtrbw?oc=5)
-
----
-
-### [Identifican una molécula natural que frena la artritis reumatoide en sus primeras fases - La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVEzbzVUa2g0WTJMLWdLSnNaRTdxaENrN3JnUllmSl90RmZPbWJ4TjBfcUxDVUU1UXRKWm0tX3Q5dXdqb3VlZlU2SHZTanA5OThlN3hvTVg5MHU4bzVudG1TOERYdG1fZ09BX0NpRDlWRW5BR3ZtMjFXYUdHbU5JMnFfWHgxT0hoM0tyWklpUkdidzZFR1lrNXc4ZlB2SXc2MUhWaE1lUTRzMzlKZmV0UE1lVnYyLVQwdGl4NVdQTEprZ1RIRXZSZFA3RVkxLW41dkZxZG9obTJ6QjFn0gHwAUFVX3lxTE9MU2Y0bGI4U0M2aGNDcmp2T0NDYW01MXdDOUdudXVOTlhvZktzOHFGc0wtNVp4M1dnazE2LXBxaDJaVHNZYThSRy1Cd3dRc0JQN1VCN1dqUlo3M2xjTWh4VHNqdENWM29COHdmWlBZSU5XRkZJT1RhdUltY0dhQWJ5b1dLemM2aVE0dzktOTRQUmRZbTZEU2JLTnF3d3BwWUtoemdaVXZhWVBBMkozNGtmY29xQjdqZW51QXl5aXliLTdvVERoQ190b2NJTlFVejZ4ZFd3ZXFSdVd2bWVxUXpJX2ZCZ05KX2hYTHZmN2d1Vg?oc=5)
-
-2026-04-13 <span class="news-indication-tag">artritis</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVEzbzVUa2g0WTJMLWdLSnNaRTdxaENrN3JnUllmSl90RmZPbWJ4TjBfcUxDVUU1UXRKWm0tX3Q5dXdqb3VlZlU2SHZTanA5OThlN3hvTVg5MHU4bzVudG1TOERYdG1fZ09BX0NpRDlWRW5BR3ZtMjFXYUdHbU5JMnFfWHgxT0hoM0tyWklpUkdidzZFR1lrNXc4ZlB2SXc2MUhWaE1lUTRzMzlKZmV0UE1lVnYyLVQwdGl4NVdQTEprZ1RIRXZSZFA3RVkxLW41dkZxZG9obTJ6QjFn0gHwAUFVX3lxTE9MU2Y0bGI4U0M2aGNDcmp2T0NDYW01MXdDOUdudXVOTlhvZktzOHFGc0wtNVp4M1dnazE2LXBxaDJaVHNZYThSRy1Cd3dRc0JQN1VCN1dqUlo3M2xjTWh4VHNqdENWM29COHdmWlBZSU5XRkZJT1RhdUltY0dhQWJ5b1dLemM2aVE0dzktOTRQUmRZbTZEU2JLTnF3d3BwWUtoemdaVXZhWVBBMkozNGtmY29xQjdqZW51QXl5aXliLTdvVERoQ190b2NJTlFVejZ4ZFd3ZXFSdVd2bWVxUXpJX2ZCZ05KX2hYTHZmN2d1Vg?oc=5)
-
----
-
-### [Un estudio de la Clínica Universidad de Navarra revela que sufrir enfisema mejora la supervivencia de pacientes con cáncer de pulmón - Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
-
-2026-04-13 <span class="news-indication-tag">EPOC</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG1DdE8yV3lCOHFfS1lOemZtUGZIMkEtT09KdEtjTmljV0NmVV9Fbi1tLXRyNVkyUFFLSDJsMmhKWHRZZ0doTzhxYzROa3pPZ3EzRm1lU21EbkY3Y0ZiSG51YmxLejNRcGhiMTJkUkNrT3JhYUdjQk1VcUszbU5QOW02X2xtVkloc1JLZU5sQUxuUm16ZDN1X0o3eHVFRm1JbVV4aXFtZTdrTk5hOERGSWl5ZWljVE5BQ1NXVFp0Y21RR1B4bEVXTHV3ekxBYy03OEVEZDRtMktlZXBQUVpEc2xLd2l6ZUN4djBRNThlZms4RnREeTF2aUJCN0J3dw?oc=5)
 
 ---
 

@@ -46,7 +46,7 @@ permalink: /news/rasagiline/
 
 ### [The daily drink habit being linked to better brain health - Yahoo Life UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDhqVzQzaDl2ZzRiRmQ0R1dwUFcxQTBLYS01WXg3dWNzVGNsaWpNUXFmaG84ZTFJRnMyaTlHaFBGTUVMQ2dRSjJZVFhKT2ZrWlRBUDFlVTMzWkpacElwTjlZMWwwVG5sYUJibDh6X2JfQl9SRlBqaU0wOHJFbU91X28tMVgtWEZVNTRSWVl3?oc=5)
 
-2026-04-14 <span class="news-indication-tag">dementia</span>
+2026-04-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDhqVzQzaDl2ZzRiRmQ0R1dwUFcxQTBLYS01WXg3dWNzVGNsaWpNUXFmaG84ZTFJRnMyaTlHaFBGTUVMQ2dRSjJZVFhKT2ZrWlRBUDFlVTMzWkpacElwTjlZMWwwVG5sYUJibDh6X2JfQl9SRlBqaU0wOHJFbU91X28tMVgtWEZVNTRSWVl3?oc=5)
 
