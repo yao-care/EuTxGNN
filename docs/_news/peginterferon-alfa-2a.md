@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,37 +42,29 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（5 則）
+
+### [Brain cancer clinical trial aims to 'bring hope'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
+
+---
+
+### [In Burundi focolaio di una malattia misteriosa, Oms indaga: "Né Ebola né Marburg"](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ3FxNThBRVd6TUtscWZZVERfdml1OVB3MkVJWWNNYjU0MDR3TFA0UHRNTUR4Z3JvTF93MXoyVDhxQjZwdGpVX2R6NW1yRDgzUXRWRkRzVklLSlVCdXRYVEdLa2JnbFY2NmRHazBvUGtTbWxHM0N1anRURDRwWHI5YlQ1cHVlaXhDQWYxcDVpUU5lenlGRDBkQmk2VmpLYU05aUxBRmtCdjdWdTJPT1hxaGttQzZTRU5ueWlfSnR2NnU2M3NicVh5enloako4aTAzcmhBSkFlWnd4U2EyamZnbGhzVnFYN3ltVnFkYXhkcVhvM0lkQzhnWWw1QTPSAYICQVVfeXFMUFlja2NNM204X0x2aGdBa2JjSk1fSDdBellsaXlLUXM1NlVFamNXcE85dThJZ1ktUHl4TE5wLVRURmt4R3FXWVpiRU9YM3lOS3FndWwzUWpOQXpMbXlfbGxEM3hRX3pZemo0azRjb1BVMUNCblZHM291MFZCWDRxYVVtQk5ZYWVYNWZRMDVFT0lBNUd2TjZDaHpXSTJ6ekZtSzFmOFBELXh1UjRObnRxQnJuNjA2bEpBWElVZE45amlPVjJjV3RwUmhOdFgtY3M5eFJQT3RtamgwMVNteTB6NVVUOEJIcmFtcUlwOWR1a1JqSmIyS0xJMGNROGVYNW90VnFR?oc=5)
+
+2026-04-15 <span class="news-indication-tag">MS</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ3FxNThBRVd6TUtscWZZVERfdml1OVB3MkVJWWNNYjU0MDR3TFA0UHRNTUR4Z3JvTF93MXoyVDhxQjZwdGpVX2R6NW1yRDgzUXRWRkRzVklLSlVCdXRYVEdLa2JnbFY2NmRHazBvUGtTbWxHM0N1anRURDRwWHI5YlQ1cHVlaXhDQWYxcDVpUU5lenlGRDBkQmk2VmpLYU05aUxBRmtCdjdWdTJPT1hxaGttQzZTRU5ueWlfSnR2NnU2M3NicVh5enloako4aTAzcmhBSkFlWnd4U2EyamZnbGhzVnFYN3ltVnFkYXhkcVhvM0lkQzhnWWw1QTPSAYICQVVfeXFMUFlja2NNM204X0x2aGdBa2JjSk1fSDdBellsaXlLUXM1NlVFamNXcE85dThJZ1ktUHl4TE5wLVRURmt4R3FXWVpiRU9YM3lOS3FndWwzUWpOQXpMbXlfbGxEM3hRX3pZemo0azRjb1BVMUNCblZHM291MFZCWDRxYVVtQk5ZYWVYNWZRMDVFT0lBNUd2TjZDaHpXSTJ6ekZtSzFmOFBELXh1UjRObnRxQnJuNjA2bEpBWElVZE45amlPVjJjV3RwUmhOdFgtY3M5eFJQT3RtamgwMVNteTB6NVVUOEJIcmFtcUlwOWR1a1JqSmIyS0xJMGNROGVYNW90VnFR?oc=5)
+
+---
 
 ### [Vegane Ernährung: Neuer Standard zur Krankheitsprävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlhYelFYWXVyTXhodFM5WGI3RkgzYU1tNW01Y1k4UFk1RWFIdGdUY1ZXakxUSUs4VWhVVU1zSGhDWTlCcGlETU9tQnhWbnRzWWhsZzZ0Rkc0NXNCek1yOVRGOHJuN0NTRkx1QjFLa0NXYWtqWGR1Ml9aTkZtUm1NRkd1eG9UZTVvLThTSEdNbVVwQ3lkNldkU21TOUF5WkxDZEZvMzlDN3BVZ1lBYkZiS0ZMdk1iaF9q?oc=5)
 
 2026-04-14 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlhYelFYWXVyTXhodFM5WGI3RkgzYU1tNW01Y1k4UFk1RWFIdGdUY1ZXakxUSUs4VWhVVU1zSGhDWTlCcGlETU9tQnhWbnRzWWhsZzZ0Rkc0NXNCek1yOVRGOHJuN0NTRkx1QjFLa0NXYWtqWGR1Ml9aTkZtUm1NRkd1eG9UZTVvLThTSEdNbVVwQ3lkNldkU21TOUF5WkxDZEZvMzlDN3BVZ1lBYkZiS0ZMdk1iaF9q?oc=5)
-
----
-
-### [Santé : les personnels des hôpitaux et Ehpad restent en moins bonne santé que la population, selon un observatoire - Sud Ouest](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeW9tME9WWTl4cERsNFRkQ3hSOEpRVi1aMGdFLW9zWE5keVJGUUxxc0hoWlk3S3ZJaUpMU29XcVBDZnVUR09zTjZ0NFdBWmY0VnVmUlplWElhbnlEZ19yZS1Vc0M3MHl3aDllRTh4dWRjM2pWZ3dqeFVCcm5oXzEwSk5mLU1oMldOZUgyLV9xelRsNEpWdjJhR3JjbF91a3ZXcFppS2s5allVY0hhVUxHTTFqZldPckVvMTJnWllZNTdyTDFRNlZ5cUlTQ3JZekZySDc1b290cnNaaEhLbkRNLWF4TTZ3eUpNNFVaUjdHRVloc0NNT1Fv?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeW9tME9WWTl4cERsNFRkQ3hSOEpRVi1aMGdFLW9zWE5keVJGUUxxc0hoWlk3S3ZJaUpMU29XcVBDZnVUR09zTjZ0NFdBWmY0VnVmUlplWElhbnlEZ19yZS1Vc0M3MHl3aDllRTh4dWRjM2pWZ3dqeFVCcm5oXzEwSk5mLU1oMldOZUgyLV9xelRsNEpWdjJhR3JjbF91a3ZXcFppS2s5allVY0hhVUxHTTFqZldPckVvMTJnWllZNTdyTDFRNlZ5cUlTQ3JZekZySDc1b290cnNaaEhLbkRNLWF4TTZ3eUpNNFVaUjdHRVloc0NNT1Fv?oc=5)
-
----
-
-### [Red drink could 'unclog arteries' and lower cholesterol, studies suggest - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFBXNE5hekZ6djNUNzBoci00TXl1eWNtSEY2NWRCSC1wcC1qcEtwMmVsRl9ra2R3aXdpSWxyU3cwQld3eEJWS0ppQmVNS21WTFMxMVBsVnJXajdSSXRmUmYyaUdXZ1V1OG5GRFhfNEpOYVNKaVh5Q2JRZmdiSTBIRzVka9IBiAFBVV95cUxQbWoyR1c5bEZqNmYyOUNvMlM3UTNyY3plcTFUUk40amRWay1ZNl96ZHgyenZZbVRNUndzX2VUdXF5b3J6eFhoNWZyeW9mM3NsdXpROVctWlNac0t0VnNzLXkzVE5Tb3hHaDZSejEyQ0dvZDVnclJyVnRVeHVrMm1IMm0tTllyX3NP?oc=5)
-
-2026-04-14 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFBXNE5hekZ6djNUNzBoci00TXl1eWNtSEY2NWRCSC1wcC1qcEtwMmVsRl9ra2R3aXdpSWxyU3cwQld3eEJWS0ppQmVNS21WTFMxMVBsVnJXajdSSXRmUmYyaUdXZ1V1OG5GRFhfNEpOYVNKaVh5Q2JRZmdiSTBIRzVka9IBiAFBVV95cUxQbWoyR1c5bEZqNmYyOUNvMlM3UTNyY3plcTFUUk40amRWay1ZNl96ZHgyenZZbVRNUndzX2VUdXF5b3J6eFhoNWZyeW9mM3NsdXpROVctWlNac0t0VnNzLXkzVE5Tb3hHaDZSejEyQ0dvZDVnclJyVnRVeHVrMm1IMm0tTllyX3NP?oc=5)
-
----
-
-### [Burundi, nuovi casi di malattia non diagnosticata: 5 morti e 35 contagiati. L'Oms indaga - Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFBtNW9qcFBOdEFmMWZBeGZuXzdZTlZwYnJ6Y2dCSXFZMDl3VHlNUnluRG1uOXdUUGgyZWF0UEhVMF8tb1BuanNXODc1Y0VKcWpnYndMVmtCbk9xUWdBdUlBQ29GUlVXXzVtM2lacmNLYktLVVct?oc=5)
-
-2026-04-14 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMidEFVX3lxTFBtNW9qcFBOdEFmMWZBeGZuXzdZTlZwYnJ6Y2dCSXFZMDl3VHlNUnluRG1uOXdUUGgyZWF0UEhVMF8tb1BuanNXODc1Y0VKcWpnYndMVmtCbk9xUWdBdUlBQ29GUlVXXzVtM2lacmNLYktLVVct?oc=5)
 
 ---
 
@@ -84,35 +76,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Mansfield man took Gaviscon to combat 'heartburn' - but it turned out to be cancer - Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE1?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdLSVJYbnRfLS1UUS1RakpLVzR6MG5aMm5SM05oVTlETHZYWF8yQ0pRNDdOTlBsT1Q4LU1TQS10XzVNNnp4Nk1zWWMxbTNqWHkzNHNoVE5hTVpWUEFwTDk3bF9rZ2RqRjlBWHFiOW1vcUVkWFlQWFhaSzZkb01oVk41UVNLQkYzOHRuOTB6RE5rUVE1?oc=5)
-
----
-
 ### [Warum die Impfung gegen Gürtelrose wichtiger ist als gedacht](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTQzSGRobGhudHZKd29NbFJaN0NMS0ZNYzNGOUFWT1JZaFBvVG5Fb2t0aDhURmp4MENjaXIxTHNqaHJyYVYtQTF4dWZqSFB3cTNoZXkxODV6Rlp4NjQwbW4tbzd0LWVPbDVEX2FEYUUwNjlBNk1feXg2NkdKSDVEblVIenBoc3RJODZmd3g4a0NlR2drMFdhOA?oc=5)
 
 2026-04-13 <span class="news-indication-tag">MS</span>
 
 來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTQzSGRobGhudHZKd29NbFJaN0NMS0ZNYzNGOUFWT1JZaFBvVG5Fb2t0aDhURmp4MENjaXIxTHNqaHJyYVYtQTF4dWZqSFB3cTNoZXkxODV6Rlp4NjQwbW4tbzd0LWVPbDVEX2FEYUUwNjlBNk1feXg2NkdKSDVEblVIenBoc3RJODZmd3g4a0NlR2drMFdhOA?oc=5)
-
----
-
-### [Menopause beschleunigt MS-Progression nicht - Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
-
-2026-04-13 <span class="news-indication-tag">MS</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQN2l6ZENTOXRIMk5wUHdTSjVnOEVBUC1zTGJUZmZ6dERzaGtWZEtHc0RjUTNtd3ltSFJIVnduNGw2b1g1UVFpOFloSkxkekc5cUtrbk1zZVZHVzk0NVp1cVRrd1RXNEdiS1AyWjhyN3N0RldmWjdxQWdjM1RCYWoxbUZRWGx6bzFoUDFERF9LT3loWno0YnY1VzNHSkV4QQ?oc=5)
-
----
-
-### [Vitamina B1: confermata una teoria di 67 anni fa](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
-
-2026-04-13 <span class="news-indication-tag">MS</span>
-
-來源：[tomshw.it](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFFsSUZRTHRoRm1MV1JCal9zcXRYU2hucl9MWEJsQ3ZONUlnbEN1RWV3NnltQlI5eE0wTHdaU0pfSEt4OUJBUzdWSnBsSlVHZElLTGRNZ1NpaDF4eWpvVlg1dG1wemZ3aEhtdmZkcmtFZGN2b2dlZVNyUG55S1hXRzh0YjJyZ2tqSG1NNy1PdFpwNkE?oc=5)
 
 ---
 
