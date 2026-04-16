@@ -14,7 +14,7 @@ permalink: /news/posaconazole/
 ---
 
 <p class="key-answer" data-question="Posaconazole 有什麼相關新聞？">
-<strong>Posaconazole</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Posaconazole</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,19 +42,51 @@ permalink: /news/posaconazole/
 <p><a href="{{ '/drugs/posaconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（25 則）
 
-### [Aus der Nische in den Fokus! 25 Jahre Psychosomatische Medizin am UKR - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEJsTmtKVG9FRE1LODd1UlhadG9TU1FlRzY4aklIeHRCVDFGNENQX05QaDNueUVHMWdMU0FqMlRGZV9LTnBGV3JqX0hsWWE2WVNUZS1IRWtOQlNNVmlWUGthVkU3bHZrZjhQTEVTS2tGQWktaDhlYm9KbkY0N0JzUTB5bzQ4aUJKLVY0WTN2Qmh5aXhrMDJNZXp0Z1FhVlpEa1lyTWlhWmtBVS1nRDQzWVJnbXdraVBHeG5YWVRYclNRRjky?oc=5)
+### [Trans woman quits endometriosis charity role after backlash - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlg3cWRIOFZ1QUViZFFWVFZ1TDF6XzJsRXVFa2xQd2ZjX3VGZllUeW1hSWd6SWk2czJuTlBISmNxdVFYbHhVSW5JVERoRmVaNkZLVW5nWU5KZ2xoYjZMeWpDSXRMSDNva2dLbVpBM3JlM1NiT0l6ZldZVzU5Wm5kaTBPeGpGOXJXaE9pSlBxWUEtRTBYMW5wZ2dlSFpJdE9lX1BleA?oc=5)
 
 2026-04-16 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEJsTmtKVG9FRE1LODd1UlhadG9TU1FlRzY4aklIeHRCVDFGNENQX05QaDNueUVHMWdMU0FqMlRGZV9LTnBGV3JqX0hsWWE2WVNUZS1IRWtOQlNNVmlWUGthVkU3bHZrZjhQTEVTS2tGQWktaDhlYm9KbkY0N0JzUTB5bzQ4aUJKLVY0WTN2Qmh5aXhrMDJNZXp0Z1FhVlpEa1lyTWlhWmtBVS1nRDQzWVJnbXdraVBHeG5YWVRYclNRRjky?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlg3cWRIOFZ1QUViZFFWVFZ1TDF6XzJsRXVFa2xQd2ZjX3VGZllUeW1hSWd6SWk2czJuTlBISmNxdVFYbHhVSW5JVERoRmVaNkZLVW5nWU5KZ2xoYjZMeWpDSXRMSDNva2dLbVpBM3JlM1NiT0l6ZldZVzU5Wm5kaTBPeGpGOXJXaE9pSlBxWUEtRTBYMW5wZ2dlSFpJdE9lX1BleA?oc=5)
+
+---
+
+### [Schlafmangel: Was im Gehirn bei Konzentrationsproblemen passiert](https://news.google.com/rss/articles/CBMieEFVX3lxTFBiVkVCX2JkUkpiUmxGbmZUWEowS1FGX1lqOWR6RGUtUG1ueTBfaEhSaWlMSmdaeTlJbVBObWRQNVJDeTY3QVF4NU1WdU9GZ0RkZzhyemZ1U1lQeU95R2ZSM3Z3eXlYLWdKWE5xTVJ3U3pNN3BWSUV3Vw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">AF</span>
+
+來源：[t3n](https://news.google.com/rss/articles/CBMieEFVX3lxTFBiVkVCX2JkUkpiUmxGbmZUWEowS1FGX1lqOWR6RGUtUG1ueTBfaEhSaWlMSmdaeTlJbVBObWRQNVJDeTY3QVF4NU1WdU9GZ0RkZzhyemZ1U1lQeU95R2ZSM3Z3eXlYLWdKWE5xTVJ3U3pNN3BWSUV3Vw?oc=5)
+
+---
+
+### [Lebensweise spielt eine große Rolle: Alzheimer-Forscher informiert beim Studium Generale in Pforzheim](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1NFTGpXRExjZFlMaWp1Undpa2dITVBjLVJJemdNVmVEX2p0bWdWRFpXanA4SzU2Q29UVUVXVklDVDRldlAwdGYycXJyZzZKa05pZEx4M3V1cDRLYmpTOVMzUXluOVhOMkxtbUtTWW1XM05hd3pHR3FTWGM4MV8xRTVYc0RoVHdvLTl4MWJNU3JUN3pjNE1BSm1uYVNYZHgySC03NlBtMFlPS0Fwc09Cd2VCcUpBdEtQSmJERVpwRDhlR2N5V1BYMjBMSUEyeEdTcFI5OWR1dF9Uc0YxNVNTZ2tpR29fSlpXdFQ3T0Z3Z1NaVlE?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[PZ-news](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1NFTGpXRExjZFlMaWp1Undpa2dITVBjLVJJemdNVmVEX2p0bWdWRFpXanA4SzU2Q29UVUVXVklDVDRldlAwdGYycXJyZzZKa05pZEx4M3V1cDRLYmpTOVMzUXluOVhOMkxtbUtTWW1XM05hd3pHR3FTWGM4MV8xRTVYc0RoVHdvLTl4MWJNU3JUN3pjNE1BSm1uYVNYZHgySC03NlBtMFlPS0Fwc09Cd2VCcUpBdEtQSmJERVpwRDhlR2N5V1BYMjBMSUEyeEdTcFI5OWR1dF9Uc0YxNVNTZ2tpR29fSlpXdFQ3T0Z3Z1NaVlE?oc=5)
+
+---
+
+### [Rischio listeria, salmone affumicato ritirato dai supermercati Lidl: il lotto interessato - Sky TG24](https://news.google.com/rss/articles/CBMigAFBVV95cUxObkFLN0JXcFVZc2xlbEdJa05zM3lCNzNJTUFVaHQtajFUYllCeHRzaGgyYU9kN25kdllCdHQtT1BrQVpDcXRoQzlka2h0M2JPSHFxbm05ZUxwR1NrTzFDdU9taURjQmxCUGU2WEllVGstT09CRUFwRDRiWVhGbGhCZg?oc=5)
+
+2026-04-16 <span class="news-indication-tag">AF</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMigAFBVV95cUxObkFLN0JXcFVZc2xlbEdJa05zM3lCNzNJTUFVaHQtajFUYllCeHRzaGgyYU9kN25kdllCdHQtT1BrQVpDcXRoQzlka2h0M2JPSHFxbm05ZUxwR1NrTzFDdU9taURjQmxCUGU2WEllVGstT09CRUFwRDRiWVhGbGhCZg?oc=5)
+
+---
+
+### [Aus der Nische in den Fokus! 25 Jahre Psychosomatische Medizin am UKR - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmV2ZoY1ROYVJkYVY1WlRsZ3lleDJwaEd6NF95Zkk5UnBPcmNEUUlNeFlWVW01Y3NUcDkzemZ0OFl5akk1YUhoWWJROA?oc=5)
+
+2026-04-16 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmV2ZoY1ROYVJkYVY1WlRsZ3lleDJwaEd6NF95Zkk5UnBPcmNEUUlNeFlWVW01Y3NUcDkzemZ0OFl5akk1YUhoWWJROA?oc=5)
 
 ---
 
 ### [Lomagna si cura: il 16 focus sull’obesità con il dottor Jacob Panzeri - Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
-2026-04-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-04-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
@@ -65,22 +97,6 @@ permalink: /news/posaconazole/
 2026-04-16 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GNnRXX1FnZE5lOGRhTGg4NEZkNDB4dHFnaWcycVQycUU2NEk5cGdEU1FFYmtWeE5EZVZtODdTUFNLUHRkWm1uR0R0NA?oc=5)
-
----
-
-### [Lidl, richiamato salmone affumicato con pistacchio: rischio Listeria - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTR5eko5NzFIalcyU0xwRXNaOWFNWUlCczNHbGw2STI4Z1JxVW5Kcl9vLTJIeGRjU3VKNVFqUWRVVmdkZkNLZUMxa21EajdZTFY1amUwcldFTjBZWTRKTF83bGViSDJtTjVJRVVSUmNKdUFud3M1NTNvQWxUdUd3M1ZQSFVtb0F5elRKTA?oc=5)
-
-2026-04-16 <span class="news-indication-tag">AF</span>
-
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTR5eko5NzFIalcyU0xwRXNaOWFNWUlCczNHbGw2STI4Z1JxVW5Kcl9vLTJIeGRjU3VKNVFqUWRVVmdkZkNLZUMxa21EajdZTFY1amUwcldFTjBZWTRKTF83bGViSDJtTjVJRVVSUmNKdUFud3M1NTNvQWxUdUd3M1ZQSFVtb0F5elRKTA?oc=5)
-
----
-
-### [Demenz-Forschung: Gehirn schützt sich selbst gegen Alzheimer - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFFZnNoQmZZZ3gxVXVmeElGLWtPLUI3ZXdicnc3RHZWMHdwTnJSNGtkQjg2RlN1dTVMeW9vUUE5VVgzeTFmM3JUalpiVXNsa3UzUjEtVnlLemdSZ2hTNU05UGNkQnloOFBBUDRrYnNtU1pPdjlOaHVCSjdoTG0ySGN2R0hta2dKeHBYUGtZN21ER0p6Z0xvcTZPa0FGNzM4Vm0wNFR3SmxWTzhiTGNlLVhQaWZPZEthZHV3?oc=5)
-
-2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFFZnNoQmZZZ3gxVXVmeElGLWtPLUI3ZXdicnc3RHZWMHdwTnJSNGtkQjg2RlN1dTVMeW9vUUE5VVgzeTFmM3JUalpiVXNsa3UzUjEtVnlLemdSZ2hTNU05UGNkQnloOFBBUDRrYnNtU1pPdjlOaHVCSjdoTG0ySGN2R0hta2dKeHBYUGtZN21ER0p6Z0xvcTZPa0FGNzM4Vm0wNFR3SmxWTzhiTGNlLVhQaWZPZEthZHV3?oc=5)
 
 ---
 
@@ -100,6 +116,14 @@ permalink: /news/posaconazole/
 
 ---
 
+### [Breakthrough Drug Delays Rheumatoid Arthritis for Years After Treatment Ends](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
+
+2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
+
+---
+
 ### [Komet C/2025 R3 Panstarrs - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlFieTU1NlptaWYxNVpPY05QSFFMOGVRSnNnMERVOG9tSEprVThoUk9oN0JLblltTlpOYTFXM3lCUElwR2RobGlsZmFzMEVDWTdxNkgyMXc1SW1jZHJreHdIOXBabGZHb2wwWmRjR21CNGtnc2g2VlhGLUFBcjVad3NNVHhvWnpJR3ZN?oc=5)
 
 2026-04-15 <span class="news-indication-tag">AF</span>
@@ -116,11 +140,11 @@ permalink: /news/posaconazole/
 
 ---
 
-### ['My face was eaten by pitbull as I had fit – I only realised when fiancé FaceTimed me' - Manchester Evening News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzBrRjlQV3JPc3htYXJmaHhvSEJTNnFVUWNyUVFSaWdGa2RSbGFNX3hNOTN4RzNhWEloWk5ZNVM5WEQ2TVZHbTd0Qm11ZmhiaU4wbnpmMWthenE0ZWNGVW9RYk1KWWQ4VUo0blExS1ZpaXVTUzJBRVZHQVJRRTR0azlBNWV2RnRLNlVJZzZobXFXOWgt0gGaAUFVX3lxTE1qbGllQWMwRVY5MlZWVGdUa3VJekQ3Sk1aTV91UVNBRjFfWjRYb0dvRWVKVEoydU83S3N4TGJKME8ySTR6NERsd0U1Yi1MREhlM0x0bEJKZ0p2dDlqVWx1c2laVXFSaHgwYW9hWFlSU2hOenFuR0ZLdXBMMjNfa0xSbmRveDJKQ1ZFNy1teDZFUjVNczhUU19ldlE?oc=5)
+### [El cansancio que florece: cómo identificar y combatir la astenia primaveral - Diario de León](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUltVHlBYnE2bGpWRmFCSks4MDV0ellpTGtvS3BwZHJXV25CcVJ1amxGVDlEQ1NYUzFQZ09VNngwaGNVUVZjT1VxSDZ5TjU4cTNIeGczWndNUXVCWVFxYW5rZ2ZhVDVZZ0tyU05LVTJMU1htQWVjUUtEdldBVDlzbnlVbkdMLThqUmdwbUN6Ny04RUZFdmxISkFtY2FXbkRaLUtjWVdLaEplc3dqTXNndUI4OHPSAboBQVVfeXFMTlAyT1cxUUtpbkh4ZG02V3IyakNGWnNuN3BjUVYtcXFaLWFmOXhnR2VOdmNhWlNrczBrQWpMNXlCdzBoRVlnT29TMkt0dkhDTkJQZjY0Tjl6YU9iZDcwVUNEM3ZFNnEycWxUVHc0dC1ydGlwbUI0SDVwalFhX290SVVRbXZ0b1AyR0UzejdpUFMySGVuS0c0Z2xrSE9rQW5nU1hqTldEX29vNUNkOEJscjhHbC1BUkVicGNR?oc=5)
 
 2026-04-15 <span class="news-indication-tag">AF</span>
 
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzBrRjlQV3JPc3htYXJmaHhvSEJTNnFVUWNyUVFSaWdGa2RSbGFNX3hNOTN4RzNhWEloWk5ZNVM5WEQ2TVZHbTd0Qm11ZmhiaU4wbnpmMWthenE0ZWNGVW9RYk1KWWQ4VUo0blExS1ZpaXVTUzJBRVZHQVJRRTR0azlBNWV2RnRLNlVJZzZobXFXOWgt0gGaAUFVX3lxTE1qbGllQWMwRVY5MlZWVGdUa3VJekQ3Sk1aTV91UVNBRjFfWjRYb0dvRWVKVEoydU83S3N4TGJKME8ySTR6NERsd0U1Yi1MREhlM0x0bEJKZ0p2dDlqVWx1c2laVXFSaHgwYW9hWFlSU2hOenFuR0ZLdXBMMjNfa0xSbmRveDJKQ1ZFNy1teDZFUjVNczhUU19ldlE?oc=5)
+來源：[Diario de León](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUltVHlBYnE2bGpWRmFCSks4MDV0ellpTGtvS3BwZHJXV25CcVJ1amxGVDlEQ1NYUzFQZ09VNngwaGNVUVZjT1VxSDZ5TjU4cTNIeGczWndNUXVCWVFxYW5rZ2ZhVDVZZ0tyU05LVTJMU1htQWVjUUtEdldBVDlzbnlVbkdMLThqUmdwbUN6Ny04RUZFdmxISkFtY2FXbkRaLUtjWVdLaEplc3dqTXNndUI4OHPSAboBQVVfeXFMTlAyT1cxUUtpbkh4ZG02V3IyakNGWnNuN3BjUVYtcXFaLWFmOXhnR2VOdmNhWlNrczBrQWpMNXlCdzBoRVlnT29TMkt0dkhDTkJQZjY0Tjl6YU9iZDcwVUNEM3ZFNnEycWxUVHc0dC1ydGlwbUI0SDVwalFhX290SVVRbXZ0b1AyR0UzejdpUFMySGVuS0c0Z2xrSE9rQW5nU1hqTldEX29vNUNkOEJscjhHbC1BUkVicGNR?oc=5)
 
 ---
 
@@ -129,14 +153,6 @@ permalink: /news/posaconazole/
 2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMiggJBVV95cUxOeDlLYURwZmktX3doVy0yQmZLNXBEVW1OS2hpSEtrVDdYMURGek44OFEyZC05czRGWUF5MHlCWVBaQ3BKZWhSNGE0endrTXpPSW1zaTRmeVhiY3NPZVk2N05rYWV1N280TnVfekxxOWVENFQ2b1Y4MTNaRDUzR09UZHNGckpSR2pZc3RKMS1yY3RZMVh3MktIRXdRc0c3QlhldG5RZkx5cVhsTFdOLXNqRDZINS1KcDBEcjkxbWY0MHJXdFZ2aXpEX2h0ZUtnZkRSdzlhM0dudDRqUnZ6ams3UzZ0M3BDTkxjR05DRWpvN1Q2LWVHRXZkbDhrazZfU0s2ckE?oc=5)
-
----
-
-### [Scientists Discover a Molecule That Targets Arthritis at Its Root, and Leaves the Rest of Your Body Alone - Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
-
-2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
 
 ---
 
@@ -153,14 +169,6 @@ permalink: /news/posaconazole/
 2026-04-15 <span class="news-indication-tag">AF</span>
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmUyYXlfUnUzU3Z1bG9aVGx1cklvekM4RW1rMEFRWkJUdWcwZ2U3ekkzYU5PV0s5Z3lCY21HOURIdTQ1dGdMd2dRS09uMzlXZFJaRHR4QnpfSllKMWlpakpFay10Y3lvamVSUGR1U3N0cUJOdWxiS2VCM1Y2UG9oazFrNU1IeWtDYzVIOGZ3?oc=5)
-
----
-
-### [Mum left in wheelchair after flesh-eating bacteria infects C-section scar](https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzhhZ1hhRVJnb0FiQjBPamVzNTRGWnBnS0VjVnFhSTktTzk0UWEtbEFFdVp4RGNmWTg0MnQxbk94XzZ1cWxKbF9YaWcxZ3gzZktQQWJadTF5Vnp2NGVZNHFqY3BzMHFEaDViVXJrM3RFWlFEUGhoQ2lpRVFia09vcjBUX1VMQ19DVERRamFB?oc=5)
-
-2026-04-15 <span class="news-indication-tag">AF</span>
-
-來源：[EDP24](https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzhhZ1hhRVJnb0FiQjBPamVzNTRGWnBnS0VjVnFhSTktTzk0UWEtbEFFdVp4RGNmWTg0MnQxbk94XzZ1cWxKbF9YaWcxZ3gzZktQQWJadTF5Vnp2NGVZNHFqY3BzMHFEaDViVXJrM3RFWlFEUGhoQ2lpRVFia09vcjBUX1VMQ19DVERRamFB?oc=5)
 
 ---
 
@@ -204,6 +212,22 @@ permalink: /news/posaconazole/
 
 ---
 
+### [Apenas estamos entendiendo el papel de la soledad en el deterioro mental de los adultos mayores](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3hYY2VvT3ktMzVtMXgwNm9XMUxESXN5NGJZaEdCYTY0LXlrLTNUTXRpN2NYcmxCTGh5LVVNYUpWNTJYcmk5OU9aMXl1Y2ZKQjVOSDQ3aEhrR3AzQW80M3JlS1VPbl9yendBRFVLOXpyT1dwcWVDVXpEMDN2UWV5MDk3X25mMjF4Z05YOTZTaHgzckk3dnVZVEl4OGxCOC1XZVFmR3RMWmsyNEZLYTFMX2JPbXZDdFI2V0tXQXpyYzItekYz?oc=5)
+
+2026-04-14 <span class="news-indication-tag">AF</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3hYY2VvT3ktMzVtMXgwNm9XMUxESXN5NGJZaEdCYTY0LXlrLTNUTXRpN2NYcmxCTGh5LVVNYUpWNTJYcmk5OU9aMXl1Y2ZKQjVOSDQ3aEhrR3AzQW80M3JlS1VPbl9yendBRFVLOXpyT1dwcWVDVXpEMDN2UWV5MDk3X25mMjF4Z05YOTZTaHgzckk3dnVZVEl4OGxCOC1XZVFmR3RMWmsyNEZLYTFMX2JPbXZDdFI2V0tXQXpyYzItekYz?oc=5)
+
+---
+
+### [Causes of sarcopenia and frailty in people taking GLP1RAs](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNWVFyWWZlYXgwMEI3VE04V25uQmN2SHkzbDlYVHZ2dmM4Rnl3MEFXRnk5akg5SmpqNk5oWEVKT3gwOWVycUd6MlVLajB4b0F5UzNiUV9sUzUyOWNkSzhr?oc=5)
+
+2026-04-14 <span class="news-indication-tag">AF</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNWVFyWWZlYXgwMEI3VE04V25uQmN2SHkzbDlYVHZ2dmM4Rnl3MEFXRnk5akg5SmpqNk5oWEVKT3gwOWVycUd6MlVLajB4b0F5UzNiUV9sUzUyOWNkSzhr?oc=5)
+
+---
+
 ### [Bird flu outbreak leads to imposed cull](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
 
 2026-04-14 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
@@ -217,14 +241,6 @@ permalink: /news/posaconazole/
 2026-04-14 <span class="news-indication-tag">AF</span>
 
 來源：[El Digital de Albacete](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGxCSUNZOURZUjhWVlFOQmx6NEU4OXlwTHd0NnlzbVYwZkgwcjFkZDVsY1IxTEdEZVY4cHFERkp1WkdJT09IWTBjS2ZkUXgwWExLU1JFWVFzVjNSRG5vTzlveGpTYmlPWDJBdUViMzFZNkNKNkNwcGtTSG4xdDExMFZqY0ZvVnM3LXU2NmE0UEhSM094R0pUazduTVFEeUpTRzVHWHRHWGtyRUNVMkZlQXNHb1o1V2pYSG5HZWRDVUxBRURMS1RuQjdIQXRSQQ?oc=5)
-
----
-
-### [Worrying new side effect from smoking cannabis discovered in groundbreaking study](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
-
-2026-04-14 <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
 
 ---
 

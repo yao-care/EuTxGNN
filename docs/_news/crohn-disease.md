@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Morbus Crohn（crohn disease） 相關新聞"
+title: "enfermedad de Crohn（crohn disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "enfermedad de Crohn（crohn disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/crohn-disease/
 ---
 
-# Morbus Crohn（crohn disease） 相關新聞
+# enfermedad de Crohn（crohn disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Morbus Crohn（crohn disease） 有什麼相關新聞？">
-<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Crohn（crohn disease） 有什麼相關新聞？">
+<strong>enfermedad de Crohn（crohn disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Morbus Crohn」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Crohn」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/crohn-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [¿Estamos tratando la fibrosis en la enfermedad de Crohn?](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXRRMzVWMXI3QXRTdDBOellPcmRJRXZIdHJfclJRWFJnNExXUWJ1aWhmME5NWXdSNmp5MVVDck5fUkdnOEJxeWFaWEQtX2FYX00xbEk1MXhNRU10YmRlSlRfMjNfWjZQcWlRcGJ2eTJSQTlUeThyN29jQ3h0bUpROXFPTmpIZUE?oc=5)
+
+2026-04-15
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXRRMzVWMXI3QXRTdDBOellPcmRJRXZIdHJfclJRWFJnNExXUWJ1aWhmME5NWXdSNmp5MVVDck5fUkdnOEJxeWFaWEQtX2FYX00xbEk1MXhNRU10YmRlSlRfMjNfWjZQcWlRcGJ2eTJSQTlUeThyN29jQ3h0bUpROXFPTmpIZUE?oc=5)
+
+---
 
 ### [Tasty & Healthy-Diät: Alternative zur enteralen Ernährung bei Morbus Crohn?](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDN6bXdtaGpGQWlVbi1yR0lvbk1JdEgyeUJsVXJzSzRVYi1TVGJ4OTIza3R6WTd5WXFOZjhyajd1RUNRVndrZE9DeFU5eW5XZUpDZHB2SHhFQ3hRbXZGd0lvek84SVhQbThpN3A4cVRuaDJKUFV2S3o2TkM1cXFWb1BaUW5BOTY4OUMxQVRZWllSZVowZjhlRHVNaHgyTGdSNFZhdjZjLVllanFfRGQzbkxmOTRFUzNnSlUtS2wwUWdXSFBfRWszY0dfWXZYTTJPM2NzVGN0VFVPRFZ4OE9sOFM2blJ3Z2ZvNUdlM1dPSkt0Qzg?oc=5)
 

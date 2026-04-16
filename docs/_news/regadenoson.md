@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Akupunktur: Die Nadel im Migränehaufen?](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
+
+2026-04-16 <span class="news-indication-tag">Migräne</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
+
+---
 
 ### [Vitamin D3 – lindert es allergisches Asthma?](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
 ### [Vitamin D3 – lindert es allergisches Asthma?](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
 
 2026-04-16 <span class="news-indication-tag">asthma</span>
 
 來源：[PressNetwork](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
+
+---
+
+### [Breakthrough Drug Delays Rheumatoid Arthritis for Years After Treatment Ends](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
+
+2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
 
 ---
 
@@ -62,9 +70,17 @@ permalink: /news/sarilumab/
 
 ### [Scientists Discover a Molecule That Targets Arthritis at Its Root, and Leaves the Rest of Your Body Alone - Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
 
-2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+2026-04-15 <span class="news-indication-tag">arthritis</span>
 
 來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
+
+---
+
+### [¿Estamos tratando la fibrosis en la enfermedad de Crohn?](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXRRMzVWMXI3QXRTdDBOellPcmRJRXZIdHJfclJRWFJnNExXUWJ1aWhmME5NWXdSNmp5MVVDck5fUkdnOEJxeWFaWEQtX2FYX00xbEk1MXhNRU10YmRlSlRfMjNfWjZQcWlRcGJ2eTJSQTlUeThyN29jQ3h0bUpROXFPTmpIZUE?oc=5)
+
+2026-04-15 <span class="news-indication-tag">enfermedad de Crohn</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXRRMzVWMXI3QXRTdDBOellPcmRJRXZIdHJfclJRWFJnNExXUWJ1aWhmME5NWXdSNmp5MVVDck5fUkdnOEJxeWFaWEQtX2FYX00xbEk1MXhNRU10YmRlSlRfMjNfWjZQcWlRcGJ2eTJSQTlUeThyN29jQ3h0bUpROXFPTmpIZUE?oc=5)
 
 ---
 

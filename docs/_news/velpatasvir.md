@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Velpatasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [Do these two easy things to make your daily walk better for your health - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTQ1WUJzcllESlp0UVd3YTZJQ3lrbmZmekFIWHB2SXRycFZoTEJEWnhuT1N5YUJKU3BidWtHS01Qakl6U1FlT3BiUWF2SjRzbFRDb1N3NHVScWNKdkpDNmVQLVlfLWlCWFVlXzFHYXUwTWFNYjdqbUVBT1d4dnRPc2x6UG5vTTluaVFhQkpoMkdoZHI0TWcxWVJEWDlSQlhF?oc=5)
+### [‘Healthy’ baby in hospital with meningitis despite no symptoms - Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
 
 2026-04-16 <span class="news-indication-tag">MS</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTQ1WUJzcllESlp0UVd3YTZJQ3lrbmZmekFIWHB2SXRycFZoTEJEWnhuT1N5YUJKU3BidWtHS01Qakl6U1FlT3BiUWF2SjRzbFRDb1N3NHVScWNKdkpDNmVQLVlfLWlCWFVlXzFHYXUwTWFNYjdqbUVBT1d4dnRPc2x6UG5vTTluaVFhQkpoMkdoZHI0TWcxWVJEWDlSQlhF?oc=5)
+來源：[Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
+
+---
+
+### [Lebensweise spielt eine große Rolle: Alzheimer-Forscher informiert beim Studium Generale in Pforzheim](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1NFTGpXRExjZFlMaWp1Undpa2dITVBjLVJJemdNVmVEX2p0bWdWRFpXanA4SzU2Q29UVUVXVklDVDRldlAwdGYycXJyZzZKa05pZEx4M3V1cDRLYmpTOVMzUXluOVhOMkxtbUtTWW1XM05hd3pHR3FTWGM4MV8xRTVYc0RoVHdvLTl4MWJNU3JUN3pjNE1BSm1uYVNYZHgySC03NlBtMFlPS0Fwc09Cd2VCcUpBdEtQSmJERVpwRDhlR2N5V1BYMjBMSUEyeEdTcFI5OWR1dF9Uc0YxNVNTZ2tpR29fSlpXdFQ3T0Z3Z1NaVlE?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[PZ-news](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1NFTGpXRExjZFlMaWp1Undpa2dITVBjLVJJemdNVmVEX2p0bWdWRFpXanA4SzU2Q29UVUVXVklDVDRldlAwdGYycXJyZzZKa05pZEx4M3V1cDRLYmpTOVMzUXluOVhOMkxtbUtTWW1XM05hd3pHR3FTWGM4MV8xRTVYc0RoVHdvLTl4MWJNU3JUN3pjNE1BSm1uYVNYZHgySC03NlBtMFlPS0Fwc09Cd2VCcUpBdEtQSmJERVpwRDhlR2N5V1BYMjBMSUEyeEdTcFI5OWR1dF9Uc0YxNVNTZ2tpR29fSlpXdFQ3T0Z3Z1NaVlE?oc=5)
+
+---
+
+### [A longevity expert on how to live longer, without spending a fortune - Daily Mail](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFp3ZVhmNzFWb29nclZIdW5wdGtlUEw1T1JTTU4yTVpoWjc3T2V0RndDMTNBQ3pmR3k1VXN0eEtuTUhKZzhCTG8zakozQVgwU21UMnRBQWREb3dfa0ZoZDJ0UHA3SnZRMGhfOUJJakhtdmNndEtIMnNtRkE4cUFINXNKcW1uNXhNdi10dlJpQThjRHkzS2QxWk5JcjRlS2doSEEyMDFaNmVheG92di1yR09MWXJSWlU?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFp3ZVhmNzFWb29nclZIdW5wdGtlUEw1T1JTTU4yTVpoWjc3T2V0RndDMTNBQ3pmR3k1VXN0eEtuTUhKZzhCTG8zakozQVgwU21UMnRBQWREb3dfa0ZoZDJ0UHA3SnZRMGhfOUJJakhtdmNndEtIMnNtRkE4cUFINXNKcW1uNXhNdi10dlJpQThjRHkzS2QxWk5JcjRlS2doSEEyMDFaNmVheG92di1yR09MWXJSWlU?oc=5)
+
+---
+
+### [Lomagna si cura: il 16 focus sull’obesità con il dottor Jacob Panzeri - Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
+
+2026-04-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
 ---
 
@@ -60,19 +84,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Demenz-Forschung: Gehirn schützt sich selbst gegen Alzheimer - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFFZnNoQmZZZ3gxVXVmeElGLWtPLUI3ZXdicnc3RHZWMHdwTnJSNGtkQjg2RlN1dTVMeW9vUUE5VVgzeTFmM3JUalpiVXNsa3UzUjEtVnlLemdSZ2hTNU05UGNkQnloOFBBUDRrYnNtU1pPdjlOaHVCSjdoTG0ySGN2R0hta2dKeHBYUGtZN21ER0p6Z0xvcTZPa0FGNzM4Vm0wNFR3SmxWTzhiTGNlLVhQaWZPZEthZHV3?oc=5)
+### [Mum with brain tumour highlights need for more research as new trials offered - Hull Live](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEdjT1VLZWZXWXo1emtoWWp6eWVvdU5XTWZJMVV6aVBaUDNDVXpwaTNBRFR5Rm9DLV96SDc1dV93Ulc2N3A5Smx5R0dCbEFSN2ZvRWxZakxUTXh2OGgyUFdLdl9PWVhhUjAzZGppd3dQSlVWb2FNYjQ2U1hkdklwNVdB0gGHAUFVX3lxTE1IRlBRemdtSTZlWG9EQWZ4U3JkRzdnRmRpT0czYVU4Qjg4MTZxbFJjZ0NZRGtCTURyVXR1T2Y3cVQ2NjA5Xzh4a09EZkNCclJBRVdIQWJDQlVTVEtwQ1NhcEhhekJGRDJDei0xNlZ6NVFMcWp0YlIyUU9FQTBVM1FBTVRJbHFhWQ?oc=5)
 
-2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFFZnNoQmZZZ3gxVXVmeElGLWtPLUI3ZXdicnc3RHZWMHdwTnJSNGtkQjg2RlN1dTVMeW9vUUE5VVgzeTFmM3JUalpiVXNsa3UzUjEtVnlLemdSZ2hTNU05UGNkQnloOFBBUDRrYnNtU1pPdjlOaHVCSjdoTG0ySGN2R0hta2dKeHBYUGtZN21ER0p6Z0xvcTZPa0FGNzM4Vm0wNFR3SmxWTzhiTGNlLVhQaWZPZEthZHV3?oc=5)
-
----
-
-### [Brain cancer clinical trial aims to 'bring hope'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
-
-2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
+來源：[Hull Live](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEdjT1VLZWZXWXo1emtoWWp6eWVvdU5XTWZJMVV6aVBaUDNDVXpwaTNBRFR5Rm9DLV96SDc1dV93Ulc2N3A5Smx5R0dCbEFSN2ZvRWxZakxUTXh2OGgyUFdLdl9PWVhhUjAzZGppd3dQSlVWb2FNYjQ2U1hkdklwNVdB0gGHAUFVX3lxTE1IRlBRemdtSTZlWG9EQWZ4U3JkRzdnRmRpT0czYVU4Qjg4MTZxbFJjZ0NZRGtCTURyVXR1T2Y3cVQ2NjA5Xzh4a09EZkNCclJBRVdIQWJDQlVTVEtwQ1NhcEhhekJGRDJDei0xNlZ6NVFMcWp0YlIyUU9FQTBVM1FBTVRJbHFhWQ?oc=5)
 
 ---
 
@@ -81,14 +97,6 @@ permalink: /news/velpatasvir/
 2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
----
-
-### [Burundi, misteriosa malattia fa 5 morti: Oms indaga](https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0RjUFhFQzZKemxxOS1Eci1IUU4yNHRCbkhyUU9LU0pLZ2Q2U2s3VEx1X3UwVUxhazdhWDM3RF80WUtUYkd1azdEOU9CUWtGb29iMmNINVgyenU0d0ExMjVYN1ZWbFdvdTMza09FdXkwWmpQaVJzTUdldW14OHhBU3dNdVdtekdUQ3RtVUdnemNGOG05SUg3VXpSbEZpZWc0TDcxLW0yT3JsWUdKTUVBR05SOFF2OHhucXZ2ag?oc=5)
-
-2026-04-15 <span class="news-indication-tag">MS</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0RjUFhFQzZKemxxOS1Eci1IUU4yNHRCbkhyUU9LU0pLZ2Q2U2s3VEx1X3UwVUxhazdhWDM3RF80WUtUYkd1azdEOU9CUWtGb29iMmNINVgyenU0d0ExMjVYN1ZWbFdvdTMza09FdXkwWmpQaVJzTUdldW14OHhBU3dNdVdtekdUQ3RtVUdnemNGOG05SUg3VXpSbEZpZWc0TDcxLW0yT3JsWUdKTUVBR05SOFF2OHhucXZ2ag?oc=5)
 
 ---
 

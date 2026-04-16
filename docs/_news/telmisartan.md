@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [How matching workouts to body clock can cut risk of heart disease - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
+### [Don't feel like exercising? Maybe it's the wrong time of day for you](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
 
 2026-04-14 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnh5OTdhQ2dJZjNrSUlpZlRKdXJRSm1JY050SEFlb2RZa05wT0hycmhCcVNLYWVNLXVCNnNKLXg5SHhSSm5qTDFHWmQzSUNsUGoyaFk0bkhDTm14VDVrTjVic29YcFNJY00zRjZSdXJGUHlkLXNYQURoQ2FYZXltQzNtTHlkb1JobWx2OW5kVzNHWVRFeEx2Rkxxa1REZ0cwTjBpM3dNMG1NdmxHbVBIUVVsUnoxanBoUjhKRDNhRWhaRUVQeEhXYlg3U2VZT0U?oc=5)
-
----
-
-### [Infarto e ictus, rischio 67% maggiore associato ad alcuni alimenti: i dati da uno studio - il Giornale](https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1R1NnhyWnEtVllkOWxZbUJ5NXgtUkpiOTZEeEdpdmNiOHdzR2pGcFphZnFYamg1TmNOd05XbmJMR3o1NTkzUnphUUJYaEJycnFlTmhwYnctSzZ1a0l2Z3RzYVo3ZFBTNExzdWZ4NVQ0bXF0TG1FV3c4ak9wc0tNWGViOHZqR2w0XzVVTUY2NlhOdFd4TmpWUUxNSEhkMHFqTDY1bWdxNWFnZEg2TGtlSnByeWd3Zm53OGNSNGln?oc=5)
-
-2026-04-14 <span class="news-indication-tag">ictus</span>
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1R1NnhyWnEtVllkOWxZbUJ5NXgtUkpiOTZEeEdpdmNiOHdzR2pGcFphZnFYamg1TmNOd05XbmJMR3o1NTkzUnphUUJYaEJycnFlTmhwYnctSzZ1a0l2Z3RzYVo3ZFBTNExzdWZ4NVQ0bXF0TG1FV3c4ak9wc0tNWGViOHZqR2w0XzVVTUY2NlhOdFd4TmpWUUxNSEhkMHFqTDY1bWdxNWFnZEg2TGtlSnByeWd3Zm53OGNSNGln?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
 
 ---
 

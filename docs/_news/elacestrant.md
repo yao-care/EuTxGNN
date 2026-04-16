@@ -14,7 +14,7 @@ permalink: /news/elacestrant/
 ---
 
 <p class="key-answer" data-question="Elacestrant 有什麼相關新聞？">
-<strong>Elacestrant</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elacestrant</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,53 @@ permalink: /news/elacestrant/
 <p><a href="{{ '/drugs/elacestrant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（24 則）
+
+### [Tumore al pancreas, il segnale che nessuno collega | Arriva mesi prima e puoi salvarti](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXhPTGFIQ3hFU1ZvRzlSTGc1anFjQUpHTl9EUVRCa05JdTBpdG83QzcxSE9rVC1Xd2JBWVViS2Vxcm9YNEFjLWVBRm1MSTJSOE82eEtqVWp4cEZqWnlpTUpCcjlwc2xNMVlxMUpyOGtkQzZpZ3U3clBaQ0dHRWozZnlvYw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">tumor</span>
+
+來源：[AssoWebTv](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXhPTGFIQ3hFU1ZvRzlSTGc1anFjQUpHTl9EUVRCa05JdTBpdG83QzcxSE9rVC1Xd2JBWVViS2Vxcm9YNEFjLWVBRm1MSTJSOE82eEtqVWp4cEZqWnlpTUpCcjlwc2xNMVlxMUpyOGtkQzZpZ3U3clBaQ0dHRWozZnlvYw?oc=5)
+
+---
+
+### [El CNIO desarrolla una firma genética para identificar el 30% de las lesiones precancerosas de mama - Gaceta Médica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3QxQmdRNFIxcjhMSnhxMVFCUERiYjk0bzVDT29OeWdpWkhTRC1UM0J2UE5GQUttbTgyeTBQSXNOdFZQbTd5RHBFRnJaazJRV2JCcnEtWkRmekxnSVZidUc5WVRKTmNSU0RWaTd0OTJ0QlpjQU14VUh5REhLRW1KR3Nzc3pqNDVXYnpoNFpUODRmZkJOT0E3VTNEZ3dDb21od0ROQ2pxNTItdw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3QxQmdRNFIxcjhMSnhxMVFCUERiYjk0bzVDT29OeWdpWkhTRC1UM0J2UE5GQUttbTgyeTBQSXNOdFZQbTd5RHBFRnJaazJRV2JCcnEtWkRmekxnSVZidUc5WVRKTmNSU0RWaTd0OTJ0QlpjQU14VUh5REhLRW1KR3Nzc3pqNDVXYnpoNFpUODRmZkJOT0E3VTNEZ3dDb21od0ROQ2pxNTItdw?oc=5)
+
+---
+
+### [Les scientifiques tirent la sonnette d’alarme : ces habitudes du quotidien pourraient expliquer la hausse des cancers chez les moins de 50 ans](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMTdBbklEMXhNTEN1ek5GSHJiamd5NXotYmdKeEtPcG9vVWlrRWVlT3J1SnRDd2dzU2QzZGJiWFdxUmlua2JfVzBfS25lb2lZSDMxdnJyajV1dkNHbmdQZ1NUTHN6SnN3RWY1cFBqZWJrdDQ1TUlsaF9wQ0JGWkdvandqUmU5YzlycG5sbkFrNUYwby1jcG0tX2N1dW5nekhiMDZjNG90aE5JLVNraFFVVzBzaXl1c09NZEstQTBuV3dOR0N6VEpLWFdOLVlaSUJxZVFHM1JJZ2ZUQW0tb2t2UlM0SDdJdERVeDZVMm5xOV9nU3hHdlE?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMTdBbklEMXhNTEN1ek5GSHJiamd5NXotYmdKeEtPcG9vVWlrRWVlT3J1SnRDd2dzU2QzZGJiWFdxUmlua2JfVzBfS25lb2lZSDMxdnJyajV1dkNHbmdQZ1NUTHN6SnN3RWY1cFBqZWJrdDQ1TUlsaF9wQ0JGWkdvandqUmU5YzlycG5sbkFrNUYwby1jcG0tX2N1dW5nekhiMDZjNG90aE5JLVNraFFVVzBzaXl1c09NZEstQTBuV3dOR0N6VEpLWFdOLVlaSUJxZVFHM1JJZ2ZUQW0tb2t2UlM0SDdJdERVeDZVMm5xOV9nU3hHdlE?oc=5)
+
+---
+
+### [Más allá del cáncer de mama: BRCA también influye en otros tumores poco estudiados - Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFdaOC0yd1hpOFVRRHRWRldvbWJCMFBuVUhtTWFtSDNDZzFpd1hvSGhURVVQWkdoVFBjai1ONEJ2OUlRRnpKVVJyeDNFOE1oMUREclVxQ210SG8xdl9hRDNGUTluSFJadnBJemw5WkNxS3dZQ3czcDYxRXR6WnVfcDBXVm1mUUNDRXpBT3daenpKQjhaREc0ZVM1ZXh1WWdCeXhsSGpB?oc=5)
+
+2026-04-16 <span class="news-indication-tag">tumor</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFdaOC0yd1hpOFVRRHRWRldvbWJCMFBuVUhtTWFtSDNDZzFpd1hvSGhURVVQWkdoVFBjai1ONEJ2OUlRRnpKVVJyeDNFOE1oMUREclVxQ210SG8xdl9hRDNGUTluSFJadnBJemw5WkNxS3dZQ3czcDYxRXR6WnVfcDBXVm1mUUNDRXpBT3daenpKQjhaREc0ZVM1ZXh1WWdCeXhsSGpB?oc=5)
+
+---
 
 ### [Un patient âgé de 63 ans, guéri du VIH et d’un cancer : un miracle en médecine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
 
 2026-04-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Linfo.re](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
+
+---
+
+### [Ad Aosta il convegno "Neoplasie Urologiche – Gestione evidence-based nella pratica clinica - AostaSera -](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVlHaFpOMXdtRl9MNUtLUE94dVN2N0M3VEYyQmlCZnFqZzlKUkNFbHZIMC1WZ21SeEVDeW5URTM4ekhfUEVEbndrVnQ2RGFmdWFCbGdwMEh3dm43TkhNRG5jS3ZBeFYtZW5GbkFVdDFNTUdONHBIbHQwMmlKMWpGdzdHdFV0Yy1Cd05ydFd3MFRrYzlKdHp5ZEpvd3dEVzN1U0xNZEUwMWVUcThQekNiS1MwNWN1cTh3TVNqaUpLOVViMURGYlRiSDZ2b2s?oc=5)
+
+2026-04-16 <span class="news-indication-tag">tumor</span>
+
+來源：[AostaSera -](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVlHaFpOMXdtRl9MNUtLUE94dVN2N0M3VEYyQmlCZnFqZzlKUkNFbHZIMC1WZ21SeEVDeW5URTM4ekhfUEVEbndrVnQ2RGFmdWFCbGdwMEh3dm43TkhNRG5jS3ZBeFYtZW5GbkFVdDFNTUdONHBIbHQwMmlKMWpGdzdHdFV0Yy1Cd05ydFd3MFRrYzlKdHp5ZEpvd3dEVzN1U0xNZEUwMWVUcThQekNiS1MwNWN1cTh3TVNqaUpLOVViMURGYlRiSDZ2b2s?oc=5)
 
 ---
 
@@ -76,11 +116,11 @@ permalink: /news/elacestrant/
 
 ---
 
-### [Prospective evaluation of genomics-guided off-label treatment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
+### [Mum with brain tumour highlights need for more research as new trials offered - Hull Live](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEdjT1VLZWZXWXo1emtoWWp6eWVvdU5XTWZJMVV6aVBaUDNDVXpwaTNBRFR5Rm9DLV96SDc1dV93Ulc2N3A5Smx5R0dCbEFSN2ZvRWxZakxUTXh2OGgyUFdLdl9PWVhhUjAzZGppd3dQSlVWb2FNYjQ2U1hkdklwNVdB0gGHAUFVX3lxTE1IRlBRemdtSTZlWG9EQWZ4U3JkRzdnRmRpT0czYVU4Qjg4MTZxbFJjZ0NZRGtCTURyVXR1T2Y3cVQ2NjA5Xzh4a09EZkNCclJBRVdIQWJDQlVTVEtwQ1NhcEhhekJGRDJDei0xNlZ6NVFMcWp0YlIyUU9FQTBVM1FBTVRJbHFhWQ?oc=5)
 
-2026-04-15 <span class="news-indication-tag">cancer</span>
+2026-04-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
+來源：[Hull Live](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEdjT1VLZWZXWXo1emtoWWp6eWVvdU5XTWZJMVV6aVBaUDNDVXpwaTNBRFR5Rm9DLV96SDc1dV93Ulc2N3A5Smx5R0dCbEFSN2ZvRWxZakxUTXh2OGgyUFdLdl9PWVhhUjAzZGppd3dQSlVWb2FNYjQ2U1hkdklwNVdB0gGHAUFVX3lxTE1IRlBRemdtSTZlWG9EQWZ4U3JkRzdnRmRpT0czYVU4Qjg4MTZxbFJjZ0NZRGtCTURyVXR1T2Y3cVQ2NjA5Xzh4a09EZkNCclJBRVdIQWJDQlVTVEtwQ1NhcEhhekJGRDJDei0xNlZ6NVFMcWp0YlIyUU9FQTBVM1FBTVRJbHFhWQ?oc=5)
 
 ---
 
@@ -89,6 +129,14 @@ permalink: /news/elacestrant/
 2026-04-15 <span class="news-indication-tag">tumour</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wbENJNGE4RFltNE14bU1VeFd0bktLUlFoaWdzTndKUS1LSTFwX3VFcVYxbkJZUDBYRURfWjEyYXJmUkFyTjZyNzAyWllxT05RSFh0V29UXzhQUk1GeTFV?oc=5)
+
+---
+
+### [Prospective evaluation of genomics-guided off-label treatment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
 
 ---
 
@@ -140,14 +188,6 @@ permalink: /news/elacestrant/
 
 ---
 
-### [Brain cancer clinical trial aims to 'bring hope'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
-
-2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
-
----
-
 ### [Ricerca sui tumori rari: prestigioso riconoscimento per medico dell'Oncologia del Santo Stefano - Notizie di Prato](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpYaThDUnQzdHlIRjRhMjFzWll5V0FKeFg0Rzc2ZmJtSy1mb1NnZXAtUXAzSmI1N1g5YjRObGZ6MDZMV1NZNzFoVGhSNWxVRTZTS2MwaGppR25teG5MeFVMZ3QtSXJ4Njdzcld2REJsTUJQRG9EY18ySTJwZVBPU2gtRXZUM1Z4VmU1NGhBLUtpM2NqNEh0RWQ2RVRhNXdSbWRaYXZSZDBFWk5ialV5MWNsR0E3OE9rUGR3NV9ETzNPOWZuZ1lGWWhmMzZaQ2c?oc=5)
 
 2026-04-15 <span class="news-indication-tag">tumor</span>
@@ -180,14 +220,6 @@ permalink: /news/elacestrant/
 
 ---
 
-### [Elle touche 1 personne sur 6 dans le monde : cette maladie silencieuse est souvent détectée trop tard](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnF3U1ZFMkwzQUlYaWpJbzE4MVpkYlYxSjR3cU4ySGw2ZUQ4VUZ6M2FYakpfUnF4THV3bmhvYktKaDQtLW1nWUFmMlBJeVo2enVYeXV4R2FSLVpfYWpOa0E2NzFad2FkV2V5Zld1V0w4Z0lpYjBidF90amx3NHhaYmdvMG50QQ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnF3U1ZFMkwzQUlYaWpJbzE4MVpkYlYxSjR3cU4ySGw2ZUQ4VUZ6M2FYakpfUnF4THV3bmhvYktKaDQtLW1nWUFmMlBJeVo2enVYeXV4R2FSLVpfYWpOa0E2NzFad2FkV2V5Zld1V0w4Z0lpYjBidF90amx3NHhaYmdvMG50QQ?oc=5)
-
----
-
 ### ['As a GP, I never thought cancer would happen to me'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PdEU0QlZ1SThJSm54RTJrLXV4SXJLOWpUOElFOGVkc3JQX19qdWlReVRBc1B3VUxHd2s3OWo1bk5LS0c2LVEybTVOVGlQeHM0X0NPbjB2Q05oZXkx?oc=5)
 
 2026-04-15 <span class="news-indication-tag">cancer</span>
@@ -201,14 +233,6 @@ permalink: /news/elacestrant/
 2026-04-15 <span class="news-indication-tag">tumor</span>
 
 來源：[RaiNews](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXNCeXdJV1VyT19jY2VGRF85QVVLUVIzcktQVENkZ0I4WjNCOU1KZkZkMkI0bHRqWHE2NUhYMWRycHRRNVhQZm1BbWUzd2E4alV2aGptQThVMXVZZnZ6Z2pOVURBM2dEeGdhWU45TGotazg2b3R5RlZZS3VDNEpDakVhU0Z5Um53MGxKaElNRE12RUN5ZWVZaXdrZmZQNEgtWkM3MXg1Zmx3RkxtaWxzZ2ZFNzd4WWlQaXJLbWFoc0t6ZnI0cGhhV3VLdkt6dGJvY21PamlORmo4b0JoUjU4WWFtUXZad9IB6wFBVV95cUxNT013VnJrWHl2YllqcGk5cmpkXzZ0U3VOT0c3ejNNWjU2ejZkcjFweFliclMzTnFHMElURDY2bnVVbkFmc01BcEZGUEx6RUx2aEZ6c0ZiRlkwRWRwRThXLUdBeDZlR3BHLTcyMXozYnU2a01qMFFyRW56Sk1OSmdjT1M2TkJDUHVOLVpYU1ZPdFV3S2pKU2Z6cEV2UFNyQ0NJZjl0NjhJNkhZYndXQ01KQWU3dFJRZjNNVHNiOGtwYmt1ekp2bzdGOHRWZnNoX1FBX29mX0tmZ1o5eUhfbzdnbzZ0NGwwRVN3bFlF?oc=5)
-
----
-
-### [Thymus: Vom unnützen Organ zum Schlüssel für Langlebigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGlNMkhZV0hPa05INHdRVXRnM0dLWmJmcFU2Zkp1UzFSYkxaXzNWa1o0QU5EZnhfS1Jtd1V6S2M4STBiNHFrS3hISE1ISExYMjI4WGhtdzU3bnAzcEhmWmZScGlfanhkVldkdDMtazRDcjkteF9PNWdBcjNqdFpaOE4yS3BJOS11RldOMDhxbDNqdmFNcjVyb3p2cTEwNTVOR3FrUXlKR2d4M01hSGYyQVdueU5lcjVlMHc0?oc=5)
-
-2026-04-14 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGlNMkhZV0hPa05INHdRVXRnM0dLWmJmcFU2Zkp1UzFSYkxaXzNWa1o0QU5EZnhfS1Jtd1V6S2M4STBiNHFrS3hISE1ISExYMjI4WGhtdzU3bnAzcEhmWmZScGlfanhkVldkdDMtazRDcjkteF9PNWdBcjNqdFpaOE4yS3BJOS11RldOMDhxbDNqdmFNcjVyb3p2cTEwNTVOR3FrUXlKR2d4M01hSGYyQVdueU5lcjVlMHc0?oc=5)
 
 ---
 

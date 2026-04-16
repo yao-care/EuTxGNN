@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bupropion</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [La prevención y la gestión basada en valor guían el abordaje de la obesidad - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFYxTWdMeENNMWNjdTc4WG54d0pnaWl1NzRJSldWT3RSMnRudURscVdUcDloc0w3em90Z0Eya3dodjNqdXNWTFhRTmxPd2hiOUJnVmtfV3lQbGtQLUxpdWVuMTU2LXpVTDF6LVoyY0thWXBDSDBvd2xaZFBWTFgwNDJiVGxpaVYtQnFNa005T2dCejJJZUZSY1AwaVUzUl9JVGhtdk85STAzRXFJTk9iRUJRcGM5bmZBb0ZYRTZhZFZvOUVnWlRwSWdn0gHKAUFVX3lxTE12cV9OcE1kVENMWVh5akZaOV90Zmg1dVdGTWV1RzlrSU5CeF9TYjZlaUtVSldXSjdfdnBHVFhISk1ld3FnWTBSLVhpS00yQW11eFBnZ3N5cU5ydmtwVDg5c1VjazRDMkRFdWhGQWRmZHZnTnRYeDBJZ29lRVltLUZMbXVTODN5TEpHUllWRTN1aUstVDJtQkdoZXAzY3VsQXNqaE9iMlFxLWk0YU9PVGRoX09TNVY5TmZrbF9DNFV3c2xrSFBQTFZBZWc?oc=5)
 
@@ -54,7 +54,7 @@ permalink: /news/bupropion/
 
 ### [Lomagna si cura: il 16 focus sull’obesità con il dottor Jacob Panzeri - Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
-2026-04-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-04-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/bupropion/
 2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
----
-
-### [Elle touche 1 personne sur 6 dans le monde : cette maladie silencieuse est souvent détectée trop tard](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnF3U1ZFMkwzQUlYaWpJbzE4MVpkYlYxSjR3cU4ySGw2ZUQ4VUZ6M2FYakpfUnF4THV3bmhvYktKaDQtLW1nWUFmMlBJeVo2enVYeXV4R2FSLVpfYWpOa0E2NzFad2FkV2V5Zld1V0w4Z0lpYjBidF90amx3NHhaYmdvMG50QQ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnF3U1ZFMkwzQUlYaWpJbzE4MVpkYlYxSjR3cU4ySGw2ZUQ4VUZ6M2FYakpfUnF4THV3bmhvYktKaDQtLW1nWUFmMlBJeVo2enVYeXV4R2FSLVpfYWpOa0E2NzFad2FkV2V5Zld1V0w4Z0lpYjBidF90amx3NHhaYmdvMG50QQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [La prevención y la gestión basada en valor guían el abordaje de la obesidad - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFYxTWdMeENNMWNjdTc4WG54d0pnaWl1NzRJSldWT3RSMnRudURscVdUcDloc0w3em90Z0Eya3dodjNqdXNWTFhRTmxPd2hiOUJnVmtfV3lQbGtQLUxpdWVuMTU2LXpVTDF6LVoyY0thWXBDSDBvd2xaZFBWTFgwNDJiVGxpaVYtQnFNa005T2dCejJJZUZSY1AwaVUzUl9JVGhtdk85STAzRXFJTk9iRUJRcGM5bmZBb0ZYRTZhZFZvOUVnWlRwSWdn0gHKAUFVX3lxTE12cV9OcE1kVENMWVh5akZaOV90Zmg1dVdGTWV1RzlrSU5CeF9TYjZlaUtVSldXSjdfdnBHVFhISk1ld3FnWTBSLVhpS00yQW11eFBnZ3N5cU5ydmtwVDg5c1VjazRDMkRFdWhGQWRmZHZnTnRYeDBJZ29lRVltLUZMbXVTODN5TEpHUllWRTN1aUstVDJtQkdoZXAzY3VsQXNqaE9iMlFxLWk0YU9PVGRoX09TNVY5TmZrbF9DNFV3c2xrSFBQTFZBZWc?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/obesity/
 2026-04-15
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
----
-
-### [Elle touche 1 personne sur 6 dans le monde : cette maladie silencieuse est souvent détectée trop tard](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnF3U1ZFMkwzQUlYaWpJbzE4MVpkYlYxSjR3cU4ySGw2ZUQ4VUZ6M2FYakpfUnF4THV3bmhvYktKaDQtLW1nWUFmMlBJeVo2enVYeXV4R2FSLVpfYWpOa0E2NzFad2FkV2V5Zld1V0w4Z0lpYjBidF90amx3NHhaYmdvMG50QQ?oc=5)
-
-2026-04-15
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnF3U1ZFMkwzQUlYaWpJbzE4MVpkYlYxSjR3cU4ySGw2ZUQ4VUZ6M2FYakpfUnF4THV3bmhvYktKaDQtLW1nWUFmMlBJeVo2enVYeXV4R2FSLVpfYWpOa0E2NzFad2FkV2V5Zld1V0w4Z0lpYjBidF90amx3NHhaYmdvMG50QQ?oc=5)
 
 ---
 
