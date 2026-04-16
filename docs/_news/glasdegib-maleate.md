@@ -14,7 +14,7 @@ permalink: /news/glasdegib-maleate/
 ---
 
 <p class="key-answer" data-question="Glasdegib Maleate 有什麼相關新聞？">
-<strong>Glasdegib Maleate</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Glasdegib Maleate</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/glasdegib-maleate/
 <p><a href="{{ '/drugs/glasdegib-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（20 則）
 
-### [Krebs: Wie Entzündungen den Darm noch Jahre später anfälliger machen können](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NVR1E5Y05hYktPVmdfRC1QUVBFNnY0bVdLYmh5cXdERDNNSjNPNENVWEtlNzNGanhJa0M4UHozV3RLUUp3cDF6bFdVMjlpOXktQm9iRGpmQklhLTdMWENMWmVhc0Q4NVNQY2FPZGJUZy1mU1ZicXlFTk9lSHc5YjZXemNoS3p1elVOb1dnY2ZQS082eW5TUDlrTTM5RmJDVXpOYkRiNmFPa25YX0RneTFpWV95MGVtcW10VzhzUGl1VEU3ZDdiNjFsalhFMXV6Z2NGVXUxdk56YldzT3JZ?oc=5)
+### [Trombosi in aumento, Anna Falanga: "Non bisogna sottovalutare i sintomi"](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG94cUJyTnI0VmlVbVJkMjM0UmNObDBjQXo0dnBBZFdELUtMSEY4ZFdYZUUybzdWZVp2RFRPNTdhc1VRdGd1cVNWTkRjZXJnZlc1cnV5c2lmNXAzRWowNVdhcU5RbjQtV2ZRbGcwdjR3T3R4WE41cHpwSWtrWWJMWGpNeEU5VVZJcEsxVFhqQ1NITG9CX21USmwtRnpvekRGT3VQcXBsUFZqWDVXMGdDTTJCM3A?oc=5)
 
-2026-04-15 <span class="news-indication-tag">Krebs</span>
+2026-04-16 <span class="news-indication-tag">cancro</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NVR1E5Y05hYktPVmdfRC1QUVBFNnY0bVdLYmh5cXdERDNNSjNPNENVWEtlNzNGanhJa0M4UHozV3RLUUp3cDF6bFdVMjlpOXktQm9iRGpmQklhLTdMWENMWmVhc0Q4NVNQY2FPZGJUZy1mU1ZicXlFTk9lSHc5YjZXemNoS3p1elVOb1dnY2ZQS082eW5TUDlrTTM5RmJDVXpOYkRiNmFPa25YX0RneTFpWV95MGVtcW10VzhzUGl1VEU3ZDdiNjFsalhFMXV6Z2NGVXUxdk56YldzT3JZ?oc=5)
+來源：[Bergamonews](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG94cUJyTnI0VmlVbVJkMjM0UmNObDBjQXo0dnBBZFdELUtMSEY4ZFdYZUUybzdWZVp2RFRPNTdhc1VRdGd1cVNWTkRjZXJnZlc1cnV5c2lmNXAzRWowNVdhcU5RbjQtV2ZRbGcwdjR3T3R4WE41cHpwSWtrWWJMWGpNeEU5VVZJcEsxVFhqQ1NITG9CX21USmwtRnpvekRGT3VQcXBsUFZqWDVXMGdDTTJCM3A?oc=5)
+
+---
+
+### [Prospective evaluation of genomics-guided off-label treatment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
 
 ---
 
@@ -81,6 +89,14 @@ permalink: /news/glasdegib-maleate/
 2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMiggJBVV95cUxOeDlLYURwZmktX3doVy0yQmZLNXBEVW1OS2hpSEtrVDdYMURGek44OFEyZC05czRGWUF5MHlCWVBaQ3BKZWhSNGE0endrTXpPSW1zaTRmeVhiY3NPZVk2N05rYWV1N280TnVfekxxOWVENFQ2b1Y4MTNaRDUzR09UZHNGckpSR2pZc3RKMS1yY3RZMVh3MktIRXdRc0c3QlhldG5RZkx5cVhsTFdOLXNqRDZINS1KcDBEcjkxbWY0MHJXdFZ2aXpEX2h0ZUtnZkRSdzlhM0dudDRqUnZ6ams3UzZ0M3BDTkxjR05DRWpvN1Q2LWVHRXZkbDhrazZfU0s2ckE?oc=5)
+
+---
+
+### [Bacterias inmunoterapéuticas potencian la inmunidad antitumoral en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">tumor</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
 
 ---
 
@@ -164,6 +180,14 @@ permalink: /news/glasdegib-maleate/
 
 ---
 
+### ["Es increíble, como ciencia ficción": los nuevos tratamientos con inmunoterapia que están eliminando el cáncer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
+
+2026-04-14 <span class="news-indication-tag">tumor</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
+
+---
+
 ### [Tabac, alcool, vigilance et sexualité : le mariage protège-t-il du cancer ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
 
 2026-04-14 <span class="news-indication-tag">cancer</span>
@@ -177,14 +201,6 @@ permalink: /news/glasdegib-maleate/
 2026-04-14 <span class="news-indication-tag">cancer</span>
 
 來源：[L'Officiel du Thermalisme](https://news.google.com/rss/articles/CBMizAFBVV95cUxObGN6dFpldTlUWFliU2JweFYzUThlazhEcVBRY0xFall0LWVUX1ZPUGlkcU9XblIxMGVVLXl0VXZGNjhFQVN4Nk1KQlRUQjh6V3hoN29tN095a0JkU1p5TmRyR1d6d2VCX1VsRGlaMGdPMlZFVjEtbWNpeTZQcVNNN2FKU3FuU2w0bDRlY3BqMlhVQ1FWVE40Q1RNS3VJMzhtbmVKRjZ0TmU0bkJObGxhWGVPbzI1WVc0WmRpNktKdWVMTE1DQ00tcmZIdUM?oc=5)
-
----
-
-### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests | Health - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
 ---
 

@@ -52,6 +52,22 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Tochter (3) stirbt fast an Diabetes: „Ich fühle mich bis heute schuldig“](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Westfalenpost](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
+
+---
+
+### [Diabete tipo 2, verso nuova classificazione: cosa cambia - Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUtsVG50TzFQUWdEaHdLOGlyRmQ4bzl0QnRrUVZfLVhVRzRIVlVnNldCYzZhaEtQOTR2OFBvdUVmdkRqMExDU1JfeEJjTVIxNjFPZ0JKd3plRFBrdEpKaFJYNVBMUVpBZkt5M2diS1lDLVQ2THJtRGtZRGJrZ0RVQUhfdUJOTHRJRlJJdlRpcw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabete</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUtsVG50TzFQUWdEaHdLOGlyRmQ4bzl0QnRrUVZfLVhVRzRIVlVnNldCYzZhaEtQOTR2OFBvdUVmdkRqMExDU1JfeEJjTVIxNjFPZ0JKd3plRFBrdEpKaFJYNVBMUVpBZkt5M2diS1lDLVQ2THJtRGtZRGJrZ0RVQUhfdUJOTHRJRlJJdlRpcw?oc=5)
+
+---
+
 ### [Diabetes-Klassifikation erhält neuen Typ 5 - AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FSd191dWpCSVBMbFczR204MGplZjI2X2RPUGlkOFVSVndoYlNwZGUzQ2JZa2xkeE4tZXRueHhoMklxdmhDMTlsWDk2MVhDNGp0dzhxd0ZnLThnSE8tblFScjhYejlLOUh2LWQwMERzdDZ2RVdJc0ZpZWpRLWVlcTVtYWI2QXlySi1SVU1LdVJTb181anhPazllUzlieW03QTVrSw?oc=5)
 
 2026-04-15 <span class="news-indication-tag">diabetes</span>
@@ -68,27 +84,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabete</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
-
----
-
 ### [Menschen mit Typ-2-Diabetes erkranken häufiger an Parkinson](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3lBc2xBS2lZWmJkSGNHcXJjeDJBUjRxNHUtOXdVdENCRGE0ZFdWTExQYU9EWFpLa1VCRGtXZ3h3WVhQeXAtb1g0TnRrdkdYUDFFcUVBWHQ3RGlva1VIN1hscWREamFQVzIzVURfODNYUk9qODhpV1JFWEo4VG55LVE5bkF6bjVKeTB0aEViUlZZbGRWMHg2bVAtRmMwREpLVExF?oc=5)
 
 2026-04-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3lBc2xBS2lZWmJkSGNHcXJjeDJBUjRxNHUtOXdVdENCRGE0ZFdWTExQYU9EWFpLa1VCRGtXZ3h3WVhQeXAtb1g0TnRrdkdYUDFFcUVBWHQ3RGlva1VIN1hscWREamFQVzIzVURfODNYUk9qODhpV1JFWEo4VG55LVE5bkF6bjVKeTB0aEViUlZZbGRWMHg2bVAtRmMwREpLVExF?oc=5)
-
----
-
-### [España, primer país europeo en financiar un tratamiento inyectable para prevenir el VIH - Diario de León](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1haYmlNLTlzWUxGWmJVMC1MSUl5aGN0MjhqWU5LZG9yY3hnenRZZlBtNEdaN3QyTEw5WDZlcUVtQjlKdjRST3ZkdXBub0d2Sy1NVUFEX04tM1hTLUphQUxIanBTUG1kcEhEWEFYa190RkFZNE1OOHh2Sms2OG5Qd0pmNnpJcTd2aEFzWElDNVlFeTZZZFNNSzRnaURKci05TVdORG9TcVhGT2ZmSnZvOFhDZmFTdkVpTTBULVdhRXh6YjJleWFkRdIBzgFBVV95cUxNNzUyNDlXSVl0eDd5OUlfcXAwX0hSU21SWklQczdzNUY5MWwyUXJHczJSRXBqWF9na05Oc1FnbnVIWUFxM2p0V09YSFJGejZ0VEppT0p2Y2JUdjRGcnFwUVpRVnMxRzBvVmhNX000Z1dpUFNZd05SZm5fSURERlVwZC1acTlVdXpqX0M4ZlJkWDJKLUJBLWtyT3l5LUpUaEloaG5TeUFUZXJLUDZRYkc3bklhLTZhY0Vad0U5YlQ2VklQVjNsUE4wUDRqdDdIZw?oc=5)
-
-2026-04-14 <span class="news-drug-tag">Cabotegravir</span>
-
-來源：[Diario de León](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1haYmlNLTlzWUxGWmJVMC1MSUl5aGN0MjhqWU5LZG9yY3hnenRZZlBtNEdaN3QyTEw5WDZlcUVtQjlKdjRST3ZkdXBub0d2Sy1NVUFEX04tM1hTLUphQUxIanBTUG1kcEhEWEFYa190RkFZNE1OOHh2Sms2OG5Qd0pmNnpJcTd2aEFzWElDNVlFeTZZZFNNSzRnaURKci05TVdORG9TcVhGT2ZmSnZvOFhDZmFTdkVpTTBULVdhRXh6YjJleWFkRdIBzgFBVV95cUxNNzUyNDlXSVl0eDd5OUlfcXAwX0hSU21SWklQczdzNUY5MWwyUXJHczJSRXBqWF9na05Oc1FnbnVIWUFxM2p0V09YSFJGejZ0VEppT0p2Y2JUdjRGcnFwUVpRVnMxRzBvVmhNX000Z1dpUFNZd05SZm5fSURERlVwZC1acTlVdXpqX0M4ZlJkWDJKLUJBLWtyT3l5LUpUaEloaG5TeUFUZXJLUDZRYkc3bklhLTZhY0Vad0U5YlQ2VklQVjNsUE4wUDRqdDdIZw?oc=5)
 
 ---
 

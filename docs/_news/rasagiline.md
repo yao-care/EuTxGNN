@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### ['Breakthrough' Alzheimer's drugs unlikely to benefit patients, report suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lRHRsc2VVRnZ6c2JXV25iNVJ4QzYyZ0F0QWVhOEVVMHhwc0MxUkpCSHI5c0Vya1RLeUkxeXJWeGJNZk9sWEZtOGlnT3lwSGlLdWtURlZfelVXMVJD?oc=5)
+
+2026-04-16 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lRHRsc2VVRnZ6c2JXV25iNVJ4QzYyZ0F0QWVhOEVVMHhwc0MxUkpCSHI5c0Vya1RLeUkxeXJWeGJNZk9sWEZtOGlnT3lwSGlLdWtURlZfelVXMVJD?oc=5)
+
+---
 
 ### [« Je peux dire que je suis un malade de Parkinson heureux » : féru de montagne et d'alpinisme, il refuse de se laisser abattre - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWRBaEQ4MFJxLWVwWjVmZEM0VXlDM0xMa3FKY0RsWW1yb1gwc2FkWjFLalZJMkE2cTgxN0dyVDdCNDFuOURPVnZlbGNfXzJxWXFad1o2SUZ5Z3ptNVBUalVNdlJ5V0o1MTFpWGZrN0pQbFNjeUtEdnk2al9wU0J2eXMxVEtxLU9JdXI2c294MnVRMkVqUWE2M3FFTmVlR251TUVIcm9kbzhJbl9EdHl2cTZ3aklORXAzdmk5WmJST3ItZDZjT2dpY0xDS2pWNVNOV1JoNHFfaWVTc09VUlRxbldVYlc1Z0FMcW5UU0RfU1g4eXBUX0E?oc=5)
 

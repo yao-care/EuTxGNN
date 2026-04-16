@@ -14,7 +14,7 @@ permalink: /news/riociguat/
 ---
 
 <p class="key-answer" data-question="Riociguat 有什麼相關新聞？">
-<strong>Riociguat</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Riociguat</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/riociguat/
 <p><a href="{{ '/drugs/riociguat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（19 則）
+
+### [Demenz-Forschung: Gehirn schützt sich selbst gegen Alzheimer - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFFZnNoQmZZZ3gxVXVmeElGLWtPLUI3ZXdicnc3RHZWMHdwTnJSNGtkQjg2RlN1dTVMeW9vUUE5VVgzeTFmM3JUalpiVXNsa3UzUjEtVnlLemdSZ2hTNU05UGNkQnloOFBBUDRrYnNtU1pPdjlOaHVCSjdoTG0ySGN2R0hta2dKeHBYUGtZN21ER0p6Z0xvcTZPa0FGNzM4Vm0wNFR3SmxWTzhiTGNlLVhQaWZPZEthZHV3?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFFZnNoQmZZZ3gxVXVmeElGLWtPLUI3ZXdicnc3RHZWMHdwTnJSNGtkQjg2RlN1dTVMeW9vUUE5VVgzeTFmM3JUalpiVXNsa3UzUjEtVnlLemdSZ2hTNU05UGNkQnloOFBBUDRrYnNtU1pPdjlOaHVCSjdoTG0ySGN2R0hta2dKeHBYUGtZN21ER0p6Z0xvcTZPa0FGNzM4Vm0wNFR3SmxWTzhiTGNlLVhQaWZPZEthZHV3?oc=5)
+
+---
+
+### [Studie: Mehr Risiken als Nutzen bei neuen Alzheimer-Mitteln - Verl App](https://news.google.com/rss/articles/CBMipgFBVV95cUxNekg4dXh5Mnk0Z21FUXB3NXFNYm5MTi1IWHdleTlyV05uT0FzWVBhZTN5VWNTMkpmRXdiNXNqZU9jZk9iYzFJc0NjVXp1ek1JWlJRQ2xpQm0xNGNSZlV0Rk5weUtsajlhMG5PQmx3UUREU3ZUVUdrZHJhdVdKTHNfUjNIaFc3MWIxaThCMnZIZ1Z5R1NwV3JpMVFqVnhOT0xhTzNHT3l3?oc=5)
+
+2026-04-16 <span class="news-indication-tag">AF</span>
+
+來源：[Verl App](https://news.google.com/rss/articles/CBMipgFBVV95cUxNekg4dXh5Mnk0Z21FUXB3NXFNYm5MTi1IWHdleTlyV05uT0FzWVBhZTN5VWNTMkpmRXdiNXNqZU9jZk9iYzFJc0NjVXp1ek1JWlJRQ2xpQm0xNGNSZlV0Rk5weUtsajlhMG5PQmx3UUREU3ZUVUdrZHJhdVdKTHNfUjNIaFc3MWIxaThCMnZIZ1Z5R1NwV3JpMVFqVnhOT0xhTzNHT3l3?oc=5)
+
+---
 
 ### [Neue Studie zeigt, wie die Ernährung das vererbte Verhalten prägt - Analytik NEWS](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ySDVDalB2UFVjcmsxWFFkTjdTR3BDalc4Nm1JNjdXaTR1NTVHYXdxekF1YU5MZ3ZnOU9DMFhNYWE4bVVIR3lEaGh1T2tHYVBzSGxKaA?oc=5)
 
@@ -57,22 +73,6 @@ permalink: /news/riociguat/
 2026-04-15 <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVhOZkw3MDlPTWZtVG5veGJkWmtQWXE3aUljYkhreVpxSUxYR09MSExNeUgyb3Y0bjE4UkRfcXRvZ1Zvazh2UmFWWXl2R3p2THpkeGEtdW9lcjNNNjY2MmU1VTFVVlhocWhpdkdTTnIyaFY4QzBTMV8weUNIN0c5Q1NwdXJ6d3k4bHZaaWZoUHNKN0FJU1o3dUVoUEZEY0lNNFBOeFg2ZW52QVVXanNTRmh5Y1BDcDJDaGc?oc=5)
-
----
-
-### [Worrying new side effect from smoking cannabis discovered in groundbreaking study](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
-
-2026-04-15 <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
-
----
-
-### [Las claves para frenar la pérdida de masa muscular: ejercicios de fuerza, alimentación y actividad física diaria - El Economista](https://news.google.com/rss/articles/CBMipwJBVV95cUxQSjlhd0tpUXgzVkpoME8zSzhSd0pTNG1aNjFxVEVZb0RhTlU1M2VtaWVudHAzNXpFLWNDNkpWb2ZUUjROU01fV1FmQXd2RndUbWtXVzRVam44LUY3Z05ZWWtjbmpBVmI0dWtzalFGTkw1c3RaLU5UUncySFgtdzduQUtRSE51SmxMQkNpV1V0VWF4RFA0UC1sRC1IUWREMFJKSnFFaWtRbjVQZWhIZjBLR2tNVk5aSENlWVNLaFNqa1AxeThTTWJ4c2NfeDhpU2lmU25WZVBMSTFDWm9TS1dOdkxGR1JJUFNkNkJad2UyYmVmdWlsUGxIcHhFLTR2c3VITFJ3dDB6bnRxVWdhU01GNV9qTEtfY2tmRHRoZ3ZKSnpCaEtmaWJj0gGSAkFVX3lxTE5QN3BJWjFCVHBQRlNOeldfRFlNSElVRko5eTJZbXduTU1PQmRPcGN4eER5ZzNJeHBEVFBsSjZiYVFaQm9pYnlwUzRoMWJpaS02Y1hCZGJlYmJwR0JONEV5RXc1azNsV2JFUEwxQm85ZjhDUUtiZGs3OEFzX2k0cTV4RnVqdk1PdlJibzVRaHBfaHlTbEI4SGxkQjVVN3JsM2NrYWwtc005SVhJcjdjd3pJcW10MW1IbjMxeHN6eGZuYmZ2b2xGLVRDTVJYazlQdkhncmZZM185MUw0amJXclZyZ2FRanY3azNFN0pKbHUtSWR3WVN6TFJXRVlLM1c2TlhHQTNMNTA0Z0hjVDV5WS10U1E?oc=5)
-
-2026-04-15 <span class="news-indication-tag">AF</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMipwJBVV95cUxQSjlhd0tpUXgzVkpoME8zSzhSd0pTNG1aNjFxVEVZb0RhTlU1M2VtaWVudHAzNXpFLWNDNkpWb2ZUUjROU01fV1FmQXd2RndUbWtXVzRVam44LUY3Z05ZWWtjbmpBVmI0dWtzalFGTkw1c3RaLU5UUncySFgtdzduQUtRSE51SmxMQkNpV1V0VWF4RFA0UC1sRC1IUWREMFJKSnFFaWtRbjVQZWhIZjBLR2tNVk5aSENlWVNLaFNqa1AxeThTTWJ4c2NfeDhpU2lmU25WZVBMSTFDWm9TS1dOdkxGR1JJUFNkNkJad2UyYmVmdWlsUGxIcHhFLTR2c3VITFJ3dDB6bnRxVWdhU01GNV9qTEtfY2tmRHRoZ3ZKSnpCaEtmaWJj0gGSAkFVX3lxTE5QN3BJWjFCVHBQRlNOeldfRFlNSElVRko5eTJZbXduTU1PQmRPcGN4eER5ZzNJeHBEVFBsSjZiYVFaQm9pYnlwUzRoMWJpaS02Y1hCZGJlYmJwR0JONEV5RXc1azNsV2JFUEwxQm85ZjhDUUtiZGs3OEFzX2k0cTV4RnVqdk1PdlJibzVRaHBfaHlTbEI4SGxkQjVVN3JsM2NrYWwtc005SVhJcjdjd3pJcW10MW1IbjMxeHN6eGZuYmZ2b2xGLVRDTVJYazlQdkhncmZZM185MUw0amJXclZyZ2FRanY3azNFN0pKbHUtSWR3WVN6TFJXRVlLM1c2TlhHQTNMNTA0Z0hjVDV5WS10U1E?oc=5)
 
 ---
 
@@ -97,14 +97,6 @@ permalink: /news/riociguat/
 2026-04-15 <span class="news-indication-tag">AF</span>
 
 來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTR5eko5NzFIalcyU0xwRXNaOWFNWUlCczNHbGw2STI4Z1JxVW5Kcl9vLTJIeGRjU3VKNVFqUWRVVmdkZkNLZUMxa21EajdZTFY1amUwcldFTjBZWTRKTF83bGViSDJtTjVJRVVSUmNKdUFud3M1NTNvQWxUdUd3M1ZQSFVtb0F5elRKTA?oc=5)
-
----
-
-### [Burundi, malattia misteriosa provoca cinque morti](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
-
-2026-04-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
 
 ---
 
@@ -148,11 +140,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Mediziner sind ratlos: Mysteriöses Virus in Afrika ausgebrochen - WHO alarmiert nach 5 Todesfällen](https://news.google.com/rss/articles/CBMigwJBVV95cUxOOU9zX1ZfVTE0YzJBMnNRVU1SX21pdnlOTkQyNEJEbnBSNkUwczdpRS1ZY09mcFdnRTBJMVRQOVM3ZGh3N1ItTWJSeXFYWkUwMlBJV3Q3aHlEeHFrelhpN3ozQW16YWNzWXQ3a0d3LWVQTGpmVW03djNPX3BYdXJDcjFDbmVKWGpXNERpUWpiRDVoUUpoREh3eF85ZEoxZ3hVeDA2RFNIQmI4VU1oYVY0MnJaLVdtTTdNeTB3MHRVcnViQmdvY3RNdTNOWEh2SWJ3ZENOOFZDVngyMDE2Q1FpY0tyRUx3MUhRQklFZGpqbldqcXZWak1yUk9iZ0ZYcU8tajZF0gGIAkFVX3lxTE1tTGZEYmcybUN4SmdoYnRLU0ljY0MzcnFlNWRNUU13VHQxbE9IdVRBanFEY2VLYzVKRlY2QklMNHFCVURpUVE4TGNCRUxock9zTjh3VXJPcHBJNWhTLXhCWWNDUkpRYzIyZWktX2RFVWliRnlMQTJRWU9NNFZfanJmcVNETEduQlZGRGwwU2Zhd3Q0UzJvUGJ1LVZkeGFQdzRTUDRZY0lSblN1a1lxQmp1X1Ntcko5UWFsUXVqNWEyTWFNNkhCSzU3Mkx1N1diTnYzMV9fN1NqSzRqbVIxM2tkaWQwT05vX21oZjE0OGMyUmxBaUpCWlFGazIzSWhMYXdHZGNpNTZsMg?oc=5)
+### [Mediziner sind ratlos: Mysteriöses Virus in Afrika ausgebrochen - WHO alarmiert nach 5 Todesfällen](https://news.google.com/rss/articles/CBMigwJBVV95cUxOOU9zX1ZfVTE0YzJBMnNRVU1SX21pdnlOTkQyNEJEbnBSNkUwczdpRS1ZY09mcFdnRTBJMVRQOVM3ZGh3N1ItTWJSeXFYWkUwMlBJV3Q3aHlEeHFrelhpN3ozQW16YWNzWXQ3a0d3LWVQTGpmVW03djNPX3BYdXJDcjFDbmVKWGpXNERpUWpiRDVoUUpoREh3eF85ZEoxZ3hVeDA2RFNIQmI4VU1oYVY0MnJaLVdtTTdNeTB3MHRVcnViQmdvY3RNdTNOWEh2SWJ3ZENOOFZDVngyMDE2Q1FpY0tyRUx3MUhRQklFZGpqbldqcXZWak1yUk9iZ0ZYcU8tajZF?oc=5)
 
 2026-04-15 <span class="news-indication-tag">AF</span>
 
-來源：[News.de](https://news.google.com/rss/articles/CBMigwJBVV95cUxOOU9zX1ZfVTE0YzJBMnNRVU1SX21pdnlOTkQyNEJEbnBSNkUwczdpRS1ZY09mcFdnRTBJMVRQOVM3ZGh3N1ItTWJSeXFYWkUwMlBJV3Q3aHlEeHFrelhpN3ozQW16YWNzWXQ3a0d3LWVQTGpmVW03djNPX3BYdXJDcjFDbmVKWGpXNERpUWpiRDVoUUpoREh3eF85ZEoxZ3hVeDA2RFNIQmI4VU1oYVY0MnJaLVdtTTdNeTB3MHRVcnViQmdvY3RNdTNOWEh2SWJ3ZENOOFZDVngyMDE2Q1FpY0tyRUx3MUhRQklFZGpqbldqcXZWak1yUk9iZ0ZYcU8tajZF0gGIAkFVX3lxTE1tTGZEYmcybUN4SmdoYnRLU0ljY0MzcnFlNWRNUU13VHQxbE9IdVRBanFEY2VLYzVKRlY2QklMNHFCVURpUVE4TGNCRUxock9zTjh3VXJPcHBJNWhTLXhCWWNDUkpRYzIyZWktX2RFVWliRnlMQTJRWU9NNFZfanJmcVNETEduQlZGRGwwU2Zhd3Q0UzJvUGJ1LVZkeGFQdzRTUDRZY0lSblN1a1lxQmp1X1Ntcko5UWFsUXVqNWEyTWFNNkhCSzU3Mkx1N1diTnYzMV9fN1NqSzRqbVIxM2tkaWQwT05vX21oZjE0OGMyUmxBaUpCWlFGazIzSWhMYXdHZGNpNTZsMg?oc=5)
+來源：[News.de](https://news.google.com/rss/articles/CBMigwJBVV95cUxOOU9zX1ZfVTE0YzJBMnNRVU1SX21pdnlOTkQyNEJEbnBSNkUwczdpRS1ZY09mcFdnRTBJMVRQOVM3ZGh3N1ItTWJSeXFYWkUwMlBJV3Q3aHlEeHFrelhpN3ozQW16YWNzWXQ3a0d3LWVQTGpmVW03djNPX3BYdXJDcjFDbmVKWGpXNERpUWpiRDVoUUpoREh3eF85ZEoxZ3hVeDA2RFNIQmI4VU1oYVY0MnJaLVdtTTdNeTB3MHRVcnViQmdvY3RNdTNOWEh2SWJ3ZENOOFZDVngyMDE2Q1FpY0tyRUx3MUhRQklFZGpqbldqcXZWak1yUk9iZ0ZYcU8tajZF?oc=5)
 
 ---
 
@@ -161,14 +153,6 @@ permalink: /news/riociguat/
 2026-04-15 <span class="news-indication-tag">AF</span>
 
 來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVC04eGNfVmpvTENSYmdjLVV6TU85ZHhxdm9ydTdWX1FNNE55Rzl3dUpfZ0ZDTEhtZWtKbG9fS2hqN3I1QnFldFNwb0FnamlDQ055Y3FOaVhvdGZZSllpUjNndlQtSEs5NkxxX0RGMkxvR0h0OHZBamNIMkxOU3JDOS04LTFEazNsSGg5RGlYRmtUSG1GTWtFX2szSktnWG1xV0p1X04yMlhjZWJta3VJal9aV1VOQ0RGclBoVkdlYXRRRF9TcHV5cFhZRmlUWEcwTjg1UGpYaFgwVGFWd1ZxNEo4U3ZXSVlmN2c?oc=5)
-
----
-
-### [Apenas estamos entendiendo el papel de la soledad en el deterioro mental de los adultos mayores](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3hYY2VvT3ktMzVtMXgwNm9XMUxESXN5NGJZaEdCYTY0LXlrLTNUTXRpN2NYcmxCTGh5LVVNYUpWNTJYcmk5OU9aMXl1Y2ZKQjVOSDQ3aEhrR3AzQW80M3JlS1VPbl9yendBRFVLOXpyT1dwcWVDVXpEMDN2UWV5MDk3X25mMjF4Z05YOTZTaHgzckk3dnVZVEl4OGxCOC1XZVFmR3RMWmsyNEZLYTFMX2JPbXZDdFI2V0tXQXpyYzItekYz?oc=5)
-
-2026-04-14 <span class="news-indication-tag">AF</span>
-
-來源：[WIRED](https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3hYY2VvT3ktMzVtMXgwNm9XMUxESXN5NGJZaEdCYTY0LXlrLTNUTXRpN2NYcmxCTGh5LVVNYUpWNTJYcmk5OU9aMXl1Y2ZKQjVOSDQ3aEhrR3AzQW80M3JlS1VPbl9yendBRFVLOXpyT1dwcWVDVXpEMDN2UWV5MDk3X25mMjF4Z05YOTZTaHgzckk3dnVZVEl4OGxCOC1XZVFmR3RMWmsyNEZLYTFMX2JPbXZDdFI2V0tXQXpyYzItekYz?oc=5)
 
 ---
 
@@ -188,11 +172,11 @@ permalink: /news/riociguat/
 
 ---
 
-### [Aurelio Rojas, cardiólogo: “Si no quieres que te afecte la ‘paradoja del Sol’ debes comer dos veces por semana - Diario AS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVnpndFZxNVNTSXhTbEZTUGdEek1Ea3NNc1JCcWRlVEh6dU5NaTdiNW5aLUJDOWhzM3lpQU9oSnRVbmVOb204Z1hiQ2ZLei1oeHF4NldaQi1MeEhyV2xoZU0xTS0xSmN5RFY2UVV1N3VZUk1lYmZ1VmhKMkRCUVFEQTVnQUNFRzVvcUpCZG9tQjJGZzloZm9QTDJVVkhGcFQ5SlJ6THd2c2RwRWFObVZTMGo1dWJYU3VGWGQ2dE13TXB2dS1HYzczTUloRnp1YVRiMXNxZDRvUUY4dFhGYzVXSXdGNkl6YURGVUFVWFJ2NTk2UdIBhgJBVV95cUxQYm1FVk1nRDFTVEljNncyZjhlY2xTV3pwSXpMeWFnVzk0QURMRmd1bHQzdmVvbGJ6ME9UcGdwRkxYTzRCMDlRazZzS3cyTmRYcGdoT2s5Z0VJRDJPVFc3ZWVkNGN0SWFmYmZZeUE4MTFSbmVxWHlqNUJheFZwekZydThIWVNEUkZnN0RZd2ZuWUJocmc0RTgwN0VzX2h6azg3ZnRSZWpJZzJrS0k4SzJVZnRDWEV1UDhyZm9DQll2OUtPZF9QYzMyYm1uNVRlMDdtTElRb1ZJTHMweF90ODFjeUk1NV8xX0ZKVEpnN2ZreXBLU2dDUWJKZGxTN2hVQzBFZ0wwdi1n?oc=5)
+### [Worrying new side effect from smoking cannabis discovered in groundbreaking study](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
 
 2026-04-14 <span class="news-indication-tag">AF</span>
 
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVnpndFZxNVNTSXhTbEZTUGdEek1Ea3NNc1JCcWRlVEh6dU5NaTdiNW5aLUJDOWhzM3lpQU9oSnRVbmVOb204Z1hiQ2ZLei1oeHF4NldaQi1MeEhyV2xoZU0xTS0xSmN5RFY2UVV1N3VZUk1lYmZ1VmhKMkRCUVFEQTVnQUNFRzVvcUpCZG9tQjJGZzloZm9QTDJVVkhGcFQ5SlJ6THd2c2RwRWFObVZTMGo1dWJYU3VGWGQ2dE13TXB2dS1HYzczTUloRnp1YVRiMXNxZDRvUUY4dFhGYzVXSXdGNkl6YURGVUFVWFJ2NTk2UdIBhgJBVV95cUxQYm1FVk1nRDFTVEljNncyZjhlY2xTV3pwSXpMeWFnVzk0QURMRmd1bHQzdmVvbGJ6ME9UcGdwRkxYTzRCMDlRazZzS3cyTmRYcGdoT2s5Z0VJRDJPVFc3ZWVkNGN0SWFmYmZZeUE4MTFSbmVxWHlqNUJheFZwekZydThIWVNEUkZnN0RZd2ZuWUJocmc0RTgwN0VzX2h6azg3ZnRSZWpJZzJrS0k4SzJVZnRDWEV1UDhyZm9DQll2OUtPZF9QYzMyYm1uNVRlMDdtTElRb1ZJTHMweF90ODFjeUk1NV8xX0ZKVEpnN2ZreXBLU2dDUWJKZGxTN2hVQzBFZ0wwdi1n?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
 
 ---
 
@@ -209,38 +193,6 @@ permalink: /news/riociguat/
 2026-04-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDhqVzQzaDl2ZzRiRmQ0R1dwUFcxQTBLYS01WXg3dWNzVGNsaWpNUXFmaG84ZTFJRnMyaTlHaFBGTUVMQ2dRSjJZVFhKT2ZrWlRBUDFlVTMzWkpacElwTjlZMWwwVG5sYUJibDh6X2JfQl9SRlBqaU0wOHJFbU91X28tMVgtWEZVNTRSWVl3?oc=5)
-
----
-
-### ['My daughter ended up in a coma after tummy bug symptoms'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ONHRzZUQ5ckdHdTF1NXcxX2lxQm0wdFZkZkdCVnJPSmpOMDFncGN3QVd2SWJIN1lORTlEc1FDNUVzbm5FM1g5ajJCMllwc3FuUjcyd0RLcVRCUUFs?oc=5)
-
-2026-04-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ONHRzZUQ5ckdHdTF1NXcxX2lxQm0wdFZkZkdCVnJPSmpOMDFncGN3QVd2SWJIN1lORTlEc1FDNUVzbm5FM1g5ajJCMllwc3FuUjcyd0RLcVRCUUFs?oc=5)
-
----
-
-### [Ora che si è capito il problema degli smartphone, ripartiamo dai genitori](https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWZ4cThGVkloYlFyWHpCdHBUSGlrcm51X0F2bkJvYjVqQUJkS3JkNzU5WGw0VThZcDZEWjYydUZDNnY1N0wySnhBYUVWRVN3dVkyYzlNbE9HR2x4VVRQXzFTb1lELWtTbTVYSlJWYTJqb2tqNjhFckdEQWhIWjFiME5iaDluUTZGX3FtTzQ1bExlNjh1MWRubVMydnB0dHJDeEFPZElDQS1oRGhSd1VWbDRkUQ?oc=5)
-
-2026-04-14 <span class="news-indication-tag">AF</span>
-
-來源：[Avvenire](https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWZ4cThGVkloYlFyWHpCdHBUSGlrcm51X0F2bkJvYjVqQUJkS3JkNzU5WGw0VThZcDZEWjYydUZDNnY1N0wySnhBYUVWRVN3dVkyYzlNbE9HR2x4VVRQXzFTb1lELWtTbTVYSlJWYTJqb2tqNjhFckdEQWhIWjFiME5iaDluUTZGX3FtTzQ1bExlNjh1MWRubVMydnB0dHJDeEFPZElDQS1oRGhSd1VWbDRkUQ?oc=5)
-
----
-
-### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
-
-2026-04-14 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
-
----
-
-### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests | Health - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
 ---
 

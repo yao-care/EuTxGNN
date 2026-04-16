@@ -14,7 +14,7 @@ permalink: /news/damoctocog-alfa-pegol/
 ---
 
 <p class="key-answer" data-question="Damoctocog Alfa Pegol 有什麼相關新聞？">
-<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/damoctocog-alfa-pegol/
 <p><a href="{{ '/drugs/damoctocog-alfa-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（26 則）
 
-### [Krebs: Wie Entzündungen den Darm noch Jahre später anfälliger machen können](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NVR1E5Y05hYktPVmdfRC1QUVBFNnY0bVdLYmh5cXdERDNNSjNPNENVWEtlNzNGanhJa0M4UHozV3RLUUp3cDF6bFdVMjlpOXktQm9iRGpmQklhLTdMWENMWmVhc0Q4NVNQY2FPZGJUZy1mU1ZicXlFTk9lSHc5YjZXemNoS3p1elVOb1dnY2ZQS082eW5TUDlrTTM5RmJDVXpOYkRiNmFPa25YX0RneTFpWV95MGVtcW10VzhzUGl1VEU3ZDdiNjFsalhFMXV6Z2NGVXUxdk56YldzT3JZ?oc=5)
+### [Trombosi in aumento, Anna Falanga: "Non bisogna sottovalutare i sintomi"](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG94cUJyTnI0VmlVbVJkMjM0UmNObDBjQXo0dnBBZFdELUtMSEY4ZFdYZUUybzdWZVp2RFRPNTdhc1VRdGd1cVNWTkRjZXJnZlc1cnV5c2lmNXAzRWowNVdhcU5RbjQtV2ZRbGcwdjR3T3R4WE41cHpwSWtrWWJMWGpNeEU5VVZJcEsxVFhqQ1NITG9CX21USmwtRnpvekRGT3VQcXBsUFZqWDVXMGdDTTJCM3A?oc=5)
 
-2026-04-15 <span class="news-indication-tag">Krebs</span>
+2026-04-16 <span class="news-indication-tag">cancro</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NVR1E5Y05hYktPVmdfRC1QUVBFNnY0bVdLYmh5cXdERDNNSjNPNENVWEtlNzNGanhJa0M4UHozV3RLUUp3cDF6bFdVMjlpOXktQm9iRGpmQklhLTdMWENMWmVhc0Q4NVNQY2FPZGJUZy1mU1ZicXlFTk9lSHc5YjZXemNoS3p1elVOb1dnY2ZQS082eW5TUDlrTTM5RmJDVXpOYkRiNmFPa25YX0RneTFpWV95MGVtcW10VzhzUGl1VEU3ZDdiNjFsalhFMXV6Z2NGVXUxdk56YldzT3JZ?oc=5)
+來源：[Bergamonews](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG94cUJyTnI0VmlVbVJkMjM0UmNObDBjQXo0dnBBZFdELUtMSEY4ZFdYZUUybzdWZVp2RFRPNTdhc1VRdGd1cVNWTkRjZXJnZlc1cnV5c2lmNXAzRWowNVdhcU5RbjQtV2ZRbGcwdjR3T3R4WE41cHpwSWtrWWJMWGpNeEU5VVZJcEsxVFhqQ1NITG9CX21USmwtRnpvekRGT3VQcXBsUFZqWDVXMGdDTTJCM3A?oc=5)
+
+---
+
+### [Prospective evaluation of genomics-guided off-label treatment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cancer</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
 
 ---
 
@@ -89,6 +97,14 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-04-15 <span class="news-indication-tag">asma</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
+
+---
+
+### [Bacterias inmunoterapéuticas potencian la inmunidad antitumoral en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">tumor</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
 
 ---
 
@@ -140,6 +156,22 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
+### [Tochter (3) stirbt fast an Diabetes: „Ich fühle mich bis heute schuldig“](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Westfalenpost](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVpUVWY3NThxa212U3lfQ0lrZFc4bXB3Q1BleFB5VktGV3RIZVZwbGVxLXZjajhZSXhwSmpBZHZCYnZ5dFZ0ZC1OeTBDcmRHOVk4S1IzNkp0OElSMzUxWmhkZEUzMUFnemdycU53WUQ2alRaQ0Z6SzI1dTR1ZE1UODhkRXg5TjZzc0dOdmpGYVQycjNqb0lYUE5tR2gyWDNvTzg2MjdQcHlwNzZ4ZWExeTV1ME4wMUtGV2ZjcjM4eDd5Qm8tZVBabVAwNGw?oc=5)
+
+---
+
+### [Diabete tipo 2, verso nuova classificazione: cosa cambia - Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUtsVG50TzFQUWdEaHdLOGlyRmQ4bzl0QnRrUVZfLVhVRzRIVlVnNldCYzZhaEtQOTR2OFBvdUVmdkRqMExDU1JfeEJjTVIxNjFPZ0JKd3plRFBrdEpKaFJYNVBMUVpBZkt5M2diS1lDLVQ2THJtRGtZRGJrZ0RVQUhfdUJOTHRJRlJJdlRpcw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabete</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUtsVG50TzFQUWdEaHdLOGlyRmQ4bzl0QnRrUVZfLVhVRzRIVlVnNldCYzZhaEtQOTR2OFBvdUVmdkRqMExDU1JfeEJjTVIxNjFPZ0JKd3plRFBrdEpKaFJYNVBMUVpBZkt5M2diS1lDLVQ2THJtRGtZRGJrZ0RVQUhfdUJOTHRJRlJJdlRpcw?oc=5)
+
+---
+
 ### [Diabetes-Klassifikation erhält neuen Typ 5 - AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FSd191dWpCSVBMbFczR204MGplZjI2X2RPUGlkOFVSVndoYlNwZGUzQ2JZa2xkeE4tZXRueHhoMklxdmhDMTlsWDk2MVhDNGp0dzhxd0ZnLThnSE8tblFScjhYejlLOUh2LWQwMERzdDZ2RVdJc0ZpZWpRLWVlcTVtYWI2QXlySi1SVU1LdVJTb181anhPazllUzlieW03QTVrSw?oc=5)
 
 2026-04-15 <span class="news-indication-tag">diabetes</span>
@@ -161,14 +193,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-04-15 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PdEU0QlZ1SThJSm54RTJrLXV4SXJLOWpUOElFOGVkc3JQX19qdWlReVRBc1B3VUxHd2s3OWo1bk5LS0c2LVEybTVOVGlQeHM0X0NPbjB2Q05oZXkx?oc=5)
-
----
-
-### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabete</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
 
 ---
 
@@ -204,6 +228,14 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
+### ["Es increíble, como ciencia ficción": los nuevos tratamientos con inmunoterapia que están eliminando el cáncer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
+
+2026-04-14 <span class="news-indication-tag">tumor</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
+
+---
+
 ### [Tabac, alcool, vigilance et sexualité : le mariage protège-t-il du cancer ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
 
 2026-04-14 <span class="news-indication-tag">cancer</span>
@@ -217,14 +249,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-04-14 <span class="news-indication-tag">cancer</span>
 
 來源：[L'Officiel du Thermalisme](https://news.google.com/rss/articles/CBMizAFBVV95cUxObGN6dFpldTlUWFliU2JweFYzUThlazhEcVBRY0xFall0LWVUX1ZPUGlkcU9XblIxMGVVLXl0VXZGNjhFQVN4Nk1KQlRUQjh6V3hoN29tN095a0JkU1p5TmRyR1d6d2VCX1VsRGlaMGdPMlZFVjEtbWNpeTZQcVNNN2FKU3FuU2w0bDRlY3BqMlhVQ1FWVE40Q1RNS3VJMzhtbmVKRjZ0TmU0bkJObGxhWGVPbzI1WVc0WmRpNktKdWVMTE1DQ00tcmZIdUM?oc=5)
-
----
-
-### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests | Health - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
 ---
 

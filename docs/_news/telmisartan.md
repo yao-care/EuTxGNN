@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Dix jours « en apnée » : une famille face à l’AVC de Camille, 7 ans - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
+### [Voici "le meilleur aliment au monde" pour déboucher les artères et éviter l'AVC selon ce médecin - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX2V6YUJBUnlncTA3TjdDNEc1XzFVNWtqWnU3cHBwMEZGWnd4aWZZelNaNmQzdkNHSHEzeDd0ck82WERiM1BmS1ZSRGRyeTBMWTR5a1VHRDF4UVZidjRmUENzMXdtZ0hkQXl5MGo5S193Q2dRYVhRUXRTQ3B0eUVZNnJsNWhjbTRCMmNWbU5xNHJpUGNUVHJtbkpuSWhxY2htU08tcnJtekYxVE5hWWx6ckhMTWg3anB0VENSN2hfR19LSmhQVXZCOTZERGJIZDI0UGVMX3FQQTFEUQ?oc=5)
 
-2026-04-15 <span class="news-indication-tag">AVC</span>
+2026-04-16 <span class="news-indication-tag">AVC</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX2V6YUJBUnlncTA3TjdDNEc1XzFVNWtqWnU3cHBwMEZGWnd4aWZZelNaNmQzdkNHSHEzeDd0ck82WERiM1BmS1ZSRGRyeTBMWTR5a1VHRDF4UVZidjRmUENzMXdtZ0hkQXl5MGo5S193Q2dRYVhRUXRTQ3B0eUVZNnJsNWhjbTRCMmNWbU5xNHJpUGNUVHJtbkpuSWhxY2htU08tcnJtekYxVE5hWWx6ckhMTWg3anB0VENSN2hfR19LSmhQVXZCOTZERGJIZDI0UGVMX3FQQTFEUQ?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/telmisartan/
 2026-04-14 <span class="news-indication-tag">heart failure</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNendFMDUwbDlFc05xcjJGcTE4a0IxV1ZlOTE2c0pHTlNZWUVHdmxYckZYQWQ0eG0teGI2aGx1UnM0TS0tZG8wNV9BOU9MMWFRSHA4dWV1OEdfZTdfcmFER3ROY3F2UkxYdG9ZS1A1SmRmVXhiQk55ZXRkUkRwMkNlMk9ubjNiZ1Fzb2dCclMwU1NLc2NTTUdsbk54ZU8tOUxTanlyaWlKNERLVTUyY2JhdWZDMFloUDVZUm1pc1lzZ0x4MkxHandBTDFOaWk4emxBTVpyN193elNZZnowTF9VTHhNZ2lidw?oc=5)
-
----
-
-### [Gesunder Lebensstil wichtig bei Bluthochdruck - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
-
-2026-04-14 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMingFBVV95cUxQR1pIaUNiTXVORmdwZGI5SGhZNkc0em0tNGF2ZGNJV3V5cUd4VnJUTEx0XzNHRGlDQ193dlNCQU04b250WjhSX0hIQVhqX1V1aFNoV2VMNGlMWE1ZVXpUaUNCQXE0YUg1X2NIMFQ4cmhMSm9UdEJuaENlMzRKX29zNnRxM2Jzb1VqcnVsOGFSN0FpN2RIS1lLRjFMTC13Zw?oc=5)
 
 ---
 

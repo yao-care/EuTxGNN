@@ -44,11 +44,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [Dix jours « en apnée » : une famille face à l’AVC de Camille, 7 ans - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
+### [Voici "le meilleur aliment au monde" pour déboucher les artères et éviter l'AVC selon ce médecin - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX2V6YUJBUnlncTA3TjdDNEc1XzFVNWtqWnU3cHBwMEZGWnd4aWZZelNaNmQzdkNHSHEzeDd0ck82WERiM1BmS1ZSRGRyeTBMWTR5a1VHRDF4UVZidjRmUENzMXdtZ0hkQXl5MGo5S193Q2dRYVhRUXRTQ3B0eUVZNnJsNWhjbTRCMmNWbU5xNHJpUGNUVHJtbkpuSWhxY2htU08tcnJtekYxVE5hWWx6ckhMTWg3anB0VENSN2hfR19LSmhQVXZCOTZERGJIZDI0UGVMX3FQQTFEUQ?oc=5)
 
-2026-04-15 <span class="news-indication-tag">AVC</span>
+2026-04-16 <span class="news-indication-tag">AVC</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX2V6YUJBUnlncTA3TjdDNEc1XzFVNWtqWnU3cHBwMEZGWnd4aWZZelNaNmQzdkNHSHEzeDd0ck82WERiM1BmS1ZSRGRyeTBMWTR5a1VHRDF4UVZidjRmUENzMXdtZ0hkQXl5MGo5S193Q2dRYVhRUXRTQ3B0eUVZNnJsNWhjbTRCMmNWbU5xNHJpUGNUVHJtbkpuSWhxY2htU08tcnJtekYxVE5hWWx6ckhMTWg3anB0VENSN2hfR19LSmhQVXZCOTZERGJIZDI0UGVMX3FQQTFEUQ?oc=5)
 
 ---
 

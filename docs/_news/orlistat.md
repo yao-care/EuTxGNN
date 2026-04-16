@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [OECD-Studie: Fettleibigkeit macht Gesundheitsfortschritte zunichte – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
+### [Voici "le meilleur aliment au monde" pour déboucher les artères et éviter l'AVC selon ce médecin - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX2V6YUJBUnlncTA3TjdDNEc1XzFVNWtqWnU3cHBwMEZGWnd4aWZZelNaNmQzdkNHSHEzeDd0ck82WERiM1BmS1ZSRGRyeTBMWTR5a1VHRDF4UVZidjRmUENzMXdtZ0hkQXl5MGo5S193Q2dRYVhRUXRTQ3B0eUVZNnJsNWhjbTRCMmNWbU5xNHJpUGNUVHJtbkpuSWhxY2htU08tcnJtekYxVE5hWWx6ckhMTWg3anB0VENSN2hfR19LSmhQVXZCOTZERGJIZDI0UGVMX3FQQTFEUQ?oc=5)
 
-2026-04-15 <span class="news-indication-tag">Fettleibigkeit</span>
+2026-04-16 <span class="news-indication-tag">AVC</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX2V6YUJBUnlncTA3TjdDNEc1XzFVNWtqWnU3cHBwMEZGWnd4aWZZelNaNmQzdkNHSHEzeDd0ck82WERiM1BmS1ZSRGRyeTBMWTR5a1VHRDF4UVZidjRmUENzMXdtZ0hkQXl5MGo5S193Q2dRYVhRUXRTQ3B0eUVZNnJsNWhjbTRCMmNWbU5xNHJpUGNUVHJtbkpuSWhxY2htU08tcnJtekYxVE5hWWx6ckhMTWg3anB0VENSN2hfR19LSmhQVXZCOTZERGJIZDI0UGVMX3FQQTFEUQ?oc=5)
 
 ---
 
-### [Estudio coliderado entre el CiMUS de Galicia y Universidad de Toronto reporta beneficios para el hígado de fármacos basados en GLP-1 - La Web de la Salud](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXFGRDFoM0pKT0ctbmRXbHpHSmhtSWxrUDNsamExakhLNE45SzE5WldFNHgxakhZOGQ0N0Fwc2VEZG12TElzVXZGeklHakZnaG1pNDljazdGX2pyd0tkVFlhTG5YYjR0MDhnTTA1cHJXRTZ1eGM1UHdiOHVfc1AtQmMzaWZybm9QemFBUl9acXlDRWtzTXlRMWdMR1hjeVdza2xGd2VVOEJibklxR0FnZm1kQzJqNzVDWldwb1dMTjkzbnYtU3JZM2pqenZWZGdUemdfenNQMFVvVE5rT2FtbkhGelBKNFNSeWF0c2JDZmZIQQ?oc=5)
+### [OECD-Studie: Fettleibigkeit macht Gesundheitsfortschritte zunichte](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlNDSWhfc21PQlgwQnE3aER1cXpVM1VITG03RnUyb2VGTnNzaEdHUkc0NW1MYUJnOGNFRXRibmdkZkprQUl3ZXFpQmt1WVBnNHhaWGxnVVI1QWdWNm9qUERjQTlEOHNrS0JFLWJaQmF0OUZfeFFoanN5NUxlUGtoVnUtYWtfbXFQWG5ZUmt0S1JYTjZkSTFZM2t6d294bWhPZktKYW83aDNFUQ?oc=5)
 
-2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-04-15 <span class="news-indication-tag">Fettleibigkeit</span>
 
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXFGRDFoM0pKT0ctbmRXbHpHSmhtSWxrUDNsamExakhLNE45SzE5WldFNHgxakhZOGQ0N0Fwc2VEZG12TElzVXZGeklHakZnaG1pNDljazdGX2pyd0tkVFlhTG5YYjR0MDhnTTA1cHJXRTZ1eGM1UHdiOHVfc1AtQmMzaWZybm9QemFBUl9acXlDRWtzTXlRMWdMR1hjeVdza2xGd2VVOEJibklxR0FnZm1kQzJqNzVDWldwb1dMTjkzbnYtU3JZM2pqenZWZGdUemdfenNQMFVvVE5rT2FtbkhGelBKNFNSeWF0c2JDZmZIQQ?oc=5)
+來源：[STERN.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlNDSWhfc21PQlgwQnE3aER1cXpVM1VITG03RnUyb2VGTnNzaEdHUkc0NW1MYUJnOGNFRXRibmdkZkprQUl3ZXFpQmt1WVBnNHhaWGxnVVI1QWdWNm9qUERjQTlEOHNrS0JFLWJaQmF0OUZfeFFoanN5NUxlUGtoVnUtYWtfbXFQWG5ZUmt0S1JYTjZkSTFZM2t6d294bWhPZktKYW83aDNFUQ?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/orlistat/
 2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
----
-
-### [Dix jours « en apnée » : une famille face à l’AVC de Camille, 7 ans - Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
-
-2026-04-15 <span class="news-indication-tag">AVC</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dTNXd1VFRackR3bTkzcjA3eEV2YXNOZ3Y2SUlMaHpZMjlTNnZiS21aQnR0c0xCY212WW1jX3h1bVE5dmg3ZHRJU1N2U0lSSkc2NkFGOTJkWms4LXpDNWZfa3JJZldpTUlOUE1xd0V6OEZ0V2MtZG9GSDVnTG5fT3djTlZmZVpYZG5id3RxZzdoVTlhZWNvcmVNWV8zU3pPNTR5VmhHdw?oc=5)
 
 ---
 
@@ -108,11 +100,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Adipositas wirkt sich bei Männern und Frauen unterschiedlich auf die Gesundheit aus](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
+### [Adipositas wirkt sich bei Männern und Frauen unterschiedlich auf die Gesundheit aus - Biermann Medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
 
 2026-04-14 <span class="news-indication-tag">Adipositas</span>
 
-來源：[biermann-medizin.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
 
 ---
 

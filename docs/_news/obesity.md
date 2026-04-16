@@ -3,7 +3,7 @@ layout: default
 title: "Fettleibigkeit（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fettleibigkeit（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "Fettleibigkeit（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Fettleibigkeit（obesity） 有什麼相關新聞？">
-<strong>Fettleibigkeit（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Fettleibigkeit（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [OECD-Studie: Fettleibigkeit macht Gesundheitsfortschritte zunichte – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
-
-2026-04-15
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
-
----
-
-### [Estudio coliderado entre el CiMUS de Galicia y Universidad de Toronto reporta beneficios para el hígado de fármacos basados en GLP-1 - La Web de la Salud](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXFGRDFoM0pKT0ctbmRXbHpHSmhtSWxrUDNsamExakhLNE45SzE5WldFNHgxakhZOGQ0N0Fwc2VEZG12TElzVXZGeklHakZnaG1pNDljazdGX2pyd0tkVFlhTG5YYjR0MDhnTTA1cHJXRTZ1eGM1UHdiOHVfc1AtQmMzaWZybm9QemFBUl9acXlDRWtzTXlRMWdMR1hjeVdza2xGd2VVOEJibklxR0FnZm1kQzJqNzVDWldwb1dMTjkzbnYtU3JZM2pqenZWZGdUemdfenNQMFVvVE5rT2FtbkhGelBKNFNSeWF0c2JDZmZIQQ?oc=5)
+### [OECD-Studie: Fettleibigkeit macht Gesundheitsfortschritte zunichte](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlNDSWhfc21PQlgwQnE3aER1cXpVM1VITG03RnUyb2VGTnNzaEdHUkc0NW1MYUJnOGNFRXRibmdkZkprQUl3ZXFpQmt1WVBnNHhaWGxnVVI1QWdWNm9qUERjQTlEOHNrS0JFLWJaQmF0OUZfeFFoanN5NUxlUGtoVnUtYWtfbXFQWG5ZUmt0S1JYTjZkSTFZM2t6d294bWhPZktKYW83aDNFUQ?oc=5)
 
 2026-04-15
 
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXFGRDFoM0pKT0ctbmRXbHpHSmhtSWxrUDNsamExakhLNE45SzE5WldFNHgxakhZOGQ0N0Fwc2VEZG12TElzVXZGeklHakZnaG1pNDljazdGX2pyd0tkVFlhTG5YYjR0MDhnTTA1cHJXRTZ1eGM1UHdiOHVfc1AtQmMzaWZybm9QemFBUl9acXlDRWtzTXlRMWdMR1hjeVdza2xGd2VVOEJibklxR0FnZm1kQzJqNzVDWldwb1dMTjkzbnYtU3JZM2pqenZWZGdUemdfenNQMFVvVE5rT2FtbkhGelBKNFNSeWF0c2JDZmZIQQ?oc=5)
+來源：[STERN.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlNDSWhfc21PQlgwQnE3aER1cXpVM1VITG03RnUyb2VGTnNzaEdHUkc0NW1MYUJnOGNFRXRibmdkZkprQUl3ZXFpQmt1WVBnNHhaWGxnVVI1QWdWNm9qUERjQTlEOHNrS0JFLWJaQmF0OUZfeFFoanN5NUxlUGtoVnUtYWtfbXFQWG5ZUmt0S1JYTjZkSTFZM2t6d294bWhPZktKYW83aDNFUQ?oc=5)
 
 ---
 
@@ -86,11 +78,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Adipositas wirkt sich bei Männern und Frauen unterschiedlich auf die Gesundheit aus](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
+### [Adipositas wirkt sich bei Männern und Frauen unterschiedlich auf die Gesundheit aus - Biermann Medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
 
 2026-04-14
 
-來源：[biermann-medizin.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
 
 ---
 
