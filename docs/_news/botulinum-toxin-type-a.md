@@ -44,11 +44,11 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（2 則）
 
-### [Trockenpulverinhalator senkt Exazerbationsrisiko bei COPD stärker als andere LAMA-LABA-Inhalatoren - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1FLYUNvRHJXb0hHbS1OOTNuNFN5eVk4OWVuN3gxUWFLYzIwSHlKVm84UU9UN2EwZUUweGdZcDRHSzJHcS1xT2FNdnRmV3hiVXZjYi0xaWZrdzF1ZUJadHlZNDl3bFluZk55c2JfRW8xdjJYQ0VqNDBVRkwyWEoyT1FEZzlUVmRRU0g5aFdVaw?oc=5)
+### [« Je peux dire que je suis un malade de Parkinson heureux » : féru de montagne et d'alpinisme, il refuse de se laisser abattre - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWRBaEQ4MFJxLWVwWjVmZEM0VXlDM0xMa3FKY0RsWW1yb1gwc2FkWjFLalZJMkE2cTgxN0dyVDdCNDFuOURPVnZlbGNfXzJxWXFad1o2SUZ5Z3ptNVBUalVNdlJ5V0o1MTFpWGZrN0pQbFNjeUtEdnk2al9wU0J2eXMxVEtxLU9JdXI2c294MnVRMkVqUWE2M3FFTmVlR251TUVIcm9kbzhJbl9EdHl2cTZ3aklORXAzdmk5WmJST3ItZDZjT2dpY0xDS2pWNVNOV1JoNHFfaWVTc09VUlRxbldVYlc1Z0FMcW5UU0RfU1g4eXBUX0E?oc=5)
 
-2026-04-15 <span class="news-indication-tag">copd</span>
+2026-04-15 <span class="news-indication-tag">maladie de Parkinson</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1FLYUNvRHJXb0hHbS1OOTNuNFN5eVk4OWVuN3gxUWFLYzIwSHlKVm84UU9UN2EwZUUweGdZcDRHSzJHcS1xT2FNdnRmV3hiVXZjYi0xaWZrdzF1ZUJadHlZNDl3bFluZk55c2JfRW8xdjJYQ0VqNDBVRkwyWEoyT1FEZzlUVmRRU0g5aFdVaw?oc=5)
+來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWRBaEQ4MFJxLWVwWjVmZEM0VXlDM0xMa3FKY0RsWW1yb1gwc2FkWjFLalZJMkE2cTgxN0dyVDdCNDFuOURPVnZlbGNfXzJxWXFad1o2SUZ5Z3ptNVBUalVNdlJ5V0o1MTFpWGZrN0pQbFNjeUtEdnk2al9wU0J2eXMxVEtxLU9JdXI2c294MnVRMkVqUWE2M3FFTmVlR251TUVIcm9kbzhJbl9EdHl2cTZ3aklORXAzdmk5WmJST3ItZDZjT2dpY0xDS2pWNVNOV1JoNHFfaWVTc09VUlRxbldVYlc1Z0FMcW5UU0RfU1g4eXBUX0E?oc=5)
 
 ---
 

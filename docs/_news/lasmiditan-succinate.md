@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [La semaglutida demuestra en un nuevo estudio eficacia frente a la enfermedad hepática metabólica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
-
-2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [OECD-Studie: Fettleibigkeit macht Gesundheitsfortschritte zunichte – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
 
 2026-04-15 <span class="news-indication-tag">Fettleibigkeit</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
+
+---
+
+### [Estudio coliderado entre el CiMUS de Galicia y Universidad de Toronto reporta beneficios para el hígado de fármacos basados en GLP-1 - La Web de la Salud](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXFGRDFoM0pKT0ctbmRXbHpHSmhtSWxrUDNsamExakhLNE45SzE5WldFNHgxakhZOGQ0N0Fwc2VEZG12TElzVXZGeklHakZnaG1pNDljazdGX2pyd0tkVFlhTG5YYjR0MDhnTTA1cHJXRTZ1eGM1UHdiOHVfc1AtQmMzaWZybm9QemFBUl9acXlDRWtzTXlRMWdMR1hjeVdza2xGd2VVOEJibklxR0FnZm1kQzJqNzVDWldwb1dMTjkzbnYtU3JZM2pqenZWZGdUemdfenNQMFVvVE5rT2FtbkhGelBKNFNSeWF0c2JDZmZIQQ?oc=5)
+
+2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXFGRDFoM0pKT0ctbmRXbHpHSmhtSWxrUDNsamExakhLNE45SzE5WldFNHgxakhZOGQ0N0Fwc2VEZG12TElzVXZGeklHakZnaG1pNDljazdGX2pyd0tkVFlhTG5YYjR0MDhnTTA1cHJXRTZ1eGM1UHdiOHVfc1AtQmMzaWZybm9QemFBUl9acXlDRWtzTXlRMWdMR1hjeVdza2xGd2VVOEJibklxR0FnZm1kQzJqNzVDWldwb1dMTjkzbnYtU3JZM2pqenZWZGdUemdfenNQMFVvVE5rT2FtbkhGelBKNFNSeWF0c2JDZmZIQQ?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/lasmiditan-succinate/
 2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
----
-
-### [La obesidad puede comprometer la eficacia de las vacunas frente a bacterias - Gaceta Médica](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFYaU5LR0Y0REN0UF9SYUhPdDhKTFpkVFctU2NPREtQZ0pFYkpPLVh5WlRhTFRPSFpaM2oxb2huNkhxTVM2VkNYVUpLcU4wZnc4eGNlNC1oZ0RGZlo1S1AwRWZXcFNScUZqeHoyWWhMUFlldnhwdEliWmRFd3R1N1gyeGQwR0ctTUV4Vl9tTHZtUGU5RzNyQWpn?oc=5)
-
-2026-04-15 <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFYaU5LR0Y0REN0UF9SYUhPdDhKTFpkVFctU2NPREtQZ0pFYkpPLVh5WlRhTFRPSFpaM2oxb2huNkhxTVM2VkNYVUpLcU4wZnc4eGNlNC1oZ0RGZlo1S1AwRWZXcFNScUZqeHoyWWhMUFlldnhwdEliWmRFd3R1N1gyeGQwR0ctTUV4Vl9tTHZtUGU5RzNyQWpn?oc=5)
 
 ---
 

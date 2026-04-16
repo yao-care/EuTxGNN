@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [« Je peux dire que je suis un malade de Parkinson heureux » : féru de montagne et d'alpinisme, il refuse de se laisser abattre - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWRBaEQ4MFJxLWVwWjVmZEM0VXlDM0xMa3FKY0RsWW1yb1gwc2FkWjFLalZJMkE2cTgxN0dyVDdCNDFuOURPVnZlbGNfXzJxWXFad1o2SUZ5Z3ptNVBUalVNdlJ5V0o1MTFpWGZrN0pQbFNjeUtEdnk2al9wU0J2eXMxVEtxLU9JdXI2c294MnVRMkVqUWE2M3FFTmVlR251TUVIcm9kbzhJbl9EdHl2cTZ3aklORXAzdmk5WmJST3ItZDZjT2dpY0xDS2pWNVNOV1JoNHFfaWVTc09VUlRxbldVYlc1Z0FMcW5UU0RfU1g4eXBUX0E?oc=5)
+
+2026-04-15 <span class="news-indication-tag">maladie de Parkinson</span>
+
+來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWRBaEQ4MFJxLWVwWjVmZEM0VXlDM0xMa3FKY0RsWW1yb1gwc2FkWjFLalZJMkE2cTgxN0dyVDdCNDFuOURPVnZlbGNfXzJxWXFad1o2SUZ5Z3ptNVBUalVNdlJ5V0o1MTFpWGZrN0pQbFNjeUtEdnk2al9wU0J2eXMxVEtxLU9JdXI2c294MnVRMkVqUWE2M3FFTmVlR251TUVIcm9kbzhJbl9EdHl2cTZ3aklORXAzdmk5WmJST3ItZDZjT2dpY0xDS2pWNVNOV1JoNHFfaWVTc09VUlRxbldVYlc1Z0FMcW5UU0RfU1g4eXBUX0E?oc=5)
+
+---
 
 ### [The daily drink habit being linked to better brain health - Yahoo Life UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDhqVzQzaDl2ZzRiRmQ0R1dwUFcxQTBLYS01WXg3dWNzVGNsaWpNUXFmaG84ZTFJRnMyaTlHaFBGTUVMQ2dRSjJZVFhKT2ZrWlRBUDFlVTMzWkpacElwTjlZMWwwVG5sYUJibDh6X2JfQl9SRlBqaU0wOHJFbU91X28tMVgtWEZVNTRSWVl3?oc=5)
 

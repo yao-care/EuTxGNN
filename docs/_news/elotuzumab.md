@@ -44,11 +44,51 @@ permalink: /news/elotuzumab/
 
 ## 相關新聞（19 則）
 
+### [Krebs: Wie Entzündungen den Darm noch Jahre später anfälliger machen können](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NVR1E5Y05hYktPVmdfRC1QUVBFNnY0bVdLYmh5cXdERDNNSjNPNENVWEtlNzNGanhJa0M4UHozV3RLUUp3cDF6bFdVMjlpOXktQm9iRGpmQklhLTdMWENMWmVhc0Q4NVNQY2FPZGJUZy1mU1ZicXlFTk9lSHc5YjZXemNoS3p1elVOb1dnY2ZQS082eW5TUDlrTTM5RmJDVXpOYkRiNmFPa25YX0RneTFpWV95MGVtcW10VzhzUGl1VEU3ZDdiNjFsalhFMXV6Z2NGVXUxdk56YldzT3JZ?oc=5)
+
+2026-04-15 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NVR1E5Y05hYktPVmdfRC1QUVBFNnY0bVdLYmh5cXdERDNNSjNPNENVWEtlNzNGanhJa0M4UHozV3RLUUp3cDF6bFdVMjlpOXktQm9iRGpmQklhLTdMWENMWmVhc0Q4NVNQY2FPZGJUZy1mU1ZicXlFTk9lSHc5YjZXemNoS3p1elVOb1dnY2ZQS082eW5TUDlrTTM5RmJDVXpOYkRiNmFPa25YX0RneTFpWV95MGVtcW10VzhzUGl1VEU3ZDdiNjFsalhFMXV6Z2NGVXUxdk56YldzT3JZ?oc=5)
+
+---
+
+### [Tumour promotion through the lens of evolution](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wbENJNGE4RFltNE14bU1VeFd0bktLUlFoaWdzTndKUS1LSTFwX3VFcVYxbkJZUDBYRURfWjEyYXJmUkFyTjZyNzAyWllxT05RSFh0V29UXzhQUk1GeTFV?oc=5)
+
+2026-04-15 <span class="news-indication-tag">tumour</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wbENJNGE4RFltNE14bU1VeFd0bktLUlFoaWdzTndKUS1LSTFwX3VFcVYxbkJZUDBYRURfWjEyYXJmUkFyTjZyNzAyWllxT05RSFh0V29UXzhQUk1GeTFV?oc=5)
+
+---
+
+### [Death of Surrey man prompts skin cancer healthcare concerns](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fREgySjYtQnZnS2RkeWpPc3N5MmRueVZzYjJ5a1lyUGFvdi1uMC1fQkNkMHRvUnFfSkdDQXBtQWNCQVV4UWRwX2l0QWx5YU5lNDI0ei1MZWFqRE0y?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fREgySjYtQnZnS2RkeWpPc3N5MmRueVZzYjJ5a1lyUGFvdi1uMC1fQkNkMHRvUnFfSkdDQXBtQWNCQVV4UWRwX2l0QWx5YU5lNDI0ei1MZWFqRE0y?oc=5)
+
+---
+
+### [« En stade 1, on a plus de 90 % de probabilité de guérison » : Mieux dépister le cancer du poumon pour mieux guérir - La Tribune](https://news.google.com/rss/articles/CBMikgJBVV95cUxPejdLSHVQTnFVT1hYOU5fSVVoaXBLUUY5cEtrdXA5SkxFejhPNm9MNkF2TmNlYnc1dmxqLWE3djliX3UzN1MtOVlPQ0lYRlJjb0xvZXIyZ2JIbTZNb1BEUjUyYTRDQjhyOXdjTUlJMDQyc1g0eHB3OTRrSGtjZXNjbDdJd0ZPRlJFcEgzbE1nMDMzMHFCN3JUMmdDTGRHUElyTW52TVZkRDlVT2Fqb19kc0ZaRXVoOFkxVHBXVlhhMEFWU090ZE5xTGljcjMyS2F2Q3plX2xJRTVXb2lWTFVESTZmakxaMW0xSkdVajdwbjJKeTBxeGxXdXEzY2wyVUN1VFdNMVlZV0FiSldHMzdPZkR3?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cancer</span>
+
+來源：[La Tribune](https://news.google.com/rss/articles/CBMikgJBVV95cUxPejdLSHVQTnFVT1hYOU5fSVVoaXBLUUY5cEtrdXA5SkxFejhPNm9MNkF2TmNlYnc1dmxqLWE3djliX3UzN1MtOVlPQ0lYRlJjb0xvZXIyZ2JIbTZNb1BEUjUyYTRDQjhyOXdjTUlJMDQyc1g0eHB3OTRrSGtjZXNjbDdJd0ZPRlJFcEgzbE1nMDMzMHFCN3JUMmdDTGRHUElyTW52TVZkRDlVT2Fqb19kc0ZaRXVoOFkxVHBXVlhhMEFWU090ZE5xTGljcjMyS2F2Q3plX2xJRTVXb2lWTFVESTZmakxaMW0xSkdVajdwbjJKeTBxeGxXdXEzY2wyVUN1VFdNMVlZV0FiSldHMzdPZkR3?oc=5)
+
+---
+
 ### [‘It was easy to spiral into some dark moments’: NI mum’s shock after becoming fourth in family to develop breast cancer - Belfast Telegraph](https://news.google.com/rss/articles/CBMiggJBVV95cUxOeDlLYURwZmktX3doVy0yQmZLNXBEVW1OS2hpSEtrVDdYMURGek44OFEyZC05czRGWUF5MHlCWVBaQ3BKZWhSNGE0endrTXpPSW1zaTRmeVhiY3NPZVk2N05rYWV1N280TnVfekxxOWVENFQ2b1Y4MTNaRDUzR09UZHNGckpSR2pZc3RKMS1yY3RZMVh3MktIRXdRc0c3QlhldG5RZkx5cVhsTFdOLXNqRDZINS1KcDBEcjkxbWY0MHJXdFZ2aXpEX2h0ZUtnZkRSdzlhM0dudDRqUnZ6ams3UzZ0M3BDTkxjR05DRWpvN1Q2LWVHRXZkbDhrazZfU0s2ckE?oc=5)
 
 2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMiggJBVV95cUxOeDlLYURwZmktX3doVy0yQmZLNXBEVW1OS2hpSEtrVDdYMURGek44OFEyZC05czRGWUF5MHlCWVBaQ3BKZWhSNGE0endrTXpPSW1zaTRmeVhiY3NPZVk2N05rYWV1N280TnVfekxxOWVENFQ2b1Y4MTNaRDUzR09UZHNGckpSR2pZc3RKMS1yY3RZMVh3MktIRXdRc0c3QlhldG5RZkx5cVhsTFdOLXNqRDZINS1KcDBEcjkxbWY0MHJXdFZ2aXpEX2h0ZUtnZkRSdzlhM0dudDRqUnZ6ams3UzZ0M3BDTkxjR05DRWpvN1Q2LWVHRXZkbDhrazZfU0s2ckE?oc=5)
+
+---
+
+### [Los avances tecnológicos y terapéuticos marcan una nueva era en el control del asma - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
+
+2026-04-15 <span class="news-indication-tag">asma</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
 
 ---
 
@@ -116,14 +156,6 @@ permalink: /news/elotuzumab/
 
 ---
 
-### [Le cancer, "maladie du siècle" : 14.000 cancers détectés en une année dans l’ex-Poitou-Charentes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOW9Xdk0yTzI4ZHQzSjRVMW8tTlMxUFJnQ1pTSUEwMklXU0xZd210eDJCLTVTSVBwbmtUN1VJbFhvbEVNRWNGRjc3X1ZlTXZQaHVyNnZGZ2pRRy1mMkNiZkpBRFd5X3VFdzlyaG9MS3F5NTdLVUl2NWRwSWxlUlZwbHZPZEV2U1kzRHowVVM1MEVtVmc4RmlfQVBQMzNjQUVrRWhmN1lBTnBZd2NPaWlSdEl6c1FUajRqa1lxcDdfLV94Mm5GVHM2QnNTQ1lfZzVRR2FmTXA1eVNURmdzTUJXQlI3ZDJvTUU?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span>
-
-來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOW9Xdk0yTzI4ZHQzSjRVMW8tTlMxUFJnQ1pTSUEwMklXU0xZd210eDJCLTVTSVBwbmtUN1VJbFhvbEVNRWNGRjc3X1ZlTXZQaHVyNnZGZ2pRRy1mMkNiZkpBRFd5X3VFdzlyaG9MS3F5NTdLVUl2NWRwSWxlUlZwbHZPZEV2U1kzRHowVVM1MEVtVmc4RmlfQVBQMzNjQUVrRWhmN1lBTnBZd2NPaWlSdEl6c1FUajRqa1lxcDdfLV94Mm5GVHM2QnNTQ1lfZzVRR2FmTXA1eVNURmdzTUJXQlI3ZDJvTUU?oc=5)
-
----
-
 ### [Thymus: Vom unnützen Organ zum Schlüssel für Langlebigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGlNMkhZV0hPa05INHdRVXRnM0dLWmJmcFU2Zkp1UzFSYkxaXzNWa1o0QU5EZnhfS1Jtd1V6S2M4STBiNHFrS3hISE1ISExYMjI4WGhtdzU3bnAzcEhmWmZScGlfanhkVldkdDMtazRDcjkteF9PNWdBcjNqdFpaOE4yS3BJOS11RldOMDhxbDNqdmFNcjVyb3p2cTEwNTVOR3FrUXlKR2d4M01hSGYyQVdueU5lcjVlMHc0?oc=5)
 
 2026-04-14 <span class="news-indication-tag">Krebs</span>
@@ -140,43 +172,11 @@ permalink: /news/elotuzumab/
 
 ---
 
-### [La 14ª edición de "Espacio Asma" analiza cómo la medicina de precisión y las nuevas tecnologías están transformando el abordaje del asma](https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVNDUjlPWHF1TDVhOXVjcF8tcGRTRm5TMGVsaFhJOTJYSWhZbUVVVl9xZEswT0R1UXZYNUctdEtBRnZtLTR5ckxMdW1jcnRPVUlWbThZdkFLVnA5NjViTUhPYW8yZjVSckRjS21pQk5SMGk2TXFyTEJhVkxPanc?oc=5)
-
-2026-04-14 <span class="news-indication-tag">asma</span>
-
-來源：[Corresponsables](https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVNDUjlPWHF1TDVhOXVjcF8tcGRTRm5TMGVsaFhJOTJYSWhZbUVVVl9xZEswT0R1UXZYNUctdEtBRnZtLTR5ckxMdW1jcnRPVUlWbThZdkFLVnA5NjViTUhPYW8yZjVSckRjS21pQk5SMGk2TXFyTEJhVkxPanc?oc=5)
-
----
-
-### [À La Réunion, la mortalité recule en 2023, mais le cancer reste en tête](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZk1sazZMUXRlVVpMbldnREY4V1I4RTJENGh5cE9Fa2lkaVBDSjFKMm9IMGQzemtqRmozZU0xOVpuNUNUbEdKVU81WnVCSHB2NWtHaEJJdmNHdGJ2OHduRXpmb1dORG92ZUFBMGRSQTdISFpzWFdGbEZ2Q09sbDl3QVFnR2lJRUZhand3ZTJzQjFIcjV4RmRoM0JEWVY?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Zinfos974](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZk1sazZMUXRlVVpMbldnREY4V1I4RTJENGh5cE9Fa2lkaVBDSjFKMm9IMGQzemtqRmozZU0xOVpuNUNUbEdKVU81WnVCSHB2NWtHaEJJdmNHdGJ2OHduRXpmb1dORG92ZUFBMGRSQTdISFpzWFdGbEZ2Q09sbDl3QVFnR2lJRUZhand3ZTJzQjFIcjV4RmRoM0JEWVY?oc=5)
-
----
-
-### ["Es increíble, como ciencia ficción": los nuevos tratamientos con inmunoterapia que están eliminando el cáncer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
-
-2026-04-14 <span class="news-indication-tag">tumor</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
-
----
-
 ### [Tabac, alcool, vigilance et sexualité : le mariage protège-t-il du cancer ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
 
 2026-04-14 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
-
----
-
-### [Les scanners médicaux pourraient-ils augmenter le risque de cancer ? Ce que révèle une nouvelle étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPamZDLXdBaWpDZ2VieG5hMXh1V2tYUE9VdE9BSHdxTVRWMGd1M2lyQWlyNTROQnJUVllxcVhwNFV0VExndWVxUVNTRzBwZU9hMDRhM0NOVFIzbEpZTC1FejdHaEpNeFd0d1FOM3pWVHlyUE9BalhRWlpJRHJvYXh0RWlIaHgzc3RUSUU2U1lLdUlQR2R2OHI4dnV3OE1pU25na1JqN3VaZUZIVVprWE5IR0pwZzMteVlJXy0xVDNvRy14OFRkd2dVTkE3STRvdF9qbko2TlE0ajAzcWdtZUphMHlwVnhDc3N5TWViWnF3?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPamZDLXdBaWpDZ2VieG5hMXh1V2tYUE9VdE9BSHdxTVRWMGd1M2lyQWlyNTROQnJUVllxcVhwNFV0VExndWVxUVNTRzBwZU9hMDRhM0NOVFIzbEpZTC1FejdHaEpNeFd0d1FOM3pWVHlyUE9BalhRWlpJRHJvYXh0RWlIaHgzc3RUSUU2U1lLdUlQR2R2OHI4dnV3OE1pU25na1JqN3VaZUZIVVprWE5IR0pwZzMteVlJXy0xVDNvRy14OFRkd2dVTkE3STRvdF9qbko2TlE0ajAzcWdtZUphMHlwVnhDc3N5TWViWnF3?oc=5)
 
 ---
 
@@ -188,11 +188,11 @@ permalink: /news/elotuzumab/
 
 ---
 
-### [Metformin als potenzieller Ersatz für Bewegung bei Prostatakrebs](https://news.google.com/rss/articles/CBMingFBVV95cUxQeVc2cWR5MnoxbU5mOXNUNjAxcWo4a3NsOWJyLWpDSUMzdngzU0lNdENMWkRCU2cwLWlWajJFM3VLcWltOHNlSUVYRm8wR0NuenJ0YVBjZDhsdzI0d2JzT2lERGRwS3R4bU95ZDVjbjZpY1lja2pyV2pWckJVN1hpR3JkOUpFZ0lleW1sYTB1TzRiVDc2R0RGSFdjeTU2UQ?oc=5)
+### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests | Health - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
-2026-04-13 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">Krebs</span>
+2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQeVc2cWR5MnoxbU5mOXNUNjAxcWo4a3NsOWJyLWpDSUMzdngzU0lNdENMWkRCU2cwLWlWajJFM3VLcWltOHNlSUVYRm8wR0NuenJ0YVBjZDhsdzI0d2JzT2lERGRwS3R4bU95ZDVjbjZpY1lja2pyV2pWckJVN1hpR3JkOUpFZ0lleW1sYTB1TzRiVDc2R0RGSFdjeTU2UQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
 ---
 

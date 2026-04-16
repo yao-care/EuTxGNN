@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dolutegravir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dolutegravir/
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela](https://news.google.com/rss/articles/CBMimgJBVV95cUxPM29jNUVCZEFiNTR0bW1MNkpkZmNkeVNzNjhQN2ZNVkctVjJkUHlicVBJYVg0MkVpSnZVV0EwOXMwR3VKaEVENTNjeHNyVWpfRnNwYUJ1TjBDaEdaSkswN0lVcElVUDFEUDN6SmV1QXlaLXAta0NxS1JiY0pscnQ4YmNiOGRGaGF2T1FVa3BzTnZjNDR1bVNpOEw0RmRYSXg4VEhnYjFKb1Jfb3Nua0JkREZXR096VXhDRW1JR2otRFVoNVFiejJuRVNUaWY3eEV5NjdVWTJiSTBkQ2F4Qkozczg0S0dOVGZHV0JlSEFIdmFKZWpGN2tlenF2WlQwTnVRVDJ4c2ZGbERDejFCY1BMVzc4Rk5nR2xISWc?oc=5)
-
-2026-04-13 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Actualidad21](https://news.google.com/rss/articles/CBMimgJBVV95cUxPM29jNUVCZEFiNTR0bW1MNkpkZmNkeVNzNjhQN2ZNVkctVjJkUHlicVBJYVg0MkVpSnZVV0EwOXMwR3VKaEVENTNjeHNyVWpfRnNwYUJ1TjBDaEdaSkswN0lVcElVUDFEUDN6SmV1QXlaLXAta0NxS1JiY0pscnQ4YmNiOGRGaGF2T1FVa3BzTnZjNDR1bVNpOEw0RmRYSXg4VEhnYjFKb1Jfb3Nua0JkREZXR096VXhDRW1JR2otRFVoNVFiejJuRVNUaWY3eEV5NjdVWTJiSTBkQ2F4Qkozczg0S0dOVGZHV0JlSEFIdmFKZWpGN2tlenF2WlQwTnVRVDJ4c2ZGbERDejFCY1BMVzc4Rk5nR2xISWc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

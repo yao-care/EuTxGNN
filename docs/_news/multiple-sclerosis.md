@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。6 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。5 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>6 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>5 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Brain cancer clinical trial aims to 'bring hope'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
 
 2026-04-15
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
+
+---
+
+### [Burundi, malattia misteriosa provoca cinque morti](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
+
+2026-04-15
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
 
 ---
 
@@ -72,11 +80,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Burundi, misteriosa malattia fa 5 morti: Oms indaga](https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0RjUFhFQzZKemxxOS1Eci1IUU4yNHRCbkhyUU9LU0pLZ2Q2U2s3VEx1X3UwVUxhazdhWDM3RF80WUtUYkd1azdEOU9CUWtGb29iMmNINVgyenU0d0ExMjVYN1ZWbFdvdTMza09FdXkwWmpQaVJzTUdldW14OHhBU3dNdVdtekdUQ3RtVUdnemNGOG05SUg3VXpSbEZpZWc0TDcxLW0yT3JsWUdKTUVBR05SOFF2OHhucXZ2ag?oc=5)
+### [Leicester doctor tells truth on 'better than medicine' claims - Leicester Mercury](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWJTcGViUGJ2RkR3OUlfV2xveEkyWnRwN2p1c3FiMUFmWThlV2l4UzhCYUkwcXU0eHQwTDZOUER1VGxibDg3TGk4N09NNG5nNFoxbElxSncwazN4TGlVYlRtS3FtNURkTnZNanhrSS1nREJHSk5xT0paMnZjN1QwSWtQMDBjb216YnlURFNlSkt4SG1wVTlHQUdvYnBjSW5x?oc=5)
 
 2026-04-15
 
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0RjUFhFQzZKemxxOS1Eci1IUU4yNHRCbkhyUU9LU0pLZ2Q2U2s3VEx1X3UwVUxhazdhWDM3RF80WUtUYkd1azdEOU9CUWtGb29iMmNINVgyenU0d0ExMjVYN1ZWbFdvdTMza09FdXkwWmpQaVJzTUdldW14OHhBU3dNdVdtekdUQ3RtVUdnemNGOG05SUg3VXpSbEZpZWc0TDcxLW0yT3JsWUdKTUVBR05SOFF2OHhucXZ2ag?oc=5)
+來源：[Leicester Mercury](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWJTcGViUGJ2RkR3OUlfV2xveEkyWnRwN2p1c3FiMUFmWThlV2l4UzhCYUkwcXU0eHQwTDZOUER1VGxibDg3TGk4N09NNG5nNFoxbElxSncwazN4TGlVYlRtS3FtNURkTnZNanhrSS1nREJHSk5xT0paMnZjN1QwSWtQMDBjb216YnlURFNlSkt4SG1wVTlHQUdvYnBjSW5x?oc=5)
 
 ---
 
@@ -85,22 +93,6 @@ permalink: /news/multiple-sclerosis/
 2026-04-14
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ONHRzZUQ5ckdHdTF1NXcxX2lxQm0wdFZkZkdCVnJPSmpOMDFncGN3QVd2SWJIN1lORTlEc1FDNUVzbm5FM1g5ajJCMllwc3FuUjcyd0RLcVRCUUFs?oc=5)
-
----
-
-### [Antiseptic-tolerant germs spread through the air in hospitals, early study hints - Live Science](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUlKeDNaVjF3S0l6OS1PeTVzYjQyZjRURHgtU1dTclVqd2xrS1VaNGJiQUFzWjFYYzJMOGNtUWpnUHU4WUw1VXYzUWpSTEswSm4wV252UmVkOWdNYUlic1RkUkV1OGdIYVEybEpYbTkwTmt3REVVVVdnTTkyS1ZVb3YtX1hZdWtvTUFTU1NRWjFqbWFpczBjdUQyLTJTdm1OVEFpdEQwSEF3N2VhdUYwZllZQnpaWUFiT3FYVUhZcXhzaDdCYVJNYw?oc=5)
-
-2026-04-13
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUlKeDNaVjF3S0l6OS1PeTVzYjQyZjRURHgtU1dTclVqd2xrS1VaNGJiQUFzWjFYYzJMOGNtUWpnUHU4WUw1VXYzUWpSTEswSm4wV252UmVkOWdNYUlic1RkUkV1OGdIYVEybEpYbTkwTmt3REVVVVdnTTkyS1ZVb3YtX1hZdWtvTUFTU1NRWjFqbWFpczBjdUQyLTJTdm1OVEFpdEQwSEF3N2VhdUYwZllZQnpaWUFiT3FYVUhZcXhzaDdCYVJNYw?oc=5)
-
----
-
-### [Warum die Impfung gegen Gürtelrose wichtiger ist als gedacht](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTQzSGRobGhudHZKd29NbFJaN0NMS0ZNYzNGOUFWT1JZaFBvVG5Fb2t0aDhURmp4MENjaXIxTHNqaHJyYVYtQTF4dWZqSFB3cTNoZXkxODV6Rlp4NjQwbW4tbzd0LWVPbDVEX2FEYUUwNjlBNk1feXg2NkdKSDVEblVIenBoc3RJODZmd3g4a0NlR2drMFdhOA?oc=5)
-
-2026-04-13
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTQzSGRobGhudHZKd29NbFJaN0NMS0ZNYzNGOUFWT1JZaFBvVG5Fb2t0aDhURmp4MENjaXIxTHNqaHJyYVYtQTF4dWZqSFB3cTNoZXkxODV6Rlp4NjQwbW4tbzd0LWVPbDVEX2FEYUUwNjlBNk1feXg2NkdKSDVEblVIenBoc3RJODZmd3g4a0NlR2drMFdhOA?oc=5)
 
 ---
 

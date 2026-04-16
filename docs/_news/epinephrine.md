@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Epinephrine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Trockenpulverinhalator senkt Exazerbationsrisiko bei COPD stärker als andere LAMA-LABA-Inhalatoren - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1FLYUNvRHJXb0hHbS1OOTNuNFN5eVk4OWVuN3gxUWFLYzIwSHlKVm84UU9UN2EwZUUweGdZcDRHSzJHcS1xT2FNdnRmV3hiVXZjYi0xaWZrdzF1ZUJadHlZNDl3bFluZk55c2JfRW8xdjJYQ0VqNDBVRkwyWEoyT1FEZzlUVmRRU0g5aFdVaw?oc=5)
+### [Los avances tecnológicos y terapéuticos marcan una nueva era en el control del asma - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
 
-2026-04-15 <span class="news-indication-tag">copd</span>
+2026-04-15 <span class="news-indication-tag">asma</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1FLYUNvRHJXb0hHbS1OOTNuNFN5eVk4OWVuN3gxUWFLYzIwSHlKVm84UU9UN2EwZUUweGdZcDRHSzJHcS1xT2FNdnRmV3hiVXZjYi0xaWZrdzF1ZUJadHlZNDl3bFluZk55c2JfRW8xdjJYQ0VqNDBVRkwyWEoyT1FEZzlUVmRRU0g5aFdVaw?oc=5)
-
----
-
-### [La 14ª edición de "Espacio Asma" analiza cómo la medicina de precisión y las nuevas tecnologías están transformando el abordaje del asma](https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVNDUjlPWHF1TDVhOXVjcF8tcGRTRm5TMGVsaFhJOTJYSWhZbUVVVl9xZEswT0R1UXZYNUctdEtBRnZtLTR5ckxMdW1jcnRPVUlWbThZdkFLVnA5NjViTUhPYW8yZjVSckRjS21pQk5SMGk2TXFyTEJhVkxPanc?oc=5)
-
-2026-04-14 <span class="news-indication-tag">asma</span>
-
-來源：[Corresponsables](https://news.google.com/rss/articles/CBMif0FVX3lxTE8xQVNDUjlPWHF1TDVhOXVjcF8tcGRTRm5TMGVsaFhJOTJYSWhZbUVVVl9xZEswT0R1UXZYNUctdEtBRnZtLTR5ckxMdW1jcnRPVUlWbThZdkFLVnA5NjViTUhPYW8yZjVSckRjS21pQk5SMGk2TXFyTEJhVkxPanc?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
 
 ---
 

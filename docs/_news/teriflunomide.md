@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teriflunomide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [Brain cancer clinical trial aims to 'bring hope'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
 
 2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRnZ4ckdudFlLRHB4RVFZdi0zTEZudHlrRjZ5TWFsQjItRmNVWG5IbmpLRGsxVVR3YVdnZlFRbGJKYUZEWlpDQWlqSmtINDVTUS15OTg3WmpkYW5W?oc=5)
+
+---
+
+### [Burundi, malattia misteriosa provoca cinque morti](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
+
+2026-04-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
 
 ---
 
@@ -60,11 +68,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Burundi, misteriosa malattia fa 5 morti: Oms indaga](https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0RjUFhFQzZKemxxOS1Eci1IUU4yNHRCbkhyUU9LU0pLZ2Q2U2s3VEx1X3UwVUxhazdhWDM3RF80WUtUYkd1azdEOU9CUWtGb29iMmNINVgyenU0d0ExMjVYN1ZWbFdvdTMza09FdXkwWmpQaVJzTUdldW14OHhBU3dNdVdtekdUQ3RtVUdnemNGOG05SUg3VXpSbEZpZWc0TDcxLW0yT3JsWUdKTUVBR05SOFF2OHhucXZ2ag?oc=5)
+### [Leicester doctor tells truth on 'better than medicine' claims - Leicester Mercury](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWJTcGViUGJ2RkR3OUlfV2xveEkyWnRwN2p1c3FiMUFmWThlV2l4UzhCYUkwcXU0eHQwTDZOUER1VGxibDg3TGk4N09NNG5nNFoxbElxSncwazN4TGlVYlRtS3FtNURkTnZNanhrSS1nREJHSk5xT0paMnZjN1QwSWtQMDBjb216YnlURFNlSkt4SG1wVTlHQUdvYnBjSW5x?oc=5)
 
 2026-04-15 <span class="news-indication-tag">MS</span>
 
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0RjUFhFQzZKemxxOS1Eci1IUU4yNHRCbkhyUU9LU0pLZ2Q2U2s3VEx1X3UwVUxhazdhWDM3RF80WUtUYkd1azdEOU9CUWtGb29iMmNINVgyenU0d0ExMjVYN1ZWbFdvdTMza09FdXkwWmpQaVJzTUdldW14OHhBU3dNdVdtekdUQ3RtVUdnemNGOG05SUg3VXpSbEZpZWc0TDcxLW0yT3JsWUdKTUVBR05SOFF2OHhucXZ2ag?oc=5)
+來源：[Leicester Mercury](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWJTcGViUGJ2RkR3OUlfV2xveEkyWnRwN2p1c3FiMUFmWThlV2l4UzhCYUkwcXU0eHQwTDZOUER1VGxibDg3TGk4N09NNG5nNFoxbElxSncwazN4TGlVYlRtS3FtNURkTnZNanhrSS1nREJHSk5xT0paMnZjN1QwSWtQMDBjb216YnlURFNlSkt4SG1wVTlHQUdvYnBjSW5x?oc=5)
 
 ---
 
@@ -73,30 +81,6 @@ permalink: /news/teriflunomide/
 2026-04-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ONHRzZUQ5ckdHdTF1NXcxX2lxQm0wdFZkZkdCVnJPSmpOMDFncGN3QVd2SWJIN1lORTlEc1FDNUVzbm5FM1g5ajJCMllwc3FuUjcyd0RLcVRCUUFs?oc=5)
-
----
-
-### [La Comunidad de Madrid destina cerca de 3 millones de euros a la adquisición de vacunas infantiles frente a hepatitis B, sarampión, rubéola, parotiditis y varicela](https://news.google.com/rss/articles/CBMimgJBVV95cUxPM29jNUVCZEFiNTR0bW1MNkpkZmNkeVNzNjhQN2ZNVkctVjJkUHlicVBJYVg0MkVpSnZVV0EwOXMwR3VKaEVENTNjeHNyVWpfRnNwYUJ1TjBDaEdaSkswN0lVcElVUDFEUDN6SmV1QXlaLXAta0NxS1JiY0pscnQ4YmNiOGRGaGF2T1FVa3BzTnZjNDR1bVNpOEw0RmRYSXg4VEhnYjFKb1Jfb3Nua0JkREZXR096VXhDRW1JR2otRFVoNVFiejJuRVNUaWY3eEV5NjdVWTJiSTBkQ2F4Qkozczg0S0dOVGZHV0JlSEFIdmFKZWpGN2tlenF2WlQwTnVRVDJ4c2ZGbERDejFCY1BMVzc4Rk5nR2xISWc?oc=5)
-
-2026-04-13 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Actualidad21](https://news.google.com/rss/articles/CBMimgJBVV95cUxPM29jNUVCZEFiNTR0bW1MNkpkZmNkeVNzNjhQN2ZNVkctVjJkUHlicVBJYVg0MkVpSnZVV0EwOXMwR3VKaEVENTNjeHNyVWpfRnNwYUJ1TjBDaEdaSkswN0lVcElVUDFEUDN6SmV1QXlaLXAta0NxS1JiY0pscnQ4YmNiOGRGaGF2T1FVa3BzTnZjNDR1bVNpOEw0RmRYSXg4VEhnYjFKb1Jfb3Nua0JkREZXR096VXhDRW1JR2otRFVoNVFiejJuRVNUaWY3eEV5NjdVWTJiSTBkQ2F4Qkozczg0S0dOVGZHV0JlSEFIdmFKZWpGN2tlenF2WlQwTnVRVDJ4c2ZGbERDejFCY1BMVzc4Rk5nR2xISWc?oc=5)
-
----
-
-### [Antiseptic-tolerant germs spread through the air in hospitals, early study hints - Live Science](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUlKeDNaVjF3S0l6OS1PeTVzYjQyZjRURHgtU1dTclVqd2xrS1VaNGJiQUFzWjFYYzJMOGNtUWpnUHU4WUw1VXYzUWpSTEswSm4wV252UmVkOWdNYUlic1RkUkV1OGdIYVEybEpYbTkwTmt3REVVVVdnTTkyS1ZVb3YtX1hZdWtvTUFTU1NRWjFqbWFpczBjdUQyLTJTdm1OVEFpdEQwSEF3N2VhdUYwZllZQnpaWUFiT3FYVUhZcXhzaDdCYVJNYw?oc=5)
-
-2026-04-13 <span class="news-indication-tag">MS</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUlKeDNaVjF3S0l6OS1PeTVzYjQyZjRURHgtU1dTclVqd2xrS1VaNGJiQUFzWjFYYzJMOGNtUWpnUHU4WUw1VXYzUWpSTEswSm4wV252UmVkOWdNYUlic1RkUkV1OGdIYVEybEpYbTkwTmt3REVVVVdnTTkyS1ZVb3YtX1hZdWtvTUFTU1NRWjFqbWFpczBjdUQyLTJTdm1OVEFpdEQwSEF3N2VhdUYwZllZQnpaWUFiT3FYVUhZcXhzaDdCYVJNYw?oc=5)
-
----
-
-### [Warum die Impfung gegen Gürtelrose wichtiger ist als gedacht](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTQzSGRobGhudHZKd29NbFJaN0NMS0ZNYzNGOUFWT1JZaFBvVG5Fb2t0aDhURmp4MENjaXIxTHNqaHJyYVYtQTF4dWZqSFB3cTNoZXkxODV6Rlp4NjQwbW4tbzd0LWVPbDVEX2FEYUUwNjlBNk1feXg2NkdKSDVEblVIenBoc3RJODZmd3g4a0NlR2drMFdhOA?oc=5)
-
-2026-04-13 <span class="news-indication-tag">MS</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTQzSGRobGhudHZKd29NbFJaN0NMS0ZNYzNGOUFWT1JZaFBvVG5Fb2t0aDhURmp4MENjaXIxTHNqaHJyYVYtQTF4dWZqSFB3cTNoZXkxODV6Rlp4NjQwbW4tbzd0LWVPbDVEX2FEYUUwNjlBNk1feXg2NkdKSDVEblVIenBoc3RJODZmd3g4a0NlR2drMFdhOA?oc=5)
 
 ---
 

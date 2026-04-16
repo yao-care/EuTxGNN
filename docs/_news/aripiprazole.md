@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="Aripiprazole 有什麼相關新聞？">
-<strong>Aripiprazole</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aripiprazole</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/aripiprazole/
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（24 則）
+
+### [Neue Studie zeigt, wie die Ernährung das vererbte Verhalten prägt - Analytik NEWS](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ySDVDalB2UFVjcmsxWFFkTjdTR3BDalc4Nm1JNjdXaTR1NTVHYXdxekF1YU5MZ3ZnOU9DMFhNYWE4bVVIR3lEaGh1T2tHYVBzSGxKaA?oc=5)
+
+2026-04-15 <span class="news-indication-tag">AF</span>
+
+來源：[Analytik NEWS](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ySDVDalB2UFVjcmsxWFFkTjdTR3BDalc4Nm1JNjdXaTR1NTVHYXdxekF1YU5MZ3ZnOU9DMFhNYWE4bVVIR3lEaGh1T2tHYVBzSGxKaA?oc=5)
+
+---
+
+### [La vida después del cáncer colorrectal: el desafío de vivir con una bolsa de ostomía - The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVhOZkw3MDlPTWZtVG5veGJkWmtQWXE3aUljYkhreVpxSUxYR09MSExNeUgyb3Y0bjE4UkRfcXRvZ1Zvazh2UmFWWXl2R3p2THpkeGEtdW9lcjNNNjY2MmU1VTFVVlhocWhpdkdTTnIyaFY4QzBTMV8weUNIN0c5Q1NwdXJ6d3k4bHZaaWZoUHNKN0FJU1o3dUVoUEZEY0lNNFBOeFg2ZW52QVVXanNTRmh5Y1BDcDJDaGc?oc=5)
+
+2026-04-15 <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVhOZkw3MDlPTWZtVG5veGJkWmtQWXE3aUljYkhreVpxSUxYR09MSExNeUgyb3Y0bjE4UkRfcXRvZ1Zvazh2UmFWWXl2R3p2THpkeGEtdW9lcjNNNjY2MmU1VTFVVlhocWhpdkdTTnIyaFY4QzBTMV8weUNIN0c5Q1NwdXJ6d3k4bHZaaWZoUHNKN0FJU1o3dUVoUEZEY0lNNFBOeFg2ZW52QVVXanNTRmh5Y1BDcDJDaGc?oc=5)
+
+---
+
+### [Worrying new side effect from smoking cannabis discovered in groundbreaking study](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
+
+2026-04-15 <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
+
+---
 
 ### [Las claves para frenar la pérdida de masa muscular: ejercicios de fuerza, alimentación y actividad física diaria - El Economista](https://news.google.com/rss/articles/CBMipwJBVV95cUxQSjlhd0tpUXgzVkpoME8zSzhSd0pTNG1aNjFxVEVZb0RhTlU1M2VtaWVudHAzNXpFLWNDNkpWb2ZUUjROU01fV1FmQXd2RndUbWtXVzRVam44LUY3Z05ZWWtjbmpBVmI0dWtzalFGTkw1c3RaLU5UUncySFgtdzduQUtRSE51SmxMQkNpV1V0VWF4RFA0UC1sRC1IUWREMFJKSnFFaWtRbjVQZWhIZjBLR2tNVk5aSENlWVNLaFNqa1AxeThTTWJ4c2NfeDhpU2lmU25WZVBMSTFDWm9TS1dOdkxGR1JJUFNkNkJad2UyYmVmdWlsUGxIcHhFLTR2c3VITFJ3dDB6bnRxVWdhU01GNV9qTEtfY2tmRHRoZ3ZKSnpCaEtmaWJj0gGSAkFVX3lxTE5QN3BJWjFCVHBQRlNOeldfRFlNSElVRko5eTJZbXduTU1PQmRPcGN4eER5ZzNJeHBEVFBsSjZiYVFaQm9pYnlwUzRoMWJpaS02Y1hCZGJlYmJwR0JONEV5RXc1azNsV2JFUEwxQm85ZjhDUUtiZGs3OEFzX2k0cTV4RnVqdk1PdlJibzVRaHBfaHlTbEI4SGxkQjVVN3JsM2NrYWwtc005SVhJcjdjd3pJcW10MW1IbjMxeHN6eGZuYmZ2b2xGLVRDTVJYazlQdkhncmZZM185MUw0amJXclZyZ2FRanY3azNFN0pKbHUtSWR3WVN6TFJXRVlLM1c2TlhHQTNMNTA0Z0hjVDV5WS10U1E?oc=5)
 
@@ -52,19 +76,11 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Alzheimer-Diagnose: Blut und Schlaf verraten Demenz-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlZsVXc0bEJyTFU2LVV1dzF4NGVWNTNsUDY2N01tTFhKalZGaXVUUG5tU2E4cjltbjYyM3ZsaWl2WDdOenpoRXhxUnRXNTFMWUlpWERsV1BkWFhnNHlCTHNra3RQdHhKS1JOdnRYSWJueU9ndWdjX3dHWXh3S2xhdG5vRGZoVXpmTUZZSjdJYVQ3WHFWVW5TTkN4TFJYbUxFSGVlYkhDeF9IeW9GN0RXT05jd3VPLVk?oc=5)
+### [Fett macht nicht dick! ernährungswissenschaftlerin entlarvt mythos - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXdqUFJwcXY2djI1Tml5Q3o4UldJVFYzem9QUTJSSy13ZUY5UXB4eEdQY2tIc1VUVjBsbWt6WGNDVmpJQ1FGVDBTb2JOV2JkWWt4Wi1tTEFpVTZ3QTF1MGdOT2hJeHJERlFIaWdiaERXVEcwbVpCc2J5bUpVNG9GSDZwVlBVOFlRR25mT1VuczFWc1YtbXIwY2Q3aTJSemN5LXc?oc=5)
 
 2026-04-15 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlZsVXc0bEJyTFU2LVV1dzF4NGVWNTNsUDY2N01tTFhKalZGaXVUUG5tU2E4cjltbjYyM3ZsaWl2WDdOenpoRXhxUnRXNTFMWUlpWERsV1BkWFhnNHlCTHNra3RQdHhKS1JOdnRYSWJueU9ndWdjX3dHWXh3S2xhdG5vRGZoVXpmTUZZSjdJYVQ3WHFWVW5TTkN4TFJYbUxFSGVlYkhDeF9IeW9GN0RXT05jd3VPLVk?oc=5)
-
----
-
-### [Fachgesellschaft empfiehlt Dengue-Impfung auch für Reisende ohne vorangegangene Denguefieber-Infektion - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMigAJBVV95cUxOeVJPYXQ0SjRNYmJjWk1iTE9FMlZsUTR3aGxLWHNiaDFEalJ3Z3pkaDFRVXhHWF82ZTNNRm5MRzdub1RodmVoR2otdnhudUU0SDRYQWJyMUI3TEt5TkdQZS1XMUliQ1AteTREVjdVMEVjRVlZbnlMZDZvU0gtY1NEYldXb0ZpcmM0SHREemwxSENCQVRnZHotcmpvd1VWbDFGejJ4eWJOelJlZGZPU0EzclQzN0VUZ3dMaExPMEVySkVHcnhsNnhqaXU3SkZkR19ET1M0N1ZnQlowdk1LMFpfQXM4bElpYW1oX2tLM2tCblIzQWFrQVNWYzdaZjNOMXBJ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">AF</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMigAJBVV95cUxOeVJPYXQ0SjRNYmJjWk1iTE9FMlZsUTR3aGxLWHNiaDFEalJ3Z3pkaDFRVXhHWF82ZTNNRm5MRzdub1RodmVoR2otdnhudUU0SDRYQWJyMUI3TEt5TkdQZS1XMUliQ1AteTREVjdVMEVjRVlZbnlMZDZvU0gtY1NEYldXb0ZpcmM0SHREemwxSENCQVRnZHotcmpvd1VWbDFGejJ4eWJOelJlZGZPU0EzclQzN0VUZ3dMaExPMEVySkVHcnhsNnhqaXU3SkZkR19ET1M0N1ZnQlowdk1LMFpfQXM4bElpYW1oX2tLM2tCblIzQWFrQVNWYzdaZjNOMXBJ?oc=5)
+來源：[TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXdqUFJwcXY2djI1Tml5Q3o4UldJVFYzem9QUTJSSy13ZUY5UXB4eEdQY2tIc1VUVjBsbWt6WGNDVmpJQ1FGVDBTb2JOV2JkWWt4Wi1tTEFpVTZ3QTF1MGdOT2hJeHJERlFIaWdiaERXVEcwbVpCc2J5bUpVNG9GSDZwVlBVOFlRR25mT1VuczFWc1YtbXIwY2Q3aTJSemN5LXc?oc=5)
 
 ---
 
@@ -81,6 +97,14 @@ permalink: /news/aripiprazole/
 2026-04-15 <span class="news-indication-tag">AF</span>
 
 來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTR5eko5NzFIalcyU0xwRXNaOWFNWUlCczNHbGw2STI4Z1JxVW5Kcl9vLTJIeGRjU3VKNVFqUWRVVmdkZkNLZUMxa21EajdZTFY1amUwcldFTjBZWTRKTF83bGViSDJtTjVJRVVSUmNKdUFud3M1NTNvQWxUdUd3M1ZQSFVtb0F5elRKTA?oc=5)
+
+---
+
+### [Burundi, malattia misteriosa provoca cinque morti](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
+
+2026-04-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
 
 ---
 
@@ -148,7 +172,7 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Bird flu outbreak near Gainsborough leads to imposed cull](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
+### [Bird flu outbreak leads to imposed cull](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
 
 2026-04-14 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
@@ -169,14 +193,6 @@ permalink: /news/aripiprazole/
 2026-04-14 <span class="news-indication-tag">AF</span>
 
 來源：[Diario AS](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVnpndFZxNVNTSXhTbEZTUGdEek1Ea3NNc1JCcWRlVEh6dU5NaTdiNW5aLUJDOWhzM3lpQU9oSnRVbmVOb204Z1hiQ2ZLei1oeHF4NldaQi1MeEhyV2xoZU0xTS0xSmN5RFY2UVV1N3VZUk1lYmZ1VmhKMkRCUVFEQTVnQUNFRzVvcUpCZG9tQjJGZzloZm9QTDJVVkhGcFQ5SlJ6THd2c2RwRWFObVZTMGo1dWJYU3VGWGQ2dE13TXB2dS1HYzczTUloRnp1YVRiMXNxZDRvUUY4dFhGYzVXSXdGNkl6YURGVUFVWFJ2NTk2UdIBhgJBVV95cUxQYm1FVk1nRDFTVEljNncyZjhlY2xTV3pwSXpMeWFnVzk0QURMRmd1bHQzdmVvbGJ6ME9UcGdwRkxYTzRCMDlRazZzS3cyTmRYcGdoT2s5Z0VJRDJPVFc3ZWVkNGN0SWFmYmZZeUE4MTFSbmVxWHlqNUJheFZwekZydThIWVNEUkZnN0RZd2ZuWUJocmc0RTgwN0VzX2h6azg3ZnRSZWpJZzJrS0k4SzJVZnRDWEV1UDhyZm9DQll2OUtPZF9QYzMyYm1uNVRlMDdtTElRb1ZJTHMweF90ODFjeUk1NV8xX0ZKVEpnN2ZreXBLU2dDUWJKZGxTN2hVQzBFZ0wwdi1n?oc=5)
-
----
-
-### [Worrying new side effect from smoking cannabis discovered in groundbreaking study](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
-
-2026-04-14 <span class="news-indication-tag">AF</span>
-
-來源：[ladbible.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5)
 
 ---
 
@@ -214,33 +230,9 @@ permalink: /news/aripiprazole/
 
 ### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests | Health - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
-2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
-
----
-
-### [Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueTMtVnNCRlBSbHdUSGVfYkExS1lsbGhGLVN4SmszLTZnZFZSb3JGemdXWVhNMmNBT3FJSFVhX1BoSWhoalA5VmJ3MnlqZ2VCT3JmRm1WMGRfX3k5?oc=5)
-
-2026-04-13 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueTMtVnNCRlBSbHdUSGVfYkExS1lsbGhGLVN4SmszLTZnZFZSb3JGemdXWVhNMmNBT3FJSFVhX1BoSWhoalA5VmJ3MnlqZ2VCT3JmRm1WMGRfX3k5?oc=5)
-
----
-
-### [Sam Vanderpump: ‘Most liver transplant patients are over 60… I’m not even 30’ - The Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdG1Cbnd1VjE1TDN0bXpXSUxMank5UDQ1RGxTVjFvVDRRWDczV1k0OWx4NkdwN1VsdTFEWHV3aHpObVhkUXR3ZmEtV1pQdWFkUlJKTVZrSVVGbjlYcWdDU0gtQ0FMakRJVVN0bFB5WFVrdW5SVks2aGpELXpkb0V5TDE5dXdWQ0czREkyWmNZOGlKbHpkcG9CODVaOWlRbTBSNnM4dFlWdFQwbEJKMktxTXVGSk1OSUpldVZ2WlhzRWFTbWFP?oc=5)
-
-2026-04-13 <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdG1Cbnd1VjE1TDN0bXpXSUxMank5UDQ1RGxTVjFvVDRRWDczV1k0OWx4NkdwN1VsdTFEWHV3aHpObVhkUXR3ZmEtV1pQdWFkUlJKTVZrSVVGbjlYcWdDU0gtQ0FMakRJVVN0bFB5WFVrdW5SVks2aGpELXpkb0V5TDE5dXdWQ0czREkyWmNZOGlKbHpkcG9CODVaOWlRbTBSNnM4dFlWdFQwbEJKMktxTXVGSk1OSUpldVZ2WlhzRWFTbWFP?oc=5)
-
----
-
-### [«Donna affetta da tre rare malattie autoimmuni guarita con una nuova terapia, sintomi spariti e non ha bisogno di assumere farmaci» - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFN1dkRQTVlOZFFNTGh0SG13YXFJSGlGSDFaR193dDNuaHpJbmxKUmVpMDgxbjRfRjRpWXJneWNyZ0U1YW15WEdtd2JvZ2RCck9DQVFlbF8xYlQ4b1lKS0lNdHpWdEpvZEdfY1lmdVBiSWwwNHl2TVVvdnk1ZHVEMkdfQUZWT2pKRElWLVd1Z094T0JmMXBzVktJVmVXUTFhV3JGakFnSGExeHhrTEHSAasBQVVfeXFMUDdkSWtUQUMwclk5Y21qbE45aVR1b2JMd3ZSZlBRRzdoM0FLTmk1dGpoeVBYcXFnbEVMbnVOWGxFUFZiM1dwUHl5TXVjcEdNT3JOd2xlNzN3NVVMSGRiZVQxcXFwaHJ3Q3hFVzJJcU5PMDRqVU1YM0JTbUxRbVQ5MWFGbkw2UVJTR3BodGlFcnRvREVmbGg0WGNiVm5VbGI0MDBOc0wyZkwzMkRR?oc=5)
-
-2026-04-13 <span class="news-indication-tag">AF</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFN1dkRQTVlOZFFNTGh0SG13YXFJSGlGSDFaR193dDNuaHpJbmxKUmVpMDgxbjRfRjRpWXJneWNyZ0U1YW15WEdtd2JvZ2RCck9DQVFlbF8xYlQ4b1lKS0lNdHpWdEpvZEdfY1lmdVBiSWwwNHl2TVVvdnk1ZHVEMkdfQUZWT2pKRElWLVd1Z094T0JmMXBzVktJVmVXUTFhV3JGakFnSGExeHhrTEHSAasBQVVfeXFMUDdkSWtUQUMwclk5Y21qbE45aVR1b2JMd3ZSZlBRRzdoM0FLTmk1dGpoeVBYcXFnbEVMbnVOWGxFUFZiM1dwUHl5TXVjcEdNT3JOd2xlNzN3NVVMSGRiZVQxcXFwaHJ3Q3hFVzJJcU5PMDRqVU1YM0JTbUxRbVQ5MWFGbkw2UVJTR3BodGlFcnRvREVmbGg0WGNiVm5VbGI0MDBOc0wyZkwzMkRR?oc=5)
 
 ---
 

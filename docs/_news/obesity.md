@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "Fettleibigkeit（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
+description: "Fettleibigkeit（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# Fettleibigkeit（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Fettleibigkeit（obesity） 有什麼相關新聞？">
+<strong>Fettleibigkeit（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Fettleibigkeit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,21 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（8 則）
-
-### [La semaglutida demuestra en un nuevo estudio eficacia frente a la enfermedad hepática metabólica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
-
-2026-04-15
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [OECD-Studie: Fettleibigkeit macht Gesundheitsfortschritte zunichte – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
 
 2026-04-15
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9hWElGbENCNG9zWkxwV2F5LVY2SHpOejFWQmpaU2dhZnQ5R0phR0dNcURwUDd3dHdZUFd6SnhQZExGS2JaRkVrclFMTzNSMkZiNHM3b2FXX3BlSHR6UGM2RllmTzV4N3RpazN1VTk2RWFvMHlRanZ5R0pRbFVKQmdmcHN3T3QzVHA3MzBfVmpCSG4yOE9xaVhSWEROTmppWHhHS0xaQ1FvUXpPSTVaUjl4VzhSTl9xenRkcFhJcUI5cEZVOW5ncnJnbWFqdUE?oc=5)
+
+---
+
+### [Estudio coliderado entre el CiMUS de Galicia y Universidad de Toronto reporta beneficios para el hígado de fármacos basados en GLP-1 - La Web de la Salud](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXFGRDFoM0pKT0ctbmRXbHpHSmhtSWxrUDNsamExakhLNE45SzE5WldFNHgxakhZOGQ0N0Fwc2VEZG12TElzVXZGeklHakZnaG1pNDljazdGX2pyd0tkVFlhTG5YYjR0MDhnTTA1cHJXRTZ1eGM1UHdiOHVfc1AtQmMzaWZybm9QemFBUl9acXlDRWtzTXlRMWdMR1hjeVdza2xGd2VVOEJibklxR0FnZm1kQzJqNzVDWldwb1dMTjkzbnYtU3JZM2pqenZWZGdUemdfenNQMFVvVE5rT2FtbkhGelBKNFNSeWF0c2JDZmZIQQ?oc=5)
+
+2026-04-15
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeXFGRDFoM0pKT0ctbmRXbHpHSmhtSWxrUDNsamExakhLNE45SzE5WldFNHgxakhZOGQ0N0Fwc2VEZG12TElzVXZGeklHakZnaG1pNDljazdGX2pyd0tkVFlhTG5YYjR0MDhnTTA1cHJXRTZ1eGM1UHdiOHVfc1AtQmMzaWZybm9QemFBUl9acXlDRWtzTXlRMWdMR1hjeVdza2xGd2VVOEJibklxR0FnZm1kQzJqNzVDWldwb1dMTjkzbnYtU3JZM2pqenZWZGdUemdfenNQMFVvVE5rT2FtbkhGelBKNFNSeWF0c2JDZmZIQQ?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/obesity/
 2026-04-15
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
----
-
-### [La obesidad puede comprometer la eficacia de las vacunas frente a bacterias - Gaceta Médica](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFYaU5LR0Y0REN0UF9SYUhPdDhKTFpkVFctU2NPREtQZ0pFYkpPLVh5WlRhTFRPSFpaM2oxb2huNkhxTVM2VkNYVUpLcU4wZnc4eGNlNC1oZ0RGZlo1S1AwRWZXcFNScUZqeHoyWWhMUFlldnhwdEliWmRFd3R1N1gyeGQwR0ctTUV4Vl9tTHZtUGU5RzNyQWpn?oc=5)
-
-2026-04-15
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFYaU5LR0Y0REN0UF9SYUhPdDhKTFpkVFctU2NPREtQZ0pFYkpPLVh5WlRhTFRPSFpaM2oxb2huNkhxTVM2VkNYVUpLcU4wZnc4eGNlNC1oZ0RGZlo1S1AwRWZXcFNScUZqeHoyWWhMUFlldnhwdEliWmRFd3R1N1gyeGQwR0ctTUV4Vl9tTHZtUGU5RzNyQWpn?oc=5)
 
 ---
 

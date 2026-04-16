@@ -14,7 +14,7 @@ permalink: /news/sufentanil-citrate/
 ---
 
 <p class="key-answer" data-question="Sufentanil Citrate 有什麼相關新聞？">
-<strong>Sufentanil Citrate</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sufentanil Citrate</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ permalink: /news/sufentanil-citrate/
 <p><a href="{{ '/drugs/sufentanil-citrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（22 則）
+
+### [Krebs: Wie Entzündungen den Darm noch Jahre später anfälliger machen können](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NVR1E5Y05hYktPVmdfRC1QUVBFNnY0bVdLYmh5cXdERDNNSjNPNENVWEtlNzNGanhJa0M4UHozV3RLUUp3cDF6bFdVMjlpOXktQm9iRGpmQklhLTdMWENMWmVhc0Q4NVNQY2FPZGJUZy1mU1ZicXlFTk9lSHc5YjZXemNoS3p1elVOb1dnY2ZQS082eW5TUDlrTTM5RmJDVXpOYkRiNmFPa25YX0RneTFpWV95MGVtcW10VzhzUGl1VEU3ZDdiNjFsalhFMXV6Z2NGVXUxdk56YldzT3JZ?oc=5)
+
+2026-04-15 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NVR1E5Y05hYktPVmdfRC1QUVBFNnY0bVdLYmh5cXdERDNNSjNPNENVWEtlNzNGanhJa0M4UHozV3RLUUp3cDF6bFdVMjlpOXktQm9iRGpmQklhLTdMWENMWmVhc0Q4NVNQY2FPZGJUZy1mU1ZicXlFTk9lSHc5YjZXemNoS3p1elVOb1dnY2ZQS082eW5TUDlrTTM5RmJDVXpOYkRiNmFPa25YX0RneTFpWV95MGVtcW10VzhzUGl1VEU3ZDdiNjFsalhFMXV6Z2NGVXUxdk56YldzT3JZ?oc=5)
+
+---
+
+### [Tumour promotion through the lens of evolution](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wbENJNGE4RFltNE14bU1VeFd0bktLUlFoaWdzTndKUS1LSTFwX3VFcVYxbkJZUDBYRURfWjEyYXJmUkFyTjZyNzAyWllxT05RSFh0V29UXzhQUk1GeTFV?oc=5)
+
+2026-04-15 <span class="news-indication-tag">tumour</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wbENJNGE4RFltNE14bU1VeFd0bktLUlFoaWdzTndKUS1LSTFwX3VFcVYxbkJZUDBYRURfWjEyYXJmUkFyTjZyNzAyWllxT05RSFh0V29UXzhQUk1GeTFV?oc=5)
+
+---
+
+### [Death of Surrey man prompts skin cancer healthcare concerns](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fREgySjYtQnZnS2RkeWpPc3N5MmRueVZzYjJ5a1lyUGFvdi1uMC1fQkNkMHRvUnFfSkdDQXBtQWNCQVV4UWRwX2l0QWx5YU5lNDI0ei1MZWFqRE0y?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fREgySjYtQnZnS2RkeWpPc3N5MmRueVZzYjJ5a1lyUGFvdi1uMC1fQkNkMHRvUnFfSkdDQXBtQWNCQVV4UWRwX2l0QWx5YU5lNDI0ei1MZWFqRE0y?oc=5)
+
+---
+
+### [« En stade 1, on a plus de 90 % de probabilité de guérison » : Mieux dépister le cancer du poumon pour mieux guérir - La Tribune](https://news.google.com/rss/articles/CBMikgJBVV95cUxPejdLSHVQTnFVT1hYOU5fSVVoaXBLUUY5cEtrdXA5SkxFejhPNm9MNkF2TmNlYnc1dmxqLWE3djliX3UzN1MtOVlPQ0lYRlJjb0xvZXIyZ2JIbTZNb1BEUjUyYTRDQjhyOXdjTUlJMDQyc1g0eHB3OTRrSGtjZXNjbDdJd0ZPRlJFcEgzbE1nMDMzMHFCN3JUMmdDTGRHUElyTW52TVZkRDlVT2Fqb19kc0ZaRXVoOFkxVHBXVlhhMEFWU090ZE5xTGljcjMyS2F2Q3plX2xJRTVXb2lWTFVESTZmakxaMW0xSkdVajdwbjJKeTBxeGxXdXEzY2wyVUN1VFdNMVlZV0FiSldHMzdPZkR3?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cancer</span>
+
+來源：[La Tribune](https://news.google.com/rss/articles/CBMikgJBVV95cUxPejdLSHVQTnFVT1hYOU5fSVVoaXBLUUY5cEtrdXA5SkxFejhPNm9MNkF2TmNlYnc1dmxqLWE3djliX3UzN1MtOVlPQ0lYRlJjb0xvZXIyZ2JIbTZNb1BEUjUyYTRDQjhyOXdjTUlJMDQyc1g0eHB3OTRrSGtjZXNjbDdJd0ZPRlJFcEgzbE1nMDMzMHFCN3JUMmdDTGRHUElyTW52TVZkRDlVT2Fqb19kc0ZaRXVoOFkxVHBXVlhhMEFWU090ZE5xTGljcjMyS2F2Q3plX2xJRTVXb2lWTFVESTZmakxaMW0xSkdVajdwbjJKeTBxeGxXdXEzY2wyVUN1VFdNMVlZV0FiSldHMzdPZkR3?oc=5)
+
+---
 
 ### [‘It was easy to spiral into some dark moments’: NI mum’s shock after becoming fourth in family to develop breast cancer - Belfast Telegraph](https://news.google.com/rss/articles/CBMiggJBVV95cUxOeDlLYURwZmktX3doVy0yQmZLNXBEVW1OS2hpSEtrVDdYMURGek44OFEyZC05czRGWUF5MHlCWVBaQ3BKZWhSNGE0endrTXpPSW1zaTRmeVhiY3NPZVk2N05rYWV1N280TnVfekxxOWVENFQ2b1Y4MTNaRDUzR09UZHNGckpSR2pZc3RKMS1yY3RZMVh3MktIRXdRc0c3QlhldG5RZkx5cVhsTFdOLXNqRDZINS1KcDBEcjkxbWY0MHJXdFZ2aXpEX2h0ZUtnZkRSdzlhM0dudDRqUnZ6ams3UzZ0M3BDTkxjR05DRWpvN1Q2LWVHRXZkbDhrazZfU0s2ckE?oc=5)
 
@@ -76,11 +108,11 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Analizan el impacto de los principales ácidos grasos de la dieta en el desarrollo de la diabetes mellitus tipo 2 - El médico interactivo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHVSaUtCRzJUdTlvLTd4ajhEejBWTk1wNUQwaFQyY3NqY1Z4ZFoya19uX29GYlpzQm8xY2ZkRFBPY093NmVwUnpWdzJCLU81NHRrdXZObGVSUHlvb0lydEh6TjZoaTlUTTlMWGdTbm1YYkstWU50aW1PVUpmYnV0N2stdEhucUxWeVc3YVByT0hzVEpWZ1VrZU5LRFVSSUpTcFBZblRLMXNOSUFIX2g5Z1hqX0VDRWppb1Npak9rbDVFc0VrOHFyNkFtSktuRG5wT01LSUVtSWhvbHNHWXc?oc=5)
+### [Relacionan el ácido palmítico con peor respuesta a la insulina y el oleico podría ejercer un efecto protector](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3R0OHNoX1Y5VEtDcXY2RUg4eC1Hem1CME1jdGdFblJNQVVReU5CQVYzM0tRYWZma1J1T2RFaWl0bWVrNWVycnMzX2ducldoMXlGUFBrT3d0R3lScm1EZ2ZGVnNqOHNfcVBNLW5LS1FTUEpXSlpaTE5PQVlUcWw2TlB6UUNpOVBkVmlFVG90YVNWbDRic1dLMVkya0JueUdGMlp3cnpxQ2Faam0ydEFPenk5MTB1MUNTdXg3MTgwaEowMjdvTlYtYzlTQmtKRThFRnNMY1hseUhpbmPSAeABQVVfeXFMT3V2VFB2ZGs3dlctcFRZZXBSMTRCdENvNzFpNWQtb29jVGQ4OWFpWTFSMGduYVlTSUJrOFhNNWg5RXBUSGZCcm0wcFI3Y21HZzhVa2wyRTFZQWRuR2VmRDVXMWJFSUxjbldhTnBINDZDdG1MZ0ZwUzJLUHlSSW5GUFpiekY3WmdMajFkWGxpUFBDVHRSV3U1SjUyZjFDMlFpNWpuSktmdWVvbUh0dWkxVXRBNFhPbGFTVTN6VzBDSUE2YU95dF84c3JLWGI1ajFQWU11UWZoNkNNamZxNW1ONE8?oc=5)
 
 2026-04-15 <span class="news-indication-tag">diabetes mellitus</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHVSaUtCRzJUdTlvLTd4ajhEejBWTk1wNUQwaFQyY3NqY1Z4ZFoya19uX29GYlpzQm8xY2ZkRFBPY093NmVwUnpWdzJCLU81NHRrdXZObGVSUHlvb0lydEh6TjZoaTlUTTlMWGdTbm1YYkstWU50aW1PVUpmYnV0N2stdEhucUxWeVc3YVByT0hzVEpWZ1VrZU5LRFVSSUpTcFBZblRLMXNOSUFIX2g5Z1hqX0VDRWppb1Npak9rbDVFc0VrOHFyNkFtSktuRG5wT01LSUVtSWhvbHNHWXc?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3R0OHNoX1Y5VEtDcXY2RUg4eC1Hem1CME1jdGdFblJNQVVReU5CQVYzM0tRYWZma1J1T2RFaWl0bWVrNWVycnMzX2ducldoMXlGUFBrT3d0R3lScm1EZ2ZGVnNqOHNfcVBNLW5LS1FTUEpXSlpaTE5PQVlUcWw2TlB6UUNpOVBkVmlFVG90YVNWbDRic1dLMVkya0JueUdGMlp3cnpxQ2Faam0ydEFPenk5MTB1MUNTdXg3MTgwaEowMjdvTlYtYzlTQmtKRThFRnNMY1hseUhpbmPSAeABQVVfeXFMT3V2VFB2ZGs3dlctcFRZZXBSMTRCdENvNzFpNWQtb29jVGQ4OWFpWTFSMGduYVlTSUJrOFhNNWg5RXBUSGZCcm0wcFI3Y21HZzhVa2wyRTFZQWRuR2VmRDVXMWJFSUxjbldhTnBINDZDdG1MZ0ZwUzJLUHlSSW5GUFpiekY3WmdMajFkWGxpUFBDVHRSV3U1SjUyZjFDMlFpNWpuSktmdWVvbUh0dWkxVXRBNFhPbGFTVTN6VzBDSUE2YU95dF84c3JLWGI1ajFQWU11UWZoNkNNamZxNW1ONE8?oc=5)
 
 ---
 
@@ -97,14 +129,6 @@ permalink: /news/sufentanil-citrate/
 2026-04-15 <span class="news-indication-tag">Krebs</span>
 
 來源：[Jüdische Allgemeine](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU25DWXZRRW4xalI4WUFVMkJ3WThpZzFJdkpDZ01UckpTWjlod0M1NGh6bXB5Q3JyUjlDSmRma0ZVdy10dFhXVlBIU1ZGcy1QWk9fVUFuNEZ6N0tSQnFaZG4xTExMa09VSXdURzF6NVlDQnhYY0o4eHEzOWZyUExURmxZMUFXb2FUM2QyZWpkNFpNRmdmUFNiQVA4OWRXNHA1SjMyeGk5dzRweGVkOXZYZWxZUjdaV1F3anBONGRKWExyeE0?oc=5)
-
----
-
-### [Diabete tipo 2, verso nuova classificazione: cosa cambia - Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUtsVG50TzFQUWdEaHdLOGlyRmQ4bzl0QnRrUVZfLVhVRzRIVlVnNldCYzZhaEtQOTR2OFBvdUVmdkRqMExDU1JfeEJjTVIxNjFPZ0JKd3plRFBrdEpKaFJYNVBMUVpBZkt5M2diS1lDLVQ2THJtRGtZRGJrZ0RVQUhfdUJOTHRJRlJJdlRpcw?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabete</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUtsVG50TzFQUWdEaHdLOGlyRmQ4bzl0QnRrUVZfLVhVRzRIVlVnNldCYzZhaEtQOTR2OFBvdUVmdkRqMExDU1JfeEJjTVIxNjFPZ0JKd3plRFBrdEpKaFJYNVBMUVpBZkt5M2diS1lDLVQ2THJtRGtZRGJrZ0RVQUhfdUJOTHRJRlJJdlRpcw?oc=5)
 
 ---
 
@@ -132,6 +156,14 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
+### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabete</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
+
+---
+
 ### [Tumore al pancreas, un farmaco sperimentale raddoppia la sopravvivenza](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXNCeXdJV1VyT19jY2VGRF85QVVLUVIzcktQVENkZ0I4WjNCOU1KZkZkMkI0bHRqWHE2NUhYMWRycHRRNVhQZm1BbWUzd2E4alV2aGptQThVMXVZZnZ6Z2pOVURBM2dEeGdhWU45TGotazg2b3R5RlZZS3VDNEpDakVhU0Z5Um53MGxKaElNRE12RUN5ZWVZaXdrZmZQNEgtWkM3MXg1Zmx3RkxtaWxzZ2ZFNzd4WWlQaXJLbWFoc0t6ZnI0cGhhV3VLdkt6dGJvY21PamlORmo4b0JoUjU4WWFtUXZad9IB6wFBVV95cUxNT013VnJrWHl2YllqcGk5cmpkXzZ0U3VOT0c3ejNNWjU2ejZkcjFweFliclMzTnFHMElURDY2bnVVbkFmc01BcEZGUEx6RUx2aEZ6c0ZiRlkwRWRwRThXLUdBeDZlR3BHLTcyMXozYnU2a01qMFFyRW56Sk1OSmdjT1M2TkJDUHVOLVpYU1ZPdFV3S2pKU2Z6cEV2UFNyQ0NJZjl0NjhJNkhZYndXQ01KQWU3dFJRZjNNVHNiOGtwYmt1ekp2bzdGOHRWZnNoX1FBX29mX0tmZ1o5eUhfbzdnbzZ0NGwwRVN3bFlF?oc=5)
 
 2026-04-15 <span class="news-indication-tag">tumor</span>
@@ -145,14 +177,6 @@ permalink: /news/sufentanil-citrate/
 2026-04-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3lBc2xBS2lZWmJkSGNHcXJjeDJBUjRxNHUtOXdVdENCRGE0ZFdWTExQYU9EWFpLa1VCRGtXZ3h3WVhQeXAtb1g0TnRrdkdYUDFFcUVBWHQ3RGlva1VIN1hscWREamFQVzIzVURfODNYUk9qODhpV1JFWEo4VG55LVE5bkF6bjVKeTB0aEViUlZZbGRWMHg2bVAtRmMwREpLVExF?oc=5)
-
----
-
-### [Le cancer, "maladie du siècle" : 14.000 cancers détectés en une année dans l’ex-Poitou-Charentes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOW9Xdk0yTzI4ZHQzSjRVMW8tTlMxUFJnQ1pTSUEwMklXU0xZd210eDJCLTVTSVBwbmtUN1VJbFhvbEVNRWNGRjc3X1ZlTXZQaHVyNnZGZ2pRRy1mMkNiZkpBRFd5X3VFdzlyaG9MS3F5NTdLVUl2NWRwSWxlUlZwbHZPZEV2U1kzRHowVVM1MEVtVmc4RmlfQVBQMzNjQUVrRWhmN1lBTnBZd2NPaWlSdEl6c1FUajRqa1lxcDdfLV94Mm5GVHM2QnNTQ1lfZzVRR2FmTXA1eVNURmdzTUJXQlI3ZDJvTUU?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span>
-
-來源：[lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOW9Xdk0yTzI4ZHQzSjRVMW8tTlMxUFJnQ1pTSUEwMklXU0xZd210eDJCLTVTSVBwbmtUN1VJbFhvbEVNRWNGRjc3X1ZlTXZQaHVyNnZGZ2pRRy1mMkNiZkpBRFd5X3VFdzlyaG9MS3F5NTdLVUl2NWRwSWxlUlZwbHZPZEV2U1kzRHowVVM1MEVtVmc4RmlfQVBQMzNjQUVrRWhmN1lBTnBZd2NPaWlSdEl6c1FUajRqa1lxcDdfLV94Mm5GVHM2QnNTQ1lfZzVRR2FmTXA1eVNURmdzTUJXQlI3ZDJvTUU?oc=5)
 
 ---
 
@@ -172,35 +196,11 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [À La Réunion, la mortalité recule en 2023, mais le cancer reste en tête](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZk1sazZMUXRlVVpMbldnREY4V1I4RTJENGh5cE9Fa2lkaVBDSjFKMm9IMGQzemtqRmozZU0xOVpuNUNUbEdKVU81WnVCSHB2NWtHaEJJdmNHdGJ2OHduRXpmb1dORG92ZUFBMGRSQTdISFpzWFdGbEZ2Q09sbDl3QVFnR2lJRUZhand3ZTJzQjFIcjV4RmRoM0JEWVY?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Zinfos974](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZk1sazZMUXRlVVpMbldnREY4V1I4RTJENGh5cE9Fa2lkaVBDSjFKMm9IMGQzemtqRmozZU0xOVpuNUNUbEdKVU81WnVCSHB2NWtHaEJJdmNHdGJ2OHduRXpmb1dORG92ZUFBMGRSQTdISFpzWFdGbEZ2Q09sbDl3QVFnR2lJRUZhand3ZTJzQjFIcjV4RmRoM0JEWVY?oc=5)
-
----
-
-### ["Es increíble, como ciencia ficción": los nuevos tratamientos con inmunoterapia que están eliminando el cáncer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
-
-2026-04-14 <span class="news-indication-tag">tumor</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
-
----
-
 ### [Tabac, alcool, vigilance et sexualité : le mariage protège-t-il du cancer ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
 
 2026-04-14 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
-
----
-
-### [Les scanners médicaux pourraient-ils augmenter le risque de cancer ? Ce que révèle une nouvelle étude - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPamZDLXdBaWpDZ2VieG5hMXh1V2tYUE9VdE9BSHdxTVRWMGd1M2lyQWlyNTROQnJUVllxcVhwNFV0VExndWVxUVNTRzBwZU9hMDRhM0NOVFIzbEpZTC1FejdHaEpNeFd0d1FOM3pWVHlyUE9BalhRWlpJRHJvYXh0RWlIaHgzc3RUSUU2U1lLdUlQR2R2OHI4dnV3OE1pU25na1JqN3VaZUZIVVprWE5IR0pwZzMteVlJXy0xVDNvRy14OFRkd2dVTkE3STRvdF9qbko2TlE0ajAzcWdtZUphMHlwVnhDc3N5TWViWnF3?oc=5)
-
-2026-04-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPamZDLXdBaWpDZ2VieG5hMXh1V2tYUE9VdE9BSHdxTVRWMGd1M2lyQWlyNTROQnJUVllxcVhwNFV0VExndWVxUVNTRzBwZU9hMDRhM0NOVFIzbEpZTC1FejdHaEpNeFd0d1FOM3pWVHlyUE9BalhRWlpJRHJvYXh0RWlIaHgzc3RUSUU2U1lLdUlQR2R2OHI4dnV3OE1pU25na1JqN3VaZUZIVVprWE5IR0pwZzMteVlJXy0xVDNvRy14OFRkd2dVTkE3STRvdF9qbko2TlE0ajAzcWdtZUphMHlwVnhDc3N5TWViWnF3?oc=5)
 
 ---
 
@@ -214,25 +214,9 @@ permalink: /news/sufentanil-citrate/
 
 ### [Almost 2bn to be affected by metabolic liver disease by 2050, study suggests | Health - The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
 
-2026-04-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-04-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlFFc1pvNmV2MFJaaGJfWXVqMEZWejBxWE4xQmZJdVRMcmswSWs1c2pwbHp4LUpFeG1LNHhTUzU3WDhINm9RMzRTSUpYVmlOaTJhTjQ5RTVVM05TZlhIMVcxSy1yTWRJSVhXdjFBVWFTY1FZdUg0bDNyUkVNYkJBYmxTRE01YnN0eWJoMVJYc2RFV3JyLXNiNEVIMnpwTWVLbGZxcjlOWUlrMjJaYWh4dVJJeHVKWWJ0NjRUdnE4Q3M?oc=5)
-
----
-
-### [Ernährungsmuster entscheidet über Diabetesrisiko](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Eb3p3alJUREliWTBNWkg2bmtqd2lNTXFnc1RjY2xvOFlKeVlGMVJmVG0zUlNaa2RQTjY3R3Y0SlpNUGVtcDBFZVYxUUI0QTlPNmlzSmwzNnI0ZVB5QWhkaFV1Z000dVFuOWdXTE9wcw?oc=5)
-
-2026-04-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[DiabSite](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Eb3p3alJUREliWTBNWkg2bmtqd2lNTXFnc1RjY2xvOFlKeVlGMVJmVG0zUlNaa2RQTjY3R3Y0SlpNUGVtcDBFZVYxUUI0QTlPNmlzSmwzNnI0ZVB5QWhkaFV1Z000dVFuOWdXTE9wcw?oc=5)
-
----
-
-### [Metformin als potenzieller Ersatz für Bewegung bei Prostatakrebs](https://news.google.com/rss/articles/CBMingFBVV95cUxQeVc2cWR5MnoxbU5mOXNUNjAxcWo4a3NsOWJyLWpDSUMzdngzU0lNdENMWkRCU2cwLWlWajJFM3VLcWltOHNlSUVYRm8wR0NuenJ0YVBjZDhsdzI0d2JzT2lERGRwS3R4bU95ZDVjbjZpY1lja2pyV2pWckJVN1hpR3JkOUpFZ0lleW1sYTB1TzRiVDc2R0RGSFdjeTU2UQ?oc=5)
-
-2026-04-13 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQeVc2cWR5MnoxbU5mOXNUNjAxcWo4a3NsOWJyLWpDSUMzdngzU0lNdENMWkRCU2cwLWlWajJFM3VLcWltOHNlSUVYRm8wR0NuenJ0YVBjZDhsdzI0d2JzT2lERGRwS3R4bU95ZDVjbjZpY1lja2pyV2pWckJVN1hpR3JkOUpFZ0lleW1sYTB1TzRiVDc2R0RGSFdjeTU2UQ?oc=5)
 
 ---
 
