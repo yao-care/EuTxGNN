@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sacubitril</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [La educación terapéutica es desigual en España - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRmZKNWt5Y0Z4bXVZVURNMmdvYU9uN2JrYktWTDJqUE9MVWt6cWZkTXFWRVF2U29BNy1heGFLLTBqZ3BYLU9zWFc3elVPYUU0eU81ZDdodW1PclR1c25PVEhZZmY1Zw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRmZKNWt5Y0Z4bXVZVURNMmdvYU9uN2JrYktWTDJqUE9MVWt6cWZkTXFWRVF2U29BNy1heGFLLTBqZ3BYLU9zWFc3elVPYUU0eU81ZDdodW1PclR1c25PVEhZZmY1Zw?oc=5)
+
+---
+
+### [Scientists Discover a Molecule That Targets Arthritis at Its Root, and Leaves the Rest of Your Body Alone - Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
+
+2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
+
+---
 
 ### [Relacionan el ácido palmítico con peor respuesta a la insulina y el oleico podría ejercer un efecto protector](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3R0OHNoX1Y5VEtDcXY2RUg4eC1Hem1CME1jdGdFblJNQVVReU5CQVYzM0tRYWZma1J1T2RFaWl0bWVrNWVycnMzX2ducldoMXlGUFBrT3d0R3lScm1EZ2ZGVnNqOHNfcVBNLW5LS1FTUEpXSlpaTE5PQVlUcWw2TlB6UUNpOVBkVmlFVG90YVNWbDRic1dLMVkya0JueUdGMlp3cnpxQ2Faam0ydEFPenk5MTB1MUNTdXg3MTgwaEowMjdvTlYtYzlTQmtKRThFRnNMY1hseUhpbmPSAeABQVVfeXFMT3V2VFB2ZGs3dlctcFRZZXBSMTRCdENvNzFpNWQtb29jVGQ4OWFpWTFSMGduYVlTSUJrOFhNNWg5RXBUSGZCcm0wcFI3Y21HZzhVa2wyRTFZQWRuR2VmRDVXMWJFSUxjbldhTnBINDZDdG1MZ0ZwUzJLUHlSSW5GUFpiekY3WmdMajFkWGxpUFBDVHRSV3U1SjUyZjFDMlFpNWpuSktmdWVvbUh0dWkxVXRBNFhPbGFTVTN6VzBDSUE2YU95dF84c3JLWGI1ajFQWU11UWZoNkNNamZxNW1ONE8?oc=5)
 

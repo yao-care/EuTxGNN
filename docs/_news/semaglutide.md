@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Lomagna si cura: il 16 focus sull’obesità con il dottor Jacob Panzeri - Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
+
+2026-04-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
+
+---
+
+### [La educación terapéutica es desigual en España - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRmZKNWt5Y0Z4bXVZVURNMmdvYU9uN2JrYktWTDJqUE9MVWt6cWZkTXFWRVF2U29BNy1heGFLLTBqZ3BYLU9zWFc3elVPYUU0eU81ZDdodW1PclR1c25PVEhZZmY1Zw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRmZKNWt5Y0Z4bXVZVURNMmdvYU9uN2JrYktWTDJqUE9MVWt6cWZkTXFWRVF2U29BNy1heGFLLTBqZ3BYLU9zWFc3elVPYUU0eU81ZDdodW1PclR1c25PVEhZZmY1Zw?oc=5)
+
+---
 
 ### [Relacionan el ácido palmítico con peor respuesta a la insulina y el oleico podría ejercer un efecto protector](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3R0OHNoX1Y5VEtDcXY2RUg4eC1Hem1CME1jdGdFblJNQVVReU5CQVYzM0tRYWZma1J1T2RFaWl0bWVrNWVycnMzX2ducldoMXlGUFBrT3d0R3lScm1EZ2ZGVnNqOHNfcVBNLW5LS1FTUEpXSlpaTE5PQVlUcWw2TlB6UUNpOVBkVmlFVG90YVNWbDRic1dLMVkya0JueUdGMlp3cnpxQ2Faam0ydEFPenk5MTB1MUNTdXg3MTgwaEowMjdvTlYtYzlTQmtKRThFRnNMY1hseUhpbmPSAeABQVVfeXFMT3V2VFB2ZGs3dlctcFRZZXBSMTRCdENvNzFpNWQtb29jVGQ4OWFpWTFSMGduYVlTSUJrOFhNNWg5RXBUSGZCcm0wcFI3Y21HZzhVa2wyRTFZQWRuR2VmRDVXMWJFSUxjbldhTnBINDZDdG1MZ0ZwUzJLUHlSSW5GUFpiekY3WmdMajFkWGxpUFBDVHRSV3U1SjUyZjFDMlFpNWpuSktmdWVvbUh0dWkxVXRBNFhPbGFTVTN6VzBDSUE2YU95dF84c3JLWGI1ajFQWU11UWZoNkNNamZxNW1ONE8?oc=5)
 
@@ -97,14 +113,6 @@ permalink: /news/semaglutide/
 2026-04-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3lBc2xBS2lZWmJkSGNHcXJjeDJBUjRxNHUtOXdVdENCRGE0ZFdWTExQYU9EWFpLa1VCRGtXZ3h3WVhQeXAtb1g0TnRrdkdYUDFFcUVBWHQ3RGlva1VIN1hscWREamFQVzIzVURfODNYUk9qODhpV1JFWEo4VG55LVE5bkF6bjVKeTB0aEViUlZZbGRWMHg2bVAtRmMwREpLVExF?oc=5)
-
----
-
-### [What a dietitian would eat in a day on GLP-1s to get enough protein, fiber, and nutrients - Business Insider](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmtRLVR1N3JfeEZsTmhZeThwdVU0OEY4ZEMzTk41MlQxbnEwLXczQ1hQN01CVXF5MEVOdVNfclI0a0JnTWNOdTl5ZFZzcDRhZGM1UHhXRXA0NnNhWUFvcEF6bkRSUmwzbUtOTW1TUkdVUm5vSXBCOXltTUlna1VvWG55WV9ER0VjaDI2UHFMd0xjSXNy?oc=5)
-
-2026-04-14 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Business Insider](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmtRLVR1N3JfeEZsTmhZeThwdVU0OEY4ZEMzTk41MlQxbnEwLXczQ1hQN01CVXF5MEVOdVNfclI0a0JnTWNOdTl5ZFZzcDRhZGM1UHhXRXA0NnNhWUFvcEF6bkRSUmwzbUtOTW1TUkdVUm5vSXBCOXltTUlna1VvWG55WV9ER0VjaDI2UHFMd0xjSXNy?oc=5)
 
 ---
 

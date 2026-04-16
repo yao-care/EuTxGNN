@@ -14,7 +14,7 @@ permalink: /news/concizumab/
 ---
 
 <p class="key-answer" data-question="Concizumab 有什麼相關新聞？">
-<strong>Concizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Concizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/concizumab/
 <p><a href="{{ '/drugs/concizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [La educación terapéutica es desigual en España - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRmZKNWt5Y0Z4bXVZVURNMmdvYU9uN2JrYktWTDJqUE9MVWt6cWZkTXFWRVF2U29BNy1heGFLLTBqZ3BYLU9zWFc3elVPYUU0eU81ZDdodW1PclR1c25PVEhZZmY1Zw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRmZKNWt5Y0Z4bXVZVURNMmdvYU9uN2JrYktWTDJqUE9MVWt6cWZkTXFWRVF2U29BNy1heGFLLTBqZ3BYLU9zWFc3elVPYUU0eU81ZDdodW1PclR1c25PVEhZZmY1Zw?oc=5)
+
+---
 
 ### [Farmacéuticos subrayan un cambio revolucionario en la hemofilia que prioriza la comodidad del paciente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzdnR3JNU3ZvTUJkYm5KaWh2dV9UZ2VxVW4yVUlldTMxblJnbTlFVnIwU1VOQUNvZ0c1cHVKSWI4X2xJSE9Gb2kwVWlyOEtlLXdYUEtaaDBmR04weVNUSXBualBjazNPek94UEQ0N1B1SFVYZEtudHF0bHVLT19OU0lETWp2NGxkTzh5RllrRDZOcUVCWWRzZl9LTnNFamNDamNkSjhaRGl4bTZuWC13ZDEteDB1OGdEQWJkcDVtckpibVNLR1hick5HOXhYcnFqM0E?oc=5)
 

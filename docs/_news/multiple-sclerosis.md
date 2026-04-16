@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。5 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。7 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>5 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>7 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,23 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Do these two easy things to make your daily walk better for your health - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTQ1WUJzcllESlp0UVd3YTZJQ3lrbmZmekFIWHB2SXRycFZoTEJEWnhuT1N5YUJKU3BidWtHS01Qakl6U1FlT3BiUWF2SjRzbFRDb1N3NHVScWNKdkpDNmVQLVlfLWlCWFVlXzFHYXUwTWFNYjdqbUVBT1d4dnRPc2x6UG5vTTluaVFhQkpoMkdoZHI0TWcxWVJEWDlSQlhF?oc=5)
+
+2026-04-16
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTQ1WUJzcllESlp0UVd3YTZJQ3lrbmZmekFIWHB2SXRycFZoTEJEWnhuT1N5YUJKU3BidWtHS01Qakl6U1FlT3BiUWF2SjRzbFRDb1N3NHVScWNKdkpDNmVQLVlfLWlCWFVlXzFHYXUwTWFNYjdqbUVBT1d4dnRPc2x6UG5vTTluaVFhQkpoMkdoZHI0TWcxWVJEWDlSQlhF?oc=5)
+
+---
+
+### [Die rezidivierende akute Pankreatitis bremsen](https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWI0dENHdG5zcUR4VUl3QnVlMUotZ2o4WHl2eFpRcXM1bDZfUUhpT241S0tjOUItdURFTWQ5TGJoLXdybXR4amRGeXVXZ21wTHpLZHBiaFdHN1g1ZHV2THZRVXZzSHBjOXpTRjhmV2lGeVFjUEw2VEJ2dTJ1WFNheENzdUNmQ3ZicGF5aGRkVE5TMnNRNVE?oc=5)
+
+2026-04-16
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWI0dENHdG5zcUR4VUl3QnVlMUotZ2o4WHl2eFpRcXM1bDZfUUhpT241S0tjOUItdURFTWQ5TGJoLXdybXR4amRGeXVXZ21wTHpLZHBiaFdHN1g1ZHV2THZRVXZzSHBjOXpTRjhmV2lGeVFjUEw2VEJ2dTJ1WFNheENzdUNmQ3ZicGF5aGRkVE5TMnNRNVE?oc=5)
+
+---
 
 ### [Demenz-Forschung: Gehirn schützt sich selbst gegen Alzheimer - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFFZnNoQmZZZ3gxVXVmeElGLWtPLUI3ZXdicnc3RHZWMHdwTnJSNGtkQjg2RlN1dTVMeW9vUUE5VVgzeTFmM3JUalpiVXNsa3UzUjEtVnlLemdSZ2hTNU05UGNkQnloOFBBUDRrYnNtU1pPdjlOaHVCSjdoTG0ySGN2R0hta2dKeHBYUGtZN21ER0p6Z0xvcTZPa0FGNzM4Vm0wNFR3SmxWTzhiTGNlLVhQaWZPZEthZHV3?oc=5)
 

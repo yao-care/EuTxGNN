@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teriflunomide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Do these two easy things to make your daily walk better for your health - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTQ1WUJzcllESlp0UVd3YTZJQ3lrbmZmekFIWHB2SXRycFZoTEJEWnhuT1N5YUJKU3BidWtHS01Qakl6U1FlT3BiUWF2SjRzbFRDb1N3NHVScWNKdkpDNmVQLVlfLWlCWFVlXzFHYXUwTWFNYjdqbUVBT1d4dnRPc2x6UG5vTTluaVFhQkpoMkdoZHI0TWcxWVJEWDlSQlhF?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTQ1WUJzcllESlp0UVd3YTZJQ3lrbmZmekFIWHB2SXRycFZoTEJEWnhuT1N5YUJKU3BidWtHS01Qakl6U1FlT3BiUWF2SjRzbFRDb1N3NHVScWNKdkpDNmVQLVlfLWlCWFVlXzFHYXUwTWFNYjdqbUVBT1d4dnRPc2x6UG5vTTluaVFhQkpoMkdoZHI0TWcxWVJEWDlSQlhF?oc=5)
+
+---
+
+### [Die rezidivierende akute Pankreatitis bremsen](https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWI0dENHdG5zcUR4VUl3QnVlMUotZ2o4WHl2eFpRcXM1bDZfUUhpT241S0tjOUItdURFTWQ5TGJoLXdybXR4amRGeXVXZ21wTHpLZHBiaFdHN1g1ZHV2THZRVXZzSHBjOXpTRjhmV2lGeVFjUEw2VEJ2dTJ1WFNheENzdUNmQ3ZicGF5aGRkVE5TMnNRNVE?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWI0dENHdG5zcUR4VUl3QnVlMUotZ2o4WHl2eFpRcXM1bDZfUUhpT241S0tjOUItdURFTWQ5TGJoLXdybXR4amRGeXVXZ21wTHpLZHBiaFdHN1g1ZHV2THZRVXZzSHBjOXpTRjhmV2lGeVFjUEw2VEJ2dTJ1WFNheENzdUNmQ3ZicGF5aGRkVE5TMnNRNVE?oc=5)
+
+---
 
 ### [Demenz-Forschung: Gehirn schützt sich selbst gegen Alzheimer - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFFZnNoQmZZZ3gxVXVmeElGLWtPLUI3ZXdicnc3RHZWMHdwTnJSNGtkQjg2RlN1dTVMeW9vUUE5VVgzeTFmM3JUalpiVXNsa3UzUjEtVnlLemdSZ2hTNU05UGNkQnloOFBBUDRrYnNtU1pPdjlOaHVCSjdoTG0ySGN2R0hta2dKeHBYUGtZN21ER0p6Z0xvcTZPa0FGNzM4Vm0wNFR3SmxWTzhiTGNlLVhQaWZPZEthZHV3?oc=5)
 

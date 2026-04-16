@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Vitamin D3 – lindert es allergisches Asthma?](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
+
+2026-04-16 <span class="news-indication-tag">asthma</span>
+
+來源：[PressNetwork](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
+
+---
 
 ### [Los avances tecnológicos y terapéuticos marcan una nueva era en el control del asma - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
 
@@ -52,19 +60,19 @@ permalink: /news/sarilumab/
 
 ---
 
+### [Scientists Discover a Molecule That Targets Arthritis at Its Root, and Leaves the Rest of Your Body Alone - Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
+
+2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
+
+---
+
 ### [Tasty & Healthy-Diät: Alternative zur enteralen Ernährung bei Morbus Crohn?](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDN6bXdtaGpGQWlVbi1yR0lvbk1JdEgyeUJsVXJzSzRVYi1TVGJ4OTIza3R6WTd5WXFOZjhyajd1RUNRVndrZE9DeFU5eW5XZUpDZHB2SHhFQ3hRbXZGd0lvek84SVhQbThpN3A4cVRuaDJKUFV2S3o2TkM1cXFWb1BaUW5BOTY4OUMxQVRZWllSZVowZjhlRHVNaHgyTGdSNFZhdjZjLVllanFfRGQzbkxmOTRFUzNnSlUtS2wwUWdXSFBfRWszY0dfWXZYTTJPM2NzVGN0VFVPRFZ4OE9sOFM2blJ3Z2ZvNUdlM1dPSkt0Qzg?oc=5)
 
 2026-04-15 <span class="news-indication-tag">Morbus Crohn</span>
 
 來源：[esanum](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNDN6bXdtaGpGQWlVbi1yR0lvbk1JdEgyeUJsVXJzSzRVYi1TVGJ4OTIza3R6WTd5WXFOZjhyajd1RUNRVndrZE9DeFU5eW5XZUpDZHB2SHhFQ3hRbXZGd0lvek84SVhQbThpN3A4cVRuaDJKUFV2S3o2TkM1cXFWb1BaUW5BOTY4OUMxQVRZWllSZVowZjhlRHVNaHgyTGdSNFZhdjZjLVllanFfRGQzbkxmOTRFUzNnSlUtS2wwUWdXSFBfRWszY0dfWXZYTTJPM2NzVGN0VFVPRFZ4OE9sOFM2blJ3Z2ZvNUdlM1dPSkt0Qzg?oc=5)
-
----
-
-### [El enfisema pulmonar en pacientes con cáncer de pulmón avanzado se asocia a una mayor supervivencia - El médico interactivo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBLWFpJN3NMcmZQYkd3cVVjQ0gxZ1hxNS1PZ3N4QXB0OE5CZUJ4Wi1yNnNUWEVYVjVUeW1odkFqT3RTV0c4cThTSlNnTEJyNnlEOC10Wm80SlMtRnBXWUI4MjlGVkVORU10MXZoamx5OWNBSFp2R1BObF9SWVhBUXBta3gtX0huN2JDUzV0NEVRZFNfMk82MFFWUERHQmkzTWV5eDhaZ1FSR2I3RjNHMmY3dzcyNXdGSUJxb2t4T2NrZjByYTYwdEN5R0k?oc=5)
-
-2026-04-14 <span class="news-indication-tag">EPOC</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBLWFpJN3NMcmZQYkd3cVVjQ0gxZ1hxNS1PZ3N4QXB0OE5CZUJ4Wi1yNnNUWEVYVjVUeW1odkFqT3RTV0c4cThTSlNnTEJyNnlEOC10Wm80SlMtRnBXWUI4MjlGVkVORU10MXZoamx5OWNBSFp2R1BObF9SWVhBUXBta3gtX0huN2JDUzV0NEVRZFNfMk82MFFWUERHQmkzTWV5eDhaZ1FSR2I3RjNHMmY3dzcyNXdGSUJxb2t4T2NrZjByYTYwdEN5R0k?oc=5)
 
 ---
 

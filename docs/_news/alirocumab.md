@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Bird flu outbreak leads to imposed cull](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
 
 2026-04-14 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0eHIzZC1jOU5Yb2NWTWpSMEdyZGVuRl9xSk1vdWdrYnU2WVFhdzRqWG1wUEFHVEE2Uzg3VnhjbllhQ3NvUUdrVmllWjlnaGQ2UXJISXAzeFR1Sk9h?oc=5)
-
----
-
-### [La enfermedad renal crónica se posiciona como una prioridad de salud pública](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFBIU3ZURnk3UFcxUTNnOHEwbTgtX0Y3LV9TMnk0cHFHdjFnV2huVlNkWUxiQXd3WFVBNUlPZ2VqWkQ0eG5xZG5yM0RQc2dscWtKa3oxbFlvZFhLNzlCOVlSZlI1VUF6a1lMbUg5eFp2aDZURXVLdVFQSjhoVDhUYnVrU3JobHNYMFhNekZSQ0FHRFNLRXROWFRnQkZXMUJhU295NTNGdVVVSlE?oc=5)
-
-2026-04-14 <span class="news-indication-tag">enfermedad renal crónica</span>
-
-來源：[EntreMayores](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFBIU3ZURnk3UFcxUTNnOHEwbTgtX0Y3LV9TMnk0cHFHdjFnV2huVlNkWUxiQXd3WFVBNUlPZ2VqWkQ0eG5xZG5yM0RQc2dscWtKa3oxbFlvZFhLNzlCOVlSZlI1VUF6a1lMbUg5eFp2aDZURXVLdVFQSjhoVDhUYnVrU3JobHNYMFhNekZSQ0FHRFNLRXROWFRnQkZXMUJhU295NTNGdVVVSlE?oc=5)
 
 ---
 

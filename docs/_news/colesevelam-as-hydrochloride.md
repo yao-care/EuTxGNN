@@ -44,6 +44,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（8 則）
 
+### [La educación terapéutica es desigual en España - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRmZKNWt5Y0Z4bXVZVURNMmdvYU9uN2JrYktWTDJqUE9MVWt6cWZkTXFWRVF2U29BNy1heGFLLTBqZ3BYLU9zWFc3elVPYUU0eU81ZDdodW1PclR1c25PVEhZZmY1Zw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRmZKNWt5Y0Z4bXVZVURNMmdvYU9uN2JrYktWTDJqUE9MVWt6cWZkTXFWRVF2U29BNy1heGFLLTBqZ3BYLU9zWFc3elVPYUU0eU81ZDdodW1PclR1c25PVEhZZmY1Zw?oc=5)
+
+---
+
 ### [Relacionan el ácido palmítico con peor respuesta a la insulina y el oleico podría ejercer un efecto protector](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3R0OHNoX1Y5VEtDcXY2RUg4eC1Hem1CME1jdGdFblJNQVVReU5CQVYzM0tRYWZma1J1T2RFaWl0bWVrNWVycnMzX2ducldoMXlGUFBrT3d0R3lScm1EZ2ZGVnNqOHNfcVBNLW5LS1FTUEpXSlpaTE5PQVlUcWw2TlB6UUNpOVBkVmlFVG90YVNWbDRic1dLMVkya0JueUdGMlp3cnpxQ2Faam0ydEFPenk5MTB1MUNTdXg3MTgwaEowMjdvTlYtYzlTQmtKRThFRnNMY1hseUhpbmPSAeABQVVfeXFMT3V2VFB2ZGs3dlctcFRZZXBSMTRCdENvNzFpNWQtb29jVGQ4OWFpWTFSMGduYVlTSUJrOFhNNWg5RXBUSGZCcm0wcFI3Y21HZzhVa2wyRTFZQWRuR2VmRDVXMWJFSUxjbldhTnBINDZDdG1MZ0ZwUzJLUHlSSW5GUFpiekY3WmdMajFkWGxpUFBDVHRSV3U1SjUyZjFDMlFpNWpuSktmdWVvbUh0dWkxVXRBNFhPbGFTVTN6VzBDSUE2YU95dF84c3JLWGI1ajFQWU11UWZoNkNNamZxNW1ONE8?oc=5)
 
 2026-04-15 <span class="news-indication-tag">diabetes mellitus</span>
@@ -97,14 +105,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3lBc2xBS2lZWmJkSGNHcXJjeDJBUjRxNHUtOXdVdENCRGE0ZFdWTExQYU9EWFpLa1VCRGtXZ3h3WVhQeXAtb1g0TnRrdkdYUDFFcUVBWHQ3RGlva1VIN1hscWREamFQVzIzVURfODNYUk9qODhpV1JFWEo4VG55LVE5bkF6bjVKeTB0aEViUlZZbGRWMHg2bVAtRmMwREpLVExF?oc=5)
-
----
-
-### [Prävalenz der Herzinsuffizienz in Deutschland: Daten aus der NAKO-Gesundheitsstudie – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNendFMDUwbDlFc05xcjJGcTE4a0IxV1ZlOTE2c0pHTlNZWUVHdmxYckZYQWQ0eG0teGI2aGx1UnM0TS0tZG8wNV9BOU9MMWFRSHA4dWV1OEdfZTdfcmFER3ROY3F2UkxYdG9ZS1A1SmRmVXhiQk55ZXRkUkRwMkNlMk9ubjNiZ1Fzb2dCclMwU1NLc2NTTUdsbk54ZU8tOUxTanlyaWlKNERLVTUyY2JhdWZDMFloUDVZUm1pc1lzZ0x4MkxHandBTDFOaWk4emxBTVpyN193elNZZnowTF9VTHhNZ2lidw?oc=5)
-
-2026-04-14 <span class="news-indication-tag">heart failure</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNendFMDUwbDlFc05xcjJGcTE4a0IxV1ZlOTE2c0pHTlNZWUVHdmxYckZYQWQ0eG0teGI2aGx1UnM0TS0tZG8wNV9BOU9MMWFRSHA4dWV1OEdfZTdfcmFER3ROY3F2UkxYdG9ZS1A1SmRmVXhiQk55ZXRkUkRwMkNlMk9ubjNiZ1Fzb2dCclMwU1NLc2NTTUdsbk54ZU8tOUxTanlyaWlKNERLVTUyY2JhdWZDMFloUDVZUm1pc1lzZ0x4MkxHandBTDFOaWk4emxBTVpyN193elNZZnowTF9VTHhNZ2lidw?oc=5)
 
 ---
 

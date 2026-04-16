@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### ['Breakthrough' Alzheimer's drugs unlikely to benefit patients, report suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lRHRsc2VVRnZ6c2JXV25iNVJ4QzYyZ0F0QWVhOEVVMHhwc0MxUkpCSHI5c0Vya1RLeUkxeXJWeGJNZk9sWEZtOGlnT3lwSGlLdWtURlZfelVXMVJD?oc=5)
+### [Anti-amyloid Alzheimer’s drugs show no clinically meaningful effect - Cochrane Collaboration](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2NTRklxYy1qQl9rQVo0aHY1VzFMcnB0TGZJYlhpN0ZIMk9zaWRIRnJoZXRXZjNSaFlzbE1jZnJIbXF1V3VqQlJvR0JrcHkwY19rZTVfajlWU09UU2M1Um1rTkc1V3NPOEFlRC1POGY5T0V4VlBPRFpDVWVPZk10TWR4bzZfRFU5UTJ5N3JLeENMcE9tLTMtY0hGWl9qaFNvWTBkS1Zfa2Y?oc=5)
 
 2026-04-16
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lRHRsc2VVRnZ6c2JXV25iNVJ4QzYyZ0F0QWVhOEVVMHhwc0MxUkpCSHI5c0Vya1RLeUkxeXJWeGJNZk9sWEZtOGlnT3lwSGlLdWtURlZfelVXMVJD?oc=5)
-
----
-
-### [The daily drink habit being linked to better brain health - Yahoo Life UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDhqVzQzaDl2ZzRiRmQ0R1dwUFcxQTBLYS01WXg3dWNzVGNsaWpNUXFmaG84ZTFJRnMyaTlHaFBGTUVMQ2dRSjJZVFhKT2ZrWlRBUDFlVTMzWkpacElwTjlZMWwwVG5sYUJibDh6X2JfQl9SRlBqaU0wOHJFbU91X28tMVgtWEZVNTRSWVl3?oc=5)
-
-2026-04-14
-
-來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDhqVzQzaDl2ZzRiRmQ0R1dwUFcxQTBLYS01WXg3dWNzVGNsaWpNUXFmaG84ZTFJRnMyaTlHaFBGTUVMQ2dRSjJZVFhKT2ZrWlRBUDFlVTMzWkpacElwTjlZMWwwVG5sYUJibDh6X2JfQl9SRlBqaU0wOHJFbU91X28tMVgtWEZVNTRSWVl3?oc=5)
+來源：[Cochrane Collaboration](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2NTRklxYy1qQl9rQVo0aHY1VzFMcnB0TGZJYlhpN0ZIMk9zaWRIRnJoZXRXZjNSaFlzbE1jZnJIbXF1V3VqQlJvR0JrcHkwY19rZTVfajlWU09UU2M1Um1rTkc1V3NPOEFlRC1POGY5T0V4VlBPRFpDVWVPZk10TWR4bzZfRFU5UTJ5N3JLeENMcE9tLTMtY0hGWl9qaFNvWTBkS1Zfa2Y?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "cancro（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "cancro（cancer） 的相關健康新聞報導。20 則新聞、229 個相關藥物。"
+description: "cancro（cancer） 的相關健康新聞報導。21 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="cancro（cancer） 有什麼相關新聞？">
-<strong>cancro（cancer）</strong> 目前有 <strong>20 則</strong>相關新聞報導，229 個相關藥物。
+<strong>cancro（cancer）</strong> 目前有 <strong>21 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -257,13 +257,37 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
+
+### [Un patient âgé de 63 ans, guéri du VIH et d’un cancer : un miracle en médecine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
+
+2026-04-16
+
+來源：[Linfo.re](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
+
+---
+
+### [Cancro al colon, la diagnosi di Fiona Fleming: “Sono un medico di base, non pensavo potesse colpire me”](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzVWejhDM0Fsbl9MNTU1aUR5dTdKUWdmVTZxUmhXMmVkZnV3RGdBMFVZMTJweEZOcDFBMllaQXZxWDhSMUhGZWpEajB1SnZUN3JTcXpmdlIxbGtXQlVQdjFvUmlOV21ISklyd09iVW1pOE82SEtBUXdUUF9wYkZDM3RtYkYtRTVsaTJrLVdSMXVXSXRvMXYtQy1pZ1ViYWg3N2NtbjJPYnltcVM0Z3JZRENtU3dxWVA4SEhFTUkyZnRFMW1obkk5UkNZSFpGbnotNVA5S2VtTkpfQQ?oc=5)
+
+2026-04-16
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzVWejhDM0Fsbl9MNTU1aUR5dTdKUWdmVTZxUmhXMmVkZnV3RGdBMFVZMTJweEZOcDFBMllaQXZxWDhSMUhGZWpEajB1SnZUN3JTcXpmdlIxbGtXQlVQdjFvUmlOV21ISklyd09iVW1pOE82SEtBUXdUUF9wYkZDM3RtYkYtRTVsaTJrLVdSMXVXSXRvMXYtQy1pZ1ViYWg3N2NtbjJPYnltcVM0Z3JZRENtU3dxWVA4SEhFTUkyZnRFMW1obkk5UkNZSFpGbnotNVA5S2VtTkpfQQ?oc=5)
+
+---
 
 ### [Trombosi in aumento, Anna Falanga: "Non bisogna sottovalutare i sintomi"](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG94cUJyTnI0VmlVbVJkMjM0UmNObDBjQXo0dnBBZFdELUtMSEY4ZFdYZUUybzdWZVp2RFRPNTdhc1VRdGd1cVNWTkRjZXJnZlc1cnV5c2lmNXAzRWowNVdhcU5RbjQtV2ZRbGcwdjR3T3R4WE41cHpwSWtrWWJMWGpNeEU5VVZJcEsxVFhqQ1NITG9CX21USmwtRnpvekRGT3VQcXBsUFZqWDVXMGdDTTJCM3A?oc=5)
 
 2026-04-16
 
 來源：[Bergamonews](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG94cUJyTnI0VmlVbVJkMjM0UmNObDBjQXo0dnBBZFdELUtMSEY4ZFdYZUUybzdWZVp2RFRPNTdhc1VRdGd1cVNWTkRjZXJnZlc1cnV5c2lmNXAzRWowNVdhcU5RbjQtV2ZRbGcwdjR3T3R4WE41cHpwSWtrWWJMWGpNeEU5VVZJcEsxVFhqQ1NITG9CX21USmwtRnpvekRGT3VQcXBsUFZqWDVXMGdDTTJCM3A?oc=5)
+
+---
+
+### [Pulmonale Hypertonie und Brustkrebs: Gibt es eine Verbindung?](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHl3V1djYTA4QkdhMzc5MEZ6YUhSSFFkZGxNNWxvdnZaYndwd1pPWGp3OWgtRDc1Mi1kLXVGSG1wWWpxUF84U2dORnNlU3BrbkNqOGNDMUgzQkNnbmpkUWxrSFo3NWp4b2ZvOHhDekFOZ1NleU1SandhSkxKNVBIUmJHY3M4bkxoSjVyMDhVM1dyWHVzVFcydUh2bnliUUVHWXp4MkNzd3UzYzYzdkxvSmdENEJ0THlwWmdDeXFkdw?oc=5)
+
+2026-04-16
+
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHl3V1djYTA4QkdhMzc5MEZ6YUhSSFFkZGxNNWxvdnZaYndwd1pPWGp3OWgtRDc1Mi1kLXVGSG1wWWpxUF84U2dORnNlU3BrbkNqOGNDMUgzQkNnbmpkUWxrSFo3NWp4b2ZvOHhDekFOZ1NleU1SandhSkxKNVBIUmJHY3M4bkxoSjVyMDhVM1dyWHVzVFcydUh2bnliUUVHWXp4MkNzd3UzYzYzdkxvSmdENEJ0THlwWmdDeXFkdw?oc=5)
 
 ---
 
@@ -355,6 +379,22 @@ permalink: /news/cancer/
 
 ---
 
+### [Ein einziges blockiertes Protein verwandelt Immunzellen in effizientere Krebskiller - Martin Cid Magazine](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVktYjFzdkZMNC1KcVdDOGltSEZBT3BsUUxmRUN0TlVVT0JhdTVpVDlqVmZCUHVzQVNjS1IzZ1p6RmdwcGQtTHU3NW8yaDMyOXU1TGlYWXU2aERPeTQ0NDNMUmVwY2phcHpNNTBOTDlNYTMxSDNrZEVUUHQyLXJoQ29SbE00cGg1dGEzTS1JMlEwbWNKSnBuZktSaEc3VUZ6WmZISVVtb0dXeFRFUnZGUjNPaUtDeV9YUEFVMWNtTQ?oc=5)
+
+2026-04-15
+
+來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVktYjFzdkZMNC1KcVdDOGltSEZBT3BsUUxmRUN0TlVVT0JhdTVpVDlqVmZCUHVzQVNjS1IzZ1p6RmdwcGQtTHU3NW8yaDMyOXU1TGlYWXU2aERPeTQ0NDNMUmVwY2phcHpNNTBOTDlNYTMxSDNrZEVUUHQyLXJoQ29SbE00cGg1dGEzTS1JMlEwbWNKSnBuZktSaEc3VUZ6WmZISVVtb0dXeFRFUnZGUjNPaUtDeV9YUEFVMWNtTQ?oc=5)
+
+---
+
+### [Quali esami fare per valutare la salute delle ossa. E quando conviene farli - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
+
+2026-04-15
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
+
+---
+
 ### [Elle touche 1 personne sur 6 dans le monde : cette maladie silencieuse est souvent détectée trop tard](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnF3U1ZFMkwzQUlYaWpJbzE4MVpkYlYxSjR3cU4ySGw2ZUQ4VUZ6M2FYakpfUnF4THV3bmhvYktKaDQtLW1nWUFmMlBJeVo2enVYeXV4R2FSLVpfYWpOa0E2NzFad2FkV2V5Zld1V0w4Z0lpYjBidF90amx3NHhaYmdvMG50QQ?oc=5)
 
 2026-04-15
@@ -384,38 +424,6 @@ permalink: /news/cancer/
 2026-04-14
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGlNMkhZV0hPa05INHdRVXRnM0dLWmJmcFU2Zkp1UzFSYkxaXzNWa1o0QU5EZnhfS1Jtd1V6S2M4STBiNHFrS3hISE1ISExYMjI4WGhtdzU3bnAzcEhmWmZScGlfanhkVldkdDMtazRDcjkteF9PNWdBcjNqdFpaOE4yS3BJOS11RldOMDhxbDNqdmFNcjVyb3p2cTEwNTVOR3FrUXlKR2d4M01hSGYyQVdueU5lcjVlMHc0?oc=5)
-
----
-
-### [VIH : « J’ai eu l’impression de gagner deux fois au loto »… pourquoi son cas sidère les médecins - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREkyT3h4Rm1DS0JGeE9ZampnZmhMN3JOc3F5c0Rsam5lZWtiSTQ3Q0ZkOGpCYXdEbm5UYy1UNF94V3B2NEhJelV0aEdHVjlvQnp3OVMxS0dNeUUtZGVKcWtBVkszajlxNGVkY0xmWFY0Y1FjSTBZWGEzWUlHYkNDVHVISFF6cExDa2xWQnJkdnVBU2xjdXd0SVZJdmoxc012UVE2dnlEeEpEWEVnM29ZanpvUjhvS2ZCMUNCSmVVeFZBbmVwNG82QQ?oc=5)
-
-2026-04-14
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREkyT3h4Rm1DS0JGeE9ZampnZmhMN3JOc3F5c0Rsam5lZWtiSTQ3Q0ZkOGpCYXdEbm5UYy1UNF94V3B2NEhJelV0aEdHVjlvQnp3OVMxS0dNeUUtZGVKcWtBVkszajlxNGVkY0xmWFY0Y1FjSTBZWGEzWUlHYkNDVHVISFF6cExDa2xWQnJkdnVBU2xjdXd0SVZJdmoxc012UVE2dnlEeEpEWEVnM29ZanpvUjhvS2ZCMUNCSmVVeFZBbmVwNG82QQ?oc=5)
-
----
-
-### ["Es increíble, como ciencia ficción": los nuevos tratamientos con inmunoterapia que están eliminando el cáncer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
-
-2026-04-14
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NTlV3TE5jZ21sMHU3V0VzYTFzdnlXaXdnTGVaRFNkdllpaGkzLVFmTUk4VFhrZW1MVDRLYlRQaE5uNkVtbHdyVGJHaTBYbUVMUXFMVEp5SDNYTUXSAWBBVV95cUxOY292XzY1OXZWTEZESm5leEROUjJlZ2l3NjNVem9VUGo1U1lGMGhrX0ZpSUY3VkhLcV9PN2FXMkdvZ3hyTUdzODF2YlpFSjZ2Y2VINXh5YnZ1NjhKUV9Ea1Q?oc=5)
-
----
-
-### [Tabac, alcool, vigilance et sexualité : le mariage protège-t-il du cancer ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
-
-2026-04-14
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjdzd0ZnaUdOblR4Und3UjFxV0U4OHdENDBXc2Y0QWkzWWhsQXQ2alJnS1JoQ1NtRGFJTE05UXJkWXB3WUJ6c3dYc2duLXBRMGdibFVJbk8zQzIzTW1PWnhubnZRRHhWOFVmajZhZlFCYlgyelFsSlBQZ1BJdXRzZWE2bDRTZjI5dUF0R2lkbWh0TG1a?oc=5)
-
----
-
-### [Eczéma au printemps : 6 conseils pour apaiser les démangeaisons - L'Officiel du Thermalisme](https://news.google.com/rss/articles/CBMizAFBVV95cUxObGN6dFpldTlUWFliU2JweFYzUThlazhEcVBRY0xFall0LWVUX1ZPUGlkcU9XblIxMGVVLXl0VXZGNjhFQVN4Nk1KQlRUQjh6V3hoN29tN095a0JkU1p5TmRyR1d6d2VCX1VsRGlaMGdPMlZFVjEtbWNpeTZQcVNNN2FKU3FuU2w0bDRlY3BqMlhVQ1FWVE40Q1RNS3VJMzhtbmVKRjZ0TmU0bkJObGxhWGVPbzI1WVc0WmRpNktKdWVMTE1DQ00tcmZIdUM?oc=5)
-
-2026-04-14
-
-來源：[L'Officiel du Thermalisme](https://news.google.com/rss/articles/CBMizAFBVV95cUxObGN6dFpldTlUWFliU2JweFYzUThlazhEcVBRY0xFall0LWVUX1ZPUGlkcU9XblIxMGVVLXl0VXZGNjhFQVN4Nk1KQlRUQjh6V3hoN29tN095a0JkU1p5TmRyR1d6d2VCX1VsRGlaMGdPMlZFVjEtbWNpeTZQcVNNN2FKU3FuU2w0bDRlY3BqMlhVQ1FWVE40Q1RNS3VJMzhtbmVKRjZ0TmU0bkJObGxhWGVPbzI1WVc0WmRpNktKdWVMTE1DQ00tcmZIdUM?oc=5)
 
 ---
 

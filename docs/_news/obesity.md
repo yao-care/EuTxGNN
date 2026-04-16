@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Fettleibigkeit（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fettleibigkeit（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Fettleibigkeit（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Fettleibigkeit（obesity） 有什麼相關新聞？">
-<strong>Fettleibigkeit（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Fettleibigkeit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,13 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [OECD-Studie: Fettleibigkeit macht Gesundheitsfortschritte zunichte](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlNDSWhfc21PQlgwQnE3aER1cXpVM1VITG03RnUyb2VGTnNzaEdHUkc0NW1MYUJnOGNFRXRibmdkZkprQUl3ZXFpQmt1WVBnNHhaWGxnVVI1QWdWNm9qUERjQTlEOHNrS0JFLWJaQmF0OUZfeFFoanN5NUxlUGtoVnUtYWtfbXFQWG5ZUmt0S1JYTjZkSTFZM2t6d294bWhPZktKYW83aDNFUQ?oc=5)
+### [La prevención y la gestión basada en valor guían el abordaje de la obesidad - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFYxTWdMeENNMWNjdTc4WG54d0pnaWl1NzRJSldWT3RSMnRudURscVdUcDloc0w3em90Z0Eya3dodjNqdXNWTFhRTmxPd2hiOUJnVmtfV3lQbGtQLUxpdWVuMTU2LXpVTDF6LVoyY0thWXBDSDBvd2xaZFBWTFgwNDJiVGxpaVYtQnFNa005T2dCejJJZUZSY1AwaVUzUl9JVGhtdk85STAzRXFJTk9iRUJRcGM5bmZBb0ZYRTZhZFZvOUVnWlRwSWdn0gHKAUFVX3lxTE12cV9OcE1kVENMWVh5akZaOV90Zmg1dVdGTWV1RzlrSU5CeF9TYjZlaUtVSldXSjdfdnBHVFhISk1ld3FnWTBSLVhpS00yQW11eFBnZ3N5cU5ydmtwVDg5c1VjazRDMkRFdWhGQWRmZHZnTnRYeDBJZ29lRVltLUZMbXVTODN5TEpHUllWRTN1aUstVDJtQkdoZXAzY3VsQXNqaE9iMlFxLWk0YU9PVGRoX09TNVY5TmZrbF9DNFV3c2xrSFBQTFZBZWc?oc=5)
 
-2026-04-15
+2026-04-16
 
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlNDSWhfc21PQlgwQnE3aER1cXpVM1VITG03RnUyb2VGTnNzaEdHUkc0NW1MYUJnOGNFRXRibmdkZkprQUl3ZXFpQmt1WVBnNHhaWGxnVVI1QWdWNm9qUERjQTlEOHNrS0JFLWJaQmF0OUZfeFFoanN5NUxlUGtoVnUtYWtfbXFQWG5ZUmt0S1JYTjZkSTFZM2t6d294bWhPZktKYW83aDNFUQ?oc=5)
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFYxTWdMeENNMWNjdTc4WG54d0pnaWl1NzRJSldWT3RSMnRudURscVdUcDloc0w3em90Z0Eya3dodjNqdXNWTFhRTmxPd2hiOUJnVmtfV3lQbGtQLUxpdWVuMTU2LXpVTDF6LVoyY0thWXBDSDBvd2xaZFBWTFgwNDJiVGxpaVYtQnFNa005T2dCejJJZUZSY1AwaVUzUl9JVGhtdk85STAzRXFJTk9iRUJRcGM5bmZBb0ZYRTZhZFZvOUVnWlRwSWdn0gHKAUFVX3lxTE12cV9OcE1kVENMWVh5akZaOV90Zmg1dVdGTWV1RzlrSU5CeF9TYjZlaUtVSldXSjdfdnBHVFhISk1ld3FnWTBSLVhpS00yQW11eFBnZ3N5cU5ydmtwVDg5c1VjazRDMkRFdWhGQWRmZHZnTnRYeDBJZ29lRVltLUZMbXVTODN5TEpHUllWRTN1aUstVDJtQkdoZXAzY3VsQXNqaE9iMlFxLWk0YU9PVGRoX09TNVY5TmZrbF9DNFV3c2xrSFBQTFZBZWc?oc=5)
+
+---
+
+### [Lomagna si cura: il 16 focus sull’obesità con il dottor Jacob Panzeri - Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
+
+2026-04-16
+
+來源：[Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
 ---
 
@@ -67,22 +75,6 @@ permalink: /news/obesity/
 2026-04-15
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnF3U1ZFMkwzQUlYaWpJbzE4MVpkYlYxSjR3cU4ySGw2ZUQ4VUZ6M2FYakpfUnF4THV3bmhvYktKaDQtLW1nWUFmMlBJeVo2enVYeXV4R2FSLVpfYWpOa0E2NzFad2FkV2V5Zld1V0w4Z0lpYjBidF90amx3NHhaYmdvMG50QQ?oc=5)
-
----
-
-### [Arthrose : une piste testée pourrait enfin aider le cartilage à se réparer… et ça marche ! - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3pyZWprY21ER29lNFF1RE81S1ZYOXJYSEk2ejdsUWZEejVFUVVzY0NneWdrVGUwd1BfeVpRcWs4Qm5NdmNGY3JFUUpTTWtrZ05vLWNaSGQ1MVJaajFWZUhfRi1acFNYaVppRF8tRG5CQWNhX3gtUzBWMk1ZaGd6OHdGN0JWaEhkQVA0Rk1laUEwR2pPQnRjdnNKN0cyMDA0b1F0ZW9fM0o2cjlHaWZibjZtV2t6clFKeTNJdGVZLTFDT3EzdTRFZ0dkdTE4ckpjY2JtalliN1QtZw?oc=5)
-
-2026-04-14
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3pyZWprY21ER29lNFF1RE81S1ZYOXJYSEk2ejdsUWZEejVFUVVzY0NneWdrVGUwd1BfeVpRcWs4Qm5NdmNGY3JFUUpTTWtrZ05vLWNaSGQ1MVJaajFWZUhfRi1acFNYaVppRF8tRG5CQWNhX3gtUzBWMk1ZaGd6OHdGN0JWaEhkQVA0Rk1laUEwR2pPQnRjdnNKN0cyMDA0b1F0ZW9fM0o2cjlHaWZibjZtV2t6clFKeTNJdGVZLTFDT3EzdTRFZ0dkdTE4ckpjY2JtalliN1QtZw?oc=5)
-
----
-
-### [Adipositas wirkt sich bei Männern und Frauen unterschiedlich auf die Gesundheit aus - Biermann Medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
-
-2026-04-14
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkdDVlFCSV9qWnNvV09rYkJDaFhlTEtLZkljMkp0UGRZOGlKaWhUOXlINWhsSXV5NnFLazYtT3pqSUFiQ3E5ZkxFS2pDSlp4c0J1elh1Ml9xbDdTbEdwZ1Y3eUZQX3AtLXJwM01PVXp6RjlGV25yRzB3QXpOVE96WmNXNzNjY1lOcjJZVFlMRUFGeDJMLTBBdUE1ZE9DOTNUS2VGSTVqenFuYnU4WklBYUYxbw?oc=5)
 
 ---
 
