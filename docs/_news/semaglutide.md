@@ -60,6 +60,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Pre-diabete quanto è pericoloso, perché non va sottovalutato e perché (forse) non esisterà più](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdC15Si1aQTJVNGJUUmF2UURZd01QemdBQmlPN1dFczRIQkJ6UXZwTW5oSDRJZXhtb1N6MDRRWW9DSXRGc1VNT3pnbk12VEdkVjFLOE80ZlVhV1dtR0ZZYVk0ckFYYmExUUxxYnhIOTFXX0J1bUhlQlV6MF9kRjVaM1JRTW9nckktWWtDS2VxVXRWTmlraVpYSGpfcUU5UVZFTFhta3g3MVhHRURYVVFyVC1R0gG3AUFVX3lxTFBoV3pUSDdlY2NJUlJwZUlzamxNbGxRcjRrSkZUcVMtOU5sTGN5NmtsRHF6N3VVZU4yaURjUlpONWZaR1ZOeG95dzVZNEZVYW4ySUVGTEthUkVoMzJyanRMaGVycUFzX2plWE81b0pNWFQxX3NpZ3VONjdVV0Utc0w4dEZHQ2hWUHJ2QkNHbjFaU2FmR2ZlZm5kUTMxRG11ZmlrUzNHRmdpVFF1Ym5OcTlRN2NoVVl0aw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabete</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdC15Si1aQTJVNGJUUmF2UURZd01QemdBQmlPN1dFczRIQkJ6UXZwTW5oSDRJZXhtb1N6MDRRWW9DSXRGc1VNT3pnbk12VEdkVjFLOE80ZlVhV1dtR0ZZYVk0ckFYYmExUUxxYnhIOTFXX0J1bUhlQlV6MF9kRjVaM1JRTW9nckktWWtDS2VxVXRWTmlraVpYSGpfcUU5UVZFTFhta3g3MVhHRURYVVFyVC1R0gG3AUFVX3lxTFBoV3pUSDdlY2NJUlJwZUlzamxNbGxRcjRrSkZUcVMtOU5sTGN5NmtsRHF6N3VVZU4yaURjUlpONWZaR1ZOeG95dzVZNEZVYW4ySUVGTEthUkVoMzJyanRMaGVycUFzX2plWE81b0pNWFQxX3NpZ3VONjdVV0Utc0w4dEZHQ2hWUHJ2QkNHbjFaU2FmR2ZlZm5kUTMxRG11ZmlrUzNHRmdpVFF1Ym5OcTlRN2NoVVl0aw?oc=5)
+
+---
+
 ### [Lomagna si cura: il 16 focus sull’obesità con il dottor Jacob Panzeri - Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
 2026-04-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -97,14 +105,6 @@ permalink: /news/semaglutide/
 2026-04-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FSd191dWpCSVBMbFczR204MGplZjI2X2RPUGlkOFVSVndoYlNwZGUzQ2JZa2xkeE4tZXRueHhoMklxdmhDMTlsWDk2MVhDNGp0dzhxd0ZnLThnSE8tblFScjhYejlLOUh2LWQwMERzdDZ2RVdJc0ZpZWpRLWVlcTVtYWI2QXlySi1SVU1LdVJTb181anhPazllUzlieW03QTVrSw?oc=5)
-
----
-
-### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabete</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
 
 ---
 

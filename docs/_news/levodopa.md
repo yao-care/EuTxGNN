@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Maladie d'Alzheimer: à Lyon, de nouveaux espoirs pour la recherche](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yVzVBTG5jMHdZUUF2eWdjdTl6MUxqQ3dlQmZHRFdtMk56SnRLMTN1RTM2Mi1uS0FsS2ExN1NrZ25Oc3VWajhMZDlhQkdCQ2NwdmJQRGR3R2h2Sk9JYi1BNmxqeWU0d284U0x5dHVGc3pZMWdtX3lOcg?oc=5)
 
 2026-04-16 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yVzVBTG5jMHdZUUF2eWdjdTl6MUxqQ3dlQmZHRFdtMk56SnRLMTN1RTM2Mi1uS0FsS2ExN1NrZ25Oc3VWajhMZDlhQkdCQ2NwdmJQRGR3R2h2Sk9JYi1BNmxqeWU0d284U0x5dHVGc3pZMWdtX3lOcg?oc=5)
+
+---
+
+### [This speech pattern is an indicator of a brain in cognitive decline](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZVZkxPYXN6ZEI1Q0ZTQ2VVQWl3UXpLcVZhc19OcjRHYVRPZjFRLW5Hc1VkQ3NXbUNvZkZFZHY4dXBhdFI2X3BqaXBYSkxqclJGWkltTjliNHUwaDVDVjFzOE04SmpqZjRNWXZxX2tmMXdVUUR6Ym8zLXF2SVhvMXpWMzF1Z19icGRicW02RUpZTlQ4WVZXR3ZxZ01IVWFtM1czRk51dDBnNUdTNFI2dg?oc=5)
+
+2026-04-16 <span class="news-indication-tag">dementia</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZVZkxPYXN6ZEI1Q0ZTQ2VVQWl3UXpLcVZhc19OcjRHYVRPZjFRLW5Hc1VkQ3NXbUNvZkZFZHY4dXBhdFI2X3BqaXBYSkxqclJGWkltTjliNHUwaDVDVjFzOE04SmpqZjRNWXZxX2tmMXdVUUR6Ym8zLXF2SVhvMXpWMzF1Z19icGRicW02RUpZTlQ4WVZXR3ZxZ01IVWFtM1czRk51dDBnNUdTNFI2dg?oc=5)
 
 ---
 

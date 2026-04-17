@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cabotegravir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
-### [Chronische Entzündungen: Forschung im Aufbruch, Versorgung unter Druck - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+### [Why diet is as important as exercise for osteoarthritis, according to a rheumatologist - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ05vRlcwRHlSWDNLTEh6VlYtSURsWWNvSWl2aHpvaVJIUDlCWXM3bUxoNWVDOVQtWDV5UThxWGNqMmRoeUtwZWFoaGt5VVJlWDdEeXBKWXFQTlFzZTVqZVpnLU1MemNERmJYOGhTWUw4c2tZVkw4NlVaRjJvaWxfdGRzWjNidUptOHVkVy10RTU3VnRYR29R?oc=5)
 
 2026-04-17 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ05vRlcwRHlSWDNLTEh6VlYtSURsWWNvSWl2aHpvaVJIUDlCWXM3bUxoNWVDOVQtWDV5UThxWGNqMmRoeUtwZWFoaGt5VVJlWDdEeXBKWXFQTlFzZTVqZVpnLU1MemNERmJYOGhTWUw4c2tZVkw4NlVaRjJvaWxfdGRzWjNidUptOHVkVy10RTU3VnRYR29R?oc=5)
+
+---
+
+### [Chronische Schmerzen: Forschung macht Hoffnung, Politik droht mit Kürzungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlFpWmFUWTFSLVdIYS1aZjV0eEdvZHctQlE1SWdicEQ2b3RWblhnWURwUmI3VUpPRTZLYjYtbjNxa28xOGI4eWxxOXZ6c3EwMk9UMVNqXzRRaXZBV2ZKOENQdF9mTTcxNWpRME93WFRQRm84a0p5Z1FEZUZnLURxeHIzSEVfSE1IS2VWVkxhazVQa0Rhb0FGYmNKeE5kT284Rnd1RmlNOVdZNzBvZklOckNmaVZ1ejh2YnVrZHpmYw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlFpWmFUWTFSLVdIYS1aZjV0eEdvZHctQlE1SWdicEQ2b3RWblhnWURwUmI3VUpPRTZLYjYtbjNxa28xOGI4eWxxOXZ6c3EwMk9UMVNqXzRRaXZBV2ZKOENQdF9mTTcxNWpRME93WFRQRm84a0p5Z1FEZUZnLURxeHIzSEVfSE1IS2VWVkxhazVQa0Rhb0FGYmNKeE5kT284Rnd1RmlNOVdZNzBvZklOckNmaVZ1ejh2YnVrZHpmYw?oc=5)
 
 ---
 
@@ -65,6 +73,14 @@ permalink: /news/cabotegravir/
 2026-04-16 <span class="news-indication-tag">diabetes mellitus</span>
 
 來源：[Mercacei](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTJwQ19adVBaYlhoc2pUTUNhckNrclNIVlpVOFJobTRrQW5hWDUwSGltVGlVMlBIX0h6SFhxcUJuXzhFU3pEdS1VZ1ZKQzJTSXpVSmsyWlM3X2RMckdKdGVwS1pPb3U2Z1ctVEo3a25sS2xZQkdpSGZpVFkwOHdEbC1zLXI4QXA4LVp5ZHduYXZMZEFnMEpvTTFwLXp3WWxuakFTcjNqRS1aczRueXN3X3Ixa2FmQlljVDVwZmxNaWYyVkJJUXFqZlpfT2VjeE5pQ2llZEgxYTZnYjRUX19UZktYaw?oc=5)
+
+---
+
+### [Pre-diabete quanto è pericoloso, perché non va sottovalutato e perché (forse) non esisterà più](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdC15Si1aQTJVNGJUUmF2UURZd01QemdBQmlPN1dFczRIQkJ6UXZwTW5oSDRJZXhtb1N6MDRRWW9DSXRGc1VNT3pnbk12VEdkVjFLOE80ZlVhV1dtR0ZZYVk0ckFYYmExUUxxYnhIOTFXX0J1bUhlQlV6MF9kRjVaM1JRTW9nckktWWtDS2VxVXRWTmlraVpYSGpfcUU5UVZFTFhta3g3MVhHRURYVVFyVC1R0gG3AUFVX3lxTFBoV3pUSDdlY2NJUlJwZUlzamxNbGxRcjRrSkZUcVMtOU5sTGN5NmtsRHF6N3VVZU4yaURjUlpONWZaR1ZOeG95dzVZNEZVYW4ySUVGTEthUkVoMzJyanRMaGVycUFzX2plWE81b0pNWFQxX3NpZ3VONjdVV0Utc0w4dEZHQ2hWUHJ2QkNHbjFaU2FmR2ZlZm5kUTMxRG11ZmlrUzNHRmdpVFF1Ym5OcTlRN2NoVVl0aw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabete</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdC15Si1aQTJVNGJUUmF2UURZd01QemdBQmlPN1dFczRIQkJ6UXZwTW5oSDRJZXhtb1N6MDRRWW9DSXRGc1VNT3pnbk12VEdkVjFLOE80ZlVhV1dtR0ZZYVk0ckFYYmExUUxxYnhIOTFXX0J1bUhlQlV6MF9kRjVaM1JRTW9nckktWWtDS2VxVXRWTmlraVpYSGpfcUU5UVZFTFhta3g3MVhHRURYVVFyVC1R0gG3AUFVX3lxTFBoV3pUSDdlY2NJUlJwZUlzamxNbGxRcjRrSkZUcVMtOU5sTGN5NmtsRHF6N3VVZU4yaURjUlpONWZaR1ZOeG95dzVZNEZVYW4ySUVGTEthUkVoMzJyanRMaGVycUFzX2plWE81b0pNWFQxX3NpZ3VONjdVV0Utc0w4dEZHQ2hWUHJ2QkNHbjFaU2FmR2ZlZm5kUTMxRG11ZmlrUzNHRmdpVFF1Ym5OcTlRN2NoVVl0aw?oc=5)
 
 ---
 
@@ -105,14 +121,6 @@ permalink: /news/cabotegravir/
 2026-04-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FSd191dWpCSVBMbFczR204MGplZjI2X2RPUGlkOFVSVndoYlNwZGUzQ2JZa2xkeE4tZXRueHhoMklxdmhDMTlsWDk2MVhDNGp0dzhxd0ZnLThnSE8tblFScjhYejlLOUh2LWQwMERzdDZ2RVdJc0ZpZWpRLWVlcTVtYWI2QXlySi1SVU1LdVJTb181anhPazllUzlieW03QTVrSw?oc=5)
-
----
-
-### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabete</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
 
 ---
 

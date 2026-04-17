@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### ['Silent killer' explosion: lifestyle habit doctors fear is to blame - Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
+
+2026-04-17 <span class="news-indication-tag">stroke</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
+
+---
+
+### [Lark or owl? Here’s when you should exercise — and what you should do - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
+
+---
 
 
 <div class="disclaimer">

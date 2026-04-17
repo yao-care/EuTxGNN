@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Akupunktur: Die Nadel im Migränehaufen?](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">Migräne</span>
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
+
+---
+
+### [Lark or owl? Here’s when you should exercise — and what you should do - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
 
 ---
 

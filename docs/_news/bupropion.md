@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bupropion</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [La dieta mediterránea y la actividad física podría frenar la obesidad desde la etapa preescolar, según un estudio - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHF6NERTdmQ2cmkxWVE5QXRnRFBndTRsR0RwZHRBNW85aFB1Zml3SV9kbVN2enpRaVMyNFNOdEVOTzhIRWttTHcxYW9qTlpZRGFxV1FDTW5xcjg4Q1gtMkd5M3ZBUGNWOUhnM1F5a2VJT2k2b1ZNNUJNYXhZSjlDN0Z6S2JrT2F4TUtqWXFZekdkdllvUmVITlBVNjFZdU9fVUdpTENYT3BfOE1Id3ViRnFRUkJnUnNUSVc3X1pxdDBiZmJOSFVoemRRUjhoNjhoYzBsVU5DcFlZRVNvT3I2ZjFlanRfdnljVDJubF9XZHU?oc=5)
+
+2026-04-17 <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHF6NERTdmQ2cmkxWVE5QXRnRFBndTRsR0RwZHRBNW85aFB1Zml3SV9kbVN2enpRaVMyNFNOdEVOTzhIRWttTHcxYW9qTlpZRGFxV1FDTW5xcjg4Q1gtMkd5M3ZBUGNWOUhnM1F5a2VJT2k2b1ZNNUJNYXhZSjlDN0Z6S2JrT2F4TUtqWXFZekdkdllvUmVITlBVNjFZdU9fVUdpTENYT3BfOE1Id3ViRnFRUkJnUnNUSVc3X1pxdDBiZmJOSFVoemRRUjhoNjhoYzBsVU5DcFlZRVNvT3I2ZjFlanRfdnljVDJubF9XZHU?oc=5)
+
+---
 
 ### [La prevención y la gestión basada en valor guían el abordaje de la obesidad - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFYxTWdMeENNMWNjdTc4WG54d0pnaWl1NzRJSldWT3RSMnRudURscVdUcDloc0w3em90Z0Eya3dodjNqdXNWTFhRTmxPd2hiOUJnVmtfV3lQbGtQLUxpdWVuMTU2LXpVTDF6LVoyY0thWXBDSDBvd2xaZFBWTFgwNDJiVGxpaVYtQnFNa005T2dCejJJZUZSY1AwaVUzUl9JVGhtdk85STAzRXFJTk9iRUJRcGM5bmZBb0ZYRTZhZFZvOUVnWlRwSWdn0gHKAUFVX3lxTE12cV9OcE1kVENMWVh5akZaOV90Zmg1dVdGTWV1RzlrSU5CeF9TYjZlaUtVSldXSjdfdnBHVFhISk1ld3FnWTBSLVhpS00yQW11eFBnZ3N5cU5ydmtwVDg5c1VjazRDMkRFdWhGQWRmZHZnTnRYeDBJZ29lRVltLUZMbXVTODN5TEpHUllWRTN1aUstVDJtQkdoZXAzY3VsQXNqaE9iMlFxLWk0YU9PVGRoX09TNVY5TmZrbF9DNFV3c2xrSFBQTFZBZWc?oc=5)
 
@@ -60,19 +68,19 @@ permalink: /news/bupropion/
 
 ---
 
-### [Proyecto MELIPOP: el estilo de vida mediterráneo podría frenar la obesidad infantil desde la etapa preescolar](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPXzZyT1lhYnJfa1Fkbm9tcmVfZnVuVktuR3NGaER2Zk9wc0JPaGFoN3Uxbk55NjdjVXo5SS1pc0M4QllJeTJFOWEtX19INW1MSVlrMFVvbURJRE9jM0JWb3hRU1VkZEMxTGVteDJPUkxRdEdsWGdBUlVTMFlNWEFYTmZ2eDFieE0tcEhMckVtZXZFbTBsdlU1WVZOalhFUDdNVzBJcmtWcF95MGZMZk5HSjh2cDZwWWpUcGM3cEFmVU9JVEhBYnhiejE5T1BmZXlnZ29CTFB1WUdTbnlJLUwwaWtnVEE0R2loOTNJSUd5ZUVsekZjZXc?oc=5)
-
-2026-04-15 <span class="news-indication-tag">obesidad</span>
-
-來源：[Mercacei](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPXzZyT1lhYnJfa1Fkbm9tcmVfZnVuVktuR3NGaER2Zk9wc0JPaGFoN3Uxbk55NjdjVXo5SS1pc0M4QllJeTJFOWEtX19INW1MSVlrMFVvbURJRE9jM0JWb3hRU1VkZEMxTGVteDJPUkxRdEdsWGdBUlVTMFlNWEFYTmZ2eDFieE0tcEhMckVtZXZFbTBsdlU1WVZOalhFUDdNVzBJcmtWcF95MGZMZk5HSjh2cDZwWWpUcGM3cEFmVU9JVEhBYnhiejE5T1BmZXlnZ29CTFB1WUdTbnlJLUwwaWtnVEE0R2loOTNJSUd5ZUVsekZjZXc?oc=5)
-
----
-
 ### [Ozempic non funziona nel 10% dei casi: ora un nuovo studio chiama in causa la resistenza al GLP-1](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
 
 2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
+
+---
+
+### [La obesidad puede comprometer la eficacia de las vacunas frente a bacterias - Gaceta Médica](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFYaU5LR0Y0REN0UF9SYUhPdDhKTFpkVFctU2NPREtQZ0pFYkpPLVh5WlRhTFRPSFpaM2oxb2huNkhxTVM2VkNYVUpLcU4wZnc4eGNlNC1oZ0RGZlo1S1AwRWZXcFNScUZqeHoyWWhMUFlldnhwdEliWmRFd3R1N1gyeGQwR0ctTUV4Vl9tTHZtUGU5RzNyQWpn?oc=5)
+
+2026-04-15 <span class="news-indication-tag">obesidad</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFYaU5LR0Y0REN0UF9SYUhPdDhKTFpkVFctU2NPREtQZ0pFYkpPLVh5WlRhTFRPSFpaM2oxb2huNkhxTVM2VkNYVUpLcU4wZnc4eGNlNC1oZ0RGZlo1S1AwRWZXcFNScUZqeHoyWWhMUFlldnhwdEliWmRFd3R1N1gyeGQwR0ctTUV4Vl9tTHZtUGU5RzNyQWpn?oc=5)
 
 ---
 

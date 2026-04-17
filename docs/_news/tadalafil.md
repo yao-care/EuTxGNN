@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="Tadalafil 有什麼相關新聞？">
-<strong>Tadalafil</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tadalafil</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/tadalafil/
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（31 則）
+
+### [Gut-friendly supermarket foods: what to buy (and what to avoid) - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
+
+---
 
 ### [Así empieza la salud real desde dentro, según Will Bulsiewicz, gastroenterólogo](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnRyQVBGNFctQS1rdGpQLVpYRWZpUjJSRVY5Mi1PVzFhaF9nWkllTkV3ZHdFUjNFVzllTUVPUlZVLWp2aFhaLUJPSERORVhqbjJYTHZYaG1QMy1hY3dxSDd4TTdUTEVWaHMySC0zYzlVLVdQVmJGZVl3dFFyWk9WdEVtRXNheDJNV2F5WGxxX1RHTnhYY2I5YzBmNndlYWVFZlNGdVlrS1g3c1V3TTRkNkxhSWdPMHpTVUlr?oc=5)
 
@@ -76,27 +84,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Schlafmangel: Was im Gehirn bei Konzentrationsproblemen passiert](https://news.google.com/rss/articles/CBMieEFVX3lxTFBiVkVCX2JkUkpiUmxGbmZUWEowS1FGX1lqOWR6RGUtUG1ueTBfaEhSaWlMSmdaeTlJbVBObWRQNVJDeTY3QVF4NU1WdU9GZ0RkZzhyemZ1U1lQeU95R2ZSM3Z3eXlYLWdKWE5xTVJ3U3pNN3BWSUV3Vw?oc=5)
-
-2026-04-16 <span class="news-indication-tag">AF</span>
-
-來源：[t3n](https://news.google.com/rss/articles/CBMieEFVX3lxTFBiVkVCX2JkUkpiUmxGbmZUWEowS1FGX1lqOWR6RGUtUG1ueTBfaEhSaWlMSmdaeTlJbVBObWRQNVJDeTY3QVF4NU1WdU9GZ0RkZzhyemZ1U1lQeU95R2ZSM3Z3eXlYLWdKWE5xTVJ3U3pNN3BWSUV3Vw?oc=5)
-
----
-
 ### [Akupunktur: Die Nadel im Migränehaufen?](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">Migräne</span>
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
-
----
-
-### [Lebensweise spielt eine große Rolle: Alzheimer-Forscher informiert beim Studium Generale in Pforzheim](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1NFTGpXRExjZFlMaWp1Undpa2dITVBjLVJJemdNVmVEX2p0bWdWRFpXanA4SzU2Q29UVUVXVklDVDRldlAwdGYycXJyZzZKa05pZEx4M3V1cDRLYmpTOVMzUXluOVhOMkxtbUtTWW1XM05hd3pHR3FTWGM4MV8xRTVYc0RoVHdvLTl4MWJNU3JUN3pjNE1BSm1uYVNYZHgySC03NlBtMFlPS0Fwc09Cd2VCcUpBdEtQSmJERVpwRDhlR2N5V1BYMjBMSUEyeEdTcFI5OWR1dF9Uc0YxNVNTZ2tpR29fSlpXdFQ3T0Z3Z1NaVlE?oc=5)
-
-2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[PZ-news](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1NFTGpXRExjZFlMaWp1Undpa2dITVBjLVJJemdNVmVEX2p0bWdWRFpXanA4SzU2Q29UVUVXVklDVDRldlAwdGYycXJyZzZKa05pZEx4M3V1cDRLYmpTOVMzUXluOVhOMkxtbUtTWW1XM05hd3pHR3FTWGM4MV8xRTVYc0RoVHdvLTl4MWJNU3JUN3pjNE1BSm1uYVNYZHgySC03NlBtMFlPS0Fwc09Cd2VCcUpBdEtQSmJERVpwRDhlR2N5V1BYMjBMSUEyeEdTcFI5OWR1dF9Uc0YxNVNTZ2tpR29fSlpXdFQ3T0Z3Z1NaVlE?oc=5)
 
 ---
 
@@ -132,6 +124,22 @@ permalink: /news/tadalafil/
 
 ---
 
+### [Si estás tomando edulcorante con el café, cuidado: los expertos coinciden en que los efectos se transmiten ...](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFVyQ1ZScXJJaHhtNEdqQ2FiclBQcEtyamN6STNaenBnR3dkb2xoR19NOFNQZUkzYkwtNXBQNERTS2hfblI2eVEySzJSdlROUERYdFN2dXFfTENxNGtwdXBHRDIzbjNwTWtCYUJnaDhqVzU4SFF1aG11RGtFSnZJUG12YTBWeTFhSlQ2Y3Zud0g5dU1VZWNOZ0tSNlc4bmFnWGdtTUdBa0tXZHhlYy1nUkRqNk9DeUM4YTA5bVNLU21aeGfSAcgBQVVfeXFMTml6WlgxM0VYVUljX19nYmF3QUpzRjBpV1dJcF9yOEQyMTlMZEh3djdkT0JnSHRFZWNCbXFBZUh6UGtVdzJvbjIzYTNnay1iUVNDTExuaThzbG5FcXQ5b2JHXzFfN1M3X0tQZFpRWThUVi1xMjd2SGNETVFZVzA4UzNjZXNhSUpodjdwenQtRDZfUmIwNmJKRGptamdRYmdtdFltNGtmcmFGcDdYQ29DaUx6YUlnQlVFeGFfSjF5aDZtMzkyMDIxd1I?oc=5)
+
+2026-04-16 <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFVyQ1ZScXJJaHhtNEdqQ2FiclBQcEtyamN6STNaenBnR3dkb2xoR19NOFNQZUkzYkwtNXBQNERTS2hfblI2eVEySzJSdlROUERYdFN2dXFfTENxNGtwdXBHRDIzbjNwTWtCYUJnaDhqVzU4SFF1aG11RGtFSnZJUG12YTBWeTFhSlQ2Y3Zud0g5dU1VZWNOZ0tSNlc4bmFnWGdtTUdBa0tXZHhlYy1nUkRqNk9DeUM4YTA5bVNLU21aeGfSAcgBQVVfeXFMTml6WlgxM0VYVUljX19nYmF3QUpzRjBpV1dJcF9yOEQyMTlMZEh3djdkT0JnSHRFZWNCbXFBZUh6UGtVdzJvbjIzYTNnay1iUVNDTExuaThzbG5FcXQ5b2JHXzFfN1M3X0tQZFpRWThUVi1xMjd2SGNETVFZVzA4UzNjZXNhSUpodjdwenQtRDZfUmIwNmJKRGptamdRYmdtdFltNGtmcmFGcDdYQ29DaUx6YUlnQlVFeGFfSjF5aDZtMzkyMDIxd1I?oc=5)
+
+---
+
+### [Netizens horrified after report claims kids’ HIV outbreak in Punjab’s Taunsa caused by reusing syringes - Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
+
+---
+
 ### [Medizinischer Sonntag am 26. April 2026: „Ein gesundes Herz ein Leben lang – was können wir dafür tun?](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2E4ekNKOVhYUW5sR1pEMzlXMUx2bTJyTG03SEkxZmNYekR4YzNjWnBULVhZUXJGel9DUjVQeG44eGsxVkxnenFWQ08tUXd2T25LN1dtR25pQ0dpZlV3anU1T1RrWjdyakNyWm9YTGhwVVVLa0dWVlRKalJ1bVNOYlhjOWtwMTE2S1o1MDJWdzBUbUpheWhSQ3Y5eW5faDNOUGtoSFR3aV90UHhTajN2aFNlUmtRM0xTSTFwTFc2ZDVwd2NyNmJNdHJrUQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">AF</span>
@@ -140,11 +148,27 @@ permalink: /news/tadalafil/
 
 ---
 
+### [A partir de los 65 años: investigadores europeos coinciden en los efectos de la soledad en el deterioro cognitivo - El Economista](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVnN5Wk1SbFpaOV92dEVDQ2xDN3E1cjVNVExHNUJ1OTBVaURsNlRGR0dDSXRWVGNPWHd0MmdZVDlmU1Z2XzNETVE1TGR4TXZpRjFwNkxjenoxY2FXOXR3a3NTUmh1eDd2YkJyU0JvbXhNUHJUUFBUQ1U1SlZWd0Q2MV82eDZodFNoOUJWLTFlZVRrbENkOG5iakxTOFo1emV3b3dSQTA4WllTaFB2UGhBZU93SWZEQU1FX3NfVGt4VWFlZkYxMEVMcmdmUkFSLXpiWW1mU1B6R3RMTDE2YmpmMlRLcDJlUHZfUGZaMThxdF9sNmc3cjd0OFg1NGRlU1A1T0pIU3laZEJRNmkyYzdGdDdxeTFycFdBT3NFQzQwWXI2T25VR0lzOGlB0gGUAkFVX3lxTE03MXZ0SVdrd3VMamdHUWlaTWNlZkM2ZVdIOTJ4QTI3UVRZSnVJMzFQVGtJbUFXM1Y4Z0RkMTh6VGppNnRxNFUtd191aEl2MXBYZG40X1ozRktCTy1jMFd0RUZobGUtTUFuWXAxZ2x5N014bzZ2ZGFWaTBGSmN4M2FPVHZjN3d5MlF3QjJIUGlyMG5jb1VXZzh1ZHRoMGdHOGNwYVZnVWtLSkRvajJRWC14dlNpRFMzb1dlVkU0VUV3REU3TVprZ2ozSmtpejlpUlE5T0lueDN4ZkoxQmhkSTh3MnhzWXBSR210V1hiUFhtcC1DdmxmaWFCcDctdUV6R0VXRlN2WWw4a2tGY1BjR2htSTNJNQ?oc=5)
+
+2026-04-16 <span class="news-indication-tag">AF</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVnN5Wk1SbFpaOV92dEVDQ2xDN3E1cjVNVExHNUJ1OTBVaURsNlRGR0dDSXRWVGNPWHd0MmdZVDlmU1Z2XzNETVE1TGR4TXZpRjFwNkxjenoxY2FXOXR3a3NTUmh1eDd2YkJyU0JvbXhNUHJUUFBUQ1U1SlZWd0Q2MV82eDZodFNoOUJWLTFlZVRrbENkOG5iakxTOFo1emV3b3dSQTA4WllTaFB2UGhBZU93SWZEQU1FX3NfVGt4VWFlZkYxMEVMcmdmUkFSLXpiWW1mU1B6R3RMTDE2YmpmMlRLcDJlUHZfUGZaMThxdF9sNmc3cjd0OFg1NGRlU1A1T0pIU3laZEJRNmkyYzdGdDdxeTFycFdBT3NFQzQwWXI2T25VR0lzOGlB0gGUAkFVX3lxTE03MXZ0SVdrd3VMamdHUWlaTWNlZkM2ZVdIOTJ4QTI3UVRZSnVJMzFQVGtJbUFXM1Y4Z0RkMTh6VGppNnRxNFUtd191aEl2MXBYZG40X1ozRktCTy1jMFd0RUZobGUtTUFuWXAxZ2x5N014bzZ2ZGFWaTBGSmN4M2FPVHZjN3d5MlF3QjJIUGlyMG5jb1VXZzh1ZHRoMGdHOGNwYVZnVWtLSkRvajJRWC14dlNpRFMzb1dlVkU0VUV3REU3TVprZ2ozSmtpejlpUlE5T0lueDN4ZkoxQmhkSTh3MnhzWXBSR210V1hiUFhtcC1DdmxmaWFCcDctdUV6R0VXRlN2WWw4a2tGY1BjR2htSTNJNQ?oc=5)
+
+---
+
 ### [Immuntherapie gegen Krebs stärkt Hoffnung: „Fast wie Science-Fiction“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnFGRnIzZDRsbmlaRV85T2Z1ZEQtUWtxbnRNSTdxNE4xUVpCWlZybWdiVDJ3M0o5Z0p2QmZvZjRGamJRMFRoTXdGR0NmMXFjTTR1U1F2ZHk5V1MzY3pWNE1VTmlDNGlNdzVlUGRuY09wdHVwU2lHQkVsZnYwRVVtSG1rOTVFaTdvOFhhNUxERnFrckdBMlo2QlpRSGdwV3pKRndUVUNnTWZyS3Z5STNRWG1BODV5azhxU2RSMWRFS0xTREVHZkkwTjNDWQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnFGRnIzZDRsbmlaRV85T2Z1ZEQtUWtxbnRNSTdxNE4xUVpCWlZybWdiVDJ3M0o5Z0p2QmZvZjRGamJRMFRoTXdGR0NmMXFjTTR1U1F2ZHk5V1MzY3pWNE1VTmlDNGlNdzVlUGRuY09wdHVwU2lHQkVsZnYwRVVtSG1rOTVFaTdvOFhhNUxERnFrckdBMlo2QlpRSGdwV3pKRndUVUNnTWZyS3Z5STNRWG1BODV5azhxU2RSMWRFS0xTREVHZkkwTjNDWQ?oc=5)
+
+---
+
+### [Researchers warn of severe long-term damage to the brain after Covid following new study - UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
+
+2026-04-16 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
 
 ---
 
@@ -180,6 +204,14 @@ permalink: /news/tadalafil/
 
 ---
 
+### [Lark or owl? Here’s when you should exercise — and what you should do - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
+
+---
+
 ### [Fett macht nicht dick! ernährungswissenschaftlerin entlarvt mythos - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXdqUFJwcXY2djI1Tml5Q3o4UldJVFYzem9QUTJSSy13ZUY5UXB4eEdQY2tIc1VUVjBsbWt6WGNDVmpJQ1FGVDBTb2JOV2JkWWt4Wi1tTEFpVTZ3QTF1MGdOT2hJeHJERlFIaWdiaERXVEcwbVpCc2J5bUpVNG9GSDZwVlBVOFlRR25mT1VuczFWc1YtbXIwY2Q3aTJSemN5LXc?oc=5)
 
 2026-04-15 <span class="news-indication-tag">AF</span>
@@ -212,6 +244,22 @@ permalink: /news/tadalafil/
 
 ---
 
+### [Schlüsselmechanismus bei Adhäsions-Rezeptoren entdeckt: Neue Wege für Entwicklung von Krebs- und Neurotherapien - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BdzVZQ0RtQ09DaEVZeXMzVnBMOWd0OU1OX2lXVUM1bndEOXVYU0x5X1N3RENJR3J2OEkxUE55cExCVVZzX0RMTGdOSQ?oc=5)
+
+2026-04-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BdzVZQ0RtQ09DaEVZeXMzVnBMOWd0OU1OX2lXVUM1bndEOXVYU0x5X1N3RENJR3J2OEkxUE55cExCVVZzX0RMTGdOSQ?oc=5)
+
+---
+
+### [Burundi, malattia misteriosa provoca cinque morti](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
+
+2026-04-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
+
+---
+
 ### [Narkolepsie: Einschlafen war gestern](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmUyYXlfUnUzU3Z1bG9aVGx1cklvekM4RW1rMEFRWkJUdWcwZ2U3ekkzYU5PV0s5Z3lCY21HOURIdTQ1dGdMd2dRS09uMzlXZFJaRHR4QnpfSllKMWlpakpFay10Y3lvamVSUGR1U3N0cUJOdWxiS2VCM1Y2UG9oazFrNU1IeWtDYzVIOGZ3?oc=5)
 
 2026-04-15 <span class="news-indication-tag">AF</span>
@@ -222,7 +270,7 @@ permalink: /news/tadalafil/
 
 ### [Quali esami fare per valutare la salute delle ossa. E quando conviene farli - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
 
-2026-04-15 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">AF</span>
+2026-04-15 <span class="news-indication-tag">AF</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
 

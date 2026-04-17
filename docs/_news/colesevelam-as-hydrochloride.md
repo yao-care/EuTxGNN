@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [Expertos promueven la educación terapéutica como base para el manejo de la diabetes - La Web de la Salud](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGlxT0h2UkdBd2tnYTJtdldPS0JFSjhQVHBGZDgwbFFEd1B2aXpxTlVBTEhDdkxxSndxdEh6c3cyaW90SXMwUTN3RzlmTkxoMTEtSXVjSFZOTkNxRVdHM1lLZ3VMVEs3RFdmQnVTZ0huSjNDTUtuZzNqUW9ReXkzVkZzaVdOeHBjSXpDUHdpQUNFRXd5N09OREpEZGVKU0trU1NKNVhxRHVtSmFwY3BIbQ?oc=5)
 
@@ -60,11 +60,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Pre-diabete quanto è pericoloso, perché non va sottovalutato e perché (forse) non esisterà più](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdC15Si1aQTJVNGJUUmF2UURZd01QemdBQmlPN1dFczRIQkJ6UXZwTW5oSDRJZXhtb1N6MDRRWW9DSXRGc1VNT3pnbk12VEdkVjFLOE80ZlVhV1dtR0ZZYVk0ckFYYmExUUxxYnhIOTFXX0J1bUhlQlV6MF9kRjVaM1JRTW9nckktWWtDS2VxVXRWTmlraVpYSGpfcUU5UVZFTFhta3g3MVhHRURYVVFyVC1R0gG3AUFVX3lxTFBoV3pUSDdlY2NJUlJwZUlzamxNbGxRcjRrSkZUcVMtOU5sTGN5NmtsRHF6N3VVZU4yaURjUlpONWZaR1ZOeG95dzVZNEZVYW4ySUVGTEthUkVoMzJyanRMaGVycUFzX2plWE81b0pNWFQxX3NpZ3VONjdVV0Utc0w4dEZHQ2hWUHJ2QkNHbjFaU2FmR2ZlZm5kUTMxRG11ZmlrUzNHRmdpVFF1Ym5OcTlRN2NoVVl0aw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabete</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdC15Si1aQTJVNGJUUmF2UURZd01QemdBQmlPN1dFczRIQkJ6UXZwTW5oSDRJZXhtb1N6MDRRWW9DSXRGc1VNT3pnbk12VEdkVjFLOE80ZlVhV1dtR0ZZYVk0ckFYYmExUUxxYnhIOTFXX0J1bUhlQlV6MF9kRjVaM1JRTW9nckktWWtDS2VxVXRWTmlraVpYSGpfcUU5UVZFTFhta3g3MVhHRURYVVFyVC1R0gG3AUFVX3lxTFBoV3pUSDdlY2NJUlJwZUlzamxNbGxRcjRrSkZUcVMtOU5sTGN5NmtsRHF6N3VVZU4yaURjUlpONWZaR1ZOeG95dzVZNEZVYW4ySUVGTEthUkVoMzJyanRMaGVycUFzX2plWE81b0pNWFQxX3NpZ3VONjdVV0Utc0w4dEZHQ2hWUHJ2QkNHbjFaU2FmR2ZlZm5kUTMxRG11ZmlrUzNHRmdpVFF1Ym5OcTlRN2NoVVl0aw?oc=5)
+
+---
+
 ### [Annoying foot symptom that could signal diabetes or liver disease - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
 
 2026-04-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
+
+---
+
+### [Lark or owl? Here’s when you should exercise — and what you should do - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
+
+2026-04-15 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
 
 ---
 
@@ -81,14 +97,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FSd191dWpCSVBMbFczR204MGplZjI2X2RPUGlkOFVSVndoYlNwZGUzQ2JZa2xkeE4tZXRueHhoMklxdmhDMTlsWDk2MVhDNGp0dzhxd0ZnLThnSE8tblFScjhYejlLOUh2LWQwMERzdDZ2RVdJc0ZpZWpRLWVlcTVtYWI2QXlySi1SVU1LdVJTb181anhPazllUzlieW03QTVrSw?oc=5)
-
----
-
-### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabete</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
 
 ---
 

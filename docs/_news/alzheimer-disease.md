@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Maladie d'Alzheimer: à Lyon, de nouveaux espoirs pour la recherche](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yVzVBTG5jMHdZUUF2eWdjdTl6MUxqQ3dlQmZHRFdtMk56SnRLMTN1RTM2Mi1uS0FsS2ExN1NrZ25Oc3VWajhMZDlhQkdCQ2NwdmJQRGR3R2h2Sk9JYi1BNmxqeWU0d284U0x5dHVGc3pZMWdtX3lOcg?oc=5)
 
 2026-04-16
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yVzVBTG5jMHdZUUF2eWdjdTl6MUxqQ3dlQmZHRFdtMk56SnRLMTN1RTM2Mi1uS0FsS2ExN1NrZ25Oc3VWajhMZDlhQkdCQ2NwdmJQRGR3R2h2Sk9JYi1BNmxqeWU0d284U0x5dHVGc3pZMWdtX3lOcg?oc=5)
+
+---
+
+### [This speech pattern is an indicator of a brain in cognitive decline](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZVZkxPYXN6ZEI1Q0ZTQ2VVQWl3UXpLcVZhc19OcjRHYVRPZjFRLW5Hc1VkQ3NXbUNvZkZFZHY4dXBhdFI2X3BqaXBYSkxqclJGWkltTjliNHUwaDVDVjFzOE04SmpqZjRNWXZxX2tmMXdVUUR6Ym8zLXF2SVhvMXpWMzF1Z19icGRicW02RUpZTlQ4WVZXR3ZxZ01IVWFtM1czRk51dDBnNUdTNFI2dg?oc=5)
+
+2026-04-16
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZVZkxPYXN6ZEI1Q0ZTQ2VVQWl3UXpLcVZhc19OcjRHYVRPZjFRLW5Hc1VkQ3NXbUNvZkZFZHY4dXBhdFI2X3BqaXBYSkxqclJGWkltTjliNHUwaDVDVjFzOE04SmpqZjRNWXZxX2tmMXdVUUR6Ym8zLXF2SVhvMXpWMzF1Z19icGRicW02RUpZTlQ4WVZXR3ZxZ01IVWFtM1czRk51dDBnNUdTNFI2dg?oc=5)
 
 ---
 

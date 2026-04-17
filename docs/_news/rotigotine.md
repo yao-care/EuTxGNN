@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rotigotine</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（13 則）
 
 ### ['Re: Diagnose Multiple Sklerose' bei...online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
 
@@ -52,19 +52,43 @@ permalink: /news/rotigotine/
 
 ---
 
-### [‘Healthy’ baby in hospital with meningitis despite no symptoms - Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
+### [Alzheimer-Risiko deutlich geringer mit lebenslangem Lernen](https://news.google.com/rss/articles/CBMimgFBVV95cUxON193V1pvaVJYS1U2cWNTNnlaLXpSR3hxOGNZQzJmaVFpT2JNSmxxRXV4cGNpX0xWOUtnTnZ5T1NuT181Qkl5b3BNSldTNm12LVJhUTFIQnJIOHpGc0QzSE15bDJ2VDExVzd3SzdpeDV2NDZ4YlFwTmthTlJkTF80aFR6NXlNVmhhZjdIUDNrUVRJYnBzRWJfQXFB?oc=5)
 
-2026-04-16 <span class="news-indication-tag">MS</span>
+2026-04-17 <span class="news-indication-tag">MS</span>
 
-來源：[Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxON193V1pvaVJYS1U2cWNTNnlaLXpSR3hxOGNZQzJmaVFpT2JNSmxxRXV4cGNpX0xWOUtnTnZ5T1NuT181Qkl5b3BNSldTNm12LVJhUTFIQnJIOHpGc0QzSE15bDJ2VDExVzd3SzdpeDV2NDZ4YlFwTmthTlJkTF80aFR6NXlNVmhhZjdIUDNrUVRJYnBzRWJfQXFB?oc=5)
 
 ---
 
-### [Lebensweise spielt eine große Rolle: Alzheimer-Forscher informiert beim Studium Generale in Pforzheim](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1NFTGpXRExjZFlMaWp1Undpa2dITVBjLVJJemdNVmVEX2p0bWdWRFpXanA4SzU2Q29UVUVXVklDVDRldlAwdGYycXJyZzZKa05pZEx4M3V1cDRLYmpTOVMzUXluOVhOMkxtbUtTWW1XM05hd3pHR3FTWGM4MV8xRTVYc0RoVHdvLTl4MWJNU3JUN3pjNE1BSm1uYVNYZHgySC03NlBtMFlPS0Fwc09Cd2VCcUpBdEtQSmJERVpwRDhlR2N5V1BYMjBMSUEyeEdTcFI5OWR1dF9Uc0YxNVNTZ2tpR29fSlpXdFQ3T0Z3Z1NaVlE?oc=5)
+### [Gut-friendly supermarket foods: what to buy (and what to avoid) - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
 
-2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[PZ-news](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1NFTGpXRExjZFlMaWp1Undpa2dITVBjLVJJemdNVmVEX2p0bWdWRFpXanA4SzU2Q29UVUVXVklDVDRldlAwdGYycXJyZzZKa05pZEx4M3V1cDRLYmpTOVMzUXluOVhOMkxtbUtTWW1XM05hd3pHR3FTWGM4MV8xRTVYc0RoVHdvLTl4MWJNU3JUN3pjNE1BSm1uYVNYZHgySC03NlBtMFlPS0Fwc09Cd2VCcUpBdEtQSmJERVpwRDhlR2N5V1BYMjBMSUEyeEdTcFI5OWR1dF9Uc0YxNVNTZ2tpR29fSlpXdFQ3T0Z3Z1NaVlE?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
+
+---
+
+### [Ecuador refuerza acciones contra el dengue tras repunte de casos - Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UTWRhb1lkZ2cyYTdXRS12T2NpZU0wS09MM2lPc055WkE0WmhZQVljNUFfVmRiMERHQXNxbENPWkI0ajNKakt2a1ZfNzJhVkdZX0Y1RTFQTXg5OFRNVHhfeFZxdEE1elBPZkVWZVdKQ0lEMjY5c0E?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span>
+
+來源：[Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UTWRhb1lkZ2cyYTdXRS12T2NpZU0wS09MM2lPc055WkE0WmhZQVljNUFfVmRiMERHQXNxbENPWkI0ajNKakt2a1ZfNzJhVkdZX0Y1RTFQTXg5OFRNVHhfeFZxdEE1elBPZkVWZVdKQ0lEMjY5c0E?oc=5)
+
+---
+
+### [Covid inquiry urges double compensation for those harmed by vaccine - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2JuVXF4TjFRbVZKeEl3dzBsclp3aEpNNmdIME1SYzJjcnB2bVEycklCdDVtenA2ZHQ4dVNNWVJyQTl6WlowUVJ6c2prdjZFMkRzbTg4enRxM3p3dGkxTWJVZjdCU2djaFVGTHZOT2M5c3FLQXlBSHlZY1hIYjBsZW1rY3R5S240U0g5cDhLWTkyYWN6WXJCNg?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2JuVXF4TjFRbVZKeEl3dzBsclp3aEpNNmdIME1SYzJjcnB2bVEycklCdDVtenA2ZHQ4dVNNWVJyQTl6WlowUVJ6c2prdjZFMkRzbTg4enRxM3p3dGkxTWJVZjdCU2djaFVGTHZOT2M5c3FLQXlBSHlZY1hIYjBsZW1rY3R5S240U0g5cDhLWTkyYWN6WXJCNg?oc=5)
+
+---
+
+### [‘Healthy’ baby in hospital with meningitis despite no symptoms](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span>
+
+來源：[kentonline.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
 
 ---
 
@@ -92,11 +116,27 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Mum with brain tumour highlights need for more research as new trials offered - Hull Live](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEdjT1VLZWZXWXo1emtoWWp6eWVvdU5XTWZJMVV6aVBaUDNDVXpwaTNBRFR5Rm9DLV96SDc1dV93Ulc2N3A5Smx5R0dCbEFSN2ZvRWxZakxUTXh2OGgyUFdLdl9PWVhhUjAzZGppd3dQSlVWb2FNYjQ2U1hkdklwNVdB0gGHAUFVX3lxTE1IRlBRemdtSTZlWG9EQWZ4U3JkRzdnRmRpT0czYVU4Qjg4MTZxbFJjZ0NZRGtCTURyVXR1T2Y3cVQ2NjA5Xzh4a09EZkNCclJBRVdIQWJDQlVTVEtwQ1NhcEhhekJGRDJDei0xNlZ6NVFMcWp0YlIyUU9FQTBVM1FBTVRJbHFhWQ?oc=5)
+### [Netizens horrified after report claims kids’ HIV outbreak in Punjab’s Taunsa caused by reusing syringes - Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
 
-2026-04-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Hull Live](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEdjT1VLZWZXWXo1emtoWWp6eWVvdU5XTWZJMVV6aVBaUDNDVXpwaTNBRFR5Rm9DLV96SDc1dV93Ulc2N3A5Smx5R0dCbEFSN2ZvRWxZakxUTXh2OGgyUFdLdl9PWVhhUjAzZGppd3dQSlVWb2FNYjQ2U1hkdklwNVdB0gGHAUFVX3lxTE1IRlBRemdtSTZlWG9EQWZ4U3JkRzdnRmRpT0czYVU4Qjg4MTZxbFJjZ0NZRGtCTURyVXR1T2Y3cVQ2NjA5Xzh4a09EZkNCclJBRVdIQWJDQlVTVEtwQ1NhcEhhekJGRDJDei0xNlZ6NVFMcWp0YlIyUU9FQTBVM1FBTVRJbHFhWQ?oc=5)
+來源：[Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
+
+---
+
+### [Researchers warn of severe long-term damage to the brain after Covid following new study - UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
+
+2026-04-16 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
+
+---
+
+### [Burundi, malattia misteriosa provoca cinque morti](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
+
+2026-04-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
 
 ---
 
