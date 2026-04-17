@@ -44,6 +44,22 @@ permalink: /news/sacubitril/
 
 ## 相關新聞（12 則）
 
+### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+
+2026-04-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+
+---
+
+### [Un experto alerta en España: las escalas de riesgo cardiovascular en diabetes pueden no adaptarse a todos los pacientes - El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
+
+2026-04-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis wahrscheinlich kein unabhängiger Risikofaktor für Demenz – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">arthritis</span>
@@ -60,22 +76,6 @@ permalink: /news/sacubitril/
 
 ---
 
-### [RNA als Übeltäter: Genetische Ursache für neonatalen Diabetes aufgedeckt - Biermann Medizin](https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0xXam1hYWh4UVl6VDMydUR0XzFkNndXbFhJcWlLUk5UMUp2a2I3UmI3RFhnbTlLeHF2Qm1JRWJFVjc5UXBZUEhiR0JYNzBuelpBTXVuUXZmVVhfeFhfamtOWWtBQ1ZBX1YzSDlGdHdlRmRUb2Q1NldnS1pBVUlUb3gteFoxNXY3N3ZVU2dmMTFidw?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0xXam1hYWh4UVl6VDMydUR0XzFkNndXbFhJcWlLUk5UMUp2a2I3UmI3RFhnbTlLeHF2Qm1JRWJFVjc5UXBZUEhiR0JYNzBuelpBTXVuUXZmVVhfeFhfamtOWWtBQ1ZBX1YzSDlGdHdlRmRUb2Q1NldnS1pBVUlUb3gteFoxNXY3N3ZVU2dmMTFidw?oc=5)
-
----
-
-### [Expertos demandan una actitud más proactiva en prevención y detección precoz de la diabetes en la consulta dental - Gaceta Dental](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEVPak9EdGFyZ3lReGZIMlZXbnJtZUpnRlZDTmhfbjZUMl9uRlBZYTl4YXBLRGJZeVR0ckd6cS1YLXFReTFxcjRZejhKekJSNnNGY0c1QnlnRUV1Qk8ySVprSW1WMDducjNXMWJyUk4wZF9mR2JCUFp1SC1ibXJka1Z1OVVZYUp6UE9fZjlnUQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEVPak9EdGFyZ3lReGZIMlZXbnJtZUpnRlZDTmhfbjZUMl9uRlBZYTl4YXBLRGJZeVR0ckd6cS1YLXFReTFxcjRZejhKekJSNnNGY0c1QnlnRUV1Qk8ySVprSW1WMDducjNXMWJyUk4wZF9mR2JCUFp1SC1ibXJka1Z1OVVZYUp6UE9fZjlnUQ?oc=5)
-
----
-
 ### [Diabetes patients call for more tailored mental health support](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TOU1DZWROcTNKRmdiS1BudlUtZ282N18wSktnMkpsZDZLT0ZtQzV4XzZpUjdGY1RtOXRLb3R4NXpvMHVjaVBwNFdpOXA4Nlc0czRxNnpLa1VSOWVE?oc=5)
 
 2026-04-17 <span class="news-indication-tag">diabetes</span>
@@ -89,14 +89,6 @@ permalink: /news/sacubitril/
 2026-04-17 <span class="news-indication-tag">arthritis</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ05vRlcwRHlSWDNLTEh6VlYtSURsWWNvSWl2aHpvaVJIUDlCWXM3bUxoNWVDOVQtWDV5UThxWGNqMmRoeUtwZWFoaGt5VVJlWDdEeXBKWXFQTlFzZTVqZVpnLU1MemNERmJYOGhTWUw4c2tZVkw4NlVaRjJvaWxfdGRzWjNidUptOHVkVy10RTU3VnRYR29R?oc=5)
-
----
-
-### [Chronische Schmerzen: Forschung macht Hoffnung, Politik droht mit Kürzungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlFpWmFUWTFSLVdIYS1aZjV0eEdvZHctQlE1SWdicEQ2b3RWblhnWURwUmI3VUpPRTZLYjYtbjNxa28xOGI4eWxxOXZ6c3EwMk9UMVNqXzRRaXZBV2ZKOENQdF9mTTcxNWpRME93WFRQRm84a0p5Z1FEZUZnLURxeHIzSEVfSE1IS2VWVkxhazVQa0Rhb0FGYmNKeE5kT284Rnd1RmlNOVdZNzBvZklOckNmaVZ1ejh2YnVrZHpmYw?oc=5)
-
-2026-04-16 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlFpWmFUWTFSLVdIYS1aZjV0eEdvZHctQlE1SWdicEQ2b3RWblhnWURwUmI3VUpPRTZLYjYtbjNxa28xOGI4eWxxOXZ6c3EwMk9UMVNqXzRRaXZBV2ZKOENQdF9mTTcxNWpRME93WFRQRm84a0p5Z1FEZUZnLURxeHIzSEVfSE1IS2VWVkxhazVQa0Rhb0FGYmNKeE5kT284Rnd1RmlNOVdZNzBvZklOckNmaVZ1ejh2YnVrZHpmYw?oc=5)
 
 ---
 
@@ -121,6 +113,14 @@ permalink: /news/sacubitril/
 2026-04-16 <span class="news-indication-tag">diabete</span>
 
 來源：[DiLei](https://news.google.com/rss/articles/CBMisgFBVV95cUxNdC15Si1aQTJVNGJUUmF2UURZd01QemdBQmlPN1dFczRIQkJ6UXZwTW5oSDRJZXhtb1N6MDRRWW9DSXRGc1VNT3pnbk12VEdkVjFLOE80ZlVhV1dtR0ZZYVk0ckFYYmExUUxxYnhIOTFXX0J1bUhlQlV6MF9kRjVaM1JRTW9nckktWWtDS2VxVXRWTmlraVpYSGpfcUU5UVZFTFhta3g3MVhHRURYVVFyVC1R0gG3AUFVX3lxTFBoV3pUSDdlY2NJUlJwZUlzamxNbGxRcjRrSkZUcVMtOU5sTGN5NmtsRHF6N3VVZU4yaURjUlpONWZaR1ZOeG95dzVZNEZVYW4ySUVGTEthUkVoMzJyanRMaGVycUFzX2plWE81b0pNWFQxX3NpZ3VONjdVV0Utc0w4dEZHQ2hWUHJ2QkNHbjFaU2FmR2ZlZm5kUTMxRG11ZmlrUzNHRmdpVFF1Ym5OcTlRN2NoVVl0aw?oc=5)
+
+---
+
+### [Annoying foot symptom that could signal diabetes or liver disease - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
 
 ---
 

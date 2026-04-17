@@ -52,6 +52,14 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
+### [Ozempic, Wegovy, Mounjaro : la révolution des médicaments anti-obésité - Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
+
+2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
+
+---
+
 ### [La dieta mediterránea y la actividad física podría frenar la obesidad desde la etapa preescolar, según un estudio - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHF6NERTdmQ2cmkxWVE5QXRnRFBndTRsR0RwZHRBNW85aFB1Zml3SV9kbVN2enpRaVMyNFNOdEVOTzhIRWttTHcxYW9qTlpZRGFxV1FDTW5xcjg4Q1gtMkd5M3ZBUGNWOUhnM1F5a2VJT2k2b1ZNNUJNYXhZSjlDN0Z6S2JrT2F4TUtqWXFZekdkdllvUmVITlBVNjFZdU9fVUdpTENYT3BfOE1Id3ViRnFRUkJnUnNUSVc3X1pxdDBiZmJOSFVoemRRUjhoNjhoYzBsVU5DcFlZRVNvT3I2ZjFlanRfdnljVDJubF9XZHU?oc=5)
 
 2026-04-17 <span class="news-indication-tag">obesidad</span>
@@ -65,14 +73,6 @@ permalink: /news/lasmiditan-succinate/
 2026-04-16 <span class="news-indication-tag">Migräne</span>
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
-
----
-
-### [Lomagna si cura: il 16 focus sull’obesità con il dottor Jacob Panzeri - Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
-
-2026-04-16 <span class="news-indication-tag">obesità</span>
-
-來源：[Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
 ---
 

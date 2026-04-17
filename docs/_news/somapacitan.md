@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,21 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Un experto alerta en España: las escalas de riesgo cardiovascular en diabetes pueden no adaptarse a todos los pacientes - El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
+
+2026-04-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
+
+---
 
 ### [El Hospital público Puerta de Hierro, primero de España en implementar un cribado basado en pruebas de laboratorio que detecta enfermedades hepáticas en pacientes con diabetes - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
 
 2026-04-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
-
----
-
-### [RNA als Übeltäter: Genetische Ursache für neonatalen Diabetes aufgedeckt - Biermann Medizin](https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0xXam1hYWh4UVl6VDMydUR0XzFkNndXbFhJcWlLUk5UMUp2a2I3UmI3RFhnbTlLeHF2Qm1JRWJFVjc5UXBZUEhiR0JYNzBuelpBTXVuUXZmVVhfeFhfamtOWWtBQ1ZBX1YzSDlGdHdlRmRUb2Q1NldnS1pBVUlUb3gteFoxNXY3N3ZVU2dmMTFidw?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0xXam1hYWh4UVl6VDMydUR0XzFkNndXbFhJcWlLUk5UMUp2a2I3UmI3RFhnbTlLeHF2Qm1JRWJFVjc5UXBZUEhiR0JYNzBuelpBTXVuUXZmVVhfeFhfamtOWWtBQ1ZBX1YzSDlGdHdlRmRUb2Q1NldnS1pBVUlUb3gteFoxNXY3N3ZVU2dmMTFidw?oc=5)
-
----
-
-### [Expertos demandan una actitud más proactiva en prevención y detección precoz de la diabetes en la consulta dental - Gaceta Dental](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEVPak9EdGFyZ3lReGZIMlZXbnJtZUpnRlZDTmhfbjZUMl9uRlBZYTl4YXBLRGJZeVR0ckd6cS1YLXFReTFxcjRZejhKekJSNnNGY0c1QnlnRUV1Qk8ySVprSW1WMDducjNXMWJyUk4wZF9mR2JCUFp1SC1ibXJka1Z1OVVZYUp6UE9fZjlnUQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEVPak9EdGFyZ3lReGZIMlZXbnJtZUpnRlZDTmhfbjZUMl9uRlBZYTl4YXBLRGJZeVR0ckd6cS1YLXFReTFxcjRZejhKekJSNnNGY0c1QnlnRUV1Qk8ySVprSW1WMDducjNXMWJyUk4wZF9mR2JCUFp1SC1ibXJka1Z1OVVZYUp6UE9fZjlnUQ?oc=5)
 
 ---
 
@@ -108,19 +100,19 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Annoying foot symptom that could signal diabetes or liver disease - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
+
+---
+
 ### [Camminare di pomeriggio è meglio per la glicemia, lo studio e l'orario ideale](https://news.google.com/rss/articles/CBMingFBVV95cUxOTzBYdXo0RmFqR2xQUkxXSTRZSnRQNzVVc1JzRG5sV0tWZXBWTmhiV2RFRWFyUWQ3OXYzNVRfX1BJSWgzUjg4Y3I5VlFxanVzdDlnSFNsRG9idDBZVmhBX3Z2V2hsRmh4dVV5UlVDdFAtWVl0ajZ3cWFKR29TdXpMWFVfTFNXc204UWhuN2FlcWpTRlZLd0JlMzJiRWVKdw?oc=5)
 
 2026-04-15 <span class="news-indication-tag">diabete</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMingFBVV95cUxOTzBYdXo0RmFqR2xQUkxXSTRZSnRQNzVVc1JzRG5sV0tWZXBWTmhiV2RFRWFyUWQ3OXYzNVRfX1BJSWgzUjg4Y3I5VlFxanVzdDlnSFNsRG9idDBZVmhBX3Z2V2hsRmh4dVV5UlVDdFAtWVl0ajZ3cWFKR29TdXpMWFVfTFNXc204UWhuN2FlcWpTRlZLd0JlMzJiRWVKdw?oc=5)
-
----
-
-### [Los avances tecnológicos y terapéuticos marcan una nueva era en el control del asma - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">asma</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
 
 ---
 

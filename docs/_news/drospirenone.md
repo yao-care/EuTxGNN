@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Drospirenone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+
+2026-04-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis wahrscheinlich kein unabhängiger Risikofaktor für Demenz – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
 
@@ -60,14 +68,6 @@ permalink: /news/drospirenone/
 
 ---
 
-### [Chronische Schmerzen: Forschung macht Hoffnung, Politik droht mit Kürzungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlFpWmFUWTFSLVdIYS1aZjV0eEdvZHctQlE1SWdicEQ2b3RWblhnWURwUmI3VUpPRTZLYjYtbjNxa28xOGI4eWxxOXZ6c3EwMk9UMVNqXzRRaXZBV2ZKOENQdF9mTTcxNWpRME93WFRQRm84a0p5Z1FEZUZnLURxeHIzSEVfSE1IS2VWVkxhazVQa0Rhb0FGYmNKeE5kT284Rnd1RmlNOVdZNzBvZklOckNmaVZ1ejh2YnVrZHpmYw?oc=5)
-
-2026-04-16 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlFpWmFUWTFSLVdIYS1aZjV0eEdvZHctQlE1SWdicEQ2b3RWblhnWURwUmI3VUpPRTZLYjYtbjNxa28xOGI4eWxxOXZ6c3EwMk9UMVNqXzRRaXZBV2ZKOENQdF9mTTcxNWpRME93WFRQRm84a0p5Z1FEZUZnLURxeHIzSEVfSE1IS2VWVkxhazVQa0Rhb0FGYmNKeE5kT284Rnd1RmlNOVdZNzBvZklOckNmaVZ1ejh2YnVrZHpmYw?oc=5)
-
----
-
 ### [Vitamin D3 – lindert es allergisches Asthma?](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
 
 2026-04-16 <span class="news-indication-tag">asthma</span>
@@ -81,14 +81,6 @@ permalink: /news/drospirenone/
 2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
-
----
-
-### [Los avances tecnológicos y terapéuticos marcan una nueva era en el control del asma - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">asma</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0liaTdaMXQ1WDg1cU5KTGdmT0I5M0lwUThVekptd1ctTFBNVV9aaDBFdnRpTHFBTFMyaW82RnJhNmRoTHBWNnprQTQzQm54VnMtS1ZIeVRNdGpJQkZLUTh0aFJaNW5yZXNJc3o0QUNJSTMwT0NsSWpJRFZfY2swOXRYZTlGcWg1dnlHT1VYbXdzM3ZMWWYzZlBxU0tOcTJ6bk5rRk0wVUktWFNfVnd3Mm4tSEpZUnhVZ2EwY0RKcHrSAbsBQVVfeXFMTVhXZ0dCSUhxcnQ0S0tWZ184cDRwdmJCeWpHZnFHTzFuMWxnU0lkT0lGVzZBNHkxTnZFeUVBQVg4YW5LdVJmZjVuQW9RRzU2T1lIM2ZWMzJCSHdfc2tNb3piOUVuS0tCMUFmaHNCNEpqT1dHWjljc05fN1IxZmhHNFhydU1obEdVdVZCOS1FU2t0TV9JZnFJOUVnSW90OGtJTC1aR1JnT3MyR2VfVUxoZ3NqSEt6WTdqdlZySQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Velpatasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
-### [Meningitis outbreak hits Weymouth schools - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPWEFnclRNbU9CVmdIVDZOWXNrYlktSDAxc29ERC1DcFBGQ1RBbVpGQ3dTYm55azk1VnRmRGNmQlRzTTc1YTEyd0R2amEzQ1o3aHhIcWR5VGNnMzRRSGJRX2pjb0dHbmlsUC02TWpJS0FfNFV2YTBEbkZCVHppTmtVa1piM3ZraDZNTVdYWnR0OXU0TmcwNi12cHhWaVdqdw?oc=5)
+### [Second vaccine offered after meningitis B outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+
+---
+
+### [SoVD-Themenfrühstück in Haselünne/Herzlake: Tipps zur Stärkung des Immunsystems](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVFPRlJ5RjQwdEhWTmNlN0s2U0I5TEs0dzdLV0lEOXBGazhoMVpMSzMyLW56OTVGOHZqWjRZc29EM2o0c3VnYXpmQkw0YlNRcHctTWpIMjdSTjVZZkRMeHFGTlc5MjJCODVDZE1RdFhWcTFnalM3b0lYYmhhcGduVGZUWGM0RTA0dkdDcGVPZHRoNVpSSXJyM1ctbGhUVXg5VHJMZVR6UHdOanRfUjk1dEZBZTdDZXFQTUd3aGQzemd6SGg3MWd6VUlld3RBdlE?oc=5)
 
 2026-04-17 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPWEFnclRNbU9CVmdIVDZOWXNrYlktSDAxc29ERC1DcFBGQ1RBbVpGQ3dTYm55azk1VnRmRGNmQlRzTTc1YTEyd0R2amEzQ1o3aHhIcWR5VGNnMzRRSGJRX2pjb0dHbmlsUC02TWpJS0FfNFV2YTBEbkZCVHppTmtVa1piM3ZraDZNTVdYWnR0OXU0TmcwNi12cHhWaVdqdw?oc=5)
+來源：[noz.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVFPRlJ5RjQwdEhWTmNlN0s2U0I5TEs0dzdLV0lEOXBGazhoMVpMSzMyLW56OTVGOHZqWjRZc29EM2o0c3VnYXpmQkw0YlNRcHctTWpIMjdSTjVZZkRMeHFGTlc5MjJCODVDZE1RdFhWcTFnalM3b0lYYmhhcGduVGZUWGM0RTA0dkdDcGVPZHRoNVpSSXJyM1ctbGhUVXg5VHJMZVR6UHdOanRfUjk1dEZBZTdDZXFQTUd3aGQzemd6SGg3MWd6VUlld3RBdlE?oc=5)
+
+---
+
+### [Madrid destina 3 millones de euros a vacunas infantiles contra enfermedades comunes](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGh5a204MnJtSDJ4N1I3dzk3clA0ODR5ZFRMUWxCRl9PVl9IZmJnc3VkeXhhUVExVDZXNkoxc1l3VVZUZ3lpY2V5YVJMd3hvSnZ4YnBlU2RyMnM4RzF4SVAyOWZqUXJtcy0tVzFLWTIxNmQyS2JKa1AxNHNZMXAyVnlHNjBEcmhPcnRWcl9WVThISzZGR0R0SUx6dU4wNGZnRzJnRFphRC0wRGlxWkVzRllEQlhTb0FEaUh2MjNnVzlIdmJabzk3S2wzOTNVaFBnb2diYlBtMm80cnhfT21OZXZ1QzRrMmZDb3FCLU14NA?oc=5)
+
+2026-04-17 <span class="news-indication-tag">hepatitis</span>
+
+來源：[elfarodelguadarrama.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGh5a204MnJtSDJ4N1I3dzk3clA0ODR5ZFRMUWxCRl9PVl9IZmJnc3VkeXhhUVExVDZXNkoxc1l3VVZUZ3lpY2V5YVJMd3hvSnZ4YnBlU2RyMnM4RzF4SVAyOWZqUXJtcy0tVzFLWTIxNmQyS2JKa1AxNHNZMXAyVnlHNjBEcmhPcnRWcl9WVThISzZGR0R0SUx6dU4wNGZnRzJnRFphRC0wRGlxWkVzRllEQlhTb0FEaUh2MjNnVzlIdmJabzk3S2wzOTNVaFBnb2diYlBtMm80cnhfT21OZXZ1QzRrMmZDb3FCLU14NA?oc=5)
 
 ---
 
@@ -84,27 +100,27 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Alzheimer-Risiko deutlich geringer mit lebenslangem Lernen](https://news.google.com/rss/articles/CBMimgFBVV95cUxON193V1pvaVJYS1U2cWNTNnlaLXpSR3hxOGNZQzJmaVFpT2JNSmxxRXV4cGNpX0xWOUtnTnZ5T1NuT181Qkl5b3BNSldTNm12LVJhUTFIQnJIOHpGc0QzSE15bDJ2VDExVzd3SzdpeDV2NDZ4YlFwTmthTlJkTF80aFR6NXlNVmhhZjdIUDNrUVRJYnBzRWJfQXFB?oc=5)
+### ['My heartburn felt like a warning sign - and it was'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xMTZNMVk2RGtlcXEtUHdwTllXR1d0Q1gtRU1CNTB3YVVCUGQ4bVIyR09RU0trM01MSllrY2d5OWFhTVdsN3lDT2lKWndkc0NIY0hjbURvTzQ2Zlkx?oc=5)
 
-2026-04-16 <span class="news-indication-tag">MS</span>
+2026-04-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxON193V1pvaVJYS1U2cWNTNnlaLXpSR3hxOGNZQzJmaVFpT2JNSmxxRXV4cGNpX0xWOUtnTnZ5T1NuT181Qkl5b3BNSldTNm12LVJhUTFIQnJIOHpGc0QzSE15bDJ2VDExVzd3SzdpeDV2NDZ4YlFwTmthTlJkTF80aFR6NXlNVmhhZjdIUDNrUVRJYnBzRWJfQXFB?oc=5)
-
----
-
-### [‘Healthy’ baby in hospital with meningitis despite no symptoms](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
-
-2026-04-16 <span class="news-indication-tag">MS</span>
-
-來源：[kentonline.co.uk](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xMTZNMVk2RGtlcXEtUHdwTllXR1d0Q1gtRU1CNTB3YVVCUGQ4bVIyR09RU0trM01MSllrY2d5OWFhTVdsN3lDT2lKWndkc0NIY0hjbURvTzQ2Zlkx?oc=5)
 
 ---
 
-### [A longevity expert on how to live longer, without spending a fortune - Daily Mail](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFp3ZVhmNzFWb29nclZIdW5wdGtlUEw1T1JTTU4yTVpoWjc3T2V0RndDMTNBQ3pmR3k1VXN0eEtuTUhKZzhCTG8zakozQVgwU21UMnRBQWREb3dfa0ZoZDJ0UHA3SnZRMGhfOUJJakhtdmNndEtIMnNtRkE4cUFINXNKcW1uNXhNdi10dlJpQThjRHkzS2QxWk5JcjRlS2doSEEyMDFaNmVheG92di1yR09MWXJSWlU?oc=5)
+### [The best vitamin C serums in the UK for every skin type and budget, tested - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFd6QlF2MldPX0g0a05Ld2NWLUFKeHBLc01qTlRlMHI1ci1TUWlJVjV6bnhLS2E3dlZVNEF1amszUTFDS2xfTXFvLVozUmR5bjdkSVlCODJPY2lyTWo5MUF4X0ZZNVgwVEFSaUpCSWo0MmV5bzB0cVBjQWczeV92UUxFelA5bGM?oc=5)
 
 2026-04-16 <span class="news-indication-tag">MS</span>
 
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFp3ZVhmNzFWb29nclZIdW5wdGtlUEw1T1JTTU4yTVpoWjc3T2V0RndDMTNBQ3pmR3k1VXN0eEtuTUhKZzhCTG8zakozQVgwU21UMnRBQWREb3dfa0ZoZDJ0UHA3SnZRMGhfOUJJakhtdmNndEtIMnNtRkE4cUFINXNKcW1uNXhNdi10dlJpQThjRHkzS2QxWk5JcjRlS2doSEEyMDFaNmVheG92di1yR09MWXJSWlU?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFd6QlF2MldPX0g0a05Ld2NWLUFKeHBLc01qTlRlMHI1ci1TUWlJVjV6bnhLS2E3dlZVNEF1amszUTFDS2xfTXFvLVozUmR5bjdkSVlCODJPY2lyTWo5MUF4X0ZZNVgwVEFSaUpCSWo0MmV5bzB0cVBjQWczeV92UUxFelA5bGM?oc=5)
+
+---
+
+### [‘Healthy’ baby in hospital with meningitis despite no symptoms - Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span>
+
+來源：[Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
 
 ---
 
@@ -126,7 +142,7 @@ permalink: /news/velpatasvir/
 
 ### [Researchers warn of severe long-term damage to the brain after Covid following new study - UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
 
-2026-04-16 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
 

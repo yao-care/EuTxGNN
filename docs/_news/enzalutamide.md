@@ -14,7 +14,7 @@ permalink: /news/enzalutamide/
 ---
 
 <p class="key-answer" data-question="Enzalutamide 有什麼相關新聞？">
-<strong>Enzalutamide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Enzalutamide</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,45 @@ permalink: /news/enzalutamide/
 <p><a href="{{ '/drugs/enzalutamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（27 則）
 
-### [El grupo de Eva González en el CNIO descubre nueva vía para identificar lesiones precancerosas de mama - La Web de la Salud](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFlRMXJtMWdacGNsNS1mZzZlTWtLNTRlXzVndnJRdzkwbVVDdW1NQ3VsaEFWYk1BNkt0YlQxMzVJODJVNXlLeUNMaXV2clRNdXV3WGdGN2xmOHFrRzJOOXFmUDJpOVNUU3hyNHRKaGNvYV9POVExOXhEWFFvNnhFS0ZBVjNTTmlOTTVJdlBIMXpuZ1hqNkVfWXp4Z1NoN2dsdlFISUthN01CN1lkbHVXMlQxbmN0c1dqWWlUT0dFbnROTmg5NVVXV1NB?oc=5)
+### [Quali esami fare per valutare la salute delle ossa. E quando conviene farli - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
+
+2026-04-17 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
+
+---
+
+### [I was diagnosed with deadly cancer after wearing my dad's COAT decades ago - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
+
+2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
+
+---
+
+### [Da topi anziani nuovi indizi sul legame tra età e tumori. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
+
+2026-04-17 <span class="news-indication-tag">tumor</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
+
+---
+
+### [I beat cancer at 26 but still lost happy ending after cruel twist stole my wife - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
+
+2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
+
+---
+
+### [Bowel cancer test change sees rise in diagnoses](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span>
 
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFlRMXJtMWdacGNsNS1mZzZlTWtLNTRlXzVndnJRdzkwbVVDdW1NQ3VsaEFWYk1BNkt0YlQxMzVJODJVNXlLeUNMaXV2clRNdXV3WGdGN2xmOHFrRzJOOXFmUDJpOVNUU3hyNHRKaGNvYV9POVExOXhEWFFvNnhFS0ZBVjNTTmlOTTVJdlBIMXpuZ1hqNkVfWXp4Z1NoN2dsdlFISUthN01CN1lkbHVXMlQxbmN0c1dqWWlUT0dFbnROTmg5NVVXV1NB?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
 
 ---
 
@@ -65,6 +97,14 @@ permalink: /news/enzalutamide/
 2026-04-17 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
+
+---
+
+### [Encuentran un marcador que identifica las lesiones precancerosas de mama que se convertirán en tumores](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzBLQlc0Ykd0dnNHTzhUbWxDTlhxbW1JU0Q1dEV0MktnU2c1R2RzQkhxc2M3LU9yVFlJWlI1MS1SU2xFQmdtUUloYUR2cFMyWXlWWjhsMTZPdGt6MUZWS2NUNVg4b2hIbXFJVXJiNGNuNUYzcnd2cE5HaGphUjJ5Z0ZiSXhTUUhNUG55NHFNcDlFbnE3V2NVdHB3MFVIQ0l1X1BqQTlqSTl1T1kyV0lSMFZLQkl0ZzFvdGxWSXNzWjNjQ0tOUFBvd3QzOTRJNjRDQ3hHNA?oc=5)
+
+2026-04-17 <span class="news-indication-tag">cancer</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzBLQlc0Ykd0dnNHTzhUbWxDTlhxbW1JU0Q1dEV0MktnU2c1R2RzQkhxc2M3LU9yVFlJWlI1MS1SU2xFQmdtUUloYUR2cFMyWXlWWjhsMTZPdGt6MUZWS2NUNVg4b2hIbXFJVXJiNGNuNUYzcnd2cE5HaGphUjJ5Z0ZiSXhTUUhNUG55NHFNcDlFbnE3V2NVdHB3MFVIQ0l1X1BqQTlqSTl1T1kyV0lSMFZLQkl0ZzFvdGxWSXNzWjNjQ0tOUFBvd3QzOTRJNjRDQ3hHNA?oc=5)
 
 ---
 
@@ -92,11 +132,11 @@ permalink: /news/enzalutamide/
 
 ---
 
-### [Así se produce el salto de un tumor benigno a cáncer de páncreas - El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmJYY1FBd3l0VTFaYkdEdENERXdEaDZjZVYxUGtEbDlTTjNEaXlhT0tzbW1GZzlOOHVYejZRUXR1MHh1U1gzMGFCVzFQREZLaGNjU1Q2RzhfYTRzYVJqOThwb3M4dDRsSHhfSXNscXBiRGVkNjJGVjF2NW9EaGdfM1NadktCbkFpQ054UFY0aVZPX09iY1luVU9DWmE4SnFLaGFZcHY3QTE5b0hQTHV1S0Mya3NMYnBG0gG-AUFVX3lxTE5OcnRlN08yWENyaHdRcnBBLV9WQmt4QnpuS1JOT2VzSlNSVXczTjZjWTJkWFV3b19TSjJ2eW00Mlp4ZURldGFzd0ZOYnI2SDBhRlF3YXB0dWtrRkxCc2hnelpld3F5RnVDV29oX08yNXpwaUR6dThibFlFR3BMLTdPTkpWMFhWdmJwN21qbTdlX3ZROFFMbWVoTkYtdkdKVGl4OXJmaXZYNFdsTDRyYm5GSHlkVEUxZVU4dTV2dHc?oc=5)
+### [Un test del sangue rileva la leucemia meglio della biopsia](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmtyWFpHSXNXdXBBSFRrdzNaYVBtNEMwNGV2UDVybXRUQ2RzNnpkcXFXWm9mdkpKUExXalY5eDljUE41M2dmQUhOWTBJVFplNjZpSlNnbEZWaVZubXZKM1hRcnVMWW5SRG9KYWdjcWRMMUVodW9ubXVabThyNlBxNHV1VQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">tumor</span>
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmJYY1FBd3l0VTFaYkdEdENERXdEaDZjZVYxUGtEbDlTTjNEaXlhT0tzbW1GZzlOOHVYejZRUXR1MHh1U1gzMGFCVzFQREZLaGNjU1Q2RzhfYTRzYVJqOThwb3M4dDRsSHhfSXNscXBiRGVkNjJGVjF2NW9EaGdfM1NadktCbkFpQ054UFY0aVZPX09iY1luVU9DWmE4SnFLaGFZcHY3QTE5b0hQTHV1S0Mya3NMYnBG0gG-AUFVX3lxTE5OcnRlN08yWENyaHdRcnBBLV9WQmt4QnpuS1JOT2VzSlNSVXczTjZjWTJkWFV3b19TSjJ2eW00Mlp4ZURldGFzd0ZOYnI2SDBhRlF3YXB0dWtrRkxCc2hnelpld3F5RnVDV29oX08yNXpwaUR6dThibFlFR3BMLTdPTkpWMFhWdmJwN21qbTdlX3ZROFFMbWVoTkYtdkdKVGl4OXJmaXZYNFdsTDRyYm5GSHlkVEUxZVU4dTV2dHc?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmtyWFpHSXNXdXBBSFRrdzNaYVBtNEMwNGV2UDVybXRUQ2RzNnpkcXFXWm9mdkpKUExXalY5eDljUE41M2dmQUhOWTBJVFplNjZpSlNnbEZWaVZubXZKM1hRcnVMWW5SRG9KYWdjcWRMMUVodW9ubXVabThyNlBxNHV1VQ?oc=5)
 
 ---
 
@@ -124,11 +164,27 @@ permalink: /news/enzalutamide/
 
 ---
 
-### [Más allá del cáncer de mama: BRCA también influye en otros tumores poco estudiados - Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFdaOC0yd1hpOFVRRHRWRldvbWJCMFBuVUhtTWFtSDNDZzFpd1hvSGhURVVQWkdoVFBjai1ONEJ2OUlRRnpKVVJyeDNFOE1oMUREclVxQ210SG8xdl9hRDNGUTluSFJadnBJemw5WkNxS3dZQ3czcDYxRXR6WnVfcDBXVm1mUUNDRXpBT3daenpKQjhaREc0ZVM1ZXh1WWdCeXhsSGpB?oc=5)
+### [Tumori urologici, specialisti a confronto all'ospedale di Cremona](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkpHVk40a2lMU3o3eWJoUFFUdUV6cHZFUk5KdUl1blN0dGZCczlEaGRKanVZZXQtZGE2cTdERlJJZ0JWc0NYNFZUemVYUHhxcnpfUkxxUE5wUFp5akRDU1EtMUx1VDFYOXRjZzRFZ3BvbXdBb3ZaTUZKTVVJeUlnckVhRDB4UHFOclZkUFFtVkUtWHh5X2JMa1MyN3BMSGEzYnlwRQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">tumor</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFdaOC0yd1hpOFVRRHRWRldvbWJCMFBuVUhtTWFtSDNDZzFpd1hvSGhURVVQWkdoVFBjai1ONEJ2OUlRRnpKVVJyeDNFOE1oMUREclVxQ210SG8xdl9hRDNGUTluSFJadnBJemw5WkNxS3dZQ3czcDYxRXR6WnVfcDBXVm1mUUNDRXpBT3daenpKQjhaREc0ZVM1ZXh1WWdCeXhsSGpB?oc=5)
+來源：[Cremonaoggi](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkpHVk40a2lMU3o3eWJoUFFUdUV6cHZFUk5KdUl1blN0dGZCczlEaGRKanVZZXQtZGE2cTdERlJJZ0JWc0NYNFZUemVYUHhxcnpfUkxxUE5wUFp5akRDU1EtMUx1VDFYOXRjZzRFZ3BvbXdBb3ZaTUZKTVVJeUlnckVhRDB4UHFOclZkUFFtVkUtWHh5X2JMa1MyN3BMSGEzYnlwRQ?oc=5)
+
+---
+
+### [Tumour cells use a genetic trick to become drug-resistant - The Economist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5)
+
+2026-04-16 <span class="news-indication-tag">tumour</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5)
+
+---
+
+### ['My heartburn felt like a warning sign - and it was'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xMTZNMVk2RGtlcXEtUHdwTllXR1d0Q1gtRU1CNTB3YVVCUGQ4bVIyR09RU0trM01MSllrY2d5OWFhTVdsN3lDT2lKWndkc0NIY0hjbURvTzQ2Zlkx?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xMTZNMVk2RGtlcXEtUHdwTllXR1d0Q1gtRU1CNTB3YVVCUGQ4bVIyR09RU0trM01MSllrY2d5OWFhTVdsN3lDT2lKWndkc0NIY0hjbURvTzQ2Zlkx?oc=5)
 
 ---
 
@@ -140,27 +196,11 @@ permalink: /news/enzalutamide/
 
 ---
 
-### [Ad Aosta il convegno "Neoplasie Urologiche – Gestione evidence-based nella pratica clinica - AostaSera -](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVlHaFpOMXdtRl9MNUtLUE94dVN2N0M3VEYyQmlCZnFqZzlKUkNFbHZIMC1WZ21SeEVDeW5URTM4ekhfUEVEbndrVnQ2RGFmdWFCbGdwMEh3dm43TkhNRG5jS3ZBeFYtZW5GbkFVdDFNTUdONHBIbHQwMmlKMWpGdzdHdFV0Yy1Cd05ydFd3MFRrYzlKdHp5ZEpvd3dEVzN1U0xNZEUwMWVUcThQekNiS1MwNWN1cTh3TVNqaUpLOVViMURGYlRiSDZ2b2s?oc=5)
-
-2026-04-16 <span class="news-indication-tag">tumor</span>
-
-來源：[AostaSera -](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVlHaFpOMXdtRl9MNUtLUE94dVN2N0M3VEYyQmlCZnFqZzlKUkNFbHZIMC1WZ21SeEVDeW5URTM4ekhfUEVEbndrVnQ2RGFmdWFCbGdwMEh3dm43TkhNRG5jS3ZBeFYtZW5GbkFVdDFNTUdONHBIbHQwMmlKMWpGdzdHdFV0Yy1Cd05ydFd3MFRrYzlKdHp5ZEpvd3dEVzN1U0xNZEUwMWVUcThQekNiS1MwNWN1cTh3TVNqaUpLOVViMURGYlRiSDZ2b2s?oc=5)
-
----
-
 ### [Cancro al colon, la diagnosi di Fiona Fleming: “Sono un medico di base, non pensavo potesse colpire me”](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzVWejhDM0Fsbl9MNTU1aUR5dTdKUWdmVTZxUmhXMmVkZnV3RGdBMFVZMTJweEZOcDFBMllaQXZxWDhSMUhGZWpEajB1SnZUN3JTcXpmdlIxbGtXQlVQdjFvUmlOV21ISklyd09iVW1pOE82SEtBUXdUUF9wYkZDM3RtYkYtRTVsaTJrLVdSMXVXSXRvMXYtQy1pZ1ViYWg3N2NtbjJPYnltcVM0Z3JZRENtU3dxWVA4SEhFTUkyZnRFMW1obkk5UkNZSFpGbnotNVA5S2VtTkpfQQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">cancro</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzVWejhDM0Fsbl9MNTU1aUR5dTdKUWdmVTZxUmhXMmVkZnV3RGdBMFVZMTJweEZOcDFBMllaQXZxWDhSMUhGZWpEajB1SnZUN3JTcXpmdlIxbGtXQlVQdjFvUmlOV21ISklyd09iVW1pOE82SEtBUXdUUF9wYkZDM3RtYkYtRTVsaTJrLVdSMXVXSXRvMXYtQy1pZ1ViYWg3N2NtbjJPYnltcVM0Z3JZRENtU3dxWVA4SEhFTUkyZnRFMW1obkk5UkNZSFpGbnotNVA5S2VtTkpfQQ?oc=5)
-
----
-
-### [Gehirn spielt verrückt: tumor als ursache für psychische krise? - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzhjR3Mxd3h0MTE5cEwxcXNRcXpYYlBCZnQ3eTNjcTZJb3NaaG5JTHpRb2F4YTFKeGF5aV8zTkJtUlgxQzR1V3dTZUZHNjhHRzRQYWttbkJCRGVmWnB3ZVh6OUVwclVBcW4zT0tTVUtuSjktYTA2RVNvM00yMjNnZEpybFp2YVdJMGpxX09NSVhXTUstWTJMUUFn?oc=5)
-
-2026-04-16 <span class="news-indication-tag">tumor</span>
-
-來源：[TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzhjR3Mxd3h0MTE5cEwxcXNRcXpYYlBCZnQ3eTNjcTZJb3NaaG5JTHpRb2F4YTFKeGF5aV8zTkJtUlgxQzR1V3dTZUZHNjhHRzRQYWttbkJCRGVmWnB3ZVh6OUVwclVBcW4zT0tTVUtuSjktYTA2RVNvM00yMjNnZEpybFp2YVdJMGpxX09NSVhXTUstWTJMUUFn?oc=5)
 
 ---
 
@@ -217,38 +257,6 @@ permalink: /news/enzalutamide/
 2026-04-15 <span class="news-indication-tag">cancer</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
-
----
-
-### [Death of Surrey man prompts skin cancer healthcare concerns](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fREgySjYtQnZnS2RkeWpPc3N5MmRueVZzYjJ5a1lyUGFvdi1uMC1fQkNkMHRvUnFfSkdDQXBtQWNCQVV4UWRwX2l0QWx5YU5lNDI0ei1MZWFqRE0y?oc=5)
-
-2026-04-15 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fREgySjYtQnZnS2RkeWpPc3N5MmRueVZzYjJ5a1lyUGFvdi1uMC1fQkNkMHRvUnFfSkdDQXBtQWNCQVV4UWRwX2l0QWx5YU5lNDI0ei1MZWFqRE0y?oc=5)
-
----
-
-### [‘It was easy to spiral into some dark moments’: NI mum’s shock after becoming fourth in family to develop breast cancer - Belfast Telegraph](https://news.google.com/rss/articles/CBMiggJBVV95cUxOeDlLYURwZmktX3doVy0yQmZLNXBEVW1OS2hpSEtrVDdYMURGek44OFEyZC05czRGWUF5MHlCWVBaQ3BKZWhSNGE0endrTXpPSW1zaTRmeVhiY3NPZVk2N05rYWV1N280TnVfekxxOWVENFQ2b1Y4MTNaRDUzR09UZHNGckpSR2pZc3RKMS1yY3RZMVh3MktIRXdRc0c3QlhldG5RZkx5cVhsTFdOLXNqRDZINS1KcDBEcjkxbWY0MHJXdFZ2aXpEX2h0ZUtnZkRSdzlhM0dudDRqUnZ6ams3UzZ0M3BDTkxjR05DRWpvN1Q2LWVHRXZkbDhrazZfU0s2ckE?oc=5)
-
-2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMiggJBVV95cUxOeDlLYURwZmktX3doVy0yQmZLNXBEVW1OS2hpSEtrVDdYMURGek44OFEyZC05czRGWUF5MHlCWVBaQ3BKZWhSNGE0endrTXpPSW1zaTRmeVhiY3NPZVk2N05rYWV1N280TnVfekxxOWVENFQ2b1Y4MTNaRDUzR09UZHNGckpSR2pZc3RKMS1yY3RZMVh3MktIRXdRc0c3QlhldG5RZkx5cVhsTFdOLXNqRDZINS1KcDBEcjkxbWY0MHJXdFZ2aXpEX2h0ZUtnZkRSdzlhM0dudDRqUnZ6ams3UzZ0M3BDTkxjR05DRWpvN1Q2LWVHRXZkbDhrazZfU0s2ckE?oc=5)
-
----
-
-### [Bacterias inmunoterapéuticas potencian la inmunidad antitumoral en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
-
-2026-04-15 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
-
----
-
-### [Schlüsselmechanismus bei Adhäsions-Rezeptoren entdeckt: Neue Wege für Entwicklung von Krebs- und Neurotherapien - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BdzVZQ0RtQ09DaEVZeXMzVnBMOWd0OU1OX2lXVUM1bndEOXVYU0x5X1N3RENJR3J2OEkxUE55cExCVVZzX0RMTGdOSQ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BdzVZQ0RtQ09DaEVZeXMzVnBMOWd0OU1OX2lXVUM1bndEOXVYU0x5X1N3RENJR3J2OEkxUE55cExCVVZzX0RMTGdOSQ?oc=5)
 
 ---
 

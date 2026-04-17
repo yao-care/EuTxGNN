@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lamivudine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/lamivudine/
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Madrid destina 3 millones de euros a vacunas infantiles contra enfermedades comunes](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGh5a204MnJtSDJ4N1I3dzk3clA0ODR5ZFRMUWxCRl9PVl9IZmJnc3VkeXhhUVExVDZXNkoxc1l3VVZUZ3lpY2V5YVJMd3hvSnZ4YnBlU2RyMnM4RzF4SVAyOWZqUXJtcy0tVzFLWTIxNmQyS2JKa1AxNHNZMXAyVnlHNjBEcmhPcnRWcl9WVThISzZGR0R0SUx6dU4wNGZnRzJnRFphRC0wRGlxWkVzRllEQlhTb0FEaUh2MjNnVzlIdmJabzk3S2wzOTNVaFBnb2diYlBtMm80cnhfT21OZXZ1QzRrMmZDb3FCLU14NA?oc=5)
+
+2026-04-17 <span class="news-indication-tag">hepatitis</span>
+
+來源：[elfarodelguadarrama.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGh5a204MnJtSDJ4N1I3dzk3clA0ODR5ZFRMUWxCRl9PVl9IZmJnc3VkeXhhUVExVDZXNkoxc1l3VVZUZ3lpY2V5YVJMd3hvSnZ4YnBlU2RyMnM4RzF4SVAyOWZqUXJtcy0tVzFLWTIxNmQyS2JKa1AxNHNZMXAyVnlHNjBEcmhPcnRWcl9WVThISzZGR0R0SUx6dU4wNGZnRzJnRFphRC0wRGlxWkVzRllEQlhTb0FEaUh2MjNnVzlIdmJabzk3S2wzOTNVaFBnb2diYlBtMm80cnhfT21OZXZ1QzRrMmZDb3FCLU14NA?oc=5)
+
+---
 
 ### [Asesoría de Prevención y Orientación Sexual LGTBI y Pruebas Rápidas de VIH y Hepatitis C, el jueves 30 de abril de 2026](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFZKbU1ieDUtaGJ0QWdpeF85Y201WHY2OWtaUlZ3R0w4SnVKNG9aX2FlQ3gtMk5RdDAzNDN4RzNTM1FsaGg2Wmt2cDBTbEl6Mzl4N2ptMS1uc3BoMkFSTktqMllPd2laOVZPUG9fZTczUjVOaTlsVWNuNWU0bWRVRUVxbzBGLTVEakZCYzRldVotazhodnRONktNd2hzSWc2akxtX2lKd0RPVXV6eThJX0ZlTzhWOU1yQnZNeDNIYVVWUU1zN0tHc1I0TVhfNGh1NlFubkVRWVVfZ3BFVjJv?oc=5)
 

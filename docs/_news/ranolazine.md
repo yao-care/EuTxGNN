@@ -44,6 +44,14 @@ permalink: /news/ranolazine/
 
 ## 相關新聞（4 則）
 
+### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+
+2026-04-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis wahrscheinlich kein unabhängiger Risikofaktor für Demenz – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">arthritis</span>
@@ -57,14 +65,6 @@ permalink: /news/ranolazine/
 2026-04-17 <span class="news-indication-tag">arthritis</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ05vRlcwRHlSWDNLTEh6VlYtSURsWWNvSWl2aHpvaVJIUDlCWXM3bUxoNWVDOVQtWDV5UThxWGNqMmRoeUtwZWFoaGt5VVJlWDdEeXBKWXFQTlFzZTVqZVpnLU1MemNERmJYOGhTWUw4c2tZVkw4NlVaRjJvaWxfdGRzWjNidUptOHVkVy10RTU3VnRYR29R?oc=5)
-
----
-
-### [Chronische Schmerzen: Forschung macht Hoffnung, Politik droht mit Kürzungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlFpWmFUWTFSLVdIYS1aZjV0eEdvZHctQlE1SWdicEQ2b3RWblhnWURwUmI3VUpPRTZLYjYtbjNxa28xOGI4eWxxOXZ6c3EwMk9UMVNqXzRRaXZBV2ZKOENQdF9mTTcxNWpRME93WFRQRm84a0p5Z1FEZUZnLURxeHIzSEVfSE1IS2VWVkxhazVQa0Rhb0FGYmNKeE5kT284Rnd1RmlNOVdZNzBvZklOckNmaVZ1ejh2YnVrZHpmYw?oc=5)
-
-2026-04-16 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlFpWmFUWTFSLVdIYS1aZjV0eEdvZHctQlE1SWdicEQ2b3RWblhnWURwUmI3VUpPRTZLYjYtbjNxa28xOGI4eWxxOXZ6c3EwMk9UMVNqXzRRaXZBV2ZKOENQdF9mTTcxNWpRME93WFRQRm84a0p5Z1FEZUZnLURxeHIzSEVfSE1IS2VWVkxhazVQa0Rhb0FGYmNKeE5kT284Rnd1RmlNOVdZNzBvZklOckNmaVZ1ejh2YnVrZHpmYw?oc=5)
 
 ---
 
