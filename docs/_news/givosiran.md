@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Asesoría de Prevención y Orientación Sexual LGTBI y Pruebas Rápidas de VIH y Hepatitis C, el jueves 30 de abril de 2026](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFZKbU1ieDUtaGJ0QWdpeF85Y201WHY2OWtaUlZ3R0w4SnVKNG9aX2FlQ3gtMk5RdDAzNDN4RzNTM1FsaGg2Wmt2cDBTbEl6Mzl4N2ptMS1uc3BoMkFSTktqMllPd2laOVZPUG9fZTczUjVOaTlsVWNuNWU0bWRVRUVxbzBGLTVEakZCYzRldVotazhodnRONktNd2hzSWc2akxtX2lKd0RPVXV6eThJX0ZlTzhWOU1yQnZNeDNIYVVWUU1zN0tHc1I0TVhfNGh1NlFubkVRWVVfZ3BFVjJv?oc=5)
 
 2026-04-17 <span class="news-indication-tag">hepatitis</span>
 
 來源：[juventudfuenla](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFZKbU1ieDUtaGJ0QWdpeF85Y201WHY2OWtaUlZ3R0w4SnVKNG9aX2FlQ3gtMk5RdDAzNDN4RzNTM1FsaGg2Wmt2cDBTbEl6Mzl4N2ptMS1uc3BoMkFSTktqMllPd2laOVZPUG9fZTczUjVOaTlsVWNuNWU0bWRVRUVxbzBGLTVEakZCYzRldVotazhodnRONktNd2hzSWc2akxtX2lKd0RPVXV6eThJX0ZlTzhWOU1yQnZNeDNIYVVWUU1zN0tHc1I0TVhfNGh1NlFubkVRWVVfZ3BFVjJv?oc=5)
+
+---
+
+### [Unexpected Source of Salt May Be Raising Blood Pressure For Millions](https://news.google.com/rss/articles/CBMingFBVV95cUxNNl9xV2VmU3ZRbUdoX2p3UEZMMFY2aWxVckp1MG5SeHZ3UkZWalNXYXFWMnVBM1BrRTAtdWVVNGg2dUV6UVJfU2JKNG5paXVubTVMRGdVMjhCNTQwT0JNQklqSnVITkdEZjEzUGVKclo5MEQ2QVYtX1Q4LWtJWjQzbW01MUlHMGpTZHBfQVJKT0FCblY3eU9RMlZ2ZDNjdw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxNNl9xV2VmU3ZRbUdoX2p3UEZMMFY2aWxVckp1MG5SeHZ3UkZWalNXYXFWMnVBM1BrRTAtdWVVNGg2dUV6UVJfU2JKNG5paXVubTVMRGdVMjhCNTQwT0JNQklqSnVITkdEZjEzUGVKclo5MEQ2QVYtX1Q4LWtJWjQzbW01MUlHMGpTZHBfQVJKT0FCblY3eU9RMlZ2ZDNjdw?oc=5)
 
 ---
 

@@ -44,11 +44,11 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（1 則）
 
-### [« Je peux dire que je suis un malade de Parkinson heureux » : féru de montagne et d'alpinisme, il refuse de se laisser abattre - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWRBaEQ4MFJxLWVwWjVmZEM0VXlDM0xMa3FKY0RsWW1yb1gwc2FkWjFLalZJMkE2cTgxN0dyVDdCNDFuOURPVnZlbGNfXzJxWXFad1o2SUZ5Z3ptNVBUalVNdlJ5V0o1MTFpWGZrN0pQbFNjeUtEdnk2al9wU0J2eXMxVEtxLU9JdXI2c294MnVRMkVqUWE2M3FFTmVlR251TUVIcm9kbzhJbl9EdHl2cTZ3aklORXAzdmk5WmJST3ItZDZjT2dpY0xDS2pWNVNOV1JoNHFfaWVTc09VUlRxbldVYlc1Z0FMcW5UU0RfU1g4eXBUX0E?oc=5)
+### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
 
-2026-04-15 <span class="news-indication-tag">maladie de Parkinson</span>
+2026-04-17 <span class="news-indication-tag">Parkinson-Krankheit</span>
 
-來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWRBaEQ4MFJxLWVwWjVmZEM0VXlDM0xMa3FKY0RsWW1yb1gwc2FkWjFLalZJMkE2cTgxN0dyVDdCNDFuOURPVnZlbGNfXzJxWXFad1o2SUZ5Z3ptNVBUalVNdlJ5V0o1MTFpWGZrN0pQbFNjeUtEdnk2al9wU0J2eXMxVEtxLU9JdXI2c294MnVRMkVqUWE2M3FFTmVlR251TUVIcm9kbzhJbl9EdHl2cTZ3aklORXAzdmk5WmJST3ItZDZjT2dpY0xDS2pWNVNOV1JoNHFfaWVTc09VUlRxbldVYlc1Z0FMcW5UU0RfU1g4eXBUX0E?oc=5)
+來源：[Friedrich-Alexander-Universität](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
 
 ---
 

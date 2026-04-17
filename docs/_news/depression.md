@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# depression 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depression 有什麼相關新聞？">
+<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,29 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [Jeder Dritte ist betroffen: Mangel an Vitamin D erkennen - welche Symptome weisen darauf hin?](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMmF5eF85WGdRSllzeVZRaXNYQ1hiUHJ3XzlaUHJZVGJCRlBKUkZXempCOWZ5V2ZKNVpoTkNoUThOYVJULS1BSW9IUUZFdmxvWTFydDBlczlRTHpSbGR3SzJXTUlDYl9TbTN0b2kxOE9vbmZoUUZRdWx0YTh2WGQwREl5dUNTbWNKcm5qZXpwT0lkVG5qbk5WMGg2aHlnTVlFVGpLejRKQlRfWVUtbVlscmFNM19udTBWNk5ZMzUzU1I5amVqdnE2bEFjV2x4RlR3alFySWxhYXViVVUyVFo4NmZ30gHnAUFVX3lxTE83V2lvM2xLRy1mc19fLUw0TVdCLVluZzhnX1hselI0YU1WMjVjcEpuZEN5UGFRRVZfalMtNzMycW9HWUxqRnZ1ZGJjbEhwOFZDQ2Z0bnZOUU9aWFlHVDUtMm1rdjNod0h1eVBoOUZPTzVwc0tsZGZhYTRLc2tIazhMR0FFR2VjT2xsczdQbTZuUlg4QXJLT1hXOWlvS2RkMThBVkJnRFZ0cFlyRWlaZEJyNmJuaTY5NkdTdjQyWEcwUFdkRlJsekFLTjh3R0FaSnV4Z0xfVWhWdUE1SWx3S3BEZlZoVkJ5QQ?oc=5)
 
 2026-04-16
 
 來源：[News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMmF5eF85WGdRSllzeVZRaXNYQ1hiUHJ3XzlaUHJZVGJCRlBKUkZXempCOWZ5V2ZKNVpoTkNoUThOYVJULS1BSW9IUUZFdmxvWTFydDBlczlRTHpSbGR3SzJXTUlDYl9TbTN0b2kxOE9vbmZoUUZRdWx0YTh2WGQwREl5dUNTbWNKcm5qZXpwT0lkVG5qbk5WMGg2aHlnTVlFVGpLejRKQlRfWVUtbVlscmFNM19udTBWNk5ZMzUzU1I5amVqdnE2bEFjV2x4RlR3alFySWxhYXViVVUyVFo4NmZ30gHnAUFVX3lxTE83V2lvM2xLRy1mc19fLUw0TVdCLVluZzhnX1hselI0YU1WMjVjcEpuZEN5UGFRRVZfalMtNzMycW9HWUxqRnZ1ZGJjbEhwOFZDQ2Z0bnZOUU9aWFlHVDUtMm1rdjNod0h1eVBoOUZPTzVwc0tsZGZhYTRLc2tIazhMR0FFR2VjT2xsczdQbTZuUlg4QXJLT1hXOWlvS2RkMThBVkJnRFZ0cFlyRWlaZEJyNmJuaTY5NkdTdjQyWEcwUFdkRlJsekFLTjh3R0FaSnV4Z0xfVWhWdUE1SWx3S3BEZlZoVkJ5QQ?oc=5)
-
----
-
-### [Mauricio González, endocrino: “No se basa en caminar, sino caminar rápido durante 30 minutos al día, para entrenar el corazón, reducir enfermedades cardiovasculares, reducir la grasa visceral, mejorar la memoria y reducir la posibilidad de tener depresión”](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlBJa3o4a1lrTUNHQTFMcVVDcmZqMi15M2RxUGpxQjZ5MnhlcDhEQzc1Und6MG5OREktM1BkSmlVR0R4bGdTYUpaNWpuOGRqYjZkUEk1dXZEcGRiN000SVZMWUFuOGNvWXR5RjFRTEZvT29TNnhPaDRzd2FoOVlEaTVsQnU2eVFmSmNzQ2VYdWItTVJnbG01S3Etb3dQRTQ4NThqYzQyR24?oc=5)
-
-2026-04-16
-
-來源：[instyle.es](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlBJa3o4a1lrTUNHQTFMcVVDcmZqMi15M2RxUGpxQjZ5MnhlcDhEQzc1Und6MG5OREktM1BkSmlVR0R4bGdTYUpaNWpuOGRqYjZkUEk1dXZEcGRiN000SVZMWUFuOGNvWXR5RjFRTEZvT29TNnhPaDRzd2FoOVlEaTVsQnU2eVFmSmNzQ2VYdWItTVJnbG01S3Etb3dQRTQ4NThqYzQyR24?oc=5)
-
----
-
-### [Hirnforschung 2026: Neue Waffen gegen Depression und PTBS - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjJYTnN2dmd2azRvMVNCNndfTnJKdkREcFlnMU8zYU0xcHNvb2Y1U19ud05vdjU2QW9lU2VGaFFtLXJkalcydlpzXzVHZm54S3p1V0d5SlZ0V0I4Q1JTYVFGdnlja193dlAzR3NhcW4xMDVjMUQwTXdOclFkdDRhWk9SelpWNTRTTFVjM2QwT0JSTGh4UXdkaDNJTGhfbjZhekNwbzF3ck5RbUJjdHpjOWg5dFlIdw?oc=5)
-
-2026-04-15
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjJYTnN2dmd2azRvMVNCNndfTnJKdkREcFlnMU8zYU0xcHNvb2Y1U19ud05vdjU2QW9lU2VGaFFtLXJkalcydlpzXzVHZm54S3p1V0d5SlZ0V0I4Q1JTYVFGdnlja193dlAzR3NhcW4xMDVjMUQwTXdOclFkdDRhWk9SelpWNTRTTFVjM2QwT0JSTGh4UXdkaDNJTGhfbjZhekNwbzF3ck5RbUJjdHpjOWg5dFlIdw?oc=5)
 
 ---
 

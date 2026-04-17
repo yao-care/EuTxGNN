@@ -44,6 +44,22 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（4 則）
 
+### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
+
+2026-04-17 <span class="news-indication-tag">Parkinson-Krankheit</span>
+
+來源：[Friedrich-Alexander-Universität](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
+
+---
+
+### [Air pollution making people in UK get long-term illnesses earlier, study finds - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
+
+2026-04-17 <span class="news-indication-tag">dementia</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
+
+---
+
 ### [Maladie d'Alzheimer: à Lyon, de nouveaux espoirs pour la recherche](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yVzVBTG5jMHdZUUF2eWdjdTl6MUxqQ3dlQmZHRFdtMk56SnRLMTN1RTM2Mi1uS0FsS2ExN1NrZ25Oc3VWajhMZDlhQkdCQ2NwdmJQRGR3R2h2Sk9JYi1BNmxqeWU0d284U0x5dHVGc3pZMWdtX3lOcg?oc=5)
 
 2026-04-16 <span class="news-indication-tag">maladie d'Alzheimer</span>
@@ -52,27 +68,11 @@ permalink: /news/carbidopa/
 
 ---
 
-### [This speech pattern is an indicator of a brain in cognitive decline](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZVZkxPYXN6ZEI1Q0ZTQ2VVQWl3UXpLcVZhc19OcjRHYVRPZjFRLW5Hc1VkQ3NXbUNvZkZFZHY4dXBhdFI2X3BqaXBYSkxqclJGWkltTjliNHUwaDVDVjFzOE04SmpqZjRNWXZxX2tmMXdVUUR6Ym8zLXF2SVhvMXpWMzF1Z19icGRicW02RUpZTlQ4WVZXR3ZxZ01IVWFtM1czRk51dDBnNUdTNFI2dg?oc=5)
-
-2026-04-16 <span class="news-indication-tag">dementia</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZVZkxPYXN6ZEI1Q0ZTQ2VVQWl3UXpLcVZhc19OcjRHYVRPZjFRLW5Hc1VkQ3NXbUNvZkZFZHY4dXBhdFI2X3BqaXBYSkxqclJGWkltTjliNHUwaDVDVjFzOE04SmpqZjRNWXZxX2tmMXdVUUR6Ym8zLXF2SVhvMXpWMzF1Z19icGRicW02RUpZTlQ4WVZXR3ZxZ01IVWFtM1czRk51dDBnNUdTNFI2dg?oc=5)
-
----
-
 ### [Anti-amyloid Alzheimer’s drugs show no clinically meaningful effect - Cochrane Collaboration](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2NTRklxYy1qQl9rQVo0aHY1VzFMcnB0TGZJYlhpN0ZIMk9zaWRIRnJoZXRXZjNSaFlzbE1jZnJIbXF1V3VqQlJvR0JrcHkwY19rZTVfajlWU09UU2M1Um1rTkc1V3NPOEFlRC1POGY5T0V4VlBPRFpDVWVPZk10TWR4bzZfRFU5UTJ5N3JLeENMcE9tLTMtY0hGWl9qaFNvWTBkS1Zfa2Y?oc=5)
 
 2026-04-16 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Cochrane Collaboration](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2NTRklxYy1qQl9rQVo0aHY1VzFMcnB0TGZJYlhpN0ZIMk9zaWRIRnJoZXRXZjNSaFlzbE1jZnJIbXF1V3VqQlJvR0JrcHkwY19rZTVfajlWU09UU2M1Um1rTkc1V3NPOEFlRC1POGY5T0V4VlBPRFpDVWVPZk10TWR4bzZfRFU5UTJ5N3JLeENMcE9tLTMtY0hGWl9qaFNvWTBkS1Zfa2Y?oc=5)
-
----
-
-### [« Je peux dire que je suis un malade de Parkinson heureux » : féru de montagne et d'alpinisme, il refuse de se laisser abattre - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWRBaEQ4MFJxLWVwWjVmZEM0VXlDM0xMa3FKY0RsWW1yb1gwc2FkWjFLalZJMkE2cTgxN0dyVDdCNDFuOURPVnZlbGNfXzJxWXFad1o2SUZ5Z3ptNVBUalVNdlJ5V0o1MTFpWGZrN0pQbFNjeUtEdnk2al9wU0J2eXMxVEtxLU9JdXI2c294MnVRMkVqUWE2M3FFTmVlR251TUVIcm9kbzhJbl9EdHl2cTZ3aklORXAzdmk5WmJST3ItZDZjT2dpY0xDS2pWNVNOV1JoNHFfaWVTc09VUlRxbldVYlc1Z0FMcW5UU0RfU1g4eXBUX0E?oc=5)
-
-2026-04-15 <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWRBaEQ4MFJxLWVwWjVmZEM0VXlDM0xMa3FKY0RsWW1yb1gwc2FkWjFLalZJMkE2cTgxN0dyVDdCNDFuOURPVnZlbGNfXzJxWXFad1o2SUZ5Z3ptNVBUalVNdlJ5V0o1MTFpWGZrN0pQbFNjeUtEdnk2al9wU0J2eXMxVEtxLU9JdXI2c294MnVRMkVqUWE2M3FFTmVlR251TUVIcm9kbzhJbl9EdHl2cTZ3aklORXAzdmk5WmJST3ItZDZjT2dpY0xDS2pWNVNOV1JoNHFfaWVTc09VUlRxbldVYlc1Z0FMcW5UU0RfU1g4eXBUX0E?oc=5)
 
 ---
 

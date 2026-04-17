@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
 
-### ['Re: Diagnose Multiple Sklerose' bei...online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
-
-2026-04-17 <span class="news-indication-tag">MS</span>
-
-來源：[Spielfilm.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
-
----
-
-### [Alzheimer-Risiko deutlich geringer mit lebenslangem Lernen](https://news.google.com/rss/articles/CBMimgFBVV95cUxON193V1pvaVJYS1U2cWNTNnlaLXpSR3hxOGNZQzJmaVFpT2JNSmxxRXV4cGNpX0xWOUtnTnZ5T1NuT181Qkl5b3BNSldTNm12LVJhUTFIQnJIOHpGc0QzSE15bDJ2VDExVzd3SzdpeDV2NDZ4YlFwTmthTlJkTF80aFR6NXlNVmhhZjdIUDNrUVRJYnBzRWJfQXFB?oc=5)
+### [Meningitis outbreak hits Weymouth schools - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPWEFnclRNbU9CVmdIVDZOWXNrYlktSDAxc29ERC1DcFBGQ1RBbVpGQ3dTYm55azk1VnRmRGNmQlRzTTc1YTEyd0R2amEzQ1o3aHhIcWR5VGNnMzRRSGJRX2pjb0dHbmlsUC02TWpJS0FfNFV2YTBEbkZCVHppTmtVa1piM3ZraDZNTVdYWnR0OXU0TmcwNi12cHhWaVdqdw?oc=5)
 
 2026-04-17 <span class="news-indication-tag">MS</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxON193V1pvaVJYS1U2cWNTNnlaLXpSR3hxOGNZQzJmaVFpT2JNSmxxRXV4cGNpX0xWOUtnTnZ5T1NuT181Qkl5b3BNSldTNm12LVJhUTFIQnJIOHpGc0QzSE15bDJ2VDExVzd3SzdpeDV2NDZ4YlFwTmthTlJkTF80aFR6NXlNVmhhZjdIUDNrUVRJYnBzRWJfQXFB?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPWEFnclRNbU9CVmdIVDZOWXNrYlktSDAxc29ERC1DcFBGQ1RBbVpGQ3dTYm55azk1VnRmRGNmQlRzTTc1YTEyd0R2amEzQ1o3aHhIcWR5VGNnMzRRSGJRX2pjb0dHbmlsUC02TWpJS0FfNFV2YTBEbkZCVHppTmtVa1piM3ZraDZNTVdYWnR0OXU0TmcwNi12cHhWaVdqdw?oc=5)
 
 ---
 
@@ -70,17 +62,25 @@ permalink: /news/interferon-beta-1a/
 
 ### [Ecuador refuerza acciones contra el dengue tras repunte de casos - Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UTWRhb1lkZ2cyYTdXRS12T2NpZU0wS09MM2lPc055WkE0WmhZQVljNUFfVmRiMERHQXNxbENPWkI0ajNKakt2a1ZfNzJhVkdZX0Y1RTFQTXg5OFRNVHhfeFZxdEE1elBPZkVWZVdKQ0lEMjY5c0E?oc=5)
 
-2026-04-17 <span class="news-indication-tag">MS</span>
+2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UTWRhb1lkZ2cyYTdXRS12T2NpZU0wS09MM2lPc055WkE0WmhZQVljNUFfVmRiMERHQXNxbENPWkI0ajNKakt2a1ZfNzJhVkdZX0Y1RTFQTXg5OFRNVHhfeFZxdEE1elBPZkVWZVdKQ0lEMjY5c0E?oc=5)
 
 ---
 
-### [Covid inquiry urges double compensation for those harmed by vaccine - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2JuVXF4TjFRbVZKeEl3dzBsclp3aEpNNmdIME1SYzJjcnB2bVEycklCdDVtenA2ZHQ4dVNNWVJyQTl6WlowUVJ6c2prdjZFMkRzbTg4enRxM3p3dGkxTWJVZjdCU2djaFVGTHZOT2M5c3FLQXlBSHlZY1hIYjBsZW1rY3R5S240U0g5cDhLWTkyYWN6WXJCNg?oc=5)
+### ['Re: Diagnose Multiple Sklerose' bei...online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span>
+
+來源：[Spielfilm.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
+
+---
+
+### [Alzheimer-Risiko deutlich geringer mit lebenslangem Lernen](https://news.google.com/rss/articles/CBMimgFBVV95cUxON193V1pvaVJYS1U2cWNTNnlaLXpSR3hxOGNZQzJmaVFpT2JNSmxxRXV4cGNpX0xWOUtnTnZ5T1NuT181Qkl5b3BNSldTNm12LVJhUTFIQnJIOHpGc0QzSE15bDJ2VDExVzd3SzdpeDV2NDZ4YlFwTmthTlJkTF80aFR6NXlNVmhhZjdIUDNrUVRJYnBzRWJfQXFB?oc=5)
 
 2026-04-16 <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2JuVXF4TjFRbVZKeEl3dzBsclp3aEpNNmdIME1SYzJjcnB2bVEycklCdDVtenA2ZHQ4dVNNWVJyQTl6WlowUVJ6c2prdjZFMkRzbTg4enRxM3p3dGkxTWJVZjdCU2djaFVGTHZOT2M5c3FLQXlBSHlZY1hIYjBsZW1rY3R5S240U0g5cDhLWTkyYWN6WXJCNg?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxON193V1pvaVJYS1U2cWNTNnlaLXpSR3hxOGNZQzJmaVFpT2JNSmxxRXV4cGNpX0xWOUtnTnZ5T1NuT181Qkl5b3BNSldTNm12LVJhUTFIQnJIOHpGc0QzSE15bDJ2VDExVzd3SzdpeDV2NDZ4YlFwTmthTlJkTF80aFR6NXlNVmhhZjdIUDNrUVRJYnBzRWJfQXFB?oc=5)
 
 ---
 
@@ -97,14 +97,6 @@ permalink: /news/interferon-beta-1a/
 2026-04-16 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFp3ZVhmNzFWb29nclZIdW5wdGtlUEw1T1JTTU4yTVpoWjc3T2V0RndDMTNBQ3pmR3k1VXN0eEtuTUhKZzhCTG8zakozQVgwU21UMnRBQWREb3dfa0ZoZDJ0UHA3SnZRMGhfOUJJakhtdmNndEtIMnNtRkE4cUFINXNKcW1uNXhNdi10dlJpQThjRHkzS2QxWk5JcjRlS2doSEEyMDFaNmVheG92di1yR09MWXJSWlU?oc=5)
-
----
-
-### [Lomagna si cura: il 16 focus sull’obesità con il dottor Jacob Panzeri - Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
-
-2026-04-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
 ---
 
@@ -132,19 +124,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Burundi, malattia misteriosa provoca cinque morti](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
+### [mRNA vaccines engage unconventional pathways in CD8+ T cell priming](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50TXBKRzdoUnlEMGNCZ2FxanRfaEE4bnpLTVRPa3BWZmZKbnExeHFyR2hNSElxemRXREdEYjVVdEt5Y3Uyem9QTmZ3VHNQWk9NTjhUYUlZaFBFZDRlSUJJ?oc=5)
 
-2026-04-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW5yd0hSMEwtOE9NOGNYSGw1QUxZYURrVVc4MUplWVV6cGJRbElHZTVlUTU0NkljRjlXc1NZLXRxYWRvY085QlZlenkwQ1dMLXBPZnVXbVpvX0RWQW1EYUo1dUplemt1LXpiTmhsSGI4ZmNOZ3dHMk1odzVzVjdGMVUxZ0h0Q040M0FESS1UUjlVMjRpR0JJWl80UdIBaEFVX3lxTE1PSFFONkZhVnN1Vk84OElFbDlQZ244S0NBenhvamNPV2RPdFV3QUVXcXJ3dW1nMVFDTTByZmYtSGNjbkRWMVFtUEJFQVd6Wmx2MVJ3bDlaSnJXWEpPWUxSdkxjNHpaam9v?oc=5)
-
----
-
-### [Ozempic non funziona nel 10% dei casi: ora un nuovo studio chiama in causa la resistenza al GLP-1](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
-2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50TXBKRzdoUnlEMGNCZ2FxanRfaEE4bnpLTVRPa3BWZmZKbnExeHFyR2hNSElxemRXREdEYjVVdEt5Y3Uyem9QTmZ3VHNQWk9NTjhUYUlZaFBFZDRlSUJJ?oc=5)
 
 ---
 

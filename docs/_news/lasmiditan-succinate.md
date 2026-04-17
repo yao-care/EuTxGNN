@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
+
+### [ConCiencia en Obesidad presenta su nueva Hoja de Ruta](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
+
+2026-04-17 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
+
+---
 
 ### [La dieta mediterránea y la actividad física podría frenar la obesidad desde la etapa preescolar, según un estudio - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHF6NERTdmQ2cmkxWVE5QXRnRFBndTRsR0RwZHRBNW85aFB1Zml3SV9kbVN2enpRaVMyNFNOdEVOTzhIRWttTHcxYW9qTlpZRGFxV1FDTW5xcjg4Q1gtMkd5M3ZBUGNWOUhnM1F5a2VJT2k2b1ZNNUJNYXhZSjlDN0Z6S2JrT2F4TUtqWXFZekdkdllvUmVITlBVNjFZdU9fVUdpTENYT3BfOE1Id3ViRnFRUkJnUnNUSVc3X1pxdDBiZmJOSFVoemRRUjhoNjhoYzBsVU5DcFlZRVNvT3I2ZjFlanRfdnljVDJubF9XZHU?oc=5)
 
@@ -60,35 +68,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [La prevención y la gestión basada en valor guían el abordaje de la obesidad - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFYxTWdMeENNMWNjdTc4WG54d0pnaWl1NzRJSldWT3RSMnRudURscVdUcDloc0w3em90Z0Eya3dodjNqdXNWTFhRTmxPd2hiOUJnVmtfV3lQbGtQLUxpdWVuMTU2LXpVTDF6LVoyY0thWXBDSDBvd2xaZFBWTFgwNDJiVGxpaVYtQnFNa005T2dCejJJZUZSY1AwaVUzUl9JVGhtdk85STAzRXFJTk9iRUJRcGM5bmZBb0ZYRTZhZFZvOUVnWlRwSWdn0gHKAUFVX3lxTE12cV9OcE1kVENMWVh5akZaOV90Zmg1dVdGTWV1RzlrSU5CeF9TYjZlaUtVSldXSjdfdnBHVFhISk1ld3FnWTBSLVhpS00yQW11eFBnZ3N5cU5ydmtwVDg5c1VjazRDMkRFdWhGQWRmZHZnTnRYeDBJZ29lRVltLUZMbXVTODN5TEpHUllWRTN1aUstVDJtQkdoZXAzY3VsQXNqaE9iMlFxLWk0YU9PVGRoX09TNVY5TmZrbF9DNFV3c2xrSFBQTFZBZWc?oc=5)
-
-2026-04-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFYxTWdMeENNMWNjdTc4WG54d0pnaWl1NzRJSldWT3RSMnRudURscVdUcDloc0w3em90Z0Eya3dodjNqdXNWTFhRTmxPd2hiOUJnVmtfV3lQbGtQLUxpdWVuMTU2LXpVTDF6LVoyY0thWXBDSDBvd2xaZFBWTFgwNDJiVGxpaVYtQnFNa005T2dCejJJZUZSY1AwaVUzUl9JVGhtdk85STAzRXFJTk9iRUJRcGM5bmZBb0ZYRTZhZFZvOUVnWlRwSWdn0gHKAUFVX3lxTE12cV9OcE1kVENMWVh5akZaOV90Zmg1dVdGTWV1RzlrSU5CeF9TYjZlaUtVSldXSjdfdnBHVFhISk1ld3FnWTBSLVhpS00yQW11eFBnZ3N5cU5ydmtwVDg5c1VjazRDMkRFdWhGQWRmZHZnTnRYeDBJZ29lRVltLUZMbXVTODN5TEpHUllWRTN1aUstVDJtQkdoZXAzY3VsQXNqaE9iMlFxLWk0YU9PVGRoX09TNVY5TmZrbF9DNFV3c2xrSFBQTFZBZWc?oc=5)
-
----
-
 ### [Lomagna si cura: il 16 focus sull’obesità con il dottor Jacob Panzeri - Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
 
-2026-04-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-16 <span class="news-indication-tag">obesità</span>
 
 來源：[Lecco Notizie](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFdkTTF0OURjeUwtc25Xd01URENvWjZqWWM5d1dleGpaQnp5VHNwMXhabW83ZWVYT1ppRFgtSlZOMkVSb3lKb0JPd2ktWk55TGo2ZF9BanpqV3FiVGhrMTN2dFZBWWN1c3p4UlVndG1ZYlh0WGNVd1ZBNk4tX3pvR3RzSVpfbmdWUkRzWWh3NjNIeXYxNUlIcF83cjU2ZG9vbThNdGp0dGFEY0dub3BQOThWa3VsSWM?oc=5)
-
----
-
-### [Ozempic non funziona nel 10% dei casi: ora un nuovo studio chiama in causa la resistenza al GLP-1](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
-2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
----
-
-### [La obesidad puede comprometer la eficacia de las vacunas frente a bacterias - Gaceta Médica](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFYaU5LR0Y0REN0UF9SYUhPdDhKTFpkVFctU2NPREtQZ0pFYkpPLVh5WlRhTFRPSFpaM2oxb2huNkhxTVM2VkNYVUpLcU4wZnc4eGNlNC1oZ0RGZlo1S1AwRWZXcFNScUZqeHoyWWhMUFlldnhwdEliWmRFd3R1N1gyeGQwR0ctTUV4Vl9tTHZtUGU5RzNyQWpn?oc=5)
-
-2026-04-15 <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkFYaU5LR0Y0REN0UF9SYUhPdDhKTFpkVFctU2NPREtQZ0pFYkpPLVh5WlRhTFRPSFpaM2oxb2huNkhxTVM2VkNYVUpLcU4wZnc4eGNlNC1oZ0RGZlo1S1AwRWZXcFNScUZqeHoyWWhMUFlldnhwdEliWmRFd3R1N1gyeGQwR0ctTUV4Vl9tTHZtUGU5RzNyQWpn?oc=5)
 
 ---
 
