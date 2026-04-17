@@ -44,6 +44,14 @@ permalink: /news/abiraterone-acetate/
 
 ## 相關新聞（4 則）
 
+### [Chronische Entzündungen: Forschung im Aufbruch, Versorgung unter Druck - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+2026-04-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+---
+
 ### [Akupunktur: Die Nadel im Migränehaufen?](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">Migräne</span>
@@ -65,14 +73,6 @@ permalink: /news/abiraterone-acetate/
 2026-04-15 <span class="news-indication-tag">arthritis</span>
 
 來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
-
----
-
-### [Don't feel like exercising? Maybe it's the wrong time of day for you](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
-
-2026-04-14 <span class="news-indication-tag">heart disease</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
 
 ---
 

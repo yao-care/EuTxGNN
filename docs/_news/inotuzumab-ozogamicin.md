@@ -14,7 +14,7 @@ permalink: /news/inotuzumab-ozogamicin/
 ---
 
 <p class="key-answer" data-question="Inotuzumab Ozogamicin 有什麼相關新聞？">
-<strong>Inotuzumab Ozogamicin</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Inotuzumab Ozogamicin</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/inotuzumab-ozogamicin/
 <p><a href="{{ '/drugs/inotuzumab-ozogamicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（33 則）
+
+### [Vous pensiez cette infection virale incurable ? L'étrange anomalie cachée dans le sang de son frère l'a totalement effacée (et les médecins n'en reviennent pas)](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLXNhVUNhbFhVYnJseXhJYmNybTBRN05sUTcxWVktS0szLWFBbU9HQTg0QmFSc29ibFliTGhWN0pJSU14YVVKcWM5U243MnBzaVFiSGY4dUpWUGZES0N0eWV5OTAyT1ZDUk9icmRibU45ZTF4Q0dBblpBM2cwaGhvNEpQTVIta29KZ20tN1BCQjZVSG03MG42bnlZRHkwYTV4RWZ4ZV9rQjBLZzdCTnhGUmtKQ0FUM1VMT3dxaDVzd09LNVg5MVFkWnJmRmlQY1N1YVB0OFlweHRDMzZpZzVYZEpVYUhaWVc4eExpdlgwUkdlMU8yNEpZUndOY19hcnNBSEVncGNLNWc?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLXNhVUNhbFhVYnJseXhJYmNybTBRN05sUTcxWVktS0szLWFBbU9HQTg0QmFSc29ibFliTGhWN0pJSU14YVVKcWM5U243MnBzaVFiSGY4dUpWUGZES0N0eWV5OTAyT1ZDUk9icmRibU45ZTF4Q0dBblpBM2cwaGhvNEpQTVIta29KZ20tN1BCQjZVSG03MG42bnlZRHkwYTV4RWZ4ZV9rQjBLZzdCTnhGUmtKQ0FUM1VMT3dxaDVzd09LNVg5MVFkWnJmRmlQY1N1YVB0OFlweHRDMzZpZzVYZEpVYUhaWVc4eExpdlgwUkdlMU8yNEpZUndOY19hcnNBSEVncGNLNWc?oc=5)
+
+---
+
+### [Northumberland mam-of-three with terminal cervical cancer urges women to get their smear test - Chronicle Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEo4QlVzcHdmUTFtX1ZpODBHVWtEQmtJdjFMOUwteWp5aFBxNXZJNHVUM2ZEalpUU2U1b3BNU0ZGdnJvNlpKVjhoa3RJMzEyelBkYTlvWnNuYnlhV2plUU9LQ2hVRnFXU2FwNjE0VlRXVWdrOGZMWldSaUM2d19rZVJHN2tNeXhwanlGWjY2LTRleFNRX0xzSW5XVU1WTWY4NzdfZWpPQdIBrAFBVV95cUxOV00zVGFuRmVWSVR1Q05EZzVaYW5vQlR4aWZJU2lHVFBSODZzNXBiQjNYUVpMNlkyX0ZMcnVxXzFEbFQ4X0lCSlRCRGwzVTF3QTB1YXdrQnNvM29SUlRwSjBZR0RlNGtSUzd6dm1XVWN6ejY5d2N0bHV0NW9IRC1yNWtIZjdJUlFJQWlUSzRVVkg5NnBFSjJHYXRRV1pQUktpSnlfdEIybzc3SEc2?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEo4QlVzcHdmUTFtX1ZpODBHVWtEQmtJdjFMOUwteWp5aFBxNXZJNHVUM2ZEalpUU2U1b3BNU0ZGdnJvNlpKVjhoa3RJMzEyelBkYTlvWnNuYnlhV2plUU9LQ2hVRnFXU2FwNjE0VlRXVWdrOGZMWldSaUM2d19rZVJHN2tNeXhwanlGWjY2LTRleFNRX0xzSW5XVU1WTWY4NzdfZWpPQdIBrAFBVV95cUxOV00zVGFuRmVWSVR1Q05EZzVaYW5vQlR4aWZJU2lHVFBSODZzNXBiQjNYUVpMNlkyX0ZMcnVxXzFEbFQ4X0lCSlRCRGwzVTF3QTB1YXdrQnNvM29SUlRwSjBZR0RlNGtSUzd6dm1XVWN6ejY5d2N0bHV0NW9IRC1yNWtIZjdJUlFJQWlUSzRVVkg5NnBFSjJHYXRRV1pQUktpSnlfdEIybzc3SEc2?oc=5)
+
+---
 
 ### [Tumore al pancreas, il segnale che nessuno collega | Arriva mesi prima e puoi salvarti](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXhPTGFIQ3hFU1ZvRzlSTGc1anFjQUpHTl9EUVRCa05JdTBpdG83QzcxSE9rVC1Xd2JBWVViS2Vxcm9YNEFjLWVBRm1MSTJSOE82eEtqVWp4cEZqWnlpTUpCcjlwc2xNMVlxMUpyOGtkQzZpZ3U3clBaQ0dHRWozZnlvYw?oc=5)
 
@@ -76,6 +92,22 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
+### [Tumour cells use a genetic trick to become drug-resistant - The Economist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5)
+
+---
+
+### [Vaping IS a cancer risk - although less so than smoking, researchers say - Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHQ4WVpKQ1NfNl9TSmhMWmx4THNkRGRtWEtxRi1Pa1ZndHBlYnBGWkNtcHpJS1J0SjJRZ1A1Q2FuMUU5eFBLa1h5cWN5SlZqajZMck9UNjZLekdCcjNnOVJ5SUZaLTliUUsyYnVRY0tYT2J0T0dvSmg1dVNaaTcyamlfdnNtMExCVUR5cEktNGpWYmgtQTdjRW4tdmIzZ0400gGmAUFVX3lxTFBxZDJPT0htUkNjMF9GNXFXYjRXUWpCMlN0QkNHMVlYU0hQY2E4REQ5X2pLQ1VXcFZNQUNKei1OMzJsNkFUSmFSWHBkempLdnBBYTNCbG9fdHFqczZURXBCaU5seV9DR211THNjcHpva0llN3FjcmIwWTR3ZjFTYkg0RWhPZGx5MUhRWmh0aWg2NHR3WmR2d2FZQ3RFUTU2MTc5OEF2NHc?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHQ4WVpKQ1NfNl9TSmhMWmx4THNkRGRtWEtxRi1Pa1ZndHBlYnBGWkNtcHpJS1J0SjJRZ1A1Q2FuMUU5eFBLa1h5cWN5SlZqajZMck9UNjZLekdCcjNnOVJ5SUZaLTliUUsyYnVRY0tYT2J0T0dvSmg1dVNaaTcyamlfdnNtMExCVUR5cEktNGpWYmgtQTdjRW4tdmIzZ0400gGmAUFVX3lxTFBxZDJPT0htUkNjMF9GNXFXYjRXUWpCMlN0QkNHMVlYU0hQY2E4REQ5X2pLQ1VXcFZNQUNKei1OMzJsNkFUSmFSWHBkempLdnBBYTNCbG9fdHFqczZURXBCaU5seV9DR211THNjcHpva0llN3FjcmIwWTR3ZjFTYkg0RWhPZGx5MUhRWmh0aWg2NHR3WmR2d2FZQ3RFUTU2MTc5OEF2NHc?oc=5)
+
+---
+
 ### [Expertos promueven la educación terapéutica como base para el manejo de la diabetes - La Web de la Salud](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGlxT0h2UkdBd2tnYTJtdldPS0JFSjhQVHBGZDgwbFFEd1B2aXpxTlVBTEhDdkxxSndxdEh6c3cyaW90SXMwUTN3RzlmTkxoMTEtSXVjSFZOTkNxRVdHM1lLZ3VMVEs3RFdmQnVTZ0huSjNDTUtuZzNqUW9ReXkzVkZzaVdOeHBjSXpDUHdpQUNFRXd5N09OREpEZGVKU0trU1NKNVhxRHVtSmFwY3BIbQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">diabetes</span>
@@ -92,19 +124,11 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Mantener fuerza muscular es clave para la longevidad femenina: cómo lograrlo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjB5N1c1WWhCQzEzRGt1N1BGcFg4UjJhVEV6SjZpNkstNkwwTFFSWTNZM3N0Nm5Rd3JDdDRLeXRQaUhaWWJCT1FuaFlvMFhNYzN2X3RMVVN6OGo1WlV4UXNqc3FrcTFoTEgtT3RwWl9rQUdtaWNVakl2Y1gxWjZSampYNEpiOXhFS1Vvb2pPbWVEMC12NEFnMmhNdVBiajdHMVlIREVOYmhocmVrZXJHTXp2bGVaM1BhWHVCZk1JbFRjR1o0TC01b9IB4wFBVV95cUxNYWcxaGNEMHl5MXpscTRLRFFBakZWbW81dkRyX0IzeXh2U0lFMWhjbmFQdXJCVzVzazVMcjM2YWllVVltWkU4T2w4Umh3YTBRNzk4TGU3cDhJcHBnVnphdXplcmVFVU5ueWNPYUJVYlBEQXFSZEZOVE5lSHplUTJFajc3LWlodXE0NTNVSFJVMmx5bENjVTA5TWF2bGkyaG5OZ0JwWkdKMUg0b0VsTkpFcVVBS3h0S0ZUNzZ2QXMwT1NvVTVHY2ZvdXBMZWh6dmFISVJUU19jX0RLSmxSck9iUGRVaw?oc=5)
+### [Immuntherapie gegen Krebs stärkt Hoffnung: „Fast wie Science-Fiction“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnFGRnIzZDRsbmlaRV85T2Z1ZEQtUWtxbnRNSTdxNE4xUVpCWlZybWdiVDJ3M0o5Z0p2QmZvZjRGamJRMFRoTXdGR0NmMXFjTTR1U1F2ZHk5V1MzY3pWNE1VTmlDNGlNdzVlUGRuY09wdHVwU2lHQkVsZnYwRVVtSG1rOTVFaTdvOFhhNUxERnFrckdBMlo2QlpRSGdwV3pKRndUVUNnTWZyS3Z5STNRWG1BODV5azhxU2RSMWRFS0xTREVHZkkwTjNDWQ?oc=5)
 
-2026-04-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
+2026-04-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjB5N1c1WWhCQzEzRGt1N1BGcFg4UjJhVEV6SjZpNkstNkwwTFFSWTNZM3N0Nm5Rd3JDdDRLeXRQaUhaWWJCT1FuaFlvMFhNYzN2X3RMVVN6OGo1WlV4UXNqc3FrcTFoTEgtT3RwWl9rQUdtaWNVakl2Y1gxWjZSampYNEpiOXhFS1Vvb2pPbWVEMC12NEFnMmhNdVBiajdHMVlIREVOYmhocmVrZXJHTXp2bGVaM1BhWHVCZk1JbFRjR1o0TC01b9IB4wFBVV95cUxNYWcxaGNEMHl5MXpscTRLRFFBakZWbW81dkRyX0IzeXh2U0lFMWhjbmFQdXJCVzVzazVMcjM2YWllVVltWkU4T2w4Umh3YTBRNzk4TGU3cDhJcHBnVnphdXplcmVFVU5ueWNPYUJVYlBEQXFSZEZOVE5lSHplUTJFajc3LWlodXE0NTNVSFJVMmx5bENjVTA5TWF2bGkyaG5OZ0JwWkdKMUg0b0VsTkpFcVVBS3h0S0ZUNzZ2QXMwT1NvVTVHY2ZvdXBMZWh6dmFISVJUU19jX0RLSmxSck9iUGRVaw?oc=5)
-
----
-
-### [Un patient âgé de 63 ans, guéri du VIH et d’un cancer : un miracle en médecine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
-
-2026-04-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Linfo.re](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnFGRnIzZDRsbmlaRV85T2Z1ZEQtUWtxbnRNSTdxNE4xUVpCWlZybWdiVDJ3M0o5Z0p2QmZvZjRGamJRMFRoTXdGR0NmMXFjTTR1U1F2ZHk5V1MzY3pWNE1VTmlDNGlNdzVlUGRuY09wdHVwU2lHQkVsZnYwRVVtSG1rOTVFaTdvOFhhNUxERnFrckdBMlo2QlpRSGdwV3pKRndUVUNnTWZyS3Z5STNRWG1BODV5azhxU2RSMWRFS0xTREVHZkkwTjNDWQ?oc=5)
 
 ---
 
@@ -121,6 +145,22 @@ permalink: /news/inotuzumab-ozogamicin/
 2026-04-16 <span class="news-indication-tag">cancro</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzVWejhDM0Fsbl9MNTU1aUR5dTdKUWdmVTZxUmhXMmVkZnV3RGdBMFVZMTJweEZOcDFBMllaQXZxWDhSMUhGZWpEajB1SnZUN3JTcXpmdlIxbGtXQlVQdjFvUmlOV21ISklyd09iVW1pOE82SEtBUXdUUF9wYkZDM3RtYkYtRTVsaTJrLVdSMXVXSXRvMXYtQy1pZ1ViYWg3N2NtbjJPYnltcVM0Z3JZRENtU3dxWVA4SEhFTUkyZnRFMW1obkk5UkNZSFpGbnotNVA5S2VtTkpfQQ?oc=5)
+
+---
+
+### [Gehirn spielt verrückt: tumor als ursache für psychische krise? - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzhjR3Mxd3h0MTE5cEwxcXNRcXpYYlBCZnQ3eTNjcTZJb3NaaG5JTHpRb2F4YTFKeGF5aV8zTkJtUlgxQzR1V3dTZUZHNjhHRzRQYWttbkJCRGVmWnB3ZVh6OUVwclVBcW4zT0tTVUtuSjktYTA2RVNvM00yMjNnZEpybFp2YVdJMGpxX09NSVhXTUstWTJMUUFn?oc=5)
+
+2026-04-16 <span class="news-indication-tag">tumor</span>
+
+來源：[TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzhjR3Mxd3h0MTE5cEwxcXNRcXpYYlBCZnQ3eTNjcTZJb3NaaG5JTHpRb2F4YTFKeGF5aV8zTkJtUlgxQzR1V3dTZUZHNjhHRzRQYWttbkJCRGVmWnB3ZVh6OUVwclVBcW4zT0tTVUtuSjktYTA2RVNvM00yMjNnZEpybFp2YVdJMGpxX09NSVhXTUstWTJMUUFn?oc=5)
+
+---
+
+### [Annoying foot symptom that could signal diabetes or liver disease - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
+
+2026-04-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
 
 ---
 
@@ -164,6 +204,14 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
+### [Ricerca sui tumori rari: prestigioso riconoscimento per medico dell'Oncologia del Santo Stefano - Notizie di Prato](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpYaThDUnQzdHlIRjRhMjFzWll5V0FKeFg0Rzc2ZmJtSy1mb1NnZXAtUXAzSmI1N1g5YjRObGZ6MDZMV1NZNzFoVGhSNWxVRTZTS2MwaGppR25teG5MeFVMZ3QtSXJ4Njdzcld2REJsTUJQRG9EY18ySTJwZVBPU2gtRXZUM1Z4VmU1NGhBLUtpM2NqNEh0RWQ2RVRhNXdSbWRaYXZSZDBFWk5ialV5MWNsR0E3OE9rUGR3NV9ETzNPOWZuZ1lGWWhmMzZaQ2c?oc=5)
+
+2026-04-15 <span class="news-indication-tag">tumor</span>
+
+來源：[Notizie di Prato](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpYaThDUnQzdHlIRjRhMjFzWll5V0FKeFg0Rzc2ZmJtSy1mb1NnZXAtUXAzSmI1N1g5YjRObGZ6MDZMV1NZNzFoVGhSNWxVRTZTS2MwaGppR25teG5MeFVMZ3QtSXJ4Njdzcld2REJsTUJQRG9EY18ySTJwZVBPU2gtRXZUM1Z4VmU1NGhBLUtpM2NqNEh0RWQ2RVRhNXdSbWRaYXZSZDBFWk5ialV5MWNsR0E3OE9rUGR3NV9ETzNPOWZuZ1lGWWhmMzZaQ2c?oc=5)
+
+---
+
 ### [Death of Surrey man prompts skin cancer healthcare concerns](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fREgySjYtQnZnS2RkeWpPc3N5MmRueVZzYjJ5a1lyUGFvdi1uMC1fQkNkMHRvUnFfSkdDQXBtQWNCQVV4UWRwX2l0QWx5YU5lNDI0ei1MZWFqRE0y?oc=5)
 
 2026-04-15 <span class="news-indication-tag">cancer</span>
@@ -188,14 +236,6 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Bacterias inmunoterapéuticas potencian la inmunidad antitumoral en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
-
-2026-04-15 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
-
----
-
 ### [Biologische Medikamente gezielter in Tumorzellen bringen](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUzFjbkhvT2ZobklqMWhjblViSTJxSUpMOS1FcThkcFV6eTdxWWFNUFQ1QkYzbjVpbm9RTTlPQ3ozM1lfT0k4eVBRVU9yRlJBR1F2Q29vQ3lkaWhGeHdsOHFsVTRXWU1tSUlReTNkQnJHMHJUcDRWRHJUUTk4cXhud185Z1MtTEVqRDdVNnlQZndCUnRlRWVOamY3T0ZBaXZwX2hxR2JkMWFDQktDSVpqVkZkNktwSjExTEZ4ak9WZ0w4LWJYYXpXVjQ1bHNmaVR5UTVTUlJSOGpKWXZOWGF6SWthNndnaEk?oc=5)
 
 2026-04-15 <span class="news-indication-tag">tumor</span>
@@ -209,22 +249,6 @@ permalink: /news/inotuzumab-ozogamicin/
 2026-04-15 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
-
----
-
-### [Ricerca sui tumori rari: prestigioso riconoscimento per medico dell'Oncologia del Santo Stefano - Notizie di Prato](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpYaThDUnQzdHlIRjRhMjFzWll5V0FKeFg0Rzc2ZmJtSy1mb1NnZXAtUXAzSmI1N1g5YjRObGZ6MDZMV1NZNzFoVGhSNWxVRTZTS2MwaGppR25teG5MeFVMZ3QtSXJ4Njdzcld2REJsTUJQRG9EY18ySTJwZVBPU2gtRXZUM1Z4VmU1NGhBLUtpM2NqNEh0RWQ2RVRhNXdSbWRaYXZSZDBFWk5ialV5MWNsR0E3OE9rUGR3NV9ETzNPOWZuZ1lGWWhmMzZaQ2c?oc=5)
-
-2026-04-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Notizie di Prato](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpYaThDUnQzdHlIRjRhMjFzWll5V0FKeFg0Rzc2ZmJtSy1mb1NnZXAtUXAzSmI1N1g5YjRObGZ6MDZMV1NZNzFoVGhSNWxVRTZTS2MwaGppR25teG5MeFVMZ3QtSXJ4Njdzcld2REJsTUJQRG9EY18ySTJwZVBPU2gtRXZUM1Z4VmU1NGhBLUtpM2NqNEh0RWQ2RVRhNXdSbWRaYXZSZDBFWk5ialV5MWNsR0E3OE9rUGR3NV9ETzNPOWZuZ1lGWWhmMzZaQ2c?oc=5)
-
----
-
-### [Israelische Forscher sehen Zusammenhang zwischen Corona-Infektion und Lungenkrebs - Jüdische Allgemeine](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU25DWXZRRW4xalI4WUFVMkJ3WThpZzFJdkpDZ01UckpTWjlod0M1NGh6bXB5Q3JyUjlDSmRma0ZVdy10dFhXVlBIU1ZGcy1QWk9fVUFuNEZ6N0tSQnFaZG4xTExMa09VSXdURzF6NVlDQnhYY0o4eHEzOWZyUExURmxZMUFXb2FUM2QyZWpkNFpNRmdmUFNiQVA4OWRXNHA1SjMyeGk5dzRweGVkOXZYZWxZUjdaV1F3anBONGRKWExyeE0?oc=5)
-
-2026-04-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[Jüdische Allgemeine](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU25DWXZRRW4xalI4WUFVMkJ3WThpZzFJdkpDZ01UckpTWjlod0M1NGh6bXB5Q3JyUjlDSmRma0ZVdy10dFhXVlBIU1ZGcy1QWk9fVUFuNEZ6N0tSQnFaZG4xTExMa09VSXdURzF6NVlDQnhYY0o4eHEzOWZyUExURmxZMUFXb2FUM2QyZWpkNFpNRmdmUFNiQVA4OWRXNHA1SjMyeGk5dzRweGVkOXZYZWxZUjdaV1F3anBONGRKWExyeE0?oc=5)
 
 ---
 
@@ -252,6 +276,14 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
+### [Diabetes-Klassifikation erhält neuen Typ 5 - AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FSd191dWpCSVBMbFczR204MGplZjI2X2RPUGlkOFVSVndoYlNwZGUzQ2JZa2xkeE4tZXRueHhoMklxdmhDMTlsWDk2MVhDNGp0dzhxd0ZnLThnSE8tblFScjhYejlLOUh2LWQwMERzdDZ2RVdJc0ZpZWpRLWVlcTVtYWI2QXlySi1SVU1LdVJTb181anhPazllUzlieW03QTVrSw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FSd191dWpCSVBMbFczR204MGplZjI2X2RPUGlkOFVSVndoYlNwZGUzQ2JZa2xkeE4tZXRueHhoMklxdmhDMTlsWDk2MVhDNGp0dzhxd0ZnLThnSE8tblFScjhYejlLOUh2LWQwMERzdDZ2RVdJc0ZpZWpRLWVlcTVtYWI2QXlySi1SVU1LdVJTb181anhPazllUzlieW03QTVrSw?oc=5)
+
+---
+
 ### ['As a GP, I never thought cancer would happen to me'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PdEU0QlZ1SThJSm54RTJrLXV4SXJLOWpUOElFOGVkc3JQX19qdWlReVRBc1B3VUxHd2s3OWo1bk5LS0c2LVEybTVOVGlQeHM0X0NPbjB2Q05oZXkx?oc=5)
 
 2026-04-15 <span class="news-indication-tag">cancer</span>
@@ -268,27 +300,11 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Neue Anerkennung für Typ-5-Diabetes: Ein Schritt zur globalen Gesundheitsgerechtigkeit - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
-
----
-
 ### [Tumore al pancreas, un farmaco sperimentale raddoppia la sopravvivenza](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXNCeXdJV1VyT19jY2VGRF85QVVLUVIzcktQVENkZ0I4WjNCOU1KZkZkMkI0bHRqWHE2NUhYMWRycHRRNVhQZm1BbWUzd2E4alV2aGptQThVMXVZZnZ6Z2pOVURBM2dEeGdhWU45TGotazg2b3R5RlZZS3VDNEpDakVhU0Z5Um53MGxKaElNRE12RUN5ZWVZaXdrZmZQNEgtWkM3MXg1Zmx3RkxtaWxzZ2ZFNzd4WWlQaXJLbWFoc0t6ZnI0cGhhV3VLdkt6dGJvY21PamlORmo4b0JoUjU4WWFtUXZad9IB6wFBVV95cUxNT013VnJrWHl2YllqcGk5cmpkXzZ0U3VOT0c3ejNNWjU2ejZkcjFweFliclMzTnFHMElURDY2bnVVbkFmc01BcEZGUEx6RUx2aEZ6c0ZiRlkwRWRwRThXLUdBeDZlR3BHLTcyMXozYnU2a01qMFFyRW56Sk1OSmdjT1M2TkJDUHVOLVpYU1ZPdFV3S2pKU2Z6cEV2UFNyQ0NJZjl0NjhJNkhZYndXQ01KQWU3dFJRZjNNVHNiOGtwYmt1ekp2bzdGOHRWZnNoX1FBX29mX0tmZ1o5eUhfbzdnbzZ0NGwwRVN3bFlF?oc=5)
 
 2026-04-15 <span class="news-indication-tag">tumor</span>
 
 來源：[RaiNews](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXNCeXdJV1VyT19jY2VGRF85QVVLUVIzcktQVENkZ0I4WjNCOU1KZkZkMkI0bHRqWHE2NUhYMWRycHRRNVhQZm1BbWUzd2E4alV2aGptQThVMXVZZnZ6Z2pOVURBM2dEeGdhWU45TGotazg2b3R5RlZZS3VDNEpDakVhU0Z5Um53MGxKaElNRE12RUN5ZWVZaXdrZmZQNEgtWkM3MXg1Zmx3RkxtaWxzZ2ZFNzd4WWlQaXJLbWFoc0t6ZnI0cGhhV3VLdkt6dGJvY21PamlORmo4b0JoUjU4WWFtUXZad9IB6wFBVV95cUxNT013VnJrWHl2YllqcGk5cmpkXzZ0U3VOT0c3ejNNWjU2ejZkcjFweFliclMzTnFHMElURDY2bnVVbkFmc01BcEZGUEx6RUx2aEZ6c0ZiRlkwRWRwRThXLUdBeDZlR3BHLTcyMXozYnU2a01qMFFyRW56Sk1OSmdjT1M2TkJDUHVOLVpYU1ZPdFV3S2pKU2Z6cEV2UFNyQ0NJZjl0NjhJNkhZYndXQ01KQWU3dFJRZjNNVHNiOGtwYmt1ekp2bzdGOHRWZnNoX1FBX29mX0tmZ1o5eUhfbzdnbzZ0NGwwRVN3bFlF?oc=5)
-
----
-
-### [Menschen mit Typ-2-Diabetes erkranken häufiger an Parkinson](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3lBc2xBS2lZWmJkSGNHcXJjeDJBUjRxNHUtOXdVdENCRGE0ZFdWTExQYU9EWFpLa1VCRGtXZ3h3WVhQeXAtb1g0TnRrdkdYUDFFcUVBWHQ3RGlva1VIN1hscWREamFQVzIzVURfODNYUk9qODhpV1JFWEo4VG55LVE5bkF6bjVKeTB0aEViUlZZbGRWMHg2bVAtRmMwREpLVExF?oc=5)
-
-2026-04-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3lBc2xBS2lZWmJkSGNHcXJjeDJBUjRxNHUtOXdVdENCRGE0ZFdWTExQYU9EWFpLa1VCRGtXZ3h3WVhQeXAtb1g0TnRrdkdYUDFFcUVBWHQ3RGlva1VIN1hscWREamFQVzIzVURfODNYUk9qODhpV1JFWEo4VG55LVE5bkF6bjVKeTB0aEViUlZZbGRWMHg2bVAtRmMwREpLVExF?oc=5)
 
 ---
 

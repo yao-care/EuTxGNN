@@ -14,7 +14,7 @@ permalink: /news/concizumab/
 ---
 
 <p class="key-answer" data-question="Concizumab 有什麼相關新聞？">
-<strong>Concizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Concizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/concizumab/
 <p><a href="{{ '/drugs/concizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [España, primer país europeo que financia simultáneamente concizumab como terapia para las hemofilias A y B](https://news.google.com/rss/articles/CBMiywFBVV95cUxNeDBYOUp4TTJfcV92QWZsNzVHWFNWRjlkQkxmZTZpSU1LaXRlaTdCaElFUThtc3RvYUpEdWkyX21nUFJGUVZ1Mi1UNWR5eWRyM0w1Qjd6VERaRXFGNVRFR0Nhb2dWZmRQWXhBQko4OE1uSENUZEVFN1phYlI2R2VEdThLNVRzQUFkQTNmZnNZZS0ybWp4ZzNmXzduQXBWMzBHOExQbDk2RXBYUFF5cHVhOGpleEhVXzFGd0VMT05IejJfUE1qRnVlODNqZw?oc=5)
+
+2026-04-16 <span class="news-drug-tag">Concizumab</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiywFBVV95cUxNeDBYOUp4TTJfcV92QWZsNzVHWFNWRjlkQkxmZTZpSU1LaXRlaTdCaElFUThtc3RvYUpEdWkyX21nUFJGUVZ1Mi1UNWR5eWRyM0w1Qjd6VERaRXFGNVRFR0Nhb2dWZmRQWXhBQko4OE1uSENUZEVFN1phYlI2R2VEdThLNVRzQUFkQTNmZnNZZS0ybWp4ZzNmXzduQXBWMzBHOExQbDk2RXBYUFF5cHVhOGpleEhVXzFGd0VMT05IejJfUE1qRnVlODNqZw?oc=5)
+
+---
 
 ### [Expertos promueven la educación terapéutica como base para el manejo de la diabetes - La Web de la Salud](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGlxT0h2UkdBd2tnYTJtdldPS0JFSjhQVHBGZDgwbFFEd1B2aXpxTlVBTEhDdkxxSndxdEh6c3cyaW90SXMwUTN3RzlmTkxoMTEtSXVjSFZOTkNxRVdHM1lLZ3VMVEs3RFdmQnVTZ0huSjNDTUtuZzNqUW9ReXkzVkZzaVdOeHBjSXpDUHdpQUNFRXd5N09OREpEZGVKU0trU1NKNVhxRHVtSmFwY3BIbQ?oc=5)
 
@@ -60,19 +68,11 @@ permalink: /news/concizumab/
 
 ---
 
-### [Mantener fuerza muscular es clave para la longevidad femenina: cómo lograrlo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjB5N1c1WWhCQzEzRGt1N1BGcFg4UjJhVEV6SjZpNkstNkwwTFFSWTNZM3N0Nm5Rd3JDdDRLeXRQaUhaWWJCT1FuaFlvMFhNYzN2X3RMVVN6OGo1WlV4UXNqc3FrcTFoTEgtT3RwWl9rQUdtaWNVakl2Y1gxWjZSampYNEpiOXhFS1Vvb2pPbWVEMC12NEFnMmhNdVBiajdHMVlIREVOYmhocmVrZXJHTXp2bGVaM1BhWHVCZk1JbFRjR1o0TC01b9IB4wFBVV95cUxNYWcxaGNEMHl5MXpscTRLRFFBakZWbW81dkRyX0IzeXh2U0lFMWhjbmFQdXJCVzVzazVMcjM2YWllVVltWkU4T2w4Umh3YTBRNzk4TGU3cDhJcHBnVnphdXplcmVFVU5ueWNPYUJVYlBEQXFSZEZOVE5lSHplUTJFajc3LWlodXE0NTNVSFJVMmx5bENjVTA5TWF2bGkyaG5OZ0JwWkdKMUg0b0VsTkpFcVVBS3h0S0ZUNzZ2QXMwT1NvVTVHY2ZvdXBMZWh6dmFISVJUU19jX0RLSmxSck9iUGRVaw?oc=5)
+### [Annoying foot symptom that could signal diabetes or liver disease - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
 
-2026-04-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
+2026-04-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjB5N1c1WWhCQzEzRGt1N1BGcFg4UjJhVEV6SjZpNkstNkwwTFFSWTNZM3N0Nm5Rd3JDdDRLeXRQaUhaWWJCT1FuaFlvMFhNYzN2X3RMVVN6OGo1WlV4UXNqc3FrcTFoTEgtT3RwWl9rQUdtaWNVakl2Y1gxWjZSampYNEpiOXhFS1Vvb2pPbWVEMC12NEFnMmhNdVBiajdHMVlIREVOYmhocmVrZXJHTXp2bGVaM1BhWHVCZk1JbFRjR1o0TC01b9IB4wFBVV95cUxNYWcxaGNEMHl5MXpscTRLRFFBakZWbW81dkRyX0IzeXh2U0lFMWhjbmFQdXJCVzVzazVMcjM2YWllVVltWkU4T2w4Umh3YTBRNzk4TGU3cDhJcHBnVnphdXplcmVFVU5ueWNPYUJVYlBEQXFSZEZOVE5lSHplUTJFajc3LWlodXE0NTNVSFJVMmx5bENjVTA5TWF2bGkyaG5OZ0JwWkdKMUg0b0VsTkpFcVVBS3h0S0ZUNzZ2QXMwT1NvVTVHY2ZvdXBMZWh6dmFISVJUU19jX0RLSmxSck9iUGRVaw?oc=5)
-
----
-
-### [Farmacéuticos subrayan un cambio revolucionario en la hemofilia que prioriza la comodidad del paciente](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzdnR3JNU3ZvTUJkYm5KaWh2dV9UZ2VxVW4yVUlldTMxblJnbTlFVnIwU1VOQUNvZ0c1cHVKSWI4X2xJSE9Gb2kwVWlyOEtlLXdYUEtaaDBmR04weVNUSXBualBjazNPek94UEQ0N1B1SFVYZEtudHF0bHVLT19OU0lETWp2NGxkTzh5RllrRDZOcUVCWWRzZl9LTnNFamNDamNkSjhaRGl4bTZuWC13ZDEteDB1OGdEQWJkcDVtckpibVNLR1hick5HOXhYcnFqM0E?oc=5)
-
-2026-04-15 <span class="news-drug-tag">Concizumab</span>
-
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzdnR3JNU3ZvTUJkYm5KaWh2dV9UZ2VxVW4yVUlldTMxblJnbTlFVnIwU1VOQUNvZ0c1cHVKSWI4X2xJSE9Gb2kwVWlyOEtlLXdYUEtaaDBmR04weVNUSXBualBjazNPek94UEQ0N1B1SFVYZEtudHF0bHVLT19OU0lETWp2NGxkTzh5RllrRDZOcUVCWWRzZl9LTnNFamNDamNkSjhaRGl4bTZuWC13ZDEteDB1OGdEQWJkcDVtckpibVNLR1hick5HOXhYcnFqM0E?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
 
 ---
 
@@ -84,27 +84,19 @@ permalink: /news/concizumab/
 
 ---
 
+### [Diabetes-Klassifikation erhält neuen Typ 5 - AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FSd191dWpCSVBMbFczR204MGplZjI2X2RPUGlkOFVSVndoYlNwZGUzQ2JZa2xkeE4tZXRueHhoMklxdmhDMTlsWDk2MVhDNGp0dzhxd0ZnLThnSE8tblFScjhYejlLOUh2LWQwMERzdDZ2RVdJc0ZpZWpRLWVlcTVtYWI2QXlySi1SVU1LdVJTb181anhPazllUzlieW03QTVrSw?oc=5)
+
+2026-04-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0FSd191dWpCSVBMbFczR204MGplZjI2X2RPUGlkOFVSVndoYlNwZGUzQ2JZa2xkeE4tZXRueHhoMklxdmhDMTlsWDk2MVhDNGp0dzhxd0ZnLThnSE8tblFScjhYejlLOUh2LWQwMERzdDZ2RVdJc0ZpZWpRLWVlcTVtYWI2QXlySi1SVU1LdVJTb181anhPazllUzlieW03QTVrSw?oc=5)
+
+---
+
 ### [Pre-diabete addio? Perché un nuovo termine non sarà solo un cambio di nome](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
 
 2026-04-15 <span class="news-indication-tag">diabete</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHJsdm9McG9OVGt1cm1FWlYxMkprY29vZU5ZeXQ2Z2FuNThRZXJXYWtnNXhfNC1tNjg4VElUM1lsNHIyOGV5Y3IzSnM0VWJCQjdmTVpxTk5GYmh0NHA4OVl3V09JamU0QWJyNjU0cHhKOUdMVmVHb3ZxWDdiX1RndmU3X3hYa3pfdmZzUlZZUk1lcDdvSnA1RHRBUjdraEo1VnZjdmNocnVOWm5MOTJqcGNmSTVWZnk5OXY1S1cySGZSQlNUMkRMNXpMdnZ0UlEyWHV5X2RKekk?oc=5)
-
----
-
-### [Neue Anerkennung für Typ-5-Diabetes: Ein Schritt zur globalen Gesundheitsgerechtigkeit - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
-
-2026-04-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYwQXNCbENSTHR6Y3ExT09jdWdHbmNFeHJ1bi1YNy1KMEljU09yYmdoR3l4NUNWWmUyZVZHLWJmZzdPNkZqbG5Wand5UzFxWjI0QnphNmdiSEkwSlp1d2s1QzlTSDhqMW5fc3lmbXBiUDlwOHIzZ0VEdXVhYnlYbGVTaTNhUUNjYTlESXVwQ3QxbkhhV0VuSmZ4UDRqeHJLNExBOXVGVTRiZDhTZE0zMDVmRUZSd3pWZUE?oc=5)
-
----
-
-### [Menschen mit Typ-2-Diabetes erkranken häufiger an Parkinson](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3lBc2xBS2lZWmJkSGNHcXJjeDJBUjRxNHUtOXdVdENCRGE0ZFdWTExQYU9EWFpLa1VCRGtXZ3h3WVhQeXAtb1g0TnRrdkdYUDFFcUVBWHQ3RGlva1VIN1hscWREamFQVzIzVURfODNYUk9qODhpV1JFWEo4VG55LVE5bkF6bjVKeTB0aEViUlZZbGRWMHg2bVAtRmMwREpLVExF?oc=5)
-
-2026-04-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3lBc2xBS2lZWmJkSGNHcXJjeDJBUjRxNHUtOXdVdENCRGE0ZFdWTExQYU9EWFpLa1VCRGtXZ3h3WVhQeXAtb1g0TnRrdkdYUDFFcUVBWHQ3RGlva1VIN1hscWREamFQVzIzVURfODNYUk9qODhpV1JFWEo4VG55LVE5bkF6bjVKeTB0aEViUlZZbGRWMHg2bVAtRmMwREpLVExF?oc=5)
 
 ---
 

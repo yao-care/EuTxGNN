@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# depression 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depression 有什麼相關新聞？">
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Jeder Dritte ist betroffen: Mangel an Vitamin D erkennen - welche Symptome weisen darauf hin?](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMmF5eF85WGdRSllzeVZRaXNYQ1hiUHJ3XzlaUHJZVGJCRlBKUkZXempCOWZ5V2ZKNVpoTkNoUThOYVJULS1BSW9IUUZFdmxvWTFydDBlczlRTHpSbGR3SzJXTUlDYl9TbTN0b2kxOE9vbmZoUUZRdWx0YTh2WGQwREl5dUNTbWNKcm5qZXpwT0lkVG5qbk5WMGg2aHlnTVlFVGpLejRKQlRfWVUtbVlscmFNM19udTBWNk5ZMzUzU1I5amVqdnE2bEFjV2x4RlR3alFySWxhYXViVVUyVFo4NmZ30gHnAUFVX3lxTE83V2lvM2xLRy1mc19fLUw0TVdCLVluZzhnX1hselI0YU1WMjVjcEpuZEN5UGFRRVZfalMtNzMycW9HWUxqRnZ1ZGJjbEhwOFZDQ2Z0bnZOUU9aWFlHVDUtMm1rdjNod0h1eVBoOUZPTzVwc0tsZGZhYTRLc2tIazhMR0FFR2VjT2xsczdQbTZuUlg4QXJLT1hXOWlvS2RkMThBVkJnRFZ0cFlyRWlaZEJyNmJuaTY5NkdTdjQyWEcwUFdkRlJsekFLTjh3R0FaSnV4Z0xfVWhWdUE1SWx3S3BEZlZoVkJ5QQ?oc=5)
 
 2026-04-16
 
 來源：[News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMmF5eF85WGdRSllzeVZRaXNYQ1hiUHJ3XzlaUHJZVGJCRlBKUkZXempCOWZ5V2ZKNVpoTkNoUThOYVJULS1BSW9IUUZFdmxvWTFydDBlczlRTHpSbGR3SzJXTUlDYl9TbTN0b2kxOE9vbmZoUUZRdWx0YTh2WGQwREl5dUNTbWNKcm5qZXpwT0lkVG5qbk5WMGg2aHlnTVlFVGpLejRKQlRfWVUtbVlscmFNM19udTBWNk5ZMzUzU1I5amVqdnE2bEFjV2x4RlR3alFySWxhYXViVVUyVFo4NmZ30gHnAUFVX3lxTE83V2lvM2xLRy1mc19fLUw0TVdCLVluZzhnX1hselI0YU1WMjVjcEpuZEN5UGFRRVZfalMtNzMycW9HWUxqRnZ1ZGJjbEhwOFZDQ2Z0bnZOUU9aWFlHVDUtMm1rdjNod0h1eVBoOUZPTzVwc0tsZGZhYTRLc2tIazhMR0FFR2VjT2xsczdQbTZuUlg4QXJLT1hXOWlvS2RkMThBVkJnRFZ0cFlyRWlaZEJyNmJuaTY5NkdTdjQyWEcwUFdkRlJsekFLTjh3R0FaSnV4Z0xfVWhWdUE1SWx3S3BEZlZoVkJ5QQ?oc=5)
-
----
-
-### [Mantener fuerza muscular es clave para la longevidad femenina: cómo lograrlo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjB5N1c1WWhCQzEzRGt1N1BGcFg4UjJhVEV6SjZpNkstNkwwTFFSWTNZM3N0Nm5Rd3JDdDRLeXRQaUhaWWJCT1FuaFlvMFhNYzN2X3RMVVN6OGo1WlV4UXNqc3FrcTFoTEgtT3RwWl9rQUdtaWNVakl2Y1gxWjZSampYNEpiOXhFS1Vvb2pPbWVEMC12NEFnMmhNdVBiajdHMVlIREVOYmhocmVrZXJHTXp2bGVaM1BhWHVCZk1JbFRjR1o0TC01b9IB4wFBVV95cUxNYWcxaGNEMHl5MXpscTRLRFFBakZWbW81dkRyX0IzeXh2U0lFMWhjbmFQdXJCVzVzazVMcjM2YWllVVltWkU4T2w4Umh3YTBRNzk4TGU3cDhJcHBnVnphdXplcmVFVU5ueWNPYUJVYlBEQXFSZEZOVE5lSHplUTJFajc3LWlodXE0NTNVSFJVMmx5bENjVTA5TWF2bGkyaG5OZ0JwWkdKMUg0b0VsTkpFcVVBS3h0S0ZUNzZ2QXMwT1NvVTVHY2ZvdXBMZWh6dmFISVJUU19jX0RLSmxSck9iUGRVaw?oc=5)
-
-2026-04-16
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjB5N1c1WWhCQzEzRGt1N1BGcFg4UjJhVEV6SjZpNkstNkwwTFFSWTNZM3N0Nm5Rd3JDdDRLeXRQaUhaWWJCT1FuaFlvMFhNYzN2X3RMVVN6OGo1WlV4UXNqc3FrcTFoTEgtT3RwWl9rQUdtaWNVakl2Y1gxWjZSampYNEpiOXhFS1Vvb2pPbWVEMC12NEFnMmhNdVBiajdHMVlIREVOYmhocmVrZXJHTXp2bGVaM1BhWHVCZk1JbFRjR1o0TC01b9IB4wFBVV95cUxNYWcxaGNEMHl5MXpscTRLRFFBakZWbW81dkRyX0IzeXh2U0lFMWhjbmFQdXJCVzVzazVMcjM2YWllVVltWkU4T2w4Umh3YTBRNzk4TGU3cDhJcHBnVnphdXplcmVFVU5ueWNPYUJVYlBEQXFSZEZOVE5lSHplUTJFajc3LWlodXE0NTNVSFJVMmx5bENjVTA5TWF2bGkyaG5OZ0JwWkdKMUg0b0VsTkpFcVVBS3h0S0ZUNzZ2QXMwT1NvVTVHY2ZvdXBMZWh6dmFISVJUU19jX0RLSmxSck9iUGRVaw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pregabalin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Chronische Entzündungen: Forschung im Aufbruch, Versorgung unter Druck - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+2026-04-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+---
 
 ### [Akupunktur: Die Nadel im Migränehaufen?](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
 

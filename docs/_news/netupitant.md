@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Netupitant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Akupunktur: Die Nadel im Migränehaufen?](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">Migräne</span>
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTUUtTlp1SUZiWjhSMmRjM0xxYmhFQTM1X05ycnNUSHQwQWtXQUNNeXJvMUxuckVUd1RGU3lROG4wMEpTYmh0UVU1WTduYWdzanNfSjhDNkdaenJIZ1pSd0drc3Z2NlFUNFN5MTNCUHl6ZUxVd3k2YWM1bU1jMllGSDFQTmhjd1pfQnFGNGg5QVc5UQ?oc=5)
-
----
-
-### [Don't feel like exercising? Maybe it's the wrong time of day for you](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
-
-2026-04-14 <span class="news-indication-tag">heart disease</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oS05jQUhfbkJsY1R1Vy1iVGMyUlZrbXFIbGdxVTl2V2RYbEVlSzhfcG9zT0lTMDlqZmlqQ2YtNTYyZFIzRVNLTGpQUGpYdWZnOV9SbDQ3SFpsbGwx?oc=5)
 
 ---
 

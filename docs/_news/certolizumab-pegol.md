@@ -14,7 +14,7 @@ permalink: /news/certolizumab-pegol/
 ---
 
 <p class="key-answer" data-question="Certolizumab Pegol 有什麼相關新聞？">
-<strong>Certolizumab Pegol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Certolizumab Pegol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/certolizumab-pegol/
 <p><a href="{{ '/drugs/certolizumab-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Chronische Entzündungen: Forschung im Aufbruch, Versorgung unter Druck - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+2026-04-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+---
 
 ### [Breakthrough Drug Delays Rheumatoid Arthritis for Years After Treatment Ends](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
 

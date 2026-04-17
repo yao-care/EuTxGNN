@@ -14,7 +14,7 @@ permalink: /news/pemigatinib/
 ---
 
 <p class="key-answer" data-question="Pemigatinib 有什麼相關新聞？">
-<strong>Pemigatinib</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pemigatinib</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/pemigatinib/
 <p><a href="{{ '/drugs/pemigatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（27 則）
+
+### [Vous pensiez cette infection virale incurable ? L'étrange anomalie cachée dans le sang de son frère l'a totalement effacée (et les médecins n'en reviennent pas)](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLXNhVUNhbFhVYnJseXhJYmNybTBRN05sUTcxWVktS0szLWFBbU9HQTg0QmFSc29ibFliTGhWN0pJSU14YVVKcWM5U243MnBzaVFiSGY4dUpWUGZES0N0eWV5OTAyT1ZDUk9icmRibU45ZTF4Q0dBblpBM2cwaGhvNEpQTVIta29KZ20tN1BCQjZVSG03MG42bnlZRHkwYTV4RWZ4ZV9rQjBLZzdCTnhGUmtKQ0FUM1VMT3dxaDVzd09LNVg5MVFkWnJmRmlQY1N1YVB0OFlweHRDMzZpZzVYZEpVYUhaWVc4eExpdlgwUkdlMU8yNEpZUndOY19hcnNBSEVncGNLNWc?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLXNhVUNhbFhVYnJseXhJYmNybTBRN05sUTcxWVktS0szLWFBbU9HQTg0QmFSc29ibFliTGhWN0pJSU14YVVKcWM5U243MnBzaVFiSGY4dUpWUGZES0N0eWV5OTAyT1ZDUk9icmRibU45ZTF4Q0dBblpBM2cwaGhvNEpQTVIta29KZ20tN1BCQjZVSG03MG42bnlZRHkwYTV4RWZ4ZV9rQjBLZzdCTnhGUmtKQ0FUM1VMT3dxaDVzd09LNVg5MVFkWnJmRmlQY1N1YVB0OFlweHRDMzZpZzVYZEpVYUhaWVc4eExpdlgwUkdlMU8yNEpZUndOY19hcnNBSEVncGNLNWc?oc=5)
+
+---
+
+### [Northumberland mam-of-three with terminal cervical cancer urges women to get their smear test - Chronicle Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEo4QlVzcHdmUTFtX1ZpODBHVWtEQmtJdjFMOUwteWp5aFBxNXZJNHVUM2ZEalpUU2U1b3BNU0ZGdnJvNlpKVjhoa3RJMzEyelBkYTlvWnNuYnlhV2plUU9LQ2hVRnFXU2FwNjE0VlRXVWdrOGZMWldSaUM2d19rZVJHN2tNeXhwanlGWjY2LTRleFNRX0xzSW5XVU1WTWY4NzdfZWpPQdIBrAFBVV95cUxOV00zVGFuRmVWSVR1Q05EZzVaYW5vQlR4aWZJU2lHVFBSODZzNXBiQjNYUVpMNlkyX0ZMcnVxXzFEbFQ4X0lCSlRCRGwzVTF3QTB1YXdrQnNvM29SUlRwSjBZR0RlNGtSUzd6dm1XVWN6ejY5d2N0bHV0NW9IRC1yNWtIZjdJUlFJQWlUSzRVVkg5NnBFSjJHYXRRV1pQUktpSnlfdEIybzc3SEc2?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEo4QlVzcHdmUTFtX1ZpODBHVWtEQmtJdjFMOUwteWp5aFBxNXZJNHVUM2ZEalpUU2U1b3BNU0ZGdnJvNlpKVjhoa3RJMzEyelBkYTlvWnNuYnlhV2plUU9LQ2hVRnFXU2FwNjE0VlRXVWdrOGZMWldSaUM2d19rZVJHN2tNeXhwanlGWjY2LTRleFNRX0xzSW5XVU1WTWY4NzdfZWpPQdIBrAFBVV95cUxOV00zVGFuRmVWSVR1Q05EZzVaYW5vQlR4aWZJU2lHVFBSODZzNXBiQjNYUVpMNlkyX0ZMcnVxXzFEbFQ4X0lCSlRCRGwzVTF3QTB1YXdrQnNvM29SUlRwSjBZR0RlNGtSUzd6dm1XVWN6ejY5d2N0bHV0NW9IRC1yNWtIZjdJUlFJQWlUSzRVVkg5NnBFSjJHYXRRV1pQUktpSnlfdEIybzc3SEc2?oc=5)
+
+---
 
 ### [Tumore al pancreas, il segnale che nessuno collega | Arriva mesi prima e puoi salvarti](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXhPTGFIQ3hFU1ZvRzlSTGc1anFjQUpHTl9EUVRCa05JdTBpdG83QzcxSE9rVC1Xd2JBWVViS2Vxcm9YNEFjLWVBRm1MSTJSOE82eEtqVWp4cEZqWnlpTUpCcjlwc2xNMVlxMUpyOGtkQzZpZ3U3clBaQ0dHRWozZnlvYw?oc=5)
 
@@ -76,11 +92,27 @@ permalink: /news/pemigatinib/
 
 ---
 
-### [Un patient âgé de 63 ans, guéri du VIH et d’un cancer : un miracle en médecine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
+### [Tumour cells use a genetic trick to become drug-resistant - The Economist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5)
 
 2026-04-16 <span class="news-indication-tag">cancer</span>
 
-來源：[Linfo.re](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
+來源：[The Economist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5)
+
+---
+
+### [Vaping IS a cancer risk - although less so than smoking, researchers say - Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHQ4WVpKQ1NfNl9TSmhMWmx4THNkRGRtWEtxRi1Pa1ZndHBlYnBGWkNtcHpJS1J0SjJRZ1A1Q2FuMUU5eFBLa1h5cWN5SlZqajZMck9UNjZLekdCcjNnOVJ5SUZaLTliUUsyYnVRY0tYT2J0T0dvSmg1dVNaaTcyamlfdnNtMExCVUR5cEktNGpWYmgtQTdjRW4tdmIzZ0400gGmAUFVX3lxTFBxZDJPT0htUkNjMF9GNXFXYjRXUWpCMlN0QkNHMVlYU0hQY2E4REQ5X2pLQ1VXcFZNQUNKei1OMzJsNkFUSmFSWHBkempLdnBBYTNCbG9fdHFqczZURXBCaU5seV9DR211THNjcHpva0llN3FjcmIwWTR3ZjFTYkg0RWhPZGx5MUhRWmh0aWg2NHR3WmR2d2FZQ3RFUTU2MTc5OEF2NHc?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHQ4WVpKQ1NfNl9TSmhMWmx4THNkRGRtWEtxRi1Pa1ZndHBlYnBGWkNtcHpJS1J0SjJRZ1A1Q2FuMUU5eFBLa1h5cWN5SlZqajZMck9UNjZLekdCcjNnOVJ5SUZaLTliUUsyYnVRY0tYT2J0T0dvSmg1dVNaaTcyamlfdnNtMExCVUR5cEktNGpWYmgtQTdjRW4tdmIzZ0400gGmAUFVX3lxTFBxZDJPT0htUkNjMF9GNXFXYjRXUWpCMlN0QkNHMVlYU0hQY2E4REQ5X2pLQ1VXcFZNQUNKei1OMzJsNkFUSmFSWHBkempLdnBBYTNCbG9fdHFqczZURXBCaU5seV9DR211THNjcHpva0llN3FjcmIwWTR3ZjFTYkg0RWhPZGx5MUhRWmh0aWg2NHR3WmR2d2FZQ3RFUTU2MTc5OEF2NHc?oc=5)
+
+---
+
+### [Immuntherapie gegen Krebs stärkt Hoffnung: „Fast wie Science-Fiction“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnFGRnIzZDRsbmlaRV85T2Z1ZEQtUWtxbnRNSTdxNE4xUVpCWlZybWdiVDJ3M0o5Z0p2QmZvZjRGamJRMFRoTXdGR0NmMXFjTTR1U1F2ZHk5V1MzY3pWNE1VTmlDNGlNdzVlUGRuY09wdHVwU2lHQkVsZnYwRVVtSG1rOTVFaTdvOFhhNUxERnFrckdBMlo2QlpRSGdwV3pKRndUVUNnTWZyS3Z5STNRWG1BODV5azhxU2RSMWRFS0xTREVHZkkwTjNDWQ?oc=5)
+
+2026-04-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnFGRnIzZDRsbmlaRV85T2Z1ZEQtUWtxbnRNSTdxNE4xUVpCWlZybWdiVDJ3M0o5Z0p2QmZvZjRGamJRMFRoTXdGR0NmMXFjTTR1U1F2ZHk5V1MzY3pWNE1VTmlDNGlNdzVlUGRuY09wdHVwU2lHQkVsZnYwRVVtSG1rOTVFaTdvOFhhNUxERnFrckdBMlo2QlpRSGdwV3pKRndUVUNnTWZyS3Z5STNRWG1BODV5azhxU2RSMWRFS0xTREVHZkkwTjNDWQ?oc=5)
 
 ---
 
@@ -97,6 +129,14 @@ permalink: /news/pemigatinib/
 2026-04-16 <span class="news-indication-tag">cancro</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzVWejhDM0Fsbl9MNTU1aUR5dTdKUWdmVTZxUmhXMmVkZnV3RGdBMFVZMTJweEZOcDFBMllaQXZxWDhSMUhGZWpEajB1SnZUN3JTcXpmdlIxbGtXQlVQdjFvUmlOV21ISklyd09iVW1pOE82SEtBUXdUUF9wYkZDM3RtYkYtRTVsaTJrLVdSMXVXSXRvMXYtQy1pZ1ViYWg3N2NtbjJPYnltcVM0Z3JZRENtU3dxWVA4SEhFTUkyZnRFMW1obkk5UkNZSFpGbnotNVA5S2VtTkpfQQ?oc=5)
+
+---
+
+### [Gehirn spielt verrückt: tumor als ursache für psychische krise? - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzhjR3Mxd3h0MTE5cEwxcXNRcXpYYlBCZnQ3eTNjcTZJb3NaaG5JTHpRb2F4YTFKeGF5aV8zTkJtUlgxQzR1V3dTZUZHNjhHRzRQYWttbkJCRGVmWnB3ZVh6OUVwclVBcW4zT0tTVUtuSjktYTA2RVNvM00yMjNnZEpybFp2YVdJMGpxX09NSVhXTUstWTJMUUFn?oc=5)
+
+2026-04-16 <span class="news-indication-tag">tumor</span>
+
+來源：[TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzhjR3Mxd3h0MTE5cEwxcXNRcXpYYlBCZnQ3eTNjcTZJb3NaaG5JTHpRb2F4YTFKeGF5aV8zTkJtUlgxQzR1V3dTZUZHNjhHRzRQYWttbkJCRGVmWnB3ZVh6OUVwclVBcW4zT0tTVUtuSjktYTA2RVNvM00yMjNnZEpybFp2YVdJMGpxX09NSVhXTUstWTJMUUFn?oc=5)
 
 ---
 
@@ -140,6 +180,14 @@ permalink: /news/pemigatinib/
 
 ---
 
+### [Ricerca sui tumori rari: prestigioso riconoscimento per medico dell'Oncologia del Santo Stefano - Notizie di Prato](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpYaThDUnQzdHlIRjRhMjFzWll5V0FKeFg0Rzc2ZmJtSy1mb1NnZXAtUXAzSmI1N1g5YjRObGZ6MDZMV1NZNzFoVGhSNWxVRTZTS2MwaGppR25teG5MeFVMZ3QtSXJ4Njdzcld2REJsTUJQRG9EY18ySTJwZVBPU2gtRXZUM1Z4VmU1NGhBLUtpM2NqNEh0RWQ2RVRhNXdSbWRaYXZSZDBFWk5ialV5MWNsR0E3OE9rUGR3NV9ETzNPOWZuZ1lGWWhmMzZaQ2c?oc=5)
+
+2026-04-15 <span class="news-indication-tag">tumor</span>
+
+來源：[Notizie di Prato](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpYaThDUnQzdHlIRjRhMjFzWll5V0FKeFg0Rzc2ZmJtSy1mb1NnZXAtUXAzSmI1N1g5YjRObGZ6MDZMV1NZNzFoVGhSNWxVRTZTS2MwaGppR25teG5MeFVMZ3QtSXJ4Njdzcld2REJsTUJQRG9EY18ySTJwZVBPU2gtRXZUM1Z4VmU1NGhBLUtpM2NqNEh0RWQ2RVRhNXdSbWRaYXZSZDBFWk5ialV5MWNsR0E3OE9rUGR3NV9ETzNPOWZuZ1lGWWhmMzZaQ2c?oc=5)
+
+---
+
 ### [Death of Surrey man prompts skin cancer healthcare concerns](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fREgySjYtQnZnS2RkeWpPc3N5MmRueVZzYjJ5a1lyUGFvdi1uMC1fQkNkMHRvUnFfSkdDQXBtQWNCQVV4UWRwX2l0QWx5YU5lNDI0ei1MZWFqRE0y?oc=5)
 
 2026-04-15 <span class="news-indication-tag">cancer</span>
@@ -164,14 +212,6 @@ permalink: /news/pemigatinib/
 
 ---
 
-### [Bacterias inmunoterapéuticas potencian la inmunidad antitumoral en modelos de cáncer - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
-
-2026-04-15 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmoycWlJby1vTVNFS05wNHRZaGpXQ1VkSk5iQVVCLURFMFN6ZmI0VnNEMm5ZeVhXSkMtYWxBQ3NKTHpxQ1ZCZ2hLNkRRZHNLRXhmSjlyUVN2bUVOMW9HdkJpWW5yaDZMZWU3eG0zbGFpbjZnZmJEYWtSMXVaQmhTd09KTVVwQ2J0dEVVN0hmeDlyOUxZQUlzS2dWc3J3cW1yZ2JzSTBNNGE1REhMRG1iSjRGNHZ5N1hqY0pCTW5qT0tGd9IBvAFBVV95cUxPSnVCVTAwWE9lOHAzWVh3NWtVWVcya3ZUVE91NWtjVnBDOERVWHFiOWhqRFg0M1BsSGRSLV95X2NHaFFtWUFkb3VNX1ZRQVdjTnpkcXlwaDVjSXFONmE2M2hzbFNXNEo2SHY2MUVOdnQ2ejdvMEJyeDRxMnRFRGJUd0twNldCX0J1MnBXc3RxZWg4NlhrRWhNMzhqQXFpU0xJaUJDUW8zMnNtdVNjX1o2bUpaQlg5RDBzSC13Rw?oc=5)
-
----
-
 ### [Biologische Medikamente gezielter in Tumorzellen bringen](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUzFjbkhvT2ZobklqMWhjblViSTJxSUpMOS1FcThkcFV6eTdxWWFNUFQ1QkYzbjVpbm9RTTlPQ3ozM1lfT0k4eVBRVU9yRlJBR1F2Q29vQ3lkaWhGeHdsOHFsVTRXWU1tSUlReTNkQnJHMHJUcDRWRHJUUTk4cXhud185Z1MtTEVqRDdVNnlQZndCUnRlRWVOamY3T0ZBaXZwX2hxR2JkMWFDQktDSVpqVkZkNktwSjExTEZ4ak9WZ0w4LWJYYXpXVjQ1bHNmaVR5UTVTUlJSOGpKWXZOWGF6SWthNndnaEk?oc=5)
 
 2026-04-15 <span class="news-indication-tag">tumor</span>
@@ -185,22 +225,6 @@ permalink: /news/pemigatinib/
 2026-04-15 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
-
----
-
-### [Ricerca sui tumori rari: prestigioso riconoscimento per medico dell'Oncologia del Santo Stefano - Notizie di Prato](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpYaThDUnQzdHlIRjRhMjFzWll5V0FKeFg0Rzc2ZmJtSy1mb1NnZXAtUXAzSmI1N1g5YjRObGZ6MDZMV1NZNzFoVGhSNWxVRTZTS2MwaGppR25teG5MeFVMZ3QtSXJ4Njdzcld2REJsTUJQRG9EY18ySTJwZVBPU2gtRXZUM1Z4VmU1NGhBLUtpM2NqNEh0RWQ2RVRhNXdSbWRaYXZSZDBFWk5ialV5MWNsR0E3OE9rUGR3NV9ETzNPOWZuZ1lGWWhmMzZaQ2c?oc=5)
-
-2026-04-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Notizie di Prato](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkpYaThDUnQzdHlIRjRhMjFzWll5V0FKeFg0Rzc2ZmJtSy1mb1NnZXAtUXAzSmI1N1g5YjRObGZ6MDZMV1NZNzFoVGhSNWxVRTZTS2MwaGppR25teG5MeFVMZ3QtSXJ4Njdzcld2REJsTUJQRG9EY18ySTJwZVBPU2gtRXZUM1Z4VmU1NGhBLUtpM2NqNEh0RWQ2RVRhNXdSbWRaYXZSZDBFWk5ialV5MWNsR0E3OE9rUGR3NV9ETzNPOWZuZ1lGWWhmMzZaQ2c?oc=5)
-
----
-
-### [Israelische Forscher sehen Zusammenhang zwischen Corona-Infektion und Lungenkrebs - Jüdische Allgemeine](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU25DWXZRRW4xalI4WUFVMkJ3WThpZzFJdkpDZ01UckpTWjlod0M1NGh6bXB5Q3JyUjlDSmRma0ZVdy10dFhXVlBIU1ZGcy1QWk9fVUFuNEZ6N0tSQnFaZG4xTExMa09VSXdURzF6NVlDQnhYY0o4eHEzOWZyUExURmxZMUFXb2FUM2QyZWpkNFpNRmdmUFNiQVA4OWRXNHA1SjMyeGk5dzRweGVkOXZYZWxZUjdaV1F3anBONGRKWExyeE0?oc=5)
-
-2026-04-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[Jüdische Allgemeine](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU25DWXZRRW4xalI4WUFVMkJ3WThpZzFJdkpDZ01UckpTWjlod0M1NGh6bXB5Q3JyUjlDSmRma0ZVdy10dFhXVlBIU1ZGcy1QWk9fVUFuNEZ6N0tSQnFaZG4xTExMa09VSXdURzF6NVlDQnhYY0o4eHEzOWZyUExURmxZMUFXb2FUM2QyZWpkNFpNRmdmUFNiQVA4OWRXNHA1SjMyeGk5dzRweGVkOXZYZWxZUjdaV1F3anBONGRKWExyeE0?oc=5)
 
 ---
 

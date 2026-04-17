@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Upadacitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Chronische Entzündungen: Forschung im Aufbruch, Versorgung unter Druck - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+2026-04-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+---
 
 ### [Vitamin D3 – lindert es allergisches Asthma?](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
 

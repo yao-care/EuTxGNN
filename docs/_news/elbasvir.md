@@ -44,6 +44,14 @@ permalink: /news/elbasvir/
 
 ## 相關新聞（8 則）
 
+### ['Re: Diagnose Multiple Sklerose' bei...online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span>
+
+來源：[Spielfilm.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
+
+---
+
 ### [‘Healthy’ baby in hospital with meningitis despite no symptoms - Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
 
 2026-04-16 <span class="news-indication-tag">MS</span>
@@ -97,14 +105,6 @@ permalink: /news/elbasvir/
 2026-04-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhGSkZBaUM3c3dvZG9ZLUZSSXJlZ2FQNFNkaU1MOWZwbVFRNmFaNDdUbEpOUUstUWZvZWRudHlhT0RJUXN1dzRTQmxTaTVfNF9rd3JPNlVaTTZMMTYyQ1oxZE1FZTNQYWtSTDNuSzducGQ3Nm1vcHhWekZWNm5Tc0NfZWR2aUdEaDF6aUp6YWpHMkZGTEtnTlRYOTVEdzkyazh3ZmFtdS1lbFYyNmw4M2tPMXlhU0duWmdzX2oyblN2VjVLakx5a29CZnFidUpvakN3eGZB?oc=5)
-
----
-
-### [Leicester doctor tells truth on 'better than medicine' claims - Leicester Mercury](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWJTcGViUGJ2RkR3OUlfV2xveEkyWnRwN2p1c3FiMUFmWThlV2l4UzhCYUkwcXU0eHQwTDZOUER1VGxibDg3TGk4N09NNG5nNFoxbElxSncwazN4TGlVYlRtS3FtNURkTnZNanhrSS1nREJHSk5xT0paMnZjN1QwSWtQMDBjb216YnlURFNlSkt4SG1wVTlHQUdvYnBjSW5x?oc=5)
-
-2026-04-15 <span class="news-indication-tag">MS</span>
-
-來源：[Leicester Mercury](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdWJTcGViUGJ2RkR3OUlfV2xveEkyWnRwN2p1c3FiMUFmWThlV2l4UzhCYUkwcXU0eHQwTDZOUER1VGxibDg3TGk4N09NNG5nNFoxbElxSncwazN4TGlVYlRtS3FtNURkTnZNanhrSS1nREJHSk5xT0paMnZjN1QwSWtQMDBjb216YnlURFNlSkt4SG1wVTlHQUdvYnBjSW5x?oc=5)
 
 ---
 

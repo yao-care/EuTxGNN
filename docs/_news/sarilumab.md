@@ -44,6 +44,14 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（6 則）
 
+### [Chronische Entzündungen: Forschung im Aufbruch, Versorgung unter Druck - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+2026-04-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJ2WUczSWUxaktEZi10VmZXcEFsZEhtYjZxWUkycnYxaXVBaXR1dFZtbE92LTdWbk1SamU4RVhOY0t3U0hvbkpQbGpkVTF2UDFaNlF6eVlpM0Q0cFA5dEtkTzNUTk5WbjkyLWNYd0lNbVlXa3lodG5hTlNZSjdwN2tpVnFWTHFaVlUxQ3k5amc0NWRCdG9xWUhILUpUeVd5cjRVcEpySnNkc1JsWkRKRng1aTFMRE9LZ01vMmRCN20wN2l5ME9N?oc=5)
+
+---
+
 ### [Vitamin D3 – lindert es allergisches Asthma?](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
 
 2026-04-16 <span class="news-indication-tag">asthma</span>
@@ -73,14 +81,6 @@ permalink: /news/sarilumab/
 2026-04-15 <span class="news-indication-tag">arthritis</span>
 
 來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbERwZWdqSFczcHRFMzl0MkdwTHNxSjRrRlVVYWtpUHV2NnNCVldMLURaYlVRcHJhay1NWUZMOC1iTzAydkhUdURSWHI5N0RET3gxSDdlQU95S2N5UzVoYVJ3dDZxZk1XbTlRbHd2SnBEQXVrODBEcnJB?oc=5)
-
----
-
-### [¿Estamos tratando la fibrosis en la enfermedad de Crohn?](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXRRMzVWMXI3QXRTdDBOellPcmRJRXZIdHJfclJRWFJnNExXUWJ1aWhmME5NWXdSNmp5MVVDck5fUkdnOEJxeWFaWEQtX2FYX00xbEk1MXhNRU10YmRlSlRfMjNfWjZQcWlRcGJ2eTJSQTlUeThyN29jQ3h0bUpROXFPTmpIZUE?oc=5)
-
-2026-04-15 <span class="news-indication-tag">enfermedad de Crohn</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXRRMzVWMXI3QXRTdDBOellPcmRJRXZIdHJfclJRWFJnNExXUWJ1aWhmME5NWXdSNmp5MVVDck5fUkdnOEJxeWFaWEQtX2FYX00xbEk1MXhNRU10YmRlSlRfMjNfWjZQcWlRcGJ2eTJSQTlUeThyN29jQ3h0bUpROXFPTmpIZUE?oc=5)
 
 ---
 
