@@ -14,7 +14,7 @@ permalink: /news/damoctocog-alfa-pegol/
 ---
 
 <p class="key-answer" data-question="Damoctocog Alfa Pegol 有什麼相關新聞？">
-<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Damoctocog Alfa Pegol</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ permalink: /news/damoctocog-alfa-pegol/
 <p><a href="{{ '/drugs/damoctocog-alfa-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（29 則）
 
-### [«Mi hanno diagnosticato un raro tumore alla vulva, poco prima avevo scoperto che mio marito mi tradiva» - Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
+### [Remisión de la diabetes tipo 2: la pérdida de peso, factor clave para lograr el objetivo - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
 
-2026-04-18 <span class="news-indication-tag">tumor</span>
+2026-04-18 <span class="news-indication-tag">diabetes</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFdaU0xsa2trS1p1aDlBd3BVdlZ6R2xnRDRxVE1UYWlicU04blFtdGlWVU5hTTZkSzN5UGdMaU5CZ2g1a2k5MkZfelZLMnhwcFkxU21SbE5vUUI5NXc3MVQyVEFNcVVNZkFONmR0XzFwaEpBYzcxOWVfeHg4eHRzbWRPb0dzT3dHRWRQetIBkgFBVV95cUxPUU9rcG9zV2tsOWhCekYwajlybERocThIUjRNZHdid3lPSWFRdGlha25rOTFuSGxmbE5JWW53YXpsUXR6SFk2WWo4NFhaMHV0OTlaZ1pxUk45ZU1yZWNyUExrUlAyTVJ4dGNfcjhfTjRWWkhMNkd6bFdnUU9TMWxsQWROeS1PVWN2SDFud0hsYktfQQ?oc=5)
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
 
 ---
 
-### [Quali esami fare per valutare la salute delle ossa. E quando conviene farli - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
+### [Nicole morta a 14 anni per un glioma: sintomi, cure e la scelta che commuove l'Italia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUVFSVF2XzRsOUo0cV93dlBTMUxxS1MzcnNJVVpXQjlINWN3VDA4eTVKVGRacjB5enRWd19sVEFTNTVTZ0JySGxPNjU1TWsweGlMaHVFT3BpOEVyTFFfd0VEMmtfMkkxZEMyQ1plRjRmTE5TMHdyWFdXUlh3OFdjc1ZhNGZ2ZUJBSWk1dGE5Wk4xYTg1emlfak1hYVk4VHJBRFVQM1BFY3pTUHlTS01IMjQ1U29IVlpMWVlGeE5zZWgtemFfU05hSzVMRVprdnBOTWZoOQ?oc=5)
 
-2026-04-18 <span class="news-indication-tag">cancro</span>
+2026-04-18 <span class="news-indication-tag">tumor</span>
 
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUVFSVF2XzRsOUo0cV93dlBTMUxxS1MzcnNJVVpXQjlINWN3VDA4eTVKVGRacjB5enRWd19sVEFTNTVTZ0JySGxPNjU1TWsweGlMaHVFT3BpOEVyTFFfd0VEMmtfMkkxZEMyQ1plRjRmTE5TMHdyWFdXUlh3OFdjc1ZhNGZ2ZUJBSWk1dGE5Wk4xYTg1emlfak1hYVk4VHJBRFVQM1BFY3pTUHlTS01IMjQ1U29IVlpMWVlGeE5zZWgtemFfU05hSzVMRVprdnBOTWZoOQ?oc=5)
+
+---
+
+### ["J’ai perdu la vue" : les graves effets secondaires du traitement contre le diabète de type 2 - Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
+
+2026-04-18 <span class="news-indication-tag">diabète</span>
+
+來源：[Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
 
 ---
 
@@ -108,14 +116,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Doctor who claimed Covid jab probably caused royal cancers standing for Reform - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3lpcGJQZVpOVmdYWWZiQW5fcDBub1IxcGx4NUNBczdkeDVYUGxLX1djVE85VmFXMTNKdU96dUN5SGRSUzNLdVlBdnNTa3lZUjJlMUcxTlluTkltSVUyN3puMjl5MHF4YXJDX2ZhTWxIQkJoVE1KZUZDdTY1MUZwLdIBhgFBVV95cUxNLW50ZmQyaU1EeDVxdm1GT2ZWNjk4ZnJVRXdwX0RfcEcyOUhVV0tNdmt2Vm9VeXE1aVcyamFDYXZ4M1VIbDNST2c0TjJYcGFtRHdGV0ZjeUZCM25VZFFpZTBfZzROa3BHcFhUeHJTZjNQUXFVOW1XYXJGOFY1dXVPeV9VemJaZw?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3lpcGJQZVpOVmdYWWZiQW5fcDBub1IxcGx4NUNBczdkeDVYUGxLX1djVE85VmFXMTNKdU96dUN5SGRSUzNLdVlBdnNTa3lZUjJlMUcxTlluTkltSVUyN3puMjl5MHF4YXJDX2ZhTWxIQkJoVE1KZUZDdTY1MUZwLdIBhgFBVV95cUxNLW50ZmQyaU1EeDVxdm1GT2ZWNjk4ZnJVRXdwX0RfcEcyOUhVV0tNdmt2Vm9VeXE1aVcyamFDYXZ4M1VIbDNST2c0TjJYcGFtRHdGV0ZjeUZCM25VZFFpZTBfZzROa3BHcFhUeHJTZjNQUXFVOW1XYXJGOFY1dXVPeV9VemJaZw?oc=5)
-
----
-
 ### [I was diagnosed with deadly cancer after wearing my dad's COAT decades ago - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -129,6 +129,14 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-04-17 <span class="news-indication-tag">tumor</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
+
+---
+
+### [Una molecola per battere il cancro del pancreas, l’oncologa Cremolini partecipa allo studio mondiale - Città della Spezia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa05hSDRIdkJoNGNhb1U2dEM3ci00S0ZXeEY3X3JOa0wzWkZmNkM5WnBmaFE1Z3lrZGJwRjZZQzFlRERJcUJGV1FwZDk0OVhpZWk4ZHI3Y1lDZkRWalJ3TG1zbTByeE1KSTFwbHFJUk1adlNMMVFGNmVFVmtwYkkzQWZiUWRIZzBBTVFENUpqQ2htaE1sZ0xJLTVxcVVzRnVSaGFwZUQySlc2am51a3R2V2lUWXhqdzM5WVF5QzlHWXBjNElZSXhWSzFmNVY2cjBqRUtYVE1XLTFpc21zSjlVZGpZQVjSAeoBQVVfeXFMT1JpNkdxbkZOODNUTkRfSWFuenFMUHBsZUMwb3A4eWw1ZDVsNXFqRlRTSGh3WGVMd2ctQm9Bal9ELW5KZEd3d3o3WUFid0xNaHRLZGQ2UXMwXzZMSXVrTWl5enVGNDZaWVBxV3hIR09qN1NsVU52dEpxaGdFcGh3YTV2ZHE4Vi1qclBXMVczOHl1MDNqZ0R1Y18wVEZmSU1qdmxheHJLU1phSGI2ZXZwVWMyemI0SHFKcGNkSERubFp1aUZtSkJ2Yjd1a1N3Si1QQ3FOVXdJZ3IzS0lGWTNibkc3VFhtN01OVHVR?oc=5)
+
+2026-04-17 <span class="news-indication-tag">tumor</span>
+
+來源：[Città della Spezia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa05hSDRIdkJoNGNhb1U2dEM3ci00S0ZXeEY3X3JOa0wzWkZmNkM5WnBmaFE1Z3lrZGJwRjZZQzFlRERJcUJGV1FwZDk0OVhpZWk4ZHI3Y1lDZkRWalJ3TG1zbTByeE1KSTFwbHFJUk1adlNMMVFGNmVFVmtwYkkzQWZiUWRIZzBBTVFENUpqQ2htaE1sZ0xJLTVxcVVzRnVSaGFwZUQySlc2am51a3R2V2lUWXhqdzM5WVF5QzlHWXBjNElZSXhWSzFmNVY2cjBqRUtYVE1XLTFpc21zSjlVZGpZQVjSAeoBQVVfeXFMT1JpNkdxbkZOODNUTkRfSWFuenFMUHBsZUMwb3A4eWw1ZDVsNXFqRlRTSGh3WGVMd2ctQm9Bal9ELW5KZEd3d3o3WUFid0xNaHRLZGQ2UXMwXzZMSXVrTWl5enVGNDZaWVBxV3hIR09qN1NsVU52dEpxaGdFcGh3YTV2ZHE4Vi1qclBXMVczOHl1MDNqZ0R1Y18wVEZmSU1qdmxheHJLU1phSGI2ZXZwVWMyemI0SHFKcGNkSERubFp1aUZtSkJ2Yjd1a1N3Si1QQ3FOVXdJZ3IzS0lGWTNibkc3VFhtN01OVHVR?oc=5)
 
 ---
 
@@ -156,11 +164,11 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [El grupo de Eva González en el CNIO descubre nueva vía para identificar lesiones precancerosas de mama - La Web de la Salud](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFlRMXJtMWdacGNsNS1mZzZlTWtLNTRlXzVndnJRdzkwbVVDdW1NQ3VsaEFWYk1BNkt0YlQxMzVJODJVNXlLeUNMaXV2clRNdXV3WGdGN2xmOHFrRzJOOXFmUDJpOVNUU3hyNHRKaGNvYV9POVExOXhEWFFvNnhFS0ZBVjNTTmlOTTVJdlBIMXpuZ1hqNkVfWXp4Z1NoN2dsdlFISUthN01CN1lkbHVXMlQxbmN0c1dqWWlUT0dFbnROTmg5NVVXV1NB?oc=5)
+### [Un grupo del CNIO avanza en la identificación de las lesiones que se convertirán en cáncer de mama, lo que podrá ayudar a evitar el sobretratamiento - Diario de Navarra](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX3JXZU0yY2huUHVaemVQdFc2MUtndjI5N2ROUHU4TldudUI5T096VXFjdzY0LXpTT0luZ01NZWpGRFZ0VWJLZmc5bDFib2lkd1M4NXpHV2lxOHRuckg1b2tqNXRaQ3U3c3JSRzZKWUhhSTVndTktbERyaUdwdVJtaUowaS1vQ29aTGcyeGhOM19MZUZzaG1pSXc5V21WcXZLbFlTNDY4ZWlUNnN3SVRVOWJkcGt6N0lrY1dqQldzTThZeklqdUV5OXR2a05yV3NBS3dDb3dyeVZvVkdJWkIwRGhnclNSRHlxWlZCWXpKa0twUVN3ZG1DLVRuWnV6WTB5RjA4Tkd1Rk5Va29IS2VqS1FJdDdlUQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span>
 
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFlRMXJtMWdacGNsNS1mZzZlTWtLNTRlXzVndnJRdzkwbVVDdW1NQ3VsaEFWYk1BNkt0YlQxMzVJODJVNXlLeUNMaXV2clRNdXV3WGdGN2xmOHFrRzJOOXFmUDJpOVNUU3hyNHRKaGNvYV9POVExOXhEWFFvNnhFS0ZBVjNTTmlOTTVJdlBIMXpuZ1hqNkVfWXp4Z1NoN2dsdlFISUthN01CN1lkbHVXMlQxbmN0c1dqWWlUT0dFbnROTmg5NVVXV1NB?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX3JXZU0yY2huUHVaemVQdFc2MUtndjI5N2ROUHU4TldudUI5T096VXFjdzY0LXpTT0luZ01NZWpGRFZ0VWJLZmc5bDFib2lkd1M4NXpHV2lxOHRuckg1b2tqNXRaQ3U3c3JSRzZKWUhhSTVndTktbERyaUdwdVJtaUowaS1vQ29aTGcyeGhOM19MZUZzaG1pSXc5V21WcXZLbFlTNDY4ZWlUNnN3SVRVOWJkcGt6N0lrY1dqQldzTThZeklqdUV5OXR2a05yV3NBS3dDb3dyeVZvVkdJWkIwRGhnclNSRHlxWlZCWXpKa0twUVN3ZG1DLVRuWnV6WTB5RjA4Tkd1Rk5Va29IS2VqS1FJdDdlUQ?oc=5)
 
 ---
 
@@ -174,7 +182,7 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ### [Bowel cancer test change sees rise in diagnoses](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
 
-2026-04-17 <span class="news-indication-tag">cancer</span>
+2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
 
@@ -244,22 +252,6 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Tumore al pancreas, la medicina non si arrende al killer. Il nuovo farmaco “rivoluzionario” - La Nazione](https://news.google.com/rss/articles/CBMif0FVX3lxTE55VGFOdnVQU2kwWExmcmRpZzJJOXU0MTZzVU11cG1hZzd0aVNLdzE4SHZZelk1MVFBdHhfRTUyMjRnWXVmamdPaVJjWWhiY0ZYa24xQzhnTlJFZlAtbmRhazNmS3RyYnNzZWptWFFnZXNEZUM3UjZkT085X1o3VnM?oc=5)
-
-2026-04-17 <span class="news-indication-tag">tumor</span>
-
-來源：[La Nazione](https://news.google.com/rss/articles/CBMif0FVX3lxTE55VGFOdnVQU2kwWExmcmRpZzJJOXU0MTZzVU11cG1hZzd0aVNLdzE4SHZZelk1MVFBdHhfRTUyMjRnWXVmamdPaVJjWWhiY0ZYa24xQzhnTlJFZlAtbmRhazNmS3RyYnNzZWptWFFnZXNEZUM3UjZkT085X1o3VnM?oc=5)
-
----
-
-### [NI health: Family 'skimped to get by' during toddler's cancer treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NdWwxb3F5cHRsM2N6Z3lmS1FTQ19WSnV4TThHaHFTc0tBZzhzR0IyQ1BCdFh5QVh1Yk15N19JcUI4NTVua1A5ZlFGRFcwSEFlY3pKMnAtSDFSaWJ4?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NdWwxb3F5cHRsM2N6Z3lmS1FTQ19WSnV4TThHaHFTc0tBZzhzR0IyQ1BCdFh5QVh1Yk15N19JcUI4NTVua1A5ZlFGRFcwSEFlY3pKMnAtSDFSaWJ4?oc=5)
-
----
-
 ### [Cet oncologue est formel : voici l’aliment à consommer tous les jours pour éviter un cancer colorectal](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSlVoLUJibVp6NnJDS1MtZW41WWNDaDdEZFFqaV8xQ0MteUNOSUd2MkZXU25WOE02SlVDclBKNkFlaXdwajU5X3NEdlFra3pjNGZuQlFrVVc3S1lvcjlEQTBzTzJsMHRIN1RZN0NTa3l2RnJlNF9uZGVGNGJ0ZVpJa0FTV1pLYlpPcG53Q21hZENmOUxRM2pxSmtzamxPYl82ZzlUcS1jeE10aFowY3pSbUlDRTBTVVRpZVFNcVU0LWplZHZIRWxsLWtxUEVLbGVoT05HbzU4Z3hwZTdCc05XSWFyRjFfUWUxQTdz?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -268,11 +260,11 @@ permalink: /news/damoctocog-alfa-pegol/
 
 ---
 
-### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+### [Zwei Biomarker werden bei Asthma zum Standard](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
-來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 
@@ -281,14 +273,6 @@ permalink: /news/damoctocog-alfa-pegol/
 2026-04-17 <span class="news-indication-tag">tumor</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmtyWFpHSXNXdXBBSFRrdzNaYVBtNEMwNGV2UDVybXRUQ2RzNnpkcXFXWm9mdkpKUExXalY5eDljUE41M2dmQUhOWTBJVFplNjZpSlNnbEZWaVZubXZKM1hRcnVMWW5SRG9KYWdjcWRMMUVodW9ubXVabThyNlBxNHV1VQ?oc=5)
-
----
-
-### [Tumour cells use a genetic trick to become drug-resistant - The Economist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5)
-
-2026-04-16 <span class="news-indication-tag">tumour</span>
-
-來源：[The Economist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5)
 
 ---
 

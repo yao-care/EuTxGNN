@@ -14,7 +14,7 @@ permalink: /news/concizumab/
 ---
 
 <p class="key-answer" data-question="Concizumab 有什麼相關新聞？">
-<strong>Concizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Concizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/concizumab/
 <p><a href="{{ '/drugs/concizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [Remisión de la diabetes tipo 2: la pérdida de peso, factor clave para lograr el objetivo - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
+
+2026-04-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
+
+---
+
+### ["J’ai perdu la vue" : les graves effets secondaires du traitement contre le diabète de type 2 - Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
+
+2026-04-18 <span class="news-indication-tag">diabète</span>
+
+來源：[Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
+
+---
 
 ### [Experto indica que escalas poblacionales clásicas de predicción de riesgo cardiovascular en diabetes tienen limitaciones](https://news.google.com/rss/articles/CBMijgJBVV95cUxNS2VSeUpNUGZyR2hFZndYM1llbFFuWUlPREVDSVIzMnMxSlhFRE9IVWNvdUdQdFVnSU9kSGlCVFl2WWRLeFZFcHU3RUNGQTd3ZHlQQVV5bTFaVlJuWndRZUhhaWx5WUI2NF9qemVMQU5DQUM0TGpNeV80ZnBZN3lkT1R6RmdmeDZFdTJiUlFYU2VFcW1udk9MbURTTXhFaW8wOXFpWVFUajI3bGJnQlJjQkZIYVBNWUlCak9PQU9iT3VWVHNKQkV6STJkR1pMTkRzQnVyYnVKYU9zeEhVVUhxenBhQ2FrV0lEVVdodnJ3QTNMWlRMb3pHckRDQ1dGbzNZbjk0bDlPVVBQT0xHZlE?oc=5)
 
@@ -57,6 +73,14 @@ permalink: /news/concizumab/
 2026-04-17 <span class="news-indication-tag">diabete</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE43ZGRRbVdlNGNHYWdDMDRybE5jSG9LbzdzaXQzWWMxYXRwb2F4a2tZeFlQZVNEOUgwVUhieWFRNjAzR1k0cVNfTU1BaXlRSVV6bEF0bVRoNFFMSlkzMG1JWTJ0Z1pkMGJfaUdEWlloM3ZkVHNmSUtSd3NLQ2Z0VWNLMkFHcjNKc1FNV2ZuamhPODRoTWl3bEJTcy12S05IOFpB0gGQAUFVX3lxTFA0bmJUdXVkQTQyRXlJeHhfT3RJVmdQVENqdkNQM3NMLUYzTWhFQlg3WGRObzhPcFN4Q1JzMVhKLUFMdkJJNThUNnM3R21ZbXZwMXFuMFQyQWhXV3dDYVI5RWJ2akN5aGRIdWVGWVN0Z0VET3l2SHdIYVhUSFZlNnJGWGFKVmVjNkdra2NoZmNOSg?oc=5)
+
+---
+
+### ["Podremos hablar de la hemofilia como algo del pasado" - El Día de Segovia](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHFyZ1hUdjZDcFkwLVNEUThHMmVveWItbVB0X1d1WXctMFRzZUlwcWk4bURURDZBN3pWZkpSZ3JzSjgxT3VzUkFtNzAzTTNsV19Jb2J4S0h6SlJJVWFNU1B3NzNVd2EtYUc5cWZuekJWcnBsdng0Z2dHLXRYOXlhbkd1c0tIWXhhaGhlM0hZUnFaZlVnVC1YVkM1ekxSWnhxcmVMU0wzUXJIQVlJbmZuN01jNHBpS1VWSWN5WGd4U0FLV2RuTi1zR0hEQ2U?oc=5)
+
+2026-04-17 <span class="news-drug-tag">Concizumab</span>
+
+來源：[El Día de Segovia](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHFyZ1hUdjZDcFkwLVNEUThHMmVveWItbVB0X1d1WXctMFRzZUlwcWk4bURURDZBN3pWZkpSZ3JzSjgxT3VzUkFtNzAzTTNsV19Jb2J4S0h6SlJJVWFNU1B3NzNVd2EtYUc5cWZuekJWcnBsdng0Z2dHLXRYOXlhbkd1c0tIWXhhaGhlM0hZUnFaZlVnVC1YVkM1ekxSWnhxcmVMU0wzUXJIQVlJbmZuN01jNHBpS1VWSWN5WGd4U0FLV2RuTi1zR0hEQ2U?oc=5)
 
 ---
 
@@ -105,14 +129,6 @@ permalink: /news/concizumab/
 2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Diario Occidente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnl0SldEd292R2diSWpEWjZBRmp1YlZWbG5YZXp1Nk5kejEtaFNYVVgtQzNxU293NEsyQ1ZhVEI4dW1jdDk2NjBBZk45SE5UalVfejRmU0pFU1hnb2VFYzhQSFRGT2luY0hlcDFsd1pEMy1SZVlYX2x6bjdCSWVkYThKcFM0blZWSV82V2I1WFJpT2lhMlRGLXBzQTJ6dWJfZW9KX0JQa084R2fSAbYBQVVfeXFMTVNZS0JvM2ZTRko5bkdNMTRVZ0pLSExtenRsb2dzNmd3eHh2WFVDdERiUzdPNEszYXJXSURqbVZ4ekdMWE8tOE90ZFA3ZFBmcmt2R1BLTnJpelYyM0JrZ1ZfUjA3dk0yYVpwRWFWaGRiWDZZRVRPelc0OXRlT2p5SVlaRUhqWDVHQ2M4T0l0ZDdIeWdReWdJZk92MWdzZXVEdnNnLWRIQjUxLUFpSG9MeERxS01DbXc?oc=5)
-
----
-
-### [España, primer país europeo que financia simultáneamente concizumab como terapia para las hemofilias A y B](https://news.google.com/rss/articles/CBMiywFBVV95cUxNeDBYOUp4TTJfcV92QWZsNzVHWFNWRjlkQkxmZTZpSU1LaXRlaTdCaElFUThtc3RvYUpEdWkyX21nUFJGUVZ1Mi1UNWR5eWRyM0w1Qjd6VERaRXFGNVRFR0Nhb2dWZmRQWXhBQko4OE1uSENUZEVFN1phYlI2R2VEdThLNVRzQUFkQTNmZnNZZS0ybWp4ZzNmXzduQXBWMzBHOExQbDk2RXBYUFF5cHVhOGpleEhVXzFGd0VMT05IejJfUE1qRnVlODNqZw?oc=5)
-
-2026-04-16 <span class="news-drug-tag">Concizumab</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMiywFBVV95cUxNeDBYOUp4TTJfcV92QWZsNzVHWFNWRjlkQkxmZTZpSU1LaXRlaTdCaElFUThtc3RvYUpEdWkyX21nUFJGUVZ1Mi1UNWR5eWRyM0w1Qjd6VERaRXFGNVRFR0Nhb2dWZmRQWXhBQko4OE1uSENUZEVFN1phYlI2R2VEdThLNVRzQUFkQTNmZnNZZS0ybWp4ZzNmXzduQXBWMzBHOExQbDk2RXBYUFF5cHVhOGpleEhVXzFGd0VMT05IejJfUE1qRnVlODNqZw?oc=5)
 
 ---
 

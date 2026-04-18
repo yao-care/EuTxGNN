@@ -60,11 +60,11 @@ permalink: /news/carbidopa/
 
 ---
 
-### ['Absent or trivial' effects: Anti-amyloid Alzheimer's drugs called into question once again - Fierce Pharma](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVG8zNlN4QkpHWURLZF9LX3V6cDY2VEdoZE5SNlV6RjU1OWxsNGNVQWZUVW5UMUpkNGFGWHRMN1lZb2xtRkpVaTV6T0YxXzhwWkhPcFFqU3k0R29qN3FhUmVRZnUwWG9INU1VdFBRWmVjclR0OUh2eEdQUEdYZThCcUNLTlFNZjNjem91Y05iVHBsSWVIVEFBdzhTMlRZZG5iN3ltTDBhUUNZQ2M?oc=5)
+### [Air pollution making people in UK get long-term illnesses earlier, study finds - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
 
-2026-04-16 <span class="news-indication-tag">Alzheimer's</span>
+2026-04-17 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[Fierce Pharma](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVG8zNlN4QkpHWURLZF9LX3V6cDY2VEdoZE5SNlV6RjU1OWxsNGNVQWZUVW5UMUpkNGFGWHRMN1lZb2xtRkpVaTV6T0YxXzhwWkhPcFFqU3k0R29qN3FhUmVRZnUwWG9INU1VdFBRWmVjclR0OUh2eEdQUEdYZThCcUNLTlFNZjNjem91Y05iVHBsSWVIVEFBdzhTMlRZZG5iN3ltTDBhUUNZQ2M?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
 
 ---
 

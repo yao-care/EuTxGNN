@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [Remisión de la diabetes tipo 2: la pérdida de peso, factor clave para lograr el objetivo - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
+
+2026-04-18 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
+
+---
+
+### ["J’ai perdu la vue" : les graves effets secondaires du traitement contre le diabète de type 2 - Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
+
+2026-04-18 <span class="news-indication-tag">diabète</span>
+
+來源：[Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
+
+---
 
 ### [Experto indica que escalas poblacionales clásicas de predicción de riesgo cardiovascular en diabetes tienen limitaciones](https://news.google.com/rss/articles/CBMijgJBVV95cUxNS2VSeUpNUGZyR2hFZndYM1llbFFuWUlPREVDSVIzMnMxSlhFRE9IVWNvdUdQdFVnSU9kSGlCVFl2WWRLeFZFcHU3RUNGQTd3ZHlQQVV5bTFaVlJuWndRZUhhaWx5WUI2NF9qemVMQU5DQUM0TGpNeV80ZnBZN3lkT1R6RmdmeDZFdTJiUlFYU2VFcW1udk9MbURTTXhFaW8wOXFpWVFUajI3bGJnQlJjQkZIYVBNWUlCak9PQU9iT3VWVHNKQkV6STJkR1pMTkRzQnVyYnVKYU9zeEhVVUhxenBhQ2FrV0lEVVdodnJ3QTNMWlRMb3pHckRDQ1dGbzNZbjk0bDlPVVBQT0xHZlE?oc=5)
 
@@ -73,14 +89,6 @@ permalink: /news/semaglutide/
 2026-04-17 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
-
----
-
-### [Marcadores genéticos predicen respuesta y efectos secundarios de fármacos GLP-1 en la pérdida de peso](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
-
-2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[labmedica.es](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cobicistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Caso di Epatite A in una scuola elementare in Campania, il sindaco: «Non bisogna allarmarsi» - Il Mattino](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUk1OTRheEZuOUl6N0V0bXZfdUFuV1hFVFVtMm16ZV92RzFLWm5QZlNCb25rX0RiMWs3VG9TQ2FuNlVZb0puQzlMd3BHU0p0WEc2QUg4OXdySUJ4OXhZMXYxNURfYzd2X0VRaGRac19BNERKaWJBX3hQR0JrLXMzOGdXQ3NZakk3SkNMT1930gGTAUFVX3lxTE1SZFJWWGlwQ0ZaUEJfS05QcDl0d0xsaFpYS0xmSE02T3IyMkF1ZlFvUk1keTJsTnQ0c2dPdjI1NEJmTlM3UlFSd19sZUJod0FsRWV3enpzS1dBaVFKZ3hWeUg1dEZJNURweC1IbHZZVy1RTkhFOWl4RE5oSjBoaHhNZzdLQ2JnVEJJemFJbk1UMWs3dw?oc=5)
+
+2026-04-18 <span class="news-indication-tag">epatite</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUk1OTRheEZuOUl6N0V0bXZfdUFuV1hFVFVtMm16ZV92RzFLWm5QZlNCb25rX0RiMWs3VG9TQ2FuNlVZb0puQzlMd3BHU0p0WEc2QUg4OXdySUJ4OXhZMXYxNURfYzd2X0VRaGRac19BNERKaWJBX3hQR0JrLXMzOGdXQ3NZakk3SkNMT1930gGTAUFVX3lxTE1SZFJWWGlwQ0ZaUEJfS05QcDl0d0xsaFpYS0xmSE02T3IyMkF1ZlFvUk1keTJsTnQ0c2dPdjI1NEJmTlM3UlFSd19sZUJod0FsRWV3enpzS1dBaVFKZ3hWeUg1dEZJNURweC1IbHZZVy1RTkhFOWl4RE5oSjBoaHhNZzdLQ2JnVEJJemFJbk1UMWs3dw?oc=5)
+
+---
 
 ### [Madrid destina 3 millones de euros a vacunas infantiles contra enfermedades comunes](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGh5a204MnJtSDJ4N1I3dzk3clA0ODR5ZFRMUWxCRl9PVl9IZmJnc3VkeXhhUVExVDZXNkoxc1l3VVZUZ3lpY2V5YVJMd3hvSnZ4YnBlU2RyMnM4RzF4SVAyOWZqUXJtcy0tVzFLWTIxNmQyS2JKa1AxNHNZMXAyVnlHNjBEcmhPcnRWcl9WVThISzZGR0R0SUx6dU4wNGZnRzJnRFphRC0wRGlxWkVzRllEQlhTb0FEaUh2MjNnVzlIdmJabzk3S2wzOTNVaFBnb2diYlBtMm80cnhfT21OZXZ1QzRrMmZDb3FCLU14NA?oc=5)
 

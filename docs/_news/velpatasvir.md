@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Velpatasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
+
+### [Caso di Epatite A in una scuola elementare in Campania, il sindaco: «Non bisogna allarmarsi» - Il Mattino](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUk1OTRheEZuOUl6N0V0bXZfdUFuV1hFVFVtMm16ZV92RzFLWm5QZlNCb25rX0RiMWs3VG9TQ2FuNlVZb0puQzlMd3BHU0p0WEc2QUg4OXdySUJ4OXhZMXYxNURfYzd2X0VRaGRac19BNERKaWJBX3hQR0JrLXMzOGdXQ3NZakk3SkNMT1930gGTAUFVX3lxTE1SZFJWWGlwQ0ZaUEJfS05QcDl0d0xsaFpYS0xmSE02T3IyMkF1ZlFvUk1keTJsTnQ0c2dPdjI1NEJmTlM3UlFSd19sZUJod0FsRWV3enpzS1dBaVFKZ3hWeUg1dEZJNURweC1IbHZZVy1RTkhFOWl4RE5oSjBoaHhNZzdLQ2JnVEJJemFJbk1UMWs3dw?oc=5)
+
+2026-04-18 <span class="news-indication-tag">epatite</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUk1OTRheEZuOUl6N0V0bXZfdUFuV1hFVFVtMm16ZV92RzFLWm5QZlNCb25rX0RiMWs3VG9TQ2FuNlVZb0puQzlMd3BHU0p0WEc2QUg4OXdySUJ4OXhZMXYxNURfYzd2X0VRaGRac19BNERKaWJBX3hQR0JrLXMzOGdXQ3NZakk3SkNMT1930gGTAUFVX3lxTE1SZFJWWGlwQ0ZaUEJfS05QcDl0d0xsaFpYS0xmSE02T3IyMkF1ZlFvUk1keTJsTnQ0c2dPdjI1NEJmTlM3UlFSd19sZUJod0FsRWV3enpzS1dBaVFKZ3hWeUg1dEZJNURweC1IbHZZVy1RTkhFOWl4RE5oSjBoaHhNZzdLQ2JnVEJJemFJbk1UMWs3dw?oc=5)
+
+---
 
 ### [Dark side of Europe's chemsex scene with party-goers left to die & doctors on brink as hook-up apps fuel deadly crisis - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTU3LVpVbWNrek5UREpIQm9tbjlFNHNUTkNNRm9YaWNyc18tVmdGMExCVERZdDloQnVjQndfbmI2RGh4Z0I2enNCQlhkSG9kOUZNd2drYkVVR0ZLMTZrVk4tWk1pbGFNUDJrb2kwTW55b0xINW9ZU0VNaVc5enc1Q1hrXzA?oc=5)
 
@@ -116,14 +124,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### ['Re: Diagnose Multiple Sklerose' bei...online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
-
-2026-04-17 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Spielfilm.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
-
----
-
 ### [Cet oncologue est formel : voici l’aliment à consommer tous les jours pour éviter un cancer colorectal](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSlVoLUJibVp6NnJDS1MtZW41WWNDaDdEZFFqaV8xQ0MteUNOSUd2MkZXU25WOE02SlVDclBKNkFlaXdwajU5X3NEdlFra3pjNGZuQlFrVVc3S1lvcjlEQTBzTzJsMHRIN1RZN0NTa3l2RnJlNF9uZGVGNGJ0ZVpJa0FTV1pLYlpPcG53Q21hZENmOUxRM2pxSmtzamxPYl82ZzlUcS1jeE10aFowY3pSbUlDRTBTVVRpZVFNcVU0LWplZHZIRWxsLWtxUEVLbGVoT05HbzU4Z3hwZTdCc05XSWFyRjFfUWUxQTdz?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -134,9 +134,17 @@ permalink: /news/velpatasvir/
 
 ### [Air pollution making people in UK get long-term illnesses earlier, study finds - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
 
-2026-04-17 <span class="news-indication-tag">MS</span>
+2026-04-17 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
+
+---
+
+### ["Re: Diagnose Multiple Sklerose" verpasst?: TV-Wiederholung und Online-Mediathek im Überblick](https://news.google.com/rss/articles/CBMimAJBVV95cUxPaV9OV1ZoNU1DdUtacXpBYWpQeENHY3RpM1ZYVlNvLXAzRldQRUhVbDRCUFlFWllzTEh5NVhOaExydXZuWmpPZnkxUlUzUkd3REEya2NUb244eGxfY1VpWl9jeE5ka0FMSXJZLXJlQmJiLVFfU2F2QzdtR09aSWJFXzlLMEdTUS1RSXpUcy1mR210UVJYbmhYZ3YwSk9mb2VTdlZyTk9jZWUxUFlUNnR2V1AySzBZenJnR0phcFhSa3hQSTJDMFd1NjNJaHZJQnYtcUFNVG9kWmhvY2J1Ym1Bb1AyVlNVcThZWE9Tb2o1ZW1BMFNzU1BYNk1lMTkwWjNxQ1Fwdnc1S1hIaExWU1A1RWJKd1IxU0120gGeAkFVX3lxTE53cVJoSnBZcXViRm5teVhDdEwydmNTX2xXQkFnMzQ3V1NNVHBYdDE4alI0THVEVGFjSE1ZUXU1a0owOVlhWERVZ055OTVsVUlud05WblBZN0k4YURUUmNYeEV5dU1TcjdGNVpVNEpLcUFTa3c3eGR4YTJXdkhCb3FPdG5WTlVHaHR1cFphRXZnd3Fmdjd3ZEpMRUxCOVhadU5FTVFFWU85Yl9aaVJmZ0VKRW16LUJNeTBCWGhkWU05aWNVaW91MVNwbFQyQ3R3aF9vX1lybmxvR2JueW5rQldtUnRCakwzeFdkUm9JUWU1TF8xa21zd0p5aWoyNE4xMTIzNzR0SnN5cFRxTUR6ZzJZRHZaVW8wLXhhZWdZS2c?oc=5)
+
+2026-04-16 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[News.de](https://news.google.com/rss/articles/CBMimAJBVV95cUxPaV9OV1ZoNU1DdUtacXpBYWpQeENHY3RpM1ZYVlNvLXAzRldQRUhVbDRCUFlFWllzTEh5NVhOaExydXZuWmpPZnkxUlUzUkd3REEya2NUb244eGxfY1VpWl9jeE5ka0FMSXJZLXJlQmJiLVFfU2F2QzdtR09aSWJFXzlLMEdTUS1RSXpUcy1mR210UVJYbmhYZ3YwSk9mb2VTdlZyTk9jZWUxUFlUNnR2V1AySzBZenJnR0phcFhSa3hQSTJDMFd1NjNJaHZJQnYtcUFNVG9kWmhvY2J1Ym1Bb1AyVlNVcThZWE9Tb2o1ZW1BMFNzU1BYNk1lMTkwWjNxQ1Fwdnc1S1hIaExWU1A1RWJKd1IxU0120gGeAkFVX3lxTE53cVJoSnBZcXViRm5teVhDdEwydmNTX2xXQkFnMzQ3V1NNVHBYdDE4alI0THVEVGFjSE1ZUXU1a0owOVlhWERVZ055OTVsVUlud05WblBZN0k4YURUUmNYeEV5dU1TcjdGNVpVNEpLcUFTa3c3eGR4YTJXdkhCb3FPdG5WTlVHaHR1cFphRXZnd3Fmdjd3ZEpMRUxCOVhadU5FTVFFWU85Yl9aaVJmZ0VKRW16LUJNeTBCWGhkWU05aWNVaW91MVNwbFQyQ3R3aF9vX1lybmxvR2JueW5rQldtUnRCakwzeFdkUm9JUWU1TF8xa21zd0p5aWoyNE4xMTIzNzR0SnN5cFRxTUR6ZzJZRHZaVW8wLXhhZWdZS2c?oc=5)
 
 ---
 

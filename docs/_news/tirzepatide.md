@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/tirzepatide/
 2026-04-17 <span class="news-indication-tag">arthritis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
-
----
-
-### [Marcadores genéticos predicen respuesta y efectos secundarios de fármacos GLP-1 en la pérdida de peso](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
-
-2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[labmedica.es](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
 
 ---
 

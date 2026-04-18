@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Naltrexone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [“Abbiamo combattuto il grasso sbagliato per anni, ignorando quello che davvero alimenta le malattie”: Franco Berrino svela la verità nascosta dietro oli e prodotti industriali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
+
+2026-04-17 <span class="news-indication-tag">obesità</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
+
+---
 
 ### [ConCiencia en Obesidad presenta su nueva Hoja de Ruta](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
 
@@ -57,14 +65,6 @@ permalink: /news/naltrexone/
 2026-04-17 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
-
----
-
-### [Marcadores genéticos predicen respuesta y efectos secundarios de fármacos GLP-1 en la pérdida de peso](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
-
-2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[labmedica.es](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
 
 ---
 
@@ -89,14 +89,6 @@ permalink: /news/naltrexone/
 2026-04-17 <span class="news-indication-tag">obesidad</span>
 
 來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHF6NERTdmQ2cmkxWVE5QXRnRFBndTRsR0RwZHRBNW85aFB1Zml3SV9kbVN2enpRaVMyNFNOdEVOTzhIRWttTHcxYW9qTlpZRGFxV1FDTW5xcjg4Q1gtMkd5M3ZBUGNWOUhnM1F5a2VJT2k2b1ZNNUJNYXhZSjlDN0Z6S2JrT2F4TUtqWXFZekdkdllvUmVITlBVNjFZdU9fVUdpTENYT3BfOE1Id3ViRnFRUkJnUnNUSVc3X1pxdDBiZmJOSFVoemRRUjhoNjhoYzBsVU5DcFlZRVNvT3I2ZjFlanRfdnljVDJubF9XZHU?oc=5)
-
----
-
-### [Cibi ultraprocessati: il rischio obesità nei giovani sale oltre il 60%](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGhqQnNWLXFLbnQxcW91ZnZoU3RkTGJTWmFYa0p1WjExMW10U3dwN0RlQkp1NXRSNHpqOTVBZTBQQVJXLXd0THBIWTZET3RtaUJrMWtSbEtOT2RIdTZxV3h6RUx2SjV2TTlDT1JfSzRoSWNjREdZXzVxOXRicmE0VTJrOFVGbUxVNDFVSS1IWjB6UQ?oc=5)
-
-2026-04-16 <span class="news-indication-tag">obesità</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGhqQnNWLXFLbnQxcW91ZnZoU3RkTGJTWmFYa0p1WjExMW10U3dwN0RlQkp1NXRSNHpqOTVBZTBQQVJXLXd0THBIWTZET3RtaUJrMWtSbEtOT2RIdTZxV3h6RUx2SjV2TTlDT1JfSzRoSWNjREdZXzVxOXRicmE0VTJrOFVGbUxVNDFVSS1IWjB6UQ?oc=5)
 
 ---
 

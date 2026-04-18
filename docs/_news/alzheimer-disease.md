@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（1 則）
 
-### ['Absent or trivial' effects: Anti-amyloid Alzheimer's drugs called into question once again - Fierce Pharma](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVG8zNlN4QkpHWURLZF9LX3V6cDY2VEdoZE5SNlV6RjU1OWxsNGNVQWZUVW5UMUpkNGFGWHRMN1lZb2xtRkpVaTV6T0YxXzhwWkhPcFFqU3k0R29qN3FhUmVRZnUwWG9INU1VdFBRWmVjclR0OUh2eEdQUEdYZThCcUNLTlFNZjNjem91Y05iVHBsSWVIVEFBdzhTMlRZZG5iN3ltTDBhUUNZQ2M?oc=5)
+### [Air pollution making people in UK get long-term illnesses earlier, study finds - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
 
-2026-04-16
+2026-04-17
 
-來源：[Fierce Pharma](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVG8zNlN4QkpHWURLZF9LX3V6cDY2VEdoZE5SNlV6RjU1OWxsNGNVQWZUVW5UMUpkNGFGWHRMN1lZb2xtRkpVaTV6T0YxXzhwWkhPcFFqU3k0R29qN3FhUmVRZnUwWG9INU1VdFBRWmVjclR0OUh2eEdQUEdYZThCcUNLTlFNZjNjem91Y05iVHBsSWVIVEFBdzhTMlRZZG5iN3ltTDBhUUNZQ2M?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
 
 ---
 
