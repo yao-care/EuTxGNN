@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Studie: mangelnde soziale Kontakte gehen in Depression deutlich stärker mit einem Gefühl von Einsamkeit einher - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZkIteDNqdWJ5akdpSVNNc2hzeG45NXlhZmhXZG5rVXJ3QTFjOTJTUWRyTmRqdjNWbzFsVExWczhmUHJiY1ZsLVY0T3NCc1dCM3ZOanFOQnJwUWlJSS0zZ1BPbjBYRlY3R2dDOURIcHJpU20tTEZnbmVxX1ZqTE1FZVUyUXlDWGVYVnpSMUNfUDVXLUg2cW5mYWRDQllBTjBBYjEzcWtTOUpQYVZIcVFuWFcxVUVobzNHeTFKelJDNXlnSE9wLUN1Z0l4dlFRdVM5dmllcWNDY1NmOGE0aW5zSjF6MFhZdUtQWWRtLUtwcTk0bFpQSkZmYWJLTnAzdw?oc=5)
+### [Los expertos coinciden: las diferencias genéticas en el cerebro influyen en la salud mental de hombres y mujeres - El Economista](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPald3UWQ4SmZKMEJ3M3FfVTFLX3lSMGEtTnhteFVFUFdtbTdZb0ZXVmpsQ25FeHNPMTVMTzBlemtnMzdNSUFkNjFQQTJOVTZWVzRTTU5JWDM5OFJRM05UeXd3bWpQa25BVldLZGY0RVVUZlZIMVFiTVRmX2Jqbk0ySDE2bk81X0xuckRvMEhRWU5URXhfOGR0ZnRGTUVaQzFsS2JqeUtrMlhpaXNxWXhkcTQ4RFp1OTU4SGpJblk2VnZDRUI5QU1OOURWenpNQ25ucFhEQ2k5SW45MFVkV05nSjdCOWZldHRwV2tXVEIwNXIzVE0wLXhDb0ZUOGRfWUhJa2xyWjlPRDlRLVJ1V0lsTnh3N1VwWFpKelNwTURjQXF6N2hLT1JXVQ?oc=5)
+
+2026-04-17 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPald3UWQ4SmZKMEJ3M3FfVTFLX3lSMGEtTnhteFVFUFdtbTdZb0ZXVmpsQ25FeHNPMTVMTzBlemtnMzdNSUFkNjFQQTJOVTZWVzRTTU5JWDM5OFJRM05UeXd3bWpQa25BVldLZGY0RVVUZlZIMVFiTVRmX2Jqbk0ySDE2bk81X0xuckRvMEhRWU5URXhfOGR0ZnRGTUVaQzFsS2JqeUtrMlhpaXNxWXhkcTQ4RFp1OTU4SGpJblk2VnZDRUI5QU1OOURWenpNQ25ucFhEQ2k5SW45MFVkV05nSjdCOWZldHRwV2tXVEIwNXIzVE0wLXhDb0ZUOGRfWUhJa2xyWjlPRDlRLVJ1V0lsTnh3N1VwWFpKelNwTURjQXF6N2hLT1JXVQ?oc=5)
+
+---
+
+### [Studie: mangelnde soziale Kontakte gehen in Depression deutlich stärker mit einem Gefühl von Einsamkeit einher - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUV1LWlnLU5OYjFfdHJJQ2NRdEdhRjY2anJudnV3Q2VYd0o1ZE9xaVZZQ3Vyd3lFLVNCYTJwMV9iaXE1bE1qNGQ0VVhwN3VubnFCRGhnZjQtam1tUjBmZ2cyYUNBRVQ4c2RWTG9CMFB3RmFObjlCNmN1UVdzam5XRjBDNzBBRzk4X1owcHVVcE50SW15clpVVnRKbXp2bEMyOFVZZFVFelJSS2ZUd2EtWG11WEU3ODV6Q2F6S1JYQkI4VGNKUmVseTN2YWp4dmlMOGQtSmMzSDgwRHh1ZjAtY1RhN0pkODgwcjhCNQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZkIteDNqdWJ5akdpSVNNc2hzeG45NXlhZmhXZG5rVXJ3QTFjOTJTUWRyTmRqdjNWbzFsVExWczhmUHJiY1ZsLVY0T3NCc1dCM3ZOanFOQnJwUWlJSS0zZ1BPbjBYRlY3R2dDOURIcHJpU20tTEZnbmVxX1ZqTE1FZVUyUXlDWGVYVnpSMUNfUDVXLUg2cW5mYWRDQllBTjBBYjEzcWtTOUpQYVZIcVFuWFcxVUVobzNHeTFKelJDNXlnSE9wLUN1Z0l4dlFRdVM5dmllcWNDY1NmOGE0aW5zSjF6MFhZdUtQWWRtLUtwcTk0bFpQSkZmYWJLTnAzdw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUV1LWlnLU5OYjFfdHJJQ2NRdEdhRjY2anJudnV3Q2VYd0o1ZE9xaVZZQ3Vyd3lFLVNCYTJwMV9iaXE1bE1qNGQ0VVhwN3VubnFCRGhnZjQtam1tUjBmZ2cyYUNBRVQ4c2RWTG9CMFB3RmFObjlCNmN1UVdzam5XRjBDNzBBRzk4X1owcHVVcE50SW15clpVVnRKbXp2bEMyOFVZZFVFelJSS2ZUd2EtWG11WEU3ODV6Q2F6S1JYQkI4VGNKUmVseTN2YWp4dmlMOGQtSmMzSDgwRHh1ZjAtY1RhN0pkODgwcjhCNQ?oc=5)
 
 ---
 

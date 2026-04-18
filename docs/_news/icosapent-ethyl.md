@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
 
@@ -65,22 +65,6 @@ permalink: /news/icosapent-ethyl/
 2026-04-17 <span class="news-indication-tag">arthritis</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ05vRlcwRHlSWDNLTEh6VlYtSURsWWNvSWl2aHpvaVJIUDlCWXM3bUxoNWVDOVQtWDV5UThxWGNqMmRoeUtwZWFoaGt5VVJlWDdEeXBKWXFQTlFzZTVqZVpnLU1MemNERmJYOGhTWUw4c2tZVkw4NlVaRjJvaWxfdGRzWjNidUptOHVkVy10RTU3VnRYR29R?oc=5)
-
----
-
-### [Breakthrough Drug Delays Rheumatoid Arthritis for Years After Treatment Ends](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
-
----
-
-### [Lark or owl? Here’s when you should exercise — and what you should do - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
-
-2026-04-15 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/thalidomide/
 ---
 
 <p class="key-answer" data-question="Thalidomide 有什麼相關新聞？">
-<strong>Thalidomide</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Thalidomide</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/thalidomide/
 <p><a href="{{ '/drugs/thalidomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（28 則）
+
+### [Krebs-Therapie: Drei Viertel der Patienten kämpfen mit Chemobrain - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3VoTEs4NG1qNHVlUjJpWUs3aV9mRzlQcGVOMGRYdktpczQyM2UzT0lXUFFXWm1idE1fNy1xcTdGVzFhanRPcWlWM2ZOVzFiRXdFaFU1UnY5a0FTUlo5VDNIc1plUDhIT01ycXVtSUxYREVoWktrUWk2WmNMRDh4UW9zRFJGQmhUSVNJVFo4ZmtkWXo4LUJpVGVjOHJvd2VJRG84akJiT1k1R05lbEQ1Q0hNQWVpb1JtclpRVmF4ak1NUQ?oc=5)
+
+2026-04-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3VoTEs4NG1qNHVlUjJpWUs3aV9mRzlQcGVOMGRYdktpczQyM2UzT0lXUFFXWm1idE1fNy1xcTdGVzFhanRPcWlWM2ZOVzFiRXdFaFU1UnY5a0FTUlo5VDNIc1plUDhIT01ycXVtSUxYREVoWktrUWk2WmNMRDh4UW9zRFJGQmhUSVNJVFo4ZmtkWXo4LUJpVGVjOHJvd2VJRG84akJiT1k1R05lbEQ1Q0hNQWVpb1JtclpRVmF4ak1NUQ?oc=5)
+
+---
 
 ### [Quali esami fare per valutare la salute delle ossa. E quando conviene farli - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
+
+---
+
+### [Doctor who claimed Covid jab probably caused royal cancers standing for Reform - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3lpcGJQZVpOVmdYWWZiQW5fcDBub1IxcGx4NUNBczdkeDVYUGxLX1djVE85VmFXMTNKdU96dUN5SGRSUzNLdVlBdnNTa3lZUjJlMUcxTlluTkltSVUyN3puMjl5MHF4YXJDX2ZhTWxIQkJoVE1KZUZDdTY1MUZwLdIBhgFBVV95cUxNLW50ZmQyaU1EeDVxdm1GT2ZWNjk4ZnJVRXdwX0RfcEcyOUhVV0tNdmt2Vm9VeXE1aVcyamFDYXZ4M1VIbDNST2c0TjJYcGFtRHdGV0ZjeUZCM25VZFFpZTBfZzROa3BHcFhUeHJTZjNQUXFVOW1XYXJGOFY1dXVPeV9VemJaZw?oc=5)
+
+2026-04-17 <span class="news-indication-tag">cancer</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3lpcGJQZVpOVmdYWWZiQW5fcDBub1IxcGx4NUNBczdkeDVYUGxLX1djVE85VmFXMTNKdU96dUN5SGRSUzNLdVlBdnNTa3lZUjJlMUcxTlluTkltSVUyN3puMjl5MHF4YXJDX2ZhTWxIQkJoVE1KZUZDdTY1MUZwLdIBhgFBVV95cUxNLW50ZmQyaU1EeDVxdm1GT2ZWNjk4ZnJVRXdwX0RfcEcyOUhVV0tNdmt2Vm9VeXE1aVcyamFDYXZ4M1VIbDNST2c0TjJYcGFtRHdGV0ZjeUZCM25VZFFpZTBfZzROa3BHcFhUeHJTZjNQUXFVOW1XYXJGOFY1dXVPeV9VemJaZw?oc=5)
 
 ---
 
@@ -73,6 +89,22 @@ permalink: /news/thalidomide/
 2026-04-17 <span class="news-indication-tag">tumor</span>
 
 來源：[Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
+
+---
+
+### [Giornata mondiale del fegato: il cibo è una medicina - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2c3VW05LVB1VHc3VU1MSFBRTUtISHlTZjlBSmZYb3hkcUJkZkVzNFEtZF9Pbk1WZDJhaWVHYXliQTdMbkx5TjZIN1VpNGUweElORnNIdkMzRmJnOEIwMWVUS1g3SFlCXzdVMWZaQnQ5clZ0Z29GTFFhNkdMaWFGTVFlNGNRZkpGTS1qZkR6ZTl5UlJ1RkstX29RTndzY0wzdE15OVVGRjNtQQ?oc=5)
+
+2026-04-17 <span class="news-indication-tag">tumor</span>
+
+來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2c3VW05LVB1VHc3VU1MSFBRTUtISHlTZjlBSmZYb3hkcUJkZkVzNFEtZF9Pbk1WZDJhaWVHYXliQTdMbkx5TjZIN1VpNGUweElORnNIdkMzRmJnOEIwMWVUS1g3SFlCXzdVMWZaQnQ5clZ0Z29GTFFhNkdMaWFGTVFlNGNRZkpGTS1qZkR6ZTl5UlJ1RkstX29RTndzY0wzdE15OVVGRjNtQQ?oc=5)
+
+---
+
+### [Compie 25 anni la mappa che ha rivoluzionato la lotta ai tumori](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTy1oMlJGQ0pwdHNsV3NtVkJkT3lNNFkwaUpneEhtSWtZcUtUVjllRlVWSE5CX3ZXd1BIeHdqUWlVUm9fWU1Ob2tLR2c0dldTNUs4SUN4SGx6ak5hSXRKVG5pejczQUVxT0pBR3MyRldSbWxBOU8wY1Itbk9oNHVjTWlZZ25ZMVVhYl9Nb0ZkRnowcjVVbTlTekU1a2ktbDl5QTRWN3dUUDltYTQ0R3dHeE5WNVZyYkFaeWs5cUlyRFU0MXNsMV9rSE5jUHRpT3dJbEJGeXFJMlZBUVl3YVp6VDQtVTFzNGZHMC1DQ0VPTG14ajJqd0kwM1FFb9IBgAJBVV95cUxPNnV6M1g5ZV9aOVFoVkR5T2xFcXpMNy1uQkZ1UXo2MEUzWk40NWZsQlAwRTdoYVU3VVdiS3VOeEQzdXlpY0E5QXFJakFuRkpRc2x6d2pXMVl2czFrek45SW9lV2tleVczaDNqZEowRnoyOHl4aDJtMk5pTzg0bUJDalJYTkUxSE5waTV2R1ZZNXptcGZpTWhpUzd2ZUYwVzVOT3lzVEN0LXRvNjd1dktVUDdfT1hTSmdCMVc5TUtvTUU3a1dva1BuM0ZNRVJ3RHFFTHFzbmVxVENuOXhlbU5nQXlKYXJFOFFxTVVlanJLRXBJdHhQZTVzQVdtQkIyeEVY?oc=5)
+
+2026-04-17 <span class="news-indication-tag">tumor</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTy1oMlJGQ0pwdHNsV3NtVkJkT3lNNFkwaUpneEhtSWtZcUtUVjllRlVWSE5CX3ZXd1BIeHdqUWlVUm9fWU1Ob2tLR2c0dldTNUs4SUN4SGx6ak5hSXRKVG5pejczQUVxT0pBR3MyRldSbWxBOU8wY1Itbk9oNHVjTWlZZ25ZMVVhYl9Nb0ZkRnowcjVVbTlTekU1a2ktbDl5QTRWN3dUUDltYTQ0R3dHeE5WNVZyYkFaeWs5cUlyRFU0MXNsMV9rSE5jUHRpT3dJbEJGeXFJMlZBUVl3YVp6VDQtVTFzNGZHMC1DQ0VPTG14ajJqd0kwM1FFb9IBgAJBVV95cUxPNnV6M1g5ZV9aOVFoVkR5T2xFcXpMNy1uQkZ1UXo2MEUzWk40NWZsQlAwRTdoYVU3VVdiS3VOeEQzdXlpY0E5QXFJakFuRkpRc2x6d2pXMVl2czFrek45SW9lV2tleVczaDNqZEowRnoyOHl4aDJtMk5pTzg0bUJDalJYTkUxSE5waTV2R1ZZNXptcGZpTWhpUzd2ZUYwVzVOT3lzVEN0LXRvNjd1dktVUDdfT1hTSmdCMVc5TUtvTUU3a1dva1BuM0ZNRVJ3RHFFTHFzbmVxVENuOXhlbU5nQXlKYXJFOFFxTVVlanJLRXBJdHhQZTVzQVdtQkIyeEVY?oc=5)
 
 ---
 
@@ -156,6 +188,14 @@ permalink: /news/thalidomide/
 
 ---
 
+### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+
+2026-04-17 <span class="news-indication-tag">asthma</span>
+
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+
+---
+
 ### [Un test del sangue rileva la leucemia meglio della biopsia](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmtyWFpHSXNXdXBBSFRrdzNaYVBtNEMwNGV2UDVybXRUQ2RzNnpkcXFXWm9mdkpKUExXalY5eDljUE41M2dmQUhOWTBJVFplNjZpSlNnbEZWaVZubXZKM1hRcnVMWW5SRG9KYWdjcWRMMUVodW9ubXVabThyNlBxNHV1VQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">tumor</span>
@@ -177,14 +217,6 @@ permalink: /news/thalidomide/
 2026-04-16 <span class="news-indication-tag">cancer</span>
 
 來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEo4QlVzcHdmUTFtX1ZpODBHVWtEQmtJdjFMOUwteWp5aFBxNXZJNHVUM2ZEalpUU2U1b3BNU0ZGdnJvNlpKVjhoa3RJMzEyelBkYTlvWnNuYnlhV2plUU9LQ2hVRnFXU2FwNjE0VlRXVWdrOGZMWldSaUM2d19rZVJHN2tNeXhwanlGWjY2LTRleFNRX0xzSW5XVU1WTWY4NzdfZWpPQdIBrAFBVV95cUxOV00zVGFuRmVWSVR1Q05EZzVaYW5vQlR4aWZJU2lHVFBSODZzNXBiQjNYUVpMNlkyX0ZMcnVxXzFEbFQ4X0lCSlRCRGwzVTF3QTB1YXdrQnNvM29SUlRwSjBZR0RlNGtSUzd6dm1XVWN6ejY5d2N0bHV0NW9IRC1yNWtIZjdJUlFJQWlUSzRVVkg5NnBFSjJHYXRRV1pQUktpSnlfdEIybzc3SEc2?oc=5)
-
----
-
-### [Les scientifiques tirent la sonnette d’alarme : ces habitudes du quotidien pourraient expliquer la hausse des cancers chez les moins de 50 ans](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMTdBbklEMXhNTEN1ek5GSHJiamd5NXotYmdKeEtPcG9vVWlrRWVlT3J1SnRDd2dzU2QzZGJiWFdxUmlua2JfVzBfS25lb2lZSDMxdnJyajV1dkNHbmdQZ1NUTHN6SnN3RWY1cFBqZWJrdDQ1TUlsaF9wQ0JGWkdvandqUmU5YzlycG5sbkFrNUYwby1jcG0tX2N1dW5nekhiMDZjNG90aE5JLVNraFFVVzBzaXl1c09NZEstQTBuV3dOR0N6VEpLWFdOLVlaSUJxZVFHM1JJZ2ZUQW0tb2t2UlM0SDdJdERVeDZVMm5xOV9nU3hHdlE?oc=5)
-
-2026-04-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMTdBbklEMXhNTEN1ek5GSHJiamd5NXotYmdKeEtPcG9vVWlrRWVlT3J1SnRDd2dzU2QzZGJiWFdxUmlua2JfVzBfS25lb2lZSDMxdnJyajV1dkNHbmdQZ1NUTHN6SnN3RWY1cFBqZWJrdDQ1TUlsaF9wQ0JGWkdvandqUmU5YzlycG5sbkFrNUYwby1jcG0tX2N1dW5nekhiMDZjNG90aE5JLVNraFFVVzBzaXl1c09NZEstQTBuV3dOR0N6VEpLWFdOLVlaSUJxZVFHM1JJZ2ZUQW0tb2t2UlM0SDdJdERVeDZVMm5xOV9nU3hHdlE?oc=5)
 
 ---
 
@@ -228,75 +260,11 @@ permalink: /news/thalidomide/
 
 ---
 
-### [Cancro al colon, la diagnosi di Fiona Fleming: “Sono un medico di base, non pensavo potesse colpire me”](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzVWejhDM0Fsbl9MNTU1aUR5dTdKUWdmVTZxUmhXMmVkZnV3RGdBMFVZMTJweEZOcDFBMllaQXZxWDhSMUhGZWpEajB1SnZUN3JTcXpmdlIxbGtXQlVQdjFvUmlOV21ISklyd09iVW1pOE82SEtBUXdUUF9wYkZDM3RtYkYtRTVsaTJrLVdSMXVXSXRvMXYtQy1pZ1ViYWg3N2NtbjJPYnltcVM0Z3JZRENtU3dxWVA4SEhFTUkyZnRFMW1obkk5UkNZSFpGbnotNVA5S2VtTkpfQQ?oc=5)
-
-2026-04-16 <span class="news-indication-tag">cancro</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzVWejhDM0Fsbl9MNTU1aUR5dTdKUWdmVTZxUmhXMmVkZnV3RGdBMFVZMTJweEZOcDFBMllaQXZxWDhSMUhGZWpEajB1SnZUN3JTcXpmdlIxbGtXQlVQdjFvUmlOV21ISklyd09iVW1pOE82SEtBUXdUUF9wYkZDM3RtYkYtRTVsaTJrLVdSMXVXSXRvMXYtQy1pZ1ViYWg3N2NtbjJPYnltcVM0Z3JZRENtU3dxWVA4SEhFTUkyZnRFMW1obkk5UkNZSFpGbnotNVA5S2VtTkpfQQ?oc=5)
-
----
-
-### [Trombosi in aumento, Anna Falanga: "Non bisogna sottovalutare i sintomi"](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG94cUJyTnI0VmlVbVJkMjM0UmNObDBjQXo0dnBBZFdELUtMSEY4ZFdYZUUybzdWZVp2RFRPNTdhc1VRdGd1cVNWTkRjZXJnZlc1cnV5c2lmNXAzRWowNVdhcU5RbjQtV2ZRbGcwdjR3T3R4WE41cHpwSWtrWWJMWGpNeEU5VVZJcEsxVFhqQ1NITG9CX21USmwtRnpvekRGT3VQcXBsUFZqWDVXMGdDTTJCM3A?oc=5)
-
-2026-04-16 <span class="news-indication-tag">cancro</span>
-
-來源：[Bergamonews](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG94cUJyTnI0VmlVbVJkMjM0UmNObDBjQXo0dnBBZFdELUtMSEY4ZFdYZUUybzdWZVp2RFRPNTdhc1VRdGd1cVNWTkRjZXJnZlc1cnV5c2lmNXAzRWowNVdhcU5RbjQtV2ZRbGcwdjR3T3R4WE41cHpwSWtrWWJMWGpNeEU5VVZJcEsxVFhqQ1NITG9CX21USmwtRnpvekRGT3VQcXBsUFZqWDVXMGdDTTJCM3A?oc=5)
-
----
-
 ### [Pulmonale Hypertonie und Brustkrebs: Gibt es eine Verbindung?](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHl3V1djYTA4QkdhMzc5MEZ6YUhSSFFkZGxNNWxvdnZaYndwd1pPWGp3OWgtRDc1Mi1kLXVGSG1wWWpxUF84U2dORnNlU3BrbkNqOGNDMUgzQkNnbmpkUWxrSFo3NWp4b2ZvOHhDekFOZ1NleU1SandhSkxKNVBIUmJHY3M4bkxoSjVyMDhVM1dyWHVzVFcydUh2bnliUUVHWXp4MkNzd3UzYzYzdkxvSmdENEJ0THlwWmdDeXFkdw?oc=5)
 
 2026-04-16 <span class="news-indication-tag">Krebs</span>
 
 來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHl3V1djYTA4QkdhMzc5MEZ6YUhSSFFkZGxNNWxvdnZaYndwd1pPWGp3OWgtRDc1Mi1kLXVGSG1wWWpxUF84U2dORnNlU3BrbkNqOGNDMUgzQkNnbmpkUWxrSFo3NWp4b2ZvOHhDekFOZ1NleU1SandhSkxKNVBIUmJHY3M4bkxoSjVyMDhVM1dyWHVzVFcydUh2bnliUUVHWXp4MkNzd3UzYzYzdkxvSmdENEJ0THlwWmdDeXFkdw?oc=5)
-
----
-
-### [Mum with brain tumour highlights need for more research as new trials offered - Hull Live](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEdjT1VLZWZXWXo1emtoWWp6eWVvdU5XTWZJMVV6aVBaUDNDVXpwaTNBRFR5Rm9DLV96SDc1dV93Ulc2N3A5Smx5R0dCbEFSN2ZvRWxZakxUTXh2OGgyUFdLdl9PWVhhUjAzZGppd3dQSlVWb2FNYjQ2U1hkdklwNVdB0gGHAUFVX3lxTE1IRlBRemdtSTZlWG9EQWZ4U3JkRzdnRmRpT0czYVU4Qjg4MTZxbFJjZ0NZRGtCTURyVXR1T2Y3cVQ2NjA5Xzh4a09EZkNCclJBRVdIQWJDQlVTVEtwQ1NhcEhhekJGRDJDei0xNlZ6NVFMcWp0YlIyUU9FQTBVM1FBTVRJbHFhWQ?oc=5)
-
-2026-04-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Hull Live](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEdjT1VLZWZXWXo1emtoWWp6eWVvdU5XTWZJMVV6aVBaUDNDVXpwaTNBRFR5Rm9DLV96SDc1dV93Ulc2N3A5Smx5R0dCbEFSN2ZvRWxZakxUTXh2OGgyUFdLdl9PWVhhUjAzZGppd3dQSlVWb2FNYjQ2U1hkdklwNVdB0gGHAUFVX3lxTE1IRlBRemdtSTZlWG9EQWZ4U3JkRzdnRmRpT0czYVU4Qjg4MTZxbFJjZ0NZRGtCTURyVXR1T2Y3cVQ2NjA5Xzh4a09EZkNCclJBRVdIQWJDQlVTVEtwQ1NhcEhhekJGRDJDei0xNlZ6NVFMcWp0YlIyUU9FQTBVM1FBTVRJbHFhWQ?oc=5)
-
----
-
-### [Tumour promotion through the lens of evolution](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wbENJNGE4RFltNE14bU1VeFd0bktLUlFoaWdzTndKUS1LSTFwX3VFcVYxbkJZUDBYRURfWjEyYXJmUkFyTjZyNzAyWllxT05RSFh0V29UXzhQUk1GeTFV?oc=5)
-
-2026-04-15 <span class="news-indication-tag">tumour</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wbENJNGE4RFltNE14bU1VeFd0bktLUlFoaWdzTndKUS1LSTFwX3VFcVYxbkJZUDBYRURfWjEyYXJmUkFyTjZyNzAyWllxT05RSFh0V29UXzhQUk1GeTFV?oc=5)
-
----
-
-### [I feared my son had a brain tumour but he'd been poisoned with vitamin D](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mcjlDa1gtdGthUks1TDd0bXRTRVpSWk1YUlVLTTdJa0d4dTBiLVZBdEp6RWh1TnYzbkltWThqUF9KRUVUbWFVa29WLW9PSFdJdXQwYUZWZGRoTVpa?oc=5)
-
-2026-04-15 <span class="news-indication-tag">tumour</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mcjlDa1gtdGthUks1TDd0bXRTRVpSWk1YUlVLTTdJa0d4dTBiLVZBdEp6RWh1TnYzbkltWThqUF9KRUVUbWFVa29WLW9PSFdJdXQwYUZWZGRoTVpa?oc=5)
-
----
-
-### [mRNA vaccines engage unconventional pathways in CD8+ T cell priming](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50TXBKRzdoUnlEMGNCZ2FxanRfaEE4bnpLTVRPa3BWZmZKbnExeHFyR2hNSElxemRXREdEYjVVdEt5Y3Uyem9QTmZ3VHNQWk9NTjhUYUlZaFBFZDRlSUJJ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50TXBKRzdoUnlEMGNCZ2FxanRfaEE4bnpLTVRPa3BWZmZKbnExeHFyR2hNSElxemRXREdEYjVVdEt5Y3Uyem9QTmZ3VHNQWk9NTjhUYUlZaFBFZDRlSUJJ?oc=5)
-
----
-
-### [Prospective evaluation of genomics-guided off-label treatment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
-
-2026-04-15 <span class="news-indication-tag">cancer</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5)
-
----
-
-### [Breakthrough Drug Delays Rheumatoid Arthritis for Years After Treatment Ends](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
 
 ---
 

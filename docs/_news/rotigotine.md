@@ -44,11 +44,11 @@ permalink: /news/rotigotine/
 
 ## 相關新聞（12 則）
 
-### [Second vaccine offered after meningitis B outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+### [11 Signs Someone You Care About Is In Full Fledged AI Psychosis, According To Research](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWF1SmV0cHdRcU5WS192MkYxM05aSGczZ3pqbGQ4aW1ILVBzczhjeC1KMjU3aHZxZDJBX1dIMnc3STBiSHZGYnpBQnB5VF82V2xWaElESHlKSkJ6Q0xfbnRYUVdteWFzYWl1Q3dOVi10VXV4cW03V3VIaHpteFAyMEZ1aERQQ3NzdnRaaEtvT1luaHRrZVZjOG85TjFPam9OOWJ0NG5aVUxQOTN0N01JNDY5RQ?oc=5)
 
-2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-17 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+來源：[YourTango](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWF1SmV0cHdRcU5WS192MkYxM05aSGczZ3pqbGQ4aW1ILVBzczhjeC1KMjU3aHZxZDJBX1dIMnc3STBiSHZGYnpBQnB5VF82V2xWaElESHlKSkJ6Q0xfbnRYUVdteWFzYWl1Q3dOVi10VXV4cW03V3VIaHpteFAyMEZ1aERQQ3NzdnRaaEtvT1luaHRrZVZjOG85TjFPam9OOWJ0NG5aVUxQOTN0N01JNDY5RQ?oc=5)
 
 ---
 
@@ -60,19 +60,27 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Second vaccine offered after meningitis B outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+
+---
+
+### [BBC doctor gives warning to 'anyone who has woken up in the morning with a pain in the leg' - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1R1X0ZyaVZHWTROTmNsNEtXc0Z5VUFUZkExYUZTRDJYUDNuTWI1alFiTTgxT2JpMTRuS040WlBneWFlcXZ2WnRwcmZMMWRNaXhJWGRxQUt6aTBHdHo5RGdJdWFiR3c4cklFNzNUOERRbzgyR0Jtem9fc0NCSGlqRWlMQdIBiAFBVV95cUxPSG83MDNlTkVfcHFUSEJ2bzZ2dmkxS013aHlfTmg5djJGRkFiT01PaXpsSWU0aXM4UVlnUlN0TF9YeW8zcDJQanVhMkJGcWFxbGl2RlJWRm5QQUszZzJQMnNlal9kTjRfc24yTlBBMV9CMV9Rb08yTDNjT2ZReHk3emplSnRaUTc0?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1R1X0ZyaVZHWTROTmNsNEtXc0Z5VUFUZkExYUZTRDJYUDNuTWI1alFiTTgxT2JpMTRuS040WlBneWFlcXZ2WnRwcmZMMWRNaXhJWGRxQUt6aTBHdHo5RGdJdWFiR3c4cklFNzNUOERRbzgyR0Jtem9fc0NCSGlqRWlMQdIBiAFBVV95cUxPSG83MDNlTkVfcHFUSEJ2bzZ2dmkxS013aHlfTmg5djJGRkFiT01PaXpsSWU0aXM4UVlnUlN0TF9YeW8zcDJQanVhMkJGcWFxbGl2RlJWRm5QQUszZzJQMnNlal9kTjRfc24yTlBBMV9CMV9Rb08yTDNjT2ZReHk3emplSnRaUTc0?oc=5)
+
+---
+
 ### [Gut-friendly supermarket foods: what to buy (and what to avoid) - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
 
 2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
-
----
-
-### [Ecuador refuerza acciones contra el dengue tras repunte de casos - Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UTWRhb1lkZ2cyYTdXRS12T2NpZU0wS09MM2lPc055WkE0WmhZQVljNUFfVmRiMERHQXNxbENPWkI0ajNKakt2a1ZfNzJhVkdZX0Y1RTFQTXg5OFRNVHhfeFZxdEE1elBPZkVWZVdKQ0lEMjY5c0E?oc=5)
-
-2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UTWRhb1lkZ2cyYTdXRS12T2NpZU0wS09MM2lPc055WkE0WmhZQVljNUFfVmRiMERHQXNxbENPWkI0ajNKakt2a1ZfNzJhVkdZX0Y1RTFQTXg5OFRNVHhfeFZxdEE1elBPZkVWZVdKQ0lEMjY5c0E?oc=5)
 
 ---
 
@@ -108,6 +116,14 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Covid inquiry finds UK led world on vaccines - but minority were harmed - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1pcmYxWlFnOU9QcnBlNFV0eHVOZGtfd09hRjcwVGI4Vll4Z19tUzVVWnBGN0hoRE1VVVhIcmNIcGRENTdCbnl2WTFDN3lVbmlsZmVQRnVFMzcxS3gtbE5PblZTcHNYeERIX3FqblhDZmN1dDNCaXRYS3pqN2VPd9IBgwFBVV95cUxQalItMFRSNl9JMlVCdnN3TTBQQk8zSm1NdFlRQUdXTG83LW9aRTRTbHdaZlp5MlFVeXRzY2FfSjVtTTdUbGI1X1RVNkF0ZXFXdnd1bE54VU1rUlFlLWsxejdhWjZQWHZSOGFvUHJCTFAyUnBaNDJFelc3REg1MGhBWWJYRQ?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1pcmYxWlFnOU9QcnBlNFV0eHVOZGtfd09hRjcwVGI4Vll4Z19tUzVVWnBGN0hoRE1VVVhIcmNIcGRENTdCbnl2WTFDN3lVbmlsZmVQRnVFMzcxS3gtbE5PblZTcHNYeERIX3FqblhDZmN1dDNCaXRYS3pqN2VPd9IBgwFBVV95cUxQalItMFRSNl9JMlVCdnN3TTBQQk8zSm1NdFlRQUdXTG83LW9aRTRTbHdaZlp5MlFVeXRzY2FfSjVtTTdUbGI1X1RVNkF0ZXFXdnd1bE54VU1rUlFlLWsxejdhWjZQWHZSOGFvUHJCTFAyUnBaNDJFelc3REg1MGhBWWJYRQ?oc=5)
+
+---
+
 ### [Die rezidivierende akute Pankreatitis bremsen](https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWI0dENHdG5zcUR4VUl3QnVlMUotZ2o4WHl2eFpRcXM1bDZfUUhpT241S0tjOUItdURFTWQ5TGJoLXdybXR4amRGeXVXZ21wTHpLZHBiaFdHN1g1ZHV2THZRVXZzSHBjOXpTRjhmV2lGeVFjUEw2VEJ2dTJ1WFNheENzdUNmQ3ZicGF5aGRkVE5TMnNRNVE?oc=5)
 
 2026-04-16 <span class="news-indication-tag">MS</span>
@@ -116,27 +132,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Netizens horrified after report claims kids’ HIV outbreak in Punjab’s Taunsa caused by reusing syringes - Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
+### [Netizens horrified after report claims kids’ HIV outbreak in Punjab’s Taunsa caused by reusing syringes - Dawn Images](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHE4bURLM1lhWjAwbW5udnEwLVNZT0xfY1RyX2VOeFp0NS1MMURld2xCM2JqRXNtSmlfTzZJTkNVOGI1VDZFSzFsVVJPVURJbkdPbmdaSVhzNXVoN2JFazFZZHBzRTcwZG84Q05iUlZjZHJtN0NDdWo5VnAtNG1mVWlLdkgzMUlWS3pkLWNwRzdaejNOaGF5bW9vMHZ0R3JScHVvUDdKYUM2UlhwNjM1SGdmQktnQTk0TGhIU1lycUVkSEgxSllYOFFJbllWempvaTEtT9IBUkFVX3lxTE05YnJkZVI2aFU3bUs3MGRveHRrZEtMZzR6NExzSFo5c09OclZZNGVDOUtlWW1lV2NxaXdIX3BTd1A5OGtaZ3lIRmJlbzBkaG1VcHc?oc=5)
 
 2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
-
----
-
-### [Researchers warn of severe long-term damage to the brain after Covid following new study - UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
-
-2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
-
----
-
-### [mRNA vaccines engage unconventional pathways in CD8+ T cell priming](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50TXBKRzdoUnlEMGNCZ2FxanRfaEE4bnpLTVRPa3BWZmZKbnExeHFyR2hNSElxemRXREdEYjVVdEt5Y3Uyem9QTmZ3VHNQWk9NTjhUYUlZaFBFZDRlSUJJ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50TXBKRzdoUnlEMGNCZ2FxanRfaEE4bnpLTVRPa3BWZmZKbnExeHFyR2hNSElxemRXREdEYjVVdEt5Y3Uyem9QTmZ3VHNQWk9NTjhUYUlZaFBFZDRlSUJJ?oc=5)
+來源：[Dawn Images](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHE4bURLM1lhWjAwbW5udnEwLVNZT0xfY1RyX2VOeFp0NS1MMURld2xCM2JqRXNtSmlfTzZJTkNVOGI1VDZFSzFsVVJPVURJbkdPbmdaSVhzNXVoN2JFazFZZHBzRTcwZG84Q05iUlZjZHJtN0NDdWo5VnAtNG1mVWlLdkgzMUlWS3pkLWNwRzdaejNOaGF5bW9vMHZ0R3JScHVvUDdKYUM2UlhwNjM1SGdmQktnQTk0TGhIU1lycUVkSEgxSllYOFFJbllWempvaTEtT9IBUkFVX3lxTE05YnJkZVI2aFU3bUs3MGRveHRrZEtMZzR6NExzSFo5c09OclZZNGVDOUtlWW1lV2NxaXdIX3BTd1A5OGtaZ3lIRmJlbzBkaG1VcHc?oc=5)
 
 ---
 

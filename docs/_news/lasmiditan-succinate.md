@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [ConCiencia en Obesidad presenta su nueva Hoja de Ruta](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
+
+---
+
+### [Marcadores genéticos predicen respuesta y efectos secundarios de fármacos GLP-1 en la pérdida de peso](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
+
+2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[labmedica.es](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
 
 ---
 

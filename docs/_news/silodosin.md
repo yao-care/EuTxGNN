@@ -14,7 +14,7 @@ permalink: /news/silodosin/
 ---
 
 <p class="key-answer" data-question="Silodosin 有什麼相關新聞？">
-<strong>Silodosin</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Silodosin</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/silodosin/
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（30 則）
+
+### [Neurogenese bei Zebrafinken: Einblicke in die Gehirnreparatur - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhMWlBra3Y4NXhiazZUNVNMV0kxa0lBX1ZySFdmQkItTElOV044SzhkTUlBOXZSNS1TTG5RS0lrLVpoT0hHSld1RGE1TjBqWVlyVUE5cjhFRWpjUXJkVjNmMm42eEhTX01pLUhlZ19NWUhaSHFvaE0ybXJlOWNOV3ZqM3p4Y2hFb1RZZ2dQcENPUVdyS05N?oc=5)
+
+2026-04-17 <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhMWlBra3Y4NXhiazZUNVNMV0kxa0lBX1ZySFdmQkItTElOV044SzhkTUlBOXZSNS1TTG5RS0lrLVpoT0hHSld1RGE1TjBqWVlyVUE5cjhFRWpjUXJkVjNmMm42eEhTX01pLUhlZ19NWUhaSHFvaE0ybXJlOWNOV3ZqM3p4Y2hFb1RZZ2dQcENPUVdyS05N?oc=5)
+
+---
 
 ### [Quali esami fare per valutare la salute delle ossa. E quando conviene farli - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Second vaccine offered after meningitis B outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+### [Studie zu Schwangerschaftsübelkeit deckt sechs neue genetische Zusammenhänge auf - Biermann Medizin](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkVnRUJ5S0loUDJTYzBUbEhKeEVjb2owckswMW5BblU3YmkzSTlzcmRESndyTUJXU3V2cmdYTGpEQ2g3cUZDbkVhRDdnLTdxMmNlVFBkVmtfX0lwTXlfMmpyNDBxN3ZGNlNWMTVwaUg4cVU3NS1JMkU0VzdWRkkyQ3hLZjhmY1E1SC1vc2xqX29fX0x5bm9UVGdiNTEyTFllQUQtaVc4d3lLSDM5TS1DcQ?oc=5)
 
-2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-17 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkVnRUJ5S0loUDJTYzBUbEhKeEVjb2owckswMW5BblU3YmkzSTlzcmRESndyTUJXU3V2cmdYTGpEQ2g3cUZDbkVhRDdnLTdxMmNlVFBkVmtfX0lwTXlfMmpyNDBxN3ZGNlNWMTVwaUg4cVU3NS1JMkU0VzdWRkkyQ3hLZjhmY1E1SC1vc2xqX29fX0x5bm9UVGdiNTEyTFllQUQtaVc4d3lLSDM5TS1DcQ?oc=5)
 
 ---
 
@@ -84,19 +92,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Studie zu Schwangerschaftsübelkeit deckt sechs neue genetische Zusammenhänge auf - Biermann Medizin](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkVnRUJ5S0loUDJTYzBUbEhKeEVjb2owckswMW5BblU3YmkzSTlzcmRESndyTUJXU3V2cmdYTGpEQ2g3cUZDbkVhRDdnLTdxMmNlVFBkVmtfX0lwTXlfMmpyNDBxN3ZGNlNWMTVwaUg4cVU3NS1JMkU0VzdWRkkyQ3hLZjhmY1E1SC1vc2xqX29fX0x5bm9UVGdiNTEyTFllQUQtaVc4d3lLSDM5TS1DcQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkVnRUJ5S0loUDJTYzBUbEhKeEVjb2owckswMW5BblU3YmkzSTlzcmRESndyTUJXU3V2cmdYTGpEQ2g3cUZDbkVhRDdnLTdxMmNlVFBkVmtfX0lwTXlfMmpyNDBxN3ZGNlNWMTVwaUg4cVU3NS1JMkU0VzdWRkkyQ3hLZjhmY1E1SC1vc2xqX29fX0x5bm9UVGdiNTEyTFllQUQtaVc4d3lLSDM5TS1DcQ?oc=5)
-
----
-
-### [Studie: mangelnde soziale Kontakte gehen in Depression deutlich stärker mit einem Gefühl von Einsamkeit einher - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZkIteDNqdWJ5akdpSVNNc2hzeG45NXlhZmhXZG5rVXJ3QTFjOTJTUWRyTmRqdjNWbzFsVExWczhmUHJiY1ZsLVY0T3NCc1dCM3ZOanFOQnJwUWlJSS0zZ1BPbjBYRlY3R2dDOURIcHJpU20tTEZnbmVxX1ZqTE1FZVUyUXlDWGVYVnpSMUNfUDVXLUg2cW5mYWRDQllBTjBBYjEzcWtTOUpQYVZIcVFuWFcxVUVobzNHeTFKelJDNXlnSE9wLUN1Z0l4dlFRdVM5dmllcWNDY1NmOGE0aW5zSjF6MFhZdUtQWWRtLUtwcTk0bFpQSkZmYWJLTnAzdw?oc=5)
+### [Studie: mangelnde soziale Kontakte gehen in Depression deutlich stärker mit einem Gefühl von Einsamkeit einher - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUV1LWlnLU5OYjFfdHJJQ2NRdEdhRjY2anJudnV3Q2VYd0o1ZE9xaVZZQ3Vyd3lFLVNCYTJwMV9iaXE1bE1qNGQ0VVhwN3VubnFCRGhnZjQtam1tUjBmZ2cyYUNBRVQ4c2RWTG9CMFB3RmFObjlCNmN1UVdzam5XRjBDNzBBRzk4X1owcHVVcE50SW15clpVVnRKbXp2bEMyOFVZZFVFelJSS2ZUd2EtWG11WEU3ODV6Q2F6S1JYQkI4VGNKUmVseTN2YWp4dmlMOGQtSmMzSDgwRHh1ZjAtY1RhN0pkODgwcjhCNQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZkIteDNqdWJ5akdpSVNNc2hzeG45NXlhZmhXZG5rVXJ3QTFjOTJTUWRyTmRqdjNWbzFsVExWczhmUHJiY1ZsLVY0T3NCc1dCM3ZOanFOQnJwUWlJSS0zZ1BPbjBYRlY3R2dDOURIcHJpU20tTEZnbmVxX1ZqTE1FZVUyUXlDWGVYVnpSMUNfUDVXLUg2cW5mYWRDQllBTjBBYjEzcWtTOUpQYVZIcVFuWFcxVUVobzNHeTFKelJDNXlnSE9wLUN1Z0l4dlFRdVM5dmllcWNDY1NmOGE0aW5zSjF6MFhZdUtQWWRtLUtwcTk0bFpQSkZmYWJLTnAzdw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUV1LWlnLU5OYjFfdHJJQ2NRdEdhRjY2anJudnV3Q2VYd0o1ZE9xaVZZQ3Vyd3lFLVNCYTJwMV9iaXE1bE1qNGQ0VVhwN3VubnFCRGhnZjQtam1tUjBmZ2cyYUNBRVQ4c2RWTG9CMFB3RmFObjlCNmN1UVdzam5XRjBDNzBBRzk4X1owcHVVcE50SW15clpVVnRKbXp2bEMyOFVZZFVFelJSS2ZUd2EtWG11WEU3ODV6Q2F6S1JYQkI4VGNKUmVseTN2YWp4dmlMOGQtSmMzSDgwRHh1ZjAtY1RhN0pkODgwcjhCNQ?oc=5)
 
 ---
 
@@ -116,6 +116,14 @@ permalink: /news/silodosin/
 
 ---
 
+### [Women who still feel tired after sleeping told 'speak to a doctor' - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5oR3RMRnlyZVFySmhfX2tSRWh5UTFJNEM4S0lMMUtKcExEUkh0YU5MUk4yQmdBTVBHM2hiTmhPTlBRR1BISUxlc2w1TTBYWnpjNHZHSDk4LU1xLVh6Q0F0anpxa1NlQ29kZktWeG1PeG5iLVFZaG9TVUlhMHDSAYIBQVVfeXFMTmtqcFUtUWtxRUNnaGdjSk9jeDUtb1JtUHpza25Lc2xjMjBvMVdsYzNNWUcyZnFhR0g2dzRwSHQ0Z2ZtbzRYWUxxbkc4WHptVVJQM21ZODJfelQ3dXd2STJ1MW55T1FyNnQyUzdaWFdhZnBlSXZ2NUVGQ2szQXpRRmp1dw?oc=5)
+
+2026-04-17 <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5oR3RMRnlyZVFySmhfX2tSRWh5UTFJNEM4S0lMMUtKcExEUkh0YU5MUk4yQmdBTVBHM2hiTmhPTlBRR1BISUxlc2w1TTBYWnpjNHZHSDk4LU1xLVh6Q0F0anpxa1NlQ29kZktWeG1PeG5iLVFZaG9TVUlhMHDSAYIBQVVfeXFMTmtqcFUtUWtxRUNnaGdjSk9jeDUtb1JtUHpza25Lc2xjMjBvMVdsYzNNWUcyZnFhR0g2dzRwSHQ0Z2ZtbzRYWUxxbkc4WHptVVJQM21ZODJfelQ3dXd2STJ1MW55T1FyNnQyUzdaWFdhZnBlSXZ2NUVGQ2szQXpRRmp1dw?oc=5)
+
+---
+
 ### [I beat cancer at 26 but still lost happy ending after cruel twist stole my wife - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -129,6 +137,14 @@ permalink: /news/silodosin/
 2026-04-17 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQMW9kaUMyV3hXUEVFM0tOVHUxaUdXcWdxaGVwSlRsU1Y5VUhXUk1oQVBHT2xkWmpvSDNVNVUxaVdJNVFaVklTc0VBclFrSWJldE9LSllqOF9keGF0cGNWT0Rta0ZCUWRYZFNiT1ZRSV9DNkc0Q3hfdERjdmV0bks4RUhuQlN6OVY2TG1kbXRBdHN4UWpMWGNfcXFZck5xT2lzVmVCZ0VPU2V0eWxGb1pzX1l1QzRTUzh1bGMyVW53?oc=5)
+
+---
+
+### [Second vaccine offered after meningitis B outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
 
 ---
 
@@ -164,19 +180,19 @@ permalink: /news/silodosin/
 
 ---
 
+### [Kenilworth Podcaster advocating for endometriosis awareness](https://news.google.com/rss/articles/CBMiXEFVX3lxTFByVDNDUUtzeEVkdzBZaDRtOGQwZHBQWjhWWlZmWmpycHo0VXgxVGlIYm1HTGhMd0Y4TzFOY2VTNVQ2aDJzemUtalBDYkxQNU1ZVmZ2TVZMY3IxRDNM?oc=5)
+
+2026-04-17 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFByVDNDUUtzeEVkdzBZaDRtOGQwZHBQWjhWWlZmWmpycHo0VXgxVGlIYm1HTGhMd0Y4TzFOY2VTNVQ2aDJzemUtalBDYkxQNU1ZVmZ2TVZMY3IxRDNM?oc=5)
+
+---
+
 ### [Gut-friendly supermarket foods: what to buy (and what to avoid) - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
 
 2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
-
----
-
-### [Ecuador refuerza acciones contra el dengue tras repunte de casos - Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UTWRhb1lkZ2cyYTdXRS12T2NpZU0wS09MM2lPc055WkE0WmhZQVljNUFfVmRiMERHQXNxbENPWkI0ajNKakt2a1ZfNzJhVkdZX0Y1RTFQTXg5OFRNVHhfeFZxdEE1elBPZkVWZVdKQ0lEMjY5c0E?oc=5)
-
-2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Pueblo en Línea](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UTWRhb1lkZ2cyYTdXRS12T2NpZU0wS09MM2lPc055WkE0WmhZQVljNUFfVmRiMERHQXNxbENPWkI0ajNKakt2a1ZfNzJhVkdZX0Y1RTFQTXg5OFRNVHhfeFZxdEE1elBPZkVWZVdKQ0lEMjY5c0E?oc=5)
 
 ---
 
@@ -188,19 +204,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Así empieza la salud real desde dentro, según Will Bulsiewicz, gastroenterólogo](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnRyQVBGNFctQS1rdGpQLVpYRWZpUjJSRVY5Mi1PVzFhaF9nWkllTkV3ZHdFUjNFVzllTUVPUlZVLWp2aFhaLUJPSERORVhqbjJYTHZYaG1QMy1hY3dxSDd4TTdUTEVWaHMySC0zYzlVLVdQVmJGZVl3dFFyWk9WdEVtRXNheDJNV2F5WGxxX1RHTnhYY2I5YzBmNndlYWVFZlNGdVlrS1g3c1V3TTRkNkxhSWdPMHpTVUlr?oc=5)
+### [Man who spent £3,500 flying to Turkey for new teeth left with none at all](https://news.google.com/rss/articles/CBMisAFBVV95cUxOallHUkZfTWk0SnNwV3hMR2RPaHJEUDV0MHJ6MUl0TlJQWE9GWC1fd0o1N2lMdmZYOUdFNDVCd3dZaVZHcmhMcXdINnVsSWE2aXhWLTJWY01URUVCNlQ4N0FwTFY4ZGVTMHJ3Wmh3OWcwakF3WUQ4MWNaVTJuZ003aEF4SVlzQmZxcUdWTEhXLWFtY1Z0WEVjSXhqR090emswS213TkpkX2c4MEVSaEdSbQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">AF</span>
 
-來源：[Merca2.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnRyQVBGNFctQS1rdGpQLVpYRWZpUjJSRVY5Mi1PVzFhaF9nWkllTkV3ZHdFUjNFVzllTUVPUlZVLWp2aFhaLUJPSERORVhqbjJYTHZYaG1QMy1hY3dxSDd4TTdUTEVWaHMySC0zYzlVLVdQVmJGZVl3dFFyWk9WdEVtRXNheDJNV2F5WGxxX1RHTnhYY2I5YzBmNndlYWVFZlNGdVlrS1g3c1V3TTRkNkxhSWdPMHpTVUlr?oc=5)
-
----
-
-### [Los médicos de familia coinciden: el 20% de los españoles tiene elevada una proteína del colesterol que casi ningún hospital público analiza - El HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbGNaanowbzZIeFQxdWNUOFFCaWcwV3pkYjBWenM3OUw4b2pENEQtYnNGQ3RLZmF4Q2VKczdwdWUxVXRYeXZzUlNVaTFiQXY1Y25SaHBITFcwbVU1V1VBaTFlaDZJMWNXMFJtYjRRSjFrWTZnTlZvZWRiaUVVTDZzUFE0djlEMzZUR25PTy1kbTBPWjdVSkRjWUZxS1Z2QkZQaWU4SXUtWjlJcVFRUFM2RFJQNW84eUVkUEVrYWs3WWdveEY0RWJUTnVQS1VfTWFZeFF5VFhCUjR2VlNFS1ZFazU4TVJ0SGPSAfsBQVVfeXFMTXVfTm40dmZIaXlqNHdoc3ZOSk10Z0VieGlCRlFic0NsTktQRDJEWnFxUEpOVXhESFg0OURRMFVLOUtlYW5mR0k2WnQySWItT1R1d0s5NnkwZmtheVRKMDVxNk9ydGZQNHRIMnowaHpISjZVdHNXcVpsRXh2QVpHU3BFWVZMYW8tcDNKVFBXVUNvbFFqbzM5TXY5Y3FnZ0JjRzdac0dmQV84d2NaVlpMUHNuS1hydDRmU3hEYnU2dzJFZlZ2a2huLVFGbWktQUpCWWVSVWwzdXRmbzlheFY4UE5iWkxWLWZxU1BOWkQxVUpjb3BBQ1hERHNlTEE?oc=5)
-
-2026-04-16 <span class="news-indication-tag">AF</span>
-
-來源：[El HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbGNaanowbzZIeFQxdWNUOFFCaWcwV3pkYjBWenM3OUw4b2pENEQtYnNGQ3RLZmF4Q2VKczdwdWUxVXRYeXZzUlNVaTFiQXY1Y25SaHBITFcwbVU1V1VBaTFlaDZJMWNXMFJtYjRRSjFrWTZnTlZvZWRiaUVVTDZzUFE0djlEMzZUR25PTy1kbTBPWjdVSkRjWUZxS1Z2QkZQaWU4SXUtWjlJcVFRUFM2RFJQNW84eUVkUEVrYWs3WWdveEY0RWJUTnVQS1VfTWFZeFF5VFhCUjR2VlNFS1ZFazU4TVJ0SGPSAfsBQVVfeXFMTXVfTm40dmZIaXlqNHdoc3ZOSk10Z0VieGlCRlFic0NsTktQRDJEWnFxUEpOVXhESFg0OURRMFVLOUtlYW5mR0k2WnQySWItT1R1d0s5NnkwZmtheVRKMDVxNk9ydGZQNHRIMnowaHpISjZVdHNXcVpsRXh2QVpHU3BFWVZMYW8tcDNKVFBXVUNvbFFqbzM5TXY5Y3FnZ0JjRzdac0dmQV84d2NaVlpMUHNuS1hydDRmU3hEYnU2dzJFZlZ2a2huLVFGbWktQUpCWWVSVWwzdXRmbzlheFY4UE5iWkxWLWZxU1BOWkQxVUpjb3BBQ1hERHNlTEE?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMisAFBVV95cUxOallHUkZfTWk0SnNwV3hMR2RPaHJEUDV0MHJ6MUl0TlJQWE9GWC1fd0o1N2lMdmZYOUdFNDVCd3dZaVZHcmhMcXdINnVsSWE2aXhWLTJWY01URUVCNlQ4N0FwTFY4ZGVTMHJ3Wmh3OWcwakF3WUQ4MWNaVTJuZ003aEF4SVlzQmZxcUdWTEhXLWFtY1Z0WEVjSXhqR090emswS213TkpkX2c4MEVSaEdSbQ?oc=5)
 
 ---
 
@@ -228,19 +236,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Si estás tomando edulcorante con el café, cuidado: los expertos coinciden en que los efectos se transmiten ...](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFVyQ1ZScXJJaHhtNEdqQ2FiclBQcEtyamN6STNaenBnR3dkb2xoR19NOFNQZUkzYkwtNXBQNERTS2hfblI2eVEySzJSdlROUERYdFN2dXFfTENxNGtwdXBHRDIzbjNwTWtCYUJnaDhqVzU4SFF1aG11RGtFSnZJUG12YTBWeTFhSlQ2Y3Zud0g5dU1VZWNOZ0tSNlc4bmFnWGdtTUdBa0tXZHhlYy1nUkRqNk9DeUM4YTA5bVNLU21aeGfSAcgBQVVfeXFMTml6WlgxM0VYVUljX19nYmF3QUpzRjBpV1dJcF9yOEQyMTlMZEh3djdkT0JnSHRFZWNCbXFBZUh6UGtVdzJvbjIzYTNnay1iUVNDTExuaThzbG5FcXQ5b2JHXzFfN1M3X0tQZFpRWThUVi1xMjd2SGNETVFZVzA4UzNjZXNhSUpodjdwenQtRDZfUmIwNmJKRGptamdRYmdtdFltNGtmcmFGcDdYQ29DaUx6YUlnQlVFeGFfSjF5aDZtMzkyMDIxd1I?oc=5)
-
-2026-04-16 <span class="news-indication-tag">AF</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFVyQ1ZScXJJaHhtNEdqQ2FiclBQcEtyamN6STNaenBnR3dkb2xoR19NOFNQZUkzYkwtNXBQNERTS2hfblI2eVEySzJSdlROUERYdFN2dXFfTENxNGtwdXBHRDIzbjNwTWtCYUJnaDhqVzU4SFF1aG11RGtFSnZJUG12YTBWeTFhSlQ2Y3Zud0g5dU1VZWNOZ0tSNlc4bmFnWGdtTUdBa0tXZHhlYy1nUkRqNk9DeUM4YTA5bVNLU21aeGfSAcgBQVVfeXFMTml6WlgxM0VYVUljX19nYmF3QUpzRjBpV1dJcF9yOEQyMTlMZEh3djdkT0JnSHRFZWNCbXFBZUh6UGtVdzJvbjIzYTNnay1iUVNDTExuaThzbG5FcXQ5b2JHXzFfN1M3X0tQZFpRWThUVi1xMjd2SGNETVFZVzA4UzNjZXNhSUpodjdwenQtRDZfUmIwNmJKRGptamdRYmdtdFltNGtmcmFGcDdYQ29DaUx6YUlnQlVFeGFfSjF5aDZtMzkyMDIxd1I?oc=5)
-
----
-
-### [Netizens horrified after report claims kids’ HIV outbreak in Punjab’s Taunsa caused by reusing syringes - Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
+### [Netizens horrified after report claims kids’ HIV outbreak in Punjab’s Taunsa caused by reusing syringes - Dawn Images](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHE4bURLM1lhWjAwbW5udnEwLVNZT0xfY1RyX2VOeFp0NS1MMURld2xCM2JqRXNtSmlfTzZJTkNVOGI1VDZFSzFsVVJPVURJbkdPbmdaSVhzNXVoN2JFazFZZHBzRTcwZG84Q05iUlZjZHJtN0NDdWo5VnAtNG1mVWlLdkgzMUlWS3pkLWNwRzdaejNOaGF5bW9vMHZ0R3JScHVvUDdKYUM2UlhwNjM1SGdmQktnQTk0TGhIU1lycUVkSEgxSllYOFFJbllWempvaTEtT9IBUkFVX3lxTE05YnJkZVI2aFU3bUs3MGRveHRrZEtMZzR6NExzSFo5c09OclZZNGVDOUtlWW1lV2NxaXdIX3BTd1A5OGtaZ3lIRmJlbzBkaG1VcHc?oc=5)
 
 2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
+來源：[Dawn Images](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHE4bURLM1lhWjAwbW5udnEwLVNZT0xfY1RyX2VOeFp0NS1MMURld2xCM2JqRXNtSmlfTzZJTkNVOGI1VDZFSzFsVVJPVURJbkdPbmdaSVhzNXVoN2JFazFZZHBzRTcwZG84Q05iUlZjZHJtN0NDdWo5VnAtNG1mVWlLdkgzMUlWS3pkLWNwRzdaejNOaGF5bW9vMHZ0R3JScHVvUDdKYUM2UlhwNjM1SGdmQktnQTk0TGhIU1lycUVkSEgxSllYOFFJbllWempvaTEtT9IBUkFVX3lxTE05YnJkZVI2aFU3bUs3MGRveHRrZEtMZzR6NExzSFo5c09OclZZNGVDOUtlWW1lV2NxaXdIX3BTd1A5OGtaZ3lIRmJlbzBkaG1VcHc?oc=5)
 
 ---
 
@@ -249,14 +249,6 @@ permalink: /news/silodosin/
 2026-04-16 <span class="news-indication-tag">AF</span>
 
 來源：[magdeburg-klickt.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2E4ekNKOVhYUW5sR1pEMzlXMUx2bTJyTG03SEkxZmNYekR4YzNjWnBULVhZUXJGel9DUjVQeG44eGsxVkxnenFWQ08tUXd2T25LN1dtR25pQ0dpZlV3anU1T1RrWjdyakNyWm9YTGhwVVVLa0dWVlRKalJ1bVNOYlhjOWtwMTE2S1o1MDJWdzBUbUpheWhSQ3Y5eW5faDNOUGtoSFR3aV90UHhTajN2aFNlUmtRM0xTSTFwTFc2ZDVwd2NyNmJNdHJrUQ?oc=5)
-
----
-
-### [A partir de los 65 años: investigadores europeos coinciden en los efectos de la soledad en el deterioro cognitivo - El Economista](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVnN5Wk1SbFpaOV92dEVDQ2xDN3E1cjVNVExHNUJ1OTBVaURsNlRGR0dDSXRWVGNPWHd0MmdZVDlmU1Z2XzNETVE1TGR4TXZpRjFwNkxjenoxY2FXOXR3a3NTUmh1eDd2YkJyU0JvbXhNUHJUUFBUQ1U1SlZWd0Q2MV82eDZodFNoOUJWLTFlZVRrbENkOG5iakxTOFo1emV3b3dSQTA4WllTaFB2UGhBZU93SWZEQU1FX3NfVGt4VWFlZkYxMEVMcmdmUkFSLXpiWW1mU1B6R3RMTDE2YmpmMlRLcDJlUHZfUGZaMThxdF9sNmc3cjd0OFg1NGRlU1A1T0pIU3laZEJRNmkyYzdGdDdxeTFycFdBT3NFQzQwWXI2T25VR0lzOGlB0gGUAkFVX3lxTE03MXZ0SVdrd3VMamdHUWlaTWNlZkM2ZVdIOTJ4QTI3UVRZSnVJMzFQVGtJbUFXM1Y4Z0RkMTh6VGppNnRxNFUtd191aEl2MXBYZG40X1ozRktCTy1jMFd0RUZobGUtTUFuWXAxZ2x5N014bzZ2ZGFWaTBGSmN4M2FPVHZjN3d5MlF3QjJIUGlyMG5jb1VXZzh1ZHRoMGdHOGNwYVZnVWtLSkRvajJRWC14dlNpRFMzb1dlVkU0VUV3REU3TVprZ2ozSmtpejlpUlE5T0lueDN4ZkoxQmhkSTh3MnhzWXBSR210V1hiUFhtcC1DdmxmaWFCcDctdUV6R0VXRlN2WWw4a2tGY1BjR2htSTNJNQ?oc=5)
-
-2026-04-16 <span class="news-indication-tag">AF</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVnN5Wk1SbFpaOV92dEVDQ2xDN3E1cjVNVExHNUJ1OTBVaURsNlRGR0dDSXRWVGNPWHd0MmdZVDlmU1Z2XzNETVE1TGR4TXZpRjFwNkxjenoxY2FXOXR3a3NTUmh1eDd2YkJyU0JvbXhNUHJUUFBUQ1U1SlZWd0Q2MV82eDZodFNoOUJWLTFlZVRrbENkOG5iakxTOFo1emV3b3dSQTA4WllTaFB2UGhBZU93SWZEQU1FX3NfVGt4VWFlZkYxMEVMcmdmUkFSLXpiWW1mU1B6R3RMTDE2YmpmMlRLcDJlUHZfUGZaMThxdF9sNmc3cjd0OFg1NGRlU1A1T0pIU3laZEJRNmkyYzdGdDdxeTFycFdBT3NFQzQwWXI2T25VR0lzOGlB0gGUAkFVX3lxTE03MXZ0SVdrd3VMamdHUWlaTWNlZkM2ZVdIOTJ4QTI3UVRZSnVJMzFQVGtJbUFXM1Y4Z0RkMTh6VGppNnRxNFUtd191aEl2MXBYZG40X1ozRktCTy1jMFd0RUZobGUtTUFuWXAxZ2x5N014bzZ2ZGFWaTBGSmN4M2FPVHZjN3d5MlF3QjJIUGlyMG5jb1VXZzh1ZHRoMGdHOGNwYVZnVWtLSkRvajJRWC14dlNpRFMzb1dlVkU0VUV3REU3TVprZ2ozSmtpejlpUlE5T0lueDN4ZkoxQmhkSTh3MnhzWXBSR210V1hiUFhtcC1DdmxmaWFCcDctdUV6R0VXRlN2WWw4a2tGY1BjR2htSTNJNQ?oc=5)
 
 ---
 
@@ -270,7 +262,7 @@ permalink: /news/silodosin/
 
 ### [Researchers warn of severe long-term damage to the brain after Covid following new study - UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
 
-2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-16 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">AF</span>
 
 來源：[UNILAD Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5)
 
@@ -289,22 +281,6 @@ permalink: /news/silodosin/
 2026-04-16 <span class="news-indication-tag">AF</span>
 
 來源：[La Voix du Nord](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZkx4aHUwNllxczByenV2bEg3Ulp0ZlNLUWF2RmpkMnFZc3dyVE8zNnpKUXA4enhqZHNsTnRNNDFJT3Q4ZjFaNERVc3VqLUExUVhqbVQ5OGpmZGQwU2RMc0pVblNiV2ozMFRCU2x1TTN3b1VzczFWTGFBWktOeFdQTnJXVmZpbzZaem94c1F5YXVfNWFoaHp3NW43NlJRcmFtd0J0NFYxd0tnMmVzWG1GQUE3dUxyUU9sSlAzT3F3MA?oc=5)
-
----
-
-### [La vida después del cáncer colorrectal: el desafío de vivir con una bolsa de ostomía - The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVhOZkw3MDlPTWZtVG5veGJkWmtQWXE3aUljYkhreVpxSUxYR09MSExNeUgyb3Y0bjE4UkRfcXRvZ1Zvazh2UmFWWXl2R3p2THpkeGEtdW9lcjNNNjY2MmU1VTFVVlhocWhpdkdTTnIyaFY4QzBTMV8weUNIN0c5Q1NwdXJ6d3k4bHZaaWZoUHNKN0FJU1o3dUVoUEZEY0lNNFBOeFg2ZW52QVVXanNTRmh5Y1BDcDJDaGc?oc=5)
-
-2026-04-15 <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVhOZkw3MDlPTWZtVG5veGJkWmtQWXE3aUljYkhreVpxSUxYR09MSExNeUgyb3Y0bjE4UkRfcXRvZ1Zvazh2UmFWWXl2R3p2THpkeGEtdW9lcjNNNjY2MmU1VTFVVlhocWhpdkdTTnIyaFY4QzBTMV8weUNIN0c5Q1NwdXJ6d3k4bHZaaWZoUHNKN0FJU1o3dUVoUEZEY0lNNFBOeFg2ZW52QVVXanNTRmh5Y1BDcDJDaGc?oc=5)
-
----
-
-### [Breakthrough Drug Delays Rheumatoid Arthritis for Years After Treatment Ends](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
-
-2026-04-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlh0QkRzOExCMXVnSVVYWmhSODFsNkNZOFRvQW1CN04ydjJOT3QwaWpqaS1nZXR1bmF0czUweTFESGw2Q3lNbXNoVHhkeG1LR3NqMm9McG52Z3gwUFBNbEZYOGtPTS16MlFyQzFyRlJQcHpFNzFTb21TVVplcUFiMUt3ZXlQdFdSYWVDLVpKcVJNREo5aWx4RjdESHFWYmlaQWdTZQ?oc=5)
 
 ---
 

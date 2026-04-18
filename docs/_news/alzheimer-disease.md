@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Air pollution making people in UK get long-term illnesses earlier, study finds - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
-
-2026-04-17
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Maladie d'Alzheimer: à Lyon, de nouveaux espoirs pour la recherche](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yVzVBTG5jMHdZUUF2eWdjdTl6MUxqQ3dlQmZHRFdtMk56SnRLMTN1RTM2Mi1uS0FsS2ExN1NrZ25Oc3VWajhMZDlhQkdCQ2NwdmJQRGR3R2h2Sk9JYi1BNmxqeWU0d284U0x5dHVGc3pZMWdtX3lOcg?oc=5)
 

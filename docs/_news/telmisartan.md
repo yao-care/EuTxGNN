@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Pregnancy vaccine reduces baby hospital admissions for RSV by 80%](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+
+2026-04-17 <span class="news-indication-tag">CVA</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+
+---
 
 ### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
 
@@ -57,22 +65,6 @@ permalink: /news/telmisartan/
 2026-04-17 <span class="news-indication-tag">stroke</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
-
----
-
-### [Unexpected Source of Salt May Be Raising Blood Pressure For Millions](https://news.google.com/rss/articles/CBMingFBVV95cUxNNl9xV2VmU3ZRbUdoX2p3UEZMMFY2aWxVckp1MG5SeHZ3UkZWalNXYXFWMnVBM1BrRTAtdWVVNGg2dUV6UVJfU2JKNG5paXVubTVMRGdVMjhCNTQwT0JNQklqSnVITkdEZjEzUGVKclo5MEQ2QVYtX1Q4LWtJWjQzbW01MUlHMGpTZHBfQVJKT0FCblY3eU9RMlZ2ZDNjdw?oc=5)
-
-2026-04-16 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxNNl9xV2VmU3ZRbUdoX2p3UEZMMFY2aWxVckp1MG5SeHZ3UkZWalNXYXFWMnVBM1BrRTAtdWVVNGg2dUV6UVJfU2JKNG5paXVubTVMRGdVMjhCNTQwT0JNQklqSnVITkdEZjEzUGVKclo5MEQ2QVYtX1Q4LWtJWjQzbW01MUlHMGpTZHBfQVJKT0FCblY3eU9RMlZ2ZDNjdw?oc=5)
-
----
-
-### [Lark or owl? Here’s when you should exercise — and what you should do - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
-
-2026-04-15 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXFlVXItYU1iRDBxb2RGU3J3WkNwOUx3ajYxaTVOUUI5ZE9VbzlrOUFka3hCLUIzaXdyS0xxWk9nQWEwdm1VYTVwRWdjS09ldVNPRU9LN2dyTFhzbkoxUW81N0tkaU5DU2tMV0FiTnYzeFN2dE12T2o3Nk04eFVZRjFoTU44SWdMay1kaDhrWkRyWGdMVEZXalY0OEd0S0FLNVVySXZnbmloMl9yLVE4MlI2VW5NeHRLMk5DU2lIbWs?oc=5)
 
 ---
 

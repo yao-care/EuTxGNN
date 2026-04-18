@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
 
 2026-04-17 <span class="news-indication-tag">Parkinson-Krankheit</span>
 
 來源：[Friedrich-Alexander-Universität](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
-
----
-
-### [Air pollution making people in UK get long-term illnesses earlier, study finds - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
-
-2026-04-17 <span class="news-indication-tag">dementia</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
 
 ---
 
