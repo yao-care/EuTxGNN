@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tirzepatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Un estudio alerta del efecto de los ultraprocesados en los músculos y las rodillas - La Razón](https://news.google.com/rss/articles/CBMizAFBVV95cUxNYTFRNVJCMjY3aldMdG9ZQllBMGdTd1FEWTlSRzhtS2gzY3FXWENjYVlWcE4tZlBxN0dPaVdmSUd0MTZ1SEFKaHZMOHZYd19mcUVrYmdscG84WEZraTVFMjRCSm55Qm5hOVllV3Fwa1JLdUZuSU8zQnY4Ty1UYS1XczBTLWlqV0g4S1lZeHdDdEpEX1lQM2pkb2JlMzJpMmVPN2Jrb2dlMkZwRGlVenNqRlJSVlpZVHhmZ1NLRWJUTFlqYmFIbkx6T0JaQULSAeABQVVfeXFMTkpBbklaOEozazdKREMtV2lGM2hCUWlUV21qSVF6TEIySG5nVFJkUmxSNW5UZkU5ZEZ6d01OOXlrWlBiUHgzT2NjNzA3cFVnNDU1TVo3bFk1SkhjRGJrSWZOYlp0TWZ4NmFzOUc3b0lQTjA4QmQwRFNYZU5xMFFLZXdvNGlfZm5kU3NWVU1VSndxYTZQN0FQNXZIMmlzQ21vMm42Y2h6LU5IcGVybm1FZVUxbFliTG0ydFVUdkJtZDZoYkZGM1hYWElqbmFSTTUyR1pxSmNTQ3FQTXhPaG5ZZ3Q?oc=5)
-
-2026-04-17 <span class="news-indication-tag">artritis</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMizAFBVV95cUxNYTFRNVJCMjY3aldMdG9ZQllBMGdTd1FEWTlSRzhtS2gzY3FXWENjYVlWcE4tZlBxN0dPaVdmSUd0MTZ1SEFKaHZMOHZYd19mcUVrYmdscG84WEZraTVFMjRCSm55Qm5hOVllV3Fwa1JLdUZuSU8zQnY4Ty1UYS1XczBTLWlqV0g4S1lZeHdDdEpEX1lQM2pkb2JlMzJpMmVPN2Jrb2dlMkZwRGlVenNqRlJSVlpZVHhmZ1NLRWJUTFlqYmFIbkx6T0JaQULSAeABQVVfeXFMTkpBbklaOEozazdKREMtV2lGM2hCUWlUV21qSVF6TEIySG5nVFJkUmxSNW5UZkU5ZEZ6d01OOXlrWlBiUHgzT2NjNzA3cFVnNDU1TVo3bFk1SkhjRGJrSWZOYlp0TWZ4NmFzOUc3b0lQTjA4QmQwRFNYZU5xMFFLZXdvNGlfZm5kU3NWVU1VSndxYTZQN0FQNXZIMmlzQ21vMm42Y2h6LU5IcGVybm1FZVUxbFliTG0ydFVUdkJtZDZoYkZGM1hYWElqbmFSTTUyR1pxSmNTQ3FQTXhPaG5ZZ3Q?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
 

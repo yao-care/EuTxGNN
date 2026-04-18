@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
 ### [Experto indica que escalas poblacionales clásicas de predicción de riesgo cardiovascular en diabetes tienen limitaciones](https://news.google.com/rss/articles/CBMijgJBVV95cUxNS2VSeUpNUGZyR2hFZndYM1llbFFuWUlPREVDSVIzMnMxSlhFRE9IVWNvdUdQdFVnSU9kSGlCVFl2WWRLeFZFcHU3RUNGQTd3ZHlQQVV5bTFaVlJuWndRZUhhaWx5WUI2NF9qemVMQU5DQUM0TGpNeV80ZnBZN3lkT1R6RmdmeDZFdTJiUlFYU2VFcW1udk9MbURTTXhFaW8wOXFpWVFUajI3bGJnQlJjQkZIYVBNWUlCak9PQU9iT3VWVHNKQkV6STJkR1pMTkRzQnVyYnVKYU9zeEhVVUhxenBhQ2FrV0lEVVdodnJ3QTNMWlRMb3pHckRDQ1dGbzNZbjk0bDlPVVBQT0xHZlE?oc=5)
 
@@ -121,22 +121,6 @@ permalink: /news/semaglutide/
 2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
-
----
-
-### [En qué momento del día debes ejercitarte para controlar tus niveles de azúcar en la sangre, según un reciente estudio](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSVlOTy1rTFV2blY5OFhHZk9adlJYVVJzbXVGS0tDaUxvcDJ4TjZoT09ndU54ZVJqQm1zUmVlaDdINXhLSVZ6aXdERWZuZGhVc1NXSmtKRjd1VkxYRjJTZzlPZlNrbWlUSzJPZl9XcE01YVV4N09nYVBHaHo4T1hNajNXelJXSEdDN0NUeXh4QUJTYl95WnRPRlU3aWxnSG9TNmdhb3VZNjBWdVFxUjYwRExOR0o4WkE1em1relJtckdJcmptUHl5emV0YTJEZWkycDk2MjNISzhaUHN5aEpUWUE1LUItX3RnUEhsQ3EwWW9kb0dI0gGWAkFVX3lxTE9rbld4QlA1VWhyMENnRlEzSHR3emw1LU9IbzVWaTVvdkxxb3VLdXNfOV9VWTN2cTJYbjAzQmhLSjRtc0lMYzhJZGxJQ1dCR051ZGVOZTdyS2hjYW5scEozTTdfejVNTzB3c0tncGtBWE1RckVuaHQ2TEF2elJBWFBCc05ZTFVrS3JrNHh5ZHdnb0k1eklib0RiblNOUC1tMFBlaHpYdnZHaHR2ckVxS2hQOGdXbDJSam9tdE1nY0pYSnFhU05sanB2bFFfSVB0MHZlTnhqek1FTUY4ajFJYkhaV1YtYmZNcmVKejZfOEZGMkxGQTVlelNEWFhuNDd6NWU1dUtKdzJ2VTVGZVhCY3R3em1aSVhR?oc=5)
-
-2026-04-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[latercera.com](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSVlOTy1rTFV2blY5OFhHZk9adlJYVVJzbXVGS0tDaUxvcDJ4TjZoT09ndU54ZVJqQm1zUmVlaDdINXhLSVZ6aXdERWZuZGhVc1NXSmtKRjd1VkxYRjJTZzlPZlNrbWlUSzJPZl9XcE01YVV4N09nYVBHaHo4T1hNajNXelJXSEdDN0NUeXh4QUJTYl95WnRPRlU3aWxnSG9TNmdhb3VZNjBWdVFxUjYwRExOR0o4WkE1em1relJtckdJcmptUHl5emV0YTJEZWkycDk2MjNISzhaUHN5aEpUWUE1LUItX3RnUEhsQ3EwWW9kb0dI0gGWAkFVX3lxTE9rbld4QlA1VWhyMENnRlEzSHR3emw1LU9IbzVWaTVvdkxxb3VLdXNfOV9VWTN2cTJYbjAzQmhLSjRtc0lMYzhJZGxJQ1dCR051ZGVOZTdyS2hjYW5scEozTTdfejVNTzB3c0tncGtBWE1RckVuaHQ2TEF2elJBWFBCc05ZTFVrS3JrNHh5ZHdnb0k1eklib0RiblNOUC1tMFBlaHpYdnZHaHR2ckVxS2hQOGdXbDJSam9tdE1nY0pYSnFhU05sanB2bFFfSVB0MHZlTnhqek1FTUY4ajFJYkhaV1YtYmZNcmVKejZfOEZGMkxGQTVlelNEWFhuNDd6NWU1dUtKdzJ2VTVGZVhCY3R3em1aSVhR?oc=5)
-
----
-
-### [Calidad frente a cantidad de la grasa en la dieta: el perfil protector asociado al ácido oleico](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTJwQ19adVBaYlhoc2pUTUNhckNrclNIVlpVOFJobTRrQW5hWDUwSGltVGlVMlBIX0h6SFhxcUJuXzhFU3pEdS1VZ1ZKQzJTSXpVSmsyWlM3X2RMckdKdGVwS1pPb3U2Z1ctVEo3a25sS2xZQkdpSGZpVFkwOHdEbC1zLXI4QXA4LVp5ZHduYXZMZEFnMEpvTTFwLXp3WWxuakFTcjNqRS1aczRueXN3X3Ixa2FmQlljVDVwZmxNaWYyVkJJUXFqZlpfT2VjeE5pQ2llZEgxYTZnYjRUX19UZktYaw?oc=5)
-
-2026-04-16 <span class="news-indication-tag">diabetes mellitus</span>
-
-來源：[Mercacei](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTJwQ19adVBaYlhoc2pUTUNhckNrclNIVlpVOFJobTRrQW5hWDUwSGltVGlVMlBIX0h6SFhxcUJuXzhFU3pEdS1VZ1ZKQzJTSXpVSmsyWlM3X2RMckdKdGVwS1pPb3U2Z1ctVEo3a25sS2xZQkdpSGZpVFkwOHdEbC1zLXI4QXA4LVp5ZHduYXZMZEFnMEpvTTFwLXp3WWxuakFTcjNqRS1aczRueXN3X3Ixa2FmQlljVDVwZmxNaWYyVkJJUXFqZlpfT2VjeE5pQ2llZEgxYTZnYjRUX19UZktYaw?oc=5)
 
 ---
 

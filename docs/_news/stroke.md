@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,29 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Schlaganfall-Risiko: Immer mehr junge Menschen betroffen](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzlVTXhOQzR4eGhBRk9KSW5wQmkwZ21sVGxOeEpBSVB2Y0RSUGNVWXduLVdOazRhRkZQYTlYT3Jqa0IxRGFUX3ZGaXlITHBWNFZmTTBOUHBRVUlZWnZTdGFvUE90MXMyd1ZUNmJOVTNoOHhyel9IZnNsZWFuWlRHUkZSYU8xMEhrQ2RMRF85cm8yNy1lSlJqVUlPV2dhTlpWVFVjZjhVNTBocDQyT2c4TmdfQQ?oc=5)
+
+2026-04-18
+
+來源：[BILD](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzlVTXhOQzR4eGhBRk9KSW5wQmkwZ21sVGxOeEpBSVB2Y0RSUGNVWXduLVdOazRhRkZQYTlYT3Jqa0IxRGFUX3ZGaXlITHBWNFZmTTBOUHBRVUlZWnZTdGFvUE90MXMyd1ZUNmJOVTNoOHhyel9IZnNsZWFuWlRHUkZSYU8xMEhrQ2RMRF85cm8yNy1lSlJqVUlPV2dhTlpWVFVjZjhVNTBocDQyT2c4TmdfQQ?oc=5)
+
+---
 
 ### [Kohortenstudie: Psychische Traumata erhöhen Risiko für Demenz und Schlaganfall - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
 
 2026-04-18
 
 來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
+
+---
+
+### [Pregnancy vaccine reduces baby hospital admissions for RSV by 80%](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+
+2026-04-17
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
 
 ---
 

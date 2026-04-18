@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Agomelatine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Misophonia Has Genetic Links to Anxiety And Depression, Study Says](https://news.google.com/rss/articles/CBMimgFBVV95cUxOai0xZEVpNU9oRjUyaVRTejlLYldyVWcxaWdlZHJBYmpXNzNFanByM2tfcFdZcjV4Rm96U1I2S25mVGhsQy1LUW5lSEJPdkJBUlBfeEMxMWU0amRLN1BmWmo3MjFVaDJXTF9RZThmeUFRaFlzSkN4dzI2ckJrem8zNjZOT2RWbzlkUWRub2NlZHFud192QUtCbW9B?oc=5)
+
+2026-04-17 <span class="news-indication-tag">depression</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimgFBVV95cUxOai0xZEVpNU9oRjUyaVRTejlLYldyVWcxaWdlZHJBYmpXNzNFanByM2tfcFdZcjV4Rm96U1I2S25mVGhsQy1LUW5lSEJPdkJBUlBfeEMxMWU0amRLN1BmWmo3MjFVaDJXTF9RZThmeUFRaFlzSkN4dzI2ckJrem8zNjZOT2RWbzlkUWRub2NlZHFud192QUtCbW9B?oc=5)
+
+---
 
 ### [Studie: mangelnde soziale Kontakte gehen in Depression deutlich stärker mit einem Gefühl von Einsamkeit einher - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUV1LWlnLU5OYjFfdHJJQ2NRdEdhRjY2anJudnV3Q2VYd0o1ZE9xaVZZQ3Vyd3lFLVNCYTJwMV9iaXE1bE1qNGQ0VVhwN3VubnFCRGhnZjQtam1tUjBmZ2cyYUNBRVQ4c2RWTG9CMFB3RmFObjlCNmN1UVdzam5XRjBDNzBBRzk4X1owcHVVcE50SW15clpVVnRKbXp2bEMyOFVZZFVFelJSS2ZUd2EtWG11WEU3ODV6Q2F6S1JYQkI4VGNKUmVseTN2YWp4dmlMOGQtSmMzSDgwRHh1ZjAtY1RhN0pkODgwcjhCNQ?oc=5)
 

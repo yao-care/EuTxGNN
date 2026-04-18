@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [Schlaganfall-Risiko: Immer mehr junge Menschen betroffen](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzlVTXhOQzR4eGhBRk9KSW5wQmkwZ21sVGxOeEpBSVB2Y0RSUGNVWXduLVdOazRhRkZQYTlYT3Jqa0IxRGFUX3ZGaXlITHBWNFZmTTBOUHBRVUlZWnZTdGFvUE90MXMyd1ZUNmJOVTNoOHhyel9IZnNsZWFuWlRHUkZSYU8xMEhrQ2RMRF85cm8yNy1lSlJqVUlPV2dhTlpWVFVjZjhVNTBocDQyT2c4TmdfQQ?oc=5)
+
+2026-04-18 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzlVTXhOQzR4eGhBRk9KSW5wQmkwZ21sVGxOeEpBSVB2Y0RSUGNVWXduLVdOazRhRkZQYTlYT3Jqa0IxRGFUX3ZGaXlITHBWNFZmTTBOUHBRVUlZWnZTdGFvUE90MXMyd1ZUNmJOVTNoOHhyel9IZnNsZWFuWlRHUkZSYU8xMEhrQ2RMRF85cm8yNy1lSlJqVUlPV2dhTlpWVFVjZjhVNTBocDQyT2c4TmdfQQ?oc=5)
+
+---
 
 ### [Kohortenstudie: Psychische Traumata erhöhen Risiko für Demenz und Schlaganfall - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
 
@@ -52,17 +60,17 @@ permalink: /news/orlistat/
 
 ---
 
-### [Un estudio señala a un popular edulcorante por su contribución directa a la obesidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
+### [Pregnancy vaccine reduces baby hospital admissions for RSV by 80%](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
 
-2026-04-18 <span class="news-indication-tag">obesidad</span>
+2026-04-17 <span class="news-indication-tag">CVA</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
 
 ---
 
 ### [ConCiencia en Obesidad presenta su nueva Hoja de Ruta](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
 
-2026-04-17 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-04-17 <span class="news-indication-tag">obesidad</span>
 
 來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
 

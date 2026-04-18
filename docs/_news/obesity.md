@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（8 則）
-
-### [Un estudio señala a un popular edulcorante por su contribución directa a la obesidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
-
-2026-04-18
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [ConCiencia en Obesidad presenta su nueva Hoja de Ruta](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Desenmascarando a la enfermedad silenciosa que afecta a más españoles que el desempleo - El Español](https://news.google.com/rss/articles/CBMizwFBVV95cUxONVJyNjk2ZWNoay1VUDEtdHBRdE1MOWttU2NCai1YR3VhYklIYjU4U2k3bzlLY2RESkpUclRFWExKbW5Ud3k1VzE4SnN2dHhkZmIyVVRPWU9hTjZ5eXI2QkVDemFvSjlUV1NxbXVIR3FLSmlqS3p5Vkc4RjBGd1BRQ2prZmcxSVVWUW1nazhzLVdLa0xCdElINl9SVlJNdHBtUnNoNGdqSTh2X1dLQm5MMVR6UkRRSmlOUEZobDg3OFNVb3d5djJVNURZQ18yUWPSAdQBQVVfeXFMTkN1dDNMbk44RlRkLTBMcDl1aUlnQWtPazYxQVNKQVJ1eC1UUkdxcHVwNE05QnFNZ0FYX3BQa1plY21ZQmRiLUJrM05oUWt2bE1mNXJEdHp1NGxORXlGQVFVYXRwVFRkZWw4MDlZZFFMal96My1waTdySkpsZF9venVraXNiQS04TGFMMHhfVVNzRktYVkZtaWpUeDhpUFBkZ0lyeXMxZGZFNndnNjlaWTJYNW5nSWlYdS1ndkNuVUhscXNtM1JFV2pUd2tySzcycU5hVEc?oc=5)
+
+2026-04-17 <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Español](https://news.google.com/rss/articles/CBMizwFBVV95cUxONVJyNjk2ZWNoay1VUDEtdHBRdE1MOWttU2NCai1YR3VhYklIYjU4U2k3bzlLY2RESkpUclRFWExKbW5Ud3k1VzE4SnN2dHhkZmIyVVRPWU9hTjZ5eXI2QkVDemFvSjlUV1NxbXVIR3FLSmlqS3p5Vkc4RjBGd1BRQ2prZmcxSVVWUW1nazhzLVdLa0xCdElINl9SVlJNdHBtUnNoNGdqSTh2X1dLQm5MMVR6UkRRSmlOUEZobDg3OFNVb3d5djJVNURZQ18yUWPSAdQBQVVfeXFMTkN1dDNMbk44RlRkLTBMcDl1aUlnQWtPazYxQVNKQVJ1eC1UUkdxcHVwNE05QnFNZ0FYX3BQa1plY21ZQmRiLUJrM05oUWt2bE1mNXJEdHp1NGxORXlGQVFVYXRwVFRkZWw4MDlZZFFMal96My1waTdySkpsZF9venVraXNiQS04TGFMMHhfVVNzRktYVkZtaWpUeDhpUFBkZ0lyeXMxZGZFNndnNjlaWTJYNW5nSWlYdS1ndkNuVUhscXNtM1JFV2pUd2tySzcycU5hVEc?oc=5)
+
+---
 
 
 <div class="disclaimer">
