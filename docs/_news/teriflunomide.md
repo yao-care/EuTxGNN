@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teriflunomide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（12 則）
 
 ### [11 Signs Someone You Care About Is In Full Fledged AI Psychosis, According To Research](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWF1SmV0cHdRcU5WS192MkYxM05aSGczZ3pqbGQ4aW1ILVBzczhjeC1KMjU3aHZxZDJBX1dIMnc3STBiSHZGYnpBQnB5VF82V2xWaElESHlKSkJ6Q0xfbnRYUVdteWFzYWl1Q3dOVi10VXV4cW03V3VIaHpteFAyMEZ1aERQQ3NzdnRaaEtvT1luaHRrZVZjOG85TjFPam9OOWJ0NG5aVUxQOTN0N01JNDY5RQ?oc=5)
 
@@ -92,6 +92,14 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Air pollution making people in UK get long-term illnesses earlier, study finds - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
+
+---
+
 ### [Gut-friendly supermarket foods: what to buy (and what to avoid) - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
 
 2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -124,35 +132,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [‘Healthy’ baby in hospital with meningitis despite no symptoms - Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
-
-2026-04-16 <span class="news-indication-tag">MS</span>
-
-來源：[Kent Online](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTA3YkRCc3FiY0Q4Nk9scjItRVg3dVNmN2ppLTRJZDc2TXQ3NzVUOWVIN0NTWXVxN3ZOby1hLUQ5TDBjZG5hNVlROXY1dnA3ZGNSWU85MWFZNGFZXzVRdXhleXBONUN5QnNnUHJhYVVhdVZoNmhSbjJUTlE4VnI4Y3NJb05tX0xPU1BZR3dneE11eTZnY0dfTm5xZXpqWUlDcHQ3anhuYmtVR190aW1VSA?oc=5)
-
----
-
-### [Covid inquiry finds UK led world on vaccines - but minority were harmed - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1pcmYxWlFnOU9QcnBlNFV0eHVOZGtfd09hRjcwVGI4Vll4Z19tUzVVWnBGN0hoRE1VVVhIcmNIcGRENTdCbnl2WTFDN3lVbmlsZmVQRnVFMzcxS3gtbE5PblZTcHNYeERIX3FqblhDZmN1dDNCaXRYS3pqN2VPd9IBgwFBVV95cUxQalItMFRSNl9JMlVCdnN3TTBQQk8zSm1NdFlRQUdXTG83LW9aRTRTbHdaZlp5MlFVeXRzY2FfSjVtTTdUbGI1X1RVNkF0ZXFXdnd1bE54VU1rUlFlLWsxejdhWjZQWHZSOGFvUHJCTFAyUnBaNDJFelc3REg1MGhBWWJYRQ?oc=5)
-
-2026-04-16 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1pcmYxWlFnOU9QcnBlNFV0eHVOZGtfd09hRjcwVGI4Vll4Z19tUzVVWnBGN0hoRE1VVVhIcmNIcGRENTdCbnl2WTFDN3lVbmlsZmVQRnVFMzcxS3gtbE5PblZTcHNYeERIX3FqblhDZmN1dDNCaXRYS3pqN2VPd9IBgwFBVV95cUxQalItMFRSNl9JMlVCdnN3TTBQQk8zSm1NdFlRQUdXTG83LW9aRTRTbHdaZlp5MlFVeXRzY2FfSjVtTTdUbGI1X1RVNkF0ZXFXdnd1bE54VU1rUlFlLWsxejdhWjZQWHZSOGFvUHJCTFAyUnBaNDJFelc3REg1MGhBWWJYRQ?oc=5)
-
----
-
-### [Die rezidivierende akute Pankreatitis bremsen](https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWI0dENHdG5zcUR4VUl3QnVlMUotZ2o4WHl2eFpRcXM1bDZfUUhpT241S0tjOUItdURFTWQ5TGJoLXdybXR4amRGeXVXZ21wTHpLZHBiaFdHN1g1ZHV2THZRVXZzSHBjOXpTRjhmV2lGeVFjUEw2VEJ2dTJ1WFNheENzdUNmQ3ZicGF5aGRkVE5TMnNRNVE?oc=5)
-
-2026-04-16 <span class="news-indication-tag">MS</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMilgFBVV95cUxPMWI0dENHdG5zcUR4VUl3QnVlMUotZ2o4WHl2eFpRcXM1bDZfUUhpT241S0tjOUItdURFTWQ5TGJoLXdybXR4amRGeXVXZ21wTHpLZHBiaFdHN1g1ZHV2THZRVXZzSHBjOXpTRjhmV2lGeVFjUEw2VEJ2dTJ1WFNheENzdUNmQ3ZicGF5aGRkVE5TMnNRNVE?oc=5)
-
----
-
-### [Netizens horrified after report claims kids’ HIV outbreak in Punjab’s Taunsa caused by reusing syringes - Dawn Images](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHE4bURLM1lhWjAwbW5udnEwLVNZT0xfY1RyX2VOeFp0NS1MMURld2xCM2JqRXNtSmlfTzZJTkNVOGI1VDZFSzFsVVJPVURJbkdPbmdaSVhzNXVoN2JFazFZZHBzRTcwZG84Q05iUlZjZHJtN0NDdWo5VnAtNG1mVWlLdkgzMUlWS3pkLWNwRzdaejNOaGF5bW9vMHZ0R3JScHVvUDdKYUM2UlhwNjM1SGdmQktnQTk0TGhIU1lycUVkSEgxSllYOFFJbllWempvaTEtT9IBUkFVX3lxTE05YnJkZVI2aFU3bUs3MGRveHRrZEtMZzR6NExzSFo5c09OclZZNGVDOUtlWW1lV2NxaXdIX3BTd1A5OGtaZ3lIRmJlbzBkaG1VcHc?oc=5)
+### [Netizens horrified after report claims kids’ HIV outbreak in Punjab’s Taunsa caused by reusing syringes - Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
 
 2026-04-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Dawn Images](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHE4bURLM1lhWjAwbW5udnEwLVNZT0xfY1RyX2VOeFp0NS1MMURld2xCM2JqRXNtSmlfTzZJTkNVOGI1VDZFSzFsVVJPVURJbkdPbmdaSVhzNXVoN2JFazFZZHBzRTcwZG84Q05iUlZjZHJtN0NDdWo5VnAtNG1mVWlLdkgzMUlWS3pkLWNwRzdaejNOaGF5bW9vMHZ0R3JScHVvUDdKYUM2UlhwNjM1SGdmQktnQTk0TGhIU1lycUVkSEgxSllYOFFJbllWempvaTEtT9IBUkFVX3lxTE05YnJkZVI2aFU3bUs3MGRveHRrZEtMZzR6NExzSFo5c09OclZZNGVDOUtlWW1lV2NxaXdIX3BTd1A5OGtaZ3lIRmJlbzBkaG1VcHc?oc=5)
+來源：[Dawn Images](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1LS05N1pFWHU2cmNuc1VIaS1iRnA3cDZZS1pkelh4WHdTdGNCellqTG1jRkdLM2JRWkp1NDc0UzFDYzVVM2tHR2cyUHbSAVJBVV95cUxNOWJyZGVSNmhVN21LNzBkb3h0a2RLTGc0ejRMc0haOXNPTnJWWTRlQzlLZVltZVdjcWl3SF9wU3dQOThrWmd5SEZiZW8wZGhtVXB3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/prasterone/
 ---
 
 <p class="key-answer" data-question="Prasterone 有什麼相關新聞？">
-<strong>Prasterone</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Prasterone</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/prasterone/
 <p><a href="{{ '/drugs/prasterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
-### [Un experto alerta en España: las escalas de riesgo cardiovascular en diabetes pueden no adaptarse a todos los pacientes - El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
+### [Experto indica que escalas poblacionales clásicas de predicción de riesgo cardiovascular en diabetes tienen limitaciones](https://news.google.com/rss/articles/CBMijgJBVV95cUxNS2VSeUpNUGZyR2hFZndYM1llbFFuWUlPREVDSVIzMnMxSlhFRE9IVWNvdUdQdFVnSU9kSGlCVFl2WWRLeFZFcHU3RUNGQTd3ZHlQQVV5bTFaVlJuWndRZUhhaWx5WUI2NF9qemVMQU5DQUM0TGpNeV80ZnBZN3lkT1R6RmdmeDZFdTJiUlFYU2VFcW1udk9MbURTTXhFaW8wOXFpWVFUajI3bGJnQlJjQkZIYVBNWUlCak9PQU9iT3VWVHNKQkV6STJkR1pMTkRzQnVyYnVKYU9zeEhVVUhxenBhQ2FrV0lEVVdodnJ3QTNMWlRMb3pHckRDQ1dGbzNZbjk0bDlPVVBQT0xHZlE?oc=5)
 
 2026-04-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMijgJBVV95cUxNS2VSeUpNUGZyR2hFZndYM1llbFFuWUlPREVDSVIzMnMxSlhFRE9IVWNvdUdQdFVnSU9kSGlCVFl2WWRLeFZFcHU3RUNGQTd3ZHlQQVV5bTFaVlJuWndRZUhhaWx5WUI2NF9qemVMQU5DQUM0TGpNeV80ZnBZN3lkT1R6RmdmeDZFdTJiUlFYU2VFcW1udk9MbURTTXhFaW8wOXFpWVFUajI3bGJnQlJjQkZIYVBNWUlCak9PQU9iT3VWVHNKQkV6STJkR1pMTkRzQnVyYnVKYU9zeEhVVUhxenBhQ2FrV0lEVVdodnJ3QTNMWlRMb3pHckRDQ1dGbzNZbjk0bDlPVVBQT0xHZlE?oc=5)
 
 ---
 
@@ -65,6 +65,14 @@ permalink: /news/prasterone/
 2026-04-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
+
+---
+
+### [10 000 pas par jour, perte de poids, intensité… Le docteur Laurent Lély démêle le vrai du faux sur la marche - Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
+
+2026-04-17 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
 
 ---
 
@@ -92,6 +100,14 @@ permalink: /news/prasterone/
 
 ---
 
+### [Más allá del peso: revelan cómo la semaglutida tiene beneficios - Diario Occidente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnl0SldEd292R2diSWpEWjZBRmp1YlZWbG5YZXp1Nk5kejEtaFNYVVgtQzNxU293NEsyQ1ZhVEI4dW1jdDk2NjBBZk45SE5UalVfejRmU0pFU1hnb2VFYzhQSFRGT2luY0hlcDFsd1pEMy1SZVlYX2x6bjdCSWVkYThKcFM0blZWSV82V2I1WFJpT2lhMlRGLXBzQTJ6dWJfZW9KX0JQa084R2fSAbYBQVVfeXFMTVNZS0JvM2ZTRko5bkdNMTRVZ0pLSExtenRsb2dzNmd3eHh2WFVDdERiUzdPNEszYXJXSURqbVZ4ekdMWE8tOE90ZFA3ZFBmcmt2R1BLTnJpelYyM0JrZ1ZfUjA3dk0yYVpwRWFWaGRiWDZZRVRPelc0OXRlT2p5SVlaRUhqWDVHQ2M4T0l0ZDdIeWdReWdJZk92MWdzZXVEdnNnLWRIQjUxLUFpSG9MeERxS01DbXc?oc=5)
+
+2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario Occidente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnl0SldEd292R2diSWpEWjZBRmp1YlZWbG5YZXp1Nk5kejEtaFNYVVgtQzNxU293NEsyQ1ZhVEI4dW1jdDk2NjBBZk45SE5UalVfejRmU0pFU1hnb2VFYzhQSFRGT2luY0hlcDFsd1pEMy1SZVlYX2x6bjdCSWVkYThKcFM0blZWSV82V2I1WFJpT2lhMlRGLXBzQTJ6dWJfZW9KX0JQa084R2fSAbYBQVVfeXFMTVNZS0JvM2ZTRko5bkdNMTRVZ0pLSExtenRsb2dzNmd3eHh2WFVDdERiUzdPNEszYXJXSURqbVZ4ekdMWE8tOE90ZFA3ZFBmcmt2R1BLTnJpelYyM0JrZ1ZfUjA3dk0yYVpwRWFWaGRiWDZZRVRPelc0OXRlT2p5SVlaRUhqWDVHQ2M4T0l0ZDdIeWdReWdJZk92MWdzZXVEdnNnLWRIQjUxLUFpSG9MeERxS01DbXc?oc=5)
+
+---
+
 ### [En qué momento del día debes ejercitarte para controlar tus niveles de azúcar en la sangre, según un reciente estudio](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSVlOTy1rTFV2blY5OFhHZk9adlJYVVJzbXVGS0tDaUxvcDJ4TjZoT09ndU54ZVJqQm1zUmVlaDdINXhLSVZ6aXdERWZuZGhVc1NXSmtKRjd1VkxYRjJTZzlPZlNrbWlUSzJPZl9XcE01YVV4N09nYVBHaHo4T1hNajNXelJXSEdDN0NUeXh4QUJTYl95WnRPRlU3aWxnSG9TNmdhb3VZNjBWdVFxUjYwRExOR0o4WkE1em1relJtckdJcmptUHl5emV0YTJEZWkycDk2MjNISzhaUHN5aEpUWUE1LUItX3RnUEhsQ3EwWW9kb0dI0gGWAkFVX3lxTE9rbld4QlA1VWhyMENnRlEzSHR3emw1LU9IbzVWaTVvdkxxb3VLdXNfOV9VWTN2cTJYbjAzQmhLSjRtc0lMYzhJZGxJQ1dCR051ZGVOZTdyS2hjYW5scEozTTdfejVNTzB3c0tncGtBWE1RckVuaHQ2TEF2elJBWFBCc05ZTFVrS3JrNHh5ZHdnb0k1eklib0RiblNOUC1tMFBlaHpYdnZHaHR2ckVxS2hQOGdXbDJSam9tdE1nY0pYSnFhU05sanB2bFFfSVB0MHZlTnhqek1FTUY4ajFJYkhaV1YtYmZNcmVKejZfOEZGMkxGQTVlelNEWFhuNDd6NWU1dUtKdzJ2VTVGZVhCY3R3em1aSVhR?oc=5)
 
 2026-04-16 <span class="news-indication-tag">diabetes</span>
@@ -105,14 +121,6 @@ permalink: /news/prasterone/
 2026-04-16 <span class="news-indication-tag">diabetes mellitus</span>
 
 來源：[Mercacei](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTJwQ19adVBaYlhoc2pUTUNhckNrclNIVlpVOFJobTRrQW5hWDUwSGltVGlVMlBIX0h6SFhxcUJuXzhFU3pEdS1VZ1ZKQzJTSXpVSmsyWlM3X2RMckdKdGVwS1pPb3U2Z1ctVEo3a25sS2xZQkdpSGZpVFkwOHdEbC1zLXI4QXA4LVp5ZHduYXZMZEFnMEpvTTFwLXp3WWxuakFTcjNqRS1aczRueXN3X3Ixa2FmQlljVDVwZmxNaWYyVkJJUXFqZlpfT2VjeE5pQ2llZEgxYTZnYjRUX19UZktYaw?oc=5)
-
----
-
-### [Annoying foot symptom that could signal diabetes or liver disease - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
-
-2026-04-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmNiLXQxbEJCUEVhdnUzSGJGWWw4cm9nTFo2UGhpdjUyclc3US1FUG90bEhsVFlUcVFMMVUtSlFSVjBZMk5qb1FlY284NFlVU2VwWWwzbVprdVNHZGZtLUhxRXB1OThUVVF2SEZaNlJQMDhYSWsxbkJFeUtZNTYxMGxXNTVqX0nSAYwBQVVfeXFMTXRRckJjdVhpMTR6a0hFT3NZcnI1d1lZR3hrNnozdzdrOF83VlJQNU9OVE9tT3oybmhpTGpnWHBFSnA0YjRFOHVSSnRycExBS1ZlZVR0QjJzeWxmc0ZnSE9PUzJCakY1OEJpVnBXRE5KVHl4X1FPX0Y2T3lXdWlCWE14YTEyVUdtd0gyVkg?oc=5)
 
 ---
 

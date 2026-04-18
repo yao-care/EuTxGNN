@@ -14,7 +14,7 @@ permalink: /news/pertuzumab/
 ---
 
 <p class="key-answer" data-question="Pertuzumab 有什麼相關新聞？">
-<strong>Pertuzumab</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pertuzumab</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,37 @@ permalink: /news/pertuzumab/
 <p><a href="{{ '/drugs/pertuzumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
-
-### [Krebs-Therapie: Drei Viertel der Patienten kämpfen mit Chemobrain - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3VoTEs4NG1qNHVlUjJpWUs3aV9mRzlQcGVOMGRYdktpczQyM2UzT0lXUFFXWm1idE1fNy1xcTdGVzFhanRPcWlWM2ZOVzFiRXdFaFU1UnY5a0FTUlo5VDNIc1plUDhIT01ycXVtSUxYREVoWktrUWk2WmNMRDh4UW9zRFJGQmhUSVNJVFo4ZmtkWXo4LUJpVGVjOHJvd2VJRG84akJiT1k1R05lbEQ1Q0hNQWVpb1JtclpRVmF4ak1NUQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3VoTEs4NG1qNHVlUjJpWUs3aV9mRzlQcGVOMGRYdktpczQyM2UzT0lXUFFXWm1idE1fNy1xcTdGVzFhanRPcWlWM2ZOVzFiRXdFaFU1UnY5a0FTUlo5VDNIc1plUDhIT01ycXVtSUxYREVoWktrUWk2WmNMRDh4UW9zRFJGQmhUSVNJVFo4ZmtkWXo4LUJpVGVjOHJvd2VJRG84akJiT1k1R05lbEQ1Q0hNQWVpb1JtclpRVmF4ak1NUQ?oc=5)
-
----
+## 相關新聞（22 則）
 
 ### [Quali esami fare per valutare la salute delle ossa. E quando conviene farli - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">AF</span>
+2026-04-18 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
+
+---
+
+### [« Au début, personne n’y croyait » : rencontre avec le pionnier mondial des cellules tueuses de cancers, un… Français ! - Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNUhhTGh3dTdlNEtXamQ1NUZUS2xEQ3N0dDBfYUFrZGRsbl81VngtNjNxMnEtMmtmUDdkMDEwNFpGaHk2VDB5MVNYcDBfdXh1c3JLUUpTRkRQNVd6VWtVSUloMHdmZ1V3RGhReF9vbWd1ZXAzdFhQemZtdWZRaGh4ZkhXQmNpOEdFd2FsT0VyZGM0SkxiUnYwTXRfdXhrUldmTER6NzJpUnBKM0x1SmdVUnlPWlQ3VWwxbXNGak95eWpES1ExWnlmYnRHaXFfOVFwajZIdkxNZk5kUDVra054VUtvR2t2TktVMDdTUHVJLTBHNFdwMklPZF9fMkl0MDNBN05jQ2FjLUR5UWhGYkpubkc5cy1BTFYz?oc=5)
+
+2026-04-18 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNUhhTGh3dTdlNEtXamQ1NUZUS2xEQ3N0dDBfYUFrZGRsbl81VngtNjNxMnEtMmtmUDdkMDEwNFpGaHk2VDB5MVNYcDBfdXh1c3JLUUpTRkRQNVd6VWtVSUloMHdmZ1V3RGhReF9vbWd1ZXAzdFhQemZtdWZRaGh4ZkhXQmNpOEdFd2FsT0VyZGM0SkxiUnYwTXRfdXhrUldmTER6NzJpUnBKM0x1SmdVUnlPWlQ3VWwxbXNGak95eWpES1ExWnlmYnRHaXFfOVFwajZIdkxNZk5kUDVra054VUtvR2t2TktVMDdTUHVJLTBHNFdwMklPZF9fMkl0MDNBN05jQ2FjLUR5UWhGYkpubkc5cy1BTFYz?oc=5)
+
+---
+
+### [« J’étais condamné, ça m’a sauvé la vie ! » : les secrets des cellules miraculeuses tueuses de cancers - Le Parisien](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaG96OGplOHpxTnB6dC1aSllhcnczWHI2b1JXZm4zSF93YTNMQ2k1V2F1NjdJekxXakNPTjBNVlVfbUJVZ2R1c05ZYTNEODFyT0JQMXpMak04WG1ZcG9VaXlCVDY4T3VJQU04ck5SN3l1Z2d3dWoyT3lGRnVfM0ZPd3NYTDBDRElJbHBTVVhTdFRBOTZRc2FxTkxEbGlwdk1YVUk1eGs5dFJKUlpLb1NValpLTDNPY0VHcjNtbk1JYlRzX25DakRDaUhjbFRlTGFTQU56VVJpR25XeWJPa3FJM1c2a1RReDU4VkxDMkFFd0o1ZEd2ZHNEZl8tOUpKOUtsOUM4?oc=5)
+
+2026-04-18 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaG96OGplOHpxTnB6dC1aSllhcnczWHI2b1JXZm4zSF93YTNMQ2k1V2F1NjdJekxXakNPTjBNVlVfbUJVZ2R1c05ZYTNEODFyT0JQMXpMak04WG1ZcG9VaXlCVDY4T3VJQU04ck5SN3l1Z2d3dWoyT3lGRnVfM0ZPd3NYTDBDRElJbHBTVVhTdFRBOTZRc2FxTkxEbGlwdk1YVUk1eGs5dFJKUlpLb1NValpLTDNPY0VHcjNtbk1JYlRzX25DakRDaUhjbFRlTGFTQU56VVJpR25XeWJPa3FJM1c2a1RReDU4VkxDMkFFd0o1ZEd2ZHNEZl8tOUpKOUtsOUM4?oc=5)
+
+---
+
+### [Neue Ansätze in der Krebsbehandlung: Bewegung statt Medikamente - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
+
+2026-04-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
 
 ---
 
@@ -84,19 +100,11 @@ permalink: /news/pertuzumab/
 
 ---
 
-### [Giornata mondiale del fegato: il cibo è una medicina - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2c3VW05LVB1VHc3VU1MSFBRTUtISHlTZjlBSmZYb3hkcUJkZkVzNFEtZF9Pbk1WZDJhaWVHYXliQTdMbkx5TjZIN1VpNGUweElORnNIdkMzRmJnOEIwMWVUS1g3SFlCXzdVMWZaQnQ5clZ0Z29GTFFhNkdMaWFGTVFlNGNRZkpGTS1qZkR6ZTl5UlJ1RkstX29RTndzY0wzdE15OVVGRjNtQQ?oc=5)
+### [Un grupo del CNIO avanza en la identificación de las lesiones que se convertirán en cáncer de mama, lo que podrá ayudar a evitar el sobretratamiento - Diario de Navarra](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX3JXZU0yY2huUHVaemVQdFc2MUtndjI5N2ROUHU4TldudUI5T096VXFjdzY0LXpTT0luZ01NZWpGRFZ0VWJLZmc5bDFib2lkd1M4NXpHV2lxOHRuckg1b2tqNXRaQ3U3c3JSRzZKWUhhSTVndTktbERyaUdwdVJtaUowaS1vQ29aTGcyeGhOM19MZUZzaG1pSXc5V21WcXZLbFlTNDY4ZWlUNnN3SVRVOWJkcGt6N0lrY1dqQldzTThZeklqdUV5OXR2a05yV3NBS3dDb3dyeVZvVkdJWkIwRGhnclNSRHlxWlZCWXpKa0twUVN3ZG1DLVRuWnV6WTB5RjA4Tkd1Rk5Va29IS2VqS1FJdDdlUQ?oc=5)
 
-2026-04-17 <span class="news-indication-tag">tumor</span>
+2026-04-17 <span class="news-indication-tag">cancer</span>
 
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2c3VW05LVB1VHc3VU1MSFBRTUtISHlTZjlBSmZYb3hkcUJkZkVzNFEtZF9Pbk1WZDJhaWVHYXliQTdMbkx5TjZIN1VpNGUweElORnNIdkMzRmJnOEIwMWVUS1g3SFlCXzdVMWZaQnQ5clZ0Z29GTFFhNkdMaWFGTVFlNGNRZkpGTS1qZkR6ZTl5UlJ1RkstX29RTndzY0wzdE15OVVGRjNtQQ?oc=5)
-
----
-
-### [Compie 25 anni la mappa che ha rivoluzionato la lotta ai tumori](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTy1oMlJGQ0pwdHNsV3NtVkJkT3lNNFkwaUpneEhtSWtZcUtUVjllRlVWSE5CX3ZXd1BIeHdqUWlVUm9fWU1Ob2tLR2c0dldTNUs4SUN4SGx6ak5hSXRKVG5pejczQUVxT0pBR3MyRldSbWxBOU8wY1Itbk9oNHVjTWlZZ25ZMVVhYl9Nb0ZkRnowcjVVbTlTekU1a2ktbDl5QTRWN3dUUDltYTQ0R3dHeE5WNVZyYkFaeWs5cUlyRFU0MXNsMV9rSE5jUHRpT3dJbEJGeXFJMlZBUVl3YVp6VDQtVTFzNGZHMC1DQ0VPTG14ajJqd0kwM1FFb9IBgAJBVV95cUxPNnV6M1g5ZV9aOVFoVkR5T2xFcXpMNy1uQkZ1UXo2MEUzWk40NWZsQlAwRTdoYVU3VVdiS3VOeEQzdXlpY0E5QXFJakFuRkpRc2x6d2pXMVl2czFrek45SW9lV2tleVczaDNqZEowRnoyOHl4aDJtMk5pTzg0bUJDalJYTkUxSE5waTV2R1ZZNXptcGZpTWhpUzd2ZUYwVzVOT3lzVEN0LXRvNjd1dktVUDdfT1hTSmdCMVc5TUtvTUU3a1dva1BuM0ZNRVJ3RHFFTHFzbmVxVENuOXhlbU5nQXlKYXJFOFFxTVVlanJLRXBJdHhQZTVzQVdtQkIyeEVY?oc=5)
-
-2026-04-17 <span class="news-indication-tag">tumor</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTy1oMlJGQ0pwdHNsV3NtVkJkT3lNNFkwaUpneEhtSWtZcUtUVjllRlVWSE5CX3ZXd1BIeHdqUWlVUm9fWU1Ob2tLR2c0dldTNUs4SUN4SGx6ak5hSXRKVG5pejczQUVxT0pBR3MyRldSbWxBOU8wY1Itbk9oNHVjTWlZZ25ZMVVhYl9Nb0ZkRnowcjVVbTlTekU1a2ktbDl5QTRWN3dUUDltYTQ0R3dHeE5WNVZyYkFaeWs5cUlyRFU0MXNsMV9rSE5jUHRpT3dJbEJGeXFJMlZBUVl3YVp6VDQtVTFzNGZHMC1DQ0VPTG14ajJqd0kwM1FFb9IBgAJBVV95cUxPNnV6M1g5ZV9aOVFoVkR5T2xFcXpMNy1uQkZ1UXo2MEUzWk40NWZsQlAwRTdoYVU3VVdiS3VOeEQzdXlpY0E5QXFJakFuRkpRc2x6d2pXMVl2czFrek45SW9lV2tleVczaDNqZEowRnoyOHl4aDJtMk5pTzg0bUJDalJYTkUxSE5waTV2R1ZZNXptcGZpTWhpUzd2ZUYwVzVOT3lzVEN0LXRvNjd1dktVUDdfT1hTSmdCMVc5TUtvTUU3a1dva1BuM0ZNRVJ3RHFFTHFzbmVxVENuOXhlbU5nQXlKYXJFOFFxTVVlanJLRXBJdHhQZTVzQVdtQkIyeEVY?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX3JXZU0yY2huUHVaemVQdFc2MUtndjI5N2ROUHU4TldudUI5T096VXFjdzY0LXpTT0luZ01NZWpGRFZ0VWJLZmc5bDFib2lkd1M4NXpHV2lxOHRuckg1b2tqNXRaQ3U3c3JSRzZKWUhhSTVndTktbERyaUdwdVJtaUowaS1vQ29aTGcyeGhOM19MZUZzaG1pSXc5V21WcXZLbFlTNDY4ZWlUNnN3SVRVOWJkcGt6N0lrY1dqQldzTThZeklqdUV5OXR2a05yV3NBS3dDb3dyeVZvVkdJWkIwRGhnclNSRHlxWlZCWXpKa0twUVN3ZG1DLVRuWnV6WTB5RjA4Tkd1Rk5Va29IS2VqS1FJdDdlUQ?oc=5)
 
 ---
 
@@ -132,11 +140,11 @@ permalink: /news/pertuzumab/
 
 ---
 
-### [Encuentran un marcador que identifica las lesiones precancerosas de mama que se convertirán en tumores](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzBLQlc0Ykd0dnNHTzhUbWxDTlhxbW1JU0Q1dEV0MktnU2c1R2RzQkhxc2M3LU9yVFlJWlI1MS1SU2xFQmdtUUloYUR2cFMyWXlWWjhsMTZPdGt6MUZWS2NUNVg4b2hIbXFJVXJiNGNuNUYzcnd2cE5HaGphUjJ5Z0ZiSXhTUUhNUG55NHFNcDlFbnE3V2NVdHB3MFVIQ0l1X1BqQTlqSTl1T1kyV0lSMFZLQkl0ZzFvdGxWSXNzWjNjQ0tOUFBvd3QzOTRJNjRDQ3hHNA?oc=5)
+### [Le cancer de stade 0, un diagnostic peu courant qu'il faut connaître - National Geographic](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYm9sQkRYMWdGRk9NXzhidnRMN1N0MkN3ZVkxd3NVX01Hd1E5TUhXWFVpbUFrUXA0TWdtSnl2djUwLV93ZTNuYkZub2pmVFh0M0Uyem5YZ3NXNW9tbFZvUTFOQ0I0cEp5VEtET2M5REtYcTJ6Ri1uZy1kU21KaWRQTjhYN1FLQ082TUFralMtblJFa0VtMDNBS2NOeTN6cDFoNlBORHB6LUM0UXM?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span>
 
-來源：[Sinc](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzBLQlc0Ykd0dnNHTzhUbWxDTlhxbW1JU0Q1dEV0MktnU2c1R2RzQkhxc2M3LU9yVFlJWlI1MS1SU2xFQmdtUUloYUR2cFMyWXlWWjhsMTZPdGt6MUZWS2NUNVg4b2hIbXFJVXJiNGNuNUYzcnd2cE5HaGphUjJ5Z0ZiSXhTUUhNUG55NHFNcDlFbnE3V2NVdHB3MFVIQ0l1X1BqQTlqSTl1T1kyV0lSMFZLQkl0ZzFvdGxWSXNzWjNjQ0tOUFBvd3QzOTRJNjRDQ3hHNA?oc=5)
+來源：[National Geographic](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYm9sQkRYMWdGRk9NXzhidnRMN1N0MkN3ZVkxd3NVX01Hd1E5TUhXWFVpbUFrUXA0TWdtSnl2djUwLV93ZTNuYkZub2pmVFh0M0Uyem5YZ3NXNW9tbFZvUTFOQ0I0cEp5VEtET2M5REtYcTJ6Ri1uZy1kU21KaWRQTjhYN1FLQ082TUFralMtblJFa0VtMDNBS2NOeTN6cDFoNlBORHB6LUM0UXM?oc=5)
 
 ---
 
@@ -172,30 +180,6 @@ permalink: /news/pertuzumab/
 
 ---
 
-### [Vous pensiez cette infection virale incurable ? L'étrange anomalie cachée dans le sang de son frère l'a totalement effacée (et les médecins n'en reviennent pas)](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLXNhVUNhbFhVYnJseXhJYmNybTBRN05sUTcxWVktS0szLWFBbU9HQTg0QmFSc29ibFliTGhWN0pJSU14YVVKcWM5U243MnBzaVFiSGY4dUpWUGZES0N0eWV5OTAyT1ZDUk9icmRibU45ZTF4Q0dBblpBM2cwaGhvNEpQTVIta29KZ20tN1BCQjZVSG03MG42bnlZRHkwYTV4RWZ4ZV9rQjBLZzdCTnhGUmtKQ0FUM1VMT3dxaDVzd09LNVg5MVFkWnJmRmlQY1N1YVB0OFlweHRDMzZpZzVYZEpVYUhaWVc4eExpdlgwUkdlMU8yNEpZUndOY19hcnNBSEVncGNLNWc?oc=5)
-
-2026-04-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLXNhVUNhbFhVYnJseXhJYmNybTBRN05sUTcxWVktS0szLWFBbU9HQTg0QmFSc29ibFliTGhWN0pJSU14YVVKcWM5U243MnBzaVFiSGY4dUpWUGZES0N0eWV5OTAyT1ZDUk9icmRibU45ZTF4Q0dBblpBM2cwaGhvNEpQTVIta29KZ20tN1BCQjZVSG03MG42bnlZRHkwYTV4RWZ4ZV9rQjBLZzdCTnhGUmtKQ0FUM1VMT3dxaDVzd09LNVg5MVFkWnJmRmlQY1N1YVB0OFlweHRDMzZpZzVYZEpVYUhaWVc4eExpdlgwUkdlMU8yNEpZUndOY19hcnNBSEVncGNLNWc?oc=5)
-
----
-
-### [Northumberland mam-of-three with terminal cervical cancer urges women to get their smear test - Chronicle Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEo4QlVzcHdmUTFtX1ZpODBHVWtEQmtJdjFMOUwteWp5aFBxNXZJNHVUM2ZEalpUU2U1b3BNU0ZGdnJvNlpKVjhoa3RJMzEyelBkYTlvWnNuYnlhV2plUU9LQ2hVRnFXU2FwNjE0VlRXVWdrOGZMWldSaUM2d19rZVJHN2tNeXhwanlGWjY2LTRleFNRX0xzSW5XVU1WTWY4NzdfZWpPQdIBrAFBVV95cUxOV00zVGFuRmVWSVR1Q05EZzVaYW5vQlR4aWZJU2lHVFBSODZzNXBiQjNYUVpMNlkyX0ZMcnVxXzFEbFQ4X0lCSlRCRGwzVTF3QTB1YXdrQnNvM29SUlRwSjBZR0RlNGtSUzd6dm1XVWN6ejY5d2N0bHV0NW9IRC1yNWtIZjdJUlFJQWlUSzRVVkg5NnBFSjJHYXRRV1pQUktpSnlfdEIybzc3SEc2?oc=5)
-
-2026-04-16 <span class="news-indication-tag">cancer</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEo4QlVzcHdmUTFtX1ZpODBHVWtEQmtJdjFMOUwteWp5aFBxNXZJNHVUM2ZEalpUU2U1b3BNU0ZGdnJvNlpKVjhoa3RJMzEyelBkYTlvWnNuYnlhV2plUU9LQ2hVRnFXU2FwNjE0VlRXVWdrOGZMWldSaUM2d19rZVJHN2tNeXhwanlGWjY2LTRleFNRX0xzSW5XVU1WTWY4NzdfZWpPQdIBrAFBVV95cUxOV00zVGFuRmVWSVR1Q05EZzVaYW5vQlR4aWZJU2lHVFBSODZzNXBiQjNYUVpMNlkyX0ZMcnVxXzFEbFQ4X0lCSlRCRGwzVTF3QTB1YXdrQnNvM29SUlRwSjBZR0RlNGtSUzd6dm1XVWN6ejY5d2N0bHV0NW9IRC1yNWtIZjdJUlFJQWlUSzRVVkg5NnBFSjJHYXRRV1pQUktpSnlfdEIybzc3SEc2?oc=5)
-
----
-
-### [Tumori urologici, specialisti a confronto all'ospedale di Cremona](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkpHVk40a2lMU3o3eWJoUFFUdUV6cHZFUk5KdUl1blN0dGZCczlEaGRKanVZZXQtZGE2cTdERlJJZ0JWc0NYNFZUemVYUHhxcnpfUkxxUE5wUFp5akRDU1EtMUx1VDFYOXRjZzRFZ3BvbXdBb3ZaTUZKTVVJeUlnckVhRDB4UHFOclZkUFFtVkUtWHh5X2JMa1MyN3BMSGEzYnlwRQ?oc=5)
-
-2026-04-16 <span class="news-indication-tag">tumor</span>
-
-來源：[Cremonaoggi](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkpHVk40a2lMU3o3eWJoUFFUdUV6cHZFUk5KdUl1blN0dGZCczlEaGRKanVZZXQtZGE2cTdERlJJZ0JWc0NYNFZUemVYUHhxcnpfUkxxUE5wUFp5akRDU1EtMUx1VDFYOXRjZzRFZ3BvbXdBb3ZaTUZKTVVJeUlnckVhRDB4UHFOclZkUFFtVkUtWHh5X2JMa1MyN3BMSGEzYnlwRQ?oc=5)
-
----
-
 ### [Tumour cells use a genetic trick to become drug-resistant - The Economist](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5)
 
 2026-04-16 <span class="news-indication-tag">tumour</span>
@@ -212,6 +196,14 @@ permalink: /news/pertuzumab/
 
 ---
 
+### [Un patient âgé de 63 ans, guéri du VIH et d’un cancer : un miracle en médecine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
+
+2026-04-16 <span class="news-indication-tag">cancer</span>
+
+來源：[Linfo.re](https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21WcTZjbFZOenJkSkZGZHlTMzZ5S3hja3ZFX3pZeXJoc0ZCLTRxV3ZrS09EbjgzWWozTElFZXNESzZhdnk0N3RTYnA2SnZLZXU3aDlTcEtvWjNYUkYtMEtJbXlxWGdrSVJtYkhJd0VXeHZZWVZSLWtRMUpjOXhuZG1XazE2Q0txd3hLRzQ0c1dyQnFkNnloYXk2aGV6eE1xMk5Bci1jTTRqdkJJNmltaW5ZZw?oc=5)
+
+---
+
 ### [Immuntherapie gegen Krebs stärkt Hoffnung: „Fast wie Science-Fiction“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnFGRnIzZDRsbmlaRV85T2Z1ZEQtUWtxbnRNSTdxNE4xUVpCWlZybWdiVDJ3M0o5Z0p2QmZvZjRGamJRMFRoTXdGR0NmMXFjTTR1U1F2ZHk5V1MzY3pWNE1VTmlDNGlNdzVlUGRuY09wdHVwU2lHQkVsZnYwRVVtSG1rOTVFaTdvOFhhNUxERnFrckdBMlo2QlpRSGdwV3pKRndUVUNnTWZyS3Z5STNRWG1BODV5azhxU2RSMWRFS0xTREVHZkkwTjNDWQ?oc=5)
 
 2026-04-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
@@ -220,11 +212,11 @@ permalink: /news/pertuzumab/
 
 ---
 
-### [Pulmonale Hypertonie und Brustkrebs: Gibt es eine Verbindung?](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHl3V1djYTA4QkdhMzc5MEZ6YUhSSFFkZGxNNWxvdnZaYndwd1pPWGp3OWgtRDc1Mi1kLXVGSG1wWWpxUF84U2dORnNlU3BrbkNqOGNDMUgzQkNnbmpkUWxrSFo3NWp4b2ZvOHhDekFOZ1NleU1SandhSkxKNVBIUmJHY3M4bkxoSjVyMDhVM1dyWHVzVFcydUh2bnliUUVHWXp4MkNzd3UzYzYzdkxvSmdENEJ0THlwWmdDeXFkdw?oc=5)
+### [Ad Aosta il convegno "Neoplasie Urologiche – Gestione evidence-based nella pratica clinica - AostaSera -](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVlHaFpOMXdtRl9MNUtLUE94dVN2N0M3VEYyQmlCZnFqZzlKUkNFbHZIMC1WZ21SeEVDeW5URTM4ekhfUEVEbndrVnQ2RGFmdWFCbGdwMEh3dm43TkhNRG5jS3ZBeFYtZW5GbkFVdDFNTUdONHBIbHQwMmlKMWpGdzdHdFV0Yy1Cd05ydFd3MFRrYzlKdHp5ZEpvd3dEVzN1U0xNZEUwMWVUcThQekNiS1MwNWN1cTh3TVNqaUpLOVViMURGYlRiSDZ2b2s?oc=5)
 
-2026-04-16 <span class="news-indication-tag">Krebs</span>
+2026-04-16 <span class="news-indication-tag">tumor</span>
 
-來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHl3V1djYTA4QkdhMzc5MEZ6YUhSSFFkZGxNNWxvdnZaYndwd1pPWGp3OWgtRDc1Mi1kLXVGSG1wWWpxUF84U2dORnNlU3BrbkNqOGNDMUgzQkNnbmpkUWxrSFo3NWp4b2ZvOHhDekFOZ1NleU1SandhSkxKNVBIUmJHY3M4bkxoSjVyMDhVM1dyWHVzVFcydUh2bnliUUVHWXp4MkNzd3UzYzYzdkxvSmdENEJ0THlwWmdDeXFkdw?oc=5)
+來源：[AostaSera -](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVlHaFpOMXdtRl9MNUtLUE94dVN2N0M3VEYyQmlCZnFqZzlKUkNFbHZIMC1WZ21SeEVDeW5URTM4ekhfUEVEbndrVnQ2RGFmdWFCbGdwMEh3dm43TkhNRG5jS3ZBeFYtZW5GbkFVdDFNTUdONHBIbHQwMmlKMWpGdzdHdFV0Yy1Cd05ydFd3MFRrYzlKdHp5ZEpvd3dEVzN1U0xNZEUwMWVUcThQekNiS1MwNWN1cTh3TVNqaUpLOVViMURGYlRiSDZ2b2s?oc=5)
 
 ---
 

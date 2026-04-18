@@ -44,6 +44,14 @@ permalink: /news/drospirenone/
 
 ## 相關新聞（5 則）
 
+### [Un estudio alerta del efecto de los ultraprocesados en los músculos y las rodillas - La Razón](https://news.google.com/rss/articles/CBMizAFBVV95cUxNYTFRNVJCMjY3aldMdG9ZQllBMGdTd1FEWTlSRzhtS2gzY3FXWENjYVlWcE4tZlBxN0dPaVdmSUd0MTZ1SEFKaHZMOHZYd19mcUVrYmdscG84WEZraTVFMjRCSm55Qm5hOVllV3Fwa1JLdUZuSU8zQnY4Ty1UYS1XczBTLWlqV0g4S1lZeHdDdEpEX1lQM2pkb2JlMzJpMmVPN2Jrb2dlMkZwRGlVenNqRlJSVlpZVHhmZ1NLRWJUTFlqYmFIbkx6T0JaQULSAeABQVVfeXFMTkpBbklaOEozazdKREMtV2lGM2hCUWlUV21qSVF6TEIySG5nVFJkUmxSNW5UZkU5ZEZ6d01OOXlrWlBiUHgzT2NjNzA3cFVnNDU1TVo3bFk1SkhjRGJrSWZOYlp0TWZ4NmFzOUc3b0lQTjA4QmQwRFNYZU5xMFFLZXdvNGlfZm5kU3NWVU1VSndxYTZQN0FQNXZIMmlzQ21vMm42Y2h6LU5IcGVybm1FZVUxbFliTG0ydFVUdkJtZDZoYkZGM1hYWElqbmFSTTUyR1pxSmNTQ3FQTXhPaG5ZZ3Q?oc=5)
+
+2026-04-17 <span class="news-indication-tag">artritis</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMizAFBVV95cUxNYTFRNVJCMjY3aldMdG9ZQllBMGdTd1FEWTlSRzhtS2gzY3FXWENjYVlWcE4tZlBxN0dPaVdmSUd0MTZ1SEFKaHZMOHZYd19mcUVrYmdscG84WEZraTVFMjRCSm55Qm5hOVllV3Fwa1JLdUZuSU8zQnY4Ty1UYS1XczBTLWlqV0g4S1lZeHdDdEpEX1lQM2pkb2JlMzJpMmVPN2Jrb2dlMkZwRGlVenNqRlJSVlpZVHhmZ1NLRWJUTFlqYmFIbkx6T0JaQULSAeABQVVfeXFMTkpBbklaOEozazdKREMtV2lGM2hCUWlUV21qSVF6TEIySG5nVFJkUmxSNW5UZkU5ZEZ6d01OOXlrWlBiUHgzT2NjNzA3cFVnNDU1TVo3bFk1SkhjRGJrSWZOYlp0TWZ4NmFzOUc3b0lQTjA4QmQwRFNYZU5xMFFLZXdvNGlfZm5kU3NWVU1VSndxYTZQN0FQNXZIMmlzQ21vMm42Y2h6LU5IcGVybm1FZVUxbFliTG0ydFVUdkJtZDZoYkZGM1hYWElqbmFSTTUyR1pxSmNTQ3FQTXhPaG5ZZ3Q?oc=5)
+
+---
+
 ### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
 
 2026-04-17 <span class="news-indication-tag">arthritis</span>
@@ -73,14 +81,6 @@ permalink: /news/drospirenone/
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
 來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
-
----
-
-### [Vitamin D3 – lindert es allergisches Asthma?](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
-
-2026-04-16 <span class="news-indication-tag">asthma</span>
-
-來源：[PressNetwork](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6M3NIM0tXcV9xRTduY2VjWEpZbEh6ZWdNM3RjRXNRX2RsTnRSbG16SThOcl84Tk5ENWRiaW5rOUNCT1V6QzVWQlVObmZWeW1fcGZHOUEtaUplTXJzcjJCZl90X2sxSXNRb29EZjRoZU1VV3BY?oc=5)
 
 ---
 

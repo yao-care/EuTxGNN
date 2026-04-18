@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（10 則）
 
-### [Pregnancy vaccine reduces baby hospital admissions for RSV by 80%](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+### [Kohortenstudie: Psychische Traumata erhöhen Risiko für Demenz und Schlaganfall - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
 
-2026-04-17 <span class="news-indication-tag">CVA</span>
+2026-04-18 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
+
+---
+
+### [Un estudio señala a un popular edulcorante por su contribución directa a la obesidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
+
+2026-04-18 <span class="news-indication-tag">obesidad</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
 
 ---
 
@@ -60,11 +68,27 @@ permalink: /news/orlistat/
 
 ---
 
+### [10 000 pas par jour, perte de poids, intensité… Le docteur Laurent Lély démêle le vrai du faux sur la marche - Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
+
+2026-04-17 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
+
+---
+
 ### [Marcadores genéticos predicen respuesta y efectos secundarios de fármacos GLP-1 en la pérdida de peso](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
 
 2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[labmedica.es](https://news.google.com/rss/articles/CBMiggJBVV95cUxPd1Z0bEh2TVdSTTJEVUFvemxUYTByXzhsS1E1ajB2VWU0Y1NGMWlSNFUwY3RIUi1ManF5U3NGMzhQZzgzRWp2djVoUUtNbjRWYlRKb0pDVDY3YTJqUTJNODdmYU04Ui0ybWl5dEM1aXNlUjZGVUJGTlM5Y1I3N2lHRTdtOWpVaEQ2em10VU80WHcxeDJhRUlrTERQcWV5ZTV5R3BYZENzSzFoSTFGMmg1TFpiU1ZOMTl2ejFERkxvcHR4cVFpNU4xYzZXUDVLU0ZrYlB3R2pvRmZrTVFnSkZhSnlWR1M3QmFTSkhWOVBxa05UcmZ2d0ZfNE5aY3FDd0RWS3fSAYsCQVVfeXFMTU83b3J3UnczMkVmS2RqM3hyYWxyc3l5Q1R5Y2pST1V2V2haOWpfMFd2Y3pkOFFEVFpPZDBibHdxYmNFY3FDenc2RHNLWUdUbmF0N1p4VU9lSmZBY2hUdmxjaDFGZ1RDX21Qdm5DRGRicEtpY2E4YjI3NmhsWXhEeDhGXzRUUm56QzRWcy1XWFpsMDEyZU5zY2loMEhBeTIwR0RjRkwtZVlkV0NlRjNSQlJoWkdCeDdGSFFGNzRySmk1TFBwRWdQcXFjRl82OF94d0hSbjIwNjJFVjRNa1hkSl9HYlczOHR2cWFaR2UwaUN4VDVfV2RuSXl5Rm9ZUEFrbF9BV0ZjY2VWVHhJ?oc=5)
+
+---
+
+### [Más allá del peso: revelan cómo la semaglutida tiene beneficios - Diario Occidente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnl0SldEd292R2diSWpEWjZBRmp1YlZWbG5YZXp1Nk5kejEtaFNYVVgtQzNxU293NEsyQ1ZhVEI4dW1jdDk2NjBBZk45SE5UalVfejRmU0pFU1hnb2VFYzhQSFRGT2luY0hlcDFsd1pEMy1SZVlYX2x6bjdCSWVkYThKcFM0blZWSV82V2I1WFJpT2lhMlRGLXBzQTJ6dWJfZW9KX0JQa084R2fSAbYBQVVfeXFMTVNZS0JvM2ZTRko5bkdNMTRVZ0pLSExtenRsb2dzNmd3eHh2WFVDdERiUzdPNEszYXJXSURqbVZ4ekdMWE8tOE90ZFA3ZFBmcmt2R1BLTnJpelYyM0JrZ1ZfUjA3dk0yYVpwRWFWaGRiWDZZRVRPelc0OXRlT2p5SVlaRUhqWDVHQ2M4T0l0ZDdIeWdReWdJZk92MWdzZXVEdnNnLWRIQjUxLUFpSG9MeERxS01DbXc?oc=5)
+
+2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario Occidente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnl0SldEd292R2diSWpEWjZBRmp1YlZWbG5YZXp1Nk5kejEtaFNYVVgtQzNxU293NEsyQ1ZhVEI4dW1jdDk2NjBBZk45SE5UalVfejRmU0pFU1hnb2VFYzhQSFRGT2luY0hlcDFsd1pEMy1SZVlYX2x6bjdCSWVkYThKcFM0blZWSV82V2I1WFJpT2lhMlRGLXBzQTJ6dWJfZW9KX0JQa084R2fSAbYBQVVfeXFMTVNZS0JvM2ZTRko5bkdNMTRVZ0pLSExtenRsb2dzNmd3eHh2WFVDdERiUzdPNEszYXJXSURqbVZ4ekdMWE8tOE90ZFA3ZFBmcmt2R1BLTnJpelYyM0JrZ1ZfUjA3dk0yYVpwRWFWaGRiWDZZRVRPelc0OXRlT2p5SVlaRUhqWDVHQ2M4T0l0ZDdIeWdReWdJZk92MWdzZXVEdnNnLWRIQjUxLUFpSG9MeERxS01DbXc?oc=5)
 
 ---
 
@@ -89,6 +113,14 @@ permalink: /news/orlistat/
 2026-04-17 <span class="news-indication-tag">stroke</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
+
+---
+
+### [Cibi ultraprocessati: il rischio obesità nei giovani sale oltre il 60%](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGhqQnNWLXFLbnQxcW91ZnZoU3RkTGJTWmFYa0p1WjExMW10U3dwN0RlQkp1NXRSNHpqOTVBZTBQQVJXLXd0THBIWTZET3RtaUJrMWtSbEtOT2RIdTZxV3h6RUx2SjV2TTlDT1JfSzRoSWNjREdZXzVxOXRicmE0VTJrOFVGbUxVNDFVSS1IWjB6UQ?oc=5)
+
+2026-04-16 <span class="news-indication-tag">obesità</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGhqQnNWLXFLbnQxcW91ZnZoU3RkTGJTWmFYa0p1WjExMW10U3dwN0RlQkp1NXRSNHpqOTVBZTBQQVJXLXd0THBIWTZET3RtaUJrMWtSbEtOT2RIdTZxV3h6RUx2SjV2TTlDT1JfSzRoSWNjREdZXzVxOXRicmE0VTJrOFVGbUxVNDFVSS1IWjB6UQ?oc=5)
 
 ---
 

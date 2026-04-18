@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Entacapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
 
@@ -52,19 +52,11 @@ permalink: /news/entacapone/
 
 ---
 
-### [Maladie d'Alzheimer: à Lyon, de nouveaux espoirs pour la recherche](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yVzVBTG5jMHdZUUF2eWdjdTl6MUxqQ3dlQmZHRFdtMk56SnRLMTN1RTM2Mi1uS0FsS2ExN1NrZ25Oc3VWajhMZDlhQkdCQ2NwdmJQRGR3R2h2Sk9JYi1BNmxqeWU0d284U0x5dHVGc3pZMWdtX3lOcg?oc=5)
-
-2026-04-16 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMieEFVX3lxTE9yVzVBTG5jMHdZUUF2eWdjdTl6MUxqQ3dlQmZHRFdtMk56SnRLMTN1RTM2Mi1uS0FsS2ExN1NrZ25Oc3VWajhMZDlhQkdCQ2NwdmJQRGR3R2h2Sk9JYi1BNmxqeWU0d284U0x5dHVGc3pZMWdtX3lOcg?oc=5)
-
----
-
-### [Anti-amyloid Alzheimer’s drugs show no clinically meaningful effect - Cochrane Collaboration](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2NTRklxYy1qQl9rQVo0aHY1VzFMcnB0TGZJYlhpN0ZIMk9zaWRIRnJoZXRXZjNSaFlzbE1jZnJIbXF1V3VqQlJvR0JrcHkwY19rZTVfajlWU09UU2M1Um1rTkc1V3NPOEFlRC1POGY5T0V4VlBPRFpDVWVPZk10TWR4bzZfRFU5UTJ5N3JLeENMcE9tLTMtY0hGWl9qaFNvWTBkS1Zfa2Y?oc=5)
+### ['Absent or trivial' effects: Anti-amyloid Alzheimer's drugs called into question once again - Fierce Pharma](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVG8zNlN4QkpHWURLZF9LX3V6cDY2VEdoZE5SNlV6RjU1OWxsNGNVQWZUVW5UMUpkNGFGWHRMN1lZb2xtRkpVaTV6T0YxXzhwWkhPcFFqU3k0R29qN3FhUmVRZnUwWG9INU1VdFBRWmVjclR0OUh2eEdQUEdYZThCcUNLTlFNZjNjem91Y05iVHBsSWVIVEFBdzhTMlRZZG5iN3ltTDBhUUNZQ2M?oc=5)
 
 2026-04-16 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[Cochrane Collaboration](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2NTRklxYy1qQl9rQVo0aHY1VzFMcnB0TGZJYlhpN0ZIMk9zaWRIRnJoZXRXZjNSaFlzbE1jZnJIbXF1V3VqQlJvR0JrcHkwY19rZTVfajlWU09UU2M1Um1rTkc1V3NPOEFlRC1POGY5T0V4VlBPRFpDVWVPZk10TWR4bzZfRFU5UTJ5N3JLeENMcE9tLTMtY0hGWl9qaFNvWTBkS1Zfa2Y?oc=5)
+來源：[Fierce Pharma](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVG8zNlN4QkpHWURLZF9LX3V6cDY2VEdoZE5SNlV6RjU1OWxsNGNVQWZUVW5UMUpkNGFGWHRMN1lZb2xtRkpVaTV6T0YxXzhwWkhPcFFqU3k0R29qN3FhUmVRZnUwWG9INU1VdFBRWmVjclR0OUh2eEdQUEdYZThCcUNLTlFNZjNjem91Y05iVHBsSWVIVEFBdzhTMlRZZG5iN3ltTDBhUUNZQ2M?oc=5)
 
 ---
 
