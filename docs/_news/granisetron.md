@@ -14,7 +14,7 @@ permalink: /news/granisetron/
 ---
 
 <p class="key-answer" data-question="Granisetron 有什麼相關新聞？">
-<strong>Granisetron</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Granisetron</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/granisetron/
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（20 則）
+
+### [El riesgo de cáncer es significativamente mayor en adultos que nunca se han casado - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGhmRU0yMUFtNmN2ZE1HZklHRm5HSkh3NC10OWZXdEtYMG91VFgxU1RYOWNQazlRV21JR09ocHZlYlY3UWZub2tpTC1zREdZR2FncndiTkVPdTFkR2pUcjN4M3lOVWhzd3ljbHY2d1dvLTNtU2VjUk02VzhwaGlYeG9kTG9kUENHckUxV2dXZ3FBdUZMYTV1RXpGamtuYU1vZkRTcFVjbV9aVlNVRkl6X2oyMjJtb05NWXBuR2RaY01BRlFjNnRiNjZVc3N4eUNhbE400gHnAUFVX3lxTE5sV2tNZFFIb1FmZXRqSHI5RXRNc2NONzhYSlJWbmlqbUpmZWRhU1hWTnZYTHdfR3lWckxkdjhqX3Y4dGtKbVdQOWdOUi1meE9mZ2NnT0xFbkRybW9GdElfY1RmUktpX3ByeVdKdkxDbWNiT1pSSWpZS29Bd3RINkFZZXl5NWNzamlRY0szUkJ4NTZybUw2eFY2d1I5ZjVYeHlwaXV0a3BiYkhSTGF0S0hHTURfOG5kU3BaYkhyaXhST0Nnd2U5bzNUOFlfSXBRUFlFWGVESjEzeDNyeGQ2am5yRzVxTl9nQQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGhmRU0yMUFtNmN2ZE1HZklHRm5HSkh3NC10OWZXdEtYMG91VFgxU1RYOWNQazlRV21JR09ocHZlYlY3UWZub2tpTC1zREdZR2FncndiTkVPdTFkR2pUcjN4M3lOVWhzd3ljbHY2d1dvLTNtU2VjUk02VzhwaGlYeG9kTG9kUENHckUxV2dXZ3FBdUZMYTV1RXpGamtuYU1vZkRTcFVjbV9aVlNVRkl6X2oyMjJtb05NWXBuR2RaY01BRlFjNnRiNjZVc3N4eUNhbE400gHnAUFVX3lxTE5sV2tNZFFIb1FmZXRqSHI5RXRNc2NONzhYSlJWbmlqbUpmZWRhU1hWTnZYTHdfR3lWckxkdjhqX3Y4dGtKbVdQOWdOUi1meE9mZ2NnT0xFbkRybW9GdElfY1RmUktpX3ByeVdKdkxDbWNiT1pSSWpZS29Bd3RINkFZZXl5NWNzamlRY0szUkJ4NTZybUw2eFY2d1I5ZjVYeHlwaXV0a3BiYkhSTGF0S0hHTURfOG5kU3BaYkhyaXhST0Nnd2U5bzNUOFlfSXBRUFlFWGVESjEzeDNyeGQ2am5yRzVxTl9nQQ?oc=5)
+
+---
+
+### [Ritmo circadiano: cómo afecta el cambio de hora de primavera a tu salud y a tu reloj biológico interno](https://news.google.com/rss/articles/CBMigAFBVV95cUxONmRwOVNwQUxMRTMzOXBKajJzRmFYRlhRcmlfSjBzV3hmRTN0SjFOYU9VUWpFbE9MbVNxYkl6ZXJVRXdJQ3N6TGFXdkNlRFYyLWpuNUFTVEd0T3NsT1IxSy1sNFNKOXctMVU4MjFWOHNGMFZjZURNRmFmS1RNVmVRMg?oc=5)
+
+2026-04-19 <span class="news-indication-tag">AF</span>
+
+來源：[que.es](https://news.google.com/rss/articles/CBMigAFBVV95cUxONmRwOVNwQUxMRTMzOXBKajJzRmFYRlhRcmlfSjBzV3hmRTN0SjFOYU9VUWpFbE9MbVNxYkl6ZXJVRXdJQ3N6TGFXdkNlRFYyLWpuNUFTVEd0T3NsT1IxSy1sNFNKOXctMVU4MjFWOHNGMFZjZURNRmFmS1RNVmVRMg?oc=5)
+
+---
 
 ### [Pflanzliche Lebensmittel schützen Ihre Gesundheit - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
 
@@ -62,19 +78,19 @@ permalink: /news/granisetron/
 
 ---
 
-### ["El contenido de los sueños puede verse afectado por la enfermedad de alzhéimer y puede ser una línea de investigación interesante para su diagnóstico precoz"](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Z9IBjwJBVV95cUxPT3FVdk1uOVpNMzNTYWNKNUstR1hJTlE0NnVOOG9FRF9WNmE3SGRsOHI3alFGZnVOVkFFam5ORTFocDFXT044b3VTcjBwX29fRmZ2UWVnZzZFenAzYm5fRHlNYW8wTklBTEttTVlzZmZXNl9vb2xkUk56TkVzOTkyUjV4OEhHZ2UtVXJHMGNVS2JrcFVEQWt6TGMtV1o2SkxIX1VQQUVqSldhVmhuRDNtbzJ3Rk9CS1JfbHkzRDhkLWNLQl9fcHo5Nk96cWJibmdyLVEyTlR0S2xmMnc0bElJOW1yeUhUbENseXlvcHRzTU1nVk44eVFoMXF6NmlBRF9QWklZeDRqd01KNUZOMktz?oc=5)
-
-2026-04-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Z9IBjwJBVV95cUxPT3FVdk1uOVpNMzNTYWNKNUstR1hJTlE0NnVOOG9FRF9WNmE3SGRsOHI3alFGZnVOVkFFam5ORTFocDFXT044b3VTcjBwX29fRmZ2UWVnZzZFenAzYm5fRHlNYW8wTklBTEttTVlzZmZXNl9vb2xkUk56TkVzOTkyUjV4OEhHZ2UtVXJHMGNVS2JrcFVEQWt6TGMtV1o2SkxIX1VQQUVqSldhVmhuRDNtbzJ3Rk9CS1JfbHkzRDhkLWNLQl9fcHo5Nk96cWJibmdyLVEyTlR0S2xmMnc0bElJOW1yeUhUbENseXlvcHRzTU1nVk44eVFoMXF6NmlBRF9QWklZeDRqd01KNUZOMktz?oc=5)
-
----
-
-### [La Asociación Española de Pediatría alerta del aumento de las infecciones de transmisión sexual en los jóvenes](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZWdRUmVMNHhnVTZRM1Q2MExHeThxSWo0cmdtaS1qVzJKVmFBNnU4TFRCU2hycXQ0VVNFdFhab3dsMmdkbEZGOVpVRV9TNk9FUEp0QjJ3UUN6WVlvZHJxWEl1a1Q4RW5PbEY5WmpFRW13QzhZNkI2c2tleXhZaUJsRXdwZm5ZOVlYVzh1TldKdDZ6S1hIUUNRTVdJSHpRYk1VTWFtN3lVM2JBV1NDVHM2REVuak9GVWREZUlIYVlReElmNE1pTHhPamlhRnctb3JmQVNORzlsYUstRXpJUnFHNW9YNnJzWHhJS211YmVRVkI0ZzZTcWc4VW1NODU5enQ3VjljOW9Sb21JUlFDdlpJ0gGUAkFVX3lxTE1aOC0zbVo0NS14M0VtRnlOQUdHM1dzeThQV0NDUjNta1pkMThadUhCbEFuRGVESE9KbDVWREh0NlpkOU9rYUQ2a25mVzlCSGZrZjUyLVdsSXFLeTRORUJEOFNoVDRzWlJscVFRdzgwbWRDQVZXcHFyc29jTjBrcWVncW0yZzY0MEJVd096Vkh3UXZzbVVYMUlBcEw3ZFpqS2lYRXRoYTJfei16Z25vNkw1azNSUkN4T083Z1lJaU56c0FqSTRQVlJBb2pQeGo4Wm5ZSFlrVGM5QTlKNDNfaW83a2ZHZHNDWDRraGhZOUFLSHFWMEJkNnFOY1o1Y3B4dDBaNExnM3BZeFYwWHFWbS11YWdpQg?oc=5)
+### [Weymouth students and parents welcome MenB jab and antibiotics](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BTE9IdjJtUlZsZVBmVU5WTGNPR0RqamNmWWFreFlCenV2d1E3R2ExLWFKb3ZsSUxOVWN6TXo4VXZPY1VhOHdjeUFpdFlUenlpSXJTSkNVSkpWMFFV?oc=5)
 
 2026-04-19 <span class="news-indication-tag">AF</span>
 
-來源：[rtpa.es](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZWdRUmVMNHhnVTZRM1Q2MExHeThxSWo0cmdtaS1qVzJKVmFBNnU4TFRCU2hycXQ0VVNFdFhab3dsMmdkbEZGOVpVRV9TNk9FUEp0QjJ3UUN6WVlvZHJxWEl1a1Q4RW5PbEY5WmpFRW13QzhZNkI2c2tleXhZaUJsRXdwZm5ZOVlYVzh1TldKdDZ6S1hIUUNRTVdJSHpRYk1VTWFtN3lVM2JBV1NDVHM2REVuak9GVWREZUlIYVlReElmNE1pTHhPamlhRnctb3JmQVNORzlsYUstRXpJUnFHNW9YNnJzWHhJS211YmVRVkI0ZzZTcWc4VW1NODU5enQ3VjljOW9Sb21JUlFDdlpJ0gGUAkFVX3lxTE1aOC0zbVo0NS14M0VtRnlOQUdHM1dzeThQV0NDUjNta1pkMThadUhCbEFuRGVESE9KbDVWREh0NlpkOU9rYUQ2a25mVzlCSGZrZjUyLVdsSXFLeTRORUJEOFNoVDRzWlJscVFRdzgwbWRDQVZXcHFyc29jTjBrcWVncW0yZzY0MEJVd096Vkh3UXZzbVVYMUlBcEw3ZFpqS2lYRXRoYTJfei16Z25vNkw1azNSUkN4T083Z1lJaU56c0FqSTRQVlJBb2pQeGo4Wm5ZSFlrVGM5QTlKNDNfaW83a2ZHZHNDWDRraGhZOUFLSHFWMEJkNnFOY1o1Y3B4dDBaNExnM3BZeFYwWHFWbS11YWdpQg?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BTE9IdjJtUlZsZVBmVU5WTGNPR0RqamNmWWFreFlCenV2d1E3R2ExLWFKb3ZsSUxOVWN6TXo4VXZPY1VhOHdjeUFpdFlUenlpSXJTSkNVSkpWMFFV?oc=5)
+
+---
+
+### ["El contenido de los sueños puede verse afectado por la enfermedad de alzhéimer y puede ser una línea de investigación interesante para su diagnóstico precoz"](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
+
+2026-04-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
 
 ---
 
@@ -94,27 +110,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [¿Solteros o casados? Quién tiene más riesgo de cáncer (y por qué), según un estudio en 4 millones de personas](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTm01NmhvZXVJRTU3c3pTQnpORlFCNVAycUFqY2lHdlNBUDFBVzRrNUR6ZTQwZlZnNDNfc1Y3Q3dKSVBZS3FLYmpHSUM2azRURjZ5NWJrOXdER2lDcGJQMzRINFBlTlZkZjlfYTFGT1BobUhIVG1FOVIwUXJFd3F4dEUwcWZPU0ZZWF9xUUxNU1hUZmRDNEZYUUdQY3JvQmpfeExlRUxscFJxckNzSmkzem5hcV91aFZTbncxb1BOZ09PR011MWpFSG1yc0h4SzV6MHJRd1JMMGJyWEdVWjlz?oc=5)
-
-2026-04-19 <span class="news-indication-tag">AF</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTm01NmhvZXVJRTU3c3pTQnpORlFCNVAycUFqY2lHdlNBUDFBVzRrNUR6ZTQwZlZnNDNfc1Y3Q3dKSVBZS3FLYmpHSUM2azRURjZ5NWJrOXdER2lDcGJQMzRINFBlTlZkZjlfYTFGT1BobUhIVG1FOVIwUXJFd3F4dEUwcWZPU0ZZWF9xUUxNU1hUZmRDNEZYUUdQY3JvQmpfeExlRUxscFJxckNzSmkzem5hcV91aFZTbncxb1BOZ09PR011MWpFSG1yc0h4SzV6MHJRd1JMMGJyWEdVWjlz?oc=5)
-
----
-
 ### [Neue Erkenntnisse: Was Schwangerschaften mit dem Gehirn machen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTFfakZ0dEFtWEd2cjZmM3Y2c01ydkFVeVFHQVdGdDRWZ0o4d0Uyb0dDOGNsdEV0Wms4RjBWS0VVMDJIbnItT2VVS2llQkxfd05fdmNvbEprUFN6WDdodEU0REIwdzRwcExMTEQ5VXY3SjVGek1NUDBDME5WNVZ0dUpNUFMtdnNIQThHVDBTaFZXdktDZ2JHQkczbUdIQ3oxTUVLYlhMUllrNk1hWTZmUlY2aG1TV1JBWkpzSFFmSGxyWjVrbDdF?oc=5)
 
 2026-04-19 <span class="news-indication-tag">AF</span>
 
 來源：[familie.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTFfakZ0dEFtWEd2cjZmM3Y2c01ydkFVeVFHQVdGdDRWZ0o4d0Uyb0dDOGNsdEV0Wms4RjBWS0VVMDJIbnItT2VVS2llQkxfd05fdmNvbEprUFN6WDdodEU0REIwdzRwcExMTEQ5VXY3SjVGek1NUDBDME5WNVZ0dUpNUFMtdnNIQThHVDBTaFZXdktDZ2JHQkczbUdIQ3oxTUVLYlhMUllrNk1hWTZmUlY2aG1TV1JBWkpzSFFmSGxyWjVrbDdF?oc=5)
-
----
-
-### [El desafío de vivir con una bolsa de ostomía - Diario Sanitario](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZVFlRY1BveW9CNDlhb2sxYnJuS2ZlaW0yT1B0Z2NQeTk5RlZwM2FkY0d4RUtZOFVic1ZNeVpFQXFZaUhsM2oyVThXNzMxRTJxaGFWeEpQNmpnaG5EZHkwNg?oc=5)
-
-2026-04-19 <span class="news-indication-tag">AF</span>
-
-來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZVFlRY1BveW9CNDlhb2sxYnJuS2ZlaW0yT1B0Z2NQeTk5RlZwM2FkY0d4RUtZOFVic1ZNeVpFQXFZaUhsM2oyVThXNzMxRTJxaGFWeEpQNmpnaG5EZHkwNg?oc=5)
 
 ---
 
@@ -126,27 +126,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [La obesidad puede afectar a la calidad y duración de la respuesta de algunas vacunas, según un estudio en ratones - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzZaanl2UE0wRWhFeVlWMi1wUWVQcnR4OV9aVTFSck40MzFKMjBDWFMwMEtwZlhSY0NyaDJiMzBBcmo2bHZFbzlhVkZPV0FIN2o3MmZsYVVJc3lsY0lBc2dkbW5uQ3JHbV9QM29aQjRjX0NyZlpubjZGdmR6Um5URTZSekFOaHpkdEdyblJidWVGMC1BcUMycVhod09NbHFUOFU4TlF5Z3VHdUR5SEJfNXVGLWtQZnBKQUlNVHdObExBdXJUaHlEel9zaEhCbVhwVThyUHRyLUlYdVZaUlA3WThR?oc=5)
-
-2026-04-19 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzZaanl2UE0wRWhFeVlWMi1wUWVQcnR4OV9aVTFSck40MzFKMjBDWFMwMEtwZlhSY0NyaDJiMzBBcmo2bHZFbzlhVkZPV0FIN2o3MmZsYVVJc3lsY0lBc2dkbW5uQ3JHbV9QM29aQjRjX0NyZlpubjZGdmR6Um5URTZSekFOaHpkdEdyblJidWVGMC1BcUMycVhod09NbHFUOFU4TlF5Z3VHdUR5SEJfNXVGLWtQZnBKQUlNVHdObExBdXJUaHlEel9zaEhCbVhwVThyUHRyLUlYdVZaUlA3WThR?oc=5)
-
----
-
 ### [Lebererkrankungen: Neue Therapien revolutionieren die Behandlung - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOblp6WHpqeXVJNEJobW9EZGs1MUxhamNsY3NZS3BJOVFWVEREQWl3dUluc25DazFOMDlaSkpXTFZNTUpEVTVSa2xROWxMbWZiMHlzQlBWbGZqckt3X3ZsNVBCM3QtOXZRWXhrOHotSmxXY000ZmE4MmhhTkxNU1gxWXdtbnk1cmtJdDdzU3ROUmtrWHU0aW9DbDhCQ3I3RWtjOVJkLWt4N0ktaFBaRlJic0lQZ2ZFSERfODgxYlhwYw?oc=5)
 
 2026-04-18 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOblp6WHpqeXVJNEJobW9EZGs1MUxhamNsY3NZS3BJOVFWVEREQWl3dUluc25DazFOMDlaSkpXTFZNTUpEVTVSa2xROWxMbWZiMHlzQlBWbGZqckt3X3ZsNVBCM3QtOXZRWXhrOHotSmxXY000ZmE4MmhhTkxNU1gxWXdtbnk1cmtJdDdzU3ROUmtrWHU0aW9DbDhCQ3I3RWtjOVJkLWt4N0ktaFBaRlJic0lQZ2ZFSERfODgxYlhwYw?oc=5)
-
----
-
-### [Marta Marcè, nutricionista experta en menopausia: “Lo que no tienes en tu despensa puede estar afectando a tus hormonas” - La Vanguardia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeHloaDNkWXY0ZGFCM2Q2SU1QY1pQMGlVUndHdEFSS2hlM09aeHpyWkI5Tk4td1c1TUxVUVB0V3lSVW96N2wzanpOUXR2cUxYVEE4SjN3VkFaSzJVRzhnUDJrNUpkS2MxbFBvOFViR21hY1lHeElCMExPU3NYZEtKcTQ4SDRyLVVQSkZYX2U1MEZZck5nMnZqbjB6b3A3enpTLUR2YWtRcnFrdDNrMnBHTnNvbXgzYUZrdko0djRhMndmdGdQWnBMc3Y3RzlzY1VKdVJNaUpLdXpfOTdZN3hHdUdxVW9zYThMYU53am9n0gHzAUFVX3lxTE53U0xsT0NVZW03SHJWWWNVMFBhMTlXcUIzS3k5VFV6cWw3RGxfRHFOZEYwRVlCNDFCc2J1ZHl5UWoxb2FwQUxkVTFzZnRwSVRGNjRPTjB0R2JnajZxQU5tTVRVNnhUajBrWDQwWkRZZG9wZHl2OW5XMW1rb1RNWkxfYVd4VzN0VDhHR0lMa3dhd0FaN1h2VFFfeVhzczRkMFpDM0hDT3JRY3RvNndyeU1UUzh4b201MElVUFpobkQtRk10Tm1yV0puYW9PakRydHlpU2M4bFhzcG1MVXBreVZYTlVXekdZLVFpcDl5ajIzaG11TQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeHloaDNkWXY0ZGFCM2Q2SU1QY1pQMGlVUndHdEFSS2hlM09aeHpyWkI5Tk4td1c1TUxVUVB0V3lSVW96N2wzanpOUXR2cUxYVEE4SjN3VkFaSzJVRzhnUDJrNUpkS2MxbFBvOFViR21hY1lHeElCMExPU3NYZEtKcTQ4SDRyLVVQSkZYX2U1MEZZck5nMnZqbjB6b3A3enpTLUR2YWtRcnFrdDNrMnBHTnNvbXgzYUZrdko0djRhMndmdGdQWnBMc3Y3RzlzY1VKdVJNaUpLdXpfOTdZN3hHdUdxVW9zYThMYU53am9n0gHzAUFVX3lxTE53U0xsT0NVZW03SHJWWWNVMFBhMTlXcUIzS3k5VFV6cWw3RGxfRHFOZEYwRVlCNDFCc2J1ZHl5UWoxb2FwQUxkVTFzZnRwSVRGNjRPTjB0R2JnajZxQU5tTVRVNnhUajBrWDQwWkRZZG9wZHl2OW5XMW1rb1RNWkxfYVd4VzN0VDhHR0lMa3dhd0FaN1h2VFFfeVhzczRkMFpDM0hDT3JRY3RvNndyeU1UUzh4b201MElVUFpobkQtRk10Tm1yV0puYW9PakRydHlpU2M4bFhzcG1MVXBreVZYTlVXekdZLVFpcDl5ajIzaG11TQ?oc=5)
 
 ---
 
@@ -192,7 +176,7 @@ permalink: /news/granisetron/
 
 ### [California urges mpox vaccination after more-severe strain detected in San Francisco - Los Angeles Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlExRTliQWpUZmNRWDI4cUZ0eUJyWG91U3A3bWt3NXNMd2pZVkd2Z0c1NVhEN3hJQ09tYTJkWE9acEwxRnVETWp2V2ZfOTZiSkNaWnhSeFVuMGc5RHBzVjRuMjhqdWJYaWhJd1FOWG1SS1Z6Njc2R1NCempmNXZheGVaSUszeXhuQ1IxY21aNEE4aDdfeG5Cb0huYjZ1eC13M3p3T0thS1Y0cF9sSTRMc1Vrc3BWbllma2xBeFZ3TlRVdHc?oc=5)
 
-2026-04-18 <span class="news-indication-tag">AF</span>
+2026-04-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Los Angeles Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlExRTliQWpUZmNRWDI4cUZ0eUJyWG91U3A3bWt3NXNMd2pZVkd2Z0c1NVhEN3hJQ09tYTJkWE9acEwxRnVETWp2V2ZfOTZiSkNaWnhSeFVuMGc5RHBzVjRuMjhqdWJYaWhJd1FOWG1SS1Z6Njc2R1NCempmNXZheGVaSUszeXhuQ1IxY21aNEE4aDdfeG5Cb0huYjZ1eC13M3p3T0thS1Y0cF9sSTRMc1Vrc3BWbllma2xBeFZ3TlRVdHc?oc=5)
 
@@ -203,14 +187,6 @@ permalink: /news/granisetron/
 2026-04-18 <span class="news-indication-tag">AF</span>
 
 來源：[radioeins](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQUJFeU9pYmsxRmJ1dGJVRXc5ZUN3TlExNmhPUDI2S2lLQ05HOHlRdlRuanl0aE11WmdKLW83R2Jvb3NETElUQWJlaVg0UEdlcUJPOTcwMmIzTGlnWFN3RTh6c3ItRW1wcThhbG5KWmZMYUU4VllpR0VhTkVna0x6eEk3VUo1STRKZUMteU9MVjlsS1NzeE5wZi1qM01WcS14eEZTeGZvNW1IUkFNRjZVVVRZZWotZ0s0c0w3VWc1VE9veko2RU8xeVVPTndhSjBSaGhBRkRCVnNndXp3MlRobUVnbXdVVENkZ3JTNA?oc=5)
-
----
-
-### [Special traffic route as pupils get MenB jabs](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CTTFXSmdVSkc0bS1MUHc4ejJuVlZ4RHhHb08zZlRwQTJxZEZlM3pfSE5PZS1KYVY4MkNMa1VtOThxS01EUjRyeG9sUGJHY3JTOTl0QXlkbTBzQWha?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CTTFXSmdVSkc0bS1MUHc4ejJuVlZ4RHhHb08zZlRwQTJxZEZlM3pfSE5PZS1KYVY4MkNMa1VtOThxS01EUjRyeG9sUGJHY3JTOTl0QXlkbTBzQWha?oc=5)
 
 ---
 
@@ -230,51 +206,11 @@ permalink: /news/granisetron/
 
 ---
 
-### [Neurogenese bei Zebrafinken: Einblicke in die Gehirnreparatur - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhMWlBra3Y4NXhiazZUNVNMV0kxa0lBX1ZySFdmQkItTElOV044SzhkTUlBOXZSNS1TTG5RS0lrLVpoT0hHSld1RGE1TjBqWVlyVUE5cjhFRWpjUXJkVjNmMm42eEhTX01pLUhlZ19NWUhaSHFvaE0ybXJlOWNOV3ZqM3p4Y2hFb1RZZ2dQcENPUVdyS05N?oc=5)
+### [Neurogenese bei Zebrafinken: Einblicke in die Gehirnreparatur](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhMWlBra3Y4NXhiazZUNVNMV0kxa0lBX1ZySFdmQkItTElOV044SzhkTUlBOXZSNS1TTG5RS0lrLVpoT0hHSld1RGE1TjBqWVlyVUE5cjhFRWpjUXJkVjNmMm42eEhTX01pLUhlZ19NWUhaSHFvaE0ybXJlOWNOV3ZqM3p4Y2hFb1RZZ2dQcENPUVdyS05N?oc=5)
 
 2026-04-17 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhMWlBra3Y4NXhiazZUNVNMV0kxa0lBX1ZySFdmQkItTElOV044SzhkTUlBOXZSNS1TTG5RS0lrLVpoT0hHSld1RGE1TjBqWVlyVUE5cjhFRWpjUXJkVjNmMm42eEhTX01pLUhlZ19NWUhaSHFvaE0ybXJlOWNOV3ZqM3p4Y2hFb1RZZ2dQcENPUVdyS05N?oc=5)
-
----
-
-### [Studie zu Schwangerschaftsübelkeit deckt sechs neue genetische Zusammenhänge auf - Biermann Medizin](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkVnRUJ5S0loUDJTYzBUbEhKeEVjb2owckswMW5BblU3YmkzSTlzcmRESndyTUJXU3V2cmdYTGpEQ2g3cUZDbkVhRDdnLTdxMmNlVFBkVmtfX0lwTXlfMmpyNDBxN3ZGNlNWMTVwaUg4cVU3NS1JMkU0VzdWRkkyQ3hLZjhmY1E1SC1vc2xqX29fX0x5bm9UVGdiNTEyTFllQUQtaVc4d3lLSDM5TS1DcQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkVnRUJ5S0loUDJTYzBUbEhKeEVjb2owckswMW5BblU3YmkzSTlzcmRESndyTUJXU3V2cmdYTGpEQ2g3cUZDbkVhRDdnLTdxMmNlVFBkVmtfX0lwTXlfMmpyNDBxN3ZGNlNWMTVwaUg4cVU3NS1JMkU0VzdWRkkyQ3hLZjhmY1E1SC1vc2xqX29fX0x5bm9UVGdiNTEyTFllQUQtaVc4d3lLSDM5TS1DcQ?oc=5)
-
----
-
-### [I was diagnosed with deadly cancer after wearing my dad's COAT decades ago - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
-
----
-
-### [Der universelle Rhythmus der Natur](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMk5wXzFMd3pSUnNSbnJaS3FKd0o3N29MZXc0ZWNIUlNJZWYtTUVuZVRkOTBQb2RyQ1h1ZE5qd2dCQjFjenFBcFNBRlZOZV9NdHN6S1QzYmtPbi1aT05GVVEwRkNGWjk5T2hCSGp3VlJkdWdrdGZNS0lBT3FrSDU5bg?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMk5wXzFMd3pSUnNSbnJaS3FKd0o3N29MZXc0ZWNIUlNJZWYtTUVuZVRkOTBQb2RyQ1h1ZE5qd2dCQjFjenFBcFNBRlZOZV9NdHN6S1QzYmtPbi1aT05GVVEwRkNGWjk5T2hCSGp3VlJkdWdrdGZNS0lBT3FrSDU5bg?oc=5)
-
----
-
-### [Studie: mangelnde soziale Kontakte gehen in Depression deutlich stärker mit einem Gefühl von Einsamkeit einher - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUV1LWlnLU5OYjFfdHJJQ2NRdEdhRjY2anJudnV3Q2VYd0o1ZE9xaVZZQ3Vyd3lFLVNCYTJwMV9iaXE1bE1qNGQ0VVhwN3VubnFCRGhnZjQtam1tUjBmZ2cyYUNBRVQ4c2RWTG9CMFB3RmFObjlCNmN1UVdzam5XRjBDNzBBRzk4X1owcHVVcE50SW15clpVVnRKbXp2bEMyOFVZZFVFelJSS2ZUd2EtWG11WEU3ODV6Q2F6S1JYQkI4VGNKUmVseTN2YWp4dmlMOGQtSmMzSDgwRHh1ZjAtY1RhN0pkODgwcjhCNQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUV1LWlnLU5OYjFfdHJJQ2NRdEdhRjY2anJudnV3Q2VYd0o1ZE9xaVZZQ3Vyd3lFLVNCYTJwMV9iaXE1bE1qNGQ0VVhwN3VubnFCRGhnZjQtam1tUjBmZ2cyYUNBRVQ4c2RWTG9CMFB3RmFObjlCNmN1UVdzam5XRjBDNzBBRzk4X1owcHVVcE50SW15clpVVnRKbXp2bEMyOFVZZFVFelJSS2ZUd2EtWG11WEU3ODV6Q2F6S1JYQkI4VGNKUmVseTN2YWp4dmlMOGQtSmMzSDgwRHh1ZjAtY1RhN0pkODgwcjhCNQ?oc=5)
-
----
-
-### [Women who still feel tired after sleeping told 'speak to a doctor' - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5oR3RMRnlyZVFySmhfX2tSRWh5UTFJNEM4S0lMMUtKcExEUkh0YU5MUk4yQmdBTVBHM2hiTmhPTlBRR1BISUxlc2w1TTBYWnpjNHZHSDk4LU1xLVh6Q0F0anpxa1NlQ29kZktWeG1PeG5iLVFZaG9TVUlhMHDSAYIBQVVfeXFMTmtqcFUtUWtxRUNnaGdjSk9jeDUtb1JtUHpza25Lc2xjMjBvMVdsYzNNWUcyZnFhR0g2dzRwSHQ0Z2ZtbzRYWUxxbkc4WHptVVJQM21ZODJfelQ3dXd2STJ1MW55T1FyNnQyUzdaWFdhZnBlSXZ2NUVGQ2szQXpRRmp1dw?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5oR3RMRnlyZVFySmhfX2tSRWh5UTFJNEM4S0lMMUtKcExEUkh0YU5MUk4yQmdBTVBHM2hiTmhPTlBRR1BISUxlc2w1TTBYWnpjNHZHSDk4LU1xLVh6Q0F0anpxa1NlQ29kZktWeG1PeG5iLVFZaG9TVUlhMHDSAYIBQVVfeXFMTmtqcFUtUWtxRUNnaGdjSk9jeDUtb1JtUHpza25Lc2xjMjBvMVdsYzNNWUcyZnFhR0g2dzRwSHQ0Z2ZtbzRYWUxxbkc4WHptVVJQM21ZODJfelQ3dXd2STJ1MW55T1FyNnQyUzdaWFdhZnBlSXZ2NUVGQ2szQXpRRmp1dw?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhMWlBra3Y4NXhiazZUNVNMV0kxa0lBX1ZySFdmQkItTElOV044SzhkTUlBOXZSNS1TTG5RS0lrLVpoT0hHSld1RGE1TjBqWVlyVUE5cjhFRWpjUXJkVjNmMm42eEhTX01pLUhlZ19NWUhaSHFvaE0ybXJlOWNOV3ZqM3p4Y2hFb1RZZ2dQcENPUVdyS05N?oc=5)
 
 ---
 

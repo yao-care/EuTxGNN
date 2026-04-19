@@ -94,6 +94,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+---
+
 ### ["J’ai perdu la vue" : les graves effets secondaires du traitement contre le diabète de type 2 - Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
 
 2026-04-18 <span class="news-indication-tag">diabète</span>
@@ -107,14 +115,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-18 <span class="news-indication-tag">heart disease</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmFsTTVwNk9yWGxJRmF1WnJQNDB5djRZNU96b0lmWjRFQk4ydG9OYmtiTWIzYWlHMThVMUpaWmxxUGx3Um4xUGlfenJoMVF2VWNUYTQxUW8wRmhEMWM1eDNBemNxdGNVYy1POEZnUW1VRGJraTVXRE5maUlfS0dUWnpoQTVZNHdFZ3RXTVMzN3A?oc=5)
-
----
-
-### [Por qué médicos y dentistas deben trabajar juntos para tratar la diabetes de forma efectiva](https://news.google.com/rss/articles/CBMisAFBVV95cUxQalE4bzE1ekpsdWZURzdNOHAxeVlzUFlhS2piUmkxSFJKamdPUGRQcVFTcHNXZEdzZmRCbnM5WlV3UEdvcVZOMzE1VDc0RXpnclRFREFaaXdmMnAzZG1SdHZzeFduTjZWZXE3cjFGZzZxUzBES3lLcThDbUE0WlVKVThSWmtzQXlBdDJZNTg3OVY1UHZyVUxPZWtwMGhZYTBfN2JNa01LNGpYdDhJMmgzOQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[nacion.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQalE4bzE1ekpsdWZURzdNOHAxeVlzUFlhS2piUmkxSFJKamdPUGRQcVFTcHNXZEdzZmRCbnM5WlV3UEdvcVZOMzE1VDc0RXpnclRFREFaaXdmMnAzZG1SdHZzeFduTjZWZXE3cjFGZzZxUzBES3lLcThDbUE0WlVKVThSWmtzQXlBdDJZNTg3OVY1UHZyVUxPZWtwMGhZYTBfN2JNa01LNGpYdDhJMmgzOQ?oc=5)
 
 ---
 

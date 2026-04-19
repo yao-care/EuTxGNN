@@ -3,7 +3,7 @@ layout: default
 title: "tumor（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumor（cancer） 的相關健康新聞報導。20 則新聞、229 個相關藥物。"
+description: "tumor（cancer） 的相關健康新聞報導。18 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
-<strong>tumor（cancer）</strong> 目前有 <strong>20 則</strong>相關新聞報導，229 個相關藥物。
+<strong>tumor（cancer）</strong> 目前有 <strong>18 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -257,7 +257,15 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（18 則）
+
+### [España crea el primer network nacional frente a un tumor pulmonar en auge - Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlN4S2Q5RUZLRHJhSTN0LWhNSTF0OGNQV1BkMWNmLVozT2NLOTBhNEtjcExTWnRPYjVYTl9PWW5oNzBfRm5GR1pvVGhNdmVpejJVejNVUjdkZWpncFczMm9odkxDU0FtU3FPZUpxQzNkZEV4YWxTY0dHRjMzbTJDM2ZpUUt6bEZ4ZWpFSWtybVk0Wk5QZFNISGV1WENaa3ZnUVVJbExzVW03dHVhUDhnSHFGU3YtQ0s1dlgwSUR5dVVld19VNjNwSFdEeUM5elRBZHhB0gHTAUFVX3lxTFBRektob1JPOVI5MkVibVY4cldNdUxuTU9kSTFjYjlVOHJ4a3ZHSExEdE4zV3kwNXlweUtRMWt6bHlwdHBKc2hPVlU1Wkc5ZGo3YThvTTF5Y2VNTm1xbE42SXU2ZXF1MUN1d3FTMHF3RjFyeW5VdG9PZUlrbHBDOHFiZjYwblpvRnAtTG9xTEpvRms3WTZSXzZnMmxrZUZYWmRQTzJDZl9JenpYZ2hLbVpreG0wazk1OFRhTkw1akVxcE4tYm40dEtrT0tYSUl6d29pSzg?oc=5)
+
+2026-04-19
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlN4S2Q5RUZLRHJhSTN0LWhNSTF0OGNQV1BkMWNmLVozT2NLOTBhNEtjcExTWnRPYjVYTl9PWW5oNzBfRm5GR1pvVGhNdmVpejJVejNVUjdkZWpncFczMm9odkxDU0FtU3FPZUpxQzNkZEV4YWxTY0dHRjMzbTJDM2ZpUUt6bEZ4ZWpFSWtybVk0Wk5QZFNISGV1WENaa3ZnUVVJbExzVW03dHVhUDhnSHFGU3YtQ0s1dlgwSUR5dVVld19VNjNwSFdEeUM5elRBZHhB0gHTAUFVX3lxTFBRektob1JPOVI5MkVibVY4cldNdUxuTU9kSTFjYjlVOHJ4a3ZHSExEdE4zV3kwNXlweUtRMWt6bHlwdHBKc2hPVlU1Wkc5ZGo3YThvTTF5Y2VNTm1xbE42SXU2ZXF1MUN1d3FTMHF3RjFyeW5VdG9PZUlrbHBDOHFiZjYwblpvRnAtTG9xTEpvRms3WTZSXzZnMmxrZUZYWmRQTzJDZl9JenpYZ2hLbVpreG0wazk1OFRhTkw1akVxcE4tYm40dEtrT0tYSUl6d29pSzg?oc=5)
+
+---
 
 ### [Phytotherapie gegen Schleimhautprobleme bei HNO-Tumoren](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOURNSmFxbVFoQXJCcFNITXkzSWI2UWs2bVJOZWNMZkNCNDJTbUFsUW9JSmk0dmxMVDlZZXNrZXd5UWcxUFN0Z1NLci05V2p1bm4xMl82c2VGdThWVTBULTVQTkNKNXNLTlo2V0pnT2FvbHF5YWNfd0MtV3lDRHAxY0RzOE55QXl4N0ZiR2VMRXVnMDNQbnl2RXNNak9zS0JUeHhJ?oc=5)
 
@@ -312,6 +320,14 @@ permalink: /news/cancer/
 2026-04-19
 
 來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2FuMnpSeW9NSldmbk0zTEhwRmY5Qk9FZlZRcUxwbkluWjBGYXVISWNVd19ROXNiczJCeUJWSjlCNEJKYkJVMTgyQ09uN2FvS2cwOUN1M3Rjb3g1RHdUSTh6MU85Z1Itb2kxVFkxcndTQzY2VUZyT29ocFIya2pxRWVQOW1QNGItZktPU0hhQl95eXJaaFFTekJR?oc=5)
+
+---
+
+### [Natural Compounds Boost Bone Implant Success While Killing Bacteria and Cancer Cells](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWklwaEZIbDlTTDRuN2JtZ3BUOVdXM0R3OEx5SWJuQldzSVZ4amhXRW4xbnFsVnV2dWpmYk9aYlJVamJ1T2wtX1ptWVF3N1BnQTJLZ0Mxal9RaWo1R0drUGNqaklpUGIyRl9xOXVPWEJqWDhkSjAzV3BrZ0h4VTVxY0R3WUJsUkRhendOODFNN01jbzM0MFd5NGtrRUEtM3JfdFVDWFVmc0VGUjFDY3RV?oc=5)
+
+2026-04-18
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWklwaEZIbDlTTDRuN2JtZ3BUOVdXM0R3OEx5SWJuQldzSVZ4amhXRW4xbnFsVnV2dWpmYk9aYlJVamJ1T2wtX1ptWVF3N1BnQTJLZ0Mxal9RaWo1R0drUGNqaklpUGIyRl9xOXVPWEJqWDhkSjAzV3BrZ0h4VTVxY0R3WUJsUkRhendOODFNN01jbzM0MFd5NGtrRUEtM3JfdFVDWFVmc0VGUjFDY3RV?oc=5)
 
 ---
 
@@ -371,14 +387,6 @@ permalink: /news/cancer/
 
 ---
 
-### [« Au début, personne n’y croyait » : rencontre avec le pionnier mondial des cellules tueuses de cancers, un… Français ! - Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNUhhTGh3dTdlNEtXamQ1NUZUS2xEQ3N0dDBfYUFrZGRsbl81VngtNjNxMnEtMmtmUDdkMDEwNFpGaHk2VDB5MVNYcDBfdXh1c3JLUUpTRkRQNVd6VWtVSUloMHdmZ1V3RGhReF9vbWd1ZXAzdFhQemZtdWZRaGh4ZkhXQmNpOEdFd2FsT0VyZGM0SkxiUnYwTXRfdXhrUldmTER6NzJpUnBKM0x1SmdVUnlPWlQ3VWwxbXNGak95eWpES1ExWnlmYnRHaXFfOVFwajZIdkxNZk5kUDVra054VUtvR2t2TktVMDdTUHVJLTBHNFdwMklPZF9fMkl0MDNBN05jQ2FjLUR5UWhGYkpubkc5cy1BTFYz?oc=5)
-
-2026-04-18
-
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNUhhTGh3dTdlNEtXamQ1NUZUS2xEQ3N0dDBfYUFrZGRsbl81VngtNjNxMnEtMmtmUDdkMDEwNFpGaHk2VDB5MVNYcDBfdXh1c3JLUUpTRkRQNVd6VWtVSUloMHdmZ1V3RGhReF9vbWd1ZXAzdFhQemZtdWZRaGh4ZkhXQmNpOEdFd2FsT0VyZGM0SkxiUnYwTXRfdXhrUldmTER6NzJpUnBKM0x1SmdVUnlPWlQ3VWwxbXNGak95eWpES1ExWnlmYnRHaXFfOVFwajZIdkxNZk5kUDVra054VUtvR2t2TktVMDdTUHVJLTBHNFdwMklPZF9fMkl0MDNBN05jQ2FjLUR5UWhGYkpubkc5cy1BTFYz?oc=5)
-
----
-
 ### [« J’étais condamné, ça m’a sauvé la vie ! » : les secrets des cellules miraculeuses tueuses de cancers - Le Parisien](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaG96OGplOHpxTnB6dC1aSllhcnczWHI2b1JXZm4zSF93YTNMQ2k1V2F1NjdJekxXakNPTjBNVlVfbUJVZ2R1c05ZYTNEODFyT0JQMXpMak04WG1ZcG9VaXlCVDY4T3VJQU04ck5SN3l1Z2d3dWoyT3lGRnVfM0ZPd3NYTDBDRElJbHBTVVhTdFRBOTZRc2FxTkxEbGlwdk1YVUk1eGs5dFJKUlpLb1NValpLTDNPY0VHcjNtbk1JYlRzX25DakRDaUhjbFRlTGFTQU56VVJpR25XeWJPa3FJM1c2a1RReDU4VkxDMkFFd0o1ZEd2ZHNEZl8tOUpKOUtsOUM4?oc=5)
 
 2026-04-18
@@ -387,35 +395,11 @@ permalink: /news/cancer/
 
 ---
 
-### [Neue Ansätze in der Krebsbehandlung: Bewegung statt Medikamente - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
+### [Neue Ansätze in der Krebsbehandlung: Bewegung statt Medikamente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
 
 2026-04-18
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
-
----
-
-### [I was diagnosed with deadly cancer after wearing my dad's COAT decades ago - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
-
-2026-04-17
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
-
----
-
-### [Da topi anziani nuovi indizi sul legame tra età e tumori. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
-
-2026-04-17
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
-
----
-
-### [Un nuovo test del sangue rivela il tumore al pancreas nelle fasi iniziali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEY0VlNzT1I2eF9fSVY0cnlTckV0MzJwcXRGTXdIczNlZWdnVG55cDNlN1RiZ0N3TjhxNHNmNW1SSnYyc3RxV3EzUkZxbGRuM2NrM3M5am56djYwS3VlN2lfV3I3cldJTDI0aXNpaTlWaW1ocENHWGVEQXlJNDFOWlRISExRcm5TUThUR2RpRmJRMVpaUlFKbm9DLXdMR0lzU19YWQ?oc=5)
-
-2026-04-17
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEY0VlNzT1I2eF9fSVY0cnlTckV0MzJwcXRGTXdIczNlZWdnVG55cDNlN1RiZ0N3TjhxNHNmNW1SSnYyc3RxV3EzUkZxbGRuM2NrM3M5am56djYwS3VlN2lfV3I3cldJTDI0aXNpaTlWaW1ocENHWGVEQXlJNDFOWlRISExRcm5TUThUR2RpRmJRMVpaUlFKbm9DLXdMR0lzU19YWQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
 
 ---
 

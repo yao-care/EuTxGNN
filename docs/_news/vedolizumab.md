@@ -86,6 +86,14 @@ permalink: /news/vedolizumab/
 
 ---
 
+### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+---
+
 ### [La EPOC y el mapa desigual de muertes dentro de un mismo sistema sanitario - Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
 
 2026-04-18 <span class="news-indication-tag">EPOC</span>
@@ -99,14 +107,6 @@ permalink: /news/vedolizumab/
 2026-04-18 <span class="news-indication-tag">diabète</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
-
----
-
-### [Por qué médicos y dentistas deben trabajar juntos para tratar la diabetes de forma efectiva](https://news.google.com/rss/articles/CBMisAFBVV95cUxQalE4bzE1ekpsdWZURzdNOHAxeVlzUFlhS2piUmkxSFJKamdPUGRQcVFTcHNXZEdzZmRCbnM5WlV3UEdvcVZOMzE1VDc0RXpnclRFREFaaXdmMnAzZG1SdHZzeFduTjZWZXE3cjFGZzZxUzBES3lLcThDbUE0WlVKVThSWmtzQXlBdDJZNTg3OVY1UHZyVUxPZWtwMGhZYTBfN2JNa01LNGpYdDhJMmgzOQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[nacion.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQalE4bzE1ekpsdWZURzdNOHAxeVlzUFlhS2piUmkxSFJKamdPUGRQcVFTcHNXZEdzZmRCbnM5WlV3UEdvcVZOMzE1VDc0RXpnclRFREFaaXdmMnAzZG1SdHZzeFduTjZWZXE3cjFGZzZxUzBES3lLcThDbUE0WlVKVThSWmtzQXlBdDJZNTg3OVY1UHZyVUxPZWtwMGhZYTBfN2JNa01LNGpYdDhJMmgzOQ?oc=5)
 
 ---
 

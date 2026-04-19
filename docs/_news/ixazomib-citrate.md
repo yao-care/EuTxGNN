@@ -54,6 +54,22 @@ permalink: /news/ixazomib-citrate/
 
 ## 相關新聞（20 則）
 
+### [Un estudio del CSIC lo confirma: la composición de tu microbiota intestinal influye directamente en tu memoria - La Razón](https://news.google.com/rss/articles/CBMijAJBVV95cUxPTzhIOWRfT1JvX3hHckJLUF80Z1ZNd05YRUFmZEVqVWc0Q0thSDY0TklVdjc4YU1qMzBNX2VjMzRmbXhpTEFhU0lWSTJYYUdsRDNQdm5LbXZJSS1qa1poZkVIR2o3QkItRl9UOV94eWFnTTlSQzNWQkZEZ2VXR1AwNzdncmJsdXY3VF92OGNPdDJ0OVF4dkp1M2h0eGpkMUhqdVg3eWdsMTg1Q2ZzZ1o4S21abTh1Sk82N0VaYXRJUEJBamhSeW9UejhKeU5IRmZJUEV0aFNOamVRd25FdWhSdzZ4NnZfaGZFMG9JUXNLS1NiOHU3NGVhZFV2cmtfeHY1QV9LT2hTdmlnMl9D0gGgAkFVX3lxTE0ta0U3QlIwQm9wbDVwQUlsVDhxb2F0WFBGcU5lQlFOOHl1bS1SWVgzNmFoUUM4VUt5MW1lOFR6ODl4ZGhIRm5ER01KdmRmZDhJRDJNT3RhakM3b2t1T1ZnRWl4TmUzX2NWMWdRdUdPV1BSUHR0OUNVTDVXTnZCLVphNFZ4cU5NV1ViRmxpdE9KQjlLclQxMjFydkROZFR4TUJ1M1ltUGVjSUU5NDlaUFNIZHlzNlNiNTFKMjV4a3R3aUtuZFRuLWZ1M3FwVXZrMnJhVmNYdS0wVFRwRnloaUVFTndKeTF6cF9DTzNEQUJQMlRKNzhERHFzam9kRWVtaUE5RlhCOTdJekh3X3ppdXVBQkI3X2pEbU5oT3dhTlJVaw?oc=5)
+
+2026-04-19 <span class="news-indication-tag">asma</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMijAJBVV95cUxPTzhIOWRfT1JvX3hHckJLUF80Z1ZNd05YRUFmZEVqVWc0Q0thSDY0TklVdjc4YU1qMzBNX2VjMzRmbXhpTEFhU0lWSTJYYUdsRDNQdm5LbXZJSS1qa1poZkVIR2o3QkItRl9UOV94eWFnTTlSQzNWQkZEZ2VXR1AwNzdncmJsdXY3VF92OGNPdDJ0OVF4dkp1M2h0eGpkMUhqdVg3eWdsMTg1Q2ZzZ1o4S21abTh1Sk82N0VaYXRJUEJBamhSeW9UejhKeU5IRmZJUEV0aFNOamVRd25FdWhSdzZ4NnZfaGZFMG9JUXNLS1NiOHU3NGVhZFV2cmtfeHY1QV9LT2hTdmlnMl9D0gGgAkFVX3lxTE0ta0U3QlIwQm9wbDVwQUlsVDhxb2F0WFBGcU5lQlFOOHl1bS1SWVgzNmFoUUM4VUt5MW1lOFR6ODl4ZGhIRm5ER01KdmRmZDhJRDJNT3RhakM3b2t1T1ZnRWl4TmUzX2NWMWdRdUdPV1BSUHR0OUNVTDVXTnZCLVphNFZ4cU5NV1ViRmxpdE9KQjlLclQxMjFydkROZFR4TUJ1M1ltUGVjSUU5NDlaUFNIZHlzNlNiNTFKMjV4a3R3aUtuZFRuLWZ1M3FwVXZrMnJhVmNYdS0wVFRwRnloaUVFTndKeTF6cF9DTzNEQUJQMlRKNzhERHFzam9kRWVtaUE5RlhCOTdJekh3X3ppdXVBQkI3X2pEbU5oT3dhTlJVaw?oc=5)
+
+---
+
+### [España crea el primer network nacional frente a un tumor pulmonar en auge - Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlN4S2Q5RUZLRHJhSTN0LWhNSTF0OGNQV1BkMWNmLVozT2NLOTBhNEtjcExTWnRPYjVYTl9PWW5oNzBfRm5GR1pvVGhNdmVpejJVejNVUjdkZWpncFczMm9odkxDU0FtU3FPZUpxQzNkZEV4YWxTY0dHRjMzbTJDM2ZpUUt6bEZ4ZWpFSWtybVk0Wk5QZFNISGV1WENaa3ZnUVVJbExzVW03dHVhUDhnSHFGU3YtQ0s1dlgwSUR5dVVld19VNjNwSFdEeUM5elRBZHhB0gHTAUFVX3lxTFBRektob1JPOVI5MkVibVY4cldNdUxuTU9kSTFjYjlVOHJ4a3ZHSExEdE4zV3kwNXlweUtRMWt6bHlwdHBKc2hPVlU1Wkc5ZGo3YThvTTF5Y2VNTm1xbE42SXU2ZXF1MUN1d3FTMHF3RjFyeW5VdG9PZUlrbHBDOHFiZjYwblpvRnAtTG9xTEpvRms3WTZSXzZnMmxrZUZYWmRQTzJDZl9JenpYZ2hLbVpreG0wazk1OFRhTkw1akVxcE4tYm40dEtrT0tYSUl6d29pSzg?oc=5)
+
+2026-04-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlN4S2Q5RUZLRHJhSTN0LWhNSTF0OGNQV1BkMWNmLVozT2NLOTBhNEtjcExTWnRPYjVYTl9PWW5oNzBfRm5GR1pvVGhNdmVpejJVejNVUjdkZWpncFczMm9odkxDU0FtU3FPZUpxQzNkZEV4YWxTY0dHRjMzbTJDM2ZpUUt6bEZ4ZWpFSWtybVk0Wk5QZFNISGV1WENaa3ZnUVVJbExzVW03dHVhUDhnSHFGU3YtQ0s1dlgwSUR5dVVld19VNjNwSFdEeUM5elRBZHhB0gHTAUFVX3lxTFBRektob1JPOVI5MkVibVY4cldNdUxuTU9kSTFjYjlVOHJ4a3ZHSExEdE4zV3kwNXlweUtRMWt6bHlwdHBKc2hPVlU1Wkc5ZGo3YThvTTF5Y2VNTm1xbE42SXU2ZXF1MUN1d3FTMHF3RjFyeW5VdG9PZUlrbHBDOHFiZjYwblpvRnAtTG9xTEpvRms3WTZSXzZnMmxrZUZYWmRQTzJDZl9JenpYZ2hLbVpreG0wazk1OFRhTkw1akVxcE4tYm40dEtrT0tYSUl6d29pSzg?oc=5)
+
+---
+
 ### [Phytotherapie gegen Schleimhautprobleme bei HNO-Tumoren](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOURNSmFxbVFoQXJCcFNITXkzSWI2UWs2bVJOZWNMZkNCNDJTbUFsUW9JSmk0dmxMVDlZZXNrZXd5UWcxUFN0Z1NLci05V2p1bm4xMl82c2VGdThWVTBULTVQTkNKNXNLTlo2V0pnT2FvbHF5YWNfd0MtV3lDRHAxY0RzOE55QXl4N0ZiR2VMRXVnMDNQbnl2RXNNak9zS0JUeHhJ?oc=5)
 
 2026-04-19 <span class="news-indication-tag">tumor</span>
@@ -86,6 +102,14 @@ permalink: /news/ixazomib-citrate/
 
 ---
 
+### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
+
+2026-04-19 <span class="news-indication-tag">asthme</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
+
+---
+
 ### [Dieses Vitamin soll die Überlebenschance bei Krebs erhöhen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEJ4WUdPRFFyYU9UUXFITkxaMUFfNTZXTkU5UzZieGhBY21HLXVVMlFyR2s1a25PQllxbGlzS0ZtemdPV2xjTWowTGFZUE5YT3BlWUZXcW9jRFVOd2JoSDA1cFNqZE5hWVZOSU5oMnkyMjhRT1MzcGlNTlRIV2lKanJNQmhZSnBrTkM4N3V2Um1RWGZyVzVrTlh5Q0IyR1JVNVQ2bEhiS0FHVVJTdXVfX0s2N1dndG43NktSb3JDWQ?oc=5)
 
 2026-04-19 <span class="news-indication-tag">Krebs</span>
@@ -110,6 +134,14 @@ permalink: /news/ixazomib-citrate/
 
 ---
 
+### [Natural Compounds Boost Bone Implant Success While Killing Bacteria and Cancer Cells](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWklwaEZIbDlTTDRuN2JtZ3BUOVdXM0R3OEx5SWJuQldzSVZ4amhXRW4xbnFsVnV2dWpmYk9aYlJVamJ1T2wtX1ptWVF3N1BnQTJLZ0Mxal9RaWo1R0drUGNqaklpUGIyRl9xOXVPWEJqWDhkSjAzV3BrZ0h4VTVxY0R3WUJsUkRhendOODFNN01jbzM0MFd5NGtrRUEtM3JfdFVDWFVmc0VGUjFDY3RV?oc=5)
+
+2026-04-18 <span class="news-indication-tag">cancer</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWklwaEZIbDlTTDRuN2JtZ3BUOVdXM0R3OEx5SWJuQldzSVZ4amhXRW4xbnFsVnV2dWpmYk9aYlJVamJ1T2wtX1ptWVF3N1BnQTJLZ0Mxal9RaWo1R0drUGNqaklpUGIyRl9xOXVPWEJqWDhkSjAzV3BrZ0h4VTVxY0R3WUJsUkRhendOODFNN01jbzM0MFd5NGtrRUEtM3JfdFVDWFVmc0VGUjFDY3RV?oc=5)
+
+---
+
 ### [Steroids and the ‘silent’ cancer plaguing the manosphere - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzFrcl9OYkdrYUEyajRqNVh5anZBTHB0S29ORmlHakF4dUZMVUVYYmlRTnNuZExFb21mMG4wci1hczJQVFMybjZEdmlsenc4YWFWREYyRTRwX20weElUM0xDZ2FMYU94akNYZjdWaWdYMlZjQ0pVWDhSdjJkR2x1NGYyLXRTNkFURUE4aXBPVUlRMWVkOGcw?oc=5)
 
 2026-04-18 <span class="news-indication-tag">cancer</span>
@@ -128,7 +160,7 @@ permalink: /news/ixazomib-citrate/
 
 ### [Ricerca, nuova speranza contro tumore al seno da studio Unical - il Lametino.it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDVzN1Y1bVFmTkRFYmgtb3p0VDNPdmZJYndoc2xRWmpNOTNZdHRJZXF1Z190MFY0Q0Fwem83emJ0NUI3Ymx3VVA3bXpjS0xidy1Hb29RYXZTS2x0dzRzSTFMcENRcUJCQTJCS0taRXl0VGxfQWFKU2Z4djBDYVFoVWM3OEFzbkRfSEF5bDZ0T2k4SGtWOWQzVUw1VDVldkpI?oc=5)
 
-2026-04-18 <span class="news-indication-tag">tumor</span>
+2026-04-18 <span class="news-drug-tag">Silodosin</span> <span class="news-indication-tag">tumor</span>
 
 來源：[il Lametino.it](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDVzN1Y1bVFmTkRFYmgtb3p0VDNPdmZJYndoc2xRWmpNOTNZdHRJZXF1Z190MFY0Q0Fwem83emJ0NUI3Ymx3VVA3bXpjS0xidy1Hb29RYXZTS2x0dzRzSTFMcENRcUJCQTJCS0taRXl0VGxfQWFKU2Z4djBDYVFoVWM3OEFzbkRfSEF5bDZ0T2k4SGtWOWQzVUw1VDVldkpI?oc=5)
 
@@ -166,14 +198,6 @@ permalink: /news/ixazomib-citrate/
 
 ---
 
-### [« Au début, personne n’y croyait » : rencontre avec le pionnier mondial des cellules tueuses de cancers, un… Français ! - Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNUhhTGh3dTdlNEtXamQ1NUZUS2xEQ3N0dDBfYUFrZGRsbl81VngtNjNxMnEtMmtmUDdkMDEwNFpGaHk2VDB5MVNYcDBfdXh1c3JLUUpTRkRQNVd6VWtVSUloMHdmZ1V3RGhReF9vbWd1ZXAzdFhQemZtdWZRaGh4ZkhXQmNpOEdFd2FsT0VyZGM0SkxiUnYwTXRfdXhrUldmTER6NzJpUnBKM0x1SmdVUnlPWlQ3VWwxbXNGak95eWpES1ExWnlmYnRHaXFfOVFwajZIdkxNZk5kUDVra054VUtvR2t2TktVMDdTUHVJLTBHNFdwMklPZF9fMkl0MDNBN05jQ2FjLUR5UWhGYkpubkc5cy1BTFYz?oc=5)
-
-2026-04-18 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNUhhTGh3dTdlNEtXamQ1NUZUS2xEQ3N0dDBfYUFrZGRsbl81VngtNjNxMnEtMmtmUDdkMDEwNFpGaHk2VDB5MVNYcDBfdXh1c3JLUUpTRkRQNVd6VWtVSUloMHdmZ1V3RGhReF9vbWd1ZXAzdFhQemZtdWZRaGh4ZkhXQmNpOEdFd2FsT0VyZGM0SkxiUnYwTXRfdXhrUldmTER6NzJpUnBKM0x1SmdVUnlPWlQ3VWwxbXNGak95eWpES1ExWnlmYnRHaXFfOVFwajZIdkxNZk5kUDVra054VUtvR2t2TktVMDdTUHVJLTBHNFdwMklPZF9fMkl0MDNBN05jQ2FjLUR5UWhGYkpubkc5cy1BTFYz?oc=5)
-
----
-
 ### [« J’étais condamné, ça m’a sauvé la vie ! » : les secrets des cellules miraculeuses tueuses de cancers - Le Parisien](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaG96OGplOHpxTnB6dC1aSllhcnczWHI2b1JXZm4zSF93YTNMQ2k1V2F1NjdJekxXakNPTjBNVlVfbUJVZ2R1c05ZYTNEODFyT0JQMXpMak04WG1ZcG9VaXlCVDY4T3VJQU04ck5SN3l1Z2d3dWoyT3lGRnVfM0ZPd3NYTDBDRElJbHBTVVhTdFRBOTZRc2FxTkxEbGlwdk1YVUk1eGs5dFJKUlpLb1NValpLTDNPY0VHcjNtbk1JYlRzX25DakRDaUhjbFRlTGFTQU56VVJpR25XeWJPa3FJM1c2a1RReDU4VkxDMkFFd0o1ZEd2ZHNEZl8tOUpKOUtsOUM4?oc=5)
 
 2026-04-18 <span class="news-indication-tag">cancer</span>
@@ -182,35 +206,11 @@ permalink: /news/ixazomib-citrate/
 
 ---
 
-### [Neue Ansätze in der Krebsbehandlung: Bewegung statt Medikamente - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
+### [Neue Ansätze in der Krebsbehandlung: Bewegung statt Medikamente](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
 
 2026-04-18 <span class="news-indication-tag">Krebs</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
-
----
-
-### [I was diagnosed with deadly cancer after wearing my dad's COAT decades ago - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
-
----
-
-### [Da topi anziani nuovi indizi sul legame tra età e tumori. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
-
-2026-04-17 <span class="news-indication-tag">tumor</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
-
----
-
-### [Un nuovo test del sangue rivela il tumore al pancreas nelle fasi iniziali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEY0VlNzT1I2eF9fSVY0cnlTckV0MzJwcXRGTXdIczNlZWdnVG55cDNlN1RiZ0N3TjhxNHNmNW1SSnYyc3RxV3EzUkZxbGRuM2NrM3M5am56djYwS3VlN2lfV3I3cldJTDI0aXNpaTlWaW1ocENHWGVEQXlJNDFOWlRISExRcm5TUThUR2RpRmJRMVpaUlFKbm9DLXdMR0lzU19YWQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEY0VlNzT1I2eF9fSVY0cnlTckV0MzJwcXRGTXdIczNlZWdnVG55cDNlN1RiZ0N3TjhxNHNmNW1SSnYyc3RxV3EzUkZxbGRuM2NrM3M5am56djYwS3VlN2lfV3I3cldJTDI0aXNpaTlWaW1ocENHWGVEQXlJNDFOWlRISExRcm5TUThUR2RpRmJRMVpaUlFKbm9DLXdMR0lzU19YWQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXp0QThJTzBaWUMySzFTZmszRmNqNzFYRG83UTZKcVdlX0VDcW9nWEFhemxuOWR5UkxwbW1LNkhQQmNWdEtXZnRTYWFPZXV4WDN1bmphekphLTRya3lvWG5zbV94U2NtZXJ5bHJoZF9QLUZZTjJYWGdlU2MtV2VETk1CY2RlRXp5eG00cnBoQ0R3VlZQVjZBbWowOA?oc=5)
 
 ---
 
