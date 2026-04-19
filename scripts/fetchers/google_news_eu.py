@@ -69,7 +69,7 @@ HEALTH_RSS_FEEDS = {
 def generate_id(title: str, link: str) -> str:
     """Generate news ID based on title and link hash"""
     content = f"{title}:{link}"
-    return hashlib.md5(content.encode()).hexdigest()[:12]
+    return hashlib.sha256(content.encode()).hexdigest()[:12]
 
 
 def clean_html(text: str) -> str:
