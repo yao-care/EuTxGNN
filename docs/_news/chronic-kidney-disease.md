@@ -3,7 +3,7 @@ layout: default
 title: "enfermedad renal crónica（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad renal crónica（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "enfermedad renal crónica（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chronic-kidney-disease/
 ---
 
 <p class="key-answer" data-question="enfermedad renal crónica（chronic kidney disease） 有什麼相關新聞？">
-<strong>enfermedad renal crónica（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>enfermedad renal crónica（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [El Consejo Interterritorial aprueba una nueva estrategia para el abordaje de la enfermedad renal crónica - Somos Pacientes](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZnVfTE1KNGZVZlZZZjRxbXc2T3pWOUxRRlU1QkxhaEdJd3VLamYtMGpNMm9iR2k1Y19pWG1SY2Z4X2tfSEV5a2Zqbzc1NXl5YXh5LVFvYmY4bFdKakdRemVrTjdyWkVjWGtISlZyQ1pxNVkwTzRBOG00T19BaUpjZFkxOWxMMHRlTG9YN3EweEhNZDMxeFNHSTNDVFVFcEs3a3g5YWxPQVpEZG1oMW5EbVY1R1NjRjE0UUowbmZ5M2R6cjZUdDVzQU5ZRmEtd1l6SmNfWU8wME1uR3ZCcHdKcmMyVUlQNXNlbEhQV1Jzc05pWWZHc1E?oc=5)
 
 2026-04-18
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZnVfTE1KNGZVZlZZZjRxbXc2T3pWOUxRRlU1QkxhaEdJd3VLamYtMGpNMm9iR2k1Y19pWG1SY2Z4X2tfSEV5a2Zqbzc1NXl5YXh5LVFvYmY4bFdKakdRemVrTjdyWkVjWGtISlZyQ1pxNVkwTzRBOG00T19BaUpjZFkxOWxMMHRlTG9YN3EweEhNZDMxeFNHSTNDVFVFcEs3a3g5YWxPQVpEZG1oMW5EbVY1R1NjRjE0UUowbmZ5M2R6cjZUdDVzQU5ZRmEtd1l6SmNfWU8wME1uR3ZCcHdKcmMyVUlQNXNlbEhQV1Jzc05pWWZHc1E?oc=5)
+
+---
+
+### [Mum’s desperate plea for organ donor to save eight-year-old son with chronic kidney disease](https://news.google.com/rss/articles/CBMimgFBVV95cUxObzE4ZFNjSmpTdmdlOEtRQ3lvV2tTMFUyenV0emVPNWJYWTdaRVlPTnQ1U1JrTmVUWnJEdTBzZWhaRmhsaHF4X3pOblZ5dGlDNGxHenhCdVBzTDNMbG51Ml9nRjFOZnNBWGR1Skk2OWN1OGU2V3ZDNUtXQVpiYmJ2RG10V1hxaG9md19VcWRIZlV4WU9FV3NCWG1R?oc=5)
+
+2026-04-17
+
+來源：[portsmouth.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxObzE4ZFNjSmpTdmdlOEtRQ3lvV2tTMFUyenV0emVPNWJYWTdaRVlPTnQ1U1JrTmVUWnJEdTBzZWhaRmhsaHF4X3pOblZ5dGlDNGxHenhCdVBzTDNMbG51Ml9nRjFOZnNBWGR1Skk2OWN1OGU2V3ZDNUtXQVpiYmJ2RG10V1hxaG9md19VcWRIZlV4WU9FV3NCWG1R?oc=5)
 
 ---
 

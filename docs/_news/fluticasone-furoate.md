@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthma</span></li>
+<li>asthma（99.9%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -52,21 +52,13 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [La EPOC y el mapa desigual de muertes dentro de un mismo sistema sanitario - Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
 
 2026-04-18 <span class="news-indication-tag">EPOC</span>
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
-
----
-
-### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">asthma</span>
-
-來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 

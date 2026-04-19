@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [La obesidad puede afectar a la calidad y duración de la respuesta de algunas vacunas, según un estudio en ratones - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzZaanl2UE0wRWhFeVlWMi1wUWVQcnR4OV9aVTFSck40MzFKMjBDWFMwMEtwZlhSY0NyaDJiMzBBcmo2bHZFbzlhVkZPV0FIN2o3MmZsYVVJc3lsY0lBc2dkbW5uQ3JHbV9QM29aQjRjX0NyZlpubjZGdmR6Um5URTZSekFOaHpkdEdyblJidWVGMC1BcUMycVhod09NbHFUOFU4TlF5Z3VHdUR5SEJfNXVGLWtQZnBKQUlNVHdObExBdXJUaHlEel9zaEhCbVhwVThyUHRyLUlYdVZaUlA3WThR?oc=5)
+
+2026-04-19 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzZaanl2UE0wRWhFeVlWMi1wUWVQcnR4OV9aVTFSck40MzFKMjBDWFMwMEtwZlhSY0NyaDJiMzBBcmo2bHZFbzlhVkZPV0FIN2o3MmZsYVVJc3lsY0lBc2dkbW5uQ3JHbV9QM29aQjRjX0NyZlpubjZGdmR6Um5URTZSekFOaHpkdEdyblJidWVGMC1BcUMycVhod09NbHFUOFU4TlF5Z3VHdUR5SEJfNXVGLWtQZnBKQUlNVHdObExBdXJUaHlEel9zaEhCbVhwVThyUHRyLUlYdVZaUlA3WThR?oc=5)
+
+---
+
+### [Il falso mito dei 10mila passi, camminare 15 minuti aiuta il cuore](https://news.google.com/rss/articles/CBMijgFBVV95cUxQU28wSGN2NnFyWWhSaUFFeU44VHZNM1ZzX3Z0eVJla1RoVEluZ0M2TlRKNWs3Z2xCS2NGR3c3UlpJUGdleWxDWGEwV2VzYlo5X0ZfeEZraTFldDBkOURpV0FaWlNEYWlpai1YTkxRVWs4a0p5ZnQyMXR3TTUzX293MDZHdkJmNDJpajJYdk1n?oc=5)
+
+2026-04-18 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMijgFBVV95cUxQU28wSGN2NnFyWWhSaUFFeU44VHZNM1ZzX3Z0eVJla1RoVEluZ0M2TlRKNWs3Z2xCS2NGR3c3UlpJUGdleWxDWGEwV2VzYlo5X0ZfeEZraTFldDBkOURpV0FaWlNEYWlpai1YTkxRVWs4a0p5ZnQyMXR3TTUzX293MDZHdkJmNDJpajJYdk1n?oc=5)
+
+---
 
 ### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
 
@@ -70,6 +86,22 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
+### [Un estudio señala a un popular edulcorante por su contribución directa a la obesidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
+
+2026-04-18 <span class="news-indication-tag">obesidad</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
+
+---
+
+### [El abordaje integral de la obesidad y sus implicaciones clínicas - IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1dmNGpEY1FlUU9JLW9ROVUzRjh5dF9CeVZIb2ZNVllXbk1ETU1YNTI0Tms2dVFES1pidlkzRTBVYlJlbFZ6U202aXQyZFNPaFZ3NU9OWm5yam5XcGIwVlpTRFFJLTk2NkJkNEdpaGJuY21SUlFBMWRZSU5zb1FsNGtaS0lZb09zNUluenN4ckszM3RrT21XSl9iLVV5MVEzcGVwaWpzdlJxNnhObVHSAagBQVVfeXFMUEFJSTI3SUNNY19PeGhuWEsyRnRXdzRyV2NlcnhBN2V6TlV6TGprZ28xVmQwTXBRdXJ0d3NrZlBvUVhmYWZISU1rM05QQ3dLQU9jSm5ZU0xUclZleEtzdkJIMkdqM2pQUzRPQnJybldfZEozZ19xLVppakp6NHRtZGpZZEhPbmhzb2tHY05maW03VEVubU5rcDBDY1dsQWw0aVFnSmR2MEhp?oc=5)
+
+2026-04-17 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1dmNGpEY1FlUU9JLW9ROVUzRjh5dF9CeVZIb2ZNVllXbk1ETU1YNTI0Tms2dVFES1pidlkzRTBVYlJlbFZ6U202aXQyZFNPaFZ3NU9OWm5yam5XcGIwVlpTRFFJLTk2NkJkNEdpaGJuY21SUlFBMWRZSU5zb1FsNGtaS0lZb09zNUluenN4ckszM3RrT21XSl9iLVV5MVEzcGVwaWpzdlJxNnhObVHSAagBQVVfeXFMUEFJSTI3SUNNY19PeGhuWEsyRnRXdzRyV2NlcnhBN2V6TlV6TGprZ28xVmQwTXBRdXJ0d3NrZlBvUVhmYWZISU1rM05QQ3dLQU9jSm5ZU0xUclZleEtzdkJIMkdqM2pQUzRPQnJybldfZEozZ19xLVppakp6NHRtZGpZZEhPbmhzb2tHY05maW03VEVubU5rcDBDY1dsQWw0aVFnSmR2MEhp?oc=5)
+
+---
+
 ### [“Abbiamo combattuto il grasso sbagliato per anni, ignorando quello che davvero alimenta le malattie”: Franco Berrino svela la verità nascosta dietro oli e prodotti industriali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
 
 2026-04-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
@@ -78,35 +110,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [ConCiencia en Obesidad presenta su nueva Hoja de Ruta](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">obesidad</span>
-
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2kzWnJhOHlUNTZ6M3hJS3Jya3JSX2VCbUxVM1hURzlSajlmZ1daT3pFeWI0bHZVY2o1dVFlQjY0MVRtNVBIMTNsc3BfWnl5U242ZHRPN1RxV2t5UFVyU1NxRDlsZTNmWUdyREhfRVYzbWN6VGg0VXNrbGVST21mTkFucDJfTE8tc0hmN1NlQQ?oc=5)
-
----
-
 ### [10 000 pas par jour, perte de poids, intensité… Le docteur Laurent Lély démêle le vrai du faux sur la marche - Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
 
 2026-04-17 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
-
----
-
-### [Más allá del peso: revelan cómo la semaglutida tiene beneficios - Diario Occidente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnl0SldEd292R2diSWpEWjZBRmp1YlZWbG5YZXp1Nk5kejEtaFNYVVgtQzNxU293NEsyQ1ZhVEI4dW1jdDk2NjBBZk45SE5UalVfejRmU0pFU1hnb2VFYzhQSFRGT2luY0hlcDFsd1pEMy1SZVlYX2x6bjdCSWVkYThKcFM0blZWSV82V2I1WFJpT2lhMlRGLXBzQTJ6dWJfZW9KX0JQa084R2fSAbYBQVVfeXFMTVNZS0JvM2ZTRko5bkdNMTRVZ0pLSExtenRsb2dzNmd3eHh2WFVDdERiUzdPNEszYXJXSURqbVZ4ekdMWE8tOE90ZFA3ZFBmcmt2R1BLTnJpelYyM0JrZ1ZfUjA3dk0yYVpwRWFWaGRiWDZZRVRPelc0OXRlT2p5SVlaRUhqWDVHQ2M4T0l0ZDdIeWdReWdJZk92MWdzZXVEdnNnLWRIQjUxLUFpSG9MeERxS01DbXc?oc=5)
-
-2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario Occidente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnl0SldEd292R2diSWpEWjZBRmp1YlZWbG5YZXp1Nk5kejEtaFNYVVgtQzNxU293NEsyQ1ZhVEI4dW1jdDk2NjBBZk45SE5UalVfejRmU0pFU1hnb2VFYzhQSFRGT2luY0hlcDFsd1pEMy1SZVlYX2x6bjdCSWVkYThKcFM0blZWSV82V2I1WFJpT2lhMlRGLXBzQTJ6dWJfZW9KX0JQa084R2fSAbYBQVVfeXFMTVNZS0JvM2ZTRko5bkdNMTRVZ0pLSExtenRsb2dzNmd3eHh2WFVDdERiUzdPNEszYXJXSURqbVZ4ekdMWE8tOE90ZFA3ZFBmcmt2R1BLTnJpelYyM0JrZ1ZfUjA3dk0yYVpwRWFWaGRiWDZZRVRPelc0OXRlT2p5SVlaRUhqWDVHQ2M4T0l0ZDdIeWdReWdJZk92MWdzZXVEdnNnLWRIQjUxLUFpSG9MeERxS01DbXc?oc=5)
-
----
-
-### [La dieta mediterránea y la actividad física podría frenar la obesidad desde la etapa preescolar, según un estudio - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHF6NERTdmQ2cmkxWVE5QXRnRFBndTRsR0RwZHRBNW85aFB1Zml3SV9kbVN2enpRaVMyNFNOdEVOTzhIRWttTHcxYW9qTlpZRGFxV1FDTW5xcjg4Q1gtMkd5M3ZBUGNWOUhnM1F5a2VJT2k2b1ZNNUJNYXhZSjlDN0Z6S2JrT2F4TUtqWXFZekdkdllvUmVITlBVNjFZdU9fVUdpTENYT3BfOE1Id3ViRnFRUkJnUnNUSVc3X1pxdDBiZmJOSFVoemRRUjhoNjhoYzBsVU5DcFlZRVNvT3I2ZjFlanRfdnljVDJubF9XZHU?oc=5)
-
-2026-04-17 <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHF6NERTdmQ2cmkxWVE5QXRnRFBndTRsR0RwZHRBNW85aFB1Zml3SV9kbVN2enpRaVMyNFNOdEVOTzhIRWttTHcxYW9qTlpZRGFxV1FDTW5xcjg4Q1gtMkd5M3ZBUGNWOUhnM1F5a2VJT2k2b1ZNNUJNYXhZSjlDN0Z6S2JrT2F4TUtqWXFZekdkdllvUmVITlBVNjFZdU9fVUdpTENYT3BfOE1Id3ViRnFRUkJnUnNUSVc3X1pxdDBiZmJOSFVoemRRUjhoNjhoYzBsVU5DcFlZRVNvT3I2ZjFlanRfdnljVDJubF9XZHU?oc=5)
 
 ---
 
