@@ -3,7 +3,7 @@ layout: default
 title: "Ropeginterferon Alfa-2B 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ropeginterferon Alfa-2B 的相關健康新聞報導。原適應症：Besremi is indicated as monotherapy in adults for ...。預測適應症 10 個。"
+description: "Ropeginterferon Alfa-2B 的相關健康新聞報導。原適應症：Besremi is indicated as monotherapy in adults for ...。預測適應症 20 個。"
 permalink: /news/ropeginterferon-alfa-2b/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ropeginterferon-alfa-2b/
 ---
 
 <p class="key-answer" data-question="Ropeginterferon Alfa-2B 有什麼相關新聞？">
-<strong>Ropeginterferon Alfa-2B</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ropeginterferon Alfa-2B</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ropeginterferon-alfa-2b/
 <ul>
 <li><strong>原適應症</strong>：Besremi is indicated as monotherapy in adults for the treatment of polycythaemia vera without symptomatic splenomegaly.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>Laubry-Pezzi syndrome（99.9%）</li>
 <li>interventricular septum aneurysm（99.9%）</li>
 <li>genetic syndromic Pierre Robin syndrome（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/ropeginterferon-alfa-2b/
 <li>partial deletion of the long arm of chromosome 22（99.9%）</li>
 <li>orofacial clefting syndrome（99.9%）</li>
 <li>pulmonary valve disease（99.9%）</li>
+<li>mitral valve disease（99.9%）</li>
+<li>heart disease（99.9%）</li>
+<li>plasmacytoma（99.9%）</li>
+<li>neurolymphomatosis（99.8%）</li>
+<li>polycythemia (disease)（99.3%）</li>
+<li>acquired secondary polycythemia（99.2%）</li>
+<li>congenital secondary polycythemia（99.1%）</li>
+<li>plasma cell myeloma（98.8%）</li>
+<li>indolent plasma cell myeloma（98.8%）</li>
+<li>heart conduction disease（98.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ropeginterferon-alfa-2b/' | relative_url }}">查看完整藥物報告 →</a></p>

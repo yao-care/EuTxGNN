@@ -3,7 +3,7 @@ layout: default
 title: "Cholic Acid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Cholic Acid 的相關健康新聞報導。原適應症：Orphacol is indicated for the treatment of inborn ...。預測適應症 10 個。"
+description: "Cholic Acid 的相關健康新聞報導。原適應症：Orphacol is indicated for the treatment of inborn ...。預測適應症 20 個。"
 permalink: /news/cholic-acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cholic-acid/
 ---
 
 <p class="key-answer" data-question="Cholic Acid 有什麼相關新聞？">
-<strong>Cholic Acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cholic Acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cholic-acid/
 <ul>
 <li><strong>原適應症</strong>：Orphacol is indicated for the treatment of inborn errors in primary bile acid synthesis due to3β-Hydroxy-Δ5-C27-steroid oxidoreductase deficiency or Δ4-3-Oxosteroid-5β-reductase deficiency ininfants,...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>cholelithiasis（99.9%）</li>
 <li>HIV infectious disease（99.8%）</li>
 <li>obsolete familial combined hyperlipidemia（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/cholic-acid/
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.7%）</li>
 <li>hemosiderosis（99.7%）</li>
 <li>disorder of phenylalanine metabolism（99.6%）</li>
+<li>bone Paget disease（99.6%）</li>
+<li>inborn error of biotin metabolism（99.6%）</li>
+<li>feline acquired immunodeficiency syndrome（99.6%）</li>
+<li>simian immunodeficiency virus infection（99.6%）</li>
+<li>obsolete rare hereditary hemochromatosis（99.5%）</li>
+<li>hyperphenylalaninemia due to tetrahydrobiopterin deficiency（99.5%）</li>
+<li>inborn disorder of pyridoxine metabolism（99.5%）</li>
+<li>Wilson disease（99.4%）</li>
+<li>constitutional megaloblastic anemia due to folate metabolism disorder（99.4%）</li>
+<li>cerebral folate deficiency（99.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cholic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Mirabegron 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Mirabegron 的相關健康新聞報導。原適應症：Overactive bladder in adults&nbsp;  Betmiga prolon...。預測適應症 10 個。"
+description: "Mirabegron 的相關健康新聞報導。原適應症：Overactive bladder in adults&nbsp;  Betmiga prolon...。預測適應症 20 個。"
 permalink: /news/mirabegron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mirabegron/
 ---
 
 <p class="key-answer" data-question="Mirabegron 有什麼相關新聞？">
-<strong>Mirabegron</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mirabegron</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/mirabegron/
 <ul>
 <li><strong>原適應症</strong>：Overactive bladder in adults&nbsp;  Betmiga prolonged-release tablets are indicated for symptomatic treatment of urgency, increased micturition frequency and/or urgency incontinence as may occur in...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>overactive bladder (disease)（93.2%）</li>
 <li>thoracic malformation（83.1%）</li>
 <li>renal-hepatic-pancreatic dysplasia（82.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/mirabegron/
 <li>esophageal varices with bleeding（80.0%）</li>
 <li>hypotrichosis simplex of the scalp（79.5%）</li>
 <li>karyomegalic interstitial nephritis（79.2%）</li>
+<li>congenital hypotrichosis milia（77.5%）</li>
+<li>16q24.1 microdeletion syndrome（75.2%）</li>
+<li>primary interstitial lung disease specific to childhood（74.2%）</li>
+<li>isolated pulmonary capillaritis（73.4%）</li>
+<li>low compliance bladder（73.2%）</li>
+<li>diffuse alopecia areata（71.4%）</li>
+<li>congenital pulmonary lymphangiectasia（67.8%）</li>
+<li>polycystic kidney disease（66.7%）</li>
+<li>varicose disease（64.3%）</li>
+<li>autosomal ichthyosis syndrome with fatal disease course（63.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mirabegron/' | relative_url }}">查看完整藥物報告 →</a></p>

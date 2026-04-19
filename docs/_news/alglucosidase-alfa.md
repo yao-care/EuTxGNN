@@ -3,7 +3,7 @@ layout: default
 title: "Alglucosidase Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alglucosidase Alfa 的相關健康新聞報導。原適應症：Myozyme is indicated for long-term enzyme-replacem...。預測適應症 10 個。"
+description: "Alglucosidase Alfa 的相關健康新聞報導。原適應症：Myozyme is indicated for long-term enzyme-replacem...。預測適應症 20 個。"
 permalink: /news/alglucosidase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alglucosidase-alfa/
 ---
 
 <p class="key-answer" data-question="Alglucosidase Alfa 有什麼相關新聞？">
-<strong>Alglucosidase Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alglucosidase Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/alglucosidase-alfa/
 <ul>
 <li><strong>原適應症</strong>：Myozyme is indicated for long-term enzyme-replacement therapy (ERT) in patients with a confirmed diagnosis of Pompe disease (acid-?-glucosidase deficiency). In patients with late-onset Pompe disease...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>adult polyglucosan body disease（99.5%）</li>
 <li>glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form（99.3%）</li>
 <li>glycogen storage disease due to glycogen branching enzyme deficiency, fatal perinatal neuromuscular form（99.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/alglucosidase-alfa/
 <li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye（99.1%）</li>
 <li>epiblepharon（99.1%）</li>
 <li>ptosis-strabismus-ectopic pupils syndrome（99.1%）</li>
+<li>tricarboxylic acid cycle disorder（99.1%）</li>
+<li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome（99.0%）</li>
+<li>mucopolysaccharidosis（99.0%）</li>
+<li>jaw-winking syndrome（99.0%）</li>
+<li>disease of transporter activity（99.0%）</li>
+<li>glycogen storage disease（98.9%）</li>
+<li>glycogen storage disease due to glycogen branching enzyme deficiency, adult neuromuscular form（98.8%）</li>
+<li>glycogen storage disease due to glycogen branching enzyme deficiency, childhood neuromuscular form（98.8%）</li>
+<li>glycogen storage disease due to glycogen branching enzyme deficiency, childhood combined hepatic and myopathic form（98.8%）</li>
+<li>glycogen storage disease due to glycogen branching enzyme deficiency, progressive hepatic form（98.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alglucosidase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

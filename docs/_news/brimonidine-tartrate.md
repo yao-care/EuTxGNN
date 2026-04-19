@@ -3,7 +3,7 @@ layout: default
 title: "Brimonidine Tartrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Brimonidine Tartrate 的相關健康新聞報導。原適應症：Mirvaso is indicated for the symptomatic treatment...。預測適應症 10 個。"
+description: "Brimonidine Tartrate 的相關健康新聞報導。原適應症：Mirvaso is indicated for the symptomatic treatment...。預測適應症 20 個。"
 permalink: /news/brimonidine-tartrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brimonidine-tartrate/
 ---
 
 <p class="key-answer" data-question="Brimonidine Tartrate 有什麼相關新聞？">
-<strong>Brimonidine Tartrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brimonidine Tartrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/brimonidine-tartrate/
 <ul>
 <li><strong>原適應症</strong>：Mirvaso is indicated for the symptomatic treatment of facial erythema of rosacea in adult patients.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>papillary conjunctivitis（98.5%）</li>
 <li>primary hereditary glaucoma（96.9%）</li>
 <li>open-angle glaucoma（96.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/brimonidine-tartrate/
 <li>diffuse alopecia areata（94.0%）</li>
 <li>annular atrophic lichen planus（93.2%）</li>
 <li>lichen planus pigmentosus（93.2%）</li>
+<li>hypertrophic lichen planus（93.2%）</li>
+<li>lichen planus pemphigoides（92.2%）</li>
+<li>rosacea（92.0%）</li>
+<li>headache disorder（91.0%）</li>
+<li>Ambras type hypertrichosis universalis congenita（90.2%）</li>
+<li>malformation syndrome with odontal and/or periodontal component（90.1%）</li>
+<li>trigeminal autonomic cephalalgia（89.9%）</li>
+<li>alopecia（89.1%）</li>
+<li>syndrome with a Dandy-Walker malformation as major feature（89.0%）</li>
+<li>glossodynia（88.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brimonidine-tartrate/' | relative_url }}">查看完整藥物報告 →</a></p>

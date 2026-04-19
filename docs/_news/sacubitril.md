@@ -3,7 +3,7 @@ layout: default
 title: "Sacubitril 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sacubitril 的相關健康新聞報導。原適應症：Paediatric heart failure Neparvis is indicated in ...。預測適應症 10 個。"
+description: "Sacubitril 的相關健康新聞報導。原適應症：Paediatric heart failure Neparvis is indicated in ...。預測適應症 20 個。"
 permalink: /news/sacubitril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sacubitril</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/sacubitril/
 <ul>
 <li><strong>原適應症</strong>：Paediatric heart failure Neparvis is indicated in children and adolescents aged one year or older for treatment of symptomatic chronic heart failure with left ventricular systolic dysfunction (see...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>brain small vessel disease 1 with or without ocular anomalies（99.6%）</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（99.6%）</li>
 <li>diabetic nephropathy（99.5%）</li>
@@ -37,12 +37,30 @@ permalink: /news/sacubitril/
 <li>homozygous familial hypercholesterolemia（98.9%）</li>
 <li>partial deletion of the short arm of chromosome 16（98.8%）</li>
 <li>beta-thalassemia with other manifestations（98.8%）</li>
+<li>blindness (disorder)（98.8%）</li>
+<li>pyropoikilocytosis, hereditary（98.8%）</li>
+<li>migraine disorder（98.8%）</li>
+<li>migraine with brainstem aura（98.7%）</li>
+<li>brachydactyly-syndactyly syndrome（98.7%）</li>
+<li>pyruvate kinase deficiency of red cells（98.6%）</li>
+<li>hemolytic anemia due to glucophosphate isomerase deficiency（98.6%）</li>
+<li>gout（98.6%）</li>
+<li>postmenopausal osteoporosis（98.6%）</li>
+<li>myocardial infarction（98.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（13 則）
+
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
+
+2026-04-19 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
+
+---
 
 ### [Remisión de la diabetes tipo 2: la pérdida de peso, factor clave para lograr el objetivo - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
 
@@ -60,11 +78,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Las grasas monoinsaturadas se asocian con un menor riesgo de diabetes tipo 2 - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-17 <span class="news-indication-tag">diabetes mellitus</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
 
 ---
 
@@ -89,14 +107,6 @@ permalink: /news/sacubitril/
 2026-04-17 <span class="news-indication-tag">diabete</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE43ZGRRbVdlNGNHYWdDMDRybE5jSG9LbzdzaXQzWWMxYXRwb2F4a2tZeFlQZVNEOUgwVUhieWFRNjAzR1k0cVNfTU1BaXlRSVV6bEF0bVRoNFFMSlkzMG1JWTJ0Z1pkMGJfaUdEWlloM3ZkVHNmSUtSd3NLQ2Z0VWNLMkFHcjNKc1FNV2ZuamhPODRoTWl3bEJTcy12S05IOFpB0gGQAUFVX3lxTFA0bmJUdXVkQTQyRXlJeHhfT3RJVmdQVENqdkNQM3NMLUYzTWhFQlg3WGRObzhPcFN4Q1JzMVhKLUFMdkJJNThUNnM3R21ZbXZwMXFuMFQyQWhXV3dDYVI5RWJ2akN5aGRIdWVGWVN0Z0VET3l2SHdIYVhUSFZlNnJGWGFKVmVjNkdra2NoZmNOSg?oc=5)
-
----
-
-### [El Hospital público Puerta de Hierro, primero de España en implementar un cribado basado en pruebas de laboratorio que detecta enfermedades hepáticas en pacientes con diabetes - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
 
 ---
 

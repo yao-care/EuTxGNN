@@ -3,7 +3,7 @@ layout: default
 title: "Indacaterol Maleate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Indacaterol Maleate 的相關健康新聞報導。原適應症：Ulunar Breezhaler is indicated as a maintenance br...。預測適應症 10 個。"
+description: "Indacaterol Maleate 的相關健康新聞報導。原適應症：Ulunar Breezhaler is indicated as a maintenance br...。預測適應症 20 個。"
 permalink: /news/indacaterol-maleate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="Indacaterol Maleate 有什麼相關新聞？">
-<strong>Indacaterol Maleate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Indacaterol Maleate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/indacaterol-maleate/
 <ul>
 <li><strong>原適應症</strong>：Ulunar Breezhaler is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis（99.5%）</li>
 <li>headache disorder（99.5%）</li>
 <li>trigeminal autonomic cephalalgia（99.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/indacaterol-maleate/
 <li>myositis（99.1%）</li>
 <li>anaphylaxis（99.1%）</li>
 <li>Ambras type hypertrichosis universalis congenita（99.1%）</li>
+<li>renin-angiotensin-aldosterone system-blocker-induced angioedema（99.0%）</li>
+<li>malformation syndrome with odontal and/or periodontal component（99.0%）</li>
+<li>syndrome with a Dandy-Walker malformation as major feature（99.0%）</li>
+<li>rheumatoid arthritis（99.0%）</li>
+<li>manic bipolar affective disorder（99.0%）</li>
+<li>isolated genetic hair shaft abnormality（98.9%）</li>
+<li>severe pre-eclampsia（98.9%）</li>
+<li>exostosis（98.9%）</li>
+<li>hypotrichosis simplex of the scalp（98.9%）</li>
+<li>idiopathic granulomatous myositis（98.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/indacaterol-maleate/
 
 ## 相關新聞（1 則）
 
-### [Zwei Biomarker werden bei Asthma zum Standard](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 

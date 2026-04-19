@@ -3,7 +3,7 @@ layout: default
 title: "Ganaxolone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ganaxolone 的相關健康新聞報導。原適應症：Ztalmy is indicated for the adjunctive treatment o...。預測適應症 10 個。"
+description: "Ganaxolone 的相關健康新聞報導。原適應症：Ztalmy is indicated for the adjunctive treatment o...。預測適應症 20 個。"
 permalink: /news/ganaxolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ganaxolone/
 ---
 
 <p class="key-answer" data-question="Ganaxolone 有什麼相關新聞？">
-<strong>Ganaxolone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ganaxolone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ganaxolone/
 <ul>
 <li><strong>原適應症</strong>：Ztalmy is indicated for the adjunctive treatment of epileptic seizures associated with cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) in patients 2 to 17 years of age. Ztalmy may be...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>alcohol withdrawal delirium（94.8%）</li>
 <li>hallucinogen abuse（93.1%）</li>
 <li>barbiturate abuse（93.1%）</li>
@@ -37,6 +37,16 @@ permalink: /news/ganaxolone/
 <li>gaze palsy, familial horizontal, with progressive scoliosis（77.0%）</li>
 <li>asperger syndrome, susceptibility to（76.1%）</li>
 <li>autism susceptibility 1（75.5%）</li>
+<li>drug dependence（74.7%）</li>
+<li>alcohol-related disorders（73.3%）</li>
+<li>amelocerebrohypohidrotic syndrome（73.1%）</li>
+<li>Wernicke-Korsakoff syndrome（72.7%）</li>
+<li>autism, susceptibility to（72.0%）</li>
+<li>intellectual disability（71.0%）</li>
+<li>adenosarcoma（70.7%）</li>
+<li>uterine ligament adenosarcoma（70.7%）</li>
+<li>16q24.3 microdeletion syndrome（70.1%）</li>
+<li>chromosome 15q11.2 deletion syndrome（69.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ganaxolone/' | relative_url }}">查看完整藥物報告 →</a></p>

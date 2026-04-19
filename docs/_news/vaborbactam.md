@@ -3,7 +3,7 @@ layout: default
 title: "Vaborbactam 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vaborbactam 的相關健康新聞報導。原適應症：Vaborem is indicated for the treatment of the foll...。預測適應症 10 個。"
+description: "Vaborbactam 的相關健康新聞報導。原適應症：Vaborem is indicated for the treatment of the foll...。預測適應症 20 個。"
 permalink: /news/vaborbactam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vaborbactam/
 ---
 
 <p class="key-answer" data-question="Vaborbactam 有什麼相關新聞？">
-<strong>Vaborbactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vaborbactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/vaborbactam/
 <ul>
 <li><strong>原適應症</strong>：Vaborem is indicated for the treatment of the following infections in adults:  Complicated urinary tract infection (cUTI), including pyelonephritis Complicated intra-abdominal infection (cIAI)...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>osteoarthritis（98.5%）</li>
 <li>osteoarthritis susceptibility（98.3%）</li>
 <li>rheumatoid arthritis（98.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/vaborbactam/
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（97.4%）</li>
 <li>acromesomelic dysplasia, Hunter-Thompson type（97.4%）</li>
 <li>brachyolmia-amelogenesis imperfecta syndrome（97.3%）</li>
+<li>myosclerosis（97.3%）</li>
+<li>idiopathic copper-associated cirrhosis（97.3%）</li>
+<li>hepatoportal sclerosis（97.3%）</li>
+<li>primitive portal vein thrombosis（97.3%）</li>
+<li>early-onset familial noncirrhotic portal hypertension（97.3%）</li>
+<li>hepatopulmonary syndrome（97.3%）</li>
+<li>arthropathy（97.0%）</li>
+<li>hemoglobinopathy（96.8%）</li>
+<li>brachydactyly-syndactyly syndrome（96.7%）</li>
+<li>congestive heart failure（96.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vaborbactam/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/vaborbactam/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

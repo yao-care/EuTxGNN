@@ -3,7 +3,7 @@ layout: default
 title: "Sparsentan 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sparsentan 的相關健康新聞報導。原適應症：Filspari is indicated for the treatment of adults ...。預測適應症 10 個。"
+description: "Sparsentan 的相關健康新聞報導。原適應症：Filspari is indicated for the treatment of adults ...。預測適應症 20 個。"
 permalink: /news/sparsentan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sparsentan/
 ---
 
 <p class="key-answer" data-question="Sparsentan 有什麼相關新聞？">
-<strong>Sparsentan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sparsentan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/sparsentan/
 <ul>
 <li><strong>原適應症</strong>：Filspari is indicated for the treatment of adults with primary immunoglobulin A nephropathy (IgAN) with a urine protein excretion &gt; 1.0 g/day (or urine protein-to-creatinine ratio &gt; 0.75 g/g,...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>alopecia（94.5%）</li>
 <li>congenital hypotrichosis milia（94.5%）</li>
 <li>hypotrichosis simplex of the scalp（94.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/sparsentan/
 <li>potassium deficiency disease（91.7%）</li>
 <li>pulmonary arteriovenous malformation (disease)（91.2%）</li>
 <li>fetal erythroblastosis（91.2%）</li>
+<li>open-angle glaucoma（91.1%）</li>
+<li>lichen planus pemphigoides（91.0%）</li>
+<li>pulmonary arterial hypertension（91.0%）</li>
+<li>hypertrophic lichen planus（90.9%）</li>
+<li>annular atrophic lichen planus（90.9%）</li>
+<li>lichen planus pigmentosus（90.9%）</li>
+<li>primary hereditary glaucoma（90.3%）</li>
+<li>amyopathic dermatomyositis（89.7%）</li>
+<li>acrodermatitis chronica atrophicans（89.7%）</li>
+<li>psoriasis（89.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sparsentan/' | relative_url }}">查看完整藥物報告 →</a></p>

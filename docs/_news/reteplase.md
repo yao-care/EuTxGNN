@@ -3,7 +3,7 @@ layout: default
 title: "Reteplase 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Reteplase 的相關健康新聞報導。原適應症：Rapilysin is indicated for the thrombolytic treatm...。預測適應症 10 個。"
+description: "Reteplase 的相關健康新聞報導。原適應症：Rapilysin is indicated for the thrombolytic treatm...。預測適應症 20 個。"
 permalink: /news/reteplase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/reteplase/
 ---
 
 <p class="key-answer" data-question="Reteplase 有什麼相關新聞？">
-<strong>Reteplase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Reteplase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/reteplase/
 <ul>
 <li><strong>原適應症</strong>：Rapilysin is indicated for the thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left bundle branch block within 12 hours after the onset of...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>myocardial infarction（99.9%）</li>
 <li>coronary thrombosis（99.9%）</li>
 <li>posteroinferior myocardial infarction（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/reteplase/
 <li>coronary stenosis（99.6%）</li>
 <li>myocardial infarction (disease)（99.6%）</li>
 <li>heparin cofactor 2 deficiency（99.5%）</li>
+<li>partial deletion of the short arm of chromosome 16（99.3%）</li>
+<li>beta-thalassemia with other manifestations（99.3%）</li>
+<li>antithrombin deficiency type 2（99.2%）</li>
+<li>hemolytic anemia due to glucophosphate isomerase deficiency（99.2%）</li>
+<li>factor 5 excess with spontaneous thrombosis（99.2%）</li>
+<li>pyropoikilocytosis, hereditary（99.2%）</li>
+<li>pyruvate kinase deficiency of red cells（99.1%）</li>
+<li>thrombophilia（99.1%）</li>
+<li>pulmonary embolism (disease)（98.1%）</li>
+<li>primary release disorder of platelets（95.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/reteplase/' | relative_url }}">查看完整藥物報告 →</a></p>

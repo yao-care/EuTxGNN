@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。8 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>8 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
 ### [Dark side of Europe's chemsex scene with party-goers left to die & doctors on brink as hook-up apps fuel deadly crisis - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTU3LVpVbWNrek5UREpIQm9tbjlFNHNUTkNNRm9YaWNyc18tVmdGMExCVERZdDloQnVjQndfbmI2RGh4Z0I2enNCQlhkSG9kOUZNd2drYkVVR0ZLMTZrVk4tWk1pbGFNUDJrb2kwTW55b0xINW9ZU0VNaVc5enc1Q1hrXzA?oc=5)
 
 2026-04-18
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTU3LVpVbWNrek5UREpIQm9tbjlFNHNUTkNNRm9YaWNyc18tVmdGMExCVERZdDloQnVjQndfbmI2RGh4Z0I2enNCQlhkSG9kOUZNd2drYkVVR0ZLMTZrVk4tWk1pbGFNUDJrb2kwTW55b0xINW9ZU0VNaVc5enc1Q1hrXzA?oc=5)
-
----
-
-### [Study links lung cancer to eating fruits and veg: What this means - Medical News Today](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVlma1VXWFhMYTl2V0VmNDR2bThBQXdUMGlEZVpxeUlzVmc3OEF3RXUxQmJ5MF9pTHp4bzY3UHNSUTJrb2tUTWhtZ2Q0UTlmd1NnMjFja293dm1rSVktbkotYl9yOXpJX3Vhbzc0dlUtRUJWRkZHRlB5S29jQWJybVFSYzdiTkV5dmtrNWN1RkR3M1pHWGJRMXFNVnY4TGRKY2xTaVZJLWp4QVhORmduNlF4UFVsaE1IM19fZW9nU0NaZHA0MEhHekRaT3l5UkM3Smg5LQ?oc=5)
-
-2026-04-17
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVlma1VXWFhMYTl2V0VmNDR2bThBQXdUMGlEZVpxeUlzVmc3OEF3RXUxQmJ5MF9pTHp4bzY3UHNSUTJrb2tUTWhtZ2Q0UTlmd1NnMjFja293dm1rSVktbkotYl9yOXpJX3Vhbzc0dlUtRUJWRkZHRlB5S29jQWJybVFSYzdiTkV5dmtrNWN1RkR3M1pHWGJRMXFNVnY4TGRKY2xTaVZJLWp4QVhORmduNlF4UFVsaE1IM19fZW9nU0NaZHA0MEhHekRaT3l5UkM3Smg5LQ?oc=5)
 
 ---
 
@@ -80,19 +72,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Terapia anti – Tau e Alzheimer, risultati “promettenti” della ricerca al Mondino - La Provincia Pavese](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTBmUDZWZUJpc2VCazl4UXh5ajRmM3BwbGFkbGY0bm5uM19DU1Fra3U0VjI3bGJJVENjdENvNlFuNXNfeW84dFpmS1RoSWx2Vk5wandIczZjc0dTMjZEMUszQUhSSHlpNll6c3V5emZTZkMyY3NPREE2UTl2U19lTTBVS1FOTXlXbUxGV2YzUlRNM0lKOGVlM3otelNBeDMzVnpSYTRfOENXWkwyYUZUYlQzVHdGZFFkcmVCcDBfSDBIaE00M2NuOGdnejdfbXhvbDdfWENzUTdYRGtI0gHiAUFVX3lxTE12Nzgtb1IwdnlxU3dhUWRQenlNMVNOWWtUWFI2WHAyU2syQ3JELTFCYXVmbDR3SVBreUthbnhhZzlMMU1uOG1FU3c0b2hEeHZBZ2hQX3hWNWV6SVprdWN4Z0VoZmx3U2o0X0tvU0dQS2RDT1dET1M3SUNVN1RLdVZiZTVicElEeHBUTmpKNmVZb1FpSVpkaHBFRnJlNG9zbnlZT0Vra1VnZFB1ckNzRkl1cl84alJudTM1NENJc2d1eEhQNWNyNGZkaWtIWFlIQVhRVW14V1dmNl9hb29XSzNzbnc?oc=5)
+### [Could Alzheimer’s Begin in the Nerves, Not the Brain? - Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
 
 2026-04-17
 
-來源：[La Provincia Pavese](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTBmUDZWZUJpc2VCazl4UXh5ajRmM3BwbGFkbGY0bm5uM19DU1Fra3U0VjI3bGJJVENjdENvNlFuNXNfeW84dFpmS1RoSWx2Vk5wandIczZjc0dTMjZEMUszQUhSSHlpNll6c3V5emZTZkMyY3NPREE2UTl2U19lTTBVS1FOTXlXbUxGV2YzUlRNM0lKOGVlM3otelNBeDMzVnpSYTRfOENXWkwyYUZUYlQzVHdGZFFkcmVCcDBfSDBIaE00M2NuOGdnejdfbXhvbDdfWENzUTdYRGtI0gHiAUFVX3lxTE12Nzgtb1IwdnlxU3dhUWRQenlNMVNOWWtUWFI2WHAyU2syQ3JELTFCYXVmbDR3SVBreUthbnhhZzlMMU1uOG1FU3c0b2hEeHZBZ2hQX3hWNWV6SVprdWN4Z0VoZmx3U2o0X0tvU0dQS2RDT1dET1M3SUNVN1RLdVZiZTVicElEeHBUTmpKNmVZb1FpSVpkaHBFRnJlNG9zbnlZT0Vra1VnZFB1ckNzRkl1cl84alJudTM1NENJc2d1eEhQNWNyNGZkaWtIWFlIQVhRVW14V1dmNl9hb29XSzNzbnc?oc=5)
-
----
-
-### [Prostate cancer survivor urges men to get tested](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KaElkelloNmpxVm8tdVlSenhkcGc4ZWJXV0toaC1aYVBsVFNoMmJYMFptRXY3NDFnVjFRam5BcHJ0NFhJUjAwN1hzQ25Ia1dHOVI0RnNlSDcxck96?oc=5)
-
-2026-04-17
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KaElkelloNmpxVm8tdVlSenhkcGc4ZWJXV0toaC1aYVBsVFNoMmJYMFptRXY3NDFnVjFRam5BcHJ0NFhJUjAwN1hzQ25Ia1dHOVI0RnNlSDcxck96?oc=5)
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
 
 ---
 
@@ -112,6 +96,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### ['Re: Diagnose Multiple Sklerose' bei...online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
+
+2026-04-17
+
+來源：[Spielfilm.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
+
+---
+
 ### [Cet oncologue est formel : voici l’aliment à consommer tous les jours pour éviter un cancer colorectal](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSlVoLUJibVp6NnJDS1MtZW41WWNDaDdEZFFqaV8xQ0MteUNOSUd2MkZXU25WOE02SlVDclBKNkFlaXdwajU5X3NEdlFra3pjNGZuQlFrVVc3S1lvcjlEQTBzTzJsMHRIN1RZN0NTa3l2RnJlNF9uZGVGNGJ0ZVpJa0FTV1pLYlpPcG53Q21hZENmOUxRM2pxSmtzamxPYl82ZzlUcS1jeE10aFowY3pSbUlDRTBTVVRpZVFNcVU0LWplZHZIRWxsLWtxUEVLbGVoT05HbzU4Z3hwZTdCc05XSWFyRjFfUWUxQTdz?oc=5)
 
 2026-04-17
@@ -125,14 +117,6 @@ permalink: /news/multiple-sclerosis/
 2026-04-17
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
-
----
-
-### ["Re: Diagnose Multiple Sklerose" verpasst?: TV-Wiederholung und Online-Mediathek im Überblick](https://news.google.com/rss/articles/CBMimAJBVV95cUxPaV9OV1ZoNU1DdUtacXpBYWpQeENHY3RpM1ZYVlNvLXAzRldQRUhVbDRCUFlFWllzTEh5NVhOaExydXZuWmpPZnkxUlUzUkd3REEya2NUb244eGxfY1VpWl9jeE5ka0FMSXJZLXJlQmJiLVFfU2F2QzdtR09aSWJFXzlLMEdTUS1RSXpUcy1mR210UVJYbmhYZ3YwSk9mb2VTdlZyTk9jZWUxUFlUNnR2V1AySzBZenJnR0phcFhSa3hQSTJDMFd1NjNJaHZJQnYtcUFNVG9kWmhvY2J1Ym1Bb1AyVlNVcThZWE9Tb2o1ZW1BMFNzU1BYNk1lMTkwWjNxQ1Fwdnc1S1hIaExWU1A1RWJKd1IxU0120gGeAkFVX3lxTE53cVJoSnBZcXViRm5teVhDdEwydmNTX2xXQkFnMzQ3V1NNVHBYdDE4alI0THVEVGFjSE1ZUXU1a0owOVlhWERVZ055OTVsVUlud05WblBZN0k4YURUUmNYeEV5dU1TcjdGNVpVNEpLcUFTa3c3eGR4YTJXdkhCb3FPdG5WTlVHaHR1cFphRXZnd3Fmdjd3ZEpMRUxCOVhadU5FTVFFWU85Yl9aaVJmZ0VKRW16LUJNeTBCWGhkWU05aWNVaW91MVNwbFQyQ3R3aF9vX1lybmxvR2JueW5rQldtUnRCakwzeFdkUm9JUWU1TF8xa21zd0p5aWoyNE4xMTIzNzR0SnN5cFRxTUR6ZzJZRHZaVW8wLXhhZWdZS2c?oc=5)
-
-2026-04-16
-
-來源：[News.de](https://news.google.com/rss/articles/CBMimAJBVV95cUxPaV9OV1ZoNU1DdUtacXpBYWpQeENHY3RpM1ZYVlNvLXAzRldQRUhVbDRCUFlFWllzTEh5NVhOaExydXZuWmpPZnkxUlUzUkd3REEya2NUb244eGxfY1VpWl9jeE5ka0FMSXJZLXJlQmJiLVFfU2F2QzdtR09aSWJFXzlLMEdTUS1RSXpUcy1mR210UVJYbmhYZ3YwSk9mb2VTdlZyTk9jZWUxUFlUNnR2V1AySzBZenJnR0phcFhSa3hQSTJDMFd1NjNJaHZJQnYtcUFNVG9kWmhvY2J1Ym1Bb1AyVlNVcThZWE9Tb2o1ZW1BMFNzU1BYNk1lMTkwWjNxQ1Fwdnc1S1hIaExWU1A1RWJKd1IxU0120gGeAkFVX3lxTE53cVJoSnBZcXViRm5teVhDdEwydmNTX2xXQkFnMzQ3V1NNVHBYdDE4alI0THVEVGFjSE1ZUXU1a0owOVlhWERVZ055OTVsVUlud05WblBZN0k4YURUUmNYeEV5dU1TcjdGNVpVNEpLcUFTa3c3eGR4YTJXdkhCb3FPdG5WTlVHaHR1cFphRXZnd3Fmdjd3ZEpMRUxCOVhadU5FTVFFWU85Yl9aaVJmZ0VKRW16LUJNeTBCWGhkWU05aWNVaW91MVNwbFQyQ3R3aF9vX1lybmxvR2JueW5rQldtUnRCakwzeFdkUm9JUWU1TF8xa21zd0p5aWoyNE4xMTIzNzR0SnN5cFRxTUR6ZzJZRHZaVW8wLXhhZWdZS2c?oc=5)
 
 ---
 

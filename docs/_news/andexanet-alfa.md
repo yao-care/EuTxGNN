@@ -3,7 +3,7 @@ layout: default
 title: "Andexanet Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Andexanet Alfa 的相關健康新聞報導。原適應症：For adult patients treated with a direct factor Xa...。預測適應症 10 個。"
+description: "Andexanet Alfa 的相關健康新聞報導。原適應症：For adult patients treated with a direct factor Xa...。預測適應症 20 個。"
 permalink: /news/andexanet-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/andexanet-alfa/
 ---
 
 <p class="key-answer" data-question="Andexanet Alfa 有什麼相關新聞？">
-<strong>Andexanet Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Andexanet Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/andexanet-alfa/
 <ul>
 <li><strong>原適應症</strong>：For adult patients treated with a direct factor Xa (FXa) inhibitor (apixaban or rivaroxaban) when reversal of anticoagulation is needed due to life-threatening or uncontrolled bleeding.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>Glanzmann thrombasthenia（99.8%）</li>
 <li>primary release disorder of platelets（99.8%）</li>
 <li>pseudo-von Willebrand disease（99.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/andexanet-alfa/
 <li>Scott syndrome（98.7%）</li>
 <li>congenital prothrombin deficiency（98.4%）</li>
 <li>hereditary thrombocytosis with transverse limb defect（97.2%）</li>
+<li>familial thrombomodulin anomalies（97.1%）</li>
+<li>flood factor deficiency（97.1%）</li>
+<li>fetal and neonatal alloimmune thrombocytopenia（96.6%）</li>
+<li>platelet-type bleeding disorder（96.2%）</li>
+<li>methylcobalamin deficiency type cblG（94.6%）</li>
+<li>autosomal dominant macrothrombocytopenia（93.9%）</li>
+<li>drug-induced osteoporosis（93.8%）</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type（93.1%）</li>
+<li>renal osteodystrophy（91.2%）</li>
+<li>inherited thrombophilia（91.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/andexanet-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

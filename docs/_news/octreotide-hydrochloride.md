@@ -3,7 +3,7 @@ layout: default
 title: "Octreotide Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Octreotide Hydrochloride 的相關健康新聞報導。原適應症：Oczyesa is indicated for maintenance treatment in ...。預測適應症 10 個。"
+description: "Octreotide Hydrochloride 的相關健康新聞報導。原適應症：Oczyesa is indicated for maintenance treatment in ...。預測適應症 20 個。"
 permalink: /news/octreotide-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/octreotide-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Octreotide Hydrochloride 有什麼相關新聞？">
-<strong>Octreotide Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Octreotide Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/octreotide-hydrochloride/
 <ul>
 <li><strong>原適應症</strong>：Oczyesa is indicated for maintenance treatment in adult patients with acromegaly who have responded to and tolerated treatment with somatostatin analogues.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>vulvar inverted follicular keratosis（99.6%）</li>
 <li>seborrheic keratosis（99.5%）</li>
 <li>nephrotic syndrome ocular anomalies（98.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/octreotide-hydrochloride/
 <li>adrenocortical insufficiency（98.5%）</li>
 <li>primary hypereosinophilic syndrome（98.4%）</li>
 <li>autosomal recessive familial Mediterranean fever（98.3%）</li>
+<li>primary hereditary glaucoma（98.2%）</li>
+<li>secondary hypereosinophilic syndrome（98.1%）</li>
+<li>familial nephrotic syndrome（98.0%）</li>
+<li>open-angle glaucoma（98.0%）</li>
+<li>familial Mediterranean fever, autosomal dominant（97.8%）</li>
+<li>retinal telangiectasia（97.8%）</li>
+<li>renal-hepatic-pancreatic dysplasia（97.7%）</li>
+<li>Smouldering systemic mastocytosis（97.7%）</li>
+<li>gout（97.5%）</li>
+<li>lymphoadenopathic mastocytosis with eosinophilia（97.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/octreotide-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>

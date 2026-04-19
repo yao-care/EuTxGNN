@@ -3,7 +3,7 @@ layout: default
 title: "Etelcalcetide Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Etelcalcetide Hydrochloride 的相關健康新聞報導。原適應症：Parsabiv is indicated for the treatment of seconda...。預測適應症 10 個。"
+description: "Etelcalcetide Hydrochloride 的相關健康新聞報導。原適應症：Parsabiv is indicated for the treatment of seconda...。預測適應症 20 個。"
 permalink: /news/etelcalcetide-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/etelcalcetide-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Etelcalcetide Hydrochloride 有什麼相關新聞？">
-<strong>Etelcalcetide Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Etelcalcetide Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/etelcalcetide-hydrochloride/
 <ul>
 <li><strong>原適應症</strong>：Parsabiv is indicated for the treatment of secondary hyperparathyroidism (SHPT) in adult patients with chronic kidney disease (CKD) on haemodialysis therapy.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>hyperphosphatemia (disease)（99.4%）</li>
 <li>esophageal varices with bleeding（99.3%）</li>
 <li>esophageal varices without bleeding（99.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/etelcalcetide-hydrochloride/
 <li>primary immunodeficiency syndrome due to p14 deficiency（98.6%）</li>
 <li>severe congenital neutropenia（97.9%）</li>
 <li>Barth syndrome（97.8%）</li>
+<li>familial apolipoprotein C-II deficiency（97.6%）</li>
+<li>autosomal recessive severe congenital neutropenia due to JAGN1 deficiency（97.5%）</li>
+<li>cyclic hematopoiesis（97.4%）</li>
+<li>Steel syndrome（97.4%）</li>
+<li>familial hyperphosphatemic tumoral calcinosis/hyperphosphatemic hyperostosis syndrome（97.4%）</li>
+<li>tumoral calcinosis, hyperphosphatemic, familial（97.3%）</li>
+<li>autosomal recessive severe congenital neutropenia due to G6PC3 deficiency（97.1%）</li>
+<li>autosomal recessive severe congenital neutropenia due to CSF3R deficiency（97.0%）</li>
+<li>autosomal recessive severe congenital neutropenia due to CXCR2 deficiency（96.9%）</li>
+<li>X-linked severe congenital neutropenia（96.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etelcalcetide-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>

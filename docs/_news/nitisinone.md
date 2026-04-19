@@ -3,7 +3,7 @@ layout: default
 title: "Nitisinone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Nitisinone 的相關健康新聞報導。原適應症：Treatment of adult and paediatric patients with co...。預測適應症 10 個。"
+description: "Nitisinone 的相關健康新聞報導。原適應症：Treatment of adult and paediatric patients with co...。預測適應症 20 個。"
 permalink: /news/nitisinone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nitisinone/
 ---
 
 <p class="key-answer" data-question="Nitisinone 有什麼相關新聞？">
-<strong>Nitisinone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitisinone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/nitisinone/
 <ul>
 <li><strong>原適應症</strong>：Treatment of adult and paediatric patients with confirmed diagnosis of hereditary tyrosinemia type 1 (HT-1) in combination with dietary restriction of tyrosine and phenylalanine.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>renal tubular acidosis（100.0%）</li>
 <li>galactosemia（100.0%）</li>
 <li>serpinopathy with toxic serpin polymerization（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/nitisinone/
 <li>Griscelli syndrome（99.9%）</li>
 <li>granulomatous disease, chronic, X-linked（99.9%）</li>
 <li>ermine phenotype（99.9%）</li>
+<li>ocular albinism (disease)（99.9%）</li>
+<li>piebaldism（99.9%）</li>
+<li>ocular albinism with sensorineural deafness（99.9%）</li>
+<li>anemia, nonspherocytic hemolytic, due to G6PD deficiency（99.8%）</li>
+<li>cold agglutinin disease（99.8%）</li>
+<li>primary CD59 deficiency（99.8%）</li>
+<li>hemolytic anemia due to diphosphoglycerate mutase deficiency（99.8%）</li>
+<li>cholelithiasis（99.8%）</li>
+<li>albinism（99.8%）</li>
+<li>classic galactosemia（99.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitisinone/' | relative_url }}">查看完整藥物報告 →</a></p>

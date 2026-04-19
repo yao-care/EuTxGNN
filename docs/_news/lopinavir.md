@@ -3,7 +3,7 @@ layout: default
 title: "Lopinavir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lopinavir 的相關健康新聞報導。原適應症：Lopinavir/ritonavir is indicated in combination wi...。預測適應症 10 個。"
+description: "Lopinavir 的相關健康新聞報導。原適應症：Lopinavir/ritonavir is indicated in combination wi...。預測適應症 20 個。"
 permalink: /news/lopinavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lopinavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lopinavir/
 <ul>
 <li><strong>原適應症</strong>：Lopinavir/ritonavir is indicated in combination with other antiretroviral medicinal products for the treatment of human immunodeficiency virus (HIV-1) infected adults, adolescents and children above...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（100.0%）</li>
 <li>simian immunodeficiency virus infection（99.9%）</li>
 <li>feline acquired immunodeficiency syndrome（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/lopinavir/
 <li>congenital human immunodeficiency virus（98.2%）</li>
 <li>obsolete familial combined hyperlipidemia（95.2%）</li>
 <li>hepatitis B virus infection（93.2%）</li>
+<li>hepatitis C virus infection（88.3%）</li>
+<li>fibroma of prostate（87.1%）</li>
+<li>Brenner tumor（86.3%）</li>
+<li>benign reproductive system neoplasm（86.2%）</li>
+<li>benign prostate phyllodes tumor（85.6%）</li>
+<li>hepatitis E virus infection（85.4%）</li>
+<li>hepatitis, viral, animal（85.2%）</li>
+<li>hepatitis A virus infection（85.0%）</li>
+<li>Omsk hemorrhagic fever（84.8%）</li>
+<li>Kyasanur forest disease（84.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>

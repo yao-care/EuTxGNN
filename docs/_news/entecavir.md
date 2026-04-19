@@ -3,7 +3,7 @@ layout: default
 title: "Entecavir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Entecavir 的相關健康新聞報導。原適應症：Entecavir Accord is indicated for the treatment of...。預測適應症 10 個。"
+description: "Entecavir 的相關健康新聞報導。原適應症：Entecavir Accord is indicated for the treatment of...。預測適應症 20 個。"
 permalink: /news/entecavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/entecavir/
 ---
 
 <p class="key-answer" data-question="Entecavir 有什麼相關新聞？">
-<strong>Entecavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Entecavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/entecavir/
 <ul>
 <li><strong>原適應症</strong>：Entecavir Accord is indicated for the treatment of chronic hepatitis B virus (HBV) infection in adults with:  compensated liver disease and evidence of active viral replication, persistently elevated...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>chronic hepatitis C virus infection（100.0%）</li>
 <li>hepatitis B virus infection（99.8%）</li>
 <li>HIV infectious disease（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/entecavir/
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.6%）</li>
 <li>hepatitis, viral, animal（99.5%）</li>
 <li>hepatitis E virus infection（99.5%）</li>
+<li>hepatitis A virus infection（99.4%）</li>
+<li>Omsk hemorrhagic fever（99.4%）</li>
+<li>Kyasanur forest disease（99.4%）</li>
+<li>early-onset familial noncirrhotic portal hypertension（97.9%）</li>
+<li>hepatoportal sclerosis（97.9%）</li>
+<li>hepatopulmonary syndrome（97.9%）</li>
+<li>idiopathic copper-associated cirrhosis（97.9%）</li>
+<li>primitive portal vein thrombosis（97.9%）</li>
+<li>obsolete familial combined hyperlipidemia（97.6%）</li>
+<li>hepatic porphyria（97.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/entecavir/' | relative_url }}">查看完整藥物報告 →</a></p>

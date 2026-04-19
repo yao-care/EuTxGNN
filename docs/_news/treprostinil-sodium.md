@@ -3,7 +3,7 @@ layout: default
 title: "Treprostinil Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Treprostinil Sodium 的相關健康新聞報導。原適應症：Treatment of adult patients with WHO Functional Cl...。預測適應症 10 個。"
+description: "Treprostinil Sodium 的相關健康新聞報導。原適應症：Treatment of adult patients with WHO Functional Cl...。預測適應症 20 個。"
 permalink: /news/treprostinil-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/treprostinil-sodium/
 <ul>
 <li><strong>原適應症</strong>：Treatment of adult patients with WHO Functional Class (FC) III or IV and:  inoperable chronic thromboembolic pulmonary hypertension (CTEPH), or persistent or recurrent CTEPH after surgical treatment ...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>pulmonary arteriovenous malformation (disease)（99.7%）</li>
 <li>pulmonary arterial hypertension（99.6%）</li>
 <li>pulmonary arterial hypertension associated with congenital heart disease（99.6%）</li>
@@ -37,20 +37,24 @@ permalink: /news/treprostinil-sodium/
 <li>hypotrichosis simplex of the scalp（99.5%）</li>
 <li>congenital hypotrichosis milia（99.3%）</li>
 <li>malformation syndrome with odontal and/or periodontal component（99.2%）</li>
+<li>Ambras type hypertrichosis universalis congenita（99.2%）</li>
+<li>diffuse alopecia areata（99.2%）</li>
+<li>hypertrichosis (disease)（99.2%）</li>
+<li>syndrome with a Dandy-Walker malformation as major feature（99.1%）</li>
+<li>isolated genetic hair shaft abnormality（99.1%）</li>
+<li>alopecia（98.5%）</li>
+<li>pulmonary hypertension, primary, autosomal recessive（97.8%）</li>
+<li>obsolete patella aplasia, coxa vara, and tarsal synostosis（97.8%）</li>
+<li>telangiectasia, hereditary hemorrhagic,（97.5%）</li>
+<li>familial clubfoot due to 17q23.1q23.2 microduplication（97.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

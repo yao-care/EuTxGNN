@@ -3,7 +3,7 @@ layout: default
 title: "Bazedoxifene 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bazedoxifene 的相關健康新聞報導。原適應症：Conbriza is indicated for the treatment of postmen...。預測適應症 10 個。"
+description: "Bazedoxifene 的相關健康新聞報導。原適應症：Conbriza is indicated for the treatment of postmen...。預測適應症 20 個。"
 permalink: /news/bazedoxifene/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bazedoxifene/
 ---
 
 <p class="key-answer" data-question="Bazedoxifene 有什麼相關新聞？">
-<strong>Bazedoxifene</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bazedoxifene</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/bazedoxifene/
 <ul>
 <li><strong>原適應症</strong>：Conbriza is indicated for the treatment of postmenopausal osteoporosis in women at increased risk of fracture. A significant reduction in the incidence of vertebral fractures has been demonstrated;...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>heparin cofactor 2 deficiency（99.0%）</li>
 <li>postmenopausal osteoporosis（98.8%）</li>
 <li>antithrombin deficiency type 2（98.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/bazedoxifene/
 <li>autosomal dominant neovascular inflammatory vitreoretinopathy（98.2%）</li>
 <li>thrombophilia（97.7%）</li>
 <li>primary release disorder of platelets（97.5%）</li>
+<li>pseudo-von Willebrand disease（97.4%）</li>
+<li>succinyl-CoA:3-ketoacid CoA transferase deficiency（97.3%）</li>
+<li>severe nonproliferative diabetic retinopathy（96.7%）</li>
+<li>acne (disease)（96.2%）</li>
+<li>Glanzmann thrombasthenia（94.6%）</li>
+<li>drug-induced osteoporosis（93.7%）</li>
+<li>duodenal ulcer (disease)（91.2%）</li>
+<li>duodenogastric reflux（89.8%）</li>
+<li>fetal and neonatal alloimmune thrombocytopenia（89.8%）</li>
+<li>duodenal obstruction（89.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bazedoxifene/' | relative_url }}">查看完整藥物報告 →</a></p>

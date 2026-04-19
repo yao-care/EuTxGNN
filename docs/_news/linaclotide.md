@@ -3,7 +3,7 @@ layout: default
 title: "Linaclotide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Linaclotide 的相關健康新聞報導。原適應症：Constella is indicated for the symptomatic treatme...。預測適應症 10 個。"
+description: "Linaclotide 的相關健康新聞報導。原適應症：Constella is indicated for the symptomatic treatme...。預測適應症 20 個。"
 permalink: /news/linaclotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/linaclotide/
 ---
 
 <p class="key-answer" data-question="Linaclotide 有什麼相關新聞？">
-<strong>Linaclotide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Linaclotide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/linaclotide/
 <ul>
 <li><strong>原適應症</strong>：Constella is indicated for the symptomatic treatment of moderate to severe irritable-bowel syndrome with constipation (IBS-C) in adults.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>cauda equina syndrome（100.0%）</li>
 <li>irritable bowel syndrome（99.9%）</li>
 <li>obsolete neurogenic bladder (disease)（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/linaclotide/
 <li>mitral valve prolapse (disease)（97.5%）</li>
 <li>MVP1（96.9%）</li>
 <li>gastroduodenitis（96.5%）</li>
+<li>large intestine disease（95.1%）</li>
+<li>rhinitis（94.7%）</li>
+<li>small intestine disease（94.5%）</li>
+<li>peptic ulcer disease（94.0%）</li>
+<li>dysautonomia（94.0%）</li>
+<li>gastroenteritis（92.9%）</li>
+<li>active vestibular Meniere disease（89.8%）</li>
+<li>active cochlear Meniere disease（89.8%）</li>
+<li>active cochleovestibular Meniere disease（89.8%）</li>
+<li>vertigo, benign recurrent, 2（89.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/linaclotide/' | relative_url }}">查看完整藥物報告 →</a></p>

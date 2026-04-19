@@ -3,7 +3,7 @@ layout: default
 title: "Dexmedetomidine Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dexmedetomidine Hydrochloride 的相關健康新聞報導。原適應症：For sedation of adult intensive care unit patients...。預測適應症 10 個。"
+description: "Dexmedetomidine Hydrochloride 的相關健康新聞報導。原適應症：For sedation of adult intensive care unit patients...。預測適應症 20 個。"
 permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <ul>
 <li><strong>原適應症</strong>：For sedation of adult intensive care unit patients requiring a sedation level not deeper than arousal in response to verbal stimulation (corresponding to Richmond Agitation-Sedation Scale (RASS) 0 to...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis（99.6%）</li>
 <li>migraine disorder（99.5%）</li>
 <li>migraine with brainstem aura（99.3%）</li>
@@ -37,20 +37,24 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <li>migraine with or without aura, susceptibility to（98.3%）</li>
 <li>atrophoderma vermiculata（98.3%）</li>
 <li>congenital hypotrichosis milia（98.2%）</li>
+<li>diffuse alopecia areata（98.1%）</li>
+<li>ulerythema ophryogenesis（98.0%）</li>
+<li>alopecia（97.9%）</li>
+<li>kyphoscoliotic heart disease（97.8%）</li>
+<li>Tourette syndrome（97.7%）</li>
+<li>open-angle glaucoma（97.7%）</li>
+<li>primary hereditary glaucoma（97.7%）</li>
+<li>bronchial disease（97.5%）</li>
+<li>trichotillomania（97.4%）</li>
+<li>tendinitis（97.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

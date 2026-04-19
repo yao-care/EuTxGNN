@@ -3,7 +3,7 @@ layout: default
 title: "Glucagon 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Glucagon 的相關健康新聞報導。原適應症：Baqsimi is indicated for the treatment of severe h...。預測適應症 10 個。"
+description: "Glucagon 的相關健康新聞報導。原適應症：Baqsimi is indicated for the treatment of severe h...。預測適應症 20 個。"
 permalink: /news/glucagon/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glucagon/
 ---
 
 <p class="key-answer" data-question="Glucagon 有什麼相關新聞？">
-<strong>Glucagon</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Glucagon</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/glucagon/
 <ul>
 <li><strong>原適應症</strong>：Baqsimi is indicated for the treatment of severe hypoglycaemia in adults, adolescents, and children aged 4 years and over with diabetes mellitus.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>irritable bowel syndrome（99.2%）</li>
 <li>cauda equina syndrome（98.8%）</li>
 <li>obsolete neurogenic bladder (disease)（97.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/glucagon/
 <li>open-angle glaucoma（90.2%）</li>
 <li>filariasis（90.0%）</li>
 <li>large intestine disease（89.9%）</li>
+<li>small intestine disease（89.2%）</li>
+<li>obsolete rare pulmonary disease（89.2%）</li>
+<li>gastroenteritis（89.2%）</li>
+<li>pulmonary edema（88.1%）</li>
+<li>dermatitis（86.3%）</li>
+<li>esotropia（86.0%）</li>
+<li>pityriasis simplex（85.0%）</li>
+<li>seborrheic dermatitis（84.9%）</li>
+<li>acrodermatitis chronica atrophicans（84.2%）</li>
+<li>rhinitis（84.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glucagon/' | relative_url }}">查看完整藥物報告 →</a></p>

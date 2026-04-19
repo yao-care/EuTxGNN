@@ -3,7 +3,7 @@ layout: default
 title: "Buprenorphine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Buprenorphine 的相關健康新聞報導。原適應症：Substitution treatment for opioid-drug dependence,...。預測適應症 10 個。"
+description: "Buprenorphine 的相關健康新聞報導。原適應症：Substitution treatment for opioid-drug dependence,...。預測適應症 20 個。"
 permalink: /news/buprenorphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/buprenorphine/
 ---
 
 <p class="key-answer" data-question="Buprenorphine 有什麼相關新聞？">
-<strong>Buprenorphine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Buprenorphine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/buprenorphine/
 <ul>
 <li><strong>原適應症</strong>：Substitution treatment for opioid-drug dependence, within a framework of medical, social and psychological treatment. The intention of the naloxone component is to deter intravenous misuse. Treatment...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>opiate dependence（99.5%）</li>
 <li>morphine dependence（99.4%）</li>
 <li>acute intermittent porphyria（99.4%）</li>
@@ -37,6 +37,16 @@ permalink: /news/buprenorphine/
 <li>benign shuddering attacks（99.0%）</li>
 <li>schizophreniform disorder（99.0%）</li>
 <li>schizophrenia（99.0%）</li>
+<li>benign paroxysmal tonic upgaze of childhood with ataxia（98.9%）</li>
+<li>psychogenic movement disorders（98.9%）</li>
+<li>primary orthostatic tremor（98.8%）</li>
+<li>tremor-nystagmus-duodenal ulcer syndrome（98.8%）</li>
+<li>drug-induced dyskinesia（98.8%）</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G（98.7%）</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（98.7%）</li>
+<li>retinal dystrophy with or without extraocular anomalies（98.6%）</li>
+<li>congenital disorder of glycosylation with defective fucosylation（98.6%）</li>
+<li>hydranencephaly (disease)（98.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/buprenorphine/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Teduglutide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Teduglutide 的相關健康新聞報導。原適應症：Revestive is indicated for the treatment of patien...。預測適應症 10 個。"
+description: "Teduglutide 的相關健康新聞報導。原適應症：Revestive is indicated for the treatment of patien...。預測適應症 20 個。"
 permalink: /news/teduglutide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/teduglutide/
 ---
 
 <p class="key-answer" data-question="Teduglutide 有什麼相關新聞？">
-<strong>Teduglutide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teduglutide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/teduglutide/
 <ul>
 <li><strong>原適應症</strong>：Revestive is indicated for the treatment of patients aged 1 year and above with Short Bowel Syndrome (SBS). Patients should be stable following a period of intestinal adaptation after surgery....</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>short bowel syndrome（99.1%）</li>
 <li>papillary conjunctivitis（98.5%）</li>
 <li>gastroduodenitis（98.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/teduglutide/
 <li>pharyngitis（94.7%）</li>
 <li>chronic intestinal vascular insufficiency（92.2%）</li>
 <li>isolated mesenteric vein thrombosis（92.0%）</li>
+<li>atopic conjunctivitis（88.7%）</li>
+<li>cold urticaria（87.9%）</li>
+<li>rosacea conjunctivitis（87.5%）</li>
+<li>ischemic bowel disease（87.5%）</li>
+<li>NK-cell enteropathy（86.5%）</li>
+<li>eosinophilic gastrointestinal disease（86.5%）</li>
+<li>intestinal atresia (disease)（86.4%）</li>
+<li>solitary rectal ulcer syndrome（86.3%）</li>
+<li>neurogenic bowel（86.3%）</li>
+<li>mucocele of appendix（86.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/teduglutide/' | relative_url }}">查看完整藥物報告 →</a></p>

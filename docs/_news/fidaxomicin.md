@@ -3,7 +3,7 @@ layout: default
 title: "Fidaxomicin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fidaxomicin 的相關健康新聞報導。原適應症：Dificlir film-coated tablets is indicated for the ...。預測適應症 10 個。"
+description: "Fidaxomicin 的相關健康新聞報導。原適應症：Dificlir film-coated tablets is indicated for the ...。預測適應症 20 個。"
 permalink: /news/fidaxomicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fidaxomicin/
 ---
 
 <p class="key-answer" data-question="Fidaxomicin 有什麼相關新聞？">
-<strong>Fidaxomicin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fidaxomicin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/fidaxomicin/
 <ul>
 <li><strong>原適應症</strong>：Dificlir film-coated tablets is indicated for the treatment of Clostridioides difficile infections (CDI) also known as C. difficile-associated diarrhoea (CDAD) in adult and paediatric patients with a...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>staphylococcal scalded skin syndrome（99.7%）</li>
 <li>Clostridium infectious disease（99.7%）</li>
 <li>bullous impetigo（99.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/fidaxomicin/
 <li>hordeolum（99.6%）</li>
 <li>staphylococcus aureus pneumonia（99.2%）</li>
 <li>punctate epithelial keratoconjunctivitis（99.0%）</li>
+<li>parasitic skin disease（98.6%）</li>
+<li>aleutian mink disease（98.5%）</li>
+<li>feline panleukopenia（98.4%）</li>
+<li>hyperamylasemia（98.4%）</li>
+<li>polyclonal hyperviscosity syndrome（98.4%）</li>
+<li>pleural empyema (disease)（98.3%）</li>
+<li>fascioliasis（98.3%）</li>
+<li>erythema infectiosum（98.3%）</li>
+<li>congenital analbuminemia（98.2%）</li>
+<li>candidemia（98.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fidaxomicin/' | relative_url }}">查看完整藥物報告 →</a></p>

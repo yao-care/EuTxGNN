@@ -3,7 +3,7 @@ layout: default
 title: "Aclidinium Bromide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Aclidinium Bromide 的相關健康新聞報導。原適應症：Bretaris Genuair is indicated as a maintenance bro...。預測適應症 10 個。"
+description: "Aclidinium Bromide 的相關健康新聞報導。原適應症：Bretaris Genuair is indicated as a maintenance bro...。預測適應症 20 個。"
 permalink: /news/aclidinium-bromide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aclidinium-bromide/
 ---
 
 <p class="key-answer" data-question="Aclidinium Bromide 有什麼相關新聞？">
-<strong>Aclidinium Bromide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aclidinium Bromide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/aclidinium-bromide/
 <ul>
 <li><strong>原適應症</strong>：Bretaris Genuair is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>open-angle glaucoma（89.4%）</li>
 <li>primary hereditary glaucoma（89.0%）</li>
 <li>migraine disorder（86.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/aclidinium-bromide/
 <li>glaucoma 1, open angle（79.6%）</li>
 <li>gastroduodenitis（79.5%）</li>
 <li>dermatitis（79.3%）</li>
+<li>obsolete rare pulmonary disease（79.1%）</li>
+<li>peptic ulcer disease（78.5%）</li>
+<li>dysthymic disorder（78.0%）</li>
+<li>acrodermatitis chronica atrophicans（77.6%）</li>
+<li>common cold（77.2%）</li>
+<li>neonatal dermatomyositis（76.6%）</li>
+<li>hydroa vacciniforme, familial（76.0%）</li>
+<li>atrophoderma vermiculata（75.6%）</li>
+<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（75.6%）</li>
+<li>amyopathic dermatomyositis（75.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aclidinium-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>

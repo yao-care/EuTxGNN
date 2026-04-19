@@ -3,7 +3,7 @@ layout: default
 title: "Mecasermin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Mecasermin 的相關健康新聞報導。原適應症：For the long-term treatment of growth failure in c...。預測適應症 10 個。"
+description: "Mecasermin 的相關健康新聞報導。原適應症：For the long-term treatment of growth failure in c...。預測適應症 20 個。"
 permalink: /news/mecasermin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mecasermin/
 ---
 
 <p class="key-answer" data-question="Mecasermin 有什麼相關新聞？">
-<strong>Mecasermin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mecasermin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/mecasermin/
 <ul>
 <li><strong>原適應症</strong>：For the long-term treatment of growth failure in children and adolescents with severe primary insulin-like-growth-factor-1 deficiency (primary IGFD). Severe primary IGFD is defined by:  height...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>monosomy X（99.6%）</li>
 <li>Wolman disease with hypolipoproteinemia and acanthocytosis（99.1%）</li>
 <li>growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant（99.1%）</li>
@@ -37,6 +37,16 @@ permalink: /news/mecasermin/
 <li>varicose disease（98.3%）</li>
 <li>congenital pulmonary lymphangiectasia（98.2%）</li>
 <li>cholesteryl ester storage disease（98.2%）</li>
+<li>benign neoplasm of adrenal gland（98.1%）</li>
+<li>16q24.1 microdeletion syndrome（97.9%）</li>
+<li>primary interstitial lung disease specific to childhood（97.8%）</li>
+<li>isolated pulmonary capillaritis（97.7%）</li>
+<li>familial apolipoprotein C-II deficiency（97.4%）</li>
+<li>Wolman disease（97.2%）</li>
+<li>Steel syndrome（97.2%）</li>
+<li>reticular dysgenesis（97.1%）</li>
+<li>lysosomal acid lipase deficiency（97.0%）</li>
+<li>Hurler syndrome（97.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mecasermin/' | relative_url }}">查看完整藥物報告 →</a></p>

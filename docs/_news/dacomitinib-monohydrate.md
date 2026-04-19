@@ -3,7 +3,7 @@ layout: default
 title: "Dacomitinib Monohydrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dacomitinib Monohydrate 的相關健康新聞報導。原適應症：Vizimpro, as monotherapy, is indicated for the fir...。預測適應症 10 個。"
+description: "Dacomitinib Monohydrate 的相關健康新聞報導。原適應症：Vizimpro, as monotherapy, is indicated for the fir...。預測適應症 20 個。"
 permalink: /news/dacomitinib-monohydrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/dacomitinib-monohydrate/
 <ul>
 <li><strong>原適應症</strong>：Vizimpro, as monotherapy, is indicated for the first-line treatment of adult patients with locally advanced or metastatic non small cell lung cancer (NSCLC) with epidermal growth factor receptor...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>rheumatoid arthritis（97.8%）</li>
 <li>homozygous familial hypercholesterolemia（96.9%）</li>
 <li>brachydactyly-syndactyly syndrome（96.8%）</li>
@@ -37,26 +37,28 @@ permalink: /news/dacomitinib-monohydrate/
 <li>multiple endocrine neoplasia（96.2%）</li>
 <li>amyotrophic lateral sclerosis（95.1%）</li>
 <li>leprosy（95.0%）</li>
+<li>Prinzmetal angina（94.9%）</li>
+<li>migraine disorder（94.8%）</li>
+<li>hyperthyroidism（94.7%）</li>
+<li>female breast carcinoma（94.5%）</li>
+<li>Mills syndrome（94.5%）</li>
+<li>amyotrophic lateral sclerosis, susceptibility to（94.5%）</li>
+<li>amyotrohpic lateral sclerosis type 22（94.5%）</li>
+<li>migraine with brainstem aura（94.4%）</li>
+<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（94.3%）</li>
+<li>migraine with or without aura, susceptibility to（94.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
-
----
-
-### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Umeclidinium Bromide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Umeclidinium Bromide 的相關健康新聞報導。原適應症：Rolufta is indicated as a maintenance bronchodilat...。預測適應症 10 個。"
+description: "Umeclidinium Bromide 的相關健康新聞報導。原適應症：Rolufta is indicated as a maintenance bronchodilat...。預測適應症 20 個。"
 permalink: /news/umeclidinium-bromide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/umeclidinium-bromide/
 ---
 
 <p class="key-answer" data-question="Umeclidinium Bromide 有什麼相關新聞？">
-<strong>Umeclidinium Bromide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Umeclidinium Bromide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/umeclidinium-bromide/
 <ul>
 <li><strong>原適應症</strong>：Rolufta is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>migraine disorder（96.4%）</li>
 <li>migraine with brainstem aura（95.8%）</li>
 <li>open-angle glaucoma（93.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/umeclidinium-bromide/
 <li>atrophoderma vermiculata（91.2%）</li>
 <li>peptic ulcer disease（91.0%）</li>
 <li>allergic urticaria（90.7%）</li>
+<li>migraine with or without aura, susceptibility to（90.6%）</li>
+<li>ulerythema ophryogenesis（89.8%）</li>
+<li>schizophrenia（89.8%）</li>
+<li>Ambras type hypertrichosis universalis congenita（89.8%）</li>
+<li>hypertrichosis (disease)（89.5%）</li>
+<li>insomnia (disease)（89.5%）</li>
+<li>headache disorder（89.4%）</li>
+<li>acute intermittent porphyria（89.4%）</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（89.1%）</li>
+<li>malformation syndrome with odontal and/or periodontal component（89.1%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/umeclidinium-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>

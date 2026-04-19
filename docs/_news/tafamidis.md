@@ -3,7 +3,7 @@ layout: default
 title: "Tafamidis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tafamidis 的相關健康新聞報導。原適應症：Vyndaqel is indicated for the treatment of transth...。預測適應症 10 個。"
+description: "Tafamidis 的相關健康新聞報導。原適應症：Vyndaqel is indicated for the treatment of transth...。預測適應症 20 個。"
 permalink: /news/tafamidis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tafamidis/
 ---
 
 <p class="key-answer" data-question="Tafamidis 有什麼相關新聞？">
-<strong>Tafamidis</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tafamidis</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/tafamidis/
 <ul>
 <li><strong>原適應症</strong>：Vyndaqel is indicated for the treatment of transthyretin amyloidosis in adult patients with stage-1 symptomatic polyneuropathy to delay peripheral neurologic impairment.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary release disorder of platelets（89.3%）</li>
 <li>thrombocytopenic purpura（88.7%）</li>
 <li>pseudo-von Willebrand disease（87.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/tafamidis/
 <li>dermis disease（83.4%）</li>
 <li>biotin metabolic disease（83.3%）</li>
 <li>mixed-type autoimmune hemolytic anemia（82.3%）</li>
+<li>drug-induced autoimmune hemolytic anemia（82.0%）</li>
+<li>proteinuria（81.8%）</li>
+<li>inherited thrombophilia（81.0%）</li>
+<li>amyloidosis cutis dyschromia（80.8%）</li>
+<li>nodular cutaneous amyloidosis（80.8%）</li>
+<li>macular amyloidosis（80.8%）</li>
+<li>neonatal autoimmune hemolytic anemia（80.7%）</li>
+<li>Ledderhose disease（80.4%）</li>
+<li>familial apolipoprotein C-II deficiency（78.5%）</li>
+<li>infantile digital fibromatosis（78.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tafamidis/' | relative_url }}">查看完整藥物報告 →</a></p>

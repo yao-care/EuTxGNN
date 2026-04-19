@@ -3,7 +3,7 @@ layout: default
 title: "Epinephrine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Epinephrine 的相關健康新聞報導。原適應症：Emergency treatment of allergic reactions (anaphyl...。預測適應症 10 個。"
+description: "Epinephrine 的相關健康新聞報導。原適應症：Emergency treatment of allergic reactions (anaphyl...。預測適應症 20 個。"
 permalink: /news/epinephrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Epinephrine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/epinephrine/
 <ul>
 <li><strong>原適應症</strong>：Emergency treatment of allergic reactions (anaphylaxis) due to insect stings or bites, foods, medicinal products and other allergens as well as idiopathic or exercise induced anaphylaxis. Treatment...</li>
 <li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（100.0%）</li>
 <li>obstructive lung disease（99.7%）</li>
 <li>anaphylaxis（99.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/epinephrine/
 <li>dry eye syndrome（98.5%）</li>
 <li>pseudoallergy（97.3%）</li>
 <li>laryngotracheitis（97.3%）</li>
+<li>headache disorder（97.1%）</li>
+<li>anorectal stricture（97.0%）</li>
+<li>trigeminal autonomic cephalalgia（96.9%）</li>
+<li>primary hereditary glaucoma（96.8%）</li>
+<li>anal polyp（96.7%）</li>
+<li>open-angle glaucoma（95.7%）</li>
+<li>tracheal disease（95.6%）</li>
+<li>imperforate anus（95.5%）</li>
+<li>bronchial neoplasm (disease)（95.3%）</li>
+<li>bronchial disease（95.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -52,11 +62,11 @@ permalink: /news/epinephrine/
 
 ---
 
-### [Zwei Biomarker werden bei Asthma zum Standard](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Vinflunine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vinflunine 的相關健康新聞報導。原適應症：Javlor is indicated in monotherapy for the treatme...。預測適應症 10 個。"
+description: "Vinflunine 的相關健康新聞報導。原適應症：Javlor is indicated in monotherapy for the treatme...。預測適應症 20 個。"
 permalink: /news/vinflunine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vinflunine/
 ---
 
 <p class="key-answer" data-question="Vinflunine 有什麼相關新聞？">
-<strong>Vinflunine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinflunine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/vinflunine/
 <ul>
 <li><strong>原適應症</strong>：Javlor is indicated in monotherapy for the treatment of adult patients with advanced or metastatic transitional-cell carcinoma of the urothelial tract after failure of a prior platinum-containing...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>amyotrophic lateral sclerosis（99.0%）</li>
 <li>bilateral parasagittal parieto-occipital polymicrogyria（98.7%）</li>
 <li>Mills syndrome（98.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/vinflunine/
 <li>autosomal dominant mitochondrial myopathy with exercise intolerance（98.4%）</li>
 <li>monomelic amyotrophy（98.4%）</li>
 <li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome（98.2%）</li>
+<li>lethal arthrogryposis-anterior horn cell disease syndrome（98.1%）</li>
+<li>kidney pelvis sarcomatoid transitional cell carcinoma（95.6%）</li>
+<li>prostatic urethra urothelial carcinoma（95.5%）</li>
+<li>infiltrating bladder urothelial carcinoma sarcomatoid variant（95.4%）</li>
+<li>renal pelvis papillary urothelial carcinoma（95.4%）</li>
+<li>transitional cell carcinoma（93.7%）</li>
+<li>immunodeficiency without anhidrotic ectodermal dysplasia（91.0%）</li>
+<li>SMARCA4-deficient sarcoma of thorax（91.0%）</li>
+<li>liposarcoma（90.9%）</li>
+<li>ovarian myxoid liposarcoma（90.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vinflunine/' | relative_url }}">查看完整藥物報告 →</a></p>

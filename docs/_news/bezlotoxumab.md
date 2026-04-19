@@ -3,7 +3,7 @@ layout: default
 title: "Bezlotoxumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bezlotoxumab 的相關健康新聞報導。原適應症：Zinplava is indicated for the prevention of recurr...。預測適應症 10 個。"
+description: "Bezlotoxumab 的相關健康新聞報導。原適應症：Zinplava is indicated for the prevention of recurr...。預測適應症 20 個。"
 permalink: /news/bezlotoxumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bezlotoxumab/
 ---
 
 <p class="key-answer" data-question="Bezlotoxumab 有什麼相關新聞？">
-<strong>Bezlotoxumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bezlotoxumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/bezlotoxumab/
 <ul>
 <li><strong>原適應症</strong>：Zinplava is indicated for the prevention of recurrence of Clostridium difficile infection (CDI) in adults at high risk for recurrence of CDI.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>acute female pelvic peritonitis（99.9%）</li>
 <li>embryonic cyst of fallopian tube（99.9%）</li>
 <li>tubal pregnancy（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/bezlotoxumab/
 <li>abdominal cystic lymphangioma（99.9%）</li>
 <li>abdominal ectopic pregnancy（99.9%）</li>
 <li>pelvic varices（99.9%）</li>
+<li>lymph node palisaded myofibroblastoma（99.9%）</li>
+<li>disease of retroperitoneum（99.9%）</li>
+<li>sacrum chordoma（99.9%）</li>
+<li>disease of peritoneum（99.9%）</li>
+<li>urethral disease（99.9%）</li>
+<li>pudendal neuralgia（99.8%）</li>
+<li>bronchial adenomas/carcinoids childhood（99.8%）</li>
+<li>non-seminomatous lesion（99.8%）</li>
+<li>ductal or ductular proliferation（99.8%）</li>
+<li>chondroid hamartoma（99.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bezlotoxumab/' | relative_url }}">查看完整藥物報告 →</a></p>

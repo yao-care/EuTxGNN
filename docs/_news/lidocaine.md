@@ -3,7 +3,7 @@ layout: default
 title: "Lidocaine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lidocaine 的相關健康新聞報導。原適應症：Treatment of primary premature ejaculation in adul...。預測適應症 10 個。"
+description: "Lidocaine 的相關健康新聞報導。原適應症：Treatment of primary premature ejaculation in adul...。預測適應症 20 個。"
 permalink: /news/lidocaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lidocaine/
 ---
 
 <p class="key-answer" data-question="Lidocaine 有什麼相關新聞？">
-<strong>Lidocaine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lidocaine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lidocaine/
 <ul>
 <li><strong>原適應症</strong>：Treatment of primary premature ejaculation in adult men.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>punctate epithelial keratoconjunctivitis（100.0%）</li>
 <li>papillary conjunctivitis（100.0%）</li>
 <li>rosacea conjunctivitis（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/lidocaine/
 <li>non-human animal disease（99.8%）</li>
 <li>tinea corporis（99.8%）</li>
 <li>sporadic idiopathic steroid-resistant nephrotic syndrome（99.8%）</li>
+<li>disease of orbital region（99.8%）</li>
+<li>rheumatic heart disease（99.8%）</li>
+<li>idiopathic steroid-sensitive nephrotic syndrome（99.7%）</li>
+<li>epicondylitis（99.7%）</li>
+<li>blepharoconjunctivitis（99.7%）</li>
+<li>disease of orbital part of eye adnexa（99.7%）</li>
+<li>cystic teratoma（99.7%）</li>
+<li>spinal cord dermoid cyst（99.7%）</li>
+<li>dermoid cyst of ovary（99.6%）</li>
+<li>viral conjunctivitis（99.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lidocaine/' | relative_url }}">查看完整藥物報告 →</a></p>

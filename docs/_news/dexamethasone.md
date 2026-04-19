@@ -3,7 +3,7 @@ layout: default
 title: "Dexamethasone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dexamethasone 的相關健康新聞報導。原適應症：Treatment of multiple myeloma.。預測適應症 10 個。"
+description: "Dexamethasone 的相關健康新聞報導。原適應症：Treatment of multiple myeloma.。預測適應症 20 個。"
 permalink: /news/dexamethasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexamethasone/
 ---
 
 <p class="key-answer" data-question="Dexamethasone 有什麼相關新聞？">
-<strong>Dexamethasone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dexamethasone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/dexamethasone/
 <ul>
 <li><strong>原適應症</strong>：Treatment of multiple myeloma.</li>
 <li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>alopecia areata（100.0%）</li>
 <li>alopecia mucinosa（100.0%）</li>
 <li>telogen effluvium（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/dexamethasone/
 <li>atrichia with papular lesions（100.0%）</li>
 <li>tenosynovitis（99.8%）</li>
 <li>granulomatous slack skin disease（99.8%）</li>
+<li>familial adrenal hypoplasia with absent pituitary luteinizing hormone（99.8%）</li>
+<li>adrenocortical insufficiency（99.8%）</li>
+<li>alopecia universalis onychodystrophy vitiligo（99.8%）</li>
+<li>acquired thrombocytopenia（99.8%）</li>
+<li>nephrotic syndrome（99.7%）</li>
+<li>Addison disease（99.7%）</li>
+<li>prolapse of lacrimal gland（99.7%）</li>
+<li>miliary tuberculosis（99.6%）</li>
+<li>idiopathic steroid-sensitive nephrotic syndrome（99.6%）</li>
+<li>sporadic idiopathic steroid-resistant nephrotic syndrome（99.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexamethasone/' | relative_url }}">查看完整藥物報告 →</a></p>

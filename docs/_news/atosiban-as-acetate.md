@@ -3,7 +3,7 @@ layout: default
 title: "Atosiban (As Acetate) 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Atosiban (As Acetate) 的相關健康新聞報導。原適應症：Tractotile is indicated to delay imminent pre-term...。預測適應症 10 個。"
+description: "Atosiban (As Acetate) 的相關健康新聞報導。原適應症：Tractotile is indicated to delay imminent pre-term...。預測適應症 20 個。"
 permalink: /news/atosiban-as-acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atosiban-as-acetate/
 ---
 
 <p class="key-answer" data-question="Atosiban (As Acetate) 有什麼相關新聞？">
-<strong>Atosiban (As Acetate)</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Atosiban (As Acetate)</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/atosiban-as-acetate/
 <ul>
 <li><strong>原適應症</strong>：Tractotile is indicated to delay imminent pre-term birth in pregnant adult women with:  regular uterine contractions of at least 30 seconds duration at a rate of ? 4 per 30 minutes; a cervical...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary hereditary glaucoma（99.9%）</li>
 <li>open-angle glaucoma（99.9%）</li>
 <li>congenital hypotrichosis milia（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/atosiban-as-acetate/
 <li>venous thoracic outlet syndrome（99.9%）</li>
 <li>arterial thoracic outlet syndrome（99.9%）</li>
 <li>visceral calciphylaxis（99.8%）</li>
+<li>neurogenic thoracic outlet syndrome（99.8%）</li>
+<li>angiodysplasia of stomach（99.8%）</li>
+<li>lymphangiectasis（99.8%）</li>
+<li>idiopathic spontaneous coronary artery dissection（99.8%）</li>
+<li>hemangioendothelioma（99.8%）</li>
+<li>blue toe syndrome（99.8%）</li>
+<li>arterial dissection-lentiginosis syndrome（99.8%）</li>
+<li>atheroembolism of kidney（99.8%）</li>
+<li>Raynaud disease（99.7%）</li>
+<li>glaucoma 1, open angle（99.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atosiban-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>

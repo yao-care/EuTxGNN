@@ -3,7 +3,7 @@ layout: default
 title: "Relugolix 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Relugolix 的相關健康新聞報導。原適應症：Ryeqo is indicated in adult women of reproductive ...。預測適應症 10 個。"
+description: "Relugolix 的相關健康新聞報導。原適應症：Ryeqo is indicated in adult women of reproductive ...。預測適應症 20 個。"
 permalink: /news/relugolix/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/relugolix/
 ---
 
 <p class="key-answer" data-question="Relugolix 有什麼相關新聞？">
-<strong>Relugolix</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Relugolix</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/relugolix/
 <ul>
 <li><strong>原適應症</strong>：Ryeqo is indicated in adult women of reproductive age for: - treatment of moderate to severe symptoms of uterine fibroids, - symptomatic treatment of endometriosis in women with a history of previous...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis（96.1%）</li>
 <li>Smouldering systemic mastocytosis（96.1%）</li>
 <li>systemic mastocytosis（96.1%）</li>
@@ -37,6 +37,16 @@ permalink: /news/relugolix/
 <li>hypertrichosis (disease)（93.2%）</li>
 <li>malformation syndrome with odontal and/or periodontal component（93.0%）</li>
 <li>syndrome with a Dandy-Walker malformation as major feature（92.9%）</li>
+<li>Ambras type hypertrichosis universalis congenita（92.8%）</li>
+<li>isolated genetic hair shaft abnormality（92.7%）</li>
+<li>Legionnaires' disease（92.5%）</li>
+<li>HIV infectious disease（91.9%）</li>
+<li>multidrug-resistant tuberculosis（91.4%）</li>
+<li>coronary artery disease（91.3%）</li>
+<li>Plasmodium falciparum malaria（91.0%）</li>
+<li>anomalous left coronary artery from the pulmonary artery（90.9%）</li>
+<li>abnormality of glucagon secretion（90.7%）</li>
+<li>simian immunodeficiency virus infection（90.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/relugolix/' | relative_url }}">查看完整藥物報告 →</a></p>

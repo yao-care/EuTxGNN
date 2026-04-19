@@ -3,7 +3,7 @@ layout: default
 title: "Albutrepenonacog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Albutrepenonacog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 10 個。"
+description: "Albutrepenonacog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 20 個。"
 permalink: /news/albutrepenonacog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/albutrepenonacog-alfa/
 ---
 
 <p class="key-answer" data-question="Albutrepenonacog Alfa 有什麼相關新聞？">
-<strong>Albutrepenonacog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Albutrepenonacog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/albutrepenonacog-alfa/
 <ul>
 <li><strong>原適應症</strong>：Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>pseudo-von Willebrand disease（99.9%）</li>
 <li>primary release disorder of platelets（99.9%）</li>
 <li>Glanzmann thrombasthenia（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/albutrepenonacog-alfa/
 <li>acquired coagulation factor deficiency（98.6%）</li>
 <li>thrombotic thrombocytopenic purpura（98.2%）</li>
 <li>fetal and neonatal alloimmune thrombocytopenia（97.5%）</li>
+<li>inherited thrombophilia（97.4%）</li>
+<li>platelet-type bleeding disorder（97.0%）</li>
+<li>flood factor deficiency（96.8%）</li>
+<li>hereditary thrombocytosis with transverse limb defect（96.1%）</li>
+<li>familial thrombomodulin anomalies（96.1%）</li>
+<li>methylcobalamin deficiency type cblG（95.1%）</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type（94.6%）</li>
+<li>thrombocytopenic purpura（94.1%）</li>
+<li>symptomatic form of hemophilia in female carriers（91.9%）</li>
+<li>congenital factor V deficiency（87.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/albutrepenonacog-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

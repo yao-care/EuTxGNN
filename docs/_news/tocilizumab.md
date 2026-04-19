@@ -3,7 +3,7 @@ layout: default
 title: "Tocilizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tocilizumab 的相關健康新聞報導。原適應症：RoActemra, in combination with methotrexate (MTX),...。預測適應症 10 個。"
+description: "Tocilizumab 的相關健康新聞報導。原適應症：RoActemra, in combination with methotrexate (MTX),...。預測適應症 20 個。"
 permalink: /news/tocilizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tocilizumab/
 ---
 
 <p class="key-answer" data-question="Tocilizumab 有什麼相關新聞？">
-<strong>Tocilizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tocilizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/tocilizumab/
 <ul>
 <li><strong>原適應症</strong>：RoActemra, in combination with methotrexate (MTX), is indicated for  the treatment of severe, active and progressive rheumatoid arthritis (RA) in adults not previously treated with MTX. the treatment...</li>
 <li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>ankylosing spondylitis（100.0%）</li>
 <li>rheumatoid vasculitis（100.0%）</li>
 <li>hypermobility of coccyx（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/tocilizumab/
 <li>vertebral disease（99.9%）</li>
 <li>juvenile idiopathic arthritis（99.9%）</li>
 <li>mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency（99.9%）</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis（99.9%）</li>
+<li>rheumatoid nodulosis（99.8%）</li>
+<li>juvenile chronic polyarthritis（99.8%）</li>
+<li>juvenile arthritis due to defect in LACC1（99.7%）</li>
+<li>autosomal recessive familial Mediterranean fever（99.5%）</li>
+<li>anti-glomerular basement membrane disease（99.2%）</li>
+<li>WHIM syndrome（99.2%）</li>
+<li>systemic mastocytosis（99.1%）</li>
+<li>familial Mediterranean fever, autosomal dominant（99.1%）</li>
+<li>psoriasis-related juvenile idiopathic arthritis（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tocilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/tocilizumab/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

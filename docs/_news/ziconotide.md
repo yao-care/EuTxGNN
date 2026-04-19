@@ -3,7 +3,7 @@ layout: default
 title: "Ziconotide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ziconotide 的相關健康新聞報導。原適應症：Ziconotide is indicated for the treatment of sever...。預測適應症 10 個。"
+description: "Ziconotide 的相關健康新聞報導。原適應症：Ziconotide is indicated for the treatment of sever...。預測適應症 20 個。"
 permalink: /news/ziconotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ziconotide/
 <ul>
 <li><strong>原適應症</strong>：Ziconotide is indicated for the treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>migraine disorder（99.9%）</li>
 <li>migraine with brainstem aura（99.9%）</li>
 <li>cauda equina syndrome（99.9%）</li>
@@ -37,16 +37,42 @@ permalink: /news/ziconotide/
 <li>migraine with or without aura, susceptibility to（99.6%）</li>
 <li>primary hereditary glaucoma（99.6%）</li>
 <li>preeclampsia（99.6%）</li>
+<li>atrophoderma vermiculata（99.5%）</li>
+<li>acne (disease)（99.5%）</li>
+<li>hypervitaminosis（99.5%）</li>
+<li>ulerythema ophryogenesis（99.4%）</li>
+<li>monogenic obesity（99.4%）</li>
+<li>pulmonary hypertension（99.3%）</li>
+<li>obsolete hypertelorism (disease)（99.3%）</li>
+<li>proximal 16p11.2 microdeletion syndrome（99.3%）</li>
+<li>hypotrichosis simplex of the scalp（99.2%）</li>
+<li>congenital hypotrichosis milia（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+---
+
+### [Lomagna Si-Cura: l’obesità è una patologia da curare e da prevenire. Non una colpa](https://news.google.com/rss/articles/CBMiygFBVV95cUxQR082ZzhkTGpJeHF3MmxMQ2g1TUZHQ1VRM2F5blNueXczaUdjSlZGTlNtaGkzZ19OcHNvaG95NjBRODZTZ01xbWFxUEs4VWZXUXIxd0dkSi11WGl1WHFOdTQtSkppcndGOEs3V2FuZGZIV19MSkE3RTctbEdJZ3lqczk3TmU5ajg4UWZpa3lQSk5XWDFianlHRk5KOFpCa09oWmtzaHhOY2czd3ZkU0p2TUQwYkt2ckl1RnhTM0lWTEZydjRINVhfbW53?oc=5)
+
+2026-04-18 <span class="news-indication-tag">obesità</span>
+
+來源：[Merateonline](https://news.google.com/rss/articles/CBMiygFBVV95cUxQR082ZzhkTGpJeHF3MmxMQ2g1TUZHQ1VRM2F5blNueXczaUdjSlZGTlNtaGkzZ19OcHNvaG95NjBRODZTZ01xbWFxUEs4VWZXUXIxd0dkSi11WGl1WHFOdTQtSkppcndGOEs3V2FuZGZIV19MSkE3RTctbEdJZ3lqczk3TmU5ajg4UWZpa3lQSk5XWDFianlHRk5KOFpCa09oWmtzaHhOY2czd3ZkU0p2TUQwYkt2ckl1RnhTM0lWTEZydjRINVhfbW53?oc=5)
+
+---
 
 ### [“Abbiamo combattuto il grasso sbagliato per anni, ignorando quello che davvero alimenta le malattie”: Franco Berrino svela la verità nascosta dietro oli e prodotti industriali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
 
-2026-04-17 <span class="news-indication-tag">obesità</span>
+2026-04-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
 
@@ -73,14 +99,6 @@ permalink: /news/ziconotide/
 2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Diario Occidente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnl0SldEd292R2diSWpEWjZBRmp1YlZWbG5YZXp1Nk5kejEtaFNYVVgtQzNxU293NEsyQ1ZhVEI4dW1jdDk2NjBBZk45SE5UalVfejRmU0pFU1hnb2VFYzhQSFRGT2luY0hlcDFsd1pEMy1SZVlYX2x6bjdCSWVkYThKcFM0blZWSV82V2I1WFJpT2lhMlRGLXBzQTJ6dWJfZW9KX0JQa084R2fSAbYBQVVfeXFMTVNZS0JvM2ZTRko5bkdNMTRVZ0pLSExtenRsb2dzNmd3eHh2WFVDdERiUzdPNEszYXJXSURqbVZ4ekdMWE8tOE90ZFA3ZFBmcmt2R1BLTnJpelYyM0JrZ1ZfUjA3dk0yYVpwRWFWaGRiWDZZRVRPelc0OXRlT2p5SVlaRUhqWDVHQ2M4T0l0ZDdIeWdReWdJZk92MWdzZXVEdnNnLWRIQjUxLUFpSG9MeERxS01DbXc?oc=5)
-
----
-
-### [Ozempic, Wegovy, Mounjaro : la révolution des médicaments anti-obésité - Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
-
-2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
 
 ---
 

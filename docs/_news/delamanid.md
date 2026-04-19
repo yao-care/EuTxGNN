@@ -3,7 +3,7 @@ layout: default
 title: "Delamanid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Delamanid 的相關健康新聞報導。原適應症：Deltyba is indicated for use as part of an appropr...。預測適應症 10 個。"
+description: "Delamanid 的相關健康新聞報導。原適應症：Deltyba is indicated for use as part of an appropr...。預測適應症 20 個。"
 permalink: /news/delamanid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/delamanid/
 ---
 
 <p class="key-answer" data-question="Delamanid 有什麼相關新聞？">
-<strong>Delamanid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Delamanid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/delamanid/
 <ul>
 <li><strong>原適應症</strong>：Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, children and infants with a body weight of...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>multidrug-resistant tuberculosis（99.9%）</li>
 <li>tuberculosis, bovine（99.9%）</li>
 <li>tuberculoma（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/delamanid/
 <li>cutaneous tuberculosis（99.1%）</li>
 <li>fascioliasis（99.0%）</li>
 <li>inhalational botulism（98.9%）</li>
+<li>urea cycle disorder（98.8%）</li>
+<li>toxin-mediated infectious botulism（98.7%）</li>
+<li>hyperamylasemia（98.6%）</li>
+<li>polyclonal hyperviscosity syndrome（98.6%）</li>
+<li>leishmaniasis, diffuse cutaneous（98.6%）</li>
+<li>congenital analbuminemia（98.4%）</li>
+<li>Clostridium infectious disease（98.2%）</li>
+<li>extrapulmonary tuberculosis（98.1%）</li>
+<li>blood group incompatibility（98.0%）</li>
+<li>vulvovaginal candidiasis（97.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/delamanid/' | relative_url }}">查看完整藥物報告 →</a></p>

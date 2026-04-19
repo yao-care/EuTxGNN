@@ -3,7 +3,7 @@ layout: default
 title: "Evolocumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Evolocumab 的相關健康新聞報導。原適應症：Hypercholesterolaemia and mixed dyslipidaemia Repa...。預測適應症 10 個。"
+description: "Evolocumab 的相關健康新聞報導。原適應症：Hypercholesterolaemia and mixed dyslipidaemia Repa...。預測適應症 20 個。"
 permalink: /news/evolocumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/evolocumab/
 ---
 
 <p class="key-answer" data-question="Evolocumab 有什麼相關新聞？">
-<strong>Evolocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Evolocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/evolocumab/
 <ul>
 <li><strong>原適應症</strong>：Hypercholesterolaemia and mixed dyslipidaemia Repatha is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>symptomatic form of hemophilia in female carriers（99.8%）</li>
 <li>familial apolipoprotein C-II deficiency（99.5%）</li>
 <li>thrombocytopenic purpura（99.4%）</li>
@@ -37,6 +37,16 @@ permalink: /news/evolocumab/
 <li>ichthyosis, X-linked, without steroid sulfatase deficiency（98.8%）</li>
 <li>inherited thrombophilia（98.8%）</li>
 <li>disorder of other vitamins and cofactors metabolism and transport（98.8%）</li>
+<li>adenosine deaminase deficiency（98.8%）</li>
+<li>xanthomatosis (disease)（98.8%）</li>
+<li>esophageal varices without bleeding（98.8%）</li>
+<li>esophageal varices with bleeding（98.8%）</li>
+<li>46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect（98.7%）</li>
+<li>3-hydroxyacyl-CoA dehydrogenase deficiency（98.7%）</li>
+<li>cholesterol catabolic process disease（98.7%）</li>
+<li>coagulation protein disease（98.7%）</li>
+<li>46,XY disorder of sex development due to a cholesterol synthesis defect（98.6%）</li>
+<li>neutral lipid storage disease（98.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/evolocumab/' | relative_url }}">查看完整藥物報告 →</a></p>

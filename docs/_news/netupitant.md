@@ -3,7 +3,7 @@ layout: default
 title: "Netupitant 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Netupitant 的相關健康新聞報導。原適應症：Akynzeo is indicated in adults for the:  Preventio...。預測適應症 10 個。"
+description: "Netupitant 的相關健康新聞報導。原適應症：Akynzeo is indicated in adults for the:  Preventio...。預測適應症 20 個。"
 permalink: /news/netupitant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Netupitant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/netupitant/
 <ul>
 <li><strong>原適應症</strong>：Akynzeo is indicated in adults for the:  Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin based cancer chemotherapy. Prevention of acute and delayed...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis（98.3%）</li>
 <li>leprosy（98.2%）</li>
 <li>migraine disorder（97.5%）</li>
@@ -37,20 +37,24 @@ permalink: /news/netupitant/
 <li>hyperargininemia（96.6%）</li>
 <li>coronary artery disease（96.4%）</li>
 <li>hypertrichosis (disease)（96.3%）</li>
+<li>malformation syndrome with odontal and/or periodontal component（95.8%）</li>
+<li>anomalous left coronary artery from the pulmonary artery（95.8%）</li>
+<li>Ambras type hypertrichosis universalis congenita（95.8%）</li>
+<li>syndrome with a Dandy-Walker malformation as major feature（95.7%）</li>
+<li>isolated genetic hair shaft abnormality（95.6%）</li>
+<li>myocardial ischemia（95.1%）</li>
+<li>atrophoderma vermiculata（94.9%）</li>
+<li>persistent Mullerian duct syndrome（94.2%）</li>
+<li>ulerythema ophryogenesis（94.0%）</li>
+<li>genetic multiple congenital anomalies/dysmorphic syndrome without intellectual disability（93.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

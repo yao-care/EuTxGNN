@@ -3,7 +3,7 @@ layout: default
 title: "Ceritinib 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ceritinib 的相關健康新聞報導。原適應症：Zykadia is indicated for the treatment of adult pa...。預測適應症 10 個。"
+description: "Ceritinib 的相關健康新聞報導。原適應症：Zykadia is indicated for the treatment of adult pa...。預測適應症 20 個。"
 permalink: /news/ceritinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ceritinib/
 ---
 
 <p class="key-answer" data-question="Ceritinib 有什麼相關新聞？">
-<strong>Ceritinib</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ceritinib</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ceritinib/
 <ul>
 <li><strong>原適應症</strong>：Zykadia is indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK) positive advanced non small cell lung cancer (NSCLC) previously treated with crizotinib.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>fibromatosis, gingival（99.9%）</li>
 <li>fibroma of lung（99.8%）</li>
 <li>hamartoma of lung（99.8%）</li>
@@ -37,12 +37,54 @@ permalink: /news/ceritinib/
 <li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia（99.8%）</li>
 <li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome（99.8%）</li>
 <li>junctional epidermolysis bullosa（99.8%）</li>
+<li>ovarioleukodystrophy（99.7%）</li>
+<li>junctional epidermolysis bullosa, non-Herlitz type（99.7%）</li>
+<li>lung cancer（99.7%）</li>
+<li>dehydratase deficiency（99.7%）</li>
+<li>Ewing sarcoma（98.8%）</li>
+<li>amyotrohpic lateral sclerosis type 22（94.0%）</li>
+<li>orbit sarcoma（93.9%）</li>
+<li>synovial chondromatosis（93.9%）</li>
+<li>ganglioneuroblastoma (disease)（93.5%）</li>
+<li>giant cell tumor of soft tissue（93.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ceritinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（21 則）
+
+### [Steroids and the ‘silent’ cancer plaguing the manosphere - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzFrcl9OYkdrYUEyajRqNVh5anZBTHB0S29ORmlHakF4dUZMVUVYYmlRTnNuZExFb21mMG4wci1hczJQVFMybjZEdmlsenc4YWFWREYyRTRwX20weElUM0xDZ2FMYU94akNYZjdWaWdYMlZjQ0pVWDhSdjJkR2x1NGYyLXRTNkFURUE4aXBPVUlRMWVkOGcw?oc=5)
+
+2026-04-18 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzFrcl9OYkdrYUEyajRqNVh5anZBTHB0S29ORmlHakF4dUZMVUVYYmlRTnNuZExFb21mMG4wci1hczJQVFMybjZEdmlsenc4YWFWREYyRTRwX20weElUM0xDZ2FMYU94akNYZjdWaWdYMlZjQ0pVWDhSdjJkR2x1NGYyLXRTNkFURUE4aXBPVUlRMWVkOGcw?oc=5)
+
+---
+
+### [I thought my bathroom issues were hemorrhoids... but it was cancer - Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxORW80Wm5xYnctQ0hMaUFVYXNhazQxRjRtaWxOTkFhdVhha1FUN19QUm9WNVlDQ1dpb0FiN214WmczZGJBY1RlRGVFTWlMN3VqdmgxX3kyWjIyQlR3bEtlYlZFbEQ1azRHSkJpNTNBRlBraU5IYWVXZzNWdC01ZTVqaVIyZWRhUTBHOS1QSUJlZGJSM1hMY29vcjIyaTdCSXo5?oc=5)
+
+2026-04-18 <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxORW80Wm5xYnctQ0hMaUFVYXNhazQxRjRtaWxOTkFhdVhha1FUN19QUm9WNVlDQ1dpb0FiN214WmczZGJBY1RlRGVFTWlMN3VqdmgxX3kyWjIyQlR3bEtlYlZFbEQ1azRHSkJpNTNBRlBraU5IYWVXZzNWdC01ZTVqaVIyZWRhUTBHOS1QSUJlZGJSM1hMY29vcjIyaTdCSXo5?oc=5)
+
+---
+
+### [Videoserie »Wir hier unten«: Nach ihrer Krebserkrankung: Genoveva kämpft gegen Armut - DIE ZEIT](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdkprSkF1a2VVeHQ1Tmg4NGF6R1VqTjdRdzNtblZJNEJfRWN5XzI0eHdvZGRKTmJhX3RtSWdacWI1WUp0bTlaNDlNWGVpWDdhVVVDYXNxbDVTTzZGaWhOOTVHbENnbWVMMkZTZjBkTVdoSjZjeDlrX1hoY3ZJbWt1MDVRVmhUSWlC?oc=5)
+
+2026-04-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[DIE ZEIT](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdkprSkF1a2VVeHQ1Tmg4NGF6R1VqTjdRdzNtblZJNEJfRWN5XzI0eHdvZGRKTmJhX3RtSWdacWI1WUp0bTlaNDlNWGVpWDdhVVVDYXNxbDVTTzZGaWhOOTVHbENnbWVMMkZTZjBkTVdoSjZjeDlrX1hoY3ZJbWt1MDVRVmhUSWlC?oc=5)
+
+---
+
+### [Un farmaco per la prostata aiuta a bloccare il tumore al seno](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDVYT1JJbTJHQVR5ODljTzJSSlhtbS1nbGg2bVFTTEZ6bXlFZ1YwTjBMd0V1S2g3WDI2QnpzdWVGOWlFR1VMWFlsVkFaSUxFQkdidDVzamIwZ0plakdTVFNYUVY3b1Mzb3pxNGFyY1FXQ0tJcXdZRklqM3g1V1hMa2dZczJRTTVBQ0pN?oc=5)
+
+2026-04-18 <span class="news-indication-tag">tumor</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDVYT1JJbTJHQVR5ODljTzJSSlhtbS1nbGg2bVFTTEZ6bXlFZ1YwTjBMd0V1S2g3WDI2QnpzdWVGOWlFR1VMWFlsVkFaSUxFQkdidDVzamIwZ0plakdTVFNYUVY3b1Mzb3pxNGFyY1FXQ0tJcXdZRklqM3g1V1hMa2dZczJRTTVBQ0pN?oc=5)
+
+---
 
 ### [Nicole morta a 14 anni per un glioma: sintomi, cure e la scelta che commuove l'Italia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUVFSVF2XzRsOUo0cV93dlBTMUxxS1MzcnNJVVpXQjlINWN3VDA4eTVKVGRacjB5enRWd19sVEFTNTVTZ0JySGxPNjU1TWsweGlMaHVFT3BpOEVyTFFfd0VEMmtfMkkxZEMyQ1plRjRmTE5TMHdyWFdXUlh3OFdjc1ZhNGZ2ZUJBSWk1dGE5Wk4xYTg1emlfak1hYVk4VHJBRFVQM1BFY3pTUHlTS01IMjQ1U29IVlpMWVlGeE5zZWgtemFfU05hSzVMRVprdnBOTWZoOQ?oc=5)
 
@@ -57,6 +99,14 @@ permalink: /news/ceritinib/
 2026-04-18 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VeDNUb1NET1Axd3d1NG1PUXg2ZktDTC1US2RNU01GYmI2S2VlUHFKRmFQYm1tS3JlM3Q5XzZhYmVvLUJXM2NmU1k4YnhiaXdlQl9zRDVUSGgxNC1D?oc=5)
+
+---
+
+### [Infarti, tumori e nascite: quali sono i reparti "da record" negli ospedali della Romagna](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnNodU4zVlFkcVhlcjRqSXA3eXctbDdKUGNrZVRqQVBVdzA1OHAxX1NpdFgxekRHS1JJSFd5RDdqYXViZGVLckxORzBmdlNoYUVINFFXc0pDWWc1X1lpbEVkenMzNWwyRjhsRjBvZGtJXzkzYTVKVEc3MndFTWppNVlHSW5JLVFsbC16eXNJMTh4RUs5UHgyQzNfS1ZINjg?oc=5)
+
+2026-04-18 <span class="news-indication-tag">tumor</span>
+
+來源：[ForlìToday](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnNodU4zVlFkcVhlcjRqSXA3eXctbDdKUGNrZVRqQVBVdzA1OHAxX1NpdFgxekRHS1JJSFd5RDdqYXViZGVLckxORzBmdlNoYUVINFFXc0pDWWc1X1lpbEVkenMzNWwyRjhsRjBvZGtJXzkzYTVKVEc3MndFTWppNVlHSW5JLVFsbC16eXNJMTh4RUs5UHgyQzNfS1ZINjg?oc=5)
 
 ---
 
@@ -92,19 +142,19 @@ permalink: /news/ceritinib/
 
 ---
 
-### [Study links lung cancer to eating fruits and veg: What this means - Medical News Today](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVlma1VXWFhMYTl2V0VmNDR2bThBQXdUMGlEZVpxeUlzVmc3OEF3RXUxQmJ5MF9pTHp4bzY3UHNSUTJrb2tUTWhtZ2Q0UTlmd1NnMjFja293dm1rSVktbkotYl9yOXpJX3Vhbzc0dlUtRUJWRkZHRlB5S29jQWJybVFSYzdiTkV5dmtrNWN1RkR3M1pHWGJRMXFNVnY4TGRKY2xTaVZJLWp4QVhORmduNlF4UFVsaE1IM19fZW9nU0NaZHA0MEhHekRaT3l5UkM3Smg5LQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVlma1VXWFhMYTl2V0VmNDR2bThBQXdUMGlEZVpxeUlzVmc3OEF3RXUxQmJ5MF9pTHp4bzY3UHNSUTJrb2tUTWhtZ2Q0UTlmd1NnMjFja293dm1rSVktbkotYl9yOXpJX3Vhbzc0dlUtRUJWRkZHRlB5S29jQWJybVFSYzdiTkV5dmtrNWN1RkR3M1pHWGJRMXFNVnY4TGRKY2xTaVZJLWp4QVhORmduNlF4UFVsaE1IM19fZW9nU0NaZHA0MEhHekRaT3l5UkM3Smg5LQ?oc=5)
-
----
-
 ### [I was diagnosed with deadly cancer after wearing my dad's COAT decades ago - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZFUGNtTGYtTjUwNndtX0s3NUIwcmR0MzRWZllCS3ppS3liUjNwODZfM0V6Qi00Q1VtV2RibjQybGYxOFM0SllWcUN4V3lGcU5NOWY2MkJlNF95LVR3djJ4dG9XQkFoNUJ1NXZzXzMyRzZqTEgtc2t5N2o2SWh1bGdQYnFaeUZCbEprdw?oc=5)
+
+---
+
+### [Tumore al pancreas, svolta nella ricerca: Pisa tra i centri del farmaco Daraxonrasib che raddoppia la sopravvivenza - Il Tirreno](https://news.google.com/rss/articles/CBMikwJBVV95cUxNQ0ZiTHR6c2VEWTYwSThsakVhLVZuUk5DLU1NYmJWX285aDlJT0YycHBNSEs2VkRlaFZhc0VuYkxFMlpmcWJ4M0lrZGJUVHpzX1did2lZeVJIYUJKamtqUUlPcGlHblUyZ3hqWWxmYjA5TF92c1Fza211TVB4Wjk3QkxEdkt1aGQ3QVhwb0hwdFJlbW9lTDdHbUtEejRjdjU0dnhVUWZvV0JmZHRLWHVsTVdPRVpaOEh5YURoWl9OLWM0WFFkWFQ5TmV3Qzc3V3V6aS1EX09wSzBFVmtJTmh3b3o5ZXZsM0l6OU9wdWJGd3NqeWJXREF4UkZzaVVmWGJleUpRSWZQUGVOTzh1cWgwRFhMdw?oc=5)
+
+2026-04-17 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMikwJBVV95cUxNQ0ZiTHR6c2VEWTYwSThsakVhLVZuUk5DLU1NYmJWX285aDlJT0YycHBNSEs2VkRlaFZhc0VuYkxFMlpmcWJ4M0lrZGJUVHpzX1did2lZeVJIYUJKamtqUUlPcGlHblUyZ3hqWWxmYjA5TF92c1Fza211TVB4Wjk3QkxEdkt1aGQ3QVhwb0hwdFJlbW9lTDdHbUtEejRjdjU0dnhVUWZvV0JmZHRLWHVsTVdPRVpaOEh5YURoWl9OLWM0WFFkWFQ5TmV3Qzc3V3V6aS1EX09wSzBFVmtJTmh3b3o5ZXZsM0l6OU9wdWJGd3NqeWJXREF4UkZzaVVmWGJleUpRSWZQUGVOTzh1cWgwRFhMdw?oc=5)
 
 ---
 
@@ -116,11 +166,11 @@ permalink: /news/ceritinib/
 
 ---
 
-### [Una molecola per battere il cancro del pancreas, l’oncologa Cremolini partecipa allo studio mondiale - Città della Spezia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa05hSDRIdkJoNGNhb1U2dEM3ci00S0ZXeEY3X3JOa0wzWkZmNkM5WnBmaFE1Z3lrZGJwRjZZQzFlRERJcUJGV1FwZDk0OVhpZWk4ZHI3Y1lDZkRWalJ3TG1zbTByeE1KSTFwbHFJUk1adlNMMVFGNmVFVmtwYkkzQWZiUWRIZzBBTVFENUpqQ2htaE1sZ0xJLTVxcVVzRnVSaGFwZUQySlc2am51a3R2V2lUWXhqdzM5WVF5QzlHWXBjNElZSXhWSzFmNVY2cjBqRUtYVE1XLTFpc21zSjlVZGpZQVjSAeoBQVVfeXFMT1JpNkdxbkZOODNUTkRfSWFuenFMUHBsZUMwb3A4eWw1ZDVsNXFqRlRTSGh3WGVMd2ctQm9Bal9ELW5KZEd3d3o3WUFid0xNaHRLZGQ2UXMwXzZMSXVrTWl5enVGNDZaWVBxV3hIR09qN1NsVU52dEpxaGdFcGh3YTV2ZHE4Vi1qclBXMVczOHl1MDNqZ0R1Y18wVEZmSU1qdmxheHJLU1phSGI2ZXZwVWMyemI0SHFKcGNkSERubFp1aUZtSkJ2Yjd1a1N3Si1QQ3FOVXdJZ3IzS0lGWTNibkc3VFhtN01OVHVR?oc=5)
+### [Could Alzheimer’s Begin in the Nerves, Not the Brain? - Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
 
-2026-04-17 <span class="news-indication-tag">tumor</span>
+2026-04-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[Città della Spezia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa05hSDRIdkJoNGNhb1U2dEM3ci00S0ZXeEY3X3JOa0wzWkZmNkM5WnBmaFE1Z3lrZGJwRjZZQzFlRERJcUJGV1FwZDk0OVhpZWk4ZHI3Y1lDZkRWalJ3TG1zbTByeE1KSTFwbHFJUk1adlNMMVFGNmVFVmtwYkkzQWZiUWRIZzBBTVFENUpqQ2htaE1sZ0xJLTVxcVVzRnVSaGFwZUQySlc2am51a3R2V2lUWXhqdzM5WVF5QzlHWXBjNElZSXhWSzFmNVY2cjBqRUtYVE1XLTFpc21zSjlVZGpZQVjSAeoBQVVfeXFMT1JpNkdxbkZOODNUTkRfSWFuenFMUHBsZUMwb3A4eWw1ZDVsNXFqRlRTSGh3WGVMd2ctQm9Bal9ELW5KZEd3d3o3WUFid0xNaHRLZGQ2UXMwXzZMSXVrTWl5enVGNDZaWVBxV3hIR09qN1NsVU52dEpxaGdFcGh3YTV2ZHE4Vi1qclBXMVczOHl1MDNqZ0R1Y18wVEZmSU1qdmxheHJLU1phSGI2ZXZwVWMyemI0SHFKcGNkSERubFp1aUZtSkJ2Yjd1a1N3Si1QQ3FOVXdJZ3IzS0lGWTNibkc3VFhtN01OVHVR?oc=5)
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
 
 ---
 
@@ -132,27 +182,11 @@ permalink: /news/ceritinib/
 
 ---
 
-### [Prostate cancer survivor urges men to get tested](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KaElkelloNmpxVm8tdVlSenhkcGc4ZWJXV0toaC1aYVBsVFNoMmJYMFptRXY3NDFnVjFRam5BcHJ0NFhJUjAwN1hzQ25Ia1dHOVI0RnNlSDcxck96?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KaElkelloNmpxVm8tdVlSenhkcGc4ZWJXV0toaC1aYVBsVFNoMmJYMFptRXY3NDFnVjFRam5BcHJ0NFhJUjAwN1hzQ25Ia1dHOVI0RnNlSDcxck96?oc=5)
-
----
-
-### [Un grupo del CNIO avanza en la identificación de las lesiones que se convertirán en cáncer de mama, lo que podrá ayudar a evitar el sobretratamiento - Diario de Navarra](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX3JXZU0yY2huUHVaemVQdFc2MUtndjI5N2ROUHU4TldudUI5T096VXFjdzY0LXpTT0luZ01NZWpGRFZ0VWJLZmc5bDFib2lkd1M4NXpHV2lxOHRuckg1b2tqNXRaQ3U3c3JSRzZKWUhhSTVndTktbERyaUdwdVJtaUowaS1vQ29aTGcyeGhOM19MZUZzaG1pSXc5V21WcXZLbFlTNDY4ZWlUNnN3SVRVOWJkcGt6N0lrY1dqQldzTThZeklqdUV5OXR2a05yV3NBS3dDb3dyeVZvVkdJWkIwRGhnclNSRHlxWlZCWXpKa0twUVN3ZG1DLVRuWnV6WTB5RjA4Tkd1Rk5Va29IS2VqS1FJdDdlUQ?oc=5)
+### [El grupo de Eva González en el CNIO descubre nueva vía para identificar lesiones precancerosas de mama - La Web de la Salud](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFlRMXJtMWdacGNsNS1mZzZlTWtLNTRlXzVndnJRdzkwbVVDdW1NQ3VsaEFWYk1BNkt0YlQxMzVJODJVNXlLeUNMaXV2clRNdXV3WGdGN2xmOHFrRzJOOXFmUDJpOVNUU3hyNHRKaGNvYV9POVExOXhEWFFvNnhFS0ZBVjNTTmlOTTVJdlBIMXpuZ1hqNkVfWXp4Z1NoN2dsdlFISUthN01CN1lkbHVXMlQxbmN0c1dqWWlUT0dFbnROTmg5NVVXV1NB?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX3JXZU0yY2huUHVaemVQdFc2MUtndjI5N2ROUHU4TldudUI5T096VXFjdzY0LXpTT0luZ01NZWpGRFZ0VWJLZmc5bDFib2lkd1M4NXpHV2lxOHRuckg1b2tqNXRaQ3U3c3JSRzZKWUhhSTVndTktbERyaUdwdVJtaUowaS1vQ29aTGcyeGhOM19MZUZzaG1pSXc5V21WcXZLbFlTNDY4ZWlUNnN3SVRVOWJkcGt6N0lrY1dqQldzTThZeklqdUV5OXR2a05yV3NBS3dDb3dyeVZvVkdJWkIwRGhnclNSRHlxWlZCWXpKa0twUVN3ZG1DLVRuWnV6WTB5RjA4Tkd1Rk5Va29IS2VqS1FJdDdlUQ?oc=5)
-
----
-
-### [I beat cancer at 26 but still lost happy ending after cruel twist stole my wife - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFlRMXJtMWdacGNsNS1mZzZlTWtLNTRlXzVndnJRdzkwbVVDdW1NQ3VsaEFWYk1BNkt0YlQxMzVJODJVNXlLeUNMaXV2clRNdXV3WGdGN2xmOHFrRzJOOXFmUDJpOVNUU3hyNHRKaGNvYV9POVExOXhEWFFvNnhFS0ZBVjNTTmlOTTVJdlBIMXpuZ1hqNkVfWXp4Z1NoN2dsdlFISUthN01CN1lkbHVXMlQxbmN0c1dqWWlUT0dFbnROTmg5NVVXV1NB?oc=5)
 
 ---
 
@@ -164,11 +198,11 @@ permalink: /news/ceritinib/
 
 ---
 
-### [Le cancer de stade 0, un diagnostic peu courant qu'il faut connaître - National Geographic](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYm9sQkRYMWdGRk9NXzhidnRMN1N0MkN3ZVkxd3NVX01Hd1E5TUhXWFVpbUFrUXA0TWdtSnl2djUwLV93ZTNuYkZub2pmVFh0M0Uyem5YZ3NXNW9tbFZvUTFOQ0I0cEp5VEtET2M5REtYcTJ6Ri1uZy1kU21KaWRQTjhYN1FLQ082TUFralMtblJFa0VtMDNBS2NOeTN6cDFoNlBORHB6LUM0UXM?oc=5)
+### [Quali esami fare per valutare la salute delle ossa. E quando conviene farli - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">cancer</span>
+2026-04-17 <span class="news-indication-tag">cancro</span>
 
-來源：[National Geographic](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYm9sQkRYMWdGRk9NXzhidnRMN1N0MkN3ZVkxd3NVX01Hd1E5TUhXWFVpbUFrUXA0TWdtSnl2djUwLV93ZTNuYkZub2pmVFh0M0Uyem5YZ3NXNW9tbFZvUTFOQ0I0cEp5VEtET2M5REtYcTJ6Ri1uZy1kU21KaWRQTjhYN1FLQ082TUFralMtblJFa0VtMDNBS2NOeTN6cDFoNlBORHB6LUM0UXM?oc=5)
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
 
 ---
 
@@ -185,14 +219,6 @@ permalink: /news/ceritinib/
 2026-04-17 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
-
----
-
-### [Un test del sangue rileva la leucemia meglio della biopsia](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmtyWFpHSXNXdXBBSFRrdzNaYVBtNEMwNGV2UDVybXRUQ2RzNnpkcXFXWm9mdkpKUExXalY5eDljUE41M2dmQUhOWTBJVFplNjZpSlNnbEZWaVZubXZKM1hRcnVMWW5SRG9KYWdjcWRMMUVodW9ubXVabThyNlBxNHV1VQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmtyWFpHSXNXdXBBSFRrdzNaYVBtNEMwNGV2UDVybXRUQ2RzNnpkcXFXWm9mdkpKUExXalY5eDljUE41M2dmQUhOWTBJVFplNjZpSlNnbEZWaVZubXZKM1hRcnVMWW5SRG9KYWdjcWRMMUVodW9ubXVabThyNlBxNHV1VQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Tedizolid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tedizolid 的相關健康新聞報導。原適應症：Sivextro tablets are indicated for the treatment o...。預測適應症 10 個。"
+description: "Tedizolid 的相關健康新聞報導。原適應症：Sivextro tablets are indicated for the treatment o...。預測適應症 20 個。"
 permalink: /news/tedizolid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tedizolid/
 ---
 
 <p class="key-answer" data-question="Tedizolid 有什麼相關新聞？">
-<strong>Tedizolid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tedizolid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/tedizolid/
 <ul>
 <li><strong>原適應症</strong>：Sivextro tablets are indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults, adolescents and children weighing at least 35 kg.Consideration should be...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>orofacial clefting syndrome（93.9%）</li>
 <li>interventricular septum aneurysm（93.9%）</li>
 <li>bronchitis（93.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/tedizolid/
 <li>disorder of fucoglycosan synthesis（93.5%）</li>
 <li>partial deletion of the long arm of chromosome 7（93.5%）</li>
 <li>partial deletion of the long arm of chromosome 22（93.3%）</li>
+<li>pulmonary valve disease（93.3%）</li>
+<li>mitral valve disease（92.6%）</li>
+<li>heart disease（91.2%）</li>
+<li>heart neoplasm（83.6%）</li>
+<li>epiglottitis（82.8%）</li>
+<li>conjunctivitis（81.7%）</li>
+<li>heart conduction disease（81.4%）</li>
+<li>congenital anomaly of ventricular septum（81.0%）</li>
+<li>bronchial neoplasm (disease)（81.0%）</li>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（79.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">查看完整藥物報告 →</a></p>

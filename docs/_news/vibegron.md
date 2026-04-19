@@ -3,7 +3,7 @@ layout: default
 title: "Vibegron 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vibegron 的相關健康新聞報導。原適應症：Obgemsa is indicated in symptomatic treatment of a...。預測適應症 10 個。"
+description: "Vibegron 的相關健康新聞報導。原適應症：Obgemsa is indicated in symptomatic treatment of a...。預測適應症 20 個。"
 permalink: /news/vibegron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vibegron/
 ---
 
 <p class="key-answer" data-question="Vibegron 有什麼相關新聞？">
-<strong>Vibegron</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vibegron</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/vibegron/
 <ul>
 <li><strong>原適應症</strong>：Obgemsa is indicated in symptomatic treatment of adult patients with overactive bladder (OAB) syndrome.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>overactive bladder (disease)（95.9%）</li>
 <li>polycystic kidney disease 3 with or without polycystic liver disease（94.5%）</li>
 <li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies（94.5%）</li>
@@ -37,6 +37,16 @@ permalink: /news/vibegron/
 <li>esophageal varices without bleeding（91.3%）</li>
 <li>karyomegalic interstitial nephritis（90.3%）</li>
 <li>adult familial nephronophthisis-spastic quadriparesia syndrome（90.2%）</li>
+<li>hypotrichosis simplex of the scalp（90.0%）</li>
+<li>16q24.1 microdeletion syndrome（89.0%）</li>
+<li>congenital hypotrichosis milia（88.4%）</li>
+<li>primary interstitial lung disease specific to childhood（88.4%）</li>
+<li>isolated pulmonary capillaritis（88.0%）</li>
+<li>congenital pulmonary lymphangiectasia（86.3%）</li>
+<li>psychogenic movement disorders（85.6%）</li>
+<li>chronic tic disorder（84.6%）</li>
+<li>tremor-nystagmus-duodenal ulcer syndrome（84.1%）</li>
+<li>primary orthostatic tremor（84.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vibegron/' | relative_url }}">查看完整藥物報告 →</a></p>

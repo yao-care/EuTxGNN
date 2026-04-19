@@ -3,7 +3,7 @@ layout: default
 title: "Dolutegravir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dolutegravir 的相關健康新聞報導。原適應症：Tivicay is indicated in combination with other ant...。預測適應症 10 個。"
+description: "Dolutegravir 的相關健康新聞報導。原適應症：Tivicay is indicated in combination with other ant...。預測適應症 20 個。"
 permalink: /news/dolutegravir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dolutegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/dolutegravir/
 <ul>
 <li><strong>原適應症</strong>：Tivicay is indicated in combination with other anti-retroviral medicinal products for the treatment of Human Immunodeficiency Virus (HIV) infected adults, adolescents and children of at least 6 years...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（99.9%）</li>
 <li>feline acquired immunodeficiency syndrome（99.8%）</li>
 <li>simian immunodeficiency virus infection（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/dolutegravir/
 <li>AIDS related complex（96.4%）</li>
 <li>hepatitis C virus infection（93.7%）</li>
 <li>obsolete familial combined hyperlipidemia（93.4%）</li>
+<li>hepatitis E virus infection（92.5%）</li>
+<li>hepatitis A virus infection（92.3%）</li>
+<li>Omsk hemorrhagic fever（92.2%）</li>
+<li>hepatitis, viral, animal（92.0%）</li>
+<li>Kyasanur forest disease（92.0%）</li>
+<li>fibroma of prostate（92.0%）</li>
+<li>Brenner tumor（91.8%）</li>
+<li>benign reproductive system neoplasm（91.7%）</li>
+<li>benign prostate phyllodes tumor（91.4%）</li>
+<li>hepatitis B virus infection（91.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>

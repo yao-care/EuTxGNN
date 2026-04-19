@@ -3,7 +3,7 @@ layout: default
 title: "Bupivacaine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bupivacaine 的相關健康新聞報導。原適應症：Exparel&nbsp;liposomal is indicated:  in adults as...。預測適應症 10 個。"
+description: "Bupivacaine 的相關健康新聞報導。原適應症：Exparel&nbsp;liposomal is indicated:  in adults as...。預測適應症 20 個。"
 permalink: /news/bupivacaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bupivacaine/
 ---
 
 <p class="key-answer" data-question="Bupivacaine 有什麼相關新聞？">
-<strong>Bupivacaine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bupivacaine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/bupivacaine/
 <ul>
 <li><strong>原適應症</strong>：Exparel&nbsp;liposomal is indicated:  in adults as a brachial plexus block or femoral nerve block for treatment of post-operative pain. in adults and children aged 6 years or older as a field block...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>dermatitis（99.5%）</li>
 <li>acrodermatitis chronica atrophicans（99.2%）</li>
 <li>neonatal dermatomyositis（99.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/bupivacaine/
 <li>uterine polyp（98.9%）</li>
 <li>epulis（98.9%）</li>
 <li>polyp of vocal cord（98.9%）</li>
+<li>polyp of middle ear（98.9%）</li>
+<li>fibroepithelial polyp（98.8%）</li>
+<li>polyp of ureter（98.8%）</li>
+<li>polyp of frontal sinus（98.8%）</li>
+<li>neoplastic polyp（98.8%）</li>
+<li>polyp of vulva（98.8%）</li>
+<li>polyp of external auditory canal（98.8%）</li>
+<li>papillary conjunctivitis（96.8%）</li>
+<li>bronchitis（95.7%）</li>
+<li>nasal cavity polyp（93.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bupivacaine/' | relative_url }}">查看完整藥物報告 →</a></p>

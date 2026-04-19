@@ -3,7 +3,7 @@ layout: default
 title: "Vestronidase Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vestronidase Alfa 的相關健康新聞報導。原適應症：Mepsevii is indicated for the treatment of non-neu...。預測適應症 10 個。"
+description: "Vestronidase Alfa 的相關健康新聞報導。原適應症：Mepsevii is indicated for the treatment of non-neu...。預測適應症 20 個。"
 permalink: /news/vestronidase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vestronidase-alfa/
 ---
 
 <p class="key-answer" data-question="Vestronidase Alfa 有什麼相關新聞？">
-<strong>Vestronidase Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vestronidase Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/vestronidase-alfa/
 <ul>
 <li><strong>原適應症</strong>：Mepsevii is indicated for the treatment of non-neurological manifestations of Mucopolysaccharidosis VII (MPS VII; Sly syndrome).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>Scheie syndrome（99.9%）</li>
 <li>lysosomal storage disease with skeletal involvement（99.6%）</li>
 <li>Hurler syndrome（99.4%）</li>
@@ -37,6 +37,16 @@ permalink: /news/vestronidase-alfa/
 <li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome（99.0%）</li>
 <li>congenital Horner syndrome (disease)（99.0%）</li>
 <li>congenital entropion（98.9%）</li>
+<li>jaw-winking syndrome（98.9%）</li>
+<li>lysosomal disease with hypertrophic cardiomyopathy（98.8%）</li>
+<li>congenital ectropion（98.8%）</li>
+<li>epiblepharon（98.8%）</li>
+<li>syndromic neurometabolic disease with X-linked intellectual disability（98.8%）</li>
+<li>mucopolysaccharidosis（98.7%）</li>
+<li>eyelids malposition disorder（98.7%）</li>
+<li>Hurler-Scheie syndrome（97.5%）</li>
+<li>Steel syndrome（96.6%）</li>
+<li>inborn disorder of lysosomal amino acid transport（95.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vestronidase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Cobicistat 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Cobicistat 的相關健康新聞報導。原適應症：Tybost is indicated as a pharmacokinetic enhancer ...。預測適應症 10 個。"
+description: "Cobicistat 的相關健康新聞報導。原適應症：Tybost is indicated as a pharmacokinetic enhancer ...。預測適應症 20 個。"
 permalink: /news/cobicistat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cobicistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cobicistat/
 <ul>
 <li><strong>原適應症</strong>：Tybost is indicated as a pharmacokinetic enhancer of atazanavir 300 mg once daily or darunavir 800 mg once daily as part of antiretroviral combination therapy in human immunodeficiency virus-1...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（100.0%）</li>
 <li>feline acquired immunodeficiency syndrome（99.9%）</li>
 <li>simian immunodeficiency virus infection（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/cobicistat/
 <li>AIDS related complex（98.3%）</li>
 <li>hepatitis C virus infection（97.0%）</li>
 <li>obsolete familial combined hyperlipidemia（96.8%）</li>
+<li>hepatitis B virus infection（96.5%）</li>
+<li>hepatitis E virus infection（96.2%）</li>
+<li>hepatitis A virus infection（96.1%）</li>
+<li>Omsk hemorrhagic fever（96.0%）</li>
+<li>hepatitis, viral, animal（96.0%）</li>
+<li>Kyasanur forest disease（95.9%）</li>
+<li>fibroma of prostate（92.7%）</li>
+<li>Brenner tumor（92.4%）</li>
+<li>benign reproductive system neoplasm（92.4%）</li>
+<li>benign prostate phyllodes tumor（92.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Riluzole 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Riluzole 的相關健康新聞報導。原適應症：Rilutek is indicated to extend life or the time to...。預測適應症 10 個。"
+description: "Riluzole 的相關健康新聞報導。原適應症：Rilutek is indicated to extend life or the time to...。預測適應症 20 個。"
 permalink: /news/riluzole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/riluzole/
 ---
 
 <p class="key-answer" data-question="Riluzole 有什麼相關新聞？">
-<strong>Riluzole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Riluzole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/riluzole/
 <ul>
 <li><strong>原適應症</strong>：Rilutek is indicated to extend life or the time to mechanical ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials have demonstrated that Rilutek extends survival for...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bilateral parasagittal parieto-occipital polymicrogyria（100.0%）</li>
 <li>amyotrophic lateral sclerosis（100.0%）</li>
 <li>axial spondylometaphyseal dysplasia（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/riluzole/
 <li>Mills syndrome（100.0%）</li>
 <li>amyotrophic lateral sclerosis, susceptibility to（100.0%）</li>
 <li>autosomal dominant mitochondrial myopathy with exercise intolerance（100.0%）</li>
+<li>amyotrohpic lateral sclerosis type 22（100.0%）</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（99.7%）</li>
+<li>hydranencephaly (disease)（99.7%）</li>
+<li>congenital disorder of glycosylation with defective fucosylation（99.7%）</li>
+<li>schizophrenia（99.7%）</li>
+<li>retinal dystrophy with or without extraocular anomalies（99.6%）</li>
+<li>atypical glycine encephalopathy（99.6%）</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G（99.6%）</li>
+<li>myopia 26, X-linked, female-limited（99.5%）</li>
+<li>syndromic myopia（99.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/riluzole/' | relative_url }}">查看完整藥物報告 →</a></p>

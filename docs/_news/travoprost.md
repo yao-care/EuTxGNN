@@ -3,7 +3,7 @@ layout: default
 title: "Travoprost 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Travoprost 的相關健康新聞報導。原適應症：Decrease of elevated intraocular pressure in adult...。預測適應症 10 個。"
+description: "Travoprost 的相關健康新聞報導。原適應症：Decrease of elevated intraocular pressure in adult...。預測適應症 20 個。"
 permalink: /news/travoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="Travoprost 有什麼相關新聞？">
-<strong>Travoprost</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Travoprost</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/travoprost/
 <ul>
 <li><strong>原適應症</strong>：Decrease of elevated intraocular pressure in adult patients with ocular hypertension or open-angle glaucoma (see section 5.1). Decrease of elevated intraocular pressure in paediatric patients aged 3...</li>
 <li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>visceral calciphylaxis（100.0%）</li>
 <li>arterial thoracic outlet syndrome（100.0%）</li>
 <li>venous thoracic outlet syndrome（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/travoprost/
 <li>lymphangiectasis（100.0%）</li>
 <li>idiopathic spontaneous coronary artery dissection（100.0%）</li>
 <li>hemangioendothelioma（100.0%）</li>
+<li>hypotrichosis simplex of the scalp（100.0%）</li>
+<li>atheroembolism of kidney（100.0%）</li>
+<li>arterial dissection-lentiginosis syndrome（100.0%）</li>
+<li>congenital hypotrichosis milia（100.0%）</li>
+<li>diffuse alopecia areata（100.0%）</li>
+<li>alopecia（100.0%）</li>
+<li>hypertrichosis (disease)（100.0%）</li>
+<li>open-angle glaucoma（100.0%）</li>
+<li>primary hereditary glaucoma（100.0%）</li>
+<li>malformation syndrome with odontal and/or periodontal component（100.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">查看完整藥物報告 →</a></p>

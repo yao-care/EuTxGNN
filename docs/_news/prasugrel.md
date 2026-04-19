@@ -3,7 +3,7 @@ layout: default
 title: "Prasugrel 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Prasugrel 的相關健康新聞報導。原適應症：Efient, co-administered with acetylsalicylic acid ...。預測適應症 10 個。"
+description: "Prasugrel 的相關健康新聞報導。原適應症：Efient, co-administered with acetylsalicylic acid ...。預測適應症 20 個。"
 permalink: /news/prasugrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="Prasugrel 有什麼相關新聞？">
-<strong>Prasugrel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Prasugrel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/prasugrel/
 <ul>
 <li><strong>原適應症</strong>：Efient, co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in patients with acute coronary syndrome (i.e. unstable angina,...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>pulmonary hypertension（99.9%）</li>
 <li>migraine disorder（99.9%）</li>
 <li>migraine with brainstem aura（99.8%）</li>
@@ -37,26 +37,28 @@ permalink: /news/prasugrel/
 <li>migraine with or without aura, susceptibility to（99.7%）</li>
 <li>brachydactyly-syndactyly syndrome（99.6%）</li>
 <li>leprosy（99.5%）</li>
+<li>obsolete susceptibility to ischemic stroke（99.5%）</li>
+<li>atrophoderma vermiculata（99.5%）</li>
+<li>peripheral vascular disease（99.4%）</li>
+<li>hypertrichosis (disease)（99.4%）</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.4%）</li>
+<li>pulmonary hypertension, primary, autosomal recessive（99.4%）</li>
+<li>Prinzmetal angina（99.4%）</li>
+<li>peripheral arterial disease（99.4%）</li>
+<li>obsolete familial combined hyperlipidemia（99.3%）</li>
+<li>ulerythema ophryogenesis（99.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
-
----
-
-### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

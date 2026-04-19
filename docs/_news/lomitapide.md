@@ -3,7 +3,7 @@ layout: default
 title: "Lomitapide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lomitapide 的相關健康新聞報導。原適應症：Lojuxta is indicated as an adjunct to a low?fat di...。預測適應症 10 個。"
+description: "Lomitapide 的相關健康新聞報導。原適應症：Lojuxta is indicated as an adjunct to a low?fat di...。預測適應症 20 個。"
 permalink: /news/lomitapide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lomitapide/
 ---
 
 <p class="key-answer" data-question="Lomitapide 有什麼相關新聞？">
-<strong>Lomitapide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lomitapide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lomitapide/
 <ul>
 <li><strong>原適應症</strong>：Lojuxta is indicated as an adjunct to a low?fat diet and other lipid?lowering medicinal products with or without low-density-lipoprotein (LDL) apheresis in adult patients with homozygous familial...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>marcothrombocytopenia with mitral valve insufficiency（99.9%）</li>
 <li>hereditary thrombocytopenia with normal platelets（99.9%）</li>
 <li>dense granule disease（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/lomitapide/
 <li>pseudo-von Willebrand disease（99.8%）</li>
 <li>Glanzmann thrombasthenia（99.8%）</li>
 <li>hyperlipoproteinemia（99.7%）</li>
+<li>platelet storage pool deficiency（99.5%）</li>
+<li>hyperlipidemia, familial combined, LPL related（99.5%）</li>
+<li>primary hyperoxaluria（99.0%）</li>
+<li>Scott syndrome（98.7%）</li>
+<li>obsolete familial combined hyperlipidemia（98.6%）</li>
+<li>fibroma of prostate（98.5%）</li>
+<li>fetal and neonatal alloimmune thrombocytopenia（98.4%）</li>
+<li>cholesterol-ester transfer protein deficiency（98.3%）</li>
+<li>benign reproductive system neoplasm（98.3%）</li>
+<li>prostate cancer/brain cancer susceptibility（98.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lomitapide/' | relative_url }}">查看完整藥物報告 →</a></p>

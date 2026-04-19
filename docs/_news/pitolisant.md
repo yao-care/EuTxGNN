@@ -3,7 +3,7 @@ layout: default
 title: "Pitolisant 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Pitolisant 的相關健康新聞報導。原適應症：Wakix is indicated in adults, adolescents and chil...。預測適應症 10 個。"
+description: "Pitolisant 的相關健康新聞報導。原適應症：Wakix is indicated in adults, adolescents and chil...。預測適應症 20 個。"
 permalink: /news/pitolisant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pitolisant/
 ---
 
 <p class="key-answer" data-question="Pitolisant 有什麼相關新聞？">
-<strong>Pitolisant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pitolisant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/pitolisant/
 <ul>
 <li><strong>原適應症</strong>：Wakix is indicated in adults, adolescents and children from the age of 6 years for the treatment of narcolepsy with or without cataplexy (see also section 5.1).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>insomnia (disease)（99.7%）</li>
 <li>attention deficit-hyperactivity disorder（99.4%）</li>
 <li>faciodigitogenital syndrome（99.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/pitolisant/
 <li>narcolepsy-cataplexy syndrome（98.5%）</li>
 <li>narcolepsy（98.4%）</li>
 <li>narcolepsy, susceptibility to（98.2%）</li>
+<li>megaconial type congenital muscular dystrophy（97.6%）</li>
+<li>hypersomnia (disease)（97.0%）</li>
+<li>Balo concentric sclerosis（96.9%）</li>
+<li>circadian rhythm sleep disorder（96.7%）</li>
+<li>chondromyxoid fibroma（96.6%）</li>
+<li>narcolepsy without cataplexy（95.0%）</li>
+<li>variably protease-sensitive prionopathy（94.8%）</li>
+<li>central nervous system disease（94.8%）</li>
+<li>attention deficit hyperactivity disorder, inattentive type（94.5%）</li>
+<li>Wernicke-Korsakoff syndrome（93.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pitolisant/' | relative_url }}">查看完整藥物報告 →</a></p>

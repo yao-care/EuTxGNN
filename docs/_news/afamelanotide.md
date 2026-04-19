@@ -3,7 +3,7 @@ layout: default
 title: "Afamelanotide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Afamelanotide 的相關健康新聞報導。原適應症：Prevention of phototoxicity in adult patients with...。預測適應症 10 個。"
+description: "Afamelanotide 的相關健康新聞報導。原適應症：Prevention of phototoxicity in adult patients with...。預測適應症 20 個。"
 permalink: /news/afamelanotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/afamelanotide/
 ---
 
 <p class="key-answer" data-question="Afamelanotide 有什麼相關新聞？">
-<strong>Afamelanotide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Afamelanotide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/afamelanotide/
 <ul>
 <li><strong>原適應症</strong>：Prevention of phototoxicity in adult patients with erythropoietic protoporphyria (EPP).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>X-linked erythropoietic protoporphyria（98.9%）</li>
 <li>autosomal erythropoietic protoporphyria（98.7%）</li>
 <li>cutaneous porphyria（98.4%）</li>
@@ -37,6 +37,16 @@ permalink: /news/afamelanotide/
 <li>autosomal recessive severe congenital neutropenia due to CXCR2 deficiency（90.1%）</li>
 <li>cold agglutinin disease（90.1%）</li>
 <li>proteinuria（89.7%）</li>
+<li>autosomal recessive severe congenital neutropenia due to JAGN1 deficiency（89.1%）</li>
+<li>autosomal recessive severe congenital neutropenia due to CSF3R deficiency（89.1%）</li>
+<li>adult idiopathic neutropenia（88.7%）</li>
+<li>mixed-type autoimmune hemolytic anemia（88.7%）</li>
+<li>drug-induced autoimmune hemolytic anemia（88.6%）</li>
+<li>isolated congenital growth hormone deficiency（88.5%）</li>
+<li>primary CD59 deficiency（88.5%）</li>
+<li>progeroid syndrome, Petty type（88.4%）</li>
+<li>progeria-short stature-pigmented nevi syndrome（88.3%）</li>
+<li>neonatal autoimmune hemolytic anemia（88.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/afamelanotide/' | relative_url }}">查看完整藥物報告 →</a></p>

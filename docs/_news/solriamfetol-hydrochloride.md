@@ -3,7 +3,7 @@ layout: default
 title: "Solriamfetol Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Solriamfetol Hydrochloride 的相關健康新聞報導。原適應症：Sunosi is indicated to improve wakefulness and red...。預測適應症 10 個。"
+description: "Solriamfetol Hydrochloride 的相關健康新聞報導。原適應症：Sunosi is indicated to improve wakefulness and red...。預測適應症 20 個。"
 permalink: /news/solriamfetol-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/solriamfetol-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Solriamfetol Hydrochloride 有什麼相關新聞？">
-<strong>Solriamfetol Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Solriamfetol Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/solriamfetol-hydrochloride/
 <ul>
 <li><strong>原適應症</strong>：Sunosi is indicated to improve wakefulness and reduce excessive daytime sleepiness in adult patients with narcolepsy (with or without cataplexy). Sunosi is indicated to improve wakefulness and reduce...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>attention deficit-hyperactivity disorder（100.0%）</li>
 <li>faciodigitogenital syndrome（100.0%）</li>
 <li>insomnia (disease)（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/solriamfetol-hydrochloride/
 <li>multiple system atrophy（99.9%）</li>
 <li>X-linked adrenoleukodystrophy（99.8%）</li>
 <li>postural orthostatic tachycardia syndrome（99.8%）</li>
+<li>disorder of peroxisomal alpha-, beta- and omega-oxidation（99.8%）</li>
+<li>narcolepsy（99.8%）</li>
+<li>narcolepsy-cataplexy syndrome（99.8%）</li>
+<li>Creutzfeldt-Jakob disease（99.7%）</li>
+<li>ACBD5 deficiency（99.7%）</li>
+<li>narcolepsy, susceptibility to（99.7%）</li>
+<li>megaconial type congenital muscular dystrophy（99.6%）</li>
+<li>hypersomnia (disease)（99.5%）</li>
+<li>circadian rhythm sleep disorder（99.4%）</li>
+<li>Balo concentric sclerosis（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/solriamfetol-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>

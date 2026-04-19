@@ -3,7 +3,7 @@ layout: default
 title: "Human Thrombin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Human Thrombin 的相關健康新聞報導。原適應症：TachoSil is indicated in adults and children from ...。預測適應症 10 個。"
+description: "Human Thrombin 的相關健康新聞報導。原適應症：TachoSil is indicated in adults and children from ...。預測適應症 20 個。"
 permalink: /news/human-thrombin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/human-thrombin/
 ---
 
 <p class="key-answer" data-question="Human Thrombin 有什麼相關新聞？">
-<strong>Human Thrombin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Human Thrombin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/human-thrombin/
 <ul>
 <li><strong>原適應症</strong>：TachoSil is indicated in adults and children from 1 month of age for supportive treatment in surgery for improvement of haemostasis, to promote tissue sealing and for suture support in vascular...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary release disorder of platelets（97.0%）</li>
 <li>Glanzmann thrombasthenia（96.6%）</li>
 <li>pseudo-von Willebrand disease（96.5%）</li>
@@ -37,6 +37,16 @@ permalink: /news/human-thrombin/
 <li>esophageal disease（86.5%）</li>
 <li>fetal and neonatal alloimmune thrombocytopenia（86.2%）</li>
 <li>platelet-type bleeding disorder（86.1%）</li>
+<li>hemophilia（83.7%）</li>
+<li>hereditary thrombocytosis with transverse limb defect（83.7%）</li>
+<li>flood factor deficiency（83.6%）</li>
+<li>familial thrombomodulin anomalies（83.6%）</li>
+<li>acquired coagulation factor deficiency（83.5%）</li>
+<li>severe nonproliferative diabetic retinopathy（83.1%）</li>
+<li>thrombocytopenia due to immune destruction（83.1%）</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type（82.3%）</li>
+<li>congenital factor V deficiency（81.7%）</li>
+<li>neonatal thrombocytopenia（81.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/human-thrombin/' | relative_url }}">查看完整藥物報告 →</a></p>

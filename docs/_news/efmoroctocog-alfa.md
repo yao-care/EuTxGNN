@@ -3,7 +3,7 @@ layout: default
 title: "Efmoroctocog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Efmoroctocog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 10 個。"
+description: "Efmoroctocog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 20 個。"
 permalink: /news/efmoroctocog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/efmoroctocog-alfa/
 ---
 
 <p class="key-answer" data-question="Efmoroctocog Alfa 有什麼相關新聞？">
-<strong>Efmoroctocog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Efmoroctocog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/efmoroctocog-alfa/
 <ul>
 <li><strong>原適應症</strong>：Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Elocta can be used for all age groups.</li>
 <li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>pseudo-von Willebrand disease（100.0%）</li>
 <li>primary release disorder of platelets（100.0%）</li>
 <li>Glanzmann thrombasthenia（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/efmoroctocog-alfa/
 <li>bleeding diathesis due to a collagen receptor defect（99.9%）</li>
 <li>hemorrhagic disorder due to a constitutional thrombocytopenia（99.9%）</li>
 <li>fetal and neonatal alloimmune thrombocytopenia（99.8%）</li>
+<li>hemophilia A with vascular abnormality（99.8%）</li>
+<li>thrombotic thrombocytopenic purpura（99.7%）</li>
+<li>platelet-type bleeding disorder（99.7%）</li>
+<li>factor XI deficiency（99.6%）</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type（99.6%）</li>
+<li>flood factor deficiency（99.4%）</li>
+<li>methylcobalamin deficiency type cblG（99.4%）</li>
+<li>familial thrombomodulin anomalies（99.3%）</li>
+<li>hereditary thrombocytosis with transverse limb defect（99.3%）</li>
+<li>hemorrhagic disorder due to a platelet anomaly（99.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/efmoroctocog-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

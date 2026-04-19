@@ -3,7 +3,7 @@ layout: default
 title: "Elvitegravir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Elvitegravir 的相關健康新聞報導。原適應症：Treatment of human immunodeficiency virus 1 (HIV 1...。預測適應症 10 個。"
+description: "Elvitegravir 的相關健康新聞報導。原適應症：Treatment of human immunodeficiency virus 1 (HIV 1...。預測適應症 20 個。"
 permalink: /news/elvitegravir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/elvitegravir/
 ---
 
 <p class="key-answer" data-question="Elvitegravir 有什麼相關新聞？">
-<strong>Elvitegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elvitegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/elvitegravir/
 <ul>
 <li><strong>原適應症</strong>：Treatment of human immunodeficiency virus 1 (HIV 1) infection in adults aged 18 years and over who are antiretroviral treatment-naïve or are infected with HIV 1 without known mutations associated...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（99.9%）</li>
 <li>feline acquired immunodeficiency syndrome（99.9%）</li>
 <li>simian immunodeficiency virus infection（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/elvitegravir/
 <li>chronic hepatitis C virus infection（98.7%）</li>
 <li>hepatitis C virus infection（96.8%）</li>
 <li>hepatitis E virus infection（95.8%）</li>
+<li>hepatitis A virus infection（95.6%）</li>
+<li>Omsk hemorrhagic fever（95.6%）</li>
+<li>obsolete familial combined hyperlipidemia（95.6%）</li>
+<li>Kyasanur forest disease（95.5%）</li>
+<li>hepatitis, viral, animal（95.5%）</li>
+<li>hepatitis B virus infection（95.4%）</li>
+<li>fibroma of prostate（94.4%）</li>
+<li>Brenner tumor（94.3%）</li>
+<li>benign reproductive system neoplasm（94.2%）</li>
+<li>benign prostate phyllodes tumor（94.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/elvitegravir/' | relative_url }}">查看完整藥物報告 →</a></p>

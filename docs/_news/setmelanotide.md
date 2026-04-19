@@ -3,7 +3,7 @@ layout: default
 title: "Setmelanotide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Setmelanotide 的相關健康新聞報導。原適應症：IMCIVREE is indicated for the treatment of obesity...。預測適應症 10 個。"
+description: "Setmelanotide 的相關健康新聞報導。原適應症：IMCIVREE is indicated for the treatment of obesity...。預測適應症 20 個。"
 permalink: /news/setmelanotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/setmelanotide/
 ---
 
 <p class="key-answer" data-question="Setmelanotide 有什麼相關新聞？">
-<strong>Setmelanotide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Setmelanotide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/setmelanotide/
 <ul>
 <li><strong>原適應症</strong>：IMCIVREE is indicated for the treatment of obesity and the control of hunger associated with genetically confirmed Bardet Biedl syndrome (BBS), loss-of-function biallelic pro-opiomelanocortin (POMC),...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>migraine disorder（92.2%）</li>
 <li>migraine with brainstem aura（91.7%）</li>
 <li>non-syndromic esophageal malformation（89.6%）</li>
@@ -37,6 +37,16 @@ permalink: /news/setmelanotide/
 <li>esophageal ulcer（81.4%）</li>
 <li>Ambras type hypertrichosis universalis congenita（81.2%）</li>
 <li>pituitary dwarfism（81.1%）</li>
+<li>migraine with or without aura, susceptibility to（80.4%）</li>
+<li>atrophoderma vermiculata（80.0%）</li>
+<li>malformation syndrome with odontal and/or periodontal component（78.9%）</li>
+<li>syndrome with a Dandy-Walker malformation as major feature（78.4%）</li>
+<li>isolated genetic hair shaft abnormality（78.0%）</li>
+<li>erectile dysfunction (disease)（77.9%）</li>
+<li>hypertrichosis (disease)（77.9%）</li>
+<li>ulerythema ophryogenesis（76.7%）</li>
+<li>acne (disease)（74.1%）</li>
+<li>adrenal gland hyperfunction（72.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/setmelanotide/' | relative_url }}">查看完整藥物報告 →</a></p>

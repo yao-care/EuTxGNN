@@ -3,7 +3,7 @@ layout: default
 title: "Inclisiran 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Inclisiran 的相關健康新聞報導。原適應症：Leqvio is indicated in adults with primary hyperch...。預測適應症 10 個。"
+description: "Inclisiran 的相關健康新聞報導。原適應症：Leqvio is indicated in adults with primary hyperch...。預測適應症 20 個。"
 permalink: /news/inclisiran/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Inclisiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/inclisiran/
 <ul>
 <li><strong>原適應症</strong>：Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:  in combination with a statin or statin with...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>potassium deficiency disease（99.9%）</li>
 <li>esophageal disease（99.9%）</li>
 <li>atypical coarctation of aorta（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/inclisiran/
 <li>aortic malformation（99.8%）</li>
 <li>esophageal ulcer（99.7%）</li>
 <li>Raynaud disease（99.7%）</li>
+<li>peptic esophagitis（99.7%）</li>
+<li>cauda equina syndrome（99.7%）</li>
+<li>gastrin secretion abnormality（99.7%）</li>
+<li>ulerythema ophryogenesis（99.6%）</li>
+<li>irritable bowel syndrome（99.6%）</li>
+<li>atrophoderma vermiculata（99.5%）</li>
+<li>peptic ulcer disease（99.5%）</li>
+<li>esophageal diverticulosis（99.5%）</li>
+<li>phaeochromocytoma（99.5%）</li>
+<li>dyskinesia of esophagus（99.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>

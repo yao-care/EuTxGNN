@@ -3,7 +3,7 @@ layout: default
 title: "Busulfan 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Busulfan 的相關健康新聞報導。原適應症：Busulfan Fresenius Kabi followed by cyclophosphami...。預測適應症 10 個。"
+description: "Busulfan 的相關健康新聞報導。原適應症：Busulfan Fresenius Kabi followed by cyclophosphami...。預測適應症 20 個。"
 permalink: /news/busulfan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/busulfan/
 ---
 
 <p class="key-answer" data-question="Busulfan 有什麼相關新聞？">
-<strong>Busulfan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Busulfan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/busulfan/
 <ul>
 <li><strong>原適應症</strong>：Busulfan Fresenius Kabi followed by cyclophosphamide (BuCy2) is indicated as conditioning treatment prior to conventional haematopoietic progenitor cell transplantation (HPCT) in adult patients when...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>myelodysplastic syndrome（99.6%）</li>
 <li>refractory cytopenia of childhood（99.5%）</li>
 <li>unclassified myelodysplastic syndrome（99.5%）</li>
@@ -37,6 +37,16 @@ permalink: /news/busulfan/
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.2%）</li>
 <li>seborrheic keratosis（99.2%）</li>
 <li>feline acquired immunodeficiency syndrome（99.1%）</li>
+<li>simian immunodeficiency virus infection（99.1%）</li>
+<li>rheumatoid arthritis（99.0%）</li>
+<li>obsolete familial combined hyperlipidemia（99.0%）</li>
+<li>female breast carcinoma（98.9%）</li>
+<li>primary cutaneous T-cell lymphoma（98.8%）</li>
+<li>vulvar inverted follicular keratosis（98.8%）</li>
+<li>multiple sclerosis（98.7%）</li>
+<li>granulomatous slack skin disease（98.6%）</li>
+<li>seborrheic dermatitis（98.5%）</li>
+<li>Crohn's colitis（98.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/busulfan/' | relative_url }}">查看完整藥物報告 →</a></p>

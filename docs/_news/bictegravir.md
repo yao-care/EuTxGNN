@@ -3,7 +3,7 @@ layout: default
 title: "Bictegravir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bictegravir 的相關健康新聞報導。原適應症：Biktarvy is indicated for the treatment of human i...。預測適應症 10 個。"
+description: "Bictegravir 的相關健康新聞報導。原適應症：Biktarvy is indicated for the treatment of human i...。預測適應症 20 個。"
 permalink: /news/bictegravir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bictegravir/
 ---
 
 <p class="key-answer" data-question="Bictegravir 有什麼相關新聞？">
-<strong>Bictegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bictegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/bictegravir/
 <ul>
 <li><strong>原適應症</strong>：Biktarvy is indicated for the treatment of human immunodeficiency virus 1 (HIV 1) infection in adults and paediatric patients at least 2 years of age and weighing at least 14 kg i without present or...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（99.9%）</li>
 <li>simian immunodeficiency virus infection（99.8%）</li>
 <li>feline acquired immunodeficiency syndrome（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/bictegravir/
 <li>congenital human immunodeficiency virus（94.8%）</li>
 <li>hepatitis C virus infection（93.3%）</li>
 <li>hepatitis E virus infection（92.1%）</li>
+<li>hepatitis A virus infection（91.9%）</li>
+<li>Omsk hemorrhagic fever（91.8%）</li>
+<li>Kyasanur forest disease（91.7%）</li>
+<li>hepatitis, viral, animal（91.6%）</li>
+<li>ulceration of vulva（90.7%）</li>
+<li>anogenital human papillomavirus infection（90.3%）</li>
+<li>fibroma of prostate（90.2%）</li>
+<li>Brenner tumor（90.2%）</li>
+<li>vulvitis（90.0%）</li>
+<li>vulvar neoplasm（90.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bictegravir/' | relative_url }}">查看完整藥物報告 →</a></p>

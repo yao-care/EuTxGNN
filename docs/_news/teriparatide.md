@@ -3,7 +3,7 @@ layout: default
 title: "Teriparatide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Teriparatide 的相關健康新聞報導。原適應症：Kauliv is indicated in adults. Treatment of osteop...。預測適應症 10 個。"
+description: "Teriparatide 的相關健康新聞報導。原適應症：Kauliv is indicated in adults. Treatment of osteop...。預測適應症 20 個。"
 permalink: /news/teriparatide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/teriparatide/
 ---
 
 <p class="key-answer" data-question="Teriparatide 有什麼相關新聞？">
-<strong>Teriparatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teriparatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/teriparatide/
 <ul>
 <li><strong>原適應症</strong>：Kauliv is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at increased risk of fracture (see section 5.1). In postmenopausal women, a significant reduction in the...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>duodenal ulcer (disease)（99.9%）</li>
 <li>non-syndromic esophageal malformation（99.8%）</li>
 <li>postmenopausal osteoporosis（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/teriparatide/
 <li>autosomal dominant neovascular inflammatory vitreoretinopathy（99.7%）</li>
 <li>pregnancy associated osteoporosis（99.5%）</li>
 <li>succinyl-CoA:3-ketoacid CoA transferase deficiency（99.5%）</li>
+<li>amenorrhea (disease)（99.0%）</li>
+<li>esophageal ulcer（99.0%）</li>
+<li>severe nonproliferative diabetic retinopathy（99.0%）</li>
+<li>osteoporosis（98.8%）</li>
+<li>hypoalphalipoproteinemia（98.5%）</li>
+<li>phosphorus metabolism disease（97.9%）</li>
+<li>hyperlipidemia（97.9%）</li>
+<li>hypercalcemia disease（97.6%）</li>
+<li>complex regional pain syndrome（97.5%）</li>
+<li>duodenitis（97.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/teriparatide/' | relative_url }}">查看完整藥物報告 →</a></p>

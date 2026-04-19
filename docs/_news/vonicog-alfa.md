@@ -3,7 +3,7 @@ layout: default
 title: "Vonicog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vonicog Alfa 的相關健康新聞報導。原適應症：Prevention and treatment of haemorrhage or surgica...。預測適應症 10 個。"
+description: "Vonicog Alfa 的相關健康新聞報導。原適應症：Prevention and treatment of haemorrhage or surgica...。預測適應症 20 個。"
 permalink: /news/vonicog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vonicog-alfa/
 ---
 
 <p class="key-answer" data-question="Vonicog Alfa 有什麼相關新聞？">
-<strong>Vonicog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vonicog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/vonicog-alfa/
 <ul>
 <li><strong>原適應症</strong>：Prevention and treatment of haemorrhage or surgical bleeding in adults (age 18 years and older) with von Willebrand disease (VWD), when desmopressin (DDAVP) treatment alone is ineffective or...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary release disorder of platelets（100.0%）</li>
 <li>Glanzmann thrombasthenia（100.0%）</li>
 <li>pseudo-von Willebrand disease（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/vonicog-alfa/
 <li>bleeding diathesis due to a collagen receptor defect（99.9%）</li>
 <li>hemorrhagic disorder due to a constitutional thrombocytopenia（99.9%）</li>
 <li>flood factor deficiency（99.9%）</li>
+<li>hereditary thrombocytosis with transverse limb defect（99.9%）</li>
+<li>familial thrombomodulin anomalies（99.9%）</li>
+<li>von Willebrand disease（99.8%）</li>
+<li>inherited thrombophilia（99.8%）</li>
+<li>small bowel Crohn disease（99.8%）</li>
+<li>methylcobalamin deficiency type cblG（99.8%）</li>
+<li>esophageal ulcer（99.8%）</li>
+<li>gastritis（99.7%）</li>
+<li>thrombotic thrombocytopenic purpura（99.7%）</li>
+<li>hemorrhagic disorder due to a coagulation factors defect（99.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vonicog-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

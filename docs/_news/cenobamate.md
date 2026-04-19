@@ -3,7 +3,7 @@ layout: default
 title: "Cenobamate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Cenobamate 的相關健康新聞報導。原適應症：Adjunctive treatment of focal-onset seizures with ...。預測適應症 10 個。"
+description: "Cenobamate 的相關健康新聞報導。原適應症：Adjunctive treatment of focal-onset seizures with ...。預測適應症 20 個。"
 permalink: /news/cenobamate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cenobamate/
 ---
 
 <p class="key-answer" data-question="Cenobamate 有什麼相關新聞？">
-<strong>Cenobamate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cenobamate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cenobamate/
 <ul>
 <li><strong>原適應症</strong>：Adjunctive treatment of focal-onset seizures with or without secondary generalisation in adult patients with epilepsy who have not been adequately controlled despite a history of treatment with at...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>partial epilepsy（98.3%）</li>
 <li>guanidinoacetate methyltransferase deficiency（97.8%）</li>
 <li>status epilepticus（97.5%）</li>
@@ -37,6 +37,16 @@ permalink: /news/cenobamate/
 <li>startle epilepsy（95.9%）</li>
 <li>eating seizures（95.9%）</li>
 <li>thinking seizures（95.9%）</li>
+<li>orgasm-induced seizures（95.9%）</li>
+<li>micturation-induced seizures（95.9%）</li>
+<li>audiogenic seizures（95.9%）</li>
+<li>adolescent/adult onset autosomal dominant epilepsy with auditory features（95.6%）</li>
+<li>reading seizures（94.9%）</li>
+<li>epilepsy with generalized tonic-clonic seizures（94.2%）</li>
+<li>partial motor epilepsy（93.4%）</li>
+<li>trigeminal nerve neoplasm（91.2%）</li>
+<li>epilepsy（90.7%）</li>
+<li>restless legs syndrome（87.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cenobamate/' | relative_url }}">查看完整藥物報告 →</a></p>

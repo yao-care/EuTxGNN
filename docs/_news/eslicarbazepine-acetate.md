@@ -3,7 +3,7 @@ layout: default
 title: "Eslicarbazepine Acetate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Eslicarbazepine Acetate 的相關健康新聞報導。原適應症：Zebinix is indicated as adjunctive therapy in adul...。預測適應症 10 個。"
+description: "Eslicarbazepine Acetate 的相關健康新聞報導。原適應症：Zebinix is indicated as adjunctive therapy in adul...。預測適應症 20 個。"
 permalink: /news/eslicarbazepine-acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/eslicarbazepine-acetate/
 <ul>
 <li><strong>原適應症</strong>：Zebinix is indicated as adjunctive therapy in adults, adolescents and children aged above 6 years, with partial-onset seizures with or without secondary generalisation.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>partial epilepsy（99.0%）</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features（98.7%）</li>
 <li>status epilepticus（98.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/eslicarbazepine-acetate/
 <li>beta-ketothiolase deficiency（98.2%）</li>
 <li>eating seizures（97.5%）</li>
 <li>audiogenic seizures（97.5%）</li>
+<li>orgasm-induced seizures（97.5%）</li>
+<li>startle epilepsy（97.5%）</li>
+<li>thinking seizures（97.5%）</li>
+<li>micturation-induced seizures（97.5%）</li>
+<li>Rett syndrome, congenital variant（97.2%）</li>
+<li>14q12 microdeletion syndrome（97.0%）</li>
+<li>reading seizures（96.9%）</li>
+<li>trigeminal nerve neoplasm（95.9%）</li>
+<li>partial motor epilepsy（95.3%）</li>
+<li>epilepsy（92.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>

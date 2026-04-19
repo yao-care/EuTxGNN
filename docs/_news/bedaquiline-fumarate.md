@@ -3,7 +3,7 @@ layout: default
 title: "Bedaquiline Fumarate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bedaquiline Fumarate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Bedaquiline Fumarate 的相關健康新聞報導。原適應症：。預測適應症 20 個。"
 permalink: /news/bedaquiline-fumarate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bedaquiline-fumarate/
 ---
 
 <p class="key-answer" data-question="Bedaquiline Fumarate 有什麼相關新聞？">
-<strong>Bedaquiline Fumarate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bedaquiline Fumarate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/bedaquiline-fumarate/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>multidrug-resistant tuberculosis（100.0%）</li>
 <li>tuberculosis, bovine（100.0%）</li>
 <li>tuberculoma（100.0%）</li>
@@ -36,6 +36,16 @@ permalink: /news/bedaquiline-fumarate/
 <li>fascioliasis（99.9%）</li>
 <li>urea cycle disorder（99.8%）</li>
 <li>cutaneous tuberculosis（99.7%）</li>
+<li>esophageal candidiasis（99.7%）</li>
+<li>inhalational botulism（99.7%）</li>
+<li>helminthiasis, animal（99.6%）</li>
+<li>necatoriasis（99.6%）</li>
+<li>hymenolepiasis（99.6%）</li>
+<li>paragonimiasis（99.6%）</li>
+<li>echinostomiasis（99.6%）</li>
+<li>fascioloidiasis（99.6%）</li>
+<li>monieziasis（99.6%）</li>
+<li>fasciolopsiasis（99.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bedaquiline-fumarate/' | relative_url }}">查看完整藥物報告 →</a></p>

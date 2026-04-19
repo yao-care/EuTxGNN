@@ -3,7 +3,7 @@ layout: default
 title: "Pravastatin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Pravastatin 的相關健康新聞報導。原適應症：Pravafenix is indicated as an adjunct to diet and ...。預測適應症 10 個。"
+description: "Pravastatin 的相關健康新聞報導。原適應症：Pravafenix is indicated as an adjunct to diet and ...。預測適應症 20 個。"
 permalink: /news/pravastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pravastatin/
 ---
 
 <p class="key-answer" data-question="Pravastatin 有什麼相關新聞？">
-<strong>Pravastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pravastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/pravastatin/
 <ul>
 <li><strong>原適應症</strong>：Pravafenix is indicated as an adjunct to diet and other non-pharmacological treatment (e.g. exercise, weight reduction) for the treatment of mixed hyperlipidaemia in adult patients at high...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>homozygous familial hypercholesterolemia（100.0%）</li>
 <li>obsolete familial combined hyperlipidemia（99.8%）</li>
 <li>HIV infectious disease（99.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/pravastatin/
 <li>familial hypercholesterolemia（99.3%）</li>
 <li>hypoalphalipoproteinemia（99.2%）</li>
 <li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency（99.1%）</li>
+<li>cholesterol-ester transfer protein deficiency（99.0%）</li>
+<li>hyperlipidemia, familial combined, LPL related（98.9%）</li>
+<li>obsolete susceptibility to ischemic stroke（98.8%）</li>
+<li>hypercholesterolemia, autosomal dominant（98.7%）</li>
+<li>familial hyperlipidemia（98.5%）</li>
+<li>brain stem infarction（98.4%）</li>
+<li>hyperlipidemia due to hepatic triglyceride lipase deficiency（98.2%）</li>
+<li>hypolipoproteinemia (disease)（98.1%）</li>
+<li>hyperlipidemia（98.0%）</li>
+<li>cerebral infarction（97.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Tiratricol 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tiratricol 的相關健康新聞報導。原適應症：Emcitate is indicated for the treatment of periphe...。預測適應症 10 個。"
+description: "Tiratricol 的相關健康新聞報導。原適應症：Emcitate is indicated for the treatment of periphe...。預測適應症 20 個。"
 permalink: /news/tiratricol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tiratricol/
 ---
 
 <p class="key-answer" data-question="Tiratricol 有什麼相關新聞？">
-<strong>Tiratricol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tiratricol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/tiratricol/
 <ul>
 <li><strong>原適應症</strong>：Emcitate is indicated for the treatment of peripheral thyrotoxicosis in patients with monocarboxylate transporter 8 (MCT8) deficiency (Allan-Herndon-Dudley Syndrome), from birth.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>migraine with brainstem aura（93.3%）</li>
 <li>migraine disorder（92.3%）</li>
 <li>seborrheic dermatitis（80.6%）</li>
@@ -37,6 +37,16 @@ permalink: /news/tiratricol/
 <li>ocular tuberculosis（58.6%）</li>
 <li>polyp of frontal sinus（58.1%）</li>
 <li>polyp of ureter（58.1%）</li>
+<li>polyp of external auditory canal（57.6%）</li>
+<li>polyp of vulva（57.3%）</li>
+<li>epulis（57.2%）</li>
+<li>sunburn（57.0%）</li>
+<li>fibroepithelial polyp（56.8%）</li>
+<li>acne (disease)（56.6%）</li>
+<li>obsolete pathologic fracture（56.4%）</li>
+<li>arteriosclerosis obliterans（56.2%）</li>
+<li>obsolete functional visual loss（56.2%）</li>
+<li>guttate psoriasis（56.1%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tiratricol/' | relative_url }}">查看完整藥物報告 →</a></p>

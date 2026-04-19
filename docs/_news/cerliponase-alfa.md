@@ -3,7 +3,7 @@ layout: default
 title: "Cerliponase Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Cerliponase Alfa 的相關健康新聞報導。原適應症：Brineura is indicated for the treatment of neurona...。預測適應症 10 個。"
+description: "Cerliponase Alfa 的相關健康新聞報導。原適應症：Brineura is indicated for the treatment of neurona...。預測適應症 20 個。"
 permalink: /news/cerliponase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cerliponase-alfa/
 ---
 
 <p class="key-answer" data-question="Cerliponase Alfa 有什麼相關新聞？">
-<strong>Cerliponase Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Cerliponase Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cerliponase-alfa/
 <ul>
 <li><strong>原適應症</strong>：Brineura is indicated for the treatment of neuronal ceroid lipofuscinosis type 2 (CLN2) disease, also known as tripeptidyl peptidase 1 (TPP1) deficiency</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>Scheie syndrome（100.0%）</li>
 <li>Hurler syndrome（100.0%）</li>
 <li>lysosomal storage disease with skeletal involvement（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/cerliponase-alfa/
 <li>Wolman disease with hypolipoproteinemia and acanthocytosis（99.9%）</li>
 <li>myoclonic epilepsy, juvenile, susceptibility to（99.9%）</li>
 <li>proximal myopathy with extrapyramidal signs（99.9%）</li>
+<li>autosomal ichthyosis syndrome with fatal disease course（99.9%）</li>
+<li>Wolman disease（99.9%）</li>
+<li>adolescent/adult-onset epilepsy syndrome（99.9%）</li>
+<li>Tay-Sachs disease（99.9%）</li>
+<li>adolescence-adult electroclinical syndrome（99.9%）</li>
+<li>growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant（99.9%）</li>
+<li>adult Krabbe disease（99.9%）</li>
+<li>Sanfilippo syndrome（99.8%）</li>
+<li>lysosomal acid lipase deficiency（99.8%）</li>
+<li>skeletal muscle disease（99.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cerliponase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

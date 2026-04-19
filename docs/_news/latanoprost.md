@@ -3,7 +3,7 @@ layout: default
 title: "Latanoprost 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Latanoprost 的相關健康新聞報導。原適應症：Catiolanze is indicated for the reduction of eleva...。預測適應症 10 個。"
+description: "Latanoprost 的相關健康新聞報導。原適應症：Catiolanze is indicated for the reduction of eleva...。預測適應症 20 個。"
 permalink: /news/latanoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/latanoprost/
 ---
 
 <p class="key-answer" data-question="Latanoprost 有什麼相關新聞？">
-<strong>Latanoprost</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Latanoprost</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/latanoprost/
 <ul>
 <li><strong>原適應症</strong>：Catiolanze is indicated for the reduction of elevated intraocular pressure (IOP) in adult patients with open angle glaucoma or ocular hypertension. Catiolanze is indicated for the reduction of...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary hereditary glaucoma（99.9%）</li>
 <li>open-angle glaucoma（99.9%）</li>
 <li>visceral calciphylaxis（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/latanoprost/
 <li>congenital hypotrichosis milia（99.7%）</li>
 <li>angiodysplasia of stomach（99.7%）</li>
 <li>blue toe syndrome（99.7%）</li>
+<li>lymphangiectasis（99.7%）</li>
+<li>hemangioendothelioma（99.7%）</li>
+<li>vascular disease（99.7%）</li>
+<li>atheroembolism of kidney（99.7%）</li>
+<li>idiopathic spontaneous coronary artery dissection（99.6%）</li>
+<li>diffuse alopecia areata（99.6%）</li>
+<li>arterial dissection-lentiginosis syndrome（99.6%）</li>
+<li>alopecia（99.4%）</li>
+<li>congestive heart failure（99.3%）</li>
+<li>acute pulmonary heart disease（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">查看完整藥物報告 →</a></p>

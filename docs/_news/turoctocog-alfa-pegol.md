@@ -3,7 +3,7 @@ layout: default
 title: "Turoctocog Alfa Pegol 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Turoctocog Alfa Pegol 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 10 個。"
+description: "Turoctocog Alfa Pegol 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 20 個。"
 permalink: /news/turoctocog-alfa-pegol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/turoctocog-alfa-pegol/
 ---
 
 <p class="key-answer" data-question="Turoctocog Alfa Pegol 有什麼相關新聞？">
-<strong>Turoctocog Alfa Pegol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Turoctocog Alfa Pegol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/turoctocog-alfa-pegol/
 <ul>
 <li><strong>原適應症</strong>：Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency).Esperoct can be used for all age groups.</li>
 <li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary release disorder of platelets（100.0%）</li>
 <li>pseudo-von Willebrand disease（100.0%）</li>
 <li>Glanzmann thrombasthenia（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/turoctocog-alfa-pegol/
 <li>hemorrhagic disorder due to a constitutional thrombocytopenia（100.0%）</li>
 <li>flood factor deficiency（99.8%）</li>
 <li>hereditary thrombocytosis with transverse limb defect（99.7%）</li>
+<li>fetal and neonatal alloimmune thrombocytopenia（99.7%）</li>
+<li>familial thrombomodulin anomalies（99.7%）</li>
+<li>thrombotic thrombocytopenic purpura（99.7%）</li>
+<li>symptomatic form of hemophilia in female carriers（99.6%）</li>
+<li>platelet-type bleeding disorder（99.6%）</li>
+<li>inherited thrombophilia（99.5%）</li>
+<li>methylcobalamin deficiency type cblG（99.5%）</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type（99.2%）</li>
+<li>hemophilia A with vascular abnormality（98.5%）</li>
+<li>hemorrhagic disorder due to a platelet anomaly（98.1%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/turoctocog-alfa-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>

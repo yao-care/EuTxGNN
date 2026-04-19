@@ -3,7 +3,7 @@ layout: default
 title: "Givosiran 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Givosiran 的相關健康新聞報導。原適應症：Treatment of acute hepatic porphyria (AHP) in adul...。預測適應症 10 個。"
+description: "Givosiran 的相關健康新聞報導。原適應症：Treatment of acute hepatic porphyria (AHP) in adul...。預測適應症 20 個。"
 permalink: /news/givosiran/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/givosiran/
 <ul>
 <li><strong>原適應症</strong>：Treatment of acute hepatic porphyria (AHP) in adults and adolescents aged 12 years and older.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>hepatic porphyria（100.0%）</li>
 <li>hepatopulmonary syndrome（100.0%）</li>
 <li>hepatoportal sclerosis（100.0%）</li>
@@ -37,12 +37,22 @@ permalink: /news/givosiran/
 <li>glycogen storage disease due to hepatic glycogen synthase deficiency（100.0%）</li>
 <li>chronic hepatitis B virus infection（99.9%）</li>
 <li>porphyria due to ALA dehydratase deficiency（99.9%）</li>
+<li>disorder of phenylalanine metabolism（99.9%）</li>
+<li>hepatitis B virus infection（99.9%）</li>
+<li>disorder of tyrosine metabolism（99.9%）</li>
+<li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria（99.9%）</li>
+<li>nodular regenerative hyperplasia of the liver（99.9%）</li>
+<li>teratogenic Pierre Robin syndrome（99.9%）</li>
+<li>acute intermittent porphyria（99.7%）</li>
+<li>hepatitis C virus infection（99.6%）</li>
+<li>porphyria（99.6%）</li>
+<li>tetrahydrobiopterin metabolic process disease（99.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Caso di Epatite A in una scuola elementare in Campania, il sindaco: «Non bisogna allarmarsi» - Il Mattino](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUk1OTRheEZuOUl6N0V0bXZfdUFuV1hFVFVtMm16ZV92RzFLWm5QZlNCb25rX0RiMWs3VG9TQ2FuNlVZb0puQzlMd3BHU0p0WEc2QUg4OXdySUJ4OXhZMXYxNURfYzd2X0VRaGRac19BNERKaWJBX3hQR0JrLXMzOGdXQ3NZakk3SkNMT1930gGTAUFVX3lxTE1SZFJWWGlwQ0ZaUEJfS05QcDl0d0xsaFpYS0xmSE02T3IyMkF1ZlFvUk1keTJsTnQ0c2dPdjI1NEJmTlM3UlFSd19sZUJod0FsRWV3enpzS1dBaVFKZ3hWeUg1dEZJNURweC1IbHZZVy1RTkhFOWl4RE5oSjBoaHhNZzdLQ2JnVEJJemFJbk1UMWs3dw?oc=5)
 
@@ -57,14 +67,6 @@ permalink: /news/givosiran/
 2026-04-17 <span class="news-indication-tag">hepatitis</span>
 
 來源：[elfarodelguadarrama.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGh5a204MnJtSDJ4N1I3dzk3clA0ODR5ZFRMUWxCRl9PVl9IZmJnc3VkeXhhUVExVDZXNkoxc1l3VVZUZ3lpY2V5YVJMd3hvSnZ4YnBlU2RyMnM4RzF4SVAyOWZqUXJtcy0tVzFLWTIxNmQyS2JKa1AxNHNZMXAyVnlHNjBEcmhPcnRWcl9WVThISzZGR0R0SUx6dU4wNGZnRzJnRFphRC0wRGlxWkVzRllEQlhTb0FEaUh2MjNnVzlIdmJabzk3S2wzOTNVaFBnb2diYlBtMm80cnhfT21OZXZ1QzRrMmZDb3FCLU14NA?oc=5)
-
----
-
-### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
 
 ---
 

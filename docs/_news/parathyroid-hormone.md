@@ -3,7 +3,7 @@ layout: default
 title: "Parathyroid Hormone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Parathyroid Hormone 的相關健康新聞報導。原適應症：Natpar is indicated as adjunctive treatment of adu...。預測適應症 10 個。"
+description: "Parathyroid Hormone 的相關健康新聞報導。原適應症：Natpar is indicated as adjunctive treatment of adu...。預測適應症 20 個。"
 permalink: /news/parathyroid-hormone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parathyroid-hormone/
 ---
 
 <p class="key-answer" data-question="Parathyroid Hormone 有什麼相關新聞？">
-<strong>Parathyroid Hormone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Parathyroid Hormone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/parathyroid-hormone/
 <ul>
 <li><strong>原適應症</strong>：Natpar is indicated as adjunctive treatment of adult patients with chronic hypoparathyroidism who cannot be adequately controlled with standard therapy alone.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>migraine disorder（100.0%）</li>
 <li>migraine with brainstem aura（100.0%）</li>
 <li>amenorrhea (disease)（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/parathyroid-hormone/
 <li>atrophoderma vermiculata（99.7%）</li>
 <li>ulerythema ophryogenesis（99.6%）</li>
 <li>erectile dysfunction (disease)（99.1%）</li>
+<li>esophageal ulcer（99.0%）</li>
+<li>sciatic neuropathy（99.0%）</li>
+<li>open-angle glaucoma（98.8%）</li>
+<li>primary hereditary glaucoma（98.7%）</li>
+<li>homozygous familial hypercholesterolemia（98.7%）</li>
+<li>postural orthostatic tachycardia syndrome（98.7%）</li>
+<li>lesion of sciatic nerve（98.6%）</li>
+<li>infectious bovine rhinotracheitis（98.6%）</li>
+<li>malignant catarrh（98.6%）</li>
+<li>antithrombin deficiency type 2（98.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/parathyroid-hormone/' | relative_url }}">查看完整藥物報告 →</a></p>

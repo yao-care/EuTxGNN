@@ -3,7 +3,7 @@ layout: default
 title: "Caffeine Citrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Caffeine Citrate 的相關健康新聞報導。原適應症：Treatment of primary apnoea of premature newborns.。預測適應症 10 個。"
+description: "Caffeine Citrate 的相關健康新聞報導。原適應症：Treatment of primary apnoea of premature newborns.。預測適應症 20 個。"
 permalink: /news/caffeine-citrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/caffeine-citrate/
 ---
 
 <p class="key-answer" data-question="Caffeine Citrate 有什麼相關新聞？">
-<strong>Caffeine Citrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Caffeine Citrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/caffeine-citrate/
 <ul>
 <li><strong>原適應症</strong>：Treatment of primary apnoea of premature newborns.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>pharyngitis（99.9%）</li>
 <li>nasal cavity disease（99.9%）</li>
 <li>thrombotic disease（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/caffeine-citrate/
 <li>neuralgia（99.3%）</li>
 <li>cluster headache syndrome（99.3%）</li>
 <li>hemicrania continua（99.3%）</li>
+<li>glossodynia（99.3%）</li>
+<li>coccygodynia（99.2%）</li>
+<li>nasopharyngitis（99.2%）</li>
+<li>trigeminal autonomic cephalalgia（99.2%）</li>
+<li>hypnic headache (disease)（99.2%）</li>
+<li>vein disease（99.1%）</li>
+<li>SUNCT syndrome（99.0%）</li>
+<li>faucial diphtheria（98.8%）</li>
+<li>cervical disc degenerative disorder（98.8%）</li>
+<li>rosacea conjunctivitis（98.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/caffeine-citrate/' | relative_url }}">查看完整藥物報告 →</a></p>

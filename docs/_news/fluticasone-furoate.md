@@ -3,7 +3,7 @@ layout: default
 title: "Fluticasone Furoate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fluticasone Furoate 的相關健康新聞報導。原適應症：Asthma Indication Revinty Ellipta is indicated in ...。預測適應症 10 個。"
+description: "Fluticasone Furoate 的相關健康新聞報導。原適應症：Asthma Indication Revinty Ellipta is indicated in ...。預測適應症 20 個。"
 permalink: /news/fluticasone-furoate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/fluticasone-furoate/
 <ul>
 <li><strong>原適應症</strong>：Asthma Indication Revinty Ellipta is indicated in the regular treatment of asthma in adults and adolescents aged 12 years and older, where use of a combination product (long-acting beta2-agonist and...</li>
 <li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>atopic eczema（100.0%）</li>
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/fluticasone-furoate/
 <li>contact dermatitis（99.5%）</li>
 <li>asthma-related traits, susceptibility to（99.4%）</li>
 <li>occupational dermatitis（99.3%）</li>
+<li>phototoxic dermatitis（99.1%）</li>
+<li>obstructive lung disease（98.9%）</li>
+<li>polyp of vocal cord（98.9%）</li>
+<li>polyp of middle ear（98.9%）</li>
+<li>fibroepithelial polyp（98.8%）</li>
+<li>seborrheic dermatitis（98.8%）</li>
+<li>neoplastic polyp（98.8%）</li>
+<li>atopic dermatitis（98.8%）</li>
+<li>polyp of vulva（98.8%）</li>
+<li>polyp of frontal sinus（98.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -52,11 +62,11 @@ permalink: /news/fluticasone-furoate/
 
 ---
 
-### [Zwei Biomarker werden bei Asthma zum Standard](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 

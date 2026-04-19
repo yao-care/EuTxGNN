@@ -3,7 +3,7 @@ layout: default
 title: "Oritavancin (Diphosphate) 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Oritavancin (Diphosphate) 的相關健康新聞報導。原適應症：Tenkasi is indicated for the treatment of acute ba...。預測適應症 10 個。"
+description: "Oritavancin (Diphosphate) 的相關健康新聞報導。原適應症：Tenkasi is indicated for the treatment of acute ba...。預測適應症 20 個。"
 permalink: /news/oritavancin-diphosphate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="Oritavancin (Diphosphate) 有什麼相關新聞？">
-<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/oritavancin-diphosphate/
 <ul>
 <li><strong>原適應症</strong>：Tenkasi is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients aged 3 months and older (see sections 4.2, 4.4 and 5.1)....</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>Bacteroidaceae infectious disease（99.5%）</li>
 <li>ophthalmic herpes zoster（99.0%）</li>
 <li>Mycoplasma pneumoniae pneumonia（99.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/oritavancin-diphosphate/
 <li>tinea corporis（98.6%）</li>
 <li>postinfectious vasculitis（98.4%）</li>
 <li>post-bacterial disorder（98.4%）</li>
+<li>post-infectious syndrome（98.3%）</li>
+<li>acute contagious conjunctivitis（98.2%）</li>
+<li>infective urethral stricture（98.2%）</li>
+<li>otitis externa（98.1%）</li>
+<li>infection-related hemolytic uremic syndrome（98.0%）</li>
+<li>Chagas cardiomyopathy（98.0%）</li>
+<li>furuncular myiasis（97.8%）</li>
+<li>wound myiasis（97.8%）</li>
+<li>creeping myiasis（97.8%）</li>
+<li>myiasis（97.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/oritavancin-diphosphate/
 
 ## 相關新聞（1 則）
 
-### [Zwei Biomarker werden bei Asthma zum Standard](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 

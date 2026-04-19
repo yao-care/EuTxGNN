@@ -3,7 +3,7 @@ layout: default
 title: "Mirvetuximab Soravtansine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Mirvetuximab Soravtansine 的相關健康新聞報導。原適應症：Elahere as monotherapy is indicated for the treatm...。預測適應症 10 個。"
+description: "Mirvetuximab Soravtansine 的相關健康新聞報導。原適應症：Elahere as monotherapy is indicated for the treatm...。預測適應症 20 個。"
 permalink: /news/mirvetuximab-soravtansine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="Mirvetuximab Soravtansine 有什麼相關新聞？">
-<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/mirvetuximab-soravtansine/
 <ul>
 <li><strong>原適應症</strong>：Elahere as monotherapy is indicated for the treatment of adult patients with folate receptor-alpha (FRα) positive, platinum-resistant high grade serous epithelial ovarian, fallopian tube, or primary...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>antithrombin deficiency type 2（98.0%）</li>
 <li>heparin cofactor 2 deficiency（97.8%）</li>
 <li>factor 5 excess with spontaneous thrombosis（97.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/mirvetuximab-soravtansine/
 <li>thrombophilia（96.7%）</li>
 <li>uterine polyp（96.6%）</li>
 <li>pediatric systemic lupus erythematosus（96.5%）</li>
+<li>polyp of vocal cord（96.5%）</li>
+<li>polyp of middle ear（96.5%）</li>
+<li>polyp of frontal sinus（96.4%）</li>
+<li>polyp of external auditory canal（96.4%）</li>
+<li>polyp of ureter（96.4%）</li>
+<li>polyp of vulva（96.4%）</li>
+<li>fibroepithelial polyp（96.4%）</li>
+<li>neoplastic polyp（96.3%）</li>
+<li>epulis（96.3%）</li>
+<li>mantle cell lymphoma（96.1%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mirvetuximab-soravtansine/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/mirvetuximab-soravtansine/
 
 ## 相關新聞（1 則）
 
-### [Zwei Biomarker werden bei Asthma zum Standard](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Meropenem 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Meropenem 的相關健康新聞報導。原適應症：See EMA product information。預測適應症 10 個。"
+description: "Meropenem 的相關健康新聞報導。原適應症：See EMA product information。預測適應症 20 個。"
 permalink: /news/meropenem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/meropenem/
 ---
 
 <p class="key-answer" data-question="Meropenem 有什麼相關新聞？">
-<strong>Meropenem</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Meropenem</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/meropenem/
 <ul>
 <li><strong>原適應症</strong>：See EMA product information</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bacterial arthritis（99.9%）</li>
 <li>epiglottitis（99.9%）</li>
 <li>meningococcal infection（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/meropenem/
 <li>urinary tract infection (disease)（99.5%）</li>
 <li>Lyme disease（99.5%）</li>
 <li>Peptostreptococcus infectious disease（99.4%）</li>
+<li>Ureaplasma urethritis（99.3%）</li>
+<li>gonococcal urethritis（99.3%）</li>
+<li>staphylococcal pneumonia（99.3%）</li>
+<li>polyclonal hyperviscosity syndrome（99.3%）</li>
+<li>hyperamylasemia（99.3%）</li>
+<li>infectious otitis media（99.3%）</li>
+<li>congenital analbuminemia（99.3%）</li>
+<li>endocarditis（99.3%）</li>
+<li>diffuse scleroderma（99.2%）</li>
+<li>pneumococcal meningitis（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/meropenem/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/meropenem/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

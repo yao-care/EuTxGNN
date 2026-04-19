@@ -3,7 +3,7 @@ layout: default
 title: "Deutetrabenazine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Deutetrabenazine 的相關健康新聞報導。原適應症：Treatment of moderate to severe tardive dyskinesia...。預測適應症 10 個。"
+description: "Deutetrabenazine 的相關健康新聞報導。原適應症：Treatment of moderate to severe tardive dyskinesia...。預測適應症 20 個。"
 permalink: /news/deutetrabenazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/deutetrabenazine/
 ---
 
 <p class="key-answer" data-question="Deutetrabenazine 有什麼相關新聞？">
-<strong>Deutetrabenazine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Deutetrabenazine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/deutetrabenazine/
 <ul>
 <li><strong>原適應症</strong>：Treatment of moderate to severe tardive dyskinesia in adults.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>psychogenic movement disorders（98.7%）</li>
 <li>tremor-nystagmus-duodenal ulcer syndrome（98.7%）</li>
 <li>primary orthostatic tremor（98.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/deutetrabenazine/
 <li>polycystic kidney disease 3 with or without polycystic liver disease（97.9%）</li>
 <li>acute intermittent porphyria（97.7%）</li>
 <li>Hirschsprung disease（97.6%）</li>
+<li>lingual-facial-buccal dyskinesia（97.4%）</li>
+<li>renal-hepatic-pancreatic dysplasia（97.2%）</li>
+<li>miscellaneous movement disorder due to neurodegenerative disease（97.2%）</li>
+<li>karyomegalic interstitial nephritis（97.0%）</li>
+<li>Joubert syndrome with renal defect（96.8%）</li>
+<li>thoracic malformation（96.6%）</li>
+<li>adult familial nephronophthisis-spastic quadriparesia syndrome（96.5%）</li>
+<li>Huntington disease-like syndrome due to C9ORF72 expansions（95.6%）</li>
+<li>juvenile Huntington disease（95.0%）</li>
+<li>glutaric acidemia type 3（94.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/deutetrabenazine/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Adalimumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adalimumab 的相關健康新聞報導。原適應症：Rheumatoid arthritis  Amgevita in combination with...。預測適應症 10 個。"
+description: "Adalimumab 的相關健康新聞報導。原適應症：Rheumatoid arthritis  Amgevita in combination with...。預測適應症 20 個。"
 permalink: /news/adalimumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/adalimumab/
 ---
 
 <p class="key-answer" data-question="Adalimumab 有什麼相關新聞？">
-<strong>Adalimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Adalimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/adalimumab/
 <ul>
 <li><strong>原適應症</strong>：Rheumatoid arthritis  Amgevita in combination with methotrexate, is indicated for:  the treatment of moderate to severe, active rheumatoid arthritis in adult patients when the response to...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>ankylosing spondylitis（99.8%）</li>
 <li>rheumatoid vasculitis（99.8%）</li>
 <li>hypermobility of coccyx（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/adalimumab/
 <li>vertebral disease（99.2%）</li>
 <li>polyp of middle ear（97.9%）</li>
 <li>polyp of vocal cord（97.9%）</li>
+<li>polyp of ureter（97.9%）</li>
+<li>polyp of frontal sinus（97.8%）</li>
+<li>epulis（97.8%）</li>
+<li>polyp of external auditory canal（97.8%）</li>
+<li>polyp of vulva（97.8%）</li>
+<li>uterine polyp（97.8%）</li>
+<li>fibroepithelial polyp（97.7%）</li>
+<li>neoplastic polyp（97.7%）</li>
+<li>mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency（97.4%）</li>
+<li>acne (disease)（96.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/adalimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/adalimumab/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

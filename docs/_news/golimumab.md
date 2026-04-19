@@ -3,7 +3,7 @@ layout: default
 title: "Golimumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Golimumab 的相關健康新聞報導。原適應症：Rheumatoid arthritis (RA) Gobivaz, in combination ...。預測適應症 10 個。"
+description: "Golimumab 的相關健康新聞報導。原適應症：Rheumatoid arthritis (RA) Gobivaz, in combination ...。預測適應症 20 個。"
 permalink: /news/golimumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Golimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/golimumab/
 <ul>
 <li><strong>原適應症</strong>：Rheumatoid arthritis (RA) Gobivaz, in combination with methotrexate (MTX), is indicated for:  the treatment of moderate to severe, active rheumatoid arthritis in adults when the response to...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>ankylosing spondylitis（99.8%）</li>
 <li>rheumatoid vasculitis（99.7%）</li>
 <li>hypermobility of coccyx（99.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/golimumab/
 <li>vertebral disease（98.8%）</li>
 <li>ulcerative colitis (disease)（96.6%）</li>
 <li>congenital hypotrichosis with juvenile macular dystrophy（96.2%）</li>
+<li>polyp of vocal cord（95.8%）</li>
+<li>polyp of middle ear（95.8%）</li>
+<li>mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency（95.7%）</li>
+<li>polyp of ureter（95.7%）</li>
+<li>polyp of frontal sinus（95.7%）</li>
+<li>epulis（95.6%）</li>
+<li>polyp of external auditory canal（95.6%）</li>
+<li>uterine polyp（95.5%）</li>
+<li>polyp of vulva（95.5%）</li>
+<li>heparin cofactor 2 deficiency（95.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/golimumab/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

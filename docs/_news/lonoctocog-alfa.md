@@ -3,7 +3,7 @@ layout: default
 title: "Lonoctocog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lonoctocog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 10 個。"
+description: "Lonoctocog Alfa 的相關健康新聞報導。原適應症：Treatment and prophylaxis of bleeding in patients ...。預測適應症 20 個。"
 permalink: /news/lonoctocog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lonoctocog-alfa/
 ---
 
 <p class="key-answer" data-question="Lonoctocog Alfa 有什麼相關新聞？">
-<strong>Lonoctocog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lonoctocog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lonoctocog-alfa/
 <ul>
 <li><strong>原適應症</strong>：Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Afstyla can be used for all age groups.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>pseudo-von Willebrand disease（99.8%）</li>
 <li>primary release disorder of platelets（99.8%）</li>
 <li>Glanzmann thrombasthenia（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/lonoctocog-alfa/
 <li>bleeding diathesis due to a collagen receptor defect（98.7%）</li>
 <li>hemorrhagic disorder due to a constitutional thrombocytopenia（98.6%）</li>
 <li>esophageal varices without bleeding（98.4%）</li>
+<li>esophageal varices with bleeding（98.4%）</li>
+<li>thrombotic thrombocytopenic purpura（98.1%）</li>
+<li>hemophilia A with vascular abnormality（97.7%）</li>
+<li>varicose disease（97.6%）</li>
+<li>factor XI deficiency（97.1%）</li>
+<li>familial apolipoprotein C-II deficiency（96.5%）</li>
+<li>fetal and neonatal alloimmune thrombocytopenia（96.5%）</li>
+<li>primary immunodeficiency syndrome due to p14 deficiency（96.1%）</li>
+<li>flood factor deficiency（96.0%）</li>
+<li>hemorrhagic disorder due to a platelet anomaly（95.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lonoctocog-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

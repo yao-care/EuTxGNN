@@ -3,7 +3,7 @@ layout: default
 title: "Susoctocog Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Susoctocog Alfa 的相關健康新聞報導。原適應症：Treatment of bleeding episodes in patients with ac...。預測適應症 10 個。"
+description: "Susoctocog Alfa 的相關健康新聞報導。原適應症：Treatment of bleeding episodes in patients with ac...。預測適應症 20 個。"
 permalink: /news/susoctocog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/susoctocog-alfa/
 ---
 
 <p class="key-answer" data-question="Susoctocog Alfa 有什麼相關新聞？">
-<strong>Susoctocog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Susoctocog Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/susoctocog-alfa/
 <ul>
 <li><strong>原適應症</strong>：Treatment of bleeding episodes in patients with acquired haemophilia caused by antibodies to Factor VIII. Obizur is indicated in adults.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary release disorder of platelets（99.9%）</li>
 <li>pseudo-von Willebrand disease（99.9%）</li>
 <li>Glanzmann thrombasthenia（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/susoctocog-alfa/
 <li>bleeding diathesis due to a collagen receptor defect（99.2%）</li>
 <li>hemorrhagic disorder due to a constitutional thrombocytopenia（99.2%）</li>
 <li>congenital factor XIII deficiency（99.2%）</li>
+<li>adenosine deaminase deficiency（99.0%）</li>
+<li>factor XIII, A subunit, deficiency（98.8%）</li>
+<li>prothrombin deficiency（98.7%）</li>
+<li>congenital factor VII deficiency（98.4%）</li>
+<li>reticular dysgenesis（98.4%）</li>
+<li>hemorrhagic disorder due to a platelet anomaly（98.3%）</li>
+<li>severe combined immunodeficiency due to LCK deficiency（98.2%）</li>
+<li>platelet-type bleeding disorder（98.1%）</li>
+<li>fetal and neonatal alloimmune thrombocytopenia（97.7%）</li>
+<li>hemophilia A with vascular abnormality（97.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/susoctocog-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

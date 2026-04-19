@@ -3,7 +3,7 @@ layout: default
 title: "Glycopyrronium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Glycopyrronium 的相關健康新聞報導。原適應症：Bevespi Aerosphere is indicated as a maintenance b...。預測適應症 10 個。"
+description: "Glycopyrronium 的相關健康新聞報導。原適應症：Bevespi Aerosphere is indicated as a maintenance b...。預測適應症 20 個。"
 permalink: /news/glycopyrronium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glycopyrronium/
 ---
 
 <p class="key-answer" data-question="Glycopyrronium 有什麼相關新聞？">
-<strong>Glycopyrronium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Glycopyrronium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/glycopyrronium/
 <ul>
 <li><strong>原適應症</strong>：Bevespi Aerosphere is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>irritable bowel syndrome（98.8%）</li>
 <li>cauda equina syndrome（98.5%）</li>
 <li>obsolete neurogenic bladder (disease)（97.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/glycopyrronium/
 <li>autonomic nervous system disease（95.5%）</li>
 <li>primary hereditary glaucoma（95.3%）</li>
 <li>dysthymic disorder（93.7%）</li>
+<li>common cold（93.3%）</li>
+<li>dysautonomia（92.5%）</li>
+<li>headache disorder（90.9%）</li>
+<li>familial mitral valve prolapse（90.5%）</li>
+<li>mitral valve prolapse (disease)（90.5%）</li>
+<li>insomnia (disease)（89.7%）</li>
+<li>MVP1（89.5%）</li>
+<li>multiple system atrophy（89.3%）</li>
+<li>trigeminal autonomic cephalalgia（89.2%）</li>
+<li>atrophoderma vermiculata（88.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glycopyrronium/' | relative_url }}">查看完整藥物報告 →</a></p>

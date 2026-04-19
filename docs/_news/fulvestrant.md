@@ -3,7 +3,7 @@ layout: default
 title: "Fulvestrant 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fulvestrant 的相關健康新聞報導。原適應症：Faslodex is indicated  as monotherapy for the trea...。預測適應症 10 個。"
+description: "Fulvestrant 的相關健康新聞報導。原適應症：Faslodex is indicated  as monotherapy for the trea...。預測適應症 20 個。"
 permalink: /news/fulvestrant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fulvestrant/
 ---
 
 <p class="key-answer" data-question="Fulvestrant 有什麼相關新聞？">
-<strong>Fulvestrant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fulvestrant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/fulvestrant/
 <ul>
 <li><strong>原適應症</strong>：Faslodex is indicated  as monotherapy for the treatment of estrogen receptor positive, locally advanced or metastatic breast cancer in postmenopausal women:  not previously treated with endocrine...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（99.9%）</li>
 <li>multiple endocrine neoplasia（99.8%）</li>
 <li>simian immunodeficiency virus infection（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/fulvestrant/
 <li>brachydactyly-syndactyly syndrome（99.3%）</li>
 <li>hemoglobinopathy（99.3%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.2%）</li>
+<li>psoriasis（99.2%）</li>
+<li>pyropoikilocytosis, hereditary（99.1%）</li>
+<li>beta-thalassemia with other manifestations（99.0%）</li>
+<li>partial deletion of the short arm of chromosome 16（99.0%）</li>
+<li>oral candidiasis（99.0%）</li>
+<li>hemolytic anemia due to glucophosphate isomerase deficiency（98.9%）</li>
+<li>homozygous familial hypercholesterolemia（98.8%）</li>
+<li>pyruvate kinase deficiency of red cells（98.8%）</li>
+<li>obsolete familial combined hyperlipidemia（98.7%）</li>
+<li>commissural lip fistula（98.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fulvestrant/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/fulvestrant/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

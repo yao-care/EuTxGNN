@@ -3,7 +3,7 @@ layout: default
 title: "Lutropin Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lutropin Alfa 的相關健康新聞報導。原適應症：Luveris in association with a follicle-stimulating...。預測適應症 10 個。"
+description: "Lutropin Alfa 的相關健康新聞報導。原適應症：Luveris in association with a follicle-stimulating...。預測適應症 20 個。"
 permalink: /news/lutropin-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lutropin-alfa/
 ---
 
 <p class="key-answer" data-question="Lutropin Alfa 有什麼相關新聞？">
-<strong>Lutropin Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lutropin Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lutropin-alfa/
 <ul>
 <li><strong>原適應症</strong>：Luveris in association with a follicle-stimulating-hormone (FSH) preparation is recommended for the stimulation of follicular development in women with severe luteinising-hormone (LH) and FSH...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>postural orthostatic tachycardia syndrome（97.0%）</li>
 <li>peptic esophagitis（97.0%）</li>
 <li>trichotillomania（96.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/lutropin-alfa/
 <li>sinoatrial block（94.9%）</li>
 <li>multiple endocrine neoplasia（94.9%）</li>
 <li>duodenogastric reflux（94.6%）</li>
+<li>duodenal obstruction（94.4%）</li>
+<li>sinoatrial node disease（94.2%）</li>
+<li>non-syndromic esophageal malformation（93.5%）</li>
+<li>amenorrhea (disease)（93.1%）</li>
+<li>active peptic ulcer disease（92.8%）</li>
+<li>esophageal ulcer（92.7%）</li>
+<li>progressive familial heart block（92.6%）</li>
+<li>adrenal gland hyperfunction（92.4%）</li>
+<li>gastrojejunal ulcer（92.4%）</li>
+<li>peptic ulcer perforation（92.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lutropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

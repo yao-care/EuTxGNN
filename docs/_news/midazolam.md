@@ -3,7 +3,7 @@ layout: default
 title: "Midazolam 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Midazolam 的相關健康新聞報導。原適應症：Treatment of prolonged, acute, convulsive seizures...。預測適應症 10 個。"
+description: "Midazolam 的相關健康新聞報導。原適應症：Treatment of prolonged, acute, convulsive seizures...。預測適應症 20 個。"
 permalink: /news/midazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/midazolam/
 ---
 
 <p class="key-answer" data-question="Midazolam 有什麼相關新聞？">
-<strong>Midazolam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Midazolam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/midazolam/
 <ul>
 <li><strong>原適應症</strong>：Treatment of prolonged, acute, convulsive seizures in infants from 3 months to adults.BUCCOLAM must only be used by parents/carers where the patient has been diagnosed to have epilepsy.For infants...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>insomnia (disease)（99.7%）</li>
 <li>anxiety（99.3%）</li>
 <li>myofascial pain syndrome（97.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/midazolam/
 <li>agoraphobia（92.8%）</li>
 <li>myositis fibrosa（92.5%）</li>
 <li>idiopathic granulomatous myositis（92.5%）</li>
+<li>dysthymic disorder（92.0%）</li>
+<li>paranoid personality disorder（92.0%）</li>
+<li>histrionic personality disorder (disease)（92.0%）</li>
+<li>schizotypal personality disorder（92.0%）</li>
+<li>schizoid personality disorder（92.0%）</li>
+<li>fibromyalgia（88.9%）</li>
+<li>sleep disorder, initiating and maintaining sleep（88.6%）</li>
+<li>Asperger syndrome（87.9%）</li>
+<li>inclusion body myositis（83.1%）</li>
+<li>attention deficit-hyperactivity disorder（81.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/midazolam/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Vigabatrin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vigabatrin 的相關健康新聞報導。原適應症：Kigabeq is indicated in infants and children from ...。預測適應症 10 個。"
+description: "Vigabatrin 的相關健康新聞報導。原適應症：Kigabeq is indicated in infants and children from ...。預測適應症 20 個。"
 permalink: /news/vigabatrin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vigabatrin/
 ---
 
 <p class="key-answer" data-question="Vigabatrin 有什麼相關新聞？">
-<strong>Vigabatrin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vigabatrin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/vigabatrin/
 <ul>
 <li><strong>原適應症</strong>：Kigabeq is indicated in infants and children from 1 month to less than 7 years of age for:  Treatment in monotherapy of infantile spasms (West's syndrome). Treatment in combination with other...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>West syndrome（99.1%）</li>
 <li>intellectual disability, X-linked, with or without seizures, arx-related（98.7%）</li>
 <li>episodic kinesigenic dyskinesia（97.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/vigabatrin/
 <li>microtriplication 11q24.1（96.3%）</li>
 <li>CCDC115-CDG（96.3%）</li>
 <li>neonatal period electroclinical syndrome（96.2%）</li>
+<li>genetic lethal multiple congenital anomalies/dysmorphic syndrome（96.2%）</li>
+<li>COG2-CDG（96.2%）</li>
+<li>colobomatous microphthalmia - obesity - hypogenitalism - intellectual disability syndrome（96.1%）</li>
+<li>X-linked dominant intellectual disability-epilepsy syndrome（96.0%）</li>
+<li>male hypergonadotropic hypogonadism-intellectual disability-skeletal anomalies syndrome（96.0%）</li>
+<li>Jawad syndrome（96.0%）</li>
+<li>muscular hypertrophy-hepatomegaly-polyhydramnios syndrome（96.0%）</li>
+<li>infancy electroclinical syndrome（96.0%）</li>
+<li>neonatal epileptic encephalopathy（95.9%）</li>
+<li>craniofaciofrontodigital syndrome（95.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vigabatrin/' | relative_url }}">查看完整藥物報告 →</a></p>

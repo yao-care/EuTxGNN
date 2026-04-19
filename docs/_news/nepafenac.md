@@ -3,7 +3,7 @@ layout: default
 title: "Nepafenac 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Nepafenac 的相關健康新聞報導。原適應症：Nevanac is indicated for:  prevention and treatmen...。預測適應症 10 個。"
+description: "Nepafenac 的相關健康新聞報導。原適應症：Nevanac is indicated for:  prevention and treatmen...。預測適應症 20 個。"
 permalink: /news/nepafenac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nepafenac/
 ---
 
 <p class="key-answer" data-question="Nepafenac 有什麼相關新聞？">
-<strong>Nepafenac</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nepafenac</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/nepafenac/
 <ul>
 <li><strong>原適應症</strong>：Nevanac is indicated for:  prevention and treatment of postoperative pain and inflammation associated with cataract surgery; reduction in the risk of postoperative macular oedema associated with...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>eye disease（99.8%）</li>
 <li>optic papillitis（99.8%）</li>
 <li>hypotrichosis simplex of the scalp（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/nepafenac/
 <li>lagophthalmos（99.8%）</li>
 <li>vulvar inverted follicular keratosis（99.8%）</li>
 <li>vitreous detachment（99.8%）</li>
+<li>microblepharon-ablephara syndrome（99.8%）</li>
+<li>luxation of globe（99.8%）</li>
+<li>conjunctival degeneration（99.8%）</li>
+<li>isolated optic neuritis（99.8%）</li>
+<li>recurrent idiopathic neuroretinitis（99.8%）</li>
+<li>optic perineuritis（99.8%）</li>
+<li>chronic relapsing inflammatory optic neuropathy（99.8%）</li>
+<li>episcleritis periodica fugax（99.8%）</li>
+<li>nodular episcleritis（99.8%）</li>
+<li>total internal ophthalmoplegia（99.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nepafenac/' | relative_url }}">查看完整藥物報告 →</a></p>

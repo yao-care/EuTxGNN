@@ -3,7 +3,7 @@ layout: default
 title: "Ertapenem Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ertapenem Sodium 的相關健康新聞報導。原適應症：Treatment Ertapenem SUN is indicated in paediatric...。預測適應症 10 個。"
+description: "Ertapenem Sodium 的相關健康新聞報導。原適應症：Treatment Ertapenem SUN is indicated in paediatric...。預測適應症 20 個。"
 permalink: /news/ertapenem-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ertapenem-sodium/
 ---
 
 <p class="key-answer" data-question="Ertapenem Sodium 有什麼相關新聞？">
-<strong>Ertapenem Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ertapenem Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ertapenem-sodium/
 <ul>
 <li><strong>原適應症</strong>：Treatment Ertapenem SUN is indicated in paediatric patients (3 months to 17 years of age) and in adults for the treatment of the following infections when caused by bacteria known or very likely to...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bacterial arthritis（99.7%）</li>
 <li>staphylococcus aureus infection（99.3%）</li>
 <li>Peptostreptococcus infectious disease（99.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/ertapenem-sodium/
 <li>toxocariasis（98.4%）</li>
 <li>urinary tract infection (disease)（98.3%）</li>
 <li>blood group incompatibility（98.3%）</li>
+<li>gonococcal urethritis（98.1%）</li>
+<li>Ureaplasma urethritis（98.1%）</li>
+<li>Lyme disease（98.1%）</li>
+<li>premalignant hematological system disease（98.1%）</li>
+<li>infectious otitis media（97.9%）</li>
+<li>toxascariasis（97.9%）</li>
+<li>anisakiasis（97.9%）</li>
+<li>monoclonal gammopathy（97.8%）</li>
+<li>hematological disease associated with an acquired peripheral neuropathy（97.8%）</li>
+<li>chronic otitis media（97.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ertapenem-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/ertapenem-sodium/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

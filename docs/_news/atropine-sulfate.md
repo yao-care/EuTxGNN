@@ -3,7 +3,7 @@ layout: default
 title: "Atropine Sulfate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Atropine Sulfate 的相關健康新聞報導。原適應症：Ryjunea is indicated for slowing the progression o...。預測適應症 10 個。"
+description: "Atropine Sulfate 的相關健康新聞報導。原適應症：Ryjunea is indicated for slowing the progression o...。預測適應症 20 個。"
 permalink: /news/atropine-sulfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atropine-sulfate/
 ---
 
 <p class="key-answer" data-question="Atropine Sulfate 有什麼相關新聞？">
-<strong>Atropine Sulfate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Atropine Sulfate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/atropine-sulfate/
 <ul>
 <li><strong>原適應症</strong>：Ryjunea is indicated for slowing the progression of myopia in paediatric patients. Treatment may be initiated in children aged 3-14 years with a progression rate of 0.5 D or more per year and a...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>migraine disorder（99.6%）</li>
 <li>migraine with brainstem aura（99.4%）</li>
 <li>migraine with or without aura, susceptibility to（98.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/atropine-sulfate/
 <li>headache disorder（97.2%）</li>
 <li>trigeminal autonomic cephalalgia（96.5%）</li>
 <li>nephrogenic syndrome of inappropriate antidiuresis（96.3%）</li>
+<li>diffuse alopecia areata（95.3%）</li>
+<li>hypertrichosis (disease)（95.3%）</li>
+<li>congenital hypotrichosis milia（95.2%）</li>
+<li>alopecia（95.1%）</li>
+<li>Ambras type hypertrichosis universalis congenita（95.1%）</li>
+<li>common cold（95.1%）</li>
+<li>hypotrichosis simplex of the scalp（95.0%）</li>
+<li>sciatic neuropathy（94.7%）</li>
+<li>malformation syndrome with odontal and/or periodontal component（94.6%）</li>
+<li>syndrome with a Dandy-Walker malformation as major feature（94.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atropine-sulfate/' | relative_url }}">查看完整藥物報告 →</a></p>

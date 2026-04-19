@@ -3,7 +3,7 @@ layout: default
 title: "Pretomanid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Pretomanid 的相關健康新聞報導。原適應症：Dovprela is indicated in combination with bedaquil...。預測適應症 10 個。"
+description: "Pretomanid 的相關健康新聞報導。原適應症：Dovprela is indicated in combination with bedaquil...。預測適應症 20 個。"
 permalink: /news/pretomanid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pretomanid/
 ---
 
 <p class="key-answer" data-question="Pretomanid 有什麼相關新聞？">
-<strong>Pretomanid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pretomanid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/pretomanid/
 <ul>
 <li><strong>原適應症</strong>：Dovprela is indicated in combination with bedaquiline and linezolid, in adults, for the treatment of pulmonary extensively drug resistant (XDR), or treatment-intolerant or nonresponsive...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>candidiasis（99.7%）</li>
 <li>leprosy（99.3%）</li>
 <li>coronary artery disease（99.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/pretomanid/
 <li>Bacteroidaceae infectious disease（98.7%）</li>
 <li>thrombocytopenia（98.7%）</li>
 <li>fascioliasis（98.6%）</li>
+<li>acne (disease)（98.6%）</li>
+<li>feline acquired immunodeficiency syndrome（98.5%）</li>
+<li>simian immunodeficiency virus infection（98.5%）</li>
+<li>marcothrombocytopenia with mitral valve insufficiency（98.5%）</li>
+<li>hereditary thrombocytopenia with normal platelets（98.5%）</li>
+<li>opisthorchiasis（98.4%）</li>
+<li>anaerobic bacteria infectious disease（98.4%）</li>
+<li>multiple endocrine neoplasia（98.4%）</li>
+<li>transient neonatal thrombocytopenia（98.4%）</li>
+<li>breast fibrocystic disease（98.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pretomanid/' | relative_url }}">查看完整藥物報告 →</a></p>

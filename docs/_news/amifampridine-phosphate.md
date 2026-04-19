@@ -3,7 +3,7 @@ layout: default
 title: "Amifampridine Phosphate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Amifampridine Phosphate 的相關健康新聞報導。原適應症：Symptomatic treatment of Lambert-Eaton myasthenic ...。預測適應症 10 個。"
+description: "Amifampridine Phosphate 的相關健康新聞報導。原適應症：Symptomatic treatment of Lambert-Eaton myasthenic ...。預測適應症 20 個。"
 permalink: /news/amifampridine-phosphate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amifampridine-phosphate/
 ---
 
 <p class="key-answer" data-question="Amifampridine Phosphate 有什麼相關新聞？">
-<strong>Amifampridine Phosphate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Amifampridine Phosphate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/amifampridine-phosphate/
 <ul>
 <li><strong>原適應症</strong>：Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>glaucoma（99.7%）</li>
 <li>acute intermittent porphyria（99.3%）</li>
 <li>esophageal varices without bleeding（98.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/amifampridine-phosphate/
 <li>paraneoplastic limbic encephalitis（98.3%）</li>
 <li>paraneoplastic polyneuropathy（98.3%）</li>
 <li>varicose disease（98.1%）</li>
+<li>paraneoplastic cerebellar degeneration（98.0%）</li>
+<li>Steel syndrome（97.7%）</li>
+<li>Barth syndrome（97.6%）</li>
+<li>autosomal dominant keratitis（97.6%）</li>
+<li>erythropoietic uroporphyria associated with myeloid malignancy（97.5%）</li>
+<li>hereditary photodermatosis（97.4%）</li>
+<li>pancreatitis（97.3%）</li>
+<li>autosomal dominant Alport syndrome（96.9%）</li>
+<li>monilethrix（96.6%）</li>
+<li>severe congenital neutropenia（96.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amifampridine-phosphate/' | relative_url }}">查看完整藥物報告 →</a></p>

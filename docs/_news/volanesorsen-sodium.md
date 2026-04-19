@@ -3,7 +3,7 @@ layout: default
 title: "Volanesorsen Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Volanesorsen Sodium 的相關健康新聞報導。原適應症：Waylivra is indicated as an adjunct to diet in adu...。預測適應症 10 個。"
+description: "Volanesorsen Sodium 的相關健康新聞報導。原適應症：Waylivra is indicated as an adjunct to diet in adu...。預測適應症 20 個。"
 permalink: /news/volanesorsen-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/volanesorsen-sodium/
 ---
 
 <p class="key-answer" data-question="Volanesorsen Sodium 有什麼相關新聞？">
-<strong>Volanesorsen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Volanesorsen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/volanesorsen-sodium/
 <ul>
 <li><strong>原適應症</strong>：Waylivra is indicated as an adjunct to diet in adult patients with genetically confirmed familial chylomicronemia syndrome (FCS) and at high risk for pancreatitis, in whom response to diet and...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>megaloblastic anemia (disease)（100.0%）</li>
 <li>sclerosing cholangitis（100.0%）</li>
 <li>sickle cell disease and related diseases（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/volanesorsen-sodium/
 <li>sickle cell-beta-thalassemia disease syndrome（100.0%）</li>
 <li>meningococcal infection（100.0%）</li>
 <li>paroxysmal nocturnal hemoglobinuria（100.0%）</li>
+<li>IgG4-related pachymeningitis（100.0%）</li>
+<li>IgG4-related retroperitoneal fibrosis（100.0%）</li>
+<li>mixed-type autoimmune hemolytic anemia（100.0%）</li>
+<li>non-infectious meningitis（100.0%）</li>
+<li>drug-induced autoimmune hemolytic anemia（100.0%）</li>
+<li>autosomal recessive severe congenital neutropenia due to G6PC3 deficiency（100.0%）</li>
+<li>infectious meningitis（100.0%）</li>
+<li>bone Paget disease（100.0%）</li>
+<li>psoriasis（100.0%）</li>
+<li>proteinuria（100.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/volanesorsen-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Nusinersen Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Nusinersen Sodium 的相關健康新聞報導。原適應症：Spinraza is indicated for the treatment of 5q Spin...。預測適應症 10 個。"
+description: "Nusinersen Sodium 的相關健康新聞報導。原適應症：Spinraza is indicated for the treatment of 5q Spin...。預測適應症 20 個。"
 permalink: /news/nusinersen-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nusinersen-sodium/
 ---
 
 <p class="key-answer" data-question="Nusinersen Sodium 有什麼相關新聞？">
-<strong>Nusinersen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nusinersen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/nusinersen-sodium/
 <ul>
 <li><strong>原適應症</strong>：Spinraza is indicated for the treatment of 5q Spinal Muscular Atrophy.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>PRPS1 deficiency disorder（50.0%）</li>
 <li>hypervalinemia and hyperleucine-isoleucinemia（50.0%）</li>
 <li>exercise-induced anaphylaxis（50.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/nusinersen-sodium/
 <li>febrile seizures plus, genetic epilepsy with febrile seizures plus（50.0%）</li>
 <li>food protein-induced allergic proctocolitis（50.0%）</li>
 <li>MED12-related intellectual disability syndrome（50.0%）</li>
+<li>rod-cone dystrophy, sensorineural deafness, and Fanconi-type renal dysfunction（50.0%）</li>
+<li>mixed mineral dust pneumoconiosis（50.0%）</li>
+<li>epilepsy of infancy with migrating focal seizures（50.0%）</li>
+<li>neonatal/infantile epilepsy syndrome（50.0%）</li>
+<li>primary mast cell activation syndrome（50.0%）</li>
+<li>adult-onset segmental dystonia（50.0%）</li>
+<li>paratenonitis with tendinosis（50.0%）</li>
+<li>tendinosis（50.0%）</li>
+<li>TH-deficient infantile parkinsonism and motor delay（50.0%）</li>
+<li>saccharopinuria（50.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>

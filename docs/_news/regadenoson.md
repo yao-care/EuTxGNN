@@ -3,7 +3,7 @@ layout: default
 title: "Regadenoson 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Regadenoson 的相關健康新聞報導。原適應症：This medicinal product is for diagnostic use only....。預測適應症 10 個。"
+description: "Regadenoson 的相關健康新聞報導。原適應症：This medicinal product is for diagnostic use only....。預測適應症 20 個。"
 permalink: /news/regadenoson/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/regadenoson/
 <ul>
 <li><strong>原適應症</strong>：This medicinal product is for diagnostic use only. Rapiscan is a selective coronary vasodilator for use as a pharmacological stress agent for radionuclide myocardial perfusion imaging (MPI) in adult...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>anaphylaxis（99.8%）</li>
 <li>food-dependent exercise-induced anaphylaxis（99.7%）</li>
 <li>esotropia（99.1%）</li>
@@ -37,6 +37,16 @@ permalink: /news/regadenoson/
 <li>migraine with brainstem aura（96.9%）</li>
 <li>bronchial disease（96.8%）</li>
 <li>glossodynia（95.9%）</li>
+<li>coccygodynia（95.8%）</li>
+<li>Raynaud disease（95.7%）</li>
+<li>endobronchial leiomyoma（95.6%）</li>
+<li>bronchus adenoma（95.5%）</li>
+<li>endobronchial lipoma（95.5%）</li>
+<li>atypical coarctation of aorta（95.3%）</li>
+<li>scalp dermatosis（95.2%）</li>
+<li>primary hereditary glaucoma（95.1%）</li>
+<li>neuralgia（95.0%）</li>
+<li>thrombotic disease（94.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/regadenoson/
 
 ## 相關新聞（1 則）
 
-### [Zwei Biomarker werden bei Asthma zum Standard](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 

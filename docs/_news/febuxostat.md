@@ -3,7 +3,7 @@ layout: default
 title: "Febuxostat 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Febuxostat 的相關健康新聞報導。原適應症：Febuxostat Krka is indicated for the treatment of ...。預測適應症 10 個。"
+description: "Febuxostat 的相關健康新聞報導。原適應症：Febuxostat Krka is indicated for the treatment of ...。預測適應症 20 個。"
 permalink: /news/febuxostat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="Febuxostat 有什麼相關新聞？">
-<strong>Febuxostat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Febuxostat</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/febuxostat/
 <ul>
 <li><strong>原適應症</strong>：Febuxostat Krka is indicated for the treatment of chronic hyperuricaemia in conditions where urate deposition has already occurred (including a history, or presence of, tophus and/or gouty...</li>
 <li><strong>證據等級</strong>：L4</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>obsolete hyperuricemia (disease)（100.0%）</li>
 <li>hypouricemia, renal（100.0%）</li>
 <li>hypoxanthine guanine phosphoribosyltransferase partial deficiency（100.0%）</li>
@@ -37,20 +37,24 @@ permalink: /news/febuxostat/
 <li>idiopathic copper-associated cirrhosis（91.9%）</li>
 <li>hepatopulmonary syndrome（91.9%）</li>
 <li>hepatic porphyria（91.2%）</li>
+<li>disorder of phenylalanine metabolism（79.0%）</li>
+<li>disorder of tyrosine metabolism（77.2%）</li>
+<li>teratogenic Pierre Robin syndrome（77.2%）</li>
+<li>cholelithiasis（70.5%）</li>
+<li>Tay-Sachs disease, b variant（65.3%）</li>
+<li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria（64.0%）</li>
+<li>Wiskott-Aldrich syndrome 2（63.4%）</li>
+<li>Tay-Sachs disease, B1 variant（62.9%）</li>
+<li>anuria（61.6%）</li>
+<li>alacrima, achalasia, and intellectual disability syndrome（60.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

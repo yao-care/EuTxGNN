@@ -3,7 +3,7 @@ layout: default
 title: "Rilpivirine Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Rilpivirine Hydrochloride 的相關健康新聞報導。原適應症：Treatment of adults and adolescents (aged 12 years...。預測適應症 10 個。"
+description: "Rilpivirine Hydrochloride 的相關健康新聞報導。原適應症：Treatment of adults and adolescents (aged 12 years...。預測適應症 20 個。"
 permalink: /news/rilpivirine-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rilpivirine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Rilpivirine Hydrochloride 有什麼相關新聞？">
-<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/rilpivirine-hydrochloride/
 <ul>
 <li><strong>原適應症</strong>：Treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus 1 (HIV 1) without known mutations associated with resistance...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（100.0%）</li>
 <li>feline acquired immunodeficiency syndrome（100.0%）</li>
 <li>simian immunodeficiency virus infection（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/rilpivirine-hydrochloride/
 <li>obsolete familial combined hyperlipidemia（98.6%）</li>
 <li>chronic hepatitis C virus infection（95.2%）</li>
 <li>fibroma of prostate（93.9%）</li>
+<li>benign reproductive system neoplasm（93.2%）</li>
+<li>Brenner tumor（93.2%）</li>
+<li>benign prostate phyllodes tumor（92.8%）</li>
+<li>male reproductive organ cancer（91.5%）</li>
+<li>prostate leiomyoma（90.2%）</li>
+<li>prostate cancer/brain cancer susceptibility（89.9%）</li>
+<li>hepatitis C virus infection（86.7%）</li>
+<li>hepatitis B virus infection（85.8%）</li>
+<li>hepatitis E virus infection（83.4%）</li>
+<li>hepatitis, viral, animal（83.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>

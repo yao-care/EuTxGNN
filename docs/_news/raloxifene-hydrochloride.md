@@ -3,7 +3,7 @@ layout: default
 title: "Raloxifene Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Raloxifene Hydrochloride 的相關健康新聞報導。原適應症：Raloxifene is indicated for the treatment and prev...。預測適應症 10 個。"
+description: "Raloxifene Hydrochloride 的相關健康新聞報導。原適應症：Raloxifene is indicated for the treatment and prev...。預測適應症 20 個。"
 permalink: /news/raloxifene-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/raloxifene-hydrochloride/
 <ul>
 <li><strong>原適應症</strong>：Raloxifene is indicated for the treatment and prevention of osteoporosis in postmenopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated....</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>duodenal ulcer (disease)（99.7%）</li>
 <li>obsolete susceptibility to ischemic stroke（99.7%）</li>
 <li>hypoalphalipoproteinemia（99.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/raloxifene-hydrochloride/
 <li>homozygous familial hypercholesterolemia（98.7%）</li>
 <li>autosomal dominant neovascular inflammatory vitreoretinopathy（98.6%）</li>
 <li>pregnancy associated osteoporosis（98.5%）</li>
+<li>cerebral infarction（98.2%）</li>
+<li>brain stem infarction（98.0%）</li>
+<li>obsolete familial combined hyperlipidemia（98.0%）</li>
+<li>ABri amyloidosis（97.5%）</li>
+<li>amenorrhea (disease)（97.4%）</li>
+<li>succinyl-CoA:3-ketoacid CoA transferase deficiency（97.4%）</li>
+<li>cerebral artery occlusion（97.1%）</li>
+<li>cerebral arterial disease（96.8%）</li>
+<li>acne (disease)（96.3%）</li>
+<li>Prinzmetal angina（95.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -52,19 +62,27 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [Kohortenstudie: Psychische Traumata erhöhen Risiko für Demenz und Schlaganfall](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
+### [Kohortenstudie: Psychische Traumata erhöhen Risiko für Demenz und Schlaganfall - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
 
 2026-04-18 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
 
 ---
 
-### [Pregnancy vaccine reduces baby hospital admissions for RSV by 80%](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+### [RSV maternal vaccine cuts baby hospital admissions by up to 85%](https://news.google.com/rss/articles/CBMingFBVV95cUxOamltbHNzWGNzVDBod19obU9rMlNUOEV6Z2hFM0NzUDJJSU04VVB6UV95NVBZRnRXNU1Yc1B6Zzd0V0xJVUZCd2lxZnFsTktUbWNvQkltZV92NUlfT1IwLUdRQjZqa3dnY2pzeU1IN2hUZWdIbmFoMWpPdmt4bVM4RFY2dzhiMnVEODVaa0o5aG9fUENvYUJEVG5lR191UQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">CVA</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+來源：[GOV.UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOamltbHNzWGNzVDBod19obU9rMlNUOEV6Z2hFM0NzUDJJSU04VVB6UV95NVBZRnRXNU1Yc1B6Zzd0V0xJVUZCd2lxZnFsTktUbWNvQkltZV92NUlfT1IwLUdRQjZqa3dnY2pzeU1IN2hUZWdIbmFoMWpPdmt4bVM4RFY2dzhiMnVEODVaa0o5aG9fUENvYUJEVG5lR191UQ?oc=5)
+
+---
+
+### [“Abbiamo combattuto il grasso sbagliato per anni, ignorando quello che davvero alimenta le malattie”: Franco Berrino svela la verità nascosta dietro oli e prodotti industriali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
+
+2026-04-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
 
 ---
 
@@ -73,14 +91,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-04-17 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
-
----
-
-### ['Silent killer' explosion: lifestyle habit doctors fear is to blame - Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
-
-2026-04-17 <span class="news-indication-tag">stroke</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Eculizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Eculizumab 的相關健康新聞報導。原適應症：Bekemv is indicated in adults and children for the...。預測適應症 10 個。"
+description: "Eculizumab 的相關健康新聞報導。原適應症：Bekemv is indicated in adults and children for the...。預測適應症 20 個。"
 permalink: /news/eculizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eculizumab/
 ---
 
 <p class="key-answer" data-question="Eculizumab 有什麼相關新聞？">
-<strong>Eculizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Eculizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/eculizumab/
 <ul>
 <li><strong>原適應症</strong>：Bekemv is indicated in adults and children for the treatment of paroxysmal nocturnal haemoglobinuria (PNH). Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>cyclic hematopoiesis（100.0%）</li>
 <li>autosomal recessive severe congenital neutropenia due to JAGN1 deficiency（100.0%）</li>
 <li>X-linked severe congenital neutropenia（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/eculizumab/
 <li>autosomal recessive severe congenital neutropenia due to CSF3R deficiency（100.0%）</li>
 <li>severe congenital neutropenia（100.0%）</li>
 <li>primary release disorder of platelets（99.9%）</li>
+<li>pseudo-von Willebrand disease（99.9%）</li>
+<li>Barth syndrome（99.9%）</li>
+<li>Glanzmann thrombasthenia（99.9%）</li>
+<li>mixed-type autoimmune hemolytic anemia（99.9%）</li>
+<li>drug-induced autoimmune hemolytic anemia（99.9%）</li>
+<li>constitutional neutropenia（99.9%）</li>
+<li>primary CD59 deficiency（99.9%）</li>
+<li>cold agglutinin disease（99.9%）</li>
+<li>neonatal autoimmune hemolytic anemia（99.9%）</li>
+<li>autosomal recessive severe congenital neutropenia due to G6PC3 deficiency（99.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eculizumab/' | relative_url }}">查看完整藥物報告 →</a></p>

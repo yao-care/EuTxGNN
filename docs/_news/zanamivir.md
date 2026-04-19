@@ -3,7 +3,7 @@ layout: default
 title: "Zanamivir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Zanamivir 的相關健康新聞報導。原適應症：Dectova is indicated for the treatment of complica...。預測適應症 10 個。"
+description: "Zanamivir 的相關健康新聞報導。原適應症：Dectova is indicated for the treatment of complica...。預測適應症 20 個。"
 permalink: /news/zanamivir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zanamivir/
 ---
 
 <p class="key-answer" data-question="Zanamivir 有什麼相關新聞？">
-<strong>Zanamivir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Zanamivir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/zanamivir/
 <ul>
 <li><strong>原適應症</strong>：Dectova is indicated for the treatment of complicated and potentially life-threatening influenza A or B virus infection in adult and paediatric patients (aged ?6 months) when:  The patient’s...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>pyelonephritis（99.8%）</li>
 <li>influenza, severe, susceptibility to（99.4%）</li>
 <li>disorder of tyrosine metabolism（99.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/zanamivir/
 <li>dengue virus, susceptibility to（98.4%）</li>
 <li>legionnaire disease, susceptibility to（98.4%）</li>
 <li>aspergillosis, susceptibility to（98.4%）</li>
+<li>Schistosoma mansoni infection, susceptibility（98.3%）</li>
+<li>influenza（98.2%）</li>
+<li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency（98.1%）</li>
+<li>staphylococcus aureus infection（97.9%）</li>
+<li>pyogenic bacterial infections due to MyD88 deficiency（97.8%）</li>
+<li>acute hemorrhagic encephalitis（97.8%）</li>
+<li>acute necrotizing encephalitis（97.8%）</li>
+<li>HHV-6 encephalitis（97.8%）</li>
+<li>Hendra virus infection（97.8%）</li>
+<li>equine encephalitis（97.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zanamivir/' | relative_url }}">查看完整藥物報告 →</a></p>

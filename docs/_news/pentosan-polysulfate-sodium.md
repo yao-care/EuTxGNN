@@ -3,7 +3,7 @@ layout: default
 title: "Pentosan Polysulfate Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Pentosan Polysulfate Sodium 的相關健康新聞報導。原適應症：Elmiron is indicated for the treatment of bladder ...。預測適應症 10 個。"
+description: "Pentosan Polysulfate Sodium 的相關健康新聞報導。原適應症：Elmiron is indicated for the treatment of bladder ...。預測適應症 20 個。"
 permalink: /news/pentosan-polysulfate-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pentosan-polysulfate-sodium/
 ---
 
 <p class="key-answer" data-question="Pentosan Polysulfate Sodium 有什麼相關新聞？">
-<strong>Pentosan Polysulfate Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pentosan Polysulfate Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/pentosan-polysulfate-sodium/
 <ul>
 <li><strong>原適應症</strong>：Elmiron is indicated for the treatment of bladder pain syndrome characterized by either glomerulations or Hunner’s lesions in adults with moderate to severe pain, urgency and frequency of micturition.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary release disorder of platelets（99.7%）</li>
 <li>Glanzmann thrombasthenia（99.7%）</li>
 <li>pseudo-von Willebrand disease（99.6%）</li>
@@ -37,6 +37,16 @@ permalink: /news/pentosan-polysulfate-sodium/
 <li>autoimmune hemolytic anemia（97.7%）</li>
 <li>autoimmune thrombocytopenic（97.6%）</li>
 <li>bleeding diathesis due to a collagen receptor defect（97.5%）</li>
+<li>hemorrhagic disorder due to a constitutional thrombocytopenia（97.5%）</li>
+<li>rheumatoid arthritis（97.3%）</li>
+<li>platelet-type bleeding disorder（97.2%）</li>
+<li>acquired aplastic anemia（97.0%）</li>
+<li>partial deletion of the short arm of chromosome 16（96.8%）</li>
+<li>penile fibromatosis（96.7%）</li>
+<li>disorder of GPI anchor biosynthesis（96.7%）</li>
+<li>beta-thalassemia with other manifestations（96.6%）</li>
+<li>bone Paget disease（96.6%）</li>
+<li>hemolytic anemia due to glucophosphate isomerase deficiency（96.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pentosan-polysulfate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>

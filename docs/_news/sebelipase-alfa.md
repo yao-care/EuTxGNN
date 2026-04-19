@@ -3,7 +3,7 @@ layout: default
 title: "Sebelipase Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sebelipase Alfa 的相關健康新聞報導。原適應症：Kanuma is indicated for long-term enzyme replaceme...。預測適應症 10 個。"
+description: "Sebelipase Alfa 的相關健康新聞報導。原適應症：Kanuma is indicated for long-term enzyme replaceme...。預測適應症 20 個。"
 permalink: /news/sebelipase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sebelipase-alfa/
 ---
 
 <p class="key-answer" data-question="Sebelipase Alfa 有什麼相關新聞？">
-<strong>Sebelipase Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sebelipase Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/sebelipase-alfa/
 <ul>
 <li><strong>原適應症</strong>：Kanuma is indicated for long-term enzyme replacement therapy (ERT) in patients of all ages with lysosomal acid lipase (LAL) deficiency.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>Scheie syndrome（99.8%）</li>
 <li>Hurler syndrome（99.8%）</li>
 <li>growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/sebelipase-alfa/
 <li>autosomal ichthyosis syndrome with fatal disease course（99.6%）</li>
 <li>Tay-Sachs disease（99.6%）</li>
 <li>Wolman disease（99.6%）</li>
+<li>benign neoplasm of adrenal gland（99.6%）</li>
+<li>adult Krabbe disease（99.5%）</li>
+<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies（99.5%）</li>
+<li>Krabbe disease（99.4%）</li>
+<li>cholesterol metabolism disease（99.4%）</li>
+<li>lysosomal acid lipase deficiency（99.4%）</li>
+<li>metachromatic leukodystrophy（99.4%）</li>
+<li>encephalopathy due to prosaposin deficiency（99.4%）</li>
+<li>infantile neuronal ceroid lipofuscinosis（99.3%）</li>
+<li>alpha-mannosidosis（99.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sebelipase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

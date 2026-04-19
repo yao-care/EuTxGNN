@@ -3,7 +3,7 @@ layout: default
 title: "Oxybutynin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Oxybutynin 的相關健康新聞報導。原適應症：Symptomatic treatment of urge incontinence and/or ...。預測適應症 10 個。"
+description: "Oxybutynin 的相關健康新聞報導。原適應症：Symptomatic treatment of urge incontinence and/or ...。預測適應症 20 個。"
 permalink: /news/oxybutynin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxybutynin/
 ---
 
 <p class="key-answer" data-question="Oxybutynin 有什麼相關新聞？">
-<strong>Oxybutynin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxybutynin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/oxybutynin/
 <ul>
 <li><strong>原適應症</strong>：Symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in adult patients with unstable bladder.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>cauda equina syndrome（99.9%）</li>
 <li>overactive bladder (disease)（99.8%）</li>
 <li>restless legs syndrome（99.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/oxybutynin/
 <li>nephrogenic syndrome of inappropriate antidiuresis（97.5%）</li>
 <li>insomnia (disease)（96.9%）</li>
 <li>attention deficit-hyperactivity disorder（95.1%）</li>
+<li>faciodigitogenital syndrome（95.0%）</li>
+<li>familial episodic pain syndrome with predominantly upper body involvement（92.6%）</li>
+<li>transient tic disorder（92.5%）</li>
+<li>migraine disorder（92.1%）</li>
+<li>migraine with brainstem aura（92.0%）</li>
+<li>sleep disorder, initiating and maintaining sleep（91.8%）</li>
+<li>bladder neck obstruction（91.3%）</li>
+<li>communication disorder（90.7%）</li>
+<li>stereotypic movement disorder（90.6%）</li>
+<li>fetal nicotine spectrum disorder（90.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxybutynin/' | relative_url }}">查看完整藥物報告 →</a></p>

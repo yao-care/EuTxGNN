@@ -3,7 +3,7 @@ layout: default
 title: "Tenofovir Alafenamide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tenofovir Alafenamide 的相關健康新聞報導。原適應症：Treatment of adults and adolescents (aged 12 years...。預測適應症 10 個。"
+description: "Tenofovir Alafenamide 的相關健康新聞報導。原適應症：Treatment of adults and adolescents (aged 12 years...。預測適應症 20 個。"
 permalink: /news/tenofovir-alafenamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tenofovir-alafenamide/
 ---
 
 <p class="key-answer" data-question="Tenofovir Alafenamide 有什麼相關新聞？">
-<strong>Tenofovir Alafenamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tenofovir Alafenamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/tenofovir-alafenamide/
 <ul>
 <li><strong>原適應症</strong>：Treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus 1 (HIV 1) without known mutations associated with resistance...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（99.9%）</li>
 <li>simian immunodeficiency virus infection（99.9%）</li>
 <li>feline acquired immunodeficiency syndrome（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/tenofovir-alafenamide/
 <li>AIDS related complex（97.1%）</li>
 <li>congenital human immunodeficiency virus（97.1%）</li>
 <li>hepatitis B virus infection（96.1%）</li>
+<li>hepatitis C virus infection（96.1%）</li>
+<li>hepatitis E virus infection（95.0%）</li>
+<li>hepatitis A virus infection（94.8%）</li>
+<li>Omsk hemorrhagic fever（94.8%）</li>
+<li>hepatitis, viral, animal（94.7%）</li>
+<li>Kyasanur forest disease（94.6%）</li>
+<li>fibroma of prostate（92.1%）</li>
+<li>Brenner tumor（92.0%）</li>
+<li>benign reproductive system neoplasm（91.9%）</li>
+<li>benign prostate phyllodes tumor（91.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">查看完整藥物報告 →</a></p>

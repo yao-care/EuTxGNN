@@ -3,7 +3,7 @@ layout: default
 title: "Olopatadine Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Olopatadine Hydrochloride 的相關健康新聞報導。原適應症：Treatment of ocular signs and symptoms of seasonal...。預測適應症 10 個。"
+description: "Olopatadine Hydrochloride 的相關健康新聞報導。原適應症：Treatment of ocular signs and symptoms of seasonal...。預測適應症 20 個。"
 permalink: /news/olopatadine-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/olopatadine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Olopatadine Hydrochloride 有什麼相關新聞？">
-<strong>Olopatadine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Olopatadine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/olopatadine-hydrochloride/
 <ul>
 <li><strong>原適應症</strong>：Treatment of ocular signs and symptoms of seasonal allergic conjunctivitis.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>vernal conjunctivitis（99.9%）</li>
 <li>papillary conjunctivitis（99.8%）</li>
 <li>atopic conjunctivitis（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/olopatadine-hydrochloride/
 <li>conjunctival folliculosis（97.9%）</li>
 <li>serous conjunctivitis except viral（97.9%）</li>
 <li>Angelucci syndrome（97.8%）</li>
+<li>pseudomembranous conjunctivitis（97.8%）</li>
+<li>acute hemorrhagic conjunctivitis（97.7%）</li>
+<li>blepharoconjunctivitis（97.0%）</li>
+<li>pityriasis versicolor（96.9%）</li>
+<li>infectious anterior uveitis（96.3%）</li>
+<li>allergic urticaria（96.1%）</li>
+<li>parasitic eyelid infestation（95.0%）</li>
+<li>ulcerative blepharitis（94.7%）</li>
+<li>noninfectious dermatoses of eyelid（94.1%）</li>
+<li>exposure keratitis（94.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olopatadine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>

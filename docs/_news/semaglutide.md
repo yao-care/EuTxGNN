@@ -3,7 +3,7 @@ layout: default
 title: "Semaglutide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Semaglutide 的相關健康新聞報導。原適應症：Treatment of adults with insufficiently controlled...。預測適應症 10 個。"
+description: "Semaglutide 的相關健康新聞報導。原適應症：Treatment of adults with insufficiently controlled...。預測適應症 20 個。"
 permalink: /news/semaglutide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Semaglutide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/semaglutide/
 <ul>
 <li><strong>原適應症</strong>：Treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise:  as monotherapy when metformin is considered inappropriate due to intolerance or...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>focal stiff limb syndrome（98.6%）</li>
 <li>classic stiff person syndrome（98.6%）</li>
 <li>opsismodysplasia（98.6%）</li>
@@ -37,12 +37,30 @@ permalink: /news/semaglutide/
 <li>pressure-induced localized lipoatrophy（97.5%）</li>
 <li>idiopathic localized lipodystrophy（97.3%）</li>
 <li>pancreatic agenesis（97.3%）</li>
+<li>autoimmune oophoritis（95.0%）</li>
+<li>type 1 diabetes mellitus（94.9%）</li>
+<li>cholangiocarcinoma, susceptibility to（64.9%）</li>
+<li>hemoglobin C-beta-thalassemia syndrome（64.5%）</li>
+<li>hypercarotenemia and vitamin A deficiency, autosomal recessive（63.8%）</li>
+<li>atrial flutter (disease)（63.0%）</li>
+<li>permanent neonatal diabetes mellitus（61.5%）</li>
+<li>pancreas, dorsal, agenesis of（60.2%）</li>
+<li>lymphopenic hypergammaglobulinemia, antibody deficiency, autoimmune hemolytic anemia, and glomerulonephritis（59.5%）</li>
+<li>mitral valve prolapse, myxomatous（59.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+---
 
 ### [Remisión de la diabetes tipo 2: la pérdida de peso, factor clave para lograr el objetivo - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
 
@@ -60,6 +78,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Las grasas monoinsaturadas se asocian con un menor riesgo de diabetes tipo 2 - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
+
+2026-04-17 <span class="news-indication-tag">diabetes mellitus</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
+
+---
+
 ### [Experto indica que escalas poblacionales clásicas de predicción de riesgo cardiovascular en diabetes tienen limitaciones](https://news.google.com/rss/articles/CBMijgJBVV95cUxNS2VSeUpNUGZyR2hFZndYM1llbFFuWUlPREVDSVIzMnMxSlhFRE9IVWNvdUdQdFVnSU9kSGlCVFl2WWRLeFZFcHU3RUNGQTd3ZHlQQVV5bTFaVlJuWndRZUhhaWx5WUI2NF9qemVMQU5DQUM0TGpNeV80ZnBZN3lkT1R6RmdmeDZFdTJiUlFYU2VFcW1udk9MbURTTXhFaW8wOXFpWVFUajI3bGJnQlJjQkZIYVBNWUlCak9PQU9iT3VWVHNKQkV6STJkR1pMTkRzQnVyYnVKYU9zeEhVVUhxenBhQ2FrV0lEVVdodnJ3QTNMWlRMb3pHckRDQ1dGbzNZbjk0bDlPVVBQT0xHZlE?oc=5)
 
 2026-04-17 <span class="news-indication-tag">diabetes</span>
@@ -73,14 +99,6 @@ permalink: /news/semaglutide/
 2026-04-17 <span class="news-indication-tag">diabete</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE43ZGRRbVdlNGNHYWdDMDRybE5jSG9LbzdzaXQzWWMxYXRwb2F4a2tZeFlQZVNEOUgwVUhieWFRNjAzR1k0cVNfTU1BaXlRSVV6bEF0bVRoNFFMSlkzMG1JWTJ0Z1pkMGJfaUdEWlloM3ZkVHNmSUtSd3NLQ2Z0VWNLMkFHcjNKc1FNV2ZuamhPODRoTWl3bEJTcy12S05IOFpB0gGQAUFVX3lxTFA0bmJUdXVkQTQyRXlJeHhfT3RJVmdQVENqdkNQM3NMLUYzTWhFQlg3WGRObzhPcFN4Q1JzMVhKLUFMdkJJNThUNnM3R21ZbXZwMXFuMFQyQWhXV3dDYVI5RWJ2akN5aGRIdWVGWVN0Z0VET3l2SHdIYVhUSFZlNnJGWGFKVmVjNkdra2NoZmNOSg?oc=5)
-
----
-
-### [El Hospital público Puerta de Hierro, primero de España en implementar un cribado basado en pruebas de laboratorio que detecta enfermedades hepáticas en pacientes con diabetes - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
 
 ---
 
@@ -108,6 +126,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Popular weight loss medications linked to hidden side effects, study finds - Ground News](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR21QeTMtWi1NSFVQc09NNDNFOFlYWWx0VC11NTdRSEtpM2g3eEVsVmtwQzBYVm1Va2l0T09VUl85cmlvYXZSV1JtOWNvNm0wbzdlZHVSeHdydE5xcHUtaU5XYS1NRVBJQnRRUHp6NGRRNkRzZjA4VVhBd0pNRFpWdUkwX2poTzBNa2x4S19qN3hLVVhLZ2NtNHVENkYxVF80bkRaRVVnQk43UXJJ?oc=5)
+
+2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[Ground News](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR21QeTMtWi1NSFVQc09NNDNFOFlYWWx0VC11NTdRSEtpM2g3eEVsVmtwQzBYVm1Va2l0T09VUl85cmlvYXZSV1JtOWNvNm0wbzdlZHVSeHdydE5xcHUtaU5XYS1NRVBJQnRRUHp6NGRRNkRzZjA4VVhBd0pNRFpWdUkwX2poTzBNa2x4S19qN3hLVVhLZ2NtNHVENkYxVF80bkRaRVVnQk43UXJJ?oc=5)
+
+---
+
 ### [Diabetes patients call for more tailored mental health support](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TOU1DZWROcTNKRmdiS1BudlUtZ282N18wSktnMkpsZDZLT0ZtQzV4XzZpUjdGY1RtOXRLb3R4NXpvMHVjaVBwNFdpOXA4Nlc0czRxNnpLa1VSOWVE?oc=5)
 
 2026-04-17 <span class="news-indication-tag">diabetes</span>
@@ -121,14 +147,6 @@ permalink: /news/semaglutide/
 2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Diario Occidente](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnl0SldEd292R2diSWpEWjZBRmp1YlZWbG5YZXp1Nk5kejEtaFNYVVgtQzNxU293NEsyQ1ZhVEI4dW1jdDk2NjBBZk45SE5UalVfejRmU0pFU1hnb2VFYzhQSFRGT2luY0hlcDFsd1pEMy1SZVlYX2x6bjdCSWVkYThKcFM0blZWSV82V2I1WFJpT2lhMlRGLXBzQTJ6dWJfZW9KX0JQa084R2fSAbYBQVVfeXFMTVNZS0JvM2ZTRko5bkdNMTRVZ0pLSExtenRsb2dzNmd3eHh2WFVDdERiUzdPNEszYXJXSURqbVZ4ekdMWE8tOE90ZFA3ZFBmcmt2R1BLTnJpelYyM0JrZ1ZfUjA3dk0yYVpwRWFWaGRiWDZZRVRPelc0OXRlT2p5SVlaRUhqWDVHQ2M4T0l0ZDdIeWdReWdJZk92MWdzZXVEdnNnLWRIQjUxLUFpSG9MeERxS01DbXc?oc=5)
-
----
-
-### [Ozempic, Wegovy, Mounjaro : la révolution des médicaments anti-obésité - Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
-
-2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Degarelix 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Degarelix 的相關健康新聞報導。原適應症：FIRMAGON is a gonadotrophin releasing hormone (GnR...。預測適應症 10 個。"
+description: "Degarelix 的相關健康新聞報導。原適應症：FIRMAGON is a gonadotrophin releasing hormone (GnR...。預測適應症 20 個。"
 permalink: /news/degarelix/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/degarelix/
 ---
 
 <p class="key-answer" data-question="Degarelix 有什麼相關新聞？">
-<strong>Degarelix</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Degarelix</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/degarelix/
 <ul>
 <li><strong>原適應症</strong>：FIRMAGON is a gonadotrophin releasing hormone (GnRH) antagonist indicated: - for treatment of adult male patients with advanced hormone-dependent prostate cancer. - for treatment of high-risk...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>hypertrichosis (disease)（100.0%）</li>
 <li>Ambras type hypertrichosis universalis congenita（100.0%）</li>
 <li>syndrome with a Dandy-Walker malformation as major feature（100.0%）</li>
@@ -37,12 +37,22 @@ permalink: /news/degarelix/
 <li>familial male-limited precocious puberty（99.8%）</li>
 <li>centra precocious puberty 1（99.7%）</li>
 <li>familial isolated trichomegaly（99.7%）</li>
+<li>precocious puberty（99.6%）</li>
+<li>Plasmodium falciparum malaria（99.5%）</li>
+<li>nephrogenic syndrome of inappropriate antidiuresis（99.5%）</li>
+<li>aromatase excess syndrome（99.5%）</li>
+<li>IgE responsiveness, atopic（99.3%）</li>
+<li>recalcitrant atopic dermatitis（99.1%）</li>
+<li>subarachnoid hemorrhage (disease)（99.1%）</li>
+<li>renal-hepatic-pancreatic dysplasia（99.0%）</li>
+<li>thoracic malformation（99.0%）</li>
+<li>adult familial nephronophthisis-spastic quadriparesia syndrome（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/degarelix/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（29 則）
 
 ### [Marta Marcè, nutricionista experta en menopausia: “Lo que no tienes en tu despensa puede estar afectando a tus hormonas” - La Vanguardia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeHloaDNkWXY0ZGFCM2Q2SU1QY1pQMGlVUndHdEFSS2hlM09aeHpyWkI5Tk4td1c1TUxVUVB0V3lSVW96N2wzanpOUXR2cUxYVEE4SjN3VkFaSzJVRzhnUDJrNUpkS2MxbFBvOFViR21hY1lHeElCMExPU3NYZEtKcTQ4SDRyLVVQSkZYX2U1MEZZck5nMnZqbjB6b3A3enpTLUR2YWtRcnFrdDNrMnBHTnNvbXgzYUZrdko0djRhMndmdGdQWnBMc3Y3RzlzY1VKdVJNaUpLdXpfOTdZN3hHdUdxVW9zYThMYU53am9n0gHzAUFVX3lxTE53U0xsT0NVZW03SHJWWWNVMFBhMTlXcUIzS3k5VFV6cWw3RGxfRHFOZEYwRVlCNDFCc2J1ZHl5UWoxb2FwQUxkVTFzZnRwSVRGNjRPTjB0R2JnajZxQU5tTVRVNnhUajBrWDQwWkRZZG9wZHl2OW5XMW1rb1RNWkxfYVd4VzN0VDhHR0lMa3dhd0FaN1h2VFFfeVhzczRkMFpDM0hDT3JRY3RvNndyeU1UUzh4b201MElVUFpobkQtRk10Tm1yV0puYW9PakRydHlpU2M4bFhzcG1MVXBreVZYTlVXekdZLVFpcDl5ajIzaG11TQ?oc=5)
 
@@ -68,19 +78,19 @@ permalink: /news/degarelix/
 
 ---
 
+### [Comet C/2025 R3 PanSTARRS - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHRDMUNoTmMzeUFwd3NGclZHdjI1Q055TXJPWUJ6UVRiaFExUnVVdEVYeHNpM001Q1VRa0U0VkRWYUpnRnduY0tUTkRSdDFHaHRIMjRlV2xuaDJKN2lEdHlpeDY1bzRqT1V6NkpRWmp4amR6T2NNd3J3V1lKZXU2VHR2ZVhseG4zaXJ3?oc=5)
+
+2026-04-18 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHRDMUNoTmMzeUFwd3NGclZHdjI1Q055TXJPWUJ6UVRiaFExUnVVdEVYeHNpM001Q1VRa0U0VkRWYUpnRnduY0tUTkRSdDFHaHRIMjRlV2xuaDJKN2lEdHlpeDY1bzRqT1V6NkpRWmp4amR6T2NNd3J3V1lKZXU2VHR2ZVhseG4zaXJ3?oc=5)
+
+---
+
 ### [Das schlafende Gehirn rekonstruiert schlechte Erinnerungen präziser als gute - Martin Cid Magazine](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmR2YnFDMWhjRjZ5NTNxdF83UGVJaDhlUUNzUk9WRTJlamRhNThxUllmcjZWekhNZ0VyMUZqZjBGS09rQS1sV1MzcnhxazdEZEY5WE5sWkdreVp1MkRobk9FY0xZbmFSY1Fld21iX1RwMzFrYm0wTjhNZFRuQUtKdldYdnN1MjQ1R3RqUmh4VE1Fb1dPMnF1eG1yR2dwSnR3UWZZby1UeW56Y2Eta09kTzJLTF9XV1k?oc=5)
 
 2026-04-18 <span class="news-indication-tag">AF</span>
 
 來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmR2YnFDMWhjRjZ5NTNxdF83UGVJaDhlUUNzUk9WRTJlamRhNThxUllmcjZWekhNZ0VyMUZqZjBGS09rQS1sV1MzcnhxazdEZEY5WE5sWkdreVp1MkRobk9FY0xZbmFSY1Fld21iX1RwMzFrYm0wTjhNZFRuQUtKdldYdnN1MjQ1R3RqUmh4VE1Fb1dPMnF1eG1yR2dwSnR3UWZZby1UeW56Y2Eta09kTzJLTF9XV1k?oc=5)
-
----
-
-### [¿Qué le pasa a tu salud si todos los días tomas una taza de café?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQdIBwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[SuMédico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQdIBwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQQ?oc=5)
 
 ---
 
@@ -180,14 +190,6 @@ permalink: /news/degarelix/
 
 ---
 
-### [AR 4419 in H-alpha - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiggFBVV95cUxOcml6OG5rbnYtQlRSNzV1RzU2YS00WVFLUS1Id1NNeEVCeVpHdnV3TDE5dEV1Qy1rRUwtWE90dEVXWFNxZ0V5OTFxc0tPTlZpdk0yeU10N2pNY0p0WHZ0Z3M1N0pLWElNem1JOHV2b19nQ0dmeUFnLXV2X1RVMnRIUnpn?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiggFBVV95cUxOcml6OG5rbnYtQlRSNzV1RzU2YS00WVFLUS1Id1NNeEVCeVpHdnV3TDE5dEV1Qy1rRUwtWE90dEVXWFNxZ0V5OTFxc0tPTlZpdk0yeU10N2pNY0p0WHZ0Z3M1N0pLWElNem1JOHV2b19nQ0dmeUFnLXV2X1RVMnRIUnpn?oc=5)
-
----
-
 ### [Der universelle Rhythmus der Natur](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMk5wXzFMd3pSUnNSbnJaS3FKd0o3N29MZXc0ZWNIUlNJZWYtTUVuZVRkOTBQb2RyQ1h1ZE5qd2dCQjFjenFBcFNBRlZOZV9NdHN6S1QzYmtPbi1aT05GVVEwRkNGWjk5T2hCSGp3VlJkdWdrdGZNS0lBT3FrSDU5bg?oc=5)
 
 2026-04-17 <span class="news-indication-tag">AF</span>
@@ -228,19 +230,19 @@ permalink: /news/degarelix/
 
 ---
 
-### [I beat cancer at 26 but still lost happy ending after cruel twist stole my wife - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
-
----
-
 ### [Bowel cancer test change sees rise in diagnoses](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
+
+---
+
+### [New Report Highlights Fructose as a Key Driver of Metabolic Disease - University of Colorado Anschutz](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2t3aWZkeDlOTTlIZjVlYXExZTZzNW02VWxkVnZqak4zcVZtUmQ2QkVwaVdnZkR2QUVSZlNfdUo5ZkRpZWNHTmtrazZpY0JGMnBjV1lKX0paQUFVV3NZLTh2eE11Q1ZlaUg2bTN2ZDEwRFNaTHdQd1pLZkY1Mnhuem1jZkZLZnE2dHNrRGx3WXJDUkp5Y21vT0F2YXhsMmdFTnlvMV9kd0FxcW1M0gG8AUFVX3lxTE51UmJQNEk0cjhuc2lEc3BXZ2ZzVHRjVmNMMTAzb1N3cjZIUVNPc1ctRXByd1hVclEzYkF3WUVlM1BWLUlEMnZKSV9TcE1jbGtYNnU4amJlNVVXRDN5cUJzZC02aDMyM0tBVjZJTURmMmtYMW1WMF9Ca016N0NtZHZ4c3gxT29rQVFKeTc3TWd5V09UYjJPY2cwWXFDRzFVbWtKM1RTNl9Ld2RGUC1XQ2NpcHVhcmxHcksyZ0Nz?oc=5)
+
+2026-04-17 <span class="news-indication-tag">AF</span>
+
+來源：[University of Colorado Anschutz](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2t3aWZkeDlOTTlIZjVlYXExZTZzNW02VWxkVnZqak4zcVZtUmQ2QkVwaVdnZkR2QUVSZlNfdUo5ZkRpZWNHTmtrazZpY0JGMnBjV1lKX0paQUFVV3NZLTh2eE11Q1ZlaUg2bTN2ZDEwRFNaTHdQd1pLZkY1Mnhuem1jZkZLZnE2dHNrRGx3WXJDUkp5Y21vT0F2YXhsMmdFTnlvMV9kd0FxcW1M0gG8AUFVX3lxTE51UmJQNEk0cjhuc2lEc3BXZ2ZzVHRjVmNMMTAzb1N3cjZIUVNPc1ctRXByd1hVclEzYkF3WUVlM1BWLUlEMnZKSV9TcE1jbGtYNnU4amJlNVVXRDN5cUJzZC02aDMyM0tBVjZJTURmMmtYMW1WMF9Ca016N0NtZHZ4c3gxT29rQVFKeTc3TWd5V09UYjJPY2cwWXFDRzFVbWtKM1RTNl9Ld2RGUC1XQ2NpcHVhcmxHcksyZ0Nz?oc=5)
 
 ---
 
@@ -281,22 +283,6 @@ permalink: /news/degarelix/
 2026-04-17 <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
-
----
-
-### [Jupiter im Sternbild Zwillinge (Objekte beschriftet) - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTRBR2hIanJCTVR0ZHlZTVlQVF9nQmJCZHRJUU41VXVoLW9qWXBVbWVPLXg1TkN5R1Bzazh4LVJpRjEydmNuNFRHVWpueHdWWklBZElWTnlad284Q25LdVhFM1pscTVrS0FoRDhrU1Jwb3hZMlpwZkNGT0hBU19iVUpBUE5KU3RtYWd3LTFReElvMktYV3RPVGRDS3RnQUNpbnUyZFYzYTQzbFFx?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTRBR2hIanJCTVR0ZHlZTVlQVF9nQmJCZHRJUU41VXVoLW9qWXBVbWVPLXg1TkN5R1Bzazh4LVJpRjEydmNuNFRHVWpueHdWWklBZElWTnlad284Q25LdVhFM1pscTVrS0FoRDhrU1Jwb3hZMlpwZkNGT0hBU19iVUpBUE5KU3RtYWd3LTFReElvMktYV3RPVGRDS3RnQUNpbnUyZFYzYTQzbFFx?oc=5)
-
----
-
-### [Raumfahrtgeschichte: Astronomie mit Spacelab? - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzF0dW5QYVhTRzhCRk1aYzRRc1JPVnloamNQd0Z5U08xa3NWS0w4eDUtVGVjYzM5aHVmODNpRTVIbmdKeWl2SElReTc1dG5qekd0bEhLOGRVNW1hdVdOdG5kUjRtQV9yd2d0cjRBQldvM2RTY1RiMkR6SnRhRWQ0cVhUeVVySlU?oc=5)
-
-2026-04-16 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzF0dW5QYVhTRzhCRk1aYzRRc1JPVnloamNQd0Z5U08xa3NWS0w4eDUtVGVjYzM5aHVmODNpRTVIbmdKeWl2SElReTc1dG5qekd0bEhLOGRVNW1hdVdOdG5kUjRtQV9yd2d0cjRBQldvM2RTY1RiMkR6SnRhRWQ0cVhUeVVySlU?oc=5)
 
 ---
 

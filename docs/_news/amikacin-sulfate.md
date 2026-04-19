@@ -3,7 +3,7 @@ layout: default
 title: "Amikacin Sulfate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Amikacin Sulfate 的相關健康新聞報導。原適應症：Arikayce liposomal is indicated for the treatment ...。預測適應症 10 個。"
+description: "Amikacin Sulfate 的相關健康新聞報導。原適應症：Arikayce liposomal is indicated for the treatment ...。預測適應症 20 個。"
 permalink: /news/amikacin-sulfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amikacin-sulfate/
 ---
 
 <p class="key-answer" data-question="Amikacin Sulfate 有什麼相關新聞？">
-<strong>Amikacin Sulfate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Amikacin Sulfate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/amikacin-sulfate/
 <ul>
 <li><strong>原適應症</strong>：Arikayce liposomal is indicated for the treatment of non-tuberculous mycobacterial (NTM) lung infections caused by Mycobacterium avium Complex (MAC) in adults with limited treatment options who do...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>paratyphoid fever（99.8%）</li>
 <li>diffuse scleroderma（99.8%）</li>
 <li>punctate epithelial keratoconjunctivitis（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/amikacin-sulfate/
 <li>congenital analbuminemia（99.6%）</li>
 <li>polyclonal hyperviscosity syndrome（99.6%）</li>
 <li>hyperamylasemia（99.6%）</li>
+<li>meningococcemia（99.6%）</li>
+<li>staphylococcal pneumonia（99.5%）</li>
+<li>neurotrophic keratopathy（99.5%）</li>
+<li>exposure keratitis（99.4%）</li>
+<li>bacterial arthritis（99.4%）</li>
+<li>blood group incompatibility（99.4%）</li>
+<li>gingivitis（99.4%）</li>
+<li>bacterial pneumonia（99.3%）</li>
+<li>premalignant hematological system disease（99.3%）</li>
+<li>pneumococcal meningitis（99.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amikacin-sulfate/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# depression 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depression 有什麼相關新聞？">
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Misophonia Has Genetic Links to Anxiety And Depression, Study Says](https://news.google.com/rss/articles/CBMimgFBVV95cUxOai0xZEVpNU9oRjUyaVRTejlLYldyVWcxaWdlZHJBYmpXNzNFanByM2tfcFdZcjV4Rm96U1I2S25mVGhsQy1LUW5lSEJPdkJBUlBfeEMxMWU0amRLN1BmWmo3MjFVaDJXTF9RZThmeUFRaFlzSkN4dzI2ckJrem8zNjZOT2RWbzlkUWRub2NlZHFud192QUtCbW9B?oc=5)
 
@@ -50,14 +50,6 @@ permalink: /news/depression/
 2026-04-17
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUV1LWlnLU5OYjFfdHJJQ2NRdEdhRjY2anJudnV3Q2VYd0o1ZE9xaVZZQ3Vyd3lFLVNCYTJwMV9iaXE1bE1qNGQ0VVhwN3VubnFCRGhnZjQtam1tUjBmZ2cyYUNBRVQ4c2RWTG9CMFB3RmFObjlCNmN1UVdzam5XRjBDNzBBRzk4X1owcHVVcE50SW15clpVVnRKbXp2bEMyOFVZZFVFelJSS2ZUd2EtWG11WEU3ODV6Q2F6S1JYQkI4VGNKUmVseTN2YWp4dmlMOGQtSmMzSDgwRHh1ZjAtY1RhN0pkODgwcjhCNQ?oc=5)
-
----
-
-### [Las diferencias de expresión genética en el cerebro según el sexo influyen en el riesgo de sufrir trastornos psiquiátricos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMkk1d1poZGNxSjFkWkdTM2I5dVJqVmhnSEI3V1JzelVBLUVvMmx6OUZ2ZllpTXJWWkpSOVNESE5HUTFSdTREQXlPSXgzS3FzYWFDM3BWOTI5aVlIUHdxVGItM1hZdS1idDF5aFJEbU9SM3BhWmE0ZnZZbTk0TEhpVUxKbU1lcFcxaXpZY3p0OXR1OU5kQTFENGRKeFdCRVRqTHdSSW50TlVGNjF4SmtoY2pnVnVEdE5vWEx3dVlhbHlXbk0zREo5dlNldXNCeVg2UURkNWdIbjM2eFNVZnVPQ29LS0hqaURkOVBQMlNvaw?oc=5)
-
-2026-04-16
-
-來源：[Sinc](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMkk1d1poZGNxSjFkWkdTM2I5dVJqVmhnSEI3V1JzelVBLUVvMmx6OUZ2ZllpTXJWWkpSOVNESE5HUTFSdTREQXlPSXgzS3FzYWFDM3BWOTI5aVlIUHdxVGItM1hZdS1idDF5aFJEbU9SM3BhWmE0ZnZZbTk0TEhpVUxKbU1lcFcxaXpZY3p0OXR1OU5kQTFENGRKeFdCRVRqTHdSSW50TlVGNjF4SmtoY2pnVnVEdE5vWEx3dVlhbHlXbk0zREo5dlNldXNCeVg2UURkNWdIbjM2eFNVZnVPQ29LS0hqaURkOVBQMlNvaw?oc=5)
 
 ---
 

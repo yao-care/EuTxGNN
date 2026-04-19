@@ -3,7 +3,7 @@ layout: default
 title: "Inotersen Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Inotersen Sodium 的相關健康新聞報導。原適應症：Treatment of stage 1 or Stage 2 polyneuropathy in ...。預測適應症 10 個。"
+description: "Inotersen Sodium 的相關健康新聞報導。原適應症：Treatment of stage 1 or Stage 2 polyneuropathy in ...。預測適應症 20 個。"
 permalink: /news/inotersen-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inotersen-sodium/
 ---
 
 <p class="key-answer" data-question="Inotersen Sodium 有什麼相關新聞？">
-<strong>Inotersen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Inotersen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/inotersen-sodium/
 <ul>
 <li><strong>原適應症</strong>：Treatment of stage 1 or Stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>acute intermittent porphyria（99.9%）</li>
 <li>appendicitis（99.9%）</li>
 <li>IgG4-related pachymeningitis（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/inotersen-sodium/
 <li>eosinophilic angiocentric fibrosis（99.8%）</li>
 <li>IgG4-related mesenteritis（99.8%）</li>
 <li>IgG4-related aortitis（99.8%）</li>
+<li>IgG4-related mediastinitis（99.8%）</li>
+<li>chronic meningitis（99.8%）</li>
+<li>type I complement component 8 deficiency（99.8%）</li>
+<li>rheumatoid arthritis（99.8%）</li>
+<li>endocarditis（99.8%）</li>
+<li>IgG4-related hepatopathy（99.8%）</li>
+<li>porphyria（99.7%）</li>
+<li>endocardial fibroelastosis（99.7%）</li>
+<li>meningococcal infection（99.7%）</li>
+<li>pneumonia（99.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/inotersen-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>

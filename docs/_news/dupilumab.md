@@ -3,7 +3,7 @@ layout: default
 title: "Dupilumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dupilumab 的相關健康新聞報導。原適應症：Atopic dermatitis Adults and adolescentsDupixent i...。預測適應症 10 個。"
+description: "Dupilumab 的相關健康新聞報導。原適應症：Atopic dermatitis Adults and adolescentsDupixent i...。預測適應症 20 個。"
 permalink: /news/dupilumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="Dupilumab 有什麼相關新聞？">
-<strong>Dupilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dupilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/dupilumab/
 <ul>
 <li><strong>原適應症</strong>：Atopic dermatitis Adults and adolescentsDupixent is indicated for the treatment of moderate-to-severe atopic dermatitis in adults and adolescents 12 years and older who are candidates for systemic...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.9%）</li>
 <li>dermatitis（99.7%）</li>
 <li>acne keloid（99.6%）</li>
@@ -37,6 +37,16 @@ permalink: /news/dupilumab/
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（99.5%）</li>
 <li>hydroa vacciniforme, familial（99.5%）</li>
 <li>atopic eczema（99.3%）</li>
+<li>severe nonproliferative diabetic retinopathy（99.1%）</li>
+<li>postinfectious vasculitis（98.8%）</li>
+<li>post-bacterial disorder（98.8%）</li>
+<li>infective urethral stricture（98.7%）</li>
+<li>post-infectious syndrome（98.7%）</li>
+<li>infection-related hemolytic uremic syndrome（98.7%）</li>
+<li>Chagas cardiomyopathy（98.7%）</li>
+<li>otitis externa（98.4%）</li>
+<li>pityriasis simplex（98.2%）</li>
+<li>bronchial neoplasm (disease)（98.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">查看完整藥物報告 →</a></p>

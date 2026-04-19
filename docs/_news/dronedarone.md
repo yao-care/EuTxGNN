@@ -3,7 +3,7 @@ layout: default
 title: "Dronedarone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dronedarone 的相關健康新聞報導。原適應症：Multaq is indicated for the maintenance of sinus r...。預測適應症 10 個。"
+description: "Dronedarone 的相關健康新聞報導。原適應症：Multaq is indicated for the maintenance of sinus r...。預測適應症 20 個。"
 permalink: /news/dronedarone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/dronedarone/
 <ul>
 <li><strong>原適應症</strong>：Multaq is indicated for the maintenance of sinus rhythm after successful cardioversion in adult clinically stable patients with paroxysmal or persistent atrial fibrillation (AF). Due to its safety...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>stroke disorder（100.0%）</li>
 <li>obsolete susceptibility to ischemic stroke（100.0%）</li>
 <li>ABri amyloidosis（99.9%）</li>
@@ -37,12 +37,22 @@ permalink: /news/dronedarone/
 <li>duodenal obstruction（99.6%）</li>
 <li>cerebral artery occlusion（99.4%）</li>
 <li>sarcoglycanopathy（99.4%）</li>
+<li>Wildervanck syndrome（99.4%）</li>
+<li>manic bipolar affective disorder（99.3%）</li>
+<li>duodenal ulcer (disease)（99.2%）</li>
+<li>duodenogastric reflux（99.2%）</li>
+<li>spinal cord ischemia（99.1%）</li>
+<li>macrocephaly, dysmorphic facies, and psychomotor retardation（99.0%）</li>
+<li>nephrogenic syndrome of inappropriate antidiuresis（99.0%）</li>
+<li>transient ischemic attack (disease)（98.6%）</li>
+<li>Prinzmetal angina（98.5%）</li>
+<li>MRI defined brain infarct（98.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（37 則）
+## 相關新聞（34 則）
 
 ### [Marta Marcè, nutricionista experta en menopausia: “Lo que no tienes en tu despensa puede estar afectando a tus hormonas” - La Vanguardia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeHloaDNkWXY0ZGFCM2Q2SU1QY1pQMGlVUndHdEFSS2hlM09aeHpyWkI5Tk4td1c1TUxVUVB0V3lSVW96N2wzanpOUXR2cUxYVEE4SjN3VkFaSzJVRzhnUDJrNUpkS2MxbFBvOFViR21hY1lHeElCMExPU3NYZEtKcTQ4SDRyLVVQSkZYX2U1MEZZck5nMnZqbjB6b3A3enpTLUR2YWtRcnFrdDNrMnBHTnNvbXgzYUZrdko0djRhMndmdGdQWnBMc3Y3RzlzY1VKdVJNaUpLdXpfOTdZN3hHdUdxVW9zYThMYU53am9n0gHzAUFVX3lxTE53U0xsT0NVZW03SHJWWWNVMFBhMTlXcUIzS3k5VFV6cWw3RGxfRHFOZEYwRVlCNDFCc2J1ZHl5UWoxb2FwQUxkVTFzZnRwSVRGNjRPTjB0R2JnajZxQU5tTVRVNnhUajBrWDQwWkRZZG9wZHl2OW5XMW1rb1RNWkxfYVd4VzN0VDhHR0lMa3dhd0FaN1h2VFFfeVhzczRkMFpDM0hDT3JRY3RvNndyeU1UUzh4b201MElVUFpobkQtRk10Tm1yV0puYW9PakRydHlpU2M4bFhzcG1MVXBreVZYTlVXekdZLVFpcDl5ajIzaG11TQ?oc=5)
 
@@ -68,19 +78,19 @@ permalink: /news/dronedarone/
 
 ---
 
+### [Comet C/2025 R3 PanSTARRS - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHRDMUNoTmMzeUFwd3NGclZHdjI1Q055TXJPWUJ6UVRiaFExUnVVdEVYeHNpM001Q1VRa0U0VkRWYUpnRnduY0tUTkRSdDFHaHRIMjRlV2xuaDJKN2lEdHlpeDY1bzRqT1V6NkpRWmp4amR6T2NNd3J3V1lKZXU2VHR2ZVhseG4zaXJ3?oc=5)
+
+2026-04-18 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHRDMUNoTmMzeUFwd3NGclZHdjI1Q055TXJPWUJ6UVRiaFExUnVVdEVYeHNpM001Q1VRa0U0VkRWYUpnRnduY0tUTkRSdDFHaHRIMjRlV2xuaDJKN2lEdHlpeDY1bzRqT1V6NkpRWmp4amR6T2NNd3J3V1lKZXU2VHR2ZVhseG4zaXJ3?oc=5)
+
+---
+
 ### [Das schlafende Gehirn rekonstruiert schlechte Erinnerungen präziser als gute - Martin Cid Magazine](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmR2YnFDMWhjRjZ5NTNxdF83UGVJaDhlUUNzUk9WRTJlamRhNThxUllmcjZWekhNZ0VyMUZqZjBGS09rQS1sV1MzcnhxazdEZEY5WE5sWkdreVp1MkRobk9FY0xZbmFSY1Fld21iX1RwMzFrYm0wTjhNZFRuQUtKdldYdnN1MjQ1R3RqUmh4VE1Fb1dPMnF1eG1yR2dwSnR3UWZZby1UeW56Y2Eta09kTzJLTF9XV1k?oc=5)
 
 2026-04-18 <span class="news-indication-tag">AF</span>
 
 來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmR2YnFDMWhjRjZ5NTNxdF83UGVJaDhlUUNzUk9WRTJlamRhNThxUllmcjZWekhNZ0VyMUZqZjBGS09rQS1sV1MzcnhxazdEZEY5WE5sWkdreVp1MkRobk9FY0xZbmFSY1Fld21iX1RwMzFrYm0wTjhNZFRuQUtKdldYdnN1MjQ1R3RqUmh4VE1Fb1dPMnF1eG1yR2dwSnR3UWZZby1UeW56Y2Eta09kTzJLTF9XV1k?oc=5)
-
----
-
-### [¿Qué le pasa a tu salud si todos los días tomas una taza de café?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQdIBwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[SuMédico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQdIBwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQQ?oc=5)
 
 ---
 
@@ -148,11 +158,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Kohortenstudie: Psychische Traumata erhöhen Risiko für Demenz und Schlaganfall](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
+### [Kohortenstudie: Psychische Traumata erhöhen Risiko für Demenz und Schlaganfall - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
 
 2026-04-18 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
 
 ---
 
@@ -164,11 +174,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Pregnancy vaccine reduces baby hospital admissions for RSV by 80%](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+### [RSV maternal vaccine cuts baby hospital admissions by up to 85%](https://news.google.com/rss/articles/CBMingFBVV95cUxOamltbHNzWGNzVDBod19obU9rMlNUOEV6Z2hFM0NzUDJJSU04VVB6UV95NVBZRnRXNU1Yc1B6Zzd0V0xJVUZCd2lxZnFsTktUbWNvQkltZV92NUlfT1IwLUdRQjZqa3dnY2pzeU1IN2hUZWdIbmFoMWpPdmt4bVM4RFY2dzhiMnVEODVaa0o5aG9fUENvYUJEVG5lR191UQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">CVA</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+來源：[GOV.UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOamltbHNzWGNzVDBod19obU9rMlNUOEV6Z2hFM0NzUDJJSU04VVB6UV95NVBZRnRXNU1Yc1B6Zzd0V0xJVUZCd2lxZnFsTktUbWNvQkltZV92NUlfT1IwLUdRQjZqa3dnY2pzeU1IN2hUZWdIbmFoMWpPdmt4bVM4RFY2dzhiMnVEODVaa0o5aG9fUENvYUJEVG5lR191UQ?oc=5)
 
 ---
 
@@ -201,14 +211,6 @@ permalink: /news/dronedarone/
 2026-04-17 <span class="news-indication-tag">AF</span>
 
 來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMijAFBVV95cUxOY0MtbzNhQzFsTDNPNVpELXFxc0ZTT2hHSTl2X3VQbkFKOG41aXBZOUg4ZGdSS29HbnpJTTdCZnJra0hzejltdWI5cDBrZlUyRElwVTdXamEwc3FBczF6T3B2TVpHM3kwWW9KM25XMVdUVU43M2ViNU5EUzZIdVNOODltRHZtdEZzMXFGVg?oc=5)
-
----
-
-### [AR 4419 in H-alpha - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiggFBVV95cUxOcml6OG5rbnYtQlRSNzV1RzU2YS00WVFLUS1Id1NNeEVCeVpHdnV3TDE5dEV1Qy1rRUwtWE90dEVXWFNxZ0V5OTFxc0tPTlZpdk0yeU10N2pNY0p0WHZ0Z3M1N0pLWElNem1JOHV2b19nQ0dmeUFnLXV2X1RVMnRIUnpn?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiggFBVV95cUxOcml6OG5rbnYtQlRSNzV1RzU2YS00WVFLUS1Id1NNeEVCeVpHdnV3TDE5dEV1Qy1rRUwtWE90dEVXWFNxZ0V5OTFxc0tPTlZpdk0yeU10N2pNY0p0WHZ0Z3M1N0pLWElNem1JOHV2b19nQ0dmeUFnLXV2X1RVMnRIUnpn?oc=5)
 
 ---
 
@@ -252,19 +254,19 @@ permalink: /news/dronedarone/
 
 ---
 
-### [I beat cancer at 26 but still lost happy ending after cruel twist stole my wife - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
-
----
-
 ### [Bowel cancer test change sees rise in diagnoses](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
+
+---
+
+### [New Report Highlights Fructose as a Key Driver of Metabolic Disease - University of Colorado Anschutz](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2t3aWZkeDlOTTlIZjVlYXExZTZzNW02VWxkVnZqak4zcVZtUmQ2QkVwaVdnZkR2QUVSZlNfdUo5ZkRpZWNHTmtrazZpY0JGMnBjV1lKX0paQUFVV3NZLTh2eE11Q1ZlaUg2bTN2ZDEwRFNaTHdQd1pLZkY1Mnhuem1jZkZLZnE2dHNrRGx3WXJDUkp5Y21vT0F2YXhsMmdFTnlvMV9kd0FxcW1M0gG8AUFVX3lxTE51UmJQNEk0cjhuc2lEc3BXZ2ZzVHRjVmNMMTAzb1N3cjZIUVNPc1ctRXByd1hVclEzYkF3WUVlM1BWLUlEMnZKSV9TcE1jbGtYNnU4amJlNVVXRDN5cUJzZC02aDMyM0tBVjZJTURmMmtYMW1WMF9Ca016N0NtZHZ4c3gxT29rQVFKeTc3TWd5V09UYjJPY2cwWXFDRzFVbWtKM1RTNl9Ld2RGUC1XQ2NpcHVhcmxHcksyZ0Nz?oc=5)
+
+2026-04-17 <span class="news-indication-tag">AF</span>
+
+來源：[University of Colorado Anschutz](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2t3aWZkeDlOTTlIZjVlYXExZTZzNW02VWxkVnZqak4zcVZtUmQ2QkVwaVdnZkR2QUVSZlNfdUo5ZkRpZWNHTmtrazZpY0JGMnBjV1lKX0paQUFVV3NZLTh2eE11Q1ZlaUg2bTN2ZDEwRFNaTHdQd1pLZkY1Mnhuem1jZkZLZnE2dHNrRGx3WXJDUkp5Y21vT0F2YXhsMmdFTnlvMV9kd0FxcW1M0gG8AUFVX3lxTE51UmJQNEk0cjhuc2lEc3BXZ2ZzVHRjVmNMMTAzb1N3cjZIUVNPc1ctRXByd1hVclEzYkF3WUVlM1BWLUlEMnZKSV9TcE1jbGtYNnU4amJlNVVXRDN5cUJzZC02aDMyM0tBVjZJTURmMmtYMW1WMF9Ca016N0NtZHZ4c3gxT29rQVFKeTc3TWd5V09UYjJPY2cwWXFDRzFVbWtKM1RTNl9Ld2RGUC1XQ2NpcHVhcmxHcksyZ0Nz?oc=5)
 
 ---
 
@@ -281,6 +283,14 @@ permalink: /news/dronedarone/
 2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
+
+---
+
+### [“Abbiamo combattuto il grasso sbagliato per anni, ignorando quello che davvero alimenta le malattie”: Franco Berrino svela la verità nascosta dietro oli e prodotti industriali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
+
+2026-04-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
 
 ---
 
@@ -313,30 +323,6 @@ permalink: /news/dronedarone/
 2026-04-17 <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
-
----
-
-### ['Silent killer' explosion: lifestyle habit doctors fear is to blame - Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
-
-2026-04-17 <span class="news-indication-tag">stroke</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
-
----
-
-### [Jupiter im Sternbild Zwillinge (Objekte beschriftet) - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTRBR2hIanJCTVR0ZHlZTVlQVF9nQmJCZHRJUU41VXVoLW9qWXBVbWVPLXg1TkN5R1Bzazh4LVJpRjEydmNuNFRHVWpueHdWWklBZElWTnlad284Q25LdVhFM1pscTVrS0FoRDhrU1Jwb3hZMlpwZkNGT0hBU19iVUpBUE5KU3RtYWd3LTFReElvMktYV3RPVGRDS3RnQUNpbnUyZFYzYTQzbFFx?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTRBR2hIanJCTVR0ZHlZTVlQVF9nQmJCZHRJUU41VXVoLW9qWXBVbWVPLXg1TkN5R1Bzazh4LVJpRjEydmNuNFRHVWpueHdWWklBZElWTnlad284Q25LdVhFM1pscTVrS0FoRDhrU1Jwb3hZMlpwZkNGT0hBU19iVUpBUE5KU3RtYWd3LTFReElvMktYV3RPVGRDS3RnQUNpbnUyZFYzYTQzbFFx?oc=5)
-
----
-
-### [Raumfahrtgeschichte: Astronomie mit Spacelab? - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzF0dW5QYVhTRzhCRk1aYzRRc1JPVnloamNQd0Z5U08xa3NWS0w4eDUtVGVjYzM5aHVmODNpRTVIbmdKeWl2SElReTc1dG5qekd0bEhLOGRVNW1hdVdOdG5kUjRtQV9yd2d0cjRBQldvM2RTY1RiMkR6SnRhRWQ0cVhUeVVySlU?oc=5)
-
-2026-04-16 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzF0dW5QYVhTRzhCRk1aYzRRc1JPVnloamNQd0Z5U08xa3NWS0w4eDUtVGVjYzM5aHVmODNpRTVIbmdKeWl2SElReTc1dG5qekd0bEhLOGRVNW1hdVdOdG5kUjRtQV9yd2d0cjRBQldvM2RTY1RiMkR6SnRhRWQ0cVhUeVVySlU?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Zoledronic Acid Monohydrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Zoledronic Acid Monohydrate 的相關健康新聞報導。原適應症：Prevention of skeletal related events (pathologica...。預測適應症 10 個。"
+description: "Zoledronic Acid Monohydrate 的相關健康新聞報導。原適應症：Prevention of skeletal related events (pathologica...。預測適應症 20 個。"
 permalink: /news/zoledronic-acid-monohydrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zoledronic-acid-monohydrate/
 ---
 
 <p class="key-answer" data-question="Zoledronic Acid Monohydrate 有什麼相關新聞？">
-<strong>Zoledronic Acid Monohydrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Zoledronic Acid Monohydrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/zoledronic-acid-monohydrate/
 <ul>
 <li><strong>原適應症</strong>：Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bone Paget disease（99.6%）</li>
 <li>HIV infectious disease（94.0%）</li>
 <li>obsolete familial combined hyperlipidemia（93.5%）</li>
@@ -37,6 +37,16 @@ permalink: /news/zoledronic-acid-monohydrate/
 <li>vitamin deficiency disorder（90.3%）</li>
 <li>postmenopausal osteoporosis（90.1%）</li>
 <li>Worth syndrome（89.9%）</li>
+<li>succinyl-CoA:3-ketoacid CoA transferase deficiency（89.8%）</li>
+<li>autosomal dominant neovascular inflammatory vitreoretinopathy（89.3%）</li>
+<li>hypoglycemia（89.2%）</li>
+<li>pregnancy associated osteoporosis（88.2%）</li>
+<li>juvenile Paget disease（87.7%）</li>
+<li>cholelithiasis（85.6%）</li>
+<li>osteomesopyknosis（83.6%）</li>
+<li>Paget disease of bone（83.3%）</li>
+<li>palmar fibromatosis（79.8%）</li>
+<li>homozygous familial hypercholesterolemia（79.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zoledronic-acid-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>

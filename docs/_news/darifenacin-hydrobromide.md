@@ -3,7 +3,7 @@ layout: default
 title: "Darifenacin Hydrobromide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Darifenacin Hydrobromide 的相關健康新聞報導。原適應症：Symptomatic treatment of urge incontinence and/or ...。預測適應症 10 個。"
+description: "Darifenacin Hydrobromide 的相關健康新聞報導。原適應症：Symptomatic treatment of urge incontinence and/or ...。預測適應症 20 個。"
 permalink: /news/darifenacin-hydrobromide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/darifenacin-hydrobromide/
 ---
 
 <p class="key-answer" data-question="Darifenacin Hydrobromide 有什麼相關新聞？">
-<strong>Darifenacin Hydrobromide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Darifenacin Hydrobromide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/darifenacin-hydrobromide/
 <ul>
 <li><strong>原適應症</strong>：Symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in adult patients with overactive bladder syndrome.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>overactive bladder (disease)（99.8%）</li>
 <li>polycystic kidney disease 3 with or without polycystic liver disease（96.9%）</li>
 <li>thoracic malformation（96.1%）</li>
@@ -37,6 +37,16 @@ permalink: /news/darifenacin-hydrobromide/
 <li>karyomegalic interstitial nephritis（95.3%）</li>
 <li>polycystic kidney disease（92.4%）</li>
 <li>primary hereditary glaucoma（86.7%）</li>
+<li>respiratory failure（86.4%）</li>
+<li>tic disorder（84.3%）</li>
+<li>communication disorder（83.6%）</li>
+<li>hypotrichosis simplex of the scalp（83.1%）</li>
+<li>developmental disorder of mental health（83.0%）</li>
+<li>fetal nicotine spectrum disorder（82.3%）</li>
+<li>stereotypic movement disorder（82.3%）</li>
+<li>blepharospasm（82.2%）</li>
+<li>parkinsonian disorder（82.1%）</li>
+<li>bladder neck obstruction（81.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/darifenacin-hydrobromide/' | relative_url }}">查看完整藥物報告 →</a></p>

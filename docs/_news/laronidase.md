@@ -3,7 +3,7 @@ layout: default
 title: "Laronidase 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Laronidase 的相關健康新聞報導。原適應症：Aldurazyme is indicated for long-term enzyme repla...。預測適應症 10 個。"
+description: "Laronidase 的相關健康新聞報導。原適應症：Aldurazyme is indicated for long-term enzyme repla...。預測適應症 20 個。"
 permalink: /news/laronidase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/laronidase/
 ---
 
 <p class="key-answer" data-question="Laronidase 有什麼相關新聞？">
-<strong>Laronidase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Laronidase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/laronidase/
 <ul>
 <li><strong>原適應症</strong>：Aldurazyme is indicated for long-term enzyme replacement therapy in patients with a confirmed diagnosis of mucopolysaccharidosis I (MPS I; alpha-L-iduronidase deficiency) to treat the nonneurological...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>Scheie syndrome（99.7%）</li>
 <li>lysosomal storage disease with skeletal involvement（99.3%）</li>
 <li>Hurler syndrome（99.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/laronidase/
 <li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye（98.6%）</li>
 <li>ptosis-strabismus-ectopic pupils syndrome（98.6%）</li>
 <li>inborn disorder of lysosomal amino acid transport（98.6%）</li>
+<li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome（98.6%）</li>
+<li>ptosis-vocal cord paralysis syndrome（98.5%）</li>
+<li>congenital Horner syndrome (disease)（98.5%）</li>
+<li>Steel syndrome（98.5%）</li>
+<li>Hurler-Scheie syndrome（98.4%）</li>
+<li>jaw-winking syndrome（98.4%）</li>
+<li>congenital entropion（98.3%）</li>
+<li>epiblepharon（98.2%）</li>
+<li>mucopolysaccharidosis（98.2%）</li>
+<li>congenital ectropion（98.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/laronidase/' | relative_url }}">查看完整藥物報告 →</a></p>

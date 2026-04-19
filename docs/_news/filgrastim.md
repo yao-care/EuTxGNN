@@ -3,7 +3,7 @@ layout: default
 title: "Filgrastim 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Filgrastim 的相關健康新聞報導。原適應症：Ratiograstim is indicated for the reduction in the...。預測適應症 10 個。"
+description: "Filgrastim 的相關健康新聞報導。原適應症：Ratiograstim is indicated for the reduction in the...。預測適應症 20 個。"
 permalink: /news/filgrastim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/filgrastim/
 ---
 
 <p class="key-answer" data-question="Filgrastim 有什麼相關新聞？">
-<strong>Filgrastim</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Filgrastim</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/filgrastim/
 <ul>
 <li><strong>原適應症</strong>：Ratiograstim is indicated for the reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with established cytotoxic chemotherapy for malignancy (with...</li>
 <li><strong>證據等級</strong>：L2</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary release disorder of platelets（100.0%）</li>
 <li>pseudo-von Willebrand disease（100.0%）</li>
 <li>Glanzmann thrombasthenia（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/filgrastim/
 <li>serpinopathy with toxic serpin polymerization（99.8%）</li>
 <li>fetal and neonatal alloimmune thrombocytopenia（99.8%）</li>
 <li>platelet-type bleeding disorder（99.7%）</li>
+<li>hereditary angioedema with C1Inh deficiency（99.7%）</li>
+<li>Ehlers-Danlos syndrome, fibronectinemic type（99.6%）</li>
+<li>severe congenital neutropenia（99.6%）</li>
+<li>Peyronie disease（99.6%）</li>
+<li>primary immunodeficiency syndrome due to p14 deficiency（99.6%）</li>
+<li>cyclic hematopoiesis（99.5%）</li>
+<li>mixed-type autoimmune hemolytic anemia（99.4%）</li>
+<li>proteinuria（99.4%）</li>
+<li>primary CD59 deficiency（99.4%）</li>
+<li>drug-induced autoimmune hemolytic anemia（99.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/filgrastim/' | relative_url }}">查看完整藥物報告 →</a></p>

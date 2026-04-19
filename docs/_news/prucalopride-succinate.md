@@ -3,7 +3,7 @@ layout: default
 title: "Prucalopride Succinate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Prucalopride Succinate 的相關健康新聞報導。原適應症：Resolor is indicated for symptomatic treatment of ...。預測適應症 10 個。"
+description: "Prucalopride Succinate 的相關健康新聞報導。原適應症：Resolor is indicated for symptomatic treatment of ...。預測適應症 20 個。"
 permalink: /news/prucalopride-succinate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prucalopride-succinate/
 ---
 
 <p class="key-answer" data-question="Prucalopride Succinate 有什麼相關新聞？">
-<strong>Prucalopride Succinate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Prucalopride Succinate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/prucalopride-succinate/
 <ul>
 <li><strong>原適應症</strong>：Resolor is indicated for symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>hypoalphalipoproteinemia（99.8%）</li>
 <li>homozygous familial hypercholesterolemia（99.7%）</li>
 <li>duodenal ulcer (disease)（99.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/prucalopride-succinate/
 <li>HIV infectious disease（99.6%）</li>
 <li>primary amyloidosis（99.6%）</li>
 <li>acquired amyloid peripheral neuropathy（99.5%）</li>
+<li>dermis disease（99.5%）</li>
+<li>multiple endocrine neoplasia（99.5%）</li>
+<li>duodenal obstruction（99.5%）</li>
+<li>nodular cutaneous amyloidosis（99.5%）</li>
+<li>amyloidosis cutis dyschromia（99.5%）</li>
+<li>macular amyloidosis（99.5%）</li>
+<li>commissural lip fistula（99.5%）</li>
+<li>osteoradionecrosis of the mandible（99.5%）</li>
+<li>oral leukoedema（99.5%）</li>
+<li>burning mouth syndrome（99.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prucalopride-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>

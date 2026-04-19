@@ -3,7 +3,7 @@ layout: default
 title: "Sevelamer 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sevelamer 的相關健康新聞報導。原適應症：Renagel is indicated for the control of hyperphosp...。預測適應症 10 個。"
+description: "Sevelamer 的相關健康新聞報導。原適應症：Renagel is indicated for the control of hyperphosp...。預測適應症 20 個。"
 permalink: /news/sevelamer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sevelamer/
 ---
 
 <p class="key-answer" data-question="Sevelamer 有什麼相關新聞？">
-<strong>Sevelamer</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sevelamer</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/sevelamer/
 <ul>
 <li><strong>原適應症</strong>：Renagel is indicated for the control of hyperphosphataemia in adult patients receiving  haemodialysis or peritoneal dialysis. Renagel should be used within the context of a multiple therapeutic...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>breast fibrocystic disease（92.5%）</li>
 <li>blunt duct adenosis of breast（89.9%）</li>
 <li>apocrine adenosis of breast（89.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/sevelamer/
 <li>fat necrosis of breast（83.6%）</li>
 <li>lactation disease（83.4%）</li>
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（83.2%）</li>
+<li>simian immunodeficiency virus infection（82.8%）</li>
+<li>feline acquired immunodeficiency syndrome（82.8%）</li>
+<li>breast adenosis（82.2%）</li>
+<li>congestive heart failure（80.2%）</li>
+<li>AIDS related complex（79.8%）</li>
+<li>congenital human immunodeficiency virus（79.8%）</li>
+<li>acute pulmonary heart disease（79.4%）</li>
+<li>ulceration of vulva（79.3%）</li>
+<li>vulvar neoplasm（78.9%）</li>
+<li>vulvitis（77.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sevelamer/' | relative_url }}">查看完整藥物報告 →</a></p>

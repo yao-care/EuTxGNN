@@ -3,7 +3,7 @@ layout: default
 title: "Desloratadine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Desloratadine 的相關健康新聞報導。原適應症：Dasselta is indicated for the relief of symptoms a...。預測適應症 10 個。"
+description: "Desloratadine 的相關健康新聞報導。原適應症：Dasselta is indicated for the relief of symptoms a...。預測適應症 20 個。"
 permalink: /news/desloratadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/desloratadine/
 ---
 
 <p class="key-answer" data-question="Desloratadine 有什麼相關新聞？">
-<strong>Desloratadine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Desloratadine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/desloratadine/
 <ul>
 <li><strong>原適應症</strong>：Dasselta is indicated for the relief of symptoms associated with:  allergic rhinitis; urticaria.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>allergic urticaria（100.0%）</li>
 <li>papillary conjunctivitis（100.0%）</li>
 <li>cold urticaria（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/desloratadine/
 <li>vernal conjunctivitis（99.8%）</li>
 <li>recalcitrant atopic dermatitis（99.8%）</li>
 <li>nasopharyngitis（99.7%）</li>
+<li>IgE responsiveness, atopic（99.6%）</li>
+<li>rosacea conjunctivitis（99.4%）</li>
+<li>common cold（99.0%）</li>
+<li>headache disorder（98.4%）</li>
+<li>trigeminal autonomic cephalalgia（98.3%）</li>
+<li>punctate epithelial keratoconjunctivitis（97.7%）</li>
+<li>Angelucci syndrome（97.6%）</li>
+<li>chronic follicular conjunctivitis（97.6%）</li>
+<li>parasitic conjunctivitis（97.6%）</li>
+<li>serous conjunctivitis except viral（97.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/desloratadine/' | relative_url }}">查看完整藥物報告 →</a></p>

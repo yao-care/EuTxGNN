@@ -3,7 +3,7 @@ layout: default
 title: "Glycerol Phenylbutyrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Glycerol Phenylbutyrate 的相關健康新聞報導。原適應症：Ravicti is indicated for use as adjunctive therapy...。預測適應症 10 個。"
+description: "Glycerol Phenylbutyrate 的相關健康新聞報導。原適應症：Ravicti is indicated for use as adjunctive therapy...。預測適應症 20 個。"
 permalink: /news/glycerol-phenylbutyrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glycerol-phenylbutyrate/
 ---
 
 <p class="key-answer" data-question="Glycerol Phenylbutyrate 有什麼相關新聞？">
-<strong>Glycerol Phenylbutyrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Glycerol Phenylbutyrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/glycerol-phenylbutyrate/
 <ul>
 <li><strong>原適應症</strong>：Ravicti is indicated for use as adjunctive therapy for chronic management of patients&nbsp;with urea cycle disorders (UCDs) including deficiencies of carbamoyl phosphate-synthase-I (CPS), ornithine...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>urea cycle disorder（98.7%）</li>
 <li>argininosuccinic aciduria（98.2%）</li>
 <li>carbamoyl phosphate synthetase I deficiency disease（97.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/glycerol-phenylbutyrate/
 <li>hyperinsulinism-hyperammonemia syndrome（96.8%）</li>
 <li>hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency（96.6%）</li>
 <li>hyperargininemia（95.0%）</li>
+<li>citrullinemia（94.3%）</li>
+<li>citrin deficiency（93.5%）</li>
+<li>neonatal intrahepatic cholestasis due to citrin deficiency（92.7%）</li>
+<li>benign neoplasm of adrenal gland（90.8%）</li>
+<li>hyperammonemia due to N-acetylglutamate synthase deficiency（89.0%）</li>
+<li>familial apolipoprotein C-II deficiency（86.3%）</li>
+<li>polycystic kidney disease 3 with or without polycystic liver disease（83.1%）</li>
+<li>acute intermittent porphyria（81.3%）</li>
+<li>renal-hepatic-pancreatic dysplasia（79.6%）</li>
+<li>autosomal ichthyosis syndrome with fatal disease course（79.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glycerol-phenylbutyrate/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Levetiracetam 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Levetiracetam 的相關健康新聞報導。原適應症：Keppra is indicated as monotherapy in the treatmen...。預測適應症 10 個。"
+description: "Levetiracetam 的相關健康新聞報導。原適應症：Keppra is indicated as monotherapy in the treatmen...。預測適應症 20 個。"
 permalink: /news/levetiracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/levetiracetam/
 <ul>
 <li><strong>原適應症</strong>：Keppra is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy. Keppra is...</li>
 <li><strong>證據等級</strong>：L2</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>visual epilepsy（100.0%）</li>
 <li>audiogenic seizures（100.0%）</li>
 <li>eating seizures（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/levetiracetam/
 <li>reading seizures（99.9%）</li>
 <li>status epilepticus（99.9%）</li>
 <li>beta-ketothiolase deficiency（99.9%）</li>
+<li>partial epilepsy（99.9%）</li>
+<li>14q12 microdeletion syndrome（99.9%）</li>
+<li>Rett syndrome, congenital variant（99.9%）</li>
+<li>restless legs syndrome（99.9%）</li>
+<li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.8%）</li>
+<li>epilepsy with generalized tonic-clonic seizures（99.8%）</li>
+<li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
+<li>partial motor epilepsy（99.6%）</li>
+<li>trigeminal nerve neoplasm（99.5%）</li>
+<li>epilepsy（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>

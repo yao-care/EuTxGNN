@@ -3,7 +3,7 @@ layout: default
 title: "Estradiol 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Estradiol 的相關健康新聞報導。原適應症：Oral contraception。預測適應症 10 個。"
+description: "Estradiol 的相關健康新聞報導。原適應症：Oral contraception。預測適應症 20 個。"
 permalink: /news/estradiol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/estradiol/
 ---
 
 <p class="key-answer" data-question="Estradiol 有什麼相關新聞？">
-<strong>Estradiol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Estradiol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/estradiol/
 <ul>
 <li><strong>原適應症</strong>：Oral contraception</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>acne (disease)（100.0%）</li>
 <li>symptomatic form of fragile X syndrome in female carrier（98.8%）</li>
 <li>ovarian remnant syndrome（98.6%）</li>
@@ -37,6 +37,16 @@ permalink: /news/estradiol/
 <li>blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome（98.5%）</li>
 <li>luteoma of pregnancy（98.5%）</li>
 <li>partial autosomal trisomy/tetrasomy（98.5%）</li>
+<li>ovarian ectopic pregnancy（98.4%）</li>
+<li>primary ovarian failure（98.4%）</li>
+<li>blepharophimosis-epicanthus inversus-ptosis（98.4%）</li>
+<li>ovarian dysfunction（98.4%）</li>
+<li>zinc, elevated plasma（98.2%）</li>
+<li>stapes ankylosis with broad thumbs and toes（98.2%）</li>
+<li>telecanthus（98.2%）</li>
+<li>ovarian hyperstimulation syndrome（97.5%）</li>
+<li>sebaceous gland anomaly（94.6%）</li>
+<li>pyogenic arthritis-pyoderma gangrenosum-acne syndrome（93.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/estradiol/' | relative_url }}">查看完整藥物報告 →</a></p>

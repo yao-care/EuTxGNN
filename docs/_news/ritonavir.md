@@ -3,7 +3,7 @@ layout: default
 title: "Ritonavir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ritonavir 的相關健康新聞報導。原適應症：Ritonavir is indicated in combination with other a...。預測適應症 10 個。"
+description: "Ritonavir 的相關健康新聞報導。原適應症：Ritonavir is indicated in combination with other a...。預測適應症 20 個。"
 permalink: /news/ritonavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="Ritonavir 有什麼相關新聞？">
-<strong>Ritonavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ritonavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ritonavir/
 <ul>
 <li><strong>原適應症</strong>：Ritonavir is indicated in combination with other antiretroviral agents for the treatment of HIV 1 infected patients (adults and children of 2 years of age and older).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（100.0%）</li>
 <li>simian immunodeficiency virus infection（99.9%）</li>
 <li>feline acquired immunodeficiency syndrome（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/ritonavir/
 <li>hepatitis B virus infection（98.1%）</li>
 <li>hepatitis C virus infection（96.9%）</li>
 <li>AIDS related complex（96.7%）</li>
+<li>congenital human immunodeficiency virus（96.7%）</li>
+<li>chronic hepatitis B virus infection（96.4%）</li>
+<li>fibroma of prostate（95.8%）</li>
+<li>hepatitis E virus infection（95.5%）</li>
+<li>hepatitis, viral, animal（95.5%）</li>
+<li>hepatitis A virus infection（95.4%）</li>
+<li>Omsk hemorrhagic fever（95.4%）</li>
+<li>benign reproductive system neoplasm（95.4%）</li>
+<li>Brenner tumor（95.3%）</li>
+<li>Kyasanur forest disease（95.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">查看完整藥物報告 →</a></p>

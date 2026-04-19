@@ -3,7 +3,7 @@ layout: default
 title: "Ranolazine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ranolazine 的相關健康新聞報導。原適應症：Ranexa is indicated as add-on therapy for the symp...。預測適應症 10 個。"
+description: "Ranolazine 的相關健康新聞報導。原適應症：Ranexa is indicated as add-on therapy for the symp...。預測適應症 20 個。"
 permalink: /news/ranolazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ranolazine/
 ---
 
 <p class="key-answer" data-question="Ranolazine 有什麼相關新聞？">
-<strong>Ranolazine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ranolazine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ranolazine/
 <ul>
 <li><strong>原適應症</strong>：Ranexa is indicated as add-on therapy for the symptomatic treatment of patients with stable angina pectoris who are inadequately controlled or intolerant to first-line anti-anginal therapies (such as...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis（99.7%）</li>
 <li>rheumatoid arthritis（99.0%）</li>
 <li>brachydactyly-syndactyly syndrome（98.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/ranolazine/
 <li>fibromyalgia（97.6%）</li>
 <li>headache disorder（97.4%）</li>
 <li>conjunctivitis（97.3%）</li>
+<li>gout（97.0%）</li>
+<li>nephrogenic diabetes insipidus（96.9%）</li>
+<li>trigeminal autonomic cephalalgia（96.8%）</li>
+<li>duodenal obstruction（96.7%）</li>
+<li>pulmonary hypertension（96.3%）</li>
+<li>gastrin secretion abnormality（96.3%）</li>
+<li>bronchitis（96.3%）</li>
+<li>duodenal ulcer (disease)（96.2%）</li>
+<li>inclusion body myositis（96.2%）</li>
+<li>kyphoscoliotic heart disease（96.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ranolazine/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/ranolazine/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

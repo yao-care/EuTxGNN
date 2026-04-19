@@ -3,7 +3,7 @@ layout: default
 title: "Concizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Concizumab 的相關健康新聞報導。原適應症：Alhemo is indicated for routine prophylaxis of ble...。預測適應症 10 個。"
+description: "Concizumab 的相關健康新聞報導。原適應症：Alhemo is indicated for routine prophylaxis of ble...。預測適應症 20 個。"
 permalink: /news/concizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/concizumab/
 ---
 
 <p class="key-answer" data-question="Concizumab 有什麼相關新聞？">
-<strong>Concizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Concizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/concizumab/
 <ul>
 <li><strong>原適應症</strong>：Alhemo is indicated for routine prophylaxis of bleeding in patients 12 years of age or more with: •&nbsp;&nbsp;&nbsp;&nbsp;haemophilia A (congenital factor VIII deficiency) with FVIII...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>diabetic cataract（98.3%）</li>
 <li>tetanic cataract（98.2%）</li>
 <li>mature cataract（98.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/concizumab/
 <li>cortical cataract（98.1%）</li>
 <li>antithrombin deficiency type 2（98.1%）</li>
 <li>senile cataract（98.1%）</li>
+<li>factor 5 excess with spontaneous thrombosis（98.1%）</li>
+<li>heparin cofactor 2 deficiency（98.0%）</li>
+<li>diabetic retinopathy（98.0%）</li>
+<li>thrombophilia（97.8%）</li>
+<li>severe nonproliferative diabetic retinopathy（97.7%）</li>
+<li>diffuse gastric adenocarcinoma（95.4%）</li>
+<li>hemorrhagic disease of newborn（94.8%）</li>
+<li>gastric carcinoma（94.7%）</li>
+<li>bronchitis（94.7%）</li>
+<li>gastric adenocarcinoma and proximal polyposis of the stomach（94.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/concizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -57,6 +67,14 @@ permalink: /news/concizumab/
 2026-04-18 <span class="news-indication-tag">diabète</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
+
+---
+
+### [Las grasas monoinsaturadas se asocian con un menor riesgo de diabetes tipo 2 - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
+
+2026-04-17 <span class="news-indication-tag">diabetes mellitus</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
 
 ---
 
@@ -81,14 +99,6 @@ permalink: /news/concizumab/
 2026-04-17 <span class="news-drug-tag">Concizumab</span>
 
 來源：[El Día de Segovia](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHFyZ1hUdjZDcFkwLVNEUThHMmVveWItbVB0X1d1WXctMFRzZUlwcWk4bURURDZBN3pWZkpSZ3JzSjgxT3VzUkFtNzAzTTNsV19Jb2J4S0h6SlJJVWFNU1B3NzNVd2EtYUc5cWZuekJWcnBsdng0Z2dHLXRYOXlhbkd1c0tIWXhhaGhlM0hZUnFaZlVnVC1YVkM1ekxSWnhxcmVMU0wzUXJIQVlJbmZuN01jNHBpS1VWSWN5WGd4U0FLV2RuTi1zR0hEQ2U?oc=5)
-
----
-
-### [El Hospital público Puerta de Hierro, primero de España en implementar un cribado basado en pruebas de laboratorio que detecta enfermedades hepáticas en pacientes con diabetes - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
 
 ---
 

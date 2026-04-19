@@ -3,7 +3,7 @@ layout: default
 title: "Lamivudine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lamivudine 的相關健康新聞報導。原適應症：Combivir is indicated in antiretroviral combinatio...。預測適應症 10 個。"
+description: "Lamivudine 的相關健康新聞報導。原適應症：Combivir is indicated in antiretroviral combinatio...。預測適應症 20 個。"
 permalink: /news/lamivudine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lamivudine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lamivudine/
 <ul>
 <li><strong>原適應症</strong>：Combivir is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（100.0%）</li>
 <li>feline acquired immunodeficiency syndrome（99.9%）</li>
 <li>simian immunodeficiency virus infection（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/lamivudine/
 <li>chronic hepatitis B virus infection（97.1%）</li>
 <li>hepatitis C virus infection（97.0%）</li>
 <li>hepatoportal sclerosis（96.3%）</li>
+<li>idiopathic copper-associated cirrhosis（96.3%）</li>
+<li>early-onset familial noncirrhotic portal hypertension（96.3%）</li>
+<li>hepatopulmonary syndrome（96.3%）</li>
+<li>primitive portal vein thrombosis（96.3%）</li>
+<li>hepatitis E virus infection（95.9%）</li>
+<li>AIDS（95.8%）</li>
+<li>hepatitis, viral, animal（95.8%）</li>
+<li>hepatitis A virus infection（95.7%）</li>
+<li>Omsk hemorrhagic fever（95.7%）</li>
+<li>Kyasanur forest disease（95.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>

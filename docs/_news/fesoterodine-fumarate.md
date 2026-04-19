@@ -3,7 +3,7 @@ layout: default
 title: "Fesoterodine Fumarate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fesoterodine Fumarate 的相關健康新聞報導。原適應症：Treatment of the symptoms (increased urinary frequ...。預測適應症 10 個。"
+description: "Fesoterodine Fumarate 的相關健康新聞報導。原適應症：Treatment of the symptoms (increased urinary frequ...。預測適應症 20 個。"
 permalink: /news/fesoterodine-fumarate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fesoterodine-fumarate/
 ---
 
 <p class="key-answer" data-question="Fesoterodine Fumarate 有什麼相關新聞？">
-<strong>Fesoterodine Fumarate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fesoterodine Fumarate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/fesoterodine-fumarate/
 <ul>
 <li><strong>原適應症</strong>：Treatment of the symptoms (increased urinary frequency and / or urgency and / or urgency incontinence) that may occur in patients with overactive-bladder syndrome.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>overactive bladder (disease)（98.9%）</li>
 <li>polycystic kidney disease 3 with or without polycystic liver disease（91.1%）</li>
 <li>thoracic malformation（89.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/fesoterodine-fumarate/
 <li>low compliance bladder（86.5%）</li>
 <li>faciodigitogenital syndrome（84.8%）</li>
 <li>attention deficit-hyperactivity disorder（82.4%）</li>
+<li>polycystic kidney disease（79.9%）</li>
+<li>congenital analbuminemia（74.6%）</li>
+<li>hyperamylasemia（72.9%）</li>
+<li>polyclonal hyperviscosity syndrome（72.9%）</li>
+<li>restless legs syndrome（67.5%）</li>
+<li>communication disorder（67.0%）</li>
+<li>tic disorder（66.2%）</li>
+<li>developmental disorder of mental health（65.8%）</li>
+<li>stereotypic movement disorder（65.0%）</li>
+<li>fetal nicotine spectrum disorder（65.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fesoterodine-fumarate/' | relative_url }}">查看完整藥物報告 →</a></p>

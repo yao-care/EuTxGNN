@@ -3,7 +3,7 @@ layout: default
 title: "Reslizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Reslizumab 的相關健康新聞報導。原適應症：Cinqaero is indicated as add-on therapy in adult p...。預測適應症 10 個。"
+description: "Reslizumab 的相關健康新聞報導。原適應症：Cinqaero is indicated as add-on therapy in adult p...。預測適應症 20 個。"
 permalink: /news/reslizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/reslizumab/
 ---
 
 <p class="key-answer" data-question="Reslizumab 有什麼相關新聞？">
-<strong>Reslizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Reslizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/reslizumab/
 <ul>
 <li><strong>原適應症</strong>：Cinqaero is indicated as add-on therapy in adult patients with severe eosinophilic asthma inadequately controlled despite high dose inhaled corticosteroids plus another medicinal product for...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>thrombocytopenia due to immune destruction（99.5%）</li>
 <li>primary release disorder of platelets（99.2%）</li>
 <li>pseudo-von Willebrand disease（99.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/reslizumab/
 <li>Evans syndrome（97.9%）</li>
 <li>filariasis（96.2%）</li>
 <li>acne keloid（95.3%）</li>
+<li>neonatal dermatomyositis（94.9%）</li>
+<li>dermatitis（94.8%）</li>
+<li>amyopathic dermatomyositis（94.7%）</li>
+<li>acrodermatitis chronica atrophicans（94.3%）</li>
+<li>mixed-type autoimmune hemolytic anemia（94.1%）</li>
+<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（94.1%）</li>
+<li>hydroa vacciniforme, familial（94.0%）</li>
+<li>drug-induced autoimmune hemolytic anemia（93.8%）</li>
+<li>syndromic constitutional thrombocytopenia（93.6%）</li>
+<li>neonatal autoimmune hemolytic anemia（92.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/reslizumab/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Raltegravir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Raltegravir 的相關健康新聞報導。原適應症：Isentress is indicated in combination with other a...。預測適應症 10 個。"
+description: "Raltegravir 的相關健康新聞報導。原適應症：Isentress is indicated in combination with other a...。預測適應症 20 個。"
 permalink: /news/raltegravir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/raltegravir/
 ---
 
 <p class="key-answer" data-question="Raltegravir 有什麼相關新聞？">
-<strong>Raltegravir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Raltegravir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/raltegravir/
 <ul>
 <li><strong>原適應症</strong>：Isentress is indicated in combination with other anti-retroviral medicinal products for the treatment of human immunodeficiency virus (HIV 1) infection.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（99.9%）</li>
 <li>simian immunodeficiency virus infection（99.8%）</li>
 <li>feline acquired immunodeficiency syndrome（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/raltegravir/
 <li>obsolete familial combined hyperlipidemia（96.0%）</li>
 <li>fibroma of prostate（94.4%）</li>
 <li>breast fibrocystic disease（93.9%）</li>
+<li>benign reproductive system neoplasm（93.7%）</li>
+<li>Brenner tumor（93.6%）</li>
+<li>benign prostate phyllodes tumor（93.4%）</li>
+<li>blunt duct adenosis of breast（92.3%）</li>
+<li>apocrine adenosis of breast（92.3%）</li>
+<li>male reproductive organ cancer（92.1%）</li>
+<li>prostate cancer/brain cancer susceptibility（92.0%）</li>
+<li>benign mammary dysplasia（91.8%）</li>
+<li>prostate leiomyoma（91.1%）</li>
+<li>breast abscess（82.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/raltegravir/' | relative_url }}">查看完整藥物報告 →</a></p>

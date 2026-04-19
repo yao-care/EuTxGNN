@@ -3,7 +3,7 @@ layout: default
 title: "Netarsudil 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Netarsudil 的相關健康新聞報導。原適應症：Reduction of elevated intraocular pressure (IOP) i...。預測適應症 10 個。"
+description: "Netarsudil 的相關健康新聞報導。原適應症：Reduction of elevated intraocular pressure (IOP) i...。預測適應症 20 個。"
 permalink: /news/netarsudil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/netarsudil/
 ---
 
 <p class="key-answer" data-question="Netarsudil 有什麼相關新聞？">
-<strong>Netarsudil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Netarsudil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/netarsudil/
 <ul>
 <li><strong>原適應症</strong>：Reduction of elevated intraocular pressure (IOP) in adult patients with primary open-angle glaucoma or ocular hypertension.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>open-angle glaucoma（99.6%）</li>
 <li>primary hereditary glaucoma（99.5%）</li>
 <li>glaucoma（99.5%）</li>
@@ -37,6 +37,16 @@ permalink: /news/netarsudil/
 <li>hydrophthalmos（97.5%）</li>
 <li>hereditary thrombocytopenia with normal platelets（97.5%）</li>
 <li>dense granule disease（97.5%）</li>
+<li>marcothrombocytopenia with mitral valve insufficiency（97.5%）</li>
+<li>transient neonatal thrombocytopenia（97.3%）</li>
+<li>lingual-facial-buccal dyskinesia（97.2%）</li>
+<li>thrombocytopenia（97.0%）</li>
+<li>visceral calciphylaxis（97.0%）</li>
+<li>chronic tic disorder（96.9%）</li>
+<li>benign shuddering attacks（96.9%）</li>
+<li>extrapyramidal and movement disease（96.9%）</li>
+<li>psychogenic movement disorders（96.5%）</li>
+<li>benign paroxysmal tonic upgaze of childhood with ataxia（96.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/netarsudil/' | relative_url }}">查看完整藥物報告 →</a></p>

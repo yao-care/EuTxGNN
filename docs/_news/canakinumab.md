@@ -3,7 +3,7 @@ layout: default
 title: "Canakinumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Canakinumab 的相關健康新聞報導。原適應症：Periodic fever syndromes Ilaris is indicated for t...。預測適應症 10 個。"
+description: "Canakinumab 的相關健康新聞報導。原適應症：Periodic fever syndromes Ilaris is indicated for t...。預測適應症 20 個。"
 permalink: /news/canakinumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/canakinumab/
 ---
 
 <p class="key-answer" data-question="Canakinumab 有什麼相關新聞？">
-<strong>Canakinumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Canakinumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/canakinumab/
 <ul>
 <li><strong>原適應症</strong>：Periodic fever syndromes Ilaris is indicated for the treatment of the following autoinflammatory periodic fever syndromes in adults, adolescents and children aged 2 years and older:...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>hepatic infarction（99.9%）</li>
 <li>hepatic veno-occlusive disease（99.8%）</li>
 <li>peliosis hepatis（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/canakinumab/
 <li>familial Mediterranean fever, autosomal dominant（99.4%）</li>
 <li>extracutaneous mastocytoma（99.3%）</li>
 <li>Blau syndrome（99.3%）</li>
+<li>monosomy X（99.3%）</li>
+<li>liver angiosarcoma（99.3%）</li>
+<li>aggressive systemic mastocytosis（99.3%）</li>
+<li>X-linked lymphoproliferative disease due to SH2D1A deficiency（99.3%）</li>
+<li>familial Mediterranean fever（99.2%）</li>
+<li>primary release disorder of platelets（99.2%）</li>
+<li>pseudo-von Willebrand disease（99.1%）</li>
+<li>hepatic veno-occlusive disease-immunodeficiency syndrome（99.1%）</li>
+<li>systemic mastocytosis（99.0%）</li>
+<li>chromhidrosis（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/canakinumab/' | relative_url }}">查看完整藥物報告 →</a></p>

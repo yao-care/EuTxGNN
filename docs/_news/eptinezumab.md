@@ -3,7 +3,7 @@ layout: default
 title: "Eptinezumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Eptinezumab 的相關健康新聞報導。原適應症：Vyepti is indicated for the prophylaxis of migrain...。預測適應症 10 個。"
+description: "Eptinezumab 的相關健康新聞報導。原適應症：Vyepti is indicated for the prophylaxis of migrain...。預測適應症 20 個。"
 permalink: /news/eptinezumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eptinezumab/
 ---
 
 <p class="key-answer" data-question="Eptinezumab 有什麼相關新聞？">
-<strong>Eptinezumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Eptinezumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/eptinezumab/
 <ul>
 <li><strong>原適應症</strong>：Vyepti is indicated for the prophylaxis of migraine in adults who have at least 4 migraine days per month.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>migraine with brainstem aura（99.9%）</li>
 <li>migraine disorder（99.9%）</li>
 <li>migraine with or without aura, susceptibility to（99.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/eptinezumab/
 <li>factor 5 excess with spontaneous thrombosis（96.1%）</li>
 <li>thrombophilia（94.2%）</li>
 <li>amenorrhea (disease)（92.4%）</li>
+<li>sciatic neuropathy（89.9%）</li>
+<li>hemorrhagic disease of newborn（81.3%）</li>
+<li>severe nonproliferative diabetic retinopathy（67.7%）</li>
+<li>hyperemesis gravidarum (disease)（64.3%）</li>
+<li>hyperparathyroidism, primary, caused by water clear cell hyperplasia（60.2%）</li>
+<li>omphalocele (disease)（59.8%）</li>
+<li>prekallikrein deficiency（59.4%）</li>
+<li>sudden arrhythmia death syndrome（59.4%）</li>
+<li>Coronavinae infectious disease（58.8%）</li>
+<li>tibial adamantinoma（58.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eptinezumab/' | relative_url }}">查看完整藥物報告 →</a></p>

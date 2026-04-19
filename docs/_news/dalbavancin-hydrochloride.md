@@ -3,7 +3,7 @@ layout: default
 title: "Dalbavancin Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dalbavancin Hydrochloride 的相關健康新聞報導。原適應症：Xydalba is indicated for the treatment of acute ba...。預測適應症 10 個。"
+description: "Dalbavancin Hydrochloride 的相關健康新聞報導。原適應症：Xydalba is indicated for the treatment of acute ba...。預測適應症 20 個。"
 permalink: /news/dalbavancin-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dalbavancin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dalbavancin Hydrochloride 有什麼相關新聞？">
-<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/dalbavancin-hydrochloride/
 <ul>
 <li><strong>原適應症</strong>：Xydalba is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients from birth (see sections 4.4 and 5.1).Consideration should be...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>postinfectious vasculitis（99.8%）</li>
 <li>post-bacterial disorder（99.8%）</li>
 <li>post-infectious syndrome（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/dalbavancin-hydrochloride/
 <li>ophthalmic herpes zoster（99.2%）</li>
 <li>skin disease caused by infection（99.2%）</li>
 <li>infectious mononucleosis（99.2%）</li>
+<li>orbital cellulitis（99.0%）</li>
+<li>tinea corporis（98.9%）</li>
+<li>drug-induced osteoporosis（98.7%）</li>
+<li>infectious otitis interna（97.2%）</li>
+<li>ulcerative blepharitis（97.2%）</li>
+<li>parasitic eyelid infestation（97.2%）</li>
+<li>abdominal ectopic pregnancy（96.8%）</li>
+<li>celiac trunk compression syndrome（96.8%）</li>
+<li>abdominal cystic lymphangioma（96.8%）</li>
+<li>lymph node palisaded myofibroblastoma（96.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dalbavancin-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>

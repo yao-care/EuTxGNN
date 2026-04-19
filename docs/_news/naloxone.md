@@ -3,7 +3,7 @@ layout: default
 title: "Naloxone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Naloxone 的相關健康新聞報導。原適應症：Substitution treatment for opioid-drug dependence,...。預測適應症 10 個。"
+description: "Naloxone 的相關健康新聞報導。原適應症：Substitution treatment for opioid-drug dependence,...。預測適應症 20 個。"
 permalink: /news/naloxone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/naloxone/
 ---
 
 <p class="key-answer" data-question="Naloxone 有什麼相關新聞？">
-<strong>Naloxone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Naloxone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/naloxone/
 <ul>
 <li><strong>原適應症</strong>：Substitution treatment for opioid-drug dependence, within a framework of medical, social and psychological treatment. The intention of the naloxone component is to deter intravenous misuse. Treatment...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>opiate dependence（97.4%）</li>
 <li>morphine dependence（96.7%）</li>
 <li>substance abuse/dependence（91.5%）</li>
@@ -37,6 +37,16 @@ permalink: /news/naloxone/
 <li>nasal cavity disease（84.8%）</li>
 <li>psychotic disorder（82.6%）</li>
 <li>hypoglycemia（81.5%）</li>
+<li>acute pulmonary heart disease（80.9%）</li>
+<li>drug-induced dyskinesia（80.6%）</li>
+<li>acute laryngopharyngitis（80.6%）</li>
+<li>early-onset familial noncirrhotic portal hypertension（80.2%）</li>
+<li>idiopathic copper-associated cirrhosis（80.2%）</li>
+<li>primitive portal vein thrombosis（80.2%）</li>
+<li>hepatopulmonary syndrome（80.2%）</li>
+<li>hepatoportal sclerosis（80.2%）</li>
+<li>acute intermittent porphyria（79.8%）</li>
+<li>congestive heart failure（79.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/naloxone/' | relative_url }}">查看完整藥物報告 →</a></p>

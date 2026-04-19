@@ -3,7 +3,7 @@ layout: default
 title: "Toripalimab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Toripalimab 的相關健康新聞報導。原適應症：Loqtorzi, in combination with cisplatin and gemcit...。預測適應症 10 個。"
+description: "Toripalimab 的相關健康新聞報導。原適應症：Loqtorzi, in combination with cisplatin and gemcit...。預測適應症 20 個。"
 permalink: /news/toripalimab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/toripalimab/
 ---
 
 <p class="key-answer" data-question="Toripalimab 有什麼相關新聞？">
-<strong>Toripalimab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Toripalimab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/toripalimab/
 <ul>
 <li><strong>原適應症</strong>：Loqtorzi, in combination with cisplatin and gemcitabine, is indicated for the first-line treatment of adult patients with recurrent, not amenable to surgery or radiotherapy, or metastatic...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>mixed-type autoimmune hemolytic anemia（93.8%）</li>
 <li>idiopathic aplastic anemia（93.8%）</li>
 <li>dermatitis（93.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/toripalimab/
 <li>neonatal autoimmune hemolytic anemia（93.0%）</li>
 <li>primary CD59 deficiency（92.8%）</li>
 <li>amyopathic dermatomyositis（92.8%）</li>
+<li>neonatal dermatomyositis（92.7%）</li>
+<li>cold agglutinin disease（92.5%）</li>
+<li>hydroa vacciniforme, familial（92.4%）</li>
+<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（92.4%）</li>
+<li>acrodermatitis chronica atrophicans（92.2%）</li>
+<li>hepatic veno-occlusive disease-immunodeficiency syndrome（91.7%）</li>
+<li>pancytopenia due to IKZF1 mutations（91.0%）</li>
+<li>chromhidrosis（91.0%）</li>
+<li>adult idiopathic neutropenia（90.8%）</li>
+<li>congenital neutropenia-myelofibrosis-nephromegaly syndrome（90.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/toripalimab/' | relative_url }}">查看完整藥物報告 →</a></p>

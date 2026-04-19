@@ -3,7 +3,7 @@ layout: default
 title: "Galsulfase 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Galsulfase 的相關健康新聞報導。原適應症：Naglazyme is indicated for long-term enzyme-replac...。預測適應症 10 個。"
+description: "Galsulfase 的相關健康新聞報導。原適應症：Naglazyme is indicated for long-term enzyme-replac...。預測適應症 20 個。"
 permalink: /news/galsulfase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/galsulfase/
 ---
 
 <p class="key-answer" data-question="Galsulfase 有什麼相關新聞？">
-<strong>Galsulfase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Galsulfase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/galsulfase/
 <ul>
 <li><strong>原適應症</strong>：Naglazyme is indicated for long-term enzyme-replacement therapy in patients with a confirmed diagnosis of mucopolysaccharidosis VI (MPS VI; N-acetylgalactosamine-4-sulfatase deficiency;...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>ptosis-strabismus-ectopic pupils syndrome（97.9%）</li>
 <li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye（97.9%）</li>
 <li>congenital Horner syndrome (disease)（97.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/galsulfase/
 <li>epiblepharon（97.5%）</li>
 <li>congenital ectropion（97.5%）</li>
 <li>mucopolysaccharidosis（96.9%）</li>
+<li>Scheie syndrome（94.8%）</li>
+<li>Steel syndrome（93.9%）</li>
+<li>inborn disorder of lysosomal amino acid transport（92.4%）</li>
+<li>proximal myopathy with extrapyramidal signs（91.3%）</li>
+<li>Hurler syndrome（90.2%）</li>
+<li>Charcot-Marie-Tooth disease（90.0%）</li>
+<li>Sanfilippo syndrome（88.7%）</li>
+<li>lysosomal storage disease with skeletal involvement（88.0%）</li>
+<li>alpha-mannosidosis（87.2%）</li>
+<li>skeletal muscle disease（86.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/galsulfase/' | relative_url }}">查看完整藥物報告 →</a></p>

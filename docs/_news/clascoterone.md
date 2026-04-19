@@ -3,7 +3,7 @@ layout: default
 title: "Clascoterone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Clascoterone 的相關健康新聞報導。原適應症：Adults&nbsp;Winlevi is indicated for the treatment...。預測適應症 10 個。"
+description: "Clascoterone 的相關健康新聞報導。原適應症：Adults&nbsp;Winlevi is indicated for the treatment...。預測適應症 20 個。"
 permalink: /news/clascoterone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clascoterone/
 ---
 
 <p class="key-answer" data-question="Clascoterone 有什麼相關新聞？">
-<strong>Clascoterone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clascoterone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/clascoterone/
 <ul>
 <li><strong>原適應症</strong>：Adults&nbsp;Winlevi is indicated for the treatment of acne vulgaris. Adolescents (from 12 to &lt;&nbsp;18&nbsp;years of age)&nbsp;Winlevi is indicated for the treatment of facial acne vulgaris.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>candidiasis（94.8%）</li>
 <li>migraine disorder（92.1%）</li>
 <li>migraine with brainstem aura（91.4%）</li>
@@ -37,6 +37,16 @@ permalink: /news/clascoterone/
 <li>progeria-short stature-pigmented nevi syndrome（86.0%）</li>
 <li>adrenal gland hyperfunction（85.9%）</li>
 <li>multiple endocrine neoplasia（85.5%）</li>
+<li>ulerythema ophryogenesis（85.3%）</li>
+<li>progeroid syndrome, Petty type（85.2%）</li>
+<li>commissural lip fistula（84.9%）</li>
+<li>osteoradionecrosis of the mandible（84.9%）</li>
+<li>burning mouth syndrome（84.8%）</li>
+<li>oral leukoedema（84.8%）</li>
+<li>hyperargininemia（84.8%）</li>
+<li>carbamoyl phosphate synthetase I deficiency disease（84.8%）</li>
+<li>Leydig cell hypoplasia due to LH resistance（82.7%）</li>
+<li>bone marrow neoplasm（82.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clascoterone/' | relative_url }}">查看完整藥物報告 →</a></p>

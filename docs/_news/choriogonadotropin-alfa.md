@@ -3,7 +3,7 @@ layout: default
 title: "Choriogonadotropin Alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Choriogonadotropin Alfa 的相關健康新聞報導。原適應症：Ovitrelle is indicated in the treatment of:  women...。預測適應症 10 個。"
+description: "Choriogonadotropin Alfa 的相關健康新聞報導。原適應症：Ovitrelle is indicated in the treatment of:  women...。預測適應症 20 個。"
 permalink: /news/choriogonadotropin-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/choriogonadotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Choriogonadotropin Alfa 有什麼相關新聞？">
-<strong>Choriogonadotropin Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Choriogonadotropin Alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/choriogonadotropin-alfa/
 <ul>
 <li><strong>原適應症</strong>：Ovitrelle is indicated in the treatment of:  women undergoing superovulation prior to assisted reproductive techniques such as in vitro fertilisation (IVF): Ovitrelle is administered to trigger final...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>peptic esophagitis（98.4%）</li>
 <li>postural orthostatic tachycardia syndrome（98.3%）</li>
 <li>esophageal disease（97.6%）</li>
@@ -37,6 +37,16 @@ permalink: /news/choriogonadotropin-alfa/
 <li>sinoatrial block（95.9%）</li>
 <li>progressive familial heart block（95.7%）</li>
 <li>sinoatrial node disease（95.5%）</li>
+<li>restless legs syndrome（95.4%）</li>
+<li>esophageal atresia (disease)（95.3%）</li>
+<li>active peptic ulcer disease（95.3%）</li>
+<li>gastrojejunal ulcer（95.3%）</li>
+<li>peptic ulcer perforation（95.3%）</li>
+<li>migraine disorder（95.3%）</li>
+<li>esophageal leukoplakia (disease)（95.2%）</li>
+<li>acne (disease)（95.2%）</li>
+<li>dyskinesia of esophagus（95.2%）</li>
+<li>esophageal diverticulosis（95.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/choriogonadotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>

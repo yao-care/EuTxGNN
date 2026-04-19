@@ -3,7 +3,7 @@ layout: default
 title: "Anakinra 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Anakinra 的相關健康新聞報導。原適應症：Rheumatoid Arthritis (RA) Kineret is indicated in ...。預測適應症 10 個。"
+description: "Anakinra 的相關健康新聞報導。原適應症：Rheumatoid Arthritis (RA) Kineret is indicated in ...。預測適應症 20 個。"
 permalink: /news/anakinra/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/anakinra/
 ---
 
 <p class="key-answer" data-question="Anakinra 有什麼相關新聞？">
-<strong>Anakinra</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Anakinra</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/anakinra/
 <ul>
 <li><strong>原適應症</strong>：Rheumatoid Arthritis (RA) Kineret is indicated in adults for the treatment of the signs and symptoms of RA in combination with methotrexate, with an inadequate response to methotrexate alone....</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>extracutaneous mastocytoma（99.9%）</li>
 <li>hepatic infarction（99.9%）</li>
 <li>autosomal recessive familial Mediterranean fever（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/anakinra/
 <li>oligoarticular juvenile idiopathic arthritis without anti-nuclear antibodies（99.8%）</li>
 <li>pyogenic autoinflammatory syndrome（99.8%）</li>
 <li>unclassified autoinflammatory syndrome（99.8%）</li>
+<li>granulomatous autoinflammatory syndrome（99.8%）</li>
+<li>syndrome with combined immunodeficiency（99.7%）</li>
+<li>liver angiosarcoma（99.6%）</li>
+<li>mastocytosis（99.6%）</li>
+<li>Kimura disease（99.6%）</li>
+<li>indolent systemic mastocytosis（99.6%）</li>
+<li>bilateral parasagittal parieto-occipital polymicrogyria（99.6%）</li>
+<li>familial Mediterranean fever, autosomal dominant（99.5%）</li>
+<li>hepatic veno-occlusive disease-immunodeficiency syndrome（99.5%）</li>
+<li>amyotrophic lateral sclerosis（99.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/anakinra/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/anakinra/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

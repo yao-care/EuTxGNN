@@ -3,7 +3,7 @@ layout: default
 title: "Brolucizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Brolucizumab 的相關健康新聞報導。原適應症：Beovu is indicated in adults for the treatment of ...。預測適應症 10 個。"
+description: "Brolucizumab 的相關健康新聞報導。原適應症：Beovu is indicated in adults for the treatment of ...。預測適應症 20 個。"
 permalink: /news/brolucizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brolucizumab/
 ---
 
 <p class="key-answer" data-question="Brolucizumab 有什麼相關新聞？">
-<strong>Brolucizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brolucizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/brolucizumab/
 <ul>
 <li><strong>原適應症</strong>：Beovu is indicated in adults for the treatment of neovascular (wet) age-related macular degeneration (AMD).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies（99.7%）</li>
 <li>esophageal varices without bleeding（99.1%）</li>
 <li>esophageal varices with bleeding（99.1%）</li>
@@ -37,6 +37,16 @@ permalink: /news/brolucizumab/
 <li>ectopia lentis-chorioretinal dystrophy-myopia syndrome（97.8%）</li>
 <li>retinal dystrophy in systemic or cerebroretinal lipidoses（97.7%）</li>
 <li>senile reticular retinal degeneration（97.7%）</li>
+<li>Blessig's cysts（97.7%）</li>
+<li>pseudoretinitis pigmentosa（97.7%）</li>
+<li>cone dystrophy（97.7%）</li>
+<li>genetic macular dystrophy（97.6%）</li>
+<li>X-linked retinal dysplasia（97.5%）</li>
+<li>progressive bifocal chorioretinal atrophy（97.5%）</li>
+<li>varicose disease（97.4%）</li>
+<li>retinal drusen（97.4%）</li>
+<li>macular degeneration（97.3%）</li>
+<li>retinoschisis（97.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brolucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>

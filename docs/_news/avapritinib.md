@@ -3,7 +3,7 @@ layout: default
 title: "Avapritinib 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Avapritinib 的相關健康新聞報導。原適應症：Unresectable or metastatic gastrointestinal stroma...。預測適應症 10 個。"
+description: "Avapritinib 的相關健康新聞報導。原適應症：Unresectable or metastatic gastrointestinal stroma...。預測適應症 20 個。"
 permalink: /news/avapritinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/avapritinib/
 ---
 
 <p class="key-answer" data-question="Avapritinib 有什麼相關新聞？">
-<strong>Avapritinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avapritinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/avapritinib/
 <ul>
 <li><strong>原適應症</strong>：Unresectable or metastatic gastrointestinal stromal tumour (GIST) AYVAKYT is indicated as monotherapy for the treatment of adult patients with unresectable or metastatic gastrointestinal stromal...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>axial spondylometaphyseal dysplasia（99.9%）</li>
 <li>bilateral parasagittal parieto-occipital polymicrogyria（99.9%）</li>
 <li>amyotrophic lateral sclerosis（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/avapritinib/
 <li>lethal arthrogryposis-anterior horn cell disease syndrome（99.9%）</li>
 <li>monomelic amyotrophy（99.9%）</li>
 <li>Mills syndrome（99.9%）</li>
+<li>autosomal dominant mitochondrial myopathy with exercise intolerance（99.9%）</li>
+<li>familial generalized lentiginosis（99.9%）</li>
+<li>rhabdoid tumor（99.9%）</li>
+<li>gastrocutaneous syndrome（99.9%）</li>
+<li>acromelanosis（99.8%）</li>
+<li>congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome（99.8%）</li>
+<li>Moynahan syndrome（99.8%）</li>
+<li>osteopathia striata-pigmentary dermopathy-white forelock syndrome（99.8%）</li>
+<li>leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome（99.8%）</li>
+<li>peripheral nerve schwannoma（99.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/avapritinib/' | relative_url }}">查看完整藥物報告 →</a></p>

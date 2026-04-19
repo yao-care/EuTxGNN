@@ -3,7 +3,7 @@ layout: default
 title: "Levodopa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Levodopa 的相關健康新聞報導。原適應症：Stalevo is indicated for the treatment of adult pa...。預測適應症 10 個。"
+description: "Levodopa 的相關健康新聞報導。原適應症：Stalevo is indicated for the treatment of adult pa...。預測適應症 20 個。"
 permalink: /news/levodopa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/levodopa/
 <ul>
 <li><strong>原適應症</strong>：Stalevo is indicated for the treatment of adult patients with Parkinson's disease and end-of-dose motor fluctuations not stabilised on levodopa / dopa-decarboxylase (DDC)-inhibitor treatment.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>juvenile onset Parkinson disease 19A（99.7%）</li>
 <li>hereditary late onset Parkinson disease（99.5%）</li>
 <li>atypical juvenile parkinsonism（99.2%）</li>
@@ -37,18 +37,36 @@ permalink: /news/levodopa/
 <li>hemiparkinsonism-hemiatrophy syndrome（98.3%）</li>
 <li>transaldolase deficiency（98.2%）</li>
 <li>Parkinson disease（98.1%）</li>
+<li>parkinsonian-pyramidal syndrome（98.1%）</li>
+<li>paralysis agitans, juvenile, of Hunt（98.0%）</li>
+<li>fructose-1,6-bisphosphatase deficiency（97.8%）</li>
+<li>progressive supranuclear palsy-corticobasal syndrome（97.6%）</li>
+<li>Lewy body dementia（97.2%）</li>
+<li>early-onset parkinsonism-intellectual disability syndrome（97.1%）</li>
+<li>multiple system atrophy, parkinsonian type（97.0%）</li>
+<li>postencephalitic Parkinson disease（96.6%）</li>
+<li>X-linked intellectual disability-ataxia-apraxia syndrome（96.5%）</li>
+<li>lethal infantile mitochondrial myopathy（96.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Elle vit depuis 20 ans avec la maladie de Parkinson : "Quand tout se bloque, je pleure un bon coup et je repars" raconte Evelyne, âgée de 81 ans](https://news.google.com/rss/articles/CBMilgJBVV95cUxQNm5NWEtXUUZYVVc0OGhuaXZjV1RKdVdqSXNzdnNaUEFYcXRTVExZWVJvZ2hBY092WEpaQ0xUNkZWX2pqZXBUZU5hQVpoTHFXUENxUUxhNHdDUEM1RGxNNDVLcmNHTENJQmVYMlM3aVMwSXBYUjA4WWtMNTlvRE5ocHVlY21kNHB5Sy1BV1h1Z0lsVzh2Q2ZqeklMQ3lwdV9ZalhUZUZTcFNjd3pUaG9yODJtNmRHNWhQUlNHRTdRYWRWSkRqcnZJUEFkZXVPT3E0eUtrdHRGWVZ2X2E3QTg4VlVOb1k3NlJWYm9fd1N2ZUx4R21ZamVSa09IV3NDcjRSTGJPTExnbWJCMUZDOUFHcWJ2YlFqQQ?oc=5)
 
 2026-04-18 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMilgJBVV95cUxQNm5NWEtXUUZYVVc0OGhuaXZjV1RKdVdqSXNzdnNaUEFYcXRTVExZWVJvZ2hBY092WEpaQ0xUNkZWX2pqZXBUZU5hQVpoTHFXUENxUUxhNHdDUEM1RGxNNDVLcmNHTENJQmVYMlM3aVMwSXBYUjA4WWtMNTlvRE5ocHVlY21kNHB5Sy1BV1h1Z0lsVzh2Q2ZqeklMQ3lwdV9ZalhUZUZTcFNjd3pUaG9yODJtNmRHNWhQUlNHRTdRYWRWSkRqcnZJUEFkZXVPT3E0eUtrdHRGWVZ2X2E3QTg4VlVOb1k3NlJWYm9fd1N2ZUx4R21ZamVSa09IV3NDcjRSTGJPTExnbWJCMUZDOUFHcWJ2YlFqQQ?oc=5)
+
+---
+
+### [Could Alzheimer’s Begin in the Nerves, Not the Brain? - Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
+
+2026-04-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
 
 ---
 

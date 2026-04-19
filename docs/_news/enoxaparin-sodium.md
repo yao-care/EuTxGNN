@@ -3,7 +3,7 @@ layout: default
 title: "Enoxaparin Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Enoxaparin Sodium 的相關健康新聞報導。原適應症：Inhixa is indicated for adults for:  Prophylaxis o...。預測適應症 10 個。"
+description: "Enoxaparin Sodium 的相關健康新聞報導。原適應症：Inhixa is indicated for adults for:  Prophylaxis o...。預測適應症 20 個。"
 permalink: /news/enoxaparin-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/enoxaparin-sodium/
 ---
 
 <p class="key-answer" data-question="Enoxaparin Sodium 有什麼相關新聞？">
-<strong>Enoxaparin Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Enoxaparin Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/enoxaparin-sodium/
 <ul>
 <li><strong>原適應症</strong>：Inhixa is indicated for adults for:  Prophylaxis of venous thromboembolism, particularly in patients undergoing orthopaedic, general or oncological surgery. Prophylaxis of venous thromboembolism in...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>purpura fulminans（99.8%）</li>
 <li>pulmonary embolism (disease)（99.6%）</li>
 <li>thrombophilia due to protein C deficiency, autosomal recessive（99.6%）</li>
@@ -37,6 +37,16 @@ permalink: /news/enoxaparin-sodium/
 <li>Glanzmann thrombasthenia（98.3%）</li>
 <li>neuropathy, painful（98.3%）</li>
 <li>disseminated intravascular coagulation（97.5%）</li>
+<li>thrombotic thrombocytopenic purpura（96.7%）</li>
+<li>retinal telangiectasia（90.7%）</li>
+<li>arteriosclerotic retinopathy（89.8%）</li>
+<li>retinal microaneurysm（89.8%）</li>
+<li>vertebral artery occlusion（89.4%）</li>
+<li>fetal and neonatal alloimmune thrombocytopenia（87.3%）</li>
+<li>retinal artery occlusion（87.1%）</li>
+<li>Ledderhose disease（87.1%）</li>
+<li>hemorrhagic disorder due to a constitutional thrombocytopenia（86.6%）</li>
+<li>bleeding diathesis due to a collagen receptor defect（86.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/enoxaparin-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>

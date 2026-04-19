@@ -3,7 +3,7 @@ layout: default
 title: "Phenylephrine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Phenylephrine 的相關健康新聞報導。原適應症：Omidria is indicated in adults for maintenance of ...。預測適應症 10 個。"
+description: "Phenylephrine 的相關健康新聞報導。原適應症：Omidria is indicated in adults for maintenance of ...。預測適應症 20 個。"
 permalink: /news/phenylephrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenylephrine/
 ---
 
 <p class="key-answer" data-question="Phenylephrine 有什麼相關新聞？">
-<strong>Phenylephrine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Phenylephrine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/phenylephrine/
 <ul>
 <li><strong>原適應症</strong>：Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement...</li>
 <li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>pharyngitis（100.0%）</li>
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/phenylephrine/
 <li>faucial diphtheria（98.7%）</li>
 <li>cervical disc degenerative disorder（98.6%）</li>
 <li>nasopharyngitis（97.8%）</li>
+<li>tracheal disease（97.7%）</li>
+<li>atopic conjunctivitis（96.0%）</li>
+<li>rosacea conjunctivitis（95.7%）</li>
+<li>allergic urticaria（95.5%）</li>
+<li>rhinitis（95.4%）</li>
+<li>bronchial disease（93.9%）</li>
+<li>endobronchial leiomyoma（93.2%）</li>
+<li>glossodynia（93.0%）</li>
+<li>endobronchial lipoma（92.7%）</li>
+<li>coccygodynia（92.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenylephrine/' | relative_url }}">查看完整藥物報告 →</a></p>

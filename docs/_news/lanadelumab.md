@@ -3,7 +3,7 @@ layout: default
 title: "Lanadelumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lanadelumab 的相關健康新聞報導。原適應症：Takhzyro is indicated for routine prevention of re...。預測適應症 10 個。"
+description: "Lanadelumab 的相關健康新聞報導。原適應症：Takhzyro is indicated for routine prevention of re...。預測適應症 20 個。"
 permalink: /news/lanadelumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lanadelumab/
 ---
 
 <p class="key-answer" data-question="Lanadelumab 有什麼相關新聞？">
-<strong>Lanadelumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lanadelumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lanadelumab/
 <ul>
 <li><strong>原適應症</strong>：Takhzyro is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in patients aged 2 years and older.</li>
 <li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>C1 inhibitor deficiency（100.0%）</li>
 <li>hereditary angioedema with C1Inh deficiency（100.0%）</li>
 <li>serpinopathy with toxic serpin polymerization（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/lanadelumab/
 <li>immune-mediated necrotizing myopathy（99.3%）</li>
 <li>Glanzmann thrombasthenia（99.3%）</li>
 <li>antisynthetase syndrome（99.3%）</li>
+<li>focal myositis（99.3%）</li>
+<li>Scott syndrome（99.1%）</li>
+<li>idiopathic eosinophilic myositis（99.1%）</li>
+<li>inflammatory myopathy with abundant macrophages（99.1%）</li>
+<li>Peyronie disease（99.0%）</li>
+<li>alcoholic cardiomyopathy（98.8%）</li>
+<li>symptomatic form of hemophilia in female carriers（98.7%）</li>
+<li>familial apolipoprotein C-II deficiency（98.6%）</li>
+<li>bleeding diathesis due to a collagen receptor defect（98.3%）</li>
+<li>hemorrhagic disorder due to a constitutional thrombocytopenia（98.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lanadelumab/' | relative_url }}">查看完整藥物報告 →</a></p>

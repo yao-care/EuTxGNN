@@ -3,7 +3,7 @@ layout: default
 title: "Ravulizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ravulizumab 的相關健康新聞報導。原適應症：Paroxysmal nocturnal haemoglobinuria (PNH)Ultomiri...。預測適應症 10 個。"
+description: "Ravulizumab 的相關健康新聞報導。原適應症：Paroxysmal nocturnal haemoglobinuria (PNH)Ultomiri...。預測適應症 20 個。"
 permalink: /news/ravulizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ravulizumab/
 ---
 
 <p class="key-answer" data-question="Ravulizumab 有什麼相關新聞？">
-<strong>Ravulizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ravulizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ravulizumab/
 <ul>
 <li><strong>原適應症</strong>：Paroxysmal nocturnal haemoglobinuria (PNH)Ultomiris is indicated in the treatment of adult and paediatric patients with a body weight of 10 kg or above with PNH:- in patients with haemolysis with...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>autosomal recessive severe congenital neutropenia due to G6PC3 deficiency（100.0%）</li>
 <li>cyclic hematopoiesis（99.9%）</li>
 <li>primary hyperoxaluria（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/ravulizumab/
 <li>X-linked severe congenital neutropenia（99.8%）</li>
 <li>primary release disorder of platelets（99.8%）</li>
 <li>megaloblastic anemia (disease)（99.8%）</li>
+<li>autosomal recessive severe congenital neutropenia due to JAGN1 deficiency（99.8%）</li>
+<li>cold agglutinin disease（99.8%）</li>
+<li>autosomal recessive severe congenital neutropenia due to CSF3R deficiency（99.8%）</li>
+<li>adult idiopathic neutropenia（99.8%）</li>
+<li>congenital neutropenia-myelofibrosis-nephromegaly syndrome（99.8%）</li>
+<li>Barth syndrome（99.8%）</li>
+<li>Glanzmann thrombasthenia（99.7%）</li>
+<li>primary CD59 deficiency（99.7%）</li>
+<li>proteinuria（99.7%）</li>
+<li>paroxysmal nocturnal hemoglobinuria（99.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ravulizumab/' | relative_url }}">查看完整藥物報告 →</a></p>

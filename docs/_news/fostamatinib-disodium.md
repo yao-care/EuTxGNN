@@ -3,7 +3,7 @@ layout: default
 title: "Fostamatinib Disodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fostamatinib Disodium 的相關健康新聞報導。原適應症：Tavlesse is indicated for the treatment of chronic...。預測適應症 10 個。"
+description: "Fostamatinib Disodium 的相關健康新聞報導。原適應症：Tavlesse is indicated for the treatment of chronic...。預測適應症 20 個。"
 permalink: /news/fostamatinib-disodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fostamatinib-disodium/
 ---
 
 <p class="key-answer" data-question="Fostamatinib Disodium 有什麼相關新聞？">
-<strong>Fostamatinib Disodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fostamatinib Disodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/fostamatinib-disodium/
 <ul>
 <li><strong>原適應症</strong>：Tavlesse is indicated for the treatment of chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>thrombocytopenia due to immune destruction（99.8%）</li>
 <li>autosomal thrombocytopenia with normal platelets（99.5%）</li>
 <li>non-syndromic esophageal malformation（99.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/fostamatinib-disodium/
 <li>open-angle glaucoma（98.5%）</li>
 <li>filariasis（98.4%）</li>
 <li>vitamin deficiency disorder（98.2%）</li>
+<li>esophageal disease（97.9%）</li>
+<li>neonatal thrombocytopenia（97.9%）</li>
+<li>tinea nigra（97.8%）</li>
+<li>anogenital human papillomavirus infection（97.6%）</li>
+<li>herpes simplex virus keratitis（97.6%）</li>
+<li>HER2 positive breast carcinoma（97.5%）</li>
+<li>photosensitivity disease（97.5%）</li>
+<li>female breast carcinoma（97.0%）</li>
+<li>esotropia（97.0%）</li>
+<li>progesterone-receptor negative breast cancer（96.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fostamatinib-disodium/' | relative_url }}">查看完整藥物報告 →</a></p>

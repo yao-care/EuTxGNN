@@ -3,7 +3,7 @@ layout: default
 title: "Pantoprazole 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Pantoprazole 的相關健康新聞報導。原適應症：Short-term treatment of reflux symptoms (e.g. hear...。預測適應症 10 個。"
+description: "Pantoprazole 的相關健康新聞報導。原適應症：Short-term treatment of reflux symptoms (e.g. hear...。預測適應症 20 個。"
 permalink: /news/pantoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pantoprazole/
 ---
 
 <p class="key-answer" data-question="Pantoprazole 有什麼相關新聞？">
-<strong>Pantoprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pantoprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/pantoprazole/
 <ul>
 <li><strong>原適應症</strong>：Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>peptic esophagitis（99.9%）</li>
 <li>multiple endocrine neoplasia（99.8%）</li>
 <li>active peptic ulcer disease（99.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/pantoprazole/
 <li>duodenal obstruction（99.2%）</li>
 <li>duodenal ulcer (disease)（99.2%）</li>
 <li>acne (disease)（98.3%）</li>
+<li>gastric ulcer (disease)（98.0%）</li>
+<li>Zollinger-Ellison syndrome（97.9%）</li>
+<li>Smouldering systemic mastocytosis（97.4%）</li>
+<li>gastrin secretion abnormality（96.8%）</li>
+<li>lymphoadenopathic mastocytosis with eosinophilia（96.6%）</li>
+<li>gastroduodenitis（96.5%）</li>
+<li>peptic ulcer disease（93.1%）</li>
+<li>systemic mastocytosis（92.6%）</li>
+<li>abnormality of glucagon secretion（84.8%）</li>
+<li>leather-bottle stomach（84.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pantoprazole/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Tasimelteon 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tasimelteon 的相關健康新聞報導。原適應症：Hetlioz is indicated for the treatment of Non-24-H...。預測適應症 10 個。"
+description: "Tasimelteon 的相關健康新聞報導。原適應症：Hetlioz is indicated for the treatment of Non-24-H...。預測適應症 20 個。"
 permalink: /news/tasimelteon/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/tasimelteon/
 <ul>
 <li><strong>原適應症</strong>：Hetlioz is indicated for the treatment of Non-24-Hour Sleep-Wake Disorder (Non-24) in totally blind adults.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bilateral parasagittal parieto-occipital polymicrogyria（99.5%）</li>
 <li>insomnia (disease)（99.5%）</li>
 <li>amyotrophic lateral sclerosis（99.4%）</li>
@@ -37,12 +37,22 @@ permalink: /news/tasimelteon/
 <li>lower motor neuron syndrome with late-adult onset（99.2%）</li>
 <li>Mills syndrome（99.2%）</li>
 <li>amyotrohpic lateral sclerosis type 22（99.1%）</li>
+<li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome（99.1%）</li>
+<li>autosomal dominant mitochondrial myopathy with exercise intolerance（99.1%）</li>
+<li>lethal arthrogryposis-anterior horn cell disease syndrome（99.0%）</li>
+<li>anxiety disorder（98.7%）</li>
+<li>sleep disorder, initiating and maintaining sleep（98.6%）</li>
+<li>benign paroxysmal torticollis of infancy（98.6%）</li>
+<li>childhood apraxia of speech（98.5%）</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（98.4%）</li>
+<li>rhabdoid tumor（98.4%）</li>
+<li>familial generalized lentiginosis（98.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Misophonia Has Genetic Links to Anxiety And Depression, Study Says](https://news.google.com/rss/articles/CBMimgFBVV95cUxOai0xZEVpNU9oRjUyaVRTejlLYldyVWcxaWdlZHJBYmpXNzNFanByM2tfcFdZcjV4Rm96U1I2S25mVGhsQy1LUW5lSEJPdkJBUlBfeEMxMWU0amRLN1BmWmo3MjFVaDJXTF9RZThmeUFRaFlzSkN4dzI2ckJrem8zNjZOT2RWbzlkUWRub2NlZHFud192QUtCbW9B?oc=5)
 
@@ -57,14 +67,6 @@ permalink: /news/tasimelteon/
 2026-04-17 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUV1LWlnLU5OYjFfdHJJQ2NRdEdhRjY2anJudnV3Q2VYd0o1ZE9xaVZZQ3Vyd3lFLVNCYTJwMV9iaXE1bE1qNGQ0VVhwN3VubnFCRGhnZjQtam1tUjBmZ2cyYUNBRVQ4c2RWTG9CMFB3RmFObjlCNmN1UVdzam5XRjBDNzBBRzk4X1owcHVVcE50SW15clpVVnRKbXp2bEMyOFVZZFVFelJSS2ZUd2EtWG11WEU3ODV6Q2F6S1JYQkI4VGNKUmVseTN2YWp4dmlMOGQtSmMzSDgwRHh1ZjAtY1RhN0pkODgwcjhCNQ?oc=5)
-
----
-
-### [Las diferencias de expresión genética en el cerebro según el sexo influyen en el riesgo de sufrir trastornos psiquiátricos](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMkk1d1poZGNxSjFkWkdTM2I5dVJqVmhnSEI3V1JzelVBLUVvMmx6OUZ2ZllpTXJWWkpSOVNESE5HUTFSdTREQXlPSXgzS3FzYWFDM3BWOTI5aVlIUHdxVGItM1hZdS1idDF5aFJEbU9SM3BhWmE0ZnZZbTk0TEhpVUxKbU1lcFcxaXpZY3p0OXR1OU5kQTFENGRKeFdCRVRqTHdSSW50TlVGNjF4SmtoY2pnVnVEdE5vWEx3dVlhbHlXbk0zREo5dlNldXNCeVg2UURkNWdIbjM2eFNVZnVPQ29LS0hqaURkOVBQMlNvaw?oc=5)
-
-2026-04-16 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span>
-
-來源：[Sinc](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMkk1d1poZGNxSjFkWkdTM2I5dVJqVmhnSEI3V1JzelVBLUVvMmx6OUZ2ZllpTXJWWkpSOVNESE5HUTFSdTREQXlPSXgzS3FzYWFDM3BWOTI5aVlIUHdxVGItM1hZdS1idDF5aFJEbU9SM3BhWmE0ZnZZbTk0TEhpVUxKbU1lcFcxaXpZY3p0OXR1OU5kQTFENGRKeFdCRVRqTHdSSW50TlVGNjF4SmtoY2pnVnVEdE5vWEx3dVlhbHlXbk0zREo5dlNldXNCeVg2UURkNWdIbjM2eFNVZnVPQ29LS0hqaURkOVBQMlNvaw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Hydrocortisone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Hydrocortisone 的相關健康新聞報導。原適應症：Treatment of adrenal insufficiency in adults.。預測適應症 10 個。"
+description: "Hydrocortisone 的相關健康新聞報導。原適應症：Treatment of adrenal insufficiency in adults.。預測適應症 20 個。"
 permalink: /news/hydrocortisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrocortisone/
 ---
 
 <p class="key-answer" data-question="Hydrocortisone 有什麼相關新聞？">
-<strong>Hydrocortisone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydrocortisone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/hydrocortisone/
 <ul>
 <li><strong>原適應症</strong>：Treatment of adrenal insufficiency in adults.</li>
 <li><strong>證據等級</strong>：L2</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>alopecia areata（100.0%）</li>
 <li>alopecia mucinosa（100.0%）</li>
 <li>telogen effluvium（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/hydrocortisone/
 <li>atrichia with papular lesions（99.9%）</li>
 <li>acquired thrombocytopenia（99.7%）</li>
 <li>alopecia universalis onychodystrophy vitiligo（99.6%）</li>
+<li>nephrotic syndrome（99.6%）</li>
+<li>tenosynovitis（99.5%）</li>
+<li>idiopathic steroid-sensitive nephrotic syndrome（99.5%）</li>
+<li>sporadic idiopathic steroid-resistant nephrotic syndrome（99.4%）</li>
+<li>fetal erythroblastosis（99.4%）</li>
+<li>miliary tuberculosis（99.4%）</li>
+<li>Trichinellosis（99.3%）</li>
+<li>granulomatous slack skin disease（99.2%）</li>
+<li>autoimmune hemolytic anemia（99.0%）</li>
+<li>rheumatic heart disease（99.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">查看完整藥物報告 →</a></p>

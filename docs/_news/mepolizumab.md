@@ -3,7 +3,7 @@ layout: default
 title: "Mepolizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Mepolizumab 的相關健康新聞報導。原適應症：Severe eosinophilic asthmaNucala is indicated as a...。預測適應症 10 個。"
+description: "Mepolizumab 的相關健康新聞報導。原適應症：Severe eosinophilic asthmaNucala is indicated as a...。預測適應症 20 個。"
 permalink: /news/mepolizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mepolizumab/
 ---
 
 <p class="key-answer" data-question="Mepolizumab 有什麼相關新聞？">
-<strong>Mepolizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mepolizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/mepolizumab/
 <ul>
 <li><strong>原適應症</strong>：Severe eosinophilic asthmaNucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older . Chronic rhinosinusitis with...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>thrombocytopenia due to immune destruction（99.7%）</li>
 <li>primary release disorder of platelets（99.6%）</li>
 <li>pseudo-von Willebrand disease（99.4%）</li>
@@ -37,6 +37,16 @@ permalink: /news/mepolizumab/
 <li>autosomal thrombocytopenia with normal platelets（98.4%）</li>
 <li>filariasis（97.7%）</li>
 <li>mixed-type autoimmune hemolytic anemia（96.6%）</li>
+<li>drug-induced autoimmune hemolytic anemia（96.4%）</li>
+<li>cyclic hematopoiesis（96.3%）</li>
+<li>proteinuria（95.9%）</li>
+<li>syndromic constitutional thrombocytopenia（95.9%）</li>
+<li>neonatal autoimmune hemolytic anemia（95.8%）</li>
+<li>paroxysmal nocturnal hemoglobinuria（95.5%）</li>
+<li>fetal and neonatal alloimmune thrombocytopenia（95.3%）</li>
+<li>hemorrhagic disorder due to a constitutional thrombocytopenia（94.6%）</li>
+<li>bleeding diathesis due to a collagen receptor defect（94.4%）</li>
+<li>Scott syndrome（94.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mepolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>

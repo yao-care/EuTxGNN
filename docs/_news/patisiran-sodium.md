@@ -3,7 +3,7 @@ layout: default
 title: "Patisiran Sodium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Patisiran Sodium 的相關健康新聞報導。原適應症：Onpattro is indicated for the treatment of heredit...。預測適應症 10 個。"
+description: "Patisiran Sodium 的相關健康新聞報導。原適應症：Onpattro is indicated for the treatment of heredit...。預測適應症 20 個。"
 permalink: /news/patisiran-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/patisiran-sodium/
 ---
 
 <p class="key-answer" data-question="Patisiran Sodium 有什麼相關新聞？">
-<strong>Patisiran Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Patisiran Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/patisiran-sodium/
 <ul>
 <li><strong>原適應症</strong>：Onpattro is indicated for the treatment of hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) in adult patients with stage 1 or stage 2 polyneuropathy.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>dermatitis（90.7%）</li>
 <li>hydroa vacciniforme, familial（90.1%）</li>
 <li>amyopathic dermatomyositis（90.1%）</li>
@@ -37,6 +37,16 @@ permalink: /news/patisiran-sodium/
 <li>Smouldering systemic mastocytosis（85.1%）</li>
 <li>overactive bladder (disease)（84.9%）</li>
 <li>lymphoadenopathic mastocytosis with eosinophilia（84.6%）</li>
+<li>systemic mastocytosis（84.6%）</li>
+<li>angioedema（84.0%）</li>
+<li>gastrin secretion abnormality（83.0%）</li>
+<li>low compliance bladder（81.1%）</li>
+<li>hepatic infarction（79.6%）</li>
+<li>HER2 positive breast carcinoma（79.2%）</li>
+<li>peliosis hepatis（79.2%）</li>
+<li>hepatic veno-occlusive disease（79.0%）</li>
+<li>bladder neck obstruction（78.5%）</li>
+<li>mixed-type autoimmune hemolytic anemia（78.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/patisiran-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>

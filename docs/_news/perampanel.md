@@ -3,7 +3,7 @@ layout: default
 title: "Perampanel 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Perampanel 的相關健康新聞報導。原適應症：Fycompa is indicated for the adjunctive treatment ...。預測適應症 10 個。"
+description: "Perampanel 的相關健康新聞報導。原適應症：Fycompa is indicated for the adjunctive treatment ...。預測適應症 20 個。"
 permalink: /news/perampanel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/perampanel/
 <ul>
 <li><strong>原適應症</strong>：Fycompa is indicated for the adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in adult and adolescent patients from 12 years of age with epilepsy....</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>visual epilepsy（99.9%）</li>
 <li>orgasm-induced seizures（99.9%）</li>
 <li>eating seizures（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/perampanel/
 <li>reading seizures（99.8%）</li>
 <li>partial epilepsy（99.8%）</li>
 <li>beta-ketothiolase deficiency（99.8%）</li>
+<li>status epilepticus（99.8%）</li>
+<li>Rett syndrome, congenital variant（99.7%）</li>
+<li>14q12 microdeletion syndrome（99.7%）</li>
+<li>guanidinoacetate methyltransferase deficiency（99.6%）</li>
+<li>partial motor epilepsy（99.4%）</li>
+<li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
+<li>epilepsy（99.0%）</li>
+<li>epilepsy with generalized tonic-clonic seizures（99.0%）</li>
+<li>trigeminal nerve neoplasm（98.7%）</li>
+<li>trigeminal neuralgia（97.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>

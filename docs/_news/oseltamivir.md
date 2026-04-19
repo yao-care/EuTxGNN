@@ -3,7 +3,7 @@ layout: default
 title: "Oseltamivir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Oseltamivir 的相關健康新聞報導。原適應症：Treatment of influenza Tamiflu is indicated in adu...。預測適應症 10 個。"
+description: "Oseltamivir 的相關健康新聞報導。原適應症：Treatment of influenza Tamiflu is indicated in adu...。預測適應症 20 個。"
 permalink: /news/oseltamivir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="Oseltamivir 有什麼相關新聞？">
-<strong>Oseltamivir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oseltamivir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/oseltamivir/
 <ul>
 <li><strong>原適應症</strong>：Treatment of influenza Tamiflu is indicated in adults and children including full term neonates who present with symptoms typical of influenza, when influenza virus is circulating in the community....</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>influenza, severe, susceptibility to（98.7%）</li>
 <li>pyelonephritis（97.8%）</li>
 <li>disorder of tyrosine metabolism（96.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/oseltamivir/
 <li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency（93.9%）</li>
 <li>pneumonia（92.1%）</li>
 <li>influenza（90.7%）</li>
+<li>streptococcal pneumonia（90.5%）</li>
+<li>aspergillosis, susceptibility to（89.8%）</li>
+<li>dengue virus, susceptibility to（89.8%）</li>
+<li>susceptibility to HIV infection（89.8%）</li>
+<li>legionnaire disease, susceptibility to（89.8%）</li>
+<li>Schistosoma mansoni infection, susceptibility（89.5%）</li>
+<li>primitive portal vein thrombosis（88.9%）</li>
+<li>early-onset familial noncirrhotic portal hypertension（88.9%）</li>
+<li>hepatopulmonary syndrome（88.9%）</li>
+<li>idiopathic copper-associated cirrhosis（88.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">查看完整藥物報告 →</a></p>

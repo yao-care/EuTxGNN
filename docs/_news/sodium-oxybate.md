@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Oxybate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Sodium Oxybate 的相關健康新聞報導。原適應症：Treatment of narcolepsy with cataplexy in adult pa...。預測適應症 10 個。"
+description: "Sodium Oxybate 的相關健康新聞報導。原適應症：Treatment of narcolepsy with cataplexy in adult pa...。預測適應症 20 個。"
 permalink: /news/sodium-oxybate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sodium-oxybate/
 ---
 
 <p class="key-answer" data-question="Sodium Oxybate 有什麼相關新聞？">
-<strong>Sodium Oxybate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Sodium Oxybate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/sodium-oxybate/
 <ul>
 <li><strong>原適應症</strong>：Treatment of narcolepsy with cataplexy in adult patients.</li>
 <li><strong>證據等級</strong>：L2</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>insomnia (disease)（100.0%）</li>
 <li>obsolete neurogenic bladder (disease)（99.8%）</li>
 <li>sleep disorder, initiating and maintaining sleep（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/sodium-oxybate/
 <li>acute encephalopathy with biphasic seizures and late reduced diffusion（98.7%）</li>
 <li>faciodigitogenital syndrome（98.6%）</li>
 <li>Balo concentric sclerosis（98.5%）</li>
+<li>attention deficit hyperactivity disorder, inattentive type（98.5%）</li>
+<li>narcolepsy without cataplexy（98.3%）</li>
+<li>Creutzfeldt-Jakob disease（98.2%）</li>
+<li>specific developmental disorder（98.0%）</li>
+<li>narcolepsy-cataplexy syndrome（97.8%）</li>
+<li>chondromyxoid fibroma（97.7%）</li>
+<li>narcolepsy（97.3%）</li>
+<li>central nervous system disease（96.6%）</li>
+<li>X-linked adrenoleukodystrophy（96.6%）</li>
+<li>alcohol withdrawal（96.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sodium-oxybate/' | relative_url }}">查看完整藥物報告 →</a></p>

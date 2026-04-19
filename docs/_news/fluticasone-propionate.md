@@ -3,7 +3,7 @@ layout: default
 title: "Fluticasone Propionate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fluticasone Propionate 的相關健康新聞報導。原適應症：Seffalair Spiromax is indicated in the regular tre...。預測適應症 10 個。"
+description: "Fluticasone Propionate 的相關健康新聞報導。原適應症：Seffalair Spiromax is indicated in the regular tre...。預測適應症 20 個。"
 permalink: /news/fluticasone-propionate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluticasone-propionate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Propionate 有什麼相關新聞？">
-<strong>Fluticasone Propionate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fluticasone Propionate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/fluticasone-propionate/
 <ul>
 <li><strong>原適應症</strong>：Seffalair Spiromax is indicated in the regular treatment of asthma in adults and adolescents aged 12 years and older not adequately controlled with inhaled corticosteroids and ‘as needed’ inhaled...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>atopic eczema（99.7%）</li>
 <li>dermatitis, atopic（99.3%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（98.6%）</li>
@@ -37,6 +37,16 @@ permalink: /news/fluticasone-propionate/
 <li>contact dermatitis（96.7%）</li>
 <li>vulvar inverted follicular keratosis（96.4%）</li>
 <li>seborrheic keratosis（96.3%）</li>
+<li>alopecia mucinosa（96.1%）</li>
+<li>telogen effluvium（96.0%）</li>
+<li>lichen disease（96.0%）</li>
+<li>alopecia areata（95.9%）</li>
+<li>Quinquaud's folliculitis decalvans（95.4%）</li>
+<li>atopic dermatitis（95.3%）</li>
+<li>polyp of vocal cord（95.0%）</li>
+<li>hereditary hypotrichosis with recurrent skin vesicles（95.0%）</li>
+<li>polyp of middle ear（94.9%）</li>
+<li>epulis（94.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluticasone-propionate/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/fluticasone-propionate/
 
 ## 相關新聞（1 則）
 
-### [Zwei Biomarker werden bei Asthma zum Standard](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 

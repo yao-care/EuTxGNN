@@ -3,7 +3,7 @@ layout: default
 title: "Burosumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Burosumab 的相關健康新聞報導。原適應症：Crysvita is indicated for the treatment of X-linke...。預測適應症 10 個。"
+description: "Burosumab 的相關健康新聞報導。原適應症：Crysvita is indicated for the treatment of X-linke...。預測適應症 20 個。"
 permalink: /news/burosumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/burosumab/
 ---
 
 <p class="key-answer" data-question="Burosumab 有什麼相關新聞？">
-<strong>Burosumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Burosumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/burosumab/
 <ul>
 <li><strong>原適應症</strong>：Crysvita is indicated for the treatment of X-linked hypophosphataemia, in children and adolescents aged 1 to 17 years with radiographic evidence of bone disease, and in adults. Crysvita is indicated...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>renal osteodystrophy（96.9%）</li>
 <li>impaired renal function disease（95.9%）</li>
 <li>non-renal secondary hyperparathyroidism（95.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/burosumab/
 <li>diabetic cataract（90.6%）</li>
 <li>hypocalcemic rickets（89.7%）</li>
 <li>cortical cataract（87.7%）</li>
+<li>nuclear senile cataract（87.7%）</li>
+<li>immature cataract（87.5%）</li>
+<li>craniostenosis cataract（87.5%）</li>
+<li>diabetes mellitus type 2 associated cataract（87.5%）</li>
+<li>mature cataract（87.5%）</li>
+<li>tetanic cataract（87.5%）</li>
+<li>senile cataract（87.5%）</li>
+<li>familial primary hyperparathyroidism（87.3%）</li>
+<li>epiglottitis（86.3%）</li>
+<li>gastric linitis plastica（85.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/burosumab/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -60,6 +70,14 @@ permalink: /news/burosumab/
 
 ---
 
+### [Las grasas monoinsaturadas se asocian con un menor riesgo de diabetes tipo 2 - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
+
+2026-04-17 <span class="news-indication-tag">diabetes mellitus</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
+
+---
+
 ### [Experto indica que escalas poblacionales clásicas de predicción de riesgo cardiovascular en diabetes tienen limitaciones](https://news.google.com/rss/articles/CBMijgJBVV95cUxNS2VSeUpNUGZyR2hFZndYM1llbFFuWUlPREVDSVIzMnMxSlhFRE9IVWNvdUdQdFVnSU9kSGlCVFl2WWRLeFZFcHU3RUNGQTd3ZHlQQVV5bTFaVlJuWndRZUhhaWx5WUI2NF9qemVMQU5DQUM0TGpNeV80ZnBZN3lkT1R6RmdmeDZFdTJiUlFYU2VFcW1udk9MbURTTXhFaW8wOXFpWVFUajI3bGJnQlJjQkZIYVBNWUlCak9PQU9iT3VWVHNKQkV6STJkR1pMTkRzQnVyYnVKYU9zeEhVVUhxenBhQ2FrV0lEVVdodnJ3QTNMWlRMb3pHckRDQ1dGbzNZbjk0bDlPVVBQT0xHZlE?oc=5)
 
 2026-04-17 <span class="news-indication-tag">diabetes</span>
@@ -73,14 +91,6 @@ permalink: /news/burosumab/
 2026-04-17 <span class="news-indication-tag">diabete</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE43ZGRRbVdlNGNHYWdDMDRybE5jSG9LbzdzaXQzWWMxYXRwb2F4a2tZeFlQZVNEOUgwVUhieWFRNjAzR1k0cVNfTU1BaXlRSVV6bEF0bVRoNFFMSlkzMG1JWTJ0Z1pkMGJfaUdEWlloM3ZkVHNmSUtSd3NLQ2Z0VWNLMkFHcjNKc1FNV2ZuamhPODRoTWl3bEJTcy12S05IOFpB0gGQAUFVX3lxTFA0bmJUdXVkQTQyRXlJeHhfT3RJVmdQVENqdkNQM3NMLUYzTWhFQlg3WGRObzhPcFN4Q1JzMVhKLUFMdkJJNThUNnM3R21ZbXZwMXFuMFQyQWhXV3dDYVI5RWJ2akN5aGRIdWVGWVN0Z0VET3l2SHdIYVhUSFZlNnJGWGFKVmVjNkdra2NoZmNOSg?oc=5)
-
----
-
-### [El Hospital público Puerta de Hierro, primero de España en implementar un cribado basado en pruebas de laboratorio que detecta enfermedades hepáticas en pacientes con diabetes - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Ketoconazole 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ketoconazole 的相關健康新聞報導。原適應症：Ketoconazole Esteve is indicated for the treatment...。預測適應症 10 個。"
+description: "Ketoconazole 的相關健康新聞報導。原適應症：Ketoconazole Esteve is indicated for the treatment...。預測適應症 20 個。"
 permalink: /news/ketoconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ketoconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ketoconazole/
 <ul>
 <li><strong>原適應症</strong>：Ketoconazole Esteve is indicated for the treatment of endogenous Cushing’s syndrome in adults and adolescents above the age of 12 years.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>cutaneous candidiasis（99.8%）</li>
 <li>acne (disease)（99.8%）</li>
 <li>candidiasis（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/ketoconazole/
 <li>leprosy（93.1%）</li>
 <li>vulvovaginal candidiasis（93.0%）</li>
 <li>urticaria, aquagenic（92.7%）</li>
+<li>punctate epithelial keratoconjunctivitis（91.4%）</li>
+<li>tinea corporis（91.0%）</li>
+<li>tinea profunda（90.8%）</li>
+<li>nail infection（90.7%）</li>
+<li>neonatal candidiasis（90.4%）</li>
+<li>candida glabrata（90.4%）</li>
+<li>congenital candidiasis（90.4%）</li>
+<li>demodicidosis of sebaceous gland（90.1%）</li>
+<li>candidiasis, invasive（89.1%）</li>
+<li>ectothrix infectious disease（87.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/ketoconazole/
 
 ## 相關新聞（1 則）
 
-### [Zwei Biomarker werden bei Asthma zum Standard](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+### [Zwei Biomarker werden bei Asthma zum Standard - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 2026-04-17 <span class="news-indication-tag">asthma</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkhWb1ptaFZlUTl5M3NDSU9kUnMtN2l4WVpJd0Y0U3pBbnNTUDR4SFRoSFlPRFJTekdSUENDU0xvMnhvRVV0cDhUeXNhVEdYbXVHWVNvSDB2QW10d05vSWVqSnZ4SWRtZzhTTGlSclZnUVJDWkVnVGgyNmNHRUNCdUI4MWRocTZKUDdwYjhlZEFTTWVlYVpLQ1VR?oc=5)
 
 ---
 

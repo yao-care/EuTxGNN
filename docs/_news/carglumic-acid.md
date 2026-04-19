@@ -3,7 +3,7 @@ layout: default
 title: "Carglumic Acid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Carglumic Acid 的相關健康新聞報導。原適應症：Ucedane is indicated in treatment of:  hyperammona...。預測適應症 10 個。"
+description: "Carglumic Acid 的相關健康新聞報導。原適應症：Ucedane is indicated in treatment of:  hyperammona...。預測適應症 20 個。"
 permalink: /news/carglumic-acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carglumic-acid/
 ---
 
 <p class="key-answer" data-question="Carglumic Acid 有什麼相關新聞？">
-<strong>Carglumic Acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carglumic Acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/carglumic-acid/
 <ul>
 <li><strong>原適應症</strong>：Ucedane is indicated in treatment of:  hyperammonaemia due to N-acetylglutamate synthase primary deficiency; Hyperammonaemia due to isovaleric acidaemia; Hyperammonaemia due to methymalonic...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>cystic teratoma（86.6%）</li>
 <li>spinal cord dermoid cyst（86.5%）</li>
 <li>disease of orbital part of eye adnexa（86.3%）</li>
@@ -37,6 +37,16 @@ permalink: /news/carglumic-acid/
 <li>primary hereditary glaucoma（83.2%）</li>
 <li>chronic relapsing inflammatory optic neuropathy（83.2%）</li>
 <li>isolated optic neuritis（83.2%）</li>
+<li>recurrent idiopathic neuroretinitis（83.2%）</li>
+<li>optic perineuritis（83.2%）</li>
+<li>conjunctival degeneration（83.2%）</li>
+<li>vitreous detachment（83.1%）</li>
+<li>total internal ophthalmoplegia（83.1%）</li>
+<li>cycloplegia（83.1%）</li>
+<li>accommodative spasm（83.1%）</li>
+<li>luxation of globe（83.1%）</li>
+<li>microcornea-corectopia-macular hypoplasia syndrome（83.0%）</li>
+<li>blepharophimosis-radioulnar synostosis syndrome（83.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carglumic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>

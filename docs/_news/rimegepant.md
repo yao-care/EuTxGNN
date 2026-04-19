@@ -3,7 +3,7 @@ layout: default
 title: "Rimegepant 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Rimegepant 的相關健康新聞報導。原適應症：Vydura is indicated for the  Acute treatment of mi...。預測適應症 10 個。"
+description: "Rimegepant 的相關健康新聞報導。原適應症：Vydura is indicated for the  Acute treatment of mi...。預測適應症 20 個。"
 permalink: /news/rimegepant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rimegepant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/rimegepant/
 <ul>
 <li><strong>原適應症</strong>：Vydura is indicated for the  Acute treatment of migraine with or without aura in adults; Preventative treatment of episodic migraine in adults who have at least 4 migraine attacks per month.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>migraine disorder（100.0%）</li>
 <li>migraine with brainstem aura（99.9%）</li>
 <li>migraine with or without aura, susceptibility to（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/rimegepant/
 <li>factor 5 excess with spontaneous thrombosis（99.6%）</li>
 <li>thrombophilia（99.0%）</li>
 <li>Prinzmetal angina（98.8%）</li>
+<li>sciatic neuropathy（97.3%）</li>
+<li>homozygous familial hypercholesterolemia（96.7%）</li>
+<li>obsolete susceptibility to ischemic stroke（96.1%）</li>
+<li>stroke disorder（95.6%）</li>
+<li>ABri amyloidosis（94.8%）</li>
+<li>amenorrhea (disease)（93.8%）</li>
+<li>hypoalphalipoproteinemia（93.1%）</li>
+<li>sagittal sinus thrombosis（92.9%）</li>
+<li>lesion of sciatic nerve（91.6%）</li>
+<li>brain stem infarction（89.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>

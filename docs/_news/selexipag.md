@@ -3,7 +3,7 @@ layout: default
 title: "Selexipag 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Selexipag 的相關健康新聞報導。原適應症：Uptravi is indicated for the long-term treatment o...。預測適應症 10 個。"
+description: "Selexipag 的相關健康新聞報導。原適應症：Uptravi is indicated for the long-term treatment o...。預測適應症 20 個。"
 permalink: /news/selexipag/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="Selexipag 有什麼相關新聞？">
-<strong>Selexipag</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Selexipag</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/selexipag/
 <ul>
 <li><strong>原適應症</strong>：Uptravi is indicated for the long-term treatment of pulmonary arterial hypertension (PAH) in adult patients with WHO functional class (FC) II–III, either as combination therapy in patients...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>pulmonary arterial hypertension associated with congenital heart disease（98.0%）</li>
 <li>pulmonary arteriovenous malformation (disease)（98.0%）</li>
 <li>pulmonary arterial hypertension associated with connective tissue disease（97.8%）</li>
@@ -37,20 +37,24 @@ permalink: /news/selexipag/
 <li>hypotrichosis simplex of the scalp（97.1%）</li>
 <li>congenital hypotrichosis milia（96.3%）</li>
 <li>diffuse alopecia areata（96.0%）</li>
+<li>malformation syndrome with odontal and/or periodontal component（93.8%）</li>
+<li>syndrome with a Dandy-Walker malformation as major feature（93.3%）</li>
+<li>isolated genetic hair shaft abnormality（93.2%）</li>
+<li>bilateral parasagittal parieto-occipital polymicrogyria（93.2%）</li>
+<li>telangiectasia, hereditary hemorrhagic,（93.0%）</li>
+<li>Ambras type hypertrichosis universalis congenita（93.0%）</li>
+<li>axial spondylometaphyseal dysplasia（92.8%）</li>
+<li>aleukemic mast cell leukemia（92.7%）</li>
+<li>hypertrichosis (disease)（92.4%）</li>
+<li>dermatofibrosarcoma protuberans（92.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

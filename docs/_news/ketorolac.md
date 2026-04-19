@@ -3,7 +3,7 @@ layout: default
 title: "Ketorolac 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ketorolac 的相關健康新聞報導。原適應症：Omidria is indicated in adults for maintenance of ...。預測適應症 10 個。"
+description: "Ketorolac 的相關健康新聞報導。原適應症：Omidria is indicated in adults for maintenance of ...。預測適應症 20 個。"
 permalink: /news/ketorolac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ketorolac/
 ---
 
 <p class="key-answer" data-question="Ketorolac 有什麼相關新聞？">
-<strong>Ketorolac</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ketorolac</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/ketorolac/
 <ul>
 <li><strong>原適應症</strong>：Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>papillary conjunctivitis（99.9%）</li>
 <li>headache disorder（99.4%）</li>
 <li>atopic conjunctivitis（99.4%）</li>
@@ -37,6 +37,16 @@ permalink: /news/ketorolac/
 <li>cap polyposis（97.9%）</li>
 <li>cutaneous photosensitivity-lethal colitis syndrome（97.8%）</li>
 <li>undetermined colitis（97.7%）</li>
+<li>allergic urticaria（97.1%）</li>
+<li>viral conjunctivitis（96.1%）</li>
+<li>vernal conjunctivitis（95.9%）</li>
+<li>frozen shoulder（95.9%）</li>
+<li>systemic inflammatory disease associated with an acquired peripheral neuropathy（95.3%）</li>
+<li>fasciitis (disease)（95.3%）</li>
+<li>glossodynia（95.1%）</li>
+<li>osteoarthritis susceptibility（95.1%）</li>
+<li>coccygodynia（95.0%）</li>
+<li>punctate epithelial keratoconjunctivitis（94.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ketorolac/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Emtricitabine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Emtricitabine 的相關健康新聞報導。原適應症：Treatment of adults and adolescents (aged 12 years...。預測適應症 10 個。"
+description: "Emtricitabine 的相關健康新聞報導。原適應症：Treatment of adults and adolescents (aged 12 years...。預測適應症 20 個。"
 permalink: /news/emtricitabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="Emtricitabine 有什麼相關新聞？">
-<strong>Emtricitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Emtricitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/emtricitabine/
 <ul>
 <li><strong>原適應症</strong>：Treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus 1 (HIV 1) without known mutations associated with resistance...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>HIV infectious disease（100.0%）</li>
 <li>simian immunodeficiency virus infection（99.9%）</li>
 <li>feline acquired immunodeficiency syndrome（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/emtricitabine/
 <li>congenital human immunodeficiency virus（93.5%）</li>
 <li>chronic hepatitis C virus infection（85.9%）</li>
 <li>fibroma of prostate（81.4%）</li>
+<li>Brenner tumor（80.5%）</li>
+<li>benign reproductive system neoplasm（80.2%）</li>
+<li>benign prostate phyllodes tumor（78.5%）</li>
+<li>homozygous familial hypercholesterolemia（76.7%）</li>
+<li>hepatitis B virus infection（76.5%）</li>
+<li>breast fibrocystic disease（75.5%）</li>
+<li>male reproductive organ cancer（75.0%）</li>
+<li>apocrine adenosis of breast（74.2%）</li>
+<li>blunt duct adenosis of breast（74.2%）</li>
+<li>hypercholesterolemia, autosomal dominant（71.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">查看完整藥物報告 →</a></p>

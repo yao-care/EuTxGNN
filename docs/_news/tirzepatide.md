@@ -3,7 +3,7 @@ layout: default
 title: "Tirzepatide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Tirzepatide 的相關健康新聞報導。原適應症：Type 2 diabetes mellitus Mounjaro is indicated for...。預測適應症 10 個。"
+description: "Tirzepatide 的相關健康新聞報導。原適應症：Type 2 diabetes mellitus Mounjaro is indicated for...。預測適應症 20 個。"
 permalink: /news/tirzepatide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tirzepatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/tirzepatide/
 <ul>
 <li><strong>原適應症</strong>：Type 2 diabetes mellitus Mounjaro is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise  as monotherapy when metformin is...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>gout（96.8%）</li>
 <li>osteoarthritis（95.9%）</li>
 <li>pseudoachondroplasia（94.8%）</li>
@@ -37,18 +37,36 @@ permalink: /news/tirzepatide/
 <li>brachyolmia（93.1%）</li>
 <li>brachyolmia-amelogenesis imperfecta syndrome（92.9%）</li>
 <li>myosclerosis（92.8%）</li>
+<li>idiopathic granulomatous myositis（92.0%）</li>
+<li>myositis fibrosa（92.0%）</li>
+<li>headache disorder（91.7%）</li>
+<li>Prinzmetal angina（91.7%）</li>
+<li>tendinitis（91.6%）</li>
+<li>arthropathy（91.6%）</li>
+<li>trigeminal autonomic cephalalgia（91.1%）</li>
+<li>female breast carcinoma（91.0%）</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（91.0%）</li>
+<li>brachydactyly-syndactyly syndrome（90.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
+
+---
+
+### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
 
 ---
 
@@ -60,19 +78,19 @@ permalink: /news/tirzepatide/
 
 ---
 
+### [Popular weight loss medications linked to hidden side effects, study finds - Ground News](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR21QeTMtWi1NSFVQc09NNDNFOFlYWWx0VC11NTdRSEtpM2g3eEVsVmtwQzBYVm1Va2l0T09VUl85cmlvYXZSV1JtOWNvNm0wbzdlZHVSeHdydE5xcHUtaU5XYS1NRVBJQnRRUHp6NGRRNkRzZjA4VVhBd0pNRFpWdUkwX2poTzBNa2x4S19qN3hLVVhLZ2NtNHVENkYxVF80bkRaRVVnQk43UXJJ?oc=5)
+
+2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[Ground News](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR21QeTMtWi1NSFVQc09NNDNFOFlYWWx0VC11NTdRSEtpM2g3eEVsVmtwQzBYVm1Va2l0T09VUl85cmlvYXZSV1JtOWNvNm0wbzdlZHVSeHdydE5xcHUtaU5XYS1NRVBJQnRRUHp6NGRRNkRzZjA4VVhBd0pNRFpWdUkwX2poTzBNa2x4S19qN3hLVVhLZ2NtNHVENkYxVF80bkRaRVVnQk43UXJJ?oc=5)
+
+---
+
 ### [Why diet is as important as exercise for osteoarthritis, according to a rheumatologist - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ05vRlcwRHlSWDNLTEh6VlYtSURsWWNvSWl2aHpvaVJIUDlCWXM3bUxoNWVDOVQtWDV5UThxWGNqMmRoeUtwZWFoaGt5VVJlWDdEeXBKWXFQTlFzZTVqZVpnLU1MemNERmJYOGhTWUw4c2tZVkw4NlVaRjJvaWxfdGRzWjNidUptOHVkVy10RTU3VnRYR29R?oc=5)
 
 2026-04-17 <span class="news-indication-tag">arthritis</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ05vRlcwRHlSWDNLTEh6VlYtSURsWWNvSWl2aHpvaVJIUDlCWXM3bUxoNWVDOVQtWDV5UThxWGNqMmRoeUtwZWFoaGt5VVJlWDdEeXBKWXFQTlFzZTVqZVpnLU1MemNERmJYOGhTWUw4c2tZVkw4NlVaRjJvaWxfdGRzWjNidUptOHVkVy10RTU3VnRYR29R?oc=5)
-
----
-
-### [Ozempic, Wegovy, Mounjaro : la révolution des médicaments anti-obésité - Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
-
-2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
 
 ---
 

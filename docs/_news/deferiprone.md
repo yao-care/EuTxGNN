@@ -3,7 +3,7 @@ layout: default
 title: "Deferiprone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Deferiprone 的相關健康新聞報導。原適應症：Deferiprone Lipomed monotherapy is indicated for t...。預測適應症 10 個。"
+description: "Deferiprone 的相關健康新聞報導。原適應症：Deferiprone Lipomed monotherapy is indicated for t...。預測適應症 20 個。"
 permalink: /news/deferiprone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/deferiprone/
 ---
 
 <p class="key-answer" data-question="Deferiprone 有什麼相關新聞？">
-<strong>Deferiprone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Deferiprone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/deferiprone/
 <ul>
 <li><strong>原適應症</strong>：Deferiprone Lipomed monotherapy is indicated for the treatment of iron overload in patients with thalassaemia major when current chelation therapy is contraindicated or inadequate. Deferiprone...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>hepatic porphyria（99.2%）</li>
 <li>hepatopulmonary syndrome（99.2%）</li>
 <li>primitive portal vein thrombosis（99.2%）</li>
@@ -37,20 +37,24 @@ permalink: /news/deferiprone/
 <li>pyruvate kinase deficiency of red cells（99.2%）</li>
 <li>beta-thalassemia with other manifestations（99.0%）</li>
 <li>pyropoikilocytosis, hereditary（99.0%）</li>
+<li>partial deletion of the short arm of chromosome 16（98.9%）</li>
+<li>hemolytic anemia due to glucophosphate isomerase deficiency（98.8%）</li>
+<li>chronic hepatitis C virus infection（98.4%）</li>
+<li>obsolete familial combined hyperlipidemia（97.2%）</li>
+<li>HIV infectious disease（96.7%）</li>
+<li>familial hyperlipidemia（96.5%）</li>
+<li>homozygous familial hypercholesterolemia（96.4%）</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（96.2%）</li>
+<li>paratenonitis（96.0%）</li>
+<li>calcific tendinitis（96.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/deferiprone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Une source insoupçonnée de sel pourrait être à l'origine du dérèglement de votre hypertension artérielle (et vous ne l'avez pas vu venir)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
-2026-04-17 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmozNU96ZnFQRW4yV1dubXdqaElTWjIzaEhJYTRQQVAxazctdHdZNXJOSFdmUWhpU3BYWHZOeFhaeE5TVFJlRlJTRUpGMDVKOHRVeV9TWjE3Y2ZjRmNTX0trWlpMN3VMMmM5Tk5xdi1OTFdubGgwNzFGTmIwcGpwNVdibmpNeVprbjgtWkNETXNPdF92cDNUSEZIekxKS3FvcjRyTy1vdG95Qlo4S0FySnJIMHNhMWhWcWtITzUxZmJ3Q3U1a28tNTJhZktPdkE1dVlyeHFoQzVrLU05Sm5qV08xT09FaEhYZ1h3VDRR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

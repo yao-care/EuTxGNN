@@ -3,7 +3,7 @@ layout: default
 title: "Capsaicin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Capsaicin 的相關健康新聞報導。原適應症：Qutenza is indicated for the treatment of peripher...。預測適應症 10 個。"
+description: "Capsaicin 的相關健康新聞報導。原適應症：Qutenza is indicated for the treatment of peripher...。預測適應症 20 個。"
 permalink: /news/capsaicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Capsaicin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/capsaicin/
 <ul>
 <li><strong>原適應症</strong>：Qutenza is indicated for the treatment of peripheral neuropathic pain in adults either alone or in combination with other medicinal products for pain.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>neuralgia（98.9%）</li>
 <li>otitis externa（98.8%）</li>
 <li>post-bacterial disorder（98.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/capsaicin/
 <li>papillary conjunctivitis（98.6%）</li>
 <li>infection-related hemolytic uremic syndrome（98.5%）</li>
 <li>tinea corporis（98.1%）</li>
+<li>rosacea conjunctivitis（96.6%）</li>
+<li>rosacea（96.5%）</li>
+<li>atopic conjunctivitis（96.3%）</li>
+<li>lichen disease（95.9%）</li>
+<li>glossodynia（95.6%）</li>
+<li>coccygodynia（95.5%）</li>
+<li>blepharoconjunctivitis（95.2%）</li>
+<li>rhinitis（95.0%）</li>
+<li>cauda equina syndrome（95.0%）</li>
+<li>pityriasis simplex（94.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>

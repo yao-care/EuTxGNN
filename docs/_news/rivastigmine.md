@@ -3,7 +3,7 @@ layout: default
 title: "Rivastigmine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Rivastigmine 的相關健康新聞報導。原適應症：Symptomatic treatment of mild to moderately severe...。預測適應症 10 個。"
+description: "Rivastigmine 的相關健康新聞報導。原適應症：Symptomatic treatment of mild to moderately severe...。預測適應症 20 個。"
 permalink: /news/rivastigmine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rivastigmine/
 ---
 
 <p class="key-answer" data-question="Rivastigmine 有什麼相關新聞？">
-<strong>Rivastigmine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Rivastigmine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/rivastigmine/
 <ul>
 <li><strong>原適應症</strong>：Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>glaucoma（99.3%）</li>
 <li>acute intermittent porphyria（98.2%）</li>
 <li>psychogenic movement disorders（98.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/rivastigmine/
 <li>benign paroxysmal tonic upgaze of childhood with ataxia（97.9%）</li>
 <li>chronic tic disorder（97.8%）</li>
 <li>Pick disease（97.6%）</li>
+<li>primary hereditary glaucoma（96.9%）</li>
+<li>lingual-facial-buccal dyskinesia（96.6%）</li>
+<li>open-angle glaucoma（96.1%）</li>
+<li>myoclonic dystonia（95.2%）</li>
+<li>myoclonus-dystonia syndrome（95.1%）</li>
+<li>focal hand dystonia（94.5%）</li>
+<li>torsion dystonia（92.8%）</li>
+<li>early-onset generalized dystonia（92.8%）</li>
+<li>Alzheimer disease（92.2%）</li>
+<li>parkinsonian disorder（92.0%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rivastigmine/' | relative_url }}">查看完整藥物報告 →</a></p>

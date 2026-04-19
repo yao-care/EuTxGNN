@@ -3,7 +3,7 @@ layout: default
 title: "Granisetron 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Granisetron 的相關健康新聞報導。原適應症：Prevention of nausea and vomiting in patients rece...。預測適應症 10 個。"
+description: "Granisetron 的相關健康新聞報導。原適應症：Prevention of nausea and vomiting in patients rece...。預測適應症 20 個。"
 permalink: /news/granisetron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/granisetron/
 ---
 
 <p class="key-answer" data-question="Granisetron 有什麼相關新聞？">
-<strong>Granisetron</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Granisetron</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/granisetron/
 <ul>
 <li><strong>原適應症</strong>：Prevention of nausea and vomiting in patients receiving moderately or highly emetogenic chemotherapy, with or without cisplatin, for up to five consecutive days. Sancuso may be used in patients...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>manic bipolar affective disorder（99.6%）</li>
 <li>Tourette syndrome（99.5%）</li>
 <li>acute contagious conjunctivitis（99.5%）</li>
@@ -37,12 +37,22 @@ permalink: /news/granisetron/
 <li>bronchitis（99.2%）</li>
 <li>cold urticaria（99.1%）</li>
 <li>conjunctivitis（99.1%）</li>
+<li>punctate epithelial keratoconjunctivitis（98.3%）</li>
+<li>anaphylaxis（98.2%）</li>
+<li>common cold（98.0%）</li>
+<li>dysentery（97.9%）</li>
+<li>renin-angiotensin-aldosterone system-blocker-induced angioedema（97.9%）</li>
+<li>obsessive-compulsive disorder（97.8%）</li>
+<li>acquired angioedema（97.8%）</li>
+<li>schizotypal personality disorder（97.7%）</li>
+<li>paranoid personality disorder（97.7%）</li>
+<li>schizoid personality disorder（97.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（30 則）
 
 ### [Marta Marcè, nutricionista experta en menopausia: “Lo que no tienes en tu despensa puede estar afectando a tus hormonas” - La Vanguardia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeHloaDNkWXY0ZGFCM2Q2SU1QY1pQMGlVUndHdEFSS2hlM09aeHpyWkI5Tk4td1c1TUxVUVB0V3lSVW96N2wzanpOUXR2cUxYVEE4SjN3VkFaSzJVRzhnUDJrNUpkS2MxbFBvOFViR21hY1lHeElCMExPU3NYZEtKcTQ4SDRyLVVQSkZYX2U1MEZZck5nMnZqbjB6b3A3enpTLUR2YWtRcnFrdDNrMnBHTnNvbXgzYUZrdko0djRhMndmdGdQWnBMc3Y3RzlzY1VKdVJNaUpLdXpfOTdZN3hHdUdxVW9zYThMYU53am9n0gHzAUFVX3lxTE53U0xsT0NVZW03SHJWWWNVMFBhMTlXcUIzS3k5VFV6cWw3RGxfRHFOZEYwRVlCNDFCc2J1ZHl5UWoxb2FwQUxkVTFzZnRwSVRGNjRPTjB0R2JnajZxQU5tTVRVNnhUajBrWDQwWkRZZG9wZHl2OW5XMW1rb1RNWkxfYVd4VzN0VDhHR0lMa3dhd0FaN1h2VFFfeVhzczRkMFpDM0hDT3JRY3RvNndyeU1UUzh4b201MElVUFpobkQtRk10Tm1yV0puYW9PakRydHlpU2M4bFhzcG1MVXBreVZYTlVXekdZLVFpcDl5ajIzaG11TQ?oc=5)
 
@@ -68,6 +78,14 @@ permalink: /news/granisetron/
 
 ---
 
+### [Comet C/2025 R3 PanSTARRS - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHRDMUNoTmMzeUFwd3NGclZHdjI1Q055TXJPWUJ6UVRiaFExUnVVdEVYeHNpM001Q1VRa0U0VkRWYUpnRnduY0tUTkRSdDFHaHRIMjRlV2xuaDJKN2lEdHlpeDY1bzRqT1V6NkpRWmp4amR6T2NNd3J3V1lKZXU2VHR2ZVhseG4zaXJ3?oc=5)
+
+2026-04-18 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHRDMUNoTmMzeUFwd3NGclZHdjI1Q055TXJPWUJ6UVRiaFExUnVVdEVYeHNpM001Q1VRa0U0VkRWYUpnRnduY0tUTkRSdDFHaHRIMjRlV2xuaDJKN2lEdHlpeDY1bzRqT1V6NkpRWmp4amR6T2NNd3J3V1lKZXU2VHR2ZVhseG4zaXJ3?oc=5)
+
+---
+
 ### [La EPOC y el mapa desigual de muertes dentro de un mismo sistema sanitario - Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
 
 2026-04-18 <span class="news-indication-tag">EPOC</span>
@@ -81,14 +99,6 @@ permalink: /news/granisetron/
 2026-04-18 <span class="news-indication-tag">AF</span>
 
 來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmR2YnFDMWhjRjZ5NTNxdF83UGVJaDhlUUNzUk9WRTJlamRhNThxUllmcjZWekhNZ0VyMUZqZjBGS09rQS1sV1MzcnhxazdEZEY5WE5sWkdreVp1MkRobk9FY0xZbmFSY1Fld21iX1RwMzFrYm0wTjhNZFRuQUtKdldYdnN1MjQ1R3RqUmh4VE1Fb1dPMnF1eG1yR2dwSnR3UWZZby1UeW56Y2Eta09kTzJLTF9XV1k?oc=5)
-
----
-
-### [¿Qué le pasa a tu salud si todos los días tomas una taza de café?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQdIBwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[SuMédico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQdIBwgFBVV95cUxQVTRLYjJHb1dSOXFka0pZbXBJVkhDZ2d5ZmpFN2RLb01HSmMxeUNvV0NSUjNERjQ0d2RCb3psNmZKQWFfRjdYUzV3aU4yY0JPOVNvY2JuYmpYSmxxWjM4ZmVZR0ZrLWRlQ2dqcEk5bzk5U2FWTjIzeGJFYWNkZ3I0azRfXzhTSDJwenBlaWtkMlMwT3pyb050YjBuYmhOSXJWRFZJNjdQVk5USEMxNHJ4RWZJWXZMVGhpR3FaV2kxcUcwQQ?oc=5)
 
 ---
 
@@ -188,14 +198,6 @@ permalink: /news/granisetron/
 
 ---
 
-### [AR 4419 in H-alpha - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiggFBVV95cUxOcml6OG5rbnYtQlRSNzV1RzU2YS00WVFLUS1Id1NNeEVCeVpHdnV3TDE5dEV1Qy1rRUwtWE90dEVXWFNxZ0V5OTFxc0tPTlZpdk0yeU10N2pNY0p0WHZ0Z3M1N0pLWElNem1JOHV2b19nQ0dmeUFnLXV2X1RVMnRIUnpn?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiggFBVV95cUxOcml6OG5rbnYtQlRSNzV1RzU2YS00WVFLUS1Id1NNeEVCeVpHdnV3TDE5dEV1Qy1rRUwtWE90dEVXWFNxZ0V5OTFxc0tPTlZpdk0yeU10N2pNY0p0WHZ0Z3M1N0pLWElNem1JOHV2b19nQ0dmeUFnLXV2X1RVMnRIUnpn?oc=5)
-
----
-
 ### [Der universelle Rhythmus der Natur](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMk5wXzFMd3pSUnNSbnJaS3FKd0o3N29MZXc0ZWNIUlNJZWYtTUVuZVRkOTBQb2RyQ1h1ZE5qd2dCQjFjenFBcFNBRlZOZV9NdHN6S1QzYmtPbi1aT05GVVEwRkNGWjk5T2hCSGp3VlJkdWdrdGZNS0lBT3FrSDU5bg?oc=5)
 
 2026-04-17 <span class="news-indication-tag">AF</span>
@@ -236,19 +238,19 @@ permalink: /news/granisetron/
 
 ---
 
-### [I beat cancer at 26 but still lost happy ending after cruel twist stole my wife - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORmZXZWF6VWZydWtzNXc4QVpScUpIN3VxbDJ5SFhaendHR0ctNmRTSHdXQUFJTzdyMXFnQmYzcmNJaDZrSjFmVEZKc2NGTWk0WTVkTzBHRF9JZmo2Y0ljbVJxOU9SWGgya3dYcGNCZGxyeWx6eUlqcHdqQnBvSUl0SUV6S2l0SFBGSktjemJXaGFoQlNJ?oc=5)
-
----
-
 ### [Bowel cancer test change sees rise in diagnoses](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
+
+---
+
+### [New Report Highlights Fructose as a Key Driver of Metabolic Disease - University of Colorado Anschutz](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2t3aWZkeDlOTTlIZjVlYXExZTZzNW02VWxkVnZqak4zcVZtUmQ2QkVwaVdnZkR2QUVSZlNfdUo5ZkRpZWNHTmtrazZpY0JGMnBjV1lKX0paQUFVV3NZLTh2eE11Q1ZlaUg2bTN2ZDEwRFNaTHdQd1pLZkY1Mnhuem1jZkZLZnE2dHNrRGx3WXJDUkp5Y21vT0F2YXhsMmdFTnlvMV9kd0FxcW1M0gG8AUFVX3lxTE51UmJQNEk0cjhuc2lEc3BXZ2ZzVHRjVmNMMTAzb1N3cjZIUVNPc1ctRXByd1hVclEzYkF3WUVlM1BWLUlEMnZKSV9TcE1jbGtYNnU4amJlNVVXRDN5cUJzZC02aDMyM0tBVjZJTURmMmtYMW1WMF9Ca016N0NtZHZ4c3gxT29rQVFKeTc3TWd5V09UYjJPY2cwWXFDRzFVbWtKM1RTNl9Ld2RGUC1XQ2NpcHVhcmxHcksyZ0Nz?oc=5)
+
+2026-04-17 <span class="news-indication-tag">AF</span>
+
+來源：[University of Colorado Anschutz](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2t3aWZkeDlOTTlIZjVlYXExZTZzNW02VWxkVnZqak4zcVZtUmQ2QkVwaVdnZkR2QUVSZlNfdUo5ZkRpZWNHTmtrazZpY0JGMnBjV1lKX0paQUFVV3NZLTh2eE11Q1ZlaUg2bTN2ZDEwRFNaTHdQd1pLZkY1Mnhuem1jZkZLZnE2dHNrRGx3WXJDUkp5Y21vT0F2YXhsMmdFTnlvMV9kd0FxcW1M0gG8AUFVX3lxTE51UmJQNEk0cjhuc2lEc3BXZ2ZzVHRjVmNMMTAzb1N3cjZIUVNPc1ctRXByd1hVclEzYkF3WUVlM1BWLUlEMnZKSV9TcE1jbGtYNnU4amJlNVVXRDN5cUJzZC02aDMyM0tBVjZJTURmMmtYMW1WMF9Ca016N0NtZHZ4c3gxT29rQVFKeTc3TWd5V09UYjJPY2cwWXFDRzFVbWtKM1RTNl9Ld2RGUC1XQ2NpcHVhcmxHcksyZ0Nz?oc=5)
 
 ---
 
@@ -289,22 +291,6 @@ permalink: /news/granisetron/
 2026-04-17 <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHpDOG1uMGhHWGxNMF81QUlNd2g1S2RrNnJLdGN5eFBFSE91QjJSdzdFbU1PTFNUaUpGX2wyTUFzck8tbjV1eEx2d3Z3ZV9OWW9IT0N2X2xQMmU2RTlLWkxFMU9ZeDhEUFJPOFlvVVVzcktsbmlNdVl1X3VMeEwyWFZkNnlLQnFvZFAzRjdGQkdnWUZCNTVz?oc=5)
-
----
-
-### [Jupiter im Sternbild Zwillinge (Objekte beschriftet) - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTRBR2hIanJCTVR0ZHlZTVlQVF9nQmJCZHRJUU41VXVoLW9qWXBVbWVPLXg1TkN5R1Bzazh4LVJpRjEydmNuNFRHVWpueHdWWklBZElWTnlad284Q25LdVhFM1pscTVrS0FoRDhrU1Jwb3hZMlpwZkNGT0hBU19iVUpBUE5KU3RtYWd3LTFReElvMktYV3RPVGRDS3RnQUNpbnUyZFYzYTQzbFFx?oc=5)
-
-2026-04-17 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTRBR2hIanJCTVR0ZHlZTVlQVF9nQmJCZHRJUU41VXVoLW9qWXBVbWVPLXg1TkN5R1Bzazh4LVJpRjEydmNuNFRHVWpueHdWWklBZElWTnlad284Q25LdVhFM1pscTVrS0FoRDhrU1Jwb3hZMlpwZkNGT0hBU19iVUpBUE5KU3RtYWd3LTFReElvMktYV3RPVGRDS3RnQUNpbnUyZFYzYTQzbFFx?oc=5)
-
----
-
-### [Raumfahrtgeschichte: Astronomie mit Spacelab? - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzF0dW5QYVhTRzhCRk1aYzRRc1JPVnloamNQd0Z5U08xa3NWS0w4eDUtVGVjYzM5aHVmODNpRTVIbmdKeWl2SElReTc1dG5qekd0bEhLOGRVNW1hdVdOdG5kUjRtQV9yd2d0cjRBQldvM2RTY1RiMkR6SnRhRWQ0cVhUeVVySlU?oc=5)
-
-2026-04-16 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzF0dW5QYVhTRzhCRk1aYzRRc1JPVnloamNQd0Z5U08xa3NWS0w4eDUtVGVjYzM5aHVmODNpRTVIbmdKeWl2SElReTc1dG5qekd0bEhLOGRVNW1hdVdOdG5kUjRtQV9yd2d0cjRBQldvM2RTY1RiMkR6SnRhRWQ0cVhUeVVySlU?oc=5)
 
 ---
 

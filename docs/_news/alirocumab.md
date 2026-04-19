@@ -3,7 +3,7 @@ layout: default
 title: "Alirocumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alirocumab 的相關健康新聞報導。原適應症：Primary hypercholesterolaemia and mixed dyslipidae...。預測適應症 10 個。"
+description: "Alirocumab 的相關健康新聞報導。原適應症：Primary hypercholesterolaemia and mixed dyslipidae...。預測適應症 20 個。"
 permalink: /news/alirocumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/alirocumab/
 <ul>
 <li><strong>原適應症</strong>：Primary hypercholesterolaemia and mixed dyslipidaemia Praluent is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, and in...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>ichthyosis, X-linked, without steroid sulfatase deficiency（99.4%）</li>
 <li>disorder of other vitamins and cofactors metabolism and transport（99.4%）</li>
 <li>xanthomatosis (disease)（99.4%）</li>
@@ -37,6 +37,16 @@ permalink: /news/alirocumab/
 <li>neutral lipid storage disease（99.3%）</li>
 <li>3-hydroxyacyl-CoA dehydrogenase deficiency（99.3%）</li>
 <li>spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder（99.3%）</li>
+<li>thrombocytopenic purpura（99.2%）</li>
+<li>chondrodysplasia punctata, brachytelephalangic, autosomal（99.2%）</li>
+<li>chondrodysplasia punctata, tibial-metacarpal type（99.2%）</li>
+<li>Astley-Kendall dysplasia（99.2%）</li>
+<li>spastic paraplegia（99.0%）</li>
+<li>adenosine deaminase deficiency（99.0%）</li>
+<li>syndromic dyslipidemia（98.8%）</li>
+<li>hemorrhagic disease of newborn（98.7%）</li>
+<li>familial apolipoprotein C-II deficiency（98.7%）</li>
+<li>severe combined immunodeficiency due to LCK deficiency（98.5%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>

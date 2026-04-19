@@ -3,7 +3,7 @@ layout: default
 title: "Orlistat 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Orlistat 的相關健康新聞報導。原適應症：Xenical is indicated in conjunction with a mildly ...。預測適應症 10 個。"
+description: "Orlistat 的相關健康新聞報導。原適應症：Xenical is indicated in conjunction with a mildly ...。預測適應症 20 個。"
 permalink: /news/orlistat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/orlistat/
 <ul>
 <li><strong>原適應症</strong>：Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI &gt; 28...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>obesity disorder（99.5%）</li>
 <li>hypervitaminosis（99.4%）</li>
 <li>proximal 16p11.2 microdeletion syndrome（98.9%）</li>
@@ -37,12 +37,38 @@ permalink: /news/orlistat/
 <li>obsolete susceptibility to ischemic stroke（92.0%）</li>
 <li>ABri amyloidosis（85.7%）</li>
 <li>fatty liver disease（85.3%）</li>
+<li>homozygous familial hypercholesterolemia（79.8%）</li>
+<li>amenorrhea (disease)（77.9%）</li>
+<li>non-alcoholic steatohepatitis（77.1%）</li>
+<li>hypercarotenemia and vitamin A deficiency, autosomal recessive（71.0%）</li>
+<li>lethal polymalformative syndrome, Boissel type（68.5%）</li>
+<li>duodenogastric reflux（68.4%）</li>
+<li>pentosuria（68.3%）</li>
+<li>duodenal obstruction（68.1%）</li>
+<li>fibrosis of extraocular muscles, congenital, with synergistic divergence（66.9%）</li>
+<li>mitral valve prolapse, myxomatous（66.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（10 則）
+
+### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+
+---
+
+### [Lomagna Si-Cura: l’obesità è una patologia da curare e da prevenire. Non una colpa](https://news.google.com/rss/articles/CBMiygFBVV95cUxQR082ZzhkTGpJeHF3MmxMQ2g1TUZHQ1VRM2F5blNueXczaUdjSlZGTlNtaGkzZ19OcHNvaG95NjBRODZTZ01xbWFxUEs4VWZXUXIxd0dkSi11WGl1WHFOdTQtSkppcndGOEs3V2FuZGZIV19MSkE3RTctbEdJZ3lqczk3TmU5ajg4UWZpa3lQSk5XWDFianlHRk5KOFpCa09oWmtzaHhOY2czd3ZkU0p2TUQwYkt2ckl1RnhTM0lWTEZydjRINVhfbW53?oc=5)
+
+2026-04-18 <span class="news-indication-tag">obesità</span>
+
+來源：[Merateonline](https://news.google.com/rss/articles/CBMiygFBVV95cUxQR082ZzhkTGpJeHF3MmxMQ2g1TUZHQ1VRM2F5blNueXczaUdjSlZGTlNtaGkzZ19OcHNvaG95NjBRODZTZ01xbWFxUEs4VWZXUXIxd0dkSi11WGl1WHFOdTQtSkppcndGOEs3V2FuZGZIV19MSkE3RTctbEdJZ3lqczk3TmU5ajg4UWZpa3lQSk5XWDFianlHRk5KOFpCa09oWmtzaHhOY2czd3ZkU0p2TUQwYkt2ckl1RnhTM0lWTEZydjRINVhfbW53?oc=5)
+
+---
 
 ### [Schlaganfall-Risiko: Immer mehr junge Menschen betroffen](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzlVTXhOQzR4eGhBRk9KSW5wQmkwZ21sVGxOeEpBSVB2Y0RSUGNVWXduLVdOazRhRkZQYTlYT3Jqa0IxRGFUX3ZGaXlITHBWNFZmTTBOUHBRVUlZWnZTdGFvUE90MXMyd1ZUNmJOVTNoOHhyel9IZnNsZWFuWlRHUkZSYU8xMEhrQ2RMRF85cm8yNy1lSlJqVUlPV2dhTlpWVFVjZjhVNTBocDQyT2c4TmdfQQ?oc=5)
 
@@ -52,25 +78,25 @@ permalink: /news/orlistat/
 
 ---
 
-### [Kohortenstudie: Psychische Traumata erhöhen Risiko für Demenz und Schlaganfall](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
+### [Kohortenstudie: Psychische Traumata erhöhen Risiko für Demenz und Schlaganfall - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
 
 2026-04-18 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG9XTk4yOTlyYjlsSC0ycmpwVjlnSTdJY1dld2dFRk9WY0t2V1JhaGpXTEMwYTJnNFdoZWRFempKVGNKNEVGenRWdWdhWmdxR20zWk9HTDQ5QTNmeFdtT0tsQkY0cUpJMnBoOV9DRnVIZm1wSGozZXlYRko2YkVkMmVjS1FzMVBWMXZIOHlxVFg5OHRTSVNQYVp5cjRvTG9UN1N1c0E0bVBVajJuaFpxbGEwMA?oc=5)
 
 ---
 
-### [Pregnancy vaccine reduces baby hospital admissions for RSV by 80%](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+### [RSV maternal vaccine cuts baby hospital admissions by up to 85%](https://news.google.com/rss/articles/CBMingFBVV95cUxOamltbHNzWGNzVDBod19obU9rMlNUOEV6Z2hFM0NzUDJJSU04VVB6UV95NVBZRnRXNU1Yc1B6Zzd0V0xJVUZCd2lxZnFsTktUbWNvQkltZV92NUlfT1IwLUdRQjZqa3dnY2pzeU1IN2hUZWdIbmFoMWpPdmt4bVM4RFY2dzhiMnVEODVaa0o5aG9fUENvYUJEVG5lR191UQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">CVA</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNclhnVzJOalRkZHBMWEJyamo5YTNDSm5WLTM0OXRNd1NwSkg3d1RVaVp1YnhNZVlSbHlxTjBnOUtPV25HM1lYcVZtbzQwU2JpRE1zTU5vMGhIMkxi?oc=5)
+來源：[GOV.UK](https://news.google.com/rss/articles/CBMingFBVV95cUxOamltbHNzWGNzVDBod19obU9rMlNUOEV6Z2hFM0NzUDJJSU04VVB6UV95NVBZRnRXNU1Yc1B6Zzd0V0xJVUZCd2lxZnFsTktUbWNvQkltZV92NUlfT1IwLUdRQjZqa3dnY2pzeU1IN2hUZWdIbmFoMWpPdmt4bVM4RFY2dzhiMnVEODVaa0o5aG9fUENvYUJEVG5lR191UQ?oc=5)
 
 ---
 
 ### [“Abbiamo combattuto il grasso sbagliato per anni, ignorando quello che davvero alimenta le malattie”: Franco Berrino svela la verità nascosta dietro oli e prodotti industriali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
 
-2026-04-17 <span class="news-indication-tag">obesità</span>
+2026-04-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
 
@@ -100,27 +126,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Ozempic, Wegovy, Mounjaro : la révolution des médicaments anti-obésité - Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
-
-2026-04-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtORjV1d0VvUHRtSWI4SXdzTnJXaU01Ny1tTWwwWE1aTHVCMk43aWlocnYzNWpXa3lSdDhMQ2tUanlQWjdreWRSbDNweWJ3T0lPaWY2R0RFQ3FFblhGXzBnS0l1NERiaGpULXRRb082T3FUbm9OM3E3V051dkZpcy1LdV9LSGJudzUzWnExaFpQTG11MzZGb1NDNHRueWh2Zi1xcA?oc=5)
-
----
-
 ### [La dieta mediterránea y la actividad física podría frenar la obesidad desde la etapa preescolar, según un estudio - Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHF6NERTdmQ2cmkxWVE5QXRnRFBndTRsR0RwZHRBNW85aFB1Zml3SV9kbVN2enpRaVMyNFNOdEVOTzhIRWttTHcxYW9qTlpZRGFxV1FDTW5xcjg4Q1gtMkd5M3ZBUGNWOUhnM1F5a2VJT2k2b1ZNNUJNYXhZSjlDN0Z6S2JrT2F4TUtqWXFZekdkdllvUmVITlBVNjFZdU9fVUdpTENYT3BfOE1Id3ViRnFRUkJnUnNUSVc3X1pxdDBiZmJOSFVoemRRUjhoNjhoYzBsVU5DcFlZRVNvT3I2ZjFlanRfdnljVDJubF9XZHU?oc=5)
 
 2026-04-17 <span class="news-indication-tag">obesidad</span>
 
 來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdHF6NERTdmQ2cmkxWVE5QXRnRFBndTRsR0RwZHRBNW85aFB1Zml3SV9kbVN2enpRaVMyNFNOdEVOTzhIRWttTHcxYW9qTlpZRGFxV1FDTW5xcjg4Q1gtMkd5M3ZBUGNWOUhnM1F5a2VJT2k2b1ZNNUJNYXhZSjlDN0Z6S2JrT2F4TUtqWXFZekdkdllvUmVITlBVNjFZdU9fVUdpTENYT3BfOE1Id3ViRnFRUkJnUnNUSVc3X1pxdDBiZmJOSFVoemRRUjhoNjhoYzBsVU5DcFlZRVNvT3I2ZjFlanRfdnljVDJubF9XZHU?oc=5)
-
----
-
-### ['Silent killer' explosion: lifestyle habit doctors fear is to blame - Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
-
-2026-04-17 <span class="news-indication-tag">stroke</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3BzdmRyLTUtNnkyeXVsNl9za2ZTNjNHVXdnTFBLOVQ5cG8wT3NYSDNac1JpMkJTX2x5NGk0WndiQlFuS1RvX0FsR0hTZ3A0dW5JeDMyZFV0M3Awa09XdW9sREFqdm5mSU9lNTNjVDZ3VnhwUXhPS2ZhLTAyZmtoVFE4a0t3VzR4TFFNRGlkRlNoOVVJZHBvODAzbllIQzJF?oc=5)
 
 ---
 

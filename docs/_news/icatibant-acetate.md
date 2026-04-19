@@ -3,7 +3,7 @@ layout: default
 title: "Icatibant Acetate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Icatibant Acetate 的相關健康新聞報導。原適應症：Icatibant Accord is indicated for symptomatic trea...。預測適應症 10 個。"
+description: "Icatibant Acetate 的相關健康新聞報導。原適應症：Icatibant Accord is indicated for symptomatic trea...。預測適應症 20 個。"
 permalink: /news/icatibant-acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/icatibant-acetate/
 ---
 
 <p class="key-answer" data-question="Icatibant Acetate 有什麼相關新聞？">
-<strong>Icatibant Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Icatibant Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/icatibant-acetate/
 <ul>
 <li><strong>原適應症</strong>：Icatibant Accord is indicated for symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults, adolescents and children aged 2 years and older, with C1 esterase inhibitor...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>C1 inhibitor deficiency（100.0%）</li>
 <li>hereditary angioedema with C1Inh deficiency（100.0%）</li>
 <li>serpinopathy with toxic serpin polymerization（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/icatibant-acetate/
 <li>antisynthetase syndrome（99.0%）</li>
 <li>Glanzmann thrombasthenia（99.0%）</li>
 <li>focal myositis（99.0%）</li>
+<li>Scott syndrome（98.8%）</li>
+<li>inflammatory myopathy with abundant macrophages（98.8%）</li>
+<li>idiopathic eosinophilic myositis（98.8%）</li>
+<li>Peyronie disease（98.6%）</li>
+<li>pancreatitis（98.0%）</li>
+<li>pernicious anemia（97.9%）</li>
+<li>thrombotic thrombocytopenic purpura（97.9%）</li>
+<li>inherited thrombophilia（97.4%）</li>
+<li>selective IgG immunodeficiency（97.3%）</li>
+<li>bleeding diathesis due to a collagen receptor defect（97.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/icatibant-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Daptomycin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Daptomycin 的相關健康新聞報導。原適應症：Cubicin is indicated for the treatment of the foll...。預測適應症 10 個。"
+description: "Daptomycin 的相關健康新聞報導。原適應症：Cubicin is indicated for the treatment of the foll...。預測適應症 20 個。"
 permalink: /news/daptomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/daptomycin/
 ---
 
 <p class="key-answer" data-question="Daptomycin 有什麼相關新聞？">
-<strong>Daptomycin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Daptomycin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/daptomycin/
 <ul>
 <li><strong>原適應症</strong>：Cubicin is indicated for the treatment of the following infections.  Adult and paediatric (1 to 17 years of age) patients with complicated skin and soft-tissue infections (cSSTI). Adult patients with...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>osteoarthritis（99.9%）</li>
 <li>rheumatoid arthritis（99.8%）</li>
 <li>osteoarthritis susceptibility（99.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/daptomycin/
 <li>brachydactyly-syndactyly syndrome（99.6%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.6%）</li>
 <li>brachyolmia-amelogenesis imperfecta syndrome（99.6%）</li>
+<li>myosclerosis（99.6%）</li>
+<li>arthropathy（99.6%）</li>
+<li>congestive heart failure（99.5%）</li>
+<li>acute pulmonary heart disease（99.4%）</li>
+<li>chronic pulmonary heart disease（99.3%）</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia（99.3%）</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism（99.3%）</li>
+<li>malignant hypertensive renal disease（99.2%）</li>
+<li>malignant renovascular hypertension（99.2%）</li>
+<li>hypertensive disorder（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/daptomycin/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,11 +54,11 @@ permalink: /news/daptomycin/
 
 ## 相關新聞（3 則）
 
-### [Chronische Schmerzen: Immunsystem rückt in den Fokus der Forschung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
-2026-04-17 <span class="news-indication-tag">arthritis</span>
+2026-04-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmZhbjNwRXNadTY0TU1IcUNDVnFPSVltVkFiZndqMU5fN0JtOTI2OVpfU0t6Q0ZTSWZfZF9LUFV2cTBJUXZOSWN3ZlFCSXNsRUVHdl84RjZ5dHBaZ2tZWm8tVkk0d01vMlZBZXE5dFBzTm9xZlhsWVdKUmhSbmR0SElfaGw4VG1YSmxuMS1mdGU3ZThoUXp2cXJLUUd4Z1MtVTZvbVZrNFZEMU9zQ2lKVl8xVTRwMGhoM3hwYnZ2UUIzc2s?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Dopamine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dopamine 的相關健康新聞報導。原適應症：Treatment of hypotension in haemodynamically unsta...。預測適應症 10 個。"
+description: "Dopamine 的相關健康新聞報導。原適應症：Treatment of hypotension in haemodynamically unsta...。預測適應症 20 個。"
 permalink: /news/dopamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="Dopamine 有什麼相關新聞？">
-<strong>Dopamine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dopamine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/dopamine/
 <ul>
 <li><strong>原適應症</strong>：Treatment of hypotension in haemodynamically unstable neonates, infants and children &lt; 18 years</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>hypotensive disorder（97.1%）</li>
 <li>postural orthostatic tachycardia syndrome（88.0%）</li>
 <li>variably protease-sensitive prionopathy（86.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/dopamine/
 <li>common cold（80.4%）</li>
 <li>diffuse alopecia areata（77.0%）</li>
 <li>peptic ulcer disease（75.0%）</li>
+<li>rhinitis（72.1%）</li>
+<li>obsolete neurogenic bladder (disease)（69.0%）</li>
+<li>osteoarthritis susceptibility（68.6%）</li>
+<li>alopecia（67.8%）</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type（64.8%）</li>
+<li>trigeminal autonomic cephalalgia（62.6%）</li>
+<li>headache disorder（61.7%）</li>
+<li>mitral valve prolapse, myxomatous（60.2%）</li>
+<li>sclerocornea, autosomal dominant（59.2%）</li>
+<li>fibrosis of extraocular muscles, congenital, with synergistic divergence（58.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">查看完整藥物報告 →</a></p>

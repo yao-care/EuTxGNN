@@ -3,7 +3,7 @@ layout: default
 title: "Brinzolamide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Brinzolamide 的相關健康新聞報導。原適應症：Decrease of elevated intraocular pressure (IOP) in...。預測適應症 10 個。"
+description: "Brinzolamide 的相關健康新聞報導。原適應症：Decrease of elevated intraocular pressure (IOP) in...。預測適應症 20 個。"
 permalink: /news/brinzolamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brinzolamide/
 ---
 
 <p class="key-answer" data-question="Brinzolamide 有什麼相關新聞？">
-<strong>Brinzolamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Brinzolamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/brinzolamide/
 <ul>
 <li><strong>原適應症</strong>：Decrease of elevated intraocular pressure (IOP) in adult patients with open-angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary hereditary glaucoma（99.5%）</li>
 <li>open-angle glaucoma（99.5%）</li>
 <li>glaucoma 1, open angle（97.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/brinzolamide/
 <li>commissural lip fistula（96.0%）</li>
 <li>osteoradionecrosis of the mandible（95.9%）</li>
 <li>burning mouth syndrome（95.9%）</li>
+<li>oral leukoedema（95.9%）</li>
+<li>oral candidiasis（95.9%）</li>
+<li>congenital glaucoma（95.8%）</li>
+<li>Axenfeld anomaly（95.0%）</li>
+<li>angle-closure glaucoma（93.9%）</li>
+<li>aqueous misdirection（92.7%）</li>
+<li>traumatic glaucoma（92.7%）</li>
+<li>glaucomatous atrophy of optic disc（91.8%）</li>
+<li>neovascular glaucoma（91.7%）</li>
+<li>salivary gland disease（90.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brinzolamide/' | relative_url }}">查看完整藥物報告 →</a></p>

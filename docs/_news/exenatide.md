@@ -3,7 +3,7 @@ layout: default
 title: "Exenatide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Exenatide 的相關健康新聞報導。原適應症：Byetta is indicated for treatment of type-2 diabet...。預測適應症 10 個。"
+description: "Exenatide 的相關健康新聞報導。原適應症：Byetta is indicated for treatment of type-2 diabet...。預測適應症 20 個。"
 permalink: /news/exenatide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/exenatide/
 ---
 
 <p class="key-answer" data-question="Exenatide 有什麼相關新聞？">
-<strong>Exenatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Exenatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/exenatide/
 <ul>
 <li><strong>原適應症</strong>：Byetta is indicated for treatment of type-2 diabetes mellitus in combination with:  metformin; sulphonylureas; thiazolidinediones; metformin and a sulphonylurea; metformin and a thiazolidinedione; ...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>primary hereditary glaucoma（96.2%）</li>
 <li>open-angle glaucoma（95.4%）</li>
 <li>hypotrichosis simplex of the scalp（92.8%）</li>
@@ -37,6 +37,16 @@ permalink: /news/exenatide/
 <li>alopecia（90.2%）</li>
 <li>obsolete rare pulmonary disease（89.5%）</li>
 <li>common cold（86.8%）</li>
+<li>glaucoma 1, open angle（86.7%）</li>
+<li>filariasis（86.7%）</li>
+<li>hyperplasia（86.5%）</li>
+<li>selective pituitary resistance to thyroid hormone（85.2%）</li>
+<li>gout（85.1%）</li>
+<li>thyroid gland disease（85.1%）</li>
+<li>toxic diffuse goiter（83.6%）</li>
+<li>digitalis poisoning（83.5%）</li>
+<li>renin-angiotensin-aldosterone system-blocker-induced angioedema（83.3%）</li>
+<li>thyroid crisis (disease)（82.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/exenatide/' | relative_url }}">查看完整藥物報告 →</a></p>

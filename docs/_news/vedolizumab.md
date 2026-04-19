@@ -3,7 +3,7 @@ layout: default
 title: "Vedolizumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Vedolizumab 的相關健康新聞報導。原適應症：Ulcerative colitis Entyvio is indicated for the tr...。預測適應症 10 個。"
+description: "Vedolizumab 的相關健康新聞報導。原適應症：Ulcerative colitis Entyvio is indicated for the tr...。預測適應症 20 個。"
 permalink: /news/vedolizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vedolizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/vedolizumab/
 <ul>
 <li><strong>原適應症</strong>：Ulcerative colitis Entyvio is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>severe nonproliferative diabetic retinopathy（94.5%）</li>
 <li>dermatitis（93.6%）</li>
 <li>neonatal dermatomyositis（92.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/vedolizumab/
 <li>amyopathic dermatomyositis（91.7%）</li>
 <li>bronchitis（91.0%）</li>
 <li>drug-induced osteoporosis（87.1%）</li>
+<li>primary release disorder of platelets（79.8%）</li>
+<li>psoriasis（74.9%）</li>
+<li>pseudo-von Willebrand disease（74.3%）</li>
+<li>diabetic retinopathy（73.6%）</li>
+<li>anus disease（72.5%）</li>
+<li>acute lichenoid pityriasis（71.9%）</li>
+<li>parapsoriasis（71.6%）</li>
+<li>pityriasis lichenoides（71.5%）</li>
+<li>inflammatory bowel disease（69.5%）</li>
+<li>pityriasis simplex（68.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -68,6 +78,14 @@ permalink: /news/vedolizumab/
 
 ---
 
+### [Las grasas monoinsaturadas se asocian con un menor riesgo de diabetes tipo 2 - IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
+
+2026-04-17 <span class="news-indication-tag">diabetes mellitus</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1PUWhCZlFrSVJGNWI3RTVoUXp5c2NxTW9aX0lXSTR2V0NKQjBUejJlTW1aOUxtRWlWS1A5NHN4dzd0LU1VMC1kOFVyUG8ySDRqZ1Z2dkd1ZHUtNEVwYWpqSzNISDFJdDBObS1ka2dueFpYdF95NDFDcE1jUnlMbjYwbnJtWHF5MjIwWGhYZGIzVEtUbkZ5VzE4MXhvU1FiU3Y1YTdwZEJLMDRfcFVGNlZ1bllEd9IBsAFBVV95cUxNOUxRdlhyQW1sdkpqaXUwNzFtOEJkWFpfSTNOZS1lZGY2N3FLbWpTUkZtdG5HeDhrSmZGTzg0d3BZbGhqVFVOZGxqNmRsRl9NdTJJSWd2c2w3Y0RVbjFDRDVEcWljVU9fblNIMFd3SVFpVGMySHc2R3VkLTZYSTJORzRuVU8zTzlXVXN3cV9fM0VaTTU1YnpOX2Y3SGVhTmNnQ3dQUWZFLWNkZmtuVzMweA?oc=5)
+
+---
+
 ### [Experto indica que escalas poblacionales clásicas de predicción de riesgo cardiovascular en diabetes tienen limitaciones](https://news.google.com/rss/articles/CBMijgJBVV95cUxNS2VSeUpNUGZyR2hFZndYM1llbFFuWUlPREVDSVIzMnMxSlhFRE9IVWNvdUdQdFVnSU9kSGlCVFl2WWRLeFZFcHU3RUNGQTd3ZHlQQVV5bTFaVlJuWndRZUhhaWx5WUI2NF9qemVMQU5DQUM0TGpNeV80ZnBZN3lkT1R6RmdmeDZFdTJiUlFYU2VFcW1udk9MbURTTXhFaW8wOXFpWVFUajI3bGJnQlJjQkZIYVBNWUlCak9PQU9iT3VWVHNKQkV6STJkR1pMTkRzQnVyYnVKYU9zeEhVVUhxenBhQ2FrV0lEVVdodnJ3QTNMWlRMb3pHckRDQ1dGbzNZbjk0bDlPVVBQT0xHZlE?oc=5)
 
 2026-04-17 <span class="news-indication-tag">diabetes</span>
@@ -81,14 +99,6 @@ permalink: /news/vedolizumab/
 2026-04-17 <span class="news-indication-tag">diabete</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE43ZGRRbVdlNGNHYWdDMDRybE5jSG9LbzdzaXQzWWMxYXRwb2F4a2tZeFlQZVNEOUgwVUhieWFRNjAzR1k0cVNfTU1BaXlRSVV6bEF0bVRoNFFMSlkzMG1JWTJ0Z1pkMGJfaUdEWlloM3ZkVHNmSUtSd3NLQ2Z0VWNLMkFHcjNKc1FNV2ZuamhPODRoTWl3bEJTcy12S05IOFpB0gGQAUFVX3lxTFA0bmJUdXVkQTQyRXlJeHhfT3RJVmdQVENqdkNQM3NMLUYzTWhFQlg3WGRObzhPcFN4Q1JzMVhKLUFMdkJJNThUNnM3R21ZbXZwMXFuMFQyQWhXV3dDYVI5RWJ2akN5aGRIdWVGWVN0Z0VET3l2SHdIYVhUSFZlNnJGWGFKVmVjNkdra2NoZmNOSg?oc=5)
-
----
-
-### [El Hospital público Puerta de Hierro, primero de España en implementar un cribado basado en pruebas de laboratorio que detecta enfermedades hepáticas en pacientes con diabetes - Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Comunidad de Madrid |](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYnFjWlBQRUljckVTV2F0ckJKU1Z4bmZtNmJteG5Hd3VYZkp3SE1leEwtLURHTmZ6RFU5YzZKanZReWJSS1pEbmpyX0RBTVBGUUlPY2xXbEJPb0VEbGQyaGl4aDFzX0tJenBrNWlHMkg2RHQ2XzlFNE50Q1Z5VjViSDFoNTNBaVBoNVNIWXlsR3JjaEtKSUpoTHQ1WFRHZUViUW16YmN4RWRMZU1FUzdmNWZiWmpaWHNDOFNIR0hLQjBMaUduamI2U0tEZGtBR3JubWloSklHdG5fMzBVMGswZWNBZnloTGpZMTZJNy1XeF9HSlkwdWZCVnlNRWhTZDd2aXBhcl9zam1jRkE?oc=5)
 
 ---
 

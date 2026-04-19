@@ -3,7 +3,7 @@ layout: default
 title: "Zinc 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Zinc 的相關健康新聞報導。原適應症：Treatment of Wilson's disease.。預測適應症 10 個。"
+description: "Zinc 的相關健康新聞報導。原適應症：Treatment of Wilson's disease.。預測適應症 20 個。"
 permalink: /news/zinc/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zinc/
 ---
 
 <p class="key-answer" data-question="Zinc 有什麼相關新聞？">
-<strong>Zinc</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Zinc</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/zinc/
 <ul>
 <li><strong>原適應症</strong>：Treatment of Wilson's disease.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>filariasis（93.2%）</li>
 <li>primary hereditary glaucoma（92.1%）</li>
 <li>dermatitis（91.7%）</li>
@@ -37,6 +37,16 @@ permalink: /news/zinc/
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（89.7%）</li>
 <li>hydroa vacciniforme, familial（89.5%）</li>
 <li>amyopathic dermatomyositis（89.2%）</li>
+<li>acne keloid（88.3%）</li>
+<li>headache disorder（86.4%）</li>
+<li>congenital hypotrichosis milia（86.3%）</li>
+<li>hypotrichosis simplex of the scalp（86.3%）</li>
+<li>irritable bowel syndrome（85.8%）</li>
+<li>trigeminal autonomic cephalalgia（85.5%）</li>
+<li>diffuse alopecia areata（85.1%）</li>
+<li>gastroenteritis（83.4%）</li>
+<li>alopecia（83.2%）</li>
+<li>myositis fibrosa（82.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zinc/' | relative_url }}">查看完整藥物報告 →</a></p>

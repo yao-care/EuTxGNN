@@ -3,7 +3,7 @@ layout: default
 title: "Alendronic Acid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alendronic Acid 的相關健康新聞報導。原適應症：Treatment of postmenopausal osteoporosis in patien...。預測適應症 10 個。"
+description: "Alendronic Acid 的相關健康新聞報導。原適應症：Treatment of postmenopausal osteoporosis in patien...。預測適應症 20 個。"
 permalink: /news/alendronic-acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alendronic-acid/
 ---
 
 <p class="key-answer" data-question="Alendronic Acid 有什麼相關新聞？">
-<strong>Alendronic Acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Alendronic Acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/alendronic-acid/
 <ul>
 <li><strong>原適應症</strong>：Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Fosavance reduces the risk of vertebral and hip fractures.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bone Paget disease（99.3%）</li>
 <li>HIV infectious disease（96.8%）</li>
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（95.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/alendronic-acid/
 <li>vitamin B12- and folate-independent constitutional megaloblastic anemia（90.6%）</li>
 <li>Plummer-Vinson syndrome（90.4%）</li>
 <li>osteomesopyknosis（88.2%）</li>
+<li>obsolete familial combined hyperlipidemia（86.3%）</li>
+<li>biotin metabolic disease（86.2%）</li>
+<li>Paget disease of bone（85.5%）</li>
+<li>primary release disorder of platelets（84.7%）</li>
+<li>pseudo-von Willebrand disease（84.3%）</li>
+<li>Paget disease of bone 2, early-onset（81.9%）</li>
+<li>penile fibromatosis（80.0%）</li>
+<li>vitamin deficiency disorder（78.2%）</li>
+<li>palmar fibromatosis（77.5%）</li>
+<li>infantile digital fibromatosis（76.3%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alendronic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>

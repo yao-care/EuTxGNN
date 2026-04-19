@@ -3,7 +3,7 @@ layout: default
 title: "Dexrazoxane Hydrochloride 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Dexrazoxane Hydrochloride 的相關健康新聞報導。原適應症：Savene is indicated for the treatment of anthracyc...。預測適應症 10 個。"
+description: "Dexrazoxane Hydrochloride 的相關健康新聞報導。原適應症：Savene is indicated for the treatment of anthracyc...。預測適應症 20 個。"
 permalink: /news/dexrazoxane-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 <ul>
 <li><strong>原適應症</strong>：Savene is indicated for the treatment of anthracycline extravasation.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>sclerosing cholangitis（100.0%）</li>
 <li>bronchitis（100.0%）</li>
 <li>paratyphoid fever（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/dexrazoxane-hydrochloride/
 <li>urinary tract infection (disease)（99.9%）</li>
 <li>pyelonephritis（99.8%）</li>
 <li>cystitis（99.8%）</li>
+<li>laryngotracheitis（99.8%）</li>
+<li>bacterial arthritis（99.8%）</li>
+<li>Ureaplasma urethritis（99.8%）</li>
+<li>gonococcal urethritis（99.8%）</li>
+<li>pyelitis（99.7%）</li>
+<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
+<li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
+<li>sickle cell-hemoglobin d disease syndrome（99.7%）</li>
+<li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
+<li>sickle cell-beta-thalassemia disease syndrome（99.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Lusutrombopag 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Lusutrombopag 的相關健康新聞報導。原適應症：Mulpleo is indicated for the treatment of severe t...。預測適應症 10 個。"
+description: "Lusutrombopag 的相關健康新聞報導。原適應症：Mulpleo is indicated for the treatment of severe t...。預測適應症 20 個。"
 permalink: /news/lusutrombopag/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lusutrombopag/
 ---
 
 <p class="key-answer" data-question="Lusutrombopag 有什麼相關新聞？">
-<strong>Lusutrombopag</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lusutrombopag</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lusutrombopag/
 <ul>
 <li><strong>原適應症</strong>：Mulpleo is indicated for the treatment of severe thrombocytopenia in adult patients with chronic liver disease undergoing invasive procedures</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>hereditary thrombocytopenia with normal platelets（100.0%）</li>
 <li>marcothrombocytopenia with mitral valve insufficiency（100.0%）</li>
 <li>transient neonatal thrombocytopenia（100.0%）</li>
@@ -37,6 +37,16 @@ permalink: /news/lusutrombopag/
 <li>lower motor neuron syndrome with late-adult onset（100.0%）</li>
 <li>amyotrophic lateral sclerosis, susceptibility to（100.0%）</li>
 <li>bilateral parasagittal parieto-occipital polymicrogyria（100.0%）</li>
+<li>axial spondylometaphyseal dysplasia（99.9%）</li>
+<li>amyotrohpic lateral sclerosis type 22（99.9%）</li>
+<li>Mills syndrome（99.9%）</li>
+<li>monomelic amyotrophy（99.9%）</li>
+<li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome（99.9%）</li>
+<li>autosomal dominant mitochondrial myopathy with exercise intolerance（99.9%）</li>
+<li>lethal arthrogryposis-anterior horn cell disease syndrome（99.9%）</li>
+<li>kidney pelvis sarcomatoid transitional cell carcinoma（98.8%）</li>
+<li>neuronopathy, distal hereditary motor（98.8%）</li>
+<li>prostatic urethra urothelial carcinoma（98.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lusutrombopag/' | relative_url }}">查看完整藥物報告 →</a></p>

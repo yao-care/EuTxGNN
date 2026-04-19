@@ -3,7 +3,7 @@ layout: default
 title: "Norelgestromin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Norelgestromin 的相關健康新聞報導。原適應症：Female contraception. Evra is intended for women o...。預測適應症 10 個。"
+description: "Norelgestromin 的相關健康新聞報導。原適應症：Female contraception. Evra is intended for women o...。預測適應症 20 個。"
 permalink: /news/norelgestromin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/norelgestromin/
 ---
 
 <p class="key-answer" data-question="Norelgestromin 有什麼相關新聞？">
-<strong>Norelgestromin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Norelgestromin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/norelgestromin/
 <ul>
 <li><strong>原適應症</strong>：Female contraception. Evra is intended for women of fertile age. The safety and efficacy has been established in women aged 18 to 45 years.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>amenorrhea (disease)（99.5%）</li>
 <li>acne (disease)（98.5%）</li>
 <li>breast fibrocystic disease（97.5%）</li>
@@ -37,6 +37,16 @@ permalink: /news/norelgestromin/
 <li>fat necrosis of breast（95.4%）</li>
 <li>lactation disease（95.2%）</li>
 <li>primary ovarian failure（95.1%）</li>
+<li>breast adenosis（95.0%）</li>
+<li>scalp dermatosis（94.4%）</li>
+<li>tetragametic chimerism（93.8%）</li>
+<li>ovarian remnant syndrome（93.5%）</li>
+<li>anovulation（93.5%）</li>
+<li>symptomatic form of fragile X syndrome in female carrier（93.5%）</li>
+<li>partial trisomy/tetrasomy of the short arm of chromosome 12（93.5%）</li>
+<li>partial trisomy/tetrasomy of the short arm of chromosome 18（93.4%）</li>
+<li>partial trisomy/tetrasomy of the short arm of chromosome 5（93.4%）</li>
+<li>polysomy of X chromosome（93.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/norelgestromin/' | relative_url }}">查看完整藥物報告 →</a></p>

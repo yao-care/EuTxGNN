@@ -3,7 +3,7 @@ layout: default
 title: "Fluciclovine (18F) 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fluciclovine (18F) 的相關健康新聞報導。原適應症：This medicinal product is for diagnostic use only....。預測適應症 10 個。"
+description: "Fluciclovine (18F) 的相關健康新聞報導。原適應症：This medicinal product is for diagnostic use only....。預測適應症 20 個。"
 permalink: /news/fluciclovine-18f/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluciclovine-18f/
 ---
 
 <p class="key-answer" data-question="Fluciclovine (18F) 有什麼相關新聞？">
-<strong>Fluciclovine (18F)</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Fluciclovine (18F)</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/fluciclovine-18f/
 <ul>
 <li><strong>原適應症</strong>：This medicinal product is for diagnostic use only. Axumin is indicated for Positron Emission Tomography (PET) imaging to detect recurrence of prostate cancer in adult men with a suspected recurrence...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>trichotillomania（97.9%）</li>
 <li>Tourette syndrome（97.7%）</li>
 <li>migraine disorder（97.2%）</li>
@@ -37,6 +37,16 @@ permalink: /news/fluciclovine-18f/
 <li>His bundle tachycardia（95.5%）</li>
 <li>idiopathic neonatal atrial flutter（95.2%）</li>
 <li>hyperthyroidism（94.5%）</li>
+<li>multiple endocrine neoplasia（94.2%）</li>
+<li>atypical coarctation of aorta（93.9%）</li>
+<li>cauda equina syndrome（93.7%）</li>
+<li>hyperthyroxinemia（93.6%）</li>
+<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（93.5%）</li>
+<li>anaphylaxis（93.2%）</li>
+<li>atrophoderma vermiculata（93.2%）</li>
+<li>thyroid gland disease（93.1%）</li>
+<li>open-angle glaucoma（93.0%）</li>
+<li>ulerythema ophryogenesis（92.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluciclovine-18f/' | relative_url }}">查看完整藥物報告 →</a></p>

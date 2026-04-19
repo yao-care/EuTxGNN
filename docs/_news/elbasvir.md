@@ -3,7 +3,7 @@ layout: default
 title: "Elbasvir 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Elbasvir 的相關健康新聞報導。原適應症：ZEPATIER is indicated for the treatment of chronic...。預測適應症 10 個。"
+description: "Elbasvir 的相關健康新聞報導。原適應症：ZEPATIER is indicated for the treatment of chronic...。預測適應症 20 個。"
 permalink: /news/elbasvir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Elbasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/elbasvir/
 <ul>
 <li><strong>原適應症</strong>：ZEPATIER is indicated for the treatment of chronic hepatitis C (CHC) in adult and paediatric patients 12 years of age and older who weigh at least 30 kg (see sections 4.2, 4.4 and 5.1). For hepatitis...</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>chronic hepatitis C virus infection（99.9%）</li>
 <li>hepatitis C virus infection（99.8%）</li>
 <li>hepatitis B virus infection（99.7%）</li>
@@ -37,12 +37,22 @@ permalink: /news/elbasvir/
 <li>Kyasanur forest disease（99.6%）</li>
 <li>HIV infectious disease（99.6%）</li>
 <li>feline acquired immunodeficiency syndrome（99.5%）</li>
+<li>simian immunodeficiency virus infection（99.5%）</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.3%）</li>
+<li>fibroma of prostate（98.2%）</li>
+<li>benign reproductive system neoplasm（98.1%）</li>
+<li>Brenner tumor（98.1%）</li>
+<li>benign prostate phyllodes tumor（98.1%）</li>
+<li>male reproductive organ cancer（97.8%）</li>
+<li>chronic hepatitis B virus infection（97.7%）</li>
+<li>prostate leiomyoma（97.4%）</li>
+<li>obsolete familial combined hyperlipidemia（97.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
 
 ### [Caso di Epatite A in una scuola elementare in Campania, il sindaco: «Non bisogna allarmarsi» - Il Mattino](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUk1OTRheEZuOUl6N0V0bXZfdUFuV1hFVFVtMm16ZV92RzFLWm5QZlNCb25rX0RiMWs3VG9TQ2FuNlVZb0puQzlMd3BHU0p0WEc2QUg4OXdySUJ4OXhZMXYxNURfYzd2X0VRaGRac19BNERKaWJBX3hQR0JrLXMzOGdXQ3NZakk3SkNMT1930gGTAUFVX3lxTE1SZFJWWGlwQ0ZaUEJfS05QcDl0d0xsaFpYS0xmSE02T3IyMkF1ZlFvUk1keTJsTnQ0c2dPdjI1NEJmTlM3UlFSd19sZUJod0FsRWV3enpzS1dBaVFKZ3hWeUg1dEZJNURweC1IbHZZVy1RTkhFOWl4RE5oSjBoaHhNZzdLQ2JnVEJJemFJbk1UMWs3dw?oc=5)
 
@@ -60,14 +70,6 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Study links lung cancer to eating fruits and veg: What this means - Medical News Today](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVlma1VXWFhMYTl2V0VmNDR2bThBQXdUMGlEZVpxeUlzVmc3OEF3RXUxQmJ5MF9pTHp4bzY3UHNSUTJrb2tUTWhtZ2Q0UTlmd1NnMjFja293dm1rSVktbkotYl9yOXpJX3Vhbzc0dlUtRUJWRkZHRlB5S29jQWJybVFSYzdiTkV5dmtrNWN1RkR3M1pHWGJRMXFNVnY4TGRKY2xTaVZJLWp4QVhORmduNlF4UFVsaE1IM19fZW9nU0NaZHA0MEhHekRaT3l5UkM3Smg5LQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVlma1VXWFhMYTl2V0VmNDR2bThBQXdUMGlEZVpxeUlzVmc3OEF3RXUxQmJ5MF9pTHp4bzY3UHNSUTJrb2tUTWhtZ2Q0UTlmd1NnMjFja293dm1rSVktbkotYl9yOXpJX3Vhbzc0dlUtRUJWRkZHRlB5S29jQWJybVFSYzdiTkV5dmtrNWN1RkR3M1pHWGJRMXFNVnY4TGRKY2xTaVZJLWp4QVhORmduNlF4UFVsaE1IM19fZW9nU0NaZHA0MEhHekRaT3l5UkM3Smg5LQ?oc=5)
-
----
-
 ### [SoVD-Themenfrühstück in Haselünne/Herzlake: Tipps zur Stärkung des Immunsystems](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVFPRlJ5RjQwdEhWTmNlN0s2U0I5TEs0dzdLV0lEOXBGazhoMVpMSzMyLW56OTVGOHZqWjRZc29EM2o0c3VnYXpmQkw0YlNRcHctTWpIMjdSTjVZZkRMeHFGTlc5MjJCODVDZE1RdFhWcTFnalM3b0lYYmhhcGduVGZUWGM0RTA0dkdDcGVPZHRoNVpSSXJyM1ctbGhUVXg5VHJMZVR6UHdOanRfUjk1dEZBZTdDZXFQTUd3aGQzemd6SGg3MWd6VUlld3RBdlE?oc=5)
 
 2026-04-17 <span class="news-indication-tag">MS</span>
@@ -76,19 +78,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Terapia anti – Tau e Alzheimer, risultati “promettenti” della ricerca al Mondino - La Provincia Pavese](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTBmUDZWZUJpc2VCazl4UXh5ajRmM3BwbGFkbGY0bm5uM19DU1Fra3U0VjI3bGJJVENjdENvNlFuNXNfeW84dFpmS1RoSWx2Vk5wandIczZjc0dTMjZEMUszQUhSSHlpNll6c3V5emZTZkMyY3NPREE2UTl2U19lTTBVS1FOTXlXbUxGV2YzUlRNM0lKOGVlM3otelNBeDMzVnpSYTRfOENXWkwyYUZUYlQzVHdGZFFkcmVCcDBfSDBIaE00M2NuOGdnejdfbXhvbDdfWENzUTdYRGtI0gHiAUFVX3lxTE12Nzgtb1IwdnlxU3dhUWRQenlNMVNOWWtUWFI2WHAyU2syQ3JELTFCYXVmbDR3SVBreUthbnhhZzlMMU1uOG1FU3c0b2hEeHZBZ2hQX3hWNWV6SVprdWN4Z0VoZmx3U2o0X0tvU0dQS2RDT1dET1M3SUNVN1RLdVZiZTVicElEeHBUTmpKNmVZb1FpSVpkaHBFRnJlNG9zbnlZT0Vra1VnZFB1ckNzRkl1cl84alJudTM1NENJc2d1eEhQNWNyNGZkaWtIWFlIQVhRVW14V1dmNl9hb29XSzNzbnc?oc=5)
+### [Could Alzheimer’s Begin in the Nerves, Not the Brain? - Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
 
-2026-04-17 <span class="news-indication-tag">MS</span>
+2026-04-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[La Provincia Pavese](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTBmUDZWZUJpc2VCazl4UXh5ajRmM3BwbGFkbGY0bm5uM19DU1Fra3U0VjI3bGJJVENjdENvNlFuNXNfeW84dFpmS1RoSWx2Vk5wandIczZjc0dTMjZEMUszQUhSSHlpNll6c3V5emZTZkMyY3NPREE2UTl2U19lTTBVS1FOTXlXbUxGV2YzUlRNM0lKOGVlM3otelNBeDMzVnpSYTRfOENXWkwyYUZUYlQzVHdGZFFkcmVCcDBfSDBIaE00M2NuOGdnejdfbXhvbDdfWENzUTdYRGtI0gHiAUFVX3lxTE12Nzgtb1IwdnlxU3dhUWRQenlNMVNOWWtUWFI2WHAyU2syQ3JELTFCYXVmbDR3SVBreUthbnhhZzlMMU1uOG1FU3c0b2hEeHZBZ2hQX3hWNWV6SVprdWN4Z0VoZmx3U2o0X0tvU0dQS2RDT1dET1M3SUNVN1RLdVZiZTVicElEeHBUTmpKNmVZb1FpSVpkaHBFRnJlNG9zbnlZT0Vra1VnZFB1ckNzRkl1cl84alJudTM1NENJc2d1eEhQNWNyNGZkaWtIWFlIQVhRVW14V1dmNl9hb29XSzNzbnc?oc=5)
-
----
-
-### [Prostate cancer survivor urges men to get tested](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KaElkelloNmpxVm8tdVlSenhkcGc4ZWJXV0toaC1aYVBsVFNoMmJYMFptRXY3NDFnVjFRam5BcHJ0NFhJUjAwN1hzQ25Ia1dHOVI0RnNlSDcxck96?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KaElkelloNmpxVm8tdVlSenhkcGc4ZWJXV0toaC1aYVBsVFNoMmJYMFptRXY3NDFnVjFRam5BcHJ0NFhJUjAwN1hzQ25Ia1dHOVI0RnNlSDcxck96?oc=5)
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
 
 ---
 
@@ -124,6 +118,14 @@ permalink: /news/elbasvir/
 
 ---
 
+### ['Re: Diagnose Multiple Sklerose' bei...online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
+
+2026-04-17 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Spielfilm.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxQemxyeS1wMDVnMWdYNklRWGkzUDVVYjRvaFgtdzN3TG5naGRTZ1lrVkJKYS03WElVMVNoZDEzYWt2VHg2NUVzTE55dXp0emZWeVNzbExpYWpxY3E2N2FDRk5wVmpFMWQ4WWJqWF9DM2U0NkJET0JmOE5NQlZuV19sNXlmcV9nTUJPOUU4X2JjaWd3UndCV21jb2JTaVEtTWlnMHdUOS1pMGlRYV9iMWJqTlR2cWtUcGhXX0VhdVFzMU10WDh1?oc=5)
+
+---
+
 ### [Cet oncologue est formel : voici l’aliment à consommer tous les jours pour éviter un cancer colorectal](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSlVoLUJibVp6NnJDS1MtZW41WWNDaDdEZFFqaV8xQ0MteUNOSUd2MkZXU25WOE02SlVDclBKNkFlaXdwajU5X3NEdlFra3pjNGZuQlFrVVc3S1lvcjlEQTBzTzJsMHRIN1RZN0NTa3l2RnJlNF9uZGVGNGJ0ZVpJa0FTV1pLYlpPcG53Q21hZENmOUxRM2pxSmtzamxPYl82ZzlUcS1jeE10aFowY3pSbUlDRTBTVVRpZVFNcVU0LWplZHZIRWxsLWtxUEVLbGVoT05HbzU4Z3hwZTdCc05XSWFyRjFfUWUxQTdz?oc=5)
 
 2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -137,14 +139,6 @@ permalink: /news/elbasvir/
 2026-04-17 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4TGtaci12YURzU3NNV1ZoU0lFUVdZYnJfSTVKbHphSWk0c0xiaDZUYUFfN1hJZEk5WEFtcmhpS3RrU09QT3hoT3Fvd0hoX1dlYmVyM0c5Q0JsOE9jNGsyY3l6Vzl4UkEwNGN6Y2llLUZnNlNVcldOelQ0T0FQT0VOcU40a3A3Q18zRTRmc25IYnFKWDg3Nkg3SGxVYWhXS0w3Y1dpaHNOM3hGOE5YbFphMXIydklZTWdrTkZ0NUZOV3RqbElHcg?oc=5)
-
----
-
-### ["Re: Diagnose Multiple Sklerose" verpasst?: TV-Wiederholung und Online-Mediathek im Überblick](https://news.google.com/rss/articles/CBMimAJBVV95cUxPaV9OV1ZoNU1DdUtacXpBYWpQeENHY3RpM1ZYVlNvLXAzRldQRUhVbDRCUFlFWllzTEh5NVhOaExydXZuWmpPZnkxUlUzUkd3REEya2NUb244eGxfY1VpWl9jeE5ka0FMSXJZLXJlQmJiLVFfU2F2QzdtR09aSWJFXzlLMEdTUS1RSXpUcy1mR210UVJYbmhYZ3YwSk9mb2VTdlZyTk9jZWUxUFlUNnR2V1AySzBZenJnR0phcFhSa3hQSTJDMFd1NjNJaHZJQnYtcUFNVG9kWmhvY2J1Ym1Bb1AyVlNVcThZWE9Tb2o1ZW1BMFNzU1BYNk1lMTkwWjNxQ1Fwdnc1S1hIaExWU1A1RWJKd1IxU0120gGeAkFVX3lxTE53cVJoSnBZcXViRm5teVhDdEwydmNTX2xXQkFnMzQ3V1NNVHBYdDE4alI0THVEVGFjSE1ZUXU1a0owOVlhWERVZ055OTVsVUlud05WblBZN0k4YURUUmNYeEV5dU1TcjdGNVpVNEpLcUFTa3c3eGR4YTJXdkhCb3FPdG5WTlVHaHR1cFphRXZnd3Fmdjd3ZEpMRUxCOVhadU5FTVFFWU85Yl9aaVJmZ0VKRW16LUJNeTBCWGhkWU05aWNVaW91MVNwbFQyQ3R3aF9vX1lybmxvR2JueW5rQldtUnRCakwzeFdkUm9JUWU1TF8xa21zd0p5aWoyNE4xMTIzNzR0SnN5cFRxTUR6ZzJZRHZaVW8wLXhhZWdZS2c?oc=5)
-
-2026-04-16 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMimAJBVV95cUxPaV9OV1ZoNU1DdUtacXpBYWpQeENHY3RpM1ZYVlNvLXAzRldQRUhVbDRCUFlFWllzTEh5NVhOaExydXZuWmpPZnkxUlUzUkd3REEya2NUb244eGxfY1VpWl9jeE5ka0FMSXJZLXJlQmJiLVFfU2F2QzdtR09aSWJFXzlLMEdTUS1RSXpUcy1mR210UVJYbmhYZ3YwSk9mb2VTdlZyTk9jZWUxUFlUNnR2V1AySzBZenJnR0phcFhSa3hQSTJDMFd1NjNJaHZJQnYtcUFNVG9kWmhvY2J1Ym1Bb1AyVlNVcThZWE9Tb2o1ZW1BMFNzU1BYNk1lMTkwWjNxQ1Fwdnc1S1hIaExWU1A1RWJKd1IxU0120gGeAkFVX3lxTE53cVJoSnBZcXViRm5teVhDdEwydmNTX2xXQkFnMzQ3V1NNVHBYdDE4alI0THVEVGFjSE1ZUXU1a0owOVlhWERVZ055OTVsVUlud05WblBZN0k4YURUUmNYeEV5dU1TcjdGNVpVNEpLcUFTa3c3eGR4YTJXdkhCb3FPdG5WTlVHaHR1cFphRXZnd3Fmdjd3ZEpMRUxCOVhadU5FTVFFWU85Yl9aaVJmZ0VKRW16LUJNeTBCWGhkWU05aWNVaW91MVNwbFQyQ3R3aF9vX1lybmxvR2JueW5rQldtUnRCakwzeFdkUm9JUWU1TF8xa21zd0p5aWoyNE4xMTIzNzR0SnN5cFRxTUR6ZzJZRHZaVW8wLXhhZWdZS2c?oc=5)
 
 ---
 

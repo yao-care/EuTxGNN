@@ -3,7 +3,7 @@ layout: default
 title: "Paliperidone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Paliperidone 的相關健康新聞報導。原適應症：Invega is indicated for the treatment of schizophr...。預測適應症 10 個。"
+description: "Paliperidone 的相關健康新聞報導。原適應症：Invega is indicated for the treatment of schizophr...。預測適應症 20 個。"
 permalink: /news/paliperidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/paliperidone/
 ---
 
 <p class="key-answer" data-question="Paliperidone 有什麼相關新聞？">
-<strong>Paliperidone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paliperidone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/paliperidone/
 <ul>
 <li><strong>原適應症</strong>：Invega is indicated for the treatment of schizophrenia in adults and in adolescents 15 years and older. Invega is indicated for the treatment of schizoaffective disorder in adults.</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>schizophrenia（100.0%）</li>
 <li>retinal dystrophy with or without extraocular anomalies（99.9%）</li>
 <li>schizophreniform disorder（99.9%）</li>
@@ -37,6 +37,16 @@ permalink: /news/paliperidone/
 <li>myopia 26, X-linked, female-limited（99.9%）</li>
 <li>psychotic disorder（99.9%）</li>
 <li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（99.9%）</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G（99.9%）</li>
+<li>atypical glycine encephalopathy（99.8%）</li>
+<li>treatment-refractory schizophrenia（99.8%）</li>
+<li>early-onset schizophrenia（99.8%）</li>
+<li>mental disorder（99.6%）</li>
+<li>REM sleep behavior disorder（99.5%）</li>
+<li>psychosexual disorder（99.4%）</li>
+<li>schizoaffective disorder（99.0%）</li>
+<li>manic bipolar affective disorder（98.9%）</li>
+<li>postpartum psychosis（98.9%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paliperidone/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Teprotumumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Teprotumumab 的相關健康新聞報導。原適應症：Treatment of moderate to severe thyroid eye diseas...。預測適應症 10 個。"
+description: "Teprotumumab 的相關健康新聞報導。原適應症：Treatment of moderate to severe thyroid eye diseas...。預測適應症 20 個。"
 permalink: /news/teprotumumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/teprotumumab/
 ---
 
 <p class="key-answer" data-question="Teprotumumab 有什麼相關新聞？">
-<strong>Teprotumumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Teprotumumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/teprotumumab/
 <ul>
 <li><strong>原適應症</strong>：Treatment of moderate to severe thyroid eye disease (TED).</li>
 <li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
+<li><strong>預測適應症</strong>（20 個）：<ul>
 <li>monosomy X（99.8%）</li>
 <li>esophageal varices with bleeding（99.6%）</li>
 <li>esophageal varices without bleeding（99.6%）</li>
@@ -37,6 +37,16 @@ permalink: /news/teprotumumab/
 <li>sex chromosome disorder of sex development（99.3%）</li>
 <li>varicose disease（99.3%）</li>
 <li>X chromosome number anomaly（99.3%）</li>
+<li>gonadal dysgenesis（99.0%）</li>
+<li>Turner syndrome（99.0%）</li>
+<li>46,XY disorder of gonadal development（99.0%）</li>
+<li>male infertility due to gonadal dysgenesis（98.9%）</li>
+<li>exocrine pancreatic insufficiency（98.9%）</li>
+<li>precocious puberty（98.8%）</li>
+<li>ichthyosis, X-linked, without steroid sulfatase deficiency（98.8%）</li>
+<li>disorder of other vitamins and cofactors metabolism and transport（98.6%）</li>
+<li>dappled diaphyseal dysplasia（98.6%）</li>
+<li>xanthomatosis (disease)（98.6%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/teprotumumab/' | relative_url }}">查看完整藥物報告 →</a></p>
