@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。5 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>5 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（5 則）
 
-### [NHS issues Covid jab warning over ‘waning immunity’ – how to get yours - Yahoo News UK](https://news.google.com/rss/articles/CBMieEFVX3lxTE56VWtKNnIweG9QMHcwdHRYRXo4WmdwcmtKQ3FaMUNrYnF1eUF2UWxQQUFyNTBsZjdJMXY2b2pXZXZzSVAzUEpTRjNtMjRTbUZSbHNjOEJGYkNOTlNtMXJkQ0pJWnhDRzJlczRKdkNteTZXSkpCQjh5Yw?oc=5)
+### ["El contenido de los sueños puede verse afectado por la enfermedad de alzhéimer y puede ser una línea de investigación interesante para su diagnóstico precoz"](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Z9IBjwJBVV95cUxPT3FVdk1uOVpNMzNTYWNKNUstR1hJTlE0NnVOOG9FRF9WNmE3SGRsOHI3alFGZnVOVkFFam5ORTFocDFXT044b3VTcjBwX29fRmZ2UWVnZzZFenAzYm5fRHlNYW8wTklBTEttTVlzZmZXNl9vb2xkUk56TkVzOTkyUjV4OEhHZ2UtVXJHMGNVS2JrcFVEQWt6TGMtV1o2SkxIX1VQQUVqSldhVmhuRDNtbzJ3Rk9CS1JfbHkzRDhkLWNLQl9fcHo5Nk96cWJibmdyLVEyTlR0S2xmMnc0bElJOW1yeUhUbENseXlvcHRzTU1nVk44eVFoMXF6NmlBRF9QWklZeDRqd01KNUZOMktz?oc=5)
 
-2026-04-18
+2026-04-19
 
-來源：[Yahoo News UK](https://news.google.com/rss/articles/CBMieEFVX3lxTE56VWtKNnIweG9QMHcwdHRYRXo4WmdwcmtKQ3FaMUNrYnF1eUF2UWxQQUFyNTBsZjdJMXY2b2pXZXZzSVAzUEpTRjNtMjRTbUZSbHNjOEJGYkNOTlNtMXJkQ0pJWnhDRzJlczRKdkNteTZXSkpCQjh5Yw?oc=5)
+來源：[COPE](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Z9IBjwJBVV95cUxPT3FVdk1uOVpNMzNTYWNKNUstR1hJTlE0NnVOOG9FRF9WNmE3SGRsOHI3alFGZnVOVkFFam5ORTFocDFXT044b3VTcjBwX29fRmZ2UWVnZzZFenAzYm5fRHlNYW8wTklBTEttTVlzZmZXNl9vb2xkUk56TkVzOTkyUjV4OEhHZ2UtVXJHMGNVS2JrcFVEQWt6TGMtV1o2SkxIX1VQQUVqSldhVmhuRDNtbzJ3Rk9CS1JfbHkzRDhkLWNLQl9fcHo5Nk96cWJibmdyLVEyTlR0S2xmMnc0bElJOW1yeUhUbENseXlvcHRzTU1nVk44eVFoMXF6NmlBRF9QWklZeDRqd01KNUZOMktz?oc=5)
 
 ---
 
@@ -72,11 +72,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [From gym kit to tea bags - six plastic-packed items sabotaging your fertility - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndy16RUlqS2VWay1HeGdSQ1JFQUJVMmsxZzZoUlFPT1hDV1J1ZXdEMXQybF8tSDJ3NVNfRjlVRjZDNzZ1UU8tLW9ueGw2c3ZZUDBlc0k1U1M0RXN0VzBMZllzc1N4ektmcXdxWGswUEpnS1plNkhlNzA3MWlHbWM?oc=5)
+### [Smoothies, juice, or whole? What is the best way to consume fruit?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVTUTFMUEV5Mkd5SVdnelRkUnpZMXV1YmFGVGlPSmJzeGEyYlEtdzJvb3QyTWRFa3NNU2tIRDdKM0tpSGRNRlc0X3Q5YV9DSHpNRGtmVmUzVHhQcnZwLWE2dmFQLU5XLW5nWURSQmY1b0lNVDQzd2NwMFhEaHlaaXVzSjlMMWMtQkJJaGVQUzJ1d3NQeGxpZXltLWV5X29DUnFRMTJqOFVVdHJaRkJsQmpaM1JhUjNUQXFr?oc=5)
 
 2026-04-18
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndy16RUlqS2VWay1HeGdSQ1JFQUJVMmsxZzZoUlFPT1hDV1J1ZXdEMXQybF8tSDJ3NVNfRjlVRjZDNzZ1UU8tLW9ueGw2c3ZZUDBlc0k1U1M0RXN0VzBMZllzc1N4ektmcXdxWGswUEpnS1plNkhlNzA3MWlHbWM?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVTUTFMUEV5Mkd5SVdnelRkUnpZMXV1YmFGVGlPSmJzeGEyYlEtdzJvb3QyTWRFa3NNU2tIRDdKM0tpSGRNRlc0X3Q5YV9DSHpNRGtmVmUzVHhQcnZwLWE2dmFQLU5XLW5nWURSQmY1b0lNVDQzd2NwMFhEaHlaaXVzSjlMMWMtQkJJaGVQUzJ1d3NQeGxpZXltLWV5X29DUnFRMTJqOFVVdHJaRkJsQmpaM1JhUjNUQXFr?oc=5)
 
 ---
 
@@ -93,38 +93,6 @@ permalink: /news/multiple-sclerosis/
 2026-04-17
 
 來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
-
----
-
-### ['I was diagnosed with this common cancer after spotting a sign that I initially dismissed' - Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3gyRlJSZkdNXzRLUXhWUTVwbloxbXE2LUEzOHFNMG9pNHhzQWtsSWhJQ1ZhOVVsSXZkT2tsanZNQVNqZlV5WDdqMmlIVjFGanp6cDU0SndkWU5LU0VvWk1kOUU2OTY1V2thc1ZETEloWkhGT29qT0tnTmxxbVRUb3NIamw3ZTZCb2gzNE1BSGd3MFc4eUk4?oc=5)
-
-2026-04-17
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3gyRlJSZkdNXzRLUXhWUTVwbloxbXE2LUEzOHFNMG9pNHhzQWtsSWhJQ1ZhOVVsSXZkT2tsanZNQVNqZlV5WDdqMmlIVjFGanp6cDU0SndkWU5LU0VvWk1kOUU2OTY1V2thc1ZETEloWkhGT29qT0tnTmxxbVRUb3NIamw3ZTZCb2gzNE1BSGd3MFc4eUk4?oc=5)
-
----
-
-### [Second vaccine offered after meningitis B outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
-
-2026-04-17
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
-
----
-
-### [The silent bone condition that affects 40 per cent of adults worldwide - The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTNDQmNqckVuNG1URHNwQkpBWE5UWkVwQ08zckJlQ1pqdXJqYUpRTk1KcWtJMnhqRm1KeEFyT3VEX1htT0N0TXVmTkJ4cnp0RXAxT21WNmtacE5OZlpnYWxzZlhpdE9QMllMbUZvOEJ0cEkzZVFYUXZVbWZBLXNkMnpwT3FsU0h6emhjTkVwc3BuRVVaSjdQUXgwaXp1c19UZHAyX05yUE1SU3Zu?oc=5)
-
-2026-04-17
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTNDQmNqckVuNG1URHNwQkpBWE5UWkVwQ08zckJlQ1pqdXJqYUpRTk1KcWtJMnhqRm1KeEFyT3VEX1htT0N0TXVmTkJ4cnp0RXAxT21WNmtacE5OZlpnYWxzZlhpdE9QMllMbUZvOEJ0cEkzZVFYUXZVbWZBLXNkMnpwT3FsU0h6emhjTkVwc3BuRVVaSjdQUXgwaXp1c19UZHAyX05yUE1SU3Zu?oc=5)
-
----
-
-### [The best vitamin C serums in the UK for every skin type and budget, tested - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFd6QlF2MldPX0g0a05Ld2NWLUFKeHBLc01qTlRlMHI1ci1TUWlJVjV6bnhLS2E3dlZVNEF1amszUTFDS2xfTXFvLVozUmR5bjdkSVlCODJPY2lyTWo5MUF4X0ZZNVgwVEFSaUpCSWo0MmV5bzB0cVBjQWczeV92UUxFelA5bGM?oc=5)
-
-2026-04-17
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFd6QlF2MldPX0g0a05Ld2NWLUFKeHBLc01qTlRlMHI1ci1TUWlJVjV6bnhLS2E3dlZVNEF1amszUTFDS2xfTXFvLVozUmR5bjdkSVlCODJPY2lyTWo5MUF4X0ZZNVgwVEFSaUpCSWo0MmV5bzB0cVBjQWczeV92UUxFelA5bGM?oc=5)
 
 ---
 

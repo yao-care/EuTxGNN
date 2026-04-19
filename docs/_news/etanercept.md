@@ -14,7 +14,7 @@ permalink: /news/etanercept/
 ---
 
 <p class="key-answer" data-question="Etanercept 有什麼相關新聞？">
-<strong>Etanercept</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Etanercept</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/etanercept/
 <p><a href="{{ '/drugs/etanercept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 2026-04-19 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
-
----
-
-### [Rheumatoide Arthritis wahrscheinlich kein unabhängiger Risikofaktor für Demenz – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">arthritis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
 
 ---
 

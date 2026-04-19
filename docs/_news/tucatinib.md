@@ -54,6 +54,14 @@ permalink: /news/tucatinib/
 
 ## 相關新聞（3 則）
 
+### [Heart failure warning as symptom could wake you up in middle of the night - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0ZTeWRvODF4cFlFU1E5THdNUFM0TzZEWm00Z2RfQi1TS2QzTVFmZk5yYTJET0pVTHU0V0VXS29pYUVjb1RYZFhpVjRaQUR3VW9WeHU2bFBKNmdORG9QX2t6Y1FqaVBWWUFiakgzRDhzUDFxeWdwX200WWt3aUNTaW1fMUFYeXRC0gGOAUFVX3lxTE9KSkYzYVAtVGQyRUsybnRGSURxTElxX1lrX1ZOeHVRRWxfYmUyLTRVazE4LTJodVBJN1YwbmczdzFwVzJXVDRMUk5QRHl1cUU3VmpfWUlrcUtXZF94OTdJbVdVdDlVX1RfZTR3YWljbEY5UE1WV3Q4ZzBGRThKTzlONG8yLU9RcEotemU1dHc?oc=5)
+
+2026-04-19 <span class="news-indication-tag">heart failure</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0ZTeWRvODF4cFlFU1E5THdNUFM0TzZEWm00Z2RfQi1TS2QzTVFmZk5yYTJET0pVTHU0V0VXS29pYUVjb1RYZFhpVjRaQUR3VW9WeHU2bFBKNmdORG9QX2t6Y1FqaVBWWUFiakgzRDhzUDFxeWdwX200WWt3aUNTaW1fMUFYeXRC0gGOAUFVX3lxTE9KSkYzYVAtVGQyRUsybnRGSURxTElxX1lrX1ZOeHVRRWxfYmUyLTRVazE4LTJodVBJN1YwbmczdzFwVzJXVDRMUk5QRHl1cUU3VmpfWUlrcUtXZF94OTdJbVdVdDlVX1RfZTR3YWljbEY5UE1WV3Q4ZzBGRThKTzlONG8yLU9RcEotemU1dHc?oc=5)
+
+---
+
 ### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 2026-04-19 <span class="news-indication-tag">arthritis</span>
@@ -67,14 +75,6 @@ permalink: /news/tucatinib/
 2026-04-18 <span class="news-indication-tag">heart disease</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmFsTTVwNk9yWGxJRmF1WnJQNDB5djRZNU96b0lmWjRFQk4ydG9OYmtiTWIzYWlHMThVMUpaWmxxUGx3Um4xUGlfenJoMVF2VWNUYTQxUW8wRmhEMWM1eDNBemNxdGNVYy1POEZnUW1VRGJraTVXRE5maUlfS0dUWnpoQTVZNHdFZ3RXTVMzN3A?oc=5)
-
----
-
-### [Rheumatoide Arthritis wahrscheinlich kein unabhängiger Risikofaktor für Demenz – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">arthritis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
 
 ---
 

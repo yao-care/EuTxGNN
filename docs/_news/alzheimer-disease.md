@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Vitamin deficiency 'raises dementia risk 60%' - 9 signs that show YEARS prior - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjNqbldWbWU0WjhZYVVWSW1DSVRUWWd1UjFPUWJVeG85WFNKQ05yM0QzUHVmUFcyS1Q3MDloQXhFM0JoM25iWDlpZ1U3Zm5sRnhQUy1JaXM0UEk3aUhLY2g0ajBVWU5sRzdTR054WDhHMk05bXZJTURINFZBM3FPXzBWZzlIU1NlYkFjLTA1bEtLZw?oc=5)
-
-2026-04-17
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjNqbldWbWU0WjhZYVVWSW1DSVRUWWd1UjFPUWJVeG85WFNKQ05yM0QzUHVmUFcyS1Q3MDloQXhFM0JoM25iWDlpZ1U3Zm5sRnhQUy1JaXM0UEk3aUhLY2g0ajBVWU5sRzdTR054WDhHMk05bXZJTURINFZBM3FPXzBWZzlIU1NlYkFjLTA1bEtLZw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Could Alzheimer’s Begin in the Nerves, Not the Brain? - Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTE8ya3lVaS1BWnpfWWZIRG1fQkFuNzBpQXVqSVVnSmtyUjlEMGp2R2NsNThSMzRsX1Q1dklqcm5XTEFmQl9zX3FYeFRneFM0SDhVc3BRVk1FRVZfM3Qwd2V5MnpoZGwxSmE4N2M2a0REWGZVMF93VGprSGVtczg?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/reteplase/
 ---
 
 <p class="key-answer" data-question="Reteplase 有什麼相關新聞？">
-<strong>Reteplase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Reteplase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/reteplase/
 <p><a href="{{ '/drugs/reteplase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Heart failure warning as symptom could wake you up in middle of the night - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0ZTeWRvODF4cFlFU1E5THdNUFM0TzZEWm00Z2RfQi1TS2QzTVFmZk5yYTJET0pVTHU0V0VXS29pYUVjb1RYZFhpVjRaQUR3VW9WeHU2bFBKNmdORG9QX2t6Y1FqaVBWWUFiakgzRDhzUDFxeWdwX200WWt3aUNTaW1fMUFYeXRC0gGOAUFVX3lxTE9KSkYzYVAtVGQyRUsybnRGSURxTElxX1lrX1ZOeHVRRWxfYmUyLTRVazE4LTJodVBJN1YwbmczdzFwVzJXVDRMUk5QRHl1cUU3VmpfWUlrcUtXZF94OTdJbVdVdDlVX1RfZTR3YWljbEY5UE1WV3Q4ZzBGRThKTzlONG8yLU9RcEotemU1dHc?oc=5)
+
+2026-04-19 <span class="news-indication-tag">heart failure</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0ZTeWRvODF4cFlFU1E5THdNUFM0TzZEWm00Z2RfQi1TS2QzTVFmZk5yYTJET0pVTHU0V0VXS29pYUVjb1RYZFhpVjRaQUR3VW9WeHU2bFBKNmdORG9QX2t6Y1FqaVBWWUFiakgzRDhzUDFxeWdwX200WWt3aUNTaW1fMUFYeXRC0gGOAUFVX3lxTE9KSkYzYVAtVGQyRUsybnRGSURxTElxX1lrX1ZOeHVRRWxfYmUyLTRVazE4LTJodVBJN1YwbmczdzFwVzJXVDRMUk5QRHl1cUU3VmpfWUlrcUtXZF94OTdJbVdVdDlVX1RfZTR3YWljbEY5UE1WV3Q4ZzBGRThKTzlONG8yLU9RcEotemU1dHc?oc=5)
+
+---
 
 ### [Six bedtime habits to lower your heart attack risk, according to a cardiologist - The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmFsTTVwNk9yWGxJRmF1WnJQNDB5djRZNU96b0lmWjRFQk4ydG9OYmtiTWIzYWlHMThVMUpaWmxxUGx3Um4xUGlfenJoMVF2VWNUYTQxUW8wRmhEMWM1eDNBemNxdGNVYy1POEZnUW1VRGJraTVXRE5maUlfS0dUWnpoQTVZNHdFZ3RXTVMzN3A?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [La EPOC y el mapa desigual de muertes dentro de un mismo sistema sanitario - Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/botulinum-toxin-type-a/
 2026-04-18 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMilgJBVV95cUxQNm5NWEtXUUZYVVc0OGhuaXZjV1RKdVdqSXNzdnNaUEFYcXRTVExZWVJvZ2hBY092WEpaQ0xUNkZWX2pqZXBUZU5hQVpoTHFXUENxUUxhNHdDUEM1RGxNNDVLcmNHTENJQmVYMlM3aVMwSXBYUjA4WWtMNTlvRE5ocHVlY21kNHB5Sy1BV1h1Z0lsVzh2Q2ZqeklMQ3lwdV9ZalhUZUZTcFNjd3pUaG9yODJtNmRHNWhQUlNHRTdRYWRWSkRqcnZJUEFkZXVPT3E0eUtrdHRGWVZ2X2E3QTg4VlVOb1k3NlJWYm9fd1N2ZUx4R21ZamVSa09IV3NDcjRSTGJPTExnbWJCMUZDOUFHcWJ2YlFqQQ?oc=5)
-
----
-
-### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
-
-2026-04-17 <span class="news-indication-tag">Parkinson-Krankheit</span>
-
-來源：[Friedrich-Alexander-Universität](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
 
 ---
 

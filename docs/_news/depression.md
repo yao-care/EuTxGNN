@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Un método innovador halla marcadores genéticos en la depresión, la esquizofrenia y el TDAH - El Periódico](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGRCNzJGaFRSVWlZdm1wSzZHVGVCM3FFanptWV9HV3F5bEJKZlFrY0JPejR0U3VtR0RFNFJMQ1Z0REVIRy1yR2tGZFBVYThaNU1kSW5iMHlMZFNCQ0hQNFFuWU9fT2t2REZLXzV5dkRkVlNocDhfcWMybnJITmRBTHYyaFNtWVBDYzY5bDJ5TTlHY0Zzd3ctdmhlZ3hBVW9nbjR5ZHB30gGmAUFVX3lxTFA4YzdoLUlVZVBuLWZxU0dKYXZXV0FNcS0yS053Yjd4OWxkdHhmemRZSFNkOXMwZ3NJZ2FUazljbTJOWTJmNGtuV2E3a2NLak1jUzJhWDJKU3lNSk1seW5OS0x5QlJIMW1uQ0t1UGFkMmlNck5QQUppNDY1VGp6Wk9CYmp5SkZBVmZPUFRLOGFLcHN1aXdoVGpfU0NKVTR3V0Q1blBFNXc?oc=5)
 
@@ -58,6 +58,14 @@ permalink: /news/depression/
 2026-04-17
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimgFBVV95cUxOai0xZEVpNU9oRjUyaVRTejlLYldyVWcxaWdlZHJBYmpXNzNFanByM2tfcFdZcjV4Rm96U1I2S25mVGhsQy1LUW5lSEJPdkJBUlBfeEMxMWU0amRLN1BmWmo3MjFVaDJXTF9RZThmeUFRaFlzSkN4dzI2ckJrem8zNjZOT2RWbzlkUWRub2NlZHFud192QUtCbW9B?oc=5)
+
+---
+
+### [Warum ADHS-Betroffene oft auch unter Depressionen leiden – was hilft](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3VyMWxsM1JoRnU3ZUpwNTFQY3JmeWZiUGtVQ2owNUFHUTdMMzdUdnZpWVR1M1hhenlibGZzejc2ZklCZlJvY3BZSjgtY0ZqYnlieFp2SGNfcTZYQl9BTzVLSVMzT0VLTmcwemFaYnVVSEI2cndYV2tYQ2FWYjVPQlBpcDg4M2xvQXJqX29iMUg5TF91QUNldGwtdzdzWHJGTGhKeVhMbjhwdnVkRGJTaWZXaTQ?oc=5)
+
+2026-04-17
+
+來源：[STERN.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3VyMWxsM1JoRnU3ZUpwNTFQY3JmeWZiUGtVQ2owNUFHUTdMMzdUdnZpWVR1M1hhenlibGZzejc2ZklCZlJvY3BZSjgtY0ZqYnlieFp2SGNfcTZYQl9BTzVLSVMzT0VLTmcwemFaYnVVSEI2cndYV2tYQ2FWYjVPQlBpcDg4M2xvQXJqX29iMUg5TF91QUNldGwtdzdzWHJGTGhKeVhMbjhwdnVkRGJTaWZXaTQ?oc=5)
 
 ---
 

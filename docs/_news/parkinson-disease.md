@@ -3,7 +3,7 @@ layout: default
 title: "maladie de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="maladie de Parkinson（parkinson disease） 有什麼相關新聞？">
-<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Elle vit depuis 20 ans avec la maladie de Parkinson : "Quand tout se bloque, je pleure un bon coup et je repars" raconte Evelyne, âgée de 81 ans](https://news.google.com/rss/articles/CBMilgJBVV95cUxQNm5NWEtXUUZYVVc0OGhuaXZjV1RKdVdqSXNzdnNaUEFYcXRTVExZWVJvZ2hBY092WEpaQ0xUNkZWX2pqZXBUZU5hQVpoTHFXUENxUUxhNHdDUEM1RGxNNDVLcmNHTENJQmVYMlM3aVMwSXBYUjA4WWtMNTlvRE5ocHVlY21kNHB5Sy1BV1h1Z0lsVzh2Q2ZqeklMQ3lwdV9ZalhUZUZTcFNjd3pUaG9yODJtNmRHNWhQUlNHRTdRYWRWSkRqcnZJUEFkZXVPT3E0eUtrdHRGWVZ2X2E3QTg4VlVOb1k3NlJWYm9fd1N2ZUx4R21ZamVSa09IV3NDcjRSTGJPTExnbWJCMUZDOUFHcWJ2YlFqQQ?oc=5)
 
 2026-04-18
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMilgJBVV95cUxQNm5NWEtXUUZYVVc0OGhuaXZjV1RKdVdqSXNzdnNaUEFYcXRTVExZWVJvZ2hBY092WEpaQ0xUNkZWX2pqZXBUZU5hQVpoTHFXUENxUUxhNHdDUEM1RGxNNDVLcmNHTENJQmVYMlM3aVMwSXBYUjA4WWtMNTlvRE5ocHVlY21kNHB5Sy1BV1h1Z0lsVzh2Q2ZqeklMQ3lwdV9ZalhUZUZTcFNjd3pUaG9yODJtNmRHNWhQUlNHRTdRYWRWSkRqcnZJUEFkZXVPT3E0eUtrdHRGWVZ2X2E3QTg4VlVOb1k3NlJWYm9fd1N2ZUx4R21ZamVSa09IV3NDcjRSTGJPTExnbWJCMUZDOUFHcWJ2YlFqQQ?oc=5)
-
----
-
-### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
-
-2026-04-17
-
-來源：[Friedrich-Alexander-Universität](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSVpLTlY4VFV4bFBRZ0VHeGw4eVFvY0lJcmU2LWFKRkRwWjFkd3ppNzNRNzhGb2F5U2NsNkxIeHAwVXVjQzN4ODlhLW5FenYzWmVLRUhkSW1RaDZMSVBwdG9SVjFlMXlYWlNJMWtzUFhEMUNyNEdiWHEzQmw3SkVaRXNQdUdxdzZ0MGdrc0k0U08xSE1IdVFoNGUxYUNEVjdZR1FLNDJ6NlJsOXRZNDV5aVBOSEdpdmFVRHRBQnF0bk5LTDJYR09oOXhCNl9iTmVYVzBmcA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/eravacycline/
 ---
 
 <p class="key-answer" data-question="Eravacycline 有什麼相關新聞？">
-<strong>Eravacycline</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eravacycline</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/eravacycline/
 <p><a href="{{ '/drugs/eravacycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（28 則）
+
+### [Pflanzliche Lebensmittel schützen Ihre Gesundheit - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
+
+2026-04-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
+
+---
+
+### [Phytotherapie gegen Schleimhautprobleme bei HNO-Tumoren](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOURNSmFxbVFoQXJCcFNITXkzSWI2UWs2bVJOZWNMZkNCNDJTbUFsUW9JSmk0dmxMVDlZZXNrZXd5UWcxUFN0Z1NLci05V2p1bm4xMl82c2VGdThWVTBULTVQTkNKNXNLTlo2V0pnT2FvbHF5YWNfd0MtV3lDRHAxY0RzOE55QXl4N0ZiR2VMRXVnMDNQbnl2RXNNak9zS0JUeHhJ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">tumor</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOURNSmFxbVFoQXJCcFNITXkzSWI2UWs2bVJOZWNMZkNCNDJTbUFsUW9JSmk0dmxMVDlZZXNrZXd5UWcxUFN0Z1NLci05V2p1bm4xMl82c2VGdThWVTBULTVQTkNKNXNLTlo2V0pnT2FvbHF5YWNfd0MtV3lDRHAxY0RzOE55QXl4N0ZiR2VMRXVnMDNQbnl2RXNNak9zS0JUeHhJ?oc=5)
+
+---
+
+### [La maladie « du foie gras » touche plus d’une personne sur six dans le monde - Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
+
+---
+
+### [Unfruchtbarkeit und Krebs: Studie findet möglichen Zusammenhang bei Männern](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUmM4S0dIY0ZEREtCLUNNTElTYThtX1RIMFpQbkdGcGQyY3NEVnREM00wNnJ5a05YeEt1UnBnN1ZweFJBTEZ4ZGZ0ckZXb19uaWd4c3kycXdNSXdyNGZqSTJJUjhMQ1RITm5KMHBqNVEtZTc2R19NRl9vbDlyWnZETjByUlpnRmo1T2dKYnM1NWNMSWVsMmhCMDNkMEsyVmViVGpiVzZjcHFaRXcwMGhmMFZDbDNaLTVXTzdTUHFjT3ByYkFndVk4UUktSjQ4enc?oc=5)
+
+2026-04-19 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUmM4S0dIY0ZEREtCLUNNTElTYThtX1RIMFpQbkdGcGQyY3NEVnREM00wNnJ5a05YeEt1UnBnN1ZweFJBTEZ4ZGZ0ckZXb19uaWd4c3kycXdNSXdyNGZqSTJJUjhMQ1RITm5KMHBqNVEtZTc2R19NRl9vbDlyWnZETjByUlpnRmo1T2dKYnM1NWNMSWVsMmhCMDNkMEsyVmViVGpiVzZjcHFaRXcwMGhmMFZDbDNaLTVXTzdTUHFjT3ByYkFndVk4UUktSjQ4enc?oc=5)
+
+---
+
+### [Mortalità per tumore: l'Italia fra i Paesi con i risultati migliori nella Ue - Corriere della Sera](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUG5xZW55V1Y0cmxJRUVYcWxyM19tdkM1b3lOVldYZHc0Q2NRUDNlMS16UDhqb1Jqdm4tV3F5STBySWJpYUo1STQwdUdYZ3hxUE04Qzg4X210Sm4wMU54OXJlMHJLQmNUNDFMZ1UweVpILURIUW5OMF9FTjVzSzUzTUlJRHV0Wks1bGR1ei1kNXFGRWdiLVRkbDUwaWs4N3Y1azVkOTB6OU1mNHJ2bmVkUk5NTG5tSnRFcUhEcll5OGtoUTRWUkhqSmx3c3hPcEJtVGJOSmpUaUJWMVFaUmowbjZCNmRWNHZ5Z1ZLeUY3eTFkYV83N2VfTnZPZ3pEQ1RMRHZMZTN0ZEhoLVXSAZACQVVfeXFMUHQ5NEhqOXBZTzdIMXhoNUZzYkVoT2tiRU00WnA3cU1GTnRSRDRkVXhYZlNHSEtnbVY5WlZsdl9lNmlrTGgwcHlNM0dqZ2VJeERIcXhRUHk1WXZqRUFCdnNvdGpOcDRLbFVZQUdEMFNwQmhuOVpOMEVyNTNrT1Uxb0N2bnpYTDEtRy1QZXVPRXBIRDloWVpUYUEtQksxWDUtY1JRWVFMaUNxZ2FLTjc2Z1ZJRGdTWjJfc05nYk16eWQ0dWVTUnYtaFlRdVB0eEdLX2t5cWFuaVl0VnZaa0pkUDM5ZFQxS2MwVzFRMlJFTFd0bWJrd0h3SnFRNFk3Rkl6ejY0ZGZWbm85SG10ZGpxV18?oc=5)
+
+2026-04-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUG5xZW55V1Y0cmxJRUVYcWxyM19tdkM1b3lOVldYZHc0Q2NRUDNlMS16UDhqb1Jqdm4tV3F5STBySWJpYUo1STQwdUdYZ3hxUE04Qzg4X210Sm4wMU54OXJlMHJLQmNUNDFMZ1UweVpILURIUW5OMF9FTjVzSzUzTUlJRHV0Wks1bGR1ei1kNXFGRWdiLVRkbDUwaWs4N3Y1azVkOTB6OU1mNHJ2bmVkUk5NTG5tSnRFcUhEcll5OGtoUTRWUkhqSmx3c3hPcEJtVGJOSmpUaUJWMVFaUmowbjZCNmRWNHZ5Z1ZLeUY3eTFkYV83N2VfTnZPZ3pEQ1RMRHZMZTN0ZEhoLVXSAZACQVVfeXFMUHQ5NEhqOXBZTzdIMXhoNUZzYkVoT2tiRU00WnA3cU1GTnRSRDRkVXhYZlNHSEtnbVY5WlZsdl9lNmlrTGgwcHlNM0dqZ2VJeERIcXhRUHk1WXZqRUFCdnNvdGpOcDRLbFVZQUdEMFNwQmhuOVpOMEVyNTNrT1Uxb0N2bnpYTDEtRy1QZXVPRXBIRDloWVpUYUEtQksxWDUtY1JRWVFMaUNxZ2FLTjc2Z1ZJRGdTWjJfc05nYk16eWQ0dWVTUnYtaFlRdVB0eEdLX2t5cWFuaVl0VnZaa0pkUDM5ZFQxS2MwVzFRMlJFTFd0bWJrd0h3SnFRNFk3Rkl6ejY0ZGZWbm85SG10ZGpxV18?oc=5)
+
+---
 
 ### [Los científicos coinciden: cocinar con gas libera una sustancia cancerígena más peligrosa de lo que se creía](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkh6LUFHdV9zMTZiNTE1NW1lR0dHU3BlM3pUUUowMFFqUUp6VWd5SWlQQ1hwaUlJQlhiRHdHdEE3SGhVUzN4Z2pZcndBQ2dITmZfZXFQQ2ZWNnBYYkJjNWVDTml5NXVSZGF6SVA4Qy1lNm9WTGdRWVplUVI3bFJ0NzBCOWdWd1czWlF5REZjVng4N3YwSXlwUHRocm1OS2lCdWV3U0JrRlhhRXUyWk9RWWp0SDFBVG9fQm1wZE0tSlhXVjRoMl96b1V6TkJyTzVzXzN0VThwTGlwYXp5d0g4UkFJczJiTERYUHfSAe8BQVVfeXFMTkgtdzlleFRvYjB0S3hEcEhNcXkxNFdnSUhINVZGVExld3gtTElsYTZEUXVKVjhBWHhQYlROdmdSb1lucTNWWFI2Rk5vd2FMN2FkdldEUE9HTHVCZ0hjSVUxNlgzV3hucmxNRHd0RExJcVhLeXRUVTFtd2ZNNzZPY2E0Yl83UGtRcE1DUmsyRlRia3J6RTN4WGxkc2t1blN5T0tpTWUyTWZVMDFNTlpvajVoSlJfaElMZW5YOWo3TlI2ODFVUjlhSTNrNTJ2aExoOWtGT3BpYlIzbGhWUTl5c251NWh4OGl2elQ3LVdzbVE?oc=5)
 
@@ -70,11 +110,35 @@ permalink: /news/eravacycline/
 
 ---
 
+### [Immuntherapie gegen Krebs: Was gestern wie Science-Fiction klang, rettet heute Leben](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk1fQXpIR0NYV3hTTXZrQmh3TXlXWEstR1JnVDU5bkFteVBHTGw0c0J4VU5qUm12a09SOWJldjQ2YzBvQ3VqdXpST3UweVVMQXgzX2NMS3JrS3MxUVUxYXRza1B5MW01TW1lTTNETlhKQXlpVHh6MXFib2FwT0c1eXk4Z0hhOWpQYndwT1ljaVhLOEVpaFNXMkttM3BpYnZMS3lZTmRqVDhETG9KLUM0aQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">Krebs</span>
+
+來源：[Diebewertung](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk1fQXpIR0NYV3hTTXZrQmh3TXlXWEstR1JnVDU5bkFteVBHTGw0c0J4VU5qUm12a09SOWJldjQ2YzBvQ3VqdXpST3UweVVMQXgzX2NMS3JrS3MxUVUxYXRza1B5MW01TW1lTTNETlhKQXlpVHh6MXFib2FwT0c1eXk4Z0hhOWpQYndwT1ljaVhLOEVpaFNXMkttM3BpYnZMS3lZTmRqVDhETG9KLUM0aQ?oc=5)
+
+---
+
 ### [Calidad vs cantidad de la grasa en la dieta: cómo influyen el ácido oleico y palmítico en el desarrollo de la diabetes tipo 2 - Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVhpWEtxVkhOXzJUT09yV200SEZYX0lqWHdPTXBKQ21wZHZZQ19FdXo0OTFReVR6RHh0RmF3UVQydEw5WlVfMmEtZ1F5NUowT1pmaDNfaWZpaFBySUl5R2RqbGxFSUc0Yk9SRWFJTXk5bllxaTFQVVpZdllDVGUxY0FPY1ZBUXZaMV9KUTVJWHRncUZSeWpsSXBkYXR1MWZRNmtEaF9pX1dWWGNSWDY0eG1PazU3WFl2MC1yUEVSU2VpYWVKekpSNl9rekVQX1JLRTQzVHdFeXlwMExIZGJvc2Nn?oc=5)
 
 2026-04-19 <span class="news-indication-tag">diabetes mellitus</span>
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVhpWEtxVkhOXzJUT09yV200SEZYX0lqWHdPTXBKQ21wZHZZQ19FdXo0OTFReVR6RHh0RmF3UVQydEw5WlVfMmEtZ1F5NUowT1pmaDNfaWZpaFBySUl5R2RqbGxFSUc0Yk9SRWFJTXk5bllxaTFQVVpZdllDVGUxY0FPY1ZBUXZaMV9KUTVJWHRncUZSeWpsSXBkYXR1MWZRNmtEaF9pX1dWWGNSWDY0eG1PazU3WFl2MC1yUEVSU2VpYWVKekpSNl9rekVQX1JLRTQzVHdFeXlwMExIZGJvc2Nn?oc=5)
+
+---
+
+### [Las escalas clásicas no bastan: la medicina busca nuevas vías para anticipar el riesgo cardíaco en pacientes con diabetes - Gaceta de salud](https://news.google.com/rss/articles/CBMiogJBVV95cUxPOFphU3ByOElLZjVxaERjRGx3TmJtaWsxSFJ0cVBLblZ2SGNQNG8yQWRnY3NpdVg2ZU9Sblp1ZkppUGtyMk5VZ1VCQndHUm5vX1FVaENQZzlJTURTekNSMDAwTF9WWm9tSC11bnZEV3VGcTJQT0dheDVkS3I1LUdnZ2NORkZWdzFjRmZzNUdrTVlMTnNyZlB1Tm0zbEJ3NHBOUExZTjRRcXYxY2xibEYtY19UNmF3MGhjMDkwM0FraTJLdTNHVUxfZndzWlVyMW9aMU5TcUlyTFE2STVOY05DNTROd29mamhqWEFVOTFMTEptVkdsX2d3X1RuRzZ4OF9sanpYcDRBeEp1bktEZXVqRjJOaUhXU0hGV25CNThoakxPQQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiogJBVV95cUxPOFphU3ByOElLZjVxaERjRGx3TmJtaWsxSFJ0cVBLblZ2SGNQNG8yQWRnY3NpdVg2ZU9Sblp1ZkppUGtyMk5VZ1VCQndHUm5vX1FVaENQZzlJTURTekNSMDAwTF9WWm9tSC11bnZEV3VGcTJQT0dheDVkS3I1LUdnZ2NORkZWdzFjRmZzNUdrTVlMTnNyZlB1Tm0zbEJ3NHBOUExZTjRRcXYxY2xibEYtY19UNmF3MGhjMDkwM0FraTJLdTNHVUxfZndzWlVyMW9aMU5TcUlyTFE2STVOY05DNTROd29mamhqWEFVOTFMTEptVkdsX2d3X1RuRzZ4OF9sanpYcDRBeEp1bktEZXVqRjJOaUhXU0hGV25CNThoakxPQQ?oc=5)
+
+---
+
+### [Cancer-hit Michael needs £20k for treatment abroad as NHS powerless - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2FuMnpSeW9NSldmbk0zTEhwRmY5Qk9FZlZRcUxwbkluWjBGYXVISWNVd19ROXNiczJCeUJWSjlCNEJKYkJVMTgyQ09uN2FvS2cwOUN1M3Rjb3g1RHdUSTh6MU85Z1Itb2kxVFkxcndTQzY2VUZyT29ocFIya2pxRWVQOW1QNGItZktPU0hhQl95eXJaaFFTekJR?oc=5)
+
+2026-04-19 <span class="news-indication-tag">cancer</span>
+
+來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2FuMnpSeW9NSldmbk0zTEhwRmY5Qk9FZlZRcUxwbkluWjBGYXVISWNVd19ROXNiczJCeUJWSjlCNEJKYkJVMTgyQ09uN2FvS2cwOUN1M3Rjb3g1RHdUSTh6MU85Z1Itb2kxVFkxcndTQzY2VUZyT29ocFIya2pxRWVQOW1QNGItZktPU0hhQl95eXJaaFFTekJR?oc=5)
 
 ---
 
@@ -99,14 +163,6 @@ permalink: /news/eravacycline/
 2026-04-18 <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxORW80Wm5xYnctQ0hMaUFVYXNhazQxRjRtaWxOTkFhdVhha1FUN19QUm9WNVlDQ1dpb0FiN214WmczZGJBY1RlRGVFTWlMN3VqdmgxX3kyWjIyQlR3bEtlYlZFbEQ1azRHSkJpNTNBRlBraU5IYWVXZzNWdC01ZTVqaVIyZWRhUTBHOS1QSUJlZGJSM1hMY29vcjIyaTdCSXo5?oc=5)
-
----
-
-### [Remisión de la diabetes tipo 2: la pérdida de peso, factor clave para lograr el objetivo - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
-
-2026-04-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
 
 ---
 
@@ -142,14 +198,6 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Toenail sign that could be warning of potentially deadly cancer, expert says - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1RYa3J2Qm9iSnh4eUpMMTdpd1BXOVBpdWk3Wi1HZDFvNGxBUl9rR0t6ZUxRM0hZX3lCbzk2T2pocGhaVkl0TkE0T2UwMEJCcXpfb1ZVbFNpM3ZLdnRDRmdpYUpieHFCQ2xobWF6MXQ3TkZoV3d5YS03N0UzZ3Yzdi13YXR4UUpQdVFzdtIBkgFBVV95cUxPVy1rczZIb3hlZjcwS01IYnlELUJjYnFhU3J6eGw1X2VXdjJ0Y1ZheTBfZUozWm0ybXc1UW95OWVScG4tb2lwY0h3b0xOWXFrZTZMY05LN1p5OUNIVGxRZC0wR19OTVMxOWYyQmVjSlRpMU9TTGtGajlaQTZ2YXJkVDRxMFhGcEQwWk1MR28taXFFQQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1RYa3J2Qm9iSnh4eUpMMTdpd1BXOVBpdWk3Wi1HZDFvNGxBUl9rR0t6ZUxRM0hZX3lCbzk2T2pocGhaVkl0TkE0T2UwMEJCcXpfb1ZVbFNpM3ZLdnRDRmdpYUpieHFCQ2xobWF6MXQ3TkZoV3d5YS03N0UzZ3Yzdi13YXR4UUpQdVFzdtIBkgFBVV95cUxPVy1rczZIb3hlZjcwS01IYnlELUJjYnFhU3J6eGw1X2VXdjJ0Y1ZheTBfZUozWm0ybXc1UW95OWVScG4tb2lwY0h3b0xOWXFrZTZMY05LN1p5OUNIVGxRZC0wR19OTVMxOWYyQmVjSlRpMU9TTGtGajlaQTZ2YXJkVDRxMFhGcEQwWk1MR28taXFFQQ?oc=5)
-
----
-
 ### ['I'm in remission for the first time due to new cancer drug'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VeDNUb1NET1Axd3d1NG1PUXg2ZktDTC1US2RNU01GYmI2S2VlUHFKRmFQYm1tS3JlM3Q5XzZhYmVvLUJXM2NmU1k4YnhiaXdlQl9zRDVUSGgxNC1D?oc=5)
 
 2026-04-18 <span class="news-indication-tag">cancer</span>
@@ -171,14 +219,6 @@ permalink: /news/eravacycline/
 2026-04-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere Lecce](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOUXdNUWppWGFPMGVfd2FVYnpOSjJoVEdaUGFTaU51TnQxamUtaWpZQ0dBS1dIUFV3NVU1bEZ1bm9NQV9DSXZBSzFfcDFrVXNaaXFLMTRndVlDdlFWWU5XdFRPMFZ0ZEFBeEMwY3FBRXZhZF9DVElLeFBjQjRpSHFlaWZMQ3pIYWtLRnlEbDIxcGRKcG02NkwwS0dqeXVKR29wdmgwTFVhQUZENjZVR2NwX29PdXhjcVlBdlBxYlFrRDVNUG1UNFB0Nk8wZ3JfLS1vNVNMbXprcEk4cE9GNU5Eb3AzLTc0Y0FQVHRDalV4cUg5NUs0aTNEWXVlUEJfaEowVjgtVHJIRmVkSlFodXNiQXZnRFZSWU5JOFFTOTh4QmVSTUlIUWhuSWd30gGvAkFVX3lxTE9faXNTNDQ0ZllSbFBvUEo0YVBNZ3VQQk50dXpnZWJLQTJ2b29MYmF2c3haaDNGbGY2c2xFUzRESUhVQjkzeUd1VmsxbWZLZ0dkRE9MeS1OckFiS1JDNDh0Tl95VTJDcUxvOVQ4VUlCQkNQWTRPTmtUMzQ1UnYxMHFOQzNxc29xWGtKZmMyR0NLbFBzY2tqMDVMWVkzV2I3Vm5BalEtYk1wZHhhaGg2N2NxRl8xZjY5bmRLaFZtVWNObDR1dTFwS2pPMTdnZFBsOWp3VHU5WkhvSGpEOGJwcEd2MEY4LWhUWGdWXzBSQnpsUTBRdG5RVkdORE0yZnJWVUcxX01YYWR6NmZsVk5hWlhrek5ERGhGMl91NFhkc2pLUVJDSC1CT3ZEZ1plRm53SQ?oc=5)
-
----
-
-### [Immuntherapie gegen Krebs: Was gestern wie Science-Fiction klang, rettet heute Leben](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk1fQXpIR0NYV3hTTXZrQmh3TXlXWEstR1JnVDU5bkFteVBHTGw0c0J4VU5qUm12a09SOWJldjQ2YzBvQ3VqdXpST3UweVVMQXgzX2NMS3JrS3MxUVUxYXRza1B5MW01TW1lTTNETlhKQXlpVHh6MXFib2FwT0c1eXk4Z0hhOWpQYndwT1ljaVhLOEVpaFNXMkttM3BpYnZMS3lZTmRqVDhETG9KLUM0aQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">Krebs</span>
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk1fQXpIR0NYV3hTTXZrQmh3TXlXWEstR1JnVDU5bkFteVBHTGw0c0J4VU5qUm12a09SOWJldjQ2YzBvQ3VqdXpST3UweVVMQXgzX2NMS3JrS3MxUVUxYXRza1B5MW01TW1lTTNETlhKQXlpVHh6MXFib2FwT0c1eXk4Z0hhOWpQYndwT1ljaVhLOEVpaFNXMkttM3BpYnZMS3lZTmRqVDhETG9KLUM0aQ?oc=5)
 
 ---
 
@@ -206,11 +246,11 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Diabetes Drug Metformin Could Reduce Insulin Needs For People With Type 1 Diabetes: Study](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnJCWTFRbVBzX2lQQlJQZmdjZVZ3UWxWcndvVGE1aHdfWnhQVkR5Q2wxVEx1V0kwRUVxVV9ISmhCajhRUEsyNDhyMWRkbkFyR25TMWJ2cnlxajlZTzhidjhZZ0p0NHdhdVlwc3ZkWHo1MEI4Z1dJMnNlenBPaWh0MUlKMFhuc3cyR3JyRm5LbUJWMk1sRHFnX0tmd05zZnQyY1ZpWkNkLXFkQnp0VGR4MzFMTHpINDNyQzlkMEEyXzE3d1nSAcsBQVVfeXFMUHRLTmY5R3lMZ1FPR1VlT0VBMVFoNG1ZeGxkeXNxU3RBSDFMRUNCUTV5enE1YUFOejV6OVU0WFBJeENZVWZObVVwNTh4dzNZRU1TNVNUWkIyZjFlUGpDTHVodk1xVjF2T2VnRVZMN09kcnJFX2k3YVBBZTB3Qjc2UlFLYjlqUlRYMWtwa0FnZVA4T0o0UGh5S2pqVWczRHRsVHFJX2ZUX3VQcjA1QnR3cGVGZy03RGhxajM3SHBGV1VPSDUxTk9GQkVjUk0?oc=5)
+### [Por qué médicos y dentistas deben trabajar juntos para tratar la diabetes de forma efectiva](https://news.google.com/rss/articles/CBMisAFBVV95cUxQalE4bzE1ekpsdWZURzdNOHAxeVlzUFlhS2piUmkxSFJKamdPUGRQcVFTcHNXZEdzZmRCbnM5WlV3UEdvcVZOMzE1VDc0RXpnclRFREFaaXdmMnAzZG1SdHZzeFduTjZWZXE3cjFGZzZxUzBES3lLcThDbUE0WlVKVThSWmtzQXlBdDJZNTg3OVY1UHZyVUxPZWtwMGhZYTBfN2JNa01LNGpYdDhJMmgzOQ?oc=5)
 
-2026-04-17 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+2026-04-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[NDTV](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnJCWTFRbVBzX2lQQlJQZmdjZVZ3UWxWcndvVGE1aHdfWnhQVkR5Q2wxVEx1V0kwRUVxVV9ISmhCajhRUEsyNDhyMWRkbkFyR25TMWJ2cnlxajlZTzhidjhZZ0p0NHdhdVlwc3ZkWHo1MEI4Z1dJMnNlenBPaWh0MUlKMFhuc3cyR3JyRm5LbUJWMk1sRHFnX0tmd05zZnQyY1ZpWkNkLXFkQnp0VGR4MzFMTHpINDNyQzlkMEEyXzE3d1nSAcsBQVVfeXFMUHRLTmY5R3lMZ1FPR1VlT0VBMVFoNG1ZeGxkeXNxU3RBSDFMRUNCUTV5enE1YUFOejV6OVU0WFBJeENZVWZObVVwNTh4dzNZRU1TNVNUWkIyZjFlUGpDTHVodk1xVjF2T2VnRVZMN09kcnJFX2k3YVBBZTB3Qjc2UlFLYjlqUlRYMWtwa0FnZVA4T0o0UGh5S2pqVWczRHRsVHFJX2ZUX3VQcjA1QnR3cGVGZy03RGhxajM3SHBGV1VPSDUxTk9GQkVjUk0?oc=5)
+來源：[nacion.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQalE4bzE1ekpsdWZURzdNOHAxeVlzUFlhS2piUmkxSFJKamdPUGRQcVFTcHNXZEdzZmRCbnM5WlV3UEdvcVZOMzE1VDc0RXpnclRFREFaaXdmMnAzZG1SdHZzeFduTjZWZXE3cjFGZzZxUzBES3lLcThDbUE0WlVKVThSWmtzQXlBdDJZNTg3OVY1UHZyVUxPZWtwMGhZYTBfN2JNa01LNGpYdDhJMmgzOQ?oc=5)
 
 ---
 
@@ -222,14 +262,6 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Tumore al pancreas, svolta nella ricerca: Pisa tra i centri del farmaco Daraxonrasib che raddoppia la sopravvivenza - Il Tirreno](https://news.google.com/rss/articles/CBMikwJBVV95cUxNQ0ZiTHR6c2VEWTYwSThsakVhLVZuUk5DLU1NYmJWX285aDlJT0YycHBNSEs2VkRlaFZhc0VuYkxFMlpmcWJ4M0lrZGJUVHpzX1did2lZeVJIYUJKamtqUUlPcGlHblUyZ3hqWWxmYjA5TF92c1Fza211TVB4Wjk3QkxEdkt1aGQ3QVhwb0hwdFJlbW9lTDdHbUtEejRjdjU0dnhVUWZvV0JmZHRLWHVsTVdPRVpaOEh5YURoWl9OLWM0WFFkWFQ5TmV3Qzc3V3V6aS1EX09wSzBFVmtJTmh3b3o5ZXZsM0l6OU9wdWJGd3NqeWJXREF4UkZzaVVmWGJleUpRSWZQUGVOTzh1cWgwRFhMdw?oc=5)
-
-2026-04-17 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMikwJBVV95cUxNQ0ZiTHR6c2VEWTYwSThsakVhLVZuUk5DLU1NYmJWX285aDlJT0YycHBNSEs2VkRlaFZhc0VuYkxFMlpmcWJ4M0lrZGJUVHpzX1did2lZeVJIYUJKamtqUUlPcGlHblUyZ3hqWWxmYjA5TF92c1Fza211TVB4Wjk3QkxEdkt1aGQ3QVhwb0hwdFJlbW9lTDdHbUtEejRjdjU0dnhVUWZvV0JmZHRLWHVsTVdPRVpaOEh5YURoWl9OLWM0WFFkWFQ5TmV3Qzc3V3V6aS1EX09wSzBFVmtJTmh3b3o5ZXZsM0l6OU9wdWJGd3NqeWJXREF4UkZzaVVmWGJleUpRSWZQUGVOTzh1cWgwRFhMdw?oc=5)
-
----
-
 ### [Da topi anziani nuovi indizi sul legame tra età e tumori. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
 
 2026-04-17 <span class="news-indication-tag">tumor</span>
@@ -238,91 +270,11 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Un experto alerta en España: las escalas de riesgo cardiovascular en diabetes pueden no adaptarse a todos los pacientes - El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
-
----
-
 ### [Un nuovo test del sangue rivela il tumore al pancreas nelle fasi iniziali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEY0VlNzT1I2eF9fSVY0cnlTckV0MzJwcXRGTXdIczNlZWdnVG55cDNlN1RiZ0N3TjhxNHNmNW1SSnYyc3RxV3EzUkZxbGRuM2NrM3M5am56djYwS3VlN2lfV3I3cldJTDI0aXNpaTlWaW1ocENHWGVEQXlJNDFOWlRISExRcm5TUThUR2RpRmJRMVpaUlFKbm9DLXdMR0lzU19YWQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEY0VlNzT1I2eF9fSVY0cnlTckV0MzJwcXRGTXdIczNlZWdnVG55cDNlN1RiZ0N3TjhxNHNmNW1SSnYyc3RxV3EzUkZxbGRuM2NrM3M5am56djYwS3VlN2lfV3I3cldJTDI0aXNpaTlWaW1ocENHWGVEQXlJNDFOWlRISExRcm5TUThUR2RpRmJRMVpaUlFKbm9DLXdMR0lzU19YWQ?oc=5)
-
----
-
-### [Bowel cancer test change sees rise in diagnoses](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV3d5SlVERUVRRjFVcTZtM0NrUlF0M2VKZGJYM3NvVTA3SXdOU1VuRGVWOHVldzRJQWk3SnJqd18tZDVKdEkxTmlxLTk3Tk55a1pXUi1pQlZaVUZy?oc=5)
-
----
-
-### ['I was diagnosed with this common cancer after spotting a sign that I initially dismissed' - Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3gyRlJSZkdNXzRLUXhWUTVwbloxbXE2LUEzOHFNMG9pNHhzQWtsSWhJQ1ZhOVVsSXZkT2tsanZNQVNqZlV5WDdqMmlIVjFGanp6cDU0SndkWU5LU0VvWk1kOUU2OTY1V2thc1ZETEloWkhGT29qT0tnTmxxbVRUb3NIamw3ZTZCb2gzNE1BSGd3MFc4eUk4?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3gyRlJSZkdNXzRLUXhWUTVwbloxbXE2LUEzOHFNMG9pNHhzQWtsSWhJQ1ZhOVVsSXZkT2tsanZNQVNqZlV5WDdqMmlIVjFGanp6cDU0SndkWU5LU0VvWk1kOUU2OTY1V2thc1ZETEloWkhGT29qT0tnTmxxbVRUb3NIamw3ZTZCb2gzNE1BSGd3MFc4eUk4?oc=5)
-
----
-
-### [Rheumatoide Arthritis wahrscheinlich kein unabhängiger Risikofaktor für Demenz – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">arthritis</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGdFZEhYaGFEb1FoV2ZPYXMxb2pGVlEzbWd4MU5rM0FqTFlQd2lHbmJkdTk5VzZISE44X09fTnRDTkJxR3ZvUEtpbjNrVkZzWVRMa1ROX2I2WkM0T29iYWlnLUI1bmhpdXlyWXp3cmFqVnNHNERkTm0xUzFtQ1dJQUtHLVpjUi1GVlJyZjNTdXJaelNHbDBRV3lrOEx2SmI0cl9ZUjVhd3hrQ0UwZ0dkM1VTMU41NEFKZ3BBelMxWlV2aXFRbmsweldqNi1YMkU0NDBBMk5kbVpuMHVZYUlCZQ?oc=5)
-
----
-
-### [Diabete, ecco perché camminare nel pomeriggio è meglio della mattina: uno studio rivela l'orario ideale - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE43ZGRRbVdlNGNHYWdDMDRybE5jSG9LbzdzaXQzWWMxYXRwb2F4a2tZeFlQZVNEOUgwVUhieWFRNjAzR1k0cVNfTU1BaXlRSVV6bEF0bVRoNFFMSlkzMG1JWTJ0Z1pkMGJfaUdEWlloM3ZkVHNmSUtSd3NLQ2Z0VWNLMkFHcjNKc1FNV2ZuamhPODRoTWl3bEJTcy12S05IOFpB0gGQAUFVX3lxTFA0bmJUdXVkQTQyRXlJeHhfT3RJVmdQVENqdkNQM3NMLUYzTWhFQlg3WGRObzhPcFN4Q1JzMVhKLUFMdkJJNThUNnM3R21ZbXZwMXFuMFQyQWhXV3dDYVI5RWJ2akN5aGRIdWVGWVN0Z0VET3l2SHdIYVhUSFZlNnJGWGFKVmVjNkdra2NoZmNOSg?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabete</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE43ZGRRbVdlNGNHYWdDMDRybE5jSG9LbzdzaXQzWWMxYXRwb2F4a2tZeFlQZVNEOUgwVUhieWFRNjAzR1k0cVNfTU1BaXlRSVV6bEF0bVRoNFFMSlkzMG1JWTJ0Z1pkMGJfaUdEWlloM3ZkVHNmSUtSd3NLQ2Z0VWNLMkFHcjNKc1FNV2ZuamhPODRoTWl3bEJTcy12S05IOFpB0gGQAUFVX3lxTFA0bmJUdXVkQTQyRXlJeHhfT3RJVmdQVENqdkNQM3NMLUYzTWhFQlg3WGRObzhPcFN4Q1JzMVhKLUFMdkJJNThUNnM3R21ZbXZwMXFuMFQyQWhXV3dDYVI5RWJ2akN5aGRIdWVGWVN0Z0VET3l2SHdIYVhUSFZlNnJGWGFKVmVjNkdra2NoZmNOSg?oc=5)
-
----
-
-### [10 000 pas par jour, perte de poids, intensité… Le docteur Laurent Lély démêle le vrai du faux sur la marche - Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
-
----
-
-### [Expertos demandan una actitud más proactiva en prevención y detección precoz de la diabetes en la consulta dental - Gaceta Dental](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEVPak9EdGFyZ3lReGZIMlZXbnJtZUpnRlZDTmhfbjZUMl9uRlBZYTl4YXBLRGJZeVR0ckd6cS1YLXFReTFxcjRZejhKekJSNnNGY0c1QnlnRUV1Qk8ySVprSW1WMDducjNXMWJyUk4wZF9mR2JCUFp1SC1ibXJka1Z1OVVZYUp6UE9fZjlnUQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEVPak9EdGFyZ3lReGZIMlZXbnJtZUpnRlZDTmhfbjZUMl9uRlBZYTl4YXBLRGJZeVR0ckd6cS1YLXFReTFxcjRZejhKekJSNnNGY0c1QnlnRUV1Qk8ySVprSW1WMDducjNXMWJyUk4wZF9mR2JCUFp1SC1ibXJka1Z1OVVZYUp6UE9fZjlnUQ?oc=5)
-
----
-
-### [Expertos reclaman más recursos para garantizar la educación terapéutica en diabetes - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1FGeVZRVTBIV21vTlNrNVlhT3UxN1hPd2tVWlVRQ1lSX1BWelFCd05kclhmX1cyMzhQT3VmeHhkTXJldFRxNFhtcWtUVXRoRVpZczB4alZsckl3eldyU3VfZzVzS1pnU2kzejNoMm1HWDhNWmxsb0pOc3ZyRzUtaUVTa01CMmlpMTN0NjlIeUJiZEdFNkpGTU9KRG9nNWJzbTdZWDdKV1ZpVDhOU0R1anJtU0xJMjNaVktBMFp2MNIBugFBVV95cUxPNC1UMUlRODRQYTlsaDc0aEJHNWk3NWJUaDFWLU5zYUREbmZCdjN3NS1pUDMyQ2xOdnktMXlpQWtqTnNRU1Z5NjR1M0NMRmNtUjdmV0VvS0ZXVmpEdDdJTnQzdVF1ZWhfaGY4MjZwdWRyOTBrOTVaSlhfOTI1ckZ5OHl0T2FGT0JlSFc0RC13MmxJT3hmLWJFMXRybDZtUG5RaGdQekNqQW1SVHppMlFuS0dCRks4UmN3Q1E?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1FGeVZRVTBIV21vTlNrNVlhT3UxN1hPd2tVWlVRQ1lSX1BWelFCd05kclhmX1cyMzhQT3VmeHhkTXJldFRxNFhtcWtUVXRoRVpZczB4alZsckl3eldyU3VfZzVzS1pnU2kzejNoMm1HWDhNWmxsb0pOc3ZyRzUtaUVTa01CMmlpMTN0NjlIeUJiZEdFNkpGTU9KRG9nNWJzbTdZWDdKV1ZpVDhOU0R1anJtU0xJMjNaVktBMFp2MNIBugFBVV95cUxPNC1UMUlRODRQYTlsaDc0aEJHNWk3NWJUaDFWLU5zYUREbmZCdjN3NS1pUDMyQ2xOdnktMXlpQWtqTnNRU1Z5NjR1M0NMRmNtUjdmV0VvS0ZXVmpEdDdJTnQzdVF1ZWhfaGY4MjZwdWRyOTBrOTVaSlhfOTI1ckZ5OHl0T2FGT0JlSFc0RC13MmxJT3hmLWJFMXRybDZtUG5RaGdQekNqQW1SVHppMlFuS0dCRks4UmN3Q1E?oc=5)
-
----
-
-### [Diabetes patients call for more tailored mental health support](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TOU1DZWROcTNKRmdiS1BudlUtZ282N18wSktnMkpsZDZLT0ZtQzV4XzZpUjdGY1RtOXRLb3R4NXpvMHVjaVBwNFdpOXA4Nlc0czRxNnpLa1VSOWVE?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TOU1DZWROcTNKRmdiS1BudlUtZ282N18wSktnMkpsZDZLT0ZtQzV4XzZpUjdGY1RtOXRLb3R4NXpvMHVjaVBwNFdpOXA4Nlc0czRxNnpLa1VSOWVE?oc=5)
-
----
-
-### [Quali esami fare per valutare la salute delle ossa. E quando conviene farli - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancro</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd29ZckdMZFlUcGdTd3N3cjk5QXpFT0t0MEdwUTNlSW5qdmdNY3YwZnN0WVAwRmFVc3lTVWJFME1SMDJTMTFwdU5kVTNpdkh6eGlwUU40Tnp2X0s3OVBKLUFOWHR3anVNXzdvN0JTbHZhaG9RNzlucEwyX2xNd1VJQ0dPT1VfNmJTYUpsamZFenI5ekEwT2pTS2dPcWswYnF6OWU5TC1vV0p4Nm9xX0h6Y2s1Yk5WRVhRXzJtM29CVVoyLXR6bVNSM0JZZHVURE1va1ctUWhDc0xlT2PSAcIBQVVfeXFMTkNVVGhxNWVaQlZrQzRZOW5vQnVSemtOcGZ3V3ZRTVR3V2ZEQi1zdVpVZG9uMzhBSWlmYmJ1WjREa2h0QjhGLWVBd1ByS2xPY3h6NzFzMEFXMWh0eEx6eGswYVNMVF96QWxZZGhxRmZYZXJOQ29hTHNTY0M3M1V0QVMtdVFDdjllLWtzd3JqYmRqb19nUjloR2Y3ZE43WF9YeFFJNlJHUlRYT3gwcTA4WENzYnpRRm1La3VQWmdZLWJFQnc?oc=5)
 
 ---
 

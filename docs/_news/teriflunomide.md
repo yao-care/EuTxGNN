@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（7 則）
 
-### [NHS issues Covid jab warning over ‘waning immunity’ – how to get yours - Yahoo News UK](https://news.google.com/rss/articles/CBMieEFVX3lxTE56VWtKNnIweG9QMHcwdHRYRXo4WmdwcmtKQ3FaMUNrYnF1eUF2UWxQQUFyNTBsZjdJMXY2b2pXZXZzSVAzUEpTRjNtMjRTbUZSbHNjOEJGYkNOTlNtMXJkQ0pJWnhDRzJlczRKdkNteTZXSkpCQjh5Yw?oc=5)
+### ["El contenido de los sueños puede verse afectado por la enfermedad de alzhéimer y puede ser una línea de investigación interesante para su diagnóstico precoz"](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Z9IBjwJBVV95cUxPT3FVdk1uOVpNMzNTYWNKNUstR1hJTlE0NnVOOG9FRF9WNmE3SGRsOHI3alFGZnVOVkFFam5ORTFocDFXT044b3VTcjBwX29fRmZ2UWVnZzZFenAzYm5fRHlNYW8wTklBTEttTVlzZmZXNl9vb2xkUk56TkVzOTkyUjV4OEhHZ2UtVXJHMGNVS2JrcFVEQWt6TGMtV1o2SkxIX1VQQUVqSldhVmhuRDNtbzJ3Rk9CS1JfbHkzRDhkLWNLQl9fcHo5Nk96cWJibmdyLVEyTlR0S2xmMnc0bElJOW1yeUhUbENseXlvcHRzTU1nVk44eVFoMXF6NmlBRF9QWklZeDRqd01KNUZOMktz?oc=5)
 
-2026-04-18 <span class="news-indication-tag">MS</span>
+2026-04-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Yahoo News UK](https://news.google.com/rss/articles/CBMieEFVX3lxTE56VWtKNnIweG9QMHcwdHRYRXo4WmdwcmtKQ3FaMUNrYnF1eUF2UWxQQUFyNTBsZjdJMXY2b2pXZXZzSVAzUEpTRjNtMjRTbUZSbHNjOEJGYkNOTlNtMXJkQ0pJWnhDRzJlczRKdkNteTZXSkpCQjh5Yw?oc=5)
+來源：[COPE](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Z9IBjwJBVV95cUxPT3FVdk1uOVpNMzNTYWNKNUstR1hJTlE0NnVOOG9FRF9WNmE3SGRsOHI3alFGZnVOVkFFam5ORTFocDFXT044b3VTcjBwX29fRmZ2UWVnZzZFenAzYm5fRHlNYW8wTklBTEttTVlzZmZXNl9vb2xkUk56TkVzOTkyUjV4OEhHZ2UtVXJHMGNVS2JrcFVEQWt6TGMtV1o2SkxIX1VQQUVqSldhVmhuRDNtbzJ3Rk9CS1JfbHkzRDhkLWNLQl9fcHo5Nk96cWJibmdyLVEyTlR0S2xmMnc0bElJOW1yeUhUbENseXlvcHRzTU1nVk44eVFoMXF6NmlBRF9QWklZeDRqd01KNUZOMktz?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [From gym kit to tea bags - six plastic-packed items sabotaging your fertility - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndy16RUlqS2VWay1HeGdSQ1JFQUJVMmsxZzZoUlFPT1hDV1J1ZXdEMXQybF8tSDJ3NVNfRjlVRjZDNzZ1UU8tLW9ueGw2c3ZZUDBlc0k1U1M0RXN0VzBMZllzc1N4ektmcXdxWGswUEpnS1plNkhlNzA3MWlHbWM?oc=5)
+### [Smoothies, juice, or whole? What is the best way to consume fruit?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVTUTFMUEV5Mkd5SVdnelRkUnpZMXV1YmFGVGlPSmJzeGEyYlEtdzJvb3QyTWRFa3NNU2tIRDdKM0tpSGRNRlc0X3Q5YV9DSHpNRGtmVmUzVHhQcnZwLWE2dmFQLU5XLW5nWURSQmY1b0lNVDQzd2NwMFhEaHlaaXVzSjlMMWMtQkJJaGVQUzJ1d3NQeGxpZXltLWV5X29DUnFRMTJqOFVVdHJaRkJsQmpaM1JhUjNUQXFr?oc=5)
 
 2026-04-18 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndy16RUlqS2VWay1HeGdSQ1JFQUJVMmsxZzZoUlFPT1hDV1J1ZXdEMXQybF8tSDJ3NVNfRjlVRjZDNzZ1UU8tLW9ueGw2c3ZZUDBlc0k1U1M0RXN0VzBMZllzc1N4ektmcXdxWGswUEpnS1plNkhlNzA3MWlHbWM?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVTUTFMUEV5Mkd5SVdnelRkUnpZMXV1YmFGVGlPSmJzeGEyYlEtdzJvb3QyTWRFa3NNU2tIRDdKM0tpSGRNRlc0X3Q5YV9DSHpNRGtmVmUzVHhQcnZwLWE2dmFQLU5XLW5nWURSQmY1b0lNVDQzd2NwMFhEaHlaaXVzSjlMMWMtQkJJaGVQUzJ1d3NQeGxpZXltLWV5X29DUnFRMTJqOFVVdHJaRkJsQmpaM1JhUjNUQXFr?oc=5)
 
 ---
 
@@ -102,43 +102,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### ['I was diagnosed with this common cancer after spotting a sign that I initially dismissed' - Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3gyRlJSZkdNXzRLUXhWUTVwbloxbXE2LUEzOHFNMG9pNHhzQWtsSWhJQ1ZhOVVsSXZkT2tsanZNQVNqZlV5WDdqMmlIVjFGanp6cDU0SndkWU5LU0VvWk1kOUU2OTY1V2thc1ZETEloWkhGT29qT0tnTmxxbVRUb3NIamw3ZTZCb2gzNE1BSGd3MFc4eUk4?oc=5)
-
-2026-04-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3gyRlJSZkdNXzRLUXhWUTVwbloxbXE2LUEzOHFNMG9pNHhzQWtsSWhJQ1ZhOVVsSXZkT2tsanZNQVNqZlV5WDdqMmlIVjFGanp6cDU0SndkWU5LU0VvWk1kOUU2OTY1V2thc1ZETEloWkhGT29qT0tnTmxxbVRUb3NIamw3ZTZCb2gzNE1BSGd3MFc4eUk4?oc=5)
-
----
-
-### [Second vaccine offered after meningitis B outbreak](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
-
-2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QbktxajRZdnFXczlMRnBLMm1KOEE5b0NHNXRTcGFuUWNyLUx1TmxCcU5KeXN6YVY3WkZ2bElWUGhVMDZscnRzOEJKOUlGZlIzQUM1c2VJQ1l6RGQ3?oc=5)
-
----
-
-### [The silent bone condition that affects 40 per cent of adults worldwide - The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTNDQmNqckVuNG1URHNwQkpBWE5UWkVwQ08zckJlQ1pqdXJqYUpRTk1KcWtJMnhqRm1KeEFyT3VEX1htT0N0TXVmTkJ4cnp0RXAxT21WNmtacE5OZlpnYWxzZlhpdE9QMllMbUZvOEJ0cEkzZVFYUXZVbWZBLXNkMnpwT3FsU0h6emhjTkVwc3BuRVVaSjdQUXgwaXp1c19UZHAyX05yUE1SU3Zu?oc=5)
-
-2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTNDQmNqckVuNG1URHNwQkpBWE5UWkVwQ08zckJlQ1pqdXJqYUpRTk1KcWtJMnhqRm1KeEFyT3VEX1htT0N0TXVmTkJ4cnp0RXAxT21WNmtacE5OZlpnYWxzZlhpdE9QMllMbUZvOEJ0cEkzZVFYUXZVbWZBLXNkMnpwT3FsU0h6emhjTkVwc3BuRVVaSjdQUXgwaXp1c19UZHAyX05yUE1SU3Zu?oc=5)
-
----
-
-### [The best vitamin C serums in the UK for every skin type and budget, tested - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFd6QlF2MldPX0g0a05Ld2NWLUFKeHBLc01qTlRlMHI1ci1TUWlJVjV6bnhLS2E3dlZVNEF1amszUTFDS2xfTXFvLVozUmR5bjdkSVlCODJPY2lyTWo5MUF4X0ZZNVgwVEFSaUpCSWo0MmV5bzB0cVBjQWczeV92UUxFelA5bGM?oc=5)
-
-2026-04-17 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFd6QlF2MldPX0g0a05Ld2NWLUFKeHBLc01qTlRlMHI1ci1TUWlJVjV6bnhLS2E3dlZVNEF1amszUTFDS2xfTXFvLVozUmR5bjdkSVlCODJPY2lyTWo5MUF4X0ZZNVgwVEFSaUpCSWo0MmV5bzB0cVBjQWczeV92UUxFelA5bGM?oc=5)
-
----
-
-### [Asesoría de Prevención y Orientación Sexual LGTBI y Pruebas Rápidas de VIH y Hepatitis C, el jueves 30 de abril de 2026](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFZKbU1ieDUtaGJ0QWdpeF85Y201WHY2OWtaUlZ3R0w4SnVKNG9aX2FlQ3gtMk5RdDAzNDN4RzNTM1FsaGg2Wmt2cDBTbEl6Mzl4N2ptMS1uc3BoMkFSTktqMllPd2laOVZPUG9fZTczUjVOaTlsVWNuNWU0bWRVRUVxbzBGLTVEakZCYzRldVotazhodnRONktNd2hzSWc2akxtX2lKd0RPVXV6eThJX0ZlTzhWOU1yQnZNeDNIYVVWUU1zN0tHc1I0TVhfNGh1NlFubkVRWVVfZ3BFVjJv?oc=5)
+### [Madrid destina 3 millones de euros a vacunas infantiles contra enfermedades comunes](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGh5a204MnJtSDJ4N1I3dzk3clA0ODR5ZFRMUWxCRl9PVl9IZmJnc3VkeXhhUVExVDZXNkoxc1l3VVZUZ3lpY2V5YVJMd3hvSnZ4YnBlU2RyMnM4RzF4SVAyOWZqUXJtcy0tVzFLWTIxNmQyS2JKa1AxNHNZMXAyVnlHNjBEcmhPcnRWcl9WVThISzZGR0R0SUx6dU4wNGZnRzJnRFphRC0wRGlxWkVzRllEQlhTb0FEaUh2MjNnVzlIdmJabzk3S2wzOTNVaFBnb2diYlBtMm80cnhfT21OZXZ1QzRrMmZDb3FCLU14NA?oc=5)
 
 2026-04-17 <span class="news-indication-tag">hepatitis</span>
 
-來源：[juventudfuenla](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFZKbU1ieDUtaGJ0QWdpeF85Y201WHY2OWtaUlZ3R0w4SnVKNG9aX2FlQ3gtMk5RdDAzNDN4RzNTM1FsaGg2Wmt2cDBTbEl6Mzl4N2ptMS1uc3BoMkFSTktqMllPd2laOVZPUG9fZTczUjVOaTlsVWNuNWU0bWRVRUVxbzBGLTVEakZCYzRldVotazhodnRONktNd2hzSWc2akxtX2lKd0RPVXV6eThJX0ZlTzhWOU1yQnZNeDNIYVVWUU1zN0tHc1I0TVhfNGh1NlFubkVRWVVfZ3BFVjJv?oc=5)
+來源：[elfarodelguadarrama.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGh5a204MnJtSDJ4N1I3dzk3clA0ODR5ZFRMUWxCRl9PVl9IZmJnc3VkeXhhUVExVDZXNkoxc1l3VVZUZ3lpY2V5YVJMd3hvSnZ4YnBlU2RyMnM4RzF4SVAyOWZqUXJtcy0tVzFLWTIxNmQyS2JKa1AxNHNZMXAyVnlHNjBEcmhPcnRWcl9WVThISzZGR0R0SUx6dU4wNGZnRzJnRFphRC0wRGlxWkVzRllEQlhTb0FEaUh2MjNnVzlIdmJabzk3S2wzOTNVaFBnb2diYlBtMm80cnhfT21OZXZ1QzRrMmZDb3FCLU14NA?oc=5)
 
 ---
 

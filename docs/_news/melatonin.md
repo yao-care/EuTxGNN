@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
+
+### [La maladie « du foie gras » touche plus d’une personne sur six dans le monde - Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
+
+---
 
 ### [La obesidad puede afectar a la calidad y duración de la respuesta de algunas vacunas, según un estudio en ratones - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzZaanl2UE0wRWhFeVlWMi1wUWVQcnR4OV9aVTFSck40MzFKMjBDWFMwMEtwZlhSY0NyaDJiMzBBcmo2bHZFbzlhVkZPV0FIN2o3MmZsYVVJc3lsY0lBc2dkbW5uQ3JHbV9QM29aQjRjX0NyZlpubjZGdmR6Um5URTZSekFOaHpkdEdyblJidWVGMC1BcUMycVhod09NbHFUOFU4TlF5Z3VHdUR5SEJfNXVGLWtQZnBKQUlNVHdObExBdXJUaHlEel9zaEhCbVhwVThyUHRyLUlYdVZaUlA3WThR?oc=5)
 
@@ -83,38 +91,6 @@ permalink: /news/melatonin/
 2026-04-18 <span class="news-indication-tag">obesità</span>
 
 來源：[Merateonline](https://news.google.com/rss/articles/CBMiygFBVV95cUxQR082ZzhkTGpJeHF3MmxMQ2g1TUZHQ1VRM2F5blNueXczaUdjSlZGTlNtaGkzZ19OcHNvaG95NjBRODZTZ01xbWFxUEs4VWZXUXIxd0dkSi11WGl1WHFOdTQtSkppcndGOEs3V2FuZGZIV19MSkE3RTctbEdJZ3lqczk3TmU5ajg4UWZpa3lQSk5XWDFianlHRk5KOFpCa09oWmtzaHhOY2czd3ZkU0p2TUQwYkt2ckl1RnhTM0lWTEZydjRINVhfbW53?oc=5)
-
----
-
-### [Un estudio señala a un popular edulcorante por su contribución directa a la obesidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
-
-2026-04-18 <span class="news-indication-tag">obesidad</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdKc1FhTUJxWXItaUVyVklPVUZaemVLSmtZU0NadEdXTkVjQnpLMzdIOTNfam5ycHdBSzFCUlJzTVVMMmZDVHZ6WDVJWDBBV2RIMGZqREZUOEVyeF91T0lSV0V1SEdUVHBZUjRveG9sQTJ4Ukp1MlYxc2w0d0tZT3BNVnY1Y0pCTTVQU0JVRDlQX0kydjNOM29kM0hwdjRjejQ2c1RjczVXR0YtOXZEYktmWHZFTDRfVVgtTFhHSTVWcknSAcgBQVVfeXFMUEhaSWZ5SndGZDJKc0RWZkV0RTlUTmgzZkU1SEdPdUtwUUd5Rnl5RmpZSkNhRWNyWmVycjdWckc1Z2VrT2x3Z1hDcF9kbXFia3FBWG00NGRkWG9kdVNzRmRYNjhrcUwxa1FNMnFGVGpUZTRaak1NaTljWlk2djJqR0lYY2ZaMmNyR0k4dV9vUllBZm5NY3JZV3lrMlNEQnRxTHdVamdfSUJuZ2U5Y28tSE93ZlJSdWcwRDBCcXVnbzVpdnZVSTVnZk0?oc=5)
-
----
-
-### [El abordaje integral de la obesidad y sus implicaciones clínicas - IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1dmNGpEY1FlUU9JLW9ROVUzRjh5dF9CeVZIb2ZNVllXbk1ETU1YNTI0Tms2dVFES1pidlkzRTBVYlJlbFZ6U202aXQyZFNPaFZ3NU9OWm5yam5XcGIwVlpTRFFJLTk2NkJkNEdpaGJuY21SUlFBMWRZSU5zb1FsNGtaS0lZb09zNUluenN4ckszM3RrT21XSl9iLVV5MVEzcGVwaWpzdlJxNnhObVHSAagBQVVfeXFMUEFJSTI3SUNNY19PeGhuWEsyRnRXdzRyV2NlcnhBN2V6TlV6TGprZ28xVmQwTXBRdXJ0d3NrZlBvUVhmYWZISU1rM05QQ3dLQU9jSm5ZU0xUclZleEtzdkJIMkdqM2pQUzRPQnJybldfZEozZ19xLVppakp6NHRtZGpZZEhPbmhzb2tHY05maW03VEVubU5rcDBDY1dsQWw0aVFnSmR2MEhp?oc=5)
-
-2026-04-17 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1dmNGpEY1FlUU9JLW9ROVUzRjh5dF9CeVZIb2ZNVllXbk1ETU1YNTI0Tms2dVFES1pidlkzRTBVYlJlbFZ6U202aXQyZFNPaFZ3NU9OWm5yam5XcGIwVlpTRFFJLTk2NkJkNEdpaGJuY21SUlFBMWRZSU5zb1FsNGtaS0lZb09zNUluenN4ckszM3RrT21XSl9iLVV5MVEzcGVwaWpzdlJxNnhObVHSAagBQVVfeXFMUEFJSTI3SUNNY19PeGhuWEsyRnRXdzRyV2NlcnhBN2V6TlV6TGprZ28xVmQwTXBRdXJ0d3NrZlBvUVhmYWZISU1rM05QQ3dLQU9jSm5ZU0xUclZleEtzdkJIMkdqM2pQUzRPQnJybldfZEozZ19xLVppakp6NHRtZGpZZEhPbmhzb2tHY05maW03VEVubU5rcDBDY1dsQWw0aVFnSmR2MEhp?oc=5)
-
----
-
-### [“Abbiamo combattuto il grasso sbagliato per anni, ignorando quello che davvero alimenta le malattie”: Franco Berrino svela la verità nascosta dietro oli e prodotti industriali - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
-
-2026-04-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMixwJBVV95cUxOUEZOLTlvS05qSWpIVWJJZDdtdjZRNDRNczZGTldGRHRjUkdjN1ZkZHhvaXBTdGQ4Sjl2S29QcWNfUTJaM0wxZ2Z4Z0VsNnYwZHBtREQ3ZXluWXNzMFpXc3Y0SFpjNEpyblV6WmtFSWZHZWRJc3o5dS1HZkZVR1lrUlpZWDJWNFcxWE1UZlh3RlZfbHllZWVLSXpxT0JWOWMxVkVjTFNTVnl5aGhtRHFMdjdaVk5qYldkeDlzWGpJM0RuUkt1Q3lDeERvdWVKb2RGNkpmTkV4dUFaRGJON3JXZUw3X3B6QVlBQ29scjNyb1JXRzFsYy0tWEdadlZVWmFiaVlsYU1Rb2lEY3podUN5VUJ0dkVHRUNidmFMZU5RdWkzQjJyQ1NIbFdDaE1QaENjMU13S3ZzYzRRRk0yemJSeG1qQnoxa2s?oc=5)
-
----
-
-### [10 000 pas par jour, perte de poids, intensité… Le docteur Laurent Lély démêle le vrai du faux sur la marche - Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
 
 ---
 

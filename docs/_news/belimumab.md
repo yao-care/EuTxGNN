@@ -14,7 +14,7 @@ permalink: /news/belimumab/
 ---
 
 <p class="key-answer" data-question="Belimumab 有什麼相關新聞？">
-<strong>Belimumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Belimumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/belimumab/
 <p><a href="{{ '/drugs/belimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（6 則）
+
+### [Pflanzliche Lebensmittel schützen Ihre Gesundheit - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
+
+2026-04-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
+
+---
+
+### [La maladie « du foie gras » touche plus d’une personne sur six dans le monde - Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
+
+---
 
 ### [Calidad vs cantidad de la grasa en la dieta: cómo influyen el ácido oleico y palmítico en el desarrollo de la diabetes tipo 2 - Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVhpWEtxVkhOXzJUT09yV200SEZYX0lqWHdPTXBKQ21wZHZZQ19FdXo0OTFReVR6RHh0RmF3UVQydEw5WlVfMmEtZ1F5NUowT1pmaDNfaWZpaFBySUl5R2RqbGxFSUc0Yk9SRWFJTXk5bllxaTFQVVpZdllDVGUxY0FPY1ZBUXZaMV9KUTVJWHRncUZSeWpsSXBkYXR1MWZRNmtEaF9pX1dWWGNSWDY0eG1PazU3WFl2MC1yUEVSU2VpYWVKekpSNl9rekVQX1JLRTQzVHdFeXlwMExIZGJvc2Nn?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/belimumab/
 
 ---
 
-### [Remisión de la diabetes tipo 2: la pérdida de peso, factor clave para lograr el objetivo - La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
+### [Las escalas clásicas no bastan: la medicina busca nuevas vías para anticipar el riesgo cardíaco en pacientes con diabetes - Gaceta de salud](https://news.google.com/rss/articles/CBMiogJBVV95cUxPOFphU3ByOElLZjVxaERjRGx3TmJtaWsxSFJ0cVBLblZ2SGNQNG8yQWRnY3NpdVg2ZU9Sblp1ZkppUGtyMk5VZ1VCQndHUm5vX1FVaENQZzlJTURTekNSMDAwTF9WWm9tSC11bnZEV3VGcTJQT0dheDVkS3I1LUdnZ2NORkZWdzFjRmZzNUdrTVlMTnNyZlB1Tm0zbEJ3NHBOUExZTjRRcXYxY2xibEYtY19UNmF3MGhjMDkwM0FraTJLdTNHVUxfZndzWlVyMW9aMU5TcUlyTFE2STVOY05DNTROd29mamhqWEFVOTFMTEptVkdsX2d3X1RuRzZ4OF9sanpYcDRBeEp1bktEZXVqRjJOaUhXU0hGV25CNThoakxPQQ?oc=5)
 
-2026-04-18 <span class="news-indication-tag">diabetes</span>
+2026-04-19 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFdDdmp3NXBNZzRQb0JTT0k0dVFIRnFpWG9xMnlvWVpYeEJRQ3BEMm5ET0lCdnpXeHh2dEpWMDQzX2h2Y0EyWTVYbVpYanNtanJQMy1QNmlNTURHRm9LZERGaE5zN3ZOcndvYUxLalJVN1k3ZEw0SFNoYWFNUEpFRU51aC1KLXFraU9hN2VTc0MxMmtyWlhwWlh1Nzg3Y19FWlIxdk9Udk5iWDFzOGNleHh1VjY?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiogJBVV95cUxPOFphU3ByOElLZjVxaERjRGx3TmJtaWsxSFJ0cVBLblZ2SGNQNG8yQWRnY3NpdVg2ZU9Sblp1ZkppUGtyMk5VZ1VCQndHUm5vX1FVaENQZzlJTURTekNSMDAwTF9WWm9tSC11bnZEV3VGcTJQT0dheDVkS3I1LUdnZ2NORkZWdzFjRmZzNUdrTVlMTnNyZlB1Tm0zbEJ3NHBOUExZTjRRcXYxY2xibEYtY19UNmF3MGhjMDkwM0FraTJLdTNHVUxfZndzWlVyMW9aMU5TcUlyTFE2STVOY05DNTROd29mamhqWEFVOTFMTEptVkdsX2d3X1RuRzZ4OF9sanpYcDRBeEp1bktEZXVqRjJOaUhXU0hGV25CNThoakxPQQ?oc=5)
 
 ---
 
@@ -78,67 +94,11 @@ permalink: /news/belimumab/
 
 ---
 
-### [Toenail sign that could be warning of potentially deadly cancer, expert says - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1RYa3J2Qm9iSnh4eUpMMTdpd1BXOVBpdWk3Wi1HZDFvNGxBUl9rR0t6ZUxRM0hZX3lCbzk2T2pocGhaVkl0TkE0T2UwMEJCcXpfb1ZVbFNpM3ZLdnRDRmdpYUpieHFCQ2xobWF6MXQ3TkZoV3d5YS03N0UzZ3Yzdi13YXR4UUpQdVFzdtIBkgFBVV95cUxPVy1rczZIb3hlZjcwS01IYnlELUJjYnFhU3J6eGw1X2VXdjJ0Y1ZheTBfZUozWm0ybXc1UW95OWVScG4tb2lwY0h3b0xOWXFrZTZMY05LN1p5OUNIVGxRZC0wR19OTVMxOWYyQmVjSlRpMU9TTGtGajlaQTZ2YXJkVDRxMFhGcEQwWk1MR28taXFFQQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1RYa3J2Qm9iSnh4eUpMMTdpd1BXOVBpdWk3Wi1HZDFvNGxBUl9rR0t6ZUxRM0hZX3lCbzk2T2pocGhaVkl0TkE0T2UwMEJCcXpfb1ZVbFNpM3ZLdnRDRmdpYUpieHFCQ2xobWF6MXQ3TkZoV3d5YS03N0UzZ3Yzdi13YXR4UUpQdVFzdtIBkgFBVV95cUxPVy1rczZIb3hlZjcwS01IYnlELUJjYnFhU3J6eGw1X2VXdjJ0Y1ZheTBfZUozWm0ybXc1UW95OWVScG4tb2lwY0h3b0xOWXFrZTZMY05LN1p5OUNIVGxRZC0wR19OTVMxOWYyQmVjSlRpMU9TTGtGajlaQTZ2YXJkVDRxMFhGcEQwWk1MR28taXFFQQ?oc=5)
-
----
-
-### [Diabetes Drug Metformin Could Reduce Insulin Needs For People With Type 1 Diabetes: Study](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnJCWTFRbVBzX2lQQlJQZmdjZVZ3UWxWcndvVGE1aHdfWnhQVkR5Q2wxVEx1V0kwRUVxVV9ISmhCajhRUEsyNDhyMWRkbkFyR25TMWJ2cnlxajlZTzhidjhZZ0p0NHdhdVlwc3ZkWHo1MEI4Z1dJMnNlenBPaWh0MUlKMFhuc3cyR3JyRm5LbUJWMk1sRHFnX0tmd05zZnQyY1ZpWkNkLXFkQnp0VGR4MzFMTHpINDNyQzlkMEEyXzE3d1nSAcsBQVVfeXFMUHRLTmY5R3lMZ1FPR1VlT0VBMVFoNG1ZeGxkeXNxU3RBSDFMRUNCUTV5enE1YUFOejV6OVU0WFBJeENZVWZObVVwNTh4dzNZRU1TNVNUWkIyZjFlUGpDTHVodk1xVjF2T2VnRVZMN09kcnJFX2k3YVBBZTB3Qjc2UlFLYjlqUlRYMWtwa0FnZVA4T0o0UGh5S2pqVWczRHRsVHFJX2ZUX3VQcjA1QnR3cGVGZy03RGhxajM3SHBGV1VPSDUxTk9GQkVjUk0?oc=5)
-
-2026-04-17 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[NDTV](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnJCWTFRbVBzX2lQQlJQZmdjZVZ3UWxWcndvVGE1aHdfWnhQVkR5Q2wxVEx1V0kwRUVxVV9ISmhCajhRUEsyNDhyMWRkbkFyR25TMWJ2cnlxajlZTzhidjhZZ0p0NHdhdVlwc3ZkWHo1MEI4Z1dJMnNlenBPaWh0MUlKMFhuc3cyR3JyRm5LbUJWMk1sRHFnX0tmd05zZnQyY1ZpWkNkLXFkQnp0VGR4MzFMTHpINDNyQzlkMEEyXzE3d1nSAcsBQVVfeXFMUHRLTmY5R3lMZ1FPR1VlT0VBMVFoNG1ZeGxkeXNxU3RBSDFMRUNCUTV5enE1YUFOejV6OVU0WFBJeENZVWZObVVwNTh4dzNZRU1TNVNUWkIyZjFlUGpDTHVodk1xVjF2T2VnRVZMN09kcnJFX2k3YVBBZTB3Qjc2UlFLYjlqUlRYMWtwa0FnZVA4T0o0UGh5S2pqVWczRHRsVHFJX2ZUX3VQcjA1QnR3cGVGZy03RGhxajM3SHBGV1VPSDUxTk9GQkVjUk0?oc=5)
-
----
-
-### [Un experto alerta en España: las escalas de riesgo cardiovascular en diabetes pueden no adaptarse a todos los pacientes - El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
+### [Por qué médicos y dentistas deben trabajar juntos para tratar la diabetes de forma efectiva](https://news.google.com/rss/articles/CBMisAFBVV95cUxQalE4bzE1ekpsdWZURzdNOHAxeVlzUFlhS2piUmkxSFJKamdPUGRQcVFTcHNXZEdzZmRCbnM5WlV3UEdvcVZOMzE1VDc0RXpnclRFREFaaXdmMnAzZG1SdHZzeFduTjZWZXE3cjFGZzZxUzBES3lLcThDbUE0WlVKVThSWmtzQXlBdDJZNTg3OVY1UHZyVUxPZWtwMGhZYTBfN2JNa01LNGpYdDhJMmgzOQ?oc=5)
 
 2026-04-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMirAJBVV95cUxPd2NmSGtmeGxEUTZKME9uRzN5U3R6bHFkNXRER1dJcTAxZHN5RlczVnVscWd6Q3N1TGFuQlczWUY0Z1Z1cWFFV3hILVJpNUYxMjh5THRPMEZ4NEp2QnE1LWRqRUNjTFdaQnB3bU13cjByRnZuV3ZSNzlFLWhSZE4yejBZejdyRDI0d2NqVkRjb3JMWjYtUDBZNkZ5WVE1NnNzMGs3TmtSVFRMenZyUWRaNGdraWJNYUM0SnhKVWgxMWpEWHJmaXpZbE5BdDFybEdIQzlrQURDQlpGYjhrd25JMUs0c0pldHM3M3dFNWlvX05TamFBUVlqTTJlMWtQTV9QRkVkVWxUblVMckVQbC1EMXlnbExwYkZHNk04NnB0QWN4MnA4UGFNSVhITjg?oc=5)
-
----
-
-### [Diabete, ecco perché camminare nel pomeriggio è meglio della mattina: uno studio rivela l'orario ideale - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE43ZGRRbVdlNGNHYWdDMDRybE5jSG9LbzdzaXQzWWMxYXRwb2F4a2tZeFlQZVNEOUgwVUhieWFRNjAzR1k0cVNfTU1BaXlRSVV6bEF0bVRoNFFMSlkzMG1JWTJ0Z1pkMGJfaUdEWlloM3ZkVHNmSUtSd3NLQ2Z0VWNLMkFHcjNKc1FNV2ZuamhPODRoTWl3bEJTcy12S05IOFpB0gGQAUFVX3lxTFA0bmJUdXVkQTQyRXlJeHhfT3RJVmdQVENqdkNQM3NMLUYzTWhFQlg3WGRObzhPcFN4Q1JzMVhKLUFMdkJJNThUNnM3R21ZbXZwMXFuMFQyQWhXV3dDYVI5RWJ2akN5aGRIdWVGWVN0Z0VET3l2SHdIYVhUSFZlNnJGWGFKVmVjNkdra2NoZmNOSg?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabete</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE43ZGRRbVdlNGNHYWdDMDRybE5jSG9LbzdzaXQzWWMxYXRwb2F4a2tZeFlQZVNEOUgwVUhieWFRNjAzR1k0cVNfTU1BaXlRSVV6bEF0bVRoNFFMSlkzMG1JWTJ0Z1pkMGJfaUdEWlloM3ZkVHNmSUtSd3NLQ2Z0VWNLMkFHcjNKc1FNV2ZuamhPODRoTWl3bEJTcy12S05IOFpB0gGQAUFVX3lxTFA0bmJUdXVkQTQyRXlJeHhfT3RJVmdQVENqdkNQM3NMLUYzTWhFQlg3WGRObzhPcFN4Q1JzMVhKLUFMdkJJNThUNnM3R21ZbXZwMXFuMFQyQWhXV3dDYVI5RWJ2akN5aGRIdWVGWVN0Z0VET3l2SHdIYVhUSFZlNnJGWGFKVmVjNkdra2NoZmNOSg?oc=5)
-
----
-
-### [10 000 pas par jour, perte de poids, intensité… Le docteur Laurent Lély démêle le vrai du faux sur la marche - Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Le Télégramme](https://news.google.com/rss/articles/CBMigAJBVV95cUxPMkhZUXNpZU56TkJIM0VJd3haampWdWhnbzhIWmJYcXJHbWxqdEhLZ1FOXzktcEpqMXpTZ3NkdXpDdHpfUjVtZk1rbk95bno1QVB0U0lrRXk1UVA3TUtXNVFoS3VaZXlLUnFDeTFGam5LcHZEQU94MVZVTVhud0xhYW05UXhyNWZ5Nm9wWnN2ZUQ0SHpfZVpHVU1aV3ZaOC1fbGtWYVpzQklvR3czMHpsUThuWDJyNnowZ3dBcUFUUWpkbTA1TVNmZGo5OGZlWHkwcG10dGlxVEFPdzFHQml6dkJVVnh6MFhBRG4xMWJ5SXdmSHdYNldJSGdqSnVCMjQ2?oc=5)
-
----
-
-### [Expertos demandan una actitud más proactiva en prevención y detección precoz de la diabetes en la consulta dental - Gaceta Dental](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEVPak9EdGFyZ3lReGZIMlZXbnJtZUpnRlZDTmhfbjZUMl9uRlBZYTl4YXBLRGJZeVR0ckd6cS1YLXFReTFxcjRZejhKekJSNnNGY0c1QnlnRUV1Qk8ySVprSW1WMDducjNXMWJyUk4wZF9mR2JCUFp1SC1ibXJka1Z1OVVZYUp6UE9fZjlnUQ?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEVPak9EdGFyZ3lReGZIMlZXbnJtZUpnRlZDTmhfbjZUMl9uRlBZYTl4YXBLRGJZeVR0ckd6cS1YLXFReTFxcjRZejhKekJSNnNGY0c1QnlnRUV1Qk8ySVprSW1WMDducjNXMWJyUk4wZF9mR2JCUFp1SC1ibXJka1Z1OVVZYUp6UE9fZjlnUQ?oc=5)
-
----
-
-### [Expertos reclaman más recursos para garantizar la educación terapéutica en diabetes - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1FGeVZRVTBIV21vTlNrNVlhT3UxN1hPd2tVWlVRQ1lSX1BWelFCd05kclhmX1cyMzhQT3VmeHhkTXJldFRxNFhtcWtUVXRoRVpZczB4alZsckl3eldyU3VfZzVzS1pnU2kzejNoMm1HWDhNWmxsb0pOc3ZyRzUtaUVTa01CMmlpMTN0NjlIeUJiZEdFNkpGTU9KRG9nNWJzbTdZWDdKV1ZpVDhOU0R1anJtU0xJMjNaVktBMFp2MNIBugFBVV95cUxPNC1UMUlRODRQYTlsaDc0aEJHNWk3NWJUaDFWLU5zYUREbmZCdjN3NS1pUDMyQ2xOdnktMXlpQWtqTnNRU1Z5NjR1M0NMRmNtUjdmV0VvS0ZXVmpEdDdJTnQzdVF1ZWhfaGY4MjZwdWRyOTBrOTVaSlhfOTI1ckZ5OHl0T2FGT0JlSFc0RC13MmxJT3hmLWJFMXRybDZtUG5RaGdQekNqQW1SVHppMlFuS0dCRks4UmN3Q1E?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1FGeVZRVTBIV21vTlNrNVlhT3UxN1hPd2tVWlVRQ1lSX1BWelFCd05kclhmX1cyMzhQT3VmeHhkTXJldFRxNFhtcWtUVXRoRVpZczB4alZsckl3eldyU3VfZzVzS1pnU2kzejNoMm1HWDhNWmxsb0pOc3ZyRzUtaUVTa01CMmlpMTN0NjlIeUJiZEdFNkpGTU9KRG9nNWJzbTdZWDdKV1ZpVDhOU0R1anJtU0xJMjNaVktBMFp2MNIBugFBVV95cUxPNC1UMUlRODRQYTlsaDc0aEJHNWk3NWJUaDFWLU5zYUREbmZCdjN3NS1pUDMyQ2xOdnktMXlpQWtqTnNRU1Z5NjR1M0NMRmNtUjdmV0VvS0ZXVmpEdDdJTnQzdVF1ZWhfaGY4MjZwdWRyOTBrOTVaSlhfOTI1ckZ5OHl0T2FGT0JlSFc0RC13MmxJT3hmLWJFMXRybDZtUG5RaGdQekNqQW1SVHppMlFuS0dCRks4UmN3Q1E?oc=5)
-
----
-
-### [Diabetes patients call for more tailored mental health support](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TOU1DZWROcTNKRmdiS1BudlUtZ282N18wSktnMkpsZDZLT0ZtQzV4XzZpUjdGY1RtOXRLb3R4NXpvMHVjaVBwNFdpOXA4Nlc0czRxNnpLa1VSOWVE?oc=5)
-
-2026-04-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TOU1DZWROcTNKRmdiS1BudlUtZ282N18wSktnMkpsZDZLT0ZtQzV4XzZpUjdGY1RtOXRLb3R4NXpvMHVjaVBwNFdpOXA4Nlc0czRxNnpLa1VSOWVE?oc=5)
+來源：[nacion.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQalE4bzE1ekpsdWZURzdNOHAxeVlzUFlhS2piUmkxSFJKamdPUGRQcVFTcHNXZEdzZmRCbnM5WlV3UEdvcVZOMzE1VDc0RXpnclRFREFaaXdmMnAzZG1SdHZzeFduTjZWZXE3cjFGZzZxUzBES3lLcThDbUE0WlVKVThSWmtzQXlBdDJZNTg3OVY1UHZyVUxPZWtwMGhZYTBfN2JNa01LNGpYdDhJMmgzOQ?oc=5)
 
 ---
 
