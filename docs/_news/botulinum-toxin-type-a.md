@@ -54,19 +54,19 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（2 則）
 
+### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+
+2026-04-20 <span class="news-indication-tag">Parkinson-Krankheit</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+
+---
+
 ### [Jura. Parkinson : « Neuf ans après le diagnostic, je fais encore beaucoup de choses, mais plus lentement… » - Le Progrès](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjk5cnFtNXUtWjBCOG05YlFralEzci1saXNERVkxVWNfa3lSbVdjcXNKSjNjTTlWQmpnOEVFbXJiWDFMMEFILUdVMTdVM0l4eHFPeUgzM3pwTGxCUEEzbTY1ekY0S3RxeHpZZjJBTlF3Mi1PNEgzUlRqZS1wSHFQcUVUeUlBOU5uTjMtc1lTNXZWWUNMQ3dMQkxsTS1BVHpXaGw4RHNua2JqRkZKaHFLeXVoVzlyTjkyWl8wcklTYVBSYXJob3IzWlg4dmZDYlE?oc=5)
 
 2026-04-19 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjk5cnFtNXUtWjBCOG05YlFralEzci1saXNERVkxVWNfa3lSbVdjcXNKSjNjTTlWQmpnOEVFbXJiWDFMMEFILUdVMTdVM0l4eHFPeUgzM3pwTGxCUEEzbTY1ekY0S3RxeHpZZjJBTlF3Mi1PNEgzUlRqZS1wSHFQcUVUeUlBOU5uTjMtc1lTNXZWWUNMQ3dMQkxsTS1BVHpXaGw4RHNua2JqRkZKaHFLeXVoVzlyTjkyWl8wcklTYVBSYXJob3IzWlg4dmZDYlE?oc=5)
-
----
-
-### [La EPOC y el mapa desigual de muertes dentro de un mismo sistema sanitario - Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">EPOC</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
 
 ---
 

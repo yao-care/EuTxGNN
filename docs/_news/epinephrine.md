@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [‘Sustancias químicas eternas’ y asma infantil](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck12eGJLMlVLeFhzQ1V1SG9MMHRVZS1ELWtZbVRwTFY4NUVLS0ctTkQtTGI2TDZTMng4cVJ3Z01RYnRjdEttZURSWkJjQmd2U0EzVDVUeEJHVm9zMC1VcktzZHZ0ajByY3E1NDk0NjkyOERWNzNIczlZeC00VzlsT2x6d3JOQdIBiwFBVV95cUxOdTdoZm9PbFRBVDh3ejlBVHRoZHR3a216czAwcUxoWWFnV3ZhVzk5MlZDa2xqRVd2TENsSnpsaW1zXzRsTUF2ZThXNTZaWUxQMlJ6Z09DT1pSbjRqaXVIRXBkcFN6NTBwdC1zQ3liQU5xNzJEQkdoYzZER0poTnV6NFhac0xaSk5VNUhB?oc=5)
-
-2026-04-20 <span class="news-indication-tag">asma</span>
-
-來源：[biotechmagazineandnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck12eGJLMlVLeFhzQ1V1SG9MMHRVZS1ELWtZbVRwTFY4NUVLS0ctTkQtTGI2TDZTMng4cVJ3Z01RYnRjdEttZURSWkJjQmd2U0EzVDVUeEJHVm9zMC1VcktzZHZ0ajByY3E1NDk0NjkyOERWNzNIczlZeC00VzlsT2x6d3JOQdIBiwFBVV95cUxOdTdoZm9PbFRBVDh3ejlBVHRoZHR3a216czAwcUxoWWFnV3ZhVzk5MlZDa2xqRVd2TENsSnpsaW1zXzRsTUF2ZThXNTZaWUxQMlJ6Z09DT1pSbjRqaXVIRXBkcFN6NTBwdC1zQ3liQU5xNzJEQkdoYzZER0poTnV6NFhac0xaSk5VNUhB?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
 
 2026-04-19 <span class="news-indication-tag">asthme</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
-
----
-
-### [La EPOC y el mapa desigual de muertes dentro de un mismo sistema sanitario - Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">EPOC</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
 
 ---
 

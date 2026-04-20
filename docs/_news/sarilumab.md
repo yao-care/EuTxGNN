@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Hoja de ruta para avanzar en el abordaje de enfermedad de Crohn y colitis ulcerosa - Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHYwTG5KcEQ1QnJGeE5HYllfRjZXMnRhU19fUGZiZGpyb3Z3a0o3MjR3YVBYbTNSemxsakRYM2VfYTRlODY1M3F4dEh1SldiaHcwSW5qT0VpenM3RGNrT21UektSTkl2U1JkblJvWjdBczFTZlIwb1JFNUpZQWdCVFB3Yy1wWlAtbWxLOEx4RzR3ZUJYd3lJV0stQXZCclhoZXJRZWZn0gGrAUFVX3lxTE1QNTVwQjlkMFVKVkRlaDVqLTI2ejRwTnBRVVJQRHFmU2R3QnpLMDhYSExCSF84aU5lZ3BLaGJGZlo4WmVEaDRvb2pCcExRYV9YSjZDbHZlTkRhSUlQeWI3WnoxTlU2ang2ak1QVWFfemd4WVdhdkY4U01Qb2hNek9tT1o2bUtIaVBOSU5MZUVoakFKVFNJQzRsbDNaaksyOThOVkdwTEtqWXNyRQ?oc=5)
 
 2026-04-20 <span class="news-indication-tag">enfermedad de Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHYwTG5KcEQ1QnJGeE5HYllfRjZXMnRhU19fUGZiZGpyb3Z3a0o3MjR3YVBYbTNSemxsakRYM2VfYTRlODY1M3F4dEh1SldiaHcwSW5qT0VpenM3RGNrT21UektSTkl2U1JkblJvWjdBczFTZlIwb1JFNUpZQWdCVFB3Yy1wWlAtbWxLOEx4RzR3ZUJYd3lJV0stQXZCclhoZXJRZWZn0gGrAUFVX3lxTE1QNTVwQjlkMFVKVkRlaDVqLTI2ejRwTnBRVVJQRHFmU2R3QnpLMDhYSExCSF84aU5lZ3BLaGJGZlo4WmVEaDRvb2pCcExRYV9YSjZDbHZlTkRhSUlQeWI3WnoxTlU2ang2ak1QVWFfemd4WVdhdkY4U01Qb2hNek9tT1o2bUtIaVBOSU5MZUVoakFKVFNJQzRsbDNaaksyOThOVkdwTEtqWXNyRQ?oc=5)
-
----
-
-### [‘Sustancias químicas eternas’ y asma infantil](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck12eGJLMlVLeFhzQ1V1SG9MMHRVZS1ELWtZbVRwTFY4NUVLS0ctTkQtTGI2TDZTMng4cVJ3Z01RYnRjdEttZURSWkJjQmd2U0EzVDVUeEJHVm9zMC1VcktzZHZ0ajByY3E1NDk0NjkyOERWNzNIczlZeC00VzlsT2x6d3JOQdIBiwFBVV95cUxOdTdoZm9PbFRBVDh3ejlBVHRoZHR3a216czAwcUxoWWFnV3ZhVzk5MlZDa2xqRVd2TENsSnpsaW1zXzRsTUF2ZThXNTZaWUxQMlJ6Z09DT1pSbjRqaXVIRXBkcFN6NTBwdC1zQ3liQU5xNzJEQkdoYzZER0poTnV6NFhac0xaSk5VNUhB?oc=5)
-
-2026-04-20 <span class="news-indication-tag">asma</span>
-
-來源：[biotechmagazineandnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck12eGJLMlVLeFhzQ1V1SG9MMHRVZS1ELWtZbVRwTFY4NUVLS0ctTkQtTGI2TDZTMng4cVJ3Z01RYnRjdEttZURSWkJjQmd2U0EzVDVUeEJHVm9zMC1VcktzZHZ0ajByY3E1NDk0NjkyOERWNzNIczlZeC00VzlsT2x6d3JOQdIBiwFBVV95cUxOdTdoZm9PbFRBVDh3ejlBVHRoZHR3a216czAwcUxoWWFnV3ZhVzk5MlZDa2xqRVd2TENsSnpsaW1zXzRsTUF2ZThXNTZaWUxQMlJ6Z09DT1pSbjRqaXVIRXBkcFN6NTBwdC1zQ3liQU5xNzJEQkdoYzZER0poTnV6NFhac0xaSk5VNUhB?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ permalink: /news/sarilumab/
 2026-04-19 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
-
----
-
-### [La EPOC y el mapa desigual de muertes dentro de un mismo sistema sanitario - Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">EPOC</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizgFBVV95cUxOazZHdDh3bGtTdUNqb2tLQVBpTThWRDZPMlh2NHlFYy1uNVRVc2gyYkJRQ281T0RWMEtRV3FkSllJYU9fOGVKQTY0T3U3YjFLUU9Bcm5BZnRJMGU3M1pkX3c4cUlQci1OVlRfZmdBTnNodTZLMnAtLVNodUI1M3VkX3VCd0lmUEZFQmd6TXZ2d1lkWkJUYXVyb3ktRUFyM05TLXo5T1Faeng3cFVOTjV6eVNDeGJXcndtM3NXTC1mSEx2UFJpZFdyUXJ1a096Z9IBzgFBVV95cUxPNURSY1ozdUM1Vnpka1JXNl9KanVuSHVpTkRPNC1Hck1LR2lRZWt2eTFOZGpFS3YxZng4S2J5d2VGQnNDamFSZWFXUWE3R0FOdy1hZ0d2aG1WN0llRXNyRmtnTnF2ZENGdzA3ZHVaSnlTUGUySG9NVnRyQWZ1Sm9EZGdIZWI5UGdqb1RqcmRLanNQVE1Gek5URjZvU0lmU2xZbFNjWkJWZDFXc1VfcHdKZk45V25reHNMaDctTWxZUE5ZbEUyNno3UnZHZEo4QQ?oc=5)
 
 ---
 

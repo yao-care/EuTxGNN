@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El Consejo Interterritorial aprueba una nueva estrategia para el abordaje de la enfermedad renal crónica - Somos Pacientes](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZnVfTE1KNGZVZlZZZjRxbXc2T3pWOUxRRlU1QkxhaEdJd3VLamYtMGpNMm9iR2k1Y19pWG1SY2Z4X2tfSEV5a2Zqbzc1NXl5YXh5LVFvYmY4bFdKakdRemVrTjdyWkVjWGtISlZyQ1pxNVkwTzRBOG00T19BaUpjZFkxOWxMMHRlTG9YN3EweEhNZDMxeFNHSTNDVFVFcEs3a3g5YWxPQVpEZG1oMW5EbVY1R1NjRjE0UUowbmZ5M2R6cjZUdDVzQU5ZRmEtd1l6SmNfWU8wME1uR3ZCcHdKcmMyVUlQNXNlbEhQV1Jzc05pWWZHc1E?oc=5)
-
-2026-04-18 <span class="news-indication-tag">enfermedad renal crónica</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZnVfTE1KNGZVZlZZZjRxbXc2T3pWOUxRRlU1QkxhaEdJd3VLamYtMGpNMm9iR2k1Y19pWG1SY2Z4X2tfSEV5a2Zqbzc1NXl5YXh5LVFvYmY4bFdKakdRemVrTjdyWkVjWGtISlZyQ1pxNVkwTzRBOG00T19BaUpjZFkxOWxMMHRlTG9YN3EweEhNZDMxeFNHSTNDVFVFcEs3a3g5YWxPQVpEZG1oMW5EbVY1R1NjRjE0UUowbmZ5M2R6cjZUdDVzQU5ZRmEtd1l6SmNfWU8wME1uR3ZCcHdKcmMyVUlQNXNlbEhQV1Jzc05pWWZHc1E?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

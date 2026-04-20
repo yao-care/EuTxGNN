@@ -14,7 +14,7 @@ permalink: /news/tildrakizumab/
 ---
 
 <p class="key-answer" data-question="Tildrakizumab 有什麼相關新聞？">
-<strong>Tildrakizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tildrakizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/tildrakizumab/
 <p><a href="{{ '/drugs/tildrakizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
+
+### [Detección precoz diabetes tipo 1 el gran cambio - Canal Diabetes](https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEZ0cEpHcWJXVFhqTVllUzBqVzU4RVJYaG1fUjBJbFh4NjFHUnItMmpOWVZ0SkFmLUcya2hwN0VKcUZSUkZpVnBvX3M3YXlNYUozRjFrYmtIazJYLVZVcHhmUXAtanFpNlZZ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEZ0cEpHcWJXVFhqTVllUzBqVzU4RVJYaG1fUjBJbFh4NjFHUnItMmpOWVZ0SkFmLUcya2hwN0VKcUZSUkZpVnBvX3M3YXlNYUozRjFrYmtIazJYLVZVcHhmUXAtanFpNlZZ?oc=5)
+
+---
+
+### [Advierten de las limitaciones de las escalas clásicas de predicción del riesgo cardiovascular asociado a diabetes - El médico interactivo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVhtdVpBcVhFT3oyR1BFdkV6LWFtR0xTTkx1NnBza1psUzZ3Q1lVQ2VCbEt1YXJlUXZFdHk5ZVdRWTNSQ2xWeFBxRmF3TkJvOF85dko4TEgxYXhObXFlVjZPVUJhWWIxY19pS3ZuNUltUU9nbDhqLUxQZkQtZjBodWVSRUJqMEl5ekV0aDhBOGxIWDRtS2VKelpSTThJZnRvSjFqQzF1dGJGdw?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVhtdVpBcVhFT3oyR1BFdkV6LWFtR0xTTkx1NnBza1psUzZ3Q1lVQ2VCbEt1YXJlUXZFdHk5ZVdRWTNSQ2xWeFBxRmF3TkJvOF85dko4TEgxYXhObXFlVjZPVUJhWWIxY19pS3ZuNUltUU9nbDhqLUxQZkQtZjBodWVSRUJqMEl5ekV0aDhBOGxIWDRtS2VKelpSTThJZnRvSjFqQzF1dGJGdw?oc=5)
+
+---
+
+### [Calidad frente a cantidad de la grasa en la dieta, clave en la diabetes tipo 2 - La Vanguardia](https://news.google.com/rss/articles/CBMitgFBVV95cUxONzlzUmQ2aVZvaXk2cWpqSXpFSVQ2RDBkVmd4dUd3X2lrS0o3eS1zMzIxdHZTYnZlRVNGWFEzRTdheE93bnRTcHZITDg0MnpCeUhkY0hhUzA3Ym44UmwyMWpYZS1ORTgzcWRaQ1RpV2FTV3R2Q2J6SlIwTHNkaG93MnhMOFZpVlVOMXpTWmFsNjUtTzNfUXgwaFhMak5LOVY3SFZMQzU0RDRwTXEtZE9lckt0YjZkQdIBuwFBVV95cUxONXVWUEhXVFlBM0ZkR0I2Zk9UVjVDQzVfNkZTQklxd0lRek1EUWR2YmhtSEZ2ci1qam9rOERHWGVhd1hVN09YSFdSQk1naG9YcFV5alFSRV9oeUFWRDBIMldRZk95ZklIR2NSTTJnRUQxd3FEaTNTbG03SXUxVlZQSFBfZUthSTdpa0l5b2dwbVFUcWNsRHJXWmVCZloybTUtemMxX3FqUExaQm5XZURwYnZnd0RDNWwtT09z?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes mellitus</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMitgFBVV95cUxONzlzUmQ2aVZvaXk2cWpqSXpFSVQ2RDBkVmd4dUd3X2lrS0o3eS1zMzIxdHZTYnZlRVNGWFEzRTdheE93bnRTcHZITDg0MnpCeUhkY0hhUzA3Ym44UmwyMWpYZS1ORTgzcWRaQ1RpV2FTV3R2Q2J6SlIwTHNkaG93MnhMOFZpVlVOMXpTWmFsNjUtTzNfUXgwaFhMak5LOVY3SFZMQzU0RDRwTXEtZE9lckt0YjZkQdIBuwFBVV95cUxONXVWUEhXVFlBM0ZkR0I2Zk9UVjVDQzVfNkZTQklxd0lRek1EUWR2YmhtSEZ2ci1qam9rOERHWGVhd1hVN09YSFdSQk1naG9YcFV5alFSRV9oeUFWRDBIMldRZk95ZklIR2NSTTJnRUQxd3FEaTNTbG03SXUxVlZQSFBfZUthSTdpa0l5b2dwbVFUcWNsRHJXWmVCZloybTUtemMxX3FqUExaQm5XZURwYnZnd0RDNWwtT09z?oc=5)
+
+---
+
+### [Los factores ambientales inciden en el desarrollo de la diabetes tipo 1 - Diario de Sevilla](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFF4Vnp3cXd1Y2ozR285TzFtc3NIOEhxaHJBREJ6aXhMVlBsaE9yRlJPYlFmbEFGcW1UdmdqdW1YeWVOQXNHVmxYdE9oRHRnekNHRzkxczRDSThKTVF2NnI1eVZ4bnd6QW9iX1JYZWp5U1g4XzNyYTk1TmJzajloYkd6dl9venktRXgxWTdhcGdNYWF2OUdEWW5Yc3ZKOHBrZmxqb1JHdFB0aloydFV2TXZpT1LSAboBQVVfeXFMTlVZak5KY3EtUk50Sl9fSG84OHN6dXN0SXFQV0c4WmxsRDk4MG1pOWFJYkc0dXdObTRCdkFQT21vWjlVUHcxSGZRcjB6RFZmRmpHQXlaV25FSlBuTE5jV0JoQ3ctaXYtYi05Q0lGY1hDQWNaTzZTWkNCaG5fbmtwSlVWc3hEZFNDUHRPTkJBYnVGaXEyZUdNOXJRcVlQZlloLTdYNDE4YmFSUUtyV21iWkNuaXZEcVFlTjN3?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFF4Vnp3cXd1Y2ozR285TzFtc3NIOEhxaHJBREJ6aXhMVlBsaE9yRlJPYlFmbEFGcW1UdmdqdW1YeWVOQXNHVmxYdE9oRHRnekNHRzkxczRDSThKTVF2NnI1eVZ4bnd6QW9iX1JYZWp5U1g4XzNyYTk1TmJzajloYkd6dl9venktRXgxWTdhcGdNYWF2OUdEWW5Yc3ZKOHBrZmxqb1JHdFB0aloydFV2TXZpT1LSAboBQVVfeXFMTlVZak5KY3EtUk50Sl9fSG84OHN6dXN0SXFQV0c4WmxsRDk4MG1pOWFJYkc0dXdObTRCdkFQT21vWjlVUHcxSGZRcjB6RFZmRmpHQXlaV25FSlBuTE5jV0JoQ3ctaXYtYi05Q0lGY1hDQWNaTzZTWkNCaG5fbmtwSlVWc3hEZFNDUHRPTkJBYnVGaXEyZUdNOXJRcVlQZlloLTdYNDE4YmFSUUtyV21iWkNuaXZEcVFlTjN3?oc=5)
+
+---
 
 ### [Diabetes und Schilddrüse: Neue Leitlinien fordern engere Kontrolle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW9iTExHdGNzT3JROXZFMHJsQnhGcUJFT0FvWHBic3lWNTVrRjN2S0NsSWU4Nzh0dUZhaDNvWFJCRmZQZWRENVhwajgwTVhwRzdIU0s0MUlBTF9KNEtlVTNSRUFWeTU2UnBmYnhxWGlpUV93XzhjcTktTlh5eFNLczFHRXMzblFOX29MOXBuLUlpUTNucFdOUFhxU2xQM3dvM3RzQ3dVM19nV0d1ZVRHS0NIM2JOU1E1dHRBMkxpRkpWUEU?oc=5)
 
@@ -70,59 +102,11 @@ permalink: /news/tildrakizumab/
 
 ---
 
-### [La pérdida de peso moderada, clave para mejorar la glucosa en pacientes diabético - FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTJWdnVwM0VzMnZ0VllNeXdnbVkxOUt4VmxCWTkwWVNIMXVsaDF3a1FleWpsWU8wOFFXclZ4OWd0ZXF3aHVXMTdtZFVIU3d5VWVXODNhOUxBT3F2c2l3eFF6UTkxZFpxSnJESjJRZUhnWGZoX093U1h5aHhHWlZqM2JvS1Fwb24zUTRqczlPdkZlOGJDSktSajg2MXR4V2ZhWVF6UmdTTlAyMU95a3Rj?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTJWdnVwM0VzMnZ0VllNeXdnbVkxOUt4VmxCWTkwWVNIMXVsaDF3a1FleWpsWU8wOFFXclZ4OWd0ZXF3aHVXMTdtZFVIU3d5VWVXODNhOUxBT3F2c2l3eFF6UTkxZFpxSnJESjJRZUhnWGZoX093U1h5aHhHWlZqM2JvS1Fwb24zUTRqczlPdkZlOGJDSktSajg2MXR4V2ZhWVF6UmdTTlAyMU95a3Rj?oc=5)
-
----
-
-### [El Puerta de Hierro implementa un cribado basado en pruebas de laboratorio que detecta enfermedades hepáticas en pacientes con diabetes - Noroeste Madrid](https://news.google.com/rss/articles/CBMihgJBVV95cUxOUUJoUE9lanplY0YyMFo5a1pWdm1FQVdNUWlKV3VOUDl3TmVtZnpPUEVmaUV4Sl9uUUJvWkQwcS1aaEhtZjItbmdNWXBOSjR0dy03MnJ3THlaT1EzQ3c0NG5wN0tOX1dJbk5NWlFwZ3FuSFl1VmFtdmdLd2U4VjIwMVNrSTkwS25CNDZsaUh5OW03ZnloMmhmbmo3ZjBSWTRBTldLb2x3QlJteWlZZlYzeU5DeHV5Z3lESTFfdUJMemVwQnpYMjJXcFRmWUlNTUg3MlV4QWU3ZmpvMm9VM0VTZ2FaRFd1VFFPR3ZWUm1JSXh4U2hwQVdvT29ndV9SdWQ2RUpmNjJn?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[Noroeste Madrid](https://news.google.com/rss/articles/CBMihgJBVV95cUxOUUJoUE9lanplY0YyMFo5a1pWdm1FQVdNUWlKV3VOUDl3TmVtZnpPUEVmaUV4Sl9uUUJvWkQwcS1aaEhtZjItbmdNWXBOSjR0dy03MnJ3THlaT1EzQ3c0NG5wN0tOX1dJbk5NWlFwZ3FuSFl1VmFtdmdLd2U4VjIwMVNrSTkwS25CNDZsaUh5OW03ZnloMmhmbmo3ZjBSWTRBTldLb2x3QlJteWlZZlYzeU5DeHV5Z3lESTFfdUJMemVwQnpYMjJXcFRmWUlNTUg3MlV4QWU3ZmpvMm9VM0VTZ2FaRFd1VFFPR3ZWUm1JSXh4U2hwQVdvT29ndV9SdWQ2RUpmNjJn?oc=5)
-
----
-
-### [I’m a diabetes doctor — follow these 3 steps to put type 2 into remission - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
-
----
-
-### [Pflanzliche Lebensmittel schützen Ihre Gesundheit - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
-
-2026-04-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
-
----
-
 ### [La maladie « du foie gras » touche plus d’une personne sur six dans le monde - Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
 
 2026-04-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
-
----
-
-### [Calidad vs cantidad de la grasa en la dieta: cómo influyen el ácido oleico y palmítico en el desarrollo de la diabetes tipo 2 - Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVhpWEtxVkhOXzJUT09yV200SEZYX0lqWHdPTXBKQ21wZHZZQ19FdXo0OTFReVR6RHh0RmF3UVQydEw5WlVfMmEtZ1F5NUowT1pmaDNfaWZpaFBySUl5R2RqbGxFSUc0Yk9SRWFJTXk5bllxaTFQVVpZdllDVGUxY0FPY1ZBUXZaMV9KUTVJWHRncUZSeWpsSXBkYXR1MWZRNmtEaF9pX1dWWGNSWDY0eG1PazU3WFl2MC1yUEVSU2VpYWVKekpSNl9rekVQX1JLRTQzVHdFeXlwMExIZGJvc2Nn?oc=5)
-
-2026-04-19 <span class="news-indication-tag">diabetes mellitus</span>
-
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVhpWEtxVkhOXzJUT09yV200SEZYX0lqWHdPTXBKQ21wZHZZQ19FdXo0OTFReVR6RHh0RmF3UVQydEw5WlVfMmEtZ1F5NUowT1pmaDNfaWZpaFBySUl5R2RqbGxFSUc0Yk9SRWFJTXk5bllxaTFQVVpZdllDVGUxY0FPY1ZBUXZaMV9KUTVJWHRncUZSeWpsSXBkYXR1MWZRNmtEaF9pX1dWWGNSWDY0eG1PazU3WFl2MC1yUEVSU2VpYWVKekpSNl9rekVQX1JLRTQzVHdFeXlwMExIZGJvc2Nn?oc=5)
-
----
-
-### ["J’ai perdu la vue" : les graves effets secondaires du traitement contre le diabète de type 2 - Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
-
-2026-04-18 <span class="news-indication-tag">diabète</span>
-
-來源：[Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
 
 ---
 

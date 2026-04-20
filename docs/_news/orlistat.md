@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [Camminare 10mila passi al giorno per stare bene? Per la scienza è un falso mito: ecco quanti minuti servono davvero - Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR?oc=5)
+### [Trasladar el diagnóstico de obesidad más allá del IMC puede retrasar el tratamiento](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWE5XdENVZEpmd3I1dndOWHpVdEstYWphSTYzU19IVVdDdDJ6T3Q5cWUzN3VPN0l5Z3pzU21QNU85M0lqRTBfTjZ1eG5WMFh2Uzd6c0ZjMFU0ZW9YSDNIVkV3TTVZYlRxSFpTVVB1aV9MVF9qaFVmLWJiZjJXcHBaTGZTZHJMVGZVLW5JUXhMV3ZTQ1NjR0hFc0hxTnB5WkZJWW1vSE13VXBGbjhDV1lsRHFNTlFBSUstbjFrSUFuSQ?oc=5)
 
-2026-04-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span>
+2026-04-20 <span class="news-indication-tag">obesidad</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWE5XdENVZEpmd3I1dndOWHpVdEstYWphSTYzU19IVVdDdDJ6T3Q5cWUzN3VPN0l5Z3pzU21QNU85M0lqRTBfTjZ1eG5WMFh2Uzd6c0ZjMFU0ZW9YSDNIVkV3TTVZYlRxSFpTVVB1aV9MVF9qaFVmLWJiZjJXcHBaTGZTZHJMVGZVLW5JUXhMV3ZTQ1NjR0hFc0hxTnB5WkZJWW1vSE13VXBGbjhDV1lsRHFNTlFBSUstbjFrSUFuSQ?oc=5)
+
+---
+
+### [Fettleibigkeit und die Folgen für Gesundheit und Wirtschaft - Rechtsdepesche | Für das Gesundheitswesen](https://news.google.com/rss/articles/CBMicEFVX3lxTE40dU1TcHRNcFZ5ZTg2d2dFR0dhSDhNZ1JoZUdpUTl3UUVkSXVxWkJ1QTlnUkUzSWYzZ2E2anNiYklpOVEyMHl1MkpvSHFNSmg3Y0hmekktNkpBQlREc1FUY3JUby1vSV9waFhjVnhhQ18?oc=5)
+
+2026-04-20 <span class="news-indication-tag">Fettleibigkeit</span> <span class="news-indication-tag">AF</span>
+
+來源：[Rechtsdepesche | Für das Gesundheitswesen](https://news.google.com/rss/articles/CBMicEFVX3lxTE40dU1TcHRNcFZ5ZTg2d2dFR0dhSDhNZ1JoZUdpUTl3UUVkSXVxWkJ1QTlnUkUzSWYzZ2E2anNiYklpOVEyMHl1MkpvSHFNSmg3Y0hmekktNkpBQlREc1FUY3JUby1vSV9waFhjVnhhQ18?oc=5)
+
+---
+
+### [Fruchtzucker kann Nieren schaden](https://news.google.com/rss/articles/CBMicEFVX3lxTE81cW1BUEluLVVfUmVZazY2dU9Eek8xamp1Q1FOMmxfVWxPcjluYlY4eG11TTNIcUxsV180UjEtNER0T0h0dlBxZTJZUFVwa1JRVzBRT1dtdVNncnBiaGE2MlJ1N0VkbkM0SGhHSVZDbHM?oc=5)
+
+2026-04-20 <span class="news-indication-tag">Fettleibigkeit</span> <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE81cW1BUEluLVVfUmVZazY2dU9Eek8xamp1Q1FOMmxfVWxPcjluYlY4eG11TTNIcUxsV180UjEtNER0T0h0dlBxZTJZUFVwa1JRVzBRT1dtdVNncnBiaGE2MlJ1N0VkbkM0SGhHSVZDbHM?oc=5)
 
 ---
 
@@ -70,27 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [La semaglutida demuestra en un nuevo estudio eficacia frente a la enfermedad hepática metabólica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
+### [Is it true that … only overweight people are at risk of high cholesterol? - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVG5ZSDRhTS1VXzB2eldBY1lqVnR6aXVFVGlzOTZ5T1RtRTVWaWVYSWV0akdRWHlxNG1nWDY3NHJmMXNfeWlmU2RYaUdHaEpsT0tOMVdnRXNJVm5PdnBJOXBVQjJDTGdRd0xTQXJ0UGhsSldUVVV5a2EwMkdQM3ptZWpQaGxTRXVURDhpMEg3RnJCdUtOaG02TXRNbEpJMlBTVFhjMlVzLWRURjBndnc5MFdTd3VuaGc?oc=5)
 
-2026-04-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-04-20 <span class="news-indication-tag">overweight</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
-
----
-
-### [Medizin revolutioniert Behandlung von Fettleibigkeit und Lebererkrankungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWFRZHZxV2lLSDZQb2o1NnFCVnJyODBuNWU4UWhyV3dMLUtMSE1hRUVMaU13OEFsZDNWOXpQcGNvZ29ZcTFaT29ReTFWTk1KSUdzaThxYl8yZlBmYjVNZUNNODdfVXVkcGtGaUU5RHlEVHdqblJxcENQVFM4ZWFSUkFiZXl3ZWhpWFdxYzBlOExDM3BiY18ta3E3TGxROVRZYUVSOHAxclhQMkVIRTRFS3NhbkU1eG5STjdxRm9KLU9CUXhFbzdJOENIZWJGUQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">Fettleibigkeit</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWFRZHZxV2lLSDZQb2o1NnFCVnJyODBuNWU4UWhyV3dMLUtMSE1hRUVMaU13OEFsZDNWOXpQcGNvZ29ZcTFaT29ReTFWTk1KSUdzaThxYl8yZlBmYjVNZUNNODdfVXVkcGtGaUU5RHlEVHdqblJxcENQVFM4ZWFSUkFiZXl3ZWhpWFdxYzBlOExDM3BiY18ta3E3TGxROVRZYUVSOHAxclhQMkVIRTRFS3NhbkU1eG5STjdxRm9KLU9CUXhFbzdJOENIZWJGUQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVG5ZSDRhTS1VXzB2eldBY1lqVnR6aXVFVGlzOTZ5T1RtRTVWaWVYSWV0akdRWHlxNG1nWDY3NHJmMXNfeWlmU2RYaUdHaEpsT0tOMVdnRXNJVm5PdnBJOXBVQjJDTGdRd0xTQXJ0UGhsSldUVVV5a2EwMkdQM3ptZWpQaGxTRXVURDhpMEg3RnJCdUtOaG02TXRNbEpJMlBTVFhjMlVzLWRURjBndnc5MFdTd3VuaGc?oc=5)
 
 ---
 
-### [Fruktose: Ein unterschätzter Faktor in der modernen Fettleibigkeitskrise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMF9jZnV3VENSZDEtakhiWVNSaC1JVWd2bGwzTks5UzJUWE1kY3B4cDA2emVFTVg3eEZwRWRfdFNsdkxEWWtVM1UxamRuNmNCOVhIZjlndFU4S0V6c1FybjdPMGg3XzF2VmlUMEZQOVdFTURCU3RTSEZLZkhMVVo0UTlGenN1Rm1pcWZVRE1vUUFEMjJoVGRiTXBBLXJTQnF5c2JkSG1oYw?oc=5)
+### [Neue Leitlinien zur Behandlung von Fettleibigkeit und Lebererkrankungen](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk1rR2g2ZW9vZkZzWGxTY19pV0lUQXY2NWV1dEN5S0NRQVFwYWQzNUVmN2dfMF9fVVdzNXNQVzg0MGJPV2E3bjFrTkxhMG5xaDlKQTh5UU9kOHVpdXFrVGtCX2JhZ0E3YTBxY0ZqbmxzN29JZzlBYVdYS1A1OWJjT0dxMXQybUpMckNDR0d6Y3Y5UnR3UGx5YVV1TW82dVdVb205TWJn?oc=5)
 
 2026-04-19 <span class="news-indication-tag">Fettleibigkeit</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMF9jZnV3VENSZDEtakhiWVNSaC1JVWd2bGwzTks5UzJUWE1kY3B4cDA2emVFTVg3eEZwRWRfdFNsdkxEWWtVM1UxamRuNmNCOVhIZjlndFU4S0V6c1FybjdPMGg3XzF2VmlUMEZQOVdFTURCU3RTSEZLZkhMVVo0UTlGenN1Rm1pcWZVRE1vUUFEMjJoVGRiTXBBLXJTQnF5c2JkSG1oYw?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk1rR2g2ZW9vZkZzWGxTY19pV0lUQXY2NWV1dEN5S0NRQVFwYWQzNUVmN2dfMF9fVVdzNXNQVzg0MGJPV2E3bjFrTkxhMG5xaDlKQTh5UU9kOHVpdXFrVGtCX2JhZ0E3YTBxY0ZqbmxzN29JZzlBYVdYS1A1OWJjT0dxMXQybUpMckNDR0d6Y3Y5UnR3UGx5YVV1TW82dVdVb205TWJn?oc=5)
 
 ---
 
@@ -102,11 +110,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Schlaganfall-Risiko: Immer mehr junge Menschen betroffen](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzlVTXhOQzR4eGhBRk9KSW5wQmkwZ21sVGxOeEpBSVB2Y0RSUGNVWXduLVdOazRhRkZQYTlYT3Jqa0IxRGFUX3ZGaXlITHBWNFZmTTBOUHBRVUlZWnZTdGFvUE90MXMyd1ZUNmJOVTNoOHhyel9IZnNsZWFuWlRHUkZSYU8xMEhrQ2RMRF85cm8yNy1lSlJqVUlPV2dhTlpWVFVjZjhVNTBocDQyT2c4TmdfQQ?oc=5)
+### [Camminare 10mila passi al giorno per stare bene? Per la scienza è un falso mito: ecco quanti minuti servono davvero - Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR?oc=5)
 
-2026-04-18 <span class="news-indication-tag">Schlaganfall</span>
+2026-04-19 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span>
 
-來源：[BILD](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzlVTXhOQzR4eGhBRk9KSW5wQmkwZ21sVGxOeEpBSVB2Y0RSUGNVWXduLVdOazRhRkZQYTlYT3Jqa0IxRGFUX3ZGaXlITHBWNFZmTTBOUHBRVUlZWnZTdGFvUE90MXMyd1ZUNmJOVTNoOHhyel9IZnNsZWFuWlRHUkZSYU8xMEhrQ2RMRF85cm8yNy1lSlJqVUlPV2dhTlpWVFVjZjhVNTBocDQyT2c4TmdfQQ?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR?oc=5)
 
 ---
 
