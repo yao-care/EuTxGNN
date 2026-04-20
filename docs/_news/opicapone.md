@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Jura. Parkinson : « Neuf ans après le diagnostic, je fais encore beaucoup de choses, mais plus lentement… » - Le Progrès](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjk5cnFtNXUtWjBCOG05YlFralEzci1saXNERVkxVWNfa3lSbVdjcXNKSjNjTTlWQmpnOEVFbXJiWDFMMEFILUdVMTdVM0l4eHFPeUgzM3pwTGxCUEEzbTY1ekY0S3RxeHpZZjJBTlF3Mi1PNEgzUlRqZS1wSHFQcUVUeUlBOU5uTjMtc1lTNXZWWUNMQ3dMQkxsTS1BVHpXaGw4RHNua2JqRkZKaHFLeXVoVzlyTjkyWl8wcklTYVBSYXJob3IzWlg4dmZDYlE?oc=5)
 
 2026-04-19 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjk5cnFtNXUtWjBCOG05YlFralEzci1saXNERVkxVWNfa3lSbVdjcXNKSjNjTTlWQmpnOEVFbXJiWDFMMEFILUdVMTdVM0l4eHFPeUgzM3pwTGxCUEEzbTY1ekY0S3RxeHpZZjJBTlF3Mi1PNEgzUlRqZS1wSHFQcUVUeUlBOU5uTjMtc1lTNXZWWUNMQ3dMQkxsTS1BVHpXaGw4RHNua2JqRkZKaHFLeXVoVzlyTjkyWl8wcklTYVBSYXJob3IzWlg4dmZDYlE?oc=5)
+
+---
+
+### [Loneliness may contribute to memory issues, but not dementia — they are 'not the same thing' - Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
+
+2026-04-19 <span class="news-indication-tag">dementia</span>
+
+來源：[Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
 
 ---
 

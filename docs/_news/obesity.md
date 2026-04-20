@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,6 +37,22 @@ permalink: /news/obesity/
 </div>
 
 ## 相關新聞（6 則）
+
+### [Camminare 10mila passi al giorno per stare bene? Per la scienza è un falso mito: ecco quanti minuti servono davvero - Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR?oc=5)
+
+2026-04-20
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR?oc=5)
+
+---
+
+### [Pädiatrie: Diabetes- und Herz-Kreislauf-Risiko auch bei „gesunder“ Adipositas erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2hOeXYtRTA2aTRycWhOOW16SEp0ZmhqX1RyM0tiRmJ4dTdaUUpDVmdBdEt4YXY5cUYtamJwM1J3N1RVRWVhU0N5X1RMRW9Hc3VtWEVoRjM4LUhZbmY0UWpHWlhhckdDNFZQSERadEdPZWZtYzlnTGxTOWt4UkxfTmd4eTkxWlNVM0dTOHZmclhTcm03NkZmbjFrV1ZuM3habkFFMW5lcEUtcXRXOUxwaWR5T2tqTTBIYUJHc21Xdkt3eHFMXzhuZVlCZnFSWkg3ZVFGWWVWanVIbG1vSmNFdlU5NA?oc=5)
+
+2026-04-20
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2hOeXYtRTA2aTRycWhOOW16SEp0ZmhqX1RyM0tiRmJ4dTdaUUpDVmdBdEt4YXY5cUYtamJwM1J3N1RVRWVhU0N5X1RMRW9Hc3VtWEVoRjM4LUhZbmY0UWpHWlhhckdDNFZQSERadEdPZWZtYzlnTGxTOWt4UkxfTmd4eTkxWlNVM0dTOHZmclhTcm03NkZmbjFrV1ZuM3habkFFMW5lcEUtcXRXOUxwaWR5T2tqTTBIYUJHc21Xdkt3eHFMXzhuZVlCZnFSWkg3ZVFGWWVWanVIbG1vSmNFdlU5NA?oc=5)
+
+---
 
 ### [La semaglutida demuestra en un nuevo estudio eficacia frente a la enfermedad hepática metabólica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
 
@@ -67,22 +83,6 @@ permalink: /news/obesity/
 2026-04-19
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
-
----
-
-### [Camminare 10mila passi al giorno per stare bene? Per la scienza è un falso mito: ecco quanti minuti servono davvero - Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR0gG7AUFVX3lxTE95emRhS1NQMmZGT2VVblltblNKdDNTV05EZ1hTWktqNTQwOHQ3ZEVpTS1KdXdJZWtBZkRtdFNETGhnU2JUX2dFVXVJdm9Uc255Y3k3UWNXNExIa04wT0JZQWhjSlp2MVNhQlNqNGJfU2xBU0NPZXFyVzBBZ0Y2TGY4bjBWcDVESnNZTXluYUw1UzlmS1NJOVdpX3M1ZzN5VnVoZ0dISFQyS1JrbldfbURNbWlfU1VEbExzRVE?oc=5)
-
-2026-04-19
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR0gG7AUFVX3lxTE95emRhS1NQMmZGT2VVblltblNKdDNTV05EZ1hTWktqNTQwOHQ3ZEVpTS1KdXdJZWtBZkRtdFNETGhnU2JUX2dFVXVJdm9Uc255Y3k3UWNXNExIa04wT0JZQWhjSlp2MVNhQlNqNGJfU2xBU0NPZXFyVzBBZ0Y2TGY4bjBWcDVESnNZTXluYUw1UzlmS1NJOVdpX3M1ZzN5VnVoZ0dISFQyS1JrbldfbURNbWlfU1VEbExzRVE?oc=5)
-
----
-
-### [Lomagna Si-Cura: l’obesità è una patologia da curare e da prevenire. Non una colpa](https://news.google.com/rss/articles/CBMiygFBVV95cUxQR082ZzhkTGpJeHF3MmxMQ2g1TUZHQ1VRM2F5blNueXczaUdjSlZGTlNtaGkzZ19OcHNvaG95NjBRODZTZ01xbWFxUEs4VWZXUXIxd0dkSi11WGl1WHFOdTQtSkppcndGOEs3V2FuZGZIV19MSkE3RTctbEdJZ3lqczk3TmU5ajg4UWZpa3lQSk5XWDFianlHRk5KOFpCa09oWmtzaHhOY2czd3ZkU0p2TUQwYkt2ckl1RnhTM0lWTEZydjRINVhfbW53?oc=5)
-
-2026-04-18
-
-來源：[Merateonline](https://news.google.com/rss/articles/CBMiygFBVV95cUxQR082ZzhkTGpJeHF3MmxMQ2g1TUZHQ1VRM2F5blNueXczaUdjSlZGTlNtaGkzZ19OcHNvaG95NjBRODZTZ01xbWFxUEs4VWZXUXIxd0dkSi11WGl1WHFOdTQtSkppcndGOEs3V2FuZGZIV19MSkE3RTctbEdJZ3lqczk3TmU5ajg4UWZpa3lQSk5XWDFianlHRk5KOFpCa09oWmtzaHhOY2czd3ZkU0p2TUQwYkt2ckl1RnhTM0lWTEZydjRINVhfbW53?oc=5)
 
 ---
 

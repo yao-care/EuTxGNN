@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="Indacaterol Maleate 有什麼相關新聞？">
-<strong>Indacaterol Maleate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Indacaterol Maleate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/indacaterol-maleate/
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [‘Sustancias químicas eternas’ y asma infantil](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck12eGJLMlVLeFhzQ1V1SG9MMHRVZS1ELWtZbVRwTFY4NUVLS0ctTkQtTGI2TDZTMng4cVJ3Z01RYnRjdEttZURSWkJjQmd2U0EzVDVUeEJHVm9zMC1VcktzZHZ0ajByY3E1NDk0NjkyOERWNzNIczlZeC00VzlsT2x6d3JOQdIBiwFBVV95cUxOdTdoZm9PbFRBVDh3ejlBVHRoZHR3a216czAwcUxoWWFnV3ZhVzk5MlZDa2xqRVd2TENsSnpsaW1zXzRsTUF2ZThXNTZaWUxQMlJ6Z09DT1pSbjRqaXVIRXBkcFN6NTBwdC1zQ3liQU5xNzJEQkdoYzZER0poTnV6NFhac0xaSk5VNUhB?oc=5)
+
+2026-04-20 <span class="news-indication-tag">asma</span>
+
+來源：[biotechmagazineandnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck12eGJLMlVLeFhzQ1V1SG9MMHRVZS1ELWtZbVRwTFY4NUVLS0ctTkQtTGI2TDZTMng4cVJ3Z01RYnRjdEttZURSWkJjQmd2U0EzVDVUeEJHVm9zMC1VcktzZHZ0ajByY3E1NDk0NjkyOERWNzNIczlZeC00VzlsT2x6d3JOQdIBiwFBVV95cUxOdTdoZm9PbFRBVDh3ejlBVHRoZHR3a216czAwcUxoWWFnV3ZhVzk5MlZDa2xqRVd2TENsSnpsaW1zXzRsTUF2ZThXNTZaWUxQMlJ6Z09DT1pSbjRqaXVIRXBkcFN6NTBwdC1zQ3liQU5xNzJEQkdoYzZER0poTnV6NFhac0xaSk5VNUhB?oc=5)
+
+---
 
 ### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
 

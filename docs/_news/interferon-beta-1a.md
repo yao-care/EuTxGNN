@@ -54,27 +54,27 @@ permalink: /news/interferon-beta-1a/
 
 ## 相關新聞（3 則）
 
+### [Broken-Heart-Syndrom: Wenn Kummer aufs Herz schlägt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3dVSlU1M25CZS1NQWV4UWEzeUF1Mi10WDBqMWswRjl4Q2RiMEh0eDZWUGsxdzNYN054ZDRRS1E4N0xmd3RMUmtqdDBQZl9ELTE4eWtGOFFPTWQ3OWFWQU15aDZyOWZ3ejZMLXRONzA2MkFWNDhVdGZ6NFNXeFE4RWM4WTMxamZLd2RrcWpZRTE1U1JyUmVINDVDUmUwd1RYWjVmbkpHN2ZDYlNpQTZydjBiYkUxVW85a185dkY2d25iMGM?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span>
+
+來源：[Kurier](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3dVSlU1M25CZS1NQWV4UWEzeUF1Mi10WDBqMWswRjl4Q2RiMEh0eDZWUGsxdzNYN054ZDRRS1E4N0xmd3RMUmtqdDBQZl9ELTE4eWtGOFFPTWQ3OWFWQU15aDZyOWZ3ejZMLXRONzA2MkFWNDhVdGZ6NFNXeFE4RWM4WTMxamZLd2RrcWpZRTE1U1JyUmVINDVDUmUwd1RYWjVmbkpHN2ZDYlNpQTZydjBiYkUxVW85a185dkY2d25iMGM?oc=5)
+
+---
+
+### [Un nuevo estudio apunta a la capacidad de no recordar los sueños como una señal temprana de Alzheimer - La Región](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEs5SGJRUlptejZ2S1FUZXBHZWtaLXVVWUdBLU5MalQ2dHR2VWt3S19wd2NBS1BWWXAxTkdsajRwRGVZYWo4UTk3c2dRSFdvRjlndUxUcVJyb3I5ejVmWXAwS29KSHBUaXdpUEV1OUV4OXgxbmhPOXJWS3V0dkpMX2l5TWJDdTR0Y3JjTE9YTXZQQVc3TTByekhablVxc1owMnVUc05qMExxNWVvU1lQVW1GY013QQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Región](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEs5SGJRUlptejZ2S1FUZXBHZWtaLXVVWUdBLU5MalQ2dHR2VWt3S19wd2NBS1BWWXAxTkdsajRwRGVZYWo4UTk3c2dRSFdvRjlndUxUcVJyb3I5ejVmWXAwS29KSHBUaXdpUEV1OUV4OXgxbmhPOXJWS3V0dkpMX2l5TWJDdTR0Y3JjTE9YTXZQQVc3TTByekhablVxc1owMnVUc05qMExxNWVvU1lQVW1GY013QQ?oc=5)
+
+---
+
 ### [TMS: Vom Depressions-Killer zum Turbo fürs Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVFSV9sS014ZEd5TUFZTHRySUJyT2RhX2hEb2ZHeVZBVlhQaDV0bk1fRWN0U3lDdm8ycXVSakRKa2I2ZFNMYW5WNkY3dV9SWnAwb0x0RFplTEd3bkRuWS1QMWZaUzh5ZVZ3VXpfLUFZY3RoUlE3RXRjcEVYb2tORlI4SWlHc3RvdDVfUHdRdnZ5WVpfZ0hfcV9HenlsclNaMnpvRkQ5QkM2SmZ5?oc=5)
 
 2026-04-19 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVFSV9sS014ZEd5TUFZTHRySUJyT2RhX2hEb2ZHeVZBVlhQaDV0bk1fRWN0U3lDdm8ycXVSakRKa2I2ZFNMYW5WNkY3dV9SWnAwb0x0RFplTEd3bkRuWS1QMWZaUzh5ZVZ3VXpfLUFZY3RoUlE3RXRjcEVYb2tORlI4SWlHc3RvdDVfUHdRdnZ5WVpfZ0hfcV9HenlsclNaMnpvRkQ5QkM2SmZ5?oc=5)
-
----
-
-### ["El contenido de los sueños puede verse afectado por la enfermedad de alzhéimer y puede ser una línea de investigación interesante para su diagnóstico precoz"](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
-
-2026-04-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
-
----
-
-### [Dark side of Europe's chemsex scene with party-goers left to die & doctors on brink as hook-up apps fuel deadly crisis - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTU3LVpVbWNrek5UREpIQm9tbjlFNHNUTkNNRm9YaWNyc18tVmdGMExCVERZdDloQnVjQndfbmI2RGh4Z0I2enNCQlhkSG9kOUZNd2drYkVVR0ZLMTZrVk4tWk1pbGFNUDJrb2kwTW55b0xINW9ZU0VNaVc5enc1Q1hrXzA?oc=5)
-
-2026-04-18 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTU3LVpVbWNrek5UREpIQm9tbjlFNHNUTkNNRm9YaWNyc18tVmdGMExCVERZdDloQnVjQndfbmI2RGh4Z0I2enNCQlhkSG9kOUZNd2drYkVVR0ZLMTZrVk4tWk1pbGFNUDJrb2kwTW55b0xINW9ZU0VNaVc5enc1Q1hrXzA?oc=5)
 
 ---
 

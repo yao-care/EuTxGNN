@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lopinavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Caso di Epatite A in una scuola elementare in Campania, il sindaco: «Non bisogna allarmarsi» - Il Mattino](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUk1OTRheEZuOUl6N0V0bXZfdUFuV1hFVFVtMm16ZV92RzFLWm5QZlNCb25rX0RiMWs3VG9TQ2FuNlVZb0puQzlMd3BHU0p0WEc2QUg4OXdySUJ4OXhZMXYxNURfYzd2X0VRaGRac19BNERKaWJBX3hQR0JrLXMzOGdXQ3NZakk3SkNMT1930gGTAUFVX3lxTE1SZFJWWGlwQ0ZaUEJfS05QcDl0d0xsaFpYS0xmSE02T3IyMkF1ZlFvUk1keTJsTnQ0c2dPdjI1NEJmTlM3UlFSd19sZUJod0FsRWV3enpzS1dBaVFKZ3hWeUg1dEZJNURweC1IbHZZVy1RTkhFOWl4RE5oSjBoaHhNZzdLQ2JnVEJJemFJbk1UMWs3dw?oc=5)
-
-2026-04-18 <span class="news-indication-tag">epatite</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUk1OTRheEZuOUl6N0V0bXZfdUFuV1hFVFVtMm16ZV92RzFLWm5QZlNCb25rX0RiMWs3VG9TQ2FuNlVZb0puQzlMd3BHU0p0WEc2QUg4OXdySUJ4OXhZMXYxNURfYzd2X0VRaGRac19BNERKaWJBX3hQR0JrLXMzOGdXQ3NZakk3SkNMT1930gGTAUFVX3lxTE1SZFJWWGlwQ0ZaUEJfS05QcDl0d0xsaFpYS0xmSE02T3IyMkF1ZlFvUk1keTJsTnQ0c2dPdjI1NEJmTlM3UlFSd19sZUJod0FsRWV3enpzS1dBaVFKZ3hWeUg1dEZJNURweC1IbHZZVy1RTkhFOWl4RE5oSjBoaHhNZzdLQ2JnVEJJemFJbk1UMWs3dw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

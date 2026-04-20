@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthme（asthma） 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthme（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthme（asthma） 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
-<strong>asthme（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [‘Sustancias químicas eternas’ y asma infantil](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck12eGJLMlVLeFhzQ1V1SG9MMHRVZS1ELWtZbVRwTFY4NUVLS0ctTkQtTGI2TDZTMng4cVJ3Z01RYnRjdEttZURSWkJjQmd2U0EzVDVUeEJHVm9zMC1VcktzZHZ0ajByY3E1NDk0NjkyOERWNzNIczlZeC00VzlsT2x6d3JOQdIBiwFBVV95cUxOdTdoZm9PbFRBVDh3ejlBVHRoZHR3a216czAwcUxoWWFnV3ZhVzk5MlZDa2xqRVd2TENsSnpsaW1zXzRsTUF2ZThXNTZaWUxQMlJ6Z09DT1pSbjRqaXVIRXBkcFN6NTBwdC1zQ3liQU5xNzJEQkdoYzZER0poTnV6NFhac0xaSk5VNUhB?oc=5)
+
+2026-04-20
+
+來源：[biotechmagazineandnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck12eGJLMlVLeFhzQ1V1SG9MMHRVZS1ELWtZbVRwTFY4NUVLS0ctTkQtTGI2TDZTMng4cVJ3Z01RYnRjdEttZURSWkJjQmd2U0EzVDVUeEJHVm9zMC1VcktzZHZ0ajByY3E1NDk0NjkyOERWNzNIczlZeC00VzlsT2x6d3JOQdIBiwFBVV95cUxOdTdoZm9PbFRBVDh3ejlBVHRoZHR3a216czAwcUxoWWFnV3ZhVzk5MlZDa2xqRVd2TENsSnpsaW1zXzRsTUF2ZThXNTZaWUxQMlJ6Z09DT1pSbjRqaXVIRXBkcFN6NTBwdC1zQ3liQU5xNzJEQkdoYzZER0poTnV6NFhac0xaSk5VNUhB?oc=5)
+
+---
 
 ### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
 

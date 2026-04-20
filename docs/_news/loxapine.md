@@ -14,7 +14,7 @@ permalink: /news/loxapine/
 ---
 
 <p class="key-answer" data-question="Loxapine 有什麼相關新聞？">
-<strong>Loxapine</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Loxapine</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ permalink: /news/loxapine/
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（15 則）
 
-### [¿El café con limón adelgaza y ayuda a quemar grasa? Esta especialista en nutrición lo aclara - El Mundo](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ054OHRmdEdBLUROOVhzYlpwdTJodm5ZbVUxU2J6QklOd0hRaG1kc2luTnNFdUVlQVA0WEVnTEJIWG1yS09vYkcyWXVWazRZaTJKNFgtakVSYUxGTFlGbzVRaVZZYzh1YzVpdGdVellrUXRRMWdPN3FOWTNTbDladW9QaU9zUklwXzZ4TnFn0gGOAUFVX3lxTE9NNlJxNVV6d29HZjBZUTJXWTVQZ3ZZNzNrRUlISWtWT3RRRV9XQ1pLbXRwMkJ3ODgxZWVsRGVOZ2dObTAtMDVLNFNTTDNNTlNWUE5KUFRWWmlrRHU5OW1YZlVXLS11ZTBESS1ZTE1zRUNSN0RfV21zT3pSdG5IUGdKa0NaeTluaGlqRFBuUUE?oc=5)
+### [Cuatro de cada diez afectados por glaucoma en Euskal Herria lo desconoce](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFVpR1BVREN3T21tTU40enVPdHJ5RU9NeVFzQ29raEhKQnYxTVJzclVZbnIwQ3JBVGdDUC04bHQ5U3lDSldyYVJsSWdJM3BkbVpLYTZlYkN1MHNScHAwYXVwUE9vT1BnMVBjd3pkb2Z2VUUyOElBV1pwTWQxck1yUzh4Q25vc1J5NTRMbg?oc=5)
 
-2026-04-19 <span class="news-indication-tag">AF</span>
+2026-04-20 <span class="news-indication-tag">AF</span>
 
-來源：[El Mundo](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ054OHRmdEdBLUROOVhzYlpwdTJodm5ZbVUxU2J6QklOd0hRaG1kc2luTnNFdUVlQVA0WEVnTEJIWG1yS09vYkcyWXVWazRZaTJKNFgtakVSYUxGTFlGbzVRaVZZYzh1YzVpdGdVellrUXRRMWdPN3FOWTNTbDladW9QaU9zUklwXzZ4TnFn0gGOAUFVX3lxTE9NNlJxNVV6d29HZjBZUTJXWTVQZ3ZZNzNrRUlISWtWT3RRRV9XQ1pLbXRwMkJ3ODgxZWVsRGVOZ2dObTAtMDVLNFNTTDNNTlNWUE5KUFRWWmlrRHU5OW1YZlVXLS11ZTBESS1ZTE1zRUNSN0RfV21zT3pSdG5IUGdKa0NaeTluaGlqRFBuUUE?oc=5)
+來源：[Deia](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFVpR1BVREN3T21tTU40enVPdHJ5RU9NeVFzQ29raEhKQnYxTVJzclVZbnIwQ3JBVGdDUC04bHQ5U3lDSldyYVJsSWdJM3BkbVpLYTZlYkN1MHNScHAwYXVwUE9vT1BnMVBjd3pkb2Z2VUUyOElBV1pwTWQxck1yUzh4Q25vc1J5NTRMbg?oc=5)
 
 ---
 
-### [Medizin revolutioniert Behandlung von Fettleibigkeit und Lebererkrankungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWFRZHZxV2lLSDZQb2o1NnFCVnJyODBuNWU4UWhyV3dMLUtMSE1hRUVMaU13OEFsZDNWOXpQcGNvZ29ZcTFaT29ReTFWTk1KSUdzaThxYl8yZlBmYjVNZUNNODdfVXVkcGtGaUU5RHlEVHdqblJxcENQVFM4ZWFSUkFiZXl3ZWhpWFdxYzBlOExDM3BiY18ta3E3TGxROVRZYUVSOHAxclhQMkVIRTRFS3NhbkU1eG5STjdxRm9KLU9CUXhFbzdJOENIZWJGUQ?oc=5)
+### [Broken-Heart-Syndrom: Wenn Kummer aufs Herz schlägt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3dVSlU1M25CZS1NQWV4UWEzeUF1Mi10WDBqMWswRjl4Q2RiMEh0eDZWUGsxdzNYN054ZDRRS1E4N0xmd3RMUmtqdDBQZl9ELTE4eWtGOFFPTWQ3OWFWQU15aDZyOWZ3ejZMLXRONzA2MkFWNDhVdGZ6NFNXeFE4RWM4WTMxamZLd2RrcWpZRTE1U1JyUmVINDVDUmUwd1RYWjVmbkpHN2ZDYlNpQTZydjBiYkUxVW85a185dkY2d25iMGM?oc=5)
 
-2026-04-19 <span class="news-indication-tag">Fettleibigkeit</span> <span class="news-indication-tag">AF</span>
+2026-04-20 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWFRZHZxV2lLSDZQb2o1NnFCVnJyODBuNWU4UWhyV3dMLUtMSE1hRUVMaU13OEFsZDNWOXpQcGNvZ29ZcTFaT29ReTFWTk1KSUdzaThxYl8yZlBmYjVNZUNNODdfVXVkcGtGaUU5RHlEVHdqblJxcENQVFM4ZWFSUkFiZXl3ZWhpWFdxYzBlOExDM3BiY18ta3E3TGxROVRZYUVSOHAxclhQMkVIRTRFS3NhbkU1eG5STjdxRm9KLU9CUXhFbzdJOENIZWJGUQ?oc=5)
+來源：[Kurier](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3dVSlU1M25CZS1NQWV4UWEzeUF1Mi10WDBqMWswRjl4Q2RiMEh0eDZWUGsxdzNYN054ZDRRS1E4N0xmd3RMUmtqdDBQZl9ELTE4eWtGOFFPTWQ3OWFWQU15aDZyOWZ3ejZMLXRONzA2MkFWNDhVdGZ6NFNXeFE4RWM4WTMxamZLd2RrcWpZRTE1U1JyUmVINDVDUmUwd1RYWjVmbkpHN2ZDYlNpQTZydjBiYkUxVW85a185dkY2d25iMGM?oc=5)
+
+---
+
+### [Rafael Valdés, experto en microbiota: «Los probióticos están sobrevalorados. Se les atribuyen más beneficios de los que realmente tienen» - La Voz de Asturias](https://news.google.com/rss/articles/CBMiigJBVV95cUxQc0hRN0RxazM3OUJkdGNRYWJ3UG1QdFAtV19PaEhxQ3ltRzEtRE1TVjFTNTZTRTFMVUhNcUdleURKZGhqMTJEWVNWY1VDMllFUTVfZXFRMHFrM281djBvYURkam5mMXNjVjg1a3VEcjgtT2JFNzlHLXJZWTluODdJT0lVZmFEMXBpeWtsMW90by1uSjdWRG9YbjdKTkJsVTcwbGVydzRHYTRTQ2lsWmhYUHJlUGxLZUNEczd2ZXBHYWVyazVkVjhiek1sMXVjTXhsbzNDQ3ZXTW0zZTktTVN6MjRzUVViQlJoZ2k2cm5wT0E2aWNuN3pUdzZjQzlHVDNiRGpGQmh0ZEc0QQ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">AF</span>
+
+來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMiigJBVV95cUxQc0hRN0RxazM3OUJkdGNRYWJ3UG1QdFAtV19PaEhxQ3ltRzEtRE1TVjFTNTZTRTFMVUhNcUdleURKZGhqMTJEWVNWY1VDMllFUTVfZXFRMHFrM281djBvYURkam5mMXNjVjg1a3VEcjgtT2JFNzlHLXJZWTluODdJT0lVZmFEMXBpeWtsMW90by1uSjdWRG9YbjdKTkJsVTcwbGVydzRHYTRTQ2lsWmhYUHJlUGxLZUNEczd2ZXBHYWVyazVkVjhiek1sMXVjTXhsbzNDQ3ZXTW0zZTktTVN6MjRzUVViQlJoZ2k2cm5wT0E2aWNuN3pUdzZjQzlHVDNiRGpGQmh0ZEc0QQ?oc=5)
+
+---
+
+### [HRT stopped working for me, but these simple diet tweaks cured my menopausal hot flushes in just 6 weeks - Daily Mail](https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUZhNjYzaEtxQS1zQU5EUFBEWXRaYk9OaVpZdVlydFk0Z0R2cEFYOVdxOWFhUEV3cDBPMWhyTWNpX1JuNTNILXFkOVZFXzZPeFNsR21HbUEyNU5pRjdFcUM4bzIxV0phczhZVmNnZHl2aDhiUkcteG1jV1VnajlZZlJDZ0dIZHV6M3J0anJ1Wi02QQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUZhNjYzaEtxQS1zQU5EUFBEWXRaYk9OaVpZdVlydFk0Z0R2cEFYOVdxOWFhUEV3cDBPMWhyTWNpX1JuNTNILXFkOVZFXzZPeFNsR21HbUEyNU5pRjdFcUM4bzIxV0phczhZVmNnZHl2aDhiUkcteG1jV1VnajlZZlJDZ0dIZHV6M3J0anJ1Wi02QQ?oc=5)
+
+---
+
+### [¿El café con limón adelgaza y ayuda a quemar grasa? Esta especialista en nutrición lo aclara - El Mundo](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ054OHRmdEdBLUROOVhzYlpwdTJodm5ZbVUxU2J6QklOd0hRaG1kc2luTnNFdUVlQVA0WEVnTEJIWG1yS09vYkcyWXVWazRZaTJKNFgtakVSYUxGTFlGbzVRaVZZYzh1YzVpdGdVellrUXRRMWdPN3FOWTNTbDladW9QaU9zUklwXzZ4TnFn?oc=5)
+
+2026-04-19 <span class="news-indication-tag">AF</span>
+
+來源：[El Mundo](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ054OHRmdEdBLUROOVhzYlpwdTJodm5ZbVUxU2J6QklOd0hRaG1kc2luTnNFdUVlQVA0WEVnTEJIWG1yS09vYkcyWXVWazRZaTJKNFgtakVSYUxGTFlGbzVRaVZZYzh1YzVpdGdVellrUXRRMWdPN3FOWTNTbDladW9QaU9zUklwXzZ4TnFn?oc=5)
+
+---
+
+### [Un nuevo estudio apunta a la capacidad de no recordar los sueños como una señal temprana de Alzheimer - La Región](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEs5SGJRUlptejZ2S1FUZXBHZWtaLXVVWUdBLU5MalQ2dHR2VWt3S19wd2NBS1BWWXAxTkdsajRwRGVZYWo4UTk3c2dRSFdvRjlndUxUcVJyb3I5ejVmWXAwS29KSHBUaXdpUEV1OUV4OXgxbmhPOXJWS3V0dkpMX2l5TWJDdTR0Y3JjTE9YTXZQQVc3TTByekhablVxc1owMnVUc05qMExxNWVvU1lQVW1GY013QQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Región](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEs5SGJRUlptejZ2S1FUZXBHZWtaLXVVWUdBLU5MalQ2dHR2VWt3S19wd2NBS1BWWXAxTkdsajRwRGVZYWo4UTk3c2dRSFdvRjlndUxUcVJyb3I5ejVmWXAwS29KSHBUaXdpUEV1OUV4OXgxbmhPOXJWS3V0dkpMX2l5TWJDdTR0Y3JjTE9YTXZQQVc3TTByekhablVxc1owMnVUc05qMExxNWVvU1lQVW1GY013QQ?oc=5)
 
 ---
 
@@ -78,11 +110,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Ritmo circadiano: cómo afecta el cambio de hora de primavera a tu salud y a tu reloj biológico interno](https://news.google.com/rss/articles/CBMigAFBVV95cUxONmRwOVNwQUxMRTMzOXBKajJzRmFYRlhRcmlfSjBzV3hmRTN0SjFOYU9VUWpFbE9MbVNxYkl6ZXJVRXdJQ3N6TGFXdkNlRFYyLWpuNUFTVEd0T3NsT1IxSy1sNFNKOXctMVU4MjFWOHNGMFZjZURNRmFmS1RNVmVRMg?oc=5)
+### [Mediziner rätseln nach 5 Todesfällen: Tödliches Virus ausgebrochen - ungewöhnliche Symptom-Kombination](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVGJhUUVoVFZNNHNsYnRCRFNCZW1TV0doZkgzQ2xxdG9SVDQyaG92ZjZ2QXc2MzFCQVpscktVc1lmbENiZFNjVXFoaUdhbG5RLWkyRUhURms1aXBxcXIxZE9USElUaUFqSktBV1hDMG1jbVZzNTBSTzJBcUpxZDd0RVlWeDFDZl9Pem1ubDd5TFhxUEdIRGg5X0p1ZDAwTDNWaWFEZGk0Y3NNa01UZ1VRUWg4X0t4MFdzS0daNGEwX3h2WkdBVjNxalBsRVNPVVlIdTdFeWttU2NRVi0xdThPS0dmSTdmblBaU0s4Nm5KODNlNGZNRDQwQ9IB_gFBVV95cUxQOHRDX1hHM3Fra3N3OUJ3OW1BNDR2bzJfejFUVjRZaGhtTUFBVld4RGw5T2pMV1NFVFNBaXJfdC1mT2tlMVhtcHVzQktsVk10Qm53cTByT0NVX1NkOW1wSkVvcGZka0lhUHR6VzYzWTlIYVl0WXVta3Y3MG9mU1FqejhFd1p5MHFUcVJsaTZpMGRXNkhwTElQZHZlNnhGSDhoVFFmd0JDc2tTQ0c3Zm8zSjFpVVRlQXRkVUdXdzVMNjBjTF9NZWQzV0dKOTRMRnlhTnpRQlV1aXZUalhqUExaWFB0a3dPMDJvV1k2dDNiNVdlV1RLX2dPa0o0UmRJQQ?oc=5)
 
 2026-04-19 <span class="news-indication-tag">AF</span>
 
-來源：[que.es](https://news.google.com/rss/articles/CBMigAFBVV95cUxONmRwOVNwQUxMRTMzOXBKajJzRmFYRlhRcmlfSjBzV3hmRTN0SjFOYU9VUWpFbE9MbVNxYkl6ZXJVRXdJQ3N6TGFXdkNlRFYyLWpuNUFTVEd0T3NsT1IxSy1sNFNKOXctMVU4MjFWOHNGMFZjZURNRmFmS1RNVmVRMg?oc=5)
+來源：[News.de](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVGJhUUVoVFZNNHNsYnRCRFNCZW1TV0doZkgzQ2xxdG9SVDQyaG92ZjZ2QXc2MzFCQVpscktVc1lmbENiZFNjVXFoaUdhbG5RLWkyRUhURms1aXBxcXIxZE9USElUaUFqSktBV1hDMG1jbVZzNTBSTzJBcUpxZDd0RVlWeDFDZl9Pem1ubDd5TFhxUEdIRGg5X0p1ZDAwTDNWaWFEZGk0Y3NNa01UZ1VRUWg4X0t4MFdzS0daNGEwX3h2WkdBVjNxalBsRVNPVVlIdTdFeWttU2NRVi0xdThPS0dmSTdmblBaU0s4Nm5KODNlNGZNRDQwQ9IB_gFBVV95cUxQOHRDX1hHM3Fra3N3OUJ3OW1BNDR2bzJfejFUVjRZaGhtTUFBVld4RGw5T2pMV1NFVFNBaXJfdC1mT2tlMVhtcHVzQktsVk10Qm53cTByT0NVX1NkOW1wSkVvcGZka0lhUHR6VzYzWTlIYVl0WXVta3Y3MG9mU1FqejhFd1p5MHFUcVJsaTZpMGRXNkhwTElQZHZlNnhGSDhoVFFmd0JDc2tTQ0c3Zm8zSjFpVVRlQXRkVUdXdzVMNjBjTF9NZWQzV0dKOTRMRnlhTnpRQlV1aXZUalhqUExaWFB0a3dPMDJvV1k2dDNiNVdlV1RLX2dPa0o0UmRJQQ?oc=5)
 
 ---
 
@@ -94,25 +126,9 @@ permalink: /news/loxapine/
 
 ---
 
-### ["El contenido de los sueños puede verse afectado por la enfermedad de alzhéimer y puede ser una línea de investigación interesante para su diagnóstico precoz"](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
-
-2026-04-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
-
----
-
-### [La NASA fotografía por primera vez el polo del Sol y descubre un campo magnético hecho un caos que asusta a los científicos](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQk9XZk50eG9jZEpINnVqSV9aTXF1WTdGV0hlWVlsdkZwMU1FQzJBUWhwMDI5MjRVSkVCZ0EwNVlDUGNOd1EtTlFHXzZfV3poTHdaMDJjSThUdU9VOXBCeFJyTUR0N3F2R1NCMUVoM2p3ZFR4VTh2VXhxUEs2QmpManRPLWEybzBGby0xS1R2ZmRLODVPR2h1bGU3ajZxSEhxOEstdUR0U1NkVUIwZUJTelRneGl6RXZxWU1FeFpfNlFsUkJ2bjRyXzlhMmRmZ0pSMW16aXpzX016WjE5UGpEYVVvbnFDZzBXN3UtWDBPdkFBT21IbVhjSkxUaDUtX0nSAYQCQVVfeXFMTTVkUFBaZld1N2tDTXRYM1FSaUhjQk4yTjlFdHh3bXl1cDBiZ0pnNmRGT1h0RHdJNEVmTWtXaEV5T0gwTlRRbEhVT3NnR2R0a1J0RkZUVktoQ3hucjd6VnIxb3ZTTmwzTWlPMnkwcTdLOUZYVkFIVnhCTXNFbFpRcGJ6RHAwU0Q5Qmllenl4clI5dVZBRXZlUXhTam5yeEt3WmMyWXd3Wi1fMlRsS1B0TlJEdFU1azBVZGllemMyRFNlTTBOeDZaLURYVWZ3R05qY2E5dXc1UHJ4ZWVlUnRtSXNhX29Wb2RDdF9JcnhVWmNRX2pJZ2xoaUZRODhIZkpXU3gzSHk?oc=5)
-
-2026-04-19 <span class="news-indication-tag">AF</span>
-
-來源：[Vandal](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQk9XZk50eG9jZEpINnVqSV9aTXF1WTdGV0hlWVlsdkZwMU1FQzJBUWhwMDI5MjRVSkVCZ0EwNVlDUGNOd1EtTlFHXzZfV3poTHdaMDJjSThUdU9VOXBCeFJyTUR0N3F2R1NCMUVoM2p3ZFR4VTh2VXhxUEs2QmpManRPLWEybzBGby0xS1R2ZmRLODVPR2h1bGU3ajZxSEhxOEstdUR0U1NkVUIwZUJTelRneGl6RXZxWU1FeFpfNlFsUkJ2bjRyXzlhMmRmZ0pSMW16aXpzX016WjE5UGpEYVVvbnFDZzBXN3UtWDBPdkFBT21IbVhjSkxUaDUtX0nSAYQCQVVfeXFMTTVkUFBaZld1N2tDTXRYM1FSaUhjQk4yTjlFdHh3bXl1cDBiZ0pnNmRGT1h0RHdJNEVmTWtXaEV5T0gwTlRRbEhVT3NnR2R0a1J0RkZUVktoQ3hucjd6VnIxb3ZTTmwzTWlPMnkwcTdLOUZYVkFIVnhCTXNFbFpRcGJ6RHAwU0Q5Qmllenl4clI5dVZBRXZlUXhTam5yeEt3WmMyWXd3Wi1fMlRsS1B0TlJEdFU1azBVZGllemMyRFNlTTBOeDZaLURYVWZ3R05qY2E5dXc1UHJ4ZWVlUnRtSXNhX29Wb2RDdF9JcnhVWmNRX2pJZ2xoaUZRODhIZkpXU3gzSHk?oc=5)
-
----
-
 ### [22-year-old has 18 months to live after vaping from age 15 - Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWJTN05XN0dieDdDVEs2cnY3UXpqNHhGbnJmNEhWRkViNXVEemhSdUl3ZEVtenpnc0lCV1F0UVY5bTBKZE1WX1RJNDVkeTFLNVNpbGQtdnoxeFhEekg5RnlOT3dSV1g4T2hDWmJmS0dIUGJvWWRLWDU1Y2tFaU5Mb19yak5EUHNYbGstSDJsNGNXak9WWTdTNkxRUl9qb3R20gGmAUFVX3lxTE1Ib2NjLURPWll2c1ViczlwdnlNXzhVOVhsanR0UVpQME1NMF92VHY1NGN5RDdpc3V3bEZycVJ1RG5abG1leUc1U0FCNEVpZmE3UVJoMVFiT0FHUEx2QVpRblh6bGVXS3F4NzBYWjRpTE1jVl80VUhLbmpUNHE1VlZzRldSOS1QNm1ibXlMNE55dzVjM0V0TFFTeGx4Q3NtaVI0eURUemc?oc=5)
 
-2026-04-19 <span class="news-indication-tag">AF</span>
+2026-04-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWJTN05XN0dieDdDVEs2cnY3UXpqNHhGbnJmNEhWRkViNXVEemhSdUl3ZEVtenpnc0lCV1F0UVY5bTBKZE1WX1RJNDVkeTFLNVNpbGQtdnoxeFhEekg5RnlOT3dSV1g4T2hDWmJmS0dIUGJvWWRLWDU1Y2tFaU5Mb19yak5EUHNYbGstSDJsNGNXak9WWTdTNkxRUl9qb3R20gGmAUFVX3lxTE1Ib2NjLURPWll2c1ViczlwdnlNXzhVOVhsanR0UVpQME1NMF92VHY1NGN5RDdpc3V3bEZycVJ1RG5abG1leUc1U0FCNEVpZmE3UVJoMVFiT0FHUEx2QVpRblh6bGVXS3F4NzBYWjRpTE1jVl80VUhLbmpUNHE1VlZzRldSOS1QNm1ibXlMNE55dzVjM0V0TFFTeGx4Q3NtaVI0eURUemc?oc=5)
 
@@ -134,14 +150,6 @@ permalink: /news/loxapine/
 
 ---
 
-### [Mysteriöse Krankheit in Ostafrika ausgebrochen – WHO alarmiert - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlpEY18waWhkMEREVkgxUEVRWlJpbXVnN2dTcmpXMUhtZktacmNpNnZjVXlOVk1EeGxIUlJRVzFsdkIyaThfSTBMMlFud1ZQRVBtX0pUVnJrX2k1cEZFUlVKdlBVX1JkT1NCdk1fYnl2aGlXdW50U0hkYlo4VUktQTU0R1dlMjZISVlmWXg0UV9aczc0aDBMVW1ZWmFaMmRtek5XVUIteHRYSU5uaUQyME5talZUS1ZrcFBXaDNkRDhpYm8?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlpEY18waWhkMEREVkgxUEVRWlJpbXVnN2dTcmpXMUhtZktacmNpNnZjVXlOVk1EeGxIUlJRVzFsdkIyaThfSTBMMlFud1ZQRVBtX0pUVnJrX2k1cEZFUlVKdlBVX1JkT1NCdk1fYnl2aGlXdW50U0hkYlo4VUktQTU0R1dlMjZISVlmWXg0UV9aczc0aDBMVW1ZWmFaMmRtek5XVUIteHRYSU5uaUQyME5talZUS1ZrcFBXaDNkRDhpYm8?oc=5)
-
----
-
 ### [Das schlafende Gehirn rekonstruiert schlechte Erinnerungen präziser als gute - Martin Cid Magazine](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmR2YnFDMWhjRjZ5NTNxdF83UGVJaDhlUUNzUk9WRTJlamRhNThxUllmcjZWekhNZ0VyMUZqZjBGS09rQS1sV1MzcnhxazdEZEY5WE5sWkdreVp1MkRobk9FY0xZbmFSY1Fld21iX1RwMzFrYm0wTjhNZFRuQUtKdldYdnN1MjQ1R3RqUmh4VE1Fb1dPMnF1eG1yR2dwSnR3UWZZby1UeW56Y2Eta09kTzJLTF9XV1k?oc=5)
 
 2026-04-18 <span class="news-indication-tag">AF</span>
@@ -158,43 +166,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [California urges mpox vaccination after more-severe strain detected in San Francisco - Los Angeles Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlExRTliQWpUZmNRWDI4cUZ0eUJyWG91U3A3bWt3NXNMd2pZVkd2Z0c1NVhEN3hJQ09tYTJkWE9acEwxRnVETWp2V2ZfOTZiSkNaWnhSeFVuMGc5RHBzVjRuMjhqdWJYaWhJd1FOWG1SS1Z6Njc2R1NCempmNXZheGVaSUszeXhuQ1IxY21aNEE4aDdfeG5Cb0huYjZ1eC13M3p3T0thS1Y0cF9sSTRMc1Vrc3BWbllma2xBeFZ3TlRVdHc?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[Los Angeles Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlExRTliQWpUZmNRWDI4cUZ0eUJyWG91U3A3bWt3NXNMd2pZVkd2Z0c1NVhEN3hJQ09tYTJkWE9acEwxRnVETWp2V2ZfOTZiSkNaWnhSeFVuMGc5RHBzVjRuMjhqdWJYaWhJd1FOWG1SS1Z6Njc2R1NCempmNXZheGVaSUszeXhuQ1IxY21aNEE4aDdfeG5Cb0huYjZ1eC13M3p3T0thS1Y0cF9sSTRMc1Vrc3BWbllma2xBeFZ3TlRVdHc?oc=5)
-
----
-
-### [Dark side of Europe's chemsex scene with party-goers left to die & doctors on brink as hook-up apps fuel deadly crisis - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTU3LVpVbWNrek5UREpIQm9tbjlFNHNUTkNNRm9YaWNyc18tVmdGMExCVERZdDloQnVjQndfbmI2RGh4Z0I2enNCQlhkSG9kOUZNd2drYkVVR0ZLMTZrVk4tWk1pbGFNUDJrb2kwTW55b0xINW9ZU0VNaVc5enc1Q1hrXzA?oc=5)
-
-2026-04-18 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTU3LVpVbWNrek5UREpIQm9tbjlFNHNUTkNNRm9YaWNyc18tVmdGMExCVERZdDloQnVjQndfbmI2RGh4Z0I2enNCQlhkSG9kOUZNd2drYkVVR0ZLMTZrVk4tWk1pbGFNUDJrb2kwTW55b0xINW9ZU0VNaVc5enc1Q1hrXzA?oc=5)
-
----
-
 ### [Wissenschaft - Neue Methode könnte Herzschwäche und Narbenbildung am Herzen verhindern](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQUJFeU9pYmsxRmJ1dGJVRXc5ZUN3TlExNmhPUDI2S2lLQ05HOHlRdlRuanl0aE11WmdKLW83R2Jvb3NETElUQWJlaVg0UEdlcUJPOTcwMmIzTGlnWFN3RTh6c3ItRW1wcThhbG5KWmZMYUU4VllpR0VhTkVna0x6eEk3VUo1STRKZUMteU9MVjlsS1NzeE5wZi1qM01WcS14eEZTeGZvNW1IUkFNRjZVVVRZZWotZ0s0c0w3VWc1VE9veko2RU8xeVVPTndhSjBSaGhBRkRCVnNndXp3MlRobUVnbXdVVENkZ3JTNA?oc=5)
 
 2026-04-18 <span class="news-indication-tag">AF</span>
 
 來源：[radioeins](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQUJFeU9pYmsxRmJ1dGJVRXc5ZUN3TlExNmhPUDI2S2lLQ05HOHlRdlRuanl0aE11WmdKLW83R2Jvb3NETElUQWJlaVg0UEdlcUJPOTcwMmIzTGlnWFN3RTh6c3ItRW1wcThhbG5KWmZMYUU4VllpR0VhTkVna0x6eEk3VUo1STRKZUMteU9MVjlsS1NzeE5wZi1qM01WcS14eEZTeGZvNW1IUkFNRjZVVVRZZWotZ0s0c0w3VWc1VE9veko2RU8xeVVPTndhSjBSaGhBRkRCVnNndXp3MlRobUVnbXdVVENkZ3JTNA?oc=5)
-
----
-
-### [Lucía Nieto, médico general: "La astenia primaveral no es una enfermedad, es una cuestión de carácter transitorio" - Onda Vasca](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSS1sMDJpMlMyaGgwcFM5MW5kRmFCSTVKZ1I3YmVpU2tBdWlMY2RBUmN4N0JaSlljVVVqcTZFUF9nNG13cTRHYXhXWF84MjBUWF9XREZRLU1FSXF6cHhHUDF3WFlSYmpjZkVxNFJ2Q0FiODM3M0dLTjB4SnRVX2dsdmtkbHBkTVdiTWsxSml3dzFhRWhwdzZtcXc0VTI4MVotX1VLVFFiSlZhUmsxMmxkOGNLNGx5U3UtNmxFMURNOVAzMHVncGJPRFRlSFEzS0JWdmc?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[Onda Vasca](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSS1sMDJpMlMyaGgwcFM5MW5kRmFCSTVKZ1I3YmVpU2tBdWlMY2RBUmN4N0JaSlljVVVqcTZFUF9nNG13cTRHYXhXWF84MjBUWF9XREZRLU1FSXF6cHhHUDF3WFlSYmpjZkVxNFJ2Q0FiODM3M0dLTjB4SnRVX2dsdmtkbHBkTVdiTWsxSml3dzFhRWhwdzZtcXc0VTI4MVotX1VLVFFiSlZhUmsxMmxkOGNLNGx5U3UtNmxFMURNOVAzMHVncGJPRFRlSFEzS0JWdmc?oc=5)
-
----
-
-### [Wife switched off husband's Royal Stoke life-support 11 days after Covid jab - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDcxTWNBclBJTTFndHE2bmNXNnVMaDZ3MXlNVm5uMEIwWjRVV014aXptLXp4QWoyb2JOZWNzWmZBR0VZWXV0ck1vd2J4cWQ3TGUwWm44SWlyQVloWHV0elE5cXN6NHVVRFZqUGRJWjRmaWM2eURyWnB3dFRiUThoLTlYX2NiMGxhQXR0YW00V0N6QmdBR0tQcW1ZektNWndyVWc?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDcxTWNBclBJTTFndHE2bmNXNnVMaDZ3MXlNVm5uMEIwWjRVV014aXptLXp4QWoyb2JOZWNzWmZBR0VZWXV0ck1vd2J4cWQ3TGUwWm44SWlyQVloWHV0elE5cXN6NHVVRFZqUGRJWjRmaWM2eURyWnB3dFRiUThoLTlYX2NiMGxhQXR0YW00V0N6QmdBR0tQcW1ZektNWndyVWc?oc=5)
 
 ---
 

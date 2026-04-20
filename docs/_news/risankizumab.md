@@ -14,7 +14,7 @@ permalink: /news/risankizumab/
 ---
 
 <p class="key-answer" data-question="Risankizumab 有什麼相關新聞？">
-<strong>Risankizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Risankizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/risankizumab/
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（9 則）
+
+### [Diabetes und Schilddrüse: Neue Leitlinien fordern engere Kontrolle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW9iTExHdGNzT3JROXZFMHJsQnhGcUJFT0FvWHBic3lWNTVrRjN2S0NsSWU4Nzh0dUZhaDNvWFJCRmZQZWRENVhwajgwTVhwRzdIU0s0MUlBTF9KNEtlVTNSRUFWeTU2UnBmYnhxWGlpUV93XzhjcTktTlh5eFNLczFHRXMzblFOX29MOXBuLUlpUTNucFdOUFhxU2xQM3dvM3RzQ3dVM19nV0d1ZVRHS0NIM2JOU1E1dHRBMkxpRkpWUEU?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW9iTExHdGNzT3JROXZFMHJsQnhGcUJFT0FvWHBic3lWNTVrRjN2S0NsSWU4Nzh0dUZhaDNvWFJCRmZQZWRENVhwajgwTVhwRzdIU0s0MUlBTF9KNEtlVTNSRUFWeTU2UnBmYnhxWGlpUV93XzhjcTktTlh5eFNLczFHRXMzblFOX29MOXBuLUlpUTNucFdOUFhxU2xQM3dvM3RzQ3dVM19nV0d1ZVRHS0NIM2JOU1E1dHRBMkxpRkpWUEU?oc=5)
+
+---
+
+### [Pädiatrie: Diabetes- und Herz-Kreislauf-Risiko auch bei „gesunder“ Adipositas erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2hOeXYtRTA2aTRycWhOOW16SEp0ZmhqX1RyM0tiRmJ4dTdaUUpDVmdBdEt4YXY5cUYtamJwM1J3N1RVRWVhU0N5X1RMRW9Hc3VtWEVoRjM4LUhZbmY0UWpHWlhhckdDNFZQSERadEdPZWZtYzlnTGxTOWt4UkxfTmd4eTkxWlNVM0dTOHZmclhTcm03NkZmbjFrV1ZuM3habkFFMW5lcEUtcXRXOUxwaWR5T2tqTTBIYUJHc21Xdkt3eHFMXzhuZVlCZnFSWkg3ZVFGWWVWanVIbG1vSmNFdlU5NA?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2hOeXYtRTA2aTRycWhOOW16SEp0ZmhqX1RyM0tiRmJ4dTdaUUpDVmdBdEt4YXY5cUYtamJwM1J3N1RVRWVhU0N5X1RMRW9Hc3VtWEVoRjM4LUhZbmY0UWpHWlhhckdDNFZQSERadEdPZWZtYzlnTGxTOWt4UkxfTmd4eTkxWlNVM0dTOHZmclhTcm03NkZmbjFrV1ZuM3habkFFMW5lcEUtcXRXOUxwaWR5T2tqTTBIYUJHc21Xdkt3eHFMXzhuZVlCZnFSWkg3ZVFGWWVWanVIbG1vSmNFdlU5NA?oc=5)
+
+---
+
+### [La pérdida de peso moderada, clave para mejorar la glucosa en pacientes diabético - FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTJWdnVwM0VzMnZ0VllNeXdnbVkxOUt4VmxCWTkwWVNIMXVsaDF3a1FleWpsWU8wOFFXclZ4OWd0ZXF3aHVXMTdtZFVIU3d5VWVXODNhOUxBT3F2c2l3eFF6UTkxZFpxSnJESjJRZUhnWGZoX093U1h5aHhHWlZqM2JvS1Fwb24zUTRqczlPdkZlOGJDSktSajg2MXR4V2ZhWVF6UmdTTlAyMU95a3Rj?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTJWdnVwM0VzMnZ0VllNeXdnbVkxOUt4VmxCWTkwWVNIMXVsaDF3a1FleWpsWU8wOFFXclZ4OWd0ZXF3aHVXMTdtZFVIU3d5VWVXODNhOUxBT3F2c2l3eFF6UTkxZFpxSnJESjJRZUhnWGZoX093U1h5aHhHWlZqM2JvS1Fwb24zUTRqczlPdkZlOGJDSktSajg2MXR4V2ZhWVF6UmdTTlAyMU95a3Rj?oc=5)
+
+---
+
+### [El Puerta de Hierro implementa un cribado basado en pruebas de laboratorio que detecta enfermedades hepáticas en pacientes con diabetes - Noroeste Madrid](https://news.google.com/rss/articles/CBMihgJBVV95cUxOUUJoUE9lanplY0YyMFo5a1pWdm1FQVdNUWlKV3VOUDl3TmVtZnpPUEVmaUV4Sl9uUUJvWkQwcS1aaEhtZjItbmdNWXBOSjR0dy03MnJ3THlaT1EzQ3c0NG5wN0tOX1dJbk5NWlFwZ3FuSFl1VmFtdmdLd2U4VjIwMVNrSTkwS25CNDZsaUh5OW03ZnloMmhmbmo3ZjBSWTRBTldLb2x3QlJteWlZZlYzeU5DeHV5Z3lESTFfdUJMemVwQnpYMjJXcFRmWUlNTUg3MlV4QWU3ZmpvMm9VM0VTZ2FaRFd1VFFPR3ZWUm1JSXh4U2hwQVdvT29ndV9SdWQ2RUpmNjJn?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Noroeste Madrid](https://news.google.com/rss/articles/CBMihgJBVV95cUxOUUJoUE9lanplY0YyMFo5a1pWdm1FQVdNUWlKV3VOUDl3TmVtZnpPUEVmaUV4Sl9uUUJvWkQwcS1aaEhtZjItbmdNWXBOSjR0dy03MnJ3THlaT1EzQ3c0NG5wN0tOX1dJbk5NWlFwZ3FuSFl1VmFtdmdLd2U4VjIwMVNrSTkwS25CNDZsaUh5OW03ZnloMmhmbmo3ZjBSWTRBTldLb2x3QlJteWlZZlYzeU5DeHV5Z3lESTFfdUJMemVwQnpYMjJXcFRmWUlNTUg3MlV4QWU3ZmpvMm9VM0VTZ2FaRFd1VFFPR3ZWUm1JSXh4U2hwQVdvT29ndV9SdWQ2RUpmNjJn?oc=5)
+
+---
+
+### [I’m a diabetes doctor — follow these 3 steps to put type 2 into remission - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
+
+---
 
 ### [Pflanzliche Lebensmittel schützen Ihre Gesundheit - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
 
@@ -75,14 +115,6 @@ permalink: /news/risankizumab/
 2026-04-19 <span class="news-indication-tag">diabetes mellitus</span>
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVhpWEtxVkhOXzJUT09yV200SEZYX0lqWHdPTXBKQ21wZHZZQ19FdXo0OTFReVR6RHh0RmF3UVQydEw5WlVfMmEtZ1F5NUowT1pmaDNfaWZpaFBySUl5R2RqbGxFSUc0Yk9SRWFJTXk5bllxaTFQVVpZdllDVGUxY0FPY1ZBUXZaMV9KUTVJWHRncUZSeWpsSXBkYXR1MWZRNmtEaF9pX1dWWGNSWDY0eG1PazU3WFl2MC1yUEVSU2VpYWVKekpSNl9rekVQX1JLRTQzVHdFeXlwMExIZGJvc2Nn?oc=5)
-
----
-
-### [Las escalas clásicas no bastan: la medicina busca nuevas vías para anticipar el riesgo cardíaco en pacientes con diabetes - Gaceta de salud](https://news.google.com/rss/articles/CBMiogJBVV95cUxPOFphU3ByOElLZjVxaERjRGx3TmJtaWsxSFJ0cVBLblZ2SGNQNG8yQWRnY3NpdVg2ZU9Sblp1ZkppUGtyMk5VZ1VCQndHUm5vX1FVaENQZzlJTURTekNSMDAwTF9WWm9tSC11bnZEV3VGcTJQT0dheDVkS3I1LUdnZ2NORkZWdzFjRmZzNUdrTVlMTnNyZlB1Tm0zbEJ3NHBOUExZTjRRcXYxY2xibEYtY19UNmF3MGhjMDkwM0FraTJLdTNHVUxfZndzWlVyMW9aMU5TcUlyTFE2STVOY05DNTROd29mamhqWEFVOTFMTEptVkdsX2d3X1RuRzZ4OF9sanpYcDRBeEp1bktEZXVqRjJOaUhXU0hGV25CNThoakxPQQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiogJBVV95cUxPOFphU3ByOElLZjVxaERjRGx3TmJtaWsxSFJ0cVBLblZ2SGNQNG8yQWRnY3NpdVg2ZU9Sblp1ZkppUGtyMk5VZ1VCQndHUm5vX1FVaENQZzlJTURTekNSMDAwTF9WWm9tSC11bnZEV3VGcTJQT0dheDVkS3I1LUdnZ2NORkZWdzFjRmZzNUdrTVlMTnNyZlB1Tm0zbEJ3NHBOUExZTjRRcXYxY2xibEYtY19UNmF3MGhjMDkwM0FraTJLdTNHVUxfZndzWlVyMW9aMU5TcUlyTFE2STVOY05DNTROd29mamhqWEFVOTFMTEptVkdsX2d3X1RuRzZ4OF9sanpYcDRBeEp1bktEZXVqRjJOaUhXU0hGV25CNThoakxPQQ?oc=5)
 
 ---
 
