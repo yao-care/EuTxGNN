@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Heart failure warning as symptom could wake you up in middle of the night - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0ZTeWRvODF4cFlFU1E5THdNUFM0TzZEWm00Z2RfQi1TS2QzTVFmZk5yYTJET0pVTHU0V0VXS29pYUVjb1RYZFhpVjRaQUR3VW9WeHU2bFBKNmdORG9QX2t6Y1FqaVBWWUFiakgzRDhzUDFxeWdwX200WWt3aUNTaW1fMUFYeXRC0gGOAUFVX3lxTE9KSkYzYVAtVGQyRUsybnRGSURxTElxX1lrX1ZOeHVRRWxfYmUyLTRVazE4LTJodVBJN1YwbmczdzFwVzJXVDRMUk5QRHl1cUU3VmpfWUlrcUtXZF94OTdJbVdVdDlVX1RfZTR3YWljbEY5UE1WV3Q4ZzBGRThKTzlONG8yLU9RcEotemU1dHc?oc=5)
-
-2026-04-19 <span class="news-indication-tag">heart failure</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0ZTeWRvODF4cFlFU1E5THdNUFM0TzZEWm00Z2RfQi1TS2QzTVFmZk5yYTJET0pVTHU0V0VXS29pYUVjb1RYZFhpVjRaQUR3VW9WeHU2bFBKNmdORG9QX2t6Y1FqaVBWWUFiakgzRDhzUDFxeWdwX200WWt3aUNTaW1fMUFYeXRC0gGOAUFVX3lxTE9KSkYzYVAtVGQyRUsybnRGSURxTElxX1lrX1ZOeHVRRWxfYmUyLTRVazE4LTJodVBJN1YwbmczdzFwVzJXVDRMUk5QRHl1cUU3VmpfWUlrcUtXZF94OTdJbVdVdDlVX1RfZTR3YWljbEY5UE1WV3Q4ZzBGRThKTzlONG8yLU9RcEotemU1dHc?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Schlaganfall-Risiko: Immer mehr junge Menschen betroffen](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzlVTXhOQzR4eGhBRk9KSW5wQmkwZ21sVGxOeEpBSVB2Y0RSUGNVWXduLVdOazRhRkZQYTlYT3Jqa0IxRGFUX3ZGaXlITHBWNFZmTTBOUHBRVUlZWnZTdGFvUE90MXMyd1ZUNmJOVTNoOHhyel9IZnNsZWFuWlRHUkZSYU8xMEhrQ2RMRF85cm8yNy1lSlJqVUlPV2dhTlpWVFVjZjhVNTBocDQyT2c4TmdfQQ?oc=5)
 
@@ -72,7 +64,7 @@ permalink: /news/telmisartan/
 
 ### [Six bedtime habits to lower your heart attack risk, according to a cardiologist - The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmFsTTVwNk9yWGxJRmF1WnJQNDB5djRZNU96b0lmWjRFQk4ydG9OYmtiTWIzYWlHMThVMUpaWmxxUGx3Um4xUGlfenJoMVF2VWNUYTQxUW8wRmhEMWM1eDNBemNxdGNVYy1POEZnUW1VRGJraTVXRE5maUlfS0dUWnpoQTVZNHdFZ3RXTVMzN3A?oc=5)
 
-2026-04-18 <span class="news-indication-tag">heart disease</span>
+2026-04-18 <span class="news-indication-tag">stroke</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmFsTTVwNk9yWGxJRmF1WnJQNDB5djRZNU96b0lmWjRFQk4ydG9OYmtiTWIzYWlHMThVMUpaWmxxUGx3Um4xUGlfenJoMVF2VWNUYTQxUW8wRmhEMWM1eDNBemNxdGNVYy1POEZnUW1VRGJraTVXRE5maUlfS0dUWnpoQTVZNHdFZ3RXTVMzN3A?oc=5)
 

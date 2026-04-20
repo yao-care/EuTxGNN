@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Pflanzliche Lebensmittel schützen Ihre Gesundheit - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
 
@@ -145,14 +145,6 @@ permalink: /news/diabetes-mellitus/
 2026-04-19
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiogJBVV95cUxPOFphU3ByOElLZjVxaERjRGx3TmJtaWsxSFJ0cVBLblZ2SGNQNG8yQWRnY3NpdVg2ZU9Sblp1ZkppUGtyMk5VZ1VCQndHUm5vX1FVaENQZzlJTURTekNSMDAwTF9WWm9tSC11bnZEV3VGcTJQT0dheDVkS3I1LUdnZ2NORkZWdzFjRmZzNUdrTVlMTnNyZlB1Tm0zbEJ3NHBOUExZTjRRcXYxY2xibEYtY19UNmF3MGhjMDkwM0FraTJLdTNHVUxfZndzWlVyMW9aMU5TcUlyTFE2STVOY05DNTROd29mamhqWEFVOTFMTEptVkdsX2d3X1RuRzZ4OF9sanpYcDRBeEp1bktEZXVqRjJOaUhXU0hGV25CNThoakxPQQ?oc=5)
-
----
-
-### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
-
-2026-04-18
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
 
 ---
 

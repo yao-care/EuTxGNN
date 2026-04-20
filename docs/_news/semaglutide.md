@@ -54,6 +54,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（6 則）
 
+### [La semaglutida demuestra en un nuevo estudio eficacia frente a la enfermedad hepática metabólica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
+
+2026-04-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
+
+---
+
 ### [Pflanzliche Lebensmittel schützen Ihre Gesundheit - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
 
 2026-04-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -83,14 +91,6 @@ permalink: /news/semaglutide/
 2026-04-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiogJBVV95cUxPOFphU3ByOElLZjVxaERjRGx3TmJtaWsxSFJ0cVBLblZ2SGNQNG8yQWRnY3NpdVg2ZU9Sblp1ZkppUGtyMk5VZ1VCQndHUm5vX1FVaENQZzlJTURTekNSMDAwTF9WWm9tSC11bnZEV3VGcTJQT0dheDVkS3I1LUdnZ2NORkZWdzFjRmZzNUdrTVlMTnNyZlB1Tm0zbEJ3NHBOUExZTjRRcXYxY2xibEYtY19UNmF3MGhjMDkwM0FraTJLdTNHVUxfZndzWlVyMW9aMU5TcUlyTFE2STVOY05DNTROd29mamhqWEFVOTFMTEptVkdsX2d3X1RuRzZ4OF9sanpYcDRBeEp1bktEZXVqRjJOaUhXU0hGV25CNThoakxPQQ?oc=5)
-
----
-
-### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
-
-2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
 
 ---
 

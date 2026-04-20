@@ -54,11 +54,11 @@ permalink: /news/levodopa/
 
 ## 相關新聞（1 則）
 
-### [Elle vit depuis 20 ans avec la maladie de Parkinson : "Quand tout se bloque, je pleure un bon coup et je repars" raconte Evelyne, âgée de 81 ans](https://news.google.com/rss/articles/CBMilgJBVV95cUxQNm5NWEtXUUZYVVc0OGhuaXZjV1RKdVdqSXNzdnNaUEFYcXRTVExZWVJvZ2hBY092WEpaQ0xUNkZWX2pqZXBUZU5hQVpoTHFXUENxUUxhNHdDUEM1RGxNNDVLcmNHTENJQmVYMlM3aVMwSXBYUjA4WWtMNTlvRE5ocHVlY21kNHB5Sy1BV1h1Z0lsVzh2Q2ZqeklMQ3lwdV9ZalhUZUZTcFNjd3pUaG9yODJtNmRHNWhQUlNHRTdRYWRWSkRqcnZJUEFkZXVPT3E0eUtrdHRGWVZ2X2E3QTg4VlVOb1k3NlJWYm9fd1N2ZUx4R21ZamVSa09IV3NDcjRSTGJPTExnbWJCMUZDOUFHcWJ2YlFqQQ?oc=5)
+### [Jura. Parkinson : « Neuf ans après le diagnostic, je fais encore beaucoup de choses, mais plus lentement… » - Le Progrès](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjk5cnFtNXUtWjBCOG05YlFralEzci1saXNERVkxVWNfa3lSbVdjcXNKSjNjTTlWQmpnOEVFbXJiWDFMMEFILUdVMTdVM0l4eHFPeUgzM3pwTGxCUEEzbTY1ekY0S3RxeHpZZjJBTlF3Mi1PNEgzUlRqZS1wSHFQcUVUeUlBOU5uTjMtc1lTNXZWWUNMQ3dMQkxsTS1BVHpXaGw4RHNua2JqRkZKaHFLeXVoVzlyTjkyWl8wcklTYVBSYXJob3IzWlg4dmZDYlE?oc=5)
 
-2026-04-18 <span class="news-indication-tag">maladie de Parkinson</span>
+2026-04-19 <span class="news-indication-tag">maladie de Parkinson</span>
 
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMilgJBVV95cUxQNm5NWEtXUUZYVVc0OGhuaXZjV1RKdVdqSXNzdnNaUEFYcXRTVExZWVJvZ2hBY092WEpaQ0xUNkZWX2pqZXBUZU5hQVpoTHFXUENxUUxhNHdDUEM1RGxNNDVLcmNHTENJQmVYMlM3aVMwSXBYUjA4WWtMNTlvRE5ocHVlY21kNHB5Sy1BV1h1Z0lsVzh2Q2ZqeklMQ3lwdV9ZalhUZUZTcFNjd3pUaG9yODJtNmRHNWhQUlNHRTdRYWRWSkRqcnZJUEFkZXVPT3E0eUtrdHRGWVZ2X2E3QTg4VlVOb1k3NlJWYm9fd1N2ZUx4R21ZamVSa09IV3NDcjRSTGJPTExnbWJCMUZDOUFHcWJ2YlFqQQ?oc=5)
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjk5cnFtNXUtWjBCOG05YlFralEzci1saXNERVkxVWNfa3lSbVdjcXNKSjNjTTlWQmpnOEVFbXJiWDFMMEFILUdVMTdVM0l4eHFPeUgzM3pwTGxCUEEzbTY1ekY0S3RxeHpZZjJBTlF3Mi1PNEgzUlRqZS1wSHFQcUVUeUlBOU5uTjMtc1lTNXZWWUNMQ3dMQkxsTS1BVHpXaGw4RHNua2JqRkZKaHFLeXVoVzlyTjkyWl8wcklTYVBSYXJob3IzWlg4dmZDYlE?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthme（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asthme（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthme（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
+<strong>asthme（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,15 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Un estudio del CSIC lo confirma: la composición de tu microbiota intestinal influye directamente en tu memoria - La Razón](https://news.google.com/rss/articles/CBMijAJBVV95cUxPTzhIOWRfT1JvX3hHckJLUF80Z1ZNd05YRUFmZEVqVWc0Q0thSDY0TklVdjc4YU1qMzBNX2VjMzRmbXhpTEFhU0lWSTJYYUdsRDNQdm5LbXZJSS1qa1poZkVIR2o3QkItRl9UOV94eWFnTTlSQzNWQkZEZ2VXR1AwNzdncmJsdXY3VF92OGNPdDJ0OVF4dkp1M2h0eGpkMUhqdVg3eWdsMTg1Q2ZzZ1o4S21abTh1Sk82N0VaYXRJUEJBamhSeW9UejhKeU5IRmZJUEV0aFNOamVRd25FdWhSdzZ4NnZfaGZFMG9JUXNLS1NiOHU3NGVhZFV2cmtfeHY1QV9LT2hTdmlnMl9D0gGgAkFVX3lxTE0ta0U3QlIwQm9wbDVwQUlsVDhxb2F0WFBGcU5lQlFOOHl1bS1SWVgzNmFoUUM4VUt5MW1lOFR6ODl4ZGhIRm5ER01KdmRmZDhJRDJNT3RhakM3b2t1T1ZnRWl4TmUzX2NWMWdRdUdPV1BSUHR0OUNVTDVXTnZCLVphNFZ4cU5NV1ViRmxpdE9KQjlLclQxMjFydkROZFR4TUJ1M1ltUGVjSUU5NDlaUFNIZHlzNlNiNTFKMjV4a3R3aUtuZFRuLWZ1M3FwVXZrMnJhVmNYdS0wVFRwRnloaUVFTndKeTF6cF9DTzNEQUJQMlRKNzhERHFzam9kRWVtaUE5RlhCOTdJekh3X3ppdXVBQkI3X2pEbU5oT3dhTlJVaw?oc=5)
-
-2026-04-19
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMijAJBVV95cUxPTzhIOWRfT1JvX3hHckJLUF80Z1ZNd05YRUFmZEVqVWc0Q0thSDY0TklVdjc4YU1qMzBNX2VjMzRmbXhpTEFhU0lWSTJYYUdsRDNQdm5LbXZJSS1qa1poZkVIR2o3QkItRl9UOV94eWFnTTlSQzNWQkZEZ2VXR1AwNzdncmJsdXY3VF92OGNPdDJ0OVF4dkp1M2h0eGpkMUhqdVg3eWdsMTg1Q2ZzZ1o4S21abTh1Sk82N0VaYXRJUEJBamhSeW9UejhKeU5IRmZJUEV0aFNOamVRd25FdWhSdzZ4NnZfaGZFMG9JUXNLS1NiOHU3NGVhZFV2cmtfeHY1QV9LT2hTdmlnMl9D0gGgAkFVX3lxTE0ta0U3QlIwQm9wbDVwQUlsVDhxb2F0WFBGcU5lQlFOOHl1bS1SWVgzNmFoUUM4VUt5MW1lOFR6ODl4ZGhIRm5ER01KdmRmZDhJRDJNT3RhakM3b2t1T1ZnRWl4TmUzX2NWMWdRdUdPV1BSUHR0OUNVTDVXTnZCLVphNFZ4cU5NV1ViRmxpdE9KQjlLclQxMjFydkROZFR4TUJ1M1ltUGVjSUU5NDlaUFNIZHlzNlNiNTFKMjV4a3R3aUtuZFRuLWZ1M3FwVXZrMnJhVmNYdS0wVFRwRnloaUVFTndKeTF6cF9DTzNEQUJQMlRKNzhERHFzam9kRWVtaUE5RlhCOTdJekh3X3ppdXVBQkI3X2pEbU5oT3dhTlJVaw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
 ### [Pflanzliche Lebensmittel schützen Ihre Gesundheit - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
-
----
-
-### [Heart failure warning as symptom could wake you up in middle of the night - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0ZTeWRvODF4cFlFU1E5THdNUFM0TzZEWm00Z2RfQi1TS2QzTVFmZk5yYTJET0pVTHU0V0VXS29pYUVjb1RYZFhpVjRaQUR3VW9WeHU2bFBKNmdORG9QX2t6Y1FqaVBWWUFiakgzRDhzUDFxeWdwX200WWt3aUNTaW1fMUFYeXRC0gGOAUFVX3lxTE9KSkYzYVAtVGQyRUsybnRGSURxTElxX1lrX1ZOeHVRRWxfYmUyLTRVazE4LTJodVBJN1YwbmczdzFwVzJXVDRMUk5QRHl1cUU3VmpfWUlrcUtXZF94OTdJbVdVdDlVX1RfZTR3YWljbEY5UE1WV3Q4ZzBGRThKTzlONG8yLU9RcEotemU1dHc?oc=5)
-
-2026-04-19 <span class="news-indication-tag">heart failure</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0ZTeWRvODF4cFlFU1E5THdNUFM0TzZEWm00Z2RfQi1TS2QzTVFmZk5yYTJET0pVTHU0V0VXS29pYUVjb1RYZFhpVjRaQUR3VW9WeHU2bFBKNmdORG9QX2t6Y1FqaVBWWUFiakgzRDhzUDFxeWdwX200WWt3aUNTaW1fMUFYeXRC0gGOAUFVX3lxTE9KSkYzYVAtVGQyRUsybnRGSURxTElxX1lrX1ZOeHVRRWxfYmUyLTRVazE4LTJodVBJN1YwbmczdzFwVzJXVDRMUk5QRHl1cUU3VmpfWUlrcUtXZF94OTdJbVdVdDlVX1RfZTR3YWljbEY5UE1WV3Q4ZzBGRThKTzlONG8yLU9RcEotemU1dHc?oc=5)
 
 ---
 
@@ -94,27 +86,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
-
-2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
-
----
-
 ### ["J’ai perdu la vue" : les graves effets secondaires du traitement contre le diabète de type 2 - Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
 
 2026-04-18 <span class="news-indication-tag">diabète</span>
 
 來源：[Pleine vie](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnRzVlZaeVlsWGt2Q1daME1lSWVST0E1UHdpUnpwaVRlTzFmenV4cW12SjhzSFZab0lfaE1oR19ZSGN5ZTVNRmtJUFBiV1dzRFJxN01mNjNNaFFQeFl5TXAxdlp6UmR2bkQ2RkVLQjVnelljMTZhWFdxdnU3a3QxcnZMbTYtbm9TYi1OU3FKaURla2RsLXZRVnE2b1dpSmktOGd2SmZwRU1IQThqdkNiZFRZb3EzSldwNFBkaGVmOEkyUnJhb0NzQXdfVQ?oc=5)
-
----
-
-### [Six bedtime habits to lower your heart attack risk, according to a cardiologist - The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmFsTTVwNk9yWGxJRmF1WnJQNDB5djRZNU96b0lmWjRFQk4ydG9OYmtiTWIzYWlHMThVMUpaWmxxUGx3Um4xUGlfenJoMVF2VWNUYTQxUW8wRmhEMWM1eDNBemNxdGNVYy1POEZnUW1VRGJraTVXRE5maUlfS0dUWnpoQTVZNHdFZ3RXTVMzN3A?oc=5)
-
-2026-04-18 <span class="news-indication-tag">heart disease</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmFsTTVwNk9yWGxJRmF1WnJQNDB5djRZNU96b0lmWjRFQk4ydG9OYmtiTWIzYWlHMThVMUpaWmxxUGx3Um4xUGlfenJoMVF2VWNUYTQxUW8wRmhEMWM1eDNBemNxdGNVYy1POEZnUW1VRGJraTVXRE5maUlfS0dUWnpoQTVZNHdFZ3RXTVMzN3A?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [La semaglutida demuestra en un nuevo estudio eficacia frente a la enfermedad hepática metabólica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
+
+2026-04-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
+
+---
+
+### [Medizin revolutioniert Behandlung von Fettleibigkeit und Lebererkrankungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWFRZHZxV2lLSDZQb2o1NnFCVnJyODBuNWU4UWhyV3dMLUtMSE1hRUVMaU13OEFsZDNWOXpQcGNvZ29ZcTFaT29ReTFWTk1KSUdzaThxYl8yZlBmYjVNZUNNODdfVXVkcGtGaUU5RHlEVHdqblJxcENQVFM4ZWFSUkFiZXl3ZWhpWFdxYzBlOExDM3BiY18ta3E3TGxROVRZYUVSOHAxclhQMkVIRTRFS3NhbkU1eG5STjdxRm9KLU9CUXhFbzdJOENIZWJGUQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">Fettleibigkeit</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaWFRZHZxV2lLSDZQb2o1NnFCVnJyODBuNWU4UWhyV3dMLUtMSE1hRUVMaU13OEFsZDNWOXpQcGNvZ29ZcTFaT29ReTFWTk1KSUdzaThxYl8yZlBmYjVNZUNNODdfVXVkcGtGaUU5RHlEVHdqblJxcENQVFM4ZWFSUkFiZXl3ZWhpWFdxYzBlOExDM3BiY18ta3E3TGxROVRZYUVSOHAxclhQMkVIRTRFS3NhbkU1eG5STjdxRm9KLU9CUXhFbzdJOENIZWJGUQ?oc=5)
+
+---
 
 ### [Fruktose: Ein unterschätzter Faktor in der modernen Fettleibigkeitskrise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMF9jZnV3VENSZDEtakhiWVNSaC1JVWd2bGwzTks5UzJUWE1kY3B4cDA2emVFTVg3eEZwRWRfdFNsdkxEWWtVM1UxamRuNmNCOVhIZjlndFU4S0V6c1FybjdPMGg3XzF2VmlUMEZQOVdFTURCU3RTSEZLZkhMVVo0UTlGenN1Rm1pcWZVRE1vUUFEMjJoVGRiTXBBLXJTQnF5c2JkSG1oYw?oc=5)
 
@@ -70,19 +86,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Il falso mito dei 10mila passi, camminare 15 minuti aiuta il cuore](https://news.google.com/rss/articles/CBMijgFBVV95cUxQU28wSGN2NnFyWWhSaUFFeU44VHZNM1ZzX3Z0eVJla1RoVEluZ0M2TlRKNWs3Z2xCS2NGR3c3UlpJUGdleWxDWGEwV2VzYlo5X0ZfeEZraTFldDBkOURpV0FaWlNEYWlpai1YTkxRVWs4a0p5ZnQyMXR3TTUzX293MDZHdkJmNDJpajJYdk1n?oc=5)
+### [Camminare 10mila passi al giorno per stare bene? Per la scienza è un falso mito: ecco quanti minuti servono davvero - Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR0gG7AUFVX3lxTE95emRhS1NQMmZGT2VVblltblNKdDNTV05EZ1hTWktqNTQwOHQ3ZEVpTS1KdXdJZWtBZkRtdFNETGhnU2JUX2dFVXVJdm9Uc255Y3k3UWNXNExIa04wT0JZQWhjSlp2MVNhQlNqNGJfU2xBU0NPZXFyVzBBZ0Y2TGY4bjBWcDVESnNZTXluYUw1UzlmS1NJOVdpX3M1ZzN5VnVoZ0dISFQyS1JrbldfbURNbWlfU1VEbExzRVE?oc=5)
 
-2026-04-18 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span>
+2026-04-19 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMijgFBVV95cUxQU28wSGN2NnFyWWhSaUFFeU44VHZNM1ZzX3Z0eVJla1RoVEluZ0M2TlRKNWs3Z2xCS2NGR3c3UlpJUGdleWxDWGEwV2VzYlo5X0ZfeEZraTFldDBkOURpV0FaWlNEYWlpai1YTkxRVWs4a0p5ZnQyMXR3TTUzX293MDZHdkJmNDJpajJYdk1n?oc=5)
-
----
-
-### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
-
-2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR0gG7AUFVX3lxTE95emRhS1NQMmZGT2VVblltblNKdDNTV05EZ1hTWktqNTQwOHQ3ZEVpTS1KdXdJZWtBZkRtdFNETGhnU2JUX2dFVXVJdm9Uc255Y3k3UWNXNExIa04wT0JZQWhjSlp2MVNhQlNqNGJfU2xBU0NPZXFyVzBBZ0Y2TGY4bjBWcDVESnNZTXluYUw1UzlmS1NJOVdpX3M1ZzN5VnVoZ0dISFQyS1JrbldfbURNbWlfU1VEbExzRVE?oc=5)
 
 ---
 

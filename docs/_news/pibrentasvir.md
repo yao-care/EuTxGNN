@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [TMS: Vom Depressions-Killer zum Turbo fürs Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVFSV9sS014ZEd5TUFZTHRySUJyT2RhX2hEb2ZHeVZBVlhQaDV0bk1fRWN0U3lDdm8ycXVSakRKa2I2ZFNMYW5WNkY3dV9SWnAwb0x0RFplTEd3bkRuWS1QMWZaUzh5ZVZ3VXpfLUFZY3RoUlE3RXRjcEVYb2tORlI4SWlHc3RvdDVfUHdRdnZ5WVpfZ0hfcV9HenlsclNaMnpvRkQ5QkM2SmZ5?oc=5)
 
@@ -78,27 +78,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [California urges mpox vaccination after more-severe strain detected in San Francisco - Los Angeles Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlExRTliQWpUZmNRWDI4cUZ0eUJyWG91U3A3bWt3NXNMd2pZVkd2Z0c1NVhEN3hJQ09tYTJkWE9acEwxRnVETWp2V2ZfOTZiSkNaWnhSeFVuMGc5RHBzVjRuMjhqdWJYaWhJd1FOWG1SS1Z6Njc2R1NCempmNXZheGVaSUszeXhuQ1IxY21aNEE4aDdfeG5Cb0huYjZ1eC13M3p3T0thS1Y0cF9sSTRMc1Vrc3BWbllma2xBeFZ3TlRVdHc?oc=5)
-
-2026-04-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Los Angeles Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlExRTliQWpUZmNRWDI4cUZ0eUJyWG91U3A3bWt3NXNMd2pZVkd2Z0c1NVhEN3hJQ09tYTJkWE9acEwxRnVETWp2V2ZfOTZiSkNaWnhSeFVuMGc5RHBzVjRuMjhqdWJYaWhJd1FOWG1SS1Z6Njc2R1NCempmNXZheGVaSUszeXhuQ1IxY21aNEE4aDdfeG5Cb0huYjZ1eC13M3p3T0thS1Y0cF9sSTRMc1Vrc3BWbllma2xBeFZ3TlRVdHc?oc=5)
-
----
-
 ### [Dark side of Europe's chemsex scene with party-goers left to die & doctors on brink as hook-up apps fuel deadly crisis - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTU3LVpVbWNrek5UREpIQm9tbjlFNHNUTkNNRm9YaWNyc18tVmdGMExCVERZdDloQnVjQndfbmI2RGh4Z0I2enNCQlhkSG9kOUZNd2drYkVVR0ZLMTZrVk4tWk1pbGFNUDJrb2kwTW55b0xINW9ZU0VNaVc5enc1Q1hrXzA?oc=5)
 
 2026-04-18 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTU3LVpVbWNrek5UREpIQm9tbjlFNHNUTkNNRm9YaWNyc18tVmdGMExCVERZdDloQnVjQndfbmI2RGh4Z0I2enNCQlhkSG9kOUZNd2drYkVVR0ZLMTZrVk4tWk1pbGFNUDJrb2kwTW55b0xINW9ZU0VNaVc5enc1Q1hrXzA?oc=5)
-
----
-
-### [Smoothies, juice, or whole? What is the best way to consume fruit?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVTUTFMUEV5Mkd5SVdnelRkUnpZMXV1YmFGVGlPSmJzeGEyYlEtdzJvb3QyTWRFa3NNU2tIRDdKM0tpSGRNRlc0X3Q5YV9DSHpNRGtmVmUzVHhQcnZwLWE2dmFQLU5XLW5nWURSQmY1b0lNVDQzd2NwMFhEaHlaaXVzSjlMMWMtQkJJaGVQUzJ1d3NQeGxpZXltLWV5X29DUnFRMTJqOFVVdHJaRkJsQmpaM1JhUjNUQXFr?oc=5)
-
-2026-04-18 <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlVTUTFMUEV5Mkd5SVdnelRkUnpZMXV1YmFGVGlPSmJzeGEyYlEtdzJvb3QyTWRFa3NNU2tIRDdKM0tpSGRNRlc0X3Q5YV9DSHpNRGtmVmUzVHhQcnZwLWE2dmFQLU5XLW5nWURSQmY1b0lNVDQzd2NwMFhEaHlaaXVzSjlMMWMtQkJJaGVQUzJ1d3NQeGxpZXltLWV5X29DUnFRMTJqOFVVdHJaRkJsQmpaM1JhUjNUQXFr?oc=5)
 
 ---
 

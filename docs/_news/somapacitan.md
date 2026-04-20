@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Un estudio del CSIC lo confirma: la composición de tu microbiota intestinal influye directamente en tu memoria - La Razón](https://news.google.com/rss/articles/CBMijAJBVV95cUxPTzhIOWRfT1JvX3hHckJLUF80Z1ZNd05YRUFmZEVqVWc0Q0thSDY0TklVdjc4YU1qMzBNX2VjMzRmbXhpTEFhU0lWSTJYYUdsRDNQdm5LbXZJSS1qa1poZkVIR2o3QkItRl9UOV94eWFnTTlSQzNWQkZEZ2VXR1AwNzdncmJsdXY3VF92OGNPdDJ0OVF4dkp1M2h0eGpkMUhqdVg3eWdsMTg1Q2ZzZ1o4S21abTh1Sk82N0VaYXRJUEJBamhSeW9UejhKeU5IRmZJUEV0aFNOamVRd25FdWhSdzZ4NnZfaGZFMG9JUXNLS1NiOHU3NGVhZFV2cmtfeHY1QV9LT2hTdmlnMl9D0gGgAkFVX3lxTE0ta0U3QlIwQm9wbDVwQUlsVDhxb2F0WFBGcU5lQlFOOHl1bS1SWVgzNmFoUUM4VUt5MW1lOFR6ODl4ZGhIRm5ER01KdmRmZDhJRDJNT3RhakM3b2t1T1ZnRWl4TmUzX2NWMWdRdUdPV1BSUHR0OUNVTDVXTnZCLVphNFZ4cU5NV1ViRmxpdE9KQjlLclQxMjFydkROZFR4TUJ1M1ltUGVjSUU5NDlaUFNIZHlzNlNiNTFKMjV4a3R3aUtuZFRuLWZ1M3FwVXZrMnJhVmNYdS0wVFRwRnloaUVFTndKeTF6cF9DTzNEQUJQMlRKNzhERHFzam9kRWVtaUE5RlhCOTdJekh3X3ppdXVBQkI3X2pEbU5oT3dhTlJVaw?oc=5)
-
-2026-04-19 <span class="news-indication-tag">asma</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMijAJBVV95cUxPTzhIOWRfT1JvX3hHckJLUF80Z1ZNd05YRUFmZEVqVWc0Q0thSDY0TklVdjc4YU1qMzBNX2VjMzRmbXhpTEFhU0lWSTJYYUdsRDNQdm5LbXZJSS1qa1poZkVIR2o3QkItRl9UOV94eWFnTTlSQzNWQkZEZ2VXR1AwNzdncmJsdXY3VF92OGNPdDJ0OVF4dkp1M2h0eGpkMUhqdVg3eWdsMTg1Q2ZzZ1o4S21abTh1Sk82N0VaYXRJUEJBamhSeW9UejhKeU5IRmZJUEV0aFNOamVRd25FdWhSdzZ4NnZfaGZFMG9JUXNLS1NiOHU3NGVhZFV2cmtfeHY1QV9LT2hTdmlnMl9D0gGgAkFVX3lxTE0ta0U3QlIwQm9wbDVwQUlsVDhxb2F0WFBGcU5lQlFOOHl1bS1SWVgzNmFoUUM4VUt5MW1lOFR6ODl4ZGhIRm5ER01KdmRmZDhJRDJNT3RhakM3b2t1T1ZnRWl4TmUzX2NWMWdRdUdPV1BSUHR0OUNVTDVXTnZCLVphNFZ4cU5NV1ViRmxpdE9KQjlLclQxMjFydkROZFR4TUJ1M1ltUGVjSUU5NDlaUFNIZHlzNlNiNTFKMjV4a3R3aUtuZFRuLWZ1M3FwVXZrMnJhVmNYdS0wVFRwRnloaUVFTndKeTF6cF9DTzNEQUJQMlRKNzhERHFzam9kRWVtaUE5RlhCOTdJekh3X3ppdXVBQkI3X2pEbU5oT3dhTlJVaw?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Pflanzliche Lebensmittel schützen Ihre Gesundheit - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1RJMFlBRFZYNVlYbTVwVG16ajE1QnpmQ1lGY0dSdlBKWWxjVVJnSGd2RGNBMk45OGk0RVItblRMTEwtN1BmeXJvdlp3bGFGY2VvczhKczNJcjA1dUxoTENwbmw0OG9OZDVwTjRyTEcxeVdpUFBuZTFzRW9kUkFJd0hlU29qQXhCX19LWGR3Z1BIWVgwMnVjNzA4cTRzVmQtMHBma1pLMXJkclJXeVJkdFkxd19iYVN3emN4RU81Z0p2ME0?oc=5)
 
@@ -99,14 +91,6 @@ permalink: /news/somapacitan/
 2026-04-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiogJBVV95cUxPOFphU3ByOElLZjVxaERjRGx3TmJtaWsxSFJ0cVBLblZ2SGNQNG8yQWRnY3NpdVg2ZU9Sblp1ZkppUGtyMk5VZ1VCQndHUm5vX1FVaENQZzlJTURTekNSMDAwTF9WWm9tSC11bnZEV3VGcTJQT0dheDVkS3I1LUdnZ2NORkZWdzFjRmZzNUdrTVlMTnNyZlB1Tm0zbEJ3NHBOUExZTjRRcXYxY2xibEYtY19UNmF3MGhjMDkwM0FraTJLdTNHVUxfZndzWlVyMW9aMU5TcUlyTFE2STVOY05DNTROd29mamhqWEFVOTFMTEptVkdsX2d3X1RuRzZ4OF9sanpYcDRBeEp1bktEZXVqRjJOaUhXU0hGV25CNThoakxPQQ?oc=5)
-
----
-
-### [L'injustice face à la perte de poids : Ozempic est plus efficace chez certaines personnes, et une nouvelle étude nous dit enfin pourquoi](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
-
-2026-04-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQXI4Z21fcUlhU0lTa01qdUc2N1o1bVJGZUhWRHVoc3VCLTFFU1JYZllMcTZMZ3dnU25wV19tRW9BN29ac2xLRmhBU0k4aEVZZkVpUnJEaHBGV0NhaWF5QmNtUWxYdnRteGRvXy1tQ1QtWEgzZC1mdTk1V1ZNTzlKemNJeFpGWEtycVl0SEFNV3hna1NXcXhBSENUWVZrenhQSkUyQkxXdnlPb013UlJRZ19iRXE2a2JJUWdCVXdqVkstT19PNHV4OTI5Z2oxTnJHTi1mT2RZczhEMXBwREdVa2JWN3prejhQYjNYUw?oc=5)
 
 ---
 
