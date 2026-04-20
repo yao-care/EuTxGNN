@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthme</span></li>
+<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -54,11 +54,11 @@ permalink: /news/fluticasone-furoate/
 
 ## 相關新聞（1 則）
 
-### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
+### [Symptome ernst nehmen - Keine Atempausen für Allergiker: Asthma droht - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
 
-2026-04-19 <span class="news-indication-tag">asthme</span>
+2026-04-20 <span class="news-indication-tag">asthma</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
 
 ---
 

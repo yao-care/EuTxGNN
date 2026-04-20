@@ -14,7 +14,7 @@ permalink: /news/micafungin/
 ---
 
 <p class="key-answer" data-question="Micafungin 有什麼相關新聞？">
-<strong>Micafungin</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Micafungin</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/micafungin/
 <p><a href="{{ '/drugs/micafungin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
+
+### [Symptome ernst nehmen - Keine Atempausen für Allergiker: Asthma droht - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">asthma</span>
+
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
+
+---
 
 ### [La UMH de Elche revela que los tumores primarios de cáncer de mama tienen células preparadas para metástasis - Onda Cero](https://news.google.com/rss/articles/CBMivwJBVV95cUxPbmJWczZyX3loY1h2TkJBU0xERTlVTTV5Rk9BMGsyRUVlSmxLWVE4c3NhUElYaGZfZzdsRUpoV2hWaXBBSUVGTFhvSExVa3dGMlFRRmRHQ3FkV3hJYm92N0FuMFptek9WM1UzZmhoUnNtcEk1eHkteVZJcng2Y2w0THZtN1VNWlBFdThpSVN5dDh6TWRULVZYRGFUc3VQSmFrVmxrLWd2Sl9vcHhCZWNrSUR2eFhvdDhtMjZQenk4N3hNNFlIVExLajA2WklPc21SRHE3NHRHWWJaTl9jWm1nNW1McU5hWmdqVFltVkhrc0phUGYyX2swV1pqdmk4Mk1ISXlabkxLVUN1cWVhV1B2UHBzemVfSFZ0aXVqRDJVR3V6NmVRRFN5UWZ5TjVLU0dhWWptc19RRmJwWWduYTdJ0gG_AkFVX3lxTE8wY2p6Mjl0X3hGWTVsUmZwSGVDcjAxdlNBMDhzaTFpTEpGUURBaEh2NHNkd25kX3FTSWh0OWJmUklLYTlQaXlUNmE5ZlFVQVpMSThxRk9vNjM4eElERFdVeTBzSi0xOWF6aWNrM2NtWTFJUy1SNjI1cVczQlBNdnN1Y1B5Njg4S1pEbDA2LWx2WnRFcDBlR2JYdzNESkQxTUU1ZFhrUFd0SmRsNC1aUjhpaE4yWV8yRW5BODd6RklLNlRndUdjTElyREQ4YnhWcWFKck1tNWdiZFNzYkprOEVwdy1xRUZnZDR5UXZFNl9VS2lQSFFFUUxXVDlrajlMV2ZNamUtZm5zZkVreG53M1hBcXRLSl9OTTMxZmhSclhpMjRrakZLb18zUGU0XzBVSFVhb2FHUG1EcEVBSHlTX1E?oc=5)
 
@@ -70,27 +78,11 @@ permalink: /news/micafungin/
 
 ---
 
-### [Melanoma: ereditario un caso su dieci, attenzione ai raggi solari - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN3BvZ1VvZ1VLRWFsWktPMTBfM0FKanZ3b2tvXzlnOXZ5Vk52N0FYb280Z2FPYlpGSUxSVEl5NlRibGtkd1Q5d1BCZ1IydzhDMU9VaEduNmVfVzcxN3ZpYzZ6bmZqM2xMcFNNRlVkZHAzX2VMNGFaYVNTaDdGTW5tVGVnWG9WVl9XN21RT203aXJUVnVJU1MyT1BLQQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN3BvZ1VvZ1VLRWFsWktPMTBfM0FKanZ3b2tvXzlnOXZ5Vk52N0FYb280Z2FPYlpGSUxSVEl5NlRibGtkd1Q5d1BCZ1IydzhDMU9VaEduNmVfVzcxN3ZpYzZ6bmZqM2xMcFNNRlVkZHAzX2VMNGFaYVNTaDdGTW5tVGVnWG9WVl9XN21RT203aXJUVnVJU1MyT1BLQQ?oc=5)
-
----
-
-### [Prostatakrebs-Therapie: Pflaster könnte schmerzhafte Spritzen ersetzen](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRzQ1ZlRyNmRhdERuZ0RGanBySTRVQTF5bmhuNFNFSFp3eURlQkRySnFKZUhQdXliZG5oMTFoeUF0SXlLdzRtOXhVblhBQllfWFpfNWZ2ZGdjbDl6RmpJa1dMamZoWnNJRDBzaEtzSXREdThTdzl1dzhyREF5Z3U2SmhuU2tkMlZGbXdRc2Z0czYxMU9GeWpSeVhIMGtqdGttbVNKQl9XbjF0ekppTEp5SGJJLWtsUTJTeWYtUjVVOHBib05wRTVvV1hR?oc=5)
-
-2026-04-20 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRzQ1ZlRyNmRhdERuZ0RGanBySTRVQTF5bmhuNFNFSFp3eURlQkRySnFKZUhQdXliZG5oMTFoeUF0SXlLdzRtOXhVblhBQllfWFpfNWZ2ZGdjbDl6RmpJa1dMamZoWnNJRDBzaEtzSXREdThTdzl1dzhyREF5Z3U2SmhuU2tkMlZGbXdRc2Z0czYxMU9GeWpSeVhIMGtqdGttbVNKQl9XbjF0ekppTEp5SGJJLWtsUTJTeWYtUjVVOHBib05wRTVvV1hR?oc=5)
-
----
-
-### [Científicos desarrollan un nuevo material anticancerígeno gracias a la nanomedicina](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOWFGQjBJaFNXZFFWbF9yQUFObjkxQmJDNDFtR0N2dWo0M0laSDZfS29GVDJ5cjBkTC1GR0hIeGxyVE5xN3B0amRUanJjWGN2NmNnZjVRYjNRLVNVeXA0a2lzcnlGTmItZE9kSkU3eFVITC1OZkNHMXZhTmMtcWJEMDFjVUhEaHhfUlU2eEYwUE9SMW9rcFlBLTBUY1dQOFlYYVZYelNPS2otcy00akdTWUJpNWVCLW5Xc1hQUWF5Z1FsQ0tseFdoaU1rQTRqUmR1akk5MkJ1WXh0RlUyM2JDWA?oc=5)
+### [Cancer : une nouvelle approche génétique cible les cellules malades sans toucher aux autres - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzZlSGxFNTQxazZFbHNlVkVobXd5NXJKd2lweEZoV3RDWVE4c3loN0MxZlpmNldOeWlrS291VV9QWnc3N3gyV0xDUnNaN3NHLUNjWlQ1U1hFRGlfSlVEdGpzbl9xaVBCRUdJbnJYVEYwdkVQbVcyVlpjUzVzRHJpTUVjVjJTTzZULWhscHFEMVZjaWVOZXdtbVVUU1BmSzgxeHYwU2RtQmVMcHJlRm95NTdLUW1VLW9meWlLWXkxQy1QWDlBc01pUXZKT2xUbm9VUkE?oc=5)
 
 2026-04-20 <span class="news-indication-tag">cancer</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOWFGQjBJaFNXZFFWbF9yQUFObjkxQmJDNDFtR0N2dWo0M0laSDZfS29GVDJ5cjBkTC1GR0hIeGxyVE5xN3B0amRUanJjWGN2NmNnZjVRYjNRLVNVeXA0a2lzcnlGTmItZE9kSkU3eFVITC1OZkNHMXZhTmMtcWJEMDFjVUhEaHhfUlU2eEYwUE9SMW9rcFlBLTBUY1dQOFlYYVZYelNPS2otcy00akdTWUJpNWVCLW5Xc1hQUWF5Z1FsQ0tseFdoaU1rQTRqUmR1akk5MkJ1WXh0RlUyM2JDWA?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzZlSGxFNTQxazZFbHNlVkVobXd5NXJKd2lweEZoV3RDWVE4c3loN0MxZlpmNldOeWlrS291VV9QWnc3N3gyV0xDUnNaN3NHLUNjWlQ1U1hFRGlfSlVEdGpzbl9xaVBCRUdJbnJYVEYwdkVQbVcyVlpjUzVzRHJpTUVjVjJTTzZULWhscHFEMVZjaWVOZXdtbVVUU1BmSzgxeHYwU2RtQmVMcHJlRm95NTdLUW1VLW9meWlLWXkxQy1QWDlBc01pUXZKT2xUbm9VUkE?oc=5)
 
 ---
 
@@ -158,27 +150,11 @@ permalink: /news/micafungin/
 
 ---
 
-### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
-
-2026-04-19 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
-
----
-
 ### ['I'm a gynaecologist and all women need to know hidden ovarian cancer symptom' - Daily Express](https://news.google.com/rss/articles/CBMirgFBVV95cUxPci1DNF9DZUZmNFhvbWpYSS16M0dUVUVvS1BFQmpkRWNaa25QWm1fal9XZVBsSzkya2o0VDJLUndSd2dweW5BYVNuN0xNQkZjdUR6M3MzMzZubVpqSUZCWXNEek8wbDJLbjJoZ0NSMF9wSWFyLTBSVnZVMFNWSnlwQ2hJOW1ONkhISGxJVUhJSTVTUUstVEIxQ2tNTVR6M09WOXZtT3FNWkVaWGdvaGfSAbMBQVVfeXFMUENLczNaRDRRU21XRHZGTU1Ob1Q1VGd4cFFIekhuRXJFSHIyUUZvZnpneTY3Y21waDRLSzBZcUx2aVNHZ0pXV0hYVGwzMWx0NUVWX0h5eGc4TEctb2s5cVI2czA5TG1pckh2b25sSkhBUUN2Rm5KNFppdGwzQVlWYU1TVmNMN3R1aVpqT1BRamk2TXJEY0I4clk5U1AxV0JIZjkzZGFSLUtzSUpmbHZtUGxOOGc?oc=5)
 
 2026-04-19 <span class="news-indication-tag">cancer</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMirgFBVV95cUxPci1DNF9DZUZmNFhvbWpYSS16M0dUVUVvS1BFQmpkRWNaa25QWm1fal9XZVBsSzkya2o0VDJLUndSd2dweW5BYVNuN0xNQkZjdUR6M3MzMzZubVpqSUZCWXNEek8wbDJLbjJoZ0NSMF9wSWFyLTBSVnZVMFNWSnlwQ2hJOW1ONkhISGxJVUhJSTVTUUstVEIxQ2tNTVR6M09WOXZtT3FNWkVaWGdvaGfSAbMBQVVfeXFMUENLczNaRDRRU21XRHZGTU1Ob1Q1VGd4cFFIekhuRXJFSHIyUUZvZnpneTY3Y21waDRLSzBZcUx2aVNHZ0pXV0hYVGwzMWx0NUVWX0h5eGc4TEctb2s5cVI2czA5TG1pckh2b25sSkhBUUN2Rm5KNFppdGwzQVlWYU1TVmNMN3R1aVpqT1BRamk2TXJEY0I4clk5U1AxV0JIZjkzZGFSLUtzSUpmbHZtUGxOOGc?oc=5)
-
----
-
-### [Dieses Vitamin soll die Überlebenschance bei Krebs erhöhen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEJ4WUdPRFFyYU9UUXFITkxaMUFfNTZXTkU5UzZieGhBY21HLXVVMlFyR2s1a25PQllxbGlzS0ZtemdPV2xjTWowTGFZUE5YT3BlWUZXcW9jRFVOd2JoSDA1cFNqZE5hWVZOSU5oMnkyMjhRT1MzcGlNTlRIV2lKanJNQmhZSnBrTkM4N3V2Um1RWGZyVzVrTlh5Q0IyR1JVNVQ2bEhiS0FHVVJTdXVfX0s2N1dndG43NktSb3JDWQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">Krebs</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEJ4WUdPRFFyYU9UUXFITkxaMUFfNTZXTkU5UzZieGhBY21HLXVVMlFyR2s1a25PQllxbGlzS0ZtemdPV2xjTWowTGFZUE5YT3BlWUZXcW9jRFVOd2JoSDA1cFNqZE5hWVZOSU5oMnkyMjhRT1MzcGlNTlRIV2lKanJNQmhZSnBrTkM4N3V2Um1RWGZyVzVrTlh5Q0IyR1JVNVQ2bEhiS0FHVVJTdXVfX0s2N1dndG43NktSb3JDWQ?oc=5)
 
 ---
 
@@ -190,6 +166,22 @@ permalink: /news/micafungin/
 
 ---
 
+### [Allarme tumore al seno. Le 6 buone abitudini per cercare di prevenirlo](https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3kzcW5wV0k4R2JwXzlMa0FVaThTem5hNnZhZFZOYlFSQ1VjZjlrdnNwOTd0cFR6UHJ3VlpHcGdyWXFnRWFQQ2dFbXNsazdabjRlekdOaGhIWVpuNkxyOFZpWWtlMmtoeFFZYmJFQWo0RHlqX0poLUd4QWFZQ0ZKVzlvTjJIYkJoa3VsR2VMdEZjV2ZEZ2xLUQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">tumor</span>
+
+來源：[LeccoToday](https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3kzcW5wV0k4R2JwXzlMa0FVaThTem5hNnZhZFZOYlFSQ1VjZjlrdnNwOTd0cFR6UHJ3VlpHcGdyWXFnRWFQQ2dFbXNsazdabjRlekdOaGhIWVpuNkxyOFZpWWtlMmtoeFFZYmJFQWo0RHlqX0poLUd4QWFZQ0ZKVzlvTjJIYkJoa3VsR2VMdEZjV2ZEZ2xLUQ?oc=5)
+
+---
+
+### [Dank Impfung: Diese Krebsart könnte bald verschwinden - Perspective Daily](https://news.google.com/rss/articles/CBMipwFBVV95cUxNazBIMHhyaDBOVzhtV0ZwVEhrdDZlUjczOXlOdnlIdXYtbUdzTWNHN1NQSVZkTHAwYWNOZkJFaE9TcHFCUTBPMzBEMndPcTAtdFdFZWxtWjJkaFZGUk5HVWJDN1Rmd2owR2hZWFN2VllDRThTb1gtX0JQVF9hSzA3UEFNZ3ZpNE1ESVRnZXNjdkpEZGpQWFpUbm5YRDZ5djNSdXdLNHJtRQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">Krebs</span>
+
+來源：[Perspective Daily](https://news.google.com/rss/articles/CBMipwFBVV95cUxNazBIMHhyaDBOVzhtV0ZwVEhrdDZlUjczOXlOdnlIdXYtbUdzTWNHN1NQSVZkTHAwYWNOZkJFaE9TcHFCUTBPMzBEMndPcTAtdFdFZWxtWjJkaFZGUk5HVWJDN1Rmd2owR2hZWFN2VllDRThTb1gtX0JQVF9hSzA3UEFNZ3ZpNE1ESVRnZXNjdkpEZGpQWFpUbm5YRDZ5djNSdXdLNHJtRQ?oc=5)
+
+---
+
 ### [Natural Compounds Boost Bone Implant Success While Killing Bacteria and Cancer Cells](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWklwaEZIbDlTTDRuN2JtZ3BUOVdXM0R3OEx5SWJuQldzSVZ4amhXRW4xbnFsVnV2dWpmYk9aYlJVamJ1T2wtX1ptWVF3N1BnQTJLZ0Mxal9RaWo1R0drUGNqaklpUGIyRl9xOXVPWEJqWDhkSjAzV3BrZ0h4VTVxY0R3WUJsUkRhendOODFNN01jbzM0MFd5NGtrRUEtM3JfdFVDWFVmc0VGUjFDY3RV?oc=5)
 
 2026-04-18 <span class="news-indication-tag">cancer</span>
@@ -198,11 +190,11 @@ permalink: /news/micafungin/
 
 ---
 
-### [Steroids and the ‘silent’ cancer plaguing the manosphere - The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzFrcl9OYkdrYUEyajRqNVh5anZBTHB0S29ORmlHakF4dUZMVUVYYmlRTnNuZExFb21mMG4wci1hczJQVFMybjZEdmlsenc4YWFWREYyRTRwX20weElUM0xDZ2FMYU94akNYZjdWaWdYMlZjQ0pVWDhSdjJkR2x1NGYyLXRTNkFURUE4aXBPVUlRMWVkOGcw?oc=5)
+### [Steroids and the ‘silent’ cancer plaguing the manosphere](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzFrcl9OYkdrYUEyajRqNVh5anZBTHB0S29ORmlHakF4dUZMVUVYYmlRTnNuZExFb21mMG4wci1hczJQVFMybjZEdmlsenc4YWFWREYyRTRwX20weElUM0xDZ2FMYU94akNYZjdWaWdYMlZjQ0pVWDhSdjJkR2x1NGYyLXRTNkFURUE4aXBPVUlRMWVkOGcw?oc=5)
 
 2026-04-18 <span class="news-indication-tag">cancer</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzFrcl9OYkdrYUEyajRqNVh5anZBTHB0S29ORmlHakF4dUZMVUVYYmlRTnNuZExFb21mMG4wci1hczJQVFMybjZEdmlsenc4YWFWREYyRTRwX20weElUM0xDZ2FMYU94akNYZjdWaWdYMlZjQ0pVWDhSdjJkR2x1NGYyLXRTNkFURUE4aXBPVUlRMWVkOGcw?oc=5)
+來源：[thetimes.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzFrcl9OYkdrYUEyajRqNVh5anZBTHB0S29ORmlHakF4dUZMVUVYYmlRTnNuZExFb21mMG4wci1hczJQVFMybjZEdmlsenc4YWFWREYyRTRwX20weElUM0xDZ2FMYU94akNYZjdWaWdYMlZjQ0pVWDhSdjJkR2x1NGYyLXRTNkFURUE4aXBPVUlRMWVkOGcw?oc=5)
 
 ---
 
@@ -214,11 +206,11 @@ permalink: /news/micafungin/
 
 ---
 
-### [Un farmaco per la prostata aiuta a bloccare il tumore al seno](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDVYT1JJbTJHQVR5ODljTzJSSlhtbS1nbGg2bVFTTEZ6bXlFZ1YwTjBMd0V1S2g3WDI2QnpzdWVGOWlFR1VMWFlsVkFaSUxFQkdidDVzamIwZ0plakdTVFNYUVY3b1Mzb3pxNGFyY1FXQ0tJcXdZRklqM3g1V1hMa2dZczJRTTVBQ0pN?oc=5)
+### [Il primo segnale di cancro alla pelle che secondo gli esperti non va ignorato - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOU29zRjYzeXlmM1k5NXJKUmtmZUxjbHZ4NjNJQjN2MXJMYjJOQUZRRUc1dXA2RUMzS19VSEpGQm0yY0Y1bmJpMjlIcmQydFdHRUpsVmkxdmFFbjFXZHBZMDVhSkxVNzlYRnRtZ1lVUmlRWllPM0FucFRBWHdsQXR3MDFwbXA3UG9iWFE2UnRUOGJKRjVBeEIxRXA5TFdLMVBsLVdoNldjV0dYb2ZzYlhCMEF1ZElLelM4N3UtdHh4X0ZWMmtzNmhMRGRmMGt2b1d5cUhGWXdjZkwwa3o1RnZyaTE0WVpFODUteFZIaU1leUhaU2ZabHfSAcgBQVVfeXFMUHpTakdQRFc5dndsenZQc2ltUnFTNjAwZVdYaXlMcmRFeHNqa0ZQbDZVeGlaeW5wdXFXNzZvT0ppbGo1VGVaY3Fwa0JXT1RiaU82OHR4VXRHcjBXU1ZnRHNWMnNyMk1rSzhIZW9QUmM4cERJM1lRdkpuOERtQjY4UTdwbFUxSXA3THZ3V1FTczNRbmxfTm1zMFQ0ejRIYWo5QU9HeVZYRkR6YTlDM2JGQ3VfYmJHY3IxeG1jZkhaVlpiV28ySksxcE0?oc=5)
 
-2026-04-18 <span class="news-drug-tag">Silodosin</span> <span class="news-indication-tag">tumor</span>
+2026-04-18 <span class="news-indication-tag">tumor</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDVYT1JJbTJHQVR5ODljTzJSSlhtbS1nbGg2bVFTTEZ6bXlFZ1YwTjBMd0V1S2g3WDI2QnpzdWVGOWlFR1VMWFlsVkFaSUxFQkdidDVzamIwZ0plakdTVFNYUVY3b1Mzb3pxNGFyY1FXQ0tJcXdZRklqM3g1V1hMa2dZczJRTTVBQ0pN?oc=5)
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOU29zRjYzeXlmM1k5NXJKUmtmZUxjbHZ4NjNJQjN2MXJMYjJOQUZRRUc1dXA2RUMzS19VSEpGQm0yY0Y1bmJpMjlIcmQydFdHRUpsVmkxdmFFbjFXZHBZMDVhSkxVNzlYRnRtZ1lVUmlRWllPM0FucFRBWHdsQXR3MDFwbXA3UG9iWFE2UnRUOGJKRjVBeEIxRXA5TFdLMVBsLVdoNldjV0dYb2ZzYlhCMEF1ZElLelM4N3UtdHh4X0ZWMmtzNmhMRGRmMGt2b1d5cUhGWXdjZkwwa3o1RnZyaTE0WVpFODUteFZIaU1leUhaU2ZabHfSAcgBQVVfeXFMUHpTakdQRFc5dndsenZQc2ltUnFTNjAwZVdYaXlMcmRFeHNqa0ZQbDZVeGlaeW5wdXFXNzZvT0ppbGo1VGVaY3Fwa0JXT1RiaU82OHR4VXRHcjBXU1ZnRHNWMnNyMk1rSzhIZW9QUmM4cERJM1lRdkpuOERtQjY4UTdwbFUxSXA3THZ3V1FTczNRbmxfTm1zMFQ0ejRIYWo5QU9HeVZYRkR6YTlDM2JGQ3VfYmJHY3IxeG1jZkhaVlpiV28ySksxcE0?oc=5)
 
 ---
 

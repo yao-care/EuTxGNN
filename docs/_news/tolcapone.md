@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
 
-### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+### [Discovering my toddler has dementia was the worst moment of my life... so when a test revealed her unborn sibling also had the disease we had no choice but to terminate my pregnancy - Daily Mail](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
+
+2026-04-20 <span class="news-indication-tag">dementia</span>
+
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
+
+---
+
+### [Gut microbiome can reveal risk of Parkinson’s, scientists say - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
+
+2026-04-20 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">Parkinson's</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
+
+---
+
+### [Maladie de Parkinson : et si la clé se trouvait dans nos intestins et notre alimentation ? - Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdXRycHNjdUVBVVkwZml3d0h6ZElKcGhTb2FPWDJwUXhBYW94enRvTWRNMTZGSm9BMXVRSTZ5MWVZdU4xRWp0RkVyRUw1U1g1Z3I5eFRSTGxBMldJZGRsN09zeVA0RXpjdG1SVzhNa1gxS3d0cmJpSHdBSDAyS1E4bmZGd19SZmRfNklwV0lFTTVDdEFRMXNORE4wQUxYRVZ0Wll3SU1tVU11dndPNmZkelF3QWMyM3FxWXZRclo0SmlSMlVCZTI5QUFQZVgzNzNBUm9qMFF1bzN3YU9YeUp5aUFpY0U5RXY2LXZnQkRpSFpFT01XMVNFQzdQc2s?oc=5)
+
+2026-04-20 <span class="news-indication-tag">maladie de Parkinson</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdXRycHNjdUVBVVkwZml3d0h6ZElKcGhTb2FPWDJwUXhBYW94enRvTWRNMTZGSm9BMXVRSTZ5MWVZdU4xRWp0RkVyRUw1U1g1Z3I5eFRSTGxBMldJZGRsN09zeVA0RXpjdG1SVzhNa1gxS3d0cmJpSHdBSDAyS1E4bmZGd19SZmRfNklwV0lFTTVDdEFRMXNORE4wQUxYRVZ0Wll3SU1tVU11dndPNmZkelF3QWMyM3FxWXZRclo0SmlSMlVCZTI5QUFQZVgzNzNBUm9qMFF1bzN3YU9YeUp5aUFpY0U5RXY2LXZnQkRpSFpFT01XMVNFQzdQc2s?oc=5)
+
+---
+
+### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
 
 2026-04-20 <span class="news-indication-tag">Parkinson-Krankheit</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
 
 ---
 

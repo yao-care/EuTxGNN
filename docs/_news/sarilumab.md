@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Symptome ernst nehmen - Keine Atempausen für Allergiker: Asthma droht - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">asthma</span>
+
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
+
+---
 
 ### [Hoja de ruta para avanzar en el abordaje de enfermedad de Crohn y colitis ulcerosa - Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHYwTG5KcEQ1QnJGeE5HYllfRjZXMnRhU19fUGZiZGpyb3Z3a0o3MjR3YVBYbTNSemxsakRYM2VfYTRlODY1M3F4dEh1SldiaHcwSW5qT0VpenM3RGNrT21UektSTkl2U1JkblJvWjdBczFTZlIwb1JFNUpZQWdCVFB3Yy1wWlAtbWxLOEx4RzR3ZUJYd3lJV0stQXZCclhoZXJRZWZn0gGrAUFVX3lxTE1QNTVwQjlkMFVKVkRlaDVqLTI2ejRwTnBRVVJQRHFmU2R3QnpLMDhYSExCSF84aU5lZ3BLaGJGZlo4WmVEaDRvb2pCcExRYV9YSjZDbHZlTkRhSUlQeWI3WnoxTlU2ang2ak1QVWFfemd4WVdhdkY4U01Qb2hNek9tT1o2bUtIaVBOSU5MZUVoakFKVFNJQzRsbDNaaksyOThOVkdwTEtqWXNyRQ?oc=5)
 
 2026-04-20 <span class="news-indication-tag">enfermedad de Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHYwTG5KcEQ1QnJGeE5HYllfRjZXMnRhU19fUGZiZGpyb3Z3a0o3MjR3YVBYbTNSemxsakRYM2VfYTRlODY1M3F4dEh1SldiaHcwSW5qT0VpenM3RGNrT21UektSTkl2U1JkblJvWjdBczFTZlIwb1JFNUpZQWdCVFB3Yy1wWlAtbWxLOEx4RzR3ZUJYd3lJV0stQXZCclhoZXJRZWZn0gGrAUFVX3lxTE1QNTVwQjlkMFVKVkRlaDVqLTI2ejRwTnBRVVJQRHFmU2R3QnpLMDhYSExCSF84aU5lZ3BLaGJGZlo4WmVEaDRvb2pCcExRYV9YSjZDbHZlTkRhSUlQeWI3WnoxTlU2ang2ak1QVWFfemd4WVdhdkY4U01Qb2hNek9tT1o2bUtIaVBOSU5MZUVoakFKVFNJQzRsbDNaaksyOThOVkdwTEtqWXNyRQ?oc=5)
-
----
-
-### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
-
-2026-04-19 <span class="news-indication-tag">asthme</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
-
----
-
-### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
-
-2026-04-19 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
 
 ---
 

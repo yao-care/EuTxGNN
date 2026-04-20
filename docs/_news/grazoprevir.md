@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [My son's symptoms were 'picky eating or teething' - then he was hours from death - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
+
+---
+
+### [Meningitis antibiotics spark 'phenomenal' response in Weymouth](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
+
+---
 
 ### [Family’s heartbreak as ‘whirlwind’ infection claims life of baby Finley at just eight days old - Devon Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRldIV28yMTYwMHg0eHc0eGozd21XMHZUUG9CNnFyVG10Q0w0bS1fSU9hWVdIVHh3Z0FienBLb3V1Xzl0U2sxNU1NbkVLZ25zS0hURGd2czdycW1vQWhzQm4ydERpZmtVcTAzaVRxTWRTdmtKMnUxMDhNYzdnV2hBNFNjaXhYZW5TRFJTWjJmNHVWZUJMMmJRRDB2YlQ?oc=5)
 
@@ -99,14 +115,6 @@ permalink: /news/grazoprevir/
 2026-04-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDIycnVGYnl5Wno4WC1scDdxNHBFcVN3TURIbHZqcWdMZERsR25QYVlrVjN0VXVMUDlOSS1CS0QtbDlFOVI1QjAwbUdiUndnb1pHdWhaU3FMZzZObk12U2tBSkRHQmZMZjFEdUpYQ2hBY1M2MmQxN0UzSl9QbEltMHFKSnlnTDFtTk9RdW1QMNIBlAFBVV95cUxPWUFyaFotUzdjcGV5d0Z4LWNHRldEcFBPUEFSaUs5RHJOaS1jWUlFNlpDREtpcXYyMzdPWmtoVzh5cU5hSnBQN3NPc1VFMThpS1dyQjF3bHFRLWlYZEdzZDNXaU5DYS1VQ0sxY29feVZiOG1ySmRkRTN2V3B0eGdFeG9QU2Z1ZlYzZDNOREp5UHBvOU9T?oc=5)
-
----
-
-### [TMS: Vom Depressions-Killer zum Turbo fürs Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVFSV9sS014ZEd5TUFZTHRySUJyT2RhX2hEb2ZHeVZBVlhQaDV0bk1fRWN0U3lDdm8ycXVSakRKa2I2ZFNMYW5WNkY3dV9SWnAwb0x0RFplTEd3bkRuWS1QMWZaUzh5ZVZ3VXpfLUFZY3RoUlE3RXRjcEVYb2tORlI4SWlHc3RvdDVfUHdRdnZ5WVpfZ0hfcV9HenlsclNaMnpvRkQ5QkM2SmZ5?oc=5)
-
-2026-04-19 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUVFSV9sS014ZEd5TUFZTHRySUJyT2RhX2hEb2ZHeVZBVlhQaDV0bk1fRWN0U3lDdm8ycXVSakRKa2I2ZFNMYW5WNkY3dV9SWnAwb0x0RFplTEd3bkRuWS1QMWZaUzh5ZVZ3VXpfLUFZY3RoUlE3RXRjcEVYb2tORlI4SWlHc3RvdDVfUHdRdnZ5WVpfZ0hfcV9HenlsclNaMnpvRkQ5QkM2SmZ5?oc=5)
 
 ---
 

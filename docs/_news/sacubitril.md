@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Detección precoz diabetes tipo 1 el gran cambio - Canal Diabetes](https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEZ0cEpHcWJXVFhqTVllUzBqVzU4RVJYaG1fUjBJbFh4NjFHUnItMmpOWVZ0SkFmLUcya2hwN0VKcUZSUkZpVnBvX3M3YXlNYUozRjFrYmtIazJYLVZVcHhmUXAtanFpNlZZ?oc=5)
 
 2026-04-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEZ0cEpHcWJXVFhqTVllUzBqVzU4RVJYaG1fUjBJbFh4NjFHUnItMmpOWVZ0SkFmLUcya2hwN0VKcUZSUkZpVnBvX3M3YXlNYUozRjFrYmtIazJYLVZVcHhmUXAtanFpNlZZ?oc=5)
+
+---
+
+### [Diabetes y enfermedad periodontal: una relación bidireccional clave para la práctica clínica - Gaceta Dental](https://news.google.com/rss/articles/CBMikgFBVV95cUxQdElyalBoLWlvcFBkUGJwUHQxN3RiZEc0NUZpd0NqTkZVNkVETklQT2NTRHdpUHRLUXNndjRBaUlMeGxJVHlQdWlldlkxai1kbzhvX3JUOEVhYzBkME5UcU5yNWxOOERvYlk4bmJRcG9nNHFpRnJTT2pISW51Uk80TlRvaC1yR1N6cW5qQUlvMUxLUQ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMikgFBVV95cUxQdElyalBoLWlvcFBkUGJwUHQxN3RiZEc0NUZpd0NqTkZVNkVETklQT2NTRHdpUHRLUXNndjRBaUlMeGxJVHlQdWlldlkxai1kbzhvX3JUOEVhYzBkME5UcU5yNWxOOERvYlk4bmJRcG9nNHFpRnJTT2pISW51Uk80TlRvaC1yR1N6cW5qQUlvMUxLUQ?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Los factores ambientales inciden en el desarrollo de la diabetes tipo 1 - Diario de Sevilla](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFF4Vnp3cXd1Y2ozR285TzFtc3NIOEhxaHJBREJ6aXhMVlBsaE9yRlJPYlFmbEFGcW1UdmdqdW1YeWVOQXNHVmxYdE9oRHRnekNHRzkxczRDSThKTVF2NnI1eVZ4bnd6QW9iX1JYZWp5U1g4XzNyYTk1TmJzajloYkd6dl9venktRXgxWTdhcGdNYWF2OUdEWW5Yc3ZKOHBrZmxqb1JHdFB0aloydFV2TXZpT1LSAboBQVVfeXFMTlVZak5KY3EtUk50Sl9fSG84OHN6dXN0SXFQV0c4WmxsRDk4MG1pOWFJYkc0dXdObTRCdkFQT21vWjlVUHcxSGZRcjB6RFZmRmpHQXlaV25FSlBuTE5jV0JoQ3ctaXYtYi05Q0lGY1hDQWNaTzZTWkNCaG5fbmtwSlVWc3hEZFNDUHRPTkJBYnVGaXEyZUdNOXJRcVlQZlloLTdYNDE4YmFSUUtyV21iWkNuaXZEcVFlTjN3?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFF4Vnp3cXd1Y2ozR285TzFtc3NIOEhxaHJBREJ6aXhMVlBsaE9yRlJPYlFmbEFGcW1UdmdqdW1YeWVOQXNHVmxYdE9oRHRnekNHRzkxczRDSThKTVF2NnI1eVZ4bnd6QW9iX1JYZWp5U1g4XzNyYTk1TmJzajloYkd6dl9venktRXgxWTdhcGdNYWF2OUdEWW5Yc3ZKOHBrZmxqb1JHdFB0aloydFV2TXZpT1LSAboBQVVfeXFMTlVZak5KY3EtUk50Sl9fSG84OHN6dXN0SXFQV0c4WmxsRDk4MG1pOWFJYkc0dXdObTRCdkFQT21vWjlVUHcxSGZRcjB6RFZmRmpHQXlaV25FSlBuTE5jV0JoQ3ctaXYtYi05Q0lGY1hDQWNaTzZTWkNCaG5fbmtwSlVWc3hEZFNDUHRPTkJBYnVGaXEyZUdNOXJRcVlQZlloLTdYNDE4YmFSUUtyV21iWkNuaXZEcVFlTjN3?oc=5)
-
----
-
 ### [Diabetes und Schilddrüse: Neue Leitlinien fordern engere Kontrolle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW9iTExHdGNzT3JROXZFMHJsQnhGcUJFT0FvWHBic3lWNTVrRjN2S0NsSWU4Nzh0dUZhaDNvWFJCRmZQZWRENVhwajgwTVhwRzdIU0s0MUlBTF9KNEtlVTNSRUFWeTU2UnBmYnhxWGlpUV93XzhjcTktTlh5eFNLczFHRXMzblFOX29MOXBuLUlpUTNucFdOUFhxU2xQM3dvM3RzQ3dVM19nV0d1ZVRHS0NIM2JOU1E1dHRBMkxpRkpWUEU?oc=5)
 
 2026-04-20 <span class="news-indication-tag">diabetes</span>
@@ -102,19 +102,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [La maladie « du foie gras » touche plus d’une personne sur six dans le monde - Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
+### [I’m a diabetes doctor — follow these 3 steps to put Type 2 into remission - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
 
-2026-04-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+2026-04-19 <span class="news-indication-tag">diabetes</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
-
----
-
-### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
-
-2026-04-19 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Trasladar el diagnóstico de obesidad más allá del IMC puede retrasar el tratamiento](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWE5XdENVZEpmd3I1dndOWHpVdEstYWphSTYzU19IVVdDdDJ6T3Q5cWUzN3VPN0l5Z3pzU21QNU85M0lqRTBfTjZ1eG5WMFh2Uzd6c0ZjMFU0ZW9YSDNIVkV3TTVZYlRxSFpTVVB1aV9MVF9qaFVmLWJiZjJXcHBaTGZTZHJMVGZVLW5JUXhMV3ZTQ1NjR0hFc0hxTnB5WkZJWW1vSE13VXBGbjhDV1lsRHFNTlFBSUstbjFrSUFuSQ?oc=5)
+### [Obésité : une technique utilisée pour la première fois en France faciliterait considérablement la perte de poids](https://news.google.com/rss/articles/CBMijgJBVV95cUxOLVFzVDE1YkhaZVFORmdvYm1YWk9jSWt0ekQxc05VRUsyZ0ZsZUhWUnlBUGdCOWtUZnZrVlpGajk2SUhYTUJRaENyS19PRDdHZkRJTFBDNFFmb1B4ckRzdlhqLW9iWGZlOVFXdEJEd1VSVXZxSkZmbEl1bzVGNy1PRVhaTllNM2xHUHA4a1FRcUxQQ3UxTVlpQnViRlZnM2tIRXZ5bHJTNEJodXBBM0tsRDVtYTZ0bklaNE9DbGpxXzBFQWVOMktJQ2wwUDNER3RpYy04M2JVZTlZbXdISlplaFVmc1owRkpKckFtM1dCLUN4UHBIZlM5dWlqS2N5M0RXd3lhMzdUMFVjNGtpaHc?oc=5)
 
-2026-04-20 <span class="news-indication-tag">obesidad</span>
+2026-04-20 <span class="news-indication-tag">obésité</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWE5XdENVZEpmd3I1dndOWHpVdEstYWphSTYzU19IVVdDdDJ6T3Q5cWUzN3VPN0l5Z3pzU21QNU85M0lqRTBfTjZ1eG5WMFh2Uzd6c0ZjMFU0ZW9YSDNIVkV3TTVZYlRxSFpTVVB1aV9MVF9qaFVmLWJiZjJXcHBaTGZTZHJMVGZVLW5JUXhMV3ZTQ1NjR0hFc0hxTnB5WkZJWW1vSE13VXBGbjhDV1lsRHFNTlFBSUstbjFrSUFuSQ?oc=5)
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMijgJBVV95cUxOLVFzVDE1YkhaZVFORmdvYm1YWk9jSWt0ekQxc05VRUsyZ0ZsZUhWUnlBUGdCOWtUZnZrVlpGajk2SUhYTUJRaENyS19PRDdHZkRJTFBDNFFmb1B4ckRzdlhqLW9iWGZlOVFXdEJEd1VSVXZxSkZmbEl1bzVGNy1PRVhaTllNM2xHUHA4a1FRcUxQQ3UxTVlpQnViRlZnM2tIRXZ5bHJTNEJodXBBM0tsRDVtYTZ0bklaNE9DbGpxXzBFQWVOMktJQ2wwUDNER3RpYy04M2JVZTlZbXdISlplaFVmc1owRkpKckFtM1dCLUN4UHBIZlM5dWlqS2N5M0RXd3lhMzdUMFVjNGtpaHc?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/lasmiditan-succinate/
 2026-04-20 <span class="news-indication-tag">Fettleibigkeit</span> <span class="news-indication-tag">AF</span>
 
 來源：[Rechtsdepesche | Für das Gesundheitswesen](https://news.google.com/rss/articles/CBMicEFVX3lxTE40dU1TcHRNcFZ5ZTg2d2dFR0dhSDhNZ1JoZUdpUTl3UUVkSXVxWkJ1QTlnUkUzSWYzZ2E2anNiYklpOVEyMHl1MkpvSHFNSmg3Y0hmekktNkpBQlREc1FUY3JUby1vSV9waFhjVnhhQ18?oc=5)
+
+---
+
+### [Vollmilch senkt womöglich das Adipositas-Risiko bei Kindern](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUoySlp3Rm13bzUzOTJZZmNSVFpETFAwakhESVRuc2JwZlRFM0xWSENTR2Z0RUZ0VktSVjdQNFZqS251enBmSkF5ME1LdFRLbk5uVU5TWGJmSUpJNHN4M3VTUXNtb3hRUDVqZXBSU1lvVWNwTERTZEdPaEhYdDREc2ZvbEtleVZPQjN1MzJXZ1lpNXlRMmRqRHZsS1hkRHhJd1BUUWNoUzdIVWY2dDhZbTVNRHRzZEpSWF9VZ1BDdkZ2N0NHRlNoSHI4SmdoNERp?oc=5)
+
+2026-04-20 <span class="news-indication-tag">Adipositas</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUoySlp3Rm13bzUzOTJZZmNSVFpETFAwakhESVRuc2JwZlRFM0xWSENTR2Z0RUZ0VktSVjdQNFZqS251enBmSkF5ME1LdFRLbk5uVU5TWGJmSUpJNHN4M3VTUXNtb3hRUDVqZXBSU1lvVWNwTERTZEdPaEhYdDREc2ZvbEtleVZPQjN1MzJXZ1lpNXlRMmRqRHZsS1hkRHhJd1BUUWNoUzdIVWY2dDhZbTVNRHRzZEpSWF9VZ1BDdkZ2N0NHRlNoSHI4SmdoNERp?oc=5)
 
 ---
 
@@ -94,27 +102,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Neue Leitlinien zur Behandlung von Fettleibigkeit und Lebererkrankungen](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk1rR2g2ZW9vZkZzWGxTY19pV0lUQXY2NWV1dEN5S0NRQVFwYWQzNUVmN2dfMF9fVVdzNXNQVzg0MGJPV2E3bjFrTkxhMG5xaDlKQTh5UU9kOHVpdXFrVGtCX2JhZ0E3YTBxY0ZqbmxzN29JZzlBYVdYS1A1OWJjT0dxMXQybUpMckNDR0d6Y3Y5UnR3UGx5YVV1TW82dVdVb205TWJn?oc=5)
+### [La semaglutida demuestra en un nuevo estudio eficacia frente a la enfermedad hepática metabólica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
 
-2026-04-19 <span class="news-indication-tag">Fettleibigkeit</span>
+2026-04-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk1rR2g2ZW9vZkZzWGxTY19pV0lUQXY2NWV1dEN5S0NRQVFwYWQzNUVmN2dfMF9fVVdzNXNQVzg0MGJPV2E3bjFrTkxhMG5xaDlKQTh5UU9kOHVpdXFrVGtCX2JhZ0E3YTBxY0ZqbmxzN29JZzlBYVdYS1A1OWJjT0dxMXQybUpMckNDR0d6Y3Y5UnR3UGx5YVV1TW82dVdVb205TWJn?oc=5)
-
----
-
-### [La maladie « du foie gras » touche plus d’une personne sur six dans le monde - Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckhWejA3WjBiOEI3cGdITTBUUmEzZDlJVnNxSkxYam5xclVmb013bnBGUWh0Ui14TWVsZXY3eVp0UzlRbFFpUDdIdFhyRktaczBSQUNLbm5MVnhBRkVHVmtZV0x2d0todnhjX1I2dlR1elBLajBJOXRBeWF0V2RkOC1Pcld0SXJYWmFUTERwczVlT2picV9WZGlpRUNRdmVQcmlUWTYwMUdndlcyaXplMG0tb0diVEU1N1lOOWtHY1NNTTBQenppQQ?oc=5)
-
----
-
-### [Camminare 10mila passi al giorno per stare bene? Per la scienza è un falso mito: ecco quanti minuti servono davvero - Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR?oc=5)
-
-2026-04-19 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JqUzVFeDE5NUE2UEFBQkJVN203elNfajV3WW9hc0NVUW16SVJLZzAxazc5LUk0b19zenBQQ2padGFTVi1HUUNEeVJ1NzNVNVdXMExmdzBLc0E4SDJxWnItMlZBWW92QjFkTVVTdUVjeFBfZjdxZDF4emNqQXZITGVBRWRmRzVJYzZKdmlMM1JYaDRrTTFWbnlOUkdwZGdObmdTN3czRjJfZEx0LTk4Wlc4X3ctaXZCNkJ5bWVR?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
 
 ---
 

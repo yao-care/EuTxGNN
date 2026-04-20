@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
+### [Symptome ernst nehmen - Keine Atempausen für Allergiker: Asthma droht - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
 
-2026-04-19 <span class="news-indication-tag">asthme</span>
+2026-04-20 <span class="news-indication-tag">asthma</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
-
----
-
-### [Medizin im Wandel: Naturheilkunde gegen chronische Schmerzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
-
-2026-04-19 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjVSV3g1ZEtLbzJZdHk3UVJEZVJLeEs1V21JRlEtWXdYdFZMRzJJZmhwdDV4T3BRbWtySEU3cXgzbGozZGpyT1BoMFFvd1BTTnNXWWNSZms3N3BwSFhreUJfOWRuN1dKMHhKdjYxd053ME9SalJQd1diOEFLZUoxc1cyN21lbE9vNURoRkNDenJ6R2xvWS1JRlByMDF5eUszN29xRFVEOVhBeEQtUXdJbFE1MGlxaHMxZGc?oc=5)
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
 
 ---
 

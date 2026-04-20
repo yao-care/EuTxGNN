@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="Bimatoprost 有什麼相關新聞？">
-<strong>Bimatoprost</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bimatoprost</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/bimatoprost/
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（23 則）
+
+### [Las personas que nunca se han casado tienen un riesgo mayor de desarrollar cáncer, según un gran estudio - El Economista](https://news.google.com/rss/articles/CBMimAJBVV95cUxQMkdvWGswV255YTA5WUpiSFM3TXdPWkRoRXFtc01IY0hMYkoyNm5va29makE0cnp5a0hhQmdkZGc1bTQ4ZkNMWnNDaWtMVm9Dc0lFUFBocWJ6V3VVd1kzdVM5MkJjcmRhcnRzYzh5TjZmSkV0Tmh5T3FCUktSMkVBSmxTb19BZzJNRjhWZWRlRlNaZGhjYlFic1puZFRFWnFxYUhleFR2eDJLc3hWTDdSYjRXOExYQVBUbVg0OHhKWlJnU09JbDVQTmZpYWJGeVVMZVItRWU3c0xVckRTMWtuaHVtUEFkQTJFeUpjTlFpY0JhUHNSaWJLUzRUUlV4bi1qVnR3cVVDLXFBeldmMm5Ha3h6N0txYkJP?oc=5)
+
+2026-04-20 <span class="news-indication-tag">AF</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMimAJBVV95cUxQMkdvWGswV255YTA5WUpiSFM3TXdPWkRoRXFtc01IY0hMYkoyNm5va29makE0cnp5a0hhQmdkZGc1bTQ4ZkNMWnNDaWtMVm9Dc0lFUFBocWJ6V3VVd1kzdVM5MkJjcmRhcnRzYzh5TjZmSkV0Tmh5T3FCUktSMkVBSmxTb19BZzJNRjhWZWRlRlNaZGhjYlFic1puZFRFWnFxYUhleFR2eDJLc3hWTDdSYjRXOExYQVBUbVg0OHhKWlJnU09JbDVQTmZpYWJGeVVMZVItRWU3c0xVckRTMWtuaHVtUEFkQTJFeUpjTlFpY0JhUHNSaWJLUzRUUlV4bi1qVnR3cVVDLXFBeldmMm5Ha3h6N0txYkJP?oc=5)
+
+---
+
+### [Feurige Schärfe gegen Erkältungen: Das sagen Wissenschaftler zu dem Mythos](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1B6TUtSaWdMS3FTc3R2UVBZUE5jSEFoMW1XN18wZlhMemlfa0JIOVpDZlUzeG9lYnNmWmVGQ1pDWnp4ZXdoZjBvLUxsUWlnZXVSSmZCMHhUa2R5Nk1rOE1hdGN6b0pEY3VBWXlqRTlfdmtwUUNaNm5ZbkpKUXRmYzcxXzRLeXVBR3FKMl90bEUxSFVMVExsMmVPM283anRmT1hXUUlkY1BkenctNk9jVWhFWHA5eUI5Qk5qb2swWnRDMXVEUzNsb2FBTWlIeXktV1NJM2VIUjh4cURNNThDTW1MZXdNWTh4c1JvNHl4NUxsU3ZHLUoxV0xZa1c?oc=5)
+
+2026-04-20 <span class="news-indication-tag">AF</span>
+
+來源：[CHIP](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1B6TUtSaWdMS3FTc3R2UVBZUE5jSEFoMW1XN18wZlhMemlfa0JIOVpDZlUzeG9lYnNmWmVGQ1pDWnp4ZXdoZjBvLUxsUWlnZXVSSmZCMHhUa2R5Nk1rOE1hdGN6b0pEY3VBWXlqRTlfdmtwUUNaNm5ZbkpKUXRmYzcxXzRLeXVBR3FKMl90bEUxSFVMVExsMmVPM283anRmT1hXUUlkY1BkenctNk9jVWhFWHA5eUI5Qk5qb2swWnRDMXVEUzNsb2FBTWlIeXktV1NJM2VIUjh4cURNNThDTW1MZXdNWTh4c1JvNHl4NUxsU3ZHLUoxV0xZa1c?oc=5)
+
+---
+
+### [Plejades and the Moon - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZG9wdzRvbHNSX05lRmczdzFVRWFkbG4zUmFMOWVtYkZWamN5bDZqV3htdVJBTFNYeUFyTkFLc24wUmxpUlZPaGxnbmVlX1RqVUdXN3BwNUhVZlNnQnR0NEkwY2ZtNHJRNWlFVUEzbEhwdDY3b2p5NTE1b2R2NnBoeHNHc3B5dw?oc=5)
+
+2026-04-20 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZG9wdzRvbHNSX05lRmczdzFVRWFkbG4zUmFMOWVtYkZWamN5bDZqV3htdVJBTFNYeUFyTkFLc24wUmxpUlZPaGxnbmVlX1RqVUdXN3BwNUhVZlNnQnR0NEkwY2ZtNHJRNWlFVUEzbEhwdDY3b2p5NTE1b2R2NnBoeHNHc3B5dw?oc=5)
+
+---
+
+### [Wissenschaftlich erforscht: Welches Olivenöl unser Gehirn am besten schützt](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNktmVktMWjhJNVNaNC1vWEE4Z3lJbW1GdE1ZSXR2TDVXc0xRT3dUcHVtMC1nWXE2bVZIbUIwSHBqQW1iZXVkeDhTSXYwR0ZTVWM4TU9CdHU1UWVudDFLMm5DYkRmcVU3WnN4bGdiTlhzcjBDS1NDeVFYbWR1M2FXYW8xbHFKYmJCZGo5d3lCUThQSlk?oc=5)
+
+2026-04-20 <span class="news-indication-tag">AF</span>
+
+來源：[STERN.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNktmVktMWjhJNVNaNC1vWEE4Z3lJbW1GdE1ZSXR2TDVXc0xRT3dUcHVtMC1nWXE2bVZIbUIwSHBqQW1iZXVkeDhTSXYwR0ZTVWM4TU9CdHU1UWVudDFLMm5DYkRmcVU3WnN4bGdiTlhzcjBDS1NDeVFYbWR1M2FXYW8xbHFKYmJCZGo5d3lCUThQSlk?oc=5)
+
+---
+
+### [Meningitis antibiotics spark 'phenomenal' response in Weymouth](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
+
+---
+
+### [Cadmium : « L’absence de preuve “irréfutable” ne devrait jamais servir d’alibi à l’inaction » - Le Monde.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV1JnQXg1NUVOZXpxeGJrTW1Yd2Q0ZVA4SWlvR3llbnpDV0Rqc1ZpMm13TzFXSy1VbHpJdlFwbFpsQVZIeWxRZHZjMHZDN0trRVRtSk9xajZrRV9IcGd5Z3FLSUp1eUJfVmJGdzRlR0x0d3J2alVvRTRXYng1Nm5HbEwyRTVQV01MTWllS0pCbDNSS3J3eDl5dVExeXlKY3NlMlY5amJySEVHOGU3OG9fd3BDMUFxWnJHZHJpbmVtenpjTWQwT1h0UzE5V0VMeHJBY1F5bmZSdGJhM0xOZjcxZjRmZVdOQQ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">AF</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV1JnQXg1NUVOZXpxeGJrTW1Yd2Q0ZVA4SWlvR3llbnpDV0Rqc1ZpMm13TzFXSy1VbHpJdlFwbFpsQVZIeWxRZHZjMHZDN0trRVRtSk9xajZrRV9IcGd5Z3FLSUp1eUJfVmJGdzRlR0x0d3J2alVvRTRXYng1Nm5HbEwyRTVQV01MTWllS0pCbDNSS3J3eDl5dVExeXlKY3NlMlY5amJySEVHOGU3OG9fd3BDMUFxWnJHZHJpbmVtenpjTWQwT1h0UzE5V0VMeHJBY1F5bmZSdGJhM0xOZjcxZjRmZVdOQQ?oc=5)
+
+---
 
 ### [Fettleibigkeit und die Folgen für Gesundheit und Wirtschaft - Rechtsdepesche | Für das Gesundheitswesen](https://news.google.com/rss/articles/CBMicEFVX3lxTE40dU1TcHRNcFZ5ZTg2d2dFR0dhSDhNZ1JoZUdpUTl3UUVkSXVxWkJ1QTlnUkUzSWYzZ2E2anNiYklpOVEyMHl1MkpvSHFNSmg3Y0hmekktNkpBQlREc1FUY3JUby1vSV9waFhjVnhhQ18?oc=5)
 
@@ -70,11 +118,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
 
 2026-04-20 <span class="news-indication-tag">Parkinson-Krankheit</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
 
 ---
 
@@ -86,11 +134,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Prostatakrebs-Therapie: Pflaster könnte schmerzhafte Spritzen ersetzen](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRzQ1ZlRyNmRhdERuZ0RGanBySTRVQTF5bmhuNFNFSFp3eURlQkRySnFKZUhQdXliZG5oMTFoeUF0SXlLdzRtOXhVblhBQllfWFpfNWZ2ZGdjbDl6RmpJa1dMamZoWnNJRDBzaEtzSXREdThTdzl1dzhyREF5Z3U2SmhuU2tkMlZGbXdRc2Z0czYxMU9GeWpSeVhIMGtqdGttbVNKQl9XbjF0ekppTEp5SGJJLWtsUTJTeWYtUjVVOHBib05wRTVvV1hR?oc=5)
+### [Rigenerato il fegato direttamente nel corpo, il test nei topi](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc21lUTROWTNCTGRMdUJ0dVhqNTRRNDlLd3NrcUNrUGVDZzlLNXpBUE5XalNNU0hkaVRkZ1czVDYxNl9XZUJGemZQX0ZLM3NSWnE0dWNXODd6Yjh3VlB5M0JnR2xlLWpsUGZWbUxmZDVNemZfZDBJWFJLNDUzcVRyd0tTc0lNYUhtSV80Vi1QUmNSM3h0RE1sSjJwSzJDZ3NSQmFmcmdwWmZQT2tyVTA0c05sMThUbjJxckJoSEQzdjVXa2kxZXRwWHgzMV9OSENxa1hZbUFLVFNEdWNscS1COTJ2emQybG9CZWphcUZVMGJlWWFoakY3ddIB_gFBVV95cUxPU1FpUHBtRVRVWG9laEd6Z2tJZ21GREd2RVFtdkZQV09qUzhERnlkQm9XTnNnRnlfeF9nQS1UQ2VtdGxuaXotT2ZKdWx3NzFVa1c5NEN4QzRJLXNZdnBDVnNTUXRjVWhQbkZaMDNucUtYWWpmMDJTRjdfLWJ0bUlsa21HNjJOTHpjejI2VmF0T1MwYk9WNXBtMkotT3piUGpHX0NwLWN6a1pJSzZHQWI4bGVvMllWUDdKYVpPbG4zRlJiN25oUTlrTmo4NU14UXN2azZLU21wd2hNMDVYM1Zvd1FURFNHd1JqX2tERDlrd2RoMEFRMmMzQk1QODQydw?oc=5)
 
-2026-04-20 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-04-20 <span class="news-indication-tag">AF</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRzQ1ZlRyNmRhdERuZ0RGanBySTRVQTF5bmhuNFNFSFp3eURlQkRySnFKZUhQdXliZG5oMTFoeUF0SXlLdzRtOXhVblhBQllfWFpfNWZ2ZGdjbDl6RmpJa1dMamZoWnNJRDBzaEtzSXREdThTdzl1dzhyREF5Z3U2SmhuU2tkMlZGbXdRc2Z0czYxMU9GeWpSeVhIMGtqdGttbVNKQl9XbjF0ekppTEp5SGJJLWtsUTJTeWYtUjVVOHBib05wRTVvV1hR?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc21lUTROWTNCTGRMdUJ0dVhqNTRRNDlLd3NrcUNrUGVDZzlLNXpBUE5XalNNU0hkaVRkZ1czVDYxNl9XZUJGemZQX0ZLM3NSWnE0dWNXODd6Yjh3VlB5M0JnR2xlLWpsUGZWbUxmZDVNemZfZDBJWFJLNDUzcVRyd0tTc0lNYUhtSV80Vi1QUmNSM3h0RE1sSjJwSzJDZ3NSQmFmcmdwWmZQT2tyVTA0c05sMThUbjJxckJoSEQzdjVXa2kxZXRwWHgzMV9OSENxa1hZbUFLVFNEdWNscS1COTJ2emQybG9CZWphcUZVMGJlWWFoakY3ddIB_gFBVV95cUxPU1FpUHBtRVRVWG9laEd6Z2tJZ21GREd2RVFtdkZQV09qUzhERnlkQm9XTnNnRnlfeF9nQS1UQ2VtdGxuaXotT2ZKdWx3NzFVa1c5NEN4QzRJLXNZdnBDVnNTUXRjVWhQbkZaMDNucUtYWWpmMDJTRjdfLWJ0bUlsa21HNjJOTHpjejI2VmF0T1MwYk9WNXBtMkotT3piUGpHX0NwLWN6a1pJSzZHQWI4bGVvMllWUDdKYVpPbG4zRlJiN25oUTlrTmo4NU14UXN2azZLU21wd2hNMDVYM1Zvd1FURFNHd1JqX2tERDlrd2RoMEFRMmMzQk1QODQydw?oc=5)
 
 ---
 
@@ -158,22 +206,6 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Cadmium dans l'alimentation : l'UFC Que Choisir vous guide pour savoir ce que vous pouvez manger afin de vous exposer le moins - Cuisine AZ](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR1RXWU52dElKTS13MmU4OUNLMG1leHFmLWNDSVBHZ1dvVm0zVEdybS1HMy1rdHNneFJaWEtRVHV0aFlKc0lqNHdlUEhSUENidnI5akR6TUFHbDJmUWtoM2MtR0sxWDJYNW9QWlFPSGRBTnNhU0hZcm5lVTNzV3NNSkhsWkNUbHN1OVJpanBaUDZWN1hNMEZYbXAzSnNCeG9Sck9Jd1pBU1d0LWNRb2xGRXNfZFUtX3J0c2dOR2VUTU03ck82SHhuMk9tM0Y2cm0yMFItdl95UkhQSHVLaXdIR1lMa3ZvRE1BTVpCZWd2RUg5YWt5ZWgyNFFVNDF0Rjg?oc=5)
-
-2026-04-19 <span class="news-indication-tag">AF</span>
-
-來源：[Cuisine AZ](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR1RXWU52dElKTS13MmU4OUNLMG1leHFmLWNDSVBHZ1dvVm0zVEdybS1HMy1rdHNneFJaWEtRVHV0aFlKc0lqNHdlUEhSUENidnI5akR6TUFHbDJmUWtoM2MtR0sxWDJYNW9QWlFPSGRBTnNhU0hZcm5lVTNzV3NNSkhsWkNUbHN1OVJpanBaUDZWN1hNMEZYbXAzSnNCeG9Sck9Jd1pBU1d0LWNRb2xGRXNfZFUtX3J0c2dOR2VUTU03ck82SHhuMk9tM0Y2cm0yMFItdl95UkhQSHVLaXdIR1lMa3ZvRE1BTVpCZWd2RUg5YWt5ZWgyNFFVNDF0Rjg?oc=5)
-
----
-
-### [El riesgo de cáncer es significativamente mayor en adultos que nunca se han casado - La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGhmRU0yMUFtNmN2ZE1HZklHRm5HSkh3NC10OWZXdEtYMG91VFgxU1RYOWNQazlRV21JR09ocHZlYlY3UWZub2tpTC1zREdZR2FncndiTkVPdTFkR2pUcjN4M3lOVWhzd3ljbHY2d1dvLTNtU2VjUk02VzhwaGlYeG9kTG9kUENHckUxV2dXZ3FBdUZMYTV1RXpGamtuYU1vZkRTcFVjbV9aVlNVRkl6X2oyMjJtb05NWXBuR2RaY01BRlFjNnRiNjZVc3N4eUNhbE400gHnAUFVX3lxTE5sV2tNZFFIb1FmZXRqSHI5RXRNc2NONzhYSlJWbmlqbUpmZWRhU1hWTnZYTHdfR3lWckxkdjhqX3Y4dGtKbVdQOWdOUi1meE9mZ2NnT0xFbkRybW9GdElfY1RmUktpX3ByeVdKdkxDbWNiT1pSSWpZS29Bd3RINkFZZXl5NWNzamlRY0szUkJ4NTZybUw2eFY2d1I5ZjVYeHlwaXV0a3BiYkhSTGF0S0hHTURfOG5kU3BaYkhyaXhST0Nnd2U5bzNUOFlfSXBRUFlFWGVESjEzeDNyeGQ2am5yRzVxTl9nQQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">AF</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGhmRU0yMUFtNmN2ZE1HZklHRm5HSkh3NC10OWZXdEtYMG91VFgxU1RYOWNQazlRV21JR09ocHZlYlY3UWZub2tpTC1zREdZR2FncndiTkVPdTFkR2pUcjN4M3lOVWhzd3ljbHY2d1dvLTNtU2VjUk02VzhwaGlYeG9kTG9kUENHckUxV2dXZ3FBdUZMYTV1RXpGamtuYU1vZkRTcFVjbV9aVlNVRkl6X2oyMjJtb05NWXBuR2RaY01BRlFjNnRiNjZVc3N4eUNhbE400gHnAUFVX3lxTE5sV2tNZFFIb1FmZXRqSHI5RXRNc2NONzhYSlJWbmlqbUpmZWRhU1hWTnZYTHdfR3lWckxkdjhqX3Y4dGtKbVdQOWdOUi1meE9mZ2NnT0xFbkRybW9GdElfY1RmUktpX3ByeVdKdkxDbWNiT1pSSWpZS29Bd3RINkFZZXl5NWNzamlRY0szUkJ4NTZybUw2eFY2d1I5ZjVYeHlwaXV0a3BiYkhSTGF0S0hHTURfOG5kU3BaYkhyaXhST0Nnd2U5bzNUOFlfSXBRUFlFWGVESjEzeDNyeGQ2am5yRzVxTl9nQQ?oc=5)
-
----
-
 ### [Mediziner rätseln nach 5 Todesfällen: Tödliches Virus ausgebrochen - ungewöhnliche Symptom-Kombination](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVGJhUUVoVFZNNHNsYnRCRFNCZW1TV0doZkgzQ2xxdG9SVDQyaG92ZjZ2QXc2MzFCQVpscktVc1lmbENiZFNjVXFoaUdhbG5RLWkyRUhURms1aXBxcXIxZE9USElUaUFqSktBV1hDMG1jbVZzNTBSTzJBcUpxZDd0RVlWeDFDZl9Pem1ubDd5TFhxUEdIRGg5X0p1ZDAwTDNWaWFEZGk0Y3NNa01UZ1VRUWg4X0t4MFdzS0daNGEwX3h2WkdBVjNxalBsRVNPVVlIdTdFeWttU2NRVi0xdThPS0dmSTdmblBaU0s4Nm5KODNlNGZNRDQwQ9IB_gFBVV95cUxQOHRDX1hHM3Fra3N3OUJ3OW1BNDR2bzJfejFUVjRZaGhtTUFBVld4RGw5T2pMV1NFVFNBaXJfdC1mT2tlMVhtcHVzQktsVk10Qm53cTByT0NVX1NkOW1wSkVvcGZka0lhUHR6VzYzWTlIYVl0WXVta3Y3MG9mU1FqejhFd1p5MHFUcVJsaTZpMGRXNkhwTElQZHZlNnhGSDhoVFFmd0JDc2tTQ0c3Zm8zSjFpVVRlQXRkVUdXdzVMNjBjTF9NZWQzV0dKOTRMRnlhTnpRQlV1aXZUalhqUExaWFB0a3dPMDJvV1k2dDNiNVdlV1RLX2dPa0o0UmRJQQ?oc=5)
 
 2026-04-19 <span class="news-indication-tag">AF</span>
@@ -203,14 +235,6 @@ permalink: /news/bimatoprost/
 2026-04-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diebewertung](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk1fQXpIR0NYV3hTTXZrQmh3TXlXWEstR1JnVDU5bkFteVBHTGw0c0J4VU5qUm12a09SOWJldjQ2YzBvQ3VqdXpST3UweVVMQXgzX2NMS3JrS3MxUVUxYXRza1B5MW01TW1lTTNETlhKQXlpVHh6MXFib2FwT0c1eXk4Z0hhOWpQYndwT1ljaVhLOEVpaFNXMkttM3BpYnZMS3lZTmRqVDhETG9KLUM0aQ?oc=5)
-
----
-
-### [Das schlafende Gehirn rekonstruiert schlechte Erinnerungen präziser als gute - Martin Cid Magazine](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmR2YnFDMWhjRjZ5NTNxdF83UGVJaDhlUUNzUk9WRTJlamRhNThxUllmcjZWekhNZ0VyMUZqZjBGS09rQS1sV1MzcnhxazdEZEY5WE5sWkdreVp1MkRobk9FY0xZbmFSY1Fld21iX1RwMzFrYm0wTjhNZFRuQUtKdldYdnN1MjQ1R3RqUmh4VE1Fb1dPMnF1eG1yR2dwSnR3UWZZby1UeW56Y2Eta09kTzJLTF9XV1k?oc=5)
-
-2026-04-18 <span class="news-indication-tag">AF</span>
-
-來源：[Martin Cid Magazine](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmR2YnFDMWhjRjZ5NTNxdF83UGVJaDhlUUNzUk9WRTJlamRhNThxUllmcjZWekhNZ0VyMUZqZjBGS09rQS1sV1MzcnhxazdEZEY5WE5sWkdreVp1MkRobk9FY0xZbmFSY1Fld21iX1RwMzFrYm0wTjhNZFRuQUtKdldYdnN1MjQ1R3RqUmh4VE1Fb1dPMnF1eG1yR2dwSnR3UWZZby1UeW56Y2Eta09kTzJLTF9XV1k?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthme（asthma） 相關新聞"
+title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthme（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthme（asthma） 相關新聞
+# asthma 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthme（asthma） 有什麼相關新聞？">
-<strong>asthme（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthma 有什麼相關新聞？">
+<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthme」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,11 +77,11 @@ permalink: /news/asthma/
 
 ## 相關新聞（1 則）
 
-### [Les polluants éternels pourraient nuire à la croissance osseuse - Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
+### [Symptome ernst nehmen - Keine Atempausen für Allergiker: Asthma droht - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
 
-2026-04-19
+2026-04-20
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXlJX0hPQVB1ZTZjRnpsOEVobF92NjY3dEkyUXhJbm9aclNhNmJnVmRNdFQ5QTlxeTJQS1FzY1kycElQVWFIMVBhRmVtRkZaN2xVaDlNMDIxRkh1RXltTVA3T0Y3TVM4RlZUbVU1WEV2SVJoUF9UU1o5Q2FVLUhTRmhrYk9iTDJsMmN2ZXFyY3VlRnJEbFBjdERkcWVVNVN5bVRHd2JISTZua0JkbW51WVUzYVoxUlpCSU9hVg?oc=5)
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
 
 ---
 
