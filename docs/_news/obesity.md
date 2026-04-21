@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [El Ozempic, el aliado inesperado de los médicos en la lucha contra el hígado graso en Málaga - Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
+
+2026-04-20
+
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
+
+---
 
 ### [Obésité : une technique utilisée pour la première fois en France faciliterait considérablement la perte de poids](https://news.google.com/rss/articles/CBMijgJBVV95cUxOLVFzVDE1YkhaZVFORmdvYm1YWk9jSWt0ekQxc05VRUsyZ0ZsZUhWUnlBUGdCOWtUZnZrVlpGajk2SUhYTUJRaENyS19PRDdHZkRJTFBDNFFmb1B4ckRzdlhqLW9iWGZlOVFXdEJEd1VSVXZxSkZmbEl1bzVGNy1PRVhaTllNM2xHUHA4a1FRcUxQQ3UxTVlpQnViRlZnM2tIRXZ5bHJTNEJodXBBM0tsRDVtYTZ0bklaNE9DbGpxXzBFQWVOMktJQ2wwUDNER3RpYy04M2JVZTlZbXdISlplaFVmc1owRkpKckFtM1dCLUN4UHBIZlM5dWlqS2N5M0RXd3lhMzdUMFVjNGtpaHc?oc=5)
 
@@ -86,11 +94,11 @@ permalink: /news/obesity/
 
 ---
 
-### [La semaglutida demuestra en un nuevo estudio eficacia frente a la enfermedad hepática metabólica](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
+### [Neue Leitlinien zur Behandlung von Fettleibigkeit und Lebererkrankungen](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk1rR2g2ZW9vZkZzWGxTY19pV0lUQXY2NWV1dEN5S0NRQVFwYWQzNUVmN2dfMF9fVVdzNXNQVzg0MGJPV2E3bjFrTkxhMG5xaDlKQTh5UU9kOHVpdXFrVGtCX2JhZ0E3YTBxY0ZqbmxzN29JZzlBYVdYS1A1OWJjT0dxMXQybUpMckNDR0d6Y3Y5UnR3UGx5YVV1TW82dVdVb205TWJn?oc=5)
 
 2026-04-19
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENrbzJ0UlBTZ2I2clBpb3BoRHhhV2ltMzg3WXhlcjRmTGxsLTVITTRSaGEzR1E0T2hZWVR3dmc5NmlIQVU4VVNrb250NDBMSVBtb2xfRWVDb3p2dDY0THlnSDZLdnQyMjliMHNXQTRlcnkwR3hUNjlKTzJUTG9YNHhZRWpqLTRCVjFHVFp2OUF3TjhhQlZxTVk5Z3ZyZlZncHFhQnRsOGJJTzd3LWhpNHFRc0d6aGRUQkRfQkVUeVpkRGM?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk1rR2g2ZW9vZkZzWGxTY19pV0lUQXY2NWV1dEN5S0NRQVFwYWQzNUVmN2dfMF9fVVdzNXNQVzg0MGJPV2E3bjFrTkxhMG5xaDlKQTh5UU9kOHVpdXFrVGtCX2JhZ0E3YTBxY0ZqbmxzN29JZzlBYVdYS1A1OWJjT0dxMXQybUpMckNDR0d6Y3Y5UnR3UGx5YVV1TW82dVdVb205TWJn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/bimekizumab/
 ---
 
 <p class="key-answer" data-question="Bimekizumab 有什麼相關新聞？">
-<strong>Bimekizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bimekizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/bimekizumab/
 <p><a href="{{ '/drugs/bimekizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [El Ozempic, el aliado inesperado de los médicos en la lucha contra el hígado graso en Málaga - Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
+
+2026-04-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
+
+---
+
+### [Diabetes-Versorgung setzt auf Ganzkörper-Risikobewertung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWZycXBmZE5kMWNmOTJ6Q29DTDJOaDhYdGtPdFFoZnRaakpEekUxNmNxRmtMdXFFeW0wX09IS1NRWmk2RkdaNG5Qd1NpcGwtc2tWNDNhX2tTWTJOdC1MYkozRXR5TldFSkxTOU1QX1NqR2RIYU80M3NJaGFYRmkwUnpEX0JDVWdWWHlWTlNWUlhYcDFINmg3RGxaYnhhLVY3OWd5R2VWNUVIUkpMdUxWcTgyMmxzNWM?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWZycXBmZE5kMWNmOTJ6Q29DTDJOaDhYdGtPdFFoZnRaakpEekUxNmNxRmtMdXFFeW0wX09IS1NRWmk2RkdaNG5Qd1NpcGwtc2tWNDNhX2tTWTJOdC1MYkozRXR5TldFSkxTOU1QX1NqR2RIYU80M3NJaGFYRmkwUnpEX0JDVWdWWHlWTlNWUlhYcDFINmg3RGxaYnhhLVY3OWd5R2VWNUVIUkpMdUxWcTgyMmxzNWM?oc=5)
+
+---
 
 ### [Detección precoz diabetes tipo 1 el gran cambio - Canal Diabetes](https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEZ0cEpHcWJXVFhqTVllUzBqVzU4RVJYaG1fUjBJbFh4NjFHUnItMmpOWVZ0SkFmLUcya2hwN0VKcUZSUkZpVnBvX3M3YXlNYUozRjFrYmtIazJYLVZVcHhmUXAtanFpNlZZ?oc=5)
 

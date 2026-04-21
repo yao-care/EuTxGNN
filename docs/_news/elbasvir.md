@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Gut microbiome can reveal risk of Parkinson’s, scientists say - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
+
+---
+
+### [Teano / Sessa Aurunca / Cellole – Infezione da Epatite A: ecco i paesi più colpiti](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xajFGODh4TTlhcFo3Y0NEaGVXZGFuSUpYS2xyZ241SWtNY0FtaDJoTEJGd1U4aThNVWNjX05DeFM4SHRLZGc4RjdB?oc=5)
+
+2026-04-20 <span class="news-indication-tag">epatite</span>
+
+來源：[paesenews.it](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xajFGODh4TTlhcFo3Y0NEaGVXZGFuSUpYS2xyZ241SWtNY0FtaDJoTEJGd1U4aThNVWNjX05DeFM4SHRLZGc4RjdB?oc=5)
+
+---
+
+### [Scientists identify main cause of extreme nausea and vomiting in pregnancy - Live Science](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUFWanNTV2oyNWJ2WkZ6YXhTRGoxdVFLby1aYTdoNE9nUjQ5SWlBLUZCVHhLcUpWUEtybVlqYTNUWDZSMVQyVHFxTHE2VXZHZEpVNFZjc1JrSnlIYmhJWFdtZURwZDBaLWo4alo1NmVuN3JzbzVSOV9YelZVRnlmR0xPUE90TXVIM1VTR2JWT2RUQURocFI0b3ZSdFMyRzhfM3dQTUVoZm5DT1RfeDlWWW1Za3VVWFduTTlfTG96WmJyWE5hUkQzOQ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span>
+
+來源：[Live Science](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUFWanNTV2oyNWJ2WkZ6YXhTRGoxdVFLby1aYTdoNE9nUjQ5SWlBLUZCVHhLcUpWUEtybVlqYTNUWDZSMVQyVHFxTHE2VXZHZEpVNFZjc1JrSnlIYmhJWFdtZURwZDBaLWo4alo1NmVuN3JzbzVSOV9YelZVRnlmR0xPUE90TXVIM1VTR2JWT2RUQURocFI0b3ZSdFMyRzhfM3dQTUVoZm5DT1RfeDlWWW1Za3VVWFduTTlfTG96WmJyWE5hUkQzOQ?oc=5)
+
+---
 
 ### [My son's symptoms were 'picky eating or teething' - then he was hours from death - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
-
----
-
-### [Meningitis antibiotics spark 'phenomenal' response in Weymouth](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
 
 ---
 
@@ -115,14 +131,6 @@ permalink: /news/elbasvir/
 2026-04-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDIycnVGYnl5Wno4WC1scDdxNHBFcVN3TURIbHZqcWdMZERsR25QYVlrVjN0VXVMUDlOSS1CS0QtbDlFOVI1QjAwbUdiUndnb1pHdWhaU3FMZzZObk12U2tBSkRHQmZMZjFEdUpYQ2hBY1M2MmQxN0UzSl9QbEltMHFKSnlnTDFtTk9RdW1QMNIBlAFBVV95cUxPWUFyaFotUzdjcGV5d0Z4LWNHRldEcFBPUEFSaUs5RHJOaS1jWUlFNlpDREtpcXYyMzdPWmtoVzh5cU5hSnBQN3NPc1VFMThpS1dyQjF3bHFRLWlYZEdzZDNXaU5DYS1VQ0sxY29feVZiOG1ySmRkRTN2V3B0eGdFeG9QU2Z1ZlYzZDNOREp5UHBvOU9T?oc=5)
-
----
-
-### ["El contenido de los sueños puede verse afectado por la enfermedad de alzhéimer y puede ser una línea de investigación interesante para su diagnóstico precoz"](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
-
-2026-04-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
 
 ---
 

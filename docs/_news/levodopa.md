@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levodopa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Discovering my toddler has dementia was the worst moment of my life... so when a test revealed her unborn sibling also had the disease we had no choice but to terminate my pregnancy - Daily Mail](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
-
-2026-04-20 <span class="news-indication-tag">dementia</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
-
----
-
-### [Gut microbiome can reveal risk of Parkinson’s, scientists say - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
-
-2026-04-20 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">Parkinson's</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Maladie de Parkinson : et si la clé se trouvait dans nos intestins et notre alimentation ? - Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdXRycHNjdUVBVVkwZml3d0h6ZElKcGhTb2FPWDJwUXhBYW94enRvTWRNMTZGSm9BMXVRSTZ5MWVZdU4xRWp0RkVyRUw1U1g1Z3I5eFRSTGxBMldJZGRsN09zeVA0RXpjdG1SVzhNa1gxS3d0cmJpSHdBSDAyS1E4bmZGd19SZmRfNklwV0lFTTVDdEFRMXNORE4wQUxYRVZ0Wll3SU1tVU11dndPNmZkelF3QWMyM3FxWXZRclo0SmlSMlVCZTI5QUFQZVgzNzNBUm9qMFF1bzN3YU9YeUp5aUFpY0U5RXY2LXZnQkRpSFpFT01XMVNFQzdQc2s?oc=5)
 
@@ -78,11 +62,19 @@ permalink: /news/levodopa/
 
 ---
 
-### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+### [Discovering my toddler has dementia was the worst moment of my life... so when a test revealed her unborn sibling also had the disease we had no choice but to terminate my pregnancy - Daily Mail](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
 
-2026-04-20 <span class="news-indication-tag">Parkinson-Krankheit</span> <span class="news-indication-tag">AF</span>
+2026-04-20 <span class="news-indication-tag">dementia</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+來源：[Daily Mail](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
+
+---
+
+### [There’s New Evidence for How Loneliness Affects Memory in Old Age](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTNnWnFYb1JMVUlVQmp1c1gwUnROVXBJTFRoVkxTR0p4QVZYWFR0QXI4NnV4SjdBZFZzLWxFeUk3NHZXS0hYUFZ3c0lsZ0NINzQxaS13eEd4MTJ2ZDh1b3YwWTBSTnN0RjRMQVFPWmhTZXRWVThxdU51emw2U2tSSXlXUEVRdW83M19DT2EzWVZkbEdiSGk2Nw?oc=5)
+
+2026-04-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTNnWnFYb1JMVUlVQmp1c1gwUnROVXBJTFRoVkxTR0p4QVZYWFR0QXI4NnV4SjdBZFZzLWxFeUk3NHZXS0hYUFZ3c0lsZ0NINzQxaS13eEd4MTJ2ZDh1b3YwWTBSTnN0RjRMQVFPWmhTZXRWVThxdU51emw2U2tSSXlXUEVRdW83M19DT2EzWVZkbEdiSGk2Nw?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/levodopa/
 2026-04-19 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjk5cnFtNXUtWjBCOG05YlFralEzci1saXNERVkxVWNfa3lSbVdjcXNKSjNjTTlWQmpnOEVFbXJiWDFMMEFILUdVMTdVM0l4eHFPeUgzM3pwTGxCUEEzbTY1ekY0S3RxeHpZZjJBTlF3Mi1PNEgzUlRqZS1wSHFQcUVUeUlBOU5uTjMtc1lTNXZWWUNMQ3dMQkxsTS1BVHpXaGw4RHNua2JqRkZKaHFLeXVoVzlyTjkyWl8wcklTYVBSYXJob3IzWlg4dmZDYlE?oc=5)
-
----
-
-### [Loneliness may contribute to memory issues, but not dementia — they are 'not the same thing' - Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
-
-2026-04-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
 
 ---
 

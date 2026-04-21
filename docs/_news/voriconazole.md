@@ -14,7 +14,7 @@ permalink: /news/voriconazole/
 ---
 
 <p class="key-answer" data-question="Voriconazole 有什麼相關新聞？">
-<strong>Voriconazole</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voriconazole</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/voriconazole/
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（20 則）
+
+### [‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Id3pldEwwMjJOSXQ1V0JmYXR4RVFHV2g2YnBzWjMyMlk4bEQtUzdBUExpNlRqd1ZPZ1FLbEYyY2RWTnV6QmQ1RS1MMG5aYUZFeF9rM2xVQ2NiT1lYdzJZ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">AF</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Id3pldEwwMjJOSXQ1V0JmYXR4RVFHV2g2YnBzWjMyMlk4bEQtUzdBUExpNlRqd1ZPZ1FLbEYyY2RWTnV6QmQ1RS1MMG5aYUZFeF9rM2xVQ2NiT1lYdzJZ?oc=5)
+
+---
+
+### [Schwere Malaria raubt Kindern dauerhaft IQ-Punkte - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxONzdRcTFJSTVoV1MyWTk1NkdtcDcwVnFXOHBPa2NRRi1KRDVQZ0VpVHlHQ1hCcWtTcHFYTHE2MlpOM0JFamRWOGN5amdEcnk2c0xGQVVkSnZxcGVtQmh4dFNyN0FwLWFNT3Q0YkxzRU1yM0JndTNrVF80ZktHdnZpR3BrczA4NmZJeGdmWjZSVEdZZUNvOV9aNnlsT0UwSnU5a3drclNDNmtRWGpj?oc=5)
+
+2026-04-20 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxONzdRcTFJSTVoV1MyWTk1NkdtcDcwVnFXOHBPa2NRRi1KRDVQZ0VpVHlHQ1hCcWtTcHFYTHE2MlpOM0JFamRWOGN5amdEcnk2c0xGQVVkSnZxcGVtQmh4dFNyN0FwLWFNT3Q0YkxzRU1yM0JndTNrVF80ZktHdnZpR3BrczA4NmZJeGdmWjZSVEdZZUNvOV9aNnlsT0UwSnU5a3drclNDNmtRWGpj?oc=5)
+
+---
 
 ### [Las personas que nunca se han casado tienen un riesgo mayor de desarrollar cáncer, según un gran estudio - El Economista](https://news.google.com/rss/articles/CBMimAJBVV95cUxQMkdvWGswV255YTA5WUpiSFM3TXdPWkRoRXFtc01IY0hMYkoyNm5va29makE0cnp5a0hhQmdkZGc1bTQ4ZkNMWnNDaWtMVm9Dc0lFUFBocWJ6V3VVd1kzdVM5MkJjcmRhcnRzYzh5TjZmSkV0Tmh5T3FCUktSMkVBSmxTb19BZzJNRjhWZWRlRlNaZGhjYlFic1puZFRFWnFxYUhleFR2eDJLc3hWTDdSYjRXOExYQVBUbVg0OHhKWlJnU09JbDVQTmZpYWJGeVVMZVItRWU3c0xVckRTMWtuaHVtUEFkQTJFeUpjTlFpY0JhUHNSaWJLUzRUUlV4bi1qVnR3cVVDLXFBeldmMm5Ha3h6N0txYkJP?oc=5)
 
 2026-04-20 <span class="news-indication-tag">AF</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMimAJBVV95cUxQMkdvWGswV255YTA5WUpiSFM3TXdPWkRoRXFtc01IY0hMYkoyNm5va29makE0cnp5a0hhQmdkZGc1bTQ4ZkNMWnNDaWtMVm9Dc0lFUFBocWJ6V3VVd1kzdVM5MkJjcmRhcnRzYzh5TjZmSkV0Tmh5T3FCUktSMkVBSmxTb19BZzJNRjhWZWRlRlNaZGhjYlFic1puZFRFWnFxYUhleFR2eDJLc3hWTDdSYjRXOExYQVBUbVg0OHhKWlJnU09JbDVQTmZpYWJGeVVMZVItRWU3c0xVckRTMWtuaHVtUEFkQTJFeUpjTlFpY0JhUHNSaWJLUzRUUlV4bi1qVnR3cVVDLXFBeldmMm5Ha3h6N0txYkJP?oc=5)
-
----
-
-### [Feurige Schärfe gegen Erkältungen: Das sagen Wissenschaftler zu dem Mythos](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1B6TUtSaWdMS3FTc3R2UVBZUE5jSEFoMW1XN18wZlhMemlfa0JIOVpDZlUzeG9lYnNmWmVGQ1pDWnp4ZXdoZjBvLUxsUWlnZXVSSmZCMHhUa2R5Nk1rOE1hdGN6b0pEY3VBWXlqRTlfdmtwUUNaNm5ZbkpKUXRmYzcxXzRLeXVBR3FKMl90bEUxSFVMVExsMmVPM283anRmT1hXUUlkY1BkenctNk9jVWhFWHA5eUI5Qk5qb2swWnRDMXVEUzNsb2FBTWlIeXktV1NJM2VIUjh4cURNNThDTW1MZXdNWTh4c1JvNHl4NUxsU3ZHLUoxV0xZa1c?oc=5)
-
-2026-04-20 <span class="news-indication-tag">AF</span>
-
-來源：[CHIP](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1B6TUtSaWdMS3FTc3R2UVBZUE5jSEFoMW1XN18wZlhMemlfa0JIOVpDZlUzeG9lYnNmWmVGQ1pDWnp4ZXdoZjBvLUxsUWlnZXVSSmZCMHhUa2R5Nk1rOE1hdGN6b0pEY3VBWXlqRTlfdmtwUUNaNm5ZbkpKUXRmYzcxXzRLeXVBR3FKMl90bEUxSFVMVExsMmVPM283anRmT1hXUUlkY1BkenctNk9jVWhFWHA5eUI5Qk5qb2swWnRDMXVEUzNsb2FBTWlIeXktV1NJM2VIUjh4cURNNThDTW1MZXdNWTh4c1JvNHl4NUxsU3ZHLUoxV0xZa1c?oc=5)
 
 ---
 
@@ -86,19 +94,11 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Meningitis antibiotics spark 'phenomenal' response in Weymouth](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
-
----
-
-### [Cadmium : « L’absence de preuve “irréfutable” ne devrait jamais servir d’alibi à l’inaction » - Le Monde.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV1JnQXg1NUVOZXpxeGJrTW1Yd2Q0ZVA4SWlvR3llbnpDV0Rqc1ZpMm13TzFXSy1VbHpJdlFwbFpsQVZIeWxRZHZjMHZDN0trRVRtSk9xajZrRV9IcGd5Z3FLSUp1eUJfVmJGdzRlR0x0d3J2alVvRTRXYng1Nm5HbEwyRTVQV01MTWllS0pCbDNSS3J3eDl5dVExeXlKY3NlMlY5amJySEVHOGU3OG9fd3BDMUFxWnJHZHJpbmVtenpjTWQwT1h0UzE5V0VMeHJBY1F5bmZSdGJhM0xOZjcxZjRmZVdOQQ?oc=5)
+### [No further meningitis cases after three infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
 
 2026-04-20 <span class="news-indication-tag">AF</span>
 
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV1JnQXg1NUVOZXpxeGJrTW1Yd2Q0ZVA4SWlvR3llbnpDV0Rqc1ZpMm13TzFXSy1VbHpJdlFwbFpsQVZIeWxRZHZjMHZDN0trRVRtSk9xajZrRV9IcGd5Z3FLSUp1eUJfVmJGdzRlR0x0d3J2alVvRTRXYng1Nm5HbEwyRTVQV01MTWllS0pCbDNSS3J3eDl5dVExeXlKY3NlMlY5amJySEVHOGU3OG9fd3BDMUFxWnJHZHJpbmVtenpjTWQwT1h0UzE5V0VMeHJBY1F5bmZSdGJhM0xOZjcxZjRmZVdOQQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
 
 ---
 
@@ -118,11 +118,19 @@ permalink: /news/voriconazole/
 
 ---
 
-### [KI-gestütztes Projekt erforscht Zusammenhang zwischen Darmerkrankungen und Parkinson-Krankheit - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+### [Mum hospitalised with 'broken heart syndrome' after son's suicide - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVJuQkFfR0RKYmNGLVFnSC03RW5ZMDMtUW82R2MxbmJEMFlMMUNHeS1KcXFXRG9rQlo2NFlLMFBsZk9BdHBjSzNUYkRuMkE0R2ZvX1NTREdvZmtlQ1cySnk4NXpXeERtenZURXN0TENrYkFlREZuVXI0cmROTG5XNG9jMlNaQ2FNVTRqYdIBkgFBVV95cUxOSldaeTlKYU1QNVNTUXR2R25kQmlveW1oWUxXcmZYak5JelFGNHVmVVJhU1duRkdaUVh2MTlEOUZpVnhFMm5hVlIwSjAyOUdBeXVOZENKakduRmJpM0JhNTNYeXk5VWxheC15djdVdDBhN1BOa2dHMG10UVU4SlZaQjl0SGRBMG0xTWduTkk1X1l0UQ?oc=5)
 
-2026-04-20 <span class="news-indication-tag">Parkinson-Krankheit</span> <span class="news-indication-tag">AF</span>
+2026-04-20 <span class="news-indication-tag">AF</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE45UmxNcmJLNnN1X1pvNEFHcHZSUWdRbnlmYkQ1dm54dVd5VzREODcwMGJlb25nZlFaaXFxUU1GQUNJOWE3YmItS1dEOA?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVJuQkFfR0RKYmNGLVFnSC03RW5ZMDMtUW82R2MxbmJEMFlMMUNHeS1KcXFXRG9rQlo2NFlLMFBsZk9BdHBjSzNUYkRuMkE0R2ZvX1NTREdvZmtlQ1cySnk4NXpXeERtenZURXN0TENrYkFlREZuVXI0cmROTG5XNG9jMlNaQ2FNVTRqYdIBkgFBVV95cUxOSldaeTlKYU1QNVNTUXR2R25kQmlveW1oWUxXcmZYak5JelFGNHVmVVJhU1duRkdaUVh2MTlEOUZpVnhFMm5hVlIwSjAyOUdBeXVOZENKakduRmJpM0JhNTNYeXk5VWxheC15djdVdDBhN1BOa2dHMG10UVU4SlZaQjl0SGRBMG0xTWduTkk1X1l0UQ?oc=5)
+
+---
+
+### [There’s New Evidence for How Loneliness Affects Memory in Old Age](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTNnWnFYb1JMVUlVQmp1c1gwUnROVXBJTFRoVkxTR0p4QVZYWFR0QXI4NnV4SjdBZFZzLWxFeUk3NHZXS0hYUFZ3c0lsZ0NINzQxaS13eEd4MTJ2ZDh1b3YwWTBSTnN0RjRMQVFPWmhTZXRWVThxdU51emw2U2tSSXlXUEVRdW83M19DT2EzWVZkbEdiSGk2Nw?oc=5)
+
+2026-04-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTNnWnFYb1JMVUlVQmp1c1gwUnROVXBJTFRoVkxTR0p4QVZYWFR0QXI4NnV4SjdBZFZzLWxFeUk3NHZXS0hYUFZ3c0lsZ0NINzQxaS13eEd4MTJ2ZDh1b3YwWTBSTnN0RjRMQVFPWmhTZXRWVThxdU51emw2U2tSSXlXUEVRdW83M19DT2EzWVZkbEdiSGk2Nw?oc=5)
 
 ---
 
@@ -139,6 +147,14 @@ permalink: /news/voriconazole/
 2026-04-20 <span class="news-indication-tag">AF</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc21lUTROWTNCTGRMdUJ0dVhqNTRRNDlLd3NrcUNrUGVDZzlLNXpBUE5XalNNU0hkaVRkZ1czVDYxNl9XZUJGemZQX0ZLM3NSWnE0dWNXODd6Yjh3VlB5M0JnR2xlLWpsUGZWbUxmZDVNemZfZDBJWFJLNDUzcVRyd0tTc0lNYUhtSV80Vi1QUmNSM3h0RE1sSjJwSzJDZ3NSQmFmcmdwWmZQT2tyVTA0c05sMThUbjJxckJoSEQzdjVXa2kxZXRwWHgzMV9OSENxa1hZbUFLVFNEdWNscS1COTJ2emQybG9CZWphcUZVMGJlWWFoakY3ddIB_gFBVV95cUxPU1FpUHBtRVRVWG9laEd6Z2tJZ21GREd2RVFtdkZQV09qUzhERnlkQm9XTnNnRnlfeF9nQS1UQ2VtdGxuaXotT2ZKdWx3NzFVa1c5NEN4QzRJLXNZdnBDVnNTUXRjVWhQbkZaMDNucUtYWWpmMDJTRjdfLWJ0bUlsa21HNjJOTHpjejI2VmF0T1MwYk9WNXBtMkotT3piUGpHX0NwLWN6a1pJSzZHQWI4bGVvMllWUDdKYVpPbG4zRlJiN25oUTlrTmo4NU14UXN2azZLU21wd2hNMDVYM1Zvd1FURFNHd1JqX2tERDlrd2RoMEFRMmMzQk1QODQydw?oc=5)
+
+---
+
+### [Warum viele Krebstherapien an ihre Grenzen stoßen – und welche Rolle der Immunstatus tatsächlich spielt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSnVjdzQ5dEhOUzZwNWhMWENCdDgxU2dLNEh0ZFVEc0lHX1ZtbkhwRXUtR2Zta01wOW13aDYyUnBwYk1aREwyM20xcU9Gd0p1c0k1WEk4bTU5M1BSQVp0YnNIb0pWNHZ2cGlCNmxSUGk1SHByWDRzOHVKYWRWMnI4T2ZXV1kwTFh6S0tNTmdHSlVhSV9jaEJDQ0dFSUQ0MnRlcG5md2RsdHRWYkNrNGdsQU0xT25pdUNMczhPbFA0Qy1MaldZaVF4Y2dXVFNRUkJTT25lWWhMc1Yzemc?oc=5)
+
+2026-04-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[openPR.de](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSnVjdzQ5dEhOUzZwNWhMWENCdDgxU2dLNEh0ZFVEc0lHX1ZtbkhwRXUtR2Zta01wOW13aDYyUnBwYk1aREwyM20xcU9Gd0p1c0k1WEk4bTU5M1BSQVp0YnNIb0pWNHZ2cGlCNmxSUGk1SHByWDRzOHVKYWRWMnI4T2ZXV1kwTFh6S0tNTmdHSlVhSV9jaEJDQ0dFSUQ0MnRlcG5md2RsdHRWYkNrNGdsQU0xT25pdUNMczhPbFA0Qy1MaldZaVF4Y2dXVFNRUkJTT25lWWhMc1Yzemc?oc=5)
 
 ---
 
@@ -166,22 +182,6 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Rafael Valdés, experto en microbiota: «Los probióticos están sobrevalorados. Se les atribuyen más beneficios de los que realmente tienen» - La Voz de Asturias](https://news.google.com/rss/articles/CBMiigJBVV95cUxQc0hRN0RxazM3OUJkdGNRYWJ3UG1QdFAtV19PaEhxQ3ltRzEtRE1TVjFTNTZTRTFMVUhNcUdleURKZGhqMTJEWVNWY1VDMllFUTVfZXFRMHFrM281djBvYURkam5mMXNjVjg1a3VEcjgtT2JFNzlHLXJZWTluODdJT0lVZmFEMXBpeWtsMW90by1uSjdWRG9YbjdKTkJsVTcwbGVydzRHYTRTQ2lsWmhYUHJlUGxLZUNEczd2ZXBHYWVyazVkVjhiek1sMXVjTXhsbzNDQ3ZXTW0zZTktTVN6MjRzUVViQlJoZ2k2cm5wT0E2aWNuN3pUdzZjQzlHVDNiRGpGQmh0ZEc0QQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">AF</span>
-
-來源：[La Voz de Asturias](https://news.google.com/rss/articles/CBMiigJBVV95cUxQc0hRN0RxazM3OUJkdGNRYWJ3UG1QdFAtV19PaEhxQ3ltRzEtRE1TVjFTNTZTRTFMVUhNcUdleURKZGhqMTJEWVNWY1VDMllFUTVfZXFRMHFrM281djBvYURkam5mMXNjVjg1a3VEcjgtT2JFNzlHLXJZWTluODdJT0lVZmFEMXBpeWtsMW90by1uSjdWRG9YbjdKTkJsVTcwbGVydzRHYTRTQ2lsWmhYUHJlUGxLZUNEczd2ZXBHYWVyazVkVjhiek1sMXVjTXhsbzNDQ3ZXTW0zZTktTVN6MjRzUVViQlJoZ2k2cm5wT0E2aWNuN3pUdzZjQzlHVDNiRGpGQmh0ZEc0QQ?oc=5)
-
----
-
-### [Mone Zaidi, experto en salud ósea: «La FSH es una hormona que tras la menopausia afecta negativamente a las mujeres» - La Voz de Galicia](https://news.google.com/rss/articles/CBMisAJBVV95cUxOZGdYYmhSWWY0U0JhVjQxekpZcXBIdDg0TllvamxtRk9SODBNLTNzTEl5alBNTmEza3RRQTRwZDE2anp2MlhVV3puSDljU3dLTHczSTdtWEVRYTcydGRfU0pJRTJBQmFHLTRWNGU0bkZhYkRmVHlyRjJUci1STndIZlFzWTJNbkJKZ2xNQ3paZy1BSEhDU1VkS2FuSHJUUFlKd0JIS25aRTRGTVd3dDNHTW9BUFlROVlYWmtHTGpOTzBaaHhLNkg5RWlFeUhORkZwangwbE0xc2FjaldpSm5NSkNqYmpYVUY5OVlHVXlvOWpoZWV2dUkzMjBGOFFjQUEyb0NGS19velVUdnFfTXc1UzJ2a0xtU0JsRlZVUlBzTks5anVzV1YtSFFmWHhVOEpM0gG2AkFVX3lxTE9xTjdZMzU2N2JXWDJzMWNMMmtiZVEzSHk1NkEtMW5LVVpTcmdvbEJOTDBfTUlMdEVCVEFyMFBmMEV2SDFVSHdzZHlrQkE1ZFkwWWJIeXdDQmwyT2E2R1A0NVZHYXV4Z0FqY2lJX1ZzRlhNSGduZEdTR29FYldwMjNSR3ptWnl6NEo1WnA0eWc1SVBfSHZoa0hQOWVUR0laS1VXYkduM2hTbTJSTjNnbld5NDRiSVdHZkdaa0I0VlFiN1RyTmVVcEo5eE44dV9nSEQ4eThnODNxQXJvNlhhVGtTcWV3WEtPTmNSelk2d18yVlRJUlN1dlFLRUdOX3Q0MVNCNV9wcmRkWGZEbGpsOHBaN3BzSElLajFyeVNEYjBvczNhUlhuUDg4eW55R3VhVEJhb0hFV1E?oc=5)
-
-2026-04-20 <span class="news-indication-tag">AF</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMisAJBVV95cUxOZGdYYmhSWWY0U0JhVjQxekpZcXBIdDg0TllvamxtRk9SODBNLTNzTEl5alBNTmEza3RRQTRwZDE2anp2MlhVV3puSDljU3dLTHczSTdtWEVRYTcydGRfU0pJRTJBQmFHLTRWNGU0bkZhYkRmVHlyRjJUci1STndIZlFzWTJNbkJKZ2xNQ3paZy1BSEhDU1VkS2FuSHJUUFlKd0JIS25aRTRGTVd3dDNHTW9BUFlROVlYWmtHTGpOTzBaaHhLNkg5RWlFeUhORkZwangwbE0xc2FjaldpSm5NSkNqYmpYVUY5OVlHVXlvOWpoZWV2dUkzMjBGOFFjQUEyb0NGS19velVUdnFfTXc1UzJ2a0xtU0JsRlZVUlBzTks5anVzV1YtSFFmWHhVOEpM0gG2AkFVX3lxTE9xTjdZMzU2N2JXWDJzMWNMMmtiZVEzSHk1NkEtMW5LVVpTcmdvbEJOTDBfTUlMdEVCVEFyMFBmMEV2SDFVSHdzZHlrQkE1ZFkwWWJIeXdDQmwyT2E2R1A0NVZHYXV4Z0FqY2lJX1ZzRlhNSGduZEdTR29FYldwMjNSR3ptWnl6NEo1WnA0eWc1SVBfSHZoa0hQOWVUR0laS1VXYkduM2hTbTJSTjNnbld5NDRiSVdHZkdaa0I0VlFiN1RyTmVVcEo5eE44dV9nSEQ4eThnODNxQXJvNlhhVGtTcWV3WEtPTmNSelk2d18yVlRJUlN1dlFLRUdOX3Q0MVNCNV9wcmRkWGZEbGpsOHBaN3BzSElLajFyeVNEYjBvczNhUlhuUDg4eW55R3VhVEJhb0hFV1E?oc=5)
-
----
-
 ### [HRT stopped working for me, but these simple diet tweaks cured my menopausal hot flushes in just 6 weeks - Daily Mail](https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUZhNjYzaEtxQS1zQU5EUFBEWXRaYk9OaVpZdVlydFk0Z0R2cEFYOVdxOWFhUEV3cDBPMWhyTWNpX1JuNTNILXFkOVZFXzZPeFNsR21HbUEyNU5pRjdFcUM4bzIxV0phczhZVmNnZHl2aDhiUkcteG1jV1VnajlZZlJDZ0dIZHV6M3J0anJ1Wi02QQ?oc=5)
 
 2026-04-19 <span class="news-indication-tag">AF</span>
@@ -198,14 +198,6 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Loneliness may contribute to memory issues, but not dementia — they are 'not the same thing' - Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
-
-2026-04-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
-
----
-
 ### [Mediziner rätseln nach 5 Todesfällen: Tödliches Virus ausgebrochen - ungewöhnliche Symptom-Kombination](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVGJhUUVoVFZNNHNsYnRCRFNCZW1TV0doZkgzQ2xxdG9SVDQyaG92ZjZ2QXc2MzFCQVpscktVc1lmbENiZFNjVXFoaUdhbG5RLWkyRUhURms1aXBxcXIxZE9USElUaUFqSktBV1hDMG1jbVZzNTBSTzJBcUpxZDd0RVlWeDFDZl9Pem1ubDd5TFhxUEdIRGg5X0p1ZDAwTDNWaWFEZGk0Y3NNa01UZ1VRUWg4X0t4MFdzS0daNGEwX3h2WkdBVjNxalBsRVNPVVlIdTdFeWttU2NRVi0xdThPS0dmSTdmblBaU0s4Nm5KODNlNGZNRDQwQ9IB_gFBVV95cUxQOHRDX1hHM3Fra3N3OUJ3OW1BNDR2bzJfejFUVjRZaGhtTUFBVld4RGw5T2pMV1NFVFNBaXJfdC1mT2tlMVhtcHVzQktsVk10Qm53cTByT0NVX1NkOW1wSkVvcGZka0lhUHR6VzYzWTlIYVl0WXVta3Y3MG9mU1FqejhFd1p5MHFUcVJsaTZpMGRXNkhwTElQZHZlNnhGSDhoVFFmd0JDc2tTQ0c3Zm8zSjFpVVRlQXRkVUdXdzVMNjBjTF9NZWQzV0dKOTRMRnlhTnpRQlV1aXZUalhqUExaWFB0a3dPMDJvV1k2dDNiNVdlV1RLX2dPa0o0UmRJQQ?oc=5)
 
 2026-04-19 <span class="news-indication-tag">AF</span>
@@ -214,27 +206,11 @@ permalink: /news/voriconazole/
 
 ---
 
-### ["El contenido de los sueños puede verse afectado por la enfermedad de alzhéimer y puede ser una línea de investigación interesante para su diagnóstico precoz"](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
-
-2026-04-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMiigJBVV95cUxNT2hGOHM3VmFjWFhEWDRmWjF5eTRLemhhNzVrMlB4TEtVUGpSN2Mzb2JTaUstc0daT3d0Nndnc0RtbHVGdnZEUnRObERMMDVfSmN6WUo4UUxLWl9FVU9JVF9WUDVjWGdoQ04wY201dml3VGNxTVhla1FqQ2hNTUkyY3Q4Rkc0TXRPRF84ZmhrT2JNeDF6WHUxV2ozY1VWZGVKYWNkeE5iVjNOa1FGWkhzcnJ5d0lVRk00cVlWVXFQWGxqTVpMc2RVUGJYZnpPeHVqQkVMNlNFNXBsLWpHSUg1UGNtNzI5QlFSbXNSRk1VYVc5TUhpN09nTWFJcndIdzBFY1NmbFJkWGx1Zw?oc=5)
-
----
-
 ### [Neue Erkenntnisse: Was Schwangerschaften mit dem Gehirn machen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTFfakZ0dEFtWEd2cjZmM3Y2c01ydkFVeVFHQVdGdDRWZ0o4d0Uyb0dDOGNsdEV0Wms4RjBWS0VVMDJIbnItT2VVS2llQkxfd05fdmNvbEprUFN6WDdodEU0REIwdzRwcExMTEQ5VXY3SjVGek1NUDBDME5WNVZ0dUpNUFMtdnNIQThHVDBTaFZXdktDZ2JHQkczbUdIQ3oxTUVLYlhMUllrNk1hWTZmUlY2aG1TV1JBWkpzSFFmSGxyWjVrbDdF?oc=5)
 
 2026-04-19 <span class="news-indication-tag">AF</span>
 
 來源：[familie.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTFfakZ0dEFtWEd2cjZmM3Y2c01ydkFVeVFHQVdGdDRWZ0o4d0Uyb0dDOGNsdEV0Wms4RjBWS0VVMDJIbnItT2VVS2llQkxfd05fdmNvbEprUFN6WDdodEU0REIwdzRwcExMTEQ5VXY3SjVGek1NUDBDME5WNVZ0dUpNUFMtdnNIQThHVDBTaFZXdktDZ2JHQkczbUdIQ3oxTUVLYlhMUllrNk1hWTZmUlY2aG1TV1JBWkpzSFFmSGxyWjVrbDdF?oc=5)
-
----
-
-### [Immuntherapie gegen Krebs: Was gestern wie Science-Fiction klang, rettet heute Leben](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk1fQXpIR0NYV3hTTXZrQmh3TXlXWEstR1JnVDU5bkFteVBHTGw0c0J4VU5qUm12a09SOWJldjQ2YzBvQ3VqdXpST3UweVVMQXgzX2NMS3JrS3MxUVUxYXRza1B5MW01TW1lTTNETlhKQXlpVHh6MXFib2FwT0c1eXk4Z0hhOWpQYndwT1ljaVhLOEVpaFNXMkttM3BpYnZMS3lZTmRqVDhETG9KLUM0aQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk1fQXpIR0NYV3hTTXZrQmh3TXlXWEstR1JnVDU5bkFteVBHTGw0c0J4VU5qUm12a09SOWJldjQ2YzBvQ3VqdXpST3UweVVMQXgzX2NMS3JrS3MxUVUxYXRza1B5MW01TW1lTTNETlhKQXlpVHh6MXFib2FwT0c1eXk4Z0hhOWpQYndwT1ljaVhLOEVpaFNXMkttM3BpYnZMS3lZTmRqVDhETG9KLUM0aQ?oc=5)
 
 ---
 

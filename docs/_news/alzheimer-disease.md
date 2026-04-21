@@ -54,19 +54,19 @@ permalink: /news/alzheimer-disease/
 
 ---
 
+### [There’s New Evidence for How Loneliness Affects Memory in Old Age](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTNnWnFYb1JMVUlVQmp1c1gwUnROVXBJTFRoVkxTR0p4QVZYWFR0QXI4NnV4SjdBZFZzLWxFeUk3NHZXS0hYUFZ3c0lsZ0NINzQxaS13eEd4MTJ2ZDh1b3YwWTBSTnN0RjRMQVFPWmhTZXRWVThxdU51emw2U2tSSXlXUEVRdW83M19DT2EzWVZkbEdiSGk2Nw?oc=5)
+
+2026-04-20
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTNnWnFYb1JMVUlVQmp1c1gwUnROVXBJTFRoVkxTR0p4QVZYWFR0QXI4NnV4SjdBZFZzLWxFeUk3NHZXS0hYUFZ3c0lsZ0NINzQxaS13eEd4MTJ2ZDh1b3YwWTBSTnN0RjRMQVFPWmhTZXRWVThxdU51emw2U2tSSXlXUEVRdW83M19DT2EzWVZkbEdiSGk2Nw?oc=5)
+
+---
+
 ### [New nasal spray reverses brain aging while restoring memory, giving new hope to people with dementia](https://news.google.com/rss/articles/CBMingFBVV95cUxOcl9EMVV4U082WWpyYTBUb2VhUC1ISXpfN19oQU1TZW1iUGF4LUw3bTUteW53c0xHWWRiRFg4TS1JeUttbEh3TDhFWG9DT0JVUWxRLV9yanA3NGplNzhYMjFoVzZGdGxIa0NQaXltSGNfVWJQVGlhQ3pQNFdJQ2MtUkYzT0xVOGM0bmkzQmtrOW5mRWtOdHU1R3NvMno2dw?oc=5)
 
 2026-04-20
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOcl9EMVV4U082WWpyYTBUb2VhUC1ISXpfN19oQU1TZW1iUGF4LUw3bTUteW53c0xHWWRiRFg4TS1JeUttbEh3TDhFWG9DT0JVUWxRLV9yanA3NGplNzhYMjFoVzZGdGxIa0NQaXltSGNfVWJQVGlhQ3pQNFdJQ2MtUkYzT0xVOGM0bmkzQmtrOW5mRWtOdHU1R3NvMno2dw?oc=5)
-
----
-
-### [Loneliness may contribute to memory issues, but not dementia — they are 'not the same thing' - Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
-
-2026-04-19
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
 
 ---
 

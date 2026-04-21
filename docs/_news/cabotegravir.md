@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [El Ozempic, el aliado inesperado de los médicos en la lucha contra el hígado graso en Málaga - Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
+
+2026-04-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
+
+---
+
+### [Diabetes-Versorgung setzt auf Ganzkörper-Risikobewertung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWZycXBmZE5kMWNmOTJ6Q29DTDJOaDhYdGtPdFFoZnRaakpEekUxNmNxRmtMdXFFeW0wX09IS1NRWmk2RkdaNG5Qd1NpcGwtc2tWNDNhX2tTWTJOdC1MYkozRXR5TldFSkxTOU1QX1NqR2RIYU80M3NJaGFYRmkwUnpEX0JDVWdWWHlWTlNWUlhYcDFINmg3RGxaYnhhLVY3OWd5R2VWNUVIUkpMdUxWcTgyMmxzNWM?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWZycXBmZE5kMWNmOTJ6Q29DTDJOaDhYdGtPdFFoZnRaakpEekUxNmNxRmtMdXFFeW0wX09IS1NRWmk2RkdaNG5Qd1NpcGwtc2tWNDNhX2tTWTJOdC1MYkozRXR5TldFSkxTOU1QX1NqR2RIYU80M3NJaGFYRmkwUnpEX0JDVWdWWHlWTlNWUlhYcDFINmg3RGxaYnhhLVY3OWd5R2VWNUVIUkpMdUxWcTgyMmxzNWM?oc=5)
+
+---
+
+### [Canarias es la quinta comunidad con más casos de VIH y los expertos alertan de la expansión - Diario de Avisos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYlhDYjBLUnZYdGw2SUF6enhOdUlpVG10Y0FBaWREcG9RT2ZiM1hMZWtkNzUydXRuaW9mbHdSb3QzNzN1NDNsajN4MUFQRHZlRU1BNTJWUWdDa0hmaTR0blNDQk1jT2J0ZkF5SklWRVJlbU1Bb3BNYXpCUGZ0MkxUX2IyTHVOTUhIb1pPc0REeDVyQTcyMzhHalZCN0VoYmUzNUduVUttRXIzMjkyZEtTd3p5YUVjaTY1VFpVQmVLSGJ4TXFscjhub3FnQjhhcG9mX0ZIQzJ6dkpWQ1k?oc=5)
+
+2026-04-20 <span class="news-drug-tag">Cabotegravir</span>
+
+來源：[Diario de Avisos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYlhDYjBLUnZYdGw2SUF6enhOdUlpVG10Y0FBaWREcG9RT2ZiM1hMZWtkNzUydXRuaW9mbHdSb3QzNzN1NDNsajN4MUFQRHZlRU1BNTJWUWdDa0hmaTR0blNDQk1jT2J0ZkF5SklWRVJlbU1Bb3BNYXpCUGZ0MkxUX2IyTHVOTUhIb1pPc0REeDVyQTcyMzhHalZCN0VoYmUzNUduVUttRXIzMjkyZEtTd3p5YUVjaTY1VFpVQmVLSGJ4TXFscjhub3FnQjhhcG9mX0ZIQzJ6dkpWQ1k?oc=5)
+
+---
 
 ### [Detección precoz diabetes tipo 1 el gran cambio - Canal Diabetes](https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEZ0cEpHcWJXVFhqTVllUzBqVzU4RVJYaG1fUjBJbFh4NjFHUnItMmpOWVZ0SkFmLUcya2hwN0VKcUZSUkZpVnBvX3M3YXlNYUozRjFrYmtIazJYLVZVcHhmUXAtanFpNlZZ?oc=5)
 
@@ -107,14 +131,6 @@ permalink: /news/cabotegravir/
 2026-04-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
-
----
-
-### [La revolución de anticiparse al VIH con un simple pinchazo cada dos meses - La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaThMMVlvcW5rcWNBOGxRZXNpQk1IVTE4aDhlbjAzVmFVa3ZoLUJsbEwzS3hnallyZ0dYYVN5VF9QUUZuV1I0bUltV3pNV0VDZGY1STZyQmpjVU1yU29GSlEtU0tsV0dNVkN3ODJoX05kV1lsaGpwbklHbjlVVlg5WXVucmV2VGRuZE9ORndSMExsclQ0M0lKa0hldXlGLWVQdExJZ3BKVDRSMUVRZi1RLTQ4LXR5YXpTTzdtSnFWTWFjZ9IB1gFBVV95cUxOUEw0R0tETzFXQXFuTDl5SzdBU1RTN09pNFI3dERkMGtnOVVtX3MtbFJoTlNYNjVLUXZvTTdlRTUweXk4Y29DTXdpbDhhbEVmalI2aEZwQThjY2RCMWYwVUZ4QnZ0QmNnWnhmX2NrTF94OVdKeDkzczdfZmpSQ09KNlJObkpCT2pxQlFWV3lHSDVpSnkwVENEZ0VqMWcxeDZDU3VQWlo4TnRidnFFbTJJMWl5Q2ZxMkpuSHh5d0tZSnNHTGxja1NFb2VJSUd3VTRJcUtUZjdB?oc=5)
-
-2026-04-19 <span class="news-drug-tag">Cabotegravir</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaThMMVlvcW5rcWNBOGxRZXNpQk1IVTE4aDhlbjAzVmFVa3ZoLUJsbEwzS3hnallyZ0dYYVN5VF9QUUZuV1I0bUltV3pNV0VDZGY1STZyQmpjVU1yU29GSlEtU0tsV0dNVkN3ODJoX05kV1lsaGpwbklHbjlVVlg5WXVucmV2VGRuZE9ORndSMExsclQ0M0lKa0hldXlGLWVQdExJZ3BKVDRSMUVRZi1RLTQ4LXR5YXpTTzdtSnFWTWFjZ9IB1gFBVV95cUxOUEw0R0tETzFXQXFuTDl5SzdBU1RTN09pNFI3dERkMGtnOVVtX3MtbFJoTlNYNjVLUXZvTTdlRTUweXk4Y29DTXdpbDhhbEVmalI2aEZwQThjY2RCMWYwVUZ4QnZ0QmNnWnhmX2NrTF94OVdKeDkzczdfZmpSQ09KNlJObkpCT2pxQlFWV3lHSDVpSnkwVENEZ0VqMWcxeDZDU3VQWlo4TnRidnFFbTJJMWl5Q2ZxMkpuSHh5d0tZSnNHTGxja1NFb2VJSUd3VTRJcUtUZjdB?oc=5)
 
 ---
 

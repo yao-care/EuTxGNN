@@ -54,6 +54,22 @@ permalink: /news/lorlatinib/
 
 ## 相關新聞（22 則）
 
+### [Bowel cancer treatment ‘halts disease for three years’ - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWR1UDl6Rno4eldXMXpsZ29DeXloUmZTdzFXV2x0azNIa1FnTVNjWE9MbmI4Z2FHaFAwZVF5aFFINVljX1hPcDM5S3ppOUlndFI5TVd4VlZhNmxNakktVDVBTk5rT1BTOTcxejIwXzZVQkthak1nbFE3WlpfUXRpZWthYVFlTmdia0h5eElpSGZqMmtXcUVTMU1SSWNhQXQtZTZB?oc=5)
+
+2026-04-20 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWR1UDl6Rno4eldXMXpsZ29DeXloUmZTdzFXV2x0azNIa1FnTVNjWE9MbmI4Z2FHaFAwZVF5aFFINVljX1hPcDM5S3ppOUlndFI5TVd4VlZhNmxNakktVDVBTk5rT1BTOTcxejIwXzZVQkthak1nbFE3WlpfUXRpZWthYVFlTmdia0h5eElpSGZqMmtXcUVTMU1SSWNhQXQtZTZB?oc=5)
+
+---
+
+### [Eating fruit is linked to lung cancer? Here’s what you need to know about that new study - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjVodlVGdmlFWnd6NDVKMUNZX1p1RGJrX1JjZk00cWljVm54a0t5aVFPd09GZnlfc2dLODhOaXdlUEprcV9uVnhEWXVMTjRMaHJkMzJLcXlzazNFeDBHRE1scWppNGk4R0xQM0hIVUV1R094RWZaSFdYMXV1RG1YazFNcHVrOEJXOU9uM08ycXJzMm00aWRLbFo0QmExdU5lZmpsbFR4TkpTQ1JCbnNiRVBHSTRVRzlQYldzbFVn?oc=5)
+
+2026-04-20 <span class="news-indication-tag">cancer</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjVodlVGdmlFWnd6NDVKMUNZX1p1RGJrX1JjZk00cWljVm54a0t5aVFPd09GZnlfc2dLODhOaXdlUEprcV9uVnhEWXVMTjRMaHJkMzJLcXlzazNFeDBHRE1scWppNGk4R0xQM0hIVUV1R094RWZaSFdYMXV1RG1YazFNcHVrOEJXOU9uM08ycXJzMm00aWRLbFo0QmExdU5lZmpsbFR4TkpTQ1JCbnNiRVBHSTRVRzlQYldzbFVn?oc=5)
+
+---
+
 ### [Discovering my toddler has dementia was the worst moment of my life... so when a test revealed her unborn sibling also had the disease we had no choice but to terminate my pregnancy - Daily Mail](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
 
 2026-04-20 <span class="news-indication-tag">dementia</span>
@@ -78,11 +94,35 @@ permalink: /news/lorlatinib/
 
 ---
 
+### [There’s New Evidence for How Loneliness Affects Memory in Old Age](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTNnWnFYb1JMVUlVQmp1c1gwUnROVXBJTFRoVkxTR0p4QVZYWFR0QXI4NnV4SjdBZFZzLWxFeUk3NHZXS0hYUFZ3c0lsZ0NINzQxaS13eEd4MTJ2ZDh1b3YwWTBSTnN0RjRMQVFPWmhTZXRWVThxdU51emw2U2tSSXlXUEVRdW83M19DT2EzWVZkbEdiSGk2Nw?oc=5)
+
+2026-04-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTNnWnFYb1JMVUlVQmp1c1gwUnROVXBJTFRoVkxTR0p4QVZYWFR0QXI4NnV4SjdBZFZzLWxFeUk3NHZXS0hYUFZ3c0lsZ0NINzQxaS13eEd4MTJ2ZDh1b3YwWTBSTnN0RjRMQVFPWmhTZXRWVThxdU51emw2U2tSSXlXUEVRdW83M19DT2EzWVZkbEdiSGk2Nw?oc=5)
+
+---
+
 ### [Cancer : une nouvelle approche génétique cible les cellules malades sans toucher aux autres - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzZlSGxFNTQxazZFbHNlVkVobXd5NXJKd2lweEZoV3RDWVE4c3loN0MxZlpmNldOeWlrS291VV9QWnc3N3gyV0xDUnNaN3NHLUNjWlQ1U1hFRGlfSlVEdGpzbl9xaVBCRUdJbnJYVEYwdkVQbVcyVlpjUzVzRHJpTUVjVjJTTzZULWhscHFEMVZjaWVOZXdtbVVUU1BmSzgxeHYwU2RtQmVMcHJlRm95NTdLUW1VLW9meWlLWXkxQy1QWDlBc01pUXZKT2xUbm9VUkE?oc=5)
 
 2026-04-20 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzZlSGxFNTQxazZFbHNlVkVobXd5NXJKd2lweEZoV3RDWVE4c3loN0MxZlpmNldOeWlrS291VV9QWnc3N3gyV0xDUnNaN3NHLUNjWlQ1U1hFRGlfSlVEdGpzbl9xaVBCRUdJbnJYVEYwdkVQbVcyVlpjUzVzRHJpTUVjVjJTTzZULWhscHFEMVZjaWVOZXdtbVVUU1BmSzgxeHYwU2RtQmVMcHJlRm95NTdLUW1VLW9meWlLWXkxQy1QWDlBc01pUXZKT2xUbm9VUkE?oc=5)
+
+---
+
+### [Simple at home finger test could show early warning signs of lung cancer - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPTjUyeXMzUGxIRmEycFAySWE5dUNKSjJVTzkxVXZwTHZaUjR3RWxfSFVlaXJnOVRSQ2phWjQyQ1RXMWFycHF0dl9NQzVBMHdSRmhTdkZRNEhXQTBvN21ZdVk1TjNMRHByaGxLSXhya3hXbURvaFlURzdjVjVaS0F3VdIBhgFBVV95cUxQSGpISkhKcld0T2ZxME1zNDRWTVkzTF9jTFM1MEVBYWFERG83V2FjcmJ0QTNtTXdweEFBaXV5aWh1cENHd1dJU3h1ajBaQjlwb2k4Q2Y2d1NTdUV0M2Y3czMwT2NfU3Z3cWdsbnRJSk0zWXBQVGFjbmNnSTQ2d0ZaV2xXVHo3Zw?oc=5)
+
+2026-04-20 <span class="news-indication-tag">cancer</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPTjUyeXMzUGxIRmEycFAySWE5dUNKSjJVTzkxVXZwTHZaUjR3RWxfSFVlaXJnOVRSQ2phWjQyQ1RXMWFycHF0dl9NQzVBMHdSRmhTdkZRNEhXQTBvN21ZdVk1TjNMRHByaGxLSXhya3hXbURvaFlURzdjVjVaS0F3VdIBhgFBVV95cUxQSGpISkhKcld0T2ZxME1zNDRWTVkzTF9jTFM1MEVBYWFERG83V2FjcmJ0QTNtTXdweEFBaXV5aWh1cENHd1dJU3h1ajBaQjlwb2k4Q2Y2d1NTdUV0M2Y3czMwT2NfU3Z3cWdsbnRJSk0zWXBQVGFjbmNnSTQ2d0ZaV2xXVHo3Zw?oc=5)
+
+---
+
+### [Warum viele Krebstherapien an ihre Grenzen stoßen – und welche Rolle der Immunstatus tatsächlich spielt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSnVjdzQ5dEhOUzZwNWhMWENCdDgxU2dLNEh0ZFVEc0lHX1ZtbkhwRXUtR2Zta01wOW13aDYyUnBwYk1aREwyM20xcU9Gd0p1c0k1WEk4bTU5M1BSQVp0YnNIb0pWNHZ2cGlCNmxSUGk1SHByWDRzOHVKYWRWMnI4T2ZXV1kwTFh6S0tNTmdHSlVhSV9jaEJDQ0dFSUQ0MnRlcG5md2RsdHRWYkNrNGdsQU0xT25pdUNMczhPbFA0Qy1MaldZaVF4Y2dXVFNRUkJTT25lWWhMc1Yzemc?oc=5)
+
+2026-04-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[openPR.de](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSnVjdzQ5dEhOUzZwNWhMWENCdDgxU2dLNEh0ZFVEc0lHX1ZtbkhwRXUtR2Zta01wOW13aDYyUnBwYk1aREwyM20xcU9Gd0p1c0k1WEk4bTU5M1BSQVp0YnNIb0pWNHZ2cGlCNmxSUGk1SHByWDRzOHVKYWRWMnI4T2ZXV1kwTFh6S0tNTmdHSlVhSV9jaEJDQ0dFSUQ0MnRlcG5md2RsdHRWYkNrNGdsQU0xT25pdUNMczhPbFA0Qy1MaldZaVF4Y2dXVFNRUkJTT25lWWhMc1Yzemc?oc=5)
 
 ---
 
@@ -102,14 +142,6 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [Study links fruit and vegetable-heavy diet with increased cancer risk - The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVNBRVp0T2gteHpmYlpKdzRnMk1pQkY0SEVCSFk5b0dKMEgzYlAtZl9uYTBUOE1WQXhwNkFRclVQSUd5OEdqbnRfVXM2b1pNelpfWG5ZaURaeHlGVlZzNzVyZExRdDhZamx0YnRkVWtqeTljMlR0Y3MtVi1uUDFlVXJza1FJSVpNcWlHUDd0SFBMTl9MR0t4WUVDendVMzlRUHNr?oc=5)
-
-2026-04-19 <span class="news-indication-tag">cancer</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVNBRVp0T2gteHpmYlpKdzRnMk1pQkY0SEVCSFk5b0dKMEgzYlAtZl9uYTBUOE1WQXhwNkFRclVQSUd5OEdqbnRfVXM2b1pNelpfWG5ZaURaeHlGVlZzNzVyZExRdDhZamx0YnRkVWtqeTljMlR0Y3MtVi1uUDFlVXJza1FJSVpNcWlHUDd0SFBMTl9MR0t4WUVDendVMzlRUHNr?oc=5)
-
----
-
 ### [Deborah James hailed for surge in bowel cancer screening - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlFCRERabm5fY0dzNTNJNFIzZHJqbXBiZV9pWjZGM2dubHprZ29Xc3J0WnM1OWFyZl9aaVZZVHVEX2dOZThvNlY2dl9WSU1Hd1dMLU41YWo4OVJ5Qkw0THJUV3ZsWGJ0STNGX1A2R050alEtOEZvRTJZc2draTJqUGpIYS1XdzEyMWpXYkZNbTlRNkx1aEQzMUU3YjI4clZi?oc=5)
 
 2026-04-19 <span class="news-indication-tag">cancer</span>
@@ -123,14 +155,6 @@ permalink: /news/lorlatinib/
 2026-04-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDIycnVGYnl5Wno4WC1scDdxNHBFcVN3TURIbHZqcWdMZERsR25QYVlrVjN0VXVMUDlOSS1CS0QtbDlFOVI1QjAwbUdiUndnb1pHdWhaU3FMZzZObk12U2tBSkRHQmZMZjFEdUpYQ2hBY1M2MmQxN0UzSl9QbEltMHFKSnlnTDFtTk9RdW1QMNIBlAFBVV95cUxPWUFyaFotUzdjcGV5d0Z4LWNHRldEcFBPUEFSaUs5RHJOaS1jWUlFNlpDREtpcXYyMzdPWmtoVzh5cU5hSnBQN3NPc1VFMThpS1dyQjF3bHFRLWlYZEdzZDNXaU5DYS1VQ0sxY29feVZiOG1ySmRkRTN2V3B0eGdFeG9QU2Z1ZlYzZDNOREp5UHBvOU9T?oc=5)
-
----
-
-### [Loneliness may contribute to memory issues, but not dementia — they are 'not the same thing' - Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
-
-2026-04-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGpzOHc2YkI3dV9CNzhfNEU0YXFzajRwOXNLcEJFMmhVQzU0VGZudF9qbnlfVTY4YTdHZ2J4OFV4QWVsTHVNZ1NXN3VrOWdzTHhnTFZiS19hNTRFcVlyUDFQUUR1S0kyUG5MTmp2b0lKT2o0ZllFdm5QaTBHdTMxSlJtcHVhUEk2X3ZGZzhaMjVXOHcwLXBBNHduaTZhNU43bDV6aHF4bHNyYWpaWVZxaWxHeWpjXzB3STd0Y0k0U1Y4dw?oc=5)
 
 ---
 
@@ -174,11 +198,11 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [Immuntherapie gegen Krebs: Was gestern wie Science-Fiction klang, rettet heute Leben](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk1fQXpIR0NYV3hTTXZrQmh3TXlXWEstR1JnVDU5bkFteVBHTGw0c0J4VU5qUm12a09SOWJldjQ2YzBvQ3VqdXpST3UweVVMQXgzX2NMS3JrS3MxUVUxYXRza1B5MW01TW1lTTNETlhKQXlpVHh6MXFib2FwT0c1eXk4Z0hhOWpQYndwT1ljaVhLOEVpaFNXMkttM3BpYnZMS3lZTmRqVDhETG9KLUM0aQ?oc=5)
+### [Melanoma e "mappa dei nei": come riconoscere i segnali. I dermatologi: "Migliori diagnosi grazie alla tecnologia"](https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFFiTFhkNVkwWVlKcVlrNGhBYkFQR0Y4U3E5MFE4WXQxZG1OeEh3RVNMQmdUYThBdFdGMzJ0dUtsX0pLM0ZXc1pCUExCSlhkcmVyR3hvbmhFOXlmWU9fR3E1UWVxNE5EMlJTbU5ibmd6MzEtdHdmVjBEUnRsbFNLTWZUNDgyamdZWkdiQmln?oc=5)
 
-2026-04-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-04-19 <span class="news-indication-tag">tumor</span>
 
-來源：[Diebewertung](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSk1fQXpIR0NYV3hTTXZrQmh3TXlXWEstR1JnVDU5bkFteVBHTGw0c0J4VU5qUm12a09SOWJldjQ2YzBvQ3VqdXpST3UweVVMQXgzX2NMS3JrS3MxUVUxYXRza1B5MW01TW1lTTNETlhKQXlpVHh6MXFib2FwT0c1eXk4Z0hhOWpQYndwT1ljaVhLOEVpaFNXMkttM3BpYnZMS3lZTmRqVDhETG9KLUM0aQ?oc=5)
+來源：[RiminiToday](https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFFiTFhkNVkwWVlKcVlrNGhBYkFQR0Y4U3E5MFE4WXQxZG1OeEh3RVNMQmdUYThBdFdGMzJ0dUtsX0pLM0ZXc1pCUExCSlhkcmVyR3hvbmhFOXlmWU9fR3E1UWVxNE5EMlJTbU5ibmd6MzEtdHdmVjBEUnRsbFNLTWZUNDgyamdZWkdiQmln?oc=5)
 
 ---
 
@@ -198,35 +222,11 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [Natural Compounds Boost Bone Implant Success While Killing Bacteria and Cancer Cells](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWklwaEZIbDlTTDRuN2JtZ3BUOVdXM0R3OEx5SWJuQldzSVZ4amhXRW4xbnFsVnV2dWpmYk9aYlJVamJ1T2wtX1ptWVF3N1BnQTJLZ0Mxal9RaWo1R0drUGNqaklpUGIyRl9xOXVPWEJqWDhkSjAzV3BrZ0h4VTVxY0R3WUJsUkRhendOODFNN01jbzM0MFd5NGtrRUEtM3JfdFVDWFVmc0VGUjFDY3RV?oc=5)
-
-2026-04-18 <span class="news-indication-tag">cancer</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWklwaEZIbDlTTDRuN2JtZ3BUOVdXM0R3OEx5SWJuQldzSVZ4amhXRW4xbnFsVnV2dWpmYk9aYlJVamJ1T2wtX1ptWVF3N1BnQTJLZ0Mxal9RaWo1R0drUGNqaklpUGIyRl9xOXVPWEJqWDhkSjAzV3BrZ0h4VTVxY0R3WUJsUkRhendOODFNN01jbzM0MFd5NGtrRUEtM3JfdFVDWFVmc0VGUjFDY3RV?oc=5)
-
----
-
-### [Steroids and the ‘silent’ cancer plaguing the manosphere](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzFrcl9OYkdrYUEyajRqNVh5anZBTHB0S29ORmlHakF4dUZMVUVYYmlRTnNuZExFb21mMG4wci1hczJQVFMybjZEdmlsenc4YWFWREYyRTRwX20weElUM0xDZ2FMYU94akNYZjdWaWdYMlZjQ0pVWDhSdjJkR2x1NGYyLXRTNkFURUE4aXBPVUlRMWVkOGcw?oc=5)
-
-2026-04-18 <span class="news-indication-tag">cancer</span>
-
-來源：[thetimes.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzFrcl9OYkdrYUEyajRqNVh5anZBTHB0S29ORmlHakF4dUZMVUVYYmlRTnNuZExFb21mMG4wci1hczJQVFMybjZEdmlsenc4YWFWREYyRTRwX20weElUM0xDZ2FMYU94akNYZjdWaWdYMlZjQ0pVWDhSdjJkR2x1NGYyLXRTNkFURUE4aXBPVUlRMWVkOGcw?oc=5)
-
----
-
-### [I thought my bathroom issues were hemorrhoids... but it was cancer - Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxORW80Wm5xYnctQ0hMaUFVYXNhazQxRjRtaWxOTkFhdVhha1FUN19QUm9WNVlDQ1dpb0FiN214WmczZGJBY1RlRGVFTWlMN3VqdmgxX3kyWjIyQlR3bEtlYlZFbEQ1azRHSkJpNTNBRlBraU5IYWVXZzNWdC01ZTVqaVIyZWRhUTBHOS1QSUJlZGJSM1hMY29vcjIyaTdCSXo5?oc=5)
-
-2026-04-18 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Mail](https://news.google.com/rss/articles/CBMioAFBVV95cUxORW80Wm5xYnctQ0hMaUFVYXNhazQxRjRtaWxOTkFhdVhha1FUN19QUm9WNVlDQ1dpb0FiN214WmczZGJBY1RlRGVFTWlMN3VqdmgxX3kyWjIyQlR3bEtlYlZFbEQ1azRHSkJpNTNBRlBraU5IYWVXZzNWdC01ZTVqaVIyZWRhUTBHOS1QSUJlZGJSM1hMY29vcjIyaTdCSXo5?oc=5)
-
----
-
-### [Il primo segnale di cancro alla pelle che secondo gli esperti non va ignorato - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOU29zRjYzeXlmM1k5NXJKUmtmZUxjbHZ4NjNJQjN2MXJMYjJOQUZRRUc1dXA2RUMzS19VSEpGQm0yY0Y1bmJpMjlIcmQydFdHRUpsVmkxdmFFbjFXZHBZMDVhSkxVNzlYRnRtZ1lVUmlRWllPM0FucFRBWHdsQXR3MDFwbXA3UG9iWFE2UnRUOGJKRjVBeEIxRXA5TFdLMVBsLVdoNldjV0dYb2ZzYlhCMEF1ZElLelM4N3UtdHh4X0ZWMmtzNmhMRGRmMGt2b1d5cUhGWXdjZkwwa3o1RnZyaTE0WVpFODUteFZIaU1leUhaU2ZabHfSAcgBQVVfeXFMUHpTakdQRFc5dndsenZQc2ltUnFTNjAwZVdYaXlMcmRFeHNqa0ZQbDZVeGlaeW5wdXFXNzZvT0ppbGo1VGVaY3Fwa0JXT1RiaU82OHR4VXRHcjBXU1ZnRHNWMnNyMk1rSzhIZW9QUmM4cERJM1lRdkpuOERtQjY4UTdwbFUxSXA3THZ3V1FTczNRbmxfTm1zMFQ0ejRIYWo5QU9HeVZYRkR6YTlDM2JGQ3VfYmJHY3IxeG1jZkhaVlpiV28ySksxcE0?oc=5)
+### [Nicole Panarelli, morta a 14 anni per un glioma dona il corpo alla scienza. La mamma: «Una speranza che a lei è stata negata» - Il Messaggero](https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzVyTVJqLTJfVVhLcUQyS2NUY1NqRFh5dThHSHBiWjU5UC1hME5KUnlaZExRTXB2UEtJLUdlZGN0UHVKVF9mbGl1enNWR29yaUJVMFRkVElUTzdfcE5oelZmWXRkM25oRTZJeTZGaURVcEVyZHJLTVJDeEVBSGZxbDNpVmdId3FGLW5jZlRwNjBGcFJ6MVo5akdDN0YwNEpMdXZ0N1B6VdIBowFBVV95cUxQeGRMaHRJdzY3OW91Zy1CSm5iYk9aaWFGckNQMmJHNzJmM2swS21KQXZuZUVJam1LOXJTWDByd3V4aWNsTTJkMnBnd0NJd3lSQnhxeXJobmpsbXA0bFcwVHB6WmY0ZW1IMHV5V3hjTVpfVDlHck5KUm9HR0R3aEpxOUtuWHBCNEVwQmx6bm1Ja1VOSzB0ekZQMUdZYWRJWGt1VW1Z?oc=5)
 
 2026-04-18 <span class="news-indication-tag">tumor</span>
 
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOU29zRjYzeXlmM1k5NXJKUmtmZUxjbHZ4NjNJQjN2MXJMYjJOQUZRRUc1dXA2RUMzS19VSEpGQm0yY0Y1bmJpMjlIcmQydFdHRUpsVmkxdmFFbjFXZHBZMDVhSkxVNzlYRnRtZ1lVUmlRWllPM0FucFRBWHdsQXR3MDFwbXA3UG9iWFE2UnRUOGJKRjVBeEIxRXA5TFdLMVBsLVdoNldjV0dYb2ZzYlhCMEF1ZElLelM4N3UtdHh4X0ZWMmtzNmhMRGRmMGt2b1d5cUhGWXdjZkwwa3o1RnZyaTE0WVpFODUteFZIaU1leUhaU2ZabHfSAcgBQVVfeXFMUHpTakdQRFc5dndsenZQc2ltUnFTNjAwZVdYaXlMcmRFeHNqa0ZQbDZVeGlaeW5wdXFXNzZvT0ppbGo1VGVaY3Fwa0JXT1RiaU82OHR4VXRHcjBXU1ZnRHNWMnNyMk1rSzhIZW9QUmM4cERJM1lRdkpuOERtQjY4UTdwbFUxSXA3THZ3V1FTczNRbmxfTm1zMFQ0ejRIYWo5QU9HeVZYRkR6YTlDM2JGQ3VfYmJHY3IxeG1jZkhaVlpiV28ySksxcE0?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzVyTVJqLTJfVVhLcUQyS2NUY1NqRFh5dThHSHBiWjU5UC1hME5KUnlaZExRTXB2UEtJLUdlZGN0UHVKVF9mbGl1enNWR29yaUJVMFRkVElUTzdfcE5oelZmWXRkM25oRTZJeTZGaURVcEVyZHJLTVJDeEVBSGZxbDNpVmdId3FGLW5jZlRwNjBGcFJ6MVo5akdDN0YwNEpMdXZ0N1B6VdIBowFBVV95cUxQeGRMaHRJdzY3OW91Zy1CSm5iYk9aaWFGckNQMmJHNzJmM2swS21KQXZuZUVJam1LOXJTWDByd3V4aWNsTTJkMnBnd0NJd3lSQnhxeXJobmpsbXA0bFcwVHB6WmY0ZW1IMHV5V3hjTVpfVDlHck5KUm9HR0R3aEpxOUtuWHBCNEVwQmx6bm1Ja1VOSzB0ekZQMUdZYWRJWGt1VW1Z?oc=5)
 
 ---
 
