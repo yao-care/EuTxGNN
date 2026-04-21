@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Darmflora könnte lange vor ersten Symptomen auf Parkinson hinweisen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlFDaXpWR3ZELVdXQ215Yk40cmJ6X2hsbDhxb0pvMFYyUVR4Rm5NMW9lUUZtVktaY08yT0VmWUQtbFBOWUJSNWhFVlRiWEJwR291R3Iya1FKaWhTVHVLMGdreGs1R19CMEtKZk55QUNiRGdjY004MUdTOERQUF9Vc05yNGVXNzdVS2taOTlOSWxsX1JaTmV1cU1NeUV0NHQzdXk5cERrLTdqUE14Ul9TNTJjemFOM0liX0pULVRlOFVKYk1Ga0Z1U0VrQnd4MVBu?oc=5)
+
+2026-04-21 <span class="news-indication-tag">Parkinson-Krankheit</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlFDaXpWR3ZELVdXQ215Yk40cmJ6X2hsbDhxb0pvMFYyUVR4Rm5NMW9lUUZtVktaY08yT0VmWUQtbFBOWUJSNWhFVlRiWEJwR291R3Iya1FKaWhTVHVLMGdreGs1R19CMEtKZk55QUNiRGdjY004MUdTOERQUF9Vc05yNGVXNzdVS2taOTlOSWxsX1JaTmV1cU1NeUV0NHQzdXk5cERrLTdqUE14Ul9TNTJjemFOM0liX0pULVRlOFVKYk1Ga0Z1U0VrQnd4MVBu?oc=5)
+
+---
 
 ### [Maladie de Parkinson : et si la clé se trouvait dans nos intestins et notre alimentation ? - Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdXRycHNjdUVBVVkwZml3d0h6ZElKcGhTb2FPWDJwUXhBYW94enRvTWRNMTZGSm9BMXVRSTZ5MWVZdU4xRWp0RkVyRUw1U1g1Z3I5eFRSTGxBMldJZGRsN09zeVA0RXpjdG1SVzhNa1gxS3d0cmJpSHdBSDAyS1E4bmZGd19SZmRfNklwV0lFTTVDdEFRMXNORE4wQUxYRVZ0Wll3SU1tVU11dndPNmZkelF3QWMyM3FxWXZRclo0SmlSMlVCZTI5QUFQZVgzNzNBUm9qMFF1bzN3YU9YeUp5aUFpY0U5RXY2LXZnQkRpSFpFT01XMVNFQzdQc2s?oc=5)
 
 2026-04-20 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdXRycHNjdUVBVVkwZml3d0h6ZElKcGhTb2FPWDJwUXhBYW94enRvTWRNMTZGSm9BMXVRSTZ5MWVZdU4xRWp0RkVyRUw1U1g1Z3I5eFRSTGxBMldJZGRsN09zeVA0RXpjdG1SVzhNa1gxS3d0cmJpSHdBSDAyS1E4bmZGd19SZmRfNklwV0lFTTVDdEFRMXNORE4wQUxYRVZ0Wll3SU1tVU11dndPNmZkelF3QWMyM3FxWXZRclo0SmlSMlVCZTI5QUFQZVgzNzNBUm9qMFF1bzN3YU9YeUp5aUFpY0U5RXY2LXZnQkRpSFpFT01XMVNFQzdQc2s?oc=5)
+
+---
+
+### [Portlethen mum in race against time as son Ben battles childhood dementia - Press and Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUdybGpWZFVFV3hUcGR1dDFPT2d4WDRCZlo4TDUzcGlFSXYtMDRwci1VVDROajNuLW5BbTdadnF0MzJPaWwzRTVLRk10NzV0VFVFZVh4Z0dMZkxWdUx3QjhYVlJzZGFPNEM1eWxYaVZ2ZjRXanluOXhBaF9BWFY2cWVSc3BzT1VtTE9IMzlqSFUyLXJrVjlicmh1bVIxeGs4YWNBcVhybVJtTXZzb0R6Vzk1YlZ1eDExNVE?oc=5)
+
+2026-04-20 <span class="news-indication-tag">dementia</span>
+
+來源：[Press and Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUdybGpWZFVFV3hUcGR1dDFPT2d4WDRCZlo4TDUzcGlFSXYtMDRwci1VVDROajNuLW5BbTdadnF0MzJPaWwzRTVLRk10NzV0VFVFZVh4Z0dMZkxWdUx3QjhYVlJzZGFPNEM1eWxYaVZ2ZjRXanluOXhBaF9BWFY2cWVSc3BzT1VtTE9IMzlqSFUyLXJrVjlicmh1bVIxeGs4YWNBcVhybVJtTXZzb0R6Vzk1YlZ1eDExNVE?oc=5)
 
 ---
 

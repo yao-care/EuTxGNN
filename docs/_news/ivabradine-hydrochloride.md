@@ -14,7 +14,7 @@ permalink: /news/ivabradine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ivabradine Hydrochloride 有什麼相關新聞？">
-<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/ivabradine-hydrochloride/
 <p><a href="{{ '/drugs/ivabradine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
 
-### [‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Id3pldEwwMjJOSXQ1V0JmYXR4RVFHV2g2YnBzWjMyMlk4bEQtUzdBUExpNlRqd1ZPZ1FLbEYyY2RWTnV6QmQ1RS1MMG5aYUZFeF9rM2xVQ2NiT1lYdzJZ?oc=5)
+### [The Moon crosses the Plejades - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTnNnQWxrWGZJdFVpTDdlSnFwaExIZ3JGM05fZjAwbHZoQnNlWlRjSkJfT0lTNWJCUU40Q1h2UTE5NUFCSXpITGFYZG5rd2FmSW95Wjk3WnJnc0gwRHhNakRoOThMN0tnTDk0TWhBQ3Eycnloc2lzZWtpUXkweC1rbTRwZk0tZ2FyYVpkZWt0dzA?oc=5)
 
 2026-04-20 <span class="news-indication-tag">AF</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Id3pldEwwMjJOSXQ1V0JmYXR4RVFHV2g2YnBzWjMyMlk4bEQtUzdBUExpNlRqd1ZPZ1FLbEYyY2RWTnV6QmQ1RS1MMG5aYUZFeF9rM2xVQ2NiT1lYdzJZ?oc=5)
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTnNnQWxrWGZJdFVpTDdlSnFwaExIZ3JGM05fZjAwbHZoQnNlWlRjSkJfT0lTNWJCUU40Q1h2UTE5NUFCSXpITGFYZG5rd2FmSW95Wjk3WnJnc0gwRHhNakRoOThMN0tnTDk0TWhBQ3Eycnloc2lzZWtpUXkweC1rbTRwZk0tZ2FyYVpkZWt0dzA?oc=5)
 
 ---
 
@@ -70,6 +70,30 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
+### [Cœur, diabète, cancers et même mémoire... Pourquoi c'est vraiment bon de boire du café tous les jours - La Montagne](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZkduVmZJQmRYaUJNc2cxUm9hdVF2blM4MklMNkdsZ2k5OHo3NHp6R3MtNWVkWkxTMDhSQy1raXZQY1A2VEttWDdHcmlRTllwWURXcmhpN1ZBTUJUenpNWDhrbjdaZjJ4OHJrbEZVTnRrWHlDWTdqNHhfc25sci1sXzlVc1BSQlYzS0ltVHBoQm9lcXQ0clZhbW56Uk1MNmlCVDhpb3dScUZvVUFVYlB3TlUySDZYM1Y0MkZndXlpU2dtak1vNlF0MW9uT2dTWURDdnZsZ2ZGcDhkWDdGOXVNM2NnVElXalo4ZHc?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Montagne](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZkduVmZJQmRYaUJNc2cxUm9hdVF2blM4MklMNkdsZ2k5OHo3NHp6R3MtNWVkWkxTMDhSQy1raXZQY1A2VEttWDdHcmlRTllwWURXcmhpN1ZBTUJUenpNWDhrbjdaZjJ4OHJrbEZVTnRrWHlDWTdqNHhfc25sci1sXzlVc1BSQlYzS0ltVHBoQm9lcXQ0clZhbW56Uk1MNmlCVDhpb3dScUZvVUFVYlB3TlUySDZYM1Y0MkZndXlpU2dtak1vNlF0MW9uT2dTWURDdnZsZ2ZGcDhkWDdGOXVNM2NnVElXalo4ZHc?oc=5)
+
+---
+
+### [Schlafstörungen und demenz: forscher warnen vor gefährlichem zusa... - TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUI0WEs2LWM2S3RGNXAzbk9GeExVYklUQ3ItY3lvLW0wSVZNX09tNGVSaFIzNFZxa3hsZUpjejBLVXptUTRHWmFsRF9ZZzY5dGtvNUZZTzEyRy03LU00bkk2b0pWX1NhZmphYndaeXpqcTBaU3lRRzBqa3o5cXlmUnF1YmUtZjJEX091Y3FBVF8tRlZYMzc1THZmWFRiYlN0WGJxWDhzejc?oc=5)
+
+2026-04-20 <span class="news-indication-tag">AF</span>
+
+來源：[TSV Pelkum Sportwelt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUI0WEs2LWM2S3RGNXAzbk9GeExVYklUQ3ItY3lvLW0wSVZNX09tNGVSaFIzNFZxa3hsZUpjejBLVXptUTRHWmFsRF9ZZzY5dGtvNUZZTzEyRy03LU00bkk2b0pWX1NhZmphYndaeXpqcTBaU3lRRzBqa3o5cXlmUnF1YmUtZjJEX091Y3FBVF8tRlZYMzc1THZmWFRiYlN0WGJxWDhzejc?oc=5)
+
+---
+
+### [Thousands more young people to be offered meningitis vaccines and antibiotics - Dorset Echo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmRnU2JBRVNiOExIZzZyVmdFcmt1RWFVNVFDWG8wWDA0Nk5XSmhkQjUyUEtYaGRTYkJtTFlBLVp4VW9vNU0tR1g2bngwU3ZLbFl0S0xkcmRQeGJQTzM1ZUIwc3Z5NXFzNEJ1NVZ1N19waTlYN2g0cFlhMGlZMkxMQVdBUTFVeXlRSy00VFhMc09CdW8?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Dorset Echo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmRnU2JBRVNiOExIZzZyVmdFcmt1RWFVNVFDWG8wWDA0Nk5XSmhkQjUyUEtYaGRTYkJtTFlBLVp4VW9vNU0tR1g2bngwU3ZLbFl0S0xkcmRQeGJQTzM1ZUIwc3Z5NXFzNEJ1NVZ1N19waTlYN2g0cFlhMGlZMkxMQVdBUTFVeXlRSy00VFhMc09CdW8?oc=5)
+
+---
+
 ### [Las personas que nunca se han casado tienen un riesgo mayor de desarrollar cáncer, según un gran estudio - El Economista](https://news.google.com/rss/articles/CBMimAJBVV95cUxQMkdvWGswV255YTA5WUpiSFM3TXdPWkRoRXFtc01IY0hMYkoyNm5va29makE0cnp5a0hhQmdkZGc1bTQ4ZkNMWnNDaWtMVm9Dc0lFUFBocWJ6V3VVd1kzdVM5MkJjcmRhcnRzYzh5TjZmSkV0Tmh5T3FCUktSMkVBSmxTb19BZzJNRjhWZWRlRlNaZGhjYlFic1puZFRFWnFxYUhleFR2eDJLc3hWTDdSYjRXOExYQVBUbVg0OHhKWlJnU09JbDVQTmZpYWJGeVVMZVItRWU3c0xVckRTMWtuaHVtUEFkQTJFeUpjTlFpY0JhUHNSaWJLUzRUUlV4bi1qVnR3cVVDLXFBeldmMm5Ha3h6N0txYkJP?oc=5)
 
 2026-04-20 <span class="news-indication-tag">AF</span>
@@ -78,27 +102,11 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Plejades and the Moon - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZG9wdzRvbHNSX05lRmczdzFVRWFkbG4zUmFMOWVtYkZWamN5bDZqV3htdVJBTFNYeUFyTkFLc24wUmxpUlZPaGxnbmVlX1RqVUdXN3BwNUhVZlNnQnR0NEkwY2ZtNHJRNWlFVUEzbEhwdDY3b2p5NTE1b2R2NnBoeHNHc3B5dw?oc=5)
-
-2026-04-20 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZG9wdzRvbHNSX05lRmczdzFVRWFkbG4zUmFMOWVtYkZWamN5bDZqV3htdVJBTFNYeUFyTkFLc24wUmxpUlZPaGxnbmVlX1RqVUdXN3BwNUhVZlNnQnR0NEkwY2ZtNHJRNWlFVUEzbEhwdDY3b2p5NTE1b2R2NnBoeHNHc3B5dw?oc=5)
-
----
-
 ### [Wissenschaftlich erforscht: Welches Olivenöl unser Gehirn am besten schützt](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNktmVktMWjhJNVNaNC1vWEE4Z3lJbW1GdE1ZSXR2TDVXc0xRT3dUcHVtMC1nWXE2bVZIbUIwSHBqQW1iZXVkeDhTSXYwR0ZTVWM4TU9CdHU1UWVudDFLMm5DYkRmcVU3WnN4bGdiTlhzcjBDS1NDeVFYbWR1M2FXYW8xbHFKYmJCZGo5d3lCUThQSlk?oc=5)
 
 2026-04-20 <span class="news-indication-tag">AF</span>
 
 來源：[STERN.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNktmVktMWjhJNVNaNC1vWEE4Z3lJbW1GdE1ZSXR2TDVXc0xRT3dUcHVtMC1nWXE2bVZIbUIwSHBqQW1iZXVkeDhTSXYwR0ZTVWM4TU9CdHU1UWVudDFLMm5DYkRmcVU3WnN4bGdiTlhzcjBDS1NDeVFYbWR1M2FXYW8xbHFKYmJCZGo5d3lCUThQSlk?oc=5)
-
----
-
-### [No further meningitis cases after three infections](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
-
-2026-04-20 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWFY3cXVTZkloU1RtUHlXZkVTeFpfRkk4TGVjNTFLZmxxbFd3TG9oQ1E3OTR0eE0xWDlMQVlwMHNmWTFWWXZhaUd1cmtIWUM1Vk11enRJTkxGOWM1?oc=5)
 
 ---
 
@@ -134,19 +142,19 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
+### [Neuer Ansatz gegen Kinderkrebs: Leukämie-Protein wird das Gerüst entzogen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LS2p0cHA0Ul9WV0t2RHNpMWc4MVJIVDlQOGMwcHJERGVaVUVCc0tpT1ZfSUhnd3lXTXo2SkVPczRraklXa1Vjd05Waw?oc=5)
+
+2026-04-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LS2p0cHA0Ul9WV0t2RHNpMWc4MVJIVDlQOGMwcHJERGVaVUVCc0tpT1ZfSUhnd3lXTXo2SkVPczRraklXa1Vjd05Waw?oc=5)
+
+---
+
 ### [Fruchtzucker kann Nieren schaden](https://news.google.com/rss/articles/CBMicEFVX3lxTE81cW1BUEluLVVfUmVZazY2dU9Eek8xamp1Q1FOMmxfVWxPcjluYlY4eG11TTNIcUxsV180UjEtNER0T0h0dlBxZTJZUFVwa1JRVzBRT1dtdVNncnBiaGE2MlJ1N0VkbkM0SGhHSVZDbHM?oc=5)
 
 2026-04-20 <span class="news-indication-tag">Fettleibigkeit</span> <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE81cW1BUEluLVVfUmVZazY2dU9Eek8xamp1Q1FOMmxfVWxPcjluYlY4eG11TTNIcUxsV180UjEtNER0T0h0dlBxZTJZUFVwa1JRVzBRT1dtdVNncnBiaGE2MlJ1N0VkbkM0SGhHSVZDbHM?oc=5)
-
----
-
-### [Rigenerato il fegato direttamente nel corpo, il test nei topi](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc21lUTROWTNCTGRMdUJ0dVhqNTRRNDlLd3NrcUNrUGVDZzlLNXpBUE5XalNNU0hkaVRkZ1czVDYxNl9XZUJGemZQX0ZLM3NSWnE0dWNXODd6Yjh3VlB5M0JnR2xlLWpsUGZWbUxmZDVNemZfZDBJWFJLNDUzcVRyd0tTc0lNYUhtSV80Vi1QUmNSM3h0RE1sSjJwSzJDZ3NSQmFmcmdwWmZQT2tyVTA0c05sMThUbjJxckJoSEQzdjVXa2kxZXRwWHgzMV9OSENxa1hZbUFLVFNEdWNscS1COTJ2emQybG9CZWphcUZVMGJlWWFoakY3ddIB_gFBVV95cUxPU1FpUHBtRVRVWG9laEd6Z2tJZ21GREd2RVFtdkZQV09qUzhERnlkQm9XTnNnRnlfeF9nQS1UQ2VtdGxuaXotT2ZKdWx3NzFVa1c5NEN4QzRJLXNZdnBDVnNTUXRjVWhQbkZaMDNucUtYWWpmMDJTRjdfLWJ0bUlsa21HNjJOTHpjejI2VmF0T1MwYk9WNXBtMkotT3piUGpHX0NwLWN6a1pJSzZHQWI4bGVvMllWUDdKYVpPbG4zRlJiN25oUTlrTmo4NU14UXN2azZLU21wd2hNMDVYM1Zvd1FURFNHd1JqX2tERDlrd2RoMEFRMmMzQk1QODQydw?oc=5)
-
-2026-04-20 <span class="news-indication-tag">AF</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc21lUTROWTNCTGRMdUJ0dVhqNTRRNDlLd3NrcUNrUGVDZzlLNXpBUE5XalNNU0hkaVRkZ1czVDYxNl9XZUJGemZQX0ZLM3NSWnE0dWNXODd6Yjh3VlB5M0JnR2xlLWpsUGZWbUxmZDVNemZfZDBJWFJLNDUzcVRyd0tTc0lNYUhtSV80Vi1QUmNSM3h0RE1sSjJwSzJDZ3NSQmFmcmdwWmZQT2tyVTA0c05sMThUbjJxckJoSEQzdjVXa2kxZXRwWHgzMV9OSENxa1hZbUFLVFNEdWNscS1COTJ2emQybG9CZWphcUZVMGJlWWFoakY3ddIB_gFBVV95cUxPU1FpUHBtRVRVWG9laEd6Z2tJZ21GREd2RVFtdkZQV09qUzhERnlkQm9XTnNnRnlfeF9nQS1UQ2VtdGxuaXotT2ZKdWx3NzFVa1c5NEN4QzRJLXNZdnBDVnNTUXRjVWhQbkZaMDNucUtYWWpmMDJTRjdfLWJ0bUlsa21HNjJOTHpjejI2VmF0T1MwYk9WNXBtMkotT3piUGpHX0NwLWN6a1pJSzZHQWI4bGVvMllWUDdKYVpPbG4zRlJiN25oUTlrTmo4NU14UXN2azZLU21wd2hNMDVYM1Zvd1FURFNHd1JqX2tERDlrd2RoMEFRMmMzQk1QODQydw?oc=5)
 
 ---
 
@@ -206,11 +214,11 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [Neue Erkenntnisse: Was Schwangerschaften mit dem Gehirn machen](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTFfakZ0dEFtWEd2cjZmM3Y2c01ydkFVeVFHQVdGdDRWZ0o4d0Uyb0dDOGNsdEV0Wms4RjBWS0VVMDJIbnItT2VVS2llQkxfd05fdmNvbEprUFN6WDdodEU0REIwdzRwcExMTEQ5VXY3SjVGek1NUDBDME5WNVZ0dUpNUFMtdnNIQThHVDBTaFZXdktDZ2JHQkczbUdIQ3oxTUVLYlhMUllrNk1hWTZmUlY2aG1TV1JBWkpzSFFmSGxyWjVrbDdF?oc=5)
+### ["It's often infected with a parasite, which can be transmitted to humans. Untreated, it can lead to heart failure, damage to the nervous system and death.." - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1Vza1IyMlduLVBuRTBFRERKcE5KNVE1b3dlTUJWdi1DLTByZktSLVZfWkNOT1piX09DdU5kUVBkaVNEbC0xTU1lcEhWMGxpS3J5M3FCSTJUMXdWZkdSXzh3MUZBai1LaDFYaGlhRVpDdEVSMzJTemUzSFNrVk9HVXhYNjVMQQ?oc=5)
 
-2026-04-19 <span class="news-indication-tag">AF</span>
+2026-04-19 <span class="news-indication-tag">heart failure</span>
 
-來源：[familie.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTFfakZ0dEFtWEd2cjZmM3Y2c01ydkFVeVFHQVdGdDRWZ0o4d0Uyb0dDOGNsdEV0Wms4RjBWS0VVMDJIbnItT2VVS2llQkxfd05fdmNvbEprUFN6WDdodEU0REIwdzRwcExMTEQ5VXY3SjVGek1NUDBDME5WNVZ0dUpNUFMtdnNIQThHVDBTaFZXdktDZ2JHQkczbUdIQ3oxTUVLYlhMUllrNk1hWTZmUlY2aG1TV1JBWkpzSFFmSGxyWjVrbDdF?oc=5)
+來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1Vza1IyMlduLVBuRTBFRERKcE5KNVE1b3dlTUJWdi1DLTByZktSLVZfWkNOT1piX09DdU5kUVBkaVNEbC0xTU1lcEhWMGxpS3J5M3FCSTJUMXdWZkdSXzh3MUZBai1LaDFYaGlhRVpDdEVSMzJTemUzSFNrVk9HVXhYNjVMQQ?oc=5)
 
 ---
 

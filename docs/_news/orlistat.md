@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [El Ozempic, el aliado inesperado de los médicos en la lucha contra el hígado graso en Málaga - Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/orlistat/
 2026-04-20 <span class="news-indication-tag">obésité</span>
 
 來源：[Ouest-France](https://news.google.com/rss/articles/CBMijgJBVV95cUxOLVFzVDE1YkhaZVFORmdvYm1YWk9jSWt0ekQxc05VRUsyZ0ZsZUhWUnlBUGdCOWtUZnZrVlpGajk2SUhYTUJRaENyS19PRDdHZkRJTFBDNFFmb1B4ckRzdlhqLW9iWGZlOVFXdEJEd1VSVXZxSkZmbEl1bzVGNy1PRVhaTllNM2xHUHA4a1FRcUxQQ3UxTVlpQnViRlZnM2tIRXZ5bHJTNEJodXBBM0tsRDVtYTZ0bklaNE9DbGpxXzBFQWVOMktJQ2wwUDNER3RpYy04M2JVZTlZbXdISlplaFVmc1owRkpKckFtM1dCLUN4UHBIZlM5dWlqS2N5M0RXd3lhMzdUMFVjNGtpaHc?oc=5)
+
+---
+
+### [7 dos and dont’s when you spot someone having a stroke - The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDJmVmN1MUJfc2k0LUpNejZvY0t6blgwZUxjSmNKZjJ2VDhjRklVemdsNll4UGxGSWN3NVhOSjU0V1YzaUdUR2gwYW01Rl9ZWll6MjRjRHlsWGY1STV1cTh3QmFuZmo2alhEalFGWHVDMFFDd3U4aFdDekxTeFFHVkpJeFJ4bDZINDJxcG9QdFV6Z0ltWXVPTw?oc=5)
+
+2026-04-20 <span class="news-indication-tag">stroke</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDJmVmN1MUJfc2k0LUpNejZvY0t6blgwZUxjSmNKZjJ2VDhjRklVemdsNll4UGxGSWN3NVhOSjU0V1YzaUdUR2gwYW01Rl9ZWll6MjRjRHlsWGY1STV1cTh3QmFuZmo2alhEalFGWHVDMFFDd3U4aFdDekxTeFFHVkpJeFJ4bDZINDJxcG9QdFV6Z0ltWXVPTw?oc=5)
 
 ---
 

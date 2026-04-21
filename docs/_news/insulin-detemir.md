@@ -14,7 +14,7 @@ permalink: /news/insulin-detemir/
 ---
 
 <p class="key-answer" data-question="Insulin Detemir 有什麼相關新聞？">
-<strong>Insulin Detemir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Insulin Detemir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/insulin-detemir/
 <p><a href="{{ '/drugs/insulin-detemir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
 ### [El Ozempic, el aliado inesperado de los médicos en la lucha contra el hígado graso en Málaga - Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
 
@@ -49,6 +49,14 @@ permalink: /news/insulin-detemir/
 2026-04-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWZycXBmZE5kMWNmOTJ6Q29DTDJOaDhYdGtPdFFoZnRaakpEekUxNmNxRmtMdXFFeW0wX09IS1NRWmk2RkdaNG5Qd1NpcGwtc2tWNDNhX2tTWTJOdC1MYkozRXR5TldFSkxTOU1QX1NqR2RIYU80M3NJaGFYRmkwUnpEX0JDVWdWWHlWTlNWUlhYcDFINmg3RGxaYnhhLVY3OWd5R2VWNUVIUkpMdUxWcTgyMmxzNWM?oc=5)
+
+---
+
+### [Cœur, diabète, cancers et même mémoire... Pourquoi c'est vraiment bon de boire du café tous les jours - La Montagne](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZkduVmZJQmRYaUJNc2cxUm9hdVF2blM4MklMNkdsZ2k5OHo3NHp6R3MtNWVkWkxTMDhSQy1raXZQY1A2VEttWDdHcmlRTllwWURXcmhpN1ZBTUJUenpNWDhrbjdaZjJ4OHJrbEZVTnRrWHlDWTdqNHhfc25sci1sXzlVc1BSQlYzS0ltVHBoQm9lcXQ0clZhbW56Uk1MNmlCVDhpb3dScUZvVUFVYlB3TlUySDZYM1Y0MkZndXlpU2dtak1vNlF0MW9uT2dTWURDdnZsZ2ZGcDhkWDdGOXVNM2NnVElXalo4ZHc?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Montagne](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZkduVmZJQmRYaUJNc2cxUm9hdVF2blM4MklMNkdsZ2k5OHo3NHp6R3MtNWVkWkxTMDhSQy1raXZQY1A2VEttWDdHcmlRTllwWURXcmhpN1ZBTUJUenpNWDhrbjdaZjJ4OHJrbEZVTnRrWHlDWTdqNHhfc25sci1sXzlVc1BSQlYzS0ltVHBoQm9lcXQ0clZhbW56Uk1MNmlCVDhpb3dScUZvVUFVYlB3TlUySDZYM1Y0MkZndXlpU2dtak1vNlF0MW9uT2dTWURDdnZsZ2ZGcDhkWDdGOXVNM2NnVElXalo4ZHc?oc=5)
 
 ---
 

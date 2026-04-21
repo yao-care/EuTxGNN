@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Darmflora könnte lange vor ersten Symptomen auf Parkinson hinweisen](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlFDaXpWR3ZELVdXQ215Yk40cmJ6X2hsbDhxb0pvMFYyUVR4Rm5NMW9lUUZtVktaY08yT0VmWUQtbFBOWUJSNWhFVlRiWEJwR291R3Iya1FKaWhTVHVLMGdreGs1R19CMEtKZk55QUNiRGdjY004MUdTOERQUF9Vc05yNGVXNzdVS2taOTlOSWxsX1JaTmV1cU1NeUV0NHQzdXk5cERrLTdqUE14Ul9TNTJjemFOM0liX0pULVRlOFVKYk1Ga0Z1U0VrQnd4MVBu?oc=5)
+
+2026-04-21 <span class="news-indication-tag">Parkinson-Krankheit</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlFDaXpWR3ZELVdXQ215Yk40cmJ6X2hsbDhxb0pvMFYyUVR4Rm5NMW9lUUZtVktaY08yT0VmWUQtbFBOWUJSNWhFVlRiWEJwR291R3Iya1FKaWhTVHVLMGdreGs1R19CMEtKZk55QUNiRGdjY004MUdTOERQUF9Vc05yNGVXNzdVS2taOTlOSWxsX1JaTmV1cU1NeUV0NHQzdXk5cERrLTdqUE14Ul9TNTJjemFOM0liX0pULVRlOFVKYk1Ga0Z1U0VrQnd4MVBu?oc=5)
+
+---
+
+### [Aktualisierte COPD-Leitlinie empfiehlt Atemphysiotherapie - up|unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
+
+2026-04-21 <span class="news-indication-tag">copd</span>
+
+來源：[up|unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
+
+---
 
 ### [Maladie de Parkinson : et si la clé se trouvait dans nos intestins et notre alimentation ? - Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdXRycHNjdUVBVVkwZml3d0h6ZElKcGhTb2FPWDJwUXhBYW94enRvTWRNMTZGSm9BMXVRSTZ5MWVZdU4xRWp0RkVyRUw1U1g1Z3I5eFRSTGxBMldJZGRsN09zeVA0RXpjdG1SVzhNa1gxS3d0cmJpSHdBSDAyS1E4bmZGd19SZmRfNklwV0lFTTVDdEFRMXNORE4wQUxYRVZ0Wll3SU1tVU11dndPNmZkelF3QWMyM3FxWXZRclo0SmlSMlVCZTI5QUFQZVgzNzNBUm9qMFF1bzN3YU9YeUp5aUFpY0U5RXY2LXZnQkRpSFpFT01XMVNFQzdQc2s?oc=5)
 

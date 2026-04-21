@@ -14,7 +14,7 @@ permalink: /news/cangrelor/
 ---
 
 <p class="key-answer" data-question="Cangrelor 有什麼相關新聞？">
-<strong>Cangrelor</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cangrelor</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/cangrelor/
 <p><a href="{{ '/drugs/cangrelor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### ["It's often infected with a parasite, which can be transmitted to humans. Untreated, it can lead to heart failure, damage to the nervous system and death.." - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1Vza1IyMlduLVBuRTBFRERKcE5KNVE1b3dlTUJWdi1DLTByZktSLVZfWkNOT1piX09DdU5kUVBkaVNEbC0xTU1lcEhWMGxpS3J5M3FCSTJUMXdWZkdSXzh3MUZBai1LaDFYaGlhRVpDdEVSMzJTemUzSFNrVk9HVXhYNjVMQQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">heart failure</span>
+
+來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1Vza1IyMlduLVBuRTBFRERKcE5KNVE1b3dlTUJWdi1DLTByZktSLVZfWkNOT1piX09DdU5kUVBkaVNEbC0xTU1lcEhWMGxpS3J5M3FCSTJUMXdWZkdSXzh3MUZBai1LaDFYaGlhRVpDdEVSMzJTemUzSFNrVk9HVXhYNjVMQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

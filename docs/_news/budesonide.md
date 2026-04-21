@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Aktualisierte COPD-Leitlinie empfiehlt Atemphysiotherapie - up|unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
+
+2026-04-21 <span class="news-indication-tag">copd</span>
+
+來源：[up|unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
+
+---
 
 ### [Symptome ernst nehmen - Keine Atempausen für Allergiker: Asthma droht - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（13 則）
 
-### [Gut microbiome can reveal risk of Parkinson’s, scientists say - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
+### [Mum's brain cancer symptoms dismissed as 'stress'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHSm95OXNIQ1RPLVAxWjRpLUJ2dWU0aGRQQ1BJOW1tTGFXRFpLTmJWcXhmdk0xdUVER1ZPc2NSTGNFM3ZEYk5EckVhajNsQmlnNFF2d1Ztb2tETHhk?oc=5)
+
+2026-04-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHSm95OXNIQ1RPLVAxWjRpLUJ2dWU0aGRQQ1BJOW1tTGFXRFpLTmJWcXhmdk0xdUVER1ZPc2NSTGNFM3ZEYk5EckVhajNsQmlnNFF2d1Ztb2tETHhk?oc=5)
+
+---
+
+### [MSD refuerza su compromiso con la innovación y la prevención como pilares clave para contribuir a mejorar la salud de la población - Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdUJrNVdMQmctaGZYNFN1SXBMNlFOQmQ1TFd6SmxwVDBUN1Vpem9nVThvaWh5SlRmOHRPR1RTTXVmbTgyeVNhSlhxZHdTRmkyTWdBZ2lIX0NSSkN2c3RFTVFVUndiNEpyNUI5LURZVDBQdUtWLVlJMXQzaG5QTU1JWXR3anNDZmFOckoweDlxU0RpcFlQaEstai1qaVg2MVVhRy1xYkJLd2k2RF9jVWtnTklPUFoyYldxOVlVT2loeENJVHBFZkpCN1REdEFjRmlIeVNUZDNRaEsyV3hmNW5qeHJNVzZXUGNqbWc?oc=5)
+
+2026-04-21 <span class="news-indication-tag">MS</span>
+
+來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdUJrNVdMQmctaGZYNFN1SXBMNlFOQmQ1TFd6SmxwVDBUN1Vpem9nVThvaWh5SlRmOHRPR1RTTXVmbTgyeVNhSlhxZHdTRmkyTWdBZ2lIX0NSSkN2c3RFTVFVUndiNEpyNUI5LURZVDBQdUtWLVlJMXQzaG5QTU1JWXR3anNDZmFOckoweDlxU0RpcFlQaEstai1qaVg2MVVhRy1xYkJLd2k2RF9jVWtnTklPUFoyYldxOVlVT2loeENJVHBFZkpCN1REdEFjRmlIeVNUZDNRaEsyV3hmNW5qeHJNVzZXUGNqbWc?oc=5)
+
+---
+
+### [Gut microbes may reveal Parkinson’s risk years before symptoms - The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Scientists identify main cause of extreme nausea and vomiting in pregnancy - Live Science](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUFWanNTV2oyNWJ2WkZ6YXhTRGoxdVFLby1aYTdoNE9nUjQ5SWlBLUZCVHhLcUpWUEtybVlqYTNUWDZSMVQyVHFxTHE2VXZHZEpVNFZjc1JrSnlIYmhJWFdtZURwZDBaLWo4alo1NmVuN3JzbzVSOV9YelZVRnlmR0xPUE90TXVIM1VTR2JWT2RUQURocFI0b3ZSdFMyRzhfM3dQTUVoZm5DT1RfeDlWWW1Za3VVWFduTTlfTG96WmJyWE5hUkQzOQ?oc=5)
+### [Thousands more young people to be offered meningitis vaccines and antibiotics - Dorset Echo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmRnU2JBRVNiOExIZzZyVmdFcmt1RWFVNVFDWG8wWDA0Nk5XSmhkQjUyUEtYaGRTYkJtTFlBLVp4VW9vNU0tR1g2bngwU3ZLbFl0S0xkcmRQeGJQTzM1ZUIwc3Z5NXFzNEJ1NVZ1N19waTlYN2g0cFlhMGlZMkxMQVdBUTFVeXlRSy00VFhMc09CdW8?oc=5)
 
-2026-04-20 <span class="news-indication-tag">MS</span>
+2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Live Science](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUFWanNTV2oyNWJ2WkZ6YXhTRGoxdVFLby1aYTdoNE9nUjQ5SWlBLUZCVHhLcUpWUEtybVlqYTNUWDZSMVQyVHFxTHE2VXZHZEpVNFZjc1JrSnlIYmhJWFdtZURwZDBaLWo4alo1NmVuN3JzbzVSOV9YelZVRnlmR0xPUE90TXVIM1VTR2JWT2RUQURocFI0b3ZSdFMyRzhfM3dQTUVoZm5DT1RfeDlWWW1Za3VVWFduTTlfTG96WmJyWE5hUkQzOQ?oc=5)
+來源：[Dorset Echo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmRnU2JBRVNiOExIZzZyVmdFcmt1RWFVNVFDWG8wWDA0Nk5XSmhkQjUyUEtYaGRTYkJtTFlBLVp4VW9vNU0tR1g2bngwU3ZLbFl0S0xkcmRQeGJQTzM1ZUIwc3Z5NXFzNEJ1NVZ1N19waTlYN2g0cFlhMGlZMkxMQVdBUTFVeXlRSy00VFhMc09CdW8?oc=5)
 
 ---
 
@@ -86,19 +102,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Estudio advierte que comer mucha fruta, verdura y granos tendría un mayor riesgo de cáncer de pulmón](https://news.google.com/rss/articles/CBMikAJBVV95cUxQMXpMN2hhajRvM3hoR05OSXQyblo1dTkxcFVtakNsSkFlVVNyMWxLdm9OTkRLUldJRlJVQ2o3by1ISXZKdnBKSXc3SExWRTBIVjNpb3d5elNSa0hrYU5meDNwLUY3NzZ2MWszYm1hWk5NN2ZfVVJqNG14Mjh6SkNyUmprSnlYXzc2WGg3SVRFNUc1ckpPdG9zR2diVUVpZlh6M2FtdVpNLUNLUWVUWDFCLVJPc25XVUJTbXJlUDhWcng4T2F5ekRhajJSYlRoanJiV2RKdGNLMFluTTU2Q0Rpd0paRzVWa1FnNl9fVnVVbU5CSjNTNWY4TTgzOXh0bVNGSHNjY1V1LWpDOUpiUXgwNQ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span>
+
+來源：[BioBioChile](https://news.google.com/rss/articles/CBMikAJBVV95cUxQMXpMN2hhajRvM3hoR05OSXQyblo1dTkxcFVtakNsSkFlVVNyMWxLdm9OTkRLUldJRlJVQ2o3by1ISXZKdnBKSXc3SExWRTBIVjNpb3d5elNSa0hrYU5meDNwLUY3NzZ2MWszYm1hWk5NN2ZfVVJqNG14Mjh6SkNyUmprSnlYXzc2WGg3SVRFNUc1ckpPdG9zR2diVUVpZlh6M2FtdVpNLUNLUWVUWDFCLVJPc25XVUJTbXJlUDhWcng4T2F5ekRhajJSYlRoanJiV2RKdGNLMFluTTU2Q0Rpd0paRzVWa1FnNl9fVnVVbU5CSjNTNWY4TTgzOXh0bVNGSHNjY1V1LWpDOUpiUXgwNQ?oc=5)
+
+---
+
 ### [Family’s heartbreak as ‘whirlwind’ infection claims life of baby Finley at just eight days old - Devon Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRldIV28yMTYwMHg0eHc0eGozd21XMHZUUG9CNnFyVG10Q0w0bS1fSU9hWVdIVHh3Z0FienBLb3V1Xzl0U2sxNU1NbkVLZ25zS0hURGd2czdycW1vQWhzQm4ydERpZmtVcTAzaVRxTWRTdmtKMnUxMDhNYzdnV2hBNFNjaXhYZW5TRFJTWjJmNHVWZUJMMmJRRDB2YlQ?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
 
 來源：[Devon Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRldIV28yMTYwMHg0eHc0eGozd21XMHZUUG9CNnFyVG10Q0w0bS1fSU9hWVdIVHh3Z0FienBLb3V1Xzl0U2sxNU1NbkVLZ25zS0hURGd2czdycW1vQWhzQm4ydERpZmtVcTAzaVRxTWRTdmtKMnUxMDhNYzdnV2hBNFNjaXhYZW5TRFJTWjJmNHVWZUJMMmJRRDB2YlQ?oc=5)
-
----
-
-### [Las claves de MSD para transformar la salud del futuro: innovación y prevención - El Globalfarma](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWUx2eHU3dFBBcHdKV2lnRlpFRDl6cEluRmtOQzFTRzc0UnZlbzg2Y1hhb21fWnVmS2ZLTl9VOGFyTWJNSUFHcmVPVnhhbE1XZVFmdTFIcVNqc25lc2l5UWhxRjBDRkRyLWJGNW9NdVZiQ3VMaEdCQzFHN05XWlVZZ2x1UFZoczduV3Z3UDFOdTY1b0kycmo4WGhVU3g?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span>
-
-來源：[El Globalfarma](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWUx2eHU3dFBBcHdKV2lnRlpFRDl6cEluRmtOQzFTRzc0UnZlbzg2Y1hhb21fWnVmS2ZLTl9VOGFyTWJNSUFHcmVPVnhhbE1XZVFmdTFIcVNqc25lc2l5UWhxRjBDRkRyLWJGNW9NdVZiQ3VMaEdCQzFHN05XWlVZZ2x1UFZoczduV3Z3UDFOdTY1b0kycmo4WGhVU3g?oc=5)
 
 ---
 
@@ -115,6 +131,14 @@ permalink: /news/sofosbuvir/
 2026-04-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOcl9EMVV4U082WWpyYTBUb2VhUC1ISXpfN19oQU1TZW1iUGF4LUw3bTUteW53c0xHWWRiRFg4TS1JeUttbEh3TDhFWG9DT0JVUWxRLV9yanA3NGplNzhYMjFoVzZGdGxIa0NQaXltSGNfVWJQVGlhQ3pQNFdJQ2MtUkYzT0xVOGM0bmkzQmtrOW5mRWtOdHU1R3NvMno2dw?oc=5)
+
+---
+
+### [Dr. med. Viktoria Schelle geht mit ihrem Ratgeber „Hormonbauch“ einem medizinischen Phänomen auf den Grund](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIX3JLU0hjZ0wzSUdXRjdMNDYwcHo4SzVzZU1YWWJZUEhVR3VyMm5RZHIxWmlFQmVvdE5HUlZ3VWFVM0p6ZEhqUy1pZXh1OWFTUzZ6aQ?oc=5)
+
+2026-04-19 <span class="news-indication-tag">MS</span>
+
+來源：[buchszene.de](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIX3JLU0hjZ0wzSUdXRjdMNDYwcHo4SzVzZU1YWWJZUEhVR3VyMm5RZHIxWmlFQmVvdE5HUlZ3VWFVM0p6ZEhqUy1pZXh1OWFTUzZ6aQ?oc=5)
 
 ---
 
