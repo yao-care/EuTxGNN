@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="Emtricitabine 有什麼相關新聞？">
-<strong>Emtricitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Emtricitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/emtricitabine/
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Chronische Hepatitis B: Schätzung der Betroffenen in Europa reicht von 2,4 bis 4,1 Millionen - Biermann Medizin](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFd2cS1WRzdTZ2dOUWJIaldQYmlycUtpWXdzUG45YVNUN1V0TnBlYzlYXy13VW8xckVzTGVkLXJzMzBMU3N4MnBwNzlUSEo5RnV5OWk2MmNUTWc4OENneFZfdmNEVjBxN3lwLUhFeGRlZ1pPREs5bU51T3lWYjY3RHVnZTdGSm94RnlNb1NyTkZPSnZnajFaRFMxTGlQVTh2UVBQSGRwU0NvSDVyWHYtQ25iNDNYTXBPMV9n?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/emtricitabine/
 2026-04-20 <span class="news-indication-tag">epatite</span>
 
 來源：[paesenews.it](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xajFGODh4TTlhcFo3Y0NEaGVXZGFuSUpYS2xyZ241SWtNY0FtaDJoTEJGd1U4aThNVWNjX05DeFM4SHRLZGc4RjdB?oc=5)
-
----
-
-### [El ECDC subraya que mantener altas coberturas de vacunación es clave para frenar infecciones y proteger a la población](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORkpZMU1UdmF2Tjl2c3l0ZGcwWjdUT3B6Tk1BVFAtUVR4U1JnV2RZWjFub1g5WHFOc1FnNmFZdXBzSVE4Mk9YS2hnRFp1SHJxV1hDVUQ2OU0wRjlDUXppYjlqVDlIQm5NOTNUdFJOeV9pdlpVTl82NWYyR2lpZllsb3BVMC11VmxVcV80V3N2Ylp6VGFCdTRLRC1PbC13X2FQY3UxTTVJQ3k4aHdkUzZUMmcwV1QwUWhWS3pKemtIMXh1NVdmM2JOdXV1ZjZ1V1FCUHEzZXFFSW1QbjY1ekUxVUY0ZklFRnfSAewBQVVfeXFMT2hpeXRDX01oYVcyV2xTSU5aMXNRanNTWVZZTXoxLVQ2ZjFBZlJseHBkaWRwWUdiam9xOGZSamt6bUdQU1ZNdkRPVllRSlpsYUl1cU9veU5Zc0oxZG5tZ3o3X0ZEOTZlLVlaaWpjNGxCVmE4V0JSeHNFUWNsVHM0VHpDS1JHRjg5ZE9WUGVieDRacDlkbktDU2Vjdk5rb3lLZGkyNzVqT0xxbko1eUVLS0pERmU4SUh4VlJHSlNKWVE4NUttRzB4dFB6MFRoT1hQTTlHcFktWFc2TkxUZk9rZmpmbUZtZVdOQW9vSHE?oc=5)
-
-2026-04-20 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORkpZMU1UdmF2Tjl2c3l0ZGcwWjdUT3B6Tk1BVFAtUVR4U1JnV2RZWjFub1g5WHFOc1FnNmFZdXBzSVE4Mk9YS2hnRFp1SHJxV1hDVUQ2OU0wRjlDUXppYjlqVDlIQm5NOTNUdFJOeV9pdlpVTl82NWYyR2lpZllsb3BVMC11VmxVcV80V3N2Ylp6VGFCdTRLRC1PbC13X2FQY3UxTTVJQ3k4aHdkUzZUMmcwV1QwUWhWS3pKemtIMXh1NVdmM2JOdXV1ZjZ1V1FCUHEzZXFFSW1QbjY1ekUxVUY0ZklFRnfSAewBQVVfeXFMT2hpeXRDX01oYVcyV2xTSU5aMXNRanNTWVZZTXoxLVQ2ZjFBZlJseHBkaWRwWUdiam9xOGZSamt6bUdQU1ZNdkRPVllRSlpsYUl1cU9veU5Zc0oxZG5tZ3o3X0ZEOTZlLVlaaWpjNGxCVmE4V0JSeHNFUWNsVHM0VHpDS1JHRjg5ZE9WUGVieDRacDlkbktDU2Vjdk5rb3lLZGkyNzVqT0xxbko1eUVLS0pERmU4SUh4VlJHSlNKWVE4NUttRzB4dFB6MFRoT1hQTTlHcFktWFc2TkxUZk9rZmpmbUZtZVdOQW9vSHE?oc=5)
 
 ---
 

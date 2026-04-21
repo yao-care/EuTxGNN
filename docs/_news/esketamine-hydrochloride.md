@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El trauma infantil aumenta un 66% el riesgo de trastornos de ansiedad y depresión en la etapa adulta](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmo1M2lyN2lSbi1QYVh5TFB5bG1kS1FBZzB2RlFEcnNfa1JNLWtoanlpdWlXTkZQdEpQcVItc3RZelNLa3QzUkYzc0l3Y0Q2WHREcGE0clc0NnFtMXhKQkxEcndEY1dTY0lrQ05oSU8xWkdLdE54NVVlOTJPd3FsQVhlbXJpZmgxU0xvMzg3SnpSTHhaQVNhb1RSMlRpSmFWRjlHNFRUQWVpWmZRaWI2UkVTRlAxU3BkSmlLaWsyb2k?oc=5)
-
-2026-04-20 <span class="news-indication-tag">depresión</span>
-
-來源：[infocop.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmo1M2lyN2lSbi1QYVh5TFB5bG1kS1FBZzB2RlFEcnNfa1JNLWtoanlpdWlXTkZQdEpQcVItc3RZelNLa3QzUkYzc0l3Y0Q2WHREcGE0clc0NnFtMXhKQkxEcndEY1dTY0lrQ05oSU8xWkdLdE54NVVlOTJPd3FsQVhlbXJpZmgxU0xvMzg3SnpSTHhaQVNhb1RSMlRpSmFWRjlHNFRUQWVpWmZRaWI2UkVTRlAxU3BkSmlLaWsyb2k?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

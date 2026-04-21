@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [Aktualisierte COPD-Leitlinie empfiehlt Atemphysiotherapie - up|unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
+### [Aktualisierte COPD-Leitlinie empfiehlt Atemphysiotherapie - up unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
 
 2026-04-21 <span class="news-indication-tag">copd</span>
 
-來源：[up|unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
-
----
-
-### [Symptome ernst nehmen - Keine Atempausen für Allergiker: Asthma droht - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">asthma</span>
-
-來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhcks1S2tTRWxjUlJLWTY3S1RzOWoydHlWcVNWbV9rTzRLOVc5ZmFJOGhWdmZkTzYtQXBnR056dExCQQ?oc=5)
-
----
-
-### [Hoja de ruta para avanzar en el abordaje de enfermedad de Crohn y colitis ulcerosa - Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHYwTG5KcEQ1QnJGeE5HYllfRjZXMnRhU19fUGZiZGpyb3Z3a0o3MjR3YVBYbTNSemxsakRYM2VfYTRlODY1M3F4dEh1SldiaHcwSW5qT0VpenM3RGNrT21UektSTkl2U1JkblJvWjdBczFTZlIwb1JFNUpZQWdCVFB3Yy1wWlAtbWxLOEx4RzR3ZUJYd3lJV0stQXZCclhoZXJRZWZn0gGrAUFVX3lxTE1QNTVwQjlkMFVKVkRlaDVqLTI2ejRwTnBRVVJQRHFmU2R3QnpLMDhYSExCSF84aU5lZ3BLaGJGZlo4WmVEaDRvb2pCcExRYV9YSjZDbHZlTkRhSUlQeWI3WnoxTlU2ang2ak1QVWFfemd4WVdhdkY4U01Qb2hNek9tT1o2bUtIaVBOSU5MZUVoakFKVFNJQzRsbDNaaksyOThOVkdwTEtqWXNyRQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">enfermedad de Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHYwTG5KcEQ1QnJGeE5HYllfRjZXMnRhU19fUGZiZGpyb3Z3a0o3MjR3YVBYbTNSemxsakRYM2VfYTRlODY1M3F4dEh1SldiaHcwSW5qT0VpenM3RGNrT21UektSTkl2U1JkblJvWjdBczFTZlIwb1JFNUpZQWdCVFB3Yy1wWlAtbWxLOEx4RzR3ZUJYd3lJV0stQXZCclhoZXJRZWZn0gGrAUFVX3lxTE1QNTVwQjlkMFVKVkRlaDVqLTI2ejRwTnBRVVJQRHFmU2R3QnpLMDhYSExCSF84aU5lZ3BLaGJGZlo4WmVEaDRvb2pCcExRYV9YSjZDbHZlTkRhSUlQeWI3WnoxTlU2ang2ak1QVWFfemd4WVdhdkY4U01Qb2hNek9tT1o2bUtIaVBOSU5MZUVoakFKVFNJQzRsbDNaaksyOThOVkdwTEtqWXNyRQ?oc=5)
+來源：[up unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
 
 ---
 

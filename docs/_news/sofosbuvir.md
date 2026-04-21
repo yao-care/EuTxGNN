@@ -54,6 +54,30 @@ permalink: /news/sofosbuvir/
 
 ## 相關新聞（18 則）
 
+### [Parkinson-Erkrankung dürfte sich im Mikrobiom des Darms ankündigen - Der Standard](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhtMVZXZl91S3JhSDdMQ005OFRqay0xMnkxOExYTTRBdDhDOUFRbnpuWUJ4QmNwalFlQVpkVGQxYVk5b181X1Q0YmRoVlVXTHlHcnFVbE41WmZocVBpMkhQR1ZWcWJkUTQ0SDhSMnhFOFVOT0N0elpOamota0RjeFhPbEpSV3FWY0pLVmJqN3BTdUc3NzJnTS0xbGR5R0Y3MkdmZUE1bE91X2VpY2VsM1Z0R3VPUQ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">MS</span>
+
+來源：[Der Standard](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhtMVZXZl91S3JhSDdMQ005OFRqay0xMnkxOExYTTRBdDhDOUFRbnpuWUJ4QmNwalFlQVpkVGQxYVk5b181X1Q0YmRoVlVXTHlHcnFVbE41WmZocVBpMkhQR1ZWcWJkUTQ0SDhSMnhFOFVOT0N0elpOamota0RjeFhPbEpSV3FWY0pLVmJqN3BTdUc3NzJnTS0xbGR5R0Y3MkdmZUE1bE91X2VpY2VsM1Z0R3VPUQ?oc=5)
+
+---
+
+### [Krebs-Therapie 2.0: Warum das Klinikum Bayreuth sich zwei „Raumschiffe“ leistet - Nordbayerischer Kurier](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMG16RVZpcHlBNmJZMmZpQjFGSkNzak9Nb1ZsRXlfcmh5TTlPSjUtOWRFT2FvdUg5WFJteHh2aVpKNzgxaU04dXJ0eWtlSjVEczhmTmFsbW1OSzd4aUdfQl9nSkplOTkwNE1VMVoxZ0x4MldjOUlfVEI3c1AyamJRc2o3T0E3WEZXUXBrX3VQOTNlMmVncGJMcGJyNnhmMGhYN1dvZXYwdlpkOWpSTWdQS3k5bDlTbzdDazdrMmlIaVR1QkRydlpqYWZNTzRzckluSDItOTh6c2treEQxM0pN?oc=5)
+
+2026-04-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[Nordbayerischer Kurier](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMG16RVZpcHlBNmJZMmZpQjFGSkNzak9Nb1ZsRXlfcmh5TTlPSjUtOWRFT2FvdUg5WFJteHh2aVpKNzgxaU04dXJ0eWtlSjVEczhmTmFsbW1OSzd4aUdfQl9nSkplOTkwNE1VMVoxZ0x4MldjOUlfVEI3c1AyamJRc2o3T0E3WEZXUXBrX3VQOTNlMmVncGJMcGJyNnhmMGhYN1dvZXYwdlpkOWpSTWdQS3k5bDlTbzdDazdrMmlIaVR1QkRydlpqYWZNTzRzckluSDItOTh6c2treEQxM0pN?oc=5)
+
+---
+
+### [Meningokokken: Ein Wasserglas-Test rettet Leben - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2pjRmVMVWNYNTRlSng0Zm5JbUhsbXE4cHBqd3BSN1lWTXNKQWVsT1AxZWRPYkhKU0h3WUctaWd4bG9yWlA4b01fMzQyNUFRck0ycHFhc1BaMmFKTEJ0dGZaN0Q1VHE2d3FZcXZ0RTM5QzFxczB2TVF5LXFwZjI4TDBhX2ZCVEZ1R3lKZktzVGJDVEVSSkxRZDFTMmtveFZ5?oc=5)
+
+2026-04-21 <span class="news-indication-tag">MS</span>
+
+來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2pjRmVMVWNYNTRlSng0Zm5JbUhsbXE4cHBqd3BSN1lWTXNKQWVsT1AxZWRPYkhKU0h3WUctaWd4bG9yWlA4b01fMzQyNUFRck0ycHFhc1BaMmFKTEJ0dGZaN0Q1VHE2d3FZcXZ0RTM5QzFxczB2TVF5LXFwZjI4TDBhX2ZCVEZ1R3lKZktzVGJDVEVSSkxRZDFTMmtveFZ5?oc=5)
+
+---
+
 ### [Chronische Hepatitis B: Schätzung der Betroffenen in Europa reicht von 2,4 bis 4,1 Millionen - Biermann Medizin](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFd2cS1WRzdTZ2dOUWJIaldQYmlycUtpWXdzUG45YVNUN1V0TnBlYzlYXy13VW8xckVzTGVkLXJzMzBMU3N4MnBwNzlUSEo5RnV5OWk2MmNUTWc4OENneFZfdmNEVjBxN3lwLUhFeGRlZ1pPREs5bU51T3lWYjY3RHVnZTdGSm94RnlNb1NyTkZPSnZnajFaRFMxTGlQVTh2UVBQSGRwU0NvSDVyWHYtQ25iNDNYTXBPMV9n?oc=5)
 
 2026-04-21 <span class="news-indication-tag">hepatitis</span>
@@ -62,27 +86,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Langsamer altern – Studie misst verblüffenden Anti-Aging-Effekt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEtvOVIwQUh3b2lTZmtXVlJQZkdGQjMxelpXQ0p5VVJfbnIxNlJFdkJWbGl3QkZKM2hyVTNjLWdLUEVTOHRXWjlKeFdhVXBEaDdQMDZ0TzBmbWlwZk5BT3doX2ZKN0NqQkF1SFBTdXo1UkFpU1hWNkl5SmRfQjZSSlRSblJuYkNQNC1qRVIxS1Job2NNbnRsRThLS1FRaGlFaURma3pCc2M?oc=5)
-
-2026-04-21 <span class="news-indication-tag">MS</span>
-
-來源：[Merkur](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEtvOVIwQUh3b2lTZmtXVlJQZkdGQjMxelpXQ0p5VVJfbnIxNlJFdkJWbGl3QkZKM2hyVTNjLWdLUEVTOHRXWjlKeFdhVXBEaDdQMDZ0TzBmbWlwZk5BT3doX2ZKN0NqQkF1SFBTdXo1UkFpU1hWNkl5SmRfQjZSSlRSblJuYkNQNC1qRVIxS1Job2NNbnRsRThLS1FRaGlFaURma3pCc2M?oc=5)
-
----
-
-### [Así nacen los bulos: la verdad detrás del polémico "estudio" que asocia comer frutas y verduras con el cáncer - Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxNa29VM01fTGNDbDdSWnk0dGo4X1gzT0Y0Z0kydGtkamNVdFFwREprTENNbE15T3JncmJDV1RvQnQycjVKbDRfT0R2SzZYOGlRNkRTd1JEOXNLTDVWMXEtTHBfVzJmZFZmWWxqUkhqc3FLTlRQSzh6anE4RTFwYzdaazVDWFBxMXRyRW1hZFozT0lENEpDcVljbGlsUTdCR2JGOVdxTF9udzZtQ1lpeE5hSjdteVllX1BXZ0xta29NNWNBcVNWa25yejdDM2tjcDRTMnVTU2JPX0Jaci1xaTYxUzBDazJPNWpZTmNLVnRvOHpTUjdZYUR2TUxPWWd0Y3ZMVlVHNWdXaVR6YjBkZkE?oc=5)
-
-2026-04-21 <span class="news-indication-tag">MS</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxNa29VM01fTGNDbDdSWnk0dGo4X1gzT0Y0Z0kydGtkamNVdFFwREprTENNbE15T3JncmJDV1RvQnQycjVKbDRfT0R2SzZYOGlRNkRTd1JEOXNLTDVWMXEtTHBfVzJmZFZmWWxqUkhqc3FLTlRQSzh6anE4RTFwYzdaazVDWFBxMXRyRW1hZFozT0lENEpDcVljbGlsUTdCR2JGOVdxTF9udzZtQ1lpeE5hSjdteVllX1BXZ0xta29NNWNBcVNWa25yejdDM2tjcDRTMnVTU2JPX0Jaci1xaTYxUzBDazJPNWpZTmNLVnRvOHpTUjdZYUR2TUxPWWd0Y3ZMVlVHNWdXaVR6YjBkZkE?oc=5)
-
----
-
 ### [Als Sodbrennen abgetan: Mann entwickelt weitere Symptome – Diagnose Speiseröhrenkrebs](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmRza3czam9aUnR4aml2Z2xWTGZBc003bm16SnFtUEstX3p5ZUhZSXl5WW5USjZhd0ZPQ2JtNXE2WmlObWt0bU5ud25QcjVOeURLSVEyb04tQkpiLVlISGJjeHFDY21DMTVrRkhHM1Fpb1E5aFFlVFY4X1VGd19Pdjg4aEJwbmVvSE9tLUtjNTByejM5azBBd3FJRTJRaUswbHBoal9XQU9tMWx1TTdWTndEbG5jTzBhWVhTejJnQWhBR3FyaFBUYWhXMHo4MTl6eTM3R0dpOERZMDg?oc=5)
 
 2026-04-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[MSN](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmRza3czam9aUnR4aml2Z2xWTGZBc003bm16SnFtUEstX3p5ZUhZSXl5WW5USjZhd0ZPQ2JtNXE2WmlObWt0bU5ud25QcjVOeURLSVEyb04tQkpiLVlISGJjeHFDY21DMTVrRkhHM1Fpb1E5aFFlVFY4X1VGd19Pdjg4aEJwbmVvSE9tLUtjNTByejM5azBBd3FJRTJRaUswbHBoal9XQU9tMWx1TTdWTndEbG5jTzBhWVhTejJnQWhBR3FyaFBUYWhXMHo4MTl6eTM3R0dpOERZMDg?oc=5)
+
+---
+
+### [“Cure non omogenee e pochi specialisti”: il calvario dei malati di sclerosi multipla - La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNG9xN3FpMlJtcnJibHFqeGZQRkhSS1VnUDRWYmtfbkxzNWgxZUFtUEJPM01nZERycG16Wl9DUmtzS2ZvQmxSQlFmRGo0Y2M2RXBpOEtOTkxMNURnVTYzRC1WUU8zczFFOFlJb3VhVkJfZmxKbkFLc3VPSzg2QU5WS3JMQ0tUNmROejhHLWdvNGVkVGJfenBKeFpOeExleEpZWWxrdGM2YWfSAa4BQVVfeXFMTXJ0YlVGRXo4dHJrX1VnWjNfTGJqUGV6OEhORW11UTNjam5rcHhNaWg3MWEwTy1LT1ByZWNaZ0QxQklUNXVpcmFqZXZ3eG9SbGtjTzhDTnJQM2UxY2RDckJUbm9OQi1scXI2eUVpVzMtSnh5TkZ6SWdxeDdwblA1VDlzUlNDaEt1T3YxVktmUkpSUVFHa05vYzRXNmVRd3hhRUhGMWxrZWl6aFctSmhR?oc=5)
+
+2026-04-21 <span class="news-drug-tag">Ublituximab</span> <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNG9xN3FpMlJtcnJibHFqeGZQRkhSS1VnUDRWYmtfbkxzNWgxZUFtUEJPM01nZERycG16Wl9DUmtzS2ZvQmxSQlFmRGo0Y2M2RXBpOEtOTkxMNURnVTYzRC1WUU8zczFFOFlJb3VhVkJfZmxKbkFLc3VPSzg2QU5WS3JMQ0tUNmROejhHLWdvNGVkVGJfenBKeFpOeExleEpZWWxrdGM2YWfSAa4BQVVfeXFMTXJ0YlVGRXo4dHJrX1VnWjNfTGJqUGV6OEhORW11UTNjam5rcHhNaWg3MWEwTy1LT1ByZWNaZ0QxQklUNXVpcmFqZXZ3eG9SbGtjTzhDTnJQM2UxY2RDckJUbm9OQi1scXI2eUVpVzMtSnh5TkZ6SWdxeDdwblA1VDlzUlNDaEt1T3YxVktmUkpSUVFHa05vYzRXNmVRd3hhRUhGMWxrZWl6aFctSmhR?oc=5)
 
 ---
 
@@ -110,6 +126,14 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Gut microbes may reveal Parkinson’s risk years before symptoms - The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
+
+---
+
 ### [Teano / Sessa Aurunca / Cellole – Infezione da Epatite A: ecco i paesi più colpiti](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xajFGODh4TTlhcFo3Y0NEaGVXZGFuSUpYS2xyZ241SWtNY0FtaDJoTEJGd1U4aThNVWNjX05DeFM4SHRLZGc4RjdB?oc=5)
 
 2026-04-20 <span class="news-indication-tag">epatite</span>
@@ -118,27 +142,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [El ECDC subraya que mantener altas coberturas de vacunación es clave para frenar infecciones y proteger a la población](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORkpZMU1UdmF2Tjl2c3l0ZGcwWjdUT3B6Tk1BVFAtUVR4U1JnV2RZWjFub1g5WHFOc1FnNmFZdXBzSVE4Mk9YS2hnRFp1SHJxV1hDVUQ2OU0wRjlDUXppYjlqVDlIQm5NOTNUdFJOeV9pdlpVTl82NWYyR2lpZllsb3BVMC11VmxVcV80V3N2Ylp6VGFCdTRLRC1PbC13X2FQY3UxTTVJQ3k4aHdkUzZUMmcwV1QwUWhWS3pKemtIMXh1NVdmM2JOdXV1ZjZ1V1FCUHEzZXFFSW1QbjY1ekUxVUY0ZklFRnfSAewBQVVfeXFMT2hpeXRDX01oYVcyV2xTSU5aMXNRanNTWVZZTXoxLVQ2ZjFBZlJseHBkaWRwWUdiam9xOGZSamt6bUdQU1ZNdkRPVllRSlpsYUl1cU9veU5Zc0oxZG5tZ3o3X0ZEOTZlLVlaaWpjNGxCVmE4V0JSeHNFUWNsVHM0VHpDS1JHRjg5ZE9WUGVieDRacDlkbktDU2Vjdk5rb3lLZGkyNzVqT0xxbko1eUVLS0pERmU4SUh4VlJHSlNKWVE4NUttRzB4dFB6MFRoT1hQTTlHcFktWFc2TkxUZk9rZmpmbUZtZVdOQW9vSHE?oc=5)
+### [Ozempic, Mounjaro: 6 ‘Hidden’ Side Effects of GLP-1 Weight Loss Drugs](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWM4Y2NLa1VwMnRXdlA2eVktc3l0ZmlGOE1jaHExdU9pS2RaSC1iT204YURYSXFRZ2RhZEFEMk53NDl6QkJBWEJfTWg1R1Z3WTg4ZFpZUUpWdHRieHJSbll5azVQeVR4UWtMYzlVVzJzSmpFU0lqQXpLZE9xUkhNQ0lxTi1HT3NpVFdQX1lvSi1mRWhFdWc?oc=5)
 
-2026-04-20 <span class="news-indication-tag">hepatitis</span>
+2026-04-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORkpZMU1UdmF2Tjl2c3l0ZGcwWjdUT3B6Tk1BVFAtUVR4U1JnV2RZWjFub1g5WHFOc1FnNmFZdXBzSVE4Mk9YS2hnRFp1SHJxV1hDVUQ2OU0wRjlDUXppYjlqVDlIQm5NOTNUdFJOeV9pdlpVTl82NWYyR2lpZllsb3BVMC11VmxVcV80V3N2Ylp6VGFCdTRLRC1PbC13X2FQY3UxTTVJQ3k4aHdkUzZUMmcwV1QwUWhWS3pKemtIMXh1NVdmM2JOdXV1ZjZ1V1FCUHEzZXFFSW1QbjY1ekUxVUY0ZklFRnfSAewBQVVfeXFMT2hpeXRDX01oYVcyV2xTSU5aMXNRanNTWVZZTXoxLVQ2ZjFBZlJseHBkaWRwWUdiam9xOGZSamt6bUdQU1ZNdkRPVllRSlpsYUl1cU9veU5Zc0oxZG5tZ3o3X0ZEOTZlLVlaaWpjNGxCVmE4V0JSeHNFUWNsVHM0VHpDS1JHRjg5ZE9WUGVieDRacDlkbktDU2Vjdk5rb3lLZGkyNzVqT0xxbko1eUVLS0pERmU4SUh4VlJHSlNKWVE4NUttRzB4dFB6MFRoT1hQTTlHcFktWFc2TkxUZk9rZmpmbUZtZVdOQW9vSHE?oc=5)
-
----
-
-### [Gut microbiome can reveal risk of Parkinson’s, scientists say - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWM4Y2NLa1VwMnRXdlA2eVktc3l0ZmlGOE1jaHExdU9pS2RaSC1iT204YURYSXFRZ2RhZEFEMk53NDl6QkJBWEJfTWg1R1Z3WTg4ZFpZUUpWdHRieHJSbll5azVQeVR4UWtMYzlVVzJzSmpFU0lqQXpLZE9xUkhNQ0lxTi1HT3NpVFdQX1lvSi1mRWhFdWc?oc=5)
 
 ---
 
-### [My son's symptoms were 'picky eating or teething' - then he was hours from death](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
+### [My son's symptoms were 'picky eating or teething' - then he was hours from death - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
 
 ---
 
@@ -179,22 +195,6 @@ permalink: /news/sofosbuvir/
 2026-04-19 <span class="news-indication-tag">MS</span>
 
 來源：[buchszene.de](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIX3JLU0hjZ0wzSUdXRjdMNDYwcHo4SzVzZU1YWWJZUEhVR3VyMm5RZHIxWmlFQmVvdE5HUlZ3VWFVM0p6ZEhqUy1pZXh1OWFTUzZ6aQ?oc=5)
-
----
-
-### [I feel judged parking in disabled spaces, says York man with MS - The York Press](https://news.google.com/rss/articles/CBMilwFBVV95cUxOay0wV25TNWNOQldONjMxaEkwZTlRY1JGeEphRTdROEVsdDhLM3gwZWZXbTN4dXFwaWJlX1NCOUJRbHh3LWMtalluNWNUUTJONmlOZEVJM0luUEhSRU8tQW1jcUVDVDZfdzZnX2tEYm5WRVNRYnlUc3ZVNGctZFJYbC16VHJ3aGw4NlFYRElnaU9ITk5YQTVV?oc=5)
-
-2026-04-19 <span class="news-indication-tag">MS</span>
-
-來源：[The York Press](https://news.google.com/rss/articles/CBMilwFBVV95cUxOay0wV25TNWNOQldONjMxaEkwZTlRY1JGeEphRTdROEVsdDhLM3gwZWZXbTN4dXFwaWJlX1NCOUJRbHh3LWMtalluNWNUUTJONmlOZEVJM0luUEhSRU8tQW1jcUVDVDZfdzZnX2tEYm5WRVNRYnlUc3ZVNGctZFJYbC16VHJ3aGw4NlFYRElnaU9ITk5YQTVV?oc=5)
-
----
-
-### [Woman, 22, given months to live after starting vaping at 15 - Liverpool Echo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDIycnVGYnl5Wno4WC1scDdxNHBFcVN3TURIbHZqcWdMZERsR25QYVlrVjN0VXVMUDlOSS1CS0QtbDlFOVI1QjAwbUdiUndnb1pHdWhaU3FMZzZObk12U2tBSkRHQmZMZjFEdUpYQ2hBY1M2MmQxN0UzSl9QbEltMHFKSnlnTDFtTk9RdW1QMNIBlAFBVV95cUxPWUFyaFotUzdjcGV5d0Z4LWNHRldEcFBPUEFSaUs5RHJOaS1jWUlFNlpDREtpcXYyMzdPWmtoVzh5cU5hSnBQN3NPc1VFMThpS1dyQjF3bHFRLWlYZEdzZDNXaU5DYS1VQ0sxY29feVZiOG1ySmRkRTN2V3B0eGdFeG9QU2Z1ZlYzZDNOREp5UHBvOU9T?oc=5)
-
-2026-04-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDIycnVGYnl5Wno4WC1scDdxNHBFcVN3TURIbHZqcWdMZERsR25QYVlrVjN0VXVMUDlOSS1CS0QtbDlFOVI1QjAwbUdiUndnb1pHdWhaU3FMZzZObk12U2tBSkRHQmZMZjFEdUpYQ2hBY1M2MmQxN0UzSl9QbEltMHFKSnlnTDFtTk9RdW1QMNIBlAFBVV95cUxPWUFyaFotUzdjcGV5d0Z4LWNHRldEcFBPUEFSaUs5RHJOaS1jWUlFNlpDREtpcXYyMzdPWmtoVzh5cU5hSnBQN3NPc1VFMThpS1dyQjF3bHFRLWlYZEdzZDNXaU5DYS1VQ0sxY29feVZiOG1ySmRkRTN2V3B0eGdFeG9QU2Z1ZlYzZDNOREp5UHBvOU9T?oc=5)
 
 ---
 

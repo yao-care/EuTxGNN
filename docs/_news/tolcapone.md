@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Darm-Hirn-Achse rückt in den Fokus der Medizin - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlc0S29DV1BfVFVGMTlYMlpoS2R2RTlrRFJFdFl0S2ZpTk96RFBLZzFNWFFOaHF3QU94cXlqTW5SNFQ4R3d5WHp0M2c3RjlGM0VDcEtlLXRVVFBCUl9yNW9Bc2ZmdmlZRVJhRnl3eUVicldxTE9hdi16SW9aUzd2U2RpbUtvOVhobjA5bTlwcERTRU9paVcxWXJPN2g3OWQ1UFhxLUNVNS1QUQ?oc=5)
+### [Sanidad facilita a los especialistas los contenidos de la jornada sobre Parkinson y parkinsonismos - Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nbml6aTc5NWswbmFsYzhjQ1N3NHNlYk9LTDU2WWxxS2dNekF0bm9tbjBWajVQek1XMXVzTGlsQWNTclVaTlE5QVprY1VMdlVT?oc=5)
 
-2026-04-21 <span class="news-indication-tag">Parkinson-Krankheit</span>
+2026-04-21 <span class="news-indication-tag">parkinsonism</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlc0S29DV1BfVFVGMTlYMlpoS2R2RTlrRFJFdFl0S2ZpTk96RFBLZzFNWFFOaHF3QU94cXlqTW5SNFQ4R3d5WHp0M2c3RjlGM0VDcEtlLXRVVFBCUl9yNW9Bc2ZmdmlZRVJhRnl3eUVicldxTE9hdi16SW9aUzd2U2RpbUtvOVhobjA5bTlwcERTRU9paVcxWXJPN2g3OWQ1UFhxLUNVNS1QUQ?oc=5)
+來源：[Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nbml6aTc5NWswbmFsYzhjQ1N3NHNlYk9LTDU2WWxxS2dNekF0bm9tbjBWajVQek1XMXVzTGlsQWNTclVaTlE5QVprY1VMdlVT?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ permalink: /news/tolcapone/
 2026-04-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOcl9EMVV4U082WWpyYTBUb2VhUC1ISXpfN19oQU1TZW1iUGF4LUw3bTUteW53c0xHWWRiRFg4TS1JeUttbEh3TDhFWG9DT0JVUWxRLV9yanA3NGplNzhYMjFoVzZGdGxIa0NQaXltSGNfVWJQVGlhQ3pQNFdJQ2MtUkYzT0xVOGM0bmkzQmtrOW5mRWtOdHU1R3NvMno2dw?oc=5)
-
----
-
-### [Jura. Parkinson : « Neuf ans après le diagnostic, je fais encore beaucoup de choses, mais plus lentement… » - Le Progrès](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjk5cnFtNXUtWjBCOG05YlFralEzci1saXNERVkxVWNfa3lSbVdjcXNKSjNjTTlWQmpnOEVFbXJiWDFMMEFILUdVMTdVM0l4eHFPeUgzM3pwTGxCUEEzbTY1ekY0S3RxeHpZZjJBTlF3Mi1PNEgzUlRqZS1wSHFQcUVUeUlBOU5uTjMtc1lTNXZWWUNMQ3dMQkxsTS1BVHpXaGw4RHNua2JqRkZKaHFLeXVoVzlyTjkyWl8wcklTYVBSYXJob3IzWlg4dmZDYlE?oc=5)
-
-2026-04-19 <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjk5cnFtNXUtWjBCOG05YlFralEzci1saXNERVkxVWNfa3lSbVdjcXNKSjNjTTlWQmpnOEVFbXJiWDFMMEFILUdVMTdVM0l4eHFPeUgzM3pwTGxCUEEzbTY1ekY0S3RxeHpZZjJBTlF3Mi1PNEgzUlRqZS1wSHFQcUVUeUlBOU5uTjMtc1lTNXZWWUNMQ3dMQkxsTS1BVHpXaGw4RHNua2JqRkZKaHFLeXVoVzlyTjkyWl8wcklTYVBSYXJob3IzWlg4dmZDYlE?oc=5)
 
 ---
 

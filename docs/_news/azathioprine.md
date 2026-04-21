@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="Azathioprine 有什麼相關新聞？">
-<strong>Azathioprine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Azathioprine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/azathioprine/
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Hoja de ruta para avanzar en el abordaje de enfermedad de Crohn y colitis ulcerosa - Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHYwTG5KcEQ1QnJGeE5HYllfRjZXMnRhU19fUGZiZGpyb3Z3a0o3MjR3YVBYbTNSemxsakRYM2VfYTRlODY1M3F4dEh1SldiaHcwSW5qT0VpenM3RGNrT21UektSTkl2U1JkblJvWjdBczFTZlIwb1JFNUpZQWdCVFB3Yy1wWlAtbWxLOEx4RzR3ZUJYd3lJV0stQXZCclhoZXJRZWZn0gGrAUFVX3lxTE1QNTVwQjlkMFVKVkRlaDVqLTI2ejRwTnBRVVJQRHFmU2R3QnpLMDhYSExCSF84aU5lZ3BLaGJGZlo4WmVEaDRvb2pCcExRYV9YSjZDbHZlTkRhSUlQeWI3WnoxTlU2ang2ak1QVWFfemd4WVdhdkY4U01Qb2hNek9tT1o2bUtIaVBOSU5MZUVoakFKVFNJQzRsbDNaaksyOThOVkdwTEtqWXNyRQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">enfermedad de Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHYwTG5KcEQ1QnJGeE5HYllfRjZXMnRhU19fUGZiZGpyb3Z3a0o3MjR3YVBYbTNSemxsakRYM2VfYTRlODY1M3F4dEh1SldiaHcwSW5qT0VpenM3RGNrT21UektSTkl2U1JkblJvWjdBczFTZlIwb1JFNUpZQWdCVFB3Yy1wWlAtbWxLOEx4RzR3ZUJYd3lJV0stQXZCclhoZXJRZWZn0gGrAUFVX3lxTE1QNTVwQjlkMFVKVkRlaDVqLTI2ejRwTnBRVVJQRHFmU2R3QnpLMDhYSExCSF84aU5lZ3BLaGJGZlo4WmVEaDRvb2pCcExRYV9YSjZDbHZlTkRhSUlQeWI3WnoxTlU2ang2ak1QVWFfemd4WVdhdkY4U01Qb2hNek9tT1o2bUtIaVBOSU5MZUVoakFKVFNJQzRsbDNaaksyOThOVkdwTEtqWXNyRQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

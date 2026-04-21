@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。9 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>9 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [La cara oculta de la fructosa: el exceso dispara el riesgo de sufrir distintos problemas de salud, según los expertos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb05vQjRuaDlBV1Jud1ZhclZtMk5yQi1IM0JLXzZUQTZpMW9UV2ZyckdQN0RPMGI4dDIxMnJ3elNTM0VJVGhKUEtjSU1FZHhzb2FSWl9oNk9PX2VfV2s2bHBvTVdhY01UT0Z6bXBhNERpT3p3dnNkWmEwRjB2WGtBeDNWODljTDNQc2RUOG9pYk5mNHhHYmFOaXhDS2lMUVA1andyQlJ0b3FsbGU1Q256MDhrbFc4VVBPTTNYekVKdS04TmtfaXFXRWZMOEZfUTY0dF9jQkFyUnZQYVlpeUHSAd4BQVVfeXFMUF9DaTF3ZlF4Uk9DTzBUMUJyS21KWnNaU0ZpWTA5Y2RfM3dGbWJuVXpNcHgwU2I4SjQ2bkg4MEI4N0dELXhuYzVoQ2E0ZlBfdUhRSWU2YjJqSFdjMVpBZkdXcW9KWFlIS0djX0hKcGEyUXJLZ1AwSjczQmoySlVpRFBrVmdVWUhWamJRYmkyX3RGZmppall5ZFJHOUsyYTZzQ3Y3V0pkd1hmTzJYbVQxLUNKdk5pMkVmUEJ2WUs5WE9FWmFKcGk3T3JlQ3JsU2I0amNoUXNScXBselBZbWdn?oc=5)
 
@@ -46,19 +46,11 @@ permalink: /news/obesity/
 
 ---
 
-### [El Ozempic, el aliado inesperado de los médicos en la lucha contra el hígado graso en Málaga - Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
+### [Six UPFs dietitians never give to their children, and the ones they do buy - The i Paper](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFJPVnNsSWo2N0cxTmZSTENENWU3bDExNkNObmVxR0l1RG9TRUw1NThia2w5bmhLUDlDelREVmVsY2c5MmdHWW1Td0ZWdGVpZzlFRWpuMDJDV0cxbHBERmluczE3S1hzUUhMZWRfVVFUYU5meVhUcDRRYXlib2VJYjZmTXU?oc=5)
 
-2026-04-20
+2026-04-21
 
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
-
----
-
-### [Cette quantité par jour suffit : les aliments ultra-transformés augmentent de 70% le risque d'AVC et d'infarctus](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbURSTHZNeWpySlFGRldwMlBSeVRXT2IweHZ5LTgzOFdJMC1reTFEMHlLamdicXVUQXBDQnBIM3pDUl9mRnVaQ0p3ZEgyLXY4WFpVM24yWFpBaThkdDBlSFNPcE5xdGZEaGFhNGItVVJZc04wT09LWmhtOWNsUU9QTkF1M3Z4MmhUa3RjN3JCOTFPc1I5N2c?oc=5)
-
-2026-04-20
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbURSTHZNeWpySlFGRldwMlBSeVRXT2IweHZ5LTgzOFdJMC1reTFEMHlLamdicXVUQXBDQnBIM3pDUl9mRnVaQ0p3ZEgyLXY4WFpVM24yWFpBaThkdDBlSFNPcE5xdGZEaGFhNGItVVJZc04wT09LWmhtOWNsUU9QTkF1M3Z4MmhUa3RjN3JCOTFPc1I5N2c?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFJPVnNsSWo2N0cxTmZSTENENWU3bDExNkNObmVxR0l1RG9TRUw1NThia2w5bmhLUDlDelREVmVsY2c5MmdHWW1Td0ZWdGVpZzlFRWpuMDJDV0cxbHBERmluczE3S1hzUUhMZWRfVVFUYU5meVhUcDRRYXlib2VJYjZmTXU?oc=5)
 
 ---
 

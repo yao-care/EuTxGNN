@@ -14,7 +14,7 @@ permalink: /news/chenodeoxycholic-acid/
 ---
 
 <p class="key-answer" data-question="Chenodeoxycholic Acid 有什麼相關新聞？">
-<strong>Chenodeoxycholic Acid</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Chenodeoxycholic Acid</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/chenodeoxycholic-acid/
 <p><a href="{{ '/drugs/chenodeoxycholic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（7 則）
 
-### [Multiculturalidad y diabetes - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
+### [Identifican el tipo de dieta que logra revertir la diabetes tipo 2 - La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRTBuZTdfUWRRNmI5c0lzalF3cG04dG43bHRISnNkclBZcERfb1F1RXB4bGQwenpWQnBWWF9pOGVsR2d3Y2FMZlFJUEctNTlLcHVKaXRTLV9XUzFXc2RybFN3dU1NVVhHY2E5U1pocEhhcUZxbnJ1ajE2MXg4ZW0yZVlabDFmblBnRHdySmpndEZ4NzNVMVBMd1JZVkFQLVFqRm9uTncyRUVJaWJpX0o4ei1JSDJFUGo2YnZtX0I1RHYzUdIB1gFBVV95cUxNbnJsQ2RQQWNFZ2Nja19sX1B5R1k2UlpMUkZYZ3hJYnVJcS1CSWlYWEVBYzhIY3ZBX0F5T3M3M0pCbHROdXlqSV9fWFRQNXFvNkdVRHJ2b25fczhORVA2Q3pQelByaldpUE9mZGc5d3IySXBHbjRCazRadFlHM0M3VGF3eXMtYXlQVi1xeUl0WXI2cnRvZVFlMUpyY1p5d3FPb3lkcWFsUE5jTWJRRDRoWHZwNWQxaGRicWN0cUhPak9aQWZVM04zMW5LZGlrUExvLWZ3TFRR?oc=5)
 
 2026-04-21 <span class="news-indication-tag">diabetes</span>
 
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
-
----
-
-### [El Ozempic, el aliado inesperado de los médicos en la lucha contra el hígado graso en Málaga - Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
-
-2026-04-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRTBuZTdfUWRRNmI5c0lzalF3cG04dG43bHRISnNkclBZcERfb1F1RXB4bGQwenpWQnBWWF9pOGVsR2d3Y2FMZlFJUEctNTlLcHVKaXRTLV9XUzFXc2RybFN3dU1NVVhHY2E5U1pocEhhcUZxbnJ1ajE2MXg4ZW0yZVlabDFmblBnRHdySmpndEZ4NzNVMVBMd1JZVkFQLVFqRm9uTncyRUVJaWJpX0o4ei1JSDJFUGo2YnZtX0I1RHYzUdIB1gFBVV95cUxNbnJsQ2RQQWNFZ2Nja19sX1B5R1k2UlpMUkZYZ3hJYnVJcS1CSWlYWEVBYzhIY3ZBX0F5T3M3M0pCbHROdXlqSV9fWFRQNXFvNkdVRHJ2b25fczhORVA2Q3pQelByaldpUE9mZGc5d3IySXBHbjRCazRadFlHM0M3VGF3eXMtYXlQVi1xeUl0WXI2cnRvZVFlMUpyY1p5d3FPb3lkcWFsUE5jTWJRRDRoWHZwNWQxaGRicWN0cUhPak9aQWZVM04zMW5LZGlrUExvLWZ3TFRR?oc=5)
 
 ---
 
@@ -83,38 +75,6 @@ permalink: /news/chenodeoxycholic-acid/
 2026-04-20 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Montagne](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZkduVmZJQmRYaUJNc2cxUm9hdVF2blM4MklMNkdsZ2k5OHo3NHp6R3MtNWVkWkxTMDhSQy1raXZQY1A2VEttWDdHcmlRTllwWURXcmhpN1ZBTUJUenpNWDhrbjdaZjJ4OHJrbEZVTnRrWHlDWTdqNHhfc25sci1sXzlVc1BSQlYzS0ltVHBoQm9lcXQ0clZhbW56Uk1MNmlCVDhpb3dScUZvVUFVYlB3TlUySDZYM1Y0MkZndXlpU2dtak1vNlF0MW9uT2dTWURDdnZsZ2ZGcDhkWDdGOXVNM2NnVElXalo4ZHc?oc=5)
-
----
-
-### [Detección precoz diabetes tipo 1 el gran cambio - Canal Diabetes](https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEZ0cEpHcWJXVFhqTVllUzBqVzU4RVJYaG1fUjBJbFh4NjFHUnItMmpOWVZ0SkFmLUcya2hwN0VKcUZSUkZpVnBvX3M3YXlNYUozRjFrYmtIazJYLVZVcHhmUXAtanFpNlZZ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZNEZ0cEpHcWJXVFhqTVllUzBqVzU4RVJYaG1fUjBJbFh4NjFHUnItMmpOWVZ0SkFmLUcya2hwN0VKcUZSUkZpVnBvX3M3YXlNYUozRjFrYmtIazJYLVZVcHhmUXAtanFpNlZZ?oc=5)
-
----
-
-### [Diabetes y enfermedad periodontal: una relación bidireccional clave para la práctica clínica - Gaceta Dental](https://news.google.com/rss/articles/CBMikgFBVV95cUxQdElyalBoLWlvcFBkUGJwUHQxN3RiZEc0NUZpd0NqTkZVNkVETklQT2NTRHdpUHRLUXNndjRBaUlMeGxJVHlQdWlldlkxai1kbzhvX3JUOEVhYzBkME5UcU5yNWxOOERvYlk4bmJRcG9nNHFpRnJTT2pISW51Uk80TlRvaC1yR1N6cW5qQUlvMUxLUQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta Dental](https://news.google.com/rss/articles/CBMikgFBVV95cUxQdElyalBoLWlvcFBkUGJwUHQxN3RiZEc0NUZpd0NqTkZVNkVETklQT2NTRHdpUHRLUXNndjRBaUlMeGxJVHlQdWlldlkxai1kbzhvX3JUOEVhYzBkME5UcU5yNWxOOERvYlk4bmJRcG9nNHFpRnJTT2pISW51Uk80TlRvaC1yR1N6cW5qQUlvMUxLUQ?oc=5)
-
----
-
-### [Primer caso de ‘curación’ del VIH con un trasplante de células madre de un hermano](https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlRydGhkdy1qNlBCZWFySnhCeG9hbGFLc2IyYWwwSnBHYzlaV1gwNFptODFkQjhIUmQyb0tDRzBSbjNFdXU5Ynk5TVFsS1lON3NLQ1QwLTBCYlhoZGNrOS1ETTk0U0xIM1JEbzBKOHpIZHBiSjFack1VbEdsVjBZOUJkWklRUS1tM0twMTdaVE9WQQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[Radiocable.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlRydGhkdy1qNlBCZWFySnhCeG9hbGFLc2IyYWwwSnBHYzlaV1gwNFptODFkQjhIUmQyb0tDRzBSbjNFdXU5Ynk5TVFsS1lON3NLQ1QwLTBCYlhoZGNrOS1ETTk0U0xIM1JEbzBKOHpIZHBiSjFack1VbEdsVjBZOUJkWklRUS1tM0twMTdaVE9WQQ?oc=5)
-
----
-
-### [Advierten de las limitaciones de las escalas clásicas de predicción del riesgo cardiovascular asociado a diabetes - El médico interactivo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVhtdVpBcVhFT3oyR1BFdkV6LWFtR0xTTkx1NnBza1psUzZ3Q1lVQ2VCbEt1YXJlUXZFdHk5ZVdRWTNSQ2xWeFBxRmF3TkJvOF85dko4TEgxYXhObXFlVjZPVUJhWWIxY19pS3ZuNUltUU9nbDhqLUxQZkQtZjBodWVSRUJqMEl5ekV0aDhBOGxIWDRtS2VKelpSTThJZnRvSjFqQzF1dGJGdw?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVhtdVpBcVhFT3oyR1BFdkV6LWFtR0xTTkx1NnBza1psUzZ3Q1lVQ2VCbEt1YXJlUXZFdHk5ZVdRWTNSQ2xWeFBxRmF3TkJvOF85dko4TEgxYXhObXFlVjZPVUJhWWIxY19pS3ZuNUltUU9nbDhqLUxQZkQtZjBodWVSRUJqMEl5ekV0aDhBOGxIWDRtS2VKelpSTThJZnRvSjFqQzF1dGJGdw?oc=5)
 
 ---
 
@@ -142,11 +102,11 @@ permalink: /news/chenodeoxycholic-acid/
 
 ---
 
-### [I’m a diabetes doctor — follow these 3 steps to put Type 2 into remission - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
+### [People with diabetes to receive specialist mental health support in UK first](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVFkUFRybEswYktwWUNRdzBsVlJRelc5LURQNzgxMEYtejk1LVlTdGVpMmNPaFFSbmZlUUxFdWlIYUd2UjJrYXZZMHFWeFl1VU94aXpFWVQxeTZqNHNnbnB3UVNxdTFpT3BuNk1MS3ZuYVRMekFCUFB6SkROWXJGZ092WlI5R1hZLUFXeWFCS2wyejk2ZlJmZmlfWWZrYWNaZ3laMGdtNWNfbXRjbHpJQmprdGZabm5EeU91RkdyRQ?oc=5)
 
-2026-04-19 <span class="news-indication-tag">diabetes</span>
+2026-04-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
+來源：[diabetes.co.uk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVFkUFRybEswYktwWUNRdzBsVlJRelc5LURQNzgxMEYtejk1LVlTdGVpMmNPaFFSbmZlUUxFdWlIYUd2UjJrYXZZMHFWeFl1VU94aXpFWVQxeTZqNHNnbnB3UVNxdTFpT3BuNk1MS3ZuYVRMekFCUFB6SkROWXJGZ092WlI5R1hZLUFXeWFCS2wyejk2ZlJmZmlfWWZrYWNaZ3laMGdtNWNfbXRjbHpJQmprdGZabm5EeU91RkdyRQ?oc=5)
 
 ---
 
