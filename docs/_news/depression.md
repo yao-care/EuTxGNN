@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [¿El cerebro de hombres y mujeres funciona distinto? - Vida y Salud](https://news.google.com/rss/articles/CBMifEFVX3lxTE15bF9EazBnUjBxS1g4QnRTaWEyRXAyT0drSjJkeFlMcUVGVmdFYzBIVm1rY21mWWxIRXk4MXRxSE8wTk5mU2Rfb3ZhYnNqM3ZJemxFMS1JcUVVUkpEUWhrRDNfanF0Nzh0X3NaZFB1cnJXaEhKYlRiUWRzcU8?oc=5)
-
-2026-04-20
-
-來源：[Vida y Salud](https://news.google.com/rss/articles/CBMifEFVX3lxTE15bF9EazBnUjBxS1g4QnRTaWEyRXAyT0drSjJkeFlMcUVGVmdFYzBIVm1rY21mWWxIRXk4MXRxSE8wTk5mU2Rfb3ZhYnNqM3ZJemxFMS1JcUVVUkpEUWhrRDNfanF0Nzh0X3NaZFB1cnJXaEhKYlRiUWRzcU8?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [El trauma infantil aumenta un 66% el riesgo de trastornos de ansiedad y depresión en la etapa adulta](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmo1M2lyN2lSbi1QYVh5TFB5bG1kS1FBZzB2RlFEcnNfa1JNLWtoanlpdWlXTkZQdEpQcVItc3RZelNLa3QzUkYzc0l3Y0Q2WHREcGE0clc0NnFtMXhKQkxEcndEY1dTY0lrQ05oSU8xWkdLdE54NVVlOTJPd3FsQVhlbXJpZmgxU0xvMzg3SnpSTHhaQVNhb1RSMlRpSmFWRjlHNFRUQWVpWmZRaWI2UkVTRlAxU3BkSmlLaWsyb2k?oc=5)
 

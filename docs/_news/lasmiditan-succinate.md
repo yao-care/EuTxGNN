@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [La cara oculta de la fructosa: el exceso dispara el riesgo de sufrir distintos problemas de salud, según los expertos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb05vQjRuaDlBV1Jud1ZhclZtMk5yQi1IM0JLXzZUQTZpMW9UV2ZyckdQN0RPMGI4dDIxMnJ3elNTM0VJVGhKUEtjSU1FZHhzb2FSWl9oNk9PX2VfV2s2bHBvTVdhY01UT0Z6bXBhNERpT3p3dnNkWmEwRjB2WGtBeDNWODljTDNQc2RUOG9pYk5mNHhHYmFOaXhDS2lMUVA1andyQlJ0b3FsbGU1Q256MDhrbFc4VVBPTTNYekVKdS04TmtfaXFXRWZMOEZfUTY0dF9jQkFyUnZQYVlpeUHSAd4BQVVfeXFMUF9DaTF3ZlF4Uk9DTzBUMUJyS21KWnNaU0ZpWTA5Y2RfM3dGbWJuVXpNcHgwU2I4SjQ2bkg4MEI4N0dELXhuYzVoQ2E0ZlBfdUhRSWU2YjJqSFdjMVpBZkdXcW9KWFlIS0djX0hKcGEyUXJLZ1AwSjczQmoySlVpRFBrVmdVWUhWamJRYmkyX3RGZmppall5ZFJHOUsyYTZzQ3Y3V0pkd1hmTzJYbVQxLUNKdk5pMkVmUEJ2WUs5WE9FWmFKcGk3T3JlQ3JsU2I0amNoUXNScXBselBZbWdn?oc=5)
+
+2026-04-21 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[MARCA](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb05vQjRuaDlBV1Jud1ZhclZtMk5yQi1IM0JLXzZUQTZpMW9UV2ZyckdQN0RPMGI4dDIxMnJ3elNTM0VJVGhKUEtjSU1FZHhzb2FSWl9oNk9PX2VfV2s2bHBvTVdhY01UT0Z6bXBhNERpT3p3dnNkWmEwRjB2WGtBeDNWODljTDNQc2RUOG9pYk5mNHhHYmFOaXhDS2lMUVA1andyQlJ0b3FsbGU1Q256MDhrbFc4VVBPTTNYekVKdS04TmtfaXFXRWZMOEZfUTY0dF9jQkFyUnZQYVlpeUHSAd4BQVVfeXFMUF9DaTF3ZlF4Uk9DTzBUMUJyS21KWnNaU0ZpWTA5Y2RfM3dGbWJuVXpNcHgwU2I4SjQ2bkg4MEI4N0dELXhuYzVoQ2E0ZlBfdUhRSWU2YjJqSFdjMVpBZkdXcW9KWFlIS0djX0hKcGEyUXJLZ1AwSjczQmoySlVpRFBrVmdVWUhWamJRYmkyX3RGZmppall5ZFJHOUsyYTZzQ3Y3V0pkd1hmTzJYbVQxLUNKdk5pMkVmUEJ2WUs5WE9FWmFKcGk3T3JlQ3JsU2I0amNoUXNScXBselBZbWdn?oc=5)
+
+---
 
 ### [El Ozempic, el aliado inesperado de los médicos en la lucha contra el hígado graso en Málaga - Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
 
 2026-04-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
+
+---
+
+### [Cette quantité par jour suffit : les aliments ultra-transformés augmentent de 70% le risque d'AVC et d'infarctus](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbURSTHZNeWpySlFGRldwMlBSeVRXT2IweHZ5LTgzOFdJMC1reTFEMHlLamdicXVUQXBDQnBIM3pDUl9mRnVaQ0p3ZEgyLXY4WFpVM24yWFpBaThkdDBlSFNPcE5xdGZEaGFhNGItVVJZc04wT09LWmhtOWNsUU9QTkF1M3Z4MmhUa3RjN3JCOTFPc1I5N2c?oc=5)
+
+2026-04-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbURSTHZNeWpySlFGRldwMlBSeVRXT2IweHZ5LTgzOFdJMC1reTFEMHlLamdicXVUQXBDQnBIM3pDUl9mRnVaQ0p3ZEgyLXY4WFpVM24yWFpBaThkdDBlSFNPcE5xdGZEaGFhNGItVVJZc04wT09LWmhtOWNsUU9QTkF1M3Z4MmhUa3RjN3JCOTFPc1I5N2c?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ permalink: /news/lasmiditan-succinate/
 2026-04-20 <span class="news-indication-tag">overweight</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVG5ZSDRhTS1VXzB2eldBY1lqVnR6aXVFVGlzOTZ5T1RtRTVWaWVYSWV0akdRWHlxNG1nWDY3NHJmMXNfeWlmU2RYaUdHaEpsT0tOMVdnRXNJVm5PdnBJOXBVQjJDTGdRd0xTQXJ0UGhsSldUVVV5a2EwMkdQM3ptZWpQaGxTRXVURDhpMEg3RnJCdUtOaG02TXRNbEpJMlBTVFhjMlVzLWRURjBndnc5MFdTd3VuaGc?oc=5)
-
----
-
-### [Neue Leitlinien zur Behandlung von Fettleibigkeit und Lebererkrankungen](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk1rR2g2ZW9vZkZzWGxTY19pV0lUQXY2NWV1dEN5S0NRQVFwYWQzNUVmN2dfMF9fVVdzNXNQVzg0MGJPV2E3bjFrTkxhMG5xaDlKQTh5UU9kOHVpdXFrVGtCX2JhZ0E3YTBxY0ZqbmxzN29JZzlBYVdYS1A1OWJjT0dxMXQybUpMckNDR0d6Y3Y5UnR3UGx5YVV1TW82dVdVb205TWJn?oc=5)
-
-2026-04-19 <span class="news-indication-tag">Fettleibigkeit</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUk1rR2g2ZW9vZkZzWGxTY19pV0lUQXY2NWV1dEN5S0NRQVFwYWQzNUVmN2dfMF9fVVdzNXNQVzg0MGJPV2E3bjFrTkxhMG5xaDlKQTh5UU9kOHVpdXFrVGtCX2JhZ0E3YTBxY0ZqbmxzN29JZzlBYVdYS1A1OWJjT0dxMXQybUpMckNDR0d6Y3Y5UnR3UGx5YVV1TW82dVdVb205TWJn?oc=5)
 
 ---
 

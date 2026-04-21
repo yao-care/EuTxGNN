@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [¿El cerebro de hombres y mujeres funciona distinto? - Vida y Salud](https://news.google.com/rss/articles/CBMifEFVX3lxTE15bF9EazBnUjBxS1g4QnRTaWEyRXAyT0drSjJkeFlMcUVGVmdFYzBIVm1rY21mWWxIRXk4MXRxSE8wTk5mU2Rfb3ZhYnNqM3ZJemxFMS1JcUVVUkpEUWhrRDNfanF0Nzh0X3NaZFB1cnJXaEhKYlRiUWRzcU8?oc=5)
-
-2026-04-20 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span>
-
-來源：[Vida y Salud](https://news.google.com/rss/articles/CBMifEFVX3lxTE15bF9EazBnUjBxS1g4QnRTaWEyRXAyT0drSjJkeFlMcUVGVmdFYzBIVm1rY21mWWxIRXk4MXRxSE8wTk5mU2Rfb3ZhYnNqM3ZJemxFMS1JcUVVUkpEUWhrRDNfanF0Nzh0X3NaZFB1cnJXaEhKYlRiUWRzcU8?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [El trauma infantil aumenta un 66% el riesgo de trastornos de ansiedad y depresión en la etapa adulta](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmo1M2lyN2lSbi1QYVh5TFB5bG1kS1FBZzB2RlFEcnNfa1JNLWtoanlpdWlXTkZQdEpQcVItc3RZelNLa3QzUkYzc0l3Y0Q2WHREcGE0clc0NnFtMXhKQkxEcndEY1dTY0lrQ05oSU8xWkdLdE54NVVlOTJPd3FsQVhlbXJpZmgxU0xvMzg3SnpSTHhaQVNhb1RSMlRpSmFWRjlHNFRUQWVpWmZRaWI2UkVTRlAxU3BkSmlLaWsyb2k?oc=5)
 

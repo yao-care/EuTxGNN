@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Multiculturalidad y diabetes - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
+
+---
 
 ### [El Ozempic, el aliado inesperado de los médicos en la lucha contra el hígado graso en Málaga - Diario Sur](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVMteDJkNkhLYWtRcmltQ0dWWTVDeHpKX19HdXBmc3lmbW5naEltSUowcEJKVzludkJBWDkzN3JNMHFJQ0hWODVWdXFKZGxSVTl2ZXIzWU5pVDVXM0hJMjkzdHhWRF94R1hpWUhPUUJxb21wSUxpYk5YLW5MMk9BWHAzek93S2c1a1A2ZEliWUF0NEJhUVhfUTBzUmpTYUZHS2tNbDZTRdIBrAFBVV95cUxPLTRBbjAyY0FqSzliUmVUaTlGTW1oeXpwMEJZWUhSTG01ZmxDZ2xzSHBISi1pVDJES01MOGQxNE5FX0dpMHpiSG1YSnlxMElENkp5QVVXR0pCZk9TOVlVVHhacjhuTW1kRFpwam5WSUkyWDFJaHhqSkQxSnN6Uzl6N2VaUV92X0NnZDdoSjFtb19VRHprcGJvOE53VjVYeXhFclFBVDlWcER5OGEx?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Diabetes-Versorgung setzt auf Ganzkörper-Risikobewertung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWZycXBmZE5kMWNmOTJ6Q29DTDJOaDhYdGtPdFFoZnRaakpEekUxNmNxRmtMdXFFeW0wX09IS1NRWmk2RkdaNG5Qd1NpcGwtc2tWNDNhX2tTWTJOdC1MYkozRXR5TldFSkxTOU1QX1NqR2RIYU80M3NJaGFYRmkwUnpEX0JDVWdWWHlWTlNWUlhYcDFINmg3RGxaYnhhLVY3OWd5R2VWNUVIUkpMdUxWcTgyMmxzNWM?oc=5)
+### [Ganzheitliche Risikobewertung in der Diabetes-Versorgung - it boltwise](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkJkbWVjcnVyNXVTSU5yTy1NOEZ4WWJKWm5VOUx3blhJOThFVGdLR0VjQzBiSkd5dTZGRWZDMlk5ZGJqNmVfVVYxQkRIcjAzWUFYVUcyWXdmTXNEWEp5TUJvVENmTkN4Nk1nOTF3dGJLd295YjZ4eDctNGU2d0dnRXVoVmZnMHFsZnQ0SXNYZjJmQQ?oc=5)
 
 2026-04-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWZycXBmZE5kMWNmOTJ6Q29DTDJOaDhYdGtPdFFoZnRaakpEekUxNmNxRmtMdXFFeW0wX09IS1NRWmk2RkdaNG5Qd1NpcGwtc2tWNDNhX2tTWTJOdC1MYkozRXR5TldFSkxTOU1QX1NqR2RIYU80M3NJaGFYRmkwUnpEX0JDVWdWWHlWTlNWUlhYcDFINmg3RGxaYnhhLVY3OWd5R2VWNUVIUkpMdUxWcTgyMmxzNWM?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkJkbWVjcnVyNXVTSU5yTy1NOEZ4WWJKWm5VOUx3blhJOThFVGdLR0VjQzBiSkd5dTZGRWZDMlk5ZGJqNmVfVVYxQkRIcjAzWUFYVUcyWXdmTXNEWEp5TUJvVENmTkN4Nk1nOTF3dGJLd295YjZ4eDctNGU2d0dnRXVoVmZnMHFsZnQ0SXNYZjJmQQ?oc=5)
 
 ---
 
@@ -94,6 +102,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Primer caso de ‘curación’ del VIH con un trasplante de células madre de un hermano](https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlRydGhkdy1qNlBCZWFySnhCeG9hbGFLc2IyYWwwSnBHYzlaV1gwNFptODFkQjhIUmQyb0tDRzBSbjNFdXU5Ynk5TVFsS1lON3NLQ1QwLTBCYlhoZGNrOS1ETTk0U0xIM1JEbzBKOHpIZHBiSjFack1VbEdsVjBZOUJkWklRUS1tM0twMTdaVE9WQQ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Radiocable.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlRydGhkdy1qNlBCZWFySnhCeG9hbGFLc2IyYWwwSnBHYzlaV1gwNFptODFkQjhIUmQyb0tDRzBSbjNFdXU5Ynk5TVFsS1lON3NLQ1QwLTBCYlhoZGNrOS1ETTk0U0xIM1JEbzBKOHpIZHBiSjFack1VbEdsVjBZOUJkWklRUS1tM0twMTdaVE9WQQ?oc=5)
+
+---
+
 ### [Advierten de las limitaciones de las escalas clásicas de predicción del riesgo cardiovascular asociado a diabetes - El médico interactivo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVhtdVpBcVhFT3oyR1BFdkV6LWFtR0xTTkx1NnBza1psUzZ3Q1lVQ2VCbEt1YXJlUXZFdHk5ZVdRWTNSQ2xWeFBxRmF3TkJvOF85dko4TEgxYXhObXFlVjZPVUJhWWIxY19pS3ZuNUltUU9nbDhqLUxQZkQtZjBodWVSRUJqMEl5ekV0aDhBOGxIWDRtS2VKelpSTThJZnRvSjFqQzF1dGJGdw?oc=5)
 
 2026-04-20 <span class="news-indication-tag">diabetes</span>
@@ -110,11 +126,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Diabetes und Schilddrüse: Neue Leitlinien fordern engere Kontrolle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW9iTExHdGNzT3JROXZFMHJsQnhGcUJFT0FvWHBic3lWNTVrRjN2S0NsSWU4Nzh0dUZhaDNvWFJCRmZQZWRENVhwajgwTVhwRzdIU0s0MUlBTF9KNEtlVTNSRUFWeTU2UnBmYnhxWGlpUV93XzhjcTktTlh5eFNLczFHRXMzblFOX29MOXBuLUlpUTNucFdOUFhxU2xQM3dvM3RzQ3dVM19nV0d1ZVRHS0NIM2JOU1E1dHRBMkxpRkpWUEU?oc=5)
+### [Neue Leitlinien zur Schilddrüsenkontrolle bei Typ-1-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxORlZMSDgya3pST1VTMUt1dXFQNGQ0bFJ2Q1BSZjNLR3hscHNwN194OGNoOHpOX08yNmU5X3BhbEl4MTNDWDZoek5EX2dLcFNiMWhnclQ4MmpMU3VGaVVyUmpESThKTEpGNGlrM3pSbElIVWY3ZUoxSm5FdUxoX3JkcFA3cVAyZE8wS01kX2JicTdFQk5fR2U3Yg?oc=5)
 
 2026-04-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW9iTExHdGNzT3JROXZFMHJsQnhGcUJFT0FvWHBic3lWNTVrRjN2S0NsSWU4Nzh0dUZhaDNvWFJCRmZQZWRENVhwajgwTVhwRzdIU0s0MUlBTF9KNEtlVTNSRUFWeTU2UnBmYnhxWGlpUV93XzhjcTktTlh5eFNLczFHRXMzblFOX29MOXBuLUlpUTNucFdOUFhxU2xQM3dvM3RzQ3dVM19nV0d1ZVRHS0NIM2JOU1E1dHRBMkxpRkpWUEU?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxORlZMSDgya3pST1VTMUt1dXFQNGQ0bFJ2Q1BSZjNLR3hscHNwN194OGNoOHpOX08yNmU5X3BhbEl4MTNDWDZoek5EX2dLcFNiMWhnclQ4MmpMU3VGaVVyUmpESThKTEpGNGlrM3pSbElIVWY3ZUoxSm5FdUxoX3JkcFA3cVAyZE8wS01kX2JicTdFQk5fR2U3Yg?oc=5)
 
 ---
 
@@ -131,14 +147,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
-
----
-
-### ["It's often infected with a parasite, which can be transmitted to humans. Untreated, it can lead to heart failure, damage to the nervous system and death.." - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1Vza1IyMlduLVBuRTBFRERKcE5KNVE1b3dlTUJWdi1DLTByZktSLVZfWkNOT1piX09DdU5kUVBkaVNEbC0xTU1lcEhWMGxpS3J5M3FCSTJUMXdWZkdSXzh3MUZBai1LaDFYaGlhRVpDdEVSMzJTemUzSFNrVk9HVXhYNjVMQQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">heart failure</span>
-
-來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1Vza1IyMlduLVBuRTBFRERKcE5KNVE1b3dlTUJWdi1DLTByZktSLVZfWkNOT1piX09DdU5kUVBkaVNEbC0xTU1lcEhWMGxpS3J5M3FCSTJUMXdWZkdSXzh3MUZBai1LaDFYaGlhRVpDdEVSMzJTemUzSFNrVk9HVXhYNjVMQQ?oc=5)
 
 ---
 

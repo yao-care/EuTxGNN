@@ -54,19 +54,19 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（2 則）
 
+### [Cette quantité par jour suffit : les aliments ultra-transformés augmentent de 70% le risque d'AVC et d'infarctus](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbURSTHZNeWpySlFGRldwMlBSeVRXT2IweHZ5LTgzOFdJMC1reTFEMHlLamdicXVUQXBDQnBIM3pDUl9mRnVaQ0p3ZEgyLXY4WFpVM24yWFpBaThkdDBlSFNPcE5xdGZEaGFhNGItVVJZc04wT09LWmhtOWNsUU9QTkF1M3Z4MmhUa3RjN3JCOTFPc1I5N2c?oc=5)
+
+2026-04-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbURSTHZNeWpySlFGRldwMlBSeVRXT2IweHZ5LTgzOFdJMC1reTFEMHlLamdicXVUQXBDQnBIM3pDUl9mRnVaQ0p3ZEgyLXY4WFpVM24yWFpBaThkdDBlSFNPcE5xdGZEaGFhNGItVVJZc04wT09LWmhtOWNsUU9QTkF1M3Z4MmhUa3RjN3JCOTFPc1I5N2c?oc=5)
+
+---
+
 ### [7 dos and dont’s when you spot someone having a stroke - The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDJmVmN1MUJfc2k0LUpNejZvY0t6blgwZUxjSmNKZjJ2VDhjRklVemdsNll4UGxGSWN3NVhOSjU0V1YzaUdUR2gwYW01Rl9ZWll6MjRjRHlsWGY1STV1cTh3QmFuZmo2alhEalFGWHVDMFFDd3U4aFdDekxTeFFHVkpJeFJ4bDZINDJxcG9QdFV6Z0ltWXVPTw?oc=5)
 
 2026-04-20 <span class="news-indication-tag">stroke</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDJmVmN1MUJfc2k0LUpNejZvY0t6blgwZUxjSmNKZjJ2VDhjRklVemdsNll4UGxGSWN3NVhOSjU0V1YzaUdUR2gwYW01Rl9ZWll6MjRjRHlsWGY1STV1cTh3QmFuZmo2alhEalFGWHVDMFFDd3U4aFdDekxTeFFHVkpJeFJ4bDZINDJxcG9QdFV6Z0ltWXVPTw?oc=5)
-
----
-
-### ["It's often infected with a parasite, which can be transmitted to humans. Untreated, it can lead to heart failure, damage to the nervous system and death.." - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1Vza1IyMlduLVBuRTBFRERKcE5KNVE1b3dlTUJWdi1DLTByZktSLVZfWkNOT1piX09DdU5kUVBkaVNEbC0xTU1lcEhWMGxpS3J5M3FCSTJUMXdWZkdSXzh3MUZBai1LaDFYaGlhRVpDdEVSMzJTemUzSFNrVk9HVXhYNjVMQQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">heart failure</span>
-
-來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1Vza1IyMlduLVBuRTBFRERKcE5KNVE1b3dlTUJWdi1DLTByZktSLVZfWkNOT1piX09DdU5kUVBkaVNEbC0xTU1lcEhWMGxpS3J5M3FCSTJUMXdWZkdSXzh3MUZBai1LaDFYaGlhRVpDdEVSMzJTemUzSFNrVk9HVXhYNjVMQQ?oc=5)
 
 ---
 

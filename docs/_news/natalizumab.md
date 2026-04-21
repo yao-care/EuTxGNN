@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [Multiculturalidad y diabetes - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
+
+---
 
 ### [Aktualisierte COPD-Leitlinie empfiehlt Atemphysiotherapie - up|unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Diabetes-Versorgung setzt auf Ganzkörper-Risikobewertung - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWZycXBmZE5kMWNmOTJ6Q29DTDJOaDhYdGtPdFFoZnRaakpEekUxNmNxRmtMdXFFeW0wX09IS1NRWmk2RkdaNG5Qd1NpcGwtc2tWNDNhX2tTWTJOdC1MYkozRXR5TldFSkxTOU1QX1NqR2RIYU80M3NJaGFYRmkwUnpEX0JDVWdWWHlWTlNWUlhYcDFINmg3RGxaYnhhLVY3OWd5R2VWNUVIUkpMdUxWcTgyMmxzNWM?oc=5)
+### [Ganzheitliche Risikobewertung in der Diabetes-Versorgung - it boltwise](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkJkbWVjcnVyNXVTSU5yTy1NOEZ4WWJKWm5VOUx3blhJOThFVGdLR0VjQzBiSkd5dTZGRWZDMlk5ZGJqNmVfVVYxQkRIcjAzWUFYVUcyWXdmTXNEWEp5TUJvVENmTkN4Nk1nOTF3dGJLd295YjZ4eDctNGU2d0dnRXVoVmZnMHFsZnQ0SXNYZjJmQQ?oc=5)
 
 2026-04-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWZycXBmZE5kMWNmOTJ6Q29DTDJOaDhYdGtPdFFoZnRaakpEekUxNmNxRmtMdXFFeW0wX09IS1NRWmk2RkdaNG5Qd1NpcGwtc2tWNDNhX2tTWTJOdC1MYkozRXR5TldFSkxTOU1QX1NqR2RIYU80M3NJaGFYRmkwUnpEX0JDVWdWWHlWTlNWUlhYcDFINmg3RGxaYnhhLVY3OWd5R2VWNUVIUkpMdUxWcTgyMmxzNWM?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkJkbWVjcnVyNXVTSU5yTy1NOEZ4WWJKWm5VOUx3blhJOThFVGdLR0VjQzBiSkd5dTZGRWZDMlk5ZGJqNmVfVVYxQkRIcjAzWUFYVUcyWXdmTXNEWEp5TUJvVENmTkN4Nk1nOTF3dGJLd295YjZ4eDctNGU2d0dnRXVoVmZnMHFsZnQ0SXNYZjJmQQ?oc=5)
 
 ---
 
@@ -102,6 +110,14 @@ permalink: /news/natalizumab/
 
 ---
 
+### [Primer caso de ‘curación’ del VIH con un trasplante de células madre de un hermano](https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlRydGhkdy1qNlBCZWFySnhCeG9hbGFLc2IyYWwwSnBHYzlaV1gwNFptODFkQjhIUmQyb0tDRzBSbjNFdXU5Ynk5TVFsS1lON3NLQ1QwLTBCYlhoZGNrOS1ETTk0U0xIM1JEbzBKOHpIZHBiSjFack1VbEdsVjBZOUJkWklRUS1tM0twMTdaVE9WQQ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[Radiocable.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlRydGhkdy1qNlBCZWFySnhCeG9hbGFLc2IyYWwwSnBHYzlaV1gwNFptODFkQjhIUmQyb0tDRzBSbjNFdXU5Ynk5TVFsS1lON3NLQ1QwLTBCYlhoZGNrOS1ETTk0U0xIM1JEbzBKOHpIZHBiSjFack1VbEdsVjBZOUJkWklRUS1tM0twMTdaVE9WQQ?oc=5)
+
+---
+
 ### [Advierten de las limitaciones de las escalas clásicas de predicción del riesgo cardiovascular asociado a diabetes - El médico interactivo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVhtdVpBcVhFT3oyR1BFdkV6LWFtR0xTTkx1NnBza1psUzZ3Q1lVQ2VCbEt1YXJlUXZFdHk5ZVdRWTNSQ2xWeFBxRmF3TkJvOF85dko4TEgxYXhObXFlVjZPVUJhWWIxY19pS3ZuNUltUU9nbDhqLUxQZkQtZjBodWVSRUJqMEl5ekV0aDhBOGxIWDRtS2VKelpSTThJZnRvSjFqQzF1dGJGdw?oc=5)
 
 2026-04-20 <span class="news-indication-tag">diabetes</span>
@@ -118,11 +134,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Diabetes und Schilddrüse: Neue Leitlinien fordern engere Kontrolle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW9iTExHdGNzT3JROXZFMHJsQnhGcUJFT0FvWHBic3lWNTVrRjN2S0NsSWU4Nzh0dUZhaDNvWFJCRmZQZWRENVhwajgwTVhwRzdIU0s0MUlBTF9KNEtlVTNSRUFWeTU2UnBmYnhxWGlpUV93XzhjcTktTlh5eFNLczFHRXMzblFOX29MOXBuLUlpUTNucFdOUFhxU2xQM3dvM3RzQ3dVM19nV0d1ZVRHS0NIM2JOU1E1dHRBMkxpRkpWUEU?oc=5)
+### [Neue Leitlinien zur Schilddrüsenkontrolle bei Typ-1-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxORlZMSDgya3pST1VTMUt1dXFQNGQ0bFJ2Q1BSZjNLR3hscHNwN194OGNoOHpOX08yNmU5X3BhbEl4MTNDWDZoek5EX2dLcFNiMWhnclQ4MmpMU3VGaVVyUmpESThKTEpGNGlrM3pSbElIVWY3ZUoxSm5FdUxoX3JkcFA3cVAyZE8wS01kX2JicTdFQk5fR2U3Yg?oc=5)
 
 2026-04-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW9iTExHdGNzT3JROXZFMHJsQnhGcUJFT0FvWHBic3lWNTVrRjN2S0NsSWU4Nzh0dUZhaDNvWFJCRmZQZWRENVhwajgwTVhwRzdIU0s0MUlBTF9KNEtlVTNSRUFWeTU2UnBmYnhxWGlpUV93XzhjcTktTlh5eFNLczFHRXMzblFOX29MOXBuLUlpUTNucFdOUFhxU2xQM3dvM3RzQ3dVM19nV0d1ZVRHS0NIM2JOU1E1dHRBMkxpRkpWUEU?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxORlZMSDgya3pST1VTMUt1dXFQNGQ0bFJ2Q1BSZjNLR3hscHNwN194OGNoOHpOX08yNmU5X3BhbEl4MTNDWDZoek5EX2dLcFNiMWhnclQ4MmpMU3VGaVVyUmpESThKTEpGNGlrM3pSbElIVWY3ZUoxSm5FdUxoX3JkcFA3cVAyZE8wS01kX2JicTdFQk5fR2U3Yg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,33 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
 
-### [Mum's brain cancer symptoms dismissed as 'stress'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHSm95OXNIQ1RPLVAxWjRpLUJ2dWU0aGRQQ1BJOW1tTGFXRFpLTmJWcXhmdk0xdUVER1ZPc2NSTGNFM3ZEYk5EckVhajNsQmlnNFF2d1Ztb2tETHhk?oc=5)
+### [Langsamer altern – Studie misst verblüffenden Anti-Aging-Effekt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEtvOVIwQUh3b2lTZmtXVlJQZkdGQjMxelpXQ0p5VVJfbnIxNlJFdkJWbGl3QkZKM2hyVTNjLWdLUEVTOHRXWjlKeFdhVXBEaDdQMDZ0TzBmbWlwZk5BT3doX2ZKN0NqQkF1SFBTdXo1UkFpU1hWNkl5SmRfQjZSSlRSblJuYkNQNC1qRVIxS1Job2NNbnRsRThLS1FRaGlFaURma3pCc2M?oc=5)
+
+2026-04-21 <span class="news-indication-tag">MS</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEtvOVIwQUh3b2lTZmtXVlJQZkdGQjMxelpXQ0p5VVJfbnIxNlJFdkJWbGl3QkZKM2hyVTNjLWdLUEVTOHRXWjlKeFdhVXBEaDdQMDZ0TzBmbWlwZk5BT3doX2ZKN0NqQkF1SFBTdXo1UkFpU1hWNkl5SmRfQjZSSlRSblJuYkNQNC1qRVIxS1Job2NNbnRsRThLS1FRaGlFaURma3pCc2M?oc=5)
+
+---
+
+### [Así nacen los bulos: la verdad detrás del polémico "estudio" que asocia comer frutas y verduras con el cáncer - Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxNa29VM01fTGNDbDdSWnk0dGo4X1gzT0Y0Z0kydGtkamNVdFFwREprTENNbE15T3JncmJDV1RvQnQycjVKbDRfT0R2SzZYOGlRNkRTd1JEOXNLTDVWMXEtTHBfVzJmZFZmWWxqUkhqc3FLTlRQSzh6anE4RTFwYzdaazVDWFBxMXRyRW1hZFozT0lENEpDcVljbGlsUTdCR2JGOVdxTF9udzZtQ1lpeE5hSjdteVllX1BXZ0xta29NNWNBcVNWa25yejdDM2tjcDRTMnVTU2JPX0Jaci1xaTYxUzBDazJPNWpZTmNLVnRvOHpTUjdZYUR2TUxPWWd0Y3ZMVlVHNWdXaVR6YjBkZkE?oc=5)
+
+2026-04-21 <span class="news-indication-tag">MS</span>
+
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxNa29VM01fTGNDbDdSWnk0dGo4X1gzT0Y0Z0kydGtkamNVdFFwREprTENNbE15T3JncmJDV1RvQnQycjVKbDRfT0R2SzZYOGlRNkRTd1JEOXNLTDVWMXEtTHBfVzJmZFZmWWxqUkhqc3FLTlRQSzh6anE4RTFwYzdaazVDWFBxMXRyRW1hZFozT0lENEpDcVljbGlsUTdCR2JGOVdxTF9udzZtQ1lpeE5hSjdteVllX1BXZ0xta29NNWNBcVNWa25yejdDM2tjcDRTMnVTU2JPX0Jaci1xaTYxUzBDazJPNWpZTmNLVnRvOHpTUjdZYUR2TUxPWWd0Y3ZMVlVHNWdXaVR6YjBkZkE?oc=5)
+
+---
+
+### [Als Sodbrennen abgetan: Mann entwickelt weitere Symptome – Diagnose Speiseröhrenkrebs](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmRza3czam9aUnR4aml2Z2xWTGZBc003bm16SnFtUEstX3p5ZUhZSXl5WW5USjZhd0ZPQ2JtNXE2WmlObWt0bU5ud25QcjVOeURLSVEyb04tQkpiLVlISGJjeHFDY21DMTVrRkhHM1Fpb1E5aFFlVFY4X1VGd19Pdjg4aEJwbmVvSE9tLUtjNTByejM5azBBd3FJRTJRaUswbHBoal9XQU9tMWx1TTdWTndEbG5jTzBhWVhTejJnQWhBR3FyaFBUYWhXMHo4MTl6eTM3R0dpOERZMDg?oc=5)
+
+2026-04-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[MSN](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmRza3czam9aUnR4aml2Z2xWTGZBc003bm16SnFtUEstX3p5ZUhZSXl5WW5USjZhd0ZPQ2JtNXE2WmlObWt0bU5ud25QcjVOeURLSVEyb04tQkpiLVlISGJjeHFDY21DMTVrRkhHM1Fpb1E5aFFlVFY4X1VGd19Pdjg4aEJwbmVvSE9tLUtjNTByejM5azBBd3FJRTJRaUswbHBoal9XQU9tMWx1TTdWTndEbG5jTzBhWVhTejJnQWhBR3FyaFBUYWhXMHo4MTl6eTM3R0dpOERZMDg?oc=5)
+
+---
+
+### [Wolverhampton mum's brain cancer symptoms dismissed as 'stress'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHSm95OXNIQ1RPLVAxWjRpLUJ2dWU0aGRQQ1BJOW1tTGFXRFpLTmJWcXhmdk0xdUVER1ZPc2NSTGNFM3ZEYk5EckVhajNsQmlnNFF2d1Ztb2tETHhk?oc=5)
 
 2026-04-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
@@ -70,35 +94,27 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Gut microbes may reveal Parkinson’s risk years before symptoms - The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
+### [‘Miracle tree’ removes 98% of microplastics from drinking water, outperforming chemical alternatives](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUI0U2NFc1QxdmVSN1dSSzZySEJKZ01LUW14ZHZ2SW83cTVMR3FFSDNiRUp1VW5vR1lkTEpkT0Q5c241OXlwa2xqckctTVlfZ04xenlWa2lTMWdSVGF3TE1nYmhQRTRFYTZUTDhGc0JWTUtRZnZidnVfelJXTFl2dy14MzF3V1prLUVCUHhqWlJHck84REdHZEcwQmI4N0loRUkyam1sazFJc2d2ckRocG56XzB1TjZVVUpwMElpTDZpNUU2?oc=5)
 
-2026-04-20 <span class="news-indication-tag">MS</span>
+2026-04-21 <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
-
----
-
-### [Thousands more young people to be offered meningitis vaccines and antibiotics - Dorset Echo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmRnU2JBRVNiOExIZzZyVmdFcmt1RWFVNVFDWG8wWDA0Nk5XSmhkQjUyUEtYaGRTYkJtTFlBLVp4VW9vNU0tR1g2bngwU3ZLbFl0S0xkcmRQeGJQTzM1ZUIwc3Z5NXFzNEJ1NVZ1N19waTlYN2g0cFlhMGlZMkxMQVdBUTFVeXlRSy00VFhMc09CdW8?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Dorset Echo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmRnU2JBRVNiOExIZzZyVmdFcmt1RWFVNVFDWG8wWDA0Nk5XSmhkQjUyUEtYaGRTYkJtTFlBLVp4VW9vNU0tR1g2bngwU3ZLbFl0S0xkcmRQeGJQTzM1ZUIwc3Z5NXFzNEJ1NVZ1N19waTlYN2g0cFlhMGlZMkxMQVdBUTFVeXlRSy00VFhMc09CdW8?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUI0U2NFc1QxdmVSN1dSSzZySEJKZ01LUW14ZHZ2SW83cTVMR3FFSDNiRUp1VW5vR1lkTEpkT0Q5c241OXlwa2xqckctTVlfZ04xenlWa2lTMWdSVGF3TE1nYmhQRTRFYTZUTDhGc0JWTUtRZnZidnVfelJXTFl2dy14MzF3V1prLUVCUHhqWlJHck84REdHZEcwQmI4N0loRUkyam1sazFJc2d2ckRocG56XzB1TjZVVUpwMElpTDZpNUU2?oc=5)
 
 ---
 
-### [My son's symptoms were 'picky eating or teething' - then he was hours from death - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
+### [Gut microbiome can reveal risk of Parkinson’s, scientists say - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
 
 ---
 
-### [Estudio advierte que comer mucha fruta, verdura y granos tendría un mayor riesgo de cáncer de pulmón](https://news.google.com/rss/articles/CBMikAJBVV95cUxQMXpMN2hhajRvM3hoR05OSXQyblo1dTkxcFVtakNsSkFlVVNyMWxLdm9OTkRLUldJRlJVQ2o3by1ISXZKdnBKSXc3SExWRTBIVjNpb3d5elNSa0hrYU5meDNwLUY3NzZ2MWszYm1hWk5NN2ZfVVJqNG14Mjh6SkNyUmprSnlYXzc2WGg3SVRFNUc1ckpPdG9zR2diVUVpZlh6M2FtdVpNLUNLUWVUWDFCLVJPc25XVUJTbXJlUDhWcng4T2F5ekRhajJSYlRoanJiV2RKdGNLMFluTTU2Q0Rpd0paRzVWa1FnNl9fVnVVbU5CSjNTNWY4TTgzOXh0bVNGSHNjY1V1LWpDOUpiUXgwNQ?oc=5)
+### [My son's symptoms were 'picky eating or teething' - then he was hours from death](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
 
-來源：[BioBioChile](https://news.google.com/rss/articles/CBMikAJBVV95cUxQMXpMN2hhajRvM3hoR05OSXQyblo1dTkxcFVtakNsSkFlVVNyMWxLdm9OTkRLUldJRlJVQ2o3by1ISXZKdnBKSXc3SExWRTBIVjNpb3d5elNSa0hrYU5meDNwLUY3NzZ2MWszYm1hWk5NN2ZfVVJqNG14Mjh6SkNyUmprSnlYXzc2WGg3SVRFNUc1ckpPdG9zR2diVUVpZlh6M2FtdVpNLUNLUWVUWDFCLVJPc25XVUJTbXJlUDhWcng4T2F5ekRhajJSYlRoanJiV2RKdGNLMFluTTU2Q0Rpd0paRzVWa1FnNl9fVnVVbU5CSjNTNWY4TTgzOXh0bVNGSHNjY1V1LWpDOUpiUXgwNQ?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
 
 ---
 
@@ -107,6 +123,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-04-20 <span class="news-indication-tag">MS</span>
 
 來源：[Devon Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRldIV28yMTYwMHg0eHc0eGozd21XMHZUUG9CNnFyVG10Q0w0bS1fSU9hWVdIVHh3Z0FienBLb3V1Xzl0U2sxNU1NbkVLZ25zS0hURGd2czdycW1vQWhzQm4ydERpZmtVcTAzaVRxTWRTdmtKMnUxMDhNYzdnV2hBNFNjaXhYZW5TRFJTWjJmNHVWZUJMMmJRRDB2YlQ?oc=5)
+
+---
+
+### [Six habits that speed up ageing – from weekend lie-ins to boring evenings in - The i Paper](https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVmw2cGFYbVB1VEdkUGFVbWJoODlGTFZjclJLR2YzZHZNSFBaaXdGMkd5Uk5weThiWFB1cVZhZU16R2xJcHZNMmlxNWluQnBPQldNc2JHZ3VPYzVsYkpjRkw1OXpVdnkzbUZob21zN25RN1dWVmlHTThR?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVmw2cGFYbVB1VEdkUGFVbWJoODlGTFZjclJLR2YzZHZNSFBaaXdGMkd5Uk5weThiWFB1cVZhZU16R2xJcHZNMmlxNWluQnBPQldNc2JHZ3VPYzVsYkpjRkw1OXpVdnkzbUZob21zN25RN1dWVmlHTThR?oc=5)
 
 ---
 
