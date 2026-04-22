@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [On croyait connaître le vrai danger du sel : cette étude en révèle un autre, plus insidieux - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmJYZENvVW5DQkZISDI0SG44MjI0M3NUQ3h3Zi1ubURhRGczdWtKT25CaWpuMVNiM0lKZ0FMOXZzTWJlMC1IdkFfMGFOSWZLY21xdkJSakI5bHExWXJ1d0tPTVJJRGlIRENKQlRoNnVYT3JhMGdaRDgzSFBJenF0bEVnbEpsT25EVnA1QXJvX2I3WkpMOE44bVY4MkRlVFJRcW9hckg2YnFxTmRWdkRkQ1Y0dkl6SWdjUGVIQm1BQ0J4OTFpUDBiSzJENUdmS2YzSUJDU2xOZW9UblBSRjNGdXd3WFJpTGFfQm1pS1Nqd2tPUQ?oc=5)
+
+2026-04-22 <span class="news-indication-tag">hypertension</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmJYZENvVW5DQkZISDI0SG44MjI0M3NUQ3h3Zi1ubURhRGczdWtKT25CaWpuMVNiM0lKZ0FMOXZzTWJlMC1IdkFfMGFOSWZLY21xdkJSakI5bHExWXJ1d0tPTVJJRGlIRENKQlRoNnVYT3JhMGdaRDgzSFBJenF0bEVnbEpsT25EVnA1QXJvX2I3WkpMOE44bVY4MkRlVFJRcW9hckg2YnFxTmRWdkRkQ1Y0dkl6SWdjUGVIQm1BQ0J4OTFpUDBiSzJENUdmS2YzSUJDU2xOZW9UblBSRjNGdXd3WFJpTGFfQm1pS1Nqd2tPUQ?oc=5)
+
+---
 
 ### [Lilly anuncia nuevos datos de un estudio en adultos con obesidad y artritis psoriásica en tratamiento concomitante de Mounjaro y Taltz - Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
 
@@ -72,7 +80,7 @@ permalink: /news/memantine-hydrochloride/
 
 ### [Could an Avocado and Mango a Day Keep High Blood Pressure at Bay?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
 
-2026-04-21 <span class="news-indication-tag">high blood pressure</span>
+2026-04-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
 

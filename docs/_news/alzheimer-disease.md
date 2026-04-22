@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### ['If that was my partner, I'd be gone,' nurse tells woman after husband's dementia diagnosis at 39 - Belfast Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDAtUlp3ZzJDTEpRbFBfVUlFWkdITzVNYmowLU5xUGNXaFM5RFU4d3I1VFBuOEtmdnc1R3AySmlXZkpPdjN0Qk1KMVV5ejQzWFBoV0FLM3FRTGl5cG5fWTVrNmFTM0VWdE5OWXZRR1dadjc3YmV2MlBUM1QyNW5rODVDVkxUWDhiaDhqd3pR0gGTAUFVX3lxTE5rT1RoUjlEeFZKUXVTbk4zUW42ekdQdGU0Smh1eEZQRFhxeE1PWGJLYWtBODFhT2toOHVYUEFjbjRTNnVwNzA0T1dRa2laRThCVFk0NU1ocWFkV0RHd0NHa1F1a0ZTZ2VTbHl1di1zc0dQWExyMVZuVnljRVYxdzZzLTJUSV84VzZLTk1DZnFwMkp5Yw?oc=5)
 
@@ -54,27 +54,19 @@ permalink: /news/alzheimer-disease/
 
 ---
 
+### [Midlife Hobbies Outperform Genetic Alzheimer’s Risk - Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm9CNlZ1aUlJR1JjWXpsOElyaGF6di0yVEdTUW42VmRBakhMdktMa2NYMU14SENlN0lYN1JuWldJZHNpQVBWUVo4c241WV81TFlpMDlBVGt0SGhmQVBYcE54bkVvNFBjTTlnLWFCV2VNaGc0QnU0QmdjVVR5T2cwWTZ3?oc=5)
+
+2026-04-21
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm9CNlZ1aUlJR1JjWXpsOElyaGF6di0yVEdTUW42VmRBakhMdktMa2NYMU14SENlN0lYN1JuWldJZHNpQVBWUVo4c241WV81TFlpMDlBVGt0SGhmQVBYcE54bkVvNFBjTTlnLWFCV2VNaGc0QnU0QmdjVVR5T2cwWTZ3?oc=5)
+
+---
+
 ### [Alzheimer’s drugs offer little benefit, major review finds – and the reasons go deeper than the science - The Conversation](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGpmb29GTFR4aDZ2bGJzN3BZWmxuNVduSVVNbnlneEU2Smpsd2RSbVd1c0dYQ044NjJUMC1kbVVmU2ZRdzJmdGpRcFAyUlJ0eS01U1JyOXBmejhPdFZ0Q2VRR21CcG91QU1UVk1aOG1oSjI3WVBpVFJ5ek1JVWZKd2RJeWE0MGlCWXVZZGZhQnYtekktdzFSdVZ0QXVmNTF0MmVTWVdpb19rRTY0TlE0RlFlbUZTOE5lUEU0b3VWNkRiQjhMWGRvdlpHU3RITHc?oc=5)
 
 2026-04-21
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGpmb29GTFR4aDZ2bGJzN3BZWmxuNVduSVVNbnlneEU2Smpsd2RSbVd1c0dYQ044NjJUMC1kbVVmU2ZRdzJmdGpRcFAyUlJ0eS01U1JyOXBmejhPdFZ0Q2VRR21CcG91QU1UVk1aOG1oSjI3WVBpVFJ5ek1JVWZKd2RJeWE0MGlCWXVZZGZhQnYtekktdzFSdVZ0QXVmNTF0MmVTWVdpb19rRTY0TlE0RlFlbUZTOE5lUEU0b3VWNkRiQjhMWGRvdlpHU3RITHc?oc=5)
-
----
-
-### [Portlethen mum in race against time as son Ben battles childhood dementia - Press and Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUdybGpWZFVFV3hUcGR1dDFPT2d4WDRCZlo4TDUzcGlFSXYtMDRwci1VVDROajNuLW5BbTdadnF0MzJPaWwzRTVLRk10NzV0VFVFZVh4Z0dMZkxWdUx3QjhYVlJzZGFPNEM1eWxYaVZ2ZjRXanluOXhBaF9BWFY2cWVSc3BzT1VtTE9IMzlqSFUyLXJrVjlicmh1bVIxeGs4YWNBcVhybVJtTXZzb0R6Vzk1YlZ1eDExNVE?oc=5)
-
-2026-04-20
-
-來源：[Press and Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUdybGpWZFVFV3hUcGR1dDFPT2d4WDRCZlo4TDUzcGlFSXYtMDRwci1VVDROajNuLW5BbTdadnF0MzJPaWwzRTVLRk10NzV0VFVFZVh4Z0dMZkxWdUx3QjhYVlJzZGFPNEM1eWxYaVZ2ZjRXanluOXhBaF9BWFY2cWVSc3BzT1VtTE9IMzlqSFUyLXJrVjlicmh1bVIxeGs4YWNBcVhybVJtTXZzb0R6Vzk1YlZ1eDExNVE?oc=5)
-
----
-
-### [Discovering my toddler has dementia was the worst moment of my life... so when a test revealed her unborn sibling also had the disease we had no choice but to terminate my pregnancy](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
-
-2026-04-20
-
-來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
 
 ---
 

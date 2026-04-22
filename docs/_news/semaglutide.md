@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
+
+### [Surveyor, 30, died from diabetes after GP told him to call 111 - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkVBUDNpQnpqclRVV2xRbVA4cE9iWk51ZFBGTEhGbEJManRKRTdlR2tSQ2tOMHpaRUNsdXROWkVOaVpEM05Pa3VMUlo1QkZheEN6TmZwakEwamZKb2dNYnNpdjJyd2oxMzJrVHo5V1QxRDlYVnJESTAyQVM4NWg3MEJfOXFjemluWVNuQ2FsR2JXY1RSdXlmNUtnbzFTcHJqX0E?oc=5)
+
+2026-04-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkVBUDNpQnpqclRVV2xRbVA4cE9iWk51ZFBGTEhGbEJManRKRTdlR2tSQ2tOMHpaRUNsdXROWkVOaVpEM05Pa3VMUlo1QkZheEN6TmZwakEwamZKb2dNYnNpdjJyd2oxMzJrVHo5V1QxRDlYVnJESTAyQVM4NWg3MEJfOXFjemluWVNuQ2FsR2JXY1RSdXlmNUtnbzFTcHJqX0E?oc=5)
+
+---
+
+### [Dídac Mauricio Puente, nuevo presidente de la Sociedad Española de Diabetes - La Web de la Salud](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1gzLUNCakRqanM5OEpOdFZzUlRRN2I5SUN0YTByazNWOGVqTm81a2tXQWtoWmQ3WkJvYU1HQ21FekdBNEM0aXUzeWJzdGFXeUF5Q1paU2lwRHptemhlY1FGMlF5VVN1akhCOEJJYmtoaTN1bERIZlg3ZTB2RHdmdUppZGZJQ2ozT2h2RF9RTVJoNUFhTDRuejl1Umt5MWZQVHJtSg?oc=5)
+
+2026-04-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1gzLUNCakRqanM5OEpOdFZzUlRRN2I5SUN0YTByazNWOGVqTm81a2tXQWtoWmQ3WkJvYU1HQ21FekdBNEM0aXUzeWJzdGFXeUF5Q1paU2lwRHptemhlY1FGMlF5VVN1akhCOEJJYmtoaTN1bERIZlg3ZTB2RHdmdUppZGZJQ2ozT2h2RF9RTVJoNUFhTDRuejl1Umt5MWZQVHJtSg?oc=5)
+
+---
+
+### [Un manejo integral de la diabetes tipo 2 reduce complicaciones y alivia el gasto sanitario - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjIyOE5YZ1dnUlZGSGVxa3BrTHZpdEFoVVpleHloeTJKeWlEQnBLcjRMalExRzVtdTA0dHdFQzVEZ2pKYWJqb0VTa1RXN0JCZ0g4SUhCaVNkYTRlSEt5eGdNR2Ywd3ZHSWpySS1XV1lncVlxbUNfLWR0SHJwSXkzNWtveE9PQ1FzV2g1VUpibE5BOVg4TnZKT1dGOG1teEwtV0I1ang4R2J2c3VnZzdUR3BtOWdzbmJiQUJjOFhkbDFYWUHSAb4BQVVfeXFMUDMzZlo0WUtoaFk2SWh4U1N3X2ZySzNNa2kzWWtBTTJabjVLUDltdjhJWGdVajVJV2NWZTJucjRYNWF6TFhKcjVwaGF0VmdnZlFucXNGcGZWNFRHVHFJc2MtdXVLVGxqX3VLNzlBSmRiWFk5RDA1VE5nRXVENm1ZYlgzdS1fS3VMRG5xN05HeHA5ZlZzWHhyWDRNQ0g3OVhxRWZPMHducWdvYURYRF9CaEp6eDUwNk5yMUxFbENYdw?oc=5)
+
+2026-04-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjIyOE5YZ1dnUlZGSGVxa3BrTHZpdEFoVVpleHloeTJKeWlEQnBLcjRMalExRzVtdTA0dHdFQzVEZ2pKYWJqb0VTa1RXN0JCZ0g4SUhCaVNkYTRlSEt5eGdNR2Ywd3ZHSWpySS1XV1lncVlxbUNfLWR0SHJwSXkzNWtveE9PQ1FzV2g1VUpibE5BOVg4TnZKT1dGOG1teEwtV0I1ang4R2J2c3VnZzdUR3BtOWdzbmJiQUJjOFhkbDFYWUHSAb4BQVVfeXFMUDMzZlo0WUtoaFk2SWh4U1N3X2ZySzNNa2kzWWtBTTJabjVLUDltdjhJWGdVajVJV2NWZTJucjRYNWF6TFhKcjVwaGF0VmdnZlFucXNGcGZWNFRHVHFJc2MtdXVLVGxqX3VLNzlBSmRiWFk5RDA1VE5nRXVENm1ZYlgzdS1fS3VMRG5xN05HeHA5ZlZzWHhyWDRNQ0g3OVhxRWZPMHducWdvYURYRF9CaEp6eDUwNk5yMUxFbENYdw?oc=5)
+
+---
+
+### [Personalisierte Strategien zur Diabetes-Prävention in Deutschland - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbU9iUjBKVVpuU2JUOXduRmhkcTBPQkhoaUpoLUswSDdyTDlnTDBnLW1SbS1fc1lvTjlwaGQ5LXhfWjVZTEdhMTRYZGNVX3VBWEY3ZVJxRGZ6TE9BX3hCRW16RUwySFNjemc3MnNjSTE2X29fd1hzWTVHNm41QlJ1QmxISWdBdHc5Y01SNVhlbXB6dk1YU0NoR1FuRlBqZzQ?oc=5)
+
+2026-04-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbU9iUjBKVVpuU2JUOXduRmhkcTBPQkhoaUpoLUswSDdyTDlnTDBnLW1SbS1fc1lvTjlwaGQ5LXhfWjVZTEdhMTRYZGNVX3VBWEY3ZVJxRGZ6TE9BX3hCRW16RUwySFNjemc3MnNjSTE2X29fd1hzWTVHNm41QlJ1QmxISWdBdHc5Y01SNVhlbXB6dk1YU0NoR1FuRlBqZzQ?oc=5)
+
+---
 
 ### [La dieta cetogénica puede mejorar la función de las células beta en personas con diabetes tipo 2 - Diario de Navarra](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWpLbDVjQTRqX0ZUZ0hlWk9UcVJJN1FtRHdXTTJaNWpLR092LWRjZTN2WFJRVFhMY1JfUGxrWVpxUVY5UUtETGJQSUlWalVCUVlpcnNmeGxIZ0dTU3J3bV9ybV8xbWNXYzJQb3hST29XMGE5cDhTUGVmSXZubXFnOXBzS2tLVXN5bFpYUVRfZXVvQkFNQTduN25Vb2ZoYXRTU0l1NVRaV0NMUk9JZzg5NHR5dUk4UVJvOFN3UnBId3hHbTRHR1gxOExLOTlCd09ZWnBVblpSdkJMcEU?oc=5)
 
 2026-04-22 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWpLbDVjQTRqX0ZUZ0hlWk9UcVJJN1FtRHdXTTJaNWpLR092LWRjZTN2WFJRVFhMY1JfUGxrWVpxUVY5UUtETGJQSUlWalVCUVlpcnNmeGxIZ0dTU3J3bV9ybV8xbWNXYzJQb3hST29XMGE5cDhTUGVmSXZubXFnOXBzS2tLVXN5bFpYUVRfZXVvQkFNQTduN25Vb2ZoYXRTU0l1NVRaV0NMUk9JZzg5NHR5dUk4UVJvOFN3UnBId3hHbTRHR1gxOExLOTlCd09ZWnBVblpSdkJMcEU?oc=5)
+
+---
+
+### [Ketogene Diät als Hoffnungsträger bei Diabetes Typ 2 - it boltwise](https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzE3QkNkcjVOVGZfR180b3d1NE9BNkszcGhuSG15ZzNYbzNjcWV4Z3Bma2lVM1dybWVzUk50MjctWVRvVmFocHNuTkhDdTdKcEhkU2ZWQmRETnhoOU8xMm1ieWdfdDFlVmltWVIxUUhWV1RxTlU1Y0hjZXQtbFp5cHk5Y1o2bHI4TTdiWC1rTQ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzE3QkNkcjVOVGZfR180b3d1NE9BNkszcGhuSG15ZzNYbzNjcWV4Z3Bma2lVM1dybWVzUk50MjctWVRvVmFocHNuTkhDdTdKcEhkU2ZWQmRETnhoOU8xMm1ieWdfdDFlVmltWVIxUUhWV1RxTlU1Y0hjZXQtbFp5cHk5Y1o2bHI4TTdiWC1rTQ?oc=5)
+
+---
+
+### [Fat jabs gave me a flat ‘Ozempic personality’ - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXVrQ01aeXV1NkRoUkg3ZXZTUE1kZVlKbi1aWE1XUkx2c0FNd2xlNDZYa1VwQkpfYlFjeFVlYW5GcDVYNXlMQXoyYkFXb1BhYWFfdGRPODBDcE1tOS1TMzN6RnhId2N1Y1cyMFYwZ2xmR2FUVmllYUVnSmxHT3U3M2tnbm5kZnBYcEdkS0FEVnpyTE5ycmVNTjc0M1kwMjVOWW9iakh3VS1aVHAyMHE0bHdSOA?oc=5)
+
+2026-04-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXVrQ01aeXV1NkRoUkg3ZXZTUE1kZVlKbi1aWE1XUkx2c0FNd2xlNDZYa1VwQkpfYlFjeFVlYW5GcDVYNXlMQXoyYkFXb1BhYWFfdGRPODBDcE1tOS1TMzN6RnhId2N1Y1cyMFYwZ2xmR2FUVmllYUVnSmxHT3U3M2tnbm5kZnBYcEdkS0FEVnpyTE5ycmVNTjc0M1kwMjVOWW9iakh3VS1aVHAyMHE0bHdSOA?oc=5)
 
 ---
 
@@ -70,43 +118,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Could an Avocado and Mango a Day Keep High Blood Pressure at Bay?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
+
+---
+
 ### [Multiculturalidad y diabetes - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
 
 2026-04-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
-
----
-
-### [Prädiabetes | Menschen mit hohem Risiko frühzeitig erkennen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc1VXWlpsNjBWTUtnYUNpak5yMUtrQ1pyVXlQVllWM044RDVtNnpFUUpXWDJGWkxSSmFYd194UmdycW1uTk8zaVFOQUQ4ejhJTThQdC1WY01FYW50eEMyNXlWa21NSklxN0lRWEtCb2VwVzJuemZaY3RBU0Ita2MxLXZtUHp3M28xdVhmX3pERXAzTGZUaDdVQ21sZFNtcWxYT0ZYbXNycENIeHRPaFlwMUpmaDcwRml3OWJaMXFxdUs?oc=5)
-
-2026-04-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc1VXWlpsNjBWTUtnYUNpak5yMUtrQ1pyVXlQVllWM044RDVtNnpFUUpXWDJGWkxSSmFYd194UmdycW1uTk8zaVFOQUQ4ejhJTThQdC1WY01FYW50eEMyNXlWa21NSklxN0lRWEtCb2VwVzJuemZaY3RBU0Ita2MxLXZtUHp3M28xdVhmX3pERXAzTGZUaDdVQ21sZFNtcWxYT0ZYbXNycENIeHRPaFlwMUpmaDcwRml3OWJaMXFxdUs?oc=5)
-
----
-
-### [Hidden Side Effects of GLP-1 Drugs: Ozempic Chills, Hot Flashes, and More](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWM4Y2NLa1VwMnRXdlA2eVktc3l0ZmlGOE1jaHExdU9pS2RaSC1iT204YURYSXFRZ2RhZEFEMk53NDl6QkJBWEJfTWg1R1Z3WTg4ZFpZUUpWdHRieHJSbll5azVQeVR4UWtMYzlVVzJzSmpFU0lqQXpLZE9xUkhNQ0lxTi1HT3NpVFdQX1lvSi1mRWhFdWc?oc=5)
-
-2026-04-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWM4Y2NLa1VwMnRXdlA2eVktc3l0ZmlGOE1jaHExdU9pS2RaSC1iT204YURYSXFRZ2RhZEFEMk53NDl6QkJBWEJfTWg1R1Z3WTg4ZFpZUUpWdHRieHJSbll5azVQeVR4UWtMYzlVVzJzSmpFU0lqQXpLZE9xUkhNQ0lxTi1HT3NpVFdQX1lvSi1mRWhFdWc?oc=5)
-
----
-
-### [People with diabetes to receive specialist mental health support in UK first](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVFkUFRybEswYktwWUNRdzBsVlJRelc5LURQNzgxMEYtejk1LVlTdGVpMmNPaFFSbmZlUUxFdWlIYUd2UjJrYXZZMHFWeFl1VU94aXpFWVQxeTZqNHNnbnB3UVNxdTFpT3BuNk1MS3ZuYVRMekFCUFB6SkROWXJGZ092WlI5R1hZLUFXeWFCS2wyejk2ZlJmZmlfWWZrYWNaZ3laMGdtNWNfbXRjbHpJQmprdGZabm5EeU91RkdyRQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[diabetes.co.uk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVFkUFRybEswYktwWUNRdzBsVlJRelc5LURQNzgxMEYtejk1LVlTdGVpMmNPaFFSbmZlUUxFdWlIYUd2UjJrYXZZMHFWeFl1VU94aXpFWVQxeTZqNHNnbnB3UVNxdTFpT3BuNk1MS3ZuYVRMekFCUFB6SkROWXJGZ092WlI5R1hZLUFXeWFCS2wyejk2ZlJmZmlfWWZrYWNaZ3laMGdtNWNfbXRjbHpJQmprdGZabm5EeU91RkdyRQ?oc=5)
-
----
-
-### [I’m a diabetes doctor — follow these 3 steps to put Type 2 into remission - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGVrMl9JZkRHLWtlcFgxSHRzSVY2MnVVWFZKSUxxT0dybW8yQkRvTFo5OEI1YXB6b2tHYjBfdXFPdjJ6UEN3Mm5uaDlLSzJ6U2w5SUU0R1VDQ0JXcVV1YWpiYzJ2bjJLZl85d2VYZVZQN1J5MEpKLWVuOWczVVdrWDB3V0xqX2ZrVXljNdIBkgFBVV95cUxPdWRGQW82WU1nVDZJaU91VzFEd25pcE95WWtCREhpeWNsM29NbkZ1VkpVYlRrRWl3SmU4TGZ3cmFRRXliVHBkMzliNVRudl9XRjFQTF9pSXBzaVkyeEZtX0w3eE11eGZlclJGbnZYbjRUWkppSnhYRnZFT3NNRFBwdTNKYkF6bm5yMzFDVXRhTFp3UQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Experta insta a las empresas a crear programas de alimentación saludable y ejercicio para abordar la obesidad](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVkNYdkVOX1RKTmFFUlNzaWZVb0t5eFVQM3d1LU1ZaW1wVWhLelRCN2lzZ2cxeDl5UldrSnFaN2FlNVJXSWNnTnVzZVI0LTR3d0dMajBGc1lfeWplcm5VOFJqaXppZU9SMGxULU9Ed0lKQnlyS2YxX1pIQXRHbk1BVE5RY1hxYzRoUzMzWDkzSG5YSXZydU5VbnNibDdWX1ZLb1BaV0lFM0V3cHdOZTJ5d0xLVURTYWhIV2k0cWc4eU8zVm5BVFBFSlRaS2Vxa2xuYzlaUDA1NU9YSVdoYkVFUENuUDduTzQzRDZaN1BGT3d4SEpx?oc=5)
+### [Se insta a las empresas españolas a crear programas de alimentación saludable y ejercicio a partir de esta semana: los avisos se extienden a todo el país - El Economista](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOeU5UOGZjTG1wVktTMVQwOGdYT1pNUl9lTFJlRjI1bjNUNENxX01mX0hYdlMwaXA4dmJpT085UGI3ZVAwMktya0NzUk5KaUxtTzhBT0NNZUNzbGQwYkRIZW93LWpVWEFhUDhHLTBndURzT2tHRG1rQTA3ZFdBUXBoNDh6RmxucmlxUG8zeUtESHpLQmRRVDRnell0UmZUbUZEc2hQZG1uSG5acjZjYmZUV0lISEg4bmlIbDhTM2hOTkZTMHN4WEdEX3QyVzBxTDBLQ0FBTnVDNGFEZVVGcjZzNHF4UXIwMWMzQ2pjazJzR216RnlXOEdZNXExUl9LUUdLOGlYTmVGU3pqZDFUeUlLU2JCejAyakVoeFVPcDgwcTJsUVBDS2h1ZGNjbGFwS2VwWUxrMmxlZHdVdUM3MU1hR2hrM0FZZmtMd2dSb2xYNzh0WHE0SXc?oc=5)
 
 2026-04-22 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVkNYdkVOX1RKTmFFUlNzaWZVb0t5eFVQM3d1LU1ZaW1wVWhLelRCN2lzZ2cxeDl5UldrSnFaN2FlNVJXSWNnTnVzZVI0LTR3d0dMajBGc1lfeWplcm5VOFJqaXppZU9SMGxULU9Ed0lKQnlyS2YxX1pIQXRHbk1BVE5RY1hxYzRoUzMzWDkzSG5YSXZydU5VbnNibDdWX1ZLb1BaV0lFM0V3cHdOZTJ5d0xLVURTYWhIV2k0cWc4eU8zVm5BVFBFSlRaS2Vxa2xuYzlaUDA1NU9YSVdoYkVFUENuUDduTzQzRDZaN1BGT3d4SEpx?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOeU5UOGZjTG1wVktTMVQwOGdYT1pNUl9lTFJlRjI1bjNUNENxX01mX0hYdlMwaXA4dmJpT085UGI3ZVAwMktya0NzUk5KaUxtTzhBT0NNZUNzbGQwYkRIZW93LWpVWEFhUDhHLTBndURzT2tHRG1rQTA3ZFdBUXBoNDh6RmxucmlxUG8zeUtESHpLQmRRVDRnell0UmZUbUZEc2hQZG1uSG5acjZjYmZUV0lISEg4bmlIbDhTM2hOTkZTMHN4WEdEX3QyVzBxTDBLQ0FBTnVDNGFEZVVGcjZzNHF4UXIwMWMzQ2pjazJzR216RnlXOEdZNXExUl9LUUdLOGlYTmVGU3pqZDFUeUlLU2JCejAyakVoeFVPcDgwcTJsUVBDS2h1ZGNjbGFwS2VwWUxrMmxlZHdVdUM3MU1hR2hrM0FZZmtMd2dSb2xYNzh0WHE0SXc?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-04-21 <span class="news-indication-tag">obesity</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFJPVnNsSWo2N0cxTmZSTENENWU3bDExNkNObmVxR0l1RG9TRUw1NThia2w5bmhLUDlDelREVmVsY2c5MmdHWW1Td0ZWdGVpZzlFRWpuMDJDV0cxbHBERmluczE3S1hzUUhMZWRfVVFUYU5meVhUcDRRYXlib2VJYjZmTXU?oc=5)
-
----
-
-### [Is it true that … only overweight people are at risk of high cholesterol? - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVG5ZSDRhTS1VXzB2eldBY1lqVnR6aXVFVGlzOTZ5T1RtRTVWaWVYSWV0akdRWHlxNG1nWDY3NHJmMXNfeWlmU2RYaUdHaEpsT0tOMVdnRXNJVm5PdnBJOXBVQjJDTGdRd0xTQXJ0UGhsSldUVVV5a2EwMkdQM3ptZWpQaGxTRXVURDhpMEg3RnJCdUtOaG02TXRNbEpJMlBTVFhjMlVzLWRURjBndnc5MFdTd3VuaGc?oc=5)
-
-2026-04-20 <span class="news-indication-tag">overweight</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVG5ZSDRhTS1VXzB2eldBY1lqVnR6aXVFVGlzOTZ5T1RtRTVWaWVYSWV0akdRWHlxNG1nWDY3NHJmMXNfeWlmU2RYaUdHaEpsT0tOMVdnRXNJVm5PdnBJOXBVQjJDTGdRd0xTQXJ0UGhsSldUVVV5a2EwMkdQM3ptZWpQaGxTRXVURDhpMEg3RnJCdUtOaG02TXRNbEpJMlBTVFhjMlVzLWRURjBndnc5MFdTd3VuaGc?oc=5)
 
 ---
 

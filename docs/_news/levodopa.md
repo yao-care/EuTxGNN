@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levodopa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [« On devient prisonnier de son corps » : elle raconte son quotidien avec la maladie de Parkinson - Le Progrès](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVV4Q215QjVqR1lyMFF4cm5VVjEzUnhFMDlET3hXWkxaQ2lpcGFQSDkxaDltNjdSMEdlOWtYNHNGd29vbEw1UW5BMFc1UFlVNEtQRDhiZ01xWW9xZkxCd2ZRdTNoRk9OazgzZTVtV0FpTXdzQ1B4UE9mOXVqcGJVUkpRajVfR3U0MWs1X0I1YUdkSUxONFpINzF0M1BjZXpXMUE?oc=5)
 
@@ -70,6 +70,14 @@ permalink: /news/levodopa/
 
 ---
 
+### [Midlife Hobbies Outperform Genetic Alzheimer’s Risk - Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm9CNlZ1aUlJR1JjWXpsOElyaGF6di0yVEdTUW42VmRBakhMdktMa2NYMU14SENlN0lYN1JuWldJZHNpQVBWUVo4c241WV81TFlpMDlBVGt0SGhmQVBYcE54bkVvNFBjTTlnLWFCV2VNaGc0QnU0QmdjVVR5T2cwWTZ3?oc=5)
+
+2026-04-21 <span class="news-indication-tag">dementia</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm9CNlZ1aUlJR1JjWXpsOElyaGF6di0yVEdTUW42VmRBakhMdktMa2NYMU14SENlN0lYN1JuWldJZHNpQVBWUVo4c241WV81TFlpMDlBVGt0SGhmQVBYcE54bkVvNFBjTTlnLWFCV2VNaGc0QnU0QmdjVVR5T2cwWTZ3?oc=5)
+
+---
+
 ### [Parkinson : la clé du diagnostic précoce se cacherait dans nos intestins - Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
 
 2026-04-21 <span class="news-indication-tag">maladie de Parkinson</span>
@@ -78,35 +86,19 @@ permalink: /news/levodopa/
 
 ---
 
+### [Hacer la letra muy pequeña, perder olfato... estos son los síntomas que anticipan el párkinson - El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
+
+2026-04-21 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
+
+---
+
 ### [Alzheimer’s drugs offer little benefit, major review finds – and the reasons go deeper than the science - The Conversation](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGpmb29GTFR4aDZ2bGJzN3BZWmxuNVduSVVNbnlneEU2Smpsd2RSbVd1c0dYQ044NjJUMC1kbVVmU2ZRdzJmdGpRcFAyUlJ0eS01U1JyOXBmejhPdFZ0Q2VRR21CcG91QU1UVk1aOG1oSjI3WVBpVFJ5ek1JVWZKd2RJeWE0MGlCWXVZZGZhQnYtekktdzFSdVZ0QXVmNTF0MmVTWVdpb19rRTY0TlE0RlFlbUZTOE5lUEU0b3VWNkRiQjhMWGRvdlpHU3RITHc?oc=5)
 
 2026-04-21 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGpmb29GTFR4aDZ2bGJzN3BZWmxuNVduSVVNbnlneEU2Smpsd2RSbVd1c0dYQ044NjJUMC1kbVVmU2ZRdzJmdGpRcFAyUlJ0eS01U1JyOXBmejhPdFZ0Q2VRR21CcG91QU1UVk1aOG1oSjI3WVBpVFJ5ek1JVWZKd2RJeWE0MGlCWXVZZGZhQnYtekktdzFSdVZ0QXVmNTF0MmVTWVdpb19rRTY0TlE0RlFlbUZTOE5lUEU0b3VWNkRiQjhMWGRvdlpHU3RITHc?oc=5)
-
----
-
-### [Portlethen mum in race against time as son Ben battles childhood dementia - Press and Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUdybGpWZFVFV3hUcGR1dDFPT2d4WDRCZlo4TDUzcGlFSXYtMDRwci1VVDROajNuLW5BbTdadnF0MzJPaWwzRTVLRk10NzV0VFVFZVh4Z0dMZkxWdUx3QjhYVlJzZGFPNEM1eWxYaVZ2ZjRXanluOXhBaF9BWFY2cWVSc3BzT1VtTE9IMzlqSFUyLXJrVjlicmh1bVIxeGs4YWNBcVhybVJtTXZzb0R6Vzk1YlZ1eDExNVE?oc=5)
-
-2026-04-20 <span class="news-indication-tag">dementia</span>
-
-來源：[Press and Journal](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUdybGpWZFVFV3hUcGR1dDFPT2d4WDRCZlo4TDUzcGlFSXYtMDRwci1VVDROajNuLW5BbTdadnF0MzJPaWwzRTVLRk10NzV0VFVFZVh4Z0dMZkxWdUx3QjhYVlJzZGFPNEM1eWxYaVZ2ZjRXanluOXhBaF9BWFY2cWVSc3BzT1VtTE9IMzlqSFUyLXJrVjlicmh1bVIxeGs4YWNBcVhybVJtTXZzb0R6Vzk1YlZ1eDExNVE?oc=5)
-
----
-
-### [Discovering my toddler has dementia was the worst moment of my life... so when a test revealed her unborn sibling also had the disease we had no choice but to terminate my pregnancy](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
-
-2026-04-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
-
----
-
-### [Century-old cleaning ingredient linked to increased risk of Parkinson's disease](https://news.google.com/rss/articles/CBMikwFBVV95cUxONmNmSzFxZVZkbFN3ZGh6NDd5QmZ2NHI1UV9uRTdWY2hseHNCRUhTellGVjJ5VEtyWml5M2dKUVFfbUZSem1YNFhhU2lKNlJUZzBWQ3V2ZmViV0xjTlZ0eU50WjhJM2lUbW1SQTZrTmIzdWpFWEJjQXg0RmNRel9VcW1XWTVSdkVSZk5ad1I4cWlCam8?oc=5)
-
-2026-04-18 <span class="news-indication-tag">Parkinson's</span>
-
-來源：[Yahoo](https://news.google.com/rss/articles/CBMikwFBVV95cUxONmNmSzFxZVZkbFN3ZGh6NDd5QmZ2NHI1UV9uRTdWY2hseHNCRUhTellGVjJ5VEtyWml5M2dKUVFfbUZSem1YNFhhU2lKNlJUZzBWQ3V2ZmViV0xjTlZ0eU50WjhJM2lUbW1SQTZrTmIzdWpFWEJjQXg0RmNRel9VcW1XWTVSdkVSZk5ad1I4cWlCam8?oc=5)
 
 ---
 
