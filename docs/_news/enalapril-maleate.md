@@ -54,6 +54,14 @@ permalink: /news/enalapril-maleate/
 
 ## 相關新聞（28 則）
 
+### ['Overlooked cancer makes me fear for my daughters'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE82SUg4bHNfZDFPcmdDS0piQTFpcjlvZWlnSnRydVFuWjRfUW9JcFI4ck54M2ZzZENGZlR1R1lnSGI5QWxCTVJWX3Qxa2Q0UEI2SUFHb1Btek1aWkVj?oc=5)
+
+2026-04-22 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE82SUg4bHNfZDFPcmdDS0piQTFpcjlvZWlnSnRydVFuWjRfUW9JcFI4ck54M2ZzZENGZlR1R1lnSGI5QWxCTVJWX3Qxa2Q0UEI2SUFHb1Btek1aWkVj?oc=5)
+
+---
+
 ### [„Es ist ein Wunder, dass wir Gebärmutterhalskrebs heute als eine weitgehend vermeidbare Krebsart betrachten können“ – eine georgische Ärztin über die Auswirkungen von Impfungen auf mehrere Generationen - World Health Organization (WHO)](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPN0N1YVMtVEpXMkFEVHBWWnN4eFJoaGpSb3RRT1Vuai1kNklXdG5meWxWRjJKQkNjNEVKWHliUV9rMS1JSHB3MDBUS2lLTFlwYUdLNUZrY3F4RUlaYlZkdU1zRnRUdXd6ZlZxeE84dHNTd0kwUTQwUVI1QWp5ZnFVcTRPR25BUXRaMFlreUFtMV9vUFA1WjV2WDBsdnlqSTc5N2NydWNSendwclJieWNzWGZjeFZObUw2R0VoVEx1dlluZFRrY0Ixa1RLZU1fYjg1SU1ST1B6bzFmQXBOYzRRdmE0ZS1lNkk0Slg3bU50MW5ibDNNV05kazI0WmxsUlNhajhrek9FZzl4anp2UU1rNEFmRTc2X085ZTk5dlpuNDFCMDVHd1c5TVFXVmlwUy04Q3ZzMWtweXFuMEs5RXZFYg?oc=5)
 
 2026-04-21 <span class="news-indication-tag">Krebs</span>
@@ -70,11 +78,11 @@ permalink: /news/enalapril-maleate/
 
 ---
 
-### [My wife thought her common symptom was harmless but she died at 46 - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTA3OXBaYzRxcXNKbWN3VFRLSjFUOE80UlJ6akJXVGdtTjFQbkMxZXktU0NEWms4NmpxY0otNmN2UkpyTF9HaWFmVjU0ck93WmlZSmg1R3Jtdlo3QnprRDdGdWJDcU8xTHNxMlB1dk1KcmZvNzlDTllDLWRwQkFJSFBQbmw2dw?oc=5)
+### [Could an Avocado and Mango a Day Keep High Blood Pressure at Bay?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
 
-2026-04-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-21 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTA3OXBaYzRxcXNKbWN3VFRLSjFUOE80UlJ6akJXVGdtTjFQbkMxZXktU0NEWms4NmpxY0otNmN2UkpyTF9HaWFmVjU0ck93WmlZSmg1R3Jtdlo3QnprRDdGdWJDcU8xTHNxMlB1dk1KcmZvNzlDTllDLWRwQkFJSFBQbmw2dw?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/enalapril-maleate/
 2026-04-21 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[openPR.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUU1lMklacURub01aY2tqTlpZcV9NZ2Q0b2JUeU8wZ0VpSjllX3U3dm5SQWN2MFRVaERUM2NNdktiU29PZ0RQNWFtQk9aLV9DbkdyYzlXblc0dkNUMGFNUWRmbHNJaDdVSmlpUE5FT0RiYjJUaTJDbExkSjVRelFaRXdYYw?oc=5)
-
----
-
-### [Faut-il mettre de la crème solaire tous les jours ?](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWngtdVFUeXN2TGF5RkoxYWFQMDhWczNMU1pqc2VCWU5CQ2xhSDZHWW1aTnQteXdSMjhnTklXUkYxNUZMSnBxeGNyb0Q2Q09USmxzSFU0N1VranpyREtydG5YRnVUTG9rNVBGemwtUmFTTE9JSkFra2JmZzVjOG5zRWozS0xSR2RMd2cwNzJtVkROU1JBdG1fUk42Vm5qbGdwbVlMTFhaajFsb0VTQUMyc2hVb3dPRV9NaXp1RWtiaGNwc3ZI?oc=5)
-
-2026-04-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Libération](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWngtdVFUeXN2TGF5RkoxYWFQMDhWczNMU1pqc2VCWU5CQ2xhSDZHWW1aTnQteXdSMjhnTklXUkYxNUZMSnBxeGNyb0Q2Q09USmxzSFU0N1VranpyREtydG5YRnVUTG9rNVBGemwtUmFTTE9JSkFra2JmZzVjOG5zRWozS0xSR2RMd2cwNzJtVkROU1JBdG1fUk42Vm5qbGdwbVlMTFhaajFsb0VTQUMyc2hVb3dPRV9NaXp1RWtiaGNwc3ZI?oc=5)
 
 ---
 
@@ -134,14 +134,6 @@ permalink: /news/enalapril-maleate/
 
 ---
 
-### [Tumore al pancreas, il vaccino a mRNA e i risultati della sperimentazione: quasi tutti i pazienti vivi sei anni dopo - Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
-
----
-
 ### [Aspirin can reduce the risk of cancer - and we're starting to understand why](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0JJT0wxWDZBRFZCdjE2YnpJWGQ3Znc2allJMWNnTWJhZUJISzRBT1lGS2dmbG9sSUlEeXJybXBsY2ZvX0ZZUnhYOXZNR3IxWUZZbHg3T0RwbkRLOHFmc0hhQzhEVzEzbmpLaFRQR3B6SURtajRJMDhkR0hEVFl3RHFxd2FkWnZnMWJ4N0NWZTJCaTg4VzM1MWhOZ3k2VWxYTW8zclBQZmZzaFE?oc=5)
 
 2026-04-21 <span class="news-indication-tag">cancer</span>
@@ -174,19 +166,27 @@ permalink: /news/enalapril-maleate/
 
 ---
 
-### [Un estudio del Cancer Center Clínica Universidad de Navarra señala que una estrategia de vacunación personalizada podría ayudar a más pacientes con cáncer de hígado a responder a la inmunoterapia - Diario de Navarra](https://news.google.com/rss/articles/CBMiugJBVV95cUxNazdLbDVoNnhWYnJqMm0xbk9zVnNmVEhscFAtaFQyVWNPOEtJU2xFZkpVbkxWQkhwVDA3NGMwZTRYcU9GWEFkUGdSempkZzh5NjBYb1l6R0VLdE0wX2NmTG0tRF9BZGhQSGdGWXlBWUFjOXlYa3kwX1gxSVZMT0I3cU1adjdUendhY3RmbzhJeTRTU3U1WS1mcUlmUTZqNUlrZVVtbjNZblAwUjc4ZnU4TG9BZktaVHVXVDNENncwN1EzaUVkSzY1SUkzU2J6M1B4enNyYS1pUUphVm1CaGlYVzZLdXpvakoydHYwWGUzd2VHQTA4MGYwV0YwRERaNnFibHBrV2xVa3pLaXVPcjg2Q2NHVXZXRjUxYUJ1M0J2Z191TFhBNTV0d1ZoZlBURnkxWVJZb2RlRDZsZw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMiugJBVV95cUxNazdLbDVoNnhWYnJqMm0xbk9zVnNmVEhscFAtaFQyVWNPOEtJU2xFZkpVbkxWQkhwVDA3NGMwZTRYcU9GWEFkUGdSempkZzh5NjBYb1l6R0VLdE0wX2NmTG0tRF9BZGhQSGdGWXlBWUFjOXlYa3kwX1gxSVZMT0I3cU1adjdUendhY3RmbzhJeTRTU3U1WS1mcUlmUTZqNUlrZVVtbjNZblAwUjc4ZnU4TG9BZktaVHVXVDNENncwN1EzaUVkSzY1SUkzU2J6M1B4enNyYS1pUUphVm1CaGlYVzZLdXpvakoydHYwWGUzd2VHQTA4MGYwV0YwRERaNnFibHBrV2xVa3pLaXVPcjg2Q2NHVXZXRjUxYUJ1M0J2Z191TFhBNTV0d1ZoZlBURnkxWVJZb2RlRDZsZw?oc=5)
-
----
-
 ### [Als Sodbrennen abgetan: Mann entwickelt weitere Symptome – Diagnose Speiseröhrenkrebs](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmRza3czam9aUnR4aml2Z2xWTGZBc003bm16SnFtUEstX3p5ZUhZSXl5WW5USjZhd0ZPQ2JtNXE2WmlObWt0bU5ud25QcjVOeURLSVEyb04tQkpiLVlISGJjeHFDY21DMTVrRkhHM1Fpb1E5aFFlVFY4X1VGd19Pdjg4aEJwbmVvSE9tLUtjNTByejM5azBBd3FJRTJRaUswbHBoal9XQU9tMWx1TTdWTndEbG5jTzBhWVhTejJnQWhBR3FyaFBUYWhXMHo4MTl6eTM3R0dpOERZMDg?oc=5)
 
 2026-04-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[MSN](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmRza3czam9aUnR4aml2Z2xWTGZBc003bm16SnFtUEstX3p5ZUhZSXl5WW5USjZhd0ZPQ2JtNXE2WmlObWt0bU5ud25QcjVOeURLSVEyb04tQkpiLVlISGJjeHFDY21DMTVrRkhHM1Fpb1E5aFFlVFY4X1VGd19Pdjg4aEJwbmVvSE9tLUtjNTByejM5azBBd3FJRTJRaUswbHBoal9XQU9tMWx1TTdWTndEbG5jTzBhWVhTejJnQWhBR3FyaFBUYWhXMHo4MTl6eTM3R0dpOERZMDg?oc=5)
+
+---
+
+### [Faut-il mettre de la crème solaire tous les jours ?](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWngtdVFUeXN2TGF5RkoxYWFQMDhWczNMU1pqc2VCWU5CQ2xhSDZHWW1aTnQteXdSMjhnTklXUkYxNUZMSnBxeGNyb0Q2Q09USmxzSFU0N1VranpyREtydG5YRnVUTG9rNVBGemwtUmFTTE9JSkFra2JmZzVjOG5zRWozS0xSR2RMd2cwNzJtVkROU1JBdG1fUk42Vm5qbGdwbVlMTFhaajFsb0VTQUMyc2hVb3dPRV9NaXp1RWtiaGNwc3ZI?oc=5)
+
+2026-04-21 <span class="news-indication-tag">cancer</span>
+
+來源：[Libération](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWngtdVFUeXN2TGF5RkoxYWFQMDhWczNMU1pqc2VCWU5CQ2xhSDZHWW1aTnQteXdSMjhnTklXUkYxNUZMSnBxeGNyb0Q2Q09USmxzSFU0N1VranpyREtydG5YRnVUTG9rNVBGemwtUmFTTE9JSkFra2JmZzVjOG5zRWozS0xSR2RMd2cwNzJtVkROU1JBdG1fUk42Vm5qbGdwbVlMTFhaajFsb0VTQUMyc2hVb3dPRV9NaXp1RWtiaGNwc3ZI?oc=5)
+
+---
+
+### [Tumore al pancreas, il vaccino a mRNA e i risultati della sperimentazione: quasi tutti i pazienti vivi sei anni dopo - Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
+
+2026-04-21 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
 
 ---
 
@@ -238,19 +238,19 @@ permalink: /news/enalapril-maleate/
 
 ---
 
+### [Absurd study suggests eating fruits and vegetables leads to cancer - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTXlvR2xyR0VJZER3RFhDR09sQzhadno1bmtDNDVCcDEyMmNYNGN2M28zb1IyNk51cmFIcmlJaDYzM2V5bV8zd1F3ZnhZWmRxRVhpUG1ELTZGRWt0a0VUSmhlUWUtRkVrWXYwMUtkeC04eGZUeEdfVWJfVzZLSW1yVjRuODBMcUVWWlFWZmhLemUyVW1NN0xYN3FNeHBOWk9KS3VTbDdwZTJUNUI5SWNJ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">cancer</span>
+
+來源：[Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTXlvR2xyR0VJZER3RFhDR09sQzhadno1bmtDNDVCcDEyMmNYNGN2M28zb1IyNk51cmFIcmlJaDYzM2V5bV8zd1F3ZnhZWmRxRVhpUG1ELTZGRWt0a0VUSmhlUWUtRkVrWXYwMUtkeC04eGZUeEdfVWJfVzZLSW1yVjRuODBMcUVWWlFWZmhLemUyVW1NN0xYN3FNeHBOWk9KS3VTbDdwZTJUNUI5SWNJ?oc=5)
+
+---
+
 ### [Gebärmutterhalskrebs durch HPV: Warum Vorsorge so wichtig ist](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUFhb2R5U1hWOVVxZVVoZkdiMWZXZW1RVVVmckxxYXZOTG9WMTY4NmZxbGFuUHpYemIxSDBaSnZBd1VaM2JiUlVBQXBkdDVpMnVxVmNWSFdJMTdOenJHam0zMjVzemdfVlZLWUotWG1mR2ppdVA3bHIwT1VxZGdOUFdXZ0NLdHR0ME1PVE40ZUxtenVCNW8waC0zdnNueHlpQVE2bkZpS2VGYWxiUW9aYVJUM3dqMkFBZnc?oc=5)
 
 2026-04-20 <span class="news-indication-tag">Krebs</span>
 
 來源：[NWZonline](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUFhb2R5U1hWOVVxZVVoZkdiMWZXZW1RVVVmckxxYXZOTG9WMTY4NmZxbGFuUHpYemIxSDBaSnZBd1VaM2JiUlVBQXBkdDVpMnVxVmNWSFdJMTdOenJHam0zMjVzemdfVlZLWUotWG1mR2ppdVA3bHIwT1VxZGdOUFdXZ0NLdHR0ME1PVE40ZUxtenVCNW8waC0zdnNueHlpQVE2bkZpS2VGYWxiUW9aYVJUM3dqMkFBZnc?oc=5)
-
----
-
-### [Eating fruit is linked to lung cancer? Here’s what you need to know about that new study - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjVodlVGdmlFWnd6NDVKMUNZX1p1RGJrX1JjZk00cWljVm54a0t5aVFPd09GZnlfc2dLODhOaXdlUEprcV9uVnhEWXVMTjRMaHJkMzJLcXlzazNFeDBHRE1scWppNGk4R0xQM0hIVUV1R094RWZaSFdYMXV1RG1YazFNcHVrOEJXOU9uM08ycXJzMm00aWRLbFo0QmExdU5lZmpsbFR4TkpTQ1JCbnNiRVBHSTRVRzlQYldzbFVn?oc=5)
-
-2026-04-20 <span class="news-indication-tag">cancer</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjVodlVGdmlFWnd6NDVKMUNZX1p1RGJrX1JjZk00cWljVm54a0t5aVFPd09GZnlfc2dLODhOaXdlUEprcV9uVnhEWXVMTjRMaHJkMzJLcXlzazNFeDBHRE1scWppNGk4R0xQM0hIVUV1R094RWZaSFdYMXV1RG1YazFNcHVrOEJXOU9uM08ycXJzMm00aWRLbFo0QmExdU5lZmpsbFR4TkpTQ1JCbnNiRVBHSTRVRzlQYldzbFVn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/onasemnogene-abeparvovec/
 ---
 
 <p class="key-answer" data-question="Onasemnogene Abeparvovec 有什麼相關新聞？">
-<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/onasemnogene-abeparvovec/
 <p><a href="{{ '/drugs/onasemnogene-abeparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（34 則）
+
+### [La dieta cetogénica muestra mejoras en la función del páncreas en pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3YtVUJDcklUNUI1bGlsRnlYZXAyY1NIM1YtYi1IYmNxdlNPRUkwMVpLQ1U5QnNMMkdhdXRrd0RYclR2a1FLWkNSSE1YWVFXdXN6cm9VVXFNWXJfX2lpcU1ac1FKZjZiUjdtTkV0aEtEeGpXSnRKSDc3bWpPZVllZWFpZXlZdzNrN3lSRDJmalhnQ3lyVlg3eTBUM180dzBqcEVCZ0NnYmlqQnloZEdzbUVuNGlLa18tV2N0WmVuWUU2MlJhYnpMQXRCYjl1UUw1S3N3?oc=5)
+
+2026-04-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3YtVUJDcklUNUI1bGlsRnlYZXAyY1NIM1YtYi1IYmNxdlNPRUkwMVpLQ1U5QnNMMkdhdXRrd0RYclR2a1FLWkNSSE1YWVFXdXN6cm9VVXFNWXJfX2lpcU1ac1FKZjZiUjdtTkV0aEtEeGpXSnRKSDc3bWpPZVllZWFpZXlZdzNrN3lSRDJmalhnQ3lyVlg3eTBUM180dzBqcEVCZ0NnYmlqQnloZEdzbUVuNGlLa18tV2N0WmVuWUU2MlJhYnpMQXRCYjl1UUw1S3N3?oc=5)
+
+---
+
+### ['Overlooked cancer makes me fear for my daughters'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE82SUg4bHNfZDFPcmdDS0piQTFpcjlvZWlnSnRydVFuWjRfUW9JcFI4ck54M2ZzZENGZlR1R1lnSGI5QWxCTVJWX3Qxa2Q0UEI2SUFHb1Btek1aWkVj?oc=5)
+
+2026-04-22 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE82SUg4bHNfZDFPcmdDS0piQTFpcjlvZWlnSnRydVFuWjRfUW9JcFI4ck54M2ZzZENGZlR1R1lnSGI5QWxCTVJWX3Qxa2Q0UEI2SUFHb1Btek1aWkVj?oc=5)
+
+---
 
 ### [„Es ist ein Wunder, dass wir Gebärmutterhalskrebs heute als eine weitgehend vermeidbare Krebsart betrachten können“ – eine georgische Ärztin über die Auswirkungen von Impfungen auf mehrere Generationen - World Health Organization (WHO)](https://news.google.com/rss/articles/CBMiwAJBVV95cUxPN0N1YVMtVEpXMkFEVHBWWnN4eFJoaGpSb3RRT1Vuai1kNklXdG5meWxWRjJKQkNjNEVKWHliUV9rMS1JSHB3MDBUS2lLTFlwYUdLNUZrY3F4RUlaYlZkdU1zRnRUdXd6ZlZxeE84dHNTd0kwUTQwUVI1QWp5ZnFVcTRPR25BUXRaMFlreUFtMV9vUFA1WjV2WDBsdnlqSTc5N2NydWNSendwclJieWNzWGZjeFZObUw2R0VoVEx1dlluZFRrY0Ixa1RLZU1fYjg1SU1ST1B6bzFmQXBOYzRRdmE0ZS1lNkk0Slg3bU50MW5ibDNNV05kazI0WmxsUlNhajhrek9FZzl4anp2UU1rNEFmRTc2X085ZTk5dlpuNDFCMDVHd1c5TVFXVmlwUy04Q3ZzMWtweXFuMEs5RXZFYg?oc=5)
 
@@ -78,14 +94,6 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [My wife thought her common symptom was harmless but she died at 46 - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTA3OXBaYzRxcXNKbWN3VFRLSjFUOE80UlJ6akJXVGdtTjFQbkMxZXktU0NEWms4NmpxY0otNmN2UkpyTF9HaWFmVjU0ck93WmlZSmg1R3Jtdlo3QnprRDdGdWJDcU8xTHNxMlB1dk1KcmZvNzlDTllDLWRwQkFJSFBQbmw2dw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTA3OXBaYzRxcXNKbWN3VFRLSjFUOE80UlJ6akJXVGdtTjFQbkMxZXktU0NEWms4NmpxY0otNmN2UkpyTF9HaWFmVjU0ck93WmlZSmg1R3Jtdlo3QnprRDdGdWJDcU8xTHNxMlB1dk1KcmZvNzlDTllDLWRwQkFJSFBQbmw2dw?oc=5)
-
----
-
 ### [I was itching myself to death every night - doctors blamed dry skin but in a moment I instantly knew it was cancer - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXhaaXZxVzhwakt0RGx3MzI2RFQ5cWFyeUNoYVhXMVdRaksxNEc4aTFhT3hYckVIeWdZV1Vtc2hxOWxyQXFHU3hOUEpoNXU0ajUyZnF1WlpiWUkxNzdHM2hQT3M2M3lETGtYQkZVTGpKUzFhZFRMTEZ4bHNJbk1zdHlEdXhKUFRiQzUzQl9PNTlMRG8?oc=5)
 
 2026-04-21 <span class="news-indication-tag">cancer</span>
@@ -99,22 +107,6 @@ permalink: /news/onasemnogene-abeparvovec/
 2026-04-21 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[openPR.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUU1lMklacURub01aY2tqTlpZcV9NZ2Q0b2JUeU8wZ0VpSjllX3U3dm5SQWN2MFRVaERUM2NNdktiU29PZ0RQNWFtQk9aLV9DbkdyYzlXblc0dkNUMGFNUWRmbHNJaDdVSmlpUE5FT0RiYjJUaTJDbExkSjVRelFaRXdYYw?oc=5)
-
----
-
-### [Identifican el tipo de dieta que logra revertir la diabetes tipo 2 - La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRTBuZTdfUWRRNmI5c0lzalF3cG04dG43bHRISnNkclBZcERfb1F1RXB4bGQwenpWQnBWWF9pOGVsR2d3Y2FMZlFJUEctNTlLcHVKaXRTLV9XUzFXc2RybFN3dU1NVVhHY2E5U1pocEhhcUZxbnJ1ajE2MXg4ZW0yZVlabDFmblBnRHdySmpndEZ4NzNVMVBMd1JZVkFQLVFqRm9uTncyRUVJaWJpX0o4ei1JSDJFUGo2YnZtX0I1RHYzUdIB1gFBVV95cUxNbnJsQ2RQQWNFZ2Nja19sX1B5R1k2UlpMUkZYZ3hJYnVJcS1CSWlYWEVBYzhIY3ZBX0F5T3M3M0pCbHROdXlqSV9fWFRQNXFvNkdVRHJ2b25fczhORVA2Q3pQelByaldpUE9mZGc5d3IySXBHbjRCazRadFlHM0M3VGF3eXMtYXlQVi1xeUl0WXI2cnRvZVFlMUpyY1p5d3FPb3lkcWFsUE5jTWJRRDRoWHZwNWQxaGRicWN0cUhPak9aQWZVM04zMW5LZGlrUExvLWZ3TFRR?oc=5)
-
-2026-04-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRTBuZTdfUWRRNmI5c0lzalF3cG04dG43bHRISnNkclBZcERfb1F1RXB4bGQwenpWQnBWWF9pOGVsR2d3Y2FMZlFJUEctNTlLcHVKaXRTLV9XUzFXc2RybFN3dU1NVVhHY2E5U1pocEhhcUZxbnJ1ajE2MXg4ZW0yZVlabDFmblBnRHdySmpndEZ4NzNVMVBMd1JZVkFQLVFqRm9uTncyRUVJaWJpX0o4ei1JSDJFUGo2YnZtX0I1RHYzUdIB1gFBVV95cUxNbnJsQ2RQQWNFZ2Nja19sX1B5R1k2UlpMUkZYZ3hJYnVJcS1CSWlYWEVBYzhIY3ZBX0F5T3M3M0pCbHROdXlqSV9fWFRQNXFvNkdVRHJ2b25fczhORVA2Q3pQelByaldpUE9mZGc5d3IySXBHbjRCazRadFlHM0M3VGF3eXMtYXlQVi1xeUl0WXI2cnRvZVFlMUpyY1p5d3FPb3lkcWFsUE5jTWJRRDRoWHZwNWQxaGRicWN0cUhPak9aQWZVM04zMW5LZGlrUExvLWZ3TFRR?oc=5)
-
----
-
-### [Faut-il mettre de la crème solaire tous les jours ?](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWngtdVFUeXN2TGF5RkoxYWFQMDhWczNMU1pqc2VCWU5CQ2xhSDZHWW1aTnQteXdSMjhnTklXUkYxNUZMSnBxeGNyb0Q2Q09USmxzSFU0N1VranpyREtydG5YRnVUTG9rNVBGemwtUmFTTE9JSkFra2JmZzVjOG5zRWozS0xSR2RMd2cwNzJtVkROU1JBdG1fUk42Vm5qbGdwbVlMTFhaajFsb0VTQUMyc2hVb3dPRV9NaXp1RWtiaGNwc3ZI?oc=5)
-
-2026-04-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Libération](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWngtdVFUeXN2TGF5RkoxYWFQMDhWczNMU1pqc2VCWU5CQ2xhSDZHWW1aTnQteXdSMjhnTklXUkYxNUZMSnBxeGNyb0Q2Q09USmxzSFU0N1VranpyREtydG5YRnVUTG9rNVBGemwtUmFTTE9JSkFra2JmZzVjOG5zRWozS0xSR2RMd2cwNzJtVkROU1JBdG1fUk42Vm5qbGdwbVlMTFhaajFsb0VTQUMyc2hVb3dPRV9NaXp1RWtiaGNwc3ZI?oc=5)
 
 ---
 
@@ -158,14 +150,6 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Tumore al pancreas, il vaccino a mRNA e i risultati della sperimentazione: quasi tutti i pazienti vivi sei anni dopo - Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
-
----
-
 ### [Aspirin can reduce the risk of cancer - and we're starting to understand why](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0JJT0wxWDZBRFZCdjE2YnpJWGQ3Znc2allJMWNnTWJhZUJISzRBT1lGS2dmbG9sSUlEeXJybXBsY2ZvX0ZZUnhYOXZNR3IxWUZZbHg3T0RwbkRLOHFmc0hhQzhEVzEzbmpLaFRQR3B6SURtajRJMDhkR0hEVFl3RHFxd2FkWnZnMWJ4N0NWZTJCaTg4VzM1MWhOZ3k2VWxYTW8zclBQZmZzaFE?oc=5)
 
 2026-04-21 <span class="news-indication-tag">cancer</span>
@@ -198,19 +182,27 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Un estudio del Cancer Center Clínica Universidad de Navarra señala que una estrategia de vacunación personalizada podría ayudar a más pacientes con cáncer de hígado a responder a la inmunoterapia - Diario de Navarra](https://news.google.com/rss/articles/CBMiugJBVV95cUxNazdLbDVoNnhWYnJqMm0xbk9zVnNmVEhscFAtaFQyVWNPOEtJU2xFZkpVbkxWQkhwVDA3NGMwZTRYcU9GWEFkUGdSempkZzh5NjBYb1l6R0VLdE0wX2NmTG0tRF9BZGhQSGdGWXlBWUFjOXlYa3kwX1gxSVZMT0I3cU1adjdUendhY3RmbzhJeTRTU3U1WS1mcUlmUTZqNUlrZVVtbjNZblAwUjc4ZnU4TG9BZktaVHVXVDNENncwN1EzaUVkSzY1SUkzU2J6M1B4enNyYS1pUUphVm1CaGlYVzZLdXpvakoydHYwWGUzd2VHQTA4MGYwV0YwRERaNnFibHBrV2xVa3pLaXVPcjg2Q2NHVXZXRjUxYUJ1M0J2Z191TFhBNTV0d1ZoZlBURnkxWVJZb2RlRDZsZw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMiugJBVV95cUxNazdLbDVoNnhWYnJqMm0xbk9zVnNmVEhscFAtaFQyVWNPOEtJU2xFZkpVbkxWQkhwVDA3NGMwZTRYcU9GWEFkUGdSempkZzh5NjBYb1l6R0VLdE0wX2NmTG0tRF9BZGhQSGdGWXlBWUFjOXlYa3kwX1gxSVZMT0I3cU1adjdUendhY3RmbzhJeTRTU3U1WS1mcUlmUTZqNUlrZVVtbjNZblAwUjc4ZnU4TG9BZktaVHVXVDNENncwN1EzaUVkSzY1SUkzU2J6M1B4enNyYS1pUUphVm1CaGlYVzZLdXpvakoydHYwWGUzd2VHQTA4MGYwV0YwRERaNnFibHBrV2xVa3pLaXVPcjg2Q2NHVXZXRjUxYUJ1M0J2Z191TFhBNTV0d1ZoZlBURnkxWVJZb2RlRDZsZw?oc=5)
-
----
-
 ### [Als Sodbrennen abgetan: Mann entwickelt weitere Symptome – Diagnose Speiseröhrenkrebs](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmRza3czam9aUnR4aml2Z2xWTGZBc003bm16SnFtUEstX3p5ZUhZSXl5WW5USjZhd0ZPQ2JtNXE2WmlObWt0bU5ud25QcjVOeURLSVEyb04tQkpiLVlISGJjeHFDY21DMTVrRkhHM1Fpb1E5aFFlVFY4X1VGd19Pdjg4aEJwbmVvSE9tLUtjNTByejM5azBBd3FJRTJRaUswbHBoal9XQU9tMWx1TTdWTndEbG5jTzBhWVhTejJnQWhBR3FyaFBUYWhXMHo4MTl6eTM3R0dpOERZMDg?oc=5)
 
 2026-04-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[MSN](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmRza3czam9aUnR4aml2Z2xWTGZBc003bm16SnFtUEstX3p5ZUhZSXl5WW5USjZhd0ZPQ2JtNXE2WmlObWt0bU5ud25QcjVOeURLSVEyb04tQkpiLVlISGJjeHFDY21DMTVrRkhHM1Fpb1E5aFFlVFY4X1VGd19Pdjg4aEJwbmVvSE9tLUtjNTByejM5azBBd3FJRTJRaUswbHBoal9XQU9tMWx1TTdWTndEbG5jTzBhWVhTejJnQWhBR3FyaFBUYWhXMHo4MTl6eTM3R0dpOERZMDg?oc=5)
+
+---
+
+### [Faut-il mettre de la crème solaire tous les jours ?](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWngtdVFUeXN2TGF5RkoxYWFQMDhWczNMU1pqc2VCWU5CQ2xhSDZHWW1aTnQteXdSMjhnTklXUkYxNUZMSnBxeGNyb0Q2Q09USmxzSFU0N1VranpyREtydG5YRnVUTG9rNVBGemwtUmFTTE9JSkFra2JmZzVjOG5zRWozS0xSR2RMd2cwNzJtVkROU1JBdG1fUk42Vm5qbGdwbVlMTFhaajFsb0VTQUMyc2hVb3dPRV9NaXp1RWtiaGNwc3ZI?oc=5)
+
+2026-04-21 <span class="news-indication-tag">cancer</span>
+
+來源：[Libération](https://news.google.com/rss/articles/CBMixAFBVV95cUxQWngtdVFUeXN2TGF5RkoxYWFQMDhWczNMU1pqc2VCWU5CQ2xhSDZHWW1aTnQteXdSMjhnTklXUkYxNUZMSnBxeGNyb0Q2Q09USmxzSFU0N1VranpyREtydG5YRnVUTG9rNVBGemwtUmFTTE9JSkFra2JmZzVjOG5zRWozS0xSR2RMd2cwNzJtVkROU1JBdG1fUk42Vm5qbGdwbVlMTFhaajFsb0VTQUMyc2hVb3dPRV9NaXp1RWtiaGNwc3ZI?oc=5)
+
+---
+
+### [Tumore al pancreas, il vaccino a mRNA e i risultati della sperimentazione: quasi tutti i pazienti vivi sei anni dopo - Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
+
+2026-04-21 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
 
 ---
 
@@ -278,6 +270,14 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
+### [Absurd study suggests eating fruits and vegetables leads to cancer - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTXlvR2xyR0VJZER3RFhDR09sQzhadno1bmtDNDVCcDEyMmNYNGN2M28zb1IyNk51cmFIcmlJaDYzM2V5bV8zd1F3ZnhZWmRxRVhpUG1ELTZGRWt0a0VUSmhlUWUtRkVrWXYwMUtkeC04eGZUeEdfVWJfVzZLSW1yVjRuODBMcUVWWlFWZmhLemUyVW1NN0xYN3FNeHBOWk9KS3VTbDdwZTJUNUI5SWNJ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">cancer</span>
+
+來源：[Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTXlvR2xyR0VJZER3RFhDR09sQzhadno1bmtDNDVCcDEyMmNYNGN2M28zb1IyNk51cmFIcmlJaDYzM2V5bV8zd1F3ZnhZWmRxRVhpUG1ELTZGRWt0a0VUSmhlUWUtRkVrWXYwMUtkeC04eGZUeEdfVWJfVzZLSW1yVjRuODBMcUVWWlFWZmhLemUyVW1NN0xYN3FNeHBOWk9KS3VTbDdwZTJUNUI5SWNJ?oc=5)
+
+---
+
 ### [Gebärmutterhalskrebs durch HPV: Warum Vorsorge so wichtig ist](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUFhb2R5U1hWOVVxZVVoZkdiMWZXZW1RVVVmckxxYXZOTG9WMTY4NmZxbGFuUHpYemIxSDBaSnZBd1VaM2JiUlVBQXBkdDVpMnVxVmNWSFdJMTdOenJHam0zMjVzemdfVlZLWUotWG1mR2ppdVA3bHIwT1VxZGdOUFdXZ0NLdHR0ME1PVE40ZUxtenVCNW8waC0zdnNueHlpQVE2bkZpS2VGYWxiUW9aYVJUM3dqMkFBZnc?oc=5)
 
 2026-04-20 <span class="news-indication-tag">Krebs</span>
@@ -286,19 +286,19 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Eating fruit is linked to lung cancer? Here’s what you need to know about that new study - The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjVodlVGdmlFWnd6NDVKMUNZX1p1RGJrX1JjZk00cWljVm54a0t5aVFPd09GZnlfc2dLODhOaXdlUEprcV9uVnhEWXVMTjRMaHJkMzJLcXlzazNFeDBHRE1scWppNGk4R0xQM0hIVUV1R094RWZaSFdYMXV1RG1YazFNcHVrOEJXOU9uM08ycXJzMm00aWRLbFo0QmExdU5lZmpsbFR4TkpTQ1JCbnNiRVBHSTRVRzlQYldzbFVn?oc=5)
-
-2026-04-20 <span class="news-indication-tag">cancer</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjVodlVGdmlFWnd6NDVKMUNZX1p1RGJrX1JjZk00cWljVm54a0t5aVFPd09GZnlfc2dLODhOaXdlUEprcV9uVnhEWXVMTjRMaHJkMzJLcXlzazNFeDBHRE1scWppNGk4R0xQM0hIVUV1R094RWZaSFdYMXV1RG1YazFNcHVrOEJXOU9uM08ycXJzMm00aWRLbFo0QmExdU5lZmpsbFR4TkpTQ1JCbnNiRVBHSTRVRzlQYldzbFVn?oc=5)
-
----
-
 ### [Cette quantité par jour suffit : les aliments ultra-transformés augmentent de 70% le risque d'AVC et d'infarctus](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbURSTHZNeWpySlFGRldwMlBSeVRXT2IweHZ5LTgzOFdJMC1reTFEMHlLamdicXVUQXBDQnBIM3pDUl9mRnVaQ0p3ZEgyLXY4WFpVM24yWFpBaThkdDBlSFNPcE5xdGZEaGFhNGItVVJZc04wT09LWmhtOWNsUU9QTkF1M3Z4MmhUa3RjN3JCOTFPc1I5N2c?oc=5)
 
 2026-04-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbURSTHZNeWpySlFGRldwMlBSeVRXT2IweHZ5LTgzOFdJMC1reTFEMHlLamdicXVUQXBDQnBIM3pDUl9mRnVaQ0p3ZEgyLXY4WFpVM24yWFpBaThkdDBlSFNPcE5xdGZEaGFhNGItVVJZc04wT09LWmhtOWNsUU9QTkF1M3Z4MmhUa3RjN3JCOTFPc1I5N2c?oc=5)
+
+---
+
+### [Neue Leitlinien zur Schilddrüsenkontrolle bei Typ-1-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxORlZMSDgya3pST1VTMUt1dXFQNGQ0bFJ2Q1BSZjNLR3hscHNwN194OGNoOHpOX08yNmU5X3BhbEl4MTNDWDZoek5EX2dLcFNiMWhnclQ4MmpMU3VGaVVyUmpESThKTEpGNGlrM3pSbElIVWY3ZUoxSm5FdUxoX3JkcFA3cVAyZE8wS01kX2JicTdFQk5fR2U3Yg?oc=5)
+
+2026-04-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxORlZMSDgya3pST1VTMUt1dXFQNGQ0bFJ2Q1BSZjNLR3hscHNwN194OGNoOHpOX08yNmU5X3BhbEl4MTNDWDZoek5EX2dLcFNiMWhnclQ4MmpMU3VGaVVyUmpESThKTEpGNGlrM3pSbElIVWY3ZUoxSm5FdUxoX3JkcFA3cVAyZE8wS01kX2JicTdFQk5fR2U3Yg?oc=5)
 
 ---
 
@@ -323,14 +323,6 @@ permalink: /news/onasemnogene-abeparvovec/
 2026-04-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2hOeXYtRTA2aTRycWhOOW16SEp0ZmhqX1RyM0tiRmJ4dTdaUUpDVmdBdEt4YXY5cUYtamJwM1J3N1RVRWVhU0N5X1RMRW9Hc3VtWEVoRjM4LUhZbmY0UWpHWlhhckdDNFZQSERadEdPZWZtYzlnTGxTOWt4UkxfTmd4eTkxWlNVM0dTOHZmclhTcm03NkZmbjFrV1ZuM3habkFFMW5lcEUtcXRXOUxwaWR5T2tqTTBIYUJHc21Xdkt3eHFMXzhuZVlCZnFSWkg3ZVFGWWVWanVIbG1vSmNFdlU5NA?oc=5)
-
----
-
-### [People with diabetes to receive specialist mental health support in UK first](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVFkUFRybEswYktwWUNRdzBsVlJRelc5LURQNzgxMEYtejk1LVlTdGVpMmNPaFFSbmZlUUxFdWlIYUd2UjJrYXZZMHFWeFl1VU94aXpFWVQxeTZqNHNnbnB3UVNxdTFpT3BuNk1MS3ZuYVRMekFCUFB6SkROWXJGZ092WlI5R1hZLUFXeWFCS2wyejk2ZlJmZmlfWWZrYWNaZ3laMGdtNWNfbXRjbHpJQmprdGZabm5EeU91RkdyRQ?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[diabetes.co.uk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVFkUFRybEswYktwWUNRdzBsVlJRelc5LURQNzgxMEYtejk1LVlTdGVpMmNPaFFSbmZlUUxFdWlIYUd2UjJrYXZZMHFWeFl1VU94aXpFWVQxeTZqNHNnbnB3UVNxdTFpT3BuNk1MS3ZuYVRMekFCUFB6SkROWXJGZ092WlI5R1hZLUFXeWFCS2wyejk2ZlJmZmlfWWZrYWNaZ3laMGdtNWNfbXRjbHpJQmprdGZabm5EeU91RkdyRQ?oc=5)
 
 ---
 

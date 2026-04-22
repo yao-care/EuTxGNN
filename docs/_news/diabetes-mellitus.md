@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetic（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetic（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetic（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetic（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetic（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetic」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,19 +116,19 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（6 則）
 
+### [La dieta cetogénica muestra mejoras en la función del páncreas en pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3YtVUJDcklUNUI1bGlsRnlYZXAyY1NIM1YtYi1IYmNxdlNPRUkwMVpLQ1U5QnNMMkdhdXRrd0RYclR2a1FLWkNSSE1YWVFXdXN6cm9VVXFNWXJfX2lpcU1ac1FKZjZiUjdtTkV0aEtEeGpXSnRKSDc3bWpPZVllZWFpZXlZdzNrN3lSRDJmalhnQ3lyVlg3eTBUM180dzBqcEVCZ0NnYmlqQnloZEdzbUVuNGlLa18tV2N0WmVuWUU2MlJhYnpMQXRCYjl1UUw1S3N3?oc=5)
+
+2026-04-22
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3YtVUJDcklUNUI1bGlsRnlYZXAyY1NIM1YtYi1IYmNxdlNPRUkwMVpLQ1U5QnNMMkdhdXRrd0RYclR2a1FLWkNSSE1YWVFXdXN6cm9VVXFNWXJfX2lpcU1ac1FKZjZiUjdtTkV0aEtEeGpXSnRKSDc3bWpPZVllZWFpZXlZdzNrN3lSRDJmalhnQ3lyVlg3eTBUM180dzBqcEVCZ0NnYmlqQnloZEdzbUVuNGlLa18tV2N0WmVuWUU2MlJhYnpMQXRCYjl1UUw1S3N3?oc=5)
+
+---
+
 ### [Salute e prevenzione: all'Associazione diabetici incontro con il dottor di Lembo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXR1RFBUY3lOeERVaWlCNW42a1ZmZnpQRzZvM2JqUXd0NkpZVkY5UEc1c3M4bGhzck1VV2pQem9mMnZMRmw0WHZFQ0lJZDJpbkJyZzktOExlNWFnaFlfbElhQnJSTXIyUGxmd2JGdlg5ZXBYa0FUSDc4V1lXdGlPOHB6U0RFVXVHREJhM0YzWl9tRTNUNi1VRDFNZjhQLVlZcDdVMmMzYzJiUlVCbFFTaVJLN21LbG5N?oc=5)
 
 2026-04-21
 
 來源：[Cremonaoggi](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXR1RFBUY3lOeERVaWlCNW42a1ZmZnpQRzZvM2JqUXd0NkpZVkY5UEc1c3M4bGhzck1VV2pQem9mMnZMRmw0WHZFQ0lJZDJpbkJyZzktOExlNWFnaFlfbElhQnJSTXIyUGxmd2JGdlg5ZXBYa0FUSDc4V1lXdGlPOHB6U0RFVXVHREJhM0YzWl9tRTNUNi1VRDFNZjhQLVlZcDdVMmMzYzJiUlVCbFFTaVJLN21LbG5N?oc=5)
-
----
-
-### [Identifican el tipo de dieta que logra revertir la diabetes tipo 2 - La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRTBuZTdfUWRRNmI5c0lzalF3cG04dG43bHRISnNkclBZcERfb1F1RXB4bGQwenpWQnBWWF9pOGVsR2d3Y2FMZlFJUEctNTlLcHVKaXRTLV9XUzFXc2RybFN3dU1NVVhHY2E5U1pocEhhcUZxbnJ1ajE2MXg4ZW0yZVlabDFmblBnRHdySmpndEZ4NzNVMVBMd1JZVkFQLVFqRm9uTncyRUVJaWJpX0o4ei1JSDJFUGo2YnZtX0I1RHYzUdIB1gFBVV95cUxNbnJsQ2RQQWNFZ2Nja19sX1B5R1k2UlpMUkZYZ3hJYnVJcS1CSWlYWEVBYzhIY3ZBX0F5T3M3M0pCbHROdXlqSV9fWFRQNXFvNkdVRHJ2b25fczhORVA2Q3pQelByaldpUE9mZGc5d3IySXBHbjRCazRadFlHM0M3VGF3eXMtYXlQVi1xeUl0WXI2cnRvZVFlMUpyY1p5d3FPb3lkcWFsUE5jTWJRRDRoWHZwNWQxaGRicWN0cUhPak9aQWZVM04zMW5LZGlrUExvLWZ3TFRR?oc=5)
-
-2026-04-21
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRTBuZTdfUWRRNmI5c0lzalF3cG04dG43bHRISnNkclBZcERfb1F1RXB4bGQwenpWQnBWWF9pOGVsR2d3Y2FMZlFJUEctNTlLcHVKaXRTLV9XUzFXc2RybFN3dU1NVVhHY2E5U1pocEhhcUZxbnJ1ajE2MXg4ZW0yZVlabDFmblBnRHdySmpndEZ4NzNVMVBMd1JZVkFQLVFqRm9uTncyRUVJaWJpX0o4ei1JSDJFUGo2YnZtX0I1RHYzUdIB1gFBVV95cUxNbnJsQ2RQQWNFZ2Nja19sX1B5R1k2UlpMUkZYZ3hJYnVJcS1CSWlYWEVBYzhIY3ZBX0F5T3M3M0pCbHROdXlqSV9fWFRQNXFvNkdVRHJ2b25fczhORVA2Q3pQelByaldpUE9mZGc5d3IySXBHbjRCazRadFlHM0M3VGF3eXMtYXlQVi1xeUl0WXI2cnRvZVFlMUpyY1p5d3FPb3lkcWFsUE5jTWJRRDRoWHZwNWQxaGRicWN0cUhPak9aQWZVM04zMW5LZGlrUExvLWZ3TFRR?oc=5)
 
 ---
 
@@ -148,19 +148,19 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
+### [Neue Leitlinien zur Schilddrüsenkontrolle bei Typ-1-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxORlZMSDgya3pST1VTMUt1dXFQNGQ0bFJ2Q1BSZjNLR3hscHNwN194OGNoOHpOX08yNmU5X3BhbEl4MTNDWDZoek5EX2dLcFNiMWhnclQ4MmpMU3VGaVVyUmpESThKTEpGNGlrM3pSbElIVWY3ZUoxSm5FdUxoX3JkcFA3cVAyZE8wS01kX2JicTdFQk5fR2U3Yg?oc=5)
+
+2026-04-20
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxORlZMSDgya3pST1VTMUt1dXFQNGQ0bFJ2Q1BSZjNLR3hscHNwN194OGNoOHpOX08yNmU5X3BhbEl4MTNDWDZoek5EX2dLcFNiMWhnclQ4MmpMU3VGaVVyUmpESThKTEpGNGlrM3pSbElIVWY3ZUoxSm5FdUxoX3JkcFA3cVAyZE8wS01kX2JicTdFQk5fR2U3Yg?oc=5)
+
+---
+
 ### [Pädiatrie: Diabetes- und Herz-Kreislauf-Risiko auch bei „gesunder“ Adipositas erhöht – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2hOeXYtRTA2aTRycWhOOW16SEp0ZmhqX1RyM0tiRmJ4dTdaUUpDVmdBdEt4YXY5cUYtamJwM1J3N1RVRWVhU0N5X1RMRW9Hc3VtWEVoRjM4LUhZbmY0UWpHWlhhckdDNFZQSERadEdPZWZtYzlnTGxTOWt4UkxfTmd4eTkxWlNVM0dTOHZmclhTcm03NkZmbjFrV1ZuM3habkFFMW5lcEUtcXRXOUxwaWR5T2tqTTBIYUJHc21Xdkt3eHFMXzhuZVlCZnFSWkg3ZVFGWWVWanVIbG1vSmNFdlU5NA?oc=5)
 
 2026-04-20
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2hOeXYtRTA2aTRycWhOOW16SEp0ZmhqX1RyM0tiRmJ4dTdaUUpDVmdBdEt4YXY5cUYtamJwM1J3N1RVRWVhU0N5X1RMRW9Hc3VtWEVoRjM4LUhZbmY0UWpHWlhhckdDNFZQSERadEdPZWZtYzlnTGxTOWt4UkxfTmd4eTkxWlNVM0dTOHZmclhTcm03NkZmbjFrV1ZuM3habkFFMW5lcEUtcXRXOUxwaWR5T2tqTTBIYUJHc21Xdkt3eHFMXzhuZVlCZnFSWkg3ZVFGWWVWanVIbG1vSmNFdlU5NA?oc=5)
-
----
-
-### [People with diabetes to receive specialist mental health support in UK first](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVFkUFRybEswYktwWUNRdzBsVlJRelc5LURQNzgxMEYtejk1LVlTdGVpMmNPaFFSbmZlUUxFdWlIYUd2UjJrYXZZMHFWeFl1VU94aXpFWVQxeTZqNHNnbnB3UVNxdTFpT3BuNk1MS3ZuYVRMekFCUFB6SkROWXJGZ092WlI5R1hZLUFXeWFCS2wyejk2ZlJmZmlfWWZrYWNaZ3laMGdtNWNfbXRjbHpJQmprdGZabm5EeU91RkdyRQ?oc=5)
-
-2026-04-20
-
-來源：[diabetes.co.uk](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVFkUFRybEswYktwWUNRdzBsVlJRelc5LURQNzgxMEYtejk1LVlTdGVpMmNPaFFSbmZlUUxFdWlIYUd2UjJrYXZZMHFWeFl1VU94aXpFWVQxeTZqNHNnbnB3UVNxdTFpT3BuNk1MS3ZuYVRMekFCUFB6SkROWXJGZ092WlI5R1hZLUFXeWFCS2wyejk2ZlJmZmlfWWZrYWNaZ3laMGdtNWNfbXRjbHpJQmprdGZabm5EeU91RkdyRQ?oc=5)
 
 ---
 

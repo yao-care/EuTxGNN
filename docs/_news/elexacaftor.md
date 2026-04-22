@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Nueva vía de investigación para tratar la artritis reumatoide: la terapia CAR-T - EFE Salud](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFZBbmpBdEVXallaWHVRQlJyNkhhTmhwcjU0MnotdHM0VkFlVXZscFJvT1owWUFsYkJ4R0FFYlZidWlGZnNiaG5jRHBpeUFzZ2h1Q1RvMnI4RThOV0Y1eHZqX2c0TDhybzRIZENSUlFZc1BxSGpsQTVKVG04VEZUbkxueDA2QQ?oc=5)
+
+2026-04-22 <span class="news-indication-tag">artritis</span>
+
+來源：[EFE Salud](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFZBbmpBdEVXallaWHVRQlJyNkhhTmhwcjU0MnotdHM0VkFlVXZscFJvT1owWUFsYkJ4R0FFYlZidWlGZnNiaG5jRHBpeUFzZ2h1Q1RvMnI4RThOV0Y1eHZqX2c0TDhybzRIZENSUlFZc1BxSGpsQTVKVG04VEZUbkxueDA2QQ?oc=5)
+
+---
+
+### [Could an Avocado and Mango a Day Keep High Blood Pressure at Bay?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Could an Avocado and Mango a Day Keep High Blood Pressure at Bay?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
+
+---
 
 ### [Chronische Hepatitis B: Schätzung der Betroffenen in Europa reicht von 2,4 bis 4,1 Millionen - Biermann Medizin](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFd2cS1WRzdTZ2dOUWJIaldQYmlycUtpWXdzUG45YVNUN1V0TnBlYzlYXy13VW8xckVzTGVkLXJzMzBMU3N4MnBwNzlUSEo5RnV5OWk2MmNUTWc4OENneFZfdmNEVjBxN3lwLUhFeGRlZ1pPREs5bU51T3lWYjY3RHVnZTdGSm94RnlNb1NyTkZPSnZnajFaRFMxTGlQVTh2UVBQSGRwU0NvSDVyWHYtQ25iNDNYTXBPMV9n?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Nueva vía de investigación para tratar la artritis reumatoide: la terapia CAR-T - EFE Salud](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFZBbmpBdEVXallaWHVRQlJyNkhhTmhwcjU0MnotdHM0VkFlVXZscFJvT1owWUFsYkJ4R0FFYlZidWlGZnNiaG5jRHBpeUFzZ2h1Q1RvMnI4RThOV0Y1eHZqX2c0TDhybzRIZENSUlFZc1BxSGpsQTVKVG04VEZUbkxueDA2QQ?oc=5)
+
+2026-04-22 <span class="news-indication-tag">artritis</span>
+
+來源：[EFE Salud](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFZBbmpBdEVXallaWHVRQlJyNkhhTmhwcjU0MnotdHM0VkFlVXZscFJvT1owWUFsYkJ4R0FFYlZidWlGZnNiaG5jRHBpeUFzZ2h1Q1RvMnI4RThOV0Y1eHZqX2c0TDhybzRIZENSUlFZc1BxSGpsQTVKVG04VEZUbkxueDA2QQ?oc=5)
+
+---
+
+### [Aurelio Rojas, cardiólogo: «El ibuprofeno es uno de los fármacos más utilizados, pero también uno de los peores para el corazón»](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOS1pN1pvY1dEZXJ2bzRMb2ZrN2RqQ3dmYTR5dWRwY0dVUk9vRXVrVk0zTGpmWnZ6UmNQT283OS1QQjlsc0hmVmN2YUVId0ZZMHFnZG93b2VINEgyTXZiRjdBWmJ6dzJPNkNIcXBzQW5IQ0dLMDk3U3NKT0dVSy1vSjRGM1NVVEdZT0ZPRXJSUFFxY3hxWlhRX1B3NlZrb3R3cF9TYmZJSUxPQUxxUThiWVMzbFpTZjM2WGppNkQ0RTI2SDl0SVHSAcsBQVVfeXFMTVRTU2pHdGY4Wkk1TUM4TkhPR2EtUUVuQnlPSmxmb1pBS1hNOWw0Ty0wU0hVSFJ1UmRVZUVSMHNvSGxJTVlubGJRaUk1bDBEM2xnT2o3eUJwQ0RnQjlVdFB4R1FERlJLOVIxTXJZUUxzWUR6c0F0Rk9jbTczM3pubTN5SXVxNWJNS0NhNG94eGlub0FKT2hRUnlqMk1DZzF1cFN3ZjZZcV9IVGlRdHBnaDRXcWZMVGJsUmRXc2JtWld3X3FVMXVUOEFyMm8?oc=5)
+
+2026-04-21 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOS1pN1pvY1dEZXJ2bzRMb2ZrN2RqQ3dmYTR5dWRwY0dVUk9vRXVrVk0zTGpmWnZ6UmNQT283OS1QQjlsc0hmVmN2YUVId0ZZMHFnZG93b2VINEgyTXZiRjdBWmJ6dzJPNkNIcXBzQW5IQ0dLMDk3U3NKT0dVSy1vSjRGM1NVVEdZT0ZPRXJSUFFxY3hxWlhRX1B3NlZrb3R3cF9TYmZJSUxPQUxxUThiWVMzbFpTZjM2WGppNkQ0RTI2SDl0SVHSAcsBQVVfeXFMTVRTU2pHdGY4Wkk1TUM4TkhPR2EtUUVuQnlPSmxmb1pBS1hNOWw0Ty0wU0hVSFJ1UmRVZUVSMHNvSGxJTVlubGJRaUk1bDBEM2xnT2o3eUJwQ0RnQjlVdFB4R1FERlJLOVIxTXJZUUxzWUR6c0F0Rk9jbTczM3pubTN5SXVxNWJNS0NhNG94eGlub0FKT2hRUnlqMk1DZzF1cFN3ZjZZcV9IVGlRdHBnaDRXcWZMVGJsUmRXc2JtWld3X3FVMXVUOEFyMm8?oc=5)
+
+---
 
 
 <div class="disclaimer">

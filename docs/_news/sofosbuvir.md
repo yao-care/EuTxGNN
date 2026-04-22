@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
 
 ### [Parkinson-Erkrankung dürfte sich im Mikrobiom des Darms ankündigen - Der Standard](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhtMVZXZl91S3JhSDdMQ005OFRqay0xMnkxOExYTTRBdDhDOUFRbnpuWUJ4QmNwalFlQVpkVGQxYVk5b181X1Q0YmRoVlVXTHlHcnFVbE41WmZocVBpMkhQR1ZWcWJkUTQ0SDhSMnhFOFVOT0N0elpOamota0RjeFhPbEpSV3FWY0pLVmJqN3BTdUc3NzJnTS0xbGR5R0Y3MkdmZUE1bE91X2VpY2VsM1Z0R3VPUQ?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/sofosbuvir/
 2026-04-21 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFd2cS1WRzdTZ2dOUWJIaldQYmlycUtpWXdzUG45YVNUN1V0TnBlYzlYXy13VW8xckVzTGVkLXJzMzBMU3N4MnBwNzlUSEo5RnV5OWk2MmNUTWc4OENneFZfdmNEVjBxN3lwLUhFeGRlZ1pPREs5bU51T3lWYjY3RHVnZTdGSm94RnlNb1NyTkZPSnZnajFaRFMxTGlQVTh2UVBQSGRwU0NvSDVyWHYtQ25iNDNYTXBPMV9n?oc=5)
-
----
-
-### [Vaccini, calano le adesioni in Europa e tornano morbillo e pertosse: i dati - Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTE45VnA3b1k2MjFDRDFHd2tjQkxxSG5zNkExMnJmV3VsTmtaZ1hhak1ObXFMdjhqUkNXN3RrZXZQM2dJN0t3ZWVuakptRjdPQ05WN1FCZGF3RmtvT3FLMkYwd04wNk1Cc2gxSDY4US1GMllVMlNhcGh5WQ?oc=5)
-
-2026-04-21 <span class="news-indication-tag">MS</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTE45VnA3b1k2MjFDRDFHd2tjQkxxSG5zNkExMnJmV3VsTmtaZ1hhak1ObXFMdjhqUkNXN3RrZXZQM2dJN0t3ZWVuakptRjdPQ05WN1FCZGF3RmtvT3FLMkYwd04wNk1Cc2gxSDY4US1GMllVMlNhcGh5WQ?oc=5)
 
 ---
 
@@ -118,6 +110,22 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Gut microbes may reveal Parkinson’s risk years before symptoms - The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
+
+---
+
+### [Mystery Illness Kills 5 in Burundi As Doctors Scramble for Answers](https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUJrdExhbXFJc2pUYXE4RFAzUUJlX3NkZTdRRHc4a3BVVGRQY181WkR2YXZrdWQwNXBYNGRIRGNGYnZ2ZGpueXBQdDBjSEJEeHI0NTYtMGhLcnd2Qkg3S184c0QzN3NGdjNmdGVpWGRuQ2g5UFFWWmswY3VnWDkwMXZMbWd5d3VwMW5xRVFCMlo1SlB1TVVJ?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUJrdExhbXFJc2pUYXE4RFAzUUJlX3NkZTdRRHc4a3BVVGRQY181WkR2YXZrdWQwNXBYNGRIRGNGYnZ2ZGpueXBQdDBjSEJEeHI0NTYtMGhLcnd2Qkg3S184c0QzN3NGdjNmdGVpWGRuQ2g5UFFWWmswY3VnWDkwMXZMbWd5d3VwMW5xRVFCMlo1SlB1TVVJ?oc=5)
+
+---
+
 ### [Teano / Sessa Aurunca / Cellole – Infezione da Epatite A: ecco i paesi più colpiti](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xajFGODh4TTlhcFo3Y0NEaGVXZGFuSUpYS2xyZ241SWtNY0FtaDJoTEJGd1U4aThNVWNjX05DeFM4SHRLZGc4RjdB?oc=5)
 
 2026-04-20 <span class="news-indication-tag">epatite</span>
@@ -134,22 +142,6 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Gut microbiome can reveal risk of Parkinson’s, scientists say - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
-
----
-
-### [True impact of weed on brain according to hundreds of thousands of scans](https://news.google.com/rss/articles/CBMikAFBVV95cUxORlJsZXdndnNNRFZHZUppTzdNSlQxRlIwSkNpQzI1Y3pKcjFUN2FrTjRFSk5TYm5JOUNUOG1abDJpMER4eDhfc2YzaUVCakh1TGhhdkE0N0xjenZIQmpYOS1kcE9vTnBfSGZDaWxaOTlmYXNFLXhyZXlJOFQxYkliWEZUVUhDaWRpTjVPQ1ZlN0c?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMikAFBVV95cUxORlJsZXdndnNNRFZHZUppTzdNSlQxRlIwSkNpQzI1Y3pKcjFUN2FrTjRFSk5TYm5JOUNUOG1abDJpMER4eDhfc2YzaUVCakh1TGhhdkE0N0xjenZIQmpYOS1kcE9vTnBfSGZDaWxaOTlmYXNFLXhyZXlJOFQxYkliWEZUVUhDaWRpTjVPQ1ZlN0c?oc=5)
-
----
-
 ### [My son's symptoms were 'picky eating or teething' - then he was hours from death - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVpkMDluWVZKeXVMT19jWnd3aVFHUHR2SmhtSDlfZlpVclVydllOR3ppb1VYZ2ZsVFR4WkRGM0J6TkVEZjJDT2NrWFFfM1J3T0VudS1YN0JqYUNfaWsyaUM0NGd0bHpqbzZwVDAwOHRfbVpEU25UbTI3cDNtUU5CS1FESVhHQ3ZFci00Q3dB?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
@@ -158,19 +150,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Discovering my toddler has dementia was the worst moment of my life... so when a test revealed her unborn sibling also had the disease we had no choice but to terminate my pregnancy](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
+
+2026-04-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[dailymail.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGFqSTB1RGtDNG85dnpUTmdSMENiSm54TllzWmNtOHdwX0lyenRkWHRMVlk2c3loOExvWGhVLXZRNDg5TXhlTkE4bk1XeWdEOXQzX1NWczc0R0YyOUVaXzdMWV9VTl82MzZwNm5Yc1AxSXRJLVpZT1JDQnI5TXJEUWxJT1JEUTNtUG5Lekt0aEFTbmfSAZgBQVVfeXFMTUQ5dGJaOUh1WkE5LVRTb1ZRQ1hqWS0wRFd1bzN5REppNnV6N2wwbzY0ZTFkOFlNWHJEbVZNRDNIcU1KWU1OdWRHaWRVcXFfUlFmcjNFaTNFd18tUkx3RXVzWUlpNHZ0ZkFYV1U2bmh5TG91TkxOWXExZEVnRlFnRzlobk92dS1BWldCZE1MQ2RBZ05WV3d5SnM?oc=5)
+
+---
+
 ### [Family’s heartbreak as ‘whirlwind’ infection claims life of baby Finley at just eight days old - Devon Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRldIV28yMTYwMHg0eHc0eGozd21XMHZUUG9CNnFyVG10Q0w0bS1fSU9hWVdIVHh3Z0FienBLb3V1Xzl0U2sxNU1NbkVLZ25zS0hURGd2czdycW1vQWhzQm4ydERpZmtVcTAzaVRxTWRTdmtKMnUxMDhNYzdnV2hBNFNjaXhYZW5TRFJTWjJmNHVWZUJMMmJRRDB2YlQ?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
 
 來源：[Devon Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRldIV28yMTYwMHg0eHc0eGozd21XMHZUUG9CNnFyVG10Q0w0bS1fSU9hWVdIVHh3Z0FienBLb3V1Xzl0U2sxNU1NbkVLZ25zS0hURGd2czdycW1vQWhzQm4ydERpZmtVcTAzaVRxTWRTdmtKMnUxMDhNYzdnV2hBNFNjaXhYZW5TRFJTWjJmNHVWZUJMMmJRRDB2YlQ?oc=5)
-
----
-
-### [Broken-Heart-Syndrom: Wenn Kummer aufs Herz schlägt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3dVSlU1M25CZS1NQWV4UWEzeUF1Mi10WDBqMWswRjl4Q2RiMEh0eDZWUGsxdzNYN054ZDRRS1E4N0xmd3RMUmtqdDBQZl9ELTE4eWtGOFFPTWQ3OWFWQU15aDZyOWZ3ejZMLXRONzA2MkFWNDhVdGZ6NFNXeFE4RWM4WTMxamZLd2RrcWpZRTE1U1JyUmVINDVDUmUwd1RYWjVmbkpHN2ZDYlNpQTZydjBiYkUxVW85a185dkY2d25iMGM?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span>
-
-來源：[Kurier](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3dVSlU1M25CZS1NQWV4UWEzeUF1Mi10WDBqMWswRjl4Q2RiMEh0eDZWUGsxdzNYN054ZDRRS1E4N0xmd3RMUmtqdDBQZl9ELTE4eWtGOFFPTWQ3OWFWQU15aDZyOWZ3ejZMLXRONzA2MkFWNDhVdGZ6NFNXeFE4RWM4WTMxamZLd2RrcWpZRTE1U1JyUmVINDVDUmUwd1RYWjVmbkpHN2ZDYlNpQTZydjBiYkUxVW85a185dkY2d25iMGM?oc=5)
 
 ---
 

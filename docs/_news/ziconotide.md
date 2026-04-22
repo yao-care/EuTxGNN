@@ -54,11 +54,11 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（7 則）
 
-### [Castilla-La Mancha destaca la importancia de abordar la obesidad con un enfoque multidisciplinar y desde la prevención](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdEx5MW5jc0lnbko4cUVDVWxVNXFrMmdhSHVEM0ozeUZ6dkJ3Q0p4eDRhV1BZWmtvZmQ1d0hHYzA1bS1lTU16ZVFxOFFneG5zVV9XX0RVTEZfenhMMkh0RHB3OFNBdUNSVGlSRWJrb0h2eUdOS3N5bDVzTE1UYUJoLWpLUEpUTXZ3VjJQUDhCVDk4bDBSaWs5ZGI0bjNUXzJpTWw1am1rakdHT09nX0o2YmoyNEs0S1JvR2hNWXlIWEUxbERZdmk2MVA4UHdPLUZsUWVnSndjZW9ySFpXRklnV3ZJT2gwalBxcTZFSWRR?oc=5)
+### [Jornadas sobre la obesidad para farmacéuticos de Ciudad Real - Diario Sanitario](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JNmZLZzlLY0NKUVp1QlluZUJzMUJvbDhMYVhwRnJlMkI3QWd0MlFDTXViWkVUWUNwMUU5VHgwMWJZcElxWmlVMmp0QnRNR3JaYUJ1bEh4M0xSLWF5Zk5MTQ?oc=5)
 
 2026-04-21 <span class="news-indication-tag">obesidad</span>
 
-來源：[SurcoCLM](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdEx5MW5jc0lnbko4cUVDVWxVNXFrMmdhSHVEM0ozeUZ6dkJ3Q0p4eDRhV1BZWmtvZmQ1d0hHYzA1bS1lTU16ZVFxOFFneG5zVV9XX0RVTEZfenhMMkh0RHB3OFNBdUNSVGlSRWJrb0h2eUdOS3N5bDVzTE1UYUJoLWpLUEpUTXZ3VjJQUDhCVDk4bDBSaWs5ZGI0bjNUXzJpTWw1am1rakdHT09nX0o2YmoyNEs0S1JvR2hNWXlIWEUxbERZdmk2MVA4UHdPLUZsUWVnSndjZW9ySFpXRklnV3ZJT2gwalBxcTZFSWRR?oc=5)
+來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JNmZLZzlLY0NKUVp1QlluZUJzMUJvbDhMYVhwRnJlMkI3QWd0MlFDTXViWkVUWUNwMUU5VHgwMWJZcElxWmlVMmp0QnRNR3JaYUJ1bEh4M0xSLWF5Zk5MTQ?oc=5)
 
 ---
 

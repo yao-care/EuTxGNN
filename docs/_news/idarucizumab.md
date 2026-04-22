@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Nueva vía de investigación para tratar la artritis reumatoide: la terapia CAR-T - EFE Salud](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFZBbmpBdEVXallaWHVRQlJyNkhhTmhwcjU0MnotdHM0VkFlVXZscFJvT1owWUFsYkJ4R0FFYlZidWlGZnNiaG5jRHBpeUFzZ2h1Q1RvMnI4RThOV0Y1eHZqX2c0TDhybzRIZENSUlFZc1BxSGpsQTVKVG04VEZUbkxueDA2QQ?oc=5)
+
+2026-04-22 <span class="news-indication-tag">artritis</span>
+
+來源：[EFE Salud](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFZBbmpBdEVXallaWHVRQlJyNkhhTmhwcjU0MnotdHM0VkFlVXZscFJvT1owWUFsYkJ4R0FFYlZidWlGZnNiaG5jRHBpeUFzZ2h1Q1RvMnI4RThOV0Y1eHZqX2c0TDhybzRIZENSUlFZc1BxSGpsQTVKVG04VEZUbkxueDA2QQ?oc=5)
+
+---
 
 ### [Aktualisierte COPD-Leitlinie empfiehlt Atemphysiotherapie - up unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
 

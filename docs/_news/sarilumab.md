@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Nueva vía de investigación para tratar la artritis reumatoide: la terapia CAR-T - EFE Salud](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFZBbmpBdEVXallaWHVRQlJyNkhhTmhwcjU0MnotdHM0VkFlVXZscFJvT1owWUFsYkJ4R0FFYlZidWlGZnNiaG5jRHBpeUFzZ2h1Q1RvMnI4RThOV0Y1eHZqX2c0TDhybzRIZENSUlFZc1BxSGpsQTVKVG04VEZUbkxueDA2QQ?oc=5)
+
+2026-04-22 <span class="news-indication-tag">artritis</span>
+
+來源：[EFE Salud](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFZBbmpBdEVXallaWHVRQlJyNkhhTmhwcjU0MnotdHM0VkFlVXZscFJvT1owWUFsYkJ4R0FFYlZidWlGZnNiaG5jRHBpeUFzZ2h1Q1RvMnI4RThOV0Y1eHZqX2c0TDhybzRIZENSUlFZc1BxSGpsQTVKVG04VEZUbkxueDA2QQ?oc=5)
+
+---
 
 ### [Hoja de ruta para avanzar en el abordaje de enfermedad de Crohn y colitis ulcerosa - Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmtYVHNRRUhmZkFGY2JzTkQxeGk4RlZyZkR5NklVVHpuVVkwc0VZdHVucVdXMURrcnh1bjJQT0lDRjJWeGhZVXJZeGZjTDRqcW9ObEVjNEZERDFpUURqWXVhQ09leFYwYzFEdEJTb1RvUjRxRFJDdExjYUxVQU1JWDVIcEF6SFNKRDRiMnduZVYyMEpYZ3lIWHZ3aTN5dmM2b3VURWtR?oc=5)
 
