@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
+
+### ['If that was my partner, I'd be gone,' nurse tells woman after husband's dementia diagnosis at 39 - Belfast Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDAtUlp3ZzJDTEpRbFBfVUlFWkdITzVNYmowLU5xUGNXaFM5RFU4d3I1VFBuOEtmdnc1R3AySmlXZkpPdjN0Qk1KMVV5ejQzWFBoV0FLM3FRTGl5cG5fWTVrNmFTM0VWdE5OWXZRR1dadjc3YmV2MlBUM1QyNW5rODVDVkxUWDhiaDhqd3pR0gGTAUFVX3lxTE5rT1RoUjlEeFZKUXVTbk4zUW42ekdQdGU0Smh1eEZQRFhxeE1PWGJLYWtBODFhT2toOHVYUEFjbjRTNnVwNzA0T1dRa2laRThCVFk0NU1ocWFkV0RHd0NHa1F1a0ZTZ2VTbHl1di1zc0dQWExyMVZuVnljRVYxdzZzLTJUSV84VzZLTk1DZnFwMkp5Yw?oc=5)
+
+2026-04-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDAtUlp3ZzJDTEpRbFBfVUlFWkdITzVNYmowLU5xUGNXaFM5RFU4d3I1VFBuOEtmdnc1R3AySmlXZkpPdjN0Qk1KMVV5ejQzWFBoV0FLM3FRTGl5cG5fWTVrNmFTM0VWdE5OWXZRR1dadjc3YmV2MlBUM1QyNW5rODVDVkxUWDhiaDhqd3pR0gGTAUFVX3lxTE5rT1RoUjlEeFZKUXVTbk4zUW42ekdQdGU0Smh1eEZQRFhxeE1PWGJLYWtBODFhT2toOHVYUEFjbjRTNnVwNzA0T1dRa2laRThCVFk0NU1ocWFkV0RHd0NHa1F1a0ZTZ2VTbHl1di1zc0dQWExyMVZuVnljRVYxdzZzLTJUSV84VzZLTk1DZnFwMkp5Yw?oc=5)
+
+---
 
 ### [Parkinson-Erkrankung dürfte sich im Mikrobiom des Darms ankündigen - Der Standard](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhtMVZXZl91S3JhSDdMQ005OFRqay0xMnkxOExYTTRBdDhDOUFRbnpuWUJ4QmNwalFlQVpkVGQxYVk5b181X1Q0YmRoVlVXTHlHcnFVbE41WmZocVBpMkhQR1ZWcWJkUTQ0SDhSMnhFOFVOT0N0elpOamota0RjeFhPbEpSV3FWY0pLVmJqN3BTdUc3NzJnTS0xbGR5R0Y3MkdmZUE1bE91X2VpY2VsM1Z0R3VPUQ?oc=5)
 
@@ -102,14 +110,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [MSD refuerza su compromiso con la innovación y la prevención como pilares clave para contribuir a mejorar la salud de la población - Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdUJrNVdMQmctaGZYNFN1SXBMNlFOQmQ1TFd6SmxwVDBUN1Vpem9nVThvaWh5SlRmOHRPR1RTTXVmbTgyeVNhSlhxZHdTRmkyTWdBZ2lIX0NSSkN2c3RFTVFVUndiNEpyNUI5LURZVDBQdUtWLVlJMXQzaG5QTU1JWXR3anNDZmFOckoweDlxU0RpcFlQaEstai1qaVg2MVVhRy1xYkJLd2k2RF9jVWtnTklPUFoyYldxOVlVT2loeENJVHBFZkpCN1REdEFjRmlIeVNUZDNRaEsyV3hmNW5qeHJNVzZXUGNqbWc?oc=5)
-
-2026-04-21 <span class="news-indication-tag">MS</span>
-
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdUJrNVdMQmctaGZYNFN1SXBMNlFOQmQ1TFd6SmxwVDBUN1Vpem9nVThvaWh5SlRmOHRPR1RTTXVmbTgyeVNhSlhxZHdTRmkyTWdBZ2lIX0NSSkN2c3RFTVFVUndiNEpyNUI5LURZVDBQdUtWLVlJMXQzaG5QTU1JWXR3anNDZmFOckoweDlxU0RpcFlQaEstai1qaVg2MVVhRy1xYkJLd2k2RF9jVWtnTklPUFoyYldxOVlVT2loeENJVHBFZkpCN1REdEFjRmlIeVNUZDNRaEsyV3hmNW5qeHJNVzZXUGNqbWc?oc=5)
-
----
-
 ### [Gut microbes may reveal Parkinson’s risk years before symptoms - The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
@@ -126,17 +126,9 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Teano / Sessa Aurunca / Cellole – Infezione da Epatite A: ecco i paesi più colpiti](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xajFGODh4TTlhcFo3Y0NEaGVXZGFuSUpYS2xyZ241SWtNY0FtaDJoTEJGd1U4aThNVWNjX05DeFM4SHRLZGc4RjdB?oc=5)
+### [Hidden Side Effects of GLP-1 Drugs: Ozempic Chills, Hot Flashes, and More](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWM4Y2NLa1VwMnRXdlA2eVktc3l0ZmlGOE1jaHExdU9pS2RaSC1iT204YURYSXFRZ2RhZEFEMk53NDl6QkJBWEJfTWg1R1Z3WTg4ZFpZUUpWdHRieHJSbll5azVQeVR4UWtMYzlVVzJzSmpFU0lqQXpLZE9xUkhNQ0lxTi1HT3NpVFdQX1lvSi1mRWhFdWc?oc=5)
 
-2026-04-20 <span class="news-indication-tag">epatite</span>
-
-來源：[paesenews.it](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xajFGODh4TTlhcFo3Y0NEaGVXZGFuSUpYS2xyZ241SWtNY0FtaDJoTEJGd1U4aThNVWNjX05DeFM4SHRLZGc4RjdB?oc=5)
-
----
-
-### [Ozempic, Mounjaro: 6 ‘Hidden’ Side Effects of GLP-1 Weight Loss Drugs](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWM4Y2NLa1VwMnRXdlA2eVktc3l0ZmlGOE1jaHExdU9pS2RaSC1iT204YURYSXFRZ2RhZEFEMk53NDl6QkJBWEJfTWg1R1Z3WTg4ZFpZUUpWdHRieHJSbll5azVQeVR4UWtMYzlVVzJzSmpFU0lqQXpLZE9xUkhNQ0lxTi1HT3NpVFdQX1lvSi1mRWhFdWc?oc=5)
-
-2026-04-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span>
+2026-04-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWM4Y2NLa1VwMnRXdlA2eVktc3l0ZmlGOE1jaHExdU9pS2RaSC1iT204YURYSXFRZ2RhZEFEMk53NDl6QkJBWEJfTWg1R1Z3WTg4ZFpZUUpWdHRieHJSbll5azVQeVR4UWtMYzlVVzJzSmpFU0lqQXpLZE9xUkhNQ0lxTi1HT3NpVFdQX1lvSi1mRWhFdWc?oc=5)
 
@@ -158,11 +150,27 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Family’s heartbreak as ‘whirlwind’ infection claims life of baby Finley at just eight days old - Devon Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRldIV28yMTYwMHg0eHc0eGozd21XMHZUUG9CNnFyVG10Q0w0bS1fSU9hWVdIVHh3Z0FienBLb3V1Xzl0U2sxNU1NbkVLZ25zS0hURGd2czdycW1vQWhzQm4ydERpZmtVcTAzaVRxTWRTdmtKMnUxMDhNYzdnV2hBNFNjaXhYZW5TRFJTWjJmNHVWZUJMMmJRRDB2YlQ?oc=5)
+### [Six habits that speed up ageing – from weekend lie-ins to boring evenings in - The i Paper](https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVmw2cGFYbVB1VEdkUGFVbWJoODlGTFZjclJLR2YzZHZNSFBaaXdGMkd5Uk5weThiWFB1cVZhZU16R2xJcHZNMmlxNWluQnBPQldNc2JHZ3VPYzVsYkpjRkw1OXpVdnkzbUZob21zN25RN1dWVmlHTThR?oc=5)
 
-2026-04-20 <span class="news-indication-tag">MS</span>
+2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Devon Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRldIV28yMTYwMHg0eHc0eGozd21XMHZUUG9CNnFyVG10Q0w0bS1fSU9hWVdIVHh3Z0FienBLb3V1Xzl0U2sxNU1NbkVLZ25zS0hURGd2czdycW1vQWhzQm4ydERpZmtVcTAzaVRxTWRTdmtKMnUxMDhNYzdnV2hBNFNjaXhYZW5TRFJTWjJmNHVWZUJMMmJRRDB2YlQ?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVmw2cGFYbVB1VEdkUGFVbWJoODlGTFZjclJLR2YzZHZNSFBaaXdGMkd5Uk5weThiWFB1cVZhZU16R2xJcHZNMmlxNWluQnBPQldNc2JHZ3VPYzVsYkpjRkw1OXpVdnkzbUZob21zN25RN1dWVmlHTThR?oc=5)
+
+---
+
+### [This condition affects one-third of women – it’s finally getting effective treatment - The i Paper](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaVh2akhiZTdvc0lTTVhXV1cxWkJXMWloWFRCcDBROGRkNkFFOXFZWnNFUVBXeGxMWm5aTTlfa0M2WEdFTU04dWRmQk1UNWstUldQWTkxN0FvZk9WbUNLa2FXV3h5TDAxN085QU53djJfY3lScVZxbWowLUY0RGRoZHFMbG1HVGszWVJJTHBDRU82STJkN3JlZERkd24yNjJDOHR0a0ZtMTU?oc=5)
+
+2026-04-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaVh2akhiZTdvc0lTTVhXV1cxWkJXMWloWFRCcDBROGRkNkFFOXFZWnNFUVBXeGxMWm5aTTlfa0M2WEdFTU04dWRmQk1UNWstUldQWTkxN0FvZk9WbUNLa2FXV3h5TDAxN085QU53djJfY3lScVZxbWowLUY0RGRoZHFMbG1HVGszWVJJTHBDRU82STJkN3JlZERkd24yNjJDOHR0a0ZtMTU?oc=5)
+
+---
+
+### [The best vitamin C serums in the UK for every skin type and budget, tested - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFd6QlF2MldPX0g0a05Ld2NWLUFKeHBLc01qTlRlMHI1ci1TUWlJVjV6bnhLS2E3dlZVNEF1amszUTFDS2xfTXFvLVozUmR5bjdkSVlCODJPY2lyTWo5MUF4X0ZZNVgwVEFSaUpCSWo0MmV5bzB0cVBjQWczeV92UUxFelA5bGM?oc=5)
+
+2026-04-16 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFd6QlF2MldPX0g0a05Ld2NWLUFKeHBLc01qTlRlMHI1ci1TUWlJVjV6bnhLS2E3dlZVNEF1amszUTFDS2xfTXFvLVozUmR5bjdkSVlCODJPY2lyTWo5MUF4X0ZZNVgwVEFSaUpCSWo0MmV5bzB0cVBjQWczeV92UUxFelA5bGM?oc=5)
 
 ---
 
