@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（13 則）
 
 ### [Parkinson-Erkrankung dürfte sich im Mikrobiom des Darms ankündigen - Der Standard](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhtMVZXZl91S3JhSDdMQ005OFRqay0xMnkxOExYTTRBdDhDOUFRbnpuWUJ4QmNwalFlQVpkVGQxYVk5b181X1Q0YmRoVlVXTHlHcnFVbE41WmZocVBpMkhQR1ZWcWJkUTQ0SDhSMnhFOFVOT0N0elpOamota0RjeFhPbEpSV3FWY0pLVmJqN3BTdUc3NzJnTS0xbGR5R0Y3MkdmZUE1bE91X2VpY2VsM1Z0R3VPUQ?oc=5)
 
@@ -62,19 +62,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Krebs-Therapie 2.0: Warum das Klinikum Bayreuth sich zwei „Raumschiffe“ leistet - Nordbayerischer Kurier](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMG16RVZpcHlBNmJZMmZpQjFGSkNzak9Nb1ZsRXlfcmh5TTlPSjUtOWRFT2FvdUg5WFJteHh2aVpKNzgxaU04dXJ0eWtlSjVEczhmTmFsbW1OSzd4aUdfQl9nSkplOTkwNE1VMVoxZ0x4MldjOUlfVEI3c1AyamJRc2o3T0E3WEZXUXBrX3VQOTNlMmVncGJMcGJyNnhmMGhYN1dvZXYwdlpkOWpSTWdQS3k5bDlTbzdDazdrMmlIaVR1QkRydlpqYWZNTzRzckluSDItOTh6c2treEQxM0pN?oc=5)
-
-2026-04-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[Nordbayerischer Kurier](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMG16RVZpcHlBNmJZMmZpQjFGSkNzak9Nb1ZsRXlfcmh5TTlPSjUtOWRFT2FvdUg5WFJteHh2aVpKNzgxaU04dXJ0eWtlSjVEczhmTmFsbW1OSzd4aUdfQl9nSkplOTkwNE1VMVoxZ0x4MldjOUlfVEI3c1AyamJRc2o3T0E3WEZXUXBrX3VQOTNlMmVncGJMcGJyNnhmMGhYN1dvZXYwdlpkOWpSTWdQS3k5bDlTbzdDazdrMmlIaVR1QkRydlpqYWZNTzRzckluSDItOTh6c2treEQxM0pN?oc=5)
-
----
-
 ### [Meningokokken: Ein Wasserglas-Test rettet Leben - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2pjRmVMVWNYNTRlSng0Zm5JbUhsbXE4cHBqd3BSN1lWTXNKQWVsT1AxZWRPYkhKU0h3WUctaWd4bG9yWlA4b01fMzQyNUFRck0ycHFhc1BaMmFKTEJ0dGZaN0Q1VHE2d3FZcXZ0RTM5QzFxczB2TVF5LXFwZjI4TDBhX2ZCVEZ1R3lKZktzVGJDVEVSSkxRZDFTMmtveFZ5?oc=5)
 
 2026-04-21 <span class="news-indication-tag">MS</span>
 
 來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2pjRmVMVWNYNTRlSng0Zm5JbUhsbXE4cHBqd3BSN1lWTXNKQWVsT1AxZWRPYkhKU0h3WUctaWd4bG9yWlA4b01fMzQyNUFRck0ycHFhc1BaMmFKTEJ0dGZaN0Q1VHE2d3FZcXZ0RTM5QzFxczB2TVF5LXFwZjI4TDBhX2ZCVEZ1R3lKZktzVGJDVEVSSkxRZDFTMmtveFZ5?oc=5)
+
+---
+
+### [Vaccini, calano le adesioni in Europa e tornano morbillo e pertosse: i dati - Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTE45VnA3b1k2MjFDRDFHd2tjQkxxSG5zNkExMnJmV3VsTmtaZ1hhak1ObXFMdjhqUkNXN3RrZXZQM2dJN0t3ZWVuakptRjdPQ05WN1FCZGF3RmtvT3FLMkYwd04wNk1Cc2gxSDY4US1GMllVMlNhcGh5WQ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">MS</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMieEFVX3lxTE45VnA3b1k2MjFDRDFHd2tjQkxxSG5zNkExMnJmV3VsTmtaZ1hhak1ObXFMdjhqUkNXN3RrZXZQM2dJN0t3ZWVuakptRjdPQ05WN1FCZGF3RmtvT3FLMkYwd04wNk1Cc2gxSDY4US1GMllVMlNhcGh5WQ?oc=5)
 
 ---
 
@@ -110,27 +110,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [‘Miracle tree’ removes 98% of microplastics from drinking water, outperforming chemical alternatives](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUI0U2NFc1QxdmVSN1dSSzZySEJKZ01LUW14ZHZ2SW83cTVMR3FFSDNiRUp1VW5vR1lkTEpkT0Q5c241OXlwa2xqckctTVlfZ04xenlWa2lTMWdSVGF3TE1nYmhQRTRFYTZUTDhGc0JWTUtRZnZidnVfelJXTFl2dy14MzF3V1prLUVCUHhqWlJHck84REdHZEcwQmI4N0loRUkyam1sazFJc2d2ckRocG56XzB1TjZVVUpwMElpTDZpNUU2?oc=5)
-
-2026-04-21 <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUI0U2NFc1QxdmVSN1dSSzZySEJKZ01LUW14ZHZ2SW83cTVMR3FFSDNiRUp1VW5vR1lkTEpkT0Q5c241OXlwa2xqckctTVlfZ04xenlWa2lTMWdSVGF3TE1nYmhQRTRFYTZUTDhGc0JWTUtRZnZidnVfelJXTFl2dy14MzF3V1prLUVCUHhqWlJHck84REdHZEcwQmI4N0loRUkyam1sazFJc2d2ckRocG56XzB1TjZVVUpwMElpTDZpNUU2?oc=5)
-
----
-
-### [Gut microbes may reveal Parkinson’s risk years before symptoms - The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHlPc1NiV2wxdWVXdllXNENjYzFfQUxPQjU2X1UwY0N6LVM0NWJOQm1DVWVZTElqM21qSEc5SHlIcEVURWJITGV6RGRRQmdUdHhOaDdXaENleUVQdEdDYUtKdDFwbV8zR3QtU09ObTlJTzFScUpDMG10eVJlTlBZVF9Vd3dXS2xGYzdtUi1ueE5QbkJxalZENjZhZzRMdnkyM0xGRlpzaXVMaktCMHRiOA?oc=5)
-
----
-
 ### [Ozempic, Mounjaro: 6 ‘Hidden’ Side Effects of GLP-1 Weight Loss Drugs](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWM4Y2NLa1VwMnRXdlA2eVktc3l0ZmlGOE1jaHExdU9pS2RaSC1iT204YURYSXFRZ2RhZEFEMk53NDl6QkJBWEJfTWg1R1Z3WTg4ZFpZUUpWdHRieHJSbll5azVQeVR4UWtMYzlVVzJzSmpFU0lqQXpLZE9xUkhNQ0lxTi1HT3NpVFdQX1lvSi1mRWhFdWc?oc=5)
 
 2026-04-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWM4Y2NLa1VwMnRXdlA2eVktc3l0ZmlGOE1jaHExdU9pS2RaSC1iT204YURYSXFRZ2RhZEFEMk53NDl6QkJBWEJfTWg1R1Z3WTg4ZFpZUUpWdHRieHJSbll5azVQeVR4UWtMYzlVVzJzSmpFU0lqQXpLZE9xUkhNQ0lxTi1HT3NpVFdQX1lvSi1mRWhFdWc?oc=5)
+
+---
+
+### [Gut microbiome can reveal risk of Parkinson’s, scientists say - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5)
+
+---
+
+### [True impact of weed on brain according to hundreds of thousands of scans](https://news.google.com/rss/articles/CBMikAFBVV95cUxORlJsZXdndnNNRFZHZUppTzdNSlQxRlIwSkNpQzI1Y3pKcjFUN2FrTjRFSk5TYm5JOUNUOG1abDJpMER4eDhfc2YzaUVCakh1TGhhdkE0N0xjenZIQmpYOS1kcE9vTnBfSGZDaWxaOTlmYXNFLXhyZXlJOFQxYkliWEZUVUhDaWRpTjVPQ1ZlN0c?oc=5)
+
+2026-04-20 <span class="news-indication-tag">MS</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMikAFBVV95cUxORlJsZXdndnNNRFZHZUppTzdNSlQxRlIwSkNpQzI1Y3pKcjFUN2FrTjRFSk5TYm5JOUNUOG1abDJpMER4eDhfc2YzaUVCakh1TGhhdkE0N0xjenZIQmpYOS1kcE9vTnBfSGZDaWxaOTlmYXNFLXhyZXlJOFQxYkliWEZUVUhDaWRpTjVPQ1ZlN0c?oc=5)
 
 ---
 
@@ -150,35 +150,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Six habits that speed up ageing – from weekend lie-ins to boring evenings in - The i Paper](https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVmw2cGFYbVB1VEdkUGFVbWJoODlGTFZjclJLR2YzZHZNSFBaaXdGMkd5Uk5weThiWFB1cVZhZU16R2xJcHZNMmlxNWluQnBPQldNc2JHZ3VPYzVsYkpjRkw1OXpVdnkzbUZob21zN25RN1dWVmlHTThR?oc=5)
-
-2026-04-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVmw2cGFYbVB1VEdkUGFVbWJoODlGTFZjclJLR2YzZHZNSFBaaXdGMkd5Uk5weThiWFB1cVZhZU16R2xJcHZNMmlxNWluQnBPQldNc2JHZ3VPYzVsYkpjRkw1OXpVdnkzbUZob21zN25RN1dWVmlHTThR?oc=5)
-
----
-
 ### [Broken-Heart-Syndrom: Wenn Kummer aufs Herz schlägt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3dVSlU1M25CZS1NQWV4UWEzeUF1Mi10WDBqMWswRjl4Q2RiMEh0eDZWUGsxdzNYN054ZDRRS1E4N0xmd3RMUmtqdDBQZl9ELTE4eWtGOFFPTWQ3OWFWQU15aDZyOWZ3ejZMLXRONzA2MkFWNDhVdGZ6NFNXeFE4RWM4WTMxamZLd2RrcWpZRTE1U1JyUmVINDVDUmUwd1RYWjVmbkpHN2ZDYlNpQTZydjBiYkUxVW85a185dkY2d25iMGM?oc=5)
 
 2026-04-20 <span class="news-indication-tag">MS</span>
 
 來源：[Kurier](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3dVSlU1M25CZS1NQWV4UWEzeUF1Mi10WDBqMWswRjl4Q2RiMEh0eDZWUGsxdzNYN054ZDRRS1E4N0xmd3RMUmtqdDBQZl9ELTE4eWtGOFFPTWQ3OWFWQU15aDZyOWZ3ejZMLXRONzA2MkFWNDhVdGZ6NFNXeFE4RWM4WTMxamZLd2RrcWpZRTE1U1JyUmVINDVDUmUwd1RYWjVmbkpHN2ZDYlNpQTZydjBiYkUxVW85a185dkY2d25iMGM?oc=5)
-
----
-
-### [New nasal spray reverses brain aging while restoring memory, giving new hope to people with dementia](https://news.google.com/rss/articles/CBMingFBVV95cUxOcl9EMVV4U082WWpyYTBUb2VhUC1ISXpfN19oQU1TZW1iUGF4LUw3bTUteW53c0xHWWRiRFg4TS1JeUttbEh3TDhFWG9DT0JVUWxRLV9yanA3NGplNzhYMjFoVzZGdGxIa0NQaXltSGNfVWJQVGlhQ3pQNFdJQ2MtUkYzT0xVOGM0bmkzQmtrOW5mRWtOdHU1R3NvMno2dw?oc=5)
-
-2026-04-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOcl9EMVV4U082WWpyYTBUb2VhUC1ISXpfN19oQU1TZW1iUGF4LUw3bTUteW53c0xHWWRiRFg4TS1JeUttbEh3TDhFWG9DT0JVUWxRLV9yanA3NGplNzhYMjFoVzZGdGxIa0NQaXltSGNfVWJQVGlhQ3pQNFdJQ2MtUkYzT0xVOGM0bmkzQmtrOW5mRWtOdHU1R3NvMno2dw?oc=5)
-
----
-
-### [Dr. med. Viktoria Schelle geht mit ihrem Ratgeber „Hormonbauch“ einem medizinischen Phänomen auf den Grund](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIX3JLU0hjZ0wzSUdXRjdMNDYwcHo4SzVzZU1YWWJZUEhVR3VyMm5RZHIxWmlFQmVvdE5HUlZ3VWFVM0p6ZEhqUy1pZXh1OWFTUzZ6aQ?oc=5)
-
-2026-04-19 <span class="news-indication-tag">MS</span>
-
-來源：[buchszene.de](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIX3JLU0hjZ0wzSUdXRjdMNDYwcHo4SzVzZU1YWWJZUEhVR3VyMm5RZHIxWmlFQmVvdE5HUlZ3VWFVM0p6ZEhqUy1pZXh1OWFTUzZ6aQ?oc=5)
 
 ---
 

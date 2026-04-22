@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Hoja de ruta para avanzar en el abordaje de enfermedad de Crohn y colitis ulcerosa - Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmtYVHNRRUhmZkFGY2JzTkQxeGk4RlZyZkR5NklVVHpuVVkwc0VZdHVucVdXMURrcnh1bjJQT0lDRjJWeGhZVXJZeGZjTDRqcW9ObEVjNEZERDFpUURqWXVhQ09leFYwYzFEdEJTb1RvUjRxRFJDdExjYUxVQU1JWDVIcEF6SFNKRDRiMnduZVYyMEpYZ3lIWHZ3aTN5dmM2b3VURWtR?oc=5)
+
+2026-04-21 <span class="news-indication-tag">enfermedad de Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmtYVHNRRUhmZkFGY2JzTkQxeGk4RlZyZkR5NklVVHpuVVkwc0VZdHVucVdXMURrcnh1bjJQT0lDRjJWeGhZVXJZeGZjTDRqcW9ObEVjNEZERDFpUURqWXVhQ09leFYwYzFEdEJTb1RvUjRxRFJDdExjYUxVQU1JWDVIcEF6SFNKRDRiMnduZVYyMEpYZ3lIWHZ3aTN5dmM2b3VURWtR?oc=5)
+
+---
 
 ### [Aktualisierte COPD-Leitlinie empfiehlt Atemphysiotherapie - up unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
 

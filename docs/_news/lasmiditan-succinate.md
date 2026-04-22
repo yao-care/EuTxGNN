@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [La cara oculta de la fructosa: el exceso dispara el riesgo de sufrir distintos problemas de salud, según los expertos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb05vQjRuaDlBV1Jud1ZhclZtMk5yQi1IM0JLXzZUQTZpMW9UV2ZyckdQN0RPMGI4dDIxMnJ3elNTM0VJVGhKUEtjSU1FZHhzb2FSWl9oNk9PX2VfV2s2bHBvTVdhY01UT0Z6bXBhNERpT3p3dnNkWmEwRjB2WGtBeDNWODljTDNQc2RUOG9pYk5mNHhHYmFOaXhDS2lMUVA1andyQlJ0b3FsbGU1Q256MDhrbFc4VVBPTTNYekVKdS04TmtfaXFXRWZMOEZfUTY0dF9jQkFyUnZQYVlpeUHSAd4BQVVfeXFMUF9DaTF3ZlF4Uk9DTzBUMUJyS21KWnNaU0ZpWTA5Y2RfM3dGbWJuVXpNcHgwU2I4SjQ2bkg4MEI4N0dELXhuYzVoQ2E0ZlBfdUhRSWU2YjJqSFdjMVpBZkdXcW9KWFlIS0djX0hKcGEyUXJLZ1AwSjczQmoySlVpRFBrVmdVWUhWamJRYmkyX3RGZmppall5ZFJHOUsyYTZzQ3Y3V0pkd1hmTzJYbVQxLUNKdk5pMkVmUEJ2WUs5WE9FWmFKcGk3T3JlQ3JsU2I0amNoUXNScXBselBZbWdn?oc=5)
+### [Castilla-La Mancha destaca la importancia de abordar la obesidad con un enfoque multidisciplinar y desde la prevención](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdEx5MW5jc0lnbko4cUVDVWxVNXFrMmdhSHVEM0ozeUZ6dkJ3Q0p4eDRhV1BZWmtvZmQ1d0hHYzA1bS1lTU16ZVFxOFFneG5zVV9XX0RVTEZfenhMMkh0RHB3OFNBdUNSVGlSRWJrb0h2eUdOS3N5bDVzTE1UYUJoLWpLUEpUTXZ3VjJQUDhCVDk4bDBSaWs5ZGI0bjNUXzJpTWw1am1rakdHT09nX0o2YmoyNEs0S1JvR2hNWXlIWEUxbERZdmk2MVA4UHdPLUZsUWVnSndjZW9ySFpXRklnV3ZJT2gwalBxcTZFSWRR?oc=5)
 
-2026-04-21 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
+2026-04-21 <span class="news-indication-tag">obesidad</span>
 
-來源：[MARCA](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb05vQjRuaDlBV1Jud1ZhclZtMk5yQi1IM0JLXzZUQTZpMW9UV2ZyckdQN0RPMGI4dDIxMnJ3elNTM0VJVGhKUEtjSU1FZHhzb2FSWl9oNk9PX2VfV2s2bHBvTVdhY01UT0Z6bXBhNERpT3p3dnNkWmEwRjB2WGtBeDNWODljTDNQc2RUOG9pYk5mNHhHYmFOaXhDS2lMUVA1andyQlJ0b3FsbGU1Q256MDhrbFc4VVBPTTNYekVKdS04TmtfaXFXRWZMOEZfUTY0dF9jQkFyUnZQYVlpeUHSAd4BQVVfeXFMUF9DaTF3ZlF4Uk9DTzBUMUJyS21KWnNaU0ZpWTA5Y2RfM3dGbWJuVXpNcHgwU2I4SjQ2bkg4MEI4N0dELXhuYzVoQ2E0ZlBfdUhRSWU2YjJqSFdjMVpBZkdXcW9KWFlIS0djX0hKcGEyUXJLZ1AwSjczQmoySlVpRFBrVmdVWUhWamJRYmkyX3RGZmppall5ZFJHOUsyYTZzQ3Y3V0pkd1hmTzJYbVQxLUNKdk5pMkVmUEJ2WUs5WE9FWmFKcGk3T3JlQ3JsU2I0amNoUXNScXBselBZbWdn?oc=5)
+來源：[SurcoCLM](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdEx5MW5jc0lnbko4cUVDVWxVNXFrMmdhSHVEM0ozeUZ6dkJ3Q0p4eDRhV1BZWmtvZmQ1d0hHYzA1bS1lTU16ZVFxOFFneG5zVV9XX0RVTEZfenhMMkh0RHB3OFNBdUNSVGlSRWJrb0h2eUdOS3N5bDVzTE1UYUJoLWpLUEpUTXZ3VjJQUDhCVDk4bDBSaWs5ZGI0bjNUXzJpTWw1am1rakdHT09nX0o2YmoyNEs0S1JvR2hNWXlIWEUxbERZdmk2MVA4UHdPLUZsUWVnSndjZW9ySFpXRklnV3ZJT2gwalBxcTZFSWRR?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/lasmiditan-succinate/
 2026-04-21 <span class="news-indication-tag">obesity</span>
 
 來源：[The i Paper](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFJPVnNsSWo2N0cxTmZSTENENWU3bDExNkNObmVxR0l1RG9TRUw1NThia2w5bmhLUDlDelREVmVsY2c5MmdHWW1Td0ZWdGVpZzlFRWpuMDJDV0cxbHBERmluczE3S1hzUUhMZWRfVVFUYU5meVhUcDRRYXlib2VJYjZmTXU?oc=5)
-
----
-
-### [Obésité : une technique utilisée pour la première fois en France faciliterait considérablement la perte de poids](https://news.google.com/rss/articles/CBMijgJBVV95cUxOLVFzVDE1YkhaZVFORmdvYm1YWk9jSWt0ekQxc05VRUsyZ0ZsZUhWUnlBUGdCOWtUZnZrVlpGajk2SUhYTUJRaENyS19PRDdHZkRJTFBDNFFmb1B4ckRzdlhqLW9iWGZlOVFXdEJEd1VSVXZxSkZmbEl1bzVGNy1PRVhaTllNM2xHUHA4a1FRcUxQQ3UxTVlpQnViRlZnM2tIRXZ5bHJTNEJodXBBM0tsRDVtYTZ0bklaNE9DbGpxXzBFQWVOMktJQ2wwUDNER3RpYy04M2JVZTlZbXdISlplaFVmc1owRkpKckFtM1dCLUN4UHBIZlM5dWlqS2N5M0RXd3lhMzdUMFVjNGtpaHc?oc=5)
-
-2026-04-20 <span class="news-indication-tag">obésité</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMijgJBVV95cUxOLVFzVDE1YkhaZVFORmdvYm1YWk9jSWt0ekQxc05VRUsyZ0ZsZUhWUnlBUGdCOWtUZnZrVlpGajk2SUhYTUJRaENyS19PRDdHZkRJTFBDNFFmb1B4ckRzdlhqLW9iWGZlOVFXdEJEd1VSVXZxSkZmbEl1bzVGNy1PRVhaTllNM2xHUHA4a1FRcUxQQ3UxTVlpQnViRlZnM2tIRXZ5bHJTNEJodXBBM0tsRDVtYTZ0bklaNE9DbGpxXzBFQWVOMktJQ2wwUDNER3RpYy04M2JVZTlZbXdISlplaFVmc1owRkpKckFtM1dCLUN4UHBIZlM5dWlqS2N5M0RXd3lhMzdUMFVjNGtpaHc?oc=5)
 
 ---
 

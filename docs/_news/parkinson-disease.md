@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "parkinsonism（parkinson disease） 相關新聞"
+title: "maladie de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "parkinsonism（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
-# parkinsonism（parkinson disease） 相關新聞
+# maladie de Parkinson（parkinson disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="parkinsonism（parkinson disease） 有什麼相關新聞？">
-<strong>parkinsonism（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="maladie de Parkinson（parkinson disease） 有什麼相關新聞？">
+<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「parkinsonism」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie de Parkinson」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,19 +37,19 @@ permalink: /news/parkinson-disease/
 
 ## 相關新聞（2 則）
 
-### [Sanidad facilita a los especialistas los contenidos de la jornada sobre Parkinson y parkinsonismos - Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nbml6aTc5NWswbmFsYzhjQ1N3NHNlYk9LTDU2WWxxS2dNekF0bm9tbjBWajVQek1XMXVzTGlsQWNTclVaTlE5QVprY1VMdlVT?oc=5)
+### [Parkinson : la clé du diagnostic précoce se cacherait dans nos intestins - Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
 
 2026-04-21
 
-來源：[Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nbml6aTc5NWswbmFsYzhjQ1N3NHNlYk9LTDU2WWxxS2dNekF0bm9tbjBWajVQek1XMXVzTGlsQWNTclVaTlE5QVprY1VMdlVT?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
 
 ---
 
-### [Une étude permet de découvrir "des altérations du microbiote spécifiques à la maladie de Parkinson" avec l'espoir "d'identifier les individus les plus à risque"](https://news.google.com/rss/articles/CBMiswJBVV95cUxOU0IwYjR5NEs3MUpLY3JkY3o3T2hRRXhDTW8zY2Y0ZFhjcnp3akowTXkyNW1pQ0RCWFBEUUpLaHIzdmcxb0I4R29JRXhTcDB1UnZOMHZZTmR6c3UyRUVCVDRwcGJwNDh5V2xWbXI5YW4yZDNXeXNYa20yZk15ZkhKLVdON2JuZV9YT3EtSkdiLWo2U0kyamM5SW9wQ0I4Mlg1MWpvRmZlZGw2MV9YeFE3Snl5NTJBUzRMUmxRdDVPVmJiSE5wSzFtNEFfXzJueGg4YmhTNEJQX29mSGhpcXl2cXQ5R3lQeFpzcEJWdlU5MFlYS1ZYTko2Y1VjQkxxT09TSGJPMnpreldFOFFtU0RTOFhQc2djd3FvejRub0RrcHdhcS11UU43NmZubV9hMjFpUWtV?oc=5)
+### [Hacer la letra muy pequeña, perder olfato... estos son los síntomas que anticipan el párkinson - El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
 
-2026-04-20
+2026-04-21
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMiswJBVV95cUxOU0IwYjR5NEs3MUpLY3JkY3o3T2hRRXhDTW8zY2Y0ZFhjcnp3akowTXkyNW1pQ0RCWFBEUUpLaHIzdmcxb0I4R29JRXhTcDB1UnZOMHZZTmR6c3UyRUVCVDRwcGJwNDh5V2xWbXI5YW4yZDNXeXNYa20yZk15ZkhKLVdON2JuZV9YT3EtSkdiLWo2U0kyamM5SW9wQ0I4Mlg1MWpvRmZlZGw2MV9YeFE3Snl5NTJBUzRMUmxRdDVPVmJiSE5wSzFtNEFfXzJueGg4YmhTNEJQX29mSGhpcXl2cXQ5R3lQeFpzcEJWdlU5MFlYS1ZYTko2Y1VjQkxxT09TSGJPMnpreldFOFFtU0RTOFhQc2djd3FvejRub0RrcHdhcS11UU43NmZubV9hMjFpUWtV?oc=5)
+來源：[El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
 
 ---
 

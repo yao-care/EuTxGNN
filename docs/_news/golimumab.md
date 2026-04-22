@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Hoja de ruta para avanzar en el abordaje de enfermedad de Crohn y colitis ulcerosa - Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmtYVHNRRUhmZkFGY2JzTkQxeGk4RlZyZkR5NklVVHpuVVkwc0VZdHVucVdXMURrcnh1bjJQT0lDRjJWeGhZVXJZeGZjTDRqcW9ObEVjNEZERDFpUURqWXVhQ09leFYwYzFEdEJTb1RvUjRxRFJDdExjYUxVQU1JWDVIcEF6SFNKRDRiMnduZVYyMEpYZ3lIWHZ3aTN5dmM2b3VURWtR?oc=5)
+
+2026-04-21 <span class="news-indication-tag">enfermedad de Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmtYVHNRRUhmZkFGY2JzTkQxeGk4RlZyZkR5NklVVHpuVVkwc0VZdHVucVdXMURrcnh1bjJQT0lDRjJWeGhZVXJZeGZjTDRqcW9ObEVjNEZERDFpUURqWXVhQ09leFYwYzFEdEJTb1RvUjRxRFJDdExjYUxVQU1JWDVIcEF6SFNKRDRiMnduZVYyMEpYZ3lIWHZ3aTN5dmM2b3VURWtR?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -54,19 +54,19 @@ permalink: /news/tolcapone/
 
 ## 相關新聞（6 則）
 
-### [Sanidad facilita a los especialistas los contenidos de la jornada sobre Parkinson y parkinsonismos - Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nbml6aTc5NWswbmFsYzhjQ1N3NHNlYk9LTDU2WWxxS2dNekF0bm9tbjBWajVQek1XMXVzTGlsQWNTclVaTlE5QVprY1VMdlVT?oc=5)
+### [Parkinson : la clé du diagnostic précoce se cacherait dans nos intestins - Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
 
-2026-04-21 <span class="news-indication-tag">parkinsonism</span>
+2026-04-21 <span class="news-indication-tag">maladie de Parkinson</span>
 
-來源：[Escuela Andaluza de Salud Pública](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nbml6aTc5NWswbmFsYzhjQ1N3NHNlYk9LTDU2WWxxS2dNekF0bm9tbjBWajVQek1XMXVzTGlsQWNTclVaTlE5QVprY1VMdlVT?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
 
 ---
 
-### [Une étude permet de découvrir "des altérations du microbiote spécifiques à la maladie de Parkinson" avec l'espoir "d'identifier les individus les plus à risque"](https://news.google.com/rss/articles/CBMiswJBVV95cUxOU0IwYjR5NEs3MUpLY3JkY3o3T2hRRXhDTW8zY2Y0ZFhjcnp3akowTXkyNW1pQ0RCWFBEUUpLaHIzdmcxb0I4R29JRXhTcDB1UnZOMHZZTmR6c3UyRUVCVDRwcGJwNDh5V2xWbXI5YW4yZDNXeXNYa20yZk15ZkhKLVdON2JuZV9YT3EtSkdiLWo2U0kyamM5SW9wQ0I4Mlg1MWpvRmZlZGw2MV9YeFE3Snl5NTJBUzRMUmxRdDVPVmJiSE5wSzFtNEFfXzJueGg4YmhTNEJQX29mSGhpcXl2cXQ5R3lQeFpzcEJWdlU5MFlYS1ZYTko2Y1VjQkxxT09TSGJPMnpreldFOFFtU0RTOFhQc2djd3FvejRub0RrcHdhcS11UU43NmZubV9hMjFpUWtV?oc=5)
+### [Hacer la letra muy pequeña, perder olfato... estos son los síntomas que anticipan el párkinson - El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
 
-2026-04-20 <span class="news-indication-tag">maladie de Parkinson</span>
+2026-04-21 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMiswJBVV95cUxOU0IwYjR5NEs3MUpLY3JkY3o3T2hRRXhDTW8zY2Y0ZFhjcnp3akowTXkyNW1pQ0RCWFBEUUpLaHIzdmcxb0I4R29JRXhTcDB1UnZOMHZZTmR6c3UyRUVCVDRwcGJwNDh5V2xWbXI5YW4yZDNXeXNYa20yZk15ZkhKLVdON2JuZV9YT3EtSkdiLWo2U0kyamM5SW9wQ0I4Mlg1MWpvRmZlZGw2MV9YeFE3Snl5NTJBUzRMUmxRdDVPVmJiSE5wSzFtNEFfXzJueGg4YmhTNEJQX29mSGhpcXl2cXQ5R3lQeFpzcEJWdlU5MFlYS1ZYTko2Y1VjQkxxT09TSGJPMnpreldFOFFtU0RTOFhQc2djd3FvejRub0RrcHdhcS11UU43NmZubV9hMjFpUWtV?oc=5)
+來源：[El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
 
 ---
 
@@ -96,7 +96,7 @@ permalink: /news/tolcapone/
 
 ### [New nasal spray reverses brain aging while restoring memory, giving new hope to people with dementia](https://news.google.com/rss/articles/CBMingFBVV95cUxOcl9EMVV4U082WWpyYTBUb2VhUC1ISXpfN19oQU1TZW1iUGF4LUw3bTUteW53c0xHWWRiRFg4TS1JeUttbEh3TDhFWG9DT0JVUWxRLV9yanA3NGplNzhYMjFoVzZGdGxIa0NQaXltSGNfVWJQVGlhQ3pQNFdJQ2MtUkYzT0xVOGM0bmkzQmtrOW5mRWtOdHU1R3NvMno2dw?oc=5)
 
-2026-04-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-04-20 <span class="news-indication-tag">dementia</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOcl9EMVV4U082WWpyYTBUb2VhUC1ISXpfN19oQU1TZW1iUGF4LUw3bTUteW53c0xHWWRiRFg4TS1JeUttbEh3TDhFWG9DT0JVUWxRLV9yanA3NGplNzhYMjFoVzZGdGxIa0NQaXltSGNfVWJQVGlhQ3pQNFdJQ2MtUkYzT0xVOGM0bmkzQmtrOW5mRWtOdHU1R3NvMno2dw?oc=5)
 
