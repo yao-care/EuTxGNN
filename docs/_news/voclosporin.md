@@ -14,7 +14,7 @@ permalink: /news/voclosporin/
 ---
 
 <p class="key-answer" data-question="Voclosporin 有什麼相關新聞？">
-<strong>Voclosporin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voclosporin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,17 @@ permalink: /news/voclosporin/
 <p><a href="{{ '/drugs/voclosporin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
-### [Herzinfarkte und Schlaganfälle verhindern: Cholesterin überschätzt? Studie legt neue Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
+### [Prädiabetes: Wie sollte man sich jetzt ernähren, um Diabetes zu verhindern? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWlB3enRMdlpldmVqSE9PMERPZDlHbzR4bGw1Z010dzkwZDZQcmluSWVoQVdwZnd1ZWN5RjVGcG9SZ3REbllqRU1nNlF0NWI2SElsdWo1NlN0cnVCM2w0OWZZOWdjYW9JSkFmeUI2d2ltdXVYdjMyOXlTRktLYkJnME1JcUVkY1cyMHE5azdDaWJuWXBHaEZsZFFvY0RCWkpVeUsxY0piR2NFdGdQM0E3S20xTk9acFNseGtuSnBiVUpyV3NGYldfWEFEa3EycFJWYTd5eTFJWQ?oc=5)
+
+2026-04-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWlB3enRMdlpldmVqSE9PMERPZDlHbzR4bGw1Z010dzkwZDZQcmluSWVoQVdwZnd1ZWN5RjVGcG9SZ3REbllqRU1nNlF0NWI2SElsdWo1NlN0cnVCM2w0OWZZOWdjYW9JSkFmeUI2d2ltdXVYdjMyOXlTRktLYkJnME1JcUVkY1cyMHE5azdDaWJuWXBHaEZsZFFvY0RCWkpVeUsxY0piR2NFdGdQM0E3S20xTk9acFNseGtuSnBiVUpyV3NGYldfWEFEa3EycFJWYTd5eTFJWQ?oc=5)
+
+---
+
+### [Herzinfarkte und Schlaganfälle verhindern: Studie legt neue Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
 
 2026-04-23 <span class="news-indication-tag">diabetes</span>
 
@@ -62,27 +70,11 @@ permalink: /news/voclosporin/
 
 ---
 
-### [Encías y diabetes, una relación infravalorada: “La periodontitis influye directamente en su control glucémico”](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWdiNmlVVDVrTzdXdmd6UGYyVTV2YV9tOE5yVkgtZ3hzaDJQR29FOTlTdFNueGZxUDVGWkMwVnRQX24zSVBFZ1NIRnNVenVqeW1fbkZ3ZTY3b2NiMXowS0I1dThqYXVaRlh1SU96UVdRa0FpZFpQUFc2R3lPQVJVSm9ZTzUybUttV3JEczhGcno3YVpGNEcwWWdQLUJBQzlqd2lsTHI0QTFib0JMZEpPLUUwdnBYQ1h5d3pmR2VEN1IyUExidkJJZHlUVGp3aEhIckNMcW5rT3JnVjlDTFNOaF94Z3NnMEMwXzYxU1VYR3Jka29YNmlSRg?oc=5)
+### [Man dies after calling GP three times failed to get him the 'urgent help' he needed - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA3M1pFNVVCLVg1dmRMSmJpUllha3RnSHFoNmV5NDN6TW9aX2FpMTE2T1JYdHZLSnNlS01XUHIyclp6aVdxaDRfdDZtbk5CaXl5bnp6am1QN3VPR2ZFc25tRFNMUTBUcWFYT05JUklMZ3cybnctRlJaTXJCckHSAYIBQVVfeXFMTmNPX1pSbFhuTFppMVJianlUNEtJM2R4RVREdGxLMnk1T0RTSDFiNC1IMmlQTFpQaU15SWMzSy1qcmFkbE15eG5LeUpEWXlSa3owTndJZ09FSVlJM01YQ01qaUVBWER3dFRfeTREekgwT2l5NDZ0Z0ZqdkJrUmdUWWFEdw?oc=5)
 
-2026-04-23 <span class="news-indication-tag">diabetes</span>
+2026-04-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWdiNmlVVDVrTzdXdmd6UGYyVTV2YV9tOE5yVkgtZ3hzaDJQR29FOTlTdFNueGZxUDVGWkMwVnRQX24zSVBFZ1NIRnNVenVqeW1fbkZ3ZTY3b2NiMXowS0I1dThqYXVaRlh1SU96UVdRa0FpZFpQUFc2R3lPQVJVSm9ZTzUybUttV3JEczhGcno3YVpGNEcwWWdQLUJBQzlqd2lsTHI0QTFib0JMZEpPLUUwdnBYQ1h5d3pmR2VEN1IyUExidkJJZHlUVGp3aEhIckNMcW5rT3JnVjlDTFNOaF94Z3NnMEMwXzYxU1VYR3Jka29YNmlSRg?oc=5)
-
----
-
-### [Surveyor, 30, died from diabetes after GP told him to call 111 - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkVBUDNpQnpqclRVV2xRbVA4cE9iWk51ZFBGTEhGbEJManRKRTdlR2tSQ2tOMHpaRUNsdXROWkVOaVpEM05Pa3VMUlo1QkZheEN6TmZwakEwamZKb2dNYnNpdjJyd2oxMzJrVHo5V1QxRDlYVnJESTAyQVM4NWg3MEJfOXFjemluWVNuQ2FsR2JXY1RSdXlmNUtnbzFTcHJqX0E?oc=5)
-
-2026-04-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkVBUDNpQnpqclRVV2xRbVA4cE9iWk51ZFBGTEhGbEJManRKRTdlR2tSQ2tOMHpaRUNsdXROWkVOaVpEM05Pa3VMUlo1QkZheEN6TmZwakEwamZKb2dNYnNpdjJyd2oxMzJrVHo5V1QxRDlYVnJESTAyQVM4NWg3MEJfOXFjemluWVNuQ2FsR2JXY1RSdXlmNUtnbzFTcHJqX0E?oc=5)
-
----
-
-### [L’impatto sociale del “fenomeno Ozempic” e dei farmaci GLP-1: da cura per il diabete a trend TikTok](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
-
-2026-04-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Geopop](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA3M1pFNVVCLVg1dmRMSmJpUllha3RnSHFoNmV5NDN6TW9aX2FpMTE2T1JYdHZLSnNlS01XUHIyclp6aVdxaDRfdDZtbk5CaXl5bnp6am1QN3VPR2ZFc25tRFNMUTBUcWFYT05JUklMZ3cybnctRlJaTXJCckHSAYIBQVVfeXFMTmNPX1pSbFhuTFppMVJianlUNEtJM2R4RVREdGxLMnk1T0RTSDFiNC1IMmlQTFpQaU15SWMzSy1qcmFkbE15eG5LeUpEWXlSa3owTndJZ09FSVlJM01YQ01qaUVBWER3dFRfeTREekgwT2l5NDZ0Z0ZqdkJrUmdUWWFEdw?oc=5)
 
 ---
 
@@ -91,6 +83,14 @@ permalink: /news/voclosporin/
 2026-04-22 <span class="news-indication-tag">diabetes</span>
 
 來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1gzLUNCakRqanM5OEpOdFZzUlRRN2I5SUN0YTByazNWOGVqTm81a2tXQWtoWmQ3WkJvYU1HQ21FekdBNEM0aXUzeWJzdGFXeUF5Q1paU2lwRHptemhlY1FGMlF5VVN1akhCOEJJYmtoaTN1bERIZlg3ZTB2RHdmdUppZGZJQ2ozT2h2RF9RTVJoNUFhTDRuejl1Umt5MWZQVHJtSg?oc=5)
+
+---
+
+### [Un manejo integral de la diabetes tipo 2 reduce complicaciones y alivia el gasto sanitario - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjIyOE5YZ1dnUlZGSGVxa3BrTHZpdEFoVVpleHloeTJKeWlEQnBLcjRMalExRzVtdTA0dHdFQzVEZ2pKYWJqb0VTa1RXN0JCZ0g4SUhCaVNkYTRlSEt5eGdNR2Ywd3ZHSWpySS1XV1lncVlxbUNfLWR0SHJwSXkzNWtveE9PQ1FzV2g1VUpibE5BOVg4TnZKT1dGOG1teEwtV0I1ang4R2J2c3VnZzdUR3BtOWdzbmJiQUJjOFhkbDFYWUHSAb4BQVVfeXFMUDMzZlo0WUtoaFk2SWh4U1N3X2ZySzNNa2kzWWtBTTJabjVLUDltdjhJWGdVajVJV2NWZTJucjRYNWF6TFhKcjVwaGF0VmdnZlFucXNGcGZWNFRHVHFJc2MtdXVLVGxqX3VLNzlBSmRiWFk5RDA1VE5nRXVENm1ZYlgzdS1fS3VMRG5xN05HeHA5ZlZzWHhyWDRNQ0g3OVhxRWZPMHducWdvYURYRF9CaEp6eDUwNk5yMUxFbENYdw?oc=5)
+
+2026-04-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjIyOE5YZ1dnUlZGSGVxa3BrTHZpdEFoVVpleHloeTJKeWlEQnBLcjRMalExRzVtdTA0dHdFQzVEZ2pKYWJqb0VTa1RXN0JCZ0g4SUhCaVNkYTRlSEt5eGdNR2Ywd3ZHSWpySS1XV1lncVlxbUNfLWR0SHJwSXkzNWtveE9PQ1FzV2g1VUpibE5BOVg4TnZKT1dGOG1teEwtV0I1ang4R2J2c3VnZzdUR3BtOWdzbmJiQUJjOFhkbDFYWUHSAb4BQVVfeXFMUDMzZlo0WUtoaFk2SWh4U1N3X2ZySzNNa2kzWWtBTTJabjVLUDltdjhJWGdVajVJV2NWZTJucjRYNWF6TFhKcjVwaGF0VmdnZlFucXNGcGZWNFRHVHFJc2MtdXVLVGxqX3VLNzlBSmRiWFk5RDA1VE5nRXVENm1ZYlgzdS1fS3VMRG5xN05HeHA5ZlZzWHhyWDRNQ0g3OVhxRWZPMHducWdvYURYRF9CaEp6eDUwNk5yMUxFbENYdw?oc=5)
 
 ---
 
@@ -110,27 +110,11 @@ permalink: /news/voclosporin/
 
 ---
 
-### [Salute e prevenzione: all'Associazione diabetici incontro con il dottor di Lembo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXR1RFBUY3lOeERVaWlCNW42a1ZmZnpQRzZvM2JqUXd0NkpZVkY5UEc1c3M4bGhzck1VV2pQem9mMnZMRmw0WHZFQ0lJZDJpbkJyZzktOExlNWFnaFlfbElhQnJSTXIyUGxmd2JGdlg5ZXBYa0FUSDc4V1lXdGlPOHB6U0RFVXVHREJhM0YzWl9tRTNUNi1VRDFNZjhQLVlZcDdVMmMzYzJiUlVCbFFTaVJLN21LbG5N?oc=5)
-
-2026-04-21 <span class="news-indication-tag">diabetic</span>
-
-來源：[Cremonaoggi](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXR1RFBUY3lOeERVaWlCNW42a1ZmZnpQRzZvM2JqUXd0NkpZVkY5UEc1c3M4bGhzck1VV2pQem9mMnZMRmw0WHZFQ0lJZDJpbkJyZzktOExlNWFnaFlfbElhQnJSTXIyUGxmd2JGdlg5ZXBYa0FUSDc4V1lXdGlPOHB6U0RFVXVHREJhM0YzWl9tRTNUNi1VRDFNZjhQLVlZcDdVMmMzYzJiUlVCbFFTaVJLN21LbG5N?oc=5)
-
----
-
 ### [Could an Avocado and Mango a Day Keep High Blood Pressure at Bay?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
 
 2026-04-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
-
----
-
-### [Multiculturalidad y diabetes - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
-
-2026-04-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
 
 ---
 

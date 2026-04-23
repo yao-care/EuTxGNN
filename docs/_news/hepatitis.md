@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE02RXFYb0FXakgxc1dxcFZaVFF4UkxrMVRYbjBkc0J2bUZSYnFVZVJEQ0w0NG5uSl8wdElpeFVZb1AxRVlUaDgtWS1JSQ?oc=5)
+
+2026-04-23
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE02RXFYb0FXakgxc1dxcFZaVFF4UkxrMVRYbjBkc0J2bUZSYnFVZVJEQ0w0NG5uSl8wdElpeFVZb1AxRVlUaDgtWS1JSQ?oc=5)
+
+---
 
 ### [Chronische Hepatitis B: Schätzung der Betroffenen in Europa reicht von 2,4 bis 4,1 Millionen - Biermann Medizin](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFd2cS1WRzdTZ2dOUWJIaldQYmlycUtpWXdzUG45YVNUN1V0TnBlYzlYXy13VW8xckVzTGVkLXJzMzBMU3N4MnBwNzlUSEo5RnV5OWk2MmNUTWc4OENneFZfdmNEVjBxN3lwLUhFeGRlZ1pPREs5bU51T3lWYjY3RHVnZTdGSm94RnlNb1NyTkZPSnZnajFaRFMxTGlQVTh2UVBQSGRwU0NvSDVyWHYtQ25iNDNYTXBPMV9n?oc=5)
 

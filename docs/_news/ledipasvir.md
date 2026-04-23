@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE02RXFYb0FXakgxc1dxcFZaVFF4UkxrMVRYbjBkc0J2bUZSYnFVZVJEQ0w0NG5uSl8wdElpeFVZb1AxRVlUaDgtWS1JSQ?oc=5)
+
+2026-04-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE02RXFYb0FXakgxc1dxcFZaVFF4UkxrMVRYbjBkc0J2bUZSYnFVZVJEQ0w0NG5uSl8wdElpeFVZb1AxRVlUaDgtWS1JSQ?oc=5)
+
+---
+
+### [Multiple Sklerose: Proteom des Liquors liefert neue Hinweise](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXdyOE9tZlNxb1dicHB0eHdsOHpwcG1ZLWJQanNtSHE5aXhzOWZuZ1R1MkUycU1Nbm1mSzdkb2ZrbWVuQ2loODYwOHNvVm1DMGM3aTdObDFGeTc2ck80T3piZElJWDBUdk9vWjI0cXkwUHB1OWV4NkxpcDF6d0d2bmJsVkRZR0lVT2tseUZB?oc=5)
+
+2026-04-23 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXdyOE9tZlNxb1dicHB0eHdsOHpwcG1ZLWJQanNtSHE5aXhzOWZuZ1R1MkUycU1Nbm1mSzdkb2ZrbWVuQ2loODYwOHNvVm1DMGM3aTdObDFGeTc2ck80T3piZElJWDBUdk9vWjI0cXkwUHB1OWV4NkxpcDF6d0d2bmJsVkRZR0lVT2tseUZB?oc=5)
+
+---
+
+### [Man dies after calling GP three times failed to get him the 'urgent help' he needed - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA3M1pFNVVCLVg1dmRMSmJpUllha3RnSHFoNmV5NDN6TW9aX2FpMTE2T1JYdHZLSnNlS01XUHIyclp6aVdxaDRfdDZtbk5CaXl5bnp6am1QN3VPR2ZFc25tRFNMUTBUcWFYT05JUklMZ3cybnctRlJaTXJCckHSAYIBQVVfeXFMTmNPX1pSbFhuTFppMVJianlUNEtJM2R4RVREdGxLMnk1T0RTSDFiNC1IMmlQTFpQaU15SWMzSy1qcmFkbE15eG5LeUpEWXlSa3owTndJZ09FSVlJM01YQ01qaUVBWER3dFRfeTREekgwT2l5NDZ0Z0ZqdkJrUmdUWWFEdw?oc=5)
+
+2026-04-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA3M1pFNVVCLVg1dmRMSmJpUllha3RnSHFoNmV5NDN6TW9aX2FpMTE2T1JYdHZLSnNlS01XUHIyclp6aVdxaDRfdDZtbk5CaXl5bnp6am1QN3VPR2ZFc25tRFNMUTBUcWFYT05JUklMZ3cybnctRlJaTXJCckHSAYIBQVVfeXFMTmNPX1pSbFhuTFppMVJianlUNEtJM2R4RVREdGxLMnk1T0RTSDFiNC1IMmlQTFpQaU15SWMzSy1qcmFkbE15eG5LeUpEWXlSa3owTndJZ09FSVlJM01YQ01qaUVBWER3dFRfeTREekgwT2l5NDZ0Z0ZqdkJrUmdUWWFEdw?oc=5)
+
+---
 
 ### [Darmbakterien als Schlüssel zur Früherkennung von Demenz und Parkinson - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGhFLWx5dzFKaER0YXJRUlZhVC1LdS13RXR2TVlKTjlfc0ZlemlsanIteUQzU2JxX1k1c1AtbnJ2VWZ2WGZLMUw0bUJTNWlfREozaGNEajVuN0hVakV4MkptakVDZVE2cmQyR1NURUc2ZDR6SE94emlMZW95T21GR1JENmYzcDBlN2RSeTNEdFBObzd5WGY2bFBQSVNLd0FhNFJMMTJpMA?oc=5)
 
 2026-04-22 <span class="news-indication-tag">MS</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGhFLWx5dzFKaER0YXJRUlZhVC1LdS13RXR2TVlKTjlfc0ZlemlsanIteUQzU2JxX1k1c1AtbnJ2VWZ2WGZLMUw0bUJTNWlfREozaGNEajVuN0hVakV4MkptakVDZVE2cmQyR1NURUc2ZDR6SE94emlMZW95T21GR1JENmYzcDBlN2RSeTNEdFBObzd5WGY2bFBQSVNLd0FhNFJMMTJpMA?oc=5)
-
----
-
-### [Blood Test Could Predict Alzheimer’s Risk Long Before Symptoms Surface, Paving the Way for Early Detection - Indian Defence Review](https://news.google.com/rss/articles/CBMifkFVX3lxTFAtb3lOWGQxVmtHUHJrUmNHZ3JaRTFyaHQxQ2NtRnJwd0tDdXNFV2xqLWE5N1BPSXdHaFJKY25YWHpyb1F3cy1vcXZXNEdDdllfenhtaTFUZGV3RnFBLUE1VnNDaXBYRm5Eb0hxWFNMUVRNWm5Hd01qaFlsNmNxUQ?oc=5)
-
-2026-04-21 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMifkFVX3lxTFAtb3lOWGQxVmtHUHJrUmNHZ3JaRTFyaHQxQ2NtRnJwd0tDdXNFV2xqLWE5N1BPSXdHaFJKY25YWHpyb1F3cy1vcXZXNEdDdllfenhtaTFUZGV3RnFBLUE1VnNDaXBYRm5Eb0hxWFNMUVRNWm5Hd01qaFlsNmNxUQ?oc=5)
 
 ---
 
@@ -78,14 +94,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Vaccines mean malaria deaths should be falling — not rising](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNlZhUlpxa0tCOUNnWC10Y18zOEg5MFJaOHZ2bnZjQ2h1MnVUZEs0M3JDVG9NMHRrYmlfbnR3eVhJMUg5TmRfS0lWcHUtVmd2Mi00dFFuSjlULWlhNGk0?oc=5)
-
-2026-04-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNlZhUlpxa0tCOUNnWC10Y18zOEg5MFJaOHZ2bnZjQ2h1MnVUZEs0M3JDVG9NMHRrYmlfbnR3eVhJMUg5TmRfS0lWcHUtVmd2Mi00dFFuSjlULWlhNGk0?oc=5)
-
----
-
 ### [Chronische Hepatitis B: Schätzung der Betroffenen in Europa reicht von 2,4 bis 4,1 Millionen - Biermann Medizin](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFd2cS1WRzdTZ2dOUWJIaldQYmlycUtpWXdzUG45YVNUN1V0TnBlYzlYXy13VW8xckVzTGVkLXJzMzBMU3N4MnBwNzlUSEo5RnV5OWk2MmNUTWc4OENneFZfdmNEVjBxN3lwLUhFeGRlZ1pPREs5bU51T3lWYjY3RHVnZTdGSm94RnlNb1NyTkZPSnZnajFaRFMxTGlQVTh2UVBQSGRwU0NvSDVyWHYtQ25iNDNYTXBPMV9n?oc=5)
 
 2026-04-21 <span class="news-indication-tag">hepatitis</span>
@@ -94,11 +102,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Ipotesi correlazione tra microbiota orale e insorgenza della sclerosi multipla: finanziamento per lo studio di ospedale San Luigi di Orbassano e Università di Torino](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1kwblFSZTBWLXhkWU5WQVVSZWdrck43QjNtNDE1WDIwb0UyTXlnbnZPa1plb2t5czR1SkE4NmlEN3BCY1lJckNGOHVTaDZVeTkxeUQwS0dxQjlza21GTkhFSkxhU0FSS0k3Nm1iNEFGeWYxSFVCNkpmbGlMTEdNdzRyWXdIY0Z2cjlVcHpFVEItbER6dGQyZDFHeVpHaGkyYUhnUFVZbGNiaWVxR3BMWHNWYVE4SlpCM0NvY3Q1R0FmQmUtM1ZPeGdlV2tiZmRvOVF6QlZ3?oc=5)
+### [Tumore dell’esofago: scoperta la lesione precancerosa chiave](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JNc24zN2F6eU40MFhmSzNTX0J0a05ob2lXOWpON0ZHUVpMRkZILU0zMUY4NldXbW9WRlMxaWpwSVNaQmlPbERUWVY1T3JNNVJFR2VTQmZha1M3LVozV0NEZktiWGtXZ2duQkwtUGdDZGV5eGxETS1QT3ZfSU5nTzFKRGk3VnVpVWtQb0p0RUpPbFNTT3lpWg?oc=5)
 
-2026-04-21 <span class="news-indication-tag">sclerosi multipla</span>
+2026-04-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[TorinoToday](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1kwblFSZTBWLXhkWU5WQVVSZWdrck43QjNtNDE1WDIwb0UyTXlnbnZPa1plb2t5czR1SkE4NmlEN3BCY1lJckNGOHVTaDZVeTkxeUQwS0dxQjlza21GTkhFSkxhU0FSS0k3Nm1iNEFGeWYxSFVCNkpmbGlMTEdNdzRyWXdIY0Z2cjlVcHpFVEItbER6dGQyZDFHeVpHaGkyYUhnUFVZbGNiaWVxR3BMWHNWYVE4SlpCM0NvY3Q1R0FmQmUtM1ZPeGdlV2tiZmRvOVF6QlZ3?oc=5)
+來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JNc24zN2F6eU40MFhmSzNTX0J0a05ob2lXOWpON0ZHUVpMRkZILU0zMUY4NldXbW9WRlMxaWpwSVNaQmlPbERUWVY1T3JNNVJFR2VTQmZha1M3LVozV0NEZktiWGtXZ2duQkwtUGdDZGV5eGxETS1QT3ZfSU5nTzFKRGk3VnVpVWtQb0p0RUpPbFNTT3lpWg?oc=5)
 
 ---
 

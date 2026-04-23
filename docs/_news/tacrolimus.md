@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Lilly anuncia nuevos datos de un estudio en adultos con obesidad y artritis psoriásica en tratamiento concomitante de Mounjaro y Taltz - Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
+
+2026-04-22 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
+
+---
 
 ### [Krebsrisiko bei mittelschwerer bis schwerer Psoriasis](https://news.google.com/rss/articles/CBMie0FVX3lxTFA2Y3pzbXRaZ01BMW1UNXg5dENUYTZzbHV5NHhYWWpMbk5zekFMVVhRVW1wbUxfRGM1MDczUW5WaWRhZ1JlT2J3ajJ4aHRvc1FUNVZ0c2xhcUhhMnRIcW1EQ1h0MzFpR3VrSFpiS0hTeldNZ2ROYURhTmg1OA?oc=5)
 

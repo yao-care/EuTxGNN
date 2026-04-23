@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [« On devient prisonnier de son corps » : elle raconte son quotidien avec la maladie de Parkinson - Le Progrès](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVV4Q215QjVqR1lyMFF4cm5VVjEzUnhFMDlET3hXWkxaQ2lpcGFQSDkxaDltNjdSMEdlOWtYNHNGd29vbEw1UW5BMFc1UFlVNEtQRDhiZ01xWW9xZkxCd2ZRdTNoRk9OazgzZTVtV0FpTXdzQ1B4UE9mOXVqcGJVUkpRajVfR3U0MWs1X0I1YUdkSUxONFpINzF0M1BjZXpXMUE?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/botulinum-toxin-type-a/
 2026-04-21 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
-
----
-
-### [Les exercices physiques simples qui peuvent améliorer votre mémoire, selon la science](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwQ0NrT1NELWpabWwwRE9xZmE5VW8wbWhJXzNfcU9ZTlBRckRCNktNVFVHOUc4Q2ItZ3ozRXNOUTM0TGZrZFNfVGFiN2g3eGMwOUU3VUZuYTBpY29Nd0HSAWNBVV95cUxPYmkzMktmdlhIZFZjRTlHLWhUWFRyU010RzYwczRuSDAzR0k2TWNkT2VBSDN5Z180QTJpN2xUQ1hJazNLOV9aVXNIYVlXb2dPNFdnck0tdVZlako3a2Q2dWFPVUU?oc=5)
-
-2026-04-21 <span class="news-indication-tag">EPOC</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwQ0NrT1NELWpabWwwRE9xZmE5VW8wbWhJXzNfcU9ZTlBRckRCNktNVFVHOUc4Q2ItZ3ozRXNOUTM0TGZrZFNfVGFiN2g3eGMwOUU3VUZuYTBpY29Nd0HSAWNBVV95cUxPYmkzMktmdlhIZFZjRTlHLWhUWFRyU010RzYwczRuSDAzR0k2TWNkT2VBSDN5Z180QTJpN2xUQ1hJazNLOV9aVXNIYVlXb2dPNFdnck0tdVZlako3a2Q2dWFPVUU?oc=5)
 
 ---
 

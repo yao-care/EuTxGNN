@@ -14,7 +14,7 @@ permalink: /news/entecavir/
 ---
 
 <p class="key-answer" data-question="Entecavir 有什麼相關新聞？">
-<strong>Entecavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entecavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/entecavir/
 <p><a href="{{ '/drugs/entecavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE02RXFYb0FXakgxc1dxcFZaVFF4UkxrMVRYbjBkc0J2bUZSYnFVZVJEQ0w0NG5uSl8wdElpeFVZb1AxRVlUaDgtWS1JSQ?oc=5)
+
+2026-04-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE02RXFYb0FXakgxc1dxcFZaVFF4UkxrMVRYbjBkc0J2bUZSYnFVZVJEQ0w0NG5uSl8wdElpeFVZb1AxRVlUaDgtWS1JSQ?oc=5)
+
+---
 
 ### [Chronische Hepatitis B: Schätzung der Betroffenen in Europa reicht von 2,4 bis 4,1 Millionen - Biermann Medizin](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFd2cS1WRzdTZ2dOUWJIaldQYmlycUtpWXdzUG45YVNUN1V0TnBlYzlYXy13VW8xckVzTGVkLXJzMzBMU3N4MnBwNzlUSEo5RnV5OWk2MmNUTWc4OENneFZfdmNEVjBxN3lwLUhFeGRlZ1pPREs5bU51T3lWYjY3RHVnZTdGSm94RnlNb1NyTkZPSnZnajFaRFMxTGlQVTh2UVBQSGRwU0NvSDVyWHYtQ25iNDNYTXBPMV9n?oc=5)
 

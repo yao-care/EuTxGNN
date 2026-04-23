@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Dementia warning sign that could appear in front of the TV - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
+
+2026-04-23
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
+
+---
 
 ### ['If that was my partner, I'd be gone,' nurse tells woman after husband's dementia diagnosis at 39 - Belfast Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDAtUlp3ZzJDTEpRbFBfVUlFWkdITzVNYmowLU5xUGNXaFM5RFU4d3I1VFBuOEtmdnc1R3AySmlXZkpPdjN0Qk1KMVV5ejQzWFBoV0FLM3FRTGl5cG5fWTVrNmFTM0VWdE5OWXZRR1dadjc3YmV2MlBUM1QyNW5rODVDVkxUWDhiaDhqd3pR0gGTAUFVX3lxTE5rT1RoUjlEeFZKUXVTbk4zUW42ekdQdGU0Smh1eEZQRFhxeE1PWGJLYWtBODFhT2toOHVYUEFjbjRTNnVwNzA0T1dRa2laRThCVFk0NU1ocWFkV0RHd0NHa1F1a0ZTZ2VTbHl1di1zc0dQWExyMVZuVnljRVYxdzZzLTJUSV84VzZLTk1DZnFwMkp5Yw?oc=5)
 

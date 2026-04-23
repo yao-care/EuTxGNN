@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Scoperto il meccanismo della depressione. E perché spesso i farmaci non funzionano - la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGpuSGpqZnhCcWx1bkY3OEl0UVZDcGVSbENVeDgwMXVKcjVhaVpMRUVGRVR5UW1GMEViaUhFbFJUNXZ4TVVpeWZnUkRlRHFPZ1h0MjNLYmFhVXlyMDhodjRTSk5IQU9tdkwwYVgyOFFsV1FfVHpTTDgzQmNyX185TjVfWDJMQTNrRElIT1d6RmFGTDk4R28zYWdCRnhwcVg4U0J1ZkFXT2x6akh5RkxZdDVCZEpTMDVpU2fSAb8BQVVfeXFMUGFEbVBoUkR4UW5WVEtPbXFzQUYzQ0F6RllGRFFaY1g0MFZyVDNuNC15RHhzYldKWUM3MmpYb3hyNU9KZEhOOENfMi1Xei0wcjFIcjF1c2JPT2NUY2FJeHhUSGR1SnM0TEhxZ3Z1enpMUG5KeHpEVFYtVTk1Q2hPbzlTMWhUQlc5dWVpTW5TU2VQVUdJWkY0cXAxMl9YdV9pNWVIbFNpdmZzdXprWGpvM3V6bjAtODJ0S1F2ZHJpLUk?oc=5)
+
+2026-04-23 <span class="news-indication-tag">depression</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGpuSGpqZnhCcWx1bkY3OEl0UVZDcGVSbENVeDgwMXVKcjVhaVpMRUVGRVR5UW1GMEViaUhFbFJUNXZ4TVVpeWZnUkRlRHFPZ1h0MjNLYmFhVXlyMDhodjRTSk5IQU9tdkwwYVgyOFFsV1FfVHpTTDgzQmNyX185TjVfWDJMQTNrRElIT1d6RmFGTDk4R28zYWdCRnhwcVg4U0J1ZkFXT2x6akh5RkxZdDVCZEpTMDVpU2fSAb8BQVVfeXFMUGFEbVBoUkR4UW5WVEtPbXFzQUYzQ0F6RllGRFFaY1g0MFZyVDNuNC15RHhzYldKWUM3MmpYb3hyNU9KZEhOOENfMi1Xei0wcjFIcjF1c2JPT2NUY2FJeHhUSGR1SnM0TEhxZ3Z1enpMUG5KeHpEVFYtVTk1Q2hPbzlTMWhUQlc5dWVpTW5TU2VQVUdJWkY0cXAxMl9YdV9pNWVIbFNpdmZzdXprWGpvM3V6bjAtODJ0S1F2ZHJpLUk?oc=5)
+
+---
 
 ### [Fat jabs gave me a flat ‘Ozempic personality’ - The Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXVrQ01aeXV1NkRoUkg3ZXZTUE1kZVlKbi1aWE1XUkx2c0FNd2xlNDZYa1VwQkpfYlFjeFVlYW5GcDVYNXlMQXoyYkFXb1BhYWFfdGRPODBDcE1tOS1TMzN6RnhId2N1Y1cyMFYwZ2xmR2FUVmllYUVnSmxHT3U3M2tnbm5kZnBYcEdkS0FEVnpyTE5ycmVNTjc0M1kwMjVOWW9iakh3VS1aVHAyMHE0bHdSOA?oc=5)
 

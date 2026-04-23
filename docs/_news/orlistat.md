@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [One person diagnosed with cancer every 80 seconds in UK, report reveals - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxQay03ZlJtbW9PN0d5alM3RTc5UkRGQldBTUtxb19LekczR0JjbnBacGxSR2xISFlrazhUZ1BNdm11WDVXWHU2d1I3Wl9vYzBsbm9ua0hUci1Cd3NpclJja1VuMHBrU2tFbG5DcHc1cDlLWUFfZzZVWmhTVU9zT3dMSzQ2anpYbHNyZzhKSVFFMEVqb3k4MVlyWFhVQUFSZWxfWFRiR2JLNXFBc3FuY0o2QjBvamRNTjMzaVE?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [L’impatto sociale del “fenomeno Ozempic” e dei farmaci GLP-1: da cura per il diabete a trend TikTok](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
+### [La obesidad dispara la alerta en el sistema sanitario - La Tribuna de Ciudad Real](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjVzVFAtLVBNdHFOb0hUU2FKaDQxeUhkNUNuUGpIZmJCN2x2ZXNzZjBjdUxSVnBJZWdydlhwSTIxZEV5dFB6MGNMSzVRWTUyWGh4TFpBczVqRXRVZzk4NTljeDdTd3l5d25ObzZfMXFidmI2ZXM0ZGRPOWJEbnI0SG90czNSV3lQcERYdFkwZGxRNnJveG1Wd3ZIOXVyYUM4U2VLN2VMVk9qRWdDTHFPTFUzSzN6VGY4NTZ0VS1TVTRia2lONmxTNjRxV2l5dk5DQndkS3pMNHlXdw?oc=5)
 
-2026-04-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-04-23 <span class="news-indication-tag">obesidad</span>
 
-來源：[Geopop](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
+來源：[La Tribuna de Ciudad Real](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjVzVFAtLVBNdHFOb0hUU2FKaDQxeUhkNUNuUGpIZmJCN2x2ZXNzZjBjdUxSVnBJZWdydlhwSTIxZEV5dFB6MGNMSzVRWTUyWGh4TFpBczVqRXRVZzk4NTljeDdTd3l5d25ObzZfMXFidmI2ZXM0ZGRPOWJEbnI0SG90czNSV3lQcERYdFkwZGxRNnJveG1Wd3ZIOXVyYUM4U2VLN2VMVk9qRWdDTHFPTFUzSzN6VGY4NTZ0VS1TVTRia2lONmxTNjRxV2l5dk5DQndkS3pMNHlXdw?oc=5)
+
+---
+
+### [Frühere Menopause, später Schlaganfall](https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNHIwS0Z0Z0JCNlNaZmFSa2JNbnpZd2U0UFdhLUtyNHE3a0pVTFdSblpOX082NzdOd2p5NW5UaXkyR3dwMVRtS2QzR091a3lDMWd5Y2xkMFpGZFpjYWFicDlFWXlkSzFMNnZpMThDVmRJMV9IVE5aVlF4ajF1WG8?oc=5)
+
+2026-04-23 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[DiePresse.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNHIwS0Z0Z0JCNlNaZmFSa2JNbnpZd2U0UFdhLUtyNHE3a0pVTFdSblpOX082NzdOd2p5NW5UaXkyR3dwMVRtS2QzR091a3lDMWd5Y2xkMFpGZFpjYWFicDlFWXlkSzFMNnZpMThDVmRJMV9IVE5aVlF4ajF1WG8?oc=5)
 
 ---
 
@@ -78,11 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Castilla-La Mancha sitúa la lucha contra la obesidad como "vector fundamental"](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmM5QkVxcEluSWVQVlZJVlRIdmlpV2xJRXZSX3ZvVFcwNEV0RzVuMDV3Y2ZtUWJrT3ZTYjlLM2JPbTdmSmIxZGRTNHRJa2M1cl9YUVVPcFBZXzRXSnlRaEh0S28xODhGaVpOM0JZT2pQY1YtM092ZDBMOGlBajItWGEwS0NoSDFhUEJfSmUyR2pfRzg3cEJlTloxUkhsR0V4aUd4YW9BZFI3YlV4dVlHZVM1djlBZTRrRlBKaHJuR210UEVSUUhjUk9BUjJTNkpB?oc=5)
+### [Lilly anuncia nuevos datos de un estudio en adultos con obesidad y artritis psoriásica en tratamiento concomitante de Mounjaro y Taltz - Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
 
-2026-04-22 <span class="news-indication-tag">obesidad</span>
+2026-04-22 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmM5QkVxcEluSWVQVlZJVlRIdmlpV2xJRXZSX3ZvVFcwNEV0RzVuMDV3Y2ZtUWJrT3ZTYjlLM2JPbTdmSmIxZGRTNHRJa2M1cl9YUVVPcFBZXzRXSnlRaEh0S28xODhGaVpOM0JZT2pQY1YtM092ZDBMOGlBajItWGEwS0NoSDFhUEJfSmUyR2pfRzg3cEJlTloxUkhsR0V4aUd4YW9BZFI3YlV4dVlHZVM1djlBZTRrRlBKaHJuR210UEVSUUhjUk9BUjJTNkpB?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
 
 ---
 

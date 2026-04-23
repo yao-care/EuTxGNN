@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/dexrazoxane-hydrochloride/
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Les exercices physiques simples qui peuvent améliorer votre mémoire, selon la science](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwQ0NrT1NELWpabWwwRE9xZmE5VW8wbWhJXzNfcU9ZTlBRckRCNktNVFVHOUc4Q2ItZ3ozRXNOUTM0TGZrZFNfVGFiN2g3eGMwOUU3VUZuYTBpY29Nd0HSAWNBVV95cUxPYmkzMktmdlhIZFZjRTlHLWhUWFRyU010RzYwczRuSDAzR0k2TWNkT2VBSDN5Z180QTJpN2xUQ1hJazNLOV9aVXNIYVlXb2dPNFdnck0tdVZlako3a2Q2dWFPVUU?oc=5)
-
-2026-04-21 <span class="news-indication-tag">EPOC</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwQ0NrT1NELWpabWwwRE9xZmE5VW8wbWhJXzNfcU9ZTlBRckRCNktNVFVHOUc4Q2ItZ3ozRXNOUTM0TGZrZFNfVGFiN2g3eGMwOUU3VUZuYTBpY29Nd0HSAWNBVV95cUxPYmkzMktmdlhIZFZjRTlHLWhUWFRyU010RzYwczRuSDAzR0k2TWNkT2VBSDN5Z180QTJpN2xUQ1hJazNLOV9aVXNIYVlXb2dPNFdnck0tdVZlako3a2Q2dWFPVUU?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

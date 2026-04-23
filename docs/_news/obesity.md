@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesità（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesità（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/obesity/
 
 ---
 
-### [L’impatto sociale del “fenomeno Ozempic” e dei farmaci GLP-1: da cura per il diabete a trend TikTok](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
+### [La obesidad dispara la alerta en el sistema sanitario - La Tribuna de Ciudad Real](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjVzVFAtLVBNdHFOb0hUU2FKaDQxeUhkNUNuUGpIZmJCN2x2ZXNzZjBjdUxSVnBJZWdydlhwSTIxZEV5dFB6MGNMSzVRWTUyWGh4TFpBczVqRXRVZzk4NTljeDdTd3l5d25ObzZfMXFidmI2ZXM0ZGRPOWJEbnI0SG90czNSV3lQcERYdFkwZGxRNnJveG1Wd3ZIOXVyYUM4U2VLN2VMVk9qRWdDTHFPTFUzSzN6VGY4NTZ0VS1TVTRia2lONmxTNjRxV2l5dk5DQndkS3pMNHlXdw?oc=5)
 
-2026-04-22
+2026-04-23
 
-來源：[Geopop](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
+來源：[La Tribuna de Ciudad Real](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjVzVFAtLVBNdHFOb0hUU2FKaDQxeUhkNUNuUGpIZmJCN2x2ZXNzZjBjdUxSVnBJZWdydlhwSTIxZEV5dFB6MGNMSzVRWTUyWGh4TFpBczVqRXRVZzk4NTljeDdTd3l5d25ObzZfMXFidmI2ZXM0ZGRPOWJEbnI0SG90czNSV3lQcERYdFkwZGxRNnJveG1Wd3ZIOXVyYUM4U2VLN2VMVk9qRWdDTHFPTFUzSzN6VGY4NTZ0VS1TVTRia2lONmxTNjRxV2l5dk5DQndkS3pMNHlXdw?oc=5)
 
 ---
 
@@ -62,11 +62,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Castilla-La Mancha sitúa la lucha contra la obesidad como "vector fundamental"](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmM5QkVxcEluSWVQVlZJVlRIdmlpV2xJRXZSX3ZvVFcwNEV0RzVuMDV3Y2ZtUWJrT3ZTYjlLM2JPbTdmSmIxZGRTNHRJa2M1cl9YUVVPcFBZXzRXSnlRaEh0S28xODhGaVpOM0JZT2pQY1YtM092ZDBMOGlBajItWGEwS0NoSDFhUEJfSmUyR2pfRzg3cEJlTloxUkhsR0V4aUd4YW9BZFI3YlV4dVlHZVM1djlBZTRrRlBKaHJuR210UEVSUUhjUk9BUjJTNkpB?oc=5)
+### [Lilly anuncia nuevos datos de un estudio en adultos con obesidad y artritis psoriásica en tratamiento concomitante de Mounjaro y Taltz - Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
 
 2026-04-22
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmM5QkVxcEluSWVQVlZJVlRIdmlpV2xJRXZSX3ZvVFcwNEV0RzVuMDV3Y2ZtUWJrT3ZTYjlLM2JPbTdmSmIxZGRTNHRJa2M1cl9YUVVPcFBZXzRXSnlRaEh0S28xODhGaVpOM0JZT2pQY1YtM092ZDBMOGlBajItWGEwS0NoSDFhUEJfSmUyR2pfRzg3cEJlTloxUkhsR0V4aUd4YW9BZFI3YlV4dVlHZVM1djlBZTRrRlBKaHJuR210UEVSUUhjUk9BUjJTNkpB?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
 
 ---
 

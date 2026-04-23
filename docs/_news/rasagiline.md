@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Dementia warning sign that could appear in front of the TV - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
+
+2026-04-23 <span class="news-indication-tag">dementia</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
+
+---
 
 ### [« On devient prisonnier de son corps » : elle raconte son quotidien avec la maladie de Parkinson - Le Progrès](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVV4Q215QjVqR1lyMFF4cm5VVjEzUnhFMDlET3hXWkxaQ2lpcGFQSDkxaDltNjdSMEdlOWtYNHNGd29vbEw1UW5BMFc1UFlVNEtQRDhiZ01xWW9xZkxCd2ZRdTNoRk9OazgzZTVtV0FpTXdzQ1B4UE9mOXVqcGJVUkpRajVfR3U0MWs1X0I1YUdkSUxONFpINzF0M1BjZXpXMUE?oc=5)
 
