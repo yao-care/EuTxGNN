@@ -14,7 +14,7 @@ permalink: /news/cetrorelix-as-acetate/
 ---
 
 <p class="key-answer" data-question="Cetrorelix (As Acetate) 有什麼相關新聞？">
-<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/cetrorelix-as-acetate/
 <p><a href="{{ '/drugs/cetrorelix-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（27 則）
+
+### [AFANOC participa en la primera jornada sobre cáncer en adolescentes y jóvenes adultos (AYA) en el Hospital Universitario Vall d'Hebron](https://news.google.com/rss/articles/CBMihgJBVV95cUxNZUxGeFQ2aG5YamY4ck53cGJrYjFMTW1OUkpyXzdvdDlFS1J1OXYyLWZsRVJkUk43a1Y1LXhRdHNHMlRFQkh0QlplSXlQX1ZENGJ5enh3dDJqbXhIekkxcnVDWnZMZTQxTDlWczBOQ2V0VVQwc3JzclZBWmtmOXFIOEpMTW51N2V2bmNYZDhCemxoVGNwUnZRNXIyeW5iVGYzYzBJNnl2bTZMOUpldkF0c0NUcW9td0NEXzV5aWV0Q0c0MDZzQTh6ZVE5UzdwaTQzNk5hbVpsb1B4cXM3YUcwVV9BR1RJeUxPaEs3TU1mZzNhdnNwX29iN0hua2std01SamQ1RGt3?oc=5)
+
+2026-04-23 <span class="news-indication-tag">AF</span>
+
+來源：[Corresponsables](https://news.google.com/rss/articles/CBMihgJBVV95cUxNZUxGeFQ2aG5YamY4ck53cGJrYjFMTW1OUkpyXzdvdDlFS1J1OXYyLWZsRVJkUk43a1Y1LXhRdHNHMlRFQkh0QlplSXlQX1ZENGJ5enh3dDJqbXhIekkxcnVDWnZMZTQxTDlWczBOQ2V0VVQwc3JzclZBWmtmOXFIOEpMTW51N2V2bmNYZDhCemxoVGNwUnZRNXIyeW5iVGYzYzBJNnl2bTZMOUpldkF0c0NUcW9td0NEXzV5aWV0Q0c0MDZzQTh6ZVE5UzdwaTQzNk5hbVpsb1B4cXM3YUcwVV9BR1RJeUxPaEs3TU1mZzNhdnNwX29iN0hua2std01SamQ1RGt3?oc=5)
+
+---
+
+### [5 Todesfälle in kurzer Zeit: Unbekanntes Virus grassiert - Mediziner besorgt über Lage in Afrika](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVG5iQmR5bDhxdDNELW5qd2RvZ2FaM2p2UUp4azdzNnFUNzk5TEJkbWNZTjFtTEZjTW5nWENhQmF3RzR6VnVrdVFOLVJmWHZlNS1KV3R2SUpLU1p2V0JWOHltNGxxVkE5bnNyLVRBbnVBNGxyc3poaFk3amhqZzhEWFlya0cyQldzYVl6ZzYtZjJTdHRITHY2eVB6Mm1Xb2V0M0hfNVRZenBBb2hzZmpleGEyMlB3Ni1GSlg2SGE1eEFJMXE5T1A0TVdCVndnekp6T1ZnMU9rUVprNVdIc2pIMk1qT2ZjaU9aZVRFRTFoTm82ZktsUWxrMjFZYmU1MndUR1dZbnJMZWpGUms?oc=5)
+
+2026-04-23 <span class="news-indication-tag">AF</span>
+
+來源：[News.de](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVG5iQmR5bDhxdDNELW5qd2RvZ2FaM2p2UUp4azdzNnFUNzk5TEJkbWNZTjFtTEZjTW5nWENhQmF3RzR6VnVrdVFOLVJmWHZlNS1KV3R2SUpLU1p2V0JWOHltNGxxVkE5bnNyLVRBbnVBNGxyc3poaFk3amhqZzhEWFlya0cyQldzYVl6ZzYtZjJTdHRITHY2eVB6Mm1Xb2V0M0hfNVRZenBBb2hzZmpleGEyMlB3Ni1GSlg2SGE1eEFJMXE5T1A0TVdCVndnekp6T1ZnMU9rUVprNVdIc2pIMk1qT2ZjaU9aZVRFRTFoTm82ZktsUWxrMjFZYmU1MndUR1dZbnJMZWpGUms?oc=5)
+
+---
+
+### [Nobelpreisverdächtige Entdeckung von VectorBuilder-Wissenschaftlern deckt grundlegende Entwicklungsmechanismen auf](https://news.google.com/rss/articles/CBMikwJBVV95cUxQMmd0WXJtNll4NWM1bmExcjU2RncxVjJ0R194OHNrMXdKbnFuU1lLcG9xamR1NjVpcE5XVG81V29teldLamQ5RjFrYTAyUFRvbWhvSk9ZYUtSaGZ2RWpLcG93S0JteGVFLTdSSUxicGdLVFdTUE5vZ3dqak02bXctcktTQXk2WUUwUjJ0czlsQ2Z2aUJZV3BiNzhXOXh6UDVTTVc2R0R0TGpOR3VQX2tkUWU3dGFXMjRkblRnbzc4eW00NEdFZVozYUgxZzZ1aUtBQTFIUXJZS0xZTG1hMnhSbHhqNzdVMk1DWS1SbWJteEFqSm5tYmFzcVNsSjdLR3FqUXZydERLQkZLWmhEQkhkc3pfSQ?oc=5)
+
+2026-04-23 <span class="news-indication-tag">AF</span>
+
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMikwJBVV95cUxQMmd0WXJtNll4NWM1bmExcjU2RncxVjJ0R194OHNrMXdKbnFuU1lLcG9xamR1NjVpcE5XVG81V29teldLamQ5RjFrYTAyUFRvbWhvSk9ZYUtSaGZ2RWpLcG93S0JteGVFLTdSSUxicGdLVFdTUE5vZ3dqak02bXctcktTQXk2WUUwUjJ0czlsQ2Z2aUJZV3BiNzhXOXh6UDVTTVc2R0R0TGpOR3VQX2tkUWU3dGFXMjRkblRnbzc4eW00NEdFZVozYUgxZzZ1aUtBQTFIUXJZS0xZTG1hMnhSbHhqNzdVMk1DWS1SbWJteEFqSm5tYmFzcVNsSjdLR3FqUXZydERLQkZLWmhEQkhkc3pfSQ?oc=5)
+
+---
+
+### [La Enfermedad Renal Crónica afecta ya al 15% de la población española](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUl9Qc2RfMEF5RmswVE9BOWRYX1Z3eXBIOEJRRW9xYWFDTWJtc0dqSVdKNWZ3WkpnQkdtMHQ3bHpIeER1TDdUR0hNUHRTekFNWTBBZzk2NHJ6MGRWVldCcm4tb0xJYk5Zdk5Va2JaT2ZjRmZPMEoxbDBXcUt6d2VYbnJySVVuTzRJSWdYMW1vdVV2YVQ0SXdpMmI0cmxqenlF?oc=5)
+
+2026-04-23 <span class="news-indication-tag">enfermedad renal crónica</span> <span class="news-indication-tag">AF</span>
+
+來源：[Geriatricarea](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUl9Qc2RfMEF5RmswVE9BOWRYX1Z3eXBIOEJRRW9xYWFDTWJtc0dqSVdKNWZ3WkpnQkdtMHQ3bHpIeER1TDdUR0hNUHRTekFNWTBBZzk2NHJ6MGRWVldCcm4tb0xJYk5Zdk5Va2JaT2ZjRmZPMEoxbDBXcUt6d2VYbnJySVVuTzRJSWdYMW1vdVV2YVQ0SXdpMmI0cmxqenlF?oc=5)
+
+---
+
+### [Venus im Sternbild Stier (Objekte beschriftet) - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2hsT1dMNFVWUy0zeUxnSmU3VGtCNjNMdUZ3cXljVHpGQWlGYl9fYUMtZlNDRWVwaXE4Q0JhTXlSNjVEb3dUY09CQ2w1bnRkSHg5Y3BWQjFtUl9ncDg0QVc3UjFIX1U2XzcyVHRweEN3THYtQWhOWDJnalZWejFLVWc5aFFrQUNFUDdGSlBFYjdYbXZlSDZLcjNzQnFfcElQSTRoUg?oc=5)
+
+2026-04-22 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2hsT1dMNFVWUy0zeUxnSmU3VGtCNjNMdUZ3cXljVHpGQWlGYl9fYUMtZlNDRWVwaXE4Q0JhTXlSNjVEb3dUY09CQ2w1bnRkSHg5Y3BWQjFtUl9ncDg0QVc3UjFIX1U2XzcyVHRweEN3THYtQWhOWDJnalZWejFLVWc5aFFrQUNFUDdGSlBFYjdYbXZlSDZLcjNzQnFfcElQSTRoUg?oc=5)
+
+---
 
 ### ['Deeply loved' North East dad died after surgery went wrong and led to sepsis - Chronicle Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxQempTYzRGUkhHOHBoUk8tSnBwMGU0UXFfSWc2V2U1NHgwYXNtT2tyaUxlLVBVNzh1SEowY3VBdlhNeFV4SVlITUptS2w5TktvNE0tWVd6NEZNb2R1TWs2a1dnb0ZJV0FROFI2TEtOZm1wSl9qZWtndnFVRFlNZzJNZlllRmhFUjRBc09UTnM5LWRNZE0?oc=5)
 
@@ -78,14 +118,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Sonnenoberfläche vom 22. April 2026 - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXdzQjduVGZSTi1HVzgyNkV1N2ZJS29zdXVPcVRIVVg2ME8wTV9Wd3RBcDVaSm1NOWNJdUdtSXJPdUtNRkJSdHNpS2NudlJKeC05OGlLcVVoV1R5X19GYWNqTEhUZ0FXd09lVG5YSW1kaXkyRGpOZUtKM0xZeVNYYzBLYmJicGQzTTdNUDFBTnVYRk1yTDVFRQ?oc=5)
-
-2026-04-22 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXdzQjduVGZSTi1HVzgyNkV1N2ZJS29zdXVPcVRIVVg2ME8wTV9Wd3RBcDVaSm1NOWNJdUdtSXJPdUtNRkJSdHNpS2NudlJKeC05OGlLcVVoV1R5X19GYWNqTEhUZ0FXd09lVG5YSW1kaXkyRGpOZUtKM0xZeVNYYzBLYmJicGQzTTdNUDFBTnVYRk1yTDVFRQ?oc=5)
-
----
-
 ### [Südafrika erhält weitere Impfstoffdosen gegen Maul- und Klauenseuche im Kampf gegen den Ausbruch - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR25pTU1RdkpDQWtCekZGdFFxNWFkQ3NQSldjWUVHeGdsc2ZyLWhsV0I5cFlIajM4UEZkdmNYeXl1ZDRkSzhOcXd5SzllcG1JRWFZNldvSWJFUlR1cm1aZEc1YlY4Um5EdDcyckNNZmVZY1dWTGxNUWdzcUhlOTdydDNYczMyS3ZTQUpCVXZ3Qm5BeG5wSjJWbXpoT01XVS1sVlMzX0U4cU5XTFVkS2hLd1E5RUx2SlZKOVQtb2h2Ul85TF9sUVpadnM2bkU2SDlMb2lWaktzOVZJclJOSGNPVFVLZFd6M0o3dHdMcXM0TkRyTHlRTmc?oc=5)
 
 2026-04-22 <span class="news-indication-tag">AF</span>
@@ -99,14 +131,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-04-22 <span class="news-indication-tag">AF</span>
 
 來源：[naiz:](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc0ExYm5KRUg1RS1iR0NDVERwRWhBa2hrMnRFNjlnTEhVMnVDbTkzVzlMSEk3aEF0NlNaV2VLRDVDY09Oei12NjBUMzB2dVJpZ0wwSGhLcURCOVFIa0t6Zm5WV2xnRHk4RmRhLTJqV1JlalJnX054bGhGTllxZDV6azhBbHBhaDBKWHFsT2UweV9va3FHV0NRTUlRUDVwMURqUXljLUI4N1hoa0NVTnBiR2VxVWR6alpGS25PZXRDUjk2X0RfVTBxUEx4VmZyR2ZnbS1uVtIB3gFBVV95cUxQMWpWQWdPZS1wYUFJNUFheENSakJqRTdoNk5HOV9DVFJoOFJOVnRSNDE1LXNFNUFScnMzUWp4aGtESkxJVFVHLWVGclNGeHROSzB1MTUyTW0yWkxBOTZHX1p6aVM5Nm5ZV3JBZ0o2MkZ2a1hKSGgtVXFyRXIzMHdTd25hdmhOc0RFR0oxTk5RMmxrZVVKSWhUVk5MOUJwdjhGVjZCcmwxU1pFMFJyY195MlB4Qm51UGlNXzZTc0gtMTBHb0NvVTE5SHJXei1ibEptUUlsRFlRVnNkN0w5TUE?oc=5)
-
----
-
-### [Infosalus.- Experta insta a las empresas a crear programas de alimentación saludable y ejercicio para abordar la obesidad](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRHo5Nm1yOTRxQ0pmRHhRQkgwTGlJQ1R3SlFhcTlmM09NMzF3Q3hXcFFYWVFLV1pCSVcwZnFRSXJpampjT29pYms4OTZIcjJmQWNzSUttcEVVM0w3bzlMT3hjb0FaRkNSTEJrelp3Z2tKZlJrbG0xcXV1UEg1X0NiSV9EeUpVckV3aVVRd2xJbTlxeUlLNUtueUEzVXI4VGM1SEwyM19oM2Z1LVpfZzBHV2o3ZW91cWVjZzVwRWV2eVRrbEtGaVhxVm9ndWw2cXMyWXRuUHRNT2MtdUhtSmxTZko1Q1Z4YnVJSDQ4Z1NzOA?oc=5)
-
-2026-04-22 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRHo5Nm1yOTRxQ0pmRHhRQkgwTGlJQ1R3SlFhcTlmM09NMzF3Q3hXcFFYWVFLV1pCSVcwZnFRSXJpampjT29pYms4OTZIcjJmQWNzSUttcEVVM0w3bzlMT3hjb0FaRkNSTEJrelp3Z2tKZlJrbG0xcXV1UEg1X0NiSV9EeUpVckV3aVVRd2xJbTlxeUlLNUtueUEzVXI4VGM1SEwyM19oM2Z1LVpfZzBHV2o3ZW91cWVjZzVwRWV2eVRrbEtGaVhxVm9ndWw2cXMyWXRuUHRNT2MtdUhtSmxTZko1Q1Z4YnVJSDQ4Z1NzOA?oc=5)
 
 ---
 
@@ -126,14 +150,6 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [5 Todesfällen und 35 Infizierte: Unbekanntes Virus grassiert - Mediziner besorgt über Lage in Afrika](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaTI3dWFtUjBwTHNFdlV3MldGRlBVR1lwWmkzNk51dVhXckxwMGhkd0RXWHRTTjVSeWtNYmVEWDUwTGMwa0kxRnlHZW50dk5wVEk5WG9hZUx6UDFLdkctMjVxM1FhYzZzTVptNkF6SUNPNTBXNnN0eXp0RTZyZnV6dzVlUDZocndxVlk0WlpJcmw1OXNZTGdlTVNrcGN6cE1SY21SYk45TmRtSGMwTDRxa252azBPY2FSVmVONF81WThrbnQxc1dJS0JKNmdUZlhQc1N3aEZzaEVDUXNJSkoyS2JGTldvNlVFMnFKT2FuYzktQQ?oc=5)
-
-2026-04-22 <span class="news-indication-tag">AF</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaTI3dWFtUjBwTHNFdlV3MldGRlBVR1lwWmkzNk51dVhXckxwMGhkd0RXWHRTTjVSeWtNYmVEWDUwTGMwa0kxRnlHZW50dk5wVEk5WG9hZUx6UDFLdkctMjVxM1FhYzZzTVptNkF6SUNPNTBXNnN0eXp0RTZyZnV6dzVlUDZocndxVlk0WlpJcmw1OXNZTGdlTVNrcGN6cE1SY21SYk45TmRtSGMwTDRxa252azBPY2FSVmVONF81WThrbnQxc1dJS0JKNmdUZlhQc1N3aEZzaEVDUXNJSkoyS2JGTldvNlVFMnFKT2FuYzktQQ?oc=5)
-
----
-
 ### [Mum unlikely to see children finish primary school after 'pain in foot' - Bristol Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVEFxYVQzVUhPVjM5SUoyOW1zdGN4STRURFdiZktnbTZ6NGJHSlk5aW9kcXZsbTRMZXZjX1c1Y2NBekN1LURENVF2UzJ4TGhlZndjN1RGWC10bXBrSWg0VWVrUUhtLWN2OG81eGdvSm15ZnNJQ0dPWXJsU3NpQTZrc2R4OS1rV3ZMMWYzX2dHemNiRGs?oc=5)
 
 2026-04-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -150,19 +166,19 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Little-known cancer symptom people will only spot at meal times - Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQcjVqQ0NLUTA0Z3pJcjRtUWJwZnIwMGlidXhMZUJ0djIxd1U2TlpkeDlPcmg2Ui1fd2l3VFdzMTNEWWxseDVnb1puRWdpbFotT2U1ZlVMRm5YNWx4S0oxTTVJdXJoby1uS05iUTJmcVh6Tk5oWTB2V19jOExPR0hSWmZscjkwdW9hYUVhRXJFU19JUWlENVJuSG8tRnp1Z9IBowFBVV95cUxQUXJHbDVCQmFnSFRYVzJYeV9TdWFveEFyQWNUbXJMV1B1MTFJUVBMaFBTdkJzVXduS1cwWWt4ZWU5WVZGT1JDMW5DU2pwZEhTQUZxN01mUzc0R1lNZTc4TVNJOS01SDRyQnRQcTFING1rM3ExMW45a0lCWmlUY3VuX0lvVFRmX3lDLWlBcHdSNlg4ZXMxb1E1UG5KNGktNldGUVpB?oc=5)
-
-2026-04-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQcjVqQ0NLUTA0Z3pJcjRtUWJwZnIwMGlidXhMZUJ0djIxd1U2TlpkeDlPcmg2Ui1fd2l3VFdzMTNEWWxseDVnb1puRWdpbFotT2U1ZlVMRm5YNWx4S0oxTTVJdXJoby1uS05iUTJmcVh6Tk5oWTB2V19jOExPR0hSWmZscjkwdW9hYUVhRXJFU19JUWlENVJuSG8tRnp1Z9IBowFBVV95cUxQUXJHbDVCQmFnSFRYVzJYeV9TdWFveEFyQWNUbXJMV1B1MTFJUVBMaFBTdkJzVXduS1cwWWt4ZWU5WVZGT1JDMW5DU2pwZEhTQUZxN01mUzc0R1lNZTc4TVNJOS01SDRyQnRQcTFING1rM3ExMW45a0lCWmlUY3VuX0lvVFRmX3lDLWlBcHdSNlg4ZXMxb1E1UG5KNGktNldGUVpB?oc=5)
-
----
-
 ### [„Guter Schlaf beginnt bereits am Tag“](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcUoyRDYzY0VpUFh2V2lpWGpMUVBvbXR2aHc1bmJFLUhyVjQ0SG9aRXJ5Ti1HaEtsakt0S2xnQlB4Yzc1Tk5vNm91MW1pWFFyS25TaHFHUmpWNmlzWDlEWmtZdWpEaFlrZ1dpNGUyU0gxbkp3Y2I1Y29meEJSWHR3a0VVS0JRSmRaSVJRNlZlN1U4TjRRQkxuTDVRUzdKMEx3M0haZGVwdzlZUmIxUVBqeHhQcjh0c0ZBNG9acXdpdEgyWktGY3JmanJkcGcxc3k0VnNqa0U2eXFORmY2cVNSQmJrTzJHUQ?oc=5)
 
 2026-04-22 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcUoyRDYzY0VpUFh2V2lpWGpMUVBvbXR2aHc1bmJFLUhyVjQ0SG9aRXJ5Ti1HaEtsakt0S2xnQlB4Yzc1Tk5vNm91MW1pWFFyS25TaHFHUmpWNmlzWDlEWmtZdWpEaFlrZ1dpNGUyU0gxbkp3Y2I1Y29meEJSWHR3a0VVS0JRSmRaSVJRNlZlN1U4TjRRQkxuTDVRUzdKMEx3M0haZGVwdzlZUmIxUVBqeHhQcjh0c0ZBNG9acXdpdEgyWktGY3JmanJkcGcxc3k0VnNqa0U2eXFORmY2cVNSQmJrTzJHUQ?oc=5)
+
+---
+
+### [Jessie Inchauspé, la diosa de la glucosa: "Desayunar huevos estando embarazada estabiliza el azúcar todo el día" - El Mundo](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHlXVUI2bHQ3Vzl1MU4zaXA1T3BWWmN0QWxmQ1UwaXlhLU42MDB0VmxrdnVZV2lIalljcU1uUWwydmlfSXBfOVNRa2lMLVBVWEEzOVVXajhYRGhwRGRzbmFoNjRNNHJzcmF1UjFVaEtVdGlETF9oa0htQjNGc0gyQWZPWndnYkUtMnVrZy1n?oc=5)
+
+2026-04-21 <span class="news-indication-tag">AF</span>
+
+來源：[El Mundo](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHlXVUI2bHQ3Vzl1MU4zaXA1T3BWWmN0QWxmQ1UwaXlhLU42MDB0VmxrdnVZV2lIalljcU1uUWwydmlfSXBfOVNRa2lMLVBVWEEzOVVXajhYRGhwRGRzbmFoNjRNNHJzcmF1UjFVaEtVdGlETF9oa0htQjNGc0gyQWZPWndnYkUtMnVrZy1n?oc=5)
 
 ---
 
@@ -182,9 +198,25 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Vaccines mean malaria deaths should be falling — not rising](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNlZhUlpxa0tCOUNnWC10Y18zOEg5MFJaOHZ2bnZjQ2h1MnVUZEs0M3JDVG9NMHRrYmlfbnR3eVhJMUg5TmRfS0lWcHUtVmd2Mi00dFFuSjlULWlhNGk0?oc=5)
+### [Tomar café todos los días puede mejorar nuestro ánimo y nuestra microbiota: este estudio lo confirma - Hoy Aragón](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkNRMnFUemtGNGtZUTRYV0hQZWRuR2NoSGFPM3JiS2tZMEpHR3R5MFg5Qnk1cG1NdzhxRU5XMTkyZDdqSnVwZFo2aXptOFJ5cWs4ZHo0akF5dWhYS2dZdGZNbW9oZEFuUWV4cWZHRUx2SFZ1a1pDQlRoSUNFeFUxNElxQlIwa0JtLUVqLU5vYW1lY3BnOVJqTnZWSmFfRkMwOHI2SzV3?oc=5)
 
 2026-04-21 <span class="news-indication-tag">AF</span>
+
+來源：[Hoy Aragón](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkNRMnFUemtGNGtZUTRYV0hQZWRuR2NoSGFPM3JiS2tZMEpHR3R5MFg5Qnk1cG1NdzhxRU5XMTkyZDdqSnVwZFo2aXptOFJ5cWs4ZHo0akF5dWhYS2dZdGZNbW9oZEFuUWV4cWZHRUx2SFZ1a1pDQlRoSUNFeFUxNElxQlIwa0JtLUVqLU5vYW1lY3BnOVJqTnZWSmFfRkMwOHI2SzV3?oc=5)
+
+---
+
+### [Nuevas herramientas para personalizar tratamientos contra el cáncer con emisiones alfa](https://news.google.com/rss/articles/CBMirwFBVV95cUxPY25uOF9iOVptZ2k2ZURCdUZZR0xqY3RLQmVLOVFpSmdRaEZhU212WDlOQTltcFVncHFKUHR1SFZpZ0I2VVJrUlpQMExXOGI2dEhycGZ1a1BObFpkNjQ3RXdvd3doOGJlRDl0OVRqRzJKenlHX1FIcEkwLXJ3cGo2N0xaQXZyRVVUWGNNd3FZRnZYcmpfQVZubHVvdnVQU1NjWS10c0FUcTZESmhRTDdJ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">AF</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMirwFBVV95cUxPY25uOF9iOVptZ2k2ZURCdUZZR0xqY3RLQmVLOVFpSmdRaEZhU212WDlOQTltcFVncHFKUHR1SFZpZ0I2VVJrUlpQMExXOGI2dEhycGZ1a1BObFpkNjQ3RXdvd3doOGJlRDl0OVRqRzJKenlHX1FIcEkwLXJ3cGo2N0xaQXZyRVVUWGNNd3FZRnZYcmpfQVZubHVvdnVQU1NjWS10c0FUcTZESmhRTDdJ?oc=5)
+
+---
+
+### [Vaccines mean malaria deaths should be falling — not rising](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNlZhUlpxa0tCOUNnWC10Y18zOEg5MFJaOHZ2bnZjQ2h1MnVUZEs0M3JDVG9NMHRrYmlfbnR3eVhJMUg5TmRfS0lWcHUtVmd2Mi00dFFuSjlULWlhNGk0?oc=5)
+
+2026-04-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNlZhUlpxa0tCOUNnWC10Y18zOEg5MFJaOHZ2bnZjQ2h1MnVUZEs0M3JDVG9NMHRrYmlfbnR3eVhJMUg5TmRfS0lWcHUtVmd2Mi00dFFuSjlULWlhNGk0?oc=5)
 
@@ -195,22 +227,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-04-21 <span class="news-indication-tag">AF</span>
 
 來源：[L'Arena](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN0lLOUdxU2k5aGhKdl9yMXREeTFoeVltcVRVYzZydEhyY2ZrTzY1V2J6aFl2TF9NOTktUllJdW9BSE9UT1cyVUtKZ1h6djM1N2NOY0R5bFJ6Sk96NUVDVzFsRjNQZktxRGJ4YVduUkhwQUVzeVlnRFI1ZzJBUlVrSFM1YWE4SjdudGpvQzB1UmR0c0tUdHBQSEJlRnY3LW9Famw3YlpKZVF6MzVJdDJwV0YxdkZGclhyamZzQ01MU0VnaDc1bC1IXzNLNUFGYnQ40gHWAUFVX3lxTFBtYkJ0M09iNXZjbFNqSDVWbHVDSkoxVzNjRGNsdWVMRXdUdFhDX2NWZGkwRmtVTzJ0WXV5N19pYTdPT2NZUDFJZzFpMUliTENrZGVSLUFmSjdlbk53dE1ta0VhV1BZUC1UQXpqNi1zT0s0a1pFaDJCcUV5a0hvd21rdHBfQWhfYjhMSU11bkxFSnJFa3pWT1dKQnFhcDVBd3Frek05Wko5bjAwaW9ERVdXSTU0SnAyM2hzMUg2dk5lRGNVSmptQzRJbTJGek1IQjAzZXRzTFE?oc=5)
-
----
-
-### [La ciencia lo confirma: tu taza de café diaria alimenta a las bacterias que mejoran tu bienestar emocional - Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ3IxR2FBSy1GM3VOUkVxYkNfekZ4X3RQZTQ4cFRmbTVVbktZYkJCTFNadkVHdkRBdnBsemtCVGdhUW1xWFZzNkltaGdjYlo5cklXTERaM0Uyb1FocGl2ZTRzNmhWRjg3SDRJREQteHFVRG5wS1dIdXZGanZ3ZHFld0ctZlhaUl95cWJSS2ZVcV9vLTZwOXl4NndCRmZnVUtiTFVmVjYzeVNZWXJoZ0Vfa2RxbEllWG1XTUVOeUZvZng3dHNGMmYyX3dBdTFySkljRDVPZ2toV0MtN01Eem5iZHJrNGMyQTFxbzlWcEt6TENQNFJlWnRoUGEzbGVWQ0VELUk1aUcxZWFvbUJqSGc?oc=5)
-
-2026-04-21 <span class="news-indication-tag">AF</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMijgJBVV95cUxOZ3IxR2FBSy1GM3VOUkVxYkNfekZ4X3RQZTQ4cFRmbTVVbktZYkJCTFNadkVHdkRBdnBsemtCVGdhUW1xWFZzNkltaGdjYlo5cklXTERaM0Uyb1FocGl2ZTRzNmhWRjg3SDRJREQteHFVRG5wS1dIdXZGanZ3ZHFld0ctZlhaUl95cWJSS2ZVcV9vLTZwOXl4NndCRmZnVUtiTFVmVjYzeVNZWXJoZ0Vfa2RxbEllWG1XTUVOeUZvZng3dHNGMmYyX3dBdTFySkljRDVPZ2toV0MtN01Eem5iZHJrNGMyQTFxbzlWcEt6TENQNFJlWnRoUGEzbGVWQ0VELUk1aUcxZWFvbUJqSGc?oc=5)
-
----
-
-### [Investigadoras validan en Granada herramientas clave para hacer más precisos los tratamientos contra el cáncer](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQlBFSjhzamItamZoeWZjd241NDFnVnpfMk9GcmVxRzNlN3d6dVZ5YjJRUy1tVjZSblBXam9HekdTN3lLb3BKZ3N6M3htcUo2MGtXRUpKeGVNTGhuejBLSmFxUnNIY2FtS2RLbkVLb3d2OVNQakprRk02eWpIY3FkMmJWeEpvZVVNdUpaU2RweEhfRDNNSjNyRjdqdVdxOVROVGlrOVZSMDhnQlZqWFpLX0VyN1N1S1Q4ZjhCMERXdXRwTkxxZHM1NzNhY3kwU0xsRk5VNDk4VlAxSW42UUVuX09maXBudVp1XzVzWDhQX2o2ZzRLN3R5Zk1LUENRQQ?oc=5)
-
-2026-04-21 <span class="news-indication-tag">AF</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQlBFSjhzamItamZoeWZjd241NDFnVnpfMk9GcmVxRzNlN3d6dVZ5YjJRUy1tVjZSblBXam9HekdTN3lLb3BKZ3N6M3htcUo2MGtXRUpKeGVNTGhuejBLSmFxUnNIY2FtS2RLbkVLb3d2OVNQakprRk02eWpIY3FkMmJWeEpvZVVNdUpaU2RweEhfRDNNSjNyRjdqdVdxOVROVGlrOVZSMDhnQlZqWFpLX0VyN1N1S1Q4ZjhCMERXdXRwTkxxZHM1NzNhY3kwU0xsRk5VNDk4VlAxSW42UUVuX09maXBudVp1XzVzWDhQX2o2ZzRLN3R5Zk1LUENRQQ?oc=5)
 
 ---
 
@@ -251,30 +267,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-04-21 <span class="news-indication-tag">AF</span>
 
 來源：[PR Noticias](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOEZKR2tQVDY2TnQ5TGN3SURIOG5tb21EcG0zOGhqVjNTZWNUMTgxN0RpcG5iVUtURDR1eTFHSnhRMm1kVWlLcjNqa1pGbTVCdl9EMVhlWW9XT1BGRXNPQmw2YndKZGRybmlTUkdRMGtQY0tnUU9PTWNXcC1mRmlNYjlVRmRkNVdMeU81dm0zMl9lSk52dW04ODlOQ2loOXQ5bXZiY19EaVJTcUxTZXZEdGlSV1dRYk1iU0tXU0RxdUZKUdIBwgFBVV95cUxOOEZKR2tQVDY2TnQ5TGN3SURIOG5tb21EcG0zOGhqVjNTZWNUMTgxN0RpcG5iVUtURDR1eTFHSnhRMm1kVWlLcjNqa1pGbTVCdl9EMVhlWW9XT1BGRXNPQmw2YndKZGRybmlTUkdRMGtQY0tnUU9PTWNXcC1mRmlNYjlVRmRkNVdMeU81dm0zMl9lSk52dW04ODlOQ2loOXQ5bXZiY19EaVJTcUxTZXZEdGlSV1dRYk1iU0tXU0RxdUZKUQ?oc=5)
-
----
-
-### [Vitamine in der Schwangerschaft: Das braucht der Körper - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTnpLNDNvM09UbDZZYlBrX3huV3BEYmw1WTJxNHE2eXM4WHN5UElJNnRCcmQxY0xGU2xtRDVXektETUplaWh4QjhSUVhUdzZLZG1UWmJLWk1CODgyMTMzOTd1RzJ1SWQyUE14c3BKT2kwMTdSSzBHamVIMkY3YldDUnVndGxhLU4yZmlzSHR6Z0ZISWxuZVRBUThzOE9mNHJUMHhHMi1yanM4aEVkTzV2RzI1V0Rud2hIWEZpRTktSExvUQ?oc=5)
-
-2026-04-21 <span class="news-indication-tag">AF</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTnpLNDNvM09UbDZZYlBrX3huV3BEYmw1WTJxNHE2eXM4WHN5UElJNnRCcmQxY0xGU2xtRDVXektETUplaWh4QjhSUVhUdzZLZG1UWmJLWk1CODgyMTMzOTd1RzJ1SWQyUE14c3BKT2kwMTdSSzBHamVIMkY3YldDUnVndGxhLU4yZmlzSHR6Z0ZISWxuZVRBUThzOE9mNHJUMHhHMi1yanM4aEVkTzV2RzI1V0Rud2hIWEZpRTktSExvUQ?oc=5)
-
----
-
-### [Kalorien-Falle: Das müssen Sie bei der Zubereitung von Haferflocken beachten](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMHl2RnlxYldUQkthR2Q4M1ZDdEVScTZjTzBTREJzQ2RUUVd5OUFzbk9KemFleW1DOEE1VlJMWTNYdXRvTlFUSVhQeXo2VlJUQTN6LUJiR3FrNmQzWGtCU3dEcEItbENGMlhSWWhERGVyNXhzZ1BHWmJNZ2dSemctRUJmTmRPVDd3WjUxSEEtd29VS3Byc1FheG93c1hReHNLMHdVcTMyTkFWU0trdE1UWmhQYllwZ1NFaEVwSEw4UzFWVjViRldpNjNnaTEzNmZYTWx6NGlocXpZZXpQTXNwRDY3RHNaNnZObDU1VWh3REhWSWs30gH6AUFVX3lxTE5Vd1dzQ2FYWUV6VTNvWWl5WGhjc0dpMzBVWDJabWxJNndCTjNvWnlIOG9pZVdabGgxYUc0T1N6S1NadHpfUjJtTW1OVF9JT3ppcnl6TnlZSC1qb1dUMWRUVlVUUy1OZm5xbDRBeDY4NVpXdHBkSXVSUTYtRU13Z1R5Vm9VUVhvcGd4azZ4dG9GSlNfSU9HUmxsaTdMejcxWW5aMmpLN0lVTlphQWc3eXdXdC15Z0RWdFo2ZV9jdzZMaS1RRWF3WmMyN3B5RFZCclhpVm1mdVNyVU5CTXN0dFRoWEdnOVROaTQwNnprNXRGUlVfeVVSa0Z1T1E?oc=5)
-
-2026-04-21 <span class="news-indication-tag">AF</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMHl2RnlxYldUQkthR2Q4M1ZDdEVScTZjTzBTREJzQ2RUUVd5OUFzbk9KemFleW1DOEE1VlJMWTNYdXRvTlFUSVhQeXo2VlJUQTN6LUJiR3FrNmQzWGtCU3dEcEItbENGMlhSWWhERGVyNXhzZ1BHWmJNZ2dSemctRUJmTmRPVDd3WjUxSEEtd29VS3Byc1FheG93c1hReHNLMHdVcTMyTkFWU0trdE1UWmhQYllwZ1NFaEVwSEw4UzFWVjViRldpNjNnaTEzNmZYTWx6NGlocXpZZXpQTXNwRDY3RHNaNnZObDU1VWh3REhWSWs30gH6AUFVX3lxTE5Vd1dzQ2FYWUV6VTNvWWl5WGhjc0dpMzBVWDJabWxJNndCTjNvWnlIOG9pZVdabGgxYUc0T1N6S1NadHpfUjJtTW1OVF9JT3ppcnl6TnlZSC1qb1dUMWRUVlVUUy1OZm5xbDRBeDY4NVpXdHBkSXVSUTYtRU13Z1R5Vm9VUVhvcGd4azZ4dG9GSlNfSU9HUmxsaTdMejcxWW5aMmpLN0lVTlphQWc3eXdXdC15Z0RWdFo2ZV9jdzZMaS1RRWF3WmMyN3B5RFZCclhpVm1mdVNyVU5CTXN0dFRoWEdnOVROaTQwNnprNXRGUlVfeVVSa0Z1T1E?oc=5)
-
----
-
-### [Cranleigh womb transfusion baby now a 'chirpy little boy'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SUE85OWtWWFpVZGUxdVVsb2tWb1F2RHBfRFVCN0xHYlBBTUlWRW0tRkVKUWIweXlFUndqT184SVVjeHUyRnV6M3ByRVdxQzVGNWlybjVETzB4Um9Q?oc=5)
-
-2026-04-21 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SUE85OWtWWFpVZGUxdVVsb2tWb1F2RHBfRFVCN0xHYlBBTUlWRW0tRkVKUWIweXlFUndqT184SVVjeHUyRnV6M3ByRVdxQzVGNWlybjVETzB4Um9Q?oc=5)
 
 ---
 

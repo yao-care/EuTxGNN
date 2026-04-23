@@ -3,7 +3,7 @@ layout: default
 title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
+<strong>EPOC（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,13 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Les exercices physiques simples qui peuvent améliorer votre mémoire, selon la science](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwQ0NrT1NELWpabWwwRE9xZmE5VW8wbWhJXzNfcU9ZTlBRckRCNktNVFVHOUc4Q2ItZ3ozRXNOUTM0TGZrZFNfVGFiN2g3eGMwOUU3VUZuYTBpY29Nd0HSAWNBVV95cUxPYmkzMktmdlhIZFZjRTlHLWhUWFRyU010RzYwczRuSDAzR0k2TWNkT2VBSDN5Z180QTJpN2xUQ1hJazNLOV9aVXNIYVlXb2dPNFdnck0tdVZlako3a2Q2dWFPVUU?oc=5)
 
 2026-04-21
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwQ0NrT1NELWpabWwwRE9xZmE5VW8wbWhJXzNfcU9ZTlBRckRCNktNVFVHOUc4Q2ItZ3ozRXNOUTM0TGZrZFNfVGFiN2g3eGMwOUU3VUZuYTBpY29Nd0HSAWNBVV95cUxPYmkzMktmdlhIZFZjRTlHLWhUWFRyU010RzYwczRuSDAzR0k2TWNkT2VBSDN5Z180QTJpN2xUQ1hJazNLOV9aVXNIYVlXb2dPNFdnck0tdVZlako3a2Q2dWFPVUU?oc=5)
-
----
-
-### [Aktualisierte COPD-Leitlinie empfiehlt Atemphysiotherapie - up unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
-
-2026-04-21
-
-來源：[up unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
 
 ---
 

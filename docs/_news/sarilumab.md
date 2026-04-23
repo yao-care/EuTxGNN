@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Lilly anuncia nuevos datos de un estudio en adultos con obesidad y artritis psoriásica en tratamiento concomitante de Mounjaro y Taltz - Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
-
-2026-04-22 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Blood Test Could Predict Alzheimer’s Risk Long Before Symptoms Surface, Paving the Way for Early Detection - Indian Defence Review](https://news.google.com/rss/articles/CBMifkFVX3lxTFAtb3lOWGQxVmtHUHJrUmNHZ3JaRTFyaHQxQ2NtRnJwd0tDdXNFV2xqLWE5N1BPSXdHaFJKY25YWHpyb1F3cy1vcXZXNEdDdllfenhtaTFUZGV3RnFBLUE1VnNDaXBYRm5Eb0hxWFNMUVRNWm5Hd01qaFlsNmNxUQ?oc=5)
 
@@ -83,14 +75,6 @@ permalink: /news/sarilumab/
 2026-04-21 <span class="news-indication-tag">EPOC</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwQ0NrT1NELWpabWwwRE9xZmE5VW8wbWhJXzNfcU9ZTlBRckRCNktNVFVHOUc4Q2ItZ3ozRXNOUTM0TGZrZFNfVGFiN2g3eGMwOUU3VUZuYTBpY29Nd0HSAWNBVV95cUxPYmkzMktmdlhIZFZjRTlHLWhUWFRyU010RzYwczRuSDAzR0k2TWNkT2VBSDN5Z180QTJpN2xUQ1hJazNLOV9aVXNIYVlXb2dPNFdnck0tdVZlako3a2Q2dWFPVUU?oc=5)
-
----
-
-### [Aktualisierte COPD-Leitlinie empfiehlt Atemphysiotherapie - up unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">copd</span>
-
-來源：[up unternehmen praxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTc4dmdvUlJpdkZ3YWRfQjhDWU1JVFZtWlUwdWp4R0xhbWtJQklJdWZ1R1NBRnRDbDdOa2lvcnFLNTBFemVOTEpiZ1A1SDh5cnhmQ2hQVTNha1lUd2RDbFE5N2tCLThRMmRYakN6aExxT0lTZHNFeENFQUNDWFVKQmp6WFpEa0k4OUtwbHg3OE83OHE2bGtMOG1GM0dMMkdrOVFveUZZcw?oc=5)
 
 ---
 

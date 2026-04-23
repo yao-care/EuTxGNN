@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "artritis（arthritis） 相關新聞"
+title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artritis（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# artritis（arthritis） 相關新聞
+# arthritis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="artritis（arthritis） 有什麼相關新聞？">
-<strong>artritis（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
+<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「artritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -101,15 +101,7 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Lilly anuncia nuevos datos de un estudio en adultos con obesidad y artritis psoriásica en tratamiento concomitante de Mounjaro y Taltz - Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
-
-2026-04-22
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [How a discovery in joint fluid could change the way we treat arthritis - Medical News Today](https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXVNcEhwcHNFeWs1MnV4QVVwb0xubVhHQ3dlVlhIZnhDMFoxZnVab3A5Y2ZNdEpUYm9hY3BDdjZaRGlCSHItNFh4SkRtTlptXzV4ZXZ1Z1FGczRRdHlMRnZVZi1mRXF2Y09rMHo3aS1mVTNyR0JJdzB1RlZiR0l6OXhwS2pPMldyVDh5alM2MUdPN3NQLTFVYmpnUXI1NXlPb2VpSnF1bWhmTHZxcmgxN3l3eU0zNG16OTF0M1RGVkxndjhXbk0wWWZTUQ?oc=5)
 

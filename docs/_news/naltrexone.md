@@ -54,19 +54,27 @@ permalink: /news/naltrexone/
 
 ## 相關新聞（4 則）
 
-### [Infosalus.- Experta insta a las empresas a crear programas de alimentación saludable y ejercicio para abordar la obesidad](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRHo5Nm1yOTRxQ0pmRHhRQkgwTGlJQ1R3SlFhcTlmM09NMzF3Q3hXcFFYWVFLV1pCSVcwZnFRSXJpampjT29pYms4OTZIcjJmQWNzSUttcEVVM0w3bzlMT3hjb0FaRkNSTEJrelp3Z2tKZlJrbG0xcXV1UEg1X0NiSV9EeUpVckV3aVVRd2xJbTlxeUlLNUtueUEzVXI4VGM1SEwyM19oM2Z1LVpfZzBHV2o3ZW91cWVjZzVwRWV2eVRrbEtGaVhxVm9ndWw2cXMyWXRuUHRNT2MtdUhtSmxTZko1Q1Z4YnVJSDQ4Z1NzOA?oc=5)
+### [One person diagnosed with cancer every 80 seconds in UK, report reveals - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxQay03ZlJtbW9PN0d5alM3RTc5UkRGQldBTUtxb19LekczR0JjbnBacGxSR2xISFlrazhUZ1BNdm11WDVXWHU2d1I3Wl9vYzBsbm9ua0hUci1Cd3NpclJja1VuMHBrU2tFbG5DcHc1cDlLWUFfZzZVWmhTVU9zT3dMSzQ2anpYbHNyZzhKSVFFMEVqb3k4MVlyWFhVQUFSZWxfWFRiR2JLNXFBc3FuY0o2QjBvamRNTjMzaVE?oc=5)
 
-2026-04-22 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-04-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRHo5Nm1yOTRxQ0pmRHhRQkgwTGlJQ1R3SlFhcTlmM09NMzF3Q3hXcFFYWVFLV1pCSVcwZnFRSXJpampjT29pYms4OTZIcjJmQWNzSUttcEVVM0w3bzlMT3hjb0FaRkNSTEJrelp3Z2tKZlJrbG0xcXV1UEg1X0NiSV9EeUpVckV3aVVRd2xJbTlxeUlLNUtueUEzVXI4VGM1SEwyM19oM2Z1LVpfZzBHV2o3ZW91cWVjZzVwRWV2eVRrbEtGaVhxVm9ndWw2cXMyWXRuUHRNT2MtdUhtSmxTZko1Q1Z4YnVJSDQ4Z1NzOA?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxQay03ZlJtbW9PN0d5alM3RTc5UkRGQldBTUtxb19LekczR0JjbnBacGxSR2xISFlrazhUZ1BNdm11WDVXWHU2d1I3Wl9vYzBsbm9ua0hUci1Cd3NpclJja1VuMHBrU2tFbG5DcHc1cDlLWUFfZzZVWmhTVU9zT3dMSzQ2anpYbHNyZzhKSVFFMEVqb3k4MVlyWFhVQUFSZWxfWFRiR2JLNXFBc3FuY0o2QjBvamRNTjMzaVE?oc=5)
 
 ---
 
-### [Lilly anuncia nuevos datos de un estudio en adultos con obesidad y artritis psoriásica en tratamiento concomitante de Mounjaro y Taltz - Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
+### [L’impatto sociale del “fenomeno Ozempic” e dei farmaci GLP-1: da cura per il diabete a trend TikTok](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
 
-2026-04-22 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+2026-04-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
+來源：[Geopop](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
+
+---
+
+### [Científicos recuerdan que la obesidad en gatos debe considerarse un trastorno metabólico complejo y multifactorial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUZ2Tk1JU05pQWY5WFo5Q1dQdkhWMk1yWnBHRmJzSUtVMnVzOFpTTTF1Q1ZjbGs1RnJXYkdEcWZQd3lBX2pHZVVKa0FFTU8wa281VUtIdEFrWjFTdUZEMFg5S1JBWllqWjJrTW1lcWg2XzlLT2R5STJiMU9KajBicUpHb2U3d3psNnFBUnRnWFk5d2ozQWVtUWNsYmNqRU9neUItTUEyRDRhY0ZQQ3VkRFJZaGFNYURSWVZQYnhoYzljeE05LUlxVzU4M3lxN084RXNOSnFzQnhXZw?oc=5)
+
+2026-04-22 <span class="news-indication-tag">obesidad</span>
+
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUZ2Tk1JU05pQWY5WFo5Q1dQdkhWMk1yWnBHRmJzSUtVMnVzOFpTTTF1Q1ZjbGs1RnJXYkdEcWZQd3lBX2pHZVVKa0FFTU8wa281VUtIdEFrWjFTdUZEMFg5S1JBWllqWjJrTW1lcWg2XzlLT2R5STJiMU9KajBicUpHb2U3d3psNnFBUnRnWFk5d2ozQWVtUWNsYmNqRU9neUItTUEyRDRhY0ZQQ3VkRFJZaGFNYURSWVZQYnhoYzljeE05LUlxVzU4M3lxN084RXNOSnFzQnhXZw?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/naltrexone/
 2026-04-22 <span class="news-indication-tag">obesidad</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmM5QkVxcEluSWVQVlZJVlRIdmlpV2xJRXZSX3ZvVFcwNEV0RzVuMDV3Y2ZtUWJrT3ZTYjlLM2JPbTdmSmIxZGRTNHRJa2M1cl9YUVVPcFBZXzRXSnlRaEh0S28xODhGaVpOM0JZT2pQY1YtM092ZDBMOGlBajItWGEwS0NoSDFhUEJfSmUyR2pfRzg3cEJlTloxUkhsR0V4aUd4YW9BZFI3YlV4dVlHZVM1djlBZTRrRlBKaHJuR210UEVSUUhjUk9BUjJTNkpB?oc=5)
-
----
-
-### [Six UPFs dietitians never give to their children, and the ones they do buy - The i Paper](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFJPVnNsSWo2N0cxTmZSTENENWU3bDExNkNObmVxR0l1RG9TRUw1NThia2w5bmhLUDlDelREVmVsY2c5MmdHWW1Td0ZWdGVpZzlFRWpuMDJDV0cxbHBERmluczE3S1hzUUhMZWRfVVFUYU5meVhUcDRRYXlib2VJYjZmTXU?oc=5)
-
-2026-04-21 <span class="news-indication-tag">obesity</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFJPVnNsSWo2N0cxTmZSTENENWU3bDExNkNObmVxR0l1RG9TRUw1NThia2w5bmhLUDlDelREVmVsY2c5MmdHWW1Td0ZWdGVpZzlFRWpuMDJDV0cxbHBERmluczE3S1hzUUhMZWRfVVFUYU5meVhUcDRRYXlib2VJYjZmTXU?oc=5)
 
 ---
 

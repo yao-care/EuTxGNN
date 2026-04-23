@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="Glimepiride 有什麼相關新聞？">
-<strong>Glimepiride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glimepiride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/glimepiride/
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
+
+### [Herzinfarkte und Schlaganfälle verhindern: Cholesterin überschätzt? Studie legt neue Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
+
+2026-04-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
+
+---
+
+### [Encías y diabetes, una relación infravalorada: “La periodontitis influye directamente en su control glucémico”](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWdiNmlVVDVrTzdXdmd6UGYyVTV2YV9tOE5yVkgtZ3hzaDJQR29FOTlTdFNueGZxUDVGWkMwVnRQX24zSVBFZ1NIRnNVenVqeW1fbkZ3ZTY3b2NiMXowS0I1dThqYXVaRlh1SU96UVdRa0FpZFpQUFc2R3lPQVJVSm9ZTzUybUttV3JEczhGcno3YVpGNEcwWWdQLUJBQzlqd2lsTHI0QTFib0JMZEpPLUUwdnBYQ1h5d3pmR2VEN1IyUExidkJJZHlUVGp3aEhIckNMcW5rT3JnVjlDTFNOaF94Z3NnMEMwXzYxU1VYR3Jka29YNmlSRg?oc=5)
+
+2026-04-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWdiNmlVVDVrTzdXdmd6UGYyVTV2YV9tOE5yVkgtZ3hzaDJQR29FOTlTdFNueGZxUDVGWkMwVnRQX24zSVBFZ1NIRnNVenVqeW1fbkZ3ZTY3b2NiMXowS0I1dThqYXVaRlh1SU96UVdRa0FpZFpQUFc2R3lPQVJVSm9ZTzUybUttV3JEczhGcno3YVpGNEcwWWdQLUJBQzlqd2lsTHI0QTFib0JMZEpPLUUwdnBYQ1h5d3pmR2VEN1IyUExidkJJZHlUVGp3aEhIckNMcW5rT3JnVjlDTFNOaF94Z3NnMEMwXzYxU1VYR3Jka29YNmlSRg?oc=5)
+
+---
 
 ### [Surveyor, 30, died from diabetes after GP told him to call 111 - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkVBUDNpQnpqclRVV2xRbVA4cE9iWk51ZFBGTEhGbEJManRKRTdlR2tSQ2tOMHpaRUNsdXROWkVOaVpEM05Pa3VMUlo1QkZheEN6TmZwakEwamZKb2dNYnNpdjJyd2oxMzJrVHo5V1QxRDlYVnJESTAyQVM4NWg3MEJfOXFjemluWVNuQ2FsR2JXY1RSdXlmNUtnbzFTcHJqX0E?oc=5)
 
 2026-04-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkVBUDNpQnpqclRVV2xRbVA4cE9iWk51ZFBGTEhGbEJManRKRTdlR2tSQ2tOMHpaRUNsdXROWkVOaVpEM05Pa3VMUlo1QkZheEN6TmZwakEwamZKb2dNYnNpdjJyd2oxMzJrVHo5V1QxRDlYVnJESTAyQVM4NWg3MEJfOXFjemluWVNuQ2FsR2JXY1RSdXlmNUtnbzFTcHJqX0E?oc=5)
+
+---
+
+### [L’impatto sociale del “fenomeno Ozempic” e dei farmaci GLP-1: da cura per il diabete a trend TikTok](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
+
+2026-04-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Geopop](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjQxQVZLRVU5NlRqaHBrWjJ6ZTJieGw4SVZ2QU9aRjd5NWxSV09WVks2Rms4cmtsNWJJVWxjRnBTbVN4MXMyYTJrZnlGWGM2SUZtZjdXd09Kdks2VHhTalo4ZFlkbElIRE9RdWpCV2xzX2NCUDRSX3R1bDBzUGpMR2NMOGh2Y3pyRnJFQUw4NkFteUJUYWhmZGgwNUxHalJYaUoyMUc4X1hLY25iV0hOVTZCSVZid0Y5QlE?oc=5)
 
 ---
 
@@ -70,19 +94,11 @@ permalink: /news/glimepiride/
 
 ---
 
-### [Personalisierte Strategien zur Diabetes-Prävention in Deutschland - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbU9iUjBKVVpuU2JUOXduRmhkcTBPQkhoaUpoLUswSDdyTDlnTDBnLW1SbS1fc1lvTjlwaGQ5LXhfWjVZTEdhMTRYZGNVX3VBWEY3ZVJxRGZ6TE9BX3hCRW16RUwySFNjemc3MnNjSTE2X29fd1hzWTVHNm41QlJ1QmxISWdBdHc5Y01SNVhlbXB6dk1YU0NoR1FuRlBqZzQ?oc=5)
+### [La dieta cetogénica puede mejorar la función de las células beta en personas con diabetes tipo 2 - Diario de Navarra](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWpLbDVjQTRqX0ZUZ0hlWk9UcVJJN1FtRHdXTTJaNWpLR092LWRjZTN2WFJRVFhMY1JfUGxrWVpxUVY5UUtETGJQSUlWalVCUVlpcnNmeGxIZ0dTU3J3bV9ybV8xbWNXYzJQb3hST29XMGE5cDhTUGVmSXZubXFnOXBzS2tLVXN5bFpYUVRfZXVvQkFNQTduN25Vb2ZoYXRTU0l1NVRaV0NMUk9JZzg5NHR5dUk4UVJvOFN3UnBId3hHbTRHR1gxOExLOTlCd09ZWnBVblpSdkJMcEU?oc=5)
 
 2026-04-22 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbU9iUjBKVVpuU2JUOXduRmhkcTBPQkhoaUpoLUswSDdyTDlnTDBnLW1SbS1fc1lvTjlwaGQ5LXhfWjVZTEdhMTRYZGNVX3VBWEY3ZVJxRGZ6TE9BX3hCRW16RUwySFNjemc3MnNjSTE2X29fd1hzWTVHNm41QlJ1QmxISWdBdHc5Y01SNVhlbXB6dk1YU0NoR1FuRlBqZzQ?oc=5)
-
----
-
-### [La dieta cetogénica muestra mejoras en la función del páncreas en pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3YtVUJDcklUNUI1bGlsRnlYZXAyY1NIM1YtYi1IYmNxdlNPRUkwMVpLQ1U5QnNMMkdhdXRrd0RYclR2a1FLWkNSSE1YWVFXdXN6cm9VVXFNWXJfX2lpcU1ac1FKZjZiUjdtTkV0aEtEeGpXSnRKSDc3bWpPZVllZWFpZXlZdzNrN3lSRDJmalhnQ3lyVlg3eTBUM180dzBqcEVCZ0NnYmlqQnloZEdzbUVuNGlLa18tV2N0WmVuWUU2MlJhYnpMQXRCYjl1UUw1S3N3?oc=5)
-
-2026-04-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3YtVUJDcklUNUI1bGlsRnlYZXAyY1NIM1YtYi1IYmNxdlNPRUkwMVpLQ1U5QnNMMkdhdXRrd0RYclR2a1FLWkNSSE1YWVFXdXN6cm9VVXFNWXJfX2lpcU1ac1FKZjZiUjdtTkV0aEtEeGpXSnRKSDc3bWpPZVllZWFpZXlZdzNrN3lSRDJmalhnQ3lyVlg3eTBUM180dzBqcEVCZ0NnYmlqQnloZEdzbUVuNGlLa18tV2N0WmVuWUU2MlJhYnpMQXRCYjl1UUw1S3N3?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWpLbDVjQTRqX0ZUZ0hlWk9UcVJJN1FtRHdXTTJaNWpLR092LWRjZTN2WFJRVFhMY1JfUGxrWVpxUVY5UUtETGJQSUlWalVCUVlpcnNmeGxIZ0dTU3J3bV9ybV8xbWNXYzJQb3hST29XMGE5cDhTUGVmSXZubXFnOXBzS2tLVXN5bFpYUVRfZXVvQkFNQTduN25Vb2ZoYXRTU0l1NVRaV0NMUk9JZzg5NHR5dUk4UVJvOFN3UnBId3hHbTRHR1gxOExLOTlCd09ZWnBVblpSdkJMcEU?oc=5)
 
 ---
 
@@ -107,6 +123,14 @@ permalink: /news/glimepiride/
 2026-04-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
+
+---
+
+### [Multiculturalidad y diabetes - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
 
 ---
 

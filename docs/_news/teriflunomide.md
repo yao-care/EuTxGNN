@@ -35,7 +35,7 @@ permalink: /news/teriflunomide/
 <li>dense granule disease（97.8%）</li>
 <li>penile fibromatosis（97.3%）</li>
 <li>Ledderhose disease（97.2%）</li>
-<li class="indication-matched">multiple sclerosis（97.2%）<span class="indication-tag">📰 MS</span></li>
+<li class="indication-matched">multiple sclerosis（97.2%）<span class="indication-tag">📰 sclerosi multipla</span></li>
 <li>chronic hepatitis C virus infection（97.0%）</li>
 <li>palmar fibromatosis（96.9%）</li>
 <li>CMM7（96.8%）</li>
@@ -54,11 +54,11 @@ permalink: /news/teriflunomide/
 
 ## 相關新聞（6 則）
 
-### [La asociación de vacunología desmiente bulos sobre las vacunas: «Ni continen microchips ni causan autismo»](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXEwajhlOXJLeWdBbUZ0WExyY3VwMEJCcWl5ZHN5TjEyWEl4dDJFeXpPRWo2bUlRNFNqbVlxTWZ4Tm45cGhKS2xNS2c5cW5XSVpiakdzZEVTR2tuOTh6SmlkeDU3QWRCOVZiZENqMnA0VEhRWmQzQS1aWENobmJQZXM2TnJfdG9EQk80Z3lqUlhYMzJ5SlpNUklLWU1PSHkzTnl5cFdkbm5mSjB2MXd5UzBxVkxkWXB3dFIxWHVrLUctd1pSWFZDR9IBzgFBVV95cUxOMGpnYzNxQ2NmR0lVUDNrVTBmczFZU1ZyYWFKaFJtbDdxeGE0Zm9EbzlnSEI3M01fTTIyckU5cnNSZF9kWmZrWHhSSlI3TkZVUG05ejNsUmFGUmdkQ09SbEtXVzZNYXlGeV95SjVucWRqV1pqMHdBcVZ3ejBYb2dDUmtYdTZoM2p5X2luZjE4MkpFYnVmUy16WmN6cFBHLXdvZzFnZ3YzZHJOM3Jlby11elVnWWpBTTR5Ym8tN0E4dEM1ZEJDbWl3YXV6SkdrUQ?oc=5)
+### [Darmbakterien als Schlüssel zur Früherkennung von Demenz und Parkinson - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGhFLWx5dzFKaER0YXJRUlZhVC1LdS13RXR2TVlKTjlfc0ZlemlsanIteUQzU2JxX1k1c1AtbnJ2VWZ2WGZLMUw0bUJTNWlfREozaGNEajVuN0hVakV4MkptakVDZVE2cmQyR1NURUc2ZDR6SE94emlMZW95T21GR1JENmYzcDBlN2RSeTNEdFBObzd5WGY2bFBQSVNLd0FhNFJMMTJpMA?oc=5)
 
 2026-04-22 <span class="news-indication-tag">MS</span>
 
-來源：[diariovasco.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXEwajhlOXJLeWdBbUZ0WExyY3VwMEJCcWl5ZHN5TjEyWEl4dDJFeXpPRWo2bUlRNFNqbVlxTWZ4Tm45cGhKS2xNS2c5cW5XSVpiakdzZEVTR2tuOTh6SmlkeDU3QWRCOVZiZENqMnA0VEhRWmQzQS1aWENobmJQZXM2TnJfdG9EQk80Z3lqUlhYMzJ5SlpNUklLWU1PSHkzTnl5cFdkbm5mSjB2MXd5UzBxVkxkWXB3dFIxWHVrLUctd1pSWFZDR9IBzgFBVV95cUxOMGpnYzNxQ2NmR0lVUDNrVTBmczFZU1ZyYWFKaFJtbDdxeGE0Zm9EbzlnSEI3M01fTTIyckU5cnNSZF9kWmZrWHhSSlI3TkZVUG05ejNsUmFGUmdkQ09SbEtXVzZNYXlGeV95SjVucWRqV1pqMHdBcVZ3ejBYb2dDUmtYdTZoM2p5X2luZjE4MkpFYnVmUy16WmN6cFBHLXdvZzFnZ3YzZHJOM3Jlby11elVnWWpBTTR5Ym8tN0E4dEM1ZEJDbWl3YXV6SkdrUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGhFLWx5dzFKaER0YXJRUlZhVC1LdS13RXR2TVlKTjlfc0ZlemlsanIteUQzU2JxX1k1c1AtbnJ2VWZ2WGZLMUw0bUJTNWlfREozaGNEajVuN0hVakV4MkptakVDZVE2cmQyR1NURUc2ZDR6SE94emlMZW95T21GR1JENmYzcDBlN2RSeTNEdFBObzd5WGY2bFBQSVNLd0FhNFJMMTJpMA?oc=5)
 
 ---
 
@@ -78,19 +78,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Parkinson-Erkrankung dürfte sich im Mikrobiom des Darms ankündigen - Der Standard](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhtMVZXZl91S3JhSDdMQ005OFRqay0xMnkxOExYTTRBdDhDOUFRbnpuWUJ4QmNwalFlQVpkVGQxYVk5b181X1Q0YmRoVlVXTHlHcnFVbE41WmZocVBpMkhQR1ZWcWJkUTQ0SDhSMnhFOFVOT0N0elpOamota0RjeFhPbEpSV3FWY0pLVmJqN3BTdUc3NzJnTS0xbGR5R0Y3MkdmZUE1bE91X2VpY2VsM1Z0R3VPUQ?oc=5)
+### [Vaccines mean malaria deaths should be falling — not rising](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNlZhUlpxa0tCOUNnWC10Y18zOEg5MFJaOHZ2bnZjQ2h1MnVUZEs0M3JDVG9NMHRrYmlfbnR3eVhJMUg5TmRfS0lWcHUtVmd2Mi00dFFuSjlULWlhNGk0?oc=5)
 
-2026-04-21 <span class="news-indication-tag">MS</span>
+2026-04-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Der Standard](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhtMVZXZl91S3JhSDdMQ005OFRqay0xMnkxOExYTTRBdDhDOUFRbnpuWUJ4QmNwalFlQVpkVGQxYVk5b181X1Q0YmRoVlVXTHlHcnFVbE41WmZocVBpMkhQR1ZWcWJkUTQ0SDhSMnhFOFVOT0N0elpOamota0RjeFhPbEpSV3FWY0pLVmJqN3BTdUc3NzJnTS0xbGR5R0Y3MkdmZUE1bE91X2VpY2VsM1Z0R3VPUQ?oc=5)
-
----
-
-### [Meningokokken: Ein Wasserglas-Test rettet Leben - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2pjRmVMVWNYNTRlSng0Zm5JbUhsbXE4cHBqd3BSN1lWTXNKQWVsT1AxZWRPYkhKU0h3WUctaWd4bG9yWlA4b01fMzQyNUFRck0ycHFhc1BaMmFKTEJ0dGZaN0Q1VHE2d3FZcXZ0RTM5QzFxczB2TVF5LXFwZjI4TDBhX2ZCVEZ1R3lKZktzVGJDVEVSSkxRZDFTMmtveFZ5?oc=5)
-
-2026-04-21 <span class="news-indication-tag">MS</span>
-
-來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2pjRmVMVWNYNTRlSng0Zm5JbUhsbXE4cHBqd3BSN1lWTXNKQWVsT1AxZWRPYkhKU0h3WUctaWd4bG9yWlA4b01fMzQyNUFRck0ycHFhc1BaMmFKTEJ0dGZaN0Q1VHE2d3FZcXZ0RTM5QzFxczB2TVF5LXFwZjI4TDBhX2ZCVEZ1R3lKZktzVGJDVEVSSkxRZDFTMmtveFZ5?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNlZhUlpxa0tCOUNnWC10Y18zOEg5MFJaOHZ2bnZjQ2h1MnVUZEs0M3JDVG9NMHRrYmlfbnR3eVhJMUg5TmRfS0lWcHUtVmd2Mi00dFFuSjlULWlhNGk0?oc=5)
 
 ---
 
@@ -99,6 +91,14 @@ permalink: /news/teriflunomide/
 2026-04-21 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFd2cS1WRzdTZ2dOUWJIaldQYmlycUtpWXdzUG45YVNUN1V0TnBlYzlYXy13VW8xckVzTGVkLXJzMzBMU3N4MnBwNzlUSEo5RnV5OWk2MmNUTWc4OENneFZfdmNEVjBxN3lwLUhFeGRlZ1pPREs5bU51T3lWYjY3RHVnZTdGSm94RnlNb1NyTkZPSnZnajFaRFMxTGlQVTh2UVBQSGRwU0NvSDVyWHYtQ25iNDNYTXBPMV9n?oc=5)
+
+---
+
+### [Ipotesi correlazione tra microbiota orale e insorgenza della sclerosi multipla: finanziamento per lo studio di ospedale San Luigi di Orbassano e Università di Torino](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1kwblFSZTBWLXhkWU5WQVVSZWdrck43QjNtNDE1WDIwb0UyTXlnbnZPa1plb2t5czR1SkE4NmlEN3BCY1lJckNGOHVTaDZVeTkxeUQwS0dxQjlza21GTkhFSkxhU0FSS0k3Nm1iNEFGeWYxSFVCNkpmbGlMTEdNdzRyWXdIY0Z2cjlVcHpFVEItbER6dGQyZDFHeVpHaGkyYUhnUFVZbGNiaWVxR3BMWHNWYVE4SlpCM0NvY3Q1R0FmQmUtM1ZPeGdlV2tiZmRvOVF6QlZ3?oc=5)
+
+2026-04-21 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[TorinoToday](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1kwblFSZTBWLXhkWU5WQVVSZWdrck43QjNtNDE1WDIwb0UyTXlnbnZPa1plb2t5czR1SkE4NmlEN3BCY1lJckNGOHVTaDZVeTkxeUQwS0dxQjlza21GTkhFSkxhU0FSS0k3Nm1iNEFGeWYxSFVCNkpmbGlMTEdNdzRyWXdIY0Z2cjlVcHpFVEItbER6dGQyZDFHeVpHaGkyYUhnUFVZbGNiaWVxR3BMWHNWYVE4SlpCM0NvY3Q1R0FmQmUtM1ZPeGdlV2tiZmRvOVF6QlZ3?oc=5)
 
 ---
 
