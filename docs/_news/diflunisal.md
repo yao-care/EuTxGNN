@@ -54,11 +54,11 @@ permalink: /news/diflunisal/
 
 ## 相關新聞（2 則）
 
-### [Lilly anuncia nuevos datos de un estudio en adultos con obesidad y artritis psoriásica en tratamiento concomitante de Mounjaro y Taltz - Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
+### [Giornata spondiloartrite assiale, Apmarr promuove 'Conoscere per riconoscere' - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
 
-2026-04-22 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+2026-04-23 <span class="news-indication-tag">artrite</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
 
 ---
 

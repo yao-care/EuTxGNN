@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [Dementia warning sign that could appear in front of the TV - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
+### [Scientists discover why some brains resist Alzheimer’s decline](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTZRVWRuOXdzSUNWTHdBLWNqMGg1MnlsYjJQNzFvTXZ4OHlnUzZhLXhHQndYMDhxTXlJUVB2RVJTSGlHUy1OU081Z2xBbWxCUWwyX3dVS2hNQUs5VVdUUHUzNjdrYWtLVmo5S1RVY3kyQVpTT2l5SnJaZFFfbFI4VGt1OGZDSHA2U01ib1NycHN5REU?oc=5)
 
-2026-04-23 <span class="news-indication-tag">dementia</span>
+2026-04-22 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
+來源：[Earth.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTZRVWRuOXdzSUNWTHdBLWNqMGg1MnlsYjJQNzFvTXZ4OHlnUzZhLXhHQndYMDhxTXlJUVB2RVJTSGlHUy1OU081Z2xBbWxCUWwyX3dVS2hNQUs5VVdUUHUzNjdrYWtLVmo5S1RVY3kyQVpTT2l5SnJaZFFfbFI4VGt1OGZDSHA2U01ib1NycHN5REU?oc=5)
 
 ---
 
@@ -75,22 +75,6 @@ permalink: /news/rasagiline/
 2026-04-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDAtUlp3ZzJDTEpRbFBfVUlFWkdITzVNYmowLU5xUGNXaFM5RFU4d3I1VFBuOEtmdnc1R3AySmlXZkpPdjN0Qk1KMVV5ejQzWFBoV0FLM3FRTGl5cG5fWTVrNmFTM0VWdE5OWXZRR1dadjc3YmV2MlBUM1QyNW5rODVDVkxUWDhiaDhqd3pR0gGTAUFVX3lxTE5rT1RoUjlEeFZKUXVTbk4zUW42ekdQdGU0Smh1eEZQRFhxeE1PWGJLYWtBODFhT2toOHVYUEFjbjRTNnVwNzA0T1dRa2laRThCVFk0NU1ocWFkV0RHd0NHa1F1a0ZTZ2VTbHl1di1zc0dQWExyMVZuVnljRVYxdzZzLTJUSV84VzZLTk1DZnFwMkp5Yw?oc=5)
-
----
-
-### [Parkinson : la clé du diagnostic précoce se cacherait dans nos intestins - Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
-
-2026-04-21 <span class="news-indication-tag">maladie de Parkinson</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
-
----
-
-### [Alzheimer’s drugs offer little benefit, major review finds – and the reasons go deeper than the science - The Conversation](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGpmb29GTFR4aDZ2bGJzN3BZWmxuNVduSVVNbnlneEU2Smpsd2RSbVd1c0dYQ044NjJUMC1kbVVmU2ZRdzJmdGpRcFAyUlJ0eS01U1JyOXBmejhPdFZ0Q2VRR21CcG91QU1UVk1aOG1oSjI3WVBpVFJ5ek1JVWZKd2RJeWE0MGlCWXVZZGZhQnYtekktdzFSdVZ0QXVmNTF0MmVTWVdpb19rRTY0TlE0RlFlbUZTOE5lUEU0b3VWNkRiQjhMWGRvdlpHU3RITHc?oc=5)
-
-2026-04-21 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGpmb29GTFR4aDZ2bGJzN3BZWmxuNVduSVVNbnlneEU2Smpsd2RSbVd1c0dYQ044NjJUMC1kbVVmU2ZRdzJmdGpRcFAyUlJ0eS01U1JyOXBmejhPdFZ0Q2VRR21CcG91QU1UVk1aOG1oSjI3WVBpVFJ5ek1JVWZKd2RJeWE0MGlCWXVZZGZhQnYtekktdzFSdVZ0QXVmNTF0MmVTWVdpb19rRTY0TlE0RlFlbUZTOE5lUEU0b3VWNkRiQjhMWGRvdlpHU3RITHc?oc=5)
 
 ---
 

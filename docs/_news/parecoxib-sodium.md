@@ -14,7 +14,7 @@ permalink: /news/parecoxib-sodium/
 ---
 
 <p class="key-answer" data-question="Parecoxib Sodium 有什麼相關新聞？">
-<strong>Parecoxib Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Parecoxib Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/parecoxib-sodium/
 <p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Giornata spondiloartrite assiale, Apmarr promuove 'Conoscere per riconoscere' - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
+
+2026-04-23 <span class="news-indication-tag">artrite</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
+
+---
 
 ### [On croyait connaître le vrai danger du sel : cette étude en révèle un autre, plus insidieux - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmJYZENvVW5DQkZISDI0SG44MjI0M3NUQ3h3Zi1ubURhRGczdWtKT25CaWpuMVNiM0lKZ0FMOXZzTWJlMC1IdkFfMGFOSWZLY21xdkJSakI5bHExWXJ1d0tPTVJJRGlIRENKQlRoNnVYT3JhMGdaRDgzSFBJenF0bEVnbEpsT25EVnA1QXJvX2I3WkpMOE44bVY4MkRlVFJRcW9hckg2YnFxTmRWdkRkQ1Y0dkl6SWdjUGVIQm1BQ0J4OTFpUDBiSzJENUdmS2YzSUJDU2xOZW9UblBSRjNGdXd3WFJpTGFfQm1pS1Nqd2tPUQ?oc=5)
 
@@ -62,27 +70,11 @@ permalink: /news/parecoxib-sodium/
 
 ---
 
-### [Lilly anuncia nuevos datos de un estudio en adultos con obesidad y artritis psoriásica en tratamiento concomitante de Mounjaro y Taltz - Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
-
-2026-04-22 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkhrVTFvM0IyNUFreHF2N0VhVDl2Nk1JZjY0YUhYZXlmTVVrY0xaMGZ0SjZtRlRpTWV5Q0hFWWpqZ25LRHlCUVZqRVdxQ09heldWOEdzN01rT01feXR2YkVGVWllUU4yUXpDcGJMbWMwUHRnc3NpejhlOV9IMlcyQWtWbkFFakQzWDQ4NnlMb1pIbUFqRGh0REh6SHB5dXdCRVJ3cElyNGUyaFdyLU40cGRjd0NRb2o0YS00TGx5Y0JwdmtUR3pSb3NOZXVWU25t?oc=5)
-
----
-
 ### [How a discovery in joint fluid could change the way we treat arthritis - Medical News Today](https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXVNcEhwcHNFeWs1MnV4QVVwb0xubVhHQ3dlVlhIZnhDMFoxZnVab3A5Y2ZNdEpUYm9hY3BDdjZaRGlCSHItNFh4SkRtTlptXzV4ZXZ1Z1FGczRRdHlMRnZVZi1mRXF2Y09rMHo3aS1mVTNyR0JJdzB1RlZiR0l6OXhwS2pPMldyVDh5alM2MUdPN3NQLTFVYmpnUXI1NXlPb2VpSnF1bWhmTHZxcmgxN3l3eU0zNG16OTF0M1RGVkxndjhXbk0wWWZTUQ?oc=5)
 
 2026-04-21 <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXVNcEhwcHNFeWs1MnV4QVVwb0xubVhHQ3dlVlhIZnhDMFoxZnVab3A5Y2ZNdEpUYm9hY3BDdjZaRGlCSHItNFh4SkRtTlptXzV4ZXZ1Z1FGczRRdHlMRnZVZi1mRXF2Y09rMHo3aS1mVTNyR0JJdzB1RlZiR0l6OXhwS2pPMldyVDh5alM2MUdPN3NQLTFVYmpnUXI1NXlPb2VpSnF1bWhmTHZxcmgxN3l3eU0zNG16OTF0M1RGVkxndjhXbk0wWWZTUQ?oc=5)
-
----
-
-### [Could an Avocado and Mango a Day Keep High Blood Pressure at Bay?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
-
-2026-04-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "maladie de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="maladie de Parkinson（parkinson disease） 有什麼相關新聞？">
-<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [« On devient prisonnier de son corps » : elle raconte son quotidien avec la maladie de Parkinson - Le Progrès](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVV4Q215QjVqR1lyMFF4cm5VVjEzUnhFMDlET3hXWkxaQ2lpcGFQSDkxaDltNjdSMEdlOWtYNHNGd29vbEw1UW5BMFc1UFlVNEtQRDhiZ01xWW9xZkxCd2ZRdTNoRk9OazgzZTVtV0FpTXdzQ1B4UE9mOXVqcGJVUkpRajVfR3U0MWs1X0I1YUdkSUxONFpINzF0M1BjZXpXMUE?oc=5)
 
 2026-04-22
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVV4Q215QjVqR1lyMFF4cm5VVjEzUnhFMDlET3hXWkxaQ2lpcGFQSDkxaDltNjdSMEdlOWtYNHNGd29vbEw1UW5BMFc1UFlVNEtQRDhiZ01xWW9xZkxCd2ZRdTNoRk9OazgzZTVtV0FpTXdzQ1B4UE9mOXVqcGJVUkpRajVfR3U0MWs1X0I1YUdkSUxONFpINzF0M1BjZXpXMUE?oc=5)
-
----
-
-### [Parkinson : la clé du diagnostic précoce se cacherait dans nos intestins - Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
-
-2026-04-21
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
 
 ---
 

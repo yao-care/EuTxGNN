@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure（hypertension） 相關新聞"
+title: "hypertension 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "hypertension 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# high blood pressure（hypertension） 相關新聞
+# hypertension 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
-<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hypertension 有什麼相關新聞？">
+<strong>hypertension</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hypertension」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [On croyait connaître le vrai danger du sel : cette étude en révèle un autre, plus insidieux - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmJYZENvVW5DQkZISDI0SG44MjI0M3NUQ3h3Zi1ubURhRGczdWtKT25CaWpuMVNiM0lKZ0FMOXZzTWJlMC1IdkFfMGFOSWZLY21xdkJSakI5bHExWXJ1d0tPTVJJRGlIRENKQlRoNnVYT3JhMGdaRDgzSFBJenF0bEVnbEpsT25EVnA1QXJvX2I3WkpMOE44bVY4MkRlVFJRcW9hckg2YnFxTmRWdkRkQ1Y0dkl6SWdjUGVIQm1BQ0J4OTFpUDBiSzJENUdmS2YzSUJDU2xOZW9UblBSRjNGdXd3WFJpTGFfQm1pS1Nqd2tPUQ?oc=5)
 
 2026-04-22
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmJYZENvVW5DQkZISDI0SG44MjI0M3NUQ3h3Zi1ubURhRGczdWtKT25CaWpuMVNiM0lKZ0FMOXZzTWJlMC1IdkFfMGFOSWZLY21xdkJSakI5bHExWXJ1d0tPTVJJRGlIRENKQlRoNnVYT3JhMGdaRDgzSFBJenF0bEVnbEpsT25EVnA1QXJvX2I3WkpMOE44bVY4MkRlVFJRcW9hckg2YnFxTmRWdkRkQ1Y0dkl6SWdjUGVIQm1BQ0J4OTFpUDBiSzJENUdmS2YzSUJDU2xOZW9UblBSRjNGdXd3WFJpTGFfQm1pS1Nqd2tPUQ?oc=5)
-
----
-
-### [Could an Avocado and Mango a Day Keep High Blood Pressure at Bay?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
-
-2026-04-21
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
 
 ---
 

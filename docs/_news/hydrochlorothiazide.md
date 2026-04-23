@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="Hydrochlorothiazide 有什麼相關新聞？">
-<strong>Hydrochlorothiazide</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Hydrochlorothiazide</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,17 +52,17 @@ permalink: /news/hydrochlorothiazide/
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（36 則）
+## 相關新聞（31 則）
 
 ### [One person diagnosed with cancer every 80 seconds in UK, report reveals - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxQay03ZlJtbW9PN0d5alM3RTc5UkRGQldBTUtxb19LekczR0JjbnBacGxSR2xISFlrazhUZ1BNdm11WDVXWHU2d1I3Wl9vYzBsbm9ua0hUci1Cd3NpclJja1VuMHBrU2tFbG5DcHc1cDlLWUFfZzZVWmhTVU9zT3dMSzQ2anpYbHNyZzhKSVFFMEVqb3k4MVlyWFhVQUFSZWxfWFRiR2JLNXFBc3FuY0o2QjBvamRNTjMzaVE?oc=5)
 
-2026-04-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+2026-04-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxQay03ZlJtbW9PN0d5alM3RTc5UkRGQldBTUtxb19LekczR0JjbnBacGxSR2xISFlrazhUZ1BNdm11WDVXWHU2d1I3Wl9vYzBsbm9ua0hUci1Cd3NpclJja1VuMHBrU2tFbG5DcHc1cDlLWUFfZzZVWmhTVU9zT3dMSzQ2anpYbHNyZzhKSVFFMEVqb3k4MVlyWFhVQUFSZWxfWFRiR2JLNXFBc3FuY0o2QjBvamRNTjMzaVE?oc=5)
 
 ---
 
-### [Record number of cancer cases diagnosed in NI](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rLXJwcFh2aU9fclZoRTJJTlBwZ0VZSk53T1NVZVBtUXdydGJYVENmUUdwdXNPTzU2eE1pZHgzWTdvSi1wNWdsclVZSzZSM2ZRSmlDVUlfR196b3ZI?oc=5)
+### ['It was awful waiting on my diagnosis': NI cancer cases hit record high](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rLXJwcFh2aU9fclZoRTJJTlBwZ0VZSk53T1NVZVBtUXdydGJYVENmUUdwdXNPTzU2eE1pZHgzWTdvSi1wNWdsclVZSzZSM2ZRSmlDVUlfR196b3ZI?oc=5)
 
 2026-04-23 <span class="news-indication-tag">cancer</span>
 
@@ -75,6 +75,14 @@ permalink: /news/hydrochlorothiazide/
 2026-04-23 <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">carcinoma</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzJ2a1JIVm5nYTYzRVA2OEdOamYtWVJnRGE2eTE1cDlsVGJhTjdCdWpodDhZQVFXa0U2a1BOclJSSVBRdnRjTHRIeE96NERvSG9TTlRoVFBIZUwtTjNmWjdNamR5UE9STFB1UzZPWjRPcV9QZE1mYXZzM1Jjb3JRRWxGbzZQUVpQbUY2QkJrdEtDeW9UdWdDU214aFhtbk1kamxTemk4RnpRZjVvRXAzTw?oc=5)
+
+---
+
+### [Casa di Cura Ancelle, visite dermatologiche gratuite per controllo dei nei](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzdEaGxMWThVcUh4UldYWG11Y3dJT2VyUksySHhBMTlId1JaVHRSQTBTaWxSQnFGdGFRQldYMTNHTFlEbnduSjFDTkMxeVc5OGYzSHN1c0R4aGZKdTJJSXVFQTVoUHFtQUhpVWw4TDI5RzkwUjNfbGhWTGM2UGt3TEpnbGppdkI4U1BYdGViTnR6MjlISXYxTjJkUVMwSnVCRkRiSXJGRk82UXVtNHM4QjZ3?oc=5)
+
+2026-04-23 <span class="news-indication-tag">cancro</span>
+
+來源：[Cremonaoggi](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzdEaGxMWThVcUh4UldYWG11Y3dJT2VyUksySHhBMTlId1JaVHRSQTBTaWxSQnFGdGFRQldYMTNHTFlEbnduSjFDTkMxeVc5OGYzSHN1c0R4aGZKdTJJSXVFQTVoUHFtQUhpVWw4TDI5RzkwUjNfbGhWTGM2UGt3TEpnbGppdkI4U1BYdGViTnR6MjlISXYxTjJkUVMwSnVCRkRiSXJGRk82UXVtNHM4QjZ3?oc=5)
 
 ---
 
@@ -134,11 +142,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [« Les enfants sont plus forts que les adultes » : Sabrina Brand et Julien Wirth, la vie de parents face au cancer pédiatrique](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNTlobGtZbi0wRm9aV0JFOXpqS2pWRHBYWGlXV2NZWWdSSlQtaHNWMkpfSjc1TFdESTJVZ1dNWTF6bjUxWEFIaUpWakh4bl90MWhqV3VXaEt1Z011cXVEUjFpbmUtT2x4aHZ2ZFQ3d28yMS0zNGVRdUVRUVBjazN1bFpDeVBpMGhYUkhNdk82WUZySGlFal9hS0x0c3Y3aGxmZ0FGdVBOd2huUG1hS2NhYVpJOVRjZmMwODZxOTlZYWF6X0Q5YVI5WlB5VHRlTk5mMVROcXlOTkhKVm9UelQxQUt2QTh5cGRsRVE?oc=5)
+### [Tumori 'freddi' e come scovarli, ecco la nuova strategia contro le neoplasie invisibili](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTlV5alJaTEdmdWJDdl9oY1JTRDJ5WVFId1RuUW9zVVRCRndlc1BkN3dPN2FvdThjek1tOW1OdTFQc3JPRjJfZTFLLWxaMkpzRlp4bFUxSTlLVTBNQkNKTnFlZHBzWC0tNDhxOWlrZThzdDhadzlITXJKSC1TbTJsZUlLc1QtY1V0ZF8zU0VxWlczWWJuck5jY3FHUy1aMTlyVnNxVE8zVnpjV1Jsd292MnRSMkZ3bDdNMHc3OG1jVmc4cGMzc3IwY3U2V3dLMXI4cUQ0dEZzSWhjTmlzVlE?oc=5)
 
-2026-04-23 <span class="news-indication-tag">cancer</span>
+2026-04-23 <span class="news-indication-tag">tumor</span>
 
-來源：[DNA](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNTlobGtZbi0wRm9aV0JFOXpqS2pWRHBYWGlXV2NZWWdSSlQtaHNWMkpfSjc1TFdESTJVZ1dNWTF6bjUxWEFIaUpWakh4bl90MWhqV3VXaEt1Z011cXVEUjFpbmUtT2x4aHZ2ZFQ3d28yMS0zNGVRdUVRUVBjazN1bFpDeVBpMGhYUkhNdk82WUZySGlFal9hS0x0c3Y3aGxmZ0FGdVBOd2huUG1hS2NhYVpJOVRjZmMwODZxOTlZYWF6X0Q5YVI5WlB5VHRlTk5mMVROcXlOTkhKVm9UelQxQUt2QTh5cGRsRVE?oc=5)
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTlV5alJaTEdmdWJDdl9oY1JTRDJ5WVFId1RuUW9zVVRCRndlc1BkN3dPN2FvdThjek1tOW1OdTFQc3JPRjJfZTFLLWxaMkpzRlp4bFUxSTlLVTBNQkNKTnFlZHBzWC0tNDhxOWlrZThzdDhadzlITXJKSC1TbTJsZUlLc1QtY1V0ZF8zU0VxWlczWWJuck5jY3FHUy1aMTlyVnNxVE8zVnpjV1Jsd292MnRSMkZ3bDdNMHc3OG1jVmc4cGMzc3IwY3U2V3dLMXI4cUQ0dEZzSWhjTmlzVlE?oc=5)
 
 ---
 
@@ -198,6 +206,14 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
+### [Descubren un gen que determina si las células de cáncer de mama forman metástasis o están dormidas](https://news.google.com/rss/articles/CBMihwJBVV95cUxQeEprRnJ6aTZyLVZWOWMwTC1UWEx1T1EyWU1lY3lMa3VxVTlOUmdsczhNSzJleTNzRDlFNVl5VDhzY0tqVUdkR2lqWVBHWEltRkRiekR4Xy1BYTJEUklHNEZsMmJtYTRWWTNDWXdiX2czNFJORTNVQ1JUdWRfVUZlczVwb0ZfaGVpZXZiaU4ycVBYZG9lbExYQ283U0szbFBPWkNTcTVOTUxqVDdFZVY0TXhkbkFGb0ZSb1RrYjMyWVJ5bFRGSjhBQzNkUTFhU1Y5ZlI0eVNBaXNPcTl5MEt0UzRqUGQ3aTVKcVBSeW5na0dIZTBRY2hmYUpXTEFVcGdCLUpzbERXSdIBjAJBVV95cUxQdE5NV1VpajRnZW0zcVpxUm16bTVTVkE2M2hwQnN3WVgwNlVEeFMtUV8wSjlfbnJYb1cwcFVCMWlrME1tZGpaMjNqcG15V0xFam5XaE1BWHVNZDBOWkM5bHZRQ2dtd0ttanRUc3ZyVHB4MUJLSFdyQ0NCVGFIdUJOcHhxX3pjZHctZGRYdHBjSEZ5SUQteFVkRU5WYUJBWHpjSzdEMFZ4RWcwSkI0VllfR3FxX0Zhdm5EdFJ4VGJ3UUtTaFduY0tkX3IyMHFnT0tsUUlMNE1tTV9LN0F5V3ExNmwwdXVMcWRsbmNZWDhiZzBDRHotWWUzRmNaODBYbGVsSTludkx5Vk96Z0Ja?oc=5)
+
+2026-04-22 <span class="news-indication-tag">tumor</span>
+
+來源：[Telemadrid](https://news.google.com/rss/articles/CBMihwJBVV95cUxQeEprRnJ6aTZyLVZWOWMwTC1UWEx1T1EyWU1lY3lMa3VxVTlOUmdsczhNSzJleTNzRDlFNVl5VDhzY0tqVUdkR2lqWVBHWEltRkRiekR4Xy1BYTJEUklHNEZsMmJtYTRWWTNDWXdiX2czNFJORTNVQ1JUdWRfVUZlczVwb0ZfaGVpZXZiaU4ycVBYZG9lbExYQ283U0szbFBPWkNTcTVOTUxqVDdFZVY0TXhkbkFGb0ZSb1RrYjMyWVJ5bFRGSjhBQzNkUTFhU1Y5ZlI0eVNBaXNPcTl5MEt0UzRqUGQ3aTVKcVBSeW5na0dIZTBRY2hmYUpXTEFVcGdCLUpzbERXSdIBjAJBVV95cUxQdE5NV1VpajRnZW0zcVpxUm16bTVTVkE2M2hwQnN3WVgwNlVEeFMtUV8wSjlfbnJYb1cwcFVCMWlrME1tZGpaMjNqcG15V0xFam5XaE1BWHVNZDBOWkM5bHZRQ2dtd0ttanRUc3ZyVHB4MUJLSFdyQ0NCVGFIdUJOcHhxX3pjZHctZGRYdHBjSEZ5SUQteFVkRU5WYUJBWHpjSzdEMFZ4RWcwSkI0VllfR3FxX0Zhdm5EdFJ4VGJ3UUtTaFduY0tkX3IyMHFnT0tsUUlMNE1tTV9LN0F5V3ExNmwwdXVMcWRsbmNZWDhiZzBDRHotWWUzRmNaODBYbGVsSTludkx5Vk96Z0Ja?oc=5)
+
+---
+
 ### [L'étude qui inquiète : manger des fruits et des légumes pourrait en fait augmenter le risque de cancer - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3pFZUlsUnBvTS1YMWZ6QVdEemJIYm5iZzRHd0dJdDlxLVI2b25NOXEwVEhfaGVuc3lzWGxYQi1XZEdnYzAyNnJwRUVrVTlBNjZyUnpmbmdXYlRiQVJNVVJtZGZPWUx3LThWVDYxN2JkMThuTF9Kd0s0X1NVb0hFUWtnYjdib1dqNmhSQVllaw?oc=5)
 
 2026-04-22 <span class="news-indication-tag">cancer</span>
@@ -214,27 +230,19 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Tumori “invisibili” resi attaccabili: la svolta italiana che apre l’immunoterapia a più pazienti - la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3ZqUWM4dHVhMXoxdkJkcU5zdjNnWDhUODQxYnBXM3BFRW1mcUZ0dERGckFQRHlpNTd4V0ZPZERUbnlJeVUzenFvb1VXUGdlUW5JN0hyVEJZUmdpZmRhV1JEbGIwTEpvVlBXRUpuT0FXbGJRZkFiZjBLY2NHR0NvdjRNVjd6ZGFtaVNTLXlpb1pCT1Bpd1g1N3lZVdIBoAFBVV95cUxOZ21UOFVVOGt5Zk5fRjRHTjA2X2tqNkxfS0lJRGJuTlplNy03aWNMY1ZnVnRjZnZsWERQT0ZhVEsxcG1tR3ZkbTgxcUJzNFFHTGZaM2hrb0JYZ0RWSVJFYVplSEc5b2U5dWM2RFpQX05ZUWxUTnpoNm9ZdUo1Sm5BZDNkalF6RFIyWTRWNzhvN0M3N3VpaDF5MUVPSFphM3dW?oc=5)
-
-2026-04-22 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3ZqUWM4dHVhMXoxdkJkcU5zdjNnWDhUODQxYnBXM3BFRW1mcUZ0dERGckFQRHlpNTd4V0ZPZERUbnlJeVUzenFvb1VXUGdlUW5JN0hyVEJZUmdpZmRhV1JEbGIwTEpvVlBXRUpuT0FXbGJRZkFiZjBLY2NHR0NvdjRNVjd6ZGFtaVNTLXlpb1pCT1Bpd1g1N3lZVdIBoAFBVV95cUxOZ21UOFVVOGt5Zk5fRjRHTjA2X2tqNkxfS0lJRGJuTlplNy03aWNMY1ZnVnRjZnZsWERQT0ZhVEsxcG1tR3ZkbTgxcUJzNFFHTGZaM2hrb0JYZ0RWSVJFYVplSEc5b2U5dWM2RFpQX05ZUWxUTnpoNm9ZdUo1Sm5BZDNkalF6RFIyWTRWNzhvN0M3N3VpaDF5MUVPSFphM3dW?oc=5)
-
----
-
-### [Un estudio del Neurociencias UMH CSIC revela el potencial metastásico de células en tumores primarios de cáncer de mama - Alicante Plaza](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMHJTTTZCMGtPQ3R3SGoyR05ZRW5yTlFiLVZwQU1DY0p0a3RvLXhpOUVPRmtwM2Q0aThkWmVHZXhxanBTLTRQVGNvSm1jMWdfbWxYZ1AwTnJNaGhZVWtFZVpBRzFOOU9jZlNhQ0tCWTBLRHZlZWNzVDNLYTE2aFdycUJqLV9ab18xYUJBUnJfYjk1akNXdEFKVDlYSHB4dWxDRW5RNHBBc1NRcmYwMEFHdHNCYl9YbXFPZFZrQU1uQi1LeDJhWURBNWZtQ2ZjdFhLaElQejNVYllUTWJIMXdWWmNSYlczeDFGNE5Pei1WZHNEcU5vX1lR?oc=5)
-
-2026-04-22 <span class="news-indication-tag">tumor</span>
-
-來源：[Alicante Plaza](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMHJTTTZCMGtPQ3R3SGoyR05ZRW5yTlFiLVZwQU1DY0p0a3RvLXhpOUVPRmtwM2Q0aThkWmVHZXhxanBTLTRQVGNvSm1jMWdfbWxYZ1AwTnJNaGhZVWtFZVpBRzFOOU9jZlNhQ0tCWTBLRHZlZWNzVDNLYTE2aFdycUJqLV9ab18xYUJBUnJfYjk1akNXdEFKVDlYSHB4dWxDRW5RNHBBc1NRcmYwMEFHdHNCYl9YbXFPZFZrQU1uQi1LeDJhWURBNWZtQ2ZjdFhLaElQejNVYllUTWJIMXdWWmNSYlczeDFGNE5Pei1WZHNEcU5vX1lR?oc=5)
-
----
-
 ### [On croyait connaître le vrai danger du sel : cette étude en révèle un autre, plus insidieux - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmJYZENvVW5DQkZISDI0SG44MjI0M3NUQ3h3Zi1ubURhRGczdWtKT25CaWpuMVNiM0lKZ0FMOXZzTWJlMC1IdkFfMGFOSWZLY21xdkJSakI5bHExWXJ1d0tPTVJJRGlIRENKQlRoNnVYT3JhMGdaRDgzSFBJenF0bEVnbEpsT25EVnA1QXJvX2I3WkpMOE44bVY4MkRlVFJRcW9hckg2YnFxTmRWdkRkQ1Y0dkl6SWdjUGVIQm1BQ0J4OTFpUDBiSzJENUdmS2YzSUJDU2xOZW9UblBSRjNGdXd3WFJpTGFfQm1pS1Nqd2tPUQ?oc=5)
 
 2026-04-22 <span class="news-indication-tag">hypertension</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmJYZENvVW5DQkZISDI0SG44MjI0M3NUQ3h3Zi1ubURhRGczdWtKT25CaWpuMVNiM0lKZ0FMOXZzTWJlMC1IdkFfMGFOSWZLY21xdkJSakI5bHExWXJ1d0tPTVJJRGlIRENKQlRoNnVYT3JhMGdaRDgzSFBJenF0bEVnbEpsT25EVnA1QXJvX2I3WkpMOE44bVY4MkRlVFJRcW9hckg2YnFxTmRWdkRkQ1Y0dkl6SWdjUGVIQm1BQ0J4OTFpUDBiSzJENUdmS2YzSUJDU2xOZW9UblBSRjNGdXd3WFJpTGFfQm1pS1Nqd2tPUQ?oc=5)
+
+---
+
+### [Tumore del pancreas: nuove prospettive di cura. Dal farmaco che blocca la crescita al «vaccino» mRNA - Corriere della Sera](https://news.google.com/rss/articles/CBMipwJBVV95cUxPeVJUbldJbkYtMFdibmNENGJkbENtcUFtSUwyVnBlNTlVNUVENkZJVlNIdi1QQ0QyOUxwVF8wTWFTbGJhODVwM1IyLXRDbER3MnRHczN5ZXVETHBfYzNORWx6bWlHYmVNNkF5b2tEdFNRaDJqMXdCb250dTJUaV8xQzNwRDc4NGJEaC1JOEQ2ZllpR2ktUDZiRE90Q2VOT19IV3RyWVpPcUpQX0czRlRMQ2RaMUtuNnlnazctUGRadFoyX3NUcTlQX2ZHRVRYcFQ5QzdFT0hCMnA1UTA3Szd1dWxoMnExT3l5UnVOT01GYmpFZ05uc2tiM2FRZ1dCaE9xblM5QjFwZjdhMEtTbnhOUnFIeXZoTHR2Y0dFYlVSdk9vdDVjcDMw0gGsAkFVX3lxTE9xcDBEcWZUdVhGLXNwNjY2d3hKOWF3ZHJZY05jSFQ0VGo2U3hDdFVGcnhLVkVvMndnY3FhcE5PRkhHc2lhZDVLd1o1MWMzUmNROTExQURjT3VmcHRuMHcxcDNUUnJvY3A2d3FlQWxsUE9yY3htN2p3akJ6YkQ1clp5bWhQSDQ4MS1JaTdYSXdBUThoZXlhRm9TNm1TV184eWhQMjN2OXdWbkpVbVQyVERlcG5uQnFfQ1pwLVhwUWo0UjhBcjVCM2g3dHVQR0R0ajhkNUdRZnVlWFhSRWJwMjE0ZGw0TzFhY0dNSU1hVkFnZnMyR2lsQTR0VVhWWWxYeDhJVGlTLWNybU9JNWpUaXl3Q2cyX2RTeEJxbDE5bEdXWDU1bThDcEQ4cFh0Ug?oc=5)
+
+2026-04-22 <span class="news-indication-tag">tumor</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMipwJBVV95cUxPeVJUbldJbkYtMFdibmNENGJkbENtcUFtSUwyVnBlNTlVNUVENkZJVlNIdi1QQ0QyOUxwVF8wTWFTbGJhODVwM1IyLXRDbER3MnRHczN5ZXVETHBfYzNORWx6bWlHYmVNNkF5b2tEdFNRaDJqMXdCb250dTJUaV8xQzNwRDc4NGJEaC1JOEQ2ZllpR2ktUDZiRE90Q2VOT19IV3RyWVpPcUpQX0czRlRMQ2RaMUtuNnlnazctUGRadFoyX3NUcTlQX2ZHRVRYcFQ5QzdFT0hCMnA1UTA3Szd1dWxoMnExT3l5UnVOT01GYmpFZ05uc2tiM2FRZ1dCaE9xblM5QjFwZjdhMEtTbnhOUnFIeXZoTHR2Y0dFYlVSdk9vdDVjcDMw0gGsAkFVX3lxTE9xcDBEcWZUdVhGLXNwNjY2d3hKOWF3ZHJZY05jSFQ0VGo2U3hDdFVGcnhLVkVvMndnY3FhcE5PRkhHc2lhZDVLd1o1MWMzUmNROTExQURjT3VmcHRuMHcxcDNUUnJvY3A2d3FlQWxsUE9yY3htN2p3akJ6YkQ1clp5bWhQSDQ4MS1JaTdYSXdBUThoZXlhRm9TNm1TV184eWhQMjN2OXdWbkpVbVQyVERlcG5uQnFfQ1pwLVhwUWo0UjhBcjVCM2g3dHVQR0R0ajhkNUdRZnVlWFhSRWJwMjE0ZGw0TzFhY0dNSU1hVkFnZnMyR2lsQTR0VVhWWWxYeDhJVGlTLWNybU9JNWpUaXl3Q2cyX2RTeEJxbDE5bEdXWDU1bThDcEQ4cFh0Ug?oc=5)
 
 ---
 
@@ -251,14 +259,6 @@ permalink: /news/hydrochlorothiazide/
 2026-04-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMie0FVX3lxTFA2Y3pzbXRaZ01BMW1UNXg5dENUYTZzbHV5NHhYWWpMbk5zekFMVVhRVW1wbUxfRGM1MDczUW5WaWRhZ1JlT2J3ajJ4aHRvc1FUNVZ0c2xhcUhhMnRIcW1EQ1h0MzFpR3VrSFpiS0hTeldNZ2ROYURhTmg1OA?oc=5)
-
----
-
-### [Tumore al pancreas, il vaccino a mRNA e i risultati della sperimentazione: quasi tutti i pazienti vivi sei anni dopo - Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
-
-2026-04-22 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9YTHRpd3ZIMkdZa1hGR204VVItY05tejFfRldFZmVZaW1aczRCdHZ2SzhRWXpzeVAtMlpiRHFLSE0yVEc3VXMtNFlQRHdyM2FPU1M3RmNSQV9xdFFGbmJKZEFCTHpJaDJyWVhyZnZ4SGJ3NVNpYjdlZ2FrdGRiR081ZDFqWDdxTTlaOHMtRk83dElSZDVxdnZNaGtodw?oc=5)
 
 ---
 
@@ -294,51 +294,11 @@ permalink: /news/hydrochlorothiazide/
 
 ---
 
-### [Vos cellules saines possèdent déjà tout pour migrer dans le corps : le cancer ne fait que désactiver ce qui les retient](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQelowNXlZYllDTWN4R0p5TnNJd2xtS2UwUEpJRVV1WWRMUGFNd0pfb2E2LV9jV1ZHa1lwNW9sdkxDbzZMOUc5dS1aRXg0WTBwWFFGek1abGRkYmJsZjlmTnExUi1QMG1KSkxyaTVzMWNFcHJMaTNWelZyTnEydFRxajJ3czQ3T0VnOU9RWXlleF9naWpSZGNkVU5XN3BHQ0kzajFRbFNWckZ6WGpDZmpZRUJ0b2tJaHdaQ3NPMzRlckxLaG5CWDgxV19femw4d210alVPVkJ4dmw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQelowNXlZYllDTWN4R0p5TnNJd2xtS2UwUEpJRVV1WWRMUGFNd0pfb2E2LV9jV1ZHa1lwNW9sdkxDbzZMOUc5dS1aRXg0WTBwWFFGek1abGRkYmJsZjlmTnExUi1QMG1KSkxyaTVzMWNFcHJMaTNWelZyTnEydFRxajJ3czQ3T0VnOU9RWXlleF9naWpSZGNkVU5XN3BHQ0kzajFRbFNWckZ6WGpDZmpZRUJ0b2tJaHdaQ3NPMzRlckxLaG5CWDgxV19femw4d210alVPVkJ4dmw?oc=5)
-
----
-
-### [Could an Avocado and Mango a Day Keep High Blood Pressure at Bay?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
-
-2026-04-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
-
----
-
-### [Tumorbiologie allein reicht nicht aus](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUU1lMklacURub01aY2tqTlpZcV9NZ2Q0b2JUeU8wZ0VpSjllX3U3dm5SQWN2MFRVaERUM2NNdktiU29PZ0RQNWFtQk9aLV9DbkdyYzlXblc0dkNUMGFNUWRmbHNJaDdVSmlpUE5FT0RiYjJUaTJDbExkSjVRelFaRXdYYw?oc=5)
-
-2026-04-21 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[openPR.de](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUU1lMklacURub01aY2tqTlpZcV9NZ2Q0b2JUeU8wZ0VpSjllX3U3dm5SQWN2MFRVaERUM2NNdktiU29PZ0RQNWFtQk9aLV9DbkdyYzlXblc0dkNUMGFNUWRmbHNJaDdVSmlpUE5FT0RiYjJUaTJDbExkSjVRelFaRXdYYw?oc=5)
-
----
-
 ### [Nicole Panarelli, morta a 14 anni per un glioma dona il corpo alla scienza. La mamma: «Una speranza che a lei è stata negata» - Il Messaggero](https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzVyTVJqLTJfVVhLcUQyS2NUY1NqRFh5dThHSHBiWjU5UC1hME5KUnlaZExRTXB2UEtJLUdlZGN0UHVKVF9mbGl1enNWR29yaUJVMFRkVElUTzdfcE5oelZmWXRkM25oRTZJeTZGaURVcEVyZHJLTVJDeEVBSGZxbDNpVmdId3FGLW5jZlRwNjBGcFJ6MVo5akdDN0YwNEpMdXZ0N1B6VdIBowFBVV95cUxQeGRMaHRJdzY3OW91Zy1CSm5iYk9aaWFGckNQMmJHNzJmM2swS21KQXZuZUVJam1LOXJTWDByd3V4aWNsTTJkMnBnd0NJd3lSQnhxeXJobmpsbXA0bFcwVHB6WmY0ZW1IMHV5V3hjTVpfVDlHck5KUm9HR0R3aEpxOUtuWHBCNEVwQmx6bm1Ja1VOSzB0ekZQMUdZYWRJWGt1VW1Z?oc=5)
 
 2026-04-18 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzVyTVJqLTJfVVhLcUQyS2NUY1NqRFh5dThHSHBiWjU5UC1hME5KUnlaZExRTXB2UEtJLUdlZGN0UHVKVF9mbGl1enNWR29yaUJVMFRkVElUTzdfcE5oelZmWXRkM25oRTZJeTZGaURVcEVyZHJLTVJDeEVBSGZxbDNpVmdId3FGLW5jZlRwNjBGcFJ6MVo5akdDN0YwNEpMdXZ0N1B6VdIBowFBVV95cUxQeGRMaHRJdzY3OW91Zy1CSm5iYk9aaWFGckNQMmJHNzJmM2swS21KQXZuZUVJam1LOXJTWDByd3V4aWNsTTJkMnBnd0NJd3lSQnhxeXJobmpsbXA0bFcwVHB6WmY0ZW1IMHV5V3hjTVpfVDlHck5KUm9HR0R3aEpxOUtuWHBCNEVwQmx6bm1Ja1VOSzB0ekZQMUdZYWRJWGt1VW1Z?oc=5)
-
----
-
-### [Da topi anziani nuovi indizi sul legame tra età e tumori. Lo studio - Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
-
-2026-04-17 <span class="news-indication-tag">tumor</span>
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZC1qVENSQVo5NUN2emZIMFFlb1FTR0l4el91UGZGQU84UVJSbkFoa3VaYnpWV3lmUlpMNXh4b3QtdWJ0LUpqeGRocXlma1AwaDlKNXg1bTdDOUZybHFhTlFZRVJULWNNSTc0N014aXJCWmc?oc=5)
-
----
-
-### [Tumore dell’esofago: scoperta la lesione precancerosa chiave](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JNc24zN2F6eU40MFhmSzNTX0J0a05ob2lXOWpON0ZHUVpMRkZILU0zMUY4NldXbW9WRlMxaWpwSVNaQmlPbERUWVY1T3JNNVJFR2VTQmZha1M3LVozV0NEZktiWGtXZ2duQkwtUGdDZGV5eGxETS1QT3ZfSU5nTzFKRGk3VnVpVWtQb0p0RUpPbFNTT3lpWg?oc=5)
-
-2026-04-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JNc24zN2F6eU40MFhmSzNTX0J0a05ob2lXOWpON0ZHUVpMRkZILU0zMUY4NldXbW9WRlMxaWpwSVNaQmlPbERUWVY1T3JNNVJFR2VTQmZha1M3LVozV0NEZktiWGtXZ2duQkwtUGdDZGV5eGxETS1QT3ZfSU5nTzFKRGk3VnVpVWtQb0p0RUpPbFNTT3lpWg?oc=5)
 
 ---
 
