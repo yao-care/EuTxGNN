@@ -14,7 +14,7 @@ permalink: /news/blinatumomab/
 ---
 
 <p class="key-answer" data-question="Blinatumomab 有什麼相關新聞？">
-<strong>Blinatumomab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Blinatumomab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/blinatumomab/
 <p><a href="{{ '/drugs/blinatumomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
 ### [Surveyor, 30, died from diabetes after GP told him to call 111 - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkVBUDNpQnpqclRVV2xRbVA4cE9iWk51ZFBGTEhGbEJManRKRTdlR2tSQ2tOMHpaRUNsdXROWkVOaVpEM05Pa3VMUlo1QkZheEN6TmZwakEwamZKb2dNYnNpdjJyd2oxMzJrVHo5V1QxRDlYVnJESTAyQVM4NWg3MEJfOXFjemluWVNuQ2FsR2JXY1RSdXlmNUtnbzFTcHJqX0E?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/blinatumomab/
 2026-04-22 <span class="news-indication-tag">diabetes</span>
 
 來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1gzLUNCakRqanM5OEpOdFZzUlRRN2I5SUN0YTByazNWOGVqTm81a2tXQWtoWmQ3WkJvYU1HQ21FekdBNEM0aXUzeWJzdGFXeUF5Q1paU2lwRHptemhlY1FGMlF5VVN1akhCOEJJYmtoaTN1bERIZlg3ZTB2RHdmdUppZGZJQ2ozT2h2RF9RTVJoNUFhTDRuejl1Umt5MWZQVHJtSg?oc=5)
-
----
-
-### [Un manejo integral de la diabetes tipo 2 reduce complicaciones y alivia el gasto sanitario - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjIyOE5YZ1dnUlZGSGVxa3BrTHZpdEFoVVpleHloeTJKeWlEQnBLcjRMalExRzVtdTA0dHdFQzVEZ2pKYWJqb0VTa1RXN0JCZ0g4SUhCaVNkYTRlSEt5eGdNR2Ywd3ZHSWpySS1XV1lncVlxbUNfLWR0SHJwSXkzNWtveE9PQ1FzV2g1VUpibE5BOVg4TnZKT1dGOG1teEwtV0I1ang4R2J2c3VnZzdUR3BtOWdzbmJiQUJjOFhkbDFYWUHSAb4BQVVfeXFMUDMzZlo0WUtoaFk2SWh4U1N3X2ZySzNNa2kzWWtBTTJabjVLUDltdjhJWGdVajVJV2NWZTJucjRYNWF6TFhKcjVwaGF0VmdnZlFucXNGcGZWNFRHVHFJc2MtdXVLVGxqX3VLNzlBSmRiWFk5RDA1VE5nRXVENm1ZYlgzdS1fS3VMRG5xN05HeHA5ZlZzWHhyWDRNQ0g3OVhxRWZPMHducWdvYURYRF9CaEp6eDUwNk5yMUxFbENYdw?oc=5)
-
-2026-04-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjIyOE5YZ1dnUlZGSGVxa3BrTHZpdEFoVVpleHloeTJKeWlEQnBLcjRMalExRzVtdTA0dHdFQzVEZ2pKYWJqb0VTa1RXN0JCZ0g4SUhCaVNkYTRlSEt5eGdNR2Ywd3ZHSWpySS1XV1lncVlxbUNfLWR0SHJwSXkzNWtveE9PQ1FzV2g1VUpibE5BOVg4TnZKT1dGOG1teEwtV0I1ang4R2J2c3VnZzdUR3BtOWdzbmJiQUJjOFhkbDFYWUHSAb4BQVVfeXFMUDMzZlo0WUtoaFk2SWh4U1N3X2ZySzNNa2kzWWtBTTJabjVLUDltdjhJWGdVajVJV2NWZTJucjRYNWF6TFhKcjVwaGF0VmdnZlFucXNGcGZWNFRHVHFJc2MtdXVLVGxqX3VLNzlBSmRiWFk5RDA1VE5nRXVENm1ZYlgzdS1fS3VMRG5xN05HeHA5ZlZzWHhyWDRNQ0g3OVhxRWZPMHducWdvYURYRF9CaEp6eDUwNk5yMUxFbENYdw?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/blinatumomab/
 
 ---
 
-### [La dieta cetogénica puede mejorar la función de las células beta en personas con diabetes tipo 2 - Diario de Navarra](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWpLbDVjQTRqX0ZUZ0hlWk9UcVJJN1FtRHdXTTJaNWpLR092LWRjZTN2WFJRVFhMY1JfUGxrWVpxUVY5UUtETGJQSUlWalVCUVlpcnNmeGxIZ0dTU3J3bV9ybV8xbWNXYzJQb3hST29XMGE5cDhTUGVmSXZubXFnOXBzS2tLVXN5bFpYUVRfZXVvQkFNQTduN25Vb2ZoYXRTU0l1NVRaV0NMUk9JZzg5NHR5dUk4UVJvOFN3UnBId3hHbTRHR1gxOExLOTlCd09ZWnBVblpSdkJMcEU?oc=5)
+### [La dieta cetogénica muestra mejoras en la función del páncreas en pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3YtVUJDcklUNUI1bGlsRnlYZXAyY1NIM1YtYi1IYmNxdlNPRUkwMVpLQ1U5QnNMMkdhdXRrd0RYclR2a1FLWkNSSE1YWVFXdXN6cm9VVXFNWXJfX2lpcU1ac1FKZjZiUjdtTkV0aEtEeGpXSnRKSDc3bWpPZVllZWFpZXlZdzNrN3lSRDJmalhnQ3lyVlg3eTBUM180dzBqcEVCZ0NnYmlqQnloZEdzbUVuNGlLa18tV2N0WmVuWUU2MlJhYnpMQXRCYjl1UUw1S3N3?oc=5)
 
 2026-04-22 <span class="news-indication-tag">diabetes</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWpLbDVjQTRqX0ZUZ0hlWk9UcVJJN1FtRHdXTTJaNWpLR092LWRjZTN2WFJRVFhMY1JfUGxrWVpxUVY5UUtETGJQSUlWalVCUVlpcnNmeGxIZ0dTU3J3bV9ybV8xbWNXYzJQb3hST29XMGE5cDhTUGVmSXZubXFnOXBzS2tLVXN5bFpYUVRfZXVvQkFNQTduN25Vb2ZoYXRTU0l1NVRaV0NMUk9JZzg5NHR5dUk4UVJvOFN3UnBId3hHbTRHR1gxOExLOTlCd09ZWnBVblpSdkJMcEU?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3YtVUJDcklUNUI1bGlsRnlYZXAyY1NIM1YtYi1IYmNxdlNPRUkwMVpLQ1U5QnNMMkdhdXRrd0RYclR2a1FLWkNSSE1YWVFXdXN6cm9VVXFNWXJfX2lpcU1ac1FKZjZiUjdtTkV0aEtEeGpXSnRKSDc3bWpPZVllZWFpZXlZdzNrN3lSRDJmalhnQ3lyVlg3eTBUM180dzBqcEVCZ0NnYmlqQnloZEdzbUVuNGlLa18tV2N0WmVuWUU2MlJhYnpMQXRCYjl1UUw1S3N3?oc=5)
 
 ---
 
@@ -123,14 +115,6 @@ permalink: /news/blinatumomab/
 2026-04-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFp6d1Z6akhzcnZ0dGxNR3J2bTZnMzI2dldwNEpyMVhyVWJQQU5wb3JrMzVCN2lWck84VHRGTDBWN0xqTThDeG45anhhSW0wczBELUNYemRkZVg3Y0hLWFhBWTZVTkkzbkxiRWNpejRUNWhuenVmaV96OXktWlZkTjNBVVZBYUUzTWExVVJvUFpCU21WZkZZ?oc=5)
-
----
-
-### [Multiculturalidad y diabetes - Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
-
-2026-04-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWkI1SV9SRWN6Q3JrcUN0aGtwbGFuTmREOF9Gb2M4X3FYTXJmYzcyM0dvSlY3ZXlKQ3RaWkZ3UjNhQkJBRTdiSmo1dExPT0JwV0NIdDBSbklRcktBZVBweGxMXzc1UQ?oc=5)
 
 ---
 

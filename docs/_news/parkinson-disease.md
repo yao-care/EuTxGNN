@@ -3,7 +3,7 @@ layout: default
 title: "maladie de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "maladie de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="maladie de Parkinson（parkinson disease） 有什麼相關新聞？">
-<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>maladie de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [« On devient prisonnier de son corps » : elle raconte son quotidien avec la maladie de Parkinson - Le Progrès](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVV4Q215QjVqR1lyMFF4cm5VVjEzUnhFMDlET3hXWkxaQ2lpcGFQSDkxaDltNjdSMEdlOWtYNHNGd29vbEw1UW5BMFc1UFlVNEtQRDhiZ01xWW9xZkxCd2ZRdTNoRk9OazgzZTVtV0FpTXdzQ1B4UE9mOXVqcGJVUkpRajVfR3U0MWs1X0I1YUdkSUxONFpINzF0M1BjZXpXMUE?oc=5)
 
@@ -50,14 +50,6 @@ permalink: /news/parkinson-disease/
 2026-04-21
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
-
----
-
-### [Hacer la letra muy pequeña, perder olfato... estos son los síntomas que anticipan el párkinson - El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
-
-2026-04-21
-
-來源：[El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Mikrobiom als Frühwarnsystem: Parkinson könnte sich Jahre vorher im Darm zeigen](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFBGS0l5R3NpUndpQkM1d1RqTUdSamYyNndQSmhyaUo1MXhaODVZR0ZCdGtjRFEwR3hmb3JIXzFDbEwxWWFQNVdKOV9IYVpDeXVQZkgwT051bng5anFyWHJVTUVrTjJicHlrQ1dtX3lNenRRM2NmVTg5Zkhuamw4ZEZsNlBYaFJzamNYV0k3Q08wdXgyUDJfRA?oc=5)
+### [La asociación de vacunología desmiente bulos sobre las vacunas: «Ni continen microchips ni causan autismo»](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXEwajhlOXJLeWdBbUZ0WExyY3VwMEJCcWl5ZHN5TjEyWEl4dDJFeXpPRWo2bUlRNFNqbVlxTWZ4Tm45cGhKS2xNS2c5cW5XSVpiakdzZEVTR2tuOTh6SmlkeDU3QWRCOVZiZENqMnA0VEhRWmQzQS1aWENobmJQZXM2TnJfdG9EQk80Z3lqUlhYMzJ5SlpNUklLWU1PSHkzTnl5cFdkbm5mSjB2MXd5UzBxVkxkWXB3dFIxWHVrLUctd1pSWFZDR9IBzgFBVV95cUxOMGpnYzNxQ2NmR0lVUDNrVTBmczFZU1ZyYWFKaFJtbDdxeGE0Zm9EbzlnSEI3M01fTTIyckU5cnNSZF9kWmZrWHhSSlI3TkZVUG05ejNsUmFGUmdkQ09SbEtXVzZNYXlGeV95SjVucWRqV1pqMHdBcVZ3ejBYb2dDUmtYdTZoM2p5X2luZjE4MkpFYnVmUy16WmN6cFBHLXdvZzFnZ3YzZHJOM3Jlby11elVnWWpBTTR5Ym8tN0E4dEM1ZEJDbWl3YXV6SkdrUQ?oc=5)
 
 2026-04-22 <span class="news-indication-tag">MS</span>
 
-來源：[NTV](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFBGS0l5R3NpUndpQkM1d1RqTUdSamYyNndQSmhyaUo1MXhaODVZR0ZCdGtjRFEwR3hmb3JIXzFDbEwxWWFQNVdKOV9IYVpDeXVQZkgwT051bng5anFyWHJVTUVrTjJicHlrQ1dtX3lNenRRM2NmVTg5Zkhuamw4ZEZsNlBYaFJzamNYV0k3Q08wdXgyUDJfRA?oc=5)
+來源：[diariovasco.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXEwajhlOXJLeWdBbUZ0WExyY3VwMEJCcWl5ZHN5TjEyWEl4dDJFeXpPRWo2bUlRNFNqbVlxTWZ4Tm45cGhKS2xNS2c5cW5XSVpiakdzZEVTR2tuOTh6SmlkeDU3QWRCOVZiZENqMnA0VEhRWmQzQS1aWENobmJQZXM2TnJfdG9EQk80Z3lqUlhYMzJ5SlpNUklLWU1PSHkzTnl5cFdkbm5mSjB2MXd5UzBxVkxkWXB3dFIxWHVrLUctd1pSWFZDR9IBzgFBVV95cUxOMGpnYzNxQ2NmR0lVUDNrVTBmczFZU1ZyYWFKaFJtbDdxeGE0Zm9EbzlnSEI3M01fTTIyckU5cnNSZF9kWmZrWHhSSlI3TkZVUG05ejNsUmFGUmdkQ09SbEtXVzZNYXlGeV95SjVucWRqV1pqMHdBcVZ3ejBYb2dDUmtYdTZoM2p5X2luZjE4MkpFYnVmUy16WmN6cFBHLXdvZzFnZ3YzZHJOM3Jlby11elVnWWpBTTR5Ym8tN0E4dEM1ZEJDbWl3YXV6SkdrUQ?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/rotigotine/
 2026-04-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDAtUlp3ZzJDTEpRbFBfVUlFWkdITzVNYmowLU5xUGNXaFM5RFU4d3I1VFBuOEtmdnc1R3AySmlXZkpPdjN0Qk1KMVV5ejQzWFBoV0FLM3FRTGl5cG5fWTVrNmFTM0VWdE5OWXZRR1dadjc3YmV2MlBUM1QyNW5rODVDVkxUWDhiaDhqd3pR0gGTAUFVX3lxTE5rT1RoUjlEeFZKUXVTbk4zUW42ekdQdGU0Smh1eEZQRFhxeE1PWGJLYWtBODFhT2toOHVYUEFjbjRTNnVwNzA0T1dRa2laRThCVFk0NU1ocWFkV0RHd0NHa1F1a0ZTZ2VTbHl1di1zc0dQWExyMVZuVnljRVYxdzZzLTJUSV84VzZLTk1DZnFwMkp5Yw?oc=5)
+
+---
+
+### [Parkinson-Erkrankung dürfte sich im Mikrobiom des Darms ankündigen - Der Standard](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhtMVZXZl91S3JhSDdMQ005OFRqay0xMnkxOExYTTRBdDhDOUFRbnpuWUJ4QmNwalFlQVpkVGQxYVk5b181X1Q0YmRoVlVXTHlHcnFVbE41WmZocVBpMkhQR1ZWcWJkUTQ0SDhSMnhFOFVOT0N0elpOamota0RjeFhPbEpSV3FWY0pLVmJqN3BTdUc3NzJnTS0xbGR5R0Y3MkdmZUE1bE91X2VpY2VsM1Z0R3VPUQ?oc=5)
+
+2026-04-21 <span class="news-indication-tag">MS</span>
+
+來源：[Der Standard](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhtMVZXZl91S3JhSDdMQ005OFRqay0xMnkxOExYTTRBdDhDOUFRbnpuWUJ4QmNwalFlQVpkVGQxYVk5b181X1Q0YmRoVlVXTHlHcnFVbE41WmZocVBpMkhQR1ZWcWJkUTQ0SDhSMnhFOFVOT0N0elpOamota0RjeFhPbEpSV3FWY0pLVmJqN3BTdUc3NzJnTS0xbGR5R0Y3MkdmZUE1bE91X2VpY2VsM1Z0R3VPUQ?oc=5)
 
 ---
 

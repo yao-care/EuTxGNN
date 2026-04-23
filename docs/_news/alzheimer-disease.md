@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### ['If that was my partner, I'd be gone,' nurse tells woman after husband's dementia diagnosis at 39 - Belfast Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDAtUlp3ZzJDTEpRbFBfVUlFWkdITzVNYmowLU5xUGNXaFM5RFU4d3I1VFBuOEtmdnc1R3AySmlXZkpPdjN0Qk1KMVV5ejQzWFBoV0FLM3FRTGl5cG5fWTVrNmFTM0VWdE5OWXZRR1dadjc3YmV2MlBUM1QyNW5rODVDVkxUWDhiaDhqd3pR0gGTAUFVX3lxTE5rT1RoUjlEeFZKUXVTbk4zUW42ekdQdGU0Smh1eEZQRFhxeE1PWGJLYWtBODFhT2toOHVYUEFjbjRTNnVwNzA0T1dRa2laRThCVFk0NU1ocWFkV0RHd0NHa1F1a0ZTZ2VTbHl1di1zc0dQWExyMVZuVnljRVYxdzZzLTJUSV84VzZLTk1DZnFwMkp5Yw?oc=5)
 
 2026-04-21
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDAtUlp3ZzJDTEpRbFBfVUlFWkdITzVNYmowLU5xUGNXaFM5RFU4d3I1VFBuOEtmdnc1R3AySmlXZkpPdjN0Qk1KMVV5ejQzWFBoV0FLM3FRTGl5cG5fWTVrNmFTM0VWdE5OWXZRR1dadjc3YmV2MlBUM1QyNW5rODVDVkxUWDhiaDhqd3pR0gGTAUFVX3lxTE5rT1RoUjlEeFZKUXVTbk4zUW42ekdQdGU0Smh1eEZQRFhxeE1PWGJLYWtBODFhT2toOHVYUEFjbjRTNnVwNzA0T1dRa2laRThCVFk0NU1ocWFkV0RHd0NHa1F1a0ZTZ2VTbHl1di1zc0dQWExyMVZuVnljRVYxdzZzLTJUSV84VzZLTk1DZnFwMkp5Yw?oc=5)
-
----
-
-### [Midlife Hobbies Outperform Genetic Alzheimer’s Risk - Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm9CNlZ1aUlJR1JjWXpsOElyaGF6di0yVEdTUW42VmRBakhMdktMa2NYMU14SENlN0lYN1JuWldJZHNpQVBWUVo4c241WV81TFlpMDlBVGt0SGhmQVBYcE54bkVvNFBjTTlnLWFCV2VNaGc0QnU0QmdjVVR5T2cwWTZ3?oc=5)
-
-2026-04-21
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm9CNlZ1aUlJR1JjWXpsOElyaGF6di0yVEdTUW42VmRBakhMdktMa2NYMU14SENlN0lYN1JuWldJZHNpQVBWUVo4c241WV81TFlpMDlBVGt0SGhmQVBYcE54bkVvNFBjTTlnLWFCV2VNaGc0QnU0QmdjVVR5T2cwWTZ3?oc=5)
 
 ---
 

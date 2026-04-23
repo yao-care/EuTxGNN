@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [« On devient prisonnier de son corps » : elle raconte son quotidien avec la maladie de Parkinson - Le Progrès](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVV4Q215QjVqR1lyMFF4cm5VVjEzUnhFMDlET3hXWkxaQ2lpcGFQSDkxaDltNjdSMEdlOWtYNHNGd29vbEw1UW5BMFc1UFlVNEtQRDhiZ01xWW9xZkxCd2ZRdTNoRk9OazgzZTVtV0FpTXdzQ1B4UE9mOXVqcGJVUkpRajVfR3U0MWs1X0I1YUdkSUxONFpINzF0M1BjZXpXMUE?oc=5)
 
@@ -70,27 +70,11 @@ permalink: /news/opicapone/
 
 ---
 
-### [Midlife Hobbies Outperform Genetic Alzheimer’s Risk - Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm9CNlZ1aUlJR1JjWXpsOElyaGF6di0yVEdTUW42VmRBakhMdktMa2NYMU14SENlN0lYN1JuWldJZHNpQVBWUVo4c241WV81TFlpMDlBVGt0SGhmQVBYcE54bkVvNFBjTTlnLWFCV2VNaGc0QnU0QmdjVVR5T2cwWTZ3?oc=5)
-
-2026-04-21 <span class="news-indication-tag">dementia</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdm9CNlZ1aUlJR1JjWXpsOElyaGF6di0yVEdTUW42VmRBakhMdktMa2NYMU14SENlN0lYN1JuWldJZHNpQVBWUVo4c241WV81TFlpMDlBVGt0SGhmQVBYcE54bkVvNFBjTTlnLWFCV2VNaGc0QnU0QmdjVVR5T2cwWTZ3?oc=5)
-
----
-
 ### [Parkinson : la clé du diagnostic précoce se cacherait dans nos intestins - Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
 
 2026-04-21 <span class="news-indication-tag">maladie de Parkinson</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZWekliOE9xUVFwVXJvSnQ1RW92Vk1VYzBpcVBYdThXSUdqOGtkYl9wMlE2a0luZlVXRUpQa1FoNnJMWmg3blVKMW4zTHZzVTRWRGRWZzY3Q21YUWp1NFFmYU8ydi05RmRPeVllQ2pUbTRTTHpVcUc0Z3NxajFMT0hBampOa21SV3pfTy1WWjEzSm9QMHE3OE5adUZNWkt2S0thYkw2dVJ1SmpPN25pMDhGUmY?oc=5)
-
----
-
-### [Hacer la letra muy pequeña, perder olfato... estos son los síntomas que anticipan el párkinson - El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
-
-2026-04-21 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Correo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDJpNWVreWkyVnBTS0lkcEk3S19IMlBuWmdvSFF0TFdmQ3JSLUhRcWVVOWU4QjkyMVhlT1luN0Vsb3NVMjY0NTJSZVRtTUNhSS0xcVIwa3pqNE9Xdm5iajlCS0lMd3VVSlRTcnQ1a3VkZ3l0cG95VU81OFJfVzEtYWcwaFBOa0M3MkJEMUh0ZksweDlocGVWOWtvVjY4T21WbWdXY0QtbUFFRDlZRU1XdExUUG9fRU9aaXfSAb8BQVVfeXFMUFlyeEctclA4WTlxajJwQ3ptc2M0dXBMVUtRYXZZVFR6b3E5VXV5TUNaaWh3S0dnR0xzOWs1QndzRlh6VGtMdFdkY2ZINEFVNzVWQVVZYkRZd1F0QVNxd0J1dEo5UkxoLXJZSC0wcW12VWRrbDJ2Q2RDc09nYTduRGlzTU1lSklmMThpWW41aXdfUWhWdmlvbzhjS2hOM1U4eEpKU2p3WUZqZEVKcF9HZGJqUHl4RGo4VEVPZFRoT0U?oc=5)
 
 ---
 
