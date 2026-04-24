@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Dementia warning sign that could appear in front of the TV - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
+
+2026-04-23
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
+
+---
 
 ### [Scientists discover why some brains resist Alzheimer’s decline](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTZRVWRuOXdzSUNWTHdBLWNqMGg1MnlsYjJQNzFvTXZ4OHlnUzZhLXhHQndYMDhxTXlJUVB2RVJTSGlHUy1OU081Z2xBbWxCUWwyX3dVS2hNQUs5VVdUUHUzNjdrYWtLVmo5S1RVY3kyQVpTT2l5SnJaZFFfbFI4VGt1OGZDSHA2U01ib1NycHN5REU?oc=5)
 

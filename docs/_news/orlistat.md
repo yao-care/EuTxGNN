@@ -54,11 +54,19 @@ permalink: /news/orlistat/
 
 ## 相關新聞（6 則）
 
-### [People judge weight loss more harshly when GLP-1 drugs are involved, study finds](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1JLZ1liaEJ0RWV1UUJXUmxJQ1UydVIydkpZXzlnYWxxckFwdjZ0SnZnb3ZQSE5idWJ3WDhGNzgyR0c4NTg2ZC1PR0twU2xNYW85d2hvSXZjS2pFNms2ejJGOGxLV2E1aHF5RHB4RjZyLXBvdXhyZGFfb1NLUUREWldXcmh0OWI5N3M5MG5fRVlqczRMSzZTQzZYTG13OW1fZEVaU1JKaDhzSXZGbXpYYTBlaHRYcHJyQnNFLS1jNDJZZ19fWWc?oc=5)
+### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
-2026-04-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
+2026-04-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[News-Medical](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1JLZ1liaEJ0RWV1UUJXUmxJQ1UydVIydkpZXzlnYWxxckFwdjZ0SnZnb3ZQSE5idWJ3WDhGNzgyR0c4NTg2ZC1PR0twU2xNYW85d2hvSXZjS2pFNms2ejJGOGxLV2E1aHF5RHB4RjZyLXBvdXhyZGFfb1NLUUREWldXcmh0OWI5N3M5MG5fRVlqczRMSzZTQzZYTG13OW1fZEVaU1JKaDhzSXZGbXpYYTBlaHRYcHJyQnNFLS1jNDJZZ19fWWc?oc=5)
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
+
+---
+
+### [GMRx2: Neue Hoffnung für Schlaganfallpatienten - it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
+
+2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/orlistat/
 2026-04-23 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[DiePresse.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNHIwS0Z0Z0JCNlNaZmFSa2JNbnpZd2U0UFdhLUtyNHE3a0pVTFdSblpOX082NzdOd2p5NW5UaXkyR3dwMVRtS2QzR091a3lDMWd5Y2xkMFpGZFpjYWFicDlFWXlkSzFMNnZpMThDVmRJMV9IVE5aVlF4ajF1WG8?oc=5)
-
----
-
-### [Científicos recuerdan que la obesidad en gatos debe considerarse un trastorno metabólico complejo y multifactorial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUZ2Tk1JU05pQWY5WFo5Q1dQdkhWMk1yWnBHRmJzSUtVMnVzOFpTTTF1Q1ZjbGs1RnJXYkdEcWZQd3lBX2pHZVVKa0FFTU8wa281VUtIdEFrWjFTdUZEMFg5S1JBWllqWjJrTW1lcWg2XzlLT2R5STJiMU9KajBicUpHb2U3d3psNnFBUnRnWFk5d2ozQWVtUWNsYmNqRU9neUItTUEyRDRhY0ZQQ3VkRFJZaGFNYURSWVZQYnhoYzljeE05LUlxVzU4M3lxN084RXNOSnFzQnhXZw?oc=5)
-
-2026-04-22 <span class="news-indication-tag">obesidad</span>
-
-來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUZ2Tk1JU05pQWY5WFo5Q1dQdkhWMk1yWnBHRmJzSUtVMnVzOFpTTTF1Q1ZjbGs1RnJXYkdEcWZQd3lBX2pHZVVKa0FFTU8wa281VUtIdEFrWjFTdUZEMFg5S1JBWllqWjJrTW1lcWg2XzlLT2R5STJiMU9KajBicUpHb2U3d3psNnFBUnRnWFk5d2ozQWVtUWNsYmNqRU9neUItTUEyRDRhY0ZQQ3VkRFJZaGFNYURSWVZQYnhoYzljeE05LUlxVzU4M3lxN084RXNOSnFzQnhXZw?oc=5)
 
 ---
 

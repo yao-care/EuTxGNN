@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Chiens et chats : ces symptômes sont ceux de l'hypertension](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVTFjaFU4RlRlSGJzTWVzRWJEWEJkV3BPWDFETzJvOG95c2hEd0Q2UF9QcnNXRkstaDRyU1RJTkRXb2owSzNnY3phT1JmaUtIS29rcTdrNl9tSjBnVkk4ZDZuZkNGTUE1MndlT21tQUU1UWc?oc=5)
+
+2026-04-24 <span class="news-indication-tag">hypertension</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVTFjaFU4RlRlSGJzTWVzRWJEWEJkV3BPWDFETzJvOG95c2hEd0Q2UF9QcnNXRkstaDRyU1RJTkRXb2owSzNnY3phT1JmaUtIS29rcTdrNl9tSjBnVkk4ZDZuZkNGTUE1MndlT21tQUU1UWc?oc=5)
+
+---
+
+### [GMRx2: Neue Hoffnung für Schlaganfallpatienten - it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
+
+2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
+
+---
 
 ### [Riprendersi dall'ictus: i risultati di uno studio al Centro Cardinal Ferrari e al Maggiore - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORnM1N2VWYU8xeGhWdG1OVHl5MjZMLW4xZnFfa1RUcldaYVBrUHg5WVczX09yQzNSYzlCdzdBTXVrcmhwTU9mVHd4NVdsNGpzZUpqakxfeGY0RWNwUWFQWWp3RmxoSVRKQ0lIdEZZeEFtYzQwVW5aNHh3NkE5OVdiNUVESGhFXzA2Wi1GQkJGMTFvVHdhRnl4d2NPQWZhS0dmSTZZQkJVSDctMnVjdUVqYkxhMS15QzZkZzBCMTRoTHRYalBmd3p6S2YzY0dfSkxhZ3NheVBqWkRLUDBzcExIbGNRRjVaQQ?oc=5)
 

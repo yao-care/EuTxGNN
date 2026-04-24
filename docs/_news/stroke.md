@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [GMRx2: Neue Hoffnung für Schlaganfallpatienten - it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
+
+2026-04-24
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
+
+---
 
 ### [Riprendersi dall'ictus: i risultati di uno studio al Centro Cardinal Ferrari e al Maggiore - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORnM1N2VWYU8xeGhWdG1OVHl5MjZMLW4xZnFfa1RUcldaYVBrUHg5WVczX09yQzNSYzlCdzdBTXVrcmhwTU9mVHd4NVdsNGpzZUpqakxfeGY0RWNwUWFQWWp3RmxoSVRKQ0lIdEZZeEFtYzQwVW5aNHh3NkE5OVdiNUVESGhFXzA2Wi1GQkJGMTFvVHdhRnl4d2NPQWZhS0dmSTZZQkJVSDctMnVjdUVqYkxhMS15QzZkZzBCMTRoTHRYalBmd3p6S2YzY0dfSkxhZ3NheVBqWkRLUDBzcExIbGNRRjVaQQ?oc=5)
 

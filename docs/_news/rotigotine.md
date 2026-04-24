@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（11 則）
 
-### [OMS, UNICEF y Gavi recuperan la vacunación de 18,3 millones de niños tras la Covid-19](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDFPclFPd29wckY0V1owQmxLZW0zZ0tvTFJ5eFdkOTE4ajBfV21pNkZuOVlCcjc0Vm1RbGVETWNlZFNldnhDRXpVSTNsS0NCazl6Z05XVWxFT0xIS3BJOGpDU21rUGVJaWliSUpHU3p1NE1FeGNfWThRVUdTWmUtOXkwSzRrelZRWVNYUlJoUUJCSGJmbkFCa0NzTU13Z0dpRlpxNFIzMlZrNW4zQ3RrWC1aeDllaDljb2fSAb8BQVVfeXFMTWljOUdRdGxtNERVVEFQX0txeElTYnhlTXVldl82eWlHNC04b1hOQkVlUV8yOFVaOGNYaGwxbXVidngtYVV0ZWxwdlZZQVYwRjFEcnFUNjhSaWpCcUtBZ21xX3dLZDFES216blpBT1RrZnRXeUMzSWVFZmZKbVZoS08xNnpONkcyZ0NhTXpwNjB5anVoQmdlOWItOVZ1QVdKbnFFMi1ncTZneFBqQUZDRTUtSVF6emlUVlZwZFJlNFk?oc=5)
+### [La campaña para poner al día la vacunación infantil va por buen camino, dice la ONU - France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
 
 2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDFPclFPd29wckY0V1owQmxLZW0zZ0tvTFJ5eFdkOTE4ajBfV21pNkZuOVlCcjc0Vm1RbGVETWNlZFNldnhDRXpVSTNsS0NCazl6Z05XVWxFT0xIS3BJOGpDU21rUGVJaWliSUpHU3p1NE1FeGNfWThRVUdTWmUtOXkwSzRrelZRWVNYUlJoUUJCSGJmbkFCa0NzTU13Z0dpRlpxNFIzMlZrNW4zQ3RrWC1aeDllaDljb2fSAb8BQVVfeXFMTWljOUdRdGxtNERVVEFQX0txeElTYnhlTXVldl82eWlHNC04b1hOQkVlUV8yOFVaOGNYaGwxbXVidngtYVV0ZWxwdlZZQVYwRjFEcnFUNjhSaWpCcUtBZ21xX3dLZDFES216blpBT1RrZnRXeUMzSWVFZmZKbVZoS08xNnpONkcyZ0NhTXpwNjB5anVoQmdlOWItOVZ1QVdKbnFFMi1ncTZneFBqQUZDRTUtSVF6emlUVlZwZFJlNFk?oc=5)
+來源：[France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
+
+---
+
+### [Los pacientes proponen a la OMS la institucionalización del 10 de junio como el Día Mundial del Cáncer Metastásico](https://news.google.com/rss/articles/CBMigAJBVV95cUxNZE1pdWlUbG9Zd25ybHZjcXo2T242cE1XSVBDLWljdkh3Z3VldG11LTdNZDJpZllzdC1nNHJKYXZPb2ljTmtIUS13N1MyOW4tTWZjWk5SaVhjTXZkODFBN2dET3pKLUVPcVoyci1sa0FISnBsTjNpaFlCQ1ZHUG5nZlBRWFROOTFKOW40a0JUU0VMMWJjRWVXTllrSG1tZ21CazVDZ1Z0Y0dSRUxqZlhBWmd6OUkwaWxCNF9ZT2ZWNzlLWGFKUGpickFtYlBoZGxidGtLaXJidk5VSERYaFJxbFcwdVVRMFpIWXB0MkIybXNnR21naTF3WERCMEMtWkhm?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span>
+
+來源：[astrazeneca.es](https://news.google.com/rss/articles/CBMigAJBVV95cUxNZE1pdWlUbG9Zd25ybHZjcXo2T242cE1XSVBDLWljdkh3Z3VldG11LTdNZDJpZllzdC1nNHJKYXZPb2ljTmtIUS13N1MyOW4tTWZjWk5SaVhjTXZkODFBN2dET3pKLUVPcVoyci1sa0FISnBsTjNpaFlCQ1ZHUG5nZlBRWFROOTFKOW40a0JUU0VMMWJjRWVXTllrSG1tZ21CazVDZ1Z0Y0dSRUxqZlhBWmd6OUkwaWxCNF9ZT2ZWNzlLWGFKUGpickFtYlBoZGxidGtLaXJidk5VSERYaFJxbFcwdVVRMFpIWXB0MkIybXNnR21naTF3WERCMEMtWkhm?oc=5)
+
+---
+
+### [Rougeole : les cas augmentent dans les pays d’Amérique du Nord, où cette maladie mortelle avait quasiment disparu - Le Monde.fr](https://news.google.com/rss/articles/CBMijAJBVV95cUxORTI0ZzNzZjZOVEF3bGc3RHFXY3J6S1VtbF82WElfQmlvTjNzdXdOQy1GR3lFS2lpUzJBNnlTVldmak5wd3A1ZERpZEpFaE82ZmZxNHBjN0ZDY0s5WG5aZWdfcUdnUUUzQ2NtYWxZalNMV1Qtc0ZYa2Zpa19TcWg4UkNidXVDS1VNUTh5TVdMTkhiU0lRUzNPVkNpVGtxWTNNQWZPUnZoTzNvajRWREkyNmJZUktRUnh3R1BrUDRnX3ZVcFdzMzBLeWw3bU9KMWljaFBJbXlENkVsalBVZzRIMmVSQVU4VEdHUHlUYlNRbzZpV3lvVmsxd213WkN5dmxtNUR2OXVDLVYwUERP?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMijAJBVV95cUxORTI0ZzNzZjZOVEF3bGc3RHFXY3J6S1VtbF82WElfQmlvTjNzdXdOQy1GR3lFS2lpUzJBNnlTVldmak5wd3A1ZERpZEpFaE82ZmZxNHBjN0ZDY0s5WG5aZWdfcUdnUUUzQ2NtYWxZalNMV1Qtc0ZYa2Zpa19TcWg4UkNidXVDS1VNUTh5TVdMTkhiU0lRUzNPVkNpVGtxWTNNQWZPUnZoTzNvajRWREkyNmJZUktRUnh3R1BrUDRnX3ZVcFdzMzBLeWw3bU9KMWljaFBJbXlENkVsalBVZzRIMmVSQVU4VEdHUHlUYlNRbzZpV3lvVmsxd213WkN5dmxtNUR2OXVDLVYwUERP?oc=5)
+
+---
+
+### [Woman with MS 'spat at' for using Blue Badge](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRdndNYnF0TlFMdzdvY1ZnNnZWXzFzRWtnb28zY19DZGo2WERTZmdDTXRId2tIOFV5MkFKYnctcHRuSDhnSFRIeFNZR1RscWs0Yy15R2p6NnpyeDRO?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRdndNYnF0TlFMdzdvY1ZnNnZWXzFzRWtnb28zY19DZGo2WERTZmdDTXRId2tIOFV5MkFKYnctcHRuSDhnSFRIeFNZR1RscWs0Yy15R2p6NnpyeDRO?oc=5)
+
+---
+
+### [José Abellán, cardiólogo: «Controlando estos tres factores mejoras tu alimentación y disminuyes el riesgo de sufrir una enfermedad del corazón»](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVVkaUZEN3VxOHNmY21XSEhnMk1wdGlOTGlsa291Q2N4UktwT2ZoenUtX2NmZ0tid2lyblAybkw4a0E4M2tZb0V5bC1td21vTFBIUlVrMXI3cU1raE1GU3o0RWJDaWRteTUzUFJib1NtN0tUZS1TOHMtOGNHeEJjNFhPZTMxYktJUU04aWpTc3pqVWRVS0F2MkpaYXp4NjBfVXlFWnZDSjVwbHhXTktBS2pLc1dMZHVGZl9ISzVB0gHDAUFVX3lxTE0wZ1RnR1hmT1JxeHNrMzhwUTlLSHRDMHR1VXhnckFELXc5U1o4UHBEQnBTZVp5MXBYSDRab1VrUDdJRnJ4THo5eDRlRm93ZVhZdV9qaVVZbDNtQ09DMEdtWjFQVjlVVUdSZ3o2OWhSNlhVMTM0b3ljNjRkcjhOb2NzM1JsakwyS1hTOTZ1MUdVUkxwdVIyRHNWbVRaOWIxTXphamFYQWdVVkE0MWZtcmZkbFZnSElyVzBMb3pNSVFicDZaNA?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVVkaUZEN3VxOHNmY21XSEhnMk1wdGlOTGlsa291Q2N4UktwT2ZoenUtX2NmZ0tid2lyblAybkw4a0E4M2tZb0V5bC1td21vTFBIUlVrMXI3cU1raE1GU3o0RWJDaWRteTUzUFJib1NtN0tUZS1TOHMtOGNHeEJjNFhPZTMxYktJUU04aWpTc3pqVWRVS0F2MkpaYXp4NjBfVXlFWnZDSjVwbHhXTktBS2pLc1dMZHVGZl9ISzVB0gHDAUFVX3lxTE0wZ1RnR1hmT1JxeHNrMzhwUTlLSHRDMHR1VXhnckFELXc5U1o4UHBEQnBTZVp5MXBYSDRab1VrUDdJRnJ4THo5eDRlRm93ZVhZdV9qaVVZbDNtQ09DMEdtWjFQVjlVVUdSZ3o2OWhSNlhVMTM0b3ljNjRkcjhOb2NzM1JsakwyS1hTOTZ1MUdVUkxwdVIyRHNWbVRaOWIxTXphamFYQWdVVkE0MWZtcmZkbFZnSElyVzBMb3pNSVFicDZaNA?oc=5)
 
 ---
 
@@ -75,6 +107,14 @@ permalink: /news/rotigotine/
 2026-04-23 <span class="news-indication-tag">MS</span>
 
 來源：[FITBOOK](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWWlBEWmFCRzh0eFg2NVlSVUdtbG10ZnFtX2l4SUJKSXBNVXZCX2dkSGRpeXA5U0FpWksxbmptNWdELUo3bHZteFFtbV9QZ05GUUpqYUtfMkEteWFMNDFZSFpUZ0tVZw?oc=5)
+
+---
+
+### [Novartis refuerza su apuesta por la innovación en el tratamiento de la esclerosis múltiple](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEcyYWNNS05kdEJKaWpVN2t6a0dFdVhrMUlOMTV6bVlsOGdNblloNlhNdHcwbmh4OEJUQU9sX3Bzdk53QWFkZTFqOFVCMEZDY29ydmRRN1p3MWNuclNfbElYTUo3N0R3Rk9iZVRQbHlZd081aXNmZGg2bzhtZWktWkVXOTk4RnRsTmVyTVZsd1FQeEw3S1ZpZVoyR1RaS3hjVUJrMFN0UERfbWswVG5xOV9FYkVpTC1HclE?oc=5)
+
+2026-04-23 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[pharmatech.es](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEcyYWNNS05kdEJKaWpVN2t6a0dFdVhrMUlOMTV6bVlsOGdNblloNlhNdHcwbmh4OEJUQU9sX3Bzdk53QWFkZTFqOFVCMEZDY29ydmRRN1p3MWNuclNfbElYTUo3N0R3Rk9iZVRQbHlZd081aXNmZGg2bzhtZWktWkVXOTk4RnRsTmVyTVZsd1FQeEw3S1ZpZVoyR1RaS3hjVUJrMFN0UERfbWswVG5xOV9FYkVpTC1HclE?oc=5)
 
 ---
 
@@ -99,14 +139,6 @@ permalink: /news/rotigotine/
 2026-04-22 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTZRVWRuOXdzSUNWTHdBLWNqMGg1MnlsYjJQNzFvTXZ4OHlnUzZhLXhHQndYMDhxTXlJUVB2RVJTSGlHUy1OU081Z2xBbWxCUWwyX3dVS2hNQUs5VVdUUHUzNjdrYWtLVmo5S1RVY3kyQVpTT2l5SnJaZFFfbFI4VGt1OGZDSHA2U01ib1NycHN5REU?oc=5)
-
----
-
-### [BBC doctor says 'don't ignore' waking up in the morning with a 'pain in the leg' - Liverpool Echo](https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2djSDFkdF82UnFGNlJKdjZZeTZsNlU1RlU1T2hiVmlHWjkzWmN2YjJ4RW1oWlM2cS1ST3lYOXBham8zUXNZWXg3MzZ2alRCSGtZb0pUSVh4VzdLU3R6MmUxdnhsX1VHU0VYNUVQS0dqbHZpOGpfbFVucHNxZnc1UHU1Z295VWs?oc=5)
-
-2026-04-22 <span class="news-indication-tag">MS</span>
-
-來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMihwFBVV95cUxPR2djSDFkdF82UnFGNlJKdjZZeTZsNlU1RlU1T2hiVmlHWjkzWmN2YjJ4RW1oWlM2cS1ST3lYOXBham8zUXNZWXg3MzZ2alRCSGtZb0pUSVh4VzdLU3R6MmUxdnhsX1VHU0VYNUVQS0dqbHZpOGpfbFVucHNxZnc1UHU1Z295VWs?oc=5)
 
 ---
 

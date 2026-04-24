@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Chiens et chats : ces symptômes sont ceux de l'hypertension](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVTFjaFU4RlRlSGJzTWVzRWJEWEJkV3BPWDFETzJvOG95c2hEd0Q2UF9QcnNXRkstaDRyU1RJTkRXb2owSzNnY3phT1JmaUtIS29rcTdrNl9tSjBnVkk4ZDZuZkNGTUE1MndlT21tQUU1UWc?oc=5)
+
+2026-04-24 <span class="news-indication-tag">hypertension</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVTFjaFU4RlRlSGJzTWVzRWJEWEJkV3BPWDFETzJvOG95c2hEd0Q2UF9QcnNXRkstaDRyU1RJTkRXb2owSzNnY3phT1JmaUtIS29rcTdrNl9tSjBnVkk4ZDZuZkNGTUE1MndlT21tQUU1UWc?oc=5)
+
+---
 
 ### [Giornata spondiloartrite assiale, Apmarr promuove 'Conoscere per riconoscere' - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
 

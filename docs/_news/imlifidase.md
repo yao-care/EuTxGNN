@@ -14,7 +14,7 @@ permalink: /news/imlifidase/
 ---
 
 <p class="key-answer" data-question="Imlifidase 有什麼相關新聞？">
-<strong>Imlifidase</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Imlifidase</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,69 @@ permalink: /news/imlifidase/
 <p><a href="{{ '/drugs/imlifidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
 
-### [Nicht jeder profitiert: Diabetes Risiko trotz langfristigen Gewichtsverlusts - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVF9RcWRJYWt5ajZwdGdMRWIzSUZwbW9nak1NR1dFMVNDd1c5OWhwVTZSMi0xOUMxVHhmdGxiWkhoNHRpREhybDVYcw?oc=5)
-
-2026-04-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVF9RcWRJYWt5ajZwdGdMRWIzSUZwbW9nak1NR1dFMVNDd1c5OWhwVTZSMi0xOUMxVHhmdGxiWkhoNHRpREhybDVYcw?oc=5)
-
----
-
-### [Nicht für jeden ein Schutz: Studie enthüllt, wann Vitamin D gegen Diabetes hilft](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHBZTVBGY2xNQV9NSTlHRXdxbnByQ1p1alRYVTFEQXVpSW0yNFQwY00zalFWanZLSDJBc2I3YW9kcEdQVFJrMmFoQmtvUU1RNHlJYVBJdUk1cXhidEFLX1c4bU9uOGxnZk90T2NyOHM3TTFESlNFZkx1Vi11WEhNMy1nYXl3bHpPUjBiM0wydzk0QjJ6MDI2QWxoaUUzZFNPOG9hTGlqbkRsRXBHOHNV?oc=5)
+### [Vitamin D gegen Typ-2-Diabetes-Risiko: Warum es nur so selten wirkt](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWJuSnI5LXpNR1k2Q2l2MEpkR1hiYjVpdkhlN2hlNTAtUFExd214XzREMVFTaUE5OFVwa3JvTmRYRlRiMFN5ZC1IazQ3NnRwUDhvQmJqTElpbi13QVpmTzg2QlVoVm9qQU0zNUZxS29pTWdGLWkweENmTERqTnZ1T2RvQkdFdnVkTzBqUHVMN05wVldST21pM2VhcDExNS1rT3VGQUVYMlFUR0ktUTBSTkxuV0pFLXh5aXfSAb8BQVVfeXFMTjlJaktySk9HR3Q1bXU3MUxSZjcxVkIzUlpnVGY1M1ZxajVzWG9BLXhSdTgydVVIM25OZ2RQbkM3VWtySEdqQkh6b25KYlpvNkJJX1pSZ1IwUGtmZF9DS2Q2VlVWdjZIdGsxMUFFRWhTNlZZOGlwdFZOdWwtSE1icTJWQ3JPb2ppNnN4TFdXQ0E2YXotc2kyRzEzLV9hcUJIc0FOczdnUU5xWlRKUXJQWWpIYUtfOVJabWdsYjFvUzQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHBZTVBGY2xNQV9NSTlHRXdxbnByQ1p1alRYVTFEQXVpSW0yNFQwY00zalFWanZLSDJBc2I3YW9kcEdQVFJrMmFoQmtvUU1RNHlJYVBJdUk1cXhidEFLX1c4bU9uOGxnZk90T2NyOHM3TTFESlNFZkx1Vi11WEhNMy1nYXl3bHpPUjBiM0wydzk0QjJ6MDI2QWxoaUUzZFNPOG9hTGlqbkRsRXBHOHNV?oc=5)
+來源：[MDR](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWJuSnI5LXpNR1k2Q2l2MEpkR1hiYjVpdkhlN2hlNTAtUFExd214XzREMVFTaUE5OFVwa3JvTmRYRlRiMFN5ZC1IazQ3NnRwUDhvQmJqTElpbi13QVpmTzg2QlVoVm9qQU0zNUZxS29pTWdGLWkweENmTERqTnZ1T2RvQkdFdnVkTzBqUHVMN05wVldST21pM2VhcDExNS1rT3VGQUVYMlFUR0ktUTBSTkxuV0pFLXh5aXfSAb8BQVVfeXFMTjlJaktySk9HR3Q1bXU3MUxSZjcxVkIzUlpnVGY1M1ZxajVzWG9BLXhSdTgydVVIM25OZ2RQbkM3VWtySEdqQkh6b25KYlpvNkJJX1pSZ1IwUGtmZF9DS2Q2VlVWdjZIdGsxMUFFRWhTNlZZOGlwdFZOdWwtSE1icTJWQ3JPb2ppNnN4TFdXQ0E2YXotc2kyRzEzLV9hcUJIc0FOczdnUU5xWlRKUXJQWWpIYUtfOVJabWdsYjFvUzQ?oc=5)
 
 ---
 
-### [Diabete di tipo 1, all’ospedale Papa Giovanni somministrato il farmaco che ne ritarda l’insorgenza - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGNKRDNQWkhVOVh3YWp5U2M2YmY0LUxUSWVXTVVQMjA1aXVhWkxidVloazJRT2g5U0o0ckhUNGVHV1VZa01TUC1WeGxkQ1NSRUNLX25zbExEY2FfSTlLZ2F1TVRQeWx3dmQ0OW5wNlhsUG51c2tld09kTHVxQXJqWlIwWWRjSGhtVHZVRWRtZFJ5YWg4WE4ydkFINkZ0ZjU3SE8zOS11LVlpdUlJUlpGRW9POHB5YzhzTzVlWWFEOGg3cnhrdVh6QUFGd01SUW1JZEpKWjRWX2RFcEd3QXc?oc=5)
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
+
+---
+
+### [Nicht jeder profitiert: Diabetes Risiko trotz langfristigen Gewichtsverlusts - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVlTbGlpaEZJU3duNjZ2N0FETGUtTUZQQzhWTEFQbll6MXp4N3RHbFJjRm51blZlVzJjQVZiUHV2ckhjTnFjMXF3cHhKWVVITXJfVlBiRFdxb1dVc2EwREYwN0VzMXVQLWNIWGR6VHdfbFR3Vk0yUnFCR0tueV9mdzVVNV80LVBKNmI5ZGRYSlFYSkZxY0t6TkFPWUJMYjNtLXJCTUg4YlY5SU5GODJJQ1RfNlY2NzJocTctV2JScWptOXBCV0hKTFg4Ni1mQQ?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVlTbGlpaEZJU3duNjZ2N0FETGUtTUZQQzhWTEFQbll6MXp4N3RHbFJjRm51blZlVzJjQVZiUHV2ckhjTnFjMXF3cHhKWVVITXJfVlBiRFdxb1dVc2EwREYwN0VzMXVQLWNIWGR6VHdfbFR3Vk0yUnFCR0tueV9mdzVVNV80LVBKNmI5ZGRYSlFYSkZxY0t6TkFPWUJMYjNtLXJCTUg4YlY5SU5GODJJQ1RfNlY2NzJocTctV2JScWptOXBCV0hKTFg4Ni1mQQ?oc=5)
+
+---
+
+### [Un estudio revela que la vitamina D podría prevenir la diabetes en personas con ciertas variantes genéticas](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRXRyWGprX1B2M0VESGZCS2ctSENIOU9nQjRSRTg0ZDMtdDBHb2RWYVZiYTliWVlHemNNODF4R2UyTUZkOF91NmhaRW5VcUxOSUUyakl4WWc2MFp4czFpRFlGZC1PNzFMT0JyYmVMcTVPcms4STFNdHpqNmJkWHRKQ1BIeU5pTk5tZUJzdGdJT0pYUHhfRU1jMlNSZnFqX3lsLTI3MUJCV1E0SFJHeTdlREhUbGRqbHRJcEk5ZnRxLVVocE5jRW5rZXQ3VllLOGpnMWR2Z1VYNjVvRlNrMFhmaHNETmdWNnp5UGRrUUx4XzQ?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRXRyWGprX1B2M0VESGZCS2ctSENIOU9nQjRSRTg0ZDMtdDBHb2RWYVZiYTliWVlHemNNODF4R2UyTUZkOF91NmhaRW5VcUxOSUUyakl4WWc2MFp4czFpRFlGZC1PNzFMT0JyYmVMcTVPcms4STFNdHpqNmJkWHRKQ1BIeU5pTk5tZUJzdGdJT0pYUHhfRU1jMlNSZnFqX3lsLTI3MUJCV1E0SFJHeTdlREhUbGRqbHRJcEk5ZnRxLVVocE5jRW5rZXQ3VllLOGpnMWR2Z1VYNjVvRlNrMFhmaHNETmdWNnp5UGRrUUx4XzQ?oc=5)
+
+---
+
+### [Le café a un effet positif sur l’humeur et sur la bonne santé intestinale, selon une étude - Le Parisien](https://news.google.com/rss/articles/CBMi_wFBVV95cUxObHd6aUVpSFVXelJfd1N5TjFXTHlWWktEVWNEemdsOU5CVEctVVh0amhoM3FoWDctYnBSR3Vwa2ZvTWNHY3hHQ0d0N2ZacXNFaGVZUkRtc2tGaDRnYWdMN25VWjFGXzE3Y3B0a2I0OW1oSjBVeExVOVFUOU52aGs3cEpFWEtscFpPMkZSbWhvWlZ1X1ltUzZFRzZKUTlQbG5aVm1pMmtKbG1QX2p3YlZGaXVUWklmVXZjblZhLVBEenNtWDhCRlY2bDFqY1ZZbEJCUDBxM0dkUU16YWIyakp6ZmM0a1JMZTBlb2syUDRyeUZSbXZPNFNZYk5fWnFEUTg?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMi_wFBVV95cUxObHd6aUVpSFVXelJfd1N5TjFXTHlWWktEVWNEemdsOU5CVEctVVh0amhoM3FoWDctYnBSR3Vwa2ZvTWNHY3hHQ0d0N2ZacXNFaGVZUkRtc2tGaDRnYWdMN25VWjFGXzE3Y3B0a2I0OW1oSjBVeExVOVFUOU52aGs3cEpFWEtscFpPMkZSbWhvWlZ1X1ltUzZFRzZKUTlQbG5aVm1pMmtKbG1QX2p3YlZGaXVUWklmVXZjblZhLVBEenNtWDhCRlY2bDFqY1ZZbEJCUDBxM0dkUU16YWIyakp6ZmM0a1JMZTBlb2syUDRyeUZSbXZPNFNZYk5fWnFEUTg?oc=5)
+
+---
+
+### [Dídac Mauricio Puente, nuevo presidente de la Sociedad Española de Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0lOUllGWkh6cE9Fenp2Nm5QRkdQZWFFUTZETVZxYmZHYUFLRVUtTHFUWTU1Ql9HbVNUTW9iS29zTXNrcG5CZUczZ1d0ZnpxUVBzQmlmZnZ3RHZLNXBBZzUyYlA0RzF6anlqYmNXTUZ2OFlBRHdkdm05WlJOaU1YOU1uOGM4aVc2dlhtRG5hZVFoMUNTTXIwbnB0bkRCUk1FdXBqWmJMTUhFT0VI?oc=5)
+
+2026-04-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0lOUllGWkh6cE9Fenp2Nm5QRkdQZWFFUTZETVZxYmZHYUFLRVUtTHFUWTU1Ql9HbVNUTW9iS29zTXNrcG5CZUczZ1d0ZnpxUVBzQmlmZnZ3RHZLNXBBZzUyYlA0RzF6anlqYmNXTUZ2OFlBRHdkdm05WlJOaU1YOU1uOGM4aVc2dlhtRG5hZVFoMUNTTXIwbnB0bkRCUk1FdXBqWmJMTUhFT0VI?oc=5)
+
+---
+
+### [Diabete, come colpisce anche le strutture-chiave del cervello - Libero Quotidiano](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTE82cHdBX1NqMFAtR2lUakQwSEZYU3pmc0RlRnR1TlZJOG9QaGUtVDItc0UtWHV3ZU4xUTRVVE5DWDVvaGZKYjJYUkk5RkNzQjBXTkFYeF9qbGNMcVMtX0g2b3BLYmhMYkVuRExiUmVLSDhvZUdVdjNyRnVuS2VtaEpmWV9YUUJ1SnQ2SG9iQklUR2ZIMEcxbHFmU1d2Uzg1Z203VEFUZXJWR3B0WnQ0RTF3RQ?oc=5)
 
 2026-04-23 <span class="news-indication-tag">diabete</span>
 
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGNKRDNQWkhVOVh3YWp5U2M2YmY0LUxUSWVXTVVQMjA1aXVhWkxidVloazJRT2g5U0o0ckhUNGVHV1VZa01TUC1WeGxkQ1NSRUNLX25zbExEY2FfSTlLZ2F1TVRQeWx3dmQ0OW5wNlhsUG51c2tld09kTHVxQXJqWlIwWWRjSGhtVHZVRWRtZFJ5YWg4WE4ydkFINkZ0ZjU3SE8zOS11LVlpdUlJUlpGRW9POHB5YzhzTzVlWWFEOGg3cnhrdVh6QUFGd01SUW1JZEpKWjRWX2RFcEd3QXc?oc=5)
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTE82cHdBX1NqMFAtR2lUakQwSEZYU3pmc0RlRnR1TlZJOG9QaGUtVDItc0UtWHV3ZU4xUTRVVE5DWDVvaGZKYjJYUkk5RkNzQjBXTkFYeF9qbGNMcVMtX0g2b3BLYmhMYkVuRExiUmVLSDhvZUdVdjNyRnVuS2VtaEpmWV9YUUJ1SnQ2SG9iQklUR2ZIMEcxbHFmU1d2Uzg1Z203VEFUZXJWR3B0WnQ0RTF3RQ?oc=5)
+
+---
+
+### [Diabete di tipo 1, all’Ospedale Papa Giovanni XXIII somministrato il farmaco che ne ritarda l’insorgenza](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZWVLN1VIbV8yTEVQNGY4b25sY2xsemw3MXpkdzJ4eEFRRmlsSG9ZWHpuWU1ydTM0cGQxUDIyNl8wSEFidnlNdEI1dkc3ZXpBdXR4Ull1ME9aYjNYaHNzMFpGZ0JNSXlndlNLOWR0bG1sMmVIWkh2TGtsQVlWcEthQzlROGtaR1hKUHpGWV9BYnVJNFRWdzY4MlpMeDhjcl8tNWJKMF9YYVg4LXNlWGl1eXJSZWVudWN3R3VHSDBWdk9SMjdqX0JGeTdkekszQ3JQem9YaENCME51d3V5cnhrZQ?oc=5)
+
+2026-04-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabete</span>
+
+來源：[Bergamonews](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZWVLN1VIbV8yTEVQNGY4b25sY2xsemw3MXpkdzJ4eEFRRmlsSG9ZWHpuWU1ydTM0cGQxUDIyNl8wSEFidnlNdEI1dkc3ZXpBdXR4Ull1ME9aYjNYaHNzMFpGZ0JNSXlndlNLOWR0bG1sMmVIWkh2TGtsQVlWcEthQzlROGtaR1hKUHpGWV9BYnVJNFRWdzY4MlpMeDhjcl8tNWJKMF9YYVg4LXNlWGl1eXJSZWVudWN3R3VHSDBWdk9SMjdqX0JGeTdkekszQ3JQem9YaENCME51d3V5cnhrZQ?oc=5)
 
 ---
 
@@ -83,14 +123,6 @@ permalink: /news/imlifidase/
 2026-04-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWlB3enRMdlpldmVqSE9PMERPZDlHbzR4bGw1Z010dzkwZDZQcmluSWVoQVdwZnd1ZWN5RjVGcG9SZ3REbllqRU1nNlF0NWI2SElsdWo1NlN0cnVCM2w0OWZZOWdjYW9JSkFmeUI2d2ltdXVYdjMyOXlTRktLYkJnME1JcUVkY1cyMHE5azdDaWJuWXBHaEZsZFFvY0RCWkpVeUsxY0piR2NFdGdQM0E3S20xTk9acFNseGtuSnBiVUpyV3NGYldfWEFEa3EycFJWYTd5eTFJWQ?oc=5)
-
----
-
-### [Herzinfarkte und Schlaganfälle verhindern: Studie legt neue Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
-
-2026-04-23 <span class="news-indication-tag">diabetes</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
 
 ---
 
@@ -107,14 +139,6 @@ permalink: /news/imlifidase/
 2026-04-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWdiNmlVVDVrTzdXdmd6UGYyVTV2YV9tOE5yVkgtZ3hzaDJQR29FOTlTdFNueGZxUDVGWkMwVnRQX24zSVBFZ1NIRnNVenVqeW1fbkZ3ZTY3b2NiMXowS0I1dThqYXVaRlh1SU96UVdRa0FpZFpQUFc2R3lPQVJVSm9ZTzUybUttV3JEczhGcno3YVpGNEcwWWdQLUJBQzlqd2lsTHI0QTFib0JMZEpPLUUwdnBYQ1h5d3pmR2VEN1IyUExidkJJZHlUVGp3aEhIckNMcW5rT3JnVjlDTFNOaF94Z3NnMEMwXzYxU1VYR3Jka29YNmlSRg?oc=5)
-
----
-
-### [La dieta cetogénica puede mejorar la función de las células beta en personas con diabetes tipo 2 - Diario de Navarra](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWpLbDVjQTRqX0ZUZ0hlWk9UcVJJN1FtRHdXTTJaNWpLR092LWRjZTN2WFJRVFhMY1JfUGxrWVpxUVY5UUtETGJQSUlWalVCUVlpcnNmeGxIZ0dTU3J3bV9ybV8xbWNXYzJQb3hST29XMGE5cDhTUGVmSXZubXFnOXBzS2tLVXN5bFpYUVRfZXVvQkFNQTduN25Vb2ZoYXRTU0l1NVRaV0NMUk9JZzg5NHR5dUk4UVJvOFN3UnBId3hHbTRHR1gxOExLOTlCd09ZWnBVblpSdkJMcEU?oc=5)
-
-2026-04-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWpLbDVjQTRqX0ZUZ0hlWk9UcVJJN1FtRHdXTTJaNWpLR092LWRjZTN2WFJRVFhMY1JfUGxrWVpxUVY5UUtETGJQSUlWalVCUVlpcnNmeGxIZ0dTU3J3bV9ybV8xbWNXYzJQb3hST29XMGE5cDhTUGVmSXZubXFnOXBzS2tLVXN5bFpYUVRfZXVvQkFNQTduN25Vb2ZoYXRTU0l1NVRaV0NMUk9JZzg5NHR5dUk4UVJvOFN3UnBId3hHbTRHR1gxOExLOTlCd09ZWnBVblpSdkJMcEU?oc=5)
 
 ---
 

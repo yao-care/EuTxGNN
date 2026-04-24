@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.7%）</li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,21 +52,13 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Giornata spondiloartrite assiale, Apmarr promuove 'Conoscere per riconoscere' - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
 
 2026-04-23 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
-
----
-
-### [Krebsrisiko bei mittelschwerer bis schwerer Psoriasis](https://news.google.com/rss/articles/CBMie0FVX3lxTFA2Y3pzbXRaZ01BMW1UNXg5dENUYTZzbHV5NHhYWWpMbk5zekFMVVhRVW1wbUxfRGM1MDczUW5WaWRhZ1JlT2J3ajJ4aHRvc1FUNVZ0c2xhcUhhMnRIcW1EQ1h0MzFpR3VrSFpiS0hTeldNZ2ROYURhTmg1OA?oc=5)
-
-2026-04-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMie0FVX3lxTFA2Y3pzbXRaZ01BMW1UNXg5dENUYTZzbHV5NHhYWWpMbk5zekFMVVhRVW1wbUxfRGM1MDczUW5WaWRhZ1JlT2J3ajJ4aHRvc1FUNVZ0c2xhcUhhMnRIcW1EQ1h0MzFpR3VrSFpiS0hTeldNZ2ROYURhTmg1OA?oc=5)
 
 ---
 

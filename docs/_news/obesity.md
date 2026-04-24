@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [People judge weight loss more harshly when GLP-1 drugs are involved, study finds](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1JLZ1liaEJ0RWV1UUJXUmxJQ1UydVIydkpZXzlnYWxxckFwdjZ0SnZnb3ZQSE5idWJ3WDhGNzgyR0c4NTg2ZC1PR0twU2xNYW85d2hvSXZjS2pFNms2ejJGOGxLV2E1aHF5RHB4RjZyLXBvdXhyZGFfb1NLUUREWldXcmh0OWI5N3M5MG5fRVlqczRMSzZTQzZYTG13OW1fZEVaU1JKaDhzSXZGbXpYYTBlaHRYcHJyQnNFLS1jNDJZZ19fWWc?oc=5)
+### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
 2026-04-24
 
-來源：[News-Medical](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1JLZ1liaEJ0RWV1UUJXUmxJQ1UydVIydkpZXzlnYWxxckFwdjZ0SnZnb3ZQSE5idWJ3WDhGNzgyR0c4NTg2ZC1PR0twU2xNYW85d2hvSXZjS2pFNms2ejJGOGxLV2E1aHF5RHB4RjZyLXBvdXhyZGFfb1NLUUREWldXcmh0OWI5N3M5MG5fRVlqczRMSzZTQzZYTG13OW1fZEVaU1JKaDhzSXZGbXpYYTBlaHRYcHJyQnNFLS1jNDJZZ19fWWc?oc=5)
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
 ---
 
@@ -59,14 +59,6 @@ permalink: /news/obesity/
 2026-04-23
 
 來源：[ITVX](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVdjRXpWV0RiZGVsYlRZNXBSc2E5Z3RDZDA2WjdRRXRXQmFRQ2FRUDZtMjU3cFM0c3RkSzdETFhSRENpcVJxQV9MSVFQMGVzQ2FMek1GVlZrZmJIa3ZOc3RkSUNTb2hmQWZnYVdFVUhZSVV4czd1Ym4zaWRTM185V1RTWmcxaFlxYzlNX0lkdzViSWVNNjZieC15TXFyRGNtX01qajNmQQ?oc=5)
-
----
-
-### [Científicos recuerdan que la obesidad en gatos debe considerarse un trastorno metabólico complejo y multifactorial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUZ2Tk1JU05pQWY5WFo5Q1dQdkhWMk1yWnBHRmJzSUtVMnVzOFpTTTF1Q1ZjbGs1RnJXYkdEcWZQd3lBX2pHZVVKa0FFTU8wa281VUtIdEFrWjFTdUZEMFg5S1JBWllqWjJrTW1lcWg2XzlLT2R5STJiMU9KajBicUpHb2U3d3psNnFBUnRnWFk5d2ozQWVtUWNsYmNqRU9neUItTUEyRDRhY0ZQQ3VkRFJZaGFNYURSWVZQYnhoYzljeE05LUlxVzU4M3lxN084RXNOSnFzQnhXZw?oc=5)
-
-2026-04-22
-
-來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUZ2Tk1JU05pQWY5WFo5Q1dQdkhWMk1yWnBHRmJzSUtVMnVzOFpTTTF1Q1ZjbGs1RnJXYkdEcWZQd3lBX2pHZVVKa0FFTU8wa281VUtIdEFrWjFTdUZEMFg5S1JBWllqWjJrTW1lcWg2XzlLT2R5STJiMU9KajBicUpHb2U3d3psNnFBUnRnWFk5d2ozQWVtUWNsYmNqRU9neUItTUEyRDRhY0ZQQ3VkRFJZaGFNYURSWVZQYnhoYzljeE05LUlxVzU4M3lxN084RXNOSnFzQnhXZw?oc=5)
 
 ---
 
