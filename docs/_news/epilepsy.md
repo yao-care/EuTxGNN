@@ -3,7 +3,7 @@ layout: default
 title: "Epilepsie（epilepsy） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Epilepsie（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
+description: "Epilepsie（epilepsy） 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/epilepsy/
 ---
 
 <p class="key-answer" data-question="Epilepsie（epilepsy） 有什麼相關新聞？">
-<strong>Epilepsie（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
+<strong>Epilepsie（epilepsy）</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Der Kälte-Fake-Trick: Epilepsie-Forschung an der Freien Universität](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMnh0VS14eDE0TTVtOE1ncGZCclpsRWlDMmhNTkJuYUlxVFB4SWhiMnRoR09wNWNqSmRzVnZqcEM2OUVRS3l5WmtkdW1tVGpadW1ZaVBPWnVjX3YwTHlSanRmd1hKSHVNNWJkZWtnbXNyakpPQWhWT3VqRkNFOXdEempweUpGRFY2LUdNdHlqNUFiQ0wxd0tTTU5YX1N0Ul96Q0U2R1htLVZONy1Ud2dBRG5jRVpIbUo5UlhIWVZRSHBnaDFOdUtaLXlsdlFPcnV4SDdwblR5N0hEUzQ?oc=5)
 
 2026-04-24
 
 來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMnh0VS14eDE0TTVtOE1ncGZCclpsRWlDMmhNTkJuYUlxVFB4SWhiMnRoR09wNWNqSmRzVnZqcEM2OUVRS3l5WmtkdW1tVGpadW1ZaVBPWnVjX3YwTHlSanRmd1hKSHVNNWJkZWtnbXNyakpPQWhWT3VqRkNFOXdEempweUpGRFY2LUdNdHlqNUFiQ0wxd0tTTU5YX1N0Ul96Q0U2R1htLVZONy1Ud2dBRG5jRVpIbUo5UlhIWVZRSHBnaDFOdUtaLXlsdlFPcnV4SDdwblR5N0hEUzQ?oc=5)
-
----
-
-### [Angstfrei leben trotz Epilepsie – Christians Geschichte mit einem Neuroimplantat](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTFVPV3NnRnI5RE5PenJRR0pSQ05ETWNvR3hvSXJwdVZ0bU5GdGJHd0N5SW9ybmZ0Y3lxd0JJeXdzR1FBNjhCMVpwbDFQc1djZjUwVndwR2NCQ2dlZUlScjliZUdZcHFoSktMUzRUSUo4aFRmMG1qTkJoT3o2VHNWXzFCWWNiR1lWd2dfSHFJTkRFWEpJeWdQdjkxczBKQnB5ZjFQdnBScFdlN0duUXotTGk3dm9tTmNUZFVSOEFFWS1meXhKYW43UVd3MHlOc3ZYcFJmZlpLQ09LUkV4WVpMaA?oc=5)
-
-2026-04-22
-
-來源：[like-online.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTFVPV3NnRnI5RE5PenJRR0pSQ05ETWNvR3hvSXJwdVZ0bU5GdGJHd0N5SW9ybmZ0Y3lxd0JJeXdzR1FBNjhCMVpwbDFQc1djZjUwVndwR2NCQ2dlZUlScjliZUdZcHFoSktMUzRUSUo4aFRmMG1qTkJoT3o2VHNWXzFCWWNiR1lWd2dfSHFJTkRFWEpJeWdQdjkxczBKQnB5ZjFQdnBScFdlN0duUXotTGk3dm9tTmNUZFVSOEFFWS1meXhKYW43UVd3MHlOc3ZYcFJmZlpLQ09LUkV4WVpMaA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
 2026-04-24
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
+
+---
+
+### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
+
+2026-04-23
+
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
 ---
 

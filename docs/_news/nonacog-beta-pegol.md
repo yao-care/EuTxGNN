@@ -14,7 +14,7 @@ permalink: /news/nonacog-beta-pegol/
 ---
 
 <p class="key-answer" data-question="Nonacog Beta Pegol 有什麼相關新聞？">
-<strong>Nonacog Beta Pegol</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nonacog Beta Pegol</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/nonacog-beta-pegol/
 <p><a href="{{ '/drugs/nonacog-beta-pegol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [Vitamin D gegen Typ-2-Diabetes-Risiko: Warum es nur so selten wirkt](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWJuSnI5LXpNR1k2Q2l2MEpkR1hiYjVpdkhlN2hlNTAtUFExd214XzREMVFTaUE5OFVwa3JvTmRYRlRiMFN5ZC1IazQ3NnRwUDhvQmJqTElpbi13QVpmTzg2QlVoVm9qQU0zNUZxS29pTWdGLWkweENmTERqTnZ1T2RvQkdFdnVkTzBqUHVMN05wVldST21pM2VhcDExNS1rT3VGQUVYMlFUR0ktUTBSTkxuV0pFLXh5aXfSAb8BQVVfeXFMTjlJaktySk9HR3Q1bXU3MUxSZjcxVkIzUlpnVGY1M1ZxajVzWG9BLXhSdTgydVVIM25OZ2RQbkM3VWtySEdqQkh6b25KYlpvNkJJX1pSZ1IwUGtmZF9DS2Q2VlVWdjZIdGsxMUFFRWhTNlZZOGlwdFZOdWwtSE1icTJWQ3JPb2ppNnN4TFdXQ0E2YXotc2kyRzEzLV9hcUJIc0FOczdnUU5xWlRKUXJQWWpIYUtfOVJabWdsYjFvUzQ?oc=5)
 
@@ -62,7 +62,7 @@ permalink: /news/nonacog-beta-pegol/
 
 ---
 
-### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
+### [Herzinfarkte und Schlaganfälle verhindern: Cholesterin überschätzt? Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
 
 2026-04-24 <span class="news-indication-tag">diabetes</span>
 
@@ -70,19 +70,19 @@ permalink: /news/nonacog-beta-pegol/
 
 ---
 
-### [Nicht jeder profitiert: Diabetes Risiko trotz langfristigen Gewichtsverlusts - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVlTbGlpaEZJU3duNjZ2N0FETGUtTUZQQzhWTEFQbll6MXp4N3RHbFJjRm51blZlVzJjQVZiUHV2ckhjTnFjMXF3cHhKWVVITXJfVlBiRFdxb1dVc2EwREYwN0VzMXVQLWNIWGR6VHdfbFR3Vk0yUnFCR0tueV9mdzVVNV80LVBKNmI5ZGRYSlFYSkZxY0t6TkFPWUJMYjNtLXJCTUg4YlY5SU5GODJJQ1RfNlY2NzJocTctV2JScWptOXBCV0hKTFg4Ni1mQQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVlTbGlpaEZJU3duNjZ2N0FETGUtTUZQQzhWTEFQbll6MXp4N3RHbFJjRm51blZlVzJjQVZiUHV2ckhjTnFjMXF3cHhKWVVITXJfVlBiRFdxb1dVc2EwREYwN0VzMXVQLWNIWGR6VHdfbFR3Vk0yUnFCR0tueV9mdzVVNV80LVBKNmI5ZGRYSlFYSkZxY0t6TkFPWUJMYjNtLXJCTUg4YlY5SU5GODJJQ1RfNlY2NzJocTctV2JScWptOXBCV0hKTFg4Ni1mQQ?oc=5)
-
----
-
-### [Un estudio revela que la vitamina D podría prevenir la diabetes en personas con ciertas variantes genéticas](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRXRyWGprX1B2M0VESGZCS2ctSENIOU9nQjRSRTg0ZDMtdDBHb2RWYVZiYTliWVlHemNNODF4R2UyTUZkOF91NmhaRW5VcUxOSUUyakl4WWc2MFp4czFpRFlGZC1PNzFMT0JyYmVMcTVPcms4STFNdHpqNmJkWHRKQ1BIeU5pTk5tZUJzdGdJT0pYUHhfRU1jMlNSZnFqX3lsLTI3MUJCV1E0SFJHeTdlREhUbGRqbHRJcEk5ZnRxLVVocE5jRW5rZXQ3VllLOGpnMWR2Z1VYNjVvRlNrMFhmaHNETmdWNnp5UGRrUUx4XzQ?oc=5)
+### [La vitamina D puede ayudar a prevenir la diabetes](https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2MxdHdPUnJxaUE5ZE1ncnlGckRHZS02YzZVMnF2WjhYNXdoNUx2Y3ByT19qUmxVNVRRMUNtMk9FcFloVUxqUS1xaUR6WmdMVFVwWmtxWG9keEc5R2JJSEpwdWh6WFFzVWlHeVB3YktjQ1ladE9yS2FzdDdLZV9zY3dpNlZORGlWUTdYNS1UYm5qRGk2VWxuLUs3ZWphUmd5T05TM3Fhd3Q3WTVFQmk0S1RzS2picWVQZWJ3S0lvMV9LNk9uSUJF?oc=5)
 
 2026-04-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRXRyWGprX1B2M0VESGZCS2ctSENIOU9nQjRSRTg0ZDMtdDBHb2RWYVZiYTliWVlHemNNODF4R2UyTUZkOF91NmhaRW5VcUxOSUUyakl4WWc2MFp4czFpRFlGZC1PNzFMT0JyYmVMcTVPcms4STFNdHpqNmJkWHRKQ1BIeU5pTk5tZUJzdGdJT0pYUHhfRU1jMlNSZnFqX3lsLTI3MUJCV1E0SFJHeTdlREhUbGRqbHRJcEk5ZnRxLVVocE5jRW5rZXQ3VllLOGpnMWR2Z1VYNjVvRlNrMFhmaHNETmdWNnp5UGRrUUx4XzQ?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2MxdHdPUnJxaUE5ZE1ncnlGckRHZS02YzZVMnF2WjhYNXdoNUx2Y3ByT19qUmxVNVRRMUNtMk9FcFloVUxqUS1xaUR6WmdMVFVwWmtxWG9keEc5R2JJSEpwdWh6WFFzVWlHeVB3YktjQ1ladE9yS2FzdDdLZV9zY3dpNlZORGlWUTdYNS1UYm5qRGk2VWxuLUs3ZWphUmd5T05TM3Fhd3Q3WTVFQmk0S1RzS2picWVQZWJ3S0lvMV9LNk9uSUJF?oc=5)
+
+---
+
+### [Nicht jeder profitiert: Diabetes Risiko trotz langfristigen Gewichtsverlusts - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVlTbGlpaEZJU3duNjZ2N0FETGUtTUZQQzhWTEFQbll6MXp4N3RHbFJjRm51blZlVzJjQVZiUHV2ckhjTnFjMXF3cHhKWVVITXJfVlBiRFdxb1dVc2EwREYwN0VzMXVQLWNIWGR6VHdfbFR3Vk0yUnFCR0tueV9mdzVVNV80LVBKNmI5ZGRYSlFYSkZxY0t6TkFPWUJMYjNtLXJCTUg4YlY5SU5GODJJQ1RfNlY2NzJocTctV2JScWptOXBCV0hKTFg4Ni1mQQ?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVlTbGlpaEZJU3duNjZ2N0FETGUtTUZQQzhWTEFQbll6MXp4N3RHbFJjRm51blZlVzJjQVZiUHV2ckhjTnFjMXF3cHhKWVVITXJfVlBiRFdxb1dVc2EwREYwN0VzMXVQLWNIWGR6VHdfbFR3Vk0yUnFCR0tueV9mdzVVNV80LVBKNmI5ZGRYSlFYSkZxY0t6TkFPWUJMYjNtLXJCTUg4YlY5SU5GODJJQ1RfNlY2NzJocTctV2JScWptOXBCV0hKTFg4Ni1mQQ?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ permalink: /news/nonacog-beta-pegol/
 
 ---
 
-### [Dídac Mauricio Puente, nuevo presidente de la Sociedad Española de Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0lOUllGWkh6cE9Fenp2Nm5QRkdQZWFFUTZETVZxYmZHYUFLRVUtTHFUWTU1Ql9HbVNUTW9iS29zTXNrcG5CZUczZ1d0ZnpxUVBzQmlmZnZ3RHZLNXBBZzUyYlA0RzF6anlqYmNXTUZ2OFlBRHdkdm05WlJOaU1YOU1uOGM4aVc2dlhtRG5hZVFoMUNTTXIwbnB0bkRCUk1FdXBqWmJMTUhFT0VI?oc=5)
+### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
-2026-04-23 <span class="news-indication-tag">diabetes</span>
+2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0lOUllGWkh6cE9Fenp2Nm5QRkdQZWFFUTZETVZxYmZHYUFLRVUtTHFUWTU1Ql9HbVNUTW9iS29zTXNrcG5CZUczZ1d0ZnpxUVBzQmlmZnZ3RHZLNXBBZzUyYlA0RzF6anlqYmNXTUZ2OFlBRHdkdm05WlJOaU1YOU1uOGM4aVc2dlhtRG5hZVFoMUNTTXIwbnB0bkRCUk1FdXBqWmJMTUhFT0VI?oc=5)
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
 ---
 
@@ -131,14 +131,6 @@ permalink: /news/nonacog-beta-pegol/
 2026-04-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlE5Q25hRXJLVUxsSUJ5NTNhcURsM2kxNGJqSERzVWI2aTRKRUJfYWZLVm4xMVhWTkd6dWhZekxFQ0Q4My0tOERHRng4a3dxRUhmaEJTZU9BMGswMndqUDBiOXlDVHRRZ1BUeWhoOThKUXZDalN5TmNLWXl1NklGQlI4OEh3Um9kTjBPX25HLTN2UdIBlwFBVV95cUxPTmZzbmU4Rk9ydTNLMkRoZklMWVZIc2JVR090UHBob0hKSzVlWHRFYllNSmpTSHpiUmtZa0l5QjE5dnNINU1MdEM1MVI0RXEtQUloSTFDUV9OcFBoOVhsX3dZVmt4eDlzT0d0WENWQThuZnUzMFFVSmRPOGN0S3JkWHhhOUVmVU1ub3FGNGx5Y2lVRlFLOVZR?oc=5)
-
----
-
-### [Encías y diabetes, una relación infravalorada: “La periodontitis influye directamente en su control glucémico”](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWdiNmlVVDVrTzdXdmd6UGYyVTV2YV9tOE5yVkgtZ3hzaDJQR29FOTlTdFNueGZxUDVGWkMwVnRQX24zSVBFZ1NIRnNVenVqeW1fbkZ3ZTY3b2NiMXowS0I1dThqYXVaRlh1SU96UVdRa0FpZFpQUFc2R3lPQVJVSm9ZTzUybUttV3JEczhGcno3YVpGNEcwWWdQLUJBQzlqd2lsTHI0QTFib0JMZEpPLUUwdnBYQ1h5d3pmR2VEN1IyUExidkJJZHlUVGp3aEhIckNMcW5rT3JnVjlDTFNOaF94Z3NnMEMwXzYxU1VYR3Jka29YNmlSRg?oc=5)
-
-2026-04-23 <span class="news-indication-tag">diabetes</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWdiNmlVVDVrTzdXdmd6UGYyVTV2YV9tOE5yVkgtZ3hzaDJQR29FOTlTdFNueGZxUDVGWkMwVnRQX24zSVBFZ1NIRnNVenVqeW1fbkZ3ZTY3b2NiMXowS0I1dThqYXVaRlh1SU96UVdRa0FpZFpQUFc2R3lPQVJVSm9ZTzUybUttV3JEczhGcno3YVpGNEcwWWdQLUJBQzlqd2lsTHI0QTFib0JMZEpPLUUwdnBYQ1h5d3pmR2VEN1IyUExidkJJZHlUVGp3aEhIckNMcW5rT3JnVjlDTFNOaF94Z3NnMEMwXzYxU1VYR3Jka29YNmlSRg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Dementia warning sign that could appear in front of the TV - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
 
 2026-04-23 <span class="news-indication-tag">dementia</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
-
----
-
-### [Scientists discover why some brains resist Alzheimer’s decline](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTZRVWRuOXdzSUNWTHdBLWNqMGg1MnlsYjJQNzFvTXZ4OHlnUzZhLXhHQndYMDhxTXlJUVB2RVJTSGlHUy1OU081Z2xBbWxCUWwyX3dVS2hNQUs5VVdUUHUzNjdrYWtLVmo5S1RVY3kyQVpTT2l5SnJaZFFfbFI4VGt1OGZDSHA2U01ib1NycHN5REU?oc=5)
-
-2026-04-22 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTZRVWRuOXdzSUNWTHdBLWNqMGg1MnlsYjJQNzFvTXZ4OHlnUzZhLXhHQndYMDhxTXlJUVB2RVJTSGlHUy1OU081Z2xBbWxCUWwyX3dVS2hNQUs5VVdUUHUzNjdrYWtLVmo5S1RVY3kyQVpTT2l5SnJaZFFfbFI4VGt1OGZDSHA2U01ib1NycHN5REU?oc=5)
 
 ---
 

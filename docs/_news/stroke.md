@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Schlaganfallrisiko: In dieser Altersgruppe nach einem Infekt fast dreimal so hoch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
+
+2026-04-24
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
+
+---
 
 ### [GMRx2: Neue Hoffnung für Schlaganfallpatienten - it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
 

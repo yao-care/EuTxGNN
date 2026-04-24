@@ -14,7 +14,7 @@ permalink: /news/cerliponase-alfa/
 ---
 
 <p class="key-answer" data-question="Cerliponase Alfa 有什麼相關新聞？">
-<strong>Cerliponase Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cerliponase Alfa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/cerliponase-alfa/
 <p><a href="{{ '/drugs/cerliponase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Der Kälte-Fake-Trick: Epilepsie-Forschung an der Freien Universität](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMnh0VS14eDE0TTVtOE1ncGZCclpsRWlDMmhNTkJuYUlxVFB4SWhiMnRoR09wNWNqSmRzVnZqcEM2OUVRS3l5WmtkdW1tVGpadW1ZaVBPWnVjX3YwTHlSanRmd1hKSHVNNWJkZWtnbXNyakpPQWhWT3VqRkNFOXdEempweUpGRFY2LUdNdHlqNUFiQ0wxd0tTTU5YX1N0Ul96Q0U2R1htLVZONy1Ud2dBRG5jRVpIbUo5UlhIWVZRSHBnaDFOdUtaLXlsdlFPcnV4SDdwblR5N0hEUzQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">Epilepsie</span>
 
 來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMnh0VS14eDE0TTVtOE1ncGZCclpsRWlDMmhNTkJuYUlxVFB4SWhiMnRoR09wNWNqSmRzVnZqcEM2OUVRS3l5WmtkdW1tVGpadW1ZaVBPWnVjX3YwTHlSanRmd1hKSHVNNWJkZWtnbXNyakpPQWhWT3VqRkNFOXdEempweUpGRFY2LUdNdHlqNUFiQ0wxd0tTTU5YX1N0Ul96Q0U2R1htLVZONy1Ud2dBRG5jRVpIbUo5UlhIWVZRSHBnaDFOdUtaLXlsdlFPcnV4SDdwblR5N0hEUzQ?oc=5)
-
----
-
-### [Angstfrei leben trotz Epilepsie – Christians Geschichte mit einem Neuroimplantat](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTFVPV3NnRnI5RE5PenJRR0pSQ05ETWNvR3hvSXJwdVZ0bU5GdGJHd0N5SW9ybmZ0Y3lxd0JJeXdzR1FBNjhCMVpwbDFQc1djZjUwVndwR2NCQ2dlZUlScjliZUdZcHFoSktMUzRUSUo4aFRmMG1qTkJoT3o2VHNWXzFCWWNiR1lWd2dfSHFJTkRFWEpJeWdQdjkxczBKQnB5ZjFQdnBScFdlN0duUXotTGk3dm9tTmNUZFVSOEFFWS1meXhKYW43UVd3MHlOc3ZYcFJmZlpLQ09LUkV4WVpMaA?oc=5)
-
-2026-04-22 <span class="news-indication-tag">Epilepsie</span>
-
-來源：[like-online.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTFVPV3NnRnI5RE5PenJRR0pSQ05ETWNvR3hvSXJwdVZ0bU5GdGJHd0N5SW9ybmZ0Y3lxd0JJeXdzR1FBNjhCMVpwbDFQc1djZjUwVndwR2NCQ2dlZUlScjliZUdZcHFoSktMUzRUSUo4aFRmMG1qTkJoT3o2VHNWXzFCWWNiR1lWd2dfSHFJTkRFWEpJeWdQdjkxczBKQnB5ZjFQdnBScFdlN0duUXotTGk3dm9tTmNUZFVSOEFFWS1meXhKYW43UVd3MHlOc3ZYcFJmZlpLQ09LUkV4WVpMaA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Schlaganfallrisiko: In dieser Altersgruppe nach einem Infekt fast dreimal so hoch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
+
+2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
+
+---
 
 ### [GMRx2: Neue Hoffnung für Schlaganfallpatienten - it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
 

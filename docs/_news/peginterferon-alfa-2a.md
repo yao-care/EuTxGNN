@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
+
+### ['My son boarded a flight home with a headache - but four hours later he was dead' - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUFKWkw2bWVWY3BJS3g0emtiWlBQekFVOWFsSnVBMHppT3FuMEl6czQ3NzEzZVNHdjluYnc4Uy1qdklFWl9icFJEb1VudmtSeERvYlVoNG1jZTkyeXdrbFI0cFJsZkdaVzdlQ0lXbzdaa0FFZDVCWmE1VzVEb295S0g3dEFPeVJITkFZ0gGQAUFVX3lxTFBmRWpEeVpjWlZ1Vm81ZlJWbEtKMEZUZVc2TTY3NUFUUndkaDhtSFBaOHdZN0FRUW1lZXJGRjJGVUtwUXhiRjF2QjFlSnNvNS1RU1N2cHRaaWkzX1hHU1cxSW54QXM5dHRHMm9TMHYxWTk2ZGd2a0FqSnlNUldFU2p0dlIyLTdCYjNlR0czM1F4NQ?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUFKWkw2bWVWY3BJS3g0emtiWlBQekFVOWFsSnVBMHppT3FuMEl6czQ3NzEzZVNHdjluYnc4Uy1qdklFWl9icFJEb1VudmtSeERvYlVoNG1jZTkyeXdrbFI0cFJsZkdaVzdlQ0lXbzdaa0FFZDVCWmE1VzVEb295S0g3dEFPeVJITkFZ0gGQAUFVX3lxTFBmRWpEeVpjWlZ1Vm81ZlJWbEtKMEZUZVc2TTY3NUFUUndkaDhtSFBaOHdZN0FRUW1lZXJGRjJGVUtwUXhiRjF2QjFlSnNvNS1RU1N2cHRaaWkzX1hHU1cxSW54QXM5dHRHMm9TMHYxWTk2ZGd2a0FqSnlNUldFU2p0dlIyLTdCYjNlR0czM1F4NQ?oc=5)
+
+---
 
 ### [La campaña para poner al día la vacunación infantil va por buen camino, dice la ONU - France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
 
@@ -62,27 +70,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Los pacientes proponen a la OMS la institucionalización del 10 de junio como el Día Mundial del Cáncer Metastásico](https://news.google.com/rss/articles/CBMigAJBVV95cUxNZE1pdWlUbG9Zd25ybHZjcXo2T242cE1XSVBDLWljdkh3Z3VldG11LTdNZDJpZllzdC1nNHJKYXZPb2ljTmtIUS13N1MyOW4tTWZjWk5SaVhjTXZkODFBN2dET3pKLUVPcVoyci1sa0FISnBsTjNpaFlCQ1ZHUG5nZlBRWFROOTFKOW40a0JUU0VMMWJjRWVXTllrSG1tZ21CazVDZ1Z0Y0dSRUxqZlhBWmd6OUkwaWxCNF9ZT2ZWNzlLWGFKUGpickFtYlBoZGxidGtLaXJidk5VSERYaFJxbFcwdVVRMFpIWXB0MkIybXNnR21naTF3WERCMEMtWkhm?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span>
-
-來源：[astrazeneca.es](https://news.google.com/rss/articles/CBMigAJBVV95cUxNZE1pdWlUbG9Zd25ybHZjcXo2T242cE1XSVBDLWljdkh3Z3VldG11LTdNZDJpZllzdC1nNHJKYXZPb2ljTmtIUS13N1MyOW4tTWZjWk5SaVhjTXZkODFBN2dET3pKLUVPcVoyci1sa0FISnBsTjNpaFlCQ1ZHUG5nZlBRWFROOTFKOW40a0JUU0VMMWJjRWVXTllrSG1tZ21CazVDZ1Z0Y0dSRUxqZlhBWmd6OUkwaWxCNF9ZT2ZWNzlLWGFKUGpickFtYlBoZGxidGtLaXJidk5VSERYaFJxbFcwdVVRMFpIWXB0MkIybXNnR21naTF3WERCMEMtWkhm?oc=5)
-
----
-
 ### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - MedEcon Ruhr](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFlmM1hFNzBLOFFxbnljYThNVnZHUUJZM0FRS1BtM21Ga2FIMVd5LXV2R2RGM0Y0dGdwY29ZQmNQZEszT19UMmlneU5hRHI5THZFU1FRRmUxNmU4OUN6UWE2d2ZxMk4wU3otcjdia09sMlNrUDFmLWRkaFFPcDhDQ2ZDWVVORGEzRkdFVjJPVXRVOUcteUtKNHhB?oc=5)
 
 2026-04-24 <span class="news-indication-tag">hepatitis</span>
 
 來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFlmM1hFNzBLOFFxbnljYThNVnZHUUJZM0FRS1BtM21Ga2FIMVd5LXV2R2RGM0Y0dGdwY29ZQmNQZEszT19UMmlneU5hRHI5THZFU1FRRmUxNmU4OUN6UWE2d2ZxMk4wU3otcjdia09sMlNrUDFmLWRkaFFPcDhDQ2ZDWVVORGEzRkdFVjJPVXRVOUcteUtKNHhB?oc=5)
-
----
-
-### [Rougeole : les cas augmentent dans les pays d’Amérique du Nord, où cette maladie mortelle avait quasiment disparu - Le Monde.fr](https://news.google.com/rss/articles/CBMijAJBVV95cUxORTI0ZzNzZjZOVEF3bGc3RHFXY3J6S1VtbF82WElfQmlvTjNzdXdOQy1GR3lFS2lpUzJBNnlTVldmak5wd3A1ZERpZEpFaE82ZmZxNHBjN0ZDY0s5WG5aZWdfcUdnUUUzQ2NtYWxZalNMV1Qtc0ZYa2Zpa19TcWg4UkNidXVDS1VNUTh5TVdMTkhiU0lRUzNPVkNpVGtxWTNNQWZPUnZoTzNvajRWREkyNmJZUktRUnh3R1BrUDRnX3ZVcFdzMzBLeWw3bU9KMWljaFBJbXlENkVsalBVZzRIMmVSQVU4VEdHUHlUYlNRbzZpV3lvVmsxd213WkN5dmxtNUR2OXVDLVYwUERP?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMijAJBVV95cUxORTI0ZzNzZjZOVEF3bGc3RHFXY3J6S1VtbF82WElfQmlvTjNzdXdOQy1GR3lFS2lpUzJBNnlTVldmak5wd3A1ZERpZEpFaE82ZmZxNHBjN0ZDY0s5WG5aZWdfcUdnUUUzQ2NtYWxZalNMV1Qtc0ZYa2Zpa19TcWg4UkNidXVDS1VNUTh5TVdMTkhiU0lRUzNPVkNpVGtxWTNNQWZPUnZoTzNvajRWREkyNmJZUktRUnh3R1BrUDRnX3ZVcFdzMzBLeWw3bU9KMWljaFBJbXlENkVsalBVZzRIMmVSQVU4VEdHUHlUYlNRbzZpV3lvVmsxd213WkN5dmxtNUR2OXVDLVYwUERP?oc=5)
 
 ---
 
@@ -102,11 +94,35 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [Women, testosterone and libido — what you need to know - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
+
+---
+
+### [Millions Take These IBS Drugs, But a New Study Finds Serious Risks](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdMbzlOcDRyYldmWkZwUGQxWlp3d3F4c0JadzNWN1FVSkR5eFB2R0N4b21KZnM4LXdJTGFVcXZ4VEZRbEtVa0dTeGM4b3JmNWotOG9fcVYwRlhwZW9SOGloZ1kwa2NLMnU3YkhLT0tlczRiRDF2VVU0Rm5SOWp2ekFBcFlNZHZIcFh3OEZ3aE1ucVQtZ1E?oc=5)
+
+2026-04-23 <span class="news-indication-tag">MS</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdMbzlOcDRyYldmWkZwUGQxWlp3d3F4c0JadzNWN1FVSkR5eFB2R0N4b21KZnM4LXdJTGFVcXZ4VEZRbEtVa0dTeGM4b3JmNWotOG9fcVYwRlhwZW9SOGloZ1kwa2NLMnU3YkhLT0tlczRiRDF2VVU0Rm5SOWp2ekFBcFlNZHZIcFh3OEZ3aE1ucVQtZ1E?oc=5)
+
+---
+
 ### [Realizar el test reflejo VHB/VHD, método que contribuye a evitar que la hepatitis D progrese a cirrosis](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
 
 2026-04-23 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Farmacosalud](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
+
+---
+
+### [On croit tous savoir gérer le stress, mais un seul geste fonctionne vraiment selon la science](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1pzUkdBM19CTkxYSHMxTzlHZTI4SjR3OXg3cmlZR0RnTE92ZVViY1NHWFUtX0RLRXdXbTBPVUFrcFkxd3RXb2Zwc1hEdzh0VWwzb09hWXpnRDZjaWU4TWdLZGRYejRSakhHVWJKODZXX0I2TXZoR2FfSExNdnVIWnBMMnQ4S0hmM09nZ203aTgyQmkxSVJXZXpGc2tHUVhsWWUyRHBKWU9zdDZoN3ZLSmJFYlNMQkE?oc=5)
+
+2026-04-23 <span class="news-indication-tag">MS</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1pzUkdBM19CTkxYSHMxTzlHZTI4SjR3OXg3cmlZR0RnTE92ZVViY1NHWFUtX0RLRXdXbTBPVUFrcFkxd3RXb2Zwc1hEdzh0VWwzb09hWXpnRDZjaWU4TWdLZGRYejRSakhHVWJKODZXX0I2TXZoR2FfSExNdnVIWnBMMnQ4S0hmM09nZ203aTgyQmkxSVJXZXpGc2tHUVhsWWUyRHBKWU9zdDZoN3ZLSmJFYlNMQkE?oc=5)
 
 ---
 
@@ -126,14 +142,6 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Novartis refuerza su apuesta por la innovación en el tratamiento de la esclerosis múltiple](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEcyYWNNS05kdEJKaWpVN2t6a0dFdVhrMUlOMTV6bVlsOGdNblloNlhNdHcwbmh4OEJUQU9sX3Bzdk53QWFkZTFqOFVCMEZDY29ydmRRN1p3MWNuclNfbElYTUo3N0R3Rk9iZVRQbHlZd081aXNmZGg2bzhtZWktWkVXOTk4RnRsTmVyTVZsd1FQeEw3S1ZpZVoyR1RaS3hjVUJrMFN0UERfbWswVG5xOV9FYkVpTC1HclE?oc=5)
-
-2026-04-23 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[pharmatech.es](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEcyYWNNS05kdEJKaWpVN2t6a0dFdVhrMUlOMTV6bVlsOGdNblloNlhNdHcwbmh4OEJUQU9sX3Bzdk53QWFkZTFqOFVCMEZDY29ydmRRN1p3MWNuclNfbElYTUo3N0R3Rk9iZVRQbHlZd081aXNmZGg2bzhtZWktWkVXOTk4RnRsTmVyTVZsd1FQeEw3S1ZpZVoyR1RaS3hjVUJrMFN0UERfbWswVG5xOV9FYkVpTC1HclE?oc=5)
-
----
-
 ### [Cancer cases reach record high in UK with diagnosis every 80 seconds | ITV News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVdjRXpWV0RiZGVsYlRZNXBSc2E5Z3RDZDA2WjdRRXRXQmFRQ2FRUDZtMjU3cFM0c3RkSzdETFhSRENpcVJxQV9MSVFQMGVzQ2FMek1GVlZrZmJIa3ZOc3RkSUNTb2hmQWZnYVdFVUhZSVV4czd1Ym4zaWRTM185V1RTWmcxaFlxYzlNX0lkdzViSWVNNjZieC15TXFyRGNtX01qajNmQQ?oc=5)
 
 2026-04-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
@@ -150,11 +158,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Scientists discover why some brains resist Alzheimer’s decline](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTZRVWRuOXdzSUNWTHdBLWNqMGg1MnlsYjJQNzFvTXZ4OHlnUzZhLXhHQndYMDhxTXlJUVB2RVJTSGlHUy1OU081Z2xBbWxCUWwyX3dVS2hNQUs5VVdUUHUzNjdrYWtLVmo5S1RVY3kyQVpTT2l5SnJaZFFfbFI4VGt1OGZDSHA2U01ib1NycHN5REU?oc=5)
+### [Scoperto il meccanismo della depressione. E perché spesso i farmaci non funzionano](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGpuSGpqZnhCcWx1bkY3OEl0UVZDcGVSbENVeDgwMXVKcjVhaVpMRUVGRVR5UW1GMEViaUhFbFJUNXZ4TVVpeWZnUkRlRHFPZ1h0MjNLYmFhVXlyMDhodjRTSk5IQU9tdkwwYVgyOFFsV1FfVHpTTDgzQmNyX185TjVfWDJMQTNrRElIT1d6RmFGTDk4R28zYWdCRnhwcVg4U0J1ZkFXT2x6akh5RkxZdDVCZEpTMDVpU2fSAb8BQVVfeXFMUGFEbVBoUkR4UW5WVEtPbXFzQUYzQ0F6RllGRFFaY1g0MFZyVDNuNC15RHhzYldKWUM3MmpYb3hyNU9KZEhOOENfMi1Xei0wcjFIcjF1c2JPT2NUY2FJeHhUSGR1SnM0TEhxZ3Z1enpMUG5KeHpEVFYtVTk1Q2hPbzlTMWhUQlc5dWVpTW5TU2VQVUdJWkY0cXAxMl9YdV9pNWVIbFNpdmZzdXprWGpvM3V6bjAtODJ0S1F2ZHJpLUk?oc=5)
 
-2026-04-22 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-04-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[Earth.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTZRVWRuOXdzSUNWTHdBLWNqMGg1MnlsYjJQNzFvTXZ4OHlnUzZhLXhHQndYMDhxTXlJUVB2RVJTSGlHUy1OU081Z2xBbWxCUWwyX3dVS2hNQUs5VVdUUHUzNjdrYWtLVmo5S1RVY3kyQVpTT2l5SnJaZFFfbFI4VGt1OGZDSHA2U01ib1NycHN5REU?oc=5)
+來源：[repubblica.it](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGpuSGpqZnhCcWx1bkY3OEl0UVZDcGVSbENVeDgwMXVKcjVhaVpMRUVGRVR5UW1GMEViaUhFbFJUNXZ4TVVpeWZnUkRlRHFPZ1h0MjNLYmFhVXlyMDhodjRTSk5IQU9tdkwwYVgyOFFsV1FfVHpTTDgzQmNyX185TjVfWDJMQTNrRElIT1d6RmFGTDk4R28zYWdCRnhwcVg4U0J1ZkFXT2x6akh5RkxZdDVCZEpTMDVpU2fSAb8BQVVfeXFMUGFEbVBoUkR4UW5WVEtPbXFzQUYzQ0F6RllGRFFaY1g0MFZyVDNuNC15RHhzYldKWUM3MmpYb3hyNU9KZEhOOENfMi1Xei0wcjFIcjF1c2JPT2NUY2FJeHhUSGR1SnM0TEhxZ3Z1enpMUG5KeHpEVFYtVTk1Q2hPbzlTMWhUQlc5dWVpTW5TU2VQVUdJWkY0cXAxMl9YdV9pNWVIbFNpdmZzdXprWGpvM3V6bjAtODJ0S1F2ZHJpLUk?oc=5)
 
 ---
 

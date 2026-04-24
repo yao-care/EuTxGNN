@@ -3,7 +3,7 @@ layout: default
 title: "artrite（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artrite（arthritis） 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
+description: "artrite（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
-<strong>artrite（arthritis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
+<strong>artrite（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,13 +101,21 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Giornata spondiloartrite assiale, Apmarr promuove 'Conoscere per riconoscere' - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
 
 2026-04-23
 
 來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
+
+---
+
+### [Spondiloartrite assiale nelle donne: l'analisi del microbiota apre nuove strade - Corriere della Sera](https://news.google.com/rss/articles/CBMiigJBVV95cUxOWW51N0ljSUtQWEo4a1UzZVJBbjd2ejVYd3pXLVZCVjAtQ2JDLUh1YVNJNGVFUl9kN2tqOVZ3X0tULWk0WHJGZlhIV3lQNURKanpndTY2RGUwc1p0dWpjTDR5VmRfSjJkUEpGb3RsZHVxY2Y5NjNWMkRkc1l3Z1I5Z241U3FtOWNUaG14Y2UweU1fS2lyTlBFdHA5Y0JaSEpkemFlTWdPa2lmYWZ1NnVYQTFSb053ZDk2LS1WQlh0OUVkNzdBNi1fTnp1aDVMbEwyc1BsV3A2c215ejZkQ1NrZEY1WDE2TGh1WGE1bTZWbG5XOFJIM3ZZOHdiR1NxQnQyWkdvMEdLLTgyZ9IBjwJBVV95cUxPYnJBYkpOUEtyS3JraEl2d19vZGhtSWxHMGxWeDBycFM1QU1ydms5YUJDWHJIQTlIT1NyOGw1WlAyUERCMUVIOE1jODlMc1ZxTXFIZXZTT2xWUUd2b0Q3MDZ4Z1V3cXpjb0tFNWRDMy0zaXh5MnUtLUdIelg3dFZYQzRGVU43b2o3YzJqT2EwNkJWZWN0djFzd2xBMW44a1hpRWFLT3hkM3hwb2RWeklob0V5ZXN6bU02Umc3QXhDOUIwYnR6U1RxT09KV0NfaWkwR2JoT3dneVRZMVNLNGZROWQ5UlZnWkFfUTVWd0xaSzQzaUROdVpkNE1GampmNW9HZUpuM3ZURjdZc0pkZGVV?oc=5)
+
+2026-04-23
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiigJBVV95cUxOWW51N0ljSUtQWEo4a1UzZVJBbjd2ejVYd3pXLVZCVjAtQ2JDLUh1YVNJNGVFUl9kN2tqOVZ3X0tULWk0WHJGZlhIV3lQNURKanpndTY2RGUwc1p0dWpjTDR5VmRfSjJkUEpGb3RsZHVxY2Y5NjNWMkRkc1l3Z1I5Z241U3FtOWNUaG14Y2UweU1fS2lyTlBFdHA5Y0JaSEpkemFlTWdPa2lmYWZ1NnVYQTFSb053ZDk2LS1WQlh0OUVkNzdBNi1fTnp1aDVMbEwyc1BsV3A2c215ejZkQ1NrZEY1WDE2TGh1WGE1bTZWbG5XOFJIM3ZZOHdiR1NxQnQyWkdvMEdLLTgyZ9IBjwJBVV95cUxPYnJBYkpOUEtyS3JraEl2d19vZGhtSWxHMGxWeDBycFM1QU1ydms5YUJDWHJIQTlIT1NyOGw1WlAyUERCMUVIOE1jODlMc1ZxTXFIZXZTT2xWUUd2b0Q3MDZ4Z1V3cXpjb0tFNWRDMy0zaXh5MnUtLUdIelg3dFZYQzRGVU43b2o3YzJqT2EwNkJWZWN0djFzd2xBMW44a1hpRWFLT3hkM3hwb2RWeklob0V5ZXN6bU02Umc3QXhDOUIwYnR6U1RxT09KV0NfaWkwR2JoT3dneVRZMVNLNGZROWQ5UlZnWkFfUTVWd0xaSzQzaUROdVpkNE1GampmNW9HZUpuM3ZURjdZc0pkZGVV?oc=5)
 
 ---
 

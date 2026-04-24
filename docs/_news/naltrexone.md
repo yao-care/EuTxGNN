@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
 2026-04-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
+
+---
+
+### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
+
+2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
 ---
 

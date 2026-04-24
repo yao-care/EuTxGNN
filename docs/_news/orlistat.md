@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Schlaganfallrisiko: In dieser Altersgruppe nach einem Infekt fast dreimal so hoch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
+
+2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
+
+---
 
 ### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
@@ -75,6 +83,14 @@ permalink: /news/orlistat/
 2026-04-23 <span class="news-indication-tag">ictus</span>
 
 來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORnM1N2VWYU8xeGhWdG1OVHl5MjZMLW4xZnFfa1RUcldaYVBrUHg5WVczX09yQzNSYzlCdzdBTXVrcmhwTU9mVHd4NVdsNGpzZUpqakxfeGY0RWNwUWFQWWp3RmxoSVRKQ0lIdEZZeEFtYzQwVW5aNHh3NkE5OVdiNUVESGhFXzA2Wi1GQkJGMTFvVHdhRnl4d2NPQWZhS0dmSTZZQkJVSDctMnVjdUVqYkxhMS15QzZkZzBCMTRoTHRYalBmd3p6S2YzY0dfSkxhZ3NheVBqWkRLUDBzcExIbGNRRjVaQQ?oc=5)
+
+---
+
+### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
+
+2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
 ---
 
