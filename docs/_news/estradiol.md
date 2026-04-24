@@ -14,7 +14,7 @@ permalink: /news/estradiol/
 ---
 
 <p class="key-answer" data-question="Estradiol 有什麼相關新聞？">
-<strong>Estradiol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Estradiol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/estradiol/
 <p><a href="{{ '/drugs/estradiol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Krebs-Studie: Neue Behandlungsmethode für Prostatakrebs entdeckt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS1ZGX1U1NDZUS1F4QUE4Y29qbUJzcThsY3BWZUlFNWYyeHFkQ1hybWgxSi1jMXZBMU55ekxwMzNpRm83VUtpbTVYYTZZWkJYV1RkVTZHc2VJX2c0NVRDWEprZW9JM09MN1pNb3d2VV9RSHh5amhrZ0hPcngzbDhWLWNBTzBsXzAteUcxVjhkVF92dEhYSDluMDhqeldXWVhENXVkY3dCemcxa0hhLU04X3BwajR4b3VmMERVNnJVTUsydEdjYWRnZjdMdm03dmRwcGFFWFNhREJmeUtEbC1vWU92a3pNUkp5cDBfQtIB8gFBVV95cUxPM1lBeEhiTjZXRnZDX1ZZZWZSU1VjRkw2aHJGekR3dWctUllpdkN4aUlMRGhIcm0yeTl4bWF6R3I2V1BqM3E5VUhnRzB5NGt1ZkZRdUJvOGU1TC1OY21WWWlXQ1VTdWJibFpvSXRQZElCUTZjSklmMllNNE9uTGs2QWczRWRoUXlPZW92X3BTUnI2SlNSY2xlYTdKUVI3ZURqaUFJZWJhSklJX2Jid05aNlgwalYyR09hblFhSlFQVzR4X0FUM2RLOWJNdmhYYlpkOUlRTTVzbmY4cGgxUlJ0dzI1VEM5MkpaYWR3SE5hQWdHUQ?oc=5)
-
-2026-04-23 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS1ZGX1U1NDZUS1F4QUE4Y29qbUJzcThsY3BWZUlFNWYyeHFkQ1hybWgxSi1jMXZBMU55ekxwMzNpRm83VUtpbTVYYTZZWkJYV1RkVTZHc2VJX2c0NVRDWEprZW9JM09MN1pNb3d2VV9RSHh5amhrZ0hPcngzbDhWLWNBTzBsXzAteUcxVjhkVF92dEhYSDluMDhqeldXWVhENXVkY3dCemcxa0hhLU04X3BwajR4b3VmMERVNnJVTUsydEdjYWRnZjdMdm03dmRwcGFFWFNhREJmeUtEbC1vWU92a3pNUkp5cDBfQtIB8gFBVV95cUxPM1lBeEhiTjZXRnZDX1ZZZWZSU1VjRkw2aHJGekR3dWctUllpdkN4aUlMRGhIcm0yeTl4bWF6R3I2V1BqM3E5VUhnRzB5NGt1ZkZRdUJvOGU1TC1OY21WWWlXQ1VTdWJibFpvSXRQZElCUTZjSklmMllNNE9uTGs2QWczRWRoUXlPZW92X3BTUnI2SlNSY2xlYTdKUVI3ZURqaUFJZWJhSklJX2Jid05aNlgwalYyR09hblFhSlFQVzR4X0FUM2RLOWJNdmhYYlpkOUlRTTVzbmY4cGgxUlJ0dzI1VEM5MkpaYWR3SE5hQWdHUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

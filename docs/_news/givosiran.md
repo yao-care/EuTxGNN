@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE02RXFYb0FXakgxc1dxcFZaVFF4UkxrMVRYbjBkc0J2bUZSYnFVZVJEQ0w0NG5uSl8wdElpeFVZb1AxRVlUaDgtWS1JSQ?oc=5)
-
-2026-04-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE02RXFYb0FXakgxc1dxcFZaVFF4UkxrMVRYbjBkc0J2bUZSYnFVZVJEQ0w0NG5uSl8wdElpeFVZb1AxRVlUaDgtWS1JSQ?oc=5)
-
----
-
-### [On croyait connaître le vrai danger du sel : cette étude en révèle un autre, plus insidieux - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmJYZENvVW5DQkZISDI0SG44MjI0M3NUQ3h3Zi1ubURhRGczdWtKT25CaWpuMVNiM0lKZ0FMOXZzTWJlMC1IdkFfMGFOSWZLY21xdkJSakI5bHExWXJ1d0tPTVJJRGlIRENKQlRoNnVYT3JhMGdaRDgzSFBJenF0bEVnbEpsT25EVnA1QXJvX2I3WkpMOE44bVY4MkRlVFJRcW9hckg2YnFxTmRWdkRkQ1Y0dkl6SWdjUGVIQm1BQ0J4OTFpUDBiSzJENUdmS2YzSUJDU2xOZW9UblBSRjNGdXd3WFJpTGFfQm1pS1Nqd2tPUQ?oc=5)
-
-2026-04-22 <span class="news-indication-tag">hypertension</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmJYZENvVW5DQkZISDI0SG44MjI0M3NUQ3h3Zi1ubURhRGczdWtKT25CaWpuMVNiM0lKZ0FMOXZzTWJlMC1IdkFfMGFOSWZLY21xdkJSakI5bHExWXJ1d0tPTVJJRGlIRENKQlRoNnVYT3JhMGdaRDgzSFBJenF0bEVnbEpsT25EVnA1QXJvX2I3WkpMOE44bVY4MkRlVFJRcW9hckg2YnFxTmRWdkRkQ1Y0dkl6SWdjUGVIQm1BQ0J4OTFpUDBiSzJENUdmS2YzSUJDU2xOZW9UblBSRjNGdXd3WFJpTGFfQm1pS1Nqd2tPUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
