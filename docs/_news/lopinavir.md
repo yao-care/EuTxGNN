@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lopinavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Realizar el test reflejo VHB/VHD, método que contribuye a evitar que la hepatitis D progrese a cirrosis](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
+
+2026-04-23 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
+
+---
+
+### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - RUB Newsportal](https://news.google.com/rss/articles/CBMiugFBVV95cUxOc01uZnJOWVBfTFI5RVREV2FrOHZCT0ZOamdUbU5yVzNXM0RXQ00zMDZTRVdQWXlHRXJEZXUwYlc0azZ5R0dOV3V3a052X0loMHN5Y1lxdUJuWVZiYzE2bk9NV3pleGJHTlpEUjFURVJRSmVZSUVVS2RqejFCdG1NcTVaMGFIME9QcDFmNGdKVDl3aV9SazF2NDhPMGh5QzVueVVjdjlQanZQSnZoVDBvUlp2RUZNTnJjQ1E?oc=5)
+
+2026-04-23 <span class="news-indication-tag">hepatitis</span>
+
+來源：[RUB Newsportal](https://news.google.com/rss/articles/CBMiugFBVV95cUxOc01uZnJOWVBfTFI5RVREV2FrOHZCT0ZOamdUbU5yVzNXM0RXQ00zMDZTRVdQWXlHRXJEZXUwYlc0azZ5R0dOV3V3a052X0loMHN5Y1lxdUJuWVZiYzE2bk9NV3pleGJHTlpEUjFURVJRSmVZSUVVS2RqejFCdG1NcTVaMGFIME9QcDFmNGdKVDl3aV9SazF2NDhPMGh5QzVueVVjdjlQanZQSnZoVDBvUlp2RUZNTnJjQ1E?oc=5)
+
+---
 
 
 <div class="disclaimer">

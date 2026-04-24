@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Riprendersi dall'ictus: i risultati di uno studio al Centro Cardinal Ferrari e al Maggiore - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORnM1N2VWYU8xeGhWdG1OVHl5MjZMLW4xZnFfa1RUcldaYVBrUHg5WVczX09yQzNSYzlCdzdBTXVrcmhwTU9mVHd4NVdsNGpzZUpqakxfeGY0RWNwUWFQWWp3RmxoSVRKQ0lIdEZZeEFtYzQwVW5aNHh3NkE5OVdiNUVESGhFXzA2Wi1GQkJGMTFvVHdhRnl4d2NPQWZhS0dmSTZZQkJVSDctMnVjdUVqYkxhMS15QzZkZzBCMTRoTHRYalBmd3p6S2YzY0dfSkxhZ3NheVBqWkRLUDBzcExIbGNRRjVaQQ?oc=5)
+
+2026-04-23 <span class="news-indication-tag">ictus</span>
+
+來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORnM1N2VWYU8xeGhWdG1OVHl5MjZMLW4xZnFfa1RUcldaYVBrUHg5WVczX09yQzNSYzlCdzdBTXVrcmhwTU9mVHd4NVdsNGpzZUpqakxfeGY0RWNwUWFQWWp3RmxoSVRKQ0lIdEZZeEFtYzQwVW5aNHh3NkE5OVdiNUVESGhFXzA2Wi1GQkJGMTFvVHdhRnl4d2NPQWZhS0dmSTZZQkJVSDctMnVjdUVqYkxhMS15QzZkZzBCMTRoTHRYalBmd3p6S2YzY0dfSkxhZ3NheVBqWkRLUDBzcExIbGNRRjVaQQ?oc=5)
+
+---
+
+### [Frühere Menopause, später Schlaganfall](https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNHIwS0Z0Z0JCNlNaZmFSa2JNbnpZd2U0UFdhLUtyNHE3a0pVTFdSblpOX082NzdOd2p5NW5UaXkyR3dwMVRtS2QzR091a3lDMWd5Y2xkMFpGZFpjYWFicDlFWXlkSzFMNnZpMThDVmRJMV9IVE5aVlF4ajF1WG8?oc=5)
+
+2026-04-23 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[DiePresse.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNHIwS0Z0Z0JCNlNaZmFSa2JNbnpZd2U0UFdhLUtyNHE3a0pVTFdSblpOX082NzdOd2p5NW5UaXkyR3dwMVRtS2QzR091a3lDMWd5Y2xkMFpGZFpjYWFicDlFWXlkSzFMNnZpMThDVmRJMV9IVE5aVlF4ajF1WG8?oc=5)
+
+---
 
 
 <div class="disclaimer">
