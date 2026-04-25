@@ -3,7 +3,7 @@ layout: default
 title: "hypertension 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hypertension 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "hypertension 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="hypertension 有什麼相關新聞？">
-<strong>hypertension</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<strong>hypertension</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Chiens et chats : ces symptômes sont ceux de l'hypertension](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVTFjaFU4RlRlSGJzTWVzRWJEWEJkV3BPWDFETzJvOG95c2hEd0Q2UF9QcnNXRkstaDRyU1RJTkRXb2owSzNnY3phT1JmaUtIS29rcTdrNl9tSjBnVkk4ZDZuZkNGTUE1MndlT21tQUU1UWc?oc=5)
 
 2026-04-24
 
 來源：[ma-sante.news](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVTFjaFU4RlRlSGJzTWVzRWJEWEJkV3BPWDFETzJvOG95c2hEd0Q2UF9QcnNXRkstaDRyU1RJTkRXb2owSzNnY3phT1JmaUtIS29rcTdrNl9tSjBnVkk4ZDZuZkNGTUE1MndlT21tQUU1UWc?oc=5)
+
+---
+
+### [New three-in-one blood pressure pill cuts stroke risk by almost 40% - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
+
+2026-04-24
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
 
 ---
 

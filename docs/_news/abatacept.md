@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="Abatacept 有什麼相關新聞？">
-<strong>Abatacept</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abatacept</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/abatacept/
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Keine Antibiotika bei Antibiotika-refraktärer Lyme-Arthritis!](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
+
+2026-04-24 <span class="news-indication-tag">arthritis</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
+
+---
 
 ### [Giornata spondiloartrite assiale, Apmarr promuove 'Conoscere per riconoscere' - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
 

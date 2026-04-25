@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
 ### ['My son boarded a flight home with a headache - but four hours later he was dead' - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUFKWkw2bWVWY3BJS3g0emtiWlBQekFVOWFsSnVBMHppT3FuMEl6czQ3NzEzZVNHdjluYnc4Uy1qdklFWl9icFJEb1VudmtSeERvYlVoNG1jZTkyeXdrbFI0cFJsZkdaVzdlQ0lXbzdaa0FFZDVCWmE1VzVEb295S0g3dEFPeVJITkFZ0gGQAUFVX3lxTFBmRWpEeVpjWlZ1Vm81ZlJWbEtKMEZUZVc2TTY3NUFUUndkaDhtSFBaOHdZN0FRUW1lZXJGRjJGVUtwUXhiRjF2QjFlSnNvNS1RU1N2cHRaaWkzX1hHU1cxSW54QXM5dHRHMm9TMHYxWTk2ZGd2a0FqSnlNUldFU2p0dlIyLTdCYjNlR0czM1F4NQ?oc=5)
 
@@ -78,11 +78,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [José Abellán, cardiólogo: «Controlando estos tres factores mejoras tu alimentación y disminuyes el riesgo de sufrir una enfermedad del corazón»](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVVkaUZEN3VxOHNmY21XSEhnMk1wdGlOTGlsa291Q2N4UktwT2ZoenUtX2NmZ0tid2lyblAybkw4a0E4M2tZb0V5bC1td21vTFBIUlVrMXI3cU1raE1GU3o0RWJDaWRteTUzUFJib1NtN0tUZS1TOHMtOGNHeEJjNFhPZTMxYktJUU04aWpTc3pqVWRVS0F2MkpaYXp4NjBfVXlFWnZDSjVwbHhXTktBS2pLc1dMZHVGZl9ISzVB0gHDAUFVX3lxTE0wZ1RnR1hmT1JxeHNrMzhwUTlLSHRDMHR1VXhnckFELXc5U1o4UHBEQnBTZVp5MXBYSDRab1VrUDdJRnJ4THo5eDRlRm93ZVhZdV9qaVVZbDNtQ09DMEdtWjFQVjlVVUdSZ3o2OWhSNlhVMTM0b3ljNjRkcjhOb2NzM1JsakwyS1hTOTZ1MUdVUkxwdVIyRHNWbVRaOWIxTXphamFYQWdVVkE0MWZtcmZkbFZnSElyVzBMb3pNSVFicDZaNA?oc=5)
+### [Parkinson-Erkrankung kündigt sich in bestimmtem Organ an](https://news.google.com/rss/articles/CBMingFBVV95cUxORzY1VmtoVGdSS3FSNm1BUGg4MkZUNS1UODBQekdKdk90aGR4M19SMzd3WFN3WlRWTG0wcEh3QzdsVUZDVEhMY3hHUDZHWHE3dTRuNE80bDkyZ3dwclpicUFNM3dnMUsxd2xUazZDQzRHazlLcjd4TWxHTzNvZzFsVm05Y0NqcURzejVLbllDNk40MWlzMHBYUGV3eWIwUQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">MS</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVVkaUZEN3VxOHNmY21XSEhnMk1wdGlOTGlsa291Q2N4UktwT2ZoenUtX2NmZ0tid2lyblAybkw4a0E4M2tZb0V5bC1td21vTFBIUlVrMXI3cU1raE1GU3o0RWJDaWRteTUzUFJib1NtN0tUZS1TOHMtOGNHeEJjNFhPZTMxYktJUU04aWpTc3pqVWRVS0F2MkpaYXp4NjBfVXlFWnZDSjVwbHhXTktBS2pLc1dMZHVGZl9ISzVB0gHDAUFVX3lxTE0wZ1RnR1hmT1JxeHNrMzhwUTlLSHRDMHR1VXhnckFELXc5U1o4UHBEQnBTZVp5MXBYSDRab1VrUDdJRnJ4THo5eDRlRm93ZVhZdV9qaVVZbDNtQ09DMEdtWjFQVjlVVUdSZ3o2OWhSNlhVMTM0b3ljNjRkcjhOb2NzM1JsakwyS1hTOTZ1MUdVUkxwdVIyRHNWbVRaOWIxTXphamFYQWdVVkE0MWZtcmZkbFZnSElyVzBMb3pNSVFicDZaNA?oc=5)
+來源：[WEB.DE](https://news.google.com/rss/articles/CBMingFBVV95cUxORzY1VmtoVGdSS3FSNm1BUGg4MkZUNS1UODBQekdKdk90aGR4M19SMzd3WFN3WlRWTG0wcEh3QzdsVUZDVEhMY3hHUDZHWHE3dTRuNE80bDkyZ3dwclpicUFNM3dnMUsxd2xUazZDQzRHazlLcjd4TWxHTzNvZzFsVm05Y0NqcURzejVLbllDNk40MWlzMHBYUGV3eWIwUQ?oc=5)
 
 ---
 
@@ -102,14 +102,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [On croit tous savoir gérer le stress, mais un seul geste fonctionne vraiment selon la science](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1pzUkdBM19CTkxYSHMxTzlHZTI4SjR3OXg3cmlZR0RnTE92ZVViY1NHWFUtX0RLRXdXbTBPVUFrcFkxd3RXb2Zwc1hEdzh0VWwzb09hWXpnRDZjaWU4TWdLZGRYejRSakhHVWJKODZXX0I2TXZoR2FfSExNdnVIWnBMMnQ4S0hmM09nZ203aTgyQmkxSVJXZXpGc2tHUVhsWWUyRHBKWU9zdDZoN3ZLSmJFYlNMQkE?oc=5)
-
-2026-04-23 <span class="news-indication-tag">MS</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1pzUkdBM19CTkxYSHMxTzlHZTI4SjR3OXg3cmlZR0RnTE92ZVViY1NHWFUtX0RLRXdXbTBPVUFrcFkxd3RXb2Zwc1hEdzh0VWwzb09hWXpnRDZjaWU4TWdLZGRYejRSakhHVWJKODZXX0I2TXZoR2FfSExNdnVIWnBMMnQ4S0hmM09nZ203aTgyQmkxSVJXZXpGc2tHUVhsWWUyRHBKWU9zdDZoN3ZLSmJFYlNMQkE?oc=5)
-
----
-
 ### [Tödliche Meningitis breitet sich in sudanesischen Flüchtlingslagern im Tschad aus, so MSF - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaXdUbmQ3LVhzdjRKWi1vYkpUZkdWZEowbkxKeDFzcHFrdzJvTm1lLXNoQ2tmZmEyanBWUlRPYkJVT2V2TUxzc2hsMmlRNGhkYWlUYjhObVNpUkd4eUdLcmlYaUZGYnU4Yjd5RlEzY1NWQjUwa2dEWmNtSHV1elpHYkZqMjVoMWYxbjEwZGJDSjk2Nm1UdGtLZFlmdjIwc1hhTzRicUVDV3lpYTN6MlZyRDNKOUFocWQ3LVl3UWxqSzVQOWh5MDk2WW5LNXBsdElBcG9FQ05Fb3F2UmFqUDY0ZHhUM01nblhnaS1SMA?oc=5)
 
 2026-04-23 <span class="news-indication-tag">MS</span>
@@ -118,11 +110,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Parkinson beginnt lange vor dem Zittern – Hinweise führen in den Darm](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWWlBEWmFCRzh0eFg2NVlSVUdtbG10ZnFtX2l4SUJKSXBNVXZCX2dkSGRpeXA5U0FpWksxbmptNWdELUo3bHZteFFtbV9QZ05GUUpqYUtfMkEteWFMNDFZSFpUZ0tVZw?oc=5)
+### [Breakthrough drug trial to eradicate bowel cancers surging in young adults - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5uQTBmUWQ0U05yRWxVbmpIQ0RiWGwwNnlUMklmUW1oemJYU3YtbThaSmJBVkZhVTlrYzZ0OUFsQldpazI1SjZ6clVZaFNLYllJUG1VWFlHNkdNb09GS2hRTHNWSjlFdURFQzU5ZlpBczhJY1VNWTlIVTNILTk3UdIBgwFBVV95cUxOZVFrMXFhMGZITzB0U0pPaXVXODlNVXhVRVBuZmdRYjg0UzRkTXNzNTJpYW53bEwwYkRZZC00azVfaUJ4Z2JjWFhkVnpzanl3WWh2Ulo5MGdKdnRsQ2VvanhBWlF6TTJTVExlaEU0NlFjUDB1Y3hGbm1aYUF3d3pFOVBQWQ?oc=5)
 
-2026-04-23 <span class="news-indication-tag">MS</span>
+2026-04-23 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWWlBEWmFCRzh0eFg2NVlSVUdtbG10ZnFtX2l4SUJKSXBNVXZCX2dkSGRpeXA5U0FpWksxbmptNWdELUo3bHZteFFtbV9QZ05GUUpqYUtfMkEteWFMNDFZSFpUZ0tVZw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5uQTBmUWQ0U05yRWxVbmpIQ0RiWGwwNnlUMklmUW1oemJYU3YtbThaSmJBVkZhVTlrYzZ0OUFsQldpazI1SjZ6clVZaFNLYllJUG1VWFlHNkdNb09GS2hRTHNWSjlFdURFQzU5ZlpBczhJY1VNWTlIVTNILTk3UdIBgwFBVV95cUxOZVFrMXFhMGZITzB0U0pPaXVXODlNVXhVRVBuZmdRYjg0UzRkTXNzNTJpYW53bEwwYkRZZC00azVfaUJ4Z2JjWFhkVnpzanl3WWh2Ulo5MGdKdnRsQ2VvanhBWlF6TTJTVExlaEU0NlFjUDB1Y3hGbm1aYUF3d3pFOVBQWQ?oc=5)
+
+---
+
+### [Novartis refuerza el abordaje integral y la innovación en esclerosis múltiple](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2JSUEszOTdDRG1HcXN6Z0FjelpUblNGcS1QMVNicUpnMlh3UFVQNGFGbFBiMG9CMU5wMmJNb3pwcGJwUXpIb1lCVVVXSHA1NjdUMDQ0Yk5EcUlUN0s0c1E3X2RnNko0eDQzTFFxMkFXLVJUajROWTg2TkZPWE1NNVhJeVFoSWV2bUMxZF9fY1J5YUdPYllqT2sxZTR6LW9JQUkwWTZxdndhd2dS?oc=5)
+
+2026-04-23 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Merca2.es](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2JSUEszOTdDRG1HcXN6Z0FjelpUblNGcS1QMVNicUpnMlh3UFVQNGFGbFBiMG9CMU5wMmJNb3pwcGJwUXpIb1lCVVVXSHA1NjdUMDQ0Yk5EcUlUN0s0c1E3X2RnNko0eDQzTFFxMkFXLVJUajROWTg2TkZPWE1NNVhJeVFoSWV2bUMxZF9fY1J5YUdPYllqT2sxZTR6LW9JQUkwWTZxdndhd2dS?oc=5)
 
 ---
 
@@ -134,19 +134,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [He called his GP three times for help... days later he was found dead - Manchester Evening News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlE5Q25hRXJLVUxsSUJ5NTNhcURsM2kxNGJqSERzVWI2aTRKRUJfYWZLVm4xMVhWTkd6dWhZekxFQ0Q4My0tOERHRng4a3dxRUhmaEJTZU9BMGswMndqUDBiOXlDVHRRZ1BUeWhoOThKUXZDalN5TmNLWXl1NklGQlI4OEh3Um9kTjBPX25HLTN2UdIBlwFBVV95cUxPTmZzbmU4Rk9ydTNLMkRoZklMWVZIc2JVR090UHBob0hKSzVlWHRFYllNSmpTSHpiUmtZa0l5QjE5dnNINU1MdEM1MVI0RXEtQUloSTFDUV9OcFBoOVhsX3dZVmt4eDlzT0d0WENWQThuZnUzMFFVSmRPOGN0S3JkWHhhOUVmVU1ub3FGNGx5Y2lVRlFLOVZR?oc=5)
-
-2026-04-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlE5Q25hRXJLVUxsSUJ5NTNhcURsM2kxNGJqSERzVWI2aTRKRUJfYWZLVm4xMVhWTkd6dWhZekxFQ0Q4My0tOERHRng4a3dxRUhmaEJTZU9BMGswMndqUDBiOXlDVHRRZ1BUeWhoOThKUXZDalN5TmNLWXl1NklGQlI4OEh3Um9kTjBPX25HLTN2UdIBlwFBVV95cUxPTmZzbmU4Rk9ydTNLMkRoZklMWVZIc2JVR090UHBob0hKSzVlWHRFYllNSmpTSHpiUmtZa0l5QjE5dnNINU1MdEM1MVI0RXEtQUloSTFDUV9OcFBoOVhsX3dZVmt4eDlzT0d0WENWQThuZnUzMFFVSmRPOGN0S3JkWHhhOUVmVU1ub3FGNGx5Y2lVRlFLOVZR?oc=5)
-
----
-
-### [Scoperto il meccanismo della depressione. E perché spesso i farmaci non funzionano](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGpuSGpqZnhCcWx1bkY3OEl0UVZDcGVSbENVeDgwMXVKcjVhaVpMRUVGRVR5UW1GMEViaUhFbFJUNXZ4TVVpeWZnUkRlRHFPZ1h0MjNLYmFhVXlyMDhodjRTSk5IQU9tdkwwYVgyOFFsV1FfVHpTTDgzQmNyX185TjVfWDJMQTNrRElIT1d6RmFGTDk4R28zYWdCRnhwcVg4U0J1ZkFXT2x6akh5RkxZdDVCZEpTMDVpU2fSAb8BQVVfeXFMUGFEbVBoUkR4UW5WVEtPbXFzQUYzQ0F6RllGRFFaY1g0MFZyVDNuNC15RHhzYldKWUM3MmpYb3hyNU9KZEhOOENfMi1Xei0wcjFIcjF1c2JPT2NUY2FJeHhUSGR1SnM0TEhxZ3Z1enpMUG5KeHpEVFYtVTk1Q2hPbzlTMWhUQlc5dWVpTW5TU2VQVUdJWkY0cXAxMl9YdV9pNWVIbFNpdmZzdXprWGpvM3V6bjAtODJ0S1F2ZHJpLUk?oc=5)
+### [Scoperto il meccanismo della depressione. E perché spesso i farmaci non funzionano - la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGpuSGpqZnhCcWx1bkY3OEl0UVZDcGVSbENVeDgwMXVKcjVhaVpMRUVGRVR5UW1GMEViaUhFbFJUNXZ4TVVpeWZnUkRlRHFPZ1h0MjNLYmFhVXlyMDhodjRTSk5IQU9tdkwwYVgyOFFsV1FfVHpTTDgzQmNyX185TjVfWDJMQTNrRElIT1d6RmFGTDk4R28zYWdCRnhwcVg4U0J1ZkFXT2x6akh5RkxZdDVCZEpTMDVpU2fSAb8BQVVfeXFMUGFEbVBoUkR4UW5WVEtPbXFzQUYzQ0F6RllGRFFaY1g0MFZyVDNuNC15RHhzYldKWUM3MmpYb3hyNU9KZEhOOENfMi1Xei0wcjFIcjF1c2JPT2NUY2FJeHhUSGR1SnM0TEhxZ3Z1enpMUG5KeHpEVFYtVTk1Q2hPbzlTMWhUQlc5dWVpTW5TU2VQVUdJWkY0cXAxMl9YdV9pNWVIbFNpdmZzdXprWGpvM3V6bjAtODJ0S1F2ZHJpLUk?oc=5)
 
 2026-04-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[repubblica.it](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGpuSGpqZnhCcWx1bkY3OEl0UVZDcGVSbENVeDgwMXVKcjVhaVpMRUVGRVR5UW1GMEViaUhFbFJUNXZ4TVVpeWZnUkRlRHFPZ1h0MjNLYmFhVXlyMDhodjRTSk5IQU9tdkwwYVgyOFFsV1FfVHpTTDgzQmNyX185TjVfWDJMQTNrRElIT1d6RmFGTDk4R28zYWdCRnhwcVg4U0J1ZkFXT2x6akh5RkxZdDVCZEpTMDVpU2fSAb8BQVVfeXFMUGFEbVBoUkR4UW5WVEtPbXFzQUYzQ0F6RllGRFFaY1g0MFZyVDNuNC15RHhzYldKWUM3MmpYb3hyNU9KZEhOOENfMi1Xei0wcjFIcjF1c2JPT2NUY2FJeHhUSGR1SnM0TEhxZ3Z1enpMUG5KeHpEVFYtVTk1Q2hPbzlTMWhUQlc5dWVpTW5TU2VQVUdJWkY0cXAxMl9YdV9pNWVIbFNpdmZzdXprWGpvM3V6bjAtODJ0S1F2ZHJpLUk?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGpuSGpqZnhCcWx1bkY3OEl0UVZDcGVSbENVeDgwMXVKcjVhaVpMRUVGRVR5UW1GMEViaUhFbFJUNXZ4TVVpeWZnUkRlRHFPZ1h0MjNLYmFhVXlyMDhodjRTSk5IQU9tdkwwYVgyOFFsV1FfVHpTTDgzQmNyX185TjVfWDJMQTNrRElIT1d6RmFGTDk4R28zYWdCRnhwcVg4U0J1ZkFXT2x6akh5RkxZdDVCZEpTMDVpU2fSAb8BQVVfeXFMUGFEbVBoUkR4UW5WVEtPbXFzQUYzQ0F6RllGRFFaY1g0MFZyVDNuNC15RHhzYldKWUM3MmpYb3hyNU9KZEhOOENfMi1Xei0wcjFIcjF1c2JPT2NUY2FJeHhUSGR1SnM0TEhxZ3Z1enpMUG5KeHpEVFYtVTk1Q2hPbzlTMWhUQlc5dWVpTW5TU2VQVUdJWkY0cXAxMl9YdV9pNWVIbFNpdmZzdXprWGpvM3V6bjAtODJ0S1F2ZHJpLUk?oc=5)
 
 ---
 

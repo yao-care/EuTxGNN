@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。10 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>10 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Localizan un interruptor molecular en la grasa parda para combatir la obesidad y la diabetes - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1GRnllOXQxWFhaRXlBdjlEU2Zqc2tIVnBPUDYwTE1qVkNDWjk2TzlORjVfdTU3WWpzcktPamo5ei1wRUVuVXFNR1ZvRXZKSl9XTGZkLWlvTjFwNzdJeVhYcThxZDV4RWVhakFZMU55YjEzdjNHMkJKbHZENjV6elQyWU94MDAxSkI0NUVfV1hyVS1TSjB5REkyY3IyLUo3ZUl5Y1daUWlwOGdLSFMyaXNtWDDSAa8BQVVfeXFMTUhqY01WaXkwdDFRdElQQzVWQWFjUzFpR19iSGYxMTJHLS1NQlJMdVlJeFlucVIyT3Z6aXNMUl9VZmV4anU4NmpGQktFTlBvV05HazNIV2lxb2ZsVVQwZzVlMUl5UUdQQXBNY1ktWTJyc19ELWlrZTg4c3NoVzFfNm1WdkVReTNsV3lTZl9yVFFCZU5rcmpyUjItU3ktRWV3amRpZzIwWGRmVHB3d1N2Zw?oc=5)
+
+2026-04-24
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1GRnllOXQxWFhaRXlBdjlEU2Zqc2tIVnBPUDYwTE1qVkNDWjk2TzlORjVfdTU3WWpzcktPamo5ei1wRUVuVXFNR1ZvRXZKSl9XTGZkLWlvTjFwNzdJeVhYcThxZDV4RWVhakFZMU55YjEzdjNHMkJKbHZENjV6elQyWU94MDAxSkI0NUVfV1hyVS1TSjB5REkyY3IyLUo3ZUl5Y1daUWlwOGdLSFMyaXNtWDDSAa8BQVVfeXFMTUhqY01WaXkwdDFRdElQQzVWQWFjUzFpR19iSGYxMTJHLS1NQlJMdVlJeFlucVIyT3Z6aXNMUl9VZmV4anU4NmpGQktFTlBvV05HazNIV2lxb2ZsVVQwZzVlMUl5UUdQQXBNY1ktWTJyc19ELWlrZTg4c3NoVzFfNm1WdkVReTNsV3lTZl9yVFFCZU5rcmpyUjItU3ktRWV3amRpZzIwWGRmVHB3d1N2Zw?oc=5)
+
+---
 
 ### [Vitamin D gegen Typ-2-Diabetes-Risiko: Warum es nur so selten wirkt](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWJuSnI5LXpNR1k2Q2l2MEpkR1hiYjVpdkhlN2hlNTAtUFExd214XzREMVFTaUE5OFVwa3JvTmRYRlRiMFN5ZC1IazQ3NnRwUDhvQmJqTElpbi13QVpmTzg2QlVoVm9qQU0zNUZxS29pTWdGLWkweENmTERqTnZ1T2RvQkdFdnVkTzBqUHVMN05wVldST21pM2VhcDExNS1rT3VGQUVYMlFUR0ktUTBSTkxuV0pFLXh5aXfSAb8BQVVfeXFMTjlJaktySk9HR3Q1bXU3MUxSZjcxVkIzUlpnVGY1M1ZxajVzWG9BLXhSdTgydVVIM25OZ2RQbkM3VWtySEdqQkh6b25KYlpvNkJJX1pSZ1IwUGtmZF9DS2Q2VlVWdjZIdGsxMUFFRWhTNlZZOGlwdFZOdWwtSE1icTJWQ3JPb2ppNnN4TFdXQ0E2YXotc2kyRzEzLV9hcUJIc0FOczdnUU5xWlRKUXJQWWpIYUtfOVJabWdsYjFvUzQ?oc=5)
 
@@ -148,27 +156,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Le café a un effet positif sur l’humeur et sur la bonne santé intestinale, selon une étude - Le Parisien](https://news.google.com/rss/articles/CBMi_wFBVV95cUxObHd6aUVpSFVXelJfd1N5TjFXTHlWWktEVWNEemdsOU5CVEctVVh0amhoM3FoWDctYnBSR3Vwa2ZvTWNHY3hHQ0d0N2ZacXNFaGVZUkRtc2tGaDRnYWdMN25VWjFGXzE3Y3B0a2I0OW1oSjBVeExVOVFUOU52aGs3cEpFWEtscFpPMkZSbWhvWlZ1X1ltUzZFRzZKUTlQbG5aVm1pMmtKbG1QX2p3YlZGaXVUWklmVXZjblZhLVBEenNtWDhCRlY2bDFqY1ZZbEJCUDBxM0dkUU16YWIyakp6ZmM0a1JMZTBlb2syUDRyeUZSbXZPNFNZYk5fWnFEUTg?oc=5)
-
-2026-04-24
-
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMi_wFBVV95cUxObHd6aUVpSFVXelJfd1N5TjFXTHlWWktEVWNEemdsOU5CVEctVVh0amhoM3FoWDctYnBSR3Vwa2ZvTWNHY3hHQ0d0N2ZacXNFaGVZUkRtc2tGaDRnYWdMN25VWjFGXzE3Y3B0a2I0OW1oSjBVeExVOVFUOU52aGs3cEpFWEtscFpPMkZSbWhvWlZ1X1ltUzZFRzZKUTlQbG5aVm1pMmtKbG1QX2p3YlZGaXVUWklmVXZjblZhLVBEenNtWDhCRlY2bDFqY1ZZbEJCUDBxM0dkUU16YWIyakp6ZmM0a1JMZTBlb2syUDRyeUZSbXZPNFNZYk5fWnFEUTg?oc=5)
-
----
-
 ### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
 2026-04-23
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
-
----
-
-### [Diabete, come colpisce anche le strutture-chiave del cervello - Libero Quotidiano](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTE82cHdBX1NqMFAtR2lUakQwSEZYU3pmc0RlRnR1TlZJOG9QaGUtVDItc0UtWHV3ZU4xUTRVVE5DWDVvaGZKYjJYUkk5RkNzQjBXTkFYeF9qbGNMcVMtX0g2b3BLYmhMYkVuRExiUmVLSDhvZUdVdjNyRnVuS2VtaEpmWV9YUUJ1SnQ2SG9iQklUR2ZIMEcxbHFmU1d2Uzg1Z203VEFUZXJWR3B0WnQ0RTF3RQ?oc=5)
-
-2026-04-23
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTE82cHdBX1NqMFAtR2lUakQwSEZYU3pmc0RlRnR1TlZJOG9QaGUtVDItc0UtWHV3ZU4xUTRVVE5DWDVvaGZKYjJYUkk5RkNzQjBXTkFYeF9qbGNMcVMtX0g2b3BLYmhMYkVuRExiUmVLSDhvZUdVdjNyRnVuS2VtaEpmWV9YUUJ1SnQ2SG9iQklUR2ZIMEcxbHFmU1d2Uzg1Z203VEFUZXJWR3B0WnQ0RTF3RQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "artrite（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artrite（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
+description: "artrite（arthritis） 的相關健康新聞報導。3 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
-<strong>artrite（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
+<strong>artrite（arthritis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,7 +101,15 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Keine Antibiotika bei Antibiotika-refraktärer Lyme-Arthritis!](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
+
+2026-04-24
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
+
+---
 
 ### [Giornata spondiloartrite assiale, Apmarr promuove 'Conoscere per riconoscere' - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
 

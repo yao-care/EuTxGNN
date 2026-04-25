@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
 ### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
-2026-04-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
+2026-04-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
+
+---
+
+### [Localizan un interruptor molecular en la grasa parda para combatir la obesidad y la diabetes - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1GRnllOXQxWFhaRXlBdjlEU2Zqc2tIVnBPUDYwTE1qVkNDWjk2TzlORjVfdTU3WWpzcktPamo5ei1wRUVuVXFNR1ZvRXZKSl9XTGZkLWlvTjFwNzdJeVhYcThxZDV4RWVhakFZMU55YjEzdjNHMkJKbHZENjV6elQyWU94MDAxSkI0NUVfV1hyVS1TSjB5REkyY3IyLUo3ZUl5Y1daUWlwOGdLSFMyaXNtWDDSAa8BQVVfeXFMTUhqY01WaXkwdDFRdElQQzVWQWFjUzFpR19iSGYxMTJHLS1NQlJMdVlJeFlucVIyT3Z6aXNMUl9VZmV4anU4NmpGQktFTlBvV05HazNIV2lxb2ZsVVQwZzVlMUl5UUdQQXBNY1ktWTJyc19ELWlrZTg4c3NoVzFfNm1WdkVReTNsV3lTZl9yVFFCZU5rcmpyUjItU3ktRWV3amRpZzIwWGRmVHB3d1N2Zw?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1GRnllOXQxWFhaRXlBdjlEU2Zqc2tIVnBPUDYwTE1qVkNDWjk2TzlORjVfdTU3WWpzcktPamo5ei1wRUVuVXFNR1ZvRXZKSl9XTGZkLWlvTjFwNzdJeVhYcThxZDV4RWVhakFZMU55YjEzdjNHMkJKbHZENjV6elQyWU94MDAxSkI0NUVfV1hyVS1TSjB5REkyY3IyLUo3ZUl5Y1daUWlwOGdLSFMyaXNtWDDSAa8BQVVfeXFMTUhqY01WaXkwdDFRdElQQzVWQWFjUzFpR19iSGYxMTJHLS1NQlJMdVlJeFlucVIyT3Z6aXNMUl9VZmV4anU4NmpGQktFTlBvV05HazNIV2lxb2ZsVVQwZzVlMUl5UUdQQXBNY1ktWTJyc19ELWlrZTg4c3NoVzFfNm1WdkVReTNsV3lTZl9yVFFCZU5rcmpyUjItU3ktRWV3amRpZzIwWGRmVHB3d1N2Zw?oc=5)
+
+---
+
+### [:: OBBIO pone el foco en el impacto de la obesidad en las empresas :: - Equipos y Talento](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdjNWNzNU1oMHc0NkdxVjR2cHhBeVowUG5nRGNDem1STnlhMkRFM1Nhd3lQMElMVEJxTjNBaHZua0F6UUlTdm93RTNIc3NEdWFYN25JMmoxa01ycE1YcjFZdWlIVWw0NmVqN3ZrMDBBcHlJc05iQk1RaFpqbWZTMmU0bS0yOXpTNnFtN0RhNGQ5MktiSnJDYjNKOFhOWGlVV1hvaU9NOEJvU3k1bUVXLTRaQVUxdw?oc=5)
+
+2026-04-24 <span class="news-indication-tag">obesidad</span>
+
+來源：[Equipos y Talento](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdjNWNzNU1oMHc0NkdxVjR2cHhBeVowUG5nRGNDem1STnlhMkRFM1Nhd3lQMElMVEJxTjNBaHZua0F6UUlTdm93RTNIc3NEdWFYN25JMmoxa01ycE1YcjFZdWlIVWw0NmVqN3ZrMDBBcHlJc05iQk1RaFpqbWZTMmU0bS0yOXpTNnFtN0RhNGQ5MktiSnJDYjNKOFhOWGlVV1hvaU9NOEJvU3k1bUVXLTRaQVUxdw?oc=5)
 
 ---
 

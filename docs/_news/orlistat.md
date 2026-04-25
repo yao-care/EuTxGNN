@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
 
 ### [Schlaganfallrisiko: In dieser Altersgruppe nach einem Infekt fast dreimal so hoch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
 
@@ -64,9 +64,33 @@ permalink: /news/orlistat/
 
 ### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
-2026-04-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span>
+2026-04-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
+
+---
+
+### [Localizan un interruptor molecular en la grasa parda para combatir la obesidad y la diabetes - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1GRnllOXQxWFhaRXlBdjlEU2Zqc2tIVnBPUDYwTE1qVkNDWjk2TzlORjVfdTU3WWpzcktPamo5ei1wRUVuVXFNR1ZvRXZKSl9XTGZkLWlvTjFwNzdJeVhYcThxZDV4RWVhakFZMU55YjEzdjNHMkJKbHZENjV6elQyWU94MDAxSkI0NUVfV1hyVS1TSjB5REkyY3IyLUo3ZUl5Y1daUWlwOGdLSFMyaXNtWDDSAa8BQVVfeXFMTUhqY01WaXkwdDFRdElQQzVWQWFjUzFpR19iSGYxMTJHLS1NQlJMdVlJeFlucVIyT3Z6aXNMUl9VZmV4anU4NmpGQktFTlBvV05HazNIV2lxb2ZsVVQwZzVlMUl5UUdQQXBNY1ktWTJyc19ELWlrZTg4c3NoVzFfNm1WdkVReTNsV3lTZl9yVFFCZU5rcmpyUjItU3ktRWV3amRpZzIwWGRmVHB3d1N2Zw?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1GRnllOXQxWFhaRXlBdjlEU2Zqc2tIVnBPUDYwTE1qVkNDWjk2TzlORjVfdTU3WWpzcktPamo5ei1wRUVuVXFNR1ZvRXZKSl9XTGZkLWlvTjFwNzdJeVhYcThxZDV4RWVhakFZMU55YjEzdjNHMkJKbHZENjV6elQyWU94MDAxSkI0NUVfV1hyVS1TSjB5REkyY3IyLUo3ZUl5Y1daUWlwOGdLSFMyaXNtWDDSAa8BQVVfeXFMTUhqY01WaXkwdDFRdElQQzVWQWFjUzFpR19iSGYxMTJHLS1NQlJMdVlJeFlucVIyT3Z6aXNMUl9VZmV4anU4NmpGQktFTlBvV05HazNIV2lxb2ZsVVQwZzVlMUl5UUdQQXBNY1ktWTJyc19ELWlrZTg4c3NoVzFfNm1WdkVReTNsV3lTZl9yVFFCZU5rcmpyUjItU3ktRWV3amRpZzIwWGRmVHB3d1N2Zw?oc=5)
+
+---
+
+### [:: OBBIO pone el foco en el impacto de la obesidad en las empresas :: - Equipos y Talento](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdjNWNzNU1oMHc0NkdxVjR2cHhBeVowUG5nRGNDem1STnlhMkRFM1Nhd3lQMElMVEJxTjNBaHZua0F6UUlTdm93RTNIc3NEdWFYN25JMmoxa01ycE1YcjFZdWlIVWw0NmVqN3ZrMDBBcHlJc05iQk1RaFpqbWZTMmU0bS0yOXpTNnFtN0RhNGQ5MktiSnJDYjNKOFhOWGlVV1hvaU9NOEJvU3k1bUVXLTRaQVUxdw?oc=5)
+
+2026-04-24 <span class="news-indication-tag">obesidad</span>
+
+來源：[Equipos y Talento](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdjNWNzNU1oMHc0NkdxVjR2cHhBeVowUG5nRGNDem1STnlhMkRFM1Nhd3lQMElMVEJxTjNBaHZua0F6UUlTdm93RTNIc3NEdWFYN25JMmoxa01ycE1YcjFZdWlIVWw0NmVqN3ZrMDBBcHlJc05iQk1RaFpqbWZTMmU0bS0yOXpTNnFtN0RhNGQ5MktiSnJDYjNKOFhOWGlVV1hvaU9NOEJvU3k1bUVXLTRaQVUxdw?oc=5)
+
+---
+
+### [New three-in-one blood pressure pill cuts stroke risk by almost 40% - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
+
+2026-04-24 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
 
 ---
 
