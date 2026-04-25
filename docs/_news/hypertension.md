@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hypertension 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hypertension 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hypertension 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hypertension 有什麼相關新聞？">
-<strong>hypertension</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hypertension」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -93,11 +93,11 @@ permalink: /news/hypertension/
 
 ---
 
-### [New three-in-one blood pressure pill cuts stroke risk by almost 40% - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
+### ['Serious shortage' of common blood pressure drug in UK — pills rationed - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcS15X1prd21ldm1id2MxUjhVWnFCamVmRkc0NDV2RWJwOVptOFMtMGRjY0lLd2Y0U3U0bUlrMVZuUnRTbjd4R2NCZW0zUWl3N0xnZ3NHRU1fMWtFYUdNeXNoUGtESnZpcEYwd3N5eGtna25ZSDZWbWNNMUxfR3dJLURJZXZQdkRNNThlVHdrV01ZYVnSAZgBQVVfeXFMT0UtOGE3NmpaTDhXNGQ1d25EVm9NeU5hdHBzMXppdjFWM0xrN0pvQ3NDQ0Z5T1pFdDJFelVrSm01X091MTM4XzgwOHpqa0dqdU0wWVllTm1tY3pBT05UZ0ZENUR2UGotTHhNdW9WR3hhSFdyQkJRUTlrOWFqM2hMUEMxVUpIcGM5Q0hSSV9UeHlmZkRoLXlmODk?oc=5)
 
-2026-04-24
+2026-04-23
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcS15X1prd21ldm1id2MxUjhVWnFCamVmRkc0NDV2RWJwOVptOFMtMGRjY0lLd2Y0U3U0bUlrMVZuUnRTbjd4R2NCZW0zUWl3N0xnZ3NHRU1fMWtFYUdNeXNoUGtESnZpcEYwd3N5eGtna25ZSDZWbWNNMUxfR3dJLURJZXZQdkRNNThlVHdrV01ZYVnSAZgBQVVfeXFMT0UtOGE3NmpaTDhXNGQ1d25EVm9NeU5hdHBzMXppdjFWM0xrN0pvQ3NDQ0Z5T1pFdDJFelVrSm01X091MTM4XzgwOHpqa0dqdU0wWVllTm1tY3pBT05UZ0ZENUR2UGotTHhNdW9WR3hhSFdyQkJRUTlrOWFqM2hMUEMxVUpIcGM5Q0hSSV9UeHlmZkRoLXlmODk?oc=5)
 
 ---
 

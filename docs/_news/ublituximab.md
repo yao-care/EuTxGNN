@@ -54,6 +54,22 @@ permalink: /news/ublituximab/
 
 ## 相關新聞（9 則）
 
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmRKMHgtWGtMdkVOUUJkaFdwVm52M3RxZGR5Z09nSEdNT2puYmdNY1UtMGJLMl9JUFlFY0QtQ1Ftb2xpbk9vaG5jWTRGZmZjUkpOQkwtbzdoVHNPaFJTZk9HRVNHZ2VVZTcwWDlPQXZ0bE42QjVQazBkb2FrUU84d3pzZ19idVNQVU05ZTZQNUNVX3Rib2NtNmw0NkplLThLWmZsOUNDRUR3WmZuZDhQWnA5cU1FczhwWkI1M2FwUmZiYnFW?oc=5)
+
+2026-04-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmRKMHgtWGtMdkVOUUJkaFdwVm52M3RxZGR5Z09nSEdNT2puYmdNY1UtMGJLMl9JUFlFY0QtQ1Ftb2xpbk9vaG5jWTRGZmZjUkpOQkwtbzdoVHNPaFJTZk9HRVNHZ2VVZTcwWDlPQXZ0bE42QjVQazBkb2FrUU84d3pzZ19idVNQVU05ZTZQNUNVX3Rib2NtNmw0NkplLThLWmZsOUNDRUR3WmZuZDhQWnA5cU1FczhwWkI1M2FwUmZiYnFW?oc=5)
+
+---
+
+### [Destacan la vitamina D como herramienta preventiva en personas prediabéticas - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxPekctN28tY1RFYzQ4OUYyOFc1aklPQVhZOXJ0Mlc0NVVZSkYzdWl1TkN6YVpEWnNBNS1lb2xKNTA2V2VQekJOZXZNZXpxbUJmeWFMQmtvVk5MdHBKZl9aYW5MWXNHWFc3ZVdNUGpXblA1em9aXzJHMXVjaTBWeTZmSHRpYVZvUnUwQW01em9zeXU0Zk4zZ3lSYV9KWlJZOC12WXZiZnVjWDRLaEJMSF9GS1dCaVTSAa8BQVVfeXFMTjJIWDZLV3UxckZqU2x5V0tlQTZjRU5kLXVsbV9xNUNEMEROZ29WVHhYX3p4bDBXcTVFMHltZUZSYll5dmJRVkZaNE14bFhhWXlJOFptWXc4Tl9iTzN4ajJDWkVnR21DOGtQek5qZUVVeG1qYTRza0x2NnkwQmxwbXpCa2l1NnVfVGRBU3g4cjc5aS1FNlV6ellsU1VnanN1REI2ZGJzeGVpcTNmWnUzMA?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxPekctN28tY1RFYzQ4OUYyOFc1aklPQVhZOXJ0Mlc0NVVZSkYzdWl1TkN6YVpEWnNBNS1lb2xKNTA2V2VQekJOZXZNZXpxbUJmeWFMQmtvVk5MdHBKZl9aYW5MWXNHWFc3ZVdNUGpXblA1em9aXzJHMXVjaTBWeTZmSHRpYVZvUnUwQW01em9zeXU0Zk4zZ3lSYV9KWlJZOC12WXZiZnVjWDRLaEJMSF9GS1dCaVTSAa8BQVVfeXFMTjJIWDZLV3UxckZqU2x5V0tlQTZjRU5kLXVsbV9xNUNEMEROZ29WVHhYX3p4bDBXcTVFMHltZUZSYll5dmJRVkZaNE14bFhhWXlJOFptWXc4Tl9iTzN4ajJDWkVnR21DOGtQek5qZUVVeG1qYTRza0x2NnkwQmxwbXpCa2l1NnVfVGRBU3g4cjc5aS1FNlV6ellsU1VnanN1REI2ZGJzeGVpcTNmWnUzMA?oc=5)
+
+---
+
 ### [Localizan un interruptor molecular en la grasa parda para combatir la obesidad y la diabetes - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxOay1GRnllOXQxWFhaRXlBdjlEU2Zqc2tIVnBPUDYwTE1qVkNDWjk2TzlORjVfdTU3WWpzcktPamo5ei1wRUVuVXFNR1ZvRXZKSl9XTGZkLWlvTjFwNzdJeVhYcThxZDV4RWVhakFZMU55YjEzdjNHMkJKbHZENjV6elQyWU94MDAxSkI0NUVfV1hyVS1TSjB5REkyY3IyLUo3ZUl5Y1daUWlwOGdLSFMyaXNtWDDSAa8BQVVfeXFMTUhqY01WaXkwdDFRdElQQzVWQWFjUzFpR19iSGYxMTJHLS1NQlJMdVlJeFlucVIyT3Z6aXNMUl9VZmV4anU4NmpGQktFTlBvV05HazNIV2lxb2ZsVVQwZzVlMUl5UUdQQXBNY1ktWTJyc19ELWlrZTg4c3NoVzFfNm1WdkVReTNsV3lTZl9yVFFCZU5rcmpyUjItU3ktRWV3amRpZzIwWGRmVHB3d1N2Zw?oc=5)
 
 2026-04-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -70,35 +86,19 @@ permalink: /news/ublituximab/
 
 ---
 
-### [Herzinfarkte und Schlaganfälle verhindern: Cholesterin überschätzt? Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
-
-2026-04-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXZWM0JIOEFxSUVoYWgzVmUzZzJkWVJkQUpjcktQRUZrWGJCMTlwNTB2TVdUV29PdC1xWDJWZHgtQ2F3TjFJclRBLTZGS0wwc1JMd0xITGRfVU9MYXFhaXdnRV80alBJeHJ4WTR3WFhuYllkOVlLNVkwXzFyT0twUVhkNlhDelZxTzRESFBYakZRNWd3NkE5ZWM0NXdDVkt6SGhYMlJpQVVvaTY1YXFDbzR6VnljY2N3VE9sWDJVNDdQaUZ1?oc=5)
-
----
-
-### [La vitamina D puede ayudar a prevenir la diabetes](https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2MxdHdPUnJxaUE5ZE1ncnlGckRHZS02YzZVMnF2WjhYNXdoNUx2Y3ByT19qUmxVNVRRMUNtMk9FcFloVUxqUS1xaUR6WmdMVFVwWmtxWG9keEc5R2JJSEpwdWh6WFFzVWlHeVB3YktjQ1ladE9yS2FzdDdLZV9zY3dpNlZORGlWUTdYNS1UYm5qRGk2VWxuLUs3ZWphUmd5T05TM3Fhd3Q3WTVFQmk0S1RzS2picWVQZWJ3S0lvMV9LNk9uSUJF?oc=5)
-
-2026-04-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2MxdHdPUnJxaUE5ZE1ncnlGckRHZS02YzZVMnF2WjhYNXdoNUx2Y3ByT19qUmxVNVRRMUNtMk9FcFloVUxqUS1xaUR6WmdMVFVwWmtxWG9keEc5R2JJSEpwdWh6WFFzVWlHeVB3YktjQ1ladE9yS2FzdDdLZV9zY3dpNlZORGlWUTdYNS1UYm5qRGk2VWxuLUs3ZWphUmd5T05TM3Fhd3Q3WTVFQmk0S1RzS2picWVQZWJ3S0lvMV9LNk9uSUJF?oc=5)
-
----
-
-### [Nicht jeder profitiert: Diabetes Risiko trotz langfristigen Gewichtsverlusts - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVlTbGlpaEZJU3duNjZ2N0FETGUtTUZQQzhWTEFQbll6MXp4N3RHbFJjRm51blZlVzJjQVZiUHV2ckhjTnFjMXF3cHhKWVVITXJfVlBiRFdxb1dVc2EwREYwN0VzMXVQLWNIWGR6VHdfbFR3Vk0yUnFCR0tueV9mdzVVNV80LVBKNmI5ZGRYSlFYSkZxY0t6TkFPWUJMYjNtLXJCTUg4YlY5SU5GODJJQ1RfNlY2NzJocTctV2JScWptOXBCV0hKTFg4Ni1mQQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVlTbGlpaEZJU3duNjZ2N0FETGUtTUZQQzhWTEFQbll6MXp4N3RHbFJjRm51blZlVzJjQVZiUHV2ckhjTnFjMXF3cHhKWVVITXJfVlBiRFdxb1dVc2EwREYwN0VzMXVQLWNIWGR6VHdfbFR3Vk0yUnFCR0tueV9mdzVVNV80LVBKNmI5ZGRYSlFYSkZxY0t6TkFPWUJMYjNtLXJCTUg4YlY5SU5GODJJQ1RfNlY2NzJocTctV2JScWptOXBCV0hKTFg4Ni1mQQ?oc=5)
-
----
-
 ### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
-2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
+
+---
+
+### [Nicht jeder profitiert: Diabetes-Risiko trotz langfristigen Gewichtsverlusts - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEdiMzlfU0pCWFpxOTR3R0hPeUNveXBIVy02YVlkYzBCRWM0b25GZ0I1MHc5eDROS3NDQU1ndElrTWtmVWM0YTlQZmFVYjAtQlFLMjd5RnVmYzN6cFJsYWpIUVpKYmxSenpTWklFakhCc28tOUVDVk94M2g0SkQ3U1FhbzNHeVc3a2QxLXFhaXlVQWJDZndxRWpCQ05zZnFkSjVvWmRjNWI?oc=5)
+
+2026-04-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEdiMzlfU0pCWFpxOTR3R0hPeUNveXBIVy02YVlkYzBCRWM0b25GZ0I1MHc5eDROS3NDQU1ndElrTWtmVWM0YTlQZmFVYjAtQlFLMjd5RnVmYzN6cFJsYWpIUVpKYmxSenpTWklFakhCc28tOUVDVk94M2g0SkQ3U1FhbzNHeVc3a2QxLXFhaXlVQWJDZndxRWpCQ05zZnFkSjVvWmRjNWI?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ permalink: /news/ublituximab/
 
 ---
 
-### [He called his GP three times for help... days later he was found dead - Manchester Evening News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlE5Q25hRXJLVUxsSUJ5NTNhcURsM2kxNGJqSERzVWI2aTRKRUJfYWZLVm4xMVhWTkd6dWhZekxFQ0Q4My0tOERHRng4a3dxRUhmaEJTZU9BMGswMndqUDBiOXlDVHRRZ1BUeWhoOThKUXZDalN5TmNLWXl1NklGQlI4OEh3Um9kTjBPX25HLTN2UdIBlwFBVV95cUxPTmZzbmU4Rk9ydTNLMkRoZklMWVZIc2JVR090UHBob0hKSzVlWHRFYllNSmpTSHpiUmtZa0l5QjE5dnNINU1MdEM1MVI0RXEtQUloSTFDUV9OcFBoOVhsX3dZVmt4eDlzT0d0WENWQThuZnUzMFFVSmRPOGN0S3JkWHhhOUVmVU1ub3FGNGx5Y2lVRlFLOVZR?oc=5)
+### [Übergewicht mit 17: Warum die Kilos später kaum verschwinden](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmdiZ214RGVNZGtaenNRcGY2M2tsd050akRINkZ2QzAtQXg0ekRBUGgzcUs0Qm5ZeGNKVzJKNVg3YXNqLVoxVkk1UkV6WDlTUF90RXhXaWx1VEY4T0dpR042SmYtWFJOLTlQLUVUbEdPS3EtejRXX1VhRm8xS2VkRVlrSUd2RUJKZzdhYzVCYi1MbWFubEZZR1JqZENCaEhydzZyakVWbUU0NWE0V3ExQUJBbVA3M0NadDd0bXpLb1o3czJvVXgzVkE4eFFYemxEcmc?oc=5)
 
-2026-04-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-04-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlE5Q25hRXJLVUxsSUJ5NTNhcURsM2kxNGJqSERzVWI2aTRKRUJfYWZLVm4xMVhWTkd6dWhZekxFQ0Q4My0tOERHRng4a3dxRUhmaEJTZU9BMGswMndqUDBiOXlDVHRRZ1BUeWhoOThKUXZDalN5TmNLWXl1NklGQlI4OEh3Um9kTjBPX25HLTN2UdIBlwFBVV95cUxPTmZzbmU4Rk9ydTNLMkRoZklMWVZIc2JVR090UHBob0hKSzVlWHRFYllNSmpTSHpiUmtZa0l5QjE5dnNINU1MdEM1MVI0RXEtQUloSTFDUV9OcFBoOVhsX3dZVmt4eDlzT0d0WENWQThuZnUzMFFVSmRPOGN0S3JkWHhhOUVmVU1ub3FGNGx5Y2lVRlFLOVZR?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmdiZ214RGVNZGtaenNRcGY2M2tsd050akRINkZ2QzAtQXg0ekRBUGgzcUs0Qm5ZeGNKVzJKNVg3YXNqLVoxVkk1UkV6WDlTUF90RXhXaWx1VEY4T0dpR042SmYtWFJOLTlQLUVUbEdPS3EtejRXX1VhRm8xS2VkRVlrSUd2RUJKZzdhYzVCYi1MbWFubEZZR1JqZENCaEhydzZyakVWbUU0NWE0V3ExQUJBbVA3M0NadDd0bXpLb1o3czJvVXgzVkE4eFFYemxEcmc?oc=5)
 
 ---
 

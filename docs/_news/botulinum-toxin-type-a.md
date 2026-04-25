@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [El párkinson no es solo temblor: otros síntomas que podrían permitir anticipar el diagnóstico - El Periódico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTR3bFhPZFJScEpWd2FVTjFkU003X29rYkY2X0ZPbzgyV25aZjVVN295bktmMGJnRV9oMTN2NWRKTWVUOXpFTzQ5aFlkMjRoVC12YUZSNEhXc3RsckYtaWh6NGRwRFQyOWpzclVTUnFXVkI5azRFcDZ2Z29la1ZYNW9vTnZFRnByUHJ3WDZuMko2WGVBRWItdWRXUnJjc0psVS1RQ193blJ1OUZGLW4taURySGZ3R0k0NnE40gG7AUFVX3lxTFAtbXlBOE9KdVpiUjRkYWVQUFhJZG91SUFDc2tRTy1oendTTUM1RlotWk5ENkZoVERiQjVUUm0tbUJMUlZ0OE1valNCeGlmZWRlR2JJQ3FVWjM5THJBUXZqYlg5VFZxLWtYX2g3M2lVdVpzMnpoTldSSmx3MzVsdGVCTzEwZ0dTR1h5WmdoVjlHQW5lNFB6X29KZXA5TkVIYVg5VUp6dkw2d3NVZGVKUzRINnM0S1hqSjdxTmc?oc=5)
+
+2026-04-24 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Periódico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTR3bFhPZFJScEpWd2FVTjFkU003X29rYkY2X0ZPbzgyV25aZjVVN295bktmMGJnRV9oMTN2NWRKTWVUOXpFTzQ5aFlkMjRoVC12YUZSNEhXc3RsckYtaWh6NGRwRFQyOWpzclVTUnFXVkI5azRFcDZ2Z29la1ZYNW9vTnZFRnByUHJ3WDZuMko2WGVBRWItdWRXUnJjc0psVS1RQ193blJ1OUZGLW4taURySGZ3R0k0NnE40gG7AUFVX3lxTFAtbXlBOE9KdVpiUjRkYWVQUFhJZG91SUFDc2tRTy1oendTTUM1RlotWk5ENkZoVERiQjVUUm0tbUJMUlZ0OE1valNCeGlmZWRlR2JJQ3FVWjM5THJBUXZqYlg5VFZxLWtYX2g3M2lVdVpzMnpoTldSSmx3MzVsdGVCTzEwZ0dTR1h5WmdoVjlHQW5lNFB6X29KZXA5TkVIYVg5VUp6dkw2d3NVZGVKUzRINnM0S1hqSjdxTmc?oc=5)
+
+---
+
+### [Voici les 10 meilleurs aliments à privilégier pour faire baisser son taux de cholestérol](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkx6eDdJSG9EVmxzd0Y0eEt2eFBtRHQ5Qm9MXzNnR0V6U1FuelQxR3RGWkhlNTdRTHlVeVBJV1N6ZEFGalYtTWx4bG5tWjNTak5XanZ1aXdJNTRnWTJmaVBRYVlHQ1ZITzBxN3VWVE1wUkFwdXo3N1FTand2dHNhYmRrY3M1bHZzMUJpbEJBZm1OVl9ManVpVkJnaDJWQUwwTHZiMWVQOTdTT05aVGZsaWtB0gG3AUFVX3lxTE9mOXVKVDJhcDY2NktUVmJlaENBa29sT0pya2NIcXVaRFBfdlNDbzB1ejN3a0h6RDNBQm9nRVk0SVdHalk0Z1FpRzNYSGREUUgzTXN1bHllZjNieFQ5WFRjbmJFLUhyRTBQMnRKMjMyWjBnQUFuUXBjWUNfUnF1ZFM2SW1ZMkJMNmNQeFg4MTh6MjljcGRtSHozUERYUHdRcjhvWWpsTnhRT1Y0UUxPX2tfaHNnOEdqOA?oc=5)
+
+2026-04-23 <span class="news-indication-tag">EPOC</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkx6eDdJSG9EVmxzd0Y0eEt2eFBtRHQ5Qm9MXzNnR0V6U1FuelQxR3RGWkhlNTdRTHlVeVBJV1N6ZEFGalYtTWx4bG5tWjNTak5XanZ1aXdJNTRnWTJmaVBRYVlHQ1ZITzBxN3VWVE1wUkFwdXo3N1FTand2dHNhYmRrY3M1bHZzMUJpbEJBZm1OVl9ManVpVkJnaDJWQUwwTHZiMWVQOTdTT05aVGZsaWtB0gG3AUFVX3lxTE9mOXVKVDJhcDY2NktUVmJlaENBa29sT0pya2NIcXVaRFBfdlNDbzB1ejN3a0h6RDNBQm9nRVk0SVdHalk0Z1FpRzNYSGREUUgzTXN1bHllZjNieFQ5WFRjbmJFLUhyRTBQMnRKMjMyWjBnQUFuUXBjWUNfUnF1ZFM2SW1ZMkJMNmNQeFg4MTh6MjljcGRtSHozUERYUHdRcjhvWWpsTnhRT1Y0UUxPX2tfaHNnOEdqOA?oc=5)
+
+---
 
 
 <div class="disclaimer">

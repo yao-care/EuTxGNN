@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Keine Antibiotika bei Antibiotika-refraktärer Lyme-Arthritis!](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/idarucizumab/
 2026-04-23 <span class="news-indication-tag">artrite</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiigJBVV95cUxOWW51N0ljSUtQWEo4a1UzZVJBbjd2ejVYd3pXLVZCVjAtQ2JDLUh1YVNJNGVFUl9kN2tqOVZ3X0tULWk0WHJGZlhIV3lQNURKanpndTY2RGUwc1p0dWpjTDR5VmRfSjJkUEpGb3RsZHVxY2Y5NjNWMkRkc1l3Z1I5Z241U3FtOWNUaG14Y2UweU1fS2lyTlBFdHA5Y0JaSEpkemFlTWdPa2lmYWZ1NnVYQTFSb053ZDk2LS1WQlh0OUVkNzdBNi1fTnp1aDVMbEwyc1BsV3A2c215ejZkQ1NrZEY1WDE2TGh1WGE1bTZWbG5XOFJIM3ZZOHdiR1NxQnQyWkdvMEdLLTgyZ9IBjwJBVV95cUxPYnJBYkpOUEtyS3JraEl2d19vZGhtSWxHMGxWeDBycFM1QU1ydms5YUJDWHJIQTlIT1NyOGw1WlAyUERCMUVIOE1jODlMc1ZxTXFIZXZTT2xWUUd2b0Q3MDZ4Z1V3cXpjb0tFNWRDMy0zaXh5MnUtLUdIelg3dFZYQzRGVU43b2o3YzJqT2EwNkJWZWN0djFzd2xBMW44a1hpRWFLT3hkM3hwb2RWeklob0V5ZXN6bU02Umc3QXhDOUIwYnR6U1RxT09KV0NfaWkwR2JoT3dneVRZMVNLNGZROWQ5UlZnWkFfUTVWd0xaSzQzaUROdVpkNE1GampmNW9HZUpuM3ZURjdZc0pkZGVV?oc=5)
+
+---
+
+### [Voici les 10 meilleurs aliments à privilégier pour faire baisser son taux de cholestérol](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkx6eDdJSG9EVmxzd0Y0eEt2eFBtRHQ5Qm9MXzNnR0V6U1FuelQxR3RGWkhlNTdRTHlVeVBJV1N6ZEFGalYtTWx4bG5tWjNTak5XanZ1aXdJNTRnWTJmaVBRYVlHQ1ZITzBxN3VWVE1wUkFwdXo3N1FTand2dHNhYmRrY3M1bHZzMUJpbEJBZm1OVl9ManVpVkJnaDJWQUwwTHZiMWVQOTdTT05aVGZsaWtB0gG3AUFVX3lxTE9mOXVKVDJhcDY2NktUVmJlaENBa29sT0pya2NIcXVaRFBfdlNDbzB1ejN3a0h6RDNBQm9nRVk0SVdHalk0Z1FpRzNYSGREUUgzTXN1bHllZjNieFQ5WFRjbmJFLUhyRTBQMnRKMjMyWjBnQUFuUXBjWUNfUnF1ZFM2SW1ZMkJMNmNQeFg4MTh6MjljcGRtSHozUERYUHdRcjhvWWpsTnhRT1Y0UUxPX2tfaHNnOEdqOA?oc=5)
+
+2026-04-23 <span class="news-indication-tag">EPOC</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkx6eDdJSG9EVmxzd0Y0eEt2eFBtRHQ5Qm9MXzNnR0V6U1FuelQxR3RGWkhlNTdRTHlVeVBJV1N6ZEFGalYtTWx4bG5tWjNTak5XanZ1aXdJNTRnWTJmaVBRYVlHQ1ZITzBxN3VWVE1wUkFwdXo3N1FTand2dHNhYmRrY3M1bHZzMUJpbEJBZm1OVl9ManVpVkJnaDJWQUwwTHZiMWVQOTdTT05aVGZsaWtB0gG3AUFVX3lxTE9mOXVKVDJhcDY2NktUVmJlaENBa29sT0pya2NIcXVaRFBfdlNDbzB1ejN3a0h6RDNBQm9nRVk0SVdHalk0Z1FpRzNYSGREUUgzTXN1bHllZjNieFQ5WFRjbmJFLUhyRTBQMnRKMjMyWjBnQUFuUXBjWUNfUnF1ZFM2SW1ZMkJMNmNQeFg4MTh6MjljcGRtSHozUERYUHdRcjhvWWpsTnhRT1Y0UUxPX2tfaHNnOEdqOA?oc=5)
 
 ---
 
