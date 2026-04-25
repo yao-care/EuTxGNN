@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
 ### [Woman's harrowing last four words as she dies of lung problems after vaping habit - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlU1bjkyaVN6YlgxOThyYVVWbVJwTXpJRHE2S3RpZWpCREI3N2NsRU1zM0F1R0ZOQnVSRWlCLXNCNTRTZ3FTcjJkUERvT0tSQUFRT1U1TVpoN3k2VHFjYlFaRWdVbjZGVjVqdXF1TXdkMFpRRGpLWFByVjA0T3dkNXNCT3R2YnFzMFhFWHVB0gGTAUFVX3lxTE1KSDRieC1ZTWZWc1JQN1RiaGg5a0NMX0FaYXg0THdTbmR2cHpyOVlPdWVJX0k1Tk9xRHozbUhEei0yWkRIOVJPdlhUN2lNQ1BLOEpMclNFOUZZdDlsQ2FmcjBVeHhHUEgwaXRwVGlaQ0NvMGx1Rk55QmYxbnRNOHZpUC1nZi1WOFJ2bFc1Q2pOZTJfUQ?oc=5)
 
-2026-04-24
+2026-04-25
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlU1bjkyaVN6YlgxOThyYVVWbVJwTXpJRHE2S3RpZWpCREI3N2NsRU1zM0F1R0ZOQnVSRWlCLXNCNTRTZ3FTcjJkUERvT0tSQUFRT1U1TVpoN3k2VHFjYlFaRWdVbjZGVjVqdXF1TXdkMFpRRGpLWFByVjA0T3dkNXNCT3R2YnFzMFhFWHVB0gGTAUFVX3lxTE1KSDRieC1ZTWZWc1JQN1RiaGg5a0NMX0FaYXg0THdTbmR2cHpyOVlPdWVJX0k1Tk9xRHozbUhEei0yWkRIOVJPdlhUN2lNQ1BLOEpMclNFOUZZdDlsQ2FmcjBVeHhHUEgwaXRwVGlaQ0NvMGx1Rk55QmYxbnRNOHZpUC1nZi1WOFJ2bFc1Q2pOZTJfUQ?oc=5)
+
+---
+
+### [New injection could help damaged joints repair themselves in weeks](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5XY2d1VFdSRi1mRHNwQWMzVXZmVFUwcFlzMTYtRUNKbXV6Zlk3NDRuOW9jLWZkNC02STZfLWdudEVISkdHWHRkZThUVGtsNFVyN1YxMEc3bGlSYXVadTdYVGRVaF92Ym5tUmlJNHJVZzJ5bG5CUjZzWWFpZFR1bDJhU2cwLTZpX041eVpFY294cnMxVkRPZDd3?oc=5)
+
+2026-04-24
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5XY2d1VFdSRi1mRHNwQWMzVXZmVFUwcFlzMTYtRUNKbXV6Zlk3NDRuOW9jLWZkNC02STZfLWdudEVISkdHWHRkZThUVGtsNFVyN1YxMEc3bGlSYXVadTdYVGRVaF92Ym5tUmlJNHJVZzJ5bG5CUjZzWWFpZFR1bDJhU2cwLTZpX041eVpFY294cnMxVkRPZDd3?oc=5)
 
 ---
 
@@ -69,6 +77,14 @@ permalink: /news/multiple-sclerosis/
 2026-04-24
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUFKWkw2bWVWY3BJS3g0emtiWlBQekFVOWFsSnVBMHppT3FuMEl6czQ3NzEzZVNHdjluYnc4Uy1qdklFWl9icFJEb1VudmtSeERvYlVoNG1jZTkyeXdrbFI0cFJsZkdaVzdlQ0lXbzdaa0FFZDVCWmE1VzVEb295S0g3dEFPeVJITkFZ0gGQAUFVX3lxTFBmRWpEeVpjWlZ1Vm81ZlJWbEtKMEZUZVc2TTY3NUFUUndkaDhtSFBaOHdZN0FRUW1lZXJGRjJGVUtwUXhiRjF2QjFlSnNvNS1RU1N2cHRaaWkzX1hHU1cxSW54QXM5dHRHMm9TMHYxWTk2ZGd2a0FqSnlNUldFU2p0dlIyLTdCYjNlR0czM1F4NQ?oc=5)
+
+---
+
+### [BBC doctor issues 'little-known' warning to anyone taking common hay fever tablet - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxObVc2RDNWWURxeTJkVkhvOUgteWVmOThqdTMwTmxaQl9WTHJkU2lsdnJtVDA2Mll2NjJxZHRXU3VWRUhsQUpXZGVOMkpjU0JaODBvaXQ5akplOXZwQ2xIbjdmLWY3SlhJWndINFA1TWxpbmxhbE9iV2J1WnMzel9SNlNR0gGHAUFVX3lxTE1XS0pUS3pTSDAwRW5SNWQ3NjlEM2VuT19GaWZqOE9UQUh4STZOdktZazJVaWlnT3hKc0VNc2lTYkZjNTZxRVE1aTA1VkpXYjE3R2NCOG1mcEdwcTVUbXFtNTF3QXhiMDZnN2J2ZWdGR0ZOVnRnMWxpRm9XdldFWW5FSUJ1UXc3TQ?oc=5)
+
+2026-04-24
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxObVc2RDNWWURxeTJkVkhvOUgteWVmOThqdTMwTmxaQl9WTHJkU2lsdnJtVDA2Mll2NjJxZHRXU3VWRUhsQUpXZGVOMkpjU0JaODBvaXQ5akplOXZwQ2xIbjdmLWY3SlhJWndINFA1TWxpbmxhbE9iV2J1WnMzel9SNlNR0gGHAUFVX3lxTE1XS0pUS3pTSDAwRW5SNWQ3NjlEM2VuT19GaWZqOE9UQUh4STZOdktZazJVaWlnT3hKc0VNc2lTYkZjNTZxRVE1aTA1VkpXYjE3R2NCOG1mcEdwcTVUbXFtNTF3QXhiMDZnN2J2ZWdGR0ZOVnRnMWxpRm9XdldFWW5FSUJ1UXc3TQ?oc=5)
 
 ---
 
@@ -117,14 +133,6 @@ permalink: /news/multiple-sclerosis/
 2026-04-23
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5uQTBmUWQ0U05yRWxVbmpIQ0RiWGwwNnlUMklmUW1oemJYU3YtbThaSmJBVkZhVTlrYzZ0OUFsQldpazI1SjZ6clVZaFNLYllJUG1VWFlHNkdNb09GS2hRTHNWSjlFdURFQzU5ZlpBczhJY1VNWTlIVTNILTk3UdIBgwFBVV95cUxOZVFrMXFhMGZITzB0U0pPaXVXODlNVXhVRVBuZmdRYjg0UzRkTXNzNTJpYW53bEwwYkRZZC00azVfaUJ4Z2JjWFhkVnpzanl3WWh2Ulo5MGdKdnRsQ2VvanhBWlF6TTJTVExlaEU0NlFjUDB1Y3hGbm1aYUF3d3pFOVBQWQ?oc=5)
-
----
-
-### [Cancer cases reach record high in UK with diagnosis every 80 seconds | ITV News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVdjRXpWV0RiZGVsYlRZNXBSc2E5Z3RDZDA2WjdRRXRXQmFRQ2FRUDZtMjU3cFM0c3RkSzdETFhSRENpcVJxQV9MSVFQMGVzQ2FMek1GVlZrZmJIa3ZOc3RkSUNTb2hmQWZnYVdFVUhZSVV4czd1Ym4zaWRTM185V1RTWmcxaFlxYzlNX0lkdzViSWVNNjZieC15TXFyRGNtX01qajNmQQ?oc=5)
-
-2026-04-23
-
-來源：[ITVX](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVdjRXpWV0RiZGVsYlRZNXBSc2E5Z3RDZDA2WjdRRXRXQmFRQ2FRUDZtMjU3cFM0c3RkSzdETFhSRENpcVJxQV9MSVFQMGVzQ2FMek1GVlZrZmJIa3ZOc3RkSUNTb2hmQWZnYVdFVUhZSVV4czd1Ym4zaWRTM185V1RTWmcxaFlxYzlNX0lkdzViSWVNNjZieC15TXFyRGNtX01qajNmQQ?oc=5)
 
 ---
 

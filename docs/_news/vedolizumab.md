@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Teenager-Jahre entscheidend: Übergewicht in der Jugend bleibt oft bis zum Erwachsenenalter](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
+
+2026-04-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
+
+---
 
 ### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmRKMHgtWGtMdkVOUUJkaFdwVm52M3RxZGR5Z09nSEdNT2puYmdNY1UtMGJLMl9JUFlFY0QtQ1Ftb2xpbk9vaG5jWTRGZmZjUkpOQkwtbzdoVHNPaFJTZk9HRVNHZ2VVZTcwWDlPQXZ0bE42QjVQazBkb2FrUU84d3pzZ19idVNQVU05ZTZQNUNVX3Rib2NtNmw0NkplLThLWmZsOUNDRUR3WmZuZDhQWnA5cU1FczhwWkI1M2FwUmZiYnFW?oc=5)
 
@@ -86,9 +94,17 @@ permalink: /news/vedolizumab/
 
 ---
 
+### [Diabetes beim Spender kein Hindernis für Hornhauttransplantation](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVU2RHIwOC02VkVjRnhyRXlpT0tNRkJHOG45OElBLWxzSXo4TFN6M0lCVks1NTU4bkVSQnh5ajFfWWEzTnR1clR3c2MzbnZ6bjh4dXR6NE1oNTdrY3pvZnVIeUFOR3hPd2lkclF2OURHc1BkWnhDSjdGWFg3UGtsdjJtLWpHVHZMbkg1T3N4ekNQYWdBbVVOZjE1ZlBub29oc2x5MnJwMjFXWDlqckE?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVU2RHIwOC02VkVjRnhyRXlpT0tNRkJHOG45OElBLWxzSXo4TFN6M0lCVks1NTU4bkVSQnh5ajFfWWEzTnR1clR3c2MzbnZ6bjh4dXR6NE1oNTdrY3pvZnVIeUFOR3hPd2lkclF2OURHc1BkWnhDSjdGWFg3UGtsdjJtLWpHVHZMbkg1T3N4ekNQYWdBbVVOZjE1ZlBub29oc2x5MnJwMjFXWDlqckE?oc=5)
+
+---
+
 ### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
-2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
@@ -102,35 +118,11 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Diabete di tipo 1, all’Ospedale Papa Giovanni XXIII somministrato il farmaco che ne ritarda l’insorgenza](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZWVLN1VIbV8yTEVQNGY4b25sY2xsemw3MXpkdzJ4eEFRRmlsSG9ZWHpuWU1ydTM0cGQxUDIyNl8wSEFidnlNdEI1dkc3ZXpBdXR4Ull1ME9aYjNYaHNzMFpGZ0JNSXlndlNLOWR0bG1sMmVIWkh2TGtsQVlWcEthQzlROGtaR1hKUHpGWV9BYnVJNFRWdzY4MlpMeDhjcl8tNWJKMF9YYVg4LXNlWGl1eXJSZWVudWN3R3VHSDBWdk9SMjdqX0JGeTdkekszQ3JQem9YaENCME51d3V5cnhrZQ?oc=5)
-
-2026-04-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabete</span>
-
-來源：[Bergamonews](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZWVLN1VIbV8yTEVQNGY4b25sY2xsemw3MXpkdzJ4eEFRRmlsSG9ZWHpuWU1ydTM0cGQxUDIyNl8wSEFidnlNdEI1dkc3ZXpBdXR4Ull1ME9aYjNYaHNzMFpGZ0JNSXlndlNLOWR0bG1sMmVIWkh2TGtsQVlWcEthQzlROGtaR1hKUHpGWV9BYnVJNFRWdzY4MlpMeDhjcl8tNWJKMF9YYVg4LXNlWGl1eXJSZWVudWN3R3VHSDBWdk9SMjdqX0JGeTdkekszQ3JQem9YaENCME51d3V5cnhrZQ?oc=5)
-
----
-
-### [Prädiabetes: Wie sollte man sich jetzt ernähren, um Diabetes zu verhindern? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWlB3enRMdlpldmVqSE9PMERPZDlHbzR4bGw1Z010dzkwZDZQcmluSWVoQVdwZnd1ZWN5RjVGcG9SZ3REbllqRU1nNlF0NWI2SElsdWo1NlN0cnVCM2w0OWZZOWdjYW9JSkFmeUI2d2ltdXVYdjMyOXlTRktLYkJnME1JcUVkY1cyMHE5azdDaWJuWXBHaEZsZFFvY0RCWkpVeUsxY0piR2NFdGdQM0E3S20xTk9acFNseGtuSnBiVUpyV3NGYldfWEFEa3EycFJWYTd5eTFJWQ?oc=5)
+### [Dídac Mauricio Puente, nuevo presidente de la Sociedad Española de Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0lOUllGWkh6cE9Fenp2Nm5QRkdQZWFFUTZETVZxYmZHYUFLRVUtTHFUWTU1Ql9HbVNUTW9iS29zTXNrcG5CZUczZ1d0ZnpxUVBzQmlmZnZ3RHZLNXBBZzUyYlA0RzF6anlqYmNXTUZ2OFlBRHdkdm05WlJOaU1YOU1uOGM4aVc2dlhtRG5hZVFoMUNTTXIwbnB0bkRCUk1FdXBqWmJMTUhFT0VI?oc=5)
 
 2026-04-23 <span class="news-indication-tag">diabetes</span>
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWlB3enRMdlpldmVqSE9PMERPZDlHbzR4bGw1Z010dzkwZDZQcmluSWVoQVdwZnd1ZWN5RjVGcG9SZ3REbllqRU1nNlF0NWI2SElsdWo1NlN0cnVCM2w0OWZZOWdjYW9JSkFmeUI2d2ltdXVYdjMyOXlTRktLYkJnME1JcUVkY1cyMHE5azdDaWJuWXBHaEZsZFFvY0RCWkpVeUsxY0piR2NFdGdQM0E3S20xTk9acFNseGtuSnBiVUpyV3NGYldfWEFEa3EycFJWYTd5eTFJWQ?oc=5)
-
----
-
-### [Voici les 10 meilleurs aliments à privilégier pour faire baisser son taux de cholestérol](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkx6eDdJSG9EVmxzd0Y0eEt2eFBtRHQ5Qm9MXzNnR0V6U1FuelQxR3RGWkhlNTdRTHlVeVBJV1N6ZEFGalYtTWx4bG5tWjNTak5XanZ1aXdJNTRnWTJmaVBRYVlHQ1ZITzBxN3VWVE1wUkFwdXo3N1FTand2dHNhYmRrY3M1bHZzMUJpbEJBZm1OVl9ManVpVkJnaDJWQUwwTHZiMWVQOTdTT05aVGZsaWtB0gG3AUFVX3lxTE9mOXVKVDJhcDY2NktUVmJlaENBa29sT0pya2NIcXVaRFBfdlNDbzB1ejN3a0h6RDNBQm9nRVk0SVdHalk0Z1FpRzNYSGREUUgzTXN1bHllZjNieFQ5WFRjbmJFLUhyRTBQMnRKMjMyWjBnQUFuUXBjWUNfUnF1ZFM2SW1ZMkJMNmNQeFg4MTh6MjljcGRtSHozUERYUHdRcjhvWWpsTnhRT1Y0UUxPX2tfaHNnOEdqOA?oc=5)
-
-2026-04-23 <span class="news-indication-tag">EPOC</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkx6eDdJSG9EVmxzd0Y0eEt2eFBtRHQ5Qm9MXzNnR0V6U1FuelQxR3RGWkhlNTdRTHlVeVBJV1N6ZEFGalYtTWx4bG5tWjNTak5XanZ1aXdJNTRnWTJmaVBRYVlHQ1ZITzBxN3VWVE1wUkFwdXo3N1FTand2dHNhYmRrY3M1bHZzMUJpbEJBZm1OVl9ManVpVkJnaDJWQUwwTHZiMWVQOTdTT05aVGZsaWtB0gG3AUFVX3lxTE9mOXVKVDJhcDY2NktUVmJlaENBa29sT0pya2NIcXVaRFBfdlNDbzB1ejN3a0h6RDNBQm9nRVk0SVdHalk0Z1FpRzNYSGREUUgzTXN1bHllZjNieFQ5WFRjbmJFLUhyRTBQMnRKMjMyWjBnQUFuUXBjWUNfUnF1ZFM2SW1ZMkJMNmNQeFg4MTh6MjljcGRtSHozUERYUHdRcjhvWWpsTnhRT1Y0UUxPX2tfaHNnOEdqOA?oc=5)
-
----
-
-### [Übergewicht mit 17: Warum die Kilos später kaum verschwinden](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmdiZ214RGVNZGtaenNRcGY2M2tsd050akRINkZ2QzAtQXg0ekRBUGgzcUs0Qm5ZeGNKVzJKNVg3YXNqLVoxVkk1UkV6WDlTUF90RXhXaWx1VEY4T0dpR042SmYtWFJOLTlQLUVUbEdPS3EtejRXX1VhRm8xS2VkRVlrSUd2RUJKZzdhYzVCYi1MbWFubEZZR1JqZENCaEhydzZyakVWbUU0NWE0V3ExQUJBbVA3M0NadDd0bXpLb1o3czJvVXgzVkE4eFFYemxEcmc?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmdiZ214RGVNZGtaenNRcGY2M2tsd050akRINkZ2QzAtQXg0ekRBUGgzcUs0Qm5ZeGNKVzJKNVg3YXNqLVoxVkk1UkV6WDlTUF90RXhXaWx1VEY4T0dpR042SmYtWFJOLTlQLUVUbEdPS3EtejRXX1VhRm8xS2VkRVlrSUd2RUJKZzdhYzVCYi1MbWFubEZZR1JqZENCaEhydzZyakVWbUU0NWE0V3ExQUJBbVA3M0NadDd0bXpLb1o3czJvVXgzVkE4eFFYemxEcmc?oc=5)
+來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0lOUllGWkh6cE9Fenp2Nm5QRkdQZWFFUTZETVZxYmZHYUFLRVUtTHFUWTU1Ql9HbVNUTW9iS29zTXNrcG5CZUczZ1d0ZnpxUVBzQmlmZnZ3RHZLNXBBZzUyYlA0RzF6anlqYmNXTUZ2OFlBRHdkdm05WlJOaU1YOU1uOGM4aVc2dlhtRG5hZVFoMUNTTXIwbnB0bkRCUk1FdXBqWmJMTUhFT0VI?oc=5)
 
 ---
 

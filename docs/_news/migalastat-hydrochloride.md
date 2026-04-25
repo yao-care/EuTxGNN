@@ -14,7 +14,7 @@ permalink: /news/migalastat-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Migalastat Hydrochloride 有什麼相關新聞？">
-<strong>Migalastat Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Migalastat Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/migalastat-hydrochloride/
 <p><a href="{{ '/drugs/migalastat-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Chiens et chats : ces symptômes sont ceux de l'hypertension](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVTFjaFU4RlRlSGJzTWVzRWJEWEJkV3BPWDFETzJvOG95c2hEd0Q2UF9QcnNXRkstaDRyU1RJTkRXb2owSzNnY3phT1JmaUtIS29rcTdrNl9tSjBnVkk4ZDZuZkNGTUE1MndlT21tQUU1UWc?oc=5)
+### [New three-in-one blood pressure pill cuts stroke risk by almost 40% - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
 
-2026-04-24 <span class="news-indication-tag">hypertension</span>
+2026-04-24 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
 
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVTFjaFU4RlRlSGJzTWVzRWJEWEJkV3BPWDFETzJvOG95c2hEd0Q2UF9QcnNXRkstaDRyU1RJTkRXb2owSzNnY3phT1JmaUtIS29rcTdrNl9tSjBnVkk4ZDZuZkNGTUE1MndlT21tQUU1UWc?oc=5)
-
----
-
-### ['Serious shortage' of common blood pressure drug in UK — pills rationed - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcS15X1prd21ldm1id2MxUjhVWnFCamVmRkc0NDV2RWJwOVptOFMtMGRjY0lLd2Y0U3U0bUlrMVZuUnRTbjd4R2NCZW0zUWl3N0xnZ3NHRU1fMWtFYUdNeXNoUGtESnZpcEYwd3N5eGtna25ZSDZWbWNNMUxfR3dJLURJZXZQdkRNNThlVHdrV01ZYVnSAZgBQVVfeXFMT0UtOGE3NmpaTDhXNGQ1d25EVm9NeU5hdHBzMXppdjFWM0xrN0pvQ3NDQ0Z5T1pFdDJFelVrSm01X091MTM4XzgwOHpqa0dqdU0wWVllTm1tY3pBT05UZ0ZENUR2UGotTHhNdW9WR3hhSFdyQkJRUTlrOWFqM2hMUEMxVUpIcGM5Q0hSSV9UeHlmZkRoLXlmODk?oc=5)
-
-2026-04-23 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcS15X1prd21ldm1id2MxUjhVWnFCamVmRkc0NDV2RWJwOVptOFMtMGRjY0lLd2Y0U3U0bUlrMVZuUnRTbjd4R2NCZW0zUWl3N0xnZ3NHRU1fMWtFYUdNeXNoUGtESnZpcEYwd3N5eGtna25ZSDZWbWNNMUxfR3dJLURJZXZQdkRNNThlVHdrV01ZYVnSAZgBQVVfeXFMT0UtOGE3NmpaTDhXNGQ1d25EVm9NeU5hdHBzMXppdjFWM0xrN0pvQ3NDQ0Z5T1pFdDJFelVrSm01X091MTM4XzgwOHpqa0dqdU0wWVllTm1tY3pBT05UZ0ZENUR2UGotTHhNdW9WR3hhSFdyQkJRUTlrOWFqM2hMUEMxVUpIcGM5Q0hSSV9UeHlmZkRoLXlmODk?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
 
 ---
 

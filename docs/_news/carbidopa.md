@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [El párkinson no es solo temblor: otros síntomas que podrían permitir anticipar el diagnóstico - El Periódico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTR3bFhPZFJScEpWd2FVTjFkU003X29rYkY2X0ZPbzgyV25aZjVVN295bktmMGJnRV9oMTN2NWRKTWVUOXpFTzQ5aFlkMjRoVC12YUZSNEhXc3RsckYtaWh6NGRwRFQyOWpzclVTUnFXVkI5azRFcDZ2Z29la1ZYNW9vTnZFRnByUHJ3WDZuMko2WGVBRWItdWRXUnJjc0psVS1RQ193blJ1OUZGLW4taURySGZ3R0k0NnE40gG7AUFVX3lxTFAtbXlBOE9KdVpiUjRkYWVQUFhJZG91SUFDc2tRTy1oendTTUM1RlotWk5ENkZoVERiQjVUUm0tbUJMUlZ0OE1valNCeGlmZWRlR2JJQ3FVWjM5THJBUXZqYlg5VFZxLWtYX2g3M2lVdVpzMnpoTldSSmx3MzVsdGVCTzEwZ0dTR1h5WmdoVjlHQW5lNFB6X29KZXA5TkVIYVg5VUp6dkw2d3NVZGVKUzRINnM0S1hqSjdxTmc?oc=5)
 
 2026-04-24 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
 
 來源：[El Periódico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTR3bFhPZFJScEpWd2FVTjFkU003X29rYkY2X0ZPbzgyV25aZjVVN295bktmMGJnRV9oMTN2NWRKTWVUOXpFTzQ5aFlkMjRoVC12YUZSNEhXc3RsckYtaWh6NGRwRFQyOWpzclVTUnFXVkI5azRFcDZ2Z29la1ZYNW9vTnZFRnByUHJ3WDZuMko2WGVBRWItdWRXUnJjc0psVS1RQ193blJ1OUZGLW4taURySGZ3R0k0NnE40gG7AUFVX3lxTFAtbXlBOE9KdVpiUjRkYWVQUFhJZG91SUFDc2tRTy1oendTTUM1RlotWk5ENkZoVERiQjVUUm0tbUJMUlZ0OE1valNCeGlmZWRlR2JJQ3FVWjM5THJBUXZqYlg5VFZxLWtYX2g3M2lVdVpzMnpoTldSSmx3MzVsdGVCTzEwZ0dTR1h5WmdoVjlHQW5lNFB6X29KZXA5TkVIYVg5VUp6dkw2d3NVZGVKUzRINnM0S1hqSjdxTmc?oc=5)
-
----
-
-### [Dementia warning sign that could appear in front of the TV - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
-
-2026-04-23 <span class="news-indication-tag">dementia</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTl2VWNfdTZfcXprWGlCQlJlYWFNZlpsVktJMllqQ0tSY1JFc0JmU0luOUJNY3JCTDJiUG5ubFQzNUdQaEVoZWc4OE53SWRtcklSVFNHQ2VmY2duQjgxNUxrMHB3VmVaRUdmUFd4Y2RIckM0djZEeVBIdUZUWHAzV3I4S0FpTk3SAYwBQVVfeXFMUFlUMkFJV0FzamZsWlA3NEhJbktVcXZZbk5nRVEzeDcxNmM3MlFWTVRkZDdrVkFVZ082eUg5QkpxUW9leHNFc3dxbTNHV1hjb0toeG5ES2tjaFUzXzZzNk9jdmV0ZEs0Y3daS3VVYmZVZFFTZnp2QkE1RldPMm5Ub3V0cHVuOThYbHhGXzk?oc=5)
 
 ---
 

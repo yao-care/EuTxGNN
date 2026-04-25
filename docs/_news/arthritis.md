@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "artrite（arthritis） 相關新聞"
+title: "artritis（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artrite（arthritis） 的相關健康新聞報導。3 則新聞、73 個相關藥物。"
+description: "artritis（arthritis） 的相關健康新聞報導。4 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# artrite（arthritis） 相關新聞
+# artritis（arthritis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
-<strong>artrite（arthritis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="artritis（arthritis） 有什麼相關新聞？">
+<strong>artritis（arthritis）</strong> 目前有 <strong>4 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「artrite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「artritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -101,21 +101,29 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [El precio de los medicamentos para Parkinson, Covid o artritis en la sanidad pública de la Comunitat Valenciana: 456 millones en cuatro años - La Razón](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTFh2UTFGTjdpaHFwVWhnMUszSGl4U0gybVN2elIwY3FxWE5LVGoxQ3ZHclNGajYzRVI5RWJKeUc1bzNxQ05KTlZZME15ZW42ajh6c09SUjFSWks2TjYxMU1STFZqS0s5QkV1SkRlcnNoSkxTam5Yelp1ZnJ6dXBxNkxBTnZsQ2hZVnZWb1JYdTdjSXdzdXIwRHFEN2psdTdzMGV2NnR2RTkySjg3ejRFZnF0dGlpcnE4WUpCdkRFYTFtd2ZTdi1US0NMS1FFNGdJVFZnWVd1M2g5NHBXVlM0MW1peVdsQlRyam12MWJRTVJNTWJnMkFLaDVOOG9YUEY0MG5Lc3JkdTBYVGt0VHhrWE1BcW9PNm1PVEViQmR0OFBGbDg?oc=5)
+
+2026-04-25
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTFh2UTFGTjdpaHFwVWhnMUszSGl4U0gybVN2elIwY3FxWE5LVGoxQ3ZHclNGajYzRVI5RWJKeUc1bzNxQ05KTlZZME15ZW42ajh6c09SUjFSWks2TjYxMU1STFZqS0s5QkV1SkRlcnNoSkxTam5Yelp1ZnJ6dXBxNkxBTnZsQ2hZVnZWb1JYdTdjSXdzdXIwRHFEN2psdTdzMGV2NnR2RTkySjg3ejRFZnF0dGlpcnE4WUpCdkRFYTFtd2ZTdi1US0NMS1FFNGdJVFZnWVd1M2g5NHBXVlM0MW1peVdsQlRyam12MWJRTVJNTWJnMkFLaDVOOG9YUEY0MG5Lc3JkdTBYVGt0VHhrWE1BcW9PNm1PVEViQmR0OFBGbDg?oc=5)
+
+---
+
+### [New injection could help damaged joints repair themselves in weeks](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5XY2d1VFdSRi1mRHNwQWMzVXZmVFUwcFlzMTYtRUNKbXV6Zlk3NDRuOW9jLWZkNC02STZfLWdudEVISkdHWHRkZThUVGtsNFVyN1YxMEc3bGlSYXVadTdYVGRVaF92Ym5tUmlJNHJVZzJ5bG5CUjZzWWFpZFR1bDJhU2cwLTZpX041eVpFY294cnMxVkRPZDd3?oc=5)
+
+2026-04-24
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5XY2d1VFdSRi1mRHNwQWMzVXZmVFUwcFlzMTYtRUNKbXV6Zlk3NDRuOW9jLWZkNC02STZfLWdudEVISkdHWHRkZThUVGtsNFVyN1YxMEc3bGlSYXVadTdYVGRVaF92Ym5tUmlJNHJVZzJ5bG5CUjZzWWFpZFR1bDJhU2cwLTZpX041eVpFY294cnMxVkRPZDd3?oc=5)
+
+---
 
 ### [Keine Antibiotika bei Antibiotika-refraktärer Lyme-Arthritis!](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
 
 2026-04-24
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
-
----
-
-### [Giornata spondiloartrite assiale, Apmarr promuove 'Conoscere per riconoscere' - Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
-
-2026-04-23
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGw3Z1dEZXNaald0bXo2VkpqWGxkNXQ2Ukx4bWFSdHF3YTY0c1Vyd2NjZEVXeHpyLWRnQVMzdnFSYVJmZzhGNE4xN3UzWDB6QWhsWEtaZWc2bWcxc0NsY1RVd3lfTHh2NGVGNXBUUVpfTEN3MnVIeXExZ2xWY29wT1NGNE9MQ0JScEU4aUNuM05IQ252cm5xMVZad2JlMjRYcmkyNm9uRkpfOGN3ZGRWTm43djJrakpQVFpJZEFweFRvWlk5Sm1jal9vaV9ndDhRR1U0YmRIQTRibFRrYnRj?oc=5)
 
 ---
 

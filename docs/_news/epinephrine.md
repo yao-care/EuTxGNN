@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Voici les 10 meilleurs aliments à privilégier pour faire baisser son taux de cholestérol](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkx6eDdJSG9EVmxzd0Y0eEt2eFBtRHQ5Qm9MXzNnR0V6U1FuelQxR3RGWkhlNTdRTHlVeVBJV1N6ZEFGalYtTWx4bG5tWjNTak5XanZ1aXdJNTRnWTJmaVBRYVlHQ1ZITzBxN3VWVE1wUkFwdXo3N1FTand2dHNhYmRrY3M1bHZzMUJpbEJBZm1OVl9ManVpVkJnaDJWQUwwTHZiMWVQOTdTT05aVGZsaWtB0gG3AUFVX3lxTE9mOXVKVDJhcDY2NktUVmJlaENBa29sT0pya2NIcXVaRFBfdlNDbzB1ejN3a0h6RDNBQm9nRVk0SVdHalk0Z1FpRzNYSGREUUgzTXN1bHllZjNieFQ5WFRjbmJFLUhyRTBQMnRKMjMyWjBnQUFuUXBjWUNfUnF1ZFM2SW1ZMkJMNmNQeFg4MTh6MjljcGRtSHozUERYUHdRcjhvWWpsTnhRT1Y0UUxPX2tfaHNnOEdqOA?oc=5)
-
-2026-04-23 <span class="news-indication-tag">EPOC</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkx6eDdJSG9EVmxzd0Y0eEt2eFBtRHQ5Qm9MXzNnR0V6U1FuelQxR3RGWkhlNTdRTHlVeVBJV1N6ZEFGalYtTWx4bG5tWjNTak5XanZ1aXdJNTRnWTJmaVBRYVlHQ1ZITzBxN3VWVE1wUkFwdXo3N1FTand2dHNhYmRrY3M1bHZzMUJpbEJBZm1OVl9ManVpVkJnaDJWQUwwTHZiMWVQOTdTT05aVGZsaWtB0gG3AUFVX3lxTE9mOXVKVDJhcDY2NktUVmJlaENBa29sT0pya2NIcXVaRFBfdlNDbzB1ejN3a0h6RDNBQm9nRVk0SVdHalk0Z1FpRzNYSGREUUgzTXN1bHllZjNieFQ5WFRjbmJFLUhyRTBQMnRKMjMyWjBnQUFuUXBjWUNfUnF1ZFM2SW1ZMkJMNmNQeFg4MTh6MjljcGRtSHozUERYUHdRcjhvWWpsTnhRT1Y0UUxPX2tfaHNnOEdqOA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

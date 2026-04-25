@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Teenager-Jahre entscheidend: Übergewicht in der Jugend bleibt oft bis zum Erwachsenenalter](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
+
+2026-04-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
+
+---
 
 ### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
@@ -80,7 +88,7 @@ permalink: /news/bupropion/
 
 ### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
-2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
 
@@ -91,22 +99,6 @@ permalink: /news/bupropion/
 2026-04-23 <span class="news-indication-tag">obesidad</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLU1nOXNDSHdZWU91SWk1WkRlMXEyRU4zSWt2cUpmc0JoTXpVbUUtZS1SQTVxR3N4OFB2eHFpcVlKdTdfUGtHWTNPakp3NXpiS3Z3UVFfNkZDV2lxdWhqMVVnUk9TUTZfUHBCTmtaclNSbkwzMmdZaTNxTDJHZm1jNVZFZV80Xzh4Vy1OTVVmSi1KUFlDdGlhdVM5eHZ3Nm5icklPNVh5aTM5ak5PTklmaTBQVHFNc2hkazdFcy1GdGxPdjg?oc=5)
-
----
-
-### [Cancer cases reach record high in UK with diagnosis every 80 seconds | ITV News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVdjRXpWV0RiZGVsYlRZNXBSc2E5Z3RDZDA2WjdRRXRXQmFRQ2FRUDZtMjU3cFM0c3RkSzdETFhSRENpcVJxQV9MSVFQMGVzQ2FMek1GVlZrZmJIa3ZOc3RkSUNTb2hmQWZnYVdFVUhZSVV4czd1Ym4zaWRTM185V1RTWmcxaFlxYzlNX0lkdzViSWVNNjZieC15TXFyRGNtX01qajNmQQ?oc=5)
-
-2026-04-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[ITVX](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVdjRXpWV0RiZGVsYlRZNXBSc2E5Z3RDZDA2WjdRRXRXQmFRQ2FRUDZtMjU3cFM0c3RkSzdETFhSRENpcVJxQV9MSVFQMGVzQ2FMek1GVlZrZmJIa3ZOc3RkSUNTb2hmQWZnYVdFVUhZSVV4czd1Ym4zaWRTM185V1RTWmcxaFlxYzlNX0lkdzViSWVNNjZieC15TXFyRGNtX01qajNmQQ?oc=5)
-
----
-
-### [Übergewicht mit 17: Warum die Kilos später kaum verschwinden](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmdiZ214RGVNZGtaenNRcGY2M2tsd050akRINkZ2QzAtQXg0ekRBUGgzcUs0Qm5ZeGNKVzJKNVg3YXNqLVoxVkk1UkV6WDlTUF90RXhXaWx1VEY4T0dpR042SmYtWFJOLTlQLUVUbEdPS3EtejRXX1VhRm8xS2VkRVlrSUd2RUJKZzdhYzVCYi1MbWFubEZZR1JqZENCaEhydzZyakVWbUU0NWE0V3ExQUJBbVA3M0NadDd0bXpLb1o3czJvVXgzVkE4eFFYemxEcmc?oc=5)
-
-2026-04-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmdiZ214RGVNZGtaenNRcGY2M2tsd050akRINkZ2QzAtQXg0ekRBUGgzcUs0Qm5ZeGNKVzJKNVg3YXNqLVoxVkk1UkV6WDlTUF90RXhXaWx1VEY4T0dpR042SmYtWFJOLTlQLUVUbEdPS3EtejRXX1VhRm8xS2VkRVlrSUd2RUJKZzdhYzVCYi1MbWFubEZZR1JqZENCaEhydzZyakVWbUU0NWE0V3ExQUJBbVA3M0NadDd0bXpLb1o3czJvVXgzVkE4eFFYemxEcmc?oc=5)
 
 ---
 
