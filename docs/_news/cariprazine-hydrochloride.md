@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [El suelo pélvico, "el gran olvidado en el deporte": por qué es importante entrenarlo y no ignorar el dolor - Onda Cero](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkpMYnNWV1VmYUE5cWEzS2RzRHppMG14czlZd2pld2N5aU96cXBNNGZST0Z5X1V2Z3E4UDN4bDJkT3g1dUdLU29saWd3aW0xeVBwQkl4QW9POXI1N3h5VXBJZ09sUE1QVUxhWmJ3UWJLOFdpT1lpdmZQWDg4TzRXbXVOMzBiWG5OcGFXWU9pd2lYelc5YWZtWUFCZUVuaFFRLU9XN2tmaHMySkJsRlNKOGJDcjhEdjFsQVBYQ3hUOWpxclRsUFNVNlZ0Yzc2eWxEd2FoUVYybkxJSUVqRU1Z0gHfAUFVX3lxTE9sRThVdXBlS2NHM1JKQVFCeWpfMmlhZHZ5T2l5U2tqMjVDMHFEYVU2eTFKOEwtaWFDQ2NteTNYSC1PMUJVd0JSQnZOM1RnMkpZWlhDUHVlZjJYMnFZRUYyVzFyc2F1WEtrblpiMDVJT0t2aHl4dlJoYmZuOGQ3bmR3MEN1NXB0MFk2UUROT3VmVWR3aUF2M0YzRFNsaFh0ckpiSXQycDVZZXZnN3RMdmdSQi00OHJjbEtYeWFPUkZWVXRZdXB5WlRESnZHcjA5eEJhZ1dnU3VlcVVSdEtwWUE?oc=5)
+
+2026-04-25 <span class="news-indication-tag">MS</span>
+
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkpMYnNWV1VmYUE5cWEzS2RzRHppMG14czlZd2pld2N5aU96cXBNNGZST0Z5X1V2Z3E4UDN4bDJkT3g1dUdLU29saWd3aW0xeVBwQkl4QW9POXI1N3h5VXBJZ09sUE1QVUxhWmJ3UWJLOFdpT1lpdmZQWDg4TzRXbXVOMzBiWG5OcGFXWU9pd2lYelc5YWZtWUFCZUVuaFFRLU9XN2tmaHMySkJsRlNKOGJDcjhEdjFsQVBYQ3hUOWpxclRsUFNVNlZ0Yzc2eWxEd2FoUVYybkxJSUVqRU1Z0gHfAUFVX3lxTE9sRThVdXBlS2NHM1JKQVFCeWpfMmlhZHZ5T2l5U2tqMjVDMHFEYVU2eTFKOEwtaWFDQ2NteTNYSC1PMUJVd0JSQnZOM1RnMkpZWlhDUHVlZjJYMnFZRUYyVzFyc2F1WEtrblpiMDVJT0t2aHl4dlJoYmZuOGQ3bmR3MEN1NXB0MFk2UUROT3VmVWR3aUF2M0YzRFNsaFh0ckpiSXQycDVZZXZnN3RMdmdSQi00OHJjbEtYeWFPUkZWVXRZdXB5WlRESnZHcjA5eEJhZ1dnU3VlcVVSdEtwWUE?oc=5)
+
+---
 
 ### [Woman's harrowing last four words as she dies of lung problems after vaping habit - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlU1bjkyaVN6YlgxOThyYVVWbVJwTXpJRHE2S3RpZWpCREI3N2NsRU1zM0F1R0ZOQnVSRWlCLXNCNTRTZ3FTcjJkUERvT0tSQUFRT1U1TVpoN3k2VHFjYlFaRWdVbjZGVjVqdXF1TXdkMFpRRGpLWFByVjA0T3dkNXNCT3R2YnFzMFhFWHVB0gGTAUFVX3lxTE1KSDRieC1ZTWZWc1JQN1RiaGg5a0NMX0FaYXg0THdTbmR2cHpyOVlPdWVJX0k1Tk9xRHozbUhEei0yWkRIOVJPdlhUN2lNQ1BLOEpMclNFOUZZdDlsQ2FmcjBVeHhHUEgwaXRwVGlaQ0NvMGx1Rk55QmYxbnRNOHZpUC1nZi1WOFJ2bFc1Q2pOZTJfUQ?oc=5)
 
@@ -62,11 +70,35 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [Las frutas y vegetales podrían estar vinculados con el riesgo de cáncer de pulmón en los no fumadores - Gizmodo en Español](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUxudlZSVnVUVnBZUHRIdG1KX3I0S2NEY0pNZlhONWg3dGFWOVhNRDJRVEFSaDZkNEtXTFhvTmdWa19saW1rNmNVRld5M3dFYTZYUXJQTFFzbnUyRVA2aThMSFhkLW80eExtVy1tdkNoX1dTX0RrUmU5eEhRSm80YXNGX1d4c2ktUGdiSExWcW1yRGg0TnRTTDFtQUxPN0x4N0hLelU1VG1YQllIdjQ3ZnNhUTNhbTFReTVET2pFOWJNaXJ4SG9QWEktbm5uOXNv?oc=5)
+
+2026-04-25 <span class="news-indication-tag">MS</span>
+
+來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUxudlZSVnVUVnBZUHRIdG1KX3I0S2NEY0pNZlhONWg3dGFWOVhNRDJRVEFSaDZkNEtXTFhvTmdWa19saW1rNmNVRld5M3dFYTZYUXJQTFFzbnUyRVA2aThMSFhkLW80eExtVy1tdkNoX1dTX0RrUmU5eEhRSm80YXNGX1d4c2ktUGdiSExWcW1yRGg0TnRTTDFtQUxPN0x4N0hLelU1VG1YQllIdjQ3ZnNhUTNhbTFReTVET2pFOWJNaXJ4SG9QWEktbm5uOXNv?oc=5)
+
+---
+
+### [Les coupes dans l'aide américaine menacent des "dizaines de milliers de vies d'enfants" face au paludisme](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFF3a2pLb0R3ZEVadi1kTF9pN01WU2pkbHZZZTJWb1ZMaFNXN0FxRjhlZy1tcjhpX2p1ZFZhdGNYby03d3NQMDRaSVpFV1p6cnpHeS1ZaklEMTB5MXI2bGozTGxveVdka0NjcTBQYVZFelRKeEk1N1ppNmFsUTkzbS1KUm53R1NNcGprZUVXbW5CTGd3WWtmbVI1RlluT2MxcUhONmtXRU5UZXlNWjRxX2VGN0JHTHdRTTJsN2dhRlZWMVBMdGhYNk1kQzQxZkYybE9SQi1Pc3pYWVIyYWpMdUJIYlB5d2JYU3Uydw?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFF3a2pLb0R3ZEVadi1kTF9pN01WU2pkbHZZZTJWb1ZMaFNXN0FxRjhlZy1tcjhpX2p1ZFZhdGNYby03d3NQMDRaSVpFV1p6cnpHeS1ZaklEMTB5MXI2bGozTGxveVdka0NjcTBQYVZFelRKeEk1N1ppNmFsUTkzbS1KUm53R1NNcGprZUVXbW5CTGd3WWtmbVI1RlluT2MxcUhONmtXRU5UZXlNWjRxX2VGN0JHTHdRTTJsN2dhRlZWMVBMdGhYNk1kQzQxZkYybE9SQi1Pc3pYWVIyYWpMdUJIYlB5d2JYU3Uydw?oc=5)
+
+---
+
 ### [New injection could help damaged joints repair themselves in weeks](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5XY2d1VFdSRi1mRHNwQWMzVXZmVFUwcFlzMTYtRUNKbXV6Zlk3NDRuOW9jLWZkNC02STZfLWdudEVISkdHWHRkZThUVGtsNFVyN1YxMEc3bGlSYXVadTdYVGRVaF92Ym5tUmlJNHJVZzJ5bG5CUjZzWWFpZFR1bDJhU2cwLTZpX041eVpFY294cnMxVkRPZDd3?oc=5)
 
 2026-04-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5XY2d1VFdSRi1mRHNwQWMzVXZmVFUwcFlzMTYtRUNKbXV6Zlk3NDRuOW9jLWZkNC02STZfLWdudEVISkdHWHRkZThUVGtsNFVyN1YxMEc3bGlSYXVadTdYVGRVaF92Ym5tUmlJNHJVZzJ5bG5CUjZzWWFpZFR1bDJhU2cwLTZpX041eVpFY294cnMxVkRPZDd3?oc=5)
+
+---
+
+### [La OMS, UNICEF y Gavi vacunan a 18,3 millones de niños afectados por las interrupciones Covid - La Rioja](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTBFWW0waTl1VUJvUlRjR1Y3MzQyVGxzUWxNcHNMRUd0RWNsaDdQdDd5bmVvbUtsNGJvOWFDT3diVWR6ZDUyUjJVNGQtbkpHamtCYjU1UThBZEhyYkhlZTVxN3RCNTdxbkREd29SUm93dzFiTU9TQllqSzRPeHd4OW4tWGF2OTc5MzFuaGlhNTdiWmZqNEZRaXJUejMxbE1EUktRUFJCNDhFREdmU1MzN29TdnbSAboBQVVfeXFMT1Q4dDNaUEF2eERmNXBpNURfR2hBSXNtWkRyU205alhsZ1MtVEtMQ1NXdDhWSFZFRW1iM3kxUHBpVERXQXVRaDNLZ1hhOU1melZwSmpzeFlqaW5OZG9Ba2F1aHFyOUZkN3hwSHVqOWh6RDQ1WlcxS0poc28tdGFOam4wajVaM2NkSEtxd3psbU5PSWhRSWdiNEFCYW5sbEx4Y01oZTV2MUUta0Ribkg3NzdJWEpKbDhTMGxn?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Rioja](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTBFWW0waTl1VUJvUlRjR1Y3MzQyVGxzUWxNcHNMRUd0RWNsaDdQdDd5bmVvbUtsNGJvOWFDT3diVWR6ZDUyUjJVNGQtbkpHamtCYjU1UThBZEhyYkhlZTVxN3RCNTdxbkREd29SUm93dzFiTU9TQllqSzRPeHd4OW4tWGF2OTc5MzFuaGlhNTdiWmZqNEZRaXJUejMxbE1EUktRUFJCNDhFREdmU1MzN29TdnbSAboBQVVfeXFMT1Q4dDNaUEF2eERmNXBpNURfR2hBSXNtWkRyU205alhsZ1MtVEtMQ1NXdDhWSFZFRW1iM3kxUHBpVERXQXVRaDNLZ1hhOU1melZwSmpzeFlqaW5OZG9Ba2F1aHFyOUZkN3hwSHVqOWh6RDQ1WlcxS0poc28tdGFOam4wajVaM2NkSEtxd3psbU5PSWhRSWdiNEFCYW5sbEx4Y01oZTV2MUUta0Ribkg3NzdJWEpKbDhTMGxn?oc=5)
 
 ---
 
@@ -83,14 +115,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-04-24 <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxObVc2RDNWWURxeTJkVkhvOUgteWVmOThqdTMwTmxaQl9WTHJkU2lsdnJtVDA2Mll2NjJxZHRXU3VWRUhsQUpXZGVOMkpjU0JaODBvaXQ5akplOXZwQ2xIbjdmLWY3SlhJWndINFA1TWxpbmxhbE9iV2J1WnMzel9SNlNR0gGHAUFVX3lxTE1XS0pUS3pTSDAwRW5SNWQ3NjlEM2VuT19GaWZqOE9UQUh4STZOdktZazJVaWlnT3hKc0VNc2lTYkZjNTZxRVE1aTA1VkpXYjE3R2NCOG1mcEdwcTVUbXFtNTF3QXhiMDZnN2J2ZWdGR0ZOVnRnMWxpRm9XdldFWW5FSUJ1UXc3TQ?oc=5)
-
----
-
-### [La campaña para poner al día la vacunación infantil va por buen camino, dice la ONU - France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
 
 ---
 
@@ -115,22 +139,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-04-23 <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdMbzlOcDRyYldmWkZwUGQxWlp3d3F4c0JadzNWN1FVSkR5eFB2R0N4b21KZnM4LXdJTGFVcXZ4VEZRbEtVa0dTeGM4b3JmNWotOG9fcVYwRlhwZW9SOGloZ1kwa2NLMnU3YkhLT0tlczRiRDF2VVU0Rm5SOWp2ekFBcFlNZHZIcFh3OEZ3aE1ucVQtZ1E?oc=5)
-
----
-
-### [Tödliche Meningitis breitet sich in sudanesischen Flüchtlingslagern im Tschad aus, so MSF - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaXdUbmQ3LVhzdjRKWi1vYkpUZkdWZEowbkxKeDFzcHFrdzJvTm1lLXNoQ2tmZmEyanBWUlRPYkJVT2V2TUxzc2hsMmlRNGhkYWlUYjhObVNpUkd4eUdLcmlYaUZGYnU4Yjd5RlEzY1NWQjUwa2dEWmNtSHV1elpHYkZqMjVoMWYxbjEwZGJDSjk2Nm1UdGtLZFlmdjIwc1hhTzRicUVDV3lpYTN6MlZyRDNKOUFocWQ3LVl3UWxqSzVQOWh5MDk2WW5LNXBsdElBcG9FQ05Fb3F2UmFqUDY0ZHhUM01nblhnaS1SMA?oc=5)
-
-2026-04-23 <span class="news-indication-tag">MS</span>
-
-來源：[MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaXdUbmQ3LVhzdjRKWi1vYkpUZkdWZEowbkxKeDFzcHFrdzJvTm1lLXNoQ2tmZmEyanBWUlRPYkJVT2V2TUxzc2hsMmlRNGhkYWlUYjhObVNpUkd4eUdLcmlYaUZGYnU4Yjd5RlEzY1NWQjUwa2dEWmNtSHV1elpHYkZqMjVoMWYxbjEwZGJDSjk2Nm1UdGtLZFlmdjIwc1hhTzRicUVDV3lpYTN6MlZyRDNKOUFocWQ3LVl3UWxqSzVQOWh5MDk2WW5LNXBsdElBcG9FQ05Fb3F2UmFqUDY0ZHhUM01nblhnaS1SMA?oc=5)
-
----
-
-### [Breakthrough drug trial to eradicate bowel cancers surging in young adults - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5uQTBmUWQ0U05yRWxVbmpIQ0RiWGwwNnlUMklmUW1oemJYU3YtbThaSmJBVkZhVTlrYzZ0OUFsQldpazI1SjZ6clVZaFNLYllJUG1VWFlHNkdNb09GS2hRTHNWSjlFdURFQzU5ZlpBczhJY1VNWTlIVTNILTk3UdIBgwFBVV95cUxOZVFrMXFhMGZITzB0U0pPaXVXODlNVXhVRVBuZmdRYjg0UzRkTXNzNTJpYW53bEwwYkRZZC00azVfaUJ4Z2JjWFhkVnpzanl3WWh2Ulo5MGdKdnRsQ2VvanhBWlF6TTJTVExlaEU0NlFjUDB1Y3hGbm1aYUF3d3pFOVBQWQ?oc=5)
-
-2026-04-23 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5uQTBmUWQ0U05yRWxVbmpIQ0RiWGwwNnlUMklmUW1oemJYU3YtbThaSmJBVkZhVTlrYzZ0OUFsQldpazI1SjZ6clVZaFNLYllJUG1VWFlHNkdNb09GS2hRTHNWSjlFdURFQzU5ZlpBczhJY1VNWTlIVTNILTk3UdIBgwFBVV95cUxOZVFrMXFhMGZITzB0U0pPaXVXODlNVXhVRVBuZmdRYjg0UzRkTXNzNTJpYW53bEwwYkRZZC00azVfaUJ4Z2JjWFhkVnpzanl3WWh2Ulo5MGdKdnRsQ2VvanhBWlF6TTJTVExlaEU0NlFjUDB1Y3hGbm1aYUF3d3pFOVBQWQ?oc=5)
 
 ---
 

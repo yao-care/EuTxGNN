@@ -14,7 +14,7 @@ permalink: /news/methylnaltrexone-bromide/
 ---
 
 <p class="key-answer" data-question="Methylnaltrexone Bromide 有什麼相關新聞？">
-<strong>Methylnaltrexone Bromide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylnaltrexone Bromide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/methylnaltrexone-bromide/
 <p><a href="{{ '/drugs/methylnaltrexone-bromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（14 則）
 
-### [Influencer, 19, dies from rare cancer just weeks after telling fans 'I'm not ready to go' as she shared tragic battle - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3lDeV96QXRiekIxU1dlLUJDLWFyTHFQR0tocXJ1N21BNnpWMUxvMUdzVXgtWldoZnQzR1pyOWZFYnBjb1J0eTQ1Rl9IYXZ2WmpSdDJOWHhFelF2T2E3dUlpUWF3c0NmaFJ2UGZ0T2Z6TmlmODJTWWU2RERFcWlkdkM4MA?oc=5)
+### [Boire deux à trois cafés par jour : un réflexe santé à adopter, selon cette nouvelle étude](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
 
-2026-04-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3lDeV96QXRiekIxU1dlLUJDLWFyTHFQR0tocXJ1N21BNnpWMUxvMUdzVXgtWldoZnQzR1pyOWZFYnBjb1J0eTQ1Rl9IYXZ2WmpSdDJOWHhFelF2T2E3dUlpUWF3c0NmaFJ2UGZ0T2Z6TmlmODJTWWU2RERFcWlkdkM4MA?oc=5)
+來源：[Presse-citron](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
+
+---
+
+### [Is exercise as effective as treatments for depression and anxiety? - The Economist](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmxtUGQ2VEVvbVBwVHRfN1dhSzRLcm9kYWR6M2JUYlRCSmRDOU0teTlXR28xRko3d0gxTVJxcW01NmVlb1B6YXp0a0MwY2haUkczcGdncWFZc0g0SklWYm0yM1RuSnM2ZlJnNHFWdkVKX3ljYUl2TDc3a01qcmE4b3Z3SUs2cGU0dE5OUGY2Z0FKcDN5d1VBbTZzU01sUmJuanZvbktTLWkzOXAyU1Z0ZzZ3NkctR2E2RWFNeDB4Z3hPcDg?oc=5)
+
+2026-04-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmxtUGQ2VEVvbVBwVHRfN1dhSzRLcm9kYWR6M2JUYlRCSmRDOU0teTlXR28xRko3d0gxTVJxcW01NmVlb1B6YXp0a0MwY2haUkczcGdncWFZc0g0SklWYm0yM1RuSnM2ZlJnNHFWdkVKX3ljYUl2TDc3a01qcmE4b3Z3SUs2cGU0dE5OUGY2Z0FKcDN5d1VBbTZzU01sUmJuanZvbktTLWkzOXAyU1Z0ZzZ3NkctR2E2RWFNeDB4Z3hPcDg?oc=5)
 
 ---
 
@@ -134,43 +142,11 @@ permalink: /news/methylnaltrexone-bromide/
 
 ---
 
-### [Daughter praises charity after cancer-hit dad, 61, refused treatment by NHS - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQMkd4dWxNQUFQV0pGRngxNWFxc2wxempubHdMUDljNFNfQWgwR3Q0MHBscTJKc3BSVEw1ZUhoQ2JoM2oyMDdKcDFlcHp4RXNBOHhaS1daU1AzelZtbEI5WnN4MVVIZG15bXEtbTJkNkd0aE50dzgtQ3YtYy1ReVdmbHloQnBDNkhvampXZ2FsdXJOV19CR0NnOEt0LTB5dw?oc=5)
-
-2026-04-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQMkd4dWxNQUFQV0pGRngxNWFxc2wxempubHdMUDljNFNfQWgwR3Q0MHBscTJKc3BSVEw1ZUhoQ2JoM2oyMDdKcDFlcHp4RXNBOHhaS1daU1AzelZtbEI5WnN4MVVIZG15bXEtbTJkNkd0aE50dzgtQ3YtYy1ReVdmbHloQnBDNkhvampXZ2FsdXJOV19CR0NnOEt0LTB5dw?oc=5)
-
----
-
 ### [C’est la fin d’un mystère physiologique : on sait désormais ce qui protège le cœur du cancer et des métastases - Le Figaro Santé](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3doZG1naTdSUWFtcWtiU0RsTVhRSkFGaHZTYUJCOF9GaVRRMVVoMnkyS0JKbkpzUHVNNkJwbFVWbk1uaXpLdkNzcFJaUUdUUXB6SEk1TFdhOXNtcTQyUkFXTzdBSFN1ZzRWMzljems4dnFENThqcE96U3FjRi1kYkY2aUN1aGdyd194VXR5UnJIeXVsSm5ZWUdRVjRacVBaNnlYN3dRamRKZkFTRFlZdXFLS0pPNmV3QXlCaHhhd2w0eGtxNDlyNnJHV3M3MUlTVFZvWlhxM0RWcEtXSkN0Mzh3QzF4V0Q2?oc=5)
 
 2026-04-23 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3doZG1naTdSUWFtcWtiU0RsTVhRSkFGaHZTYUJCOF9GaVRRMVVoMnkyS0JKbkpzUHVNNkJwbFVWbk1uaXpLdkNzcFJaUUdUUXB6SEk1TFdhOXNtcTQyUkFXTzdBSFN1ZzRWMzljems4dnFENThqcE96U3FjRi1kYkY2aUN1aGdyd194VXR5UnJIeXVsSm5ZWUdRVjRacVBaNnlYN3dRamRKZkFTRFlZdXFLS0pPNmV3QXlCaHhhd2w0eGtxNDlyNnJHV3M3MUlTVFZvWlhxM0RWcEtXSkN0Mzh3QzF4V0Q2?oc=5)
-
----
-
-### [Pascal Praud et vous - «On peut vivre sans prostate», affirme un oncologue radiothérapeute - Europe 1](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTVFRWl3WVJjWDJhbG5Tcl9jZ09iOEpMUVh2T0FyOHlJd3VvUzZoQ3YwUzVDZEdNRHEtdElNVHZxbnNTUy1fbU9XR0NMWGNKZTNaQ3VheklQVmx6bFFFd09VT05SWXNqRkpRem1XWkQxSFlac0JnWnlMTlJXbmR6QWxNY2diX0pKU2tQSWdQem82YjFKQkxDcHQyU3UxNDRLNHZUMV9MMVNjUkNRdUJxR2ZCMXRiWFI1SS1LSHl30gHDAUFVX3lxTE9DU2RGUFptVVoxR19Zb3lrbHpFZV85VzBuSXA1UUpYYTExWi1OaWF6UkNxa3prRkpHRWt2NEtfOVA2dVlKVUxqMzNmRWtyZlBKTUFXVGJVMlZWdDR3ckJRbGpuMmExMl9wUmphVkFibS1TSUM3cVpfYUx3cHIyQ0UxdmVFSmduaVNFc0hMbzdhM1Fkb3lpNnJ0TDFvM1lMMGNzZURHVElFSU1fUENCVDZyYlFDbEI0cW9WaW5MSWllSmtwQQ?oc=5)
-
-2026-04-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTVFRWl3WVJjWDJhbG5Tcl9jZ09iOEpMUVh2T0FyOHlJd3VvUzZoQ3YwUzVDZEdNRHEtdElNVHZxbnNTUy1fbU9XR0NMWGNKZTNaQ3VheklQVmx6bFFFd09VT05SWXNqRkpRem1XWkQxSFlac0JnWnlMTlJXbmR6QWxNY2diX0pKU2tQSWdQem82YjFKQkxDcHQyU3UxNDRLNHZUMV9MMVNjUkNRdUJxR2ZCMXRiWFI1SS1LSHl30gHDAUFVX3lxTE9DU2RGUFptVVoxR19Zb3lrbHpFZV85VzBuSXA1UUpYYTExWi1OaWF6UkNxa3prRkpHRWt2NEtfOVA2dVlKVUxqMzNmRWtyZlBKTUFXVGJVMlZWdDR3ckJRbGpuMmExMl9wUmphVkFibS1TSUM3cVpfYUx3cHIyQ0UxdmVFSmduaVNFc0hMbzdhM1Fkb3lpNnJ0TDFvM1lMMGNzZURHVElFSU1fUENCVDZyYlFDbEI0cW9WaW5MSWllSmtwQQ?oc=5)
-
----
-
-### [Breakthrough drug trial to eradicate bowel cancers surging in young adults - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5uQTBmUWQ0U05yRWxVbmpIQ0RiWGwwNnlUMklmUW1oemJYU3YtbThaSmJBVkZhVTlrYzZ0OUFsQldpazI1SjZ6clVZaFNLYllJUG1VWFlHNkdNb09GS2hRTHNWSjlFdURFQzU5ZlpBczhJY1VNWTlIVTNILTk3UdIBgwFBVV95cUxOZVFrMXFhMGZITzB0U0pPaXVXODlNVXhVRVBuZmdRYjg0UzRkTXNzNTJpYW53bEwwYkRZZC00azVfaUJ4Z2JjWFhkVnpzanl3WWh2Ulo5MGdKdnRsQ2VvanhBWlF6TTJTVExlaEU0NlFjUDB1Y3hGbm1aYUF3d3pFOVBQWQ?oc=5)
-
-2026-04-23 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5uQTBmUWQ0U05yRWxVbmpIQ0RiWGwwNnlUMklmUW1oemJYU3YtbThaSmJBVkZhVTlrYzZ0OUFsQldpazI1SjZ6clVZaFNLYllJUG1VWFlHNkdNb09GS2hRTHNWSjlFdURFQzU5ZlpBczhJY1VNWTlIVTNILTk3UdIBgwFBVV95cUxOZVFrMXFhMGZITzB0U0pPaXVXODlNVXhVRVBuZmdRYjg0UzRkTXNzNTJpYW53bEwwYkRZZC00azVfaUJ4Z2JjWFhkVnpzanl3WWh2Ulo5MGdKdnRsQ2VvanhBWlF6TTJTVExlaEU0NlFjUDB1Y3hGbm1aYUF3d3pFOVBQWQ?oc=5)
-
----
-
-### [Cancer : des chercheurs ont mis au point un piège qui se referme sur la tumeur au moment où elle résiste - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT1padldOWjFpN2FBNk0tdnQ5ZXdSZV9uMTFNaGtsSEYtSjBXS0tFZUtDdDZnN01tMXU1OEZwdlZGdGRIYUkzdFFSXzloQUxWUHNvMkxTa0x1ajFQd2loZkVaZWJ4WXdPMjVFYVJhd0NaMkdqcG9MRHpaanFKUFUwY2F3Z1A3WEFaX1owOElvcGRFN2I4aWY5SGZ3SXJ6eFl4Tzhmb2phWUFReG5sUldPSVl1YXBNLW92WXg4Zkpkd3JlaFpGWGZFbnZvODM0QUh3cnlibzR0MXVfZG1YRUE?oc=5)
-
-2026-04-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT1padldOWjFpN2FBNk0tdnQ5ZXdSZV9uMTFNaGtsSEYtSjBXS0tFZUtDdDZnN01tMXU1OEZwdlZGdGRIYUkzdFFSXzloQUxWUHNvMkxTa0x1ajFQd2loZkVaZWJ4WXdPMjVFYVJhd0NaMkdqcG9MRHpaanFKUFUwY2F3Z1A3WEFaX1owOElvcGRFN2I4aWY5SGZ3SXJ6eFl4Tzhmb2phWUFReG5sUldPSVl1YXBNLW92WXg4Zkpkd3JlaFpGWGZFbnZvODM0QUh3cnlibzR0MXVfZG1YRUE?oc=5)
 
 ---
 

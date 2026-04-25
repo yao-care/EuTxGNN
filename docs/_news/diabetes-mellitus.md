@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（6 則）
 
 ### [Teenager-Jahre entscheidend: Übergewicht in der Jugend bleibt oft bis zum Erwachsenenalter](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
 
@@ -124,11 +124,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmRKMHgtWGtMdkVOUUJkaFdwVm52M3RxZGR5Z09nSEdNT2puYmdNY1UtMGJLMl9JUFlFY0QtQ1Ftb2xpbk9vaG5jWTRGZmZjUkpOQkwtbzdoVHNPaFJTZk9HRVNHZ2VVZTcwWDlPQXZ0bE42QjVQazBkb2FrUU84d3pzZ19idVNQVU05ZTZQNUNVX3Rib2NtNmw0NkplLThLWmZsOUNDRUR3WmZuZDhQWnA5cU1FczhwWkI1M2FwUmZiYnFW?oc=5)
+### [Boire deux à trois cafés par jour : un réflexe santé à adopter, selon cette nouvelle étude](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
 
-2026-04-25
+2026-04-24
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmRKMHgtWGtMdkVOUUJkaFdwVm52M3RxZGR5Z09nSEdNT2puYmdNY1UtMGJLMl9JUFlFY0QtQ1Ftb2xpbk9vaG5jWTRGZmZjUkpOQkwtbzdoVHNPaFJTZk9HRVNHZ2VVZTcwWDlPQXZ0bE42QjVQazBkb2FrUU84d3pzZ19idVNQVU05ZTZQNUNVX3Rib2NtNmw0NkplLThLWmZsOUNDRUR3WmZuZDhQWnA5cU1FczhwWkI1M2FwUmZiYnFW?oc=5)
+來源：[Presse-citron](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
 
 ---
 
@@ -161,30 +161,6 @@ permalink: /news/diabetes-mellitus/
 2026-04-24
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVU2RHIwOC02VkVjRnhyRXlpT0tNRkJHOG45OElBLWxzSXo4TFN6M0lCVks1NTU4bkVSQnh5ajFfWWEzTnR1clR3c2MzbnZ6bjh4dXR6NE1oNTdrY3pvZnVIeUFOR3hPd2lkclF2OURHc1BkWnhDSjdGWFg3UGtsdjJtLWpHVHZMbkg1T3N4ekNQYWdBbVVOZjE1ZlBub29oc2x5MnJwMjFXWDlqckE?oc=5)
-
----
-
-### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
-
-2026-04-23
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
-
----
-
-### [Nicht jeder profitiert: Diabetes-Risiko trotz langfristigen Gewichtsverlusts - DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEdiMzlfU0pCWFpxOTR3R0hPeUNveXBIVy02YVlkYzBCRWM0b25GZ0I1MHc5eDROS3NDQU1ndElrTWtmVWM0YTlQZmFVYjAtQlFLMjd5RnVmYzN6cFJsYWpIUVpKYmxSenpTWklFakhCc28tOUVDVk94M2g0SkQ3U1FhbzNHeVc3a2QxLXFhaXlVQWJDZndxRWpCQ05zZnFkSjVvWmRjNWI?oc=5)
-
-2026-04-23
-
-來源：[DZD - Deutsches Zentrum für Diabetesforschung](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEdiMzlfU0pCWFpxOTR3R0hPeUNveXBIVy02YVlkYzBCRWM0b25GZ0I1MHc5eDROS3NDQU1ndElrTWtmVWM0YTlQZmFVYjAtQlFLMjd5RnVmYzN6cFJsYWpIUVpKYmxSenpTWklFakhCc28tOUVDVk94M2g0SkQ3U1FhbzNHeVc3a2QxLXFhaXlVQWJDZndxRWpCQ05zZnFkSjVvWmRjNWI?oc=5)
-
----
-
-### [Dídac Mauricio Puente, nuevo presidente de la Sociedad Española de Diabetes - Revista Pharma Market](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0lOUllGWkh6cE9Fenp2Nm5QRkdQZWFFUTZETVZxYmZHYUFLRVUtTHFUWTU1Ql9HbVNUTW9iS29zTXNrcG5CZUczZ1d0ZnpxUVBzQmlmZnZ3RHZLNXBBZzUyYlA0RzF6anlqYmNXTUZ2OFlBRHdkdm05WlJOaU1YOU1uOGM4aVc2dlhtRG5hZVFoMUNTTXIwbnB0bkRCUk1FdXBqWmJMTUhFT0VI?oc=5)
-
-2026-04-23
-
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0lOUllGWkh6cE9Fenp2Nm5QRkdQZWFFUTZETVZxYmZHYUFLRVUtTHFUWTU1Ql9HbVNUTW9iS29zTXNrcG5CZUczZ1d0ZnpxUVBzQmlmZnZ3RHZLNXBBZzUyYlA0RzF6anlqYmNXTUZ2OFlBRHdkdm05WlJOaU1YOU1uOGM4aVc2dlhtRG5hZVFoMUNTTXIwbnB0bkRCUk1FdXBqWmJMTUhFT0VI?oc=5)
 
 ---
 

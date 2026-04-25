@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Teenager-Jahre entscheidend: Übergewicht in der Jugend bleibt oft bis zum Erwachsenenalter](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
 
@@ -83,22 +83,6 @@ permalink: /news/melatonin/
 2026-04-24 <span class="news-indication-tag">obesidad</span>
 
 來源：[Equipos y Talento](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdjNWNzNU1oMHc0NkdxVjR2cHhBeVowUG5nRGNDem1STnlhMkRFM1Nhd3lQMElMVEJxTjNBaHZua0F6UUlTdm93RTNIc3NEdWFYN25JMmoxa01ycE1YcjFZdWlIVWw0NmVqN3ZrMDBBcHlJc05iQk1RaFpqbWZTMmU0bS0yOXpTNnFtN0RhNGQ5MktiSnJDYjNKOFhOWGlVV1hvaU9NOEJvU3k1bUVXLTRaQVUxdw?oc=5)
-
----
-
-### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
-
-2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
-
----
-
-### [La farmacia reivindica su papel de copiloto en el abordaje multidisciplinar de la obesidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLU1nOXNDSHdZWU91SWk1WkRlMXEyRU4zSWt2cUpmc0JoTXpVbUUtZS1SQTVxR3N4OFB2eHFpcVlKdTdfUGtHWTNPakp3NXpiS3Z3UVFfNkZDV2lxdWhqMVVnUk9TUTZfUHBCTmtaclNSbkwzMmdZaTNxTDJHZm1jNVZFZV80Xzh4Vy1OTVVmSi1KUFlDdGlhdVM5eHZ3Nm5icklPNVh5aTM5ak5PTklmaTBQVHFNc2hkazdFcy1GdGxPdjg?oc=5)
-
-2026-04-23 <span class="news-indication-tag">obesidad</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLU1nOXNDSHdZWU91SWk1WkRlMXEyRU4zSWt2cUpmc0JoTXpVbUUtZS1SQTVxR3N4OFB2eHFpcVlKdTdfUGtHWTNPakp3NXpiS3Z3UVFfNkZDV2lxdWhqMVVnUk9TUTZfUHBCTmtaclNSbkwzMmdZaTNxTDJHZm1jNVZFZV80Xzh4Vy1OTVVmSi1KUFlDdGlhdVM5eHZ3Nm5icklPNVh5aTM5ak5PTklmaTBQVHFNc2hkazdFcy1GdGxPdjg?oc=5)
 
 ---
 

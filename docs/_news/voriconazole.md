@@ -14,7 +14,7 @@ permalink: /news/voriconazole/
 ---
 
 <p class="key-answer" data-question="Voriconazole 有什麼相關新聞？">
-<strong>Voriconazole</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voriconazole</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/voriconazole/
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（24 則）
 
 ### [Die Kraft der Mikro-Nährstoffe – welche Sie wirklich brauchen](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjF4Q3pLTmNKVVQ5Q1M3eVhES2I4QmN4bEZoTlk3d0NYN21KZ19DbG9VWWJyZ2tGY1pwY19wSkRmbUJudW05MmpsTzRrMzltbjhaSXcxbWpnV1haMVBaUWhfTVlMemRpNXh1ZU1kLXJwZy0tVFU0UU04WXhDdzhoXy1QVkhVNXdDVXRZX05B?oc=5)
 
@@ -78,27 +78,11 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Influencer, 19, dies from rare cancer just weeks after telling fans 'I'm not ready to go' as she shared tragic battle - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3lDeV96QXRiekIxU1dlLUJDLWFyTHFQR0tocXJ1N21BNnpWMUxvMUdzVXgtWldoZnQzR1pyOWZFYnBjb1J0eTQ1Rl9IYXZ2WmpSdDJOWHhFelF2T2E3dUlpUWF3c0NmaFJ2UGZ0T2Z6TmlmODJTWWU2RERFcWlkdkM4MA?oc=5)
-
-2026-04-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3lDeV96QXRiekIxU1dlLUJDLWFyTHFQR0tocXJ1N21BNnpWMUxvMUdzVXgtWldoZnQzR1pyOWZFYnBjb1J0eTQ1Rl9IYXZ2WmpSdDJOWHhFelF2T2E3dUlpUWF3c0NmaFJ2UGZ0T2Z6TmlmODJTWWU2RERFcWlkdkM4MA?oc=5)
-
----
-
 ### [Farmaci rimborsabili: dall'Aifa arriva l'ok a quattro nuovi medicinali](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNW1McmVLeFd0SkFHSGJWcEp3YTg0S2V2dnNKUUt6dlJNQ1lrdGJreUIyX0gwZjROUnc4dWV5M3E5ekNQMTBvZHF0U3Fmc2J2LVhSN3RpMXVSa3pGMkVmazRkaEpwNndwUUx6VnFFbklCRl93QzlIOWVNWnJJcGhCVjBCZ1ZEN3BrZHI0VDFPTHk4WU3SAWhBVV95cUxNOExmN1Etc2JUTmFtRC1ILXJMMTZVUjNGdGpjUHpJNFJQMTJ3dWtZQ1ZieDFjNVJaZU94eElrUmo0S2xVdnAyQUtNRXBiRXJhVEtMdnhMUVhETFhreVNfQkhRSC10T2h5bA?oc=5)
 
 2026-04-25 <span class="news-indication-tag">AF</span>
 
 來源：[Tgcom24](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNW1McmVLeFd0SkFHSGJWcEp3YTg0S2V2dnNKUUt6dlJNQ1lrdGJreUIyX0gwZjROUnc4dWV5M3E5ekNQMTBvZHF0U3Fmc2J2LVhSN3RpMXVSa3pGMkVmazRkaEpwNndwUUx6VnFFbklCRl93QzlIOWVNWnJJcGhCVjBCZ1ZEN3BrZHI0VDFPTHk4WU3SAWhBVV95cUxNOExmN1Etc2JUTmFtRC1ILXJMMTZVUjNGdGpjUHpJNFJQMTJ3dWtZQ1ZieDFjNVJaZU94eElrUmo0S2xVdnAyQUtNRXBiRXJhVEtMdnhMUVhETFhreVNfQkhRSC10T2h5bA?oc=5)
-
----
-
-### [Celiachia, verso una diagnosi senza biopsia anche per gli adulti](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUMwWHk4TGROeEQwZVRJckxTMkZMbDZERUpPWlhmLUtWWXhpRzNhQmVxSVpWeEJTN2F3MzJSZmozMklXRzJrb2hYZkpiWVJXZWJRdGpQdVI4eVQ5NGJzMDdndzV6aFB6bnlnVUp4UFg0ZlFmN3M5NTRIbWVEX1NjV0UyQU1UR1lJZEF6WHZYZ1N2ZlliSlVZZU94eWNZSmlrQkhYcW5VVXAtY196X29wQkJTT1dWU1FvMTNJZC1vUC1JaVJ3WWpyQTdsLWlBV3hKQlN1OWJYYjhMdEZ0N2fSAeMBQVVfeXFMUHdkSFNfOE1nWEs3TG85d05yS3dIQmppQmljeVhJQzJkSFA2MHFNUTdNWmtTbXlDR3ZjRFUwYTBjeEhqbWUtc0JZVldMWEZtTnM3V05iQXhodHlFTTM1MW4xRnp3Vk9mSkV1ZlZCN0xMNXRVR0FkS3VGRTZWTl84NUtWbDNmX1A3aEE4cVZuYUIzbzZvaVNmV0JmUjNtS0k0ZzhTa2tmM1dyQ3hkQjdfSEJMMmVYTGIyTHNDZ3hoMDQzR3Z3eEI4d21HYWRKZXpmanJJbHhEZVFubUREYXJxcDdNS1E?oc=5)
-
-2026-04-25 <span class="news-indication-tag">AF</span>
-
-來源：[RaiNews](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUMwWHk4TGROeEQwZVRJckxTMkZMbDZERUpPWlhmLUtWWXhpRzNhQmVxSVpWeEJTN2F3MzJSZmozMklXRzJrb2hYZkpiWVJXZWJRdGpQdVI4eVQ5NGJzMDdndzV6aFB6bnlnVUp4UFg0ZlFmN3M5NTRIbWVEX1NjV0UyQU1UR1lJZEF6WHZYZ1N2ZlliSlVZZU94eWNZSmlrQkhYcW5VVXAtY196X29wQkJTT1dWU1FvMTNJZC1vUC1JaVJ3WWpyQTdsLWlBV3hKQlN1OWJYYjhMdEZ0N2fSAeMBQVVfeXFMUHdkSFNfOE1nWEs3TG85d05yS3dIQmppQmljeVhJQzJkSFA2MHFNUTdNWmtTbXlDR3ZjRFUwYTBjeEhqbWUtc0JZVldMWEZtTnM3V05iQXhodHlFTTM1MW4xRnp3Vk9mSkV1ZlZCN0xMNXRVR0FkS3VGRTZWTl84NUtWbDNmX1A3aEE4cVZuYUIzbzZvaVNmV0JmUjNtS0k0ZzhTa2tmM1dyQ3hkQjdfSEJMMmVYTGIyTHNDZ3hoMDQzR3Z3eEI4d21HYWRKZXpmanJJbHhEZVFubUREYXJxcDdNS1E?oc=5)
 
 ---
 
@@ -110,6 +94,22 @@ permalink: /news/voriconazole/
 
 ---
 
+### [El microbioma intestinal podría indicar el riesgo de padecer Párkinson](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNacWt5U3hqWEdjbXZzMnNjbU1BUnJCLUZoTFZfZE9WTGY3a2pieDlSZk1BTFlNd1NJVGJaUlpRZHdMOUdtRjE0RWoxVUw2TnprSF9KLUFUN3ZUdXY2NHBIa3RWNjlqMDNtSE82S3NMQzdfamJUZW41dmZnQnpFZ0lxQ2V2OUNuTzZ5QXl3SEFSUlI5MFl3cTA5YUh4OVR5VEJ1dWhjNGRSWDBhRkgza1RFTG05VVdWUy1CTDdn?oc=5)
+
+2026-04-25 <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNacWt5U3hqWEdjbXZzMnNjbU1BUnJCLUZoTFZfZE9WTGY3a2pieDlSZk1BTFlNd1NJVGJaUlpRZHdMOUdtRjE0RWoxVUw2TnprSF9KLUFUN3ZUdXY2NHBIa3RWNjlqMDNtSE82S3NMQzdfamJUZW41dmZnQnpFZ0lxQ2V2OUNuTzZ5QXl3SEFSUlI5MFl3cTA5YUh4OVR5VEJ1dWhjNGRSWDBhRkgza1RFTG05VVdWUy1CTDdn?oc=5)
+
+---
+
+### [Targeting lost pleasure lifts depression and anxiety more than standard therapy, new study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDEtVU91RmhSRUtZRVVVZjRrQ2VBUW5BQUV4Zk1XbmlqZzljNGxjbmdRWG5uWkFyUE1CcVl6SGxkUHI1cU12T2JpRWFCQ0dhelhOWU82amFsWE14TzF6Nk9UdjJLNjlhNGhkdGJ0QWRUaWlFbkpzWFI5cmhDQm1PR2s3RDRBR3BUd0dDeGpB?oc=5)
+
+2026-04-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDEtVU91RmhSRUtZRVVVZjRrQ2VBUW5BQUV4Zk1XbmlqZzljNGxjbmdRWG5uWkFyUE1CcVl6SGxkUHI1cU12T2JpRWFCQ0dhelhOWU82amFsWE14TzF6Nk9UdjJLNjlhNGhkdGJ0QWRUaWlFbkpzWFI5cmhDQm1PR2s3RDRBR3BUd0dDeGpB?oc=5)
+
+---
+
 ### [Pour votre santé, vaut-il mieux faire du sport le matin ou l’après-midi ?](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNX1NrM09YVkl4YTdpb0h4Ym1QYWpuYkxkX1h3S2cwUW9MVXRKZl9YY3Z2YTFWQ0R5UmlmU0J5MTRBc19nNVJ1Nml3N3dnVnRRbGVpWnpYN1htYmx5UWk1NUVEaTQ4N0tIZU9lbDhTNk1XYW9kTE4yenNJbXJaOWRZNXhqQ3hKYmtncTJlQmcwcWRKR1lkOFpLY3ItSFBDNjlmMHlKanZDYjZDTnFYWkhtcTIxZkp2TG1wZEx4NmpSaFNvNk1GbUh0cC1kM0FuRmFlaHZHb3JjVDFVSjNJQllBWmJ0S2JhTFpCRnQ0SDNQNzZtUHc?oc=5)
 
 2026-04-24 <span class="news-indication-tag">AF</span>
@@ -118,11 +118,35 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Boire deux à trois cafés par jour : un réflexe santé à adopter, selon cette nouvelle étude](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
+### [Nos ancêtres préhistoriques ne fuyaient pas seulement le climat : un autre danger les aurait poussé à partir - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc0ppWWRQenB5VjZGekpWQTR5RHZVUFUyV2I2Z0ZRemprVUF2MUhOLWxOcFBPZjRnamszenRCdWVtUkhBVHJ6eEhacFlmZWlZWDNBbVVNN2FUd2pBd1NZUThVblNNZW5wUkl4dEhYT3BlT2lUX3lVYkstdEtWVkxHUm1xekc2MHkzZHlNNks2SE5WNlNhVlNpT1ZBYVBFTTRBd3dUN1pmNVlFblhYR3VjcS1RR0xvek40eVZfMkZ4OFVIZXYzaktsZkxhVkxvZFd0RXAydTVheXdUSmlUdU5nYXJNVGt2em5IYUdjSFNkWmVQZW01ejJyZ2Nn?oc=5)
 
 2026-04-24 <span class="news-indication-tag">AF</span>
 
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc0ppWWRQenB5VjZGekpWQTR5RHZVUFUyV2I2Z0ZRemprVUF2MUhOLWxOcFBPZjRnamszenRCdWVtUkhBVHJ6eEhacFlmZWlZWDNBbVVNN2FUd2pBd1NZUThVblNNZW5wUkl4dEhYT3BlT2lUX3lVYkstdEtWVkxHUm1xekc2MHkzZHlNNks2SE5WNlNhVlNpT1ZBYVBFTTRBd3dUN1pmNVlFblhYR3VjcS1RR0xvek40eVZfMkZ4OFVIZXYzaktsZkxhVkxvZFd0RXAydTVheXdUSmlUdU5nYXJNVGt2em5IYUdjSFNkWmVQZW01ejJyZ2Nn?oc=5)
+
+---
+
+### [Les coupes dans l'aide américaine menacent des "dizaines de milliers de vies d'enfants" face au paludisme](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFF3a2pLb0R3ZEVadi1kTF9pN01WU2pkbHZZZTJWb1ZMaFNXN0FxRjhlZy1tcjhpX2p1ZFZhdGNYby03d3NQMDRaSVpFV1p6cnpHeS1ZaklEMTB5MXI2bGozTGxveVdka0NjcTBQYVZFelRKeEk1N1ppNmFsUTkzbS1KUm53R1NNcGprZUVXbW5CTGd3WWtmbVI1RlluT2MxcUhONmtXRU5UZXlNWjRxX2VGN0JHTHdRTTJsN2dhRlZWMVBMdGhYNk1kQzQxZkYybE9SQi1Pc3pYWVIyYWpMdUJIYlB5d2JYU3Uydw?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFF3a2pLb0R3ZEVadi1kTF9pN01WU2pkbHZZZTJWb1ZMaFNXN0FxRjhlZy1tcjhpX2p1ZFZhdGNYby03d3NQMDRaSVpFV1p6cnpHeS1ZaklEMTB5MXI2bGozTGxveVdka0NjcTBQYVZFelRKeEk1N1ppNmFsUTkzbS1KUm53R1NNcGprZUVXbW5CTGd3WWtmbVI1RlluT2MxcUhONmtXRU5UZXlNWjRxX2VGN0JHTHdRTTJsN2dhRlZWMVBMdGhYNk1kQzQxZkYybE9SQi1Pc3pYWVIyYWpMdUJIYlB5d2JYU3Uydw?oc=5)
+
+---
+
+### [Boire deux à trois cafés par jour : un réflexe santé à adopter, selon cette nouvelle étude](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
+
+2026-04-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
 來源：[Presse-citron](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
+
+---
+
+### [La OMS, UNICEF y Gavi vacunan a 18,3 millones de niños afectados por las interrupciones Covid - La Rioja](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTBFWW0waTl1VUJvUlRjR1Y3MzQyVGxzUWxNcHNMRUd0RWNsaDdQdDd5bmVvbUtsNGJvOWFDT3diVWR6ZDUyUjJVNGQtbkpHamtCYjU1UThBZEhyYkhlZTVxN3RCNTdxbkREd29SUm93dzFiTU9TQllqSzRPeHd4OW4tWGF2OTc5MzFuaGlhNTdiWmZqNEZRaXJUejMxbE1EUktRUFJCNDhFREdmU1MzN29TdnbSAboBQVVfeXFMT1Q4dDNaUEF2eERmNXBpNURfR2hBSXNtWkRyU205alhsZ1MtVEtMQ1NXdDhWSFZFRW1iM3kxUHBpVERXQXVRaDNLZ1hhOU1melZwSmpzeFlqaW5OZG9Ba2F1aHFyOUZkN3hwSHVqOWh6RDQ1WlcxS0poc28tdGFOam4wajVaM2NkSEtxd3psbU5PSWhRSWdiNEFCYW5sbEx4Y01oZTV2MUUta0Ribkg3NzdJWEpKbDhTMGxn?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Rioja](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTBFWW0waTl1VUJvUlRjR1Y3MzQyVGxzUWxNcHNMRUd0RWNsaDdQdDd5bmVvbUtsNGJvOWFDT3diVWR6ZDUyUjJVNGQtbkpHamtCYjU1UThBZEhyYkhlZTVxN3RCNTdxbkREd29SUm93dzFiTU9TQllqSzRPeHd4OW4tWGF2OTc5MzFuaGlhNTdiWmZqNEZRaXJUejMxbE1EUktRUFJCNDhFREdmU1MzN29TdnbSAboBQVVfeXFMT1Q4dDNaUEF2eERmNXBpNURfR2hBSXNtWkRyU205alhsZ1MtVEtMQ1NXdDhWSFZFRW1iM3kxUHBpVERXQXVRaDNLZ1hhOU1melZwSmpzeFlqaW5OZG9Ba2F1aHFyOUZkN3hwSHVqOWh6RDQ1WlcxS0poc28tdGFOam4wajVaM2NkSEtxd3psbU5PSWhRSWdiNEFCYW5sbEx4Y01oZTV2MUUta0Ribkg3NzdJWEpKbDhTMGxn?oc=5)
 
 ---
 
@@ -174,14 +198,6 @@ permalink: /news/voriconazole/
 
 ---
 
-### [La campaña para poner al día la vacunación infantil va por buen camino, dice la ONU - France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
-
----
-
 ### [Gehemmtes Zellrecycling führt zu Muskelschwäche / Bonner Forschende klären Ursache für genetische Muskelerkrankung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DREF6UXJZdFN6LXZZZTBtQkxNUXk3OFR5SDByN2M0MnJMcm5yZnlaT2xFRzEtSDhrWUNiNmFwVkVOcngwb2ZzZWJFRQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">AF</span>
@@ -190,11 +206,11 @@ permalink: /news/voriconazole/
 
 ---
 
-### [El párkinson no es solo temblor: otros síntomas que podrían permitir anticipar el diagnóstico - El Periódico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTR3bFhPZFJScEpWd2FVTjFkU003X29rYkY2X0ZPbzgyV25aZjVVN295bktmMGJnRV9oMTN2NWRKTWVUOXpFTzQ5aFlkMjRoVC12YUZSNEhXc3RsckYtaWh6NGRwRFQyOWpzclVTUnFXVkI5azRFcDZ2Z29la1ZYNW9vTnZFRnByUHJ3WDZuMko2WGVBRWItdWRXUnJjc0psVS1RQ193blJ1OUZGLW4taURySGZ3R0k0NnE40gG7AUFVX3lxTFAtbXlBOE9KdVpiUjRkYWVQUFhJZG91SUFDc2tRTy1oendTTUM1RlotWk5ENkZoVERiQjVUUm0tbUJMUlZ0OE1valNCeGlmZWRlR2JJQ3FVWjM5THJBUXZqYlg5VFZxLWtYX2g3M2lVdVpzMnpoTldSSmx3MzVsdGVCTzEwZ0dTR1h5WmdoVjlHQW5lNFB6X29KZXA5TkVIYVg5VUp6dkw2d3NVZGVKUzRINnM0S1hqSjdxTmc?oc=5)
+### [Dad who thought he had trapped wind almost died after fat jab mistake - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1WGE4Qnl3ZjhwNEg0VFdmaDlJZE1CTkE5cEZMY3BRcFRnMjZJU3gybklaVE9DNm1rOFNWTkhFMWR0X2hBMWM4QXEtQnlQR3h4VzNvREZCYnhlUUdySk9sQjFrMXJLYzkzT2tvQmhJa05IaUtPWVJVN0F2ZU93bGvSAYQBQVVfeXFMT1pSa1NCUmVHN3FERm5PSGNmM1VZTFoyMDdZeFNlTzF6bWxBLWlYQ3M0M3JPT3BhWmhqdGpfcUNuWHE1d2lZSmdPOWl1ZjlCMW9RVzhldFBsaWdsTlRvQkRoMjI5QUhDVnFsX3ZHQTNxQ2RLV1V0cXdYX2dydG9ZbzJpMDd3?oc=5)
 
-2026-04-24 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+2026-04-24 <span class="news-indication-tag">AF</span>
 
-來源：[El Periódico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTR3bFhPZFJScEpWd2FVTjFkU003X29rYkY2X0ZPbzgyV25aZjVVN295bktmMGJnRV9oMTN2NWRKTWVUOXpFTzQ5aFlkMjRoVC12YUZSNEhXc3RsckYtaWh6NGRwRFQyOWpzclVTUnFXVkI5azRFcDZ2Z29la1ZYNW9vTnZFRnByUHJ3WDZuMko2WGVBRWItdWRXUnJjc0psVS1RQ193blJ1OUZGLW4taURySGZ3R0k0NnE40gG7AUFVX3lxTFAtbXlBOE9KdVpiUjRkYWVQUFhJZG91SUFDc2tRTy1oendTTUM1RlotWk5ENkZoVERiQjVUUm0tbUJMUlZ0OE1valNCeGlmZWRlR2JJQ3FVWjM5THJBUXZqYlg5VFZxLWtYX2g3M2lVdVpzMnpoTldSSmx3MzVsdGVCTzEwZ0dTR1h5WmdoVjlHQW5lNFB6X29KZXA5TkVIYVg5VUp6dkw2d3NVZGVKUzRINnM0S1hqSjdxTmc?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1WGE4Qnl3ZjhwNEg0VFdmaDlJZE1CTkE5cEZMY3BRcFRnMjZJU3gybklaVE9DNm1rOFNWTkhFMWR0X2hBMWM4QXEtQnlQR3h4VzNvREZCYnhlUUdySk9sQjFrMXJLYzkzT2tvQmhJa05IaUtPWVJVN0F2ZU93bGvSAYQBQVVfeXFMT1pSa1NCUmVHN3FERm5PSGNmM1VZTFoyMDdZeFNlTzF6bWxBLWlYQ3M0M3JPT3BhWmhqdGpfcUNuWHE1d2lZSmdPOWl1ZjlCMW9RVzhldFBsaWdsTlRvQkRoMjI5QUhDVnFsX3ZHQTNxQ2RLV1V0cXdYX2dydG9ZbzJpMDd3?oc=5)
 
 ---
 
@@ -214,14 +230,6 @@ permalink: /news/voriconazole/
 
 ---
 
-### [Daughter praises charity after cancer-hit dad, 61, refused treatment by NHS - Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQMkd4dWxNQUFQV0pGRngxNWFxc2wxempubHdMUDljNFNfQWgwR3Q0MHBscTJKc3BSVEw1ZUhoQ2JoM2oyMDdKcDFlcHp4RXNBOHhaS1daU1AzelZtbEI5WnN4MVVIZG15bXEtbTJkNkd0aE50dzgtQ3YtYy1ReVdmbHloQnBDNkhvampXZ2FsdXJOV19CR0NnOEt0LTB5dw?oc=5)
-
-2026-04-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Stoke-on-Trent Live](https://news.google.com/rss/articles/CBMingFBVV95cUxQMkd4dWxNQUFQV0pGRngxNWFxc2wxempubHdMUDljNFNfQWgwR3Q0MHBscTJKc3BSVEw1ZUhoQ2JoM2oyMDdKcDFlcHp4RXNBOHhaS1daU1AzelZtbEI5WnN4MVVIZG15bXEtbTJkNkd0aE50dzgtQ3YtYy1ReVdmbHloQnBDNkhvampXZ2FsdXJOV19CR0NnOEt0LTB5dw?oc=5)
-
----
-
 ### [Women, testosterone and libido — what you need to know - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -235,38 +243,6 @@ permalink: /news/voriconazole/
 2026-04-23 <span class="news-indication-tag">AF</span>
 
 來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzJzd2o2ZHEtNHNDd01TLWNnSXk0eEtsTGl3NkpEV2p6OTRYRElrMmZvUmV5ZGtVbDNWTDYzM1lOM0VkODk5M2lmVWQ1ZDZTc2toSlB1QVE1VzZ5c0puQUxQZmZLZUQtTkp5YXpBc3ZFeWhJS0ZCS1RfNUdQOWtMYmV2YUV2NHVKMWZqUmtjc1hUbTUyVUlDeDRXT1lSazFFV3c?oc=5)
-
----
-
-### [Farmaci per dimagrire, cosa è l’Ozempic il medicinale citato da Emma Marrone e perché se ne parla tanto - La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
-
-2026-04-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1hkLUR0M0REdXJVVlB1VmJXNS1oMlo4UV9mR1dlMlZsWHhqeG1wR3ljeFNaSkJCN2VPRTVLc3k4MVBpbGR1ekMwU1p2eEdUamt0YllEeTNRa3diYUo3bC1nTG9KRWxIRjRvTEVmQlVnMWxxQnRJdUFOZ05BX0VkcHBVT2pxOURpZmFvSUZYVW4xZ1l4czYxeEJ3Vmo0U2ZwbGg3c0ZMdFdDTm1RdkRWaEZfWmVKSmRLT2YtWS02eGZzOUNseXdFMUx6TU0?oc=5)
-
----
-
-### [Pascal Praud et vous - «On peut vivre sans prostate», affirme un oncologue radiothérapeute - Europe 1](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTVFRWl3WVJjWDJhbG5Tcl9jZ09iOEpMUVh2T0FyOHlJd3VvUzZoQ3YwUzVDZEdNRHEtdElNVHZxbnNTUy1fbU9XR0NMWGNKZTNaQ3VheklQVmx6bFFFd09VT05SWXNqRkpRem1XWkQxSFlac0JnWnlMTlJXbmR6QWxNY2diX0pKU2tQSWdQem82YjFKQkxDcHQyU3UxNDRLNHZUMV9MMVNjUkNRdUJxR2ZCMXRiWFI1SS1LSHl30gHDAUFVX3lxTE9DU2RGUFptVVoxR19Zb3lrbHpFZV85VzBuSXA1UUpYYTExWi1OaWF6UkNxa3prRkpHRWt2NEtfOVA2dVlKVUxqMzNmRWtyZlBKTUFXVGJVMlZWdDR3ckJRbGpuMmExMl9wUmphVkFibS1TSUM3cVpfYUx3cHIyQ0UxdmVFSmduaVNFc0hMbzdhM1Fkb3lpNnJ0TDFvM1lMMGNzZURHVElFSU1fUENCVDZyYlFDbEI0cW9WaW5MSWllSmtwQQ?oc=5)
-
-2026-04-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Europe 1](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTVFRWl3WVJjWDJhbG5Tcl9jZ09iOEpMUVh2T0FyOHlJd3VvUzZoQ3YwUzVDZEdNRHEtdElNVHZxbnNTUy1fbU9XR0NMWGNKZTNaQ3VheklQVmx6bFFFd09VT05SWXNqRkpRem1XWkQxSFlac0JnWnlMTlJXbmR6QWxNY2diX0pKU2tQSWdQem82YjFKQkxDcHQyU3UxNDRLNHZUMV9MMVNjUkNRdUJxR2ZCMXRiWFI1SS1LSHl30gHDAUFVX3lxTE9DU2RGUFptVVoxR19Zb3lrbHpFZV85VzBuSXA1UUpYYTExWi1OaWF6UkNxa3prRkpHRWt2NEtfOVA2dVlKVUxqMzNmRWtyZlBKTUFXVGJVMlZWdDR3ckJRbGpuMmExMl9wUmphVkFibS1TSUM3cVpfYUx3cHIyQ0UxdmVFSmduaVNFc0hMbzdhM1Fkb3lpNnJ0TDFvM1lMMGNzZURHVElFSU1fUENCVDZyYlFDbEI0cW9WaW5MSWllSmtwQQ?oc=5)
-
----
-
-### [Breakthrough drug trial to eradicate bowel cancers surging in young adults - The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5uQTBmUWQ0U05yRWxVbmpIQ0RiWGwwNnlUMklmUW1oemJYU3YtbThaSmJBVkZhVTlrYzZ0OUFsQldpazI1SjZ6clVZaFNLYllJUG1VWFlHNkdNb09GS2hRTHNWSjlFdURFQzU5ZlpBczhJY1VNWTlIVTNILTk3UdIBgwFBVV95cUxOZVFrMXFhMGZITzB0U0pPaXVXODlNVXhVRVBuZmdRYjg0UzRkTXNzNTJpYW53bEwwYkRZZC00azVfaUJ4Z2JjWFhkVnpzanl3WWh2Ulo5MGdKdnRsQ2VvanhBWlF6TTJTVExlaEU0NlFjUDB1Y3hGbm1aYUF3d3pFOVBQWQ?oc=5)
-
-2026-04-23 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE5uQTBmUWQ0U05yRWxVbmpIQ0RiWGwwNnlUMklmUW1oemJYU3YtbThaSmJBVkZhVTlrYzZ0OUFsQldpazI1SjZ6clVZaFNLYllJUG1VWFlHNkdNb09GS2hRTHNWSjlFdURFQzU5ZlpBczhJY1VNWTlIVTNILTk3UdIBgwFBVV95cUxOZVFrMXFhMGZITzB0U0pPaXVXODlNVXhVRVBuZmdRYjg0UzRkTXNzNTJpYW53bEwwYkRZZC00azVfaUJ4Z2JjWFhkVnpzanl3WWh2Ulo5MGdKdnRsQ2VvanhBWlF6TTJTVExlaEU0NlFjUDB1Y3hGbm1aYUF3d3pFOVBQWQ?oc=5)
-
----
-
-### [Zanzara tigre, il Comune di Bergamo rafforza la prevenzione - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZEk1WE1SME1fek13QlFxT0M4aDd1cV9fV0RnOEl5XzRRODBXd3NCcHNYQmxFQnVFM2JwWmNaN0pvQVRRbEJBdzdmZjJKOGZtZjZwbktEOGFPanoxRnFmb2NHbGptR093V0R4QzVLTDFUOGxlMDUtOC13OTNqRVlGWXVudF9SZTZ5M2pFMXV3UGFPbmdSbE1NZDNoWjN4enZ3WUZ0VE01M1RHUW85a2lCSjlmcnpQMjNGZjZqblRyWHlDZ2lybjFPU1JB?oc=5)
-
-2026-04-23 <span class="news-indication-tag">AF</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZEk1WE1SME1fek13QlFxT0M4aDd1cV9fV0RnOEl5XzRRODBXd3NCcHNYQmxFQnVFM2JwWmNaN0pvQVRRbEJBdzdmZjJKOGZtZjZwbktEOGFPanoxRnFmb2NHbGptR093V0R4QzVLTDFUOGxlMDUtOC13OTNqRVlGWXVudF9SZTZ5M2pFMXV3UGFPbmdSbE1NZDNoWjN4enZ3WUZ0VE01M1RHUW85a2lCSjlmcnpQMjNGZjZqblRyWHlDZ2lybjFPU1JB?oc=5)
 
 ---
 
