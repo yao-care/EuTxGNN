@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（19 則）
+
+### [« Le Covid long est une affection réelle, mais pas une maladie biologique unique et incurable » - Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxORDJ1N3RTdUxBa1Z2djd6Y21XWHMxdm1PQlNuMDRaVnJpYVBFdDJrNVVvWHVuVTZNQmZxWHlDSHYtMlhZRXJNOTd4UHZuNUxxb2dHam1MNGtRaXN3eEJrdmFKQ3M0MHVZUy1TMDAxbWdUNkxYd2QxczVkanA2SmlpVVFyNWFCYWZscUZpblBDclhucll5X2NMX2tvb1U1YjVRdzRleDJBdjhpeWRvVzZMSVhJY0p5VnNUQ2NmWWliSHVDQ2M2aVRFNTdnVVZWekU?oc=5)
+
+2026-04-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxORDJ1N3RTdUxBa1Z2djd6Y21XWHMxdm1PQlNuMDRaVnJpYVBFdDJrNVVvWHVuVTZNQmZxWHlDSHYtMlhZRXJNOTd4UHZuNUxxb2dHam1MNGtRaXN3eEJrdmFKQ3M0MHVZUy1TMDAxbWdUNkxYd2QxczVkanA2SmlpVVFyNWFCYWZscUZpblBDclhucll5X2NMX2tvb1U1YjVRdzRleDJBdjhpeWRvVzZMSVhJY0p5VnNUQ2NmWWliSHVDQ2M2aVRFNTdnVVZWekU?oc=5)
+
+---
 
 ### [Jupiter im Sternbild Zwillinge (Objekte beschriftet) - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWVqejVya2xKZ29CSUppaGZ4UVF0RkV0TjF5dUVGLXpmdUpOVVFGWU9UWnRjdWQwVnVDcDRfMzh0ejEwTWRtQ1ctX3prb3hwdDJ5RUltS0s5a0l1YkFsX3FLVlZNVi1JRnRhTkdwdklTaDc1Wk9TbU5VenhickJFdVFXT0JwZlJ5bDN3dWZMS1JRaHBRT0NBczFabnYwLU0xd015SG1RTVdBb2ZU?oc=5)
 
@@ -118,6 +126,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Notdienst heute in Oldenburg Oldenburg: Welche Apotheken haben am Samstag Bereitschaft?](https://news.google.com/rss/articles/CBMikAJBVV95cUxNVUVNN2R5TnNUN0kycHJ1cnF4ODViQWVUWHB5SkRvSGhNTXJfclpHVU44X2tpQmpaRExtZjJ0alk0ZkRkNEdLSmRNMXZ5ckxqVjR0ZkV3UThCQUk3ZVBoZ0hxcm1admhaUGpiUzJQSUFKTTBIdmxRNEU4aWFVXzduMWhHdkVEUFVXakc2MDlqWEFRbkRvNDJUdk9FVGp4MDZwMG5ld3dqRWdwdVdxUnlHZzlUMHk2Y2hOLXBuVGJBZzdhNE1JTjJKQUlLbDBodTM2eTVwNXdxd01IRExEbk1oRktnc1lmYmhrLThTcjA2YWlnUnBNU2V2VjF1QWhTanVuYWtjV0c3NS1BSWUwZGlqbdIBlgJBVV95cUxNWnBkaktWc0MyMWJjR3FfWjBWYzFCU3RMenZSMFR3YXFwYzdFQm1SMk1nSnp4eDQxajJ0VFA2VHJRU0hZVFAtS3NyUHFmc2dCakhxUWZnS1FSRm5oMTZSdW4zRURDcGpobUpiVHliYVViWjNScVVsdmFDSnNTSWtqNDBzaHVhbVRIbkgyc2FDamdHb3J0a2xMZ011SlNwMVJsTG5hZWtTOWNWVlBqdFY2Y0p1aWZBQWxUZjNjcE81QXdJR3lvd0VVQmRtbE5pN0xSUURwMWhqZzdndWxRd09jVTJRUjR4dXJuUUtPZ3JEaGl1ckNvSmVuTi1nV05SeHdOMnctQjU5cGpuUWFadExqOHNtZjJHdw?oc=5)
+
+2026-04-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[News.de](https://news.google.com/rss/articles/CBMikAJBVV95cUxNVUVNN2R5TnNUN0kycHJ1cnF4ODViQWVUWHB5SkRvSGhNTXJfclpHVU44X2tpQmpaRExtZjJ0alk0ZkRkNEdLSmRNMXZ5ckxqVjR0ZkV3UThCQUk3ZVBoZ0hxcm1admhaUGpiUzJQSUFKTTBIdmxRNEU4aWFVXzduMWhHdkVEUFVXakc2MDlqWEFRbkRvNDJUdk9FVGp4MDZwMG5ld3dqRWdwdVdxUnlHZzlUMHk2Y2hOLXBuVGJBZzdhNE1JTjJKQUlLbDBodTM2eTVwNXdxd01IRExEbk1oRktnc1lmYmhrLThTcjA2YWlnUnBNU2V2VjF1QWhTanVuYWtjV0c3NS1BSWUwZGlqbdIBlgJBVV95cUxNWnBkaktWc0MyMWJjR3FfWjBWYzFCU3RMenZSMFR3YXFwYzdFQm1SMk1nSnp4eDQxajJ0VFA2VHJRU0hZVFAtS3NyUHFmc2dCakhxUWZnS1FSRm5oMTZSdW4zRURDcGpobUpiVHliYVViWjNScVVsdmFDSnNTSWtqNDBzaHVhbVRIbkgyc2FDamdHb3J0a2xMZ011SlNwMVJsTG5hZWtTOWNWVlBqdFY2Y0p1aWZBQWxUZjNjcE81QXdJR3lvd0VVQmRtbE5pN0xSUURwMWhqZzdndWxRd09jVTJRUjR4dXJuUUtPZ3JEaGl1ckNvSmVuTi1nV05SeHdOMnctQjU5cGpuUWFadExqOHNtZjJHdw?oc=5)
+
+---
+
 ### [El microbioma intestinal podría indicar el riesgo de padecer Párkinson](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNacWt5U3hqWEdjbXZzMnNjbU1BUnJCLUZoTFZfZE9WTGY3a2pieDlSZk1BTFlNd1NJVGJaUlpRZHdMOUdtRjE0RWoxVUw2TnprSF9KLUFUN3ZUdXY2NHBIa3RWNjlqMDNtSE82S3NMQzdfamJUZW41dmZnQnpFZ0lxQ2V2OUNuTzZ5QXl3SEFSUlI5MFl3cTA5YUh4OVR5VEJ1dWhjNGRSWDBhRkgza1RFTG05VVdWUy1CTDdn?oc=5)
 
 2026-04-25 <span class="news-indication-tag">AF</span>
@@ -136,17 +152,17 @@ permalink: /news/prilocaine/
 
 ### [Boire deux à trois cafés par jour : un réflexe santé à adopter, selon cette nouvelle étude](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
 
-2026-04-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-24 <span class="news-indication-tag">AF</span>
 
 來源：[Presse-citron](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
 
 ---
 
-### [Alerta en el Mediterráneo: la bacteria oculta que afecta el cerebro de los delfines](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObG9UQVc3aXVzb0dZVFI3Ukc1WXF6Zml1anprU3hvZnF2aTVhNU9aTThMWEJpOHZIcWR6SHlEa3doVmFHQUIyVXRyVlpCeHJJaUxrV0lld21tZGlFMVNQYzZWdUwyWkQxcTZzRHBPME95dExaMnotaDl5U1lfVEVNcFhDUHIzWVg0bFlwQzJLN1RZZ2FYY002MlRnVlVUQzBFXzdXS2R1d2FjeW9KU2hJazVLOWV0UHlLaVZOd3gwZWk2RGFGVVl6VWdkYmNxWlVfQUZxeWozQmpsQdIB9AFBVV95cUxNR2FyQWZ5alY5QVlNbGhkVnBRMHY4eEFBQUhFdktnVUcxdGZ2U1lYS0daQUF5QjNkTlpNMkRKUm1qNVNIeVhrVS1ST3k4UVRZcXJnVUNqekFmSFhwVzgzX01CQm1EVWpING02S2E1bXBzeW1YOEpyN3FuTHZJVFhhSGh5MDVkSnIyd1ZnMWVHVFhROHkwY3VUajVZM1d1UXhyUWlyWHpnQmc4WnJPNDdmRW9WbGg1b3NCOHJWVUdtYmRrbFZWdHVqMzYzdkcwZl9IMXZYMkpzMUdqSnVnSXRHTXdVUHJxRm5fNFJvSEJQWlZ6ODNl?oc=5)
+### [Más de 100 millones de vacunas infantiles administradas mediante la mayor iniciativa para la puesta al día en materia de inmunización - World Health Organization (WHO)](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnlfclJDZE9KTlhSOGQyVnNlYmFtYXhMcDh5eEpBWThIeGpFYjZ6R3pweXpJRldmaG44S255REZLYjl3RVhGbENqc2NJaWNtYVlOYVBxNkFHdGRlN0N5ZHlRUW0ycS1tcUU2MDhZZHlJZWpQNVMzdGJvYzdVdkYydmNCME04bWRPNUl3WTZ0TjNEWnJxV1FTQ2lneG5GY3NZV203b2RiOVdGUF82UG9SYkZlRENGWHhWS3RWdQ?oc=5)
 
-2026-04-24 <span class="news-indication-tag">AF</span>
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObG9UQVc3aXVzb0dZVFI3Ukc1WXF6Zml1anprU3hvZnF2aTVhNU9aTThMWEJpOHZIcWR6SHlEa3doVmFHQUIyVXRyVlpCeHJJaUxrV0lld21tZGlFMVNQYzZWdUwyWkQxcTZzRHBPME95dExaMnotaDl5U1lfVEVNcFhDUHIzWVg0bFlwQzJLN1RZZ2FYY002MlRnVlVUQzBFXzdXS2R1d2FjeW9KU2hJazVLOWV0UHlLaVZOd3gwZWk2RGFGVVl6VWdkYmNxWlVfQUZxeWozQmpsQdIB9AFBVV95cUxNR2FyQWZ5alY5QVlNbGhkVnBRMHY4eEFBQUhFdktnVUcxdGZ2U1lYS0daQUF5QjNkTlpNMkRKUm1qNVNIeVhrVS1ST3k4UVRZcXJnVUNqekFmSFhwVzgzX01CQm1EVWpING02S2E1bXBzeW1YOEpyN3FuTHZJVFhhSGh5MDVkSnIyd1ZnMWVHVFhROHkwY3VUajVZM1d1UXhyUWlyWHpnQmc4WnJPNDdmRW9WbGg1b3NCOHJWVUdtYmRrbFZWdHVqMzYzdkcwZl9IMXZYMkpzMUdqSnVnSXRHTXdVUHJxRm5fNFJvSEJQWlZ6ODNl?oc=5)
+來源：[World Health Organization (WHO)](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnlfclJDZE9KTlhSOGQyVnNlYmFtYXhMcDh5eEpBWThIeGpFYjZ6R3pweXpJRldmaG44S255REZLYjl3RVhGbENqc2NJaWNtYVlOYVBxNkFHdGRlN0N5ZHlRUW0ycS1tcUU2MDhZZHlJZWpQNVMzdGJvYzdVdkYydmNCME04bWRPNUl3WTZ0TjNEWnJxV1FTQ2lneG5GY3NZV203b2RiOVdGUF82UG9SYkZlRENGWHhWS3RWdQ?oc=5)
 
 ---
 
@@ -187,38 +203,6 @@ permalink: /news/prilocaine/
 2026-04-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
-
----
-
-### [La campaña para poner al día la vacunación infantil va por buen camino, dice la ONU - France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
-
----
-
-### [Gehemmtes Zellrecycling führt zu Muskelschwäche / Bonner Forschende klären Ursache für genetische Muskelerkrankung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DREF6UXJZdFN6LXZZZTBtQkxNUXk3OFR5SDByN2M0MnJMcm5yZnlaT2xFRzEtSDhrWUNiNmFwVkVOcngwb2ZzZWJFRQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DREF6UXJZdFN6LXZZZTBtQkxNUXk3OFR5SDByN2M0MnJMcm5yZnlaT2xFRzEtSDhrWUNiNmFwVkVOcngwb2ZzZWJFRQ?oc=5)
-
----
-
-### [Dad who thought he had trapped wind almost died after fat jab mistake - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1WGE4Qnl3ZjhwNEg0VFdmaDlJZE1CTkE5cEZMY3BRcFRnMjZJU3gybklaVE9DNm1rOFNWTkhFMWR0X2hBMWM4QXEtQnlQR3h4VzNvREZCYnhlUUdySk9sQjFrMXJLYzkzT2tvQmhJa05IaUtPWVJVN0F2ZU93bGvSAYQBQVVfeXFMT1pSa1NCUmVHN3FERm5PSGNmM1VZTFoyMDdZeFNlTzF6bWxBLWlYQ3M0M3JPT3BhWmhqdGpfcUNuWHE1d2lZSmdPOWl1ZjlCMW9RVzhldFBsaWdsTlRvQkRoMjI5QUhDVnFsX3ZHQTNxQ2RLV1V0cXdYX2dydG9ZbzJpMDd3?oc=5)
-
-2026-04-24 <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1WGE4Qnl3ZjhwNEg0VFdmaDlJZE1CTkE5cEZMY3BRcFRnMjZJU3gybklaVE9DNm1rOFNWTkhFMWR0X2hBMWM4QXEtQnlQR3h4VzNvREZCYnhlUUdySk9sQjFrMXJLYzkzT2tvQmhJa05IaUtPWVJVN0F2ZU93bGvSAYQBQVVfeXFMT1pSa1NCUmVHN3FERm5PSGNmM1VZTFoyMDdZeFNlTzF6bWxBLWlYQ3M0M3JPT3BhWmhqdGpfcUNuWHE1d2lZSmdPOWl1ZjlCMW9RVzhldFBsaWdsTlRvQkRoMjI5QUhDVnFsX3ZHQTNxQ2RLV1V0cXdYX2dydG9ZbzJpMDd3?oc=5)
-
----
-
-### [Sonia Lucena, psiconutricionista: “Estos son los problemas que puede provocar el exceso de magnesio” - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
-
-2026-04-24 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
 
-### [«La oncología de precisión ha llegado al cáncer de páncreas»](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVZiWllQcWpfYjBuSkZRY00xQnVhR0NBdkR3N2dYNjRBVzZ1TFBpTTVIUTlhbFRZcXJNNjJMTDBURFVEN3JRX1JBb19WX190SW5URS1ldlNrb2FZTEhDWTM5cTM1U3ZLbUpmYTlRVWpYclRZUkwxRFFOQUc2YTd1VXVDTVZucXNVMEpCVDRnLXRtbTJWeW0zRGVQNGdQMl9qekhFWjVlOHRjUFdfTm41X09B?oc=5)
+### [« Le Covid long est une affection réelle, mais pas une maladie biologique unique et incurable » - Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxORDJ1N3RTdUxBa1Z2djd6Y21XWHMxdm1PQlNuMDRaVnJpYVBFdDJrNVVvWHVuVTZNQmZxWHlDSHYtMlhZRXJNOTd4UHZuNUxxb2dHam1MNGtRaXN3eEJrdmFKQ3M0MHVZUy1TMDAxbWdUNkxYd2QxczVkanA2SmlpVVFyNWFCYWZscUZpblBDclhucll5X2NMX2tvb1U1YjVRdzRleDJBdjhpeWRvVzZMSVhJY0p5VnNUQ2NmWWliSHVDQ2M2aVRFNTdnVVZWekU?oc=5)
+
+2026-04-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxORDJ1N3RTdUxBa1Z2djd6Y21XWHMxdm1PQlNuMDRaVnJpYVBFdDJrNVVvWHVuVTZNQmZxWHlDSHYtMlhZRXJNOTd4UHZuNUxxb2dHam1MNGtRaXN3eEJrdmFKQ3M0MHVZUy1TMDAxbWdUNkxYd2QxczVkanA2SmlpVVFyNWFCYWZscUZpblBDclhucll5X2NMX2tvb1U1YjVRdzRleDJBdjhpeWRvVzZMSVhJY0p5VnNUQ2NmWWliSHVDQ2M2aVRFNTdnVVZWekU?oc=5)
+
+---
+
+### ["On mange tous trop de sel" : 5 signes que vous devriez manger moins salé selon le Dr Cohen](https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXB0VGFka3EwTEYtUUlqV3JpWi1GRE9obnpZZ1NKbGpzcXByaHdzZHdkWUlIdG5OOXp2UEpHeHdvS2RCVkVsaHBYdndTS21BemlXSDF6S29BWVB4em5yTU5DSEs0MjJVQW96cXJTRTNBSm92Z3BweU1ITkhTVjh3c3p3Ni1DNEtCRmFFUkI3OA?oc=5)
+
+2026-04-26 <span class="news-indication-tag">MS</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXB0VGFka3EwTEYtUUlqV3JpWi1GRE9obnpZZ1NKbGpzcXByaHdzZHdkWUlIdG5OOXp2UEpHeHdvS2RCVkVsaHBYdndTS21BemlXSDF6S29BWVB4em5yTU5DSEs0MjJVQW96cXJTRTNBSm92Z3BweU1ITkhTVjh3c3p3Ni1DNEtCRmFFUkI3OA?oc=5)
+
+---
+
+### [Jaume Capdevila, oncólogo médico del Hospital Vall D'Hebron: «La oncología de precisión ha llegado al cáncer de páncreas»](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVZiWllQcWpfYjBuSkZRY00xQnVhR0NBdkR3N2dYNjRBVzZ1TFBpTTVIUTlhbFRZcXJNNjJMTDBURFVEN3JRX1JBb19WX190SW5URS1ldlNrb2FZTEhDWTM5cTM1U3ZLbUpmYTlRVWpYclRZUkwxRFFOQUc2YTd1VXVDTVZucXNVMEpCVDRnLXRtbTJWeW0zRGVQNGdQMl9qekhFWjVlOHRjUFdfTm41X09B?oc=5)
 
 2026-04-26 <span class="news-indication-tag">MS</span>
 
 來源：[Segre.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVZiWllQcWpfYjBuSkZRY00xQnVhR0NBdkR3N2dYNjRBVzZ1TFBpTTVIUTlhbFRZcXJNNjJMTDBURFVEN3JRX1JBb19WX190SW5URS1ldlNrb2FZTEhDWTM5cTM1U3ZLbUpmYTlRVWpYclRZUkwxRFFOQUc2YTd1VXVDTVZucXNVMEpCVDRnLXRtbTJWeW0zRGVQNGdQMl9qekhFWjVlOHRjUFdfTm41X09B?oc=5)
+
+---
+
+### [Michael Mosley's Just One Thing hails key vitamin to ward off dementia - Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
+
+2026-04-26 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
+
+---
+
+### [A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk5UdUZtWXp4OXl4UEtrTU42TXpBc3lnR0dQbmkxRmtrTzF1QXVkeEN4SElXbmN3S2JLaF9PaFFPeHBfSHlFN252eVRzazRUc2p1QzM5cGhKMG0ybmpzMm5GNlF1ZUZGUDBENVJRR0tNamNyclcyV0xJVnE0NHpaZFRJd3A5R04tV0F6RmtVaFBBQ1prR1dHYWNNZS1YeVBuWXBhRw?oc=5)
+
+2026-04-25 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk5UdUZtWXp4OXl4UEtrTU42TXpBc3lnR0dQbmkxRmtrTzF1QXVkeEN4SElXbmN3S2JLaF9PaFFPeHBfSHlFN252eVRzazRUc2p1QzM5cGhKMG0ybmpzMm5GNlF1ZUZGUDBENVJRR0tNamNyclcyV0xJVnE0NHpaZFRJd3A5R04tV0F6RmtVaFBBQ1prR1dHYWNNZS1YeVBuWXBhRw?oc=5)
 
 ---
 
@@ -102,19 +134,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Las frutas y vegetales podrían estar vinculados con el riesgo de cáncer de pulmón en los no fumadores - Gizmodo en Español](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUxudlZSVnVUVnBZUHRIdG1KX3I0S2NEY0pNZlhONWg3dGFWOVhNRDJRVEFSaDZkNEtXTFhvTmdWa19saW1rNmNVRld5M3dFYTZYUXJQTFFzbnUyRVA2aThMSFhkLW80eExtVy1tdkNoX1dTX0RrUmU5eEhRSm80YXNGX1d4c2ktUGdiSExWcW1yRGg0TnRTTDFtQUxPN0x4N0hLelU1VG1YQllIdjQ3ZnNhUTNhbTFReTVET2pFOWJNaXJ4SG9QWEktbm5uOXNv?oc=5)
+### [Notdienst heute in Oldenburg Oldenburg: Welche Apotheken haben am Samstag Bereitschaft?](https://news.google.com/rss/articles/CBMikAJBVV95cUxNVUVNN2R5TnNUN0kycHJ1cnF4ODViQWVUWHB5SkRvSGhNTXJfclpHVU44X2tpQmpaRExtZjJ0alk0ZkRkNEdLSmRNMXZ5ckxqVjR0ZkV3UThCQUk3ZVBoZ0hxcm1admhaUGpiUzJQSUFKTTBIdmxRNEU4aWFVXzduMWhHdkVEUFVXakc2MDlqWEFRbkRvNDJUdk9FVGp4MDZwMG5ld3dqRWdwdVdxUnlHZzlUMHk2Y2hOLXBuVGJBZzdhNE1JTjJKQUlLbDBodTM2eTVwNXdxd01IRExEbk1oRktnc1lmYmhrLThTcjA2YWlnUnBNU2V2VjF1QWhTanVuYWtjV0c3NS1BSWUwZGlqbdIBlgJBVV95cUxNWnBkaktWc0MyMWJjR3FfWjBWYzFCU3RMenZSMFR3YXFwYzdFQm1SMk1nSnp4eDQxajJ0VFA2VHJRU0hZVFAtS3NyUHFmc2dCakhxUWZnS1FSRm5oMTZSdW4zRURDcGpobUpiVHliYVViWjNScVVsdmFDSnNTSWtqNDBzaHVhbVRIbkgyc2FDamdHb3J0a2xMZ011SlNwMVJsTG5hZWtTOWNWVlBqdFY2Y0p1aWZBQWxUZjNjcE81QXdJR3lvd0VVQmRtbE5pN0xSUURwMWhqZzdndWxRd09jVTJRUjR4dXJuUUtPZ3JEaGl1ckNvSmVuTi1nV05SeHdOMnctQjU5cGpuUWFadExqOHNtZjJHdw?oc=5)
 
-2026-04-25 <span class="news-indication-tag">MS</span>
+2026-04-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUxudlZSVnVUVnBZUHRIdG1KX3I0S2NEY0pNZlhONWg3dGFWOVhNRDJRVEFSaDZkNEtXTFhvTmdWa19saW1rNmNVRld5M3dFYTZYUXJQTFFzbnUyRVA2aThMSFhkLW80eExtVy1tdkNoX1dTX0RrUmU5eEhRSm80YXNGX1d4c2ktUGdiSExWcW1yRGg0TnRTTDFtQUxPN0x4N0hLelU1VG1YQllIdjQ3ZnNhUTNhbTFReTVET2pFOWJNaXJ4SG9QWEktbm5uOXNv?oc=5)
-
----
-
-### [La caída del pelo, la gran obsesión estética de hombres y mujeres](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzBkbHgtWEhOY3FrU2dpc1Rpa19FX3BadVZISkJVVXZsanB6c1czaDF1UEF4cmg0WVZJcTZpVzlRX2stUS1STU5pYmFSTXJBMU8yZW54anhHamYxUDRuMDZ1ckRrX1p3LTJua0pMQ1JaMHRZUzlfaFZHWW5td1FRc2lBaEw2Vm82UDk1bnpRbnVqTnl5S2psWHNDV0FRRjZwMEh3OWRnMThWM0NQTXhIanNJYTRROUFYdFhUalBB0gHDAUFVX3lxTE1sejRyNUgtbUNDbG1Nc1ZseDN2bnVReFZQRGQ0a09pWUZNdmFNZ2dKQVpLT0lmNDMtaTc0dGh0SHFzS195QzRONHFvZkVMZ3AzREtIaUVYRlE3SC1kLURpcTNib2oyemZ3RElsOXlpeEYyTU04Rnh0UFBNWjNiWU0yeldPQkd5UW9pR3A4enhMb205cjdLVk5sdjBKRGJ1WDRJVzd1T3NYY3BScjdLakhYelpkN2lDbG10MFBFa0xYMkRlOA?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzBkbHgtWEhOY3FrU2dpc1Rpa19FX3BadVZISkJVVXZsanB6c1czaDF1UEF4cmg0WVZJcTZpVzlRX2stUS1STU5pYmFSTXJBMU8yZW54anhHamYxUDRuMDZ1ckRrX1p3LTJua0pMQ1JaMHRZUzlfaFZHWW5td1FRc2lBaEw2Vm82UDk1bnpRbnVqTnl5S2psWHNDV0FRRjZwMEh3OWRnMThWM0NQTXhIanNJYTRROUFYdFhUalBB0gHDAUFVX3lxTE1sejRyNUgtbUNDbG1Nc1ZseDN2bnVReFZQRGQ0a09pWUZNdmFNZ2dKQVpLT0lmNDMtaTc0dGh0SHFzS195QzRONHFvZkVMZ3AzREtIaUVYRlE3SC1kLURpcTNib2oyemZ3RElsOXlpeEYyTU04Rnh0UFBNWjNiWU0yeldPQkd5UW9pR3A4enhMb205cjdLVk5sdjBKRGJ1WDRJVzd1T3NYY3BScjdLakhYelpkN2lDbG10MFBFa0xYMkRlOA?oc=5)
+來源：[News.de](https://news.google.com/rss/articles/CBMikAJBVV95cUxNVUVNN2R5TnNUN0kycHJ1cnF4ODViQWVUWHB5SkRvSGhNTXJfclpHVU44X2tpQmpaRExtZjJ0alk0ZkRkNEdLSmRNMXZ5ckxqVjR0ZkV3UThCQUk3ZVBoZ0hxcm1admhaUGpiUzJQSUFKTTBIdmxRNEU4aWFVXzduMWhHdkVEUFVXakc2MDlqWEFRbkRvNDJUdk9FVGp4MDZwMG5ld3dqRWdwdVdxUnlHZzlUMHk2Y2hOLXBuVGJBZzdhNE1JTjJKQUlLbDBodTM2eTVwNXdxd01IRExEbk1oRktnc1lmYmhrLThTcjA2YWlnUnBNU2V2VjF1QWhTanVuYWtjV0c3NS1BSWUwZGlqbdIBlgJBVV95cUxNWnBkaktWc0MyMWJjR3FfWjBWYzFCU3RMenZSMFR3YXFwYzdFQm1SMk1nSnp4eDQxajJ0VFA2VHJRU0hZVFAtS3NyUHFmc2dCakhxUWZnS1FSRm5oMTZSdW4zRURDcGpobUpiVHliYVViWjNScVVsdmFDSnNTSWtqNDBzaHVhbVRIbkgyc2FDamdHb3J0a2xMZ011SlNwMVJsTG5hZWtTOWNWVlBqdFY2Y0p1aWZBQWxUZjNjcE81QXdJR3lvd0VVQmRtbE5pN0xSUURwMWhqZzdndWxRd09jVTJRUjR4dXJuUUtPZ3JEaGl1ckNvSmVuTi1nV05SeHdOMnctQjU5cGpuUWFadExqOHNtZjJHdw?oc=5)
 
 ---
 
@@ -134,35 +158,19 @@ permalink: /news/glecaprevir/
 
 ---
 
+### [Más de 100 millones de vacunas infantiles administradas mediante la mayor iniciativa para la puesta al día en materia de inmunización - World Health Organization (WHO)](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnlfclJDZE9KTlhSOGQyVnNlYmFtYXhMcDh5eEpBWThIeGpFYjZ6R3pweXpJRldmaG44S255REZLYjl3RVhGbENqc2NJaWNtYVlOYVBxNkFHdGRlN0N5ZHlRUW0ycS1tcUU2MDhZZHlJZWpQNVMzdGJvYzdVdkYydmNCME04bWRPNUl3WTZ0TjNEWnJxV1FTQ2lneG5GY3NZV203b2RiOVdGUF82UG9SYkZlRENGWHhWS3RWdQ?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[World Health Organization (WHO)](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnlfclJDZE9KTlhSOGQyVnNlYmFtYXhMcDh5eEpBWThIeGpFYjZ6R3pweXpJRldmaG44S255REZLYjl3RVhGbENqc2NJaWNtYVlOYVBxNkFHdGRlN0N5ZHlRUW0ycS1tcUU2MDhZZHlJZWpQNVMzdGJvYzdVdkYydmNCME04bWRPNUl3WTZ0TjNEWnJxV1FTQ2lneG5GY3NZV203b2RiOVdGUF82UG9SYkZlRENGWHhWS3RWdQ?oc=5)
+
+---
+
 ### ['My son boarded a flight home with a headache - but four hours later he was dead' - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUFKWkw2bWVWY3BJS3g0emtiWlBQekFVOWFsSnVBMHppT3FuMEl6czQ3NzEzZVNHdjluYnc4Uy1qdklFWl9icFJEb1VudmtSeERvYlVoNG1jZTkyeXdrbFI0cFJsZkdaVzdlQ0lXbzdaa0FFZDVCWmE1VzVEb295S0g3dEFPeVJITkFZ0gGQAUFVX3lxTFBmRWpEeVpjWlZ1Vm81ZlJWbEtKMEZUZVc2TTY3NUFUUndkaDhtSFBaOHdZN0FRUW1lZXJGRjJGVUtwUXhiRjF2QjFlSnNvNS1RU1N2cHRaaWkzX1hHU1cxSW54QXM5dHRHMm9TMHYxWTk2ZGd2a0FqSnlNUldFU2p0dlIyLTdCYjNlR0czM1F4NQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUFKWkw2bWVWY3BJS3g0emtiWlBQekFVOWFsSnVBMHppT3FuMEl6czQ3NzEzZVNHdjluYnc4Uy1qdklFWl9icFJEb1VudmtSeERvYlVoNG1jZTkyeXdrbFI0cFJsZkdaVzdlQ0lXbzdaa0FFZDVCWmE1VzVEb295S0g3dEFPeVJITkFZ0gGQAUFVX3lxTFBmRWpEeVpjWlZ1Vm81ZlJWbEtKMEZUZVc2TTY3NUFUUndkaDhtSFBaOHdZN0FRUW1lZXJGRjJGVUtwUXhiRjF2QjFlSnNvNS1RU1N2cHRaaWkzX1hHU1cxSW54QXM5dHRHMm9TMHYxWTk2ZGd2a0FqSnlNUldFU2p0dlIyLTdCYjNlR0czM1F4NQ?oc=5)
-
----
-
-### [La campaña para poner al día la vacunación infantil va por buen camino, dice la ONU - France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
-
----
-
-### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - MedEcon Ruhr](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFlmM1hFNzBLOFFxbnljYThNVnZHUUJZM0FRS1BtM21Ga2FIMVd5LXV2R2RGM0Y0dGdwY29ZQmNQZEszT19UMmlneU5hRHI5THZFU1FRRmUxNmU4OUN6UWE2d2ZxMk4wU3otcjdia09sMlNrUDFmLWRkaFFPcDhDQ2ZDWVVORGEzRkdFVjJPVXRVOUcteUtKNHhB?oc=5)
-
-2026-04-24 <span class="news-indication-tag">hepatitis</span>
-
-來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFlmM1hFNzBLOFFxbnljYThNVnZHUUJZM0FRS1BtM21Ga2FIMVd5LXV2R2RGM0Y0dGdwY29ZQmNQZEszT19UMmlneU5hRHI5THZFU1FRRmUxNmU4OUN6UWE2d2ZxMk4wU3otcjdia09sMlNrUDFmLWRkaFFPcDhDQ2ZDWVVORGEzRkdFVjJPVXRVOUcteUtKNHhB?oc=5)
-
----
-
-### [Sonia Lucena, psiconutricionista: “Estos son los problemas que puede provocar el exceso de magnesio” - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
-
-2026-04-24 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
-
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
 
 ---
 

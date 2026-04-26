@@ -54,19 +54,19 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（2 則）
 
+### [Un nuevo anticoagulante reduce el riesgo de ictus sin aumentar el riesgo de hemorragia - 65 y más](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXFCUTZKQU1vdWZKQzBxV2JUVEpGQzJscXVKMi1CajJqSk5Ic2JpNjEwcDZiNU50bHhsSlUwQW5OVHlaRlVHYURVZGpWc0pXbTU1ZjhObm9qZ1JibzZmY3ZOX0tJTDVia1lDUXdJbmEwWk1iYzlNZjdkN0w5eDIweTVXbWM5VFYwbkVoS1FRVHpsWVJzMmlUZDVFMXZhSk5ZcTFEUE1mTVdkZnFlSVVzbjhNRU1ZZw?oc=5)
+
+2026-04-26 <span class="news-indication-tag">ictus</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXFCUTZKQU1vdWZKQzBxV2JUVEpGQzJscXVKMi1CajJqSk5Ic2JpNjEwcDZiNU50bHhsSlUwQW5OVHlaRlVHYURVZGpWc0pXbTU1ZjhObm9qZ1JibzZmY3ZOX0tJTDVia1lDUXdJbmEwWk1iYzlNZjdkN0w5eDIweTVXbWM5VFYwbkVoS1FRVHpsWVJzMmlUZDVFMXZhSk5ZcTFEUE1mTVdkZnFlSVVzbjhNRU1ZZw?oc=5)
+
+---
+
 ### [Schlaganfallrisiko: In dieser Altersgruppe nach einem Infekt fast dreimal so hoch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
-
----
-
-### [Un vaccino sperimentale contro il tumore al pancreas - Il Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDAzMDJvb3hzVGFaRklKXzhrWEJudnAyYnNJczhGSHZUaldOei00cEZCbGdWLWdmLU5Kc0lybkxxSlRjY1NwdUctbzZHWnh4V1E3Q3Y3VFBGZDY5emdHTjc1QmFlOW1Ob041ZG9TWnJqUWJtV2wyczh6OF91ZXlucmY5b0VPWUt3UFZSbWNIcFZ1RGozNWpER0xVUXFQWUZfVkVYTGFCb3k?oc=5)
-
-2026-04-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">CVA</span>
-
-來源：[Il Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDAzMDJvb3hzVGFaRklKXzhrWEJudnAyYnNJczhGSHZUaldOei00cEZCbGdWLWdmLU5Kc0lybkxxSlRjY1NwdUctbzZHWnh4V1E3Q3Y3VFBGZDY5emdHTjc1QmFlOW1Ob041ZG9TWnJqUWJtV2wyczh6OF91ZXlucmY5b0VPWUt3UFZSbWNIcFZ1RGozNWpER0xVUXFQWUZfVkVYTGFCb3k?oc=5)
 
 ---
 
