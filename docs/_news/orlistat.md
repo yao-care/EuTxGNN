@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,27 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Un nuevo anticoagulante reduce el riesgo de ictus sin aumentar el riesgo de hemorragia - 65 y más](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXFCUTZKQU1vdWZKQzBxV2JUVEpGQzJscXVKMi1CajJqSk5Ic2JpNjEwcDZiNU50bHhsSlUwQW5OVHlaRlVHYURVZGpWc0pXbTU1ZjhObm9qZ1JibzZmY3ZOX0tJTDVia1lDUXdJbmEwWk1iYzlNZjdkN0w5eDIweTVXbWM5VFYwbkVoS1FRVHpsWVJzMmlUZDVFMXZhSk5ZcTFEUE1mTVdkZnFlSVVzbjhNRU1ZZw?oc=5)
+### [Daniel Drucker, uno de los padres de Ozempic: «Todavía no entendemos todos los beneficios que suponen los nuevos medicamentos contra la obesidad» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
 
-2026-04-26 <span class="news-indication-tag">ictus</span>
+2026-04-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[65 y más](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXFCUTZKQU1vdWZKQzBxV2JUVEpGQzJscXVKMi1CajJqSk5Ic2JpNjEwcDZiNU50bHhsSlUwQW5OVHlaRlVHYURVZGpWc0pXbTU1ZjhObm9qZ1JibzZmY3ZOX0tJTDVia1lDUXdJbmEwWk1iYzlNZjdkN0w5eDIweTVXbWM5VFYwbkVoS1FRVHpsWVJzMmlUZDVFMXZhSk5ZcTFEUE1mTVdkZnFlSVVzbjhNRU1ZZw?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
+
+---
+
+### [Tripla pillola riduce le recidive di ictus del 39%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
+
+2026-04-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 
 ### [A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk5UdUZtWXp4OXl4UEtrTU42TXpBc3lnR0dQbmkxRmtrTzF1QXVkeEN4SElXbmN3S2JLaF9PaFFPeHBfSHlFN252eVRzazRUc2p1QzM5cGhKMG0ybmpzMm5GNlF1ZUZGUDBENVJRR0tNamNyclcyV0xJVnE0NHpaZFRJd3A5R04tV0F6RmtVaFBBQ1prR1dHYWNNZS1YeVBuWXBhRw?oc=5)
 
-2026-04-25 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-04-25 <span class="news-indication-tag">obesity</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk5UdUZtWXp4OXl4UEtrTU42TXpBc3lnR0dQbmkxRmtrTzF1QXVkeEN4SElXbmN3S2JLaF9PaFFPeHBfSHlFN252eVRzazRUc2p1QzM5cGhKMG0ybmpzMm5GNlF1ZUZGUDBENVJRR0tNamNyclcyV0xJVnE0NHpaZFRJd3A5R04tV0F6RmtVaFBBQ1prR1dHYWNNZS1YeVBuWXBhRw?oc=5)
 
@@ -75,22 +83,6 @@ permalink: /news/orlistat/
 2026-04-24 <span class="news-indication-tag">obesidad</span>
 
 來源：[Diario AyE](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQkNnUklLY3poSEdjYkJuRmpYbThDQ1NUbzVMOXdnYUVtcEJLRHBybVNmejkxYXlFdXoyQ1RoRDc1RE1HTGlOaEFySFh2X3lncVphcXY4ZDlOeDQzaU9PbVFxdkpHT1FMbV9BWDJHYUVJWUNUMVA4aXNTZjRUWFdrVW1jR0F2YzdmTG5zQzJkZG9PLTNtQ2lMVGZITHBra25Sc2xRN1AxbjA4U1NHYkJRbHB4YnR3ZDhjR0dMWmItZFZTWEt1Z1paU0pBUGlWSWRwakh0ZnI0YkpGY3pEUEN1bWNWbTg?oc=5)
-
----
-
-### [Schlaganfallrisiko: In dieser Altersgruppe nach einem Infekt fast dreimal so hoch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
-
----
-
-### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
-
-2026-04-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
 ---
 

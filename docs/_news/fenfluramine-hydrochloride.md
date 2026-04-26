@@ -54,9 +54,17 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ## 相關新聞（3 則）
 
+### [Daniel Drucker, uno de los padres de Ozempic: «Todavía no entendemos todos los beneficios que suponen los nuevos medicamentos contra la obesidad» - La Voz de Galicia](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
+
+2026-04-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
+
+---
+
 ### [A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk5UdUZtWXp4OXl4UEtrTU42TXpBc3lnR0dQbmkxRmtrTzF1QXVkeEN4SElXbmN3S2JLaF9PaFFPeHBfSHlFN252eVRzazRUc2p1QzM5cGhKMG0ybmpzMm5GNlF1ZUZGUDBENVJRR0tNamNyclcyV0xJVnE0NHpaZFRJd3A5R04tV0F6RmtVaFBBQ1prR1dHYWNNZS1YeVBuWXBhRw?oc=5)
 
-2026-04-25 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-04-25 <span class="news-indication-tag">obesity</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk5UdUZtWXp4OXl4UEtrTU42TXpBc3lnR0dQbmkxRmtrTzF1QXVkeEN4SElXbmN3S2JLaF9PaFFPeHBfSHlFN252eVRzazRUc2p1QzM5cGhKMG0ybmpzMm5GNlF1ZUZGUDBENVJRR0tNamNyclcyV0xJVnE0NHpaZFRJd3A5R04tV0F6RmtVaFBBQ1prR1dHYWNNZS1YeVBuWXBhRw?oc=5)
 
@@ -67,14 +75,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-04-24 <span class="news-indication-tag">obesidad</span>
 
 來源：[Diario AyE](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQkNnUklLY3poSEdjYkJuRmpYbThDQ1NUbzVMOXdnYUVtcEJLRHBybVNmejkxYXlFdXoyQ1RoRDc1RE1HTGlOaEFySFh2X3lncVphcXY4ZDlOeDQzaU9PbVFxdkpHT1FMbV9BWDJHYUVJWUNUMVA4aXNTZjRUWFdrVW1jR0F2YzdmTG5zQzJkZG9PLTNtQ2lMVGZITHBra25Sc2xRN1AxbjA4U1NHYkJRbHB4YnR3ZDhjR0dMWmItZFZTWEt1Z1paU0pBUGlWSWRwakh0ZnI0YkpGY3pEUEN1bWNWbTg?oc=5)
-
----
-
-### [La Seedo integra el tratamiento farmacológico en su nuevo modelo piramidal ABCD](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
-
-2026-04-24 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J6Mk53SS1tWmhVejgxeU9TZ1BDZEdTOVVEc0dqNjNPVW93Njk0WHNSck1Nc3pjaVMxWGk4VWNpTnZmaS1oZW52X210STRPRVpXWjVPcFFpMFRkZHJROHJFdndWRTItMTh0bFYzNDBvakxUYUo1NUlJZmNrRE9EblpmMnlOS3JaT0pSWUFXUy1qdDBsMDJEanVZalFXVHRQekRzMENLNDZ1d0UxSzBqZEJFSW4?oc=5)
 
 ---
 

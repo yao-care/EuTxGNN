@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rufinamide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（17 則）
 
-### [« Le Covid long est une affection réelle, mais pas une maladie biologique unique et incurable » - Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxORDJ1N3RTdUxBa1Z2djd6Y21XWHMxdm1PQlNuMDRaVnJpYVBFdDJrNVVvWHVuVTZNQmZxWHlDSHYtMlhZRXJNOTd4UHZuNUxxb2dHam1MNGtRaXN3eEJrdmFKQ3M0MHVZUy1TMDAxbWdUNkxYd2QxczVkanA2SmlpVVFyNWFCYWZscUZpblBDclhucll5X2NMX2tvb1U1YjVRdzRleDJBdjhpeWRvVzZMSVhJY0p5VnNUQ2NmWWliSHVDQ2M2aVRFNTdnVVZWekU?oc=5)
+### [Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
 
-2026-04-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-26 <span class="news-indication-tag">cancer</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMizwFBVV95cUxORDJ1N3RTdUxBa1Z2djd6Y21XWHMxdm1PQlNuMDRaVnJpYVBFdDJrNVVvWHVuVTZNQmZxWHlDSHYtMlhZRXJNOTd4UHZuNUxxb2dHam1MNGtRaXN3eEJrdmFKQ3M0MHVZUy1TMDAxbWdUNkxYd2QxczVkanA2SmlpVVFyNWFCYWZscUZpblBDclhucll5X2NMX2tvb1U1YjVRdzRleDJBdjhpeWRvVzZMSVhJY0p5VnNUQ2NmWWliSHVDQ2M2aVRFNTdnVVZWekU?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
+
+---
+
+### [UK Travellers at Alert: Warning of Fatal Disease Cases Surge | Check Destinations on Alert, Advice for Travellers, Fever Symptoms & More - The Sunday Guardian](https://news.google.com/rss/articles/CBMihAJBVV95cUxNSjJ5TkNNUi0wZFBLT2pVdXRqSFpSZzl2b1JxRHR4UmtwUlhUVUFZVkE3bEkxNWRaNkhtcEFtdjkyUVlTX1VaeGhMOTBxdWM2S05OTHVfS3BRMjVvaDVuSi13STZKeDJKWTRzeFo4LTlGRWk3TmhhMGZ6eFdrNzA1WmF5NlBFdlZWSmR4eDNZdzJfdzlqSXd4dkF4S0Y0MnlYSFZsNUtzdWpWYS1yWUxleXNRT0Y3S1lHUlJKQXpVTWw5MndsVHBQaUU2N3E4X0JDNmdiZllHSXVYTWRSakZ5dzNSdjlOVUVlaW9wNWtKLVNkX0h3Nm1nZjhtZ1d5RUQ1eEd6ag?oc=5)
+
+2026-04-26 <span class="news-indication-tag">MS</span>
+
+來源：[The Sunday Guardian](https://news.google.com/rss/articles/CBMihAJBVV95cUxNSjJ5TkNNUi0wZFBLT2pVdXRqSFpSZzl2b1JxRHR4UmtwUlhUVUFZVkE3bEkxNWRaNkhtcEFtdjkyUVlTX1VaeGhMOTBxdWM2S05OTHVfS3BRMjVvaDVuSi13STZKeDJKWTRzeFo4LTlGRWk3TmhhMGZ6eFdrNzA1WmF5NlBFdlZWSmR4eDNZdzJfdzlqSXd4dkF4S0Y0MnlYSFZsNUtzdWpWYS1yWUxleXNRT0Y3S1lHUlJKQXpVTWw5MndsVHBQaUU2N3E4X0JDNmdiZllHSXVYTWRSakZ5dzNSdjlOVUVlaW9wNWtKLVNkX0h3Nm1nZjhtZ1d5RUQ1eEd6ag?oc=5)
 
 ---
 
@@ -110,27 +118,35 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Michael Mosley's Just One Thing hails key vitamin to ward off dementia - Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
+### [Tripla pillola riduce le recidive di ictus del 39%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
-2026-04-26 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-04-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
-
----
-
-### [A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk5UdUZtWXp4OXl4UEtrTU42TXpBc3lnR0dQbmkxRmtrTzF1QXVkeEN4SElXbmN3S2JLaF9PaFFPeHBfSHlFN252eVRzazRUc2p1QzM5cGhKMG0ybmpzMm5GNlF1ZUZGUDBENVJRR0tNamNyclcyV0xJVnE0NHpaZFRJd3A5R04tV0F6RmtVaFBBQ1prR1dHYWNNZS1YeVBuWXBhRw?oc=5)
-
-2026-04-25 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk5UdUZtWXp4OXl4UEtrTU42TXpBc3lnR0dQbmkxRmtrTzF1QXVkeEN4SElXbmN3S2JLaF9PaFFPeHBfSHlFN252eVRzazRUc2p1QzM5cGhKMG0ybmpzMm5GNlF1ZUZGUDBENVJRR0tNamNyclcyV0xJVnE0NHpaZFRJd3A5R04tV0F6RmtVaFBBQ1prR1dHYWNNZS1YeVBuWXBhRw?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 
-### [Surgeon names 5 things to avoid to live longer — alcohol not on the list - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
+### [Simple ‘metabolic reset’ found to prevent weight rebound after discontinuing GLP-1 drugs](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pmQXM1N0pUTlZBQmRhR2lPQTRmNjF4b2ZZemRjSklMZ3RPMGIyVnpPTXd1cnZYYWY4QXdVb1hONUpVdjNQUlgwc1JYd1hNYTNFX3dyNkI1MlhPbm9yLUpFVUI1bGpxN3hMdTV5ZEtmRUhNQUhjbFM5TTZGRHlXdlBwWjE2ekU?oc=5)
+
+2026-04-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AOL.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pmQXM1N0pUTlZBQmRhR2lPQTRmNjF4b2ZZemRjSklMZ3RPMGIyVnpPTXd1cnZYYWY4QXdVb1hONUpVdjNQUlgwc1JYd1hNYTNFX3dyNkI1MlhPbm9yLUpFVUI1bGpxN3hMdTV5ZEtmRUhNQUhjbFM5TTZGRHlXdlBwWjE2ekU?oc=5)
+
+---
+
+### [Depression treatment is shifting, and this mushroom-derived compound is driving one of psychiatry's biggest new tests - Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0VZN0dzU0FfbFFZSDE4cm40azFFRS01RGF6MEpvRTl3cG1RazU4cDFVOW44dENTWFpNQWxwa0FRakhpYkJuZTczeHVHSDRmOWlPcjdXUEV3eWxraWJfLVh6ckx2UHpwZmFnMHp6b0NOOHFsSmdtb3VZd2ExMEZKRTNvdmZtZnFEeFBmYmgzMnhMQkpZ?oc=5)
+
+2026-04-25 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0VZN0dzU0FfbFFZSDE4cm40azFFRS01RGF6MEpvRTl3cG1RazU4cDFVOW44dENTWFpNQWxwa0FRakhpYkJuZTczeHVHSDRmOWlPcjdXUEV3eWxraWJfLVh6ckx2UHpwZmFnMHp6b0NOOHFsSmdtb3VZd2ExMEZKRTNvdmZtZnFEeFBmYmgzMnhMQkpZ?oc=5)
+
+---
+
+### [Surgeon names 5 things to avoid to live longer — alcohol not on the list](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
 
 2026-04-25 <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
 
 ---
 
@@ -158,19 +174,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Woman's harrowing last four words as she dies of lung problems after vaping habit - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlU1bjkyaVN6YlgxOThyYVVWbVJwTXpJRHE2S3RpZWpCREI3N2NsRU1zM0F1R0ZOQnVSRWlCLXNCNTRTZ3FTcjJkUERvT0tSQUFRT1U1TVpoN3k2VHFjYlFaRWdVbjZGVjVqdXF1TXdkMFpRRGpLWFByVjA0T3dkNXNCT3R2YnFzMFhFWHVB0gGTAUFVX3lxTE1KSDRieC1ZTWZWc1JQN1RiaGg5a0NMX0FaYXg0THdTbmR2cHpyOVlPdWVJX0k1Tk9xRHozbUhEei0yWkRIOVJPdlhUN2lNQ1BLOEpMclNFOUZZdDlsQ2FmcjBVeHhHUEgwaXRwVGlaQ0NvMGx1Rk55QmYxbnRNOHZpUC1nZi1WOFJ2bFc1Q2pOZTJfUQ?oc=5)
+### [Woman's harrowing last four words as she dies of lung problems after vaping habit](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlU1bjkyaVN6YlgxOThyYVVWbVJwTXpJRHE2S3RpZWpCREI3N2NsRU1zM0F1R0ZOQnVSRWlCLXNCNTRTZ3FTcjJkUERvT0tSQUFRT1U1TVpoN3k2VHFjYlFaRWdVbjZGVjVqdXF1TXdkMFpRRGpLWFByVjA0T3dkNXNCT3R2YnFzMFhFWHVB0gGTAUFVX3lxTE1KSDRieC1ZTWZWc1JQN1RiaGg5a0NMX0FaYXg0THdTbmR2cHpyOVlPdWVJX0k1Tk9xRHozbUhEei0yWkRIOVJPdlhUN2lNQ1BLOEpMclNFOUZZdDlsQ2FmcjBVeHhHUEgwaXRwVGlaQ0NvMGx1Rk55QmYxbnRNOHZpUC1nZi1WOFJ2bFc1Q2pOZTJfUQ?oc=5)
 
 2026-04-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlU1bjkyaVN6YlgxOThyYVVWbVJwTXpJRHE2S3RpZWpCREI3N2NsRU1zM0F1R0ZOQnVSRWlCLXNCNTRTZ3FTcjJkUERvT0tSQUFRT1U1TVpoN3k2VHFjYlFaRWdVbjZGVjVqdXF1TXdkMFpRRGpLWFByVjA0T3dkNXNCT3R2YnFzMFhFWHVB0gGTAUFVX3lxTE1KSDRieC1ZTWZWc1JQN1RiaGg5a0NMX0FaYXg0THdTbmR2cHpyOVlPdWVJX0k1Tk9xRHozbUhEei0yWkRIOVJPdlhUN2lNQ1BLOEpMclNFOUZZdDlsQ2FmcjBVeHhHUEgwaXRwVGlaQ0NvMGx1Rk55QmYxbnRNOHZpUC1nZi1WOFJ2bFc1Q2pOZTJfUQ?oc=5)
-
----
-
-### [Contre le paludisme, "plus de 10 millions d'enfants" vaccinés en Afrique, cinq ans après le lancement de la campagne par l'OMS](https://news.google.com/rss/articles/CBMihgJBVV95cUxQYjBwVmhIajdlTnlqM3ZJUGpqSHF4Wi00WXJPNE9IdFJ6dUZIUG1DM1Y5Q3IzR1V1MkMtOU1mODhubHhFNDlQc3BpS05OWDRtaDgyRktwelFlVWdXcDd0UEJYNmVESTRlWVBWUGhEOHFZWHFGQjlYX2dGWVQ3ZTJzTXZMWGswNFdtQ05CQ3dTVDc5Zlp2ZkIzVGJ2UlI5aGxnUFdZN21fOFNQcXpkS2N3LWNQOWxwMC1LLW1mRWdVcjQ4cmxBU2VsZVZtZXN5dHAwSXhLYnYxYklUeDdZak5PZ1liQ2ZRUFRLczc2Qk1QTk1wdEd3Y3AtclNJQ3JrSHpnakVvT0h3?oc=5)
-
-2026-04-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMihgJBVV95cUxQYjBwVmhIajdlTnlqM3ZJUGpqSHF4Wi00WXJPNE9IdFJ6dUZIUG1DM1Y5Q3IzR1V1MkMtOU1mODhubHhFNDlQc3BpS05OWDRtaDgyRktwelFlVWdXcDd0UEJYNmVESTRlWVBWUGhEOHFZWHFGQjlYX2dGWVQ3ZTJzTXZMWGswNFdtQ05CQ3dTVDc5Zlp2ZkIzVGJ2UlI5aGxnUFdZN21fOFNQcXpkS2N3LWNQOWxwMC1LLW1mRWdVcjQ4cmxBU2VsZVZtZXN5dHAwSXhLYnYxYklUeDdZak5PZ1liQ2ZRUFRLczc2Qk1QTk1wdEd3Y3AtclNJQ3JrSHpnakVvT0h3?oc=5)
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlU1bjkyaVN6YlgxOThyYVVWbVJwTXpJRHE2S3RpZWpCREI3N2NsRU1zM0F1R0ZOQnVSRWlCLXNCNTRTZ3FTcjJkUERvT0tSQUFRT1U1TVpoN3k2VHFjYlFaRWdVbjZGVjVqdXF1TXdkMFpRRGpLWFByVjA0T3dkNXNCT3R2YnFzMFhFWHVB0gGTAUFVX3lxTE1KSDRieC1ZTWZWc1JQN1RiaGg5a0NMX0FaYXg0THdTbmR2cHpyOVlPdWVJX0k1Tk9xRHozbUhEei0yWkRIOVJPdlhUN2lNQ1BLOEpMclNFOUZZdDlsQ2FmcjBVeHhHUEgwaXRwVGlaQ0NvMGx1Rk55QmYxbnRNOHZpUC1nZi1WOFJ2bFc1Q2pOZTJfUQ?oc=5)
 
 ---
 
@@ -179,62 +187,6 @@ permalink: /news/rufinamide/
 2026-04-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[News.de](https://news.google.com/rss/articles/CBMikAJBVV95cUxNVUVNN2R5TnNUN0kycHJ1cnF4ODViQWVUWHB5SkRvSGhNTXJfclpHVU44X2tpQmpaRExtZjJ0alk0ZkRkNEdLSmRNMXZ5ckxqVjR0ZkV3UThCQUk3ZVBoZ0hxcm1admhaUGpiUzJQSUFKTTBIdmxRNEU4aWFVXzduMWhHdkVEUFVXakc2MDlqWEFRbkRvNDJUdk9FVGp4MDZwMG5ld3dqRWdwdVdxUnlHZzlUMHk2Y2hOLXBuVGJBZzdhNE1JTjJKQUlLbDBodTM2eTVwNXdxd01IRExEbk1oRktnc1lmYmhrLThTcjA2YWlnUnBNU2V2VjF1QWhTanVuYWtjV0c3NS1BSWUwZGlqbdIBlgJBVV95cUxNWnBkaktWc0MyMWJjR3FfWjBWYzFCU3RMenZSMFR3YXFwYzdFQm1SMk1nSnp4eDQxajJ0VFA2VHJRU0hZVFAtS3NyUHFmc2dCakhxUWZnS1FSRm5oMTZSdW4zRURDcGpobUpiVHliYVViWjNScVVsdmFDSnNTSWtqNDBzaHVhbVRIbkgyc2FDamdHb3J0a2xMZ011SlNwMVJsTG5hZWtTOWNWVlBqdFY2Y0p1aWZBQWxUZjNjcE81QXdJR3lvd0VVQmRtbE5pN0xSUURwMWhqZzdndWxRd09jVTJRUjR4dXJuUUtPZ3JEaGl1ckNvSmVuTi1nV05SeHdOMnctQjU5cGpuUWFadExqOHNtZjJHdw?oc=5)
-
----
-
-### [Santé: un autre échec du trumpisme [L’éditorial de CL] - Charente Libre](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZpZ3JyU1c1TlI1MXQtUXV4U1dvT0IwODZnbGJOVU9hU1RPak1USU5YY0paUUFOZlNjQjBEOWd1RXdFTVVoaGFaTWR4RFBpWTBhOW9PWmJoSWdYX0ZDb28wNW5ibzRVRmRvSU16bUI1dTh0QW5xeS12Q3R1SC0zQjQxUUJoTDM3Rk9YUUtFWDFWYlF0SnJ0MmJ0U2ZoV0xCMm10ZDJZSXMyYVJFQjkzWVgzNS1CNmNEZDZCY05vSEJlNS1zQlNFRVVUZEY1ZWN1blg4cUQ2QUhYd2xvdFd5NGxB?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZpZ3JyU1c1TlI1MXQtUXV4U1dvT0IwODZnbGJOVU9hU1RPak1USU5YY0paUUFOZlNjQjBEOWd1RXdFTVVoaGFaTWR4RFBpWTBhOW9PWmJoSWdYX0ZDb28wNW5ibzRVRmRvSU16bUI1dTh0QW5xeS12Q3R1SC0zQjQxUUJoTDM3Rk9YUUtFWDFWYlF0SnJ0MmJ0U2ZoV0xCMm10ZDJZSXMyYVJFQjkzWVgzNS1CNmNEZDZCY05vSEJlNS1zQlNFRVVUZEY1ZWN1blg4cUQ2QUhYd2xvdFd5NGxB?oc=5)
-
----
-
-### [New injection could help damaged joints repair themselves in weeks](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5XY2d1VFdSRi1mRHNwQWMzVXZmVFUwcFlzMTYtRUNKbXV6Zlk3NDRuOW9jLWZkNC02STZfLWdudEVISkdHWHRkZThUVGtsNFVyN1YxMEc3bGlSYXVadTdYVGRVaF92Ym5tUmlJNHJVZzJ5bG5CUjZzWWFpZFR1bDJhU2cwLTZpX041eVpFY294cnMxVkRPZDd3?oc=5)
-
-2026-04-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5XY2d1VFdSRi1mRHNwQWMzVXZmVFUwcFlzMTYtRUNKbXV6Zlk3NDRuOW9jLWZkNC02STZfLWdudEVISkdHWHRkZThUVGtsNFVyN1YxMEc3bGlSYXVadTdYVGRVaF92Ym5tUmlJNHJVZzJ5bG5CUjZzWWFpZFR1bDJhU2cwLTZpX041eVpFY294cnMxVkRPZDd3?oc=5)
-
----
-
-### [Is exercise as effective as treatments for depression and anxiety? - The Economist](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmxtUGQ2VEVvbVBwVHRfN1dhSzRLcm9kYWR6M2JUYlRCSmRDOU0teTlXR28xRko3d0gxTVJxcW01NmVlb1B6YXp0a0MwY2haUkczcGdncWFZc0g0SklWYm0yM1RuSnM2ZlJnNHFWdkVKX3ljYUl2TDc3a01qcmE4b3Z3SUs2cGU0dE5OUGY2Z0FKcDN5d1VBbTZzU01sUmJuanZvbktTLWkzOXAyU1Z0ZzZ3NkctR2E2RWFNeDB4Z3hPcDg?oc=5)
-
-2026-04-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Economist](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmxtUGQ2VEVvbVBwVHRfN1dhSzRLcm9kYWR6M2JUYlRCSmRDOU0teTlXR28xRko3d0gxTVJxcW01NmVlb1B6YXp0a0MwY2haUkczcGdncWFZc0g0SklWYm0yM1RuSnM2ZlJnNHFWdkVKX3ljYUl2TDc3a01qcmE4b3Z3SUs2cGU0dE5OUGY2Z0FKcDN5d1VBbTZzU01sUmJuanZvbktTLWkzOXAyU1Z0ZzZ3NkctR2E2RWFNeDB4Z3hPcDg?oc=5)
-
----
-
-### [Más de 100 millones de vacunas infantiles administradas mediante la mayor iniciativa para la puesta al día en materia de inmunización - World Health Organization (WHO)](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnlfclJDZE9KTlhSOGQyVnNlYmFtYXhMcDh5eEpBWThIeGpFYjZ6R3pweXpJRldmaG44S255REZLYjl3RVhGbENqc2NJaWNtYVlOYVBxNkFHdGRlN0N5ZHlRUW0ycS1tcUU2MDhZZHlJZWpQNVMzdGJvYzdVdkYydmNCME04bWRPNUl3WTZ0TjNEWnJxV1FTQ2lneG5GY3NZV203b2RiOVdGUF82UG9SYkZlRENGWHhWS3RWdQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[World Health Organization (WHO)](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnlfclJDZE9KTlhSOGQyVnNlYmFtYXhMcDh5eEpBWThIeGpFYjZ6R3pweXpJRldmaG44S255REZLYjl3RVhGbENqc2NJaWNtYVlOYVBxNkFHdGRlN0N5ZHlRUW0ycS1tcUU2MDhZZHlJZWpQNVMzdGJvYzdVdkYydmNCME04bWRPNUl3WTZ0TjNEWnJxV1FTQ2lneG5GY3NZV203b2RiOVdGUF82UG9SYkZlRENGWHhWS3RWdQ?oc=5)
-
----
-
-### ['My son boarded a flight home with a headache - but four hours later he was dead' - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUFKWkw2bWVWY3BJS3g0emtiWlBQekFVOWFsSnVBMHppT3FuMEl6czQ3NzEzZVNHdjluYnc4Uy1qdklFWl9icFJEb1VudmtSeERvYlVoNG1jZTkyeXdrbFI0cFJsZkdaVzdlQ0lXbzdaa0FFZDVCWmE1VzVEb295S0g3dEFPeVJITkFZ0gGQAUFVX3lxTFBmRWpEeVpjWlZ1Vm81ZlJWbEtKMEZUZVc2TTY3NUFUUndkaDhtSFBaOHdZN0FRUW1lZXJGRjJGVUtwUXhiRjF2QjFlSnNvNS1RU1N2cHRaaWkzX1hHU1cxSW54QXM5dHRHMm9TMHYxWTk2ZGd2a0FqSnlNUldFU2p0dlIyLTdCYjNlR0czM1F4NQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUFKWkw2bWVWY3BJS3g0emtiWlBQekFVOWFsSnVBMHppT3FuMEl6czQ3NzEzZVNHdjluYnc4Uy1qdklFWl9icFJEb1VudmtSeERvYlVoNG1jZTkyeXdrbFI0cFJsZkdaVzdlQ0lXbzdaa0FFZDVCWmE1VzVEb295S0g3dEFPeVJITkFZ0gGQAUFVX3lxTFBmRWpEeVpjWlZ1Vm81ZlJWbEtKMEZUZVc2TTY3NUFUUndkaDhtSFBaOHdZN0FRUW1lZXJGRjJGVUtwUXhiRjF2QjFlSnNvNS1RU1N2cHRaaWkzX1hHU1cxSW54QXM5dHRHMm9TMHYxWTk2ZGd2a0FqSnlNUldFU2p0dlIyLTdCYjNlR0czM1F4NQ?oc=5)
-
----
-
-### [Le cancer du rectum augmente chez les jeunes, quels sont les signes qui doivent alerter ? - Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxPV21PY1RqMElGSVQxdjdfQ0RzRjNHeFdlZEtvazlzeENFek1YWkRvN3h1QkJMcHlaaXgwNmdiNWFjdVg1dWhBVkZBdl81cmJfdUprV0tZWGxkeHcxdVlxNi1GdVM2OUNYd1p0blNQWlQzczg4VFBWSlBGRHlYcVBuTHdR?oc=5)
-
-2026-04-24 <span class="news-indication-tag">cancer</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxPV21PY1RqMElGSVQxdjdfQ0RzRjNHeFdlZEtvazlzeENFek1YWkRvN3h1QkJMcHlaaXgwNmdiNWFjdVg1dWhBVkZBdl81cmJfdUprV0tZWGxkeHcxdVlxNi1GdVM2OUNYd1p0blNQWlQzczg4VFBWSlBGRHlYcVBuTHdR?oc=5)
-
----
-
-### [Estudio del Instituto de Neurociencias UMH CSIC revela que en tumores primarios de cáncer de mama existen células preparadas para formar metástasis - Revista Pharma Market](https://news.google.com/rss/articles/CBMigAJBVV95cUxPcDlxNy1WWXRPd3duaEx2cHRPQjQ2ZzNpN0JCWGxPSEI1Y3ZwajRHVVJrdmxjNTdoS2t0czAzbmdxWW5yNmtjb3pZVFE0UEpWQlJiQTM1dldlSENsQWkxX3c3NUFuNFdTZkQ5aVJNQWlEd3JzUklMNUctN2pOOFlPSHptQmVVWWZESDRkM2dDalNQOEI1d3k4YzYxenREWnEyeGlKT3JFVkNMV01BaGtRMFZTclhKeHVpSmFuSnE3aXpGRmNyVUJ0d0JlWUFyOWM1RnN6NVktdXJ5WU5vU2psdnY3NTNaMmJGUk5ieThkUGFzNTVGby10YXhMZk9XbTN5?oc=5)
-
-2026-04-24 <span class="news-indication-tag">tumor</span>
-
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMigAJBVV95cUxPcDlxNy1WWXRPd3duaEx2cHRPQjQ2ZzNpN0JCWGxPSEI1Y3ZwajRHVVJrdmxjNTdoS2t0czAzbmdxWW5yNmtjb3pZVFE0UEpWQlJiQTM1dldlSENsQWkxX3c3NUFuNFdTZkQ5aVJNQWlEd3JzUklMNUctN2pOOFlPSHptQmVVWWZESDRkM2dDalNQOEI1d3k4YzYxenREWnEyeGlKT3JFVkNMV01BaGtRMFZTclhKeHVpSmFuSnE3aXpGRmNyVUJ0d0JlWUFyOWM1RnN6NVktdXJ5WU5vU2psdnY3NTNaMmJGUk5ieThkUGFzNTVGby10YXhMZk9XbTN5?oc=5)
 
 ---
 

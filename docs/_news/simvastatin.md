@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Un nuevo anticoagulante reduce el riesgo de ictus sin aumentar el riesgo de hemorragia - 65 y más](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXFCUTZKQU1vdWZKQzBxV2JUVEpGQzJscXVKMi1CajJqSk5Ic2JpNjEwcDZiNU50bHhsSlUwQW5OVHlaRlVHYURVZGpWc0pXbTU1ZjhObm9qZ1JibzZmY3ZOX0tJTDVia1lDUXdJbmEwWk1iYzlNZjdkN0w5eDIweTVXbWM5VFYwbkVoS1FRVHpsWVJzMmlUZDVFMXZhSk5ZcTFEUE1mTVdkZnFlSVVzbjhNRU1ZZw?oc=5)
+### [Tripla pillola riduce le recidive di ictus del 39%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
-2026-04-26 <span class="news-indication-tag">ictus</span>
+2026-04-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
 
-來源：[65 y más](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXFCUTZKQU1vdWZKQzBxV2JUVEpGQzJscXVKMi1CajJqSk5Ic2JpNjEwcDZiNU50bHhsSlUwQW5OVHlaRlVHYURVZGpWc0pXbTU1ZjhObm9qZ1JibzZmY3ZOX0tJTDVia1lDUXdJbmEwWk1iYzlNZjdkN0w5eDIweTVXbWM5VFYwbkVoS1FRVHpsWVJzMmlUZDVFMXZhSk5ZcTFEUE1mTVdkZnFlSVVzbjhNRU1ZZw?oc=5)
-
----
-
-### [Schlaganfallrisiko: In dieser Altersgruppe nach einem Infekt fast dreimal so hoch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 
