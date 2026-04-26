@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Teenager-Jahre entscheidend: Übergewicht in der Jugend bleibt oft bis zum Erwachsenenalter](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
 
 2026-04-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
+
+---
+
+### [Los autónomos ahorrarían hasta 9.000 euros por empleado si ayudan a reducir la obesidad - Diario AyE](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQkNnUklLY3poSEdjYkJuRmpYbThDQ1NUbzVMOXdnYUVtcEJLRHBybVNmejkxYXlFdXoyQ1RoRDc1RE1HTGlOaEFySFh2X3lncVphcXY4ZDlOeDQzaU9PbVFxdkpHT1FMbV9BWDJHYUVJWUNUMVA4aXNTZjRUWFdrVW1jR0F2YzdmTG5zQzJkZG9PLTNtQ2lMVGZITHBra25Sc2xRN1AxbjA4U1NHYkJRbHB4YnR3ZDhjR0dMWmItZFZTWEt1Z1paU0pBUGlWSWRwakh0ZnI0YkpGY3pEUEN1bWNWbTg?oc=5)
+
+2026-04-24 <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario AyE](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQkNnUklLY3poSEdjYkJuRmpYbThDQ1NUbzVMOXdnYUVtcEJLRHBybVNmejkxYXlFdXoyQ1RoRDc1RE1HTGlOaEFySFh2X3lncVphcXY4ZDlOeDQzaU9PbVFxdkpHT1FMbV9BWDJHYUVJWUNUMVA4aXNTZjRUWFdrVW1jR0F2YzdmTG5zQzJkZG9PLTNtQ2lMVGZITHBra25Sc2xRN1AxbjA4U1NHYkJRbHB4YnR3ZDhjR0dMWmItZFZTWEt1Z1paU0pBUGlWSWRwakh0ZnI0YkpGY3pEUEN1bWNWbTg?oc=5)
 
 ---
 
@@ -86,14 +94,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [:: OBBIO pone el foco en el impacto de la obesidad en las empresas :: - Equipos y Talento](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdjNWNzNU1oMHc0NkdxVjR2cHhBeVowUG5nRGNDem1STnlhMkRFM1Nhd3lQMElMVEJxTjNBaHZua0F6UUlTdm93RTNIc3NEdWFYN25JMmoxa01ycE1YcjFZdWlIVWw0NmVqN3ZrMDBBcHlJc05iQk1RaFpqbWZTMmU0bS0yOXpTNnFtN0RhNGQ5MktiSnJDYjNKOFhOWGlVV1hvaU9NOEJvU3k1bUVXLTRaQVUxdw?oc=5)
-
-2026-04-24 <span class="news-indication-tag">obesidad</span>
-
-來源：[Equipos y Talento](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdjNWNzNU1oMHc0NkdxVjR2cHhBeVowUG5nRGNDem1STnlhMkRFM1Nhd3lQMElMVEJxTjNBaHZua0F6UUlTdm93RTNIc3NEdWFYN25JMmoxa01ycE1YcjFZdWlIVWw0NmVqN3ZrMDBBcHlJc05iQk1RaFpqbWZTMmU0bS0yOXpTNnFtN0RhNGQ5MktiSnJDYjNKOFhOWGlVV1hvaU9NOEJvU3k1bUVXLTRaQVUxdw?oc=5)
-
----
-
 ### [Neuropsicóloga, sobre cómo puede ayudar la familia en la recuperación de un ictus: "Hay una reconstrucción de la identidad"](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmR4RWR4NUZ0QnlYUUMwbFREb2R4TmJEVy0wUnFHSFhDTjc2eEhyMnNEV3JDbm9oczJHMzh1RTRGOUZRRXZGRVZkcWVCQzhJanFMa0NiSkJwVC1SdkxTaWd2eVk3QlgzLVh4VFhGVHcySHNYekpabldBR2ZVeGVyZDdWbVMwdktFd185bHRnNFZ6cl9pTHRnTVQ3UnUyYVk2Qm5KYzRyc3pCQ2t0ZXRrdXg1NGwtdWg3X3FQN3BYNmtiYVQyTEltcVZ5SVJ4MGNRUFhIVkZjN2hSZHk0RzZTMw?oc=5)
 
 2026-04-24 <span class="news-indication-tag">ictus</span>
@@ -115,14 +115,6 @@ permalink: /news/orlistat/
 2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
-
----
-
-### [Riprendersi dall'ictus: i risultati di uno studio al Centro Cardinal Ferrari e al Maggiore - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORnM1N2VWYU8xeGhWdG1OVHl5MjZMLW4xZnFfa1RUcldaYVBrUHg5WVczX09yQzNSYzlCdzdBTXVrcmhwTU9mVHd4NVdsNGpzZUpqakxfeGY0RWNwUWFQWWp3RmxoSVRKQ0lIdEZZeEFtYzQwVW5aNHh3NkE5OVdiNUVESGhFXzA2Wi1GQkJGMTFvVHdhRnl4d2NPQWZhS0dmSTZZQkJVSDctMnVjdUVqYkxhMS15QzZkZzBCMTRoTHRYalBmd3p6S2YzY0dfSkxhZ3NheVBqWkRLUDBzcExIbGNRRjVaQQ?oc=5)
-
-2026-04-23 <span class="news-indication-tag">ictus</span>
-
-來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMi5gFBVV95cUxORnM1N2VWYU8xeGhWdG1OVHl5MjZMLW4xZnFfa1RUcldaYVBrUHg5WVczX09yQzNSYzlCdzdBTXVrcmhwTU9mVHd4NVdsNGpzZUpqakxfeGY0RWNwUWFQWWp3RmxoSVRKQ0lIdEZZeEFtYzQwVW5aNHh3NkE5OVdiNUVESGhFXzA2Wi1GQkJGMTFvVHdhRnl4d2NPQWZhS0dmSTZZQkJVSDctMnVjdUVqYkxhMS15QzZkZzBCMTRoTHRYalBmd3p6S2YzY0dfSkxhZ3NheVBqWkRLUDBzcExIbGNRRjVaQQ?oc=5)
 
 ---
 

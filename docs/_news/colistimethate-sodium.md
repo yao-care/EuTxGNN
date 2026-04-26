@@ -70,11 +70,11 @@ permalink: /news/colistimethate-sodium/
 
 ---
 
-### [Keine Antibiotika bei Antibiotika-refraktärer Lyme-Arthritis!](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
+### [Keine Antibiotika bei Antibiotika-refraktärer Lyme-Arthritis! - Ärzte Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
 
 2026-04-24 <span class="news-indication-tag">arthritis</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
+來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Surgeon names 5 things to avoid to live longer — alcohol not on the list - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
+
+2026-04-25 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
+
+---
 
 ### [El suelo pélvico, "el gran olvidado en el deporte": por qué es importante entrenarlo y no ignorar el dolor - Onda Cero](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkpMYnNWV1VmYUE5cWEzS2RzRHppMG14czlZd2pld2N5aU96cXBNNGZST0Z5X1V2Z3E4UDN4bDJkT3g1dUdLU29saWd3aW0xeVBwQkl4QW9POXI1N3h5VXBJZ09sUE1QVUxhWmJ3UWJLOFdpT1lpdmZQWDg4TzRXbXVOMzBiWG5OcGFXWU9pd2lYelc5YWZtWUFCZUVuaFFRLU9XN2tmaHMySkJsRlNKOGJDcjhEdjFsQVBYQ3hUOWpxclRsUFNVNlZ0Yzc2eWxEd2FoUVYybkxJSUVqRU1Z0gHfAUFVX3lxTE9sRThVdXBlS2NHM1JKQVFCeWpfMmlhZHZ5T2l5U2tqMjVDMHFEYVU2eTFKOEwtaWFDQ2NteTNYSC1PMUJVd0JSQnZOM1RnMkpZWlhDUHVlZjJYMnFZRUYyVzFyc2F1WEtrblpiMDVJT0t2aHl4dlJoYmZuOGQ3bmR3MEN1NXB0MFk2UUROT3VmVWR3aUF2M0YzRFNsaFh0ckpiSXQycDVZZXZnN3RMdmdSQi00OHJjbEtYeWFPUkZWVXRZdXB5WlRESnZHcjA5eEJhZ1dnU3VlcVVSdEtwWUE?oc=5)
 
 2026-04-25 <span class="news-indication-tag">MS</span>
 
 來源：[Onda Cero](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkpMYnNWV1VmYUE5cWEzS2RzRHppMG14czlZd2pld2N5aU96cXBNNGZST0Z5X1V2Z3E4UDN4bDJkT3g1dUdLU29saWd3aW0xeVBwQkl4QW9POXI1N3h5VXBJZ09sUE1QVUxhWmJ3UWJLOFdpT1lpdmZQWDg4TzRXbXVOMzBiWG5OcGFXWU9pd2lYelc5YWZtWUFCZUVuaFFRLU9XN2tmaHMySkJsRlNKOGJDcjhEdjFsQVBYQ3hUOWpxclRsUFNVNlZ0Yzc2eWxEd2FoUVYybkxJSUVqRU1Z0gHfAUFVX3lxTE9sRThVdXBlS2NHM1JKQVFCeWpfMmlhZHZ5T2l5U2tqMjVDMHFEYVU2eTFKOEwtaWFDQ2NteTNYSC1PMUJVd0JSQnZOM1RnMkpZWlhDUHVlZjJYMnFZRUYyVzFyc2F1WEtrblpiMDVJT0t2aHl4dlJoYmZuOGQ3bmR3MEN1NXB0MFk2UUROT3VmVWR3aUF2M0YzRFNsaFh0ckpiSXQycDVZZXZnN3RMdmdSQi00OHJjbEtYeWFPUkZWVXRZdXB5WlRESnZHcjA5eEJhZ1dnU3VlcVVSdEtwWUE?oc=5)
+
+---
+
+### [De Cuenca a Kinkala: una red solidaria frente a la malaria - Las Noticias de Cuenca](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzZ3UUpoVXRCNE84X3FobElnWFlaTk05Z252R3R6aU5qNVNHX3dmdVl0WU1qeC02dW0teEhCY0kzX29RamZjMk84QzVFQUlaZUNhUXdOdE11cXlxSXZPWVY5U3ZxdnN0aHdqS3Z2dTBmSXItUWs5N1pZVUZ5eTdIRTM3Uk14bi0wRkFNNHRSUU5KZ1RwMFE?oc=5)
+
+2026-04-25 <span class="news-indication-tag">MS</span>
+
+來源：[Las Noticias de Cuenca](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzZ3UUpoVXRCNE84X3FobElnWFlaTk05Z252R3R6aU5qNVNHX3dmdVl0WU1qeC02dW0teEhCY0kzX29RamZjMk84QzVFQUlaZUNhUXdOdE11cXlxSXZPWVY5U3ZxdnN0aHdqS3Z2dTBmSXItUWs5N1pZVUZ5eTdIRTM3Uk14bi0wRkFNNHRSUU5KZ1RwMFE?oc=5)
 
 ---
 
@@ -94,14 +110,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [La OMS, UNICEF y Gavi vacunan a 18,3 millones de niños afectados por las interrupciones Covid - La Rioja](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTBFWW0waTl1VUJvUlRjR1Y3MzQyVGxzUWxNcHNMRUd0RWNsaDdQdDd5bmVvbUtsNGJvOWFDT3diVWR6ZDUyUjJVNGQtbkpHamtCYjU1UThBZEhyYkhlZTVxN3RCNTdxbkREd29SUm93dzFiTU9TQllqSzRPeHd4OW4tWGF2OTc5MzFuaGlhNTdiWmZqNEZRaXJUejMxbE1EUktRUFJCNDhFREdmU1MzN29TdnbSAboBQVVfeXFMT1Q4dDNaUEF2eERmNXBpNURfR2hBSXNtWkRyU205alhsZ1MtVEtMQ1NXdDhWSFZFRW1iM3kxUHBpVERXQXVRaDNLZ1hhOU1melZwSmpzeFlqaW5OZG9Ba2F1aHFyOUZkN3hwSHVqOWh6RDQ1WlcxS0poc28tdGFOam4wajVaM2NkSEtxd3psbU5PSWhRSWdiNEFCYW5sbEx4Y01oZTV2MUUta0Ribkg3NzdJWEpKbDhTMGxn?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Rioja](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTBFWW0waTl1VUJvUlRjR1Y3MzQyVGxzUWxNcHNMRUd0RWNsaDdQdDd5bmVvbUtsNGJvOWFDT3diVWR6ZDUyUjJVNGQtbkpHamtCYjU1UThBZEhyYkhlZTVxN3RCNTdxbkREd29SUm93dzFiTU9TQllqSzRPeHd4OW4tWGF2OTc5MzFuaGlhNTdiWmZqNEZRaXJUejMxbE1EUktRUFJCNDhFREdmU1MzN29TdnbSAboBQVVfeXFMT1Q4dDNaUEF2eERmNXBpNURfR2hBSXNtWkRyU205alhsZ1MtVEtMQ1NXdDhWSFZFRW1iM3kxUHBpVERXQXVRaDNLZ1hhOU1melZwSmpzeFlqaW5OZG9Ba2F1aHFyOUZkN3hwSHVqOWh6RDQ1WlcxS0poc28tdGFOam4wajVaM2NkSEtxd3psbU5PSWhRSWdiNEFCYW5sbEx4Y01oZTV2MUUta0Ribkg3NzdJWEpKbDhTMGxn?oc=5)
-
----
-
 ### ['My son boarded a flight home with a headache - but four hours later he was dead' - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUFKWkw2bWVWY3BJS3g0emtiWlBQekFVOWFsSnVBMHppT3FuMEl6czQ3NzEzZVNHdjluYnc4Uy1qdklFWl9icFJEb1VudmtSeERvYlVoNG1jZTkyeXdrbFI0cFJsZkdaVzdlQ0lXbzdaa0FFZDVCWmE1VzVEb295S0g3dEFPeVJITkFZ0gGQAUFVX3lxTFBmRWpEeVpjWlZ1Vm81ZlJWbEtKMEZUZVc2TTY3NUFUUndkaDhtSFBaOHdZN0FRUW1lZXJGRjJGVUtwUXhiRjF2QjFlSnNvNS1RU1N2cHRaaWkzX1hHU1cxSW54QXM5dHRHMm9TMHYxWTk2ZGd2a0FqSnlNUldFU2p0dlIyLTdCYjNlR0czM1F4NQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -118,6 +126,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [La campaña para poner al día la vacunación infantil va por buen camino, dice la ONU - France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
+
+---
+
 ### [Woman with MS 'spat at' for using Blue Badge](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRdndNYnF0TlFMdzdvY1ZnNnZWXzFzRWtnb28zY19DZGo2WERTZmdDTXRId2tIOFV5MkFKYnctcHRuSDhnSFRIeFNZR1RscWs0Yy15R2p6NnpyeDRO?oc=5)
 
 2026-04-24 <span class="news-indication-tag">MS</span>
@@ -131,14 +147,6 @@ permalink: /news/interferon-beta-1a/
 2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
-
----
-
-### [Millions Take These IBS Drugs, But a New Study Finds Serious Risks](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdMbzlOcDRyYldmWkZwUGQxWlp3d3F4c0JadzNWN1FVSkR5eFB2R0N4b21KZnM4LXdJTGFVcXZ4VEZRbEtVa0dTeGM4b3JmNWotOG9fcVYwRlhwZW9SOGloZ1kwa2NLMnU3YkhLT0tlczRiRDF2VVU0Rm5SOWp2ekFBcFlNZHZIcFh3OEZ3aE1ucVQtZ1E?oc=5)
-
-2026-04-23 <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdMbzlOcDRyYldmWkZwUGQxWlp3d3F4c0JadzNWN1FVSkR5eFB2R0N4b21KZnM4LXdJTGFVcXZ4VEZRbEtVa0dTeGM4b3JmNWotOG9fcVYwRlhwZW9SOGloZ1kwa2NLMnU3YkhLT0tlczRiRDF2VVU0Rm5SOWp2ekFBcFlNZHZIcFh3OEZ3aE1ucVQtZ1E?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - MedEcon Ruhr](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFlmM1hFNzBLOFFxbnljYThNVnZHUUJZM0FRS1BtM21Ga2FIMVd5LXV2R2RGM0Y0dGdwY29ZQmNQZEszT19UMmlneU5hRHI5THZFU1FRRmUxNmU4OUN6UWE2d2ZxMk4wU3otcjdia09sMlNrUDFmLWRkaFFPcDhDQ2ZDWVVORGEzRkdFVjJPVXRVOUcteUtKNHhB?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/givosiran/
 2026-04-24 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
-
----
-
-### [Realizar el test reflejo VHB/VHD, método que contribuye a evitar que la hepatitis D progrese a cirrosis](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
-
-2026-04-23 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
 
 ---
 

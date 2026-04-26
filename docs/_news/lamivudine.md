@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lamivudine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/lamivudine/
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - MedEcon Ruhr](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFlmM1hFNzBLOFFxbnljYThNVnZHUUJZM0FRS1BtM21Ga2FIMVd5LXV2R2RGM0Y0dGdwY29ZQmNQZEszT19UMmlneU5hRHI5THZFU1FRRmUxNmU4OUN6UWE2d2ZxMk4wU3otcjdia09sMlNrUDFmLWRkaFFPcDhDQ2ZDWVVORGEzRkdFVjJPVXRVOUcteUtKNHhB?oc=5)
 
 2026-04-24 <span class="news-indication-tag">hepatitis</span>
 
 來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFlmM1hFNzBLOFFxbnljYThNVnZHUUJZM0FRS1BtM21Ga2FIMVd5LXV2R2RGM0Y0dGdwY29ZQmNQZEszT19UMmlneU5hRHI5THZFU1FRRmUxNmU4OUN6UWE2d2ZxMk4wU3otcjdia09sMlNrUDFmLWRkaFFPcDhDQ2ZDWVVORGEzRkdFVjJPVXRVOUcteUtKNHhB?oc=5)
-
----
-
-### [Realizar el test reflejo VHB/VHD, método que contribuye a evitar que la hepatitis D progrese a cirrosis](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
-
-2026-04-23 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
 
 ---
 

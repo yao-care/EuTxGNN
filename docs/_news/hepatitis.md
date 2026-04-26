@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Neuer zellulärer Angriffspunkt verhindert Hepatitis-E-Infektion - MedEcon Ruhr](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFlmM1hFNzBLOFFxbnljYThNVnZHUUJZM0FRS1BtM21Ga2FIMVd5LXV2R2RGM0Y0dGdwY29ZQmNQZEszT19UMmlneU5hRHI5THZFU1FRRmUxNmU4OUN6UWE2d2ZxMk4wU3otcjdia09sMlNrUDFmLWRkaFFPcDhDQ2ZDWVVORGEzRkdFVjJPVXRVOUcteUtKNHhB?oc=5)
 
 2026-04-24
 
 來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFlmM1hFNzBLOFFxbnljYThNVnZHUUJZM0FRS1BtM21Ga2FIMVd5LXV2R2RGM0Y0dGdwY29ZQmNQZEszT19UMmlneU5hRHI5THZFU1FRRmUxNmU4OUN6UWE2d2ZxMk4wU3otcjdia09sMlNrUDFmLWRkaFFPcDhDQ2ZDWVVORGEzRkdFVjJPVXRVOUcteUtKNHhB?oc=5)
-
----
-
-### [Realizar el test reflejo VHB/VHD, método que contribuye a evitar que la hepatitis D progrese a cirrosis](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
-
-2026-04-23
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXZtMXVvRW5TWjJ6RGs3eUZlTnA2Ym9CT1BHdkJ0aTRQdW5mU29PZ3BPdkpaNjY4MUUyaVRaZkRnbVpXWUJ4Uk81RlFac1g0X3hNaXRqQm1BVjFlWmZWZ1EzZTZydm5jNGc0S0x2NVBLMDFQYkdmWFo4SkZsX3ZnNlJNdklCcEVVajgwSHZIWGNieTZ0LXlmZ3hnUXJnUURqWkpXSkVyS2c0a0p1S0QxZHZId28wME1faG9iSVN1cXU5Ynp2S1Ew?oc=5)
 
 ---
 

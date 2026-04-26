@@ -14,7 +14,7 @@ permalink: /news/teplizumab/
 ---
 
 <p class="key-answer" data-question="Teplizumab 有什麼相關新聞？">
-<strong>Teplizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teplizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/teplizumab/
 <p><a href="{{ '/drugs/teplizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Teenager-Jahre entscheidend: Übergewicht in der Jugend bleibt oft bis zum Erwachsenenalter](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/teplizumab/
 2026-04-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[MDR](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWJuSnI5LXpNR1k2Q2l2MEpkR1hiYjVpdkhlN2hlNTAtUFExd214XzREMVFTaUE5OFVwa3JvTmRYRlRiMFN5ZC1IazQ3NnRwUDhvQmJqTElpbi13QVpmTzg2QlVoVm9qQU0zNUZxS29pTWdGLWkweENmTERqTnZ1T2RvQkdFdnVkTzBqUHVMN05wVldST21pM2VhcDExNS1rT3VGQUVYMlFUR0ktUTBSTkxuV0pFLXh5aXfSAb8BQVVfeXFMTjlJaktySk9HR3Q1bXU3MUxSZjcxVkIzUlpnVGY1M1ZxajVzWG9BLXhSdTgydVVIM25OZ2RQbkM3VWtySEdqQkh6b25KYlpvNkJJX1pSZ1IwUGtmZF9DS2Q2VlVWdjZIdGsxMUFFRWhTNlZZOGlwdFZOdWwtSE1icTJWQ3JPb2ppNnN4TFdXQ0E2YXotc2kyRzEzLV9hcUJIc0FOczdnUU5xWlRKUXJQWWpIYUtfOVJabWdsYjFvUzQ?oc=5)
-
----
-
-### [Diabetes beim Spender kein Hindernis für Hornhauttransplantation](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVU2RHIwOC02VkVjRnhyRXlpT0tNRkJHOG45OElBLWxzSXo4TFN6M0lCVks1NTU4bkVSQnh5ajFfWWEzTnR1clR3c2MzbnZ6bjh4dXR6NE1oNTdrY3pvZnVIeUFOR3hPd2lkclF2OURHc1BkWnhDSjdGWFg3UGtsdjJtLWpHVHZMbkg1T3N4ekNQYWdBbVVOZjE1ZlBub29oc2x5MnJwMjFXWDlqckE?oc=5)
-
-2026-04-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVU2RHIwOC02VkVjRnhyRXlpT0tNRkJHOG45OElBLWxzSXo4TFN6M0lCVks1NTU4bkVSQnh5ajFfWWEzTnR1clR3c2MzbnZ6bjh4dXR6NE1oNTdrY3pvZnVIeUFOR3hPd2lkclF2OURHc1BkWnhDSjdGWFg3UGtsdjJtLWpHVHZMbkg1T3N4ekNQYWdBbVVOZjE1ZlBub29oc2x5MnJwMjFXWDlqckE?oc=5)
 
 ---
 

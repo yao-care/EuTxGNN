@@ -14,7 +14,7 @@ permalink: /news/cinacalcet-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cinacalcet Hydrochloride 有什麼相關新聞？">
-<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cinacalcet-hydrochloride/
 <p><a href="{{ '/drugs/cinacalcet-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
+
+### [Etats-Unis: une avancée prometteuse face au cancer le plus mortel](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVc0cUw3T1JXdjI1bjFKZmo1cTFzNnV5bFlDZ1RrTmVnM1psOHFLQVBrUG00bGJTbUtJc19DaHh2YktFUEFDTVlCMG54aXk0YVBjQklwYTl4TGpxbVZzeGpVeTZIV1dlUmRuUHFsbWJYd25LakZGQ3NmNW4tRTd5aldzNGJDWVNMMUdPbk5UNFdoU0pNRjhiODRIN053TlVZUE5fSG9SZw?oc=5)
+
+2026-04-25 <span class="news-indication-tag">cancer</span>
+
+來源：[L'essentiel](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVc0cUw3T1JXdjI1bjFKZmo1cTFzNnV5bFlDZ1RrTmVnM1psOHFLQVBrUG00bGJTbUtJc19DaHh2YktFUEFDTVlCMG54aXk0YVBjQklwYTl4TGpxbVZzeGpVeTZIV1dlUmRuUHFsbWJYd25LakZGQ3NmNW4tRTd5aldzNGJDWVNMMUdPbk5UNFdoU0pNRjhiODRIN053TlVZUE5fSG9SZw?oc=5)
+
+---
+
+### [La autoexploración ayudaría a identificar el cáncer testicular en etapas iniciales, Instituto Nacional de Cancerología](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTkFjRUNHSFctNkd1RlJORmtkS1BmMWp4WDJoaDB6STZ2Yi1OdFRvZG9xSU85aEpMUW5KV2xkMm9DX1I0Sm5IYmhlaVJqWUJyUGZvUGNESFRTNEl5dTNVTndaMHRaRGx1ZTZUWkdzNDVZUHFKSzBIVXpQYi15c0s2OWF1czQ1SXVYY1JfUERtZ3p1MGxNaWlzbGRYQm9vT2hXNi16SDY3REw5SnFSakw0TUxETl9ndldkck9Ma0FKS3dRUUtkNjFJNG92T19vdkp3MFhObnh4ZHNJMlNkempXSUJYaXJwYTR0aHVNRFVDZF95QdIBjAJBVV95cUxQNGZNNFdsSVZVVUdISlNyTUJ1TU5tY3BLVWl1X0h6UXdYdnlmd05xS3lvQk9xOE5fOEwtbk5wN1RtaVRmT2I4VWxSSVNzSi05d1lmZlNHeDJBSXh1YlBrZm53ZFNGTE1JUXNuSXh5R1VSNmxucWRId2pBRXZIczk5SGhsY2JBOFhHajR6TnNlSFU0bHZ5WVVpakpJUE5tWWpmdVlLM2pGb1pYXzdIZHNCREczLVFvekZ6ZXJrNFRHOWRwNHB6RTE5UC1ZT2ZKRHJ4S0lkWFlOZDFNc2ktMC14d0tyUGRGVEhBT0Q1X1ZGckxsckNzWlZtaGpBRkZCc01ZNHlnVmMyUmJLZDN5?oc=5)
+
+2026-04-25 <span class="news-indication-tag">cancer</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTkFjRUNHSFctNkd1RlJORmtkS1BmMWp4WDJoaDB6STZ2Yi1OdFRvZG9xSU85aEpMUW5KV2xkMm9DX1I0Sm5IYmhlaVJqWUJyUGZvUGNESFRTNEl5dTNVTndaMHRaRGx1ZTZUWkdzNDVZUHFKSzBIVXpQYi15c0s2OWF1czQ1SXVYY1JfUERtZ3p1MGxNaWlzbGRYQm9vT2hXNi16SDY3REw5SnFSakw0TUxETl9ndldkck9Ma0FKS3dRUUtkNjFJNG92T19vdkp3MFhObnh4ZHNJMlNkempXSUJYaXJwYTR0aHVNRFVDZF95QdIBjAJBVV95cUxQNGZNNFdsSVZVVUdISlNyTUJ1TU5tY3BLVWl1X0h6UXdYdnlmd05xS3lvQk9xOE5fOEwtbk5wN1RtaVRmT2I4VWxSSVNzSi05d1lmZlNHeDJBSXh1YlBrZm53ZFNGTE1JUXNuSXh5R1VSNmxucWRId2pBRXZIczk5SGhsY2JBOFhHajR6TnNlSFU0bHZ5WVVpakpJUE5tWWpmdVlLM2pGb1pYXzdIZHNCREczLVFvekZ6ZXJrNFRHOWRwNHB6RTE5UC1ZT2ZKRHJ4S0lkWFlOZDFNc2ktMC14d0tyUGRGVEhBT0Q1X1ZGckxsckNzWlZtaGpBRkZCc01ZNHlnVmMyUmJLZDN5?oc=5)
+
+---
 
 ### [Boire deux à trois cafés par jour : un réflexe santé à adopter, selon cette nouvelle étude](https://news.google.com/rss/articles/CBMimwFBVV95cUxOekRJZmMzclRMQ0I3S3ZsYU5RUjREbEFXVE9FT05mdXVYRXhsbWRKUHZ1dnVDaThjaEZ4OEI0ZjNKcUJaR2Nwcm41Sk4xOFFmNHc4RXRFM3NEMk5fVTF4cGh5LTZFcWJnNDE1TVZTZ1ozdzRpaXZtdE5Va0puclJQVXpfZVl2eTFVMDZSTUV6N2hZNVFsVUUxUnNSTQ?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/cinacalcet-hydrochloride/
 2026-04-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">dementia</span>
 
 來源：[The Economist](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmxtUGQ2VEVvbVBwVHRfN1dhSzRLcm9kYWR6M2JUYlRCSmRDOU0teTlXR28xRko3d0gxTVJxcW01NmVlb1B6YXp0a0MwY2haUkczcGdncWFZc0g0SklWYm0yM1RuSnM2ZlJnNHFWdkVKX3ljYUl2TDc3a01qcmE4b3Z3SUs2cGU0dE5OUGY2Z0FKcDN5d1VBbTZzU01sUmJuanZvbktTLWkzOXAyU1Z0ZzZ3NkctR2E2RWFNeDB4Z3hPcDg?oc=5)
-
----
-
-### [Après des décennies d’impasse, une avancée majeure dans le traitement du cancer du pancréas - National Geographic](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjl1U2p0UURmM2tTUmVucXFvMlp5R2dCdXJYbmdLZzdYRUZZMV9uSTBGbElETTdhcmxEdmZNZ2phV0FxdVpudVlkNWVOQVJKRjlheEFmLS1zVm9JanRGQjkzdUhPMm5LcWdDTHZOOWxKekJCNjI2VjdOM2tRMDJJMTNiS2x6LVRpSHpWUVZWdi0tZG1BM3pMVG9iUUl0bGZWTzFxQWNKNXNqcjluYTVmdUhoVlQtTl9PNE1pUUJYeW9veXZGSlY3Rg?oc=5)
-
-2026-04-24 <span class="news-indication-tag">cancer</span>
-
-來源：[National Geographic](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjl1U2p0UURmM2tTUmVucXFvMlp5R2dCdXJYbmdLZzdYRUZZMV9uSTBGbElETTdhcmxEdmZNZ2phV0FxdVpudVlkNWVOQVJKRjlheEFmLS1zVm9JanRGQjkzdUhPMm5LcWdDTHZOOWxKekJCNjI2VjdOM2tRMDJJMTNiS2x6LVRpSHpWUVZWdi0tZG1BM3pMVG9iUUl0bGZWTzFxQWNKNXNqcjluYTVmdUhoVlQtTl9PNE1pUUJYeW9veXZGSlY3Rg?oc=5)
 
 ---
 
@@ -118,14 +126,6 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [El cáncer de testículo aumenta en hombres jóvenes](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdC1GeGRUblhpN21CZTdDQmYxd3E1MUdtZzh2aW43Mjk3cjM3M3k5NGx5b016amtQTG04aGl3ajVRMDdHSGx1VWI5eEc2aERaSDRTcE4yREIzVVN1cFVDVzZHWi00d3FFR2o3eDVmbjB3VTNRa2QxZ1Q1R29DY1BCTjZSU1I3T3IxellZOU1JYmtuMGkyX29lLW1lVUk0YWp2Y1lVT0hLanMtSEY3cF9ISUdCaTQwZ3F3dHpxdW5ueUJ2YlBLOUZ1QjBqbTl5cnUwYmdn?oc=5)
-
-2026-04-24 <span class="news-indication-tag">cancer</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdC1GeGRUblhpN21CZTdDQmYxd3E1MUdtZzh2aW43Mjk3cjM3M3k5NGx5b016amtQTG04aGl3ajVRMDdHSGx1VWI5eEc2aERaSDRTcE4yREIzVVN1cFVDVzZHWi00d3FFR2o3eDVmbjB3VTNRa2QxZ1Q1R29DY1BCTjZSU1I3T3IxellZOU1JYmtuMGkyX29lLW1lVUk0YWp2Y1lVT0hLanMtSEY3cF9ISUdCaTQwZ3F3dHpxdW5ueUJ2YlBLOUZ1QjBqbTl5cnUwYmdn?oc=5)
-
----
-
 ### [Tumori cerebrali pediatrici: scoperta una nuova terapia - Corriere della Sera](https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXFNcVZPSllBbE4wSGhxeG1KWENqSFdCS1BUMXFiSnNDdzhHVEJFTTVtTzVKaTNuMWVDcklXUnpmZnppTlF5MVBNUEJ1Ql9wVHlGU19xcWg1VW9fekc1b2dod1g5RERxNVIydXRrRDc1YlFLTWRhVWVHYk9rNGlyQ18zRlI3TDRYNDZnSEd4cFI?oc=5)
 
 2026-04-24 <span class="news-indication-tag">tumor</span>
@@ -147,14 +147,6 @@ permalink: /news/cinacalcet-hydrochloride/
 2026-04-24 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
-
----
-
-### [C’est la fin d’un mystère physiologique : on sait désormais ce qui protège le cœur du cancer et des métastases - Le Figaro Santé](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3doZG1naTdSUWFtcWtiU0RsTVhRSkFGaHZTYUJCOF9GaVRRMVVoMnkyS0JKbkpzUHVNNkJwbFVWbk1uaXpLdkNzcFJaUUdUUXB6SEk1TFdhOXNtcTQyUkFXTzdBSFN1ZzRWMzljems4dnFENThqcE96U3FjRi1kYkY2aUN1aGdyd194VXR5UnJIeXVsSm5ZWUdRVjRacVBaNnlYN3dRamRKZkFTRFlZdXFLS0pPNmV3QXlCaHhhd2w0eGtxNDlyNnJHV3M3MUlTVFZvWlhxM0RWcEtXSkN0Mzh3QzF4V0Q2?oc=5)
-
-2026-04-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3doZG1naTdSUWFtcWtiU0RsTVhRSkFGaHZTYUJCOF9GaVRRMVVoMnkyS0JKbkpzUHVNNkJwbFVWbk1uaXpLdkNzcFJaUUdUUXB6SEk1TFdhOXNtcTQyUkFXTzdBSFN1ZzRWMzljems4dnFENThqcE96U3FjRi1kYkY2aUN1aGdyd194VXR5UnJIeXVsSm5ZWUdRVjRacVBaNnlYN3dRamRKZkFTRFlZdXFLS0pPNmV3QXlCaHhhd2w0eGtxNDlyNnJHV3M3MUlTVFZvWlhxM0RWcEtXSkN0Mzh3QzF4V0Q2?oc=5)
 
 ---
 

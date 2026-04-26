@@ -14,7 +14,7 @@ permalink: /news/asenapine-maleate/
 ---
 
 <p class="key-answer" data-question="Asenapine Maleate 有什麼相關新聞？">
-<strong>Asenapine Maleate</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Asenapine Maleate</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/asenapine-maleate/
 <p><a href="{{ '/drugs/asenapine-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（29 則）
+
+### [Simple ‘metabolic reset’ found to prevent weight rebound after discontinuing GLP-1 drugs](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pmQXM1N0pUTlZBQmRhR2lPQTRmNjF4b2ZZemRjSklMZ3RPMGIyVnpPTXd1cnZYYWY4QXdVb1hONUpVdjNQUlgwc1JYd1hNYTNFX3dyNkI1MlhPbm9yLUpFVUI1bGpxN3hMdTV5ZEtmRUhNQUhjbFM5TTZGRHlXdlBwWjE2ekU?oc=5)
+
+2026-04-25 <span class="news-indication-tag">AF</span>
+
+來源：[AOL.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pmQXM1N0pUTlZBQmRhR2lPQTRmNjF4b2ZZemRjSklMZ3RPMGIyVnpPTXd1cnZYYWY4QXdVb1hONUpVdjNQUlgwc1JYd1hNYTNFX3dyNkI1MlhPbm9yLUpFVUI1bGpxN3hMdTV5ZEtmRUhNQUhjbFM5TTZGRHlXdlBwWjE2ekU?oc=5)
+
+---
+
+### [Surgeon names 5 things to avoid to live longer — alcohol not on the list - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
+
+2026-04-25 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
+
+---
 
 ### [El suelo pélvico, "el gran olvidado en el deporte": por qué es importante entrenarlo y no ignorar el dolor - Onda Cero](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkpMYnNWV1VmYUE5cWEzS2RzRHppMG14czlZd2pld2N5aU96cXBNNGZST0Z5X1V2Z3E4UDN4bDJkT3g1dUdLU29saWd3aW0xeVBwQkl4QW9POXI1N3h5VXBJZ09sUE1QVUxhWmJ3UWJLOFdpT1lpdmZQWDg4TzRXbXVOMzBiWG5OcGFXWU9pd2lYelc5YWZtWUFCZUVuaFFRLU9XN2tmaHMySkJsRlNKOGJDcjhEdjFsQVBYQ3hUOWpxclRsUFNVNlZ0Yzc2eWxEd2FoUVYybkxJSUVqRU1Z0gHfAUFVX3lxTE9sRThVdXBlS2NHM1JKQVFCeWpfMmlhZHZ5T2l5U2tqMjVDMHFEYVU2eTFKOEwtaWFDQ2NteTNYSC1PMUJVd0JSQnZOM1RnMkpZWlhDUHVlZjJYMnFZRUYyVzFyc2F1WEtrblpiMDVJT0t2aHl4dlJoYmZuOGQ3bmR3MEN1NXB0MFk2UUROT3VmVWR3aUF2M0YzRFNsaFh0ckpiSXQycDVZZXZnN3RMdmdSQi00OHJjbEtYeWFPUkZWVXRZdXB5WlRESnZHcjA5eEJhZ1dnU3VlcVVSdEtwWUE?oc=5)
 
@@ -62,11 +78,19 @@ permalink: /news/asenapine-maleate/
 
 ---
 
-### [Die Kraft der Mikro-Nährstoffe – welche Sie wirklich brauchen](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjF4Q3pLTmNKVVQ5Q1M3eVhES2I4QmN4bEZoTlk3d0NYN21KZ19DbG9VWWJyZ2tGY1pwY19wSkRmbUJudW05MmpsTzRrMzltbjhaSXcxbWpnV1haMVBaUWhfTVlMemRpNXh1ZU1kLXJwZy0tVFU0UU04WXhDdzhoXy1QVkhVNXdDVXRZX05B?oc=5)
+### [Nuovi farmaci rimborsabili dal Servizio sanitario nazionale: ecco quali sono, equivalenti, antibiotici - La Nuova Sardegna](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZ2loaGlULW1pdlV0TzBUd3hoaUdWcGlNODI1eUx0bnBub0ZpeWpVNE9LZk9EZDJHR3Nid1Nza3JHZ0tmVi1TWjhERWNqYmhFT1dzSjVvVTBKaTNQOTd4VVk2aE5VaUh4akdPNkE1T3Bqa0ljMzlCam5uZnQ2Q1RJNHJOZURySHlReHB5OVVpb1BPUDJaWHVVVXhvWG9wNGFxLUU3R1F1allwTjc1RGNUUi1Ja0E3ckw0SHlKcHdyejlUVlNtSXl1RzdCX0FhUEJacWN4M1JuZ2F5LUN2cWo2SnNhT1ZOOURYRVo2UnNyRksxLTN6S24xcGZzNGZVblgzNFBvMWU2QTlZekNzNllpVURwbHZWQQ?oc=5)
 
 2026-04-25 <span class="news-indication-tag">AF</span>
 
-來源：[focusplus.de](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjF4Q3pLTmNKVVQ5Q1M3eVhES2I4QmN4bEZoTlk3d0NYN21KZ19DbG9VWWJyZ2tGY1pwY19wSkRmbUJudW05MmpsTzRrMzltbjhaSXcxbWpnV1haMVBaUWhfTVlMemRpNXh1ZU1kLXJwZy0tVFU0UU04WXhDdzhoXy1QVkhVNXdDVXRZX05B?oc=5)
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZ2loaGlULW1pdlV0TzBUd3hoaUdWcGlNODI1eUx0bnBub0ZpeWpVNE9LZk9EZDJHR3Nid1Nza3JHZ0tmVi1TWjhERWNqYmhFT1dzSjVvVTBKaTNQOTd4VVk2aE5VaUh4akdPNkE1T3Bqa0ljMzlCam5uZnQ2Q1RJNHJOZURySHlReHB5OVVpb1BPUDJaWHVVVXhvWG9wNGFxLUU3R1F1allwTjc1RGNUUi1Ja0E3ckw0SHlKcHdyejlUVlNtSXl1RzdCX0FhUEJacWN4M1JuZ2F5LUN2cWo2SnNhT1ZOOURYRVo2UnNyRksxLTN6S24xcGZzNGZVblgzNFBvMWU2QTlZekNzNllpVURwbHZWQQ?oc=5)
+
+---
+
+### [De Cuenca a Kinkala: una red solidaria frente a la malaria - Las Noticias de Cuenca](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzZ3UUpoVXRCNE84X3FobElnWFlaTk05Z252R3R6aU5qNVNHX3dmdVl0WU1qeC02dW0teEhCY0kzX29RamZjMk84QzVFQUlaZUNhUXdOdE11cXlxSXZPWVY5U3ZxdnN0aHdqS3Z2dTBmSXItUWs5N1pZVUZ5eTdIRTM3Uk14bi0wRkFNNHRSUU5KZ1RwMFE?oc=5)
+
+2026-04-25 <span class="news-indication-tag">MS</span>
+
+來源：[Las Noticias de Cuenca](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzZ3UUpoVXRCNE84X3FobElnWFlaTk05Z252R3R6aU5qNVNHX3dmdVl0WU1qeC02dW0teEhCY0kzX29RamZjMk84QzVFQUlaZUNhUXdOdE11cXlxSXZPWVY5U3ZxdnN0aHdqS3Z2dTBmSXItUWs5N1pZVUZ5eTdIRTM3Uk14bi0wRkFNNHRSUU5KZ1RwMFE?oc=5)
 
 ---
 
@@ -86,19 +110,19 @@ permalink: /news/asenapine-maleate/
 
 ---
 
-### [Farmaci rimborsabili: dall'Aifa arriva l'ok a quattro nuovi medicinali](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNW1McmVLeFd0SkFHSGJWcEp3YTg0S2V2dnNKUUt6dlJNQ1lrdGJreUIyX0gwZjROUnc4dWV5M3E5ekNQMTBvZHF0U3Fmc2J2LVhSN3RpMXVSa3pGMkVmazRkaEpwNndwUUx6VnFFbklCRl93QzlIOWVNWnJJcGhCVjBCZ1ZEN3BrZHI0VDFPTHk4WU3SAWhBVV95cUxNOExmN1Etc2JUTmFtRC1ILXJMMTZVUjNGdGpjUHpJNFJQMTJ3dWtZQ1ZieDFjNVJaZU94eElrUmo0S2xVdnAyQUtNRXBiRXJhVEtMdnhMUVhETFhreVNfQkhRSC10T2h5bA?oc=5)
+### [Venus and the Plejades - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWNFR0FDZzhGa3A3ZUJSMGZSazIwTTV2d3RRbHhwNlU1Vk1jQlhSR0Z4TWhJdWUxdjI1UGRMZTVuQVFvNHNNdW9yUjI2NzU0WUJOSlNjR0NyNm9QNXdGdWhVM0hWQVFSNjFkbWR2Tks4emNHSzV1eVBZZDRTZG8yNmlTckZGX1E?oc=5)
 
 2026-04-25 <span class="news-indication-tag">AF</span>
 
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNW1McmVLeFd0SkFHSGJWcEp3YTg0S2V2dnNKUUt6dlJNQ1lrdGJreUIyX0gwZjROUnc4dWV5M3E5ekNQMTBvZHF0U3Fmc2J2LVhSN3RpMXVSa3pGMkVmazRkaEpwNndwUUx6VnFFbklCRl93QzlIOWVNWnJJcGhCVjBCZ1ZEN3BrZHI0VDFPTHk4WU3SAWhBVV95cUxNOExmN1Etc2JUTmFtRC1ILXJMMTZVUjNGdGpjUHpJNFJQMTJ3dWtZQ1ZieDFjNVJaZU94eElrUmo0S2xVdnAyQUtNRXBiRXJhVEtMdnhMUVhETFhreVNfQkhRSC10T2h5bA?oc=5)
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWNFR0FDZzhGa3A3ZUJSMGZSazIwTTV2d3RRbHhwNlU1Vk1jQlhSR0Z4TWhJdWUxdjI1UGRMZTVuQVFvNHNNdW9yUjI2NzU0WUJOSlNjR0NyNm9QNXdGdWhVM0hWQVFSNjFkbWR2Tks4emNHSzV1eVBZZDRTZG8yNmlTckZGX1E?oc=5) · [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTItYk81T2RMSnJ2a0lDVHpTQmxQVWRnem5YNHBRZjNwaERtMVFFTzQ2WVdXU1k0VnRoVVkwYlBpN3ZIV29nYnUtZEVZMVR2bjIwYkVEbFhyUjFUNFBzeXF5YVVucXNuTEdQeUo5MV9UenlIeThHdGMwbDdTb20xd1JWYnBiOFdZYVlWR2FUZkVEMy1hUG5jdTZtZUxsNnRkZkE?oc=5)
 
 ---
 
-### [Venus and the pleiades at minimum distance - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTItYk81T2RMSnJ2a0lDVHpTQmxQVWRnem5YNHBRZjNwaERtMVFFTzQ2WVdXU1k0VnRoVVkwYlBpN3ZIV29nYnUtZEVZMVR2bjIwYkVEbFhyUjFUNFBzeXF5YVVucXNuTEdQeUo5MV9UenlIeThHdGMwbDdTb20xd1JWYnBiOFdZYVlWR2FUZkVEMy1hUG5jdTZtZUxsNnRkZkE?oc=5)
+### [Mum who thought she’d 'harmed her baby and died' opens up on postpartum psychosis - Lancashire Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3lPTldZcWNPTF8xZHJpUkEwZlJLR0pkVTdZX0tkZ3E3MjRZNkw4LU5qejdyVm1RVm1oQm5QQmFiN1ZHVjFGYUJlcEU5WURjaFBMaEk1MHlrZHY4eUUxazdIVm94M0dUQmhIMVVRbEZuMjVkUENSYjlscWU2N1FwTW1xLUVnUzZvUDFQdWdtVmw2RXNQUTV2bE5GZw?oc=5)
 
 2026-04-25 <span class="news-indication-tag">AF</span>
 
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTItYk81T2RMSnJ2a0lDVHpTQmxQVWRnem5YNHBRZjNwaERtMVFFTzQ2WVdXU1k0VnRoVVkwYlBpN3ZIV29nYnUtZEVZMVR2bjIwYkVEbFhyUjFUNFBzeXF5YVVucXNuTEdQeUo5MV9UenlIeThHdGMwbDdTb20xd1JWYnBiOFdZYVlWR2FUZkVEMy1hUG5jdTZtZUxsNnRkZkE?oc=5)
+來源：[Lancashire Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3lPTldZcWNPTF8xZHJpUkEwZlJLR0pkVTdZX0tkZ3E3MjRZNkw4LU5qejdyVm1RVm1oQm5QQmFiN1ZHVjFGYUJlcEU5WURjaFBMaEk1MHlrZHY4eUUxazdIVm94M0dUQmhIMVVRbEZuMjVkUENSYjlscWU2N1FwTW1xLUVnUzZvUDFQdWdtVmw2RXNQUTV2bE5GZw?oc=5)
 
 ---
 
@@ -123,14 +147,6 @@ permalink: /news/asenapine-maleate/
 2026-04-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDEtVU91RmhSRUtZRVVVZjRrQ2VBUW5BQUV4Zk1XbmlqZzljNGxjbmdRWG5uWkFyUE1CcVl6SGxkUHI1cU12T2JpRWFCQ0dhelhOWU82amFsWE14TzF6Nk9UdjJLNjlhNGhkdGJ0QWRUaWlFbkpzWFI5cmhDQm1PR2s3RDRBR3BUd0dDeGpB?oc=5)
-
----
-
-### [Pour votre santé, vaut-il mieux faire du sport le matin ou l’après-midi ?](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNX1NrM09YVkl4YTdpb0h4Ym1QYWpuYkxkX1h3S2cwUW9MVXRKZl9YY3Z2YTFWQ0R5UmlmU0J5MTRBc19nNVJ1Nml3N3dnVnRRbGVpWnpYN1htYmx5UWk1NUVEaTQ4N0tIZU9lbDhTNk1XYW9kTE4yenNJbXJaOWRZNXhqQ3hKYmtncTJlQmcwcWRKR1lkOFpLY3ItSFBDNjlmMHlKanZDYjZDTnFYWkhtcTIxZkp2TG1wZEx4NmpSaFNvNk1GbUh0cC1kM0FuRmFlaHZHb3JjVDFVSjNJQllBWmJ0S2JhTFpCRnQ0SDNQNzZtUHc?oc=5)
-
-2026-04-24 <span class="news-indication-tag">AF</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNX1NrM09YVkl4YTdpb0h4Ym1QYWpuYkxkX1h3S2cwUW9MVXRKZl9YY3Z2YTFWQ0R5UmlmU0J5MTRBc19nNVJ1Nml3N3dnVnRRbGVpWnpYN1htYmx5UWk1NUVEaTQ4N0tIZU9lbDhTNk1XYW9kTE4yenNJbXJaOWRZNXhqQ3hKYmtncTJlQmcwcWRKR1lkOFpLY3ItSFBDNjlmMHlKanZDYjZDTnFYWkhtcTIxZkp2TG1wZEx4NmpSaFNvNk1GbUh0cC1kM0FuRmFlaHZHb3JjVDFVSjNJQllBWmJ0S2JhTFpCRnQ0SDNQNzZtUHc?oc=5)
 
 ---
 
@@ -163,14 +179,6 @@ permalink: /news/asenapine-maleate/
 2026-04-24 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5XY2d1VFdSRi1mRHNwQWMzVXZmVFUwcFlzMTYtRUNKbXV6Zlk3NDRuOW9jLWZkNC02STZfLWdudEVISkdHWHRkZThUVGtsNFVyN1YxMEc3bGlSYXVadTdYVGRVaF92Ym5tUmlJNHJVZzJ5bG5CUjZzWWFpZFR1bDJhU2cwLTZpX041eVpFY294cnMxVkRPZDd3?oc=5)
-
----
-
-### [La OMS, UNICEF y Gavi vacunan a 18,3 millones de niños afectados por las interrupciones Covid - La Rioja](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTBFWW0waTl1VUJvUlRjR1Y3MzQyVGxzUWxNcHNMRUd0RWNsaDdQdDd5bmVvbUtsNGJvOWFDT3diVWR6ZDUyUjJVNGQtbkpHamtCYjU1UThBZEhyYkhlZTVxN3RCNTdxbkREd29SUm93dzFiTU9TQllqSzRPeHd4OW4tWGF2OTc5MzFuaGlhNTdiWmZqNEZRaXJUejMxbE1EUktRUFJCNDhFREdmU1MzN29TdnbSAboBQVVfeXFMT1Q4dDNaUEF2eERmNXBpNURfR2hBSXNtWkRyU205alhsZ1MtVEtMQ1NXdDhWSFZFRW1iM3kxUHBpVERXQXVRaDNLZ1hhOU1melZwSmpzeFlqaW5OZG9Ba2F1aHFyOUZkN3hwSHVqOWh6RDQ1WlcxS0poc28tdGFOam4wajVaM2NkSEtxd3psbU5PSWhRSWdiNEFCYW5sbEx4Y01oZTV2MUUta0Ribkg3NzdJWEpKbDhTMGxn?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Rioja](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTBFWW0waTl1VUJvUlRjR1Y3MzQyVGxzUWxNcHNMRUd0RWNsaDdQdDd5bmVvbUtsNGJvOWFDT3diVWR6ZDUyUjJVNGQtbkpHamtCYjU1UThBZEhyYkhlZTVxN3RCNTdxbkREd29SUm93dzFiTU9TQllqSzRPeHd4OW4tWGF2OTc5MzFuaGlhNTdiWmZqNEZRaXJUejMxbE1EUktRUFJCNDhFREdmU1MzN29TdnbSAboBQVVfeXFMT1Q4dDNaUEF2eERmNXBpNURfR2hBSXNtWkRyU205alhsZ1MtVEtMQ1NXdDhWSFZFRW1iM3kxUHBpVERXQXVRaDNLZ1hhOU1melZwSmpzeFlqaW5OZG9Ba2F1aHFyOUZkN3hwSHVqOWh6RDQ1WlcxS0poc28tdGFOam4wajVaM2NkSEtxd3psbU5PSWhRSWdiNEFCYW5sbEx4Y01oZTV2MUUta0Ribkg3NzdJWEpKbDhTMGxn?oc=5)
 
 ---
 
@@ -230,6 +238,14 @@ permalink: /news/asenapine-maleate/
 
 ---
 
+### [La campaña para poner al día la vacunación infantil va por buen camino, dice la ONU - France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
+
+---
+
 ### [Gehemmtes Zellrecycling führt zu Muskelschwäche / Bonner Forschende klären Ursache für genetische Muskelerkrankung - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DREF6UXJZdFN6LXZZZTBtQkxNUXk3OFR5SDByN2M0MnJMcm5yZnlaT2xFRzEtSDhrWUNiNmFwVkVOcngwb2ZzZWJFRQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">AF</span>
@@ -262,35 +278,11 @@ permalink: /news/asenapine-maleate/
 
 ---
 
-### [5 Todesfälle in kurzer Zeit: Unbekanntes Virus schürt Besorgnis - Mediziner suchen nach Ursache](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVG5iQmR5bDhxdDNELW5qd2RvZ2FaM2p2UUp4azdzNnFUNzk5TEJkbWNZTjFtTEZjTW5nWENhQmF3RzR6VnVrdVFOLVJmWHZlNS1KV3R2SUpLU1p2V0JWOHltNGxxVkE5bnNyLVRBbnVBNGxyc3poaFk3amhqZzhEWFlya0cyQldzYVl6ZzYtZjJTdHRITHY2eVB6Mm1Xb2V0M0hfNVRZenBBb2hzZmpleGEyMlB3Ni1GSlg2SGE1eEFJMXE5T1A0TVdCVndnekp6T1ZnMU9rUVprNVdIc2pIMk1qT2ZjaU9aZVRFRTFoTm82ZktsUWxrMjFZYmU1MndUR1dZbnJMZWpGUmvSAZACQVVfeXFMUGt3akswamdTdDRrZGU4dzZDeGNrc2VfcjdCTkZqNUhwdnIxTzFlMld1UlFUaGN3UDFZWklaMmt5cmRaUng5d1huQUlSdU5lTno2NDN2dUUwRV9RQUEwVkRNcTQwNUVJNUluak5UWi1aNExTbVR5YmlYUl9NM0pKbXVRV2lWX0RhckFVcEpodGE5RVZEWWVNZHI5NVVTMk0xb3JmUjdzcUhmb0hOZkM1ajBRSERSZ0plT2ZqSkg5M1Y0YjN3Vl9peVhmUHRpNDN4YzBuaWZGRmlCb01vQktCSG41MC0tMmcyWHpVQWpuYzF3Rkp3bzVDYmI0UkJSTVBDREdzN1R2VHQ5cnFXVkZtU2Y?oc=5)
-
-2026-04-24 <span class="news-indication-tag">AF</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVG5iQmR5bDhxdDNELW5qd2RvZ2FaM2p2UUp4azdzNnFUNzk5TEJkbWNZTjFtTEZjTW5nWENhQmF3RzR6VnVrdVFOLVJmWHZlNS1KV3R2SUpLU1p2V0JWOHltNGxxVkE5bnNyLVRBbnVBNGxyc3poaFk3amhqZzhEWFlya0cyQldzYVl6ZzYtZjJTdHRITHY2eVB6Mm1Xb2V0M0hfNVRZenBBb2hzZmpleGEyMlB3Ni1GSlg2SGE1eEFJMXE5T1A0TVdCVndnekp6T1ZnMU9rUVprNVdIc2pIMk1qT2ZjaU9aZVRFRTFoTm82ZktsUWxrMjFZYmU1MndUR1dZbnJMZWpGUmvSAZACQVVfeXFMUGt3akswamdTdDRrZGU4dzZDeGNrc2VfcjdCTkZqNUhwdnIxTzFlMld1UlFUaGN3UDFZWklaMmt5cmRaUng5d1huQUlSdU5lTno2NDN2dUUwRV9RQUEwVkRNcTQwNUVJNUluak5UWi1aNExTbVR5YmlYUl9NM0pKbXVRV2lWX0RhckFVcEpodGE5RVZEWWVNZHI5NVVTMk0xb3JmUjdzcUhmb0hOZkM1ajBRSERSZ0plT2ZqSkg5M1Y0YjN3Vl9peVhmUHRpNDN4YzBuaWZGRmlCb01vQktCSG41MC0tMmcyWHpVQWpuYzF3Rkp3bzVDYmI0UkJSTVBDREdzN1R2VHQ5cnFXVkZtU2Y?oc=5)
-
----
-
 ### [Women, testosterone and libido — what you need to know - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
 
 2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
-
----
-
-### [Millions Take These IBS Drugs, But a New Study Finds Serious Risks](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdMbzlOcDRyYldmWkZwUGQxWlp3d3F4c0JadzNWN1FVSkR5eFB2R0N4b21KZnM4LXdJTGFVcXZ4VEZRbEtVa0dTeGM4b3JmNWotOG9fcVYwRlhwZW9SOGloZ1kwa2NLMnU3YkhLT0tlczRiRDF2VVU0Rm5SOWp2ekFBcFlNZHZIcFh3OEZ3aE1ucVQtZ1E?oc=5)
-
-2026-04-23 <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdMbzlOcDRyYldmWkZwUGQxWlp3d3F4c0JadzNWN1FVSkR5eFB2R0N4b21KZnM4LXdJTGFVcXZ4VEZRbEtVa0dTeGM4b3JmNWotOG9fcVYwRlhwZW9SOGloZ1kwa2NLMnU3YkhLT0tlczRiRDF2VVU0Rm5SOWp2ekFBcFlNZHZIcFh3OEZ3aE1ucVQtZ1E?oc=5)
-
----
-
-### [Starnuti a raffica appena svegli? Non è sempre allergia, ma… - The Wom Healthy](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzJzd2o2ZHEtNHNDd01TLWNnSXk0eEtsTGl3NkpEV2p6OTRYRElrMmZvUmV5ZGtVbDNWTDYzM1lOM0VkODk5M2lmVWQ1ZDZTc2toSlB1QVE1VzZ5c0puQUxQZmZLZUQtTkp5YXpBc3ZFeWhJS0ZCS1RfNUdQOWtMYmV2YUV2NHVKMWZqUmtjc1hUbTUyVUlDeDRXT1lSazFFV3c?oc=5)
-
-2026-04-23 <span class="news-indication-tag">AF</span>
-
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQzJzd2o2ZHEtNHNDd01TLWNnSXk0eEtsTGl3NkpEV2p6OTRYRElrMmZvUmV5ZGtVbDNWTDYzM1lOM0VkODk5M2lmVWQ1ZDZTc2toSlB1QVE1VzZ5c0puQUxQZmZLZUQtTkp5YXpBc3ZFeWhJS0ZCS1RfNUdQOWtMYmV2YUV2NHVKMWZqUmtjc1hUbTUyVUlDeDRXT1lSazFFV3c?oc=5)
 
 ---
 
