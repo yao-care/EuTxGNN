@@ -54,6 +54,22 @@ permalink: /news/loxapine/
 
 ## 相關新聞（29 則）
 
+### [«La oncología de precisión ha llegado al cáncer de páncreas»](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVZiWllQcWpfYjBuSkZRY00xQnVhR0NBdkR3N2dYNjRBVzZ1TFBpTTVIUTlhbFRZcXJNNjJMTDBURFVEN3JRX1JBb19WX190SW5URS1ldlNrb2FZTEhDWTM5cTM1U3ZLbUpmYTlRVWpYclRZUkwxRFFOQUc2YTd1VXVDTVZucXNVMEpCVDRnLXRtbTJWeW0zRGVQNGdQMl9qekhFWjVlOHRjUFdfTm41X09B?oc=5)
+
+2026-04-26 <span class="news-indication-tag">MS</span>
+
+來源：[Segre.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVZiWllQcWpfYjBuSkZRY00xQnVhR0NBdkR3N2dYNjRBVzZ1TFBpTTVIUTlhbFRZcXJNNjJMTDBURFVEN3JRX1JBb19WX190SW5URS1ldlNrb2FZTEhDWTM5cTM1U3ZLbUpmYTlRVWpYclRZUkwxRFFOQUc2YTd1VXVDTVZucXNVMEpCVDRnLXRtbTJWeW0zRGVQNGdQMl9qekhFWjVlOHRjUFdfTm41X09B?oc=5)
+
+---
+
+### [Jupiter im Sternbild Zwillinge (Objekte beschriftet) - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWVqejVya2xKZ29CSUppaGZ4UVF0RkV0TjF5dUVGLXpmdUpOVVFGWU9UWnRjdWQwVnVDcDRfMzh0ejEwTWRtQ1ctX3prb3hwdDJ5RUltS0s5a0l1YkFsX3FLVlZNVi1JRnRhTkdwdklTaDc1Wk9TbU5VenhickJFdVFXT0JwZlJ5bDN3dWZMS1JRaHBRT0NBczFabnYwLU0xd015SG1RTVdBb2ZU?oc=5)
+
+2026-04-25 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWVqejVya2xKZ29CSUppaGZ4UVF0RkV0TjF5dUVGLXpmdUpOVVFGWU9UWnRjdWQwVnVDcDRfMzh0ejEwTWRtQ1ctX3prb3hwdDJ5RUltS0s5a0l1YkFsX3FLVlZNVi1JRnRhTkdwdklTaDc1Wk9TbU5VenhickJFdVFXT0JwZlJ5bDN3dWZMS1JRaHBRT0NBczFabnYwLU0xd015SG1RTVdBb2ZU?oc=5)
+
+---
+
 ### [Simple ‘metabolic reset’ found to prevent weight rebound after discontinuing GLP-1 drugs](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pmQXM1N0pUTlZBQmRhR2lPQTRmNjF4b2ZZemRjSklMZ3RPMGIyVnpPTXd1cnZYYWY4QXdVb1hONUpVdjNQUlgwc1JYd1hNYTNFX3dyNkI1MlhPbm9yLUpFVUI1bGpxN3hMdTV5ZEtmRUhNQUhjbFM5TTZGRHlXdlBwWjE2ekU?oc=5)
 
 2026-04-25 <span class="news-indication-tag">AF</span>
@@ -86,11 +102,19 @@ permalink: /news/loxapine/
 
 ---
 
-### [De Cuenca a Kinkala: una red solidaria frente a la malaria - Las Noticias de Cuenca](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzZ3UUpoVXRCNE84X3FobElnWFlaTk05Z252R3R6aU5qNVNHX3dmdVl0WU1qeC02dW0teEhCY0kzX29RamZjMk84QzVFQUlaZUNhUXdOdE11cXlxSXZPWVY5U3ZxdnN0aHdqS3Z2dTBmSXItUWs5N1pZVUZ5eTdIRTM3Uk14bi0wRkFNNHRSUU5KZ1RwMFE?oc=5)
+### [Parkinson, la enfermedad neurodegenerativa después del Alzheimer - UDG TV](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxhMU01YlNyU0N1dGM3cEJYUDNpLUhibEJHWDMxbVE2b3M3aVljTFFrSTFGUjl5THQwWUlZZ090TDIySDY1c3VMNWxmUlp3TE11THNBOVNUSzhSM25Hd3haSG9BYUMtbVJ6V0R2NWdWRHhLQTdtY01vUW4tQmFWS1AzSHN5NXF6NzdXMjJ5QXFvWkttaTgya1VpWFhaRENUNlk5bUFqcw?oc=5)
 
 2026-04-25 <span class="news-indication-tag">MS</span>
 
-來源：[Las Noticias de Cuenca](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzZ3UUpoVXRCNE84X3FobElnWFlaTk05Z252R3R6aU5qNVNHX3dmdVl0WU1qeC02dW0teEhCY0kzX29RamZjMk84QzVFQUlaZUNhUXdOdE11cXlxSXZPWVY5U3ZxdnN0aHdqS3Z2dTBmSXItUWs5N1pZVUZ5eTdIRTM3Uk14bi0wRkFNNHRSUU5KZ1RwMFE?oc=5)
+來源：[UDG TV](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxhMU01YlNyU0N1dGM3cEJYUDNpLUhibEJHWDMxbVE2b3M3aVljTFFrSTFGUjl5THQwWUlZZ090TDIySDY1c3VMNWxmUlp3TE11THNBOVNUSzhSM25Hd3haSG9BYUMtbVJ6V0R2NWdWRHhLQTdtY01vUW4tQmFWS1AzSHN5NXF6NzdXMjJ5QXFvWkttaTgya1VpWFhaRENUNlk5bUFqcw?oc=5)
+
+---
+
+### [Venus and the Plejades - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWNFR0FDZzhGa3A3ZUJSMGZSazIwTTV2d3RRbHhwNlU1Vk1jQlhSR0Z4TWhJdWUxdjI1UGRMZTVuQVFvNHNNdW9yUjI2NzU0WUJOSlNjR0NyNm9QNXdGdWhVM0hWQVFSNjFkbWR2Tks4emNHSzV1eVBZZDRTZG8yNmlTckZGX1E?oc=5)
+
+2026-04-25 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWNFR0FDZzhGa3A3ZUJSMGZSazIwTTV2d3RRbHhwNlU1Vk1jQlhSR0Z4TWhJdWUxdjI1UGRMZTVuQVFvNHNNdW9yUjI2NzU0WUJOSlNjR0NyNm9QNXdGdWhVM0hWQVFSNjFkbWR2Tks4emNHSzV1eVBZZDRTZG8yNmlTckZGX1E?oc=5)
 
 ---
 
@@ -110,11 +134,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Venus and the Plejades - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWNFR0FDZzhGa3A3ZUJSMGZSazIwTTV2d3RRbHhwNlU1Vk1jQlhSR0Z4TWhJdWUxdjI1UGRMZTVuQVFvNHNNdW9yUjI2NzU0WUJOSlNjR0NyNm9QNXdGdWhVM0hWQVFSNjFkbWR2Tks4emNHSzV1eVBZZDRTZG8yNmlTckZGX1E?oc=5)
+### [Contre le paludisme, "plus de 10 millions d'enfants" vaccinés en Afrique, cinq ans après le lancement de la campagne par l'OMS](https://news.google.com/rss/articles/CBMihgJBVV95cUxQYjBwVmhIajdlTnlqM3ZJUGpqSHF4Wi00WXJPNE9IdFJ6dUZIUG1DM1Y5Q3IzR1V1MkMtOU1mODhubHhFNDlQc3BpS05OWDRtaDgyRktwelFlVWdXcDd0UEJYNmVESTRlWVBWUGhEOHFZWHFGQjlYX2dGWVQ3ZTJzTXZMWGswNFdtQ05CQ3dTVDc5Zlp2ZkIzVGJ2UlI5aGxnUFdZN21fOFNQcXpkS2N3LWNQOWxwMC1LLW1mRWdVcjQ4cmxBU2VsZVZtZXN5dHAwSXhLYnYxYklUeDdZak5PZ1liQ2ZRUFRLczc2Qk1QTk1wdEd3Y3AtclNJQ3JrSHpnakVvT0h3?oc=5)
 
-2026-04-25 <span class="news-indication-tag">AF</span>
+2026-04-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWNFR0FDZzhGa3A3ZUJSMGZSazIwTTV2d3RRbHhwNlU1Vk1jQlhSR0Z4TWhJdWUxdjI1UGRMZTVuQVFvNHNNdW9yUjI2NzU0WUJOSlNjR0NyNm9QNXdGdWhVM0hWQVFSNjFkbWR2Tks4emNHSzV1eVBZZDRTZG8yNmlTckZGX1E?oc=5) · [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTItYk81T2RMSnJ2a0lDVHpTQmxQVWRnem5YNHBRZjNwaERtMVFFTzQ2WVdXU1k0VnRoVVkwYlBpN3ZIV29nYnUtZEVZMVR2bjIwYkVEbFhyUjFUNFBzeXF5YVVucXNuTEdQeUo5MV9UenlIeThHdGMwbDdTb20xd1JWYnBiOFdZYVlWR2FUZkVEMy1hUG5jdTZtZUxsNnRkZkE?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMihgJBVV95cUxQYjBwVmhIajdlTnlqM3ZJUGpqSHF4Wi00WXJPNE9IdFJ6dUZIUG1DM1Y5Q3IzR1V1MkMtOU1mODhubHhFNDlQc3BpS05OWDRtaDgyRktwelFlVWdXcDd0UEJYNmVESTRlWVBWUGhEOHFZWHFGQjlYX2dGWVQ3ZTJzTXZMWGswNFdtQ05CQ3dTVDc5Zlp2ZkIzVGJ2UlI5aGxnUFdZN21fOFNQcXpkS2N3LWNQOWxwMC1LLW1mRWdVcjQ4cmxBU2VsZVZtZXN5dHAwSXhLYnYxYklUeDdZak5PZ1liQ2ZRUFRLczc2Qk1QTk1wdEd3Y3AtclNJQ3JrSHpnakVvT0h3?oc=5)
 
 ---
 
@@ -142,11 +166,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Targeting lost pleasure lifts depression and anxiety more than standard therapy, new study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDEtVU91RmhSRUtZRVVVZjRrQ2VBUW5BQUV4Zk1XbmlqZzljNGxjbmdRWG5uWkFyUE1CcVl6SGxkUHI1cU12T2JpRWFCQ0dhelhOWU82amFsWE14TzF6Nk9UdjJLNjlhNGhkdGJ0QWRUaWlFbkpzWFI5cmhDQm1PR2s3RDRBR3BUd0dDeGpB?oc=5)
+### [La caída del pelo, la gran obsesión estética de hombres y mujeres](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzBkbHgtWEhOY3FrU2dpc1Rpa19FX3BadVZISkJVVXZsanB6c1czaDF1UEF4cmg0WVZJcTZpVzlRX2stUS1STU5pYmFSTXJBMU8yZW54anhHamYxUDRuMDZ1ckRrX1p3LTJua0pMQ1JaMHRZUzlfaFZHWW5td1FRc2lBaEw2Vm82UDk1bnpRbnVqTnl5S2psWHNDV0FRRjZwMEh3OWRnMThWM0NQTXhIanNJYTRROUFYdFhUalBB0gHDAUFVX3lxTE1sejRyNUgtbUNDbG1Nc1ZseDN2bnVReFZQRGQ0a09pWUZNdmFNZ2dKQVpLT0lmNDMtaTc0dGh0SHFzS195QzRONHFvZkVMZ3AzREtIaUVYRlE3SC1kLURpcTNib2oyemZ3RElsOXlpeEYyTU04Rnh0UFBNWjNiWU0yeldPQkd5UW9pR3A4enhMb205cjdLVk5sdjBKRGJ1WDRJVzd1T3NYY3BScjdLakhYelpkN2lDbG10MFBFa0xYMkRlOA?oc=5)
 
-2026-04-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-04-24 <span class="news-indication-tag">MS</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDEtVU91RmhSRUtZRVVVZjRrQ2VBUW5BQUV4Zk1XbmlqZzljNGxjbmdRWG5uWkFyUE1CcVl6SGxkUHI1cU12T2JpRWFCQ0dhelhOWU82amFsWE14TzF6Nk9UdjJLNjlhNGhkdGJ0QWRUaWlFbkpzWFI5cmhDQm1PR2s3RDRBR3BUd0dDeGpB?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzBkbHgtWEhOY3FrU2dpc1Rpa19FX3BadVZISkJVVXZsanB6c1czaDF1UEF4cmg0WVZJcTZpVzlRX2stUS1STU5pYmFSTXJBMU8yZW54anhHamYxUDRuMDZ1ckRrX1p3LTJua0pMQ1JaMHRZUzlfaFZHWW5td1FRc2lBaEw2Vm82UDk1bnpRbnVqTnl5S2psWHNDV0FRRjZwMEh3OWRnMThWM0NQTXhIanNJYTRROUFYdFhUalBB0gHDAUFVX3lxTE1sejRyNUgtbUNDbG1Nc1ZseDN2bnVReFZQRGQ0a09pWUZNdmFNZ2dKQVpLT0lmNDMtaTc0dGh0SHFzS195QzRONHFvZkVMZ3AzREtIaUVYRlE3SC1kLURpcTNib2oyemZ3RElsOXlpeEYyTU04Rnh0UFBNWjNiWU0yeldPQkd5UW9pR3A4enhMb205cjdLVk5sdjBKRGJ1WDRJVzd1T3NYY3BScjdLakhYelpkN2lDbG10MFBFa0xYMkRlOA?oc=5)
 
 ---
 
@@ -158,11 +182,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Les coupes dans l'aide américaine menacent des "dizaines de milliers de vies d'enfants" face au paludisme](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFF3a2pLb0R3ZEVadi1kTF9pN01WU2pkbHZZZTJWb1ZMaFNXN0FxRjhlZy1tcjhpX2p1ZFZhdGNYby03d3NQMDRaSVpFV1p6cnpHeS1ZaklEMTB5MXI2bGozTGxveVdka0NjcTBQYVZFelRKeEk1N1ppNmFsUTkzbS1KUm53R1NNcGprZUVXbW5CTGd3WWtmbVI1RlluT2MxcUhONmtXRU5UZXlNWjRxX2VGN0JHTHdRTTJsN2dhRlZWMVBMdGhYNk1kQzQxZkYybE9SQi1Pc3pYWVIyYWpMdUJIYlB5d2JYU3Uydw?oc=5)
+### [Santé: un autre échec du trumpisme [L’éditorial de CL] - Charente Libre](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZpZ3JyU1c1TlI1MXQtUXV4U1dvT0IwODZnbGJOVU9hU1RPak1USU5YY0paUUFOZlNjQjBEOWd1RXdFTVVoaGFaTWR4RFBpWTBhOW9PWmJoSWdYX0ZDb28wNW5ibzRVRmRvSU16bUI1dTh0QW5xeS12Q3R1SC0zQjQxUUJoTDM3Rk9YUUtFWDFWYlF0SnJ0MmJ0U2ZoV0xCMm10ZDJZSXMyYVJFQjkzWVgzNS1CNmNEZDZCY05vSEJlNS1zQlNFRVVUZEY1ZWN1blg4cUQ2QUhYd2xvdFd5NGxB?oc=5)
 
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-24 <span class="news-indication-tag">MS</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFF3a2pLb0R3ZEVadi1kTF9pN01WU2pkbHZZZTJWb1ZMaFNXN0FxRjhlZy1tcjhpX2p1ZFZhdGNYby03d3NQMDRaSVpFV1p6cnpHeS1ZaklEMTB5MXI2bGozTGxveVdka0NjcTBQYVZFelRKeEk1N1ppNmFsUTkzbS1KUm53R1NNcGprZUVXbW5CTGd3WWtmbVI1RlluT2MxcUhONmtXRU5UZXlNWjRxX2VGN0JHTHdRTTJsN2dhRlZWMVBMdGhYNk1kQzQxZkYybE9SQi1Pc3pYWVIyYWpMdUJIYlB5d2JYU3Uydw?oc=5)
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZpZ3JyU1c1TlI1MXQtUXV4U1dvT0IwODZnbGJOVU9hU1RPak1USU5YY0paUUFOZlNjQjBEOWd1RXdFTVVoaGFaTWR4RFBpWTBhOW9PWmJoSWdYX0ZDb28wNW5ibzRVRmRvSU16bUI1dTh0QW5xeS12Q3R1SC0zQjQxUUJoTDM3Rk9YUUtFWDFWYlF0SnJ0MmJ0U2ZoV0xCMm10ZDJZSXMyYVJFQjkzWVgzNS1CNmNEZDZCY05vSEJlNS1zQlNFRVVUZEY1ZWN1blg4cUQ2QUhYd2xvdFd5NGxB?oc=5)
 
 ---
 
@@ -203,14 +227,6 @@ permalink: /news/loxapine/
 2026-04-24 <span class="news-indication-tag">AF</span>
 
 來源：[News.de](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT0xZUE13dk1CSktzUXlQMXQxRWpacTZfR1dfZ01IX1lUdnpPMFJxSEZtZkZLaTlPQlBJTzBWeFE2d3ppYVZ6VHlyOVMtaE9Md1Z2RzV5ZmJRTGJrMUFMM2NzeU9DUU5DY1FrNk5SQnBIT3JyOW4xOVpnbHJuSkhvM3FQa2Rxc0RmQThmc0FSM1VOX2JBejlFUFNIbGZRbkZuMUNwaklUZ1U3VHRkX3U5THhpX1pIc2I4Z3FWenY5V2lVTFY0RUU4eU94d2JQclpuN0tfR3JDVFRNZGNPalN0UTRMZjRHRWJDaGtBVTFESDlyeS1IQXdF0gH8AUFVX3lxTE9vcXljNnBiTnJ5Y2VST2pRa0VITU80cW1ycVJobjQybGtoY0tDT29HMDBzc1ZOTnFyWC1QMzhuMnJ2VW5CS3VxRE9Na2lhN1pvblhCMnRad0VPUTRzTVdqQ2ZEbGNDWlFvYXJQNm9BLWVCUlBweUVnTE0xVTJSUnljNFFnT2FjdjdLb1RPd3d0ak1Hb01tYjhKWmVka0YyVUtPa2ZrUmdOaFpybkV4Y2Qzd29Ga1BoUE1DWDFXejJtZmxvYU9zbThIZWV5Y0diR0VrbFlDS3diNXVxZVZCVlR0akRUYzRsX0k0ZVh0SDNsSXoteFB3SURFell2OA?oc=5)
-
----
-
-### [BBC doctor issues 'little-known' warning to anyone taking common hay fever tablet - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxObVc2RDNWWURxeTJkVkhvOUgteWVmOThqdTMwTmxaQl9WTHJkU2lsdnJtVDA2Mll2NjJxZHRXU3VWRUhsQUpXZGVOMkpjU0JaODBvaXQ5akplOXZwQ2xIbjdmLWY3SlhJWndINFA1TWxpbmxhbE9iV2J1WnMzel9SNlNR0gGHAUFVX3lxTE1XS0pUS3pTSDAwRW5SNWQ3NjlEM2VuT19GaWZqOE9UQUh4STZOdktZazJVaWlnT3hKc0VNc2lTYkZjNTZxRVE1aTA1VkpXYjE3R2NCOG1mcEdwcTVUbXFtNTF3QXhiMDZnN2J2ZWdGR0ZOVnRnMWxpRm9XdldFWW5FSUJ1UXc3TQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxObVc2RDNWWURxeTJkVkhvOUgteWVmOThqdTMwTmxaQl9WTHJkU2lsdnJtVDA2Mll2NjJxZHRXU3VWRUhsQUpXZGVOMkpjU0JaODBvaXQ5akplOXZwQ2xIbjdmLWY3SlhJWndINFA1TWxpbmxhbE9iV2J1WnMzel9SNlNR0gGHAUFVX3lxTE1XS0pUS3pTSDAwRW5SNWQ3NjlEM2VuT19GaWZqOE9UQUh4STZOdktZazJVaWlnT3hKc0VNc2lTYkZjNTZxRVE1aTA1VkpXYjE3R2NCOG1mcEdwcTVUbXFtNTF3QXhiMDZnN2J2ZWdGR0ZOVnRnMWxpRm9XdldFWW5FSUJ1UXc3TQ?oc=5)
 
 ---
 
@@ -262,27 +278,11 @@ permalink: /news/loxapine/
 
 ---
 
-### [Woman with MS 'spat at' for using Blue Badge](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRdndNYnF0TlFMdzdvY1ZnNnZWXzFzRWtnb28zY19DZGo2WERTZmdDTXRId2tIOFV5MkFKYnctcHRuSDhnSFRIeFNZR1RscWs0Yy15R2p6NnpyeDRO?oc=5)
+### [Sonia Lucena, psiconutricionista: “Estos son los problemas que puede provocar el exceso de magnesio” - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
 
-2026-04-24 <span class="news-indication-tag">MS</span>
+2026-04-24 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRdndNYnF0TlFMdzdvY1ZnNnZWXzFzRWtnb28zY19DZGo2WERTZmdDTXRId2tIOFV5MkFKYnctcHRuSDhnSFRIeFNZR1RscWs0Yy15R2p6NnpyeDRO?oc=5)
-
----
-
-### [Ce mystérieux virus apparu en Afrique tue dans 80% des cas](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDJUNjFiZUIxZGlhamhxaXRveC1JczRuVlBCUXVTSGFkTTRoQnBNOTRick5SbFQyVjRvb0JpaHB2MHByZVdIeW1pQjFjM3lzWlhndzhVVWUtcGYxU2pTcHVkM01lZktEaFNWRV9vdWswenFPVGJZTHlsLThfcTFab2M0cURZbUZQNENWSkJGeUc3ZWFwTGRqMnRQcEIzcGMzUFBIMw?oc=5)
-
-2026-04-24 <span class="news-indication-tag">AF</span>
-
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDJUNjFiZUIxZGlhamhxaXRveC1JczRuVlBCUXVTSGFkTTRoQnBNOTRick5SbFQyVjRvb0JpaHB2MHByZVdIeW1pQjFjM3lzWlhndzhVVWUtcGYxU2pTcHVkM01lZktEaFNWRV9vdWswenFPVGJZTHlsLThfcTFab2M0cURZbUZQNENWSkJGeUc3ZWFwTGRqMnRQcEIzcGMzUFBIMw?oc=5)
-
----
-
-### [Women, testosterone and libido — what you need to know - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
 
 ---
 

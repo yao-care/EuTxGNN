@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Schlaganfallrisiko: In dieser Altersgruppe nach einem Infekt fast dreimal so hoch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2lXck5Ed2NTaUtNVXlhOFZMeW1QSjI4bFltZTVacWFXal9lRjVDTEF1NTBiZjFWNUFqZXU0TEhWYVpXMjlzSUF5a1NkOFY2cDBjUUd5LWFyTUdPUTlEQVNnRTJMLVZ1THdFUjZxeW1mdENiLXdPRVRHN0lVTnBIa0dHamY4SlNPQ1Y3NXA4US1LR29qYjhwRTAzRy01OUxncjRveThNNVY1R1lSeGdrUjkxSjJ6ZXNqbkZhZVhnOTZFQQ?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Neuropsicóloga, sobre cómo puede ayudar la familia en la recuperación de un ictus: "Hay una reconstrucción de la identidad"](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmR4RWR4NUZ0QnlYUUMwbFREb2R4TmJEVy0wUnFHSFhDTjc2eEhyMnNEV3JDbm9oczJHMzh1RTRGOUZRRXZGRVZkcWVCQzhJanFMa0NiSkJwVC1SdkxTaWd2eVk3QlgzLVh4VFhGVHcySHNYekpabldBR2ZVeGVyZDdWbVMwdktFd185bHRnNFZ6cl9pTHRnTVQ3UnUyYVk2Qm5KYzRyc3pCQ2t0ZXRrdXg1NGwtdWg3X3FQN3BYNmtiYVQyTEltcVZ5SVJ4MGNRUFhIVkZjN2hSZHk0RzZTMw?oc=5)
+### [Un vaccino sperimentale contro il tumore al pancreas - Il Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDAzMDJvb3hzVGFaRklKXzhrWEJudnAyYnNJczhGSHZUaldOei00cEZCbGdWLWdmLU5Kc0lybkxxSlRjY1NwdUctbzZHWnh4V1E3Q3Y3VFBGZDY5emdHTjc1QmFlOW1Ob041ZG9TWnJqUWJtV2wyczh6OF91ZXlucmY5b0VPWUt3UFZSbWNIcFZ1RGozNWpER0xVUXFQWUZfVkVYTGFCb3k?oc=5)
 
-2026-04-24 <span class="news-indication-tag">ictus</span>
+2026-04-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">CVA</span>
 
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmR4RWR4NUZ0QnlYUUMwbFREb2R4TmJEVy0wUnFHSFhDTjc2eEhyMnNEV3JDbm9oczJHMzh1RTRGOUZRRXZGRVZkcWVCQzhJanFMa0NiSkJwVC1SdkxTaWd2eVk3QlgzLVh4VFhGVHcySHNYekpabldBR2ZVeGVyZDdWbVMwdktFd185bHRnNFZ6cl9pTHRnTVQ3UnUyYVk2Qm5KYzRyc3pCQ2t0ZXRrdXg1NGwtdWg3X3FQN3BYNmtiYVQyTEltcVZ5SVJ4MGNRUFhIVkZjN2hSZHk0RzZTMw?oc=5)
-
----
-
-### [New three-in-one blood pressure pill cuts stroke risk by almost 40% - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
-
-2026-04-24 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
-
----
-
-### [GMRx2: Neue Hoffnung für Schlaganfallpatienten - it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
-
-2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDAzMDJvb3hzVGFaRklKXzhrWEJudnAyYnNJczhGSHZUaldOei00cEZCbGdWLWdmLU5Kc0lybkxxSlRjY1NwdUctbzZHWnh4V1E3Q3Y3VFBGZDY5emdHTjc1QmFlOW1Ob041ZG9TWnJqUWJtV2wyczh6OF91ZXlucmY5b0VPWUt3UFZSbWNIcFZ1RGozNWpER0xVUXFQWUZfVkVYTGFCb3k?oc=5)
 
 ---
 

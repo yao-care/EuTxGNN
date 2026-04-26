@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ketoconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/ketoconazole/
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Sonia Lucena, psiconutricionista: “Estos son los problemas que puede provocar el exceso de magnesio” - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
+
+2026-04-24 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
+
+---
 
 
 <div class="disclaimer">

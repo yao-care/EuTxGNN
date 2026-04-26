@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
+
+### [«La oncología de precisión ha llegado al cáncer de páncreas»](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVZiWllQcWpfYjBuSkZRY00xQnVhR0NBdkR3N2dYNjRBVzZ1TFBpTTVIUTlhbFRZcXJNNjJMTDBURFVEN3JRX1JBb19WX190SW5URS1ldlNrb2FZTEhDWTM5cTM1U3ZLbUpmYTlRVWpYclRZUkwxRFFOQUc2YTd1VXVDTVZucXNVMEpCVDRnLXRtbTJWeW0zRGVQNGdQMl9qekhFWjVlOHRjUFdfTm41X09B?oc=5)
+
+2026-04-26 <span class="news-indication-tag">MS</span>
+
+來源：[Segre.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVZiWllQcWpfYjBuSkZRY00xQnVhR0NBdkR3N2dYNjRBVzZ1TFBpTTVIUTlhbFRZcXJNNjJMTDBURFVEN3JRX1JBb19WX190SW5URS1ldlNrb2FZTEhDWTM5cTM1U3ZLbUpmYTlRVWpYclRZUkwxRFFOQUc2YTd1VXVDTVZucXNVMEpCVDRnLXRtbTJWeW0zRGVQNGdQMl9qekhFWjVlOHRjUFdfTm41X09B?oc=5)
+
+---
 
 ### [Surgeon names 5 things to avoid to live longer — alcohol not on the list - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [De Cuenca a Kinkala: una red solidaria frente a la malaria - Las Noticias de Cuenca](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzZ3UUpoVXRCNE84X3FobElnWFlaTk05Z252R3R6aU5qNVNHX3dmdVl0WU1qeC02dW0teEhCY0kzX29RamZjMk84QzVFQUlaZUNhUXdOdE11cXlxSXZPWVY5U3ZxdnN0aHdqS3Z2dTBmSXItUWs5N1pZVUZ5eTdIRTM3Uk14bi0wRkFNNHRSUU5KZ1RwMFE?oc=5)
+### [Parkinson, la enfermedad neurodegenerativa después del Alzheimer - UDG TV](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxhMU01YlNyU0N1dGM3cEJYUDNpLUhibEJHWDMxbVE2b3M3aVljTFFrSTFGUjl5THQwWUlZZ090TDIySDY1c3VMNWxmUlp3TE11THNBOVNUSzhSM25Hd3haSG9BYUMtbVJ6V0R2NWdWRHhLQTdtY01vUW4tQmFWS1AzSHN5NXF6NzdXMjJ5QXFvWkttaTgya1VpWFhaRENUNlk5bUFqcw?oc=5)
 
 2026-04-25 <span class="news-indication-tag">MS</span>
 
-來源：[Las Noticias de Cuenca](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzZ3UUpoVXRCNE84X3FobElnWFlaTk05Z252R3R6aU5qNVNHX3dmdVl0WU1qeC02dW0teEhCY0kzX29RamZjMk84QzVFQUlaZUNhUXdOdE11cXlxSXZPWVY5U3ZxdnN0aHdqS3Z2dTBmSXItUWs5N1pZVUZ5eTdIRTM3Uk14bi0wRkFNNHRSUU5KZ1RwMFE?oc=5)
+來源：[UDG TV](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxhMU01YlNyU0N1dGM3cEJYUDNpLUhibEJHWDMxbVE2b3M3aVljTFFrSTFGUjl5THQwWUlZZ090TDIySDY1c3VMNWxmUlp3TE11THNBOVNUSzhSM25Hd3haSG9BYUMtbVJ6V0R2NWdWRHhLQTdtY01vUW4tQmFWS1AzSHN5NXF6NzdXMjJ5QXFvWkttaTgya1VpWFhaRENUNlk5bUFqcw?oc=5)
 
 ---
 
@@ -86,6 +94,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Contre le paludisme, "plus de 10 millions d'enfants" vaccinés en Afrique, cinq ans après le lancement de la campagne par l'OMS](https://news.google.com/rss/articles/CBMihgJBVV95cUxQYjBwVmhIajdlTnlqM3ZJUGpqSHF4Wi00WXJPNE9IdFJ6dUZIUG1DM1Y5Q3IzR1V1MkMtOU1mODhubHhFNDlQc3BpS05OWDRtaDgyRktwelFlVWdXcDd0UEJYNmVESTRlWVBWUGhEOHFZWHFGQjlYX2dGWVQ3ZTJzTXZMWGswNFdtQ05CQ3dTVDc5Zlp2ZkIzVGJ2UlI5aGxnUFdZN21fOFNQcXpkS2N3LWNQOWxwMC1LLW1mRWdVcjQ4cmxBU2VsZVZtZXN5dHAwSXhLYnYxYklUeDdZak5PZ1liQ2ZRUFRLczc2Qk1QTk1wdEd3Y3AtclNJQ3JrSHpnakVvT0h3?oc=5)
+
+2026-04-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMihgJBVV95cUxQYjBwVmhIajdlTnlqM3ZJUGpqSHF4Wi00WXJPNE9IdFJ6dUZIUG1DM1Y5Q3IzR1V1MkMtOU1mODhubHhFNDlQc3BpS05OWDRtaDgyRktwelFlVWdXcDd0UEJYNmVESTRlWVBWUGhEOHFZWHFGQjlYX2dGWVQ3ZTJzTXZMWGswNFdtQ05CQ3dTVDc5Zlp2ZkIzVGJ2UlI5aGxnUFdZN21fOFNQcXpkS2N3LWNQOWxwMC1LLW1mRWdVcjQ4cmxBU2VsZVZtZXN5dHAwSXhLYnYxYklUeDdZak5PZ1liQ2ZRUFRLczc2Qk1QTk1wdEd3Y3AtclNJQ3JrSHpnakVvT0h3?oc=5)
+
+---
+
 ### [Las frutas y vegetales podrían estar vinculados con el riesgo de cáncer de pulmón en los no fumadores - Gizmodo en Español](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUxudlZSVnVUVnBZUHRIdG1KX3I0S2NEY0pNZlhONWg3dGFWOVhNRDJRVEFSaDZkNEtXTFhvTmdWa19saW1rNmNVRld5M3dFYTZYUXJQTFFzbnUyRVA2aThMSFhkLW80eExtVy1tdkNoX1dTX0RrUmU5eEhRSm80YXNGX1d4c2ktUGdiSExWcW1yRGg0TnRTTDFtQUxPN0x4N0hLelU1VG1YQllIdjQ3ZnNhUTNhbTFReTVET2pFOWJNaXJ4SG9QWEktbm5uOXNv?oc=5)
 
 2026-04-25 <span class="news-indication-tag">MS</span>
@@ -94,11 +110,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Les coupes dans l'aide américaine menacent des "dizaines de milliers de vies d'enfants" face au paludisme](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFF3a2pLb0R3ZEVadi1kTF9pN01WU2pkbHZZZTJWb1ZMaFNXN0FxRjhlZy1tcjhpX2p1ZFZhdGNYby03d3NQMDRaSVpFV1p6cnpHeS1ZaklEMTB5MXI2bGozTGxveVdka0NjcTBQYVZFelRKeEk1N1ppNmFsUTkzbS1KUm53R1NNcGprZUVXbW5CTGd3WWtmbVI1RlluT2MxcUhONmtXRU5UZXlNWjRxX2VGN0JHTHdRTTJsN2dhRlZWMVBMdGhYNk1kQzQxZkYybE9SQi1Pc3pYWVIyYWpMdUJIYlB5d2JYU3Uydw?oc=5)
+### [La caída del pelo, la gran obsesión estética de hombres y mujeres](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzBkbHgtWEhOY3FrU2dpc1Rpa19FX3BadVZISkJVVXZsanB6c1czaDF1UEF4cmg0WVZJcTZpVzlRX2stUS1STU5pYmFSTXJBMU8yZW54anhHamYxUDRuMDZ1ckRrX1p3LTJua0pMQ1JaMHRZUzlfaFZHWW5td1FRc2lBaEw2Vm82UDk1bnpRbnVqTnl5S2psWHNDV0FRRjZwMEh3OWRnMThWM0NQTXhIanNJYTRROUFYdFhUalBB0gHDAUFVX3lxTE1sejRyNUgtbUNDbG1Nc1ZseDN2bnVReFZQRGQ0a09pWUZNdmFNZ2dKQVpLT0lmNDMtaTc0dGh0SHFzS195QzRONHFvZkVMZ3AzREtIaUVYRlE3SC1kLURpcTNib2oyemZ3RElsOXlpeEYyTU04Rnh0UFBNWjNiWU0yeldPQkd5UW9pR3A4enhMb205cjdLVk5sdjBKRGJ1WDRJVzd1T3NYY3BScjdLakhYelpkN2lDbG10MFBFa0xYMkRlOA?oc=5)
 
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-24 <span class="news-indication-tag">MS</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFF3a2pLb0R3ZEVadi1kTF9pN01WU2pkbHZZZTJWb1ZMaFNXN0FxRjhlZy1tcjhpX2p1ZFZhdGNYby03d3NQMDRaSVpFV1p6cnpHeS1ZaklEMTB5MXI2bGozTGxveVdka0NjcTBQYVZFelRKeEk1N1ppNmFsUTkzbS1KUm53R1NNcGprZUVXbW5CTGd3WWtmbVI1RlluT2MxcUhONmtXRU5UZXlNWjRxX2VGN0JHTHdRTTJsN2dhRlZWMVBMdGhYNk1kQzQxZkYybE9SQi1Pc3pYWVIyYWpMdUJIYlB5d2JYU3Uydw?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzBkbHgtWEhOY3FrU2dpc1Rpa19FX3BadVZISkJVVXZsanB6c1czaDF1UEF4cmg0WVZJcTZpVzlRX2stUS1STU5pYmFSTXJBMU8yZW54anhHamYxUDRuMDZ1ckRrX1p3LTJua0pMQ1JaMHRZUzlfaFZHWW5td1FRc2lBaEw2Vm82UDk1bnpRbnVqTnl5S2psWHNDV0FRRjZwMEh3OWRnMThWM0NQTXhIanNJYTRROUFYdFhUalBB0gHDAUFVX3lxTE1sejRyNUgtbUNDbG1Nc1ZseDN2bnVReFZQRGQ0a09pWUZNdmFNZ2dKQVpLT0lmNDMtaTc0dGh0SHFzS195QzRONHFvZkVMZ3AzREtIaUVYRlE3SC1kLURpcTNib2oyemZ3RElsOXlpeEYyTU04Rnh0UFBNWjNiWU0yeldPQkd5UW9pR3A4enhMb205cjdLVk5sdjBKRGJ1WDRJVzd1T3NYY3BScjdLakhYelpkN2lDbG10MFBFa0xYMkRlOA?oc=5)
+
+---
+
+### [Santé: un autre échec du trumpisme [L’éditorial de CL] - Charente Libre](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZpZ3JyU1c1TlI1MXQtUXV4U1dvT0IwODZnbGJOVU9hU1RPak1USU5YY0paUUFOZlNjQjBEOWd1RXdFTVVoaGFaTWR4RFBpWTBhOW9PWmJoSWdYX0ZDb28wNW5ibzRVRmRvSU16bUI1dTh0QW5xeS12Q3R1SC0zQjQxUUJoTDM3Rk9YUUtFWDFWYlF0SnJ0MmJ0U2ZoV0xCMm10ZDJZSXMyYVJFQjkzWVgzNS1CNmNEZDZCY05vSEJlNS1zQlNFRVVUZEY1ZWN1blg4cUQ2QUhYd2xvdFd5NGxB?oc=5)
+
+2026-04-24 <span class="news-indication-tag">MS</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZpZ3JyU1c1TlI1MXQtUXV4U1dvT0IwODZnbGJOVU9hU1RPak1USU5YY0paUUFOZlNjQjBEOWd1RXdFTVVoaGFaTWR4RFBpWTBhOW9PWmJoSWdYX0ZDb28wNW5ibzRVRmRvSU16bUI1dTh0QW5xeS12Q3R1SC0zQjQxUUJoTDM3Rk9YUUtFWDFWYlF0SnJ0MmJ0U2ZoV0xCMm10ZDJZSXMyYVJFQjkzWVgzNS1CNmNEZDZCY05vSEJlNS1zQlNFRVVUZEY1ZWN1blg4cUQ2QUhYd2xvdFd5NGxB?oc=5)
 
 ---
 
@@ -118,14 +142,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [BBC doctor issues 'little-known' warning to anyone taking common hay fever tablet - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxObVc2RDNWWURxeTJkVkhvOUgteWVmOThqdTMwTmxaQl9WTHJkU2lsdnJtVDA2Mll2NjJxZHRXU3VWRUhsQUpXZGVOMkpjU0JaODBvaXQ5akplOXZwQ2xIbjdmLWY3SlhJWndINFA1TWxpbmxhbE9iV2J1WnMzel9SNlNR0gGHAUFVX3lxTE1XS0pUS3pTSDAwRW5SNWQ3NjlEM2VuT19GaWZqOE9UQUh4STZOdktZazJVaWlnT3hKc0VNc2lTYkZjNTZxRVE1aTA1VkpXYjE3R2NCOG1mcEdwcTVUbXFtNTF3QXhiMDZnN2J2ZWdGR0ZOVnRnMWxpRm9XdldFWW5FSUJ1UXc3TQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxObVc2RDNWWURxeTJkVkhvOUgteWVmOThqdTMwTmxaQl9WTHJkU2lsdnJtVDA2Mll2NjJxZHRXU3VWRUhsQUpXZGVOMkpjU0JaODBvaXQ5akplOXZwQ2xIbjdmLWY3SlhJWndINFA1TWxpbmxhbE9iV2J1WnMzel9SNlNR0gGHAUFVX3lxTE1XS0pUS3pTSDAwRW5SNWQ3NjlEM2VuT19GaWZqOE9UQUh4STZOdktZazJVaWlnT3hKc0VNc2lTYkZjNTZxRVE1aTA1VkpXYjE3R2NCOG1mcEdwcTVUbXFtNTF3QXhiMDZnN2J2ZWdGR0ZOVnRnMWxpRm9XdldFWW5FSUJ1UXc3TQ?oc=5)
-
----
-
 ### [La campaña para poner al día la vacunación infantil va por buen camino, dice la ONU - France 24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDFrVzFVUzgzMHowWXlJQU1EUnp2dGhsZERfbWprSDdCc2hSazNsSmJUYkVsS1dXemF2NVg1UGJ0NE9kSzZwTUtMT0hTanE1QlFaTlpxb1YweEVGMUY5WUZKc1FJd0RhMVBIR0VMRkNvaXkyUy1maHFzLUpMY1VrbGxqN1g2ZExUWUxJTTNsajloLVJydWk0eE1Mdkk1TXhXd3dOYjJ3YVFWbUlNMngxdzVWcDhfZE4zMEFjMzFiUGFGdFc2SDRNckJZc01IUkQ0ejR0YkFIekszRld5bGxhUFVSc3E?oc=5)
 
 2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -134,19 +150,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Woman with MS 'spat at' for using Blue Badge](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRdndNYnF0TlFMdzdvY1ZnNnZWXzFzRWtnb28zY19DZGo2WERTZmdDTXRId2tIOFV5MkFKYnctcHRuSDhnSFRIeFNZR1RscWs0Yy15R2p6NnpyeDRO?oc=5)
+### [Sonia Lucena, psiconutricionista: “Estos son los problemas que puede provocar el exceso de magnesio” - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
 
-2026-04-24 <span class="news-indication-tag">MS</span>
+2026-04-24 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRdndNYnF0TlFMdzdvY1ZnNnZWXzFzRWtnb28zY19DZGo2WERTZmdDTXRId2tIOFV5MkFKYnctcHRuSDhnSFRIeFNZR1RscWs0Yy15R2p6NnpyeDRO?oc=5)
-
----
-
-### [Women, testosterone and libido — what you need to know - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
-
-2026-04-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm00N0dxM1Rta3Fva3Z5RVpSSXp0Y05oQ2ZNMEg0a3NrZmhHVksxSE45a3g4dkt3OXkyQW9ER3hrbzNqY2FnS2tJU2tBZ3FnSnlJZXJnRXRfWmVIWEVMTHl5aTlvdDdCNUhuZExMQVF0Q2VHRmhhQVBVR0ZFWWhjSnRyQ283em54VnJIMEpIWm9zdlM3TlNHYW02NS1qeU5fTXpzOG9PRlZpa1A0UHpFeHdFZkgxUFMyckpFcQ?oc=5)
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGNvaHI0VzMyMHJ6X3p6Vm1JTU9jRU5LeEp1RzEwaEtFNm10LWhfRDVSbWhFYVZiaWJwamZpVnAtRHFDcG1QdERLNjdhTjBZOW5tVnBLZS1jWFdwOWVoRVdkMHBkbDdlUC1KWFh6R2E1V0pZV1RVQ2QtcEo2eGI0bk9fZ1dfTDd0ZTg3TUVBbHZTSEJHWWpKUm1ORTk1R2c1SnRYaXI3eUU4akJJSXZrTDNtY3pWdk1QLTl3ZFduSkI2Y1hGN1JuX3lMZVRRbWJkQ1BxZ9IB6AFBVV95cUxPd1BEZHk3Wkc0bTl5SDQ3UjdFdmlUaTE3b2Rpb21PSTlUVktEZzFleUxHSDNkTXh0eWtIMFZ1Tlp1Y0hSUm80ZFB1NnQ5emFJM0hmbHEwQzg3SHg0QkxqTDdJWDFFU3hDR3lfOVB4NjNaQTExREJxR2dYMGQzdUFNMXdCeUFXWC1lSGNseUVYeVlIWVVDcmFQNXZyNG5Sc182ZXcyaHR2UHdDVkU2ZXg5Q2owVHVtamc5Y0lZalJQSWJkVWpCMlJkcm4taWpnMFd6SjBlRlBydnRhVWFjT1RmUTRRNDRVdzhE?oc=5)
 
 ---
 

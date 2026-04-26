@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="Lumacaftor 有什麼相關新聞？">
-<strong>Lumacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lumacaftor</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lumacaftor/
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [El precio de los medicamentos para Parkinson, Covid o artritis en la sanidad pública de la Comunitat - La Razón](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTFh2UTFGTjdpaHFwVWhnMUszSGl4U0gybVN2elIwY3FxWE5LVGoxQ3ZHclNGajYzRVI5RWJKeUc1bzNxQ05KTlZZME15ZW42ajh6c09SUjFSWks2TjYxMU1STFZqS0s5QkV1SkRlcnNoSkxTam5Yelp1ZnJ6dXBxNkxBTnZsQ2hZVnZWb1JYdTdjSXdzdXIwRHFEN2psdTdzMGV2NnR2RTkySjg3ejRFZnF0dGlpcnE4WUpCdkRFYTFtd2ZTdi1US0NMS1FFNGdJVFZnWVd1M2g5NHBXVlM0MW1peVdsQlRyam12MWJRTVJNTWJnMkFLaDVOOG9YUEY0MG5Lc3JkdTBYVGt0VHhrWE1BcW9PNm1PVEViQmR0OFBGbDjSAbcCQVVfeXFMTU4yU0xqaDRTLVpQcEI5dTRoMzU1VUJFZmtfS2NvVFNHLUFhUXZPM3ZVMUstNGwxMV9qYm91cVNVT3J5RlBuTWxzZDRwRjIwWExmd0tGTm91bEpxbDBuc1JBVTlzOFVnZzIxWk91bjlXYWJmc1JCWnY1RUtqZjFRM2hPeUhUYkMtNFdlNjNWWUszRFYtZDg1bmpQb0ZQRW1lbjRKWG93ZG85dFc4bU5BckZCbFQydkFLdW1OcENSMmJkWjR0M01heU1ibUNIbHZaWE96LTQwTXFHZGUwVEtFSk9pZUVNeEJEcXNBZjJ5U2NLTndUTjFOV3I5RzdpelBRY2xRU2Q5V1V5ODQtTE1DLVYwNkp1VGdBWUtjUlZBdEs0RlQ5REZjUnhRRjhVY3hzMjFkUDlpbjg?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/lumacaftor/
 2026-04-24 <span class="news-indication-tag">arthritis</span>
 
 來源：[Ärzte Zeitung](https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDdwRm5mQm1PQmVsWFpqQjZaRmd5bHBIYjBkR3VJOXRrc0FzZFRkNlk3dlNmdUpIYTZHbmtrbG81eE5nLXpWTGNoN1ZiVFA5bkZtYUZoTVo0SzJhMk1nRURBOUwybWNaaUhHeTM3LXg0QTJZanY3YXFkck1WUThudjhFQkVzUTIwdGFHcUxEXzFiSTBzVkNHRXgtQ1hZemZ0RjJTVGxETlJlY05VTTJN?oc=5)
-
----
-
-### [New three-in-one blood pressure pill cuts stroke risk by almost 40% - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
-
-2026-04-24 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Teenager-Jahre entscheidend: Übergewicht in der Jugend bleibt oft bis zum Erwachsenenalter](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
-
-2026-04-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3gzTGZzU0NyYjdZdVp1ZUhyY0Nxa1paUXFobUZPRDY5X0Y2V0F2d3d1Q082WjFoeFFENGJlVm9PY0U3ODJmQURJVHB5U3U3ejNjb2VrRkxUN2Fpa0hnckdCRWxiUzFOS2NJZU8yZHMzcjIyUFRBNG5ja043SW55RXdHamRSWURLc1ZEWFlvaTBPNE1pMGdUOFdYRTJZWUsyT0s4LUdybDdyUFBwU3RvendwSnpqWE5DMkwzU2pObWc0MGp5MF9SQ1h3Vk1qRkpFZ3YtUGhhcElXR3paM29RaWpR0gHnAUFVX3lxTE9hc3dpbDhPaXBJc3BjYUNaX3dDZmdod2FTeHM3cjVaMXRNcU9vejNKeHVKS21wQzMzSzM4MG1vUzBNV1Y3cVZBaXlIbm5pN2l5ZF9tcGFLTG5xQVktVUFtTDlXMFhnbVVnbHhpNWI2bjRwVnZ0dGlBdUJ4c21TZ203MFEwV2dOMVdieHlDRVVNYlRibklzYmZidEdXeVJTc2pxdWFyZF9iNDA4NTFyRTFBd1dVenI5RFd4TVFPb09kUTJiVXFSSnNSa19nbW5HcHZLbmpUMkU5dmpYRGJacDQtOS1ETTd4bw?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Los autónomos ahorrarían hasta 9.000 euros por empleado si ayudan a reducir la obesidad - Diario AyE](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQkNnUklLY3poSEdjYkJuRmpYbThDQ1NUbzVMOXdnYUVtcEJLRHBybVNmejkxYXlFdXoyQ1RoRDc1RE1HTGlOaEFySFh2X3lncVphcXY4ZDlOeDQzaU9PbVFxdkpHT1FMbV9BWDJHYUVJWUNUMVA4aXNTZjRUWFdrVW1jR0F2YzdmTG5zQzJkZG9PLTNtQ2lMVGZITHBra25Sc2xRN1AxbjA4U1NHYkJRbHB4YnR3ZDhjR0dMWmItZFZTWEt1Z1paU0pBUGlWSWRwakh0ZnI0YkpGY3pEUEN1bWNWbTg?oc=5)
 
@@ -94,27 +86,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Neuropsicóloga, sobre cómo puede ayudar la familia en la recuperación de un ictus: "Hay una reconstrucción de la identidad"](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmR4RWR4NUZ0QnlYUUMwbFREb2R4TmJEVy0wUnFHSFhDTjc2eEhyMnNEV3JDbm9oczJHMzh1RTRGOUZRRXZGRVZkcWVCQzhJanFMa0NiSkJwVC1SdkxTaWd2eVk3QlgzLVh4VFhGVHcySHNYekpabldBR2ZVeGVyZDdWbVMwdktFd185bHRnNFZ6cl9pTHRnTVQ3UnUyYVk2Qm5KYzRyc3pCQ2t0ZXRrdXg1NGwtdWg3X3FQN3BYNmtiYVQyTEltcVZ5SVJ4MGNRUFhIVkZjN2hSZHk0RzZTMw?oc=5)
+### [Un vaccino sperimentale contro il tumore al pancreas - Il Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDAzMDJvb3hzVGFaRklKXzhrWEJudnAyYnNJczhGSHZUaldOei00cEZCbGdWLWdmLU5Kc0lybkxxSlRjY1NwdUctbzZHWnh4V1E3Q3Y3VFBGZDY5emdHTjc1QmFlOW1Ob041ZG9TWnJqUWJtV2wyczh6OF91ZXlucmY5b0VPWUt3UFZSbWNIcFZ1RGozNWpER0xVUXFQWUZfVkVYTGFCb3k?oc=5)
 
-2026-04-24 <span class="news-indication-tag">ictus</span>
+2026-04-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">CVA</span>
 
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmR4RWR4NUZ0QnlYUUMwbFREb2R4TmJEVy0wUnFHSFhDTjc2eEhyMnNEV3JDbm9oczJHMzh1RTRGOUZRRXZGRVZkcWVCQzhJanFMa0NiSkJwVC1SdkxTaWd2eVk3QlgzLVh4VFhGVHcySHNYekpabldBR2ZVeGVyZDdWbVMwdktFd185bHRnNFZ6cl9pTHRnTVQ3UnUyYVk2Qm5KYzRyc3pCQ2t0ZXRrdXg1NGwtdWg3X3FQN3BYNmtiYVQyTEltcVZ5SVJ4MGNRUFhIVkZjN2hSZHk0RzZTMw?oc=5)
-
----
-
-### [New three-in-one blood pressure pill cuts stroke risk by almost 40% - Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
-
-2026-04-24 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1ha2lkcFgtUi1kV3VwT3JBSXg5SFV0WDBJUnlGQXVIeklLamplOGR1aUFOcHpvcXlJV3VlXzgwX0pKWWxyNW9TX3RfVERkN2pETFJwcG4yRG9hejNiZ2hHd3ptZWpXVVpTWTRNMUtjRmxxM1B5UXcyczJyck1Uc2NNZHJwdHgtY3dya9IBkgFBVV95cUxQMkRNX1dkS1AtMjIxZnZGeTByM2FpLTRyZVdUTFg2THh5UWUydHJrREJNSkRFXzBJaTZab3ViUGx5c3ItVzZHcGswMjg3UDdiTWFDcFpqbVJORjFXcFRBLVlBaThfTFAxNDZZQ1ZPQ0VZWE5UWGdKaHI0bGxkQXozNEhZOVR4V1JVcGh3OUNLcVlqdw?oc=5)
-
----
-
-### [GMRx2: Neue Hoffnung für Schlaganfallpatienten - it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
-
-2026-04-24 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3BCUDR0YzlxUllMWWhYU0pYQUdEdDM2OTJIMmdUSjA4OGkyZnk4ZUViQkNxdjZfNHhVTnhRa0tVN09ha1N3aDJQdnloUGpiUlg4VFNtanJrWDB0Y040T0RfTWRyVGZiZ1NTNHdTTTBCZnFCR0doQkR0UWl5ejN1MUh0alE?oc=5)
+來源：[Il Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDAzMDJvb3hzVGFaRklKXzhrWEJudnAyYnNJczhGSHZUaldOei00cEZCbGdWLWdmLU5Kc0lybkxxSlRjY1NwdUctbzZHWnh4V1E3Q3Y3VFBGZDY5emdHTjc1QmFlOW1Ob041ZG9TWnJqUWJtV2wyczh6OF91ZXlucmY5b0VPWUt3UFZSbWNIcFZ1RGozNWpER0xVUXFQWUZfVkVYTGFCb3k?oc=5)
 
 ---
 
