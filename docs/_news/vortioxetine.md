@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Más allá de la báscula: hacia una nueva forma de entender la obesidad en la consulta médica - El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
+
+2026-04-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
+
+---
 
 
 <div class="disclaimer">

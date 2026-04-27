@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
 
-### [Empresas.- Avances en esclerosis múltiple con su aprendizaje y uso de biomarcadores centran el 'NeuroSummit' de Roche](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLTd4WGM4dkJCc3dtTFRqd0pOQjFuUklhV3pGNExxWEVsc0QzelpudGlKcjV6dXJPZmdKdnA2di1TMlpsXzkwMzJIcHRlWXllREN6OGxJWTFBbVR5ZGtwaldETS1vMHNCRUxTNmFULW00ZEVSbzIyVXpiOTN3ZDNUMUNqd252Skg3MzdEYjBHSDdMY3d1bkdsOGJIQzVCeXlYZ1c1M2g2REZIeGJLeDdWajVORThlVEUwZjlHWlgxZ3RNeVVCaktFQ1RPdWdGSTRZZDU2ZWZ6WXdEQ2xCdFljQjZiOHQ0MERoY3czMDlR?oc=5)
+### [OMS, Unicef y Gavi protegen a 18,3 millones de menores con campaña masiva de vacunación](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWdmcDJPbTVWekJGOTgxeHd1bHpRMHY5eFlhZmlhdE1lcW9LV3BfNHZwR3FmLVJMUDA4N0ZNMkZhbWZHY3hkalRBV3NMY0dsMHF3cnNzVWotckYyUnRPUEExbDhYOUxiMDJyN3dlTnd5MzJ0a1JmX3VRYTloaXJsdGNWRTk2ZkF4N3c1SkpFYW82OFZLVFdyWnljbTNEOHAxdi1ZLXlUa2t0RFN2SkE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[nacion.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWdmcDJPbTVWekJGOTgxeHd1bHpRMHY5eFlhZmlhdE1lcW9LV3BfNHZwR3FmLVJMUDA4N0ZNMkZhbWZHY3hkalRBV3NMY0dsMHF3cnNzVWotckYyUnRPUEExbDhYOUxiMDJyN3dlTnd5MzJ0a1JmX3VRYTloaXJsdGNWRTk2ZkF4N3c1SkpFYW82OFZLVFdyWnljbTNEOHAxdi1ZLXlUa2t0RFN2SkE?oc=5)
+
+---
+
+### [La obsesión por las "Pilates moms" ha logrado lo que la ciencia no pudo: que nos tomemos en serio la anatomía femenina](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUJlR3BmNmd2cHFtRlMxTnBBU2JrZnhjNWlpVFlIUGtEMTNoR2pHdUlOV0d6bGRVd2ZhYnpyc25vcGtJMUV0YmV1ZDVpRGgxQ0tXbEtQLVBfMGo4VGRhN2V1N19zb2o4N2kwMFU0NnBERXNLV0V1dFhOWmFJTGpYSGdqTzZ0bGdDU3pfT3V6bjYyVnRLRmkxY3NhR050RzhRMzBRN1RJSC0yS0Y3M0ZVTW5pSi1GOFJaQU51OHhWMFNxWEZJNms0cThDTFZackJ0UnJaZ1dUZEVWMWZwNGE1dlB6a1FDQdIB6wFBVV95cUxNaFNaTjRqcmdtYlFkbmctUXRuQ2dlZWF1bWY0alBJWTdGLXBvZEVFZXZXcl9ESGZSbVB1ZmlDcThLVTVNM0F1Z0VTTzhaUVBLZHI2Nk1tdEQtWVBtUVVqVUhWQzkyUDg4QlRJVlV4SGRtSHVNblRqU3hSZnNRb2Nqdm9LX2xHblJZSkM3QS03bGVpOVJ1Q1JSS2JGbTVIb3JYOFY0amlTbkctc09BTGFWZ3BuaGF3MWhwaWdkdXNtU1RSZjRyejg4Q3hoQmVzOE5tbE56VV9xRzY3RzFSVHNTSTNVbDlFMHpTRXN3?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[Xataka](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUJlR3BmNmd2cHFtRlMxTnBBU2JrZnhjNWlpVFlIUGtEMTNoR2pHdUlOV0d6bGRVd2ZhYnpyc25vcGtJMUV0YmV1ZDVpRGgxQ0tXbEtQLVBfMGo4VGRhN2V1N19zb2o4N2kwMFU0NnBERXNLV0V1dFhOWmFJTGpYSGdqTzZ0bGdDU3pfT3V6bjYyVnRLRmkxY3NhR050RzhRMzBRN1RJSC0yS0Y3M0ZVTW5pSi1GOFJaQU51OHhWMFNxWEZJNms0cThDTFZackJ0UnJaZ1dUZEVWMWZwNGE1dlB6a1FDQdIB6wFBVV95cUxNaFNaTjRqcmdtYlFkbmctUXRuQ2dlZWF1bWY0alBJWTdGLXBvZEVFZXZXcl9ESGZSbVB1ZmlDcThLVTVNM0F1Z0VTTzhaUVBLZHI2Nk1tdEQtWVBtUVVqVUhWQzkyUDg4QlRJVlV4SGRtSHVNblRqU3hSZnNRb2Nqdm9LX2xHblJZSkM3QS03bGVpOVJ1Q1JSS2JGbTVIb3JYOFY0amlTbkctc09BTGFWZ3BuaGF3MWhwaWdkdXNtU1RSZjRyejg4Q3hoQmVzOE5tbE56VV9xRzY3RzFSVHNTSTNVbDlFMHpTRXN3?oc=5)
+
+---
+
+### [NeuroSummit 2026 reúne a neurólogos sobre esclerosis múltiple | Roche España - Roche España](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFZ0amczd0E0Z3lXRUF4M0xpTUdsU3VkWGs0M1FkdlNnQ0p5ZXNEUFlGQjJwVjBBT1E3bmdkUXhuWFlKc0hfSGh5ekJ4b3FRUlV6VjBXRWRzYVQ2TEgzQ0dha3U0X21LN2FINnJmRmlfenBJYklfbWlWd3dJTHNoQllDZjBEbUVWY1E4?oc=5)
 
 2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLTd4WGM4dkJCc3dtTFRqd0pOQjFuUklhV3pGNExxWEVsc0QzelpudGlKcjV6dXJPZmdKdnA2di1TMlpsXzkwMzJIcHRlWXllREN6OGxJWTFBbVR5ZGtwaldETS1vMHNCRUxTNmFULW00ZEVSbzIyVXpiOTN3ZDNUMUNqd252Skg3MzdEYjBHSDdMY3d1bkdsOGJIQzVCeXlYZ1c1M2g2REZIeGJLeDdWajVORThlVEUwZjlHWlgxZ3RNeVVCaktFQ1RPdWdGSTRZZDU2ZWZ6WXdEQ2xCdFljQjZiOHQ0MERoY3czMDlR?oc=5)
+來源：[Roche España](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFZ0amczd0E0Z3lXRUF4M0xpTUdsU3VkWGs0M1FkdlNnQ0p5ZXNEUFlGQjJwVjBBT1E3bmdkUXhuWFlKc0hfSGh5ekJ4b3FRUlV6VjBXRWRzYVQ2TEgzQ0dha3U0X21LN2FINnJmRmlfenBJYklfbWlWd3dJTHNoQllDZjBEbUVWY1E4?oc=5)
+
+---
+
+### [Certain Nap Patterns in Older Adults Could Be a Warning Sign, Study Finds](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFTQ20wTWpzOEdmd0lPaVZqQnI5ZHFGZ2Nkd18xdXhlZW1RZ2oyTzBqbXlwTEZCeGNCUGpEc3lLTmdIcHRRTWFFWHB1VnZ1dFM3WWxzRG1wRnJkYkpIYzR4MHI0d05aUVpmTG1sR1QwbXFTS3BOcVdGUy0wa1N5NDAtdEg1ekh6aHNaRFRRTExZR2FGOEdKN2dKQ2txRzd2eXZJ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFTQ20wTWpzOEdmd0lPaVZqQnI5ZHFGZ2Nkd18xdXhlZW1RZ2oyTzBqbXlwTEZCeGNCUGpEc3lLTmdIcHRRTWFFWHB1VnZ1dFM3WWxzRG1wRnJkYkpIYzR4MHI0d05aUVpmTG1sR1QwbXFTS3BOcVdGUy0wa1N5NDAtdEg1ekh6aHNaRFRRTExZR2FGOEdKN2dKQ2txRzd2eXZJ?oc=5)
+
+---
+
+### [Dermcidin bremst Grippe und Corona: Studie enthüllt schützende Wirkung von Schweiß](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
 
 ---
 
@@ -70,6 +102,14 @@ permalink: /news/elbasvir/
 
 ---
 
+### ['Mum's death was not something we ever expected, ever worried about' - North Wales Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSElrSWFWZzlkdkJWdEtCVllyTy1ybG9BcDVySkVYcFh2cElmQ21YYUFaNm5YUnZrMC1GM0dTR3BZU0lJZ1F5a1pOVHdMdm5meU5JbVlTd1A4b0RwUVgzaWYzSGxvS29SQjQ0eVVRYzlzWnpta2VSeVFodHdzLS1ESnJyZ20zbi1OSFR4ZE1ndnF6dw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSElrSWFWZzlkdkJWdEtCVllyTy1ybG9BcDVySkVYcFh2cElmQ21YYUFaNm5YUnZrMC1GM0dTR3BZU0lJZ1F5a1pOVHdMdm5meU5JbVlTd1A4b0RwUVgzaWYzSGxvS29SQjQ0eVVRYzlzWnpta2VSeVFodHdzLS1ESnJyZ20zbi1OSFR4ZE1ndnF6dw?oc=5)
+
+---
+
 ### [Wirkstoff: Apilimod blockiert Viruseintritt in Leberzellen bei Hepatitis E](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">hepatitis</span>
@@ -78,19 +118,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [8 Tipps für eine gesunde Ernährung bei Kindern mit ADHS - ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
+### [Lesetipp Heft 4/2026: Acht Tipps rund um eine gesunde Ernährung von Kindern mit ADHS - ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
 
 2026-04-27 <span class="news-indication-tag">MS</span>
 
 來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
-
----
-
-### ['Mum was outgoing, funny and social. We never expected her death’ - Wales Online](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTJBNzBHMFIyUDNJNFRWM3YyMklJYWJZQTBDQTFaUUhWS0VXaGRGcFM2djVxc0tPcGRfcHZicl9MT2laZTRNd3dINFVFekxNRHFHOTFSQmVJb2N0bE4weDEydGdGMkRhQXZJblhCYTJhc0puZXFDWDNGd3RIdG9JaDZ5Mm1jQU5ubHfSAY8BQVVfeXFMTmhVYUR5ZG9CVjhKSkdaLUtpR1R1RHlfQ1RBZnBxUmhNb2RmRnJSSVQ0N0pjd0N0ZURtV0llTkt3N3NCS1owZVNmNVZpU2swZ2JZWWJILXpqU3dqSFVHcEdwQnlKclRlRDNTSnA0WmdHVXVBODNLLXN6MktxSUhHOWx5Y0JNVXNRZXgwek9yUXM?oc=5)
-
-2026-04-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTJBNzBHMFIyUDNJNFRWM3YyMklJYWJZQTBDQTFaUUhWS0VXaGRGcFM2djVxc0tPcGRfcHZicl9MT2laZTRNd3dINFVFekxNRHFHOTFSQmVJb2N0bE4weDEydGdGMkRhQXZJblhCYTJhc0puZXFDWDNGd3RIdG9JaDZ5Mm1jQU5ubHfSAY8BQVVfeXFMTmhVYUR5ZG9CVjhKSkdaLUtpR1R1RHlfQ1RBZnBxUmhNb2RmRnJSSVQ0N0pjd0N0ZURtV0llTkt3N3NCS1owZVNmNVZpU2swZ2JZWWJILXpqU3dqSFVHcEdwQnlKclRlRDNTSnA0WmdHVXVBODNLLXN6MktxSUhHOWx5Y0JNVXNRZXgwek9yUXM?oc=5)
 
 ---
 
@@ -99,22 +131,6 @@ permalink: /news/elbasvir/
 2026-04-26 <span class="news-indication-tag">hepatitis</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDRwRmxQX1p4RlFjTzAtRTVaOGZ2OE1DNzJzZkNKbVowLTJFMDdVYlprSktUSlJoOTZqai01Sl9kQkE4dEhYVUQ3WldDUi1qWFNmSmF2Tjk1MUtoczBPd0cyMUdmelAwaHJkQ05Sc0hDb3ZJNFZ5VzhjMWp6NTN0ZTNWVnZBbXNmV19wb0pMNUk4ODBfSU9RQk11MGgxVFNzeGVLX1EyS0tLZEwxNy1BaVZBNHJ4MW1JaHF1amg2UWU2ZnR6bHZiZ0sySkw0UHpsOG5WVVVn?oc=5)
-
----
-
-### [Früherkennung von Demenz: Fortschritte bei Bluttests und KI-Methoden](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYko3dTFURzc3QjNzcHkxVVZZZ0RfdHJSYVVrN2N5R2RCU0hqem10SXJEdjZtTXVxQTNTVmgyQl83LXZhTzBpY2tSRFpqbkdIbkVoeDVtci1oTWNFX3BOZlJKLUpsZjBfd2ZOOXFSODJ4Rk0zYVl6S3NzR2lQWkotSVhJb25JNWU3QXdoT044a3YxUUtCbEJ0b3NxYnVkcDF5a1E?oc=5)
-
-2026-04-26 <span class="news-indication-tag">MS</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYko3dTFURzc3QjNzcHkxVVZZZ0RfdHJSYVVrN2N5R2RCU0hqem10SXJEdjZtTXVxQTNTVmgyQl83LXZhTzBpY2tSRFpqbkdIbkVoeDVtci1oTWNFX3BOZlJKLUpsZjBfd2ZOOXFSODJ4Rk0zYVl6S3NzR2lQWkotSVhJb25JNWU3QXdoT044a3YxUUtCbEJ0b3NxYnVkcDF5a1E?oc=5)
-
----
-
-### [Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
-
-2026-04-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epilepsy</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 
 ---
 

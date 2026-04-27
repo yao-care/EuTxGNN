@@ -36,19 +36,19 @@ permalink: /news/clopidogrel/
 
 ## 相關新聞（3 則）
 
+### [‘I thought I was doing everything right’: Crossmaglen dad, 40, shares shock heart failure diagnosis - Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+
+2026-04-27 <span class="news-indication-tag">heart failure</span>
+
+來源：[Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+
+---
+
 ### [Nueva guía para implementar el asesoramiento genético en la miocardiopatía dilatada](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2kxOFJqTnRxcjRXRUNhblNObEhXel9UYnU4R2gtbjc4c3R2cDVGOWN4eHliUFBHVnhnUVdfLURDM2JzOFIwYnhtSzlmd2RWV1FJNDZOX003NkdTNnFJcXFpSDdmSC1lWTdyMFo3T3ljUFd6bXVudll3NndRYUZZcENIWWMxM1RCM2xRMWNCcw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Genotipia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2kxOFJqTnRxcjRXRUNhblNObEhXel9UYnU4R2gtbjc4c3R2cDVGOWN4eHliUFBHVnhnUVdfLURDM2JzOFIwYnhtSzlmd2RWV1FJNDZOX003NkdTNnFJcXFpSDdmSC1lWTdyMFo3T3ljUFd6bXVudll3NndRYUZZcENIWWMxM1RCM2xRMWNCcw?oc=5)
-
----
-
-### [Clopidogrel se perfila como mejor opción que la aspirina tras un año de doble terapia en pacientes con stent](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQkRqTnNYbS1WM0Z3NHlWUkFDTVZCYldQa3hIYlZSOEtGYXF5Z3ZOWFk5cUhCVktWRjVudGRJaWtlSy12R2d4Ti1aS3d6UFJRLUhaWFdibzBxUFg0OUtWU1MwbDFscmE3NzBDbV9wOFlFTk4xODVOY3FzOVBQREtCQXFRNl9mZXhGS2FORFV2QXR1MXlyVmRidFk1Q3Y2bmlkMWstVEdWREx0YjhPR3JOcnM0dW52U2FYaS1kUlpITXdnekNhWkJBNEJyRGJtX1BDdlZCNg?oc=5)
-
-2026-04-27 <span class="news-drug-tag">Clopidogrel</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQkRqTnNYbS1WM0Z3NHlWUkFDTVZCYldQa3hIYlZSOEtGYXF5Z3ZOWFk5cUhCVktWRjVudGRJaWtlSy12R2d4Ti1aS3d6UFJRLUhaWFdibzBxUFg0OUtWU1MwbDFscmE3NzBDbV9wOFlFTk4xODVOY3FzOVBQREtCQXFRNl9mZXhGS2FORFV2QXR1MXlyVmRidFk1Q3Y2bmlkMWstVEdWREx0YjhPR3JOcnM0dW52U2FYaS1kUlpITXdnekNhWkJBNEJyRGJtX1BDdlZCNg?oc=5)
 
 ---
 

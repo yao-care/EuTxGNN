@@ -3,7 +3,7 @@ layout: default
 title: "Schuppenflechte（psoriasis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schuppenflechte（psoriasis） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "Schuppenflechte（psoriasis） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="Schuppenflechte（psoriasis） 有什麼相關新聞？">
-<strong>Schuppenflechte（psoriasis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schuppenflechte（psoriasis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Psoriasis: Wenn die Haut im Dauerstress steckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
+
+2026-04-27
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
+
+---
 
 ### [Neue Studie erstaunt - Kann Schuppenflechte vor Hautkrebs schützen? - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
 

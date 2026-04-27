@@ -14,7 +14,7 @@ permalink: /news/nusinersen-sodium/
 ---
 
 <p class="key-answer" data-question="Nusinersen Sodium 有什麼相關新聞？">
-<strong>Nusinersen Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nusinersen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/nusinersen-sodium/
 <p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
-
-2026-04-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epilepsy</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/eltrombopag/
 ---
 
 <p class="key-answer" data-question="Eltrombopag 有什麼相關新聞？">
-<strong>Eltrombopag</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eltrombopag</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/eltrombopag/
 <p><a href="{{ '/drugs/eltrombopag/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
 
 ### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
+
+---
+
+### [Middlesbrough social club raises £29,000 to support cancer patients at James Cook hospital - Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNOb21hcVV1ZGY5dTlhY3ZiUS1BNWpWOUdIY0ZUNTUwRW05WnVYVFdndWtsdVJyWktYU3VHRURqUzVXVGh6eXcwRjdwMmY3RUxJd2tzMUN5TVM3RXZLa3lpb212NjZZSjZZSVo5RkVxRExHQ0VHbC0wNXl5czV4QkNfRmpWX3JIMDlxTUxtY2FMcVZZQnVKV2d2dFE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNOb21hcVV1ZGY5dTlhY3ZiUS1BNWpWOUdIY0ZUNTUwRW05WnVYVFdndWtsdVJyWktYU3VHRURqUzVXVGh6eXcwRjdwMmY3RUxJd2tzMUN5TVM3RXZLa3lpb212NjZZSjZZSVo5RkVxRExHQ0VHbC0wNXl5czV4QkNfRmpWX3JIMDlxTUxtY2FMcVZZQnVKV2d2dFE?oc=5)
+
+---
+
+### [Vous pensiez la cigarette électronique inoffensive ? Cette étude révèle son terrible effet secondaire (et cela ne touche pas vos poumons)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzd2cTlkUjZMWkl6aXNBVE5Sb0psVDhGeFBqcU9iWC1uYW0wRlgxYmYtOGJEWkxFY3RNaFI5Wml5VjlEZGxVbUNzMnF6amtjamRwZlBjRkhkUG5jMGFZanlsQVpFNEtHV3NXbnpmWVFPWElTWGpVZENGTFRPZUpjeGszVGx3QlFPaktTTi1Nc2J5Q2w3V05TdzdZUE84U2RKNWdMVzlxeF8tam9MNmVWVmZEUVg1UlpWNmdfT3l2UkloUUpvMkk3TGdUMERodllWbGh1ZEhKOFhfNEpDWlc3ZFA2Y1UwRFYyS3hDQnNB?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzd2cTlkUjZMWkl6aXNBVE5Sb0psVDhGeFBqcU9iWC1uYW0wRlgxYmYtOGJEWkxFY3RNaFI5Wml5VjlEZGxVbUNzMnF6amtjamRwZlBjRkhkUG5jMGFZanlsQVpFNEtHV3NXbnpmWVFPWElTWGpVZENGTFRPZUpjeGszVGx3QlFPaktTTi1Nc2J5Q2w3V05TdzdZUE84U2RKNWdMVzlxeF8tam9MNmVWVmZEUVg1UlpWNmdfT3l2UkloUUpvMkk3TGdUMERodllWbGh1ZEhKOFhfNEpDWlc3ZFA2Y1UwRFYyS3hDQnNB?oc=5)
 
 ---
 
@@ -70,11 +86,27 @@ permalink: /news/eltrombopag/
 
 ---
 
+### [ATS Brianza: lo screening al colon-retto può salvare vite](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Casateonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
+
+---
+
 ### [DGIM 2026: Arthralgie oder Arthritis? Differenzialdiagnostik schmerzhafter Gelenke - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
+
+---
+
+### [Belfast woman’s cancer trauma: ‘I’m very, very lucky that I’m here to tell the tale’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYml3aThtcHFBWFkzOE9sSHZtYks5NlhldHhfN196Nzd4WVJ1djdTQkpROHRYcVMwYWpXUGo3VEpSNXcwQTlRVk45T3E0cXlwOF9vOHltV0JBNm51bzZkRl9VakFzVnJqR0NuYzdzOWtQam9vU3lnSlNNYmF3bDd1WHNqSkxCUzE2dUJRdUJsU1g1SHBtdmVrdHlUN1RPMmZZRGhaZGdDM25VRmpxNmNTZ3NRZlBWdnpFaHhrb0VQMlVyLWw4dTNPM1UzUUNjWWNRVnNRcFBrVjdqODZhVS0xRTcxOFZjQQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYml3aThtcHFBWFkzOE9sSHZtYks5NlhldHhfN196Nzd4WVJ1djdTQkpROHRYcVMwYWpXUGo3VEpSNXcwQTlRVk45T3E0cXlwOF9vOHltV0JBNm51bzZkRl9VakFzVnJqR0NuYzdzOWtQam9vU3lnSlNNYmF3bDd1WHNqSkxCUzE2dUJRdUJsU1g1SHBtdmVrdHlUN1RPMmZZRGhaZGdDM25VRmpxNmNTZ3NRZlBWdnpFaHhrb0VQMlVyLWw4dTNPM1UzUUNjWWNRVnNRcFBrVjdqODZhVS0xRTcxOFZjQQ?oc=5)
 
 ---
 
@@ -123,14 +155,6 @@ permalink: /news/eltrombopag/
 2026-04-26 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
-
----
-
-### [Oubliez les traitements lourds : cette particule invisible "reprogramme" le système immunitaire pour détruire les 3 pires cancers existants (avant même leur apparition)](https://news.google.com/rss/articles/CBMilAJBVV95cUxQdG1zckhLeGZUREZfVzhtTmRrYUVOcWFXSTNxaGlkWHFlX3BfNXRvRFlHREp3d0lZYldfU2NScFRDY1JQTkhCQzRlOEdLX0ozU0RQalNMM1F2Zm0wRG9qblJUTDQ4b0lMUUViQU9vSHNmZXRFLXBNbzFoWlJ6dmFmOWdZMlJVRXd0dkhKbFg2ZENPM0Z4ZFlvN3hlX1VUOXR4VU0yZURMa2ZieC1xZUhUV0lqOFNadzhYbFVFdGpGUzRGc1pvZEp4MS1kOTkzT25VM3NYUGc2cGJPZHQ1Nlo1aGV3aTlVRFEyc3JxMHlKSWlnazBTQ3pzWFJhM1owcUpZbEs2Wnp5MFEtNmVxZmMtdnlxNno?oc=5)
-
-2026-04-26 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMilAJBVV95cUxQdG1zckhLeGZUREZfVzhtTmRrYUVOcWFXSTNxaGlkWHFlX3BfNXRvRFlHREp3d0lZYldfU2NScFRDY1JQTkhCQzRlOEdLX0ozU0RQalNMM1F2Zm0wRG9qblJUTDQ4b0lMUUViQU9vSHNmZXRFLXBNbzFoWlJ6dmFmOWdZMlJVRXd0dkhKbFg2ZENPM0Z4ZFlvN3hlX1VUOXR4VU0yZURMa2ZieC1xZUhUV0lqOFNadzhYbFVFdGpGUzRGc1pvZEp4MS1kOTkzT25VM3NYUGc2cGJPZHQ1Nlo1aGV3aTlVRFEyc3JxMHlKSWlnazBTQ3pzWFJhM1owcUpZbEs2Wnp5MFEtNmVxZmMtdnlxNno?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/apixaban/
 ---
 
 <p class="key-answer" data-question="Apixaban 有什麼相關新聞？">
-<strong>Apixaban</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apixaban</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/apixaban/
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [‘I thought I was doing everything right’: Crossmaglen dad, 40, shares shock heart failure diagnosis - Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+
+2026-04-27 <span class="news-indication-tag">heart failure</span>
+
+來源：[Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+
+---
 
 ### [Nueva guía para implementar el asesoramiento genético en la miocardiopatía dilatada](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2kxOFJqTnRxcjRXRUNhblNObEhXel9UYnU4R2gtbjc4c3R2cDVGOWN4eHliUFBHVnhnUVdfLURDM2JzOFIwYnhtSzlmd2RWV1FJNDZOX003NkdTNnFJcXFpSDdmSC1lWTdyMFo3T3ljUFd6bXVudll3NndRYUZZcENIWWMxM1RCM2xRMWNCcw?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/apixaban/
 2026-04-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
+
+---
+
+### [Après 70 ans, ce chiffre de tension peut alerter sur votre santé cardiaque - Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
+
+2026-04-27 <span class="news-indication-tag">hypertension</span>
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Avanafil</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（16 則）
 
 ### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
+
+---
+
+### [Neuro-Talk: Durchbruch bei der Schlaganfallforschung und erfreuliche Nachrichten für Kaffeetrinker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
+
+---
+
+### [Middlesbrough social club raises £29,000 to support cancer patients at James Cook hospital - Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNOb21hcVV1ZGY5dTlhY3ZiUS1BNWpWOUdIY0ZUNTUwRW05WnVYVFdndWtsdVJyWktYU3VHRURqUzVXVGh6eXcwRjdwMmY3RUxJd2tzMUN5TVM3RXZLa3lpb212NjZZSjZZSVo5RkVxRExHQ0VHbC0wNXl5czV4QkNfRmpWX3JIMDlxTUxtY2FMcVZZQnVKV2d2dFE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNOb21hcVV1ZGY5dTlhY3ZiUS1BNWpWOUdIY0ZUNTUwRW05WnVYVFdndWtsdVJyWktYU3VHRURqUzVXVGh6eXcwRjdwMmY3RUxJd2tzMUN5TVM3RXZLa3lpb212NjZZSjZZSVo5RkVxRExHQ0VHbC0wNXl5czV4QkNfRmpWX3JIMDlxTUxtY2FMcVZZQnVKV2d2dFE?oc=5)
+
+---
+
+### [Vous pensiez la cigarette électronique inoffensive ? Cette étude révèle son terrible effet secondaire (et cela ne touche pas vos poumons)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzd2cTlkUjZMWkl6aXNBVE5Sb0psVDhGeFBqcU9iWC1uYW0wRlgxYmYtOGJEWkxFY3RNaFI5Wml5VjlEZGxVbUNzMnF6amtjamRwZlBjRkhkUG5jMGFZanlsQVpFNEtHV3NXbnpmWVFPWElTWGpVZENGTFRPZUpjeGszVGx3QlFPaktTTi1Nc2J5Q2w3V05TdzdZUE84U2RKNWdMVzlxeF8tam9MNmVWVmZEUVg1UlpWNmdfT3l2UkloUUpvMkk3TGdUMERodllWbGh1ZEhKOFhfNEpDWlc3ZFA2Y1UwRFYyS3hDQnNB?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzd2cTlkUjZMWkl6aXNBVE5Sb0psVDhGeFBqcU9iWC1uYW0wRlgxYmYtOGJEWkxFY3RNaFI5Wml5VjlEZGxVbUNzMnF6amtjamRwZlBjRkhkUG5jMGFZanlsQVpFNEtHV3NXbnpmWVFPWElTWGpVZENGTFRPZUpjeGszVGx3QlFPaktTTi1Nc2J5Q2w3V05TdzdZUE84U2RKNWdMVzlxeF8tam9MNmVWVmZEUVg1UlpWNmdfT3l2UkloUUpvMkk3TGdUMERodllWbGh1ZEhKOFhfNEpDWlc3ZFA2Y1UwRFYyS3hDQnNB?oc=5)
 
 ---
 
@@ -70,11 +94,19 @@ permalink: /news/avanafil/
 
 ---
 
-### [José Manuel Felices es médico murciano y habla claro: "Un ictus no siempre te tuerce la cara o te paraliza un brazo. Al FAST que ya conocemos hay que añadirle el BE" - El Economista](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM0I0QXFRa293ZUlKTTJac041MWRYdXVRMkdmc2hVLUowcWxxRlRXTVA0cFAxSTVCOGZPRVZZdm9Lbk9mNzYtVFhFWU1UOUtEWmZMYWpHQnRlbWNTc1M3WThTa1c5bTVDWFJUNU8yemtURl9sSjd1Nmh2azZUZGdLbEUzWUVpVVVuXzJOQlE4cExyTW1vU3ZIbkpjQk90bW9FX3hjX1l4blF4aU93SnhxcWdvcWRxcm5zb213Q045all5NkhOZURtdWtLZ1JNRXNmY0dyaUR1Wkx0NHJQVndUSWlCNjdQdXlaMjE4UWhHYjZYcjA0T3p1LXhjUURqS0hHUVVTVndlbFVfSFdIU1FlaTNQRVlkOFpaZVlTWFVFcVNuUzdLTmlHT3RPY2hwdWJUd0NUNU93NDBBRng1VHlWQXlVX01SYWdNV19uV0M5aWMxY016SDhOLURTLUVrcHJVRXl1RlNB0gHQAkFVX3lxTE83YkZJQjkwX0N5cGJ2R2ROS1I2WHF5VmhQMHdWYUVGWnJ4eHpZREF3d0tsOFpFTlRsYVVFNnk3cWUzb0RhUFI2amdrLWh6UzlBc3pNOEx5TkRzMk1aN0V2bC11VmZ1NVVGdkJhVGRLXzZTVFE0THhub2t6RXZyQ0tFd1pxbVFBemV1R1RtemhiY2FneE9YNGxoNGtlX0JuOVRULVJPNEp6Y0V2WHBnb1hLbmNGUkwyUUd5ZUpTNlJCUjYxdG9zQ0lfZGg4RXpoM2FLQ3JKQmhlWWFxNnJubWtMME56eDhGUlA2cW5zRlB0ZTFhenhZMm8xaUdtN0g4b2F0OWphTllrdm9jUWwzc25qX29uamJVTmQtRTFLWTBKLS1aSWZuZ3VMdEtra1pDWDg5UnNrYUxLZEx1VHhPZm5EMEk4RkdrNnJzSVNoaFhfVw?oc=5)
+### [ATS Brianza: lo screening al colon-retto può salvare vite](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
 
-2026-04-27 <span class="news-indication-tag">ictus</span>
+2026-04-27 <span class="news-indication-tag">tumor</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM0I0QXFRa293ZUlKTTJac041MWRYdXVRMkdmc2hVLUowcWxxRlRXTVA0cFAxSTVCOGZPRVZZdm9Lbk9mNzYtVFhFWU1UOUtEWmZMYWpHQnRlbWNTc1M3WThTa1c5bTVDWFJUNU8yemtURl9sSjd1Nmh2azZUZGdLbEUzWUVpVVVuXzJOQlE4cExyTW1vU3ZIbkpjQk90bW9FX3hjX1l4blF4aU93SnhxcWdvcWRxcm5zb213Q045all5NkhOZURtdWtLZ1JNRXNmY0dyaUR1Wkx0NHJQVndUSWlCNjdQdXlaMjE4UWhHYjZYcjA0T3p1LXhjUURqS0hHUVVTVndlbFVfSFdIU1FlaTNQRVlkOFpaZVlTWFVFcVNuUzdLTmlHT3RPY2hwdWJUd0NUNU93NDBBRng1VHlWQXlVX01SYWdNV19uV0M5aWMxY016SDhOLURTLUVrcHJVRXl1RlNB0gHQAkFVX3lxTE83YkZJQjkwX0N5cGJ2R2ROS1I2WHF5VmhQMHdWYUVGWnJ4eHpZREF3d0tsOFpFTlRsYVVFNnk3cWUzb0RhUFI2amdrLWh6UzlBc3pNOEx5TkRzMk1aN0V2bC11VmZ1NVVGdkJhVGRLXzZTVFE0THhub2t6RXZyQ0tFd1pxbVFBemV1R1RtemhiY2FneE9YNGxoNGtlX0JuOVRULVJPNEp6Y0V2WHBnb1hLbmNGUkwyUUd5ZUpTNlJCUjYxdG9zQ0lfZGg4RXpoM2FLQ3JKQmhlWWFxNnJubWtMME56eDhGUlA2cW5zRlB0ZTFhenhZMm8xaUdtN0g4b2F0OWphTllrdm9jUWwzc25qX29uamJVTmQtRTFLWTBKLS1aSWZuZ3VMdEtra1pDWDg5UnNrYUxLZEx1VHhPZm5EMEk4RkdrNnJzSVNoaFhfVw?oc=5)
+來源：[Casateonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
+
+---
+
+### [Belfast woman’s cancer trauma: ‘I’m very, very lucky that I’m here to tell the tale’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYml3aThtcHFBWFkzOE9sSHZtYks5NlhldHhfN196Nzd4WVJ1djdTQkpROHRYcVMwYWpXUGo3VEpSNXcwQTlRVk45T3E0cXlwOF9vOHltV0JBNm51bzZkRl9VakFzVnJqR0NuYzdzOWtQam9vU3lnSlNNYmF3bDd1WHNqSkxCUzE2dUJRdUJsU1g1SHBtdmVrdHlUN1RPMmZZRGhaZGdDM25VRmpxNmNTZ3NRZlBWdnpFaHhrb0VQMlVyLWw4dTNPM1UzUUNjWWNRVnNRcFBrVjdqODZhVS0xRTcxOFZjQQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYml3aThtcHFBWFkzOE9sSHZtYks5NlhldHhfN196Nzd4WVJ1djdTQkpROHRYcVMwYWpXUGo3VEpSNXcwQTlRVk45T3E0cXlwOF9vOHltV0JBNm51bzZkRl9VakFzVnJqR0NuYzdzOWtQam9vU3lnSlNNYmF3bDd1WHNqSkxCUzE2dUJRdUJsU1g1SHBtdmVrdHlUN1RPMmZZRGhaZGdDM25VRmpxNmNTZ3NRZlBWdnpFaHhrb0VQMlVyLWw4dTNPM1UzUUNjWWNRVnNRcFBrVjdqODZhVS0xRTcxOFZjQQ?oc=5)
 
 ---
 
@@ -126,14 +158,6 @@ permalink: /news/avanafil/
 
 ---
 
-### [Oubliez les traitements lourds : cette particule invisible "reprogramme" le système immunitaire pour détruire les 3 pires cancers existants (avant même leur apparition)](https://news.google.com/rss/articles/CBMilAJBVV95cUxQdG1zckhLeGZUREZfVzhtTmRrYUVOcWFXSTNxaGlkWHFlX3BfNXRvRFlHREp3d0lZYldfU2NScFRDY1JQTkhCQzRlOEdLX0ozU0RQalNMM1F2Zm0wRG9qblJUTDQ4b0lMUUViQU9vSHNmZXRFLXBNbzFoWlJ6dmFmOWdZMlJVRXd0dkhKbFg2ZENPM0Z4ZFlvN3hlX1VUOXR4VU0yZURMa2ZieC1xZUhUV0lqOFNadzhYbFVFdGpGUzRGc1pvZEp4MS1kOTkzT25VM3NYUGc2cGJPZHQ1Nlo1aGV3aTlVRFEyc3JxMHlKSWlnazBTQ3pzWFJhM1owcUpZbEs2Wnp5MFEtNmVxZmMtdnlxNno?oc=5)
-
-2026-04-26 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMilAJBVV95cUxQdG1zckhLeGZUREZfVzhtTmRrYUVOcWFXSTNxaGlkWHFlX3BfNXRvRFlHREp3d0lZYldfU2NScFRDY1JQTkhCQzRlOEdLX0ozU0RQalNMM1F2Zm0wRG9qblJUTDQ4b0lMUUViQU9vSHNmZXRFLXBNbzFoWlJ6dmFmOWdZMlJVRXd0dkhKbFg2ZENPM0Z4ZFlvN3hlX1VUOXR4VU0yZURMa2ZieC1xZUhUV0lqOFNadzhYbFVFdGpGUzRGc1pvZEp4MS1kOTkzT25VM3NYUGc2cGJPZHQ1Nlo1aGV3aTlVRFEyc3JxMHlKSWlnazBTQ3pzWFJhM1owcUpZbEs2Wnp5MFEtNmVxZmMtdnlxNno?oc=5)
-
----
-
 ### [Santé: États-Unis: le cancer du rectum en forte hausse chez les jeunes](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUZwY2hBdGppM0VqMm55Q2xCcElvOXFGRmxZWG80UFZCdEt2di1nMHktbE1rSE9Ma2VXSEgwSFF3NXhCTU9IV2kxMEpjUTRUdkZhRDdCa1lZN25vT2oxeG53NGhXQVJ4ODNraWJSeUxSYmRuN1plcmNFb0wyV3I1OTZVYXN1cmlUTHU1QzUtSWVZQy0tWnI1NXh2VmJTSTVWV2RicDdQR1ZSSS1sdUppM2FoWQ?oc=5)
 
 2026-04-26 <span class="news-indication-tag">cancer</span>
@@ -154,7 +178,7 @@ permalink: /news/avanafil/
 
 2026-04-25 <span class="news-indication-tag">ictus</span>
 
-來源：[agi.it](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 

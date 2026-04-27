@@ -14,7 +14,7 @@ permalink: /news/crizotinib/
 ---
 
 <p class="key-answer" data-question="Crizotinib 有什麼相關新聞？">
-<strong>Crizotinib</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Crizotinib</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/crizotinib/
 <p><a href="{{ '/drugs/crizotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（17 則）
 
 ### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
@@ -62,11 +62,43 @@ permalink: /news/crizotinib/
 
 ---
 
+### [Middlesbrough social club raises £29,000 to support cancer patients at James Cook hospital - Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNOb21hcVV1ZGY5dTlhY3ZiUS1BNWpWOUdIY0ZUNTUwRW05WnVYVFdndWtsdVJyWktYU3VHRURqUzVXVGh6eXcwRjdwMmY3RUxJd2tzMUN5TVM3RXZLa3lpb212NjZZSjZZSVo5RkVxRExHQ0VHbC0wNXl5czV4QkNfRmpWX3JIMDlxTUxtY2FMcVZZQnVKV2d2dFE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNOb21hcVV1ZGY5dTlhY3ZiUS1BNWpWOUdIY0ZUNTUwRW05WnVYVFdndWtsdVJyWktYU3VHRURqUzVXVGh6eXcwRjdwMmY3RUxJd2tzMUN5TVM3RXZLa3lpb212NjZZSjZZSVo5RkVxRExHQ0VHbC0wNXl5czV4QkNfRmpWX3JIMDlxTUxtY2FMcVZZQnVKV2d2dFE?oc=5)
+
+---
+
+### [Vous pensiez la cigarette électronique inoffensive ? Cette étude révèle son terrible effet secondaire (et cela ne touche pas vos poumons)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzd2cTlkUjZMWkl6aXNBVE5Sb0psVDhGeFBqcU9iWC1uYW0wRlgxYmYtOGJEWkxFY3RNaFI5Wml5VjlEZGxVbUNzMnF6amtjamRwZlBjRkhkUG5jMGFZanlsQVpFNEtHV3NXbnpmWVFPWElTWGpVZENGTFRPZUpjeGszVGx3QlFPaktTTi1Nc2J5Q2w3V05TdzdZUE84U2RKNWdMVzlxeF8tam9MNmVWVmZEUVg1UlpWNmdfT3l2UkloUUpvMkk3TGdUMERodllWbGh1ZEhKOFhfNEpDWlc3ZFA2Y1UwRFYyS3hDQnNB?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzd2cTlkUjZMWkl6aXNBVE5Sb0psVDhGeFBqcU9iWC1uYW0wRlgxYmYtOGJEWkxFY3RNaFI5Wml5VjlEZGxVbUNzMnF6amtjamRwZlBjRkhkUG5jMGFZanlsQVpFNEtHV3NXbnpmWVFPWElTWGpVZENGTFRPZUpjeGszVGx3QlFPaktTTi1Nc2J5Q2w3V05TdzdZUE84U2RKNWdMVzlxeF8tam9MNmVWVmZEUVg1UlpWNmdfT3l2UkloUUpvMkk3TGdUMERodllWbGh1ZEhKOFhfNEpDWlc3ZFA2Y1UwRFYyS3hDQnNB?oc=5)
+
+---
+
 ### [El cáncer de testículo duplica su incidencia entre los 15 y 35 años, pero mantiene altos índices de supervivencia - Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">cancer</span>
 
 來源：[Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
+
+---
+
+### [ATS Brianza: lo screening al colon-retto può salvare vite](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Casateonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
+
+---
+
+### [Belfast woman’s cancer trauma: ‘I’m very, very lucky that I’m here to tell the tale’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYml3aThtcHFBWFkzOE9sSHZtYks5NlhldHhfN196Nzd4WVJ1djdTQkpROHRYcVMwYWpXUGo3VEpSNXcwQTlRVk45T3E0cXlwOF9vOHltV0JBNm51bzZkRl9VakFzVnJqR0NuYzdzOWtQam9vU3lnSlNNYmF3bDd1WHNqSkxCUzE2dUJRdUJsU1g1SHBtdmVrdHlUN1RPMmZZRGhaZGdDM25VRmpxNmNTZ3NRZlBWdnpFaHhrb0VQMlVyLWw4dTNPM1UzUUNjWWNRVnNRcFBrVjdqODZhVS0xRTcxOFZjQQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYml3aThtcHFBWFkzOE9sSHZtYks5NlhldHhfN196Nzd4WVJ1djdTQkpROHRYcVMwYWpXUGo3VEpSNXcwQTlRVk45T3E0cXlwOF9vOHltV0JBNm51bzZkRl9VakFzVnJqR0NuYzdzOWtQam9vU3lnSlNNYmF3bDd1WHNqSkxCUzE2dUJRdUJsU1g1SHBtdmVrdHlUN1RPMmZZRGhaZGdDM25VRmpxNmNTZ3NRZlBWdnpFaHhrb0VQMlVyLWw4dTNPM1UzUUNjWWNRVnNRcFBrVjdqODZhVS0xRTcxOFZjQQ?oc=5)
 
 ---
 
@@ -118,14 +150,6 @@ permalink: /news/crizotinib/
 
 ---
 
-### [Oubliez les traitements lourds : cette particule invisible "reprogramme" le système immunitaire pour détruire les 3 pires cancers existants (avant même leur apparition)](https://news.google.com/rss/articles/CBMilAJBVV95cUxQdG1zckhLeGZUREZfVzhtTmRrYUVOcWFXSTNxaGlkWHFlX3BfNXRvRFlHREp3d0lZYldfU2NScFRDY1JQTkhCQzRlOEdLX0ozU0RQalNMM1F2Zm0wRG9qblJUTDQ4b0lMUUViQU9vSHNmZXRFLXBNbzFoWlJ6dmFmOWdZMlJVRXd0dkhKbFg2ZENPM0Z4ZFlvN3hlX1VUOXR4VU0yZURMa2ZieC1xZUhUV0lqOFNadzhYbFVFdGpGUzRGc1pvZEp4MS1kOTkzT25VM3NYUGc2cGJPZHQ1Nlo1aGV3aTlVRFEyc3JxMHlKSWlnazBTQ3pzWFJhM1owcUpZbEs2Wnp5MFEtNmVxZmMtdnlxNno?oc=5)
-
-2026-04-26 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMilAJBVV95cUxQdG1zckhLeGZUREZfVzhtTmRrYUVOcWFXSTNxaGlkWHFlX3BfNXRvRFlHREp3d0lZYldfU2NScFRDY1JQTkhCQzRlOEdLX0ozU0RQalNMM1F2Zm0wRG9qblJUTDQ4b0lMUUViQU9vSHNmZXRFLXBNbzFoWlJ6dmFmOWdZMlJVRXd0dkhKbFg2ZENPM0Z4ZFlvN3hlX1VUOXR4VU0yZURMa2ZieC1xZUhUV0lqOFNadzhYbFVFdGpGUzRGc1pvZEp4MS1kOTkzT25VM3NYUGc2cGJPZHQ1Nlo1aGV3aTlVRFEyc3JxMHlKSWlnazBTQ3pzWFJhM1owcUpZbEs2Wnp5MFEtNmVxZmMtdnlxNno?oc=5)
-
----
-
 ### [The 50p supp to beat midlife fatigue, brittle hair & 'slash dementia risk' - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHdYdnFFT25oRTFHcGdaSHRJbEZ3MTBYRlNlWGNla1lPRUN0amZteXZXRXVHeWprOE5ldXpNMHVzQUt2NmdXUG0wa25CeUs0ZjI0Q2F6X3ppeHQtSUpKS1NrQS1iQlE0cDdkUEt5VlRnZlIwcUVUeFpXSGloOGtmeDJqYnlXR282aVJCc2NYLUhrSXZoODkxYw?oc=5)
 
 2026-04-26 <span class="news-indication-tag">dementia</span>
@@ -163,14 +187,6 @@ permalink: /news/crizotinib/
 2026-04-26 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
-
----
-
-### [Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
-
-2026-04-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epilepsy</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 
 ---
 

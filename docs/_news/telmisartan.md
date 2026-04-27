@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [José Manuel Felices es médico murciano y habla claro: "Un ictus no siempre te tuerce la cara o te paraliza un brazo. Al FAST que ya conocemos hay que añadirle el BE" - El Economista](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM0I0QXFRa293ZUlKTTJac041MWRYdXVRMkdmc2hVLUowcWxxRlRXTVA0cFAxSTVCOGZPRVZZdm9Lbk9mNzYtVFhFWU1UOUtEWmZMYWpHQnRlbWNTc1M3WThTa1c5bTVDWFJUNU8yemtURl9sSjd1Nmh2azZUZGdLbEUzWUVpVVVuXzJOQlE4cExyTW1vU3ZIbkpjQk90bW9FX3hjX1l4blF4aU93SnhxcWdvcWRxcm5zb213Q045all5NkhOZURtdWtLZ1JNRXNmY0dyaUR1Wkx0NHJQVndUSWlCNjdQdXlaMjE4UWhHYjZYcjA0T3p1LXhjUURqS0hHUVVTVndlbFVfSFdIU1FlaTNQRVlkOFpaZVlTWFVFcVNuUzdLTmlHT3RPY2hwdWJUd0NUNU93NDBBRng1VHlWQXlVX01SYWdNV19uV0M5aWMxY016SDhOLURTLUVrcHJVRXl1RlNB0gHQAkFVX3lxTE83YkZJQjkwX0N5cGJ2R2ROS1I2WHF5VmhQMHdWYUVGWnJ4eHpZREF3d0tsOFpFTlRsYVVFNnk3cWUzb0RhUFI2amdrLWh6UzlBc3pNOEx5TkRzMk1aN0V2bC11VmZ1NVVGdkJhVGRLXzZTVFE0THhub2t6RXZyQ0tFd1pxbVFBemV1R1RtemhiY2FneE9YNGxoNGtlX0JuOVRULVJPNEp6Y0V2WHBnb1hLbmNGUkwyUUd5ZUpTNlJCUjYxdG9zQ0lfZGg4RXpoM2FLQ3JKQmhlWWFxNnJubWtMME56eDhGUlA2cW5zRlB0ZTFhenhZMm8xaUdtN0g4b2F0OWphTllrdm9jUWwzc25qX29uamJVTmQtRTFLWTBKLS1aSWZuZ3VMdEtra1pDWDg5UnNrYUxLZEx1VHhPZm5EMEk4RkdrNnJzSVNoaFhfVw?oc=5)
+### [Neuro-Talk: Durchbruch bei der Schlaganfallforschung und erfreuliche Nachrichten für Kaffeetrinker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
 
-2026-04-27 <span class="news-indication-tag">ictus</span>
+2026-04-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM0I0QXFRa293ZUlKTTJac041MWRYdXVRMkdmc2hVLUowcWxxRlRXTVA0cFAxSTVCOGZPRVZZdm9Lbk9mNzYtVFhFWU1UOUtEWmZMYWpHQnRlbWNTc1M3WThTa1c5bTVDWFJUNU8yemtURl9sSjd1Nmh2azZUZGdLbEUzWUVpVVVuXzJOQlE4cExyTW1vU3ZIbkpjQk90bW9FX3hjX1l4blF4aU93SnhxcWdvcWRxcm5zb213Q045all5NkhOZURtdWtLZ1JNRXNmY0dyaUR1Wkx0NHJQVndUSWlCNjdQdXlaMjE4UWhHYjZYcjA0T3p1LXhjUURqS0hHUVVTVndlbFVfSFdIU1FlaTNQRVlkOFpaZVlTWFVFcVNuUzdLTmlHT3RPY2hwdWJUd0NUNU93NDBBRng1VHlWQXlVX01SYWdNV19uV0M5aWMxY016SDhOLURTLUVrcHJVRXl1RlNB0gHQAkFVX3lxTE83YkZJQjkwX0N5cGJ2R2ROS1I2WHF5VmhQMHdWYUVGWnJ4eHpZREF3d0tsOFpFTlRsYVVFNnk3cWUzb0RhUFI2amdrLWh6UzlBc3pNOEx5TkRzMk1aN0V2bC11VmZ1NVVGdkJhVGRLXzZTVFE0THhub2t6RXZyQ0tFd1pxbVFBemV1R1RtemhiY2FneE9YNGxoNGtlX0JuOVRULVJPNEp6Y0V2WHBnb1hLbmNGUkwyUUd5ZUpTNlJCUjYxdG9zQ0lfZGg4RXpoM2FLQ3JKQmhlWWFxNnJubWtMME56eDhGUlA2cW5zRlB0ZTFhenhZMm8xaUdtN0g4b2F0OWphTllrdm9jUWwzc25qX29uamJVTmQtRTFLWTBKLS1aSWZuZ3VMdEtra1pDWDg5UnNrYUxLZEx1VHhPZm5EMEk4RkdrNnJzSVNoaFhfVw?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
+
+---
+
+### [‘I thought I was doing everything right’: Crossmaglen dad, 40, shares shock heart failure diagnosis - Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+
+2026-04-27 <span class="news-indication-tag">heart failure</span>
+
+來源：[Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/telmisartan/
 2026-04-27 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Genotipia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2kxOFJqTnRxcjRXRUNhblNObEhXel9UYnU4R2gtbjc4c3R2cDVGOWN4eHliUFBHVnhnUVdfLURDM2JzOFIwYnhtSzlmd2RWV1FJNDZOX003NkdTNnFJcXFpSDdmSC1lWTdyMFo3T3ljUFd6bXVudll3NndRYUZZcENIWWMxM1RCM2xRMWNCcw?oc=5)
+
+---
+
+### [Après 70 ans, ce chiffre de tension peut alerter sur votre santé cardiaque - Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
+
+2026-04-27 <span class="news-indication-tag">hypertension</span>
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
 
 ---
 
@@ -82,7 +98,7 @@ permalink: /news/telmisartan/
 
 2026-04-25 <span class="news-indication-tag">ictus</span>
 
-來源：[agi.it](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
+來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 

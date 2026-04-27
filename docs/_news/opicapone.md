@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [The 50p supp to beat midlife fatigue, brittle hair & 'slash dementia risk' - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHdYdnFFT25oRTFHcGdaSHRJbEZ3MTBYRlNlWGNla1lPRUN0amZteXZXRXVHeWprOE5ldXpNMHVzQUt2NmdXUG0wa25CeUs0ZjI0Q2F6X3ppeHQtSUpKS1NrQS1iQlE0cDdkUEt5VlRnZlIwcUVUeFpXSGloOGtmeDJqYnlXR282aVJCc2NYLUhrSXZoODkxYw?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/opicapone/
 2026-04-26 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
-
----
-
-### [Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
-
-2026-04-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epilepsy</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 
 ---
 

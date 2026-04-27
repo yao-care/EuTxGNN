@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiopatía（heart disease） 相關新聞"
+title: "heart failure（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "cardiopatía（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "heart failure（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# cardiopatía（heart disease） 相關新聞
+# heart failure（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
-<strong>cardiopatía（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
+<strong>heart failure（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [‘I thought I was doing everything right’: Crossmaglen dad, 40, shares shock heart failure diagnosis - Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+
+2026-04-27
+
+來源：[Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+
+---
 
 ### [Nueva guía para implementar el asesoramiento genético en la miocardiopatía dilatada](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2kxOFJqTnRxcjRXRUNhblNObEhXel9UYnU4R2gtbjc4c3R2cDVGOWN4eHliUFBHVnhnUVdfLURDM2JzOFIwYnhtSzlmd2RWV1FJNDZOX003NkdTNnFJcXFpSDdmSC1lWTdyMFo3T3ljUFd6bXVudll3NndRYUZZcENIWWMxM1RCM2xRMWNCcw?oc=5)
 

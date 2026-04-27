@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Psoriasis: Wenn die Haut im Dauerstress steckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">psoriasis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
+
+---
 
 ### [Los determinantes sociales marcan el control de la diabetes más allá del tratamiento - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREpQdklOZUFMSURBeEd6a1RqQmJTUXpaNHB3dWs3X1RLY1lBVFlJOVFDZFB5S2h4TjhFcFVRUzNPX29GTUdlcllMRm1IV3A5WTZEdjB1dDZnT3cxaHVWMlQxUTNKS2xiTWNrQ1F1Ykc5R0s5QmwwbFpBSFpMclRObG5ya1k4cEpqU2phVWZSS2NnUm5uQVNXeV9VbzJwSkJXVE1iMWt4RTdjLWVkTDdHLXVjNHo2T3g2?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Cuando el corazón, los riñones y el metabolismo empeoran y tienes diabetes aumenta el riesgo de cáncer - La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR0gH2AUFVX3lxTE83eVEtaWp4Q0JXRnhrdmRWZ29zVXNDMm5OY0Nab3U2NzNaUndFZjI4ZGhRS3pKak5jZGtnWWZIX0FBNU9PcFNwUVNfZmRuSUtmY3BoeUNPOHh0LTBuMWU4bXU3ZFRIdEM0c1dZSEgweGxRM3h0cXFQVTVralhNeFJkbW1JU2ZOVHFWcUxoUWlCLWxHbkZOUzVkblVjR0ZEUmFLRlVpa0drODZBcEVXa1NtdXRERUZaZnpEU3RvQVdIOUlYakJZMERWQTBLdEhVN05RMGZCYnB2V0M1RV9qSHdRR0RENGU3ZjRDUThoTTNOZmpCQmJKQQ?oc=5)
+### [Cuando el corazón, los riñones y el metabolismo empeoran y tienes diabetes aumenta el riesgo de cáncer - La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR?oc=5)
 
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR0gH2AUFVX3lxTE83eVEtaWp4Q0JXRnhrdmRWZ29zVXNDMm5OY0Nab3U2NzNaUndFZjI4ZGhRS3pKak5jZGtnWWZIX0FBNU9PcFNwUVNfZmRuSUtmY3BoeUNPOHh0LTBuMWU4bXU3ZFRIdEM0c1dZSEgweGxRM3h0cXFQVTVralhNeFJkbW1JU2ZOVHFWcUxoUWlCLWxHbkZOUzVkblVjR0ZEUmFLRlVpa0drODZBcEVXa1NtdXRERUZaZnpEU3RvQVdIOUlYakJZMERWQTBLdEhVN05RMGZCYnB2V0M1RV9qSHdRR0RENGU3ZjRDUThoTTNOZmpCQmJKQQ?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR?oc=5)
 
 ---
 

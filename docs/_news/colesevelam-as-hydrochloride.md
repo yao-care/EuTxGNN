@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [‘I thought I was doing everything right’: Crossmaglen dad, 40, shares shock heart failure diagnosis - Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+
+2026-04-27 <span class="news-indication-tag">heart failure</span>
+
+來源：[Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+
+---
 
 ### [Los determinantes sociales marcan el control de la diabetes más allá del tratamiento - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREpQdklOZUFMSURBeEd6a1RqQmJTUXpaNHB3dWs3X1RLY1lBVFlJOVFDZFB5S2h4TjhFcFVRUzNPX29GTUdlcllMRm1IV3A5WTZEdjB1dDZnT3cxaHVWMlQxUTNKS2xiTWNrQ1F1Ykc5R0s5QmwwbFpBSFpMclRObG5ya1k4cEpqU2phVWZSS2NnUm5uQVNXeV9VbzJwSkJXVE1iMWt4RTdjLWVkTDdHLXVjNHo2T3g2?oc=5)
 
@@ -78,11 +86,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Cuando el corazón, los riñones y el metabolismo empeoran y tienes diabetes aumenta el riesgo de cáncer - La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR0gH2AUFVX3lxTE83eVEtaWp4Q0JXRnhrdmRWZ29zVXNDMm5OY0Nab3U2NzNaUndFZjI4ZGhRS3pKak5jZGtnWWZIX0FBNU9PcFNwUVNfZmRuSUtmY3BoeUNPOHh0LTBuMWU4bXU3ZFRIdEM0c1dZSEgweGxRM3h0cXFQVTVralhNeFJkbW1JU2ZOVHFWcUxoUWlCLWxHbkZOUzVkblVjR0ZEUmFLRlVpa0drODZBcEVXa1NtdXRERUZaZnpEU3RvQVdIOUlYakJZMERWQTBLdEhVN05RMGZCYnB2V0M1RV9qSHdRR0RENGU3ZjRDUThoTTNOZmpCQmJKQQ?oc=5)
+### [Cuando el corazón, los riñones y el metabolismo empeoran y tienes diabetes aumenta el riesgo de cáncer - La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR?oc=5)
 
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR0gH2AUFVX3lxTE83eVEtaWp4Q0JXRnhrdmRWZ29zVXNDMm5OY0Nab3U2NzNaUndFZjI4ZGhRS3pKak5jZGtnWWZIX0FBNU9PcFNwUVNfZmRuSUtmY3BoeUNPOHh0LTBuMWU4bXU3ZFRIdEM0c1dZSEgweGxRM3h0cXFQVTVralhNeFJkbW1JU2ZOVHFWcUxoUWlCLWxHbkZOUzVkblVjR0ZEUmFLRlVpa0drODZBcEVXa1NtdXRERUZaZnpEU3RvQVdIOUlYakJZMERWQTBLdEhVN05RMGZCYnB2V0M1RV9qSHdRR0RENGU3ZjRDUThoTTNOZmpCQmJKQQ?oc=5)
+來源：[La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR?oc=5)
 
 ---
 
