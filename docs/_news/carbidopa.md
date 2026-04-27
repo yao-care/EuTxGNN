@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
 ### [The 50p supp to beat midlife fatigue, brittle hair & 'slash dementia risk' - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHdYdnFFT25oRTFHcGdaSHRJbEZ3MTBYRlNlWGNla1lPRUN0amZteXZXRXVHeWprOE5ldXpNMHVzQUt2NmdXUG0wa25CeUs0ZjI0Q2F6X3ppeHQtSUpKS1NrQS1iQlE0cDdkUEt5VlRnZlIwcUVUeFpXSGloOGtmeDJqYnlXR282aVJCc2NYLUhrSXZoODkxYw?oc=5)
 
-2026-04-26 <span class="news-indication-tag">dementia</span>
+2026-04-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHdYdnFFT25oRTFHcGdaSHRJbEZ3MTBYRlNlWGNla1lPRUN0amZteXZXRXVHeWprOE5ldXpNMHVzQUt2NmdXUG0wa25CeUs0ZjI0Q2F6X3ppeHQtSUpKS1NrQS1iQlE0cDdkUEt5VlRnZlIwcUVUeFpXSGloOGtmeDJqYnlXR282aVJCc2NYLUhrSXZoODkxYw?oc=5)
+
+---
+
+### ['My husband aced the memory tests - but I knew it was dementia'](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzhDMFljQ21zQ2RQbXJXbXd3VkEtaHlKZUlaZ203LTh4R000WDFGdmYydHJianN4NVJZYmQ0LUdDR3RrWXJzTEhzb2hLcUFrU0FLc1l2NnplNmZBeXV5MFhob1lNc25DM0wtMUl1LTNxOThVcnktRmxUdHNXbFhXbUhmbi1wX2VIbDFR?oc=5)
+
+2026-04-26 <span class="news-indication-tag">dementia</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzhDMFljQ21zQ2RQbXJXbXd3VkEtaHlKZUlaZ203LTh4R000WDFGdmYydHJianN4NVJZYmQ0LUdDR3RrWXJzTEhzb2hLcUFrU0FLc1l2NnplNmZBeXV5MFhob1lNc25DM0wtMUl1LTNxOThVcnktRmxUdHNXbFhXbUhmbi1wX2VIbDFR?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/carbidopa/
 2026-04-26 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
+
+---
+
+### [El microbioma intestinal podría indicar el riesgo de padecer Párkinson](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNacWt5U3hqWEdjbXZzMnNjbU1BUnJCLUZoTFZfZE9WTGY3a2pieDlSZk1BTFlNd1NJVGJaUlpRZHdMOUdtRjE0RWoxVUw2TnprSF9KLUFUN3ZUdXY2NHBIa3RWNjlqMDNtSE82S3NMQzdfamJUZW41dmZnQnpFZ0lxQ2V2OUNuTzZ5QXl3SEFSUlI5MFl3cTA5YUh4OVR5VEJ1dWhjNGRSWDBhRkgza1RFTG05VVdWUy1CTDdn?oc=5)
+
+2026-04-25 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNacWt5U3hqWEdjbXZzMnNjbU1BUnJCLUZoTFZfZE9WTGY3a2pieDlSZk1BTFlNd1NJVGJaUlpRZHdMOUdtRjE0RWoxVUw2TnprSF9KLUFUN3ZUdXY2NHBIa3RWNjlqMDNtSE82S3NMQzdfamJUZW41dmZnQnpFZ0lxQ2V2OUNuTzZ5QXl3SEFSUlI5MFl3cTA5YUh4OVR5VEJ1dWhjNGRSWDBhRkgza1RFTG05VVdWUy1CTDdn?oc=5)
 
 ---
 

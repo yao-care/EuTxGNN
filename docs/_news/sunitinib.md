@@ -14,7 +14,7 @@ permalink: /news/sunitinib/
 ---
 
 <p class="key-answer" data-question="Sunitinib 有什麼相關新聞？">
-<strong>Sunitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sunitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sunitinib/
 <p><a href="{{ '/drugs/sunitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
 
 ### [Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
 
 2026-04-26 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
+
+---
+
+### [Oubliez les traitements lourds : cette particule invisible "reprogramme" le système immunitaire pour détruire les 3 pires cancers existants (avant même leur apparition)](https://news.google.com/rss/articles/CBMilAJBVV95cUxQdG1zckhLeGZUREZfVzhtTmRrYUVOcWFXSTNxaGlkWHFlX3BfNXRvRFlHREp3d0lZYldfU2NScFRDY1JQTkhCQzRlOEdLX0ozU0RQalNMM1F2Zm0wRG9qblJUTDQ4b0lMUUViQU9vSHNmZXRFLXBNbzFoWlJ6dmFmOWdZMlJVRXd0dkhKbFg2ZENPM0Z4ZFlvN3hlX1VUOXR4VU0yZURMa2ZieC1xZUhUV0lqOFNadzhYbFVFdGpGUzRGc1pvZEp4MS1kOTkzT25VM3NYUGc2cGJPZHQ1Nlo1aGV3aTlVRFEyc3JxMHlKSWlnazBTQ3pzWFJhM1owcUpZbEs2Wnp5MFEtNmVxZmMtdnlxNno?oc=5)
+
+2026-04-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMilAJBVV95cUxQdG1zckhLeGZUREZfVzhtTmRrYUVOcWFXSTNxaGlkWHFlX3BfNXRvRFlHREp3d0lZYldfU2NScFRDY1JQTkhCQzRlOEdLX0ozU0RQalNMM1F2Zm0wRG9qblJUTDQ4b0lMUUViQU9vSHNmZXRFLXBNbzFoWlJ6dmFmOWdZMlJVRXd0dkhKbFg2ZENPM0Z4ZFlvN3hlX1VUOXR4VU0yZURMa2ZieC1xZUhUV0lqOFNadzhYbFVFdGpGUzRGc1pvZEp4MS1kOTkzT25VM3NYUGc2cGJPZHQ1Nlo1aGV3aTlVRFEyc3JxMHlKSWlnazBTQ3pzWFJhM1owcUpZbEs2Wnp5MFEtNmVxZmMtdnlxNno?oc=5)
+
+---
+
+### [Santé: États-Unis: le cancer du rectum en forte hausse chez les jeunes](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUZwY2hBdGppM0VqMm55Q2xCcElvOXFGRmxZWG80UFZCdEt2di1nMHktbE1rSE9Ma2VXSEgwSFF3NXhCTU9IV2kxMEpjUTRUdkZhRDdCa1lZN25vT2oxeG53NGhXQVJ4ODNraWJSeUxSYmRuN1plcmNFb0wyV3I1OTZVYXN1cmlUTHU1QzUtSWVZQy0tWnI1NXh2VmJTSTVWV2RicDdQR1ZSSS1sdUppM2FoWQ?oc=5)
+
+2026-04-26 <span class="news-indication-tag">cancer</span>
+
+來源：[L'essentiel](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUZwY2hBdGppM0VqMm55Q2xCcElvOXFGRmxZWG80UFZCdEt2di1nMHktbE1rSE9Ma2VXSEgwSFF3NXhCTU9IV2kxMEpjUTRUdkZhRDdCa1lZN25vT2oxeG53NGhXQVJ4ODNraWJSeUxSYmRuN1plcmNFb0wyV3I1OTZVYXN1cmlUTHU1QzUtSWVZQy0tWnI1NXh2VmJTSTVWV2RicDdQR1ZSSS1sdUppM2FoWQ?oc=5)
 
 ---
 
@@ -94,11 +110,19 @@ permalink: /news/sunitinib/
 
 ---
 
-### [Etats-Unis: une avancée prometteuse face au cancer le plus mortel](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVc0cUw3T1JXdjI1bjFKZmo1cTFzNnV5bFlDZ1RrTmVnM1psOHFLQVBrUG00bGJTbUtJc19DaHh2YktFUEFDTVlCMG54aXk0YVBjQklwYTl4TGpxbVZzeGpVeTZIV1dlUmRuUHFsbWJYd25LakZGQ3NmNW4tRTd5aldzNGJDWVNMMUdPbk5UNFdoU0pNRjhiODRIN053TlVZUE5fSG9SZw?oc=5)
+### [Ce médicament très prometteur contre le cancer testé avec succès au CHU Grenoble-Alpes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR04zUjU0R25aMVFyczU2QXV3MlVoT0FFb3B6UjRfWXlzOU1oZEFnVnlZSWdQTnFNSHpPVEJIM0NzWUpmcXZ1NFUtU0duM2wyUU1YWDNwTVpWR0FfTXZ2Y0pqTWMzUENYZ0FxMHFWZ2tQOGpuemxFNUZGR1ZUcWhLellHdFYzeHNqXzVkZEhYN01EWVVXVWlzdlozcWl6REdrM2M0dVh3MkxISlRUWnVGWW9YYzEtbnNIR3N5ekp1QXA4ZFp0eXBSZDVSejlaWWpocWNLTHJZcDBSYndPT25aVWRnMHp2RFE?oc=5)
 
 2026-04-25 <span class="news-indication-tag">cancer</span>
 
-來源：[L'essentiel](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVc0cUw3T1JXdjI1bjFKZmo1cTFzNnV5bFlDZ1RrTmVnM1psOHFLQVBrUG00bGJTbUtJc19DaHh2YktFUEFDTVlCMG54aXk0YVBjQklwYTl4TGpxbVZzeGpVeTZIV1dlUmRuUHFsbWJYd25LakZGQ3NmNW4tRTd5aldzNGJDWVNMMUdPbk5UNFdoU0pNRjhiODRIN053TlVZUE5fSG9SZw?oc=5)
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR04zUjU0R25aMVFyczU2QXV3MlVoT0FFb3B6UjRfWXlzOU1oZEFnVnlZSWdQTnFNSHpPVEJIM0NzWUpmcXZ1NFUtU0duM2wyUU1YWDNwTVpWR0FfTXZ2Y0pqTWMzUENYZ0FxMHFWZ2tQOGpuemxFNUZGR1ZUcWhLellHdFYzeHNqXzVkZEhYN01EWVVXVWlzdlozcWl6REdrM2M0dVh3MkxISlRUWnVGWW9YYzEtbnNIR3N5ekp1QXA4ZFp0eXBSZDVSejlaWWpocWNLTHJZcDBSYndPT25aVWRnMHp2RFE?oc=5)
+
+---
+
+### [El latido del corazón es el «escudo» natural que impide que el órgano sufra cáncer](https://news.google.com/rss/articles/CBMingFBVV95cUxORmdLcEpBRXlDSS1nNE9GRzVsYnhYdXo4RENQXzVrakJPbVpFNFo3RmtSaDhoZFZjdGtxVnZ1NzhJd3NLeFp5cUNiV0I4QjM5OUkydnJXa25TSUpGX1FHZnQzaGVxc3BqYzg3V3d4akxjLWRRR25JTWtSVHJ3LTd1c0k0RU9BdDlVTzJQSzBlclcxRGtONUZhazVDU3prZ9IBowFBVV95cUxPeGlzWHkwWnVCRXpMMHNIak1GalNXVWVjSTdCM3E5SE5YWVBfODlKQjI4VUZUTmEzMTRMOHFXbTZlV0RkMEFaM2xBdlN4RnFyOWJXTTh4Ry1ZYkZjZmVWUUFBdmFDQ0oyYUVzWUduOG05M1MxdFZIY1F2a3dJajVoSm5LdFN6RG45dUN4NHpZalR6T19mYy1LZThOTEdMMndlblF3?oc=5)
+
+2026-04-25 <span class="news-indication-tag">tumor</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMingFBVV95cUxORmdLcEpBRXlDSS1nNE9GRzVsYnhYdXo4RENQXzVrakJPbVpFNFo3RmtSaDhoZFZjdGtxVnZ1NzhJd3NLeFp5cUNiV0I4QjM5OUkydnJXa25TSUpGX1FHZnQzaGVxc3BqYzg3V3d4akxjLWRRR25JTWtSVHJ3LTd1c0k0RU9BdDlVTzJQSzBlclcxRGtONUZhazVDU3prZ9IBowFBVV95cUxPeGlzWHkwWnVCRXpMMHNIak1GalNXVWVjSTdCM3E5SE5YWVBfODlKQjI4VUZUTmEzMTRMOHFXbTZlV0RkMEFaM2xBdlN4RnFyOWJXTTh4Ry1ZYkZjZmVWUUFBdmFDQ0oyYUVzWUduOG05M1MxdFZIY1F2a3dJajVoSm5LdFN6RG45dUN4NHpZalR6T19mYy1LZThOTEdMMndlblF3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
 ### [UK Travellers at Alert: Warning of Fatal Disease Cases Surge | Check Destinations on Alert, Advice for Travellers, Fever Symptoms & More - The Sunday Guardian](https://news.google.com/rss/articles/CBMihAJBVV95cUxNSjJ5TkNNUi0wZFBLT2pVdXRqSFpSZzl2b1JxRHR4UmtwUlhUVUFZVkE3bEkxNWRaNkhtcEFtdjkyUVlTX1VaeGhMOTBxdWM2S05OTHVfS3BRMjVvaDVuSi13STZKeDJKWTRzeFo4LTlGRWk3TmhhMGZ6eFdrNzA1WmF5NlBFdlZWSmR4eDNZdzJfdzlqSXd4dkF4S0Y0MnlYSFZsNUtzdWpWYS1yWUxleXNRT0Y3S1lHUlJKQXpVTWw5MndsVHBQaUU2N3E4X0JDNmdiZllHSXVYTWRSakZ5dzNSdjlOVUVlaW9wNWtKLVNkX0h3Nm1nZjhtZ1d5RUQ1eEd6ag?oc=5)
 
 2026-04-26 <span class="news-indication-tag">MS</span>
 
 來源：[The Sunday Guardian](https://news.google.com/rss/articles/CBMihAJBVV95cUxNSjJ5TkNNUi0wZFBLT2pVdXRqSFpSZzl2b1JxRHR4UmtwUlhUVUFZVkE3bEkxNWRaNkhtcEFtdjkyUVlTX1VaeGhMOTBxdWM2S05OTHVfS3BRMjVvaDVuSi13STZKeDJKWTRzeFo4LTlGRWk3TmhhMGZ6eFdrNzA1WmF5NlBFdlZWSmR4eDNZdzJfdzlqSXd4dkF4S0Y0MnlYSFZsNUtzdWpWYS1yWUxleXNRT0Y3S1lHUlJKQXpVTWw5MndsVHBQaUU2N3E4X0JDNmdiZllHSXVYTWRSakZ5dzNSdjlOVUVlaW9wNWtKLVNkX0h3Nm1nZjhtZ1d5RUQ1eEd6ag?oc=5)
+
+---
+
+### [Früherkennung von Demenz: Neue Bluttests revolutionieren Diagnostik - AD HOC NEWS](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjZpbjFLcGwzb1Ixa2p3TjNKV0p4R3VXcFp3aTE5TDlYeFNYV1ByNDF3WUxvdy1LaERJeno2bzVLTzhlbW9ndFhoZ1VJdlR3MFE1NVJXN3QtZXhlUHpDWWRfLUJCN3ZYUUVWWTNRZ1o5dUpjZmU5WEstWG5EWEptYjhOSk1OTTRueVNYMFFxal9LcDdRcGVpWFMwdnNxUWVZZ0JJZm1DRkVCdl9SM3BmUDBLWjNLTTJLcWtTblhldkF1MExo?oc=5)
+
+2026-04-26 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjZpbjFLcGwzb1Ixa2p3TjNKV0p4R3VXcFp3aTE5TDlYeFNYV1ByNDF3WUxvdy1LaERJeno2bzVLTzhlbW9ndFhoZ1VJdlR3MFE1NVJXN3QtZXhlUHpDWWRfLUJCN3ZYUUVWWTNRZ1o5dUpjZmU5WEstWG5EWEptYjhOSk1OTTRueVNYMFFxal9LcDdRcGVpWFMwdnNxUWVZZ0JJZm1DRkVCdl9SM3BmUDBLWjNLTTJLcWtTblhldkF1MExo?oc=5)
 
 ---
 
@@ -86,22 +94,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Simple ‘metabolic reset’ found to prevent weight rebound after discontinuing GLP-1 drugs](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pmQXM1N0pUTlZBQmRhR2lPQTRmNjF4b2ZZemRjSklMZ3RPMGIyVnpPTXd1cnZYYWY4QXdVb1hONUpVdjNQUlgwc1JYd1hNYTNFX3dyNkI1MlhPbm9yLUpFVUI1bGpxN3hMdTV5ZEtmRUhNQUhjbFM5TTZGRHlXdlBwWjE2ekU?oc=5)
-
-2026-04-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AOL.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pmQXM1N0pUTlZBQmRhR2lPQTRmNjF4b2ZZemRjSklMZ3RPMGIyVnpPTXd1cnZYYWY4QXdVb1hONUpVdjNQUlgwc1JYd1hNYTNFX3dyNkI1MlhPbm9yLUpFVUI1bGpxN3hMdTV5ZEtmRUhNQUhjbFM5TTZGRHlXdlBwWjE2ekU?oc=5)
-
----
-
-### [Depression treatment is shifting, and this mushroom-derived compound is driving one of psychiatry's biggest new tests - Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0VZN0dzU0FfbFFZSDE4cm40azFFRS01RGF6MEpvRTl3cG1RazU4cDFVOW44dENTWFpNQWxwa0FRakhpYkJuZTczeHVHSDRmOWlPcjdXUEV3eWxraWJfLVh6ckx2UHpwZmFnMHp6b0NOOHFsSmdtb3VZd2ExMEZKRTNvdmZtZnFEeFBmYmgzMnhMQkpZ?oc=5)
-
-2026-04-25 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0VZN0dzU0FfbFFZSDE4cm40azFFRS01RGF6MEpvRTl3cG1RazU4cDFVOW44dENTWFpNQWxwa0FRakhpYkJuZTczeHVHSDRmOWlPcjdXUEV3eWxraWJfLVh6ckx2UHpwZmFnMHp6b0NOOHFsSmdtb3VZd2ExMEZKRTNvdmZtZnFEeFBmYmgzMnhMQkpZ?oc=5)
-
----
-
 ### [Surgeon names 5 things to avoid to live longer — alcohol not on the list](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
 
 2026-04-25 <span class="news-indication-tag">MS</span>
@@ -126,19 +118,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Woman's harrowing last four words as she dies of lung problems after vaping habit](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlU1bjkyaVN6YlgxOThyYVVWbVJwTXpJRHE2S3RpZWpCREI3N2NsRU1zM0F1R0ZOQnVSRWlCLXNCNTRTZ3FTcjJkUERvT0tSQUFRT1U1TVpoN3k2VHFjYlFaRWdVbjZGVjVqdXF1TXdkMFpRRGpLWFByVjA0T3dkNXNCT3R2YnFzMFhFWHVB0gGTAUFVX3lxTE1KSDRieC1ZTWZWc1JQN1RiaGg5a0NMX0FaYXg0THdTbmR2cHpyOVlPdWVJX0k1Tk9xRHozbUhEei0yWkRIOVJPdlhUN2lNQ1BLOEpMclNFOUZZdDlsQ2FmcjBVeHhHUEgwaXRwVGlaQ0NvMGx1Rk55QmYxbnRNOHZpUC1nZi1WOFJ2bFc1Q2pOZTJfUQ?oc=5)
+### [La OMS pide inversión contra la malaria en África, la zona más golpeada por la enfermedad](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVThPUVptSy12d0Y0djhkLWlyQXMxOUFtV0t1VzRaU3pldTU0X1FRNEJkNmxQSmNJV3g1aUhfQnRxS2hlRlh1bGF4dkVPRkZfQW1zeklrSXh5eW9QSDlDdlpYQUo1d0xyNVk0dFg1YzhjUFBncjFVQVQ1ZEo3WmdVRnVFR1EtV0VzVHFENWVtSVBNU01ZYzJJMTBBQWhuWHQ0bl92WlpZb3VjcG5iSm43REVQOGQzb1hSOFNpZzhvY1p5ck40MTNtSkdRSW5kLVhEM0JEXzRvRTTSAfMBQVVfeXFMTlZSN3h6VU5ORGZiUVVORms0UHhfQjdfb1hzWDlGMXd5N2cxakJxdVY4TGFDNm5jZzIxa0hnbFJMeU1na2xSZV9mTXdiT3JoaGdvVzFzMFF1X3laUHExczZaNDJ2QlcyekViT05kNXVpc2o0MHN1THFnWjQzczJ2SXNfWXVMeldJXzZGd19pSGhISjZFdkpjRDluRk9EN2Z4SDhLR2hIVWMyUDBhYnpoMFBsNHpTaTFXVTJyNGszNjNvd0Ixem52TVhvNkYwclJMaHpyQWVCTEZlS3AxMHFGVkRpSDhxV1BiRjYzSmM0Q3djQ2Fv?oc=5)
 
-2026-04-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-25 <span class="news-indication-tag">MS</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlU1bjkyaVN6YlgxOThyYVVWbVJwTXpJRHE2S3RpZWpCREI3N2NsRU1zM0F1R0ZOQnVSRWlCLXNCNTRTZ3FTcjJkUERvT0tSQUFRT1U1TVpoN3k2VHFjYlFaRWdVbjZGVjVqdXF1TXdkMFpRRGpLWFByVjA0T3dkNXNCT3R2YnFzMFhFWHVB0gGTAUFVX3lxTE1KSDRieC1ZTWZWc1JQN1RiaGg5a0NMX0FaYXg0THdTbmR2cHpyOVlPdWVJX0k1Tk9xRHozbUhEei0yWkRIOVJPdlhUN2lNQ1BLOEpMclNFOUZZdDlsQ2FmcjBVeHhHUEgwaXRwVGlaQ0NvMGx1Rk55QmYxbnRNOHZpUC1nZi1WOFJ2bFc1Q2pOZTJfUQ?oc=5)
-
----
-
-### [Notdienst heute in Oldenburg Oldenburg: Welche Apotheken haben am Samstag Bereitschaft?](https://news.google.com/rss/articles/CBMikAJBVV95cUxNVUVNN2R5TnNUN0kycHJ1cnF4ODViQWVUWHB5SkRvSGhNTXJfclpHVU44X2tpQmpaRExtZjJ0alk0ZkRkNEdLSmRNMXZ5ckxqVjR0ZkV3UThCQUk3ZVBoZ0hxcm1admhaUGpiUzJQSUFKTTBIdmxRNEU4aWFVXzduMWhHdkVEUFVXakc2MDlqWEFRbkRvNDJUdk9FVGp4MDZwMG5ld3dqRWdwdVdxUnlHZzlUMHk2Y2hOLXBuVGJBZzdhNE1JTjJKQUlLbDBodTM2eTVwNXdxd01IRExEbk1oRktnc1lmYmhrLThTcjA2YWlnUnBNU2V2VjF1QWhTanVuYWtjV0c3NS1BSWUwZGlqbdIBlgJBVV95cUxNWnBkaktWc0MyMWJjR3FfWjBWYzFCU3RMenZSMFR3YXFwYzdFQm1SMk1nSnp4eDQxajJ0VFA2VHJRU0hZVFAtS3NyUHFmc2dCakhxUWZnS1FSRm5oMTZSdW4zRURDcGpobUpiVHliYVViWjNScVVsdmFDSnNTSWtqNDBzaHVhbVRIbkgyc2FDamdHb3J0a2xMZ011SlNwMVJsTG5hZWtTOWNWVlBqdFY2Y0p1aWZBQWxUZjNjcE81QXdJR3lvd0VVQmRtbE5pN0xSUURwMWhqZzdndWxRd09jVTJRUjR4dXJuUUtPZ3JEaGl1ckNvSmVuTi1nV05SeHdOMnctQjU5cGpuUWFadExqOHNtZjJHdw?oc=5)
-
-2026-04-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMikAJBVV95cUxNVUVNN2R5TnNUN0kycHJ1cnF4ODViQWVUWHB5SkRvSGhNTXJfclpHVU44X2tpQmpaRExtZjJ0alk0ZkRkNEdLSmRNMXZ5ckxqVjR0ZkV3UThCQUk3ZVBoZ0hxcm1admhaUGpiUzJQSUFKTTBIdmxRNEU4aWFVXzduMWhHdkVEUFVXakc2MDlqWEFRbkRvNDJUdk9FVGp4MDZwMG5ld3dqRWdwdVdxUnlHZzlUMHk2Y2hOLXBuVGJBZzdhNE1JTjJKQUlLbDBodTM2eTVwNXdxd01IRExEbk1oRktnc1lmYmhrLThTcjA2YWlnUnBNU2V2VjF1QWhTanVuYWtjV0c3NS1BSWUwZGlqbdIBlgJBVV95cUxNWnBkaktWc0MyMWJjR3FfWjBWYzFCU3RMenZSMFR3YXFwYzdFQm1SMk1nSnp4eDQxajJ0VFA2VHJRU0hZVFAtS3NyUHFmc2dCakhxUWZnS1FSRm5oMTZSdW4zRURDcGpobUpiVHliYVViWjNScVVsdmFDSnNTSWtqNDBzaHVhbVRIbkgyc2FDamdHb3J0a2xMZ011SlNwMVJsTG5hZWtTOWNWVlBqdFY2Y0p1aWZBQWxUZjNjcE81QXdJR3lvd0VVQmRtbE5pN0xSUURwMWhqZzdndWxRd09jVTJRUjR4dXJuUUtPZ3JEaGl1ckNvSmVuTi1nV05SeHdOMnctQjU5cGpuUWFadExqOHNtZjJHdw?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVThPUVptSy12d0Y0djhkLWlyQXMxOUFtV0t1VzRaU3pldTU0X1FRNEJkNmxQSmNJV3g1aUhfQnRxS2hlRlh1bGF4dkVPRkZfQW1zeklrSXh5eW9QSDlDdlpYQUo1d0xyNVk0dFg1YzhjUFBncjFVQVQ1ZEo3WmdVRnVFR1EtV0VzVHFENWVtSVBNU01ZYzJJMTBBQWhuWHQ0bl92WlpZb3VjcG5iSm43REVQOGQzb1hSOFNpZzhvY1p5ck40MTNtSkdRSW5kLVhEM0JEXzRvRTTSAfMBQVVfeXFMTlZSN3h6VU5ORGZiUVVORms0UHhfQjdfb1hzWDlGMXd5N2cxakJxdVY4TGFDNm5jZzIxa0hnbFJMeU1na2xSZV9mTXdiT3JoaGdvVzFzMFF1X3laUHExczZaNDJ2QlcyekViT05kNXVpc2o0MHN1THFnWjQzczJ2SXNfWXVMeldJXzZGd19pSGhISjZFdkpjRDluRk9EN2Z4SDhLR2hIVWMyUDBhYnpoMFBsNHpTaTFXVTJyNGszNjNvd0Ixem52TVhvNkYwclJMaHpyQWVCTEZlS3AxMHFGVkRpSDhxV1BiRjYzSmM0Q3djQ2Fv?oc=5)
 
 ---
 
