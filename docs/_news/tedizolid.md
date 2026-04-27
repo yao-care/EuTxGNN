@@ -54,11 +54,11 @@ permalink: /news/tedizolid/
 
 ## 相關新聞（1 則）
 
-### [Mit Mut, Disziplin und moderner Medizin: COPD-Patient lebt trotz schwerer Lungenerkrankung ein aktives Leben - Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
+### [Aktualisierte S2k-Leitlinie COPD 2026: Individualisierte Pharmakotherapie im Fokus - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0lPcUxrUnhhN05Hb0RIS2UyQWlKdWotNGtYS0xPQmpYNVl4TGtIeVRXeU1OQm9LWFdrQnVIRjNqb01SQnhRbjFzbGVoUkJUaXZFMk9sQnhnTUZYZGJ6UjhiOTNsaWVwYXZ3ZENwZFQ0NGlZYUtNWjY4VWpXaUhYcHJVWFZvWmNLLUpQWG5XZw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">copd</span>
 
-來源：[Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0lPcUxrUnhhN05Hb0RIS2UyQWlKdWotNGtYS0xPQmpYNVl4TGtIeVRXeU1OQm9LWFdrQnVIRjNqb01SQnhRbjFzbGVoUkJUaXZFMk9sQnhnTUZYZGJ6UjhiOTNsaWVwYXZ3ZENwZFQ0NGlZYUtNWjY4VWpXaUhYcHJVWFZvWmNLLUpQWG5XZw?oc=5)
 
 ---
 

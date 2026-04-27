@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "artritis（arthritis） 相關新聞"
+title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artritis（arthritis） 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# artritis（arthritis） 相關新聞
+# arthritis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="artritis（arthritis） 有什麼相關新聞？">
-<strong>artritis（arthritis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
+<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「artritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -103,11 +103,11 @@ permalink: /news/arthritis/
 
 ## 相關新聞（1 則）
 
-### [El precio de los medicamentos para Parkinson, Covid o artritis en la sanidad pública de la Comunitat - La Razón](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTFh2UTFGTjdpaHFwVWhnMUszSGl4U0gybVN2elIwY3FxWE5LVGoxQ3ZHclNGajYzRVI5RWJKeUc1bzNxQ05KTlZZME15ZW42ajh6c09SUjFSWks2TjYxMU1STFZqS0s5QkV1SkRlcnNoSkxTam5Yelp1ZnJ6dXBxNkxBTnZsQ2hZVnZWb1JYdTdjSXdzdXIwRHFEN2psdTdzMGV2NnR2RTkySjg3ejRFZnF0dGlpcnE4WUpCdkRFYTFtd2ZTdi1US0NMS1FFNGdJVFZnWVd1M2g5NHBXVlM0MW1peVdsQlRyam12MWJRTVJNTWJnMkFLaDVOOG9YUEY0MG5Lc3JkdTBYVGt0VHhrWE1BcW9PNm1PVEViQmR0OFBGbDjSAbcCQVVfeXFMTU4yU0xqaDRTLVpQcEI5dTRoMzU1VUJFZmtfS2NvVFNHLUFhUXZPM3ZVMUstNGwxMV9qYm91cVNVT3J5RlBuTWxzZDRwRjIwWExmd0tGTm91bEpxbDBuc1JBVTlzOFVnZzIxWk91bjlXYWJmc1JCWnY1RUtqZjFRM2hPeUhUYkMtNFdlNjNWWUszRFYtZDg1bmpQb0ZQRW1lbjRKWG93ZG85dFc4bU5BckZCbFQydkFLdW1OcENSMmJkWjR0M01heU1ibUNIbHZaWE96LTQwTXFHZGUwVEtFSk9pZUVNeEJEcXNBZjJ5U2NLTndUTjFOV3I5RzdpelBRY2xRU2Q5V1V5ODQtTE1DLVYwNkp1VGdBWUtjUlZBdEs0RlQ5REZjUnhRRjhVY3hzMjFkUDlpbjg?oc=5)
+### [DGIM 2026: Arthralgie oder Arthritis? Differenzialdiagnostik schmerzhafter Gelenke - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
 
-2026-04-25
+2026-04-27
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTFh2UTFGTjdpaHFwVWhnMUszSGl4U0gybVN2elIwY3FxWE5LVGoxQ3ZHclNGajYzRVI5RWJKeUc1bzNxQ05KTlZZME15ZW42ajh6c09SUjFSWks2TjYxMU1STFZqS0s5QkV1SkRlcnNoSkxTam5Yelp1ZnJ6dXBxNkxBTnZsQ2hZVnZWb1JYdTdjSXdzdXIwRHFEN2psdTdzMGV2NnR2RTkySjg3ejRFZnF0dGlpcnE4WUpCdkRFYTFtd2ZTdi1US0NMS1FFNGdJVFZnWVd1M2g5NHBXVlM0MW1peVdsQlRyam12MWJRTVJNTWJnMkFLaDVOOG9YUEY0MG5Lc3JkdTBYVGt0VHhrWE1BcW9PNm1PVEViQmR0OFBGbDjSAbcCQVVfeXFMTU4yU0xqaDRTLVpQcEI5dTRoMzU1VUJFZmtfS2NvVFNHLUFhUXZPM3ZVMUstNGwxMV9qYm91cVNVT3J5RlBuTWxzZDRwRjIwWExmd0tGTm91bEpxbDBuc1JBVTlzOFVnZzIxWk91bjlXYWJmc1JCWnY1RUtqZjFRM2hPeUhUYkMtNFdlNjNWWUszRFYtZDg1bmpQb0ZQRW1lbjRKWG93ZG85dFc4bU5BckZCbFQydkFLdW1OcENSMmJkWjR0M01heU1ibUNIbHZaWE96LTQwTXFHZGUwVEtFSk9pZUVNeEJEcXNBZjJ5U2NLTndUTjFOV3I5RzdpelBRY2xRU2Q5V1V5ODQtTE1DLVYwNkp1VGdBWUtjUlZBdEs0RlQ5REZjUnhRRjhVY3hzMjFkUDlpbjg?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
 
 ---
 

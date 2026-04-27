@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Empresas.- Avances en esclerosis múltiple con su aprendizaje y uso de biomarcadores centran el 'NeuroSummit' de Roche](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLTd4WGM4dkJCc3dtTFRqd0pOQjFuUklhV3pGNExxWEVsc0QzelpudGlKcjV6dXJPZmdKdnA2di1TMlpsXzkwMzJIcHRlWXllREN6OGxJWTFBbVR5ZGtwaldETS1vMHNCRUxTNmFULW00ZEVSbzIyVXpiOTN3ZDNUMUNqd252Skg3MzdEYjBHSDdMY3d1bkdsOGJIQzVCeXlYZ1c1M2g2REZIeGJLeDdWajVORThlVEUwZjlHWlgxZ3RNeVVCaktFQ1RPdWdGSTRZZDU2ZWZ6WXdEQ2xCdFljQjZiOHQ0MERoY3czMDlR?oc=5)
+
+2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLTd4WGM4dkJCc3dtTFRqd0pOQjFuUklhV3pGNExxWEVsc0QzelpudGlKcjV6dXJPZmdKdnA2di1TMlpsXzkwMzJIcHRlWXllREN6OGxJWTFBbVR5ZGtwaldETS1vMHNCRUxTNmFULW00ZEVSbzIyVXpiOTN3ZDNUMUNqd252Skg3MzdEYjBHSDdMY3d1bkdsOGJIQzVCeXlYZ1c1M2g2REZIeGJLeDdWajVORThlVEUwZjlHWlgxZ3RNeVVCaktFQ1RPdWdGSTRZZDU2ZWZ6WXdEQ2xCdFljQjZiOHQ0MERoY3czMDlR?oc=5)
+
+---
+
+### [El alimento que te ayuda a cuidar la piel y que la OMS aconseja comer al menos cuatro raciones a la semana - Diario AS](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdHdmNjV3NzdiUy1COERqUFV3dTRPb21RRG5lc1NxRFQ2ZWRCSmdEOUlTbXVHSGtUZF9lTWhZWUZqZEF6aVNMV3N5X3ZHblJnZlNfRWV1Y244RWk4ajlTTzM5SU85bjAtRzN0QjkyM3RpY19zUnE3Vm1MY3FCbndSX2VhYTg2Ml90WG8xV21CYnhXVl9zRzRWd18tZG9oemloZXNHUTR0eHBVZmJueHltejZqZXczbC1EeTlQOHFqVXFTUnBoNU45c3dKOEVicFVBc21SVGI2dGw0ZENJa2FWR2s0QdIB9wFBVV95cUxOYWU0WTd4bDJQVVg5bHU4WDFwOUozUElaNlRacTQ1ZUxUcEpDTC1UZHhxNUJCRzRoWmp2Z3BmVUNycnBsekJMT1ZaaEdqTGt6UmxlblQ0bFF5NWZ4NTBCaVQ1UUdaNUlXMV9xNy1IR2VtMV90Zm1ZcFdJYlV6NDlvdDJ6anV4MDhKR0FOb0hha1FHQnFQNFpJcTdKYWxkMzRsSm9vRjFUWkk1am1Ib1duWVBFb3BVRGczeVJ0TlQ4VXBRMmdFWjlSUlV2cWRFTjA5S09uYjdaMXd0ejRrclpKZnppWnZ1aXBhQkN0RF9HcE5WXzJLcXJr?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdHdmNjV3NzdiUy1COERqUFV3dTRPb21RRG5lc1NxRFQ2ZWRCSmdEOUlTbXVHSGtUZF9lTWhZWUZqZEF6aVNMV3N5X3ZHblJnZlNfRWV1Y244RWk4ajlTTzM5SU85bjAtRzN0QjkyM3RpY19zUnE3Vm1MY3FCbndSX2VhYTg2Ml90WG8xV21CYnhXVl9zRzRWd18tZG9oemloZXNHUTR0eHBVZmJueHltejZqZXczbC1EeTlQOHFqVXFTUnBoNU45c3dKOEVicFVBc21SVGI2dGw0ZENJa2FWR2s0QdIB9wFBVV95cUxOYWU0WTd4bDJQVVg5bHU4WDFwOUozUElaNlRacTQ1ZUxUcEpDTC1UZHhxNUJCRzRoWmp2Z3BmVUNycnBsekJMT1ZaaEdqTGt6UmxlblQ0bFF5NWZ4NTBCaVQ1UUdaNUlXMV9xNy1IR2VtMV90Zm1ZcFdJYlV6NDlvdDJ6anV4MDhKR0FOb0hha1FHQnFQNFpJcTdKYWxkMzRsSm9vRjFUWkk1am1Ib1duWVBFb3BVRGczeVJ0TlQ4VXBRMmdFWjlSUlV2cWRFTjA5S09uYjdaMXd0ejRrclpKZnppWnZ1aXBhQkN0RF9HcE5WXzJLcXJr?oc=5)
+
+---
 
 ### [Wirkstoff: Apilimod blockiert Viruseintritt in Leberzellen bei Hepatitis E](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">hepatitis</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
+
+---
+
+### [8 Tipps für eine gesunde Ernährung bei Kindern mit ADHS - ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
 
 ---
 
@@ -86,19 +110,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### ["On mange tous trop de sel" : 5 signes que vous devriez manger moins salé selon le Dr Cohen](https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXB0VGFka3EwTEYtUUlqV3JpWi1GRE9obnpZZ1NKbGpzcXByaHdzZHdkWUlIdG5OOXp2UEpHeHdvS2RCVkVsaHBYdndTS21BemlXSDF6S29BWVB4em5yTU5DSEs0MjJVQW96cXJTRTNBSm92Z3BweU1ITkhTVjh3c3p3Ni1DNEtCRmFFUkI3OA?oc=5)
+### [Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 
-2026-04-26 <span class="news-indication-tag">MS</span>
+2026-04-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epilepsy</span>
 
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXB0VGFka3EwTEYtUUlqV3JpWi1GRE9obnpZZ1NKbGpzcXByaHdzZHdkWUlIdG5OOXp2UEpHeHdvS2RCVkVsaHBYdndTS21BemlXSDF6S29BWVB4em5yTU5DSEs0MjJVQW96cXJTRTNBSm92Z3BweU1ITkhTVjh3c3p3Ni1DNEtCRmFFUkI3OA?oc=5)
-
----
-
-### [La OMS pide inversión contra la malaria en África, la zona más golpeada por la enfermedad](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVThPUVptSy12d0Y0djhkLWlyQXMxOUFtV0t1VzRaU3pldTU0X1FRNEJkNmxQSmNJV3g1aUhfQnRxS2hlRlh1bGF4dkVPRkZfQW1zeklrSXh5eW9QSDlDdlpYQUo1d0xyNVk0dFg1YzhjUFBncjFVQVQ1ZEo3WmdVRnVFR1EtV0VzVHFENWVtSVBNU01ZYzJJMTBBQWhuWHQ0bl92WlpZb3VjcG5iSm43REVQOGQzb1hSOFNpZzhvY1p5ck40MTNtSkdRSW5kLVhEM0JEXzRvRTTSAfMBQVVfeXFMTlZSN3h6VU5ORGZiUVVORms0UHhfQjdfb1hzWDlGMXd5N2cxakJxdVY4TGFDNm5jZzIxa0hnbFJMeU1na2xSZV9mTXdiT3JoaGdvVzFzMFF1X3laUHExczZaNDJ2QlcyekViT05kNXVpc2o0MHN1THFnWjQzczJ2SXNfWXVMeldJXzZGd19pSGhISjZFdkpjRDluRk9EN2Z4SDhLR2hIVWMyUDBhYnpoMFBsNHpTaTFXVTJyNGszNjNvd0Ixem52TVhvNkYwclJMaHpyQWVCTEZlS3AxMHFGVkRpSDhxV1BiRjYzSmM0Q3djQ2Fv?oc=5)
-
-2026-04-25 <span class="news-indication-tag">MS</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVThPUVptSy12d0Y0djhkLWlyQXMxOUFtV0t1VzRaU3pldTU0X1FRNEJkNmxQSmNJV3g1aUhfQnRxS2hlRlh1bGF4dkVPRkZfQW1zeklrSXh5eW9QSDlDdlpYQUo1d0xyNVk0dFg1YzhjUFBncjFVQVQ1ZEo3WmdVRnVFR1EtV0VzVHFENWVtSVBNU01ZYzJJMTBBQWhuWHQ0bl92WlpZb3VjcG5iSm43REVQOGQzb1hSOFNpZzhvY1p5ck40MTNtSkdRSW5kLVhEM0JEXzRvRTTSAfMBQVVfeXFMTlZSN3h6VU5ORGZiUVVORms0UHhfQjdfb1hzWDlGMXd5N2cxakJxdVY4TGFDNm5jZzIxa0hnbFJMeU1na2xSZV9mTXdiT3JoaGdvVzFzMFF1X3laUHExczZaNDJ2QlcyekViT05kNXVpc2o0MHN1THFnWjQzczJ2SXNfWXVMeldJXzZGd19pSGhISjZFdkpjRDluRk9EN2Z4SDhLR2hIVWMyUDBhYnpoMFBsNHpTaTFXVTJyNGszNjNvd0Ixem52TVhvNkYwclJMaHpyQWVCTEZlS3AxMHFGVkRpSDhxV1BiRjYzSmM0Q3djQ2Fv?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 
 ---
 

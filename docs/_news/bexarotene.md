@@ -14,7 +14,7 @@ permalink: /news/bexarotene/
 ---
 
 <p class="key-answer" data-question="Bexarotene 有什麼相關新聞？">
-<strong>Bexarotene</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bexarotene</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/bexarotene/
 <p><a href="{{ '/drugs/bexarotene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
 
 ### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
@@ -62,11 +62,27 @@ permalink: /news/bexarotene/
 
 ---
 
+### [El cáncer de testículo duplica su incidencia entre los 15 y 35 años, pero mantiene altos índices de supervivencia - Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
+
+---
+
 ### [Neue Studie erstaunt - Kann Schuppenflechte vor Hautkrebs schützen? - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schuppenflechte</span>
 
 來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+---
+
+### [Fumo, virus e bevande alcoliche le prime tre cause evitabili di tumore: sette milioni di casi di cancro all'anno si possono prevenire - Corriere della Sera](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPN3I2XzJSTS1FVUY3eFgyNFFIMWtRZEQ5bG1sQ1JCbktidDAyRjlGd2E0REpib0tIYVFoYVZDR2FEc0lWbl8tRDc1NmpCM01CYVFYd21xdHFtaU96MktyQTZTMklud2JuTG5oMmdqb2g4Q3J3T1NnbzZYUkR6NllNU2laVlhwVWlVUDZ0encxcV9UVXZ4c00zN3FNbUxicXJXSy1RZm9BOWlqa2NOX0lndVcydmxNZ2xlN1Y4M054dEhyc3hreFJ0dngtYVltUkxKM0s3Vkx4QWNwaVNJRDNGZG5BSkxlVDVZejM5dlBpVGpxTlhodzNxMThzOWdmN0o2YWFCTkJMVzI1UGVTZHdlY2RCellFYlZDX2VrbG1lUWlyNVc4eFBQMzN2dS1NS3RteGtiNURDbloyZnY5ajE5M3lLUjJTNm440gHOAkFVX3lxTE92d2JqWE95TGVoaU5ycjhHTWt4TVlMUjdTYkxRU2JLN2FWR0F0S0cxTWVycjlpUnk0VGZEalhRa3dXMGJOMzlrZ3hGMTNGNENjTS04WEpQRll1UFJ5d2J0dTAwSU1JSG14QUlLY0VqRVFwZ0QtZXNiNzNjTmlzMFY0RjYta0J6VHM0VGtpbXFOMFhSNDFlc2R0TGFEbUJGbDZOMVIwMVJXellsSmpUbTF6QjZOdmtXdFgzYlVfcG9oR3I1aDdkNTA0TUhWRVhjS2J5Wm8yQ29Tb0lSNS01VkdESWI1NGdQNE5WcUduSG43dUJBQXNMdTU4V3FlSlZQNnFNMDM1VFJWRHkzc3RDYzM3T3dfSEd6UmxGdzJ5UWtPZmhQcWtSaExvRzNLNG5rT2NjYXNoYXFFZzNpYndHTjJGekQ0eDZrTlBOVHF3QVE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPN3I2XzJSTS1FVUY3eFgyNFFIMWtRZEQ5bG1sQ1JCbktidDAyRjlGd2E0REpib0tIYVFoYVZDR2FEc0lWbl8tRDc1NmpCM01CYVFYd21xdHFtaU96MktyQTZTMklud2JuTG5oMmdqb2g4Q3J3T1NnbzZYUkR6NllNU2laVlhwVWlVUDZ0encxcV9UVXZ4c00zN3FNbUxicXJXSy1RZm9BOWlqa2NOX0lndVcydmxNZ2xlN1Y4M054dEhyc3hreFJ0dngtYVltUkxKM0s3Vkx4QWNwaVNJRDNGZG5BSkxlVDVZejM5dlBpVGpxTlhodzNxMThzOWdmN0o2YWFCTkJMVzI1UGVTZHdlY2RCellFYlZDX2VrbG1lUWlyNVc4eFBQMzN2dS1NS3RteGtiNURDbloyZnY5ajE5M3lLUjJTNm440gHOAkFVX3lxTE92d2JqWE95TGVoaU5ycjhHTWt4TVlMUjdTYkxRU2JLN2FWR0F0S0cxTWVycjlpUnk0VGZEalhRa3dXMGJOMzlrZ3hGMTNGNENjTS04WEpQRll1UFJ5d2J0dTAwSU1JSG14QUlLY0VqRVFwZ0QtZXNiNzNjTmlzMFY0RjYta0J6VHM0VGtpbXFOMFhSNDFlc2R0TGFEbUJGbDZOMVIwMVJXellsSmpUbTF6QjZOdmtXdFgzYlVfcG9oR3I1aDdkNTA0TUhWRVhjS2J5Wm8yQ29Tb0lSNS01VkdESWI1NGdQNE5WcUduSG43dUJBQXNMdTU4V3FlSlZQNnFNMDM1VFJWRHkzc3RDYzM3T3dfSEd6UmxGdzJ5UWtPZmhQcWtSaExvRzNLNG5rT2NjYXNoYXFFZzNpYndHTjJGekQ0eDZrTlBOVHF3QVE?oc=5)
 
 ---
 
@@ -118,43 +134,11 @@ permalink: /news/bexarotene/
 
 ---
 
-### [El cáncer de testículo aumenta en hombres jóvenes](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWVhZ2lDY1doMDhrbnlIZ0hFcTdQY3BCaTZ2RkpTR3VwX2hBMWJGNk9ZOEpTTHZ2VTdUR0NPdXFWdlM3aUVYYXpxVWg2OG9YTFBpWG91WWFPd21KdTdGelhwVjVRNjFFb3hpRmgwQ1RPZlBJWVhSNncxYS14N0ROb2l0TTc1WklOZWJnVFhQVQ?oc=5)
-
-2026-04-26 <span class="news-indication-tag">cancer</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWVhZ2lDY1doMDhrbnlIZ0hFcTdQY3BCaTZ2RkpTR3VwX2hBMWJGNk9ZOEpTTHZ2VTdUR0NPdXFWdlM3aUVYYXpxVWg2OG9YTFBpWG91WWFPd21KdTdGelhwVjVRNjFFb3hpRmgwQ1RPZlBJWVhSNncxYS14N0ROb2l0TTc1WklOZWJnVFhQVQ?oc=5)
-
----
-
 ### [Il dermatologo Broganelli: “Vi spiego le fake news più pericolose su pelle, sole e tumori” - La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZHRWxJMWVBSlRWc2poRW52YnItLUF4dTA0QzZ6Um9SYXowX3RFODZ4azNrOEZPamVmVnVPZjFRUURtX0hSMnctQ09wWmhYTV9PR2J3d1VOa1hkV0EzdHNtdks2TmxCdGdqVEQ4d2UxVkhubGdYRUhWTDNTMnBiazRQQUVlN2lFYkh2dDJORTNMUk5reDItVVVaRnpuVHFESjVGNzUwSXY0YS1E0gGyAUFVX3lxTE11Yl9jb2lvZ2J6SDZzQ2llYmloWFEyNXRid1Rta3hKQmtLOFVBMV90a0ZzRkdJcUdHZE9tR2M3cUE1Q1NoTnQ3TnRoX05PQmp2RjdYeFM5enAyeWZKNXQyZXlpajhYSzVpdm1NbDlUNElUTFprd2tKLWUxalhCZ1JLTnlYeGVVeU5hcVlYT2xQNndsOVM3dWlzbWJDRDJqLXA3cXRtdmxhcjI1enVGUmU1NGc?oc=5)
 
 2026-04-26 <span class="news-indication-tag">tumor</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZHRWxJMWVBSlRWc2poRW52YnItLUF4dTA0QzZ6Um9SYXowX3RFODZ4azNrOEZPamVmVnVPZjFRUURtX0hSMnctQ09wWmhYTV9PR2J3d1VOa1hkV0EzdHNtdks2TmxCdGdqVEQ4d2UxVkhubGdYRUhWTDNTMnBiazRQQUVlN2lFYkh2dDJORTNMUk5reDItVVVaRnpuVHFESjVGNzUwSXY0YS1E0gGyAUFVX3lxTE11Yl9jb2lvZ2J6SDZzQ2llYmloWFEyNXRid1Rta3hKQmtLOFVBMV90a0ZzRkdJcUdHZE9tR2M3cUE1Q1NoTnQ3TnRoX05PQmp2RjdYeFM5enAyeWZKNXQyZXlpajhYSzVpdm1NbDlUNElUTFprd2tKLWUxalhCZ1JLTnlYeGVVeU5hcVlYT2xQNndsOVM3dWlzbWJDRDJqLXA3cXRtdmxhcjI1enVGUmU1NGc?oc=5)
-
----
-
-### [El cáncer de páncreas fue el cuarto tumor más mortal en las comarcas leridanas durante el 2025](https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXRVenlXZmRLMmtkR1NLal80cklTR05qMFN2dkJtU2tfeFF5Q0RRTFA4RU5ZVF9sUXFxeTNqbmpfejh2VldPOFhiTGJNTktlTjNDUTNQWGZzUmhJS0JuVzctUXNZZTdIYlNQb1VPQU05Z1NQVzFaTWtyQVhtX3dmYjM0Nmw3cWRTR1QtUmpPSWpfOHJsdG00bHFRbnBxQllPMlNxMGRtbFNXNDdIeE5HajJwYm96bzFuWTZXZmh6dUJxbDdjT3pZZ0J3?oc=5)
-
-2026-04-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Segre.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXRVenlXZmRLMmtkR1NLal80cklTR05qMFN2dkJtU2tfeFF5Q0RRTFA4RU5ZVF9sUXFxeTNqbmpfejh2VldPOFhiTGJNTktlTjNDUTNQWGZzUmhJS0JuVzctUXNZZTdIYlNQb1VPQU05Z1NQVzFaTWtyQVhtX3dmYjM0Nmw3cWRTR1QtUmpPSWpfOHJsdG00bHFRbnBxQllPMlNxMGRtbFNXNDdIeE5HajJwYm96bzFuWTZXZmh6dUJxbDdjT3pZZ0J3?oc=5)
-
----
-
-### [Publican un estudio con una diana terapéutica contra un cáncer sin apenas tratamientos - Gaceta de salud](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMWVjUlRkbjJYbUNwNk5lUVRsQU1xWjRoUGFfazB2ZWgwR1F6TmNUN2VMWmtCTWQwR0xORldOY0NrY3A0ZURvVVljX0pBTU04TEtuQ2VmdTVkakMweWNPZzY2bTN0bmFWcWRnb1RkTUhlT2ZhX1k0TkpEZzVLcjdCMUhjTHV4RXVZR0pVenRpV01lU2ZoX0t6VzNUaXRiVkVjczFCNW00S1NFdUdqY0NfVS1qaEJPdk5mNWRTMVBvZ2M2eHljUTNjX1hVQTEycE50UW9KQ2VOcVd3QjlXYkVJVk9ELUJkQVplTTI0TDRwUldjUlM3?oc=5)
-
-2026-04-26 <span class="news-indication-tag">carcinoma</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMWVjUlRkbjJYbUNwNk5lUVRsQU1xWjRoUGFfazB2ZWgwR1F6TmNUN2VMWmtCTWQwR0xORldOY0NrY3A0ZURvVVljX0pBTU04TEtuQ2VmdTVkakMweWNPZzY2bTN0bmFWcWRnb1RkTUhlT2ZhX1k0TkpEZzVLcjdCMUhjTHV4RXVZR0pVenRpV01lU2ZoX0t6VzNUaXRiVkVjczFCNW00S1NFdUdqY0NfVS1qaEJPdk5mNWRTMVBvZ2M2eHljUTNjX1hVQTEycE50UW9KQ2VOcVd3QjlXYkVJVk9ELUJkQVplTTI0TDRwUldjUlM3?oc=5)
-
----
-
-### [Il cuore che “combatte” il cancro: così il battito cardiaco può frenare i tumori e ridurli oltre il 50% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE9sZGZ2VDdvb3ZITlA3VmJGaG5MWE9rdUQ0N3pyaXBseFZscDRyeUdnSVg5dVdsWDZNbWFYb20zRzhRdlNaNXVhaXAtWkpGcGdyOVQzcVV1MW5uaW5Tci0tWjA2anRMdjdlNGNXcS15N2YxT3FGX2JQTjgxNzFBQ1R5Y1Z3OXg3RDFIOXZPM2lPaDd3QUs5UGFB?oc=5)
-
-2026-04-25 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE9sZGZ2VDdvb3ZITlA3VmJGaG5MWE9rdUQ0N3pyaXBseFZscDRyeUdnSVg5dVdsWDZNbWFYb20zRzhRdlNaNXVhaXAtWkpGcGdyOVQzcVV1MW5uaW5Tci0tWjA2anRMdjdlNGNXcS15N2YxT3FGX2JQTjgxNzFBQ1R5Y1Z3OXg3RDFIOXZPM2lPaDd3QUs5UGFB?oc=5)
 
 ---
 

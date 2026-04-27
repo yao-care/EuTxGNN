@@ -14,7 +14,7 @@ permalink: /news/lacosamide/
 ---
 
 <p class="key-answer" data-question="Lacosamide 有什麼相關新聞？">
-<strong>Lacosamide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lacosamide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/lacosamide/
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（16 則）
+
+### [Un estudio pionero en humanos confirma la seguridad de los 'implantes' cerebrales hechos de grafeno - National Geographic España](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWG1vaTU1U0h6OG80bjVINUViSXJtVkVzam14dE1yYjVVMDRVckU0NWNCRHBUd0NNS1hrVkF4WC0wYnRsM3Q1N0tXbmYyRF9ER3JRdWZyTnhtNy14SEVvYU81TGZvZS1oRlgxV05GUGlhRHdoRm9IX0JIN3Qyb0pHNkdhOXFTRXNKOUpjWFRTemlTT0djTEhYOGpLS2g5YjFaRTIzRkhuaDlRclJ4UUxPVk5leUNzTy04aFd4M1hIVk1sNUdJalNCYnd1enA4aTg?oc=5)
+
+2026-04-27 <span class="news-indication-tag">AF</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWG1vaTU1U0h6OG80bjVINUViSXJtVkVzam14dE1yYjVVMDRVckU0NWNCRHBUd0NNS1hrVkF4WC0wYnRsM3Q1N0tXbmYyRF9ER3JRdWZyTnhtNy14SEVvYU81TGZvZS1oRlgxV05GUGlhRHdoRm9IX0JIN3Qyb0pHNkdhOXFTRXNKOUpjWFRTemlTT0djTEhYOGpLS2g5YjFaRTIzRkhuaDlRclJ4UUxPVk5leUNzTy04aFd4M1hIVk1sNUdJalNCYnd1enA4aTg?oc=5)
+
+---
+
+### [La obesidad afecta al sistema inmunitario incluso una década después de perder peso - La Voz de Galicia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbUN0U19XMU8yenVfSnlRVDg5MGZCTzN1MHVjZ3JZRjVrZnFEZFdIYmltUlpCME5nOEp5V2lwak15ckNxRGYtbHVZTWdIX3J0aFcxNVJ4UVI3YUtsQzFRa3ZWaHdQRl9vUmVOdEVmdmdndE51OTZKdmxscWIxdktyRXZzTUppUFQ4OXNqMnREYmdSVnNESGtHRDdjdzkyMjZzcDI2SlFPZ3JPSEJ3c3dFVlZid1NxZ05rUmVrLWhZWEhYSGpOZDNEWEc0LWF1OTlpU1RNcmwtYWtzS2tUYS02cmQ1S3BQNVR0RFdjTnBTaWLSAYwCQVVfeXFMTTBuZ19Vazg5RklpZnpETjJfSTdSdEN3ZktYcUd0em9USUJxS2JRWWlXQXBRQkRyc3lZREl2ZVZ4ZVVlM3BNcGdLNlZ4RENrZXowM1VsR09zV2NGZXJMWFNGbTFqcTYyWGVFNThCLU81MU1taVVCcElDenI5eVRuOFZzZzlfRTRGdS1tVUlqekY5UXVCVHEweVRwTFBnSzA4UzZzc3ZuUE91ZXU1Ym1UcW1DQkZWSUswSDM3dmI0Zlp2Z3ZuYVhvNEUxQUo5d0FlU2RkbW9lV0VMMzl0NVJEdmN4VnhMZFBmQ3J4ektSZEVOeXY5MVU0YWxUWjc0UGZWaXdvYXpWWlRwVWwzQQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbUN0U19XMU8yenVfSnlRVDg5MGZCTzN1MHVjZ3JZRjVrZnFEZFdIYmltUlpCME5nOEp5V2lwak15ckNxRGYtbHVZTWdIX3J0aFcxNVJ4UVI3YUtsQzFRa3ZWaHdQRl9vUmVOdEVmdmdndE51OTZKdmxscWIxdktyRXZzTUppUFQ4OXNqMnREYmdSVnNESGtHRDdjdzkyMjZzcDI2SlFPZ3JPSEJ3c3dFVlZid1NxZ05rUmVrLWhZWEhYSGpOZDNEWEc0LWF1OTlpU1RNcmwtYWtzS2tUYS02cmQ1S3BQNVR0RFdjTnBTaWLSAYwCQVVfeXFMTTBuZ19Vazg5RklpZnpETjJfSTdSdEN3ZktYcUd0em9USUJxS2JRWWlXQXBRQkRyc3lZREl2ZVZ4ZVVlM3BNcGdLNlZ4RENrZXowM1VsR09zV2NGZXJMWFNGbTFqcTYyWGVFNThCLU81MU1taVVCcElDenI5eVRuOFZzZzlfRTRGdS1tVUlqekY5UXVCVHEweVRwTFBnSzA4UzZzc3ZuUE91ZXU1Ym1UcW1DQkZWSUswSDM3dmI0Zlp2Z3ZuYVhvNEUxQUo5d0FlU2RkbW9lV0VMMzl0NVJEdmN4VnhMZFBmQ3J4ektSZEVOeXY5MVU0YWxUWjc0UGZWaXdvYXpWWlRwVWwzQQ?oc=5)
+
+---
+
+### [El cáncer adolescente en TikTok desafía el debate sobre vetar las redes - Universitat Oberta de Catalunya (UOC)](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2Jta01jMndlN0g2blRxaEhOSk9iSFNJRFpqVHhtT2NaeWw5Y3ZlSFdYRFBIelR2dE1SNEY5RHFOOXJBdDhjRGJ6NjRSWmRfR3kwQ2FSQ0hHVFkxaXJveWk2bTRwM2tsdkttd19kQzlQNGxRUlFUTmJ3LXlhR3Z3WTJkd1ZEU282LXJTdU0tQUFfMlh3WF92THUwcGMxZ2Rlbzh3STVTMA?oc=5)
+
+2026-04-27 <span class="news-indication-tag">AF</span>
+
+來源：[Universitat Oberta de Catalunya (UOC)](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2Jta01jMndlN0g2blRxaEhOSk9iSFNJRFpqVHhtT2NaeWw5Y3ZlSFdYRFBIelR2dE1SNEY5RHFOOXJBdDhjRGJ6NjRSWmRfR3kwQ2FSQ0hHVFkxaXJveWk2bTRwM2tsdkttd19kQzlQNGxRUlFUTmJ3LXlhR3Z3WTJkd1ZEU282LXJTdU0tQUFfMlh3WF92THUwcGMxZ2Rlbzh3STVTMA?oc=5)
+
+---
 
 ### [Neuartiges Virus entdeckt: Coronavirus mit neuen Eigenschaften - Wissenschaftler warnen vor CcCoV-KY43](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON0tEUzVlSVJUUmtRakprLXFHUi1sbUtaV2hXaENUYl9OLTRObnRmV1V4dGl2RzFuUkEzTXFSd3dPSEdJX1JKdVpLREZPZ2prQzh0ZXlydDBVSUdtUzBPTzNFYWRPb28zMW5VODVEdXFzZkJlRDdGSWwxcGxXb3hnWFVwZ0h2dmxnWko5Rkg5S21WVWZxM08xN3ZNaExFTGlpUF96NkZUbzF6VXVQbW9GVndHSFd4NF9tdXhxc3lxXy1OLWg0djNmUVRaZkM3cExNbFJMMmh0bnZQaHBiQnpLSUxJZk5kZ0x5TTNZNlN5d2wtMi1rR1ZZ0gH8AUFVX3lxTE5VVEJ1blBCdHgzWG9GN01xTEhfR1ZSTXNjRTNacnpHU2MwSjB6cHZOYjFYN3VSSUl0ZEplSTNpNkhVLWNPWnpBeXMzOW1GSlVwdXMtX0RGWV9EcF82YVNtY3kzc3hzY2ZPVU1PS2lEQlFKSk9RaE1pVE0xelZVeVYwYnZrY1YyOUcxOXZVR0V5SW04SnpYZUt1aWZSUGsxQ2p3NjNHWFlpcDZmbEc0VXBhSnpZbzlMY0oxdVBjaVpCYkpwVVlYWVl2WkJ3S3hnSnZaRWV5eV8zY2o5bnRZNnZidE9DbzE2MFFZUGxiLTJIUDdMUXd1bnJGUXJVcg?oc=5)
 
 2026-04-27 <span class="news-indication-tag">AF</span>
 
 來源：[News.de](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON0tEUzVlSVJUUmtRakprLXFHUi1sbUtaV2hXaENUYl9OLTRObnRmV1V4dGl2RzFuUkEzTXFSd3dPSEdJX1JKdVpLREZPZ2prQzh0ZXlydDBVSUdtUzBPTzNFYWRPb28zMW5VODVEdXFzZkJlRDdGSWwxcGxXb3hnWFVwZ0h2dmxnWko5Rkg5S21WVWZxM08xN3ZNaExFTGlpUF96NkZUbzF6VXVQbW9GVndHSFd4NF9tdXhxc3lxXy1OLWg0djNmUVRaZkM3cExNbFJMMmh0bnZQaHBiQnpLSUxJZk5kZ0x5TTNZNlN5d2wtMi1rR1ZZ0gH8AUFVX3lxTE5VVEJ1blBCdHgzWG9GN01xTEhfR1ZSTXNjRTNacnpHU2MwSjB6cHZOYjFYN3VSSUl0ZEplSTNpNkhVLWNPWnpBeXMzOW1GSlVwdXMtX0RGWV9EcF82YVNtY3kzc3hzY2ZPVU1PS2lEQlFKSk9RaE1pVE0xelZVeVYwYnZrY1YyOUcxOXZVR0V5SW04SnpYZUt1aWZSUGsxQ2p3NjNHWFlpcDZmbEc0VXBhSnpZbzlMY0oxdVBjaVpCYkpwVVlYWVl2WkJ3S3hnSnZaRWV5eV8zY2o5bnRZNnZidE9DbzE2MFFZUGxiLTJIUDdMUXd1bnJGUXJVcg?oc=5)
+
+---
+
+### [DGIM 2026: Arthralgie oder Arthritis? Differenzialdiagnostik schmerzhafter Gelenke - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
+
+---
+
+### [Home blood pressure checks could reduce risks after hypertensive pregnancy - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2FtNmg1TkNDdHJoSEswVE8zMURoSEltNWZmejJrbXg1d0tWUHZwWE9wWFJsN0c2bjJ5bWR2NjI5Sk1waVB0b3hDT1RVa29Kb1dqeUtGTXkzbW5WMXBYNnBCS1N3ODZncTlPTXB1NzU0NmwyVmRJbEhDYnJKcDRwdnBjdERuUGpLdW4ySGdQOWZzMVhMLW9iRHBSbUZ6eElaNHM4SFl6NFRVZmRTQWN3?oc=5)
+
+2026-04-27 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2FtNmg1TkNDdHJoSEswVE8zMURoSEltNWZmejJrbXg1d0tWUHZwWE9wWFJsN0c2bjJ5bWR2NjI5Sk1waVB0b3hDT1RVa29Kb1dqeUtGTXkzbW5WMXBYNnBCS1N3ODZncTlPTXB1NzU0NmwyVmRJbEhDYnJKcDRwdnBjdERuUGpLdW4ySGdQOWZzMVhMLW9iRHBSbUZ6eElaNHM4SFl6NFRVZmRTQWN3?oc=5)
+
+---
+
+### [The people who replay conversations for hours afterward aren't anxious. They're conducting a forensic review they were taught to perform as children, when missing a tonal shift in a parent's voice had real consequences - Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQUnhhODFiZDgtUEU2TG5rd2J6LVl5NHAydTZEaUExRE1YT05OajhPei1wbTV6ZW14QkxOTmJDQjEwREppVVNicmRjZW1Cem1nMG5Da2hXc3o2eFY0azcwemJJUlNKQTZIeFlpeG91dFc5UFZ4Rm9ucTViQXB0WGkxSzBpZ2RXYS1qa0NvM2lXWEh5Ni1Ua1hHRTdxT01wNHloRWpwajdXTlNPbG1OOExhdkVHR1lRMHJncmpVUC1sU2c2NUlUNzdaSE5kVnkxMHczWGl5R2FWN0N4Zzd5di1zTEJ0NkJSUV95a1Fzai1kbW1xRVBqVngyWmxEVnZfV0RVMEZzaFJVWGlGZWJHZWVqNm9Zb1lzc0VfY2x5cldvYmhqS05fVzkwdmFmXzkza2xDVUUwTTBuRFdSVThrRFFhdFlfaDRmekN6OFh3?oc=5)
+
+2026-04-27 <span class="news-indication-tag">AF</span>
+
+來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQUnhhODFiZDgtUEU2TG5rd2J6LVl5NHAydTZEaUExRE1YT05OajhPei1wbTV6ZW14QkxOTmJDQjEwREppVVNicmRjZW1Cem1nMG5Da2hXc3o2eFY0azcwemJJUlNKQTZIeFlpeG91dFc5UFZ4Rm9ucTViQXB0WGkxSzBpZ2RXYS1qa0NvM2lXWEh5Ni1Ua1hHRTdxT01wNHloRWpwajdXTlNPbG1OOExhdkVHR1lRMHJncmpVUC1sU2c2NUlUNzdaSE5kVnkxMHczWGl5R2FWN0N4Zzd5di1zTEJ0NkJSUV95a1Fzai1kbW1xRVBqVngyWmxEVnZfV0RVMEZzaFJVWGlGZWJHZWVqNm9Zb1lzc0VfY2x5cldvYmhqS05fVzkwdmFmXzkza2xDVUUwTTBuRFdSVThrRFFhdFlfaDRmekN6OFh3?oc=5)
 
 ---
 
@@ -94,19 +142,19 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Un mapa celular revela cómo el síndrome de Down modifica el desarrollo cerebral antes del nacimiento - Diario de Salud](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcEpVeUVQYzdHMF85di1YUjJQRWs3UERCM0RwdEN3OVFlaGhoQmFGWTNBZ1Y1X3BQbHE5TThYSmNTTno4bWlSMW9SZ1B3OFc5cmVPY09OaHNKTW5YLVBNVGRyYmxIT2pGWXZnWU9Ud0psTkhXZUZYdTgtbHBvLXpxVUN0RDJwRS1CbFpLTjFqLXZFSlFnblhWLWlYUHBTQ2xhZi0xdHNKWmZROXQzcDJ0MVdiZW9GaFQtNjZ4YTZJbmE4RE53TEJCWmhya1hubG5jTklucFRQWFFtRjMxN0N3?oc=5)
-
-2026-04-26 <span class="news-indication-tag">AF</span>
-
-來源：[Diario de Salud](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcEpVeUVQYzdHMF85di1YUjJQRWs3UERCM0RwdEN3OVFlaGhoQmFGWTNBZ1Y1X3BQbHE5TThYSmNTTno4bWlSMW9SZ1B3OFc5cmVPY09OaHNKTW5YLVBNVGRyYmxIT2pGWXZnWU9Ud0psTkhXZUZYdTgtbHBvLXpxVUN0RDJwRS1CbFpLTjFqLXZFSlFnblhWLWlYUHBTQ2xhZi0xdHNKWmZROXQzcDJ0MVdiZW9GaFQtNjZ4YTZJbmE4RE53TEJCWmhya1hubG5jTklucFRQWFFtRjMxN0N3?oc=5)
-
----
-
 ### ['Mum was outgoing, funny and social. We never expected her death’ - Wales Online](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTJBNzBHMFIyUDNJNFRWM3YyMklJYWJZQTBDQTFaUUhWS0VXaGRGcFM2djVxc0tPcGRfcHZicl9MT2laZTRNd3dINFVFekxNRHFHOTFSQmVJb2N0bE4weDEydGdGMkRhQXZJblhCYTJhc0puZXFDWDNGd3RIdG9JaDZ5Mm1jQU5ubHfSAY8BQVVfeXFMTmhVYUR5ZG9CVjhKSkdaLUtpR1R1RHlfQ1RBZnBxUmhNb2RmRnJSSVQ0N0pjd0N0ZURtV0llTkt3N3NCS1owZVNmNVZpU2swZ2JZWWJILXpqU3dqSFVHcEdwQnlKclRlRDNTSnA0WmdHVXVBODNLLXN6MktxSUhHOWx5Y0JNVXNRZXgwek9yUXM?oc=5)
 
 2026-04-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTJBNzBHMFIyUDNJNFRWM3YyMklJYWJZQTBDQTFaUUhWS0VXaGRGcFM2djVxc0tPcGRfcHZicl9MT2laZTRNd3dINFVFekxNRHFHOTFSQmVJb2N0bE4weDEydGdGMkRhQXZJblhCYTJhc0puZXFDWDNGd3RIdG9JaDZ5Mm1jQU5ubHfSAY8BQVVfeXFMTmhVYUR5ZG9CVjhKSkdaLUtpR1R1RHlfQ1RBZnBxUmhNb2RmRnJSSVQ0N0pjd0N0ZURtV0llTkt3N3NCS1owZVNmNVZpU2swZ2JZWWJILXpqU3dqSFVHcEdwQnlKclRlRDNTSnA0WmdHVXVBODNLLXN6MktxSUhHOWx5Y0JNVXNRZXgwek9yUXM?oc=5)
+
+---
+
+### [Plejades, Uranus, Venus, and a meteor in the sky - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMipgFBVV95cUxON01WT2hoUVRrc2d1UDNMTE4zRFhlODYxWGhOUm9lLXczTngwem43T19UTHlKN091a0djejcyc2tFbU5ZcVNTQzBrd1JqdjA0cDVPcmZXTi1YblA3Y1dxQ1dCLXlYNUVscDY0ckF3dmpuZ0hxVkszeXhZTkVxZUN2V0YxMnZ0dU9BQVlDRXl3bnZWTnJCZUh1RmhUVWZCdmluRFdUcVZB?oc=5)
+
+2026-04-26 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMipgFBVV95cUxON01WT2hoUVRrc2d1UDNMTE4zRFhlODYxWGhOUm9lLXczTngwem43T19UTHlKN091a0djejcyc2tFbU5ZcVNTQzBrd1JqdjA0cDVPcmZXTi1YblA3Y1dxQ1dCLXlYNUVscDY0ckF3dmpuZ0hxVkszeXhZTkVxZUN2V0YxMnZ0dU9BQVlDRXl3bnZWTnJCZUh1RmhUVWZCdmluRFdUcVZB?oc=5)
 
 ---
 
@@ -131,14 +179,6 @@ permalink: /news/lacosamide/
 2026-04-25 <span class="news-indication-tag">AF</span>
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMilgJBVV95cUxOZ2loaGlULW1pdlV0TzBUd3hoaUdWcGlNODI1eUx0bnBub0ZpeWpVNE9LZk9EZDJHR3Nid1Nza3JHZ0tmVi1TWjhERWNqYmhFT1dzSjVvVTBKaTNQOTd4VVk2aE5VaUh4akdPNkE1T3Bqa0ljMzlCam5uZnQ2Q1RJNHJOZURySHlReHB5OVVpb1BPUDJaWHVVVXhvWG9wNGFxLUU3R1F1allwTjc1RGNUUi1Ja0E3ckw0SHlKcHdyejlUVlNtSXl1RzdCX0FhUEJacWN4M1JuZ2F5LUN2cWo2SnNhT1ZOOURYRVo2UnNyRksxLTN6S24xcGZzNGZVblgzNFBvMWU2QTlZekNzNllpVURwbHZWQQ?oc=5)
-
----
-
-### [Venus and the Plejades - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWNFR0FDZzhGa3A3ZUJSMGZSazIwTTV2d3RRbHhwNlU1Vk1jQlhSR0Z4TWhJdWUxdjI1UGRMZTVuQVFvNHNNdW9yUjI2NzU0WUJOSlNjR0NyNm9QNXdGdWhVM0hWQVFSNjFkbWR2Tks4emNHSzV1eVBZZDRTZG8yNmlTckZGX1E?oc=5)
-
-2026-04-25 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWNFR0FDZzhGa3A3ZUJSMGZSazIwTTV2d3RRbHhwNlU1Vk1jQlhSR0Z4TWhJdWUxdjI1UGRMZTVuQVFvNHNNdW9yUjI2NzU0WUJOSlNjR0NyNm9QNXdGdWhVM0hWQVFSNjFkbWR2Tks4emNHSzV1eVBZZDRTZG8yNmlTckZGX1E?oc=5)
 
 ---
 

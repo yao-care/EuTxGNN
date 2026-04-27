@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Los determinantes sociales marcan el control de la diabetes más allá del tratamiento - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREpQdklOZUFMSURBeEd6a1RqQmJTUXpaNHB3dWs3X1RLY1lBVFlJOVFDZFB5S2h4TjhFcFVRUzNPX29GTUdlcllMRm1IV3A5WTZEdjB1dDZnT3cxaHVWMlQxUTNKS2xiTWNrQ1F1Ykc5R0s5QmwwbFpBSFpMclRObG5ya1k4cEpqU2phVWZSS2NnUm5uQVNXeV9VbzJwSkJXVE1iMWt4RTdjLWVkTDdHLXVjNHo2T3g2?oc=5)
+
+2026-04-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREpQdklOZUFMSURBeEd6a1RqQmJTUXpaNHB3dWs3X1RLY1lBVFlJOVFDZFB5S2h4TjhFcFVRUzNPX29GTUdlcllMRm1IV3A5WTZEdjB1dDZnT3cxaHVWMlQxUTNKS2xiTWNrQ1F1Ykc5R0s5QmwwbFpBSFpMclRObG5ya1k4cEpqU2phVWZSS2NnUm5uQVNXeV9VbzJwSkJXVE1iMWt4RTdjLWVkTDdHLXVjNHo2T3g2?oc=5)
+
+---
+
+### [Virtual Reality zur Diabetes-Bekämpfung: Forscher tüfteln an Gesundheitsprojekt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUkpMNDl4Q3lidW45NjZIbWVranJJV1VydnhFQk83cktDMXhPVEw1eE5wRGFDdnhiSGxkRncwem82REVjZnZ5aEZlMkxlNEtrVHFEMGxNRDlRNDZYMlhKZ1BHWVhpeXUycnRSSTlmVjBSOGF2akxUQV9fX2ZKVGFDQjk5d21SN1RndHpoOG1tQ0dnenJBaWEzOVNXYXVMWEZfVnNwckhPMk1oajNvZGRuRnNTRTZSWndPQTl1XzdWbWdXcWFZQ2MxNERsWTlSVjhqLXBlTEJTRnFPQkJlWXFuSkNOVE8tMXUtU3hEVDkyd3NhTjVkMGh2NXV3?oc=5)
+
+2026-04-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Stimme](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUkpMNDl4Q3lidW45NjZIbWVranJJV1VydnhFQk83cktDMXhPVEw1eE5wRGFDdnhiSGxkRncwem82REVjZnZ5aEZlMkxlNEtrVHFEMGxNRDlRNDZYMlhKZ1BHWVhpeXUycnRSSTlmVjBSOGF2akxUQV9fX2ZKVGFDQjk5d21SN1RndHpoOG1tQ0dnenJBaWEzOVNXYXVMWEZfVnNwckhPMk1oajNvZGRuRnNTRTZSWndPQTl1XzdWbWdXcWFZQ2MxNERsWTlSVjhqLXBlTEJTRnFPQkJlWXFuSkNOVE8tMXUtU3hEVDkyd3NhTjVkMGh2NXV3?oc=5)
+
+---
+
+### [Cuando el corazón, los riñones y el metabolismo empeoran y tienes diabetes aumenta el riesgo de cáncer - La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR0gH2AUFVX3lxTE83eVEtaWp4Q0JXRnhrdmRWZ29zVXNDMm5OY0Nab3U2NzNaUndFZjI4ZGhRS3pKak5jZGtnWWZIX0FBNU9PcFNwUVNfZmRuSUtmY3BoeUNPOHh0LTBuMWU4bXU3ZFRIdEM0c1dZSEgweGxRM3h0cXFQVTVralhNeFJkbW1JU2ZOVHFWcUxoUWlCLWxHbkZOUzVkblVjR0ZEUmFLRlVpa0drODZBcEVXa1NtdXRERUZaZnpEU3RvQVdIOUlYakJZMERWQTBLdEhVN05RMGZCYnB2V0M1RV9qSHdRR0RENGU3ZjRDUThoTTNOZmpCQmJKQQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR0gH2AUFVX3lxTE83eVEtaWp4Q0JXRnhrdmRWZ29zVXNDMm5OY0Nab3U2NzNaUndFZjI4ZGhRS3pKak5jZGtnWWZIX0FBNU9PcFNwUVNfZmRuSUtmY3BoeUNPOHh0LTBuMWU4bXU3ZFRIdEM0c1dZSEgweGxRM3h0cXFQVTVralhNeFJkbW1JU2ZOVHFWcUxoUWlCLWxHbkZOUzVkblVjR0ZEUmFLRlVpa0drODZBcEVXa1NtdXRERUZaZnpEU3RvQVdIOUlYakJZMERWQTBLdEhVN05RMGZCYnB2V0M1RV9qSHdRR0RENGU3ZjRDUThoTTNOZmpCQmJKQQ?oc=5)
+
+---
+
+### [Diabetes-Prävention: Gen-Tests zeigen, wer von Vitamin D profitiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
+
+2026-04-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
+
+---
 
 ### [SGLT-2-Hemmer: Neue Ära in der Diabetes-Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
 
@@ -67,14 +99,6 @@ permalink: /news/ustekinumab/
 2026-04-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schuppenflechte</span>
 
 來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
-
----
-
-### [Así frena la prediabetes la vitamina D: un remedio condicionado por el ADN - Libertad Digital](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQWZucEF1TFJSRkF3N05MemVCWXlsb2tfY1I4MlJwaDNVajR0alY5XzNJWWpReW5ubExGeUZBWlRjekQ3NUpPS3lNQV9vRmlIQjNwc19xVDNMVjNTVXQwUjVuUUd4c3lWR1ZSZlp0SnNLcUtYSDlhWHd1aGVoV3NUUVFXcUJYVnZfRE95cWg1NUhzd1lsSUVmUFJXbjNmZ090T1ZCM200MGJGRkRzT3BZLVdaeXlLeFk4Y2FPQmh1bkpwRElhNjg2QW51eW5GSzZYdVlkVmpVbDBCcC1zMjhuTno5TnAzd2N4ZnpZ0gH2AUFVX3lxTFA1V2NRVGZ1YUt0b3Z4UGdWSVNtZEh4MnZBUFlMV1hid29rMVlCVGtxd1F1V3ktOG96Ym9RSkZGQVhQUkdPR2MzQmE3QVYxVWtDSFRLNW5qdlZfRHJJVURpbm9MRWhOTk11aU5nNjlUODNaQzV0RGd1VkU3NFN0Sm1FYkI2SzZmTEl4VE96VjBabEpId1UzNzVoenVvVEtTcFAzZXY0TVpiTURmWml5b0pGZkRfLVQ0eFhUcEpwOGRDNkdJaEUxN1laZjY1NXRvNU9GQ0VLSUZXajBJZFY4SldGa0ZpMmJfaG9oZXU5ZVh1M3ZORHVUUQ?oc=5)
-
-2026-04-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQWZucEF1TFJSRkF3N05MemVCWXlsb2tfY1I4MlJwaDNVajR0alY5XzNJWWpReW5ubExGeUZBWlRjekQ3NUpPS3lNQV9vRmlIQjNwc19xVDNMVjNTVXQwUjVuUUd4c3lWR1ZSZlp0SnNLcUtYSDlhWHd1aGVoV3NUUVFXcUJYVnZfRE95cWg1NUhzd1lsSUVmUFJXbjNmZ090T1ZCM200MGJGRkRzT3BZLVdaeXlLeFk4Y2FPQmh1bkpwRElhNjg2QW51eW5GSzZYdVlkVmpVbDBCcC1zMjhuTno5TnAzd2N4ZnpZ0gH2AUFVX3lxTFA1V2NRVGZ1YUt0b3Z4UGdWSVNtZEh4MnZBUFlMV1hid29rMVlCVGtxd1F1V3ktOG96Ym9RSkZGQVhQUkdPR2MzQmE3QVYxVWtDSFRLNW5qdlZfRHJJVURpbm9MRWhOTk11aU5nNjlUODNaQzV0RGd1VkU3NFN0Sm1FYkI2SzZmTEl4VE96VjBabEpId1UzNzVoenVvVEtTcFAzZXY0TVpiTURmWml5b0pGZkRfLVQ0eFhUcEpwOGRDNkdJaEUxN1laZjY1NXRvNU9GQ0VLSUZXajBJZFY4SldGa0ZpMmJfaG9oZXU5ZVh1M3ZORHVUUQ?oc=5)
 
 ---
 

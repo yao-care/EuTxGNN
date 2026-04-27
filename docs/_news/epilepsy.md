@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epilepsia（epilepsy） 相關新聞"
+title: "epilepsy 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epilepsia（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
+description: "epilepsy 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
-# epilepsia（epilepsy） 相關新聞
+# epilepsy 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epilepsia（epilepsy） 有什麼相關新聞？">
-<strong>epilepsia（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
+<p class="key-answer" data-question="epilepsy 有什麼相關新聞？">
+<strong>epilepsy</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epilepsia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「epilepsy」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,15 +38,7 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Un estudio asocia la mala calidad del sueño con mayor riesgo de demencia en personas con epilepsia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNamVpdHNKMDY3dElObWFKdTJRVzNXWlZUTmtkaFBCcTBrdllxcW9WdkZMa1RkWlF6WHRsaEV0MzRYS3A1UERwVFJuNHN4dWNnaXNiRDludGk2Qkg4eEpqME9uS2FwazJaSE5GcTdQY3RWY21YS0FrNW1vaV9VQkZkcXZlak9oNGlKNWxfNXlhTHdhX1ItelBOdkV4M1NWQnY5MTlyeUh3RFRlQmt1Ul9wR2VCWHZCOUZEVjc3b3dkWEx2bDN6aWRPTHcyRGl5ZmlCY2hNSzJhcGU0YmM4N2hBV2xn?oc=5)
-
-2026-04-27
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNamVpdHNKMDY3dElObWFKdTJRVzNXWlZUTmtkaFBCcTBrdllxcW9WdkZMa1RkWlF6WHRsaEV0MzRYS3A1UERwVFJuNHN4dWNnaXNiRDludGk2Qkg4eEpqME9uS2FwazJaSE5GcTdQY3RWY21YS0FrNW1vaV9VQkZkcXZlak9oNGlKNWxfNXlhTHdhX1ItelBOdkV4M1NWQnY5MTlyeUh3RFRlQmt1Ul9wR2VCWHZCOUZEVjc3b3dkWEx2bDN6aWRPTHcyRGl5ZmlCY2hNSzJhcGU0YmM4N2hBV2xn?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [La obesidad afecta al sistema inmunitario incluso una década después de perder peso - La Voz de Galicia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbUN0U19XMU8yenVfSnlRVDg5MGZCTzN1MHVjZ3JZRjVrZnFEZFdIYmltUlpCME5nOEp5V2lwak15ckNxRGYtbHVZTWdIX3J0aFcxNVJ4UVI3YUtsQzFRa3ZWaHdQRl9vUmVOdEVmdmdndE51OTZKdmxscWIxdktyRXZzTUppUFQ4OXNqMnREYmdSVnNESGtHRDdjdzkyMjZzcDI2SlFPZ3JPSEJ3c3dFVlZid1NxZ05rUmVrLWhZWEhYSGpOZDNEWEc0LWF1OTlpU1RNcmwtYWtzS2tUYS02cmQ1S3BQNVR0RFdjTnBTaWLSAYwCQVVfeXFMTTBuZ19Vazg5RklpZnpETjJfSTdSdEN3ZktYcUd0em9USUJxS2JRWWlXQXBRQkRyc3lZREl2ZVZ4ZVVlM3BNcGdLNlZ4RENrZXowM1VsR09zV2NGZXJMWFNGbTFqcTYyWGVFNThCLU81MU1taVVCcElDenI5eVRuOFZzZzlfRTRGdS1tVUlqekY5UXVCVHEweVRwTFBnSzA4UzZzc3ZuUE91ZXU1Ym1UcW1DQkZWSUswSDM3dmI0Zlp2Z3ZuYVhvNEUxQUo5d0FlU2RkbW9lV0VMMzl0NVJEdmN4VnhMZFBmQ3J4ektSZEVOeXY5MVU0YWxUWjc0UGZWaXdvYXpWWlRwVWwzQQ?oc=5)
+
+2026-04-27
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbUN0U19XMU8yenVfSnlRVDg5MGZCTzN1MHVjZ3JZRjVrZnFEZFdIYmltUlpCME5nOEp5V2lwak15ckNxRGYtbHVZTWdIX3J0aFcxNVJ4UVI3YUtsQzFRa3ZWaHdQRl9vUmVOdEVmdmdndE51OTZKdmxscWIxdktyRXZzTUppUFQ4OXNqMnREYmdSVnNESGtHRDdjdzkyMjZzcDI2SlFPZ3JPSEJ3c3dFVlZid1NxZ05rUmVrLWhZWEhYSGpOZDNEWEc0LWF1OTlpU1RNcmwtYWtzS2tUYS02cmQ1S3BQNVR0RFdjTnBTaWLSAYwCQVVfeXFMTTBuZ19Vazg5RklpZnpETjJfSTdSdEN3ZktYcUd0em9USUJxS2JRWWlXQXBRQkRyc3lZREl2ZVZ4ZVVlM3BNcGdLNlZ4RENrZXowM1VsR09zV2NGZXJMWFNGbTFqcTYyWGVFNThCLU81MU1taVVCcElDenI5eVRuOFZzZzlfRTRGdS1tVUlqekY5UXVCVHEweVRwTFBnSzA4UzZzc3ZuUE91ZXU1Ym1UcW1DQkZWSUswSDM3dmI0Zlp2Z3ZuYVhvNEUxQUo5d0FlU2RkbW9lV0VMMzl0NVJEdmN4VnhMZFBmQ3J4ektSZEVOeXY5MVU0YWxUWjc0UGZWaXdvYXpWWlRwVWwzQQ?oc=5)
+
+---
+
+### [Más allá de la báscula: hacia una nueva forma de entender la obesidad en la consulta médica - El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
+
+2026-04-27
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
+
+---
 
 ### [La tirzepatida se asocia a menos eventos cardiovasculares en pacientes de alto riesgo, según nuevos estudios](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ0dUTHVQR3FzUnBwWTVTTWFDX3NITzdNVFpLVE1pdkxqOFZFd2lqYzV2SFJnTlFpUVJvdTZadGdEekE1VVJrb3FzaVE3cVFveWRJWGNiZVlzd0M0X0JZY1JNRnI1SHNyQUhEYmJfRGpsQ1QzWWxaZE1rbmdXbGNKNmlxSUZ5clB1ODB3Wm5lak4yaGdlOVZQNzI3bmZuRWVDUkFHNVhfUWpBa21DbVIxejNXdUdvOTY0UDNrbF91eExvU0FiTllfQ3JtYVlhYWVfX0hIdlIwVUNGMjJCeExmdlJvTWFTeHVXVlZ2S1MtMkpsQTQ?oc=5)
 

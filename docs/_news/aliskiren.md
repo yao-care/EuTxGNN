@@ -14,7 +14,7 @@ permalink: /news/aliskiren/
 ---
 
 <p class="key-answer" data-question="Aliskiren 有什麼相關新聞？">
-<strong>Aliskiren</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aliskiren</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/aliskiren/
 <p><a href="{{ '/drugs/aliskiren/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
 
 ### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
@@ -62,11 +62,43 @@ permalink: /news/aliskiren/
 
 ---
 
+### [El cáncer de testículo duplica su incidencia entre los 15 y 35 años, pero mantiene altos índices de supervivencia - Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
+
+---
+
+### [José Manuel Felices es médico murciano y habla claro: "Un ictus no siempre te tuerce la cara o te paraliza un brazo. Al FAST que ya conocemos hay que añadirle el BE" - El Economista](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM0I0QXFRa293ZUlKTTJac041MWRYdXVRMkdmc2hVLUowcWxxRlRXTVA0cFAxSTVCOGZPRVZZdm9Lbk9mNzYtVFhFWU1UOUtEWmZMYWpHQnRlbWNTc1M3WThTa1c5bTVDWFJUNU8yemtURl9sSjd1Nmh2azZUZGdLbEUzWUVpVVVuXzJOQlE4cExyTW1vU3ZIbkpjQk90bW9FX3hjX1l4blF4aU93SnhxcWdvcWRxcm5zb213Q045all5NkhOZURtdWtLZ1JNRXNmY0dyaUR1Wkx0NHJQVndUSWlCNjdQdXlaMjE4UWhHYjZYcjA0T3p1LXhjUURqS0hHUVVTVndlbFVfSFdIU1FlaTNQRVlkOFpaZVlTWFVFcVNuUzdLTmlHT3RPY2hwdWJUd0NUNU93NDBBRng1VHlWQXlVX01SYWdNV19uV0M5aWMxY016SDhOLURTLUVrcHJVRXl1RlNB0gHQAkFVX3lxTE83YkZJQjkwX0N5cGJ2R2ROS1I2WHF5VmhQMHdWYUVGWnJ4eHpZREF3d0tsOFpFTlRsYVVFNnk3cWUzb0RhUFI2amdrLWh6UzlBc3pNOEx5TkRzMk1aN0V2bC11VmZ1NVVGdkJhVGRLXzZTVFE0THhub2t6RXZyQ0tFd1pxbVFBemV1R1RtemhiY2FneE9YNGxoNGtlX0JuOVRULVJPNEp6Y0V2WHBnb1hLbmNGUkwyUUd5ZUpTNlJCUjYxdG9zQ0lfZGg4RXpoM2FLQ3JKQmhlWWFxNnJubWtMME56eDhGUlA2cW5zRlB0ZTFhenhZMm8xaUdtN0g4b2F0OWphTllrdm9jUWwzc25qX29uamJVTmQtRTFLWTBKLS1aSWZuZ3VMdEtra1pDWDg5UnNrYUxLZEx1VHhPZm5EMEk4RkdrNnJzSVNoaFhfVw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">ictus</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPM0I0QXFRa293ZUlKTTJac041MWRYdXVRMkdmc2hVLUowcWxxRlRXTVA0cFAxSTVCOGZPRVZZdm9Lbk9mNzYtVFhFWU1UOUtEWmZMYWpHQnRlbWNTc1M3WThTa1c5bTVDWFJUNU8yemtURl9sSjd1Nmh2azZUZGdLbEUzWUVpVVVuXzJOQlE4cExyTW1vU3ZIbkpjQk90bW9FX3hjX1l4blF4aU93SnhxcWdvcWRxcm5zb213Q045all5NkhOZURtdWtLZ1JNRXNmY0dyaUR1Wkx0NHJQVndUSWlCNjdQdXlaMjE4UWhHYjZYcjA0T3p1LXhjUURqS0hHUVVTVndlbFVfSFdIU1FlaTNQRVlkOFpaZVlTWFVFcVNuUzdLTmlHT3RPY2hwdWJUd0NUNU93NDBBRng1VHlWQXlVX01SYWdNV19uV0M5aWMxY016SDhOLURTLUVrcHJVRXl1RlNB0gHQAkFVX3lxTE83YkZJQjkwX0N5cGJ2R2ROS1I2WHF5VmhQMHdWYUVGWnJ4eHpZREF3d0tsOFpFTlRsYVVFNnk3cWUzb0RhUFI2amdrLWh6UzlBc3pNOEx5TkRzMk1aN0V2bC11VmZ1NVVGdkJhVGRLXzZTVFE0THhub2t6RXZyQ0tFd1pxbVFBemV1R1RtemhiY2FneE9YNGxoNGtlX0JuOVRULVJPNEp6Y0V2WHBnb1hLbmNGUkwyUUd5ZUpTNlJCUjYxdG9zQ0lfZGg4RXpoM2FLQ3JKQmhlWWFxNnJubWtMME56eDhGUlA2cW5zRlB0ZTFhenhZMm8xaUdtN0g4b2F0OWphTllrdm9jUWwzc25qX29uamJVTmQtRTFLWTBKLS1aSWZuZ3VMdEtra1pDWDg5UnNrYUxLZEx1VHhPZm5EMEk4RkdrNnJzSVNoaFhfVw?oc=5)
+
+---
+
+### [Nueva guía para implementar el asesoramiento genético en la miocardiopatía dilatada](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2kxOFJqTnRxcjRXRUNhblNObEhXel9UYnU4R2gtbjc4c3R2cDVGOWN4eHliUFBHVnhnUVdfLURDM2JzOFIwYnhtSzlmd2RWV1FJNDZOX003NkdTNnFJcXFpSDdmSC1lWTdyMFo3T3ljUFd6bXVudll3NndRYUZZcENIWWMxM1RCM2xRMWNCcw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Genotipia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2kxOFJqTnRxcjRXRUNhblNObEhXel9UYnU4R2gtbjc4c3R2cDVGOWN4eHliUFBHVnhnUVdfLURDM2JzOFIwYnhtSzlmd2RWV1FJNDZOX003NkdTNnFJcXFpSDdmSC1lWTdyMFo3T3ljUFd6bXVudll3NndRYUZZcENIWWMxM1RCM2xRMWNCcw?oc=5)
+
+---
+
 ### [Neue Studie erstaunt - Kann Schuppenflechte vor Hautkrebs schützen? - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schuppenflechte</span>
 
 來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+---
+
+### [Fumo, virus e bevande alcoliche le prime tre cause evitabili di tumore: sette milioni di casi di cancro all'anno si possono prevenire - Corriere della Sera](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPN3I2XzJSTS1FVUY3eFgyNFFIMWtRZEQ5bG1sQ1JCbktidDAyRjlGd2E0REpib0tIYVFoYVZDR2FEc0lWbl8tRDc1NmpCM01CYVFYd21xdHFtaU96MktyQTZTMklud2JuTG5oMmdqb2g4Q3J3T1NnbzZYUkR6NllNU2laVlhwVWlVUDZ0encxcV9UVXZ4c00zN3FNbUxicXJXSy1RZm9BOWlqa2NOX0lndVcydmxNZ2xlN1Y4M054dEhyc3hreFJ0dngtYVltUkxKM0s3Vkx4QWNwaVNJRDNGZG5BSkxlVDVZejM5dlBpVGpxTlhodzNxMThzOWdmN0o2YWFCTkJMVzI1UGVTZHdlY2RCellFYlZDX2VrbG1lUWlyNVc4eFBQMzN2dS1NS3RteGtiNURDbloyZnY5ajE5M3lLUjJTNm440gHOAkFVX3lxTE92d2JqWE95TGVoaU5ycjhHTWt4TVlMUjdTYkxRU2JLN2FWR0F0S0cxTWVycjlpUnk0VGZEalhRa3dXMGJOMzlrZ3hGMTNGNENjTS04WEpQRll1UFJ5d2J0dTAwSU1JSG14QUlLY0VqRVFwZ0QtZXNiNzNjTmlzMFY0RjYta0J6VHM0VGtpbXFOMFhSNDFlc2R0TGFEbUJGbDZOMVIwMVJXellsSmpUbTF6QjZOdmtXdFgzYlVfcG9oR3I1aDdkNTA0TUhWRVhjS2J5Wm8yQ29Tb0lSNS01VkdESWI1NGdQNE5WcUduSG43dUJBQXNMdTU4V3FlSlZQNnFNMDM1VFJWRHkzc3RDYzM3T3dfSEd6UmxGdzJ5UWtPZmhQcWtSaExvRzNLNG5rT2NjYXNoYXFFZzNpYndHTjJGekQ0eDZrTlBOVHF3QVE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPN3I2XzJSTS1FVUY3eFgyNFFIMWtRZEQ5bG1sQ1JCbktidDAyRjlGd2E0REpib0tIYVFoYVZDR2FEc0lWbl8tRDc1NmpCM01CYVFYd21xdHFtaU96MktyQTZTMklud2JuTG5oMmdqb2g4Q3J3T1NnbzZYUkR6NllNU2laVlhwVWlVUDZ0encxcV9UVXZ4c00zN3FNbUxicXJXSy1RZm9BOWlqa2NOX0lndVcydmxNZ2xlN1Y4M054dEhyc3hreFJ0dngtYVltUkxKM0s3Vkx4QWNwaVNJRDNGZG5BSkxlVDVZejM5dlBpVGpxTlhodzNxMThzOWdmN0o2YWFCTkJMVzI1UGVTZHdlY2RCellFYlZDX2VrbG1lUWlyNVc4eFBQMzN2dS1NS3RteGtiNURDbloyZnY5ajE5M3lLUjJTNm440gHOAkFVX3lxTE92d2JqWE95TGVoaU5ycjhHTWt4TVlMUjdTYkxRU2JLN2FWR0F0S0cxTWVycjlpUnk0VGZEalhRa3dXMGJOMzlrZ3hGMTNGNENjTS04WEpQRll1UFJ5d2J0dTAwSU1JSG14QUlLY0VqRVFwZ0QtZXNiNzNjTmlzMFY0RjYta0J6VHM0VGtpbXFOMFhSNDFlc2R0TGFEbUJGbDZOMVIwMVJXellsSmpUbTF6QjZOdmtXdFgzYlVfcG9oR3I1aDdkNTA0TUhWRVhjS2J5Wm8yQ29Tb0lSNS01VkdESWI1NGdQNE5WcUduSG43dUJBQXNMdTU4V3FlSlZQNnFNMDM1VFJWRHkzc3RDYzM3T3dfSEd6UmxGdzJ5UWtPZmhQcWtSaExvRzNLNG5rT2NjYXNoYXFFZzNpYndHTjJGekQ0eDZrTlBOVHF3QVE?oc=5)
 
 ---
 
@@ -94,6 +126,14 @@ permalink: /news/aliskiren/
 
 ---
 
+### [Doctors just updated the cholesterol number that aligns closest with heart disease risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
+
+2026-04-26 <span class="news-indication-tag">heart disease</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
+
+---
+
 ### [Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
 
 2026-04-26 <span class="news-indication-tag">cancer</span>
@@ -118,14 +158,6 @@ permalink: /news/aliskiren/
 
 ---
 
-### [El cáncer de testículo aumenta en hombres jóvenes](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWVhZ2lDY1doMDhrbnlIZ0hFcTdQY3BCaTZ2RkpTR3VwX2hBMWJGNk9ZOEpTTHZ2VTdUR0NPdXFWdlM3aUVYYXpxVWg2OG9YTFBpWG91WWFPd21KdTdGelhwVjVRNjFFb3hpRmgwQ1RPZlBJWVhSNncxYS14N0ROb2l0TTc1WklOZWJnVFhQVQ?oc=5)
-
-2026-04-26 <span class="news-indication-tag">cancer</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWVhZ2lDY1doMDhrbnlIZ0hFcTdQY3BCaTZ2RkpTR3VwX2hBMWJGNk9ZOEpTTHZ2VTdUR0NPdXFWdlM3aUVYYXpxVWg2OG9YTFBpWG91WWFPd21KdTdGelhwVjVRNjFFb3hpRmgwQ1RPZlBJWVhSNncxYS14N0ROb2l0TTc1WklOZWJnVFhQVQ?oc=5)
-
----
-
 ### [Il dermatologo Broganelli: “Vi spiego le fake news più pericolose su pelle, sole e tumori” - La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZHRWxJMWVBSlRWc2poRW52YnItLUF4dTA0QzZ6Um9SYXowX3RFODZ4azNrOEZPamVmVnVPZjFRUURtX0hSMnctQ09wWmhYTV9PR2J3d1VOa1hkV0EzdHNtdks2TmxCdGdqVEQ4d2UxVkhubGdYRUhWTDNTMnBiazRQQUVlN2lFYkh2dDJORTNMUk5reDItVVVaRnpuVHFESjVGNzUwSXY0YS1E0gGyAUFVX3lxTE11Yl9jb2lvZ2J6SDZzQ2llYmloWFEyNXRid1Rta3hKQmtLOFVBMV90a0ZzRkdJcUdHZE9tR2M3cUE1Q1NoTnQ3TnRoX05PQmp2RjdYeFM5enAyeWZKNXQyZXlpajhYSzVpdm1NbDlUNElUTFprd2tKLWUxalhCZ1JLTnlYeGVVeU5hcVlYT2xQNndsOVM3dWlzbWJDRDJqLXA3cXRtdmxhcjI1enVGUmU1NGc?oc=5)
 
 2026-04-26 <span class="news-indication-tag">tumor</span>
@@ -134,35 +166,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [El cáncer de páncreas fue el cuarto tumor más mortal en las comarcas leridanas durante el 2025](https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXRVenlXZmRLMmtkR1NLal80cklTR05qMFN2dkJtU2tfeFF5Q0RRTFA4RU5ZVF9sUXFxeTNqbmpfejh2VldPOFhiTGJNTktlTjNDUTNQWGZzUmhJS0JuVzctUXNZZTdIYlNQb1VPQU05Z1NQVzFaTWtyQVhtX3dmYjM0Nmw3cWRTR1QtUmpPSWpfOHJsdG00bHFRbnBxQllPMlNxMGRtbFNXNDdIeE5HajJwYm96bzFuWTZXZmh6dUJxbDdjT3pZZ0J3?oc=5)
-
-2026-04-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Segre.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXRVenlXZmRLMmtkR1NLal80cklTR05qMFN2dkJtU2tfeFF5Q0RRTFA4RU5ZVF9sUXFxeTNqbmpfejh2VldPOFhiTGJNTktlTjNDUTNQWGZzUmhJS0JuVzctUXNZZTdIYlNQb1VPQU05Z1NQVzFaTWtyQVhtX3dmYjM0Nmw3cWRTR1QtUmpPSWpfOHJsdG00bHFRbnBxQllPMlNxMGRtbFNXNDdIeE5HajJwYm96bzFuWTZXZmh6dUJxbDdjT3pZZ0J3?oc=5)
-
----
-
-### [Publican un estudio con una diana terapéutica contra un cáncer sin apenas tratamientos - Gaceta de salud](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMWVjUlRkbjJYbUNwNk5lUVRsQU1xWjRoUGFfazB2ZWgwR1F6TmNUN2VMWmtCTWQwR0xORldOY0NrY3A0ZURvVVljX0pBTU04TEtuQ2VmdTVkakMweWNPZzY2bTN0bmFWcWRnb1RkTUhlT2ZhX1k0TkpEZzVLcjdCMUhjTHV4RXVZR0pVenRpV01lU2ZoX0t6VzNUaXRiVkVjczFCNW00S1NFdUdqY0NfVS1qaEJPdk5mNWRTMVBvZ2M2eHljUTNjX1hVQTEycE50UW9KQ2VOcVd3QjlXYkVJVk9ELUJkQVplTTI0TDRwUldjUlM3?oc=5)
-
-2026-04-26 <span class="news-indication-tag">carcinoma</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMWVjUlRkbjJYbUNwNk5lUVRsQU1xWjRoUGFfazB2ZWgwR1F6TmNUN2VMWmtCTWQwR0xORldOY0NrY3A0ZURvVVljX0pBTU04TEtuQ2VmdTVkakMweWNPZzY2bTN0bmFWcWRnb1RkTUhlT2ZhX1k0TkpEZzVLcjdCMUhjTHV4RXVZR0pVenRpV01lU2ZoX0t6VzNUaXRiVkVjczFCNW00S1NFdUdqY0NfVS1qaEJPdk5mNWRTMVBvZ2M2eHljUTNjX1hVQTEycE50UW9KQ2VOcVd3QjlXYkVJVk9ELUJkQVplTTI0TDRwUldjUlM3?oc=5)
-
----
-
 ### [Tripla pillola riduce le recidive di ictus del 39%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 2026-04-25 <span class="news-indication-tag">ictus</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
-
----
-
-### [Il cuore che “combatte” il cancro: così il battito cardiaco può frenare i tumori e ridurli oltre il 50% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE9sZGZ2VDdvb3ZITlA3VmJGaG5MWE9rdUQ0N3pyaXBseFZscDRyeUdnSVg5dVdsWDZNbWFYb20zRzhRdlNaNXVhaXAtWkpGcGdyOVQzcVV1MW5uaW5Tci0tWjA2anRMdjdlNGNXcS15N2YxT3FGX2JQTjgxNzFBQ1R5Y1Z3OXg3RDFIOXZPM2lPaDd3QUs5UGFB?oc=5)
-
-2026-04-25 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE9sZGZ2VDdvb3ZITlA3VmJGaG5MWE9rdUQ0N3pyaXBseFZscDRyeUdnSVg5dVdsWDZNbWFYb20zRzhRdlNaNXVhaXAtWkpGcGdyOVQzcVV1MW5uaW5Tci0tWjA2anRMdjdlNGNXcS15N2YxT3FGX2JQTjgxNzFBQ1R5Y1Z3OXg3RDFIOXZPM2lPaDd3QUs5UGFB?oc=5)
+來源：[agi.it](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 

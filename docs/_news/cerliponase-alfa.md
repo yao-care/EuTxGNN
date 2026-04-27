@@ -14,7 +14,7 @@ permalink: /news/cerliponase-alfa/
 ---
 
 <p class="key-answer" data-question="Cerliponase Alfa 有什麼相關新聞？">
-<strong>Cerliponase Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cerliponase Alfa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,11 @@ permalink: /news/cerliponase-alfa/
 <p><a href="{{ '/drugs/cerliponase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Un estudio asocia la mala calidad del sueño con mayor riesgo de demencia en personas con epilepsia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNamVpdHNKMDY3dElObWFKdTJRVzNXWlZUTmtkaFBCcTBrdllxcW9WdkZMa1RkWlF6WHRsaEV0MzRYS3A1UERwVFJuNHN4dWNnaXNiRDludGk2Qkg4eEpqME9uS2FwazJaSE5GcTdQY3RWY21YS0FrNW1vaV9VQkZkcXZlak9oNGlKNWxfNXlhTHdhX1ItelBOdkV4M1NWQnY5MTlyeUh3RFRlQmt1Ul9wR2VCWHZCOUZEVjc3b3dkWEx2bDN6aWRPTHcyRGl5ZmlCY2hNSzJhcGU0YmM4N2hBV2xn?oc=5)
-
-2026-04-27 <span class="news-indication-tag">epilepsia</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNamVpdHNKMDY3dElObWFKdTJRVzNXWlZUTmtkaFBCcTBrdllxcW9WdkZMa1RkWlF6WHRsaEV0MzRYS3A1UERwVFJuNHN4dWNnaXNiRDludGk2Qkg4eEpqME9uS2FwazJaSE5GcTdQY3RWY21YS0FrNW1vaV9VQkZkcXZlak9oNGlKNWxfNXlhTHdhX1ItelBOdkV4M1NWQnY5MTlyeUh3RFRlQmt1Ul9wR2VCWHZCOUZEVjc3b3dkWEx2bDN6aWRPTHcyRGl5ZmlCY2hNSzJhcGU0YmM4N2hBV2xn?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 
-2026-04-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">epilepsy</span>
+2026-04-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epilepsy</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 
