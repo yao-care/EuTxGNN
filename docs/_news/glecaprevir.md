@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（6 則）
+
+### [Wirkstoff: Apilimod blockiert Viruseintritt in Leberzellen bei Hepatitis E](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">hepatitis</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
+
+---
+
+### ['Mum was outgoing, funny and social. We never expected her death’ - Wales Online](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTJBNzBHMFIyUDNJNFRWM3YyMklJYWJZQTBDQTFaUUhWS0VXaGRGcFM2djVxc0tPcGRfcHZicl9MT2laZTRNd3dINFVFekxNRHFHOTFSQmVJb2N0bE4weDEydGdGMkRhQXZJblhCYTJhc0puZXFDWDNGd3RIdG9JaDZ5Mm1jQU5ubHfSAY8BQVVfeXFMTmhVYUR5ZG9CVjhKSkdaLUtpR1R1RHlfQ1RBZnBxUmhNb2RmRnJSSVQ0N0pjd0N0ZURtV0llTkt3N3NCS1owZVNmNVZpU2swZ2JZWWJILXpqU3dqSFVHcEdwQnlKclRlRDNTSnA0WmdHVXVBODNLLXN6MktxSUhHOWx5Y0JNVXNRZXgwek9yUXM?oc=5)
+
+2026-04-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTJBNzBHMFIyUDNJNFRWM3YyMklJYWJZQTBDQTFaUUhWS0VXaGRGcFM2djVxc0tPcGRfcHZicl9MT2laZTRNd3dINFVFekxNRHFHOTFSQmVJb2N0bE4weDEydGdGMkRhQXZJblhCYTJhc0puZXFDWDNGd3RIdG9JaDZ5Mm1jQU5ubHfSAY8BQVVfeXFMTmhVYUR5ZG9CVjhKSkdaLUtpR1R1RHlfQ1RBZnBxUmhNb2RmRnJSSVQ0N0pjd0N0ZURtV0llTkt3N3NCS1owZVNmNVZpU2swZ2JZWWJILXpqU3dqSFVHcEdwQnlKclRlRDNTSnA0WmdHVXVBODNLLXN6MktxSUhHOWx5Y0JNVXNRZXgwek9yUXM?oc=5)
+
+---
 
 ### [“Queremos aprovechar la experiencia de la estrategia frente a la hepatitis C para mejorar el abordaje global de la enfermedad hepática”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDRwRmxQX1p4RlFjTzAtRTVaOGZ2OE1DNzJzZkNKbVowLTJFMDdVYlprSktUSlJoOTZqai01Sl9kQkE4dEhYVUQ3WldDUi1qWFNmSmF2Tjk1MUtoczBPd0cyMUdmelAwaHJkQ05Sc0hDb3ZJNFZ5VzhjMWp6NTN0ZTNWVnZBbXNmV19wb0pMNUk4ODBfSU9RQk11MGgxVFNzeGVLX1EyS0tLZEwxNy1BaVZBNHJ4MW1JaHF1amg2UWU2ZnR6bHZiZ0sySkw0UHpsOG5WVVVn?oc=5)
 
@@ -62,19 +78,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [UK Travellers at Alert: Warning of Fatal Disease Cases Surge | Check Destinations on Alert, Advice for Travellers, Fever Symptoms & More - The Sunday Guardian](https://news.google.com/rss/articles/CBMihAJBVV95cUxNSjJ5TkNNUi0wZFBLT2pVdXRqSFpSZzl2b1JxRHR4UmtwUlhUVUFZVkE3bEkxNWRaNkhtcEFtdjkyUVlTX1VaeGhMOTBxdWM2S05OTHVfS3BRMjVvaDVuSi13STZKeDJKWTRzeFo4LTlGRWk3TmhhMGZ6eFdrNzA1WmF5NlBFdlZWSmR4eDNZdzJfdzlqSXd4dkF4S0Y0MnlYSFZsNUtzdWpWYS1yWUxleXNRT0Y3S1lHUlJKQXpVTWw5MndsVHBQaUU2N3E4X0JDNmdiZllHSXVYTWRSakZ5dzNSdjlOVUVlaW9wNWtKLVNkX0h3Nm1nZjhtZ1d5RUQ1eEd6ag?oc=5)
+### [Früherkennung von Demenz: Fortschritte bei Bluttests und KI-Methoden](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYko3dTFURzc3QjNzcHkxVVZZZ0RfdHJSYVVrN2N5R2RCU0hqem10SXJEdjZtTXVxQTNTVmgyQl83LXZhTzBpY2tSRFpqbkdIbkVoeDVtci1oTWNFX3BOZlJKLUpsZjBfd2ZOOXFSODJ4Rk0zYVl6S3NzR2lQWkotSVhJb25JNWU3QXdoT044a3YxUUtCbEJ0b3NxYnVkcDF5a1E?oc=5)
 
 2026-04-26 <span class="news-indication-tag">MS</span>
 
-來源：[The Sunday Guardian](https://news.google.com/rss/articles/CBMihAJBVV95cUxNSjJ5TkNNUi0wZFBLT2pVdXRqSFpSZzl2b1JxRHR4UmtwUlhUVUFZVkE3bEkxNWRaNkhtcEFtdjkyUVlTX1VaeGhMOTBxdWM2S05OTHVfS3BRMjVvaDVuSi13STZKeDJKWTRzeFo4LTlGRWk3TmhhMGZ6eFdrNzA1WmF5NlBFdlZWSmR4eDNZdzJfdzlqSXd4dkF4S0Y0MnlYSFZsNUtzdWpWYS1yWUxleXNRT0Y3S1lHUlJKQXpVTWw5MndsVHBQaUU2N3E4X0JDNmdiZllHSXVYTWRSakZ5dzNSdjlOVUVlaW9wNWtKLVNkX0h3Nm1nZjhtZ1d5RUQ1eEd6ag?oc=5)
-
----
-
-### [Früherkennung von Demenz: Neue Bluttests revolutionieren Diagnostik - AD HOC NEWS](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjZpbjFLcGwzb1Ixa2p3TjNKV0p4R3VXcFp3aTE5TDlYeFNYV1ByNDF3WUxvdy1LaERJeno2bzVLTzhlbW9ndFhoZ1VJdlR3MFE1NVJXN3QtZXhlUHpDWWRfLUJCN3ZYUUVWWTNRZ1o5dUpjZmU5WEstWG5EWEptYjhOSk1OTTRueVNYMFFxal9LcDdRcGVpWFMwdnNxUWVZZ0JJZm1DRkVCdl9SM3BmUDBLWjNLTTJLcWtTblhldkF1MExo?oc=5)
-
-2026-04-26 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjZpbjFLcGwzb1Ixa2p3TjNKV0p4R3VXcFp3aTE5TDlYeFNYV1ByNDF3WUxvdy1LaERJeno2bzVLTzhlbW9ndFhoZ1VJdlR3MFE1NVJXN3QtZXhlUHpDWWRfLUJCN3ZYUUVWWTNRZ1o5dUpjZmU5WEstWG5EWEptYjhOSk1OTTRueVNYMFFxal9LcDdRcGVpWFMwdnNxUWVZZ0JJZm1DRkVCdl9SM3BmUDBLWjNLTTJLcWtTblhldkF1MExo?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYko3dTFURzc3QjNzcHkxVVZZZ0RfdHJSYVVrN2N5R2RCU0hqem10SXJEdjZtTXVxQTNTVmgyQl83LXZhTzBpY2tSRFpqbkdIbkVoeDVtci1oTWNFX3BOZlJKLUpsZjBfd2ZOOXFSODJ4Rk0zYVl6S3NzR2lQWkotSVhJb25JNWU3QXdoT044a3YxUUtCbEJ0b3NxYnVkcDF5a1E?oc=5)
 
 ---
 
@@ -83,46 +91,6 @@ permalink: /news/glecaprevir/
 2026-04-26 <span class="news-indication-tag">MS</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXB0VGFka3EwTEYtUUlqV3JpWi1GRE9obnpZZ1NKbGpzcXByaHdzZHdkWUlIdG5OOXp2UEpHeHdvS2RCVkVsaHBYdndTS21BemlXSDF6S29BWVB4em5yTU5DSEs0MjJVQW96cXJTRTNBSm92Z3BweU1ITkhTVjh3c3p3Ni1DNEtCRmFFUkI3OA?oc=5)
-
----
-
-### [Jaume Capdevila, oncólogo médico del Hospital Vall D'Hebron: «La oncología de precisión ha llegado al cáncer de páncreas»](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVZiWllQcWpfYjBuSkZRY00xQnVhR0NBdkR3N2dYNjRBVzZ1TFBpTTVIUTlhbFRZcXJNNjJMTDBURFVEN3JRX1JBb19WX190SW5URS1ldlNrb2FZTEhDWTM5cTM1U3ZLbUpmYTlRVWpYclRZUkwxRFFOQUc2YTd1VXVDTVZucXNVMEpCVDRnLXRtbTJWeW0zRGVQNGdQMl9qekhFWjVlOHRjUFdfTm41X09B?oc=5)
-
-2026-04-26 <span class="news-indication-tag">MS</span>
-
-來源：[Segre.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVZiWllQcWpfYjBuSkZRY00xQnVhR0NBdkR3N2dYNjRBVzZ1TFBpTTVIUTlhbFRZcXJNNjJMTDBURFVEN3JRX1JBb19WX190SW5URS1ldlNrb2FZTEhDWTM5cTM1U3ZLbUpmYTlRVWpYclRZUkwxRFFOQUc2YTd1VXVDTVZucXNVMEpCVDRnLXRtbTJWeW0zRGVQNGdQMl9qekhFWjVlOHRjUFdfTm41X09B?oc=5)
-
----
-
-### [Tripla pillola riduce le recidive di ictus del 39%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
-
-2026-04-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
-
----
-
-### [Surgeon names 5 things to avoid to live longer — alcohol not on the list](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
-
-2026-04-25 <span class="news-indication-tag">MS</span>
-
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa2Ntd1BtRzNuX2xWLXNRWVMyU2JZR0k5dVZ5SUpodC1YcUpzRWRCZXdyVDR5YlZVcUx2Z1dkbHFnV1pvZHBtVHhvT29sUnlITktFRXQxM2RhMnhJYnFTR0ctRjVqZ2FxSEF2V0I4RU9YaHUxWDhqV3ZGRlgxcVHSAYQBQVVfeXFMTV84di1WZ011ZDVScnF6M2puanp1cEtzY19uOWNnV1diVWtHUU1CWm9DRnZpN3NkUjhSOG1xSWt2aGpVbFMzbEJzb1k5b21VVllCNWJZVldkRmdSTXJDbktnOW1rVm10U2JlQkRjYkJ5bmtoZF96WXdQRE91WjF6Q3p1OUZl?oc=5)
-
----
-
-### [El suelo pélvico, "el gran olvidado en el deporte": por qué es importante entrenarlo y no ignorar el dolor - Onda Cero](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkpMYnNWV1VmYUE5cWEzS2RzRHppMG14czlZd2pld2N5aU96cXBNNGZST0Z5X1V2Z3E4UDN4bDJkT3g1dUdLU29saWd3aW0xeVBwQkl4QW9POXI1N3h5VXBJZ09sUE1QVUxhWmJ3UWJLOFdpT1lpdmZQWDg4TzRXbXVOMzBiWG5OcGFXWU9pd2lYelc5YWZtWUFCZUVuaFFRLU9XN2tmaHMySkJsRlNKOGJDcjhEdjFsQVBYQ3hUOWpxclRsUFNVNlZ0Yzc2eWxEd2FoUVYybkxJSUVqRU1Z0gHfAUFVX3lxTE9sRThVdXBlS2NHM1JKQVFCeWpfMmlhZHZ5T2l5U2tqMjVDMHFEYVU2eTFKOEwtaWFDQ2NteTNYSC1PMUJVd0JSQnZOM1RnMkpZWlhDUHVlZjJYMnFZRUYyVzFyc2F1WEtrblpiMDVJT0t2aHl4dlJoYmZuOGQ3bmR3MEN1NXB0MFk2UUROT3VmVWR3aUF2M0YzRFNsaFh0ckpiSXQycDVZZXZnN3RMdmdSQi00OHJjbEtYeWFPUkZWVXRZdXB5WlRESnZHcjA5eEJhZ1dnU3VlcVVSdEtwWUE?oc=5)
-
-2026-04-25 <span class="news-indication-tag">MS</span>
-
-來源：[Onda Cero](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkpMYnNWV1VmYUE5cWEzS2RzRHppMG14czlZd2pld2N5aU96cXBNNGZST0Z5X1V2Z3E4UDN4bDJkT3g1dUdLU29saWd3aW0xeVBwQkl4QW9POXI1N3h5VXBJZ09sUE1QVUxhWmJ3UWJLOFdpT1lpdmZQWDg4TzRXbXVOMzBiWG5OcGFXWU9pd2lYelc5YWZtWUFCZUVuaFFRLU9XN2tmaHMySkJsRlNKOGJDcjhEdjFsQVBYQ3hUOWpxclRsUFNVNlZ0Yzc2eWxEd2FoUVYybkxJSUVqRU1Z0gHfAUFVX3lxTE9sRThVdXBlS2NHM1JKQVFCeWpfMmlhZHZ5T2l5U2tqMjVDMHFEYVU2eTFKOEwtaWFDQ2NteTNYSC1PMUJVd0JSQnZOM1RnMkpZWlhDUHVlZjJYMnFZRUYyVzFyc2F1WEtrblpiMDVJT0t2aHl4dlJoYmZuOGQ3bmR3MEN1NXB0MFk2UUROT3VmVWR3aUF2M0YzRFNsaFh0ckpiSXQycDVZZXZnN3RMdmdSQi00OHJjbEtYeWFPUkZWVXRZdXB5WlRESnZHcjA5eEJhZ1dnU3VlcVVSdEtwWUE?oc=5)
-
----
-
-### [Parkinson, la enfermedad neurodegenerativa después del Alzheimer - UDG TV](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxhMU01YlNyU0N1dGM3cEJYUDNpLUhibEJHWDMxbVE2b3M3aVljTFFrSTFGUjl5THQwWUlZZ090TDIySDY1c3VMNWxmUlp3TE11THNBOVNUSzhSM25Hd3haSG9BYUMtbVJ6V0R2NWdWRHhLQTdtY01vUW4tQmFWS1AzSHN5NXF6NzdXMjJ5QXFvWkttaTgya1VpWFhaRENUNlk5bUFqcw?oc=5)
-
-2026-04-25 <span class="news-indication-tag">MS</span>
-
-來源：[UDG TV](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxhMU01YlNyU0N1dGM3cEJYUDNpLUhibEJHWDMxbVE2b3M3aVljTFFrSTFGUjl5THQwWUlZZ090TDIySDY1c3VMNWxmUlp3TE11THNBOVNUSzhSM25Hd3haSG9BYUMtbVJ6V0R2NWdWRHhLQTdtY01vUW4tQmFWS1AzSHN5NXF6NzdXMjJ5QXFvWkttaTgya1VpWFhaRENUNlk5bUFqcw?oc=5)
 
 ---
 

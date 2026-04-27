@@ -14,7 +14,7 @@ permalink: /news/blinatumomab/
 ---
 
 <p class="key-answer" data-question="Blinatumomab 有什麼相關新聞？">
-<strong>Blinatumomab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Blinatumomab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/blinatumomab/
 <li>pseudo-von Willebrand disease（94.1%）</li>
 <li>drug-induced osteoporosis（92.7%）</li>
 <li>severe nonproliferative diabetic retinopathy（89.2%）</li>
-<li>psoriasis（88.9%）</li>
+<li class="indication-matched">psoriasis（88.9%）<span class="indication-tag">📰 Schuppenflechte</span></li>
 <li>Ledderhose disease（88.4%）</li>
 <li>hemorrhagic disorder due to a constitutional thrombocytopenia（87.9%）</li>
 <li>penile fibromatosis（87.8%）</li>
@@ -52,7 +52,23 @@ permalink: /news/blinatumomab/
 <p><a href="{{ '/drugs/blinatumomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [SGLT-2-Hemmer: Neue Ära in der Diabetes-Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+
+---
+
+### [Neue Studie erstaunt - Kann Schuppenflechte vor Hautkrebs schützen? - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schuppenflechte</span>
+
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+---
 
 ### [Así frena la prediabetes la vitamina D: un remedio condicionado por el ADN - Libertad Digital](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQWZucEF1TFJSRkF3N05MemVCWXlsb2tfY1I4MlJwaDNVajR0alY5XzNJWWpReW5ubExGeUZBWlRjekQ3NUpPS3lNQV9vRmlIQjNwc19xVDNMVjNTVXQwUjVuUUd4c3lWR1ZSZlp0SnNLcUtYSDlhWHd1aGVoV3NUUVFXcUJYVnZfRE95cWg1NUhzd1lsSUVmUFJXbjNmZ090T1ZCM200MGJGRkRzT3BZLVdaeXlLeFk4Y2FPQmh1bkpwRElhNjg2QW51eW5GSzZYdVlkVmpVbDBCcC1zMjhuTno5TnAzd2N4ZnpZ0gH2AUFVX3lxTFA1V2NRVGZ1YUt0b3Z4UGdWSVNtZEh4MnZBUFlMV1hid29rMVlCVGtxd1F1V3ktOG96Ym9RSkZGQVhQUkdPR2MzQmE3QVYxVWtDSFRLNW5qdlZfRHJJVURpbm9MRWhOTk11aU5nNjlUODNaQzV0RGd1VkU3NFN0Sm1FYkI2SzZmTEl4VE96VjBabEpId1UzNzVoenVvVEtTcFAzZXY0TVpiTURmWml5b0pGZkRfLVQ0eFhUcEpwOGRDNkdJaEUxN1laZjY1NXRvNU9GQ0VLSUZXajBJZFY4SldGa0ZpMmJfaG9oZXU5ZVh1M3ZORHVUUQ?oc=5)
 

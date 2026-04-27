@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [SGLT-2-Hemmer: Neue Ära in der Diabetes-Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+
+---
+
+### [Mit Mut, Disziplin und moderner Medizin: COPD-Patient lebt trotz schwerer Lungenerkrankung ein aktives Leben - Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">copd</span>
+
+來源：[Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
+
+---
 
 ### [Así frena la prediabetes la vitamina D: un remedio condicionado por el ADN - Libertad Digital](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQWZucEF1TFJSRkF3N05MemVCWXlsb2tfY1I4MlJwaDNVajR0alY5XzNJWWpReW5ubExGeUZBWlRjekQ3NUpPS3lNQV9vRmlIQjNwc19xVDNMVjNTVXQwUjVuUUd4c3lWR1ZSZlp0SnNLcUtYSDlhWHd1aGVoV3NUUVFXcUJYVnZfRE95cWg1NUhzd1lsSUVmUFJXbjNmZ090T1ZCM200MGJGRkRzT3BZLVdaeXlLeFk4Y2FPQmh1bkpwRElhNjg2QW51eW5GSzZYdVlkVmpVbDBCcC1zMjhuTno5TnAzd2N4ZnpZ0gH2AUFVX3lxTFA1V2NRVGZ1YUt0b3Z4UGdWSVNtZEh4MnZBUFlMV1hid29rMVlCVGtxd1F1V3ktOG96Ym9RSkZGQVhQUkdPR2MzQmE3QVYxVWtDSFRLNW5qdlZfRHJJVURpbm9MRWhOTk11aU5nNjlUODNaQzV0RGd1VkU3NFN0Sm1FYkI2SzZmTEl4VE96VjBabEpId1UzNzVoenVvVEtTcFAzZXY0TVpiTURmWml5b0pGZkRfLVQ0eFhUcEpwOGRDNkdJaEUxN1laZjY1NXRvNU9GQ0VLSUZXajBJZFY4SldGa0ZpMmJfaG9oZXU5ZVh1M3ZORHVUUQ?oc=5)
 

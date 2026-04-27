@@ -14,7 +14,7 @@ permalink: /news/pomalidomide/
 ---
 
 <p class="key-answer" data-question="Pomalidomide 有什麼相關新聞？">
-<strong>Pomalidomide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pomalidomide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/pomalidomide/
 <p><a href="{{ '/drugs/pomalidomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（13 則）
+
+### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
+
+---
+
+### [Neue Studie erstaunt - Kann Schuppenflechte vor Hautkrebs schützen? - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schuppenflechte</span>
+
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+---
+
+### ["On ne peut pas baisser les bras" : Près de Toulouse, Radia et Toufik se battent pour financer un traitement à 85 000 € afin de guérir leur fille atteinte d'un cancer rare](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWU5Ua2JzcDdNTktqenBwRVY5SWc1b0lXWE5QdVhMWUFDR3oyVTJEa2pmeWVVSVhJeEdENWxKbmdOUFhRMWdPaTdldHNFVWJtUVhKOGFfVlFpd0h6anRVc1ZaRTc2bXJqelFkRUp4RWlUNHpIc3ZhSktabFRKRHVrR3EySU10SllmNHNka29id0FfZmVqdVdJSGZ1ZHd3bmlYN2RlNC05RzFPM0FVdVh1Uk1zSDlmOGNld3dMbjg2ZVg1MlliV2hKRVkyX3RFWlg5UkgxV1I3eURvWTZMbXZxUUlmeUR0a0lnVk1XSmw2LUFoOFhSalRnMXRUSG5uZktnUFR6QWsxMmNVUXZucjZpNFB6dk9YMkY2YXBV?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWU5Ua2JzcDdNTktqenBwRVY5SWc1b0lXWE5QdVhMWUFDR3oyVTJEa2pmeWVVSVhJeEdENWxKbmdOUFhRMWdPaTdldHNFVWJtUVhKOGFfVlFpd0h6anRVc1ZaRTc2bXJqelFkRUp4RWlUNHpIc3ZhSktabFRKRHVrR3EySU10SllmNHNka29id0FfZmVqdVdJSGZ1ZHd3bmlYN2RlNC05RzFPM0FVdVh1Uk1zSDlmOGNld3dMbjg2ZVg1MlliV2hKRVkyX3RFWlg5UkgxV1I3eURvWTZMbXZxUUlmeUR0a0lnVk1XSmw2LUFoOFhSalRnMXRUSG5uZktnUFR6QWsxMmNVUXZucjZpNFB6dk9YMkY2YXBV?oc=5)
+
+---
+
+### [Le Puy : nouvelle imagerie de pointe contre les cancers et les maladies cardiaques](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWRzSUVyWEMwRlVFcy1WWW05NV9USGlFYmlkaFYwMjRwSUNHYVJHNGxmSUdaMGRtWFhTZXN6YzdlOXdfcmVoU3NmTlRmN2t1WmxoejZ5UFBUQjJOMW5yLV92SlFNdFRNT0pISVJHWHI5VURkb0dhRVFjVGhDS0staEk4OXo3bXNLY05RaFJmekxLUkJyMEpvMTdQdkQxV0syWlZwM1BTMEtEZXVPbk9uWUE5ejU?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Zoomdici.fr](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWRzSUVyWEMwRlVFcy1WWW05NV9USGlFYmlkaFYwMjRwSUNHYVJHNGxmSUdaMGRtWFhTZXN6YzdlOXdfcmVoU3NmTlRmN2t1WmxoejZ5UFBUQjJOMW5yLV92SlFNdFRNT0pISVJHWHI5VURkb0dhRVFjVGhDS0staEk4OXo3bXNLY05RaFJmekxLUkJyMEpvMTdQdkQxV0syWlZwM1BTMEtEZXVPbk9uWUE5ejU?oc=5)
+
+---
+
+### [Burioni: "Tre buone notizie nella lotta contro il tumore al pancreas"](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDRzbzF6c0stZVNLdl9SQTMyMkFHemlPWUtsd3hXOTB2cXplU1RWMWZxUnpfUmNXdzQwWVRGZTFSbkpOU0hCUUNZQjRMOE51ZVg4WHh3T2dQVUJjelFyQ1JORldBQi1JVlZ5Rm1CT24xeEJnV0ZiamFZRGwyTDFRbmJGWDI2NFp1d3Z6QThaYWRXWVU3UFU2cXB3TThxdlNZcWhjOVdUcFF3Zw?oc=5)
+
+2026-04-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDRzbzF6c0stZVNLdl9SQTMyMkFHemlPWUtsd3hXOTB2cXplU1RWMWZxUnpfUmNXdzQwWVRGZTFSbkpOU0hCUUNZQjRMOE51ZVg4WHh3T2dQVUJjelFyQ1JORldBQi1JVlZ5Rm1CT24xeEJnV0ZiamFZRGwyTDFRbmJGWDI2NFp1d3Z6QThaYWRXWVU3UFU2cXB3TThxdlNZcWhjOVdUcFF3Zw?oc=5)
+
+---
 
 ### [Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
 
@@ -75,6 +115,14 @@ permalink: /news/pomalidomide/
 2026-04-26 <span class="news-indication-tag">cancer</span>
 
 來源：[L'essentiel](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUZwY2hBdGppM0VqMm55Q2xCcElvOXFGRmxZWG80UFZCdEt2di1nMHktbE1rSE9Ma2VXSEgwSFF3NXhCTU9IV2kxMEpjUTRUdkZhRDdCa1lZN25vT2oxeG53NGhXQVJ4ODNraWJSeUxSYmRuN1plcmNFb0wyV3I1OTZVYXN1cmlUTHU1QzUtSWVZQy0tWnI1NXh2VmJTSTVWV2RicDdQR1ZSSS1sdUppM2FoWQ?oc=5)
+
+---
+
+### [El cáncer de testículo aumenta en hombres jóvenes](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWVhZ2lDY1doMDhrbnlIZ0hFcTdQY3BCaTZ2RkpTR3VwX2hBMWJGNk9ZOEpTTHZ2VTdUR0NPdXFWdlM3aUVYYXpxVWg2OG9YTFBpWG91WWFPd21KdTdGelhwVjVRNjFFb3hpRmgwQ1RPZlBJWVhSNncxYS14N0ROb2l0TTc1WklOZWJnVFhQVQ?oc=5)
+
+2026-04-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWVhZ2lDY1doMDhrbnlIZ0hFcTdQY3BCaTZ2RkpTR3VwX2hBMWJGNk9ZOEpTTHZ2VTdUR0NPdXFWdlM3aUVYYXpxVWg2OG9YTFBpWG91WWFPd21KdTdGelhwVjVRNjFFb3hpRmgwQ1RPZlBJWVhSNncxYS14N0ROb2l0TTc1WklOZWJnVFhQVQ?oc=5)
 
 ---
 
@@ -102,27 +150,11 @@ permalink: /news/pomalidomide/
 
 ---
 
-### [De tener un tumor a los 26 años a entrenar a pacientes con cáncer en Mallorca: «Quiero devolver todo lo que me han dado» - Diario de Mallorca](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTdIUDNXTzF3VUg4eEE4WTVLY1Q1OXJUMXVZQkE3X2ktUzhNNWFwNEdkUktJa3NGNGtSUFoxUXk0ampKQkxIZHVoRE5FNGRjT3QydHB6VDRwTURUeDJ3eDZmanAtOVlGOWY5NzJkRWt6bzNHdXc3eU51NUNraGNBckljRTI4N1FHYnJvZHhPbnEybE1IQlpfVC1WNXRwUFU00gGmAUFVX3lxTFBsTWJZZjRtOTlDTU54YjFOcWk1cU5BY2pHSkZGMXNabnJKWk9iZGhaR1VnQmFTVndtVGk1eVlmTnZFWXV6VC15ZUtFOEYxeW04OWI0Y2pQaVhlOVF4MzYzZ1JyUlNJdXBJbldabTJsTFVvLWR6ZUVob1psMDVQR1BCZDNLcjdUODk4SDlSYWE0czZDUGZkNG02anpPNmRWX0NkOVh6U2c?oc=5)
-
-2026-04-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Diario de Mallorca](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTdIUDNXTzF3VUg4eEE4WTVLY1Q1OXJUMXVZQkE3X2ktUzhNNWFwNEdkUktJa3NGNGtSUFoxUXk0ampKQkxIZHVoRE5FNGRjT3QydHB6VDRwTURUeDJ3eDZmanAtOVlGOWY5NzJkRWt6bzNHdXc3eU51NUNraGNBckljRTI4N1FHYnJvZHhPbnEybE1IQlpfVC1WNXRwUFU00gGmAUFVX3lxTFBsTWJZZjRtOTlDTU54YjFOcWk1cU5BY2pHSkZGMXNabnJKWk9iZGhaR1VnQmFTVndtVGk1eVlmTnZFWXV6VC15ZUtFOEYxeW04OWI0Y2pQaVhlOVF4MzYzZ1JyUlNJdXBJbldabTJsTFVvLWR6ZUVob1psMDVQR1BCZDNLcjdUODk4SDlSYWE0czZDUGZkNG02anpPNmRWX0NkOVh6U2c?oc=5)
-
----
-
-### [Ce médicament très prometteur contre le cancer testé avec succès au CHU Grenoble-Alpes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR04zUjU0R25aMVFyczU2QXV3MlVoT0FFb3B6UjRfWXlzOU1oZEFnVnlZSWdQTnFNSHpPVEJIM0NzWUpmcXZ1NFUtU0duM2wyUU1YWDNwTVpWR0FfTXZ2Y0pqTWMzUENYZ0FxMHFWZ2tQOGpuemxFNUZGR1ZUcWhLellHdFYzeHNqXzVkZEhYN01EWVVXVWlzdlozcWl6REdrM2M0dVh3MkxISlRUWnVGWW9YYzEtbnNIR3N5ekp1QXA4ZFp0eXBSZDVSejlaWWpocWNLTHJZcDBSYndPT25aVWRnMHp2RFE?oc=5)
-
-2026-04-25 <span class="news-indication-tag">cancer</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR04zUjU0R25aMVFyczU2QXV3MlVoT0FFb3B6UjRfWXlzOU1oZEFnVnlZSWdQTnFNSHpPVEJIM0NzWUpmcXZ1NFUtU0duM2wyUU1YWDNwTVpWR0FfTXZ2Y0pqTWMzUENYZ0FxMHFWZ2tQOGpuemxFNUZGR1ZUcWhLellHdFYzeHNqXzVkZEhYN01EWVVXVWlzdlozcWl6REdrM2M0dVh3MkxISlRUWnVGWW9YYzEtbnNIR3N5ekp1QXA4ZFp0eXBSZDVSejlaWWpocWNLTHJZcDBSYndPT25aVWRnMHp2RFE?oc=5)
-
----
-
-### [El latido del corazón es el «escudo» natural que impide que el órgano sufra cáncer](https://news.google.com/rss/articles/CBMingFBVV95cUxORmdLcEpBRXlDSS1nNE9GRzVsYnhYdXo4RENQXzVrakJPbVpFNFo3RmtSaDhoZFZjdGtxVnZ1NzhJd3NLeFp5cUNiV0I4QjM5OUkydnJXa25TSUpGX1FHZnQzaGVxc3BqYzg3V3d4akxjLWRRR25JTWtSVHJ3LTd1c0k0RU9BdDlVTzJQSzBlclcxRGtONUZhazVDU3prZ9IBowFBVV95cUxPeGlzWHkwWnVCRXpMMHNIak1GalNXVWVjSTdCM3E5SE5YWVBfODlKQjI4VUZUTmEzMTRMOHFXbTZlV0RkMEFaM2xBdlN4RnFyOWJXTTh4Ry1ZYkZjZmVWUUFBdmFDQ0oyYUVzWUduOG05M1MxdFZIY1F2a3dJajVoSm5LdFN6RG45dUN4NHpZalR6T19mYy1LZThOTEdMMndlblF3?oc=5)
+### [Il cuore che “combatte” il cancro: così il battito cardiaco può frenare i tumori e ridurli oltre il 50% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE9sZGZ2VDdvb3ZITlA3VmJGaG5MWE9rdUQ0N3pyaXBseFZscDRyeUdnSVg5dVdsWDZNbWFYb20zRzhRdlNaNXVhaXAtWkpGcGdyOVQzcVV1MW5uaW5Tci0tWjA2anRMdjdlNGNXcS15N2YxT3FGX2JQTjgxNzFBQ1R5Y1Z3OXg3RDFIOXZPM2lPaDd3QUs5UGFB?oc=5)
 
 2026-04-25 <span class="news-indication-tag">tumor</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMingFBVV95cUxORmdLcEpBRXlDSS1nNE9GRzVsYnhYdXo4RENQXzVrakJPbVpFNFo3RmtSaDhoZFZjdGtxVnZ1NzhJd3NLeFp5cUNiV0I4QjM5OUkydnJXa25TSUpGX1FHZnQzaGVxc3BqYzg3V3d4akxjLWRRR25JTWtSVHJ3LTd1c0k0RU9BdDlVTzJQSzBlclcxRGtONUZhazVDU3prZ9IBowFBVV95cUxPeGlzWHkwWnVCRXpMMHNIak1GalNXVWVjSTdCM3E5SE5YWVBfODlKQjI4VUZUTmEzMTRMOHFXbTZlV0RkMEFaM2xBdlN4RnFyOWJXTTh4Ry1ZYkZjZmVWUUFBdmFDQ0oyYUVzWUduOG05M1MxdFZIY1F2a3dJajVoSm5LdFN6RG45dUN4NHpZalR6T19mYy1LZThOTEdMMndlblF3?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE9sZGZ2VDdvb3ZITlA3VmJGaG5MWE9rdUQ0N3pyaXBseFZscDRyeUdnSVg5dVdsWDZNbWFYb20zRzhRdlNaNXVhaXAtWkpGcGdyOVQzcVV1MW5uaW5Tci0tWjA2anRMdjdlNGNXcS15N2YxT3FGX2JQTjgxNzFBQ1R5Y1Z3OXg3RDFIOXZPM2lPaDd3QUs5UGFB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li>psoriasis（98.7%）</li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 Schuppenflechte</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,7 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Neue Studie erstaunt - Kann Schuppenflechte vor Hautkrebs schützen? - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schuppenflechte</span>
+
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+---
 
 ### [El precio de los medicamentos para Parkinson, Covid o artritis en la sanidad pública de la Comunitat - La Razón](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTFh2UTFGTjdpaHFwVWhnMUszSGl4U0gybVN2elIwY3FxWE5LVGoxQ3ZHclNGajYzRVI5RWJKeUc1bzNxQ05KTlZZME15ZW42ajh6c09SUjFSWks2TjYxMU1STFZqS0s5QkV1SkRlcnNoSkxTam5Yelp1ZnJ6dXBxNkxBTnZsQ2hZVnZWb1JYdTdjSXdzdXIwRHFEN2psdTdzMGV2NnR2RTkySjg3ejRFZnF0dGlpcnE4WUpCdkRFYTFtd2ZTdi1US0NMS1FFNGdJVFZnWVd1M2g5NHBXVlM0MW1peVdsQlRyam12MWJRTVJNTWJnMkFLaDVOOG9YUEY0MG5Lc3JkdTBYVGt0VHhrWE1BcW9PNm1PVEViQmR0OFBGbDjSAbcCQVVfeXFMTU4yU0xqaDRTLVpQcEI5dTRoMzU1VUJFZmtfS2NvVFNHLUFhUXZPM3ZVMUstNGwxMV9qYm91cVNVT3J5RlBuTWxzZDRwRjIwWExmd0tGTm91bEpxbDBuc1JBVTlzOFVnZzIxWk91bjlXYWJmc1JCWnY1RUtqZjFRM2hPeUhUYkMtNFdlNjNWWUszRFYtZDg1bmpQb0ZQRW1lbjRKWG93ZG85dFc4bU5BckZCbFQydkFLdW1OcENSMmJkWjR0M01heU1ibUNIbHZaWE96LTQwTXFHZGUwVEtFSk9pZUVNeEJEcXNBZjJ5U2NLTndUTjFOV3I5RzdpelBRY2xRU2Q5V1V5ODQtTE1DLVYwNkp1VGdBWUtjUlZBdEs0RlQ5REZjUnhRRjhVY3hzMjFkUDlpbjg?oc=5)
 

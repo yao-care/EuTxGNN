@@ -56,7 +56,7 @@ permalink: /news/rasagiline/
 
 ### [The 50p supp to beat midlife fatigue, brittle hair & 'slash dementia risk' - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHdYdnFFT25oRTFHcGdaSHRJbEZ3MTBYRlNlWGNla1lPRUN0amZteXZXRXVHeWprOE5ldXpNMHVzQUt2NmdXUG0wa25CeUs0ZjI0Q2F6X3ppeHQtSUpKS1NrQS1iQlE0cDdkUEt5VlRnZlIwcUVUeFpXSGloOGtmeDJqYnlXR282aVJCc2NYLUhrSXZoODkxYw?oc=5)
 
-2026-04-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-04-26 <span class="news-indication-tag">dementia</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHdYdnFFT25oRTFHcGdaSHRJbEZ3MTBYRlNlWGNla1lPRUN0amZteXZXRXVHeWprOE5ldXpNMHVzQUt2NmdXUG0wa25CeUs0ZjI0Q2F6X3ppeHQtSUpKS1NrQS1iQlE0cDdkUEt5VlRnZlIwcUVUeFpXSGloOGtmeDJqYnlXR282aVJCc2NYLUhrSXZoODkxYw?oc=5)
 
@@ -78,11 +78,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [El microbioma intestinal podría indicar el riesgo de padecer Párkinson](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNacWt5U3hqWEdjbXZzMnNjbU1BUnJCLUZoTFZfZE9WTGY3a2pieDlSZk1BTFlNd1NJVGJaUlpRZHdMOUdtRjE0RWoxVUw2TnprSF9KLUFUN3ZUdXY2NHBIa3RWNjlqMDNtSE82S3NMQzdfamJUZW41dmZnQnpFZ0lxQ2V2OUNuTzZ5QXl3SEFSUlI5MFl3cTA5YUh4OVR5VEJ1dWhjNGRSWDBhRkgza1RFTG05VVdWUy1CTDdn?oc=5)
+### [Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 
-2026-04-25 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+2026-04-25 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">epilepsy</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNacWt5U3hqWEdjbXZzMnNjbU1BUnJCLUZoTFZfZE9WTGY3a2pieDlSZk1BTFlNd1NJVGJaUlpRZHdMOUdtRjE0RWoxVUw2TnprSF9KLUFUN3ZUdXY2NHBIa3RWNjlqMDNtSE82S3NMQzdfamJUZW41dmZnQnpFZ0lxQ2V2OUNuTzZ5QXl3SEFSUlI5MFl3cTA5YUh4OVR5VEJ1dWhjNGRSWDBhRkgza1RFTG05VVdWUy1CTDdn?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5)
 
 ---
 

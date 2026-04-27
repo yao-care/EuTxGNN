@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Wirkstoff: Apilimod blockiert Viruseintritt in Leberzellen bei Hepatitis E](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
+
+2026-04-27
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
+
+---
 
 ### [“Queremos aprovechar la experiencia de la estrategia frente a la hepatitis C para mejorar el abordaje global de la enfermedad hepática”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDRwRmxQX1p4RlFjTzAtRTVaOGZ2OE1DNzJzZkNKbVowLTJFMDdVYlprSktUSlJoOTZqai01Sl9kQkE4dEhYVUQ3WldDUi1qWFNmSmF2Tjk1MUtoczBPd0cyMUdmelAwaHJkQ05Sc0hDb3ZJNFZ5VzhjMWp6NTN0ZTNWVnZBbXNmV19wb0pMNUk4ODBfSU9RQk11MGgxVFNzeGVLX1EyS0tLZEwxNy1BaVZBNHJ4MW1JaHF1amg2UWU2ZnR6bHZiZ0sySkw0UHpsOG5WVVVn?oc=5)
 

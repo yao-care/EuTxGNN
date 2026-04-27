@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li>psoriasis（99.2%）</li>
+<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 Schuppenflechte</span></li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -52,7 +52,31 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
+
+### [SGLT-2-Hemmer: Neue Ära in der Diabetes-Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+
+2026-04-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+
+---
+
+### [Neue Studie erstaunt - Kann Schuppenflechte vor Hautkrebs schützen? - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schuppenflechte</span>
+
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
+
+---
+
+### [Mit Mut, Disziplin und moderner Medizin: COPD-Patient lebt trotz schwerer Lungenerkrankung ein aktives Leben - Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">copd</span>
+
+來源：[Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
+
+---
 
 ### [Así frena la prediabetes la vitamina D: un remedio condicionado por el ADN - Libertad Digital](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQWZucEF1TFJSRkF3N05MemVCWXlsb2tfY1I4MlJwaDNVajR0alY5XzNJWWpReW5ubExGeUZBWlRjekQ3NUpPS3lNQV9vRmlIQjNwc19xVDNMVjNTVXQwUjVuUUd4c3lWR1ZSZlp0SnNLcUtYSDlhWHd1aGVoV3NUUVFXcUJYVnZfRE95cWg1NUhzd1lsSUVmUFJXbjNmZ090T1ZCM200MGJGRkRzT3BZLVdaeXlLeFk4Y2FPQmh1bkpwRElhNjg2QW51eW5GSzZYdVlkVmpVbDBCcC1zMjhuTno5TnAzd2N4ZnpZ0gH2AUFVX3lxTFA1V2NRVGZ1YUt0b3Z4UGdWSVNtZEh4MnZBUFlMV1hid29rMVlCVGtxd1F1V3ktOG96Ym9RSkZGQVhQUkdPR2MzQmE3QVYxVWtDSFRLNW5qdlZfRHJJVURpbm9MRWhOTk11aU5nNjlUODNaQzV0RGd1VkU3NFN0Sm1FYkI2SzZmTEl4VE96VjBabEpId1UzNzVoenVvVEtTcFAzZXY0TVpiTURmWml5b0pGZkRfLVQ0eFhUcEpwOGRDNkdJaEUxN1laZjY1NXRvNU9GQ0VLSUZXajBJZFY4SldGa0ZpMmJfaG9oZXU5ZVh1M3ZORHVUUQ?oc=5)
 

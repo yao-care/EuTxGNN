@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Mit Mut, Disziplin und moderner Medizin: COPD-Patient lebt trotz schwerer Lungenerkrankung ein aktives Leben - Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">copd</span>
+
+來源：[Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
+
+---
 
 ### [El precio de los medicamentos para Parkinson, Covid o artritis en la sanidad pública de la Comunitat - La Razón](https://news.google.com/rss/articles/CBMiowJBVV95cUxQTFh2UTFGTjdpaHFwVWhnMUszSGl4U0gybVN2elIwY3FxWE5LVGoxQ3ZHclNGajYzRVI5RWJKeUc1bzNxQ05KTlZZME15ZW42ajh6c09SUjFSWks2TjYxMU1STFZqS0s5QkV1SkRlcnNoSkxTam5Yelp1ZnJ6dXBxNkxBTnZsQ2hZVnZWb1JYdTdjSXdzdXIwRHFEN2psdTdzMGV2NnR2RTkySjg3ejRFZnF0dGlpcnE4WUpCdkRFYTFtd2ZTdi1US0NMS1FFNGdJVFZnWVd1M2g5NHBXVlM0MW1peVdsQlRyam12MWJRTVJNTWJnMkFLaDVOOG9YUEY0MG5Lc3JkdTBYVGt0VHhrWE1BcW9PNm1PVEViQmR0OFBGbDjSAbcCQVVfeXFMTU4yU0xqaDRTLVpQcEI5dTRoMzU1VUJFZmtfS2NvVFNHLUFhUXZPM3ZVMUstNGwxMV9qYm91cVNVT3J5RlBuTWxzZDRwRjIwWExmd0tGTm91bEpxbDBuc1JBVTlzOFVnZzIxWk91bjlXYWJmc1JCWnY1RUtqZjFRM2hPeUhUYkMtNFdlNjNWWUszRFYtZDg1bmpQb0ZQRW1lbjRKWG93ZG85dFc4bU5BckZCbFQydkFLdW1OcENSMmJkWjR0M01heU1ibUNIbHZaWE96LTQwTXFHZGUwVEtFSk9pZUVNeEJEcXNBZjJ5U2NLTndUTjFOV3I5RzdpelBRY2xRU2Q5V1V5ODQtTE1DLVYwNkp1VGdBWUtjUlZBdEs0RlQ5REZjUnhRRjhVY3hzMjFkUDlpbjg?oc=5)
 

@@ -54,11 +54,11 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（1 則）
 
-### [El microbioma intestinal podría indicar el riesgo de padecer Párkinson](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNacWt5U3hqWEdjbXZzMnNjbU1BUnJCLUZoTFZfZE9WTGY3a2pieDlSZk1BTFlNd1NJVGJaUlpRZHdMOUdtRjE0RWoxVUw2TnprSF9KLUFUN3ZUdXY2NHBIa3RWNjlqMDNtSE82S3NMQzdfamJUZW41dmZnQnpFZ0lxQ2V2OUNuTzZ5QXl3SEFSUlI5MFl3cTA5YUh4OVR5VEJ1dWhjNGRSWDBhRkgza1RFTG05VVdWUy1CTDdn?oc=5)
+### [Mit Mut, Disziplin und moderner Medizin: COPD-Patient lebt trotz schwerer Lungenerkrankung ein aktives Leben - Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
 
-2026-04-25 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+2026-04-27 <span class="news-indication-tag">copd</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNacWt5U3hqWEdjbXZzMnNjbU1BUnJCLUZoTFZfZE9WTGY3a2pieDlSZk1BTFlNd1NJVGJaUlpRZHdMOUdtRjE0RWoxVUw2TnprSF9KLUFUN3ZUdXY2NHBIa3RWNjlqMDNtSE82S3NMQzdfamJUZW41dmZnQnpFZ0lxQ2V2OUNuTzZ5QXl3SEFSUlI5MFl3cTA5YUh4OVR5VEJ1dWhjNGRSWDBhRkgza1RFTG05VVdWUy1CTDdn?oc=5)
+來源：[Helios Gesundheit](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUpaU1kzei1iWmQ5UWIyMkJrd0g2Vm9FNktlTEdYb1dYU1oxNEdxNEwzZHVpOXk4MXpoU2k5YU9HQzU4MWdVX3ZPU2tFMHpNNS1tZXBJNHQzejI1ZGp1S2k2bVRiQVZPSHR2NEtSVDBkSmp2WHE1NG5uTko5SmxkaHlIM1lLV1RCNHc1Ui1jSXpfVHZXM0lqdVROUUtLUmhMNUY2QQ?oc=5)
 
 ---
 
