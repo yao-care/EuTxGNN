@@ -14,7 +14,7 @@ permalink: /news/tucatinib/
 ---
 
 <p class="key-answer" data-question="Tucatinib 有什麼相關新聞？">
-<strong>Tucatinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tucatinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tucatinib/
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Pénurie : ce médicament pris par 50 000 Français est en rupture de stock !](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEd6VHVWVzIzQ2tsTmFIelNBSHhKQmZqQVMtMG12U0t0aENyS2FEU19wTGFxbkZVcVEzSzU0cVJXQ0RWNDhYNTFMdGpXNW9qX3Q2eE13Qm96azgtZmIwdGRvZjJPYjJpVGpTRUZWcWRlZDhsVDI3Ukpyajg5a2ZIOW01R01VbnBZ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">hypertension</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEd6VHVWVzIzQ2tsTmFIelNBSHhKQmZqQVMtMG12U0t0aENyS2FEU19wTGFxbkZVcVEzSzU0cVJXQ0RWNDhYNTFMdGpXNW9qX3Q2eE13Qm96azgtZmIwdGRvZjJPYjJpVGpTRUZWcWRlZDhsVDI3Ukpyajg5a2ZIOW01R01VbnBZ?oc=5)
+
+---
 
 ### [‘I thought I was doing everything right’: Crossmaglen dad, 40, shares shock heart failure diagnosis - Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
 

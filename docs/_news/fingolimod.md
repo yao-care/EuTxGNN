@@ -14,7 +14,7 @@ permalink: /news/fingolimod/
 ---
 
 <p class="key-answer" data-question="Fingolimod 有什麼相關新聞？">
-<strong>Fingolimod</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fingolimod</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/fingolimod/
 <p><a href="{{ '/drugs/fingolimod/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（32 則）
+
+### [Arranca la campaña ‘Comprometidos con cada generación’ para concienciar sobre la vacunación](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXVmMkZoWEhYVlZoRkdXV2JPTzk4dnBEQjdwOEJ3aU5qeDlWTFFQbGU3Qm9kUEJBcXVQRW50R1VxMm9RYzBZdTc1NFVudkpEazVyTUZsTFZaUVhTZEhKb283RGJOQnlWd1BBS1QxbkNxU3ZFU2VPNURiRm9Ca2dNSHM1XzVzcDl0Y2ZaMmg0Y1kxakFoTFd5dTdsZDlmT0V4bC1sbzlPSUtvYmRpM3BvMkJmUEZwajVvTHc0M3JTa0EtQVU?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXVmMkZoWEhYVlZoRkdXV2JPTzk4dnBEQjdwOEJ3aU5qeDlWTFFQbGU3Qm9kUEJBcXVQRW50R1VxMm9RYzBZdTc1NFVudkpEazVyTUZsTFZaUVhTZEhKb283RGJOQnlWd1BBS1QxbkNxU3ZFU2VPNURiRm9Ca2dNSHM1XzVzcDl0Y2ZaMmg0Y1kxakFoTFd5dTdsZDlmT0V4bC1sbzlPSUtvYmRpM3BvMkJmUEZwajVvTHc0M3JTa0EtQVU?oc=5)
+
+---
+
+### [NCT04916002: vidutolimod intratumoral + cemiplimab intravenoso en cáncer de piel no melanoma avanzado](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEFjSzVXdkx0cWYwWTRVdFBnRGF1cFVDRVdybXM0NGpiaTFlWUM1X1N6bjFzRDFwOUJLUWtELWhlVjJUcGV0Y19idWl3cDE4UEVKNHVtSjZJUmUzckpwbkZ5dWNJczZSdGNzSDJFSVRiTGF4aEprS053T2hCai1OZ3hnZlpHT09pa3NISTNtZnh5XzVKZVlPZ1lDNUprQWl1NkM1WTRSY181emxaMWNrcW9XWk1BSlp6SEI4WTFsaHNBZ2luM19QdVY0UUdiTjJfM2V1bkw1WQ?oc=5)
+
+2026-04-28 <span class="news-drug-tag">Cemiplimab</span> <span class="news-indication-tag">tumor</span>
+
+來源：[oncobites.tv](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEFjSzVXdkx0cWYwWTRVdFBnRGF1cFVDRVdybXM0NGpiaTFlWUM1X1N6bjFzRDFwOUJLUWtELWhlVjJUcGV0Y19idWl3cDE4UEVKNHVtSjZJUmUzckpwbkZ5dWNJczZSdGNzSDJFSVRiTGF4aEprS053T2hCai1OZ3hnZlpHT09pa3NISTNtZnh5XzVKZVlPZ1lDNUprQWl1NkM1WTRSY181emxaMWNrcW9XWk1BSlp6SEI4WTFsaHNBZ2luM19QdVY0UUdiTjJfM2V1bkw1WQ?oc=5)
+
+---
+
+### [Samsung celebra el primer aniversario de The Mind Guardian con la prevención como pilar en el cuidado de la salud cerebral](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRjhyaW1pRkQ3RnJ2RF9RVENLNDVMdkdCXzFOaXdzNEhjdUxIS2NRM0RCQU5LRXRYZURHc280RVltMDRSaGVHb05LVDR6dTcwYXh1MENFYkZCWk8ya3JwUjBNYXlPSEZKdUR4alZkODBuaWpURWtQTVV5cVRvZTlUSU02eFI4NzVrN0xJT01hdWN3ZW9pVUhGcjJ3UEYyUlk2NlJrQUlQd0o0c21BSEI2allEVDlidFZiVURmNlhvNURYUHJBMTFONzVMZVdsMFl6c1g4Q1h6SEJNR3V0STlVZ29kYmU?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[samsung.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRjhyaW1pRkQ3RnJ2RF9RVENLNDVMdkdCXzFOaXdzNEhjdUxIS2NRM0RCQU5LRXRYZURHc280RVltMDRSaGVHb05LVDR6dTcwYXh1MENFYkZCWk8ya3JwUjBNYXlPSEZKdUR4alZkODBuaWpURWtQTVV5cVRvZTlUSU02eFI4NzVrN0xJT01hdWN3ZW9pVUhGcjJ3UEYyUlk2NlJrQUlQd0o0c21BSEI2allEVDlidFZiVURmNlhvNURYUHJBMTFONzVMZVdsMFl6c1g4Q1h6SEJNR3V0STlVZ29kYmU?oc=5)
+
+---
+
+### [My cancer masked as stress and midlife fatigue… I had no red flag signs but a niggle took me to GP after blaming my job - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE02dG5QcC1XUUlJam00UHF1WTl6RGtXQzlKc004OHNPaDJsVFBMYnU1aks5cVQybFRGMGVtUzZoM1BveXY0THRvLTQxWW5GUHJjSUR6Wk4zTF9jTnN2WW0yV2xhLV94WjJNd1htR3ktZThmc0ppclNUN3NCOU5LbzA?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE02dG5QcC1XUUlJam00UHF1WTl6RGtXQzlKc004OHNPaDJsVFBMYnU1aks5cVQybFRGMGVtUzZoM1BveXY0THRvLTQxWW5GUHJjSUR6Wk4zTF9jTnN2WW0yV2xhLV94WjJNd1htR3ktZThmc0ppclNUN3NCOU5LbzA?oc=5)
+
+---
 
 ### [Cómo la esclerosis múltiple provoca la muerte neuronal - GAEM (Grupo de Afectados de Esclerosis Múltiple)](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
 
@@ -67,6 +99,14 @@ permalink: /news/fingolimod/
 2026-04-28 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
+
+---
+
+### [Devon woman with MS 'spat at' for using Blue Badge - Devon Live](https://news.google.com/rss/articles/CBMifkFVX3lxTFBfWjhVaFpaS1g0VEZndFd5Qnk2V1dHaE8wWGZOMTRmYldxa0JEbHpTN1llT0E1aGktQUlvVm1lWXJyNEEwd0MyYU1qLU5saVBLa3o0Tm5UZHVGMlRIcG0ydkxNYlFaOGNXMVFWcmNZZVlnMjJiUWJhYmpmbzRWd9IBgwFBVV95cUxPRVN6eExCaDNRS1dzU010VHFXTzFzRVQ4ZEd1NXRZZFNkZEp5YlhjZHdRUXQ4bjM5OE9tSDhkS0UzN0JPcER2R3oyQ1lmZHR6ZFM2Rm80ZlpLN0h0R28zMVlueV9BbkFNQWg3a09JR2tIWms5cGlzQWQwQkNpUUFQYk1UVQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[Devon Live](https://news.google.com/rss/articles/CBMifkFVX3lxTFBfWjhVaFpaS1g0VEZndFd5Qnk2V1dHaE8wWGZOMTRmYldxa0JEbHpTN1llT0E1aGktQUlvVm1lWXJyNEEwd0MyYU1qLU5saVBLa3o0Tm5UZHVGMlRIcG0ydkxNYlFaOGNXMVFWcmNZZVlnMjJiUWJhYmpmbzRWd9IBgwFBVV95cUxPRVN6eExCaDNRS1dzU010VHFXTzFzRVQ4ZEd1NXRZZFNkZEp5YlhjZHdRUXQ4bjM5OE9tSDhkS0UzN0JPcER2R3oyQ1lmZHR6ZFM2Rm80ZlpLN0h0R28zMVlueV9BbkFNQWg3a09JR2tIWms5cGlzQWQwQkNpUUFQYk1UVQ?oc=5)
 
 ---
 
@@ -110,6 +150,14 @@ permalink: /news/fingolimod/
 
 ---
 
+### [A treatment for pre-eclampsia may be on the horizon - The Economist](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU9nUE4zQnpxZnY4b3RjT1YtaHlxQk4weXk3SkRCUXhpZEZpcGlLdzh4OWd2WkNOMmhWNEkwN0tkWHVlcFV6dWVrNEF4LWRjUjJJaUF2S090anlBeDdieFVkaGhuaHBMVlpSYVgzdFZFTGgzcmZKZlhWNTM1MDhDa1JpRG4zVFFQWUIzTUNHQm01TFJyQ21pOEJMcEtTLXA2V3k0RkF3cVhKQmxUNUZVag?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU9nUE4zQnpxZnY4b3RjT1YtaHlxQk4weXk3SkRCUXhpZEZpcGlLdzh4OWd2WkNOMmhWNEkwN0tkWHVlcFV6dWVrNEF4LWRjUjJJaUF2S090anlBeDdieFVkaGhuaHBMVlpSYVgzdFZFTGgzcmZKZlhWNTM1MDhDa1JpRG4zVFFQWUIzTUNHQm01TFJyQ21pOEJMcEtTLXA2V3k0RkF3cVhKQmxUNUZVag?oc=5)
+
+---
+
 ### [OMS, Unicef y Gavi protegen a 18,3 millones de menores con campaña masiva de vacunación](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWdmcDJPbTVWekJGOTgxeHd1bHpRMHY5eFlhZmlhdE1lcW9LV3BfNHZwR3FmLVJMUDA4N0ZNMkZhbWZHY3hkalRBV3NMY0dsMHF3cnNzVWotckYyUnRPUEExbDhYOUxiMDJyN3dlTnd5MzJ0a1JmX3VRYTloaXJsdGNWRTk2ZkF4N3c1SkpFYW82OFZLVFdyWnljbTNEOHAxdi1ZLXlUa2t0RFN2SkE?oc=5)
 
 2026-04-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -123,6 +171,14 @@ permalink: /news/fingolimod/
 2026-04-27 <span class="news-indication-tag">MS</span>
 
 來源：[Xataka](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUJlR3BmNmd2cHFtRlMxTnBBU2JrZnhjNWlpVFlIUGtEMTNoR2pHdUlOV0d6bGRVd2ZhYnpyc25vcGtJMUV0YmV1ZDVpRGgxQ0tXbEtQLVBfMGo4VGRhN2V1N19zb2o4N2kwMFU0NnBERXNLV0V1dFhOWmFJTGpYSGdqTzZ0bGdDU3pfT3V6bjYyVnRLRmkxY3NhR050RzhRMzBRN1RJSC0yS0Y3M0ZVTW5pSi1GOFJaQU51OHhWMFNxWEZJNms0cThDTFZackJ0UnJaZ1dUZEVWMWZwNGE1dlB6a1FDQdIB6wFBVV95cUxNaFNaTjRqcmdtYlFkbmctUXRuQ2dlZWF1bWY0alBJWTdGLXBvZEVFZXZXcl9ESGZSbVB1ZmlDcThLVTVNM0F1Z0VTTzhaUVBLZHI2Nk1tdEQtWVBtUVVqVUhWQzkyUDg4QlRJVlV4SGRtSHVNblRqU3hSZnNRb2Nqdm9LX2xHblJZSkM3QS03bGVpOVJ1Q1JSS2JGbTVIb3JYOFY0amlTbkctc09BTGFWZ3BuaGF3MWhwaWdkdXNtU1RSZjRyejg4Q3hoQmVzOE5tbE56VV9xRzY3RzFSVHNTSTNVbDlFMHpTRXN3?oc=5)
+
+---
+
+### [Cancer du pancréas : ce nouveau médicament prometteur qui augmente fortement les chances de survie](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVhIMnVIREdoWTlVZmZxLUhkTmNOMVA1d2tObXIwUm5ZZGkwUkE2d2VyM0JmbUoweXFEX25YZzA1bW1SYU5YV0s4dVpKVnhLb3l2MlFGZ2d1T1BWMkpOTERWUEtRYVROeXJOOGNUMEtPVFhrTmNIazdia1lTVnlWVHRiVVo5TWgyX0Z6M0pYaWI4emktNDYxRnpzbmVKSXNtMTBib0prakxwei1xemR3bVVrMklCQkJfTFNXUThaYnR5bG9WdHN6Ym54Z3VzMktSTVJIRzBoeHA2bTQ5MzFr?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVhIMnVIREdoWTlVZmZxLUhkTmNOMVA1d2tObXIwUm5ZZGkwUkE2d2VyM0JmbUoweXFEX25YZzA1bW1SYU5YV0s4dVpKVnhLb3l2MlFGZ2d1T1BWMkpOTERWUEtRYVROeXJOOGNUMEtPVFhrTmNIazdia1lTVnlWVHRiVVo5TWgyX0Z6M0pYaWI4emktNDYxRnpzbmVKSXNtMTBib0prakxwei1xemR3bVVrMklCQkJfTFNXUThaYnR5bG9WdHN6Ym54Z3VzMktSTVJIRzBoeHA2bTQ5MzFr?oc=5)
 
 ---
 
@@ -150,14 +206,6 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Bastano pochi minuti di sport al giorno per migliorare la memoria: ecco quanti - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjVhQk9vTXpnUXV2blNMUldfdVlRODBOTFQ4eTlvMUg5WmNqeXNWZlpqUm1XMnhhNWZOZDZwcFE3UzdjYWdlbGhMSEZ2aWYxZExGTGx5MklZUGctY2pxN3NwRWpyZXRoX2hKNmtqOTFheGYxSGJ3Y2VublpCVHF3MmttRmRBRWR2UmJpRUI4M0pfcGNSSU5MVTk4M2l3WnQ4UHhCdVJmNVRKNHA4eWxGNjRxNjlLOUg1Ylg5TGJJOWszb1FfOVFISE5EWHBHYlNsQ1UwTWZRZUlrSFAyb1J1V2x6MNIBwgFBVV95cUxOU0N6YzlrRkdPcDh3WWRFX3V1bXRUN2hxWnhsYjVpUUNCLV9oWkR2TnhrS1hKck15V0lvTFRWZHlqRVlzVDJQTWFsSHY4R0pEZHdLRUdRcHlUQTNyeUk2TW00SThsd3pONUNkR2g5cHFHa0wwVG5uN2FIV3BSb1NFTVZpemVDNTF5OVRQOEFYblFMdU9scm5BZGVRVHBtX3dSek5vSDBaOXBvRFFSZTFuT0FweDY5UHZWN3p6N3NyQXlUZw?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjVhQk9vTXpnUXV2blNMUldfdVlRODBOTFQ4eTlvMUg5WmNqeXNWZlpqUm1XMnhhNWZOZDZwcFE3UzdjYWdlbGhMSEZ2aWYxZExGTGx5MklZUGctY2pxN3NwRWpyZXRoX2hKNmtqOTFheGYxSGJ3Y2VublpCVHF3MmttRmRBRWR2UmJpRUI4M0pfcGNSSU5MVTk4M2l3WnQ4UHhCdVJmNVRKNHA4eWxGNjRxNjlLOUg1Ylg5TGJJOWszb1FfOVFISE5EWHBHYlNsQ1UwTWZRZUlrSFAyb1J1V2x6MNIBwgFBVV95cUxOU0N6YzlrRkdPcDh3WWRFX3V1bXRUN2hxWnhsYjVpUUNCLV9oWkR2TnhrS1hKck15V0lvTFRWZHlqRVlzVDJQTWFsSHY4R0pEZHdLRUdRcHlUQTNyeUk2TW00SThsd3pONUNkR2g5cHFHa0wwVG5uN2FIV3BSb1NFTVZpemVDNTF5OVRQOEFYblFMdU9scm5BZGVRVHBtX3dSek5vSDBaOXBvRFFSZTFuT0FweDY5UHZWN3p6N3NyQXlUZw?oc=5)
-
----
-
 ### [Vous pensiez la cigarette électronique inoffensive ? Cette étude révèle son terrible effet secondaire (et cela ne touche pas vos poumons)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzd2cTlkUjZMWkl6aXNBVE5Sb0psVDhGeFBqcU9iWC1uYW0wRlgxYmYtOGJEWkxFY3RNaFI5Wml5VjlEZGxVbUNzMnF6amtjamRwZlBjRkhkUG5jMGFZanlsQVpFNEtHV3NXbnpmWVFPWElTWGpVZENGTFRPZUpjeGszVGx3QlFPaktTTi1Nc2J5Q2w3V05TdzdZUE84U2RKNWdMVzlxeF8tam9MNmVWVmZEUVg1UlpWNmdfT3l2UkloUUpvMkk3TGdUMERodllWbGh1ZEhKOFhfNEpDWlc3ZFA2Y1UwRFYyS3hDQnNB?oc=5)
 
 2026-04-27 <span class="news-indication-tag">cancer</span>
@@ -166,11 +214,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [La EMA avala 'Cenrifki', fármaco oral que frena la progresión de la esclerosis múltiple progresiva secundaria - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0xvQTA1b01YeVM3djRKc0xMOC1hMjZma1VQV3ZqWTN3X0xJVWhoQUNoanpHX3Qzei1qRVV5TkxWU0dYX0RWcUYxSXA2aUVWaXlPVnUyUk5yTTVZT01xSm91MTducHNKUEFPZUcxaWx6R1E1c3ZxcVFSSk9oMjJuTURoLUtNN0JOUjdoeDY4U2dxamg4VEpFSXJR0gGfAUFVX3lxTE9sSHVFSWw0N2l1WlZCYWNUV1Zwc1NoOWthS3MtR0xTeWlHel92UmxDNjVfeVpUWUZ2UHZXZ3NkelJBTWh2MDQ5YXFwSjB5cGQ2NS1IQzhzZ3p6Vi03X0ZsZ0J1YkZaVy1maVUtc1VOUVlBelNfS0RPenBDNzFWTFBpTjU3Z0NoakpCczJHeHNqTGJJdXdZSEJ2dDFNNWhjbw?oc=5)
+### [EMA avala 'Cenrifki', fármaco oral que frena la progresión de la esclerosis múltiple progresiva secundaria](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLUk0aF9URFlCcnVCTWNKOExHalZEQ1ZOaWdUNzVKaDdQN2lTUFkzb25QNEpnaWI4WllJQnBFdXhvVmp0aURvdUxBZGc4MWthM2xyVEZib1BNRm5sTDN6Y3RNWE1kdnoxWTZKSkpSMnFObG9VdXd4MklXMEh3OG1UR0lTVzVZV1BxRUxNY2IzME5SUVl6X2RTaEstZnlMa2hoT19COGgtcTVBRlNHdlpwWHhRT0pYM0pIZDREVm9jc0xwRy1XV1Z4R3dzMmlGNXY1dmN0S19Qd3kzeVZ4WGNhOGc2aFhtRWFfOW9YQmc1QVNuZDdu?oc=5)
 
 2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0xvQTA1b01YeVM3djRKc0xMOC1hMjZma1VQV3ZqWTN3X0xJVWhoQUNoanpHX3Qzei1qRVV5TkxWU0dYX0RWcUYxSXA2aUVWaXlPVnUyUk5yTTVZT01xSm91MTducHNKUEFPZUcxaWx6R1E1c3ZxcVFSSk9oMjJuTURoLUtNN0JOUjdoeDY4U2dxamg4VEpFSXJR0gGfAUFVX3lxTE9sSHVFSWw0N2l1WlZCYWNUV1Zwc1NoOWthS3MtR0xTeWlHel92UmxDNjVfeVpUWUZ2UHZXZ3NkelJBTWh2MDQ5YXFwSjB5cGQ2NS1IQzhzZ3p6Vi03X0ZsZ0J1YkZaVy1maVUtc1VOUVlBelNfS0RPenBDNzFWTFBpTjU3Z0NoakpCczJHeHNqTGJJdXdZSEJ2dDFNNWhjbw?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLUk0aF9URFlCcnVCTWNKOExHalZEQ1ZOaWdUNzVKaDdQN2lTUFkzb25QNEpnaWI4WllJQnBFdXhvVmp0aURvdUxBZGc4MWthM2xyVEZib1BNRm5sTDN6Y3RNWE1kdnoxWTZKSkpSMnFObG9VdXd4MklXMEh3OG1UR0lTVzVZV1BxRUxNY2IzME5SUVl6X2RTaEstZnlMa2hoT19COGgtcTVBRlNHdlpwWHhRT0pYM0pIZDREVm9jc0xwRy1XV1Z4R3dzMmlGNXY1dmN0S19Qd3kzeVZ4WGNhOGc2aFhtRWFfOW9YQmc1QVNuZDdu?oc=5)
 
 ---
 
@@ -187,6 +235,14 @@ permalink: /news/fingolimod/
 2026-04-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
+
+---
+
+### [War and neglect fuel deadly measles epidemic in Sudan’s Darfur - Al Jazeera](https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEJMWUIzaWFJaGM4eFNjaVZ1anNZNHpjTk8xNXVydVdkSXpaekdmV2pwcWdaT0FzT1hYSGdhQTgwbWxxRVFJTExhZTItMW1yWUdxM1FNdUJnb3hfblNaLVFYdUdLS1hRREt5bGc1eS1qNTdxN1lZNzJ3WDFqNEV0MzA5QjJtZHl5WWVfMEVmaXBLeDh5UTJ6SkJrNlpGQzdNOWVUUQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEJMWUIzaWFJaGM4eFNjaVZ1anNZNHpjTk8xNXVydVdkSXpaekdmV2pwcWdaT0FzT1hYSGdhQTgwbWxxRVFJTExhZTItMW1yWUdxM1FNdUJnb3hfblNaLVFYdUdLS1hRREt5bGc1eS1qNTdxN1lZNzJ3WDFqNEV0MzA5QjJtZHl5WWVfMEVmaXBLeDh5UTJ6SkJrNlpGQzdNOWVUUQ?oc=5)
 
 ---
 
@@ -246,11 +302,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
+### [Augmentation préoccupante des cancers colorectaux chez les moins de 50 ans en Suisse](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkx3S0dmNTBWdkZaVExPcXd2WjBVTUxLZnozNkhVbjVoZ0J5OUZjXzR2a2dZSGt1Z1dDWTY4c2RscFhUeHdteGx3d25zWHMwdkI4NTFPV0VCNEhaaFpYLVh0MTdYZWFBaTBYSGsyc2xFalNyNVJjZ2ZzVzJ3UGtuRjdYUkFBcFVrMUdRSjVOcjUxV1A1anFiXzY3NlZzT1paSUhabE85NWs2ZWNaU2t0VG9hMG8wcGF4T3U4?oc=5)
 
 2026-04-26 <span class="news-indication-tag">cancer</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
+來源：[rts.ch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkx3S0dmNTBWdkZaVExPcXd2WjBVTUxLZnozNkhVbjVoZ0J5OUZjXzR2a2dZSGt1Z1dDWTY4c2RscFhUeHdteGx3d25zWHMwdkI4NTFPV0VCNEhaaFpYLVh0MTdYZWFBaTBYSGsyc2xFalNyNVJjZ2ZzVzJ3UGtuRjdYUkFBcFVrMUdRSjVOcjUxV1A1anFiXzY3NlZzT1paSUhabE85NWs2ZWNaU2t0VG9hMG8wcGF4T3U4?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Pénurie : ce médicament pris par 50 000 Français est en rupture de stock !](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEd6VHVWVzIzQ2tsTmFIelNBSHhKQmZqQVMtMG12U0t0aENyS2FEU19wTGFxbkZVcVEzSzU0cVJXQ0RWNDhYNTFMdGpXNW9qX3Q2eE13Qm96azgtZmIwdGRvZjJPYjJpVGpTRUZWcWRlZDhsVDI3Ukpyajg5a2ZIOW01R01VbnBZ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">hypertension</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEd6VHVWVzIzQ2tsTmFIelNBSHhKQmZqQVMtMG12U0t0aENyS2FEU19wTGFxbkZVcVEzSzU0cVJXQ0RWNDhYNTFMdGpXNW9qX3Q2eE13Qm96azgtZmIwdGRvZjJPYjJpVGpTRUZWcWRlZDhsVDI3Ukpyajg5a2ZIOW01R01VbnBZ?oc=5)
+
+---
 
 ### [Après 70 ans, ce chiffre de tension peut alerter sur votre santé cardiaque - Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/tenofovir-disoproxil/
 ---
 
 <p class="key-answer" data-question="Tenofovir Disoproxil 有什麼相關新聞？">
-<strong>Tenofovir Disoproxil</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenofovir Disoproxil</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/tenofovir-disoproxil/
 <p><a href="{{ '/drugs/tenofovir-disoproxil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（21 則）
+
+### [NCT04916002: vidutolimod intratumoral + cemiplimab intravenoso en cáncer de piel no melanoma avanzado](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEFjSzVXdkx0cWYwWTRVdFBnRGF1cFVDRVdybXM0NGpiaTFlWUM1X1N6bjFzRDFwOUJLUWtELWhlVjJUcGV0Y19idWl3cDE4UEVKNHVtSjZJUmUzckpwbkZ5dWNJczZSdGNzSDJFSVRiTGF4aEprS053T2hCai1OZ3hnZlpHT09pa3NISTNtZnh5XzVKZVlPZ1lDNUprQWl1NkM1WTRSY181emxaMWNrcW9XWk1BSlp6SEI4WTFsaHNBZ2luM19QdVY0UUdiTjJfM2V1bkw1WQ?oc=5)
+
+2026-04-28 <span class="news-drug-tag">Cemiplimab</span> <span class="news-indication-tag">tumor</span>
+
+來源：[oncobites.tv](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEFjSzVXdkx0cWYwWTRVdFBnRGF1cFVDRVdybXM0NGpiaTFlWUM1X1N6bjFzRDFwOUJLUWtELWhlVjJUcGV0Y19idWl3cDE4UEVKNHVtSjZJUmUzckpwbkZ5dWNJczZSdGNzSDJFSVRiTGF4aEprS053T2hCai1OZ3hnZlpHT09pa3NISTNtZnh5XzVKZVlPZ1lDNUprQWl1NkM1WTRSY181emxaMWNrcW9XWk1BSlp6SEI4WTFsaHNBZ2luM19QdVY0UUdiTjJfM2V1bkw1WQ?oc=5)
+
+---
+
+### [Caen un 32% las nuevas infecciones de hepatitis B y un 12% las muertes por hepatitis C desde 2015 en el mundo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW5BaUp1R0R4OWpyMTdZTGMtU1VkUVkzeHM0STZHVW5fblA4ekd6dVdXSXJ6dGMwM3ZkMzhSV1drNnd2d3R1eUN5ZE0wSjdGVGJteUpQMnBCcUNUWjh6a25JSV9qeEc2T29xZkFycHFKMVV1TDQzVm9mMXE0dV9hZUN5ZENMeno2WnpBU096THhuV0p0YVUycVBZcGZ3dXhMbHhBY29xWHZBcC1JU1lTWWt2ZS1fRkZkQmlsQXhaUE1zNU1Lc3RtZTlwWU1JN2FpdzR4RQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW5BaUp1R0R4OWpyMTdZTGMtU1VkUVkzeHM0STZHVW5fblA4ekd6dVdXSXJ6dGMwM3ZkMzhSV1drNnd2d3R1eUN5ZE0wSjdGVGJteUpQMnBCcUNUWjh6a25JSV9qeEc2T29xZkFycHFKMVV1TDQzVm9mMXE0dV9hZUN5ZENMeno2WnpBU096THhuV0p0YVUycVBZcGZ3dXhMbHhBY29xWHZBcC1JU1lTWWt2ZS1fRkZkQmlsQXhaUE1zNU1Lc3RtZTlwWU1JN2FpdzR4RQ?oc=5)
+
+---
+
+### [Los esfuerzos para eliminar la hepatitis están dando resultados positivos, aunque insuficientes](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnVBVC1LbXhVZDRBcm5mc0Rjem9XR3dPcGw3c3RHWnhoc0hPZjhSSklXU3VXT2Vta1h6SUdOLTN3R0J4ZFJpYWd3d1Iyb05lVkFRbzhnUTBDQXE5clloSFNiU2Jla2V2RHlUbE1MY3hqVFpXbWdDZDRCU0FVT25pZlhhOHdTTXF2REdjOFIyQ1k2VmVyREx4NzZncjdOdkxVN19yblluMHVnY1Zfc2dKb0tPcDhCMFJTN0tGc0pnQzFxcGphaWRZdW5FR0xCMGxYSWdSckNiZU5KcE1hTmc?oc=5)
+
+2026-04-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnVBVC1LbXhVZDRBcm5mc0Rjem9XR3dPcGw3c3RHWnhoc0hPZjhSSklXU3VXT2Vta1h6SUdOLTN3R0J4ZFJpYWd3d1Iyb05lVkFRbzhnUTBDQXE5clloSFNiU2Jla2V2RHlUbE1MY3hqVFpXbWdDZDRCU0FVT25pZlhhOHdTTXF2REdjOFIyQ1k2VmVyREx4NzZncjdOdkxVN19yblluMHVnY1Zfc2dKb0tPcDhCMFJTN0tGc0pnQzFxcGphaWRZdW5FR0xCMGxYSWdSckNiZU5KcE1hTmc?oc=5)
+
+---
+
+### [My cancer masked as stress and midlife fatigue… I had no red flag signs but a niggle took me to GP after blaming my job - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE02dG5QcC1XUUlJam00UHF1WTl6RGtXQzlKc004OHNPaDJsVFBMYnU1aks5cVQybFRGMGVtUzZoM1BveXY0THRvLTQxWW5GUHJjSUR6Wk4zTF9jTnN2WW0yV2xhLV94WjJNd1htR3ktZThmc0ppclNUN3NCOU5LbzA?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE02dG5QcC1XUUlJam00UHF1WTl6RGtXQzlKc004OHNPaDJsVFBMYnU1aks5cVQybFRGMGVtUzZoM1BveXY0THRvLTQxWW5GUHJjSUR6Wk4zTF9jTnN2WW0yV2xhLV94WjJNd1htR3ktZThmc0ppclNUN3NCOU5LbzA?oc=5)
+
+---
 
 ### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
 
@@ -91,6 +123,14 @@ permalink: /news/tenofovir-disoproxil/
 2026-04-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
+
+---
+
+### [Cancer du pancréas : ce nouveau médicament prometteur qui augmente fortement les chances de survie](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVhIMnVIREdoWTlVZmZxLUhkTmNOMVA1d2tObXIwUm5ZZGkwUkE2d2VyM0JmbUoweXFEX25YZzA1bW1SYU5YV0s4dVpKVnhLb3l2MlFGZ2d1T1BWMkpOTERWUEtRYVROeXJOOGNUMEtPVFhrTmNIazdia1lTVnlWVHRiVVo5TWgyX0Z6M0pYaWI4emktNDYxRnpzbmVKSXNtMTBib0prakxwei1xemR3bVVrMklCQkJfTFNXUThaYnR5bG9WdHN6Ym54Z3VzMktSTVJIRzBoeHA2bTQ5MzFr?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVhIMnVIREdoWTlVZmZxLUhkTmNOMVA1d2tObXIwUm5ZZGkwUkE2d2VyM0JmbUoweXFEX25YZzA1bW1SYU5YV0s4dVpKVnhLb3l2MlFGZ2d1T1BWMkpOTERWUEtRYVROeXJOOGNUMEtPVFhrTmNIazdia1lTVnlWVHRiVVo5TWgyX0Z6M0pYaWI4emktNDYxRnpzbmVKSXNtMTBib0prakxwei1xemR3bVVrMklCQkJfTFNXUThaYnR5bG9WdHN6Ym54Z3VzMktSTVJIRzBoeHA2bTQ5MzFr?oc=5)
 
 ---
 
@@ -174,19 +214,11 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [“Queremos aprovechar la experiencia de la estrategia frente a la hepatitis C para mejorar el abordaje global de la enfermedad hepática”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDRwRmxQX1p4RlFjTzAtRTVaOGZ2OE1DNzJzZkNKbVowLTJFMDdVYlprSktUSlJoOTZqai01Sl9kQkE4dEhYVUQ3WldDUi1qWFNmSmF2Tjk1MUtoczBPd0cyMUdmelAwaHJkQ05Sc0hDb3ZJNFZ5VzhjMWp6NTN0ZTNWVnZBbXNmV19wb0pMNUk4ODBfSU9RQk11MGgxVFNzeGVLX1EyS0tLZEwxNy1BaVZBNHJ4MW1JaHF1amg2UWU2ZnR6bHZiZ0sySkw0UHpsOG5WVVVn?oc=5)
-
-2026-04-26 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDRwRmxQX1p4RlFjTzAtRTVaOGZ2OE1DNzJzZkNKbVowLTJFMDdVYlprSktUSlJoOTZqai01Sl9kQkE4dEhYVUQ3WldDUi1qWFNmSmF2Tjk1MUtoczBPd0cyMUdmelAwaHJkQ05Sc0hDb3ZJNFZ5VzhjMWp6NTN0ZTNWVnZBbXNmV19wb0pMNUk4ODBfSU9RQk11MGgxVFNzeGVLX1EyS0tLZEwxNy1BaVZBNHJ4MW1JaHF1amg2UWU2ZnR6bHZiZ0sySkw0UHpsOG5WVVVn?oc=5)
-
----
-
-### [Cancer du sein chez les moins de 50 ans : la responsabilité des phtalates confirmée - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
+### [Augmentation préoccupante des cancers colorectaux chez les moins de 50 ans en Suisse](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkx3S0dmNTBWdkZaVExPcXd2WjBVTUxLZnozNkhVbjVoZ0J5OUZjXzR2a2dZSGt1Z1dDWTY4c2RscFhUeHdteGx3d25zWHMwdkI4NTFPV0VCNEhaaFpYLVh0MTdYZWFBaTBYSGsyc2xFalNyNVJjZ2ZzVzJ3UGtuRjdYUkFBcFVrMUdRSjVOcjUxV1A1anFiXzY3NlZzT1paSUhabE85NWs2ZWNaU2t0VG9hMG8wcGF4T3U4?oc=5)
 
 2026-04-26 <span class="news-indication-tag">cancer</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
+來源：[rts.ch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkx3S0dmNTBWdkZaVExPcXd2WjBVTUxLZnozNkhVbjVoZ0J5OUZjXzR2a2dZSGt1Z1dDWTY4c2RscFhUeHdteGx3d25zWHMwdkI4NTFPV0VCNEhaaFpYLVh0MTdYZWFBaTBYSGsyc2xFalNyNVJjZ2ZzVzJ3UGtuRjdYUkFBcFVrMUdRSjVOcjUxV1A1anFiXzY3NlZzT1paSUhabE85NWs2ZWNaU2t0VG9hMG8wcGF4T3U4?oc=5)
 
 ---
 

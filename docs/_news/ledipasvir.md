@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（17 則）
+
+### [Arranca la campaña ‘Comprometidos con cada generación’ para concienciar sobre la vacunación](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXVmMkZoWEhYVlZoRkdXV2JPTzk4dnBEQjdwOEJ3aU5qeDlWTFFQbGU3Qm9kUEJBcXVQRW50R1VxMm9RYzBZdTc1NFVudkpEazVyTUZsTFZaUVhTZEhKb283RGJOQnlWd1BBS1QxbkNxU3ZFU2VPNURiRm9Ca2dNSHM1XzVzcDl0Y2ZaMmg0Y1kxakFoTFd5dTdsZDlmT0V4bC1sbzlPSUtvYmRpM3BvMkJmUEZwajVvTHc0M3JTa0EtQVU?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXVmMkZoWEhYVlZoRkdXV2JPTzk4dnBEQjdwOEJ3aU5qeDlWTFFQbGU3Qm9kUEJBcXVQRW50R1VxMm9RYzBZdTc1NFVudkpEazVyTUZsTFZaUVhTZEhKb283RGJOQnlWd1BBS1QxbkNxU3ZFU2VPNURiRm9Ca2dNSHM1XzVzcDl0Y2ZaMmg0Y1kxakFoTFd5dTdsZDlmT0V4bC1sbzlPSUtvYmRpM3BvMkJmUEZwajVvTHc0M3JTa0EtQVU?oc=5)
+
+---
+
+### [Caen un 32% las nuevas infecciones de hepatitis B y un 12% las muertes por hepatitis C desde 2015 en el mundo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW5BaUp1R0R4OWpyMTdZTGMtU1VkUVkzeHM0STZHVW5fblA4ekd6dVdXSXJ6dGMwM3ZkMzhSV1drNnd2d3R1eUN5ZE0wSjdGVGJteUpQMnBCcUNUWjh6a25JSV9qeEc2T29xZkFycHFKMVV1TDQzVm9mMXE0dV9hZUN5ZENMeno2WnpBU096THhuV0p0YVUycVBZcGZ3dXhMbHhBY29xWHZBcC1JU1lTWWt2ZS1fRkZkQmlsQXhaUE1zNU1Lc3RtZTlwWU1JN2FpdzR4RQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Notimérica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW5BaUp1R0R4OWpyMTdZTGMtU1VkUVkzeHM0STZHVW5fblA4ekd6dVdXSXJ6dGMwM3ZkMzhSV1drNnd2d3R1eUN5ZE0wSjdGVGJteUpQMnBCcUNUWjh6a25JSV9qeEc2T29xZkFycHFKMVV1TDQzVm9mMXE0dV9hZUN5ZENMeno2WnpBU096THhuV0p0YVUycVBZcGZ3dXhMbHhBY29xWHZBcC1JU1lTWWt2ZS1fRkZkQmlsQXhaUE1zNU1Lc3RtZTlwWU1JN2FpdzR4RQ?oc=5)
+
+---
+
+### [Los esfuerzos para eliminar la hepatitis están dando resultados positivos, aunque insuficientes](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnVBVC1LbXhVZDRBcm5mc0Rjem9XR3dPcGw3c3RHWnhoc0hPZjhSSklXU3VXT2Vta1h6SUdOLTN3R0J4ZFJpYWd3d1Iyb05lVkFRbzhnUTBDQXE5clloSFNiU2Jla2V2RHlUbE1MY3hqVFpXbWdDZDRCU0FVT25pZlhhOHdTTXF2REdjOFIyQ1k2VmVyREx4NzZncjdOdkxVN19yblluMHVnY1Zfc2dKb0tPcDhCMFJTN0tGc0pnQzFxcGphaWRZdW5FR0xCMGxYSWdSckNiZU5KcE1hTmc?oc=5)
+
+2026-04-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnVBVC1LbXhVZDRBcm5mc0Rjem9XR3dPcGw3c3RHWnhoc0hPZjhSSklXU3VXT2Vta1h6SUdOLTN3R0J4ZFJpYWd3d1Iyb05lVkFRbzhnUTBDQXE5clloSFNiU2Jla2V2RHlUbE1MY3hqVFpXbWdDZDRCU0FVT25pZlhhOHdTTXF2REdjOFIyQ1k2VmVyREx4NzZncjdOdkxVN19yblluMHVnY1Zfc2dKb0tPcDhCMFJTN0tGc0pnQzFxcGphaWRZdW5FR0xCMGxYSWdSckNiZU5KcE1hTmc?oc=5)
+
+---
+
+### [Samsung celebra el primer aniversario de The Mind Guardian con la prevención como pilar en el cuidado de la salud cerebral](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRjhyaW1pRkQ3RnJ2RF9RVENLNDVMdkdCXzFOaXdzNEhjdUxIS2NRM0RCQU5LRXRYZURHc280RVltMDRSaGVHb05LVDR6dTcwYXh1MENFYkZCWk8ya3JwUjBNYXlPSEZKdUR4alZkODBuaWpURWtQTVV5cVRvZTlUSU02eFI4NzVrN0xJT01hdWN3ZW9pVUhGcjJ3UEYyUlk2NlJrQUlQd0o0c21BSEI2allEVDlidFZiVURmNlhvNURYUHJBMTFONzVMZVdsMFl6c1g4Q1h6SEJNR3V0STlVZ29kYmU?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[samsung.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRjhyaW1pRkQ3RnJ2RF9RVENLNDVMdkdCXzFOaXdzNEhjdUxIS2NRM0RCQU5LRXRYZURHc280RVltMDRSaGVHb05LVDR6dTcwYXh1MENFYkZCWk8ya3JwUjBNYXlPSEZKdUR4alZkODBuaWpURWtQTVV5cVRvZTlUSU02eFI4NzVrN0xJT01hdWN3ZW9pVUhGcjJ3UEYyUlk2NlJrQUlQd0o0c21BSEI2allEVDlidFZiVURmNlhvNURYUHJBMTFONzVMZVdsMFl6c1g4Q1h6SEJNR3V0STlVZ29kYmU?oc=5)
+
+---
 
 ### [Cómo la esclerosis múltiple provoca la muerte neuronal - GAEM (Grupo de Afectados de Esclerosis Múltiple)](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
 
@@ -62,11 +94,27 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Devon woman with MS 'spat at' for using Blue Badge - Devon Live](https://news.google.com/rss/articles/CBMifkFVX3lxTFBfWjhVaFpaS1g0VEZndFd5Qnk2V1dHaE8wWGZOMTRmYldxa0JEbHpTN1llT0E1aGktQUlvVm1lWXJyNEEwd0MyYU1qLU5saVBLa3o0Tm5UZHVGMlRIcG0ydkxNYlFaOGNXMVFWcmNZZVlnMjJiUWJhYmpmbzRWd9IBgwFBVV95cUxPRVN6eExCaDNRS1dzU010VHFXTzFzRVQ4ZEd1NXRZZFNkZEp5YlhjZHdRUXQ4bjM5OE9tSDhkS0UzN0JPcER2R3oyQ1lmZHR6ZFM2Rm80ZlpLN0h0R28zMVlueV9BbkFNQWg3a09JR2tIWms5cGlzQWQwQkNpUUFQYk1UVQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[Devon Live](https://news.google.com/rss/articles/CBMifkFVX3lxTFBfWjhVaFpaS1g0VEZndFd5Qnk2V1dHaE8wWGZOMTRmYldxa0JEbHpTN1llT0E1aGktQUlvVm1lWXJyNEEwd0MyYU1qLU5saVBLa3o0Tm5UZHVGMlRIcG0ydkxNYlFaOGNXMVFWcmNZZVlnMjJiUWJhYmpmbzRWd9IBgwFBVV95cUxPRVN6eExCaDNRS1dzU010VHFXTzFzRVQ4ZEd1NXRZZFNkZEp5YlhjZHdRUXQ4bjM5OE9tSDhkS0UzN0JPcER2R3oyQ1lmZHR6ZFM2Rm80ZlpLN0h0R28zMVlueV9BbkFNQWg3a09JR2tIWms5cGlzQWQwQkNpUUFQYk1UVQ?oc=5)
+
+---
+
 ### [“La metástasis aún es una patología olvidada en el discurso social del cáncer”](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTlncUJ0WmpoenBYRnRyU0ZGR0NaWnVVY2ZNUkphZ0trNk90OTVsUkQxWWpjQ19sVFZhNjd1SjBHU0U5WkJMczdNMUhLUU1kTnhZT2lwRDFkYWt5ZS15azhqd2hBcjRUdTVfM1FWZ1VLWkstdkxKMUwwZDVaTXI0a2xROA?oc=5)
 
 2026-04-28 <span class="news-indication-tag">MS</span>
 
 來源：[Innovaspain](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTlncUJ0WmpoenBYRnRyU0ZGR0NaWnVVY2ZNUkphZ0trNk90OTVsUkQxWWpjQ19sVFZhNjd1SjBHU0U5WkJMczdNMUhLUU1kTnhZT2lwRDFkYWt5ZS15azhqd2hBcjRUdTVfM1FWZ1VLWkstdkxKMUwwZDVaTXI0a2xROA?oc=5)
+
+---
+
+### [A treatment for pre-eclampsia may be on the horizon - The Economist](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU9nUE4zQnpxZnY4b3RjT1YtaHlxQk4weXk3SkRCUXhpZEZpcGlLdzh4OWd2WkNOMmhWNEkwN0tkWHVlcFV6dWVrNEF4LWRjUjJJaUF2S090anlBeDdieFVkaGhuaHBMVlpSYVgzdFZFTGgzcmZKZlhWNTM1MDhDa1JpRG4zVFFQWUIzTUNHQm01TFJyQ21pOEJMcEtTLXA2V3k0RkF3cVhKQmxUNUZVag?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU9nUE4zQnpxZnY4b3RjT1YtaHlxQk4weXk3SkRCUXhpZEZpcGlLdzh4OWd2WkNOMmhWNEkwN0tkWHVlcFV6dWVrNEF4LWRjUjJJaUF2S090anlBeDdieFVkaGhuaHBMVlpSYVgzdFZFTGgzcmZKZlhWNTM1MDhDa1JpRG4zVFFQWUIzTUNHQm01TFJyQ21pOEJMcEtTLXA2V3k0RkF3cVhKQmxUNUZVag?oc=5)
 
 ---
 
@@ -102,19 +150,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Bastano pochi minuti di sport al giorno per migliorare la memoria: ecco quanti - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjVhQk9vTXpnUXV2blNMUldfdVlRODBOTFQ4eTlvMUg5WmNqeXNWZlpqUm1XMnhhNWZOZDZwcFE3UzdjYWdlbGhMSEZ2aWYxZExGTGx5MklZUGctY2pxN3NwRWpyZXRoX2hKNmtqOTFheGYxSGJ3Y2VublpCVHF3MmttRmRBRWR2UmJpRUI4M0pfcGNSSU5MVTk4M2l3WnQ4UHhCdVJmNVRKNHA4eWxGNjRxNjlLOUg1Ylg5TGJJOWszb1FfOVFISE5EWHBHYlNsQ1UwTWZRZUlrSFAyb1J1V2x6MNIBwgFBVV95cUxOU0N6YzlrRkdPcDh3WWRFX3V1bXRUN2hxWnhsYjVpUUNCLV9oWkR2TnhrS1hKck15V0lvTFRWZHlqRVlzVDJQTWFsSHY4R0pEZHdLRUdRcHlUQTNyeUk2TW00SThsd3pONUNkR2g5cHFHa0wwVG5uN2FIV3BSb1NFTVZpemVDNTF5OVRQOEFYblFMdU9scm5BZGVRVHBtX3dSek5vSDBaOXBvRFFSZTFuT0FweDY5UHZWN3p6N3NyQXlUZw?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjVhQk9vTXpnUXV2blNMUldfdVlRODBOTFQ4eTlvMUg5WmNqeXNWZlpqUm1XMnhhNWZOZDZwcFE3UzdjYWdlbGhMSEZ2aWYxZExGTGx5MklZUGctY2pxN3NwRWpyZXRoX2hKNmtqOTFheGYxSGJ3Y2VublpCVHF3MmttRmRBRWR2UmJpRUI4M0pfcGNSSU5MVTk4M2l3WnQ4UHhCdVJmNVRKNHA4eWxGNjRxNjlLOUg1Ylg5TGJJOWszb1FfOVFISE5EWHBHYlNsQ1UwTWZRZUlrSFAyb1J1V2x6MNIBwgFBVV95cUxOU0N6YzlrRkdPcDh3WWRFX3V1bXRUN2hxWnhsYjVpUUNCLV9oWkR2TnhrS1hKck15V0lvTFRWZHlqRVlzVDJQTWFsSHY4R0pEZHdLRUdRcHlUQTNyeUk2TW00SThsd3pONUNkR2g5cHFHa0wwVG5uN2FIV3BSb1NFTVZpemVDNTF5OVRQOEFYblFMdU9scm5BZGVRVHBtX3dSek5vSDBaOXBvRFFSZTFuT0FweDY5UHZWN3p6N3NyQXlUZw?oc=5)
-
----
-
-### [La EMA avala 'Cenrifki', fármaco oral que frena la progresión de la esclerosis múltiple progresiva secundaria - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0xvQTA1b01YeVM3djRKc0xMOC1hMjZma1VQV3ZqWTN3X0xJVWhoQUNoanpHX3Qzei1qRVV5TkxWU0dYX0RWcUYxSXA2aUVWaXlPVnUyUk5yTTVZT01xSm91MTducHNKUEFPZUcxaWx6R1E1c3ZxcVFSSk9oMjJuTURoLUtNN0JOUjdoeDY4U2dxamg4VEpFSXJR0gGfAUFVX3lxTE9sSHVFSWw0N2l1WlZCYWNUV1Zwc1NoOWthS3MtR0xTeWlHel92UmxDNjVfeVpUWUZ2UHZXZ3NkelJBTWh2MDQ5YXFwSjB5cGQ2NS1IQzhzZ3p6Vi03X0ZsZ0J1YkZaVy1maVUtc1VOUVlBelNfS0RPenBDNzFWTFBpTjU3Z0NoakpCczJHeHNqTGJJdXdZSEJ2dDFNNWhjbw?oc=5)
+### [EMA avala 'Cenrifki', fármaco oral que frena la progresión de la esclerosis múltiple progresiva secundaria](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLUk0aF9URFlCcnVCTWNKOExHalZEQ1ZOaWdUNzVKaDdQN2lTUFkzb25QNEpnaWI4WllJQnBFdXhvVmp0aURvdUxBZGc4MWthM2xyVEZib1BNRm5sTDN6Y3RNWE1kdnoxWTZKSkpSMnFObG9VdXd4MklXMEh3OG1UR0lTVzVZV1BxRUxNY2IzME5SUVl6X2RTaEstZnlMa2hoT19COGgtcTVBRlNHdlpwWHhRT0pYM0pIZDREVm9jc0xwRy1XV1Z4R3dzMmlGNXY1dmN0S19Qd3kzeVZ4WGNhOGc2aFhtRWFfOW9YQmc1QVNuZDdu?oc=5)
 
 2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0xvQTA1b01YeVM3djRKc0xMOC1hMjZma1VQV3ZqWTN3X0xJVWhoQUNoanpHX3Qzei1qRVV5TkxWU0dYX0RWcUYxSXA2aUVWaXlPVnUyUk5yTTVZT01xSm91MTducHNKUEFPZUcxaWx6R1E1c3ZxcVFSSk9oMjJuTURoLUtNN0JOUjdoeDY4U2dxamg4VEpFSXJR0gGfAUFVX3lxTE9sSHVFSWw0N2l1WlZCYWNUV1Zwc1NoOWthS3MtR0xTeWlHel92UmxDNjVfeVpUWUZ2UHZXZ3NkelJBTWh2MDQ5YXFwSjB5cGQ2NS1IQzhzZ3p6Vi03X0ZsZ0J1YkZaVy1maVUtc1VOUVlBelNfS0RPenBDNzFWTFBpTjU3Z0NoakpCczJHeHNqTGJJdXdZSEJ2dDFNNWhjbw?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLUk0aF9URFlCcnVCTWNKOExHalZEQ1ZOaWdUNzVKaDdQN2lTUFkzb25QNEpnaWI4WllJQnBFdXhvVmp0aURvdUxBZGc4MWthM2xyVEZib1BNRm5sTDN6Y3RNWE1kdnoxWTZKSkpSMnFObG9VdXd4MklXMEh3OG1UR0lTVzVZV1BxRUxNY2IzME5SUVl6X2RTaEstZnlMa2hoT19COGgtcTVBRlNHdlpwWHhRT0pYM0pIZDREVm9jc0xwRy1XV1Z4R3dzMmlGNXY1dmN0S19Qd3kzeVZ4WGNhOGc2aFhtRWFfOW9YQmc1QVNuZDdu?oc=5)
 
 ---
 
@@ -123,6 +163,14 @@ permalink: /news/ledipasvir/
 2026-04-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
+
+---
+
+### [War and neglect fuel deadly measles epidemic in Sudan’s Darfur - Al Jazeera](https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEJMWUIzaWFJaGM4eFNjaVZ1anNZNHpjTk8xNXVydVdkSXpaekdmV2pwcWdaT0FzT1hYSGdhQTgwbWxxRVFJTExhZTItMW1yWUdxM1FNdUJnb3hfblNaLVFYdUdLS1hRREt5bGc1eS1qNTdxN1lZNzJ3WDFqNEV0MzA5QjJtZHl5WWVfMEVmaXBLeDh5UTJ6SkJrNlpGQzdNOWVUUQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEJMWUIzaWFJaGM4eFNjaVZ1anNZNHpjTk8xNXVydVdkSXpaekdmV2pwcWdaT0FzT1hYSGdhQTgwbWxxRVFJTExhZTItMW1yWUdxM1FNdUJnb3hfblNaLVFYdUdLS1hRREt5bGc1eS1qNTdxN1lZNzJ3WDFqNEV0MzA5QjJtZHl5WWVfMEVmaXBLeDh5UTJ6SkJrNlpGQzdNOWVUUQ?oc=5)
 
 ---
 
@@ -139,14 +187,6 @@ permalink: /news/ledipasvir/
 2026-04-27 <span class="news-indication-tag">MS</span>
 
 來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
-
----
-
-### [“Queremos aprovechar la experiencia de la estrategia frente a la hepatitis C para mejorar el abordaje global de la enfermedad hepática”](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDRwRmxQX1p4RlFjTzAtRTVaOGZ2OE1DNzJzZkNKbVowLTJFMDdVYlprSktUSlJoOTZqai01Sl9kQkE4dEhYVUQ3WldDUi1qWFNmSmF2Tjk1MUtoczBPd0cyMUdmelAwaHJkQ05Sc0hDb3ZJNFZ5VzhjMWp6NTN0ZTNWVnZBbXNmV19wb0pMNUk4ODBfSU9RQk11MGgxVFNzeGVLX1EyS0tLZEwxNy1BaVZBNHJ4MW1JaHF1amg2UWU2ZnR6bHZiZ0sySkw0UHpsOG5WVVVn?oc=5)
-
-2026-04-26 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDRwRmxQX1p4RlFjTzAtRTVaOGZ2OE1DNzJzZkNKbVowLTJFMDdVYlprSktUSlJoOTZqai01Sl9kQkE4dEhYVUQ3WldDUi1qWFNmSmF2Tjk1MUtoczBPd0cyMUdmelAwaHJkQ05Sc0hDb3ZJNFZ5VzhjMWp6NTN0ZTNWVnZBbXNmV19wb0pMNUk4ODBfSU9RQk11MGgxVFNzeGVLX1EyS0tLZEwxNy1BaVZBNHJ4MW1JaHF1amg2UWU2ZnR6bHZiZ0sySkw0UHpsOG5WVVVn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [The 50p supp to beat midlife fatigue, brittle hair & 'slash dementia risk' - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHdYdnFFT25oRTFHcGdaSHRJbEZ3MTBYRlNlWGNla1lPRUN0amZteXZXRXVHeWprOE5ldXpNMHVzQUt2NmdXUG0wa25CeUs0ZjI0Q2F6X3ppeHQtSUpKS1NrQS1iQlE0cDdkUEt5VlRnZlIwcUVUeFpXSGloOGtmeDJqYnlXR282aVJCc2NYLUhrSXZoODkxYw?oc=5)
+### [From sold homes to lost savings - the cost of paying for dementia care](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91Y2lFSU1USC1Cb1o4Q2hsbmE2eVRjUHpwOFZjLTlOc2JzYTJaY2xkN1J6eFZ0ZDBlWWpNdGw3SjVMeGdtRkU2S2JHWHQ0blZNUDRyUERyMEtLeVZs?oc=5)
 
-2026-04-26 <span class="news-indication-tag">dementia</span>
+2026-04-28 <span class="news-indication-tag">dementia</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHdYdnFFT25oRTFHcGdaSHRJbEZ3MTBYRlNlWGNla1lPRUN0amZteXZXRXVHeWprOE5ldXpNMHVzQUt2NmdXUG0wa25CeUs0ZjI0Q2F6X3ppeHQtSUpKS1NrQS1iQlE0cDdkUEt5VlRnZlIwcUVUeFpXSGloOGtmeDJqYnlXR282aVJCc2NYLUhrSXZoODkxYw?oc=5)
-
----
-
-### ['My husband aced the memory tests - but I knew it was dementia'](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzhDMFljQ21zQ2RQbXJXbXd3VkEtaHlKZUlaZ203LTh4R000WDFGdmYydHJianN4NVJZYmQ0LUdDR3RrWXJzTEhzb2hLcUFrU0FLc1l2NnplNmZBeXV5MFhob1lNc25DM0wtMUl1LTNxOThVcnktRmxUdHNXbFhXbUhmbi1wX2VIbDFR?oc=5)
-
-2026-04-26 <span class="news-indication-tag">dementia</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzhDMFljQ21zQ2RQbXJXbXd3VkEtaHlKZUlaZ203LTh4R000WDFGdmYydHJianN4NVJZYmQ0LUdDR3RrWXJzTEhzb2hLcUFrU0FLc1l2NnplNmZBeXV5MFhob1lNc25DM0wtMUl1LTNxOThVcnktRmxUdHNXbFhXbUhmbi1wX2VIbDFR?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE91Y2lFSU1USC1Cb1o4Q2hsbmE2eVRjUHpwOFZjLTlOc2JzYTJaY2xkN1J6eFZ0ZDBlWWpNdGw3SjVMeGdtRkU2S2JHWHQ0blZNUDRyUERyMEtLeVZs?oc=5)
 
 ---
 
