@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+---
 
 ### [OMS, Unicef y Gavi protegen a 18,3 millones de menores con campaña masiva de vacunación](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWdmcDJPbTVWekJGOTgxeHd1bHpRMHY5eFlhZmlhdE1lcW9LV3BfNHZwR3FmLVJMUDA4N0ZNMkZhbWZHY3hkalRBV3NMY0dsMHF3cnNzVWotckYyUnRPUEExbDhYOUxiMDJyN3dlTnd5MzJ0a1JmX3VRYTloaXJsdGNWRTk2ZkF4N3c1SkpFYW82OFZLVFdyWnljbTNEOHAxdi1ZLXlUa2t0RFN2SkE?oc=5)
 
@@ -78,6 +86,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [La EMA avala 'Cenrifki', fármaco oral que frena la progresión de la esclerosis múltiple progresiva secundaria - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0xvQTA1b01YeVM3djRKc0xMOC1hMjZma1VQV3ZqWTN3X0xJVWhoQUNoanpHX3Qzei1qRVV5TkxWU0dYX0RWcUYxSXA2aUVWaXlPVnUyUk5yTTVZT01xSm91MTducHNKUEFPZUcxaWx6R1E1c3ZxcVFSSk9oMjJuTURoLUtNN0JOUjdoeDY4U2dxamg4VEpFSXJR0gGfAUFVX3lxTE9sSHVFSWw0N2l1WlZCYWNUV1Zwc1NoOWthS3MtR0xTeWlHel92UmxDNjVfeVpUWUZ2UHZXZ3NkelJBTWh2MDQ5YXFwSjB5cGQ2NS1IQzhzZ3p6Vi03X0ZsZ0J1YkZaVy1maVUtc1VOUVlBelNfS0RPenBDNzFWTFBpTjU3Z0NoakpCczJHeHNqTGJJdXdZSEJ2dDFNNWhjbw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0xvQTA1b01YeVM3djRKc0xMOC1hMjZma1VQV3ZqWTN3X0xJVWhoQUNoanpHX3Qzei1qRVV5TkxWU0dYX0RWcUYxSXA2aUVWaXlPVnUyUk5yTTVZT01xSm91MTducHNKUEFPZUcxaWx6R1E1c3ZxcVFSSk9oMjJuTURoLUtNN0JOUjdoeDY4U2dxamg4VEpFSXJR0gGfAUFVX3lxTE9sSHVFSWw0N2l1WlZCYWNUV1Zwc1NoOWthS3MtR0xTeWlHel92UmxDNjVfeVpUWUZ2UHZXZ3NkelJBTWh2MDQ5YXFwSjB5cGQ2NS1IQzhzZ3p6Vi03X0ZsZ0J1YkZaVy1maVUtc1VOUVlBelNfS0RPenBDNzFWTFBpTjU3Z0NoakpCczJHeHNqTGJJdXdZSEJ2dDFNNWhjbw?oc=5)
+
+---
+
 ### [Certain Nap Patterns in Older Adults Could Be a Warning Sign, Study Finds](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFTQ20wTWpzOEdmd0lPaVZqQnI5ZHFGZ2Nkd18xdXhlZW1RZ2oyTzBqbXlwTEZCeGNCUGpEc3lLTmdIcHRRTWFFWHB1VnZ1dFM3WWxzRG1wRnJkYkpIYzR4MHI0d05aUVpmTG1sR1QwbXFTS3BOcVdGUy0wa1N5NDAtdEg1ekh6aHNaRFRRTExZR2FGOEdKN2dKQ2txRzd2eXZJ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">MS</span>
@@ -94,19 +110,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [El alimento que te ayuda a cuidar la piel y que la OMS aconseja comer al menos cuatro raciones a la semana - Diario AS](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdHdmNjV3NzdiUy1COERqUFV3dTRPb21RRG5lc1NxRFQ2ZWRCSmdEOUlTbXVHSGtUZF9lTWhZWUZqZEF6aVNMV3N5X3ZHblJnZlNfRWV1Y244RWk4ajlTTzM5SU85bjAtRzN0QjkyM3RpY19zUnE3Vm1MY3FCbndSX2VhYTg2Ml90WG8xV21CYnhXVl9zRzRWd18tZG9oemloZXNHUTR0eHBVZmJueHltejZqZXczbC1EeTlQOHFqVXFTUnBoNU45c3dKOEVicFVBc21SVGI2dGw0ZENJa2FWR2s0QdIB9wFBVV95cUxOYWU0WTd4bDJQVVg5bHU4WDFwOUozUElaNlRacTQ1ZUxUcEpDTC1UZHhxNUJCRzRoWmp2Z3BmVUNycnBsekJMT1ZaaEdqTGt6UmxlblQ0bFF5NWZ4NTBCaVQ1UUdaNUlXMV9xNy1IR2VtMV90Zm1ZcFdJYlV6NDlvdDJ6anV4MDhKR0FOb0hha1FHQnFQNFpJcTdKYWxkMzRsSm9vRjFUWkk1am1Ib1duWVBFb3BVRGczeVJ0TlQ4VXBRMmdFWjlSUlV2cWRFTjA5S09uYjdaMXd0ejRrclpKZnppWnZ1aXBhQkN0RF9HcE5WXzJLcXJr?oc=5)
+### [How often should you check your cholesterol? A cardiologist explains - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
 
-2026-04-27 <span class="news-indication-tag">MS</span>
+2026-04-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdHdmNjV3NzdiUy1COERqUFV3dTRPb21RRG5lc1NxRFQ2ZWRCSmdEOUlTbXVHSGtUZF9lTWhZWUZqZEF6aVNMV3N5X3ZHblJnZlNfRWV1Y244RWk4ajlTTzM5SU85bjAtRzN0QjkyM3RpY19zUnE3Vm1MY3FCbndSX2VhYTg2Ml90WG8xV21CYnhXVl9zRzRWd18tZG9oemloZXNHUTR0eHBVZmJueHltejZqZXczbC1EeTlQOHFqVXFTUnBoNU45c3dKOEVicFVBc21SVGI2dGw0ZENJa2FWR2s0QdIB9wFBVV95cUxOYWU0WTd4bDJQVVg5bHU4WDFwOUozUElaNlRacTQ1ZUxUcEpDTC1UZHhxNUJCRzRoWmp2Z3BmVUNycnBsekJMT1ZaaEdqTGt6UmxlblQ0bFF5NWZ4NTBCaVQ1UUdaNUlXMV9xNy1IR2VtMV90Zm1ZcFdJYlV6NDlvdDJ6anV4MDhKR0FOb0hha1FHQnFQNFpJcTdKYWxkMzRsSm9vRjFUWkk1am1Ib1duWVBFb3BVRGczeVJ0TlQ4VXBRMmdFWjlSUlV2cWRFTjA5S09uYjdaMXd0ejRrclpKZnppWnZ1aXBhQkN0RF9HcE5WXzJLcXJr?oc=5)
-
----
-
-### ['Mum's death was not something we ever expected, ever worried about' - North Wales Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSElrSWFWZzlkdkJWdEtCVllyTy1ybG9BcDVySkVYcFh2cElmQ21YYUFaNm5YUnZrMC1GM0dTR3BZU0lJZ1F5a1pOVHdMdm5meU5JbVlTd1A4b0RwUVgzaWYzSGxvS29SQjQ0eVVRYzlzWnpta2VSeVFodHdzLS1ESnJyZ20zbi1OSFR4ZE1ndnF6dw?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[North Wales Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSElrSWFWZzlkdkJWdEtCVllyTy1ybG9BcDVySkVYcFh2cElmQ21YYUFaNm5YUnZrMC1GM0dTR3BZU0lJZ1F5a1pOVHdMdm5meU5JbVlTd1A4b0RwUVgzaWYzSGxvS29SQjQ0eVVRYzlzWnpta2VSeVFodHdzLS1ESnJyZ20zbi1OSFR4ZE1ndnF6dw?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
 
 ---
 
@@ -115,6 +123,14 @@ permalink: /news/interferon-beta-1a/
 2026-04-27 <span class="news-indication-tag">MS</span>
 
 來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
+
+---
+
+### [Cáncer de páncreas: encuentran un fármaco que duplica la supervivencia de los pacientes en etapas avanzadas - Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVHlBWEk2SUpMOVdjMXBqa2U1WEpaUGp3dHFYQ2lMN1dqajdvTnNXOWUyZUs4Z2RXdTNjMHVhUnNRcE13YzJEU291QVdUWHBDQzlwWkpjcEtMRXlqWHB5cVhHb3hlQ1RkdzBDTDlrb1hqNmlhMFhGYnB5MTgxVUtVN2tYRlVDV3lxSl9PeVlFaHFGMmtxd01XUlItbzF4ejhlZGJzbGlMVUtuN1dES3JrLUFpUUwtYmlRMEgwSEFERW9Wdk9pVHNteUhTX0E3OUJLV01oZXFTSEdtSk1RTjZNOU9QSQ?oc=5)
+
+2026-04-26 <span class="news-indication-tag">MS</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVHlBWEk2SUpMOVdjMXBqa2U1WEpaUGp3dHFYQ2lMN1dqajdvTnNXOWUyZUs4Z2RXdTNjMHVhUnNRcE13YzJEU291QVdUWHBDQzlwWkpjcEtMRXlqWHB5cVhHb3hlQ1RkdzBDTDlrb1hqNmlhMFhGYnB5MTgxVUtVN2tYRlVDV3lxSl9PeVlFaHFGMmtxd01XUlItbzF4ejhlZGJzbGlMVUtuN1dES3JrLUFpUUwtYmlRMEgwSEFERW9Wdk9pVHNteUhTX0E3OUJLV01oZXFTSEdtSk1RTjZNOU9QSQ?oc=5)
 
 ---
 

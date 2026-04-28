@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Neuro-Talk: Durchbruch bei der Schlaganfallforschung und erfreuliche Nachrichten für Kaffeetrinker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
-
----
-
-### [Tripla pillola riduce le recidive di ictus del 39%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
-
-2026-04-25 <span class="news-indication-tag">ictus</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 

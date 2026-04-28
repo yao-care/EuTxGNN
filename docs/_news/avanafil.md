@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Avanafil</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（18 則）
+
+### [Metabolische Krise: Wie Herz, Nieren und Stoffwechsel Krebsrisiko steigern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+---
 
 ### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
@@ -62,11 +70,27 @@ permalink: /news/avanafil/
 
 ---
 
+### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+---
+
 ### [Neuro-Talk: Durchbruch bei der Schlaganfallforschung und erfreuliche Nachrichten für Kaffeetrinker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
+
+---
+
+### [ATS Brianza: screening al colon retto salva la vita](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
+
+2026-04-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Merateonline](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
 
 ---
 
@@ -91,14 +115,6 @@ permalink: /news/avanafil/
 2026-04-27 <span class="news-indication-tag">cancer</span>
 
 來源：[Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
-
----
-
-### [ATS Brianza: lo screening al colon-retto può salvare vite](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
-
-2026-04-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Casateonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
 
 ---
 
@@ -142,6 +158,14 @@ permalink: /news/avanafil/
 
 ---
 
+### [Heartbroken family gets 'worst news ever' when two-year-old diagnosed with rare cancer - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
+
+2026-04-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
+
+---
+
 ### [Burioni: "Tre buone notizie nella lotta contro il tumore al pancreas"](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDRzbzF6c0stZVNLdl9SQTMyMkFHemlPWUtsd3hXOTB2cXplU1RWMWZxUnpfUmNXdzQwWVRGZTFSbkpOU0hCUUNZQjRMOE51ZVg4WHh3T2dQVUJjelFyQ1JORldBQi1JVlZ5Rm1CT24xeEJnV0ZiamFZRGwyTDFRbmJGWDI2NFp1d3Z6QThaYWRXWVU3UFU2cXB3TThxdlNZcWhjOVdUcFF3Zw?oc=5)
 
 2026-04-26 <span class="news-indication-tag">tumor</span>
@@ -171,14 +195,6 @@ permalink: /news/avanafil/
 2026-04-26 <span class="news-indication-tag">tumor</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZHRWxJMWVBSlRWc2poRW52YnItLUF4dTA0QzZ6Um9SYXowX3RFODZ4azNrOEZPamVmVnVPZjFRUURtX0hSMnctQ09wWmhYTV9PR2J3d1VOa1hkV0EzdHNtdks2TmxCdGdqVEQ4d2UxVkhubGdYRUhWTDNTMnBiazRQQUVlN2lFYkh2dDJORTNMUk5reDItVVVaRnpuVHFESjVGNzUwSXY0YS1E0gGyAUFVX3lxTE11Yl9jb2lvZ2J6SDZzQ2llYmloWFEyNXRid1Rta3hKQmtLOFVBMV90a0ZzRkdJcUdHZE9tR2M3cUE1Q1NoTnQ3TnRoX05PQmp2RjdYeFM5enAyeWZKNXQyZXlpajhYSzVpdm1NbDlUNElUTFprd2tKLWUxalhCZ1JLTnlYeGVVeU5hcVlYT2xQNndsOVM3dWlzbWJDRDJqLXA3cXRtdmxhcjI1enVGUmU1NGc?oc=5)
-
----
-
-### [Tripla pillola riduce le recidive di ictus del 39%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
-
-2026-04-25 <span class="news-indication-tag">ictus</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 

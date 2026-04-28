@@ -14,7 +14,7 @@ permalink: /news/tafasitamab/
 ---
 
 <p class="key-answer" data-question="Tafasitamab 有什麼相關新聞？">
-<strong>Tafasitamab</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tafasitamab</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tafasitamab/
 <p><a href="{{ '/drugs/tafasitamab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（23 則）
+
+### [Metabolische Krise: Wie Herz, Nieren und Stoffwechsel Krebsrisiko steigern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+---
 
 ### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
@@ -62,11 +70,35 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+---
+
+### [Vitamin D: Ein potenzieller Helfer gegen Typ-2-Diabetes](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1FVM3BOY183SUNNMklxSmdMR2lnTy1lVnRBYjYyakV1d3JyVENaVDd0VzdDeW5VOUlnSndidThCUV9jb1VvSG5DRnZoWEg0WTZHTm1zUWxBcVp6d0c4MWEyNFZMbjJfS0Q5Znc2eWZYMTVFYjZqOGotZXhpVlR2c1JDZ3k3TVlESlFxMHNNNA?oc=5)
+
+2026-04-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1FVM3BOY183SUNNMklxSmdMR2lnTy1lVnRBYjYyakV1d3JyVENaVDd0VzdDeW5VOUlnSndidThCUV9jb1VvSG5DRnZoWEg0WTZHTm1zUWxBcVp6d0c4MWEyNFZMbjJfS0Q5Znc2eWZYMTVFYjZqOGotZXhpVlR2c1JDZ3k3TVlESlFxMHNNNA?oc=5)
+
+---
+
 ### [Psoriasis: Wenn die Haut im Dauerstress steckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">psoriasis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
+
+---
+
+### [ATS Brianza: screening al colon retto salva la vita](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
+
+2026-04-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Merateonline](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
 
 ---
 
@@ -94,19 +126,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Los determinantes sociales marcan el control de la diabetes más allá del tratamiento - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREpQdklOZUFMSURBeEd6a1RqQmJTUXpaNHB3dWs3X1RLY1lBVFlJOVFDZFB5S2h4TjhFcFVRUzNPX29GTUdlcllMRm1IV3A5WTZEdjB1dDZnT3cxaHVWMlQxUTNKS2xiTWNrQ1F1Ykc5R0s5QmwwbFpBSFpMclRObG5ya1k4cEpqU2phVWZSS2NnUm5uQVNXeV9VbzJwSkJXVE1iMWt4RTdjLWVkTDdHLXVjNHo2T3g2?oc=5)
+### [Madrid vuelve a correr contra la diabetes con el foco puesto en la educación sanitaria - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlZxdFNhRW5pNVlLRXJ6cFQ2NERtUXlkT1k3X0lNak0waEFRUF9SRTAzSjdHWVcxaVducU5yZ1JZOGlJVlRpNl9yb1dRS0w3SEMyWHNjVnh1cWJxTVZiX3JQeDF0RWNTdzNORHdYVm1oRGtFSGhIM2FqZWZ3SWJ3Z0trT2M5SXFPZjVZWWpnb29PbmVDOTZseC1CejczR3dWTERpWTh6eDN1c3NYZE1BcXQwb1RkcmhBNFdLcVBrMGVqNzDSAb4BQVVfeXFMTjRjMDhseVhGUlhiNFdTb2RlOXFTamh2RUNHQjUycDNFaEE4MkdmZ0hzREM1NE1fVGlPenFMTDdUSF9PM1pBQmN6Y05VUzVsS0c4aDg4ekNkSXE3bWZtblI5ME1Ud1NQRzdOcWdpQ2wxbXh0bUttRjFGNDN5NDZmVngwSEZuMzJWbDFyd3RKRnJKLVc1X3U0NkVsc3E4d3N6MDc5ektCNGl1YnlLaVFwWDJadXVmd0kyZEQ3VUE2QQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREpQdklOZUFMSURBeEd6a1RqQmJTUXpaNHB3dWs3X1RLY1lBVFlJOVFDZFB5S2h4TjhFcFVRUzNPX29GTUdlcllMRm1IV3A5WTZEdjB1dDZnT3cxaHVWMlQxUTNKS2xiTWNrQ1F1Ykc5R0s5QmwwbFpBSFpMclRObG5ya1k4cEpqU2phVWZSS2NnUm5uQVNXeV9VbzJwSkJXVE1iMWt4RTdjLWVkTDdHLXVjNHo2T3g2?oc=5)
-
----
-
-### [ATS Brianza: lo screening al colon-retto può salvare vite](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
-
-2026-04-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Casateonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlZxdFNhRW5pNVlLRXJ6cFQ2NERtUXlkT1k3X0lNak0waEFRUF9SRTAzSjdHWVcxaVducU5yZ1JZOGlJVlRpNl9yb1dRS0w3SEMyWHNjVnh1cWJxTVZiX3JQeDF0RWNTdzNORHdYVm1oRGtFSGhIM2FqZWZ3SWJ3Z0trT2M5SXFPZjVZWWpnb29PbmVDOTZseC1CejczR3dWTERpWTh6eDN1c3NYZE1BcXQwb1RkcmhBNFdLcVBrMGVqNzDSAb4BQVVfeXFMTjRjMDhseVhGUlhiNFdTb2RlOXFTamh2RUNHQjUycDNFaEE4MkdmZ0hzREM1NE1fVGlPenFMTDdUSF9PM1pBQmN6Y05VUzVsS0c4aDg4ekNkSXE3bWZtblI5ME1Ud1NQRzdOcWdpQ2wxbXh0bUttRjFGNDN5NDZmVngwSEZuMzJWbDFyd3RKRnJKLVc1X3U0NkVsc3E4d3N6MDc5ektCNGl1YnlLaVFwWDJadXVmd0kyZEQ3VUE2QQ?oc=5)
 
 ---
 
@@ -115,22 +139,6 @@ permalink: /news/tafasitamab/
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[Stimme](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUkpMNDl4Q3lidW45NjZIbWVranJJV1VydnhFQk83cktDMXhPVEw1eE5wRGFDdnhiSGxkRncwem82REVjZnZ5aEZlMkxlNEtrVHFEMGxNRDlRNDZYMlhKZ1BHWVhpeXUycnRSSTlmVjBSOGF2akxUQV9fX2ZKVGFDQjk5d21SN1RndHpoOG1tQ0dnenJBaWEzOVNXYXVMWEZfVnNwckhPMk1oajNvZGRuRnNTRTZSWndPQTl1XzdWbWdXcWFZQ2MxNERsWTlSVjhqLXBlTEJTRnFPQkJlWXFuSkNOVE8tMXUtU3hEVDkyd3NhTjVkMGh2NXV3?oc=5)
-
----
-
-### [Cuando el corazón, los riñones y el metabolismo empeoran y tienes diabetes aumenta el riesgo de cáncer - La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR?oc=5)
-
-2026-04-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHFrbTVQekgtSkg5VWh3VGNyQ2sxaEkzOE9aRVFxN3hNdnMwQ2NpY09XdVJwR2tIdF9SMEd1NE9UdmhSVWpyRTZMTDlIbkZZcEZhQ0Y0VWltLUpQYnhIc2ZmT0JZbEttd21GMUY0WTdCX3lxa25pNU1OVDR0a1RUMEw4bmQ4b08wNG56WlI4RTFRWW9ZaUwyODIzN0FWRU9ZRVMtdTdfZzFVQXRqb1VvZlF6WTVCSTBXeDh6dWJkYzZoSjJkaXRBVDZwcjAwZndpVTZhTVI3RXF0bDNINkNoUkZR?oc=5)
-
----
-
-### [Diabetes-Prävention: Gen-Tests zeigen, wer von Vitamin D profitiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
-
-2026-04-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
 
 ---
 
@@ -182,6 +190,14 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Heartbroken family gets 'worst news ever' when two-year-old diagnosed with rare cancer - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
+
+2026-04-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
+
+---
+
 ### [Burioni: "Tre buone notizie nella lotta contro il tumore al pancreas"](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDRzbzF6c0stZVNLdl9SQTMyMkFHemlPWUtsd3hXOTB2cXplU1RWMWZxUnpfUmNXdzQwWVRGZTFSbkpOU0hCUUNZQjRMOE51ZVg4WHh3T2dQVUJjelFyQ1JORldBQi1JVlZ5Rm1CT24xeEJnV0ZiamFZRGwyTDFRbmJGWDI2NFp1d3Z6QThaYWRXWVU3UFU2cXB3TThxdlNZcWhjOVdUcFF3Zw?oc=5)
 
 2026-04-26 <span class="news-indication-tag">tumor</span>
@@ -214,11 +230,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [El trabajo a turnos incrementa el riesgo para la salud: del insomnio a la diabetes o el cáncer - La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblFpTWUzSkxlTDI5MHM2VC1zV2pnaUZBVTMyRW9JaHZEcjJYYU9jZHFodlRkSTJDZHQ4U0R3Nmt5RXRsX2ppS0p2QV9CclZYYjVMcnFwME5rdHRQV0RVU2dJYmtDRmxZZFNoWnVwREhOT0xjNDRySFBHcUI1NUZEeF92X253bnhvUTlPWGJmSTBLV3gtTHZ3SmhNdTJGRTlmWjdDaUxfZkhSNXg4cy1hRDlUa21RSDBELUQxRlVUTjVISDNnOV9Td0gxelpnRVdwcHN6TlM2WnJNR1NCS2ZWaWRzWWhhNDg3eEhzYWRVVDlOMjIxZ1ZkdWFYY2I?oc=5)
+### [El trabajo a turnos incrementa el riesgo para la salud: del insomnio a la diabetes o el cáncer](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblFpTWUzSkxlTDI5MHM2VC1zV2pnaUZBVTMyRW9JaHZEcjJYYU9jZHFodlRkSTJDZHQ4U0R3Nmt5RXRsX2ppS0p2QV9CclZYYjVMcnFwME5rdHRQV0RVU2dJYmtDRmxZZFNoWnVwREhOT0xjNDRySFBHcUI1NUZEeF92X253bnhvUTlPWGJmSTBLV3gtTHZ3SmhNdTJGRTlmWjdDaUxfZkhSNXg4cy1hRDlUa21RSDBELUQxRlVUTjVISDNnOV9Td0gxelpnRVdwcHN6TlM2WnJNR1NCS2ZWaWRzWWhhNDg3eEhzYWRVVDlOMjIxZ1ZkdWFYY2I?oc=5)
 
 2026-04-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblFpTWUzSkxlTDI5MHM2VC1zV2pnaUZBVTMyRW9JaHZEcjJYYU9jZHFodlRkSTJDZHQ4U0R3Nmt5RXRsX2ppS0p2QV9CclZYYjVMcnFwME5rdHRQV0RVU2dJYmtDRmxZZFNoWnVwREhOT0xjNDRySFBHcUI1NUZEeF92X253bnhvUTlPWGJmSTBLV3gtTHZ3SmhNdTJGRTlmWjdDaUxfZkhSNXg4cy1hRDlUa21RSDBELUQxRlVUTjVISDNnOV9Td0gxelpnRVdwcHN6TlM2WnJNR1NCS2ZWaWRzWWhhNDg3eEhzYWRVVDlOMjIxZ1ZkdWFYY2I?oc=5)
+來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblFpTWUzSkxlTDI5MHM2VC1zV2pnaUZBVTMyRW9JaHZEcjJYYU9jZHFodlRkSTJDZHQ4U0R3Nmt5RXRsX2ppS0p2QV9CclZYYjVMcnFwME5rdHRQV0RVU2dJYmtDRmxZZFNoWnVwREhOT0xjNDRySFBHcUI1NUZEeF92X253bnhvUTlPWGJmSTBLV3gtTHZ3SmhNdTJGRTlmWjdDaUxfZkhSNXg4cy1hRDlUa21RSDBELUQxRlVUTjVISDNnOV9Td0gxelpnRVdwcHN6TlM2WnJNR1NCS2ZWaWRzWWhhNDg3eEhzYWRVVDlOMjIxZ1ZkdWFYY2I?oc=5)
 
 ---
 

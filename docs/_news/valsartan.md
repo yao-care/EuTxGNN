@@ -14,7 +14,7 @@ permalink: /news/valsartan/
 ---
 
 <p class="key-answer" data-question="Valsartan 有什麼相關新聞？">
-<strong>Valsartan</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Valsartan</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/valsartan/
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（21 則）
+
+### [Metabolische Krise: Wie Herz, Nieren und Stoffwechsel Krebsrisiko steigern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+---
 
 ### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
+
+---
+
+### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+---
+
+### [ATS Brianza: screening al colon retto salva la vita](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
+
+2026-04-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Merateonline](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
 
 ---
 
@@ -94,19 +118,19 @@ permalink: /news/valsartan/
 
 ---
 
-### [ATS Brianza: lo screening al colon-retto può salvare vite](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
-
-2026-04-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Casateonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
-
----
-
 ### [Nueva guía para implementar el asesoramiento genético en la miocardiopatía dilatada](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2kxOFJqTnRxcjRXRUNhblNObEhXel9UYnU4R2gtbjc4c3R2cDVGOWN4eHliUFBHVnhnUVdfLURDM2JzOFIwYnhtSzlmd2RWV1FJNDZOX003NkdTNnFJcXFpSDdmSC1lWTdyMFo3T3ljUFd6bXVudll3NndRYUZZcENIWWMxM1RCM2xRMWNCcw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Genotipia](https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2kxOFJqTnRxcjRXRUNhblNObEhXel9UYnU4R2gtbjc4c3R2cDVGOWN4eHliUFBHVnhnUVdfLURDM2JzOFIwYnhtSzlmd2RWV1FJNDZOX003NkdTNnFJcXFpSDdmSC1lWTdyMFo3T3ljUFd6bXVudll3NndRYUZZcENIWWMxM1RCM2xRMWNCcw?oc=5)
+
+---
+
+### [How often should you check your cholesterol? A cardiologist explains - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
+
+2026-04-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
 
 ---
 
@@ -158,19 +182,19 @@ permalink: /news/valsartan/
 
 ---
 
+### [Heartbroken family gets 'worst news ever' when two-year-old diagnosed with rare cancer - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
+
+2026-04-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
+
+---
+
 ### [Burioni: "Tre buone notizie nella lotta contro il tumore al pancreas"](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDRzbzF6c0stZVNLdl9SQTMyMkFHemlPWUtsd3hXOTB2cXplU1RWMWZxUnpfUmNXdzQwWVRGZTFSbkpOU0hCUUNZQjRMOE51ZVg4WHh3T2dQVUJjelFyQ1JORldBQi1JVlZ5Rm1CT24xeEJnV0ZiamFZRGwyTDFRbmJGWDI2NFp1d3Z6QThaYWRXWVU3UFU2cXB3TThxdlNZcWhjOVdUcFF3Zw?oc=5)
 
 2026-04-26 <span class="news-indication-tag">tumor</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDRzbzF6c0stZVNLdl9SQTMyMkFHemlPWUtsd3hXOTB2cXplU1RWMWZxUnpfUmNXdzQwWVRGZTFSbkpOU0hCUUNZQjRMOE51ZVg4WHh3T2dQVUJjelFyQ1JORldBQi1JVlZ5Rm1CT24xeEJnV0ZiamFZRGwyTDFRbmJGWDI2NFp1d3Z6QThaYWRXWVU3UFU2cXB3TThxdlNZcWhjOVdUcFF3Zw?oc=5)
-
----
-
-### [Doctors just updated the cholesterol number that aligns closest with heart disease risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
-
-2026-04-26 <span class="news-indication-tag">heart disease</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
 
 ---
 

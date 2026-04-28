@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [The 50p supp to beat midlife fatigue, brittle hair & 'slash dementia risk' - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHdYdnFFT25oRTFHcGdaSHRJbEZ3MTBYRlNlWGNla1lPRUN0amZteXZXRXVHeWprOE5ldXpNMHVzQUt2NmdXUG0wa25CeUs0ZjI0Q2F6X3ppeHQtSUpKS1NrQS1iQlE0cDdkUEt5VlRnZlIwcUVUeFpXSGloOGtmeDJqYnlXR282aVJCc2NYLUhrSXZoODkxYw?oc=5)
 
@@ -59,14 +59,6 @@ permalink: /news/alzheimer-disease/
 2026-04-26
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzhDMFljQ21zQ2RQbXJXbXd3VkEtaHlKZUlaZ203LTh4R000WDFGdmYydHJianN4NVJZYmQ0LUdDR3RrWXJzTEhzb2hLcUFrU0FLc1l2NnplNmZBeXV5MFhob1lNc25DM0wtMUl1LTNxOThVcnktRmxUdHNXbFhXbUhmbi1wX2VIbDFR?oc=5)
-
----
-
-### [Michael Mosley's Just One Thing hails key vitamin to ward off dementia - Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
-
-2026-04-26
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
 
 ---
 

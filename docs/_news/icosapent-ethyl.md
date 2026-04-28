@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [‘I thought I was doing everything right’: Crossmaglen dad, 40, shares shock heart failure diagnosis - Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
 
@@ -70,19 +70,11 @@ permalink: /news/icosapent-ethyl/
 
 ---
 
-### [DGIM 2026: Arthralgie oder Arthritis? Differenzialdiagnostik schmerzhafter Gelenke - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
+### [How often should you check your cholesterol? A cardiologist explains - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
 
-2026-04-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+2026-04-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
-
----
-
-### [Doctors just updated the cholesterol number that aligns closest with heart disease risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
-
-2026-04-26 <span class="news-indication-tag">heart disease</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
 
 ---
 

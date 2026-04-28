@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [La obesidad deja memoria duradera en células inmunitarias](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjQ0Q2hQV3FwdU1tRWxNcEZ2bENnWFZTb1k1RF8tSTRoano3UlBONXFHQ2YtdmlMdUNsY1JRVVdtVVFCa1Y2dE9zcjFNNTRCN0M5UjF3TG11amhsV0NHTDhBanVvTTZzUmV0aVlLa05YX25GamtMeDdqVEhDcmpmMlgyZU41allic1l3TjdUZHlYQ0ZKYzBfVU9VbVBtaWZ0anAwcUo4ZnJpZXdlNDA0cUIyOWRtLXhJdTRlN1ZmWDVrRUZQY1HSAcYBQVVfeXFMTXQ1NWhpc2pDWGpHN3dqekgxN2Z3UEpEd2szc1FlNUxrMVVET01tNUtQMFBlR1gxakM1RkExTFBFVnBSOGJRREI0MXltTkVqemZBVWI3UW00c2VwY0FhbUdWZjV6cGdsbGVWUldjYU5QODF3Q3hKTlA3Q3p3Y21fMFU0a1VDazRnU1d1Ukk2SzBXU2plNk9IeTlFY0lzOEhCT0d1TF85QTVMVVYwLWpFOWQ1Zl9XSzdqNG1GZEw2bmpFVWtsSER3?oc=5)
 
@@ -70,19 +70,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [¿La melatonina ayuda a dormir? Así baja el volumen del mundo](https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjdUUTdHRnB1UjdGZW5SUkpzNUw0a3pHSmkzTGFjNExWZmdJejh6Mk55R2Eyb0cxQWlxNGxqRUt6TFZaNkpKdnJTREd3d2ZHNlh0dTFRMWJCVEhsdzZTREROa1hJWndVOVRIbUxZTXkzTkdRZUFNTGw2cHNKNXYwYWxJZC1JUVBuTnVFS3NfQkp2SEVyZjRBOVVONFFoTzJaakE?oc=5)
+### [Daniel Drucker, uno de los padres de Ozempic: «Todavía no entendemos todos los beneficios que suponen los nuevos medicamentos contra la obesidad»](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
 
-2026-04-27 <span class="news-drug-tag">Melatonin</span>
+2026-04-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjdUUTdHRnB1UjdGZW5SUkpzNUw0a3pHSmkzTGFjNExWZmdJejh6Mk55R2Eyb0cxQWlxNGxqRUt6TFZaNkpKdnJTREd3d2ZHNlh0dTFRMWJCVEhsdzZTREROa1hJWndVOVRIbUxZTXkzTkdRZUFNTGw2cHNKNXYwYWxJZC1JUVBuTnVFS3NfQkp2SEVyZjRBOVVONFFoTzJaakE?oc=5)
-
----
-
-### [La tirzepatida se asocia a menos eventos cardiovasculares en pacientes de alto riesgo, según nuevos estudios](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ0dUTHVQR3FzUnBwWTVTTWFDX3NITzdNVFpLVE1pdkxqOFZFd2lqYzV2SFJnTlFpUVJvdTZadGdEekE1VVJrb3FzaVE3cVFveWRJWGNiZVlzd0M0X0JZY1JNRnI1SHNyQUhEYmJfRGpsQ1QzWWxaZE1rbmdXbGNKNmlxSUZ5clB1ODB3Wm5lak4yaGdlOVZQNzI3bmZuRWVDUkFHNVhfUWpBa21DbVIxejNXdUdvOTY0UDNrbF91eExvU0FiTllfQ3JtYVlhYWVfX0hIdlIwVUNGMjJCeExmdlJvTWFTeHVXVlZ2S1MtMkpsQTQ?oc=5)
-
-2026-04-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ0dUTHVQR3FzUnBwWTVTTWFDX3NITzdNVFpLVE1pdkxqOFZFd2lqYzV2SFJnTlFpUVJvdTZadGdEekE1VVJrb3FzaVE3cVFveWRJWGNiZVlzd0M0X0JZY1JNRnI1SHNyQUhEYmJfRGpsQ1QzWWxaZE1rbmdXbGNKNmlxSUZ5clB1ODB3Wm5lak4yaGdlOVZQNzI3bmZuRWVDUkFHNVhfUWpBa21DbVIxejNXdUdvOTY0UDNrbF91eExvU0FiTllfQ3JtYVlhYWVfX0hIdlIwVUNGMjJCeExmdlJvTWFTeHVXVlZ2S1MtMkpsQTQ?oc=5)
+來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
 
 ---
 

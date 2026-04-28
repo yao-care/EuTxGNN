@@ -54,11 +54,11 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（1 則）
 
-### [Aktualisierte S2k-Leitlinie COPD 2026: Individualisierte Pharmakotherapie im Fokus - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0lPcUxrUnhhN05Hb0RIS2UyQWlKdWotNGtYS0xPQmpYNVl4TGtIeVRXeU1OQm9LWFdrQnVIRjNqb01SQnhRbjFzbGVoUkJUaXZFMk9sQnhnTUZYZGJ6UjhiOTNsaWVwYXZ3ZENwZFQ0NGlZYUtNWjY4VWpXaUhYcHJVWFZvWmNLLUpQWG5XZw?oc=5)
+### [Cet aliment fatigue le cerveau et fait chuter les capacités intellectuelles en un temps record](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3NUdHBwdDM2dzAwWDdsa0h6N2ZVclB0OGZDSTJydlhKeU1XaFVuYkljS2NNUkd2akZDN0tua3h5WFJLYmh0bEtWSnZCaUpjS3RUemo2bmFjc19fVnRUTThyM05CY3RvQ09KVHlrdjIwZnlrTk9UYW9kaWFvZkpxaWpVZUFReXRxU3JsLWFZZTJDeU5fa3dmZ0t5eXlzNURxLWFBUnJXVlVSRDJMNDd4R1Q2bFB0QW16cnhIbjZvSjRPMXZYYXhPd2ZMZzdaZlhvYjRxZkJNQnV1cU1BeWcyd3lwaks?oc=5)
 
-2026-04-27 <span class="news-indication-tag">copd</span>
+2026-04-27 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0lPcUxrUnhhN05Hb0RIS2UyQWlKdWotNGtYS0xPQmpYNVl4TGtIeVRXeU1OQm9LWFdrQnVIRjNqb01SQnhRbjFzbGVoUkJUaXZFMk9sQnhnTUZYZGJ6UjhiOTNsaWVwYXZ3ZENwZFQ0NGlZYUtNWjY4VWpXaUhYcHJVWFZvWmNLLUpQWG5XZw?oc=5)
+來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3NUdHBwdDM2dzAwWDdsa0h6N2ZVclB0OGZDSTJydlhKeU1XaFVuYkljS2NNUkd2akZDN0tua3h5WFJLYmh0bEtWSnZCaUpjS3RUemo2bmFjc19fVnRUTThyM05CY3RvQ09KVHlrdjIwZnlrTk9UYW9kaWFvZkpxaWpVZUFReXRxU3JsLWFZZTJDeU5fa3dmZ0t5eXlzNURxLWFBUnJXVlVSRDJMNDd4R1Q2bFB0QW16cnhIbjZvSjRPMXZYYXhPd2ZMZzdaZlhvYjRxZkJNQnV1cU1BeWcyd3lwaks?oc=5)
 
 ---
 

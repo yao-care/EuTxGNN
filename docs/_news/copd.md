@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "copd 相關新聞"
+title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "copd 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
-# copd 相關新聞
+# EPOC（copd） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="copd 有什麼相關新聞？">
-<strong>copd</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
+<strong>EPOC（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「copd」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「EPOC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -56,11 +56,11 @@ permalink: /news/copd/
 
 ## 相關新聞（1 則）
 
-### [Aktualisierte S2k-Leitlinie COPD 2026: Individualisierte Pharmakotherapie im Fokus - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0lPcUxrUnhhN05Hb0RIS2UyQWlKdWotNGtYS0xPQmpYNVl4TGtIeVRXeU1OQm9LWFdrQnVIRjNqb01SQnhRbjFzbGVoUkJUaXZFMk9sQnhnTUZYZGJ6UjhiOTNsaWVwYXZ3ZENwZFQ0NGlZYUtNWjY4VWpXaUhYcHJVWFZvWmNLLUpQWG5XZw?oc=5)
+### [Cet aliment fatigue le cerveau et fait chuter les capacités intellectuelles en un temps record](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3NUdHBwdDM2dzAwWDdsa0h6N2ZVclB0OGZDSTJydlhKeU1XaFVuYkljS2NNUkd2akZDN0tua3h5WFJLYmh0bEtWSnZCaUpjS3RUemo2bmFjc19fVnRUTThyM05CY3RvQ09KVHlrdjIwZnlrTk9UYW9kaWFvZkpxaWpVZUFReXRxU3JsLWFZZTJDeU5fa3dmZ0t5eXlzNURxLWFBUnJXVlVSRDJMNDd4R1Q2bFB0QW16cnhIbjZvSjRPMXZYYXhPd2ZMZzdaZlhvYjRxZkJNQnV1cU1BeWcyd3lwaks?oc=5)
 
 2026-04-27
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0lPcUxrUnhhN05Hb0RIS2UyQWlKdWotNGtYS0xPQmpYNVl4TGtIeVRXeU1OQm9LWFdrQnVIRjNqb01SQnhRbjFzbGVoUkJUaXZFMk9sQnhnTUZYZGJ6UjhiOTNsaWVwYXZ3ZENwZFQ0NGlZYUtNWjY4VWpXaUhYcHJVWFZvWmNLLUpQWG5XZw?oc=5)
+來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3NUdHBwdDM2dzAwWDdsa0h6N2ZVclB0OGZDSTJydlhKeU1XaFVuYkljS2NNUkd2akZDN0tua3h5WFJLYmh0bEtWSnZCaUpjS3RUemo2bmFjc19fVnRUTThyM05CY3RvQ09KVHlrdjIwZnlrTk9UYW9kaWFvZkpxaWpVZUFReXRxU3JsLWFZZTJDeU5fa3dmZ0t5eXlzNURxLWFBUnJXVlVSRDJMNDd4R1Q2bFB0QW16cnhIbjZvSjRPMXZYYXhPd2ZMZzdaZlhvYjRxZkJNQnV1cU1BeWcyd3lwaks?oc=5)
 
 ---
 

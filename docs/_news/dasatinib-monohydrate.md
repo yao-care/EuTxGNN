@@ -14,7 +14,7 @@ permalink: /news/dasatinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dasatinib Monohydrate 有什麼相關新聞？">
-<strong>Dasatinib Monohydrate</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dasatinib Monohydrate</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/dasatinib-monohydrate/
 <p><a href="{{ '/drugs/dasatinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（19 則）
+
+### [Metabolische Krise: Wie Herz, Nieren und Stoffwechsel Krebsrisiko steigern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+---
 
 ### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
+
+---
+
+### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+---
+
+### [ATS Brianza: screening al colon retto salva la vita](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
+
+2026-04-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Merateonline](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
 
 ---
 
@@ -83,14 +107,6 @@ permalink: /news/dasatinib-monohydrate/
 2026-04-27 <span class="news-indication-tag">cancer</span>
 
 來源：[Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
-
----
-
-### [ATS Brianza: lo screening al colon-retto può salvare vite](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
-
-2026-04-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Casateonline](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWWExZWVsa1BfUXA5b3FxX3JIU25aMWZRNUNueTdDMEtVZm85VzNzcDhqVDFyUVpjaG9rRnJyekdPSmRnMm1leFFvczJpZklwV0ZmRkZUYXVRUHdEeXVWOEFCb3ZycDZZcVpXNnRzbkRKRU1OQ25MSDJYUWRoRzV6b2V0U3Rwc3psZEhfejdnbGxDQkpCWS1QYUN1MGlqV2VpdlE?oc=5)
 
 ---
 
@@ -131,6 +147,14 @@ permalink: /news/dasatinib-monohydrate/
 2026-04-27 <span class="news-indication-tag">cancer</span>
 
 來源：[Zoomdici.fr](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWRzSUVyWEMwRlVFcy1WWW05NV9USGlFYmlkaFYwMjRwSUNHYVJHNGxmSUdaMGRtWFhTZXN6YzdlOXdfcmVoU3NmTlRmN2t1WmxoejZ5UFBUQjJOMW5yLV92SlFNdFRNT0pISVJHWHI5VURkb0dhRVFjVGhDS0staEk4OXo3bXNLY05RaFJmekxLUkJyMEpvMTdQdkQxV0syWlZwM1BTMEtEZXVPbk9uWUE5ejU?oc=5)
+
+---
+
+### [Heartbroken family gets 'worst news ever' when two-year-old diagnosed with rare cancer - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
+
+2026-04-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
 
 ---
 
@@ -179,14 +203,6 @@ permalink: /news/dasatinib-monohydrate/
 2026-04-26 <span class="news-indication-tag">tumor</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZHRWxJMWVBSlRWc2poRW52YnItLUF4dTA0QzZ6Um9SYXowX3RFODZ4azNrOEZPamVmVnVPZjFRUURtX0hSMnctQ09wWmhYTV9PR2J3d1VOa1hkV0EzdHNtdks2TmxCdGdqVEQ4d2UxVkhubGdYRUhWTDNTMnBiazRQQUVlN2lFYkh2dDJORTNMUk5reDItVVVaRnpuVHFESjVGNzUwSXY0YS1E0gGyAUFVX3lxTE11Yl9jb2lvZ2J6SDZzQ2llYmloWFEyNXRid1Rta3hKQmtLOFVBMV90a0ZzRkdJcUdHZE9tR2M3cUE1Q1NoTnQ3TnRoX05PQmp2RjdYeFM5enAyeWZKNXQyZXlpajhYSzVpdm1NbDlUNElUTFprd2tKLWUxalhCZ1JLTnlYeGVVeU5hcVlYT2xQNndsOVM3dWlzbWJDRDJqLXA3cXRtdmxhcjI1enVGUmU1NGc?oc=5)
-
----
-
-### [Michael Mosley's Just One Thing hails key vitamin to ward off dementia - Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
-
-2026-04-26 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5)
 
 ---
 

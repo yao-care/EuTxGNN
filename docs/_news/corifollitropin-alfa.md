@@ -70,19 +70,19 @@ permalink: /news/corifollitropin-alfa/
 
 ---
 
+### [How often should you check your cholesterol? A cardiologist explains - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
+
+2026-04-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
+
+---
+
 ### [Après 70 ans, ce chiffre de tension peut alerter sur votre santé cardiaque - Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
 
 2026-04-27 <span class="news-indication-tag">hypertension</span>
 
 來源：[Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
-
----
-
-### [Doctors just updated the cholesterol number that aligns closest with heart disease risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
-
-2026-04-26 <span class="news-indication-tag">heart disease</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Psoriasis: Wenn die Haut im Dauerstress steckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">psoriasis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
-
----
-
-### [DGIM 2026: Arthralgie oder Arthritis? Differenzialdiagnostik schmerzhafter Gelenke - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
-
-2026-04-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
 
 ---
 

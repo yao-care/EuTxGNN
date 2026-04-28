@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Neuro-Talk: Durchbruch bei der Schlaganfallforschung und erfreuliche Nachrichten für Kaffeetrinker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
 
 2026-04-27
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
-
----
-
-### [Tripla pillola riduce le recidive di ictus del 39%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
-
-2026-04-25
-
-來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 

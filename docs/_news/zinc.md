@@ -14,7 +14,7 @@ permalink: /news/zinc/
 ---
 
 <p class="key-answer" data-question="Zinc 有什麼相關新聞？">
-<strong>Zinc</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Zinc</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/zinc/
 <p><a href="{{ '/drugs/zinc/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Selenio, zinc o hierro: el papel de los oligoelementos en la eficiencia reproductiva bovina - Diario Veterinario](https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3NNem9FSDRBN0ZLM19GUkRzckwwaUlKR0pLbWcyZEl6c0Y5N1JSOEt1WkxOZjg5al9DbWhONDRWWk1zdC1wbXM1MWdYY0RDU1FwWTlJRDNhRWpscUhsS1ZOUkN2UTh0ZHFLcVQ4TDd5TUUtTmJDX0pTenB3akxmcDhqcm1yNENuSl83WVVfdHJiSnEwSDUwejBSV0hMbVRsTi01endTV0pQbHp6VEFWbWtDd0RTQQ?oc=5)
-
-2026-04-27 <span class="news-drug-tag">Zinc</span>
-
-來源：[Diario Veterinario](https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3NNem9FSDRBN0ZLM19GUkRzckwwaUlKR0pLbWcyZEl6c0Y5N1JSOEt1WkxOZjg5al9DbWhONDRWWk1zdC1wbXM1MWdYY0RDU1FwWTlJRDNhRWpscUhsS1ZOUkN2UTh0ZHFLcVQ4TDd5TUUtTmJDX0pTenB3akxmcDhqcm1yNENuSl83WVVfdHJiSnEwSDUwejBSV0hMbVRsTi01endTV0pQbHp6VEFWbWtDd0RTQQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

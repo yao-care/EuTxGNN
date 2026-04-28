@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Aktualisierte S2k-Leitlinie COPD 2026: Individualisierte Pharmakotherapie im Fokus - Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0lPcUxrUnhhN05Hb0RIS2UyQWlKdWotNGtYS0xPQmpYNVl4TGtIeVRXeU1OQm9LWFdrQnVIRjNqb01SQnhRbjFzbGVoUkJUaXZFMk9sQnhnTUZYZGJ6UjhiOTNsaWVwYXZ3ZENwZFQ0NGlZYUtNWjY4VWpXaUhYcHJVWFZvWmNLLUpQWG5XZw?oc=5)
+### [Cet aliment fatigue le cerveau et fait chuter les capacités intellectuelles en un temps record](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3NUdHBwdDM2dzAwWDdsa0h6N2ZVclB0OGZDSTJydlhKeU1XaFVuYkljS2NNUkd2akZDN0tua3h5WFJLYmh0bEtWSnZCaUpjS3RUemo2bmFjc19fVnRUTThyM05CY3RvQ09KVHlrdjIwZnlrTk9UYW9kaWFvZkpxaWpVZUFReXRxU3JsLWFZZTJDeU5fa3dmZ0t5eXlzNURxLWFBUnJXVlVSRDJMNDd4R1Q2bFB0QW16cnhIbjZvSjRPMXZYYXhPd2ZMZzdaZlhvYjRxZkJNQnV1cU1BeWcyd3lwaks?oc=5)
 
-2026-04-27 <span class="news-indication-tag">copd</span>
+2026-04-27 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0lPcUxrUnhhN05Hb0RIS2UyQWlKdWotNGtYS0xPQmpYNVl4TGtIeVRXeU1OQm9LWFdrQnVIRjNqb01SQnhRbjFzbGVoUkJUaXZFMk9sQnhnTUZYZGJ6UjhiOTNsaWVwYXZ3ZENwZFQ0NGlZYUtNWjY4VWpXaUhYcHJVWFZvWmNLLUpQWG5XZw?oc=5)
-
----
-
-### [DGIM 2026: Arthralgie oder Arthritis? Differenzialdiagnostik schmerzhafter Gelenke - Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
-
-2026-04-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVZkZHJJMEVYYnk1cjZWYV8zZjZUUWg5cW1qVWdtQTZKQm9hNXVDX1JOakJRTU5fWFItZXRGaDZQY0VMbG00MXZ2SHl1VjA2bHNDZFFFVzBmYl9PWlE3bkkyelJ0eHRTRV9vVjNMdGVzZ2FtYW85OEhCaE9PTHBrVVJ1bUtWZWhqMXF5LTBfeVN1SnZweWxwemdzbmdKeWVaTzRaU0pnbmoyd2RLRS0tYw?oc=5)
+來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3NUdHBwdDM2dzAwWDdsa0h6N2ZVclB0OGZDSTJydlhKeU1XaFVuYkljS2NNUkd2akZDN0tua3h5WFJLYmh0bEtWSnZCaUpjS3RUemo2bmFjc19fVnRUTThyM05CY3RvQ09KVHlrdjIwZnlrTk9UYW9kaWFvZkpxaWpVZUFReXRxU3JsLWFZZTJDeU5fa3dmZ0t5eXlzNURxLWFBUnJXVlVSRDJMNDd4R1Q2bFB0QW16cnhIbjZvSjRPMXZYYXhPd2ZMZzdaZlhvYjRxZkJNQnV1cU1BeWcyd3lwaks?oc=5)
 
 ---
 

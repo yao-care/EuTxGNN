@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Neuro-Talk: Durchbruch bei der Schlaganfallforschung und erfreuliche Nachrichten für Kaffeetrinker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
 
@@ -78,27 +78,19 @@ permalink: /news/telmisartan/
 
 ---
 
+### [How often should you check your cholesterol? A cardiologist explains - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
+
+2026-04-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
+
+---
+
 ### [Après 70 ans, ce chiffre de tension peut alerter sur votre santé cardiaque - Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
 
 2026-04-27 <span class="news-indication-tag">hypertension</span>
 
 來源：[Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
-
----
-
-### [Doctors just updated the cholesterol number that aligns closest with heart disease risk](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
-
-2026-04-26 <span class="news-indication-tag">heart disease</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0l5VHdZd3NQTkxYdEFEOXJPYnpiU1RoZnhoYzFWcFRjbU1WeTJvbU53X0hEb2Z2WmlOd05XUVA1eThHdlFkYVNrakpvOXVGLTlmZkRmOWtQMFJweGc5NHNUUVRVeTlvWGhDZmtOc2V5NFVCX1NhVlg3MVhuOF9qYi1GVzA2cXhNX2EwYVdZclhpeE1QV0pwVUNjcFBiZXpXYWlmMk91Yw?oc=5)
-
----
-
-### [Tripla pillola riduce le recidive di ictus del 39%](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
-
-2026-04-25 <span class="news-indication-tag">ictus</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVZiWXFPanl5dE9YdktnYmJrWk9MQVZkb1lRbVg4QUw5ODdBVlZFbGs0THBES0hsa3F5enlmUzNxOFJfOFVKcmlWTzZTSUk2TTNjQ2l3QlRFZVRFUXlVV0dRZGlaYVlJNWl6STFZaUhQZE1vSUJpN3JUaVJaZUhJOGRWbmdINTdmblE?oc=5)
 
 ---
 
