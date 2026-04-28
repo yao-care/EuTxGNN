@@ -14,7 +14,7 @@ permalink: /news/lurasidone/
 ---
 
 <p class="key-answer" data-question="Lurasidone 有什麼相關新聞？">
-<strong>Lurasidone</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lurasidone</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/lurasidone/
 <p><a href="{{ '/drugs/lurasidone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（30 則）
 
-### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+### [Neuartiges Virus entdeckt: Coronavirus mit neuen Eigenschaften - Warnung vor CcCoV-KY43](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRFhoN3Flbks1MFJBeG9wWkpDcXY3NXBUSHM1ajR5bjN6RjNpUFJmMkQ2N0xZcFdOY2t1eU9fYlhRVEdGcm1IWldDOVJLcDFUQzhUcDlEaDBtVGJRNWY2bjFiZl9pVWJ0LUMxYnI3S0gzVnBYc1h4eUk5TWZRbmx3OTFTXzVQUjZHN0tWaGpxSmh3b1pnZFVJaUp3cDdPNy1XWFJWQ2kzWkstWVVEdGU2bUJFTGRIWjRNMjAtTEluWkthRHBOYmo4UjVfdURHVUVqTjNOUnBJY3BqY3ZvY2w2MVdvRUNrN1lGbkFyONIB8gFBVV95cUxNZ3pkUTdmMU51Xy1GTU9SS1d0aElXWENUd0ZMbzRVNzBzUTZ1VlM2Szh2MlFzTGZUTkIzSkNWMVhlV3VRRkN0dUxhaFpPQWFaRW9nWGR5Yk51M05CX3ZTdnZnMHZyYVR0QVNMdUJ2WUJMSFdlVmJmTG56ZGVGNkRWLWlzZ2gtaVdoZldPS1R0ZGZZQ2JlTC1wY0xSSjNaS2g3d1JxdnhjWUVtRUtLN1o4MkFSdnhZZXMyX0xjbG1qNUFWd3djcVZKalRuN01FQVBxYk5HZk9PYVhSTjRqR0duOUNQT3A3OEtzT0VlTU1CZm5NQQ?oc=5)
 
-2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-04-28 <span class="news-indication-tag">AF</span>
 
-來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+來源：[News.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRFhoN3Flbks1MFJBeG9wWkpDcXY3NXBUSHM1ajR5bjN6RjNpUFJmMkQ2N0xZcFdOY2t1eU9fYlhRVEdGcm1IWldDOVJLcDFUQzhUcDlEaDBtVGJRNWY2bjFiZl9pVWJ0LUMxYnI3S0gzVnBYc1h4eUk5TWZRbmx3OTFTXzVQUjZHN0tWaGpxSmh3b1pnZFVJaUp3cDdPNy1XWFJWQ2kzWkstWVVEdGU2bUJFTGRIWjRNMjAtTEluWkthRHBOYmo4UjVfdURHVUVqTjNOUnBJY3BqY3ZvY2w2MVdvRUNrN1lGbkFyONIB8gFBVV95cUxNZ3pkUTdmMU51Xy1GTU9SS1d0aElXWENUd0ZMbzRVNzBzUTZ1VlM2Szh2MlFzTGZUTkIzSkNWMVhlV3VRRkN0dUxhaFpPQWFaRW9nWGR5Yk51M05CX3ZTdnZnMHZyYVR0QVNMdUJ2WUJMSFdlVmJmTG56ZGVGNkRWLWlzZ2gtaVdoZldPS1R0ZGZZQ2JlTC1wY0xSSjNaS2g3d1JxdnhjWUVtRUtLN1o4MkFSdnhZZXMyX0xjbG1qNUFWd3djcVZKalRuN01FQVBxYk5HZk9PYVhSTjRqR0duOUNQT3A3OEtzT0VlTU1CZm5NQQ?oc=5)
+
+---
+
+### [Vitamine in der Schwangerschaft: Das braucht der Körper - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWlNRVY3M2VmZTBuVklzWDJZSFdIc3NaamhPRHJpZ0lGZ3Z1MW94b093OVVVZmFRZ044WWs1YjIyQlpzUUpOWC1Ka0VVbGlxWVEzRUY3elowYU54VXhoZU1lY2taUjM0VXNESVFzNmtkR3B1TUNkdmtOSjg3ZGVxVXVCLW1iMmc0X2MwaWMyRVprYUtiWDd1MTBGcHJfV0h4QkRqZWJlaFdLWXROemNlaUQ1M3NrLUgybGpVMk1qZzVhZw?oc=5)
+
+2026-04-28 <span class="news-indication-tag">AF</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWlNRVY3M2VmZTBuVklzWDJZSFdIc3NaamhPRHJpZ0lGZ3Z1MW94b093OVVVZmFRZ044WWs1YjIyQlpzUUpOWC1Ka0VVbGlxWVEzRUY3elowYU54VXhoZU1lY2taUjM0VXNESVFzNmtkR3B1TUNkdmtOSjg3ZGVxVXVCLW1iMmc0X2MwaWMyRVprYUtiWDd1MTBGcHJfV0h4QkRqZWJlaFdLWXROemNlaUQ1M3NrLUgybGpVMk1qZzVhZw?oc=5)
+
+---
+
+### [Cómo la esclerosis múltiple provoca la muerte neuronal - GAEM (Grupo de Afectados de Esclerosis Múltiple)](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
+
+2026-04-28 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+
+來源：[fundaciongaem.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
+
+---
+
+### [Wie das Immunsystem lebenslange Virusinfektionen bekämpft - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzQyTzk0SkdkSzFxQ2h6U18yY1ZMMGhGQXZLbUlfUWdzM2NLWEZOVURwZ1poRGFsSkdIaEJVbmVFbm9KTlJ0N3FxdWk3TlQtdEVkaW0zRlFmYjZoRWFEbW5OMWFXV2NHejlFekd3SEJSOGY0SHhtdlF3SlFOREtITUxZLXluVlNjcjAyNTVsYWNHdURYU1hKdWJNVzVYeTRLV1QwWTU2ZXVoYlZ2akpmMjJKcGFzXzA?oc=5)
+
+2026-04-28 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzQyTzk0SkdkSzFxQ2h6U18yY1ZMMGhGQXZLbUlfUWdzM2NLWEZOVURwZ1poRGFsSkdIaEJVbmVFbm9KTlJ0N3FxdWk3TlQtdEVkaW0zRlFmYjZoRWFEbW5OMWFXV2NHejlFekd3SEJSOGY0SHhtdlF3SlFOREtITUxZLXluVlNjcjAyNTVsYWNHdURYU1hKdWJNVzVYeTRLV1QwWTU2ZXVoYlZ2akpmMjJKcGFzXzA?oc=5)
+
+---
+
+### [“La metástasis aún es una patología olvidada en el discurso social del cáncer”](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTlncUJ0WmpoenBYRnRyU0ZGR0NaWnVVY2ZNUkphZ0trNk90OTVsUkQxWWpjQ19sVFZhNjd1SjBHU0U5WkJMczdNMUhLUU1kTnhZT2lwRDFkYWt5ZS15azhqd2hBcjRUdTVfM1FWZ1VLWkstdkxKMUwwZDVaTXI0a2xROA?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[Innovaspain](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTlncUJ0WmpoenBYRnRyU0ZGR0NaWnVVY2ZNUkphZ0trNk90OTVsUkQxWWpjQ19sVFZhNjd1SjBHU0U5WkJMczdNMUhLUU1kTnhZT2lwRDFkYWt5ZS15azhqd2hBcjRUdTVfM1FWZ1VLWkstdkxKMUwwZDVaTXI0a2xROA?oc=5)
 
 ---
 
@@ -78,6 +110,22 @@ permalink: /news/lurasidone/
 
 ---
 
+### [El lado B de los ultraprocesados: cómo afecta al cerebro tomar Coca Cola o comer Doritos y por qué genera... - Economía Sustentable](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbGJkdWRQaThEc1JsTUNkdDhnREpfNjJRYXQ5Z3dkMmJjOHBnOTh3MWtXekZaVDI4RmRva1M1VERRUEtYclJ6bzRXeDJzMEk5M3owTzNzOWc0dDN4Yjg1VXpKY2paMjU1bGNacTJ2RzNBZUpPR2NGZXJ1VnA3b0FUNEhzcXl0Y0ttVGlsd2dkTkl3dDBJbktIRHVfTXplUnhkS1JTY1Axbkx2V2NCTUlhMDRBM01iMU5ITFNHVmsyTVBQMFh5QTJ1NFVKUGxaU2VmeG5TX2Fndm5JMzRJOTZHcTVPVkRYVExtUVZTcdIB8gFBVV95cUxNNDhXWUwzRnBTb3BRSzMtT3BFOWxTeC1iWEx2TGxUazJsY3BfOXI5NWVkbmd6eXZVRXB2YzRRYm9rXzJvTGVwYnUxb1dXQ1hoX21QZjVEV3BISzhMakpoT2VmZkJnTWl3QUd5SUJobFZZUGM4eDA2U1kxb1VMdGxKbWFKTnhjbGJaV09HQmR5VnBYdy1yQlZEMW1xZmlFY2ltZFF5dFVvME13ejFkLXg5QnlNdjNSZEEwSi1RbWtKcmd1SF9ZMlhsTVdaZ2dvWTF0RnB6TmphRHE4MkllYUVkVGJwVkJSWl9HeTViTU9kZVFsZw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">AF</span>
+
+來源：[Economía Sustentable](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbGJkdWRQaThEc1JsTUNkdDhnREpfNjJRYXQ5Z3dkMmJjOHBnOTh3MWtXekZaVDI4RmRva1M1VERRUEtYclJ6bzRXeDJzMEk5M3owTzNzOWc0dDN4Yjg1VXpKY2paMjU1bGNacTJ2RzNBZUpPR2NGZXJ1VnA3b0FUNEhzcXl0Y0ttVGlsd2dkTkl3dDBJbktIRHVfTXplUnhkS1JTY1Axbkx2V2NCTUlhMDRBM01iMU5ITFNHVmsyTVBQMFh5QTJ1NFVKUGxaU2VmeG5TX2Fndm5JMzRJOTZHcTVPVkRYVExtUVZTcdIB8gFBVV95cUxNNDhXWUwzRnBTb3BRSzMtT3BFOWxTeC1iWEx2TGxUazJsY3BfOXI5NWVkbmd6eXZVRXB2YzRRYm9rXzJvTGVwYnUxb1dXQ1hoX21QZjVEV3BISzhMakpoT2VmZkJnTWl3QUd5SUJobFZZUGM4eDA2U1kxb1VMdGxKbWFKTnhjbGJaV09HQmR5VnBYdy1yQlZEMW1xZmlFY2ltZFF5dFVvME13ejFkLXg5QnlNdjNSZEEwSi1RbWtKcmd1SF9ZMlhsTVdaZ2dvWTF0RnB6TmphRHE4MkllYUVkVGJwVkJSWl9HeTViTU9kZVFsZw?oc=5)
+
+---
+
+### [Influenza. Oms: in 15 anni la distribuzione di vaccini è raddoppiata in Europa. Ma solo in 4 Paesi è stato raggiunto il target per gli anziani - Quotidiano Sanità](https://news.google.com/rss/articles/CBMikgJBVV95cUxPamhPb2ZKNFNOZ0NacFVXQkxRN3BvNDkzTTVLZmdRN2hlbFlGY2xaOWxNdXRXYWtRSjJfN0xmRnpacXJEYkNmUS0tSTdfZE1KTG9JaXJ2MVhScUlja0p1bXdGMnJxVGw5akdzUXpPNjQyMmd0RHczWVprOUNVaTNLNTZzVDVJRDExaG1sUkV6bTFPMTEzcVlheFY0c0VhV0YtMzh0VXhMb0d2UTRxVWRBN25URFAwZmxBU0o0bnV3dC1rV3hFU0Z1aHRVSzZBOTgtcEJ4Sm9LcnVxS2l4X1A2S2FHQzhwcEpCMUZId1V6cVl2VG1fWXoyX29XeV9LNE04M1FhclprZU1ZY2hrNEs3Uy1B?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMikgJBVV95cUxPamhPb2ZKNFNOZ0NacFVXQkxRN3BvNDkzTTVLZmdRN2hlbFlGY2xaOWxNdXRXYWtRSjJfN0xmRnpacXJEYkNmUS0tSTdfZE1KTG9JaXJ2MVhScUlja0p1bXdGMnJxVGw5akdzUXpPNjQyMmd0RHczWVprOUNVaTNLNTZzVDVJRDExaG1sUkV6bTFPMTEzcVlheFY0c0VhV0YtMzh0VXhMb0d2UTRxVWRBN25URFAwZmxBU0o0bnV3dC1rV3hFU0Z1aHRVSzZBOTgtcEJ4Sm9LcnVxS2l4X1A2S2FHQzhwcEpCMUZId1V6cVl2VG1fWXoyX29XeV9LNE04M1FhclprZU1ZY2hrNEs3Uy1B?oc=5)
+
+---
+
 ### [La obesidad deja memoria duradera en células inmunitarias](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjQ0Q2hQV3FwdU1tRWxNcEZ2bENnWFZTb1k1RF8tSTRoano3UlBONXFHQ2YtdmlMdUNsY1JRVVdtVVFCa1Y2dE9zcjFNNTRCN0M5UjF3TG11amhsV0NHTDhBanVvTTZzUmV0aVlLa05YX25GamtMeDdqVEhDcmpmMlgyZU41allic1l3TjdUZHlYQ0ZKYzBfVU9VbVBtaWZ0anAwcUo4ZnJpZXdlNDA0cUIyOWRtLXhJdTRlN1ZmWDVrRUZQY1HSAcYBQVVfeXFMTXQ1NWhpc2pDWGpHN3dqekgxN2Z3UEpEd2szc1FlNUxrMVVET01tNUtQMFBlR1gxakM1RkExTFBFVnBSOGJRREI0MXltTkVqemZBVWI3UW00c2VwY0FhbUdWZjV6cGdsbGVWUldjYU5QODF3Q3hKTlA3Q3p3Y21fMFU0a1VDazRnU1d1Ukk2SzBXU2plNk9IeTlFY0lzOEhCT0d1TF85QTVMVVYwLWpFOWQ1Zl9XSzdqNG1GZEw2bmpFVWtsSER3?oc=5)
 
 2026-04-27 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -94,14 +142,6 @@ permalink: /news/lurasidone/
 
 ---
 
-### [NEM: Am liebsten Magnesium und Vitamin D – aus der Drogerie - PTA IN LOVE](https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXNnSVJUbjVrN0FuOURnUWsxQ1M4aEtuTGV0TlBKZFN0eEhLRV85WjFNbUxYMno2R1JWMzBURVdzbnNFc3ZiRDFtTkJoaFhpQlU0a2pRY2U0STFHSWFkcWl3M19fX3Q4LTdmTll0RTU2NllTUjBEdDNkQkY3TFZEN0ZCUGluVFlNS1liVw?oc=5)
-
-2026-04-27 <span class="news-indication-tag">AF</span>
-
-來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXNnSVJUbjVrN0FuOURnUWsxQ1M4aEtuTGV0TlBKZFN0eEhLRV85WjFNbUxYMno2R1JWMzBURVdzbnNFc3ZiRDFtTkJoaFhpQlU0a2pRY2U0STFHSWFkcWl3M19fX3Q4LTdmTll0RTU2NllTUjBEdDNkQkY3TFZEN0ZCUGluVFlNS1liVw?oc=5)
-
----
-
 ### [Schwangerschaftsverlängerung: Blutwäsche eignet sich womöglich zur Therapie der Präeklampsie - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZHhEeDdXREsxQ2xQbGd1dmFKUE1ob3FIQ2U4YTNXZmI2eGMtMGZzck1GOW9XalRaWUMtNGR4MHAybXZqNFNyMG5xQzRxNVZLMzdnendnZW9XbHNTN2JsZXhnX2xuT3BJMmpKUGZJbnZhc2N6RTB2clV6eTlfbGpEOWtjcUlYVVYyU3J4dno0RlpwVnFReXRvZ1kwMGxETTFyeTdMU1cxUjhxaUJocVNGRjFFUG1NMUZQbjdTRmJ6bVJwOTl1ZXJ3aG1lc29ERzk3WHU2dGxFSGpOUkI1b1hVcnlvbXo2Ni1UUkRBeDVSWVhkYm8wZlMxbG1SdlhMdHIyTE1Yc211d2U?oc=5)
 
 2026-04-27 <span class="news-indication-tag">AF</span>
@@ -115,14 +155,6 @@ permalink: /news/lurasidone/
 2026-04-27 <span class="news-indication-tag">AF</span>
 
 來源：[Bored Panda](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFF6X1dXZ3BqaExlcEtOMWI0N3BCQjExMllldnZ1TVk3U0hnSlE3V2pZWlJ0dmNCS0RtSWx1aHRzZng0R0gxNnR6ajFwVkhSd204endsUUlvbmVjbTE5RGdIbWpOUFpMSGRYMmJJcjZ6NnpUUmdPQlRpcXoxdDNNSHA1eVVJSU8xMU5WVHY0Yi1LNFU0dldXd2h2NkhOeFpSeklZNmRfTUU?oc=5)
-
----
-
-### [Elearning360 impulsa la terapia visual neurofuncional](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWlmS1RGTmFEdjJXRllLX0pwRm9jb1dlWDJrbzN5SGdyR1ZCNEV2VDh1WjBBcDkweGNPQlBMU2NWTnVXWDZ1Q25Md2JqUlBFR3hCNnNTNnJiWGpKYkpFUnFwRmh3aXY4YTNmWUV2S0ltN1cwVGluaUpDc2hGQmhENmhIVQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">AF</span>
-
-來源：[Modaengafas.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWlmS1RGTmFEdjJXRllLX0pwRm9jb1dlWDJrbzN5SGdyR1ZCNEV2VDh1WjBBcDkweGNPQlBMU2NWTnVXWDZ1Q25Md2JqUlBFR3hCNnNTNnJiWGpKYkpFUnFwRmh3aXY4YTNmWUV2S0ltN1cwVGluaUpDc2hGQmhENmhIVQ?oc=5)
 
 ---
 
@@ -150,11 +182,11 @@ permalink: /news/lurasidone/
 
 ---
 
-### [Un estudio pionero en humanos confirma la seguridad de los 'implantes' cerebrales hechos de grafeno - National Geographic España](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWG1vaTU1U0h6OG80bjVINUViSXJtVkVzam14dE1yYjVVMDRVckU0NWNCRHBUd0NNS1hrVkF4WC0wYnRsM3Q1N0tXbmYyRF9ER3JRdWZyTnhtNy14SEVvYU81TGZvZS1oRlgxV05GUGlhRHdoRm9IX0JIN3Qyb0pHNkdhOXFTRXNKOUpjWFRTemlTT0djTEhYOGpLS2g5YjFaRTIzRkhuaDlRclJ4UUxPVk5leUNzTy04aFd4M1hIVk1sNUdJalNCYnd1enA4aTg?oc=5)
+### [Bastano pochi minuti di sport al giorno per migliorare la memoria: ecco quanti - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjVhQk9vTXpnUXV2blNMUldfdVlRODBOTFQ4eTlvMUg5WmNqeXNWZlpqUm1XMnhhNWZOZDZwcFE3UzdjYWdlbGhMSEZ2aWYxZExGTGx5MklZUGctY2pxN3NwRWpyZXRoX2hKNmtqOTFheGYxSGJ3Y2VublpCVHF3MmttRmRBRWR2UmJpRUI4M0pfcGNSSU5MVTk4M2l3WnQ4UHhCdVJmNVRKNHA4eWxGNjRxNjlLOUg1Ylg5TGJJOWszb1FfOVFISE5EWHBHYlNsQ1UwTWZRZUlrSFAyb1J1V2x6MNIBwgFBVV95cUxOU0N6YzlrRkdPcDh3WWRFX3V1bXRUN2hxWnhsYjVpUUNCLV9oWkR2TnhrS1hKck15V0lvTFRWZHlqRVlzVDJQTWFsSHY4R0pEZHdLRUdRcHlUQTNyeUk2TW00SThsd3pONUNkR2g5cHFHa0wwVG5uN2FIV3BSb1NFTVZpemVDNTF5OVRQOEFYblFMdU9scm5BZGVRVHBtX3dSek5vSDBaOXBvRFFSZTFuT0FweDY5UHZWN3p6N3NyQXlUZw?oc=5)
 
-2026-04-27 <span class="news-indication-tag">AF</span>
+2026-04-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWG1vaTU1U0h6OG80bjVINUViSXJtVkVzam14dE1yYjVVMDRVckU0NWNCRHBUd0NNS1hrVkF4WC0wYnRsM3Q1N0tXbmYyRF9ER3JRdWZyTnhtNy14SEVvYU81TGZvZS1oRlgxV05GUGlhRHdoRm9IX0JIN3Qyb0pHNkdhOXFTRXNKOUpjWFRTemlTT0djTEhYOGpLS2g5YjFaRTIzRkhuaDlRclJ4UUxPVk5leUNzTy04aFd4M1hIVk1sNUdJalNCYnd1enA4aTg?oc=5)
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjVhQk9vTXpnUXV2blNMUldfdVlRODBOTFQ4eTlvMUg5WmNqeXNWZlpqUm1XMnhhNWZOZDZwcFE3UzdjYWdlbGhMSEZ2aWYxZExGTGx5MklZUGctY2pxN3NwRWpyZXRoX2hKNmtqOTFheGYxSGJ3Y2VublpCVHF3MmttRmRBRWR2UmJpRUI4M0pfcGNSSU5MVTk4M2l3WnQ4UHhCdVJmNVRKNHA4eWxGNjRxNjlLOUg1Ylg5TGJJOWszb1FfOVFISE5EWHBHYlNsQ1UwTWZRZUlrSFAyb1J1V2x6MNIBwgFBVV95cUxOU0N6YzlrRkdPcDh3WWRFX3V1bXRUN2hxWnhsYjVpUUNCLV9oWkR2TnhrS1hKck15V0lvTFRWZHlqRVlzVDJQTWFsSHY4R0pEZHdLRUdRcHlUQTNyeUk2TW00SThsd3pONUNkR2g5cHFHa0wwVG5uN2FIV3BSb1NFTVZpemVDNTF5OVRQOEFYblFMdU9scm5BZGVRVHBtX3dSek5vSDBaOXBvRFFSZTFuT0FweDY5UHZWN3p6N3NyQXlUZw?oc=5)
 
 ---
 
@@ -163,22 +195,6 @@ permalink: /news/lurasidone/
 2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0xvQTA1b01YeVM3djRKc0xMOC1hMjZma1VQV3ZqWTN3X0xJVWhoQUNoanpHX3Qzei1qRVV5TkxWU0dYX0RWcUYxSXA2aUVWaXlPVnUyUk5yTTVZT01xSm91MTducHNKUEFPZUcxaWx6R1E1c3ZxcVFSSk9oMjJuTURoLUtNN0JOUjdoeDY4U2dxamg4VEpFSXJR0gGfAUFVX3lxTE9sSHVFSWw0N2l1WlZCYWNUV1Zwc1NoOWthS3MtR0xTeWlHel92UmxDNjVfeVpUWUZ2UHZXZ3NkelJBTWh2MDQ5YXFwSjB5cGQ2NS1IQzhzZ3p6Vi03X0ZsZ0J1YkZaVy1maVUtc1VOUVlBelNfS0RPenBDNzFWTFBpTjU3Z0NoakpCczJHeHNqTGJJdXdZSEJ2dDFNNWhjbw?oc=5)
-
----
-
-### [Certain Nap Patterns in Older Adults Could Be a Warning Sign, Study Finds](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFTQ20wTWpzOEdmd0lPaVZqQnI5ZHFGZ2Nkd18xdXhlZW1RZ2oyTzBqbXlwTEZCeGNCUGpEc3lLTmdIcHRRTWFFWHB1VnZ1dFM3WWxzRG1wRnJkYkpIYzR4MHI0d05aUVpmTG1sR1QwbXFTS3BOcVdGUy0wa1N5NDAtdEg1ekh6aHNaRFRRTExZR2FGOEdKN2dKQ2txRzd2eXZJ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFTQ20wTWpzOEdmd0lPaVZqQnI5ZHFGZ2Nkd18xdXhlZW1RZ2oyTzBqbXlwTEZCeGNCUGpEc3lLTmdIcHRRTWFFWHB1VnZ1dFM3WWxzRG1wRnJkYkpIYzR4MHI0d05aUVpmTG1sR1QwbXFTS3BOcVdGUy0wa1N5NDAtdEg1ekh6aHNaRFRRTExZR2FGOEdKN2dKQ2txRzd2eXZJ?oc=5)
-
----
-
-### [Dermcidin bremst Grippe und Corona: Studie enthüllt schützende Wirkung von Schweiß](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
 
 ---
 
@@ -214,22 +230,6 @@ permalink: /news/lurasidone/
 
 ---
 
-### [Neuartiges Virus entdeckt: Coronavirus mit neuen Eigenschaften - Wissenschaftler warnen vor CcCoV-KY43](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON0tEUzVlSVJUUmtRakprLXFHUi1sbUtaV2hXaENUYl9OLTRObnRmV1V4dGl2RzFuUkEzTXFSd3dPSEdJX1JKdVpLREZPZ2prQzh0ZXlydDBVSUdtUzBPTzNFYWRPb28zMW5VODVEdXFzZkJlRDdGSWwxcGxXb3hnWFVwZ0h2dmxnWko5Rkg5S21WVWZxM08xN3ZNaExFTGlpUF96NkZUbzF6VXVQbW9GVndHSFd4NF9tdXhxc3lxXy1OLWg0djNmUVRaZkM3cExNbFJMMmh0bnZQaHBiQnpLSUxJZk5kZ0x5TTNZNlN5d2wtMi1rR1ZZ0gH8AUFVX3lxTE5VVEJ1blBCdHgzWG9GN01xTEhfR1ZSTXNjRTNacnpHU2MwSjB6cHZOYjFYN3VSSUl0ZEplSTNpNkhVLWNPWnpBeXMzOW1GSlVwdXMtX0RGWV9EcF82YVNtY3kzc3hzY2ZPVU1PS2lEQlFKSk9RaE1pVE0xelZVeVYwYnZrY1YyOUcxOXZVR0V5SW04SnpYZUt1aWZSUGsxQ2p3NjNHWFlpcDZmbEc0VXBhSnpZbzlMY0oxdVBjaVpCYkpwVVlYWVl2WkJ3S3hnSnZaRWV5eV8zY2o5bnRZNnZidE9DbzE2MFFZUGxiLTJIUDdMUXd1bnJGUXJVcg?oc=5)
-
-2026-04-27 <span class="news-indication-tag">AF</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON0tEUzVlSVJUUmtRakprLXFHUi1sbUtaV2hXaENUYl9OLTRObnRmV1V4dGl2RzFuUkEzTXFSd3dPSEdJX1JKdVpLREZPZ2prQzh0ZXlydDBVSUdtUzBPTzNFYWRPb28zMW5VODVEdXFzZkJlRDdGSWwxcGxXb3hnWFVwZ0h2dmxnWko5Rkg5S21WVWZxM08xN3ZNaExFTGlpUF96NkZUbzF6VXVQbW9GVndHSFd4NF9tdXhxc3lxXy1OLWg0djNmUVRaZkM3cExNbFJMMmh0bnZQaHBiQnpLSUxJZk5kZ0x5TTNZNlN5d2wtMi1rR1ZZ0gH8AUFVX3lxTE5VVEJ1blBCdHgzWG9GN01xTEhfR1ZSTXNjRTNacnpHU2MwSjB6cHZOYjFYN3VSSUl0ZEplSTNpNkhVLWNPWnpBeXMzOW1GSlVwdXMtX0RGWV9EcF82YVNtY3kzc3hzY2ZPVU1PS2lEQlFKSk9RaE1pVE0xelZVeVYwYnZrY1YyOUcxOXZVR0V5SW04SnpYZUt1aWZSUGsxQ2p3NjNHWFlpcDZmbEc0VXBhSnpZbzlMY0oxdVBjaVpCYkpwVVlYWVl2WkJ3S3hnSnZaRWV5eV8zY2o5bnRZNnZidE9DbzE2MFFZUGxiLTJIUDdMUXd1bnJGUXJVcg?oc=5)
-
----
-
-### [Cet aliment fatigue le cerveau et fait chuter les capacités intellectuelles en un temps record](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3NUdHBwdDM2dzAwWDdsa0h6N2ZVclB0OGZDSTJydlhKeU1XaFVuYkljS2NNUkd2akZDN0tua3h5WFJLYmh0bEtWSnZCaUpjS3RUemo2bmFjc19fVnRUTThyM05CY3RvQ09KVHlrdjIwZnlrTk9UYW9kaWFvZkpxaWpVZUFReXRxU3JsLWFZZTJDeU5fa3dmZ0t5eXlzNURxLWFBUnJXVlVSRDJMNDd4R1Q2bFB0QW16cnhIbjZvSjRPMXZYYXhPd2ZMZzdaZlhvYjRxZkJNQnV1cU1BeWcyd3lwaks?oc=5)
-
-2026-04-27 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[grazia.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3NUdHBwdDM2dzAwWDdsa0h6N2ZVclB0OGZDSTJydlhKeU1XaFVuYkljS2NNUkd2akZDN0tua3h5WFJLYmh0bEtWSnZCaUpjS3RUemo2bmFjc19fVnRUTThyM05CY3RvQ09KVHlrdjIwZnlrTk9UYW9kaWFvZkpxaWpVZUFReXRxU3JsLWFZZTJDeU5fa3dmZ0t5eXlzNURxLWFBUnJXVlVSRDJMNDd4R1Q2bFB0QW16cnhIbjZvSjRPMXZYYXhPd2ZMZzdaZlhvYjRxZkJNQnV1cU1BeWcyd3lwaks?oc=5)
-
----
-
 ### [Per il grafene è la volta buona di rivoluzionare il mondo? - Scienza in rete](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0d4LWVqNWRGLVRQRHd6RXVSSmxZWi1PYXlaNUpiZXVJWC1QeHh5dXNGZ0lRVHdLYUNnMmljRUw1RzJITVozVTBScjhadVBVWXpGTzZEODM3ajdKYUlFbjJidG9EVGdFZTR0amI4STAwWnV5SVF0YUFnSmh5clFVS2RRR0lVQ0REelpSaEUyeFZNd2dZZ2VZUTg5TVpYbUJNaWktLTNUb0d0Ylk?oc=5)
 
 2026-04-27 <span class="news-indication-tag">AF</span>
@@ -262,14 +262,6 @@ permalink: /news/lurasidone/
 
 ---
 
-### ["On ne peut pas baisser les bras" : Près de Toulouse, Radia et Toufik se battent pour financer un traitement à 85 000 € afin de guérir leur fille atteinte d'un cancer rare](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWU5Ua2JzcDdNTktqenBwRVY5SWc1b0lXWE5QdVhMWUFDR3oyVTJEa2pmeWVVSVhJeEdENWxKbmdOUFhRMWdPaTdldHNFVWJtUVhKOGFfVlFpd0h6anRVc1ZaRTc2bXJqelFkRUp4RWlUNHpIc3ZhSktabFRKRHVrR3EySU10SllmNHNka29id0FfZmVqdVdJSGZ1ZHd3bmlYN2RlNC05RzFPM0FVdVh1Uk1zSDlmOGNld3dMbjg2ZVg1MlliV2hKRVkyX3RFWlg5UkgxV1I3eURvWTZMbXZxUUlmeUR0a0lnVk1XSmw2LUFoOFhSalRnMXRUSG5uZktnUFR6QWsxMmNVUXZucjZpNFB6dk9YMkY2YXBV?oc=5)
-
-2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWU5Ua2JzcDdNTktqenBwRVY5SWc1b0lXWE5QdVhMWUFDR3oyVTJEa2pmeWVVSVhJeEdENWxKbmdOUFhRMWdPaTdldHNFVWJtUVhKOGFfVlFpd0h6anRVc1ZaRTc2bXJqelFkRUp4RWlUNHpIc3ZhSktabFRKRHVrR3EySU10SllmNHNka29id0FfZmVqdVdJSGZ1ZHd3bmlYN2RlNC05RzFPM0FVdVh1Uk1zSDlmOGNld3dMbjg2ZVg1MlliV2hKRVkyX3RFWlg5UkgxV1I3eURvWTZMbXZxUUlmeUR0a0lnVk1XSmw2LUFoOFhSalRnMXRUSG5uZktnUFR6QWsxMmNVUXZucjZpNFB6dk9YMkY2YXBV?oc=5)
-
----
-
 ### [Jupiter im Sternbild Zwillinge (Objekte beschriftet) - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTFJtUkJjVDRXVm5VYjdIb0ZVd2ZMM29GdFVfeVNIQ2E0eWNiY3U2V1Q1ekVyUGFfQjJYb0xkT2h1RHZHclJfNHhCWlQ5RDhwcTNMbjM0YWhXeTV4WVpVMnVfUGZMcHk5MHBRZkUwLXM1c3JFMGVCM0dPLWNKQllaNlFsVTVPUlF1RlJXclJVRnFCODktSzhsb2NjYVRHX19mNzJTT3pWS1FTREho?oc=5)
 
 2026-04-26 <span class="news-indication-tag">AF</span>
@@ -286,11 +278,11 @@ permalink: /news/lurasidone/
 
 ---
 
-### [Cáncer de páncreas: encuentran un fármaco que duplica la supervivencia de los pacientes en etapas avanzadas - Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVHlBWEk2SUpMOVdjMXBqa2U1WEpaUGp3dHFYQ2lMN1dqajdvTnNXOWUyZUs4Z2RXdTNjMHVhUnNRcE13YzJEU291QVdUWHBDQzlwWkpjcEtMRXlqWHB5cVhHb3hlQ1RkdzBDTDlrb1hqNmlhMFhGYnB5MTgxVUtVN2tYRlVDV3lxSl9PeVlFaHFGMmtxd01XUlItbzF4ejhlZGJzbGlMVUtuN1dES3JrLUFpUUwtYmlRMEgwSEFERW9Wdk9pVHNteUhTX0E3OUJLV01oZXFTSEdtSk1RTjZNOU9QSQ?oc=5)
+### [Malaria Has Been Controlling Where Humans Live for 74,000 Years - Indian Defence Review](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xNEMxN3QwSnZZaXFGa3VmNmRhWkNyVmxDb1pWUmp5TVRtblJEdkg2YTdzTU9fRkJrc0JEOXpUa0FSTDdnV0dIbV9iVnl6RG5JTlpoV3A0Y2R5MnNxMjltTmM3RVNFSzFmZUJ2YUQwZC0wVDUxQVBj?oc=5)
 
-2026-04-26 <span class="news-indication-tag">MS</span>
+2026-04-26 <span class="news-indication-tag">AF</span>
 
-來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVHlBWEk2SUpMOVdjMXBqa2U1WEpaUGp3dHFYQ2lMN1dqajdvTnNXOWUyZUs4Z2RXdTNjMHVhUnNRcE13YzJEU291QVdUWHBDQzlwWkpjcEtMRXlqWHB5cVhHb3hlQ1RkdzBDTDlrb1hqNmlhMFhGYnB5MTgxVUtVN2tYRlVDV3lxSl9PeVlFaHFGMmtxd01XUlItbzF4ejhlZGJzbGlMVUtuN1dES3JrLUFpUUwtYmlRMEgwSEFERW9Wdk9pVHNteUhTX0E3OUJLV01oZXFTSEdtSk1RTjZNOU9QSQ?oc=5)
+來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMid0FVX3lxTE8xNEMxN3QwSnZZaXFGa3VmNmRhWkNyVmxDb1pWUmp5TVRtblJEdkg2YTdzTU9fRkJrc0JEOXpUa0FSTDdnV0dIbV9iVnl6RG5JTlpoV3A0Y2R5MnNxMjltTmM3RVNFSzFmZUJ2YUQwZC0wVDUxQVBj?oc=5)
 
 ---
 

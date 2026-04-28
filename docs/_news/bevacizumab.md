@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Bevacizumab 有什麼相關新聞？">
-<strong>Bevacizumab</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bevacizumab</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/bevacizumab/
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（15 則）
+
+### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
+
+2026-04-28 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
+
+---
+
+### [En la fábrica de CAR-T: así se crean las terapias personalizadas que están revolucionando el tratamiento del cáncer - EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3U1NGtMTUlhNVplTERXSzJpZlBHR1REQU9hcXFvQ09aOG5wc010cnpiR0RpNTd1LU0zOGMtaFdQNWRMNGdvU2tQTXQ4UnBxZkhxQndidHZySlpXN3RMZWdkSmk3Y3JULVBiMFNWVktJMm9ocUszZk9GMWF6ZjM1YTNmY2xnZmgtd2xCaEtSZnp3aGd4YTBmek5FblhKWk5mYjRtSXYtcF9yckZmaW0tOXNxYVZGRURtSk9VU3ZwRWQyT3hMdjJ0MGlqQUdubERuckZrR29KM0d1cjdSZjZ6Sm9sc2ZKNFQ4dE9LSg?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3U1NGtMTUlhNVplTERXSzJpZlBHR1REQU9hcXFvQ09aOG5wc010cnpiR0RpNTd1LU0zOGMtaFdQNWRMNGdvU2tQTXQ4UnBxZkhxQndidHZySlpXN3RMZWdkSmk3Y3JULVBiMFNWVktJMm9ocUszZk9GMWF6ZjM1YTNmY2xnZmgtd2xCaEtSZnp3aGd4YTBmek5FblhKWk5mYjRtSXYtcF9yckZmaW0tOXNxYVZGRURtSk9VU3ZwRWQyT3hMdjJ0MGlqQUdubERuckZrR29KM0d1cjdSZjZ6Sm9sc2ZKNFQ4dE9LSg?oc=5)
+
+---
 
 ### [Metabolische Krise: Wie Herz, Nieren und Stoffwechsel Krebsrisiko steigern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+---
+
+### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
 
 ---
 
@@ -70,27 +94,11 @@ permalink: /news/bevacizumab/
 
 ---
 
-### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
-
-2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
-
----
-
 ### [ATS Brianza: screening al colon retto salva la vita](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
 
 2026-04-27 <span class="news-indication-tag">tumor</span>
 
 來源：[Merateonline](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
-
----
-
-### [Middlesbrough social club raises £29,000 to support cancer patients at James Cook hospital - Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNOb21hcVV1ZGY5dTlhY3ZiUS1BNWpWOUdIY0ZUNTUwRW05WnVYVFdndWtsdVJyWktYU3VHRURqUzVXVGh6eXcwRjdwMmY3RUxJd2tzMUN5TVM3RXZLa3lpb212NjZZSjZZSVo5RkVxRExHQ0VHbC0wNXl5czV4QkNfRmpWX3JIMDlxTUxtY2FMcVZZQnVKV2d2dFE?oc=5)
-
-2026-04-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Teesside Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNOb21hcVV1ZGY5dTlhY3ZiUS1BNWpWOUdIY0ZUNTUwRW05WnVYVFdndWtsdVJyWktYU3VHRURqUzVXVGh6eXcwRjdwMmY3RUxJd2tzMUN5TVM3RXZLa3lpb212NjZZSjZZSVo5RkVxRExHQ0VHbC0wNXl5czV4QkNfRmpWX3JIMDlxTUxtY2FMcVZZQnVKV2d2dFE?oc=5)
 
 ---
 
@@ -134,14 +142,6 @@ permalink: /news/bevacizumab/
 
 ---
 
-### ["On ne peut pas baisser les bras" : Près de Toulouse, Radia et Toufik se battent pour financer un traitement à 85 000 € afin de guérir leur fille atteinte d'un cancer rare](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWU5Ua2JzcDdNTktqenBwRVY5SWc1b0lXWE5QdVhMWUFDR3oyVTJEa2pmeWVVSVhJeEdENWxKbmdOUFhRMWdPaTdldHNFVWJtUVhKOGFfVlFpd0h6anRVc1ZaRTc2bXJqelFkRUp4RWlUNHpIc3ZhSktabFRKRHVrR3EySU10SllmNHNka29id0FfZmVqdVdJSGZ1ZHd3bmlYN2RlNC05RzFPM0FVdVh1Uk1zSDlmOGNld3dMbjg2ZVg1MlliV2hKRVkyX3RFWlg5UkgxV1I3eURvWTZMbXZxUUlmeUR0a0lnVk1XSmw2LUFoOFhSalRnMXRUSG5uZktnUFR6QWsxMmNVUXZucjZpNFB6dk9YMkY2YXBV?oc=5)
-
-2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxOWU5Ua2JzcDdNTktqenBwRVY5SWc1b0lXWE5QdVhMWUFDR3oyVTJEa2pmeWVVSVhJeEdENWxKbmdOUFhRMWdPaTdldHNFVWJtUVhKOGFfVlFpd0h6anRVc1ZaRTc2bXJqelFkRUp4RWlUNHpIc3ZhSktabFRKRHVrR3EySU10SllmNHNka29id0FfZmVqdVdJSGZ1ZHd3bmlYN2RlNC05RzFPM0FVdVh1Uk1zSDlmOGNld3dMbjg2ZVg1MlliV2hKRVkyX3RFWlg5UkgxV1I3eURvWTZMbXZxUUlmeUR0a0lnVk1XSmw2LUFoOFhSalRnMXRUSG5uZktnUFR6QWsxMmNVUXZucjZpNFB6dk9YMkY2YXBV?oc=5)
-
----
-
 ### [Le Puy : nouvelle imagerie de pointe contre les cancers et les maladies cardiaques](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWRzSUVyWEMwRlVFcy1WWW05NV9USGlFYmlkaFYwMjRwSUNHYVJHNGxmSUdaMGRtWFhTZXN6YzdlOXdfcmVoU3NmTlRmN2t1WmxoejZ5UFBUQjJOMW5yLV92SlFNdFRNT0pISVJHWHI5VURkb0dhRVFjVGhDS0staEk4OXo3bXNLY05RaFJmekxLUkJyMEpvMTdQdkQxV0syWlZwM1BTMEtEZXVPbk9uWUE5ejU?oc=5)
 
 2026-04-27 <span class="news-indication-tag">cancer</span>
@@ -171,22 +171,6 @@ permalink: /news/bevacizumab/
 2026-04-26 <span class="news-indication-tag">cancer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUtYOXBES25YZGo1WFZqUDBBZWpDd0lDajF3cTc4Um9pYTV3V2dadjlxMXBWSXlDaHJteFExSllYZkkzV1QxS2xkV3JDd3JBUGxCQ2M2dTBaN1pRaFBrbjN5OVlHa0NqSlFIZUxWdmZEWWYtd2hxNUpLYmJTTlpndVl3ZzJDZm8tWUxrdl9oWkw5dlNqSzVBVXpDcFRacmNja1RSeFY5dkpNZzQtQlBwVFY4b3hXYXhQMUwta2ZFYUJnb2gtZ0VncFVBaGt0UQ?oc=5)
-
----
-
-### [Santé: États-Unis: le cancer du rectum en forte hausse chez les jeunes](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUZwY2hBdGppM0VqMm55Q2xCcElvOXFGRmxZWG80UFZCdEt2di1nMHktbE1rSE9Ma2VXSEgwSFF3NXhCTU9IV2kxMEpjUTRUdkZhRDdCa1lZN25vT2oxeG53NGhXQVJ4ODNraWJSeUxSYmRuN1plcmNFb0wyV3I1OTZVYXN1cmlUTHU1QzUtSWVZQy0tWnI1NXh2VmJTSTVWV2RicDdQR1ZSSS1sdUppM2FoWQ?oc=5)
-
-2026-04-26 <span class="news-indication-tag">cancer</span>
-
-來源：[L'essentiel](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUZwY2hBdGppM0VqMm55Q2xCcElvOXFGRmxZWG80UFZCdEt2di1nMHktbE1rSE9Ma2VXSEgwSFF3NXhCTU9IV2kxMEpjUTRUdkZhRDdCa1lZN25vT2oxeG53NGhXQVJ4ODNraWJSeUxSYmRuN1plcmNFb0wyV3I1OTZVYXN1cmlUTHU1QzUtSWVZQy0tWnI1NXh2VmJTSTVWV2RicDdQR1ZSSS1sdUppM2FoWQ?oc=5)
-
----
-
-### [Il dermatologo Broganelli: “Vi spiego le fake news più pericolose su pelle, sole e tumori” - La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZHRWxJMWVBSlRWc2poRW52YnItLUF4dTA0QzZ6Um9SYXowX3RFODZ4azNrOEZPamVmVnVPZjFRUURtX0hSMnctQ09wWmhYTV9PR2J3d1VOa1hkV0EzdHNtdks2TmxCdGdqVEQ4d2UxVkhubGdYRUhWTDNTMnBiazRQQUVlN2lFYkh2dDJORTNMUk5reDItVVVaRnpuVHFESjVGNzUwSXY0YS1E0gGyAUFVX3lxTE11Yl9jb2lvZ2J6SDZzQ2llYmloWFEyNXRid1Rta3hKQmtLOFVBMV90a0ZzRkdJcUdHZE9tR2M3cUE1Q1NoTnQ3TnRoX05PQmp2RjdYeFM5enAyeWZKNXQyZXlpajhYSzVpdm1NbDlUNElUTFprd2tKLWUxalhCZ1JLTnlYeGVVeU5hcVlYT2xQNndsOVM3dWlzbWJDRDJqLXA3cXRtdmxhcjI1enVGUmU1NGc?oc=5)
-
-2026-04-26 <span class="news-indication-tag">tumor</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxNODZHRWxJMWVBSlRWc2poRW52YnItLUF4dTA0QzZ6Um9SYXowX3RFODZ4azNrOEZPamVmVnVPZjFRUURtX0hSMnctQ09wWmhYTV9PR2J3d1VOa1hkV0EzdHNtdks2TmxCdGdqVEQ4d2UxVkhubGdYRUhWTDNTMnBiazRQQUVlN2lFYkh2dDJORTNMUk5reDItVVVaRnpuVHFESjVGNzUwSXY0YS1E0gGyAUFVX3lxTE11Yl9jb2lvZ2J6SDZzQ2llYmloWFEyNXRid1Rta3hKQmtLOFVBMV90a0ZzRkdJcUdHZE9tR2M3cUE1Q1NoTnQ3TnRoX05PQmp2RjdYeFM5enAyeWZKNXQyZXlpajhYSzVpdm1NbDlUNElUTFprd2tKLWUxalhCZ1JLTnlYeGVVeU5hcVlYT2xQNndsOVM3dWlzbWJDRDJqLXA3cXRtdmxhcjI1enVGUmU1NGc?oc=5)
 
 ---
 

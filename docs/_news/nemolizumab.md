@@ -54,11 +54,11 @@ permalink: /news/nemolizumab/
 
 ## 相關新聞（5 則）
 
-### [Vitamin D: Ein potenzieller Helfer gegen Typ-2-Diabetes](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1FVM3BOY183SUNNMklxSmdMR2lnTy1lVnRBYjYyakV1d3JyVENaVDd0VzdDeW5VOUlnSndidThCUV9jb1VvSG5DRnZoWEg0WTZHTm1zUWxBcVp6d0c4MWEyNFZMbjJfS0Q5Znc2eWZYMTVFYjZqOGotZXhpVlR2c1JDZ3k3TVlESlFxMHNNNA?oc=5)
+### [Adiós al pinchazo diario: la monitorización continua de glucosa cambia la vida de los pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
 
-2026-04-27 <span class="news-indication-tag">diabetes</span>
+2026-04-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1FVM3BOY183SUNNMklxSmdMR2lnTy1lVnRBYjYyakV1d3JyVENaVDd0VzdDeW5VOUlnSndidThCUV9jb1VvSG5DRnZoWEg0WTZHTm1zUWxBcVp6d0c4MWEyNFZMbjJfS0Q5Znc2eWZYMTVFYjZqOGotZXhpVlR2c1JDZ3k3TVlESlFxMHNNNA?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
 
 ---
 
@@ -78,19 +78,19 @@ permalink: /news/nemolizumab/
 
 ---
 
-### [SGLT-2-Hemmer: Neue Ära in der Diabetes-Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+### [Diabetes-Prävention: Gen-Tests zeigen, wer von Vitamin D profitiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
 
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
 
 ---
 
-### [El trabajo a turnos incrementa el riesgo para la salud: del insomnio a la diabetes o el cáncer](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblFpTWUzSkxlTDI5MHM2VC1zV2pnaUZBVTMyRW9JaHZEcjJYYU9jZHFodlRkSTJDZHQ4U0R3Nmt5RXRsX2ppS0p2QV9CclZYYjVMcnFwME5rdHRQV0RVU2dJYmtDRmxZZFNoWnVwREhOT0xjNDRySFBHcUI1NUZEeF92X253bnhvUTlPWGJmSTBLV3gtTHZ3SmhNdTJGRTlmWjdDaUxfZkhSNXg4cy1hRDlUa21RSDBELUQxRlVUTjVISDNnOV9Td0gxelpnRVdwcHN6TlM2WnJNR1NCS2ZWaWRzWWhhNDg3eEhzYWRVVDlOMjIxZ1ZkdWFYY2I?oc=5)
+### [SGLT-2-Hemmer: Neue Perspektiven in der Diabetes-Therapie](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
 
-2026-04-26 <span class="news-indication-tag">diabetes</span>
+2026-04-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblFpTWUzSkxlTDI5MHM2VC1zV2pnaUZBVTMyRW9JaHZEcjJYYU9jZHFodlRkSTJDZHQ4U0R3Nmt5RXRsX2ppS0p2QV9CclZYYjVMcnFwME5rdHRQV0RVU2dJYmtDRmxZZFNoWnVwREhOT0xjNDRySFBHcUI1NUZEeF92X253bnhvUTlPWGJmSTBLV3gtTHZ3SmhNdTJGRTlmWjdDaUxfZkhSNXg4cy1hRDlUa21RSDBELUQxRlVUTjVISDNnOV9Td0gxelpnRVdwcHN6TlM2WnJNR1NCS2ZWaWRzWWhhNDg3eEhzYWRVVDlOMjIxZ1ZkdWFYY2I?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
 
 ---
 

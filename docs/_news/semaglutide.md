@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Adiós al pinchazo diario: la monitorización continua de glucosa cambia la vida de los pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
+
+2026-04-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
+
+---
 
 ### [Molécula natural podría ofrecer una alternativa a Ozempic](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
 
 2026-04-27 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[DW.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
-
----
-
-### [Vitamin D: Ein potenzieller Helfer gegen Typ-2-Diabetes](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1FVM3BOY183SUNNMklxSmdMR2lnTy1lVnRBYjYyakV1d3JyVENaVDd0VzdDeW5VOUlnSndidThCUV9jb1VvSG5DRnZoWEg0WTZHTm1zUWxBcVp6d0c4MWEyNFZMbjJfS0Q5Znc2eWZYMTVFYjZqOGotZXhpVlR2c1JDZ3k3TVlESlFxMHNNNA?oc=5)
-
-2026-04-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1FVM3BOY183SUNNMklxSmdMR2lnTy1lVnRBYjYyakV1d3JyVENaVDd0VzdDeW5VOUlnSndidThCUV9jb1VvSG5DRnZoWEg0WTZHTm1zUWxBcVp6d0c4MWEyNFZMbjJfS0Q5Znc2eWZYMTVFYjZqOGotZXhpVlR2c1JDZ3k3TVlESlFxMHNNNA?oc=5)
 
 ---
 
@@ -86,11 +86,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [SGLT-2-Hemmer: Neue Ära in der Diabetes-Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+### [Diabetes-Prävention: Gen-Tests zeigen, wer von Vitamin D profitiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
 
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21CRDhuMldIMWhtbl9rUjFhWEstRzVyZUFhR3RzcDhTT21qdEpFWjR2bE5abTJ0c2NxMlFqczRjcURPejZINXY1UWRGNWl3VXZTMC1GdUJyNWVybnJNSWVINEFwSzFQR1V6UnV1WGxHdEpueVRHZWd2MkNXR05Pc2U3SkZvLXZoSjNiSEJpbFNlbDVYTGxfYTRHSkNEWjFSV2k0RG1OT184dEE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
+
+---
+
+### [SGLT-2-Hemmer: Neue Perspektiven in der Diabetes-Therapie](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
+
+2026-04-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
 
 ---
 
@@ -99,22 +107,6 @@ permalink: /news/semaglutide/
 2026-04-26 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWVMNFpmYTNSam10RlEtZ1Z5OThLNDIzS1BfeThFdUtUT3hlSlIzalJ5ZnRWWFM3a1Q5VUM2bTVmUF84NDAyTEhHOHhTOVNKMXJqZ0EwblNqVUl4MUx2SWR4MEI2UGU0dGRraFkzVXZZbHRIbEdBMk9pd0tXVUNJc1llQ3kwOVg4ODJnb0RWMEpsLXRvdkFn?oc=5)
-
----
-
-### [El trabajo a turnos incrementa el riesgo para la salud: del insomnio a la diabetes o el cáncer](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblFpTWUzSkxlTDI5MHM2VC1zV2pnaUZBVTMyRW9JaHZEcjJYYU9jZHFodlRkSTJDZHQ4U0R3Nmt5RXRsX2ppS0p2QV9CclZYYjVMcnFwME5rdHRQV0RVU2dJYmtDRmxZZFNoWnVwREhOT0xjNDRySFBHcUI1NUZEeF92X253bnhvUTlPWGJmSTBLV3gtTHZ3SmhNdTJGRTlmWjdDaUxfZkhSNXg4cy1hRDlUa21RSDBELUQxRlVUTjVISDNnOV9Td0gxelpnRVdwcHN6TlM2WnJNR1NCS2ZWaWRzWWhhNDg3eEhzYWRVVDlOMjIxZ1ZkdWFYY2I?oc=5)
-
-2026-04-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblFpTWUzSkxlTDI5MHM2VC1zV2pnaUZBVTMyRW9JaHZEcjJYYU9jZHFodlRkSTJDZHQ4U0R3Nmt5RXRsX2ppS0p2QV9CclZYYjVMcnFwME5rdHRQV0RVU2dJYmtDRmxZZFNoWnVwREhOT0xjNDRySFBHcUI1NUZEeF92X253bnhvUTlPWGJmSTBLV3gtTHZ3SmhNdTJGRTlmWjdDaUxfZkhSNXg4cy1hRDlUa21RSDBELUQxRlVUTjVISDNnOV9Td0gxelpnRVdwcHN6TlM2WnJNR1NCS2ZWaWRzWWhhNDg3eEhzYWRVVDlOMjIxZ1ZkdWFYY2I?oc=5)
-
----
-
-### [Daniel Drucker, uno de los padres de Ozempic: «Todavía no entendemos todos los beneficios que suponen los nuevos medicamentos contra la obesidad»](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
-
-2026-04-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
 
 ---
 

@@ -62,19 +62,19 @@ permalink: /news/naltrexone/
 
 ---
 
+### [Common vitamin may help repair liver damage from a disease spreading worldwide](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWc1MDZIVUwxV00xT25MRjJYN09tNjQxZzFva2tZSEtVOVRwUFRaaFdZYTBTdkRfdktzOXNteE1YMEU5c2szdmRWNmJfVXhHak9rbE1meWZXM0NIYzF6MTdxOEFqYkFUZlpPWWVyNVlZbXg1MUdjbVY4b05KV3JJRXBlcVJJLVUyOFFDNnB3dk5XNk1jUmlj?oc=5)
+
+2026-04-27 <span class="news-indication-tag">obesity</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWc1MDZIVUwxV00xT25MRjJYN09tNjQxZzFva2tZSEtVOVRwUFRaaFdZYTBTdkRfdktzOXNteE1YMEU5c2szdmRWNmJfVXhHak9rbE1meWZXM0NIYzF6MTdxOEFqYkFUZlpPWWVyNVlZbXg1MUdjbVY4b05KV3JJRXBlcVJJLVUyOFFDNnB3dk5XNk1jUmlj?oc=5)
+
+---
+
 ### [Más allá de la báscula: hacia una nueva forma de entender la obesidad en la consulta médica - El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
 
 2026-04-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
-
----
-
-### [Daniel Drucker, uno de los padres de Ozempic: «Todavía no entendemos todos los beneficios que suponen los nuevos medicamentos contra la obesidad»](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
-
-2026-04-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[lavozdegalicia.es](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMnAzeTZOUTZmMlBreHA0YkpaTDJpLXRiMkxLYmlmZkFFTXVjNXFIODJTbEhzWnJJZmpHM1dyX0ZsV0xJbXBMQXFlSTEwSFNpRTM0UFJFZHRMV0JUNnRQdGRHWjZGcG1MOHVUMmJsSllLNTU1WElHQnF2SEdIRlZZbFF0Q192S3gxb25tN3RZNkxLLUxnbmFCRlNXTlMzNncxaGIyTGZzcEtTZHhkUUlTZENzNzJrWVRad1o2YzdHMThQWGlveXk5Q1lyTWd2RFpBRHlrR3kzQkYxV2JOUUU4eDBhLUJDdVFneUgzb3dKX19qYjBCOXFncFpRZ2lNOWhXaUJ3X21pLTc?oc=5)
 
 ---
 

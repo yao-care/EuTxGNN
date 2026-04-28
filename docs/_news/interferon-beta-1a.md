@@ -54,11 +54,19 @@ permalink: /news/interferon-beta-1a/
 
 ## 相關新聞（10 則）
 
-### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+### [Cómo la esclerosis múltiple provoca la muerte neuronal - GAEM (Grupo de Afectados de Esclerosis Múltiple)](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
 
-2026-04-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-04-28 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
 
-來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+來源：[fundaciongaem.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
+
+---
+
+### [“La metástasis aún es una patología olvidada en el discurso social del cáncer”](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTlncUJ0WmpoenBYRnRyU0ZGR0NaWnVVY2ZNUkphZ0trNk90OTVsUkQxWWpjQ19sVFZhNjd1SjBHU0U5WkJMczdNMUhLUU1kTnhZT2lwRDFkYWt5ZS15azhqd2hBcjRUdTVfM1FWZ1VLWkstdkxKMUwwZDVaTXI0a2xROA?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[Innovaspain](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTlncUJ0WmpoenBYRnRyU0ZGR0NaWnVVY2ZNUkphZ0trNk90OTVsUkQxWWpjQ19sVFZhNjd1SjBHU0U5WkJMczdNMUhLUU1kTnhZT2lwRDFkYWt5ZS15azhqd2hBcjRUdTVfM1FWZ1VLWkstdkxKMUwwZDVaTXI0a2xROA?oc=5)
 
 ---
 
@@ -78,6 +86,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Influenza. Oms: in 15 anni la distribuzione di vaccini è raddoppiata in Europa. Ma solo in 4 Paesi è stato raggiunto il target per gli anziani - Quotidiano Sanità](https://news.google.com/rss/articles/CBMikgJBVV95cUxPamhPb2ZKNFNOZ0NacFVXQkxRN3BvNDkzTTVLZmdRN2hlbFlGY2xaOWxNdXRXYWtRSjJfN0xmRnpacXJEYkNmUS0tSTdfZE1KTG9JaXJ2MVhScUlja0p1bXdGMnJxVGw5akdzUXpPNjQyMmd0RHczWVprOUNVaTNLNTZzVDVJRDExaG1sUkV6bTFPMTEzcVlheFY0c0VhV0YtMzh0VXhMb0d2UTRxVWRBN25URFAwZmxBU0o0bnV3dC1rV3hFU0Z1aHRVSzZBOTgtcEJ4Sm9LcnVxS2l4X1A2S2FHQzhwcEpCMUZId1V6cVl2VG1fWXoyX29XeV9LNE04M1FhclprZU1ZY2hrNEs3Uy1B?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMikgJBVV95cUxPamhPb2ZKNFNOZ0NacFVXQkxRN3BvNDkzTTVLZmdRN2hlbFlGY2xaOWxNdXRXYWtRSjJfN0xmRnpacXJEYkNmUS0tSTdfZE1KTG9JaXJ2MVhScUlja0p1bXdGMnJxVGw5akdzUXpPNjQyMmd0RHczWVprOUNVaTNLNTZzVDVJRDExaG1sUkV6bTFPMTEzcVlheFY0c0VhV0YtMzh0VXhMb0d2UTRxVWRBN25URFAwZmxBU0o0bnV3dC1rV3hFU0Z1aHRVSzZBOTgtcEJ4Sm9LcnVxS2l4X1A2S2FHQzhwcEpCMUZId1V6cVl2VG1fWXoyX29XeV9LNE04M1FhclprZU1ZY2hrNEs3Uy1B?oc=5)
+
+---
+
 ### [NeuroSummit 2026 reúne a neurólogos sobre esclerosis múltiple | Roche España - Roche España](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFZ0amczd0E0Z3lXRUF4M0xpTUdsU3VkWGs0M1FkdlNnQ0p5ZXNEUFlGQjJwVjBBT1E3bmdkUXhuWFlKc0hfSGh5ekJ4b3FRUlV6VjBXRWRzYVQ2TEgzQ0dha3U0X21LN2FINnJmRmlfenBJYklfbWlWd3dJTHNoQllDZjBEbUVWY1E4?oc=5)
 
 2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -86,27 +102,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Bastano pochi minuti di sport al giorno per migliorare la memoria: ecco quanti - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjVhQk9vTXpnUXV2blNMUldfdVlRODBOTFQ4eTlvMUg5WmNqeXNWZlpqUm1XMnhhNWZOZDZwcFE3UzdjYWdlbGhMSEZ2aWYxZExGTGx5MklZUGctY2pxN3NwRWpyZXRoX2hKNmtqOTFheGYxSGJ3Y2VublpCVHF3MmttRmRBRWR2UmJpRUI4M0pfcGNSSU5MVTk4M2l3WnQ4UHhCdVJmNVRKNHA4eWxGNjRxNjlLOUg1Ylg5TGJJOWszb1FfOVFISE5EWHBHYlNsQ1UwTWZRZUlrSFAyb1J1V2x6MNIBwgFBVV95cUxOU0N6YzlrRkdPcDh3WWRFX3V1bXRUN2hxWnhsYjVpUUNCLV9oWkR2TnhrS1hKck15V0lvTFRWZHlqRVlzVDJQTWFsSHY4R0pEZHdLRUdRcHlUQTNyeUk2TW00SThsd3pONUNkR2g5cHFHa0wwVG5uN2FIV3BSb1NFTVZpemVDNTF5OVRQOEFYblFMdU9scm5BZGVRVHBtX3dSek5vSDBaOXBvRFFSZTFuT0FweDY5UHZWN3p6N3NyQXlUZw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVjVhQk9vTXpnUXV2blNMUldfdVlRODBOTFQ4eTlvMUg5WmNqeXNWZlpqUm1XMnhhNWZOZDZwcFE3UzdjYWdlbGhMSEZ2aWYxZExGTGx5MklZUGctY2pxN3NwRWpyZXRoX2hKNmtqOTFheGYxSGJ3Y2VublpCVHF3MmttRmRBRWR2UmJpRUI4M0pfcGNSSU5MVTk4M2l3WnQ4UHhCdVJmNVRKNHA4eWxGNjRxNjlLOUg1Ylg5TGJJOWszb1FfOVFISE5EWHBHYlNsQ1UwTWZRZUlrSFAyb1J1V2x6MNIBwgFBVV95cUxOU0N6YzlrRkdPcDh3WWRFX3V1bXRUN2hxWnhsYjVpUUNCLV9oWkR2TnhrS1hKck15V0lvTFRWZHlqRVlzVDJQTWFsSHY4R0pEZHdLRUdRcHlUQTNyeUk2TW00SThsd3pONUNkR2g5cHFHa0wwVG5uN2FIV3BSb1NFTVZpemVDNTF5OVRQOEFYblFMdU9scm5BZGVRVHBtX3dSek5vSDBaOXBvRFFSZTFuT0FweDY5UHZWN3p6N3NyQXlUZw?oc=5)
+
+---
+
 ### [La EMA avala 'Cenrifki', fármaco oral que frena la progresión de la esclerosis múltiple progresiva secundaria - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0xvQTA1b01YeVM3djRKc0xMOC1hMjZma1VQV3ZqWTN3X0xJVWhoQUNoanpHX3Qzei1qRVV5TkxWU0dYX0RWcUYxSXA2aUVWaXlPVnUyUk5yTTVZT01xSm91MTducHNKUEFPZUcxaWx6R1E1c3ZxcVFSSk9oMjJuTURoLUtNN0JOUjdoeDY4U2dxamg4VEpFSXJR0gGfAUFVX3lxTE9sSHVFSWw0N2l1WlZCYWNUV1Zwc1NoOWthS3MtR0xTeWlHel92UmxDNjVfeVpUWUZ2UHZXZ3NkelJBTWh2MDQ5YXFwSjB5cGQ2NS1IQzhzZ3p6Vi03X0ZsZ0J1YkZaVy1maVUtc1VOUVlBelNfS0RPenBDNzFWTFBpTjU3Z0NoakpCczJHeHNqTGJJdXdZSEJ2dDFNNWhjbw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0xvQTA1b01YeVM3djRKc0xMOC1hMjZma1VQV3ZqWTN3X0xJVWhoQUNoanpHX3Qzei1qRVV5TkxWU0dYX0RWcUYxSXA2aUVWaXlPVnUyUk5yTTVZT01xSm91MTducHNKUEFPZUcxaWx6R1E1c3ZxcVFSSk9oMjJuTURoLUtNN0JOUjdoeDY4U2dxamg4VEpFSXJR0gGfAUFVX3lxTE9sSHVFSWw0N2l1WlZCYWNUV1Zwc1NoOWthS3MtR0xTeWlHel92UmxDNjVfeVpUWUZ2UHZXZ3NkelJBTWh2MDQ5YXFwSjB5cGQ2NS1IQzhzZ3p6Vi03X0ZsZ0J1YkZaVy1maVUtc1VOUVlBelNfS0RPenBDNzFWTFBpTjU3Z0NoakpCczJHeHNqTGJJdXdZSEJ2dDFNNWhjbw?oc=5)
-
----
-
-### [Certain Nap Patterns in Older Adults Could Be a Warning Sign, Study Finds](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFTQ20wTWpzOEdmd0lPaVZqQnI5ZHFGZ2Nkd18xdXhlZW1RZ2oyTzBqbXlwTEZCeGNCUGpEc3lLTmdIcHRRTWFFWHB1VnZ1dFM3WWxzRG1wRnJkYkpIYzR4MHI0d05aUVpmTG1sR1QwbXFTS3BOcVdGUy0wa1N5NDAtdEg1ekh6aHNaRFRRTExZR2FGOEdKN2dKQ2txRzd2eXZJ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFTQ20wTWpzOEdmd0lPaVZqQnI5ZHFGZ2Nkd18xdXhlZW1RZ2oyTzBqbXlwTEZCeGNCUGpEc3lLTmdIcHRRTWFFWHB1VnZ1dFM3WWxzRG1wRnJkYkpIYzR4MHI0d05aUVpmTG1sR1QwbXFTS3BOcVdGUy0wa1N5NDAtdEg1ekh6aHNaRFRRTExZR2FGOEdKN2dKQ2txRzd2eXZJ?oc=5)
-
----
-
-### [Dermcidin bremst Grippe und Corona: Studie enthüllt schützende Wirkung von Schweiß](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
 
 ---
 
@@ -123,14 +131,6 @@ permalink: /news/interferon-beta-1a/
 2026-04-27 <span class="news-indication-tag">MS</span>
 
 來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
-
----
-
-### [Cáncer de páncreas: encuentran un fármaco que duplica la supervivencia de los pacientes en etapas avanzadas - Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVHlBWEk2SUpMOVdjMXBqa2U1WEpaUGp3dHFYQ2lMN1dqajdvTnNXOWUyZUs4Z2RXdTNjMHVhUnNRcE13YzJEU291QVdUWHBDQzlwWkpjcEtMRXlqWHB5cVhHb3hlQ1RkdzBDTDlrb1hqNmlhMFhGYnB5MTgxVUtVN2tYRlVDV3lxSl9PeVlFaHFGMmtxd01XUlItbzF4ejhlZGJzbGlMVUtuN1dES3JrLUFpUUwtYmlRMEgwSEFERW9Wdk9pVHNteUhTX0E3OUJLV01oZXFTSEdtSk1RTjZNOU9QSQ?oc=5)
-
-2026-04-26 <span class="news-indication-tag">MS</span>
-
-來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVHlBWEk2SUpMOVdjMXBqa2U1WEpaUGp3dHFYQ2lMN1dqajdvTnNXOWUyZUs4Z2RXdTNjMHVhUnNRcE13YzJEU291QVdUWHBDQzlwWkpjcEtMRXlqWHB5cVhHb3hlQ1RkdzBDTDlrb1hqNmlhMFhGYnB5MTgxVUtVN2tYRlVDV3lxSl9PeVlFaHFGMmtxd01XUlItbzF4ejhlZGJzbGlMVUtuN1dES3JrLUFpUUwtYmlRMEgwSEFERW9Wdk9pVHNteUhTX0E3OUJLV01oZXFTSEdtSk1RTjZNOU9QSQ?oc=5)
 
 ---
 
