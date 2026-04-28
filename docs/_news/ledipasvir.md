@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,53 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（19 則）
 
-### [Arranca la campaña ‘Comprometidos con cada generación’ para concienciar sobre la vacunación](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXVmMkZoWEhYVlZoRkdXV2JPTzk4dnBEQjdwOEJ3aU5qeDlWTFFQbGU3Qm9kUEJBcXVQRW50R1VxMm9RYzBZdTc1NFVudkpEazVyTUZsTFZaUVhTZEhKb283RGJOQnlWd1BBS1QxbkNxU3ZFU2VPNURiRm9Ca2dNSHM1XzVzcDl0Y2ZaMmg0Y1kxakFoTFd5dTdsZDlmT0V4bC1sbzlPSUtvYmRpM3BvMkJmUEZwajVvTHc0M3JTa0EtQVU?oc=5)
-
-2026-04-28 <span class="news-indication-tag">MS</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXVmMkZoWEhYVlZoRkdXV2JPTzk4dnBEQjdwOEJ3aU5qeDlWTFFQbGU3Qm9kUEJBcXVQRW50R1VxMm9RYzBZdTc1NFVudkpEazVyTUZsTFZaUVhTZEhKb283RGJOQnlWd1BBS1QxbkNxU3ZFU2VPNURiRm9Ca2dNSHM1XzVzcDl0Y2ZaMmg0Y1kxakFoTFd5dTdsZDlmT0V4bC1sbzlPSUtvYmRpM3BvMkJmUEZwajVvTHc0M3JTa0EtQVU?oc=5)
-
----
-
-### [Caen un 32% las nuevas infecciones de hepatitis B y un 12% las muertes por hepatitis C desde 2015 en el mundo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW5BaUp1R0R4OWpyMTdZTGMtU1VkUVkzeHM0STZHVW5fblA4ekd6dVdXSXJ6dGMwM3ZkMzhSV1drNnd2d3R1eUN5ZE0wSjdGVGJteUpQMnBCcUNUWjh6a25JSV9qeEc2T29xZkFycHFKMVV1TDQzVm9mMXE0dV9hZUN5ZENMeno2WnpBU096THhuV0p0YVUycVBZcGZ3dXhMbHhBY29xWHZBcC1JU1lTWWt2ZS1fRkZkQmlsQXhaUE1zNU1Lc3RtZTlwWU1JN2FpdzR4RQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW5BaUp1R0R4OWpyMTdZTGMtU1VkUVkzeHM0STZHVW5fblA4ekd6dVdXSXJ6dGMwM3ZkMzhSV1drNnd2d3R1eUN5ZE0wSjdGVGJteUpQMnBCcUNUWjh6a25JSV9qeEc2T29xZkFycHFKMVV1TDQzVm9mMXE0dV9hZUN5ZENMeno2WnpBU096THhuV0p0YVUycVBZcGZ3dXhMbHhBY29xWHZBcC1JU1lTWWt2ZS1fRkZkQmlsQXhaUE1zNU1Lc3RtZTlwWU1JN2FpdzR4RQ?oc=5)
-
----
-
-### [Los esfuerzos para eliminar la hepatitis están dando resultados positivos, aunque insuficientes](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnVBVC1LbXhVZDRBcm5mc0Rjem9XR3dPcGw3c3RHWnhoc0hPZjhSSklXU3VXT2Vta1h6SUdOLTN3R0J4ZFJpYWd3d1Iyb05lVkFRbzhnUTBDQXE5clloSFNiU2Jla2V2RHlUbE1MY3hqVFpXbWdDZDRCU0FVT25pZlhhOHdTTXF2REdjOFIyQ1k2VmVyREx4NzZncjdOdkxVN19yblluMHVnY1Zfc2dKb0tPcDhCMFJTN0tGc0pnQzFxcGphaWRZdW5FR0xCMGxYSWdSckNiZU5KcE1hTmc?oc=5)
-
-2026-04-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnVBVC1LbXhVZDRBcm5mc0Rjem9XR3dPcGw3c3RHWnhoc0hPZjhSSklXU3VXT2Vta1h6SUdOLTN3R0J4ZFJpYWd3d1Iyb05lVkFRbzhnUTBDQXE5clloSFNiU2Jla2V2RHlUbE1MY3hqVFpXbWdDZDRCU0FVT25pZlhhOHdTTXF2REdjOFIyQ1k2VmVyREx4NzZncjdOdkxVN19yblluMHVnY1Zfc2dKb0tPcDhCMFJTN0tGc0pnQzFxcGphaWRZdW5FR0xCMGxYSWdSckNiZU5KcE1hTmc?oc=5)
-
----
-
-### [Samsung celebra el primer aniversario de The Mind Guardian con la prevención como pilar en el cuidado de la salud cerebral](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRjhyaW1pRkQ3RnJ2RF9RVENLNDVMdkdCXzFOaXdzNEhjdUxIS2NRM0RCQU5LRXRYZURHc280RVltMDRSaGVHb05LVDR6dTcwYXh1MENFYkZCWk8ya3JwUjBNYXlPSEZKdUR4alZkODBuaWpURWtQTVV5cVRvZTlUSU02eFI4NzVrN0xJT01hdWN3ZW9pVUhGcjJ3UEYyUlk2NlJrQUlQd0o0c21BSEI2allEVDlidFZiVURmNlhvNURYUHJBMTFONzVMZVdsMFl6c1g4Q1h6SEJNR3V0STlVZ29kYmU?oc=5)
+### [Empresas.- MSD presenta 'Comprometidos con cada generación' para concienciar sobre la importancia de la inmunización](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
 
 2026-04-28 <span class="news-indication-tag">MS</span>
 
-來源：[samsung.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRjhyaW1pRkQ3RnJ2RF9RVENLNDVMdkdCXzFOaXdzNEhjdUxIS2NRM0RCQU5LRXRYZURHc280RVltMDRSaGVHb05LVDR6dTcwYXh1MENFYkZCWk8ya3JwUjBNYXlPSEZKdUR4alZkODBuaWpURWtQTVV5cVRvZTlUSU02eFI4NzVrN0xJT01hdWN3ZW9pVUhGcjJ3UEYyUlk2NlJrQUlQd0o0c21BSEI2allEVDlidFZiVURmNlhvNURYUHJBMTFONzVMZVdsMFl6c1g4Q1h6SEJNR3V0STlVZ29kYmU?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
+
+---
+
+### [Samsung celebra el primer aniversario de The Mind Guardian con el foco en el cuidado de la salud cerebral - Marketing Directo](https://news.google.com/rss/articles/CBMihwJBVV95cUxQdmU3MlBpSzFwdlIxcWtsQ3ZRT0ZDR2dRRVpKdS1tTTI4VU5oRlQ5V0dyYXJZa2VkNkotQ0Y5cHdoUzRMbGVsbnhzc3E5RTROTENoSjUtU0MtMVBKQ01UdWh1UE9CZHd5cm4wTkNlYzg2VG1JVURlWmZQSDBPYXZWMHF3NEZ0LXlhbGloTHg4SnFtSzVqRnhOT2tzcEJQRUhoSV84ZDZiQW1XaXN5OXlGYTNmT1ZBcC1ULTdaazgyXzhCRjQ0dXljNkRJQUZBNUZTTzRzQkw1aUFudS0xTUFqaW0yak1zZVpHZkFpVEJpOWNHZjFuLWxIZzEyTExUNXlKQy1WVE1rd9IBjAJBVV95cUxNXzIwS25CYlJQbk1MaFlEOHNhYldEdDl3cjVVeUs2djU4VmRYSmgwUFZJNXF3UVA1N2FocDJZaGhvaExzLU9HWktDLW9OUHh6NFEtNXdiNFl3b2JpSWlEYldXOWE2Ym1KLTBFTTA0Rl9RUVNFSWlDQWU1cmVUeVczUHBtemdRU3NnVVFNMVAxLVh2OUMzTlRUT3BNLTFRTlU0UGlIeFJSRXlDYVg5ckZYQmt1dTVmVzFaSjViRkoyYW0xY2JrTDhKRVBqNkVVMmI0NFd3YkJaMVFnQmYwbXo4M2JOUkdSRWcxTElFZXNWMlFvT3otcllySTd4N3NEQUx6dWFRS01JUVA1STI5?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[Marketing Directo](https://news.google.com/rss/articles/CBMihwJBVV95cUxQdmU3MlBpSzFwdlIxcWtsQ3ZRT0ZDR2dRRVpKdS1tTTI4VU5oRlQ5V0dyYXJZa2VkNkotQ0Y5cHdoUzRMbGVsbnhzc3E5RTROTENoSjUtU0MtMVBKQ01UdWh1UE9CZHd5cm4wTkNlYzg2VG1JVURlWmZQSDBPYXZWMHF3NEZ0LXlhbGloTHg4SnFtSzVqRnhOT2tzcEJQRUhoSV84ZDZiQW1XaXN5OXlGYTNmT1ZBcC1ULTdaazgyXzhCRjQ0dXljNkRJQUZBNUZTTzRzQkw1aUFudS0xTUFqaW0yak1zZVpHZkFpVEJpOWNHZjFuLWxIZzEyTExUNXlKQy1WVE1rd9IBjAJBVV95cUxNXzIwS25CYlJQbk1MaFlEOHNhYldEdDl3cjVVeUs2djU4VmRYSmgwUFZJNXF3UVA1N2FocDJZaGhvaExzLU9HWktDLW9OUHh6NFEtNXdiNFl3b2JpSWlEYldXOWE2Ym1KLTBFTTA0Rl9RUVNFSWlDQWU1cmVUeVczUHBtemdRU3NnVVFNMVAxLVh2OUMzTlRUT3BNLTFRTlU0UGlIeFJSRXlDYVg5ckZYQmt1dTVmVzFaSjViRkoyYW0xY2JrTDhKRVBqNkVVMmI0NFd3YkJaMVFnQmYwbXo4M2JOUkdSRWcxTElFZXNWMlFvT3otcllySTd4N3NEQUx6dWFRS01JUVA1STI5?oc=5)
+
+---
+
+### [GP struck off over garlic oil 'cancer cure' claims](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
+
+---
+
+### [WHO Reports Significant Drop In Hepatitis B Infections](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
+
+---
+
+### [„Wundermittel“: Spermidin als Anti-Aging-Mittel umstritten](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4T1hXc1pxcFJoNlZyUEw1MG5BTDZLcEVTYXc0b0M2M2VmN3NLb0dCSFJ5c0ZuZlZLYjFrNnAzZDhDNUtpbzhtU0licFpZbE1S?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[science.ORF.at](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4T1hXc1pxcFJoNlZyUEw1MG5BTDZLcEVTYXc0b0M2M2VmN3NLb0dCSFJ5c0ZuZlZLYjFrNnAzZDhDNUtpbzhtU0licFpZbE1S?oc=5)
+
+---
+
+### [Batterio invade il mondo: la maxi simulazione Oms rivela cosa potrebbe accadare](https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1NYTFBWbHc0bEJvY3lobWgzWkU4RmdBZHRSQk9CRGpEUzlZcm1KQmIyZGZYa2hhRnBKbUdqSktxdnFuUlNMQTZjNE4wcEp2cEhqWFN1dE5udEZiNllMX29oS29yNTVCcDlSYnhoUnlSdlp5WDd2OTN0Zmo4cERYdjJfeDljYzAwMUdaMDR1aHptZURrYVM5anU0OXAxT1BQaGRpWnNxRnhoNXAycmhTdlJoN016QlRtQ0hpZHdobUpaTTFGZ1RZ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1NYTFBWbHc0bEJvY3lobWgzWkU4RmdBZHRSQk9CRGpEUzlZcm1KQmIyZGZYa2hhRnBKbUdqSktxdnFuUlNMQTZjNE4wcEp2cEhqWFN1dE5udEZiNllMX29oS29yNTVCcDlSYnhoUnlSdlp5WDd2OTN0Zmo4cERYdjJfeDljYzAwMUdaMDR1aHptZURrYVM5anU0OXAxT1BQaGRpWnNxRnhoNXAycmhTdlJoN016QlRtQ0hpZHdobUpaTTFGZ1RZ?oc=5)
 
 ---
 
@@ -110,6 +126,14 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Language and Empathy Have Distinct Origins in the Developing Brain - Neuroscience News](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlFESUJQMUhDaEF6YUpOLXNMX3ZNWGVsUmU0dFJ5TUlUT3lOYkZaeGZiU3pZNHhuZDYxNTBTbXJIUko3VTdDR2Jjb2FvU2l6Q3BlMU1PeGJISWFFcEo1YVNfejZXYW52WE5jWW9TM2xBRGo5blFMUk40R0pDNV85NU9qN01NbTRUZTgtNmFR0gGTAUFVX3lxTFB3M002cG41aDJ6SU9oV05ZWTJfQS1adDU0dGtjdEpZbWIycUI3THBiQkpldW5DQnBBcmpNTXhacjdHXzFuODFzb3FZX2E1dUdFejdfb0NDWDZJeXhiZnVlbjNMTFhUbDY0Sm10MWVjYmxYdVR3OVZ5YUN6TXcyTGNBZGxweDdjeXBWM19xV3JleEF5dw?oc=5)
+
+2026-04-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlFESUJQMUhDaEF6YUpOLXNMX3ZNWGVsUmU0dFJ5TUlUT3lOYkZaeGZiU3pZNHhuZDYxNTBTbXJIUko3VTdDR2Jjb2FvU2l6Q3BlMU1PeGJISWFFcEo1YVNfejZXYW52WE5jWW9TM2xBRGo5blFMUk40R0pDNV85NU9qN01NbTRUZTgtNmFR0gGTAUFVX3lxTFB3M002cG41aDJ6SU9oV05ZWTJfQS1adDU0dGtjdEpZbWIycUI3THBiQkpldW5DQnBBcmpNTXhacjdHXzFuODFzb3FZX2E1dUdFejdfb0NDWDZJeXhiZnVlbjNMTFhUbDY0Sm10MWVjYmxYdVR3OVZ5YUN6TXcyTGNBZGxweDdjeXBWM19xV3JleEF5dw?oc=5)
+
+---
+
 ### [A treatment for pre-eclampsia may be on the horizon - The Economist](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU9nUE4zQnpxZnY4b3RjT1YtaHlxQk4weXk3SkRCUXhpZEZpcGlLdzh4OWd2WkNOMmhWNEkwN0tkWHVlcFV6dWVrNEF4LWRjUjJJaUF2S090anlBeDdieFVkaGhuaHBMVlpSYVgzdFZFTGgzcmZKZlhWNTM1MDhDa1JpRG4zVFFQWUIzTUNHQm01TFJyQ21pOEJMcEtTLXA2V3k0RkF3cVhKQmxUNUZVag?oc=5)
 
 2026-04-27 <span class="news-indication-tag">MS</span>
@@ -120,17 +144,9 @@ permalink: /news/ledipasvir/
 
 ### [OMS, Unicef y Gavi protegen a 18,3 millones de menores con campaña masiva de vacunación](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWdmcDJPbTVWekJGOTgxeHd1bHpRMHY5eFlhZmlhdE1lcW9LV3BfNHZwR3FmLVJMUDA4N0ZNMkZhbWZHY3hkalRBV3NMY0dsMHF3cnNzVWotckYyUnRPUEExbDhYOUxiMDJyN3dlTnd5MzJ0a1JmX3VRYTloaXJsdGNWRTk2ZkF4N3c1SkpFYW82OFZLVFdyWnljbTNEOHAxdi1ZLXlUa2t0RFN2SkE?oc=5)
 
-2026-04-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[nacion.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWdmcDJPbTVWekJGOTgxeHd1bHpRMHY5eFlhZmlhdE1lcW9LV3BfNHZwR3FmLVJMUDA4N0ZNMkZhbWZHY3hkalRBV3NMY0dsMHF3cnNzVWotckYyUnRPUEExbDhYOUxiMDJyN3dlTnd5MzJ0a1JmX3VRYTloaXJsdGNWRTk2ZkF4N3c1SkpFYW82OFZLVFdyWnljbTNEOHAxdi1ZLXlUa2t0RFN2SkE?oc=5)
-
----
-
-### [La obsesión por las "Pilates moms" ha logrado lo que la ciencia no pudo: que nos tomemos en serio la anatomía femenina](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUJlR3BmNmd2cHFtRlMxTnBBU2JrZnhjNWlpVFlIUGtEMTNoR2pHdUlOV0d6bGRVd2ZhYnpyc25vcGtJMUV0YmV1ZDVpRGgxQ0tXbEtQLVBfMGo4VGRhN2V1N19zb2o4N2kwMFU0NnBERXNLV0V1dFhOWmFJTGpYSGdqTzZ0bGdDU3pfT3V6bjYyVnRLRmkxY3NhR050RzhRMzBRN1RJSC0yS0Y3M0ZVTW5pSi1GOFJaQU51OHhWMFNxWEZJNms0cThDTFZackJ0UnJaZ1dUZEVWMWZwNGE1dlB6a1FDQdIB6wFBVV95cUxNaFNaTjRqcmdtYlFkbmctUXRuQ2dlZWF1bWY0alBJWTdGLXBvZEVFZXZXcl9ESGZSbVB1ZmlDcThLVTVNM0F1Z0VTTzhaUVBLZHI2Nk1tdEQtWVBtUVVqVUhWQzkyUDg4QlRJVlV4SGRtSHVNblRqU3hSZnNRb2Nqdm9LX2xHblJZSkM3QS03bGVpOVJ1Q1JSS2JGbTVIb3JYOFY0amlTbkctc09BTGFWZ3BuaGF3MWhwaWdkdXNtU1RSZjRyejg4Q3hoQmVzOE5tbE56VV9xRzY3RzFSVHNTSTNVbDlFMHpTRXN3?oc=5)
-
 2026-04-27 <span class="news-indication-tag">MS</span>
 
-來源：[Xataka](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWUJlR3BmNmd2cHFtRlMxTnBBU2JrZnhjNWlpVFlIUGtEMTNoR2pHdUlOV0d6bGRVd2ZhYnpyc25vcGtJMUV0YmV1ZDVpRGgxQ0tXbEtQLVBfMGo4VGRhN2V1N19zb2o4N2kwMFU0NnBERXNLV0V1dFhOWmFJTGpYSGdqTzZ0bGdDU3pfT3V6bjYyVnRLRmkxY3NhR050RzhRMzBRN1RJSC0yS0Y3M0ZVTW5pSi1GOFJaQU51OHhWMFNxWEZJNms0cThDTFZackJ0UnJaZ1dUZEVWMWZwNGE1dlB6a1FDQdIB6wFBVV95cUxNaFNaTjRqcmdtYlFkbmctUXRuQ2dlZWF1bWY0alBJWTdGLXBvZEVFZXZXcl9ESGZSbVB1ZmlDcThLVTVNM0F1Z0VTTzhaUVBLZHI2Nk1tdEQtWVBtUVVqVUhWQzkyUDg4QlRJVlV4SGRtSHVNblRqU3hSZnNRb2Nqdm9LX2xHblJZSkM3QS03bGVpOVJ1Q1JSS2JGbTVIb3JYOFY0amlTbkctc09BTGFWZ3BuaGF3MWhwaWdkdXNtU1RSZjRyejg4Q3hoQmVzOE5tbE56VV9xRzY3RzFSVHNTSTNVbDlFMHpTRXN3?oc=5)
+來源：[nacion.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWdmcDJPbTVWekJGOTgxeHd1bHpRMHY5eFlhZmlhdE1lcW9LV3BfNHZwR3FmLVJMUDA4N0ZNMkZhbWZHY3hkalRBV3NMY0dsMHF3cnNzVWotckYyUnRPUEExbDhYOUxiMDJyN3dlTnd5MzJ0a1JmX3VRYTloaXJsdGNWRTk2ZkF4N3c1SkpFYW82OFZLVFdyWnljbTNEOHAxdi1ZLXlUa2t0RFN2SkE?oc=5)
 
 ---
 
@@ -150,6 +166,14 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Semana Mundial de la Vacunación y la Inmunización](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVJTTHg4bFdvWjYxc1piRWtBT210azB0OVdBa2ozNm0tQmt6Yl9sQU4xR1FYOUl4UGt4Z1Vib1E3LWJ2bG9JYkMzZDhYODZXOVU3VHpMMGdqNFNKaThiLTVLdlNlQmFkWGZsSzR6SlZoNmZBSTVKRG9rWF9LZWxRSy1jVDJsRjFzbHNFSGhCNG53V25taG0zYVJwYUFpcG1qRndDcw?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVJTTHg4bFdvWjYxc1piRWtBT210azB0OVdBa2ozNm0tQmt6Yl9sQU4xR1FYOUl4UGt4Z1Vib1E3LWJ2bG9JYkMzZDhYODZXOVU3VHpMMGdqNFNKaThiLTVLdlNlQmFkWGZsSzR6SlZoNmZBSTVKRG9rWF9LZWxRSy1jVDJsRjFzbHNFSGhCNG53V25taG0zYVJwYUFpcG1qRndDcw?oc=5)
+
+---
+
 ### [EMA avala 'Cenrifki', fármaco oral que frena la progresión de la esclerosis múltiple progresiva secundaria](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLUk0aF9URFlCcnVCTWNKOExHalZEQ1ZOaWdUNzVKaDdQN2lTUFkzb25QNEpnaWI4WllJQnBFdXhvVmp0aURvdUxBZGc4MWthM2xyVEZib1BNRm5sTDN6Y3RNWE1kdnoxWTZKSkpSMnFObG9VdXd4MklXMEh3OG1UR0lTVzVZV1BxRUxNY2IzME5SUVl6X2RTaEstZnlMa2hoT19COGgtcTVBRlNHdlpwWHhRT0pYM0pIZDREVm9jc0xwRy1XV1Z4R3dzMmlGNXY1dmN0S19Qd3kzeVZ4WGNhOGc2aFhtRWFfOW9YQmc1QVNuZDdu?oc=5)
 
 2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -158,19 +182,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [How often should you check your cholesterol? A cardiologist explains - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
-
-2026-04-27 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
-
----
-
-### [War and neglect fuel deadly measles epidemic in Sudan’s Darfur - Al Jazeera](https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEJMWUIzaWFJaGM4eFNjaVZ1anNZNHpjTk8xNXVydVdkSXpaekdmV2pwcWdaT0FzT1hYSGdhQTgwbWxxRVFJTExhZTItMW1yWUdxM1FNdUJnb3hfblNaLVFYdUdLS1hRREt5bGc1eS1qNTdxN1lZNzJ3WDFqNEV0MzA5QjJtZHl5WWVfMEVmaXBLeDh5UTJ6SkJrNlpGQzdNOWVUUQ?oc=5)
+### [Dermcidin bremst Grippe und Corona: Studie enthüllt schützende Wirkung von Schweiß](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">MS</span>
 
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEJMWUIzaWFJaGM4eFNjaVZ1anNZNHpjTk8xNXVydVdkSXpaekdmV2pwcWdaT0FzT1hYSGdhQTgwbWxxRVFJTExhZTItMW1yWUdxM1FNdUJnb3hfblNaLVFYdUdLS1hRREt5bGc1eS1qNTdxN1lZNzJ3WDFqNEV0MzA5QjJtZHl5WWVfMEVmaXBLeDh5UTJ6SkJrNlpGQzdNOWVUUQ?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
 
 ---
 

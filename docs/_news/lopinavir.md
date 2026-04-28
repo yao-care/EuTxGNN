@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lopinavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Caen un 32% las nuevas infecciones de hepatitis B y un 12% las muertes por hepatitis C desde 2015 en el mundo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW5BaUp1R0R4OWpyMTdZTGMtU1VkUVkzeHM0STZHVW5fblA4ekd6dVdXSXJ6dGMwM3ZkMzhSV1drNnd2d3R1eUN5ZE0wSjdGVGJteUpQMnBCcUNUWjh6a25JSV9qeEc2T29xZkFycHFKMVV1TDQzVm9mMXE0dV9hZUN5ZENMeno2WnpBU096THhuV0p0YVUycVBZcGZ3dXhMbHhBY29xWHZBcC1JU1lTWWt2ZS1fRkZkQmlsQXhaUE1zNU1Lc3RtZTlwWU1JN2FpdzR4RQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQW5BaUp1R0R4OWpyMTdZTGMtU1VkUVkzeHM0STZHVW5fblA4ekd6dVdXSXJ6dGMwM3ZkMzhSV1drNnd2d3R1eUN5ZE0wSjdGVGJteUpQMnBCcUNUWjh6a25JSV9qeEc2T29xZkFycHFKMVV1TDQzVm9mMXE0dV9hZUN5ZENMeno2WnpBU096THhuV0p0YVUycVBZcGZ3dXhMbHhBY29xWHZBcC1JU1lTWWt2ZS1fRkZkQmlsQXhaUE1zNU1Lc3RtZTlwWU1JN2FpdzR4RQ?oc=5)
-
----
-
-### [Los esfuerzos para eliminar la hepatitis están dando resultados positivos, aunque insuficientes](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnVBVC1LbXhVZDRBcm5mc0Rjem9XR3dPcGw3c3RHWnhoc0hPZjhSSklXU3VXT2Vta1h6SUdOLTN3R0J4ZFJpYWd3d1Iyb05lVkFRbzhnUTBDQXE5clloSFNiU2Jla2V2RHlUbE1MY3hqVFpXbWdDZDRCU0FVT25pZlhhOHdTTXF2REdjOFIyQ1k2VmVyREx4NzZncjdOdkxVN19yblluMHVnY1Zfc2dKb0tPcDhCMFJTN0tGc0pnQzFxcGphaWRZdW5FR0xCMGxYSWdSckNiZU5KcE1hTmc?oc=5)
+### [WHO Reports Significant Drop In Hepatitis B Infections](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
 
 2026-04-28 <span class="news-indication-tag">hepatitis</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnVBVC1LbXhVZDRBcm5mc0Rjem9XR3dPcGw3c3RHWnhoc0hPZjhSSklXU3VXT2Vta1h6SUdOLTN3R0J4ZFJpYWd3d1Iyb05lVkFRbzhnUTBDQXE5clloSFNiU2Jla2V2RHlUbE1MY3hqVFpXbWdDZDRCU0FVT25pZlhhOHdTTXF2REdjOFIyQ1k2VmVyREx4NzZncjdOdkxVN19yblluMHVnY1Zfc2dKb0tPcDhCMFJTN0tGc0pnQzFxcGphaWRZdW5FR0xCMGxYSWdSckNiZU5KcE1hTmc?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
 
 ---
 

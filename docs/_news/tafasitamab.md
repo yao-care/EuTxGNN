@@ -14,7 +14,7 @@ permalink: /news/tafasitamab/
 ---
 
 <p class="key-answer" data-question="Tafasitamab 有什麼相關新聞？">
-<strong>Tafasitamab</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tafasitamab</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/tafasitamab/
 <p><a href="{{ '/drugs/tafasitamab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（21 則）
+
+### [Informationsveranstaltung: Krebs im Dialog](https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUJUR3Q4blpNZHJGNmRrWlY4MGtCMzcxNzdveWdyZTFrWDlZREVjSThjcGlpanFPSUJkLUFxOXJ0UlM3WkRZb0Q0SmRqMHhMZl85NVZuc251X3NaNTkzQVAxa1Z4N1g5UlBNa3dRdXl4OVUtbDJkVnNaTnltSlloSjVR?oc=5)
+
+2026-04-28 <span class="news-indication-tag">Krebs</span>
+
+來源：[dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUJUR3Q4blpNZHJGNmRrWlY4MGtCMzcxNzdveWdyZTFrWDlZREVjSThjcGlpanFPSUJkLUFxOXJ0UlM3WkRZb0Q0SmRqMHhMZl85NVZuc251X3NaNTkzQVAxa1Z4N1g5UlBNa3dRdXl4OVUtbDJkVnNaTnltSlloSjVR?oc=5)
+
+---
+
+### [Akute Appendizitis: Krebsrisiko lässt sich gut eingrenzen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzlBZGllWThPVkZ4dzdsUGxoUUZxLVY1RzkwY1JtTXlMdkhraERZcVRCRVdqRlBCb1V5VlYxZjl3TE9GQ0xUTG9RVC1wS0V1RTU0Z3ZrQTlVZTlsdjZlTW1DU0hCTWVzbFpZVDJrS1ZsWVg2VDNKeDdHaUZuSDZiYTN6aFM5QnZMaXFJeUxjNW1UZmJqbTJ4Q1M2RDB3NFJrV0g1b3E2ZXo2V1RiM0luNERzZm5uUmpBZ1p5WUk4ajhtOEE?oc=5)
+
+2026-04-28 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzlBZGllWThPVkZ4dzdsUGxoUUZxLVY1RzkwY1JtTXlMdkhraERZcVRCRVdqRlBCb1V5VlYxZjl3TE9GQ0xUTG9RVC1wS0V1RTU0Z3ZrQTlVZTlsdjZlTW1DU0hCTWVzbFpZVDJrS1ZsWVg2VDNKeDdHaUZuSDZiYTN6aFM5QnZMaXFJeUxjNW1UZmJqbTJ4Q1M2RDB3NFJrV0g1b3E2ZXo2V1RiM0luNERzZm5uUmpBZ1p5WUk4ajhtOEE?oc=5)
+
+---
+
+### [GP struck off over garlic oil 'cancer cure' claims](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
+
+---
+
+### [Diabetes: Männer erkranken früher, Frauen später und schwerer - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWI5QXlXU1hVdHZNaUp1aTJVSzk3UWZpRUgxeEI2LTJWZjE0elB5dVNJRjVlS3ZpTXZ4TzhqS0lKa1dKNTFMcWhCdlFRY2pSTS1hUHhydEtGM3luNW4zTVRnaGRwTXlMNEdMWkJEMUlBb2FzNDJnNC1IaC1sTmstTms1WWRRQ0Q1Uzl2cjI2RjRKTmJid1ZZQXlENkRvZTM5YU1Zck5YSklXY1htaUJZWUlfNlVNZGM0em1Ca1pFa2NoOWtX?oc=5)
+
+2026-04-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWI5QXlXU1hVdHZNaUp1aTJVSzk3UWZpRUgxeEI2LTJWZjE0elB5dVNJRjVlS3ZpTXZ4TzhqS0lKa1dKNTFMcWhCdlFRY2pSTS1hUHhydEtGM3luNW4zTVRnaGRwTXlMNEdMWkJEMUlBb2FzNDJnNC1IaC1sTmstTms1WWRRQ0Q1Uzl2cjI2RjRKTmJid1ZZQXlENkRvZTM5YU1Zck5YSklXY1htaUJZWUlfNlVNZGM0em1Ca1pFa2NoOWtX?oc=5)
+
+---
 
 ### [NCT04916002: vidutolimod intratumoral + cemiplimab intravenoso en cáncer de piel no melanoma avanzado](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEFjSzVXdkx0cWYwWTRVdFBnRGF1cFVDRVdybXM0NGpiaTFlWUM1X1N6bjFzRDFwOUJLUWtELWhlVjJUcGV0Y19idWl3cDE4UEVKNHVtSjZJUmUzckpwbkZ5dWNJczZSdGNzSDJFSVRiTGF4aEprS053T2hCai1OZ3hnZlpHT09pa3NISTNtZnh5XzVKZVlPZ1lDNUprQWl1NkM1WTRSY181emxaMWNrcW9XWk1BSlp6SEI4WTFsaHNBZ2luM19QdVY0UUdiTjJfM2V1bkw1WQ?oc=5)
 
@@ -62,11 +94,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [My cancer masked as stress and midlife fatigue… I had no red flag signs but a niggle took me to GP after blaming my job - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE02dG5QcC1XUUlJam00UHF1WTl6RGtXQzlKc004OHNPaDJsVFBMYnU1aks5cVQybFRGMGVtUzZoM1BveXY0THRvLTQxWW5GUHJjSUR6Wk4zTF9jTnN2WW0yV2xhLV94WjJNd1htR3ktZThmc0ppclNUN3NCOU5LbzA?oc=5)
+### [La monitorización continua de glucosa se consagra como un avance histórico para la diabetes tipo 2, dejando](https://news.google.com/rss/articles/CBMipwJBVV95cUxOdzJwZjJfRVduVlhiREZlN2pRbXc3ckdkMEltMVNqX1djR1FVd2V3NnoyTU9nOGR1bTNCakd0T3ZNZDk0eEdqeU02aWozQVd4cjZMejR5b09ZVVdITlhscUhzcS1ZVDZxNE1GMlQ5Vm0yX3RrcjQxSERkTWxSRkc2bWd4OUczdXVsYW45NzJUWUpNSHdNMkplVXFZYkJLNDFzRmZFbzd1cWhnWGR5SmJEcnMyTjE3bUdTbjJEU1lQS214WWFPNjB5V1ZpSWVxQTZsUlNCLVlPdnVSX0wtSEJRcGZ5VkNKOXNqbGFrNjAzMHFkZ3MxNzFERG00dGgwcTVuSlp0YlJGTHdKYmE2dTRMb2hyZFlKZFNOaGotcktIc2ZXelVad0J30gGnAkFVX3lxTE1oc0N1VnVDbWJNbENkazVCQTZkT0NuaGx6NVpxR09YV0Rudm8ySEJDTDJWdUJTV2V6Yy0yZmlKcE5nbHBuSFp2c2I3cmgxNEpPME90OTdralFlVFRXellQMU5ROWo2UXN1UHZhNnM3WVRzX3BxSUQ1aE9HRHY0aTlzTVJ0MnNYcHVjUHhQTGJoMTlYNUlFaWZTVmZIRDVlZnl2eWxVeDRvaUdma3NRT1JkWTk1LXRhMTU2R0N1b1lqcXU3Snc4SXBPQUVZRkZPcjBKc2ZGakNDM2NlNVZQUU96V1VyVFJvQ25iaHBJdndXellpeWRyOWlmbFdzZnlNSDRxSENHaE5LR2txRmFGT0NMT1B5REM0dGtDWDNTSjR5em83Wk9yWFk?oc=5)
 
-2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-04-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE02dG5QcC1XUUlJam00UHF1WTl6RGtXQzlKc004OHNPaDJsVFBMYnU1aks5cVQybFRGMGVtUzZoM1BveXY0THRvLTQxWW5GUHJjSUR6Wk4zTF9jTnN2WW0yV2xhLV94WjJNd1htR3ktZThmc0ppclNUN3NCOU5LbzA?oc=5)
+來源：[LaSexta](https://news.google.com/rss/articles/CBMipwJBVV95cUxOdzJwZjJfRVduVlhiREZlN2pRbXc3ckdkMEltMVNqX1djR1FVd2V3NnoyTU9nOGR1bTNCakd0T3ZNZDk0eEdqeU02aWozQVd4cjZMejR5b09ZVVdITlhscUhzcS1ZVDZxNE1GMlQ5Vm0yX3RrcjQxSERkTWxSRkc2bWd4OUczdXVsYW45NzJUWUpNSHdNMkplVXFZYkJLNDFzRmZFbzd1cWhnWGR5SmJEcnMyTjE3bUdTbjJEU1lQS214WWFPNjB5V1ZpSWVxQTZsUlNCLVlPdnVSX0wtSEJRcGZ5VkNKOXNqbGFrNjAzMHFkZ3MxNzFERG00dGgwcTVuSlp0YlJGTHdKYmE2dTRMb2hyZFlKZFNOaGotcktIc2ZXelVad0J30gGnAkFVX3lxTE1oc0N1VnVDbWJNbENkazVCQTZkT0NuaGx6NVpxR09YV0Rudm8ySEJDTDJWdUJTV2V6Yy0yZmlKcE5nbHBuSFp2c2I3cmgxNEpPME90OTdralFlVFRXellQMU5ROWo2UXN1UHZhNnM3WVRzX3BxSUQ1aE9HRHY0aTlzTVJ0MnNYcHVjUHhQTGJoMTlYNUlFaWZTVmZIRDVlZnl2eWxVeDRvaUdma3NRT1JkWTk1LXRhMTU2R0N1b1lqcXU3Snc4SXBPQUVZRkZPcjBKc2ZGakNDM2NlNVZQUU96V1VyVFJvQ25iaHBJdndXellpeWRyOWlmbFdzZnlNSDRxSENHaE5LR2txRmFGT0NMT1B5REM0dGtDWDNTSjR5em83Wk9yWFk?oc=5)
 
 ---
 
@@ -78,35 +110,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Adiós al pinchazo diario: la monitorización continua de glucosa cambia la vida de los pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
-
-2026-04-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
-
----
-
-### [En la fábrica de CAR-T: así se crean las terapias personalizadas que están revolucionando el tratamiento del cáncer - EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3U1NGtMTUlhNVplTERXSzJpZlBHR1REQU9hcXFvQ09aOG5wc010cnpiR0RpNTd1LU0zOGMtaFdQNWRMNGdvU2tQTXQ4UnBxZkhxQndidHZySlpXN3RMZWdkSmk3Y3JULVBiMFNWVktJMm9ocUszZk9GMWF6ZjM1YTNmY2xnZmgtd2xCaEtSZnp3aGd4YTBmek5FblhKWk5mYjRtSXYtcF9yckZmaW0tOXNxYVZGRURtSk9VU3ZwRWQyT3hMdjJ0MGlqQUdubERuckZrR29KM0d1cjdSZjZ6Sm9sc2ZKNFQ4dE9LSg?oc=5)
-
-2026-04-28 <span class="news-indication-tag">cancer</span>
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3U1NGtMTUlhNVplTERXSzJpZlBHR1REQU9hcXFvQ09aOG5wc010cnpiR0RpNTd1LU0zOGMtaFdQNWRMNGdvU2tQTXQ4UnBxZkhxQndidHZySlpXN3RMZWdkSmk3Y3JULVBiMFNWVktJMm9ocUszZk9GMWF6ZjM1YTNmY2xnZmgtd2xCaEtSZnp3aGd4YTBmek5FblhKWk5mYjRtSXYtcF9yckZmaW0tOXNxYVZGRURtSk9VU3ZwRWQyT3hMdjJ0MGlqQUdubERuckZrR29KM0d1cjdSZjZ6Sm9sc2ZKNFQ4dE9LSg?oc=5)
-
----
-
 ### [Metabolische Krise: Wie Herz, Nieren und Stoffwechsel Krebsrisiko steigern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
-
----
-
-### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
-
-2026-04-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
 
 ---
 
@@ -139,14 +147,6 @@ permalink: /news/tafasitamab/
 2026-04-27 <span class="news-indication-tag">tumor</span>
 
 來源：[Merateonline](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0hMa2QyRGZuSGhISGdWcTdnMkpxT2o2U0prdkNGemtQNjBhVDRzTnVDampsRTlRUVJNeXhCWTJjNmFlWWZBR0k3RS1UQ29NV0MyV0RVaVIxVTZOTE9zeUlXLTloVUZOeUZ0b20ycXQ2ZTJzMlJLOExiSzBlUlRndFN2dkxjUXpMeVRETmJGMF9VMWRMeXVRdg?oc=5)
-
----
-
-### [Vous pensiez la cigarette électronique inoffensive ? Cette étude révèle son terrible effet secondaire (et cela ne touche pas vos poumons)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzd2cTlkUjZMWkl6aXNBVE5Sb0psVDhGeFBqcU9iWC1uYW0wRlgxYmYtOGJEWkxFY3RNaFI5Wml5VjlEZGxVbUNzMnF6amtjamRwZlBjRkhkUG5jMGFZanlsQVpFNEtHV3NXbnpmWVFPWElTWGpVZENGTFRPZUpjeGszVGx3QlFPaktTTi1Nc2J5Q2w3V05TdzdZUE84U2RKNWdMVzlxeF8tam9MNmVWVmZEUVg1UlpWNmdfT3l2UkloUUpvMkk3TGdUMERodllWbGh1ZEhKOFhfNEpDWlc3ZFA2Y1UwRFYyS3hDQnNB?oc=5)
-
-2026-04-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzd2cTlkUjZMWkl6aXNBVE5Sb0psVDhGeFBqcU9iWC1uYW0wRlgxYmYtOGJEWkxFY3RNaFI5Wml5VjlEZGxVbUNzMnF6amtjamRwZlBjRkhkUG5jMGFZanlsQVpFNEtHV3NXbnpmWVFPWElTWGpVZENGTFRPZUpjeGszVGx3QlFPaktTTi1Nc2J5Q2w3V05TdzdZUE84U2RKNWdMVzlxeF8tam9MNmVWVmZEUVg1UlpWNmdfT3l2UkloUUpvMkk3TGdUMERodllWbGh1ZEhKOFhfNEpDWlc3ZFA2Y1UwRFYyS3hDQnNB?oc=5)
 
 ---
 
@@ -219,30 +219,6 @@ permalink: /news/tafasitamab/
 2026-04-27 <span class="news-indication-tag">cancer</span>
 
 來源：[Zoomdici.fr](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWRzSUVyWEMwRlVFcy1WWW05NV9USGlFYmlkaFYwMjRwSUNHYVJHNGxmSUdaMGRtWFhTZXN6YzdlOXdfcmVoU3NmTlRmN2t1WmxoejZ5UFBUQjJOMW5yLV92SlFNdFRNT0pISVJHWHI5VURkb0dhRVFjVGhDS0staEk4OXo3bXNLY05RaFJmekxLUkJyMEpvMTdQdkQxV0syWlZwM1BTMEtEZXVPbk9uWUE5ejU?oc=5)
-
----
-
-### [Heartbroken family gets 'worst news ever' when two-year-old diagnosed with rare cancer - Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
-
-2026-04-26 <span class="news-indication-tag">cancer</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpaa0NVVUdtODBCclBmbUhldGdYZzJrSGYyNy0wVlVReVV2MGRUQmtyR1dVM2s2NU1ScUZxWS1ydUdnRV9SZTlfOVN6eXZQRlFUbkEtS0hiTHBGYXhGejVIbkk5Sk9LZWpNZWNGUWdfWVR3ZGszalpHUXFNbHdXN2FnR0RGWm1XZmJDTXhDY1A?oc=5)
-
----
-
-### [Burioni: "Tre buone notizie nella lotta contro il tumore al pancreas"](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDRzbzF6c0stZVNLdl9SQTMyMkFHemlPWUtsd3hXOTB2cXplU1RWMWZxUnpfUmNXdzQwWVRGZTFSbkpOU0hCUUNZQjRMOE51ZVg4WHh3T2dQVUJjelFyQ1JORldBQi1JVlZ5Rm1CT24xeEJnV0ZiamFZRGwyTDFRbmJGWDI2NFp1d3Z6QThaYWRXWVU3UFU2cXB3TThxdlNZcWhjOVdUcFF3Zw?oc=5)
-
-2026-04-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDRzbzF6c0stZVNLdl9SQTMyMkFHemlPWUtsd3hXOTB2cXplU1RWMWZxUnpfUmNXdzQwWVRGZTFSbkpOU0hCUUNZQjRMOE51ZVg4WHh3T2dQVUJjelFyQ1JORldBQi1JVlZ5Rm1CT24xeEJnV0ZiamFZRGwyTDFRbmJGWDI2NFp1d3Z6QThaYWRXWVU3UFU2cXB3TThxdlNZcWhjOVdUcFF3Zw?oc=5)
-
----
-
-### [Augmentation préoccupante des cancers colorectaux chez les moins de 50 ans en Suisse](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkx3S0dmNTBWdkZaVExPcXd2WjBVTUxLZnozNkhVbjVoZ0J5OUZjXzR2a2dZSGt1Z1dDWTY4c2RscFhUeHdteGx3d25zWHMwdkI4NTFPV0VCNEhaaFpYLVh0MTdYZWFBaTBYSGsyc2xFalNyNVJjZ2ZzVzJ3UGtuRjdYUkFBcFVrMUdRSjVOcjUxV1A1anFiXzY3NlZzT1paSUhabE85NWs2ZWNaU2t0VG9hMG8wcGF4T3U4?oc=5)
-
-2026-04-26 <span class="news-indication-tag">cancer</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkx3S0dmNTBWdkZaVExPcXd2WjBVTUxLZnozNkhVbjVoZ0J5OUZjXzR2a2dZSGt1Z1dDWTY4c2RscFhUeHdteGx3d25zWHMwdkI4NTFPV0VCNEhaaFpYLVh0MTdYZWFBaTBYSGsyc2xFalNyNVJjZ2ZzVzJ3UGtuRjdYUkFBcFVrMUdRSjVOcjUxV1A1anFiXzY3NlZzT1paSUhabE85NWs2ZWNaU2t0VG9hMG8wcGF4T3U4?oc=5)
 
 ---
 
