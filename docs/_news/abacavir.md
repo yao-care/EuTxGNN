@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abacavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/abacavir/
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Caen un 32% las nuevas infecciones de hepatitis B y un 12% las muertes por hepatitis C desde 2015 en el mundo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckFDcmo3WGlGQkd1eFY3dHBuU2tvb0FZNlM2YUhId0RJb0Yxcko1eGFRYWc3YV9KS3QwNjdXN1NFTzVwUXpiNTZQZ25BRUpOYWFKVGFSVlo2YkhWblpTSXhKRmdNVjFMcUdmeG9iTTROMkJlTkNqTG5mLUNndFZ0OU5CYmlHZmprR0JNc3NNcU13ZjFBSDBfelgxcmJxWVcxYTVQYnJNXy0zUUh3emVFSmU1N0JCbnFXS3p5NnlkQTdzaG5Jcm5wWTRHdXlYV0g2QXdULTBB?oc=5)
+
+2026-04-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckFDcmo3WGlGQkd1eFY3dHBuU2tvb0FZNlM2YUhId0RJb0Yxcko1eGFRYWc3YV9KS3QwNjdXN1NFTzVwUXpiNTZQZ25BRUpOYWFKVGFSVlo2YkhWblpTSXhKRmdNVjFMcUdmeG9iTTROMkJlTkNqTG5mLUNndFZ0OU5CYmlHZmprR0JNc3NNcU13ZjFBSDBfelgxcmJxWVcxYTVQYnJNXy0zUUh3emVFSmU1N0JCbnFXS3p5NnlkQTdzaG5Jcm5wWTRHdXlYV0g2QXdULTBB?oc=5)
+
+---
 
 ### [WHO Reports Significant Drop In Hepatitis B Infections](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
 

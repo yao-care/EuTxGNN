@@ -14,7 +14,7 @@ permalink: /news/baloxavir-marboxil/
 ---
 
 <p class="key-answer" data-question="Baloxavir Marboxil 有什麼相關新聞？">
-<strong>Baloxavir Marboxil</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Baloxavir Marboxil</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/baloxavir-marboxil/
 <p><a href="{{ '/drugs/baloxavir-marboxil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
 
 ### [Informationsveranstaltung: Krebs im Dialog](https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUJUR3Q4blpNZHJGNmRrWlY4MGtCMzcxNzdveWdyZTFrWDlZREVjSThjcGlpanFPSUJkLUFxOXJ0UlM3WkRZb0Q0SmRqMHhMZl85NVZuc251X3NaNTkzQVAxa1Z4N1g5UlBNa3dRdXl4OVUtbDJkVnNaTnltSlloSjVR?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [Akute Appendizitis: Krebsrisiko lässt sich gut eingrenzen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzlBZGllWThPVkZ4dzdsUGxoUUZxLVY1RzkwY1JtTXlMdkhraERZcVRCRVdqRlBCb1V5VlYxZjl3TE9GQ0xUTG9RVC1wS0V1RTU0Z3ZrQTlVZTlsdjZlTW1DU0hCTWVzbFpZVDJrS1ZsWVg2VDNKeDdHaUZuSDZiYTN6aFM5QnZMaXFJeUxjNW1UZmJqbTJ4Q1M2RDB3NFJrV0g1b3E2ZXo2V1RiM0luNERzZm5uUmpBZ1p5WUk4ajhtOEE?oc=5)
+### [Akute Appendizitis: Krebsrisiko lässt sich gut eingrenzen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRUtST1pTbGFEN3J5b0owakpGSENDZ0kzSkF3c2RHSUplbkV2YVBjX2trSlEwN3k0UnBoRE5PNGJjcHZQa3p4UEdMd1pSU3BTOV9rYWhxaHAtLVB1aDVzUHdRRXBYM2FkM0EwNDgwUlk0YUZMNjZzb1FjZXVXNzM4ekJFSnM0bEFWc2lKa1FDRE16RnBaaE85WHJFMXFZbjU4QTl3WmVDSXZwUGVfckRNeWdXZXBacEtxNUE5X3k4WmlJS2ktdWEzRURpdzNXMGVhVVFCdw?oc=5)
 
 2026-04-28 <span class="news-indication-tag">Krebs</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzlBZGllWThPVkZ4dzdsUGxoUUZxLVY1RzkwY1JtTXlMdkhraERZcVRCRVdqRlBCb1V5VlYxZjl3TE9GQ0xUTG9RVC1wS0V1RTU0Z3ZrQTlVZTlsdjZlTW1DU0hCTWVzbFpZVDJrS1ZsWVg2VDNKeDdHaUZuSDZiYTN6aFM5QnZMaXFJeUxjNW1UZmJqbTJ4Q1M2RDB3NFJrV0g1b3E2ZXo2V1RiM0luNERzZm5uUmpBZ1p5WUk4ajhtOEE?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRUtST1pTbGFEN3J5b0owakpGSENDZ0kzSkF3c2RHSUplbkV2YVBjX2trSlEwN3k0UnBoRE5PNGJjcHZQa3p4UEdMd1pSU3BTOV9rYWhxaHAtLVB1aDVzUHdRRXBYM2FkM0EwNDgwUlk0YUZMNjZzb1FjZXVXNzM4ekJFSnM0bEFWc2lKa1FDRE16RnBaaE85WHJFMXFZbjU4QTl3WmVDSXZwUGVfckRNeWdXZXBacEtxNUE5X3k4WmlJS2ktdWEzRURpdzNXMGVhVVFCdw?oc=5)
 
 ---
 
@@ -78,6 +78,14 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
+### [Caen un 32% las nuevas infecciones de hepatitis B y un 12% las muertes por hepatitis C desde 2015 en el mundo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckFDcmo3WGlGQkd1eFY3dHBuU2tvb0FZNlM2YUhId0RJb0Yxcko1eGFRYWc3YV9KS3QwNjdXN1NFTzVwUXpiNTZQZ25BRUpOYWFKVGFSVlo2YkhWblpTSXhKRmdNVjFMcUdmeG9iTTROMkJlTkNqTG5mLUNndFZ0OU5CYmlHZmprR0JNc3NNcU13ZjFBSDBfelgxcmJxWVcxYTVQYnJNXy0zUUh3emVFSmU1N0JCbnFXS3p5NnlkQTdzaG5Jcm5wWTRHdXlYV0g2QXdULTBB?oc=5)
+
+2026-04-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckFDcmo3WGlGQkd1eFY3dHBuU2tvb0FZNlM2YUhId0RJb0Yxcko1eGFRYWc3YV9KS3QwNjdXN1NFTzVwUXpiNTZQZ25BRUpOYWFKVGFSVlo2YkhWblpTSXhKRmdNVjFMcUdmeG9iTTROMkJlTkNqTG5mLUNndFZ0OU5CYmlHZmprR0JNc3NNcU13ZjFBSDBfelgxcmJxWVcxYTVQYnJNXy0zUUh3emVFSmU1N0JCbnFXS3p5NnlkQTdzaG5Jcm5wWTRHdXlYV0g2QXdULTBB?oc=5)
+
+---
+
 ### [WHO Reports Significant Drop In Hepatitis B Infections](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
 
 2026-04-28 <span class="news-indication-tag">hepatitis</span>
@@ -86,11 +94,11 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [NCT04916002: vidutolimod intratumoral + cemiplimab intravenoso en cáncer de piel no melanoma avanzado](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEFjSzVXdkx0cWYwWTRVdFBnRGF1cFVDRVdybXM0NGpiaTFlWUM1X1N6bjFzRDFwOUJLUWtELWhlVjJUcGV0Y19idWl3cDE4UEVKNHVtSjZJUmUzckpwbkZ5dWNJczZSdGNzSDJFSVRiTGF4aEprS053T2hCai1OZ3hnZlpHT09pa3NISTNtZnh5XzVKZVlPZ1lDNUprQWl1NkM1WTRSY181emxaMWNrcW9XWk1BSlp6SEI4WTFsaHNBZ2luM19QdVY0UUdiTjJfM2V1bkw1WQ?oc=5)
+### [Des médecins traquent les déchets nucléaires dans le monde entier pour soigner les cancers](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSU9vYXdxWGtZMlFpbXAwNGZTWkF5dzVyQk5MRXBoM2piM19qSngtSlc1VUllUUJsUWs0WTF1ZzdvYTB2bXdUd0FiRGw5VU5yN2xxNjg1SHBaaFlwUElHZGJMbV9fRm0yNk56X29tSjBGVW8taWQ3UHNGdEV0TncwYmhfX3ZkcmpmRTF2MlVKQmlLNWduZzk0em9CSTE2aXFMbDNBOW8yODhpT3o1MUNZaVNNNmxjcjV0Snk2MNIBwgFBVV95cUxNRHRrU0FiaGp0Y2ZqMGRQYklpZGhJU2JKQ2VaMEVEMk1zYUNfYzA0WDkwQXFzTjN2UC1NQ0Rkd0N6R0RfS1BLakZhdnk1czBhSVozNXl1TnAzMzhGVHhka3Q1SE1GQUFod1ZPck1YUEhuUTk2bHNuYWllT1J6QTQ1ZUlCeG5TbG1TVjR6djh1YnlEcGdqdF81aURiNzdXQWMtYUltckpWWUZlc2RIOFVlbXB0V0NYeUJITTNtam1LVEJydw?oc=5)
 
-2026-04-28 <span class="news-drug-tag">Cemiplimab</span> <span class="news-indication-tag">tumor</span>
+2026-04-28 <span class="news-indication-tag">cancer</span>
 
-來源：[oncobites.tv](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEFjSzVXdkx0cWYwWTRVdFBnRGF1cFVDRVdybXM0NGpiaTFlWUM1X1N6bjFzRDFwOUJLUWtELWhlVjJUcGV0Y19idWl3cDE4UEVKNHVtSjZJUmUzckpwbkZ5dWNJczZSdGNzSDJFSVRiTGF4aEprS053T2hCai1OZ3hnZlpHT09pa3NISTNtZnh5XzVKZVlPZ1lDNUprQWl1NkM1WTRSY181emxaMWNrcW9XWk1BSlp6SEI4WTFsaHNBZ2luM19QdVY0UUdiTjJfM2V1bkw1WQ?oc=5)
+來源：[slate.fr](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSU9vYXdxWGtZMlFpbXAwNGZTWkF5dzVyQk5MRXBoM2piM19qSngtSlc1VUllUUJsUWs0WTF1ZzdvYTB2bXdUd0FiRGw5VU5yN2xxNjg1SHBaaFlwUElHZGJMbV9fRm0yNk56X29tSjBGVW8taWQ3UHNGdEV0TncwYmhfX3ZkcmpmRTF2MlVKQmlLNWduZzk0em9CSTE2aXFMbDNBOW8yODhpT3o1MUNZaVNNNmxjcjV0Snk2MNIBwgFBVV95cUxNRHRrU0FiaGp0Y2ZqMGRQYklpZGhJU2JKQ2VaMEVEMk1zYUNfYzA0WDkwQXFzTjN2UC1NQ0Rkd0N6R0RfS1BLakZhdnk1czBhSVozNXl1TnAzMzhGVHhka3Q1SE1GQUFod1ZPck1YUEhuUTk2bHNuYWllT1J6QTQ1ZUlCeG5TbG1TVjR6djh1YnlEcGdqdF81aURiNzdXQWMtYUltckpWWUZlc2RIOFVlbXB0V0NYeUJITTNtam1LVEJydw?oc=5)
 
 ---
 
@@ -102,11 +110,27 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
+### [Vaping may be more dangerous than smoking cigarettes say health experts](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzZkRFNYWFA0V05weWtPY2sxdDF4WFlGdGRwcnJTWnk2OXY5NGl2Q0h4VGRtcFpDWXExcHBvSjZFWjhIV1Y0YlNMT1FaTGtyeVZESlc4OFdRal84RWc3cTdVcDFpY0VKVU5rSTFVRkNUX21jUEk2RFRkaXd0X2toVVRCS1BxV0ZLZGJjaHBBOXJUV1NxQmxYaGFtVFNUVUhzeHFWcWl2OWs?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[InYourArea](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzZkRFNYWFA0V05weWtPY2sxdDF4WFlGdGRwcnJTWnk2OXY5NGl2Q0h4VGRtcFpDWXExcHBvSjZFWjhIV1Y0YlNMT1FaTGtyeVZESlc4OFdRal84RWc3cTdVcDFpY0VKVU5rSTFVRkNUX21jUEk2RFRkaXd0X2toVVRCS1BxV0ZLZGJjaHBBOXJUV1NxQmxYaGFtVFNUVUhzeHFWcWl2OWs?oc=5)
+
+---
+
 ### [Metabolische Krise: Wie Herz, Nieren und Stoffwechsel Krebsrisiko steigern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+
+---
+
+### [Eating fruits and veg can increase chance of lung cancer according to new study](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
+
+2026-04-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Dexerto](https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2I3X05XcThDYVN4djRzU1lBM0h4U0xfcHVJdTdoM2Zjb0xnWVdwdW4tbURjMndMSS1WVEVsSFF5UjZSOG1tX05wSkR6LWpfS0VKZFhzVWd0OVo0UmdzbzlkVW5INWFvamI4dDI1QTE5MkF2ekVEZ2VTSF9oZHVoX3hLLTF0MHJ2OGUwYkliYTVXMVh5SXFTbWhvM29kS0VjMmYxYlJWRnZLNUpGY1AxN1pDRkV5ZHJvNUROTm4zMGt0Mmhj?oc=5)
 
 ---
 
@@ -142,14 +166,6 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [Belfast woman’s cancer trauma: ‘I’m very, very lucky that I’m here to tell the tale’ - Belfast Telegraph](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYml3aThtcHFBWFkzOE9sSHZtYks5NlhldHhfN196Nzd4WVJ1djdTQkpROHRYcVMwYWpXUGo3VEpSNXcwQTlRVk45T3E0cXlwOF9vOHltV0JBNm51bzZkRl9VakFzVnJqR0NuYzdzOWtQam9vU3lnSlNNYmF3bDd1WHNqSkxCUzE2dUJRdUJsU1g1SHBtdmVrdHlUN1RPMmZZRGhaZGdDM25VRmpxNmNTZ3NRZlBWdnpFaHhrb0VQMlVyLWw4dTNPM1UzUUNjWWNRVnNRcFBrVjdqODZhVS0xRTcxOFZjQQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYml3aThtcHFBWFkzOE9sSHZtYks5NlhldHhfN196Nzd4WVJ1djdTQkpROHRYcVMwYWpXUGo3VEpSNXcwQTlRVk45T3E0cXlwOF9vOHltV0JBNm51bzZkRl9VakFzVnJqR0NuYzdzOWtQam9vU3lnSlNNYmF3bDd1WHNqSkxCUzE2dUJRdUJsU1g1SHBtdmVrdHlUN1RPMmZZRGhaZGdDM25VRmpxNmNTZ3NRZlBWdnpFaHhrb0VQMlVyLWw4dTNPM1UzUUNjWWNRVnNRcFBrVjdqODZhVS0xRTcxOFZjQQ?oc=5)
-
----
-
 ### [Wirkstoff: Apilimod blockiert Viruseintritt in Leberzellen bei Hepatitis E](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
 
 2026-04-27 <span class="news-indication-tag">hepatitis</span>
@@ -171,14 +187,6 @@ permalink: /news/baloxavir-marboxil/
 2026-04-27 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPN3I2XzJSTS1FVUY3eFgyNFFIMWtRZEQ5bG1sQ1JCbktidDAyRjlGd2E0REpib0tIYVFoYVZDR2FEc0lWbl8tRDc1NmpCM01CYVFYd21xdHFtaU96MktyQTZTMklud2JuTG5oMmdqb2g4Q3J3T1NnbzZYUkR6NllNU2laVlhwVWlVUDZ0encxcV9UVXZ4c00zN3FNbUxicXJXSy1RZm9BOWlqa2NOX0lndVcydmxNZ2xlN1Y4M054dEhyc3hreFJ0dngtYVltUkxKM0s3Vkx4QWNwaVNJRDNGZG5BSkxlVDVZejM5dlBpVGpxTlhodzNxMThzOWdmN0o2YWFCTkJMVzI1UGVTZHdlY2RCellFYlZDX2VrbG1lUWlyNVc4eFBQMzN2dS1NS3RteGtiNURDbloyZnY5ajE5M3lLUjJTNm440gHOAkFVX3lxTE92d2JqWE95TGVoaU5ycjhHTWt4TVlMUjdTYkxRU2JLN2FWR0F0S0cxTWVycjlpUnk0VGZEalhRa3dXMGJOMzlrZ3hGMTNGNENjTS04WEpQRll1UFJ5d2J0dTAwSU1JSG14QUlLY0VqRVFwZ0QtZXNiNzNjTmlzMFY0RjYta0J6VHM0VGtpbXFOMFhSNDFlc2R0TGFEbUJGbDZOMVIwMVJXellsSmpUbTF6QjZOdmtXdFgzYlVfcG9oR3I1aDdkNTA0TUhWRVhjS2J5Wm8yQ29Tb0lSNS01VkdESWI1NGdQNE5WcUduSG43dUJBQXNMdTU4V3FlSlZQNnFNMDM1VFJWRHkzc3RDYzM3T3dfSEd6UmxGdzJ5UWtPZmhQcWtSaExvRzNLNG5rT2NjYXNoYXFFZzNpYndHTjJGekQ0eDZrTlBOVHF3QVE?oc=5)
-
----
-
-### [Le Puy : nouvelle imagerie de pointe contre les cancers et les maladies cardiaques](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWRzSUVyWEMwRlVFcy1WWW05NV9USGlFYmlkaFYwMjRwSUNHYVJHNGxmSUdaMGRtWFhTZXN6YzdlOXdfcmVoU3NmTlRmN2t1WmxoejZ5UFBUQjJOMW5yLV92SlFNdFRNT0pISVJHWHI5VURkb0dhRVFjVGhDS0staEk4OXo3bXNLY05RaFJmekxLUkJyMEpvMTdQdkQxV0syWlZwM1BTMEtEZXVPbk9uWUE5ejU?oc=5)
-
-2026-04-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Zoomdici.fr](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWRzSUVyWEMwRlVFcy1WWW05NV9USGlFYmlkaFYwMjRwSUNHYVJHNGxmSUdaMGRtWFhTZXN6YzdlOXdfcmVoU3NmTlRmN2t1WmxoejZ5UFBUQjJOMW5yLV92SlFNdFRNT0pISVJHWHI5VURkb0dhRVFjVGhDS0staEk4OXo3bXNLY05RaFJmekxLUkJyMEpvMTdQdkQxV0syWlZwM1BTMEtEZXVPbk9uWUE5ejU?oc=5)
 
 ---
 

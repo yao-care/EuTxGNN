@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [La obesidad deja memoria duradera en células inmunitarias](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjQ0Q2hQV3FwdU1tRWxNcEZ2bENnWFZTb1k1RF8tSTRoano3UlBONXFHQ2YtdmlMdUNsY1JRVVdtVVFCa1Y2dE9zcjFNNTRCN0M5UjF3TG11amhsV0NHTDhBanVvTTZzUmV0aVlLa05YX25GamtMeDdqVEhDcmpmMlgyZU41allic1l3TjdUZHlYQ0ZKYzBfVU9VbVBtaWZ0anAwcUo4ZnJpZXdlNDA0cUIyOWRtLXhJdTRlN1ZmWDVrRUZQY1HSAcYBQVVfeXFMTXQ1NWhpc2pDWGpHN3dqekgxN2Z3UEpEd2szc1FlNUxrMVVET01tNUtQMFBlR1gxakM1RkExTFBFVnBSOGJRREI0MXltTkVqemZBVWI3UW00c2VwY0FhbUdWZjV6cGdsbGVWUldjYU5QODF3Q3hKTlA3Q3p3Y21fMFU0a1VDazRnU1d1Ukk2SzBXU2plNk9IeTlFY0lzOEhCT0d1TF85QTVMVVYwLWpFOWQ1Zl9XSzdqNG1GZEw2bmpFVWtsSER3?oc=5)
-
-2026-04-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[dw.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjQ0Q2hQV3FwdU1tRWxNcEZ2bENnWFZTb1k1RF8tSTRoano3UlBONXFHQ2YtdmlMdUNsY1JRVVdtVVFCa1Y2dE9zcjFNNTRCN0M5UjF3TG11amhsV0NHTDhBanVvTTZzUmV0aVlLa05YX25GamtMeDdqVEhDcmpmMlgyZU41allic1l3TjdUZHlYQ0ZKYzBfVU9VbVBtaWZ0anAwcUo4ZnJpZXdlNDA0cUIyOWRtLXhJdTRlN1ZmWDVrRUZQY1HSAcYBQVVfeXFMTXQ1NWhpc2pDWGpHN3dqekgxN2Z3UEpEd2szc1FlNUxrMVVET01tNUtQMFBlR1gxakM1RkExTFBFVnBSOGJRREI0MXltTkVqemZBVWI3UW00c2VwY0FhbUdWZjV6cGdsbGVWUldjYU5QODF3Q3hKTlA3Q3p3Y21fMFU0a1VDazRnU1d1Ukk2SzBXU2plNk9IeTlFY0lzOEhCT0d1TF85QTVMVVYwLWpFOWQ1Zl9XSzdqNG1GZEw2bmpFVWtsSER3?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Molécula natural podría ofrecer una alternativa a Ozempic](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
 
-2026-04-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
+來源：[DW.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
 
 ---
 

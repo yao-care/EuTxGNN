@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（18 則）
 
-### [Empresas.- MSD presenta 'Comprometidos con cada generación' para concienciar sobre la importancia de la inmunización](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
+### [MSD presenta 'Comprometidos con cada generación' para concienciar sobre la importancia de la inmunización](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
 
 2026-04-28 <span class="news-indication-tag">MS</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
+
+---
+
+### [The 9 Best Plant-Based Foods for Protein, According to Nutritionists](https://news.google.com/rss/articles/CBMickFVX3lxTE96NkFNTWVYcHhqcFFXLVVJMzFTX3NFdzZramxHdXEwSUpFOGVoZzdWUDhOSEpuZ0hleThsUnhRaGFvWWFyUlpKVU9ibl9nSXJwTi1wR1dSeGJiYWxZWXlVSG5ITURaT013anBiYjFvWnV6Zw?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span>
+
+來源：[marthastewart.com](https://news.google.com/rss/articles/CBMickFVX3lxTE96NkFNTWVYcHhqcFFXLVVJMzFTX3NFdzZramxHdXEwSUpFOGVoZzdWUDhOSEpuZ0hleThsUnhRaGFvWWFyUlpKVU9ibl9nSXJwTi1wR1dSeGJiYWxZWXlVSG5ITURaT013anBiYjFvWnV6Zw?oc=5)
 
 ---
 
@@ -78,19 +86,19 @@ permalink: /news/rotigotine/
 
 ---
 
-### [„Wundermittel“: Spermidin als Anti-Aging-Mittel umstritten](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4T1hXc1pxcFJoNlZyUEw1MG5BTDZLcEVTYXc0b0M2M2VmN3NLb0dCSFJ5c0ZuZlZLYjFrNnAzZDhDNUtpbzhtU0licFpZbE1S?oc=5)
+### [Hay fever: Nine tips for coping with pollen and seasonal allergens](https://news.google.com/rss/articles/CBMimAFBVV95cUxPby11VWNXRGc1dno0SzJnb2RkQko4X2xLaGJETlpRTmVLUVlyUk5UdThfMDdicThIbFNuMEY2YWpIZF9MeHNsNGlxWFRiZjMwdjRZWEQ0T3dIUkZjU2lIR1NKVlJ4dXNoc1NiblJYaVByNHlmWlBaaFRhSGs3dXo4ajI3MG1rV1FRQ2t3cmN1amQzY3oyNkFiMQ?oc=5)
 
 2026-04-28 <span class="news-indication-tag">MS</span>
 
-來源：[science.ORF.at](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4T1hXc1pxcFJoNlZyUEw1MG5BTDZLcEVTYXc0b0M2M2VmN3NLb0dCSFJ5c0ZuZlZLYjFrNnAzZDhDNUtpbzhtU0licFpZbE1S?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMimAFBVV95cUxPby11VWNXRGc1dno0SzJnb2RkQko4X2xLaGJETlpRTmVLUVlyUk5UdThfMDdicThIbFNuMEY2YWpIZF9MeHNsNGlxWFRiZjMwdjRZWEQ0T3dIUkZjU2lIR1NKVlJ4dXNoc1NiblJYaVByNHlmWlBaaFRhSGs3dXo4ajI3MG1rV1FRQ2t3cmN1amQzY3oyNkFiMQ?oc=5)
 
 ---
 
-### [Batterio invade il mondo: la maxi simulazione Oms rivela cosa potrebbe accadare](https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1NYTFBWbHc0bEJvY3lobWgzWkU4RmdBZHRSQk9CRGpEUzlZcm1KQmIyZGZYa2hhRnBKbUdqSktxdnFuUlNMQTZjNE4wcEp2cEhqWFN1dE5udEZiNllMX29oS29yNTVCcDlSYnhoUnlSdlp5WDd2OTN0Zmo4cERYdjJfeDljYzAwMUdaMDR1aHptZURrYVM5anU0OXAxT1BQaGRpWnNxRnhoNXAycmhTdlJoN016QlRtQ0hpZHdobUpaTTFGZ1RZ?oc=5)
+### [Diese Käsesorten haben am wenigsten Kalorien](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzBnZnRQbmlnb1pwQXA5Zll5VFR2cjlCWVpCT2NxX2NZcVZxTUptem9RY0E2TFNIQkdiWHNDX0NXNWtJdV8tY2lqWWVBSVo5SFFuRHN3TGVkMDFUY0lneXMtZElqbnQxdDI5NmsxYWV2Vmp3T3ZsQjlybFNUSmZMbnNPeUVVMVRpNjhIZ1lXOFN3MUpfbjdPa2dHeEx4Z0lSa2JPeWln?oc=5)
 
 2026-04-28 <span class="news-indication-tag">MS</span>
 
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1NYTFBWbHc0bEJvY3lobWgzWkU4RmdBZHRSQk9CRGpEUzlZcm1KQmIyZGZYa2hhRnBKbUdqSktxdnFuUlNMQTZjNE4wcEp2cEhqWFN1dE5udEZiNllMX29oS29yNTVCcDlSYnhoUnlSdlp5WDd2OTN0Zmo4cERYdjJfeDljYzAwMUdaMDR1aHptZURrYVM5anU0OXAxT1BQaGRpWnNxRnhoNXAycmhTdlJoN016QlRtQ0hpZHdobUpaTTFGZ1RZ?oc=5)
+來源：[MSN](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzBnZnRQbmlnb1pwQXA5Zll5VFR2cjlCWVpCT2NxX2NZcVZxTUptem9RY0E2TFNIQkdiWHNDX0NXNWtJdV8tY2lqWWVBSVo5SFFuRHN3TGVkMDFUY0lneXMtZElqbnQxdDI5NmsxYWV2Vmp3T3ZsQjlybFNUSmZMbnNPeUVVMVRpNjhIZ1lXOFN3MUpfbjdPa2dHeEx4Z0lSa2JPeWln?oc=5)
 
 ---
 
@@ -118,11 +126,27 @@ permalink: /news/rotigotine/
 
 ---
 
+### [Europa aprueba el primer medicamento indicado para reducir la progresión de la esclerosis múltiple - El Español](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUGNhY3lwRmw1Zlh2NzlhQ2ZfQUdnNXNmeTV6TU9tTHNSM3gxNGNUS1JNVU53V21scFMyMTJIVmNmNlIteWFOWXRHRWZoR1hBWXMyNDdfWnBVQWRfS3FOOG14TzBLcTdpYTZmZ09xanB6T2t0eVlyT1ZFMWNRRFFiWjVMeXBUYkliR0taT24xUjVLRmdSU1lqbEdFUGxkRWNGQ2RwSER4Wk9JczNsNncyZ2YyWm01eVc1WUp3eHlUaERkY0ZYNVpjcE1acUhBc0V5Nzc4Mm8zRUlLRnJOMjdtZmFHZjdlN1R5TnoyRWJpQ0xpdWlKd2w4Sm1wT3HSAYICQVVfeXFMTjdua05oS1h5TGZEOENXMVNSTGNYSU84bk5iZEdObDEtWEZqZUhGZEN0TmNFZVF1VzFTM3lNcnZISVVZNXVhcHNLNHZpb3htVVlMMG5wcjBOd2hLNGhmWG81NVFPS1NSdFVsQ0ZxdE1abVEzU3pHMExQbmlkS0JVNzVPMU9wWU44clhTVWFCUkpwWUhvbjN2SFdLUzNJVGNaVWhxRzFUZnFlYk5PTEhVVFpqQ09iN051SDBHYl9vN2hDQzBsS24zaEE5eThwWWlPU2xzY0oyVnpkRWZCZWZMQ191YVJNbkxvc1E1bEphYVFiY3prd3RiazE4ZnQwQ2NxRl9B?oc=5)
+
+2026-04-28 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[El Español](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUGNhY3lwRmw1Zlh2NzlhQ2ZfQUdnNXNmeTV6TU9tTHNSM3gxNGNUS1JNVU53V21scFMyMTJIVmNmNlIteWFOWXRHRWZoR1hBWXMyNDdfWnBVQWRfS3FOOG14TzBLcTdpYTZmZ09xanB6T2t0eVlyT1ZFMWNRRFFiWjVMeXBUYkliR0taT24xUjVLRmdSU1lqbEdFUGxkRWNGQ2RwSER4Wk9JczNsNncyZ2YyWm01eVc1WUp3eHlUaERkY0ZYNVpjcE1acUhBc0V5Nzc4Mm8zRUlLRnJOMjdtZmFHZjdlN1R5TnoyRWJpQ0xpdWlKd2w4Sm1wT3HSAYICQVVfeXFMTjdua05oS1h5TGZEOENXMVNSTGNYSU84bk5iZEdObDEtWEZqZUhGZEN0TmNFZVF1VzFTM3lNcnZISVVZNXVhcHNLNHZpb3htVVlMMG5wcjBOd2hLNGhmWG81NVFPS1NSdFVsQ0ZxdE1abVEzU3pHMExQbmlkS0JVNzVPMU9wWU44clhTVWFCUkpwWUhvbjN2SFdLUzNJVGNaVWhxRzFUZnFlYk5PTEhVVFpqQ09iN051SDBHYl9vN2hDQzBsS24zaEE5eThwWWlPU2xzY0oyVnpkRWZCZWZMQ191YVJNbkxvc1E1bEphYVFiY3prd3RiazE4ZnQwQ2NxRl9B?oc=5)
+
+---
+
 ### [Language and Empathy Have Distinct Origins in the Developing Brain - Neuroscience News](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlFESUJQMUhDaEF6YUpOLXNMX3ZNWGVsUmU0dFJ5TUlUT3lOYkZaeGZiU3pZNHhuZDYxNTBTbXJIUko3VTdDR2Jjb2FvU2l6Q3BlMU1PeGJISWFFcEo1YVNfejZXYW52WE5jWW9TM2xBRGo5blFMUk40R0pDNV85NU9qN01NbTRUZTgtNmFR0gGTAUFVX3lxTFB3M002cG41aDJ6SU9oV05ZWTJfQS1adDU0dGtjdEpZbWIycUI3THBiQkpldW5DQnBBcmpNTXhacjdHXzFuODFzb3FZX2E1dUdFejdfb0NDWDZJeXhiZnVlbjNMTFhUbDY0Sm10MWVjYmxYdVR3OVZ5YUN6TXcyTGNBZGxweDdjeXBWM19xV3JleEF5dw?oc=5)
 
 2026-04-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
 
 來源：[Neuroscience News](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlFESUJQMUhDaEF6YUpOLXNMX3ZNWGVsUmU0dFJ5TUlUT3lOYkZaeGZiU3pZNHhuZDYxNTBTbXJIUko3VTdDR2Jjb2FvU2l6Q3BlMU1PeGJISWFFcEo1YVNfejZXYW52WE5jWW9TM2xBRGo5blFMUk40R0pDNV85NU9qN01NbTRUZTgtNmFR0gGTAUFVX3lxTFB3M002cG41aDJ6SU9oV05ZWTJfQS1adDU0dGtjdEpZbWIycUI3THBiQkpldW5DQnBBcmpNTXhacjdHXzFuODFzb3FZX2E1dUdFejdfb0NDWDZJeXhiZnVlbjNMTFhUbDY0Sm10MWVjYmxYdVR3OVZ5YUN6TXcyTGNBZGxweDdjeXBWM19xV3JleEF5dw?oc=5)
+
+---
+
+### [„Wundermittel“: Spermidin als Anti-Aging-Mittel umstritten](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4T1hXc1pxcFJoNlZyUEw1MG5BTDZLcEVTYXc0b0M2M2VmN3NLb0dCSFJ5c0ZuZlZLYjFrNnAzZDhDNUtpbzhtU0licFpZbE1S?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[science.ORF.at](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4T1hXc1pxcFJoNlZyUEw1MG5BTDZLcEVTYXc0b0M2M2VmN3NLb0dCSFJ5c0ZuZlZLYjFrNnAzZDhDNUtpbzhtU0licFpZbE1S?oc=5)
 
 ---
 
@@ -134,11 +158,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [OMS, Unicef y Gavi protegen a 18,3 millones de menores con campaña masiva de vacunación](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWdmcDJPbTVWekJGOTgxeHd1bHpRMHY5eFlhZmlhdE1lcW9LV3BfNHZwR3FmLVJMUDA4N0ZNMkZhbWZHY3hkalRBV3NMY0dsMHF3cnNzVWotckYyUnRPUEExbDhYOUxiMDJyN3dlTnd5MzJ0a1JmX3VRYTloaXJsdGNWRTk2ZkF4N3c1SkpFYW82OFZLVFdyWnljbTNEOHAxdi1ZLXlUa2t0RFN2SkE?oc=5)
+### [Durchbruch bei Parkinson: Darmflora verrät Risiko Jahre vor Ausbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHlqb3FpVDhxRDFSRC1GZm5zakxQUVBaMnJNRUtoVHB6VTUtLUN4MG1wSE9zM0VVTmd2bXBoeHFQd0JYTkdrZGo2NDdMcGpNLTItUlFBSVcyME5vSXo4ZDFKckdQQnNaRzdhTDhERWFseENzczNVSnpFcXJzVERZN3VLRGFFQXNjRE1LYWxxbUFWQ01SOVdDbG9iOVhyZXpUcFB0X0w0WG1yOGJkclR4VHhCY21VMG43VXB4VFZiRUlVWEdncFE?oc=5)
 
 2026-04-27 <span class="news-indication-tag">MS</span>
 
-來源：[nacion.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWdmcDJPbTVWekJGOTgxeHd1bHpRMHY5eFlhZmlhdE1lcW9LV3BfNHZwR3FmLVJMUDA4N0ZNMkZhbWZHY3hkalRBV3NMY0dsMHF3cnNzVWotckYyUnRPUEExbDhYOUxiMDJyN3dlTnd5MzJ0a1JmX3VRYTloaXJsdGNWRTk2ZkF4N3c1SkpFYW82OFZLVFdyWnljbTNEOHAxdi1ZLXlUa2t0RFN2SkE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHlqb3FpVDhxRDFSRC1GZm5zakxQUVBaMnJNRUtoVHB6VTUtLUN4MG1wSE9zM0VVTmd2bXBoeHFQd0JYTkdrZGo2NDdMcGpNLTItUlFBSVcyME5vSXo4ZDFKckdQQnNaRzdhTDhERWFseENzczNVSnpFcXJzVERZN3VLRGFFQXNjRE1LYWxxbUFWQ01SOVdDbG9iOVhyZXpUcFB0X0w0WG1yOGJkclR4VHhCY21VMG43VXB4VFZiRUlVWEdncFE?oc=5)
 
 ---
 
@@ -150,14 +174,6 @@ permalink: /news/rotigotine/
 
 ---
 
-### [NeuroSummit 2026 reúne a neurólogos sobre esclerosis múltiple | Roche España - Roche España](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFZ0amczd0E0Z3lXRUF4M0xpTUdsU3VkWGs0M1FkdlNnQ0p5ZXNEUFlGQjJwVjBBT1E3bmdkUXhuWFlKc0hfSGh5ekJ4b3FRUlV6VjBXRWRzYVQ2TEgzQ0dha3U0X21LN2FINnJmRmlfenBJYklfbWlWd3dJTHNoQllDZjBEbUVWY1E4?oc=5)
-
-2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Roche España](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFZ0amczd0E0Z3lXRUF4M0xpTUdsU3VkWGs0M1FkdlNnQ0p5ZXNEUFlGQjJwVjBBT1E3bmdkUXhuWFlKc0hfSGh5ekJ4b3FRUlV6VjBXRWRzYVQ2TEgzQ0dha3U0X21LN2FINnJmRmlfenBJYklfbWlWd3dJTHNoQllDZjBEbUVWY1E4?oc=5)
-
----
-
 ### [Semana Mundial de la Vacunación y la Inmunización](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVJTTHg4bFdvWjYxc1piRWtBT210azB0OVdBa2ozNm0tQmt6Yl9sQU4xR1FYOUl4UGt4Z1Vib1E3LWJ2bG9JYkMzZDhYODZXOVU3VHpMMGdqNFNKaThiLTVLdlNlQmFkWGZsSzR6SlZoNmZBSTVKRG9rWF9LZWxRSy1jVDJsRjFzbHNFSGhCNG53V25taG0zYVJwYUFpcG1qRndDcw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">MS</span>
@@ -166,19 +182,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [EMA avala 'Cenrifki', fármaco oral que frena la progresión de la esclerosis múltiple progresiva secundaria](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLUk0aF9URFlCcnVCTWNKOExHalZEQ1ZOaWdUNzVKaDdQN2lTUFkzb25QNEpnaWI4WllJQnBFdXhvVmp0aURvdUxBZGc4MWthM2xyVEZib1BNRm5sTDN6Y3RNWE1kdnoxWTZKSkpSMnFObG9VdXd4MklXMEh3OG1UR0lTVzVZV1BxRUxNY2IzME5SUVl6X2RTaEstZnlMa2hoT19COGgtcTVBRlNHdlpwWHhRT0pYM0pIZDREVm9jc0xwRy1XV1Z4R3dzMmlGNXY1dmN0S19Qd3kzeVZ4WGNhOGc2aFhtRWFfOW9YQmc1QVNuZDdu?oc=5)
+### [Empresas.- Avances en esclerosis múltiple con su aprendizaje y uso de biomarcadores centran el 'NeuroSummit' de Roche](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLTd4WGM4dkJCc3dtTFRqd0pOQjFuUklhV3pGNExxWEVsc0QzelpudGlKcjV6dXJPZmdKdnA2di1TMlpsXzkwMzJIcHRlWXllREN6OGxJWTFBbVR5ZGtwaldETS1vMHNCRUxTNmFULW00ZEVSbzIyVXpiOTN3ZDNUMUNqd252Skg3MzdEYjBHSDdMY3d1bkdsOGJIQzVCeXlYZ1c1M2g2REZIeGJLeDdWajVORThlVEUwZjlHWlgxZ3RNeVVCaktFQ1RPdWdGSTRZZDU2ZWZ6WXdEQ2xCdFljQjZiOHQ0MERoY3czMDlR?oc=5)
 
 2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLUk0aF9URFlCcnVCTWNKOExHalZEQ1ZOaWdUNzVKaDdQN2lTUFkzb25QNEpnaWI4WllJQnBFdXhvVmp0aURvdUxBZGc4MWthM2xyVEZib1BNRm5sTDN6Y3RNWE1kdnoxWTZKSkpSMnFObG9VdXd4MklXMEh3OG1UR0lTVzVZV1BxRUxNY2IzME5SUVl6X2RTaEstZnlMa2hoT19COGgtcTVBRlNHdlpwWHhRT0pYM0pIZDREVm9jc0xwRy1XV1Z4R3dzMmlGNXY1dmN0S19Qd3kzeVZ4WGNhOGc2aFhtRWFfOW9YQmc1QVNuZDdu?oc=5)
-
----
-
-### [Dermcidin bremst Grippe und Corona: Studie enthüllt schützende Wirkung von Schweiß](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWZsUDZLQ0xBeFg0bm55ZFZxV0tmYkJSbXA5MHhQU2JBOS1LX211WnlOY0tzT2x2RHdFOXRxVHhrbWZJSndIUXlEdXliRVk0SGNXa1lBazRwZWczUlpzNnd5UTdjNThnVTE0VkhpNTdZRlNiYWZ6eGNKSmY2NV9CNDFTMXJ2TDVKaG1nT1pqVFBzbTBKUi12ak5ab2ZtdjVxUFpkQlcyVk80T0pzZV9SQlpGdzl3ZVJra2FjX2QtTEc2SmtSTGZ5azhrNnRGSW5kLWYtMHdwU0YxQQ?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLTd4WGM4dkJCc3dtTFRqd0pOQjFuUklhV3pGNExxWEVsc0QzelpudGlKcjV6dXJPZmdKdnA2di1TMlpsXzkwMzJIcHRlWXllREN6OGxJWTFBbVR5ZGtwaldETS1vMHNCRUxTNmFULW00ZEVSbzIyVXpiOTN3ZDNUMUNqd252Skg3MzdEYjBHSDdMY3d1bkdsOGJIQzVCeXlYZ1c1M2g2REZIeGJLeDdWajVORThlVEUwZjlHWlgxZ3RNeVVCaktFQ1RPdWdGSTRZZDU2ZWZ6WXdEQ2xCdFljQjZiOHQ0MERoY3czMDlR?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/givosiran/
 
 ## 相關新聞（3 則）
 
+### [Caen un 32% las nuevas infecciones de hepatitis B y un 12% las muertes por hepatitis C desde 2015 en el mundo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckFDcmo3WGlGQkd1eFY3dHBuU2tvb0FZNlM2YUhId0RJb0Yxcko1eGFRYWc3YV9KS3QwNjdXN1NFTzVwUXpiNTZQZ25BRUpOYWFKVGFSVlo2YkhWblpTSXhKRmdNVjFMcUdmeG9iTTROMkJlTkNqTG5mLUNndFZ0OU5CYmlHZmprR0JNc3NNcU13ZjFBSDBfelgxcmJxWVcxYTVQYnJNXy0zUUh3emVFSmU1N0JCbnFXS3p5NnlkQTdzaG5Jcm5wWTRHdXlYV0g2QXdULTBB?oc=5)
+
+2026-04-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPckFDcmo3WGlGQkd1eFY3dHBuU2tvb0FZNlM2YUhId0RJb0Yxcko1eGFRYWc3YV9KS3QwNjdXN1NFTzVwUXpiNTZQZ25BRUpOYWFKVGFSVlo2YkhWblpTSXhKRmdNVjFMcUdmeG9iTTROMkJlTkNqTG5mLUNndFZ0OU5CYmlHZmprR0JNc3NNcU13ZjFBSDBfelgxcmJxWVcxYTVQYnJNXy0zUUh3emVFSmU1N0JCbnFXS3p5NnlkQTdzaG5Jcm5wWTRHdXlYV0g2QXdULTBB?oc=5)
+
+---
+
 ### [WHO Reports Significant Drop In Hepatitis B Infections](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
 
 2026-04-28 <span class="news-indication-tag">hepatitis</span>
 
 來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
-
----
-
-### [Après 70 ans, ce chiffre de tension peut alerter sur votre santé cardiaque - Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
-
-2026-04-27 <span class="news-indication-tag">hypertension</span>
-
-來源：[Pleine Vie](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFxMnN6R1BWeWFKLWdjeHJPSl9EQWo2NDNJalhmV3VGRHN5cWZGQ1FYWFY1VG1WOVNzRjhZMUNpbnZ6WnhSa29ESkI0d3Z5M0UwWS0yOUJzZVU0RW1Rek02UlIwTlJlUXlEaVdNbzRVaFNYNUFYX01RT0NHZXYwQnRUZFdRN0g4OXhWUVRIMFZkRk1rcE14aGdTeXFMdUR5T2FPX3JkMmtIX296cVFDQ29ackQtV3c?oc=5)
 
 ---
 

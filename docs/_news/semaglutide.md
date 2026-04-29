@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Molécula natural podría ofrecer una alternativa a Ozempic](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
+
+2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[DW.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
+
+---
 
 ### [Diabetes: Männer erkranken früher, Frauen später und schwerer - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWI5QXlXU1hVdHZNaUp1aTJVSzk3UWZpRUgxeEI2LTJWZjE0elB5dVNJRjVlS3ZpTXZ4TzhqS0lKa1dKNTFMcWhCdlFRY2pSTS1hUHhydEtGM3luNW4zTVRnaGRwTXlMNEdMWkJEMUlBb2FzNDJnNC1IaC1sTmstTms1WWRRQ0Q1Uzl2cjI2RjRKTmJid1ZZQXlENkRvZTM5YU1Zck5YSklXY1htaUJZWUlfNlVNZGM0em1Ca1pFa2NoOWtX?oc=5)
 
 2026-04-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWI5QXlXU1hVdHZNaUp1aTJVSzk3UWZpRUgxeEI2LTJWZjE0elB5dVNJRjVlS3ZpTXZ4TzhqS0lKa1dKNTFMcWhCdlFRY2pSTS1hUHhydEtGM3luNW4zTVRnaGRwTXlMNEdMWkJEMUlBb2FzNDJnNC1IaC1sTmstTms1WWRRQ0Q1Uzl2cjI2RjRKTmJid1ZZQXlENkRvZTM5YU1Zck5YSklXY1htaUJZWUlfNlVNZGM0em1Ca1pFa2NoOWtX?oc=5)
+
+---
+
+### [Nicht für jeden ein Schutz: Studie enthüllt, wann Vitamin D gegen Diabetes hilft](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTZ6WTd3cVdsZDhCZGpNUGdOWVNaVGtZVzh0STZxS3JXSmtTcFlrTUlMR0pCZUwzUi1kUUJqYkhwNE1yMXdBdWp1Z0l3TFB4bVJ6eWhMc2dvUU1fZ3d0bGtFT1dUc0tyUi1ZaXJ5UUVqZjFJdUhzS2I4QnVRc0xGVEYzS040NmszSUU5Q1V6ZU5QMXowWFpWR2l5OFhLVnFa?oc=5)
+
+2026-04-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTZ6WTd3cVdsZDhCZGpNUGdOWVNaVGtZVzh0STZxS3JXSmtTcFlrTUlMR0pCZUwzUi1kUUJqYkhwNE1yMXdBdWp1Z0l3TFB4bVJ6eWhMc2dvUU1fZ3d0bGtFT1dUc0tyUi1ZaXJ5UUVqZjFJdUhzS2I4QnVRc0xGVEYzS040NmszSUU5Q1V6ZU5QMXowWFpWR2l5OFhLVnFa?oc=5)
 
 ---
 
@@ -70,35 +86,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Molécula natural podría ofrecer una alternativa a Ozempic](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
-
-2026-04-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[dw.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
-
----
-
-### [Madrid vuelve a correr contra la diabetes con el foco puesto en la educación sanitaria - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlZxdFNhRW5pNVlLRXJ6cFQ2NERtUXlkT1k3X0lNak0waEFRUF9SRTAzSjdHWVcxaVducU5yZ1JZOGlJVlRpNl9yb1dRS0w3SEMyWHNjVnh1cWJxTVZiX3JQeDF0RWNTdzNORHdYVm1oRGtFSGhIM2FqZWZ3SWJ3Z0trT2M5SXFPZjVZWWpnb29PbmVDOTZseC1CejczR3dWTERpWTh6eDN1c3NYZE1BcXQwb1RkcmhBNFdLcVBrMGVqNzDSAb4BQVVfeXFMTjRjMDhseVhGUlhiNFdTb2RlOXFTamh2RUNHQjUycDNFaEE4MkdmZ0hzREM1NE1fVGlPenFMTDdUSF9PM1pBQmN6Y05VUzVsS0c4aDg4ekNkSXE3bWZtblI5ME1Ud1NQRzdOcWdpQ2wxbXh0bUttRjFGNDN5NDZmVngwSEZuMzJWbDFyd3RKRnJKLVc1X3U0NkVsc3E4d3N6MDc5ektCNGl1YnlLaVFwWDJadXVmd0kyZEQ3VUE2QQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlZxdFNhRW5pNVlLRXJ6cFQ2NERtUXlkT1k3X0lNak0waEFRUF9SRTAzSjdHWVcxaVducU5yZ1JZOGlJVlRpNl9yb1dRS0w3SEMyWHNjVnh1cWJxTVZiX3JQeDF0RWNTdzNORHdYVm1oRGtFSGhIM2FqZWZ3SWJ3Z0trT2M5SXFPZjVZWWpnb29PbmVDOTZseC1CejczR3dWTERpWTh6eDN1c3NYZE1BcXQwb1RkcmhBNFdLcVBrMGVqNzDSAb4BQVVfeXFMTjRjMDhseVhGUlhiNFdTb2RlOXFTamh2RUNHQjUycDNFaEE4MkdmZ0hzREM1NE1fVGlPenFMTDdUSF9PM1pBQmN6Y05VUzVsS0c4aDg4ekNkSXE3bWZtblI5ME1Ud1NQRzdOcWdpQ2wxbXh0bUttRjFGNDN5NDZmVngwSEZuMzJWbDFyd3RKRnJKLVc1X3U0NkVsc3E4d3N6MDc5ektCNGl1YnlLaVFwWDJadXVmd0kyZEQ3VUE2QQ?oc=5)
-
----
-
 ### [Virtual Reality zur Diabetes-Bekämpfung: Forscher tüfteln an Gesundheitsprojekt](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUkpMNDl4Q3lidW45NjZIbWVranJJV1VydnhFQk83cktDMXhPVEw1eE5wRGFDdnhiSGxkRncwem82REVjZnZ5aEZlMkxlNEtrVHFEMGxNRDlRNDZYMlhKZ1BHWVhpeXUycnRSSTlmVjBSOGF2akxUQV9fX2ZKVGFDQjk5d21SN1RndHpoOG1tQ0dnenJBaWEzOVNXYXVMWEZfVnNwckhPMk1oajNvZGRuRnNTRTZSWndPQTl1XzdWbWdXcWFZQ2MxNERsWTlSVjhqLXBlTEJTRnFPQkJlWXFuSkNOVE8tMXUtU3hEVDkyd3NhTjVkMGh2NXV3?oc=5)
 
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[Stimme](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUkpMNDl4Q3lidW45NjZIbWVranJJV1VydnhFQk83cktDMXhPVEw1eE5wRGFDdnhiSGxkRncwem82REVjZnZ5aEZlMkxlNEtrVHFEMGxNRDlRNDZYMlhKZ1BHWVhpeXUycnRSSTlmVjBSOGF2akxUQV9fX2ZKVGFDQjk5d21SN1RndHpoOG1tQ0dnenJBaWEzOVNXYXVMWEZfVnNwckhPMk1oajNvZGRuRnNTRTZSWndPQTl1XzdWbWdXcWFZQ2MxNERsWTlSVjhqLXBlTEJTRnFPQkJlWXFuSkNOVE8tMXUtU3hEVDkyd3NhTjVkMGh2NXV3?oc=5)
-
----
-
-### [Diabetes-Prävention: Gen-Tests zeigen, wer von Vitamin D profitiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
-
-2026-04-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEs0bm1TVnBZdzVKaDVyRzhjQWlVYm95bExNQUs0UGlwUkJPZlg1bnlmVng5YlllSEpYZ2VPb0R5YkxnbndYZUlhY2VnS0F2dWJ4Sng2R2RzVnExbzF1bWlEbXoySkxtSGE4OTVhaGZNcUN3cWFiREwtWTNkaGF5eGF1cDFRLWNYekpqTElCeDZhNW1OUVZYQWtxOHVRek1pMjg4R3RpdzctQjhEYmtzU3Rid3FhX25tRjBIVEV3bUlIU0U?oc=5)
 
 ---
 
