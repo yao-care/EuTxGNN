@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 Schuppenflechte</span></li>
+<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -52,7 +52,15 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJOZm9nRXhud0Y3TXAzWHdWa2R2WHl6R09aYWRUSDZZbV83WnI1VjdiR2F1X1dTdlFaWkU3MUJERENzT3VUMENDRXpsSnhPdFlEZE9MRE5IbHJlYzE1elFtcGhmWVNkdy1SRmVsa2RnRkV4UFlEM0g2RTVvdkdzV1RxU3hfV0c0WWRkbENYTEg1T2NJNWpGTWp5ZEJpa0tvNERVUkIxOUJHUDZqYl9jRG1HTE1Mc1Jscnc5YmQ5SjdtVXVt?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJOZm9nRXhud0Y3TXAzWHdWa2R2WHl6R09aYWRUSDZZbV83WnI1VjdiR2F1X1dTdlFaWkU3MUJERENzT3VUMENDRXpsSnhPdFlEZE9MRE5IbHJlYzE1elFtcGhmWVNkdy1SRmVsa2RnRkV4UFlEM0g2RTVvdkdzV1RxU3hfV0c0WWRkbENYTEg1T2NJNWpGTWp5ZEJpa0tvNERVUkIxOUJHUDZqYl9jRG1HTE1Mc1Jscnc5YmQ5SjdtVXVt?oc=5)
+
+---
 
 ### [Kortikosteroide bei COPD: Segen oder Fluch?](https://news.google.com/rss/articles/CBMijAFBVV95cUxQemhPSGJHZHIxU1kzSjExRHVvR183TGRUN1hhZmZZR1BqdXhHSGdROFFkZTZ2eDNOU3p4MVl6d0lZQWZDME5xcDZrZ3B5ZUV6ay16V1MxcmtzT2F1eXdkRzhlTjM0Z2l4dVZVaUI0akg0SzBmM0w3eHR3RkhNQjQya3FsQWhXVmMxclVFZA?oc=5)
 
@@ -99,22 +107,6 @@ permalink: /news/natalizumab/
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[Stimme](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUkpMNDl4Q3lidW45NjZIbWVranJJV1VydnhFQk83cktDMXhPVEw1eE5wRGFDdnhiSGxkRncwem82REVjZnZ5aEZlMkxlNEtrVHFEMGxNRDlRNDZYMlhKZ1BHWVhpeXUycnRSSTlmVjBSOGF2akxUQV9fX2ZKVGFDQjk5d21SN1RndHpoOG1tQ0dnenJBaWEzOVNXYXVMWEZfVnNwckhPMk1oajNvZGRuRnNTRTZSWndPQTl1XzdWbWdXcWFZQ2MxNERsWTlSVjhqLXBlTEJTRnFPQkJlWXFuSkNOVE8tMXUtU3hEVDkyd3NhTjVkMGh2NXV3?oc=5)
-
----
-
-### [SGLT-2-Hemmer: Neue Perspektiven in der Diabetes-Therapie](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
-
----
-
-### [Neue Studie erstaunt - Kann Schuppenflechte vor Hautkrebs schützen? - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
-
-2026-04-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schuppenflechte</span>
-
-來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fT3MzSUYtbEtqYUdYdTdhYVZoakJPUV9VeC03R2haMk92UGNEanRrZi1DY3I4eURtYkQ1WkV1eEs0Zw?oc=5)
 
 ---
 

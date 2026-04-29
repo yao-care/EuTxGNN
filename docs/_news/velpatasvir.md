@@ -54,19 +54,35 @@ permalink: /news/velpatasvir/
 
 ## 相關新聞（21 則）
 
+### [Auch bei chronischer Hepatitis B gibt das Immunsystem nicht auf - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmh5bXVxUUhvSkJNUEZCb2lOU1dQUmg2bjRKdlpBTEFyd3lVejY5MzIxQ25CYThVa1ljVUdiSTFWUmpndFNUUVljOU5LTGM3LWEzZGc3NWo0eDE1Yk1ndUVmUmlZWW5HWldma3A4U3pSTDZQQndldEpjUzdLblQ5WUdacGNrMkR2WGVLQ3QyS092UzFKQ0tNbmI3Y0xQam5w?oc=5)
+
+2026-04-29 <span class="news-indication-tag">hepatitis</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmh5bXVxUUhvSkJNUEZCb2lOU1dQUmg2bjRKdlpBTEFyd3lVejY5MzIxQ25CYThVa1ljVUdiSTFWUmpndFNUUVljOU5LTGM3LWEzZGc3NWo0eDE1Yk1ndUVmUmlZWW5HWldma3A4U3pSTDZQQndldEpjUzdLblQ5WUdacGNrMkR2WGVLQ3QyS092UzFKQ0tNbmI3Y0xQam5w?oc=5)
+
+---
+
+### [Earlier specialised care could prevent 10,000 miscarriages a year, UK study finds - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmlkS0FzT2dtZXFNUHNTUWtnWk44amtKcDVKTm5RVHVXWTl4T2xaVU5BUzU5Y1Ztc1BzaWtGdmZZMC1FaXBWNGFfME5sbFlpcFZsOFBQWHE4anZCNHhBUmpaeDhlR1hLQWpLQXlUS3Q1WFVaN1FKUmItMmsweTVUbV9rbFU0a2d3cDI2Vy12MllWb1FWemUtTQ?oc=5)
+
+2026-04-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmlkS0FzT2dtZXFNUHNTUWtnWk44amtKcDVKTm5RVHVXWTl4T2xaVU5BUzU5Y1Ztc1BzaWtGdmZZMC1FaXBWNGFfME5sbFlpcFZsOFBQWHE4anZCNHhBUmpaeDhlR1hLQWpLQXlUS3Q1WFVaN1FKUmItMmsweTVUbV9rbFU0a2d3cDI2Vy12MllWb1FWemUtTQ?oc=5)
+
+---
+
+### [Scientists Discover Life-Changing Side Effect Of Eating Eggs For Alzheimer Treatment - Bored Panda](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaW9TUExEd25vLW14dEhWeTVwRjVqUTJZamFFLVpVYmczX1ltS3BkNUhlZ2piQXNsbUNYZDhQUjRxeGh3V1FfZnlkRXIyQzk0QU5uaHZHV0lXRjhTdlRyZHViUWMzOVdYOW0tR2Z0RWc2eElfTkZLMVo0R2NLVWlpSmFLWlNiRGh1WWQyMHFkYTY2NVBlOEZ5endwaDQ0NF80WWgxQmM4T0hEc1oyd1pucG1n?oc=5)
+
+2026-04-28 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaW9TUExEd25vLW14dEhWeTVwRjVqUTJZamFFLVpVYmczX1ltS3BkNUhlZ2piQXNsbUNYZDhQUjRxeGh3V1FfZnlkRXIyQzk0QU5uaHZHV0lXRjhTdlRyZHViUWMzOVdYOW0tR2Z0RWc2eElfTkZLMVo0R2NLVWlpSmFLWlNiRGh1WWQyMHFkYTY2NVBlOEZ5endwaDQ0NF80WWgxQmM4T0hEc1oyd1pucG1n?oc=5)
+
+---
+
 ### [MSD presenta 'Comprometidos con cada generación' para concienciar sobre la importancia de la inmunización](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
 
 2026-04-28 <span class="news-indication-tag">MS</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
-
----
-
-### [The 9 Best Plant-Based Foods for Protein, According to Nutritionists](https://news.google.com/rss/articles/CBMickFVX3lxTE96NkFNTWVYcHhqcFFXLVVJMzFTX3NFdzZramxHdXEwSUpFOGVoZzdWUDhOSEpuZ0hleThsUnhRaGFvWWFyUlpKVU9ibl9nSXJwTi1wR1dSeGJiYWxZWXlVSG5ITURaT013anBiYjFvWnV6Zw?oc=5)
-
-2026-04-28 <span class="news-indication-tag">MS</span>
-
-來源：[marthastewart.com](https://news.google.com/rss/articles/CBMickFVX3lxTE96NkFNTWVYcHhqcFFXLVVJMzFTX3NFdzZramxHdXEwSUpFOGVoZzdWUDhOSEpuZ0hleThsUnhRaGFvWWFyUlpKVU9ibl9nSXJwTi1wR1dSeGJiYWxZWXlVSG5ITURaT013anBiYjFvWnV6Zw?oc=5)
 
 ---
 
@@ -99,14 +115,6 @@ permalink: /news/velpatasvir/
 2026-04-28 <span class="news-indication-tag">hepatitis</span>
 
 來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
-
----
-
-### [Hay fever: Nine tips for coping with pollen and seasonal allergens](https://news.google.com/rss/articles/CBMimAFBVV95cUxPby11VWNXRGc1dno0SzJnb2RkQko4X2xLaGJETlpRTmVLUVlyUk5UdThfMDdicThIbFNuMEY2YWpIZF9MeHNsNGlxWFRiZjMwdjRZWEQ0T3dIUkZjU2lIR1NKVlJ4dXNoc1NiblJYaVByNHlmWlBaaFRhSGs3dXo4ajI3MG1rV1FRQ2t3cmN1amQzY3oyNkFiMQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMimAFBVV95cUxPby11VWNXRGc1dno0SzJnb2RkQko4X2xLaGJETlpRTmVLUVlyUk5UdThfMDdicThIbFNuMEY2YWpIZF9MeHNsNGlxWFRiZjMwdjRZWEQ0T3dIUkZjU2lIR1NKVlJ4dXNoc1NiblJYaVByNHlmWlBaaFRhSGs3dXo4ajI3MG1rV1FRQ2t3cmN1amQzY3oyNkFiMQ?oc=5)
 
 ---
 
@@ -174,11 +182,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Durchbruch bei Parkinson: Darmflora verrät Risiko Jahre vor Ausbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHlqb3FpVDhxRDFSRC1GZm5zakxQUVBaMnJNRUtoVHB6VTUtLUN4MG1wSE9zM0VVTmd2bXBoeHFQd0JYTkdrZGo2NDdMcGpNLTItUlFBSVcyME5vSXo4ZDFKckdQQnNaRzdhTDhERWFseENzczNVSnpFcXJzVERZN3VLRGFFQXNjRE1LYWxxbUFWQ01SOVdDbG9iOVhyZXpUcFB0X0w0WG1yOGJkclR4VHhCY21VMG43VXB4VFZiRUlVWEdncFE?oc=5)
+### [Früherkennung von Parkinson durch Darmflora: Neue Erkenntnisse](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUp2Q1ZvVUpLeWJpWENwZkVISjdfN2JfdDJzX3B1SGJsQkUxTEQ5ZG1JZlU1SFZvdFV4VW1hbDJpOVNodHJRekowYkYySXVYTkhPajFLNmNXSVgySDYxb1p3ZUdTcldCaUZYWF9KWkxQTWMzVm1jWTFxMDJHQU5ndV9yRmFMYmV5bWxJcVRlcHJ3NElIdzZ2eVZn?oc=5)
 
 2026-04-27 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHlqb3FpVDhxRDFSRC1GZm5zakxQUVBaMnJNRUtoVHB6VTUtLUN4MG1wSE9zM0VVTmd2bXBoeHFQd0JYTkdrZGo2NDdMcGpNLTItUlFBSVcyME5vSXo4ZDFKckdQQnNaRzdhTDhERWFseENzczNVSnpFcXJzVERZN3VLRGFFQXNjRE1LYWxxbUFWQ01SOVdDbG9iOVhyZXpUcFB0X0w0WG1yOGJkclR4VHhCY21VMG43VXB4VFZiRUlVWEdncFE?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUp2Q1ZvVUpLeWJpWENwZkVISjdfN2JfdDJzX3B1SGJsQkUxTEQ5ZG1JZlU1SFZvdFV4VW1hbDJpOVNodHJRekowYkYySXVYTkhPajFLNmNXSVgySDYxb1p3ZUdTcldCaUZYWF9KWkxQTWMzVm1jWTFxMDJHQU5ndV9yRmFMYmV5bWxJcVRlcHJ3NElIdzZ2eVZn?oc=5)
 
 ---
 
@@ -187,6 +195,14 @@ permalink: /news/velpatasvir/
 2026-04-27 <span class="news-indication-tag">MS</span>
 
 來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMikgJBVV95cUxPamhPb2ZKNFNOZ0NacFVXQkxRN3BvNDkzTTVLZmdRN2hlbFlGY2xaOWxNdXRXYWtRSjJfN0xmRnpacXJEYkNmUS0tSTdfZE1KTG9JaXJ2MVhScUlja0p1bXdGMnJxVGw5akdzUXpPNjQyMmd0RHczWVprOUNVaTNLNTZzVDVJRDExaG1sUkV6bTFPMTEzcVlheFY0c0VhV0YtMzh0VXhMb0d2UTRxVWRBN25URFAwZmxBU0o0bnV3dC1rV3hFU0Z1aHRVSzZBOTgtcEJ4Sm9LcnVxS2l4X1A2S2FHQzhwcEpCMUZId1V6cVl2VG1fWXoyX29XeV9LNE04M1FhclprZU1ZY2hrNEs3Uy1B?oc=5)
+
+---
+
+### [La pellicola adesiva che blocca i virus: può rivestire qualsiasi superficie per bloccare il contagio](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG11OVBPZ0wyb0hyQ3hNbG9vWkc4UVpMMTIzYnFwNmhjYmJXRzUyT3ZxSXhwU1hXYmItcnNiUFNMTW9RLXc5ZWxDbm5RSnF4UHpFRVVLN19YWFhsSjV3Y0J2YmtlNzBzNzRlWEZCNGNleWEtSkN6VkFLYWk0ZTFOSU9Vdk55bnRFd0FqVTQ0cjY3Nm5OeDRiUlY0aU14Wm5Ob05hUUtUbUtDMGlVSDdfZk0xWG14ZWc2a2kxdHJqMWliNENfYVlRNDVKVzg0ZExa?oc=5)
+
+2026-04-27 <span class="news-indication-tag">MS</span>
+
+來源：[DDay.it](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG11OVBPZ0wyb0hyQ3hNbG9vWkc4UVpMMTIzYnFwNmhjYmJXRzUyT3ZxSXhwU1hXYmItcnNiUFNMTW9RLXc5ZWxDbm5RSnF4UHpFRVVLN19YWFhsSjV3Y0J2YmtlNzBzNzRlWEZCNGNleWEtSkN6VkFLYWk0ZTFOSU9Vdk55bnRFd0FqVTQ0cjY3Nm5OeDRiUlY0aU14Wm5Ob05hUUtUbUtDMGlVSDdfZk0xWG14ZWc2a2kxdHJqMWliNENfYVlRNDVKVzg0ZExa?oc=5)
 
 ---
 
@@ -203,22 +219,6 @@ permalink: /news/velpatasvir/
 2026-04-27 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLTd4WGM4dkJCc3dtTFRqd0pOQjFuUklhV3pGNExxWEVsc0QzelpudGlKcjV6dXJPZmdKdnA2di1TMlpsXzkwMzJIcHRlWXllREN6OGxJWTFBbVR5ZGtwaldETS1vMHNCRUxTNmFULW00ZEVSbzIyVXpiOTN3ZDNUMUNqd252Skg3MzdEYjBHSDdMY3d1bkdsOGJIQzVCeXlYZ1c1M2g2REZIeGJLeDdWajVORThlVEUwZjlHWlgxZ3RNeVVCaktFQ1RPdWdGSTRZZDU2ZWZ6WXdEQ2xCdFljQjZiOHQ0MERoY3czMDlR?oc=5)
-
----
-
-### [Wirkstoff: Apilimod blockiert Viruseintritt in Leberzellen bei Hepatitis E](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">hepatitis</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1SRXpMa3BScTQyMWY4WDFpOEotY3phLThTYnU5aTYwUUIwMUs5V05RRE5ZV1M0Vjg2UDF3U3F3TVVtcE5yX25RMkV4WDEwUkJVN25nWGFhX08tcFVudW4wUC15dW92MXQwVHJOUUpmczFwdS0za3dCd0Ewc0pWM0tFcDFKdF9sc3BiQWhUcXUtUUh6VTBiLQ?oc=5)
-
----
-
-### [Lesetipp Heft 4/2026: Acht Tipps rund um eine gesunde Ernährung von Kindern mit ADHS - ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlU2elFJYWh4c0VkcTVjYnQ3RUV6TGVXdUxmR2pRZkRIemlleWVXM0gtWmJtbjdMLTJLOXBCM1BIWTI1QXFBTzlnVHV6SUV5NnhHeU5DbERkZER5Z1Zudy1KeUVuT1JybElIMUVyTTV3Zll4ZnVxcEFkWDRSWV9CLUF3d2VyanUzYlZWeWsyZDRaWTlJelRuSVlUeWQ0N3l0cGc?oc=5)
 
 ---
 

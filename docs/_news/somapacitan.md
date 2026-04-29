@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li>asthma（86.3%）</li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,23 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Asthma im höheren Lebensalter: Komorbiditäten und Defizite in der Krankheitskontrolle - Gelbe Liste](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFdSM0U3S1VUT2UyOVZjQTVfVGpXZEZ6NlY4TU0xLVJKRmpnTS02SnFtaE15ZHh0M3VyM0VwZ05KLUZmRmtJbHZXRFV3bDVhVkl6MndzS2ZyNTVZbldsSklaRlZvVV9Zc19ZT0huWk9OZmRCRlVjV0VoUXR4dXRCX1dNV0d5MklKdFNLdkFWQTJwcjg?oc=5)
+
+2026-04-29 <span class="news-indication-tag">asthma</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFdSM0U3S1VUT2UyOVZjQTVfVGpXZEZ6NlY4TU0xLVJKRmpnTS02SnFtaE15ZHh0M3VyM0VwZ05KLUZmRmtJbHZXRFV3bDVhVkl6MndzS2ZyNTVZbldsSklaRlZvVV9Zc19ZT0huWk9OZmRCRlVjV0VoUXR4dXRCX1dNV0d5MklKdFNLdkFWQTJwcjg?oc=5)
+
+---
+
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJOZm9nRXhud0Y3TXAzWHdWa2R2WHl6R09aYWRUSDZZbV83WnI1VjdiR2F1X1dTdlFaWkU3MUJERENzT3VUMENDRXpsSnhPdFlEZE9MRE5IbHJlYzE1elFtcGhmWVNkdy1SRmVsa2RnRkV4UFlEM0g2RTVvdkdzV1RxU3hfV0c0WWRkbENYTEg1T2NJNWpGTWp5ZEJpa0tvNERVUkIxOUJHUDZqYl9jRG1HTE1Mc1Jscnc5YmQ5SjdtVXVt?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJOZm9nRXhud0Y3TXAzWHdWa2R2WHl6R09aYWRUSDZZbV83WnI1VjdiR2F1X1dTdlFaWkU3MUJERENzT3VUMENDRXpsSnhPdFlEZE9MRE5IbHJlYzE1elFtcGhmWVNkdy1SRmVsa2RnRkV4UFlEM0g2RTVvdkdzV1RxU3hfV0c0WWRkbENYTEg1T2NJNWpGTWp5ZEJpa0tvNERVUkIxOUJHUDZqYl9jRG1HTE1Mc1Jscnc5YmQ5SjdtVXVt?oc=5)
+
+---
 
 ### [Diabetes: Männer erkranken früher, Frauen später und schwerer - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWI5QXlXU1hVdHZNaUp1aTJVSzk3UWZpRUgxeEI2LTJWZjE0elB5dVNJRjVlS3ZpTXZ4TzhqS0lKa1dKNTFMcWhCdlFRY2pSTS1hUHhydEtGM3luNW4zTVRnaGRwTXlMNEdMWkJEMUlBb2FzNDJnNC1IaC1sTmstTms1WWRRQ0Q1Uzl2cjI2RjRKTmJid1ZZQXlENkRvZTM5YU1Zck5YSklXY1htaUJZWUlfNlVNZGM0em1Ca1pFa2NoOWtX?oc=5)
 
@@ -83,14 +99,6 @@ permalink: /news/somapacitan/
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[Stimme](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUkpMNDl4Q3lidW45NjZIbWVranJJV1VydnhFQk83cktDMXhPVEw1eE5wRGFDdnhiSGxkRncwem82REVjZnZ5aEZlMkxlNEtrVHFEMGxNRDlRNDZYMlhKZ1BHWVhpeXUycnRSSTlmVjBSOGF2akxUQV9fX2ZKVGFDQjk5d21SN1RndHpoOG1tQ0dnenJBaWEzOVNXYXVMWEZfVnNwckhPMk1oajNvZGRuRnNTRTZSWndPQTl1XzdWbWdXcWFZQ2MxNERsWTlSVjhqLXBlTEJTRnFPQkJlWXFuSkNOVE8tMXUtU3hEVDkyd3NhTjVkMGh2NXV3?oc=5)
-
----
-
-### [SGLT-2-Hemmer: Neue Perspektiven in der Diabetes-Therapie](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
 
 ---
 

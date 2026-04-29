@@ -54,6 +54,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（7 則）
 
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJOZm9nRXhud0Y3TXAzWHdWa2R2WHl6R09aYWRUSDZZbV83WnI1VjdiR2F1X1dTdlFaWkU3MUJERENzT3VUMENDRXpsSnhPdFlEZE9MRE5IbHJlYzE1elFtcGhmWVNkdy1SRmVsa2RnRkV4UFlEM0g2RTVvdkdzV1RxU3hfV0c0WWRkbENYTEg1T2NJNWpGTWp5ZEJpa0tvNERVUkIxOUJHUDZqYl9jRG1HTE1Mc1Jscnc5YmQ5SjdtVXVt?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJOZm9nRXhud0Y3TXAzWHdWa2R2WHl6R09aYWRUSDZZbV83WnI1VjdiR2F1X1dTdlFaWkU3MUJERENzT3VUMENDRXpsSnhPdFlEZE9MRE5IbHJlYzE1elFtcGhmWVNkdy1SRmVsa2RnRkV4UFlEM0g2RTVvdkdzV1RxU3hfV0c0WWRkbENYTEg1T2NJNWpGTWp5ZEJpa0tvNERVUkIxOUJHUDZqYl9jRG1HTE1Mc1Jscnc5YmQ5SjdtVXVt?oc=5)
+
+---
+
 ### [Diabetes: Männer erkranken früher, Frauen später und schwerer - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWI5QXlXU1hVdHZNaUp1aTJVSzk3UWZpRUgxeEI2LTJWZjE0elB5dVNJRjVlS3ZpTXZ4TzhqS0lKa1dKNTFMcWhCdlFRY2pSTS1hUHhydEtGM3luNW4zTVRnaGRwTXlMNEdMWkJEMUlBb2FzNDJnNC1IaC1sTmstTms1WWRRQ0Q1Uzl2cjI2RjRKTmJid1ZZQXlENkRvZTM5YU1Zck5YSklXY1htaUJZWUlfNlVNZGM0em1Ca1pFa2NoOWtX?oc=5)
 
 2026-04-28 <span class="news-indication-tag">diabetes</span>
@@ -99,14 +107,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-27 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
-
----
-
-### [SGLT-2-Hemmer: Neue Perspektiven in der Diabetes-Therapie](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
 
 ---
 

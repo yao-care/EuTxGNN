@@ -54,6 +54,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（6 則）
 
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJOZm9nRXhud0Y3TXAzWHdWa2R2WHl6R09aYWRUSDZZbV83WnI1VjdiR2F1X1dTdlFaWkU3MUJERENzT3VUMENDRXpsSnhPdFlEZE9MRE5IbHJlYzE1elFtcGhmWVNkdy1SRmVsa2RnRkV4UFlEM0g2RTVvdkdzV1RxU3hfV0c0WWRkbENYTEg1T2NJNWpGTWp5ZEJpa0tvNERVUkIxOUJHUDZqYl9jRG1HTE1Mc1Jscnc5YmQ5SjdtVXVt?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJOZm9nRXhud0Y3TXAzWHdWa2R2WHl6R09aYWRUSDZZbV83WnI1VjdiR2F1X1dTdlFaWkU3MUJERENzT3VUMENDRXpsSnhPdFlEZE9MRE5IbHJlYzE1elFtcGhmWVNkdy1SRmVsa2RnRkV4UFlEM0g2RTVvdkdzV1RxU3hfV0c0WWRkbENYTEg1T2NJNWpGTWp5ZEJpa0tvNERVUkIxOUJHUDZqYl9jRG1HTE1Mc1Jscnc5YmQ5SjdtVXVt?oc=5)
+
+---
+
 ### [Molécula natural podría ofrecer una alternativa a Ozempic](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
 
 2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
@@ -91,14 +99,6 @@ permalink: /news/semaglutide/
 2026-04-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[Stimme](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUkpMNDl4Q3lidW45NjZIbWVranJJV1VydnhFQk83cktDMXhPVEw1eE5wRGFDdnhiSGxkRncwem82REVjZnZ5aEZlMkxlNEtrVHFEMGxNRDlRNDZYMlhKZ1BHWVhpeXUycnRSSTlmVjBSOGF2akxUQV9fX2ZKVGFDQjk5d21SN1RndHpoOG1tQ0dnenJBaWEzOVNXYXVMWEZfVnNwckhPMk1oajNvZGRuRnNTRTZSWndPQTl1XzdWbWdXcWFZQ2MxNERsWTlSVjhqLXBlTEJTRnFPQkJlWXFuSkNOVE8tMXUtU3hEVDkyd3NhTjVkMGh2NXV3?oc=5)
-
----
-
-### [SGLT-2-Hemmer: Neue Perspektiven in der Diabetes-Therapie](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxNellCcXRHNGVQeDktMHFoY21uak5pRnAtanRBZkdrSUlFbXlOZ1pUY3FrRGZKREJValFfaWlndHZXX21pX3FnMVlNSWFLbFEtSl9XeVkyd1JxNmkxVmgzVlhNVGFHMkhaWWdUSzdmRGtSeE5uUHhOV3hqOWN2Wnl6dHBhcEJ0cHBGOXNXUm5YTlU4QQ?oc=5)
 
 ---
 

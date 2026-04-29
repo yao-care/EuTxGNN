@@ -54,11 +54,51 @@ permalink: /news/bimatoprost/
 
 ## 相關新聞（24 則）
 
+### [Infrarotlicht aktiviert Nano-Medikament: Nanozyme gegen Hirntumore - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnE2QzZzR3F1U1BxTTZyZzJwN21VbFVVd0g5X1QyUU55UmFRYjg1Z00zaTlOd0M2REJpZmxUazJhSGtWQ1J3cExiSDN3N0J3Uy0yQlBoV3hrOEVDWjNCR25keDRYTF9iS0dVZUJZczVLZUVrTHd2N3B3b2t0aTR4THdpVVVNUlJiNnBQWGl0cnVLbnVWUS1EbmFwZGhkZXJTel96eTdYT3RfZGV0TmNvdk5WZEVPVnVQME04NnFmTFo?oc=5)
+
+2026-04-29 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnE2QzZzR3F1U1BxTTZyZzJwN21VbFVVd0g5X1QyUU55UmFRYjg1Z00zaTlOd0M2REJpZmxUazJhSGtWQ1J3cExiSDN3N0J3Uy0yQlBoV3hrOEVDWjNCR25keDRYTF9iS0dVZUJZczVLZUVrTHd2N3B3b2t0aTR4THdpVVVNUlJiNnBQWGl0cnVLbnVWUS1EbmFwZGhkZXJTel96eTdYT3RfZGV0TmNvdk5WZEVPVnVQME04NnFmTFo?oc=5)
+
+---
+
+### [Neues Virus entdeckt: Coronavirus mit neuartigen Eigenschaften - Warnung vor CcCoV-KY43](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbTBRTVVSbG8xM3R4Sy1xbDRxUHlCbjZ6YzhOUEx1TmtjNUczUmhWalhLaGtCZXFXcGh5alFEZVhIaVVyekFxS0YxVEFxeDNwUG43czBLS3NLLTdick95azBOOURFSUFHeEdhdVJCaXdoV21rVVhQUkJGa3NYY2xHY3lXUkQzY1lNZTd6OUREUzVQMUhtR2hnMTJiY1FJZVhFSzRZektMWnhfdkdjN2c5OU1qSHJHNnBfTnZFM1NjRG1sNlU2QjRIdTluNlNsVmdGcVNWd0tnd1BLRUxBZFNSb3ZtVDRqRV9jWHhWbFRxdk43b0510gH6AUFVX3lxTFBLVU1kRVpUQ0xxUHZ5LTJ2akltalNtQ2Rtbno3Z2I1d1I3c2VDc2h6S1h5Vnh6NHEtRnhodndza0RfWllmWjFweUhLdXAtTXo5NDk3YjBNWWZ2b1dNbzNWenYyZGNlVnNJSDQ4RUtNZU5zblM1UzRrMlNrdUQ0LXZoVHVPQzdmV0YtdFctMDNkcU9mV2VzWXBMVTZ0SW5UMmZnQ0g0LWRLYVZZR2RnaHVGZFA0eTQyQ1JXc214X0hpOThNMGduSTRrVlAwOEFvdVROSndMTjNENFd4aFJpU19UZF9GeDBOQmxodEt2RDRCTnV4UHJIVS00Tmc?oc=5)
+
+2026-04-29 <span class="news-indication-tag">AF</span>
+
+來源：[News.de](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbTBRTVVSbG8xM3R4Sy1xbDRxUHlCbjZ6YzhOUEx1TmtjNUczUmhWalhLaGtCZXFXcGh5alFEZVhIaVVyekFxS0YxVEFxeDNwUG43czBLS3NLLTdick95azBOOURFSUFHeEdhdVJCaXdoV21rVVhQUkJGa3NYY2xHY3lXUkQzY1lNZTd6OUREUzVQMUhtR2hnMTJiY1FJZVhFSzRZektMWnhfdkdjN2c5OU1qSHJHNnBfTnZFM1NjRG1sNlU2QjRIdTluNlNsVmdGcVNWd0tnd1BLRUxBZFNSb3ZtVDRqRV9jWHhWbFRxdk43b0510gH6AUFVX3lxTFBLVU1kRVpUQ0xxUHZ5LTJ2akltalNtQ2Rtbno3Z2I1d1I3c2VDc2h6S1h5Vnh6NHEtRnhodndza0RfWllmWjFweUhLdXAtTXo5NDk3YjBNWWZ2b1dNbzNWenYyZGNlVnNJSDQ4RUtNZU5zblM1UzRrMlNrdUQ0LXZoVHVPQzdmV0YtdFctMDNkcU9mV2VzWXBMVTZ0SW5UMmZnQ0g0LWRLYVZZR2RnaHVGZFA0eTQyQ1JXc214X0hpOThNMGduSTRrVlAwOEFvdVROSndMTjNENFd4aFJpU19UZF9GeDBOQmxodEt2RDRCTnV4UHJIVS00Tmc?oc=5)
+
+---
+
+### [Síndrome invdup15q: un exceso de información genética que afecta al desarrollo del cerebro - The Conversation](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbW44VjNyc05BQ3V4dXowN1kyalItOWgyLUdNdjZZWHpsMVFFSFkzeVBTck56UV9fa1VDaUFkaFIzVXRjZHhzcTVnYkc3a04zMkFfNnQxWkFGSUFlcXlXTzBIQkxwY3J5TUNjdm13V0ZSQTRWcjNsMGcyYkFNWGlKQ3A3eDdFbDFKbXNVaFEzZjcxLUtQSWdSalh5dEZpZUgybVVRNFlpSjk2aDFvdVB0bkZMTVFkdFM5TTJMTHRLRzNNQQ?oc=5)
+
+2026-04-29 <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbW44VjNyc05BQ3V4dXowN1kyalItOWgyLUdNdjZZWHpsMVFFSFkzeVBTck56UV9fa1VDaUFkaFIzVXRjZHhzcTVnYkc3a04zMkFfNnQxWkFGSUFlcXlXTzBIQkxwY3J5TUNjdm13V0ZSQTRWcjNsMGcyYkFNWGlKQ3A3eDdFbDFKbXNVaFEzZjcxLUtQSWdSalh5dEZpZUgybVVRNFlpSjk2aDFvdVB0bkZMTVFkdFM5TTJMTHRLRzNNQQ?oc=5)
+
+---
+
+### [Earlier specialised care could prevent 10,000 miscarriages a year, UK study finds - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmlkS0FzT2dtZXFNUHNTUWtnWk44amtKcDVKTm5RVHVXWTl4T2xaVU5BUzU5Y1Ztc1BzaWtGdmZZMC1FaXBWNGFfME5sbFlpcFZsOFBQWHE4anZCNHhBUmpaeDhlR1hLQWpLQXlUS3Q1WFVaN1FKUmItMmsweTVUbV9rbFU0a2d3cDI2Vy12MllWb1FWemUtTQ?oc=5)
+
+2026-04-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmlkS0FzT2dtZXFNUHNTUWtnWk44amtKcDVKTm5RVHVXWTl4T2xaVU5BUzU5Y1Ztc1BzaWtGdmZZMC1FaXBWNGFfME5sbFlpcFZsOFBQWHE4anZCNHhBUmpaeDhlR1hLQWpLQXlUS3Q1WFVaN1FKUmItMmsweTVUbV9rbFU0a2d3cDI2Vy12MllWb1FWemUtTQ?oc=5)
+
+---
+
 ### [Pertussis-Prävention in der Schwangerschaft - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHFLa3M2eFNsY2tFRTk4dkpyVWZnQjEtc011eVRqazRwdG03ZnBRUUc4TnAyREJaal9MN0ZsV2Z2YTZsTElKXzdRRWdKaTBPeHNLZ3ZaYjZRUTR3UXE0Y05hajFhSktZUEJCVVoycXQ4OWsycFEzcTNYX3BTa1pDZW5senI5NHF4bWh4NzRtQ1NaV2IzS0ZFRlRPWUNLMlBsVGZOSVp3?oc=5)
 
 2026-04-29 <span class="news-indication-tag">AF</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHFLa3M2eFNsY2tFRTk4dkpyVWZnQjEtc011eVRqazRwdG03ZnBRUUc4TnAyREJaal9MN0ZsV2Z2YTZsTElKXzdRRWdKaTBPeHNLZ3ZaYjZRUTR3UXE0Y05hajFhSktZUEJCVVoycXQ4OWsycFEzcTNYX3BTa1pDZW5senI5NHF4bWh4NzRtQ1NaV2IzS0ZFRlRPWUNLMlBsVGZOSVp3?oc=5)
+
+---
+
+### [Scientists Discover Life-Changing Side Effect Of Eating Eggs For Alzheimer Treatment - Bored Panda](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaW9TUExEd25vLW14dEhWeTVwRjVqUTJZamFFLVpVYmczX1ltS3BkNUhlZ2piQXNsbUNYZDhQUjRxeGh3V1FfZnlkRXIyQzk0QU5uaHZHV0lXRjhTdlRyZHViUWMzOVdYOW0tR2Z0RWc2eElfTkZLMVo0R2NLVWlpSmFLWlNiRGh1WWQyMHFkYTY2NVBlOEZ5endwaDQ0NF80WWgxQmM4T0hEc1oyd1pucG1n?oc=5)
+
+2026-04-28 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMisgFBVV95cUxPaW9TUExEd25vLW14dEhWeTVwRjVqUTJZamFFLVpVYmczX1ltS3BkNUhlZ2piQXNsbUNYZDhQUjRxeGh3V1FfZnlkRXIyQzk0QU5uaHZHV0lXRjhTdlRyZHViUWMzOVdYOW0tR2Z0RWc2eElfTkZLMVo0R2NLVWlpSmFLWlNiRGh1WWQyMHFkYTY2NVBlOEZ5endwaDQ0NF80WWgxQmM4T0hEc1oyd1pucG1n?oc=5)
 
 ---
 
@@ -86,11 +126,19 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [La clamidia y la gonorrea son las ITS más diagnosticadas en jóvenes en el Vall d'Hebron](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMW5ub0hQLVhEYlQ2YUxsc0ctYUxpRVFleUt2a3V6YllTODM3WXNwLW9SWmRQQmhFSTA1bnFBOFVmdzRhSTdHNzJhVFJ5ZTg5UjhVME96dl9USTVGQTRNamxPcnBEWGNqVVNuVm1oVkEyUEM4eVdyWkpWNEg5TkZxYjFocGFrYU5zRWlTWEQyM0Y2cVY0VVVrelpZRld3NU9KQUhPY2RydHg?oc=5)
+### [Dad battling cancer left in the dark about treatment as staff 'went on holiday' - North Norfolk News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPandOelJaZk53MzU4ZHlkZHliQzlEekFublRvaGczVUxQbVRyS08xRmR5Sm0xSkNIVnJSMDloUlUxYmNIaUp5Z2VzTkplMjROTlJxenREWVJZSjFkUWgxUUh4cUR0VW5NVjhZajd2ZmoyaVRFOUJmamxnMjRnSkVsS05NNGd3YWNiNm1PZk43V0g?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[North Norfolk News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPandOelJaZk53MzU4ZHlkZHliQzlEekFublRvaGczVUxQbVRyS08xRmR5Sm0xSkNIVnJSMDloUlUxYmNIaUp5Z2VzTkplMjROTlJxenREWVJZSjFkUWgxUUh4cUR0VW5NVjhZajd2ZmoyaVRFOUJmamxnMjRnSkVsS05NNGd3YWNiNm1PZk43V0g?oc=5)
+
+---
+
+### [30 giorni senza caffè, cosa succede davvero al nostro corpo?](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KT3pfMm15alZsTVZGeUNlSUpORC1Tbkp2ejlwOFRGTzEwWTVGTF9PR3VsWkVrekdLdE9rdVZ2eTIzWEJOY1BPb21VTDhZU1FxT185U3ZYNGFncFRCQlRITEs5ZlVWVWdr0gFuQVVfeXFMTWt0NVA2TWxxVl9OU0pPOFVkbUxBckN4bF9IZ2d0QTJmak5jUXpnRFc4YW5VTGEtMGVrdkR1X0JXZWd3QjRQSHNTQVptcUhhbkIxbUR1QkJwNHFPRWEwLVJGU2hFMWVpQ0JLZ1VjU2c?oc=5)
 
 2026-04-28 <span class="news-indication-tag">AF</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMW5ub0hQLVhEYlQ2YUxsc0ctYUxpRVFleUt2a3V6YllTODM3WXNwLW9SWmRQQmhFSTA1bnFBOFVmdzRhSTdHNzJhVFJ5ZTg5UjhVME96dl9USTVGQTRNamxPcnBEWGNqVVNuVm1oVkEyUEM4eVdyWkpWNEg5TkZxYjFocGFrYU5zRWlTWEQyM0Y2cVY0VVVrelpZRld3NU9KQUhPY2RydHg?oc=5)
+來源：[DiLei](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KT3pfMm15alZsTVZGeUNlSUpORC1Tbkp2ejlwOFRGTzEwWTVGTF9PR3VsWkVrekdLdE9rdVZ2eTIzWEJOY1BPb21VTDhZU1FxT185U3ZYNGFncFRCQlRITEs5ZlVWVWdr0gFuQVVfeXFMTWt0NVA2TWxxVl9OU0pPOFVkbUxBckN4bF9IZ2d0QTJmak5jUXpnRFc4YW5VTGEtMGVrdkR1X0JXZWd3QjRQSHNTQVptcUhhbkIxbUR1QkJwNHFPRWEwLVJGU2hFMWVpQ0JLZ1VjU2c?oc=5)
 
 ---
 
@@ -99,6 +147,14 @@ permalink: /news/bimatoprost/
 2026-04-28 <span class="news-indication-tag">AF</span>
 
 來源：[Vital.de](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRTVMazNTcVdVYkFldTJhYmZEY0dGRWoyZFREMk4xZFBLYTE4UTY2SmgzNGpJTkwwQW5peVhVVHVXUUxvamZqRXJLZm5Fc3NlWl82dDg4REYta1dqeUpKYkF0R19lSVhlMWVnbENKbk53anIyeFZCUWxxZHVvNU9sWWJ0M3dEYnRmZHE4cGJEbXFTWU91dkswLVB3UWtWc1Vsenp6X2g3X2VyUEFLdFZCWlpWSW1IUnJBTWlFcWkyT0J1UFMtSlI4cXBSWGFSS3ZPNVA5T3FVemVxSWhUaHNhNFdISQ?oc=5)
+
+---
+
+### [La clamidia y la gonorrea son las ITS más frecuentes entre los adolescentes de una media de edad de 16 años - La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNzNYVnhSbGNzeG5fYnRXRGlQS21aT3RGZ3hpTEpOZmF1cmJQLVBkSHZJT1VSRVB1VFdhMThQbkVuUjdTWTJJQUFSeXhpNFRUY0pVQ1ZCbDFKdjhPWnl1MUlNbmw4bERZYzV6bnBsdDJmV3hkcUlnX25oZGVjR3hoN2hWU2x6ZVhsU1hid2dIMWpfNXJtcEJUMlVyNURLLUFUWWQ3RVdqUnROTGltMkZSWDNPUjZiQTFXT2EwOE9oTlNfSW95Nk1CbHF5Y1JqeGRMZEdfaEgxS1U3UdIB7gFBVV95cUxPWGhlelItRTVHb3cxQVd3LVlnY0pwa215Q2VIUk5SdXkzQzNPV1NXdEJiZFluc1UyTWdsZXo1MVBLNFdzMW9EN2g5ZUo5X1JxY1ZOMVF6bXRkYkxNaTlFVVdaRGswV0NSMHRkSUlpeFVldEdhZVo3SkFRSTFQNHBhcEJKQUptVERZOWtjbm9PaXJpaXhGNHVxbVF2UU1jSzZmTkctcDRDelpUUEI0M2x4eEg3RGU5U3hNaE9hYWZoMlZfV3RjWnZIY09USG5ZZVFNYkprVjdMMlR1WnpzRGVCOGRKeE1qdTFEWF94ZEhn?oc=5)
+
+2026-04-28 <span class="news-indication-tag">AF</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNzNYVnhSbGNzeG5fYnRXRGlQS21aT3RGZ3hpTEpOZmF1cmJQLVBkSHZJT1VSRVB1VFdhMThQbkVuUjdTWTJJQUFSeXhpNFRUY0pVQ1ZCbDFKdjhPWnl1MUlNbmw4bERZYzV6bnBsdDJmV3hkcUlnX25oZGVjR3hoN2hWU2x6ZVhsU1hid2dIMWpfNXJtcEJUMlVyNURLLUFUWWQ3RVdqUnROTGltMkZSWDNPUjZiQTFXT2EwOE9oTlNfSW95Nk1CbHF5Y1JqeGRMZEdfaEgxS1U3UdIB7gFBVV95cUxPWGhlelItRTVHb3cxQVd3LVlnY0pwa215Q2VIUk5SdXkzQzNPV1NXdEJiZFluc1UyTWdsZXo1MVBLNFdzMW9EN2g5ZUo5X1JxY1ZOMVF6bXRkYkxNaTlFVVdaRGswV0NSMHRkSUlpeFVldEdhZVo3SkFRSTFQNHBhcEJKQUptVERZOWtjbm9PaXJpaXhGNHVxbVF2UU1jSzZmTkctcDRDelpUUEI0M2x4eEg3RGU5U3hNaE9hYWZoMlZfV3RjWnZIY09USG5ZZVFNYkprVjdMMlR1WnpzRGVCOGRKeE1qdTFEWF94ZEhn?oc=5)
 
 ---
 
@@ -126,27 +182,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Neuartiges Virus entdeckt: Coronavirus mit neuen Eigenschaften - Warnung vor CcCoV-KY43](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRFhoN3Flbks1MFJBeG9wWkpDcXY3NXBUSHM1ajR5bjN6RjNpUFJmMkQ2N0xZcFdOY2t1eU9fYlhRVEdGcm1IWldDOVJLcDFUQzhUcDlEaDBtVGJRNWY2bjFiZl9pVWJ0LUMxYnI3S0gzVnBYc1h4eUk5TWZRbmx3OTFTXzVQUjZHN0tWaGpxSmh3b1pnZFVJaUp3cDdPNy1XWFJWQ2kzWkstWVVEdGU2bUJFTGRIWjRNMjAtTEluWkthRHBOYmo4UjVfdURHVUVqTjNOUnBJY3BqY3ZvY2w2MVdvRUNrN1lGbkFyONIB8gFBVV95cUxNZ3pkUTdmMU51Xy1GTU9SS1d0aElXWENUd0ZMbzRVNzBzUTZ1VlM2Szh2MlFzTGZUTkIzSkNWMVhlV3VRRkN0dUxhaFpPQWFaRW9nWGR5Yk51M05CX3ZTdnZnMHZyYVR0QVNMdUJ2WUJMSFdlVmJmTG56ZGVGNkRWLWlzZ2gtaVdoZldPS1R0ZGZZQ2JlTC1wY0xSSjNaS2g3d1JxdnhjWUVtRUtLN1o4MkFSdnhZZXMyX0xjbG1qNUFWd3djcVZKalRuN01FQVBxYk5HZk9PYVhSTjRqR0duOUNQT3A3OEtzT0VlTU1CZm5NQQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">AF</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRFhoN3Flbks1MFJBeG9wWkpDcXY3NXBUSHM1ajR5bjN6RjNpUFJmMkQ2N0xZcFdOY2t1eU9fYlhRVEdGcm1IWldDOVJLcDFUQzhUcDlEaDBtVGJRNWY2bjFiZl9pVWJ0LUMxYnI3S0gzVnBYc1h4eUk5TWZRbmx3OTFTXzVQUjZHN0tWaGpxSmh3b1pnZFVJaUp3cDdPNy1XWFJWQ2kzWkstWVVEdGU2bUJFTGRIWjRNMjAtTEluWkthRHBOYmo4UjVfdURHVUVqTjNOUnBJY3BqY3ZvY2w2MVdvRUNrN1lGbkFyONIB8gFBVV95cUxNZ3pkUTdmMU51Xy1GTU9SS1d0aElXWENUd0ZMbzRVNzBzUTZ1VlM2Szh2MlFzTGZUTkIzSkNWMVhlV3VRRkN0dUxhaFpPQWFaRW9nWGR5Yk51M05CX3ZTdnZnMHZyYVR0QVNMdUJ2WUJMSFdlVmJmTG56ZGVGNkRWLWlzZ2gtaVdoZldPS1R0ZGZZQ2JlTC1wY0xSSjNaS2g3d1JxdnhjWUVtRUtLN1o4MkFSdnhZZXMyX0xjbG1qNUFWd3djcVZKalRuN01FQVBxYk5HZk9PYVhSTjRqR0duOUNQT3A3OEtzT0VlTU1CZm5NQQ?oc=5)
-
----
-
 ### [Cómo la esclerosis múltiple provoca la muerte neuronal - GAEM (Grupo de Afectados de Esclerosis Múltiple)](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
 
 2026-04-28 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
 
 來源：[fundaciongaem.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
-
----
-
-### [Vaping may be more dangerous than smoking cigarettes say health experts](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzZkRFNYWFA0V05weWtPY2sxdDF4WFlGdGRwcnJTWnk2OXY5NGl2Q0h4VGRtcFpDWXExcHBvSjZFWjhIV1Y0YlNMT1FaTGtyeVZESlc4OFdRal84RWc3cTdVcDFpY0VKVU5rSTFVRkNUX21jUEk2RFRkaXd0X2toVVRCS1BxV0ZLZGJjaHBBOXJUV1NxQmxYaGFtVFNUVUhzeHFWcWl2OWs?oc=5)
-
-2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[InYourArea](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzZkRFNYWFA0V05weWtPY2sxdDF4WFlGdGRwcnJTWnk2OXY5NGl2Q0h4VGRtcFpDWXExcHBvSjZFWjhIV1Y0YlNMT1FaTGtyeVZESlc4OFdRal84RWc3cTdVcDFpY0VKVU5rSTFVRkNUX21jUEk2RFRkaXd0X2toVVRCS1BxV0ZLZGJjaHBBOXJUV1NxQmxYaGFtVFNUVUhzeHFWcWl2OWs?oc=5)
 
 ---
 
@@ -174,35 +214,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [4 Morning Exercises That Restore Leg Muscle Faster Than Squats After 55 - Eat This Not That](https://news.google.com/rss/articles/CBMiekFVX3lxTE4wbDhYbGNVdG9uT1lWWGljLXlxZ3EwU2JCVVQ5MGZpY0J5VTZZRTdXWGpuSzVvb01vRGpFVUtYa191Mzg5TzBEaXB2bFpBbUs5Rmk4NFM1OXkzck9NOG1VWW5Nc2dmRlcweWgxclk2bHQxVXcyczVvRnJ3?oc=5)
-
-2026-04-27 <span class="news-indication-tag">AF</span>
-
-來源：[Eat This Not That](https://news.google.com/rss/articles/CBMiekFVX3lxTE4wbDhYbGNVdG9uT1lWWGljLXlxZ3EwU2JCVVQ5MGZpY0J5VTZZRTdXWGpuSzVvb01vRGpFVUtYa191Mzg5TzBEaXB2bFpBbUs5Rmk4NFM1OXkzck9NOG1VWW5Nc2dmRlcweWgxclk2bHQxVXcyczVvRnJ3?oc=5)
-
----
-
-### [Le zanzare hanno le ore contate](https://news.google.com/rss/articles/CBMikwFBVV95cUxOalN0WjVjNEhad2dMdE44WHAxQ1A3dzNONG5NdkZCSS1XQURwUXE4TkxqZXhTemNzbzNTYkNwYzAyTC05UHVMUzRGbXVWcVhYcl9yTVpKNjhZc2VXbWVkTTVQeVZpWFMzMV9QdFVTRW91aDVXTGs3NlJpZ1FURkViY1p5UUNmV0JiYm9mSGF1NGdBc00?oc=5)
-
-2026-04-27 <span class="news-indication-tag">AF</span>
-
-來源：[Polesine24](https://news.google.com/rss/articles/CBMikwFBVV95cUxOalN0WjVjNEhad2dMdE44WHAxQ1A3dzNONG5NdkZCSS1XQURwUXE4TkxqZXhTemNzbzNTYkNwYzAyTC05UHVMUzRGbXVWcVhYcl9yTVpKNjhZc2VXbWVkTTVQeVZpWFMzMV9QdFVTRW91aDVXTGs3NlJpZ1FURkViY1p5UUNmV0JiYm9mSGF1NGdBc00?oc=5)
-
----
-
 ### [I threw up all over my car and suffered pain 'worse than childbirth' - I had no idea my caffeine fix was to blame - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOcTFUWVc5bGlUMWo3N0dUcTdEcU03Qkt3T1ZEUWRjZWFWTTY2dlVKQ2Zzekpud1c1Ym5LbW9USlQyTGVCZGlhbDVlTElteURIVWlBSDFhTWNHNGFPRTVhWW5rOHl2bWZoRmcwcFFmRDFGdURXZ3B1MFdUcTRmS3RZVENLM1R4cHpubUxGdWVFZ3NOZw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOcTFUWVc5bGlUMWo3N0dUcTdEcU03Qkt3T1ZEUWRjZWFWTTY2dlVKQ2Zzekpud1c1Ym5LbW9USlQyTGVCZGlhbDVlTElteURIVWlBSDFhTWNHNGFPRTVhWW5rOHl2bWZoRmcwcFFmRDFGdURXZ3B1MFdUcTRmS3RZVENLM1R4cHpubUxGdWVFZ3NOZw?oc=5)
-
----
-
-### [Seven llamas culled after TB outbreak at trekking experience - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0JldTQ5MXlKTi1kS1lPdzBzc19OMW1TZWRRWDRqZVVxTFhJdklneE9YeFUxUmYzUTAtWk1SYnJvRml1WHRkbElJMHRYTTQ3d0w4ME12dmJSNGlvajF5VFRYTUthcWFsMHBEdUFmR3l6Wmx1cGdxYV9lQUV1XzZJOG9DZUVlT1NpMmtGQlQ5ajBUeUtPbHZrUmlwUTc?oc=5)
-
-2026-04-27 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0JldTQ5MXlKTi1kS1lPdzBzc19OMW1TZWRRWDRqZVVxTFhJdklneE9YeFUxUmYzUTAtWk1SYnJvRml1WHRkbElJMHRYTTQ3d0w4ME12dmJSNGlvajF5VFRYTUthcWFsMHBEdUFmR3l6Wmx1cGdxYV9lQUV1XzZJOG9DZUVlT1NpMmtGQlQ5ajBUeUtPbHZrUmlwUTc?oc=5)
 
 ---
 
@@ -227,22 +243,6 @@ permalink: /news/bimatoprost/
 2026-04-27 <span class="news-indication-tag">AF</span>
 
 來源：[DiLei](https://news.google.com/rss/articles/CBMifkFVX3lxTE15RVJFSDRyZ1ZVTmU2Y0I2UHBFenRiWHJCS19QcThRU3RLVTdtdlA0aXJSTFkzaHBMZTFTeFBzZkRpb0c2cS1mMjJqazB6LWh3NHVud005am03WngtT29GQm9oTUJIeGxLX19CNVlReTN0TlkyUHNXZXZSVXo0d9IBgwFBVV95cUxPNDYtNkIwUnBoVFZjM1lyREhMdGVac2I5bTdya2dCYmFucFRaTTY3aFNfdUg3QlhUYjBUVjYxUXBnWE5YSnBvZ0kwVE16VlhJdmJQVEkwOERNeU9taGhITGJFRHZqOUE1X2xfS3lWbkdZSTFSNDlSS1NBOGl4dVI4aUlVQQ?oc=5)
-
----
-
-### [Per il grafene è la volta buona di rivoluzionare il mondo? - Scienza in rete](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0d4LWVqNWRGLVRQRHd6RXVSSmxZWi1PYXlaNUpiZXVJWC1QeHh5dXNGZ0lRVHdLYUNnMmljRUw1RzJITVozVTBScjhadVBVWXpGTzZEODM3ajdKYUlFbjJidG9EVGdFZTR0amI4STAwWnV5SVF0YUFnSmh5clFVS2RRR0lVQ0REelpSaEUyeFZNd2dZZ2VZUTg5TVpYbUJNaWktLTNUb0d0Ylk?oc=5)
-
-2026-04-27 <span class="news-indication-tag">AF</span>
-
-來源：[Scienza in rete](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0d4LWVqNWRGLVRQRHd6RXVSSmxZWi1PYXlaNUpiZXVJWC1QeHh5dXNGZ0lRVHdLYUNnMmljRUw1RzJITVozVTBScjhadVBVWXpGTzZEODM3ajdKYUlFbjJidG9EVGdFZTR0amI4STAwWnV5SVF0YUFnSmh5clFVS2RRR0lVQ0REelpSaEUyeFZNd2dZZ2VZUTg5TVpYbUJNaWktLTNUb0d0Ylk?oc=5)
-
----
-
-### [Home blood pressure checks could reduce risks after hypertensive pregnancy | Women's health - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2FtNmg1TkNDdHJoSEswVE8zMURoSEltNWZmejJrbXg1d0tWUHZwWE9wWFJsN0c2bjJ5bWR2NjI5Sk1waVB0b3hDT1RVa29Kb1dqeUtGTXkzbW5WMXBYNnBCS1N3ODZncTlPTXB1NzU0NmwyVmRJbEhDYnJKcDRwdnBjdERuUGpLdW4ySGdQOWZzMVhMLW9iRHBSbUZ6eElaNHM4SFl6NFRVZmRTQWN3?oc=5)
-
-2026-04-27 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2FtNmg1TkNDdHJoSEswVE8zMURoSEltNWZmejJrbXg1d0tWUHZwWE9wWFJsN0c2bjJ5bWR2NjI5Sk1waVB0b3hDT1RVa29Kb1dqeUtGTXkzbW5WMXBYNnBCS1N3ODZncTlPTXB1NzU0NmwyVmRJbEhDYnJKcDRwdnBjdERuUGpLdW4ySGdQOWZzMVhMLW9iRHBSbUZ6eElaNHM4SFl6NFRVZmRTQWN3?oc=5)
 
 ---
 
