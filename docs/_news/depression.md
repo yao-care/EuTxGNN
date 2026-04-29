@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Scientists Reveal Exactly How Many Cups of Coffee a Day Are Needed to Reduce Stress and Depression - Indian Defence Review](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUdGRkOFkzaGJ5cnBOalBDUFhUZ1Q4YlZWdjUwY3RuR1RXbjdjbGlzMEhfVjZBaTg5NEJlSHVDNnk0NmRkZHhVUmQ4bkthNlE4d3ZSNXN6R3EyOGd0d1pzbno5RGFtOUh5OFlKVnhpcHFLTXNIb25JLXFPQ0JOS1p3?oc=5)
+
+2026-04-29
+
+來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGZUdGRkOFkzaGJ5cnBOalBDUFhUZ1Q4YlZWdjUwY3RuR1RXbjdjbGlzMEhfVjZBaTg5NEJlSHVDNnk0NmRkZHhVUmQ4bkthNlE4d3ZSNXN6R3EyOGd0d1pzbno5RGFtOUh5OFlKVnhpcHFLTXNIb25JLXFPQ0JOS1p3?oc=5)
+
+---
 
 ### [La obesidad afecta ya a una cuarta parte de la población en España y los expertos alertan de su aumento - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
 
@@ -45,11 +53,11 @@ permalink: /news/depression/
 
 ---
 
-### [«Il prurito come una malattia, può portare ansia e depressione: ecco tutte le cause e come va curato» - Il Messaggero](https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVE4X1BRUldDal9vYm52YmNIZDVQY3dHN2R6N21tSlZRcUdiQW14UzJ6NGV5aGI2N0xiWDAxLTRkc21MVjRyWTJrMzE4Vlp1REtlWU5lTjNQcTJxWHJsenl6SW1SQ0s3TDlSQXdHdEp2VS1ybVRIcno5SEgteDQyTGhtWkw5MzFRN0YwbVBGSGtGT2IxTVNWcUl3T3IxOFJ0Y2fSAZ8BQVVfeXFMTjd5Qno4aDZvc1doN0duSUxvVWx2X0FkTmxrOGhCcUFIZDlqdHdjc0Q3WHpFc3UxZW1qckJsZTc0VU1ubkZmV0VwX2FscUxXVU9Jc2pSd0VNMlB3QTNHdjZYeXBVZ1VlZVBySklDdXlzYzJQbkMxOXRlU0lSMTBUUlY3UTFtR2ZzWWFDMHpIemVYQUVUSXg3TWJDa2VBN3Fz?oc=5)
+### [Prurito cronico: non un semplice disturbo cutaneo, ma una priorità medica complessa. Come sta cambiando l'approccio dei dermatologi a un sintomo spesso sottovalutato - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2pYNURDTmRoZkwzQ212Wi0ycXhNc2s2X0dSUTgzb0xlTFZtNTF3S2V6bGJ4bGRpOWN0cm9NZnZxNW56ajFhM1drUG9xcnNORkdFeFBtYTVRaXFTNVlYb1JMVjNxbmVnNHE4U3I0X2hMclRnZDI2ekJfSUk3RWFUVDdqaUE2WnllazFhQVowWC1yWUNkUkhiY0wxQmIwMDFtNmc?oc=5)
 
-2026-04-27
+2026-04-28
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVE4X1BRUldDal9vYm52YmNIZDVQY3dHN2R6N21tSlZRcUdiQW14UzJ6NGV5aGI2N0xiWDAxLTRkc21MVjRyWTJrMzE4Vlp1REtlWU5lTjNQcTJxWHJsenl6SW1SQ0s3TDlSQXdHdEp2VS1ybVRIcno5SEgteDQyTGhtWkw5MzFRN0YwbVBGSGtGT2IxTVNWcUl3T3IxOFJ0Y2fSAZ8BQVVfeXFMTjd5Qno4aDZvc1doN0duSUxvVWx2X0FkTmxrOGhCcUFIZDlqdHdjc0Q3WHpFc3UxZW1qckJsZTc0VU1ubkZmV0VwX2FscUxXVU9Jc2pSd0VNMlB3QTNHdjZYeXBVZ1VlZVBySklDdXlzYzJQbkMxOXRlU0lSMTBUUlY3UTFtR2ZzWWFDMHpIemVYQUVUSXg3TWJDa2VBN3Fz?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2pYNURDTmRoZkwzQ212Wi0ycXhNc2s2X0dSUTgzb0xlTFZtNTF3S2V6bGJ4bGRpOWN0cm9NZnZxNW56ajFhM1drUG9xcnNORkdFeFBtYTVRaXFTNVlYb1JMVjNxbmVnNHE4U3I0X2hMclRnZDI2ekJfSUk3RWFUVDdqaUE2WnllazFhQVowWC1yWUNkUkhiY0wxQmIwMDFtNmc?oc=5)
 
 ---
 

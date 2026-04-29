@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（99.2%）</li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -52,7 +52,15 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Ein Molekül, zwei Effekte: Neuer Wirkstoff-Ansatz gegen Übergewicht und Typ-2-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
+
+---
 
 ### [Studie zur Wirkung der Keto-Diät auf die Bauchspeicheldrüse](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
 
@@ -86,19 +94,19 @@ permalink: /news/natalizumab/
 
 ---
 
+### [Dietitians Say This Is the Number-1 Fruit to Eat for Stable Blood Sugar](https://news.google.com/rss/articles/CBMihwFBVV95cUxObUtXRHJaLTY0UE5pcmw2ZlVRXzVKN3M2elhiRjBPeGNDOXlpQWE4VXVMMVRmdUlvaFdWRFFzU1JDUWtKaXUzNXR5Yjg3SjRZUGMyV250cmZ5Y1ZSbnZDTktLLVpHOEZCZXYtWnB0SjZkNTZEdjZnU2FXalVOTDdxVjktblhYTmM?oc=5)
+
+2026-04-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMihwFBVV95cUxObUtXRHJaLTY0UE5pcmw2ZlVRXzVKN3M2elhiRjBPeGNDOXlpQWE4VXVMMVRmdUlvaFdWRFFzU1JDUWtKaXUzNXR5Yjg3SjRZUGMyV250cmZ5Y1ZSbnZDTktLLVpHOEZCZXYtWnB0SjZkNTZEdjZnU2FXalVOTDdxVjktblhYTmM?oc=5)
+
+---
+
 ### [Nicht für jeden ein Schutz: Studie enthüllt, wann Vitamin D gegen Diabetes hilft](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTZ6WTd3cVdsZDhCZGpNUGdOWVNaVGtZVzh0STZxS3JXSmtTcFlrTUlMR0pCZUwzUi1kUUJqYkhwNE1yMXdBdWp1Z0l3TFB4bVJ6eWhMc2dvUU1fZ3d0bGtFT1dUc0tyUi1ZaXJ5UUVqZjFJdUhzS2I4QnVRc0xGVEYzS040NmszSUU5Q1V6ZU5QMXowWFpWR2l5OFhLVnFa?oc=5)
 
 2026-04-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTZ6WTd3cVdsZDhCZGpNUGdOWVNaVGtZVzh0STZxS3JXSmtTcFlrTUlMR0pCZUwzUi1kUUJqYkhwNE1yMXdBdWp1Z0l3TFB4bVJ6eWhMc2dvUU1fZ3d0bGtFT1dUc0tyUi1ZaXJ5UUVqZjFJdUhzS2I4QnVRc0xGVEYzS040NmszSUU5Q1V6ZU5QMXowWFpWR2l5OFhLVnFa?oc=5)
-
----
-
-### [Psoriasis: Wenn die Haut im Dauerstress steckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">psoriasis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
 
 ---
 

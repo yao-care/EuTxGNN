@@ -14,7 +14,7 @@ permalink: /news/nemolizumab/
 ---
 
 <p class="key-answer" data-question="Nemolizumab 有什麼相關新聞？">
-<strong>Nemolizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nemolizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/nemolizumab/
 <p><a href="{{ '/drugs/nemolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Ein Molekül, zwei Effekte: Neuer Wirkstoff-Ansatz gegen Übergewicht und Typ-2-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
+
+---
 
 ### [Studie zur Wirkung der Keto-Diät auf die Bauchspeicheldrüse](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/nemolizumab/
 2026-04-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGNPMVZQUVlSUGJBQzRPZkx5dkpnTXQyRWdMb3BDaUtXUVVEN2kweFh3X0E2Q1pmVVhDb2o1S0V0c1VZd1FZN1g2RUZ2M3dQeGZYSWpuaEpJSmtRVWExbV9XRlUyNmc3OVd1aXhLMkFLdXE3MWRRX2oxZjZrVEpKd25lRmEzMHRCUENoNUZPWGV2SDBfbWxfY0lsQnF6Rm1yaFJjWnRMMjJoWElYTmEwOTNqeHB4YjYtTDNUWUQzdEZ1V1Y5VzBr0gHMAUFVX3lxTE1iUWNCR1lreldwelVDU0hLd25XcEFoM0pFUU9xSUhveFpMSzhNVlFYcW1EYUZxZTExNE02UUQ2Qk5WZm9VZHM0ZGVnQzZIYUgxb01ZbDYtMVR4QXgzckZIQ0dUN3hpUUFDYmJ1b1FuU2lTUU5CME5DSEpObzVsVHJYc3RITUduU2U3d3V5eHN0S2dZeEllZ2QyQU12YS15YjA5TDVDM3UzYUlvcmRyU1JaWVFLRVVJSTI4UEwycjZOZHVvQldQNmV0N3dNeA?oc=5)
+
+---
+
+### [Dietitians Say This Is the Number-1 Fruit to Eat for Stable Blood Sugar](https://news.google.com/rss/articles/CBMihwFBVV95cUxObUtXRHJaLTY0UE5pcmw2ZlVRXzVKN3M2elhiRjBPeGNDOXlpQWE4VXVMMVRmdUlvaFdWRFFzU1JDUWtKaXUzNXR5Yjg3SjRZUGMyV250cmZ5Y1ZSbnZDTktLLVpHOEZCZXYtWnB0SjZkNTZEdjZnU2FXalVOTDdxVjktblhYTmM?oc=5)
+
+2026-04-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMihwFBVV95cUxObUtXRHJaLTY0UE5pcmw2ZlVRXzVKN3M2elhiRjBPeGNDOXlpQWE4VXVMMVRmdUlvaFdWRFFzU1JDUWtKaXUzNXR5Yjg3SjRZUGMyV250cmZ5Y1ZSbnZDTktLLVpHOEZCZXYtWnB0SjZkNTZEdjZnU2FXalVOTDdxVjktblhYTmM?oc=5)
 
 ---
 

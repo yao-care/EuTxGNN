@@ -14,7 +14,7 @@ permalink: /news/rivaroxaban/
 ---
 
 <p class="key-answer" data-question="Rivaroxaban 有什麼相關新聞？">
-<strong>Rivaroxaban</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rivaroxaban</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/rivaroxaban/
 <p><a href="{{ '/drugs/rivaroxaban/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Unexpected Hormone Discovery Could Change How We Treat Arthritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
+
+2026-04-28 <span class="news-indication-tag">arthritis</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
+
+---
 
 
 <div class="disclaimer">

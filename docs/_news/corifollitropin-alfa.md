@@ -54,11 +54,11 @@ permalink: /news/corifollitropin-alfa/
 
 ## 相關新聞（1 則）
 
-### [Cardiologist warns one glass a day 'significantly' raises heart disease risk - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
+### [Two Hair Loss Drugs Not Tied to Heart Disease Risk](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE01b2dteGdtZXhyM1VSSWlmbXFmMl9pNk05a3dKSUNid0NXNHpITW9wazJhNTZWY1prRjlnb2FkR0h4VE1pUXEzaG5FOEtLMW1JWkdERmlOeFB4UFUwY2tpQWw2XzRGSEVlUURSa0NBWXhmNkJEa1MwUHBPSDBETjZPMmZsSGl4aTRuUTR1Nk9HX0RzLXkyX3JFZlY0eUxOaTZGLQ?oc=5)
 
-2026-04-28 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-04-28 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE01b2dteGdtZXhyM1VSSWlmbXFmMl9pNk05a3dKSUNid0NXNHpITW9wazJhNTZWY1prRjlnb2FkR0h4VE1pUXEzaG5FOEtLMW1JWkdERmlOeFB4UFUwY2tpQWw2XzRGSEVlUURSa0NBWXhmNkJEa1MwUHBPSDBETjZPMmZsSGl4aTRuUTR1Nk9HX0RzLXkyX3JFZlY0eUxOaTZGLQ?oc=5)
 
 ---
 

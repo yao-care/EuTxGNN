@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Ein Molekül, zwei Effekte: Neuer Wirkstoff-Ansatz gegen Übergewicht und Typ-2-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
+
+---
 
 ### [Studie zur Wirkung der Keto-Diät auf die Bauchspeicheldrüse](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Cardiologist warns one glass a day 'significantly' raises heart disease risk - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
+### [Dietitians Say This Is the Number-1 Fruit to Eat for Stable Blood Sugar](https://news.google.com/rss/articles/CBMihwFBVV95cUxObUtXRHJaLTY0UE5pcmw2ZlVRXzVKN3M2elhiRjBPeGNDOXlpQWE4VXVMMVRmdUlvaFdWRFFzU1JDUWtKaXUzNXR5Yjg3SjRZUGMyV250cmZ5Y1ZSbnZDTktLLVpHOEZCZXYtWnB0SjZkNTZEdjZnU2FXalVOTDdxVjktblhYTmM?oc=5)
 
-2026-04-28 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-04-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
+來源：[Prevention](https://news.google.com/rss/articles/CBMihwFBVV95cUxObUtXRHJaLTY0UE5pcmw2ZlVRXzVKN3M2elhiRjBPeGNDOXlpQWE4VXVMMVRmdUlvaFdWRFFzU1JDUWtKaXUzNXR5Yjg3SjRZUGMyV250cmZ5Y1ZSbnZDTktLLVpHOEZCZXYtWnB0SjZkNTZEdjZnU2FXalVOTDdxVjktblhYTmM?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTZ6WTd3cVdsZDhCZGpNUGdOWVNaVGtZVzh0STZxS3JXSmtTcFlrTUlMR0pCZUwzUi1kUUJqYkhwNE1yMXdBdWp1Z0l3TFB4bVJ6eWhMc2dvUU1fZ3d0bGtFT1dUc0tyUi1ZaXJ5UUVqZjFJdUhzS2I4QnVRc0xGVEYzS040NmszSUU5Q1V6ZU5QMXowWFpWR2l5OFhLVnFa?oc=5)
+
+---
+
+### [Two Hair Loss Drugs Not Tied to Heart Disease Risk](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE01b2dteGdtZXhyM1VSSWlmbXFmMl9pNk05a3dKSUNid0NXNHpITW9wazJhNTZWY1prRjlnb2FkR0h4VE1pUXEzaG5FOEtLMW1JWkdERmlOeFB4UFUwY2tpQWw2XzRGSEVlUURSa0NBWXhmNkJEa1MwUHBPSDBETjZPMmZsSGl4aTRuUTR1Nk9HX0RzLXkyX3JFZlY0eUxOaTZGLQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">heart disease</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE01b2dteGdtZXhyM1VSSWlmbXFmMl9pNk05a3dKSUNid0NXNHpITW9wazJhNTZWY1prRjlnb2FkR0h4VE1pUXEzaG5FOEtLMW1JWkdERmlOeFB4UFUwY2tpQWw2XzRGSEVlUURSa0NBWXhmNkJEa1MwUHBPSDBETjZPMmZsSGl4aTRuUTR1Nk9HX0RzLXkyX3JFZlY0eUxOaTZGLQ?oc=5)
 
 ---
 

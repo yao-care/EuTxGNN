@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [El ácido úrico alto se vincula a más riesgo de ictus o infarto en mujeres de más de 50 años](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
 
@@ -54,14 +54,6 @@ permalink: /news/stroke/
 2026-04-29
 
 來源：[RP Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkp3clJQWU9EU1RiTWd3SVZ1elhLUFBUY0FYRDJfVjVNc25mX3RkdWNZRHR5YzJ4eUNWUXdSYS12UGZ0TjhSNlRZQno3UGxCbHRzTEdKZGxsRE44UXg3dHRvOHFfdC0yR0ZGdmI5UzFvNVdyUGJEZ0JxOTRDMlBRTkliODFvanpwTk56cXFQVVU0bndKZXJqTXNFeExoVUtSU0hkU3p3SThuY2ZjVXRSX0Vn?oc=5)
-
----
-
-### [Neuro-Talk: Durchbruch bei der Schlaganfallforschung und erfreuliche Nachrichten für Kaffeetrinker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
-
-2026-04-27
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
 
 ---
 

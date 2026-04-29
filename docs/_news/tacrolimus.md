@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.7%）</li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -54,11 +54,11 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（1 則）
 
-### [Psoriasis: Wenn die Haut im Dauerstress steckt - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
+### [Unexpected Hormone Discovery Could Change How We Treat Arthritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
 
-2026-04-27 <span class="news-indication-tag">psoriasis</span>
+2026-04-28 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQX19Jem9ZT1FaZWhIMzRsVnFSY01NNGUzV05QMk1QUi0zRUVQTGNfTUpKN01DQWJCbHoyNUVqVTFrWXFQZzlxTEx0WmVNSXpEUGE0N0ZRZkVjaHktLUdidlJ3bjZNZlQ0MXdrTDR3b3VQcjlJMmFTYWI3clZzTlJaWjhyRDItS3BhaUJWZC1OUU00cVlEb2JZSS1oZmE0bHVRMDV3d0FrQQ?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
 
 ---
 

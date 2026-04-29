@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（20 則）
+
+### [Demenz: Was Ihr Darm über Ihr Gehirn verrät - Forscher entdecken überraschenden Zusammenhang](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaWxzZmJWbXRCQkluRTh5SF94a296eWM2X3BTYmtrVkQtbk9sVVo5cEI4dlA2bGpBRmxpU1Q5aUgzQXBqZWlPMWt5ckVYRnZEZnJoU1NmZ292THhVT21mbUZDVFhWUmJiYzlhZ0MwTzU4c3lfRXJvTmRVYllJTm1OTUo5czZFZHVtV3ZOOW9QZFZXa0RTMHc3NTNseUhqay1fX01UR0dRR08yMVN0VXBzNUhQajlGUGhON1lqeHRYa2tXMDU4ZEVVSkNISkFmR0hNckVjTTVDX2lyWkkyZUF4WVdfR2hTaFJER3l0Qk9RcTJoQQ?oc=5)
+
+2026-04-29 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaWxzZmJWbXRCQkluRTh5SF94a296eWM2X3BTYmtrVkQtbk9sVVo5cEI4dlA2bGpBRmxpU1Q5aUgzQXBqZWlPMWt5ckVYRnZEZnJoU1NmZ292THhVT21mbUZDVFhWUmJiYzlhZ0MwTzU4c3lfRXJvTmRVYllJTm1OTUo5czZFZHVtV3ZOOW9QZFZXa0RTMHc3NTNseUhqay1fX01UR0dRR08yMVN0VXBzNUhQajlGUGhON1lqeHRYa2tXMDU4ZEVVSkNISkFmR0hNckVjTTVDX2lyWkkyZUF4WVdfR2hTaFJER3l0Qk9RcTJoQQ?oc=5)
+
+---
 
 ### [Pesticidi e cancro: uno studio shock rivela un aumento del rischio oncologico del 150% - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzdEZV9UQVFYWkdIelluSTVvdWwwLXhQQnExX0dqbFh0RHhFZWFab3dkMGVvU21WSm1PeFVHb3ZOVThfS21tYS1YTG9uNlhuaU1IT0pibEhmSkVsYWc5TmVvN1pSMFhaNF9RVFExbmZUbVVCWnA4TlJ1cTh5cmtFM2QwamJhLUhT?oc=5)
 
@@ -94,14 +102,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Obesity a key factor for rising cancer rates in young people in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
-
-2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
-
----
-
 ### [Auch bei chronischer Hepatitis B gibt das Immunsystem nicht auf - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmh5bXVxUUhvSkJNUEZCb2lOU1dQUmg2bjRKdlpBTEFyd3lVejY5MzIxQ25CYThVa1ljVUdiSTFWUmpndFNUUVljOU5LTGM3LWEzZGc3NWo0eDE1Yk1ndUVmUmlZWW5HWldma3A4U3pSTDZQQndldEpjUzdLblQ5WUdacGNrMkR2WGVLQ3QyS092UzFKQ0tNbmI3Y0xQam5w?oc=5)
 
 2026-04-29 <span class="news-indication-tag">hepatitis</span>
@@ -134,14 +134,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Cardiologist warns one glass a day 'significantly' raises heart disease risk - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
-
-2026-04-28 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
-
----
-
 ### [MSD presenta 'Comprometidos con cada generación' para concienciar sobre la importancia de la inmunización](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
 
 2026-04-28 <span class="news-indication-tag">MS</span>
@@ -150,19 +142,27 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [GP struck off over garlic oil 'cancer cure' claims](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
-
----
-
 ### [Microplastics turn up in nearly every human brain sample, including healthy tissue - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnhMbHBrdGZwYjhKRVhVX004Z1lSRlhNa211d09KZG1DSXhOdnBUa004WExUYzZiNnNFQkcxWTNfLVVJbmQ0dnpoaFdRVndxOXhTVlBtcWFYY09hQk5IWTFzbkFQbTJPV1oybk8xdF9UYzV5aWN2cDhEcU1OMldmQzhhWG12OEFyOTlueQ?oc=5)
 
 2026-04-28 <span class="news-indication-tag">MS</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnhMbHBrdGZwYjhKRVhVX004Z1lSRlhNa211d09KZG1DSXhOdnBUa004WExUYzZiNnNFQkcxWTNfLVVJbmQ0dnpoaFdRVndxOXhTVlBtcWFYY09hQk5IWTFzbkFQbTJPV1oybk8xdF9UYzV5aWN2cDhEcU1OMldmQzhhWG12OEFyOTlueQ?oc=5)
+
+---
+
+### [Former GP charged patients £15k to ‘cure cancer with garlic oil injections’ - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEVuTkpPM1RNYmdMVEhRcGxhYVltZzFrTGFqaEVPMENfaEd6VnE5NWZ6VmJUNlFPejJMT1lRRXdOb1EzWkJ2aFJ2c05DLXJfZmFmcXJIQlQ1S1YtU2dBWHdoRV93TDI4bHhPZHhEZGtmZWZGczRJc2Rydy0zUDhNM0g3SzhEODYtaHJBMXU4WVMzQ1p6MGR6N0t2UzlVRktJWGxWV3hJUQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEVuTkpPM1RNYmdMVEhRcGxhYVltZzFrTGFqaEVPMENfaEd6VnE5NWZ6VmJUNlFPejJMT1lRRXdOb1EzWkJ2aFJ2c05DLXJfZmFmcXJIQlQ1S1YtU2dBWHdoRV93TDI4bHhPZHhEZGtmZWZGczRJc2Rydy0zUDhNM0g3SzhEODYtaHJBMXU4WVMzQ1p6MGR6N0t2UzlVRktJWGxWV3hJUQ?oc=5)
+
+---
+
+### [Scientists Reveal the Surprising Side Effects of Vitamin D Deficiency](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0tnSEZkX3Jyb3dpQmZhOVo4UjQwdFUxaXl4eU4wNUltbHlBdUdEak5lV183U21jNFRkVU5DOEhwT2o0NDhsYmNjMm10cS1ZS1RwbllTR3dNUzhmbWhqVEg5OUdWY0tjQUZzR2dLanJFUVFYbGgtaUtFRVIxcVNjRFRNdUpKTlo5?oc=5)
+
+2026-04-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Prevention](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0tnSEZkX3Jyb3dpQmZhOVo4UjQwdFUxaXl4eU4wNUltbHlBdUdEak5lV183U21jNFRkVU5DOEhwT2o0NDhsYmNjMm10cS1ZS1RwbllTR3dNUzhmbWhqVEg5OUdWY0tjQUZzR2dLanJFUVFYbGgtaUtFRVIxcVNjRFRNdUpKTlo5?oc=5)
 
 ---
 
@@ -179,14 +179,6 @@ permalink: /news/ledipasvir/
 2026-04-28 <span class="news-indication-tag">MS</span>
 
 來源：[MSN](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzBnZnRQbmlnb1pwQXA5Zll5VFR2cjlCWVpCT2NxX2NZcVZxTUptem9RY0E2TFNIQkdiWHNDX0NXNWtJdV8tY2lqWWVBSVo5SFFuRHN3TGVkMDFUY0lneXMtZElqbnQxdDI5NmsxYWV2Vmp3T3ZsQjlybFNUSmZMbnNPeUVVMVRpNjhIZ1lXOFN3MUpfbjdPa2dHeEx4Z0lSa2JPeWln?oc=5)
-
----
-
-### [Cómo la esclerosis múltiple provoca la muerte neuronal - GAEM (Grupo de Afectados de Esclerosis Múltiple)](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
-
-2026-04-28 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
-
-來源：[fundaciongaem.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzhCVEtPTGVOU28wQVVGUlFTMWlyMzVnZlEzd2UyYk5Fc2dwdFlJbHpwRUtMUDFZREFpUEs1RzdmTmFOQ0lta2dMSGtPcXFzZ0RvQm1qQlpBaWc2ZElCN1lrRWRUXzBRblFmamczQjZmNnlTSlF6N25OTVpHWnJZZlJaZzZZRVk?oc=5)
 
 ---
 
@@ -219,38 +211,6 @@ permalink: /news/ledipasvir/
 2026-04-27 <span class="news-indication-tag">MS</span>
 
 來源：[The Economist](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU9nUE4zQnpxZnY4b3RjT1YtaHlxQk4weXk3SkRCUXhpZEZpcGlLdzh4OWd2WkNOMmhWNEkwN0tkWHVlcFV6dWVrNEF4LWRjUjJJaUF2S090anlBeDdieFVkaGhuaHBMVlpSYVgzdFZFTGgzcmZKZlhWNTM1MDhDa1JpRG4zVFFQWUIzTUNHQm01TFJyQ21pOEJMcEtTLXA2V3k0RkF3cVhKQmxUNUZVag?oc=5)
-
----
-
-### [Durchbruch bei Parkinson: Darmflora verrät Risiko Jahre vor Ausbruch - AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHlqb3FpVDhxRDFSRC1GZm5zakxQUVBaMnJNRUtoVHB6VTUtLUN4MG1wSE9zM0VVTmd2bXBoeHFQd0JYTkdrZGo2NDdMcGpNLTItUlFBSVcyME5vSXo4ZDFKckdQQnNaRzdhTDhERWFseENzczNVSnpFcXJzVERZN3VLRGFFQXNjRE1LYWxxbUFWQ01SOVdDbG9iOVhyZXpUcFB0X0w0WG1yOGJkclR4VHhCY21VMG43VXB4VFZiRUlVWEdncFE?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHlqb3FpVDhxRDFSRC1GZm5zakxQUVBaMnJNRUtoVHB6VTUtLUN4MG1wSE9zM0VVTmd2bXBoeHFQd0JYTkdrZGo2NDdMcGpNLTItUlFBSVcyME5vSXo4ZDFKckdQQnNaRzdhTDhERWFseENzczNVSnpFcXJzVERZN3VLRGFFQXNjRE1LYWxxbUFWQ01SOVdDbG9iOVhyZXpUcFB0X0w0WG1yOGJkclR4VHhCY21VMG43VXB4VFZiRUlVWEdncFE?oc=5)
-
----
-
-### [Influenza. Oms: in 15 anni la distribuzione di vaccini è raddoppiata in Europa. Ma solo in 4 Paesi è stato raggiunto il target per gli anziani - Quotidiano Sanità](https://news.google.com/rss/articles/CBMikgJBVV95cUxPamhPb2ZKNFNOZ0NacFVXQkxRN3BvNDkzTTVLZmdRN2hlbFlGY2xaOWxNdXRXYWtRSjJfN0xmRnpacXJEYkNmUS0tSTdfZE1KTG9JaXJ2MVhScUlja0p1bXdGMnJxVGw5akdzUXpPNjQyMmd0RHczWVprOUNVaTNLNTZzVDVJRDExaG1sUkV6bTFPMTEzcVlheFY0c0VhV0YtMzh0VXhMb0d2UTRxVWRBN25URFAwZmxBU0o0bnV3dC1rV3hFU0Z1aHRVSzZBOTgtcEJ4Sm9LcnVxS2l4X1A2S2FHQzhwcEpCMUZId1V6cVl2VG1fWXoyX29XeV9LNE04M1FhclprZU1ZY2hrNEs3Uy1B?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMikgJBVV95cUxPamhPb2ZKNFNOZ0NacFVXQkxRN3BvNDkzTTVLZmdRN2hlbFlGY2xaOWxNdXRXYWtRSjJfN0xmRnpacXJEYkNmUS0tSTdfZE1KTG9JaXJ2MVhScUlja0p1bXdGMnJxVGw5akdzUXpPNjQyMmd0RHczWVprOUNVaTNLNTZzVDVJRDExaG1sUkV6bTFPMTEzcVlheFY0c0VhV0YtMzh0VXhMb0d2UTRxVWRBN25URFAwZmxBU0o0bnV3dC1rV3hFU0Z1aHRVSzZBOTgtcEJ4Sm9LcnVxS2l4X1A2S2FHQzhwcEpCMUZId1V6cVl2VG1fWXoyX29XeV9LNE04M1FhclprZU1ZY2hrNEs3Uy1B?oc=5)
-
----
-
-### [La pellicola adesiva che blocca i virus: può rivestire qualsiasi superficie per bloccare il contagio](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG11OVBPZ0wyb0hyQ3hNbG9vWkc4UVpMMTIzYnFwNmhjYmJXRzUyT3ZxSXhwU1hXYmItcnNiUFNMTW9RLXc5ZWxDbm5RSnF4UHpFRVVLN19YWFhsSjV3Y0J2YmtlNzBzNzRlWEZCNGNleWEtSkN6VkFLYWk0ZTFOSU9Vdk55bnRFd0FqVTQ0cjY3Nm5OeDRiUlY0aU14Wm5Ob05hUUtUbUtDMGlVSDdfZk0xWG14ZWc2a2kxdHJqMWliNENfYVlRNDVKVzg0ZExa?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[DDay.it](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG11OVBPZ0wyb0hyQ3hNbG9vWkc4UVpMMTIzYnFwNmhjYmJXRzUyT3ZxSXhwU1hXYmItcnNiUFNMTW9RLXc5ZWxDbm5RSnF4UHpFRVVLN19YWFhsSjV3Y0J2YmtlNzBzNzRlWEZCNGNleWEtSkN6VkFLYWk0ZTFOSU9Vdk55bnRFd0FqVTQ0cjY3Nm5OeDRiUlY0aU14Wm5Ob05hUUtUbUtDMGlVSDdfZk0xWG14ZWc2a2kxdHJqMWliNENfYVlRNDVKVzg0ZExa?oc=5)
-
----
-
-### [Common vitamin may help repair liver damage from a disease spreading worldwide](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWc1MDZIVUwxV00xT25MRjJYN09tNjQxZzFva2tZSEtVOVRwUFRaaFdZYTBTdkRfdktzOXNteE1YMEU5c2szdmRWNmJfVXhHak9rbE1meWZXM0NIYzF6MTdxOEFqYkFUZlpPWWVyNVlZbXg1MUdjbVY4b05KV3JJRXBlcVJJLVUyOFFDNnB3dk5XNk1jUmlj?oc=5)
-
-2026-04-27 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWc1MDZIVUwxV00xT25MRjJYN09tNjQxZzFva2tZSEtVOVRwUFRaaFdZYTBTdkRfdktzOXNteE1YMEU5c2szdmRWNmJfVXhHak9rbE1meWZXM0NIYzF6MTdxOEFqYkFUZlpPWWVyNVlZbXg1MUdjbVY4b05KV3JJRXBlcVJJLVUyOFFDNnB3dk5XNk1jUmlj?oc=5)
 
 ---
 

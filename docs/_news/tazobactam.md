@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Contaminación: así impacta en pulmones con asma](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVpQTUFLQ2NUNzI4ZXdIM1gxY1EzVDhuZjVFd2NkME8tLUpFb0hBUlpNTVRIbmItckRpQVdnbUhadjB1RDlQZlJFcXlCYWV5aEVtbWlzcW9CdHE1cXVEUnBORHFIckF3MlM0N2xRRFowZFRNbktkMVc2bXVOOG1JUHRmVTNsU0E2bjRZUjJya3BIOTVDemM1ZnVkWG5YT1FFMktBRzlOSllOUDZOdUE?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/tazobactam/
 2026-04-29 <span class="news-indication-tag">asthma</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFdSM0U3S1VUT2UyOVZjQTVfVGpXZEZ6NlY4TU0xLVJKRmpnTS02SnFtaE15ZHh0M3VyM0VwZ05KLUZmRmtJbHZXRFV3bDVhVkl6MndzS2ZyNTVZbldsSklaRlZvVV9Zc19ZT0huWk9OZmRCRlVjV0VoUXR4dXRCX1dNV0d5MklKdFNLdkFWQTJwcjg?oc=5)
+
+---
+
+### [Unexpected Hormone Discovery Could Change How We Treat Arthritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
+
+2026-04-28 <span class="news-indication-tag">arthritis</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
 
 ---
 

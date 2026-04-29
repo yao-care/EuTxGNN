@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Dairy-free milks ‘risk obesity and malnutrition in children’ - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPb01sRkxfUGZLSnB6YWlQblFWQThqZ3NoQjhnSjhQUEFHc0dtd1VvMUJnSnZZOGJZQmkxQWtLSTF4THdISjF5T3pHWldxLWRfOThwLWJZVDJ5TWZJYnZxS0F6dWtfVlNfbTZCSXc3TnpzdVQ4dkM0NkU4a2hFSkxZbE5wVmFnTVFOUVp1c2VpSy0tWXM?oc=5)
+
+2026-04-29 <span class="news-indication-tag">obesity</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPb01sRkxfUGZLSnB6YWlQblFWQThqZ3NoQjhnSjhQUEFHc0dtd1VvMUJnSnZZOGJZQmkxQWtLSTF4THdISjF5T3pHWldxLWRfOThwLWJZVDJ5TWZJYnZxS0F6dWtfVlNfbTZCSXc3TnpzdVQ4dkM0NkU4a2hFSkxZbE5wVmFnTVFOUVp1c2VpSy0tWXM?oc=5)
+
+---
 
 ### [El ácido úrico alto se vincula a más riesgo de ictus o infarto en mujeres de más de 50 años](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
 
@@ -80,25 +88,9 @@ permalink: /news/orlistat/
 
 ### [Obesity a key factor for rising cancer rates in young people in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
 
-2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
-
----
-
-### [Common vitamin may help repair liver damage from a disease spreading worldwide](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWc1MDZIVUwxV00xT25MRjJYN09tNjQxZzFva2tZSEtVOVRwUFRaaFdZYTBTdkRfdktzOXNteE1YMEU5c2szdmRWNmJfVXhHak9rbE1meWZXM0NIYzF6MTdxOEFqYkFUZlpPWWVyNVlZbXg1MUdjbVY4b05KV3JJRXBlcVJJLVUyOFFDNnB3dk5XNk1jUmlj?oc=5)
-
-2026-04-27 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWc1MDZIVUwxV00xT25MRjJYN09tNjQxZzFva2tZSEtVOVRwUFRaaFdZYTBTdkRfdktzOXNteE1YMEU5c2szdmRWNmJfVXhHak9rbE1meWZXM0NIYzF6MTdxOEFqYkFUZlpPWWVyNVlZbXg1MUdjbVY4b05KV3JJRXBlcVJJLVUyOFFDNnB3dk5XNk1jUmlj?oc=5)
-
----
-
-### [Neuro-Talk: Durchbruch bei der Schlaganfallforschung und erfreuliche Nachrichten für Kaffeetrinker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
-
-2026-04-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
 
 ---
 
