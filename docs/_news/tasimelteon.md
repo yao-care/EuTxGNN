@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [La obesidad afecta ya a una cuarta parte de la población en España y los expertos alertan de su aumento - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
+
+2026-04-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
+
+---
 
 ### [«Il prurito come una malattia, può portare ansia e depressione: ecco tutte le cause e come va curato» - Il Messaggero](https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVE4X1BRUldDal9vYm52YmNIZDVQY3dHN2R6N21tSlZRcUdiQW14UzJ6NGV5aGI2N0xiWDAxLTRkc21MVjRyWTJrMzE4Vlp1REtlWU5lTjNQcTJxWHJsenl6SW1SQ0s3TDlSQXdHdEp2VS1ybVRIcno5SEgteDQyTGhtWkw5MzFRN0YwbVBGSGtGT2IxTVNWcUl3T3IxOFJ0Y2fSAZ8BQVVfeXFMTjd5Qno4aDZvc1doN0duSUxvVWx2X0FkTmxrOGhCcUFIZDlqdHdjc0Q3WHpFc3UxZW1qckJsZTc0VU1ubkZmV0VwX2FscUxXVU9Jc2pSd0VNMlB3QTNHdjZYeXBVZ1VlZVBySklDdXlzYzJQbkMxOXRlU0lSMTBUUlY3UTFtR2ZzWWFDMHpIemVYQUVUSXg3TWJDa2VBN3Fz?oc=5)
 
 2026-04-27 <span class="news-indication-tag">depression</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVE4X1BRUldDal9vYm52YmNIZDVQY3dHN2R6N21tSlZRcUdiQW14UzJ6NGV5aGI2N0xiWDAxLTRkc21MVjRyWTJrMzE4Vlp1REtlWU5lTjNQcTJxWHJsenl6SW1SQ0s3TDlSQXdHdEp2VS1ybVRIcno5SEgteDQyTGhtWkw5MzFRN0YwbVBGSGtGT2IxTVNWcUl3T3IxOFJ0Y2fSAZ8BQVVfeXFMTjd5Qno4aDZvc1doN0duSUxvVWx2X0FkTmxrOGhCcUFIZDlqdHdjc0Q3WHpFc3UxZW1qckJsZTc0VU1ubkZmV0VwX2FscUxXVU9Jc2pSd0VNMlB3QTNHdjZYeXBVZ1VlZVBySklDdXlzYzJQbkMxOXRlU0lSMTBUUlY3UTFtR2ZzWWFDMHpIemVYQUVUSXg3TWJDa2VBN3Fz?oc=5)
-
----
-
-### [Man misdiagnosed with depression before simple blood test found hormone problem](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2tlaWlOLXhzbkxaX2p6VURIWE5MVUNXcWJpZmcxeklZeDhLU1l4Y3VVMzhfWVpUQ2p5cUxDMG1nTDNyVVlEdDF3YUpYTEtoM295c2JoLWw3eWg0WWJLSmo1U2UzRy15N0w1QWNmTnk0bVNlVHZJeFlCZFNfOGpQNGozRzZlakFkdlgwWmdoRnBoQU9yREZwZVRfV2pldzNo0gGmAUFVX3lxTE5Qb09NTlFiWVJ5VnRZTWJfbnFVX0Z1Q3hnTGlSOVJVbE5yNXpzazZOMzFnVWloamt2dFg5VkFBLXhzem5pd3UtUUlwNjlqNGZWUzV2TW94WFdkZU14bDVPazFBelpoRzY1bU5nNVgxQ3ZheTRGaEFHcFhpWkNBeHFGcG9OWnBXVktTVXJtZ3NCWHpWZkZOLXU5M3ZUUm40MHhzVEtGLXc?oc=5)
-
-2026-04-27 <span class="news-indication-tag">depression</span>
-
-來源：[dailyrecord.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2tlaWlOLXhzbkxaX2p6VURIWE5MVUNXcWJpZmcxeklZeDhLU1l4Y3VVMzhfWVpUQ2p5cUxDMG1nTDNyVVlEdDF3YUpYTEtoM295c2JoLWw3eWg0WWJLSmo1U2UzRy15N0w1QWNmTnk0bVNlVHZJeFlCZFNfOGpQNGozRzZlakFkdlgwWmdoRnBoQU9yREZwZVRfV2pldzNo0gGmAUFVX3lxTE5Qb09NTlFiWVJ5VnRZTWJfbnFVX0Z1Q3hnTGlSOVJVbE5yNXpzazZOMzFnVWloamt2dFg5VkFBLXhzem5pd3UtUUlwNjlqNGZWUzV2TW94WFdkZU14bDVPazFBelpoRzY1bU5nNVgxQ3ZheTRGaEFHcFhpWkNBeHFGcG9OWnBXVktTVXJtZ3NCWHpWZkZOLXU5M3ZUUm40MHhzVEtGLXc?oc=5)
-
----
-
-### [Más allá de la báscula: hacia una nueva forma de entender la obesidad en la consulta médica - El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
-
-2026-04-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
 
 ---
 

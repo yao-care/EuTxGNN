@@ -3,7 +3,7 @@ layout: default
 title: "tumor（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumor（cancer） 的相關健康新聞報導。15 則新聞、229 個相關藥物。"
+description: "tumor（cancer） 的相關健康新聞報導。19 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
-<strong>tumor（cancer）</strong> 目前有 <strong>15 則</strong>相關新聞報導，229 個相關藥物。
+<strong>tumor（cancer）</strong> 目前有 <strong>19 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -257,13 +257,69 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（19 則）
 
-### [Infrarotlicht aktiviert Nano-Medikament: Nanozyme gegen Hirntumore - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnE2QzZzR3F1U1BxTTZyZzJwN21VbFVVd0g5X1QyUU55UmFRYjg1Z00zaTlOd0M2REJpZmxUazJhSGtWQ1J3cExiSDN3N0J3Uy0yQlBoV3hrOEVDWjNCR25keDRYTF9iS0dVZUJZczVLZUVrTHd2N3B3b2t0aTR4THdpVVVNUlJiNnBQWGl0cnVLbnVWUS1EbmFwZGhkZXJTel96eTdYT3RfZGV0TmNvdk5WZEVPVnVQME04NnFmTFo?oc=5)
+### [Pesticidi e cancro: uno studio shock rivela un aumento del rischio oncologico del 150% - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzdEZV9UQVFYWkdIelluSTVvdWwwLXhQQnExX0dqbFh0RHhFZWFab3dkMGVvU21WSm1PeFVHb3ZOVThfS21tYS1YTG9uNlhuaU1IT0pibEhmSkVsYWc5TmVvN1pSMFhaNF9RVFExbmZUbVVCWnA4TlJ1cTh5cmtFM2QwamJhLUhT?oc=5)
 
 2026-04-29
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnE2QzZzR3F1U1BxTTZyZzJwN21VbFVVd0g5X1QyUU55UmFRYjg1Z00zaTlOd0M2REJpZmxUazJhSGtWQ1J3cExiSDN3N0J3Uy0yQlBoV3hrOEVDWjNCR25keDRYTF9iS0dVZUJZczVLZUVrTHd2N3B3b2t0aTR4THdpVVVNUlJiNnBQWGl0cnVLbnVWUS1EbmFwZGhkZXJTel96eTdYT3RfZGV0TmNvdk5WZEVPVnVQME04NnFmTFo?oc=5)
+來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzdEZV9UQVFYWkdIelluSTVvdWwwLXhQQnExX0dqbFh0RHhFZWFab3dkMGVvU21WSm1PeFVHb3ZOVThfS21tYS1YTG9uNlhuaU1IT0pibEhmSkVsYWc5TmVvN1pSMFhaNF9RVFExbmZUbVVCWnA4TlJ1cTh5cmtFM2QwamJhLUhT?oc=5)
+
+---
+
+### [Melanoma, terzo tumore più diffuso negli under 50: la regola salva-vita e il "paradosso della crema solare" - Corriere della Sera](https://news.google.com/rss/articles/CBMiowJBVV95cUxOY24wTDQ4WTkxYTUtV1dhYTZXQTdpbWNNQm1CNG9BU3BvTnljbHNNdlZiQ21sbVY2SUh3R2RyLVhBa2VLY2RYVGd2TU5qQmdyU2hoZmtqZDFxeGFNZFl3MjZtQl8tcXFMQ3RLM0NoSlBZT2NBSTItYVRsMGZkNUdQc3g0Y1F6T1R4VWxUNkVnYjFqTzJfSTFXaVpoaTVVTXk2eXl3Wmx0SHljYWlTQmUxRXZUWTNndExxbWY0QzNiX2pzU0otYXRJQk55bzUxWWFjdXNyZFphdzM2MkhhVU1PRHI0RWFiM0tadHhLbWNnYVdURExQVmt4UGlxazJPVjZPaFppTHhkNEh0M3Rpd2Q3a19MdWtKSWV6NXVpNDNmeEoxSFk?oc=5)
+
+2026-04-29
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiowJBVV95cUxOY24wTDQ4WTkxYTUtV1dhYTZXQTdpbWNNQm1CNG9BU3BvTnljbHNNdlZiQ21sbVY2SUh3R2RyLVhBa2VLY2RYVGd2TU5qQmdyU2hoZmtqZDFxeGFNZFl3MjZtQl8tcXFMQ3RLM0NoSlBZT2NBSTItYVRsMGZkNUdQc3g0Y1F6T1R4VWxUNkVnYjFqTzJfSTFXaVpoaTVVTXk2eXl3Wmx0SHljYWlTQmUxRXZUWTNndExxbWY0QzNiX2pzU0otYXRJQk55bzUxWWFjdXNyZFphdzM2MkhhVU1PRHI0RWFiM0tadHhLbWNnYVdURExQVmt4UGlxazJPVjZPaFppTHhkNEh0M3Rpd2Q3a19MdWtKSWV6NXVpNDNmeEoxSFk?oc=5)
+
+---
+
+### [Krebsforschung: Mini-Antikörper reaktivieren den Wächter des Genoms - Goethe-Universität Frankfurt](https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3BuQTVzMXM0bjdlZ1Q1QmdlYlZuQkstVkxfX0lQbzJXd2txWTFwVjVRazZXY2tzZ1J0MEZmSmdmZ3JNSU14dXRseEJlQ0NMZjQ1M1VheFVZYzg5Nm9QOU4xaXROcWpsUjFJWEhaSVIza3VBS2tiazhXV3FZd0R5bERpLUpiZWZUNWk1aFo0VEdpRnhJSjlxSUZ0QXFhYlNKeTFaRjhvMzBZTnBWVERWUERDa0I?oc=5)
+
+2026-04-29
+
+來源：[Goethe-Universität Frankfurt](https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3BuQTVzMXM0bjdlZ1Q1QmdlYlZuQkstVkxfX0lQbzJXd2txWTFwVjVRazZXY2tzZ1J0MEZmSmdmZ3JNSU14dXRseEJlQ0NMZjQ1M1VheFVZYzg5Nm9QOU4xaXROcWpsUjFJWEhaSVIza3VBS2tiazhXV3FZd0R5bERpLUpiZWZUNWk1aFo0VEdpRnhJSjlxSUZ0QXFhYlNKeTFaRjhvMzBZTnBWVERWUERDa0I?oc=5)
+
+---
+
+### [Une avancée majeure pour combattre le cancer du pancréas : des médecins franco-canadiens pourraient détruire la tumeur de l’intérieur - Midi Libre](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS3ZfVWJsTUVKSFRQbnk1bThVbXBIMDRVVjVveEN4NmxfR240d1BydEJLZ3FJcmZFWUFaYXVWTlZCRThROWVXTGJJNllkNm1tb29iX3RDX2J2ejdtTGYzRzNGSzJsVkNsMXFoanZnaFBDaTUxRmczdVZhNFl5Ty1qRjVIYXluRTN4elhfU0FMby1JOXRYZG9QNUowXzk5Rm4yckI5cURNNVN5azRMajl1cThUc21jMDhOZXM4NnRyQVplM1VLNmZ0WHFabGdOY2pfYTJZT3Z1SUcxOW41N2NXNm5QN28wVF9mbUdVVHQ0aFFXcjJpRlNjNnhBRUI2ekJkU0xpNTN0Y2lOV28?oc=5)
+
+2026-04-29
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS3ZfVWJsTUVKSFRQbnk1bThVbXBIMDRVVjVveEN4NmxfR240d1BydEJLZ3FJcmZFWUFaYXVWTlZCRThROWVXTGJJNllkNm1tb29iX3RDX2J2ejdtTGYzRzNGSzJsVkNsMXFoanZnaFBDaTUxRmczdVZhNFl5Ty1qRjVIYXluRTN4elhfU0FMby1JOXRYZG9QNUowXzk5Rm4yckI5cURNNVN5azRMajl1cThUc21jMDhOZXM4NnRyQVplM1VLNmZ0WHFabGdOY2pfYTJZT3Z1SUcxOW41N2NXNm5QN28wVF9mbUdVVHQ0aFFXcjJpRlNjNnhBRUI2ekJkU0xpNTN0Y2lOV28?oc=5)
+
+---
+
+### [Obesity a key factor for rising cancer rates in young people in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
+
+2026-04-29
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
+
+---
+
+### [Infrarotlicht aktiviert Nano-Medikament: Nanozyme gegen Hirntumore - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ENVV5dEZfQi1OT1ZyREZucWp6dGdZbDhfdFBFUkUza0E1RXg2YnhsRHN4cEVWYUVuS3Vjc0lySXR3WjB5eW9pTXJtbw?oc=5)
+
+2026-04-29
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ENVV5dEZfQi1OT1ZyREZucWp6dGdZbDhfdFBFUkUza0E1RXg2YnhsRHN4cEVWYUVuS3Vjc0lySXR3WjB5eW9pTXJtbw?oc=5)
+
+---
+
+### [Sette reparti nel pool anti-tumori all’ospedale di Mantova. Unità polmonare: 500 in cura - Gazzetta di Mantova](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEdSMGpWUzlaWnNwSkhYT3pkT2dvVFpKRWRqNm5CdHdMaGFuT09iRDNIQ0ltUkwtWVpQWHVpUjlVWXhKeDdPQUV1endtQlRrQXplNXJTRld2MDRKU0F3cnFXRXZibUttUXNYM1pEM21MVGFpTkJNVVdZQS1yM2R0bTJqUGNfaGNSUDRVdHVyRi1uR0VHVEU5VjB5elZkOUFsNzZzdHN5VVNOZ1VQMjdvXzRZS1E1VFd2ZndN0gHAAUFVX3lxTE1wOW5yUTFwbURkbkxFZlotTEN0cmVJQWlRbHprS1ZWUVhfQU41bEpsOVE5Tm9lbjcyeVlvMTVLSkJVLXlfbkVkdFp0ejBjaC15QlV5NVl3RkJpXzFNS1o5bVJqeUZ3VjhjNHdXVm9ESlMwUXVrMzdMdHk5bk1CZ1Z3QklNNWpVRkhCQ1RDNC1ORl95TFc3dEtpcG13WElpbERNRFpnbFRQbjNUMTBWbW1vaDVpTVdXVl9YUnIwQ1hPdA?oc=5)
+
+2026-04-29
+
+來源：[Gazzetta di Mantova](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEdSMGpWUzlaWnNwSkhYT3pkT2dvVFpKRWRqNm5CdHdMaGFuT09iRDNIQ0ltUkwtWVpQWHVpUjlVWXhKeDdPQUV1endtQlRrQXplNXJTRld2MDRKU0F3cnFXRXZibUttUXNYM1pEM21MVGFpTkJNVVdZQS1yM2R0bTJqUGNfaGNSUDRVdHVyRi1uR0VHVEU5VjB5elZkOUFsNzZzdHN5VVNOZ1VQMjdvXzRZS1E1VFd2ZndN0gHAAUFVX3lxTE1wOW5yUTFwbURkbkxFZlotTEN0cmVJQWlRbHprS1ZWUVhfQU41bEpsOVE5Tm9lbjcyeVlvMTVLSkJVLXlfbkVkdFp0ejBjaC15QlV5NVl3RkJpXzFNS1o5bVJqeUZ3VjhjNHdXVm9ESlMwUXVrMzdMdHk5bk1CZ1Z3QklNNWpVRkhCQ1RDNC1ORl95TFc3dEtpcG13WElpbERNRFpnbFRQbjNUMTBWbW1vaDVpTVdXVl9YUnIwQ1hPdA?oc=5)
+
+---
+
+### [Shetland mum says 'Viking gene' testing saved her life after early cancer diagnosis - STV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3E5RUhWVXBJZWRjaHdndnhkaHU2QkJhVndINThHcnF3TzhieWFaYzF1ZVNnTFE4OUR0V0lTWWMxc2dad3Q5U05tWDVETVRabWM1T0pZamNEQlFPUmotOXVfd1hTU1piY3Z5LWdhVHFQWTRTdHFpc2ZnUHZxQUYzN2VGZEJGUTVMWEk0Y0pHdXFJMlJlTENWcHlrdXFuQ2VPaURpM2J3b2gtZ2tZaVdTblBoVmdhUWI1eFNr?oc=5)
+
+2026-04-29
+
+來源：[STV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3E5RUhWVXBJZWRjaHdndnhkaHU2QkJhVndINThHcnF3TzhieWFaYzF1ZVNnTFE4OUR0V0lTWWMxc2dad3Q5U05tWDVETVRabWM1T0pZamNEQlFPUmotOXVfd1hTU1piY3Z5LWdhVHFQWTRTdHFpc2ZnUHZxQUYzN2VGZEJGUTVMWEk0Y0pHdXFJMlJlTENWcHlrdXFuQ2VPaURpM2J3b2gtZ2tZaVdTblBoVmdhUWI1eFNr?oc=5)
 
 ---
 
@@ -283,11 +339,11 @@ permalink: /news/cancer/
 
 ---
 
-### [11 cancers on the rise in young people - scientists find first clue why it's happening](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fY3EzdEtEYUprMmh1bmx4cXY0cENnV2R0dmVicE1lYUdxN2gweTlRSU0zd2ZzYURIQ2k3RFd0WkJPQjJ0elhuZDcwaTQ4QWd2TElYWHdXeWo1a21D?oc=5)
+### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
 
 2026-04-28
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fY3EzdEtEYUprMmh1bmx4cXY0cENnV2R0dmVicE1lYUdxN2gweTlRSU0zd2ZzYURIQ2k3RFd0WkJPQjJ0elhuZDcwaTQ4QWd2TElYWHdXeWo1a21D?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
 
 ---
 
@@ -323,14 +379,6 @@ permalink: /news/cancer/
 
 ---
 
-### [Dad battling cancer left in the dark about treatment as staff 'went on holiday' - North Norfolk News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPandOelJaZk53MzU4ZHlkZHliQzlEekFublRvaGczVUxQbVRyS08xRmR5Sm0xSkNIVnJSMDloUlUxYmNIaUp5Z2VzTkplMjROTlJxenREWVJZSjFkUWgxUUh4cUR0VW5NVjhZajd2ZmoyaVRFOUJmamxnMjRnSkVsS05NNGd3YWNiNm1PZk43V0g?oc=5)
-
-2026-04-28
-
-來源：[North Norfolk News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPandOelJaZk53MzU4ZHlkZHliQzlEekFublRvaGczVUxQbVRyS08xRmR5Sm0xSkNIVnJSMDloUlUxYmNIaUp5Z2VzTkplMjROTlJxenREWVJZSjFkUWgxUUh4cUR0VW5NVjhZajd2ZmoyaVRFOUJmamxnMjRnSkVsS05NNGd3YWNiNm1PZk43V0g?oc=5)
-
----
-
 ### [His Brother Refused To Accommodate His Request Of Moving His Wedding Dates Around For His Wife’s Tumor Surgery, So Now He’s Calling Him Inconsiderate](https://news.google.com/rss/articles/CBMijgJBVV95cUxNQTBkSml1Ukd4ZEJtOG5JUVo0cXFQT3lLMDB6S1NrNHMzdzVlaHZzVDZjbk1KVzliQm5sTUZqdUt4d3gxOXJ3VDY0VHg5T3prdVZFTmxXd3lTWDc0V013WUFjX0RzT2dUMHFHZEh3bFpFZmRUNUd1UFFqSkJwdzVsVG5iaEZBQ0JFYThwbFNLT2c4NzR4RlYwT1djM2tqVkZPNmZOMXRaUHJINnhVMGtFUzBoeXhzT2E0MjJFc2IyRk5nTHY5RDlhMDRTX24wMDJRNTZfcHFia0podGN2c205VTNDRjdtRno5d01DcTFNVUpuV2JQU1ZON3ViZHVjREg5MTV5bFU4bkhUV3Q0Ync?oc=5)
 
 2026-04-28
@@ -355,27 +403,11 @@ permalink: /news/cancer/
 
 ---
 
-### [Metabolische Krise: Wie Herz, Nieren und Stoffwechsel Krebsrisiko steigern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
+### [Metabolische Krisen: Wie Herz und Stoffwechsel das Krebsrisiko beeinflussen - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2N5M1NYRkV1ZWJoS1pjRlhBRGhkY09qbm9XTTRnQWF2Ul93djFGb0Y1ay1MWUM1WF9Sc21Pa016cXdqVEVrdWt4eGF5TkZIcDVGY2xkRkVZWkl3ZDRtMm9VLVJSR0RiSFI3ZTR0N0E0dmNqbjZMdDZmdzRTWXdOOWNjY19mcTMxd0RabFBHbjhYd2pQRzh0NFJLR3QzWXZ4Z3VxMlBVekRoQQ?oc=5)
 
 2026-04-27
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
-
----
-
-### [Cancer du pancréas : ce nouveau médicament prometteur qui augmente fortement les chances de survie](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVhIMnVIREdoWTlVZmZxLUhkTmNOMVA1d2tObXIwUm5ZZGkwUkE2d2VyM0JmbUoweXFEX25YZzA1bW1SYU5YV0s4dVpKVnhLb3l2MlFGZ2d1T1BWMkpOTERWUEtRYVROeXJOOGNUMEtPVFhrTmNIazdia1lTVnlWVHRiVVo5TWgyX0Z6M0pYaWI4emktNDYxRnpzbmVKSXNtMTBib0prakxwei1xemR3bVVrMklCQkJfTFNXUThaYnR5bG9WdHN6Ym54Z3VzMktSTVJIRzBoeHA2bTQ5MzFr?oc=5)
-
-2026-04-27
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVhIMnVIREdoWTlVZmZxLUhkTmNOMVA1d2tObXIwUm5ZZGkwUkE2d2VyM0JmbUoweXFEX25YZzA1bW1SYU5YV0s4dVpKVnhLb3l2MlFGZ2d1T1BWMkpOTERWUEtRYVROeXJOOGNUMEtPVFhrTmNIazdia1lTVnlWVHRiVVo5TWgyX0Z6M0pYaWI4emktNDYxRnpzbmVKSXNtMTBib0prakxwei1xemR3bVVrMklCQkJfTFNXUThaYnR5bG9WdHN6Ym54Z3VzMktSTVJIRzBoeHA2bTQ5MzFr?oc=5)
-
----
-
-### [El cáncer de testículo duplica su incidencia entre los 15 y 35 años, pero mantiene altos índices de supervivencia - Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
-
-2026-04-27
-
-來源：[Aragón Noticias (CARTV)](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUVOYm92ekl6dlJEZElrMHJWaDJyZzVUOXlPSE1IdWx0QVFjSm11a25HZ0p2MWRzaGZuaW5HaTZ6ZUZaRXNxaTJjZjJCTU1ZUUdhSHJwUlVOT3BtbFBwWDllNDQzOUh5eURfSEFHcVluNjZkbmdxUUVDZm41RmF6N1dXUEZNaTlEQ3ZvbzlXUnVic0c3aDY1ZHNSQzA0czE0T0gxb2RnM3hJRHN2SW53TDVTVFh6cHNJZzRTZHhkVF9ZYmVnbWZYUFZ5ZDBYcEE2V2VMVzJYck9pQmk5dlhTaVpRQ3pzLTUwcFhPRXdBWQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2N5M1NYRkV1ZWJoS1pjRlhBRGhkY09qbm9XTTRnQWF2Ul93djFGb0Y1ay1MWUM1WF9Sc21Pa016cXdqVEVrdWt4eGF5TkZIcDVGY2xkRkVZWkl3ZDRtMm9VLVJSR0RiSFI3ZTR0N0E0dmNqbjZMdDZmdzRTWXdOOWNjY19mcTMxd0RabFBHbjhYd2pQRzh0NFJLR3QzWXZ4Z3VxMlBVekRoQQ?oc=5)
 
 ---
 

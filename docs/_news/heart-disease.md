@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart failure（heart disease） 相關新聞"
+title: "heart disease 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart failure（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart failure（heart disease） 相關新聞
+# heart disease 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart failure（heart disease） 有什麼相關新聞？">
-<strong>heart failure（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
+<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart failure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,21 +85,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [‘I thought I was doing everything right’: Crossmaglen dad, 40, shares shock heart failure diagnosis - Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
+### [Cardiologist warns one glass a day 'significantly' raises heart disease risk - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
 
-2026-04-27
+2026-04-28
 
-來源：[Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
-
----
-
-### [How often should you check your cholesterol? A cardiologist explains - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
-
-2026-04-27
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
 
 ---
 

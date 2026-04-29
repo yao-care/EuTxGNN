@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Demuestran que la EPOC se manifiesta de forma distinta en hombres y mujeres - La Razón](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaGQtNWdXeENlU1JCS0d0Sy1SSkdUeWN5X3FuZlNvbjZ3TTBDR3JiMGM5Y0FSYm5EamJIUk5rZ3FqVG0zaThEUUFGY2VTa1Q3LUVjUzJ0RWVhaG5EUEFoVTczQ3ZSWjhCYTlSS0NSTUVGeGpkYTFKX3g1ZGxvc2xBb2oxMXd3YTlzVzJlbjNMcTRNdi1OZFhWWWdtSWtTMjE0SjZuZDFvQ0kzLUhhSkFYdnAtQ3pCdmVWTFBPZ19nZWJTZ0xOaW1Z0gHbAUFVX3lxTE5lZG42Ym02YVVPNnkxOXFpRWNyVHRrSjVrRjc5QmpfdjFwZmZDWTlOSi12SC1Ua3VDNnlFelBzX3hhRDhvMTJQUnItbTVzeklJZTJlRXVSemRZa1poQUl5ckhnMUtXVkhMekRpT2pQVEdpYmNmWW5qWk5KSzhGdGFLQlRWNWRMbkxlLS1RSHlMb0xEeHpNck81MEpOdXJSRXJ2U1JVU01wOGRnUEZvTEs4RmRHMngtVkd1eURYMFFSdTRsMzJXLURSejc5bUVzTGpKMmhjN2Q4TW1YSQ?oc=5)
+
+2026-04-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaGQtNWdXeENlU1JCS0d0Sy1SSkdUeWN5X3FuZlNvbjZ3TTBDR3JiMGM5Y0FSYm5EamJIUk5rZ3FqVG0zaThEUUFGY2VTa1Q3LUVjUzJ0RWVhaG5EUEFoVTczQ3ZSWjhCYTlSS0NSTUVGeGpkYTFKX3g1ZGxvc2xBb2oxMXd3YTlzVzJlbjNMcTRNdi1OZFhWWWdtSWtTMjE0SjZuZDFvQ0kzLUhhSkFYdnAtQ3pCdmVWTFBPZ19nZWJTZ0xOaW1Z0gHbAUFVX3lxTE5lZG42Ym02YVVPNnkxOXFpRWNyVHRrSjVrRjc5QmpfdjFwZmZDWTlOSi12SC1Ua3VDNnlFelBzX3hhRDhvMTJQUnItbTVzeklJZTJlRXVSemRZa1poQUl5ckhnMUtXVkhMekRpT2pQVEdpYmNmWW5qWk5KSzhGdGFLQlRWNWRMbkxlLS1RSHlMb0xEeHpNck81MEpOdXJSRXJ2U1JVU01wOGRnUEZvTEs4RmRHMngtVkd1eURYMFFSdTRsMzJXLURSejc5bUVzTGpKMmhjN2Q4TW1YSQ?oc=5)
+
+---
 
 ### [Kortikosteroide bei COPD: Segen oder Fluch?](https://news.google.com/rss/articles/CBMijAFBVV95cUxQemhPSGJHZHIxU1kzSjExRHVvR183TGRUN1hhZmZZR1BqdXhHSGdROFFkZTZ2eDNOU3p4MVl6d0lZQWZDME5xcDZrZ3B5ZUV6ay16V1MxcmtzT2F1eXdkRzhlTjM0Z2l4dVZVaUI0akg0SzBmM0w3eHR3RkhNQjQya3FsQWhXVmMxclVFZA?oc=5)
 

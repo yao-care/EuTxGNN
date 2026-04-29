@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [El ácido úrico alto se vincula a más riesgo de ictus o infarto en mujeres de más de 50 años](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
+
+2026-04-29 <span class="news-indication-tag">ictus</span>
+
+來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
+
+---
+
+### [Tipps aus Mönchengladbach: So kann das Risiko für einen Schlaganfall gesenkt werden - RP Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkp3clJQWU9EU1RiTWd3SVZ1elhLUFBUY0FYRDJfVjVNc25mX3RkdWNZRHR5YzJ4eUNWUXdSYS12UGZ0TjhSNlRZQno3UGxCbHRzTEdKZGxsRE44UXg3dHRvOHFfdC0yR0ZGdmI5UzFvNVdyUGJEZ0JxOTRDMlBRTkliODFvanpwTk56cXFQVVU0bndKZXJqTXNFeExoVUtSU0hkU3p3SThuY2ZjVXRSX0Vn?oc=5)
+
+2026-04-29 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[RP Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkp3clJQWU9EU1RiTWd3SVZ1elhLUFBUY0FYRDJfVjVNc25mX3RkdWNZRHR5YzJ4eUNWUXdSYS12UGZ0TjhSNlRZQno3UGxCbHRzTEdKZGxsRE44UXg3dHRvOHFfdC0yR0ZGdmI5UzFvNVdyUGJEZ0JxOTRDMlBRTkliODFvanpwTk56cXFQVVU0bndKZXJqTXNFeExoVUtSU0hkU3p3SThuY2ZjVXRSX0Vn?oc=5)
+
+---
+
+### [Cardiologist warns one glass a day 'significantly' raises heart disease risk - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
+
+2026-04-28 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2toZkVxdzlRT0dONWxDRTVDdl9xZ0lzMnM3cjZzZVVka1NmZjFNT00tN25OenRrUlpkUHNyQzJ3WkpZSkIzemVELUpHd0JEUzZ1Nmk5d0dfS1NNbTlGb0FwVnhaSFRQdU5LUmswaVlaUHNUNlpkZllQdVlCcHItWEhQUm3SAYoBQVVfeXFMUGJkTVJxdjlaQXN6YTQtQzZJTEhkWU9IM1RidXlYNWpXQmVOaWtHMUNxcXVTTE9ycjRNa19CTEdMX1R2alJMZDFWLXowU3d4LXZicUNlcmNNVGxVZDcya3FXRXN2ZE1QVDgzVG1PTkEyMHlpWExSdHgyNW9rT1hweUtHSUc0QWo4ZnRn?oc=5)
+
+---
 
 ### [Neuro-Talk: Durchbruch bei der Schlaganfallforschung und erfreuliche Nachrichten für Kaffeetrinker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
 
 2026-04-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
-
----
-
-### [‘I thought I was doing everything right’: Crossmaglen dad, 40, shares shock heart failure diagnosis - Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
-
-2026-04-27 <span class="news-indication-tag">heart failure</span>
-
-來源：[Armagh I](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEJsTkpuTHJqejdnRVR5SE1YTUllYjVGLThudmNwSk93dXdGVF90bXFTTUFMTDdmZUhjbEZnUzVBbU1GMGtpd01Fck1vX3NYdl9pN0RHSzh6bXpEUWtPdm80Y2R3cEFuWlZoMmFYM2hGamd4cGZCcjcwUG1HWkJfcU5HT01zN3BuWTM5U1VZSlFIVjl2RVVQYVd5dkZMX2RNRnVZOVFlTE5PLTBaX3FhcHY3Y093QzgzUks2MFMxZGJNMUgxS3c0eEVPellfTlMxMEZ6cllaZWZpYnM?oc=5)
-
----
-
-### [How often should you check your cholesterol? A cardiologist explains - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
-
-2026-04-27 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGZORUlCZ3ppYlhRN3FVT3M3dVUzM1M3SnRPaUJZVnNZT3dMckdtQm9lVUlrZndWOFVpYlRmWWR3UEhEVllZUEZtemswTnMwQ0dVZWxLcVV5MWt2aUFkY2Z6V1o5TlVWcUMtcTJBRWhrelFqQS1UMFRNYUVpSW9DM3FCUUtTWTh2NWlvY3IzQ1RHYmZ4T3k4QzQyZllrVExzT0VOUW5n?oc=5)
 
 ---
 

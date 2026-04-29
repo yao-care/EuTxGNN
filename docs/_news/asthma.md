@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthma 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Contaminación: así impacta en pulmones con asma](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVpQTUFLQ2NUNzI4ZXdIM1gxY1EzVDhuZjVFd2NkME8tLUpFb0hBUlpNTVRIbmItckRpQVdnbUhadjB1RDlQZlJFcXlCYWV5aEVtbWlzcW9CdHE1cXVEUnBORHFIckF3MlM0N2xRRFowZFRNbktkMVc2bXVOOG1JUHRmVTNsU0E2bjRZUjJya3BIOTVDemM1ZnVkWG5YT1FFMktBRzlOSllOUDZOdUE?oc=5)
+
+2026-04-29
+
+來源：[consumer.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVpQTUFLQ2NUNzI4ZXdIM1gxY1EzVDhuZjVFd2NkME8tLUpFb0hBUlpNTVRIbmItckRpQVdnbUhadjB1RDlQZlJFcXlCYWV5aEVtbWlzcW9CdHE1cXVEUnBORHFIckF3MlM0N2xRRFowZFRNbktkMVc2bXVOOG1JUHRmVTNsU0E2bjRZUjJya3BIOTVDemM1ZnVkWG5YT1FFMktBRzlOSllOUDZOdUE?oc=5)
+
+---
 
 ### [Asthma im höheren Lebensalter: Komorbiditäten und Defizite in der Krankheitskontrolle - Gelbe Liste](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFdSM0U3S1VUT2UyOVZjQTVfVGpXZEZ6NlY4TU0xLVJKRmpnTS02SnFtaE15ZHh0M3VyM0VwZ05KLUZmRmtJbHZXRFV3bDVhVkl6MndzS2ZyNTVZbldsSklaRlZvVV9Zc19ZT0huWk9OZmRCRlVjV0VoUXR4dXRCX1dNV0d5MklKdFNLdkFWQTJwcjg?oc=5)
 

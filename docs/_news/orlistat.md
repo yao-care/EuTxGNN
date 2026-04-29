@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,43 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Molécula natural podría ofrecer una alternativa a Ozempic](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
+### [El ácido úrico alto se vincula a más riesgo de ictus o infarto en mujeres de más de 50 años](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
 
-2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-04-29 <span class="news-indication-tag">ictus</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2drXzd6VFMzZEtOOWJGRDlPOWVFQXVaR1pndmZfVV81U0RWY3hLaVgtVndsSzV1aHFLVlhFS2piNXNOTVZpUHJUeHFNci1wS0lzaS1sWkVNa012QThSQXJyRlk0OUpIcnppbXNYWG90QWpwemZtd2twbVI1cElSLTBpT09WT3ZRUkZmUUFyYXZPZy1GX0ZsejZzcWg3Y0VsQjdxMVAxTWhNSmFJMHfSAa4BQVVfeXFMTXEzSW54emFXR0RtWmw0NG1Wd3RGUkJ3TU5CbU5yOVp6Q1pydUVIYmdlc1lsdnZMWktFUHJ1VWNuM3R3LWRUSWNndjI3dFFkQmlXb0ZJdnB6RnBEa192OHJuSkQ4TmM0U3hnVExBNTVlSGRsd3VIR2FLdG1hUGRWcWgzTDJUbWtyZkM1YVUtaHdpRkpOdjFZYzVYUlhkRzZQYlo5M1RuVzl2ektTVW5R?oc=5)
+來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
+
+---
+
+### [Tipps aus Mönchengladbach: So kann das Risiko für einen Schlaganfall gesenkt werden - RP Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkp3clJQWU9EU1RiTWd3SVZ1elhLUFBUY0FYRDJfVjVNc25mX3RkdWNZRHR5YzJ4eUNWUXdSYS12UGZ0TjhSNlRZQno3UGxCbHRzTEdKZGxsRE44UXg3dHRvOHFfdC0yR0ZGdmI5UzFvNVdyUGJEZ0JxOTRDMlBRTkliODFvanpwTk56cXFQVVU0bndKZXJqTXNFeExoVUtSU0hkU3p3SThuY2ZjVXRSX0Vn?oc=5)
+
+2026-04-29 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[RP Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkp3clJQWU9EU1RiTWd3SVZ1elhLUFBUY0FYRDJfVjVNc25mX3RkdWNZRHR5YzJ4eUNWUXdSYS12UGZ0TjhSNlRZQno3UGxCbHRzTEdKZGxsRE44UXg3dHRvOHFfdC0yR0ZGdmI5UzFvNVdyUGJEZ0JxOTRDMlBRTkliODFvanpwTk56cXFQVVU0bndKZXJqTXNFeExoVUtSU0hkU3p3SThuY2ZjVXRSX0Vn?oc=5)
+
+---
+
+### [La obesidad afecta ya a una cuarta parte de la población en España y los expertos alertan de su aumento - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
+
+2026-04-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
+
+---
+
+### [Obesity a key factor for rising cancer rates in young people in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
+
+2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
 
 ---
 
 ### [Common vitamin may help repair liver damage from a disease spreading worldwide](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWc1MDZIVUwxV00xT25MRjJYN09tNjQxZzFva2tZSEtVOVRwUFRaaFdZYTBTdkRfdktzOXNteE1YMEU5c2szdmRWNmJfVXhHak9rbE1meWZXM0NIYzF6MTdxOEFqYkFUZlpPWWVyNVlZbXg1MUdjbVY4b05KV3JJRXBlcVJJLVUyOFFDNnB3dk5XNk1jUmlj?oc=5)
 
-2026-04-27 <span class="news-indication-tag">obesity</span>
+2026-04-27 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Earth.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWc1MDZIVUwxV00xT25MRjJYN09tNjQxZzFva2tZSEtVOVRwUFRaaFdZYTBTdkRfdktzOXNteE1YMEU5c2szdmRWNmJfVXhHak9rbE1meWZXM0NIYzF6MTdxOEFqYkFUZlpPWWVyNVlZbXg1MUdjbVY4b05KV3JJRXBlcVJJLVUyOFFDNnB3dk5XNk1jUmlj?oc=5)
 
@@ -75,14 +99,6 @@ permalink: /news/orlistat/
 2026-04-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlZnRUcxYzhsZjJWUVJ2Z3llbWJSLUE1TlZYYm4xbzdUSUVYTDdmVHc3TTFzcjdBYzUyemdlMi1uRkJhNTNxOXE5MVhGYnZZWGcxQ3BndHNaZnRDTm15MGdKUUFRTHVGU182ZVBxRlJWQlR0eUJZYm9RUGdhMFhidDdtQzhFVWVXQWtyMWFnYXg5RExQZUpOTG4ycVh2TWw3MHlDcjhlNldMcldYZDRBLU9Dbw?oc=5)
-
----
-
-### [Más allá de la báscula: hacia una nueva forma de entender la obesidad en la consulta médica - El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
-
-2026-04-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUZTay00T1lHeVlUbkxFSUhlOVZjOHZsZWt3ODV4QTlJS3FEZW1aQ2IwdndjOFNPQ3ZLZWZVRTFDRzZYZU94TGg2eWVVOWFlVFRBT3Y4cHFmdTJ0UnUtVXZkWHdqQmNKVnFSZUw5OS1CTHFielRMQ2U3QVRwMkttUkpWYWZpYmROMHUwWUJvczFUVDdub3pfY1ltTlp1MDB5aEZDVE84ZzZWbVJIQ2VOb3dYS0FhS1BHQ2NiUnUtWjE?oc=5)
 
 ---
 
