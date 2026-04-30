@@ -14,7 +14,7 @@ permalink: /news/atazanavir-as-sulfate/
 ---
 
 <p class="key-answer" data-question="Atazanavir (As Sulfate) 有什麼相關新聞？">
-<strong>Atazanavir (As Sulfate)</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Atazanavir (As Sulfate)</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/atazanavir-as-sulfate/
 <p><a href="{{ '/drugs/atazanavir-as-sulfate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（28 則）
 
-### [Addict aux jeux, train de vie luxueux… Elle rasait la tête de son fils pour faire croire à son mari et à ses proches qu’il souffrait d’un cancer](https://news.google.com/rss/articles/CBMimAJBVV95cUxPQWNwcXdMa2tmaGlvaEx1dWhNeGNlenhLc014dFN5eXpXTUJoVUlMZjJ6dXp0NXdyTTRfUmtFYy15QWo4WjJ5SHpIUHZqSkRaODNjRlN2SGExY1VzbzY2T3hVZElGMy1vRUlZSTZYNGJXRUx6enEySW9vTWVEQy1OejJ6YTZhNVItMGEwSEw1dnI4bDJfd1RRYTRKRU1uM1lhU0xXR2RPM003OGRCc0VwQk0zTy05eVpaUkZZUWgxZUpkZURiQnpOWWtXSHNCaXNrZ0VPNy13RmhlUkdkaWZRbTc2emNsYTJNeV9WOElha0dPUFIxMUZwSWNnU2lWN0FrUDdTN3hrU0tjM0hEb3N6SU5vbmp2dzVO?oc=5)
+### [Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80emxRdmUtSGV2ckpON2FPSkRMUjJwSmZWSndOUE9UU3c4cy1ERGhEVmpnSHVsdmtyUEtpZ21HLW11TXBiSUcxeHJzQnhNOWhucHVWMDQ1ZEoxUXF5MENB?oc=5)
+
+2026-04-29 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80emxRdmUtSGV2ckpON2FPSkRMUjJwSmZWSndOUE9UU3c4cy1ERGhEVmpnSHVsdmtyUEtpZ21HLW11TXBiSUcxeHJzQnhNOWhucHVWMDQ1ZEoxUXF5MENB?oc=5)
+
+---
+
+### ['The symptoms waking me at night were a cancer - but I ignored them for years' - GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1E0bFp1alFxNl9CTEdsTzZWNDkwQmpvUTFhWXVaeFFPakVzVi14MzdCdXhta1M1UUZLcEo5VHVLMG5QTENseWRONk12bUdnWE1zMnprS0NXbmNtYkc5SEEya3VCalJmVV9VaVgxT0RBM3BaVHIwVnhENkxsUUlUcHctd3o?oc=5)
+
+2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1E0bFp1alFxNl9CTEdsTzZWNDkwQmpvUTFhWXVaeFFPakVzVi14MzdCdXhta1M1UUZLcEo5VHVLMG5QTENseWRONk12bUdnWE1zMnprS0NXbmNtYkc5SEEya3VCalJmVV9VaVgxT0RBM3BaVHIwVnhENkxsUUlUcHctd3o?oc=5)
+
+---
+
+### [Le déchiffrage de vos 70 milliards de cellules mortes quotidiennes permet désormais de repérer un cancer pour quelques euros](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUE9iaV9NNk0xYU1rVS1qOHdFdS02Xzl0djFDeFFPTEFZZHdtOVBSU0tkQ1hpWVYtMDM3anhrZ2lnS1prTjN5OVppMEtzbXl1SFo1RUxoUFlUVTVHRk5oNkR5ZjM5TVUyNzI0b25pSld2dVVMa3c5enFxYmZQQUJBZGF0V3Z3R0Rud0dIdUI5d1Bqb21VSF8wdFUzT3VvWmFIR0hyVWdEM19wS0lRcWhubWdydXg0TVF3bHRuRktzMWV6MVNvbVZncGFhLU9oeHVocmo1RW9yWENlV1duVDVZckhB?oc=5)
 
 2026-04-29 <span class="news-indication-tag">cancer</span>
 
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxPQWNwcXdMa2tmaGlvaEx1dWhNeGNlenhLc014dFN5eXpXTUJoVUlMZjJ6dXp0NXdyTTRfUmtFYy15QWo4WjJ5SHpIUHZqSkRaODNjRlN2SGExY1VzbzY2T3hVZElGMy1vRUlZSTZYNGJXRUx6enEySW9vTWVEQy1OejJ6YTZhNVItMGEwSEw1dnI4bDJfd1RRYTRKRU1uM1lhU0xXR2RPM003OGRCc0VwQk0zTy05eVpaUkZZUWgxZUpkZURiQnpOWWtXSHNCaXNrZ0VPNy13RmhlUkdkaWZRbTc2emNsYTJNeV9WOElha0dPUFIxMUZwSWNnU2lWN0FrUDdTN3hrU0tjM0hEb3N6SU5vbmp2dzVO?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUE9iaV9NNk0xYU1rVS1qOHdFdS02Xzl0djFDeFFPTEFZZHdtOVBSU0tkQ1hpWVYtMDM3anhrZ2lnS1prTjN5OVppMEtzbXl1SFo1RUxoUFlUVTVHRk5oNkR5ZjM5TVUyNzI0b25pSld2dVVMa3c5enFxYmZQQUJBZGF0V3Z3R0Rud0dIdUI5d1Bqb21VSF8wdFUzT3VvWmFIR0hyVWdEM19wS0lRcWhubWdydXg0TVF3bHRuRktzMWV6MVNvbVZncGFhLU9oeHVocmo1RW9yWENlV1duVDVZckhB?oc=5)
+
+---
+
+### [Crema solare, il paradosso che allarma gli oncologi: "Usarla male può aumentare il rischio melanoma" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaWlTamVDVnREZm9TbjNzRTBUOU14RjZQTHlMZENtVFZReTF2ZkdDWVdkUU1RdkgtM2RkRmtoVTAyNTRUYlVLeEd5d0N4ZEJSS2p0eExhcVRuLTNZTGVrN0FwcVlWcmI3ZEJEUkJRdkJnNnZZYkctSU5jdzBtdUlReGh1V0NsY2VqbEk2UHZ5RExlZVo4WDYxT1V5ZXd3di10eHQ5cWdOVTVJV1BxUEpSWTVzVmp1Z2V2RFV5OWhqSnZsaklJb0NJdFB5ZEVMdWFuVXhpVmk0YkxDa2x3Z2M4Z3lnWQ?oc=5)
+
+2026-04-29 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaWlTamVDVnREZm9TbjNzRTBUOU14RjZQTHlMZENtVFZReTF2ZkdDWVdkUU1RdkgtM2RkRmtoVTAyNTRUYlVLeEd5d0N4ZEJSS2p0eExhcVRuLTNZTGVrN0FwcVlWcmI3ZEJEUkJRdkJnNnZZYkctSU5jdzBtdUlReGh1V0NsY2VqbEk2UHZ5RExlZVo4WDYxT1V5ZXd3di10eHQ5cWdOVTVJV1BxUEpSWTVzVmp1Z2V2RFV5OWhqSnZsaklJb0NJdFB5ZEVMdWFuVXhpVmk0YkxDa2x3Z2M4Z3lnWQ?oc=5)
 
 ---
 
@@ -126,6 +150,14 @@ permalink: /news/atazanavir-as-sulfate/
 
 ---
 
+### [Husband had 'no symptoms' but died, aged 47, months after diagnosis - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXhJZFkyNUxtd3g1NW85VjVGNWxtTkh5QzNiY3Zleml2SDhpOFZiZmtrNkUxcXU1X3lsb1RjRkZQQUlWN3dZNTJxSFlWZjg1dUhYVmxvYnRFUEdmWU10MGtHTmplRGJCcy1lSEFZZ2Iya0NtbG5VY3l1MEtfcDl1UtIBhgFBVV95cUxORlpKYXdYdmE2dGQ5OVRwTjV2UEd4VnUyNVJiVDNGdENyY3pYNzFkUTlpQU1XeXM5Tl91WmJqdTVqSWt5aHVWck1fdFVhQjR2a2VJRFBNZWhvbkhmamQ1OWRVRl9RNGlWT1BRWXlJdG5RYko4SkItcGQ1UUlJNTZnWFVaYjh0Zw?oc=5)
+
+2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXhJZFkyNUxtd3g1NW85VjVGNWxtTkh5QzNiY3Zleml2SDhpOFZiZmtrNkUxcXU1X3lsb1RjRkZQQUlWN3dZNTJxSFlWZjg1dUhYVmxvYnRFUEdmWU10MGtHTmplRGJCcy1lSEFZZ2Iya0NtbG5VY3l1MEtfcDl1UtIBhgFBVV95cUxORlpKYXdYdmE2dGQ5OVRwTjV2UEd4VnUyNVJiVDNGdENyY3pYNzFkUTlpQU1XeXM5Tl91WmJqdTVqSWt5aHVWck1fdFVhQjR2a2VJRFBNZWhvbkhmamQ1OWRVRl9RNGlWT1BRWXlJdG5RYko4SkItcGQ1UUlJNTZnWFVaYjh0Zw?oc=5)
+
+---
+
 ### [Shetland mum says 'Viking gene' testing saved her life after early cancer diagnosis - STV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3E5RUhWVXBJZWRjaHdndnhkaHU2QkJhVndINThHcnF3TzhieWFaYzF1ZVNnTFE4OUR0V0lTWWMxc2dad3Q5U05tWDVETVRabWM1T0pZamNEQlFPUmotOXVfd1hTU1piY3Z5LWdhVHFQWTRTdHFpc2ZnUHZxQUYzN2VGZEJGUTVMWEk0Y0pHdXFJMlJlTENWcHlrdXFuQ2VPaURpM2J3b2gtZ2tZaVdTblBoVmdhUWI1eFNr?oc=5)
 
 2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -136,7 +168,7 @@ permalink: /news/atazanavir-as-sulfate/
 
 ### [Breakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVl6Q0V0WW9TMkJ5NkItTmY3NGZPXzlmc3d6RlYtVDdiZkd4LVFFQlZvRjRadWZWZFRuVTlRcnJZdnNCX0xvam0wQS1IMm1qMEtxMHpnQzZsdjUtZUxMLXNrNy1WUmZPWVNSalFHVWRZVnRJNGJEcHJxZDhzSy0xdGFjQllDX1ZMNGwwYndZV0NYekxiU2NFVWlEdEFNMjBnaTB0MzhqYw?oc=5)
 
-2026-04-29 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span>
+2026-04-29 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVl6Q0V0WW9TMkJ5NkItTmY3NGZPXzlmc3d6RlYtVDdiZkd4LVFFQlZvRjRadWZWZFRuVTlRcnJZdnNCX0xvam0wQS1IMm1qMEtxMHpnQzZsdjUtZUxMLXNrNy1WUmZPWVNSalFHVWRZVnRJNGJEcHJxZDhzSy0xdGFjQllDX1ZMNGwwYndZV0NYekxiU2NFVWlEdEFNMjBnaTB0MzhqYw?oc=5)
 
@@ -158,22 +190,6 @@ permalink: /news/atazanavir-as-sulfate/
 
 ---
 
-### [AI Spots Pancreatic Cancer Years Before It Shows Up, Study Finds](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmZtVlphX05IbkthT2JuREkzOHpvVFQ0R2xVTldSZ180YVJHUnRvbmlZaWszSW90bDlNQUVJRzBKelhwVUduYUlFQnQzcnlPUnhlMmN4TVpURFV0a3VZWXR6MUdVaFZZRllNaHM4WDdVUEdYSmNRZnZsR1pyblVmRXJpRjBuaG5CMWtYQXpNWjhTaWJUTnlJeXU4M3BiNW9xcDRIWjhXNERzRWFiWHVRRHJxb2k?oc=5)
-
-2026-04-29 <span class="news-indication-tag">cancer</span>
-
-來源：[Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmZtVlphX05IbkthT2JuREkzOHpvVFQ0R2xVTldSZ180YVJHUnRvbmlZaWszSW90bDlNQUVJRzBKelhwVUduYUlFQnQzcnlPUnhlMmN4TVpURFV0a3VZWXR6MUdVaFZZRllNaHM4WDdVUEdYSmNRZnZsR1pyblVmRXJpRjBuaG5CMWtYQXpNWjhTaWJUTnlJeXU4M3BiNW9xcDRIWjhXNERzRWFiWHVRRHJxb2k?oc=5)
-
----
-
-### [Prevenzione del melanoma, l'abito fa più scudo della crema solare](https://news.google.com/rss/articles/CBMifEFVX3lxTE1SSVI3TTJfbVl3NElETDlYaWNuVUw0aVZRSy1WWWY0d2JXdjB6cXNHLVpGZ1RhZVlFeVo3Vjg4WW1WUElhdTQwNEk4b0U5Uk9majJwdHlsbjhJV0VrWWxvak9kVDhLc29HdXI0SWYweHRoSktiQXNJZXlId0M?oc=5)
-
-2026-04-29 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMifEFVX3lxTE1SSVI3TTJfbVl3NElETDlYaWNuVUw0aVZRSy1WWWY0d2JXdjB6cXNHLVpGZ1RhZVlFeVo3Vjg4WW1WUElhdTQwNEk4b0U5Uk9majJwdHlsbjhJV0VrWWxvak9kVDhLc29HdXI0SWYweHRoSktiQXNJZXlId0M?oc=5)
-
----
-
 ### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
 
 2026-04-28 <span class="news-indication-tag">tumor</span>
@@ -190,19 +206,19 @@ permalink: /news/atazanavir-as-sulfate/
 
 ---
 
-### [Cette erreur médicale lui a coûté cher : une trentenaire subit une ablation du sein pour le cancer… D’une autre patiente - Midi Libre](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLTdaaXJaREhPQnY1ZTZRYVVnbEZxSXI0aldLSzdfcG9OVFFQdDVUR3hwUDJSejk5dTZGS2ZWSlRualpBbGJ5RDE3S2x4NWhlU2gwSlFJb2FqR0dwTG54cUw2bThDc1llb1BueVVlZ2VLUkhKVE9wdWV2MkRBU0k5eWpYRFNpMkxxNk01dXFGVWFrNTFfcUJJQVFUdlE0ZGtsanJTSkwyVzBuMW9keWI3TlpQMTVSaGs2aUFaZUVLUF9zZGtUYkJBYndEeUJSQnFQaEhMbjdEOTAwR0VNd19qNjM4RWpORXA4LVhxOHVtT09CTXhOTE1iUQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">cancer</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLTdaaXJaREhPQnY1ZTZRYVVnbEZxSXI0aldLSzdfcG9OVFFQdDVUR3hwUDJSejk5dTZGS2ZWSlRualpBbGJ5RDE3S2x4NWhlU2gwSlFJb2FqR0dwTG54cUw2bThDc1llb1BueVVlZ2VLUkhKVE9wdWV2MkRBU0k5eWpYRFNpMkxxNk01dXFGVWFrNTFfcUJJQVFUdlE0ZGtsanJTSkwyVzBuMW9keWI3TlpQMTVSaGs2aUFaZUVLUF9zZGtUYkJBYndEeUJSQnFQaEhMbjdEOTAwR0VNd19qNjM4RWpORXA4LVhxOHVtT09CTXhOTE1iUQ?oc=5)
-
----
-
 ### [Informationsveranstaltung: Krebs im Dialog](https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUJUR3Q4blpNZHJGNmRrWlY4MGtCMzcxNzdveWdyZTFrWDlZREVjSThjcGlpanFPSUJkLUFxOXJ0UlM3WkRZb0Q0SmRqMHhMZl85NVZuc251X3NaNTkzQVAxa1Z4N1g5UlBNa3dRdXl4OVUtbDJkVnNaTnltSlloSjVR?oc=5)
 
 2026-04-28 <span class="news-indication-tag">Krebs</span>
 
 來源：[dekade-gegen-krebs.de](https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUJUR3Q4blpNZHJGNmRrWlY4MGtCMzcxNzdveWdyZTFrWDlZREVjSThjcGlpanFPSUJkLUFxOXJ0UlM3WkRZb0Q0SmRqMHhMZl85NVZuc251X3NaNTkzQVAxa1Z4N1g5UlBNa3dRdXl4OVUtbDJkVnNaTnltSlloSjVR?oc=5)
+
+---
+
+### ["On lui a volé une partie de son corps" : à 35 ans, elle subit une ablation du sein… pour un cancer qu’elle n’a jamais eu](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcEQ2c0ZZeEhZa1dVUk9rNlh1a1g0S3VpUE9RblVRa05tdW9GYTMwUXFHNmE4MzVmQURBdzE1NlhEc2hVb2dtRmxfN3lyYkRsUFZ4elVsclMwdGJHSUxHVVlMSGZMTktEb0NLM2JoNk4xNFZ1dk9vMlhkVWh3S25mTGpWVVRuMTA4SFp3SHJlT0F4dTFkS21aNmwyeDEtRnBFSXd4RFVoRktFdU9DN0xBNjhib0g2cmNGWDZZRnpBaG9uWFlDVWJaTm85cklWWDE2UUZid1hyVS1nMzVTekhEUXFIaFpBcFQ2cVhCc29QNUlOcjJG?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcEQ2c0ZZeEhZa1dVUk9rNlh1a1g0S3VpUE9RblVRa05tdW9GYTMwUXFHNmE4MzVmQURBdzE1NlhEc2hVb2dtRmxfN3lyYkRsUFZ4elVsclMwdGJHSUxHVVlMSGZMTktEb0NLM2JoNk4xNFZ1dk9vMlhkVWh3S25mTGpWVVRuMTA4SFp3SHJlT0F4dTFkS21aNmwyeDEtRnBFSXd4RFVoRktFdU9DN0xBNjhib0g2cmNGWDZZRnpBaG9uWFlDVWJaTm85cklWWDE2UUZid1hyVS1nMzVTekhEUXFIaFpBcFQ2cVhCc29QNUlOcjJG?oc=5)
 
 ---
 
@@ -214,11 +230,27 @@ permalink: /news/atazanavir-as-sulfate/
 
 ---
 
-### [Former GP charged patients £15k to ‘cure cancer with garlic oil injections’ - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEVuTkpPM1RNYmdMVEhRcGxhYVltZzFrTGFqaEVPMENfaEd6VnE5NWZ6VmJUNlFPejJMT1lRRXdOb1EzWkJ2aFJ2c05DLXJfZmFmcXJIQlQ1S1YtU2dBWHdoRV93TDI4bHhPZHhEZGtmZWZGczRJc2Rydy0zUDhNM0g3SzhEODYtaHJBMXU4WVMzQ1p6MGR6N0t2UzlVRktJWGxWV3hJUQ?oc=5)
+### [GP struck off over garlic oil 'cancer cure' claims](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
 
 2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEVuTkpPM1RNYmdMVEhRcGxhYVltZzFrTGFqaEVPMENfaEd6VnE5NWZ6VmJUNlFPejJMT1lRRXdOb1EzWkJ2aFJ2c05DLXJfZmFmcXJIQlQ1S1YtU2dBWHdoRV93TDI4bHhPZHhEZGtmZWZGczRJc2Rydy0zUDhNM0g3SzhEODYtaHJBMXU4WVMzQ1p6MGR6N0t2UzlVRktJWGxWV3hJUQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
+
+---
+
+### [I was hungry and looked pregnant - morning sign lead to cancer diagnosis at 22 - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbF9HYUpOc0FSMWxaeXd1UE5GNEZmcHV2TUl3TUV2aHpDTGxjbkdqSFR5SnQ0UlJia1BkdWdMd1VTc2RzVlB4S3doQ3kwVlJLSjVSY1oweko0dFB1T3dDY1VuQ2M2bWlHRkhtd2ZVMkQ0RzBTMVJ6VWxhcGVlX0NzdHAyVzlpa2VZdFd0YjJCaFJRXzJFWXJVN0FB?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbF9HYUpOc0FSMWxaeXd1UE5GNEZmcHV2TUl3TUV2aHpDTGxjbkdqSFR5SnQ0UlJia1BkdWdMd1VTc2RzVlB4S3doQ3kwVlJLSjVSY1oweko0dFB1T3dDY1VuQ2M2bWlHRkhtd2ZVMkQ0RzBTMVJ6VWxhcGVlX0NzdHAyVzlpa2VZdFd0YjJCaFJRXzJFWXJVN0FB?oc=5)
+
+---
+
+### [I blamed my tot's mouth ulcers on common bug but it was rare cancer - now she can't even go to the park - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxONnNoUXRwTTc1X29WN19WcVRqLUM1WjByY1lCdDdHVERnSXJNS0tkbDlxUk00bFNBY21saHJxUmNzMG4wMW0wTWd2WFA4QjQ4M3hwSjJVQ0tyeVJ6cnRaaUo4MUlBWnp5anpNQXNjSU55aENwejZtQjVObTg5eXRzZk1ZV01jSnY4TnR2d191UjU?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxONnNoUXRwTTc1X29WN19WcVRqLUM1WjByY1lCdDdHVERnSXJNS0tkbDlxUk00bFNBY21saHJxUmNzMG4wMW0wTWd2WFA4QjQ4M3hwSjJVQ0tyeVJ6cnRaaUo4MUlBWnp5anpNQXNjSU55aENwejZtQjVObTg5eXRzZk1ZV01jSnY4TnR2d191UjU?oc=5)
 
 ---
 
@@ -230,11 +262,11 @@ permalink: /news/atazanavir-as-sulfate/
 
 ---
 
-### [Vaping may be more dangerous than smoking cigarettes say health experts](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzZkRFNYWFA0V05weWtPY2sxdDF4WFlGdGRwcnJTWnk2OXY5NGl2Q0h4VGRtcFpDWXExcHBvSjZFWjhIV1Y0YlNMT1FaTGtyeVZESlc4OFdRal84RWc3cTdVcDFpY0VKVU5rSTFVRkNUX21jUEk2RFRkaXd0X2toVVRCS1BxV0ZLZGJjaHBBOXJUV1NxQmxYaGFtVFNUVUhzeHFWcWl2OWs?oc=5)
+### [Prostate cancer overdiagnosis risk sharply rises after age 70 – new research - The Conversation](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3VRdWJuWU5sZmRQZ0NZTHBPU3NLOTJtSl9UWnVfSmpmNmtXNEhkU0doZk44M2l6SExLQnZKOWotSGhQaDY4U25rUURNT1hxcFRCRUU3VUZsTTNnNmFiZE1NUW9kZUZXaEVLdzhVWk1ZZlVfMG1jTE5RZ29pQ3pEYm91STAwTmRUODJBYUFfazFyS3EzMG9mM0NXQXVnNEhhZU9jb1I2RFpGYTNrVGc?oc=5)
 
-2026-04-28 <span class="news-indication-tag">cancer</span>
+2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[InYourArea](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzZkRFNYWFA0V05weWtPY2sxdDF4WFlGdGRwcnJTWnk2OXY5NGl2Q0h4VGRtcFpDWXExcHBvSjZFWjhIV1Y0YlNMT1FaTGtyeVZESlc4OFdRal84RWc3cTdVcDFpY0VKVU5rSTFVRkNUX21jUEk2RFRkaXd0X2toVVRCS1BxV0ZLZGJjaHBBOXJUV1NxQmxYaGFtVFNUVUhzeHFWcWl2OWs?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3VRdWJuWU5sZmRQZ0NZTHBPU3NLOTJtSl9UWnVfSmpmNmtXNEhkU0doZk44M2l6SExLQnZKOWotSGhQaDY4U25rUURNT1hxcFRCRUU3VUZsTTNnNmFiZE1NUW9kZUZXaEVLdzhVWk1ZZlVfMG1jTE5RZ29pQ3pEYm91STAwTmRUODJBYUFfazFyS3EzMG9mM0NXQXVnNEhhZU9jb1I2RFpGYTNrVGc?oc=5)
 
 ---
 
@@ -243,14 +275,6 @@ permalink: /news/atazanavir-as-sulfate/
 2026-04-28 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
-
----
-
-### [Metabolische Krise: Wie Herz, Nieren und Stoffwechsel Krebsrisiko steigern - AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
-
-2026-04-27 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3VtNWF5MjlaWUx0QWFPdThRT0d3QmctX0piMWYtWTg2QmdLYUhaSkN0VlRfMkx3a3VaVlA1cDVzYnA4LVZqODVjZ3c5VDFhbnlmNUxYbFVjNkRfVlp3S1EwNl9kVGR1RUdER1JCTmpHenlpNkV0QVFkWlV1X3lLTldWbVo1VTFJR0J4c3I0VkkzaGtiaHljbklnOHNORXREX2ktUUk3NDc4bENjMUVTMlNwaXQzZXJabGJlRmVwX1FtdjJBNHJKZEV3QQ?oc=5)
 
 ---
 

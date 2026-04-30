@@ -62,6 +62,30 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [Offering tests after first baby loss could prevent 10,000 miscarriages a year, study claims - Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFBmbHFvMlZQcHlfT3VrS0Nka2pmNkVGa3MxTjdqMlkwb0RxUThuM3BFVVV6U0JiZV9wdHZ4WE1HSnBsVVRvbFgtYUFEUWlMNkdtdWhnaFpuQkNqc29fanBISXZueFZveDd4WnVHVDBUVG1GanRuT2JZeXJSVThSNXd5OWxVQVVyVlFKYkcxZVN1OU5VRFVHOEVIejR6Q3c?oc=5)
+
+2026-04-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFBmbHFvMlZQcHlfT3VrS0Nka2pmNkVGa3MxTjdqMlkwb0RxUThuM3BFVVV6U0JiZV9wdHZ4WE1HSnBsVVRvbFgtYUFEUWlMNkdtdWhnaFpuQkNqc29fanBISXZueFZveDd4WnVHVDBUVG1GanRuT2JZeXJSVThSNXd5OWxVQVVyVlFKYkcxZVN1OU5VRFVHOEVIejR6Q3c?oc=5)
+
+---
+
+### ['The symptoms waking me at night were a cancer - but I ignored them for years' - GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1E0bFp1alFxNl9CTEdsTzZWNDkwQmpvUTFhWXVaeFFPakVzVi14MzdCdXhta1M1UUZLcEo5VHVLMG5QTENseWRONk12bUdnWE1zMnprS0NXbmNtYkc5SEEya3VCalJmVV9VaVgxT0RBM3BaVHIwVnhENkxsUUlUcHctd3o?oc=5)
+
+2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1E0bFp1alFxNl9CTEdsTzZWNDkwQmpvUTFhWXVaeFFPakVzVi14MzdCdXhta1M1UUZLcEo5VHVLMG5QTENseWRONk12bUdnWE1zMnprS0NXbmNtYkc5SEEya3VCalJmVV9VaVgxT0RBM3BaVHIwVnhENkxsUUlUcHctd3o?oc=5)
+
+---
+
+### [Nasenspray als Grippeimpfung: Einer aktuellen Studie zufolge wirkt er auch bei Erwachsen - Salzburger Nachrichten](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbm41TENFYWxRU0JvdWZTTXZkSnpZTjJsYTZSZUJNeWliTVRMS3BHSDVqdGl4QTBOdnd5UV9kZ05zWE1aX0VMR1dNSDFLbEltbXc3SFNSMFZfcmppYTg5UkxCRGt4Tkxoa01Yb1ZHcXIyVUw1N3M5UHV6VWtnbkF3VmxHSFBJRE84UWZ2TGFFWWdhWngxamVUdUhNRGNYaktpcDVqdm5ZTFRZVUJSTmdYWTR2QmRzLUVZaTJ0cl9PYlVMemlqR0xaMGo3czY?oc=5)
+
+2026-04-29 <span class="news-indication-tag">MS</span>
+
+來源：[Salzburger Nachrichten](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbm41TENFYWxRU0JvdWZTTXZkSnpZTjJsYTZSZUJNeWliTVRMS3BHSDVqdGl4QTBOdnd5UV9kZ05zWE1aX0VMR1dNSDFLbEltbXc3SFNSMFZfcmppYTg5UkxCRGt4Tkxoa01Yb1ZHcXIyVUw1N3M5UHV6VWtnbkF3VmxHSFBJRE84UWZ2TGFFWWdhWngxamVUdUhNRGNYaktpcDVqdm5ZTFRZVUJSTmdYWTR2QmRzLUVZaTJ0cl9PYlVMemlqR0xaMGo3czY?oc=5)
+
+---
+
 ### [Pesticidi e cancro: uno studio shock rivela un aumento del rischio oncologico del 150% - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzdEZV9UQVFYWkdIelluSTVvdWwwLXhQQnExX0dqbFh0RHhFZWFab3dkMGVvU21WSm1PeFVHb3ZOVThfS21tYS1YTG9uNlhuaU1IT0pibEhmSkVsYWc5TmVvN1pSMFhaNF9RVFExbmZUbVVCWnA4TlJ1cTh5cmtFM2QwamJhLUhT?oc=5)
 
 2026-04-29 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -118,11 +142,27 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Offering tests after first baby loss could prevent 10,000 miscarriages a year, study claims - Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFBmbHFvMlZQcHlfT3VrS0Nka2pmNkVGa3MxTjdqMlkwb0RxUThuM3BFVVV6U0JiZV9wdHZ4WE1HSnBsVVRvbFgtYUFEUWlMNkdtdWhnaFpuQkNqc29fanBISXZueFZveDd4WnVHVDBUVG1GanRuT2JZeXJSVThSNXd5OWxVQVVyVlFKYkcxZVN1OU5VRFVHOEVIejR6Q3c?oc=5)
+### [La EMA respalda el fármaco oral Cenrifki - Esclerosis múltiple España](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFJybTBrMFVYeVlMRjItLXloSUUteW9GdkN3blJGWHVxbXZMVjhlZS1OMWRVeElrUTBOTjNwZWJVd2dkTmFtQ0NfNUJYc3Vta3o3bkV2eGtTa2t2SnFfT0FlampuSWk3MC1ibWNhT29PT01pOXM3SDRSUmxGUVdzWi1MVVVvM08xc2d1aHlMd1IwLUtWdk4yVlU3NA?oc=5)
 
-2026-04-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-04-29 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFBmbHFvMlZQcHlfT3VrS0Nka2pmNkVGa3MxTjdqMlkwb0RxUThuM3BFVVV6U0JiZV9wdHZ4WE1HSnBsVVRvbFgtYUFEUWlMNkdtdWhnaFpuQkNqc29fanBISXZueFZveDd4WnVHVDBUVG1GanRuT2JZeXJSVThSNXd5OWxVQVVyVlFKYkcxZVN1OU5VRFVHOEVIejR6Q3c?oc=5)
+來源：[Esclerosis múltiple España](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFJybTBrMFVYeVlMRjItLXloSUUteW9GdkN3blJGWHVxbXZMVjhlZS1OMWRVeElrUTBOTjNwZWJVd2dkTmFtQ0NfNUJYc3Vta3o3bkV2eGtTa2t2SnFfT0FlampuSWk3MC1ibWNhT29PT01pOXM3SDRSUmxGUVdzWi1MVVVvM08xc2d1aHlMd1IwLUtWdk4yVlU3NA?oc=5)
+
+---
+
+### [Husband had 'no symptoms' but died, aged 47, months after diagnosis - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXhJZFkyNUxtd3g1NW85VjVGNWxtTkh5QzNiY3Zleml2SDhpOFZiZmtrNkUxcXU1X3lsb1RjRkZQQUlWN3dZNTJxSFlWZjg1dUhYVmxvYnRFUEdmWU10MGtHTmplRGJCcy1lSEFZZ2Iya0NtbG5VY3l1MEtfcDl1UtIBhgFBVV95cUxORlpKYXdYdmE2dGQ5OVRwTjV2UEd4VnUyNVJiVDNGdENyY3pYNzFkUTlpQU1XeXM5Tl91WmJqdTVqSWt5aHVWck1fdFVhQjR2a2VJRFBNZWhvbkhmamQ1OWRVRl9RNGlWT1BRWXlJdG5RYko4SkItcGQ1UUlJNTZnWFVaYjh0Zw?oc=5)
+
+2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXhJZFkyNUxtd3g1NW85VjVGNWxtTkh5QzNiY3Zleml2SDhpOFZiZmtrNkUxcXU1X3lsb1RjRkZQQUlWN3dZNTJxSFlWZjg1dUhYVmxvYnRFUEdmWU10MGtHTmplRGJCcy1lSEFZZ2Iya0NtbG5VY3l1MEtfcDl1UtIBhgFBVV95cUxORlpKYXdYdmE2dGQ5OVRwTjV2UEd4VnUyNVJiVDNGdENyY3pYNzFkUTlpQU1XeXM5Tl91WmJqdTVqSWt5aHVWck1fdFVhQjR2a2VJRFBNZWhvbkhmamQ1OWRVRl9RNGlWT1BRWXlJdG5RYko4SkItcGQ1UUlJNTZnWFVaYjh0Zw?oc=5)
+
+---
+
+### [Breakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVl6Q0V0WW9TMkJ5NkItTmY3NGZPXzlmc3d6RlYtVDdiZkd4LVFFQlZvRjRadWZWZFRuVTlRcnJZdnNCX0xvam0wQS1IMm1qMEtxMHpnQzZsdjUtZUxMLXNrNy1WUmZPWVNSalFHVWRZVnRJNGJEcHJxZDhzSy0xdGFjQllDX1ZMNGwwYndZV0NYekxiU2NFVWlEdEFNMjBnaTB0MzhqYw?oc=5)
+
+2026-04-29 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVl6Q0V0WW9TMkJ5NkItTmY3NGZPXzlmc3d6RlYtVDdiZkd4LVFFQlZvRjRadWZWZFRuVTlRcnJZdnNCX0xvam0wQS1IMm1qMEtxMHpnQzZsdjUtZUxMLXNrNy1WUmZPWVNSalFHVWRZVnRJNGJEcHJxZDhzSy0xdGFjQllDX1ZMNGwwYndZV0NYekxiU2NFVWlEdEFNMjBnaTB0MzhqYw?oc=5)
 
 ---
 
@@ -142,19 +182,19 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [GP struck off over garlic oil 'cancer cure' claims](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
+
+2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
+
+---
+
 ### [Microplastics turn up in nearly every human brain sample, including healthy tissue - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnhMbHBrdGZwYjhKRVhVX004Z1lSRlhNa211d09KZG1DSXhOdnBUa004WExUYzZiNnNFQkcxWTNfLVVJbmQ0dnpoaFdRVndxOXhTVlBtcWFYY09hQk5IWTFzbkFQbTJPV1oybk8xdF9UYzV5aWN2cDhEcU1OMldmQzhhWG12OEFyOTlueQ?oc=5)
 
 2026-04-28 <span class="news-indication-tag">MS</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYnhMbHBrdGZwYjhKRVhVX004Z1lSRlhNa211d09KZG1DSXhOdnBUa004WExUYzZiNnNFQkcxWTNfLVVJbmQ0dnpoaFdRVndxOXhTVlBtcWFYY09hQk5IWTFzbkFQbTJPV1oybk8xdF9UYzV5aWN2cDhEcU1OMldmQzhhWG12OEFyOTlueQ?oc=5)
-
----
-
-### [Former GP charged patients £15k to ‘cure cancer with garlic oil injections’ - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEVuTkpPM1RNYmdMVEhRcGxhYVltZzFrTGFqaEVPMENfaEd6VnE5NWZ6VmJUNlFPejJMT1lRRXdOb1EzWkJ2aFJ2c05DLXJfZmFmcXJIQlQ1S1YtU2dBWHdoRV93TDI4bHhPZHhEZGtmZWZGczRJc2Rydy0zUDhNM0g3SzhEODYtaHJBMXU4WVMzQ1p6MGR6N0t2UzlVRktJWGxWV3hJUQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEVuTkpPM1RNYmdMVEhRcGxhYVltZzFrTGFqaEVPMENfaEd6VnE5NWZ6VmJUNlFPejJMT1lRRXdOb1EzWkJ2aFJ2c05DLXJfZmFmcXJIQlQ1S1YtU2dBWHdoRV93TDI4bHhPZHhEZGtmZWZGczRJc2Rydy0zUDhNM0g3SzhEODYtaHJBMXU4WVMzQ1p6MGR6N0t2UzlVRktJWGxWV3hJUQ?oc=5)
 
 ---
 
@@ -171,46 +211,6 @@ permalink: /news/ledipasvir/
 2026-04-28 <span class="news-indication-tag">hepatitis</span>
 
 來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjd4OVhuZG1KdFdFVXhQaWhOd2d6bGI3cVFQc05weUpiY3R0SUgwZWhPcUt1MlBiY010QzJ0bGtfaGNubHJwSjZ0RUFhWm11SERyZjhPTWtWYmJWSnVwMmMxbDJJOVZPZC1mY2l3NC1NeHIzendJSEJPTHBnSGVIcTFIM0NtY0hMUlRyei0yS0N0dFRiODRmcUtXeUxpQUJOTG1NdzZBUWppd3o4eHR1SWl2WWN0ZTlTTDYtdjNmOFJJQQ?oc=5)
-
----
-
-### [Diese Käsesorten haben am wenigsten Kalorien](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzBnZnRQbmlnb1pwQXA5Zll5VFR2cjlCWVpCT2NxX2NZcVZxTUptem9RY0E2TFNIQkdiWHNDX0NXNWtJdV8tY2lqWWVBSVo5SFFuRHN3TGVkMDFUY0lneXMtZElqbnQxdDI5NmsxYWV2Vmp3T3ZsQjlybFNUSmZMbnNPeUVVMVRpNjhIZ1lXOFN3MUpfbjdPa2dHeEx4Z0lSa2JPeWln?oc=5)
-
-2026-04-28 <span class="news-indication-tag">MS</span>
-
-來源：[MSN](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzBnZnRQbmlnb1pwQXA5Zll5VFR2cjlCWVpCT2NxX2NZcVZxTUptem9RY0E2TFNIQkdiWHNDX0NXNWtJdV8tY2lqWWVBSVo5SFFuRHN3TGVkMDFUY0lneXMtZElqbnQxdDI5NmsxYWV2Vmp3T3ZsQjlybFNUSmZMbnNPeUVVMVRpNjhIZ1lXOFN3MUpfbjdPa2dHeEx4Z0lSa2JPeWln?oc=5)
-
----
-
-### [Devon woman with MS 'spat at' for using Blue Badge - Devon Live](https://news.google.com/rss/articles/CBMifkFVX3lxTFBfWjhVaFpaS1g0VEZndFd5Qnk2V1dHaE8wWGZOMTRmYldxa0JEbHpTN1llT0E1aGktQUlvVm1lWXJyNEEwd0MyYU1qLU5saVBLa3o0Tm5UZHVGMlRIcG0ydkxNYlFaOGNXMVFWcmNZZVlnMjJiUWJhYmpmbzRWd9IBgwFBVV95cUxPRVN6eExCaDNRS1dzU010VHFXTzFzRVQ4ZEd1NXRZZFNkZEp5YlhjZHdRUXQ4bjM5OE9tSDhkS0UzN0JPcER2R3oyQ1lmZHR6ZFM2Rm80ZlpLN0h0R28zMVlueV9BbkFNQWg3a09JR2tIWms5cGlzQWQwQkNpUUFQYk1UVQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">MS</span>
-
-來源：[Devon Live](https://news.google.com/rss/articles/CBMifkFVX3lxTFBfWjhVaFpaS1g0VEZndFd5Qnk2V1dHaE8wWGZOMTRmYldxa0JEbHpTN1llT0E1aGktQUlvVm1lWXJyNEEwd0MyYU1qLU5saVBLa3o0Tm5UZHVGMlRIcG0ydkxNYlFaOGNXMVFWcmNZZVlnMjJiUWJhYmpmbzRWd9IBgwFBVV95cUxPRVN6eExCaDNRS1dzU010VHFXTzFzRVQ4ZEd1NXRZZFNkZEp5YlhjZHdRUXQ4bjM5OE9tSDhkS0UzN0JPcER2R3oyQ1lmZHR6ZFM2Rm80ZlpLN0h0R28zMVlueV9BbkFNQWg3a09JR2tIWms5cGlzQWQwQkNpUUFQYk1UVQ?oc=5)
-
----
-
-### [Europa aprueba el primer medicamento indicado para reducir la progresión de la esclerosis múltiple - El Español](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUGNhY3lwRmw1Zlh2NzlhQ2ZfQUdnNXNmeTV6TU9tTHNSM3gxNGNUS1JNVU53V21scFMyMTJIVmNmNlIteWFOWXRHRWZoR1hBWXMyNDdfWnBVQWRfS3FOOG14TzBLcTdpYTZmZ09xanB6T2t0eVlyT1ZFMWNRRFFiWjVMeXBUYkliR0taT24xUjVLRmdSU1lqbEdFUGxkRWNGQ2RwSER4Wk9JczNsNncyZ2YyWm01eVc1WUp3eHlUaERkY0ZYNVpjcE1acUhBc0V5Nzc4Mm8zRUlLRnJOMjdtZmFHZjdlN1R5TnoyRWJpQ0xpdWlKd2w4Sm1wT3HSAYICQVVfeXFMTjdua05oS1h5TGZEOENXMVNSTGNYSU84bk5iZEdObDEtWEZqZUhGZEN0TmNFZVF1VzFTM3lNcnZISVVZNXVhcHNLNHZpb3htVVlMMG5wcjBOd2hLNGhmWG81NVFPS1NSdFVsQ0ZxdE1abVEzU3pHMExQbmlkS0JVNzVPMU9wWU44clhTVWFCUkpwWUhvbjN2SFdLUzNJVGNaVWhxRzFUZnFlYk5PTEhVVFpqQ09iN051SDBHYl9vN2hDQzBsS24zaEE5eThwWWlPU2xzY0oyVnpkRWZCZWZMQ191YVJNbkxvc1E1bEphYVFiY3prd3RiazE4ZnQwQ2NxRl9B?oc=5)
-
-2026-04-28 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[El Español](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUGNhY3lwRmw1Zlh2NzlhQ2ZfQUdnNXNmeTV6TU9tTHNSM3gxNGNUS1JNVU53V21scFMyMTJIVmNmNlIteWFOWXRHRWZoR1hBWXMyNDdfWnBVQWRfS3FOOG14TzBLcTdpYTZmZ09xanB6T2t0eVlyT1ZFMWNRRFFiWjVMeXBUYkliR0taT24xUjVLRmdSU1lqbEdFUGxkRWNGQ2RwSER4Wk9JczNsNncyZ2YyWm01eVc1WUp3eHlUaERkY0ZYNVpjcE1acUhBc0V5Nzc4Mm8zRUlLRnJOMjdtZmFHZjdlN1R5TnoyRWJpQ0xpdWlKd2w4Sm1wT3HSAYICQVVfeXFMTjdua05oS1h5TGZEOENXMVNSTGNYSU84bk5iZEdObDEtWEZqZUhGZEN0TmNFZVF1VzFTM3lNcnZISVVZNXVhcHNLNHZpb3htVVlMMG5wcjBOd2hLNGhmWG81NVFPS1NSdFVsQ0ZxdE1abVEzU3pHMExQbmlkS0JVNzVPMU9wWU44clhTVWFCUkpwWUhvbjN2SFdLUzNJVGNaVWhxRzFUZnFlYk5PTEhVVFpqQ09iN051SDBHYl9vN2hDQzBsS24zaEE5eThwWWlPU2xzY0oyVnpkRWZCZWZMQ191YVJNbkxvc1E1bEphYVFiY3prd3RiazE4ZnQwQ2NxRl9B?oc=5)
-
----
-
-### [Language and Empathy Have Distinct Origins in the Developing Brain - Neuroscience News](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlFESUJQMUhDaEF6YUpOLXNMX3ZNWGVsUmU0dFJ5TUlUT3lOYkZaeGZiU3pZNHhuZDYxNTBTbXJIUko3VTdDR2Jjb2FvU2l6Q3BlMU1PeGJISWFFcEo1YVNfejZXYW52WE5jWW9TM2xBRGo5blFMUk40R0pDNV85NU9qN01NbTRUZTgtNmFR0gGTAUFVX3lxTFB3M002cG41aDJ6SU9oV05ZWTJfQS1adDU0dGtjdEpZbWIycUI3THBiQkpldW5DQnBBcmpNTXhacjdHXzFuODFzb3FZX2E1dUdFejdfb0NDWDZJeXhiZnVlbjNMTFhUbDY0Sm10MWVjYmxYdVR3OVZ5YUN6TXcyTGNBZGxweDdjeXBWM19xV3JleEF5dw?oc=5)
-
-2026-04-27 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
-
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlFESUJQMUhDaEF6YUpOLXNMX3ZNWGVsUmU0dFJ5TUlUT3lOYkZaeGZiU3pZNHhuZDYxNTBTbXJIUko3VTdDR2Jjb2FvU2l6Q3BlMU1PeGJISWFFcEo1YVNfejZXYW52WE5jWW9TM2xBRGo5blFMUk40R0pDNV85NU9qN01NbTRUZTgtNmFR0gGTAUFVX3lxTFB3M002cG41aDJ6SU9oV05ZWTJfQS1adDU0dGtjdEpZbWIycUI3THBiQkpldW5DQnBBcmpNTXhacjdHXzFuODFzb3FZX2E1dUdFejdfb0NDWDZJeXhiZnVlbjNMTFhUbDY0Sm10MWVjYmxYdVR3OVZ5YUN6TXcyTGNBZGxweDdjeXBWM19xV3JleEF5dw?oc=5)
-
----
-
-### [A treatment for pre-eclampsia may be on the horizon - The Economist](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU9nUE4zQnpxZnY4b3RjT1YtaHlxQk4weXk3SkRCUXhpZEZpcGlLdzh4OWd2WkNOMmhWNEkwN0tkWHVlcFV6dWVrNEF4LWRjUjJJaUF2S090anlBeDdieFVkaGhuaHBMVlpSYVgzdFZFTGgzcmZKZlhWNTM1MDhDa1JpRG4zVFFQWUIzTUNHQm01TFJyQ21pOEJMcEtTLXA2V3k0RkF3cVhKQmxUNUZVag?oc=5)
-
-2026-04-27 <span class="news-indication-tag">MS</span>
-
-來源：[The Economist](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMU9nUE4zQnpxZnY4b3RjT1YtaHlxQk4weXk3SkRCUXhpZEZpcGlLdzh4OWd2WkNOMmhWNEkwN0tkWHVlcFV6dWVrNEF4LWRjUjJJaUF2S090anlBeDdieFVkaGhuaHBMVlpSYVgzdFZFTGgzcmZKZlhWNTM1MDhDa1JpRG4zVFFQWUIzTUNHQm01TFJyQ21pOEJMcEtTLXA2V3k0RkF3cVhKQmxUNUZVag?oc=5)
 
 ---
 
