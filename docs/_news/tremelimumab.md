@@ -54,6 +54,22 @@ permalink: /news/tremelimumab/
 
 ## 相關新聞（6 則）
 
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0V4eHZaNE5rUHdCeWpWZTR2Xzg3bzlxTEd1bEttS0J5ZjJPTXlIbEZUbm1MTmhJVVp6R1k2aEYtWV9UWVRTbmFsSzBXWEM3RWo5ZE5raW9uNFQ4RDhoa08wSHFEcjR0QmIyYWNQbC1UYjhLWUdITERLanlLbF9TcGRxUkxkYzFsMUJxMmF4RnhqSmhYSGFkTkFIRlNrekR0YXhYUEg0S1VmeFFlRGxyanIyOE9lSGYwTWFhTFNNVWJBS0VF?oc=5)
+
+2026-04-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0V4eHZaNE5rUHdCeWpWZTR2Xzg3bzlxTEd1bEttS0J5ZjJPTXlIbEZUbm1MTmhJVVp6R1k2aEYtWV9UWVRTbmFsSzBXWEM3RWo5ZE5raW9uNFQ4RDhoa08wSHFEcjR0QmIyYWNQbC1UYjhLWUdITERLanlLbF9TcGRxUkxkYzFsMUJxMmF4RnhqSmhYSGFkTkFIRlNrekR0YXhYUEg0S1VmeFFlRGxyanIyOE9lSGYwTWFhTFNNVWJBS0VF?oc=5)
+
+---
+
+### [Vitamin-D-Präparate: Neue Studie zeigt überraschende Wirkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
+
+---
+
 ### [Ein Molekül, zwei Effekte: Neuer Wirkstoff-Ansatz gegen Übergewicht und Typ-2-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
 
 2026-04-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -83,22 +99,6 @@ permalink: /news/tremelimumab/
 2026-04-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHlQZTVMWl95ZUplWUkyWWhBNG9CblczUVRxTnpoWGZxazdsaGpTREl1S0hDb003MWxjWjBQNVZSZUdUWW16aWEwRzZVQXpxRmRRQjhlUWNzaVNfc21wU1dQd0ZjSE5vNVhVeWpKXzBvMFhTY3lURXlSVHJPN3ZrX3hyQW55aXI4WW12WHRncnhPMk9lMlRvalltaldnektYS1hEY0pROFltelF6MmxUMlJtaUlNNEtMRUV3WV80U1U3QdIBvAFBVV95cUxNSnpPWmFmSnFXVHFSZjAxcnpOMzNmRng3OXdzcHlpQnlMNlZkQzlsWnJzWDJteE9ibmVyWjVzR0MxVW92YjMzbHNvN19LT3RnS1BqWEExNGZzY2V1WDl1R05MandHWThPRkNIMWkzNlNzUTVWbHVhcEJBTHBPcUdDLXU3OTNzZlpSZWUtcDVfNTNDY2M2anJ5U2FIaDhNbEZZQjVJSUtUZXNidGZJUUZ5eklsbDFwbThYM1l6WA?oc=5)
-
----
-
-### [Nicht für jeden ein Schutz: Studie enthüllt, wann Vitamin D gegen Diabetes hilft](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTZ6WTd3cVdsZDhCZGpNUGdOWVNaVGtZVzh0STZxS3JXSmtTcFlrTUlMR0pCZUwzUi1kUUJqYkhwNE1yMXdBdWp1Z0l3TFB4bVJ6eWhMc2dvUU1fZ3d0bGtFT1dUc0tyUi1ZaXJ5UUVqZjFJdUhzS2I4QnVRc0xGVEYzS040NmszSUU5Q1V6ZU5QMXowWFpWR2l5OFhLVnFa?oc=5)
-
-2026-04-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTZ6WTd3cVdsZDhCZGpNUGdOWVNaVGtZVzh0STZxS3JXSmtTcFlrTUlMR0pCZUwzUi1kUUJqYkhwNE1yMXdBdWp1Z0l3TFB4bVJ6eWhMc2dvUU1fZ3d0bGtFT1dUc0tyUi1ZaXJ5UUVqZjFJdUhzS2I4QnVRc0xGVEYzS040NmszSUU5Q1V6ZU5QMXowWFpWR2l5OFhLVnFa?oc=5)
-
----
-
-### [Adiós al pinchazo diario: la monitorización continua de glucosa cambia la vida de los pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
-
-2026-04-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
 
 ---
 

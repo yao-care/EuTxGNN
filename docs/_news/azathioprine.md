@@ -56,7 +56,7 @@ permalink: /news/azathioprine/
 
 ### [Unexpected Hormone Discovery Could Change How We Treat Arthritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
 
-2026-04-28 <span class="news-indication-tag">arthritis</span>
+2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
 

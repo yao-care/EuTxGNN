@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0V4eHZaNE5rUHdCeWpWZTR2Xzg3bzlxTEd1bEttS0J5ZjJPTXlIbEZUbm1MTmhJVVp6R1k2aEYtWV9UWVRTbmFsSzBXWEM3RWo5ZE5raW9uNFQ4RDhoa08wSHFEcjR0QmIyYWNQbC1UYjhLWUdITERLanlLbF9TcGRxUkxkYzFsMUJxMmF4RnhqSmhYSGFkTkFIRlNrekR0YXhYUEg0S1VmeFFlRGxyanIyOE9lSGYwTWFhTFNNVWJBS0VF?oc=5)
+
+2026-04-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0V4eHZaNE5rUHdCeWpWZTR2Xzg3bzlxTEd1bEttS0J5ZjJPTXlIbEZUbm1MTmhJVVp6R1k2aEYtWV9UWVRTbmFsSzBXWEM3RWo5ZE5raW9uNFQ4RDhoa08wSHFEcjR0QmIyYWNQbC1UYjhLWUdITERLanlLbF9TcGRxUkxkYzFsMUJxMmF4RnhqSmhYSGFkTkFIRlNrekR0YXhYUEg0S1VmeFFlRGxyanIyOE9lSGYwTWFhTFNNVWJBS0VF?oc=5)
+
+---
+
+### [Vitamin-D-Präparate: Neue Studie zeigt überraschende Wirkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
+
+---
 
 ### [Ein Molekül, zwei Effekte: Neuer Wirkstoff-Ansatz gegen Übergewicht und Typ-2-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
 
@@ -86,27 +102,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Unexpected Hormone Discovery Could Change How We Treat Arthritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
+
+2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
+
+---
+
 ### [Simple “Gut Reset” May Prevent Weight Gain After Ozempic or Wegovy](https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVBweHhzZmNjVmJtYm5OV3d5eGN6eGZydGhteG9Kcm04YlMwOHRNNldjTDFVOUh5Zm1kdThxTkI3TzV1NXlORlc3S19wQUxNZlVVdjRiWUNUZGxWYVphTkxwYkc2UDZZMFhUcWI0SDJTOFhjeDRpbXVFRXBHS2VrY1p0Zlo2OTZ4RjIxQ2dqVS1EZUpH?oc=5)
 
 2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVBweHhzZmNjVmJtYm5OV3d5eGN6eGZydGhteG9Kcm04YlMwOHRNNldjTDFVOUh5Zm1kdThxTkI3TzV1NXlORlc3S19wQUxNZlVVdjRiWUNUZGxWYVphTkxwYkc2UDZZMFhUcWI0SDJTOFhjeDRpbXVFRXBHS2VrY1p0Zlo2OTZ4RjIxQ2dqVS1EZUpH?oc=5)
-
----
-
-### [Nicht für jeden ein Schutz: Studie enthüllt, wann Vitamin D gegen Diabetes hilft](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTZ6WTd3cVdsZDhCZGpNUGdOWVNaVGtZVzh0STZxS3JXSmtTcFlrTUlMR0pCZUwzUi1kUUJqYkhwNE1yMXdBdWp1Z0l3TFB4bVJ6eWhMc2dvUU1fZ3d0bGtFT1dUc0tyUi1ZaXJ5UUVqZjFJdUhzS2I4QnVRc0xGVEYzS040NmszSUU5Q1V6ZU5QMXowWFpWR2l5OFhLVnFa?oc=5)
-
-2026-04-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTZ6WTd3cVdsZDhCZGpNUGdOWVNaVGtZVzh0STZxS3JXSmtTcFlrTUlMR0pCZUwzUi1kUUJqYkhwNE1yMXdBdWp1Z0l3TFB4bVJ6eWhMc2dvUU1fZ3d0bGtFT1dUc0tyUi1ZaXJ5UUVqZjFJdUhzS2I4QnVRc0xGVEYzS040NmszSUU5Q1V6ZU5QMXowWFpWR2l5OFhLVnFa?oc=5)
-
----
-
-### [Adiós al pinchazo diario: la monitorización continua de glucosa cambia la vida de los pacientes con diabetes tipo 2](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
-
-2026-04-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUtsd05SYUtrMG9IMTYtdjMzcnpTYXZwanRnMklKTmtZY1NMUDI5Z0dhbFREMGEzMEk4akVrekFGSm1DRGlQMHhlSEhpRDhFNFJ5OC1hWDdmVHNwQVAyS1FZZVd2cXNha3F4YzhJdVUtaWo4cDhieGluRGctUmNORFlnTFRzUHFVQ2tNQkpoMEV6WU1wWGJpdkVYQ296UllsM0RSTko1akM3UWFCMmVXbjRBcXV2M3JQeFNITTRNNUJ5V01Yc3ZmSTBuOFR1NXpNS0hySUJmSVhhWlZYZUlxcGZfZ3pMZUkxTEE?oc=5)
 
 ---
 

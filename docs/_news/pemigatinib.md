@@ -14,7 +14,7 @@ permalink: /news/pemigatinib/
 ---
 
 <p class="key-answer" data-question="Pemigatinib 有什麼相關新聞？">
-<strong>Pemigatinib</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pemigatinib</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/pemigatinib/
 <p><a href="{{ '/drugs/pemigatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（26 則）
+
+### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
+
+2026-04-30 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
+
+---
+
+### [Raise tax on alcohol and junk food to cut deaths from liver disease, experts say - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxqQ2lSeEl2eWFDQ3hDS1VVdW03NWlLUFRvNUJ2NjdVOUJiOWd5cF9iRHVuRzdPdy1NUTRzRjFlQVhBQlZySXdleGQzM1M2VnhlZEFlTHVQZVlFSWdPbkV4RlV1ODRGTU5lWVk0bWs5QTZCWUJhUTMyTmJtZnlJbTlqM3Utb0V4TnpIb0dyTXg4R2pqeFE1dC00cFZFTGRY?oc=5)
+
+2026-04-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxqQ2lSeEl2eWFDQ3hDS1VVdW03NWlLUFRvNUJ2NjdVOUJiOWd5cF9iRHVuRzdPdy1NUTRzRjFlQVhBQlZySXdleGQzM1M2VnhlZEFlTHVQZVlFSWdPbkV4RlV1ODRGTU5lWVk0bWs5QTZCWUJhUTMyTmJtZnlJbTlqM3Utb0V4TnpIb0dyTXg4R2pqeFE1dC00cFZFTGRY?oc=5)
+
+---
 
 ### [Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80emxRdmUtSGV2ckpON2FPSkRMUjJwSmZWSndOUE9UU3c4cy1ERGhEVmpnSHVsdmtyUEtpZ21HLW11TXBiSUcxeHJzQnhNOWhucHVWMDQ1ZEoxUXF5MENB?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/pemigatinib/
 
 ---
 
-### ['The symptoms waking me at night were a cancer - but I ignored them for years' - GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1E0bFp1alFxNl9CTEdsTzZWNDkwQmpvUTFhWXVaeFFPakVzVi14MzdCdXhta1M1UUZLcEo5VHVLMG5QTENseWRONk12bUdnWE1zMnprS0NXbmNtYkc5SEEya3VCalJmVV9VaVgxT0RBM3BaVHIwVnhENkxsUUlUcHctd3o?oc=5)
+### [In sickness and, more likely, in health: Marriage cuts your risk of cancer - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3RheXZYZ1JkZHZnbExhTTBOdUZwLXNQTXQ2S3Z1b0JpOUU1N0x5SWtySml3TURVZklqOGpjQkQwS1pnM0h3OHpMTS1LSVR1QnZJTm9SNmZMUE1nQ2tIYVJST1Z4OGJ5MktLX3lhZEtyX3lOZTY4UWVuMlhxTzl6aTlqSTRkX0F2OTRaOVc2dllWN3FNa2psWXdvdkxBbEJLWUE0?oc=5)
 
-2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-04-29 <span class="news-indication-tag">cancer</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1E0bFp1alFxNl9CTEdsTzZWNDkwQmpvUTFhWXVaeFFPakVzVi14MzdCdXhta1M1UUZLcEo5VHVLMG5QTENseWRONk12bUdnWE1zMnprS0NXbmNtYkc5SEEya3VCalJmVV9VaVgxT0RBM3BaVHIwVnhENkxsUUlUcHctd3o?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3RheXZYZ1JkZHZnbExhTTBOdUZwLXNQTXQ2S3Z1b0JpOUU1N0x5SWtySml3TURVZklqOGpjQkQwS1pnM0h3OHpMTS1LSVR1QnZJTm9SNmZMUE1nQ2tIYVJST1Z4OGJ5MktLX3lhZEtyX3lOZTY4UWVuMlhxTzl6aTlqSTRkX0F2OTRaOVc2dllWN3FNa2psWXdvdkxBbEJLWUE0?oc=5)
 
 ---
 
@@ -75,6 +91,22 @@ permalink: /news/pemigatinib/
 2026-04-29 <span class="news-indication-tag">cancer</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUE9iaV9NNk0xYU1rVS1qOHdFdS02Xzl0djFDeFFPTEFZZHdtOVBSU0tkQ1hpWVYtMDM3anhrZ2lnS1prTjN5OVppMEtzbXl1SFo1RUxoUFlUVTVHRk5oNkR5ZjM5TVUyNzI0b25pSld2dVVMa3c5enFxYmZQQUJBZGF0V3Z3R0Rud0dIdUI5d1Bqb21VSF8wdFUzT3VvWmFIR0hyVWdEM19wS0lRcWhubWdydXg0TVF3bHRuRktzMWV6MVNvbVZncGFhLU9oeHVocmo1RW9yWENlV1duVDVZckhB?oc=5)
+
+---
+
+### [Ce chewing-gum (bien particulier) permet de réduire le risque de plusieurs cancers](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm4td1IzV3JWaU5rdHNfNTFJVi1hclc0bTBvSTUxVkUzLUVtcFlNVTF3aVlrRWVJTkdpdV9SUWFfVUI1ekN3ZXZhYkUtMEI1TS1ib3Z3Q3djZW94LTBNakxTMVI5bFpvdVg5NnFtR1pOeXNlcnhXbmFhY1I4aGZJLVYtXzFMdFlJRG9SMnA5emZfZ1lYMHlNR3duNllGMjhPN1VOWTg0dENKX250UWpRZFJRcGVrdUVCNHc?oc=5)
+
+2026-04-29 <span class="news-indication-tag">cancer</span>
+
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm4td1IzV3JWaU5rdHNfNTFJVi1hclc0bTBvSTUxVkUzLUVtcFlNVTF3aVlrRWVJTkdpdV9SUWFfVUI1ekN3ZXZhYkUtMEI1TS1ib3Z3Q3djZW94LTBNakxTMVI5bFpvdVg5NnFtR1pOeXNlcnhXbmFhY1I4aGZJLVYtXzFMdFlJRG9SMnA5emZfZ1lYMHlNR3duNllGMjhPN1VOWTg0dENKX250UWpRZFJRcGVrdUVCNHc?oc=5)
+
+---
+
+### [Mélanome : injecter l’immunothérapie au cœur de la tumeur, un tournant thérapeutique ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQktEdG1TTE9pM2J6Sm1zRmlFYVhMWERhdTFLaDlqeDVkazVpdENrdkhoc1gyd1o2c3RkQS1uZElwT3EtQldUREY4UkNYMXltNElaVGVwSU1PZDFySTd6MXFFZ0k0RFRMTFhsTjRoMHIwLXVfTU1XLVJuOTdZMi1UMUstTWNzR0pnSk1QRmdibnVXXzlqckJkNFlreGgtNU9HbHB2VnppRWZ5TUd5UVE4X3RKU2Y2TTNUSW9zc2Q3MUhscWZB?oc=5)
+
+2026-04-29 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQktEdG1TTE9pM2J6Sm1zRmlFYVhMWERhdTFLaDlqeDVkazVpdENrdkhoc1gyd1o2c3RkQS1uZElwT3EtQldUREY4UkNYMXltNElaVGVwSU1PZDFySTd6MXFFZ0k0RFRMTFhsTjRoMHIwLXVfTU1XLVJuOTdZMi1UMUstTWNzR0pnSk1QRmdibnVXXzlqckJkNFlreGgtNU9HbHB2VnppRWZ5TUd5UVE4X3RKU2Y2TTNUSW9zc2Q3MUhscWZB?oc=5)
 
 ---
 
@@ -118,6 +150,14 @@ permalink: /news/pemigatinib/
 
 ---
 
+### [Tumore colon-retto, ecco la proteina spia: svela come evolverà e personalizza le cure - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDRyRFkzRVc4QUZoSWNzdHo5eTRUM05nVUtiZ3JhWHJzTFhkVVhQUnF0NlFCeFRvck00c3NBMEphdjJhdS1vR0NHVzctbkJmQUVfZ1FFSUtVUmVrbHRobVQyeTlET09Wa1Fua0VsU1BQSjVYS2dhbXY2WlNZZ1lXYW9qcHVIVjJvLTE2Y0hrX255TjhRQm9UWHJnNk9ZR0FiUF9nREotNjdrM3FhQmFHcFpjSWlFWnFIbmc?oc=5)
+
+2026-04-29 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDRyRFkzRVc4QUZoSWNzdHo5eTRUM05nVUtiZ3JhWHJzTFhkVVhQUnF0NlFCeFRvck00c3NBMEphdjJhdS1vR0NHVzctbkJmQUVfZ1FFSUtVUmVrbHRobVQyeTlET09Wa1Fua0VsU1BQSjVYS2dhbXY2WlNZZ1lXYW9qcHVIVjJvLTE2Y0hrX255TjhRQm9UWHJnNk9ZR0FiUF9nREotNjdrM3FhQmFHcFpjSWlFWnFIbmc?oc=5)
+
+---
+
 ### [Obesity a key factor for rising cancer rates in young people in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
 
 2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
@@ -150,27 +190,11 @@ permalink: /news/pemigatinib/
 
 ---
 
-### [Husband had 'no symptoms' but died, aged 47, months after diagnosis - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXhJZFkyNUxtd3g1NW85VjVGNWxtTkh5QzNiY3Zleml2SDhpOFZiZmtrNkUxcXU1X3lsb1RjRkZQQUlWN3dZNTJxSFlWZjg1dUhYVmxvYnRFUEdmWU10MGtHTmplRGJCcy1lSEFZZ2Iya0NtbG5VY3l1MEtfcDl1UtIBhgFBVV95cUxORlpKYXdYdmE2dGQ5OVRwTjV2UEd4VnUyNVJiVDNGdENyY3pYNzFkUTlpQU1XeXM5Tl91WmJqdTVqSWt5aHVWck1fdFVhQjR2a2VJRFBNZWhvbkhmamQ1OWRVRl9RNGlWT1BRWXlJdG5RYko4SkItcGQ1UUlJNTZnWFVaYjh0Zw?oc=5)
-
-2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXhJZFkyNUxtd3g1NW85VjVGNWxtTkh5QzNiY3Zleml2SDhpOFZiZmtrNkUxcXU1X3lsb1RjRkZQQUlWN3dZNTJxSFlWZjg1dUhYVmxvYnRFUEdmWU10MGtHTmplRGJCcy1lSEFZZ2Iya0NtbG5VY3l1MEtfcDl1UtIBhgFBVV95cUxORlpKYXdYdmE2dGQ5OVRwTjV2UEd4VnUyNVJiVDNGdENyY3pYNzFkUTlpQU1XeXM5Tl91WmJqdTVqSWt5aHVWck1fdFVhQjR2a2VJRFBNZWhvbkhmamQ1OWRVRl9RNGlWT1BRWXlJdG5RYko4SkItcGQ1UUlJNTZnWFVaYjh0Zw?oc=5)
-
----
-
 ### [Shetland mum says 'Viking gene' testing saved her life after early cancer diagnosis - STV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3E5RUhWVXBJZWRjaHdndnhkaHU2QkJhVndINThHcnF3TzhieWFaYzF1ZVNnTFE4OUR0V0lTWWMxc2dad3Q5U05tWDVETVRabWM1T0pZamNEQlFPUmotOXVfd1hTU1piY3Z5LWdhVHFQWTRTdHFpc2ZnUHZxQUYzN2VGZEJGUTVMWEk0Y0pHdXFJMlJlTENWcHlrdXFuQ2VPaURpM2J3b2gtZ2tZaVdTblBoVmdhUWI1eFNr?oc=5)
 
 2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[STV News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3E5RUhWVXBJZWRjaHdndnhkaHU2QkJhVndINThHcnF3TzhieWFaYzF1ZVNnTFE4OUR0V0lTWWMxc2dad3Q5U05tWDVETVRabWM1T0pZamNEQlFPUmotOXVfd1hTU1piY3Z5LWdhVHFQWTRTdHFpc2ZnUHZxQUYzN2VGZEJGUTVMWEk0Y0pHdXFJMlJlTENWcHlrdXFuQ2VPaURpM2J3b2gtZ2tZaVdTblBoVmdhUWI1eFNr?oc=5)
-
----
-
-### [Breakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVl6Q0V0WW9TMkJ5NkItTmY3NGZPXzlmc3d6RlYtVDdiZkd4LVFFQlZvRjRadWZWZFRuVTlRcnJZdnNCX0xvam0wQS1IMm1qMEtxMHpnQzZsdjUtZUxMLXNrNy1WUmZPWVNSalFHVWRZVnRJNGJEcHJxZDhzSy0xdGFjQllDX1ZMNGwwYndZV0NYekxiU2NFVWlEdEFNMjBnaTB0MzhqYw?oc=5)
-
-2026-04-29 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVl6Q0V0WW9TMkJ5NkItTmY3NGZPXzlmc3d6RlYtVDdiZkd4LVFFQlZvRjRadWZWZFRuVTlRcnJZdnNCX0xvam0wQS1IMm1qMEtxMHpnQzZsdjUtZUxMLXNrNy1WUmZPWVNSalFHVWRZVnRJNGJEcHJxZDhzSy0xdGFjQllDX1ZMNGwwYndZV0NYekxiU2NFVWlEdEFNMjBnaTB0MzhqYw?oc=5)
 
 ---
 
@@ -187,14 +211,6 @@ permalink: /news/pemigatinib/
 2026-04-29 <span class="news-indication-tag">tumor</span>
 
 來源：[heraldo.es](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRF9tM3dyNThxZmxnWG9FNHlwSVQwanRwSjhGLWF5d1g2dnVzUlozRFZ3XzRBNlBYMTY1MERsY2EwNTJRTlZ0Z0FFVEFxYUlaaTlTTHMyTF9HY0hDNkdvSDlodm8td1FtblM5aDNVSFhpd0lyV0luRjNpOXd3S2YwMFJCSENFSEh3cWluSUI2Nm1MU09ST25KZzQtSGdXRjRIdGYw?oc=5)
-
----
-
-### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
-
-2026-04-28 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
 
 ---
 
@@ -222,35 +238,11 @@ permalink: /news/pemigatinib/
 
 ---
 
-### [Akute Appendizitis: Krebsrisiko lässt sich gut eingrenzen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzlBZGllWThPVkZ4dzdsUGxoUUZxLVY1RzkwY1JtTXlMdkhraERZcVRCRVdqRlBCb1V5VlYxZjl3TE9GQ0xUTG9RVC1wS0V1RTU0Z3ZrQTlVZTlsdjZlTW1DU0hCTWVzbFpZVDJrS1ZsWVg2VDNKeDdHaUZuSDZiYTN6aFM5QnZMaXFJeUxjNW1UZmJqbTJ4Q1M2RDB3NFJrV0g1b3E2ZXo2V1RiM0luNERzZm5uUmpBZ1p5WUk4ajhtOEE?oc=5)
-
-2026-04-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzlBZGllWThPVkZ4dzdsUGxoUUZxLVY1RzkwY1JtTXlMdkhraERZcVRCRVdqRlBCb1V5VlYxZjl3TE9GQ0xUTG9RVC1wS0V1RTU0Z3ZrQTlVZTlsdjZlTW1DU0hCTWVzbFpZVDJrS1ZsWVg2VDNKeDdHaUZuSDZiYTN6aFM5QnZMaXFJeUxjNW1UZmJqbTJ4Q1M2RDB3NFJrV0g1b3E2ZXo2V1RiM0luNERzZm5uUmpBZ1p5WUk4ajhtOEE?oc=5)
-
----
-
 ### [GP struck off over garlic oil 'cancer cure' claims](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
 
 2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
-
----
-
-### [I was hungry and looked pregnant - morning sign lead to cancer diagnosis at 22 - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbF9HYUpOc0FSMWxaeXd1UE5GNEZmcHV2TUl3TUV2aHpDTGxjbkdqSFR5SnQ0UlJia1BkdWdMd1VTc2RzVlB4S3doQ3kwVlJLSjVSY1oweko0dFB1T3dDY1VuQ2M2bWlHRkhtd2ZVMkQ0RzBTMVJ6VWxhcGVlX0NzdHAyVzlpa2VZdFd0YjJCaFJRXzJFWXJVN0FB?oc=5)
-
-2026-04-28 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbF9HYUpOc0FSMWxaeXd1UE5GNEZmcHV2TUl3TUV2aHpDTGxjbkdqSFR5SnQ0UlJia1BkdWdMd1VTc2RzVlB4S3doQ3kwVlJLSjVSY1oweko0dFB1T3dDY1VuQ2M2bWlHRkhtd2ZVMkQ0RzBTMVJ6VWxhcGVlX0NzdHAyVzlpa2VZdFd0YjJCaFJRXzJFWXJVN0FB?oc=5)
-
----
-
-### [I blamed my tot's mouth ulcers on common bug but it was rare cancer - now she can't even go to the park - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxONnNoUXRwTTc1X29WN19WcVRqLUM1WjByY1lCdDdHVERnSXJNS0tkbDlxUk00bFNBY21saHJxUmNzMG4wMW0wTWd2WFA4QjQ4M3hwSjJVQ0tyeVJ6cnRaaUo4MUlBWnp5anpNQXNjSU55aENwejZtQjVObTg5eXRzZk1ZV01jSnY4TnR2d191UjU?oc=5)
-
-2026-04-28 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxONnNoUXRwTTc1X29WN19WcVRqLUM1WjByY1lCdDdHVERnSXJNS0tkbDlxUk00bFNBY21saHJxUmNzMG4wMW0wTWd2WFA4QjQ4M3hwSjJVQ0tyeVJ6cnRaaUo4MUlBWnp5anpNQXNjSU55aENwejZtQjVObTg5eXRzZk1ZV01jSnY4TnR2d191UjU?oc=5)
 
 ---
 
@@ -267,14 +259,6 @@ permalink: /news/pemigatinib/
 2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3VRdWJuWU5sZmRQZ0NZTHBPU3NLOTJtSl9UWnVfSmpmNmtXNEhkU0doZk44M2l6SExLQnZKOWotSGhQaDY4U25rUURNT1hxcFRCRUU3VUZsTTNnNmFiZE1NUW9kZUZXaEVLdzhVWk1ZZlVfMG1jTE5RZ29pQ3pEYm91STAwTmRUODJBYUFfazFyS3EzMG9mM0NXQXVnNEhhZU9jb1I2RFpGYTNrVGc?oc=5)
-
----
-
-### [Forscher weisen erhöhtes Krebsrisiko bei Männern mit schlechter Spermienqualität nach](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
-
-2026-04-28 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM3VxeFhTSEZ4cTBURWFZaDI1dTEyTGlNWEMtT0dNWWI5MWVmQW9hY1JXc0kyblVtWXpkcGRfZ2h0OVdWTVFJMXY2ei1lUzB6aFJ0TFhPdHBjRUFCLWtDaEZFQWlOVkx1emQ0ZG9xQmdKQzNkTVoxRzdEYkpnMGRUTGV6UEhVd0kwcnBON0tsOEpuNnF4Z0dBWnpKazk0V0hLRmQ3UndQNE9WS3BDc190WjRlYnVJQTdTMF8xRFhXTjlZOXNpalUxcUhiTkFFck1kS0p1Y3ZKcXZRUkU?oc=5)
 
 ---
 

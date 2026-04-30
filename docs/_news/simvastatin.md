@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Online-Informationsveranstaltung zu Sprachstörungen nach Schlaganfall](https://news.google.com/rss/articles/CBMikAJBVV95cUxOZkZiSjhLRmljYWdGb0JjM2E1Q1dVVDgxVHd1RW1BZURaeUJFUi16VENQRTNqM25FeUgxRlN1MkdZZXBFSWdEQkxIODUtQ1VEUnA3UVE5bFBlOWx6Ri1YVkVwaUFwNC1ycUM1OGJWM3lPWW9YYmhRZEJCbHRmYklWbmZWbkRZd20xdE42U0pZdUR4SXNvTDN6ZmctenhjN3BSbk5TZDI0VXlTUEs0eUZieVozMHVrNWEwTEg0Q0Z0d1hNazhvamVZWnR0RWVlUVV5cFRraFpNQW13Rk0xUG5fa0pPTWlVV3lFSmcxRmt1LWM5dU5CQVFUYnNzX0VRZndpT2VHZEtsR05fUEJVZDVrUQ?oc=5)
 
 2026-04-29 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[lifePR](https://news.google.com/rss/articles/CBMikAJBVV95cUxOZkZiSjhLRmljYWdGb0JjM2E1Q1dVVDgxVHd1RW1BZURaeUJFUi16VENQRTNqM25FeUgxRlN1MkdZZXBFSWdEQkxIODUtQ1VEUnA3UVE5bFBlOWx6Ri1YVkVwaUFwNC1ycUM1OGJWM3lPWW9YYmhRZEJCbHRmYklWbmZWbkRZd20xdE42U0pZdUR4SXNvTDN6ZmctenhjN3BSbk5TZDI0VXlTUEs0eUZieVozMHVrNWEwTEg0Q0Z0d1hNazhvamVZWnR0RWVlUVV5cFRraFpNQW13Rk0xUG5fa0pPTWlVV3lFSmcxRmt1LWM5dU5CQVFUYnNzX0VRZndpT2VHZEtsR05fUEJVZDVrUQ?oc=5)
-
----
-
-### [El ácido úrico alto se vincula a más riesgo de ictus o infarto en mujeres de más de 50 años](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
-
-2026-04-29 <span class="news-indication-tag">ictus</span>
-
-來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
 
 ---
 
