@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="Abatacept 有什麼相關新聞？">
-<strong>Abatacept</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abatacept</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/abatacept/
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Scientists reveal the best exercise for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cmxUMWFiNmxLdURqOW4yanhfbHpadjJoZnhvV2pxanJGblRNMjZWQlJTMm54bEhDTmU0T0ZQaEczWExMVk5qTWR1ZUxxMGg3WURvZU4yX0tfQjFhc1pLQ3JFNnhRWXQtQ0VLYlc3MA?oc=5)
-
-2026-04-30 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cmxUMWFiNmxLdURqOW4yanhfbHpadjJoZnhvV2pxanJGblRNMjZWQlJTMm54bEhDTmU0T0ZQaEczWExMVk5qTWR1ZUxxMGg3WURvZU4yX0tfQjFhc1pLQ3JFNnhRWXQtQ0VLYlc3MA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Unexpected Hormone Discovery Could Change How We Treat Arthritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="Alpelisib 有什麼相關新聞？">
-<strong>Alpelisib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alpelisib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/alpelisib/
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [TRPA1 und TRPM8: Neue Hoffnung bei chronischen Entzündungen und Migräne - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTml3WUxrQS0xcTBIZm5yQ19OczFaV1RadE1hQkFxT1JVMTBERlI1ZktMR3FCaDdqRC1VaWJpd2NlV3FnRHBDMnBRc1VPaWlQN1doakoxeXFBNVBPZE9oTEZYeUVMc085M0xvdUFUQWVDcVlELWtPUjJxSUw5aDlTMWdERkQtMndnTUltdWstSDlzbHA4NVpOekhSeER4Tmt0WDJfUjdZdlpkU3VWeWJRbUJuM2hvejNUTV84Tl9n?oc=5)
 
 2026-04-30 <span class="news-indication-tag">Migräne</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTml3WUxrQS0xcTBIZm5yQ19OczFaV1RadE1hQkFxT1JVMTBERlI1ZktMR3FCaDdqRC1VaWJpd2NlV3FnRHBDMnBRc1VPaWlQN1doakoxeXFBNVBPZE9oTEZYeUVMc085M0xvdUFUQWVDcVlELWtPUjJxSUw5aDlTMWdERkQtMndnTUltdWstSDlzbHA4NVpOekhSeER4Tmt0WDJfUjdZdlpkU3VWeWJRbUJuM2hvejNUTV84Tl9n?oc=5)
-
----
-
-### [Scientists reveal the best exercise for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cmxUMWFiNmxLdURqOW4yanhfbHpadjJoZnhvV2pxanJGblRNMjZWQlJTMm54bEhDTmU0T0ZQaEczWExMVk5qTWR1ZUxxMGg3WURvZU4yX0tfQjFhc1pLQ3JFNnhRWXQtQ0VLYlc3MA?oc=5)
-
-2026-04-30 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cmxUMWFiNmxLdURqOW4yanhfbHpadjJoZnhvV2pxanJGblRNMjZWQlJTMm54bEhDTmU0T0ZQaEczWExMVk5qTWR1ZUxxMGg3WURvZU4yX0tfQjFhc1pLQ3JFNnhRWXQtQ0VLYlc3MA?oc=5)
 
 ---
 

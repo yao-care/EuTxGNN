@@ -54,19 +54,19 @@ permalink: /news/entacapone/
 
 ## 相關新聞（2 則）
 
+### [Scientists restore memory by blocking a single Alzheimer’s protein](https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWDViLUhHcFgtZ3dSN2lIY0pYZ242TTQ5NnVra1ZRV3RRQl9EcndfNmZrd1ZsMUx4WGRWNF9hSEttWHVLcmRXUUFyUHExd3NTdVZ1QmpzbkhZdzlrOXR5eVE2N1FaY0xSOU1OUXVrZw?oc=5)
+
+2026-04-30 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWDViLUhHcFgtZ3dSN2lIY0pYZ242TTQ5NnVra1ZRV3RRQl9EcndfNmZrd1ZsMUx4WGRWNF9hSEttWHVLcmRXUUFyUHExd3NTdVZ1QmpzbkhZdzlrOXR5eVE2N1FaY0xSOU1OUXVrZw?oc=5)
+
+---
+
 ### [En la enfermedad de Alzheimer, las mutaciones cancerosas se acumulan en las células inmunitarias del cerebro](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzNJcGFDelMtODVlTTZqNkpXSVBjNDl5blUxRmRkekdULThoX3Q1Q0xtaHlpMXBoMTB5ZkdoejNLSS1lNk43LVUzdUYyUGlxLUJCTnAtYnJVQ1VGTU5ENlY2dEhScEY2UUU0MG5FdkJKMEdybE03eGg2WUhaZEpLV1BNQ3d4RDBTbUFYVW95V25yQXpSSWwybVlENnIyMnlsUnd0cFl4ZE95dEtsVE1xelgwLW5DUllzbTdpNGN4NExDSEVQUzgtSGUwVG5HU3JDU0s3NFJFYmtqZw?oc=5)
 
 2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">enfermedad de Alzheimer</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzNJcGFDelMtODVlTTZqNkpXSVBjNDl5blUxRmRkekdULThoX3Q1Q0xtaHlpMXBoMTB5ZkdoejNLSS1lNk43LVUzdUYyUGlxLUJCTnAtYnJVQ1VGTU5ENlY2dEhScEY2UUU0MG5FdkJKMEdybE03eGg2WUhaZEpLV1BNQ3d4RDBTbUFYVW95V25yQXpSSWwybVlENnIyMnlsUnd0cFl4ZE95dEtsVE1xelgwLW5DUllzbTdpNGN4NExDSEVQUzgtSGUwVG5HU3JDU0s3NFJFYmtqZw?oc=5)
-
----
-
-### [Ultra-Processed Foods May Be Quietly Affecting Your Brain's Ability to Focus](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlp0YjdKSVJRNGFybUIwUnZXSHptRmJiYWNTcVVaNS1HMzdIWHZvaWJkaHNaV2luTjR6am5wXzVOMlctRkt5dVJwUmMxbHBjc096T09FeDFCYVVEOGM3LXdrdGk5TGNWVG5YVDBZT2hpalJFaWtJLUlYemJ3QjctSm9JU1VhU24zTXU5MHpickExc3lGVUl3Q1BUNDd5QUZsRnVXdGNBMA?oc=5)
-
-2026-04-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlp0YjdKSVJRNGFybUIwUnZXSHptRmJiYWNTcVVaNS1HMzdIWHZvaWJkaHNaV2luTjR6am5wXzVOMlctRkt5dVJwUmMxbHBjc096T09FeDFCYVVEOGM3LXdrdGk5TGNWVG5YVDBZT2hpalJFaWtJLUlYemJ3QjctSm9JU1VhU24zTXU5MHpickExc3lGVUl3Q1BUNDd5QUZsRnVXdGNBMA?oc=5)
 
 ---
 

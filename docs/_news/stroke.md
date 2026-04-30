@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### ['I had a stroke at the weekend so didn't get a thrombectomy'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbi1DY1daTlE1cWNmU0tJMnlqVFNtZDFMZW40cF80ejBPbkR3ZUJaMS05UEtqYlNzZHlXdXo4aHRqUEVLWE9jaHpsVUlQRVgtYURYTkNFaUlrVDF4?oc=5)
 
@@ -70,14 +70,6 @@ permalink: /news/stroke/
 2026-04-29
 
 來源：[RP Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkp3clJQWU9EU1RiTWd3SVZ1elhLUFBUY0FYRDJfVjVNc25mX3RkdWNZRHR5YzJ4eUNWUXdSYS12UGZ0TjhSNlRZQno3UGxCbHRzTEdKZGxsRE44UXg3dHRvOHFfdC0yR0ZGdmI5UzFvNVdyUGJEZ0JxOTRDMlBRTkliODFvanpwTk56cXFQVVU0bndKZXJqTXNFeExoVUtSU0hkU3p3SThuY2ZjVXRSX0Vn?oc=5)
-
----
-
-### [Aitheroscope, el proyecto español finalista de los Premios a la Innovación Social de Fundación MAPFRE - Compromiso RSE](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQWtjZWN5XzdNc3YyZzh3QUJPdEpkZmpXaDhrY2ljNWp3V29oS2ZfWmQ1N01TbUNOY3VFOUNYUktnVFFWeGVld2ZtN3B5M3hhUmRNd3Zxb2ZzQk01YUNtWHM1dkR2YzdNV2FqMklLWWF2LTE0VGlIa1ZJaGVOVXRibWdQbnBjWHo4eWJkMzNLanR2S3RCdGVLUHBXcXlIcmxhS2xSQXR0UjZGSHR5c3NEOHZ6Wi1nNGJfeEFNLVhjZk9jdUlLWnZlcnpkTzRCZC01LVdOS0x2cXo2alQ1MXdj?oc=5)
-
-2026-04-29
-
-來源：[Compromiso RSE](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQWtjZWN5XzdNc3YyZzh3QUJPdEpkZmpXaDhrY2ljNWp3V29oS2ZfWmQ1N01TbUNOY3VFOUNYUktnVFFWeGVld2ZtN3B5M3hhUmRNd3Zxb2ZzQk01YUNtWHM1dkR2YzdNV2FqMklLWWF2LTE0VGlIa1ZJaGVOVXRibWdQbnBjWHo4eWJkMzNLanR2S3RCdGVLUHBXcXlIcmxhS2xSQXR0UjZGSHR5c3NEOHZ6Wi1nNGJfeEFNLVhjZk9jdUlLWnZlcnpkTzRCZC01LVdOS0x2cXo2alQ1MXdj?oc=5)
 
 ---
 

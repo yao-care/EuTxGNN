@@ -14,7 +14,7 @@ permalink: /news/cannabidiol/
 ---
 
 <p class="key-answer" data-question="Cannabidiol 有什麼相關新聞？">
-<strong>Cannabidiol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cannabidiol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/cannabidiol/
 <p><a href="{{ '/drugs/cannabidiol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [VIH : le CBD ouvre une piste inattendue pour bloquer la transmission du virus](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQUR3UHZqQTdsdGhkVDFsTjI2Q3ZpNFlfQ3FKR1VzOFFaRkNaMnpGb0o4bW5SOXVfU1Uxa0hMbmQ2NlJFd0pacDJjR3luUDJGUEYySXVYaHdsaFdWemM2dmJIOGhYMnBiSWNhMQ?oc=5)
-
-2026-04-28 <span class="news-drug-tag">Cannabidiol</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQUR3UHZqQTdsdGhkVDFsTjI2Q3ZpNFlfQ3FKR1VzOFFaRkNaMnpGb0o4bW5SOXVfU1Uxa0hMbmQ2NlJFd0pacDJjR3luUDJGUEYySXVYaHdsaFdWemM2dmJIOGhYMnBiSWNhMQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（15 則）
 
-### [Demenz: Was Ihr Darm über Ihr Gehirn verrät - Forscher entdecken überraschenden Zusammenhang](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaWxzZmJWbXRCQkluRTh5SF94a296eWM2X3BTYmtrVkQtbk9sVVo5cEI4dlA2bGpBRmxpU1Q5aUgzQXBqZWlPMWt5ckVYRnZEZnJoU1NmZ292THhVT21mbUZDVFhWUmJiYzlhZ0MwTzU4c3lfRXJvTmRVYllJTm1OTUo5czZFZHVtV3ZOOW9QZFZXa0RTMHc3NTNseUhqay1fX01UR0dRR08yMVN0VXBzNUhQajlGUGhON1lqeHRYa2tXMDU4ZEVVSkNISkFmR0hNckVjTTVDX2lyWkkyZUF4WVdfR2hTaFJER3l0Qk9RcTJoQQ?oc=5)
+### [Cholesterin: „Der Lebensstil ist die Basis, und dann kommen die Medikamente“](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSVdOdXJZeFlBNHVkNkM0aE9XN2JzQ3ZRMUM0ZTlOTFZiTlBtSmt2aHdwMF90TjNaRlBEaFdVcjlwRUJzR1JLNHpQUnlLdE9EcFV4N0FEU1pabENQRUp5X0xRMHN5WHJiQklRSWQxUWo1a3pHdEJabXVyUDFXTFZWWWl6ckxMenJySTJCUTdfYU5YVmRlekRzZS04WUNxVkZnSTNnYjhhakxqRi1VdUZYWTZxU3RPZEJOekhVM3ZBRUpTSXdiQnZRMlRoeGI0VzdwZkdoc3NTSDhCZw?oc=5)
 
 2026-04-30 <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaWxzZmJWbXRCQkluRTh5SF94a296eWM2X3BTYmtrVkQtbk9sVVo5cEI4dlA2bGpBRmxpU1Q5aUgzQXBqZWlPMWt5ckVYRnZEZnJoU1NmZ292THhVT21mbUZDVFhWUmJiYzlhZ0MwTzU4c3lfRXJvTmRVYllJTm1OTUo5czZFZHVtV3ZOOW9QZFZXa0RTMHc3NTNseUhqay1fX01UR0dRR08yMVN0VXBzNUhQajlGUGhON1lqeHRYa2tXMDU4ZEVVSkNISkFmR0hNckVjTTVDX2lyWkkyZUF4WVdfR2hTaFJER3l0Qk9RcTJoQQ?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSVdOdXJZeFlBNHVkNkM0aE9XN2JzQ3ZRMUM0ZTlOTFZiTlBtSmt2aHdwMF90TjNaRlBEaFdVcjlwRUJzR1JLNHpQUnlLdE9EcFV4N0FEU1pabENQRUp5X0xRMHN5WHJiQklRSWQxUWo1a3pHdEJabXVyUDFXTFZWWWl6ckxMenJySTJCUTdfYU5YVmRlekRzZS04WUNxVkZnSTNnYjhhakxqRi1VdUZYWTZxU3RPZEJOekhVM3ZBRUpTSXdiQnZRMlRoeGI0VzdwZkdoc3NTSDhCZw?oc=5)
+
+---
+
+### [England: MS-Prävalenz verdoppelt durch bessere Diagnose und längeres Überleben – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekVpYXBHbE43RERwVExjNU1RNE1hSzJZbl92TjIyYVZJN1NoVjVTTHlqcDhVcGRWakJmQmtrS01JZFVfXzhzdlJwekNndHExamVDWjdudFAzUFl1dlBoWXRRUjBrUm1RZGlLSTFQdVFBa1pOX19DMkFRVWZ0MVdFeFVaTW9jQkdCNHUzX0hMYk1VcExHcWJDS3RWTWx2UkJZdlhLUzJMXzlZclJIMG9jclBxQXd0aDhTQ2Q3ZF9vN01BWDM2X2hMMVZkMDNkSS1NN1hPd0NUaDJXU2c2M3gw?oc=5)
+
+2026-04-30 <span class="news-indication-tag">MS</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekVpYXBHbE43RERwVExjNU1RNE1hSzJZbl92TjIyYVZJN1NoVjVTTHlqcDhVcGRWakJmQmtrS01JZFVfXzhzdlJwekNndHExamVDWjdudFAzUFl1dlBoWXRRUjBrUm1RZGlLSTFQdVFBa1pOX19DMkFRVWZ0MVdFeFVaTW9jQkdCNHUzX0hMYk1VcExHcWJDS3RWTWx2UkJZdlhLUzJMXzlZclJIMG9jclBxQXd0aDhTQ2Q3ZF9vN01BWDM2X2hMMVZkMDNkSS1NN1hPd0NUaDJXU2c2M3gw?oc=5)
+
+---
+
+### [Un nuevo tratamiento contra la progresión de la esclerosis múltiple llena de esperanza a la comunidad médica: "Supone un gran hito"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY20wRjJ2RHBSRFRTOWZRX0tNUUozSjJwbnMyUDdKNHlJMXZBZnRzWUxKM3NOeEFidVpEbVNjWTdWME1aWkU2TUhnMTdWeldQNksxX0gwejkyWGZ6TjdoeDRpSUJPOW5aSF9JSXQweGNUQkY3aWd6bmRmd2JwMVpmQ19rNXZxbWpMSXVNWG4wbEpPT1NCOTBBanpqNUpsYVowbDREbk5IekhLLXR1OUpRbVlrZlNxTXlYbG80cTFseWZIWXktcjRXSTRzaHFQUWZIb0gxTnltTmdpdGp0TEU3bkJfTGNhOUZ6dlVtRW9FbDE?oc=5)
+
+2026-04-30 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY20wRjJ2RHBSRFRTOWZRX0tNUUozSjJwbnMyUDdKNHlJMXZBZnRzWUxKM3NOeEFidVpEbVNjWTdWME1aWkU2TUhnMTdWeldQNksxX0gwejkyWGZ6TjdoeDRpSUJPOW5aSF9JSXQweGNUQkY3aWd6bmRmd2JwMVpmQ19rNXZxbWpMSXVNWG4wbEpPT1NCOTBBanpqNUpsYVowbDREbk5IekhLLXR1OUpRbVlrZlNxTXlYbG80cTFseWZIWXktcjRXSTRzaHFQUWZIb0gxTnltTmdpdGp0TEU3bkJfTGNhOUZ6dlVtRW9FbDE?oc=5)
 
 ---
 
@@ -86,6 +102,14 @@ permalink: /news/elbasvir/
 
 ---
 
+### [Raise tax on alcohol and junk food to cut deaths from liver disease, experts say - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxqQ2lSeEl2eWFDQ3hDS1VVdW03NWlLUFRvNUJ2NjdVOUJiOWd5cF9iRHVuRzdPdy1NUTRzRjFlQVhBQlZySXdleGQzM1M2VnhlZEFlTHVQZVlFSWdPbkV4RlV1ODRGTU5lWVk0bWs5QTZCWUJhUTMyTmJtZnlJbTlqM3Utb0V4TnpIb0dyTXg4R2pqeFE1dC00cFZFTGRY?oc=5)
+
+2026-04-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxqQ2lSeEl2eWFDQ3hDS1VVdW03NWlLUFRvNUJ2NjdVOUJiOWd5cF9iRHVuRzdPdy1NUTRzRjFlQVhBQlZySXdleGQzM1M2VnhlZEFlTHVQZVlFSWdPbkV4RlV1ODRGTU5lWVk0bWs5QTZCWUJhUTMyTmJtZnlJbTlqM3Utb0V4TnpIb0dyTXg4R2pqeFE1dC00cFZFTGRY?oc=5)
+
+---
+
 ### [Offering tests after first baby loss could prevent 10,000 miscarriages a year, study claims - Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFBmbHFvMlZQcHlfT3VrS0Nka2pmNkVGa3MxTjdqMlkwb0RxUThuM3BFVVV6U0JiZV9wdHZ4WE1HSnBsVVRvbFgtYUFEUWlMNkdtdWhnaFpuQkNqc29fanBISXZueFZveDd4WnVHVDBUVG1GanRuT2JZeXJSVThSNXd5OWxVQVVyVlFKYkcxZVN1OU5VRFVHOEVIejR6Q3c?oc=5)
 
 2026-04-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -99,14 +123,6 @@ permalink: /news/elbasvir/
 2026-04-29 <span class="news-indication-tag">sclérose en plaques</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGZYbzdiZERNM1IxaUozNjNKUmZCZGpLN1NfZGRhMXRUZ09oUkszMXdJNlBWdmV4OHVoQUh4YWNhUGszdEFNRzRBaWUtNEV5WGRKYmtMWjJjdUdLbnVHam9TV0NUcDJ6elhDc0VGU3VMVUJOTUFoN0QtUWlKSXFpXzRiclJOSHp4QWo0RHJRaU4yNThOX2k2RTlCWGlpVUZjd05hY3g3em5XeGo4ZE56czZjTnhsWHUtSlV1cDlCcEJCOHlIQnE4?oc=5)
-
----
-
-### [Pesticidi e cancro: uno studio shock rivela un aumento del rischio oncologico del 150% - Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzdEZV9UQVFYWkdIelluSTVvdWwwLXhQQnExX0dqbFh0RHhFZWFab3dkMGVvU21WSm1PeFVHb3ZOVThfS21tYS1YTG9uNlhuaU1IT0pibEhmSkVsYWc5TmVvN1pSMFhaNF9RVFExbmZUbVVCWnA4TlJ1cTh5cmtFM2QwamJhLUhT?oc=5)
-
-2026-04-29 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Fatto Alimentare](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzdEZV9UQVFYWkdIelluSTVvdWwwLXhQQnExX0dqbFh0RHhFZWFab3dkMGVvU21WSm1PeFVHb3ZOVThfS21tYS1YTG9uNlhuaU1IT0pibEhmSkVsYWc5TmVvN1pSMFhaNF9RVFExbmZUbVVCWnA4TlJ1cTh5cmtFM2QwamJhLUhT?oc=5)
 
 ---
 
@@ -142,11 +158,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [La EMA respalda el fármaco oral Cenrifki - Esclerosis múltiple España](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFJybTBrMFVYeVlMRjItLXloSUUteW9GdkN3blJGWHVxbXZMVjhlZS1OMWRVeElrUTBOTjNwZWJVd2dkTmFtQ0NfNUJYc3Vta3o3bkV2eGtTa2t2SnFfT0FlampuSWk3MC1ibWNhT29PT01pOXM3SDRSUmxGUVdzWi1MVVVvM08xc2d1aHlMd1IwLUtWdk4yVlU3NA?oc=5)
+### ['My whirlwind daughter is now in remission', Leicestershire mum says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TRk9ENUJpWk5UQVpnZllKQ2ZfdTRzeWJXNVFkbjhjZHpabUVQMmJOYkY3Q1dwZFZfbms1cEg2QjFoT3lRamlLZWRMaFNVNlktc3NJamhwZnhVRDJr?oc=5)
 
-2026-04-29 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-04-29 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Esclerosis múltiple España](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFJybTBrMFVYeVlMRjItLXloSUUteW9GdkN3blJGWHVxbXZMVjhlZS1OMWRVeElrUTBOTjNwZWJVd2dkTmFtQ0NfNUJYc3Vta3o3bkV2eGtTa2t2SnFfT0FlampuSWk3MC1ibWNhT29PT01pOXM3SDRSUmxGUVdzWi1MVVVvM08xc2d1aHlMd1IwLUtWdk4yVlU3NA?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TRk9ENUJpWk5UQVpnZllKQ2ZfdTRzeWJXNVFkbjhjZHpabUVQMmJOYkY3Q1dwZFZfbms1cEg2QjFoT3lRamlLZWRMaFNVNlktc3NJamhwZnhVRDJr?oc=5)
 
 ---
 
@@ -155,30 +171,6 @@ permalink: /news/elbasvir/
 2026-04-29 <span class="news-indication-tag">MS</span>
 
 來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMlBMaUpOR3diOHk2MkVoRGpiNUZ0V0k2MG9aanNueWdaeDUtR3hYbk5LOHRPcGpxRV8zM01qbTk3ZVotRUpZU0FESE9QODRHanQ3dmJqX0RJVzBKMnZYVVdzMDFVc2lnUXhoOFhZUi1OZGVPUThGc090dno4ZWUyQTdfcHVITGl5UldxSktmT3lnN2Q0UnZuRtIBngFBVV95cUxPRWJMUzA1Mm96OGlMenFKQ0lvc25tbW5jU25hRlNQZk44ZWpwaDZMWHhtbnE4RlVrbXJJSDhNekNWYlVFRklUcEo5XzRTVFJkalYxWmVaUXF4R01MendOWnhVbDBzQkJGMHJfdklNNE1WN3hlRmlzSTZUUk1XMWt1MktKcHRIeEREaHd4TzlkZ3FySTZPRG1oaENLR19pQQ?oc=5)
-
----
-
-### [Ultra-Processed Foods May Be Quietly Affecting Your Brain's Ability to Focus](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlp0YjdKSVJRNGFybUIwUnZXSHptRmJiYWNTcVVaNS1HMzdIWHZvaWJkaHNaV2luTjR6am5wXzVOMlctRkt5dVJwUmMxbHBjc096T09FeDFCYVVEOGM3LXdrdGk5TGNWVG5YVDBZT2hpalJFaWtJLUlYemJ3QjctSm9JU1VhU24zTXU5MHpickExc3lGVUl3Q1BUNDd5QUZsRnVXdGNBMA?oc=5)
-
-2026-04-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlp0YjdKSVJRNGFybUIwUnZXSHptRmJiYWNTcVVaNS1HMzdIWHZvaWJkaHNaV2luTjR6am5wXzVOMlctRkt5dVJwUmMxbHBjc096T09FeDFCYVVEOGM3LXdrdGk5TGNWVG5YVDBZT2hpalJFaWtJLUlYemJ3QjctSm9JU1VhU24zTXU5MHpickExc3lGVUl3Q1BUNDd5QUZsRnVXdGNBMA?oc=5)
-
----
-
-### [MSD presenta 'Comprometidos con cada generación' para concienciar sobre la importancia de la inmunización](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
-
-2026-04-28 <span class="news-indication-tag">MS</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUllMZkluOG5vQUN6U2JOSWFKNUFVMTdVeXlvZFNfWkM5eWl5QUhxaGFUNVZ1R3k2VTNmb1FTdjlOQ3MxTHpCTTg2QmtqbFhNYVVJdlFRemY3Sy10ZjhuWkVRekwtODJXMmRIQkVCUHcyUm56QTU5MGtRZFp6RlNHSUpMcGlPYWp4NVdhTnBjVlRVUmw4ZFIxTjNKM05qaU9NUEFjT3dLc2lCRHc5SWxXTDRJN3NZbVJOM29nRXN4RjQ4dXU1eE5vQTh1allWcUVSOW5kS1EzZHpIT2NmN2ZzX0J5NjhCdw?oc=5)
-
----
-
-### [GP struck off over garlic oil 'cancer cure' claims](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WlF5NThTTFRTZnJLZThHdXlKczFlYWZGaVY5bVl5RHhLY01hU3g0MWJLRmNHRmEyUmFiZUJzZjJRUVJ2d203dFZLU1YyVGZDWlFjdGhpcWk5QQ?oc=5)
 
 ---
 

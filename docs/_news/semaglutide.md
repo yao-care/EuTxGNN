@@ -54,6 +54,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（10 則）
 
+### [Das heimtückische Fett-Gedächtnis: Warum die Gefahr für Diabetes auch nach der Diät weiter besteht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRENSZ2N2SDhQN2U2aU13ZWhKT3JKUGtERnZkaGc4YTZlaDFtUXNjczhrV2NnTmxkc1Z1M0RwU2xhQWYwT3BFaUZ4My03TDU3RUFHNVdtLVc1bzlMUTVTdjRwSGo3SUtlT2JZLUd6b0R4VTZoX3V4TGdkeFF4bGVVLWJ4eDNVYW54U1dXd01pVTkxTGZDWHk5cTNPUEtzRExzd1dtRExQVFB0dWpsR1lCX1Q2RzR4Zw?oc=5)
+
+2026-04-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRENSZ2N2SDhQN2U2aU13ZWhKT3JKUGtERnZkaGc4YTZlaDFtUXNjczhrV2NnTmxkc1Z1M0RwU2xhQWYwT3BFaUZ4My03TDU3RUFHNVdtLVc1bzlMUTVTdjRwSGo3SUtlT2JZLUd6b0R4VTZoX3V4TGdkeFF4bGVVLWJ4eDNVYW54U1dXd01pVTkxTGZDWHk5cTNPUEtzRExzd1dtRExQVFB0dWpsR1lCX1Q2RzR4Zw?oc=5)
+
+---
+
 ### [Una molécula protege el páncreas de la toxicidad asociada a la diabetes tipo 2](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVldSb1gyRWZkb1ZSeFdZbVBVWWxnU0lCckJXVFBRWlZNM3k0SjRFS3hzWFRaNlR3dmZmRWMwaU5hb0kxSU9zdjJkTmlYdHJlaTNLMk5tR1IwTXRvMDlaOEZNekM2SlFmT2d4Qy1TVDVFaDYycy1OODBHR0xrMDlVZHUwUkNQbXJxZ0pkeGdBZm9jdVFfYktlaXo5ZFNjZlRxQk11VXBtazV3SExNVnFzbU5PWGI?oc=5)
 
 2026-04-30 <span class="news-indication-tag">diabetes</span>
@@ -62,11 +70,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [In Piemonte oltre 300 mila diabetici: “Dateci i sensori per la glicemia, ne va della vita” - La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2RlTTNJRDBNVThRZTlmYW1oQlZzVVg1SWJQUnJPSVk1QjRTMFVhOE9pTmtqMUR0cENQR0F2cksyUzFwQTlpMUYwOVRSUFlQcG9wY0xiNFdlbDRXS1Z0TVU4SmZRUkdWODhqMXVfR1dMYnYtdHVhUmRLMHNNUGdfUEpBcDZmdzlVMC1UWlpDcGNSTi1EU0pfQkxsV1dfWDlLa1g1c2dSMVPSAa4BQVVfeXFMUDJaeXlTTkV0QnlCTmRMUjh4N2hJVG1IMm00dDVkVHlHckoyU0JFWk9SSVVocVdvSzN4cWZwbEVDM1NDTG84T3lOY256eGN4aURJbFdKeXJJOXo1TjdFR2t3QmpqVUJpTmRaazVfWnFQb3BUOEtmRElfdzVyS1FPbjE3YV9qdlg2WWd0cjVfZ1NyUE80ZlljSXFRR3pKZ0piUFpRY3h5ZEw0ZHhRYzFn?oc=5)
+### [Diabete, 300.000 malati e un impegno ancora sulla carta: battaglia in Piemonte per i nuovi sensori - La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2RlTTNJRDBNVThRZTlmYW1oQlZzVVg1SWJQUnJPSVk1QjRTMFVhOE9pTmtqMUR0cENQR0F2cksyUzFwQTlpMUYwOVRSUFlQcG9wY0xiNFdlbDRXS1Z0TVU4SmZRUkdWODhqMXVfR1dMYnYtdHVhUmRLMHNNUGdfUEpBcDZmdzlVMC1UWlpDcGNSTi1EU0pfQkxsV1dfWDlLa1g1c2dSMVPSAa4BQVVfeXFMUDJaeXlTTkV0QnlCTmRMUjh4N2hJVG1IMm00dDVkVHlHckoyU0JFWk9SSVVocVdvSzN4cWZwbEVDM1NDTG84T3lOY256eGN4aURJbFdKeXJJOXo1TjdFR2t3QmpqVUJpTmRaazVfWnFQb3BUOEtmRElfdzVyS1FPbjE3YV9qdlg2WWd0cjVfZ1NyUE80ZlljSXFRR3pKZ0piUFpRY3h5ZEw0ZHhRYzFn?oc=5)
 
 2026-04-30 <span class="news-indication-tag">diabetic</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2RlTTNJRDBNVThRZTlmYW1oQlZzVVg1SWJQUnJPSVk1QjRTMFVhOE9pTmtqMUR0cENQR0F2cksyUzFwQTlpMUYwOVRSUFlQcG9wY0xiNFdlbDRXS1Z0TVU4SmZRUkdWODhqMXVfR1dMYnYtdHVhUmRLMHNNUGdfUEpBcDZmdzlVMC1UWlpDcGNSTi1EU0pfQkxsV1dfWDlLa1g1c2dSMVPSAa4BQVVfeXFMUDJaeXlTTkV0QnlCTmRMUjh4N2hJVG1IMm00dDVkVHlHckoyU0JFWk9SSVVocVdvSzN4cWZwbEVDM1NDTG84T3lOY256eGN4aURJbFdKeXJJOXo1TjdFR2t3QmpqVUJpTmRaazVfWnFQb3BUOEtmRElfdzVyS1FPbjE3YV9qdlg2WWd0cjVfZ1NyUE80ZlljSXFRR3pKZ0piUFpRY3h5ZEw0ZHhRYzFn?oc=5)
+
+---
+
+### [Ein Molekül, zwei Effekte: Neuer Wirkstoff-Ansatz gegen Übergewicht und Typ-2-Diabetes - LMU München](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVN5Z01mQ0ZOejJFaFQybkFyQUZ6Qlh3M2RPTDNmRmF6ZFdwQlhIT01mTWtoS2RPdUZpMjU3N3BIanM3cU9wWWY5azlIcmc5UWl6ZTNwOXItdEdDLTlkVWJnZWFfZFFWWG8tQmFxOTNQX1VuMTZLaFdkVmF4Y0thMWExMTF4YzJKalBkM1hTRFZvNWZ3bW05YUpSeC1MMW5YTWRJY3dtbmZ1MHFvX2d6YWZlUjVqMm5aMXFBUnZydnFDNHZGOW1NZHR3RXM4RmVJbmh3dzZuMGVhU2JOazdJN29taW9BUQ?oc=5)
+
+2026-04-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[LMU München](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVN5Z01mQ0ZOejJFaFQybkFyQUZ6Qlh3M2RPTDNmRmF6ZFdwQlhIT01mTWtoS2RPdUZpMjU3N3BIanM3cU9wWWY5azlIcmc5UWl6ZTNwOXItdEdDLTlkVWJnZWFfZFFWWG8tQmFxOTNQX1VuMTZLaFdkVmF4Y0thMWExMTF4YzJKalBkM1hTRFZvNWZ3bW05YUpSeC1MMW5YTWRJY3dtbmZ1MHFvX2d6YWZlUjVqMm5aMXFBUnZydnFDNHZGOW1NZHR3RXM4RmVJbmh3dzZuMGVhU2JOazdJN29taW9BUQ?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/semaglutide/
 2026-04-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
-
----
-
-### [Ein Molekül, zwei Effekte: Neuer Wirkstoff-Ansatz gegen Übergewicht und Typ-2-Diabetes - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmdTcmJrS3lCb0RSVzdVdlJoNTJJcUt1VDdHdVVTbEYwNERCSDctakg0OUlXVHJwTXI0MmM5VDVJUnFma0ptV2pDa1VEQ3lRVXV4UnBpVGNaNWJnM2dSeU5vdURVM0tQd3JvN1RsZzFUTFpKbDRFcDFVRmg1YlVpNlgyelh5S3k2Y2JxTWd1cERQRnRDYkMzWGVLYk84dnBqNno4bjR6NXk3UVNMc1pFSV9BWlQtRm9DSVpzeXNpeXdsd3lhakZjYkI4cFZ1WXRJaFFvUWFaTjQ1UjVm?oc=5)
 
 ---
 
@@ -123,14 +131,6 @@ permalink: /news/semaglutide/
 2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
-
----
-
-### [Simple “Gut Reset” May Prevent Weight Gain After Ozempic or Wegovy](https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVBweHhzZmNjVmJtYm5OV3d5eGN6eGZydGhteG9Kcm04YlMwOHRNNldjTDFVOUh5Zm1kdThxTkI3TzV1NXlORlc3S19wQUxNZlVVdjRiWUNUZGxWYVphTkxwYkc2UDZZMFhUcWI0SDJTOFhjeDRpbXVFRXBHS2VrY1p0Zlo2OTZ4RjIxQ2dqVS1EZUpH?oc=5)
-
-2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVBweHhzZmNjVmJtYm5OV3d5eGN6eGZydGhteG9Kcm04YlMwOHRNNldjTDFVOUh5Zm1kdThxTkI3TzV1NXlORlc3S19wQUxNZlVVdjRiWUNUZGxWYVphTkxwYkc2UDZZMFhUcWI0SDJTOFhjeDRpbXVFRXBHS2VrY1p0Zlo2OTZ4RjIxQ2dqVS1EZUpH?oc=5)
 
 ---
 

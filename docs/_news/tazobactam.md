@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Scientists reveal the best exercise for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cmxUMWFiNmxLdURqOW4yanhfbHpadjJoZnhvV2pxanJGblRNMjZWQlJTMm54bEhDTmU0T0ZQaEczWExMVk5qTWR1ZUxxMGg3WURvZU4yX0tfQjFhc1pLQ3JFNnhRWXQtQ0VLYlc3MA?oc=5)
-
-2026-04-30 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cmxUMWFiNmxLdURqOW4yanhfbHpadjJoZnhvV2pxanJGblRNMjZWQlJTMm54bEhDTmU0T0ZQaEczWExMVk5qTWR1ZUxxMGg3WURvZU4yX0tfQjFhc1pLQ3JFNnhRWXQtQ0VLYlc3MA?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Contaminación: así impacta en pulmones con asma](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVpQTUFLQ2NUNzI4ZXdIM1gxY1EzVDhuZjVFd2NkME8tLUpFb0hBUlpNTVRIbmItckRpQVdnbUhadjB1RDlQZlJFcXlCYWV5aEVtbWlzcW9CdHE1cXVEUnBORHFIckF3MlM0N2xRRFowZFRNbktkMVc2bXVOOG1JUHRmVTNsU0E2bjRZUjJya3BIOTVDemM1ZnVkWG5YT1FFMktBRzlOSllOUDZOdUE?oc=5)
 

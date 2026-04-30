@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Scientists reveal the best exercise for knee arthritis pain relief](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cmxUMWFiNmxLdURqOW4yanhfbHpadjJoZnhvV2pxanJGblRNMjZWQlJTMm54bEhDTmU0T0ZQaEczWExMVk5qTWR1ZUxxMGg3WURvZU4yX0tfQjFhc1pLQ3JFNnhRWXQtQ0VLYlc3MA?oc=5)
-
-2026-04-30 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cmxUMWFiNmxLdURqOW4yanhfbHpadjJoZnhvV2pxanJGblRNMjZWQlJTMm54bEhDTmU0T0ZQaEczWExMVk5qTWR1ZUxxMGg3WURvZU4yX0tfQjFhc1pLQ3JFNnhRWXQtQ0VLYlc3MA?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Demuestran que los mecanismos de la EPOC son diferentes en función del sexo biológico](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTBtUXhYd1FKS1VJSTdPNlpVZzBlLVFVR0txTF9aYWpUc0hpRjJSMjFQYzI3cFpjQkQ5YlJ2QUNJWS1WeWV6elRqc1VLYXhKeUxUaHEtQ25LXzEwUzVyQkNjUm05VG50R2JXd1dSVHY2OVVzSW5zVGJkQUViV2I4T0gyc2wyUnBMSVZwNWdXRm96R21Ca2VBR0l3NlhESi05SWhrV19QLTgzQ3B2aldnQ3ZkaWlTRE9XRnpWZ1VqR05UMWc3V09BN0FlUkpWckJ0YXlwdg?oc=5)
 

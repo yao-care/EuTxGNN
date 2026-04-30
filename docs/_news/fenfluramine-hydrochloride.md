@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [UK researchers develop tool to identify people most at risk of obesity-related diseases - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThpby04bEgwb1NpcnhKNHdpaFA2d3VlNzFJclBLMG90MWNjYnMxdjBOWGxrLXI5NUNJN3Y2cC1iYXhwdkJPQllHc01qQmE3cC1rU3NoZkx6blJTUzQxcTZzek5wbndIemR0SURieDVBN1g1MmtCOFFtd1dHVWR2X0VFaVpDVnhCZ0NSOVhjRjhJSUlaQWJ3dVI3RU5ObW5sRlRKUDRLOGZ0S0ZIYXNJU1RjLXZxX3c?oc=5)
 
 2026-04-30 <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThpby04bEgwb1NpcnhKNHdpaFA2d3VlNzFJclBLMG90MWNjYnMxdjBOWGxrLXI5NUNJN3Y2cC1iYXhwdkJPQllHc01qQmE3cC1rU3NoZkx6blJTUzQxcTZzek5wbndIemR0SURieDVBN1g1MmtCOFFtd1dHVWR2X0VFaVpDVnhCZ0NSOVhjRjhJSUlaQWJ3dVI3RU5ObW5sRlRKUDRLOGZ0S0ZIYXNJU1RjLXZxX3c?oc=5)
+
+---
+
+### [Das heimtückische Fett-Gedächtnis: Warum die Gefahr für Diabetes auch nach der Diät weiter besteht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRENSZ2N2SDhQN2U2aU13ZWhKT3JKUGtERnZkaGc4YTZlaDFtUXNjczhrV2NnTmxkc1Z1M0RwU2xhQWYwT3BFaUZ4My03TDU3RUFHNVdtLVc1bzlMUTVTdjRwSGo3SUtlT2JZLUd6b0R4VTZoX3V4TGdkeFF4bGVVLWJ4eDNVYW54U1dXd01pVTkxTGZDWHk5cTNPUEtzRExzd1dtRExQVFB0dWpsR1lCX1Q2RzR4Zw?oc=5)
+
+2026-04-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRENSZ2N2SDhQN2U2aU13ZWhKT3JKUGtERnZkaGc4YTZlaDFtUXNjczhrV2NnTmxkc1Z1M0RwU2xhQWYwT3BFaUZ4My03TDU3RUFHNVdtLVc1bzlMUTVTdjRwSGo3SUtlT2JZLUd6b0R4VTZoX3V4TGdkeFF4bGVVLWJ4eDNVYW54U1dXd01pVTkxTGZDWHk5cTNPUEtzRExzd1dtRExQVFB0dWpsR1lCX1Q2RzR4Zw?oc=5)
+
+---
+
+### [Auch metabolisch gesunde Adipositas erhöht Krankheits- und Sterberisiko – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0ZtOXpCNGx3aEd6Nm1ZWUhNbU5JR0NQZU82a3NrVnptNlEta1BKQUt4R2dvMlJRa0o5QkpzVXBaOUI2M3pGZnRHWXhzejBzbnlOcHpQenMyUXd5ZEtvZlRMMWZOQjRHcHFvVEh0NUQ4U3pvczdZV0FlaUdjMHVnaXRVc012ZDgzcWNrcWh1UUt3Rnk1ZU8wclBmZ081aGVpaUVQUmNLM3lIN01oZlpQUk44blNwanViUS02YmJRTU0xc213SzJNdkFBT3R0VnYtNk44dmt3?oc=5)
+
+2026-04-30 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0ZtOXpCNGx3aEd6Nm1ZWUhNbU5JR0NQZU82a3NrVnptNlEta1BKQUt4R2dvMlJRa0o5QkpzVXBaOUI2M3pGZnRHWXhzejBzbnlOcHpQenMyUXd5ZEtvZlRMMWZOQjRHcHFvVEh0NUQ4U3pvczdZV0FlaUdjMHVnaXRVc012ZDgzcWNrcWh1UUt3Rnk1ZU8wclBmZ081aGVpaUVQUmNLM3lIN01oZlpQUk44blNwanViUS02YmJRTU0xc213SzJNdkFBT3R0VnYtNk44dmt3?oc=5)
 
 ---
 
