@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# enfermedad de Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [En la enfermedad de Alzheimer, las mutaciones cancerosas se acumulan en las células inmunitarias del cerebro](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzNJcGFDelMtODVlTTZqNkpXSVBjNDl5blUxRmRkekdULThoX3Q1Q0xtaHlpMXBoMTB5ZkdoejNLSS1lNk43LVUzdUYyUGlxLUJCTnAtYnJVQ1VGTU5ENlY2dEhScEY2UUU0MG5FdkJKMEdybE03eGg2WUhaZEpLV1BNQ3d4RDBTbUFYVW95V25yQXpSSWwybVlENnIyMnlsUnd0cFl4ZE95dEtsVE1xelgwLW5DUllzbTdpNGN4NExDSEVQUzgtSGUwVG5HU3JDU0s3NFJFYmtqZw?oc=5)
+
+2026-04-29
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzNJcGFDelMtODVlTTZqNkpXSVBjNDl5blUxRmRkekdULThoX3Q1Q0xtaHlpMXBoMTB5ZkdoejNLSS1lNk43LVUzdUYyUGlxLUJCTnAtYnJVQ1VGTU5ENlY2dEhScEY2UUU0MG5FdkJKMEdybE03eGg2WUhaZEpLV1BNQ3d4RDBTbUFYVW95V25yQXpSSWwybVlENnIyMnlsUnd0cFl4ZE95dEtsVE1xelgwLW5DUllzbTdpNGN4NExDSEVQUzgtSGUwVG5HU3JDU0s3NFJFYmtqZw?oc=5)
+
+---
 
 ### [Ultra-Processed Foods May Be Quietly Affecting Your Brain's Ability to Focus](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlp0YjdKSVJRNGFybUIwUnZXSHptRmJiYWNTcVVaNS1HMzdIWHZvaWJkaHNaV2luTjR6am5wXzVOMlctRkt5dVJwUmMxbHBjc096T09FeDFCYVVEOGM3LXdrdGk5TGNWVG5YVDBZT2hpalJFaWtJLUlYemJ3QjctSm9JU1VhU24zTXU5MHpickExc3lGVUl3Q1BUNDd5QUZsRnVXdGNBMA?oc=5)
 

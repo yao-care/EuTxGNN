@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0V4eHZaNE5rUHdCeWpWZTR2Xzg3bzlxTEd1bEttS0J5ZjJPTXlIbEZUbm1MTmhJVVp6R1k2aEYtWV9UWVRTbmFsSzBXWEM3RWo5ZE5raW9uNFQ4RDhoa08wSHFEcjR0QmIyYWNQbC1UYjhLWUdITERLanlLbF9TcGRxUkxkYzFsMUJxMmF4RnhqSmhYSGFkTkFIRlNrekR0YXhYUEg0S1VmeFFlRGxyanIyOE9lSGYwTWFhTFNNVWJBS0VF?oc=5)
+### [Una molécula protege el páncreas de la toxicidad asociada a la diabetes tipo 2](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVldSb1gyRWZkb1ZSeFdZbVBVWWxnU0lCckJXVFBRWlZNM3k0SjRFS3hzWFRaNlR3dmZmRWMwaU5hb0kxSU9zdjJkTmlYdHJlaTNLMk5tR1IwTXRvMDlaOEZNekM2SlFmT2d4Qy1TVDVFaDYycy1OODBHR0xrMDlVZHUwUkNQbXJxZ0pkeGdBZm9jdVFfYktlaXo5ZFNjZlRxQk11VXBtazV3SExNVnFzbU5PWGI?oc=5)
 
 2026-04-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0V4eHZaNE5rUHdCeWpWZTR2Xzg3bzlxTEd1bEttS0J5ZjJPTXlIbEZUbm1MTmhJVVp6R1k2aEYtWV9UWVRTbmFsSzBXWEM3RWo5ZE5raW9uNFQ4RDhoa08wSHFEcjR0QmIyYWNQbC1UYjhLWUdITERLanlLbF9TcGRxUkxkYzFsMUJxMmF4RnhqSmhYSGFkTkFIRlNrekR0YXhYUEg0S1VmeFFlRGxyanIyOE9lSGYwTWFhTFNNVWJBS0VF?oc=5)
+來源：[Sinc](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVldSb1gyRWZkb1ZSeFdZbVBVWWxnU0lCckJXVFBRWlZNM3k0SjRFS3hzWFRaNlR3dmZmRWMwaU5hb0kxSU9zdjJkTmlYdHJlaTNLMk5tR1IwTXRvMDlaOEZNekM2SlFmT2d4Qy1TVDVFaDYycy1OODBHR0xrMDlVZHUwUkNQbXJxZ0pkeGdBZm9jdVFfYktlaXo5ZFNjZlRxQk11VXBtazV3SExNVnFzbU5PWGI?oc=5)
+
+---
+
+### [In Piemonte oltre 300 mila diabetici: “Dateci i sensori per la glicemia, ne va della vita” - La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2RlTTNJRDBNVThRZTlmYW1oQlZzVVg1SWJQUnJPSVk1QjRTMFVhOE9pTmtqMUR0cENQR0F2cksyUzFwQTlpMUYwOVRSUFlQcG9wY0xiNFdlbDRXS1Z0TVU4SmZRUkdWODhqMXVfR1dMYnYtdHVhUmRLMHNNUGdfUEpBcDZmdzlVMC1UWlpDcGNSTi1EU0pfQkxsV1dfWDlLa1g1c2dSMVPSAa4BQVVfeXFMUDJaeXlTTkV0QnlCTmRMUjh4N2hJVG1IMm00dDVkVHlHckoyU0JFWk9SSVVocVdvSzN4cWZwbEVDM1NDTG84T3lOY256eGN4aURJbFdKeXJJOXo1TjdFR2t3QmpqVUJpTmRaazVfWnFQb3BUOEtmRElfdzVyS1FPbjE3YV9qdlg2WWd0cjVfZ1NyUE80ZlljSXFRR3pKZ0piUFpRY3h5ZEw0ZHhRYzFn?oc=5)
+
+2026-04-30 <span class="news-indication-tag">diabetic</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2RlTTNJRDBNVThRZTlmYW1oQlZzVVg1SWJQUnJPSVk1QjRTMFVhOE9pTmtqMUR0cENQR0F2cksyUzFwQTlpMUYwOVRSUFlQcG9wY0xiNFdlbDRXS1Z0TVU4SmZRUkdWODhqMXVfR1dMYnYtdHVhUmRLMHNNUGdfUEpBcDZmdzlVMC1UWlpDcGNSTi1EU0pfQkxsV1dfWDlLa1g1c2dSMVPSAa4BQVVfeXFMUDJaeXlTTkV0QnlCTmRMUjh4N2hJVG1IMm00dDVkVHlHckoyU0JFWk9SSVVocVdvSzN4cWZwbEVDM1NDTG84T3lOY256eGN4aURJbFdKeXJJOXo1TjdFR2t3QmpqVUJpTmRaazVfWnFQb3BUOEtmRElfdzVyS1FPbjE3YV9qdlg2WWd0cjVfZ1NyUE80ZlljSXFRR3pKZ0piUFpRY3h5ZEw0ZHhRYzFn?oc=5)
+
+---
+
+### [Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMTRTTk14Nk5CTkhQUWszeGk0UFBqSnpWX2dCeXdodFJhT09rUmZJNTFFaC0wc0NOS0lMbklsSDliTm14RU5lZ0ZCUXNrTmthNVNyMzFOOHdXN0NSejJv?oc=5)
+
+2026-04-29 <span class="news-indication-tag">diabetic</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMTRTTk14Nk5CTkhQUWszeGk0UFBqSnpWX2dCeXdodFJhT09rUmZJNTFFaC0wc0NOS0lMbklsSDliTm14RU5lZ0ZCUXNrTmthNVNyMzFOOHdXN0NSejJv?oc=5)
 
 ---
 
@@ -99,14 +115,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-04-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHlQZTVMWl95ZUplWUkyWWhBNG9CblczUVRxTnpoWGZxazdsaGpTREl1S0hDb003MWxjWjBQNVZSZUdUWW16aWEwRzZVQXpxRmRRQjhlUWNzaVNfc21wU1dQd0ZjSE5vNVhVeWpKXzBvMFhTY3lURXlSVHJPN3ZrX3hyQW55aXI4WW12WHRncnhPMk9lMlRvalltaldnektYS1hEY0pROFltelF6MmxUMlJtaUlNNEtMRUV3WV80U1U3QdIBvAFBVV95cUxNSnpPWmFmSnFXVHFSZjAxcnpOMzNmRng3OXdzcHlpQnlMNlZkQzlsWnJzWDJteE9ibmVyWjVzR0MxVW92YjMzbHNvN19LT3RnS1BqWEExNGZzY2V1WDl1R05MandHWThPRkNIMWkzNlNzUTVWbHVhcEJBTHBPcUdDLXU3OTNzZlpSZWUtcDVfNTNDY2M2anJ5U2FIaDhNbEZZQjVJSUtUZXNidGZJUUZ5eklsbDFwbThYM1l6WA?oc=5)
-
----
-
-### [Two Hair Loss Drugs Not Tied to Heart Disease Risk](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE01b2dteGdtZXhyM1VSSWlmbXFmMl9pNk05a3dKSUNid0NXNHpITW9wazJhNTZWY1prRjlnb2FkR0h4VE1pUXEzaG5FOEtLMW1JWkdERmlOeFB4UFUwY2tpQWw2XzRGSEVlUURSa0NBWXhmNkJEa1MwUHBPSDBETjZPMmZsSGl4aTRuUTR1Nk9HX0RzLXkyX3JFZlY0eUxOaTZGLQ?oc=5)
-
-2026-04-28 <span class="news-indication-tag">heart disease</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaE01b2dteGdtZXhyM1VSSWlmbXFmMl9pNk05a3dKSUNid0NXNHpITW9wazJhNTZWY1prRjlnb2FkR0h4VE1pUXEzaG5FOEtLMW1JWkdERmlOeFB4UFUwY2tpQWw2XzRGSEVlUURSa0NBWXhmNkJEa1MwUHBPSDBETjZPMmZsSGl4aTRuUTR1Nk9HX0RzLXkyX3JFZlY0eUxOaTZGLQ?oc=5)
 
 ---
 
