@@ -3,7 +3,7 @@ layout: default
 title: "hépatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hépatite（hepatitis） 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "hépatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hépatite（hepatitis） 有什麼相關新聞？">
-<strong>hépatite（hepatitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hépatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [40 Krankenhaus-Patienten mit HIV- und Hepatitis-Erregen infiziert?](https://news.google.com/rss/articles/CBMivwFBVV95cUxNckdYekd1THlNaUVyZEJ0YzNnc3VGa3FsczVSMWE2Vkt1VmU0UHZCZFd3dnJ2aUVPQ0tlSVMzZUFpSlpOQzhrcWhpVXBhTUNNZF9DamxKZGRpWU1vNE5pdEVkVmNuLUtrV2YxUlRmcmtvcWNudjhvQXdqbDE4YkQ2ZG4yYzVMbWpWRUxYcmZYNnMtYlJYRFZNN3Z5ZUNfR05LYXNGc2FZeFlSQlZZRUpvcTBnbUhNQjRscGM1S3p5TQ?oc=5)
+
+2026-05-01
+
+來源：[BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNckdYekd1THlNaUVyZEJ0YzNnc3VGa3FsczVSMWE2Vkt1VmU0UHZCZFd3dnJ2aUVPQ0tlSVMzZUFpSlpOQzhrcWhpVXBhTUNNZF9DamxKZGRpWU1vNE5pdEVkVmNuLUtrV2YxUlRmcmtvcWNudjhvQXdqbDE4YkQ2ZG4yYzVMbWpWRUxYcmZYNnMtYlJYRFZNN3Z5ZUNfR05LYXNGc2FZeFlSQlZZRUpvcTBnbUhNQjRscGM1S3p5TQ?oc=5)
+
+---
 
 ### [Des lauriers pour une méthode de restauration des fonctions cognitives développée en Suisse romande](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 

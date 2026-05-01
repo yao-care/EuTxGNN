@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [La melatonina mejora el insomnio y revoluciona la salud capilar - La Razón](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRnhKZGVsbnFCVWZIY3hVSUZuSGxmZXNBRU1XbHNMMFJSTmE3anpYcFdsMk1xQUkybkhMRXREYXVTbjVEMC1sTFVwX3VxT1BaOFdkOHRBbDZoTE5TUDlxOWxReXRBSVBHRmNUT0cteDNKTXpIbFhVeXR1N3huQlNnbUxOUzVscFZLTHFjSTB4NmhwR0VxVTBadXgxSXVLdEVaVUd2eXkxb3NmUklLOWlaRlZSU1ZCbEZwRng40gHPAUFVX3lxTE1FLVMtS0VBVDZZQXpYWk1CaTBaZTBQWGVkQmVvVFI5NFJ3Y1E3d2hHT29RS1VHTUNJQWlqSnZsUG1BS3RIVVUwdTk0c0otQ053NXd5Z2VYU0dOTVBuZ3daRmlmaFZnNnhEMzlMbFQ0NGw2Q2czckhMOEpRMEI2UDFzUXcwdXJxa0VzdGFHc0kzcXdYZjRzNE10RTZ2QmZzUjFLc2wyczhISXM3UGN6akJaX1VVaXBfb1I1ZTVNYk51bWhod3A4YVNEc2ItLWRybw?oc=5)
+
+2026-05-01 <span class="news-drug-tag">Melatonin</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRnhKZGVsbnFCVWZIY3hVSUZuSGxmZXNBRU1XbHNMMFJSTmE3anpYcFdsMk1xQUkybkhMRXREYXVTbjVEMC1sTFVwX3VxT1BaOFdkOHRBbDZoTE5TUDlxOWxReXRBSVBHRmNUT0cteDNKTXpIbFhVeXR1N3huQlNnbUxOUzVscFZLTHFjSTB4NmhwR0VxVTBadXgxSXVLdEVaVUd2eXkxb3NmUklLOWlaRlZSU1ZCbEZwRng40gHPAUFVX3lxTE1FLVMtS0VBVDZZQXpYWk1CaTBaZTBQWGVkQmVvVFI5NFJ3Y1E3d2hHT29RS1VHTUNJQWlqSnZsUG1BS3RIVVUwdTk0c0otQ053NXd5Z2VYU0dOTVBuZ3daRmlmaFZnNnhEMzlMbFQ0NGw2Q2czckhMOEpRMEI2UDFzUXcwdXJxa0VzdGFHc0kzcXdYZjRzNE10RTZ2QmZzUjFLc2wyczhISXM3UGN6akJaX1VVaXBfb1I1ZTVNYk51bWhod3A4YVNEc2ItLWRybw?oc=5)
+
+---
 
 ### [Los populares medicamentos para adelgazar reducen el consumo excesivo de alcohol, según un estudio danés](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajlrMWVKeTNTWGN2b0hJWE94bEVvVUc3U3BxMVhvS3lYSmpEdnlOdjBIbTh5SF9EZFRIZmdKUnNrR0phcldnOUJFT3p1eGd4SmpmdlpMbEptN1IwRFJOTkt0S1Bwb3U0dllQTFZJTHpJVjVFT0VVaER3c3J6ZDdtYW1TTS12VTA4WnhCSnY1M2ZwTjBfdXpVbkt5N3FVdTJ2RGRsdDk2Q1E5bmF1MnN5VWIxeXhkVGFGUnZNSEJYdk9XT09JUWJkMg?oc=5)
 
 2026-05-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Euractiv.es](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajlrMWVKeTNTWGN2b0hJWE94bEVvVUc3U3BxMVhvS3lYSmpEdnlOdjBIbTh5SF9EZFRIZmdKUnNrR0phcldnOUJFT3p1eGd4SmpmdlpMbEptN1IwRFJOTkt0S1Bwb3U0dllQTFZJTHpJVjVFT0VVaER3c3J6ZDdtYW1TTS12VTA4WnhCSnY1M2ZwTjBfdXpVbkt5N3FVdTJ2RGRsdDk2Q1E5bmF1MnN5VWIxeXhkVGFGUnZNSEJYdk9XT09JUWJkMg?oc=5)
+
+---
+
+### [Pollenallergie und Migräne: Gibt es einen Zusammenhang?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
+
+2026-05-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
 
 ---
 

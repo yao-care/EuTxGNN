@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [Studie zeigt, warum Abnehmen nicht jeden vor Diabetes schützt](https://news.google.com/rss/articles/CBMiugFBVV95cUxOME9wdVloaDgxRlJRbHZTcGNvTHlVVTJtb0dlWC1zRVJpcm1SYlRJWmQ4dno5WGluOGJyMkdMRTJycWo4V1dUQW9qSnNJaG04OGFzWVpOTzFtQWRJaDVvUmJzdE9FNEh3Z2lPWXkxWDZvUXZraEdROFV3LXNIMFhnd0gxdVF0Z0M0dHVuYWVzUmdOcHhuTXl6bEFrNDNpeVk0MkhnNjg5SDYwWjlBWktGYUVpTHVJYjNCMkE?oc=5)
+
+2026-05-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[Innsalzach24](https://news.google.com/rss/articles/CBMiugFBVV95cUxOME9wdVloaDgxRlJRbHZTcGNvTHlVVTJtb0dlWC1zRVJpcm1SYlRJWmQ4dno5WGluOGJyMkdMRTJycWo4V1dUQW9qSnNJaG04OGFzWVpOTzFtQWRJaDVvUmJzdE9FNEh3Z2lPWXkxWDZvUXZraEdROFV3LXNIMFhnd0gxdVF0Z0M0dHVuYWVzUmdOcHhuTXl6bEFrNDNpeVk0MkhnNjg5SDYwWjlBWktGYUVpTHVJYjNCMkE?oc=5)
+
+---
+
+### [Arthritis sufferers warned about 2 fruits as common arthritis pain triggers - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
+
+2026-05-01 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
+
+---
 
 ### [Diabetes als Schlüssel zur Demenzprävention: Neue Ansätze und Erkenntnisse - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
 
@@ -115,30 +131,6 @@ permalink: /news/cabotegravir/
 2026-04-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
-
----
-
-### [Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMTRTTk14Nk5CTkhQUWszeGk0UFBqSnpWX2dCeXdodFJhT09rUmZJNTFFaC0wc0NOS0lMbklsSDliTm14RU5lZ0ZCUXNrTmthNVNyMzFOOHdXN0NSejJv?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetic</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMTRTTk14Nk5CTkhQUWszeGk0UFBqSnpWX2dCeXdodFJhT09rUmZJNTFFaC0wc0NOS0lMbklsSDliTm14RU5lZ0ZCUXNrTmthNVNyMzFOOHdXN0NSejJv?oc=5)
-
----
-
-### [Vitamin-D-Präparate: Neue Studie zeigt überraschende Wirkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
-
----
-
-### [Studie zur Wirkung der Keto-Diät auf die Bauchspeicheldrüse](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
 
 ---
 

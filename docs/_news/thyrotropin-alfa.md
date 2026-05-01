@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Señales metabólicas años antes del embarazo predicen una posible hipertensión gestacional - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+2026-05-01 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+---
+
+### [Pollenallergie und Migräne: Gibt es einen Zusammenhang?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
+
+2026-05-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
+
+---
 
 ### ['I thought I was having a panic attack but it was heart failure' - Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
 

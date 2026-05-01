@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ipertensione（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# ipertensione（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
-<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Señales metabólicas años antes del embarazo predicen una posible hipertensión gestacional - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+2026-05-01
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+---
 
 ### [Quando si è davvero ipertesi? Dalle linee guida alla vita di ogni giorno, a ognuno la sua risposta - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhKYkZhOWFjLWJnTTZKSUVGOTRxX1ZzWU1IZDlHYVZKM0dnakd4YjVmTjU5dFZMRlFzZzh4eGo5SFJUZTB3Yno1RGNaYlBxdXkxVS1NSnpBcjlmUWNEQXhPODhmZjREbGxHWVpNZVhCMm9oLXdLNWhRMnNySzVMY2NmbS1KTFpNdmNkTzluNFZxaFZHRTRnMEhXTTZfdTY0RVFBRG5VSUtsalZRTnBNZWVlZkNUeE5KeFE?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Señales metabólicas años antes del embarazo predicen una posible hipertensión gestacional - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+2026-05-01 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+---
 
 ### [Niveles altos de ácido úrico se asocian a mayor riesgo cardiovascular en mujeres mayores de 50 - 65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Señales metabólicas años antes del embarazo predicen una posible hipertensión gestacional - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+2026-05-01 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+---
+
+### [Arthritis sufferers warned about 2 fruits as common arthritis pain triggers - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
+
+2026-05-01 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
+
+---
+
+### [Pollenallergie und Migräne: Gibt es einen Zusammenhang?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
+
+2026-05-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
+
+---
 
 ### [Quando si è davvero ipertesi? Dalle linee guida alla vita di ogni giorno, a ognuno la sua risposta - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhKYkZhOWFjLWJnTTZKSUVGOTRxX1ZzWU1IZDlHYVZKM0dnakd4YjVmTjU5dFZMRlFzZzh4eGo5SFJUZTB3Yno1RGNaYlBxdXkxVS1NSnpBcjlmUWNEQXhPODhmZjREbGxHWVpNZVhCMm9oLXdLNWhRMnNySzVMY2NmbS1KTFpNdmNkTzluNFZxaFZHRTRnMEhXTTZfdTY0RVFBRG5VSUtsalZRTnBNZWVlZkNUeE5KeFE?oc=5)
 

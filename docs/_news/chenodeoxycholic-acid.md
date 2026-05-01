@@ -14,7 +14,7 @@ permalink: /news/chenodeoxycholic-acid/
 ---
 
 <p class="key-answer" data-question="Chenodeoxycholic Acid 有什麼相關新聞？">
-<strong>Chenodeoxycholic Acid</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Chenodeoxycholic Acid</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/chenodeoxycholic-acid/
 <p><a href="{{ '/drugs/chenodeoxycholic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
+
+### [Studie zeigt, warum Abnehmen nicht jeden vor Diabetes schützt](https://news.google.com/rss/articles/CBMiugFBVV95cUxOME9wdVloaDgxRlJRbHZTcGNvTHlVVTJtb0dlWC1zRVJpcm1SYlRJWmQ4dno5WGluOGJyMkdMRTJycWo4V1dUQW9qSnNJaG04OGFzWVpOTzFtQWRJaDVvUmJzdE9FNEh3Z2lPWXkxWDZvUXZraEdROFV3LXNIMFhnd0gxdVF0Z0M0dHVuYWVzUmdOcHhuTXl6bEFrNDNpeVk0MkhnNjg5SDYwWjlBWktGYUVpTHVJYjNCMkE?oc=5)
+
+2026-05-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[Innsalzach24](https://news.google.com/rss/articles/CBMiugFBVV95cUxOME9wdVloaDgxRlJRbHZTcGNvTHlVVTJtb0dlWC1zRVJpcm1SYlRJWmQ4dno5WGluOGJyMkdMRTJycWo4V1dUQW9qSnNJaG04OGFzWVpOTzFtQWRJaDVvUmJzdE9FNEh3Z2lPWXkxWDZvUXZraEdROFV3LXNIMFhnd0gxdVF0Z0M0dHVuYWVzUmdOcHhuTXl6bEFrNDNpeVk0MkhnNjg5SDYwWjlBWktGYUVpTHVJYjNCMkE?oc=5)
+
+---
 
 ### [Diabetes als Schlüssel zur Demenzprävention: Neue Ansätze und Erkenntnisse - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
 
@@ -107,30 +115,6 @@ permalink: /news/chenodeoxycholic-acid/
 2026-04-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[LMU München](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVN5Z01mQ0ZOejJFaFQybkFyQUZ6Qlh3M2RPTDNmRmF6ZFdwQlhIT01mTWtoS2RPdUZpMjU3N3BIanM3cU9wWWY5azlIcmc5UWl6ZTNwOXItdEdDLTlkVWJnZWFfZFFWWG8tQmFxOTNQX1VuMTZLaFdkVmF4Y0thMWExMTF4YzJKalBkM1hTRFZvNWZ3bW05YUpSeC1MMW5YTWRJY3dtbmZ1MHFvX2d6YWZlUjVqMm5aMXFBUnZydnFDNHZGOW1NZHR3RXM4RmVJbmh3dzZuMGVhU2JOazdJN29taW9BUQ?oc=5)
-
----
-
-### [Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMTRTTk14Nk5CTkhQUWszeGk0UFBqSnpWX2dCeXdodFJhT09rUmZJNTFFaC0wc0NOS0lMbklsSDliTm14RU5lZ0ZCUXNrTmthNVNyMzFOOHdXN0NSejJv?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetic</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMTRTTk14Nk5CTkhQUWszeGk0UFBqSnpWX2dCeXdodFJhT09rUmZJNTFFaC0wc0NOS0lMbklsSDliTm14RU5lZ0ZCUXNrTmthNVNyMzFOOHdXN0NSejJv?oc=5)
-
----
-
-### [Vitamin-D-Präparate: Neue Studie zeigt überraschende Wirkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
-
----
-
-### [Studie zur Wirkung der Keto-Diät auf die Bauchspeicheldrüse](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
 
 ---
 

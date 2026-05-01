@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
 ### [Los populares medicamentos para adelgazar reducen el consumo excesivo de alcohol, según un estudio danés](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajlrMWVKeTNTWGN2b0hJWE94bEVvVUc3U3BxMVhvS3lYSmpEdnlOdjBIbTh5SF9EZFRIZmdKUnNrR0phcldnOUJFT3p1eGd4SmpmdlpMbEptN1IwRFJOTkt0S1Bwb3U0dllQTFZJTHpJVjVFT0VVaER3c3J6ZDdtYW1TTS12VTA4WnhCSnY1M2ZwTjBfdXpVbkt5N3FVdTJ2RGRsdDk2Q1E5bmF1MnN5VWIxeXhkVGFGUnZNSEJYdk9XT09JUWJkMg?oc=5)
 
 2026-05-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Euractiv.es](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajlrMWVKeTNTWGN2b0hJWE94bEVvVUc3U3BxMVhvS3lYSmpEdnlOdjBIbTh5SF9EZFRIZmdKUnNrR0phcldnOUJFT3p1eGd4SmpmdlpMbEptN1IwRFJOTkt0S1Bwb3U0dllQTFZJTHpJVjVFT0VVaER3c3J6ZDdtYW1TTS12VTA4WnhCSnY1M2ZwTjBfdXpVbkt5N3FVdTJ2RGRsdDk2Q1E5bmF1MnN5VWIxeXhkVGFGUnZNSEJYdk9XT09JUWJkMg?oc=5)
+
+---
+
+### [Pollenallergie und Migräne: Gibt es einen Zusammenhang?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
+
+2026-05-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
 
 ---
 

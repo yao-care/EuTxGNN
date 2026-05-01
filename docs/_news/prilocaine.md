@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（26 則）
 
 ### [Grönemeyer: „Heute Nacht schlafe ich extra nicht ein“ – diese Methode wirkt überraschend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
 
@@ -67,6 +67,22 @@ permalink: /news/prilocaine/
 2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[swisslatin](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
+
+---
+
+### [La depresión mayor afecta a una de cada 15 mujeres tras el parto, según un análisis global](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlo0bEMwelEyUDZJNUhsQ2xjSzZfQmMzaDlsOVhsYkJJaXN2NkNxd0hwV0dwTGJUTnRlM0lfNjl4N2cwR19lVVk0bHlZdGpQcjNwM1g4WVNBN2p5blpfcUdoOFZpMmVITzI5eHRXMDk2WmRQRjVLdFRiaU5CWERRd2prR055X2hsZFhQYW0zRDI3dGtSZXdsNFNDdFZvNjhiTWFqUUxTbVA3MmNnUFFLbkF0SWRaQ3BrZHlkZHUxUzEyN2s?oc=5)
+
+2026-05-01 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlo0bEMwelEyUDZJNUhsQ2xjSzZfQmMzaDlsOVhsYkJJaXN2NkNxd0hwV0dwTGJUTnRlM0lfNjl4N2cwR19lVVk0bHlZdGpQcjNwM1g4WVNBN2p5blpfcUdoOFZpMmVITzI5eHRXMDk2WmRQRjVLdFRiaU5CWERRd2prR055X2hsZFhQYW0zRDI3dGtSZXdsNFNDdFZvNjhiTWFqUUxTbVA3MmNnUFFLbkF0SWRaQ3BrZHlkZHUxUzEyN2s?oc=5)
+
+---
+
+### [Pollenallergie und Migräne: Gibt es einen Zusammenhang?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
+
+2026-05-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
 
 ---
 
@@ -94,22 +110,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Una de cada 15 mujeres en el mundo sufre depresión posparto en el año posterior al parto - Vivir Ediciones](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2FERmdJb0VzYWd2Ymxoa0ZMTDhnN3R0eml0aFJjVmx0aXhDRWQwN0tyNnpodk9rVVlCdjQ3MlNvS1BIRXNuankzdHJYNzNTLTZaOHVYeUNhS1NkMVNDT0NuOFh3Ym9hTWR5clFzaVdsU2Y0c3hBSlBNS3V2emczT19PaVFvRDRXbjhHRkMtaVN3V3d5Ry12WjFqMmtkd1cyWTZMbjNpMHg4dERJUTlEOWpKUnp2cFVKVnJ1ZU9GYw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2FERmdJb0VzYWd2Ymxoa0ZMTDhnN3R0eml0aFJjVmx0aXhDRWQwN0tyNnpodk9rVVlCdjQ3MlNvS1BIRXNuankzdHJYNzNTLTZaOHVYeUNhS1NkMVNDT0NuOFh3Ym9hTWR5clFzaVdsU2Y0c3hBSlBNS3V2emczT19PaVFvRDRXbjhHRkMtaVN3V3d5Ry12WjFqMmtkd1cyWTZMbjNpMHg4dERJUTlEOWpKUnp2cFVKVnJ1ZU9GYw?oc=5)
-
----
-
-### [Crean en Alicante una app que detecta el Alzheimer a través de la voz con inteligencia artificial](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXo5Z0E4WUFCbFpvbTJRU18xWkV3RW9UbC1qZWhxblZrV01uVHBDNWF3OE9WVUxZNlF1ZVptZkhsTGVjUGJiM0l6bVllTHNiYWp6TWNmZmRUS2hTZVNqV0RCX3RxcVJ3WERXc1h2NjFRYlZkbnpJcXJ6UmpEX3NlQ3A0UjEtZWE0dk9IUUtkS25faGJibWxicF9wYnhZOWQ1S003MXhFd0Q0V0k?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[elperiodic.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXo5Z0E4WUFCbFpvbTJRU18xWkV3RW9UbC1qZWhxblZrV01uVHBDNWF3OE9WVUxZNlF1ZVptZkhsTGVjUGJiM0l6bVllTHNiYWp6TWNmZmRUS2hTZVNqV0RCX3RxcVJ3WERXc1h2NjFRYlZkbnpJcXJ6UmpEX3NlQ3A0UjEtZWE0dk9IUUtkS25faGJibWxicF9wYnhZOWQ1S003MXhFd0Q0V0k?oc=5)
-
----
-
 ### [Des lauriers pour une méthode de restauration des fonctions cognitives développée en Suisse romande](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 
 2026-04-30 <span class="news-indication-tag">hépatite</span> <span class="news-indication-tag">AF</span>
@@ -118,11 +118,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Una farmacéutica alerta: estos son los medicamentos que nunca deben tomarse con café - El Debate](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnF1YzZBOHVtRFpFVFBUTllyS3ZzQjExU2lIdXNYXzJLc2pIdVRpR2p4ckYwQ3dvaWJKXzF6T3ZOWmsySjJqb0Z1MjItWmhVeUNaeGVDem9wZ0tMUzhyd3cyWmp0ZnY0UkNyODhoTDNYQmFITXUyTHRoZ1lNb1k3bUNIQWlpSE1BSnZ0XzZZcmhuTk5XY1JqeWIzVThYS1ZUdEM4ZFhsT0FhZkZ2bVkyRGhkVkhCN0RuNlR2YlFMNTl4Y0owTWlJRnRBRk1LeDV3UXVrbVVwSUrSAd4BQVVfeXFMUHRLZm9IV1B3eGJmdzZ2MXlKNUFMMVR6N3ktVDlLWkU5X2hJWFFIbnJ5YXJndVlHendGTS05eHZqdXVYM0tUV2RUbXFrd1NCLXlZMS1ZdTltTzFUNi1RWEpGREhhdlIwTW9xZ1Y5QVlpODhZS2VhWjNvRUw1cGRoZXotdFVxSGVVcS1meUxQR0Q4MElSR0FBV2ltWEJkdE5OektBRDUyZ3BGY2MzSXlQSVlTRGZfRjBOVHdZeV9mNkx0M3Z4NTg2aEZiRXJHY1luRkRlRDVFN2czYW1UQl9n?oc=5)
+### [Scots scientists suggest GLP-1s are safe in pregnancy - STV News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWhuNEp5VDNpX3RDQ01JeTdWa3BraU9peE1MNXQ1RUxMV29TUkhadUVYUWl1d0hrVnlCUW9GUzEzUk84UzJVbDhDYS1qbDBacnRJQmNKMkdQUVNkbWFzZmpFZlQ1Qm1OOWs4c2p1Yk5MQjlRMzJyVV9ha3RleHJydG5YVVFLU1ZTRnVFOFB3ZTB2dG15Qi1ZLTY0eG53MlVLVTBmVjVyeGxxNW95U05lLVJRWHZxQQ?oc=5)
 
 2026-04-30 <span class="news-indication-tag">AF</span>
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnF1YzZBOHVtRFpFVFBUTllyS3ZzQjExU2lIdXNYXzJLc2pIdVRpR2p4ckYwQ3dvaWJKXzF6T3ZOWmsySjJqb0Z1MjItWmhVeUNaeGVDem9wZ0tMUzhyd3cyWmp0ZnY0UkNyODhoTDNYQmFITXUyTHRoZ1lNb1k3bUNIQWlpSE1BSnZ0XzZZcmhuTk5XY1JqeWIzVThYS1ZUdEM4ZFhsT0FhZkZ2bVkyRGhkVkhCN0RuNlR2YlFMNTl4Y0owTWlJRnRBRk1LeDV3UXVrbVVwSUrSAd4BQVVfeXFMUHRLZm9IV1B3eGJmdzZ2MXlKNUFMMVR6N3ktVDlLWkU5X2hJWFFIbnJ5YXJndVlHendGTS05eHZqdXVYM0tUV2RUbXFrd1NCLXlZMS1ZdTltTzFUNi1RWEpGREhhdlIwTW9xZ1Y5QVlpODhZS2VhWjNvRUw1cGRoZXotdFVxSGVVcS1meUxQR0Q4MElSR0FBV2ltWEJkdE5OektBRDUyZ3BGY2MzSXlQSVlTRGZfRjBOVHdZeV9mNkx0M3Z4NTg2aEZiRXJHY1luRkRlRDVFN2czYW1UQl9n?oc=5)
+來源：[STV News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWhuNEp5VDNpX3RDQ01JeTdWa3BraU9peE1MNXQ1RUxMV29TUkhadUVYUWl1d0hrVnlCUW9GUzEzUk84UzJVbDhDYS1qbDBacnRJQmNKMkdQUVNkbWFzZmpFZlQ1Qm1OOWs4c2p1Yk5MQjlRMzJyVV9ha3RleHJydG5YVVFLU1ZTRnVFOFB3ZTB2dG15Qi1ZLTY0eG53MlVLVTBmVjVyeGxxNW95U05lLVJRWHZxQQ?oc=5)
 
 ---
 
@@ -131,6 +131,14 @@ permalink: /news/prilocaine/
 2026-04-30 <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRWV1Wmp3TktoSVhzYzVtTGhHMEJsb2dVSEo3QUVvbUJhRkctdzVDc1EteFRsUjZwVHNHY1RjWTNTdEQwRzVMU3lfbkhzSS1yaF8zV0tWanpPVW84SE5kcVNIMUNmQi14cWp1UlJ1Mi05MHM0cjBZVHkyMGtQdlNtZ3AtbDRsbXVIZkZIaHM2cGRqY2RlTjRkaWlZbGplM3JhOVE2WEVQMm9wY3FRSEVIWnMzZDBGU25HM3RzUERJODFETV96azViRnBYRnlZYjljdG56TndZeUNiOE0?oc=5)
+
+---
+
+### [Biohacker says partner has 'top 1% of vaginas' after publishing oral sex report - Daily Star](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkJza3N3TldvMHdONVNxMWNDdWdmblhuTkc1ZHE0cGp2cV94bGNmMmZha05LWVU2NEhTb3ZQaHRkLXd0ODg0THNCdnp0QTJzdVdkVDYteV9wbnZQS2tSVm9Yd21HLWNMeEVHb0dKcWxUTlJmVklyTFVZYWxackdjOGlIUDkwenA3S3c?oc=5)
+
+2026-04-30 <span class="news-indication-tag">AF</span>
+
+來源：[Daily Star](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkJza3N3TldvMHdONVNxMWNDdWdmblhuTkc1ZHE0cGp2cV94bGNmMmZha05LWVU2NEhTb3ZQaHRkLXd0ODg0THNCdnp0QTJzdVdkVDYteV9wbnZQS2tSVm9Yd21HLWNMeEVHb0dKcWxUTlJmVklyTFVZYWxackdjOGlIUDkwenA3S3c?oc=5)
 
 ---
 
@@ -190,27 +198,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Vitamine in der Schwangerschaft: Welche braucht der Körper? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcUROaWU4dlFZaUZrdFpYTGcyelJQc2VlXzRmNV81dmxySWxQWi1DUVVkQ25SaVMxMFVZMzFQYncwbVFSTHBqbFdmdjNHc0JQbDV3ZEZOcmlOSzRQbkVFOVNPWV9PNEpCZGh6S3UyRW5Yb3R4ODcyZEFJd1dud2N4Yk9NS2lGaWFuSXVtRmYwZXZBNy1UVWtrb01oc2VseGoyazJjNEVtTjcxWThnVVlvVk42OGZTTFBFaEFCYjBEOU1hdw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcUROaWU4dlFZaUZrdFpYTGcyelJQc2VlXzRmNV81dmxySWxQWi1DUVVkQ25SaVMxMFVZMzFQYncwbVFSTHBqbFdmdjNHc0JQbDV3ZEZOcmlOSzRQbkVFOVNPWV9PNEpCZGh6S3UyRW5Yb3R4ODcyZEFJd1dud2N4Yk9NS2lGaWFuSXVtRmYwZXZBNy1UVWtrb01oc2VseGoyazJjNEVtTjcxWThnVVlvVk42OGZTTFBFaEFCYjBEOU1hdw?oc=5)
-
----
-
 ### [Edmundo Fernández, enfermero y docente: "El problema del herpes zóster no es solo el dolor, afecta al descanso y la calidad de vida" - Gaceta de salud](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNmgxaHU5dWxKcXhUOGNLMnVDUDljTFBWWWowSGVWZWt0Y3lVdVpXNXNkUEJsanVyd0IzcW40dTgxRUdFX2xucExjNVlqQU55dDRDeG5xU29MeWJORXlfRERRaUQ5MnpDWV9Ic01ObWo2c0VkODQzZzRIazFfWE5VZjBRVDZtdUk1M1g5N3ZqZDRKWXB6NkJEYjFBYWpiNG9MZnhjWjlWSlRyWFI3N2dxZzJpLS1sMnRlVm11SFNoZjdDSjA2b283TXAzTktfSThqRTMwb1hQWWdMNTUtbnNnc0w4Vkp3ZnA5NHVxSUl4dXZIWkhWRkVKNVl0M1hqb2Y4WGsxQ2ZxYUxJMVRZMzdrM3lTR1lKQzAwQkh4OHFWdjRvakxXX3p3cg?oc=5)
 
 2026-04-30 <span class="news-indication-tag">AF</span>
 
 來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNmgxaHU5dWxKcXhUOGNLMnVDUDljTFBWWWowSGVWZWt0Y3lVdVpXNXNkUEJsanVyd0IzcW40dTgxRUdFX2xucExjNVlqQU55dDRDeG5xU29MeWJORXlfRERRaUQ5MnpDWV9Ic01ObWo2c0VkODQzZzRIazFfWE5VZjBRVDZtdUk1M1g5N3ZqZDRKWXB6NkJEYjFBYWpiNG9MZnhjWjlWSlRyWFI3N2dxZzJpLS1sMnRlVm11SFNoZjdDSjA2b283TXAzTktfSThqRTMwb1hQWWdMNTUtbnNnc0w4Vkp3ZnA5NHVxSUl4dXZIWkhWRkVKNVl0M1hqb2Y4WGsxQ2ZxYUxJMVRZMzdrM3lTR1lKQzAwQkh4OHFWdjRvakxXX3p3cg?oc=5)
-
----
-
-### [Schlagkräftiges Team gegen resistente Biofilme - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VWEdmc0lKaG5rM1pxNUZYUXlxVHpBa0tUYjh0YjY2bXpGX0VkUWc4YjZzQVVoY2pJN3BQUnhlM1NQS3hXWXlsOEU1VQ?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VWEdmc0lKaG5rM1pxNUZYUXlxVHpBa0tUYjh0YjY2bXpGX0VkUWc4YjZzQVVoY2pJN3BQUnhlM1NQS3hXWXlsOEU1VQ?oc=5)
 
 ---
 
@@ -227,6 +219,22 @@ permalink: /news/prilocaine/
 2026-04-30 <span class="news-indication-tag">AF</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaW1BY3ZSeUg2ZTVmYWlROFNfYmNFUnlBcmZlREM1aXpiRk1WaTdVYnBPckk3V0ViS09wRFYxOW9aMlpINWdCZjRBQWpTeDRJUWN3WXM0R21XVHRld3k3NEdreUF6UU96VERDd212dzFkMXY3dVlXZVg3V3p0MllCc3E4TmF5N0RVX2hvdUdpZHh5RlZWTWdVVEZvcS1LX01TUDYtcXJaOUMycU53LWtwS1E4VzVSZGU5TmIya2RqQ1pVbk1QSUotS1lyMkQ5VGtQeC1QZWFuMzU?oc=5)
+
+---
+
+### [Boy, 8, saves lives after mum's organs decision](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MNTFzYndOZjhnc3FvX2h3TFExRmNNVzhCT2FldVloelNHaF82STgyQl81X0tfUEVTSU14bm9rU0V0MXpJYTJFMmduVmhoZk0tT0ZOdWhqWVZfNC1O?oc=5)
+
+2026-04-30 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MNTFzYndOZjhnc3FvX2h3TFExRmNNVzhCT2FldVloelNHaF82STgyQl81X0tfUEVTSU14bm9rU0V0MXpJYTJFMmduVmhoZk0tT0ZOdWhqWVZfNC1O?oc=5)
+
+---
+
+### [El humo de los incendios forestales ya no solo afecta a los pulmones: lo relacionan con varios tipos de cáncer](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQnhhcnVuTEFVWVR5U3loVnJDb05zOWRDVk13SUlhcHRMV0h6WDFJTFFGMmF1R0w5SVVCQ1V6Q0xaT3h5emVuX0U3WjIzSllOcFB3YUhScm02bG1DTEtsMmYzSm5qeVlNSXpIVi1MeWxOdmNWc0o0cEtnb2NKTmM0UzhjRV8yTU9zSDk3cjBRaG1DdVZ5UUNuZEFQc013Um9yMlRtbTVVcDdnX2RDVHhEODdGXzJPM3hNVnkycElMUHBJV0EzZEk0WGdwcmpzRGZfUHFHTHRPWG9HVHE5eVRNRjNWNEdCZEFhbGVYZQ?oc=5)
+
+2026-04-30 <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQnhhcnVuTEFVWVR5U3loVnJDb05zOWRDVk13SUlhcHRMV0h6WDFJTFFGMmF1R0w5SVVCQ1V6Q0xaT3h5emVuX0U3WjIzSllOcFB3YUhScm02bG1DTEtsMmYzSm5qeVlNSXpIVi1MeWxOdmNWc0o0cEtnb2NKTmM0UzhjRV8yTU9zSDk3cjBRaG1DdVZ5UUNuZEFQc013Um9yMlRtbTVVcDdnX2RDVHhEODdGXzJPM3hNVnkycElMUHBJV0EzZEk0WGdwcmpzRGZfUHFHTHRPWG9HVHE5eVRNRjNWNEdCZEFhbGVYZQ?oc=5)
 
 ---
 
@@ -251,30 +259,6 @@ permalink: /news/prilocaine/
 2026-04-30 <span class="news-indication-tag">AF</span>
 
 來源：[El Confidencial](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHZOQmpGUU9GdUxyb0pkX1AwZHdDV0NpMW5IYllWWURTLW5tVVVFUEJPTGwxajdPTTZxT3NYMHVNRTVRMHdKV0hQcU5RZkxZaWY2eElsNUV1dzkya3Q5WFRxZHFFWk9kTEVNMUdXdFMtQ3FZcXBHUmN1ejBEcHFkU1VqSm50OEhpVVl6T1d6LTlsOGgtMkpZM29wTQ?oc=5)
-
----
-
-### [Organs donated by boy, 8, save four lives as mum makes heartbreaking appeal - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzBHcjQ2dHMtLXZLRk1KZlQxOUdYemRwTHpPbGhmZVV5ZWJpNFNVMUh3cHNLZzlNX0NZUHFYSHdDd1hMUkprd2ZtaGJYemR0YUFCSDJkTk9iaTY0VzFHR0wzMkxOaVNRejNxZFF2UGxjMVQzVzFFUUtMVHNkak1ia3Vrc0NNM2vSAYwBQVVfeXFMTkNnZGVNQVVWbFVNNGg4UHEyaDlzVmRqOFVRN1hTa3RSbHJXWDlwd3FkYTNrRy1oUGZSYjVFUHNZWVdLc2NtcG1BMi01VF83aHJZd0xSSFVCX0hHVHE3WkptdlkzbXBablczLUU3c0MtX0ZIeU1pa19KbUR5WVQ3OThmVDZlUkNLUS1rMjM?oc=5)
-
-2026-04-29 <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzBHcjQ2dHMtLXZLRk1KZlQxOUdYemRwTHpPbGhmZVV5ZWJpNFNVMUh3cHNLZzlNX0NZUHFYSHdDd1hMUkprd2ZtaGJYemR0YUFCSDJkTk9iaTY0VzFHR0wzMkxOaVNRejNxZFF2UGxjMVQzVzFFUUtMVHNkak1ia3Vrc0NNM2vSAYwBQVVfeXFMTkNnZGVNQVVWbFVNNGg4UHEyaDlzVmRqOFVRN1hTa3RSbHJXWDlwd3FkYTNrRy1oUGZSYjVFUHNZWVdLc2NtcG1BMi01VF83aHJZd0xSSFVCX0hHVHE3WkptdlkzbXBablczLUU3c0MtX0ZIeU1pa19KbUR5WVQ3OThmVDZlUkNLUS1rMjM?oc=5)
-
----
-
-### [Real-world observational study to evaluate the effectiveness and safety of direct oral anticoagulants compared with vitamin K antagonists for secondary venous thrombosis prevention in low-risk thrombotic antiphospholipid syndrome patients: DOACS-APS prot - Revista Clínica Española](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVhySVFkdEhpSjgweXFSR3JlSEg2TGZmZGxwNGlSdmRVeHJFeTBxNTBIcU5GZUxDalN4NXdWSTZVRllFSzdwYWFYNXdfbWVIWVVyS0VRSUZVaWhOOC1kT3IycGlxZ2RDOHg2RHFzSnFndHBRNkxkTXVtcktseUxOcEFNZVNoWkh5UUlvaFRJdEw4cG82WXBwYjdzb0Z2RWRERkxXQ3lHSDlwajdxWEE?oc=5)
-
-2026-04-29 <span class="news-indication-tag">AF</span>
-
-來源：[Revista Clínica Española](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVhySVFkdEhpSjgweXFSR3JlSEg2TGZmZGxwNGlSdmRVeHJFeTBxNTBIcU5GZUxDalN4NXdWSTZVRllFSzdwYWFYNXdfbWVIWVVyS0VRSUZVaWhOOC1kT3IycGlxZ2RDOHg2RHFzSnFndHBRNkxkTXVtcktseUxOcEFNZVNoWkh5UUlvaFRJdEw4cG82WXBwYjdzb0Z2RWRERkxXQ3lHSDlwajdxWEE?oc=5)
-
----
-
-### [La contaminación del aire durante el embarazo puede retrasar el habla de los bebés - El Espectador](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmZDTFdkc0IwbmFsZ2lmZXd4NGk5azVNS3lSTXJ6NU93ODlKazRmZzVCX0dPX1BzcTRLSGN0Xy02SzVnVHlxR2Y5WUdDOHVEMUhxYXhuRHo3T3NKUjBxZHFOZGVYNGxsc2F2ZE43MGxMSmg3WDZLaVV6Vi1mdTNQeGJPWENyX0RKT2lYVjBRRkdteUVEOVBJRWxwY1g5ZlYxX0ttekVXaEZ1cG9jcnpOU25CTXZWdWRVa2fSAc4BQVVfeXFMTkVZckNqcER0THdQYzVFLUpoNDFnSHhHV1hCZ1ZXekRqRGZBWVd5V3p6YXUwYmVrTXVQNU1oekJ0R2p2MHhhMlNxQWc2dzhjcHRyaUd4emlGdWdmVHdtU3V4WEE5Z3hfbU1lOVpiLUJqamVBVzFqa0ZzaDJkMFowSERFUGJEV1NTU2tROGhXZ09lWFpjWlBrSkVYZWRBcFJvbjRrQlc4R1l6OXVlMVNpLTM5Sk5ldE02cVAzNWhFM1p5ZjNYQXVkTXpIQWRyV1E?oc=5)
-
-2026-04-29 <span class="news-indication-tag">AF</span>
-
-來源：[El Espectador](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmZDTFdkc0IwbmFsZ2lmZXd4NGk5azVNS3lSTXJ6NU93ODlKazRmZzVCX0dPX1BzcTRLSGN0Xy02SzVnVHlxR2Y5WUdDOHVEMUhxYXhuRHo3T3NKUjBxZHFOZGVYNGxsc2F2ZE43MGxMSmg3WDZLaVV6Vi1mdTNQeGJPWENyX0RKT2lYVjBRRkdteUVEOVBJRWxwY1g5ZlYxX0ttekVXaEZ1cG9jcnpOU25CTXZWdWRVa2fSAc4BQVVfeXFMTkVZckNqcER0THdQYzVFLUpoNDFnSHhHV1hCZ1ZXekRqRGZBWVd5V3p6YXUwYmVrTXVQNU1oekJ0R2p2MHhhMlNxQWc2dzhjcHRyaUd4emlGdWdmVHdtU3V4WEE5Z3hfbU1lOVpiLUJqamVBVzFqa0ZzaDJkMFowSERFUGJEV1NTU2tROGhXZ09lWFpjWlBrSkVYZWRBcFJvbjRrQlc4R1l6OXVlMVNpLTM5Sk5ldE02cVAzNWhFM1p5ZjNYQXVkTXpIQWRyV1E?oc=5)
 
 ---
 

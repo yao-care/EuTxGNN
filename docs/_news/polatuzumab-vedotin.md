@@ -14,7 +14,7 @@ permalink: /news/polatuzumab-vedotin/
 ---
 
 <p class="key-answer" data-question="Polatuzumab Vedotin 有什麼相關新聞？">
-<strong>Polatuzumab Vedotin</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Polatuzumab Vedotin</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/polatuzumab-vedotin/
 <p><a href="{{ '/drugs/polatuzumab-vedotin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（20 則）
 
-### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
+### [Jen’s Journey: Co Armagh woman’s niggling ‘mouth ulcer’ turned out to be stage four cancer - Armagh I](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZweUpXMjdTZG8tVm5MMG1VaFpJN3pyY2l2cjhSU2ZyVUF1S0lKbUowd2thY0VUTF9zcHJwalZuNzJpejU0TFA1b0NzYWdKcHR3MDdwczAzQlkySlJabnU5UDE1UXp4VWdEN0IwTUdCVTZUcUFHWU1jYzJNbWxQQlcyTU5INF9rV1RsVi0wanJSSS0zSUwtU1FRUWhxczlYWVVIQkRxRmtNNU5oR2NvT2xHZU5mWWtSZGtCcG8zQnFWQkVRb0xB?oc=5)
+
+2026-05-01 <span class="news-indication-tag">cancer</span>
+
+來源：[Armagh I](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZweUpXMjdTZG8tVm5MMG1VaFpJN3pyY2l2cjhSU2ZyVUF1S0lKbUowd2thY0VUTF9zcHJwalZuNzJpejU0TFA1b0NzYWdKcHR3MDdwczAzQlkySlJabnU5UDE1UXp4VWdEN0IwTUdCVTZUcUFHWU1jYzJNbWxQQlcyTU5INF9rV1RsVi0wanJSSS0zSUwtU1FRUWhxczlYWVVIQkRxRmtNNU5oR2NvT2xHZU5mWWtSZGtCcG8zQnFWQkVRb0xB?oc=5)
+
+---
+
+### [Trois millions de cellules cartographiées : la découverte inédite qui explique l'explosion des cancers du sein après 50 ans](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTZhZTd6bVR6RzM3WnBqdDZTLU15aFF1aHhkbkZkQ19vTTdmTm5RdXhBcUpYa0tmbjBJek1CRnBxVkZpVDhZN3hoOENGLTU5NmdmaW1QdlJvYkpvR3ZhZWg3cHQ4bkoxMjFoZVhjNU1Uc05EbVlGNFpETkw2WEFhM3hBVzdaYnBVd2dMRzZjNUhWTmxLNlJvV3hod3lWQUI4blN4VnlvVURJZG1iazhMandFUWQ4U0VvUzdhMkdDYkZ0eWtwaFBSZktROHJnRXNGTUs3SnB6TDBONm8t?oc=5)
+
+2026-05-01 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTZhZTd6bVR6RzM3WnBqdDZTLU15aFF1aHhkbkZkQ19vTTdmTm5RdXhBcUpYa0tmbjBJek1CRnBxVkZpVDhZN3hoOENGLTU5NmdmaW1QdlJvYkpvR3ZhZWg3cHQ4bkoxMjFoZVhjNU1Uc05EbVlGNFpETkw2WEFhM3hBVzdaYnBVd2dMRzZjNUhWTmxLNlJvV3hod3lWQUI4blN4VnlvVURJZG1iazhMandFUWQ4U0VvUzdhMkdDYkZ0eWtwaFBSZktROHJnRXNGTUs3SnB6TDBONm8t?oc=5)
+
+---
+
+### [Tumore del pancreas, ritirato lo studio che aveva illuso il mondo. “Autori in conflitto d’interesse” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">tumor</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
 
 ---
 
@@ -70,6 +86,14 @@ permalink: /news/polatuzumab-vedotin/
 
 ---
 
+### [« J’en avais pour trois semaines à vivre » : contre les cancers dus au papillomavirus, l’appel pro-vaccination des ados - Le Parisien](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcUdaWk0tWF9jMWFrWDhWdEZmblpWcW00d2RJaFJRMlFrUm8wOUJoOVdBY0cxa0o5aFN2WW9RdDdvTXQ2RGlrTDczQUdYcmw4SnFhWDczUU11dTNPVjJMY0M3cGFpM2lGdjFoTkdFdVhfOWhtVHJZQU5QRW9scTJVTUJuOHpocUY2emtydGFzTmpYTjBEaVdXZ1A5UF9CTW9jWnhIQ1E4NEN5bDF1b3M3NWxwdl9GZUdWR3c3RWpzbElSeUxFUVR2TXJxWElwZkpTaUVfYy1iV1ZRaGpjZGVqNnpNRjBiWkJsWDc2MlItZC1VZU43Wmkwek1ZdFRlWE1OLVRvbzd5SUc4SUt1aHp3TzU0ZlF3NVJWWGVKc0Fzd2lSYjJUOVBYLQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcUdaWk0tWF9jMWFrWDhWdEZmblpWcW00d2RJaFJRMlFrUm8wOUJoOVdBY0cxa0o5aFN2WW9RdDdvTXQ2RGlrTDczQUdYcmw4SnFhWDczUU11dTNPVjJMY0M3cGFpM2lGdjFoTkdFdVhfOWhtVHJZQU5QRW9scTJVTUJuOHpocUY2emtydGFzTmpYTjBEaVdXZ1A5UF9CTW9jWnhIQ1E4NEN5bDF1b3M3NWxwdl9GZUdWR3c3RWpzbElSeUxFUVR2TXJxWElwZkpTaUVfYy1iV1ZRaGpjZGVqNnpNRjBiWkJsWDc2MlItZC1VZU43Wmkwek1ZdFRlWE1OLVRvbzd5SUc4SUt1aHp3TzU0ZlF3NVJWWGVKc0Fzd2lSYjJUOVBYLQ?oc=5)
+
+---
+
 ### [Lungenkrebs-Screening: Zufällige Befunde können auf extrapulmonale Tumoren hinweisen](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnNXT3AzRFk3d0w0dlB0OXEtUV9aMFFuOWpUUlZRNEl1dmxFNVJsbUpSNTJ5Mno2ZVJYdEltU2RVaTJNcUdEMU9FNE1BR05taXZKNkNzdkhWVllBM3c0ZG5sVmFwU3lrT1E3ZkVyaXNFcTJiY2otSE9ER2QzTDBySmlXRG5sazg3X2wzM0Jtb3dGTkdlVjltYnNpNHFjS2U0bFg2MEhCbFBrMm1uLV82M2s0bGg1Zk51emhURUR3VWQ1VkN5Z1lmeE1JM25Idw?oc=5)
 
 2026-05-01 <span class="news-indication-tag">tumor</span>
@@ -78,19 +102,19 @@ permalink: /news/polatuzumab-vedotin/
 
 ---
 
-### [Une erreur de diagnostic de cancer lui a coûté un sein et des années de traitement : « On lui a volé 7 ans de sérénité »](https://news.google.com/rss/articles/CBMipwJBVV95cUxOOU83UHg0VGxUMlA4TXd1cHJuZXByeWl1cnRlYzRneDlmQlBabEhwSjhhOEEyNHpFcU9INlBrZkVFcFBGdXZwdzhLMnhZTUNRWDY1ekJJZnBLdC1NSlA5Z193OGN6RUluSjNEbFZLSTcyWEJvcDlDckk1RElfTlc2eDNCRGRRZDZzTkdqUU5YUFlWMFJBdnRfUDViMTRsNUdSeENaYXFaUjJ5RU1ieHVwWjdVYUhvbkozbXlvVFV0SXc2SHcwaXZ0Qm8weWlGZGI4bHNoV3BWMFpMV0E4Ml9FSlVjLVM0UGtDSTJTTmhmbkJjTU1ZRlhZMG1FNDBNWFU1S19VclNpbWNUaERIUTUwanh6UmwzX1ZvQXdCQ3BIUjFPelNLRVNv?oc=5)
+### [Cancer, VIH, grippe, bronchiolite… : les vaccins entrent dans une nouvelle ère médicale - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSk0tX1J3TW1BUnUzVzd6R1JRZkdYcFZCTnlEZEJkSk9IMHFVVmxwSjYtRmhpN3NhWmpoMWFIMVJ0Qm13bG9HZ1hVREM0QVV6dVhCcElWZU5wZnpzQng4UXJ0WDQxaWI1NnAyWUxsNzl4ZUtRUGdMUmJvazVXQS1RMHZYdm9XX2tUaGUtUkc1LWhFMWxKYktpLVp1czVIbkJmZDJZbU9ibDgwX2JqSG5tU3FYNkhHbjE0X0pkbTlpYWl3RlJIMktRV2p3Zlo2YWUyUkdkNmpWWVNELXFySnc?oc=5)
 
 2026-04-30 <span class="news-indication-tag">cancer</span>
 
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMipwJBVV95cUxOOU83UHg0VGxUMlA4TXd1cHJuZXByeWl1cnRlYzRneDlmQlBabEhwSjhhOEEyNHpFcU9INlBrZkVFcFBGdXZwdzhLMnhZTUNRWDY1ekJJZnBLdC1NSlA5Z193OGN6RUluSjNEbFZLSTcyWEJvcDlDckk1RElfTlc2eDNCRGRRZDZzTkdqUU5YUFlWMFJBdnRfUDViMTRsNUdSeENaYXFaUjJ5RU1ieHVwWjdVYUhvbkozbXlvVFV0SXc2SHcwaXZ0Qm8weWlGZGI4bHNoV3BWMFpMV0E4Ml9FSlVjLVM0UGtDSTJTTmhmbkJjTU1ZRlhZMG1FNDBNWFU1S19VclNpbWNUaERIUTUwanh6UmwzX1ZvQXdCQ3BIUjFPelNLRVNv?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSk0tX1J3TW1BUnUzVzd6R1JRZkdYcFZCTnlEZEJkSk9IMHFVVmxwSjYtRmhpN3NhWmpoMWFIMVJ0Qm13bG9HZ1hVREM0QVV6dVhCcElWZU5wZnpzQng4UXJ0WDQxaWI1NnAyWUxsNzl4ZUtRUGdMUmJvazVXQS1RMHZYdm9XX2tUaGUtUkc1LWhFMWxKYktpLVp1czVIbkJmZDJZbU9ibDgwX2JqSG5tU3FYNkhHbjE0X0pkbTlpYWl3RlJIMktRV2p3Zlo2YWUyUkdkNmpWWVNELXFySnc?oc=5)
 
 ---
 
-### [Schweiz: Überdiagnose bei Prostatakrebs – gleichzeitig mehr fortgeschrittene Stadien – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMWROSXNQYUIycEctWWRObVlJNnVEUTB2WWx4VmRnZjhKOUpyTGhSaE16MzA0dllKdXVPUGVBUDFOak5ael9QTFoyNUxsS0RzODJ1czJJUDEwRENIV3UwMnk3UTBzUTE4eVpRbXhMdkl3U0swU0E2WnRqa3B0N2xCWmtaQWl3N1VoYUcycTJBOGlWN08xUkstSjJzRlJVSm4yS0xIbzhCMUh3cjdXeUVTOVk1MEZ1OHZTeW82eVZyWHZEUE5Cd0NfU3dEWW9pcGlWZGtFenZXWTlsbWt4Vy1tcllCQjE?oc=5)
+### [Addingham woman with incurable cancer targets Everest summit](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yS1BlbkZnclYzQ242d3FaWkNHODNWUEMwZzFnT0ktellXSlpjZFJEdU5nT3VaSVhlekxFXzBXWmt2Nnk3TGxWbWFPQ1FlaC1KbGRSdlE4RER4NHd2?oc=5)
 
-2026-04-30 <span class="news-indication-tag">Krebs</span>
+2026-04-30 <span class="news-indication-tag">cancer</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMWROSXNQYUIycEctWWRObVlJNnVEUTB2WWx4VmRnZjhKOUpyTGhSaE16MzA0dllKdXVPUGVBUDFOak5ael9QTFoyNUxsS0RzODJ1czJJUDEwRENIV3UwMnk3UTBzUTE4eVpRbXhMdkl3U0swU0E2WnRqa3B0N2xCWmtaQWl3N1VoYUcycTJBOGlWN08xUkstSjJzRlJVSm4yS0xIbzhCMUh3cjdXeUVTOVk1MEZ1OHZTeW82eVZyWHZEUE5Cd0NfU3dEWW9pcGlWZGtFenZXWTlsbWt4Vy1tcllCQjE?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yS1BlbkZnclYzQ242d3FaWkNHODNWUEMwZzFnT0ktellXSlpjZFJEdU5nT3VaSVhlekxFXzBXWmt2Nnk3TGxWbWFPQ1FlaC1KbGRSdlE4RER4NHd2?oc=5)
 
 ---
 
@@ -110,6 +134,14 @@ permalink: /news/polatuzumab-vedotin/
 
 ---
 
+### [Des scientifiques américains inventent un chewing-gum efficace contre plusieurs cancers de la tête et du cou - Le Parisien](https://news.google.com/rss/articles/CBMikwJBVV95cUxPVDEyZWpDaFltUW03SC1KMWJtaDJfM0Y4N1BDSXRZQ2NMaFRUX0tWYnN4UzE1N1l4Zl9LSFhwVy1PWF9FMFhpSTIxNzlkY1JpZ1RqMThBME92YVVfcHpseW9hQUo3b0xvcUxyeDVYQS13dTFlLTNrQjZ1VlRZVmJXekR3SzhJT0Jya1BzNjdCLXVwcXc1aFVBUmk3ZDJ4azRJTDE0eDBHcnpGeDhLX2pOTFNaM3dKZ3B0MndkQ1cwWHpKX1JxMGVaOGJSY1llWlk3c0V6Q3EtRWJacG9PVjFXQUg1T2dTb29sNTNGZWVxM0llVnNLTWdUbDdKOXctMzJJUE9DUVQ5WTA0QVRVQkdmZVFsTQ?oc=5)
+
+2026-04-30 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMikwJBVV95cUxPVDEyZWpDaFltUW03SC1KMWJtaDJfM0Y4N1BDSXRZQ2NMaFRUX0tWYnN4UzE1N1l4Zl9LSFhwVy1PWF9FMFhpSTIxNzlkY1JpZ1RqMThBME92YVVfcHpseW9hQUo3b0xvcUxyeDVYQS13dTFlLTNrQjZ1VlRZVmJXekR3SzhJT0Jya1BzNjdCLXVwcXc1aFVBUmk3ZDJ4azRJTDE0eDBHcnpGeDhLX2pOTFNaM3dKZ3B0MndkQ1cwWHpKX1JxMGVaOGJSY1llWlk3c0V6Q3EtRWJacG9PVjFXQUg1T2dTb29sNTNGZWVxM0llVnNLTWdUbDdKOXctMzJJUE9DUVQ5WTA0QVRVQkdmZVFsTQ?oc=5)
+
+---
+
 ### [Künstliche Intelligenz in der Pathologie ermöglicht tieferes Verständnis von Tumorerkrankungen - Universität zu Köln](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUnlMZWpBbjQzTExZSWtPZWMtaklzemd2aS1ta3dZaWhGdldBWnp2VUh3QWNNUmx0a2N4ZFVSbl9wOEFselpmdDhFYnFiSUQtcXhsMFVXd2RxS2RYM2dBVmJkNXg5NDdfWlgyZW1jd0wyWUVOeTYwY2NSeW85RDJSX2xONkxtOGN6VmdkNk41d0c5ZkdQVTUzU0FucGVFbFZ4enRIZ3VndXBkRFFlSWp6YlJBdno4bkZncUJGWE80Wjc2bWJBNTFveG51emFWazJkUm5XVmVuSTZkdlRTU0JYRkk5TnY5R0J2UEpxWWVISUVDSFJwMHBCSmpR?oc=5)
 
 2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -118,11 +150,11 @@ permalink: /news/polatuzumab-vedotin/
 
 ---
 
-### [Scots girl diagnosed with blood cancer undergoes gentler leukaemia treatment - STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzlQVzExVHd2V2VOMmNzRzJaOHByN0kxNll5dTFIWjE5NGtNVDZ1cG5yd2FXdGE5MkdIeEpsMWFJdXVSR0NXMVFHQ0dCZW5GNUJkUGlPMVVvR001WlVjQ200M2d2YlRZWXViQi1ZNUhYMDF6ZEZUZkljQzhKR0lhZFZSeVBDYnNCa2U3UW9GeG4wWl9hek9qUDRubHJZUGttb2x3S3ZVNU1hZHNEelE?oc=5)
+### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
 
-2026-04-30 <span class="news-indication-tag">cancer</span>
+2026-04-30 <span class="news-indication-tag">tumor</span>
 
-來源：[STV News](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzlQVzExVHd2V2VOMmNzRzJaOHByN0kxNll5dTFIWjE5NGtNVDZ1cG5yd2FXdGE5MkdIeEpsMWFJdXVSR0NXMVFHQ0dCZW5GNUJkUGlPMVVvR001WlVjQ200M2d2YlRZWXViQi1ZNUhYMDF6ZEZUZkljQzhKR0lhZFZSeVBDYnNCa2U3UW9GeG4wWl9hek9qUDRubHJZUGttb2x3S3ZVNU1hZHNEelE?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
 
 ---
 
@@ -134,11 +166,11 @@ permalink: /news/polatuzumab-vedotin/
 
 ---
 
-### [La parabola di Mariano Barbacid e del suo studio sul cancro al pancreas - Il Foglio](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDhCcERONW9DZ2NXZ0FCTTh4TEtqMUpJLXpUd000Q1FUcFhDVFRzNkZlcTdTbnc4TkpzeEJua29hRU04LTczS2tqMFhiTG9ZbzRHVTNVSjNXQ1RyWGR6ZlZ4Z2k0TElyZWJPUHhrdzBJS3hPYUlUaWZjMXpQaVNNWXhUTzFBclRRalVkVTEzUGgxclJSNUhhNVRxN1hnZXVuRTM5NnAzbm9Bejhzcmk4ckoydmhyMkpSUkxvVEFJdllNc2NkT1E?oc=5)
+### [Piccoli segnali da non sottovalutare](https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0FYM0RpZ0JMUFFMbUI4bzJ2RlVaSzhfblVtZl9rdzVpUE9yTFgtelp2WERqOGtlRlJzcVpReDVmNWJIdlo3WXBGaWZzQUJVMC0xSjZwQmdGX3c4ZDI5bmpzeXlwOHhOUlNqWWI4V0UtUTJwSTA2M3l6Uk9XckJ1dzZYeDU5QWc?oc=5)
 
-2026-04-30 <span class="news-indication-tag">tumor</span>
+2026-04-30 <span class="news-indication-tag">cancro</span>
 
-來源：[Il Foglio](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDhCcERONW9DZ2NXZ0FCTTh4TEtqMUpJLXpUd000Q1FUcFhDVFRzNkZlcTdTbnc4TkpzeEJua29hRU04LTczS2tqMFhiTG9ZbzRHVTNVSjNXQ1RyWGR6ZlZ4Z2k0TElyZWJPUHhrdzBJS3hPYUlUaWZjMXpQaVNNWXhUTzFBclRRalVkVTEzUGgxclJSNUhhNVRxN1hnZXVuRTM5NnAzbm9Bejhzcmk4ckoydmhyMkpSUkxvVEFJdllNc2NkT1E?oc=5)
+來源：[Ticinonline](https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0FYM0RpZ0JMUFFMbUI4bzJ2RlVaSzhfblVtZl9rdzVpUE9yTFgtelp2WERqOGtlRlJzcVpReDVmNWJIdlo3WXBGaWZzQUJVMC0xSjZwQmdGX3c4ZDI5bmpzeXlwOHhOUlNqWWI4V0UtUTJwSTA2M3l6Uk9XckJ1dzZYeDU5QWc?oc=5)
 
 ---
 
@@ -147,6 +179,14 @@ permalink: /news/polatuzumab-vedotin/
 2026-04-30 <span class="news-indication-tag">cancer</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1RoSzVCdkxSUjV4ckFvWUNKTWtrekRnemZxdWJnbVl6RnhWdlJTR21ZdGp4c0YxM2M5d09pekhwLW0ta3JoUjB2cXpkYUctYV8ta1YxckFRNXByMnI4LVEwZ2V0dG1LSTJYNFhOTkF5YV9LUGhneHNsTjdjTXRxWl9zSHkxZHJUZWgzbzMxNk5WbFBnTTdEX09FYnNSS2s2OUpj?oc=5)
+
+---
+
+### [Scientists Reveal Why Breast Cancer Risk Rises With Age](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
+
+2026-04-30 <span class="news-indication-tag">cancer</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
 
 ---
 
@@ -171,30 +211,6 @@ permalink: /news/polatuzumab-vedotin/
 2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxqQ2lSeEl2eWFDQ3hDS1VVdW03NWlLUFRvNUJ2NjdVOUJiOWd5cF9iRHVuRzdPdy1NUTRzRjFlQVhBQlZySXdleGQzM1M2VnhlZEFlTHVQZVlFSWdPbkV4RlV1ODRGTU5lWVk0bWs5QTZCWUJhUTMyTmJtZnlJbTlqM3Utb0V4TnpIb0dyTXg4R2pqeFE1dC00cFZFTGRY?oc=5)
-
----
-
-### [In sickness and, more likely, in health: Marriage cuts your risk of cancer - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3RheXZYZ1JkZHZnbExhTTBOdUZwLXNQTXQ2S3Z1b0JpOUU1N0x5SWtySml3TURVZklqOGpjQkQwS1pnM0h3OHpMTS1LSVR1QnZJTm9SNmZMUE1nQ2tIYVJST1Z4OGJ5MktLX3lhZEtyX3lOZTY4UWVuMlhxTzl6aTlqSTRkX0F2OTRaOVc2dllWN3FNa2psWXdvdkxBbEJLWUE0?oc=5)
-
-2026-04-29 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3RheXZYZ1JkZHZnbExhTTBOdUZwLXNQTXQ2S3Z1b0JpOUU1N0x5SWtySml3TURVZklqOGpjQkQwS1pnM0h3OHpMTS1LSVR1QnZJTm9SNmZMUE1nQ2tIYVJST1Z4OGJ5MktLX3lhZEtyX3lOZTY4UWVuMlhxTzl6aTlqSTRkX0F2OTRaOVc2dllWN3FNa2psWXdvdkxBbEJLWUE0?oc=5)
-
----
-
-### [Immunothérapie : une technique pour mieux cibler les tumeurs expérimentée à l'institut Gustave Roussy](https://news.google.com/rss/articles/CBMi5gFBVV95cUxONTl6T0RTckoySkxEWHZFVDI2c2J4Z0dwcy1uWDZJaWZYVDhDMTBqVEdSNTA1cXBHb19JWDZQZEJwMks5bFdJY0pVX3NPbHc1UUJ5dTBBSy0xb2c0RXdrd2Vka0U1TXZOMkV5RXQxMFQwZWliUVNBSDhiU2tlVkdQU3FxQldHaVhXY0NHNUdBM1REbVdxRXVQOEV5OGlJc1FZVHBNNHREaFBrVUdfNl9VeDZId2todjFEUkdNanNkV0ZRYU9MaTFlTURaS0gzTlY5cUN4NlByQ0k5SmNURXE2V2ZTUkFadw?oc=5)
-
-2026-04-29 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi5gFBVV95cUxONTl6T0RTckoySkxEWHZFVDI2c2J4Z0dwcy1uWDZJaWZYVDhDMTBqVEdSNTA1cXBHb19JWDZQZEJwMks5bFdJY0pVX3NPbHc1UUJ5dTBBSy0xb2c0RXdrd2Vka0U1TXZOMkV5RXQxMFQwZWliUVNBSDhiU2tlVkdQU3FxQldHaVhXY0NHNUdBM1REbVdxRXVQOEV5OGlJc1FZVHBNNHREaFBrVUdfNl9VeDZId2todjFEUkdNanNkV0ZRYU9MaTFlTURaS0gzTlY5cUN4NlByQ0k5SmNURXE2V2ZTUkFadw?oc=5)
-
----
-
-### [Ce chewing-gum (bien particulier) permet de réduire le risque de plusieurs cancers](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm4td1IzV3JWaU5rdHNfNTFJVi1hclc0bTBvSTUxVkUzLUVtcFlNVTF3aVlrRWVJTkdpdV9SUWFfVUI1ekN3ZXZhYkUtMEI1TS1ib3Z3Q3djZW94LTBNakxTMVI5bFpvdVg5NnFtR1pOeXNlcnhXbmFhY1I4aGZJLVYtXzFMdFlJRG9SMnA5emZfZ1lYMHlNR3duNllGMjhPN1VOWTg0dENKX250UWpRZFJRcGVrdUVCNHc?oc=5)
-
-2026-04-29 <span class="news-indication-tag">cancer</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm4td1IzV3JWaU5rdHNfNTFJVi1hclc0bTBvSTUxVkUzLUVtcFlNVTF3aVlrRWVJTkdpdV9SUWFfVUI1ekN3ZXZhYkUtMEI1TS1ib3Z3Q3djZW94LTBNakxTMVI5bFpvdVg5NnFtR1pOeXNlcnhXbmFhY1I4aGZJLVYtXzFMdFlJRG9SMnA5emZfZ1lYMHlNR3duNllGMjhPN1VOWTg0dENKX250UWpRZFJRcGVrdUVCNHc?oc=5)
 
 ---
 

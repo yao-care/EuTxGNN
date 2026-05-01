@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### ['Dementia care needs time, effort and resources'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93YW5VZzh0UmZEYkhreVpPSmxQc1o5NDZKSXZwNjFHNm42Qy1CVW85MnlxUm5EaDFSaFdYSWJWanFRLUNsSlFVbGZPYkJsYTlvejhVckdCT0dqV0Zq?oc=5)
+
+2026-05-01 <span class="news-indication-tag">dementia</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93YW5VZzh0UmZEYkhreVpPSmxQc1o5NDZKSXZwNjFHNm42Qy1CVW85MnlxUm5EaDFSaFdYSWJWanFRLUNsSlFVbGZPYkJsYTlvejhVckdCT0dqV0Zq?oc=5)
+
+---
+
+### [Eight easy exercises that protect against dementia - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVElaTFhpZWJKS1lZVHl1MndMVzloQ0w3NVZzNmJtSk5OZDQ2RzVxQTZYLUplNHctNG1QOW85NVVlSW1zQXZqSzRfSXhnVnlVb0ZIN3lOVkI2ODNlQ2lTQ2VHRmZEUHhFdzlFMy1jOG8tRnN6NWVVS0x3aWNfNTkxaHd4ekRnWmpVUHR4S3hIMWFBNjRBMTBmcGRjNzlDQ0pjb3ZfTnRKUEd4UQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVElaTFhpZWJKS1lZVHl1MndMVzloQ0w3NVZzNmJtSk5OZDQ2RzVxQTZYLUplNHctNG1QOW85NVVlSW1zQXZqSzRfSXhnVnlVb0ZIN3lOVkI2ODNlQ2lTQ2VHRmZEUHhFdzlFMy1jOG8tRnN6NWVVS0x3aWNfNTkxaHd4ekRnWmpVUHR4S3hIMWFBNjRBMTBmcGRjNzlDQ0pjb3ZfTnRKUEd4UQ?oc=5)
+
+---
 
 ### [Early dementia warning sign that shouldn't be ignored when going upstairs - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTcxRThkM252NG9KUHJWc0VTSUZuQWY2R0VWTVhDRE1pQ05Kcm1kWlZIQ2pBOVR0LUpoRVBYdkp1TUVLUlFsSVU1eC1ZcTZELW9FMXF6bXVHbWZPcXFlVEI2LURhcXJ4MmxxY3VqTmtMcWFHREt5YmNjUElJLW1VZFl0VmRLUm5ZOHfSAY8BQVVfeXFMTkdjc0ZscTk4Mzlya1EtNzVjeDh5cjRGa2ZvS3phcUZneEsyWnFpMUNabEhFcEVXRGVYTE9OODIyMUJHbHNFaHdFN19KTW5zcjZWNjA5b2ttSXRXcUR3b2FtVndOUzRIS1BreXRCQTBuT0dkc2tycDc4bGdpRzFUTFJtZDhKbUVDRzcxUjNsVnc?oc=5)
 

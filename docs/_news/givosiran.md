@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [40 Krankenhaus-Patienten mit HIV- und Hepatitis-Erregen infiziert?](https://news.google.com/rss/articles/CBMivwFBVV95cUxNckdYekd1THlNaUVyZEJ0YzNnc3VGa3FsczVSMWE2Vkt1VmU0UHZCZFd3dnJ2aUVPQ0tlSVMzZUFpSlpOQzhrcWhpVXBhTUNNZF9DamxKZGRpWU1vNE5pdEVkVmNuLUtrV2YxUlRmcmtvcWNudjhvQXdqbDE4YkQ2ZG4yYzVMbWpWRUxYcmZYNnMtYlJYRFZNN3Z5ZUNfR05LYXNGc2FZeFlSQlZZRUpvcTBnbUhNQjRscGM1S3p5TQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">hepatitis</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNckdYekd1THlNaUVyZEJ0YzNnc3VGa3FsczVSMWE2Vkt1VmU0UHZCZFd3dnJ2aUVPQ0tlSVMzZUFpSlpOQzhrcWhpVXBhTUNNZF9DamxKZGRpWU1vNE5pdEVkVmNuLUtrV2YxUlRmcmtvcWNudjhvQXdqbDE4YkQ2ZG4yYzVMbWpWRUxYcmZYNnMtYlJYRFZNN3Z5ZUNfR05LYXNGc2FZeFlSQlZZRUpvcTBnbUhNQjRscGM1S3p5TQ?oc=5)
+
+---
+
+### [Señales metabólicas años antes del embarazo predicen una posible hipertensión gestacional - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+2026-05-01 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+
+---
 
 ### [Des lauriers pour une méthode de restauration des fonctions cognitives développée en Suisse romande](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 

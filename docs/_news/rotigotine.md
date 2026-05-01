@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
 
 ### [OMS: Más de 100 millones de vacunas infantiles administradas OMpara la puesta al día en materia de inmunización](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
 
@@ -139,22 +139,6 @@ permalink: /news/rotigotine/
 2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxqQ2lSeEl2eWFDQ3hDS1VVdW03NWlLUFRvNUJ2NjdVOUJiOWd5cF9iRHVuRzdPdy1NUTRzRjFlQVhBQlZySXdleGQzM1M2VnhlZEFlTHVQZVlFSWdPbkV4RlV1ODRGTU5lWVk0bWs5QTZCWUJhUTMyTmJtZnlJbTlqM3Utb0V4TnpIb0dyTXg4R2pqeFE1dC00cFZFTGRY?oc=5)
-
----
-
-### [Cause of falling fertility rates isn’t biological | Letter - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEFTNjZRamtZaElXWktiekJELW84N1Z5Vk0yQkJpQWxhbHJuQlp5d2VCLXBUbmppUHlnZlpDTmZ0S1ducjJQeFpPdzVxemZxeS1na3BJdkdzcnFVVzBZcVFHWk4zOGlwLTBlRUhhU20wYkRvbFg0M1dzb1lmaS1wUTZXVUJBaEZNamVjazNKWG1BQ2M1d25VUTVjdDk?oc=5)
-
-2026-04-29 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEFTNjZRamtZaElXWktiekJELW84N1Z5Vk0yQkJpQWxhbHJuQlp5d2VCLXBUbmppUHlnZlpDTmZ0S1ducjJQeFpPdzVxemZxeS1na3BJdkdzcnFVVzBZcVFHWk4zOGlwLTBlRUhhU20wYkRvbFg0M1dzb1lmaS1wUTZXVUJBaEZNamVjazNKWG1BQ2M1d25VUTVjdDk?oc=5)
-
----
-
-### [This one nutrient could be the key to better sleep and lower blood pressure, say doctors - Good Housekeeping](https://news.google.com/rss/articles/CBMihgFBVV95cUxOemFpVGw4R056Qk9sLWJpZWtaeXBHT2xHMjQ0MTVXbEZiZFRHd0dwVFFSYWlyeFFfNGZEWTRBM1ZuQzl3X1c1ekJKd3QyYXlTck9YTVlQYXo3ZVFla25pREVrOXRwRkVDNmFPRnQ1OUlBbnhzRUtYRUxRRHRyNTh0NDhqcmFVQQ?oc=5)
-
-2026-04-29 <span class="news-indication-tag">MS</span>
-
-來源：[Good Housekeeping](https://news.google.com/rss/articles/CBMihgFBVV95cUxOemFpVGw4R056Qk9sLWJpZWtaeXBHT2xHMjQ0MTVXbEZiZFRHd0dwVFFSYWlyeFFfNGZEWTRBM1ZuQzl3X1c1ekJKd3QyYXlTck9YTVlQYXo3ZVFla25pREVrOXRwRkVDNmFPRnQ1OUlBbnhzRUtYRUxRRHRyNTh0NDhqcmFVQQ?oc=5)
 
 ---
 

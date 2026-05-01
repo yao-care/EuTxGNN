@@ -54,11 +54,11 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（1 則）
 
-### [Una de cada 15 mujeres en el mundo sufre depresión posparto en el año posterior al parto - Vivir Ediciones](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2FERmdJb0VzYWd2Ymxoa0ZMTDhnN3R0eml0aFJjVmx0aXhDRWQwN0tyNnpodk9rVVlCdjQ3MlNvS1BIRXNuankzdHJYNzNTLTZaOHVYeUNhS1NkMVNDT0NuOFh3Ym9hTWR5clFzaVdsU2Y0c3hBSlBNS3V2emczT19PaVFvRDRXbjhHRkMtaVN3V3d5Ry12WjFqMmtkd1cyWTZMbjNpMHg4dERJUTlEOWpKUnp2cFVKVnJ1ZU9GYw?oc=5)
+### [La depresión mayor afecta a una de cada 15 mujeres tras el parto, según un análisis global](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlo0bEMwelEyUDZJNUhsQ2xjSzZfQmMzaDlsOVhsYkJJaXN2NkNxd0hwV0dwTGJUTnRlM0lfNjl4N2cwR19lVVk0bHlZdGpQcjNwM1g4WVNBN2p5blpfcUdoOFZpMmVITzI5eHRXMDk2WmRQRjVLdFRiaU5CWERRd2prR055X2hsZFhQYW0zRDI3dGtSZXdsNFNDdFZvNjhiTWFqUUxTbVA3MmNnUFFLbkF0SWRaQ3BrZHlkZHUxUzEyN2s?oc=5)
 
-2026-04-30 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+2026-05-01 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
-來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2FERmdJb0VzYWd2Ymxoa0ZMTDhnN3R0eml0aFJjVmx0aXhDRWQwN0tyNnpodk9rVVlCdjQ3MlNvS1BIRXNuankzdHJYNzNTLTZaOHVYeUNhS1NkMVNDT0NuOFh3Ym9hTWR5clFzaVdsU2Y0c3hBSlBNS3V2emczT19PaVFvRDRXbjhHRkMtaVN3V3d5Ry12WjFqMmtkd1cyWTZMbjNpMHg4dERJUTlEOWpKUnp2cFVKVnJ1ZU9GYw?oc=5)
+來源：[Sinc](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlo0bEMwelEyUDZJNUhsQ2xjSzZfQmMzaDlsOVhsYkJJaXN2NkNxd0hwV0dwTGJUTnRlM0lfNjl4N2cwR19lVVk0bHlZdGpQcjNwM1g4WVNBN2p5blpfcUdoOFZpMmVITzI5eHRXMDk2WmRQRjVLdFRiaU5CWERRd2prR055X2hsZFhQYW0zRDI3dGtSZXdsNFNDdFZvNjhiTWFqUUxTbVA3MmNnUFFLbkF0SWRaQ3BrZHlkZHUxUzEyN2s?oc=5)
 
 ---
 

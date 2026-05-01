@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
+
+### [Studie zeigt, warum Abnehmen nicht jeden vor Diabetes schützt](https://news.google.com/rss/articles/CBMiugFBVV95cUxOME9wdVloaDgxRlJRbHZTcGNvTHlVVTJtb0dlWC1zRVJpcm1SYlRJWmQ4dno5WGluOGJyMkdMRTJycWo4V1dUQW9qSnNJaG04OGFzWVpOTzFtQWRJaDVvUmJzdE9FNEh3Z2lPWXkxWDZvUXZraEdROFV3LXNIMFhnd0gxdVF0Z0M0dHVuYWVzUmdOcHhuTXl6bEFrNDNpeVk0MkhnNjg5SDYwWjlBWktGYUVpTHVJYjNCMkE?oc=5)
+
+2026-05-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[Innsalzach24](https://news.google.com/rss/articles/CBMiugFBVV95cUxOME9wdVloaDgxRlJRbHZTcGNvTHlVVTJtb0dlWC1zRVJpcm1SYlRJWmQ4dno5WGluOGJyMkdMRTJycWo4V1dUQW9qSnNJaG04OGFzWVpOTzFtQWRJaDVvUmJzdE9FNEh3Z2lPWXkxWDZvUXZraEdROFV3LXNIMFhnd0gxdVF0Z0M0dHVuYWVzUmdOcHhuTXl6bEFrNDNpeVk0MkhnNjg5SDYwWjlBWktGYUVpTHVJYjNCMkE?oc=5)
+
+---
 
 ### [Anyone taking Metformin given warning over B12 side effect - but potential benefits - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnViOE45blJEZVVPc3N6ZjVwNkxUQnQ4b0N0ZUw0eVpMLS03d0VGVEFQTWw0UzI5RkZIZDU5NWx3eDctUDZmaEt3NWhkSGNERlo2OXFuUmtNZWhxYi1fdVgyQjJhRWlPZFplbERqWHZZV2ZzQ3dORVlHM2FkRG5RYkp6UlZJdGc1SGtJ0gGQAUFVX3lxTE9jVlV0ZUFtNkVOR3UxZlduSTNCX1lwWTRvUjdjeUdfRi1mVjdtOWNVQW5SUFk5Vm9nVERsVmw3dGJqcDNXLUNBZ21odHBhem8zbkRZMElETmRyaDVQWUg0VEhSQ1RGUElRZWZCck1OWjFmSklBakNWNUMzQTRKajV0dU5WT3drR0I2aU9fOHFKOA?oc=5)
 
@@ -115,30 +123,6 @@ permalink: /news/metformin/
 2026-04-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[LMU München](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVN5Z01mQ0ZOejJFaFQybkFyQUZ6Qlh3M2RPTDNmRmF6ZFdwQlhIT01mTWtoS2RPdUZpMjU3N3BIanM3cU9wWWY5azlIcmc5UWl6ZTNwOXItdEdDLTlkVWJnZWFfZFFWWG8tQmFxOTNQX1VuMTZLaFdkVmF4Y0thMWExMTF4YzJKalBkM1hTRFZvNWZ3bW05YUpSeC1MMW5YTWRJY3dtbmZ1MHFvX2d6YWZlUjVqMm5aMXFBUnZydnFDNHZGOW1NZHR3RXM4RmVJbmh3dzZuMGVhU2JOazdJN29taW9BUQ?oc=5)
-
----
-
-### [Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMTRTTk14Nk5CTkhQUWszeGk0UFBqSnpWX2dCeXdodFJhT09rUmZJNTFFaC0wc0NOS0lMbklsSDliTm14RU5lZ0ZCUXNrTmthNVNyMzFOOHdXN0NSejJv?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetic</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMTRTTk14Nk5CTkhQUWszeGk0UFBqSnpWX2dCeXdodFJhT09rUmZJNTFFaC0wc0NOS0lMbklsSDliTm14RU5lZ0ZCUXNrTmthNVNyMzFOOHdXN0NSejJv?oc=5)
-
----
-
-### [Vitamin-D-Präparate: Neue Studie zeigt überraschende Wirkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTI0Sk5CU0o4N09OTm9Wd0l1eHNHUTJYMVl1VmY4eFdtTXdXTENxZklMTEViZ3FfMldJS3NhQkc5MXFiM1hsalNac2RzZF9ON0doZUxEWnJCYks1Ym1Cem1WOFo0SU5QOWdBbndPd3NuTjBhYk5MVjduRzBubUFhNXJqTzRCRTBoUlhtbHUtZGpZSTNxdV9weFdLelMtZGNGUjJlbFU5b0hYSHBNQ1dj?oc=5)
-
----
-
-### [Studie zur Wirkung der Keto-Diät auf die Bauchspeicheldrüse](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
 
 ---
 
