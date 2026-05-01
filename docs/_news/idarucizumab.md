@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### ['Turning back the years' 82p-a-day product people say are 'minimizing wrinkles' - The Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
 
 2026-04-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
-
----
-
-### [Demuestran que los mecanismos de la EPOC son diferentes en función del sexo biológico](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTBtUXhYd1FKS1VJSTdPNlpVZzBlLVFVR0txTF9aYWpUc0hpRjJSMjFQYzI3cFpjQkQ5YlJ2QUNJWS1WeWV6elRqc1VLYXhKeUxUaHEtQ25LXzEwUzVyQkNjUm05VG50R2JXd1dSVHY2OVVzSW5zVGJkQUViV2I4T0gyc2wyUnBMSVZwNWdXRm96R21Ca2VBR0l3NlhESi05SWhrV19QLTgzQ3B2aldnQ3ZkaWlTRE9XRnpWZ1VqR05UMWc3V09BN0FlUkpWckJ0YXlwdg?oc=5)
-
-2026-04-29 <span class="news-indication-tag">EPOC</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTBtUXhYd1FKS1VJSTdPNlpVZzBlLVFVR0txTF9aYWpUc0hpRjJSMjFQYzI3cFpjQkQ5YlJ2QUNJWS1WeWV6elRqc1VLYXhKeUxUaHEtQ25LXzEwUzVyQkNjUm05VG50R2JXd1dSVHY2OVVzSW5zVGJkQUViV2I4T0gyc2wyUnBMSVZwNWdXRm96R21Ca2VBR0l3NlhESi05SWhrV19QLTgzQ3B2aldnQ3ZkaWlTRE9XRnpWZ1VqR05UMWc3V09BN0FlUkpWckJ0YXlwdg?oc=5)
-
----
-
-### [Kortikosteroide bei COPD: Segen oder Fluch?](https://news.google.com/rss/articles/CBMijAFBVV95cUxQemhPSGJHZHIxU1kzSjExRHVvR183TGRUN1hhZmZZR1BqdXhHSGdROFFkZTZ2eDNOU3p4MVl6d0lZQWZDME5xcDZrZ3B5ZUV6ay16V1MxcmtzT2F1eXdkRzhlTjM0Z2l4dVZVaUI0akg0SzBmM0w3eHR3RkhNQjQya3FsQWhXVmMxclVFZA?oc=5)
-
-2026-04-29 <span class="news-indication-tag">copd</span>
-
-來源：[journalmed](https://news.google.com/rss/articles/CBMijAFBVV95cUxQemhPSGJHZHIxU1kzSjExRHVvR183TGRUN1hhZmZZR1BqdXhHSGdROFFkZTZ2eDNOU3p4MVl6d0lZQWZDME5xcDZrZ3B5ZUV6ay16V1MxcmtzT2F1eXdkRzhlTjM0Z2l4dVZVaUI0akg0SzBmM0w3eHR3RkhNQjQya3FsQWhXVmMxclVFZA?oc=5)
 
 ---
 

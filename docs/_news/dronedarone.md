@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dronedarone</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
-
-### [The climate crisis is making our hay fever worse – and affecting our enjoyment of nature - The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTllNY3RJOEQ2ZUctdUhwcnFUQ3pPVnJlbVZhUHRnRUx4blp1QmEzSVB2UWNHaEFpYnJpeThMQWlHV1ZMZUJOanc4dVQyYXlib280UUdtNG8zZ2FHMmFvSExDdmZzRFN5TjgyMXdWSjdWNVJvLXRLNnlZc3pnQU5ac1c2Rlh6ZkNNX2ZnWlNXcUZOX1ZXWFBhQkVCOEkxN0xoQ2loR0VrbWdkOHFyVU9XQzVINkFycnd5MmZKZlZkOGNEbVZqejdPV0g5UWpMRVNYbjlXNA?oc=5)
-
-2026-05-01 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTllNY3RJOEQ2ZUctdUhwcnFUQ3pPVnJlbVZhUHRnRUx4blp1QmEzSVB2UWNHaEFpYnJpeThMQWlHV1ZMZUJOanc4dVQyYXlib280UUdtNG8zZ2FHMmFvSExDdmZzRFN5TjgyMXdWSjdWNVJvLXRLNnlZc3pnQU5ac1c2Rlh6ZkNNX2ZnWlNXcUZOX1ZXWFBhQkVCOEkxN0xoQ2loR0VrbWdkOHFyVU9XQzVINkFycnd5MmZKZlZkOGNEbVZqejdPV0g5UWpMRVNYbjlXNA?oc=5)
-
----
+## 相關新聞（30 則）
 
 ### [Grönemeyer: „Heute Nacht schlafe ich extra nicht ein“ – diese Methode wirkt überraschend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
 
 2026-05-01 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
+
+---
+
+### [OMS: Más de 100 millones de vacunas infantiles administradas OMpara la puesta al día en materia de inmunización](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[swisslatin](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
 
 ---
 
@@ -91,6 +91,22 @@ permalink: /news/dronedarone/
 2026-05-01 <span class="news-indication-tag">ictus</span>
 
 來源：[65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
+
+---
+
+### [Nasal decongestant sprays should not be used for more than five days, medicines watchdog says - Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3dIR2xIM3JNOVJTdWhWX01nQ0JKbkxQUFlGQjg4TkxPdW1jRVJuSVdENkRqVEkzcWMzTHA1OEhBMjFlY29GRGVpZ29iZ00zYzEtSEwxRi1DOWtCMENHaDdEN0IzM0dzdlRzU0JWV0o2aFBLT2UzQy1DTXlHZnlQWHRidUl4ODZNMmk5MzFTMVVDTVZyMUJNUk1mQjdrUGIzZ0hPX0o3ZUY3NTVRdXAwZlVvWHdyM184NVI5d24yUzZsOXJRTktj?oc=5)
+
+2026-05-01 <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3dIR2xIM3JNOVJTdWhWX01nQ0JKbkxQUFlGQjg4TkxPdW1jRVJuSVdENkRqVEkzcWMzTHA1OEhBMjFlY29GRGVpZ29iZ00zYzEtSEwxRi1DOWtCMENHaDdEN0IzM0dzdlRzU0JWV0o2aFBLT2UzQy1DTXlHZnlQWHRidUl4ODZNMmk5MzFTMVVDTVZyMUJNUk1mQjdrUGIzZ0hPX0o3ZUY3NTVRdXAwZlVvWHdyM184NVI5d24yUzZsOXJRTktj?oc=5)
+
+---
+
+### [Una de cada 15 mujeres en el mundo sufre depresión posparto en el año posterior al parto - Vivir Ediciones](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2FERmdJb0VzYWd2Ymxoa0ZMTDhnN3R0eml0aFJjVmx0aXhDRWQwN0tyNnpodk9rVVlCdjQ3MlNvS1BIRXNuankzdHJYNzNTLTZaOHVYeUNhS1NkMVNDT0NuOFh3Ym9hTWR5clFzaVdsU2Y0c3hBSlBNS3V2emczT19PaVFvRDRXbjhHRkMtaVN3V3d5Ry12WjFqMmtkd1cyWTZMbjNpMHg4dERJUTlEOWpKUnp2cFVKVnJ1ZU9GYw?oc=5)
+
+2026-04-30 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+
+來源：[Vivir Ediciones](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2FERmdJb0VzYWd2Ymxoa0ZMTDhnN3R0eml0aFJjVmx0aXhDRWQwN0tyNnpodk9rVVlCdjQ3MlNvS1BIRXNuankzdHJYNzNTLTZaOHVYeUNhS1NkMVNDT0NuOFh3Ym9hTWR5clFzaVdsU2Y0c3hBSlBNS3V2emczT19PaVFvRDRXbjhHRkMtaVN3V3d5Ry12WjFqMmtkd1cyWTZMbjNpMHg4dERJUTlEOWpKUnp2cFVKVnJ1ZU9GYw?oc=5)
 
 ---
 
@@ -158,11 +174,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Ein Abstrich genügt: Studie ebnet Weg für einfacheren Tuberkulose-Nachweis - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IaGI3dGNNQlRGM21TbkZzZlN5OGxmYjlLNlNIdDVGX0tjcU9PTjlBOVM0dHFycVJCaDdqdnVmOGpUU2kyajRaNnZPRQ?oc=5)
+### [Krankheit durch Übergewicht: Neues Modell sagt Risiko besser vorher als BMI - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXBGTmhEM0t6R3FzWWRKczV4THhsa2w3RnRzd3RIMnhaTHdlclhfZVVCaVpJaWtSVW9FTjVzcjVkVU9CTGhCSWg5Q2hta2lVbG0xZXEzMUtRVHJ4ZUw0Q2NaOTEwLWk2eGI5TlJ4b201Z1dKN1pLekdDWHltRVByRjBkWkpUcm51eVBhWGRzVWxhSnFlZ0E5SFE3UXNKNzNZSTIxcWtsSzBBVDhrUXljVU5scmx1QVZObzdCVw?oc=5)
 
 2026-04-30 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IaGI3dGNNQlRGM21TbkZzZlN5OGxmYjlLNlNIdDVGX0tjcU9PTjlBOVM0dHFycVJCaDdqdnVmOGpUU2kyajRaNnZPRQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXBGTmhEM0t6R3FzWWRKczV4THhsa2w3RnRzd3RIMnhaTHdlclhfZVVCaVpJaWtSVW9FTjVzcjVkVU9CTGhCSWg5Q2hta2lVbG0xZXEzMUtRVHJ4ZUw0Q2NaOTEwLWk2eGI5TlJ4b201Z1dKN1pLekdDWHltRVByRjBkWkpUcm51eVBhWGRzVWxhSnFlZ0E5SFE3UXNKNzNZSTIxcWtsSzBBVDhrUXljVU5scmx1QVZObzdCVw?oc=5)
 
 ---
 
@@ -222,14 +238,6 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Could a simple house design cut malaria rates by almost half? - The Telegraph](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTQyXzF5UkxReXJNaDRXZXEtRmIxTkV2T0FzTUtiYkszREZYTmhXRlJuODRGMDRPZGg2M3BDQTBad1dOc0JhMWlGOWo5NzlKTzdKbVBJUUs2VGJfSEprVlBUVVFfVXJMdm9fNTA2Z0NtNFFKemNLYjhyQVZnUWEtVmNCOHF0em1HQ2ZLZVR5UFVobXUyT05rZk5CUzNMWEg1SmhQZ3NJcjJPRVFBTEd0dmN0clk5dnB5T1Y4ZWtBNA?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTQyXzF5UkxReXJNaDRXZXEtRmIxTkV2T0FzTUtiYkszREZYTmhXRlJuODRGMDRPZGg2M3BDQTBad1dOc0JhMWlGOWo5NzlKTzdKbVBJUUs2VGJfSEprVlBUVVFfVXJMdm9fNTA2Z0NtNFFKemNLYjhyQVZnUWEtVmNCOHF0em1HQ2ZLZVR5UFVobXUyT05rZk5CUzNMWEg1SmhQZ3NJcjJPRVFBTEd0dmN0clk5dnB5T1Y4ZWtBNA?oc=5)
-
----
-
 ### ['Turning back the years' 82p-a-day product people say are 'minimizing wrinkles' - The Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
 
 2026-04-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
@@ -262,11 +270,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Antidepressants recalled after patient discovers pill mix-up - STV News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2pOX0JmNlk2S0o3QjVaNjNINHVWbWFDT01ZcHNORkEzS0JpX0g1SG1EV0JTbVBJbEhKSVo5UkwzWXNWMV80eFpIUjFVTFdaeFRzdjNoeFFiUk12OXdKY2YzMU1UV0dlOFVPb3luUF84ZklFODVfdGdERWRWYUhKNnZIYkJzeDFkZnB0QkZHb2xZUmU3dTVOY0FZekIzdVNUTTJrMkpPUFQ4QWhRa1FVMklMNA?oc=5)
+### [Les défenseurs des vaccins se mobilisent face au risque de propagation des idées antivax - Le Monde.fr](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUncwR19DTjVmaURXN21MNnZTRWFlNC1LZlVWbEJXLTRoT3pSMy1oS0oxaDl6X2dTOVhSNklVa243NUVRWVdzUDByVzg1N0MySnNKaV9CMUpQVWhjMVVwQ0dkcGhaODQ4RDJqWVd3ZW44endRcVBranZuc1hPM3NvRlhUTDZhbXdzWnQ4Rm4wOG5KdFNXZWpnRzdnX3RFb0JzS1pVZHQwVjZndFNGQ2R5STgyeG52bVY3UHBYX1lSb2xNbHk0M0hzQS10WG10eW1Mb2JpTEJ6Y3E0Z2ljaW1VT293bER1cjh6R2hzdg?oc=5)
 
-2026-04-29 <span class="news-indication-tag">AF</span>
+2026-04-29 <span class="news-indication-tag">CVA</span>
 
-來源：[STV News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2pOX0JmNlk2S0o3QjVaNjNINHVWbWFDT01ZcHNORkEzS0JpX0g1SG1EV0JTbVBJbEhKSVo5UkwzWXNWMV80eFpIUjFVTFdaeFRzdjNoeFFiUk12OXdKY2YzMU1UV0dlOFVPb3luUF84ZklFODVfdGdERWRWYUhKNnZIYkJzeDFkZnB0QkZHb2xZUmU3dTVOY0FZekIzdVNUTTJrMkpPUFQ4QWhRa1FVMklMNA?oc=5)
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUncwR19DTjVmaURXN21MNnZTRWFlNC1LZlVWbEJXLTRoT3pSMy1oS0oxaDl6X2dTOVhSNklVa243NUVRWVdzUDByVzg1N0MySnNKaV9CMUpQVWhjMVVwQ0dkcGhaODQ4RDJqWVd3ZW44endRcVBranZuc1hPM3NvRlhUTDZhbXdzWnQ4Rm4wOG5KdFNXZWpnRzdnX3RFb0JzS1pVZHQwVjZndFNGQ2R5STgyeG52bVY3UHBYX1lSb2xNbHk0M0hzQS10WG10eW1Mb2JpTEJ6Y3E0Z2ljaW1VT293bER1cjh6R2hzdg?oc=5)
 
 ---
 
@@ -278,35 +286,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Diagnostic dilemma: Rectal exam stabilized man's irregular heartbeat - Live Science](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDl5X0prQUlnaXFJOUxzTWhSS3ZpTGY2OXBxUmk3enU2QjVxTzhGUF9ONmwyQklqQWt1R0xWUkNxR1ZFN1FXRnlMTzhGeXlmTG5hdGNtVEJWalJjamtlcFFaZjdJNl9JWHJfdkZHSWZuYlRnQXhDZVNBNWo0RjNLUnd3bE40YVlrYUVvc0Y4cW1xem5xWXhlOGh3LXZuTXpMLWZySlZfM2FZc09mNklWNFNmSU1LcWdVekFR?oc=5)
-
-2026-04-29 <span class="news-indication-tag">irregular heartbeat</span>
-
-來源：[Live Science](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDl5X0prQUlnaXFJOUxzTWhSS3ZpTGY2OXBxUmk3enU2QjVxTzhGUF9ONmwyQklqQWt1R0xWUkNxR1ZFN1FXRnlMTzhGeXlmTG5hdGNtVEJWalJjamtlcFFaZjdJNl9JWHJfdkZHSWZuYlRnQXhDZVNBNWo0RjNLUnd3bE40YVlrYUVvc0Y4cW1xem5xWXhlOGh3LXZuTXpMLWZySlZfM2FZc09mNklWNFNmSU1LcWdVekFR?oc=5)
-
----
-
-### [La obesidad afecta ya a una cuarta parte de la población en España y los expertos alertan de su aumento - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
-
-2026-04-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
-
----
-
-### [Ernährungs-Doc verrät 3 simple Tricks, mit denen Sie sofort stille Entzündungen bekämpfen können - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDZsbFU3a3NmR19mM1BDd2ZLNjZqTTJzTHFoRy1jYVZHdlhVbmVqbWNEMUkwTktIQXFwSVBFV2lMTHFfbEZKX0JjLXpxdlNmeTZMVFZwNnQxbDlSd3hqMlZ6b3RUc0Y5OERKV2JjQTJwNjBoallHbDR6MHVSWUl1Q0oyTFpQaFIxZDJOY2dNNWYteVBRNGFHeDhlTkw2OFAwVWswS3NiRlJfSFROWDlWenVvX2NLTTNN?oc=5)
+### [La contaminación del aire durante el embarazo puede retrasar el habla de los bebés - El Espectador](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmZDTFdkc0IwbmFsZ2lmZXd4NGk5azVNS3lSTXJ6NU93ODlKazRmZzVCX0dPX1BzcTRLSGN0Xy02SzVnVHlxR2Y5WUdDOHVEMUhxYXhuRHo3T3NKUjBxZHFOZGVYNGxsc2F2ZE43MGxMSmg3WDZLaVV6Vi1mdTNQeGJPWENyX0RKT2lYVjBRRkdteUVEOVBJRWxwY1g5ZlYxX0ttekVXaEZ1cG9jcnpOU25CTXZWdWRVa2fSAc4BQVVfeXFMTkVZckNqcER0THdQYzVFLUpoNDFnSHhHV1hCZ1ZXekRqRGZBWVd5V3p6YXUwYmVrTXVQNU1oekJ0R2p2MHhhMlNxQWc2dzhjcHRyaUd4emlGdWdmVHdtU3V4WEE5Z3hfbU1lOVpiLUJqamVBVzFqa0ZzaDJkMFowSERFUGJEV1NTU2tROGhXZ09lWFpjWlBrSkVYZWRBcFJvbjRrQlc4R1l6OXVlMVNpLTM5Sk5ldE02cVAzNWhFM1p5ZjNYQXVkTXpIQWRyV1E?oc=5)
 
 2026-04-29 <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDZsbFU3a3NmR19mM1BDd2ZLNjZqTTJzTHFoRy1jYVZHdlhVbmVqbWNEMUkwTktIQXFwSVBFV2lMTHFfbEZKX0JjLXpxdlNmeTZMVFZwNnQxbDlSd3hqMlZ6b3RUc0Y5OERKV2JjQTJwNjBoallHbDR6MHVSWUl1Q0oyTFpQaFIxZDJOY2dNNWYteVBRNGFHeDhlTkw2OFAwVWswS3NiRlJfSFROWDlWenVvX2NLTTNN?oc=5)
-
----
-
-### [Neues Virus entdeckt: Coronavirus mit neuartigen Eigenschaften - Warnung vor CcCoV-KY43](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbTBRTVVSbG8xM3R4Sy1xbDRxUHlCbjZ6YzhOUEx1TmtjNUczUmhWalhLaGtCZXFXcGh5alFEZVhIaVVyekFxS0YxVEFxeDNwUG43czBLS3NLLTdick95azBOOURFSUFHeEdhdVJCaXdoV21rVVhQUkJGa3NYY2xHY3lXUkQzY1lNZTd6OUREUzVQMUhtR2hnMTJiY1FJZVhFSzRZektMWnhfdkdjN2c5OU1qSHJHNnBfTnZFM1NjRG1sNlU2QjRIdTluNlNsVmdGcVNWd0tnd1BLRUxBZFNSb3ZtVDRqRV9jWHhWbFRxdk43b0510gH6AUFVX3lxTFBLVU1kRVpUQ0xxUHZ5LTJ2akltalNtQ2Rtbno3Z2I1d1I3c2VDc2h6S1h5Vnh6NHEtRnhodndza0RfWllmWjFweUhLdXAtTXo5NDk3YjBNWWZ2b1dNbzNWenYyZGNlVnNJSDQ4RUtNZU5zblM1UzRrMlNrdUQ0LXZoVHVPQzdmV0YtdFctMDNkcU9mV2VzWXBMVTZ0SW5UMmZnQ0g0LWRLYVZZR2RnaHVGZFA0eTQyQ1JXc214X0hpOThNMGduSTRrVlAwOEFvdVROSndMTjNENFd4aFJpU19UZF9GeDBOQmxodEt2RDRCTnV4UHJIVS00Tmc?oc=5)
-
-2026-04-29 <span class="news-indication-tag">AF</span>
-
-來源：[News.de](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbTBRTVVSbG8xM3R4Sy1xbDRxUHlCbjZ6YzhOUEx1TmtjNUczUmhWalhLaGtCZXFXcGh5alFEZVhIaVVyekFxS0YxVEFxeDNwUG43czBLS3NLLTdick95azBOOURFSUFHeEdhdVJCaXdoV21rVVhQUkJGa3NYY2xHY3lXUkQzY1lNZTd6OUREUzVQMUhtR2hnMTJiY1FJZVhFSzRZektMWnhfdkdjN2c5OU1qSHJHNnBfTnZFM1NjRG1sNlU2QjRIdTluNlNsVmdGcVNWd0tnd1BLRUxBZFNSb3ZtVDRqRV9jWHhWbFRxdk43b0510gH6AUFVX3lxTFBLVU1kRVpUQ0xxUHZ5LTJ2akltalNtQ2Rtbno3Z2I1d1I3c2VDc2h6S1h5Vnh6NHEtRnhodndza0RfWllmWjFweUhLdXAtTXo5NDk3YjBNWWZ2b1dNbzNWenYyZGNlVnNJSDQ4RUtNZU5zblM1UzRrMlNrdUQ0LXZoVHVPQzdmV0YtdFctMDNkcU9mV2VzWXBMVTZ0SW5UMmZnQ0g0LWRLYVZZR2RnaHVGZFA0eTQyQ1JXc214X0hpOThNMGduSTRrVlAwOEFvdVROSndMTjNENFd4aFJpU19UZF9GeDBOQmxodEt2RDRCTnV4UHJIVS00Tmc?oc=5)
+來源：[El Espectador](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmZDTFdkc0IwbmFsZ2lmZXd4NGk5azVNS3lSTXJ6NU93ODlKazRmZzVCX0dPX1BzcTRLSGN0Xy02SzVnVHlxR2Y5WUdDOHVEMUhxYXhuRHo3T3NKUjBxZHFOZGVYNGxsc2F2ZE43MGxMSmg3WDZLaVV6Vi1mdTNQeGJPWENyX0RKT2lYVjBRRkdteUVEOVBJRWxwY1g5ZlYxX0ttekVXaEZ1cG9jcnpOU25CTXZWdWRVa2fSAc4BQVVfeXFMTkVZckNqcER0THdQYzVFLUpoNDFnSHhHV1hCZ1ZXekRqRGZBWVd5V3p6YXUwYmVrTXVQNU1oekJ0R2p2MHhhMlNxQWc2dzhjcHRyaUd4emlGdWdmVHdtU3V4WEE5Z3hfbU1lOVpiLUJqamVBVzFqa0ZzaDJkMFowSERFUGJEV1NTU2tROGhXZ09lWFpjWlBrSkVYZWRBcFJvbjRrQlc4R1l6OXVlMVNpLTM5Sk5ldE02cVAzNWhFM1p5ZjNYQXVkTXpIQWRyV1E?oc=5)
 
 ---
 

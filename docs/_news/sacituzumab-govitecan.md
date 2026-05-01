@@ -14,7 +14,7 @@ permalink: /news/sacituzumab-govitecan/
 ---
 
 <p class="key-answer" data-question="Sacituzumab Govitecan 有什麼相關新聞？">
-<strong>Sacituzumab Govitecan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacituzumab Govitecan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sacituzumab-govitecan/
 <p><a href="{{ '/drugs/sacituzumab-govitecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
-### [Diabetes als stiller Treiber der Demenz - AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
+### [Diabetes als Schlüssel zur Demenzprävention: Neue Ansätze und Erkenntnisse - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
 
 2026-05-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/sacituzumab-govitecan/
 2026-05-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOelNBaE1KbXRhRWxLOVhlYjJvTlNKV05xM3VXdjFaWlJJYkZ0SXNyRHhfbTIzZTRCcGNvcU5yZmpLaGtEV29vQnl2eFVicEYzVllCLXJIamhGbTZZLXFKUG9XN3FRUmVDLUJQdEtna1dOVjZVdHN2X1NaUC1oOVdHM3BFeElRNHRDWmlkUGtCYXNTV05aTTZDSXZvVE1YNDRSRHZlNmIwUnhzM0gtY3dYYzBBOGw1dVQ0M3FwbHZDaU1RUDNVVXEtZHh4aGFtamxTTXFxRDhpbjJkWHZTT0JuNHA0MVFtdUQxRjMwN2g1c0JpUUNFSlhsR0xFQ29lTmc1SktJb2tGTGs4a0nSAZACQVVfeXFMTjJVZlZqeHRYTTJqQkpjNTA1T1BDdW15X013WEJUdU9OVmI4bWxrSWtJeUV2S3EtdWJjTFVPX3huRWZLRFY1MTZpa2p1SnBlMXZVLXhyNi1JNG9qcUh0T3J1RThhNldaVHNPeExLeENmRVgta1BJaGRJUk4yUE9ndW0yTmN1b1oxRTg5UktqcVJHLUhTYk9Sam9id1U4Q2RzejVZV1lwZEhoNFU2V2FwY1RBMmE4Wkt6TlE1YWFIQURXdnpaSVpFMzZVckcyYm0yRE5uNGllb0swRUR6VFJWQVVWRUt2OE94M1BJMC15bEFlczJfODc2dHR6cWp0a0VuaXBRRm41X0RRTzVTRXVfQm4?oc=5)
+
+---
+
+### [Genetic association and machine learning improve the prediction of type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMi1rWG1KNWhFeTVzM1NLS1BZZ2J3TFpBaHBiTHRFTllxTVF0cmE5VXc3SWhQUlNBc2p6d3ltRGpJU3MwM18yNXF5ZEtBb2ZjX3RvMk1idmFMLWZZRzNj?oc=5)
+
+2026-04-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMi1rWG1KNWhFeTVzM1NLS1BZZ2J3TFpBaHBiTHRFTllxTVF0cmE5VXc3SWhQUlNBc2p6d3ltRGpJU3MwM18yNXF5ZEtBb2ZjX3RvMk1idmFMLWZZRzNj?oc=5)
 
 ---
 
@@ -118,35 +126,11 @@ permalink: /news/sacituzumab-govitecan/
 
 ---
 
-### [Dietitians Say This Is the Number-1 Fruit to Eat If You Have Diabetes](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjdTWlZoVzUteWZyUWNaWGxPN0tFQW90bVA1NGZydVdzbVBjdVRUR3FLei1taFZ2Q2N6TTVXTEdwRXAtQW54OU1FUHRvSW5EcVF3Vkg1dmcwZWJZTVlYTnk4UmNZZm9oaVBzejBJM2ZvSnNDUjZrSXNiNmNBWXVFVWhJeENmeXZsUlA1aUN3?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[Prevention](https://news.google.com/rss/articles/CBMijgFBVV95cUxObjdTWlZoVzUteWZyUWNaWGxPN0tFQW90bVA1NGZydVdzbVBjdVRUR3FLei1taFZ2Q2N6TTVXTEdwRXAtQW54OU1FUHRvSW5EcVF3Vkg1dmcwZWJZTVlYTnk4UmNZZm9oaVBzejBJM2ZvSnNDUjZrSXNiNmNBWXVFVWhJeENmeXZsUlA1aUN3?oc=5)
-
----
-
 ### [Studie zur Wirkung der Keto-Diät auf die Bauchspeicheldrüse](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
 
 2026-04-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU9xUzVxVXd2ZlJHci1jTGZ4ZEpMU0JzVXg0YU9KenlSLTNwdXBldmhWNDh0WHRUUWRsOTJvbHExU3lqaUlmOTZwamNmWmlSaEZROFZSLXBCX0M4VGtEMUJ4SEtsVDVMaHBpazAxdW4xaEFkbzlRUFlUQThMenpUZEduNkJkWG9OZzVyVXB3UEFfeXNhZHg3MUVBUmY2U01SZkIzMEw5enV2VXgzalo3SUJ3UFBfeUxTOTQ4YmNDVkFrZlNnelVGSw?oc=5)
-
----
-
-### [La brecha de género en diabetes se agrava con la llegada de la menopausia - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHlQZTVMWl95ZUplWUkyWWhBNG9CblczUVRxTnpoWGZxazdsaGpTREl1S0hDb003MWxjWjBQNVZSZUdUWW16aWEwRzZVQXpxRmRRQjhlUWNzaVNfc21wU1dQd0ZjSE5vNVhVeWpKXzBvMFhTY3lURXlSVHJPN3ZrX3hyQW55aXI4WW12WHRncnhPMk9lMlRvalltaldnektYS1hEY0pROFltelF6MmxUMlJtaUlNNEtMRUV3WV80U1U3QdIBvAFBVV95cUxNSnpPWmFmSnFXVHFSZjAxcnpOMzNmRng3OXdzcHlpQnlMNlZkQzlsWnJzWDJteE9ibmVyWjVzR0MxVW92YjMzbHNvN19LT3RnS1BqWEExNGZzY2V1WDl1R05MandHWThPRkNIMWkzNlNzUTVWbHVhcEJBTHBPcUdDLXU3OTNzZlpSZWUtcDVfNTNDY2M2anJ5U2FIaDhNbEZZQjVJSUtUZXNidGZJUUZ5eklsbDFwbThYM1l6WA?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHlQZTVMWl95ZUplWUkyWWhBNG9CblczUVRxTnpoWGZxazdsaGpTREl1S0hDb003MWxjWjBQNVZSZUdUWW16aWEwRzZVQXpxRmRRQjhlUWNzaVNfc21wU1dQd0ZjSE5vNVhVeWpKXzBvMFhTY3lURXlSVHJPN3ZrX3hyQW55aXI4WW12WHRncnhPMk9lMlRvalltaldnektYS1hEY0pROFltelF6MmxUMlJtaUlNNEtMRUV3WV80U1U3QdIBvAFBVV95cUxNSnpPWmFmSnFXVHFSZjAxcnpOMzNmRng3OXdzcHlpQnlMNlZkQzlsWnJzWDJteE9ibmVyWjVzR0MxVW92YjMzbHNvN19LT3RnS1BqWEExNGZzY2V1WDl1R05MandHWThPRkNIMWkzNlNzUTVWbHVhcEJBTHBPcUdDLXU3OTNzZlpSZWUtcDVfNTNDY2M2anJ5U2FIaDhNbEZZQjVJSUtUZXNidGZJUUZ5eklsbDFwbThYM1l6WA?oc=5)
-
----
-
-### [Von Armuts­risiko bis Tabak­kontrolle – Kontext­faktoren für die Surveillance von Diabetes mellitus und weiteren nicht­über­trag­baren Krankheiten - RKI](https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0RiTC1kMmpiMEU4S0JwOUlERllPLWpMMWx4MmdvMnhzZXVDYXN0dXZTRFJkNXhjSUFVdWgtYktoeWw5WmRjeUJ6SkZCUDNxYlNTTHEtSzlBLU5xUzdhUDFROUtMbm5xQmR5U3E1Z2JKRmVkZ2VoYXBBblBaUkJxOWJ2Y1NuUVU5OW1ldnktaWtCWW44bmFaRW04eVhkaTlpWmljb05Xd0FhVkJQWnhrUkN1b1V2QQ?oc=5)
-
-2026-04-29 <span class="news-indication-tag">diabetes mellitus</span>
-
-來源：[RKI - Startseite](https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0RiTC1kMmpiMEU4S0JwOUlERllPLWpMMWx4MmdvMnhzZXVDYXN0dXZTRFJkNXhjSUFVdWgtYktoeWw5WmRjeUJ6SkZCUDNxYlNTTHEtSzlBLU5xUzdhUDFROUtMbm5xQmR5U3E1Z2JKRmVkZ2VoYXBBblBaUkJxOWJ2Y1NuUVU5OW1ldnktaWtCWW44bmFaRW04eVhkaTlpWmljb05Xd0FhVkJQWnhrUkN1b1V2QQ?oc=5)
 
 ---
 

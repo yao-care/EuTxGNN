@@ -14,7 +14,7 @@ permalink: /news/isavuconazole/
 ---
 
 <p class="key-answer" data-question="Isavuconazole 有什麼相關新聞？">
-<strong>Isavuconazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isavuconazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/isavuconazole/
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### ['I thought I was having a panic attack but it was heart failure' - Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
 
 2026-04-30 <span class="news-indication-tag">heart failure</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
+
+---
+
+### [Quando si è davvero ipertesi? Dalle linee guida alla vita di ogni giorno, a ognuno la sua risposta - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhKYkZhOWFjLWJnTTZKSUVGOTRxX1ZzWU1IZDlHYVZKM0dnakd4YjVmTjU5dFZMRlFzZzh4eGo5SFJUZTB3Yno1RGNaYlBxdXkxVS1NSnpBcjlmUWNEQXhPODhmZjREbGxHWVpNZVhCMm9oLXdLNWhRMnNySzVMY2NmbS1KTFpNdmNkTzluNFZxaFZHRTRnMEhXTTZfdTY0RVFBRG5VSUtsalZRTnBNZWVlZkNUeE5KeFE?oc=5)
+
+2026-04-30 <span class="news-indication-tag">ipertensione</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhKYkZhOWFjLWJnTTZKSUVGOTRxX1ZzWU1IZDlHYVZKM0dnakd4YjVmTjU5dFZMRlFzZzh4eGo5SFJUZTB3Yno1RGNaYlBxdXkxVS1NSnpBcjlmUWNEQXhPODhmZjREbGxHWVpNZVhCMm9oLXdLNWhRMnNySzVMY2NmbS1KTFpNdmNkTzluNFZxaFZHRTRnMEhXTTZfdTY0RVFBRG5VSUtsalZRTnBNZWVlZkNUeE5KeFE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Des lauriers pour une méthode de restauration des fonctions cognitives développée en Suisse romande](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 
 2026-04-30 <span class="news-indication-tag">hépatite</span> <span class="news-indication-tag">AF</span>
 
 來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
+
+---
+
+### [Quando si è davvero ipertesi? Dalle linee guida alla vita di ogni giorno, a ognuno la sua risposta - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhKYkZhOWFjLWJnTTZKSUVGOTRxX1ZzWU1IZDlHYVZKM0dnakd4YjVmTjU5dFZMRlFzZzh4eGo5SFJUZTB3Yno1RGNaYlBxdXkxVS1NSnpBcjlmUWNEQXhPODhmZjREbGxHWVpNZVhCMm9oLXdLNWhRMnNySzVMY2NmbS1KTFpNdmNkTzluNFZxaFZHRTRnMEhXTTZfdTY0RVFBRG5VSUtsalZRTnBNZWVlZkNUeE5KeFE?oc=5)
+
+2026-04-30 <span class="news-indication-tag">ipertensione</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhKYkZhOWFjLWJnTTZKSUVGOTRxX1ZzWU1IZDlHYVZKM0dnakd4YjVmTjU5dFZMRlFzZzh4eGo5SFJUZTB3Yno1RGNaYlBxdXkxVS1NSnpBcjlmUWNEQXhPODhmZjREbGxHWVpNZVhCMm9oLXdLNWhRMnNySzVMY2NmbS1KTFpNdmNkTzluNFZxaFZHRTRnMEhXTTZfdTY0RVFBRG5VSUtsalZRTnBNZWVlZkNUeE5KeFE?oc=5)
 
 ---
 
