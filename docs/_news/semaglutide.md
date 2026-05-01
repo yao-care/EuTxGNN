@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [Semaglutida, obesidad y consumo de alcohol - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQXFjMUJmMlVPZDFJOVl0NEFEZ21ZbHlQdC1wUUYxNmt1RWRZSUZTQzZHRVFtRGlPUy1CcmRMVTE1alJzb3RNb2pYd1F6WWg2NGpENklVcWJoNHZmSV82dUJMMGQ3bDZmZTVfRUNkenVLSl80Q2g2djlRb0ZxZllXaE1XcF9fWW01V1pOcUU2bDhYYU15RjYxd1ozSE1WbVhzWmZDRjlFWHRCbmh1QnF3T2JlWlJjUDdBNnN3TklJcGxCY1ZUdVBjWA?oc=5)
+
+2026-04-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQXFjMUJmMlVPZDFJOVl0NEFEZ21ZbHlQdC1wUUYxNmt1RWRZSUZTQzZHRVFtRGlPUy1CcmRMVTE1alJzb3RNb2pYd1F6WWg2NGpENklVcWJoNHZmSV82dUJMMGQ3bDZmZTVfRUNkenVLSl80Q2g2djlRb0ZxZllXaE1XcF9fWW01V1pOcUU2bDhYYU15RjYxd1ozSE1WbVhzWmZDRjlFWHRCbmh1QnF3T2JlWlJjUDdBNnN3TklJcGxCY1ZUdVBjWA?oc=5)
+
+---
+
+### [Aumento de trastornos alimentarios por fármacos GLP-1 - Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0xad2VONnBnZEZtcW40eGctSnI5UFFkTkl4ZEU4ZG1zcldaNlo4dHRXMzlMSWdGVG5KR29lSTZlZXptQkJmZmlZWW5NLU4yeks2OEc3STh4ZnF4azFxWWY2S1lwbElCbXB4cGRHR0tmRC1fMUFfaVFFMFpTRE41Y28wb01EN3pkMXhhTHlpM0Ezd00?oc=5)
+
+2026-04-30 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[Gestión y Economía de la Salud por Carlos Diaz](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0xad2VONnBnZEZtcW40eGctSnI5UFFkTkl4ZEU4ZG1zcldaNlo4dHRXMzlMSWdGVG5KR29lSTZlZXptQkJmZmlZWW5NLU4yeks2OEc3STh4ZnF4azFxWWY2S1lwbElCbXB4cGRHR0tmRC1fMUFfaVFFMFpTRE41Y28wb01EN3pkMXhhTHlpM0Ezd00?oc=5)
+
+---
 
 ### [Das heimtückische Fett-Gedächtnis: Warum die Gefahr für Diabetes auch nach der Diät weiter besteht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRENSZ2N2SDhQN2U2aU13ZWhKT3JKUGtERnZkaGc4YTZlaDFtUXNjczhrV2NnTmxkc1Z1M0RwU2xhQWYwT3BFaUZ4My03TDU3RUFHNVdtLVc1bzlMUTVTdjRwSGo3SUtlT2JZLUd6b0R4VTZoX3V4TGdkeFF4bGVVLWJ4eDNVYW54U1dXd01pVTkxTGZDWHk5cTNPUEtzRExzd1dtRExQVFB0dWpsR1lCX1Q2RzR4Zw?oc=5)
 
@@ -123,14 +139,6 @@ permalink: /news/semaglutide/
 2026-04-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHlQZTVMWl95ZUplWUkyWWhBNG9CblczUVRxTnpoWGZxazdsaGpTREl1S0hDb003MWxjWjBQNVZSZUdUWW16aWEwRzZVQXpxRmRRQjhlUWNzaVNfc21wU1dQd0ZjSE5vNVhVeWpKXzBvMFhTY3lURXlSVHJPN3ZrX3hyQW55aXI4WW12WHRncnhPMk9lMlRvalltaldnektYS1hEY0pROFltelF6MmxUMlJtaUlNNEtMRUV3WV80U1U3QdIBvAFBVV95cUxNSnpPWmFmSnFXVHFSZjAxcnpOMzNmRng3OXdzcHlpQnlMNlZkQzlsWnJzWDJteE9ibmVyWjVzR0MxVW92YjMzbHNvN19LT3RnS1BqWEExNGZzY2V1WDl1R05MandHWThPRkNIMWkzNlNzUTVWbHVhcEJBTHBPcUdDLXU3OTNzZlpSZWUtcDVfNTNDY2M2anJ5U2FIaDhNbEZZQjVJSUtUZXNidGZJUUZ5eklsbDFwbThYM1l6WA?oc=5)
-
----
-
-### [Unexpected Hormone Discovery Could Change How We Treat Arthritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
-
-2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Semaglutida, obesidad y consumo de alcohol - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQXFjMUJmMlVPZDFJOVl0NEFEZ21ZbHlQdC1wUUYxNmt1RWRZSUZTQzZHRVFtRGlPUy1CcmRMVTE1alJzb3RNb2pYd1F6WWg2NGpENklVcWJoNHZmSV82dUJMMGQ3bDZmZTVfRUNkenVLSl80Q2g2djlRb0ZxZllXaE1XcF9fWW01V1pOcUU2bDhYYU15RjYxd1ozSE1WbVhzWmZDRjlFWHRCbmh1QnF3T2JlWlJjUDdBNnN3TklJcGxCY1ZUdVBjWA?oc=5)
+
+2026-04-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQXFjMUJmMlVPZDFJOVl0NEFEZ21ZbHlQdC1wUUYxNmt1RWRZSUZTQzZHRVFtRGlPUy1CcmRMVTE1alJzb3RNb2pYd1F6WWg2NGpENklVcWJoNHZmSV82dUJMMGQ3bDZmZTVfRUNkenVLSl80Q2g2djlRb0ZxZllXaE1XcF9fWW01V1pOcUU2bDhYYU15RjYxd1ozSE1WbVhzWmZDRjlFWHRCbmh1QnF3T2JlWlJjUDdBNnN3TklJcGxCY1ZUdVBjWA?oc=5)
+
+---
 
 ### [UK researchers develop tool to identify people most at risk of obesity-related diseases - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThpby04bEgwb1NpcnhKNHdpaFA2d3VlNzFJclBLMG90MWNjYnMxdjBOWGxrLXI5NUNJN3Y2cC1iYXhwdkJPQllHc01qQmE3cC1rU3NoZkx6blJTUzQxcTZzek5wbndIemR0SURieDVBN1g1MmtCOFFtd1dHVWR2X0VFaVpDVnhCZ0NSOVhjRjhJSUlaQWJ3dVI3RU5ObW5sRlRKUDRLOGZ0S0ZIYXNJU1RjLXZxX3c?oc=5)
 
-2026-04-30 <span class="news-indication-tag">obesity</span>
+2026-04-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThpby04bEgwb1NpcnhKNHdpaFA2d3VlNzFJclBLMG90MWNjYnMxdjBOWGxrLXI5NUNJN3Y2cC1iYXhwdkJPQllHc01qQmE3cC1rU3NoZkx6blJTUzQxcTZzek5wbndIemR0SURieDVBN1g1MmtCOFFtd1dHVWR2X0VFaVpDVnhCZ0NSOVhjRjhJSUlaQWJ3dVI3RU5ObW5sRlRKUDRLOGZ0S0ZIYXNJU1RjLXZxX3c?oc=5)
 
@@ -86,11 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Online-Informationsveranstaltung zu Sprachstörungen nach Schlaganfall](https://news.google.com/rss/articles/CBMikAJBVV95cUxOZkZiSjhLRmljYWdGb0JjM2E1Q1dVVDgxVHd1RW1BZURaeUJFUi16VENQRTNqM25FeUgxRlN1MkdZZXBFSWdEQkxIODUtQ1VEUnA3UVE5bFBlOWx6Ri1YVkVwaUFwNC1ycUM1OGJWM3lPWW9YYmhRZEJCbHRmYklWbmZWbkRZd20xdE42U0pZdUR4SXNvTDN6ZmctenhjN3BSbk5TZDI0VXlTUEs0eUZieVozMHVrNWEwTEg0Q0Z0d1hNazhvamVZWnR0RWVlUVV5cFRraFpNQW13Rk0xUG5fa0pPTWlVV3lFSmcxRmt1LWM5dU5CQVFUYnNzX0VRZndpT2VHZEtsR05fUEJVZDVrUQ?oc=5)
+### [Dairy-free milks ‘risk obesity and malnutrition in children’ - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPb01sRkxfUGZLSnB6YWlQblFWQThqZ3NoQjhnSjhQUEFHc0dtd1VvMUJnSnZZOGJZQmkxQWtLSTF4THdISjF5T3pHWldxLWRfOThwLWJZVDJ5TWZJYnZxS0F6dWtfVlNfbTZCSXc3TnpzdVQ4dkM0NkU4a2hFSkxZbE5wVmFnTVFOUVp1c2VpSy0tWXM?oc=5)
 
-2026-04-29 <span class="news-indication-tag">Schlaganfall</span>
+2026-04-29 <span class="news-indication-tag">obesity</span>
 
-來源：[lifePR](https://news.google.com/rss/articles/CBMikAJBVV95cUxOZkZiSjhLRmljYWdGb0JjM2E1Q1dVVDgxVHd1RW1BZURaeUJFUi16VENQRTNqM25FeUgxRlN1MkdZZXBFSWdEQkxIODUtQ1VEUnA3UVE5bFBlOWx6Ri1YVkVwaUFwNC1ycUM1OGJWM3lPWW9YYmhRZEJCbHRmYklWbmZWbkRZd20xdE42U0pZdUR4SXNvTDN6ZmctenhjN3BSbk5TZDI0VXlTUEs0eUZieVozMHVrNWEwTEg0Q0Z0d1hNazhvamVZWnR0RWVlUVV5cFRraFpNQW13Rk0xUG5fa0pPTWlVV3lFSmcxRmt1LWM5dU5CQVFUYnNzX0VRZndpT2VHZEtsR05fUEJVZDVrUQ?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPb01sRkxfUGZLSnB6YWlQblFWQThqZ3NoQjhnSjhQUEFHc0dtd1VvMUJnSnZZOGJZQmkxQWtLSTF4THdISjF5T3pHWldxLWRfOThwLWJZVDJ5TWZJYnZxS0F6dWtfVlNfbTZCSXc3TnpzdVQ4dkM0NkU4a2hFSkxZbE5wVmFnTVFOUVp1c2VpSy0tWXM?oc=5)
 
 ---
 
@@ -107,22 +115,6 @@ permalink: /news/orlistat/
 2026-04-29 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[RP Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkp3clJQWU9EU1RiTWd3SVZ1elhLUFBUY0FYRDJfVjVNc25mX3RkdWNZRHR5YzJ4eUNWUXdSYS12UGZ0TjhSNlRZQno3UGxCbHRzTEdKZGxsRE44UXg3dHRvOHFfdC0yR0ZGdmI5UzFvNVdyUGJEZ0JxOTRDMlBRTkliODFvanpwTk56cXFQVVU0bndKZXJqTXNFeExoVUtSU0hkU3p3SThuY2ZjVXRSX0Vn?oc=5)
-
----
-
-### [La obesidad afecta ya a una cuarta parte de la población en España y los expertos alertan de su aumento - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
-
-2026-04-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
-
----
-
-### [Obesity a key factor for rising cancer rates in young people in England, study finds - The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
-
-2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkJIRXllLVBmRzhQd29tYi00VW9GQ1otUUV5UmZFdW1hSXp2T0ZhMzVzaFk3b3FuVG8tUmJJelN6aW4tSWRWTU16QWNYNjVoWTlNMjlRZ0ExOVllcV8tMzZJN2dXR3F6bW9SWXM5eW5XXzFlaFNLdXBkdW9MX1ItM2ZGR18tQ2FIYVQtVGpLYmJkUGdiSVpJU2hfRVBWdVRZZ0JHUUJKX2ZEejJLMzdDNi0wOUtCRFJmSlVMVmllUjJHRkxYeDhxMTB5SQ?oc=5)
 
 ---
 

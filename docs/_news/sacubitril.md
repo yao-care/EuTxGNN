@@ -86,6 +86,14 @@ permalink: /news/sacubitril/
 
 ---
 
+### ['Turning back the years' 82p-a-day product people say are 'minimizing wrinkles' - The Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
+
+2026-04-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
+
+---
+
 ### [Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMTRTTk14Nk5CTkhQUWszeGk0UFBqSnpWX2dCeXdodFJhT09rUmZJNTFFaC0wc0NOS0lMbklsSDliTm14RU5lZ0ZCUXNrTmthNVNyMzFOOHdXN0NSejJv?oc=5)
 
 2026-04-29 <span class="news-indication-tag">diabetic</span>
@@ -123,14 +131,6 @@ permalink: /news/sacubitril/
 2026-04-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHlQZTVMWl95ZUplWUkyWWhBNG9CblczUVRxTnpoWGZxazdsaGpTREl1S0hDb003MWxjWjBQNVZSZUdUWW16aWEwRzZVQXpxRmRRQjhlUWNzaVNfc21wU1dQd0ZjSE5vNVhVeWpKXzBvMFhTY3lURXlSVHJPN3ZrX3hyQW55aXI4WW12WHRncnhPMk9lMlRvalltaldnektYS1hEY0pROFltelF6MmxUMlJtaUlNNEtMRUV3WV80U1U3QdIBvAFBVV95cUxNSnpPWmFmSnFXVHFSZjAxcnpOMzNmRng3OXdzcHlpQnlMNlZkQzlsWnJzWDJteE9ibmVyWjVzR0MxVW92YjMzbHNvN19LT3RnS1BqWEExNGZzY2V1WDl1R05MandHWThPRkNIMWkzNlNzUTVWbHVhcEJBTHBPcUdDLXU3OTNzZlpSZWUtcDVfNTNDY2M2anJ5U2FIaDhNbEZZQjVJSUtUZXNidGZJUUZ5eklsbDFwbThYM1l6WA?oc=5)
-
----
-
-### [Unexpected Hormone Discovery Could Change How We Treat Arthritis](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
-
-2026-04-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk90WXlkeGRibW9CZm9zcFdhX0lRSGVSdFRyZUpwS3c3Vkc2U3BiNXdMZTR2WFpxSXg1X3BaUW9GeS1Fcm9SNXM1enVacGtGRHFBTzh1MTlSbzBoNDB1YzVlbFBkMlROQkhHM0JIM3VfM011Y1psdTRjRjNWc3c2MEwxYjFsNGx1cVJ1TTFiZVY4RnE0?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Scientists restore memory by blocking a single Alzheimer’s protein](https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWDViLUhHcFgtZ3dSN2lIY0pYZ242TTQ5NnVra1ZRV3RRQl9EcndfNmZrd1ZsMUx4WGRWNF9hSEttWHVLcmRXUUFyUHExd3NTdVZ1QmpzbkhZdzlrOXR5eVE2N1FaY0xSOU1OUXVrZw?oc=5)
+### [Early dementia warning sign that shouldn't be ignored when going upstairs - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTcxRThkM252NG9KUHJWc0VTSUZuQWY2R0VWTVhDRE1pQ05Kcm1kWlZIQ2pBOVR0LUpoRVBYdkp1TUVLUlFsSVU1eC1ZcTZELW9FMXF6bXVHbWZPcXFlVEI2LURhcXJ4MmxxY3VqTmtMcWFHREt5YmNjUElJLW1VZFl0VmRLUm5ZOHfSAY8BQVVfeXFMTkdjc0ZscTk4Mzlya1EtNzVjeDh5cjRGa2ZvS3phcUZneEsyWnFpMUNabEhFcEVXRGVYTE9OODIyMUJHbHNFaHdFN19KTW5zcjZWNjA5b2ttSXRXcUR3b2FtVndOUzRIS1BreXRCQTBuT0dkc2tycDc4bGdpRzFUTFJtZDhKbUVDRzcxUjNsVnc?oc=5)
 
-2026-04-30 <span class="news-indication-tag">Alzheimer's</span>
+2026-04-30 <span class="news-indication-tag">dementia</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWDViLUhHcFgtZ3dSN2lIY0pYZ242TTQ5NnVra1ZRV3RRQl9EcndfNmZrd1ZsMUx4WGRWNF9hSEttWHVLcmRXUUFyUHExd3NTdVZ1QmpzbkhZdzlrOXR5eVE2N1FaY0xSOU1OUXVrZw?oc=5)
-
----
-
-### [En la enfermedad de Alzheimer, las mutaciones cancerosas se acumulan en las células inmunitarias del cerebro](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzNJcGFDelMtODVlTTZqNkpXSVBjNDl5blUxRmRkekdULThoX3Q1Q0xtaHlpMXBoMTB5ZkdoejNLSS1lNk43LVUzdUYyUGlxLUJCTnAtYnJVQ1VGTU5ENlY2dEhScEY2UUU0MG5FdkJKMEdybE03eGg2WUhaZEpLV1BNQ3d4RDBTbUFYVW95V25yQXpSSWwybVlENnIyMnlsUnd0cFl4ZE95dEtsVE1xelgwLW5DUllzbTdpNGN4NExDSEVQUzgtSGUwVG5HU3JDU0s3NFJFYmtqZw?oc=5)
-
-2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzNJcGFDelMtODVlTTZqNkpXSVBjNDl5blUxRmRkekdULThoX3Q1Q0xtaHlpMXBoMTB5ZkdoejNLSS1lNk43LVUzdUYyUGlxLUJCTnAtYnJVQ1VGTU5ENlY2dEhScEY2UUU0MG5FdkJKMEdybE03eGg2WUhaZEpLV1BNQ3d4RDBTbUFYVW95V25yQXpSSWwybVlENnIyMnlsUnd0cFl4ZE95dEtsVE1xelgwLW5DUllzbTdpNGN4NExDSEVQUzgtSGUwVG5HU3JDU0s3NFJFYmtqZw?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTcxRThkM252NG9KUHJWc0VTSUZuQWY2R0VWTVhDRE1pQ05Kcm1kWlZIQ2pBOVR0LUpoRVBYdkp1TUVLUlFsSVU1eC1ZcTZELW9FMXF6bXVHbWZPcXFlVEI2LURhcXJ4MmxxY3VqTmtMcWFHREt5YmNjUElJLW1VZFl0VmRLUm5ZOHfSAY8BQVVfeXFMTkdjc0ZscTk4Mzlya1EtNzVjeDh5cjRGa2ZvS3phcUZneEsyWnFpMUNabEhFcEVXRGVYTE9OODIyMUJHbHNFaHdFN19KTW5zcjZWNjA5b2ttSXRXcUR3b2FtVndOUzRIS1BreXRCQTBuT0dkc2tycDc4bGdpRzFUTFJtZDhKbUVDRzcxUjNsVnc?oc=5)
 
 ---
 

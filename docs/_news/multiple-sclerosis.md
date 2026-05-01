@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。15 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。17 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>15 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>17 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（17 則）
+
+### [UK researchers develop tool to identify people most at risk of obesity-related diseases - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThpby04bEgwb1NpcnhKNHdpaFA2d3VlNzFJclBLMG90MWNjYnMxdjBOWGxrLXI5NUNJN3Y2cC1iYXhwdkJPQllHc01qQmE3cC1rU3NoZkx6blJTUzQxcTZzek5wbndIemR0SURieDVBN1g1MmtCOFFtd1dHVWR2X0VFaVpDVnhCZ0NSOVhjRjhJSUlaQWJ3dVI3RU5ObW5sRlRKUDRLOGZ0S0ZIYXNJU1RjLXZxX3c?oc=5)
+
+2026-04-30
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThpby04bEgwb1NpcnhKNHdpaFA2d3VlNzFJclBLMG90MWNjYnMxdjBOWGxrLXI5NUNJN3Y2cC1iYXhwdkJPQllHc01qQmE3cC1rU3NoZkx6blJTUzQxcTZzek5wbndIemR0SURieDVBN1g1MmtCOFFtd1dHVWR2X0VFaVpDVnhCZ0NSOVhjRjhJSUlaQWJ3dVI3RU5ObW5sRlRKUDRLOGZ0S0ZIYXNJU1RjLXZxX3c?oc=5)
+
+---
 
 ### [Cholesterin: „Der Lebensstil ist die Basis, und dann kommen die Medikamente“](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSVdOdXJZeFlBNHVkNkM0aE9XN2JzQ3ZRMUM0ZTlOTFZiTlBtSmt2aHdwMF90TjNaRlBEaFdVcjlwRUJzR1JLNHpQUnlLdE9EcFV4N0FEU1pabENQRUp5X0xRMHN5WHJiQklRSWQxUWo1a3pHdEJabXVyUDFXTFZWWWl6ckxMenJySTJCUTdfYU5YVmRlekRzZS04WUNxVkZnSTNnYjhhakxqRi1VdUZYWTZxU3RPZEJOekhVM3ZBRUpTSXdiQnZRMlRoeGI0VzdwZkdoc3NTSDhCZw?oc=5)
 
 2026-04-30
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSVdOdXJZeFlBNHVkNkM0aE9XN2JzQ3ZRMUM0ZTlOTFZiTlBtSmt2aHdwMF90TjNaRlBEaFdVcjlwRUJzR1JLNHpQUnlLdE9EcFV4N0FEU1pabENQRUp5X0xRMHN5WHJiQklRSWQxUWo1a3pHdEJabXVyUDFXTFZWWWl6ckxMenJySTJCUTdfYU5YVmRlekRzZS04WUNxVkZnSTNnYjhhakxqRi1VdUZYWTZxU3RPZEJOekhVM3ZBRUpTSXdiQnZRMlRoeGI0VzdwZkdoc3NTSDhCZw?oc=5)
+來源：[welt.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSVdOdXJZeFlBNHVkNkM0aE9XN2JzQ3ZRMUM0ZTlOTFZiTlBtSmt2aHdwMF90TjNaRlBEaFdVcjlwRUJzR1JLNHpQUnlLdE9EcFV4N0FEU1pabENQRUp5X0xRMHN5WHJiQklRSWQxUWo1a3pHdEJabXVyUDFXTFZWWWl6ckxMenJySTJCUTdfYU5YVmRlekRzZS04WUNxVkZnSTNnYjhhakxqRi1VdUZYWTZxU3RPZEJOekhVM3ZBRUpTSXdiQnZRMlRoeGI0VzdwZkdoc3NTSDhCZw?oc=5)
 
 ---
 
@@ -69,6 +77,22 @@ permalink: /news/multiple-sclerosis/
 2026-04-30
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekVpYXBHbE43RERwVExjNU1RNE1hSzJZbl92TjIyYVZJN1NoVjVTTHlqcDhVcGRWakJmQmtrS01JZFVfXzhzdlJwekNndHExamVDWjdudFAzUFl1dlBoWXRRUjBrUm1RZGlLSTFQdVFBa1pOX19DMkFRVWZ0MVdFeFVaTW9jQkdCNHUzX0hMYk1VcExHcWJDS3RWTWx2UkJZdlhLUzJMXzlZclJIMG9jclBxQXd0aDhTQ2Q3ZF9vN01BWDM2X2hMMVZkMDNkSS1NN1hPd0NUaDJXU2c2M3gw?oc=5)
+
+---
+
+### [Künstliche Intelligenz in der Pathologie ermöglicht tieferes Verständnis von Tumorerkrankungen - Universität zu Köln](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUnlMZWpBbjQzTExZSWtPZWMtaklzemd2aS1ta3dZaWhGdldBWnp2VUh3QWNNUmx0a2N4ZFVSbl9wOEFselpmdDhFYnFiSUQtcXhsMFVXd2RxS2RYM2dBVmJkNXg5NDdfWlgyZW1jd0wyWUVOeTYwY2NSeW85RDJSX2xONkxtOGN6VmdkNk41d0c5ZkdQVTUzU0FucGVFbFZ4enRIZ3VndXBkRFFlSWp6YlJBdno4bkZncUJGWE80Wjc2bWJBNTFveG51emFWazJkUm5XVmVuSTZkdlRTU0JYRkk5TnY5R0J2UEpxWWVISUVDSFJwMHBCSmpR?oc=5)
+
+2026-04-30
+
+來源：[Universität zu Köln](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUnlMZWpBbjQzTExZSWtPZWMtaklzemd2aS1ta3dZaWhGdldBWnp2VUh3QWNNUmx0a2N4ZFVSbl9wOEFselpmdDhFYnFiSUQtcXhsMFVXd2RxS2RYM2dBVmJkNXg5NDdfWlgyZW1jd0wyWUVOeTYwY2NSeW85RDJSX2xONkxtOGN6VmdkNk41d0c5ZkdQVTUzU0FucGVFbFZ4enRIZ3VndXBkRFFlSWp6YlJBdno4bkZncUJGWE80Wjc2bWJBNTFveG51emFWazJkUm5XVmVuSTZkdlRTU0JYRkk5TnY5R0J2UEpxWWVISUVDSFJwMHBCSmpR?oc=5)
+
+---
+
+### [Rivoluzione nel Dna, non è inaccessibile come si credeva](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaG1KZzVReUtrQUdFNHNHcG00aThLMWgwWXRYQ1Z2N0czRUhYNEdHelkzU2NDWTRaQl9LV1N0Rm5uYlF2V0RsWEdzTEVDN2RrY2Q4Y1h2X3gtU0JDbm9ZSGhOd0RmRVB1eUdNY3RkMU91aEVYNmN0M3d2UkxIbnc2elNGNF9XaHMzcnRmRENLZ1J3Y1hTemFrclVoN3o0TW5UQWQ0MVA1cmZEVm5Id3M3QkVfcWhkdUpFTWlIV0VNRkF4Zmkyb2hrTE05a1FteXFERER1V0dBOHNBUG5Ldm8wZXBreFRhWVBjNHdUdDBic3nSAfYBQVVfeXFMTWpQUFBfMGpXQXFBaUNLLWVndmN0dFdrRG5HaUFTcU5yU2ZQaV9kM0xSSXBkdFl6RzBBb0lydWdwNnJFSTJtWTlSSDNTVExhdWpGTTFHTi1PR0hXdjhiMUF2aGJPRTFJYUZITTFZQVM3RUtIVWlOZ0FUOHRwRkhHdkJTNXRYYTlaSi15Q0c0NEU3U3Vab3ltU1lrNS01QzBhYndJYVd5c1B3amxOUTVjajh3TXBnMXFXYUQwazJyUTU4RVd6YnR1MXlKWWY5WUFzMF9xTU42emQ3XzF2aUgwSTVlZW90czlsekZIQ0d3cGNZYkswWGVn?oc=5)
+
+2026-04-30
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaG1KZzVReUtrQUdFNHNHcG00aThLMWgwWXRYQ1Z2N0czRUhYNEdHelkzU2NDWTRaQl9LV1N0Rm5uYlF2V0RsWEdzTEVDN2RrY2Q4Y1h2X3gtU0JDbm9ZSGhOd0RmRVB1eUdNY3RkMU91aEVYNmN0M3d2UkxIbnc2elNGNF9XaHMzcnRmRENLZ1J3Y1hTemFrclVoN3o0TW5UQWQ0MVA1cmZEVm5Id3M3QkVfcWhkdUpFTWlIV0VNRkF4Zmkyb2hrTE05a1FteXFERER1V0dBOHNBUG5Ldm8wZXBreFRhWVBjNHdUdDBic3nSAfYBQVVfeXFMTWpQUFBfMGpXQXFBaUNLLWVndmN0dFdrRG5HaUFTcU5yU2ZQaV9kM0xSSXBkdFl6RzBBb0lydWdwNnJFSTJtWTlSSDNTVExhdWpGTTFHTi1PR0hXdjhiMUF2aGJPRTFJYUZITTFZQVM3RUtIVWlOZ0FUOHRwRkhHdkJTNXRYYTlaSi15Q0c0NEU3U3Vab3ltU1lrNS01QzBhYndJYVd5c1B3amxOUTVjajh3TXBnMXFXYUQwazJyUTU4RVd6YnR1MXlKWWY5WUFzMF9xTU42emQ3XzF2aUgwSTVlZW90czlsekZIQ0d3cGNZYkswWGVn?oc=5)
 
 ---
 
@@ -96,14 +120,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [La esclerosis múltiple evoluciona hacia un abordaje integral que va más allá de los síntomas visibles](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUx1dW1hcHh6dUZIQUp4c2pVVUxkbXFUN1ZyVFZvVU1vSUxNRmNadFVYQWhsVHlvclhjVk5vcUp3TmFTazFGSXRGYjZsN01jMzhHaU1acFBERllyS1ljMFd6d25rZkVXSVpSUkxoTVUtZFQxckVLZV9KWThvVmNVRXo5ZFFFRXBLUjhWNXZ6RnhSTmJ0cUMzN0huN3J5MzFwNFpjejFLY19wRzF3V2VNRDlkNGhyQWdFQ0N3dWR5WFR3LU5GRXAzeWdWUE93RXh3NFhqOHBxNVhuZ9IB3wFBVV95cUxONV9fcWZUcDJKdUhnWWY4M0pFaE1zNWo3Vm1VdnhWVllXTS1XUkR6ZnV4WXVpbDI5bmw0ZnhiTnpPdXZzLV85OFYzNUZNb2toZ0dLWmREcEJGdE5URDJRZHlMUWFoSzhBajE5M1JiazlsMlRrWG9nLWdLVDFlbVFaMGc1anlpYUZZTXc0THR3Y3E4ejVzRk8wZU5FUzZhR1k1VC1CY2RpazZ5QWN2WVVmRFJveFN3MFg5RGhwWFlYdW1RRXJtZ29fTy1LQmp6X2pFdVhra3BZZmZmYU9ST09R?oc=5)
-
-2026-04-30
-
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUx1dW1hcHh6dUZIQUp4c2pVVUxkbXFUN1ZyVFZvVU1vSUxNRmNadFVYQWhsVHlvclhjVk5vcUp3TmFTazFGSXRGYjZsN01jMzhHaU1acFBERllyS1ljMFd6d25rZkVXSVpSUkxoTVUtZFQxckVLZV9KWThvVmNVRXo5ZFFFRXBLUjhWNXZ6RnhSTmJ0cUMzN0huN3J5MzFwNFpjejFLY19wRzF3V2VNRDlkNGhyQWdFQ0N3dWR5WFR3LU5GRXAzeWdWUE93RXh3NFhqOHBxNVhuZ9IB3wFBVV95cUxONV9fcWZUcDJKdUhnWWY4M0pFaE1zNWo3Vm1VdnhWVllXTS1XUkR6ZnV4WXVpbDI5bmw0ZnhiTnpPdXZzLV85OFYzNUZNb2toZ0dLWmREcEJGdE5URDJRZHlMUWFoSzhBajE5M1JiazlsMlRrWG9nLWdLVDFlbVFaMGc1anlpYUZZTXc0THR3Y3E4ejVzRk8wZU5FUzZhR1k1VC1CY2RpazZ5QWN2WVVmRFJveFN3MFg5RGhwWFlYdW1RRXJtZ29fTy1LQmp6X2pFdVhra3BZZmZmYU9ST09R?oc=5)
-
----
-
 ### [Raise tax on alcohol and junk food to cut deaths from liver disease, experts say - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxqQ2lSeEl2eWFDQ3hDS1VVdW03NWlLUFRvNUJ2NjdVOUJiOWd5cF9iRHVuRzdPdy1NUTRzRjFlQVhBQlZySXdleGQzM1M2VnhlZEFlTHVQZVlFSWdPbkV4RlV1ODRGTU5lWVk0bWs5QTZCWUJhUTMyTmJtZnlJbTlqM3Utb0V4TnpIb0dyTXg4R2pqeFE1dC00cFZFTGRY?oc=5)
 
 2026-04-30
@@ -112,19 +128,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Offering tests after first baby loss could prevent 10,000 miscarriages a year, study claims - Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFBmbHFvMlZQcHlfT3VrS0Nka2pmNkVGa3MxTjdqMlkwb0RxUThuM3BFVVV6U0JiZV9wdHZ4WE1HSnBsVVRvbFgtYUFEUWlMNkdtdWhnaFpuQkNqc29fanBISXZueFZveDd4WnVHVDBUVG1GanRuT2JZeXJSVThSNXd5OWxVQVVyVlFKYkcxZVN1OU5VRFVHOEVIejR6Q3c?oc=5)
-
-2026-04-29
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFBmbHFvMlZQcHlfT3VrS0Nka2pmNkVGa3MxTjdqMlkwb0RxUThuM3BFVVV6U0JiZV9wdHZ4WE1HSnBsVVRvbFgtYUFEUWlMNkdtdWhnaFpuQkNqc29fanBISXZueFZveDd4WnVHVDBUVG1GanRuT2JZeXJSVThSNXd5OWxVQVVyVlFKYkcxZVN1OU5VRFVHOEVIejR6Q3c?oc=5)
-
----
-
 ### [Santé. Sclérose en plaques : pourquoi elle touche de plus en plus de gens après 50 ans ? - Le Progrès](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGZYbzdiZERNM1IxaUozNjNKUmZCZGpLN1NfZGRhMXRUZ09oUkszMXdJNlBWdmV4OHVoQUh4YWNhUGszdEFNRzRBaWUtNEV5WGRKYmtMWjJjdUdLbnVHam9TV0NUcDJ6elhDc0VGU3VMVUJOTUFoN0QtUWlKSXFpXzRiclJOSHp4QWo0RHJRaU4yNThOX2k2RTlCWGlpVUZjd05hY3g3em5XeGo4ZE56czZjTnhsWHUtSlV1cDlCcEJCOHlIQnE4?oc=5)
 
 2026-04-29
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGZYbzdiZERNM1IxaUozNjNKUmZCZGpLN1NfZGRhMXRUZ09oUkszMXdJNlBWdmV4OHVoQUh4YWNhUGszdEFNRzRBaWUtNEV5WGRKYmtMWjJjdUdLbnVHam9TV0NUcDJ6elhDc0VGU3VMVUJOTUFoN0QtUWlKSXFpXzRiclJOSHp4QWo0RHJRaU4yNThOX2k2RTlCWGlpVUZjd05hY3g3em5XeGo4ZE56czZjTnhsWHUtSlV1cDlCcEJCOHlIQnE4?oc=5)
+
+---
+
+### [This one nutrient could be the key to better sleep and lower blood pressure, say doctors - Good Housekeeping](https://news.google.com/rss/articles/CBMihgFBVV95cUxOemFpVGw4R056Qk9sLWJpZWtaeXBHT2xHMjQ0MTVXbEZiZFRHd0dwVFFSYWlyeFFfNGZEWTRBM1ZuQzl3X1c1ekJKd3QyYXlTck9YTVlQYXo3ZVFla25pREVrOXRwRkVDNmFPRnQ1OUlBbnhzRUtYRUxRRHRyNTh0NDhqcmFVQQ?oc=5)
+
+2026-04-29
+
+來源：[Good Housekeeping](https://news.google.com/rss/articles/CBMihgFBVV95cUxOemFpVGw4R056Qk9sLWJpZWtaeXBHT2xHMjQ0MTVXbEZiZFRHd0dwVFFSYWlyeFFfNGZEWTRBM1ZuQzl3X1c1ekJKd3QyYXlTck9YTVlQYXo3ZVFla25pREVrOXRwRkVDNmFPRnQ1OUlBbnhzRUtYRUxRRHRyNTh0NDhqcmFVQQ?oc=5)
 
 ---
 
@@ -160,11 +176,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### ['My whirlwind daughter is now in remission', Leicestershire mum says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TRk9ENUJpWk5UQVpnZllKQ2ZfdTRzeWJXNVFkbjhjZHpabUVQMmJOYkY3Q1dwZFZfbms1cEg2QjFoT3lRamlLZWRMaFNVNlktc3NJamhwZnhVRDJr?oc=5)
+### [Earlier specialised care could prevent 10,000 miscarriages a year, UK study finds - The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmlkS0FzT2dtZXFNUHNTUWtnWk44amtKcDVKTm5RVHVXWTl4T2xaVU5BUzU5Y1Ztc1BzaWtGdmZZMC1FaXBWNGFfME5sbFlpcFZsOFBQWHE4anZCNHhBUmpaeDhlR1hLQWpLQXlUS3Q1WFVaN1FKUmItMmsweTVUbV9rbFU0a2d3cDI2Vy12MllWb1FWemUtTQ?oc=5)
 
 2026-04-29
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TRk9ENUJpWk5UQVpnZllKQ2ZfdTRzeWJXNVFkbjhjZHpabUVQMmJOYkY3Q1dwZFZfbms1cEg2QjFoT3lRamlLZWRMaFNVNlktc3NJamhwZnhVRDJr?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmlkS0FzT2dtZXFNUHNTUWtnWk44amtKcDVKTm5RVHVXWTl4T2xaVU5BUzU5Y1Ztc1BzaWtGdmZZMC1FaXBWNGFfME5sbFlpcFZsOFBQWHE4anZCNHhBUmpaeDhlR1hLQWpLQXlUS3Q1WFVaN1FKUmItMmsweTVUbV9rbFU0a2d3cDI2Vy12MllWb1FWemUtTQ?oc=5)
 
 ---
 

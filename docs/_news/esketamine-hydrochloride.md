@@ -54,11 +54,11 @@ permalink: /news/esketamine-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [La obesidad afecta ya a una cuarta parte de la población en España y los expertos alertan de su aumento - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
+### [Depressione resistente: un esame scoperto a Udine può rivoluzionarne la cura](https://news.google.com/rss/articles/CBMie0FVX3lxTE84UGtGVDg3WG9QRE5RbWE2OXQ1TDZRQ3lNVEVlcUtIVTBfQkwtUVJyUEdYbXdZTVI3LUFfaF85eUs3WGRIemt1QktXb2EwU2RpYTN2N3l1amZvMDhQMy00RjM4Q0w3N3NBMldxZGpGR09SYXR1RTJpZjRBZw?oc=5)
 
-2026-04-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-04-29 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
+來源：[UdineToday](https://news.google.com/rss/articles/CBMie0FVX3lxTE84UGtGVDg3WG9QRE5RbWE2OXQ1TDZRQ3lNVEVlcUtIVTBfQkwtUVJyUEdYbXdZTVI3LUFfaF85eUs3WGRIemt1QktXb2EwU2RpYTN2N3l1amZvMDhQMy00RjM4Q0w3N3NBMldxZGpGR09SYXR1RTJpZjRBZw?oc=5)
 
 ---
 
