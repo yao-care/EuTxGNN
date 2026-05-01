@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,29 +39,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Niveles altos de ácido úrico se asocian a mayor riesgo cardiovascular en mujeres mayores de 50 - 65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
+
+2026-05-01
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
+
+---
 
 ### ['I had a stroke at the weekend so didn't get a thrombectomy'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbi1DY1daTlE1cWNmU0tJMnlqVFNtZDFMZW40cF80ejBPbkR3ZUJaMS05UEtqYlNzZHlXdXo4aHRqUEVLWE9jaHpsVUlQRVgtYURYTkNFaUlrVDF4?oc=5)
 
 2026-04-30
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbi1DY1daTlE1cWNmU0tJMnlqVFNtZDFMZW40cF80ejBPbkR3ZUJaMS05UEtqYlNzZHlXdXo4aHRqUEVLWE9jaHpsVUlQRVgtYURYTkNFaUlrVDF4?oc=5)
-
----
-
-### [El ácido úrico alto se vincula a más riesgo de ictus o infarto en mujeres de más de 50 años](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
-
-2026-04-29
-
-來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUROa2pBOEhseGk4Wlowc05MYmlPWDNFVVltUkZNdi1SanVXNWFPWDJCdXdyclN4YktnUmVXR2ktTGhKMHlOcGRfdFFNTzItNXZlcU5kLUNCczBRa3dDQ3NzV21mTWJsVmF6eTJhSExZZkpKMGJ1WnNMT2FXNDBOeUV2OUw2bWJYNDRhMjFWYXdHb2N3OElUODl0QdIBmwFBVV95cUxPd01ScVMwdTlUUUk1UWZXdTlmc3BCSmI1c2VWYU81a0JHbTVPRU9LZ3Y2RElWSFBRekpPRFVYWHRIcmQ1MWRfbS1OVHFhSUdsY1BnejNETHlsbTA0aUUtYnBfZ0ZHSWJXc01qRkhsazVDWXdaTnhXWEdEQXduWV81ZFAxQkFHZnRCNHFpZl9DeGdxbzFLTzEzQjRkVQ?oc=5)
-
----
-
-### [Tipps aus Mönchengladbach: So kann das Risiko für einen Schlaganfall gesenkt werden - RP Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkp3clJQWU9EU1RiTWd3SVZ1elhLUFBUY0FYRDJfVjVNc25mX3RkdWNZRHR5YzJ4eUNWUXdSYS12UGZ0TjhSNlRZQno3UGxCbHRzTEdKZGxsRE44UXg3dHRvOHFfdC0yR0ZGdmI5UzFvNVdyUGJEZ0JxOTRDMlBRTkliODFvanpwTk56cXFQVVU0bndKZXJqTXNFeExoVUtSU0hkU3p3SThuY2ZjVXRSX0Vn?oc=5)
-
-2026-04-29
-
-來源：[RP Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkp3clJQWU9EU1RiTWd3SVZ1elhLUFBUY0FYRDJfVjVNc25mX3RkdWNZRHR5YzJ4eUNWUXdSYS12UGZ0TjhSNlRZQno3UGxCbHRzTEdKZGxsRE44UXg3dHRvOHFfdC0yR0ZGdmI5UzFvNVdyUGJEZ0JxOTRDMlBRTkliODFvanpwTk56cXFQVVU0bndKZXJqTXNFeExoVUtSU0hkU3p3SThuY2ZjVXRSX0Vn?oc=5)
 
 ---
 

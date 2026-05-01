@@ -14,7 +14,7 @@ permalink: /news/elvitegravir/
 ---
 
 <p class="key-answer" data-question="Elvitegravir 有什麼相關新聞？">
-<strong>Elvitegravir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elvitegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/elvitegravir/
 <p><a href="{{ '/drugs/elvitegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Caen las infecciones de hepatitis B y las muertes por hepatitis C, según el nuevo informe de la OMS](https://news.google.com/rss/articles/CBMi7wFBVV95cUxONk14TjBNdmNjLVpGeEkwNGlCQWZQdWU3Ym5TSWpvWTl1LVdJUFdIbWlmWEc0SHZmZ3lyby1POWJkQ25tekxTMXhWMWxuNE9aR1ZCR3VRc2pOMnFWdUk5X19LbGp1b1ZTM2NhLWhXTU1faU14azlMRHpGdnI1Sy15TW1aRlcta0JyZzRQazd3NU4xZi10cWhEdFJLaXNPdnVVOHlfWHlwY0pGLW1lYXBBZjc0MHZRdF9COGVrNllXMmhXWXVBXy04WHRLZ0ZBQTB4Nl9aMTBfaDZOQnlpZm1QSDNGQXNQRGFwcC0zc0Vub9IB7wFBVV95cUxON0RLbkxpeHZ3aWc5eEcyZ2NsSDdNVW9YU2RfR0prTXMwVk81TDFxZGFyTlhLeHE1bUxkRVVqeHN6b3dXa05YMDVQdDIxZ0U2NFZvYW1hVnluM1FnSW11VkpCS3o4M0RKT0VYR0hPSDFuQnV0NzRuNnVKR3JJQ1Bsdk5iT3dwcG42UFFjcV91ODJDVnR5a0J0YW1YZHNvakNlUkJaa0lMVjdNd1FSN3o3WTdxS1duUWdQVjJlZExTVlBmNThMLUxpclZnMHkwM0txM1p3c0JPaEJXYWpjTU82bFByWHM4Q1B6TGhxWVp3UQ?oc=5)
+### [Des lauriers pour une méthode de restauration des fonctions cognitives développée en Suisse romande](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 
-2026-04-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+2026-04-30 <span class="news-indication-tag">hépatite</span> <span class="news-indication-tag">AF</span>
 
-來源：[LaSexta](https://news.google.com/rss/articles/CBMi7wFBVV95cUxONk14TjBNdmNjLVpGeEkwNGlCQWZQdWU3Ym5TSWpvWTl1LVdJUFdIbWlmWEc0SHZmZ3lyby1POWJkQ25tekxTMXhWMWxuNE9aR1ZCR3VRc2pOMnFWdUk5X19LbGp1b1ZTM2NhLWhXTU1faU14azlMRHpGdnI1Sy15TW1aRlcta0JyZzRQazd3NU4xZi10cWhEdFJLaXNPdnVVOHlfWHlwY0pGLW1lYXBBZjc0MHZRdF9COGVrNllXMmhXWXVBXy04WHRLZ0ZBQTB4Nl9aMTBfaDZOQnlpZm1QSDNGQXNQRGFwcC0zc0Vub9IB7wFBVV95cUxON0RLbkxpeHZ3aWc5eEcyZ2NsSDdNVW9YU2RfR0prTXMwVk81TDFxZGFyTlhLeHE1bUxkRVVqeHN6b3dXa05YMDVQdDIxZ0U2NFZvYW1hVnluM1FnSW11VkpCS3o4M0RKT0VYR0hPSDFuQnV0NzRuNnVKR3JJQ1Bsdk5iT3dwcG42UFFjcV91ODJDVnR5a0J0YW1YZHNvakNlUkJaa0lMVjdNd1FSN3o3WTdxS1duUWdQVjJlZExTVlBmNThMLUxpclZnMHkwM0txM1p3c0JPaEJXYWpjTU82bFByWHM4Q1B6TGhxWVp3UQ?oc=5)
-
----
-
-### [Auch bei chronischer Hepatitis B gibt das Immunsystem nicht auf - smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmh5bXVxUUhvSkJNUEZCb2lOU1dQUmg2bjRKdlpBTEFyd3lVejY5MzIxQ25CYThVa1ljVUdiSTFWUmpndFNUUVljOU5LTGM3LWEzZGc3NWo0eDE1Yk1ndUVmUmlZWW5HWldma3A4U3pSTDZQQndldEpjUzdLblQ5WUdacGNrMkR2WGVLQ3QyS092UzFKQ0tNbmI3Y0xQam5w?oc=5)
-
-2026-04-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQmh5bXVxUUhvSkJNUEZCb2lOU1dQUmg2bjRKdlpBTEFyd3lVejY5MzIxQ25CYThVa1ljVUdiSTFWUmpndFNUUVljOU5LTGM3LWEzZGc3NWo0eDE1Yk1ndUVmUmlZWW5HWldma3A4U3pSTDZQQndldEpjUzdLblQ5WUdacGNrMkR2WGVLQ3QyS092UzFKQ0tNbmI3Y0xQam5w?oc=5)
+來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 
 ---
 

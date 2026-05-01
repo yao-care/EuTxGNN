@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Apoteca Natura impulsa el cribado de la hipertensión en España con la campaña internacional May Measure Month - Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
+
+2026-04-30 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
+
+---
 
 ### ['Turning back the years' 82p-a-day product people say are 'minimizing wrinkles' - The Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="Idebenone 有什麼相關新聞？">
-<strong>Idebenone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idebenone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/idebenone/
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Apoteca Natura impulsa el cribado de la hipertensión en España con la campaña internacional May Measure Month - Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
+
+2026-04-30 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
+
+---
 
 
 <div class="disclaimer">

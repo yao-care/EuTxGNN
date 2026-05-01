@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li>heart disease（96.3%）</li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart failure</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,7 +52,15 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### ['I thought I was having a panic attack but it was heart failure' - Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
+
+2026-04-30 <span class="news-indication-tag">heart failure</span>
+
+來源：[Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
+
+---
 
 ### ['Turning back the years' 82p-a-day product people say are 'minimizing wrinkles' - The Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
 

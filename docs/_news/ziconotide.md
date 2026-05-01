@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Semaglutida, obesidad y consumo de alcohol - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQXFjMUJmMlVPZDFJOVl0NEFEZ21ZbHlQdC1wUUYxNmt1RWRZSUZTQzZHRVFtRGlPUy1CcmRMVTE1alJzb3RNb2pYd1F6WWg2NGpENklVcWJoNHZmSV82dUJMMGQ3bDZmZTVfRUNkenVLSl80Q2g2djlRb0ZxZllXaE1XcF9fWW01V1pOcUU2bDhYYU15RjYxd1ozSE1WbVhzWmZDRjlFWHRCbmh1QnF3T2JlWlJjUDdBNnN3TklJcGxCY1ZUdVBjWA?oc=5)
+### [Los populares medicamentos para adelgazar reducen el consumo excesivo de alcohol, según un estudio danés](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajlrMWVKeTNTWGN2b0hJWE94bEVvVUc3U3BxMVhvS3lYSmpEdnlOdjBIbTh5SF9EZFRIZmdKUnNrR0phcldnOUJFT3p1eGd4SmpmdlpMbEptN1IwRFJOTkt0S1Bwb3U0dllQTFZJTHpJVjVFT0VVaER3c3J6ZDdtYW1TTS12VTA4WnhCSnY1M2ZwTjBfdXpVbkt5N3FVdTJ2RGRsdDk2Q1E5bmF1MnN5VWIxeXhkVGFGUnZNSEJYdk9XT09JUWJkMg?oc=5)
 
-2026-04-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-05-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQXFjMUJmMlVPZDFJOVl0NEFEZ21ZbHlQdC1wUUYxNmt1RWRZSUZTQzZHRVFtRGlPUy1CcmRMVTE1alJzb3RNb2pYd1F6WWg2NGpENklVcWJoNHZmSV82dUJMMGQ3bDZmZTVfRUNkenVLSl80Q2g2djlRb0ZxZllXaE1XcF9fWW01V1pOcUU2bDhYYU15RjYxd1ozSE1WbVhzWmZDRjlFWHRCbmh1QnF3T2JlWlJjUDdBNnN3TklJcGxCY1ZUdVBjWA?oc=5)
+來源：[Euractiv.es](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajlrMWVKeTNTWGN2b0hJWE94bEVvVUc3U3BxMVhvS3lYSmpEdnlOdjBIbTh5SF9EZFRIZmdKUnNrR0phcldnOUJFT3p1eGd4SmpmdlpMbEptN1IwRFJOTkt0S1Bwb3U0dllQTFZJTHpJVjVFT0VVaER3c3J6ZDdtYW1TTS12VTA4WnhCSnY1M2ZwTjBfdXpVbkt5N3FVdTJ2RGRsdDk2Q1E5bmF1MnN5VWIxeXhkVGFGUnZNSEJYdk9XT09JUWJkMg?oc=5)
+
+---
+
+### [How healthy is your plant milk — is it time to go back to dairy? - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTZjWXB5c2hKRHZPRkptakh1ZnhYc0ViR3p4cWpmSTNrTFlOejhuRVlkVi1IVTF2M2dZNHczUXV6d2RWdk5lX1pLcXREWmV5X2t4aUx1Nm1ZZWtKbUY3STg5aktmdUVWUjhVNmNhYnJ0bXNNMHF6OGhwOUJmR0VWWHdjSXNoalpvT3labHhwdUVGM3JP?oc=5)
+
+2026-04-30 <span class="news-indication-tag">obesity</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTZjWXB5c2hKRHZPRkptakh1ZnhYc0ViR3p4cWpmSTNrTFlOejhuRVlkVi1IVTF2M2dZNHczUXV6d2RWdk5lX1pLcXREWmV5X2t4aUx1Nm1ZZWtKbUY3STg5aktmdUVWUjhVNmNhYnJ0bXNNMHF6OGhwOUJmR0VWWHdjSXNoalpvT3labHhwdUVGM3JP?oc=5)
 
 ---
 
@@ -94,11 +102,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Dairy-free milks ‘risk obesity and malnutrition in children’ - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPb01sRkxfUGZLSnB6YWlQblFWQThqZ3NoQjhnSjhQUEFHc0dtd1VvMUJnSnZZOGJZQmkxQWtLSTF4THdISjF5T3pHWldxLWRfOThwLWJZVDJ5TWZJYnZxS0F6dWtfVlNfbTZCSXc3TnpzdVQ4dkM0NkU4a2hFSkxZbE5wVmFnTVFOUVp1c2VpSy0tWXM?oc=5)
+### [La obesidad afecta ya a una cuarta parte de la población en España y los expertos alertan de su aumento - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
 
-2026-04-29 <span class="news-indication-tag">obesity</span>
+2026-04-29 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPb01sRkxfUGZLSnB6YWlQblFWQThqZ3NoQjhnSjhQUEFHc0dtd1VvMUJnSnZZOGJZQmkxQWtLSTF4THdISjF5T3pHWldxLWRfOThwLWJZVDJ5TWZJYnZxS0F6dWtfVlNfbTZCSXc3TnpzdVQ4dkM0NkU4a2hFSkxZbE5wVmFnTVFOUVp1c2VpSy0tWXM?oc=5)
+來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWk3MHh4V09oVlZjbkR0YnUxMi1lck9aUDBuS1B0WEhMR3lUcU83eUZoVFVEOERya0h1bXpHOXVGY1JxMl9FSGtLdnRmcDhpcEFQWHAtalMyRGVEcDFSQURqYjVFM0MzUTVXNXg1YzhiV19FcGh0RUN4cmoxcS1iTGNYSWZNSDA0TjRoVlFPMUN2NjViNTdNQmppY0pvOFhod1pXX2VfeGJHcGw2cEVjRDNOeG8yeHJtdGlIZUVNSFE4WkQ5cGJKQWNoNWNsWU93M3c?oc=5)
 
 ---
 
