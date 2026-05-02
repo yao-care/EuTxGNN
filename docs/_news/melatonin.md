@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Síndrome metabólico, hígado graso y relación con cáncer de vías biliares - Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+
+2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+
+---
+
+### [Los fármacos para la obesidad logran reducir los días de consumo excesivo de bebidas alcohólicas - La Voz de Galicia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLUNhajZQa1Brc0hxeHRlTll0MGxuNXBnS3hyTnZyT3hHVVhuc2dMWVJLTjRXck1mQndnZnNZOXR4TEN3czVWQzgtWm04QlE0bkF3cXVFTjlOVC02RXE0czZsbVFrU0QxU0xuNGhuS0JMbmpHck5DZFlWVk8zTS1XRXlwQVZEdmU0RmJJSk0tcnZjQUZocU1zSV9BYXJZeVpPbzlFY2g3WENITUJ6NDlSTVZHdFBaT1dtWnN6RldqLVlCaU5hbDhWVWFPcE9vZlpBek92NFZSeUdtdFF6ejBwMHpR0gH-AUFVX3lxTE4zMkY2WGZxbHFFeUc0TTZjVVFoNlZKYl9jT0IzVzBja09CRlo3dDRpZ2RjNWpaZGZZV3h5S050Y0c3OVFCZE1aVDBDYlRQZGd5VGtYUW9yVHJGaWNnUzlhMm1kUm1OcGJmelVKU0ZLbk55XzRtVzFvQXRlUnhmSS1YYWZsRllpR0s3QThKRTNnOHowYzRZcU83aUxPZVBFNDNHUzZVQV9tVWZHdEZya0ZZMGw2Z0pZOEhmMDNNMzduUTVyaWZjc2ZnZ1FUSk5ZaUdTcHdEaVVVR1NBbW1CTy0zQ0FoUlNhaXZPay1zWkU5bVpwS0tGdUNUVkZndWRB?oc=5)
+
+2026-05-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLUNhajZQa1Brc0hxeHRlTll0MGxuNXBnS3hyTnZyT3hHVVhuc2dMWVJLTjRXck1mQndnZnNZOXR4TEN3czVWQzgtWm04QlE0bkF3cXVFTjlOVC02RXE0czZsbVFrU0QxU0xuNGhuS0JMbmpHck5DZFlWVk8zTS1XRXlwQVZEdmU0RmJJSk0tcnZjQUZocU1zSV9BYXJZeVpPbzlFY2g3WENITUJ6NDlSTVZHdFBaT1dtWnN6RldqLVlCaU5hbDhWVWFPcE9vZlpBek92NFZSeUdtdFF6ejBwMHpR0gH-AUFVX3lxTE4zMkY2WGZxbHFFeUc0TTZjVVFoNlZKYl9jT0IzVzBja09CRlo3dDRpZ2RjNWpaZGZZV3h5S050Y0c3OVFCZE1aVDBDYlRQZGd5VGtYUW9yVHJGaWNnUzlhMm1kUm1OcGJmelVKU0ZLbk55XzRtVzFvQXRlUnhmSS1YYWZsRllpR0s3QThKRTNnOHowYzRZcU83aUxPZVBFNDNHUzZVQV9tVWZHdEZya0ZZMGw2Z0pZOEhmMDNNMzduUTVyaWZjc2ZnZ1FUSk5ZaUdTcHdEaVVVR1NBbW1CTy0zQ0FoUlNhaXZPay1zWkU5bVpwS0tGdUNUVkZndWRB?oc=5)
+
+---
 
 ### [La melatonina mejora el insomnio y revoluciona la salud capilar - La Razón](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRnhKZGVsbnFCVWZIY3hVSUZuSGxmZXNBRU1XbHNMMFJSTmE3anpYcFdsMk1xQUkybkhMRXREYXVTbjVEMC1sTFVwX3VxT1BaOFdkOHRBbDZoTE5TUDlxOWxReXRBSVBHRmNUT0cteDNKTXpIbFhVeXR1N3huQlNnbUxOUzVscFZLTHFjSTB4NmhwR0VxVTBadXgxSXVLdEVaVUd2eXkxb3NmUklLOWlaRlZSU1ZCbEZwRng40gHPAUFVX3lxTE1FLVMtS0VBVDZZQXpYWk1CaTBaZTBQWGVkQmVvVFI5NFJ3Y1E3d2hHT29RS1VHTUNJQWlqSnZsUG1BS3RIVVUwdTk0c0otQ053NXd5Z2VYU0dOTVBuZ3daRmlmaFZnNnhEMzlMbFQ0NGw2Q2czckhMOEpRMEI2UDFzUXcwdXJxa0VzdGFHc0kzcXdYZjRzNE10RTZ2QmZzUjFLc2wyczhISXM3UGN6akJaX1VVaXBfb1I1ZTVNYk51bWhod3A4YVNEc2ItLWRybw?oc=5)
 
 2026-05-01 <span class="news-drug-tag">Melatonin</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRnhKZGVsbnFCVWZIY3hVSUZuSGxmZXNBRU1XbHNMMFJSTmE3anpYcFdsMk1xQUkybkhMRXREYXVTbjVEMC1sTFVwX3VxT1BaOFdkOHRBbDZoTE5TUDlxOWxReXRBSVBHRmNUT0cteDNKTXpIbFhVeXR1N3huQlNnbUxOUzVscFZLTHFjSTB4NmhwR0VxVTBadXgxSXVLdEVaVUd2eXkxb3NmUklLOWlaRlZSU1ZCbEZwRng40gHPAUFVX3lxTE1FLVMtS0VBVDZZQXpYWk1CaTBaZTBQWGVkQmVvVFI5NFJ3Y1E3d2hHT29RS1VHTUNJQWlqSnZsUG1BS3RIVVUwdTk0c0otQ053NXd5Z2VYU0dOTVBuZ3daRmlmaFZnNnhEMzlMbFQ0NGw2Q2czckhMOEpRMEI2UDFzUXcwdXJxa0VzdGFHc0kzcXdYZjRzNE10RTZ2QmZzUjFLc2wyczhISXM3UGN6akJaX1VVaXBfb1I1ZTVNYk51bWhod3A4YVNEc2ItLWRybw?oc=5)
-
----
-
-### [Los populares medicamentos para adelgazar reducen el consumo excesivo de alcohol, según un estudio danés](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajlrMWVKeTNTWGN2b0hJWE94bEVvVUc3U3BxMVhvS3lYSmpEdnlOdjBIbTh5SF9EZFRIZmdKUnNrR0phcldnOUJFT3p1eGd4SmpmdlpMbEptN1IwRFJOTkt0S1Bwb3U0dllQTFZJTHpJVjVFT0VVaER3c3J6ZDdtYW1TTS12VTA4WnhCSnY1M2ZwTjBfdXpVbkt5N3FVdTJ2RGRsdDk2Q1E5bmF1MnN5VWIxeXhkVGFGUnZNSEJYdk9XT09JUWJkMg?oc=5)
-
-2026-05-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Euractiv.es](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajlrMWVKeTNTWGN2b0hJWE94bEVvVUc3U3BxMVhvS3lYSmpEdnlOdjBIbTh5SF9EZFRIZmdKUnNrR0phcldnOUJFT3p1eGd4SmpmdlpMbEptN1IwRFJOTkt0S1Bwb3U0dllQTFZJTHpJVjVFT0VVaER3c3J6ZDdtYW1TTS12VTA4WnhCSnY1M2ZwTjBfdXpVbkt5N3FVdTJ2RGRsdDk2Q1E5bmF1MnN5VWIxeXhkVGFGUnZNSEJYdk9XT09JUWJkMg?oc=5)
 
 ---
 

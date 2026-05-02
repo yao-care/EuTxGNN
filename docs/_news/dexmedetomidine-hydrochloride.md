@@ -54,11 +54,19 @@ permalink: /news/dexmedetomidine-hydrochloride/
 
 ## 相關新聞（5 則）
 
-### [Señales metabólicas años antes del embarazo predicen una posible hipertensión gestacional - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+### [Síndrome metabólico, hígado graso y relación con cáncer de vías biliares - Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
 
-2026-05-01 <span class="news-indication-tag">hipertensión</span>
+2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+
+---
+
+### [“Valori soglia dell’alta pressione sempre più bassi. Ma così crescono gli ipertesi a dismisura” - la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
+
+2026-05-01 <span class="news-indication-tag">ipertensione</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/dexmedetomidine-hydrochloride/
 2026-05-01 <span class="news-indication-tag">Migräne</span>
 
 來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
-
----
-
-### [Quando si è davvero ipertesi? Dalle linee guida alla vita di ogni giorno, a ognuno la sua risposta - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhKYkZhOWFjLWJnTTZKSUVGOTRxX1ZzWU1IZDlHYVZKM0dnakd4YjVmTjU5dFZMRlFzZzh4eGo5SFJUZTB3Yno1RGNaYlBxdXkxVS1NSnpBcjlmUWNEQXhPODhmZjREbGxHWVpNZVhCMm9oLXdLNWhRMnNySzVMY2NmbS1KTFpNdmNkTzluNFZxaFZHRTRnMEhXTTZfdTY0RVFBRG5VSUtsalZRTnBNZWVlZkNUeE5KeFE?oc=5)
-
-2026-04-30 <span class="news-indication-tag">ipertensione</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhKYkZhOWFjLWJnTTZKSUVGOTRxX1ZzWU1IZDlHYVZKM0dnakd4YjVmTjU5dFZMRlFzZzh4eGo5SFJUZTB3Yno1RGNaYlBxdXkxVS1NSnpBcjlmUWNEQXhPODhmZjREbGxHWVpNZVhCMm9oLXdLNWhRMnNySzVMY2NmbS1KTFpNdmNkTzluNFZxaFZHRTRnMEhXTTZfdTY0RVFBRG5VSUtsalZRTnBNZWVlZkNUeE5KeFE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Síndrome metabólico, hígado graso y relación con cáncer de vías biliares - Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+
+2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+
+---
 
 ### [Studie zeigt, warum Abnehmen nicht jeden vor Diabetes schützt](https://news.google.com/rss/articles/CBMiugFBVV95cUxOME9wdVloaDgxRlJRbHZTcGNvTHlVVTJtb0dlWC1zRVJpcm1SYlRJWmQ4dno5WGluOGJyMkdMRTJycWo4V1dUQW9qSnNJaG04OGFzWVpOTzFtQWRJaDVvUmJzdE9FNEh3Z2lPWXkxWDZvUXZraEdROFV3LXNIMFhnd0gxdVF0Z0M0dHVuYWVzUmdOcHhuTXl6bEFrNDNpeVk0MkhnNjg5SDYwWjlBWktGYUVpTHVJYjNCMkE?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/metformin/
 
 ---
 
-### [Anyone taking Metformin given warning over B12 side effect - but potential benefits - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnViOE45blJEZVVPc3N6ZjVwNkxUQnQ4b0N0ZUw0eVpMLS03d0VGVEFQTWw0UzI5RkZIZDU5NWx3eDctUDZmaEt3NWhkSGNERlo2OXFuUmtNZWhxYi1fdVgyQjJhRWlPZFplbERqWHZZV2ZzQ3dORVlHM2FkRG5RYkp6UlZJdGc1SGtJ0gGQAUFVX3lxTE9jVlV0ZUFtNkVOR3UxZlduSTNCX1lwWTRvUjdjeUdfRi1mVjdtOWNVQW5SUFk5Vm9nVERsVmw3dGJqcDNXLUNBZ21odHBhem8zbkRZMElETmRyaDVQWUg0VEhSQ1RGUElRZWZCck1OWjFmSklBakNWNUMzQTRKajV0dU5WT3drR0I2aU9fOHFKOA?oc=5)
+### [Anyone taking Metformin given warning over B12 side effect - but potential benefits](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnViOE45blJEZVVPc3N6ZjVwNkxUQnQ4b0N0ZUw0eVpMLS03d0VGVEFQTWw0UzI5RkZIZDU5NWx3eDctUDZmaEt3NWhkSGNERlo2OXFuUmtNZWhxYi1fdVgyQjJhRWlPZFplbERqWHZZV2ZzQ3dORVlHM2FkRG5RYkp6UlZJdGc1SGtJ0gGQAUFVX3lxTE9jVlV0ZUFtNkVOR3UxZlduSTNCX1lwWTRvUjdjeUdfRi1mVjdtOWNVQW5SUFk5Vm9nVERsVmw3dGJqcDNXLUNBZ21odHBhem8zbkRZMElETmRyaDVQWUg0VEhSQ1RGUElRZWZCck1OWjFmSklBakNWNUMzQTRKajV0dU5WT3drR0I2aU9fOHFKOA?oc=5)
 
 2026-05-01 <span class="news-drug-tag">Metformin</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnViOE45blJEZVVPc3N6ZjVwNkxUQnQ4b0N0ZUw0eVpMLS03d0VGVEFQTWw0UzI5RkZIZDU5NWx3eDctUDZmaEt3NWhkSGNERlo2OXFuUmtNZWhxYi1fdVgyQjJhRWlPZFplbERqWHZZV2ZzQ3dORVlHM2FkRG5RYkp6UlZJdGc1SGtJ0gGQAUFVX3lxTE9jVlV0ZUFtNkVOR3UxZlduSTNCX1lwWTRvUjdjeUdfRi1mVjdtOWNVQW5SUFk5Vm9nVERsVmw3dGJqcDNXLUNBZ21odHBhem8zbkRZMElETmRyaDVQWUg0VEhSQ1RGUElRZWZCck1OWjFmSklBakNWNUMzQTRKajV0dU5WT3drR0I2aU9fOHFKOA?oc=5)
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnViOE45blJEZVVPc3N6ZjVwNkxUQnQ4b0N0ZUw0eVpMLS03d0VGVEFQTWw0UzI5RkZIZDU5NWx3eDctUDZmaEt3NWhkSGNERlo2OXFuUmtNZWhxYi1fdVgyQjJhRWlPZFplbERqWHZZV2ZzQ3dORVlHM2FkRG5RYkp6UlZJdGc1SGtJ0gGQAUFVX3lxTE9jVlV0ZUFtNkVOR3UxZlduSTNCX1lwWTRvUjdjeUdfRi1mVjdtOWNVQW5SUFk5Vm9nVERsVmw3dGJqcDNXLUNBZ21odHBhem8zbkRZMElETmRyaDVQWUg0VEhSQ1RGUElRZWZCck1OWjFmSklBakNWNUMzQTRKajV0dU5WT3drR0I2aU9fOHFKOA?oc=5)
 
 ---
 
-### [Diabetes als Schlüssel zur Demenzprävention: Neue Ansätze und Erkenntnisse - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
+### [Diabetes als stiller Treiber der Demenz - AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。8 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>8 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Síndrome metabólico, hígado graso y relación con cáncer de vías biliares - Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+
+2026-05-01
+
+來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+
+---
 
 ### [Studie zeigt, warum Abnehmen nicht jeden vor Diabetes schützt](https://news.google.com/rss/articles/CBMiugFBVV95cUxOME9wdVloaDgxRlJRbHZTcGNvTHlVVTJtb0dlWC1zRVJpcm1SYlRJWmQ4dno5WGluOGJyMkdMRTJycWo4V1dUQW9qSnNJaG04OGFzWVpOTzFtQWRJaDVvUmJzdE9FNEh3Z2lPWXkxWDZvUXZraEdROFV3LXNIMFhnd0gxdVF0Z0M0dHVuYWVzUmdOcHhuTXl6bEFrNDNpeVk0MkhnNjg5SDYwWjlBWktGYUVpTHVJYjNCMkE?oc=5)
 
@@ -124,11 +132,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Diabetes als Schlüssel zur Demenzprävention: Neue Ansätze und Erkenntnisse - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
+### [Diabetes als stiller Treiber der Demenz - AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
 
 2026-05-01
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
 
 ---
 

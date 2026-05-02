@@ -62,11 +62,35 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [Sertraline urgent MHRA warning over 'potentially' fatal mix-up as symptoms released](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
+
+2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
+
+---
+
+### [Magic mushrooms could help people quit smoking](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1hhTHozTzJVbHA5YndlZHhfUzJYRHA2cFMwWW9NeDNndFNrSUY3TEszcHBXRkZPQ2hLQzQ0b1habmg2VHl3TkN4SGJSMjFNMVMxN2J2MlNVZWV6aVBQX1NfY3VjemtiSlFFTnBjSk9SU1pCVVNjZ1JGbGtybXE5Sm8ydFlDc3RjZVJpWGw1MXc5eGh2?oc=5)
+
+2026-05-01 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1hhTHozTzJVbHA5YndlZHhfUzJYRHA2cFMwWW9NeDNndFNrSUY3TEszcHBXRkZPQ2hLQzQ0b1habmg2VHl3TkN4SGJSMjFNMVMxN2J2MlNVZWV6aVBQX1NfY3VjemtiSlFFTnBjSk9SU1pCVVNjZ1JGbGtybXE5Sm8ydFlDc3RjZVJpWGw1MXc5eGh2?oc=5)
+
+---
+
 ### [OMS: Más de 100 millones de vacunas infantiles administradas OMpara la puesta al día en materia de inmunización](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[swisslatin](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
+
+---
+
+### [Coffee may protect your body from ageing, study finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
+
+2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
 
 ---
 
@@ -118,14 +142,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Künstliche Intelligenz in der Pathologie ermöglicht tieferes Verständnis von Tumorerkrankungen - Universität zu Köln](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUnlMZWpBbjQzTExZSWtPZWMtaklzemd2aS1ta3dZaWhGdldBWnp2VUh3QWNNUmx0a2N4ZFVSbl9wOEFselpmdDhFYnFiSUQtcXhsMFVXd2RxS2RYM2dBVmJkNXg5NDdfWlgyZW1jd0wyWUVOeTYwY2NSeW85RDJSX2xONkxtOGN6VmdkNk41d0c5ZkdQVTUzU0FucGVFbFZ4enRIZ3VndXBkRFFlSWp6YlJBdno4bkZncUJGWE80Wjc2bWJBNTFveG51emFWazJkUm5XVmVuSTZkdlRTU0JYRkk5TnY5R0J2UEpxWWVISUVDSFJwMHBCSmpR?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Universität zu Köln](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUnlMZWpBbjQzTExZSWtPZWMtaklzemd2aS1ta3dZaWhGdldBWnp2VUh3QWNNUmx0a2N4ZFVSbl9wOEFselpmdDhFYnFiSUQtcXhsMFVXd2RxS2RYM2dBVmJkNXg5NDdfWlgyZW1jd0wyWUVOeTYwY2NSeW85RDJSX2xONkxtOGN6VmdkNk41d0c5ZkdQVTUzU0FucGVFbFZ4enRIZ3VndXBkRFFlSWp6YlJBdno4bkZncUJGWE80Wjc2bWJBNTFveG51emFWazJkUm5XVmVuSTZkdlRTU0JYRkk5TnY5R0J2UEpxWWVISUVDSFJwMHBCSmpR?oc=5)
-
----
-
 ### [Un nuevo tratamiento contra la progresión de la esclerosis múltiple llena de esperanza a la comunidad médica: "Supone un gran hito"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY20wRjJ2RHBSRFRTOWZRX0tNUUozSjJwbnMyUDdKNHlJMXZBZnRzWUxKM3NOeEFidVpEbVNjWTdWME1aWkU2TUhnMTdWeldQNksxX0gwejkyWGZ6TjdoeDRpSUJPOW5aSF9JSXQweGNUQkY3aWd6bmRmd2JwMVpmQ19rNXZxbWpMSXVNWG4wbEpPT1NCOTBBanpqNUpsYVowbDREbk5IekhLLXR1OUpRbVlrZlNxTXlYbG80cTFseWZIWXktcjRXSTRzaHFQUWZIb0gxTnltTmdpdGp0TEU3bkJfTGNhOUZ6dlVtRW9FbDE?oc=5)
 
 2026-04-30 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -134,27 +150,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Descubren una nueva forma de reparar el daño cerebral en las enfermedades degenerativas - La Voz de Galicia](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcW1lSHBLdlhoSnZVV0NsMUowVGZma2NoZ21XOFYwdzg2OTRnRl9iczJ3SXZVcHZHLW16SFE3bmZ4aUpueVNQSEE1TG9XejVWNERuUmgxSXRMb0tvb1RGNVo1amhWd3VIUFhtVHlITXJuWUlfVTI4Rm5kSV9yem5nODhrT2s2QnI1R191ODJZdEEzcG9udWVEZ3NKMUxOYzlHNzdFaHRxMTAwQ3Z6c20tTnoxdWtTVnNNemI3TmV4OHFmZlM2NFZ3TVFtM3BUNlV0OFhhcjVtLXFrWEd4M0ZmcjZPWnVxSXRZbUxKVw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcW1lSHBLdlhoSnZVV0NsMUowVGZma2NoZ21XOFYwdzg2OTRnRl9iczJ3SXZVcHZHLW16SFE3bmZ4aUpueVNQSEE1TG9XejVWNERuUmgxSXRMb0tvb1RGNVo1amhWd3VIUFhtVHlITXJuWUlfVTI4Rm5kSV9yem5nODhrT2s2QnI1R191ODJZdEEzcG9udWVEZ3NKMUxOYzlHNzdFaHRxMTAwQ3Z6c20tTnoxdWtTVnNNemI3TmV4OHFmZlM2NFZ3TVFtM3BUNlV0OFhhcjVtLXFrWEd4M0ZmcjZPWnVxSXRZbUxKVw?oc=5)
-
----
-
 ### [La esclerosis múltiple evoluciona hacia un abordaje integral que va más allá de los síntomas visibles](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUx1dW1hcHh6dUZIQUp4c2pVVUxkbXFUN1ZyVFZvVU1vSUxNRmNadFVYQWhsVHlvclhjVk5vcUp3TmFTazFGSXRGYjZsN01jMzhHaU1acFBERllyS1ljMFd6d25rZkVXSVpSUkxoTVUtZFQxckVLZV9KWThvVmNVRXo5ZFFFRXBLUjhWNXZ6RnhSTmJ0cUMzN0huN3J5MzFwNFpjejFLY19wRzF3V2VNRDlkNGhyQWdFQ0N3dWR5WFR3LU5GRXAzeWdWUE93RXh3NFhqOHBxNVhuZ9IB3wFBVV95cUxONV9fcWZUcDJKdUhnWWY4M0pFaE1zNWo3Vm1VdnhWVllXTS1XUkR6ZnV4WXVpbDI5bmw0ZnhiTnpPdXZzLV85OFYzNUZNb2toZ0dLWmREcEJGdE5URDJRZHlMUWFoSzhBajE5M1JiazlsMlRrWG9nLWdLVDFlbVFaMGc1anlpYUZZTXc0THR3Y3E4ejVzRk8wZU5FUzZhR1k1VC1CY2RpazZ5QWN2WVVmRFJveFN3MFg5RGhwWFlYdW1RRXJtZ29fTy1LQmp6X2pFdVhra3BZZmZmYU9ST09R?oc=5)
 
 2026-04-30 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUx1dW1hcHh6dUZIQUp4c2pVVUxkbXFUN1ZyVFZvVU1vSUxNRmNadFVYQWhsVHlvclhjVk5vcUp3TmFTazFGSXRGYjZsN01jMzhHaU1acFBERllyS1ljMFd6d25rZkVXSVpSUkxoTVUtZFQxckVLZV9KWThvVmNVRXo5ZFFFRXBLUjhWNXZ6RnhSTmJ0cUMzN0huN3J5MzFwNFpjejFLY19wRzF3V2VNRDlkNGhyQWdFQ0N3dWR5WFR3LU5GRXAzeWdWUE93RXh3NFhqOHBxNVhuZ9IB3wFBVV95cUxONV9fcWZUcDJKdUhnWWY4M0pFaE1zNWo3Vm1VdnhWVllXTS1XUkR6ZnV4WXVpbDI5bmw0ZnhiTnpPdXZzLV85OFYzNUZNb2toZ0dLWmREcEJGdE5URDJRZHlMUWFoSzhBajE5M1JiazlsMlRrWG9nLWdLVDFlbVFaMGc1anlpYUZZTXc0THR3Y3E4ejVzRk8wZU5FUzZhR1k1VC1CY2RpazZ5QWN2WVVmRFJveFN3MFg5RGhwWFlYdW1RRXJtZ29fTy1LQmp6X2pFdVhra3BZZmZmYU9ST09R?oc=5)
-
----
-
-### [Raise tax on alcohol and junk food to cut deaths from liver disease, experts say - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxqQ2lSeEl2eWFDQ3hDS1VVdW03NWlLUFRvNUJ2NjdVOUJiOWd5cF9iRHVuRzdPdy1NUTRzRjFlQVhBQlZySXdleGQzM1M2VnhlZEFlTHVQZVlFSWdPbkV4RlV1ODRGTU5lWVk0bWs5QTZCWUJhUTMyTmJtZnlJbTlqM3Utb0V4TnpIb0dyTXg4R2pqeFE1dC00cFZFTGRY?oc=5)
-
-2026-04-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWxqQ2lSeEl2eWFDQ3hDS1VVdW03NWlLUFRvNUJ2NjdVOUJiOWd5cF9iRHVuRzdPdy1NUTRzRjFlQVhBQlZySXdleGQzM1M2VnhlZEFlTHVQZVlFSWdPbkV4RlV1ODRGTU5lWVk0bWs5QTZCWUJhUTMyTmJtZnlJbTlqM3Utb0V4TnpIb0dyTXg4R2pqeFE1dC00cFZFTGRY?oc=5)
 
 ---
 
