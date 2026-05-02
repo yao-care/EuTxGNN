@@ -54,11 +54,27 @@ permalink: /news/elbasvir/
 
 ## 相關新聞（11 則）
 
-### [Hygiene-Skandal in Klinik! Bis zu 40 Patienten bei OP mit HIV infiziert?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjNaVkh1WUJuSXBZZFVZUGtfWlZGZEQ3TWlFQUhMUVY2dnFZall3WjE1VWNzcndxNFRPdjFaTmRDcmhOZU1wQ3AzX3ZyVUJoNkVKNGNoXzZJUmlIaGtYWmw2VzR1QndoNmhGS0x4OWRzU0cxT29mWFV2aEdNUUxzTkZiQ2tUUFJhc0ZJVXdWckhBVkh5V0x0cVZfNGl5VHJQVmtTOVpLcVBXdlN6NGNN?oc=5)
+### [Descienden casos de cólera; se mantiene transmisión de mpox en el mundo - La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
 
-2026-05-02 <span class="news-indication-tag">hepatitis</span>
+2026-05-02 <span class="news-indication-tag">MS</span>
 
-來源：[RTL.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjNaVkh1WUJuSXBZZFVZUGtfWlZGZEQ3TWlFQUhMUVY2dnFZall3WjE1VWNzcndxNFRPdjFaTmRDcmhOZU1wQ3AzX3ZyVUJoNkVKNGNoXzZJUmlIaGtYWmw2VzR1QndoNmhGS0x4OWRzU0cxT29mWFV2aEdNUUxzTkZiQ2tUUFJhc0ZJVXdWckhBVkh5V0x0cVZfNGl5VHJQVmtTOVpLcVBXdlN6NGNN?oc=5)
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
+
+---
+
+### [Six walking myths busted – and how many steps a day you really need - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzJ6d0hydHh4eHUxUVQ4YXlrQXFHbERiV0hNRXVpZ0dsRDhraXJRbndNdWZzOXZVWmgxM09lVng4VEpqYnExRGtQYXRoWUU3RzVRaE51TXNRV3RSakl0OGU4NzVnWEJOUDlBaUc0bmVUNnIweFRxNWxHNFhxcmhwb1k4VkJRd3ZCUXpmbjV1T1BrT29fdGgtUjBLakVpNnF6Q2dueWFKWQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzJ6d0hydHh4eHUxUVQ4YXlrQXFHbERiV0hNRXVpZ0dsRDhraXJRbndNdWZzOXZVWmgxM09lVng4VEpqYnExRGtQYXRoWUU3RzVRaE51TXNRV3RSakl0OGU4NzVnWEJOUDlBaUc0bmVUNnIweFRxNWxHNFhxcmhwb1k4VkJRd3ZCUXpmbjV1T1BrT29fdGgtUjBLakVpNnF6Q2dueWFKWQ?oc=5)
+
+---
+
+### [Higiene y lavados a alta temperatura, las armas ante el repunte de sarna](https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1NTbnowR3V3cFFfRTlJWEY4Y01QWnVzbnozWGl2bl9iTHg0SUNDdWpodVBlaEliTzVLdXdpUXVOc1dzUEIybUVBeUlEbmtxdVBKUDZLRjU5bDBGZ3E4VXI5cXJ2bmRyNGVLWDkzdjRWNDhtaDZZTV9xenhLbnVDTzFnYVhnejB0enRiaU1hc3lkMG5RejFoaFR1Zw?oc=5)
+
+2026-05-02 <span class="news-indication-tag">MS</span>
+
+來源：[NueveCuatroUno](https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1NTbnowR3V3cFFfRTlJWEY4Y01QWnVzbnozWGl2bl9iTHg0SUNDdWpodVBlaEliTzVLdXdpUXVOc1dzUEIybUVBeUlEbmtxdVBKUDZLRjU5bDBGZ3E4VXI5cXJ2bmRyNGVLWDkzdjRWNDhtaDZZTV9xenhLbnVDTzFnYVhnejB0enRiaU1hc3lkMG5RejFoaFR1Zw?oc=5)
 
 ---
 
@@ -86,19 +102,35 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Sertraline urgent MHRA warning over 'potentially' fatal mix-up as symptoms released](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
+### [Klinik-Panne: 40 Patienten mit HIV infiziert?](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkpfSVA2TzMzV1l2dFcwUURVSTR2X0ozcFFfSDBIanBjTERSUlJHcHRWQXBqRHF4U0NTZEdwNVZhZmdVVlR4Mkx6YmFRM0IxNWRvTk5tcTZHaGZGcjFnUF9nc2ZVQ28tdGtIUmIwQXRJeVhmSGR6MkF0eXJJcXVVQ3VzSTLSAYoBQVVfeXFMT1NLbmQwdDJOUERObE9ZVzJ3MlM3aXliRGdQX1RGYXl4MHQ0OXVSVzI0Qlppd2pRR29pX0FKOTJQTUpxU2UxZ0JfN0M5QjFZVWFxZGREZnRfZmkwaFlfNEYydVpBUTExYVlDOUNLclJOX1JhRkNTcFNfOFlRb0wyX1JwYXBSQURlamZR?oc=5)
 
-2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-01 <span class="news-indication-tag">hepatitis</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
+來源：[OE24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkpfSVA2TzMzV1l2dFcwUURVSTR2X0ozcFFfSDBIanBjTERSUlJHcHRWQXBqRHF4U0NTZEdwNVZhZmdVVlR4Mkx6YmFRM0IxNWRvTk5tcTZHaGZGcjFnUF9nc2ZVQ28tdGtIUmIwQXRJeVhmSGR6MkF0eXJJcXVVQ3VzSTLSAYoBQVVfeXFMT1NLbmQwdDJOUERObE9ZVzJ3MlM3aXliRGdQX1RGYXl4MHQ0OXVSVzI0Qlppd2pRR29pX0FKOTJQTUpxU2UxZ0JfN0M5QjFZVWFxZGREZnRfZmkwaFlfNEYydVpBUTExYVlDOUNLclJOX1JhRkNTcFNfOFlRb0wyX1JwYXBSQURlamZR?oc=5)
 
 ---
 
-### [OMS: Más de 100 millones de vacunas infantiles administradas OMpara la puesta al día en materia de inmunización](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
+### [A Simple Eye Test Done at the Bedside May Tell Doctors Exactly When a Patient Has Hours Left to Live - Indian Defence Review](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk1adklST0R4eTNkY1piNGVsNnNud215ejRoWS00NTV5S1cybUNaaFJqdWxlYVJkWlJCd21xT1BUMDhHNjdpakZEMUR0UjZ5NExacTZSQV9PRGNXdGVNT1BwUzlTSVlHSzE4d0ZKamZkS3RFUG9ZTGgtWnByM3Y4R2dubTNaeDBnRWhKWFFPYjcyWURud1NDeEt3?oc=5)
 
 2026-05-01 <span class="news-indication-tag">MS</span>
 
-來源：[swisslatin](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
+來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk1adklST0R4eTNkY1piNGVsNnNud215ejRoWS00NTV5S1cybUNaaFJqdWxlYVJkWlJCd21xT1BUMDhHNjdpakZEMUR0UjZ5NExacTZSQV9PRGNXdGVNT1BwUzlTSVlHSzE4d0ZKamZkS3RFUG9ZTGgtWnByM3Y4R2dubTNaeDBnRWhKWFFPYjcyWURud1NDeEt3?oc=5)
+
+---
+
+### [Type 2 diabetes — 4 symptoms that appear on feet you shouldn't ignore - The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
+
+2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
+
+---
+
+### [Sertraline urgent MHRA warning over 'potentially' fatal mix-up as symptoms released - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
+
+2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
 
 ---
 
@@ -107,38 +139,6 @@ permalink: /news/elbasvir/
 2026-04-30 <span class="news-indication-tag">hépatite</span> <span class="news-indication-tag">AF</span>
 
 來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
-
----
-
-### [UK researchers develop tool to identify people most at risk of obesity-related diseases - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThpby04bEgwb1NpcnhKNHdpaFA2d3VlNzFJclBLMG90MWNjYnMxdjBOWGxrLXI5NUNJN3Y2cC1iYXhwdkJPQllHc01qQmE3cC1rU3NoZkx6blJTUzQxcTZzek5wbndIemR0SURieDVBN1g1MmtCOFFtd1dHVWR2X0VFaVpDVnhCZ0NSOVhjRjhJSUlaQWJ3dVI3RU5ObW5sRlRKUDRLOGZ0S0ZIYXNJU1RjLXZxX3c?oc=5)
-
-2026-04-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThpby04bEgwb1NpcnhKNHdpaFA2d3VlNzFJclBLMG90MWNjYnMxdjBOWGxrLXI5NUNJN3Y2cC1iYXhwdkJPQllHc01qQmE3cC1rU3NoZkx6blJTUzQxcTZzek5wbndIemR0SURieDVBN1g1MmtCOFFtd1dHVWR2X0VFaVpDVnhCZ0NSOVhjRjhJSUlaQWJ3dVI3RU5ObW5sRlRKUDRLOGZ0S0ZIYXNJU1RjLXZxX3c?oc=5)
-
----
-
-### [Misidentified 'edible' mushrooms linked to a surge of ALS cases](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVlmWUNEMS1BNVBVNmhnQmd3TTVNZERfYWZiX1pRSzNYWllDSWFZZFM1MGIwRXc0cGoyT3ZNT0tZWGhqX0szZ1B2ZE1YWmkzN0laTzNGcXlrbFM2TmVYSlN1dkJqb2pGRGJfVDF4RmE5WW11bnRwN2h0UG9pT3NpUjliVW1yY2EzZkEwMGJyUk1pMHFCcDhFNkpxRm9YNlpoQXNiaG4yMFdNUQ?oc=5)
-
-2026-04-30 <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRVlmWUNEMS1BNVBVNmhnQmd3TTVNZERfYWZiX1pRSzNYWllDSWFZZFM1MGIwRXc0cGoyT3ZNT0tZWGhqX0szZ1B2ZE1YWmkzN0laTzNGcXlrbFM2TmVYSlN1dkJqb2pGRGJfVDF4RmE5WW11bnRwN2h0UG9pT3NpUjliVW1yY2EzZkEwMGJyUk1pMHFCcDhFNkpxRm9YNlpoQXNiaG4yMFdNUQ?oc=5)
-
----
-
-### [Cholesterin: „Der Lebensstil ist die Basis, und dann kommen die Medikamente“](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSVdOdXJZeFlBNHVkNkM0aE9XN2JzQ3ZRMUM0ZTlOTFZiTlBtSmt2aHdwMF90TjNaRlBEaFdVcjlwRUJzR1JLNHpQUnlLdE9EcFV4N0FEU1pabENQRUp5X0xRMHN5WHJiQklRSWQxUWo1a3pHdEJabXVyUDFXTFZWWWl6ckxMenJySTJCUTdfYU5YVmRlekRzZS04WUNxVkZnSTNnYjhhakxqRi1VdUZYWTZxU3RPZEJOekhVM3ZBRUpTSXdiQnZRMlRoeGI0VzdwZkdoc3NTSDhCZw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">MS</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSVdOdXJZeFlBNHVkNkM0aE9XN2JzQ3ZRMUM0ZTlOTFZiTlBtSmt2aHdwMF90TjNaRlBEaFdVcjlwRUJzR1JLNHpQUnlLdE9EcFV4N0FEU1pabENQRUp5X0xRMHN5WHJiQklRSWQxUWo1a3pHdEJabXVyUDFXTFZWWWl6ckxMenJySTJCUTdfYU5YVmRlekRzZS04WUNxVkZnSTNnYjhhakxqRi1VdUZYWTZxU3RPZEJOekhVM3ZBRUpTSXdiQnZRMlRoeGI0VzdwZkdoc3NTSDhCZw?oc=5)
-
----
-
-### [England: MS-Prävalenz verdoppelt durch bessere Diagnose und längeres Überleben – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekVpYXBHbE43RERwVExjNU1RNE1hSzJZbl92TjIyYVZJN1NoVjVTTHlqcDhVcGRWakJmQmtrS01JZFVfXzhzdlJwekNndHExamVDWjdudFAzUFl1dlBoWXRRUjBrUm1RZGlLSTFQdVFBa1pOX19DMkFRVWZ0MVdFeFVaTW9jQkdCNHUzX0hMYk1VcExHcWJDS3RWTWx2UkJZdlhLUzJMXzlZclJIMG9jclBxQXd0aDhTQ2Q3ZF9vN01BWDM2X2hMMVZkMDNkSS1NN1hPd0NUaDJXU2c2M3gw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekVpYXBHbE43RERwVExjNU1RNE1hSzJZbl92TjIyYVZJN1NoVjVTTHlqcDhVcGRWakJmQmtrS01JZFVfXzhzdlJwekNndHExamVDWjdudFAzUFl1dlBoWXRRUjBrUm1RZGlLSTFQdVFBa1pOX19DMkFRVWZ0MVdFeFVaTW9jQkdCNHUzX0hMYk1VcExHcWJDS3RWTWx2UkJZdlhLUzJMXzlZclJIMG9jclBxQXd0aDhTQ2Q3ZF9vN01BWDM2X2hMMVZkMDNkSS1NN1hPd0NUaDJXU2c2M3gw?oc=5)
 
 ---
 

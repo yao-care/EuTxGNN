@@ -54,19 +54,19 @@ permalink: /news/lamivudine/
 
 ## 相關新聞（3 則）
 
-### [Hygiene-Skandal in Klinik! Bis zu 40 Patienten bei OP mit HIV infiziert?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjNaVkh1WUJuSXBZZFVZUGtfWlZGZEQ3TWlFQUhMUVY2dnFZall3WjE1VWNzcndxNFRPdjFaTmRDcmhOZU1wQ3AzX3ZyVUJoNkVKNGNoXzZJUmlIaGtYWmw2VzR1QndoNmhGS0x4OWRzU0cxT29mWFV2aEdNUUxzTkZiQ2tUUFJhc0ZJVXdWckhBVkh5V0x0cVZfNGl5VHJQVmtTOVpLcVBXdlN6NGNN?oc=5)
-
-2026-05-02 <span class="news-indication-tag">hepatitis</span>
-
-來源：[RTL.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjNaVkh1WUJuSXBZZFVZUGtfWlZGZEQ3TWlFQUhMUVY2dnFZall3WjE1VWNzcndxNFRPdjFaTmRDcmhOZU1wQ3AzX3ZyVUJoNkVKNGNoXzZJUmlIaGtYWmw2VzR1QndoNmhGS0x4OWRzU0cxT29mWFV2aEdNUUxzTkZiQ2tUUFJhc0ZJVXdWckhBVkh5V0x0cVZfNGl5VHJQVmtTOVpLcVBXdlN6NGNN?oc=5)
-
----
-
 ### [El Área Sanitaria de Santiago, con solo un 0,10 % de positivos, roza ya la eliminación de la hepatitis C - El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
 
 2026-05-02 <span class="news-indication-tag">hepatitis</span>
 
 來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
+
+---
+
+### [Klinik-Panne: 40 Patienten mit HIV infiziert?](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkpfSVA2TzMzV1l2dFcwUURVSTR2X0ozcFFfSDBIanBjTERSUlJHcHRWQXBqRHF4U0NTZEdwNVZhZmdVVlR4Mkx6YmFRM0IxNWRvTk5tcTZHaGZGcjFnUF9nc2ZVQ28tdGtIUmIwQXRJeVhmSGR6MkF0eXJJcXVVQ3VzSTLSAYoBQVVfeXFMT1NLbmQwdDJOUERObE9ZVzJ3MlM3aXliRGdQX1RGYXl4MHQ0OXVSVzI0Qlppd2pRR29pX0FKOTJQTUpxU2UxZ0JfN0M5QjFZVWFxZGREZnRfZmkwaFlfNEYydVpBUTExYVlDOUNLclJOX1JhRkNTcFNfOFlRb0wyX1JwYXBSQURlamZR?oc=5)
+
+2026-05-01 <span class="news-indication-tag">hepatitis</span>
+
+來源：[OE24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkpfSVA2TzMzV1l2dFcwUURVSTR2X0ozcFFfSDBIanBjTERSUlJHcHRWQXBqRHF4U0NTZEdwNVZhZmdVVlR4Mkx6YmFRM0IxNWRvTk5tcTZHaGZGcjFnUF9nc2ZVQ28tdGtIUmIwQXRJeVhmSGR6MkF0eXJJcXVVQ3VzSTLSAYoBQVVfeXFMT1NLbmQwdDJOUERObE9ZVzJ3MlM3aXliRGdQX1RGYXl4MHQ0OXVSVzI0Qlppd2pRR29pX0FKOTJQTUpxU2UxZ0JfN0M5QjFZVWFxZGREZnRfZmkwaFlfNEYydVpBUTExYVlDOUNLclJOX1JhRkNTcFNfOFlRb0wyX1JwYXBSQURlamZR?oc=5)
 
 ---
 

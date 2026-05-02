@@ -14,7 +14,7 @@ permalink: /news/temsirolimus/
 ---
 
 <p class="key-answer" data-question="Temsirolimus 有什麼相關新聞？">
-<strong>Temsirolimus</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Temsirolimus</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/temsirolimus/
 <p><a href="{{ '/drugs/temsirolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（18 則）
 
-### [Cancer du pancréas : quelle est cette avancée médicale révolutionnaire faite par le CHU de Grenoble ?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdG1uMFE3bjI3ZUVpQ05OWG8wdjBhVlY1eFpjMENKU3pxbEZpNVVjWmhkVlNvY1UtMVVQWlFpRkRTNTk4Z2F3N0taWHBWVGQ2TDZsUWpUbVZVZ3pFdTRMQS15SFBZNXk2N283M2JaeFhmTVhUaWw5dTNtaDhyS1A4MFdaSWxudWRweC0xQUpxY3p3QkFPTk9tMTFyNzFHbGZiRXVhY2oxWVc0cVNfckZZNXRCcldQM3g5eGxz0gHAAUFVX3lxTE1maVRZWTRzaTRESEhvejFTbkNHWVNBemlIRldLR3pMNjZqZGRkdnAxTUk3YVpTdU9oblA1TkV1dkFlSjBXZmZCUzlKV3BrRk5YYVViQmw0WndURjYzRVVSLW41bzJGNGZ5d2J5b3duUk02NmN2WVBwc2FTRzBYX25IQWFaT0xrVWo3empjckxtb3VHWHZpaW1uWjVWOW1sSDZzYm5PR2R4UGZaOVZSSFBrM25NY18tdkM0MzR0Mm9INQ?oc=5)
+### [L'analyse par IA des scanners pancréatiques révèle les prémices du cancer 16 mois avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
 
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdG1uMFE3bjI3ZUVpQ05OWG8wdjBhVlY1eFpjMENKU3pxbEZpNVVjWmhkVlNvY1UtMVVQWlFpRkRTNTk4Z2F3N0taWHBWVGQ2TDZsUWpUbVZVZ3pFdTRMQS15SFBZNXk2N283M2JaeFhmTVhUaWw5dTNtaDhyS1A4MFdaSWxudWRweC0xQUpxY3p3QkFPTk9tMTFyNzFHbGZiRXVhY2oxWVc0cVNfckZZNXRCcldQM3g5eGxz0gHAAUFVX3lxTE1maVRZWTRzaTRESEhvejFTbkNHWVNBemlIRldLR3pMNjZqZGRkdnAxTUk3YVpTdU9oblA1TkV1dkFlSjBXZmZCUzlKV3BrRk5YYVViQmw0WndURjYzRVVSLW41bzJGNGZ5d2J5b3duUk02NmN2WVBwc2FTRzBYX25IQWFaT0xrVWo3empjckxtb3VHWHZpaW1uWjVWOW1sSDZzYm5PR2R4UGZaOVZSSFBrM25NY18tdkM0MzR0Mm9INQ?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
+
+---
+
+### [Un espoir pour les malades : une radiothérapie ciblée sur le cancer du pancréas testée à Grenoble - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
+
+2026-05-02 <span class="news-indication-tag">cancer</span>
+
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
 
 ---
 
@@ -75,22 +83,6 @@ permalink: /news/temsirolimus/
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
 來源：[Armagh I](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZweUpXMjdTZG8tVm5MMG1VaFpJN3pyY2l2cjhSU2ZyVUF1S0lKbUowd2thY0VUTF9zcHJwalZuNzJpejU0TFA1b0NzYWdKcHR3MDdwczAzQlkySlJabnU5UDE1UXp4VWdEN0IwTUdCVTZUcUFHWU1jYzJNbWxQQlcyTU5INF9rV1RsVi0wanJSSS0zSUwtU1FRUWhxczlYWVVIQkRxRmtNNU5oR2NvT2xHZU5mWWtSZGtCcG8zQnFWQkVRb0xB?oc=5)
-
----
-
-### [Ritirato lo studio sulla terapia per la regressione del tumore del pancreas](https://news.google.com/rss/articles/CBMilgJBVV95cUxPYUxiN3VTMVk1TkpmWE15MjV2NlBaTEU3dkhZNmxRaFBwaTRMSjF1SzZNbmdyYXdTeUpLQnZReEFmVjk0MlpacFFFX0RGOTFudldLOW01UThrTjJvanJIUXh0eHRlMFdzSXZKeUZEdUI4U0RpbWhZRllTNUt5TDRZbExpdmp4UXZhUnh3aEZKMlJVeWl5SjY2b1QwRlRtTEdpSXZMRUhPMHNzNUJNeWd5WFFMS1NXX3ZVaDdMSEYweGFzR3pQUTIySTRvX0l3VHZJTUNzbnVzdDFobk5NenQ5eUs3NUM0Qm4tNXRqZElRSmRRU3ZkVU1xY3JzNGRfOG41akJvOHRrV2syd2V2S1hveHNYeVJ0QdIBmwJBVV95cUxQd0tZLWZiY1FxSEtpREZZN3lzSW9Md0NsMGg2NDd3akF5S1k0ZEE3eFFxVUVJb201ZVFEODkzSU1lSXM1b2VSem4zT1dmdExTUEp2RHF5RzZDSHFYTy1SazE0OHJDazA3cnpSdHdJSFE4ZG1WUnJkaGlDT0lkQmNUWEdXQklNUGljV1JDc25kbHlqZnlkUTVoemY5dUE5cGZYeVZzV0Q3ZmdxdHp0Z3dKRjZRVTdGMTlKVERaMTFXVHZYVnpwVnBvUEg3UFJOYmJFemEwVThDcEdmYmRoemN5Z0RQbXdGNjV4Uk4yS2pyYTFuaTZrOVpySnB1SGdRLXZmY3FxcThVN0Y3VFpYeHNUY28tY0FkZFl0a044?oc=5)
-
-2026-05-02 <span class="news-indication-tag">tumor</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMilgJBVV95cUxPYUxiN3VTMVk1TkpmWE15MjV2NlBaTEU3dkhZNmxRaFBwaTRMSjF1SzZNbmdyYXdTeUpLQnZReEFmVjk0MlpacFFFX0RGOTFudldLOW01UThrTjJvanJIUXh0eHRlMFdzSXZKeUZEdUI4U0RpbWhZRllTNUt5TDRZbExpdmp4UXZhUnh3aEZKMlJVeWl5SjY2b1QwRlRtTEdpSXZMRUhPMHNzNUJNeWd5WFFMS1NXX3ZVaDdMSEYweGFzR3pQUTIySTRvX0l3VHZJTUNzbnVzdDFobk5NenQ5eUs3NUM0Qm4tNXRqZElRSmRRU3ZkVU1xY3JzNGRfOG41akJvOHRrV2syd2V2S1hveHNYeVJ0QdIBmwJBVV95cUxQd0tZLWZiY1FxSEtpREZZN3lzSW9Md0NsMGg2NDd3akF5S1k0ZEE3eFFxVUVJb201ZVFEODkzSU1lSXM1b2VSem4zT1dmdExTUEp2RHF5RzZDSHFYTy1SazE0OHJDazA3cnpSdHdJSFE4ZG1WUnJkaGlDT0lkQmNUWEdXQklNUGljV1JDc25kbHlqZnlkUTVoemY5dUE5cGZYeVZzV0Q3ZmdxdHp0Z3dKRjZRVTdGMTlKVERaMTFXVHZYVnpwVnBvUEg3UFJOYmJFemEwVThDcEdmYmRoemN5Z0RQbXdGNjV4Uk4yS2pyYTFuaTZrOVpySnB1SGdRLXZmY3FxcThVN0Y3VFpYeHNUY28tY0FkZFl0a044?oc=5)
-
----
-
-### [Melanoma, terzo tumore più diffuso negli under 50. I consigli degli esperti](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZVl0WFhjeEZaMTlCQXc1T3NvcGxSZzZVeVkySFlMZ29tazRrYk45QUxTNmZ0QUtma01CcU8zOHVaS21pNE0zQnZYaFBkTUY2cHRWVnROaUczVUZhVHBXTVJTcUpxeVVYR0JIVFJqd0J2OEJRQ2I3b3hEV20tNkgxV3FVVm5KZlBxVlFFdXZ0WDA5dUpwcm9hc21ZQ195bERSaDFYb3pOWEVQMUJFN0dxdXNKei1hdjBWN18zQkExX3dydWlDeVNVOEpheDlNNGxtQWdTak53aHpuakVzdjhucmFzUUNycVhSVm040gHwAUFVX3lxTE5CQTRqeXlSVkZ5N2lDWklPUVJ0MTNPYldPV2JPNVNZc0pDNVFkX3BnM3dIcmtJQ2R3dXFheVJtZU1TSjZfdEZzeXBBRUQxM0VES2FjM1FJZl9wTHJOeDRjQjFHdmY2OWZNTkRuWlJxTDc5Uzk5RWtmMmJiRmloelZydEoxbXNfX2dyQ08tUGxDUG4tbThES0c1eWNkcjBEdXpWTmdvc0xvV25MOU9qdm5FOE1rT3lnMjBIVmdZYWNsd2RuZ0tRM1BPZnRmQjZBOVpSejM3VGdOdUNpbjBmTFYtV0V0N1o0dzlpaXJUUUsyNA?oc=5)
-
-2026-05-02 <span class="news-indication-tag">tumor</span>
-
-來源：[RaiNews](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZVl0WFhjeEZaMTlCQXc1T3NvcGxSZzZVeVkySFlMZ29tazRrYk45QUxTNmZ0QUtma01CcU8zOHVaS21pNE0zQnZYaFBkTUY2cHRWVnROaUczVUZhVHBXTVJTcUpxeVVYR0JIVFJqd0J2OEJRQ2I3b3hEV20tNkgxV3FVVm5KZlBxVlFFdXZ0WDA5dUpwcm9hc21ZQ195bERSaDFYb3pOWEVQMUJFN0dxdXNKei1hdjBWN18zQkExX3dydWlDeVNVOEpheDlNNGxtQWdTak53aHpuakVzdjhucmFzUUNycVhSVm040gHwAUFVX3lxTE5CQTRqeXlSVkZ5N2lDWklPUVJ0MTNPYldPV2JPNVNZc0pDNVFkX3BnM3dIcmtJQ2R3dXFheVJtZU1TSjZfdEZzeXBBRUQxM0VES2FjM1FJZl9wTHJOeDRjQjFHdmY2OWZNTkRuWlJxTDc5Uzk5RWtmMmJiRmloelZydEoxbXNfX2dyQ08tUGxDUG4tbThES0c1eWNkcjBEdXpWTmdvc0xvV25MOU9qdm5FOE1rT3lnMjBIVmdZYWNsd2RuZ0tRM1BPZnRmQjZBOVpSejM3VGdOdUNpbjBmTFYtV0V0N1o0dzlpaXJUUUsyNA?oc=5)
 
 ---
 
@@ -134,11 +126,27 @@ permalink: /news/temsirolimus/
 
 ---
 
+### [Ritirato lo studio su tumore al pancreas che prometteva la svolta](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RobWR6VWducG1aRXFGWjhlbHpPVGlDS1EwU1A5MDUtczZxUkw2TjQ5cEhHZl9nLWIxTmVBVjZhd2dibUZQYnJScFRtczRNNFlMaF9TbE9oSmNTR250bkFQM3cwbG1vVERkc1FQenAxQmJ3NGk0QlU2THQyekdFdHVybnBzRk9aRHdKTnlYMDU?oc=5)
+
+2026-05-01 <span class="news-indication-tag">tumor</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RobWR6VWducG1aRXFGWjhlbHpPVGlDS1EwU1A5MDUtczZxUkw2TjQ5cEhHZl9nLWIxTmVBVjZhd2dibUZQYnJScFRtczRNNFlMaF9TbE9oSmNTR250bkFQM3cwbG1vVERkc1FQenAxQmJ3NGk0QlU2THQyekdFdHVybnBzRk9aRHdKTnlYMDU?oc=5)
+
+---
+
 ### [NHS cancer awareness bus to visit Wolverhampton and Black Country](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZW1tcHhBNzM5RUQ1WjFVUF9jU2lMeUYxZXAwdUxlUThQMW1scnZEcU1qSkRldXRILXA0ZWhycUxvRGtndS1tSzhRdDNHVGEtTTNGaGhPSndNUGZL?oc=5)
 
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZW1tcHhBNzM5RUQ1WjFVUF9jU2lMeUYxZXAwdUxlUThQMW1scnZEcU1qSkRldXRILXA0ZWhycUxvRGtndS1tSzhRdDNHVGEtTTNGaGhPSndNUGZL?oc=5)
+
+---
+
+### [NHS issues urgent ‘check your skin’ warning for illness that kills thousands - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE14aWpXb3JMakc3bHRJRmtTMUNwWkVMWS1CRGhXWDAtaFRtNlR1alFyNGpuSWlSUGdwN01haW1qbGkzelppMEFIelNkZ2k4WHFvZTlUV3Y5dGM4UUtXcUR0ajNxOVotQ2tzSFk0QkFtOHAwWnYzdVpJRzRoSGhpeVHSAYQBQVVfeXFMUERZQ3RxbEFMcEFLcUpCYWJvcU1UcVNoakRRelhhVEVzN3hYb0pUUXdPN0s4UGs0MmcwYVlCR1k5NnhJTHBBakRITjlHM2ZQV3huTlpla3AtZWMxZlFPSWR5bDBiejJnS1ZjZmZTNGpCUEpYbHYwY3h4ZmY5MmY4ZUsxcVZZ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">cancer</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE14aWpXb3JMakc3bHRJRmtTMUNwWkVMWS1CRGhXWDAtaFRtNlR1alFyNGpuSWlSUGdwN01haW1qbGkzelppMEFIelNkZ2k4WHFvZTlUV3Y5dGM4UUtXcUR0ajNxOVotQ2tzSFk0QkFtOHAwWnYzdVpJRzRoSGhpeVHSAYQBQVVfeXFMUERZQ3RxbEFMcEFLcUpCYWJvcU1UcVNoakRRelhhVEVzN3hYb0pUUXdPN0s4UGs0MmcwYVlCR1k5NnhJTHBBakRITjlHM2ZQV3huTlpla3AtZWMxZlFPSWR5bDBiejJnS1ZjZmZTNGpCUEpYbHYwY3h4ZmY5MmY4ZUsxcVZZ?oc=5)
 
 ---
 
@@ -150,11 +158,27 @@ permalink: /news/temsirolimus/
 
 ---
 
+### [Un investigador del Instituto de Investigación Biomédica de Lleida colabora en la redefinición de los tumores bifásicos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXg4eG1jM1JadmktalBGRnhZZFoxLTJSQjhoU1ZvR01aY2ZWN2VtVW1CY3o3QnNNVE5xRU1jTEhYM0QwNERhcnJBOUg3Q1drWERyN0hEZ3VMVUl4ZmxyeldyTWcxdFFNRnEyV3NzRnNsclN6c1JMMkJsZFJ1RjRERG4zazVqZWdhUDJKdHBDenoyZE9xdFExbkZmVEZ6Ri1Dc1NhVk9IRXB3RzRoa002a09nUlZYSkZHa0RjcnV4WTZ3SE9GbWJlRnhzX3FibzNTVzJORWJlNWtrX3M5SlhjaEJzMHQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">tumor</span>
+
+來源：[Segre.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXg4eG1jM1JadmktalBGRnhZZFoxLTJSQjhoU1ZvR01aY2ZWN2VtVW1CY3o3QnNNVE5xRU1jTEhYM0QwNERhcnJBOUg3Q1drWERyN0hEZ3VMVUl4ZmxyeldyTWcxdFFNRnEyV3NzRnNsclN6c1JMMkJsZFJ1RjRERG4zazVqZWdhUDJKdHBDenoyZE9xdFExbkZmVEZ6Ri1Dc1NhVk9IRXB3RzRoa002a09nUlZYSkZHa0RjcnV4WTZ3SE9GbWJlRnhzX3FibzNTVzJORWJlNWtrX3M5SlhjaEJzMHQ?oc=5)
+
+---
+
 ### [À plus de 50 ans : ce signe indolore est le premier symptôme du cancer de la vessie - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijgFBVV95cUxQckIwbHJuQkI4Zlg2M0JMdklQMTl1WEo3bnQxMmFYeERZbVNIZklpQjBCQ0kyTUJJRkk0RlFBcFlGa2NZNzFSTGZ5dDNNcDZHckZjbkZfdEg2V2t3WEVMTHVBZ3RqYTFMQWhRdDhpUlBOd1dnYkxERG02bUJnSmFhUm5iS3VFd1NiRWgtd09R?oc=5)
 
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijgFBVV95cUxQckIwbHJuQkI4Zlg2M0JMdklQMTl1WEo3bnQxMmFYeERZbVNIZklpQjBCQ0kyTUJJRkk0RlFBcFlGa2NZNzFSTGZ5dDNNcDZHckZjbkZfdEg2V2t3WEVMTHVBZ3RqYTFMQWhRdDhpUlBOd1dnYkxERG02bUJnSmFhUm5iS3VFd1NiRWgtd09R?oc=5)
+
+---
+
+### [Coffee may protect your body from ageing, study finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
+
+2026-05-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
 
 ---
 
@@ -166,19 +190,11 @@ permalink: /news/temsirolimus/
 
 ---
 
-### [Addingham woman with incurable cancer targets Everest summit](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yS1BlbkZnclYzQ242d3FaWkNHODNWUEMwZzFnT0ktellXSlpjZFJEdU5nT3VaSVhlekxFXzBXWmt2Nnk3TGxWbWFPQ1FlaC1KbGRSdlE4RER4NHd2?oc=5)
+### [«Melanoma, la prima difesa sono i vestiti»: sintomi e consigli per la prevenzione, non solo crema solare - Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTZTeXNiejl1ZHlIT2RmTm1TX0V3TDAyX2MyaEQwTDNSTE5YWmNrajhZLWNiYV9XcmNzYzdyOGFjaDJmTFdPTWY0ZkN6SExKLWNhTmFvY3FjdGE4Q0ZaNGNPd1JYTnZIZ2lIUVRXSEFzc2plcmVNcXlLOU9pRk5yN1N5ZkhMMjBvTHg3TWpvM2k2MFBScDM5T1ZWdUVDdDg?oc=5)
 
-2026-04-30 <span class="news-indication-tag">cancer</span>
+2026-04-30 <span class="news-indication-tag">tumor</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yS1BlbkZnclYzQ242d3FaWkNHODNWUEMwZzFnT0ktellXSlpjZFJEdU5nT3VaSVhlekxFXzBXWmt2Nnk3TGxWbWFPQ1FlaC1KbGRSdlE4RER4NHd2?oc=5)
-
----
-
-### [Brustkrebs: Vitamin D erhöht Überlebensrate - PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE04TlZrbnd0cEtWNGt6NHhlNDhBd2VwdjFWMHhNQ18yMzN2UjhGNWJlZTlsNkdmSjlzdGc3SzJqd1BsWGxwejI0SlNUazN3QWdhRlM1N3F1cnBhN1NhWEZDVTFlQWVlcHB5d2JFVURtWHB1dEJ1UGZLNG51ZS0?oc=5)
-
-2026-04-30 <span class="news-indication-tag">Krebs</span>
-
-來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMifEFVX3lxTE04TlZrbnd0cEtWNGt6NHhlNDhBd2VwdjFWMHhNQ18yMzN2UjhGNWJlZTlsNkdmSjlzdGc3SzJqd1BsWGxwejI0SlNUazN3QWdhRlM1N3F1cnBhN1NhWEZDVTFlQWVlcHB5d2JFVURtWHB1dEJ1UGZLNG51ZS0?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTZTeXNiejl1ZHlIT2RmTm1TX0V3TDAyX2MyaEQwTDNSTE5YWmNrajhZLWNiYV9XcmNzYzdyOGFjaDJmTFdPTWY0ZkN6SExKLWNhTmFvY3FjdGE4Q0ZaNGNPd1JYTnZIZ2lIUVRXSEFzc2plcmVNcXlLOU9pRk5yN1N5ZkhMMjBvTHg3TWpvM2k2MFBScDM5T1ZWdUVDdDg?oc=5)
 
 ---
 
