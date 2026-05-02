@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（2 則）
 
 ### [“Valori soglia dell’alta pressione sempre più bassi. Ma così crescono gli ipertesi a dismisura” - la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
 
@@ -64,33 +64,9 @@ permalink: /news/thyrotropin-alfa/
 
 ### [Pollenallergie und Migräne: Gibt es einen Zusammenhang?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
 
-2026-05-01 <span class="news-indication-tag">Migräne</span>
-
-來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
-
----
-
-### ['I thought I was having a panic attack but it was heart failure' - Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
-
-2026-04-30 <span class="news-indication-tag">heart failure</span>
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
-
----
-
-### [TRPA1 und TRPM8: Neue Hoffnung bei chronischen Entzündungen und Migräne - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTml3WUxrQS0xcTBIZm5yQ19OczFaV1RadE1hQkFxT1JVMTBERlI1ZktMR3FCaDdqRC1VaWJpd2NlV3FnRHBDMnBRc1VPaWlQN1doakoxeXFBNVBPZE9oTEZYeUVMc085M0xvdUFUQWVDcVlELWtPUjJxSUw5aDlTMWdERkQtMndnTUltdWstSDlzbHA4NVpOekhSeER4Tmt0WDJfUjdZdlpkU3VWeWJRbUJuM2hvejNUTV84Tl9n?oc=5)
-
 2026-04-30 <span class="news-indication-tag">Migräne</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTml3WUxrQS0xcTBIZm5yQ19OczFaV1RadE1hQkFxT1JVMTBERlI1ZktMR3FCaDdqRC1VaWJpd2NlV3FnRHBDMnBRc1VPaWlQN1doakoxeXFBNVBPZE9oTEZYeUVMc085M0xvdUFUQWVDcVlELWtPUjJxSUw5aDlTMWdERkQtMndnTUltdWstSDlzbHA4NVpOekhSeER4Tmt0WDJfUjdZdlpkU3VWeWJRbUJuM2hvejNUTV84Tl9n?oc=5)
-
----
-
-### [Apoteca Natura impulsa el cribado de la hipertensión en España con la campaña internacional May Measure Month - Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
+來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart failure</span></li>
+<li>heart disease（96.3%）</li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,21 +52,13 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Arthritis sufferers warned about 2 fruits as common arthritis pain triggers](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
 
 2026-05-01 <span class="news-indication-tag">arthritis</span>
 
 來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
-
----
-
-### ['I thought I was having a panic attack but it was heart failure' - Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
-
-2026-04-30 <span class="news-indication-tag">heart failure</span>
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [El Área Sanitaria de Santiago, con solo un 0,10 % de positivos, roza ya la eliminación de la hepatitis C - El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB0gGfAUFVX3lxTE9QX0t0M1VmYjVQb0Z5SkRQajJiVWt0Xzh6Vnd6WmFaTTZSczE3bE1hQUY0VEdiZDFkc2J5TTE1Z3U1WS1CTl9Qc3Ewa2VldjNpZHprLXFzUlZrZllhRnJocFlVYjVuR1oxLVlOTkJfUktJVTExb1JzUGtidnA4Uldwai1OSnBfMUVUTWo3RDBRR1hvbmxoNnNYZ1lFMkI0cw?oc=5)
+### [Hygiene-Skandal in Klinik! Bis zu 40 Patienten bei OP mit HIV infiziert?](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjNaVkh1WUJuSXBZZFVZUGtfWlZGZEQ3TWlFQUhMUVY2dnFZall3WjE1VWNzcndxNFRPdjFaTmRDcmhOZU1wQ3AzX3ZyVUJoNkVKNGNoXzZJUmlIaGtYWmw2VzR1QndoNmhGS0x4OWRzU0cxT29mWFV2aEdNUUxzTkZiQ2tUUFJhc0ZJVXdWckhBVkh5V0x0cVZfNGl5VHJQVmtTOVpLcVBXdlN6NGNN?oc=5)
 
 2026-05-02 <span class="news-indication-tag">hepatitis</span>
 
-來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB0gGfAUFVX3lxTE9QX0t0M1VmYjVQb0Z5SkRQajJiVWt0Xzh6Vnd6WmFaTTZSczE3bE1hQUY0VEdiZDFkc2J5TTE1Z3U1WS1CTl9Qc3Ewa2VldjNpZHprLXFzUlZrZllhRnJocFlVYjVuR1oxLVlOTkJfUktJVTExb1JzUGtidnA4Uldwai1OSnBfMUVUTWo3RDBRR1hvbmxoNnNYZ1lFMkI0cw?oc=5)
+來源：[RTL.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjNaVkh1WUJuSXBZZFVZUGtfWlZGZEQ3TWlFQUhMUVY2dnFZall3WjE1VWNzcndxNFRPdjFaTmRDcmhOZU1wQ3AzX3ZyVUJoNkVKNGNoXzZJUmlIaGtYWmw2VzR1QndoNmhGS0x4OWRzU0cxT29mWFV2aEdNUUxzTkZiQ2tUUFJhc0ZJVXdWckhBVkh5V0x0cVZfNGl5VHJQVmtTOVpLcVBXdlN6NGNN?oc=5)
 
 ---
 
-### [40 Krankenhaus-Patienten mit HIV- und Hepatitis-Erregen infiziert?](https://news.google.com/rss/articles/CBMivwFBVV95cUxNckdYekd1THlNaUVyZEJ0YzNnc3VGa3FsczVSMWE2Vkt1VmU0UHZCZFd3dnJ2aUVPQ0tlSVMzZUFpSlpOQzhrcWhpVXBhTUNNZF9DamxKZGRpWU1vNE5pdEVkVmNuLUtrV2YxUlRmcmtvcWNudjhvQXdqbDE4YkQ2ZG4yYzVMbWpWRUxYcmZYNnMtYlJYRFZNN3Z5ZUNfR05LYXNGc2FZeFlSQlZZRUpvcTBnbUhNQjRscGM1S3p5TQ?oc=5)
+### [El Área Sanitaria de Santiago, con solo un 0,10 % de positivos, roza ya la eliminación de la hepatitis C - El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
 
-2026-05-01 <span class="news-indication-tag">hepatitis</span>
+2026-05-02 <span class="news-indication-tag">hepatitis</span>
 
-來源：[BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNckdYekd1THlNaUVyZEJ0YzNnc3VGa3FsczVSMWE2Vkt1VmU0UHZCZFd3dnJ2aUVPQ0tlSVMzZUFpSlpOQzhrcWhpVXBhTUNNZF9DamxKZGRpWU1vNE5pdEVkVmNuLUtrV2YxUlRmcmtvcWNudjhvQXdqbDE4YkQ2ZG4yYzVMbWpWRUxYcmZYNnMtYlJYRFZNN3Z5ZUNfR05LYXNGc2FZeFlSQlZZRUpvcTBnbUhNQjRscGM1S3p5TQ?oc=5)
+來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/givosiran/
 2026-04-30 <span class="news-indication-tag">hépatite</span> <span class="news-indication-tag">AF</span>
 
 來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
-
----
-
-### [Apoteca Natura impulsa el cribado de la hipertensión en España con la campaña internacional May Measure Month - Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
 
 ---
 

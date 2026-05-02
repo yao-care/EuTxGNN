@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
 ### [Elena Fernández, directiva de Samsung: "La tecnología bien aplicada, puede ser una gran aliada en el cuidado de la salud" - El Español](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUzR5bWY2cEZ2Zkxqc0Qyb2hBVkNJeUpQRW1hbEJCMklORlg2YTExNWZXMWM4QUFvX2JQQWRrakExN1dFaGhsYzh3M0JiR0MzOHd2aEhtR05FTFFBVklXZlB6RW95RlNXMkF0WGNXVHhuSmpnWmFOSWFIeHE1U3RwQXRPejdTcFZCemlISy1NZ2VyWVBPLThfemJIc1YxX0YxWDdpVjRDZG4tWEJlOXBZVGZOd09uMWhtd1h6Qkhnc0YwZGVvZHVUanpGeng2aHZJZmtodHhfamVlSWtEZU42Ul9Ic0FHWDBnX3RDN1NJblRFSWQ1aUVER1Fn0gH_AUFVX3lxTE1vUGNzV0ZJaWs0eG56QmxWV1c5Q2JhNTYzb0dpTDNvUlBHVzFOczBKRENkWGQ5RHo2akFCWjc4U0lLTUFMdHpZVGtQWVR1eWJ3VFUtSjNhSWhFV2ZOUXJJbzNieEVXZ0R5RWMxZFo0Y2l3VjVtT3RDbThQWDVJX2FnbHc3VGZJS3VnUFh6aThIeE14OUJwOFpSMG9Da3pwYVRXUUpxLVg1bW8yRm9VclFwV0laZmRCbFhfUTBWdXdYQ0NNMHl4eXRoenc3enZNY1kwVDVtVDFDeFlYYjBqWjVPbzI4QjRraGpKNWgtcU5vTmxOOVhSUi1MZ2NUVFY1QQ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">MS</span>
 
 來源：[El Español](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUzR5bWY2cEZ2Zkxqc0Qyb2hBVkNJeUpQRW1hbEJCMklORlg2YTExNWZXMWM4QUFvX2JQQWRrakExN1dFaGhsYzh3M0JiR0MzOHd2aEhtR05FTFFBVklXZlB6RW95RlNXMkF0WGNXVHhuSmpnWmFOSWFIeHE1U3RwQXRPejdTcFZCemlISy1NZ2VyWVBPLThfemJIc1YxX0YxWDdpVjRDZG4tWEJlOXBZVGZOd09uMWhtd1h6Qkhnc0YwZGVvZHVUanpGeng2aHZJZmtodHhfamVlSWtEZU42Ul9Ic0FHWDBnX3RDN1NJblRFSWQ1aUVER1Fn0gH_AUFVX3lxTE1vUGNzV0ZJaWs0eG56QmxWV1c5Q2JhNTYzb0dpTDNvUlBHVzFOczBKRENkWGQ5RHo2akFCWjc4U0lLTUFMdHpZVGtQWVR1eWJ3VFUtSjNhSWhFV2ZOUXJJbzNieEVXZ0R5RWMxZFo0Y2l3VjVtT3RDbThQWDVJX2FnbHc3VGZJS3VnUFh6aThIeE14OUJwOFpSMG9Da3pwYVRXUUpxLVg1bW8yRm9VclFwV0laZmRCbFhfUTBWdXdYQ0NNMHl4eXRoenc3enZNY1kwVDVtVDFDeFlYYjBqWjVPbzI4QjRraGpKNWgtcU5vTmxOOVhSUi1MZ2NUVFY1QQ?oc=5)
+
+---
+
+### ['I'd cook same day I had diarrhoea', Nottinghamshire takeaway chef tells inspector - Nottinghamshire Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxONDhrOWZndkQ4THNLbEd3emoyQmdJLVNQRFc5WWQ4cDh1R0RfakdnRnBjSFdsX21rai1jdWQ1Z3c0YTNjQk1vWjhKWFdxR0ZXNGRCVnZrUUhncDdNck9fSXRZZndlVWNqNHN5b0dlZE9OMVJNN0Ffc1JaV2Y0Rmc3VjFvQ0FoRU80cUE?oc=5)
+
+2026-05-02 <span class="news-indication-tag">MS</span>
+
+來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxONDhrOWZndkQ4THNLbEd3emoyQmdJLVNQRFc5WWQ4cDh1R0RfakdnRnBjSFdsX21rai1jdWQ1Z3c0YTNjQk1vWjhKWFdxR0ZXNGRCVnZrUUhncDdNck9fSXRZZndlVWNqNHN5b0dlZE9OMVJNN0Ffc1JaV2Y0Rmc3VjFvQ0FoRU80cUE?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Magic mushrooms could help people quit smoking](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1hhTHozTzJVbHA5YndlZHhfUzJYRHA2cFMwWW9NeDNndFNrSUY3TEszcHBXRkZPQ2hLQzQ0b1habmg2VHl3TkN4SGJSMjFNMVMxN2J2MlNVZWV6aVBQX1NfY3VjemtiSlFFTnBjSk9SU1pCVVNjZ1JGbGtybXE5Sm8ydFlDc3RjZVJpWGw1MXc5eGh2?oc=5)
+### [OMS: Más de 100 millones de vacunas infantiles administradas OMpara la puesta al día en materia de inmunización](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1hhTHozTzJVbHA5YndlZHhfUzJYRHA2cFMwWW9NeDNndFNrSUY3TEszcHBXRkZPQ2hLQzQ0b1habmg2VHl3TkN4SGJSMjFNMVMxN2J2MlNVZWV6aVBQX1NfY3VjemtiSlFFTnBjSk9SU1pCVVNjZ1JGbGtybXE5Sm8ydFlDc3RjZVJpWGw1MXc5eGh2?oc=5)
-
----
-
-### [OMS: Más de 100 millones de vacunas infantiles administradas OMpara la puesta al día en materia de inmunización](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
 來源：[swisslatin](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
-
----
-
-### [Coffee may protect your body from ageing, study finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
-
-2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
 
 ---
 
@@ -123,14 +115,6 @@ permalink: /news/interferon-beta-1a/
 2026-04-30 <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekVpYXBHbE43RERwVExjNU1RNE1hSzJZbl92TjIyYVZJN1NoVjVTTHlqcDhVcGRWakJmQmtrS01JZFVfXzhzdlJwekNndHExamVDWjdudFAzUFl1dlBoWXRRUjBrUm1RZGlLSTFQdVFBa1pOX19DMkFRVWZ0MVdFeFVaTW9jQkdCNHUzX0hMYk1VcExHcWJDS3RWTWx2UkJZdlhLUzJMXzlZclJIMG9jclBxQXd0aDhTQ2Q3ZF9vN01BWDM2X2hMMVZkMDNkSS1NN1hPd0NUaDJXU2c2M3gw?oc=5)
-
----
-
-### [Tieferes Verständnis von Krebs dank KI in der Pathologie - Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ivabradine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ivabradine Hydrochloride 有什麼相關新聞？">
-<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ivabradine Hydrochloride</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ivabradine-hydrochloride/
 <p><a href="{{ '/drugs/ivabradine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（15 則）
 
-### [Científicos británicos coinciden: estos son los tipos de cáncer más comunes en adultos jóvenes - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
-
-2026-05-02 <span class="news-indication-tag">AF</span>
-
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
-
----
-
-### [Grönemeyer: „Heute Nacht schlafe ich extra nicht ein“ – diese Methode wirkt überraschend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
+### [I went to A&E with a stomach pain - I wasn’t just pregnant, I’d need an 11-seater car after shock scan discovery - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXlwZTloS0dmOU82a2tJSWxkYzRvSjlTZzJrallQV3BTX2F1cVU4bWRUTVdWdUlhZGdoR0NHMVJEOWx0MXBiVl9HUGxvVU1SbTlsa0Y1ZG9tZFBfeDc1azQ5YWNiLWhZY3UyN2k5QmVyN2gyS1E3YnJ0WmgtRWxZbXFnNkQxWXdNeFRJdw?oc=5)
 
 2026-05-02 <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXlwZTloS0dmOU82a2tJSWxkYzRvSjlTZzJrallQV3BTX2F1cVU4bWRUTVdWdUlhZGdoR0NHMVJEOWx0MXBiVl9HUGxvVU1SbTlsa0Y1ZG9tZFBfeDc1azQ5YWNiLWhZY3UyN2k5QmVyN2gyS1E3YnJ0WmgtRWxZbXFnNkQxWXdNeFRJdw?oc=5)
 
 ---
 
@@ -86,6 +78,22 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
+### [Immune Cells 'Remember' Obesity Long After Weight Loss, Study Finds](https://news.google.com/rss/articles/CBMimAFBVV95cUxQODhzd1pKYlVlelczbzY5UVBmZHY3cXAtOWVLdXlsYWxOUUowVVNOMVBaT3g0bHBVZm9fakh0MUNWUllEcHY5RWNtZzItamtGVHlwVWNDZV9UZGVmcHpyeW9XdzAxLVU3dnJDcG9SM1hJZGxsMWk3ZDJGVUZZV1VGb29DM29hSzFBLUIwTXJZRFJ4MHJ4bWFXSw?oc=5)
+
+2026-05-01 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQODhzd1pKYlVlelczbzY5UVBmZHY3cXAtOWVLdXlsYWxOUUowVVNOMVBaT3g0bHBVZm9fakh0MUNWUllEcHY5RWNtZzItamtGVHlwVWNDZV9UZGVmcHpyeW9XdzAxLVU3dnJDcG9SM1hJZGxsMWk3ZDJGVUZZV1VGb29DM29hSzFBLUIwTXJZRFJ4MHJ4bWFXSw?oc=5)
+
+---
+
+### [Ce symptôme digestif qui dure plus de 3 jours est le signe d'un mauvais microbiote : il faut changer son alimentation - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNElXUnJYbUNBSHk5X1BmakJITHhuUzlPUWNqRDFSTDZ5aFFEY3VtSVNHNHNKeHRqUTM1Y1ZkcnRtbE52cFJGQWxyRjBGWGZBZ3Z0OEN6UW50a0w2c0FBeGRYUHZ0QmFkcHZXTVdhZTd5Y2JROXhVbTZReWIxeXdZaFF3OVNTUTg?oc=5)
+
+2026-05-01 <span class="news-indication-tag">AF</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNElXUnJYbUNBSHk5X1BmakJITHhuUzlPUWNqRDFSTDZ5aFFEY3VtSVNHNHNKeHRqUTM1Y1ZkcnRtbE52cFJGQWxyRjBGWGZBZ3Z0OEN6UW50a0w2c0FBeGRYUHZ0QmFkcHZXTVdhZTd5Y2JROXhVbTZReWIxeXdZaFF3OVNTUTg?oc=5)
+
+---
+
 ### [“Valori soglia dell’alta pressione sempre più bassi. Ma così crescono gli ipertesi a dismisura” - la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
 
 2026-05-01 <span class="news-indication-tag">ipertensione</span>
@@ -102,25 +110,9 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### [El mayor estudio realizado sobre la endometriosis revela nuevas claves sobre esta enfermedad que afecta a 190 millones de mujeres en el mundo](https://news.google.com/rss/articles/CBMikgJBVV95cUxNczAyeUN1TjM2a01JNnljcldqQXlQdWVpSTBtMkUwa3lxUk4zUTk4VFFzMzJiS3dYUXZKYVdqU1VaVV9VU0syTHA2LVJpMFl6bGZpdFBZMVpQVFF1YVlfeGY0Y2tKRXZwbGl5SzkxTm9XQmNpcGlZNDVFNG9kTEl1MWhqTl82QUQyaXFRN2xpcUtOOEVhMWNIanpiQzE4RS1FWndqZE5ST3E1bXNXSjRkTWZLdGMxQ3J2bXhxQlRRTWRVWGYzYVdOUkJ0RWs5SEdZaHhqd1BDb2RSeW9aajFoMHlONDhsVFd0RjJuYjNSajltOFF1OHoyU3pJcmhqT2lYem83R29QMURwRTJxZ0xNZlZ30gGsAkFVX3lxTE1iTWxxOEVTdEh0Sng1QTVlS1hDYmZVNzFrdHRJdEpET2VHa1oyWVc0aUZGSExEZVJHckZqUXQ4YVY5N1h5TXl0d3VoeWczMDVnTXBveGxrelg5dkVILVZlTWxOV1d5ZGNHLWZtSEcwRUZqLVptclJxb3lhTEVKLTBnS29oNTd1WGtqODk3cTkweHN0RUd5RVFsdnhUZGstc3B1b3Z0MFB2U1lWRmxiLWtCVDZQckRtYmU4TGQ1Uk5Vd3dJN21CNWUxWmxHcHRmaGRTVDJpWFdXZ2xGb2hoYVEySmN4SXdMelhkYzlFZUxRbmRnLTVaaDlfWFZ6WVpuSkVpQTZPTXhBcFpzYVk3ajFXbkN4bmcxWHRTam50elVvNm1CRUZQRXFBbHdLcw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMikgJBVV95cUxNczAyeUN1TjM2a01JNnljcldqQXlQdWVpSTBtMkUwa3lxUk4zUTk4VFFzMzJiS3dYUXZKYVdqU1VaVV9VU0syTHA2LVJpMFl6bGZpdFBZMVpQVFF1YVlfeGY0Y2tKRXZwbGl5SzkxTm9XQmNpcGlZNDVFNG9kTEl1MWhqTl82QUQyaXFRN2xpcUtOOEVhMWNIanpiQzE4RS1FWndqZE5ST3E1bXNXSjRkTWZLdGMxQ3J2bXhxQlRRTWRVWGYzYVdOUkJ0RWs5SEdZaHhqd1BDb2RSeW9aajFoMHlONDhsVFd0RjJuYjNSajltOFF1OHoyU3pJcmhqT2lYem83R29QMURwRTJxZ0xNZlZ30gGsAkFVX3lxTE1iTWxxOEVTdEh0Sng1QTVlS1hDYmZVNzFrdHRJdEpET2VHa1oyWVc0aUZGSExEZVJHckZqUXQ4YVY5N1h5TXl0d3VoeWczMDVnTXBveGxrelg5dkVILVZlTWxOV1d5ZGNHLWZtSEcwRUZqLVptclJxb3lhTEVKLTBnS29oNTd1WGtqODk3cTkweHN0RUd5RVFsdnhUZGstc3B1b3Z0MFB2U1lWRmxiLWtCVDZQckRtYmU4TGQ1Uk5Vd3dJN21CNWUxWmxHcHRmaGRTVDJpWFdXZ2xGb2hoYVEySmN4SXdMelhkYzlFZUxRbmRnLTVaaDlfWFZ6WVpuSkVpQTZPTXhBcFpzYVk3ajFXbkN4bmcxWHRTam50elVvNm1CRUZQRXFBbHdLcw?oc=5)
-
----
-
-### [OMS: Más de 100 millones de vacunas infantiles administradas OMpara la puesta al día en materia de inmunización](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[swisslatin](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
-
----
-
 ### [Coffee may protect your body from ageing, study finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
 
-2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
 
@@ -158,22 +150,6 @@ permalink: /news/ivabradine-hydrochloride/
 
 ---
 
-### ['I thought I was having a panic attack but it was heart failure' - Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
-
-2026-04-30 <span class="news-indication-tag">heart failure</span>
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjlTdndLRnNseHN3Y3UzTFU2eE02UzU1X0FUX2YtUFhjVE5PMVpLZ1BtbUNNdFRDNGE1WlhoS1FjaHdCLWJXYk5JOWVtcmVoRFJBdkFwOHRyazRaLTFSM2U4aDBFTjNDTFNCaTVTbDZXLWRnVndCNmdLcEpCNVd4dEtoRTNhcjlsWXRXamJ3b2t5Qk820gGaAUFVX3lxTE9MbGJtWG1WSGpuOE1rcHJ6SVZCTk5XSm5Cb3ZpRVN5c0xZWjdiYzVWNU5JWXZmd0VhNGlwb0ZDaW1Mbm9kMUhjX3lRNlB0TFpIaEFIZ3FkbnpMOHJkRUIwMXBJZlRfNnBuXzN2SWU1OFJNSTNKZTExZzFaNlY3bWlnQ2NaVk5XZnFfcGUyVHdsc1JESXAzQmJ1bHc?oc=5)
-
----
-
-### [Scots scientists suggest GLP-1s are safe in pregnancy - STV News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWhuNEp5VDNpX3RDQ01JeTdWa3BraU9peE1MNXQ1RUxMV29TUkhadUVYUWl1d0hrVnlCUW9GUzEzUk84UzJVbDhDYS1qbDBacnRJQmNKMkdQUVNkbWFzZmpFZlQ1Qm1OOWs4c2p1Yk5MQjlRMzJyVV9ha3RleHJydG5YVVFLU1ZTRnVFOFB3ZTB2dG15Qi1ZLTY0eG53MlVLVTBmVjVyeGxxNW95U05lLVJRWHZxQQ?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWhuNEp5VDNpX3RDQ01JeTdWa3BraU9peE1MNXQ1RUxMV29TUkhadUVYUWl1d0hrVnlCUW9GUzEzUk84UzJVbDhDYS1qbDBacnRJQmNKMkdQUVNkbWFzZmpFZlQ1Qm1OOWs4c2p1Yk5MQjlRMzJyVV9ha3RleHJydG5YVVFLU1ZTRnVFOFB3ZTB2dG15Qi1ZLTY0eG53MlVLVTBmVjVyeGxxNW95U05lLVJRWHZxQQ?oc=5)
-
----
-
 ### [Kein Schlaf trotz Erschöpfung: Psychiater erklärt den ADHS-Teufelskreis - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRWV1Wmp3TktoSVhzYzVtTGhHMEJsb2dVSEo3QUVvbUJhRkctdzVDc1EteFRsUjZwVHNHY1RjWTNTdEQwRzVMU3lfbkhzSS1yaF8zV0tWanpPVW84SE5kcVNIMUNmQi14cWp1UlJ1Mi05MHM0cjBZVHkyMGtQdlNtZ3AtbDRsbXVIZkZIaHM2cGRqY2RlTjRkaWlZbGplM3JhOVE2WEVQMm9wY3FRSEVIWnMzZDBGU25HM3RzUERJODFETV96azViRnBYRnlZYjljdG56TndZeUNiOE0?oc=5)
 
 2026-04-30 <span class="news-indication-tag">AF</span>
@@ -195,70 +171,6 @@ permalink: /news/ivabradine-hydrochloride/
 2026-04-30 <span class="news-indication-tag">AF</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQakJtbGpSU1lyOW1OOXJLclRxRWc1emlVOXNobVdQZ09xbjVSTkktRXM2V2pSMDdRYlU1RDVaalRBd1hJbER2TVVudnoxQnJrbGtBcWdxQ0hrYUQ2UGFiNlR0T0RNaVI4VlZCWnNSZzJrc051RUxYU20tSGYzazkwMmJtLXBIYVV0dzl2emtTUnhndWw3ekVTRWE0Q0xjUzhOai1vSmlvRG9uaTQzbzgyTjdNM2xOTW9WbGZSd3RGX3o3RHkxQW9hMl9yVmhNTlFjQ19hektoWWRmbi1oaVA3VnNQQTBocm1sTHBWYg?oc=5)
-
----
-
-### [My daughter died while on the phone to her boyfriend - beware of silent cause - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbVVaUndfM0RHZzVZd1J3Tjl0S211ZHROazlBZm9WQkhSRGdiamxSMW15OGtvbUY1OThGOWJ5cncwbVZCN0Ita0JXOGlsMTI0eHctZUdKV2c0TXVXY3hZeUVHMEVkdE9JZzRiZHptbnY0STNFNGZ0ZDQzSE5nZ2s?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbVVaUndfM0RHZzVZd1J3Tjl0S211ZHROazlBZm9WQkhSRGdiamxSMW15OGtvbUY1OThGOWJ5cncwbVZCN0Ita0JXOGlsMTI0eHctZUdKV2c0TXVXY3hZeUVHMEVkdE9JZzRiZHptbnY0STNFNGZ0ZDQzSE5nZ2s?oc=5)
-
----
-
-### [El cáncer adolescente en TikTok desafía el debate sobre vetar las redes - El Mundo Financiero](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNl9pOVVzdHF0dG9YYXJKa1pVTElZbjZwWXZoSVhkWWM4UDF6cnhveUNHTW80eHJqWTR6RXJqYzJZNWd5TVBINDhoejVQRXU1bDM4RFllbHRUVWpDZmFGTS0xNlBkUlM5M1gzVElJQk4yZm53b05PMlhMNDhVdVFyUVBzQWxheGVrdWRRTzBjUEV6Q1FxUkdOSVRtY2VMcDc5VWlZb1ViZl9BWFN3WGV5dWI5WFdXemY5WHZ5a0M1UU5ZVlhqbmtHb21kcncwT3BHQ2xwamNnNjNGbDVL?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[El Mundo Financiero](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNl9pOVVzdHF0dG9YYXJKa1pVTElZbjZwWXZoSVhkWWM4UDF6cnhveUNHTW80eHJqWTR6RXJqYzJZNWd5TVBINDhoejVQRXU1bDM4RFllbHRUVWpDZmFGTS0xNlBkUlM5M1gzVElJQk4yZm53b05PMlhMNDhVdVFyUVBzQWxheGVrdWRRTzBjUEV6Q1FxUkdOSVRtY2VMcDc5VWlZb1ViZl9BWFN3WGV5dWI5WFdXemY5WHZ5a0M1UU5ZVlhqbmtHb21kcncwT3BHQ2xwamNnNjNGbDVL?oc=5)
-
----
-
-### [Verlängerung der Schwangerschaft bei früher Präeklampsie: Apherese soll den Kaiserschnitt hinauszögern](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFpfaXQ0OEJCNVZHUTlvd3BlWkwxMXF5c3VMaWlWeHMwRXN0eG9jOUQzaFN6Ull3M2pwa2V0Q29zcjZ2MTlaaXN4SnVPYXVDMVp6dVVpWGRiME9NVzJGVnBuTnpTNXo5WUlnM0p6Vng3a2kzWHJzMEQ1TmJfU2VyamZyLUlrQ2xZcnVlTEV5Vk5yczh5RGY4QVFDYzg3M1E0?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFpfaXQ0OEJCNVZHUTlvd3BlWkwxMXF5c3VMaWlWeHMwRXN0eG9jOUQzaFN6Ull3M2pwa2V0Q29zcjZ2MTlaaXN4SnVPYXVDMVp6dVVpWGRiME9NVzJGVnBuTnpTNXo5WUlnM0p6Vng3a2kzWHJzMEQ1TmJfU2VyamZyLUlrQ2xZcnVlTEV5Vk5yczh5RGY4QVFDYzg3M1E0?oc=5)
-
----
-
-### [Ein Abstrich genügt: Studie ebnet Weg für einfacheren Tuberkulose-Nachweis - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IaGI3dGNNQlRGM21TbkZzZlN5OGxmYjlLNlNIdDVGX0tjcU9PTjlBOVM0dHFycVJCaDdqdnVmOGpUU2kyajRaNnZPRQ?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IaGI3dGNNQlRGM21TbkZzZlN5OGxmYjlLNlNIdDVGX0tjcU9PTjlBOVM0dHFycVJCaDdqdnVmOGpUU2kyajRaNnZPRQ?oc=5)
-
----
-
-### [Krankheit durch Übergewicht: Neues Modell sagt Risiko besser vorher als BMI - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXBGTmhEM0t6R3FzWWRKczV4THhsa2w3RnRzd3RIMnhaTHdlclhfZVVCaVpJaWtSVW9FTjVzcjVkVU9CTGhCSWg5Q2hta2lVbG0xZXEzMUtRVHJ4ZUw0Q2NaOTEwLWk2eGI5TlJ4b201Z1dKN1pLekdDWHltRVByRjBkWkpUcm51eVBhWGRzVWxhSnFlZ0E5SFE3UXNKNzNZSTIxcWtsSzBBVDhrUXljVU5scmx1QVZObzdCVw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXBGTmhEM0t6R3FzWWRKczV4THhsa2w3RnRzd3RIMnhaTHdlclhfZVVCaVpJaWtSVW9FTjVzcjVkVU9CTGhCSWg5Q2hta2lVbG0xZXEzMUtRVHJ4ZUw0Q2NaOTEwLWk2eGI5TlJ4b201Z1dKN1pLekdDWHltRVByRjBkWkpUcm51eVBhWGRzVWxhSnFlZ0E5SFE3UXNKNzNZSTIxcWtsSzBBVDhrUXljVU5scmx1QVZObzdCVw?oc=5)
-
----
-
-### [Apoteca Natura impulsa el cribado de la hipertensión en España con la campaña internacional May Measure Month - Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Revista El Farmacéutico](https://news.google.com/rss/articles/CBMigwJBVV95cUxPTzZobDFpbDlQUkNzcGhHTGN4TmZYLUtTMmRKTmFPMHJiMmhKQXc4MmItdm9pMUNXVU5sVU9OVDhiSDI4T2RJVUNwOFFVNHUwb0l3dDVpbENhb0ptWU1MTVpjZHhHaFJpRXFUWFZuYXFFRE1pUldOb0hLQVRNWFNFVnI5QU0tbWF0eTdWT2FRVjkteWhMT1lNZ3Jwa2kyOXlVWFk4WGpCTzNrd3lWWTBJT2k0OGR0NE1qQmJMeEpaVGhLM3lQRWxJYUhtZ1JCQUVXcVgzSlZUOUlINDZvSWRIaHJucHpQUWY3SjJlaFJqSmJPMXlBejZpQnlTT0xYUDBVUEJ30gGIAkFVX3lxTE1laE5GN3N1TmdUWUxkejlCVkk2R0pxWm91bTZvVkk4Z2hrOGJvbF9jaGZXR3ZuSHJreHNac190SHpQVFVEb0ZuUUhyRVIxQjdfN2FFdC1SUUZpTlkzZnZNT092SXU1QmdGOTNOcC1adXpHUVRvZUJRWUdYNS1PYldCaEYxMXFpNWJvX3B2S1BPSF9BTTZ0X2xwMExLQ1ozdXVhOEFFRDJ2WXN5SHd6VmRqQ0VXUm1KX3lJM3p3RnlwTGZ0ZmFPNlFscS1YaG1tdVoyWDQtbXdwazdXYVNFQVZ3Q2FxRUxFZEFuTGNKNWZzSzFmbHQ0Ujk1cl9vbTEycURFYzd1QlFtaw?oc=5)
-
----
-
-### [Edmundo Fernández, enfermero y docente: "El problema del herpes zóster no es solo el dolor, afecta al descanso y la calidad de vida" - Gaceta de salud](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNmgxaHU5dWxKcXhUOGNLMnVDUDljTFBWWWowSGVWZWt0Y3lVdVpXNXNkUEJsanVyd0IzcW40dTgxRUdFX2xucExjNVlqQU55dDRDeG5xU29MeWJORXlfRERRaUQ5MnpDWV9Ic01ObWo2c0VkODQzZzRIazFfWE5VZjBRVDZtdUk1M1g5N3ZqZDRKWXB6NkJEYjFBYWpiNG9MZnhjWjlWSlRyWFI3N2dxZzJpLS1sMnRlVm11SFNoZjdDSjA2b283TXAzTktfSThqRTMwb1hQWWdMNTUtbnNnc0w4Vkp3ZnA5NHVxSUl4dXZIWkhWRkVKNVl0M1hqb2Y4WGsxQ2ZxYUxJMVRZMzdrM3lTR1lKQzAwQkh4OHFWdjRvakxXX3p3cg?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNmgxaHU5dWxKcXhUOGNLMnVDUDljTFBWWWowSGVWZWt0Y3lVdVpXNXNkUEJsanVyd0IzcW40dTgxRUdFX2xucExjNVlqQU55dDRDeG5xU29MeWJORXlfRERRaUQ5MnpDWV9Ic01ObWo2c0VkODQzZzRIazFfWE5VZjBRVDZtdUk1M1g5N3ZqZDRKWXB6NkJEYjFBYWpiNG9MZnhjWjlWSlRyWFI3N2dxZzJpLS1sMnRlVm11SFNoZjdDSjA2b283TXAzTktfSThqRTMwb1hQWWdMNTUtbnNnc0w4Vkp3ZnA5NHVxSUl4dXZIWkhWRkVKNVl0M1hqb2Y4WGsxQ2ZxYUxJMVRZMzdrM3lTR1lKQzAwQkh4OHFWdjRvakxXX3p3cg?oc=5)
-
----
-
-### [Navarra registra nueve casos de dengue, chikungunya y zika en lo que va de 2026, todos vinculados a viajes - Pamplona Actual](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZkczVTA5Z29mZ0hmLUM0ekRvY3RXQlowRDVDTzk4bnhDOF80S3FGaFdNZmllc0Y5UmRsbGxnQ0JoRFl3S0ZWWlJBMFVhVW5EVUY4QjNDSzBUd0JpRmUzbjlDNGJDanpRcjZQRnIxXzFpR0xZWjY0azhPU0FKa1pCdWdCcllxV2IwMWhzako1eWk0UXE3c01aS1VWdmwzMVhUOVhxUWROWk1YUkQ1Rm5DbU1CNnpVeW44Tk00TWcyWXltd1RQaklmUnVjWThnOXNZYlNDb0RHU0d4YmdIemxlXzhYZF8tWlBmT2dF?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[Pamplona Actual](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZkczVTA5Z29mZ0hmLUM0ekRvY3RXQlowRDVDTzk4bnhDOF80S3FGaFdNZmllc0Y5UmRsbGxnQ0JoRFl3S0ZWWlJBMFVhVW5EVUY4QjNDSzBUd0JpRmUzbjlDNGJDanpRcjZQRnIxXzFpR0xZWjY0azhPU0FKa1pCdWdCcllxV2IwMWhzako1eWk0UXE3c01aS1VWdmwzMVhUOVhxUWROWk1YUkQ1Rm5DbU1CNnpVeW44Tk00TWcyWXltd1RQaklmUnVjWThnOXNZYlNDb0RHU0d4YmdIemxlXzhYZF8tWlBmT2dF?oc=5)
 
 ---
 

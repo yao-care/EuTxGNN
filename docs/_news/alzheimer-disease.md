@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### ['Dementia care needs time, effort and resources'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93YW5VZzh0UmZEYkhreVpPSmxQc1o5NDZKSXZwNjFHNm42Qy1CVW85MnlxUm5EaDFSaFdYSWJWanFRLUNsSlFVbGZPYkJsYTlvejhVckdCT0dqV0Zq?oc=5)
 
@@ -59,6 +59,14 @@ permalink: /news/alzheimer-disease/
 2026-05-01
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVElaTFhpZWJKS1lZVHl1MndMVzloQ0w3NVZzNmJtSk5OZDQ2RzVxQTZYLUplNHctNG1QOW85NVVlSW1zQXZqSzRfSXhnVnlVb0ZIN3lOVkI2ODNlQ2lTQ2VHRmZEUHhFdzlFMy1jOG8tRnN6NWVVS0x3aWNfNTkxaHd4ekRnWmpVUHR4S3hIMWFBNjRBMTBmcGRjNzlDQ0pjb3ZfTnRKUEd4UQ?oc=5)
+
+---
+
+### [Coffee may protect your body from ageing, study finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
+
+2026-05-01
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
 
 ---
 

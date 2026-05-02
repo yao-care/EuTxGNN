@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inclisiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Pollenallergie und Migräne: Gibt es einen Zusammenhang?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
 
-2026-05-01 <span class="news-indication-tag">Migräne</span>
-
-來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
-
----
-
-### [TRPA1 und TRPM8: Neue Hoffnung bei chronischen Entzündungen und Migräne - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTml3WUxrQS0xcTBIZm5yQ19OczFaV1RadE1hQkFxT1JVMTBERlI1ZktMR3FCaDdqRC1VaWJpd2NlV3FnRHBDMnBRc1VPaWlQN1doakoxeXFBNVBPZE9oTEZYeUVMc085M0xvdUFUQWVDcVlELWtPUjJxSUw5aDlTMWdERkQtMndnTUltdWstSDlzbHA4NVpOekhSeER4Tmt0WDJfUjdZdlpkU3VWeWJRbUJuM2hvejNUTV84Tl9n?oc=5)
-
 2026-04-30 <span class="news-indication-tag">Migräne</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTml3WUxrQS0xcTBIZm5yQ19OczFaV1RadE1hQkFxT1JVMTBERlI1ZktMR3FCaDdqRC1VaWJpd2NlV3FnRHBDMnBRc1VPaWlQN1doakoxeXFBNVBPZE9oTEZYeUVMc085M0xvdUFUQWVDcVlELWtPUjJxSUw5aDlTMWdERkQtMndnTUltdWstSDlzbHA4NVpOekhSeER4Tmt0WDJfUjdZdlpkU3VWeWJRbUJuM2hvejNUTV84Tl9n?oc=5)
+來源：[SRF](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBpSXF5cUxwSFc3bVB3Z1gwSjRSbmtDWl9ET3d2WjVKb1FmbVd5dWNUR0xIdUJDSnpXOGl4LXVaNU85ZmVhNVRhMHlVdWRkRElJUW5jZlEyd1RybkVILUh5WnZfN0hNcFduTEdVMTkyTWg2SWZFaURmSTBqVnlVM0Y3djY3ZjRoSVo3dXVxWF9LTWxUTDhoeGZRYldEUGhybV9ZNFV3NHpjVEpCNFZGaGxmTzdrOU9u?oc=5)
 
 ---
 
