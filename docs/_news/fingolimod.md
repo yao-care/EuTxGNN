@@ -14,7 +14,7 @@ permalink: /news/fingolimod/
 ---
 
 <p class="key-answer" data-question="Fingolimod 有什麼相關新聞？">
-<strong>Fingolimod</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fingolimod</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/fingolimod/
 <p><a href="{{ '/drugs/fingolimod/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（26 則）
+
+### [Elena Fernández, directiva de Samsung: "La tecnología bien aplicada, puede ser una gran aliada en el cuidado de la salud" - El Español](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUzR5bWY2cEZ2Zkxqc0Qyb2hBVkNJeUpQRW1hbEJCMklORlg2YTExNWZXMWM4QUFvX2JQQWRrakExN1dFaGhsYzh3M0JiR0MzOHd2aEhtR05FTFFBVklXZlB6RW95RlNXMkF0WGNXVHhuSmpnWmFOSWFIeHE1U3RwQXRPejdTcFZCemlISy1NZ2VyWVBPLThfemJIc1YxX0YxWDdpVjRDZG4tWEJlOXBZVGZOd09uMWhtd1h6Qkhnc0YwZGVvZHVUanpGeng2aHZJZmtodHhfamVlSWtEZU42Ul9Ic0FHWDBnX3RDN1NJblRFSWQ1aUVER1Fn0gH_AUFVX3lxTE1vUGNzV0ZJaWs0eG56QmxWV1c5Q2JhNTYzb0dpTDNvUlBHVzFOczBKRENkWGQ5RHo2akFCWjc4U0lLTUFMdHpZVGtQWVR1eWJ3VFUtSjNhSWhFV2ZOUXJJbzNieEVXZ0R5RWMxZFo0Y2l3VjVtT3RDbThQWDVJX2FnbHc3VGZJS3VnUFh6aThIeE14OUJwOFpSMG9Da3pwYVRXUUpxLVg1bW8yRm9VclFwV0laZmRCbFhfUTBWdXdYQ0NNMHl4eXRoenc3enZNY1kwVDVtVDFDeFlYYjBqWjVPbzI4QjRraGpKNWgtcU5vTmxOOVhSUi1MZ2NUVFY1QQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">MS</span>
+
+來源：[El Español](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUzR5bWY2cEZ2Zkxqc0Qyb2hBVkNJeUpQRW1hbEJCMklORlg2YTExNWZXMWM4QUFvX2JQQWRrakExN1dFaGhsYzh3M0JiR0MzOHd2aEhtR05FTFFBVklXZlB6RW95RlNXMkF0WGNXVHhuSmpnWmFOSWFIeHE1U3RwQXRPejdTcFZCemlISy1NZ2VyWVBPLThfemJIc1YxX0YxWDdpVjRDZG4tWEJlOXBZVGZOd09uMWhtd1h6Qkhnc0YwZGVvZHVUanpGeng2aHZJZmtodHhfamVlSWtEZU42Ul9Ic0FHWDBnX3RDN1NJblRFSWQ1aUVER1Fn0gH_AUFVX3lxTE1vUGNzV0ZJaWs0eG56QmxWV1c5Q2JhNTYzb0dpTDNvUlBHVzFOczBKRENkWGQ5RHo2akFCWjc4U0lLTUFMdHpZVGtQWVR1eWJ3VFUtSjNhSWhFV2ZOUXJJbzNieEVXZ0R5RWMxZFo0Y2l3VjVtT3RDbThQWDVJX2FnbHc3VGZJS3VnUFh6aThIeE14OUJwOFpSMG9Da3pwYVRXUUpxLVg1bW8yRm9VclFwV0laZmRCbFhfUTBWdXdYQ0NNMHl4eXRoenc3enZNY1kwVDVtVDFDeFlYYjBqWjVPbzI4QjRraGpKNWgtcU5vTmxOOVhSUi1MZ2NUVFY1QQ?oc=5)
+
+---
+
+### [Cancer du pancréas : pour la première fois en Europe, un traitement innovant testé sur un patient au CHU de Grenoble](https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG82ZEM1c2NGTlhCNjFaekVTYnh4WEU3bGtrM1JSNW9JRUpXcXRiTjFrZ1Z6VnBnQVNXdldNa3F3UU1WNFZBb192OTlCdmNORjViNzIybWdPZ0ZIWE9FaWc4eTc0eVB5M2ZxMWtOREkzR0VhUTdrM1Z5eHZzLWRKZ1Ryd1lUVDhzZHduT0xLVUNIQV9RWGt5MF9XVkZKOTNrN0dCaUdNaG5jNjRQa09MQUwzQkwzM3JERndLWm9TOHJMOTNsZ2I1bHJOS1hVZ2xOOGh1RlYwTkVZNmxPR0ZCS24yUko5QkxBTVRlMW54cHNFMEppRk8zMA?oc=5)
+
+2026-05-02 <span class="news-indication-tag">cancer</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG82ZEM1c2NGTlhCNjFaekVTYnh4WEU3bGtrM1JSNW9JRUpXcXRiTjFrZ1Z6VnBnQVNXdldNa3F3UU1WNFZBb192OTlCdmNORjViNzIybWdPZ0ZIWE9FaWc4eTc0eVB5M2ZxMWtOREkzR0VhUTdrM1Z5eHZzLWRKZ1Ryd1lUVDhzZHduT0xLVUNIQV9RWGt5MF9XVkZKOTNrN0dCaUdNaG5jNjRQa09MQUwzQkwzM3JERndLWm9TOHJMOTNsZ2I1bHJOS1hVZ2xOOGh1RlYwTkVZNmxPR0ZCS24yUko5QkxBTVRlMW54cHNFMEppRk8zMA?oc=5)
+
+---
 
 ### [Australia wants to be first nation in the world to eliminate a cancer - can it?](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
@@ -198,14 +214,6 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Samsung celebra el primer aniversario de The Mind Guardian con la prevención como pilar en el cuidado de la salud cerebral - El Correo Gallego](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3J5YVBxcUt1YTZiSnlPZm1PUXpDSFc4ekRXY21MOE92UjUtSGVzUTdtd0prTWdTOVBNUHdxWl9zRmo3WFU2YkVmRHk4cDNsUlZqZFRvelJ6U050QUlMMV84SDZjdVhLZDVxMWxUeHN2bm9DUmNWX3ROVTVWX0xnVjBmcEtSMDFXTkhHUGYyaXliSjV2MEpub1R0WWNIS052VlZVYkJnbWRQTDVkLUxleGJCZU1vZWlZdWxF0gHAAUFVX3lxTE10a0N3UjlhTG1OOFozQ2dycHBQUkNSdzl1QzF0SGQyU1Y5YkxXUW00WW9abmRfNXgyTTBNakppVV9CeExoaUQ1c0M4azJaWjhjRHlIeWlNQWdrTVkzYl9aUFo5c2x2cXh0ODdZd0hjbnN3ZkREX1F5eGotdnRrU3AyMXhMQ3UwaDRXYmZHOXF3V3B6NTBzWGtUakJKMnkwU3U1UXRuT3pEWTZZOHd4UmpiTjBQMGFiY0lXS2NlcjlUXw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">MS</span>
-
-來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3J5YVBxcUt1YTZiSnlPZm1PUXpDSFc4ekRXY21MOE92UjUtSGVzUTdtd0prTWdTOVBNUHdxWl9zRmo3WFU2YkVmRHk4cDNsUlZqZFRvelJ6U050QUlMMV84SDZjdVhLZDVxMWxUeHN2bm9DUmNWX3ROVTVWX0xnVjBmcEtSMDFXTkhHUGYyaXliSjV2MEpub1R0WWNIS052VlZVYkJnbWRQTDVkLUxleGJCZU1vZWlZdWxF0gHAAUFVX3lxTE10a0N3UjlhTG1OOFozQ2dycHBQUkNSdzl1QzF0SGQyU1Y5YkxXUW00WW9abmRfNXgyTTBNakppVV9CeExoaUQ1c0M4azJaWjhjRHlIeWlNQWdrTVkzYl9aUFo5c2x2cXh0ODdZd0hjbnN3ZkREX1F5eGotdnRrU3AyMXhMQ3UwaDRXYmZHOXF3V3B6NTBzWGtUakJKMnkwU3U1UXRuT3pEWTZZOHd4UmpiTjBQMGFiY0lXS2NlcjlUXw?oc=5)
-
----
-
 ### [England: MS-Prävalenz verdoppelt durch bessere Diagnose und längeres Überleben – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekVpYXBHbE43RERwVExjNU1RNE1hSzJZbl92TjIyYVZJN1NoVjVTTHlqcDhVcGRWakJmQmtrS01JZFVfXzhzdlJwekNndHExamVDWjdudFAzUFl1dlBoWXRRUjBrUm1RZGlLSTFQdVFBa1pOX19DMkFRVWZ0MVdFeFVaTW9jQkdCNHUzX0hMYk1VcExHcWJDS3RWTWx2UkJZdlhLUzJMXzlZclJIMG9jclBxQXd0aDhTQ2Q3ZF9vN01BWDM2X2hMMVZkMDNkSS1NN1hPd0NUaDJXU2c2M3gw?oc=5)
 
 2026-04-30 <span class="news-indication-tag">MS</span>
@@ -238,11 +246,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Künstliche Intelligenz in der Pathologie ermöglicht tieferes Verständnis von Tumorerkrankungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
+### [Tieferes Verständnis von Krebs dank KI in der Pathologie - Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
 
-2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
+來源：[Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
 
 ---
 
@@ -251,46 +259,6 @@ permalink: /news/fingolimod/
 2026-04-30 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
-
----
-
-### [Infrarotlicht aktiviert Nano-Medikament: Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkVDLTFfcVJSeGppTkpxUVpsREU1QU9Idmw5UUZPX1hRR2hfVm83QzdPNnN5amsyb19vVkdJX1BJWG5OUkhFamczM3FvVk5tQXFvLWxLRndmSFVyOEY5aXdxN051ZzBjN1JnYkJEajRHTWt0a0l1X3VTLTB3QTNUR2hydml3ZDhVT2p5YnZYWlhZWkt4Tk1jTUFzWkY4NDV4TjY3eWhrZzJReGFVdWdQbzdtQW16UlBhODNMZVZoWE5FX2o3ZWM3WkpfajlHcXdf?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span>
-
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkVDLTFfcVJSeGppTkpxUVpsREU1QU9Idmw5UUZPX1hRR2hfVm83QzdPNnN5amsyb19vVkdJX1BJWG5OUkhFamczM3FvVk5tQXFvLWxLRndmSFVyOEY5aXdxN051ZzBjN1JnYkJEajRHTWt0a0l1X3VTLTB3QTNUR2hydml3ZDhVT2p5YnZYWlhZWkt4Tk1jTUFzWkY4NDV4TjY3eWhrZzJReGFVdWdQbzdtQW16UlBhODNMZVZoWE5FX2o3ZWM3WkpfajlHcXdf?oc=5)
-
----
-
-### [Un nuevo tratamiento contra la progresión de la esclerosis múltiple llena de esperanza a la comunidad médica: "Supone un gran hito"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY20wRjJ2RHBSRFRTOWZRX0tNUUozSjJwbnMyUDdKNHlJMXZBZnRzWUxKM3NOeEFidVpEbVNjWTdWME1aWkU2TUhnMTdWeldQNksxX0gwejkyWGZ6TjdoeDRpSUJPOW5aSF9JSXQweGNUQkY3aWd6bmRmd2JwMVpmQ19rNXZxbWpMSXVNWG4wbEpPT1NCOTBBanpqNUpsYVowbDREbk5IekhLLXR1OUpRbVlrZlNxTXlYbG80cTFseWZIWXktcjRXSTRzaHFQUWZIb0gxTnltTmdpdGp0TEU3bkJfTGNhOUZ6dlVtRW9FbDE?oc=5)
-
-2026-04-30 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY20wRjJ2RHBSRFRTOWZRX0tNUUozSjJwbnMyUDdKNHlJMXZBZnRzWUxKM3NOeEFidVpEbVNjWTdWME1aWkU2TUhnMTdWeldQNksxX0gwejkyWGZ6TjdoeDRpSUJPOW5aSF9JSXQweGNUQkY3aWd6bmRmd2JwMVpmQ19rNXZxbWpMSXVNWG4wbEpPT1NCOTBBanpqNUpsYVowbDREbk5IekhLLXR1OUpRbVlrZlNxTXlYbG80cTFseWZIWXktcjRXSTRzaHFQUWZIb0gxTnltTmdpdGp0TEU3bkJfTGNhOUZ6dlVtRW9FbDE?oc=5)
-
----
-
-### [Scientists Reveal Why Breast Cancer Risk Rises With Age](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
-
-2026-04-30 <span class="news-indication-tag">cancer</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
-
----
-
-### [L'IA individua i segnali al pancreas fino a 3 anni prima](https://news.google.com/rss/articles/CBMihgFBVV95cUxON1hsZWE5SEpnSUIwRjd1Uk45WDh6dkNCOGsyYjlGMTdUOGljdUpYY01xOFFLMF9lRTlTazJLVGF2TV9XMWlJbEZZQ3U1MTZlMnlaUG5IREdlRjFGMnJNQzVSMG9BZUQtSWpJRFZIV01vRmVPQklZLTNMLXdiWkU4ZjRqeXdXdw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxON1hsZWE5SEpnSUIwRjd1Uk45WDh6dkNCOGsyYjlGMTdUOGljdUpYY01xOFFLMF9lRTlTazJLVGF2TV9XMWlJbEZZQ3U1MTZlMnlaUG5IREdlRjFGMnJNQzVSMG9BZUQtSWpJRFZIV01vRmVPQklZLTNMLXdiWkU4ZjRqeXdXdw?oc=5)
-
----
-
-### [La esclerosis múltiple evoluciona hacia un abordaje integral que va más allá de los síntomas visibles](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUx1dW1hcHh6dUZIQUp4c2pVVUxkbXFUN1ZyVFZvVU1vSUxNRmNadFVYQWhsVHlvclhjVk5vcUp3TmFTazFGSXRGYjZsN01jMzhHaU1acFBERllyS1ljMFd6d25rZkVXSVpSUkxoTVUtZFQxckVLZV9KWThvVmNVRXo5ZFFFRXBLUjhWNXZ6RnhSTmJ0cUMzN0huN3J5MzFwNFpjejFLY19wRzF3V2VNRDlkNGhyQWdFQ0N3dWR5WFR3LU5GRXAzeWdWUE93RXh3NFhqOHBxNVhuZ9IB3wFBVV95cUxONV9fcWZUcDJKdUhnWWY4M0pFaE1zNWo3Vm1VdnhWVllXTS1XUkR6ZnV4WXVpbDI5bmw0ZnhiTnpPdXZzLV85OFYzNUZNb2toZ0dLWmREcEJGdE5URDJRZHlMUWFoSzhBajE5M1JiazlsMlRrWG9nLWdLVDFlbVFaMGc1anlpYUZZTXc0THR3Y3E4ejVzRk8wZU5FUzZhR1k1VC1CY2RpazZ5QWN2WVVmRFJveFN3MFg5RGhwWFlYdW1RRXJtZ29fTy1LQmp6X2pFdVhra3BZZmZmYU9ST09R?oc=5)
-
-2026-04-30 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUx1dW1hcHh6dUZIQUp4c2pVVUxkbXFUN1ZyVFZvVU1vSUxNRmNadFVYQWhsVHlvclhjVk5vcUp3TmFTazFGSXRGYjZsN01jMzhHaU1acFBERllyS1ljMFd6d25rZkVXSVpSUkxoTVUtZFQxckVLZV9KWThvVmNVRXo5ZFFFRXBLUjhWNXZ6RnhSTmJ0cUMzN0huN3J5MzFwNFpjejFLY19wRzF3V2VNRDlkNGhyQWdFQ0N3dWR5WFR3LU5GRXAzeWdWUE93RXh3NFhqOHBxNVhuZ9IB3wFBVV95cUxONV9fcWZUcDJKdUhnWWY4M0pFaE1zNWo3Vm1VdnhWVllXTS1XUkR6ZnV4WXVpbDI5bmw0ZnhiTnpPdXZzLV85OFYzNUZNb2toZ0dLWmREcEJGdE5URDJRZHlMUWFoSzhBajE5M1JiazlsMlRrWG9nLWdLVDFlbVFaMGc1anlpYUZZTXc0THR3Y3E4ejVzRk8wZU5FUzZhR1k1VC1CY2RpazZ5QWN2WVVmRFJveFN3MFg5RGhwWFlYdW1RRXJtZ29fTy1LQmp6X2pFdVhra3BZZmZmYU9ST09R?oc=5)
 
 ---
 

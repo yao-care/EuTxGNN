@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（7 則）
 
-### [Síndrome metabólico, hígado graso y relación con cáncer de vías biliares - Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTc4TWdjYmlLVDZvbGdJbkhzWGxibTVzY29CVW9HSHI5U0FFWDU3WmtUaGsxMnNqSkFOcVBXVUdtWXJaM0F3c3Y0MmtKTHVlaWREbnJWb1c1Xy14czZYWU43ajM1c2ZwZkxndUFjV20wMWJxY3Y3Q0d2X3FHNUR0d2FiWE5LYjZmTW5mYWVQYlpuWTJ3U3IwbDNrWGs1TkZPQUVuRmhlWWcwSzZVaV9RRzhwUjZjMXhNN3N1T0JENlFwZk5Z?oc=5)
 
-2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+2026-05-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTc4TWdjYmlLVDZvbGdJbkhzWGxibTVzY29CVW9HSHI5U0FFWDU3WmtUaGsxMnNqSkFOcVBXVUdtWXJaM0F3c3Y0MmtKTHVlaWREbnJWb1c1Xy14czZYWU43ajM1c2ZwZkxndUFjV20wMWJxY3Y3Q0d2X3FHNUR0d2FiWE5LYjZmTW5mYWVQYlpuWTJ3U3IwbDNrWGs1TkZPQUVuRmhlWWcwSzZVaV9RRzhwUjZjMXhNN3N1T0JENlFwZk5Z?oc=5)
 
 ---
 
@@ -70,11 +70,11 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Diabetes als stiller Treiber der Demenz - AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
+### [Diabetes als Schlüssel zur Demenzprävention: Neue Ansätze und Erkenntnisse - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
 
 2026-05-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
 
 ---
 
@@ -107,22 +107,6 @@ permalink: /news/vedolizumab/
 2026-04-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[LaSexta](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX0h3cUF0N2NpclEtQ3cwN0hkNlhCUVQ1UnNKWXM5S3VZdk56dWdvZFNJTnVoX0VBTU93VzFhc28zSDhnNXBtZW84YXFmaDR5MWhHUW1hS3F2LU5vRUJNZ1VuT0JEQ0lPeFVUdnhqdkt3WlVuYWh3aUM1YjR4c0ZCRnpHdVVFTVpoTU1qX0pIMG5SM19GUmpCNnZWV19hWU1jc0hWZVEtUWx3VG53QkNQSXFlcExDajJ6Y0RLRHk3UnNmMEpaUmFYRDducFZyUXFRMFBqSHZKOENQNDhsandZREg4Y2rSAeQBQVVfeXFMT3R1WDhmanRCU1IwTDVRMGNuclpIUHdTV1FsYjJuQXIzbzVMX2NJUU4zRkZKQllDcnJxRVdPa2FqTnNoN2QxczZDdzNCSWYwdklwM2E5ZXJWRmVKWkF5a2FsVXM3ZHpONnVUOHNVTVBMYlVHdzlla0tJSEhoTEd0b2VZQ3d5Z0VDMGFxTjRnbFJNdFR1NjNDeHhWSDlhX1BWdDdMVDh0bzhkRXlsNlBvT2tDM0dGWTNtWW1SOFdETTVIcU5LRVJEeTM1ZlkxZTNtQmpCVWpRckdjWkJRN1dVR2lHOFN0?oc=5)
-
----
-
-### [Diabete, 300.000 malati e un impegno ancora sulla carta: battaglia in Piemonte per i nuovi sensori - La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2RlTTNJRDBNVThRZTlmYW1oQlZzVVg1SWJQUnJPSVk1QjRTMFVhOE9pTmtqMUR0cENQR0F2cksyUzFwQTlpMUYwOVRSUFlQcG9wY0xiNFdlbDRXS1Z0TVU4SmZRUkdWODhqMXVfR1dMYnYtdHVhUmRLMHNNUGdfUEpBcDZmdzlVMC1UWlpDcGNSTi1EU0pfQkxsV1dfWDlLa1g1c2dSMVPSAa4BQVVfeXFMUDJaeXlTTkV0QnlCTmRMUjh4N2hJVG1IMm00dDVkVHlHckoyU0JFWk9SSVVocVdvSzN4cWZwbEVDM1NDTG84T3lOY256eGN4aURJbFdKeXJJOXo1TjdFR2t3QmpqVUJpTmRaazVfWnFQb3BUOEtmRElfdzVyS1FPbjE3YV9qdlg2WWd0cjVfZ1NyUE80ZlljSXFRR3pKZ0piUFpRY3h5ZEw0ZHhRYzFn?oc=5)
-
-2026-04-30 <span class="news-indication-tag">diabetic</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2RlTTNJRDBNVThRZTlmYW1oQlZzVVg1SWJQUnJPSVk1QjRTMFVhOE9pTmtqMUR0cENQR0F2cksyUzFwQTlpMUYwOVRSUFlQcG9wY0xiNFdlbDRXS1Z0TVU4SmZRUkdWODhqMXVfR1dMYnYtdHVhUmRLMHNNUGdfUEpBcDZmdzlVMC1UWlpDcGNSTi1EU0pfQkxsV1dfWDlLa1g1c2dSMVPSAa4BQVVfeXFMUDJaeXlTTkV0QnlCTmRMUjh4N2hJVG1IMm00dDVkVHlHckoyU0JFWk9SSVVocVdvSzN4cWZwbEVDM1NDTG84T3lOY256eGN4aURJbFdKeXJJOXo1TjdFR2t3QmpqVUJpTmRaazVfWnFQb3BUOEtmRElfdzVyS1FPbjE3YV9qdlg2WWd0cjVfZ1NyUE80ZlljSXFRR3pKZ0piUFpRY3h5ZEw0ZHhRYzFn?oc=5)
-
----
-
-### [Ein Molekül, zwei Effekte: Neuer Wirkstoff-Ansatz gegen Übergewicht und Typ-2-Diabetes - LMU München](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVN5Z01mQ0ZOejJFaFQybkFyQUZ6Qlh3M2RPTDNmRmF6ZFdwQlhIT01mTWtoS2RPdUZpMjU3N3BIanM3cU9wWWY5azlIcmc5UWl6ZTNwOXItdEdDLTlkVWJnZWFfZFFWWG8tQmFxOTNQX1VuMTZLaFdkVmF4Y0thMWExMTF4YzJKalBkM1hTRFZvNWZ3bW05YUpSeC1MMW5YTWRJY3dtbmZ1MHFvX2d6YWZlUjVqMm5aMXFBUnZydnFDNHZGOW1NZHR3RXM4RmVJbmh3dzZuMGVhU2JOazdJN29taW9BUQ?oc=5)
-
-2026-04-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[LMU München](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVN5Z01mQ0ZOejJFaFQybkFyQUZ6Qlh3M2RPTDNmRmF6ZFdwQlhIT01mTWtoS2RPdUZpMjU3N3BIanM3cU9wWWY5azlIcmc5UWl6ZTNwOXItdEdDLTlkVWJnZWFfZFFWWG8tQmFxOTNQX1VuMTZLaFdkVmF4Y0thMWExMTF4YzJKalBkM1hTRFZvNWZ3bW05YUpSeC1MMW5YTWRJY3dtbmZ1MHFvX2d6YWZlUjVqMm5aMXFBUnZydnFDNHZGOW1NZHR3RXM4RmVJbmh3dzZuMGVhU2JOazdJN29taW9BUQ?oc=5)
 
 ---
 

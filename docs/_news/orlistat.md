@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Síndrome metabólico, hígado graso y relación con cáncer de vías biliares - Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+### [Una solución de IA permite la detección precoz de la aterosclerosis analizando imágenes oculares](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
 
-2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+2026-05-01 <span class="news-indication-tag">ictus</span>
 
-來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/orlistat/
 2026-04-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUtOZFI5bGo2R2xCcDJid1ljUjB0LVIyU3F5S1JJS3E0dk1IV1poN1FjOTlzUVdiMGp6OFFYZXpKSjh2X1dnbUpucFJ6RFZXTFJHbE02YnlDLVFaR3p3cXZ4clV6Ti1iQWw5WFd3RDdZLUU3N1J0WW1DX0hVNXdWamd2UHpHX2lLSFFyUEdRTGwwMmZhOUt6WDZtMUNSeThpRGNITm9kcDUwWEUwekg3azMxNE1uR0ZsUzNLYkFLaVdXaXVEZnpGT1NjLVN6UQ?oc=5)
-
----
-
-### ['I had a stroke at the weekend so didn't get a thrombectomy'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbi1DY1daTlE1cWNmU0tJMnlqVFNtZDFMZW40cF80ejBPbkR3ZUJaMS05UEtqYlNzZHlXdXo4aHRqUEVLWE9jaHpsVUlQRVgtYURYTkNFaUlrVDF4?oc=5)
-
-2026-04-30 <span class="news-indication-tag">stroke</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbi1DY1daTlE1cWNmU0tJMnlqVFNtZDFMZW40cF80ejBPbkR3ZUJaMS05UEtqYlNzZHlXdXo4aHRqUEVLWE9jaHpsVUlQRVgtYURYTkNFaUlrVDF4?oc=5)
 
 ---
 

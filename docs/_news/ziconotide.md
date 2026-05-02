@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
-
-### [Síndrome metabólico, hígado graso y relación con cáncer de vías biliares - Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
-
-2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
-
----
+## 相關新聞（8 則）
 
 ### [Los fármacos para la obesidad logran reducir los días de consumo excesivo de bebidas alcohólicas - La Voz de Galicia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLUNhajZQa1Brc0hxeHRlTll0MGxuNXBnS3hyTnZyT3hHVVhuc2dMWVJLTjRXck1mQndnZnNZOXR4TEN3czVWQzgtWm04QlE0bkF3cXVFTjlOVC02RXE0czZsbVFrU0QxU0xuNGhuS0JMbmpHck5DZFlWVk8zTS1XRXlwQVZEdmU0RmJJSk0tcnZjQUZocU1zSV9BYXJZeVpPbzlFY2g3WENITUJ6NDlSTVZHdFBaT1dtWnN6RldqLVlCaU5hbDhWVWFPcE9vZlpBek92NFZSeUdtdFF6ejBwMHpR0gH-AUFVX3lxTE4zMkY2WGZxbHFFeUc0TTZjVVFoNlZKYl9jT0IzVzBja09CRlo3dDRpZ2RjNWpaZGZZV3h5S050Y0c3OVFCZE1aVDBDYlRQZGd5VGtYUW9yVHJGaWNnUzlhMm1kUm1OcGJmelVKU0ZLbk55XzRtVzFvQXRlUnhmSS1YYWZsRllpR0s3QThKRTNnOHowYzRZcU83aUxPZVBFNDNHUzZVQV9tVWZHdEZya0ZZMGw2Z0pZOEhmMDNNMzduUTVyaWZjc2ZnZ1FUSk5ZaUdTcHdEaVVVR1NBbW1CTy0zQ0FoUlNhaXZPay1zWkU5bVpwS0tGdUNUVkZndWRB?oc=5)
 

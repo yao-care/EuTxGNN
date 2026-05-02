@@ -14,7 +14,7 @@ permalink: /news/onasemnogene-abeparvovec/
 ---
 
 <p class="key-answer" data-question="Onasemnogene Abeparvovec 有什麼相關新聞？">
-<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Onasemnogene Abeparvovec</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/onasemnogene-abeparvovec/
 <p><a href="{{ '/drugs/onasemnogene-abeparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（24 則）
 
-### [Síndrome metabólico, hígado graso y relación con cáncer de vías biliares - Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+### [Cancer du pancréas : pour la première fois en Europe, un traitement innovant testé sur un patient au CHU de Grenoble](https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG82ZEM1c2NGTlhCNjFaekVTYnh4WEU3bGtrM1JSNW9JRUpXcXRiTjFrZ1Z6VnBnQVNXdldNa3F3UU1WNFZBb192OTlCdmNORjViNzIybWdPZ0ZIWE9FaWc4eTc0eVB5M2ZxMWtOREkzR0VhUTdrM1Z5eHZzLWRKZ1Ryd1lUVDhzZHduT0xLVUNIQV9RWGt5MF9XVkZKOTNrN0dCaUdNaG5jNjRQa09MQUwzQkwzM3JERndLWm9TOHJMOTNsZ2I1bHJOS1hVZ2xOOGh1RlYwTkVZNmxPR0ZCS24yUko5QkxBTVRlMW54cHNFMEppRk8zMA?oc=5)
 
-2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+2026-05-02 <span class="news-indication-tag">cancer</span>
 
-來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG82ZEM1c2NGTlhCNjFaekVTYnh4WEU3bGtrM1JSNW9JRUpXcXRiTjFrZ1Z6VnBnQVNXdldNa3F3UU1WNFZBb192OTlCdmNORjViNzIybWdPZ0ZIWE9FaWc4eTc0eVB5M2ZxMWtOREkzR0VhUTdrM1Z5eHZzLWRKZ1Ryd1lUVDhzZHduT0xLVUNIQV9RWGt5MF9XVkZKOTNrN0dCaUdNaG5jNjRQa09MQUwzQkwzM3JERndLWm9TOHJMOTNsZ2I1bHJOS1hVZ2xOOGh1RlYwTkVZNmxPR0ZCS24yUko5QkxBTVRlMW54cHNFMEppRk8zMA?oc=5)
+
+---
+
+### [Herzinfarkte und Schlaganfälle verhindern: Neue Studie legt Präventionsmethode nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTc4TWdjYmlLVDZvbGdJbkhzWGxibTVzY29CVW9HSHI5U0FFWDU3WmtUaGsxMnNqSkFOcVBXVUdtWXJaM0F3c3Y0MmtKTHVlaWREbnJWb1c1Xy14czZYWU43ajM1c2ZwZkxndUFjV20wMWJxY3Y3Q0d2X3FHNUR0d2FiWE5LYjZmTW5mYWVQYlpuWTJ3U3IwbDNrWGs1TkZPQUVuRmhlWWcwSzZVaV9RRzhwUjZjMXhNN3N1T0JENlFwZk5Z?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTc4TWdjYmlLVDZvbGdJbkhzWGxibTVzY29CVW9HSHI5U0FFWDU3WmtUaGsxMnNqSkFOcVBXVUdtWXJaM0F3c3Y0MmtKTHVlaWREbnJWb1c1Xy14czZYWU43ajM1c2ZwZkxndUFjV20wMWJxY3Y3Q0d2X3FHNUR0d2FiWE5LYjZmTW5mYWVQYlpuWTJ3U3IwbDNrWGs1TkZPQUVuRmhlWWcwSzZVaV9RRzhwUjZjMXhNN3N1T0JENlFwZk5Z?oc=5)
 
 ---
 
@@ -126,11 +134,11 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Diabetes als stiller Treiber der Demenz - AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
+### [Diabetes als Schlüssel zur Demenzprävention: Neue Ansätze und Erkenntnisse - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
 
 2026-05-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1oaFZHcGJzeDNtZFRnMk9NWVc5TExHckptOXBBQmFiVnhWdS1oY0s0bUdpRHZjTXZoQUFVQlNOTkt5akVqd1NmanBSaXZqY2JvOF9kQXhsRElSTTBTOWpNVlp2Rkh6ZnUxMzBsSmJiUmdCbGd5Z1B1T3VOb2JxdFZwUnhLcVdsM2VmOVllOWlXUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
 
 ---
 
@@ -222,11 +230,11 @@ permalink: /news/onasemnogene-abeparvovec/
 
 ---
 
-### [Künstliche Intelligenz in der Pathologie ermöglicht tieferes Verständnis von Tumorerkrankungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
+### [Tieferes Verständnis von Krebs dank KI in der Pathologie - Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
 
-2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
+來源：[Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
 
 ---
 
@@ -235,46 +243,6 @@ permalink: /news/onasemnogene-abeparvovec/
 2026-04-30 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
-
----
-
-### [Diabete, 300.000 malati e un impegno ancora sulla carta: battaglia in Piemonte per i nuovi sensori - La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2RlTTNJRDBNVThRZTlmYW1oQlZzVVg1SWJQUnJPSVk1QjRTMFVhOE9pTmtqMUR0cENQR0F2cksyUzFwQTlpMUYwOVRSUFlQcG9wY0xiNFdlbDRXS1Z0TVU4SmZRUkdWODhqMXVfR1dMYnYtdHVhUmRLMHNNUGdfUEpBcDZmdzlVMC1UWlpDcGNSTi1EU0pfQkxsV1dfWDlLa1g1c2dSMVPSAa4BQVVfeXFMUDJaeXlTTkV0QnlCTmRMUjh4N2hJVG1IMm00dDVkVHlHckoyU0JFWk9SSVVocVdvSzN4cWZwbEVDM1NDTG84T3lOY256eGN4aURJbFdKeXJJOXo1TjdFR2t3QmpqVUJpTmRaazVfWnFQb3BUOEtmRElfdzVyS1FPbjE3YV9qdlg2WWd0cjVfZ1NyUE80ZlljSXFRR3pKZ0piUFpRY3h5ZEw0ZHhRYzFn?oc=5)
-
-2026-04-30 <span class="news-indication-tag">diabetic</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2RlTTNJRDBNVThRZTlmYW1oQlZzVVg1SWJQUnJPSVk1QjRTMFVhOE9pTmtqMUR0cENQR0F2cksyUzFwQTlpMUYwOVRSUFlQcG9wY0xiNFdlbDRXS1Z0TVU4SmZRUkdWODhqMXVfR1dMYnYtdHVhUmRLMHNNUGdfUEpBcDZmdzlVMC1UWlpDcGNSTi1EU0pfQkxsV1dfWDlLa1g1c2dSMVPSAa4BQVVfeXFMUDJaeXlTTkV0QnlCTmRMUjh4N2hJVG1IMm00dDVkVHlHckoyU0JFWk9SSVVocVdvSzN4cWZwbEVDM1NDTG84T3lOY256eGN4aURJbFdKeXJJOXo1TjdFR2t3QmpqVUJpTmRaazVfWnFQb3BUOEtmRElfdzVyS1FPbjE3YV9qdlg2WWd0cjVfZ1NyUE80ZlljSXFRR3pKZ0piUFpRY3h5ZEw0ZHhRYzFn?oc=5)
-
----
-
-### [Infrarotlicht aktiviert Nano-Medikament: Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkVDLTFfcVJSeGppTkpxUVpsREU1QU9Idmw5UUZPX1hRR2hfVm83QzdPNnN5amsyb19vVkdJX1BJWG5OUkhFamczM3FvVk5tQXFvLWxLRndmSFVyOEY5aXdxN051ZzBjN1JnYkJEajRHTWt0a0l1X3VTLTB3QTNUR2hydml3ZDhVT2p5YnZYWlhZWkt4Tk1jTUFzWkY4NDV4TjY3eWhrZzJReGFVdWdQbzdtQW16UlBhODNMZVZoWE5FX2o3ZWM3WkpfajlHcXdf?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span>
-
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkVDLTFfcVJSeGppTkpxUVpsREU1QU9Idmw5UUZPX1hRR2hfVm83QzdPNnN5amsyb19vVkdJX1BJWG5OUkhFamczM3FvVk5tQXFvLWxLRndmSFVyOEY5aXdxN051ZzBjN1JnYkJEajRHTWt0a0l1X3VTLTB3QTNUR2hydml3ZDhVT2p5YnZYWlhZWkt4Tk1jTUFzWkY4NDV4TjY3eWhrZzJReGFVdWdQbzdtQW16UlBhODNMZVZoWE5FX2o3ZWM3WkpfajlHcXdf?oc=5)
-
----
-
-### [Ein Molekül, zwei Effekte: Neuer Wirkstoff-Ansatz gegen Übergewicht und Typ-2-Diabetes - LMU München](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVN5Z01mQ0ZOejJFaFQybkFyQUZ6Qlh3M2RPTDNmRmF6ZFdwQlhIT01mTWtoS2RPdUZpMjU3N3BIanM3cU9wWWY5azlIcmc5UWl6ZTNwOXItdEdDLTlkVWJnZWFfZFFWWG8tQmFxOTNQX1VuMTZLaFdkVmF4Y0thMWExMTF4YzJKalBkM1hTRFZvNWZ3bW05YUpSeC1MMW5YTWRJY3dtbmZ1MHFvX2d6YWZlUjVqMm5aMXFBUnZydnFDNHZGOW1NZHR3RXM4RmVJbmh3dzZuMGVhU2JOazdJN29taW9BUQ?oc=5)
-
-2026-04-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[LMU München](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVN5Z01mQ0ZOejJFaFQybkFyQUZ6Qlh3M2RPTDNmRmF6ZFdwQlhIT01mTWtoS2RPdUZpMjU3N3BIanM3cU9wWWY5azlIcmc5UWl6ZTNwOXItdEdDLTlkVWJnZWFfZFFWWG8tQmFxOTNQX1VuMTZLaFdkVmF4Y0thMWExMTF4YzJKalBkM1hTRFZvNWZ3bW05YUpSeC1MMW5YTWRJY3dtbmZ1MHFvX2d6YWZlUjVqMm5aMXFBUnZydnFDNHZGOW1NZHR3RXM4RmVJbmh3dzZuMGVhU2JOazdJN29taW9BUQ?oc=5)
-
----
-
-### [Scientists Reveal Why Breast Cancer Risk Rises With Age](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
-
-2026-04-30 <span class="news-indication-tag">cancer</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
-
----
-
-### [L'IA individua i segnali al pancreas fino a 3 anni prima](https://news.google.com/rss/articles/CBMihgFBVV95cUxON1hsZWE5SEpnSUIwRjd1Uk45WDh6dkNCOGsyYjlGMTdUOGljdUpYY01xOFFLMF9lRTlTazJLVGF2TV9XMWlJbEZZQ3U1MTZlMnlaUG5IREdlRjFGMnJNQzVSMG9BZUQtSWpJRFZIV01vRmVPQklZLTNMLXdiWkU4ZjRqeXdXdw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxON1hsZWE5SEpnSUIwRjd1Uk45WDh6dkNCOGsyYjlGMTdUOGljdUpYY01xOFFLMF9lRTlTazJLVGF2TV9XMWlJbEZZQ3U1MTZlMnlaUG5IREdlRjFGMnJNQzVSMG9BZUQtSWpJRFZIV01vRmVPQklZLTNMLXdiWkU4ZjRqeXdXdw?oc=5)
 
 ---
 

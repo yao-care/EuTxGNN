@@ -14,7 +14,7 @@ permalink: /news/silodosin/
 ---
 
 <p class="key-answer" data-question="Silodosin 有什麼相關新聞？">
-<strong>Silodosin</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Silodosin</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/silodosin/
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（23 則）
+
+### [Científicos británicos coinciden: estos son los tipos de cáncer más comunes en adultos jóvenes - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
+
+2026-05-02 <span class="news-indication-tag">AF</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
+
+---
 
 ### [Grönemeyer: „Heute Nacht schlafe ich extra nicht ein“ – diese Methode wirkt überraschend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
 
-2026-05-01 <span class="news-indication-tag">AF</span>
+2026-05-02 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
 
 ---
 
-### [Biohacker Bryan Johnson makes shocking reveal about girlfriend’s vagina: ‘Top 1%’ - New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZk1tY2pVRVJScFpyTjVsLXlYMnVPWC1sYUhTcHg2WkRyRE1HU1FYdm95aDdSX0ZKOWpSY1liYzlTYzRMaGVEd2oybG9ob1ltNEsyYlNUU1VxenlSWFhsU2N2dVU5OWxuekd6VF9pQjRKTklpSkRDbTAtSHhYcExQalRLNU14RUdGR3ZEaVJ5TDRxSTg1eEVLZll5X2tjWHM?oc=5)
+### [Una de cada 15 mujeres sufre depresión mayor en el primer año tras el parto - La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQjZLZVJGZjVzeGp1UTQwS18tc0hDWHFGU3lrc0l0dkZfaFloNXhEZGVJcTlFOW5sRlg1SURJU3pCbjg4SW9kUU9JMzVtb1ZfNlFkYkhySU5tajU3TU9KSkNwY1h6MEhZN1JmWEhzbWxTSmI1Z2pqV1RxQ21JU0VhR0thb1p2bmxCNjh1ODZpNXh1RThBb2M4UGl5alhqTjJTOV81d1NBSW5DR1hDbWh2eFFNRWhxejJKRG5razJ1cGVINWpKeWFEeUZqNk0zb0JleFVaTXFYa9IB8wFBVV95cUxOcFBSS2gwZ0N1enRfdGtOdFVDSzZvMkJzcXFyems4YlBVbjZjRDdRRVI1ZU1nSkt3LWVYY25vNWVmSEdROGQ1TmsyMjM5OUtNWTJXODVBY1BvZ1ZGMzBzWWl5X1QtVVNQeDVpLVQxNXgyMEFHNmZUS04zTWVZQ3dXLWlpTzVnX184a3BGcHVqZ1dkdzlVTlBBRERLcl84bUpycVRCaVFjUVhSWDVzejA3M2NxQ2Y3clFITnBJNFN0TWZuX0VBSHBTVFJONDNBMXQzcFF2N0p0WjJEUmYtMEY4NW44cENYOXpINXNXYXNrQkttclE?oc=5)
 
-2026-05-01 <span class="news-indication-tag">AF</span>
+2026-05-02 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
-來源：[New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZk1tY2pVRVJScFpyTjVsLXlYMnVPWC1sYUhTcHg2WkRyRE1HU1FYdm95aDdSX0ZKOWpSY1liYzlTYzRMaGVEd2oybG9ob1ltNEsyYlNUU1VxenlSWFhsU2N2dVU5OWxuekd6VF9pQjRKTklpSkRDbTAtSHhYcExQalRLNU14RUdGR3ZEaVJ5TDRxSTg1eEVLZll5X2tjWHM?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQjZLZVJGZjVzeGp1UTQwS18tc0hDWHFGU3lrc0l0dkZfaFloNXhEZGVJcTlFOW5sRlg1SURJU3pCbjg4SW9kUU9JMzVtb1ZfNlFkYkhySU5tajU3TU9KSkNwY1h6MEhZN1JmWEhzbWxTSmI1Z2pqV1RxQ21JU0VhR0thb1p2bmxCNjh1ODZpNXh1RThBb2M4UGl5alhqTjJTOV81d1NBSW5DR1hDbWh2eFFNRWhxejJKRG5razJ1cGVINWpKeWFEeUZqNk0zb0JleFVaTXFYa9IB8wFBVV95cUxOcFBSS2gwZ0N1enRfdGtOdFVDSzZvMkJzcXFyems4YlBVbjZjRDdRRVI1ZU1nSkt3LWVYY25vNWVmSEdROGQ1TmsyMjM5OUtNWTJXODVBY1BvZ1ZGMzBzWWl5X1QtVVNQeDVpLVQxNXgyMEFHNmZUS04zTWVZQ3dXLWlpTzVnX184a3BGcHVqZ1dkdzlVTlBBRERLcl84bUpycVRCaVFjUVhSWDVzejA3M2NxQ2Y3clFITnBJNFN0TWZuX0VBSHBTVFJONDNBMXQzcFF2N0p0WjJEUmYtMEY4NW44cENYOXpINXNXYXNrQkttclE?oc=5)
+
+---
+
+### [Tres meses en lista de espera para una mamografía - Diario de Burgos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ05yLXo4WGFEUUtYWmxISU44LWcxSkVrTGxsaU1rdHJkTU5XNW85MXNvdUdjY2hMbDVkSTUtdmphR3EyTHZiVHBISjBvM0dzYU9RTmZrMjBDV1dzX0RvWE5BU19HcVlvdmk5bmFGNnRuZ0hnc2d5X3RnUUZnbDJsRU9BZ0hqdHZBMEJXME11cmtydnVvbTZ4U3ZHQVNJZzhWZmY5dEdHT3NIMDNjQ1R3bzJ5WlVuRkQxSWhaNXl3UGMwMU5aYVdoNFlLTQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">AF</span>
+
+來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ05yLXo4WGFEUUtYWmxISU44LWcxSkVrTGxsaU1rdHJkTU5XNW85MXNvdUdjY2hMbDVkSTUtdmphR3EyTHZiVHBISjBvM0dzYU9RTmZrMjBDV1dzX0RvWE5BU19HcVlvdmk5bmFGNnRuZ0hnc2d5X3RnUUZnbDJsRU9BZ0hqdHZBMEJXME11cmtydnVvbTZ4U3ZHQVNJZzhWZmY5dEdHT3NIMDNjQ1R3bzJ5WlVuRkQxSWhaNXl3UGMwMU5aYVdoNFlLTQ?oc=5)
 
 ---
 
@@ -78,19 +94,19 @@ permalink: /news/silodosin/
 
 ---
 
+### [El mayor estudio realizado sobre la endometriosis revela nuevas claves sobre esta enfermedad que afecta a 190 millones de mujeres en el mundo](https://news.google.com/rss/articles/CBMikgJBVV95cUxNczAyeUN1TjM2a01JNnljcldqQXlQdWVpSTBtMkUwa3lxUk4zUTk4VFFzMzJiS3dYUXZKYVdqU1VaVV9VU0syTHA2LVJpMFl6bGZpdFBZMVpQVFF1YVlfeGY0Y2tKRXZwbGl5SzkxTm9XQmNpcGlZNDVFNG9kTEl1MWhqTl82QUQyaXFRN2xpcUtOOEVhMWNIanpiQzE4RS1FWndqZE5ST3E1bXNXSjRkTWZLdGMxQ3J2bXhxQlRRTWRVWGYzYVdOUkJ0RWs5SEdZaHhqd1BDb2RSeW9aajFoMHlONDhsVFd0RjJuYjNSajltOFF1OHoyU3pJcmhqT2lYem83R29QMURwRTJxZ0xNZlZ30gGsAkFVX3lxTE1iTWxxOEVTdEh0Sng1QTVlS1hDYmZVNzFrdHRJdEpET2VHa1oyWVc0aUZGSExEZVJHckZqUXQ4YVY5N1h5TXl0d3VoeWczMDVnTXBveGxrelg5dkVILVZlTWxOV1d5ZGNHLWZtSEcwRUZqLVptclJxb3lhTEVKLTBnS29oNTd1WGtqODk3cTkweHN0RUd5RVFsdnhUZGstc3B1b3Z0MFB2U1lWRmxiLWtCVDZQckRtYmU4TGQ1Uk5Vd3dJN21CNWUxWmxHcHRmaGRTVDJpWFdXZ2xGb2hoYVEySmN4SXdMelhkYzlFZUxRbmRnLTVaaDlfWFZ6WVpuSkVpQTZPTXhBcFpzYVk3ajFXbkN4bmcxWHRTam50elVvNm1CRUZQRXFBbHdLcw?oc=5)
+
+2026-05-01 <span class="news-indication-tag">AF</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMikgJBVV95cUxNczAyeUN1TjM2a01JNnljcldqQXlQdWVpSTBtMkUwa3lxUk4zUTk4VFFzMzJiS3dYUXZKYVdqU1VaVV9VU0syTHA2LVJpMFl6bGZpdFBZMVpQVFF1YVlfeGY0Y2tKRXZwbGl5SzkxTm9XQmNpcGlZNDVFNG9kTEl1MWhqTl82QUQyaXFRN2xpcUtOOEVhMWNIanpiQzE4RS1FWndqZE5ST3E1bXNXSjRkTWZLdGMxQ3J2bXhxQlRRTWRVWGYzYVdOUkJ0RWs5SEdZaHhqd1BDb2RSeW9aajFoMHlONDhsVFd0RjJuYjNSajltOFF1OHoyU3pJcmhqT2lYem83R29QMURwRTJxZ0xNZlZ30gGsAkFVX3lxTE1iTWxxOEVTdEh0Sng1QTVlS1hDYmZVNzFrdHRJdEpET2VHa1oyWVc0aUZGSExEZVJHckZqUXQ4YVY5N1h5TXl0d3VoeWczMDVnTXBveGxrelg5dkVILVZlTWxOV1d5ZGNHLWZtSEcwRUZqLVptclJxb3lhTEVKLTBnS29oNTd1WGtqODk3cTkweHN0RUd5RVFsdnhUZGstc3B1b3Z0MFB2U1lWRmxiLWtCVDZQckRtYmU4TGQ1Uk5Vd3dJN21CNWUxWmxHcHRmaGRTVDJpWFdXZ2xGb2hoYVEySmN4SXdMelhkYzlFZUxRbmRnLTVaaDlfWFZ6WVpuSkVpQTZPTXhBcFpzYVk3ajFXbkN4bmcxWHRTam50elVvNm1CRUZQRXFBbHdLcw?oc=5)
+
+---
+
 ### [OMS: Más de 100 millones de vacunas infantiles administradas OMpara la puesta al día en materia de inmunización](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[swisslatin](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3dOVnE2Y0E4czA0bGczekJBV2RxV0gxVWREXy1kMmh1SXRKNnBYNlRyV0lZMEVfamRjS0JxR0NiSFBVcDBhN0xISVdEbVZzSko1UmV4VHptS01Fd0FFMVQxTEtCbkczcEMwMDJib1pIZFNKS3FPYXJOdkpvSGRmTEU3WExwLVJZYUsxbUhfRHpMbXlYLUY4MHNYSzhWZGRZNkNBTFZKV2UtSzlaVXVnUFRZdkxHM1QwTzQ0RHpvamRPQjV4M0xfX0lyZEpRUQ?oc=5)
-
----
-
-### [La depresión mayor afecta a una de cada 15 mujeres tras el parto, según un análisis global](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlo0bEMwelEyUDZJNUhsQ2xjSzZfQmMzaDlsOVhsYkJJaXN2NkNxd0hwV0dwTGJUTnRlM0lfNjl4N2cwR19lVVk0bHlZdGpQcjNwM1g4WVNBN2p5blpfcUdoOFZpMmVITzI5eHRXMDk2WmRQRjVLdFRiaU5CWERRd2prR055X2hsZFhQYW0zRDI3dGtSZXdsNFNDdFZvNjhiTWFqUUxTbVA3MmNnUFFLbkF0SWRaQ3BrZHlkZHUxUzEyN2s?oc=5)
-
-2026-05-01 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sinc](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlo0bEMwelEyUDZJNUhsQ2xjSzZfQmMzaDlsOVhsYkJJaXN2NkNxd0hwV0dwTGJUTnRlM0lfNjl4N2cwR19lVVk0bHlZdGpQcjNwM1g4WVNBN2p5blpfcUdoOFZpMmVITzI5eHRXMDk2WmRQRjVLdFRiaU5CWERRd2prR055X2hsZFhQYW0zRDI3dGtSZXdsNFNDdFZvNjhiTWFqUUxTbVA3MmNnUFFLbkF0SWRaQ3BrZHlkZHUxUzEyN2s?oc=5)
 
 ---
 
@@ -190,19 +206,19 @@ permalink: /news/silodosin/
 
 ---
 
+### [Ein Abstrich genügt: Studie ebnet Weg für einfacheren Tuberkulose-Nachweis - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IaGI3dGNNQlRGM21TbkZzZlN5OGxmYjlLNlNIdDVGX0tjcU9PTjlBOVM0dHFycVJCaDdqdnVmOGpUU2kyajRaNnZPRQ?oc=5)
+
+2026-04-30 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IaGI3dGNNQlRGM21TbkZzZlN5OGxmYjlLNlNIdDVGX0tjcU9PTjlBOVM0dHFycVJCaDdqdnVmOGpUU2kyajRaNnZPRQ?oc=5)
+
+---
+
 ### [Krankheit durch Übergewicht: Neues Modell sagt Risiko besser vorher als BMI - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXBGTmhEM0t6R3FzWWRKczV4THhsa2w3RnRzd3RIMnhaTHdlclhfZVVCaVpJaWtSVW9FTjVzcjVkVU9CTGhCSWg5Q2hta2lVbG0xZXEzMUtRVHJ4ZUw0Q2NaOTEwLWk2eGI5TlJ4b201Z1dKN1pLekdDWHltRVByRjBkWkpUcm51eVBhWGRzVWxhSnFlZ0E5SFE3UXNKNzNZSTIxcWtsSzBBVDhrUXljVU5scmx1QVZObzdCVw?oc=5)
 
 2026-04-30 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXBGTmhEM0t6R3FzWWRKczV4THhsa2w3RnRzd3RIMnhaTHdlclhfZVVCaVpJaWtSVW9FTjVzcjVkVU9CTGhCSWg5Q2hta2lVbG0xZXEzMUtRVHJ4ZUw0Q2NaOTEwLWk2eGI5TlJ4b201Z1dKN1pLekdDWHltRVByRjBkWkpUcm51eVBhWGRzVWxhSnFlZ0E5SFE3UXNKNzNZSTIxcWtsSzBBVDhrUXljVU5scmx1QVZObzdCVw?oc=5)
-
----
-
-### [Künstliche Intelligenz in der Pathologie ermöglicht tieferes Verständnis von Tumorerkrankungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
 
 ---
 
@@ -214,59 +230,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Lesiones en la sustancia blanca: la nueva clave que puede frenar el alzhéimer o el párkinson - Gaceta de salud](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ3lRX1pxbDExZWdVbVFFVVRtalc4YzN0d2ZhTEhUUDhiazdzMHBKSGlSTHh4OU8xMEJYNnpWLXA0T25FQkVoRU5FOS1Cc2NPTmdiRUt2T3VHV090Q1YwdkFqZHFKOVFCLU0tR0x5X0JMQVM2TUYySFhZcU5pUkRrNDNMdkpQbWJGQnVUWWE4Q2QwazNINC1SLTA2c1hKUC05MTRTalN5aGVhVnRHOTJ2ckd5SFV6cWhOMVZiYUY2Um1rVFFSU0FrWDFIVHVzVm5QcTlEZUpXWEYwZ2tzUnVqNHRHXzhXTVZHNGF3MlJZbTd5dHhfZ25DamktRQ?oc=5)
+### [Navarra registra nueve casos de dengue, chikungunya y zika en lo que va de 2026, todos vinculados a viajes - Pamplona Actual](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZkczVTA5Z29mZ0hmLUM0ekRvY3RXQlowRDVDTzk4bnhDOF80S3FGaFdNZmllc0Y5UmRsbGxnQ0JoRFl3S0ZWWlJBMFVhVW5EVUY4QjNDSzBUd0JpRmUzbjlDNGJDanpRcjZQRnIxXzFpR0xZWjY0azhPU0FKa1pCdWdCcllxV2IwMWhzako1eWk0UXE3c01aS1VWdmwzMVhUOVhxUWROWk1YUkQ1Rm5DbU1CNnpVeW44Tk00TWcyWXltd1RQaklmUnVjWThnOXNZYlNDb0RHU0d4YmdIemxlXzhYZF8tWlBmT2dF?oc=5)
 
 2026-04-30 <span class="news-indication-tag">AF</span>
 
-來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ3lRX1pxbDExZWdVbVFFVVRtalc4YzN0d2ZhTEhUUDhiazdzMHBKSGlSTHh4OU8xMEJYNnpWLXA0T25FQkVoRU5FOS1Cc2NPTmdiRUt2T3VHV090Q1YwdkFqZHFKOVFCLU0tR0x5X0JMQVM2TUYySFhZcU5pUkRrNDNMdkpQbWJGQnVUWWE4Q2QwazNINC1SLTA2c1hKUC05MTRTalN5aGVhVnRHOTJ2ckd5SFV6cWhOMVZiYUY2Um1rVFFSU0FrWDFIVHVzVm5QcTlEZUpXWEYwZ2tzUnVqNHRHXzhXTVZHNGF3MlJZbTd5dHhfZ25DamktRQ?oc=5)
-
----
-
-### [Wissenschaftspreis für Dr. van den Bruck - Uniklinik Köln](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1lSS2VkZE9SdnJ2ODBZYWVoQ3NUM0hySkxyeXN6S3ViUmxILVF1MkxVZDN5eDlTY0FhNTNTUUU5SE1OeGQ5WEZ3R1hIM3B3ZDlCRjdsX3pOTm1TR3ZMOXZRMmxQS08tc0JEdlRqN2RwYlZlbUNWakZ4U3JpX3VDSUQwdjhrd0RLUUo2XzFNU0VacmUxYmpZbGVrT19MdlotYXBDUjRlU2E?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[Uniklinik Köln](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR1lSS2VkZE9SdnJ2ODBZYWVoQ3NUM0hySkxyeXN6S3ViUmxILVF1MkxVZDN5eDlTY0FhNTNTUUU5SE1OeGQ5WEZ3R1hIM3B3ZDlCRjdsX3pOTm1TR3ZMOXZRMmxQS08tc0JEdlRqN2RwYlZlbUNWakZ4U3JpX3VDSUQwdjhrd0RLUUo2XzFNU0VacmUxYmpZbGVrT19MdlotYXBDUjRlU2E?oc=5)
-
----
-
-### [Höhere Griffkraft in der Frühschwangerschaft mit geringerem Risiko für Schwangerschaftshypertonie assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaW1BY3ZSeUg2ZTVmYWlROFNfYmNFUnlBcmZlREM1aXpiRk1WaTdVYnBPckk3V0ViS09wRFYxOW9aMlpINWdCZjRBQWpTeDRJUWN3WXM0R21XVHRld3k3NEdreUF6UU96VERDd212dzFkMXY3dVlXZVg3V3p0MllCc3E4TmF5N0RVX2hvdUdpZHh5RlZWTWdVVEZvcS1LX01TUDYtcXJaOUMycU53LWtwS1E4VzVSZGU5TmIya2RqQ1pVbk1QSUotS1lyMkQ5VGtQeC1QZWFuMzU?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaW1BY3ZSeUg2ZTVmYWlROFNfYmNFUnlBcmZlREM1aXpiRk1WaTdVYnBPckk3V0ViS09wRFYxOW9aMlpINWdCZjRBQWpTeDRJUWN3WXM0R21XVHRld3k3NEdreUF6UU96VERDd212dzFkMXY3dVlXZVg3V3p0MllCc3E4TmF5N0RVX2hvdUdpZHh5RlZWTWdVVEZvcS1LX01TUDYtcXJaOUMycU53LWtwS1E4VzVSZGU5TmIya2RqQ1pVbk1QSUotS1lyMkQ5VGtQeC1QZWFuMzU?oc=5)
-
----
-
-### [Boy, 8, saves lives after mum's organs decision](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MNTFzYndOZjhnc3FvX2h3TFExRmNNVzhCT2FldVloelNHaF82STgyQl81X0tfUEVTSU14bm9rU0V0MXpJYTJFMmduVmhoZk0tT0ZOdWhqWVZfNC1O?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MNTFzYndOZjhnc3FvX2h3TFExRmNNVzhCT2FldVloelNHaF82STgyQl81X0tfUEVTSU14bm9rU0V0MXpJYTJFMmduVmhoZk0tT0ZOdWhqWVZfNC1O?oc=5)
-
----
-
-### [El humo de los incendios forestales ya no solo afecta a los pulmones: lo relacionan con varios tipos de cáncer](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQnhhcnVuTEFVWVR5U3loVnJDb05zOWRDVk13SUlhcHRMV0h6WDFJTFFGMmF1R0w5SVVCQ1V6Q0xaT3h5emVuX0U3WjIzSllOcFB3YUhScm02bG1DTEtsMmYzSm5qeVlNSXpIVi1MeWxOdmNWc0o0cEtnb2NKTmM0UzhjRV8yTU9zSDk3cjBRaG1DdVZ5UUNuZEFQc013Um9yMlRtbTVVcDdnX2RDVHhEODdGXzJPM3hNVnkycElMUHBJV0EzZEk0WGdwcmpzRGZfUHFHTHRPWG9HVHE5eVRNRjNWNEdCZEFhbGVYZQ?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQnhhcnVuTEFVWVR5U3loVnJDb05zOWRDVk13SUlhcHRMV0h6WDFJTFFGMmF1R0w5SVVCQ1V6Q0xaT3h5emVuX0U3WjIzSllOcFB3YUhScm02bG1DTEtsMmYzSm5qeVlNSXpIVi1MeWxOdmNWc0o0cEtnb2NKTmM0UzhjRV8yTU9zSDk3cjBRaG1DdVZ5UUNuZEFQc013Um9yMlRtbTVVcDdnX2RDVHhEODdGXzJPM3hNVnkycElMUHBJV0EzZEk0WGdwcmpzRGZfUHFHTHRPWG9HVHE5eVRNRjNWNEdCZEFhbGVYZQ?oc=5)
-
----
-
-### ['Turning back the years' 82p-a-day product people say are 'minimizing wrinkles'](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
-
-2026-04-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
-
----
-
-### [Así funciona la consulta de ITS para adolescentes que en siete años ha visto a más de 300 jóvenes - El Confidencial](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHZOQmpGUU9GdUxyb0pkX1AwZHdDV0NpMW5IYllWWURTLW5tVVVFUEJPTGwxajdPTTZxT3NYMHVNRTVRMHdKV0hQcU5RZkxZaWY2eElsNUV1dzkya3Q5WFRxZHFFWk9kTEVNMUdXdFMtQ3FZcXBHUmN1ejBEcHFkU1VqSm50OEhpVVl6T1d6LTlsOGgtMkpZM29wTQ?oc=5)
-
-2026-04-30 <span class="news-indication-tag">AF</span>
-
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHZOQmpGUU9GdUxyb0pkX1AwZHdDV0NpMW5IYllWWURTLW5tVVVFUEJPTGwxajdPTTZxT3NYMHVNRTVRMHdKV0hQcU5RZkxZaWY2eElsNUV1dzkya3Q5WFRxZHFFWk9kTEVNMUdXdFMtQ3FZcXBHUmN1ejBEcHFkU1VqSm50OEhpVVl6T1d6LTlsOGgtMkpZM29wTQ?oc=5)
+來源：[Pamplona Actual](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZkczVTA5Z29mZ0hmLUM0ekRvY3RXQlowRDVDTzk4bnhDOF80S3FGaFdNZmllc0Y5UmRsbGxnQ0JoRFl3S0ZWWlJBMFVhVW5EVUY4QjNDSzBUd0JpRmUzbjlDNGJDanpRcjZQRnIxXzFpR0xZWjY0azhPU0FKa1pCdWdCcllxV2IwMWhzako1eWk0UXE3c01aS1VWdmwzMVhUOVhxUWROWk1YUkQ1Rm5DbU1CNnpVeW44Tk00TWcyWXltd1RQaklmUnVjWThnOXNZYlNDb0RHU0d4YmdIemxlXzhYZF8tWlBmT2dF?oc=5)
 
 ---
 

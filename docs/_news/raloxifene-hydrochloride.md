@@ -54,19 +54,19 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（2 則）
 
+### [Una solución de IA permite la detección precoz de la aterosclerosis analizando imágenes oculares](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">ictus</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
+
+---
+
 ### [Niveles altos de ácido úrico se asocian a mayor riesgo cardiovascular en mujeres mayores de 50 - 65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
 
 2026-05-01 <span class="news-indication-tag">ictus</span>
 
 來源：[65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
-
----
-
-### ['I had a stroke at the weekend so didn't get a thrombectomy'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbi1DY1daTlE1cWNmU0tJMnlqVFNtZDFMZW40cF80ejBPbkR3ZUJaMS05UEtqYlNzZHlXdXo4aHRqUEVLWE9jaHpsVUlQRVgtYURYTkNFaUlrVDF4?oc=5)
-
-2026-04-30 <span class="news-indication-tag">stroke</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbi1DY1daTlE1cWNmU0tJMnlqVFNtZDFMZW40cF80ejBPbkR3ZUJaMS05UEtqYlNzZHlXdXo4aHRqUEVLWE9jaHpsVUlQRVgtYURYTkNFaUlrVDF4?oc=5)
 
 ---
 

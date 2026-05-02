@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Avanafil</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（19 則）
+
+### [Cancer du pancréas : pour la première fois en Europe, un traitement innovant testé sur un patient au CHU de Grenoble](https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG82ZEM1c2NGTlhCNjFaekVTYnh4WEU3bGtrM1JSNW9JRUpXcXRiTjFrZ1Z6VnBnQVNXdldNa3F3UU1WNFZBb192OTlCdmNORjViNzIybWdPZ0ZIWE9FaWc4eTc0eVB5M2ZxMWtOREkzR0VhUTdrM1Z5eHZzLWRKZ1Ryd1lUVDhzZHduT0xLVUNIQV9RWGt5MF9XVkZKOTNrN0dCaUdNaG5jNjRQa09MQUwzQkwzM3JERndLWm9TOHJMOTNsZ2I1bHJOS1hVZ2xOOGh1RlYwTkVZNmxPR0ZCS24yUko5QkxBTVRlMW54cHNFMEppRk8zMA?oc=5)
+
+2026-05-02 <span class="news-indication-tag">cancer</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG82ZEM1c2NGTlhCNjFaekVTYnh4WEU3bGtrM1JSNW9JRUpXcXRiTjFrZ1Z6VnBnQVNXdldNa3F3UU1WNFZBb192OTlCdmNORjViNzIybWdPZ0ZIWE9FaWc4eTc0eVB5M2ZxMWtOREkzR0VhUTdrM1Z5eHZzLWRKZ1Ryd1lUVDhzZHduT0xLVUNIQV9RWGt5MF9XVkZKOTNrN0dCaUdNaG5jNjRQa09MQUwzQkwzM3JERndLWm9TOHJMOTNsZ2I1bHJOS1hVZ2xOOGh1RlYwTkVZNmxPR0ZCS24yUko5QkxBTVRlMW54cHNFMEppRk8zMA?oc=5)
+
+---
+
+### [Una solución de IA permite la detección precoz de la aterosclerosis analizando imágenes oculares](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">ictus</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
+
+---
 
 ### [Australia wants to be first nation in the world to eliminate a cancer - can it?](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
@@ -174,11 +190,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Künstliche Intelligenz in der Pathologie ermöglicht tieferes Verständnis von Tumorerkrankungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
+### [Tieferes Verständnis von Krebs dank KI in der Pathologie - Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
 
-2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
+來源：[Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
 
 ---
 
@@ -187,38 +203,6 @@ permalink: /news/avanafil/
 2026-04-30 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
-
----
-
-### [Infrarotlicht aktiviert Nano-Medikament: Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkVDLTFfcVJSeGppTkpxUVpsREU1QU9Idmw5UUZPX1hRR2hfVm83QzdPNnN5amsyb19vVkdJX1BJWG5OUkhFamczM3FvVk5tQXFvLWxLRndmSFVyOEY5aXdxN051ZzBjN1JnYkJEajRHTWt0a0l1X3VTLTB3QTNUR2hydml3ZDhVT2p5YnZYWlhZWkt4Tk1jTUFzWkY4NDV4TjY3eWhrZzJReGFVdWdQbzdtQW16UlBhODNMZVZoWE5FX2o3ZWM3WkpfajlHcXdf?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span>
-
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkVDLTFfcVJSeGppTkpxUVpsREU1QU9Idmw5UUZPX1hRR2hfVm83QzdPNnN5amsyb19vVkdJX1BJWG5OUkhFamczM3FvVk5tQXFvLWxLRndmSFVyOEY5aXdxN051ZzBjN1JnYkJEajRHTWt0a0l1X3VTLTB3QTNUR2hydml3ZDhVT2p5YnZYWlhZWkt4Tk1jTUFzWkY4NDV4TjY3eWhrZzJReGFVdWdQbzdtQW16UlBhODNMZVZoWE5FX2o3ZWM3WkpfajlHcXdf?oc=5)
-
----
-
-### ['I had a stroke at the weekend so didn't get a thrombectomy'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbi1DY1daTlE1cWNmU0tJMnlqVFNtZDFMZW40cF80ejBPbkR3ZUJaMS05UEtqYlNzZHlXdXo4aHRqUEVLWE9jaHpsVUlQRVgtYURYTkNFaUlrVDF4?oc=5)
-
-2026-04-30 <span class="news-indication-tag">stroke</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fbi1DY1daTlE1cWNmU0tJMnlqVFNtZDFMZW40cF80ejBPbkR3ZUJaMS05UEtqYlNzZHlXdXo4aHRqUEVLWE9jaHpsVUlQRVgtYURYTkNFaUlrVDF4?oc=5)
-
----
-
-### [Scientists Reveal Why Breast Cancer Risk Rises With Age](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
-
-2026-04-30 <span class="news-indication-tag">cancer</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
-
----
-
-### [L'IA individua i segnali al pancreas fino a 3 anni prima](https://news.google.com/rss/articles/CBMihgFBVV95cUxON1hsZWE5SEpnSUIwRjd1Uk45WDh6dkNCOGsyYjlGMTdUOGljdUpYY01xOFFLMF9lRTlTazJLVGF2TV9XMWlJbEZZQ3U1MTZlMnlaUG5IREdlRjFGMnJNQzVSMG9BZUQtSWpJRFZIV01vRmVPQklZLTNMLXdiWkU4ZjRqeXdXdw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxON1hsZWE5SEpnSUIwRjd1Uk45WDh6dkNCOGsyYjlGMTdUOGljdUpYY01xOFFLMF9lRTlTazJLVGF2TV9XMWlJbEZZQ3U1MTZlMnlaUG5IREdlRjFGMnJNQzVSMG9BZUQtSWpJRFZIV01vRmVPQklZLTNMLXdiWkU4ZjRqeXdXdw?oc=5)
 
 ---
 

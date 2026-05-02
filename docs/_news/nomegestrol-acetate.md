@@ -14,7 +14,7 @@ permalink: /news/nomegestrol-acetate/
 ---
 
 <p class="key-answer" data-question="Nomegestrol Acetate 有什麼相關新聞？">
-<strong>Nomegestrol Acetate</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nomegestrol Acetate</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/nomegestrol-acetate/
 <p><a href="{{ '/drugs/nomegestrol-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（18 則）
+
+### [Cancer du pancréas : pour la première fois en Europe, un traitement innovant testé sur un patient au CHU de Grenoble](https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG82ZEM1c2NGTlhCNjFaekVTYnh4WEU3bGtrM1JSNW9JRUpXcXRiTjFrZ1Z6VnBnQVNXdldNa3F3UU1WNFZBb192OTlCdmNORjViNzIybWdPZ0ZIWE9FaWc4eTc0eVB5M2ZxMWtOREkzR0VhUTdrM1Z5eHZzLWRKZ1Ryd1lUVDhzZHduT0xLVUNIQV9RWGt5MF9XVkZKOTNrN0dCaUdNaG5jNjRQa09MQUwzQkwzM3JERndLWm9TOHJMOTNsZ2I1bHJOS1hVZ2xOOGh1RlYwTkVZNmxPR0ZCS24yUko5QkxBTVRlMW54cHNFMEppRk8zMA?oc=5)
+
+2026-05-02 <span class="news-indication-tag">cancer</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG82ZEM1c2NGTlhCNjFaekVTYnh4WEU3bGtrM1JSNW9JRUpXcXRiTjFrZ1Z6VnBnQVNXdldNa3F3UU1WNFZBb192OTlCdmNORjViNzIybWdPZ0ZIWE9FaWc4eTc0eVB5M2ZxMWtOREkzR0VhUTdrM1Z5eHZzLWRKZ1Ryd1lUVDhzZHduT0xLVUNIQV9RWGt5MF9XVkZKOTNrN0dCaUdNaG5jNjRQa09MQUwzQkwzM3JERndLWm9TOHJMOTNsZ2I1bHJOS1hVZ2xOOGh1RlYwTkVZNmxPR0ZCS24yUko5QkxBTVRlMW54cHNFMEppRk8zMA?oc=5)
+
+---
 
 ### [Australia wants to be first nation in the world to eliminate a cancer - can it?](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
@@ -174,11 +182,11 @@ permalink: /news/nomegestrol-acetate/
 
 ---
 
-### [Künstliche Intelligenz in der Pathologie ermöglicht tieferes Verständnis von Tumorerkrankungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
+### [Tieferes Verständnis von Krebs dank KI in der Pathologie - Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
 
-2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-04-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldUNUd0QXI1dV82dlR2cjJUS29DSjJjVHpGUndvbkxocXNhX2ZROUljSS1lWVlOQUJyTklPa1VmOGdxMlZ6ZXc2QkIyaDN3QW1wUDdzZ3ZKa1BWQnJiMFE5TWJsMTFxTEtOaC05UlgyZURaOUU1WmIxeG1yV1NuNjF5SzA3Q1lNZ0JOWjZHZ3QtSm1pRlAxbmZwbFg4UHhlRG9GMDljRnVUbF9qMFJ5eE9xb0xyejRURlJYVHhkNmdPcFhFR29TRk1jSFNXYmFzWGRhd1ZmMkFwSjUtT3ZPM0VJaEh3Ynljc0dj?oc=5)
+來源：[Uniklinik Köln](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEhySnVRQjN5WWpGOWI1dXRpbjN1cjJFRUxRTHJTNXdZRU1wRXJJSXVQeklsSWhybVZJRFBpNXRnV204T05YTFB2N1JreDkyTGxhWnZoOHV1eHJPSDVfTi1NZUhVeW92aVJrRjVUYmpGWF9OZGk0LVdlOHlEOHJjS0dmcVduNDRqSmRseGN3U01zTHZyd2NxY0lsMHdyYm5nWWtpOWVYNXMxaFlOVlNhQ25YRm1jQW04N1Jkc1FsVQ?oc=5)
 
 ---
 
@@ -187,38 +195,6 @@ permalink: /news/nomegestrol-acetate/
 2026-04-30 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
-
----
-
-### [Infrarotlicht aktiviert Nano-Medikament: Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkVDLTFfcVJSeGppTkpxUVpsREU1QU9Idmw5UUZPX1hRR2hfVm83QzdPNnN5amsyb19vVkdJX1BJWG5OUkhFamczM3FvVk5tQXFvLWxLRndmSFVyOEY5aXdxN051ZzBjN1JnYkJEajRHTWt0a0l1X3VTLTB3QTNUR2hydml3ZDhVT2p5YnZYWlhZWkt4Tk1jTUFzWkY4NDV4TjY3eWhrZzJReGFVdWdQbzdtQW16UlBhODNMZVZoWE5FX2o3ZWM3WkpfajlHcXdf?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span>
-
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkVDLTFfcVJSeGppTkpxUVpsREU1QU9Idmw5UUZPX1hRR2hfVm83QzdPNnN5amsyb19vVkdJX1BJWG5OUkhFamczM3FvVk5tQXFvLWxLRndmSFVyOEY5aXdxN051ZzBjN1JnYkJEajRHTWt0a0l1X3VTLTB3QTNUR2hydml3ZDhVT2p5YnZYWlhZWkt4Tk1jTUFzWkY4NDV4TjY3eWhrZzJReGFVdWdQbzdtQW16UlBhODNMZVZoWE5FX2o3ZWM3WkpfajlHcXdf?oc=5)
-
----
-
-### [Scientists Reveal Why Breast Cancer Risk Rises With Age](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
-
-2026-04-30 <span class="news-indication-tag">cancer</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbG5jZ1lkNnJFb0RIWS1pTm9xMzNpcmh1THBqMG03M0dHNE1xOHRndnpUVjBiNTlxNl9uelV6UmdXc0lFc05KODVaWC1KTkMwcm9LV25DYVpmcGRGdzVhM2hjaWZKcE15VXowc3VUZVg3UnFpaER1TmszWG9vdHo1d3FtN280NldhYTZXWg?oc=5)
-
----
-
-### [L'IA individua i segnali al pancreas fino a 3 anni prima](https://news.google.com/rss/articles/CBMihgFBVV95cUxON1hsZWE5SEpnSUIwRjd1Uk45WDh6dkNCOGsyYjlGMTdUOGljdUpYY01xOFFLMF9lRTlTazJLVGF2TV9XMWlJbEZZQ3U1MTZlMnlaUG5IREdlRjFGMnJNQzVSMG9BZUQtSWpJRFZIV01vRmVPQklZLTNMLXdiWkU4ZjRqeXdXdw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxON1hsZWE5SEpnSUIwRjd1Uk45WDh6dkNCOGsyYjlGMTdUOGljdUpYY01xOFFLMF9lRTlTazJLVGF2TV9XMWlJbEZZQ3U1MTZlMnlaUG5IREdlRjFGMnJNQzVSMG9BZUQtSWpJRFZIV01vRmVPQklZLTNMLXdiWkU4ZjRqeXdXdw?oc=5)
-
----
-
-### ['Turning back the years' 82p-a-day product people say are 'minimizing wrinkles'](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
-
-2026-04-30 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTA3Sm1Od3c5bnltYWk4a01rZ3lOMkdVRzl6ajRjd2p1Z3JvRW9hdmVMMWROQll0MmgtVGJNVWhCV05xUUNfRnJta21jZjBLMzVCSVJ4ejZ3emZwbU9UdWZsS1RYOUt0UEs1UG5mSTI2cjhfalRvVGVhVTBSdXh5TjRpS0pJeXVHZzZpOG9rekhnTlpoZUZn0gGcAUFVX3lxTE5jZlY5N2hOSElkRjJvZDJQRVdfLTlmZkRCajF4X3VyR0pyMm9JQ1NyQWlKNG85N0hoZ3gxVUIyR0ZoUEF4eFR4Wmd6ZW5WR2pJMU8yYnFteUxWWW9uNHEydTRKdk5LeEI3akN0aXZ4S3NRRWFBSGdHdWhSU2prQ05TaGFQVVpGTE45SmxHWnB5VHJWN3ZfMHpvS2VuMA?oc=5)
 
 ---
 

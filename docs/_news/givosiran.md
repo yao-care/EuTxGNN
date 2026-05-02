@@ -54,11 +54,11 @@ permalink: /news/givosiran/
 
 ## 相關新聞（5 則）
 
-### [Síndrome metabólico, hígado graso y relación con cáncer de vías biliares - Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+### [El Área Sanitaria de Santiago, con solo un 0,10 % de positivos, roza ya la eliminación de la hepatitis C - El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB0gGfAUFVX3lxTE9QX0t0M1VmYjVQb0Z5SkRQajJiVWt0Xzh6Vnd6WmFaTTZSczE3bE1hQUY0VEdiZDFkc2J5TTE1Z3U1WS1CTl9Qc3Ewa2VldjNpZHprLXFzUlZrZllhRnJocFlVYjVuR1oxLVlOTkJfUktJVTExb1JzUGtidnA4Uldwai1OSnBfMUVUTWo3RDBRR1hvbmxoNnNYZ1lFMkI0cw?oc=5)
 
-2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+2026-05-02 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Clínica FEHV](https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0lwM0EtTXlpT0RERVJpYzZBdm42ZDY2MFk0dWVyazlBcExfVFVKLWd1bGZCUk1KM2dQN3lkN1E3OXpVT0dKWlRZZ25SRWR2Ul9lUnRLMXlCZWNXdDU2QXhLM1JrbVNtN281RUE2N3FKWV9XRF80c0JJVTZDa2xpdENmS1A2b1U?oc=5)
+來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB0gGfAUFVX3lxTE9QX0t0M1VmYjVQb0Z5SkRQajJiVWt0Xzh6Vnd6WmFaTTZSczE3bE1hQUY0VEdiZDFkc2J5TTE1Z3U1WS1CTl9Qc3Ewa2VldjNpZHprLXFzUlZrZllhRnJocFlVYjVuR1oxLVlOTkJfUktJVTExb1JzUGtidnA4Uldwai1OSnBfMUVUTWo3RDBRR1hvbmxoNnNYZ1lFMkI0cw?oc=5)
 
 ---
 
