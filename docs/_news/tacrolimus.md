@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li>psoriasis（98.7%）</li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,7 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Psoriasis an den Füßen kann kaum noch Schuhe anziehen](https://news.google.com/rss/articles/CBMiswFBVV95cUxON00zd2RjWlVKTmhRS0RaSXdzZlVrMjBNeVFCUy1wa3FDN2Y3VG5GWFNjTlFkajlSV1FwcU9VTElmMXRMemZwQi1NNGpYZVJTMnMtVU9wRjVUbERERDk0c0pWdFpJYmNwdkY1bEFzUHZFRjJ5WDZnNXpJM1JQbTVHeW9qZUZRdm9YRXc5ZFF2bkJQdkktZHRiWm9DdDUwcDItalVvRGhPaFAyZGhnSk5HOTAzQQ?oc=5)
+
+2026-05-03 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMiswFBVV95cUxON00zd2RjWlVKTmhRS0RaSXdzZlVrMjBNeVFCUy1wa3FDN2Y3VG5GWFNjTlFkajlSV1FwcU9VTElmMXRMemZwQi1NNGpYZVJTMnMtVU9wRjVUbERERDk0c0pWdFpJYmNwdkY1bEFzUHZFRjJ5WDZnNXpJM1JQbTVHeW9qZUZRdm9YRXc5ZFF2bkJQdkktZHRiWm9DdDUwcDItalVvRGhPaFAyZGhnSk5HOTAzQQ?oc=5)
+
+---
 
 ### [The Most Effective Knee Arthritis Treatments Aren’t What You Expect](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
 

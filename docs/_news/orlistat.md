@@ -70,6 +70,14 @@ permalink: /news/orlistat/
 
 ---
 
+### [Popular Weight-Loss Drugs Found To Cut Heart Attack and Stroke Risk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+2026-05-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AFib</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+---
+
 ### [Científicos británicos coinciden: estos son los tipos de cáncer más comunes en adultos jóvenes - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
 
 2026-05-02 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -83,14 +91,6 @@ permalink: /news/orlistat/
 2026-05-01 <span class="news-indication-tag">ictus</span>
 
 來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
-
----
-
-### [“Valori soglia dell’alta pressione sempre più bassi. Ma così crescono gli ipertesi a dismisura” - la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
 
 ---
 

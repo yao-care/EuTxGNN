@@ -62,19 +62,19 @@ permalink: /news/simvastatin/
 
 ---
 
+### [Popular Weight-Loss Drugs Found To Cut Heart Attack and Stroke Risk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+2026-05-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AFib</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+---
+
 ### [Una solución de IA permite la detección precoz de la aterosclerosis analizando imágenes oculares](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">ictus</span>
 
 來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
-
----
-
-### [“Valori soglia dell’alta pressione sempre più bassi. Ma così crescono gli ipertesi a dismisura” - la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
 
 ---
 

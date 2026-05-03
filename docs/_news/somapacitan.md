@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
 ### [Los especialistas piden que el asma infantil no se trate sólo cuando aparecen los síntomas](https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU82TXJEbmNLM0YyM3B3SlFqWnBVY2JaUkJtb1VSWjVSUHNZUDg0eVp0N2xqanBGUkZ4RGFqN25RT2J4ZjlJaEpGcF9tX1lMUmdGaURKVUxGOVVtR1R1dno3ZHZ1b1FPNGR2bUhnNWhNSmZwTE04RUpSelA1ZlhiUHRBdU1ROC1mS1BjM0xlTllqeXBWQlNiSjJZN2hyY1NRUl9hZXdjdzVjRHpEN3NaQUZyRktaUDdnYVE?oc=5)
 
@@ -115,22 +115,6 @@ permalink: /news/somapacitan/
 2026-05-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMia0FVX3lxTE85QXBVUFNnZUtVWkJseDFMRldDNkU2ZExKeWIwOGZ1ODAxdDFsaF9OUUFwVlRveE82blU3OTZ5MTRkU1RqT2NpQmZwR0V0Y2U1akNRM3dfQV84emlkbHJIbDlNWGZaeXBNNGln?oc=5)
-
----
-
-### [Studie zeigt, warum Abnehmen nicht jeden vor Diabetes schützt](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUZaVUdEUWJqRTZlcENwTU4tWk1Bd1JGbmdtdm5OdG5WQVRlR0tRUlBuR3pLQkNaMVdJNENaTUFQZmNRQ3dua0RIVzFENnMwYmh3ajc0ZERwV1pmUXo4ZmxLOUttdWFCNV9IY0FjeGtGdE91V3hSYU9jMGE2bFdwWDFPcFVzbmFhUTlDS1Rpc0Z6MnBycFhHb2tSQ1dxLXRjY2hoajFpdw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[HNA](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUZaVUdEUWJqRTZlcENwTU4tWk1Bd1JGbmdtdm5OdG5WQVRlR0tRUlBuR3pLQkNaMVdJNENaTUFQZmNRQ3dua0RIVzFENnMwYmh3ajc0ZERwV1pmUXo4ZmxLOUttdWFCNV9IY0FjeGtGdE91V3hSYU9jMGE2bFdwWDFPcFVzbmFhUTlDS1Rpc0Z6MnBycFhHb2tSQ1dxLXRjY2hoajFpdw?oc=5)
-
----
-
-### [Type 2 diabetes — 4 symptoms that appear on feet you shouldn't ignore - The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
-
-2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
 
 ---
 

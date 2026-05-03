@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [The signs you have ‘life dysmorphia’ and NOT depression or anxiety as hidden condition surges - and 7 tips to fix it - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRm5NSUFsVzc0MHBhRC1ONE1pMW9HZ0FwN1hUOS0tNzE2WGJadFJaM1JWek0zWndBOFUwbjd4Zi1KM0ZBcUFYX1BESENZUHB5OWJmQ1RvTzZFTlNVSGVmY0lJSXFoOW9CNE1Mei1oLWRuM0ZsMWpwQU80d3JuNVpDOEdqSWk?oc=5)
+
+2026-05-03 <span class="news-indication-tag">depression</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRm5NSUFsVzc0MHBhRC1ONE1pMW9HZ0FwN1hUOS0tNzE2WGJadFJaM1JWek0zWndBOFUwbjd4Zi1KM0ZBcUFYX1BESENZUHB5OWJmQ1RvTzZFTlNVSGVmY0lJSXFoOW9CNE1Mei1oLWRuM0ZsMWpwQU80d3JuNVpDOEdqSWk?oc=5)
+
+---
 
 ### [La depresión mayor afecta a una de cada 15 mujeres tras el parto, según un análisis global - Salud a Diario](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQThERkhiSFhTNG5adld6WVBGVW9BaDNJeVZodVRTbTE5ZU9xWUFrX3VzYVlhZko3VkhJUHpNUXZiaFdrTWJVVmFBM1R3VmRoR2ZmWjdKUkk4RmN3Y2RlcjFwTWNBandSUm14ZV9xODhiX1BGdTNsVlNDUE0yNUR4UExsOGtCMWJkajU2MmNRa3FMUTMxVV9oZ3dEdHpreXlSY3JHaWQ2al9QMHdzbkpBenBXTTRLcmR1YmFCM253MmtLRjNHRGFV?oc=5)
 

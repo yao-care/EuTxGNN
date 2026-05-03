@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dolutegravir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/dolutegravir/
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El Área Sanitaria de Santiago, con solo un 0,10 % de positivos, roza ya la eliminación de la hepatitis C - El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
-
-2026-05-02 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

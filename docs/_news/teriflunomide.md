@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
+
+### [Quatre morts, des dizaines de cas: la rougeole circule à bas bruit en France](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORllNVkFPT1RqQWpIbzhxc0VaNUlGdmZ3MmVIMHdOR2s0OHd3MEQyVkJPZVpGNlFrLVZmZzdUdUJ4WnB5YmQ2clNJRlB4WnRqb0I1QnNESnV3NnFWUHNIZXdRdXVhenVlTHhkRElPTTNVT3hjRFoyR0tad1Y1Q3BQU2k2QTB1bzFWRWdmbjVEakNZeE02RnBMc0RtRE1HR2ZKNjFLUmczRzlrSkl3Zk1na0ZQdmZKUkVWdTVqVUdURlE?oc=5)
+
+2026-05-03 <span class="news-indication-tag">MS</span>
+
+來源：[BFM](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORllNVkFPT1RqQWpIbzhxc0VaNUlGdmZ3MmVIMHdOR2s0OHd3MEQyVkJPZVpGNlFrLVZmZzdUdUJ4WnB5YmQ2clNJRlB4WnRqb0I1QnNESnV3NnFWUHNIZXdRdXVhenVlTHhkRElPTTNVT3hjRFoyR0tad1Y1Q3BQU2k2QTB1bzFWRWdmbjVEakNZeE02RnBMc0RtRE1HR2ZKNjFLUmczRzlrSkl3Zk1na0ZQdmZKUkVWdTVqVUdURlE?oc=5)
+
+---
+
+### [Northamptonshire MS charity plea for more volunteers and support](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWxPc3JmSEhxV3pMVXdidjREallWcU9Tdl9UcjRRbWpGR09NR1pLM3h6bUh2MVB4TDJCbkt3VHFnSFoxczZjOU5zaWlqcktvVkdmYVo0QkFzVjNs?oc=5)
+
+2026-05-03 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWxPc3JmSEhxV3pMVXdidjREallWcU9Tdl9UcjRRbWpGR09NR1pLM3h6bUh2MVB4TDJCbkt3VHFnSFoxczZjOU5zaWlqcktvVkdmYVo0QkFzVjNs?oc=5)
+
+---
 
 ### [Caminar hacia atrás: El giro inesperado que podría aportar beneficios en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDZEMXBsUTg2T3UxZ0l3M0lzXy1xbGl3T0hOQko0V2YzakVFS1lxTl90enl6UG9vNVdqOTFlbUt0UlJNZDF0aTRBNlB1NTh4Qmk3UEpleEJNbFVVOWlnenduV2tLcmtxRUlTOVRtSk5pVTE3akJQb1FHZEcyc0k5alh4WUxkMWRTMF9fUW1JWERDSDMxbmZQQjlzbDFLS3V5SnMwMDFKdXo0NVF2Q25mTTViX0lSR0ZiY19PT1JPWC15OVBHWVliTGgtMlh5T0Yt?oc=5)
 
@@ -107,38 +123,6 @@ permalink: /news/teriflunomide/
 2026-05-02 <span class="news-indication-tag">MS</span>
 
 來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxONDhrOWZndkQ4THNLbEd3emoyQmdJLVNQRFc5WWQ4cDh1R0RfakdnRnBjSFdsX21rai1jdWQ1Z3c0YTNjQk1vWjhKWFdxR0ZXNGRCVnZrUUhncDdNck9fSXRZZndlVWNqNHN5b0dlZE9OMVJNN0Ffc1JaV2Y0Rmc3VjFvQ0FoRU80cUE?oc=5)
-
----
-
-### [Sclérose en plaques : le défi du vieillissement face à un suivi médical qui doit s’adapter - Charente Libre](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeF9PVzlHQlg0WFhZcnNVRmc2ZW5Sa0RhalEzbi1uWjV1eTFHSkJRRGt3SUowQTBDd0JXUU5CeHhTcDNVNEhRSC1pRjNsZmVkdnBENmpmRmNrNWlvdkpQd2JuVXc3N3ZjN2c5SXl4ZmRzekg5UnhFTEtkcmNDUzFnaHZkSXM5Xy1xUG1QcElwZFhMeWk2ZHBiQko3VWY5cDR4eWhNY3lzdkJHaV8wZG0tUU9ZSk5GVWhjSEl3Q3AwdjU5UjgyMXUxMEY0NldIWWtTTHc?oc=5)
-
-2026-05-02 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeF9PVzlHQlg0WFhZcnNVRmc2ZW5Sa0RhalEzbi1uWjV1eTFHSkJRRGt3SUowQTBDd0JXUU5CeHhTcDNVNEhRSC1pRjNsZmVkdnBENmpmRmNrNWlvdkpQd2JuVXc3N3ZjN2c5SXl4ZmRzekg5UnhFTEtkcmNDUzFnaHZkSXM5Xy1xUG1QcElwZFhMeWk2ZHBiQko3VWY5cDR4eWhNY3lzdkJHaV8wZG0tUU9ZSk5GVWhjSEl3Q3AwdjU5UjgyMXUxMEY0NldIWWtTTHc?oc=5)
-
----
-
-### [El Área Sanitaria de Santiago, con solo un 0,10 % de positivos, roza ya la eliminación de la hepatitis C - El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
-
-2026-05-02 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
-
----
-
-### [A Simple Eye Test Done at the Bedside May Tell Doctors Exactly When a Patient Has Hours Left to Live - Indian Defence Review](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk1adklST0R4eTNkY1piNGVsNnNud215ejRoWS00NTV5S1cybUNaaFJqdWxlYVJkWlJCd21xT1BUMDhHNjdpakZEMUR0UjZ5NExacTZSQV9PRGNXdGVNT1BwUzlTSVlHSzE4d0ZKamZkS3RFUG9ZTGgtWnByM3Y4R2dubTNaeDBnRWhKWFFPYjcyWURud1NDeEt3?oc=5)
-
-2026-05-01 <span class="news-indication-tag">MS</span>
-
-來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk1adklST0R4eTNkY1piNGVsNnNud215ejRoWS00NTV5S1cybUNaaFJqdWxlYVJkWlJCd21xT1BUMDhHNjdpakZEMUR0UjZ5NExacTZSQV9PRGNXdGVNT1BwUzlTSVlHSzE4d0ZKamZkS3RFUG9ZTGgtWnByM3Y4R2dubTNaeDBnRWhKWFFPYjcyWURud1NDeEt3?oc=5)
-
----
-
-### [Type 2 diabetes — 4 symptoms that appear on feet you shouldn't ignore - The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
-
-2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
 
 ---
 

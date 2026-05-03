@@ -14,7 +14,7 @@ permalink: /news/sitagliptin/
 ---
 
 <p class="key-answer" data-question="Sitagliptin 有什麼相關新聞？">
-<strong>Sitagliptin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Sitagliptin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/sitagliptin/
 <p><a href="{{ '/drugs/sitagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
 ### [Un paté funcional enriquecido en silicio muestra efectos beneficiosos en la prevención de la diabetes tipo 2 - Andalucía Información](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTREQzFtSVE4cVp0d29Lbncwc1h5aHVmb0x5ZXVfN194UVBidlJIT2pPRmstVU9LdzNZY2RudmtyVFBBNmVYS3JXZ2xfcE1pb0IxOVpiR3JfZVpjYy1sZTFfUGdwalFJMTctd3BZWnBsYTRzcVFVRy1wZ2lUb0Y5ajkwam5ZRWVLQU5RWEp1OHV0UkFEa0NPN0t4WncxQzYtYnpPUnQ1VTZ3WVRsRm9rY2JoLXRTam1LVEVnSnQ0VnpfYUZwTXh5LUE4LV8wSk44RFFGdTljVmV4WngyUFNhemRiYXBmLTVQWVJ6Mk9sTEo2cFVHVkhkS0VnSUdBZ9IBgwJBVV95cUxQMHN6amFFczl0al9GeXZiUjN2dHZUV2NiX3gwVkVoT25qb0tyeWFFZXNzcF9GNk1wUU1uZThuNG03VlNILWtFUW9kOEJ0M3l0T2VTb3dqaUNVczNQR0F5b1ZMcmhTNFU3M3FRMzc5VVJHdkpMTXdzUTBFa3pDdG5Bcmw4OElGZFpIYzlZbm1lcUtjeE51bDB1bVVnbnVGdVdCY0lkS0RYdEZnVHdPSHQ2dkNtUmVOLWdhcHd0aTZ2UVlHVjlXaC13THJCT2MtMlFsODFWeGFCUFJhR2RacHRCTGF2czZ4eFM3LTNNV1dDX0J4Q0pjNWRQOElQc2hRenE4UWZz?oc=5)
 
@@ -80,22 +80,6 @@ permalink: /news/sitagliptin/
 2026-05-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMia0FVX3lxTE85QXBVUFNnZUtVWkJseDFMRldDNkU2ZExKeWIwOGZ1ODAxdDFsaF9OUUFwVlRveE82blU3OTZ5MTRkU1RqT2NpQmZwR0V0Y2U1akNRM3dfQV84emlkbHJIbDlNWGZaeXBNNGln?oc=5)
-
----
-
-### [Studie zeigt, warum Abnehmen nicht jeden vor Diabetes schützt](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUZaVUdEUWJqRTZlcENwTU4tWk1Bd1JGbmdtdm5OdG5WQVRlR0tRUlBuR3pLQkNaMVdJNENaTUFQZmNRQ3dua0RIVzFENnMwYmh3ajc0ZERwV1pmUXo4ZmxLOUttdWFCNV9IY0FjeGtGdE91V3hSYU9jMGE2bFdwWDFPcFVzbmFhUTlDS1Rpc0Z6MnBycFhHb2tSQ1dxLXRjY2hoajFpdw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[HNA](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUZaVUdEUWJqRTZlcENwTU4tWk1Bd1JGbmdtdm5OdG5WQVRlR0tRUlBuR3pLQkNaMVdJNENaTUFQZmNRQ3dua0RIVzFENnMwYmh3ajc0ZERwV1pmUXo4ZmxLOUttdWFCNV9IY0FjeGtGdE91V3hSYU9jMGE2bFdwWDFPcFVzbmFhUTlDS1Rpc0Z6MnBycFhHb2tSQ1dxLXRjY2hoajFpdw?oc=5)
-
----
-
-### [Type 2 diabetes — 4 symptoms that appear on feet you shouldn't ignore - The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
-
-2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
 
 ---
 

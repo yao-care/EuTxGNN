@@ -14,7 +14,7 @@ permalink: /news/olaparib/
 ---
 
 <p class="key-answer" data-question="Olaparib 有什麼相關新聞？">
-<strong>Olaparib</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Olaparib</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/olaparib/
 <p><a href="{{ '/drugs/olaparib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
+
+### [Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ja3UtWldkYnBtZXY1bWQzbG9NcGdfMWg4dlp3MW0zaUE4bEVMYURUak52VGF5UURqUmNKUGlrVVc1R0lhOGpPYzUyaFJFZjRRY3hYYWRMN19pTFM1ZVpBV1RrWFdhQ0RrNGEwbFFtWQ?oc=5)
+
+2026-05-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sardona24](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ja3UtWldkYnBtZXY1bWQzbG9NcGdfMWg4dlp3MW0zaUE4bEVMYURUak52VGF5UURqUmNKUGlrVVc1R0lhOGpPYzUyaFJFZjRRY3hYYWRMN19pTFM1ZVpBV1RrWFdhQ0RrNGEwbFFtWQ?oc=5)
+
+---
+
+### [Vous pensez qu’il faut absolument faire 10 000 pas par jour ? Ce n’est pas si évident que ça - Le HuffPost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVZjQ21zMXZ4Tk9RcjZFLXc1UE8tb19wM1FIU0NxZnI4eFE1N3FNenNocGFOYVE3Z0xmR2dOc01uRHEzblpuc29IWWM1LXJkWC03cWJWb1hBODZBWGN1SU55d0tkLUc2enAybnZtOE1ZTjBOVHliVVdNalVWMllSQmFoaERnbnhrSndTWHVtOGlrVXZPY0tFTEF2MXE5WXhmM1VmZC1oU1ZObXE0OWJFMkFucmc4b0xLdkJXTUlUUXBiWU0wc294enI3T2tmN0FzY2dRZklEOXctdVNFQ2M2eU96YWZPbVRNTW9oa2FLcnk?oc=5)
+
+2026-05-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Le HuffPost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVZjQ21zMXZ4Tk9RcjZFLXc1UE8tb19wM1FIU0NxZnI4eFE1N3FNenNocGFOYVE3Z0xmR2dOc01uRHEzblpuc29IWWM1LXJkWC03cWJWb1hBODZBWGN1SU55d0tkLUc2enAybnZtOE1ZTjBOVHliVVdNalVWMllSQmFoaERnbnhrSndTWHVtOGlrVXZPY0tFTEF2MXE5WXhmM1VmZC1oU1ZObXE0OWJFMkFucmc4b0xLdkJXTUlUUXBiWU0wc294enI3T2tmN0FzY2dRZklEOXctdVNFQ2M2eU96YWZPbVRNTW9oa2FLcnk?oc=5)
+
+---
+
+### [Tumore al pancreas: ritirato lo studio che aveva scoperto una nuova cura per il cancro - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPby1tWC0wYW9zMDRodl9RLWIyU2E5TGJnQUpMT2tySUp2S3hrSTJoYnEtVy1TSV9XTWxIMXlvcWg2RU5kdUxmbGVlMVNPVEhZWU5ZcUlBY0lONGNqRmUzYTUxdTN2Tl9OX0JQdEhGcm1wZzUzMGd0Y2lLcmlydk1icENtcXJhLVRrcHVjMnllWUgyeGZSWXBjRmRqLTRNN1FSZHNEb0x3TWNZOE5tMnJ1RVRwVS1TcU5xa05SRkstV1hGNG82Z0MxT3V6UUtWNVo0aUkwQW4zWXVwVk9oZFZuODh3NTM1UWfSAcABQVVfeXFMTUY3M2lUTXRaellLYVhGQTJ1bENPeDBEd2hsU2U3R2lpVTlUcDN0V1RveXkwQXdsRzNYcHdhelg1bTJ0dTczNnRPQzREWmxoeWU3bW5tRndWcjJTenBuLUhJUnpvdW5IMjZOaEQ5S2N4RUs5bWxYNVAwWTVkd1V1bEM1V1p1N3hWLVFQanZOd0d5MHhPQktWaFQwemZiZUc4X0tpWW55YzFpNnNNS3I4XzVWdDJtWEhqQ0Rka3NlMi1P?oc=5)
+
+2026-05-03 <span class="news-indication-tag">tumor</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPby1tWC0wYW9zMDRodl9RLWIyU2E5TGJnQUpMT2tySUp2S3hrSTJoYnEtVy1TSV9XTWxIMXlvcWg2RU5kdUxmbGVlMVNPVEhZWU5ZcUlBY0lONGNqRmUzYTUxdTN2Tl9OX0JQdEhGcm1wZzUzMGd0Y2lLcmlydk1icENtcXJhLVRrcHVjMnllWUgyeGZSWXBjRmRqLTRNN1FSZHNEb0x3TWNZOE5tMnJ1RVRwVS1TcU5xa05SRkstV1hGNG82Z0MxT3V6UUtWNVo0aUkwQW4zWXVwVk9oZFZuODh3NTM1UWfSAcABQVVfeXFMTUY3M2lUTXRaellLYVhGQTJ1bENPeDBEd2hsU2U3R2lpVTlUcDN0V1RveXkwQXdsRzNYcHdhelg1bTJ0dTczNnRPQzREWmxoeWU3bW5tRndWcjJTenBuLUhJUnpvdW5IMjZOaEQ5S2N4RUs5bWxYNVAwWTVkd1V1bEM1V1p1N3hWLVFQanZOd0d5MHhPQktWaFQwemZiZUc4X0tpWW55YzFpNnNNS3I4XzVWdDJtWEhqQ0Rka3NlMi1P?oc=5)
+
+---
+
+### [L'aspirine réduirait les risques de cancer, c'est la science qui le dit](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYU5rbG1YaloxSUJWR1ZYUS1QN2RoWEFIZy1ZNzlLaVR4OWx1TWJjMkNDYWR0ZWliWmpxOW1vZGZaWnhoNXhURnBaRzRjUHVQd2VQY0JvMF9LLUlnc2NhZWJkV2dQY2ltajJVdFZSd0c1MzVjQ3dVWnNEVVp3TVpvdXMzVDZ3cW81RDBvWjNaMS1ZQdIBlwFBVV95cUxNYkREcW1aaElBVFpiT0ktQUdBR25kZDFRcUxBMkFoM21UODEzWFZINy1tdE5SMmVnU2dJaXpGTVpFaElXbU14WlhYZkdtQ0IxdGMtT3VTNV9xSHNPR2JQUkhkU2w0RHV1blRyX1BmOUNzT0tPbGtDQXZDYmNEYUNiNU9Ca1Y2enlNRDlLanRMUXJlb2stR3pv?oc=5)
+
+2026-05-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Slate.fr](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYU5rbG1YaloxSUJWR1ZYUS1QN2RoWEFIZy1ZNzlLaVR4OWx1TWJjMkNDYWR0ZWliWmpxOW1vZGZaWnhoNXhURnBaRzRjUHVQd2VQY0JvMF9LLUlnc2NhZWJkV2dQY2ltajJVdFZSd0c1MzVjQ3dVWnNEVVp3TVpvdXMzVDZ3cW81RDBvWjNaMS1ZQdIBlwFBVV95cUxNYkREcW1aaElBVFpiT0ktQUdBR25kZDFRcUxBMkFoM21UODEzWFZINy1tdE5SMmVnU2dJaXpGTVpFaElXbU14WlhYZkdtQ0IxdGMtT3VTNV9xSHNPR2JQUkhkU2w0RHV1blRyX1BmOUNzT0tPbGtDQXZDYmNEYUNiNU9Ca1Y2enlNRDlLanRMUXJlb2stR3pv?oc=5)
+
+---
 
 ### [Cancer : un nouvel espoir pour lutter contre le glioblastome, la tumeur cérébrale la plus fréquente et la plus agressive - Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkNYU1h3VkY3VTNVcVpqeUwyUFJjLUNjc3NxbVNORzl2UlBVcHJVdDRNSkc5NEYyTGZtRXFPWHBVSWVfTU96VXAtaHlxV0xTemd3Sm9La0YySGVfVV9UclBteUZmSzVzRFZGWmpCV0tNTDRQLVMtaFZUNkhBejV3M1lOc1JPNU1seFBhNVRYQ056YnFXUVoxWEI5NFp3NW9WMVA5RmNKTkZGaUo2MnlqeUk2OFhBREhxdUdDQS1VQkpseDRvNG1vd1dqU3VvcFhNVHpaQWpoN1ZFcGY4NHNsekppRnNvblR1RjRKZUxXSDZ6TkFQczZmeGpn?oc=5)
 
 2026-05-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkNYU1h3VkY3VTNVcVpqeUwyUFJjLUNjc3NxbVNORzl2UlBVcHJVdDRNSkc5NEYyTGZtRXFPWHBVSWVfTU96VXAtaHlxV0xTemd3Sm9La0YySGVfVV9UclBteUZmSzVzRFZGWmpCV0tNTDRQLVMtaFZUNkhBejV3M1lOc1JPNU1seFBhNVRYQ056YnFXUVoxWEI5NFp3NW9WMVA5RmNKTkZGaUo2MnlqeUk2OFhBREhxdUdDQS1VQkpseDRvNG1vd1dqU3VvcFhNVHpaQWpoN1ZFcGY4NHNsekppRnNvblR1RjRKZUxXSDZ6TkFQczZmeGpn?oc=5)
+
+---
+
+### [Cancer du pancréas : un traitement innovant redonne espoir au corps médical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWtiRWZwNTdsRjVLdmIyc0I1eHVpajZVZjlLUHVzcTlZY0FPWkFJYU84TVlURGV5VU52X0xkTzRRM21NQjJNSDJZODFTQkpBT2pwYkZlRmRac2djWlhxLTdBOTRxU2VDV2xKUDF0TFViUEtxd19EakQ3TXczSE5xUUp2azF6czE1WmxYT3dDUVNCMUVHT1NoOE9hQnpjb3ZZQmtQZkcwY3hVMHFtNjJDUHFFaWN0YVhxWElqT0M2NGNDVWs?oc=5)
+
+2026-05-03 <span class="news-indication-tag">cancer</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWtiRWZwNTdsRjVLdmIyc0I1eHVpajZVZjlLUHVzcTlZY0FPWkFJYU84TVlURGV5VU52X0xkTzRRM21NQjJNSDJZODFTQkpBT2pwYkZlRmRac2djWlhxLTdBOTRxU2VDV2xKUDF0TFViUEtxd19EakQ3TXczSE5xUUp2azF6czE1WmxYT3dDUVNCMUVHT1NoOE9hQnpjb3ZZQmtQZkcwY3hVMHFtNjJDUHFFaWN0YVhxWElqT0M2NGNDVWs?oc=5)
 
 ---
 
@@ -70,14 +110,6 @@ permalink: /news/olaparib/
 
 ---
 
-### [Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
-
-2026-05-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Linth24](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
-
----
-
 ### [L'analyse par IA des scanners pancréatiques révèle les prémices du cancer 16 mois avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
 
 2026-05-02 <span class="news-indication-tag">cancer</span>
@@ -86,35 +118,27 @@ permalink: /news/olaparib/
 
 ---
 
-### [Lo studio sulla terapia contro il tumore al pancreas rimosso dalla rivista PNAS: "Gli autori in conflitto di interessi"](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc3JTZzJsYWFhZkpMdE5Td24yRzZOTHFKTy1jOEZJTXIwbmFkRTc0cmlXZmo2TzlFN0tHMEYxOVFUZHNGdmMySDcycDNNRGlxdTI2dHhkVUdHS1MwN2dFTVN3Yl9jQTlnQVNBaE9fLVNxNGVGXzJCem45bzZ4elowWHpyQjNrdGtKTlNFWGoyN1kwWXlSY1RQbm5tdlVKeGpwb3h2cnQ1Y0lSWW1vVGVCODF6RzZjd0dxeU03LWUxNUhtT0xwcTBwTlBXRTRaY2JNd3o3RDY3X1k1S2doWUN2YXFudlVYbU1DNUNNNHNyMDhTdw?oc=5)
-
-2026-05-02 <span class="news-indication-tag">tumor</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc3JTZzJsYWFhZkpMdE5Td24yRzZOTHFKTy1jOEZJTXIwbmFkRTc0cmlXZmo2TzlFN0tHMEYxOVFUZHNGdmMySDcycDNNRGlxdTI2dHhkVUdHS1MwN2dFTVN3Yl9jQTlnQVNBaE9fLVNxNGVGXzJCem45bzZ4elowWHpyQjNrdGtKTlNFWGoyN1kwWXlSY1RQbm5tdlVKeGpwb3h2cnQ1Y0lSWW1vVGVCODF6RzZjd0dxeU03LWUxNUhtT0xwcTBwTlBXRTRaY2JNd3o3RDY3X1k1S2doWUN2YXFudlVYbU1DNUNNNHNyMDhTdw?oc=5)
-
----
-
-### [Un espoir pour les malades : une radiothérapie ciblée sur le cancer du pancréas testée à Grenoble - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
+### [« Ce sont les progrès de la recherche qui m’ont sauvé » : en rémission, il marche au profit de la Ligue contre le cancer - L'Est Républicain](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTU5acjkzX0hBMUZDQ1RnNXlhdTZCcWpsWmxLUzlHNnFTeTB4TFIxNlZoa2NGdHlQemZYd2FiT2JSQW90a2ZZS2s5VDZ2dE1HaW9GMTNueU9udjkwZlBtMF9INTdqbUZqRWYyNGJiVlVYQjAwckNURkM0Wk0zZVYxU0plbHRWdkVKLW1fNHN4ZWh6QW1rT1AydWxHZklBUEk0UU0xanlLM21aTjIzWkRCaTNJemRhUEZWWHFaOFUtbVhfZDVMT05sMmo5OWVvdUtGY1lGLUtiMFl3SmJ6ZFN5dHF3MGJnbFBWRGZmcnhZeFE1S3lpZ0dldlpKQ21EcHc?oc=5)
 
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
+來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTU5acjkzX0hBMUZDQ1RnNXlhdTZCcWpsWmxLUzlHNnFTeTB4TFIxNlZoa2NGdHlQemZYd2FiT2JSQW90a2ZZS2s5VDZ2dE1HaW9GMTNueU9udjkwZlBtMF9INTdqbUZqRWYyNGJiVlVYQjAwckNURkM0Wk0zZVYxU0plbHRWdkVKLW1fNHN4ZWh6QW1rT1AydWxHZklBUEk0UU0xanlLM21aTjIzWkRCaTNJemRhUEZWWHFaOFUtbVhfZDVMT05sMmo5OWVvdUtGY1lGLUtiMFl3SmJ6ZFN5dHF3MGJnbFBWRGZmcnhZeFE1S3lpZ0dldlpKQ21EcHc?oc=5)
 
 ---
 
-### ["Das Leben kann so schnell vorbei sein" – Katharina Traber kämpft gegen den Krebs und um ihr Kind - Badische Zeitung](https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0wwR1JBMURrYms0LXE5UkhaSGdpTm5sRHBwNDNBSUY3SWlfTGdCT2JjTURHRXoxMnJ4YWR3T0tleHBmSFF1Q3hvSUtORlZoNXRXa3dFcUpCMnExUHhFWEpyNkRUOXczcUpSdUs4MW1OWkltdGZKcVhPRGdEQzg1X3NnelNjMWtOTFpBVEhzU29BbzQyWU94azc3bWVCNTNkSExnb1FkXzRZUnZtaGMzbXZmTzZwZmJoMWNyRTJjM3dZRXAt?oc=5)
-
-2026-05-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[Badische Zeitung](https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0wwR1JBMURrYms0LXE5UkhaSGdpTm5sRHBwNDNBSUY3SWlfTGdCT2JjTURHRXoxMnJ4YWR3T0tleHBmSFF1Q3hvSUtORlZoNXRXa3dFcUpCMnExUHhFWEpyNkRUOXczcUpSdUs4MW1OWkltdGZKcVhPRGdEQzg1X3NnelNjMWtOTFpBVEhzU29BbzQyWU94azc3bWVCNTNkSExnb1FkXzRZUnZtaGMzbXZmTzZwZmJoMWNyRTJjM3dZRXAt?oc=5)
-
----
-
-### [Atteint de tumeurs au cerveau, le garçon de 12 ans vend de la citronnade pour aider la recherche contre le cancer : un donateur anonyme lui verse 100 000 dollars](https://news.google.com/rss/articles/CBMipgJBVV95cUxNZmN6eUdURVVnejV5RkM2TGN0X0Q3c09DVmRNT0twcVVOSnYtUUd1bXE0TDhDVlBBUlkxRkZjRF84OEpISzFsbFc1MjRZMWs5RU1RYkRoVHkwY2xVaThqbVVGNjZKSks2NmNaZm1UQkZJMUNfYnpEY3RMSzk5OVVyd0hSMlBEWUdVR2N2TXVnS0JuekkxanU3RmZtUEhaS1hRM0ZNVjRRSGpDVnZ1NmJXTG1UTzRiSzJ6NFFUVm5QcnJZbFRndklMNDk3UjVBQm4zSHNCSkZvRlRKQk1KZE9SNnZFMXU0RlhuREkxQnhrVk9ZUXZFUDB2UVhTY21JdFJOQlV1V2pPeFhtRDR2THFwNVIyUVE4b0NjV05JOG53UGNVMkZ3WHc?oc=5)
+### [Prostate cancer diagnosed much later than other cancers - The Telegraph](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0Z4a3pvaEVIZG92S2dhSGxtVUFZeWlXUVAzaVJxdzM1UjRaWnVBaHF5cWFuaWRWS2hwc2JkRXRZNElvbVNSaDNLVi0tN3J4RzVtcGk3eVZfQkp6N0dabU0wbmMtNGFDaFdLYjg0cHJPUDNuMi0yZ3RSUFhHZDRnQmU2REh2SUVabzJFUg?oc=5)
 
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMipgJBVV95cUxNZmN6eUdURVVnejV5RkM2TGN0X0Q3c09DVmRNT0twcVVOSnYtUUd1bXE0TDhDVlBBUlkxRkZjRF84OEpISzFsbFc1MjRZMWs5RU1RYkRoVHkwY2xVaThqbVVGNjZKSks2NmNaZm1UQkZJMUNfYnpEY3RMSzk5OVVyd0hSMlBEWUdVR2N2TXVnS0JuekkxanU3RmZtUEhaS1hRM0ZNVjRRSGpDVnZ1NmJXTG1UTzRiSzJ6NFFUVm5QcnJZbFRndklMNDk3UjVBQm4zSHNCSkZvRlRKQk1KZE9SNnZFMXU0RlhuREkxQnhrVk9ZUXZFUDB2UVhTY21JdFJOQlV1V2pPeFhtRDR2THFwNVIyUVE4b0NjV05JOG53UGNVMkZ3WHc?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0Z4a3pvaEVIZG92S2dhSGxtVUFZeWlXUVAzaVJxdzM1UjRaWnVBaHF5cWFuaWRWS2hwc2JkRXRZNElvbVNSaDNLVi0tN3J4RzVtcGk3eVZfQkp6N0dabU0wbmMtNGFDaFdLYjg0cHJPUDNuMi0yZ3RSUFhHZDRnQmU2REh2SUVabzJFUg?oc=5)
+
+---
+
+### [Alzheimer’s may begin decades before memory loss, new timeline shows](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0J3TGxhZXJMUFcwTFV0RnREZ29KSUhDWURDdXAtZlJUaWdYLWZld0NJRFp3NGJJcXd1WU8zWEtBamNHU3lKMTZiUkpWU2RvY2M2LTl6eDJMQTI3NjlmczBzVWdJUjZZVEtaajJMYkVpVWVrbzdMaGNWMnNLRGp5NGhKcDJSTGwwNVBuV0dMNmNEeGVDd0QzUTZ3?oc=5)
+
+2026-05-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0J3TGxhZXJMUFcwTFV0RnREZ29KSUhDWURDdXAtZlJUaWdYLWZld0NJRFp3NGJJcXd1WU8zWEtBamNHU3lKMTZiUkpWU2RvY2M2LTl6eDJMQTI3NjlmczBzVWdJUjZZVEtaajJMYkVpVWVrbzdMaGNWMnNLRGp5NGhKcDJSTGwwNVBuV0dMNmNEeGVDd0QzUTZ3?oc=5)
 
 ---
 
@@ -123,14 +147,6 @@ permalink: /news/olaparib/
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
 來源：[Armagh I](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZweUpXMjdTZG8tVm5MMG1VaFpJN3pyY2l2cjhSU2ZyVUF1S0lKbUowd2thY0VUTF9zcHJwalZuNzJpejU0TFA1b0NzYWdKcHR3MDdwczAzQlkySlJabnU5UDE1UXp4VWdEN0IwTUdCVTZUcUFHWU1jYzJNbWxQQlcyTU5INF9rV1RsVi0wanJSSS0zSUwtU1FRUWhxczlYWVVIQkRxRmtNNU5oR2NvT2xHZU5mWWtSZGtCcG8zQnFWQkVRb0xB?oc=5)
-
----
-
-### [Italie. 7 ans après une ablation du sein, elle apprend qu'elle n'a jamais eu de cancer - Le Progrès](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVotR0Q3Z3pTcTE4ZmV5RERNenlpY1FQNU8zVkJ1cmR5ZnRlX2l3LVVpSWtHaXF3V3cza2JQYnVsYVplaVdNY2dtRkRhUFEtOEpmYWt3XzhzWGxKZ19CU3VjRkNGbUxLLTJlUkFCdGdrMG5BQ254RmVvTWdlbkxmS0VUdUozYXBZQ01QaVR2ZHhXbGx5ZlYtV3hiTlhQcXpCWjJ0RU8wRjYyV1FGU0tlY0FUVkIydHRYYnpZ?oc=5)
-
-2026-05-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVotR0Q3Z3pTcTE4ZmV5RERNenlpY1FQNU8zVkJ1cmR5ZnRlX2l3LVVpSWtHaXF3V3cza2JQYnVsYVplaVdNY2dtRkRhUFEtOEpmYWt3XzhzWGxKZ19CU3VjRkNGbUxLLTJlUkFCdGdrMG5BQ254RmVvTWdlbkxmS0VUdUozYXBZQ01QaVR2ZHhXbGx5ZlYtV3hiTlhQcXpCWjJ0RU8wRjYyV1FGU0tlY0FUVkIydHRYYnpZ?oc=5)
 
 ---
 

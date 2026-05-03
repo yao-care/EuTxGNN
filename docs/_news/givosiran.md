@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [El Área Sanitaria de Santiago, con solo un 0,10 % de positivos, roza ya la eliminación de la hepatitis C - El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
-
-2026-05-02 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
-
----
-
-### [“Valori soglia dell’alta pressione sempre più bassi. Ma così crescono gli ipertesi a dismisura” - la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

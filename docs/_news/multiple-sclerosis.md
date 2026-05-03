@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "esclerosis múltiple（multiple sclerosis） 相關新聞"
+title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "esclerosis múltiple（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
-# esclerosis múltiple（multiple sclerosis） 相關新聞
+# MS（multiple sclerosis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="esclerosis múltiple（multiple sclerosis） 有什麼相關新聞？">
-<strong>esclerosis múltiple（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「esclerosis múltiple」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「MS」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,7 +54,23 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Quatre morts, des dizaines de cas: la rougeole circule à bas bruit en France](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORllNVkFPT1RqQWpIbzhxc0VaNUlGdmZ3MmVIMHdOR2s0OHd3MEQyVkJPZVpGNlFrLVZmZzdUdUJ4WnB5YmQ2clNJRlB4WnRqb0I1QnNESnV3NnFWUHNIZXdRdXVhenVlTHhkRElPTTNVT3hjRFoyR0tad1Y1Q3BQU2k2QTB1bzFWRWdmbjVEakNZeE02RnBMc0RtRE1HR2ZKNjFLUmczRzlrSkl3Zk1na0ZQdmZKUkVWdTVqVUdURlE?oc=5)
+
+2026-05-03
+
+來源：[BFM](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORllNVkFPT1RqQWpIbzhxc0VaNUlGdmZ3MmVIMHdOR2s0OHd3MEQyVkJPZVpGNlFrLVZmZzdUdUJ4WnB5YmQ2clNJRlB4WnRqb0I1QnNESnV3NnFWUHNIZXdRdXVhenVlTHhkRElPTTNVT3hjRFoyR0tad1Y1Q3BQU2k2QTB1bzFWRWdmbjVEakNZeE02RnBMc0RtRE1HR2ZKNjFLUmczRzlrSkl3Zk1na0ZQdmZKUkVWdTVqVUdURlE?oc=5)
+
+---
+
+### [Northamptonshire MS charity plea for more volunteers and support](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWxPc3JmSEhxV3pMVXdidjREallWcU9Tdl9UcjRRbWpGR09NR1pLM3h6bUh2MVB4TDJCbkt3VHFnSFoxczZjOU5zaWlqcktvVkdmYVo0QkFzVjNs?oc=5)
+
+2026-05-03
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWxPc3JmSEhxV3pMVXdidjREallWcU9Tdl9UcjRRbWpGR09NR1pLM3h6bUh2MVB4TDJCbkt3VHFnSFoxczZjOU5zaWlqcktvVkdmYVo0QkFzVjNs?oc=5)
+
+---
 
 ### [Caminar hacia atrás: El giro inesperado que podría aportar beneficios en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDZEMXBsUTg2T3UxZ0l3M0lzXy1xbGl3T0hOQko0V2YzakVFS1lxTl90enl6UG9vNVdqOTFlbUt0UlJNZDF0aTRBNlB1NTh4Qmk3UEpleEJNbFVVOWlnenduV2tLcmtxRUlTOVRtSk5pVTE3akJQb1FHZEcyc0k5alh4WUxkMWRTMF9fUW1JWERDSDMxbmZQQjlzbDFLS3V5SnMwMDFKdXo0NVF2Q25mTTViX0lSR0ZiY19PT1JPWC15OVBHWVliTGgtMlh5T0Yt?oc=5)
 
@@ -109,30 +125,6 @@ permalink: /news/multiple-sclerosis/
 2026-05-02
 
 來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxONDhrOWZndkQ4THNLbEd3emoyQmdJLVNQRFc5WWQ4cDh1R0RfakdnRnBjSFdsX21rai1jdWQ1Z3c0YTNjQk1vWjhKWFdxR0ZXNGRCVnZrUUhncDdNck9fSXRZZndlVWNqNHN5b0dlZE9OMVJNN0Ffc1JaV2Y0Rmc3VjFvQ0FoRU80cUE?oc=5)
-
----
-
-### [Sclérose en plaques : le défi du vieillissement face à un suivi médical qui doit s’adapter - Charente Libre](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeF9PVzlHQlg0WFhZcnNVRmc2ZW5Sa0RhalEzbi1uWjV1eTFHSkJRRGt3SUowQTBDd0JXUU5CeHhTcDNVNEhRSC1pRjNsZmVkdnBENmpmRmNrNWlvdkpQd2JuVXc3N3ZjN2c5SXl4ZmRzekg5UnhFTEtkcmNDUzFnaHZkSXM5Xy1xUG1QcElwZFhMeWk2ZHBiQko3VWY5cDR4eWhNY3lzdkJHaV8wZG0tUU9ZSk5GVWhjSEl3Q3AwdjU5UjgyMXUxMEY0NldIWWtTTHc?oc=5)
-
-2026-05-02
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeF9PVzlHQlg0WFhZcnNVRmc2ZW5Sa0RhalEzbi1uWjV1eTFHSkJRRGt3SUowQTBDd0JXUU5CeHhTcDNVNEhRSC1pRjNsZmVkdnBENmpmRmNrNWlvdkpQd2JuVXc3N3ZjN2c5SXl4ZmRzekg5UnhFTEtkcmNDUzFnaHZkSXM5Xy1xUG1QcElwZFhMeWk2ZHBiQko3VWY5cDR4eWhNY3lzdkJHaV8wZG0tUU9ZSk5GVWhjSEl3Q3AwdjU5UjgyMXUxMEY0NldIWWtTTHc?oc=5)
-
----
-
-### [A Simple Eye Test Done at the Bedside May Tell Doctors Exactly When a Patient Has Hours Left to Live - Indian Defence Review](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk1adklST0R4eTNkY1piNGVsNnNud215ejRoWS00NTV5S1cybUNaaFJqdWxlYVJkWlJCd21xT1BUMDhHNjdpakZEMUR0UjZ5NExacTZSQV9PRGNXdGVNT1BwUzlTSVlHSzE4d0ZKamZkS3RFUG9ZTGgtWnByM3Y4R2dubTNaeDBnRWhKWFFPYjcyWURud1NDeEt3?oc=5)
-
-2026-05-01
-
-來源：[Indian Defence Review](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk1adklST0R4eTNkY1piNGVsNnNud215ejRoWS00NTV5S1cybUNaaFJqdWxlYVJkWlJCd21xT1BUMDhHNjdpakZEMUR0UjZ5NExacTZSQV9PRGNXdGVNT1BwUzlTSVlHSzE4d0ZKamZkS3RFUG9ZTGgtWnByM3Y4R2dubTNaeDBnRWhKWFFPYjcyWURud1NDeEt3?oc=5)
-
----
-
-### [Type 2 diabetes — 4 symptoms that appear on feet you shouldn't ignore - The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
-
-2026-05-01
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
 
 ---
 
