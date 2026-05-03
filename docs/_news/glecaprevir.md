@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
 ### [Caminar hacia atrás: El giro inesperado que podría aportar beneficios en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDZEMXBsUTg2T3UxZ0l3M0lzXy1xbGl3T0hOQko0V2YzakVFS1lxTl90enl6UG9vNVdqOTFlbUt0UlJNZDF0aTRBNlB1NTh4Qmk3UEpleEJNbFVVOWlnenduV2tLcmtxRUlTOVRtSk5pVTE3akJQb1FHZEcyc0k5alh4WUxkMWRTMF9fUW1JWERDSDMxbmZQQjlzbDFLS3V5SnMwMDFKdXo0NVF2Q25mTTViX0lSR0ZiY19PT1JPWC15OVBHWVliTGgtMlh5T0Yt?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/glecaprevir/
 2026-05-03 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEJhSjlEV0RwV2R5TjZVRW16VVdiUzJCQzBpVHdkVXZieXBpZVVZdjdHN3hQaWRhdGNKek80anlDQ0MwUl9QS3VzY1pYRUpyQk4tS1lIOVpZX1M5RXZlcW9oWDgxQnhLX2RSNFpYVThYZjZmQXdpNFVrbVFpR2NNbXNRZmhVa0d0NHRVVUtmZWNwOFZJQnczVEZtSlhDbnF3N19VQW03RTh6a2FURHpFX3NVUUIzalJtTDdhMUpRNi11dkpRVXQ0QWZZSEY?oc=5)
+
+---
+
+### [Two Supplements For Menopause May Actually Help, Expert Reveals](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUw1WDdOcUtvNTA5aXVpNl91MWxVbVV6QTMwbGx6X3JLV1pJSUdFRnAxVkEtT1ZMQl9iY0ZBU0FmWk5KbVc5N2NXRmE3cmNxSUpYeG5qUi1FRVFFeW92SXB0aTk2T0hYWlNqOFhyT1Y4RTB2VmlSRFg1M19lQXJ6a1RUVmFVSVBENnRwaHhpT2k2amhPa0E?oc=5)
+
+2026-05-03 <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUw1WDdOcUtvNTA5aXVpNl91MWxVbVV6QTMwbGx6X3JLV1pJSUdFRnAxVkEtT1ZMQl9iY0ZBU0FmWk5KbVc5N2NXRmE3cmNxSUpYeG5qUi1FRVFFeW92SXB0aTk2T0hYWlNqOFhyT1Y4RTB2VmlSRFg1M19lQXJ6a1RUVmFVSVBENnRwaHhpT2k2amhPa0E?oc=5)
 
 ---
 

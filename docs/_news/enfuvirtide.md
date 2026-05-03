@@ -14,7 +14,7 @@ permalink: /news/enfuvirtide/
 ---
 
 <p class="key-answer" data-question="Enfuvirtide 有什麼相關新聞？">
-<strong>Enfuvirtide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Enfuvirtide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/enfuvirtide/
 <p><a href="{{ '/drugs/enfuvirtide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
+
+### [Cancer : un nouvel espoir pour lutter contre le glioblastome, la tumeur cérébrale la plus fréquente et la plus agressive - Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkNYU1h3VkY3VTNVcVpqeUwyUFJjLUNjc3NxbVNORzl2UlBVcHJVdDRNSkc5NEYyTGZtRXFPWHBVSWVfTU96VXAtaHlxV0xTemd3Sm9La0YySGVfVV9UclBteUZmSzVzRFZGWmpCV0tNTDRQLVMtaFZUNkhBejV3M1lOc1JPNU1seFBhNVRYQ056YnFXUVoxWEI5NFp3NW9WMVA5RmNKTkZGaUo2MnlqeUk2OFhBREhxdUdDQS1VQkpseDRvNG1vd1dqU3VvcFhNVHpaQWpoN1ZFcGY4NHNsekppRnNvblR1RjRKZUxXSDZ6TkFQczZmeGpn?oc=5)
+
+2026-05-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkNYU1h3VkY3VTNVcVpqeUwyUFJjLUNjc3NxbVNORzl2UlBVcHJVdDRNSkc5NEYyTGZtRXFPWHBVSWVfTU96VXAtaHlxV0xTemd3Sm9La0YySGVfVV9UclBteUZmSzVzRFZGWmpCV0tNTDRQLVMtaFZUNkhBejV3M1lOc1JPNU1seFBhNVRYQ056YnFXUVoxWEI5NFp3NW9WMVA5RmNKTkZGaUo2MnlqeUk2OFhBREhxdUdDQS1VQkpseDRvNG1vd1dqU3VvcFhNVHpaQWpoN1ZFcGY4NHNsekppRnNvblR1RjRKZUxXSDZ6TkFQczZmeGpn?oc=5)
+
+---
 
 ### [Dans plus de 90% des cas, ce symptôme facile à voir est le premier signe d'un cancer de la vessie](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
 
@@ -78,11 +86,27 @@ permalink: /news/enfuvirtide/
 
 ---
 
+### [Lo studio sulla terapia contro il tumore al pancreas rimosso dalla rivista PNAS: "Gli autori in conflitto di interessi"](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc3JTZzJsYWFhZkpMdE5Td24yRzZOTHFKTy1jOEZJTXIwbmFkRTc0cmlXZmo2TzlFN0tHMEYxOVFUZHNGdmMySDcycDNNRGlxdTI2dHhkVUdHS1MwN2dFTVN3Yl9jQTlnQVNBaE9fLVNxNGVGXzJCem45bzZ4elowWHpyQjNrdGtKTlNFWGoyN1kwWXlSY1RQbm5tdlVKeGpwb3h2cnQ1Y0lSWW1vVGVCODF6RzZjd0dxeU03LWUxNUhtT0xwcTBwTlBXRTRaY2JNd3o3RDY3X1k1S2doWUN2YXFudlVYbU1DNUNNNHNyMDhTdw?oc=5)
+
+2026-05-02 <span class="news-indication-tag">tumor</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc3JTZzJsYWFhZkpMdE5Td24yRzZOTHFKTy1jOEZJTXIwbmFkRTc0cmlXZmo2TzlFN0tHMEYxOVFUZHNGdmMySDcycDNNRGlxdTI2dHhkVUdHS1MwN2dFTVN3Yl9jQTlnQVNBaE9fLVNxNGVGXzJCem45bzZ4elowWHpyQjNrdGtKTlNFWGoyN1kwWXlSY1RQbm5tdlVKeGpwb3h2cnQ1Y0lSWW1vVGVCODF6RzZjd0dxeU03LWUxNUhtT0xwcTBwTlBXRTRaY2JNd3o3RDY3X1k1S2doWUN2YXFudlVYbU1DNUNNNHNyMDhTdw?oc=5)
+
+---
+
 ### [Un espoir pour les malades : une radiothérapie ciblée sur le cancer du pancréas testée à Grenoble - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
 
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
+
+---
+
+### ["Das Leben kann so schnell vorbei sein" – Katharina Traber kämpft gegen den Krebs und um ihr Kind - Badische Zeitung](https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0wwR1JBMURrYms0LXE5UkhaSGdpTm5sRHBwNDNBSUY3SWlfTGdCT2JjTURHRXoxMnJ4YWR3T0tleHBmSFF1Q3hvSUtORlZoNXRXa3dFcUpCMnExUHhFWEpyNkRUOXczcUpSdUs4MW1OWkltdGZKcVhPRGdEQzg1X3NnelNjMWtOTFpBVEhzU29BbzQyWU94azc3bWVCNTNkSExnb1FkXzRZUnZtaGMzbXZmTzZwZmJoMWNyRTJjM3dZRXAt?oc=5)
+
+2026-05-02 <span class="news-indication-tag">Krebs</span>
+
+來源：[Badische Zeitung](https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0wwR1JBMURrYms0LXE5UkhaSGdpTm5sRHBwNDNBSUY3SWlfTGdCT2JjTURHRXoxMnJ4YWR3T0tleHBmSFF1Q3hvSUtORlZoNXRXa3dFcUpCMnExUHhFWEpyNkRUOXczcUpSdUs4MW1OWkltdGZKcVhPRGdEQzg1X3NnelNjMWtOTFpBVEhzU29BbzQyWU94azc3bWVCNTNkSExnb1FkXzRZUnZtaGMzbXZmTzZwZmJoMWNyRTJjM3dZRXAt?oc=5)
 
 ---
 
@@ -123,38 +147,6 @@ permalink: /news/enfuvirtide/
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
-
----
-
-### [Trois millions de cellules cartographiées : la découverte inédite qui explique l'explosion des cancers du sein après 50 ans](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTZhZTd6bVR6RzM3WnBqdDZTLU15aFF1aHhkbkZkQ19vTTdmTm5RdXhBcUpYa0tmbjBJek1CRnBxVkZpVDhZN3hoOENGLTU5NmdmaW1QdlJvYkpvR3ZhZWg3cHQ4bkoxMjFoZVhjNU1Uc05EbVlGNFpETkw2WEFhM3hBVzdaYnBVd2dMRzZjNUhWTmxLNlJvV3hod3lWQUI4blN4VnlvVURJZG1iazhMandFUWQ4U0VvUzdhMkdDYkZ0eWtwaFBSZktROHJnRXNGTUs3SnB6TDBONm8t?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTZhZTd6bVR6RzM3WnBqdDZTLU15aFF1aHhkbkZkQ19vTTdmTm5RdXhBcUpYa0tmbjBJek1CRnBxVkZpVDhZN3hoOENGLTU5NmdmaW1QdlJvYkpvR3ZhZWg3cHQ4bkoxMjFoZVhjNU1Uc05EbVlGNFpETkw2WEFhM3hBVzdaYnBVd2dMRzZjNUhWTmxLNlJvV3hod3lWQUI4blN4VnlvVURJZG1iazhMandFUWQ4U0VvUzdhMkdDYkZ0eWtwaFBSZktROHJnRXNGTUs3SnB6TDBONm8t?oc=5)
-
----
-
-### [Tumore al pancreas, perché è stato ritirato lo studio spagnolo. Bufera su Barbacid: “Sapeva, ma non ha bloccato le donazioni” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJrYVN0SU5SSWt4TG9zTFZ1NVh5eFo5OGNfQ0ZhRDR3S09LcVJEMkpDdzVxUDRZY3ZJU1VQOFh3bi1xakg1WktHbDUwOWtIdTY1LXRnb3ZCTk1JdWh4NmxLa1hadUFLMUJDNmxHSGVRa3Y0dTBtYWlaM09PamFHZHBBb3VfS05ibzRKRnczRXo5WjZad0o2VVU3Y05nUQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">tumor</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJrYVN0SU5SSWt4TG9zTFZ1NVh5eFo5OGNfQ0ZhRDR3S09LcVJEMkpDdzVxUDRZY3ZJU1VQOFh3bi1xakg1WktHbDUwOWtIdTY1LXRnb3ZCTk1JdWh4NmxLa1hadUFLMUJDNmxHSGVRa3Y0dTBtYWlaM09PamFHZHBBb3VfS05ibzRKRnczRXo5WjZad0o2VVU3Y05nUQ?oc=5)
-
----
-
-### [I said my last goodbye to my dying mum before a stabbing neck pain - I also had cancer, but put tests off for months - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkpwLUc1UExYVWVrSDRDTVM1MEdUN3NBSXBZOEhRcG9xSmttT0JHdnhsc3FtdVAzRG5QbTNLb0FwVjRqWGFVZGhoaGMwQlc1X1NEczRhZ1RSWm80RnVONnZaQ20xV0JIV01qRmxKRUtLX1M4ekZRcG4waGFsQXJ3SldzNmtRYncxTzZBMg?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkpwLUc1UExYVWVrSDRDTVM1MEdUN3NBSXBZOEhRcG9xSmttT0JHdnhsc3FtdVAzRG5QbTNLb0FwVjRqWGFVZGhoaGMwQlc1X1NEczRhZ1RSWm80RnVONnZaQ20xV0JIV01qRmxKRUtLX1M4ekZRcG4waGFsQXJ3SldzNmtRYncxTzZBMg?oc=5)
-
----
-
-### [Un investigador del Instituto de Investigación Biomédica de Lleida colabora en la redefinición de los tumores bifásicos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXg4eG1jM1JadmktalBGRnhZZFoxLTJSQjhoU1ZvR01aY2ZWN2VtVW1CY3o3QnNNVE5xRU1jTEhYM0QwNERhcnJBOUg3Q1drWERyN0hEZ3VMVUl4ZmxyeldyTWcxdFFNRnEyV3NzRnNsclN6c1JMMkJsZFJ1RjRERG4zazVqZWdhUDJKdHBDenoyZE9xdFExbkZmVEZ6Ri1Dc1NhVk9IRXB3RzRoa002a09nUlZYSkZHa0RjcnV4WTZ3SE9GbWJlRnhzX3FibzNTVzJORWJlNWtrX3M5SlhjaEJzMHQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">tumor</span>
-
-來源：[Segre.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXg4eG1jM1JadmktalBGRnhZZFoxLTJSQjhoU1ZvR01aY2ZWN2VtVW1CY3o3QnNNVE5xRU1jTEhYM0QwNERhcnJBOUg3Q1drWERyN0hEZ3VMVUl4ZmxyeldyTWcxdFFNRnEyV3NzRnNsclN6c1JMMkJsZFJ1RjRERG4zazVqZWdhUDJKdHBDenoyZE9xdFExbkZmVEZ6Ri1Dc1NhVk9IRXB3RzRoa002a09nUlZYSkZHa0RjcnV4WTZ3SE9GbWJlRnhzX3FibzNTVzJORWJlNWtrX3M5SlhjaEJzMHQ?oc=5)
 
 ---
 

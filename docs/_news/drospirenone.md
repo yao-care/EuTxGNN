@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Los especialistas piden que el asma infantil no se trate sólo cuando aparecen los síntomas](https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU82TXJEbmNLM0YyM3B3SlFqWnBVY2JaUkJtb1VSWjVSUHNZUDg0eVp0N2xqanBGUkZ4RGFqN25RT2J4ZjlJaEpGcF9tX1lMUmdGaURKVUxGOVVtR1R1dno3ZHZ1b1FPNGR2bUhnNWhNSmZwTE04RUpSelA1ZlhiUHRBdU1ROC1mS1BjM0xlTllqeXBWQlNiSjJZN2hyY1NRUl9hZXdjdzVjRHpEN3NaQUZyRktaUDdnYVE?oc=5)
+
+2026-05-03 <span class="news-indication-tag">asma</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU82TXJEbmNLM0YyM3B3SlFqWnBVY2JaUkJtb1VSWjVSUHNZUDg0eVp0N2xqanBGUkZ4RGFqN25RT2J4ZjlJaEpGcF9tX1lMUmdGaURKVUxGOVVtR1R1dno3ZHZ1b1FPNGR2bUhnNWhNSmZwTE04RUpSelA1ZlhiUHRBdU1ROC1mS1BjM0xlTllqeXBWQlNiSjJZN2hyY1NRUl9hZXdjdzVjRHpEN3NaQUZyRktaUDdnYVE?oc=5)
+
+---
+
+### [Il boom delle allergie. “Ecco perché non ci sono mai stati così tanti pollini come adesso” - la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxORHFqQWZiWjdBUlVDeWo3UDBTQW05TnlmZnJ2b3dvTEhCYjVoam1DRWJCWnJHeEsxdzdkY0ZVU2VfdXQyZ01EVnZXdGpyWElCOW5RS19vTnltSXdVNVRNRlV3V1FESURBR2ZlZWZSMEliZ1I1cHdZX19CWG9PaXlOdks4dVdfZG5Gb2F1anVxejMyMUxieDFFNVNB?oc=5)
+
+2026-05-03 <span class="news-indication-tag">asma</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxORHFqQWZiWjdBUlVDeWo3UDBTQW05TnlmZnJ2b3dvTEhCYjVoam1DRWJCWnJHeEsxdzdkY0ZVU2VfdXQyZ01EVnZXdGpyWElCOW5RS19vTnltSXdVNVRNRlV3V1FESURBR2ZlZWZSMEliZ1I1cHdZX19CWG9PaXlOdks4dVdfZG5Gb2F1anVxejMyMUxieDFFNVNB?oc=5)
+
+---
 
 ### [The Most Effective Knee Arthritis Treatments Aren’t What You Expect](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
 
@@ -62,19 +78,11 @@ permalink: /news/drospirenone/
 
 ---
 
-### [Laia Ferré, doctora especializada en alergología: “Aproximadamente un 10% de la población tiene algún tipo de asma” - El Periódico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFRUanVZdmk0VURrTlhPTG1PTFU0cXMySUwzM2tkMzYxbkRxSWphdUxSb1dSMk9qLTVuelM5cXZvZTZ1WnNKc1REVEdOY3o2LVBtLVl5ZDBNS2p1Z3RwT0dZSXRjaTl2bWItQUkwYkZGR1JzNV9lU25EbjhYenlTX1dQd2lzZUJTMmFkNUpmQkxnR2d1b1BNYWVSZU9TYUZ4WTl6aGFXaVl6UkHSAasBQVVfeXFMUEJ2OXE5UXhOVkZLRlFRc3BQX1Z6em5aMWs5N1Q5TTQwbG1HSTdHRWpyTVZwQk9BTVctV2hhWXNuSGd3Rm9lQ2tOZm5sUmpGdExMbTdOcmpKTENJZDM5ZG5IQUtwQnpTbk5EeXdnNjZmLWhCalRpMGl1b0EzZ0pBcjlBMkRvLXhBUjdieDVPYjQ2dmNQOG9EOHZsTzcxWGFvRDJteGhkZDhEWnNj?oc=5)
+### ['I turned to alcohol due to pain from undiagnosed arthritis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
-2026-05-02 <span class="news-indication-tag">asma</span>
+2026-05-02 <span class="news-indication-tag">arthritis</span>
 
-來源：[El Periódico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFRUanVZdmk0VURrTlhPTG1PTFU0cXMySUwzM2tkMzYxbkRxSWphdUxSb1dSMk9qLTVuelM5cXZvZTZ1WnNKc1REVEdOY3o2LVBtLVl5ZDBNS2p1Z3RwT0dZSXRjaTl2bWItQUkwYkZGR1JzNV9lU25EbjhYenlTX1dQd2lzZUJTMmFkNUpmQkxnR2d1b1BNYWVSZU9TYUZ4WTl6aGFXaVl6UkHSAasBQVVfeXFMUEJ2OXE5UXhOVkZLRlFRc3BQX1Z6em5aMWs5N1Q5TTQwbG1HSTdHRWpyTVZwQk9BTVctV2hhWXNuSGd3Rm9lQ2tOZm5sUmpGdExMbTdOcmpKTENJZDM5ZG5IQUtwQnpTbk5EeXdnNjZmLWhCalRpMGl1b0EzZ0pBcjlBMkRvLXhBUjdieDVPYjQ2dmNQOG9EOHZsTzcxWGFvRDJteGhkZDhEWnNj?oc=5)
-
----
-
-### [Arthritis sufferers warned about 2 fruits as common arthritis pain triggers - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
-
-2026-05-01 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
 ---
 

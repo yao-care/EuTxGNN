@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [La salute del cuore comincia a tavola: meno infarti con scelte corrette (e anche meno ictus) - Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
 
 2026-05-02
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
-
----
-
-### [Popular Weight-Loss Drugs Found To Cut Heart Attack and Stroke Risk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
-
-2026-05-02
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
 
 ---
 

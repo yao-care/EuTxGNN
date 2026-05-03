@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Ernährungswende 2026: Wie der Körper das Abnehmen sabotiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/lasmiditan-succinate/
 2026-05-02 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
-
----
-
-### [Los fármacos para la obesidad logran reducir los días de consumo excesivo de bebidas alcohólicas - La Voz de Galicia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLUNhajZQa1Brc0hxeHRlTll0MGxuNXBnS3hyTnZyT3hHVVhuc2dMWVJLTjRXck1mQndnZnNZOXR4TEN3czVWQzgtWm04QlE0bkF3cXVFTjlOVC02RXE0czZsbVFrU0QxU0xuNGhuS0JMbmpHck5DZFlWVk8zTS1XRXlwQVZEdmU0RmJJSk0tcnZjQUZocU1zSV9BYXJZeVpPbzlFY2g3WENITUJ6NDlSTVZHdFBaT1dtWnN6RldqLVlCaU5hbDhWVWFPcE9vZlpBek92NFZSeUdtdFF6ejBwMHpR0gH-AUFVX3lxTE4zMkY2WGZxbHFFeUc0TTZjVVFoNlZKYl9jT0IzVzBja09CRlo3dDRpZ2RjNWpaZGZZV3h5S050Y0c3OVFCZE1aVDBDYlRQZGd5VGtYUW9yVHJGaWNnUzlhMm1kUm1OcGJmelVKU0ZLbk55XzRtVzFvQXRlUnhmSS1YYWZsRllpR0s3QThKRTNnOHowYzRZcU83aUxPZVBFNDNHUzZVQV9tVWZHdEZya0ZZMGw2Z0pZOEhmMDNNMzduUTVyaWZjc2ZnZ1FUSk5ZaUdTcHdEaVVVR1NBbW1CTy0zQ0FoUlNhaXZPay1zWkU5bVpwS0tGdUNUVkZndWRB?oc=5)
-
-2026-05-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLUNhajZQa1Brc0hxeHRlTll0MGxuNXBnS3hyTnZyT3hHVVhuc2dMWVJLTjRXck1mQndnZnNZOXR4TEN3czVWQzgtWm04QlE0bkF3cXVFTjlOVC02RXE0czZsbVFrU0QxU0xuNGhuS0JMbmpHck5DZFlWVk8zTS1XRXlwQVZEdmU0RmJJSk0tcnZjQUZocU1zSV9BYXJZeVpPbzlFY2g3WENITUJ6NDlSTVZHdFBaT1dtWnN6RldqLVlCaU5hbDhWVWFPcE9vZlpBek92NFZSeUdtdFF6ejBwMHpR0gH-AUFVX3lxTE4zMkY2WGZxbHFFeUc0TTZjVVFoNlZKYl9jT0IzVzBja09CRlo3dDRpZ2RjNWpaZGZZV3h5S050Y0c3OVFCZE1aVDBDYlRQZGd5VGtYUW9yVHJGaWNnUzlhMm1kUm1OcGJmelVKU0ZLbk55XzRtVzFvQXRlUnhmSS1YYWZsRllpR0s3QThKRTNnOHowYzRZcU83aUxPZVBFNDNHUzZVQV9tVWZHdEZya0ZZMGw2Z0pZOEhmMDNNMzduUTVyaWZjc2ZnZ1FUSk5ZaUdTcHdEaVVVR1NBbW1CTy0zQ0FoUlNhaXZPay1zWkU5bVpwS0tGdUNUVkZndWRB?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,21 +44,29 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### ['Dementia care needs time, effort and resources'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93YW5VZzh0UmZEYkhreVpPSmxQc1o5NDZKSXZwNjFHNm42Qy1CVW85MnlxUm5EaDFSaFdYSWJWanFRLUNsSlFVbGZPYkJsYTlvejhVckdCT0dqV0Zq?oc=5)
+### [It's probably already in your fridge — and it could help in cutting risk of Alzheimer's - SBS Australia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcm9BaG9QV3ZVQklZc0RiQ0ZTVEhMeWRvdi1rT1cxVlloRG9NazU2Z2gyWkVFaVIwdlRLT00xY1lDaGUwS1BfaHhvUUtzc01LaEUwVkFfS0pJNkpndEtZRVdrR1Z3RElhOWtJamYySGgyTWdNcjJKcFplbGFzRjVBWnFzT1VSN3FKOGVoM095bVQ0TTJZSTNUWjRDdVdwaHJiLU84dXkzT0RkY3U0VlhpODRzdUZxNURNWjkyYjBB?oc=5)
 
-2026-05-01
+2026-05-03
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93YW5VZzh0UmZEYkhreVpPSmxQc1o5NDZKSXZwNjFHNm42Qy1CVW85MnlxUm5EaDFSaFdYSWJWanFRLUNsSlFVbGZPYkJsYTlvejhVckdCT0dqV0Zq?oc=5)
+來源：[SBS Australia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcm9BaG9QV3ZVQklZc0RiQ0ZTVEhMeWRvdi1rT1cxVlloRG9NazU2Z2gyWkVFaVIwdlRLT00xY1lDaGUwS1BfaHhvUUtzc01LaEUwVkFfS0pJNkpndEtZRVdrR1Z3RElhOWtJamYySGgyTWdNcjJKcFplbGFzRjVBWnFzT1VSN3FKOGVoM095bVQ0TTJZSTNUWjRDdVdwaHJiLU84dXkzT0RkY3U0VlhpODRzdUZxNURNWjkyYjBB?oc=5)
 
 ---
 
-### [Eight easy exercises that protect against dementia - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVElaTFhpZWJKS1lZVHl1MndMVzloQ0w3NVZzNmJtSk5OZDQ2RzVxQTZYLUplNHctNG1QOW85NVVlSW1zQXZqSzRfSXhnVnlVb0ZIN3lOVkI2ODNlQ2lTQ2VHRmZEUHhFdzlFMy1jOG8tRnN6NWVVS0x3aWNfNTkxaHd4ekRnWmpVUHR4S3hIMWFBNjRBMTBmcGRjNzlDQ0pjb3ZfTnRKUEd4UQ?oc=5)
+### [The Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
 
-2026-05-01
+2026-05-02
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVElaTFhpZWJKS1lZVHl1MndMVzloQ0w3NVZzNmJtSk5OZDQ2RzVxQTZYLUplNHctNG1QOW85NVVlSW1zQXZqSzRfSXhnVnlVb0ZIN3lOVkI2ODNlQ2lTQ2VHRmZEUHhFdzlFMy1jOG8tRnN6NWVVS0x3aWNfNTkxaHd4ekRnWmpVUHR4S3hIMWFBNjRBMTBmcGRjNzlDQ0pjb3ZfTnRKUEd4UQ?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
+
+---
+
+### [Omega-3 Supplements May Increase Risk of Cognitive Decline, Scientists Warn](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjdOam1oZVMyamlmUFJzcUpwaGVGWmpMLXBnNGRleWtfVTBLVUVnMmczR3VlNmN5MWJwUExjVlV0S3BvbWhZb2E5VmxBbFU5N0dkby0wOXo3RElrb1JLNjF6T1lWaFdDMl9IajMxMFNxN1p0eVhWNUs1cjJNZHFhcTFPcDhIRVpOS2NTZ1h3cWlsY2tnOEJ0ckxwRW5xTm5JcUVxU0xn?oc=5)
+
+2026-05-02
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjdOam1oZVMyamlmUFJzcUpwaGVGWmpMLXBnNGRleWtfVTBLVUVnMmczR3VlNmN5MWJwUExjVlV0S3BvbWhZb2E5VmxBbFU5N0dkby0wOXo3RElrb1JLNjF6T1lWaFdDMl9IajMxMFNxN1p0eVhWNUs1cjJNZHFhcTFPcDhIRVpOS2NTZ1h3cWlsY2tnOEJ0ckxwRW5xTm5JcUVxU0xn?oc=5)
 
 ---
 

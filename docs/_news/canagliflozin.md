@@ -14,7 +14,7 @@ permalink: /news/canagliflozin/
 ---
 
 <p class="key-answer" data-question="Canagliflozin 有什麼相關新聞？">
-<strong>Canagliflozin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Canagliflozin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/canagliflozin/
 <p><a href="{{ '/drugs/canagliflozin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Un paté funcional enriquecido en silicio muestra efectos beneficiosos en la prevención de la diabetes tipo 2 - Andalucía Información](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTREQzFtSVE4cVp0d29Lbncwc1h5aHVmb0x5ZXVfN194UVBidlJIT2pPRmstVU9LdzNZY2RudmtyVFBBNmVYS3JXZ2xfcE1pb0IxOVpiR3JfZVpjYy1sZTFfUGdwalFJMTctd3BZWnBsYTRzcVFVRy1wZ2lUb0Y5ajkwam5ZRWVLQU5RWEp1OHV0UkFEa0NPN0t4WncxQzYtYnpPUnQ1VTZ3WVRsRm9rY2JoLXRTam1LVEVnSnQ0VnpfYUZwTXh5LUE4LV8wSk44RFFGdTljVmV4WngyUFNhemRiYXBmLTVQWVJ6Mk9sTEo2cFVHVkhkS0VnSUdBZ9IBgwJBVV95cUxQMHN6amFFczl0al9GeXZiUjN2dHZUV2NiX3gwVkVoT25qb0tyeWFFZXNzcF9GNk1wUU1uZThuNG03VlNILWtFUW9kOEJ0M3l0T2VTb3dqaUNVczNQR0F5b1ZMcmhTNFU3M3FRMzc5VVJHdkpMTXdzUTBFa3pDdG5Bcmw4OElGZFpIYzlZbm1lcUtjeE51bDB1bVVnbnVGdVdCY0lkS0RYdEZnVHdPSHQ2dkNtUmVOLWdhcHd0aTZ2UVlHVjlXaC13THJCT2MtMlFsODFWeGFCUFJhR2RacHRCTGF2czZ4eFM3LTNNV1dDX0J4Q0pjNWRQOElQc2hRenE4UWZz?oc=5)
+
+2026-05-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTREQzFtSVE4cVp0d29Lbncwc1h5aHVmb0x5ZXVfN194UVBidlJIT2pPRmstVU9LdzNZY2RudmtyVFBBNmVYS3JXZ2xfcE1pb0IxOVpiR3JfZVpjYy1sZTFfUGdwalFJMTctd3BZWnBsYTRzcVFVRy1wZ2lUb0Y5ajkwam5ZRWVLQU5RWEp1OHV0UkFEa0NPN0t4WncxQzYtYnpPUnQ1VTZ3WVRsRm9rY2JoLXRTam1LVEVnSnQ0VnpfYUZwTXh5LUE4LV8wSk44RFFGdTljVmV4WngyUFNhemRiYXBmLTVQWVJ6Mk9sTEo2cFVHVkhkS0VnSUdBZ9IBgwJBVV95cUxQMHN6amFFczl0al9GeXZiUjN2dHZUV2NiX3gwVkVoT25qb0tyeWFFZXNzcF9GNk1wUU1uZThuNG03VlNILWtFUW9kOEJ0M3l0T2VTb3dqaUNVczNQR0F5b1ZMcmhTNFU3M3FRMzc5VVJHdkpMTXdzUTBFa3pDdG5Bcmw4OElGZFpIYzlZbm1lcUtjeE51bDB1bVVnbnVGdVdCY0lkS0RYdEZnVHdPSHQ2dkNtUmVOLWdhcHd0aTZ2UVlHVjlXaC13THJCT2MtMlFsODFWeGFCUFJhR2RacHRCTGF2czZ4eFM3LTNNV1dDX0J4Q0pjNWRQOElQc2hRenE4UWZz?oc=5)
+
+---
 
 ### [La terapia sintomática durante la menopausia en la mujer con diabetes: una "carrera de obstáculos" - Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/canagliflozin/
 
 ---
 
-### [Neue Erkenntnisse: Vitamin D und seine Rolle bei Diabetes, Alzheimer und IBD - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
+### [Neue Erkenntnisse: Vitamin D und seine Rolle bei Diabetes, Alzheimer und IBD](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
 
 ---
 
@@ -107,22 +115,6 @@ permalink: /news/canagliflozin/
 2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
-
----
-
-### [Una molécula protege el páncreas de la toxicidad asociada a la diabetes tipo 2 - Diario de Salud](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXhrOF81S0RIZTg3a1BkVmwtR0YwTTM0VVdMZ0VtblZQTENzYU9uUHBBRUNGSXRwdHV1SGtCUzdpbGdqaW5fVGN6TV9BY2NpQkQ1cC1KYkFIcE81cURHNzhPcWNTcGlxMDc4S1dBWmlTRlcwQlhMd291WUVWSjFGZzRnSzlqczhaVkVBN0JmYVNnck9vUU1KcG5aZEdmY2Y2ejF1di1xVmtsbHZya05NVWdyZnhJa05JZl9aMkZ2Yw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diario de Salud](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXhrOF81S0RIZTg3a1BkVmwtR0YwTTM0VVdMZ0VtblZQTENzYU9uUHBBRUNGSXRwdHV1SGtCUzdpbGdqaW5fVGN6TV9BY2NpQkQ1cC1KYkFIcE81cURHNzhPcWNTcGlxMDc4S1dBWmlTRlcwQlhMd291WUVWSjFGZzRnSzlqczhaVkVBN0JmYVNnck9vUU1KcG5aZEdmY2Y2ejF1di1xVmtsbHZya05NVWdyZnhJa05JZl9aMkZ2Yw?oc=5)
-
----
-
-### [Diabetes als Schlüssel zur Demenzprävention: Neue Ansätze und Erkenntnisse - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
-
-2026-05-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
 
 ---
 

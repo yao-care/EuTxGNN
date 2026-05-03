@@ -62,11 +62,11 @@ permalink: /news/tocilizumab/
 
 ---
 
-### [Arthritis sufferers warned about 2 fruits as common arthritis pain triggers - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
+### ['I turned to alcohol due to pain from undiagnosed arthritis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
-2026-05-01 <span class="news-indication-tag">arthritis</span>
+2026-05-02 <span class="news-indication-tag">arthritis</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
 ---
 
