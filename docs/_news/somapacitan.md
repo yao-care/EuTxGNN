@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [La terapia sintomática durante la menopausia en la mujer con diabetes: una "carrera de obstáculos" - Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
+
+2026-05-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
+
+---
+
+### [Neue Erkenntnisse: Vitamin D und seine Rolle bei Diabetes, Alzheimer und IBD - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
+
+---
 
 ### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
 
@@ -83,14 +99,6 @@ permalink: /news/somapacitan/
 2026-05-02 <span class="news-indication-tag">asma</span>
 
 來源：[El Periódico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFRUanVZdmk0VURrTlhPTG1PTFU0cXMySUwzM2tkMzYxbkRxSWphdUxSb1dSMk9qLTVuelM5cXZvZTZ1WnNKc1REVEdOY3o2LVBtLVl5ZDBNS2p1Z3RwT0dZSXRjaTl2bWItQUkwYkZGR1JzNV9lU25EbjhYenlTX1dQd2lzZUJTMmFkNUpmQkxnR2d1b1BNYWVSZU9TYUZ4WTl6aGFXaVl6UkHSAasBQVVfeXFMUEJ2OXE5UXhOVkZLRlFRc3BQX1Z6em5aMWs5N1Q5TTQwbG1HSTdHRWpyTVZwQk9BTVctV2hhWXNuSGd3Rm9lQ2tOZm5sUmpGdExMbTdOcmpKTENJZDM5ZG5IQUtwQnpTbk5EeXdnNjZmLWhCalRpMGl1b0EzZ0pBcjlBMkRvLXhBUjdieDVPYjQ2dmNQOG9EOHZsTzcxWGFvRDJteGhkZDhEWnNj?oc=5)
-
----
-
-### [El uso prolongado de inhaladores para el asma aumenta el riesgo de desarrollar cataratas - FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHpqdGNWZkRYNXA3MElIZ2tGWWNLU0ZRal9KWTAxUGF2czQwSVMxSXZ2NVI2UXVJZHZtNy1DdVpwclJnQjdTelVPZEFBRnp6VURZcHhhTEs1OXE1WmFQeFNET0FTZGpnUHNBb2ZxWDlTMmY1a3ZlNDRsb3lveGh0cVZ5M2JhN3NkX1kxenNOdEozb040akpQOVJoTHZpbjA5VWdKQWVTMUlrUHJfOGZ0SlRMemVQd0hxRnc?oc=5)
-
-2026-05-02 <span class="news-indication-tag">asma</span>
-
-來源：[FUENTES INFORMADAS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHpqdGNWZkRYNXA3MElIZ2tGWWNLU0ZRal9KWTAxUGF2czQwSVMxSXZ2NVI2UXVJZHZtNy1DdVpwclJnQjdTelVPZEFBRnp6VURZcHhhTEs1OXE1WmFQeFNET0FTZGpnUHNBb2ZxWDlTMmY1a3ZlNDRsb3lveGh0cVZ5M2JhN3NkX1kxenNOdEozb040akpQOVJoTHZpbjA5VWdKQWVTMUlrUHJfOGZ0SlRMemVQd0hxRnc?oc=5)
 
 ---
 

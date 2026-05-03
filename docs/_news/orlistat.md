@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [La salute del cuore comincia a tavola: meno infarti con scelte corrette (e anche meno ictus) - Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
+
+2026-05-02 <span class="news-indication-tag">ictus</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
+
+---
 
 ### [Ernährungswende 2026: Wie der Körper das Abnehmen sabotiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
 
 2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
+
+---
+
+### [Popular Weight-Loss Drugs Found To Cut Heart Attack and Stroke Risk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+2026-05-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+---
+
+### [Científicos británicos coinciden: estos son los tipos de cáncer más comunes en adultos jóvenes - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
+
+2026-05-02 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
 
 ---
 
@@ -83,14 +107,6 @@ permalink: /news/orlistat/
 2026-05-01 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM09odFJSaUVsZEN2N21VV0Nfek9Udi04RUZScVkwMFpRWHpQZTdIS0ZPaWpVemZuRlhhZElxLXpJY1JVZUlXbXQ1NkQ0LWRHSGVrWGZ0a3NjNEtrZE9HWDdCcHctOWdDbTM0Wkp2dDlHdzYyeFhWR1RSWFJkZDN3M1BFVUptU2oydE9HNlRSeGNDOXJtS0lZUXhnelhmM25LMGpPWDR5MWZVUEJsVnlPOXNUTmo2d0w0RVN2QktnNmRGRVJjUGZTMHU0MDcwbmJuMjlaWVdUazVvZw?oc=5)
-
----
-
-### [Niveles altos de ácido úrico se asocian a mayor riesgo cardiovascular en mujeres mayores de 50 - 65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
-
-2026-05-01 <span class="news-indication-tag">ictus</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
 
 ---
 

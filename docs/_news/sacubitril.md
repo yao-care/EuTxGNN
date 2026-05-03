@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [La terapia sintomática durante la menopausia en la mujer con diabetes: una "carrera de obstáculos" - Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
+
+2026-05-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
+
+---
+
+### [Neue Erkenntnisse: Vitamin D und seine Rolle bei Diabetes, Alzheimer und IBD - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
+
+---
 
 ### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
-
----
-
-### [La enfermedad inflamatoria crónica que puede confundirse con dolor lumbar: cuáles son los síntomas](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUpCbjhxQXNjV1Uxem1yUFhSN3dUaXBvdmVKLXRMeDNSeFd5ZDZFdUd5Y2w4OGQ0OXQ1N0NITTVHSEJkSTJ1MHdCUjFVaEx0RjNDWWNZMDFGX1BDMTJQUEdJX3M2UXNHazFWeklaOXk3aHhDWE9TeGJwMjNLb0ZycmRPNUtDSi1VazhaUF9IZnplcHdEOTZ1NHJ1M0lLUnZDMjZSaTQ1M1Q4dG16clE2VFZLOXdCVWx4VW9Wdmt6YnNiNThYR1BWaDNTaW1yQTFxOGhYTUh2VXhEb0x4dE01TtIB-wFBVV95cUxPQzNVUllvaWxoYi1fZ2Jod2FmMHV5V1pGRTNPdG1xLWVtS3FVRncyclh6QjYxMGxzN2tldkVnQUo0eFpFQ2J6TWQwN01iNFp3ZWotWVozZVhoejNrMUZ4SnVPUXJSemdfeEJ3RTFhTUhhcGpzY25NaFhFNzY2b2JMZS12QS1OZXhYR1c1d1ZqZHZ2Tmgtc3FNODJRT1VwQ2hMME9EV012a1ZFVjRfeVAzQzQwSjBNTG1wNW1odlc1Nno3bHRMU1o5eUgyOVJCalBidkZmTHI5VnBQN1JCRnd0ekNnUWQ1S1dyNVBFU0wyNGRiNmxvN2EyejFSUQ?oc=5)
-
-2026-05-02 <span class="news-indication-tag">artritis</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUpCbjhxQXNjV1Uxem1yUFhSN3dUaXBvdmVKLXRMeDNSeFd5ZDZFdUd5Y2w4OGQ0OXQ1N0NITTVHSEJkSTJ1MHdCUjFVaEx0RjNDWWNZMDFGX1BDMTJQUEdJX3M2UXNHazFWeklaOXk3aHhDWE9TeGJwMjNLb0ZycmRPNUtDSi1VazhaUF9IZnplcHdEOTZ1NHJ1M0lLUnZDMjZSaTQ1M1Q4dG16clE2VFZLOXdCVWx4VW9Wdmt6YnNiNThYR1BWaDNTaW1yQTFxOGhYTUh2VXhEb0x4dE01TtIB-wFBVV95cUxPQzNVUllvaWxoYi1fZ2Jod2FmMHV5V1pGRTNPdG1xLWVtS3FVRncyclh6QjYxMGxzN2tldkVnQUo0eFpFQ2J6TWQwN01iNFp3ZWotWVozZVhoejNrMUZ4SnVPUXJSemdfeEJ3RTFhTUhhcGpzY25NaFhFNzY2b2JMZS12QS1OZXhYR1c1d1ZqZHZ2Tmgtc3FNODJRT1VwQ2hMME9EV012a1ZFVjRfeVAzQzQwSjBNTG1wNW1odlc1Nno3bHRMU1o5eUgyOVJCalBidkZmTHI5VnBQN1JCRnd0ekNnUWQ1S1dyNVBFU0wyNGRiNmxvN2EyejFSUQ?oc=5)
 
 ---
 
@@ -107,6 +115,14 @@ permalink: /news/sacubitril/
 2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
+
+---
+
+### [Arthritis sufferers warned about 2 fruits as common arthritis pain triggers - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
+
+2026-05-01 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
 
 ---
 

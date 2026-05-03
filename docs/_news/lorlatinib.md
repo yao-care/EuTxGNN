@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="Lorlatinib 有什麼相關新聞？">
-<strong>Lorlatinib</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lorlatinib</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/lorlatinib/
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（16 則）
 
-### [Omega-3 Supplements May Increase Risk of Cognitive Decline, Scientists Warn](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjdOam1oZVMyamlmUFJzcUpwaGVGWmpMLXBnNGRleWtfVTBLVUVnMmczR3VlNmN5MWJwUExjVlV0S3BvbWhZb2E5VmxBbFU5N0dkby0wOXo3RElrb1JLNjF6T1lWaFdDMl9IajMxMFNxN1p0eVhWNUs1cjJNZHFhcTFPcDhIRVpOS2NTZ1h3cWlsY2tnOEJ0ckxwRW5xTm5JcUVxU0xn?oc=5)
+### [Dans plus de 90% des cas, ce symptôme facile à voir est le premier signe d'un cancer de la vessie](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
 
-2026-05-02 <span class="news-indication-tag">dementia</span>
+2026-05-03 <span class="news-indication-tag">cancer</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjdOam1oZVMyamlmUFJzcUpwaGVGWmpMLXBnNGRleWtfVTBLVUVnMmczR3VlNmN5MWJwUExjVlV0S3BvbWhZb2E5VmxBbFU5N0dkby0wOXo3RElrb1JLNjF6T1lWaFdDMl9IajMxMFNxN1p0eVhWNUs1cjJNZHFhcTFPcDhIRVpOS2NTZ1h3cWlsY2tnOEJ0ckxwRW5xTm5JcUVxU0xn?oc=5)
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
+
+---
+
+### [Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
+
+2026-05-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Linth24](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
 
 ---
 
@@ -110,7 +118,7 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [The world wants to eliminate cervical cancer - how Australian scientists led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
+### [The world wants to eliminate cervical cancer - how Australia led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
@@ -126,19 +134,19 @@ permalink: /news/lorlatinib/
 
 ---
 
+### [Tumore al pancreas, perché è stato ritirato lo studio spagnolo. Bufera su Barbacid: “Sapeva, ma non ha bloccato le donazioni” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJrYVN0SU5SSWt4TG9zTFZ1NVh5eFo5OGNfQ0ZhRDR3S09LcVJEMkpDdzVxUDRZY3ZJU1VQOFh3bi1xakg1WktHbDUwOWtIdTY1LXRnb3ZCTk1JdWh4NmxLa1hadUFLMUJDNmxHSGVRa3Y0dTBtYWlaM09PamFHZHBBb3VfS05ibzRKRnczRXo5WjZad0o2VVU3Y05nUQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">tumor</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJrYVN0SU5SSWt4TG9zTFZ1NVh5eFo5OGNfQ0ZhRDR3S09LcVJEMkpDdzVxUDRZY3ZJU1VQOFh3bi1xakg1WktHbDUwOWtIdTY1LXRnb3ZCTk1JdWh4NmxLa1hadUFLMUJDNmxHSGVRa3Y0dTBtYWlaM09PamFHZHBBb3VfS05ibzRKRnczRXo5WjZad0o2VVU3Y05nUQ?oc=5)
+
+---
+
 ### [I said my last goodbye to my dying mum before a stabbing neck pain - I also had cancer, but put tests off for months - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkpwLUc1UExYVWVrSDRDTVM1MEdUN3NBSXBZOEhRcG9xSmttT0JHdnhsc3FtdVAzRG5QbTNLb0FwVjRqWGFVZGhoaGMwQlc1X1NEczRhZ1RSWm80RnVONnZaQ20xV0JIV01qRmxKRUtLX1M4ekZRcG4waGFsQXJ3SldzNmtRYncxTzZBMg?oc=5)
 
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkpwLUc1UExYVWVrSDRDTVM1MEdUN3NBSXBZOEhRcG9xSmttT0JHdnhsc3FtdVAzRG5QbTNLb0FwVjRqWGFVZGhoaGMwQlc1X1NEczRhZ1RSWm80RnVONnZaQ20xV0JIV01qRmxKRUtLX1M4ekZRcG4waGFsQXJ3SldzNmtRYncxTzZBMg?oc=5)
-
----
-
-### [Tumore del pancreas, ritirato lo studio che aveva illuso il mondo. “Autori in conflitto d’interesse” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
 
 ---
 
@@ -163,30 +171,6 @@ permalink: /news/lorlatinib/
 2026-05-01 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVElaTFhpZWJKS1lZVHl1MndMVzloQ0w3NVZzNmJtSk5OZDQ2RzVxQTZYLUplNHctNG1QOW85NVVlSW1zQXZqSzRfSXhnVnlVb0ZIN3lOVkI2ODNlQ2lTQ2VHRmZEUHhFdzlFMy1jOG8tRnN6NWVVS0x3aWNfNTkxaHd4ekRnWmpVUHR4S3hIMWFBNjRBMTBmcGRjNzlDQ0pjb3ZfTnRKUEd4UQ?oc=5)
-
----
-
-### [À plus de 50 ans : ce signe indolore est le premier symptôme du cancer de la vessie - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijgFBVV95cUxQckIwbHJuQkI4Zlg2M0JMdklQMTl1WEo3bnQxMmFYeERZbVNIZklpQjBCQ0kyTUJJRkk0RlFBcFlGa2NZNzFSTGZ5dDNNcDZHckZjbkZfdEg2V2t3WEVMTHVBZ3RqYTFMQWhRdDhpUlBOd1dnYkxERG02bUJnSmFhUm5iS3VFd1NiRWgtd09R?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijgFBVV95cUxQckIwbHJuQkI4Zlg2M0JMdklQMTl1WEo3bnQxMmFYeERZbVNIZklpQjBCQ0kyTUJJRkk0RlFBcFlGa2NZNzFSTGZ5dDNNcDZHckZjbkZfdEg2V2t3WEVMTHVBZ3RqYTFMQWhRdDhpUlBOd1dnYkxERG02bUJnSmFhUm5iS3VFd1NiRWgtd09R?oc=5)
-
----
-
-### [Coffee may protect your body from ageing, study finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
-
----
-
-### [Lungenkrebs-Screening: Zufällige Befunde können auf extrapulmonale Tumoren hinweisen](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnNXT3AzRFk3d0w0dlB0OXEtUV9aMFFuOWpUUlZRNEl1dmxFNVJsbUpSNTJ5Mno2ZVJYdEltU2RVaTJNcUdEMU9FNE1BR05taXZKNkNzdkhWVllBM3c0ZG5sVmFwU3lrT1E3ZkVyaXNFcTJiY2otSE9ER2QzTDBySmlXRG5sazg3X2wzM0Jtb3dGTkdlVjltYnNpNHFjS2U0bFg2MEhCbFBrMm1uLV82M2s0bGg1Zk51emhURUR3VWQ1VkN5Z1lmeE1JM25Idw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">tumor</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnNXT3AzRFk3d0w0dlB0OXEtUV9aMFFuOWpUUlZRNEl1dmxFNVJsbUpSNTJ5Mno2ZVJYdEltU2RVaTJNcUdEMU9FNE1BR05taXZKNkNzdkhWVllBM3c0ZG5sVmFwU3lrT1E3ZkVyaXNFcTJiY2otSE9ER2QzTDBySmlXRG5sazg3X2wzM0Jtb3dGTkdlVjltYnNpNHFjS2U0bFg2MEhCbFBrMm1uLV82M2s0bGg1Zk51emhURUR3VWQ1VkN5Z1lmeE1JM25Idw?oc=5)
 
 ---
 

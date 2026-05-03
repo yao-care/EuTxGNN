@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Omega-3 Supplements May Increase Risk of Cognitive Decline, Scientists Warn](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjdOam1oZVMyamlmUFJzcUpwaGVGWmpMLXBnNGRleWtfVTBLVUVnMmczR3VlNmN5MWJwUExjVlV0S3BvbWhZb2E5VmxBbFU5N0dkby0wOXo3RElrb1JLNjF6T1lWaFdDMl9IajMxMFNxN1p0eVhWNUs1cjJNZHFhcTFPcDhIRVpOS2NTZ1h3cWlsY2tnOEJ0ckxwRW5xTm5JcUVxU0xn?oc=5)
-
-2026-05-02 <span class="news-indication-tag">dementia</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjdOam1oZVMyamlmUFJzcUpwaGVGWmpMLXBnNGRleWtfVTBLVUVnMmczR3VlNmN5MWJwUExjVlV0S3BvbWhZb2E5VmxBbFU5N0dkby0wOXo3RElrb1JLNjF6T1lWaFdDMl9IajMxMFNxN1p0eVhWNUs1cjJNZHFhcTFPcDhIRVpOS2NTZ1h3cWlsY2tnOEJ0ckxwRW5xTm5JcUVxU0xn?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### ['Dementia care needs time, effort and resources'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE93YW5VZzh0UmZEYkhreVpPSmxQc1o5NDZKSXZwNjFHNm42Qy1CVW85MnlxUm5EaDFSaFdYSWJWanFRLUNsSlFVbGZPYkJsYTlvejhVckdCT0dqV0Zq?oc=5)
 
@@ -75,14 +67,6 @@ permalink: /news/tolcapone/
 2026-05-01 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVElaTFhpZWJKS1lZVHl1MndMVzloQ0w3NVZzNmJtSk5OZDQ2RzVxQTZYLUplNHctNG1QOW85NVVlSW1zQXZqSzRfSXhnVnlVb0ZIN3lOVkI2ODNlQ2lTQ2VHRmZEUHhFdzlFMy1jOG8tRnN6NWVVS0x3aWNfNTkxaHd4ekRnWmpVUHR4S3hIMWFBNjRBMTBmcGRjNzlDQ0pjb3ZfTnRKUEd4UQ?oc=5)
-
----
-
-### [Coffee may protect your body from ageing, study finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
 
 ---
 

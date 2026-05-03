@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rufinamide</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（23 則）
+
+### [Caminar hacia atrás: El giro inesperado que podría aportar beneficios en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDZEMXBsUTg2T3UxZ0l3M0lzXy1xbGl3T0hOQko0V2YzakVFS1lxTl90enl6UG9vNVdqOTFlbUt0UlJNZDF0aTRBNlB1NTh4Qmk3UEpleEJNbFVVOWlnenduV2tLcmtxRUlTOVRtSk5pVTE3akJQb1FHZEcyc0k5alh4WUxkMWRTMF9fUW1JWERDSDMxbmZQQjlzbDFLS3V5SnMwMDFKdXo0NVF2Q25mTTViX0lSR0ZiY19PT1JPWC15OVBHWVliTGgtMlh5T0Yt?oc=5)
+
+2026-05-03 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDZEMXBsUTg2T3UxZ0l3M0lzXy1xbGl3T0hOQko0V2YzakVFS1lxTl90enl6UG9vNVdqOTFlbUt0UlJNZDF0aTRBNlB1NTh4Qmk3UEpleEJNbFVVOWlnenduV2tLcmtxRUlTOVRtSk5pVTE3akJQb1FHZEcyc0k5alh4WUxkMWRTMF9fUW1JWERDSDMxbmZQQjlzbDFLS3V5SnMwMDFKdXo0NVF2Q25mTTViX0lSR0ZiY19PT1JPWC15OVBHWVliTGgtMlh5T0Yt?oc=5)
+
+---
+
+### [Dans plus de 90% des cas, ce symptôme facile à voir est le premier signe d'un cancer de la vessie](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
+
+2026-05-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
+
+---
+
+### [Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
+
+2026-05-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Linth24](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
+
+---
+
+### [La progresión silenciosa de la esclerosis múltiple - Diario de Burgos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEJhSjlEV0RwV2R5TjZVRW16VVdiUzJCQzBpVHdkVXZieXBpZVVZdjdHN3hQaWRhdGNKek80anlDQ0MwUl9QS3VzY1pYRUpyQk4tS1lIOVpZX1M5RXZlcW9oWDgxQnhLX2RSNFpYVThYZjZmQXdpNFVrbVFpR2NNbXNRZmhVa0d0NHRVVUtmZWNwOFZJQnczVEZtSlhDbnF3N19VQW03RTh6a2FURHpFX3NVUUIzalJtTDdhMUpRNi11dkpRVXQ0QWZZSEY?oc=5)
+
+2026-05-03 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEJhSjlEV0RwV2R5TjZVRW16VVdiUzJCQzBpVHdkVXZieXBpZVVZdjdHN3hQaWRhdGNKek80anlDQ0MwUl9QS3VzY1pYRUpyQk4tS1lIOVpZX1M5RXZlcW9oWDgxQnhLX2RSNFpYVThYZjZmQXdpNFVrbVFpR2NNbXNRZmhVa0d0NHRVVUtmZWNwOFZJQnczVEZtSlhDbnF3N19VQW03RTh6a2FURHpFX3NVUUIzalJtTDdhMUpRNi11dkpRVXQ0QWZZSEY?oc=5)
+
+---
 
 ### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
 
@@ -75,14 +107,6 @@ permalink: /news/rufinamide/
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
-
----
-
-### [Descienden casos de cólera; se mantiene transmisión de mpox en el mundo - La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
-
-2026-05-02 <span class="news-indication-tag">MS</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
 
 ---
 
@@ -142,7 +166,15 @@ permalink: /news/rufinamide/
 
 ---
 
-### [The world wants to eliminate cervical cancer - how Australian scientists led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
+### [Sclérose en plaques : le défi du vieillissement face à un suivi médical qui doit s’adapter - Charente Libre](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeF9PVzlHQlg0WFhZcnNVRmc2ZW5Sa0RhalEzbi1uWjV1eTFHSkJRRGt3SUowQTBDd0JXUU5CeHhTcDNVNEhRSC1pRjNsZmVkdnBENmpmRmNrNWlvdkpQd2JuVXc3N3ZjN2c5SXl4ZmRzekg5UnhFTEtkcmNDUzFnaHZkSXM5Xy1xUG1QcElwZFhMeWk2ZHBiQko3VWY5cDR4eWhNY3lzdkJHaV8wZG0tUU9ZSk5GVWhjSEl3Q3AwdjU5UjgyMXUxMEY0NldIWWtTTHc?oc=5)
+
+2026-05-02 <span class="news-indication-tag">sclérose en plaques</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeF9PVzlHQlg0WFhZcnNVRmc2ZW5Sa0RhalEzbi1uWjV1eTFHSkJRRGt3SUowQTBDd0JXUU5CeHhTcDNVNEhRSC1pRjNsZmVkdnBENmpmRmNrNWlvdkpQd2JuVXc3N3ZjN2c5SXl4ZmRzekg5UnhFTEtkcmNDUzFnaHZkSXM5Xy1xUG1QcElwZFhMeWk2ZHBiQko3VWY5cDR4eWhNY3lzdkJHaV8wZG0tUU9ZSk5GVWhjSEl3Q3AwdjU5UjgyMXUxMEY0NldIWWtTTHc?oc=5)
+
+---
+
+### [The world wants to eliminate cervical cancer - how Australia led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
@@ -155,6 +187,14 @@ permalink: /news/rufinamide/
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTZhZTd6bVR6RzM3WnBqdDZTLU15aFF1aHhkbkZkQ19vTTdmTm5RdXhBcUpYa0tmbjBJek1CRnBxVkZpVDhZN3hoOENGLTU5NmdmaW1QdlJvYkpvR3ZhZWg3cHQ4bkoxMjFoZVhjNU1Uc05EbVlGNFpETkw2WEFhM3hBVzdaYnBVd2dMRzZjNUhWTmxLNlJvV3hod3lWQUI4blN4VnlvVURJZG1iazhMandFUWQ4U0VvUzdhMkdDYkZ0eWtwaFBSZktROHJnRXNGTUs3SnB6TDBONm8t?oc=5)
+
+---
+
+### [Tumore al pancreas, perché è stato ritirato lo studio spagnolo. Bufera su Barbacid: “Sapeva, ma non ha bloccato le donazioni” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJrYVN0SU5SSWt4TG9zTFZ1NVh5eFo5OGNfQ0ZhRDR3S09LcVJEMkpDdzVxUDRZY3ZJU1VQOFh3bi1xakg1WktHbDUwOWtIdTY1LXRnb3ZCTk1JdWh4NmxLa1hadUFLMUJDNmxHSGVRa3Y0dTBtYWlaM09PamFHZHBBb3VfS05ibzRKRnczRXo5WjZad0o2VVU3Y05nUQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">tumor</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJrYVN0SU5SSWt4TG9zTFZ1NVh5eFo5OGNfQ0ZhRDR3S09LcVJEMkpDdzVxUDRZY3ZJU1VQOFh3bi1xakg1WktHbDUwOWtIdTY1LXRnb3ZCTk1JdWh4NmxLa1hadUFLMUJDNmxHSGVRa3Y0dTBtYWlaM09PamFHZHBBb3VfS05ibzRKRnczRXo5WjZad0o2VVU3Y05nUQ?oc=5)
 
 ---
 
@@ -182,43 +222,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Tumore del pancreas, ritirato lo studio che aveva illuso il mondo. “Autori in conflitto d’interesse” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
-
----
-
 ### [Un investigador del Instituto de Investigación Biomédica de Lleida colabora en la redefinición de los tumores bifásicos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXg4eG1jM1JadmktalBGRnhZZFoxLTJSQjhoU1ZvR01aY2ZWN2VtVW1CY3o3QnNNVE5xRU1jTEhYM0QwNERhcnJBOUg3Q1drWERyN0hEZ3VMVUl4ZmxyeldyTWcxdFFNRnEyV3NzRnNsclN6c1JMMkJsZFJ1RjRERG4zazVqZWdhUDJKdHBDenoyZE9xdFExbkZmVEZ6Ri1Dc1NhVk9IRXB3RzRoa002a09nUlZYSkZHa0RjcnV4WTZ3SE9GbWJlRnhzX3FibzNTVzJORWJlNWtrX3M5SlhjaEJzMHQ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">tumor</span>
 
 來源：[Segre.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXg4eG1jM1JadmktalBGRnhZZFoxLTJSQjhoU1ZvR01aY2ZWN2VtVW1CY3o3QnNNVE5xRU1jTEhYM0QwNERhcnJBOUg3Q1drWERyN0hEZ3VMVUl4ZmxyeldyTWcxdFFNRnEyV3NzRnNsclN6c1JMMkJsZFJ1RjRERG4zazVqZWdhUDJKdHBDenoyZE9xdFExbkZmVEZ6Ri1Dc1NhVk9IRXB3RzRoa002a09nUlZYSkZHa0RjcnV4WTZ3SE9GbWJlRnhzX3FibzNTVzJORWJlNWtrX3M5SlhjaEJzMHQ?oc=5)
-
----
-
-### [À plus de 50 ans : ce signe indolore est le premier symptôme du cancer de la vessie - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijgFBVV95cUxQckIwbHJuQkI4Zlg2M0JMdklQMTl1WEo3bnQxMmFYeERZbVNIZklpQjBCQ0kyTUJJRkk0RlFBcFlGa2NZNzFSTGZ5dDNNcDZHckZjbkZfdEg2V2t3WEVMTHVBZ3RqYTFMQWhRdDhpUlBOd1dnYkxERG02bUJnSmFhUm5iS3VFd1NiRWgtd09R?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijgFBVV95cUxQckIwbHJuQkI4Zlg2M0JMdklQMTl1WEo3bnQxMmFYeERZbVNIZklpQjBCQ0kyTUJJRkk0RlFBcFlGa2NZNzFSTGZ5dDNNcDZHckZjbkZfdEg2V2t3WEVMTHVBZ3RqYTFMQWhRdDhpUlBOd1dnYkxERG02bUJnSmFhUm5iS3VFd1NiRWgtd09R?oc=5)
-
----
-
-### [Coffee may protect your body from ageing, study finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
-
----
-
-### [Lungenkrebs-Screening: Zufällige Befunde können auf extrapulmonale Tumoren hinweisen](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnNXT3AzRFk3d0w0dlB0OXEtUV9aMFFuOWpUUlZRNEl1dmxFNVJsbUpSNTJ5Mno2ZVJYdEltU2RVaTJNcUdEMU9FNE1BR05taXZKNkNzdkhWVllBM3c0ZG5sVmFwU3lrT1E3ZkVyaXNFcTJiY2otSE9ER2QzTDBySmlXRG5sazg3X2wzM0Jtb3dGTkdlVjltYnNpNHFjS2U0bFg2MEhCbFBrMm1uLV82M2s0bGg1Zk51emhURUR3VWQ1VkN5Z1lmeE1JM25Idw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">tumor</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnNXT3AzRFk3d0w0dlB0OXEtUV9aMFFuOWpUUlZRNEl1dmxFNVJsbUpSNTJ5Mno2ZVJYdEltU2RVaTJNcUdEMU9FNE1BR05taXZKNkNzdkhWVllBM3c0ZG5sVmFwU3lrT1E3ZkVyaXNFcTJiY2otSE9ER2QzTDBySmlXRG5sazg3X2wzM0Jtb3dGTkdlVjltYnNpNHFjS2U0bFg2MEhCbFBrMm1uLV82M2s0bGg1Zk51emhURUR3VWQ1VkN5Z1lmeE1JM25Idw?oc=5)
 
 ---
 

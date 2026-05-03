@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Ernährungswende 2026: Wie der Körper das Abnehmen sabotiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
 
 2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
+
+---
+
+### [Científicos británicos coinciden: estos son los tipos de cáncer más comunes en adultos jóvenes - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
+
+2026-05-02 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
 
 ---
 

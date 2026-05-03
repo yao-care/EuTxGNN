@@ -14,7 +14,7 @@ permalink: /news/vernakalant-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Vernakalant Hydrochloride 有什麼相關新聞？">
-<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vernakalant Hydrochloride</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/vernakalant-hydrochloride/
 <p><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
+
+### [On pensait que le café protégeait le cerveau : 43 ans d'étude montrent qu'il agit sur tout autre chose](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1c3bTNseXptN0lmQVJpbXVfeGlyS01ubVptTXhEN0s0WklLdVptVGZBaDBNc1MySmt1UkNQeVlCb0R4V1NGT2QxNHFUZEJZTkk0a2JDVGJGRlZ0dVRWcnBKQnp2elducTloanRKVWRhcFhTZm8wcVBqYjlWR1cxOVRtRjA2OHBJdTBSajlWSVJpQ3FULTlMTnFfSVZqUEhqb3E2UnR3czg0Rk5raUpKWUFfZkpDSG9ROVhwb2JOYnVRUQ?oc=5)
+
+2026-05-03 <span class="news-indication-tag">AF</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1c3bTNseXptN0lmQVJpbXVfeGlyS01ubVptTXhEN0s0WklLdVptVGZBaDBNc1MySmt1UkNQeVlCb0R4V1NGT2QxNHFUZEJZTkk0a2JDVGJGRlZ0dVRWcnBKQnp2elducTloanRKVWRhcFhTZm8wcVBqYjlWR1cxOVRtRjA2OHBJdTBSajlWSVJpQ3FULTlMTnFfSVZqUEhqb3E2UnR3czg0Rk5raUpKWUFfZkpDSG9ROVhwb2JOYnVRUQ?oc=5)
+
+---
+
+### [Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
+
+2026-05-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Linth24](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
+
+---
+
+### [La salute del cuore comincia a tavola: meno infarti con scelte corrette (e anche meno ictus) - Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
+
+2026-05-02 <span class="news-indication-tag">ictus</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
+
+---
 
 ### [Salz im Kaffee: Experten warnen vor neuem Kaffeetrend - das sind die Risiken](https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU4xdVk2ZVlmeDg4aUJIQlRWRXI5QjBQekZ5akx4TmctelhNMmFZRlB4bUxYYW8tSTh6VEZBcVF4NFZfdk0zYkkzRVZSWlpfTnJPLU8wVl93RzRySkpfWDFpMVNVNm5pS0lsTDVTdkR0TGhtRWJRemh4SnlxU1Z3TFRMYWpkaExaeGN4R1RyZElXT3FMakVVSnJsM1lTaF9jV0k2TTBGZTRqUzZZbFJLTGJxdDIyOTU0eHRFLU9uY3cxS0RG?oc=5)
 
@@ -94,6 +118,14 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
+### [Popular Weight-Loss Drugs Found To Cut Heart Attack and Stroke Risk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+2026-05-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+---
+
 ### [I went to A&E with a stomach pain - I wasn’t just pregnant, I’d need an 11-seater car after shock scan discovery - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXlwZTloS0dmOU82a2tJSWxkYzRvSjlTZzJrallQV3BTX2F1cVU4bWRUTVdWdUlhZGdoR0NHMVJEOWx0MXBiVl9HUGxvVU1SbTlsa0Y1ZG9tZFBfeDc1azQ5YWNiLWhZY3UyN2k5QmVyN2gyS1E3YnJ0WmgtRWxZbXFnNkQxWXdNeFRJdw?oc=5)
 
 2026-05-02 <span class="news-indication-tag">AF</span>
@@ -112,7 +144,7 @@ permalink: /news/vernakalant-hydrochloride/
 
 ### [Científicos británicos coinciden: estos son los tipos de cáncer más comunes en adultos jóvenes - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
 
-2026-05-02 <span class="news-indication-tag">AF</span>
+2026-05-02 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
 
@@ -123,14 +155,6 @@ permalink: /news/vernakalant-hydrochloride/
 2026-05-02 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQjZLZVJGZjVzeGp1UTQwS18tc0hDWHFGU3lrc0l0dkZfaFloNXhEZGVJcTlFOW5sRlg1SURJU3pCbjg4SW9kUU9JMzVtb1ZfNlFkYkhySU5tajU3TU9KSkNwY1h6MEhZN1JmWEhzbWxTSmI1Z2pqV1RxQ21JU0VhR0thb1p2bmxCNjh1ODZpNXh1RThBb2M4UGl5alhqTjJTOV81d1NBSW5DR1hDbWh2eFFNRWhxejJKRG5razJ1cGVINWpKeWFEeUZqNk0zb0JleFVaTXFYa9IB8wFBVV95cUxOcFBSS2gwZ0N1enRfdGtOdFVDSzZvMkJzcXFyems4YlBVbjZjRDdRRVI1ZU1nSkt3LWVYY25vNWVmSEdROGQ1TmsyMjM5OUtNWTJXODVBY1BvZ1ZGMzBzWWl5X1QtVVNQeDVpLVQxNXgyMEFHNmZUS04zTWVZQ3dXLWlpTzVnX184a3BGcHVqZ1dkdzlVTlBBRERLcl84bUpycVRCaVFjUVhSWDVzejA3M2NxQ2Y3clFITnBJNFN0TWZuX0VBSHBTVFJONDNBMXQzcFF2N0p0WjJEUmYtMEY4NW44cENYOXpINXNXYXNrQkttclE?oc=5)
-
----
-
-### [Tres meses en lista de espera para una mamografía - Diario de Burgos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ05yLXo4WGFEUUtYWmxISU44LWcxSkVrTGxsaU1rdHJkTU5XNW85MXNvdUdjY2hMbDVkSTUtdmphR3EyTHZiVHBISjBvM0dzYU9RTmZrMjBDV1dzX0RvWE5BU19HcVlvdmk5bmFGNnRuZ0hnc2d5X3RnUUZnbDJsRU9BZ0hqdHZBMEJXME11cmtydnVvbTZ4U3ZHQVNJZzhWZmY5dEdHT3NIMDNjQ1R3bzJ5WlVuRkQxSWhaNXl3UGMwMU5aYVdoNFlLTQ?oc=5)
-
-2026-05-02 <span class="news-indication-tag">AF</span>
-
-來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ05yLXo4WGFEUUtYWmxISU44LWcxSkVrTGxsaU1rdHJkTU5XNW85MXNvdUdjY2hMbDVkSTUtdmphR3EyTHZiVHBISjBvM0dzYU9RTmZrMjBDV1dzX0RvWE5BU19HcVlvdmk5bmFGNnRuZ0hnc2d5X3RnUUZnbDJsRU9BZ0hqdHZBMEJXME11cmtydnVvbTZ4U3ZHQVNJZzhWZmY5dEdHT3NIMDNjQ1R3bzJ5WlVuRkQxSWhaNXl3UGMwMU5aYVdoNFlLTQ?oc=5)
 
 ---
 
@@ -182,27 +206,11 @@ permalink: /news/vernakalant-hydrochloride/
 
 ---
 
-### [Así es el test que permite anticipar el riesgo de ocho afecciones cardiovasculares](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDhZUk45UVlucmtnaGVZQWg4YUlXR3k1SlRWMXVZeHRqS1JTOHFNSmJnUXNRSkdpOHJBS0ljeGlXbFBXMHhEUmdsT08yamVwQW9XNkhVNkR3ZTNjRHB4ekVkTjBEc2x5ZkVpYWZ3YTl4Q1RQenh0b3dtcnFvdTBGUll6anBESlIwSWwzYmxRZE1PSGlmQ0tIdGRIZXUxdDRNTVZkenlSR2haZ9IBrwFBVV95cUxQY0NmS2pJRzJveVBqc0phMFh4TjdrQWV5SUFESXQxb3gwQzFXVHpkWXFScEUtblo0VC1SUlR0Z0tZTDJ2VmV6QnhKMzllQjdRQVZEVHVhV3pYUnJIZE9PUFdla1JuT0VPTEZOREoySmJDUVRTRVRFaUtJTWZ1dGdpZHJjTkNxdXZhallkMlJ5TktUbjZXd09NY0w1Qko5ZHZFOXp0bi0xZVJNYUlhVEM4?oc=5)
+### [6 bodyweight moves that rival dumbbells for building muscle after 60 - Women's Health](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1lJTng5SDlUbUZ1ZDIwWDJTMGlnZkUwUnhjQ2hKOEhXTHk5MFlPQnRsNFNlb0FTckQxMEFLZ282WnFtNHByb1dDUm8zT2Q0akRBUXNnZVFEc181WE5sazFHSGc5V0ZXbjhBYmRLUHlGS1VDSzIxNWlvQkNudXVkOVkyVUNSTmdXdHlQWGJGN1duLVhYREhuUm13LVhKaElOS3dZ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">AF</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDhZUk45UVlucmtnaGVZQWg4YUlXR3k1SlRWMXVZeHRqS1JTOHFNSmJnUXNRSkdpOHJBS0ljeGlXbFBXMHhEUmdsT08yamVwQW9XNkhVNkR3ZTNjRHB4ekVkTjBEc2x5ZkVpYWZ3YTl4Q1RQenh0b3dtcnFvdTBGUll6anBESlIwSWwzYmxRZE1PSGlmQ0tIdGRIZXUxdDRNTVZkenlSR2haZ9IBrwFBVV95cUxQY0NmS2pJRzJveVBqc0phMFh4TjdrQWV5SUFESXQxb3gwQzFXVHpkWXFScEUtblo0VC1SUlR0Z0tZTDJ2VmV6QnhKMzllQjdRQVZEVHVhV3pYUnJIZE9PUFdla1JuT0VPTEZOREoySmJDUVRTRVRFaUtJTWZ1dGdpZHJjTkNxdXZhallkMlJ5TktUbjZXd09NY0w1Qko5ZHZFOXp0bi0xZVJNYUlhVEM4?oc=5)
-
----
-
-### [Niveles altos de ácido úrico se asocian a mayor riesgo cardiovascular en mujeres mayores de 50 - 65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
-
-2026-05-01 <span class="news-indication-tag">ictus</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
-
----
-
-### [Nasal decongestant sprays should not be used for more than five days, medicines watchdog says - Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3dIR2xIM3JNOVJTdWhWX01nQ0JKbkxQUFlGQjg4TkxPdW1jRVJuSVdENkRqVEkzcWMzTHA1OEhBMjFlY29GRGVpZ29iZ00zYzEtSEwxRi1DOWtCMENHaDdEN0IzM0dzdlRzU0JWV0o2aFBLT2UzQy1DTXlHZnlQWHRidUl4ODZNMmk5MzFTMVVDTVZyMUJNUk1mQjdrUGIzZ0hPX0o3ZUY3NTVRdXAwZlVvWHdyM184NVI5d24yUzZsOXJRTktj?oc=5)
-
-2026-05-01 <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3dIR2xIM3JNOVJTdWhWX01nQ0JKbkxQUFlGQjg4TkxPdW1jRVJuSVdENkRqVEkzcWMzTHA1OEhBMjFlY29GRGVpZ29iZ00zYzEtSEwxRi1DOWtCMENHaDdEN0IzM0dzdlRzU0JWV0o2aFBLT2UzQy1DTXlHZnlQWHRidUl4ODZNMmk5MzFTMVVDTVZyMUJNUk1mQjdrUGIzZ0hPX0o3ZUY3NTVRdXAwZlVvWHdyM184NVI5d24yUzZsOXJRTktj?oc=5)
+來源：[Women's Health](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1lJTng5SDlUbUZ1ZDIwWDJTMGlnZkUwUnhjQ2hKOEhXTHk5MFlPQnRsNFNlb0FTckQxMEFLZ282WnFtNHByb1dDUm8zT2Q0akRBUXNnZVFEc181WE5sazFHSGc5V0ZXbjhBYmRLUHlGS1VDSzIxNWlvQkNudXVkOVkyVUNSTmdXdHlQWGJGN1duLVhYREhuUm13LVhKaElOS3dZ?oc=5)
 
 ---
 

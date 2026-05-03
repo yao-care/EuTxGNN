@@ -3,7 +3,7 @@ layout: default
 title: "AF（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。14 則新聞、39 個相關藥物。"
+description: "AF（atrial fibrillation） 的相關健康新聞報導。15 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>14 則</strong>相關新聞報導，39 個相關藥物。
+<strong>AF（atrial fibrillation）</strong> 目前有 <strong>15 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -67,7 +67,23 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
+
+### [On pensait que le café protégeait le cerveau : 43 ans d'étude montrent qu'il agit sur tout autre chose](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1c3bTNseXptN0lmQVJpbXVfeGlyS01ubVptTXhEN0s0WklLdVptVGZBaDBNc1MySmt1UkNQeVlCb0R4V1NGT2QxNHFUZEJZTkk0a2JDVGJGRlZ0dVRWcnBKQnp2elducTloanRKVWRhcFhTZm8wcVBqYjlWR1cxOVRtRjA2OHBJdTBSajlWSVJpQ3FULTlMTnFfSVZqUEhqb3E2UnR3czg0Rk5raUpKWUFfZkpDSG9ROVhwb2JOYnVRUQ?oc=5)
+
+2026-05-03
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1c3bTNseXptN0lmQVJpbXVfeGlyS01ubVptTXhEN0s0WklLdVptVGZBaDBNc1MySmt1UkNQeVlCb0R4V1NGT2QxNHFUZEJZTkk0a2JDVGJGRlZ0dVRWcnBKQnp2elducTloanRKVWRhcFhTZm8wcVBqYjlWR1cxOVRtRjA2OHBJdTBSajlWSVJpQ3FULTlMTnFfSVZqUEhqb3E2UnR3czg0Rk5raUpKWUFfZkpDSG9ROVhwb2JOYnVRUQ?oc=5)
+
+---
+
+### [Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
+
+2026-05-03
+
+來源：[Linth24](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
+
+---
 
 ### [Salz im Kaffee: Experten warnen vor neuem Kaffeetrend - das sind die Risiken](https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU4xdVk2ZVlmeDg4aUJIQlRWRXI5QjBQekZ5akx4TmctelhNMmFZRlB4bUxYYW8tSTh6VEZBcVF4NFZfdk0zYkkzRVZSWlpfTnJPLU8wVl93RzRySkpfWDFpMVNVNm5pS0lsTDVTdkR0TGhtRWJRemh4SnlxU1Z3TFRMYWpkaExaeGN4R1RyZElXT3FMakVVSnJsM1lTaF9jV0k2TTBGZTRqUzZZbFJLTGJxdDIyOTU0eHRFLU9uY3cxS0RG?oc=5)
 
@@ -98,6 +114,14 @@ permalink: /news/atrial-fibrillation/
 2026-05-02
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGpISXNLa3Btd0RDeW1IYjZ6MmFLeENCaFJlWWlRTU5CTDd1VjRMZjdsbTRqQ3FIY1RrVW9CWVowSEhKc1pDcTdvSFZxemRDTldDZ1JOWXMyMDBmNG9ldDJ4dDZfTVdHXzYyZ3FTbGFqMnJZMVFRT09RZE9JcmNEUFY4OGxuYmo1QjQ5SFdNN3VXcmhfZDBzcjZwaWZoTWpfeTJPNQ?oc=5)
+
+---
+
+### [Popular Weight-Loss Drugs Found To Cut Heart Attack and Stroke Risk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+2026-05-02
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
 
 ---
 
@@ -133,14 +157,6 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Tres meses en lista de espera para una mamografía - Diario de Burgos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ05yLXo4WGFEUUtYWmxISU44LWcxSkVrTGxsaU1rdHJkTU5XNW85MXNvdUdjY2hMbDVkSTUtdmphR3EyTHZiVHBISjBvM0dzYU9RTmZrMjBDV1dzX0RvWE5BU19HcVlvdmk5bmFGNnRuZ0hnc2d5X3RnUUZnbDJsRU9BZ0hqdHZBMEJXME11cmtydnVvbTZ4U3ZHQVNJZzhWZmY5dEdHT3NIMDNjQ1R3bzJ5WlVuRkQxSWhaNXl3UGMwMU5aYVdoNFlLTQ?oc=5)
-
-2026-05-02
-
-來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ05yLXo4WGFEUUtYWmxISU44LWcxSkVrTGxsaU1rdHJkTU5XNW85MXNvdUdjY2hMbDVkSTUtdmphR3EyTHZiVHBISjBvM0dzYU9RTmZrMjBDV1dzX0RvWE5BU19HcVlvdmk5bmFGNnRuZ0hnc2d5X3RnUUZnbDJsRU9BZ0hqdHZBMEJXME11cmtydnVvbTZ4U3ZHQVNJZzhWZmY5dEdHT3NIMDNjQ1R3bzJ5WlVuRkQxSWhaNXl3UGMwMU5aYVdoNFlLTQ?oc=5)
-
----
-
 ### [Man dies covered in necrotic lesions after amoebas eat him alive - Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDVFWi1lbkVhUDJRR3FqUVBQaFhmVkFxSmR5blJ4c1dIRWdscUw1RlVCc0t3VnpLVGlFaGkxLWpQZ0NhdncxVDlZUG83Zm9KdGNKT0cxcTh2UklTMjhOTHZvVDc3dWtCOEhmbXNDOXc2N1F5Y0VmTTFfMWgzNEc4YUxZRnNvaFNJZ0E3RUpfRUZOMl9CVDNzallXcTA0OGFpdXBwdHFQZzNHZUNDSGlrS05n?oc=5)
 
 2026-05-01
@@ -165,19 +181,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Así es el test que permite anticipar el riesgo de ocho afecciones cardiovasculares](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDhZUk45UVlucmtnaGVZQWg4YUlXR3k1SlRWMXVZeHRqS1JTOHFNSmJnUXNRSkdpOHJBS0ljeGlXbFBXMHhEUmdsT08yamVwQW9XNkhVNkR3ZTNjRHB4ekVkTjBEc2x5ZkVpYWZ3YTl4Q1RQenh0b3dtcnFvdTBGUll6anBESlIwSWwzYmxRZE1PSGlmQ0tIdGRIZXUxdDRNTVZkenlSR2haZ9IBrwFBVV95cUxQY0NmS2pJRzJveVBqc0phMFh4TjdrQWV5SUFESXQxb3gwQzFXVHpkWXFScEUtblo0VC1SUlR0Z0tZTDJ2VmV6QnhKMzllQjdRQVZEVHVhV3pYUnJIZE9PUFdla1JuT0VPTEZOREoySmJDUVRTRVRFaUtJTWZ1dGdpZHJjTkNxdXZhallkMlJ5TktUbjZXd09NY0w1Qko5ZHZFOXp0bi0xZVJNYUlhVEM4?oc=5)
+### [6 bodyweight moves that rival dumbbells for building muscle after 60 - Women's Health](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1lJTng5SDlUbUZ1ZDIwWDJTMGlnZkUwUnhjQ2hKOEhXTHk5MFlPQnRsNFNlb0FTckQxMEFLZ282WnFtNHByb1dDUm8zT2Q0akRBUXNnZVFEc181WE5sazFHSGc5V0ZXbjhBYmRLUHlGS1VDSzIxNWlvQkNudXVkOVkyVUNSTmdXdHlQWGJGN1duLVhYREhuUm13LVhKaElOS3dZ?oc=5)
 
 2026-05-01
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDhZUk45UVlucmtnaGVZQWg4YUlXR3k1SlRWMXVZeHRqS1JTOHFNSmJnUXNRSkdpOHJBS0ljeGlXbFBXMHhEUmdsT08yamVwQW9XNkhVNkR3ZTNjRHB4ekVkTjBEc2x5ZkVpYWZ3YTl4Q1RQenh0b3dtcnFvdTBGUll6anBESlIwSWwzYmxRZE1PSGlmQ0tIdGRIZXUxdDRNTVZkenlSR2haZ9IBrwFBVV95cUxQY0NmS2pJRzJveVBqc0phMFh4TjdrQWV5SUFESXQxb3gwQzFXVHpkWXFScEUtblo0VC1SUlR0Z0tZTDJ2VmV6QnhKMzllQjdRQVZEVHVhV3pYUnJIZE9PUFdla1JuT0VPTEZOREoySmJDUVRTRVRFaUtJTWZ1dGdpZHJjTkNxdXZhallkMlJ5TktUbjZXd09NY0w1Qko5ZHZFOXp0bi0xZVJNYUlhVEM4?oc=5)
-
----
-
-### [Nasal decongestant sprays should not be used for more than five days, medicines watchdog says - Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3dIR2xIM3JNOVJTdWhWX01nQ0JKbkxQUFlGQjg4TkxPdW1jRVJuSVdENkRqVEkzcWMzTHA1OEhBMjFlY29GRGVpZ29iZ00zYzEtSEwxRi1DOWtCMENHaDdEN0IzM0dzdlRzU0JWV0o2aFBLT2UzQy1DTXlHZnlQWHRidUl4ODZNMmk5MzFTMVVDTVZyMUJNUk1mQjdrUGIzZ0hPX0o3ZUY3NTVRdXAwZlVvWHdyM184NVI5d24yUzZsOXJRTktj?oc=5)
-
-2026-05-01
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3dIR2xIM3JNOVJTdWhWX01nQ0JKbkxQUFlGQjg4TkxPdW1jRVJuSVdENkRqVEkzcWMzTHA1OEhBMjFlY29GRGVpZ29iZ00zYzEtSEwxRi1DOWtCMENHaDdEN0IzM0dzdlRzU0JWV0o2aFBLT2UzQy1DTXlHZnlQWHRidUl4ODZNMmk5MzFTMVVDTVZyMUJNUk1mQjdrUGIzZ0hPX0o3ZUY3NTVRdXAwZlVvWHdyM184NVI5d24yUzZsOXJRTktj?oc=5)
+來源：[Women's Health](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1lJTng5SDlUbUZ1ZDIwWDJTMGlnZkUwUnhjQ2hKOEhXTHk5MFlPQnRsNFNlb0FTckQxMEFLZ282WnFtNHByb1dDUm8zT2Q0akRBUXNnZVFEc181WE5sazFHSGc5V0ZXbjhBYmRLUHlGS1VDSzIxNWlvQkNudXVkOVkyVUNSTmdXdHlQWGJGN1duLVhYREhuUm13LVhKaElOS3dZ?oc=5)
 
 ---
 

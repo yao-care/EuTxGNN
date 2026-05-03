@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [Caminar hacia atrás: El giro inesperado que podría aportar beneficios en la esclerosis múltiple](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDZEMXBsUTg2T3UxZ0l3M0lzXy1xbGl3T0hOQko0V2YzakVFS1lxTl90enl6UG9vNVdqOTFlbUt0UlJNZDF0aTRBNlB1NTh4Qmk3UEpleEJNbFVVOWlnenduV2tLcmtxRUlTOVRtSk5pVTE3akJQb1FHZEcyc0k5alh4WUxkMWRTMF9fUW1JWERDSDMxbmZQQjlzbDFLS3V5SnMwMDFKdXo0NVF2Q25mTTViX0lSR0ZiY19PT1JPWC15OVBHWVliTGgtMlh5T0Yt?oc=5)
+
+2026-05-03 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDZEMXBsUTg2T3UxZ0l3M0lzXy1xbGl3T0hOQko0V2YzakVFS1lxTl90enl6UG9vNVdqOTFlbUt0UlJNZDF0aTRBNlB1NTh4Qmk3UEpleEJNbFVVOWlnenduV2tLcmtxRUlTOVRtSk5pVTE3akJQb1FHZEcyc0k5alh4WUxkMWRTMF9fUW1JWERDSDMxbmZQQjlzbDFLS3V5SnMwMDFKdXo0NVF2Q25mTTViX0lSR0ZiY19PT1JPWC15OVBHWVliTGgtMlh5T0Yt?oc=5)
+
+---
+
+### [La progresión silenciosa de la esclerosis múltiple - Diario de Burgos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEJhSjlEV0RwV2R5TjZVRW16VVdiUzJCQzBpVHdkVXZieXBpZVVZdjdHN3hQaWRhdGNKek80anlDQ0MwUl9QS3VzY1pYRUpyQk4tS1lIOVpZX1M5RXZlcW9oWDgxQnhLX2RSNFpYVThYZjZmQXdpNFVrbVFpR2NNbXNRZmhVa0d0NHRVVUtmZWNwOFZJQnczVEZtSlhDbnF3N19VQW03RTh6a2FURHpFX3NVUUIzalJtTDdhMUpRNi11dkpRVXQ0QWZZSEY?oc=5)
+
+2026-05-03 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Diario de Burgos](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEJhSjlEV0RwV2R5TjZVRW16VVdiUzJCQzBpVHdkVXZieXBpZVVZdjdHN3hQaWRhdGNKek80anlDQ0MwUl9QS3VzY1pYRUpyQk4tS1lIOVpZX1M5RXZlcW9oWDgxQnhLX2RSNFpYVThYZjZmQXdpNFVrbVFpR2NNbXNRZmhVa0d0NHRVVUtmZWNwOFZJQnczVEZtSlhDbnF3N19VQW03RTh6a2FURHpFX3NVUUIzalJtTDdhMUpRNi11dkpRVXQ0QWZZSEY?oc=5)
+
+---
 
 ### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
-
----
-
-### [Descienden casos de cólera; se mantiene transmisión de mpox en el mundo - La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
-
-2026-05-02 <span class="news-indication-tag">MS</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
 
 ---
 
@@ -91,6 +99,14 @@ permalink: /news/velpatasvir/
 2026-05-02 <span class="news-indication-tag">MS</span>
 
 來源：[Nottinghamshire Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxONDhrOWZndkQ4THNLbEd3emoyQmdJLVNQRFc5WWQ4cDh1R0RfakdnRnBjSFdsX21rai1jdWQ1Z3c0YTNjQk1vWjhKWFdxR0ZXNGRCVnZrUUhncDdNck9fSXRZZndlVWNqNHN5b0dlZE9OMVJNN0Ffc1JaV2Y0Rmc3VjFvQ0FoRU80cUE?oc=5)
+
+---
+
+### [Sclérose en plaques : le défi du vieillissement face à un suivi médical qui doit s’adapter - Charente Libre](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeF9PVzlHQlg0WFhZcnNVRmc2ZW5Sa0RhalEzbi1uWjV1eTFHSkJRRGt3SUowQTBDd0JXUU5CeHhTcDNVNEhRSC1pRjNsZmVkdnBENmpmRmNrNWlvdkpQd2JuVXc3N3ZjN2c5SXl4ZmRzekg5UnhFTEtkcmNDUzFnaHZkSXM5Xy1xUG1QcElwZFhMeWk2ZHBiQko3VWY5cDR4eWhNY3lzdkJHaV8wZG0tUU9ZSk5GVWhjSEl3Q3AwdjU5UjgyMXUxMEY0NldIWWtTTHc?oc=5)
+
+2026-05-02 <span class="news-indication-tag">sclérose en plaques</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeF9PVzlHQlg0WFhZcnNVRmc2ZW5Sa0RhalEzbi1uWjV1eTFHSkJRRGt3SUowQTBDd0JXUU5CeHhTcDNVNEhRSC1pRjNsZmVkdnBENmpmRmNrNWlvdkpQd2JuVXc3N3ZjN2c5SXl4ZmRzekg5UnhFTEtkcmNDUzFnaHZkSXM5Xy1xUG1QcElwZFhMeWk2ZHBiQko3VWY5cDR4eWhNY3lzdkJHaV8wZG0tUU9ZSk5GVWhjSEl3Q3AwdjU5UjgyMXUxMEY0NldIWWtTTHc?oc=5)
 
 ---
 

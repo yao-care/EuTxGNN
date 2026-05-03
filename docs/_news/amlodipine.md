@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（19 則）
+
+### [Dans plus de 90% des cas, ce symptôme facile à voir est le premier signe d'un cancer de la vessie](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
+
+2026-05-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
+
+---
+
+### [Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
+
+2026-05-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Linth24](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcHRqYnJhMDZTTjV5VFMycmtnTE1zNHdZakxpYklBcFVjeW9UNHZUaEJvSlhPMDl5NGNJZktPM0FzZGc0cTNjMWdEbmlmT2VhMWlPRE9admVKNm4xTHd2NWZCemE5RVJrUUtJSg?oc=5)
+
+---
+
+### [La salute del cuore comincia a tavola: meno infarti con scelte corrette (e anche meno ictus) - Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
+
+2026-05-02 <span class="news-indication-tag">ictus</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
+
+---
 
 ### [L'analyse par IA des scanners pancréatiques révèle les prémices du cancer 16 mois avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
 
@@ -75,6 +99,14 @@ permalink: /news/amlodipine/
 2026-05-02 <span class="news-drug-tag">Amlodipine</span>
 
 來源：[Cadena SER](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWm45M082RHBLa3M3Y3BkckFCa1JhYTNCSU9tdUN5VGJFTWdoN2M5akItdGR5OFk2UWMtWFRjeHBDZzVNUEJzc2tITUdLTVpyeDRQTnFiSTdROHF2MDREZlRkVjZZOXlEWklWX0xGVnVUM1JnalFON1hpa0x6V1JEdmlDOVViWFJFbzAxLWlWZmc0MGIxaW90VE9laXNUdFRza1hXNEtkNVhQMFNnQzBIckRrN002V2FZWlZtQk5Ob9IB0wFBVV95cUxNR1ZtSVpKcjVOM251U0xEYXk0ZkhfN0R3Tm5Zc0swWTIzdlpjVFZ2NFB4bzh4eW0wdlB0TkpSYWpGUWdGcElhTUFySUlkNE1WQUxCemJLSGZfSjlPUHBnR0lPaDZTcEoybmRYWkJRNHpLVnNzMks5SG5XZDd4b0h2R2VyQnBLUl95VXhRc1puRXZpNWJWWWZMdVNDVEU2UXdhLURDVnViRUIxWmpvSFpkSjEyc2xFZEhSa3hBcGVZR0N4TXhlN2h4OTdvN0tnRFZzYW1v?oc=5)
+
+---
+
+### [Popular Weight-Loss Drugs Found To Cut Heart Attack and Stroke Risk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
+
+2026-05-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
 
 ---
 
@@ -118,7 +150,7 @@ permalink: /news/amlodipine/
 
 ---
 
-### [The world wants to eliminate cervical cancer - how Australian scientists led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
+### [The world wants to eliminate cervical cancer - how Australia led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
@@ -142,6 +174,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Tumore al pancreas, perché è stato ritirato lo studio spagnolo. Bufera su Barbacid: “Sapeva, ma non ha bloccato le donazioni” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJrYVN0SU5SSWt4TG9zTFZ1NVh5eFo5OGNfQ0ZhRDR3S09LcVJEMkpDdzVxUDRZY3ZJU1VQOFh3bi1xakg1WktHbDUwOWtIdTY1LXRnb3ZCTk1JdWh4NmxLa1hadUFLMUJDNmxHSGVRa3Y0dTBtYWlaM09PamFHZHBBb3VfS05ibzRKRnczRXo5WjZad0o2VVU3Y05nUQ?oc=5)
+
+2026-05-01 <span class="news-indication-tag">tumor</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMingFBVV95cUxOTkJrYVN0SU5SSWt4TG9zTFZ1NVh5eFo5OGNfQ0ZhRDR3S09LcVJEMkpDdzVxUDRZY3ZJU1VQOFh3bi1xakg1WktHbDUwOWtIdTY1LXRnb3ZCTk1JdWh4NmxLa1hadUFLMUJDNmxHSGVRa3Y0dTBtYWlaM09PamFHZHBBb3VfS05ibzRKRnczRXo5WjZad0o2VVU3Y05nUQ?oc=5)
+
+---
+
 ### [I said my last goodbye to my dying mum before a stabbing neck pain - I also had cancer, but put tests off for months - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkpwLUc1UExYVWVrSDRDTVM1MEdUN3NBSXBZOEhRcG9xSmttT0JHdnhsc3FtdVAzRG5QbTNLb0FwVjRqWGFVZGhoaGMwQlc1X1NEczRhZ1RSWm80RnVONnZaQ20xV0JIV01qRmxKRUtLX1M4ekZRcG4waGFsQXJ3SldzNmtRYncxTzZBMg?oc=5)
 
 2026-05-01 <span class="news-indication-tag">cancer</span>
@@ -150,59 +190,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Galicia, primera comunidad española en incluir la vacuna contra la meningitis tipo B a los 12 años](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdmVwcTlpYmdyRUJNQUJIZC15NWVweW8wd2ZfNUh2YWQ4cDhpbkE0M1pYUW1uQU9JdVZVVjctZzRpcHQzU1FCREM1Q2lLWk5NLTBvVmliRFE3ZWtIT1JROTU1eHJBeExjTXJmaDlCMjRjZ19zUzkwaVRYM3BxUnJxam9hM3MyV0FWME1HUldPNUhkdm1jMFRtQ3ItMzkxOWdIb21kSzk2ejYxSXBzc0JOb2g0UGZ0WTZmSDZPYS1FSGgxeF9yRHVjNGxHXzljVE82dVRZ0gHTAUFVX3lxTE1xbTZMTVhMaEkzWlF4Tk84cWF5Nnl6REQxdmNtMUhNNEhfSWlmX0ZiTXZMUmc5d1c1YjQ2cHBQSUtnd0VnUFVHNndqbnJKV0llRG1HSEViZ1R0b2sxQmMzZ0I5UzJvTm1YODRHLWdKSmJ0T2NqaWQ5aUp3aE9WeWF3bGlqREJwYkJBMnlCNHhKV2QwVFlGVE1Xa0hKZ0txWEhoWFNwQVVsdC1DTGhveERBeFBEZ05hUmdxdkVSakJxTWdVeld6aG84Q2U3cVBlY0c3U28?oc=5)
-
-2026-05-01 <span class="news-drug-tag">Amlodipine</span>
-
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdmVwcTlpYmdyRUJNQUJIZC15NWVweW8wd2ZfNUh2YWQ4cDhpbkE0M1pYUW1uQU9JdVZVVjctZzRpcHQzU1FCREM1Q2lLWk5NLTBvVmliRFE3ZWtIT1JROTU1eHJBeExjTXJmaDlCMjRjZ19zUzkwaVRYM3BxUnJxam9hM3MyV0FWME1HUldPNUhkdm1jMFRtQ3ItMzkxOWdIb21kSzk2ejYxSXBzc0JOb2g0UGZ0WTZmSDZPYS1FSGgxeF9yRHVjNGxHXzljVE82dVRZ0gHTAUFVX3lxTE1xbTZMTVhMaEkzWlF4Tk84cWF5Nnl6REQxdmNtMUhNNEhfSWlmX0ZiTXZMUmc5d1c1YjQ2cHBQSUtnd0VnUFVHNndqbnJKV0llRG1HSEViZ1R0b2sxQmMzZ0I5UzJvTm1YODRHLWdKSmJ0T2NqaWQ5aUp3aE9WeWF3bGlqREJwYkJBMnlCNHhKV2QwVFlGVE1Xa0hKZ0txWEhoWFNwQVVsdC1DTGhveERBeFBEZ05hUmdxdkVSakJxTWdVeld6aG84Q2U3cVBlY0c3U28?oc=5)
-
----
-
-### [Tumore del pancreas, ritirato lo studio che aveva illuso il mondo. “Autori in conflitto d’interesse” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
-
----
-
 ### [Un investigador del Instituto de Investigación Biomédica de Lleida colabora en la redefinición de los tumores bifásicos](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXg4eG1jM1JadmktalBGRnhZZFoxLTJSQjhoU1ZvR01aY2ZWN2VtVW1CY3o3QnNNVE5xRU1jTEhYM0QwNERhcnJBOUg3Q1drWERyN0hEZ3VMVUl4ZmxyeldyTWcxdFFNRnEyV3NzRnNsclN6c1JMMkJsZFJ1RjRERG4zazVqZWdhUDJKdHBDenoyZE9xdFExbkZmVEZ6Ri1Dc1NhVk9IRXB3RzRoa002a09nUlZYSkZHa0RjcnV4WTZ3SE9GbWJlRnhzX3FibzNTVzJORWJlNWtrX3M5SlhjaEJzMHQ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">tumor</span>
 
 來源：[Segre.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXg4eG1jM1JadmktalBGRnhZZFoxLTJSQjhoU1ZvR01aY2ZWN2VtVW1CY3o3QnNNVE5xRU1jTEhYM0QwNERhcnJBOUg3Q1drWERyN0hEZ3VMVUl4ZmxyeldyTWcxdFFNRnEyV3NzRnNsclN6c1JMMkJsZFJ1RjRERG4zazVqZWdhUDJKdHBDenoyZE9xdFExbkZmVEZ6Ri1Dc1NhVk9IRXB3RzRoa002a09nUlZYSkZHa0RjcnV4WTZ3SE9GbWJlRnhzX3FibzNTVzJORWJlNWtrX3M5SlhjaEJzMHQ?oc=5)
-
----
-
-### [À plus de 50 ans : ce signe indolore est le premier symptôme du cancer de la vessie - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijgFBVV95cUxQckIwbHJuQkI4Zlg2M0JMdklQMTl1WEo3bnQxMmFYeERZbVNIZklpQjBCQ0kyTUJJRkk0RlFBcFlGa2NZNzFSTGZ5dDNNcDZHckZjbkZfdEg2V2t3WEVMTHVBZ3RqYTFMQWhRdDhpUlBOd1dnYkxERG02bUJnSmFhUm5iS3VFd1NiRWgtd09R?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijgFBVV95cUxQckIwbHJuQkI4Zlg2M0JMdklQMTl1WEo3bnQxMmFYeERZbVNIZklpQjBCQ0kyTUJJRkk0RlFBcFlGa2NZNzFSTGZ5dDNNcDZHckZjbkZfdEg2V2t3WEVMTHVBZ3RqYTFMQWhRdDhpUlBOd1dnYkxERG02bUJnSmFhUm5iS3VFd1NiRWgtd09R?oc=5)
-
----
-
-### [Coffee may protect your body from ageing, study finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjA4bmZRRXhaTENqVHpaTV9kU3ZHNmNGQ3RWNnpLWEY4SW5lSGllbURLVVZVZERkNGNwSnlTeURaa2w3RThSRTdzbVU5OEI0cWNiVmZ5V1ZFMWExLUNJQ21hbDQzNkY3Y1RaeVppVUMyak9xall0WTgwaHVOZzE4d0lHT3hsMHpORmlxcm80VTRJdGJxUFdoWVJkV0djMkJoNG5LTA?oc=5)
-
----
-
-### [Lungenkrebs-Screening: Zufällige Befunde können auf extrapulmonale Tumoren hinweisen](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnNXT3AzRFk3d0w0dlB0OXEtUV9aMFFuOWpUUlZRNEl1dmxFNVJsbUpSNTJ5Mno2ZVJYdEltU2RVaTJNcUdEMU9FNE1BR05taXZKNkNzdkhWVllBM3c0ZG5sVmFwU3lrT1E3ZkVyaXNFcTJiY2otSE9ER2QzTDBySmlXRG5sazg3X2wzM0Jtb3dGTkdlVjltYnNpNHFjS2U0bFg2MEhCbFBrMm1uLV82M2s0bGg1Zk51emhURUR3VWQ1VkN5Z1lmeE1JM25Idw?oc=5)
-
-2026-05-01 <span class="news-indication-tag">tumor</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnNXT3AzRFk3d0w0dlB0OXEtUV9aMFFuOWpUUlZRNEl1dmxFNVJsbUpSNTJ5Mno2ZVJYdEltU2RVaTJNcUdEMU9FNE1BR05taXZKNkNzdkhWVllBM3c0ZG5sVmFwU3lrT1E3ZkVyaXNFcTJiY2otSE9ER2QzTDBySmlXRG5sazg3X2wzM0Jtb3dGTkdlVjltYnNpNHFjS2U0bFg2MEhCbFBrMm1uLV82M2s0bGg1Zk51emhURUR3VWQ1VkN5Z1lmeE1JM25Idw?oc=5)
-
----
-
-### [Niveles altos de ácido úrico se asocian a mayor riesgo cardiovascular en mujeres mayores de 50 - 65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
-
-2026-05-01 <span class="news-indication-tag">ictus</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVZmM3lpdlFUMmZqb1AwbGdfZVpzOTVBdFlLcUwxeHdfREozQkpGMDZOUjVoRFgzam00cFd2dlk2OXV0aUNOcU8ySkVoY3haRjFVbkZEUzMzSTA2Q1FhRVJXcGNpZ3AtdkFnVXRBcWgyQXhRYjF0OGtycElXWlRaMEpYN3VlbE9aWGk0d0JkT1dJMXdfdEtqTE83NHo5VEtrdTJHdDc3QlcyaXFmTlF0cllpTnlpLXNia28yTTNRVVNaT3dNZXFHeFJ3?oc=5)
 
 ---
 
