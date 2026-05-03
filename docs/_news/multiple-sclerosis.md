@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。8 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。7 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>8 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>7 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+2026-05-02
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+---
 
 ### [Descienden casos de cólera; se mantiene transmisión de mpox en el mundo - La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
 
 2026-05-02
 
 來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
-
----
-
-### [Six walking myths busted – and how many steps a day you really need - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzJ6d0hydHh4eHUxUVQ4YXlrQXFHbERiV0hNRXVpZ0dsRDhraXJRbndNdWZzOXZVWmgxM09lVng4VEpqYnExRGtQYXRoWUU3RzVRaE51TXNRV3RSakl0OGU4NzVnWEJOUDlBaUc0bmVUNnIweFRxNWxHNFhxcmhwb1k4VkJRd3ZCUXpmbjV1T1BrT29fdGgtUjBLakVpNnF6Q2dueWFKWQ?oc=5)
-
-2026-05-02
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzJ6d0hydHh4eHUxUVQ4YXlrQXFHbERiV0hNRXVpZ0dsRDhraXJRbndNdWZzOXZVWmgxM09lVng4VEpqYnExRGtQYXRoWUU3RzVRaE51TXNRV3RSakl0OGU4NzVnWEJOUDlBaUc0bmVUNnIweFRxNWxHNFhxcmhwb1k4VkJRd3ZCUXpmbjV1T1BrT29fdGgtUjBLakVpNnF6Q2dueWFKWQ?oc=5)
 
 ---
 
@@ -109,14 +109,6 @@ permalink: /news/multiple-sclerosis/
 2026-05-01
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
-
----
-
-### [Sertraline urgent MHRA warning over 'potentially' fatal mix-up as symptoms released - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
-
-2026-05-01
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
 
 ---
 

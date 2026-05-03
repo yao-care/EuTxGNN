@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+---
+
+### [La enfermedad inflamatoria crónica que puede confundirse con dolor lumbar: cuáles son los síntomas](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUpCbjhxQXNjV1Uxem1yUFhSN3dUaXBvdmVKLXRMeDNSeFd5ZDZFdUd5Y2w4OGQ0OXQ1N0NITTVHSEJkSTJ1MHdCUjFVaEx0RjNDWWNZMDFGX1BDMTJQUEdJX3M2UXNHazFWeklaOXk3aHhDWE9TeGJwMjNLb0ZycmRPNUtDSi1VazhaUF9IZnplcHdEOTZ1NHJ1M0lLUnZDMjZSaTQ1M1Q4dG16clE2VFZLOXdCVWx4VW9Wdmt6YnNiNThYR1BWaDNTaW1yQTFxOGhYTUh2VXhEb0x4dE01TtIB-wFBVV95cUxPQzNVUllvaWxoYi1fZ2Jod2FmMHV5V1pGRTNPdG1xLWVtS3FVRncyclh6QjYxMGxzN2tldkVnQUo0eFpFQ2J6TWQwN01iNFp3ZWotWVozZVhoejNrMUZ4SnVPUXJSemdfeEJ3RTFhTUhhcGpzY25NaFhFNzY2b2JMZS12QS1OZXhYR1c1d1ZqZHZ2Tmgtc3FNODJRT1VwQ2hMME9EV012a1ZFVjRfeVAzQzQwSjBNTG1wNW1odlc1Nno3bHRMU1o5eUgyOVJCalBidkZmTHI5VnBQN1JCRnd0ekNnUWQ1S1dyNVBFU0wyNGRiNmxvN2EyejFSUQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">artritis</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUpCbjhxQXNjV1Uxem1yUFhSN3dUaXBvdmVKLXRMeDNSeFd5ZDZFdUd5Y2w4OGQ0OXQ1N0NITTVHSEJkSTJ1MHdCUjFVaEx0RjNDWWNZMDFGX1BDMTJQUEdJX3M2UXNHazFWeklaOXk3aHhDWE9TeGJwMjNLb0ZycmRPNUtDSi1VazhaUF9IZnplcHdEOTZ1NHJ1M0lLUnZDMjZSaTQ1M1Q4dG16clE2VFZLOXdCVWx4VW9Wdmt6YnNiNThYR1BWaDNTaW1yQTFxOGhYTUh2VXhEb0x4dE01TtIB-wFBVV95cUxPQzNVUllvaWxoYi1fZ2Jod2FmMHV5V1pGRTNPdG1xLWVtS3FVRncyclh6QjYxMGxzN2tldkVnQUo0eFpFQ2J6TWQwN01iNFp3ZWotWVozZVhoejNrMUZ4SnVPUXJSemdfeEJ3RTFhTUhhcGpzY25NaFhFNzY2b2JMZS12QS1OZXhYR1c1d1ZqZHZ2Tmgtc3FNODJRT1VwQ2hMME9EV012a1ZFVjRfeVAzQzQwSjBNTG1wNW1odlc1Nno3bHRMU1o5eUgyOVJCalBidkZmTHI5VnBQN1JCRnd0ekNnUWQ1S1dyNVBFU0wyNGRiNmxvN2EyejFSUQ?oc=5)
+
+---
 
 ### [The Most Effective Knee Arthritis Treatments Aren’t What You Expect](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
+
+---
+
+### [Ernährungswende 2026: Wie der Körper das Abnehmen sabotiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
+
+---
+
+### [NEM bei Diabetes: Was bringt was? - PTA IN LOVE](https://news.google.com/rss/articles/CBMia0FVX3lxTE85QXBVUFNnZUtVWkJseDFMRldDNkU2ZExKeWIwOGZ1ODAxdDFsaF9OUUFwVlRveE82blU3OTZ5MTRkU1RqT2NpQmZwR0V0Y2U1akNRM3dfQV84emlkbHJIbDlNWGZaeXBNNGln?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMia0FVX3lxTE85QXBVUFNnZUtVWkJseDFMRldDNkU2ZExKeWIwOGZ1ODAxdDFsaF9OUUFwVlRveE82blU3OTZ5MTRkU1RqT2NpQmZwR0V0Y2U1akNRM3dfQV84emlkbHJIbDlNWGZaeXBNNGln?oc=5)
 
 ---
 
@@ -78,14 +110,6 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Arthritis sufferers warned about 2 fruits as common arthritis pain triggers - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
-
-2026-05-01 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
-
----
-
 ### [Una molécula protege el páncreas de la toxicidad asociada a la diabetes tipo 2 - Diario de Salud](https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXhrOF81S0RIZTg3a1BkVmwtR0YwTTM0VVdMZ0VtblZQTENzYU9uUHBBRUNGSXRwdHV1SGtCUzdpbGdqaW5fVGN6TV9BY2NpQkQ1cC1KYkFIcE81cURHNzhPcWNTcGlxMDc4S1dBWmlTRlcwQlhMd291WUVWSjFGZzRnSzlqczhaVkVBN0JmYVNnck9vUU1KcG5aZEdmY2Y2ejF1di1xVmtsbHZya05NVWdyZnhJa05JZl9aMkZ2Yw?oc=5)
 
 2026-05-01 <span class="news-indication-tag">diabetes</span>
@@ -99,14 +123,6 @@ permalink: /news/cabotegravir/
 2026-05-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
-
----
-
-### [Genetic association and machine learning improve the prediction of type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMi1rWG1KNWhFeTVzM1NLS1BZZ2J3TFpBaHBiTHRFTllxTVF0cmE5VXc3SWhQUlNBc2p6d3ltRGpJU3MwM18yNXF5ZEtBb2ZjX3RvMk1idmFMLWZZRzNj?oc=5)
-
-2026-04-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMi1rWG1KNWhFeTVzM1NLS1BZZ2J3TFpBaHBiTHRFTllxTVF0cmE5VXc3SWhQUlNBc2p6d3ltRGpJU3MwM18yNXF5ZEtBb2ZjX3RvMk1idmFMLWZZRzNj?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rufinamide</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（22 則）
+
+### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+---
 
 ### [L'analyse par IA des scanners pancréatiques révèle les prémices du cancer 16 mois avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
 
@@ -75,14 +83,6 @@ permalink: /news/rufinamide/
 2026-05-02 <span class="news-indication-tag">MS</span>
 
 來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
-
----
-
-### [Six walking myths busted – and how many steps a day you really need - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzJ6d0hydHh4eHUxUVQ4YXlrQXFHbERiV0hNRXVpZ0dsRDhraXJRbndNdWZzOXZVWmgxM09lVng4VEpqYnExRGtQYXRoWUU3RzVRaE51TXNRV3RSakl0OGU4NzVnWEJOUDlBaUc0bmVUNnIweFRxNWxHNFhxcmhwb1k4VkJRd3ZCUXpmbjV1T1BrT29fdGgtUjBLakVpNnF6Q2dueWFKWQ?oc=5)
-
-2026-05-02 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzJ6d0hydHh4eHUxUVQ4YXlrQXFHbERiV0hNRXVpZ0dsRDhraXJRbndNdWZzOXZVWmgxM09lVng4VEpqYnExRGtQYXRoWUU3RzVRaE51TXNRV3RSakl0OGU4NzVnWEJOUDlBaUc0bmVUNnIweFRxNWxHNFhxcmhwb1k4VkJRd3ZCUXpmbjV1T1BrT29fdGgtUjBLakVpNnF6Q2dueWFKWQ?oc=5)
 
 ---
 
@@ -142,7 +142,7 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Australia wants to be first nation in the world to eliminate a cancer - can it?](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
+### [The world wants to eliminate cervical cancer - how Australian scientists led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
@@ -174,22 +174,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Ritirato lo studio su tumore al pancreas che prometteva la svolta](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RobWR6VWducG1aRXFGWjhlbHpPVGlDS1EwU1A5MDUtczZxUkw2TjQ5cEhHZl9nLWIxTmVBVjZhd2dibUZQYnJScFRtczRNNFlMaF9TbE9oSmNTR250bkFQM3cwbG1vVERkc1FQenAxQmJ3NGk0QlU2THQyekdFdHVybnBzRk9aRHdKTnlYMDU?oc=5)
-
-2026-05-01 <span class="news-indication-tag">tumor</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RobWR6VWducG1aRXFGWjhlbHpPVGlDS1EwU1A5MDUtczZxUkw2TjQ5cEhHZl9nLWIxTmVBVjZhd2dibUZQYnJScFRtczRNNFlMaF9TbE9oSmNTR250bkFQM3cwbG1vVERkc1FQenAxQmJ3NGk0QlU2THQyekdFdHVybnBzRk9aRHdKTnlYMDU?oc=5)
-
----
-
-### [NHS cancer awareness bus to visit Wolverhampton and Black Country](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZW1tcHhBNzM5RUQ1WjFVUF9jU2lMeUYxZXAwdUxlUThQMW1scnZEcU1qSkRldXRILXA0ZWhycUxvRGtndS1tSzhRdDNHVGEtTTNGaGhPSndNUGZL?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZW1tcHhBNzM5RUQ1WjFVUF9jU2lMeUYxZXAwdUxlUThQMW1scnZEcU1qSkRldXRILXA0ZWhycUxvRGtndS1tSzhRdDNHVGEtTTNGaGhPSndNUGZL?oc=5)
-
----
-
 ### [Type 2 diabetes — 4 symptoms that appear on feet you shouldn't ignore - The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
 
 2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -198,27 +182,11 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Sertraline urgent MHRA warning over 'potentially' fatal mix-up as symptoms released - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
+### [Tumore del pancreas, ritirato lo studio che aveva illuso il mondo. “Autori in conflitto d’interesse” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
 
-2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-01 <span class="news-indication-tag">tumor</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
-
----
-
-### [NHS issues urgent ‘check your skin’ warning for illness that kills thousands - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE14aWpXb3JMakc3bHRJRmtTMUNwWkVMWS1CRGhXWDAtaFRtNlR1alFyNGpuSWlSUGdwN01haW1qbGkzelppMEFIelNkZ2k4WHFvZTlUV3Y5dGM4UUtXcUR0ajNxOVotQ2tzSFk0QkFtOHAwWnYzdVpJRzRoSGhpeVHSAYQBQVVfeXFMUERZQ3RxbEFMcEFLcUpCYWJvcU1UcVNoakRRelhhVEVzN3hYb0pUUXdPN0s4UGs0MmcwYVlCR1k5NnhJTHBBakRITjlHM2ZQV3huTlpla3AtZWMxZlFPSWR5bDBiejJnS1ZjZmZTNGpCUEpYbHYwY3h4ZmY5MmY4ZUsxcVZZ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE14aWpXb3JMakc3bHRJRmtTMUNwWkVMWS1CRGhXWDAtaFRtNlR1alFyNGpuSWlSUGdwN01haW1qbGkzelppMEFIelNkZ2k4WHFvZTlUV3Y5dGM4UUtXcUR0ajNxOVotQ2tzSFk0QkFtOHAwWnYzdVpJRzRoSGhpeVHSAYQBQVVfeXFMUERZQ3RxbEFMcEFLcUpCYWJvcU1UcVNoakRRelhhVEVzN3hYb0pUUXdPN0s4UGs0MmcwYVlCR1k5NnhJTHBBakRITjlHM2ZQV3huTlpla3AtZWMxZlFPSWR5bDBiejJnS1ZjZmZTNGpCUEpYbHYwY3h4ZmY5MmY4ZUsxcVZZ?oc=5)
-
----
-
-### [« Un cancer tellement insidieux... » : face aux papillomavirus, un témoignage fort pour la vaccination des ados - Le Parisien](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcUdaWk0tWF9jMWFrWDhWdEZmblpWcW00d2RJaFJRMlFrUm8wOUJoOVdBY0cxa0o5aFN2WW9RdDdvTXQ2RGlrTDczQUdYcmw4SnFhWDczUU11dTNPVjJMY0M3cGFpM2lGdjFoTkdFdVhfOWhtVHJZQU5QRW9scTJVTUJuOHpocUY2emtydGFzTmpYTjBEaVdXZ1A5UF9CTW9jWnhIQ1E4NEN5bDF1b3M3NWxwdl9GZUdWR3c3RWpzbElSeUxFUVR2TXJxWElwZkpTaUVfYy1iV1ZRaGpjZGVqNnpNRjBiWkJsWDc2MlItZC1VZU43Wmkwek1ZdFRlWE1OLVRvbzd5SUc4SUt1aHp3TzU0ZlF3NVJWWGVKc0Fzd2lSYjJUOVBYLQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcUdaWk0tWF9jMWFrWDhWdEZmblpWcW00d2RJaFJRMlFrUm8wOUJoOVdBY0cxa0o5aFN2WW9RdDdvTXQ2RGlrTDczQUdYcmw4SnFhWDczUU11dTNPVjJMY0M3cGFpM2lGdjFoTkdFdVhfOWhtVHJZQU5QRW9scTJVTUJuOHpocUY2emtydGFzTmpYTjBEaVdXZ1A5UF9CTW9jWnhIQ1E4NEN5bDF1b3M3NWxwdl9GZUdWR3c3RWpzbElSeUxFUVR2TXJxWElwZkpTaUVfYy1iV1ZRaGpjZGVqNnpNRjBiWkJsWDc2MlItZC1VZU43Wmkwek1ZdFRlWE1OLVRvbzd5SUc4SUt1aHp3TzU0ZlF3NVJWWGVKc0Fzd2lSYjJUOVBYLQ?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
 
 ---
 

@@ -70,6 +70,14 @@ permalink: /news/sildenafil/
 
 ---
 
+### [Venus und die Plejaden - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo4OXZsVmlyX1B3blVjNG90bTVuR0doNXZOajFyeWZTc0RJRzVzSEgtbG5mQ3dvcm5mZEZfZkRPenRKM2ZlaGtFMHhCc2VDX21ZSGFSQXRjLWRPU2NOZ1NiTm1NZGpYM25Fd2o0blFKQ0dXa1l2MVFIelZWOUhJaHNPYjNSMWs?oc=5)
+
+2026-05-02 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo4OXZsVmlyX1B3blVjNG90bTVuR0doNXZOajFyeWZTc0RJRzVzSEgtbG5mQ3dvcm5mZEZfZkRPenRKM2ZlaGtFMHhCc2VDX21ZSGFSQXRjLWRPU2NOZ1NiTm1NZGpYM25Fd2o0blFKQ0dXa1l2MVFIelZWOUhJaHNPYjNSMWs?oc=5)
+
+---
+
 ### [Demenzrisiko senken: Umweltgifte, Kaffee und Einsamkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGpISXNLa3Btd0RDeW1IYjZ6MmFLeENCaFJlWWlRTU5CTDd1VjRMZjdsbTRqQ3FIY1RrVW9CWVowSEhKc1pDcTdvSFZxemRDTldDZ1JOWXMyMDBmNG9ldDJ4dDZfTVdHXzYyZ3FTbGFqMnJZMVFRT09RZE9JcmNEUFY4OGxuYmo1QjQ5SFdNN3VXcmhfZDBzcjZwaWZoTWpfeTJPNQ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">AF</span>
@@ -118,11 +126,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Immune Cells 'Remember' Obesity Long After Weight Loss, Study Finds](https://news.google.com/rss/articles/CBMimAFBVV95cUxQODhzd1pKYlVlelczbzY5UVBmZHY3cXAtOWVLdXlsYWxOUUowVVNOMVBaT3g0bHBVZm9fakh0MUNWUllEcHY5RWNtZzItamtGVHlwVWNDZV9UZGVmcHpyeW9XdzAxLVU3dnJDcG9SM1hJZGxsMWk3ZDJGVUZZV1VGb29DM29hSzFBLUIwTXJZRFJ4MHJ4bWFXSw?oc=5)
+### [Man dies covered in necrotic lesions after amoebas eat him alive - Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDVFWi1lbkVhUDJRR3FqUVBQaFhmVkFxSmR5blJ4c1dIRWdscUw1RlVCc0t3VnpLVGlFaGkxLWpQZ0NhdncxVDlZUG83Zm9KdGNKT0cxcTh2UklTMjhOTHZvVDc3dWtCOEhmbXNDOXc2N1F5Y0VmTTFfMWgzNEc4YUxZRnNvaFNJZ0E3RUpfRUZOMl9CVDNzallXcTA0OGFpdXBwdHFQZzNHZUNDSGlrS05n?oc=5)
 
-2026-05-01 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-05-01 <span class="news-indication-tag">AF</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQODhzd1pKYlVlelczbzY5UVBmZHY3cXAtOWVLdXlsYWxOUUowVVNOMVBaT3g0bHBVZm9fakh0MUNWUllEcHY5RWNtZzItamtGVHlwVWNDZV9UZGVmcHpyeW9XdzAxLVU3dnJDcG9SM1hJZGxsMWk3ZDJGVUZZV1VGb29DM29hSzFBLUIwTXJZRFJ4MHJ4bWFXSw?oc=5)
+來源：[Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDVFWi1lbkVhUDJRR3FqUVBQaFhmVkFxSmR5blJ4c1dIRWdscUw1RlVCc0t3VnpLVGlFaGkxLWpQZ0NhdncxVDlZUG83Zm9KdGNKT0cxcTh2UklTMjhOTHZvVDc3dWtCOEhmbXNDOXc2N1F5Y0VmTTFfMWgzNEc4YUxZRnNvaFNJZ0E3RUpfRUZOMl9CVDNzallXcTA0OGFpdXBwdHFQZzNHZUNDSGlrS05n?oc=5)
 
 ---
 
@@ -134,11 +142,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Sertraline urgent MHRA warning over 'potentially' fatal mix-up as symptoms released - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
+### [Experts say this is the worst time to snack – no matter what you’re eating - Yahoo News UK](https://news.google.com/rss/articles/CBMid0FVX3lxTE94bU1NQ1hYSWJUeWpKNm82UzhtMGtMRFdmakU2blhoQXpFR2F3NWtqeldvcGR6TVdSQUticFV4b3hINGJaVXFMbHQ2NTQ2T1dBREg0T01PYnFWdVh4WHdXdGpOWFozWmlQWWNzczUxNU9YX1p6aTJF?oc=5)
 
-2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-01 <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
+來源：[Yahoo News UK](https://news.google.com/rss/articles/CBMid0FVX3lxTE94bU1NQ1hYSWJUeWpKNm82UzhtMGtMRFdmakU2blhoQXpFR2F3NWtqeldvcGR6TVdSQUticFV4b3hINGJaVXFMbHQ2NTQ2T1dBREg0T01PYnFWdVh4WHdXdGpOWFozWmlQWWNzczUxNU9YX1p6aTJF?oc=5)
 
 ---
 
@@ -155,14 +163,6 @@ permalink: /news/sildenafil/
 2026-05-01 <span class="news-indication-tag">AF</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3dIR2xIM3JNOVJTdWhWX01nQ0JKbkxQUFlGQjg4TkxPdW1jRVJuSVdENkRqVEkzcWMzTHA1OEhBMjFlY29GRGVpZ29iZ00zYzEtSEwxRi1DOWtCMENHaDdEN0IzM0dzdlRzU0JWV0o2aFBLT2UzQy1DTXlHZnlQWHRidUl4ODZNMmk5MzFTMVVDTVZyMUJNUk1mQjdrUGIzZ0hPX0o3ZUY3NTVRdXAwZlVvWHdyM184NVI5d24yUzZsOXJRTktj?oc=5)
-
----
-
-### [Des lauriers pour une méthode de restauration des fonctions cognitives développée en Suisse romande](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">hépatite</span> <span class="news-indication-tag">AF</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 
 ---
 

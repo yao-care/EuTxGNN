@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+---
+
+### [Ernährungswende 2026: Wie der Körper das Abnehmen sabotiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
+
+---
+
+### [NEM bei Diabetes: Was bringt was? - PTA IN LOVE](https://news.google.com/rss/articles/CBMia0FVX3lxTE85QXBVUFNnZUtVWkJseDFMRldDNkU2ZExKeWIwOGZ1ODAxdDFsaF9OUUFwVlRveE82blU3OTZ5MTRkU1RqT2NpQmZwR0V0Y2U1akNRM3dfQV84emlkbHJIbDlNWGZaeXBNNGln?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMia0FVX3lxTE85QXBVUFNnZUtVWkJseDFMRldDNkU2ZExKeWIwOGZ1ODAxdDFsaF9OUUFwVlRveE82blU3OTZ5MTRkU1RqT2NpQmZwR0V0Y2U1akNRM3dfQV84emlkbHJIbDlNWGZaeXBNNGln?oc=5)
+
+---
 
 ### [Laia Ferré, doctora especializada en alergología: “Aproximadamente un 10% de la población tiene algún tipo de asma” - El Periódico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFRUanVZdmk0VURrTlhPTG1PTFU0cXMySUwzM2tkMzYxbkRxSWphdUxSb1dSMk9qLTVuelM5cXZvZTZ1WnNKc1REVEdOY3o2LVBtLVl5ZDBNS2p1Z3RwT0dZSXRjaTl2bWItQUkwYkZGR1JzNV9lU25EbjhYenlTX1dQd2lzZUJTMmFkNUpmQkxnR2d1b1BNYWVSZU9TYUZ4WTl6aGFXaVl6UkHSAasBQVVfeXFMUEJ2OXE5UXhOVkZLRlFRc3BQX1Z6em5aMWs5N1Q5TTQwbG1HSTdHRWpyTVZwQk9BTVctV2hhWXNuSGd3Rm9lQ2tOZm5sUmpGdExMbTdOcmpKTENJZDM5ZG5IQUtwQnpTbk5EeXdnNjZmLWhCalRpMGl1b0EzZ0pBcjlBMkRvLXhBUjdieDVPYjQ2dmNQOG9EOHZsTzcxWGFvRDJteGhkZDhEWnNj?oc=5)
 
@@ -99,14 +123,6 @@ permalink: /news/somapacitan/
 2026-05-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT21oNnM4ODEtVkxTNmgtaFNKaE1jUGx6NlVIbnpRYlFEanJzd3VJV1oxcDdsTjNXTnZtUFlSLVJVS2FQYndvb0k5RDl2QkhxWklZZGF1ZDNtbWtfZk1jdENSS2dxaGk1WHZ1X0dHRUJKR1NhYVptSERSS1Z1VU1BQnd2S2IzNEwxM29tWW1aT1RKY0FMclVnbGFUVXNrSFpGQWI0ZTB2dXAtVFBL?oc=5)
-
----
-
-### [Genetic association and machine learning improve the prediction of type 1 diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMi1rWG1KNWhFeTVzM1NLS1BZZ2J3TFpBaHBiTHRFTllxTVF0cmE5VXc3SWhQUlNBc2p6d3ltRGpJU3MwM18yNXF5ZEtBb2ZjX3RvMk1idmFMLWZZRzNj?oc=5)
-
-2026-04-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMi1rWG1KNWhFeTVzM1NLS1BZZ2J3TFpBaHBiTHRFTllxTVF0cmE5VXc3SWhQUlNBc2p6d3ltRGpJU3MwM18yNXF5ZEtBb2ZjX3RvMk1idmFMLWZZRzNj?oc=5)
 
 ---
 

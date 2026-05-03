@@ -14,7 +14,7 @@ permalink: /news/nitric-oxide/
 ---
 
 <p class="key-answer" data-question="Nitric Oxide 有什麼相關新聞？">
-<strong>Nitric Oxide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nitric Oxide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/nitric-oxide/
 <p><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（15 則）
 
 ### [Salz im Kaffee: Experten warnen vor neuem Kaffeetrend - das sind die Risiken](https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU4xdVk2ZVlmeDg4aUJIQlRWRXI5QjBQekZ5akx4TmctelhNMmFZRlB4bUxYYW8tSTh6VEZBcVF4NFZfdk0zYkkzRVZSWlpfTnJPLU8wVl93RzRySkpfWDFpMVNVNm5pS0lsTDVTdkR0TGhtRWJRemh4SnlxU1Z3TFRMYWpkaExaeGN4R1RyZElXT3FMakVVSnJsM1lTaF9jV0k2TTBGZTRqUzZZbFJLTGJxdDIyOTU0eHRFLU9uY3cxS0RG?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/nitric-oxide/
 2026-05-02 <span class="news-indication-tag">AF</span>
 
 來源：[Diario AS](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmlRbjQ3N2k2QVI0WmRrUldDX1hlVGJhNjBZX1dZS2tRR214RlA0MHFRbGdyazJIYjVnQ3pSZmhFM19TV1dwb1hMaW1TMmlHa3N0TUloZ1FTbzhPSm1TMkVCaWJvUl9EQlZ5ZXI2bHZ1eU00dmRCUnVMTjFuZ1BZcUVKbkIyeXROTkNUQUp4eFFFcGRXSHYxd1E3LUVSX2d2N1ZmN1dlZDl5Ynh5VHFOQmpwdWw5MmVsN00yUURBaWhQdWR2ZWNfWEJrWjRfVElNaWhj0gHnAUFVX3lxTFBER21vN1JDSFlia1B3c3pQUG5WZ3B2c2dQRWxKMmJGYTRIRlBGNDExbGEwckk1YmhENmtxLUxfeTU0NG1vajBnN01JcFNMLVh0M3dmNnhkbkdtclc5SGRvQ2xWOG1qeVdScDkyMEF4NTNlX1JTVTY4Nld4UnVTVUE1anlGTHd0MVJ2YlNrMW9TUmYwM3NRb2N2azRHLVY3VXhLNzVaeDI1OEJ6QUc4ZFp1Z3Zhdmh2SUJWSXFRd0RYT0p4X09oQ0NPTTVxUTJxYk1pdTZVRk5vUzlpMldfbjlOXzl1RWEwZw?oc=5)
+
+---
+
+### [Venus und die Plejaden - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo4OXZsVmlyX1B3blVjNG90bTVuR0doNXZOajFyeWZTc0RJRzVzSEgtbG5mQ3dvcm5mZEZfZkRPenRKM2ZlaGtFMHhCc2VDX21ZSGFSQXRjLWRPU2NOZ1NiTm1NZGpYM25Fd2o0blFKQ0dXa1l2MVFIelZWOUhJaHNPYjNSMWs?oc=5)
+
+2026-05-02 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo4OXZsVmlyX1B3blVjNG90bTVuR0doNXZOajFyeWZTc0RJRzVzSEgtbG5mQ3dvcm5mZEZfZkRPenRKM2ZlaGtFMHhCc2VDX21ZSGFSQXRjLWRPU2NOZ1NiTm1NZGpYM25Fd2o0blFKQ0dXa1l2MVFIelZWOUhJaHNPYjNSMWs?oc=5)
 
 ---
 
@@ -118,11 +126,11 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Immune Cells 'Remember' Obesity Long After Weight Loss, Study Finds](https://news.google.com/rss/articles/CBMimAFBVV95cUxQODhzd1pKYlVlelczbzY5UVBmZHY3cXAtOWVLdXlsYWxOUUowVVNOMVBaT3g0bHBVZm9fakh0MUNWUllEcHY5RWNtZzItamtGVHlwVWNDZV9UZGVmcHpyeW9XdzAxLVU3dnJDcG9SM1hJZGxsMWk3ZDJGVUZZV1VGb29DM29hSzFBLUIwTXJZRFJ4MHJ4bWFXSw?oc=5)
+### [Man dies covered in necrotic lesions after amoebas eat him alive - Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDVFWi1lbkVhUDJRR3FqUVBQaFhmVkFxSmR5blJ4c1dIRWdscUw1RlVCc0t3VnpLVGlFaGkxLWpQZ0NhdncxVDlZUG83Zm9KdGNKT0cxcTh2UklTMjhOTHZvVDc3dWtCOEhmbXNDOXc2N1F5Y0VmTTFfMWgzNEc4YUxZRnNvaFNJZ0E3RUpfRUZOMl9CVDNzallXcTA0OGFpdXBwdHFQZzNHZUNDSGlrS05n?oc=5)
 
-2026-05-01 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-05-01 <span class="news-indication-tag">AF</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimAFBVV95cUxQODhzd1pKYlVlelczbzY5UVBmZHY3cXAtOWVLdXlsYWxOUUowVVNOMVBaT3g0bHBVZm9fakh0MUNWUllEcHY5RWNtZzItamtGVHlwVWNDZV9UZGVmcHpyeW9XdzAxLVU3dnJDcG9SM1hJZGxsMWk3ZDJGVUZZV1VGb29DM29hSzFBLUIwTXJZRFJ4MHJ4bWFXSw?oc=5)
+來源：[Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDVFWi1lbkVhUDJRR3FqUVBQaFhmVkFxSmR5blJ4c1dIRWdscUw1RlVCc0t3VnpLVGlFaGkxLWpQZ0NhdncxVDlZUG83Zm9KdGNKT0cxcTh2UklTMjhOTHZvVDc3dWtCOEhmbXNDOXc2N1F5Y0VmTTFfMWgzNEc4YUxZRnNvaFNJZ0E3RUpfRUZOMl9CVDNzallXcTA0OGFpdXBwdHFQZzNHZUNDSGlrS05n?oc=5)
 
 ---
 
@@ -142,19 +150,11 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Sertraline urgent MHRA warning over 'potentially' fatal mix-up as symptoms released - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
+### [Experts say this is the worst time to snack – no matter what you’re eating - Yahoo News UK](https://news.google.com/rss/articles/CBMid0FVX3lxTE94bU1NQ1hYSWJUeWpKNm82UzhtMGtMRFdmakU2blhoQXpFR2F3NWtqeldvcGR6TVdSQUticFV4b3hINGJaVXFMbHQ2NTQ2T1dBREg0T01PYnFWdVh4WHdXdGpOWFozWmlQWWNzczUxNU9YX1p6aTJF?oc=5)
 
-2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-01 <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
-
----
-
-### [Señales metabólicas años antes del embarazo predicen una posible hipertensión gestacional - Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
-
-2026-05-01 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXd2M1h5SnNpZjVUN3lPblVMY3BETGJKNHBCQlU0M2xZNEtTWkF5MDBDWWNPZXlLZUo5YnVDVlY5dFpvZ0MwQXFsR1prUzkxdjZGRzBKTDdNYzQ4NGxQWWJVazZUV1dFd2pBSmdqVjQ2OVA1ck9TMmdwcDU1ZlZBR3hKZENrMkZaN0hzTEF0TlE3Q2tiTnFwbjZHVHhKaFdPekR3bl9qRjQ0V1BONDJxOHRKaVUtNEtPMGljSDRmejRRYWxXRWg5alU0MFB5SnFTdllaX1BPajJqbm9BQVp3VXJB?oc=5)
+來源：[Yahoo News UK](https://news.google.com/rss/articles/CBMid0FVX3lxTE94bU1NQ1hYSWJUeWpKNm82UzhtMGtMRFdmakU2blhoQXpFR2F3NWtqeldvcGR6TVdSQUticFV4b3hINGJaVXFMbHQ2NTQ2T1dBREg0T01PYnFWdVh4WHdXdGpOWFozWmlQWWNzczUxNU9YX1p6aTJF?oc=5)
 
 ---
 
@@ -171,14 +171,6 @@ permalink: /news/nitric-oxide/
 2026-05-01 <span class="news-indication-tag">AF</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3dIR2xIM3JNOVJTdWhWX01nQ0JKbkxQUFlGQjg4TkxPdW1jRVJuSVdENkRqVEkzcWMzTHA1OEhBMjFlY29GRGVpZ29iZ00zYzEtSEwxRi1DOWtCMENHaDdEN0IzM0dzdlRzU0JWV0o2aFBLT2UzQy1DTXlHZnlQWHRidUl4ODZNMmk5MzFTMVVDTVZyMUJNUk1mQjdrUGIzZ0hPX0o3ZUY3NTVRdXAwZlVvWHdyM184NVI5d24yUzZsOXJRTktj?oc=5)
-
----
-
-### [Des lauriers pour une méthode de restauration des fonctions cognitives développée en Suisse romande](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">hépatite</span> <span class="news-indication-tag">AF</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 
 ---
 

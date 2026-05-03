@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "arthritis 相關新聞"
+title: "artritis（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
+description: "artritis（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# arthritis 相關新聞
+# artritis（arthritis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="artritis（arthritis） 有什麼相關新聞？">
+<strong>artritis（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「artritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -103,19 +103,19 @@ permalink: /news/arthritis/
 
 ## 相關新聞（2 則）
 
+### [La enfermedad inflamatoria crónica que puede confundirse con dolor lumbar: cuáles son los síntomas](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUpCbjhxQXNjV1Uxem1yUFhSN3dUaXBvdmVKLXRMeDNSeFd5ZDZFdUd5Y2w4OGQ0OXQ1N0NITTVHSEJkSTJ1MHdCUjFVaEx0RjNDWWNZMDFGX1BDMTJQUEdJX3M2UXNHazFWeklaOXk3aHhDWE9TeGJwMjNLb0ZycmRPNUtDSi1VazhaUF9IZnplcHdEOTZ1NHJ1M0lLUnZDMjZSaTQ1M1Q4dG16clE2VFZLOXdCVWx4VW9Wdmt6YnNiNThYR1BWaDNTaW1yQTFxOGhYTUh2VXhEb0x4dE01TtIB-wFBVV95cUxPQzNVUllvaWxoYi1fZ2Jod2FmMHV5V1pGRTNPdG1xLWVtS3FVRncyclh6QjYxMGxzN2tldkVnQUo0eFpFQ2J6TWQwN01iNFp3ZWotWVozZVhoejNrMUZ4SnVPUXJSemdfeEJ3RTFhTUhhcGpzY25NaFhFNzY2b2JMZS12QS1OZXhYR1c1d1ZqZHZ2Tmgtc3FNODJRT1VwQ2hMME9EV012a1ZFVjRfeVAzQzQwSjBNTG1wNW1odlc1Nno3bHRMU1o5eUgyOVJCalBidkZmTHI5VnBQN1JCRnd0ekNnUWQ1S1dyNVBFU0wyNGRiNmxvN2EyejFSUQ?oc=5)
+
+2026-05-02
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUpCbjhxQXNjV1Uxem1yUFhSN3dUaXBvdmVKLXRMeDNSeFd5ZDZFdUd5Y2w4OGQ0OXQ1N0NITTVHSEJkSTJ1MHdCUjFVaEx0RjNDWWNZMDFGX1BDMTJQUEdJX3M2UXNHazFWeklaOXk3aHhDWE9TeGJwMjNLb0ZycmRPNUtDSi1VazhaUF9IZnplcHdEOTZ1NHJ1M0lLUnZDMjZSaTQ1M1Q4dG16clE2VFZLOXdCVWx4VW9Wdmt6YnNiNThYR1BWaDNTaW1yQTFxOGhYTUh2VXhEb0x4dE01TtIB-wFBVV95cUxPQzNVUllvaWxoYi1fZ2Jod2FmMHV5V1pGRTNPdG1xLWVtS3FVRncyclh6QjYxMGxzN2tldkVnQUo0eFpFQ2J6TWQwN01iNFp3ZWotWVozZVhoejNrMUZ4SnVPUXJSemdfeEJ3RTFhTUhhcGpzY25NaFhFNzY2b2JMZS12QS1OZXhYR1c1d1ZqZHZ2Tmgtc3FNODJRT1VwQ2hMME9EV012a1ZFVjRfeVAzQzQwSjBNTG1wNW1odlc1Nno3bHRMU1o5eUgyOVJCalBidkZmTHI5VnBQN1JCRnd0ekNnUWQ1S1dyNVBFU0wyNGRiNmxvN2EyejFSUQ?oc=5)
+
+---
+
 ### [The Most Effective Knee Arthritis Treatments Aren’t What You Expect](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
 
 2026-05-02
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
-
----
-
-### [Arthritis sufferers warned about 2 fruits as common arthritis pain triggers - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
-
-2026-05-01
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
 
 ---
 

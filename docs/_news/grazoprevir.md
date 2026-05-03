@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（8 則）
+
+### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
+
+---
 
 ### [Descienden casos de cólera; se mantiene transmisión de mpox en el mundo - La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
 
 2026-05-02 <span class="news-indication-tag">MS</span>
 
 來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMinwFBVV95cUxONkhTb2lYbHl4WE5kM0tXZHRwT3hXMXZCMlpiOW56MXFFaG5CdkhSNmgtMW5PWEVwLVROX2tscjQybEYwNUpDUDBYX3lnMWFZdHVkTi1vZGtkYWZJQy10VUNPYVdtSWVQcC1HVEI3ellIWHh3TWljdlAzcWh3bDRSM0c3TVRKa1pmOFA2Y3U3MjFmaVJCRHhiR2pTS2VpOWc?oc=5)
-
----
-
-### [Six walking myths busted – and how many steps a day you really need - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzJ6d0hydHh4eHUxUVQ4YXlrQXFHbERiV0hNRXVpZ0dsRDhraXJRbndNdWZzOXZVWmgxM09lVng4VEpqYnExRGtQYXRoWUU3RzVRaE51TXNRV3RSakl0OGU4NzVnWEJOUDlBaUc0bmVUNnIweFRxNWxHNFhxcmhwb1k4VkJRd3ZCUXpmbjV1T1BrT29fdGgtUjBLakVpNnF6Q2dueWFKWQ?oc=5)
-
-2026-05-02 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzJ6d0hydHh4eHUxUVQ4YXlrQXFHbERiV0hNRXVpZ0dsRDhraXJRbndNdWZzOXZVWmgxM09lVng4VEpqYnExRGtQYXRoWUU3RzVRaE51TXNRV3RSakl0OGU4NzVnWEJOUDlBaUc0bmVUNnIweFRxNWxHNFhxcmhwb1k4VkJRd3ZCUXpmbjV1T1BrT29fdGgtUjBLakVpNnF6Q2dueWFKWQ?oc=5)
 
 ---
 
@@ -102,14 +102,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Klinik-Panne: 40 Patienten mit HIV infiziert?](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkpfSVA2TzMzV1l2dFcwUURVSTR2X0ozcFFfSDBIanBjTERSUlJHcHRWQXBqRHF4U0NTZEdwNVZhZmdVVlR4Mkx6YmFRM0IxNWRvTk5tcTZHaGZGcjFnUF9nc2ZVQ28tdGtIUmIwQXRJeVhmSGR6MkF0eXJJcXVVQ3VzSTLSAYoBQVVfeXFMT1NLbmQwdDJOUERObE9ZVzJ3MlM3aXliRGdQX1RGYXl4MHQ0OXVSVzI0Qlppd2pRR29pX0FKOTJQTUpxU2UxZ0JfN0M5QjFZVWFxZGREZnRfZmkwaFlfNEYydVpBUTExYVlDOUNLclJOX1JhRkNTcFNfOFlRb0wyX1JwYXBSQURlamZR?oc=5)
-
-2026-05-01 <span class="news-indication-tag">hepatitis</span>
-
-來源：[OE24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkpfSVA2TzMzV1l2dFcwUURVSTR2X0ozcFFfSDBIanBjTERSUlJHcHRWQXBqRHF4U0NTZEdwNVZhZmdVVlR4Mkx6YmFRM0IxNWRvTk5tcTZHaGZGcjFnUF9nc2ZVQ28tdGtIUmIwQXRJeVhmSGR6MkF0eXJJcXVVQ3VzSTLSAYoBQVVfeXFMT1NLbmQwdDJOUERObE9ZVzJ3MlM3aXliRGdQX1RGYXl4MHQ0OXVSVzI0Qlppd2pRR29pX0FKOTJQTUpxU2UxZ0JfN0M5QjFZVWFxZGREZnRfZmkwaFlfNEYydVpBUTExYVlDOUNLclJOX1JhRkNTcFNfOFlRb0wyX1JwYXBSQURlamZR?oc=5)
-
----
-
 ### [A Simple Eye Test Done at the Bedside May Tell Doctors Exactly When a Patient Has Hours Left to Live - Indian Defence Review](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk1adklST0R4eTNkY1piNGVsNnNud215ejRoWS00NTV5S1cybUNaaFJqdWxlYVJkWlJCd21xT1BUMDhHNjdpakZEMUR0UjZ5NExacTZSQV9PRGNXdGVNT1BwUzlTSVlHSzE4d0ZKamZkS3RFUG9ZTGgtWnByM3Y4R2dubTNaeDBnRWhKWFFPYjcyWURud1NDeEt3?oc=5)
 
 2026-05-01 <span class="news-indication-tag">MS</span>
@@ -123,22 +115,6 @@ permalink: /news/grazoprevir/
 2026-05-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE9zc3JhQ09aQmFuNGJSemk1QXBwaXJmZXROWkdTb0lvaVdSMUVHN0Q4WXZ1cU1MQWxIZ2s3Tm5xYjhDVnJrUnQ5ZHdRMWhUaTFMejRQX3ctMUtBZEhNSVd6MGZOUXpwQlBWOUFKTV9LOFotd9IBd0FVX3lxTE90UWhBN3RqcHd6bGEwb0NVeXlQXzhKSEhMMlc3aUYwangtSEw4NDVGUi1OaFFGellaYlhzdUxYLXdGUG1BS1V5OXQ3Ykp6WHc5UGJFOEtSd2V4dTVjUVZCLW00R3puakNaX2JBVlpTc2tZamphVUVj?oc=5)
-
----
-
-### [Sertraline urgent MHRA warning over 'potentially' fatal mix-up as symptoms released - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
-
-2026-05-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZyNXgwdmFtZW9panIyTDR3eVBxQjZBbGVBaGZMOEtIR1ZxV0VYZjZjYlQ0Y085WU9FNzBSbWJtQ3ZwSkRZcklMcTdfTTlNYV9OUGU3UzVoUWpWZnVMVV9HTFJSNU1ybEdfYXhLZXFOcmFRU1NraG9OcEYxWnN5emxaakJJYlUy?oc=5)
-
----
-
-### [Des lauriers pour une méthode de restauration des fonctions cognitives développée en Suisse romande](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
-
-2026-04-30 <span class="news-indication-tag">hépatite</span> <span class="news-indication-tag">AF</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 
 ---
 

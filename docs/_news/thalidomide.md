@@ -14,7 +14,7 @@ permalink: /news/thalidomide/
 ---
 
 <p class="key-answer" data-question="Thalidomide 有什麼相關新聞？">
-<strong>Thalidomide</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thalidomide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/thalidomide/
 <p><a href="{{ '/drugs/thalidomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（19 則）
 
 ### [L'analyse par IA des scanners pancréatiques révèle les prémices du cancer 16 mois avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/thalidomide/
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
 來源：[Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
+
+---
+
+### [La enfermedad inflamatoria crónica que puede confundirse con dolor lumbar: cuáles son los síntomas](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUpCbjhxQXNjV1Uxem1yUFhSN3dUaXBvdmVKLXRMeDNSeFd5ZDZFdUd5Y2w4OGQ0OXQ1N0NITTVHSEJkSTJ1MHdCUjFVaEx0RjNDWWNZMDFGX1BDMTJQUEdJX3M2UXNHazFWeklaOXk3aHhDWE9TeGJwMjNLb0ZycmRPNUtDSi1VazhaUF9IZnplcHdEOTZ1NHJ1M0lLUnZDMjZSaTQ1M1Q4dG16clE2VFZLOXdCVWx4VW9Wdmt6YnNiNThYR1BWaDNTaW1yQTFxOGhYTUh2VXhEb0x4dE01TtIB-wFBVV95cUxPQzNVUllvaWxoYi1fZ2Jod2FmMHV5V1pGRTNPdG1xLWVtS3FVRncyclh6QjYxMGxzN2tldkVnQUo0eFpFQ2J6TWQwN01iNFp3ZWotWVozZVhoejNrMUZ4SnVPUXJSemdfeEJ3RTFhTUhhcGpzY25NaFhFNzY2b2JMZS12QS1OZXhYR1c1d1ZqZHZ2Tmgtc3FNODJRT1VwQ2hMME9EV012a1ZFVjRfeVAzQzQwSjBNTG1wNW1odlc1Nno3bHRMU1o5eUgyOVJCalBidkZmTHI5VnBQN1JCRnd0ekNnUWQ1S1dyNVBFU0wyNGRiNmxvN2EyejFSUQ?oc=5)
+
+2026-05-02 <span class="news-indication-tag">artritis</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUpCbjhxQXNjV1Uxem1yUFhSN3dUaXBvdmVKLXRMeDNSeFd5ZDZFdUd5Y2w4OGQ0OXQ1N0NITTVHSEJkSTJ1MHdCUjFVaEx0RjNDWWNZMDFGX1BDMTJQUEdJX3M2UXNHazFWeklaOXk3aHhDWE9TeGJwMjNLb0ZycmRPNUtDSi1VazhaUF9IZnplcHdEOTZ1NHJ1M0lLUnZDMjZSaTQ1M1Q4dG16clE2VFZLOXdCVWx4VW9Wdmt6YnNiNThYR1BWaDNTaW1yQTFxOGhYTUh2VXhEb0x4dE01TtIB-wFBVV95cUxPQzNVUllvaWxoYi1fZ2Jod2FmMHV5V1pGRTNPdG1xLWVtS3FVRncyclh6QjYxMGxzN2tldkVnQUo0eFpFQ2J6TWQwN01iNFp3ZWotWVozZVhoejNrMUZ4SnVPUXJSemdfeEJ3RTFhTUhhcGpzY25NaFhFNzY2b2JMZS12QS1OZXhYR1c1d1ZqZHZ2Tmgtc3FNODJRT1VwQ2hMME9EV012a1ZFVjRfeVAzQzQwSjBNTG1wNW1odlc1Nno3bHRMU1o5eUgyOVJCalBidkZmTHI5VnBQN1JCRnd0ekNnUWQ1S1dyNVBFU0wyNGRiNmxvN2EyejFSUQ?oc=5)
 
 ---
 
@@ -126,7 +134,7 @@ permalink: /news/thalidomide/
 
 ---
 
-### [Australia wants to be first nation in the world to eliminate a cancer - can it?](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
+### [The world wants to eliminate cervical cancer - how Australian scientists led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
 2026-05-01 <span class="news-indication-tag">cancer</span>
 
@@ -150,43 +158,11 @@ permalink: /news/thalidomide/
 
 ---
 
-### [Ritirato lo studio su tumore al pancreas che prometteva la svolta](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RobWR6VWducG1aRXFGWjhlbHpPVGlDS1EwU1A5MDUtczZxUkw2TjQ5cEhHZl9nLWIxTmVBVjZhd2dibUZQYnJScFRtczRNNFlMaF9TbE9oSmNTR250bkFQM3cwbG1vVERkc1FQenAxQmJ3NGk0QlU2THQyekdFdHVybnBzRk9aRHdKTnlYMDU?oc=5)
+### [Tumore del pancreas, ritirato lo studio che aveva illuso il mondo. “Autori in conflitto d’interesse” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
 
 2026-05-01 <span class="news-indication-tag">tumor</span>
 
-來源：[AGI](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RobWR6VWducG1aRXFGWjhlbHpPVGlDS1EwU1A5MDUtczZxUkw2TjQ5cEhHZl9nLWIxTmVBVjZhd2dibUZQYnJScFRtczRNNFlMaF9TbE9oSmNTR250bkFQM3cwbG1vVERkc1FQenAxQmJ3NGk0QlU2THQyekdFdHVybnBzRk9aRHdKTnlYMDU?oc=5)
-
----
-
-### [NHS cancer awareness bus to visit Wolverhampton and Black Country](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZW1tcHhBNzM5RUQ1WjFVUF9jU2lMeUYxZXAwdUxlUThQMW1scnZEcU1qSkRldXRILXA0ZWhycUxvRGtndS1tSzhRdDNHVGEtTTNGaGhPSndNUGZL?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkZW1tcHhBNzM5RUQ1WjFVUF9jU2lMeUYxZXAwdUxlUThQMW1scnZEcU1qSkRldXRILXA0ZWhycUxvRGtndS1tSzhRdDNHVGEtTTNGaGhPSndNUGZL?oc=5)
-
----
-
-### [NHS issues urgent ‘check your skin’ warning for illness that kills thousands - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE14aWpXb3JMakc3bHRJRmtTMUNwWkVMWS1CRGhXWDAtaFRtNlR1alFyNGpuSWlSUGdwN01haW1qbGkzelppMEFIelNkZ2k4WHFvZTlUV3Y5dGM4UUtXcUR0ajNxOVotQ2tzSFk0QkFtOHAwWnYzdVpJRzRoSGhpeVHSAYQBQVVfeXFMUERZQ3RxbEFMcEFLcUpCYWJvcU1UcVNoakRRelhhVEVzN3hYb0pUUXdPN0s4UGs0MmcwYVlCR1k5NnhJTHBBakRITjlHM2ZQV3huTlpla3AtZWMxZlFPSWR5bDBiejJnS1ZjZmZTNGpCUEpYbHYwY3h4ZmY5MmY4ZUsxcVZZ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE14aWpXb3JMakc3bHRJRmtTMUNwWkVMWS1CRGhXWDAtaFRtNlR1alFyNGpuSWlSUGdwN01haW1qbGkzelppMEFIelNkZ2k4WHFvZTlUV3Y5dGM4UUtXcUR0ajNxOVotQ2tzSFk0QkFtOHAwWnYzdVpJRzRoSGhpeVHSAYQBQVVfeXFMUERZQ3RxbEFMcEFLcUpCYWJvcU1UcVNoakRRelhhVEVzN3hYb0pUUXdPN0s4UGs0MmcwYVlCR1k5NnhJTHBBakRITjlHM2ZQV3huTlpla3AtZWMxZlFPSWR5bDBiejJnS1ZjZmZTNGpCUEpYbHYwY3h4ZmY5MmY4ZUsxcVZZ?oc=5)
-
----
-
-### [« Un cancer tellement insidieux... » : face aux papillomavirus, un témoignage fort pour la vaccination des ados - Le Parisien](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcUdaWk0tWF9jMWFrWDhWdEZmblpWcW00d2RJaFJRMlFrUm8wOUJoOVdBY0cxa0o5aFN2WW9RdDdvTXQ2RGlrTDczQUdYcmw4SnFhWDczUU11dTNPVjJMY0M3cGFpM2lGdjFoTkdFdVhfOWhtVHJZQU5QRW9scTJVTUJuOHpocUY2emtydGFzTmpYTjBEaVdXZ1A5UF9CTW9jWnhIQ1E4NEN5bDF1b3M3NWxwdl9GZUdWR3c3RWpzbElSeUxFUVR2TXJxWElwZkpTaUVfYy1iV1ZRaGpjZGVqNnpNRjBiWkJsWDc2MlItZC1VZU43Wmkwek1ZdFRlWE1OLVRvbzd5SUc4SUt1aHp3TzU0ZlF3NVJWWGVKc0Fzd2lSYjJUOVBYLQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcUdaWk0tWF9jMWFrWDhWdEZmblpWcW00d2RJaFJRMlFrUm8wOUJoOVdBY0cxa0o5aFN2WW9RdDdvTXQ2RGlrTDczQUdYcmw4SnFhWDczUU11dTNPVjJMY0M3cGFpM2lGdjFoTkdFdVhfOWhtVHJZQU5QRW9scTJVTUJuOHpocUY2emtydGFzTmpYTjBEaVdXZ1A5UF9CTW9jWnhIQ1E4NEN5bDF1b3M3NWxwdl9GZUdWR3c3RWpzbElSeUxFUVR2TXJxWElwZkpTaUVfYy1iV1ZRaGpjZGVqNnpNRjBiWkJsWDc2MlItZC1VZU43Wmkwek1ZdFRlWE1OLVRvbzd5SUc4SUt1aHp3TzU0ZlF3NVJWWGVKc0Fzd2lSYjJUOVBYLQ?oc=5)
-
----
-
-### [Arthritis sufferers warned about 2 fruits as common arthritis pain triggers - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
-
-2026-05-01 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBaaGp3VU5udUtZYWRqTHNQbFFxcUNVMzdDNHdFNm5UNk1OdVM4LWF4MjMyUlVvWS1SWWdBMllFV0lWWnphcC1FUjFkRmJRT2FJZHE0RkQtZFZfMmZNeGJBUXJGVHFZQ0pSczJSMjAwNzV4QTR6VDMxOXVkNS1kSmxIeF9pdHZt0gGOAUFVX3lxTE9penI4akY4UENJQkxsSENUaktrQ2k1clh2alVpUUtqVnpLR3F2R2haZkxBWGdGS2gxS0ZBblZRRWZ0Rkd0YlU1Ymt0LWxwWll1QkNvallqSHNTeXd6Nkc2VnFDcWdMR200SlBGZ1k2a2FCVHlxdTFNZXp0dWp6VXhLUjZQVUpNZnRNck1wX1E?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHRpX2tFRm1jRnBGUDVXYzFHaXlJbVN5a3dvTU5oVG4yVU1ZVHpFX0FQNjVrTWFQT3Y2X0N6bFBjNWRmSHdMN0p0emFOWkZLOWlVNGRLWlNFTnRQR1YxZlpFcHpGWWQtc09aTFFGSkNCSHYxSGU5ZEJ4djNJVlJjUENXMExwemJqSjZBYTJpWjJTQWp3aV9pX2syREpuTVhDWnVsTnI3d19xUFRabXlYUmJn0gG3AUFVX3lxTE1zc29Pd1pYbjJ6SkhGTjB4dkQ3NkxxVEc2LWQxWE9XdnpTS2JzNDI2WmZ6emoxYmp4TzdmcXp2VjRZWUZabjhYZ2JzeVc4eXlsaWROSW5Kb3hLc3hIMkpKaFpvWW12dGNJM1hzdEUxbjZHOG5lME54WFdScUVrYklzVDAwVjlFbktCQzhmWjdjQVAzZ1ZBczVhQzM2TUFXSmlnYmFDcUoycWNlaGdBZEdOX3g4UVNaUQ?oc=5)
 
 ---
 

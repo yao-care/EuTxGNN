@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hépatite（hepatitis） 相關新聞"
+title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hépatite（hepatitis） 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# hépatite（hepatitis） 相關新聞
+# hepatitis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hépatite（hepatitis） 有什麼相關新聞？">
-<strong>hépatite（hepatitis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hépatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hepatitis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -53,29 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [El Área Sanitaria de Santiago, con solo un 0,10 % de positivos, roza ya la eliminación de la hepatitis C - El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
 
 2026-05-02
 
 來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3VIa0FLV2RvYjF1N29ybTM2Q2VYNlVEUjJsS25QbmlpN3pMNjFNTzJfYXNXdUlzTVNmeTJJR3M5RFdTU2JOdHQ2NnhZTVl1UnZXZnFZV2dlMVBnRS1Gb09qV0xJMHFOMmNHNXllai1KTGdUTWRqMThJZW1HbzB5bmhZX3NZaTZONUdDVUtlSDFLTnZxckw2c0xB?oc=5)
-
----
-
-### [Klinik-Panne: 40 Patienten mit HIV infiziert?](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkpfSVA2TzMzV1l2dFcwUURVSTR2X0ozcFFfSDBIanBjTERSUlJHcHRWQXBqRHF4U0NTZEdwNVZhZmdVVlR4Mkx6YmFRM0IxNWRvTk5tcTZHaGZGcjFnUF9nc2ZVQ28tdGtIUmIwQXRJeVhmSGR6MkF0eXJJcXVVQ3VzSTLSAYoBQVVfeXFMT1NLbmQwdDJOUERObE9ZVzJ3MlM3aXliRGdQX1RGYXl4MHQ0OXVSVzI0Qlppd2pRR29pX0FKOTJQTUpxU2UxZ0JfN0M5QjFZVWFxZGREZnRfZmkwaFlfNEYydVpBUTExYVlDOUNLclJOX1JhRkNTcFNfOFlRb0wyX1JwYXBSQURlamZR?oc=5)
-
-2026-05-01
-
-來源：[OE24](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkpfSVA2TzMzV1l2dFcwUURVSTR2X0ozcFFfSDBIanBjTERSUlJHcHRWQXBqRHF4U0NTZEdwNVZhZmdVVlR4Mkx6YmFRM0IxNWRvTk5tcTZHaGZGcjFnUF9nc2ZVQ28tdGtIUmIwQXRJeVhmSGR6MkF0eXJJcXVVQ3VzSTLSAYoBQVVfeXFMT1NLbmQwdDJOUERObE9ZVzJ3MlM3aXliRGdQX1RGYXl4MHQ0OXVSVzI0Qlppd2pRR29pX0FKOTJQTUpxU2UxZ0JfN0M5QjFZVWFxZGREZnRfZmkwaFlfNEYydVpBUTExYVlDOUNLclJOX1JhRkNTcFNfOFlRb0wyX1JwYXBSQURlamZR?oc=5)
-
----
-
-### [Des lauriers pour une méthode de restauration des fonctions cognitives développée en Suisse romande](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
-
-2026-04-30
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWk1HZWxjM3FPeFdOck5NT3poc2ZQU1FCRmhCTnFSY3U1cV9iRkQtb1BySzRzV3ZsYnRjRnRrN21rTHFOam8zSWRhRG5UVEJxdGNCa0dRT2NHY3JlekF3TXNqem1tYm9mV2xONG1LeGdXTV9QSksyMXF5RHBadzMxdHNIa2syVmNVOWtXbXY3aVFPMWpMUG0tdGlDQmVJMmlHVGdqci03SVVOLWRJRUVJdGtnLXFhYnVLeVhjck0tOUlrdVlDNEdJMnZZOHBCRldSSFpRajBNbWdMOGRIR28xcUlHbk03MDlrdERsUw?oc=5)
 
 ---
 
