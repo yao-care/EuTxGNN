@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Semaglutid und Co. nie mehr absetzen? - Gelbe Liste](https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybGRaVlhUSFpXWjlGZmJBOWh3VHBnUm1ya29yUm10ckdOSzFuYjFQdG1NanBPMi0wYWNBOGNNTm9mTF9NTVAxZmdOeWI4NlJodmM1a1lDVDIyMDZMWTF4UWNVS1g1am5xYVo0cTBPTnM?oc=5)
+### [5-fach-Agonist gegen Adipositas und Diabetes - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
 
-2026-05-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-05-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybGRaVlhUSFpXWjlGZmJBOWh3VHBnUm1ya29yUm10ckdOSzFuYjFQdG1NanBPMi0wYWNBOGNNTm9mTF9NTVAxZmdOeWI4NlJodmM1a1lDVDIyMDZMWTF4UWNVS1g1am5xYVo0cTBPTnM?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/orlistat/
 2026-05-02 <span class="news-indication-tag">ictus</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
-
----
-
-### [Ernährungswende 2026: Wie der Körper das Abnehmen sabotiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
-
-2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
 
 ---
 

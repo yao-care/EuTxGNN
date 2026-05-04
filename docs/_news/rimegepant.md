@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Zusammenhang zwischen Heuschnupfen und Migräne](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
+
+2026-05-04 <span class="news-indication-tag">Migräne</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
+
+---
+
+### [Is It Better to Work Out in the Morning or the Evening?](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UT0RDM0pXcHc0N2xURlppZ2duWDE4UVU0TlY4eUlVa2Y3QVhXb095TzJGY1MzVjNYZ1dyLWQ2d2RrUlYyUXdpbkktZTVaNmFpR1dCQzA5dHJTZU5yM2I4eGdQcw?oc=5)
+
+2026-05-03 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[GQ](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UT0RDM0pXcHc0N2xURlppZ2duWDE4UVU0TlY4eUlVa2Y3QVhXb095TzJGY1MzVjNYZ1dyLWQ2d2RrUlYyUXdpbkktZTVaNmFpR1dCQzA5dHJTZU5yM2I4eGdQcw?oc=5)
+
+---
 
 
 <div class="disclaimer">

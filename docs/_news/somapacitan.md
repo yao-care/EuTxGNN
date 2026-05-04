@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,21 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（5 則）
 
-### [Primavera y asma: especialistas de Vithas piden extremar precauciones - Onda Cero](https://news.google.com/rss/articles/CBMihAJBVV95cUxOOG4zVWNvNDVBSGl2Qm0zWThqYi11RlU0clEwQnA0RGZtdzJfd3hvMmtKbmREQkUtaGtacTdFZkd6R2VSNjduZjVOdjlCZHltSlloNlhSRmI0VXRPbmtrQkdyOGpqTkFBVDFhVXpDam1GczV6Y1BMMEszS044UDVPTlMtMzNsNDdMVkRNcHAyeWlwMDJFRXpLaU1kYkl5Xy00MjNHci1rcHVvX3RHSXZuS1FRXzd3elFUZmRwb0dibnB2RzF0U2pUdzhjYTVVWWdPLW1SVV8zeWdEc3ZjdDNOa1ZqOHUtLXdJMmFSRGgtZzlPNEkyZXNHaXFnY1ZlNGpvTDUydNIBhAJBVV95cUxPQ1ItRkpjN2NCZHBQLUhhU1FwV3JxMWJxSFAza0psYXNLY2xlbFZRNHBHNFBZcFB3ZHVTYTY0amk3eUItYlNDNmliNkg4YVdiVE9OUjdGaUNfYzlCcEtVazlsLVVPR0YxSDNlVnF1elVxN201TzhxeUtTWXpOZ2kwbDJxQ1BBMlgwZDZkWmVYbFBmcWlVUVBSdWpKQ084ZFpxYWN2cklaMkoxSVlMaWlmSWVOenFjd2tQa0xhOHV3bTgwUWNDRFRSbVBRcHBBakpFdExFdHczdWlSSkQxdlZPRzVCd1g1RU5UdWJTLTgwT2U1d1VrN3paT2lBMEVvTVd0SGpaVQ?oc=5)
+### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
 
-2026-05-04 <span class="news-indication-tag">asma</span>
+2026-05-04 <span class="news-indication-tag">asthma</span>
 
-來源：[Onda Cero](https://news.google.com/rss/articles/CBMihAJBVV95cUxOOG4zVWNvNDVBSGl2Qm0zWThqYi11RlU0clEwQnA0RGZtdzJfd3hvMmtKbmREQkUtaGtacTdFZkd6R2VSNjduZjVOdjlCZHltSlloNlhSRmI0VXRPbmtrQkdyOGpqTkFBVDFhVXpDam1GczV6Y1BMMEszS044UDVPTlMtMzNsNDdMVkRNcHAyeWlwMDJFRXpLaU1kYkl5Xy00MjNHci1rcHVvX3RHSXZuS1FRXzd3elFUZmRwb0dibnB2RzF0U2pUdzhjYTVVWWdPLW1SVV8zeWdEc3ZjdDNOa1ZqOHUtLXdJMmFSRGgtZzlPNEkyZXNHaXFnY1ZlNGpvTDUydNIBhAJBVV95cUxPQ1ItRkpjN2NCZHBQLUhhU1FwV3JxMWJxSFAza0psYXNLY2xlbFZRNHBHNFBZcFB3ZHVTYTY0amk3eUItYlNDNmliNkg4YVdiVE9OUjdGaUNfYzlCcEtVazlsLVVPR0YxSDNlVnF1elVxN201TzhxeUtTWXpOZ2kwbDJxQ1BBMlgwZDZkWmVYbFBmcWlVUVBSdWpKQ084ZFpxYWN2cklaMkoxSVlMaWlmSWVOenFjd2tQa0xhOHV3bTgwUWNDRFRSbVBRcHBBakpFdExFdHczdWlSSkQxdlZPRzVCd1g1RU5UdWJTLTgwT2U1d1VrN3paT2lBMEVvTVd0SGpaVQ?oc=5)
-
----
-
-### [La menopausia en la mujer con diabetes, una etapa que requiere evaluación específica - Somos Pacientes](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWltSU1oUGhvUG1PLUVBU2ZVMm9oQS1LVTBOTHhZMEF1eHJPanFuUEpsRjRXU1NYcTkxSi12cXlwRzIyUXFzSXVSdHNSLV9sRkNjSDJzZHB1SXRrbGZET1FWLWZ2RWZSSjZ6MVBoSENoel8xTnZiQy1aRVBSZ1RNTmJKWENtaU13Nmc?oc=5)
-
-2026-05-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWltSU1oUGhvUG1PLUVBU2ZVMm9oQS1LVTBOTHhZMEF1eHJPanFuUEpsRjRXU1NYcTkxSi12cXlwRzIyUXFzSXVSdHNSLV9sRkNjSDJzZHB1SXRrbGZET1FWLWZ2RWZSSjZ6MVBoSENoel8xTnZiQy1aRVBSZ1RNTmJKWENtaU13Nmc?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
 
 ---
 
-### [Dídac Mauricio Puente, nuevo presidente de la SED: “El objetivo a largo plazo es que las personas no desarrollen diabetes”](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTJRdHdCbWNNTUZvS0Q4cEtnNWp0Z3R0MXdrX0V3QWsxLTZRajFtUFFMMHBORG5TZzJDUTN4VWhIRlY1WC04eTF2SE1ib2JPVVIwQkR6MF9wU0FlUS1GeFAxS1dWYk9iVXg0dTVWc2F3Y1J2dzRTVHRWQUlwLW5uQUhTNXh0a2tYX21mbm9yWUNhVWRWcERSTy1rcklQUWYyb3ZiZW1tcGZ6VDFuUTNxQWo4Z284M2hWMV9wMEJUeldwR2hJSzVRU0t1ZDdMd2ZUbTc4NkRNSGN2WlJMWTltZFEzdmRjZVRGYi1iTDVJS0FzaEk?oc=5)
+### [5-fach-Agonist gegen Adipositas und Diabetes - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
 
-2026-05-04 <span class="news-indication-tag">diabetes</span>
+2026-05-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTJRdHdCbWNNTUZvS0Q4cEtnNWp0Z3R0MXdrX0V3QWsxLTZRajFtUFFMMHBORG5TZzJDUTN4VWhIRlY1WC04eTF2SE1ib2JPVVIwQkR6MF9wU0FlUS1GeFAxS1dWYk9iVXg0dTVWc2F3Y1J2dzRTVHRWQUlwLW5uQUhTNXh0a2tYX21mbm9yWUNhVWRWcERSTy1rcklQUWYyb3ZiZW1tcGZ6VDFuUTNxQWo4Z284M2hWMV9wMEJUeldwR2hJSzVRU0t1ZDdMd2ZUbTc4NkRNSGN2WlJMWTltZFEzdmRjZVRGYi1iTDVJS0FzaEk?oc=5)
-
----
-
-### [Semaglutid und Co. nie mehr absetzen? - Gelbe Liste](https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybGRaVlhUSFpXWjlGZmJBOWh3VHBnUm1ya29yUm10ckdOSzFuYjFQdG1NanBPMi0wYWNBOGNNTm9mTF9NTVAxZmdOeWI4NlJodmM1a1lDVDIyMDZMWTF4UWNVS1g1am5xYVo0cTBPTnM?oc=5)
-
-2026-05-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybGRaVlhUSFpXWjlGZmJBOWh3VHBnUm1ya29yUm10ckdOSzFuYjFQdG1NanBPMi0wYWNBOGNNTm9mTF9NTVAxZmdOeWI4NlJodmM1a1lDVDIyMDZMWTF4UWNVS1g1am5xYVo0cTBPTnM?oc=5)
-
----
-
-### [Un paté funcional enriquecido en silicio muestra efectos beneficiosos en la prevención de la diabetes tipo 2 - Andalucía Información](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTREQzFtSVE4cVp0d29Lbncwc1h5aHVmb0x5ZXVfN194UVBidlJIT2pPRmstVU9LdzNZY2RudmtyVFBBNmVYS3JXZ2xfcE1pb0IxOVpiR3JfZVpjYy1sZTFfUGdwalFJMTctd3BZWnBsYTRzcVFVRy1wZ2lUb0Y5ajkwam5ZRWVLQU5RWEp1OHV0UkFEa0NPN0t4WncxQzYtYnpPUnQ1VTZ3WVRsRm9rY2JoLXRTam1LVEVnSnQ0VnpfYUZwTXh5LUE4LV8wSk44RFFGdTljVmV4WngyUFNhemRiYXBmLTVQWVJ6Mk9sTEo2cFVHVkhkS0VnSUdBZ9IBgwJBVV95cUxQMHN6amFFczl0al9GeXZiUjN2dHZUV2NiX3gwVkVoT25qb0tyeWFFZXNzcF9GNk1wUU1uZThuNG03VlNILWtFUW9kOEJ0M3l0T2VTb3dqaUNVczNQR0F5b1ZMcmhTNFU3M3FRMzc5VVJHdkpMTXdzUTBFa3pDdG5Bcmw4OElGZFpIYzlZbm1lcUtjeE51bDB1bVVnbnVGdVdCY0lkS0RYdEZnVHdPSHQ2dkNtUmVOLWdhcHd0aTZ2UVlHVjlXaC13THJCT2MtMlFsODFWeGFCUFJhR2RacHRCTGF2czZ4eFM3LTNNV1dDX0J4Q0pjNWRQOElQc2hRenE4UWZz?oc=5)
-
-2026-05-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTREQzFtSVE4cVp0d29Lbncwc1h5aHVmb0x5ZXVfN194UVBidlJIT2pPRmstVU9LdzNZY2RudmtyVFBBNmVYS3JXZ2xfcE1pb0IxOVpiR3JfZVpjYy1sZTFfUGdwalFJMTctd3BZWnBsYTRzcVFVRy1wZ2lUb0Y5ajkwam5ZRWVLQU5RWEp1OHV0UkFEa0NPN0t4WncxQzYtYnpPUnQ1VTZ3WVRsRm9rY2JoLXRTam1LVEVnSnQ0VnpfYUZwTXh5LUE4LV8wSk44RFFGdTljVmV4WngyUFNhemRiYXBmLTVQWVJ6Mk9sTEo2cFVHVkhkS0VnSUdBZ9IBgwJBVV95cUxQMHN6amFFczl0al9GeXZiUjN2dHZUV2NiX3gwVkVoT25qb0tyeWFFZXNzcF9GNk1wUU1uZThuNG03VlNILWtFUW9kOEJ0M3l0T2VTb3dqaUNVczNQR0F5b1ZMcmhTNFU3M3FRMzc5VVJHdkpMTXdzUTBFa3pDdG5Bcmw4OElGZFpIYzlZbm1lcUtjeE51bDB1bVVnbnVGdVdCY0lkS0RYdEZnVHdPSHQ2dkNtUmVOLWdhcHd0aTZ2UVlHVjlXaC13THJCT2MtMlFsODFWeGFCUFJhR2RacHRCTGF2czZ4eFM3LTNNV1dDX0J4Q0pjNWRQOElQc2hRenE4UWZz?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
 
 ---
 
@@ -110,19 +86,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Ernährungswende 2026: Wie der Körper das Abnehmen sabotiert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
-
-2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPbG5wZjN3MkxGLXhwNEZsdlI1LUFuTHU0WDhyNkJvNmhGQ0FYTkd0NEhlLXdEaDNadjYwcWZEdk8xOUxmeVVYSGRuQ3BMb2szZWhGd3pKaHR2OXZ6NUdvU1FIQ0lVbnJrWVVkS2FYSVBlcThVM0tJLWJiTC1mV2lzLXR5VFhNWVNIZU5kb2NGcG5veEl2NHd0Snk4ZHJnT2lMWTRkeHA1VzFsYVo4V2c?oc=5)
-
----
-
-### [NEM bei Diabetes: Was bringt was? - PTA IN LOVE](https://news.google.com/rss/articles/CBMia0FVX3lxTE85QXBVUFNnZUtVWkJseDFMRldDNkU2ZExKeWIwOGZ1ODAxdDFsaF9OUUFwVlRveE82blU3OTZ5MTRkU1RqT2NpQmZwR0V0Y2U1akNRM3dfQV84emlkbHJIbDlNWGZaeXBNNGln?oc=5)
+### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMia0FVX3lxTE85QXBVUFNnZUtVWkJseDFMRldDNkU2ZExKeWIwOGZ1ODAxdDFsaF9OUUFwVlRveE82blU3OTZ5MTRkU1RqT2NpQmZwR0V0Y2U1akNRM3dfQV84emlkbHJIbDlNWGZaeXBNNGln?oc=5)
+來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
 
 ---
 

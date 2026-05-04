@@ -54,11 +54,11 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（2 則）
 
-### [Hipertensión en España: Prevalencia, Prevención y la Iniciativa de Apoteca Natura - En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
+### [Is It Better to Work Out in the Morning or the Evening?](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UT0RDM0pXcHc0N2xURlppZ2duWDE4UVU0TlY4eUlVa2Y3QVhXb095TzJGY1MzVjNYZ1dyLWQ2d2RrUlYyUXdpbkktZTVaNmFpR1dCQzA5dHJTZU5yM2I4eGdQcw?oc=5)
 
-2026-05-04 <span class="news-indication-tag">hipertensión</span>
+2026-05-03 <span class="news-indication-tag">cardiovascular disease</span>
 
-來源：[En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
+來源：[GQ](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UT0RDM0pXcHc0N2xURlppZ2duWDE4UVU0TlY4eUlVa2Y3QVhXb095TzJGY1MzVjNYZ1dyLWQ2d2RrUlYyUXdpbkktZTVaNmFpR1dCQzA5dHJTZU5yM2I4eGdQcw?oc=5)
 
 ---
 

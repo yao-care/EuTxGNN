@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [The Most Effective Knee Arthritis Treatments Aren’t What You Expect](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
+### [Zusammenhang zwischen Heuschnupfen und Migräne](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
 
-2026-05-02 <span class="news-indication-tag">arthritis</span>
+2026-05-04 <span class="news-indication-tag">Migräne</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
+來源：[TARA24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
+
+---
+
+### [Beyond Inflammation: Scientists Uncover New Cause of Persistent Rheumatoid Arthritis](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
+
+2026-05-04 <span class="news-indication-tag">arthritis</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
 
 ---
 

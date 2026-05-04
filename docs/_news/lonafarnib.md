@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li>heart disease（97.8%）</li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 cardiovascular disease</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -54,19 +54,19 @@ permalink: /news/lonafarnib/
 
 ## 相關新聞（2 則）
 
-### [Hipertensión en España: Prevalencia, Prevención y la Iniciativa de Apoteca Natura - En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
+### [Beyond Inflammation: Scientists Uncover New Cause of Persistent Rheumatoid Arthritis](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
 
-2026-05-04 <span class="news-indication-tag">hipertensión</span>
+2026-05-04 <span class="news-indication-tag">arthritis</span>
 
-來源：[En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
 
 ---
 
-### [The Most Effective Knee Arthritis Treatments Aren’t What You Expect](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
+### [Is It Better to Work Out in the Morning or the Evening?](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UT0RDM0pXcHc0N2xURlppZ2duWDE4UVU0TlY4eUlVa2Y3QVhXb095TzJGY1MzVjNYZ1dyLWQ2d2RrUlYyUXdpbkktZTVaNmFpR1dCQzA5dHJTZU5yM2I4eGdQcw?oc=5)
 
-2026-05-02 <span class="news-indication-tag">arthritis</span>
+2026-05-03 <span class="news-indication-tag">cardiovascular disease</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
+來源：[GQ](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UT0RDM0pXcHc0N2xURlppZ2duWDE4UVU0TlY4eUlVa2Y3QVhXb095TzJGY1MzVjNYZ1dyLWQ2d2RrUlYyUXdpbkktZTVaNmFpR1dCQzA5dHJTZU5yM2I4eGdQcw?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/varenicline/
 
 ## 相關新聞（1 則）
 
-### [Hipertensión en España: Prevalencia, Prevención y la Iniciativa de Apoteca Natura - En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
+### [Zusammenhang zwischen Heuschnupfen und Migräne](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
 
-2026-05-04 <span class="news-indication-tag">hipertensión</span>
+2026-05-04 <span class="news-indication-tag">Migräne</span>
 
-來源：[En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
+來源：[TARA24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
 
 ---
 

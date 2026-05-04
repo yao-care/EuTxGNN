@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Family data reveal two genetic paths to childhood depression and anxiety - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
 
@@ -78,19 +78,11 @@ permalink: /news/agomelatine/
 
 ---
 
-### [La depresión mayor afecta a una de cada 15 mujeres tras el parto, según un análisis global - Salud a Diario](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQThERkhiSFhTNG5adld6WVBGVW9BaDNJeVZodVRTbTE5ZU9xWUFrX3VzYVlhZko3VkhJUHpNUXZiaFdrTWJVVmFBM1R3VmRoR2ZmWjdKUkk4RmN3Y2RlcjFwTWNBandSUm14ZV9xODhiX1BGdTNsVlNDUE0yNUR4UExsOGtCMWJkajU2MmNRa3FMUTMxVV9oZ3dEdHpreXlSY3JHaWQ2al9QMHdzbkpBenBXTTRLcmR1YmFCM253MmtLRjNHRGFV?oc=5)
+### [D'importantes différences entre les femmes et les hommes quant à l'expression de plus d'une centaine de gènes des cellules cérébrales !](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
 
-2026-05-03 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+2026-05-03 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQThERkhiSFhTNG5adld6WVBGVW9BaDNJeVZodVRTbTE5ZU9xWUFrX3VzYVlhZko3VkhJUHpNUXZiaFdrTWJVVmFBM1R3VmRoR2ZmWjdKUkk4RmN3Y2RlcjFwTWNBandSUm14ZV9xODhiX1BGdTNsVlNDUE0yNUR4UExsOGtCMWJkajU2MmNRa3FMUTMxVV9oZ3dEdHpreXlSY3JHaWQ2al9QMHdzbkpBenBXTTRLcmR1YmFCM253MmtLRjNHRGFV?oc=5)
-
----
-
-### [Distimia, una depresión silenciosa que puede volverse crónica](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHRTbmc4THZTTWpjZjZwdFE0S181SUotWGVvSmpfOE9ET0hBNzQ0bW1MdXh2ei1ocldRMlI1Q1ZZSmEyV09wMGJjZGFHcmZKYmJSNW1ndVJMU3FianpPOTlyUFlNRTQwSXJZcGFIS0ZxcTh4WlA5YlhKZG9zVThiV282U1VPeThGdjBSbXRzdE52Qm12eUE3UjQ0cmhVNHJjR2NOU9IBvwFBVV95cUxNZjJZejBEUTdIWWxNV1I4TURrSHNxblRZaGZlOWF6X3Z6TFpZTlR0Y3doZ3dSWjBaVTlxeUpPTTU5M3o4WXo5d2U1Zmd5dTVqbmxJVG41ZWFNdk03WHhNX0U1QW9HakxETlc0LUU3TFJhbTdWWXFjWDFjbzBQTm5xMDZrWUE0Qi1LQ1hkd0NTcjI1UjhCVno3ZHV1LTJMNVR2bTc1a0RtN3hlXzhlZmVVUTJRUUw0VVV1cFM2QkE3dw?oc=5)
-
-2026-05-03 <span class="news-indication-tag">depresión</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHRTbmc4THZTTWpjZjZwdFE0S181SUotWGVvSmpfOE9ET0hBNzQ0bW1MdXh2ei1ocldRMlI1Q1ZZSmEyV09wMGJjZGFHcmZKYmJSNW1ndVJMU3FianpPOTlyUFlNRTQwSXJZcGFIS0ZxcTh4WlA5YlhKZG9zVThiV282U1VPeThGdjBSbXRzdE52Qm12eUE3UjQ0cmhVNHJjR2NOU9IBvwFBVV95cUxNZjJZejBEUTdIWWxNV1I4TURrSHNxblRZaGZlOWF6X3Z6TFpZTlR0Y3doZ3dSWjBaVTlxeUpPTTU5M3o4WXo5d2U1Zmd5dTVqbmxJVG41ZWFNdk03WHhNX0U1QW9HakxETlc0LUU3TFJhbTdWWXFjWDFjbzBQTm5xMDZrWUE0Qi1LQ1hkd0NTcjI1UjhCVno3ZHV1LTJMNVR2bTc1a0RtN3hlXzhlZmVVUTJRUUw0VVV1cFM2QkE3dw?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
 
 ---
 

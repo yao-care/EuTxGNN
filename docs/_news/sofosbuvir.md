@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,13 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
-### [Tres muertos por un posible foco de hantavirus en un crucero entre Argentina y Cabo Verde - SWI swissinfo.ch](https://news.google.com/rss/articles/CBMixgFBVV95cUxPbEZBeUo3Y0k2NU1STkl6MnlrekVtSll3UXE3OTNZR2dmLWh6dllpbEZPUmJkb0dNcmcyZW4yQVVuMlBrc3h2d3M3c05sbml3TWtNNDNBWllOUGZkZzZ4QzFfdmQ2aG16ZFY3Nm5Id0ZxVWVrNmJET2d2RDRUamt4RF9BYndrVlBQSjFER1pTbnpGaGJocmU0SlFlR2RGcV9pbS04V0NscHk2dWMtLUtLQnZKRlR2SVZCcHpaemJZSVB0WFczSEE?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span>
-
-來源：[SWI swissinfo.ch](https://news.google.com/rss/articles/CBMixgFBVV95cUxPbEZBeUo3Y0k2NU1STkl6MnlrekVtSll3UXE3OTNZR2dmLWh6dllpbEZPUmJkb0dNcmcyZW4yQVVuMlBrc3h2d3M3c05sbml3TWtNNDNBWllOUGZkZzZ4QzFfdmQ2aG16ZFY3Nm5Id0ZxVWVrNmJET2d2RDRUamt4RF9BYndrVlBQSjFER1pTbnpGaGJocmU0SlFlR2RGcV9pbS04V0NscHk2dWMtLUtLQnZKRlR2SVZCcHpaemJZSVB0WFczSEE?oc=5)
-
----
-
-### [Tierkommunikation folgt weltweit oft demselben Takt - smart up news](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbXVaRDVaaldzb1k5NFMzLW8wSWNkeFhqN0ZIWGRDbHd1T3ZHZloxeTdXNkFvOTNJWmpWdEh1RGRSOWdYMjM2QkxLR1Izbnd1RFBXN2Z2VmlfTkQ3ZE96WkVvOVc2Rk55NVpCaHlTbWFtV2JNV1FYVUFRbmI2ZGxsNlJsbkg2Z2lkQ1Jj?oc=5)
+### [Hoffnung für MS-Patienten: Neue Wirkstoffe reparieren geschädigte Nerven](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFFKUHBpRTRVRmtuNkJ5Q0lzZGJ6MER0dmwyRHlSOThOb1J4NXV2RWpOU21Fb0V1S2hoMzBpWEhoRmU3bXhKZWxhYi0zY0FpSFc0cDhfVVRKR2x2TzJpbExVQXhZTTJjbk5RT0FzUXVJN0tyM0QxQ2FIenVuYkw2bFRJYUNpZHJsbGZaSk53UnF0LUVKNXVrdFNJanVua2pHQzdYOXRmTHNnTWdaa1E?oc=5)
 
 2026-05-04 <span class="news-indication-tag">MS</span>
 
-來源：[smart up news](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbXVaRDVaaldzb1k5NFMzLW8wSWNkeFhqN0ZIWGRDbHd1T3ZHZloxeTdXNkFvOTNJWmpWdEh1RGRSOWdYMjM2QkxLR1Izbnd1RFBXN2Z2VmlfTkQ3ZE96WkVvOVc2Rk55NVpCaHlTbWFtV2JNV1FYVUFRbmI2ZGxsNlJsbkg2Z2lkQ1Jj?oc=5)
-
----
-
-### [Crean un test genético que anticipa el riesgo de ocho enfermedades cardiovasculares frecuentes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWU5YOV95RDd3ZXRXNXhGa0pBQkdiaWIwS0loMHRUWlMxenNzVEJXM1BVU1RBa19HVDlERGhUYU9BRk1weWJ5bm8yX2pjUWFsRkZWT2xDY2JaRUFKcTZqQjlDUVNMUXZUbk82Z25WZ2pXNFd1NmhWd3pha0ZFR21tek02UVJFQ0czdW9wR3BUbHNtR2l6bTl1SnNsTjdROXkyNTlMTWlGT2FrOHZGRnBSdkRNdTAwajNjeXFjTkl6Z0dPNnhXaGRXM1ZNclJNaEdnUDZUcU1rb0piSi11WkJiaGhDNnVXb0xBSERR?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWU5YOV95RDd3ZXRXNXhGa0pBQkdiaWIwS0loMHRUWlMxenNzVEJXM1BVU1RBa19HVDlERGhUYU9BRk1weWJ5bm8yX2pjUWFsRkZWT2xDY2JaRUFKcTZqQjlDUVNMUXZUbk82Z25WZ2pXNFd1NmhWd3pha0ZFR21tek02UVJFQ0czdW9wR3BUbHNtR2l6bTl1SnNsTjdROXkyNTlMTWlGT2FrOHZGRnBSdkRNdTAwajNjeXFjTkl6Z0dPNnhXaGRXM1ZNclJNaEdnUDZUcU1rb0piSi11WkJiaGhDNnVXb0xBSERR?oc=5)
-
----
-
-### [Según la OMS, los adultos de entre 30 y 40 años que siguen jugando a videojuegos están construyendo algo cu...](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWFpnUmZUdlRUMXlfUm82eDlnOEhLZmtUYlFxMkRvamRnU2tNMEl0ZHlWWXVnRTdENjcweEpOaWs4QTlRbDM5bGxQd016TnRBWEJLakw1VENiOGNRNk9BcE5uc3phbXhDYWxabU02akRLTWRwQ3UzQkFPWUZEU2hJMEJwNm9Qa1dLeW1STm1oTm9rLUJtQWlJUjJfTmc2ZWUtZUdCekEwTXlZVE80dEI3X2t0MzB6c3B5bmYwRFlzSVlrZXZob1hINmNLeGoyWGx2Um5JNkFZbnJtcjRpbVBiYVd5Y1RDcFlIeTFQcW9n0gHzAUFVX3lxTFBVUUZvX1phNmFuVVlPSFJmUXZnWDYzYW5yallSOFpHY0sxcTlVbFNoeUM5V3FxVW9iTEYzek5XNnV3Qm1XMHdyZ0Uza2FWX2VYWEFjZGRMYVc0M1VGaWd1c0V6eEpkWVNtNGZ5R2tkcV82SGlnNnA2VjhBZXZvcEplZmNWOTlFV1Joa2RtamROVGlDR3lhOXh3LUp6Sm5NY2xFX1ZLTURxS3V4cXdVbHVOVTNsU1pMVm5VNkFrU2Jna0kzRDAyMG80SFFaUlhqWTRpRGt5aTBNVHFRN21Kc0wxRTB2d1c2OFR3MUxaY29oa290RQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWFpnUmZUdlRUMXlfUm82eDlnOEhLZmtUYlFxMkRvamRnU2tNMEl0ZHlWWXVnRTdENjcweEpOaWs4QTlRbDM5bGxQd016TnRBWEJLakw1VENiOGNRNk9BcE5uc3phbXhDYWxabU02akRLTWRwQ3UzQkFPWUZEU2hJMEJwNm9Qa1dLeW1STm1oTm9rLUJtQWlJUjJfTmc2ZWUtZUdCekEwTXlZVE80dEI3X2t0MzB6c3B5bmYwRFlzSVlrZXZob1hINmNLeGoyWGx2Um5JNkFZbnJtcjRpbVBiYVd5Y1RDcFlIeTFQcW9n0gHzAUFVX3lxTFBVUUZvX1phNmFuVVlPSFJmUXZnWDYzYW5yallSOFpHY0sxcTlVbFNoeUM5V3FxVW9iTEYzek5XNnV3Qm1XMHdyZ0Uza2FWX2VYWEFjZGRMYVc0M1VGaWd1c0V6eEpkWVNtNGZ5R2tkcV82SGlnNnA2VjhBZXZvcEplZmNWOTlFV1Joa2RtamROVGlDR3lhOXh3LUp6Sm5NY2xFX1ZLTURxS3V4cXdVbHVOVTNsU1pMVm5VNkFrU2Jna0kzRDAyMG80SFFaUlhqWTRpRGt5aTBNVHFRN21Kc0wxRTB2d1c2OFR3MUxaY29oa290RQ?oc=5)
-
----
-
-### ['The Mind Guardian', el videojuego que ayuda a identificar señales tempranas de alzhéimer - 65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeFhzU3VGMnBHR3Iyb3E4WFFsY2JVc2tXTkMxT08zT3Vob1NiRUFxc3hBSXJRMk5McnpVOGc3RVhSOHotQ19Sci1YQXhYVTZVeGdKd19FUHBwU00ydlJlSEJBUnoyS3pYa2h6ZktzYVhSS090YUk0MHFROEZQT09pak9GTlZJMjF3T0lxS3FmbWtCMHg2SWQtb29MWHFlSzdLTV90VmxGT0lrRmJLcGQzU1ZnMDkyZUhjcWc?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeFhzU3VGMnBHR3Iyb3E4WFFsY2JVc2tXTkMxT08zT3Vob1NiRUFxc3hBSXJRMk5McnpVOGc3RVhSOHotQ19Sci1YQXhYVTZVeGdKd19FUHBwU00ydlJlSEJBUnoyS3pYa2h6ZktzYVhSS090YUk0MHFROEZQT09pak9GTlZJMjF3T0lxS3FmbWtCMHg2SWQtb29MWHFlSzdLTV90VmxGT0lrRmJLcGQzU1ZnMDkyZUhjcWc?oc=5)
+來源：[Nordisch.info](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFFKUHBpRTRVRmtuNkJ5Q0lzZGJ6MER0dmwyRHlSOThOb1J4NXV2RWpOU21Fb0V1S2hoMzBpWEhoRmU3bXhKZWxhYi0zY0FpSFc0cDhfVVRKR2x2TzJpbExVQXhZTTJjbk5RT0FzUXVJN0tyM0QxQ2FIenVuYkw2bFRJYUNpZHJsbGZaSk53UnF0LUVKNXVrdFNJanVua2pHQzdYOXRmTHNnTWdaa1E?oc=5)
 
 ---
 
@@ -102,11 +70,43 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS1XcGZpUTI1NDdiMWtpU2E2cTBWNDlwWTFHVWhEaGt1QV9tT3AwS2k5ZWs3ajcwZlFTZEw4emdmeVVlbGh0ZUJLYlRLeExhajJOSlc1SldkZVRfZG1KXzBmaVpDNER1TUVWemluaDBXSjAtaU5oTDMySGZwb0RzR2VmdXQ0Y0hrTUtzRDJQRmFoc1ZPVUE?oc=5)
+
+2026-05-03 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS1XcGZpUTI1NDdiMWtpU2E2cTBWNDlwWTFHVWhEaGt1QV9tT3AwS2k5ZWs3ajcwZlFTZEw4emdmeVVlbGh0ZUJLYlRLeExhajJOSlc1SldkZVRfZG1KXzBmaVpDNER1TUVWemluaDBXSjAtaU5oTDMySGZwb0RzR2VmdXQ0Y0hrTUtzRDJQRmFoc1ZPVUE?oc=5)
+
+---
+
+### [Heart doctor shares warning over food ‘worse than smoking’ that decreases lifespan](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUZsWC1ydGN3cDhjM2dzQldJYkJvQV9hSW5sSVNEYVhMM1ZabEdIQ1hNUTI4OXVDSEhxQ3B4V2VhYUpwaUdiaWpQTkxvS3ZKb1NPcnE2Qk1KUUw0MUN2MmhZbFdGOWk5b2FvX0dDdkpEcHlnVWRKVkI0SnpLUXJvdFlPUDM2emExbXBSaDBZZVJfWUE?oc=5)
+
+2026-05-03 <span class="news-indication-tag">MS</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUZsWC1ydGN3cDhjM2dzQldJYkJvQV9hSW5sSVNEYVhMM1ZabEdIQ1hNUTI4OXVDSEhxQ3B4V2VhYUpwaUdiaWpQTkxvS3ZKb1NPcnE2Qk1KUUw0MUN2MmhZbFdGOWk5b2FvX0dDdkpEcHlnVWRKVkI0SnpLUXJvdFlPUDM2emExbXBSaDBZZVJfWUE?oc=5)
+
+---
+
+### [Hpv, torna l'Open day dell'università: vaccinazioni e informazioni per gli studenti](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGFKOG8wUjJnWGFMc3dCdmUxUWU2RW5BVXlfTzVGdXN6NUlxQk54VDQ1ZDQ2cEJtYm4wNm9oZkVRRTZIdHNpT3QwYkNDTjZoRlY2blFNaHVydzFzNHJGVFhYX0hrQ0gxMXpJNlBuX0VHN0szU3JHLVRGSE1ydUdhLV9yUUJ1VzZwakJ3SWtEckZEeXRj?oc=5)
+
+2026-05-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[PalermoToday](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGFKOG8wUjJnWGFMc3dCdmUxUWU2RW5BVXlfTzVGdXN6NUlxQk54VDQ1ZDQ2cEJtYm4wNm9oZkVRRTZIdHNpT3QwYkNDTjZoRlY2blFNaHVydzFzNHJGVFhYX0hrQ0gxMXpJNlBuX0VHN0szU3JHLVRGSE1ydUdhLV9yUUJ1VzZwakJ3SWtEckZEeXRj?oc=5)
+
+---
+
 ### [NHS May 3 warning as symptoms that 'might not seem like much' may need 'immediate attention' - Glasgow Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0NuYkMyaE1yajVmLVZnRzhoQ1pVYXNiazlEQXNiRlY4RTZQMHlIellITURvTlJ2VEo1QXBITTdqR05yQzU3eFlNUXpja0xVSVJUNEdjYlJHNFBmSE9MdkxqdWFTdW1mQWtqWHd2OUQtNlhrdjE5cjRIZzB0OGhyQzR4bnEzWDhk0gGOAUFVX3lxTFA3eE1IbkJEMzFfV3pmdl9TUS1uX0drTkJRTXpvUUpqdG9UcG51ellUQmNVaUVPOERvZkFNbWNCYkFBOUFCd2lFNTBPYXBzWTJsWmR5YzJqWkgxRkY2WFZEa2o1blEwTUlYcHJPSW9hWkk0NkFlWjFITE43WVNfbGNRclhzUDh4RV9UN1Z2d0E?oc=5)
 
 2026-05-03 <span class="news-indication-tag">MS</span>
 
 來源：[Glasgow Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0NuYkMyaE1yajVmLVZnRzhoQ1pVYXNiazlEQXNiRlY4RTZQMHlIellITURvTlJ2VEo1QXBITTdqR05yQzU3eFlNUXpja0xVSVJUNEdjYlJHNFBmSE9MdkxqdWFTdW1mQWtqWHd2OUQtNlhrdjE5cjRIZzB0OGhyQzR4bnEzWDhk0gGOAUFVX3lxTFA3eE1IbkJEMzFfV3pmdl9TUS1uX0drTkJRTXpvUUpqdG9UcG51ellUQmNVaUVPOERvZkFNbWNCYkFBOUFCd2lFNTBPYXBzWTJsWmR5YzJqWkgxRkY2WFZEa2o1blEwTUlYcHJPSW9hWkk0NkFlWjFITE43WVNfbGNRclhzUDh4RV9UN1Z2d0E?oc=5)
+
+---
+
+### [D'importantes différences entre les femmes et les hommes quant à l'expression de plus d'une centaine de gènes des cellules cérébrales !](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
+
+2026-05-03 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
 
 ---
 
@@ -123,6 +123,14 @@ permalink: /news/sofosbuvir/
 2026-05-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
+
+---
+
+### [Alzheimer’s may begin decades before memory loss, new timeline shows](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0J3TGxhZXJMUFcwTFV0RnREZ29KSUhDWURDdXAtZlJUaWdYLWZld0NJRFp3NGJJcXd1WU8zWEtBamNHU3lKMTZiUkpWU2RvY2M2LTl6eDJMQTI3NjlmczBzVWdJUjZZVEtaajJMYkVpVWVrbzdMaGNWMnNLRGp5NGhKcDJSTGwwNVBuV0dMNmNEeGVDd0QzUTZ3?oc=5)
+
+2026-05-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0J3TGxhZXJMUFcwTFV0RnREZ29KSUhDWURDdXAtZlJUaWdYLWZld0NJRFp3NGJJcXd1WU8zWEtBamNHU3lKMTZiUkpWU2RvY2M2LTl6eDJMQTI3NjlmczBzVWdJUjZZVEtaajJMYkVpVWVrbzdMaGNWMnNLRGp5NGhKcDJSTGwwNVBuV0dMNmNEeGVDd0QzUTZ3?oc=5)
 
 ---
 

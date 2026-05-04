@@ -14,7 +14,7 @@ permalink: /news/mexiletine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Mexiletine Hydrochloride 有什麼相關新聞？">
-<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,29 @@ permalink: /news/mexiletine-hydrochloride/
 <p><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
 
-### [British cruise ship passenger in intensive care after three die in suspected hantavirus outbreak](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1femVoY2dXeVBoMU14aFBaZDlJbXlxQ0pIaEYxNzNPd3o2UTVqTU5WQUV4bHV4SjhRSzh5S3Vtdm1lejdKQy15R1QtX0FqRjNVUVNXUw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1femVoY2dXeVBoMU14aFBaZDlJbXlxQ0pIaEYxNzNPd3o2UTVqTU5WQUV4bHV4SjhRSzh5S3Vtdm1lejdKQy15R1QtX0FqRjNVUVNXUw?oc=5)
-
----
-
-### [Hipertensión en España: Prevalencia, Prevención y la Iniciativa de Apoteca Natura - En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
-
-2026-05-04 <span class="news-indication-tag">hipertensión</span>
-
-來源：[En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
-
----
-
-### [Aphthen: Wenn der Mund zur Qual wird – So bekämpft ihr die schmerzhaften Geschwüre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhJRUpLTGZTOVdXbWZsSDBzdXhrZFJjLV9NX3Rad1gwTjlQNTdFZG5pMm5OcGxSeEJuWUpSY1ZLbkVERmJqaHlpcWc5NkZha3NORnZnSDgtRzBsMm5LY3hfbmdEOVVOTHlmZmVLWUU5MFFRcDRHaWNDTjNkZkIxbXlWMW9Kc3g4azFCa2hXeWNhdUVWdzNaRE8ySVhzUURiTnZBU3JlVno?oc=5)
+### [Grönemeyer: „Heute Nacht schlafe ich extra nicht ein“ – diese Methode wirkt überraschend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
 
 2026-05-04 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhJRUpLTGZTOVdXbWZsSDBzdXhrZFJjLV9NX3Rad1gwTjlQNTdFZG5pMm5OcGxSeEJuWUpSY1ZLbkVERmJqaHlpcWc5NkZha3NORnZnSDgtRzBsMm5LY3hfbmdEOVVOTHlmZmVLWUU5MFFRcDRHaWNDTjNkZkIxbXlWMW9Kc3g4azFCa2hXeWNhdUVWdzNaRE8ySVhzUURiTnZBU3JlVno?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
 
 ---
 
-### [Crean un test genético que anticipa el riesgo de ocho enfermedades cardiovasculares frecuentes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWU5YOV95RDd3ZXRXNXhGa0pBQkdiaWIwS0loMHRUWlMxenNzVEJXM1BVU1RBa19HVDlERGhUYU9BRk1weWJ5bm8yX2pjUWFsRkZWT2xDY2JaRUFKcTZqQjlDUVNMUXZUbk82Z25WZ2pXNFd1NmhWd3pha0ZFR21tek02UVJFQ0czdW9wR3BUbHNtR2l6bTl1SnNsTjdROXkyNTlMTWlGT2FrOHZGRnBSdkRNdTAwajNjeXFjTkl6Z0dPNnhXaGRXM1ZNclJNaEdnUDZUcU1rb0piSi11WkJiaGhDNnVXb0xBSERR?oc=5)
+### [What is hantavirus, the infection thought to have killed three on cruise ship? - The Guardian](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnE0WlVESGhqeWlFX19Md0lqYkRwU1pCWXhyQTk5RWpkamVZR1F3aFVFbzRkc2pwNUJsU2tYNFFJNnkzTG8yTFdodUFtb0txbnBGWHlRZGxQR0V0RVJmQks5OEVBT093UnZtdXJJa0RvQW56b0dVY3QwUmcyczJlNVVUVHVvRmU0TDEteUdRalRzNEhKSHdpLVdTYUs4VHc1SS1ZWk40Q29zX25ZVWpZc3RvQm9HZVBBN0VQRGRwcDgwckNO?oc=5)
 
-2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-04 <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWU5YOV95RDd3ZXRXNXhGa0pBQkdiaWIwS0loMHRUWlMxenNzVEJXM1BVU1RBa19HVDlERGhUYU9BRk1weWJ5bm8yX2pjUWFsRkZWT2xDY2JaRUFKcTZqQjlDUVNMUXZUbk82Z25WZ2pXNFd1NmhWd3pha0ZFR21tek02UVJFQ0czdW9wR3BUbHNtR2l6bTl1SnNsTjdROXkyNTlMTWlGT2FrOHZGRnBSdkRNdTAwajNjeXFjTkl6Z0dPNnhXaGRXM1ZNclJNaEdnUDZUcU1rb0piSi11WkJiaGhDNnVXb0xBSERR?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnE0WlVESGhqeWlFX19Md0lqYkRwU1pCWXhyQTk5RWpkamVZR1F3aFVFbzRkc2pwNUJsU2tYNFFJNnkzTG8yTFdodUFtb0txbnBGWHlRZGxQR0V0RVJmQks5OEVBT093UnZtdXJJa0RvQW56b0dVY3QwUmcyczJlNVVUVHVvRmU0TDEteUdRalRzNEhKSHdpLVdTYUs4VHc1SS1ZWk40Q29zX25ZVWpZc3RvQm9HZVBBN0VQRGRwcDgwckNO?oc=5)
+
+---
+
+### [Zusammenhang zwischen Heuschnupfen und Migräne](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
+
+2026-05-04 <span class="news-indication-tag">Migräne</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
 
 ---
 
@@ -91,6 +83,30 @@ permalink: /news/mexiletine-hydrochloride/
 2026-05-04 <span class="news-indication-tag">AF</span>
 
 來源：[La Verità](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVFUODdvOUhYUktRRkgyX0xSc2xjX0xMdVNkN08yd21mMXFaSjhkS1ZaUXhEd1hzS29VNXoySjFnci1sRl9yWGVMQmJGX0kxckZmMHpuZlduUVFON1RVeDdtMU1fSnVGZTdkczRuRHRuUUdCalFoS1RkalBJSlhOQ2x6OGJDYUs2WHg0bg?oc=5)
+
+---
+
+### [Neue Methode deckt verborgene Veränderungen bei Vitamin B12 auf - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yUHZ2TERrMENMU20yTUZUemk1MWhHLUkzWWc1aFYwbTlYdlJ6bXN3dU02SHJ3UGdNenYzWGlvMHd6UTFQVWxXWWRMNA?oc=5)
+
+2026-05-04 <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yUHZ2TERrMENMU20yTUZUemk1MWhHLUkzWWc1aFYwbTlYdlJ6bXN3dU02SHJ3UGdNenYzWGlvMHd6UTFQVWxXWWRMNA?oc=5)
+
+---
+
+### [Liebe: Wie man das zum Partner passende Date wählt - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNWtXT2UyTEJfX1oyRFBWVE1pTEZhUUg0bGROdUdHc3liTVY1bGhlUXM4Wms2YlJpVXJTTjU2WVlPeGpqMjB6eERUY1JEaUNqNDFaanRiaTB4LU01enN0U3VOcGtaVHBfOGxF?oc=5)
+
+2026-05-04 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNWtXT2UyTEJfX1oyRFBWVE1pTEZhUUg0bGROdUdHc3liTVY1bGhlUXM4Wms2YlJpVXJTTjU2WVlPeGpqMjB6eERUY1JEaUNqNDFaanRiaTB4LU01enN0U3VOcGtaVHBfOGxF?oc=5)
+
+---
+
+### [Aphthen: Wenn der Mund zur Qual wird – So bekämpft ihr die schmerzhaften Geschwüre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhJRUpLTGZTOVdXbWZsSDBzdXhrZFJjLV9NX3Rad1gwTjlQNTdFZG5pMm5OcGxSeEJuWUpSY1ZLbkVERmJqaHlpcWc5NkZha3NORnZnSDgtRzBsMm5LY3hfbmdEOVVOTHlmZmVLWUU5MFFRcDRHaWNDTjNkZkIxbXlWMW9Kc3g4azFCa2hXeWNhdUVWdzNaRE8ySVhzUURiTnZBU3JlVno?oc=5)
+
+2026-05-04 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhJRUpLTGZTOVdXbWZsSDBzdXhrZFJjLV9NX3Rad1gwTjlQNTdFZG5pMm5OcGxSeEJuWUpSY1ZLbkVERmJqaHlpcWc5NkZha3NORnZnSDgtRzBsMm5LY3hfbmdEOVVOTHlmZmVLWUU5MFFRcDRHaWNDTjNkZkIxbXlWMW9Kc3g4azFCa2hXeWNhdUVWdzNaRE8ySVhzUURiTnZBU3JlVno?oc=5)
 
 ---
 
@@ -126,14 +142,6 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Adolescentes con cáncer: TikTok desafía el debate sobre vetar las redes sociales a menores - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOME5wNGgtT0xJWnd2S1Zid3dTNXJwQ1BCbEpCM2pWd3g0a1doRXloa0NiTzltS1VKdkUxLUxsTzJFMl9RYnBNRFhHaEhxb2VJcVJwUEdWYndseGhmNEdQbkhyRVpkamVEY2FWMVNsWU9vZWxSSTFKOTVGT3NLc21kSjI3QlRVejFLZFJQUWlpcE82dEpfV2RqV3lQMS1QMi1PazRMWWpGNURkVlp4QlFlMi1sZnNlNWMzUUVMcFVLY3NrazloQ1I4dTRTZjRaenN6SnZRX2JTVkHSAd4BQVVfeXFMTV9LTnBJcm1XZ2ZZVVdXcDlfWVhvRXBwaElFdWIzc01DUmJqNEEwS1JkSElTRV9weEFQdWk3Y2oyUkJ3R0l1Z3JxTDJmcjRDZWpzb0VpU1F2cmU2bWFvYmFZSThybThobEhHNGNSYlVsNWxaV0xmYWwtSFBHcDBWanhFcy1NMXJTVlBEOVVkLU1wQmhneXVzUkV3cUNuZkhPckdVMWJEN1dmbDVzdGRDV1RTcEZ4eEdWdHBfT25ZdENBYkd1TmhQLWNCUFhxQTN6cWhfTHNFRk5SdXdvV1lB?oc=5)
-
-2026-05-03 <span class="news-indication-tag">AF</span>
-
-來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOME5wNGgtT0xJWnd2S1Zid3dTNXJwQ1BCbEpCM2pWd3g0a1doRXloa0NiTzltS1VKdkUxLUxsTzJFMl9RYnBNRFhHaEhxb2VJcVJwUEdWYndseGhmNEdQbkhyRVpkamVEY2FWMVNsWU9vZWxSSTFKOTVGT3NLc21kSjI3QlRVejFLZFJQUWlpcE82dEpfV2RqV3lQMS1QMi1PazRMWWpGNURkVlp4QlFlMi1sZnNlNWMzUUVMcFVLY3NrazloQ1I4dTRTZjRaenN6SnZRX2JTVkHSAd4BQVVfeXFMTV9LTnBJcm1XZ2ZZVVdXcDlfWVhvRXBwaElFdWIzc01DUmJqNEEwS1JkSElTRV9weEFQdWk3Y2oyUkJ3R0l1Z3JxTDJmcjRDZWpzb0VpU1F2cmU2bWFvYmFZSThybThobEhHNGNSYlVsNWxaV0xmYWwtSFBHcDBWanhFcy1NMXJTVlBEOVVkLU1wQmhneXVzUkV3cUNuZkhPckdVMWJEN1dmbDVzdGRDV1RTcEZ4eEdWdHBfT25ZdENBYkd1TmhQLWNCUFhxQTN6cWhfTHNFRk5SdXdvV1lB?oc=5)
-
----
-
 ### [Dad left with one leg DOUBLE the size of other after canal swim causes horror infection - The Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjRkSDRybEVTTHJRZ2c4N0ZvTzc5RFpIeHdWYzRXcEVBVlFmMHlSdW56ZjgwYkVLalhtV29MUlhoU2VCRDNnaEhTbDRKNnd0TG81bmtYQXBXbUY3c183Zm5iSjY3T1FMS1hoRWVmd2d0TnVsWVFSY21WVS1kWjIzbkxkamk4Rl9YbE1hc21WR2JVb1p6NmlJ0gGcAUFVX3lxTE9Ycm0zRVR1NGdHRjRxRnF6bm5TckRQSEV0Q0pHQmZ5anZFTVBtZVB3Y3FObjBnTTBFWDFBYlV1VEtWYld6bGV6T1JlZlh5bDZNclRhVDIwWVRCR0dEN0l0WXc5aEJxTzI5OHgxUmVvSVhHVVBUZ0loRlhqN09ZZFIyb0k1WlpQdGVWV2ota3daaW5xSWttVlZyd0hCaA?oc=5)
 
 2026-05-03 <span class="news-indication-tag">AF</span>
@@ -150,11 +158,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [La depresión mayor afecta a una de cada 15 mujeres tras el parto, según un análisis global - Salud a Diario](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQThERkhiSFhTNG5adld6WVBGVW9BaDNJeVZodVRTbTE5ZU9xWUFrX3VzYVlhZko3VkhJUHpNUXZiaFdrTWJVVmFBM1R3VmRoR2ZmWjdKUkk4RmN3Y2RlcjFwTWNBandSUm14ZV9xODhiX1BGdTNsVlNDUE0yNUR4UExsOGtCMWJkajU2MmNRa3FMUTMxVV9oZ3dEdHpreXlSY3JHaWQ2al9QMHdzbkpBenBXTTRLcmR1YmFCM253MmtLRjNHRGFV?oc=5)
+### [A 10-minute walking workout every day might be the 'bare minimum' but I've already felt the benefits for my mind and body after one week - Woman & Home](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQndUQUdEZFR3VWpfcHVTOHA0Y1JJOVNZMHNycFJlTWNFS214Mzg4ODIzX3Z6dzRLLU1xX2ZxRGxHNlFoQXhLb0FBVDhUZWVFTy1pbC1DeHVham4yRVVOODBFZUVOUkZiZ3ExLXVPYjZwZ09CYmF4QU00UVpTcVpia2tnOVUxczQ?oc=5)
 
-2026-05-03 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+2026-05-03 <span class="news-indication-tag">AF</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQThERkhiSFhTNG5adld6WVBGVW9BaDNJeVZodVRTbTE5ZU9xWUFrX3VzYVlhZko3VkhJUHpNUXZiaFdrTWJVVmFBM1R3VmRoR2ZmWjdKUkk4RmN3Y2RlcjFwTWNBandSUm14ZV9xODhiX1BGdTNsVlNDUE0yNUR4UExsOGtCMWJkajU2MmNRa3FMUTMxVV9oZ3dEdHpreXlSY3JHaWQ2al9QMHdzbkpBenBXTTRLcmR1YmFCM253MmtLRjNHRGFV?oc=5)
+來源：[Woman & Home](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQndUQUdEZFR3VWpfcHVTOHA0Y1JJOVNZMHNycFJlTWNFS214Mzg4ODIzX3Z6dzRLLU1xX2ZxRGxHNlFoQXhLb0FBVDhUZWVFTy1pbC1DeHVham4yRVVOODBFZUVOUkZiZ3ExLXVPYjZwZ09CYmF4QU00UVpTcVpia2tnOVUxczQ?oc=5)
 
 ---
 
@@ -166,19 +174,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Boy's charity challenge 'so other children aren't sad'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJb3U3Zmp6WW01Z3MyNE5LTVZMMkE3VFJpNUFzWEdoX3RrQXJkRG1paEtxckJwSXlESGlzRXhRQUNwejMyYmtVZllQSWdCb0R1WFZVZk5JUkVSblFQ?oc=5)
+### [Boy, 8, takes on mountain challenge after grandmother dies of sepsis - Lancashire Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxORlBoWllFczdqSGN2ZXdlZzN4dURrTVBVZS1Rbm10UHNQQ21fX1AxMnZFVXg5dFliR3lCdEFSaWJhSklUdlVnTjN0MUZGUnB4bVQwNC1XdTZpczJRRGlTVVhsakNCZ3U1NzQ4VC0zR2FYc3A2c0hYSWQySVVmNGc3UFJzVllRQ3RxRlZWZXVKeUstajhjcFBWNFlmcE12QQ?oc=5)
 
 2026-05-03 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJb3U3Zmp6WW01Z3MyNE5LTVZMMkE3VFJpNUFzWEdoX3RrQXJkRG1paEtxckJwSXlESGlzRXhRQUNwejMyYmtVZllQSWdCb0R1WFZVZk5JUkVSblFQ?oc=5)
-
----
-
-### [I'm in pain 24/7 after what disgraced surgeon did - Liverpool Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXhNdWZYUjdpZkVRcFFLWUpGY2RYbm1QMGdXMHVWX1ZCOHJWaGFfUnpwYnE5aWEtR1F0RmdtdW1ZaWIzQUpjYVlYVHI5Z1VLME1sV3RhNEI0TEI0QzZHbXBqa0pPVy1DNDdUdUszaUhHcHlZcXFzdVZsbkpiR3hfMzVPUl9pd1d2bEpB0gGQAUFVX3lxTE1Iek1rTzVpZWJnVzV6cnQ4ZG91LWRYOUk5WXFIU29jb0lpRGlta04xQUVzb2YxYURYX3RDZ1Z0SlpjTl9uOGpVdXgtejh5WERzdzVQSlpFYkNCTGJkSjVZR2h6YkNPUE5yV24yZk5FWG1HemFldldwNHJMYXBzSV9vNnlUbjNUOFhFSEE4aFFvdw?oc=5)
-
-2026-05-03 <span class="news-indication-tag">AF</span>
-
-來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXhNdWZYUjdpZkVRcFFLWUpGY2RYbm1QMGdXMHVWX1ZCOHJWaGFfUnpwYnE5aWEtR1F0RmdtdW1ZaWIzQUpjYVlYVHI5Z1VLME1sV3RhNEI0TEI0QzZHbXBqa0pPVy1DNDdUdUszaUhHcHlZcXFzdVZsbkpiR3hfMzVPUl9pd1d2bEpB0gGQAUFVX3lxTE1Iek1rTzVpZWJnVzV6cnQ4ZG91LWRYOUk5WXFIU29jb0lpRGlta04xQUVzb2YxYURYX3RDZ1Z0SlpjTl9uOGpVdXgtejh5WERzdzVQSlpFYkNCTGJkSjVZR2h6YkNPUE5yV24yZk5FWG1HemFldldwNHJMYXBzSV9vNnlUbjNUOFhFSEE4aFFvdw?oc=5)
+來源：[Lancashire Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxORlBoWllFczdqSGN2ZXdlZzN4dURrTVBVZS1Rbm10UHNQQ21fX1AxMnZFVXg5dFliR3lCdEFSaWJhSklUdlVnTjN0MUZGUnB4bVQwNC1XdTZpczJRRGlTVVhsakNCZ3U1NzQ4VC0zR2FYc3A2c0hYSWQySVVmNGc3UFJzVllRQ3RxRlZWZXVKeUstajhjcFBWNFlmcE12QQ?oc=5)
 
 ---
 
@@ -195,6 +195,14 @@ permalink: /news/mexiletine-hydrochloride/
 2026-05-02 <span class="news-indication-tag">AF</span>
 
 來源：[Bored Panda](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkJuYlBRSmVMR0FidmxLUWx6MkN2c2VEUWEwVnpXVXB1RXh6a3JNa0ItRzQwN2VYdjlKSl8ycUV6WXZIN2xpT3c3Sm4zQk5STUhMOEE1UllucFktTFZHUmh2aVM1Y3lVT3JfSlZjRnhQaWhnQ1FYOUpPcWVRcGR1MlE4TkY2c2FoQkNDQVRQNXNUTUN3d0Rv?oc=5)
+
+---
+
+### [5 Standing Exercises That Flatten Apron Belly Faster Than Crunches After 50 - Eat This Not That](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUM3VktoRWxpVGZ3aWk2NTRLcjJzWWI3MHI2NU9Xal9zdXBDXzREakxyVk41X2dMUnlCUEd4Z2MwTzRtb2NPRUw0XzViNFAxbDZIUmF1TU1NeEhkR1Qtb1dXMkJNa3Q3UTN6ZHBodlZndjc4bUlmUWlFMUdONGRwYk85dUtRYnA4QWh0SmtB?oc=5)
+
+2026-05-02 <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUM3VktoRWxpVGZ3aWk2NTRLcjJzWWI3MHI2NU9Xal9zdXBDXzREakxyVk41X2dMUnlCUEd4Z2MwTzRtb2NPRUw0XzViNFAxbDZIUmF1TU1NeEhkR1Qtb1dXMkJNa3Q3UTN6ZHBodlZndjc4bUlmUWlFMUdONGRwYk85dUtRYnA4QWh0SmtB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Primavera y asma: especialistas de Vithas piden extremar precauciones - Onda Cero](https://news.google.com/rss/articles/CBMihAJBVV95cUxOOG4zVWNvNDVBSGl2Qm0zWThqYi11RlU0clEwQnA0RGZtdzJfd3hvMmtKbmREQkUtaGtacTdFZkd6R2VSNjduZjVOdjlCZHltSlloNlhSRmI0VXRPbmtrQkdyOGpqTkFBVDFhVXpDam1GczV6Y1BMMEszS044UDVPTlMtMzNsNDdMVkRNcHAyeWlwMDJFRXpLaU1kYkl5Xy00MjNHci1rcHVvX3RHSXZuS1FRXzd3elFUZmRwb0dibnB2RzF0U2pUdzhjYTVVWWdPLW1SVV8zeWdEc3ZjdDNOa1ZqOHUtLXdJMmFSRGgtZzlPNEkyZXNHaXFnY1ZlNGpvTDUydNIBhAJBVV95cUxPQ1ItRkpjN2NCZHBQLUhhU1FwV3JxMWJxSFAza0psYXNLY2xlbFZRNHBHNFBZcFB3ZHVTYTY0amk3eUItYlNDNmliNkg4YVdiVE9OUjdGaUNfYzlCcEtVazlsLVVPR0YxSDNlVnF1elVxN201TzhxeUtTWXpOZ2kwbDJxQ1BBMlgwZDZkWmVYbFBmcWlVUVBSdWpKQ084ZFpxYWN2cklaMkoxSVlMaWlmSWVOenFjd2tQa0xhOHV3bTgwUWNDRFRSbVBRcHBBakpFdExFdHczdWlSSkQxdlZPRzVCd1g1RU5UdWJTLTgwT2U1d1VrN3paT2lBMEVvTVd0SGpaVQ?oc=5)
+### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
 
-2026-05-04 <span class="news-indication-tag">asma</span>
+2026-05-04 <span class="news-indication-tag">asthma</span>
 
-來源：[Onda Cero](https://news.google.com/rss/articles/CBMihAJBVV95cUxOOG4zVWNvNDVBSGl2Qm0zWThqYi11RlU0clEwQnA0RGZtdzJfd3hvMmtKbmREQkUtaGtacTdFZkd6R2VSNjduZjVOdjlCZHltSlloNlhSRmI0VXRPbmtrQkdyOGpqTkFBVDFhVXpDam1GczV6Y1BMMEszS044UDVPTlMtMzNsNDdMVkRNcHAyeWlwMDJFRXpLaU1kYkl5Xy00MjNHci1rcHVvX3RHSXZuS1FRXzd3elFUZmRwb0dibnB2RzF0U2pUdzhjYTVVWWdPLW1SVV8zeWdEc3ZjdDNOa1ZqOHUtLXdJMmFSRGgtZzlPNEkyZXNHaXFnY1ZlNGpvTDUydNIBhAJBVV95cUxPQ1ItRkpjN2NCZHBQLUhhU1FwV3JxMWJxSFAza0psYXNLY2xlbFZRNHBHNFBZcFB3ZHVTYTY0amk3eUItYlNDNmliNkg4YVdiVE9OUjdGaUNfYzlCcEtVazlsLVVPR0YxSDNlVnF1elVxN201TzhxeUtTWXpOZ2kwbDJxQ1BBMlgwZDZkWmVYbFBmcWlVUVBSdWpKQ084ZFpxYWN2cklaMkoxSVlMaWlmSWVOenFjd2tQa0xhOHV3bTgwUWNDRFRSbVBRcHBBakpFdExFdHczdWlSSkQxdlZPRzVCd1g1RU5UdWJTLTgwT2U1d1VrN3paT2lBMEVvTVd0SGpaVQ?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
+
+---
+
+### [Zusammenhang zwischen Heuschnupfen und Migräne](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
+
+2026-05-04 <span class="news-indication-tag">Migräne</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
 
 ---
 
