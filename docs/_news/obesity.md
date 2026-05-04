@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
+
+2026-05-04
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
+
+---
 
 ### [5-fach-Agonist gegen Adipositas und Diabetes - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
 

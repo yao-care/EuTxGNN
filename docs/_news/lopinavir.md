@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lopinavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [WHO warnt: Hepatitis bleibt trotz Fortschritten eine globale Gesundheitsgefahr - Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
+
+---
+
+### [Epatite A a Napoli, le cozze del lago Fusaro di Bacoli saranno trasferite a Nisida](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
+
+2026-05-04 <span class="news-indication-tag">epatite</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
+
+---
 
 
 <div class="disclaimer">

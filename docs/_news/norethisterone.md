@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="Norethisterone 有什麼相關新聞？">
-<strong>Norethisterone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Norethisterone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/norethisterone/
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
+### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMimgJBVV95cUxOSXZLNFFRVHRvaUo3UEJXdjF5OV9BRmN4N0dxMU01TXpGMVdyVE5tNEh4MkQ3NEdZWmdLbFNUS2FsUkJuS3pyWGJxLTloUDkzRlphb2FrcnNfVjJ2aU5KM3A0SVhxcVd0bTU2aUQ0eXFmWHotS3F5TFlFQWpzZkVqMUh1NmlBYloxZll5Y2FJTHpvU0lhTnY5eEtqMVF6V1pwWm1sME5mcVRuSWpUUHVqYXZFQjE2Yk5RTE1mcU9xOGhtWkExam9qT0o0dWw2VFppWVNyR0VpMmljRkM5cENSNXY4MmhUMlROVnU2cUl5cE9mMFdIbUlFc0ttZGhrbXdVdG4zQkJTMWNVMWxjUDJsSnlkSEgtb1RaUGc?oc=5)
 
 2026-05-04 <span class="news-indication-tag">asthma</span>
 
-來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
+來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMimgJBVV95cUxOSXZLNFFRVHRvaUo3UEJXdjF5OV9BRmN4N0dxMU01TXpGMVdyVE5tNEh4MkQ3NEdZWmdLbFNUS2FsUkJuS3pyWGJxLTloUDkzRlphb2FrcnNfVjJ2aU5KM3A0SVhxcVd0bTU2aUQ0eXFmWHotS3F5TFlFQWpzZkVqMUh1NmlBYloxZll5Y2FJTHpvU0lhTnY5eEtqMVF6V1pwWm1sME5mcVRuSWpUUHVqYXZFQjE2Yk5RTE1mcU9xOGhtWkExam9qT0o0dWw2VFppWVNyR0VpMmljRkM5cENSNXY4MmhUMlROVnU2cUl5cE9mMFdIbUlFc0ttZGhrbXdVdG4zQkJTMWNVMWxjUDJsSnlkSEgtb1RaUGc?oc=5)
+
+---
+
+### [Asma infantile, il 6 maggio open day a Lamezia con visite e spirometrie gratuite - il Lametino.it](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXI2R25fNWpBZDVScmVadGJsTm81ODh3cXI4YndXSXNFRzNtWURybDBLclI4QldQNHVaaGQ5SDViRW5YSlpZRGVGbmE3VGNzYWlPWFJDQU1SZlQwcE55ZTR4RHFPNi1jZkFHRDMtaVJyaDBPUzYwSDJ2ZkhkMEZmbi1mR1ZONG1xd052OEE4cDNUSC1QM0o1aEFTOWdOd1RnaEhUdXNFZHh0VmVVWGVzQjBCcEppS0Jj?oc=5)
+
+2026-05-04 <span class="news-indication-tag">asma</span>
+
+來源：[il Lametino.it](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXI2R25fNWpBZDVScmVadGJsTm81ODh3cXI4YndXSXNFRzNtWURybDBLclI4QldQNHVaaGQ5SDViRW5YSlpZRGVGbmE3VGNzYWlPWFJDQU1SZlQwcE55ZTR4RHFPNi1jZkFHRDMtaVJyaDBPUzYwSDJ2ZkhkMEZmbi1mR1ZONG1xd052OEE4cDNUSC1QM0o1aEFTOWdOd1RnaEhUdXNFZHh0VmVVWGVzQjBCcEppS0Jj?oc=5)
 
 ---
 

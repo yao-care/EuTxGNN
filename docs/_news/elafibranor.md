@@ -14,7 +14,7 @@ permalink: /news/elafibranor/
 ---
 
 <p class="key-answer" data-question="Elafibranor 有什麼相關新聞？">
-<strong>Elafibranor</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elafibranor</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/elafibranor/
 <p><a href="{{ '/drugs/elafibranor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（38 則）
-
-### [Grönemeyer: „Heute Nacht schlafe ich extra nicht ein“ – diese Methode wirkt überraschend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
-
----
-
-### [What is hantavirus, the infection thought to have killed three on cruise ship? - The Guardian](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnE0WlVESGhqeWlFX19Md0lqYkRwU1pCWXhyQTk5RWpkamVZR1F3aFVFbzRkc2pwNUJsU2tYNFFJNnkzTG8yTFdodUFtb0txbnBGWHlRZGxQR0V0RVJmQks5OEVBT093UnZtdXJJa0RvQW56b0dVY3QwUmcyczJlNVVUVHVvRmU0TDEteUdRalRzNEhKSHdpLVdTYUs4VHc1SS1ZWk40Q29zX25ZVWpZc3RvQm9HZVBBN0VQRGRwcDgwckNO?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnE0WlVESGhqeWlFX19Md0lqYkRwU1pCWXhyQTk5RWpkamVZR1F3aFVFbzRkc2pwNUJsU2tYNFFJNnkzTG8yTFdodUFtb0txbnBGWHlRZGxQR0V0RVJmQks5OEVBT093UnZtdXJJa0RvQW56b0dVY3QwUmcyczJlNVVUVHVvRmU0TDEteUdRalRzNEhKSHdpLVdTYUs4VHc1SS1ZWk40Q29zX25ZVWpZc3RvQm9HZVBBN0VQRGRwcDgwckNO?oc=5)
-
----
+## 相關新聞（39 則）
 
 ### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
 
@@ -78,11 +62,59 @@ permalink: /news/elafibranor/
 
 ---
 
+### [Grönemeyer: „Heute Nacht schlafe ich extra nicht ein“ – diese Methode wirkt überraschend](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
+
+2026-05-04 <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTG9TdnNFM0k1RENTRl9tRzV3aXRsUG1WdVdFMlJHaVZ5eVFJb25YcnAxaEFzMEp6ODdFUnN0WlZ4aE5COUVxay14UFpibEYxZHRYX3FoWTZwc0VsSnVOMzk1M1ZLUTJHZ3V0RDhrR0NYYVlISGdVVVgyZHkzMUdSRjJwRkRGUWZPaEx6V2NLMHdTVjFBdVNfTm5PRWoyelRfVjJNS25hQUw1T1dURHIwSHpfVW13SWFPZzUxdnRKTFluWVpoUmswaVRVWHM5WXZfS18wT3ppMnQzZ29mQ09xSG9BLTVpVDlYRGhv?oc=5)
+
+---
+
+### [Tumori: in Italia l'immunoterapia sottocute, si somministra in pochi minuti - Il Tirreno](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWEpMV0lSXzlvRkFpRElaU0N2RUdvRnRMTXhVbmZSU3FPWlZWZWNHSzdhX0I2UE81ejZiM054aDZXT2txbmxPRXlZQUNrMWctTk1ySE5Db1pQZFZ1cHNiRmFYNExZa2tpajhfcG02MHMySnFBdTN2ZnZFSUxFdnZyOFpheVJEbW5KRUtYMXhlenphYnVpZXh3VDljTG52WEEzQlg2Rm9ZYmNKa0h4LUpRZGE2UTEtVUk5NDUzS2dzVkgxS21IREpDUkZHZGdTWnNROFVlVGZRSmNLSXU0ZGc?oc=5)
+
+2026-05-04 <span class="news-drug-tag">Nivolumab</span> <span class="news-indication-tag">tumor</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWEpMV0lSXzlvRkFpRElaU0N2RUdvRnRMTXhVbmZSU3FPWlZWZWNHSzdhX0I2UE81ejZiM054aDZXT2txbmxPRXlZQUNrMWctTk1ySE5Db1pQZFZ1cHNiRmFYNExZa2tpajhfcG02MHMySnFBdTN2ZnZFSUxFdnZyOFpheVJEbW5KRUtYMXhlenphYnVpZXh3VDljTG52WEEzQlg2Rm9ZYmNKa0h4LUpRZGE2UTEtVUk5NDUzS2dzVkgxS21IREpDUkZHZGdTWnNROFVlVGZRSmNLSXU0ZGc?oc=5)
+
+---
+
+### [The Chelsea millionaires fighting against a cancer unit - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUlsektnSzNCcy1uN291RnpPSGp0UGV5QWNNZ2JIajl3S1NCcHE0VWJhRHZnMnFSbnRhY2lFdkRRRzYzVTZBYXlmUlc1a0JYUmM4aWNTR1phZFJLdWZvRXhDU2c4aFNPcHRFS2diYzBfNy1wWTVWSjRKRWd0M1U0QUpIU3R1SjhfS2VHc05rQQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUlsektnSzNCcy1uN291RnpPSGp0UGV5QWNNZ2JIajl3S1NCcHE0VWJhRHZnMnFSbnRhY2lFdkRRRzYzVTZBYXlmUlc1a0JYUmM4aWNTR1phZFJLdWZvRXhDU2c4aFNPcHRFS2diYzBfNy1wWTVWSjRKRWd0M1U0QUpIU3R1SjhfS2VHc05rQQ?oc=5)
+
+---
+
+### [Tumore al pancreas, trovata la proteina che lo rende resistente ai farmaci](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeFVIT1RSWnFoUWttYm9SVFlZcEZ6T0RsNURMMFpxcDlVQWg3WWgxcXNWaGJIbWMxSGNoYnBhTGJOU2FJUm9pVVMzT2ZjSFdnMHRhRURoNUxvbEhvNGx2WXZJVW03ajNsV1o3VHpnYkdfdHh6ZktpNWxGVnppWERYTUdwc216QV9Rc0R2M3ZINC1DR1Jtd09LZGp3dk5Bb05GaGNHNHZxNzR3Qkx0dGlxRTZKN1A2N3RWRTY3SnRmV2NFSHRVZkQxMjRUbkItRzFIRTE3d29jcGY1bFNRMjZDVWlSeGE3ZVl3OW5NT205UG5kN1FTZmEyWkNES3hfUFNXV3lDQWFqQ3XSAY4CQVVfeXFMTkY0R0JIYmF1Z3BlMDIxNHVnOUQ3Y0prdHNQc3JjZ3VtUDVRY1NyZHhia1lEUms4aHpUS3RsS2tiblljZ3FhajBnNWNka2Q0RDcyWlZITjVfUHhxUVlMVGt5VUVmNlp6ZGRLWEduQ3BVZkx6NzV6YU11ZG45eEd3eTl2bFJCbmpJZlFJdl9WQ1p0OGp6d1FTTHBkc2FyQVExLVE3NFZ2OExFSzlCZ3h6WVZhbTcyc09kNk04NWduM3VxSDVCV1Z6NHBobGN2bXY2T0IwclBROW5SZnRTZFpxX3pyS2ZmUmRPSGt2R1NneFRkUWV2dTVjZl9uRzdDQlc5UTd6cE8wTktxc08tcHJB?oc=5)
+
+2026-05-04 <span class="news-indication-tag">tumor</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeFVIT1RSWnFoUWttYm9SVFlZcEZ6T0RsNURMMFpxcDlVQWg3WWgxcXNWaGJIbWMxSGNoYnBhTGJOU2FJUm9pVVMzT2ZjSFdnMHRhRURoNUxvbEhvNGx2WXZJVW03ajNsV1o3VHpnYkdfdHh6ZktpNWxGVnppWERYTUdwc216QV9Rc0R2M3ZINC1DR1Jtd09LZGp3dk5Bb05GaGNHNHZxNzR3Qkx0dGlxRTZKN1A2N3RWRTY3SnRmV2NFSHRVZkQxMjRUbkItRzFIRTE3d29jcGY1bFNRMjZDVWlSeGE3ZVl3OW5NT205UG5kN1FTZmEyWkNES3hfUFNXV3lDQWFqQ3XSAY4CQVVfeXFMTkY0R0JIYmF1Z3BlMDIxNHVnOUQ3Y0prdHNQc3JjZ3VtUDVRY1NyZHhia1lEUms4aHpUS3RsS2tiblljZ3FhajBnNWNka2Q0RDcyWlZITjVfUHhxUVlMVGt5VUVmNlp6ZGRLWEduQ3BVZkx6NzV6YU11ZG45eEd3eTl2bFJCbmpJZlFJdl9WQ1p0OGp6d1FTTHBkc2FyQVExLVE3NFZ2OExFSzlCZ3h6WVZhbTcyc09kNk04NWduM3VxSDVCV1Z6NHBobGN2bXY2T0IwclBROW5SZnRTZFpxX3pyS2ZmUmRPSGt2R1NneFRkUWV2dTVjZl9uRzdDQlc5UTd6cE8wTktxc08tcHJB?oc=5)
+
+---
+
+### [Prevenzione del melanoma, visite gratuite alla Coop di via Settembrini](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVJuWng3RXFpSDEwNUZnSm1oT0hvRWw5S1BfdlQtbi12a0xfYnVmMW80SkZYQUhoMlVTazhYRnJHVlJ2Z0l0MGQzVDNpNlBwTVpqY3NXUm83RU84bnZyODRQdWVCYTdaWDg0b1FBcEdLdHZEUFNjZWtsU1RWZFQzZlhxMXh6SFVkTlhUWUZmeTZGWTZwMkd1bHlBWHZxU3ptbzZjY3BhMm5IbGJqMHc?oc=5)
+
+2026-05-04 <span class="news-indication-tag">tumor</span>
+
+來源：[QuiLivorno.it](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVJuWng3RXFpSDEwNUZnSm1oT0hvRWw5S1BfdlQtbi12a0xfYnVmMW80SkZYQUhoMlVTazhYRnJHVlJ2Z0l0MGQzVDNpNlBwTVpqY3NXUm83RU84bnZyODRQdWVCYTdaWDg0b1FBcEdLdHZEUFNjZWtsU1RWZFQzZlhxMXh6SFVkTlhUWUZmeTZGWTZwMkd1bHlBWHZxU3ptbzZjY3BhMm5IbGJqMHc?oc=5)
+
+---
+
 ### [Neuer Ansatz in der Krebstherapie - Uniklinik Köln](https://news.google.com/rss/articles/CBMinwFBVV95cUxPanA4Tm9QOUtmdzNJWnYxZVRvcV9UYmxvUlM4UEp2WldmYkRtZV9hTjEycUNTUUZOVFcySkVxd0V2X0VON2tXYUZPaVRWeUVRMFZvRi1DQmZsbmNWamR4NFloU2NfMy10RzZTYktQeEVHLV9WUmZINkdEZGtMR3dsTjlmN21kS3JoeGpYOEVLbWJ6ZHY1YU5kUjF4NFk3OUk?oc=5)
 
 2026-05-04 <span class="news-indication-tag">Krebs</span>
 
 來源：[Uniklinik Köln](https://news.google.com/rss/articles/CBMinwFBVV95cUxPanA4Tm9QOUtmdzNJWnYxZVRvcV9UYmxvUlM4UEp2WldmYkRtZV9hTjEycUNTUUZOVFcySkVxd0V2X0VON2tXYUZPaVRWeUVRMFZvRi1DQmZsbmNWamR4NFloU2NfMy10RzZTYktQeEVHLV9WUmZINkdEZGtMR3dsTjlmN21kS3JoeGpYOEVLbWJ6ZHY1YU5kUjF4NFk3OUk?oc=5)
+
+---
+
+### [Ancient Document Confirms “Legendary” African King Actually Existed](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
+
+2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
 
 ---
 
@@ -110,27 +142,19 @@ permalink: /news/elafibranor/
 
 ---
 
-### ['Revolutionary' new cancer jab not yet available in Northern Ireland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95TWRDZmxqRWxReHBXTHVUcEQ1WWZablQ0Yjc0U1lCenlIdmNsT1AtelRtOUVrLTlxbUhXY2IybTFyUnoyREstcU81aFFFdjZHVi1CbGpPWXVUd1hB?oc=5)
+### [Hantavirus: Nager und Staub sind das Problem - Vodafone live](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnlGbml3QThUam1nYV91MGx1cVhIbmNjTVJZR1hEYXJhLW1HWmJSVGtYdEZqaUJ6SmZ2OUhORnQtM3N0c3lIb3FJeXNVbDJYRF95OWVaellCNHMzRmFweTZwU3M2RUdlT3BMN01JNjV6blZVOVA1VnE4Mk9qMVpHTElSMjhEWVBJbkZNWUpLY3FCUkQySVZzWXNXNHZHdUtfYTE0dQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">AF</span>
+
+來源：[Vodafone live](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnlGbml3QThUam1nYV91MGx1cVhIbmNjTVJZR1hEYXJhLW1HWmJSVGtYdEZqaUJ6SmZ2OUhORnQtM3N0c3lIb3FJeXNVbDJYRF95OWVaellCNHMzRmFweTZwU3M2RUdlT3BMN01JNjV6blZVOVA1VnE4Mk9qMVpHTElSMjhEWVBJbkZNWUpLY3FCUkQySVZzWXNXNHZHdUtfYTE0dQ?oc=5)
+
+---
+
+### ['Revolutionary' new cancer jab not yet available for NI patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95TWRDZmxqRWxReHBXTHVUcEQ1WWZablQ0Yjc0U1lCenlIdmNsT1AtelRtOUVrLTlxbUhXY2IybTFyUnoyREstcU81aFFFdjZHVi1CbGpPWXVUd1hB?oc=5)
 
 2026-05-04 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95TWRDZmxqRWxReHBXTHVUcEQ1WWZablQ0Yjc0U1lCenlIdmNsT1AtelRtOUVrLTlxbUhXY2IybTFyUnoyREstcU81aFFFdjZHVi1CbGpPWXVUd1hB?oc=5)
-
----
-
-### [Priorità Ue: convincerci a fare più vaccini - La Verità](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVFUODdvOUhYUktRRkgyX0xSc2xjX0xMdVNkN08yd21mMXFaSjhkS1ZaUXhEd1hzS29VNXoySjFnci1sRl9yWGVMQmJGX0kxckZmMHpuZlduUVFON1RVeDdtMU1fSnVGZTdkczRuRHRuUUdCalFoS1RkalBJSlhOQ2x6OGJDYUs2WHg0bg?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[La Verità](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVFUODdvOUhYUktRRkgyX0xSc2xjX0xMdVNkN08yd21mMXFaSjhkS1ZaUXhEd1hzS29VNXoySjFnci1sRl9yWGVMQmJGX0kxckZmMHpuZlduUVFON1RVeDdtMU1fSnVGZTdkczRuRHRuUUdCalFoS1RkalBJSlhOQ2x6OGJDYUs2WHg0bg?oc=5)
-
----
-
-### [Cancer de la vessie : ce symptôme trompeur présent dans 90 % des cas](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzenhEVEllZmdKanJsZEdoUkVxXzMwRFRnVFBBbjlLbk5tZEdkdFVXM2w4cVJzM3F3UkI4QVdpX0RDQnFyS0lCV3ppZ25iQ1d6QmRBNHRnVi1lcDhwbWpfcnVWRQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzenhEVEllZmdKanJsZEdoUkVxXzMwRFRnVFBBbjlLbk5tZEdkdFVXM2w4cVJzM3F3UkI4QVdpX0RDQnFyS0lCV3ppZ25iQ1d6QmRBNHRnVi1lcDhwbWpfcnVWRQ?oc=5)
 
 ---
 
@@ -150,19 +174,19 @@ permalink: /news/elafibranor/
 
 ---
 
-### [Liebe: Wie man das zum Partner passende Date wählt - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNWtXT2UyTEJfX1oyRFBWVE1pTEZhUUg0bGROdUdHc3liTVY1bGhlUXM4Wms2YlJpVXJTTjU2WVlPeGpqMjB6eERUY1JEaUNqNDFaanRiaTB4LU01enN0U3VOcGtaVHBfOGxF?oc=5)
-
-2026-05-04 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNWtXT2UyTEJfX1oyRFBWVE1pTEZhUUg0bGROdUdHc3liTVY1bGhlUXM4Wms2YlJpVXJTTjU2WVlPeGpqMjB6eERUY1JEaUNqNDFaanRiaTB4LU01enN0U3VOcGtaVHBfOGxF?oc=5)
-
----
-
 ### [Aphthen: Wenn der Mund zur Qual wird – So bekämpft ihr die schmerzhaften Geschwüre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhJRUpLTGZTOVdXbWZsSDBzdXhrZFJjLV9NX3Rad1gwTjlQNTdFZG5pMm5OcGxSeEJuWUpSY1ZLbkVERmJqaHlpcWc5NkZha3NORnZnSDgtRzBsMm5LY3hfbmdEOVVOTHlmZmVLWUU5MFFRcDRHaWNDTjNkZkIxbXlWMW9Kc3g4azFCa2hXeWNhdUVWdzNaRE8ySVhzUURiTnZBU3JlVno?oc=5)
 
 2026-05-04 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhJRUpLTGZTOVdXbWZsSDBzdXhrZFJjLV9NX3Rad1gwTjlQNTdFZG5pMm5OcGxSeEJuWUpSY1ZLbkVERmJqaHlpcWc5NkZha3NORnZnSDgtRzBsMm5LY3hfbmdEOVVOTHlmZmVLWUU5MFFRcDRHaWNDTjNkZkIxbXlWMW9Kc3g4azFCa2hXeWNhdUVWdzNaRE8ySVhzUURiTnZBU3JlVno?oc=5)
+
+---
+
+### [Le cancer de la vessie est le 5e cancer le plus fréquent, mais ses symptômes sont encore trop méconnus](https://news.google.com/rss/articles/CBMihgJBVV95cUxQd2hRQWJpYU9pSEF3NU00dWZibjBxYmxGdUZTNDNKSlc2dHlqS19CZ2lwOV9pNFdrckRWSTlsN0V6b3dJZzV3S002dlFNNGJqX2pXUHJXalZWN05oclNLX1oxVUcwaXJvRkd6UUVpX01GNGpYNWZBcHB3NU1CYlZVbnItWE5DeGxCT0JzRTRNVjlzcFVXM1BIODdVN0l3UU5GcmU4QVJPdzRmREhaeGM4ZGJ1eFhmN3ZvVW9CYzh1TU9wTF9Zak54aE0yN3R3M25LNVNxQjZmMVIzYTBoYjI5ZHJ5a1VGRkUyVzBxelZnYkdmSU5fYUFNZmJxTjNzZGMtaEYtdVFB?oc=5)
+
+2026-05-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxQd2hRQWJpYU9pSEF3NU00dWZibjBxYmxGdUZTNDNKSlc2dHlqS19CZ2lwOV9pNFdrckRWSTlsN0V6b3dJZzV3S002dlFNNGJqX2pXUHJXalZWN05oclNLX1oxVUcwaXJvRkd6UUVpX01GNGpYNWZBcHB3NU1CYlZVbnItWE5DeGxCT0JzRTRNVjlzcFVXM1BIODdVN0l3UU5GcmU4QVJPdzRmREhaeGM4ZGJ1eFhmN3ZvVW9CYzh1TU9wTF9Zak54aE0yN3R3M25LNVNxQjZmMVIzYTBoYjI5ZHJ5a1VGRkUyVzBxelZnYkdmSU5fYUFNZmJxTjNzZGMtaEYtdVFB?oc=5)
 
 ---
 
@@ -182,11 +206,27 @@ permalink: /news/elafibranor/
 
 ---
 
+### [Liebe: Wie man das zum Partner passende Date wählt - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNWtXT2UyTEJfX1oyRFBWVE1pTEZhUUg0bGROdUdHc3liTVY1bGhlUXM4Wms2YlJpVXJTTjU2WVlPeGpqMjB6eERUY1JEaUNqNDFaanRiaTB4LU01enN0U3VOcGtaVHBfOGxF?oc=5)
+
+2026-05-03 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNWtXT2UyTEJfX1oyRFBWVE1pTEZhUUg0bGROdUdHc3liTVY1bGhlUXM4Wms2YlJpVXJTTjU2WVlPeGpqMjB6eERUY1JEaUNqNDFaanRiaTB4LU01enN0U3VOcGtaVHBfOGxF?oc=5)
+
+---
+
 ### [DNA test could spare thousands of patients pain after knee surgery - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWFzWmt3Y0JnTk92emlHem1lMk1JampmV2FKZmdtSTRzeS1udE85VjRpQ3EzRVpIWmxtVHFzaXNVUFNMWTlMRnBiQ0k0YnhaWlZ5R1pmS1lYd1BvcGswZENPYUpEcnFEdk9ab3NwNHVDSDNOQjNodHFucWNTSHcwT0lrX3Q5M01CWGJVdjZ0Zi0xNEdNNzJXWnF2MEsteW1w?oc=5)
 
 2026-05-03 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWFzWmt3Y0JnTk92emlHem1lMk1JampmV2FKZmdtSTRzeS1udE85VjRpQ3EzRVpIWmxtVHFzaXNVUFNMWTlMRnBiQ0k0YnhaWlZ5R1pmS1lYd1BvcGswZENPYUpEcnFEdk9ab3NwNHVDSDNOQjNodHFucWNTSHcwT0lrX3Q5M01CWGJVdjZ0Zi0xNEdNNzJXWnF2MEsteW1w?oc=5)
+
+---
+
+### [Priorità Ue: convincerci a fare più vaccini - La Verità](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVFUODdvOUhYUktRRkgyX0xSc2xjX0xMdVNkN08yd21mMXFaSjhkS1ZaUXhEd1hzS29VNXoySjFnci1sRl9yWGVMQmJGX0kxckZmMHpuZlduUVFON1RVeDdtMU1fSnVGZTdkczRuRHRuUUdCalFoS1RkalBJSlhOQ2x6OGJDYUs2WHg0bg?oc=5)
+
+2026-05-03 <span class="news-indication-tag">AF</span>
+
+來源：[La Verità](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVFUODdvOUhYUktRRkgyX0xSc2xjX0xMdVNkN08yd21mMXFaSjhkS1ZaUXhEd1hzS29VNXoySjFnci1sRl9yWGVMQmJGX0kxckZmMHpuZlduUVFON1RVeDdtMU1fSnVGZTdkczRuRHRuUUdCalFoS1RkalBJSlhOQ2x6OGJDYUs2WHg0bg?oc=5)
 
 ---
 
@@ -254,6 +294,14 @@ permalink: /news/elafibranor/
 
 ---
 
+### [The bias in medical research: Africa carries a huge disease burden but is missing from clinical trials - The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR3c3Zktqd29EbURYY241bVJBbzk1alR0eEw0dUVvSy01a2JsaF9zTERPTmVoU1MxT3UzWmluNGRmaEtSYUVDMWVHVWNvY3hjd2tjc21KcnV4R2dWUk90Rzdhb0NkZlFRV19vdmNXd2gxMFVRSGZhbnJYYUhJMWVKVkV5OVhFcXNMeGdQd1ZtNmtIZXdqQ1d2T0tkMzE0eXJjSk9kemdwUjZwdVcyWlJQWjR1VVRPUl9PdXE1TUFYR19fMTVBUXo5R1FJcE1oR2loWkE?oc=5)
+
+2026-05-03 <span class="news-indication-tag">AF</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR3c3Zktqd29EbURYY241bVJBbzk1alR0eEw0dUVvSy01a2JsaF9zTERPTmVoU1MxT3UzWmluNGRmaEtSYUVDMWVHVWNvY3hjd2tjc21KcnV4R2dWUk90Rzdhb0NkZlFRV19vdmNXd2gxMFVRSGZhbnJYYUhJMWVKVkV5OVhFcXNMeGdQd1ZtNmtIZXdqQ1d2T0tkMzE0eXJjSk9kemdwUjZwdVcyWlJQWjR1VVRPUl9PdXE1TUFYR19fMTVBUXo5R1FJcE1oR2loWkE?oc=5)
+
+---
+
 ### [Tumore al pancreas: ritirato lo studio che aveva scoperto una nuova cura per il cancro - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPby1tWC0wYW9zMDRodl9RLWIyU2E5TGJnQUpMT2tySUp2S3hrSTJoYnEtVy1TSV9XTWxIMXlvcWg2RU5kdUxmbGVlMVNPVEhZWU5ZcUlBY0lONGNqRmUzYTUxdTN2Tl9OX0JQdEhGcm1wZzUzMGd0Y2lLcmlydk1icENtcXJhLVRrcHVjMnllWUgyeGZSWXBjRmRqLTRNN1FSZHNEb0x3TWNZOE5tMnJ1RVRwVS1TcU5xa05SRkstV1hGNG82Z0MxT3V6UUtWNVo0aUkwQW4zWXVwVk9oZFZuODh3NTM1UWfSAcABQVVfeXFMTUY3M2lUTXRaellLYVhGQTJ1bENPeDBEd2hsU2U3R2lpVTlUcDN0V1RveXkwQXdsRzNYcHdhelg1bTJ0dTczNnRPQzREWmxoeWU3bW5tRndWcjJTenBuLUhJUnpvdW5IMjZOaEQ5S2N4RUs5bWxYNVAwWTVkd1V1bEM1V1p1N3hWLVFQanZOd0d5MHhPQktWaFQwemZiZUc4X0tpWW55YzFpNnNNS3I4XzVWdDJtWEhqQ0Rka3NlMi1P?oc=5)
 
 2026-05-03 <span class="news-indication-tag">tumor</span>
@@ -280,23 +328,31 @@ permalink: /news/elafibranor/
 
 ### [Cancer : un nouvel espoir pour lutter contre le glioblastome, la tumeur cérébrale la plus fréquente et la plus agressive - Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkNYU1h3VkY3VTNVcVpqeUwyUFJjLUNjc3NxbVNORzl2UlBVcHJVdDRNSkc5NEYyTGZtRXFPWHBVSWVfTU96VXAtaHlxV0xTemd3Sm9La0YySGVfVV9UclBteUZmSzVzRFZGWmpCV0tNTDRQLVMtaFZUNkhBejV3M1lOc1JPNU1seFBhNVRYQ056YnFXUVoxWEI5NFp3NW9WMVA5RmNKTkZGaUo2MnlqeUk2OFhBREhxdUdDQS1VQkpseDRvNG1vd1dqU3VvcFhNVHpaQWpoN1ZFcGY4NHNsekppRnNvblR1RjRKZUxXSDZ6TkFQczZmeGpn?oc=5)
 
-2026-05-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-05-03 <span class="news-indication-tag">cancer</span>
 
 來源：[Midi Libre](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkNYU1h3VkY3VTNVcVpqeUwyUFJjLUNjc3NxbVNORzl2UlBVcHJVdDRNSkc5NEYyTGZtRXFPWHBVSWVfTU96VXAtaHlxV0xTemd3Sm9La0YySGVfVV9UclBteUZmSzVzRFZGWmpCV0tNTDRQLVMtaFZUNkhBejV3M1lOc1JPNU1seFBhNVRYQ056YnFXUVoxWEI5NFp3NW9WMVA5RmNKTkZGaUo2MnlqeUk2OFhBREhxdUdDQS1VQkpseDRvNG1vd1dqU3VvcFhNVHpaQWpoN1ZFcGY4NHNsekppRnNvblR1RjRKZUxXSDZ6TkFQczZmeGpn?oc=5)
 
 ---
 
-### [Boy, 8, takes on mountain challenge after grandmother dies of sepsis - Lancashire Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxORlBoWllFczdqSGN2ZXdlZzN4dURrTVBVZS1Rbm10UHNQQ21fX1AxMnZFVXg5dFliR3lCdEFSaWJhSklUdlVnTjN0MUZGUnB4bVQwNC1XdTZpczJRRGlTVVhsakNCZ3U1NzQ4VC0zR2FYc3A2c0hYSWQySVVmNGc3UFJzVllRQ3RxRlZWZXVKeUstajhjcFBWNFlmcE12QQ?oc=5)
+### [I went to A&E with a stomach pain - I wasn’t just pregnant, I’d need an 11-seater car after shock scan discovery - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXlwZTloS0dmOU82a2tJSWxkYzRvSjlTZzJrallQV3BTX2F1cVU4bWRUTVdWdUlhZGdoR0NHMVJEOWx0MXBiVl9HUGxvVU1SbTlsa0Y1ZG9tZFBfeDc1azQ5YWNiLWhZY3UyN2k5QmVyN2gyS1E3YnJ0WmgtRWxZbXFnNkQxWXdNeFRJdw?oc=5)
 
 2026-05-03 <span class="news-indication-tag">AF</span>
 
-來源：[Lancashire Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxORlBoWllFczdqSGN2ZXdlZzN4dURrTVBVZS1Rbm10UHNQQ21fX1AxMnZFVXg5dFliR3lCdEFSaWJhSklUdlVnTjN0MUZGUnB4bVQwNC1XdTZpczJRRGlTVVhsakNCZ3U1NzQ4VC0zR2FYc3A2c0hYSWQySVVmNGc3UFJzVllRQ3RxRlZWZXVKeUstajhjcFBWNFlmcE12QQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXlwZTloS0dmOU82a2tJSWxkYzRvSjlTZzJrallQV3BTX2F1cVU4bWRUTVdWdUlhZGdoR0NHMVJEOWx0MXBiVl9HUGxvVU1SbTlsa0Y1ZG9tZFBfeDc1azQ5YWNiLWhZY3UyN2k5QmVyN2gyS1E3YnJ0WmgtRWxZbXFnNkQxWXdNeFRJdw?oc=5)
+
+---
+
+### [Boy's charity challenge 'so other children aren't sad'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJb3U3Zmp6WW01Z3MyNE5LTVZMMkE3VFJpNUFzWEdoX3RrQXJkRG1paEtxckJwSXlESGlzRXhRQUNwejMyYmtVZllQSWdCb0R1WFZVZk5JUkVSblFQ?oc=5)
+
+2026-05-03 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJb3U3Zmp6WW01Z3MyNE5LTVZMMkE3VFJpNUFzWEdoX3RrQXJkRG1paEtxckJwSXlESGlzRXhRQUNwejMyYmtVZllQSWdCb0R1WFZVZk5JUkVSblFQ?oc=5)
 
 ---
 
 ### [The Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
 
-2026-05-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
 
@@ -307,54 +363,6 @@ permalink: /news/elafibranor/
 2026-05-02 <span class="news-indication-tag">AF</span>
 
 來源：[Bored Panda](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkJuYlBRSmVMR0FidmxLUWx6MkN2c2VEUWEwVnpXVXB1RXh6a3JNa0ItRzQwN2VYdjlKSl8ycUV6WXZIN2xpT3c3Sm4zQk5STUhMOEE1UllucFktTFZHUmh2aVM1Y3lVT3JfSlZjRnhQaWhnQ1FYOUpPcWVRcGR1MlE4TkY2c2FoQkNDQVRQNXNUTUN3d0Rv?oc=5)
-
----
-
-### [« Ce sont les progrès de la recherche qui m’ont sauvé » : en rémission, il marche au profit de la Ligue contre le cancer - L'Est Républicain](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTU5acjkzX0hBMUZDQ1RnNXlhdTZCcWpsWmxLUzlHNnFTeTB4TFIxNlZoa2NGdHlQemZYd2FiT2JSQW90a2ZZS2s5VDZ2dE1HaW9GMTNueU9udjkwZlBtMF9INTdqbUZqRWYyNGJiVlVYQjAwckNURkM0Wk0zZVYxU0plbHRWdkVKLW1fNHN4ZWh6QW1rT1AydWxHZklBUEk0UU0xanlLM21aTjIzWkRCaTNJemRhUEZWWHFaOFUtbVhfZDVMT05sMmo5OWVvdUtGY1lGLUtiMFl3SmJ6ZFN5dHF3MGJnbFBWRGZmcnhZeFE1S3lpZ0dldlpKQ21EcHc?oc=5)
-
-2026-05-02 <span class="news-indication-tag">cancer</span>
-
-來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTU5acjkzX0hBMUZDQ1RnNXlhdTZCcWpsWmxLUzlHNnFTeTB4TFIxNlZoa2NGdHlQemZYd2FiT2JSQW90a2ZZS2s5VDZ2dE1HaW9GMTNueU9udjkwZlBtMF9INTdqbUZqRWYyNGJiVlVYQjAwckNURkM0Wk0zZVYxU0plbHRWdkVKLW1fNHN4ZWh6QW1rT1AydWxHZklBUEk0UU0xanlLM21aTjIzWkRCaTNJemRhUEZWWHFaOFUtbVhfZDVMT05sMmo5OWVvdUtGY1lGLUtiMFl3SmJ6ZFN5dHF3MGJnbFBWRGZmcnhZeFE1S3lpZ0dldlpKQ21EcHc?oc=5)
-
----
-
-### [« J’ai essayé de rendre utile mon cancer » : Yaël Braun-Pivet à Biscarrosse pour la bonne cause - Sud Ouest](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXNVR3BZUXYwNkpmWFFIN29mbTRKOVBEWnZpem5vR0VVZjA0c09JS18wV3Bzb3dsdE04S0MtbFlVb2NRRkFzdVJnQnNETWoxRUdhVkZqUkNzd3p3M0RPQ28xTzN6Nlg1amZBamVKVlZubnpLbjM0LU5uUmZRVExBNDRFMlE4dFdlMWhIMUcxcW1hU0xkZ3BCNVJMYS1nZF9GRVpFdVJNMmJxOXpDSzNfaEtCWWNxYUJFZmNZT21XUU1Fc2tjakxVU25UVVM3SFBvOFVTSDQzZzUxLVlDUDREbTlUUFllZWdJVVE?oc=5)
-
-2026-05-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXNVR3BZUXYwNkpmWFFIN29mbTRKOVBEWnZpem5vR0VVZjA0c09JS18wV3Bzb3dsdE04S0MtbFlVb2NRRkFzdVJnQnNETWoxRUdhVkZqUkNzd3p3M0RPQ28xTzN6Nlg1amZBamVKVlZubnpLbjM0LU5uUmZRVExBNDRFMlE4dFdlMWhIMUcxcW1hU0xkZ3BCNVJMYS1nZF9GRVpFdVJNMmJxOXpDSzNfaEtCWWNxYUJFZmNZT21XUU1Fc2tjakxVU25UVVM3SFBvOFVTSDQzZzUxLVlDUDREbTlUUFllZWdJVVE?oc=5)
-
----
-
-### [5 Standing Exercises That Flatten Apron Belly Faster Than Crunches After 50 - Eat This Not That](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUM3VktoRWxpVGZ3aWk2NTRLcjJzWWI3MHI2NU9Xal9zdXBDXzREakxyVk41X2dMUnlCUEd4Z2MwTzRtb2NPRUw0XzViNFAxbDZIUmF1TU1NeEhkR1Qtb1dXMkJNa3Q3UTN6ZHBodlZndjc4bUlmUWlFMUdONGRwYk85dUtRYnA4QWh0SmtB?oc=5)
-
-2026-05-02 <span class="news-indication-tag">AF</span>
-
-來源：[Eat This Not That](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUM3VktoRWxpVGZ3aWk2NTRLcjJzWWI3MHI2NU9Xal9zdXBDXzREakxyVk41X2dMUnlCUEd4Z2MwTzRtb2NPRUw0XzViNFAxbDZIUmF1TU1NeEhkR1Qtb1dXMkJNa3Q3UTN6ZHBodlZndjc4bUlmUWlFMUdONGRwYk85dUtRYnA4QWh0SmtB?oc=5)
-
----
-
-### [Alzheimer’s may begin decades before memory loss, new timeline shows](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0J3TGxhZXJMUFcwTFV0RnREZ29KSUhDWURDdXAtZlJUaWdYLWZld0NJRFp3NGJJcXd1WU8zWEtBamNHU3lKMTZiUkpWU2RvY2M2LTl6eDJMQTI3NjlmczBzVWdJUjZZVEtaajJMYkVpVWVrbzdMaGNWMnNLRGp5NGhKcDJSTGwwNVBuV0dMNmNEeGVDd0QzUTZ3?oc=5)
-
-2026-05-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0J3TGxhZXJMUFcwTFV0RnREZ29KSUhDWURDdXAtZlJUaWdYLWZld0NJRFp3NGJJcXd1WU8zWEtBamNHU3lKMTZiUkpWU2RvY2M2LTl6eDJMQTI3NjlmczBzVWdJUjZZVEtaajJMYkVpVWVrbzdMaGNWMnNLRGp5NGhKcDJSTGwwNVBuV0dMNmNEeGVDd0QzUTZ3?oc=5)
-
----
-
-### [Venus und die Plejaden - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo4OXZsVmlyX1B3blVjNG90bTVuR0doNXZOajFyeWZTc0RJRzVzSEgtbG5mQ3dvcm5mZEZfZkRPenRKM2ZlaGtFMHhCc2VDX21ZSGFSQXRjLWRPU2NOZ1NiTm1NZGpYM25Fd2o0blFKQ0dXa1l2MVFIelZWOUhJaHNPYjNSMWs?oc=5)
-
-2026-05-02 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo4OXZsVmlyX1B3blVjNG90bTVuR0doNXZOajFyeWZTc0RJRzVzSEgtbG5mQ3dvcm5mZEZfZkRPenRKM2ZlaGtFMHhCc2VDX21ZSGFSQXRjLWRPU2NOZ1NiTm1NZGpYM25Fd2o0blFKQ0dXa1l2MVFIelZWOUhJaHNPYjNSMWs?oc=5)
-
----
-
-### [«Melanoma, la prima difesa sono i vestiti»: sintomi e consigli per la prevenzione, non solo crema solare - Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTZTeXNiejl1ZHlIT2RmTm1TX0V3TDAyX2MyaEQwTDNSTE5YWmNrajhZLWNiYV9XcmNzYzdyOGFjaDJmTFdPTWY0ZkN6SExKLWNhTmFvY3FjdGE4Q0ZaNGNPd1JYTnZIZ2lIUVRXSEFzc2plcmVNcXlLOU9pRk5yN1N5ZkhMMjBvTHg3TWpvM2k2MFBScDM5T1ZWdUVDdDg?oc=5)
-
-2026-04-30 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTZTeXNiejl1ZHlIT2RmTm1TX0V3TDAyX2MyaEQwTDNSTE5YWmNrajhZLWNiYV9XcmNzYzdyOGFjaDJmTFdPTWY0ZkN6SExKLWNhTmFvY3FjdGE4Q0ZaNGNPd1JYTnZIZ2lIUVRXSEFzc2plcmVNcXlLOU9pRk5yN1N5ZkhMMjBvTHg3TWpvM2k2MFBScDM5T1ZWdUVDdDg?oc=5)
 
 ---
 

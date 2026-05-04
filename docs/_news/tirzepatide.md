@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Beyond Inflammation: Scientists Uncover New Cause of Persistent Rheumatoid Arthritis](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
 
 2026-05-04 <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
+
+---
+
+### [Langfristige Risiken von Mounjaro: Neue Studien werfen Fragen auf](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTRQXy15WFp0c3RBVi1IMjBHMVYybVdva1QzVkcwV2dGMS04aHF6ZWM4ZURsRGEwWXpiaFp3cDVwaFNWWmRfZjB1Z3gtUWlmUVI3cUt0QTd1QW1QNTF6MFhKcFIxM3lfcER0eDFjXzFfTU5vREJkU3h6bjU0cmpkNkxIWlJPb0ZYb051RE1vM2thTGx3MTN6ZTUxUEU?oc=5)
+
+2026-05-03 <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTRQXy15WFp0c3RBVi1IMjBHMVYybVdva1QzVkcwV2dGMS04aHF6ZWM4ZURsRGEwWXpiaFp3cDVwaFNWWmRfZjB1Z3gtUWlmUVI3cUt0QTd1QW1QNTF6MFhKcFIxM3lfcER0eDFjXzFfTU5vREJkU3h6bjU0cmpkNkxIWlJPb0ZYb051RE1vM2thTGx3MTN6ZTUxUEU?oc=5)
 
 ---
 

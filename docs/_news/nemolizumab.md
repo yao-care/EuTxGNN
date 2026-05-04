@@ -14,7 +14,7 @@ permalink: /news/nemolizumab/
 ---
 
 <p class="key-answer" data-question="Nemolizumab 有什麼相關新聞？">
-<strong>Nemolizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nemolizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/nemolizumab/
 <p><a href="{{ '/drugs/nemolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Fatigue trifft Blutzucker: Wie ME/CFS und Diabetes zusammenhängen - mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
+
+2026-05-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
+
+---
+
+### [DDZ-Studie: Erhöhter Glukagonspiegel bei neu diagnostiziertem Typ-2-Diabetes - mgo medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxONUx0QVJVVzl5SXVTclR2OVJ5ZW8wZnlnaWsyM0pFN1h5ZllJcEJ1Vk15TEhPZFR4TVhGQTVNVm9LaG5KLXlBc2owcjB6YXF6STB2TzVhck5GODRRaTdXVTdfdU41RWdCLWJUeWFOeEl1R0lRUnEzN0hQdnQwMVV5d09RUGZva2VkS0gySm5CVTVVQm1BRnMzOF9FR3N6UGRoOTFzUVRaTXIxbHZKY2hJNlpqWQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxONUx0QVJVVzl5SXVTclR2OVJ5ZW8wZnlnaWsyM0pFN1h5ZllJcEJ1Vk15TEhPZFR4TVhGQTVNVm9LaG5KLXlBc2owcjB6YXF6STB2TzVhck5GODRRaTdXVTdfdU41RWdCLWJUeWFOeEl1R0lRUnEzN0hQdnQwMVV5d09RUGZva2VkS0gySm5CVTVVQm1BRnMzOF9FR3N6UGRoOTFzUVRaTXIxbHZKY2hJNlpqWQ?oc=5)
+
+---
 
 ### [5-fach-Agonist gegen Adipositas und Diabetes - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/nemolizumab/
 2026-05-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
-
----
-
-### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
-
-2026-05-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
 
 ---
 

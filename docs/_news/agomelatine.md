@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Bessere kardiovaskuläre Fitness senkt das Risiko für Demenz und Depression](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWNGUFhSYWdWVkZ5aU4xeFpkbnBVSVlnTlJaOERwaU9GWVpTdkFxaHMycWhNYmtadnBZMmRjNFZVc1N0Vkl4ZWZUUUNSanN4TzhzV2xHOHRvNGR5N21MNFd6ZDFvYVAxTGdXekd0bHlhTDB5QUxLMW5HVUgxXzlzcFRJOXh3R1d5RVg5QmhUUjBJdHpNRUZMSENUd2R4MUdhN0E5NjR1ZDNxVXNR?oc=5)
+
+2026-05-04 <span class="news-indication-tag">depression</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWNGUFhSYWdWVkZ5aU4xeFpkbnBVSVlnTlJaOERwaU9GWVpTdkFxaHMycWhNYmtadnBZMmRjNFZVc1N0Vkl4ZWZUUUNSanN4TzhzV2xHOHRvNGR5N21MNFd6ZDFvYVAxTGdXekd0bHlhTDB5QUxLMW5HVUgxXzlzcFRJOXh3R1d5RVg5QmhUUjBJdHpNRUZMSENUd2R4MUdhN0E5NjR1ZDNxVXNR?oc=5)
+
+---
 
 ### [Family data reveal two genetic paths to childhood depression and anxiety - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
 
@@ -80,7 +88,7 @@ permalink: /news/agomelatine/
 
 ### [D'importantes différences entre les femmes et les hommes quant à l'expression de plus d'une centaine de gènes des cellules cérébrales !](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
 
-2026-05-03 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
+2026-05-03 <span class="news-indication-tag">dépression</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
 

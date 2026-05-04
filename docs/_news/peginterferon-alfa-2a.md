@@ -54,6 +54,30 @@ permalink: /news/peginterferon-alfa-2a/
 
 ## 相關新聞（10 則）
 
+### [Catorce españoles viajan a bordo del crucero de lujo con tres muertos por un brote de hantavirus - La Voz de Galicia](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV3B3U1pHV0gxRlhTemdFRkE3SkpHTVNOV0YxYk9Ca3ZzSVJwNUJRandfSnFCejMxWGdqYWxLQTkzdUdaaFVBbm1TajVQenNkRVM2bTZsNzY1WXFCdldpNjJtaTJaT3lSSzQ4ZTJ2V25fRkROODk4NEQ1ZnIwUThSMEtpakVEMGI5Wkl0SVl3aHNmeTlxSGJPeTRucWtoclFaakdTNnFRb0VlbFhOcGY0M2x2dXRTQXkwdUZBX2hlRmozODBzWkVONFZscVN4aVZRYnJ2c1d1NHNwMXJUTTNHb1FHZUV0bGlRMnNzanpYNA?oc=5)
+
+2026-05-04 <span class="news-indication-tag">MS</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV3B3U1pHV0gxRlhTemdFRkE3SkpHTVNOV0YxYk9Ca3ZzSVJwNUJRandfSnFCejMxWGdqYWxLQTkzdUdaaFVBbm1TajVQenNkRVM2bTZsNzY1WXFCdldpNjJtaTJaT3lSSzQ4ZTJ2V25fRkROODk4NEQ1ZnIwUThSMEtpakVEMGI5Wkl0SVl3aHNmeTlxSGJPeTRucWtoclFaakdTNnFRb0VlbFhOcGY0M2x2dXRTQXkwdUZBX2hlRmozODBzWkVONFZscVN4aVZRYnJ2c1d1NHNwMXJUTTNHb1FHZUV0bGlRMnNzanpYNA?oc=5)
+
+---
+
+### [WHO warnt: Hepatitis bleibt trotz Fortschritten eine globale Gesundheitsgefahr - Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
+
+---
+
+### [Epatite A a Napoli, le cozze del lago Fusaro di Bacoli saranno trasferite a Nisida](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
+
+2026-05-04 <span class="news-indication-tag">epatite</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
+
+---
+
 ### [Hoffnung für MS-Patienten: Neue Wirkstoffe reparieren geschädigte Nerven](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFFKUHBpRTRVRmtuNkJ5Q0lzZGJ6MER0dmwyRHlSOThOb1J4NXV2RWpOU21Fb0V1S2hoMzBpWEhoRmU3bXhKZWxhYi0zY0FpSFc0cDhfVVRKR2x2TzJpbExVQXhZTTJjbk5RT0FzUXVJN0tyM0QxQ2FIenVuYkw2bFRJYUNpZHJsbGZaSk53UnF0LUVKNXVrdFNJanVua2pHQzdYOXRmTHNnTWdaa1E?oc=5)
 
 2026-05-04 <span class="news-indication-tag">MS</span>
@@ -62,27 +86,19 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [Ancient Document Confirms “Legendary” African King Actually Existed](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
+
+2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
+
+---
+
 ### [Kojo Oppong Nkrumah labels planned transformer schedule as ‘dumsor timetable’](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQm5IdWl2WmdqVjlFRXR0NVdYSHVUc1lDcHBMeTQ1bWMyLUtsTklYMjRLY19WdF9ySmhZSExRaWg1TllBRGM2aVFJNm9rVHVhcTBJZUdHaUduTFBlUnc3d0ZycXBlYy1qdGxsWDFqMFI4V3pwX3ZkTExqbk5PQV92ZGZrWGt3SzNkN29Ccm5fTmVYSHRnTUJjSzdLU041cC1YQmRkaURZa3NtQmVQcTg5aUlPcE5fTF9RY3FnUWNhZXhvQV9EMDV5SFpZTTh4SzA?oc=5)
 
 2026-05-03 <span class="news-indication-tag">MS</span>
 
 來源：[GhanaWeb](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQm5IdWl2WmdqVjlFRXR0NVdYSHVUc1lDcHBMeTQ1bWMyLUtsTklYMjRLY19WdF9ySmhZSExRaWg1TllBRGM2aVFJNm9rVHVhcTBJZUdHaUduTFBlUnc3d0ZycXBlYy1qdGxsWDFqMFI4V3pwX3ZkTExqbk5PQV92ZGZrWGt3SzNkN29Ccm5fTmVYSHRnTUJjSzdLU041cC1YQmRkaURZa3NtQmVQcTg5aUlPcE5fTF9RY3FnUWNhZXhvQV9EMDV5SFpZTTh4SzA?oc=5)
-
----
-
-### [‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS1XcGZpUTI1NDdiMWtpU2E2cTBWNDlwWTFHVWhEaGt1QV9tT3AwS2k5ZWs3ajcwZlFTZEw4emdmeVVlbGh0ZUJLYlRLeExhajJOSlc1SldkZVRfZG1KXzBmaVpDNER1TUVWemluaDBXSjAtaU5oTDMySGZwb0RzR2VmdXQ0Y0hrTUtzRDJQRmFoc1ZPVUE?oc=5)
-
-2026-05-03 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS1XcGZpUTI1NDdiMWtpU2E2cTBWNDlwWTFHVWhEaGt1QV9tT3AwS2k5ZWs3ajcwZlFTZEw4emdmeVVlbGh0ZUJLYlRLeExhajJOSlc1SldkZVRfZG1KXzBmaVpDNER1TUVWemluaDBXSjAtaU5oTDMySGZwb0RzR2VmdXQ0Y0hrTUtzRDJQRmFoc1ZPVUE?oc=5)
-
----
-
-### [Heart doctor shares warning over food ‘worse than smoking’ that decreases lifespan](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUZsWC1ydGN3cDhjM2dzQldJYkJvQV9hSW5sSVNEYVhMM1ZabEdIQ1hNUTI4OXVDSEhxQ3B4V2VhYUpwaUdiaWpQTkxvS3ZKb1NPcnE2Qk1KUUw0MUN2MmhZbFdGOWk5b2FvX0dDdkpEcHlnVWRKVkI0SnpLUXJvdFlPUDM2emExbXBSaDBZZVJfWUE?oc=5)
-
-2026-05-03 <span class="news-indication-tag">MS</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUZsWC1ydGN3cDhjM2dzQldJYkJvQV9hSW5sSVNEYVhMM1ZabEdIQ1hNUTI4OXVDSEhxQ3B4V2VhYUpwaUdiaWpQTkxvS3ZKb1NPcnE2Qk1KUUw0MUN2MmhZbFdGOWk5b2FvX0dDdkpEcHlnVWRKVkI0SnpLUXJvdFlPUDM2emExbXBSaDBZZVJfWUE?oc=5)
 
 ---
 
@@ -102,14 +118,6 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [D'importantes différences entre les femmes et les hommes quant à l'expression de plus d'une centaine de gènes des cellules cérébrales !](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
-
-2026-05-03 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
-
----
-
 ### [Northamptonshire MS charity plea for more volunteers and support](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWxPc3JmSEhxV3pMVXdidjREallWcU9Tdl9UcjRRbWpGR09NR1pLM3h6bUh2MVB4TDJCbkt3VHFnSFoxczZjOU5zaWlqcktvVkdmYVo0QkFzVjNs?oc=5)
 
 2026-05-03 <span class="news-indication-tag">MS</span>
@@ -118,19 +126,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [The Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
+### [There’s a new golden rule for strength training – expert coaches reveal everything you need to know - The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWxWM1ZyaXBRd0VHNGQxbnZQWXp0UFozbEE0bURsOVN4UFB1MnN1RnpEMG83NjAyejVYMlhMME5kR0gxcHRDN2xFVXcwZkJJQnQ4ckhaMmVwVHhKaHJfN3JtTjdPYlR1dWNsMDVoZGluNEtRcGNOTFAxVm9zRjJ1WmxGSGZHdDBqYjRFazFaWVFHSnR0OEdOcA?oc=5)
 
-2026-05-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-05-03 <span class="news-indication-tag">MS</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
-
----
-
-### [Alzheimer’s may begin decades before memory loss, new timeline shows](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0J3TGxhZXJMUFcwTFV0RnREZ29KSUhDWURDdXAtZlJUaWdYLWZld0NJRFp3NGJJcXd1WU8zWEtBamNHU3lKMTZiUkpWU2RvY2M2LTl6eDJMQTI3NjlmczBzVWdJUjZZVEtaajJMYkVpVWVrbzdMaGNWMnNLRGp5NGhKcDJSTGwwNVBuV0dMNmNEeGVDd0QzUTZ3?oc=5)
-
-2026-05-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Earth.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0J3TGxhZXJMUFcwTFV0RnREZ29KSUhDWURDdXAtZlJUaWdYLWZld0NJRFp3NGJJcXd1WU8zWEtBamNHU3lKMTZiUkpWU2RvY2M2LTl6eDJMQTI3NjlmczBzVWdJUjZZVEtaajJMYkVpVWVrbzdMaGNWMnNLRGp5NGhKcDJSTGwwNVBuV0dMNmNEeGVDd0QzUTZ3?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWxWM1ZyaXBRd0VHNGQxbnZQWXp0UFozbEE0bURsOVN4UFB1MnN1RnpEMG83NjAyejVYMlhMME5kR0gxcHRDN2xFVXcwZkJJQnQ4ckhaMmVwVHhKaHJfN3JtTjdPYlR1dWNsMDVoZGluNEtRcGNOTFAxVm9zRjJ1WmxGSGZHdDBqYjRFazFaWVFHSnR0OEdOcA?oc=5)
 
 ---
 

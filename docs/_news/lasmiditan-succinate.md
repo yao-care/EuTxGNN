@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
+
+2026-05-04 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
+
+---
 
 ### [Zusammenhang zwischen Heuschnupfen und Migräne](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
 
