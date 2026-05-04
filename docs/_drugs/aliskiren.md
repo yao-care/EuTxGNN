@@ -1,143 +1,115 @@
 ---
 layout: default
 title: Aliskiren
-description: "aliskiren drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
-parent: Phase 3+ Evidence (L1)
-nav_order: 30
-evidence_level: L1
-indication_count: 50
+parent: 僅模型預測 (L5)
+nav_order: 37
+evidence_level: L5
+indication_count: 10
 ---
 
 # Aliskiren
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Aliskiren: From Hypertension to Pulmonary Hypertension owing to Lung Disease and/or Hypoxia
+
+## One-Sentence Summary
+
+Aliskiren is the first orally active direct renin inhibitor, used clinically for the treatment of arterial hypertension by blocking the rate-limiting step of the renin-angiotensin-aldosterone system (RAAS).
+The TxGNN model predicts it may be effective for **pulmonary hypertension owing to lung disease and/or hypoxia**,
+with **no clinical trials** and **20 publications** retrieved — however, none of the publications directly investigate Aliskiren in this indication, leaving the prediction without specific clinical or preclinical support.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Aliskiren |
-| DrugBank ID | [DB09026](https://go.drugbank.com/drugs/DB09026) |
-| Brand Names (EU) | Rasilez |
-| Evidence Level | L1 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.98% |
+| Item | Content |
+|------|---------|
+| Original Indication | Hypertension (direct renin inhibitor; not registered in Taiwan) |
+| Predicted New Indication | Pulmonary Hypertension owing to Lung Disease and/or Hypoxia |
+| TxGNN Prediction Score | 99.98% |
+| Evidence Level | L5 |
+| Taiwan Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment of essential hypertension.
+Detailed mechanism of action data was not available in this Evidence Pack. Based on pharmacological class, Aliskiren is a direct renin inhibitor — the first in its class to receive clinical approval. It acts at the most upstream point of the RAAS by binding directly to renin and blocking its catalytic activity, thereby suppressing the generation of angiotensin I, and consequently angiotensin II (Ang II) and aldosterone. Ang II is known to induce pulmonary vasoconstriction via AT1 receptors, which provides the theoretical basis for the TxGNN model's prediction.
 
----
+Pulmonary hypertension owing to lung disease and/or hypoxia (WHO Group 3 PH) develops primarily through hypoxic pulmonary vasoconstriction (HPV) and hypoxia-driven vascular remodeling mediated by the HIF-1α/endothelin-1 axis. Unlike renovascular or essential hypertension — where RAAS is the dominant driver — Group 3 PH is governed by oxygen-sensing pathways. RAAS plays only a secondary, modulatory role in this disease context. While Ang II contributes to pulmonary vascular tone, renin inhibition alone is unlikely to adequately address the underlying HIF-1α-driven remodeling and right ventricular pressure overload that characterize this condition.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | hypertensive disorder | 99.98% | DL |
-| 2 | pulmonary hypertension owing to lung disease and/or hypoxia | 99.98% | DL |
-| 3 | pulmonary hypertension with unclear multifactorial mechanism | 99.98% | DL |
-| 4 | malignant hypertensive renal disease | 99.98% | DL |
-| 5 | malignant renovascular hypertension | 99.98% | DL |
-| 6 | Braddock syndrome | 99.97% | DL |
-| 7 | chronic pulmonary heart disease | 99.78% | DL |
-| 8 | cerebrovascular disorder | 99.19% | DL |
-| 9 | obsolete susceptibility to ischemic stroke | 98.78% | DL |
-| 10 | brain stem infarction | 97.97% | DL |
-| 11 | intracerebral hemorrhage | 96.69% | DL |
-| 12 | hypotrichosis simplex of the scalp | 96.63% | DL |
-| 13 | cerebral artery occlusion | 96.19% | DL |
-| 14 | MRI defined brain infarct | 95.73% | DL |
-| 15 | congenital hypotrichosis milia | 95.52% | DL |
-| 16 | ABri amyloidosis | 94.79% | DL |
-| 17 | cerebral infarction | 94.29% | DL |
-| 18 | alopecia | 93.37% | DL |
-| 19 | diffuse alopecia areata | 92.82% | DL |
-| 20 | cerebral arterial disease | 90.04% | DL |
-
-*Showing top 20 of 50 predictions.*
+The 20 retrieved publications address general hypoxia biology — neurological effects, tumor microenvironment, immunity — without any paper examining Aliskiren in pulmonary hypertension or lung disease models. The mechanistic link therefore remains theoretical and extremely weak, insufficient to support advancement beyond AI model prediction at this time.
 
 ---
 
+## Clinical Trial Evidence
 
----
-## Clinical Evidence
-
-The following indications have supporting clinical evidence:
-
-| Indication | Level | Trials | Articles | Summary |
-|------------|:-----:|:------:|:--------:|---------|
-| hypertensive disorder | L1 | 20 | 0 | 9 Phase 3 trial(s), 1 Phase 2 trial(s) |
-
----
-## About TxGNN Predictions
-
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered for Aliskiren in pulmonary hypertension owing to lung disease and/or hypoxia.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+All 20 retrieved publications address general hypoxia biology and are not specific to Aliskiren or pulmonary hypertension from lung disease. The 10 most contextually relevant entries are listed below for background reference.
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|------|------|---------|-------------|
+| [11172576](https://pubmed.ncbi.nlm.nih.gov/11172576/) | 2000 | Review | Respiratory Care Clinics | Reviews four mechanisms of hypoxemia (hypoventilation, V/Q mismatch, right-to-left shunt, diffusion impairment) directly relevant to Group 3 PH pathophysiology; does not address Aliskiren |
+| [21328446](https://pubmed.ncbi.nlm.nih.gov/21328446/) | 2011 | Review | Journal of Cellular Biochemistry | Oxygen sensing governs angiogenesis, vascular disease, and pH homeostasis; overview of HIF pathway and hypoxia-related disease mechanisms; does not address Aliskiren |
+| [28972206](https://pubmed.ncbi.nlm.nih.gov/28972206/) | 2017 | Review | Nature Reviews Immunology | Hypoxia regulates innate and adaptive immunity in physiological and pathological niches; relevant to vascular remodeling context; does not address Aliskiren |
+| [27423661](https://pubmed.ncbi.nlm.nih.gov/27423661/) | 2016 | Review | Cell and Tissue Research | HIF-1-mediated adaptation drives tissue repair; chronic hypoxia shifts balance toward pathological fibrosis and vascular remodeling; does not address Aliskiren |
+| [34535359](https://pubmed.ncbi.nlm.nih.gov/34535359/) | 2021 | Review | Clinical Oncology | Tumor hypoxia induces resistance to radiation and immunotherapy; discusses strategies to therapeutically modify hypoxia; does not address Aliskiren |
+| [39841808](https://pubmed.ncbi.nlm.nih.gov/39841808/) | 2025 | Review | Science Translational Medicine | Chronic continuous hypoxia shows preclinical benefits in mitochondrial disease and ischemia models; translation to patients faces major safety barriers; does not address Aliskiren |
+| [33862277](https://pubmed.ncbi.nlm.nih.gov/33862277/) | 2021 | Review | Ageing Research Reviews | Hypoxia is pivotal in Alzheimer's and other neurodegenerative diseases; reduced ambient oxygen may exert protective effects in aging; does not address Aliskiren |
+| [40963621](https://pubmed.ncbi.nlm.nih.gov/40963621/) | 2025 | Review | Frontiers in Immunology | HIF-1α mediates shared molecular mechanisms across tumor progression and autoimmune disease; does not address Aliskiren |
+| [34618295](https://pubmed.ncbi.nlm.nih.gov/34618295/) | 2022 | Review | Metabolic Brain Disease | Acute and chronic hypoxia cause neurological deficits including cognitive dysfunction; reviews clinical and molecular evidence; does not address Aliskiren |
+| [37915135](https://pubmed.ncbi.nlm.nih.gov/37915135/) | 2023 | Review | BMB Reports | CMGC kinases regulate HIF abundance in tumor hypoxia, with implications for angiogenesis and therapy resistance; does not address Aliskiren |
 
 ---
 
-## Citation
+## Safety Considerations
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Please refer to the SmPC for safety information.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Despite a very high TxGNN prediction score (99.98%), the mechanistic link between renin inhibition and Group 3 pulmonary hypertension is weak — the core pathophysiology (hypoxic pulmonary vasoconstriction and HIF-1α/ET-1-driven vascular remodeling) is not primarily RAAS-dependent, no clinical trials or Aliskiren-specific literature support this indication, and known safety signals from the ALTITUDE trial (increased renal and cardiovascular events with RAAS blockade in high-risk patients) counsel caution before pursuing new indications.
+
+**To proceed, the following is needed:**
+- Preclinical studies in hypoxia-exposed animal models of pulmonary hypertension to test whether renin inhibition reduces right ventricular pressure or pulmonary vascular remodeling
+- Mechanistic research quantifying the contribution of RAAS/renin to Group 3 PH relative to HIF-1α and ET-1 pathways
+- TFDA SmPC review (warnings, contraindications, drug interactions) to complete the safety profile
+- MOA data from DrugBank API to confirm pharmacological target, receptor selectivity, and off-target activity relevant to pulmonary vasculature
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

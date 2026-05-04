@@ -1,132 +1,104 @@
 ---
 layout: default
 title: Abaloparatide
-description: "Abaloparatide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 11
+parent: 僅模型預測 (L5)
+nav_order: 13
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Abaloparatide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Abaloparatide: From Osteoporosis to Non-Syndromic Esophageal Malformation
+
+## One-Sentence Summary
+
+Abaloparatide is a synthetic analog of parathyroid hormone-related protein (PTHrP), acting as a PTH1R agonist primarily developed for osteoporosis treatment in postmenopausal women at high fracture risk.
+The TxGNN model predicts it may be effective for **Non-Syndromic Esophageal Malformation**,
+however, with **0 clinical trials** and **0 publications** currently supporting this direction, evidence remains at the model-prediction level only.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Abaloparatide |
-| DrugBank ID | [DB05084](https://go.drugbank.com/drugs/DB05084) |
-| Brand Names (EU) | Eladynos |
+| Item | Content |
+|------|---------|
+| Original Indication | Osteoporosis (not registered in Taiwan; known global use) |
+| Predicted New Indication | Non-Syndromic Esophageal Malformation |
+| TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.84% |
+| Taiwan Market Status | ✗ Not Marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why Is This Prediction Reasonable?
 
-Treatment of osteoporosis in postmenopausal women at increased risk of fracture.
+Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Abaloparatide (brand name Tymlos) is a synthetic PTHrP analog that selectively activates PTH1R (parathyroid hormone receptor type 1), driving anabolic bone formation. Its proven efficacy in osteoporosis rests on stimulating osteoblast activity and increasing bone mineral density.
 
----
+The mechanistic rationale proposed for the top predicted indication — non-syndromic esophageal malformation — is that PTHrP is expressed in fetal esophageal smooth muscle during embryonic development, where it regulates smooth muscle relaxation and tissue differentiation. In theory, PTH1R signalling could influence the structural development of the esophagus. However, esophageal malformations are congenital structural defects established during organogenesis; there is no pharmacological intervention window after birth, and the post-natal administration of Abaloparatide cannot correct structural anomalies already present at birth. The high TxGNN score is therefore most likely a false positive arising from PTHrP's broad tissue expression creating spurious knowledge-graph edges.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | non-syndromic esophageal malformation | 99.84% | DL |
-| 2 | esophageal disease | 99.75% | DL |
-| 3 | amenorrhea (disease) | 99.72% | DL |
-| 4 | esophageal ulcer | 99.02% | DL |
-| 5 | migraine disorder | 98.88% | DL |
-| 6 | migraine with brainstem aura | 98.75% | DL |
-| 7 | severe nonproliferative diabetic retinopathy | 98.09% | DL |
-| 8 | pseudo-von Willebrand disease | 97.42% | DL |
-| 9 | primary release disorder of platelets | 97.38% | DL |
-| 10 | biotin metabolic disease | 97.27% | DL |
-| 11 | esotropia | 97.24% | DL |
-| 12 | injury | 97.20% | DL |
-| 13 | vitamin deficiency disorder | 96.80% | DL |
-| 14 | Glanzmann thrombasthenia | 96.69% | DL |
-| 15 | Raynaud disease | 96.37% | DL |
-| 16 | duodenal ulcer (disease) | 96.17% | DL |
-| 17 | radiation or chemically induced disorder | 96.12% | DL |
-| 18 | segmental odontomaxillary dysplasia | 96.09% | DL |
-| 19 | florid cemento-osseous dysplasia | 96.09% | DL |
-| 20 | perinatal disease | 96.09% | DL |
-
-*Showing top 20 of 50 predictions.*
+Among the top 10 predicted indications in this pack, two signals carry more biologically coherent (though still unproven) rationales: **migraine disorder** (rank #5, 98.88%), where PTHrP shares calcitonin superfamily membership with CGRP — a validated migraine target — and **amenorrhea** (rank #3, 99.72%), where PTHrP is a known physiological mediator of lactational amenorrhea via GnRH suppression. Both remain at L5 and would require dedicated preclinical studies before any further development.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered for any of the 10 predicted indications.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available for any of the 10 predicted indications.
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
 ---
 
-## Citation
+## Conclusion and Next Steps
 
-If using this data, please cite:
+**Decision: Hold**
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+**Rationale:**
+The highest-ranked predicted indication (non-syndromic esophageal malformation) represents a congenital structural defect where pharmacological intervention is mechanistically implausible; all 10 predicted indications carry zero supporting clinical or preclinical evidence, placing the entire candidate set at L5. Without Taiwan regulatory data, basic safety parameters are also unverifiable.
+
+**To proceed, the following is needed:**
+
+- Retrieve MOA data from DrugBank (DB05084) to enable mechanistic plausibility scoring
+- Download and parse the Taiwan TFDA SmPC (or US FDA label for Tymlos) to assess warnings, contraindications, and known adverse effects before any repurposing evaluation can advance past S0
+- If pursuing the **migraine** signal (rank #5): conduct a focused literature review on PTHrP vs. CGRP receptor selectivity overlap and cross-reactivity studies; confirm whether any PTH1R agonist has shown CGRP-R activity
+- If pursuing the **amenorrhea** signal (rank #3): clarify whether the intended use case is induction or suppression of menstruation, as the existing PTHrP–GnRH axis literature supports suppression (lactational amenorrhea), not restoration
+- Upgrade at least one indication from L5 to L4 through identification of relevant preclinical or mechanistic publications before re-evaluation
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

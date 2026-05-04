@@ -1,132 +1,110 @@
 ---
 layout: default
 title: Aflibercept
-description: "Aflibercept drug repurposing predictions from TxGNN. Evidence level L5 with 54 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 21
+parent: 僅模型預測 (L5)
+nav_order: 26
 evidence_level: L5
-indication_count: 54
+indication_count: 10
 ---
 
 # Aflibercept
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **54**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Aflibercept: From Neovascular Ocular Disease to Esotropia
+
+## One-Sentence Summary
+
+Aflibercept is a recombinant VEGF Trap biologic, internationally approved for neovascular ocular conditions (wet AMD, diabetic macular edema) and metastatic colorectal cancer, but currently not marketed in Taiwan.
+The TxGNN model predicts it may be effective for **Esotropia** (inward eye deviation),
+however with **0 clinical trials** and **0 publications** directly supporting this direction, this remains an AI-only prediction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Aflibercept |
-| DrugBank ID | [DB08885](https://go.drugbank.com/drugs/DB08885) |
-| Brand Names (EU) | Eyluxvi, Opuviz, Yesafili, Zaltrap |
+| Item | Content |
+|------|---------|
+| Original Indication | Not registered in Taiwan; internationally approved for wet AMD, DME, and mCRC |
+| Predicted New Indication | Esotropia |
+| TxGNN Prediction Score | 99.38% |
 | Evidence Level | L5 |
-| Predicted Indications | 54 |
-| Top Prediction Score | 99.38% |
+| Taiwan Market Status | Not marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Treatment of metastatic colorectal cancer (MCRC).
+Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Aflibercept (Eylea / Zaltrap) is a recombinant fusion protein consisting of the extracellular domains of VEGFR1 and VEGFR2 fused to the Fc region of human IgG1. It functions as a high-affinity "VEGF Trap," binding VEGF-A, VEGF-B, and placental growth factor (PlGF), thereby blocking angiogenesis driven by these ligands. This mechanism has been validated in wet AMD, diabetic macular edema, macular edema following retinal vein occlusion, and (as ziv-aflibercept) metastatic colorectal cancer.
 
----
+Esotropia is a form of strabismus where one or both eyes deviate inward. Its primary etiology is neuromuscular — involving imbalance in extraocular muscle control, refractive error (accommodative esotropia), or cranial nerve palsy — none of which are VEGF-mediated processes. Standard treatments are surgical realignment, optical correction, and prism therapy. While VEGF has been implicated as a secondary factor in retinopathy of prematurity (ROP), which can cause cicatricial strabismus, this represents an indirect, limited connection rather than a direct therapeutic target.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | esotropia | 99.38% | DL |
-| 2 | esophageal varices with bleeding | 97.56% | DL |
-| 3 | esophageal varices without bleeding | 97.56% | DL |
-| 4 | varicose disease | 96.95% | DL |
-| 5 | urethral calculus | 95.97% | DL |
-| 6 | adenosine deaminase deficiency | 95.76% | DL |
-| 7 | hemorrhagic disease of newborn | 95.56% | DL |
-| 8 | ectomesenchymoma | 94.52% | DL |
-| 9 | malignant cutaneous granular cell skin tumor | 94.51% | DL |
-| 10 | middle ear neuroendocrine tumor | 94.42% | DL |
-| 11 | reticular dysgenesis | 94.34% | DL |
-| 12 | severe combined immunodeficiency due to LCK deficiency | 94.19% | DL |
-| 13 | human herpesvirus 8-related tumor | 94.13% | DL |
-| 14 | lung fibrosis-immunodeficiency-46,XX gonadal dysgenesis syndrome | 93.68% | DL |
-| 15 | non-severe combined immunodeficiency | 93.24% | DL |
-| 16 | T-B+ severe combined immunodeficiency due to CD45 deficiency | 93.07% | DL |
-| 17 | anemia of prematurity | 93.01% | DL |
-| 18 | T-B+ severe combined immunodeficiency due to gamma chain deficiency | 93.00% | DL |
-| 19 | Immunoerythromyeloid hypoplasia | 92.99% | DL |
-| 20 | lipoma of the conjunctiva | 92.45% | DL |
-
-*Showing top 20 of 54 predictions.*
+The high TxGNN score (99.38%) most likely reflects Aflibercept's strong graph-network proximity to the ophthalmic disease domain in the knowledge graph, rather than a specific biologically plausible mechanism for esotropia. The mechanistic link, as assessed in the evidence pack's own rationale, is rated as extremely weak, with no direct VEGF-driven pathological pathway identified.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered for Aflibercept in esotropia.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available for Aflibercept in esotropia.
 
 ---
 
-## Data Access
+## Taiwan Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Aflibercept is currently **not marketed in Taiwan**. No TFDA marketing authorizations are on record for this drug.
 
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> Note: Internationally, Aflibercept is marketed as **Eylea** (ophthalmic, Bayer/Regeneron) for wet AMD and retinal conditions, and as **Zaltrap** (intravenous, Sanofi) for metastatic colorectal cancer. Taiwan-specific regulatory status should be confirmed directly with TFDA.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Taiwan TFDA package insert data (warnings and contraindications) was not available at the time of this report generation. Please refer to the internationally approved SmPC / prescribing information for safety guidance.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Despite a high TxGNN model score, the mechanistic connection between Aflibercept's anti-VEGF action and esotropia is weak — esotropia is primarily a neuromuscular eye alignment disorder without an established VEGF-driven pathological pathway. With zero supporting clinical trials or publications, and no Taiwan regulatory approval, this prediction does not meet the minimum threshold for further development at this time.
+
+**To proceed, the following is needed:**
+- Identification of a mechanistically justifiable esotropia subtype (e.g., ROP-associated strabismus with documented VEGF involvement) where anti-VEGF treatment could plausibly modify disease course
+- Retrieval of Aflibercept's full MOA data from DrugBank API to confirm receptor binding profile
+- Download and parsing of Taiwan TFDA package insert PDF to assess local safety profile and contraindications
+- At minimum one published case report or preclinical study demonstrating anti-VEGF effects on ocular alignment before escalating to evidence collection
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

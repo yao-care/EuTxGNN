@@ -1,132 +1,120 @@
 ---
 layout: default
 title: Anagrelide
-description: "Anagrelide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 37
+parent: 僅模型預測 (L5)
+nav_order: 47
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Anagrelide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Anagrelide: From Essential Thrombocythemia to Reactive Thrombocytosis
+
+## One-Sentence Summary
+
+Anagrelide is a selective PDE3 inhibitor used to reduce platelet counts in patients with essential thrombocythemia (ET), a clonal myeloproliferative neoplasm.
+The TxGNN model predicts it may be effective for **Reactive Thrombocytosis**,
+with **0 clinical trials** and **10 publications** currently supporting this direction — though existing literature discusses reactive thrombocytosis primarily as a differential diagnosis for ET, not as a direct therapeutic target.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Anagrelide |
-| DrugBank ID | [DB00261](https://go.drugbank.com/drugs/DB00261) |
-| Brand Names (EU) | Xagrid |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.89% |
+| Item | Content |
+|------|------|
+| Original Indication | Essential Thrombocythemia (clonal myeloproliferative neoplasm) |
+| Predicted New Indication | Reactive Thrombocytosis |
+| TxGNN Prediction Score | 99.83% |
+| Evidence Level | L4 |
+| Taiwan Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Xagrid is indicated for the reduction of elevated platelet counts in at-risk essential-thrombocythaemia (ET) patients who are intolerant to their current therapy or whose elevated platelet counts are not reduced to an acceptable level by their current therapy. An at-risk patient An at-risk ET is defined by one or more of the following features:  &gt;60 years of age or; a platelet count &gt;1000 x 109/l or; a history of thrombohaemorrhagic events.
+Anagrelide works by inhibiting phosphodiesterase type 3 (PDE3) in megakaryocytes. This raises intracellular cyclic AMP (cAMP) levels, which disrupts megakaryocyte maturation and differentiation, resulting in fewer platelets being released into circulation. Critically, this mechanism is fundamentally "platelet count–lowering" and does not distinguish between clonal and reactive origins of thrombocytosis — meaning that, in principle, the drug's action could extend to any condition involving abnormally elevated platelet counts.
 
----
+The predicted new indication, reactive thrombocytosis, shares the core phenotype of elevated platelet counts with essential thrombocythemia. The biological plausibility is therefore not unreasonable: if cAMP-mediated inhibition of megakaryocyte maturation lowers platelet production in ET, it could theoretically do the same in reactive settings. One case report in the literature (PMID 29851840) even describes Anagrelide being administered peri-operatively to manage extreme post-splenectomy thrombocytosis — a reactive form — suggesting occasional off-label use in specific surgical contexts.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | familial thrombocytosis | 99.89% | DL |
-| 2 | reactive thrombocytosis | 99.83% | DL |
-| 3 | inverse Klippel-Trenaunay syndrome | 99.59% | DL |
-| 4 | thrombocythemia | 99.52% | DL |
-| 5 | dermatofibrosarcoma protuberans | 98.91% | DL |
-| 6 | rheumatoid arthritis | 98.86% | DL |
-| 7 | rheumatoid factor-positive polyarticular juvenile idiopathic arthritis | 98.50% | DL |
-| 8 | juvenile idiopathic arthritis | 98.48% | DL |
-| 9 | osteoarthritis | 98.45% | DL |
-| 10 | pseudoachondroplasia | 98.45% | DL |
-| 11 | rheumatoid nodulosis | 98.14% | DL |
-| 12 | juvenile chronic polyarthritis | 98.12% | DL |
-| 13 | osteoarthritis susceptibility | 97.83% | DL |
-| 14 | brachydactyly-syndactyly syndrome | 97.81% | DL |
-| 15 | acromesomelic dysplasia, Hunter-Thompson type | 97.50% | DL |
-| 16 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 97.50% | DL |
-| 17 | juvenile arthritis due to defect in LACC1 | 97.35% | DL |
-| 18 | myosclerosis | 97.25% | DL |
-| 19 | brachyolmia-amelogenesis imperfecta syndrome | 97.14% | DL |
-| 20 | brachyolmia | 97.05% | DL |
-
-*Showing top 20 of 50 predictions.*
+However, the clinical rationale is substantially different from ET. Reactive thrombocytosis is a secondary, typically self-limiting response to underlying triggers such as infection, inflammatory disease, iron deficiency, or tissue trauma. Standard clinical guidance does not recommend direct platelet-lowering therapy in this setting, as the elevated platelets rarely cause thrombotic events and resolve once the primary cause is treated. None of the 10 identified publications specifically evaluate Anagrelide as a treatment for reactive thrombocytosis as a primary indication.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
-
----
-
-## Data Access
-
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [15270658](https://pubmed.ncbi.nlm.nih.gov/15270658/) | 2004 | Review | Expert Rev Anticancer Ther | Drug profile of Anagrelide: PDE3 inhibition reduces platelet production; notes reactive thrombocytosis as a condition not requiring intervention, distinguishing it from clonal thrombocytosis |
+| [16019501](https://pubmed.ncbi.nlm.nih.gov/16019501/) | 2005 | Systematic Review | Leukemia & Lymphoma | Critical review of Anagrelide in ET; randomized trial showed hydroxyurea superior; reactive thrombocytosis discussed as distinct entity requiring no cytoreductive therapy |
+| [10494240](https://pubmed.ncbi.nlm.nih.gov/10494240/) | 1999 | Review | Med J Australia | ET management overview; diagnosis requires exclusion of reactive thrombocytosis; platelet-lowering therapy (including Anagrelide) recommended for ET with counts >1000×10⁹/L |
+| [1994734](https://pubmed.ncbi.nlm.nih.gov/1994734/) | 1991 | Review | Am J Med Sci | Clinical spectrum of thrombocytosis; reviews cytokine regulation of megakaryopoiesis; distinguishes pseudothrombocytosis, reactive thrombocytosis, and essential thrombocythemia |
+| [28380402](https://pubmed.ncbi.nlm.nih.gov/28380402/) | 2017 | Review | Leukemia Research | Role of thrombocytapheresis for hyperthrombocytosis in myeloproliferative neoplasms; Anagrelide cited as cytoreductive maintenance option; thrombocytapheresis reserved for emergent platelet reduction |
+| [17171694](https://pubmed.ncbi.nlm.nih.gov/17171694/) | 2007 | Retrospective Cohort | Pediatric Blood & Cancer | Pediatric ET vs. reactive thrombocythemia in 12 cases; Anagrelide used as treatment for confirmed ET cases; reactive thrombocytosis managed conservatively |
+| [38455691](https://pubmed.ncbi.nlm.nih.gov/38455691/) | 2024 | Case Report | Eur J Case Rep Intern Med | Acute MI in ET patient on Anagrelide; highlights residual thrombotic risk despite platelet control; raises concern about cardiovascular safety of Anagrelide |
+| [29851840](https://pubmed.ncbi.nlm.nih.gov/29851840/) | 2018 | Case Report | Medicine | Digit replantation in post-splenectomy thrombocytosis patient; Anagrelide used peri-operatively to manage extreme reactive thrombocytosis in a surgical context — most direct example of reactive thrombocytosis use |
+| [27276864](https://pubmed.ncbi.nlm.nih.gov/27276864/) | 2016 | Case Report | Srpski arhiv | ET co-existing with ankylosing spondylitis; reactive mild thrombocytosis common in AS; Anagrelide used for the concurrent ET component |
+| [7783354](https://pubmed.ncbi.nlm.nih.gov/7783354/) | 1995 | Review | Rinsho Ketsueki | Japanese ET diagnosis and treatment guidelines; Anagrelide listed as megakaryocyte suppressor alongside busulfan, hydroxyurea, and IFN-α; reactive thrombocytosis delineated in differential diagnosis |
 
 ---
 
-## Citation
+## Taiwan Market Information
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+Anagrelide is currently not approved for marketing in Taiwan (0 authorizations on record). No product licenses are available for review.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Although Anagrelide's PDE3/cAMP mechanism is biologically capable of lowering platelet counts regardless of etiology, reactive thrombocytosis is a self-limiting secondary condition for which cytoreductive therapy is not standard practice — the priority is treating the underlying cause, not the platelet count itself. The available literature provides no clinical trial data and only indirect, differential-diagnosis–level discussion of reactive thrombocytosis in the context of Anagrelide use.
+
+**To proceed, the following is needed:**
+- Define a specific high-risk reactive thrombocytosis subpopulation where direct platelet reduction is clinically justified (e.g., extreme post-splenectomy thrombocytosis, prolonged reactive thrombocytosis with symptomatic thromboembolism risk, surgical/peri-operative settings)
+- Obtain full MOA documentation from DrugBank (PDE3 inhibition pathway, cAMP cascade details)
+- Obtain Taiwan prescribing information: key warnings, contraindications, and drug interactions (currently all absent)
+- Conduct a targeted literature search for Anagrelide in post-splenectomy or surgery-related reactive thrombocytosis specifically, as PMID 29851840 suggests this niche may have precedent
+- If niche is confirmed, design a small prospective case series before committing to a full clinical repurposing program
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

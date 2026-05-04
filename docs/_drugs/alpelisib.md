@@ -1,132 +1,133 @@
 ---
 layout: default
 title: Alpelisib
-description: "Alpelisib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 32
+parent: 僅模型預測 (L5)
+nav_order: 39
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Alpelisib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Alpelisib: From HR+/HER2- Breast Cancer to Pulmonary Hypertension
+
+## One-Sentence Summary
+
+Alpelisib (Piqray) is a selective PI3Kα inhibitor approved in multiple international markets (EU, US) for hormone receptor-positive (HR+), HER2-negative advanced breast cancer carrying a PIK3CA mutation, in combination with fulvestrant; it has not received marketing authorization in Taiwan.
+The TxGNN model predicts it may have activity in **Pulmonary Hypertension**, with **1 clinical trial** and **2 publications** identified — however, neither provides direct supportive evidence for this indication.
+Critically, one of the identified publications reports alpelisib-induced interstitial lung disease (ILD) as an adverse event, constituting a significant safety signal that actively weighs against this repurposing direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Alpelisib |
-| DrugBank ID | [DB12015](https://go.drugbank.com/drugs/DB12015) |
-| Brand Names (EU) | Piqray |
+| Item | Content |
+|------|------|
+| Original Indication | HR+/HER2- advanced breast cancer with PIK3CA mutation (approved internationally; not marketed in Taiwan) |
+| Predicted New Indication | Pulmonary Hypertension |
+| TxGNN Prediction Score | 99.03% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.03% |
+| Taiwan Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Piqray is indicated in combination with fulvestrant for the treatment of postmenopausal women, and men, with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with a PIK3CA mutation after disease progression following endocrine therapy as monotherapy (see section 5.1).
+Detailed mechanism of action data is not available in the current Evidence Pack. Based on known published information, Alpelisib is a highly selective inhibitor of the PI3Kα isoform (encoded by *PIK3CA*), blocking the PI3K/AKT/mTOR signaling cascade. Its efficacy in HR+/HER2- breast cancer is driven by the fact that *PIK3CA* activating mutations are the most common oncogenic alterations in this tumor type, and the SOLAR-1 Phase 3 trial (NCT02437318, 572 patients) established progression-free survival benefit when combined with fulvestrant.
 
----
+The theoretical bridge to pulmonary hypertension lies in the PI3K/mTOR pathway's role in vascular smooth muscle cell proliferation and pulmonary vascular remodeling — pathological processes central to pulmonary arterial hypertension (PAH). Study PMID 31039672 provides indirect mechanistic context: PI3Kα pathway inhibition combined with doxorubicin in animal models causes biventricular atrophy and right ventricular dysfunction, demonstrating that this pathway has measurable effects on the cardiopulmonary interface. The knowledge graph may have connected these vascular remodeling biology nodes to generate the prediction.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | pulmonary hypertension | 99.03% | DL |
-| 2 | migraine with or without aura, susceptibility to | 98.95% | DL |
-| 3 | migraine disorder | 98.90% | DL |
-| 4 | kyphoscoliotic heart disease | 98.86% | DL |
-| 5 | rheumatoid arthritis | 98.75% | DL |
-| 6 | leprosy | 98.69% | DL |
-| 7 | migraine with brainstem aura | 98.68% | DL |
-| 8 | thrombotic disease | 98.56% | DL |
-| 9 | amyotrophic lateral sclerosis | 98.40% | DL |
-| 10 | multiple endocrine neoplasia | 98.38% | DL |
-| 11 | brachydactyly-syndactyly syndrome | 98.34% | DL |
-| 12 | amyotrohpic lateral sclerosis type 22 | 98.12% | DL |
-| 13 | nephrogenic syndrome of inappropriate antidiuresis | 98.11% | DL |
-| 14 | Mills syndrome | 98.08% | DL |
-| 15 | amyotrophic lateral sclerosis, susceptibility to | 98.08% | DL |
-| 16 | female breast carcinoma | 98.07% | DL |
-| 17 | coronary artery disease | 97.97% | DL |
-| 18 | Prinzmetal angina | 97.93% | DL |
-| 19 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 97.90% | DL |
-| 20 | axial spondylometaphyseal dysplasia | 97.89% | DL |
-
-*Showing top 20 of 50 predictions.*
+However, this hypothesis carries a critical contradiction. PMID 35730191 documents a case of alpelisib-induced ILD in a breast cancer patient — meaning the drug itself can cause lung pathology. Using an agent that provokes pulmonary adverse events as a treatment for a pulmonary vascular disease would require extraordinary mechanistic justification and dedicated preclinical safety data that does not currently exist. The mechanistic support for this prediction remains highly speculative, and the safety signal constitutes a substantive barrier.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06705504](https://clinicaltrials.gov/study/NCT06705504) | N/A | Completed | 435 | Multinational real-world cohort of HR+/HER2- advanced breast cancer patients treated with ribociclib or alpelisib (2018–2021); retrieved by drug name only — no pulmonary hypertension data |
 
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+> **Note:** The trial above was retrieved by drug name match and is entirely unrelated to pulmonary hypertension. It does not constitute supportive evidence for this repurposing direction.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [35730191](https://pubmed.ncbi.nlm.nih.gov/35730191/) | 2023 | Case Report | J Oncol Pharm Pract | **⚠ Adverse event report**: Alpelisib-induced interstitial lung disease in an advanced breast cancer patient — this is a pulmonary toxicity signal, not evidence of therapeutic benefit |
+| [31039672](https://pubmed.ncbi.nlm.nih.gov/31039672/) | 2019 | Preclinical | J Am Heart Assoc | PI3Kα pathway inhibition combined with doxorubicin causes biventricular atrophy and right ventricular dysfunction in animal models — documents cardiopulmonary harm from PI3Kα blockade, not therapeutic potential in PAH |
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+> **Important:** Both publications describe pulmonary or cardiovascular *harm* associated with PI3Kα inhibition. There is no publication reporting therapeutic benefit of alpelisib in pulmonary hypertension.
 
 ---
 
-## Data Access
+## Taiwan Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Alpelisib currently holds **no marketing authorization in Taiwan** (市場狀態：未上市). No license data is available for tabulation.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy — selective PI3Kα inhibitor (antineoplastic agent) |
+| Myelosuppression Risk | Low (myelosuppression is not a primary toxicity; hyperglycemia and severe cutaneous reactions are dose-limiting concerns) |
+| Emetogenicity Classification | Low |
+| Monitoring Items | Fasting plasma glucose and HbA1c (before and during therapy), CBC with differential, liver function tests, renal function, skin assessment |
+| Handling Protection | Standard oral anticancer agent precautions apply; tablets should not be crushed or split |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+- **Pulmonary Adverse Event Signal**: PMID 35730191 documents alpelisib-induced interstitial lung disease as a direct adverse event in a cancer patient. This is directly relevant to any proposed use in pulmonary disease and constitutes a negative safety signal.
+- **Cardiovascular Signal**: PMID 31039672 demonstrates that PI3Kα pathway inhibition causes right ventricular dysfunction in preclinical models, raising concern for patients with pre-existing cardiopulmonary compromise (such as PAH patients).
+
+All formal safety data (TFDA SmPC, contraindications, drug-drug interactions) are not available in this Evidence Pack. Please refer to the EMA or FDA-approved SmPC for Piqray for comprehensive safety and prescribing information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Despite a high TxGNN probability score, the evidence base for alpelisib in pulmonary hypertension consists entirely of off-target drug name matches and — more importantly — two publications documenting pulmonary and cardiovascular *harm* from PI3Kα inhibition. There is no preclinical model, mechanistic study, or clinical observation suggesting therapeutic benefit in PAH; the existing signal runs in the opposite direction.
+
+**To proceed, the following would be needed:**
+
+- Dedicated preclinical evidence (in vitro endothelial/smooth muscle assays or PAH animal models) demonstrating that PI3Kα inhibition reduces pulmonary vascular remodeling at clinically achievable alpelisib concentrations
+- A mechanistic explanation reconciling the ILD adverse event profile with hypothesized benefit in pulmonary vascular disease
+- Formal MOA data retrieval from DrugBank (DB12015) to complete the mechanistic analysis
+- TFDA SmPC or equivalent regulatory document to enable S1-level safety screening
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

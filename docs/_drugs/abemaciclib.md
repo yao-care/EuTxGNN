@@ -1,132 +1,137 @@
 ---
 layout: default
 title: Abemaciclib
-description: "Abemaciclib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 13
+parent: 僅模型預測 (L5)
+nav_order: 15
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Abemaciclib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Abemaciclib: From Breast Cancer to Rheumatoid Arthritis
+
+## One-Sentence Summary
+
+Abemaciclib (Verzenio) is a selective CDK4/6 inhibitor approved for the treatment of hormone receptor-positive (HR+), HER2-negative breast cancer.
+The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, with **0 clinical trials** and **1 publication** currently supporting this direction.
+Evidence remains at the indirect/pharmacovigilance stage, and a **Hold** decision is recommended pending mechanistic and preclinical validation.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Abemaciclib |
-| DrugBank ID | [DB12001](https://go.drugbank.com/drugs/DB12001) |
-| Brand Names (EU) | Verzenios |
-| Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 97.32% |
+| Item | Content |
+|------|---------|
+| Original Indication | HR+/HER2- Breast Cancer |
+| Predicted New Indication | Rheumatoid Arthritis |
+| TxGNN Prediction Score | 97.32% |
+| Evidence Level | L4 |
+| Taiwan Market Status | ✗ Not Marketed (未上市) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Early Breast Cancer Verzenios in combination with endocrine therapy is indicated for the adjuvant treatment of adult patients with hormone receptor (HR) positive, human epidermal growth factor receptor 2 (HER2) negative, node positive early breast cancer at high risk of recurrence (see section 5.1). In pre or perimenopausal women, aromatase inhibitor endocrine therapy should be combined with a luteinising hormone-releasing hormone (LHRH) agonist. Advanced or Metastatic Breast Cancer Verzenios is
+Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Abemaciclib is a selective CDK4/6 inhibitor: it blocks cyclin-dependent kinases 4 and 6, preventing phosphorylation of the retinoblastoma protein (Rb) and arresting the cell cycle at the G1/S checkpoint. This mechanism is established for HR+/HER2- breast cancer, where uncontrolled tumor cell proliferation is the primary driver.
 
----
+The biological rationale for rheumatoid arthritis stems from the shared role of cell cycle dysregulation in inflammatory disease. CDK4/6 inhibition has been hypothesized to suppress proliferation of synovial fibroblasts and autoreactive T cells — two central mediators of RA pathology — thereby potentially dampening joint inflammation. This mechanistic overlap makes the TxGNN prediction biologically coherent at a theoretical level.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | rheumatoid arthritis | 97.32% | DL |
-| 2 | hyperthyroidism | 97.17% | DL |
-| 3 | multiple endocrine neoplasia | 97.07% | DL |
-| 4 | resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta | 96.88% | DL |
-| 5 | homozygous familial hypercholesterolemia | 96.56% | DL |
-| 6 | heart disease | 96.30% | DL |
-| 7 | Laubry-Pezzi syndrome | 96.30% | DL |
-| 8 | Pierre Robin syndrome associated with a chromosomal anomaly | 96.29% | DL |
-| 9 | Jeune syndrome situs inversus | 96.23% | DL |
-| 10 | amyotrophic lateral sclerosis | 96.23% | DL |
-| 11 | genetic syndromic Pierre Robin syndrome | 96.21% | DL |
-| 12 | orofacial clefting syndrome | 96.17% | DL |
-| 13 | interventricular septum aneurysm | 96.17% | DL |
-| 14 | partial deletion of the long arm of chromosome 7 | 96.16% | DL |
-| 15 | disorder of fucoglycosan synthesis | 96.12% | DL |
-| 16 | partial deletion of the long arm of chromosome 22 | 96.02% | DL |
-| 17 | pulmonary valve disease | 96.01% | DL |
-| 18 | brachydactyly-syndactyly syndrome | 95.99% | DL |
-| 19 | mitral valve disease | 95.82% | DL |
-| 20 | amyotrophic lateral sclerosis, susceptibility to | 95.70% | DL |
-
-*Showing top 20 of 50 predictions.*
+However, the only identified literature (PMID 40504547) is a retrospective pharmacovigilance study documenting the prevalence of **immune-mediated adverse events** (including autoimmune diseases) in breast cancer patients receiving CDK4/6 inhibitors. This evidence reflects safety surveillance, not therapeutic efficacy in RA. The mechanistic hypothesis therefore remains unvalidated, and the current evidence is insufficient to support clinical development in this indication without further preclinical work.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|------|------|---------|-------------|
+| [40504547](https://pubmed.ncbi.nlm.nih.gov/40504547/) | 2025 | Retrospective / Pharmacovigilance | The Oncologist | Documents prevalence of pre-existing and emerging autoimmune diseases in HR+/HER2- breast cancer patients receiving CDK4/6 inhibitors with endocrine therapy; identifies immune-mediated conditions as adverse events, not therapeutic outcomes — does not assess benefit in RA |
 
 ---
 
-## Data Access
+## Taiwan Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Abemaciclib is not currently authorized in Taiwan. No product licenses are on record, and no dosage forms are registered.
 
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> Note: Abemaciclib (Verzenio) holds regulatory approval in the United States (FDA, 2017) and the European Union (EMA) for HR+/HER2- breast cancer. Taiwan authorization status should be independently verified via the TFDA website.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Cytotoxicity
+
+Abemaciclib is a targeted antineoplastic agent (CDK4/6 inhibitor) used in breast cancer treatment. The following applies:
+
+| Item | Content |
+|------|---------|
+| Cytotoxicity Classification | Targeted therapy — CDK4/6 inhibitor (non-conventional cytotoxic; not an alkylating agent or antimetabolite) |
+| Myelosuppression Risk | Moderate — neutropenia and lymphopenia are documented class effects; abemaciclib generally causes less grade 3/4 neutropenia than palbociclib but more diarrhea |
+| Emetogenicity Classification | Low |
+| Monitoring Items | Complete blood count (CBC) with differential, liver function tests (ALT/AST), renal function, signs of interstitial lung disease / pneumonitis |
+| Handling Protection | Standard oral targeted therapy precautions; follow institutional cytotoxic handling guidelines for preparation and disposal |
+
+---
+
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+> Data gap: TFDA prescribing information (warnings and contraindications) was not available for this review (DG001 — Blocking severity). This represents a critical gap before any safety-dependent decision can be made. Drug-drug interaction data was also not retrieved (query returned no results).
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The sole available publication is a pharmacovigilance study reporting autoimmune conditions as adverse events in breast cancer patients treated with CDK4/6 inhibitors — this evidence works against the repurposing hypothesis rather than supporting it. While the mechanistic premise (CDK4/6 inhibition suppressing synovial fibroblast and T-cell proliferation) is biologically plausible, it is entirely unvalidated in any RA-specific model or patient population.
+
+**To proceed, the following is needed:**
+
+- **Preclinical studies**: In vitro and animal model data directly evaluating abemaciclib in RA contexts (e.g., collagen-induced arthritis or adjuvant-induced arthritis mouse models)
+- **Mechanism data**: Retrieve full MOA profile from DrugBank API (DG002) to confirm CDK4/6 pathway relevance in immune cell biology
+- **Safety baseline**: Obtain TFDA SmPC (DG001 — currently Blocking) to complete S1 safety pre-screening
+- **Immune biology assessment**: Review CDK4/6 expression and activity data in RA synovial tissue and peripheral blood T cells from existing datasets
+
+---
+
+> **Note on secondary candidates:** Among the 10 TxGNN predictions evaluated in this batch, **Amyotrophic Lateral Sclerosis (ALS)** (Rank 10) carries the most mechanistically compelling repurposing rationale. Abemaciclib has been directly shown in cell-based assays (PMID 38596406) to accelerate autophagic clearance of TDP-43 aggregates — a pathological hallmark present in ~97% of ALS patients. Despite its lower TxGNN rank (97.32% vs. 96.23%), ALS warrants prioritized preclinical follow-up over the top-ranked RA indication given the strength of its mechanistic hypothesis and the high unmet medical need.
+
+---
+
+*This report is generated for research reference purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.*
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+
