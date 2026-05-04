@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="Olanzapine 有什麼相關新聞？">
-<strong>Olanzapine</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Olanzapine</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/olanzapine/
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（23 則）
+
+### [British cruise ship passenger in intensive care after three die in suspected hantavirus outbreak](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1femVoY2dXeVBoMU14aFBaZDlJbXlxQ0pIaEYxNzNPd3o2UTVqTU5WQUV4bHV4SjhRSzh5S3Vtdm1lejdKQy15R1QtX0FqRjNVUVNXUw?oc=5)
+
+2026-05-04 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1femVoY2dXeVBoMU14aFBaZDlJbXlxQ0pIaEYxNzNPd3o2UTVqTU5WQUV4bHV4SjhRSzh5S3Vtdm1lejdKQy15R1QtX0FqRjNVUVNXUw?oc=5)
+
+---
+
+### [Aphthen: Wenn der Mund zur Qual wird – So bekämpft ihr die schmerzhaften Geschwüre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhJRUpLTGZTOVdXbWZsSDBzdXhrZFJjLV9NX3Rad1gwTjlQNTdFZG5pMm5OcGxSeEJuWUpSY1ZLbkVERmJqaHlpcWc5NkZha3NORnZnSDgtRzBsMm5LY3hfbmdEOVVOTHlmZmVLWUU5MFFRcDRHaWNDTjNkZkIxbXlWMW9Kc3g4azFCa2hXeWNhdUVWdzNaRE8ySVhzUURiTnZBU3JlVno?oc=5)
+
+2026-05-04 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhJRUpLTGZTOVdXbWZsSDBzdXhrZFJjLV9NX3Rad1gwTjlQNTdFZG5pMm5OcGxSeEJuWUpSY1ZLbkVERmJqaHlpcWc5NkZha3NORnZnSDgtRzBsMm5LY3hfbmdEOVVOTHlmZmVLWUU5MFFRcDRHaWNDTjNkZkIxbXlWMW9Kc3g4azFCa2hXeWNhdUVWdzNaRE8ySVhzUURiTnZBU3JlVno?oc=5)
+
+---
+
+### [Crean un test genético que anticipa el riesgo de ocho enfermedades cardiovasculares frecuentes](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWU5YOV95RDd3ZXRXNXhGa0pBQkdiaWIwS0loMHRUWlMxenNzVEJXM1BVU1RBa19HVDlERGhUYU9BRk1weWJ5bm8yX2pjUWFsRkZWT2xDY2JaRUFKcTZqQjlDUVNMUXZUbk82Z25WZ2pXNFd1NmhWd3pha0ZFR21tek02UVJFQ0czdW9wR3BUbHNtR2l6bTl1SnNsTjdROXkyNTlMTWlGT2FrOHZGRnBSdkRNdTAwajNjeXFjTkl6Z0dPNnhXaGRXM1ZNclJNaEdnUDZUcU1rb0piSi11WkJiaGhDNnVXb0xBSERR?oc=5)
+
+2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWU5YOV95RDd3ZXRXNXhGa0pBQkdiaWIwS0loMHRUWlMxenNzVEJXM1BVU1RBa19HVDlERGhUYU9BRk1weWJ5bm8yX2pjUWFsRkZWT2xDY2JaRUFKcTZqQjlDUVNMUXZUbk82Z25WZ2pXNFd1NmhWd3pha0ZFR21tek02UVJFQ0czdW9wR3BUbHNtR2l6bTl1SnNsTjdROXkyNTlMTWlGT2FrOHZGRnBSdkRNdTAwajNjeXFjTkl6Z0dPNnhXaGRXM1ZNclJNaEdnUDZUcU1rb0piSi11WkJiaGhDNnVXb0xBSERR?oc=5)
+
+---
+
+### [Priorità Ue: convincerci a fare più vaccini - La Verità](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVFUODdvOUhYUktRRkgyX0xSc2xjX0xMdVNkN08yd21mMXFaSjhkS1ZaUXhEd1hzS29VNXoySjFnci1sRl9yWGVMQmJGX0kxckZmMHpuZlduUVFON1RVeDdtMU1fSnVGZTdkczRuRHRuUUdCalFoS1RkalBJSlhOQ2x6OGJDYUs2WHg0bg?oc=5)
+
+2026-05-04 <span class="news-indication-tag">AF</span>
+
+來源：[La Verità](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVFUODdvOUhYUktRRkgyX0xSc2xjX0xMdVNkN08yd21mMXFaSjhkS1ZaUXhEd1hzS29VNXoySjFnci1sRl9yWGVMQmJGX0kxckZmMHpuZlduUVFON1RVeDdtMU1fSnVGZTdkczRuRHRuUUdCalFoS1RkalBJSlhOQ2x6OGJDYUs2WHg0bg?oc=5)
+
+---
+
+### [Café : vous buvez 3 tasses par jour ? Les effets sur vos intestins et votre humeur sont bien plus profonds que tout ce qu'on imaginait - Les Numériques](https://news.google.com/rss/articles/CBMilAJBVV95cUxOQUpHTDRacnpPWE9DX21OQU1kQUgydUxubjRIQ1RnWWp4LTgyNndTMmJxVzlka3ZibVo0WnI4R3hHNU5MWENMaXJFYVhoV3ltR1JWQmlCcjNyeWN3dXBxOGJaSkIydFItTGJDS3lYdlNxam9PR1NJSW1qSHo4N2N4NWd4cVQwMWRIejZ3dUhvZDBhd2RQbWN4V2JvcHJ1dXV3OS1ybzhxS1M3bEpVZzA2aWZZYU9tZzd6dUdsQmtoSG9ydk5wVWYzSjAzb3RYcnNrWnAxcTF3d3RMaFdmZWVHQ2NCLU0weDNfaFo1T0I1bktCTVJ6OXBxWkk1aDgyeVVybUxYZzdtU19sSXhuRDZMek1xeV8?oc=5)
+
+2026-05-04 <span class="news-indication-tag">AF</span>
+
+來源：[Les Numériques](https://news.google.com/rss/articles/CBMilAJBVV95cUxOQUpHTDRacnpPWE9DX21OQU1kQUgydUxubjRIQ1RnWWp4LTgyNndTMmJxVzlka3ZibVo0WnI4R3hHNU5MWENMaXJFYVhoV3ltR1JWQmlCcjNyeWN3dXBxOGJaSkIydFItTGJDS3lYdlNxam9PR1NJSW1qSHo4N2N4NWd4cVQwMWRIejZ3dUhvZDBhd2RQbWN4V2JvcHJ1dXV3OS1ybzhxS1M3bEpVZzA2aWZZYU9tZzd6dUdsQmtoSG9ydk5wVWYzSjAzb3RYcnNrWnAxcTF3d3RMaFdmZWVHQ2NCLU0weDNfaFo1T0I1bktCTVJ6OXBxWkk1aDgyeVVybUxYZzdtU19sSXhuRDZMek1xeV8?oc=5)
+
+---
 
 ### [DNA test could spare thousands of patients pain after knee surgery - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWFzWmt3Y0JnTk92emlHem1lMk1JampmV2FKZmdtSTRzeS1udE85VjRpQ3EzRVpIWmxtVHFzaXNVUFNMWTlMRnBiQ0k0YnhaWlZ5R1pmS1lYd1BvcGswZENPYUpEcnFEdk9ab3NwNHVDSDNOQjNodHFucWNTSHcwT0lrX3Q5M01CWGJVdjZ0Zi0xNEdNNzJXWnF2MEsteW1w?oc=5)
 
@@ -62,11 +102,19 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Aphthen im Mund sind schmerzhaft, aber meist harmlos - Badische Zeitung](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekV2cURpRVg5c1gtcV9OT3BvcVJZYThhdXFjUjBQeFZlY1J0MktaWFZob2FjQTJGY3N5Wll3S0s2ampIZzBzTy0ySVFPQ1F2aGU0QWRpRUpoYmY0dU4wRkhwMTZ5V0FXd0c0YzVLVVd0ZVJUZFVUSzVzaGNXRHpUQWhMR00ycUFCbThZ?oc=5)
+### [Family data reveal two genetic paths to childhood depression and anxiety - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
+
+2026-05-03 <span class="news-indication-tag">depression</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
+
+---
+
+### [AR 14425 vom 2. Mai 2026 - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOampvcURZazVQMzVsNEdJV3BHeUFvV0JYdWNyNmFfTDlIMDVLV3RMR3FNZ0ZzNUxSWXp4VVdodWFldC1peU9ZVzRVc19hcVVhMElBUFBfR3h3dFA0M3FHVVpkOWU5UEZhZy1zSjd2TlJwSzNBTnliUkNQWUhjaHIweHJTNUlwWk9D?oc=5)
 
 2026-05-03 <span class="news-indication-tag">AF</span>
 
-來源：[Badische Zeitung](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekV2cURpRVg5c1gtcV9OT3BvcVJZYThhdXFjUjBQeFZlY1J0MktaWFZob2FjQTJGY3N5Wll3S0s2ampIZzBzTy0ySVFPQ1F2aGU0QWRpRUpoYmY0dU4wRkhwMTZ5V0FXd0c0YzVLVVd0ZVJUZFVUSzVzaGNXRHpUQWhMR00ycUFCbThZ?oc=5)
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOampvcURZazVQMzVsNEdJV3BHeUFvV0JYdWNyNmFfTDlIMDVLV3RMR3FNZ0ZzNUxSWXp4VVdodWFldC1peU9ZVzRVc19hcVVhMElBUFBfR3h3dFA0M3FHVVpkOWU5UEZhZy1zSjd2TlJwSzNBTnliUkNQWUhjaHIweHJTNUlwWk9D?oc=5)
 
 ---
 
@@ -78,19 +126,11 @@ permalink: /news/olanzapine/
 
 ---
 
-### [Hantavirus, tre morti su una nave da crociera nell’Atlantico legati alla febbre dei topi. L’Oms: “Possibile e… - la Repubblica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzI4QkI2V1dPZzdnUU1yZDRuQ1R5VktmcTZMbmJqLW9abGZ0UjI3Qk4zamlZT0ZyZi1sTmdKSF9rTkNVcEZjR0xDUU5lbmJDQ3V6SU4tRjFYRWdlWTBxUV9aYjRVdXl3QzZORzVieWk1bDJkZy1NanZmLUpKREJvRHlpTlQwTEVuZXU2MXQ2ODZSd3lPSV83NzQ4YXFSdTVPei1fUmtiaXpFcFVpakM4b3J2ONIBuAFBVV95cUxPcVpkdGxGOU81bUlkRk1QYlFiNENMR0huc1Q3dVBRTXlaWmJPXzBfZnVoM2VTWVBVc1FWUzZVYWlTcUZPNDdQMXB2NWUtZnNtUHdLTDBrTFNQUFZZS0t1UTFrcU5BbXdMelREYWlVS3Rpbzd0dVZPcEJCdEpkMTVNRV9kejhOUV9FMVJqQUsyQUdVdFBoa3RlODZJdVZxUjNxQW1KbzhqbXBENUhjZVdINXFGT3hIZ1Vm?oc=5)
-
-2026-05-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzI4QkI2V1dPZzdnUU1yZDRuQ1R5VktmcTZMbmJqLW9abGZ0UjI3Qk4zamlZT0ZyZi1sTmdKSF9rTkNVcEZjR0xDUU5lbmJDQ3V6SU4tRjFYRWdlWTBxUV9aYjRVdXl3QzZORzVieWk1bDJkZy1NanZmLUpKREJvRHlpTlQwTEVuZXU2MXQ2ODZSd3lPSV83NzQ4YXFSdTVPei1fUmtiaXpFcFVpakM4b3J2ONIBuAFBVV95cUxPcVpkdGxGOU81bUlkRk1QYlFiNENMR0huc1Q3dVBRTXlaWmJPXzBfZnVoM2VTWVBVc1FWUzZVYWlTcUZPNDdQMXB2NWUtZnNtUHdLTDBrTFNQUFZZS0t1UTFrcU5BbXdMelREYWlVS3Rpbzd0dVZPcEJCdEpkMTVNRV9kejhOUV9FMVJqQUsyQUdVdFBoa3RlODZJdVZxUjNxQW1KbzhqbXBENUhjZVdINXFGT3hIZ1Vm?oc=5)
-
----
-
-### [Adolescentes con cáncer: TikTok desafía el debate sobre vetar las redes sociales a menores - Onda Vasca](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSElsSVVsUk96RThSTVgwTU5lZ2c0SlB4dTFROUpMZ3JLMUN4UVJjWWtyZkFGcFczS1BHMFYtMTFtZGlWM09zdFA4WmdTLW1pT2d2SGNaT3o4aE1JVXpSYVBoLUNHS1lFTHh2Y0ZFbnk1eEwwNWhaWnV4QnhXWTRBaXR5Mm1GQk9UMnVuZEhHLUgxZGFjdUtpSDN1Q3dKWnpnWkt4ekZxbDQyX0pIakhwTUVmU2JOZzjSAbwBQVVfeXFMUHY5VVM2SHdzZkUwZGdlVDl3eS0wdV92WlNoa1NPTmlGZlFzc0xBeng2ckM5QzRFdWlyc2g5cnRvMG00dmFRRDA5SU9WdHh4bVVPcFF1Z3hpRlFrSXVvT1NKblU5NVVwQ2staDgwQjRwSTNvSkVrTkZTb2tUR0xueEU4QWJyMjBaUl9Eb1JrXzdyTXJIWVdqQVl5VWtjOHYtTENfc3YzY0tUdHhSWFFLWUVLcUFwemRFYkdVclE?oc=5)
+### [Adolescentes con cáncer: TikTok desafía el debate sobre vetar las redes sociales a menores - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOME5wNGgtT0xJWnd2S1Zid3dTNXJwQ1BCbEpCM2pWd3g0a1doRXloa0NiTzltS1VKdkUxLUxsTzJFMl9RYnBNRFhHaEhxb2VJcVJwUEdWYndseGhmNEdQbkhyRVpkamVEY2FWMVNsWU9vZWxSSTFKOTVGT3NLc21kSjI3QlRVejFLZFJQUWlpcE82dEpfV2RqV3lQMS1QMi1PazRMWWpGNURkVlp4QlFlMi1sZnNlNWMzUUVMcFVLY3NrazloQ1I4dTRTZjRaenN6SnZRX2JTVkHSAd4BQVVfeXFMTV9LTnBJcm1XZ2ZZVVdXcDlfWVhvRXBwaElFdWIzc01DUmJqNEEwS1JkSElTRV9weEFQdWk3Y2oyUkJ3R0l1Z3JxTDJmcjRDZWpzb0VpU1F2cmU2bWFvYmFZSThybThobEhHNGNSYlVsNWxaV0xmYWwtSFBHcDBWanhFcy1NMXJTVlBEOVVkLU1wQmhneXVzUkV3cUNuZkhPckdVMWJEN1dmbDVzdGRDV1RTcEZ4eEdWdHBfT25ZdENBYkd1TmhQLWNCUFhxQTN6cWhfTHNFRk5SdXdvV1lB?oc=5)
 
 2026-05-03 <span class="news-indication-tag">AF</span>
 
-來源：[Onda Vasca](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSElsSVVsUk96RThSTVgwTU5lZ2c0SlB4dTFROUpMZ3JLMUN4UVJjWWtyZkFGcFczS1BHMFYtMTFtZGlWM09zdFA4WmdTLW1pT2d2SGNaT3o4aE1JVXpSYVBoLUNHS1lFTHh2Y0ZFbnk1eEwwNWhaWnV4QnhXWTRBaXR5Mm1GQk9UMnVuZEhHLUgxZGFjdUtpSDN1Q3dKWnpnWkt4ekZxbDQyX0pIakhwTUVmU2JOZzjSAbwBQVVfeXFMUHY5VVM2SHdzZkUwZGdlVDl3eS0wdV92WlNoa1NPTmlGZlFzc0xBeng2ckM5QzRFdWlyc2g5cnRvMG00dmFRRDA5SU9WdHh4bVVPcFF1Z3hpRlFrSXVvT1NKblU5NVVwQ2staDgwQjRwSTNvSkVrTkZTb2tUR0xueEU4QWJyMjBaUl9Eb1JrXzdyTXJIWVdqQVl5VWtjOHYtTENfc3YzY0tUdHhSWFFLWUVLcUFwemRFYkdVclE?oc=5)
+來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOME5wNGgtT0xJWnd2S1Zid3dTNXJwQ1BCbEpCM2pWd3g0a1doRXloa0NiTzltS1VKdkUxLUxsTzJFMl9RYnBNRFhHaEhxb2VJcVJwUEdWYndseGhmNEdQbkhyRVpkamVEY2FWMVNsWU9vZWxSSTFKOTVGT3NLc21kSjI3QlRVejFLZFJQUWlpcE82dEpfV2RqV3lQMS1QMi1PazRMWWpGNURkVlp4QlFlMi1sZnNlNWMzUUVMcFVLY3NrazloQ1I4dTRTZjRaenN6SnZRX2JTVkHSAd4BQVVfeXFMTV9LTnBJcm1XZ2ZZVVdXcDlfWVhvRXBwaElFdWIzc01DUmJqNEEwS1JkSElTRV9weEFQdWk3Y2oyUkJ3R0l1Z3JxTDJmcjRDZWpzb0VpU1F2cmU2bWFvYmFZSThybThobEhHNGNSYlVsNWxaV0xmYWwtSFBHcDBWanhFcy1NMXJTVlBEOVVkLU1wQmhneXVzUkV3cUNuZkhPckdVMWJEN1dmbDVzdGRDV1RTcEZ4eEdWdHBfT25ZdENBYkd1TmhQLWNCUFhxQTN6cWhfTHNFRk5SdXdvV1lB?oc=5)
 
 ---
 
@@ -118,14 +158,6 @@ permalink: /news/olanzapine/
 
 ---
 
-### ["No es solo un virus": expertos se reúnen en Valladolid en un congreso para abordar el VIH y las ITS - Cadena SER](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMjZLd2NJeGRvVHJzTFhCQWduUEM2ak1JRXJiV3RBNG5GV2pKU3N2S25kVkh1OXJIRVBQQ051VlJWNWM0dnl1cjRBTC1jMVcyV2c3dmh4dGNRME5OTjZGWThCT3draVluTHVaOHNEZFUydk0zWWtmeEtEUmlPOXVvclg1MWtlTWdwX0lzU1llRzVGX0JIYTYyekRPZDg5MG1SYWNDYTJMc3FQVndHREh2WnVUZF9pcndSbGRGd2x1M2NOMUNSSjkyN282NlVOZ1RBdUJMTWxtamJsZC1vT1E5MVRXcFRhSkZyd2Fxc2cxYzZiTWZl0gGIAkFVX3lxTE1FZVU2czVVNEw3aDAwR1c5RlgxMUlsNkcyUXJpaTlSRUlKOWZVdm1QYUtiNE4xb09oSXFwb0VWMU9OMUoyT1VGdWNGZmhkQjN4TmdLWUt4VzhFaHlkZGJ3YndFbHR0dmJ0cVZ5WU9tQmllQUl5M2NrTFpBT0lPN2ljT1JXUHVNQXVfb1RIVzA1eC1MSmIxNEZlcldQTzRqeXJYZm1kUWZvUFQ0aldPbGxldjRtZWFxdXVUSVROVW4tSk50VEVpWHVyUWEzM3JYcTZSNGlNM01GbkgzMnU1UkM1NGliUXFpQmNjVklIMkUtT01PS09uNXBBdURjZC1jRG1FRTgxVkp0cg?oc=5)
-
-2026-05-03 <span class="news-indication-tag">AF</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMjZLd2NJeGRvVHJzTFhCQWduUEM2ak1JRXJiV3RBNG5GV2pKU3N2S25kVkh1OXJIRVBQQ051VlJWNWM0dnl1cjRBTC1jMVcyV2c3dmh4dGNRME5OTjZGWThCT3draVluTHVaOHNEZFUydk0zWWtmeEtEUmlPOXVvclg1MWtlTWdwX0lzU1llRzVGX0JIYTYyekRPZDg5MG1SYWNDYTJMc3FQVndHREh2WnVUZF9pcndSbGRGd2x1M2NOMUNSSjkyN282NlVOZ1RBdUJMTWxtamJsZC1vT1E5MVRXcFRhSkZyd2Fxc2cxYzZiTWZl0gGIAkFVX3lxTE1FZVU2czVVNEw3aDAwR1c5RlgxMUlsNkcyUXJpaTlSRUlKOWZVdm1QYUtiNE4xb09oSXFwb0VWMU9OMUoyT1VGdWNGZmhkQjN4TmdLWUt4VzhFaHlkZGJ3YndFbHR0dmJ0cVZ5WU9tQmllQUl5M2NrTFpBT0lPN2ljT1JXUHVNQXVfb1RIVzA1eC1MSmIxNEZlcldQTzRqeXJYZm1kUWZvUFQ0aldPbGxldjRtZWFxdXVUSVROVW4tSk50VEVpWHVyUWEzM3JYcTZSNGlNM01GbkgzMnU1UkM1NGliUXFpQmNjVklIMkUtT01PS09uNXBBdURjZC1jRG1FRTgxVkp0cg?oc=5)
-
----
-
 ### [The signs you have ‘life dysmorphia’ and NOT depression or anxiety as hidden condition surges - and 7 tips to fix it - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRm5NSUFsVzc0MHBhRC1ONE1pMW9HZ0FwN1hUOS0tNzE2WGJadFJaM1JWek0zWndBOFUwbjd4Zi1KM0ZBcUFYX1BESENZUHB5OWJmQ1RvTzZFTlNVSGVmY0lJSXFoOW9CNE1Mei1oLWRuM0ZsMWpwQU80d3JuNVpDOEdqSWk?oc=5)
 
 2026-05-03 <span class="news-indication-tag">depression</span>
@@ -139,6 +171,14 @@ permalink: /news/olanzapine/
 2026-05-03 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQThERkhiSFhTNG5adld6WVBGVW9BaDNJeVZodVRTbTE5ZU9xWUFrX3VzYVlhZko3VkhJUHpNUXZiaFdrTWJVVmFBM1R3VmRoR2ZmWjdKUkk4RmN3Y2RlcjFwTWNBandSUm14ZV9xODhiX1BGdTNsVlNDUE0yNUR4UExsOGtCMWJkajU2MmNRa3FMUTMxVV9oZ3dEdHpreXlSY3JHaWQ2al9QMHdzbkpBenBXTTRLcmR1YmFCM253MmtLRjNHRGFV?oc=5)
+
+---
+
+### [Distimia, una depresión silenciosa que puede volverse crónica](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHRTbmc4THZTTWpjZjZwdFE0S181SUotWGVvSmpfOE9ET0hBNzQ0bW1MdXh2ei1ocldRMlI1Q1ZZSmEyV09wMGJjZGFHcmZKYmJSNW1ndVJMU3FianpPOTlyUFlNRTQwSXJZcGFIS0ZxcTh4WlA5YlhKZG9zVThiV282U1VPeThGdjBSbXRzdE52Qm12eUE3UjQ0cmhVNHJjR2NOU9IBvwFBVV95cUxNZjJZejBEUTdIWWxNV1I4TURrSHNxblRZaGZlOWF6X3Z6TFpZTlR0Y3doZ3dSWjBaVTlxeUpPTTU5M3o4WXo5d2U1Zmd5dTVqbmxJVG41ZWFNdk03WHhNX0U1QW9HakxETlc0LUU3TFJhbTdWWXFjWDFjbzBQTm5xMDZrWUE0Qi1LQ1hkd0NTcjI1UjhCVno3ZHV1LTJMNVR2bTc1a0RtN3hlXzhlZmVVUTJRUUw0VVV1cFM2QkE3dw?oc=5)
+
+2026-05-03 <span class="news-indication-tag">depresión</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHRTbmc4THZTTWpjZjZwdFE0S181SUotWGVvSmpfOE9ET0hBNzQ0bW1MdXh2ei1ocldRMlI1Q1ZZSmEyV09wMGJjZGFHcmZKYmJSNW1ndVJMU3FianpPOTlyUFlNRTQwSXJZcGFIS0ZxcTh4WlA5YlhKZG9zVThiV282U1VPeThGdjBSbXRzdE52Qm12eUE3UjQ0cmhVNHJjR2NOU9IBvwFBVV95cUxNZjJZejBEUTdIWWxNV1I4TURrSHNxblRZaGZlOWF6X3Z6TFpZTlR0Y3doZ3dSWjBaVTlxeUpPTTU5M3o4WXo5d2U1Zmd5dTVqbmxJVG41ZWFNdk03WHhNX0U1QW9HakxETlc0LUU3TFJhbTdWWXFjWDFjbzBQTm5xMDZrWUE0Qi1LQ1hkd0NTcjI1UjhCVno3ZHV1LTJMNVR2bTc1a0RtN3hlXzhlZmVVUTJRUUw0VVV1cFM2QkE3dw?oc=5)
 
 ---
 
@@ -158,14 +198,6 @@ permalink: /news/olanzapine/
 
 ---
 
-### [On pensait que le café protégeait le cerveau : 43 ans d'étude montrent qu'il agit sur tout autre chose](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1c3bTNseXptN0lmQVJpbXVfeGlyS01ubVptTXhEN0s0WklLdVptVGZBaDBNc1MySmt1UkNQeVlCb0R4V1NGT2QxNHFUZEJZTkk0a2JDVGJGRlZ0dVRWcnBKQnp2elducTloanRKVWRhcFhTZm8wcVBqYjlWR1cxOVRtRjA2OHBJdTBSajlWSVJpQ3FULTlMTnFfSVZqUEhqb3E2UnR3czg0Rk5raUpKWUFfZkpDSG9ROVhwb2JOYnVRUQ?oc=5)
-
-2026-05-03 <span class="news-indication-tag">AF</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1c3bTNseXptN0lmQVJpbXVfeGlyS01ubVptTXhEN0s0WklLdVptVGZBaDBNc1MySmt1UkNQeVlCb0R4V1NGT2QxNHFUZEJZTkk0a2JDVGJGRlZ0dVRWcnBKQnp2elducTloanRKVWRhcFhTZm8wcVBqYjlWR1cxOVRtRjA2OHBJdTBSajlWSVJpQ3FULTlMTnFfSVZqUEhqb3E2UnR3czg0Rk5raUpKWUFfZkpDSG9ROVhwb2JOYnVRUQ?oc=5)
-
----
-
 ### [I'm in pain 24/7 after what disgraced surgeon did - Liverpool Echo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXhNdWZYUjdpZkVRcFFLWUpGY2RYbm1QMGdXMHVWX1ZCOHJWaGFfUnpwYnE5aWEtR1F0RmdtdW1ZaWIzQUpjYVlYVHI5Z1VLME1sV3RhNEI0TEI0QzZHbXBqa0pPVy1DNDdUdUszaUhHcHlZcXFzdVZsbkpiR3hfMzVPUl9pd1d2bEpB0gGQAUFVX3lxTE1Iek1rTzVpZWJnVzV6cnQ4ZG91LWRYOUk5WXFIU29jb0lpRGlta04xQUVzb2YxYURYX3RDZ1Z0SlpjTl9uOGpVdXgtejh5WERzdzVQSlpFYkNCTGJkSjVZR2h6YkNPUE5yV24yZk5FWG1HemFldldwNHJMYXBzSV9vNnlUbjNUOFhFSEE4aFFvdw?oc=5)
 
 2026-05-03 <span class="news-indication-tag">AF</span>
@@ -174,19 +206,27 @@ permalink: /news/olanzapine/
 
 ---
 
+### [The Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
+
+2026-05-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
+
+---
+
+### [“This Is Gross”: Biohacker Bryan Johnson Makes Bold Comment About Girlfriend’s Intimate Health - Bored Panda](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkJuYlBRSmVMR0FidmxLUWx6MkN2c2VEUWEwVnpXVXB1RXh6a3JNa0ItRzQwN2VYdjlKSl8ycUV6WXZIN2xpT3c3Sm4zQk5STUhMOEE1UllucFktTFZHUmh2aVM1Y3lVT3JfSlZjRnhQaWhnQ1FYOUpPcWVRcGR1MlE4TkY2c2FoQkNDQVRQNXNUTUN3d0Rv?oc=5)
+
+2026-05-02 <span class="news-indication-tag">AF</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkJuYlBRSmVMR0FidmxLUWx6MkN2c2VEUWEwVnpXVXB1RXh6a3JNa0ItRzQwN2VYdjlKSl8ycUV6WXZIN2xpT3c3Sm4zQk5STUhMOEE1UllucFktTFZHUmh2aVM1Y3lVT3JfSlZjRnhQaWhnQ1FYOUpPcWVRcGR1MlE4TkY2c2FoQkNDQVRQNXNUTUN3d0Rv?oc=5)
+
+---
+
 ### [Venus und die Plejaden - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo4OXZsVmlyX1B3blVjNG90bTVuR0doNXZOajFyeWZTc0RJRzVzSEgtbG5mQ3dvcm5mZEZfZkRPenRKM2ZlaGtFMHhCc2VDX21ZSGFSQXRjLWRPU2NOZ1NiTm1NZGpYM25Fd2o0blFKQ0dXa1l2MVFIelZWOUhJaHNPYjNSMWs?oc=5)
 
 2026-05-02 <span class="news-indication-tag">AF</span>
 
 來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVo4OXZsVmlyX1B3blVjNG90bTVuR0doNXZOajFyeWZTc0RJRzVzSEgtbG5mQ3dvcm5mZEZfZkRPenRKM2ZlaGtFMHhCc2VDX21ZSGFSQXRjLWRPU2NOZ1NiTm1NZGpYM25Fd2o0blFKQ0dXa1l2MVFIelZWOUhJaHNPYjNSMWs?oc=5)
-
----
-
-### [Científicos británicos coinciden: estos son los tipos de cáncer más comunes en adultos jóvenes - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
-
-2026-05-02 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
 
 ---
 

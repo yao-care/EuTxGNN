@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Capsaicin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/capsaicin/
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El peligro oculto de un disgusto fuerte: cómo tus emociones pueden simular un infarto y mandarte al hospital - La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZGdYdnh6ZW9TOGZaVW1JWkRGZFRuWFo2NWJrMGdWNkZNaDJYT090aXBvLXhfV0x5LTA2N2NUX3M4ZnYtVk9Od3VvVUFpSERUaGY4QjlFdy1QbW5pNEpLQUpMRFNDUzF6M1c3dXFsN3RGUXNaNXpMckVIRUpsTVhJMlp6bnhvd1NpQVpqQVgtTXBxYlhKSDVOazR5OWpodTd3UVBHQjVOeWdkRGgwU2l6eHplYU5yTjlJYVBPVG1aLVRTdTRYZ2ZrV1hyamhTa2lqby1CbHFIMnRITm44dnQ3YUdlS25VeFlmWEw3czVFTjZyRmh1V25iZ9IBjAJBVV95cUxPa2hEZGhBNnFIN3FlMF9DOXJFWGQwb2c0dVpnQUJYV1ltOW5IMTB3bjJ5VTNkc0xlUmZfaVBzRkh6dzV2eUprV0xZNE1zLVgwX05uXzlpd2lQSkxXcGp6S1d0YVpRQWxzbENnc3o3UVVTQ2ZJVEQ5OVdUdmQyMmVOSmlIV04xRm5ycElIdGpkVzlXbzlFcWR6SThCQ2Y4SS1mZE5NVXZmc3VWdjYydmE4dTFBY3F2c1ljYnZpTlZxNWtQeXJhWDNxbFhma1ZfemhtcHhiRlloMUZMT2xSMFpacEgya2NCVlpKTHVUUW1RaE1BSGU4UzcyZk5ZeDF2bDVadm1wRV8xc05RUDZF?oc=5)
-
-2026-05-03 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZGdYdnh6ZW9TOGZaVW1JWkRGZFRuWFo2NWJrMGdWNkZNaDJYT090aXBvLXhfV0x5LTA2N2NUX3M4ZnYtVk9Od3VvVUFpSERUaGY4QjlFdy1QbW5pNEpLQUpMRFNDUzF6M1c3dXFsN3RGUXNaNXpMckVIRUpsTVhJMlp6bnhvd1NpQVpqQVgtTXBxYlhKSDVOazR5OWpodTd3UVBHQjVOeWdkRGgwU2l6eHplYU5yTjlJYVBPVG1aLVRTdTRYZ2ZrV1hyamhTa2lqby1CbHFIMnRITm44dnQ3YUdlS25VeFlmWEw3czVFTjZyRmh1V25iZ9IBjAJBVV95cUxPa2hEZGhBNnFIN3FlMF9DOXJFWGQwb2c0dVpnQUJYV1ltOW5IMTB3bjJ5VTNkc0xlUmZfaVBzRkh6dzV2eUprV0xZNE1zLVgwX05uXzlpd2lQSkxXcGp6S1d0YVpRQWxzbENnc3o3UVVTQ2ZJVEQ5OVdUdmQyMmVOSmlIV04xRm5ycElIdGpkVzlXbzlFcWR6SThCQ2Y4SS1mZE5NVXZmc3VWdjYydmE4dTFBY3F2c1ljYnZpTlZxNWtQeXJhWDNxbFhma1ZfemhtcHhiRlloMUZMT2xSMFpacEgya2NCVlpKTHVUUW1RaE1BSGU4UzcyZk5ZeDF2bDVadm1wRV8xc05RUDZF?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

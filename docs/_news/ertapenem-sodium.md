@@ -14,7 +14,7 @@ permalink: /news/ertapenem-sodium/
 ---
 
 <p class="key-answer" data-question="Ertapenem Sodium 有什麼相關新聞？">
-<strong>Ertapenem Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ertapenem Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ertapenem-sodium/
 <p><a href="{{ '/drugs/ertapenem-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [The Most Effective Knee Arthritis Treatments Aren’t What You Expect](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
-
----
-
-### ['I turned to alcohol due to pain from undiagnosed arthritis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
-
-2026-05-02 <span class="news-indication-tag">arthritis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
 ---
 

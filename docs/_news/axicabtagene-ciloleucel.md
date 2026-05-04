@@ -14,7 +14,7 @@ permalink: /news/axicabtagene-ciloleucel/
 ---
 
 <p class="key-answer" data-question="Axicabtagene Ciloleucel 有什麼相關新聞？">
-<strong>Axicabtagene Ciloleucel</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Axicabtagene Ciloleucel</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/axicabtagene-ciloleucel/
 <p><a href="{{ '/drugs/axicabtagene-ciloleucel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（16 則）
 
-### [NHS cancer jab could mean patients spend hours less in hospital](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhM2cxZE5DclhOVm9FS3RrQjZxSm5JTEFVWUxfM3BuTmxBM3pfbHRtaW9sbF9LbXBxQzdXNFBrNjhZam92SWNoaXpnSzh5cjdXcEVqMUhVbUtSZ3U0?oc=5)
+### [Le cancer de la vessie est le 5e cancer le plus fréquent, mais ses symptômes sont encore trop méconnus](https://news.google.com/rss/articles/CBMihgJBVV95cUxQd2hRQWJpYU9pSEF3NU00dWZibjBxYmxGdUZTNDNKSlc2dHlqS19CZ2lwOV9pNFdrckRWSTlsN0V6b3dJZzV3S002dlFNNGJqX2pXUHJXalZWN05oclNLX1oxVUcwaXJvRkd6UUVpX01GNGpYNWZBcHB3NU1CYlZVbnItWE5DeGxCT0JzRTRNVjlzcFVXM1BIODdVN0l3UU5GcmU4QVJPdzRmREhaeGM4ZGJ1eFhmN3ZvVW9CYzh1TU9wTF9Zak54aE0yN3R3M25LNVNxQjZmMVIzYTBoYjI5ZHJ5a1VGRkUyVzBxelZnYkdmSU5fYUFNZmJxTjNzZGMtaEYtdVFB?oc=5)
+
+2026-05-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxQd2hRQWJpYU9pSEF3NU00dWZibjBxYmxGdUZTNDNKSlc2dHlqS19CZ2lwOV9pNFdrckRWSTlsN0V6b3dJZzV3S002dlFNNGJqX2pXUHJXalZWN05oclNLX1oxVUcwaXJvRkd6UUVpX01GNGpYNWZBcHB3NU1CYlZVbnItWE5DeGxCT0JzRTRNVjlzcFVXM1BIODdVN0l3UU5GcmU4QVJPdzRmREhaeGM4ZGJ1eFhmN3ZvVW9CYzh1TU9wTF9Zak54aE0yN3R3M25LNVNxQjZmMVIzYTBoYjI5ZHJ5a1VGRkUyVzBxelZnYkdmSU5fYUFNZmJxTjNzZGMtaEYtdVFB?oc=5)
+
+---
+
+### [Los nervios de la piel podrían frenar el melanoma: algunas fibras nerviosas 'ponen freno' al tumor](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVXVTc0c1dkxhM3VnV2N1Zmd2YS1na0dpN2FhLXRRRm4wbWVPczVnR2t4cmU5X0E1QTU5X3FYazJWVUZGeTJmS1RWdm1oWlZPVC1vWUlnR1pNY1U2VFIwbG5qTThCa3EzLTJ1WkxIYjRFSWRTdHRQMmJxdEhGTGRKQ3FZRUREblVqekFDbzRDV2liblg4R3IxN2t4M0lsbm9STUtqcE1OUE9kVWZzeGp5QjZKV3d3ZlNKSmdwcmlWNWpoQk0wVXlabU1yYk1FVkRJZ1lnWng5VFpVaEFIN2oxN3A5ZkdFeUIw?oc=5)
+
+2026-05-04 <span class="news-indication-tag">tumor</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVXVTc0c1dkxhM3VnV2N1Zmd2YS1na0dpN2FhLXRRRm4wbWVPczVnR2t4cmU5X0E1QTU5X3FYazJWVUZGeTJmS1RWdm1oWlZPVC1vWUlnR1pNY1U2VFIwbG5qTThCa3EzLTJ1WkxIYjRFSWRTdHRQMmJxdEhGTGRKQ3FZRUREblVqekFDbzRDV2liblg4R3IxN2t4M0lsbm9STUtqcE1OUE9kVWZzeGp5QjZKV3d3ZlNKSmdwcmlWNWpoQk0wVXlabU1yYk1FVkRJZ1lnWng5VFpVaEFIN2oxN3A5ZkdFeUIw?oc=5)
+
+---
+
+### [Cancer alert: She thought it was just heartburn, but it turned out to be an incurable ‘silent killer’ can - The Times of India](https://news.google.com/rss/articles/CBMijwJBVV95cUxPUkJFc1BCaGh4aGxwLURyTm1mVXFRZ0pKSU5uRGNBRE13V1gzdng3Zk55SnBYUlVXcHJBVVl6OXFSc1hrMHJ4Q2h4aFk1bW5PckZ2cElGVm9hSUpnbXRQVHRaSU5naVYyY3UteGk2dUpLMlZxbnFIWkFrYXVWUjRUbnI3Ty1ndWs5OVNIc1Q5Tmw4MWtxRWJYU293RUlTbkkzR0t0ck9UOWxXVEZ6TG93ajdIa0FOcnhMVXR2cGZ6eWtwaFZNSVpwakRocUJ4dDYxc3c1azN5UjBkTFJlZDhXX0Z5ejNaUUxlSzlhTnZDSWV1c0dMdVF5X3N6TWVZLVlKOGNkcUFrblJ1X1M2b1dR0gGUAkFVX3lxTE9lRlo0UVFYYlZxbUVaaUdyTll6bk1NRmtZYzhpUTdZS3JNSDRtN0N4RWRpVkJteU53U1BCcG1aN2dfWmhRTUtvTUItV19CTlNYWWVMUmIxQUJxd1VMdk1HdVdLWXA4SlpxODNhbmdlbXhmN090WERNSnJNejVZenAwdU9NYVhzWE9jU3U0UzFiZ3pBdlp5aEprZUU3RGRtU0FReVJMQ3lwVmRQS3JaVUVsVWE1amRxaXQxQUFjc1NmNnB5NGhXd25tZUxpcVlRYURGWFlzeFh5b0ZGM1BBNGhPYVUzZGJ3UzVwcjk1VGgwMVVDVjdEQ0NRWTgwYWRJRjB1ckV2STluT1I2cXpoWXVYOUVsVw?oc=5)
+
+2026-05-04 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMijwJBVV95cUxPUkJFc1BCaGh4aGxwLURyTm1mVXFRZ0pKSU5uRGNBRE13V1gzdng3Zk55SnBYUlVXcHJBVVl6OXFSc1hrMHJ4Q2h4aFk1bW5PckZ2cElGVm9hSUpnbXRQVHRaSU5naVYyY3UteGk2dUpLMlZxbnFIWkFrYXVWUjRUbnI3Ty1ndWs5OVNIc1Q5Tmw4MWtxRWJYU293RUlTbkkzR0t0ck9UOWxXVEZ6TG93ajdIa0FOcnhMVXR2cGZ6eWtwaFZNSVpwakRocUJ4dDYxc3c1azN5UjBkTFJlZDhXX0Z5ejNaUUxlSzlhTnZDSWV1c0dMdVF5X3N6TWVZLVlKOGNkcUFrblJ1X1M2b1dR0gGUAkFVX3lxTE9lRlo0UVFYYlZxbUVaaUdyTll6bk1NRmtZYzhpUTdZS3JNSDRtN0N4RWRpVkJteU53U1BCcG1aN2dfWmhRTUtvTUItV19CTlNYWWVMUmIxQUJxd1VMdk1HdVdLWXA4SlpxODNhbmdlbXhmN090WERNSnJNejVZenAwdU9NYVhzWE9jU3U0UzFiZ3pBdlp5aEprZUU3RGRtU0FReVJMQ3lwVmRQS3JaVUVsVWE1amRxaXQxQUFjc1NmNnB5NGhXd25tZUxpcVlRYURGWFlzeFh5b0ZGM1BBNGhPYVUzZGJ3UzVwcjk1VGgwMVVDVjdEQ0NRWTgwYWRJRjB1ckV2STluT1I2cXpoWXVYOUVsVw?oc=5)
+
+---
+
+### [Thousands of cancer patients in England to benefit from new immunotherapy jab - The Guardian](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGstbUFmTVFUYXhGWHNvZU5WelVObmhQNlZ2LUx4RXloOGZRWDFQclFyYUpzTVBJdFdFeHg4ZUd1Z0N5WHAzU3MtcURaRjVOVFhxTjA4ZHhkZEFGN1hlUXRrWmMyTHZ0bGY3WHY2MEt5c0pIWGRFSlZXX3c5cUZycHU0WUpkaFg0d3A4dkh0ejRuaUVSQ1pUNW1DMmNHeVhnVFdzcjVULS1UNFBIZkdZOFZOQTRGbkFxSk9TQzRCbS1Yd3M?oc=5)
+
+2026-05-04 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGstbUFmTVFUYXhGWHNvZU5WelVObmhQNlZ2LUx4RXloOGZRWDFQclFyYUpzTVBJdFdFeHg4ZUd1Z0N5WHAzU3MtcURaRjVOVFhxTjA4ZHhkZEFGN1hlUXRrWmMyTHZ0bGY3WHY2MEt5c0pIWGRFSlZXX3c5cUZycHU0WUpkaFg0d3A4dkh0ejRuaUVSQ1pUNW1DMmNHeVhnVFdzcjVULS1UNFBIZkdZOFZOQTRGbkFxSk9TQzRCbS1Yd3M?oc=5)
+
+---
+
+### ["Je ne peux pas les racheter, ils sont spécialement prescrits par l’hôpital" : Il vole les papiers et médicaments d’une dame âgée atteinte d’un cancer](https://news.google.com/rss/articles/CBMinwJBVV95cUxPckN3VHZzQ1ZuUlAxSXNvR3FuUkIwWkxkamtSLWw1cVFfMWlVUGJmLXh4R1ltWlY2S2hqa2Z5YlpiRUVNWUZBd19CZC1RNTVJeFlZTG85RG9RZ2FEWldFM2wzQnFXNHRoYUlXNU41ejNra2RuWjk4QVE0TS1tT2lBQzdpaTN0YXozMVBlSTU5N3Z3OGNsV1FxR2xkOVNvbVBUQ3kxdkFuRzA2VlNCVmtoYkw3dlMtMnM4NzBNaEdMbmREVEFxcTFrWWp0em90cW8tWGJ0R2NMTUR4azNNSjY4YllzeDNKcDNaUHpTdjVsY0Z6ZnFEcDdia2RfdkpXMzdzcWx0VDA0dTY4NnhZX3lfVUtMa21SUmtaMVpsaGhQbw?oc=5)
 
 2026-05-03 <span class="news-indication-tag">cancer</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhM2cxZE5DclhOVm9FS3RrQjZxSm5JTEFVWUxfM3BuTmxBM3pfbHRtaW9sbF9LbXBxQzdXNFBrNjhZam92SWNoaXpnSzh5cjdXcEVqMUhVbUtSZ3U0?oc=5)
+來源：[L'Indépendant](https://news.google.com/rss/articles/CBMinwJBVV95cUxPckN3VHZzQ1ZuUlAxSXNvR3FuUkIwWkxkamtSLWw1cVFfMWlVUGJmLXh4R1ltWlY2S2hqa2Z5YlpiRUVNWUZBd19CZC1RNTVJeFlZTG85RG9RZ2FEWldFM2wzQnFXNHRoYUlXNU41ejNra2RuWjk4QVE0TS1tT2lBQzdpaTN0YXozMVBlSTU5N3Z3OGNsV1FxR2xkOVNvbVBUQ3kxdkFuRzA2VlNCVmtoYkw3dlMtMnM4NzBNaEdMbmREVEFxcTFrWWp0em90cW8tWGJ0R2NMTUR4azNNSjY4YllzeDNKcDNaUHpTdjVsY0Z6ZnFEcDdia2RfdkpXMzdzcWx0VDA0dTY4NnhZX3lfVUtMa21SUmtaMVpsaGhQbw?oc=5)
 
 ---
 
@@ -102,19 +134,19 @@ permalink: /news/axicabtagene-ciloleucel/
 
 ---
 
-### [Dans plus de 90% des cas, ce symptôme facile à voir est le premier signe d'un cancer de la vessie](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
-
-2026-05-03 <span class="news-indication-tag">cancer</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
-
----
-
 ### [« Ce sont les progrès de la recherche qui m’ont sauvé » : en rémission, il marche au profit de la Ligue contre le cancer - L'Est Républicain](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTU5acjkzX0hBMUZDQ1RnNXlhdTZCcWpsWmxLUzlHNnFTeTB4TFIxNlZoa2NGdHlQemZYd2FiT2JSQW90a2ZZS2s5VDZ2dE1HaW9GMTNueU9udjkwZlBtMF9INTdqbUZqRWYyNGJiVlVYQjAwckNURkM0Wk0zZVYxU0plbHRWdkVKLW1fNHN4ZWh6QW1rT1AydWxHZklBUEk0UU0xanlLM21aTjIzWkRCaTNJemRhUEZWWHFaOFUtbVhfZDVMT05sMmo5OWVvdUtGY1lGLUtiMFl3SmJ6ZFN5dHF3MGJnbFBWRGZmcnhZeFE1S3lpZ0dldlpKQ21EcHc?oc=5)
 
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
 來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTU5acjkzX0hBMUZDQ1RnNXlhdTZCcWpsWmxLUzlHNnFTeTB4TFIxNlZoa2NGdHlQemZYd2FiT2JSQW90a2ZZS2s5VDZ2dE1HaW9GMTNueU9udjkwZlBtMF9INTdqbUZqRWYyNGJiVlVYQjAwckNURkM0Wk0zZVYxU0plbHRWdkVKLW1fNHN4ZWh6QW1rT1AydWxHZklBUEk0UU0xanlLM21aTjIzWkRCaTNJemRhUEZWWHFaOFUtbVhfZDVMT05sMmo5OWVvdUtGY1lGLUtiMFl3SmJ6ZFN5dHF3MGJnbFBWRGZmcnhZeFE1S3lpZ0dldlpKQ21EcHc?oc=5)
+
+---
+
+### [« J’ai essayé de rendre utile mon cancer » : Yaël Braun-Pivet à Biscarrosse pour la bonne cause - Sud Ouest](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXNVR3BZUXYwNkpmWFFIN29mbTRKOVBEWnZpem5vR0VVZjA0c09JS18wV3Bzb3dsdE04S0MtbFlVb2NRRkFzdVJnQnNETWoxRUdhVkZqUkNzd3p3M0RPQ28xTzN6Nlg1amZBamVKVlZubnpLbjM0LU5uUmZRVExBNDRFMlE4dFdlMWhIMUcxcW1hU0xkZ3BCNVJMYS1nZF9GRVpFdVJNMmJxOXpDSzNfaEtCWWNxYUJFZmNZT21XUU1Fc2tjakxVU25UVVM3SFBvOFVTSDQzZzUxLVlDUDREbTlUUFllZWdJVVE?oc=5)
+
+2026-05-02 <span class="news-indication-tag">cancer</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXNVR3BZUXYwNkpmWFFIN29mbTRKOVBEWnZpem5vR0VVZjA0c09JS18wV3Bzb3dsdE04S0MtbFlVb2NRRkFzdVJnQnNETWoxRUdhVkZqUkNzd3p3M0RPQ28xTzN6Nlg1amZBamVKVlZubnpLbjM0LU5uUmZRVExBNDRFMlE4dFdlMWhIMUcxcW1hU0xkZ3BCNVJMYS1nZF9GRVpFdVJNMmJxOXpDSzNfaEtCWWNxYUJFZmNZT21XUU1Fc2tjakxVU25UVVM3SFBvOFVTSDQzZzUxLVlDUDREbTlUUFllZWdJVVE?oc=5)
 
 ---
 
@@ -139,22 +171,6 @@ permalink: /news/axicabtagene-ciloleucel/
 2026-05-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
-
----
-
-### [Jen’s Journey: Co Armagh woman’s niggling ‘mouth ulcer’ turned out to be stage four cancer - Armagh I](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZweUpXMjdTZG8tVm5MMG1VaFpJN3pyY2l2cjhSU2ZyVUF1S0lKbUowd2thY0VUTF9zcHJwalZuNzJpejU0TFA1b0NzYWdKcHR3MDdwczAzQlkySlJabnU5UDE1UXp4VWdEN0IwTUdCVTZUcUFHWU1jYzJNbWxQQlcyTU5INF9rV1RsVi0wanJSSS0zSUwtU1FRUWhxczlYWVVIQkRxRmtNNU5oR2NvT2xHZU5mWWtSZGtCcG8zQnFWQkVRb0xB?oc=5)
-
-2026-05-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Armagh I](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZweUpXMjdTZG8tVm5MMG1VaFpJN3pyY2l2cjhSU2ZyVUF1S0lKbUowd2thY0VUTF9zcHJwalZuNzJpejU0TFA1b0NzYWdKcHR3MDdwczAzQlkySlJabnU5UDE1UXp4VWdEN0IwTUdCVTZUcUFHWU1jYzJNbWxQQlcyTU5INF9rV1RsVi0wanJSSS0zSUwtU1FRUWhxczlYWVVIQkRxRmtNNU5oR2NvT2xHZU5mWWtSZGtCcG8zQnFWQkVRb0xB?oc=5)
-
----
-
-### ['I turned to alcohol due to pain from undiagnosed arthritis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
-
-2026-05-02 <span class="news-indication-tag">arthritis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
 ---
 

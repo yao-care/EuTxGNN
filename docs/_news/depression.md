@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。6 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>6 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Family data reveal two genetic paths to childhood depression and anxiety - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
+
+2026-05-03
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
+
+---
 
 ### [Contre la dépression, un implant cérébral bientôt en phase de test - Journal du Geek](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWdnOVRnRVF6NUZJUU1udXZTYVVEUFZTTFpXLVJwekhSZ0gzTHBObDBKZnJIQ3RKNzZxVlhhVkU3RGhMbkhETTBfdkNPZlFnLXF5dS12X1p1Z3RqNHpEQ1duVmpZajF2bzMtZGR6RHNZeDdqcmpRX2U4MU9ENmN6QUViby1LamhOdWowSmgwajdxa2x5TE5KQmxOWFpCeXhVZkpmOXFpRlV6M00?oc=5)
 
@@ -58,6 +66,14 @@ permalink: /news/depression/
 2026-05-03
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQThERkhiSFhTNG5adld6WVBGVW9BaDNJeVZodVRTbTE5ZU9xWUFrX3VzYVlhZko3VkhJUHpNUXZiaFdrTWJVVmFBM1R3VmRoR2ZmWjdKUkk4RmN3Y2RlcjFwTWNBandSUm14ZV9xODhiX1BGdTNsVlNDUE0yNUR4UExsOGtCMWJkajU2MmNRa3FMUTMxVV9oZ3dEdHpreXlSY3JHaWQ2al9QMHdzbkpBenBXTTRLcmR1YmFCM253MmtLRjNHRGFV?oc=5)
+
+---
+
+### [Distimia, una depresión silenciosa que puede volverse crónica](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHRTbmc4THZTTWpjZjZwdFE0S181SUotWGVvSmpfOE9ET0hBNzQ0bW1MdXh2ei1ocldRMlI1Q1ZZSmEyV09wMGJjZGFHcmZKYmJSNW1ndVJMU3FianpPOTlyUFlNRTQwSXJZcGFIS0ZxcTh4WlA5YlhKZG9zVThiV282U1VPeThGdjBSbXRzdE52Qm12eUE3UjQ0cmhVNHJjR2NOU9IBvwFBVV95cUxNZjJZejBEUTdIWWxNV1I4TURrSHNxblRZaGZlOWF6X3Z6TFpZTlR0Y3doZ3dSWjBaVTlxeUpPTTU5M3o4WXo5d2U1Zmd5dTVqbmxJVG41ZWFNdk03WHhNX0U1QW9HakxETlc0LUU3TFJhbTdWWXFjWDFjbzBQTm5xMDZrWUE0Qi1LQ1hkd0NTcjI1UjhCVno3ZHV1LTJMNVR2bTc1a0RtN3hlXzhlZmVVUTJRUUw0VVV1cFM2QkE3dw?oc=5)
+
+2026-05-03
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHRTbmc4THZTTWpjZjZwdFE0S181SUotWGVvSmpfOE9ET0hBNzQ0bW1MdXh2ei1ocldRMlI1Q1ZZSmEyV09wMGJjZGFHcmZKYmJSNW1ndVJMU3FianpPOTlyUFlNRTQwSXJZcGFIS0ZxcTh4WlA5YlhKZG9zVThiV282U1VPeThGdjBSbXRzdE52Qm12eUE3UjQ0cmhVNHJjR2NOU9IBvwFBVV95cUxNZjJZejBEUTdIWWxNV1I4TURrSHNxblRZaGZlOWF6X3Z6TFpZTlR0Y3doZ3dSWjBaVTlxeUpPTTU5M3o4WXo5d2U1Zmd5dTVqbmxJVG41ZWFNdk03WHhNX0U1QW9HakxETlc0LUU3TFJhbTdWWXFjWDFjbzBQTm5xMDZrWUE0Qi1LQ1hkd0NTcjI1UjhCVno3ZHV1LTJMNVR2bTc1a0RtN3hlXzhlZmVVUTJRUUw0VVV1cFM2QkE3dw?oc=5)
 
 ---
 

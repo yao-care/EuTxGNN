@@ -14,7 +14,7 @@ permalink: /news/insulin-degludec/
 ---
 
 <p class="key-answer" data-question="Insulin Degludec 有什麼相關新聞？">
-<strong>Insulin Degludec</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Degludec</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/insulin-degludec/
 <p><a href="{{ '/drugs/insulin-degludec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [La menopausia en la mujer con diabetes, una etapa que requiere evaluación específica - Somos Pacientes](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWltSU1oUGhvUG1PLUVBU2ZVMm9oQS1LVTBOTHhZMEF1eHJPanFuUEpsRjRXU1NYcTkxSi12cXlwRzIyUXFzSXVSdHNSLV9sRkNjSDJzZHB1SXRrbGZET1FWLWZ2RWZSSjZ6MVBoSENoel8xTnZiQy1aRVBSZ1RNTmJKWENtaU13Nmc?oc=5)
+
+2026-05-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWltSU1oUGhvUG1PLUVBU2ZVMm9oQS1LVTBOTHhZMEF1eHJPanFuUEpsRjRXU1NYcTkxSi12cXlwRzIyUXFzSXVSdHNSLV9sRkNjSDJzZHB1SXRrbGZET1FWLWZ2RWZSSjZ6MVBoSENoel8xTnZiQy1aRVBSZ1RNTmJKWENtaU13Nmc?oc=5)
+
+---
+
+### [Dídac Mauricio Puente, nuevo presidente de la SED: “El objetivo a largo plazo es que las personas no desarrollen diabetes”](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTJRdHdCbWNNTUZvS0Q4cEtnNWp0Z3R0MXdrX0V3QWsxLTZRajFtUFFMMHBORG5TZzJDUTN4VWhIRlY1WC04eTF2SE1ib2JPVVIwQkR6MF9wU0FlUS1GeFAxS1dWYk9iVXg0dTVWc2F3Y1J2dzRTVHRWQUlwLW5uQUhTNXh0a2tYX21mbm9yWUNhVWRWcERSTy1rcklQUWYyb3ZiZW1tcGZ6VDFuUTNxQWo4Z284M2hWMV9wMEJUeldwR2hJSzVRU0t1ZDdMd2ZUbTc4NkRNSGN2WlJMWTltZFEzdmRjZVRGYi1iTDVJS0FzaEk?oc=5)
+
+2026-05-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTJRdHdCbWNNTUZvS0Q4cEtnNWp0Z3R0MXdrX0V3QWsxLTZRajFtUFFMMHBORG5TZzJDUTN4VWhIRlY1WC04eTF2SE1ib2JPVVIwQkR6MF9wU0FlUS1GeFAxS1dWYk9iVXg0dTVWc2F3Y1J2dzRTVHRWQUlwLW5uQUhTNXh0a2tYX21mbm9yWUNhVWRWcERSTy1rcklQUWYyb3ZiZW1tcGZ6VDFuUTNxQWo4Z284M2hWMV9wMEJUeldwR2hJSzVRU0t1ZDdMd2ZUbTc4NkRNSGN2WlJMWTltZFEzdmRjZVRGYi1iTDVJS0FzaEk?oc=5)
+
+---
+
+### [Semaglutid und Co. nie mehr absetzen? - Gelbe Liste](https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybGRaVlhUSFpXWjlGZmJBOWh3VHBnUm1ya29yUm10ckdOSzFuYjFQdG1NanBPMi0wYWNBOGNNTm9mTF9NTVAxZmdOeWI4NlJodmM1a1lDVDIyMDZMWTF4UWNVS1g1am5xYVo0cTBPTnM?oc=5)
+
+2026-05-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybGRaVlhUSFpXWjlGZmJBOWh3VHBnUm1ya29yUm10ckdOSzFuYjFQdG1NanBPMi0wYWNBOGNNTm9mTF9NTVAxZmdOeWI4NlJodmM1a1lDVDIyMDZMWTF4UWNVS1g1am5xYVo0cTBPTnM?oc=5)
+
+---
 
 ### [Un paté funcional enriquecido en silicio muestra efectos beneficiosos en la prevención de la diabetes tipo 2 - Andalucía Información](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTREQzFtSVE4cVp0d29Lbncwc1h5aHVmb0x5ZXVfN194UVBidlJIT2pPRmstVU9LdzNZY2RudmtyVFBBNmVYS3JXZ2xfcE1pb0IxOVpiR3JfZVpjYy1sZTFfUGdwalFJMTctd3BZWnBsYTRzcVFVRy1wZ2lUb0Y5ajkwam5ZRWVLQU5RWEp1OHV0UkFEa0NPN0t4WncxQzYtYnpPUnQ1VTZ3WVRsRm9rY2JoLXRTam1LVEVnSnQ0VnpfYUZwTXh5LUE4LV8wSk44RFFGdTljVmV4WngyUFNhemRiYXBmLTVQWVJ6Mk9sTEo2cFVHVkhkS0VnSUdBZ9IBgwJBVV95cUxQMHN6amFFczl0al9GeXZiUjN2dHZUV2NiX3gwVkVoT25qb0tyeWFFZXNzcF9GNk1wUU1uZThuNG03VlNILWtFUW9kOEJ0M3l0T2VTb3dqaUNVczNQR0F5b1ZMcmhTNFU3M3FRMzc5VVJHdkpMTXdzUTBFa3pDdG5Bcmw4OElGZFpIYzlZbm1lcUtjeE51bDB1bVVnbnVGdVdCY0lkS0RYdEZnVHdPSHQ2dkNtUmVOLWdhcHd0aTZ2UVlHVjlXaC13THJCT2MtMlFsODFWeGFCUFJhR2RacHRCTGF2czZ4eFM3LTNNV1dDX0J4Q0pjNWRQOElQc2hRenE4UWZz?oc=5)
 
@@ -62,27 +86,11 @@ permalink: /news/insulin-degludec/
 
 ---
 
-### [La terapia sintomática durante la menopausia en la mujer con diabetes: una "carrera de obstáculos" - Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
-
-2026-05-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
-
----
-
 ### [Neue Erkenntnisse: Vitamin D und seine Rolle bei Diabetes, Alzheimer und IBD](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
-
----
-
-### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
-
-2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
 
 ---
 

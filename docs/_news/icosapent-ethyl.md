@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 cardiopatía</span></li>
+<li>heart disease（98.0%）</li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -52,29 +52,13 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [El peligro oculto de un disgusto fuerte: cómo tus emociones pueden simular un infarto y mandarte al hospital - La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZGdYdnh6ZW9TOGZaVW1JWkRGZFRuWFo2NWJrMGdWNkZNaDJYT090aXBvLXhfV0x5LTA2N2NUX3M4ZnYtVk9Od3VvVUFpSERUaGY4QjlFdy1QbW5pNEpLQUpMRFNDUzF6M1c3dXFsN3RGUXNaNXpMckVIRUpsTVhJMlp6bnhvd1NpQVpqQVgtTXBxYlhKSDVOazR5OWpodTd3UVBHQjVOeWdkRGgwU2l6eHplYU5yTjlJYVBPVG1aLVRTdTRYZ2ZrV1hyamhTa2lqby1CbHFIMnRITm44dnQ3YUdlS25VeFlmWEw3czVFTjZyRmh1V25iZ9IBjAJBVV95cUxPa2hEZGhBNnFIN3FlMF9DOXJFWGQwb2c0dVpnQUJYV1ltOW5IMTB3bjJ5VTNkc0xlUmZfaVBzRkh6dzV2eUprV0xZNE1zLVgwX05uXzlpd2lQSkxXcGp6S1d0YVpRQWxzbENnc3o3UVVTQ2ZJVEQ5OVdUdmQyMmVOSmlIV04xRm5ycElIdGpkVzlXbzlFcWR6SThCQ2Y4SS1mZE5NVXZmc3VWdjYydmE4dTFBY3F2c1ljYnZpTlZxNWtQeXJhWDNxbFhma1ZfemhtcHhiRlloMUZMT2xSMFpacEgya2NCVlpKTHVUUW1RaE1BSGU4UzcyZk5ZeDF2bDVadm1wRV8xc05RUDZF?oc=5)
-
-2026-05-03 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZGdYdnh6ZW9TOGZaVW1JWkRGZFRuWFo2NWJrMGdWNkZNaDJYT090aXBvLXhfV0x5LTA2N2NUX3M4ZnYtVk9Od3VvVUFpSERUaGY4QjlFdy1QbW5pNEpLQUpMRFNDUzF6M1c3dXFsN3RGUXNaNXpMckVIRUpsTVhJMlp6bnhvd1NpQVpqQVgtTXBxYlhKSDVOazR5OWpodTd3UVBHQjVOeWdkRGgwU2l6eHplYU5yTjlJYVBPVG1aLVRTdTRYZ2ZrV1hyamhTa2lqby1CbHFIMnRITm44dnQ3YUdlS25VeFlmWEw3czVFTjZyRmh1V25iZ9IBjAJBVV95cUxPa2hEZGhBNnFIN3FlMF9DOXJFWGQwb2c0dVpnQUJYV1ltOW5IMTB3bjJ5VTNkc0xlUmZfaVBzRkh6dzV2eUprV0xZNE1zLVgwX05uXzlpd2lQSkxXcGp6S1d0YVpRQWxzbENnc3o3UVVTQ2ZJVEQ5OVdUdmQyMmVOSmlIV04xRm5ycElIdGpkVzlXbzlFcWR6SThCQ2Y4SS1mZE5NVXZmc3VWdjYydmE4dTFBY3F2c1ljYnZpTlZxNWtQeXJhWDNxbFhma1ZfemhtcHhiRlloMUZMT2xSMFpacEgya2NCVlpKTHVUUW1RaE1BSGU4UzcyZk5ZeDF2bDVadm1wRV8xc05RUDZF?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [The Most Effective Knee Arthritis Treatments Aren’t What You Expect](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
-
----
-
-### ['I turned to alcohol due to pain from undiagnosed arthritis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
-
-2026-05-02 <span class="news-indication-tag">arthritis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
 ---
 

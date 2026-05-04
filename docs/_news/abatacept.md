@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="Abatacept 有什麼相關新聞？">
-<strong>Abatacept</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abatacept</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/abatacept/
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Lisa Mosconi, neurocientífica de la Universidad de Florencia: "Hay 5 alimentos malditos que influyen en el deterioro cognitivo”](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR0IyRHpSVFZlUkQybFA2ODR2ZW5PYVhhWG5wUWtqcTl3UGRBZWpFQmFjOWtsaDV3ZUI1QXRsLXhQVmZFNUJyVDdoV3JBdFVueTZZV25oT2lTZ3hLNnRNYjJpX0tfVWtJTFROOXFKOUNRUnNwdVBqQkR4RUl1cU1rQkdyVUlmVHhUM2RYNlNsUTI1a3lCRjlaYWlXQlRxSjh5SlFocWJieHdEOTVIN19jSDQ2RE9YZFJ3Zms0ckhGejl4T2lBU2FzY2tEQzZCTnBCRVlUOTlrdnRFUkZiZGJoSzgwVUd1OThEV0pN?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/abatacept/
 2026-05-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
-
----
-
-### ['I turned to alcohol due to pain from undiagnosed arthritis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
-
-2026-05-02 <span class="news-indication-tag">arthritis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
 ---
 

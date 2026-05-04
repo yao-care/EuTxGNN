@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [The 'inertia' of dementia care exposed by a tragedy](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zZHJlZ0JCQ1ZnWUdmX3BENzRxWFZRY0lLdXhoVzVZVWxEQ2hRcXMwUnNDZ3NQMFFsWnlDdnhLYzdROTF6M3NxUFNTMHh5ODlrbHF2Tmo4WVhHRW00?oc=5)
+
+2026-05-03
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zZHJlZ0JCQ1ZnWUdmX3BENzRxWFZRY0lLdXhoVzVZVWxEQ2hRcXMwUnNDZ3NQMFFsWnlDdnhLYzdROTF6M3NxUFNTMHh5ODlrbHF2Tmo4WVhHRW00?oc=5)
+
+---
 
 ### [The Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5)
 

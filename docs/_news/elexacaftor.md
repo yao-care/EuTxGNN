@@ -54,19 +54,19 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（2 則）
 
+### [Hipertensión en España: Prevalencia, Prevención y la Iniciativa de Apoteca Natura - En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
+
+2026-05-04 <span class="news-indication-tag">hipertensión</span>
+
+來源：[En Pozuelo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmhoX0hRZXVzWDN3dm95cWQxb2c0M1Jha01jS1ZpNnFVeWN4ZzVPWnNvT0QzY1BPYlFZVmlwdnJHc1FFRVc4WERSbUEtbzJSWWVmanJsdS1SRE1DSllXc0lRdkE0bVA3SnJ6UU1iOVdnTHdRdWlIbHlJVmdKMEJNb0hKaFZiRjRfZ0hxTkVXOTlJakMxWmFZVEFyZ0VueDlUOEFwSkFsLUxaM05J?oc=5)
+
+---
+
 ### [The Most Effective Knee Arthritis Treatments Aren’t What You Expect](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
-
----
-
-### ['I turned to alcohol due to pain from undiagnosed arthritis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
-
-2026-05-02 <span class="news-indication-tag">arthritis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
 ---
 

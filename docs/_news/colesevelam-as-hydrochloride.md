@@ -54,11 +54,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（7 則）
 
-### [El peligro oculto de un disgusto fuerte: cómo tus emociones pueden simular un infarto y mandarte al hospital - La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZGdYdnh6ZW9TOGZaVW1JWkRGZFRuWFo2NWJrMGdWNkZNaDJYT090aXBvLXhfV0x5LTA2N2NUX3M4ZnYtVk9Od3VvVUFpSERUaGY4QjlFdy1QbW5pNEpLQUpMRFNDUzF6M1c3dXFsN3RGUXNaNXpMckVIRUpsTVhJMlp6bnhvd1NpQVpqQVgtTXBxYlhKSDVOazR5OWpodTd3UVBHQjVOeWdkRGgwU2l6eHplYU5yTjlJYVBPVG1aLVRTdTRYZ2ZrV1hyamhTa2lqby1CbHFIMnRITm44dnQ3YUdlS25VeFlmWEw3czVFTjZyRmh1V25iZ9IBjAJBVV95cUxPa2hEZGhBNnFIN3FlMF9DOXJFWGQwb2c0dVpnQUJYV1ltOW5IMTB3bjJ5VTNkc0xlUmZfaVBzRkh6dzV2eUprV0xZNE1zLVgwX05uXzlpd2lQSkxXcGp6S1d0YVpRQWxzbENnc3o3UVVTQ2ZJVEQ5OVdUdmQyMmVOSmlIV04xRm5ycElIdGpkVzlXbzlFcWR6SThCQ2Y4SS1mZE5NVXZmc3VWdjYydmE4dTFBY3F2c1ljYnZpTlZxNWtQeXJhWDNxbFhma1ZfemhtcHhiRlloMUZMT2xSMFpacEgya2NCVlpKTHVUUW1RaE1BSGU4UzcyZk5ZeDF2bDVadm1wRV8xc05RUDZF?oc=5)
+### [La menopausia en la mujer con diabetes, una etapa que requiere evaluación específica - Somos Pacientes](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWltSU1oUGhvUG1PLUVBU2ZVMm9oQS1LVTBOTHhZMEF1eHJPanFuUEpsRjRXU1NYcTkxSi12cXlwRzIyUXFzSXVSdHNSLV9sRkNjSDJzZHB1SXRrbGZET1FWLWZ2RWZSSjZ6MVBoSENoel8xTnZiQy1aRVBSZ1RNTmJKWENtaU13Nmc?oc=5)
 
-2026-05-03 <span class="news-indication-tag">cardiopatía</span>
+2026-05-04 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZGdYdnh6ZW9TOGZaVW1JWkRGZFRuWFo2NWJrMGdWNkZNaDJYT090aXBvLXhfV0x5LTA2N2NUX3M4ZnYtVk9Od3VvVUFpSERUaGY4QjlFdy1QbW5pNEpLQUpMRFNDUzF6M1c3dXFsN3RGUXNaNXpMckVIRUpsTVhJMlp6bnhvd1NpQVpqQVgtTXBxYlhKSDVOazR5OWpodTd3UVBHQjVOeWdkRGgwU2l6eHplYU5yTjlJYVBPVG1aLVRTdTRYZ2ZrV1hyamhTa2lqby1CbHFIMnRITm44dnQ3YUdlS25VeFlmWEw3czVFTjZyRmh1V25iZ9IBjAJBVV95cUxPa2hEZGhBNnFIN3FlMF9DOXJFWGQwb2c0dVpnQUJYV1ltOW5IMTB3bjJ5VTNkc0xlUmZfaVBzRkh6dzV2eUprV0xZNE1zLVgwX05uXzlpd2lQSkxXcGp6S1d0YVpRQWxzbENnc3o3UVVTQ2ZJVEQ5OVdUdmQyMmVOSmlIV04xRm5ycElIdGpkVzlXbzlFcWR6SThCQ2Y4SS1mZE5NVXZmc3VWdjYydmE4dTFBY3F2c1ljYnZpTlZxNWtQeXJhWDNxbFhma1ZfemhtcHhiRlloMUZMT2xSMFpacEgya2NCVlpKTHVUUW1RaE1BSGU4UzcyZk5ZeDF2bDVadm1wRV8xc05RUDZF?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWltSU1oUGhvUG1PLUVBU2ZVMm9oQS1LVTBOTHhZMEF1eHJPanFuUEpsRjRXU1NYcTkxSi12cXlwRzIyUXFzSXVSdHNSLV9sRkNjSDJzZHB1SXRrbGZET1FWLWZ2RWZSSjZ6MVBoSENoel8xTnZiQy1aRVBSZ1RNTmJKWENtaU13Nmc?oc=5)
+
+---
+
+### [Dídac Mauricio Puente, nuevo presidente de la SED: “El objetivo a largo plazo es que las personas no desarrollen diabetes”](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTJRdHdCbWNNTUZvS0Q4cEtnNWp0Z3R0MXdrX0V3QWsxLTZRajFtUFFMMHBORG5TZzJDUTN4VWhIRlY1WC04eTF2SE1ib2JPVVIwQkR6MF9wU0FlUS1GeFAxS1dWYk9iVXg0dTVWc2F3Y1J2dzRTVHRWQUlwLW5uQUhTNXh0a2tYX21mbm9yWUNhVWRWcERSTy1rcklQUWYyb3ZiZW1tcGZ6VDFuUTNxQWo4Z284M2hWMV9wMEJUeldwR2hJSzVRU0t1ZDdMd2ZUbTc4NkRNSGN2WlJMWTltZFEzdmRjZVRGYi1iTDVJS0FzaEk?oc=5)
+
+2026-05-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTJRdHdCbWNNTUZvS0Q4cEtnNWp0Z3R0MXdrX0V3QWsxLTZRajFtUFFMMHBORG5TZzJDUTN4VWhIRlY1WC04eTF2SE1ib2JPVVIwQkR6MF9wU0FlUS1GeFAxS1dWYk9iVXg0dTVWc2F3Y1J2dzRTVHRWQUlwLW5uQUhTNXh0a2tYX21mbm9yWUNhVWRWcERSTy1rcklQUWYyb3ZiZW1tcGZ6VDFuUTNxQWo4Z284M2hWMV9wMEJUeldwR2hJSzVRU0t1ZDdMd2ZUbTc4NkRNSGN2WlJMWTltZFEzdmRjZVRGYi1iTDVJS0FzaEk?oc=5)
+
+---
+
+### [Semaglutid und Co. nie mehr absetzen? - Gelbe Liste](https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybGRaVlhUSFpXWjlGZmJBOWh3VHBnUm1ya29yUm10ckdOSzFuYjFQdG1NanBPMi0wYWNBOGNNTm9mTF9NTVAxZmdOeWI4NlJodmM1a1lDVDIyMDZMWTF4UWNVS1g1am5xYVo0cTBPTnM?oc=5)
+
+2026-05-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybGRaVlhUSFpXWjlGZmJBOWh3VHBnUm1ya29yUm10ckdOSzFuYjFQdG1NanBPMi0wYWNBOGNNTm9mTF9NTVAxZmdOeWI4NlJodmM1a1lDVDIyMDZMWTF4UWNVS1g1am5xYVo0cTBPTnM?oc=5)
 
 ---
 
@@ -70,27 +86,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [La terapia sintomática durante la menopausia en la mujer con diabetes: una "carrera de obstáculos" - Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
-
-2026-05-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
-
----
-
 ### [Neue Erkenntnisse: Vitamin D und seine Rolle bei Diabetes, Alzheimer und IBD](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
 
 2026-05-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
-
----
-
-### [Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
-
-2026-05-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5)
 
 ---
 

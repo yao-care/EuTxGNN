@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Upadacitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Los especialistas piden que el asma infantil no se trate sólo cuando aparecen los síntomas](https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU82TXJEbmNLM0YyM3B3SlFqWnBVY2JaUkJtb1VSWjVSUHNZUDg0eVp0N2xqanBGUkZ4RGFqN25RT2J4ZjlJaEpGcF9tX1lMUmdGaURKVUxGOVVtR1R1dno3ZHZ1b1FPNGR2bUhnNWhNSmZwTE04RUpSelA1ZlhiUHRBdU1ROC1mS1BjM0xlTllqeXBWQlNiSjJZN2hyY1NRUl9hZXdjdzVjRHpEN3NaQUZyRktaUDdnYVE?oc=5)
+### [Primavera y asma: especialistas de Vithas piden extremar precauciones - Onda Cero](https://news.google.com/rss/articles/CBMihAJBVV95cUxOOG4zVWNvNDVBSGl2Qm0zWThqYi11RlU0clEwQnA0RGZtdzJfd3hvMmtKbmREQkUtaGtacTdFZkd6R2VSNjduZjVOdjlCZHltSlloNlhSRmI0VXRPbmtrQkdyOGpqTkFBVDFhVXpDam1GczV6Y1BMMEszS044UDVPTlMtMzNsNDdMVkRNcHAyeWlwMDJFRXpLaU1kYkl5Xy00MjNHci1rcHVvX3RHSXZuS1FRXzd3elFUZmRwb0dibnB2RzF0U2pUdzhjYTVVWWdPLW1SVV8zeWdEc3ZjdDNOa1ZqOHUtLXdJMmFSRGgtZzlPNEkyZXNHaXFnY1ZlNGpvTDUydNIBhAJBVV95cUxPQ1ItRkpjN2NCZHBQLUhhU1FwV3JxMWJxSFAza0psYXNLY2xlbFZRNHBHNFBZcFB3ZHVTYTY0amk3eUItYlNDNmliNkg4YVdiVE9OUjdGaUNfYzlCcEtVazlsLVVPR0YxSDNlVnF1elVxN201TzhxeUtTWXpOZ2kwbDJxQ1BBMlgwZDZkWmVYbFBmcWlVUVBSdWpKQ084ZFpxYWN2cklaMkoxSVlMaWlmSWVOenFjd2tQa0xhOHV3bTgwUWNDRFRSbVBRcHBBakpFdExFdHczdWlSSkQxdlZPRzVCd1g1RU5UdWJTLTgwT2U1d1VrN3paT2lBMEVvTVd0SGpaVQ?oc=5)
 
-2026-05-03 <span class="news-indication-tag">asma</span>
+2026-05-04 <span class="news-indication-tag">asma</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU82TXJEbmNLM0YyM3B3SlFqWnBVY2JaUkJtb1VSWjVSUHNZUDg0eVp0N2xqanBGUkZ4RGFqN25RT2J4ZjlJaEpGcF9tX1lMUmdGaURKVUxGOVVtR1R1dno3ZHZ1b1FPNGR2bUhnNWhNSmZwTE04RUpSelA1ZlhiUHRBdU1ROC1mS1BjM0xlTllqeXBWQlNiSjJZN2hyY1NRUl9hZXdjdzVjRHpEN3NaQUZyRktaUDdnYVE?oc=5)
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMihAJBVV95cUxOOG4zVWNvNDVBSGl2Qm0zWThqYi11RlU0clEwQnA0RGZtdzJfd3hvMmtKbmREQkUtaGtacTdFZkd6R2VSNjduZjVOdjlCZHltSlloNlhSRmI0VXRPbmtrQkdyOGpqTkFBVDFhVXpDam1GczV6Y1BMMEszS044UDVPTlMtMzNsNDdMVkRNcHAyeWlwMDJFRXpLaU1kYkl5Xy00MjNHci1rcHVvX3RHSXZuS1FRXzd3elFUZmRwb0dibnB2RzF0U2pUdzhjYTVVWWdPLW1SVV8zeWdEc3ZjdDNOa1ZqOHUtLXdJMmFSRGgtZzlPNEkyZXNHaXFnY1ZlNGpvTDUydNIBhAJBVV95cUxPQ1ItRkpjN2NCZHBQLUhhU1FwV3JxMWJxSFAza0psYXNLY2xlbFZRNHBHNFBZcFB3ZHVTYTY0amk3eUItYlNDNmliNkg4YVdiVE9OUjdGaUNfYzlCcEtVazlsLVVPR0YxSDNlVnF1elVxN201TzhxeUtTWXpOZ2kwbDJxQ1BBMlgwZDZkWmVYbFBmcWlVUVBSdWpKQ084ZFpxYWN2cklaMkoxSVlMaWlmSWVOenFjd2tQa0xhOHV3bTgwUWNDRFRSbVBRcHBBakpFdExFdHczdWlSSkQxdlZPRzVCd1g1RU5UdWJTLTgwT2U1d1VrN3paT2lBMEVvTVd0SGpaVQ?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/upadacitinib/
 2026-05-02 <span class="news-indication-tag">arthritis</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5)
-
----
-
-### ['I turned to alcohol due to pain from undiagnosed arthritis'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
-
-2026-05-02 <span class="news-indication-tag">arthritis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zRGo1bE5aYzdVWHR3ckFfMGxTN1NobDRSbmZoZDBheWc5Q0FpQW9RVFl0LWtCbTJ4WjFjTkR3a2NIU1h4M3dCcDVQU2pKX2VRNlM4cEJBUlViZFgt?oc=5)
 
 ---
 
