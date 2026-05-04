@@ -14,7 +14,7 @@ permalink: /news/lebrikizumab/
 ---
 
 <p class="key-answer" data-question="Lebrikizumab 有什麼相關新聞？">
-<strong>Lebrikizumab</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lebrikizumab</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/lebrikizumab/
 <li>pseudo-von Willebrand disease（95.5%）</li>
 <li>Glanzmann thrombasthenia（95.5%）</li>
 <li>neonatal dermatomyositis（95.3%）</li>
-<li class="indication-matched">psoriasis（95.1%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（95.1%）</li>
 <li>HER2 positive breast carcinoma（95.1%）</li>
 <li>acrodermatitis chronica atrophicans（95.0%）</li>
 <li>amyopathic dermatomyositis（95.0%）</li>
@@ -52,13 +52,13 @@ permalink: /news/lebrikizumab/
 <p><a href="{{ '/drugs/lebrikizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（18 則）
 
-### [Psoriasis an den Füßen kann kaum noch Schuhe anziehen](https://news.google.com/rss/articles/CBMiswFBVV95cUxON00zd2RjWlVKTmhRS0RaSXdzZlVrMjBNeVFCUy1wa3FDN2Y3VG5GWFNjTlFkajlSV1FwcU9VTElmMXRMemZwQi1NNGpYZVJTMnMtVU9wRjVUbERERDk0c0pWdFpJYmNwdkY1bEFzUHZFRjJ5WDZnNXpJM1JQbTVHeW9qZUZRdm9YRXc5ZFF2bkJQdkktZHRiWm9DdDUwcDItalVvRGhPaFAyZGhnSk5HOTAzQQ?oc=5)
+### [NHS cancer jab could mean patients spend hours less in hospital](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhM2cxZE5DclhOVm9FS3RrQjZxSm5JTEFVWUxfM3BuTmxBM3pfbHRtaW9sbF9LbXBxQzdXNFBrNjhZam92SWNoaXpnSzh5cjdXcEVqMUhVbUtSZ3U0?oc=5)
 
-2026-05-03 <span class="news-indication-tag">psoriasis</span>
+2026-05-03 <span class="news-indication-tag">cancer</span>
 
-來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMiswFBVV95cUxON00zd2RjWlVKTmhRS0RaSXdzZlVrMjBNeVFCUy1wa3FDN2Y3VG5GWFNjTlFkajlSV1FwcU9VTElmMXRMemZwQi1NNGpYZVJTMnMtVU9wRjVUbERERDk0c0pWdFpJYmNwdkY1bEFzUHZFRjJ5WDZnNXpJM1JQbTVHeW9qZUZRdm9YRXc5ZFF2bkJQdkktZHRiWm9DdDUwcDItalVvRGhPaFAyZGhnSk5HOTAzQQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhM2cxZE5DclhOVm9FS3RrQjZxSm5JTEFVWUxfM3BuTmxBM3pfbHRtaW9sbF9LbXBxQzdXNFBrNjhZam92SWNoaXpnSzh5cjdXcEVqMUhVbUtSZ3U0?oc=5)
 
 ---
 
@@ -70,11 +70,11 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [Vous pensez qu’il faut absolument faire 10 000 pas par jour ? Ce n’est pas si évident que ça - Le HuffPost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVZjQ21zMXZ4Tk9RcjZFLXc1UE8tb19wM1FIU0NxZnI4eFE1N3FNenNocGFOYVE3Z0xmR2dOc01uRHEzblpuc29IWWM1LXJkWC03cWJWb1hBODZBWGN1SU55d0tkLUc2enAybnZtOE1ZTjBOVHliVVdNalVWMllSQmFoaERnbnhrSndTWHVtOGlrVXZPY0tFTEF2MXE5WXhmM1VmZC1oU1ZObXE0OWJFMkFucmc4b0xLdkJXTUlUUXBiWU0wc294enI3T2tmN0FzY2dRZklEOXctdVNFQ2M2eU96YWZPbVRNTW9oa2FLcnk?oc=5)
+### [I thought my wife would die - 10 months later she's cancer-free](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlAwamJGbUJEejRuQnBFWlF5T2tWSldTelMxUGhrUHd0UmlkRHFLQjRsZUJpVTdQTXJjeTdIM1VqSnkxTzBpUUctQXAzMGMxSTNpbThKUF9zUFpad0FvcVE0MWxKRVNyWkxsN2stTXd3QkZkRVZwTlVvN0NIeU5VZFNob3VPZXRtNTY2VzlB0gGTAUFVX3lxTE10YjBUeW05aU5iWXNRUHREMmxfdWxDVmY0VmNLOU5GZnZrbU1ZbUNIMUlfTGF6Y3BDQ0tHNV9YTVVZZUJfOWFqWVVVcU9LRWZMZk0zblh4Q2RVUkQwSjBvY214YWFOV0kwMUxfZlRBbE43RUtGQURDUkRWUkl4VzVBdTFmdHlKeGtwbW96YmhXTkhRRQ?oc=5)
 
 2026-05-03 <span class="news-indication-tag">cancer</span>
 
-來源：[Le HuffPost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVZjQ21zMXZ4Tk9RcjZFLXc1UE8tb19wM1FIU0NxZnI4eFE1N3FNenNocGFOYVE3Z0xmR2dOc01uRHEzblpuc29IWWM1LXJkWC03cWJWb1hBODZBWGN1SU55d0tkLUc2enAybnZtOE1ZTjBOVHliVVdNalVWMllSQmFoaERnbnhrSndTWHVtOGlrVXZPY0tFTEF2MXE5WXhmM1VmZC1oU1ZObXE0OWJFMkFucmc4b0xLdkJXTUlUUXBiWU0wc294enI3T2tmN0FzY2dRZklEOXctdVNFQ2M2eU96YWZPbVRNTW9oa2FLcnk?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlAwamJGbUJEejRuQnBFWlF5T2tWSldTelMxUGhrUHd0UmlkRHFLQjRsZUJpVTdQTXJjeTdIM1VqSnkxTzBpUUctQXAzMGMxSTNpbThKUF9zUFpad0FvcVE0MWxKRVNyWkxsN2stTXd3QkZkRVZwTlVvN0NIeU5VZFNob3VPZXRtNTY2VzlB0gGTAUFVX3lxTE10YjBUeW05aU5iWXNRUHREMmxfdWxDVmY0VmNLOU5GZnZrbU1ZbUNIMUlfTGF6Y3BDQ0tHNV9YTVVZZUJfOWFqWVVVcU9LRWZMZk0zblh4Q2RVUkQwSjBvY214YWFOV0kwMUxfZlRBbE43RUtGQURDUkRWUkl4VzVBdTFmdHlKeGtwbW96YmhXTkhRRQ?oc=5)
 
 ---
 
@@ -110,14 +110,6 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [Cancer du pancréas : un traitement innovant redonne espoir au corps médical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWtiRWZwNTdsRjVLdmIyc0I1eHVpajZVZjlLUHVzcTlZY0FPWkFJYU84TVlURGV5VU52X0xkTzRRM21NQjJNSDJZODFTQkpBT2pwYkZlRmRac2djWlhxLTdBOTRxU2VDV2xKUDF0TFViUEtxd19EakQ3TXczSE5xUUp2azF6czE1WmxYT3dDUVNCMUVHT1NoOE9hQnpjb3ZZQmtQZkcwY3hVMHFtNjJDUHFFaWN0YVhxWElqT0M2NGNDVWs?oc=5)
-
-2026-05-03 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWtiRWZwNTdsRjVLdmIyc0I1eHVpajZVZjlLUHVzcTlZY0FPWkFJYU84TVlURGV5VU52X0xkTzRRM21NQjJNSDJZODFTQkpBT2pwYkZlRmRac2djWlhxLTdBOTRxU2VDV2xKUDF0TFViUEtxd19EakQ3TXczSE5xUUp2azF6czE1WmxYT3dDUVNCMUVHT1NoOE9hQnpjb3ZZQmtQZkcwY3hVMHFtNjJDUHFFaWN0YVhxWElqT0M2NGNDVWs?oc=5)
-
----
-
 ### [La terapia sintomática durante la menopausia en la mujer con diabetes: una "carrera de obstáculos" - Revista Pharma Market](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG1oVnJESWxjTmhoSENKR291ZUh2Zno4cWZ3anVkcWZ5MWRWdi14d085em4ya3NKdmFIRUo5VGpsYjNXQzlITDdwaUp2bThSbngyeUFnX2FXY0c4MUVMWW9QRlpCcWVQTzhvd0h1T1RERXg0bXFqQkRvd3ZpNFhKaF9NMWhpRTJtNUs2Z1RYb2JFTWNhMTFFVVVUU09HOHdkU3RrR0c4aWJ5RzZpTmFmY2hWRGRWSjZ2SThYOERyRERUMEpwc1poSQ?oc=5)
 
 2026-05-03 <span class="news-indication-tag">diabetes</span>
@@ -150,14 +142,6 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [L'analyse par IA des scanners pancréatiques révèle les prémices du cancer 16 mois avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
-
-2026-05-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
-
----
-
 ### [« Ce sont les progrès de la recherche qui m’ont sauvé » : en rémission, il marche au profit de la Ligue contre le cancer - L'Est Républicain](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTU5acjkzX0hBMUZDQ1RnNXlhdTZCcWpsWmxLUzlHNnFTeTB4TFIxNlZoa2NGdHlQemZYd2FiT2JSQW90a2ZZS2s5VDZ2dE1HaW9GMTNueU9udjkwZlBtMF9INTdqbUZqRWYyNGJiVlVYQjAwckNURkM0Wk0zZVYxU0plbHRWdkVKLW1fNHN4ZWh6QW1rT1AydWxHZklBUEk0UU0xanlLM21aTjIzWkRCaTNJemRhUEZWWHFaOFUtbVhfZDVMT05sMmo5OWVvdUtGY1lGLUtiMFl3SmJ6ZFN5dHF3MGJnbFBWRGZmcnhZeFE1S3lpZ0dldlpKQ21EcHc?oc=5)
 
 2026-05-02 <span class="news-indication-tag">cancer</span>
@@ -166,11 +150,11 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [Prostate cancer diagnosed much later than other cancers - The Telegraph](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0Z4a3pvaEVIZG92S2dhSGxtVUFZeWlXUVAzaVJxdzM1UjRaWnVBaHF5cWFuaWRWS2hwc2JkRXRZNElvbVNSaDNLVi0tN3J4RzVtcGk3eVZfQkp6N0dabU0wbmMtNGFDaFdLYjg0cHJPUDNuMi0yZ3RSUFhHZDRnQmU2REh2SUVabzJFUg?oc=5)
+### [Un espoir pour les malades : une radiothérapie ciblée sur le cancer du pancréas testée à Grenoble - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
 
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0Z4a3pvaEVIZG92S2dhSGxtVUFZeWlXUVAzaVJxdzM1UjRaWnVBaHF5cWFuaWRWS2hwc2JkRXRZNElvbVNSaDNLVi0tN3J4RzVtcGk3eVZfQkp6N0dabU0wbmMtNGFDaFdLYjg0cHJPUDNuMi0yZ3RSUFhHZDRnQmU2REh2SUVabzJFUg?oc=5)
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
 
 ---
 
@@ -203,22 +187,6 @@ permalink: /news/lebrikizumab/
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
 來源：[Armagh I](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZweUpXMjdTZG8tVm5MMG1VaFpJN3pyY2l2cjhSU2ZyVUF1S0lKbUowd2thY0VUTF9zcHJwalZuNzJpejU0TFA1b0NzYWdKcHR3MDdwczAzQlkySlJabnU5UDE1UXp4VWdEN0IwTUdCVTZUcUFHWU1jYzJNbWxQQlcyTU5INF9rV1RsVi0wanJSSS0zSUwtU1FRUWhxczlYWVVIQkRxRmtNNU5oR2NvT2xHZU5mWWtSZGtCcG8zQnFWQkVRb0xB?oc=5)
-
----
-
-### [Dad who collapsed in kitchen diagnosed with rare brain tumour - Plymouth Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDFaMmxERVlHdEIyODhzdEhHNl9EN01VWFZDVEZvQkt6U2otVXVqd01ITkpkemgzRHdTeGZ6ZXE0YUY2TGhjLVdwQlNwSkVoVTFWaE9vQXl5UHVzQ3ItNnpEVEhKb1N3eGo2bUd4LVktTFJQZ3RnVXVzMW12dXpSamRhUE5JT3g0V2VLSDdYeHN1NEJ4WlU3bjhya9IBoAFBVV95cUxPZG9CM1lFTUswem1hN1gzTmNRcHZtQ0NsT0ZnOExyYThWUHM2OFNFUmplbzNQV2RfdzZuaGZBdmQ4SUxlWEVFYmJfSUdhbzBKSjZ1UFRTaFY1NDBzVkljZTAtQW9wYWpMdVA3YmdKLXFjVFFESUJjbmRfRUxfazNGNXQ3OF9CMHBHSEtOWGtObmVnVVZMSTFxVGRNVVRYNmdF?oc=5)
-
-2026-05-02 <span class="news-indication-tag">tumour</span>
-
-來源：[Plymouth Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDFaMmxERVlHdEIyODhzdEhHNl9EN01VWFZDVEZvQkt6U2otVXVqd01ITkpkemgzRHdTeGZ6ZXE0YUY2TGhjLVdwQlNwSkVoVTFWaE9vQXl5UHVzQ3ItNnpEVEhKb1N3eGo2bUd4LVktTFJQZ3RnVXVzMW12dXpSamRhUE5JT3g0V2VLSDdYeHN1NEJ4WlU3bjhya9IBoAFBVV95cUxPZG9CM1lFTUswem1hN1gzTmNRcHZtQ0NsT0ZnOExyYThWUHM2OFNFUmplbzNQV2RfdzZuaGZBdmQ4SUxlWEVFYmJfSUdhbzBKSjZ1UFRTaFY1NDBzVkljZTAtQW9wYWpMdVA3YmdKLXFjVFFESUJjbmRfRUxfazNGNXQ3OF9CMHBHSEtOWGtObmVnVVZMSTFxVGRNVVRYNmdF?oc=5)
-
----
-
-### [The world wants to eliminate cervical cancer - how Australia led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
 ---
 

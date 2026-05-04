@@ -14,7 +14,7 @@ permalink: /news/enfortumab-vedotin/
 ---
 
 <p class="key-answer" data-question="Enfortumab Vedotin 有什麼相關新聞？">
-<strong>Enfortumab Vedotin</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Enfortumab Vedotin</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/enfortumab-vedotin/
 <p><a href="{{ '/drugs/enfortumab-vedotin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（12 則）
+
+### [NHS cancer jab could mean patients spend hours less in hospital](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhM2cxZE5DclhOVm9FS3RrQjZxSm5JTEFVWUxfM3BuTmxBM3pfbHRtaW9sbF9LbXBxQzdXNFBrNjhZam92SWNoaXpnSzh5cjdXcEVqMUhVbUtSZ3U0?oc=5)
+
+2026-05-03 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhM2cxZE5DclhOVm9FS3RrQjZxSm5JTEFVWUxfM3BuTmxBM3pfbHRtaW9sbF9LbXBxQzdXNFBrNjhZam92SWNoaXpnSzh5cjdXcEVqMUhVbUtSZ3U0?oc=5)
+
+---
 
 ### [Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ja3UtWldkYnBtZXY1bWQzbG9NcGdfMWg4dlp3MW0zaUE4bEVMYURUak52VGF5UURqUmNKUGlrVVc1R0lhOGpPYzUyaFJFZjRRY3hYYWRMN19pTFM1ZVpBV1RrWFdhQ0RrNGEwbFFtWQ?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/enfortumab-vedotin/
 
 ---
 
-### [Vous pensez qu’il faut absolument faire 10 000 pas par jour ? Ce n’est pas si évident que ça - Le HuffPost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVZjQ21zMXZ4Tk9RcjZFLXc1UE8tb19wM1FIU0NxZnI4eFE1N3FNenNocGFOYVE3Z0xmR2dOc01uRHEzblpuc29IWWM1LXJkWC03cWJWb1hBODZBWGN1SU55d0tkLUc2enAybnZtOE1ZTjBOVHliVVdNalVWMllSQmFoaERnbnhrSndTWHVtOGlrVXZPY0tFTEF2MXE5WXhmM1VmZC1oU1ZObXE0OWJFMkFucmc4b0xLdkJXTUlUUXBiWU0wc294enI3T2tmN0FzY2dRZklEOXctdVNFQ2M2eU96YWZPbVRNTW9oa2FLcnk?oc=5)
+### [I thought my wife would die - 10 months later she's cancer-free](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlAwamJGbUJEejRuQnBFWlF5T2tWSldTelMxUGhrUHd0UmlkRHFLQjRsZUJpVTdQTXJjeTdIM1VqSnkxTzBpUUctQXAzMGMxSTNpbThKUF9zUFpad0FvcVE0MWxKRVNyWkxsN2stTXd3QkZkRVZwTlVvN0NIeU5VZFNob3VPZXRtNTY2VzlB0gGTAUFVX3lxTE10YjBUeW05aU5iWXNRUHREMmxfdWxDVmY0VmNLOU5GZnZrbU1ZbUNIMUlfTGF6Y3BDQ0tHNV9YTVVZZUJfOWFqWVVVcU9LRWZMZk0zblh4Q2RVUkQwSjBvY214YWFOV0kwMUxfZlRBbE43RUtGQURDUkRWUkl4VzVBdTFmdHlKeGtwbW96YmhXTkhRRQ?oc=5)
 
 2026-05-03 <span class="news-indication-tag">cancer</span>
 
-來源：[Le HuffPost](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVZjQ21zMXZ4Tk9RcjZFLXc1UE8tb19wM1FIU0NxZnI4eFE1N3FNenNocGFOYVE3Z0xmR2dOc01uRHEzblpuc29IWWM1LXJkWC03cWJWb1hBODZBWGN1SU55d0tkLUc2enAybnZtOE1ZTjBOVHliVVdNalVWMllSQmFoaERnbnhrSndTWHVtOGlrVXZPY0tFTEF2MXE5WXhmM1VmZC1oU1ZObXE0OWJFMkFucmc4b0xLdkJXTUlUUXBiWU0wc294enI3T2tmN0FzY2dRZklEOXctdVNFQ2M2eU96YWZPbVRNTW9oa2FLcnk?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlAwamJGbUJEejRuQnBFWlF5T2tWSldTelMxUGhrUHd0UmlkRHFLQjRsZUJpVTdQTXJjeTdIM1VqSnkxTzBpUUctQXAzMGMxSTNpbThKUF9zUFpad0FvcVE0MWxKRVNyWkxsN2stTXd3QkZkRVZwTlVvN0NIeU5VZFNob3VPZXRtNTY2VzlB0gGTAUFVX3lxTE10YjBUeW05aU5iWXNRUHREMmxfdWxDVmY0VmNLOU5GZnZrbU1ZbUNIMUlfTGF6Y3BDQ0tHNV9YTVVZZUJfOWFqWVVVcU9LRWZMZk0zblh4Q2RVUkQwSjBvY214YWFOV0kwMUxfZlRBbE43RUtGQURDUkRWUkl4VzVBdTFmdHlKeGtwbW96YmhXTkhRRQ?oc=5)
 
 ---
 
@@ -94,27 +102,11 @@ permalink: /news/enfortumab-vedotin/
 
 ---
 
-### [Cancer du pancréas : un traitement innovant redonne espoir au corps médical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWtiRWZwNTdsRjVLdmIyc0I1eHVpajZVZjlLUHVzcTlZY0FPWkFJYU84TVlURGV5VU52X0xkTzRRM21NQjJNSDJZODFTQkpBT2pwYkZlRmRac2djWlhxLTdBOTRxU2VDV2xKUDF0TFViUEtxd19EakQ3TXczSE5xUUp2azF6czE1WmxYT3dDUVNCMUVHT1NoOE9hQnpjb3ZZQmtQZkcwY3hVMHFtNjJDUHFFaWN0YVhxWElqT0M2NGNDVWs?oc=5)
-
-2026-05-03 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWtiRWZwNTdsRjVLdmIyc0I1eHVpajZVZjlLUHVzcTlZY0FPWkFJYU84TVlURGV5VU52X0xkTzRRM21NQjJNSDJZODFTQkpBT2pwYkZlRmRac2djWlhxLTdBOTRxU2VDV2xKUDF0TFViUEtxd19EakQ3TXczSE5xUUp2azF6czE1WmxYT3dDUVNCMUVHT1NoOE9hQnpjb3ZZQmtQZkcwY3hVMHFtNjJDUHFFaWN0YVhxWElqT0M2NGNDVWs?oc=5)
-
----
-
 ### [Dans plus de 90% des cas, ce symptôme facile à voir est le premier signe d'un cancer de la vessie](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
 
 2026-05-03 <span class="news-indication-tag">cancer</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQnJwWUhQcWdDR1pOQWJLRmZEamx6SkVKODRXcTZfUUQ0N0RFWEdnTXBrZHprUVliOUs3LTd5bWl2Q2JQWmN5ZUdST1pxZzRXWW5fUnY4bHpiNUo4T1NDOVJqeTBJSVk0Q1pjWHZxT29MSUZvUHVlb01CYVVTOE0?oc=5)
-
----
-
-### [L'analyse par IA des scanners pancréatiques révèle les prémices du cancer 16 mois avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
-
-2026-05-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtsQmQyazhKTkJSakZyN3JFQ1dxdFRNejlLeXZiS3p6Rl9JMDVfdmdiNk1YZEJCOGJNWW55Q1RHcGxGWFFUbkgtZ1M0dkpoakVtZkJTSWFvemVTd01qbGlQS0NNNUJ4Z2hfUTBxMkI0TjN0Z2E3akZXdnliZXkxRy1lcjREU2VacVJTRThvX2FwOW9VUm83THR6T3RaN0tpRzF3QS1GMGplS0pHMEkxNGVCekhkTnNEYlNmNEtpSDkzdjZjbDRnT0hCdFh4OXJtSkE?oc=5)
 
 ---
 
@@ -126,11 +118,11 @@ permalink: /news/enfortumab-vedotin/
 
 ---
 
-### [Prostate cancer diagnosed much later than other cancers - The Telegraph](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0Z4a3pvaEVIZG92S2dhSGxtVUFZeWlXUVAzaVJxdzM1UjRaWnVBaHF5cWFuaWRWS2hwc2JkRXRZNElvbVNSaDNLVi0tN3J4RzVtcGk3eVZfQkp6N0dabU0wbmMtNGFDaFdLYjg0cHJPUDNuMi0yZ3RSUFhHZDRnQmU2REh2SUVabzJFUg?oc=5)
+### [Un espoir pour les malades : une radiothérapie ciblée sur le cancer du pancréas testée à Grenoble - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
 
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0Z4a3pvaEVIZG92S2dhSGxtVUFZeWlXUVAzaVJxdzM1UjRaWnVBaHF5cWFuaWRWS2hwc2JkRXRZNElvbVNSaDNLVi0tN3J4RzVtcGk3eVZfQkp6N0dabU0wbmMtNGFDaFdLYjg0cHJPUDNuMi0yZ3RSUFhHZDRnQmU2REh2SUVabzJFUg?oc=5)
+來源：[Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVFFMkRab1BUekZVQjdmSm9jUDE0ejJ3WmIxQlpLWUdEdWR5Mjk1b2RmZUt1czJKc1lFSU9qWXlCbThQZW1RNUVlMVZsNkN4bWNwaDdwdlBjTXVtSlBFMDZpaTJhTm9GMWVEaW0xbXlyalhlUlhMSTFRUVBMOC1GUERlRHUtMHo0ZlJDSUsxYVhWLWxXLTdRUUlKWThYV2c5QmdvVDIxVkUxaFlnc25naHFyd1RlRUttRnZsbGpXdS1Uby1rQk52X094UjYxYXd5LXJBdkJMcmRCRlJiVmJESF82c1ZxTHRvSUpJSzE3dw?oc=5)
 
 ---
 
@@ -147,22 +139,6 @@ permalink: /news/enfortumab-vedotin/
 2026-05-02 <span class="news-indication-tag">cancer</span>
 
 來源：[Armagh I](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVZweUpXMjdTZG8tVm5MMG1VaFpJN3pyY2l2cjhSU2ZyVUF1S0lKbUowd2thY0VUTF9zcHJwalZuNzJpejU0TFA1b0NzYWdKcHR3MDdwczAzQlkySlJabnU5UDE1UXp4VWdEN0IwTUdCVTZUcUFHWU1jYzJNbWxQQlcyTU5INF9rV1RsVi0wanJSSS0zSUwtU1FRUWhxczlYWVVIQkRxRmtNNU5oR2NvT2xHZU5mWWtSZGtCcG8zQnFWQkVRb0xB?oc=5)
-
----
-
-### [Dad who collapsed in kitchen diagnosed with rare brain tumour - Plymouth Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDFaMmxERVlHdEIyODhzdEhHNl9EN01VWFZDVEZvQkt6U2otVXVqd01ITkpkemgzRHdTeGZ6ZXE0YUY2TGhjLVdwQlNwSkVoVTFWaE9vQXl5UHVzQ3ItNnpEVEhKb1N3eGo2bUd4LVktTFJQZ3RnVXVzMW12dXpSamRhUE5JT3g0V2VLSDdYeHN1NEJ4WlU3bjhya9IBoAFBVV95cUxPZG9CM1lFTUswem1hN1gzTmNRcHZtQ0NsT0ZnOExyYThWUHM2OFNFUmplbzNQV2RfdzZuaGZBdmQ4SUxlWEVFYmJfSUdhbzBKSjZ1UFRTaFY1NDBzVkljZTAtQW9wYWpMdVA3YmdKLXFjVFFESUJjbmRfRUxfazNGNXQ3OF9CMHBHSEtOWGtObmVnVVZMSTFxVGRNVVRYNmdF?oc=5)
-
-2026-05-02 <span class="news-indication-tag">tumour</span>
-
-來源：[Plymouth Live](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDFaMmxERVlHdEIyODhzdEhHNl9EN01VWFZDVEZvQkt6U2otVXVqd01ITkpkemgzRHdTeGZ6ZXE0YUY2TGhjLVdwQlNwSkVoVTFWaE9vQXl5UHVzQ3ItNnpEVEhKb1N3eGo2bUd4LVktTFJQZ3RnVXVzMW12dXpSamRhUE5JT3g0V2VLSDdYeHN1NEJ4WlU3bjhya9IBoAFBVV95cUxPZG9CM1lFTUswem1hN1gzTmNRcHZtQ0NsT0ZnOExyYThWUHM2OFNFUmplbzNQV2RfdzZuaGZBdmQ4SUxlWEVFYmJfSUdhbzBKSjZ1UFRTaFY1NDBzVkljZTAtQW9wYWpMdVA3YmdKLXFjVFFESUJjbmRfRUxfazNGNXQ3OF9CMHBHSEtOWGtObmVnVVZMSTFxVGRNVVRYNmdF?oc=5)
-
----
-
-### [The world wants to eliminate cervical cancer - how Australia led the way](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
-
-2026-05-01 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqWE1faXFmNVZncGJRSnkxbnQ5VXRMWjJURzBaNV84alEwSkNJTlFtcmhEbVR6Yk94TmJfdGZrRlpBbGczVXJ6YWJLUUEzWEMwUVh0QVFQaXpZYU50?oc=5)
 
 ---
 

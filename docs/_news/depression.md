@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# dépression（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
+<strong>dépression（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Contre la dépression, un implant cérébral bientôt en phase de test - Journal du Geek](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWdnOVRnRVF6NUZJUU1udXZTYVVEUFZTTFpXLVJwekhSZ0gzTHBObDBKZnJIQ3RKNzZxVlhhVkU3RGhMbkhETTBfdkNPZlFnLXF5dS12X1p1Z3RqNHpEQ1duVmpZajF2bzMtZGR6RHNZeDdqcmpRX2U4MU9ENmN6QUViby1LamhOdWowSmgwajdxa2x5TE5KQmxOWFpCeXhVZkpmOXFpRlV6M00?oc=5)
+
+2026-05-03
+
+來源：[Journal du Geek](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWdnOVRnRVF6NUZJUU1udXZTYVVEUFZTTFpXLVJwekhSZ0gzTHBObDBKZnJIQ3RKNzZxVlhhVkU3RGhMbkhETTBfdkNPZlFnLXF5dS12X1p1Z3RqNHpEQ1duVmpZajF2bzMtZGR6RHNZeDdqcmpRX2U4MU9ENmN6QUViby1LamhOdWowSmgwajdxa2x5TE5KQmxOWFpCeXhVZkpmOXFpRlV6M00?oc=5)
+
+---
 
 ### [The signs you have ‘life dysmorphia’ and NOT depression or anxiety as hidden condition surges - and 7 tips to fix it - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRm5NSUFsVzc0MHBhRC1ONE1pMW9HZ0FwN1hUOS0tNzE2WGJadFJaM1JWek0zWndBOFUwbjd4Zi1KM0ZBcUFYX1BESENZUHB5OWJmQ1RvTzZFTlNVSGVmY0lJSXFoOW9CNE1Mei1oLWRuM0ZsMWpwQU80d3JuNVpDOEdqSWk?oc=5)
 

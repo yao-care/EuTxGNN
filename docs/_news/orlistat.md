@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [La salute del cuore comincia a tavola: meno infarti con scelte corrette (e anche meno ictus) - Corriere della Sera](https://news.google.com/rss/articles/CBMilgJBVV95cUxNY0hFdG5YQzQ2MmljR2toUEQ1MEU5XzVuVGxGSmJieW91cTRHVFhsQW16Wk1ZMXFaZnc4TW0yNHRmZnV6SURmUWZ2OUpGRTZSVFlGOFJEU1NxLUFqcE1waTZiMzlLZ2l5Z3JmMVR0NmlXMVhUdG5CZEJjQTdEcXZJb3Y1eC1RSkJpQV82V01rd0wyeTY2cnRQT0s4d1RHdWRyUTNwLWNuRzNGSmVUb3pwOUVpanpRbmVQQ2gwYUFZakNqY1g4UzRORnIxenVUZ0RsQm9fQkZzS0ZrTmZFNHJ2SWduQ19xNUs3d0FZVDZsZ05PdTFlYk5CNWpXWnA4aFlmaFI0eTVmZVI0aWJrc1RIcjNuclNoQdIBmwJBVV95cUxPNjZlX05PaklENVFiV2w5MTRFZThvN3NKbElWenEyYTBhd2RUZUk5anN3eXVXZkh3LTRJejJHU1JPNmpqMFI3eGdRWVVzeUxlR1BIbHVQTzc5aEc2WXI4bFhaQW00a1RacEVOamtWaVl5dXh6d2sxM1FNNEd6THkwaWpCc3ZYTW1tVjVFbTZWekFYM3dhZzRfaFN6SUJfUlBIWFZ4bXlRbzZvRkRFY29Ka3ZLQ2pMT2tQSU5xempxaFVxWnNyYjAxRGVwZzdhRUNaVERfeWxMWXZYVFNtWkxhX2ZDbnlWcm0xNGlQVzhxVVpOU3BSM2xtdlFJYy0ydzRtMDBTajNNNlVTTFhYbXNPTEdZMWU3S19aOVRF?oc=5)
 
@@ -70,27 +70,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Popular Weight-Loss Drugs Found To Cut Heart Attack and Stroke Risk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
-
-2026-05-02 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AFib</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxNekgxOVg0bU00OThRQjdTOU5BVnA3UmFkNU1yYUlwcGduWTM0MHB6eVRvUEp3U29VcjNESWJHdmN1VnRyMmZNYzBENzA0bGN3R1BqdXZJZFNjSTJuUFBqVlBaZTZhZmJvTElfRl9xb2dJUnlNR2lWRDNTUEJaSWcxcVJ3RldYSktCVTVfeGRHRURDUUo0YTZjWA?oc=5)
-
----
-
 ### [Científicos británicos coinciden: estos son los tipos de cáncer más comunes en adultos jóvenes - Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
 
 2026-05-02 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Diario AS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGF5OERjTUYwbVljaERaYnpSY0NiVzRwd19tZHVJdE52SWxZN0xZUUx3YnJNa1VqUmhmWENKTEdnOFNuUk1jQlRQQkl4Y3pIaUxvak80b0FHUFUwRFJhQlRGWGxuNFluN2xvcGU4YnFSZjdIVEdqOFVGbEI3R3FDQlRHWE9FaWVuV2t4cXpZZ2k5UU1mRnBQZHo5UGxKam15Z0E2aHQ3NXNRcERiZEpaeTM4VE5pSkJCQUpwVVBaajFMcEpwcEJtZjlicHpHcDV6RjB6TdIB6AFBVV95cUxQQmI3UmpfeEh4Si1mMVhYU1pZcjRWalZzdlRkclZLUUpxRkpHSGQ5Z3lfdDdmLVVNVVdhVU05ZVBnM1ZIZ2JwZ0NnV0FydmdCR2p6aFBQU29WdmdnYlJGMFp5REF3RmFHVmlVYnpWd3BuaTQxZGZZTXJ1MFlTLWFKcHJmSl8zbmpXdVRrNXgxdlZRRmx3TDhmNGhfV1ktWVItZlZ4YjFNTWFTNzFTUEVHNEZXX3NsbWJNUWxsR3ZuV0ZFM05QSTRqcnYtY0VZZEZwMkpfZHAzWlpmeWRpbU05bWQ0LTV6d01X?oc=5)
-
----
-
-### [Una solución de IA permite la detección precoz de la aterosclerosis analizando imágenes oculares](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
-
-2026-05-01 <span class="news-indication-tag">ictus</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1dWLU1aRlY3MHVPUmVvd0VjVjRyYklSSUl3MW1JR2EtOU1UWENDZjU0aW9RamxhUUFWMm5RaWdNckU1b3BMTTlqQ3kxb0lUMnJ3ZVRjd0g2UXR3SEpHQkxkMlR5UmhJODlVU1pidGJPbFdRQ3pxel9qUUNoUDRDaDFXT1FBQ2pKZklnMFVIVmsxaThmem1tMFhJeUU0dGtQOXhjZmNzNjBrcXZWZzdhQWg2REtUUUpfTnhNRk9jSQ?oc=5)
 
 ---
 

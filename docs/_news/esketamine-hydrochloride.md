@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Contre la dépression, un implant cérébral bientôt en phase de test - Journal du Geek](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWdnOVRnRVF6NUZJUU1udXZTYVVEUFZTTFpXLVJwekhSZ0gzTHBObDBKZnJIQ3RKNzZxVlhhVkU3RGhMbkhETTBfdkNPZlFnLXF5dS12X1p1Z3RqNHpEQ1duVmpZajF2bzMtZGR6RHNZeDdqcmpRX2U4MU9ENmN6QUViby1LamhOdWowSmgwajdxa2x5TE5KQmxOWFpCeXhVZkpmOXFpRlV6M00?oc=5)
+
+2026-05-03 <span class="news-indication-tag">dépression</span>
+
+來源：[Journal du Geek](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWdnOVRnRVF6NUZJUU1udXZTYVVEUFZTTFpXLVJwekhSZ0gzTHBObDBKZnJIQ3RKNzZxVlhhVkU3RGhMbkhETTBfdkNPZlFnLXF5dS12X1p1Z3RqNHpEQ1duVmpZajF2bzMtZGR6RHNZeDdqcmpRX2U4MU9ENmN6QUViby1LamhOdWowSmgwajdxa2x5TE5KQmxOWFpCeXhVZkpmOXFpRlV6M00?oc=5)
+
+---
 
 ### [The signs you have ‘life dysmorphia’ and NOT depression or anxiety as hidden condition surges - and 7 tips to fix it - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRm5NSUFsVzc0MHBhRC1ONE1pMW9HZ0FwN1hUOS0tNzE2WGJadFJaM1JWek0zWndBOFUwbjd4Zi1KM0ZBcUFYX1BESENZUHB5OWJmQ1RvTzZFTlNVSGVmY0lJSXFoOW9CNE1Mei1oLWRuM0ZsMWpwQU80d3JuNVpDOEdqSWk?oc=5)
 

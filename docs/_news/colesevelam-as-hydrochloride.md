@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [El peligro oculto de un disgusto fuerte: cómo tus emociones pueden simular un infarto y mandarte al hospital - La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZGdYdnh6ZW9TOGZaVW1JWkRGZFRuWFo2NWJrMGdWNkZNaDJYT090aXBvLXhfV0x5LTA2N2NUX3M4ZnYtVk9Od3VvVUFpSERUaGY4QjlFdy1QbW5pNEpLQUpMRFNDUzF6M1c3dXFsN3RGUXNaNXpMckVIRUpsTVhJMlp6bnhvd1NpQVpqQVgtTXBxYlhKSDVOazR5OWpodTd3UVBHQjVOeWdkRGgwU2l6eHplYU5yTjlJYVBPVG1aLVRTdTRYZ2ZrV1hyamhTa2lqby1CbHFIMnRITm44dnQ3YUdlS25VeFlmWEw3czVFTjZyRmh1V25iZ9IBjAJBVV95cUxPa2hEZGhBNnFIN3FlMF9DOXJFWGQwb2c0dVpnQUJYV1ltOW5IMTB3bjJ5VTNkc0xlUmZfaVBzRkh6dzV2eUprV0xZNE1zLVgwX05uXzlpd2lQSkxXcGp6S1d0YVpRQWxzbENnc3o3UVVTQ2ZJVEQ5OVdUdmQyMmVOSmlIV04xRm5ycElIdGpkVzlXbzlFcWR6SThCQ2Y4SS1mZE5NVXZmc3VWdjYydmE4dTFBY3F2c1ljYnZpTlZxNWtQeXJhWDNxbFhma1ZfemhtcHhiRlloMUZMT2xSMFpacEgya2NCVlpKTHVUUW1RaE1BSGU4UzcyZk5ZeDF2bDVadm1wRV8xc05RUDZF?oc=5)
+
+2026-05-03 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZGdYdnh6ZW9TOGZaVW1JWkRGZFRuWFo2NWJrMGdWNkZNaDJYT090aXBvLXhfV0x5LTA2N2NUX3M4ZnYtVk9Od3VvVUFpSERUaGY4QjlFdy1QbW5pNEpLQUpMRFNDUzF6M1c3dXFsN3RGUXNaNXpMckVIRUpsTVhJMlp6bnhvd1NpQVpqQVgtTXBxYlhKSDVOazR5OWpodTd3UVBHQjVOeWdkRGgwU2l6eHplYU5yTjlJYVBPVG1aLVRTdTRYZ2ZrV1hyamhTa2lqby1CbHFIMnRITm44dnQ3YUdlS25VeFlmWEw3czVFTjZyRmh1V25iZ9IBjAJBVV95cUxPa2hEZGhBNnFIN3FlMF9DOXJFWGQwb2c0dVpnQUJYV1ltOW5IMTB3bjJ5VTNkc0xlUmZfaVBzRkh6dzV2eUprV0xZNE1zLVgwX05uXzlpd2lQSkxXcGp6S1d0YVpRQWxzbENnc3o3UVVTQ2ZJVEQ5OVdUdmQyMmVOSmlIV04xRm5ycElIdGpkVzlXbzlFcWR6SThCQ2Y4SS1mZE5NVXZmc3VWdjYydmE4dTFBY3F2c1ljYnZpTlZxNWtQeXJhWDNxbFhma1ZfemhtcHhiRlloMUZMT2xSMFpacEgya2NCVlpKTHVUUW1RaE1BSGU4UzcyZk5ZeDF2bDVadm1wRV8xc05RUDZF?oc=5)
+
+---
 
 ### [Un paté funcional enriquecido en silicio muestra efectos beneficiosos en la prevención de la diabetes tipo 2 - Andalucía Información](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTREQzFtSVE4cVp0d29Lbncwc1h5aHVmb0x5ZXVfN194UVBidlJIT2pPRmstVU9LdzNZY2RudmtyVFBBNmVYS3JXZ2xfcE1pb0IxOVpiR3JfZVpjYy1sZTFfUGdwalFJMTctd3BZWnBsYTRzcVFVRy1wZ2lUb0Y5ajkwam5ZRWVLQU5RWEp1OHV0UkFEa0NPN0t4WncxQzYtYnpPUnQ1VTZ3WVRsRm9rY2JoLXRTam1LVEVnSnQ0VnpfYUZwTXh5LUE4LV8wSk44RFFGdTljVmV4WngyUFNhemRiYXBmLTVQWVJ6Mk9sTEo2cFVHVkhkS0VnSUdBZ9IBgwJBVV95cUxQMHN6amFFczl0al9GeXZiUjN2dHZUV2NiX3gwVkVoT25qb0tyeWFFZXNzcF9GNk1wUU1uZThuNG03VlNILWtFUW9kOEJ0M3l0T2VTb3dqaUNVczNQR0F5b1ZMcmhTNFU3M3FRMzc5VVJHdkpMTXdzUTBFa3pDdG5Bcmw4OElGZFpIYzlZbm1lcUtjeE51bDB1bVVnbnVGdVdCY0lkS0RYdEZnVHdPSHQ2dkNtUmVOLWdhcHd0aTZ2UVlHVjlXaC13THJCT2MtMlFsODFWeGFCUFJhR2RacHRCTGF2czZ4eFM3LTNNV1dDX0J4Q0pjNWRQOElQc2hRenE4UWZz?oc=5)
 

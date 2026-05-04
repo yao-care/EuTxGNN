@@ -14,7 +14,7 @@ permalink: /news/risankizumab/
 ---
 
 <p class="key-answer" data-question="Risankizumab 有什麼相關新聞？">
-<strong>Risankizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Risankizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/risankizumab/
 <li>acrodermatitis chronica atrophicans（100.0%）</li>
 <li>acne keloid（100.0%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（100.0%）</li>
-<li class="indication-matched">psoriasis（100.0%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（100.0%）</li>
 <li>hydroa vacciniforme, familial（100.0%）</li>
 <li>severe nonproliferative diabetic retinopathy（100.0%）</li>
 <li>parapsoriasis（100.0%）</li>
@@ -52,15 +52,7 @@ permalink: /news/risankizumab/
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Psoriasis an den Füßen kann kaum noch Schuhe anziehen](https://news.google.com/rss/articles/CBMiswFBVV95cUxON00zd2RjWlVKTmhRS0RaSXdzZlVrMjBNeVFCUy1wa3FDN2Y3VG5GWFNjTlFkajlSV1FwcU9VTElmMXRMemZwQi1NNGpYZVJTMnMtVU9wRjVUbERERDk0c0pWdFpJYmNwdkY1bEFzUHZFRjJ5WDZnNXpJM1JQbTVHeW9qZUZRdm9YRXc5ZFF2bkJQdkktZHRiWm9DdDUwcDItalVvRGhPaFAyZGhnSk5HOTAzQQ?oc=5)
-
-2026-05-03 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Psoriasis-Netz](https://news.google.com/rss/articles/CBMiswFBVV95cUxON00zd2RjWlVKTmhRS0RaSXdzZlVrMjBNeVFCUy1wa3FDN2Y3VG5GWFNjTlFkajlSV1FwcU9VTElmMXRMemZwQi1NNGpYZVJTMnMtVU9wRjVUbERERDk0c0pWdFpJYmNwdkY1bEFzUHZFRjJ5WDZnNXpJM1JQbTVHeW9qZUZRdm9YRXc5ZFF2bkJQdkktZHRiWm9DdDUwcDItalVvRGhPaFAyZGhnSk5HOTAzQQ?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Un paté funcional enriquecido en silicio muestra efectos beneficiosos en la prevención de la diabetes tipo 2 - Andalucía Información](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTREQzFtSVE4cVp0d29Lbncwc1h5aHVmb0x5ZXVfN194UVBidlJIT2pPRmstVU9LdzNZY2RudmtyVFBBNmVYS3JXZ2xfcE1pb0IxOVpiR3JfZVpjYy1sZTFfUGdwalFJMTctd3BZWnBsYTRzcVFVRy1wZ2lUb0Y5ajkwam5ZRWVLQU5RWEp1OHV0UkFEa0NPN0t4WncxQzYtYnpPUnQ1VTZ3WVRsRm9rY2JoLXRTam1LVEVnSnQ0VnpfYUZwTXh5LUE4LV8wSk44RFFGdTljVmV4WngyUFNhemRiYXBmLTVQWVJ6Mk9sTEo2cFVHVkhkS0VnSUdBZ9IBgwJBVV95cUxQMHN6amFFczl0al9GeXZiUjN2dHZUV2NiX3gwVkVoT25qb0tyeWFFZXNzcF9GNk1wUU1uZThuNG03VlNILWtFUW9kOEJ0M3l0T2VTb3dqaUNVczNQR0F5b1ZMcmhTNFU3M3FRMzc5VVJHdkpMTXdzUTBFa3pDdG5Bcmw4OElGZFpIYzlZbm1lcUtjeE51bDB1bVVnbnVGdVdCY0lkS0RYdEZnVHdPSHQ2dkNtUmVOLWdhcHd0aTZ2UVlHVjlXaC13THJCT2MtMlFsODFWeGFCUFJhR2RacHRCTGF2czZ4eFM3LTNNV1dDX0J4Q0pjNWRQOElQc2hRenE4UWZz?oc=5)
 

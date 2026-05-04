@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Un paté funcional enriquecido en silicio muestra efectos beneficiosos en la prevención de la diabetes tipo 2 - Andalucía Información](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMTREQzFtSVE4cVp0d29Lbncwc1h5aHVmb0x5ZXVfN194UVBidlJIT2pPRmstVU9LdzNZY2RudmtyVFBBNmVYS3JXZ2xfcE1pb0IxOVpiR3JfZVpjYy1sZTFfUGdwalFJMTctd3BZWnBsYTRzcVFVRy1wZ2lUb0Y5ajkwam5ZRWVLQU5RWEp1OHV0UkFEa0NPN0t4WncxQzYtYnpPUnQ1VTZ3WVRsRm9rY2JoLXRTam1LVEVnSnQ0VnpfYUZwTXh5LUE4LV8wSk44RFFGdTljVmV4WngyUFNhemRiYXBmLTVQWVJ6Mk9sTEo2cFVHVkhkS0VnSUdBZ9IBgwJBVV95cUxQMHN6amFFczl0al9GeXZiUjN2dHZUV2NiX3gwVkVoT25qb0tyeWFFZXNzcF9GNk1wUU1uZThuNG03VlNILWtFUW9kOEJ0M3l0T2VTb3dqaUNVczNQR0F5b1ZMcmhTNFU3M3FRMzc5VVJHdkpMTXdzUTBFa3pDdG5Bcmw4OElGZFpIYzlZbm1lcUtjeE51bDB1bVVnbnVGdVdCY0lkS0RYdEZnVHdPSHQ2dkNtUmVOLWdhcHd0aTZ2UVlHVjlXaC13THJCT2MtMlFsODFWeGFCUFJhR2RacHRCTGF2czZ4eFM3LTNNV1dDX0J4Q0pjNWRQOElQc2hRenE4UWZz?oc=5)
 
@@ -99,14 +99,6 @@ permalink: /news/semaglutide/
 2026-05-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMia0FVX3lxTE85QXBVUFNnZUtVWkJseDFMRldDNkU2ZExKeWIwOGZ1ODAxdDFsaF9OUUFwVlRveE82blU3OTZ5MTRkU1RqT2NpQmZwR0V0Y2U1akNRM3dfQV84emlkbHJIbDlNWGZaeXBNNGln?oc=5)
-
----
-
-### [Caída de pelo, el efecto secundario «angustioso pero reversible» de Ozempic - El Correo](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQldSUEVFeXdfRUxCNXRsaUlmTEZyb0JrbUpSMlR0NjVPN3dhQVFmS05VOHJiTUlWbXZobTNKYXlSYklUZEtQNG1vX3QxTzdCNFR5TlBPMnpEMmxuNXJqVVJOVENlNlBhUlJ3d1lMYXEtWDN2bnM2TUNfaDVwN0kzUlRPUzR4OG1DVzBrR2FDckpQMWRGZnhYUm12UVlYQVd4VUxpVTBCdXJOTllZS1Y4a2ZteVFCbUFyYnJsc25n?oc=5)
-
-2026-05-01 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[El Correo](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQldSUEVFeXdfRUxCNXRsaUlmTEZyb0JrbUpSMlR0NjVPN3dhQVFmS05VOHJiTUlWbXZobTNKYXlSYklUZEtQNG1vX3QxTzdCNFR5TlBPMnpEMmxuNXJqVVJOVENlNlBhUlJ3d1lMYXEtWDN2bnM2TUNfaDVwN0kzUlRPUzR4OG1DVzBrR2FDckpQMWRGZnhYUm12UVlYQVd4VUxpVTBCdXJOTllZS1Y4a2ZteVFCbUFyYnJsc25n?oc=5)
 
 ---
 
