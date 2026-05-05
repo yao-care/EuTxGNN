@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。5 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>5 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Why a million Britons are ditching the blue asthma inhaler - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxORG1CbEQzNDJFYi1teUdfTnZnbWVUZmlNUmdxdmNiVGo4X2hNRTFnd0xyRkpHdGpybkpaVnp0RjBBYWRpbWE2RWtFM2toR3M4clIydklBUjlmSW5xNVdVYlE2OVZWRUFnRU1JVHV0UE92QWpaeXFXY2xQRHJIcWRQY3BlTy1vMXowemRXN0NCd3RMV3c4TldsUERKRTRfaXNZTFdz?oc=5)
 
@@ -106,14 +106,6 @@ permalink: /news/asthma/
 2026-05-04
 
 來源：[Wired](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI5RjNoM3FVd01iTWo2MUZZcXJtMUUtelV2RFFOWDlrMXlZLVBoUE8xWXlBb0lDRDFYUnlCSkhOSmc4MVlESUpIQjBMeEY3VFhwcXJWMFdrcjdyWTVTU1g3RFI0eUQwTWlwaUhnemxlSzNrTU9nUG80UkF0X284TGlmLTBacTBaWXhVX0F4dWFGYjRFU3VtMElnN0hqRG5RWVFwQ0JOUjludGsyVkNoRzFKV0VpbVNPN21oNE9BcmZLcEhhVHR6WGRpWGxwakx4RWJPb284eExLbXlJV21V?oc=5)
-
----
-
-### [Il boom delle allergie. “Ecco perché non ci sono mai stati così tanti pollini come adesso” - la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxORHFqQWZiWjdBUlVDeWo3UDBTQW05TnlmZnJ2b3dvTEhCYjVoam1DRWJCWnJHeEsxdzdkY0ZVU2VfdXQyZ01EVnZXdGpyWElCOW5RS19vTnltSXdVNVRNRlV3V1FESURBR2ZlZWZSMEliZ1I1cHdZX19CWG9PaXlOdks4dVdfZG5Gb2F1anVxejMyMUxieDFFNVNB?oc=5)
-
-2026-05-03
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxORHFqQWZiWjdBUlVDeWo3UDBTQW05TnlmZnJ2b3dvTEhCYjVoam1DRWJCWnJHeEsxdzdkY0ZVU2VfdXQyZ01EVnZXdGpyWElCOW5RS19vTnltSXdVNVRNRlV3V1FESURBR2ZlZWZSMEliZ1I1cHdZX19CWG9PaXlOdks4dVdfZG5Gb2F1anVxejMyMUxieDFFNVNB?oc=5)
 
 ---
 

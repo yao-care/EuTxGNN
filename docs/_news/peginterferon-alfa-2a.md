@@ -54,19 +54,19 @@ permalink: /news/peginterferon-alfa-2a/
 
 ## 相關新聞（9 則）
 
-### [Grippe trifft zuerst die Nase – ein Nasenimpfstoff könnte Viren früher bremsen - smart up news](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG8zM25EX0tSZTk2VFN0bHNfalNZLVFpcXhaTlE1QlFvNi1ZUjRFQU55ZERJOG9hOTdxUzdkSlpCWjYtT3MxX194OVJ0SzN6bWROTy1DemV2VDUzeEJwSVV1alpaMW9MQkVmZC1lUlFaUlN6dzB0TG4xQ2gwdUFoVElXX3pEWFpGYzZEcmMtb1F2aVU4RkJBME5tN05vb2tENHJMbmNOdGhpUjJScnR1MXpTNnM?oc=5)
-
-2026-05-05 <span class="news-indication-tag">MS</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG8zM25EX0tSZTk2VFN0bHNfalNZLVFpcXhaTlE1QlFvNi1ZUjRFQU55ZERJOG9hOTdxUzdkSlpCWjYtT3MxX194OVJ0SzN6bWROTy1DemV2VDUzeEJwSVV1alpaMW9MQkVmZC1lUlFaUlN6dzB0TG4xQ2gwdUFoVElXX3pEWFpGYzZEcmMtb1F2aVU4RkJBME5tN05vb2tENHJMbmNOdGhpUjJScnR1MXpTNnM?oc=5)
-
----
-
-### [Hantavirus: What are the symptoms and how does it spread amid deadly cruise ship outbreak - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXNGa0c3RU1SeWpzRnZvc2hrdmtRSzFVa1hfc0hHY2lpeXNJNHJKek9uZF8xajNUOEhLVkNKV1VfRzgzWG9jYlZEOEJ2eTg1ejFFX3N3c0tyUXF6Umh0dWVnMEVlTzFVVFVjTXFiWGYtZ1dITVV4SzRGLUhPRnNDWTUxdzZfVV9vcHQ3SGNfeGk3cHRsSmZBSUV6aHFXQ29iaS1LalNwSXlaQQ?oc=5)
+### [La OMS da por hecho que el crucero del brote de hantavirus irá a Canarias pero Sanidad apunta que la decisión todavía no está tomada - Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
 
 2026-05-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXNGa0c3RU1SeWpzRnZvc2hrdmtRSzFVa1hfc0hHY2lpeXNJNHJKek9uZF8xajNUOEhLVkNKV1VfRzgzWG9jYlZEOEJ2eTg1ejFFX3N3c0tyUXF6Umh0dWVnMEVlTzFVVFVjTXFiWGYtZ1dITVV4SzRGLUhPRnNDWTUxdzZfVV9vcHQ3SGNfeGk3cHRsSmZBSUV6aHFXQ29iaS1LalNwSXlaQQ?oc=5)
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWm40V1h5VHBxbU15dzVTdnhSVnJubjdQNjR3ZzA1YTNienRGRUt4UFd1OWY5eEZkTG1uc0dhUlBZV0luOXB5bWdOUHBueklVVGVvQVVQVUtWZXRyV0w2ejZ2NVNzQnpGMmNuQ3cxV3VDTUpIZktjNFJ5WndKWlFQN0MxSGNPbnp0eWVTUWd2ZlVaWHAzQ09OVFdLUjVJQ1dqc2VHLWF2R1hYc2ZaMFdZTWNSSmVsMmJhM1k0MXlsckxQNVNKbmZHZlFFelZPUXFQYlduUjQ0S1REZ2swdEhLRGxEUTltV3A4d1Y3bDh2SW5JM3hSS2FZR1lNdmtxUdIBkgJBVV95cUxPYjMzOHZfbnYzdnJHRWwtUXl6UmJHeWFNRWVOYWt0QlNGTXN2RjlIUFNXeVBKUEg3dHJYa2VlWTFOTjFSSExvSFEyNE1XOUpDcVVtQnVka1RySFJfb3JIajh6NXRCZGJkMEZVQ3BDSi1NaXJyZVlmM0trM0pmYmhmTWdUaFFESW5Jb1lRRFdZaE44V3JyTlZRVW40M0ZiZFgwSVh1M0d1Z1Zjd0VSSk9BaHBMbmZFbU1jQldkRFY1ZmV5U1oxcUJXajBPSmtDTmY2dWVzX2p5Z0NwandjUzVydE9BZzZqWEJ0RXJQNUtkcThoZVJlRWJwakpUNGRzRFkweHBGR0tFODM5c0ZOU0phVzVR?oc=5)
+
+---
+
+### [NLRP3-Hemmer Dapansutril zeigt vielversprechendes Potenzial für die Therapie von Parkinson und MSA - Medizinische Universität Innsbruck](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWgxZXRZVVBTdmtXTTFlZHRvTzhNOWtOUmphSGRrNEdUb1FyaGc1UFV5MnQ5Mkd4YlFqb3FNTmVROVJxRTFlMGFtR0hYWFR1MlRCLUV1TEdmWTNLckJpb3JrYU4xalYwa1dDZE1BVXBhU3JDUm9fX2pRc1ZQSFF5YWpNOXgwNThobUk0TnZ6dk9ZYkdDZXpMZDh5b3dJTE93UmJEX2Rtcllfek1FOHdVcnJvV0I5akVVOHVTckNLX0IwajlxWnZKNG13?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[Medizinische Universität Innsbruck](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWgxZXRZVVBTdmtXTTFlZHRvTzhNOWtOUmphSGRrNEdUb1FyaGc1UFV5MnQ5Mkd4YlFqb3FNTmVROVJxRTFlMGFtR0hYWFR1MlRCLUV1TEdmWTNLckJpb3JrYU4xalYwa1dDZE1BVXBhU3JDUm9fX2pRc1ZQSFF5YWpNOXgwNThobUk0TnZ6dk9ZYkdDZXpMZDh5b3dJTE93UmJEX2Rtcllfek1FOHdVcnJvV0I5akVVOHVTckNLX0IwajlxWnZKNG13?oc=5)
 
 ---
 
@@ -78,19 +78,27 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [Nasenimpfstoff könnte Grippe-Viren am Eindringen hindern - smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWVTNFV0VWdmTFNBZlprRjdMSTh6QURRMkh6bGowYjE4VFVRV2V1ZkRiZ0ZuTUZxTDlaV3lza2ZnakxUY0VBRHR4LVRSN3Y0VFVmOGE1S3VvQ3lWWERLd3g5dnhpTmF1dVVKYW95QzN6TWhHVHVhbnN2eVJCZkJqZUJEaGVKSXhWRWFGbWVXb0RITFlwTnJLXw?oc=5)
+
+2026-05-05 <span class="news-indication-tag">MS</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWVTNFV0VWdmTFNBZlprRjdMSTh6QURRMkh6bGowYjE4VFVRV2V1ZkRiZ0ZuTUZxTDlaV3lza2ZnakxUY0VBRHR4LVRSN3Y0VFVmOGE1S3VvQ3lWWERLd3g5dnhpTmF1dVVKYW95QzN6TWhHVHVhbnN2eVJCZkJqZUJEaGVKSXhWRWFGbWVXb0RITFlwTnJLXw?oc=5)
+
+---
+
+### [Brain sugar levels act as signal for myelin growth, study finds - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVRBbUw1bHpuTmpPVzVhTDZvaXN1MlBNWnZJNzhEcHp6NjItNF9kamJRSUpYUW5ZVWc1TDJmVnZYRWxxbEdsdkVoTlpsYlRDTkNvVWppcHFKbWpvRFdrbnZtckYxWUFzWVQ1NDBLT0NEQ292c05WSFlyd0s4VWVZVzJaamc3Tnpjei14emRVTkxqM2J0c2p2ZGxsVndTNHk4WU1DTUF3bU8zaGZYVktyc0JDbEdNMTBq?oc=5)
+
+2026-05-04 <span class="news-indication-tag">multiple sclerosis</span>
+
+來源：[Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVRBbUw1bHpuTmpPVzVhTDZvaXN1MlBNWnZJNzhEcHp6NjItNF9kamJRSUpYUW5ZVWc1TDJmVnZYRWxxbEdsdkVoTlpsYlRDTkNvVWppcHFKbWpvRFdrbnZtckYxWUFzWVQ1NDBLT0NEQ292c05WSFlyd0s4VWVZVzJaamc3Tnpjei14emRVTkxqM2J0c2p2ZGxsVndTNHk4WU1DTUF3bU8zaGZYVktyc0JDbEdNMTBq?oc=5)
+
+---
+
 ### [WHO warnt: Hepatitis bleibt trotz Fortschritten eine globale Gesundheitsgefahr - Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
 
 2026-05-04 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
-
----
-
-### [New Research Suggests Vitamin D May Help Ease IBD Symptoms - Verywell Health](https://news.google.com/rss/articles/CBMid0FVX3lxTE80MFpCS2dsaXF5OV9vZ2UzSFRHWVFQeDI4ZWlCS29lMWNzYUg3cnBnUWFRM3pHd1hmR3ZxN3BmYkRqOTVyT3Z5UFlUekowaDA1U0M0U0x2SFVELWlTRHJVTW5DTUw4LUNLRDlTTDZtZlV0aFZEUDZR?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span>
-
-來源：[Verywell Health](https://news.google.com/rss/articles/CBMid0FVX3lxTE80MFpCS2dsaXF5OV9vZ2UzSFRHWVFQeDI4ZWlCS29lMWNzYUg3cnBnUWFRM3pHd1hmR3ZxN3BmYkRqOTVyT3Z5UFlUekowaDA1U0M0U0x2SFVELWlTRHJVTW5DTUw4LUNLRDlTTDZtZlV0aFZEUDZR?oc=5)
 
 ---
 
@@ -115,14 +123,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-05-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWcybU55d09yREo4THVMbUJTdzk4dXYyX25LcjNCbkRtazRaQzNQTG9jVlVBSWhSYWlxN3JGMnNyclk3M091RFpYOEFieDlQQ0RFRDRKYi1vY1BHbDBuT01ZVUxjYXkyWGYzOGNYbEN1XzI2UExWTTZXblpGZlFOTlN1YnRpemRXdXVaRkZFa1E1QXdibHc?oc=5)
-
----
-
-### [NHS May 3 warning as symptoms that 'might not seem like much' may need 'immediate attention' - Glasgow Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0NuYkMyaE1yajVmLVZnRzhoQ1pVYXNiazlEQXNiRlY4RTZQMHlIellITURvTlJ2VEo1QXBITTdqR05yQzU3eFlNUXpja0xVSVJUNEdjYlJHNFBmSE9MdkxqdWFTdW1mQWtqWHd2OUQtNlhrdjE5cjRIZzB0OGhyQzR4bnEzWDhk0gGOAUFVX3lxTFA3eE1IbkJEMzFfV3pmdl9TUS1uX0drTkJRTXpvUUpqdG9UcG51ellUQmNVaUVPOERvZkFNbWNCYkFBOUFCd2lFNTBPYXBzWTJsWmR5YzJqWkgxRkY2WFZEa2o1blEwTUlYcHJPSW9hWkk0NkFlWjFITE43WVNfbGNRclhzUDh4RV9UN1Z2d0E?oc=5)
-
-2026-05-03 <span class="news-indication-tag">MS</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0NuYkMyaE1yajVmLVZnRzhoQ1pVYXNiazlEQXNiRlY4RTZQMHlIellITURvTlJ2VEo1QXBITTdqR05yQzU3eFlNUXpja0xVSVJUNEdjYlJHNFBmSE9MdkxqdWFTdW1mQWtqWHd2OUQtNlhrdjE5cjRIZzB0OGhyQzR4bnEzWDhk0gGOAUFVX3lxTFA3eE1IbkJEMzFfV3pmdl9TUS1uX0drTkJRTXpvUUpqdG9UcG51ellUQmNVaUVPOERvZkFNbWNCYkFBOUFCd2lFNTBPYXBzWTJsWmR5YzJqWkgxRkY2WFZEa2o1blEwTUlYcHJPSW9hWkk0NkFlWjFITE43WVNfbGNRclhzUDh4RV9UN1Z2d0E?oc=5)
 
 ---
 

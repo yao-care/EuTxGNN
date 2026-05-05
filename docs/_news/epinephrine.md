@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Why a million Britons are ditching the blue asthma inhaler - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxORG1CbEQzNDJFYi1teUdfTnZnbWVUZmlNUmdxdmNiVGo4X2hNRTFnd0xyRkpHdGpybkpaVnp0RjBBYWRpbWE2RWtFM2toR3M4clIydklBUjlmSW5xNVdVYlE2OVZWRUFnRU1JVHV0UE92QWpaeXFXY2xQRHJIcWRQY3BlTy1vMXowemRXN0NCd3RMV3c4TldsUERKRTRfaXNZTFdz?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/epinephrine/
 2026-05-04 <span class="news-indication-tag">asma</span>
 
 來源：[Wired](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI5RjNoM3FVd01iTWo2MUZZcXJtMUUtelV2RFFOWDlrMXlZLVBoUE8xWXlBb0lDRDFYUnlCSkhOSmc4MVlESUpIQjBMeEY3VFhwcXJWMFdrcjdyWTVTU1g3RFI0eUQwTWlwaUhnemxlSzNrTU9nUG80UkF0X284TGlmLTBacTBaWXhVX0F4dWFGYjRFU3VtMElnN0hqRG5RWVFwQ0JOUjludGsyVkNoRzFKV0VpbVNPN21oNE9BcmZLcEhhVHR6WGRpWGxwakx4RWJPb284eExLbXlJV21V?oc=5)
-
----
-
-### [Il boom delle allergie. “Ecco perché non ci sono mai stati così tanti pollini come adesso” - la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxORHFqQWZiWjdBUlVDeWo3UDBTQW05TnlmZnJ2b3dvTEhCYjVoam1DRWJCWnJHeEsxdzdkY0ZVU2VfdXQyZ01EVnZXdGpyWElCOW5RS19vTnltSXdVNVRNRlV3V1FESURBR2ZlZWZSMEliZ1I1cHdZX19CWG9PaXlOdks4dVdfZG5Gb2F1anVxejMyMUxieDFFNVNB?oc=5)
-
-2026-05-03 <span class="news-indication-tag">asma</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxORHFqQWZiWjdBUlVDeWo3UDBTQW05TnlmZnJ2b3dvTEhCYjVoam1DRWJCWnJHeEsxdzdkY0ZVU2VfdXQyZ01EVnZXdGpyWElCOW5RS19vTnltSXdVNVRNRlV3V1FESURBR2ZlZWZSMEliZ1I1cHdZX19CWG9PaXlOdks4dVdfZG5Gb2F1anVxejMyMUxieDFFNVNB?oc=5)
 
 ---
 

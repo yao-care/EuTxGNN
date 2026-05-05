@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（8 則）
 
-### [Vitamin D bei Erwachsenen: Was die Versorgung beeinflusst und welche Dosis als sicher gilt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzRCUGY5a2FueGlWZ1c5akstMFA3SHdpT0pQQzFFWkh0Z3lkTTFXQzZodWR4ckFlYTlLS2l5QmZ1THhic3R3NEN3U2trQWhvNjhUTjBlcFdNcm9zQ2Q1U0pMeXJpVENNMXFScnlPNGl5WGgxSnNGek5aaFRQeGMzNzUzeVBLMlR0VzlKSk1QSVRtSXB1QkJNblJmWVM5bWRiUmpzLXpGOTM2dVBzZGdmNEhQMFBOal85VlA5N3RMQWplMkRLbGdoMmVKNVlMRTVaNUxlTzJnTF93WmJNYm9NeENB?oc=5)
+### [Typ-2-Diabetes: Früher Glukagonanstieg verbunden mit Fettlebererkrankung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2JVX3N3QU5wMkZpX2FaaHgxZUZZaV9obGpMeDJzVkJDaFNfNkdtblExTkZwLTJlRWxVWEtqVGhHRWFqNTZQTDV0MlgzUmpSZTNkUTJvMWRVVG9NRThwN24xLU52c0lkQXJ3QXNKTFF6RElqQkpERVRzcmlxSEhlSklaOUx3NHpVRU5GZm5tdGg?oc=5)
 
 2026-05-05 <span class="news-indication-tag">diabetes</span>
 
-來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzRCUGY5a2FueGlWZ1c5akstMFA3SHdpT0pQQzFFWkh0Z3lkTTFXQzZodWR4ckFlYTlLS2l5QmZ1THhic3R3NEN3U2trQWhvNjhUTjBlcFdNcm9zQ2Q1U0pMeXJpVENNMXFScnlPNGl5WGgxSnNGek5aaFRQeGMzNzUzeVBLMlR0VzlKSk1QSVRtSXB1QkJNblJmWVM5bWRiUmpzLXpGOTM2dVBzZGdmNEhQMFBOal85VlA5N3RMQWplMkRLbGdoMmVKNVlMRTVaNUxlTzJnTF93WmJNYm9NeENB?oc=5)
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2JVX3N3QU5wMkZpX2FaaHgxZUZZaV9obGpMeDJzVkJDaFNfNkdtblExTkZwLTJlRWxVWEtqVGhHRWFqNTZQTDV0MlgzUmpSZTNkUTJvMWRVVG9NRThwN24xLU52c0lkQXJ3QXNKTFF6RElqQkpERVRzcmlxSEhlSklaOUx3NHpVRU5GZm5tdGg?oc=5)
+
+---
+
+### [Mehr Medizin hilft gegen Krebs und Diabetes nur wenig](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG9rSDFQM0M1bndLSE1Qd0pPUktIWGtjbUVnRzFJQ2ZkTG05UlZIdGl5dHZvLURkSlZ0Nlpud2Z5UG43Z3hUVXUwRXpPY2VkczRobkVQRF9keVFXMVprajVqelY2WlYxVll4aU9va2lBbWVhTXF6YTY1Q09tUnk0Y29qTEE0bnpxd01hNWtmWGxkM1p3VjBn?oc=5)
+
+2026-05-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Infosperber](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG9rSDFQM0M1bndLSE1Qd0pPUktIWGtjbUVnRzFJQ2ZkTG05UlZIdGl5dHZvLURkSlZ0Nlpud2Z5UG43Z3hUVXUwRXpPY2VkczRobkVQRF9keVFXMVprajVqelY2WlYxVll4aU9va2lBbWVhTXF6YTY1Q09tUnk0Y29qTEE0bnpxd01hNWtmWGxkM1p3VjBn?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
----
-
 ### [Fatigue trifft Blutzucker: Wie ME/CFS und Diabetes zusammenhängen - mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
 
 2026-05-04 <span class="news-indication-tag">diabetes</span>
 
 來源：[mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
-
----
-
-### [DDZ-Studie: Erhöhter Glukagonspiegel bei neu diagnostiziertem Typ-2-Diabetes - mgo medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxONUx0QVJVVzl5SXVTclR2OVJ5ZW8wZnlnaWsyM0pFN1h5ZllJcEJ1Vk15TEhPZFR4TVhGQTVNVm9LaG5KLXlBc2owcjB6YXF6STB2TzVhck5GODRRaTdXVTdfdU41RWdCLWJUeWFOeEl1R0lRUnEzN0hQdnQwMVV5d09RUGZva2VkS0gySm5CVTVVQm1BRnMzOF9FR3N6UGRoOTFzUVRaTXIxbHZKY2hJNlpqWQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxONUx0QVJVVzl5SXVTclR2OVJ5ZW8wZnlnaWsyM0pFN1h5ZllJcEJ1Vk15TEhPZFR4TVhGQTVNVm9LaG5KLXlBc2owcjB6YXF6STB2TzVhck5GODRRaTdXVTdfdU41RWdCLWJUeWFOeEl1R0lRUnEzN0hQdnQwMVV5d09RUGZva2VkS0gySm5CVTVVQm1BRnMzOF9FR3N6UGRoOTFzUVRaTXIxbHZKY2hJNlpqWQ?oc=5)
 
 ---
 
@@ -110,14 +102,6 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Vitamina D: se assumi l’integratore sbagliato abbassi i livelli (anziché alzarli) - The Wom Healthy](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjBnZGhlR1FycnFzT2VYckdnN2VncTg3amxNcUVUMlppTE9wQXNHMWpNSWJJNGZCa1pYcWVtY3hib3QyR1gtTTZDY09zV256VV9rYmxya200eTJGNUJ3MnNHS0lDUFdKb3NuWjFwaWJLMVVNV3hsNEEwdHRGRERIVFowLTJhbjh0aHd3TTEyM19nRHNubTFxNDUzUU9Cd2NnMFN3eVlPMFNUNUZpUDIySDUyelZWWUMt?oc=5)
-
-2026-05-04 <span class="news-indication-tag">diabete</span>
-
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjBnZGhlR1FycnFzT2VYckdnN2VncTg3amxNcUVUMlppTE9wQXNHMWpNSWJJNGZCa1pYcWVtY3hib3QyR1gtTTZDY09zV256VV9rYmxya200eTJGNUJ3MnNHS0lDUFdKb3NuWjFwaWJLMVVNV3hsNEEwdHRGRERIVFowLTJhbjh0aHd3TTEyM19nRHNubTFxNDUzUU9Cd2NnMFN3eVlPMFNUNUZpUDIySDUyelZWWUMt?oc=5)
-
----
-
 ### [Un mix tra quello che siamo e quello che viviamo, cosa ha scoperto lo studio italiano che ha analizzato i sogni di quasi 300 persone](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI5RjNoM3FVd01iTWo2MUZZcXJtMUUtelV2RFFOWDlrMXlZLVBoUE8xWXlBb0lDRDFYUnlCSkhOSmc4MVlESUpIQjBMeEY3VFhwcXJWMFdrcjdyWTVTU1g3RFI0eUQwTWlwaUhnemxlSzNrTU9nUG80UkF0X284TGlmLTBacTBaWXhVX0F4dWFGYjRFU3VtMElnN0hqRG5RWVFwQ0JOUjludGsyVkNoRzFKV0VpbVNPN21oNE9BcmZLcEhhVHR6WGRpWGxwakx4RWJPb284eExLbXlJV21V?oc=5)
 
 2026-05-04 <span class="news-indication-tag">asma</span>
@@ -131,22 +115,6 @@ permalink: /news/somapacitan/
 2026-05-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
-
----
-
-### [A 10-minute walking workout every day might be the 'bare minimum' but I've already felt the benefits for my mind and body after one week - Woman & Home](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQndUQUdEZFR3VWpfcHVTOHA0Y1JJOVNZMHNycFJlTWNFS214Mzg4ODIzX3Z6dzRLLU1xX2ZxRGxHNlFoQXhLb0FBVDhUZWVFTy1pbC1DeHVham4yRVVOODBFZUVOUkZiZ3ExLXVPYjZwZ09CYmF4QU00UVpTcVpia2tnOVUxczQ?oc=5)
-
-2026-05-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Woman & Home](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQndUQUdEZFR3VWpfcHVTOHA0Y1JJOVNZMHNycFJlTWNFS214Mzg4ODIzX3Z6dzRLLU1xX2ZxRGxHNlFoQXhLb0FBVDhUZWVFTy1pbC1DeHVham4yRVVOODBFZUVOUkZiZ3ExLXVPYjZwZ09CYmF4QU00UVpTcVpia2tnOVUxczQ?oc=5)
-
----
-
-### [Il boom delle allergie. “Ecco perché non ci sono mai stati così tanti pollini come adesso” - la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxORHFqQWZiWjdBUlVDeWo3UDBTQW05TnlmZnJ2b3dvTEhCYjVoam1DRWJCWnJHeEsxdzdkY0ZVU2VfdXQyZ01EVnZXdGpyWElCOW5RS19vTnltSXdVNVRNRlV3V1FESURBR2ZlZWZSMEliZ1I1cHdZX19CWG9PaXlOdks4dVdfZG5Gb2F1anVxejMyMUxieDFFNVNB?oc=5)
-
-2026-05-03 <span class="news-indication-tag">asma</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxORHFqQWZiWjdBUlVDeWo3UDBTQW05TnlmZnJ2b3dvTEhCYjVoam1DRWJCWnJHeEsxdzdkY0ZVU2VfdXQyZ01EVnZXdGpyWElCOW5RS19vTnltSXdVNVRNRlV3V1FESURBR2ZlZWZSMEliZ1I1cHdZX19CWG9PaXlOdks4dVdfZG5Gb2F1anVxejMyMUxieDFFNVNB?oc=5)
 
 ---
 
