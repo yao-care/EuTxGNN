@@ -14,7 +14,7 @@ permalink: /news/empagliflozin/
 ---
 
 <p class="key-answer" data-question="Empagliflozin 有什麼相關新聞？">
-<strong>Empagliflozin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Empagliflozin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/empagliflozin/
 <p><a href="{{ '/drugs/empagliflozin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
 
-### [Nicht nur Insulin ist entscheidend: Frühe Glukagonerhöhung bei Typ-2-Diabetes hängt mit Fettlebererkrankung zusammen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PcW1ja0c4aWxoSm5yQm9oVDY2SXpLT2taVnlIX1EwYTdxM3RfY3ZDUmxhczhoeE9Va2FCQ0E2c0RkNERVRFExMnNGSQ?oc=5)
+### [Vitamin D bei Erwachsenen: Was die Versorgung beeinflusst und welche Dosis als sicher gilt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzRCUGY5a2FueGlWZ1c5akstMFA3SHdpT0pQQzFFWkh0Z3lkTTFXQzZodWR4ckFlYTlLS2l5QmZ1THhic3R3NEN3U2trQWhvNjhUTjBlcFdNcm9zQ2Q1U0pMeXJpVENNMXFScnlPNGl5WGgxSnNGek5aaFRQeGMzNzUzeVBLMlR0VzlKSk1QSVRtSXB1QkJNblJmWVM5bWRiUmpzLXpGOTM2dVBzZGdmNEhQMFBOal85VlA5N3RMQWplMkRLbGdoMmVKNVlMRTVaNUxlTzJnTF93WmJNYm9NeENB?oc=5)
 
-2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-05-05 <span class="news-indication-tag">diabetes</span>
 
-來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PcW1ja0c4aWxoSm5yQm9oVDY2SXpLT2taVnlIX1EwYTdxM3RfY3ZDUmxhczhoeE9Va2FCQ0E2c0RkNERVRFExMnNGSQ?oc=5)
+來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzRCUGY5a2FueGlWZ1c5akstMFA3SHdpT0pQQzFFWkh0Z3lkTTFXQzZodWR4ckFlYTlLS2l5QmZ1THhic3R3NEN3U2trQWhvNjhUTjBlcFdNcm9zQ2Q1U0pMeXJpVENNMXFScnlPNGl5WGgxSnNGek5aaFRQeGMzNzUzeVBLMlR0VzlKSk1QSVRtSXB1QkJNblJmWVM5bWRiUmpzLXpGOTM2dVBzZGdmNEhQMFBOal85VlA5N3RMQWplMkRLbGdoMmVKNVlMRTVaNUxlTzJnTF93WmJNYm9NeENB?oc=5)
+
+---
+
+### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
+
+2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/empagliflozin/
 2026-05-04 <span class="news-indication-tag">diabetes</span>
 
 來源：[mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
+
+---
+
+### [DDZ-Studie: Erhöhter Glukagonspiegel bei neu diagnostiziertem Typ-2-Diabetes - mgo medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxONUx0QVJVVzl5SXVTclR2OVJ5ZW8wZnlnaWsyM0pFN1h5ZllJcEJ1Vk15TEhPZFR4TVhGQTVNVm9LaG5KLXlBc2owcjB6YXF6STB2TzVhck5GODRRaTdXVTdfdU41RWdCLWJUeWFOeEl1R0lRUnEzN0hQdnQwMVV5d09RUGZva2VkS0gySm5CVTVVQm1BRnMzOF9FR3N6UGRoOTFzUVRaTXIxbHZKY2hJNlpqWQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxONUx0QVJVVzl5SXVTclR2OVJ5ZW8wZnlnaWsyM0pFN1h5ZllJcEJ1Vk15TEhPZFR4TVhGQTVNVm9LaG5KLXlBc2owcjB6YXF6STB2TzVhck5GODRRaTdXVTdfdU41RWdCLWJUeWFOeEl1R0lRUnEzN0hQdnQwMVV5d09RUGZva2VkS0gySm5CVTVVQm1BRnMzOF9FR3N6UGRoOTFzUVRaTXIxbHZKY2hJNlpqWQ?oc=5)
 
 ---
 
@@ -83,6 +99,14 @@ permalink: /news/empagliflozin/
 2026-05-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
+
+---
+
+### [A 10-minute walking workout every day might be the 'bare minimum' but I've already felt the benefits for my mind and body after one week - Woman & Home](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQndUQUdEZFR3VWpfcHVTOHA0Y1JJOVNZMHNycFJlTWNFS214Mzg4ODIzX3Z6dzRLLU1xX2ZxRGxHNlFoQXhLb0FBVDhUZWVFTy1pbC1DeHVham4yRVVOODBFZUVOUkZiZ3ExLXVPYjZwZ09CYmF4QU00UVpTcVpia2tnOVUxczQ?oc=5)
+
+2026-05-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Woman & Home](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQndUQUdEZFR3VWpfcHVTOHA0Y1JJOVNZMHNycFJlTWNFS214Mzg4ODIzX3Z6dzRLLU1xX2ZxRGxHNlFoQXhLb0FBVDhUZWVFTy1pbC1DeHVham4yRVVOODBFZUVOUkZiZ3ExLXVPYjZwZ09CYmF4QU00UVpTcVpia2tnOVUxczQ?oc=5)
 
 ---
 

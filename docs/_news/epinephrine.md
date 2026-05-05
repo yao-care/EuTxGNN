@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Why a million Britons are ditching the blue asthma inhaler - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxORG1CbEQzNDJFYi1teUdfTnZnbWVUZmlNUmdxdmNiVGo4X2hNRTFnd0xyRkpHdGpybkpaVnp0RjBBYWRpbWE2RWtFM2toR3M4clIydklBUjlmSW5xNVdVYlE2OVZWRUFnRU1JVHV0UE92QWpaeXFXY2xQRHJIcWRQY3BlTy1vMXowemRXN0NCd3RMV3c4TldsUERKRTRfaXNZTFdz?oc=5)
+
+2026-05-04 <span class="news-indication-tag">asthma</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxORG1CbEQzNDJFYi1teUdfTnZnbWVUZmlNUmdxdmNiVGo4X2hNRTFnd0xyRkpHdGpybkpaVnp0RjBBYWRpbWE2RWtFM2toR3M4clIydklBUjlmSW5xNVdVYlE2OVZWRUFnRU1JVHV0UE92QWpaeXFXY2xQRHJIcWRQY3BlTy1vMXowemRXN0NCd3RMV3c4TldsUERKRTRfaXNZTFdz?oc=5)
+
+---
 
 ### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMimgJBVV95cUxOSXZLNFFRVHRvaUo3UEJXdjF5OV9BRmN4N0dxMU01TXpGMVdyVE5tNEh4MkQ3NEdZWmdLbFNUS2FsUkJuS3pyWGJxLTloUDkzRlphb2FrcnNfVjJ2aU5KM3A0SVhxcVd0bTU2aUQ0eXFmWHotS3F5TFlFQWpzZkVqMUh1NmlBYloxZll5Y2FJTHpvU0lhTnY5eEtqMVF6V1pwWm1sME5mcVRuSWpUUHVqYXZFQjE2Yk5RTE1mcU9xOGhtWkExam9qT0o0dWw2VFppWVNyR0VpMmljRkM5cENSNXY4MmhUMlROVnU2cUl5cE9mMFdIbUlFc0ttZGhrbXdVdG4zQkJTMWNVMWxjUDJsSnlkSEgtb1RaUGc?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/epinephrine/
 2026-05-04 <span class="news-indication-tag">asma</span>
 
 來源：[il Lametino.it](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXI2R25fNWpBZDVScmVadGJsTm81ODh3cXI4YndXSXNFRzNtWURybDBLclI4QldQNHVaaGQ5SDViRW5YSlpZRGVGbmE3VGNzYWlPWFJDQU1SZlQwcE55ZTR4RHFPNi1jZkFHRDMtaVJyaDBPUzYwSDJ2ZkhkMEZmbi1mR1ZONG1xd052OEE4cDNUSC1QM0o1aEFTOWdOd1RnaEhUdXNFZHh0VmVVWGVzQjBCcEppS0Jj?oc=5)
+
+---
+
+### [Un mix tra quello che siamo e quello che viviamo, cosa ha scoperto lo studio italiano che ha analizzato i sogni di quasi 300 persone](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI5RjNoM3FVd01iTWo2MUZZcXJtMUUtelV2RFFOWDlrMXlZLVBoUE8xWXlBb0lDRDFYUnlCSkhOSmc4MVlESUpIQjBMeEY3VFhwcXJWMFdrcjdyWTVTU1g3RFI0eUQwTWlwaUhnemxlSzNrTU9nUG80UkF0X284TGlmLTBacTBaWXhVX0F4dWFGYjRFU3VtMElnN0hqRG5RWVFwQ0JOUjludGsyVkNoRzFKV0VpbVNPN21oNE9BcmZLcEhhVHR6WGRpWGxwakx4RWJPb284eExLbXlJV21V?oc=5)
+
+2026-05-04 <span class="news-indication-tag">asma</span>
+
+來源：[Wired](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI5RjNoM3FVd01iTWo2MUZZcXJtMUUtelV2RFFOWDlrMXlZLVBoUE8xWXlBb0lDRDFYUnlCSkhOSmc4MVlESUpIQjBMeEY3VFhwcXJWMFdrcjdyWTVTU1g3RFI0eUQwTWlwaUhnemxlSzNrTU9nUG80UkF0X284TGlmLTBacTBaWXhVX0F4dWFGYjRFU3VtMElnN0hqRG5RWVFwQ0JOUjludGsyVkNoRzFKV0VpbVNPN21oNE9BcmZLcEhhVHR6WGRpWGxwakx4RWJPb284eExLbXlJV21V?oc=5)
 
 ---
 
