@@ -54,11 +54,11 @@ permalink: /news/idarucizumab/
 
 ## 相關新聞（1 則）
 
-### [Beyond Inflammation: Scientists Uncover New Cause of Persistent Rheumatoid Arthritis](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
+### [Un virus aquatique contamine l'Homme pour la première fois : maladie, symptômes… ce que l'on sait de cette découverte](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
 
-2026-05-04 <span class="news-indication-tag">arthritis</span>
+2026-05-04 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
+來源：[Actu.fr](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR1ZmelVRTnlwLTB1Mk80UkxveGVDNVVkRHBTcW5PU21nMHpOU2tlR1BVVW82a0VGM3hPdnhhWFRkd2ZFSU5FYjk5SDI3c3hsUmNjVGhvZ0EwQUR1SExCY05VUzVqd2R5R2tHN3FsSTJJWnN6MmlQNGpfRTBNbkpmbWh1bkJTbGJVbDJmR21CZlJpZEF5ajR4NVh0QkV3bGpYd0hPM19HLUM0dTJ4QWZETW5fS01hM1UyLXVLX0w0SjVJLUVLWWwxN3dFcEJHdHdSRm9QWmw5N0pWbFdPN3RIYTIyQzhJZw?oc=5)
 
 ---
 

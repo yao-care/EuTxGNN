@@ -62,19 +62,19 @@ permalink: /news/ospemifene/
 
 ---
 
+### [One in Five at Risk: Scientists Identify a Hidden Blood Particle Linked to Higher Risk of Stroke and Death](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5)
+
+---
+
 ### [Zusammenhang zwischen Heuschnupfen und Migräne](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
 
 2026-05-04 <span class="news-indication-tag">Migräne</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
-
----
-
-### [Beyond Inflammation: Scientists Uncover New Cause of Persistent Rheumatoid Arthritis](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
-
-2026-05-04 <span class="news-indication-tag">arthritis</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
 
 ---
 

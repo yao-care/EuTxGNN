@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart failure</span></li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart disease</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -62,11 +62,11 @@ permalink: /news/abemaciclib/
 
 ---
 
-### [Beyond Inflammation: Scientists Uncover New Cause of Persistent Rheumatoid Arthritis](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
+### [One in Five at Risk: Scientists Identify a Hidden Blood Particle Linked to Higher Risk of Stroke and Death](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5)
 
-2026-05-04 <span class="news-indication-tag">arthritis</span>
+2026-05-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMirgFBVV95cUxPekN1X09TNHljTnZWbDdFWXBzWlJQRlJlclZUQkxPLTNoWUFWWldWamJRZ3gxQ0c1TmtLMjNrcXljRHE5bTdyR1pJbE9CSks0eU0tQmt5TFFuYUhBeklIS3Q3ZDdnVGhQNHlOenJLcjVnOGNwellRQnk4eW9TOFJWUXZMZW9JVTltNDBJV3hocEN5TWZpaWwyWXNxSjBQZ0QtaHNhQjRhN0VKb3BlZXc?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5)
 
 ---
 

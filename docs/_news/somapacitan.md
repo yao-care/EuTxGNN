@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [Fünf-Punkte-Plan zur Versorgung von ME/CFS-Betroffenen mit Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNld5dTVVMm5KcFpmR0tOVUxNakM3SGM0OWNBU0tPbmE4dy0xR1h3YUVqTzMyOVVuMThfTGtMNk9SVHZOTi1vTkpzeE5xSnBoSHMtdnlnTS15ckVFVFZ3aHJlUUVsN09zTHlIa2ZJOGw2ejNNNkYwTDZja2lDaXB0MFdGbm9DSHlOUU1RbXhsMTNUb2xnWVhSaUtvV29XMFVnNlltMnAtbXJFc0lWQjJhMFl2b29vNDNkRnlJV3Jqd0RERnZ1N2NaWVF6SHAyMzh1?oc=5)
+
+2026-05-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNld5dTVVMm5KcFpmR0tOVUxNakM3SGM0OWNBU0tPbmE4dy0xR1h3YUVqTzMyOVVuMThfTGtMNk9SVHZOTi1vTkpzeE5xSnBoSHMtdnlnTS15ckVFVFZ3aHJlUUVsN09zTHlIa2ZJOGw2ejNNNkYwTDZja2lDaXB0MFdGbm9DSHlOUU1RbXhsMTNUb2xnWVhSaUtvV29XMFVnNlltMnAtbXJFc0lWQjJhMFl2b29vNDNkRnlJV3Jqd0RERnZ1N2NaWVF6SHAyMzh1?oc=5)
+
+---
+
+### [Eating an avocado every day can add years to your life, but this fruit is also surrounded by controversy](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhkeWtBVlB6ZWsyM0QzSXRGeTlfT0RyT3NVMGY4N2tXYnJCWDNuaFU0T0JFMzVhMmlCV3FkZlJGMUhaNGs3Zld0LU1fdFY4NW8tN1VCeFJCU0ZWT0NlN1BKUFhSV0kyN2ppbWp4cVFRN1AtdVV5LUw2SS1xbWFJeG5FcHVqSmFQTUwzOUhFcmRTWEwza0ZpNHFvT1dPV0loZkpIZlhoSTVtbWRDZFVyQWVJNXM?oc=5)
+
+2026-05-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhkeWtBVlB6ZWsyM0QzSXRGeTlfT0RyT3NVMGY4N2tXYnJCWDNuaFU0T0JFMzVhMmlCV3FkZlJGMUhaNGs3Zld0LU1fdFY4NW8tN1VCeFJCU0ZWT0NlN1BKUFhSV0kyN2ppbWp4cVFRN1AtdVV5LUw2SS1xbWFJeG5FcHVqSmFQTUwzOUhFcmRTWEwza0ZpNHFvT1dPV0loZkpIZlhoSTVtbWRDZFVyQWVJNXM?oc=5)
+
+---
+
+### [Diabète : vous êtes peut-être à risque sans le savoir](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zbkI2WnUyUkFWaGVFNUdPYnZmSjJYYVNPRTRFOHRMMWhOaUhGQW56RXFQX080MVZSeHBtUkNOVkc5VlBuTzdraWl0Y2JPMUhEYUxnRHhSOG5zdEpraXMwNktsMWQ?oc=5)
+
+2026-05-05 <span class="news-indication-tag">diabète</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zbkI2WnUyUkFWaGVFNUdPYnZmSjJYYVNPRTRFOHRMMWhOaUhGQW56RXFQX080MVZSeHBtUkNOVkc5VlBuTzdraWl0Y2JPMUhEYUxnRHhSOG5zdEpraXMwNktsMWQ?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Früher Glukagonanstieg verbunden mit Fettlebererkrankung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2JVX3N3QU5wMkZpX2FaaHgxZUZZaV9obGpMeDJzVkJDaFNfNkdtblExTkZwLTJlRWxVWEtqVGhHRWFqNTZQTDV0MlgzUmpSZTNkUTJvMWRVVG9NRThwN24xLU52c0lkQXJ3QXNKTFF6RElqQkpERVRzcmlxSEhlSklaOUx3NHpVRU5GZm5tdGg?oc=5)
 
@@ -70,6 +94,14 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Asthme sévère : des traitements efficaces... à condition d’avoir le bon diagnostic - Le Figaro Santé](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjd5SWJxcWNsV25QenNnUzdQQzJ2cXBSZFNYTi1lQ3B0RmRWdGtMdkVqeWhBVVB0Qm1wR0pGTHpvZE5QbDhyQzhPV1p6M29HZUE4Y0w1OTdkNS0zcnh4QXpha1JFT3ltZVd4dlV1S1pDMmxaVWdDVGtmTEw3M3lGcXdvbXdTaHoyS195MGhsQmptTHlHQzNGMEVYU05CVFpQR2w4aU9DOVRpUy1QMjdsbDJTb3dPNk1MT1FqUjJ3?oc=5)
+
+2026-05-05 <span class="news-indication-tag">asthme</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjd5SWJxcWNsV25QenNnUzdQQzJ2cXBSZFNYTi1lQ3B0RmRWdGtMdkVqeWhBVVB0Qm1wR0pGTHpvZE5QbDhyQzhPV1p6M29HZUE4Y0w1OTdkNS0zcnh4QXpha1JFT3ltZVd4dlV1S1pDMmxaVWdDVGtmTEw3M3lGcXdvbXdTaHoyS195MGhsQmptTHlHQzNGMEVYU05CVFpQR2w4aU9DOVRpUy1QMjdsbDJTb3dPNk1MT1FqUjJ3?oc=5)
+
+---
+
 ### [Why a million Britons are ditching the blue asthma inhaler - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxORG1CbEQzNDJFYi1teUdfTnZnbWVUZmlNUmdxdmNiVGo4X2hNRTFnd0xyRkpHdGpybkpaVnp0RjBBYWRpbWE2RWtFM2toR3M4clIydklBUjlmSW5xNVdVYlE2OVZWRUFnRU1JVHV0UE92QWpaeXFXY2xQRHJIcWRQY3BlTy1vMXowemRXN0NCd3RMV3c4TldsUERKRTRfaXNZTFdz?oc=5)
 
 2026-05-04 <span class="news-indication-tag">asthma</span>
@@ -78,19 +110,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Fatigue trifft Blutzucker: Wie ME/CFS und Diabetes zusammenhängen - mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
-
-2026-05-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
-
----
-
-### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMimgJBVV95cUxOSXZLNFFRVHRvaUo3UEJXdjF5OV9BRmN4N0dxMU01TXpGMVdyVE5tNEh4MkQ3NEdZWmdLbFNUS2FsUkJuS3pyWGJxLTloUDkzRlphb2FrcnNfVjJ2aU5KM3A0SVhxcVd0bTU2aUQ0eXFmWHotS3F5TFlFQWpzZkVqMUh1NmlBYloxZll5Y2FJTHpvU0lhTnY5eEtqMVF6V1pwWm1sME5mcVRuSWpUUHVqYXZFQjE2Yk5RTE1mcU9xOGhtWkExam9qT0o0dWw2VFppWVNyR0VpMmljRkM5cENSNXY4MmhUMlROVnU2cUl5cE9mMFdIbUlFc0ttZGhrbXdVdG4zQkJTMWNVMWxjUDJsSnlkSEgtb1RaUGc?oc=5)
+### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
 
 2026-05-04 <span class="news-indication-tag">asthma</span>
 
-來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMimgJBVV95cUxOSXZLNFFRVHRvaUo3UEJXdjF5OV9BRmN4N0dxMU01TXpGMVdyVE5tNEh4MkQ3NEdZWmdLbFNUS2FsUkJuS3pyWGJxLTloUDkzRlphb2FrcnNfVjJ2aU5KM3A0SVhxcVd0bTU2aUQ0eXFmWHotS3F5TFlFQWpzZkVqMUh1NmlBYloxZll5Y2FJTHpvU0lhTnY5eEtqMVF6V1pwWm1sME5mcVRuSWpUUHVqYXZFQjE2Yk5RTE1mcU9xOGhtWkExam9qT0o0dWw2VFppWVNyR0VpMmljRkM5cENSNXY4MmhUMlROVnU2cUl5cE9mMFdIbUlFc0ttZGhrbXdVdG4zQkJTMWNVMWxjUDJsSnlkSEgtb1RaUGc?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
 
 ---
 
@@ -99,14 +123,6 @@ permalink: /news/somapacitan/
 2026-05-04 <span class="news-indication-tag">asma</span>
 
 來源：[il Lametino.it](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXI2R25fNWpBZDVScmVadGJsTm81ODh3cXI4YndXSXNFRzNtWURybDBLclI4QldQNHVaaGQ5SDViRW5YSlpZRGVGbmE3VGNzYWlPWFJDQU1SZlQwcE55ZTR4RHFPNi1jZkFHRDMtaVJyaDBPUzYwSDJ2ZkhkMEZmbi1mR1ZONG1xd052OEE4cDNUSC1QM0o1aEFTOWdOd1RnaEhUdXNFZHh0VmVVWGVzQjBCcEppS0Jj?oc=5)
-
----
-
-### [Un mix tra quello che siamo e quello che viviamo, cosa ha scoperto lo studio italiano che ha analizzato i sogni di quasi 300 persone](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI5RjNoM3FVd01iTWo2MUZZcXJtMUUtelV2RFFOWDlrMXlZLVBoUE8xWXlBb0lDRDFYUnlCSkhOSmc4MVlESUpIQjBMeEY3VFhwcXJWMFdrcjdyWTVTU1g3RFI0eUQwTWlwaUhnemxlSzNrTU9nUG80UkF0X284TGlmLTBacTBaWXhVX0F4dWFGYjRFU3VtMElnN0hqRG5RWVFwQ0JOUjludGsyVkNoRzFKV0VpbVNPN21oNE9BcmZLcEhhVHR6WGRpWGxwakx4RWJPb284eExLbXlJV21V?oc=5)
-
-2026-05-04 <span class="news-indication-tag">asma</span>
-
-來源：[Wired](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI5RjNoM3FVd01iTWo2MUZZcXJtMUUtelV2RFFOWDlrMXlZLVBoUE8xWXlBb0lDRDFYUnlCSkhOSmc4MVlESUpIQjBMeEY3VFhwcXJWMFdrcjdyWTVTU1g3RFI0eUQwTWlwaUhnemxlSzNrTU9nUG80UkF0X284TGlmLTBacTBaWXhVX0F4dWFGYjRFU3VtMElnN0hqRG5RWVFwQ0JOUjludGsyVkNoRzFKV0VpbVNPN21oNE9BcmZLcEhhVHR6WGRpWGxwakx4RWJPb284eExLbXlJV21V?oc=5)
 
 ---
 

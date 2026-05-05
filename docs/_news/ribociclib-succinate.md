@@ -14,7 +14,7 @@ permalink: /news/ribociclib-succinate/
 ---
 
 <p class="key-answer" data-question="Ribociclib Succinate 有什麼相關新聞？">
-<strong>Ribociclib Succinate</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ribociclib Succinate</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ribociclib-succinate/
 <p><a href="{{ '/drugs/ribociclib-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（17 則）
 
 ### [Krebs: „Die Tumore sind höchstens vier Zentimeter groß, aber so aggressiv, dass man nicht überlebt“](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcUlTN3B4OWFySDRna2JuRGJoa1o5Vl8zOUtLWkxCS1c2U2ZwNFlHYU5NWEh6aFc2SXJYUXpsMkJVRTFXTlpzQlRHU1hnTnNPekdIcGpWMllienlFRHZwQmMwUFRMa2tLLVRxdkNJMWY1WTNQbmZ4UDFxMXE5alh2TUxTV0k5enBmU0p1cmhoVFlYVW1HdFZiX1FFczQzTE9FNm9JZU9xYmp4X0VsdGpVeHVINVNsTEdIdzd5ZEdhV0RkN2U4cHFDbGxjNUIxa1NqVm95VnoxdGE5Xy1hczB1WUR0aUsxLVhYSlpfM0VrYkZ3R2pC?oc=5)
 
@@ -62,7 +62,31 @@ permalink: /news/ribociclib-succinate/
 
 ---
 
-### [Livorno, per i melanomi decisiva la prevenzione: la Coop offre controlli gratuiti - Il Tirreno](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzhZSkh0SDAtTXJwTXVIMG04Y3VoYUE3czJZalFkSTBvSXI1NUxXTzhkSUc2cHNwYzJPZUx4Z0dvTlU2SGlMNERaa1JfWmhXUVR0bUh4MVRBczdjYi1DUGtQX0ljUFc0aWNJcm03YjNhZEN6dmMxVVgzX25JOVlKVURtc3NqemdNa1FfQmEzZURtNzE1WHB3ZzhsNzdUMV9JWUlfZEs4bWk3VHp0ckxqTmNJc2ZwSndSb01TaFlpNFlidnRlQ0M5ZjE5UnRwRm9rZXRQVnNFdkowcEZlTF82NXJn?oc=5)
+### [Cancer du pancréas : l’étude «miracle» de chercheurs espagnols retirée en raison de conflit d’intérêts - Le Figaro Santé](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUU1NMTdvNlFDWXJZUWdKaWczSk9aNjNkUWxGSHJ6YWo0TklKLUxtYVl6SGxqX2xRbnNfQnlCNk4wRlpqaUlscnNqOXBDa1V0ZndHZXZxOEltdGpVeGJoVlNJc21XX2RkYVpnZXkwMzFZWE1Lc1ZWdTlwekJlbXVoSWc1VlZQMFU4NGFTY1RlS255M3NoUllHQ1ZIRFZlTEwxUG03ZzRmZExCdUdueHliSXRjNlFHZFdDYkpZdEV5SDV6OGpuaE9vR2llLXpWV2xNaGJmSTJyR2o1dw?oc=5)
+
+2026-05-05 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUU1NMTdvNlFDWXJZUWdKaWczSk9aNjNkUWxGSHJ6YWo0TklKLUxtYVl6SGxqX2xRbnNfQnlCNk4wRlpqaUlscnNqOXBDa1V0ZndHZXZxOEltdGpVeGJoVlNJc21XX2RkYVpnZXkwMzFZWE1Lc1ZWdTlwekJlbXVoSWc1VlZQMFU4NGFTY1RlS255M3NoUllHQ1ZIRFZlTEwxUG03ZzRmZExCdUdueHliSXRjNlFHZFdDYkpZdEV5SDV6OGpuaE9vR2llLXpWV2xNaGJmSTJyR2o1dw?oc=5)
+
+---
+
+### [Keytruda: New cancer jab available for patients at three health trusts](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wZlFtYnZPbjJyaUlld1RqQmptMXFjWVhPRy1VNmF2a0haTUpRdlFVclA3Y1NVVE9lMW9kRHhELUhrZGNxVEcxanBiVmdIU1JsZXN2dmJfTVNPZmFF?oc=5)
+
+2026-05-05 <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wZlFtYnZPbjJyaUlld1RqQmptMXFjWVhPRy1VNmF2a0haTUpRdlFVclA3Y1NVVE9lMW9kRHhELUhrZGNxVEcxanBiVmdIU1JsZXN2dmJfTVNPZmFF?oc=5)
+
+---
+
+### [Cancer colorectal : ce critère double le risque de décès](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYU9YUDVRQk5OUnBOZWJVZWtjZjFFQmNFQUY3ZWpic1B1enBXWGR5V3hSaTJySWdVV3BEczdSZzZBNnRIU0E0R0pqR2Nwb0RuM1Q4Y0VQV01NcGV5OGpmTW1VSXFaQktuVE4tWG4tejNMbTdmRlVHUmhpbTJscjdTbWtUY0x1WUI1cHMyc05TUzZld3M?oc=5)
+
+2026-05-05 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYU9YUDVRQk5OUnBOZWJVZWtjZjFFQmNFQUY3ZWpic1B1enBXWGR5V3hSaTJySWdVV3BEczdSZzZBNnRIU0E0R0pqR2Nwb0RuM1Q4Y0VQV01NcGV5OGpmTW1VSXFaQktuVE4tWG4tejNMbTdmRlVHUmhpbTJscjdTbWtUY0x1WUI1cHMyc05TUzZld3M?oc=5)
+
+---
+
+### [Livorno, per i melanomi decisiva la prevenzione: la Coop offre controlli gratuiti – Come funziona - Il Tirreno](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzhZSkh0SDAtTXJwTXVIMG04Y3VoYUE3czJZalFkSTBvSXI1NUxXTzhkSUc2cHNwYzJPZUx4Z0dvTlU2SGlMNERaa1JfWmhXUVR0bUh4MVRBczdjYi1DUGtQX0ljUFc0aWNJcm03YjNhZEN6dmMxVVgzX25JOVlKVURtc3NqemdNa1FfQmEzZURtNzE1WHB3ZzhsNzdUMV9JWUlfZEs4bWk3VHp0ckxqTmNJc2ZwSndSb01TaFlpNFlidnRlQ0M5ZjE5UnRwRm9rZXRQVnNFdkowcEZlTF82NXJn?oc=5)
 
 2026-05-05 <span class="news-indication-tag">tumor</span>
 
@@ -86,11 +110,11 @@ permalink: /news/ribociclib-succinate/
 
 ---
 
-### [Southwold man has lived for 49 years since teen cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VVjQxencya0toamc1TEx2RjAxNjh3MUZBUGxrb1NVc1lzRkZVS0dUUmhEc180emZuME11Q2RDT0dCcmkxaGtaWkkyZVlpRzBleHRsanhGU0xyZW51?oc=5)
+### [Pourquoi le cœur est presque totalement épargné par le cancer grâce à ses battements ?](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTmxtNmlpeVRjYVJFQnZBd0VPS1VrbDdaY3dnbDZZbG5jeVJHMEVsNnI3LWxvU1RBaUlQbXVvdUZoTTNiM3F2VDJSeHZDbVRuT0ZQbHdFalRHNlk5b19Gcml2RDJIWjBfWjh6em9IaXRDelhWOGcyWEFjNUFqWXVXT3loYkdOYmd0NDdlX3FMNTVnZllYcldmbG9aUTdKSF9aRjlFcVlOTV9DMl9PNmFacWlaVGpBb3dCelR0ZDljdUJvNUJERFVGLVhWN1FzVGhHQ09TWEJ1ZUdoTXhBQmMyN1UzOGhjZw?oc=5)
 
 2026-05-05 <span class="news-indication-tag">cancer</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VVjQxencya0toamc1TEx2RjAxNjh3MUZBUGxrb1NVc1lzRkZVS0dUUmhEc180emZuME11Q2RDT0dCcmkxaGtaWkkyZVlpRzBleHRsanhGU0xyZW51?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTmxtNmlpeVRjYVJFQnZBd0VPS1VrbDdaY3dnbDZZbG5jeVJHMEVsNnI3LWxvU1RBaUlQbXVvdUZoTTNiM3F2VDJSeHZDbVRuT0ZQbHdFalRHNlk5b19Gcml2RDJIWjBfWjh6em9IaXRDelhWOGcyWEFjNUFqWXVXT3loYkdOYmd0NDdlX3FMNTVnZllYcldmbG9aUTdKSF9aRjlFcVlOTV9DMl9PNmFacWlaVGpBb3dCelR0ZDljdUJvNUJERFVGLVhWN1FzVGhHQ09TWEJ1ZUdoTXhBQmMyN1UzOGhjZw?oc=5)
 
 ---
 
@@ -102,11 +126,11 @@ permalink: /news/ribociclib-succinate/
 
 ---
 
-### ['Beautiful, loving' girl, 9, tragically dies within hours of cancer diagnosis - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1EzZUU5ZVZsVWcxeXNadFJZS2o5RXMwdDhWTkpsbE5yejZOYlZ3ckQ4cVhDQ3NNb3owVHVrUmloQl9VMURmbExBUTJpQWl6S1o5YmVxQ3YwMnE4T013Tkp5UVdNaEdISVU5eE5TVFZEUWJVbWNTLVNHRDcyWjNTUk9aYnlQRkIt0gGOAUFVX3lxTE13aERPWTladnRYOFhfMnlsTFluNUZoQlhKdVNFeHhoNmNLSTNnWV9fZnduTXVPdzZnX3dpVzBtcWJwa2I3LXNNUldFcmxuVzNxZWh5UnAzLWJKbmpWYkVtMTVBeWRVaGh6YVdtenVvY3FqX3FMMTVBR1hrdXllRS0tX19YTXVZM1hhU1N2LWc?oc=5)
+### [Scientists Identify Two Simple Treatments for Cancer-Related Cognitive Impairment](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlB5UFQ0cUF6NE05dE9RLVBvanhuZ29NRUtHVjlXTnUzcE1fUXp4TVBiQzZvQmNJLWN4cS1RNUxXRkFic19WNWZMR1FUZm1qdTVTdy1wc2hpOHdjUmhKYnQ0aDhhSEd0a1FsVm5UU25xZE9qRjZNY05PSTQyUEh2dWpJN0F1OW5sb2VSRVFpaUZiYzJKOWJmeUlFU0VGQV9ZQzdBN2RhTG02dWs?oc=5)
 
 2026-05-04 <span class="news-indication-tag">cancer</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1EzZUU5ZVZsVWcxeXNadFJZS2o5RXMwdDhWTkpsbE5yejZOYlZ3ckQ4cVhDQ3NNb3owVHVrUmloQl9VMURmbExBUTJpQWl6S1o5YmVxQ3YwMnE4T013Tkp5UVdNaEdISVU5eE5TVFZEUWJVbWNTLVNHRDcyWjNTUk9aYnlQRkIt0gGOAUFVX3lxTE13aERPWTladnRYOFhfMnlsTFluNUZoQlhKdVNFeHhoNmNLSTNnWV9fZnduTXVPdzZnX3dpVzBtcWJwa2I3LXNNUldFcmxuVzNxZWh5UnAzLWJKbmpWYkVtMTVBeWRVaGh6YVdtenVvY3FqX3FMMTVBR1hrdXllRS0tX19YTXVZM1hhU1N2LWc?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlB5UFQ0cUF6NE05dE9RLVBvanhuZ29NRUtHVjlXTnUzcE1fUXp4TVBiQzZvQmNJLWN4cS1RNUxXRkFic19WNWZMR1FUZm1qdTVTdy1wc2hpOHdjUmhKYnQ0aDhhSEd0a1FsVm5UU25xZE9qRjZNY05PSTQyUEh2dWpJN0F1OW5sb2VSRVFpaUZiYzJKOWJmeUlFU0VGQV9ZQzdBN2RhTG02dWs?oc=5)
 
 ---
 
@@ -126,27 +150,11 @@ permalink: /news/ribociclib-succinate/
 
 ---
 
-### [The Chelsea millionaires fighting against a cancer unit - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUlsektnSzNCcy1uN291RnpPSGp0UGV5QWNNZ2JIajl3S1NCcHE0VWJhRHZnMnFSbnRhY2lFdkRRRzYzVTZBYXlmUlc1a0JYUmM4aWNTR1phZFJLdWZvRXhDU2c4aFNPcHRFS2diYzBfNy1wWTVWSjRKRWd0M1U0QUpIU3R1SjhfS2VHc05rQQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUlsektnSzNCcy1uN291RnpPSGp0UGV5QWNNZ2JIajl3S1NCcHE0VWJhRHZnMnFSbnRhY2lFdkRRRzYzVTZBYXlmUlc1a0JYUmM4aWNTR1phZFJLdWZvRXhDU2c4aFNPcHRFS2diYzBfNy1wWTVWSjRKRWd0M1U0QUpIU3R1SjhfS2VHc05rQQ?oc=5)
-
----
-
 ### [Neuer Ansatz in der Krebstherapie - Uniklinik Köln](https://news.google.com/rss/articles/CBMinwFBVV95cUxPanA4Tm9QOUtmdzNJWnYxZVRvcV9UYmxvUlM4UEp2WldmYkRtZV9hTjEycUNTUUZOVFcySkVxd0V2X0VON2tXYUZPaVRWeUVRMFZvRi1DQmZsbmNWamR4NFloU2NfMy10RzZTYktQeEVHLV9WUmZINkdEZGtMR3dsTjlmN21kS3JoeGpYOEVLbWJ6ZHY1YU5kUjF4NFk3OUk?oc=5)
 
 2026-05-04 <span class="news-indication-tag">Krebs</span>
 
 來源：[Uniklinik Köln](https://news.google.com/rss/articles/CBMinwFBVV95cUxPanA4Tm9QOUtmdzNJWnYxZVRvcV9UYmxvUlM4UEp2WldmYkRtZV9hTjEycUNTUUZOVFcySkVxd0V2X0VON2tXYUZPaVRWeUVRMFZvRi1DQmZsbmNWamR4NFloU2NfMy10RzZTYktQeEVHLV9WUmZINkdEZGtMR3dsTjlmN21kS3JoeGpYOEVLbWJ6ZHY1YU5kUjF4NFk3OUk?oc=5)
-
----
-
-### [Tumore alla prostata: radioterapia efficace contro le recidive, quando il PSA aumenta dopo l'intervento - Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxPSXdmWXIxemZwRGRfdWZlRllINnBuNnQ5eWhCMjVySE1hRVFEUXg1enRhUHQ5dlF3Nm81RGpYS3hMUGRhTzZEZGYyU2cxQTlFMTJRRzc2RXpWSHRNZHlyZGRLUDZiR09mVFdOeHktcXk2UGYtVm84M1NOb2YwTV9iV3J1YnBtaEdEWUpBMUpVTUQzUlpxbkktQk8yNVdCZkFyOFVLLUNjNHJKVXJJQV9sQmRnQV94YjZyRlJFZWtDdVFEdjd6Ymtqdm9PQ2RsTXktd3VmaUFPNk1xcC1OMF81WVJ6c2hmYVNlZFpRNjhMVHBBOE9YM3dnY0l2VWJqaDN4SUp6MGg0OHdSRlg5dmlZdFpLTUlocmllZXpKRUhsZTJqdGxSSWNwQ0NuNU9vUdIBswJBVV95cUxNZ2FYZVRab2hQcW9CcVhid2RWWllBLUxndThBSTJ6RUVoc1g2cmUxbTl2dEhqWWozTXNoa29KdmlfWTg2LXY1YmRfWHk0SEE2NGUwXzluNTFfYk9salhsQmNFMkdoQms0TElqM09KSk5QbllWMTdEdElfWjR0NUtoeDN4Z05ISmt4RkxGMWF1c05UQlJPc2ZuS1ctRDY0RHlhaW1UUmNBRkwxcjFQQU1IQnJCMXlCTjFLLWd2VXNBR2Q4U2FJbWVFd0xTN1VqM2VVTDJRRlBQaVVybjEyX3UyOXV2aDB4c3VhUDM0cDFSUDRBemtnZkJhdzRsaE1weTAtc3hUUUpMMnNIWGd0UGEydXppemRueFFJdVBBbkVaLTZDQzhha01ZRnFsTTFmRUpfRWxZ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxPSXdmWXIxemZwRGRfdWZlRllINnBuNnQ5eWhCMjVySE1hRVFEUXg1enRhUHQ5dlF3Nm81RGpYS3hMUGRhTzZEZGYyU2cxQTlFMTJRRzc2RXpWSHRNZHlyZGRLUDZiR09mVFdOeHktcXk2UGYtVm84M1NOb2YwTV9iV3J1YnBtaEdEWUpBMUpVTUQzUlpxbkktQk8yNVdCZkFyOFVLLUNjNHJKVXJJQV9sQmRnQV94YjZyRlJFZWtDdVFEdjd6Ymtqdm9PQ2RsTXktd3VmaUFPNk1xcC1OMF81WVJ6c2hmYVNlZFpRNjhMVHBBOE9YM3dnY0l2VWJqaDN4SUp6MGg0OHdSRlg5dmlZdFpLTUlocmllZXpKRUhsZTJqdGxSSWNwQ0NuNU9vUdIBswJBVV95cUxNZ2FYZVRab2hQcW9CcVhid2RWWllBLUxndThBSTJ6RUVoc1g2cmUxbTl2dEhqWWozTXNoa29KdmlfWTg2LXY1YmRfWHk0SEE2NGUwXzluNTFfYk9salhsQmNFMkdoQms0TElqM09KSk5QbllWMTdEdElfWjR0NUtoeDN4Z05ISmt4RkxGMWF1c05UQlJPc2ZuS1ctRDY0RHlhaW1UUmNBRkwxcjFQQU1IQnJCMXlCTjFLLWd2VXNBR2Q4U2FJbWVFd0xTN1VqM2VVTDJRRlBQaVVybjEyX3UyOXV2aDB4c3VhUDM0cDFSUDRBemtnZkJhdzRsaE1weTAtc3hUUUpMMnNIWGd0UGEydXppemRueFFJdVBBbkVaLTZDQzhha01ZRnFsTTFmRUpfRWxZ?oc=5)
 
 ---
 
@@ -166,59 +174,19 @@ permalink: /news/ribociclib-succinate/
 
 ---
 
-### [Le cancer de la vessie est le 5e cancer le plus fréquent, mais ses symptômes sont encore trop méconnus](https://news.google.com/rss/articles/CBMihgJBVV95cUxQd2hRQWJpYU9pSEF3NU00dWZibjBxYmxGdUZTNDNKSlc2dHlqS19CZ2lwOV9pNFdrckRWSTlsN0V6b3dJZzV3S002dlFNNGJqX2pXUHJXalZWN05oclNLX1oxVUcwaXJvRkd6UUVpX01GNGpYNWZBcHB3NU1CYlZVbnItWE5DeGxCT0JzRTRNVjlzcFVXM1BIODdVN0l3UU5GcmU4QVJPdzRmREhaeGM4ZGJ1eFhmN3ZvVW9CYzh1TU9wTF9Zak54aE0yN3R3M25LNVNxQjZmMVIzYTBoYjI5ZHJ5a1VGRkUyVzBxelZnYkdmSU5fYUFNZmJxTjNzZGMtaEYtdVFB?oc=5)
+### [Nanozyme sollen zur Behandlung von Hirntumoren genutzt werden](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1lVNllVMWFYYVA5ZlQtM3hYVFNVYUpXdjlrZW53V0ZSZkhNR1IzbzRwZVhSMmxFUGN1ZDU1OFFCUHI0bHJyeDFJeUc5S0xaNDJ2ZENzcVR0b0xER3M1VjZpRng5UDVCMl8tS29HR2Q3RXpvN3BTN29xdzQyTmVKcl9kaEhndmo3dDdoVFhTOVhuYU9rMl80Zlh4QVQzQkFFNWxJd3JYUldDUQ?oc=5)
 
-2026-05-04 <span class="news-indication-tag">cancer</span>
+2026-05-04 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxQd2hRQWJpYU9pSEF3NU00dWZibjBxYmxGdUZTNDNKSlc2dHlqS19CZ2lwOV9pNFdrckRWSTlsN0V6b3dJZzV3S002dlFNNGJqX2pXUHJXalZWN05oclNLX1oxVUcwaXJvRkd6UUVpX01GNGpYNWZBcHB3NU1CYlZVbnItWE5DeGxCT0JzRTRNVjlzcFVXM1BIODdVN0l3UU5GcmU4QVJPdzRmREhaeGM4ZGJ1eFhmN3ZvVW9CYzh1TU9wTF9Zak54aE0yN3R3M25LNVNxQjZmMVIzYTBoYjI5ZHJ5a1VGRkUyVzBxelZnYkdmSU5fYUFNZmJxTjNzZGMtaEYtdVFB?oc=5)
-
----
-
-### [Prostata-Krebs: Zusammenhang zwischen aggressiven Tumoren und Testosteron entdeckt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
-
-2026-05-04 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1dpVHhpZmw0RU13YnVobGMtSkdZbTJBLVlGV0lfZ3U1dFdFYVk1RmwxRGZNZTdTYzZLTi15elJpVXE1MTNyMWhRNGlvZk5IenNrcGhIaHJIRVppc2Jqc2ZUMnNBc0lkX0xPSTM0RWJmd2hrSnU2ZUU5ZWNZdFlsT3lfQ1dYVmRRN3ZaaWtmbllMUDJKMG9GSlZUcnBvWjBPSkh6b3ZnaFhRbGhBakgwTzY3WXo2akVxY1NJMjBBWC11M1hNRUNraEJTQVRtaFZOYUFqMjhOZG5KbkVCWGs3YkRxYw?oc=5)
+來源：[punkt4.info](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1lVNllVMWFYYVA5ZlQtM3hYVFNVYUpXdjlrZW53V0ZSZkhNR1IzbzRwZVhSMmxFUGN1ZDU1OFFCUHI0bHJyeDFJeUc5S0xaNDJ2ZENzcVR0b0xER3M1VjZpRng5UDVCMl8tS29HR2Q3RXpvN3BTN29xdzQyTmVKcl9kaEhndmo3dDdoVFhTOVhuYU9rMl80Zlh4QVQzQkFFNWxJd3JYUldDUQ?oc=5)
 
 ---
 
-### [Une nouvelle stratégie thérapeutique au CHU de Clermont-Ferrand contre un cancer très rare dont est atteint le petit Kyan - La Montagne](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQllEaWg1MXk5ZEM3UWJhT2owTUkxeGJwTjd5Vmo2Q0daWUZHUGdWUHhZTHlxRmhVV1BpTXoweTRDTXJrVEJrYVZnYmEzWVZybFJ3dUJ0WUYzQ3ZXRWVPanZ2dFZzT2F4WS1zbzJRX0JVdUVwM0hSQmJxQkZ5V2ltSHZjb1Bmcm1OTHVQU0w5cGxvSzJDNWxsNFpucTBGanhsdmlSUTBUT19FRmIyV2t5ZFBZNEdwN2xmdWx6Q0R5RmJZRnllYV93MGQ2WjdGVWNQSWx3eU9HQmNaZDV6MTBvRUczMnluS3ZzSVNaQmVYbWRremhDc2dpN1JheWJaemoweEhQdERWTkhaLTk4dXFN?oc=5)
+### [Newton Aycliffe girl with 'sweetest soul' died just hours after rare cancer diagnosis - The Northern Echo](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGk3OTVxcF9RM3lWekc1Yk9kb2xkZFAzSzd0cGJob0w5ZkFlWGFQSUUweXoxSXgxN0l2b2YxbUpYQTFTNjd4OGR2UXVZYk9MZGtWcW1ZZkRPbVlkakdSUnEwbkI0bVZzY2ZiSkR2dUtLNlVfelpLcWpfVFZoWV9taEpWclZrOTFCd3JjNExxTFFrcTg1c3B0aGYyZ24wd3VOMF9YZ05CYw?oc=5)
 
-2026-05-04 <span class="news-indication-tag">cancer</span>
+2026-05-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Montagne](https://news.google.com/rss/articles/CBMijwJBVV95cUxQQllEaWg1MXk5ZEM3UWJhT2owTUkxeGJwTjd5Vmo2Q0daWUZHUGdWUHhZTHlxRmhVV1BpTXoweTRDTXJrVEJrYVZnYmEzWVZybFJ3dUJ0WUYzQ3ZXRWVPanZ2dFZzT2F4WS1zbzJRX0JVdUVwM0hSQmJxQkZ5V2ltSHZjb1Bmcm1OTHVQU0w5cGxvSzJDNWxsNFpucTBGanhsdmlSUTBUT19FRmIyV2t5ZFBZNEdwN2xmdWx6Q0R5RmJZRnllYV93MGQ2WjdGVWNQSWx3eU9HQmNaZDV6MTBvRUczMnluS3ZzSVNaQmVYbWRremhDc2dpN1JheWJaemoweEhQdERWTkhaLTk4dXFN?oc=5)
-
----
-
-### [Nuove Car-T “staminali” aprono scenari nella cura dei tumori: la scoperta dell’andriese Gabriele Inchingolo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPelpaQ3ZDTkhSaWJLTHlIOEcxUlNOTmE4SVJJMmhaNG10OWp4Z3E1Q3JtSDJoTXROZE1jYlY0cDVnVU85M3NYWFk3TDBST2RBQmdxWHcwS2h2ZlRybWJpN25aNVM2aGlLSUs5MXFmbUtVWFRJdUV1OEdJN3I0aExyTWhzVXpCRHhVMU52MkhnZUFMSHNTWTV6MjcwLWV0a3ltZC11bXV2dWhfNTdkTWdHdW8zdjhqTWNITEJQNHRRTWhtNTNRRWNTTmNROE5pT3FoSFB3?oc=5)
-
-2026-05-04 <span class="news-indication-tag">tumor</span>
-
-來源：[AndriaLive.it](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPelpaQ3ZDTkhSaWJLTHlIOEcxUlNOTmE4SVJJMmhaNG10OWp4Z3E1Q3JtSDJoTXROZE1jYlY0cDVnVU85M3NYWFk3TDBST2RBQmdxWHcwS2h2ZlRybWJpN25aNVM2aGlLSUs5MXFmbUtVWFRJdUV1OEdJN3I0aExyTWhzVXpCRHhVMU52MkhnZUFMSHNTWTV6MjcwLWV0a3ltZC11bXV2dWhfNTdkTWdHdW8zdjhqTWNITEJQNHRRTWhtNTNRRWNTTmNROE5pT3FoSFB3?oc=5)
-
----
-
-### [‘1-minute’ immunotherapy jab rolled out on NHS for tens of thousands with cancer - NHS England](https://news.google.com/rss/articles/CBMitAFBVV95cUxNalRmMW5yUWZXU2hBNlZOeFlRVG1OTU9YUngxX2tvSFFueVBmSi1ZX2ZsSklGTkxBN2xBb1pEa2llSU9FelE4UlBDd1NEZDNFcWtQU1hob204aXd4MU1HWXB0SGxxS3hiNkRhU282RlFvRURXQ25OYmdabFJNWE1NejVqZXFMbEhCRzVVQlJMN3RJSGpnWk92TUZkLTdHZTgtVjZzdDY0NGs5SjJudXBEenpnOUM?oc=5)
-
-2026-05-03 <span class="news-indication-tag">cancer</span>
-
-來源：[NHS England](https://news.google.com/rss/articles/CBMitAFBVV95cUxNalRmMW5yUWZXU2hBNlZOeFlRVG1OTU9YUngxX2tvSFFueVBmSi1ZX2ZsSklGTkxBN2xBb1pEa2llSU9FelE4UlBDd1NEZDNFcWtQU1hob204aXd4MU1HWXB0SGxxS3hiNkRhU282RlFvRURXQ25OYmdabFJNWE1NejVqZXFMbEhCRzVVQlJMN3RJSGpnWk92TUZkLTdHZTgtVjZzdDY0NGs5SjJudXBEenpnOUM?oc=5)
-
----
-
-### ["Je ne peux pas les racheter, ils sont spécialement prescrits par l’hôpital" : Il vole les papiers et médicaments d’une dame âgée atteinte d’un cancer](https://news.google.com/rss/articles/CBMinwJBVV95cUxPckN3VHZzQ1ZuUlAxSXNvR3FuUkIwWkxkamtSLWw1cVFfMWlVUGJmLXh4R1ltWlY2S2hqa2Z5YlpiRUVNWUZBd19CZC1RNTVJeFlZTG85RG9RZ2FEWldFM2wzQnFXNHRoYUlXNU41ejNra2RuWjk4QVE0TS1tT2lBQzdpaTN0YXozMVBlSTU5N3Z3OGNsV1FxR2xkOVNvbVBUQ3kxdkFuRzA2VlNCVmtoYkw3dlMtMnM4NzBNaEdMbmREVEFxcTFrWWp0em90cW8tWGJ0R2NMTUR4azNNSjY4YllzeDNKcDNaUHpTdjVsY0Z6ZnFEcDdia2RfdkpXMzdzcWx0VDA0dTY4NnhZX3lfVUtMa21SUmtaMVpsaGhQbw?oc=5)
-
-2026-05-03 <span class="news-indication-tag">cancer</span>
-
-來源：[L'Indépendant](https://news.google.com/rss/articles/CBMinwJBVV95cUxPckN3VHZzQ1ZuUlAxSXNvR3FuUkIwWkxkamtSLWw1cVFfMWlVUGJmLXh4R1ltWlY2S2hqa2Z5YlpiRUVNWUZBd19CZC1RNTVJeFlZTG85RG9RZ2FEWldFM2wzQnFXNHRoYUlXNU41ejNra2RuWjk4QVE0TS1tT2lBQzdpaTN0YXozMVBlSTU5N3Z3OGNsV1FxR2xkOVNvbVBUQ3kxdkFuRzA2VlNCVmtoYkw3dlMtMnM4NzBNaEdMbmREVEFxcTFrWWp0em90cW8tWGJ0R2NMTUR4azNNSjY4YllzeDNKcDNaUHpTdjVsY0Z6ZnFEcDdia2RfdkpXMzdzcWx0VDA0dTY4NnhZX3lfVUtMa21SUmtaMVpsaGhQbw?oc=5)
-
----
-
-### [Nanozyme gegen Hirntumore](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ja3UtWldkYnBtZXY1bWQzbG9NcGdfMWg4dlp3MW0zaUE4bEVMYURUak52VGF5UURqUmNKUGlrVVc1R0lhOGpPYzUyaFJFZjRRY3hYYWRMN19pTFM1ZVpBV1RrWFdhQ0RrNGEwbFFtWQ?oc=5)
-
-2026-05-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sardona24](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ja3UtWldkYnBtZXY1bWQzbG9NcGdfMWg4dlp3MW0zaUE4bEVMYURUak52VGF5UURqUmNKUGlrVVc1R0lhOGpPYzUyaFJFZjRRY3hYYWRMN19pTFM1ZVpBV1RrWFdhQ0RrNGEwbFFtWQ?oc=5)
+來源：[The Northern Echo](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGk3OTVxcF9RM3lWekc1Yk9kb2xkZFAzSzd0cGJob0w5ZkFlWGFQSUUweXoxSXgxN0l2b2YxbUpYQTFTNjd4OGR2UXVZYk9MZGtWcW1ZZkRPbVlkakdSUnEwbkI0bVZzY2ZiSkR2dUtLNlVfelpLcWpfVFZoWV9taEpWclZrOTFCd3JjNExxTFFrcTg1c3B0aGYyZ24wd3VOMF9YZ05CYw?oc=5)
 
 ---
 

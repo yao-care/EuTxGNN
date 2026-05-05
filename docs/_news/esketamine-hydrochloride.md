@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Bessere kardiovaskuläre Fitness senkt das Risiko für Demenz und Depression](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWNGUFhSYWdWVkZ5aU4xeFpkbnBVSVlnTlJaOERwaU9GWVpTdkFxaHMycWhNYmtadnBZMmRjNFZVc1N0Vkl4ZWZUUUNSanN4TzhzV2xHOHRvNGR5N21MNFd6ZDFvYVAxTGdXekd0bHlhTDB5QUxLMW5HVUgxXzlzcFRJOXh3R1d5RVg5QmhUUjBJdHpNRUZMSENUd2R4MUdhN0E5NjR1ZDNxVXNR?oc=5)
 
 2026-05-04 <span class="news-indication-tag">depression</span>
 
 來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWNGUFhSYWdWVkZ5aU4xeFpkbnBVSVlnTlJaOERwaU9GWVpTdkFxaHMycWhNYmtadnBZMmRjNFZVc1N0Vkl4ZWZUUUNSanN4TzhzV2xHOHRvNGR5N21MNFd6ZDFvYVAxTGdXekd0bHlhTDB5QUxLMW5HVUgxXzlzcFRJOXh3R1d5RVg5QmhUUjBJdHpNRUZMSENUd2R4MUdhN0E5NjR1ZDNxVXNR?oc=5)
-
----
-
-### [Family data reveal two genetic paths to childhood depression and anxiety - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
-
-2026-05-03 <span class="news-indication-tag">depression</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="Glimepiride 有什麼相關新聞？">
-<strong>Glimepiride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glimepiride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/glimepiride/
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Fünf-Punkte-Plan zur Versorgung von ME/CFS-Betroffenen mit Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNld5dTVVMm5KcFpmR0tOVUxNakM3SGM0OWNBU0tPbmE4dy0xR1h3YUVqTzMyOVVuMThfTGtMNk9SVHZOTi1vTkpzeE5xSnBoSHMtdnlnTS15ckVFVFZ3aHJlUUVsN09zTHlIa2ZJOGw2ejNNNkYwTDZja2lDaXB0MFdGbm9DSHlOUU1RbXhsMTNUb2xnWVhSaUtvV29XMFVnNlltMnAtbXJFc0lWQjJhMFl2b29vNDNkRnlJV3Jqd0RERnZ1N2NaWVF6SHAyMzh1?oc=5)
+
+2026-05-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNld5dTVVMm5KcFpmR0tOVUxNakM3SGM0OWNBU0tPbmE4dy0xR1h3YUVqTzMyOVVuMThfTGtMNk9SVHZOTi1vTkpzeE5xSnBoSHMtdnlnTS15ckVFVFZ3aHJlUUVsN09zTHlIa2ZJOGw2ejNNNkYwTDZja2lDaXB0MFdGbm9DSHlOUU1RbXhsMTNUb2xnWVhSaUtvV29XMFVnNlltMnAtbXJFc0lWQjJhMFl2b29vNDNkRnlJV3Jqd0RERnZ1N2NaWVF6SHAyMzh1?oc=5)
+
+---
+
+### [Eating an avocado every day can add years to your life, but this fruit is also surrounded by controversy](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhkeWtBVlB6ZWsyM0QzSXRGeTlfT0RyT3NVMGY4N2tXYnJCWDNuaFU0T0JFMzVhMmlCV3FkZlJGMUhaNGs3Zld0LU1fdFY4NW8tN1VCeFJCU0ZWT0NlN1BKUFhSV0kyN2ppbWp4cVFRN1AtdVV5LUw2SS1xbWFJeG5FcHVqSmFQTUwzOUhFcmRTWEwza0ZpNHFvT1dPV0loZkpIZlhoSTVtbWRDZFVyQWVJNXM?oc=5)
+
+2026-05-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[Earth.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhkeWtBVlB6ZWsyM0QzSXRGeTlfT0RyT3NVMGY4N2tXYnJCWDNuaFU0T0JFMzVhMmlCV3FkZlJGMUhaNGs3Zld0LU1fdFY4NW8tN1VCeFJCU0ZWT0NlN1BKUFhSV0kyN2ppbWp4cVFRN1AtdVV5LUw2SS1xbWFJeG5FcHVqSmFQTUwzOUhFcmRTWEwza0ZpNHFvT1dPV0loZkpIZlhoSTVtbWRDZFVyQWVJNXM?oc=5)
+
+---
+
+### [Diabète : vous êtes peut-être à risque sans le savoir](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zbkI2WnUyUkFWaGVFNUdPYnZmSjJYYVNPRTRFOHRMMWhOaUhGQW56RXFQX080MVZSeHBtUkNOVkc5VlBuTzdraWl0Y2JPMUhEYUxnRHhSOG5zdEpraXMwNktsMWQ?oc=5)
+
+2026-05-05 <span class="news-indication-tag">diabète</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zbkI2WnUyUkFWaGVFNUdPYnZmSjJYYVNPRTRFOHRMMWhOaUhGQW56RXFQX080MVZSeHBtUkNOVkc5VlBuTzdraWl0Y2JPMUhEYUxnRHhSOG5zdEpraXMwNktsMWQ?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Früher Glukagonanstieg verbunden mit Fettlebererkrankung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2JVX3N3QU5wMkZpX2FaaHgxZUZZaV9obGpMeDJzVkJDaFNfNkdtblExTkZwLTJlRWxVWEtqVGhHRWFqNTZQTDV0MlgzUmpSZTNkUTJvMWRVVG9NRThwN24xLU52c0lkQXJ3QXNKTFF6RElqQkpERVRzcmlxSEhlSklaOUx3NHpVRU5GZm5tdGg?oc=5)
 
@@ -67,14 +91,6 @@ permalink: /news/glimepiride/
 2026-05-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[Infosperber](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG9rSDFQM0M1bndLSE1Qd0pPUktIWGtjbUVnRzFJQ2ZkTG05UlZIdGl5dHZvLURkSlZ0Nlpud2Z5UG43Z3hUVXUwRXpPY2VkczRobkVQRF9keVFXMVprajVqelY2WlYxVll4aU9va2lBbWVhTXF6YTY1Q09tUnk0Y29qTEE0bnpxd01hNWtmWGxkM1p3VjBn?oc=5)
-
----
-
-### [Fatigue trifft Blutzucker: Wie ME/CFS und Diabetes zusammenhängen - mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
-
-2026-05-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
 
 ---
 

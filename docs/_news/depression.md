@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Bessere kardiovaskuläre Fitness senkt das Risiko für Demenz und Depression](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWNGUFhSYWdWVkZ5aU4xeFpkbnBVSVlnTlJaOERwaU9GWVpTdkFxaHMycWhNYmtadnBZMmRjNFZVc1N0Vkl4ZWZUUUNSanN4TzhzV2xHOHRvNGR5N21MNFd6ZDFvYVAxTGdXekd0bHlhTDB5QUxLMW5HVUgxXzlzcFRJOXh3R1d5RVg5QmhUUjBJdHpNRUZMSENUd2R4MUdhN0E5NjR1ZDNxVXNR?oc=5)
 
 2026-05-04
 
 來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWNGUFhSYWdWVkZ5aU4xeFpkbnBVSVlnTlJaOERwaU9GWVpTdkFxaHMycWhNYmtadnBZMmRjNFZVc1N0Vkl4ZWZUUUNSanN4TzhzV2xHOHRvNGR5N21MNFd6ZDFvYVAxTGdXekd0bHlhTDB5QUxLMW5HVUgxXzlzcFRJOXh3R1d5RVg5QmhUUjBJdHpNRUZMSENUd2R4MUdhN0E5NjR1ZDNxVXNR?oc=5)
-
----
-
-### [Family data reveal two genetic paths to childhood depression and anxiety - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
-
-2026-05-03
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUtoZ0szbWNxX29sUDFZbnlkYk1wRl90TE5wMGhCbmR1QXB2V2FsSmhvbEE0R2dtM2RxZXB5LVk3eVducVFKTnN6Y2FaRDZ1Y3hXcl9nMW1KVXZvcmt0NHQtRUloMlRxNWxDYlVBUlN3SlBBRmpHOE9nYkdyaWlxbzV2bXl0Zkdz?oc=5)
 
 ---
 

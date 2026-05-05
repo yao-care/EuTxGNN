@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
+
+### ['Third of stroke survivors miss out on medication'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mT0lyV3JNTVlfV24yNmNCX09OQnVnTEJmbWhHYVZBSldyN2hhWnhoUWFzT084N01YeXdtNkVKMVRlUlVqX3JpVkNYeE1xanM2OWs5dWFMN1dGVk10?oc=5)
+
+2026-05-05 <span class="news-indication-tag">stroke</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mT0lyV3JNTVlfV24yNmNCX09OQnVnTEJmbWhHYVZBSldyN2hhWnhoUWFzT084N01YeXdtNkVKMVRlUlVqX3JpVkNYeE1xanM2OWs5dWFMN1dGVk10?oc=5)
+
+---
 
 ### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
 
 2026-05-04 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
+
+---
+
+### [One in Five at Risk: Scientists Identify a Hidden Blood Particle Linked to Higher Risk of Stroke and Death](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5)
+
+---
+
+### [Braunes Fett als möglicher Gefäßschutz bei Adipositas identifiziert - MedUni Wien](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSy11WW5XVFhBelBGQXlqaTh6Mll6djZWZDc1YkQxZnJzeVY0SWV5TUlCNUhMVEY1S2tLQUUyMkJJR2F2MVJCREVTN2pFcWI0QkduUTRrQzNCQ1RFaVc2ZWFrRXVRQVNSVndMcEFHejZ4cjZCY1p5NnJEY2JLLVI5ZUI2LTRxR1dxRTZmS0o3OFFtSVJHanhUc0YtTTJtNGJFNFV5enFTaHFsZVdyaE9CRjdBOEZQR1AzcVFiNE54WVkxOFdZUllITjdLa3R1OVhnNHlnTW5jWXI?oc=5)
+
+2026-05-04 <span class="news-indication-tag">Adipositas</span>
+
+來源：[MedUni Wien](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSy11WW5XVFhBelBGQXlqaTh6Mll6djZWZDc1YkQxZnJzeVY0SWV5TUlCNUhMVEY1S2tLQUUyMkJJR2F2MVJCREVTN2pFcWI0QkduUTRrQzNCQ1RFaVc2ZWFrRXVRQVNSVndMcEFHejZ4cjZCY1p5NnJEY2JLLVI5ZUI2LTRxR1dxRTZmS0o3OFFtSVJHanhUc0YtTTJtNGJFNFV5enFTaHFsZVdyaE9CRjdBOEZQR1AzcVFiNE54WVkxOFdZUllITjdLa3R1OVhnNHlnTW5jWXI?oc=5)
 
 ---
 

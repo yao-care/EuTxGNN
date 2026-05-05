@@ -54,6 +54,14 @@ permalink: /news/ceftolozane/
 
 ## 相關新聞（4 則）
 
+### [Asthme sévère : des traitements efficaces... à condition d’avoir le bon diagnostic - Le Figaro Santé](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjd5SWJxcWNsV25QenNnUzdQQzJ2cXBSZFNYTi1lQ3B0RmRWdGtMdkVqeWhBVVB0Qm1wR0pGTHpvZE5QbDhyQzhPV1p6M29HZUE4Y0w1OTdkNS0zcnh4QXpha1JFT3ltZVd4dlV1S1pDMmxaVWdDVGtmTEw3M3lGcXdvbXdTaHoyS195MGhsQmptTHlHQzNGMEVYU05CVFpQR2w4aU9DOVRpUy1QMjdsbDJTb3dPNk1MT1FqUjJ3?oc=5)
+
+2026-05-05 <span class="news-indication-tag">asthme</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjd5SWJxcWNsV25QenNnUzdQQzJ2cXBSZFNYTi1lQ3B0RmRWdGtMdkVqeWhBVVB0Qm1wR0pGTHpvZE5QbDhyQzhPV1p6M29HZUE4Y0w1OTdkNS0zcnh4QXpha1JFT3ltZVd4dlV1S1pDMmxaVWdDVGtmTEw3M3lGcXdvbXdTaHoyS195MGhsQmptTHlHQzNGMEVYU05CVFpQR2w4aU9DOVRpUy1QMjdsbDJTb3dPNk1MT1FqUjJ3?oc=5)
+
+---
+
 ### [Why a million Britons are ditching the blue asthma inhaler - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxORG1CbEQzNDJFYi1teUdfTnZnbWVUZmlNUmdxdmNiVGo4X2hNRTFnd0xyRkpHdGpybkpaVnp0RjBBYWRpbWE2RWtFM2toR3M4clIydklBUjlmSW5xNVdVYlE2OVZWRUFnRU1JVHV0UE92QWpaeXFXY2xQRHJIcWRQY3BlTy1vMXowemRXN0NCd3RMV3c4TldsUERKRTRfaXNZTFdz?oc=5)
 
 2026-05-04 <span class="news-indication-tag">asthma</span>
@@ -62,11 +70,11 @@ permalink: /news/ceftolozane/
 
 ---
 
-### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMimgJBVV95cUxOSXZLNFFRVHRvaUo3UEJXdjF5OV9BRmN4N0dxMU01TXpGMVdyVE5tNEh4MkQ3NEdZWmdLbFNUS2FsUkJuS3pyWGJxLTloUDkzRlphb2FrcnNfVjJ2aU5KM3A0SVhxcVd0bTU2aUQ0eXFmWHotS3F5TFlFQWpzZkVqMUh1NmlBYloxZll5Y2FJTHpvU0lhTnY5eEtqMVF6V1pwWm1sME5mcVRuSWpUUHVqYXZFQjE2Yk5RTE1mcU9xOGhtWkExam9qT0o0dWw2VFppWVNyR0VpMmljRkM5cENSNXY4MmhUMlROVnU2cUl5cE9mMFdIbUlFc0ttZGhrbXdVdG4zQkJTMWNVMWxjUDJsSnlkSEgtb1RaUGc?oc=5)
+### [Welt-Asthma-Tag: Warum der Schutz gegen Keuchhusten gerade bei chronischen Atemwegserkrankungen wichtig ist](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
 
 2026-05-04 <span class="news-indication-tag">asthma</span>
 
-來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMimgJBVV95cUxOSXZLNFFRVHRvaUo3UEJXdjF5OV9BRmN4N0dxMU01TXpGMVdyVE5tNEh4MkQ3NEdZWmdLbFNUS2FsUkJuS3pyWGJxLTloUDkzRlphb2FrcnNfVjJ2aU5KM3A0SVhxcVd0bTU2aUQ0eXFmWHotS3F5TFlFQWpzZkVqMUh1NmlBYloxZll5Y2FJTHpvU0lhTnY5eEtqMVF6V1pwWm1sME5mcVRuSWpUUHVqYXZFQjE2Yk5RTE1mcU9xOGhtWkExam9qT0o0dWw2VFppWVNyR0VpMmljRkM5cENSNXY4MmhUMlROVnU2cUl5cE9mMFdIbUlFc0ttZGhrbXdVdG4zQkJTMWNVMWxjUDJsSnlkSEgtb1RaUGc?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNUtGLVBXd0NqaWh6TUc2VXBkSklyWTZJd2I2ZUZiSVQyRndzY3Z5RHhtcmJQenRtTnVuODhUSERzUEdHekYwUGc1YW1mS2xITVljVmg2dm1mejFhdlZkVy1uTjI1a01OLU5MTF9Ya1FPS2twOGp4Nk91YjFqQ0ZsQVItbjNYdmtBU3d1WTVRZ0RNaUdMSUJrbmpwQ2tBYVNUVC1uaWZVU2J1TzBXVU9JdW5IOFRhZnZuaUoyd2dFZF9RWXdvZWl1QzZmMnFQQWhXSHpfN3FkRFFDR2NzWlpQUUFnME1vbVE5Z1VRVjcxck9oeXBaeTc2RHhIWDFhOEVEaklYbTI5QQ?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/ceftolozane/
 2026-05-04 <span class="news-indication-tag">asma</span>
 
 來源：[il Lametino.it](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXI2R25fNWpBZDVScmVadGJsTm81ODh3cXI4YndXSXNFRzNtWURybDBLclI4QldQNHVaaGQ5SDViRW5YSlpZRGVGbmE3VGNzYWlPWFJDQU1SZlQwcE55ZTR4RHFPNi1jZkFHRDMtaVJyaDBPUzYwSDJ2ZkhkMEZmbi1mR1ZONG1xd052OEE4cDNUSC1QM0o1aEFTOWdOd1RnaEhUdXNFZHh0VmVVWGVzQjBCcEppS0Jj?oc=5)
-
----
-
-### [Un mix tra quello che siamo e quello che viviamo, cosa ha scoperto lo studio italiano che ha analizzato i sogni di quasi 300 persone](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI5RjNoM3FVd01iTWo2MUZZcXJtMUUtelV2RFFOWDlrMXlZLVBoUE8xWXlBb0lDRDFYUnlCSkhOSmc4MVlESUpIQjBMeEY3VFhwcXJWMFdrcjdyWTVTU1g3RFI0eUQwTWlwaUhnemxlSzNrTU9nUG80UkF0X284TGlmLTBacTBaWXhVX0F4dWFGYjRFU3VtMElnN0hqRG5RWVFwQ0JOUjludGsyVkNoRzFKV0VpbVNPN21oNE9BcmZLcEhhVHR6WGRpWGxwakx4RWJPb284eExLbXlJV21V?oc=5)
-
-2026-05-04 <span class="news-indication-tag">asma</span>
-
-來源：[Wired](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI5RjNoM3FVd01iTWo2MUZZcXJtMUUtelV2RFFOWDlrMXlZLVBoUE8xWXlBb0lDRDFYUnlCSkhOSmc4MVlESUpIQjBMeEY3VFhwcXJWMFdrcjdyWTVTU1g3RFI0eUQwTWlwaUhnemxlSzNrTU9nUG80UkF0X284TGlmLTBacTBaWXhVX0F4dWFGYjRFU3VtMElnN0hqRG5RWVFwQ0JOUjludGsyVkNoRzFKV0VpbVNPN21oNE9BcmZLcEhhVHR6WGRpWGxwakx4RWJPb284eExLbXlJV21V?oc=5)
 
 ---
 
