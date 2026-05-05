@@ -1,37 +1,45 @@
 {
-  "total": 642,
-  "generated_at": "2026-05-04T13:19:27.168812",
+  "total": 676,
+  "generated_at": "2026-05-05T01:47:33.754113",
   "drugs": [
     {
       "name": "Abacavir",
       "file": "abacavir.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "HIV infectious disease",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Abacavir As Sulfate",
+      "file": "abacavir_as_sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Abaloparatide",
       "file": "abaloparatide.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "non-syndromic esophageal malformation",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Abatacept",
       "file": "abatacept.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "rheumatoid vasculitis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Abemaciclib",
       "file": "abemaciclib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "rheumatoid arthritis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -43,11 +51,35 @@
       "approved_indication": ""
     },
     {
+      "name": "Abiraterone",
+      "file": "abiraterone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Abiraterone Acetate",
+      "file": "abiraterone_acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Acalabrutinib",
       "file": "acalabrutinib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "mantle cell lymphoma",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Acalabrutinib Maleate",
+      "file": "acalabrutinib_maleate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -59,6 +91,14 @@
       "approved_indication": ""
     },
     {
+      "name": "Acetylsalicylic Acid",
+      "file": "acetylsalicylic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Aclidinium Bromide",
       "file": "aclidinium-bromide.md",
       "evidence_level": "L5",
@@ -67,35 +107,51 @@
       "approved_indication": ""
     },
     {
+      "name": "Aclidinium",
+      "file": "aclidinium.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "Open-Angle Glaucoma",
+      "approved_indication": ""
+    },
+    {
+      "name": "Aclidinium Bromide",
+      "file": "aclidinium_bromide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Adalimumab",
       "file": "adalimumab.md",
       "evidence_level": "L5",
-      "indication_count": 61,
-      "predicted_indication": "ankylosing spondylitis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Afamelanotide",
       "file": "afamelanotide.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "X-linked erythropoietic protoporphyria",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Afatinib",
       "file": "afatinib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "HER2 positive breast carcinoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Aflibercept",
       "file": "aflibercept.md",
       "evidence_level": "L5",
-      "indication_count": 54,
-      "predicted_indication": "esotropia",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -107,11 +163,19 @@
       "approved_indication": ""
     },
     {
+      "name": "Agalsidase Beta",
+      "file": "agalsidase_beta.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Agomelatine",
       "file": "agomelatine.md",
-      "evidence_level": "L1",
-      "indication_count": 50,
-      "predicted_indication": "anxiety disorder",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -123,6 +187,14 @@
       "approved_indication": ""
     },
     {
+      "name": "Albutrepenonacog Alfa",
+      "file": "albutrepenonacog_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Alectinib Hydrochloride",
       "file": "alectinib-hydrochloride.md",
       "evidence_level": "L5",
@@ -131,11 +203,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Alectinib",
+      "file": "alectinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Alectinib Hydrochloride",
+      "file": "alectinib_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Alemtuzumab",
       "file": "alemtuzumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "relapsing-remitting multiple sclerosis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -147,6 +235,22 @@
       "approved_indication": ""
     },
     {
+      "name": "Alendronic Acid",
+      "file": "alendronic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Alendronic Acid As Sodium Trihydrate",
+      "file": "alendronic_acid_as_sodium_trihydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Alglucosidase Alfa",
       "file": "alglucosidase-alfa.md",
       "evidence_level": "L5",
@@ -155,43 +259,51 @@
       "approved_indication": ""
     },
     {
+      "name": "Alglucosidase Alfa",
+      "file": "alglucosidase_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Alirocumab",
       "file": "alirocumab.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "ichthyosis, X-linked, without steroid sulfatase deficiency",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Aliskiren",
       "file": "aliskiren.md",
-      "evidence_level": "L1",
-      "indication_count": 50,
-      "predicted_indication": "hypertensive disorder",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Alogliptin",
       "file": "alogliptin.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "classic stiff person syndrome",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Alpelisib",
       "file": "alpelisib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "pulmonary hypertension",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Ambrisentan",
       "file": "ambrisentan.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "pulmonary arteriovenous malformation (disease)",
+      "indication_count": 10,
+      "predicted_indication": "Pulmonary Arteriovenous Malformation",
       "approved_indication": ""
     },
     {
@@ -203,6 +315,22 @@
       "approved_indication": ""
     },
     {
+      "name": "Amifampridine",
+      "file": "amifampridine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Amifampridine Phosphate",
+      "file": "amifampridine_phosphate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Amikacin Sulfate",
       "file": "amikacin-sulfate.md",
       "evidence_level": "L5",
@@ -211,27 +339,59 @@
       "approved_indication": ""
     },
     {
+      "name": "Amikacin",
+      "file": "amikacin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Amikacin Sulfate",
+      "file": "amikacin_sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Amlodipine",
       "file": "amlodipine.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "obsolete susceptibility to ischemic stroke",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Amlodipine As Amlodipine Besilate",
+      "file": "amlodipine_as_amlodipine_besilate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Anagrelide",
       "file": "anagrelide.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "familial thrombocytosis",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Anagrelide Hydrochloride",
+      "file": "anagrelide_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Anakinra",
       "file": "anakinra.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "extracutaneous mastocytoma",
+      "indication_count": 10,
+      "predicted_indication": "Extracutaneous mastocytoma",
       "approved_indication": ""
     },
     {
@@ -2411,6 +2571,62 @@
       "approved_indication": ""
     },
     {
+      "name": "Insulin Aspart",
+      "file": "insulin_aspart.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Insulin Degludec",
+      "file": "insulin_degludec.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Insulin Detemir",
+      "file": "insulin_detemir.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Insulin Glargine",
+      "file": "insulin_glargine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Insulin Glulisine",
+      "file": "insulin_glulisine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Insulin Human",
+      "file": "insulin_human.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Insulin Lispro",
+      "file": "insulin_lispro.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Interferon Beta-1A",
       "file": "interferon-beta-1a.md",
       "evidence_level": "L5",
@@ -2427,35 +2643,59 @@
       "approved_indication": ""
     },
     {
+      "name": "Interferon Beta-1A",
+      "file": "interferon_beta-1a.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Interferon Beta-1B",
+      "file": "interferon_beta-1b.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Ipilimumab",
       "file": "ipilimumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "metastatic melanoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Irbesartan",
       "file": "irbesartan.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "malignant hypertensive renal disease",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Irbesartan Hydrochloride",
+      "file": "irbesartan_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Isatuximab",
       "file": "isatuximab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "indolent plasma cell myeloma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Isavuconazole",
       "file": "isavuconazole.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "migraine disorder",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -2467,19 +2707,35 @@
       "approved_indication": ""
     },
     {
+      "name": "Ivabradine",
+      "file": "ivabradine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Ivabradine Hydrochloride",
+      "file": "ivabradine_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Ivacaftor",
       "file": "ivacaftor.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "rheumatoid arthritis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Ivosidenib",
       "file": "ivosidenib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "acute myeloid leukemia with t(8;21)(q22;q22) translocation",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -2491,11 +2747,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Ixazomib",
+      "file": "ixazomib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
+      "name": "Ixazomib Citrate",
+      "file": "ixazomib_citrate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Ixekizumab",
       "file": "ixekizumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "spondyloarthropathy, susceptibility to",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
