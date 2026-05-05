@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
-
-### [Catorce españoles viajan a bordo del crucero de lujo con tres muertos por un brote de hantavirus - La Voz de Galicia](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV3B3U1pHV0gxRlhTemdFRkE3SkpHTVNOV0YxYk9Ca3ZzSVJwNUJRandfSnFCejMxWGdqYWxLQTkzdUdaaFVBbm1TajVQenNkRVM2bTZsNzY1WXFCdldpNjJtaTJaT3lSSzQ4ZTJ2V25fRkROODk4NEQ1ZnIwUThSMEtpakVEMGI5Wkl0SVl3aHNmeTlxSGJPeTRucWtoclFaakdTNnFRb0VlbFhOcGY0M2x2dXRTQXkwdUZBX2hlRmozODBzWkVONFZscVN4aVZRYnJ2c1d1NHNwMXJUTTNHb1FHZUV0bGlRMnNzanpYNA?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV3B3U1pHV0gxRlhTemdFRkE3SkpHTVNOV0YxYk9Ca3ZzSVJwNUJRandfSnFCejMxWGdqYWxLQTkzdUdaaFVBbm1TajVQenNkRVM2bTZsNzY1WXFCdldpNjJtaTJaT3lSSzQ4ZTJ2V25fRkROODk4NEQ1ZnIwUThSMEtpakVEMGI5Wkl0SVl3aHNmeTlxSGJPeTRucWtoclFaakdTNnFRb0VlbFhOcGY0M2x2dXRTQXkwdUZBX2hlRmozODBzWkVONFZscVN4aVZRYnJ2c1d1NHNwMXJUTTNHb1FHZUV0bGlRMnNzanpYNA?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [WHO warnt: Hepatitis bleibt trotz Fortschritten eine globale Gesundheitsgefahr - Biermann Medizin](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlKZ1pxaXBoNTVLMmxfSFAyYVNGOVVmZ0lhYUl1cEt5V3VCRjJLUWp0VTZDRm1XaTROVmxSMlFVSnZYZFM1X1dfVE9sLVZQV0VFemlMTm0zTEVoMENHVThNT0I5UTlMWTlXWVR6MVVLRjN2T01YUkJfRVN1Zk5NMjYzblFSa0Z1OXpjZFdHT2Q0c1paMHMxbDZkT3JnTkFjODRPUnRsaWJvQQ?oc=5)
 
@@ -70,19 +62,19 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [New Research Suggests Vitamin D May Help Ease IBD Symptoms - Verywell Health](https://news.google.com/rss/articles/CBMid0FVX3lxTE80MFpCS2dsaXF5OV9vZ2UzSFRHWVFQeDI4ZWlCS29lMWNzYUg3cnBnUWFRM3pHd1hmR3ZxN3BmYkRqOTVyT3Z5UFlUekowaDA1U0M0U0x2SFVELWlTRHJVTW5DTUw4LUNLRDlTTDZtZlV0aFZEUDZR?oc=5)
+
+2026-05-04 <span class="news-indication-tag">MS</span>
+
+來源：[Verywell Health](https://news.google.com/rss/articles/CBMid0FVX3lxTE80MFpCS2dsaXF5OV9vZ2UzSFRHWVFQeDI4ZWlCS29lMWNzYUg3cnBnUWFRM3pHd1hmR3ZxN3BmYkRqOTVyT3Z5UFlUekowaDA1U0M0U0x2SFVELWlTRHJVTW5DTUw4LUNLRDlTTDZtZlV0aFZEUDZR?oc=5)
+
+---
+
 ### [Epatite A a Napoli, le cozze del lago Fusaro di Bacoli saranno trasferite a Nisida](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
 
 2026-05-04 <span class="news-indication-tag">epatite</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhHRzk1VUNRM2dEWEUtNURXWFFsc2JMM1h1Ri1kUlVqbmplZ3piNHVDeXRpbkdUTmlITnphYjB5dGk4clNLRFVsckl0ZnFLYW9feEU4R0Z5SEhkRFBUSi04WHlEQ0FxTzhIRWJUREdQN3NwODkzZ011REdseHdFU09OTEVvREN6NThoNnM5MkpQdWFBcVhXak43aFBxai1vbExRTHF4MFZBNEdBNDJoY2dB?oc=5)
-
----
-
-### [Hoffnung für MS-Patienten: Neue Wirkstoffe reparieren geschädigte Nerven](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFFKUHBpRTRVRmtuNkJ5Q0lzZGJ6MER0dmwyRHlSOThOb1J4NXV2RWpOU21Fb0V1S2hoMzBpWEhoRmU3bXhKZWxhYi0zY0FpSFc0cDhfVVRKR2x2TzJpbExVQXhZTTJjbk5RT0FzUXVJN0tyM0QxQ2FIenVuYkw2bFRJYUNpZHJsbGZaSk53UnF0LUVKNXVrdFNJanVua2pHQzdYOXRmTHNnTWdaa1E?oc=5)
-
-2026-05-04 <span class="news-indication-tag">MS</span>
-
-來源：[Nordisch.info](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFFKUHBpRTRVRmtuNkJ5Q0lzZGJ6MER0dmwyRHlSOThOb1J4NXV2RWpOU21Fb0V1S2hoMzBpWEhoRmU3bXhKZWxhYi0zY0FpSFc0cDhfVVRKR2x2TzJpbExVQXhZTTJjbk5RT0FzUXVJN0tyM0QxQ2FIenVuYkw2bFRJYUNpZHJsbGZaSk53UnF0LUVKNXVrdFNJanVua2pHQzdYOXRmTHNnTWdaa1E?oc=5)
 
 ---
 
@@ -102,14 +94,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Hpv, torna l'Open day dell'università: vaccinazioni e informazioni per gli studenti](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGFKOG8wUjJnWGFMc3dCdmUxUWU2RW5BVXlfTzVGdXN6NUlxQk54VDQ1ZDQ2cEJtYm4wNm9oZkVRRTZIdHNpT3QwYkNDTjZoRlY2blFNaHVydzFzNHJGVFhYX0hrQ0gxMXpJNlBuX0VHN0szU3JHLVRGSE1ydUdhLV9yUUJ1VzZwakJ3SWtEckZEeXRj?oc=5)
-
-2026-05-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[PalermoToday](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGFKOG8wUjJnWGFMc3dCdmUxUWU2RW5BVXlfTzVGdXN6NUlxQk54VDQ1ZDQ2cEJtYm4wNm9oZkVRRTZIdHNpT3QwYkNDTjZoRlY2blFNaHVydzFzNHJGVFhYX0hrQ0gxMXpJNlBuX0VHN0szU3JHLVRGSE1ydUdhLV9yUUJ1VzZwakJ3SWtEckZEeXRj?oc=5)
-
----
-
 ### [NHS May 3 warning as symptoms that 'might not seem like much' may need 'immediate attention' - Glasgow Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0NuYkMyaE1yajVmLVZnRzhoQ1pVYXNiazlEQXNiRlY4RTZQMHlIellITURvTlJ2VEo1QXBITTdqR05yQzU3eFlNUXpja0xVSVJUNEdjYlJHNFBmSE9MdkxqdWFTdW1mQWtqWHd2OUQtNlhrdjE5cjRIZzB0OGhyQzR4bnEzWDhk0gGOAUFVX3lxTFA3eE1IbkJEMzFfV3pmdl9TUS1uX0drTkJRTXpvUUpqdG9UcG51ellUQmNVaUVPOERvZkFNbWNCYkFBOUFCd2lFNTBPYXBzWTJsWmR5YzJqWkgxRkY2WFZEa2o1blEwTUlYcHJPSW9hWkk0NkFlWjFITE43WVNfbGNRclhzUDh4RV9UN1Z2d0E?oc=5)
 
 2026-05-03 <span class="news-indication-tag">MS</span>
@@ -118,19 +102,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Northamptonshire MS charity plea for more volunteers and support](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWxPc3JmSEhxV3pMVXdidjREallWcU9Tdl9UcjRRbWpGR09NR1pLM3h6bUh2MVB4TDJCbkt3VHFnSFoxczZjOU5zaWlqcktvVkdmYVo0QkFzVjNs?oc=5)
+### [D'importantes différences entre les femmes et les hommes quant à l'expression de plus d'une centaine de gènes des cellules cérébrales !](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
 
-2026-05-03 <span class="news-indication-tag">MS</span>
+2026-05-03 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWxPc3JmSEhxV3pMVXdidjREallWcU9Tdl9UcjRRbWpGR09NR1pLM3h6bUh2MVB4TDJCbkt3VHFnSFoxczZjOU5zaWlqcktvVkdmYVo0QkFzVjNs?oc=5)
-
----
-
-### [There’s a new golden rule for strength training – expert coaches reveal everything you need to know - The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWxWM1ZyaXBRd0VHNGQxbnZQWXp0UFozbEE0bURsOVN4UFB1MnN1RnpEMG83NjAyejVYMlhMME5kR0gxcHRDN2xFVXcwZkJJQnQ4ckhaMmVwVHhKaHJfN3JtTjdPYlR1dWNsMDVoZGluNEtRcGNOTFAxVm9zRjJ1WmxGSGZHdDBqYjRFazFaWVFHSnR0OEdOcA?oc=5)
-
-2026-05-03 <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWxWM1ZyaXBRd0VHNGQxbnZQWXp0UFozbEE0bURsOVN4UFB1MnN1RnpEMG83NjAyejVYMlhMME5kR0gxcHRDN2xFVXcwZkJJQnQ4ckhaMmVwVHhKaHJfN3JtTjdPYlR1dWNsMDVoZGluNEtRcGNOTFAxVm9zRjJ1WmxGSGZHdDBqYjRFazFaWVFHSnR0OEdOcA?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
 
 ---
 

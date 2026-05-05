@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。6 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。5 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>6 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>5 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Bessere kardiovaskuläre Fitness senkt das Risiko für Demenz und Depression](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWNGUFhSYWdWVkZ5aU4xeFpkbnBVSVlnTlJaOERwaU9GWVpTdkFxaHMycWhNYmtadnBZMmRjNFZVc1N0Vkl4ZWZUUUNSanN4TzhzV2xHOHRvNGR5N21MNFd6ZDFvYVAxTGdXekd0bHlhTDB5QUxLMW5HVUgxXzlzcFRJOXh3R1d5RVg5QmhUUjBJdHpNRUZMSENUd2R4MUdhN0E5NjR1ZDNxVXNR?oc=5)
 
@@ -74,14 +74,6 @@ permalink: /news/depression/
 2026-05-03
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm13SWRmNjVjVlNxSXQ1dzZjMDRRa1RtRks4QUYyVWQ5TUlQZWFZb2NjU29mblQwVDViQnNJUktwWVB6ZHdrUjQ0dnUxaE56UTlrWHAtVlVRbmxqNXloTG9yWmROalpkQXdfOTVyQjY2RlhBV05CRHR1cnpPcWwzVS1RNDV6TjNKYkJXUE11b2F3dFdlcG1WVy04OF9uZTNzSlVtVUwtdXMwV2U0SVRjNENtRHp4RjJ4YXhmLVhaUE1BcjlEcEJBYTlVSzNRcFZSa0pwMEZ4OEJ3TXRKMnFOdFlzano0VzVzVnc?oc=5)
-
----
-
-### [«Il prurito come una malattia, può portare ansia e depressione: ecco tutte le cause e come va curato» - Il Messaggero](https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVE4X1BRUldDal9vYm52YmNIZDVQY3dHN2R6N21tSlZRcUdiQW14UzJ6NGV5aGI2N0xiWDAxLTRkc21MVjRyWTJrMzE4Vlp1REtlWU5lTjNQcTJxWHJsenl6SW1SQ0s3TDlSQXdHdEp2VS1ybVRIcno5SEgteDQyTGhtWkw5MzFRN0YwbVBGSGtGT2IxTVNWcUl3T3IxOFJ0Y2fSAZ8BQVVfeXFMTjd5Qno4aDZvc1doN0duSUxvVWx2X0FkTmxrOGhCcUFIZDlqdHdjc0Q3WHpFc3UxZW1qckJsZTc0VU1ubkZmV0VwX2FscUxXVU9Jc2pSd0VNMlB3QTNHdjZYeXBVZ1VlZVBySklDdXlzYzJQbkMxOXRlU0lSMTBUUlY3UTFtR2ZzWWFDMHpIemVYQUVUSXg3TWJDa2VBN3Fz?oc=5)
-
-2026-04-27
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVE4X1BRUldDal9vYm52YmNIZDVQY3dHN2R6N21tSlZRcUdiQW14UzJ6NGV5aGI2N0xiWDAxLTRkc21MVjRyWTJrMzE4Vlp1REtlWU5lTjNQcTJxWHJsenl6SW1SQ0s3TDlSQXdHdEp2VS1ybVRIcno5SEgteDQyTGhtWkw5MzFRN0YwbVBGSGtGT2IxTVNWcUl3T3IxOFJ0Y2fSAZ8BQVVfeXFMTjd5Qno4aDZvc1doN0duSUxvVWx2X0FkTmxrOGhCcUFIZDlqdHdjc0Q3WHpFc3UxZW1qckJsZTc0VU1ubkZmV0VwX2FscUxXVU9Jc2pSd0VNMlB3QTNHdjZYeXBVZ1VlZVBySklDdXlzYzJQbkMxOXRlU0lSMTBUUlY3UTFtR2ZzWWFDMHpIemVYQUVUSXg3TWJDa2VBN3Fz?oc=5)
 
 ---
 

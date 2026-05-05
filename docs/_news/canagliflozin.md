@@ -54,6 +54,14 @@ permalink: /news/canagliflozin/
 
 ## 相關新聞（4 則）
 
+### [Nicht nur Insulin ist entscheidend: Frühe Glukagonerhöhung bei Typ-2-Diabetes hängt mit Fettlebererkrankung zusammen - idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PcW1ja0c4aWxoSm5yQm9oVDY2SXpLT2taVnlIX1EwYTdxM3RfY3ZDUmxhczhoeE9Va2FCQ0E2c0RkNERVRFExMnNGSQ?oc=5)
+
+2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw – Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PcW1ja0c4aWxoSm5yQm9oVDY2SXpLT2taVnlIX1EwYTdxM3RfY3ZDUmxhczhoeE9Va2FCQ0E2c0RkNERVRFExMnNGSQ?oc=5)
+
+---
+
 ### [Fatigue trifft Blutzucker: Wie ME/CFS und Diabetes zusammenhängen - mgo medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM08zbnAtSDYzMWttVE4tMXk4WW9zNHJvbVVIaTlkUHZXRHc5OGtKS1l3QVBLUXBuWUtPUnV5YmdzaEd4UlI3LTlEWEFRcVBNTmVrWWxOckdQVGZvYWZsZ1VaMEdGa2VqMU43OWx0QktzdkFfZmI3b2Y5WWJsdjloTWxhcnNabWJDTGxicnMyN2xZNExBRzkwV2xZQ3VTdVV6bUw5VA?oc=5)
 
 2026-05-04 <span class="news-indication-tag">diabetes</span>
@@ -62,11 +70,11 @@ permalink: /news/canagliflozin/
 
 ---
 
-### [DDZ-Studie: Erhöhter Glukagonspiegel bei neu diagnostiziertem Typ-2-Diabetes - mgo medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxONUx0QVJVVzl5SXVTclR2OVJ5ZW8wZnlnaWsyM0pFN1h5ZllJcEJ1Vk15TEhPZFR4TVhGQTVNVm9LaG5KLXlBc2owcjB6YXF6STB2TzVhck5GODRRaTdXVTdfdU41RWdCLWJUeWFOeEl1R0lRUnEzN0hQdnQwMVV5d09RUGZva2VkS0gySm5CVTVVQm1BRnMzOF9FR3N6UGRoOTFzUVRaTXIxbHZKY2hJNlpqWQ?oc=5)
+### [Vitamina D: se assumi l’integratore sbagliato abbassi i livelli (anziché alzarli) - The Wom Healthy](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjBnZGhlR1FycnFzT2VYckdnN2VncTg3amxNcUVUMlppTE9wQXNHMWpNSWJJNGZCa1pYcWVtY3hib3QyR1gtTTZDY09zV256VV9rYmxya200eTJGNUJ3MnNHS0lDUFdKb3NuWjFwaWJLMVVNV3hsNEEwdHRGRERIVFowLTJhbjh0aHd3TTEyM19nRHNubTFxNDUzUU9Cd2NnMFN3eVlPMFNUNUZpUDIySDUyelZWWUMt?oc=5)
 
-2026-05-04 <span class="news-indication-tag">diabetes</span>
+2026-05-04 <span class="news-indication-tag">diabete</span>
 
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxONUx0QVJVVzl5SXVTclR2OVJ5ZW8wZnlnaWsyM0pFN1h5ZllJcEJ1Vk15TEhPZFR4TVhGQTVNVm9LaG5KLXlBc2owcjB6YXF6STB2TzVhck5GODRRaTdXVTdfdU41RWdCLWJUeWFOeEl1R0lRUnEzN0hQdnQwMVV5d09RUGZva2VkS0gySm5CVTVVQm1BRnMzOF9FR3N6UGRoOTFzUVRaTXIxbHZKY2hJNlpqWQ?oc=5)
+來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjBnZGhlR1FycnFzT2VYckdnN2VncTg3amxNcUVUMlppTE9wQXNHMWpNSWJJNGZCa1pYcWVtY3hib3QyR1gtTTZDY09zV256VV9rYmxya200eTJGNUJ3MnNHS0lDUFdKb3NuWjFwaWJLMVVNV3hsNEEwdHRGRERIVFowLTJhbjh0aHd3TTEyM19nRHNubTFxNDUzUU9Cd2NnMFN3eVlPMFNUNUZpUDIySDUyelZWWUMt?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/canagliflozin/
 2026-05-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
-
----
-
-### [Neue Erkenntnisse: Vitamin D und seine Rolle bei Diabetes, Alzheimer und IBD](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
-
-2026-05-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEhVSWsxQzlaZ3hoRzZBU1hCRHVOQUpJSnVFcWdnbzFpREdja29uQk51cGFyLVFQaG1LZXBjU09HOTFjOFYzMFctQzFIMXpqWDNNa2QyV2ltMXY2dGJoSUlRMW1OMHlBcHExaVU0VUtDTDBSTURMcDlEdzd3c1hiRW0wQ2dySlp6dWxHQjNDemdPUFZNLXEwazVlYTF0UXZDZVJDcWltak9BUQ?oc=5)
 
 ---
 
