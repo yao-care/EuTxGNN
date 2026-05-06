@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。7 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>7 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Metabolisches Syndrom: Leberfett und Glukagon rücken in den Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJpMWJGN3VVYlkxZmNSVk1KU0VDV01zY2QxS05hV2Q2VDdmd1dCWlpqU1EtZFcwam1UZmNNZlh5SEUwZWtxdFN2TUFLM09ZRWNyR1Y0RXh2RTItN2VNTEVYanNmQ3NnV3dPcG5GaHF0NUFNZDRiQ2duQU9IcThtZFFvTEVqR1p4TlJNNTFlV05FWEw2bEZGY2kxd1N3cHRZanhjQS1hWTNaMFhMZk9VV0hkVU0?oc=5)
+
+2026-05-06
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJpMWJGN3VVYlkxZmNSVk1KU0VDV01zY2QxS05hV2Q2VDdmd1dCWlpqU1EtZFcwam1UZmNNZlh5SEUwZWtxdFN2TUFLM09ZRWNyR1Y0RXh2RTItN2VNTEVYanNmQ3NnV3dPcG5GaHF0NUFNZDRiQ2duQU9IcThtZFFvTEVqR1p4TlJNNTFlV05FWEw2bEZGY2kxd1N3cHRZanhjQS1hWTNaMFhMZk9VV0hkVU0?oc=5)
+
+---
 
 ### [Fünf-Punkte-Plan zur Versorgung von ME/CFS-Betroffenen mit Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNld5dTVVMm5KcFpmR0tOVUxNakM3SGM0OWNBU0tPbmE4dy0xR1h3YUVqTzMyOVVuMThfTGtMNk9SVHZOTi1vTkpzeE5xSnBoSHMtdnlnTS15ckVFVFZ3aHJlUUVsN09zTHlIa2ZJOGw2ejNNNkYwTDZja2lDaXB0MFdGbm9DSHlOUU1RbXhsMTNUb2xnWVhSaUtvV29XMFVnNlltMnAtbXJFc0lWQjJhMFl2b29vNDNkRnlJV3Jqd0RERnZ1N2NaWVF6SHAyMzh1?oc=5)
 
@@ -140,14 +148,6 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Typ-2-Diabetes: Früher Glukagonanstieg verbunden mit Fettlebererkrankung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2JVX3N3QU5wMkZpX2FaaHgxZUZZaV9obGpMeDJzVkJDaFNfNkdtblExTkZwLTJlRWxVWEtqVGhHRWFqNTZQTDV0MlgzUmpSZTNkUTJvMWRVVG9NRThwN24xLU52c0lkQXJ3QXNKTFF6RElqQkpERVRzcmlxSEhlSklaOUx3NHpVRU5GZm5tdGg?oc=5)
-
-2026-05-05
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2JVX3N3QU5wMkZpX2FaaHgxZUZZaV9obGpMeDJzVkJDaFNfNkdtblExTkZwLTJlRWxVWEtqVGhHRWFqNTZQTDV0MlgzUmpSZTNkUTJvMWRVVG9NRThwN24xLU52c0lkQXJ3QXNKTFF6RElqQkpERVRzcmlxSEhlSklaOUx3NHpVRU5GZm5tdGg?oc=5)
-
----
-
 ### [Mehr Medizin hilft gegen Krebs und Diabetes nur wenig](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG9rSDFQM0M1bndLSE1Qd0pPUktIWGtjbUVnRzFJQ2ZkTG05UlZIdGl5dHZvLURkSlZ0Nlpud2Z5UG43Z3hUVXUwRXpPY2VkczRobkVQRF9keVFXMVprajVqelY2WlYxVll4aU9va2lBbWVhTXF6YTY1Q09tUnk0Y29qTEE0bnpxd01hNWtmWGxkM1p3VjBn?oc=5)
 
 2026-05-05
@@ -161,14 +161,6 @@ permalink: /news/diabetes-mellitus/
 2026-05-04
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
----
-
-### [5-fach-Agonist gegen Adipositas und Diabetes - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
-
-2026-05-04
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
 
 ---
 

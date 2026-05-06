@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Metabolisches Syndrom: Leberfett und Glukagon rücken in den Fokus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJpMWJGN3VVYlkxZmNSVk1KU0VDV01zY2QxS05hV2Q2VDdmd1dCWlpqU1EtZFcwam1UZmNNZlh5SEUwZWtxdFN2TUFLM09ZRWNyR1Y0RXh2RTItN2VNTEVYanNmQ3NnV3dPcG5GaHF0NUFNZDRiQ2duQU9IcThtZFFvTEVqR1p4TlJNNTFlV05FWEw2bEZGY2kxd1N3cHRZanhjQS1hWTNaMFhMZk9VV0hkVU0?oc=5)
+
+2026-05-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJpMWJGN3VVYlkxZmNSVk1KU0VDV01zY2QxS05hV2Q2VDdmd1dCWlpqU1EtZFcwam1UZmNNZlh5SEUwZWtxdFN2TUFLM09ZRWNyR1Y0RXh2RTItN2VNTEVYanNmQ3NnV3dPcG5GaHF0NUFNZDRiQ2duQU9IcThtZFFvTEVqR1p4TlJNNTFlV05FWEw2bEZGY2kxd1N3cHRZanhjQS1hWTNaMFhMZk9VV0hkVU0?oc=5)
+
+---
 
 ### [Fünf-Punkte-Plan zur Versorgung von ME/CFS-Betroffenen mit Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNld5dTVVMm5KcFpmR0tOVUxNakM3SGM0OWNBU0tPbmE4dy0xR1h3YUVqTzMyOVVuMThfTGtMNk9SVHZOTi1vTkpzeE5xSnBoSHMtdnlnTS15ckVFVFZ3aHJlUUVsN09zTHlIa2ZJOGw2ejNNNkYwTDZja2lDaXB0MFdGbm9DSHlOUU1RbXhsMTNUb2xnWVhSaUtvV29XMFVnNlltMnAtbXJFc0lWQjJhMFl2b29vNDNkRnlJV3Jqd0RERnZ1N2NaWVF6SHAyMzh1?oc=5)
 
@@ -78,11 +86,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Typ-2-Diabetes: Früher Glukagonanstieg verbunden mit Fettlebererkrankung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2JVX3N3QU5wMkZpX2FaaHgxZUZZaV9obGpMeDJzVkJDaFNfNkdtblExTkZwLTJlRWxVWEtqVGhHRWFqNTZQTDV0MlgzUmpSZTNkUTJvMWRVVG9NRThwN24xLU52c0lkQXJ3QXNKTFF6RElqQkpERVRzcmlxSEhlSklaOUx3NHpVRU5GZm5tdGg?oc=5)
+### [Heuschnupfen erhöht offenbar Migränerisiko](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
 
-2026-05-05 <span class="news-indication-tag">diabetes</span>
+2026-05-05 <span class="news-indication-tag">Migräne</span>
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2JVX3N3QU5wMkZpX2FaaHgxZUZZaV9obGpMeDJzVkJDaFNfNkdtblExTkZwLTJlRWxVWEtqVGhHRWFqNTZQTDV0MlgzUmpSZTNkUTJvMWRVVG9NRThwN24xLU52c0lkQXJ3QXNKTFF6RElqQkpERVRzcmlxSEhlSklaOUx3NHpVRU5GZm5tdGg?oc=5)
+來源：[Kurier](https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFJBNHZOc1lDZW10RTlUQVpHbHpHUldEMlRCQ3ZPejctRHBfY3lBc1FXTFYwdlI1ZXR4RFFiMEJ1dHFYazlrMUt2NDZqYVZhQjNKUmdYVmhnVS1LbXFUOVNKdTdpZUk4Si1mOURKVnJXQ3ZrQ2VZT3FGX25aem41YWhlakoyZG9icXJjaFk4TGRpd0h5SC10eUFHcw?oc=5)
 
 ---
 
@@ -96,25 +104,9 @@ permalink: /news/abaloparatide/
 
 ### [Adipositas: Neuer Score identifiziert Hochrisikopatienten jenseits des BMI – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
 
-2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-05-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0MyTmo0Y19OSlpPS01zSlJxclJDQ3hYLVhpUGdrSGFMTHU5blhZeVlMaXo3WVZNV2R6ejVGWERwN19FcnlzaEhMOUpKTGk5dFZzcXl0M1NubW1EV0JUSWRHb2J0c2JtNFE3MXhnc01QaV9nX2NsTjNyeXN6TWRpQmVvZDZPVXVWMGFvWnk3SXB2UldhWDBEOG9UbGNvTE5xT21wRmNsYlNUVFpFWW8xVGJVVXJFWXBEcnZkY3pzdktYR24wcjU4VlF6bTNRWUZpbmJKTXVKN3U5dw?oc=5)
-
----
-
-### [Zusammenhang zwischen Heuschnupfen und Migräne](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
-
-2026-05-04 <span class="news-indication-tag">Migräne</span>
-
-來源：[TARA24](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQUVZMdG9mcUNLT2VnQXhUbzJPa3pVQXV3cnZzNXYtV1dTRFRoWWtIUFF6R0VObUxDcFNOMTRVMERxUXhYRlA4a0lDNGFnaWdWR2REVmFaT0NiRGFBVzFwcGlUNzFrLW9MdHRzVDBFY3FDQTdDMFJadGZqaE1STEZ1aEd2ZEZ4VDFFdFpObDRSUmNYOW8ycg?oc=5)
-
----
-
-### [5-fach-Agonist gegen Adipositas und Diabetes - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
-
-2026-05-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGUzUlJMY3cyTlliQXBlQUtkWFVOT0FPNWtjTnBHUElNb2xQTU92ZGpUaTFBeW42bnByMEY3eFJhY2c2OWdUNEd6Vk54SlVQSHRVZ0NfYXgzQjJYdU9BTW9MZnJZVUstSW5OMEw2UFNIS3ZxSFk1OU9VLXJNREgzRVVXMU1WenFfcTVxMEFoWnc1VkZWZ2pjYkl5VHdqeEpvdlpSWVFQVlBybzRpV2RB?oc=5)
 
 ---
 

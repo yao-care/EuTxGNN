@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [Black people in England twice as likely to suffer stroke as white counterparts - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3U3Q3hjOWg2LWtaOGRKcWZOQm9YR2NnOTFLejhHbW82X3NPdHV3Q2t3cFZjcjl4c09LNkZzZmFlUHJ2OEItRTV5Zi1Sc09taEFqRkIzUlF1TUQzVXZ0NEZaemxrT3dnOFdXQ20zRy1MaU5TMlNVMnU3R0pUUVVQdXJlRXl0MGdadDl3dmdFVlBTTlc4RVNoeW5IUTdNT2NtX1E?oc=5)
 
-2026-05-05 <span class="news-indication-tag">stroke</span>
+2026-05-06 <span class="news-indication-tag">stroke</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3U3Q3hjOWg2LWtaOGRKcWZOQm9YR2NnOTFLejhHbW82X3NPdHV3Q2t3cFZjcjl4c09LNkZzZmFlUHJ2OEItRTV5Zi1Sc09taEFqRkIzUlF1TUQzVXZ0NEZaemxrT3dnOFdXQ20zRy1MaU5TMlNVMnU3R0pUUVVQdXJlRXl0MGdadDl3dmdFVlBTTlc4RVNoeW5IUTdNT2NtX1E?oc=5)
+
+---
+
+### [Grippe : l’Académie de médecine recommande l’obligation vaccinale pour les soignants - Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNjhPbTBLQzhPODhVSUhaNVJEUHdVekJqVDRUMVR0R0FSTTk4TFJpdDh5VHAxTEQ5Z1B3T3JVM0lkaW95V2ZKM0ZIUDdaQlN0YXREZEt4eGF2RkJaYndpa19LeXNWWEg1Tm9TVF9YMkQwaFJ4R0RZNTQydzFyTS1mR2g2RVhhTzlLZ19tbkZrVlBWdkR2bVFfOS1zQUphdFdwVWJrZFo4LXctbXBaUE1jNUR3MXNHM0ctUUVaMXl5OU9iTnJ2Q3U3ZHY4ZWwwOGpIX1JHbXZHSkNycXpQUUpyMjYzdHZlWVJIR0xnekhReUxMRDQ?oc=5)
+
+2026-05-05 <span class="news-indication-tag">CVA</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNjhPbTBLQzhPODhVSUhaNVJEUHdVekJqVDRUMVR0R0FSTTk4TFJpdDh5VHAxTEQ5Z1B3T3JVM0lkaW95V2ZKM0ZIUDdaQlN0YXREZEt4eGF2RkJaYndpa19LeXNWWEg1Tm9TVF9YMkQwaFJ4R0RZNTQydzFyTS1mR2g2RVhhTzlLZ19tbkZrVlBWdkR2bVFfOS1zQUphdFdwVWJrZFo4LXctbXBaUE1jNUR3MXNHM0ctUUVaMXl5OU9iTnJ2Q3U3ZHY4ZWwwOGpIX1JHbXZHSkNycXpQUUpyMjYzdHZlWVJIR0xnekhReUxMRDQ?oc=5)
+
+---
+
+### [Samsung celebra un año de The Mind Guardian, el proyecto español con el que quiere adelantarse al deterioro cognitivo - Xataka Móvil](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNmh2aHR0R2lfTkNQSlFvSmdxYWRCWWRPYlIwbE5NTVFaRkdvbGFYaG45cGhIWTQ4UzJ5Qk80Y0x2V3VVNVVROGo0NjhqYlE5a3ZsbkJUQmZyaWtCaWctcnEyaDF3dGt2N2RlM3BBZmlhUjJQYzQ2aWRUSHlpQ2c0eWJDSENia3F4dkJneEVrZkdlaGh0ZXUwYVY2RUNsb2hGdUtZTGxoMVlBLVh6SHI0aHhHY0tDMEhQSGJ0UjN4cnctX21TYmk5NFBFNkpyZXdCeUtpYmJhbXczMkd0bjdoY9IB5gFBVV95cUxQQTNqYVZpQnVyWExnWUxDSERGUloyQXN1djJOTDdyWEtSTjk2dHNyVEhWWmJvVUV3YlpDeXpJZnpMekluZXJ2M3RCOTJidE8xOU5YeE9qbVEwamx6RFlnQkhMcGhaOTdSYWlZYXVrVjU3em1CYkRBRGlFOTRuX0V6N0Z6RDNqcGpUeVBCNVUwaHB2UGtSX2J6Tld1a1dWNkpNazQ1SGRRdm1fN0xRTzlrZ0FpekhHdUVweUgySWtjMjVHcFFfYXFWSmdETjFpdkkxV1pjQ29ObGZtTWhaYndDTjUydzI4Zw?oc=5)
+
+2026-05-05 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
+
+來源：[Xataka Móvil](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNmh2aHR0R2lfTkNQSlFvSmdxYWRCWWRPYlIwbE5NTVFaRkdvbGFYaG45cGhIWTQ4UzJ5Qk80Y0x2V3VVNVVROGo0NjhqYlE5a3ZsbkJUQmZyaWtCaWctcnEyaDF3dGt2N2RlM3BBZmlhUjJQYzQ2aWRUSHlpQ2c0eWJDSENia3F4dkJneEVrZkdlaGh0ZXUwYVY2RUNsb2hGdUtZTGxoMVlBLVh6SHI0aHhHY0tDMEhQSGJ0UjN4cnctX21TYmk5NFBFNkpyZXdCeUtpYmJhbXczMkd0bjdoY9IB5gFBVV95cUxQQTNqYVZpQnVyWExnWUxDSERGUloyQXN1djJOTDdyWEtSTjk2dHNyVEhWWmJvVUV3YlpDeXpJZnpMekluZXJ2M3RCOTJidE8xOU5YeE9qbVEwamx6RFlnQkhMcGhaOTdSYWlZYXVrVjU3em1CYkRBRGlFOTRuX0V6N0Z6RDNqcGpUeVBCNVUwaHB2UGtSX2J6Tld1a1dWNkpNazQ1SGRRdm1fN0xRTzlrZ0FpekhHdUVweUgySWtjMjVHcFFfYXFWSmdETjFpdkkxV1pjQ29ObGZtTWhaYndDTjUydzI4Zw?oc=5)
+
+---
+
+### [Un parche de seda podría ayudar al cerebro a recuperarse tras un ictus](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFByREk1ejBvODd6aXFQZHJYQlBFVmZjaWxQSGpRUWJxamJIVk5CbWQ4TjhrVE1fSjRYZl9NYXBSaU9MaThjVGkwVG9zUTRqX1RaVWVINXl3OFNETGpFam55enRiQTRfb1JDTVAzcHdZeEROc2E2NFhfLUE4SGNHajZkT25QWU5nMWk0OEhWTWtqSUZ4dnc0T2pPeU0tb2hsV1BFeEdMeElnQQ?oc=5)
+
+2026-05-05 <span class="news-indication-tag">ictus</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFByREk1ejBvODd6aXFQZHJYQlBFVmZjaWxQSGpRUWJxamJIVk5CbWQ4TjhrVE1fSjRYZl9NYXBSaU9MaThjVGkwVG9zUTRqX1RaVWVINXl3OFNETGpFam55enRiQTRfb1JDTVAzcHdZeEROc2E2NFhfLUE4SGNHajZkT25QWU5nMWk0OEhWTWtqSUZ4dnc0T2pPeU0tb2hsV1BFeEdMeElnQQ?oc=5)
 
 ---
 
@@ -67,14 +91,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-05-05 <span class="news-indication-tag">stroke</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mT0lyV3JNTVlfV24yNmNCX09OQnVnTEJmbWhHYVZBSldyN2hhWnhoUWFzT084N01YeXdtNkVKMVRlUlVqX3JpVkNYeE1xanM2OWs5dWFMN1dGVk10?oc=5)
-
----
-
-### [One in Five at Risk: Scientists Identify a Hidden Blood Particle Linked to Higher Risk of Stroke and Death](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5)
-
-2026-05-04 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5)
 
 ---
 

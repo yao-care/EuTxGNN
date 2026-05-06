@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [“Reducir exacerbaciones es uno de los principales objetivos terapéuticos en EPOC; lograrlo indica que estamos impactando en su historia natural”](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcXVsN1pGQ2dPSDE4WGN6OS1hb2RoZFJlaGNyVkNteVE4RlN4SGFzVWJvNER2ZWVqdFBaWHlJcl9TaTl1Z184aFgtS2xqRXRKOHZpNjBYWE9DMGJnTGc2QmR6VDNfdmlxRGgzX0tycGxVakVVTjhPZDRsdGVZdkxTNjR3YzZvZk9hNjlwUUgyTkJkVXhPTXpBM1BXcnRpSDVjZGc3bDcwSF9yUzQweG5TRDhTTWhmbUN0aWNiZzdkc2tVZXVWNVE4eXljbzhjQmY5UmYxdWVqdDBEMXZmakNxejU3T0pHODdUdWNhQjVaVnlKZThqVU5KcF9pdWJLYm8?oc=5)
+
+2026-05-05 <span class="news-indication-tag">EPOC</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcXVsN1pGQ2dPSDE4WGN6OS1hb2RoZFJlaGNyVkNteVE4RlN4SGFzVWJvNER2ZWVqdFBaWHlJcl9TaTl1Z184aFgtS2xqRXRKOHZpNjBYWE9DMGJnTGc2QmR6VDNfdmlxRGgzX0tycGxVakVVTjhPZDRsdGVZdkxTNjR3YzZvZk9hNjlwUUgyTkJkVXhPTXpBM1BXcnRpSDVjZGc3bDcwSF9yUzQweG5TRDhTTWhmbUN0aWNiZzdkc2tVZXVWNVE4eXljbzhjQmY5UmYxdWVqdDBEMXZmakNxejU3T0pHODdUdWNhQjVaVnlKZThqVU5KcF9pdWJLYm8?oc=5)
+
+---
 
 
 <div class="disclaimer">
